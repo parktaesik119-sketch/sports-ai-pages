@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AdGrid from '../components/AdGrid.astro';
+import Sidebar from '../components/Sidebar.astro';
+import BoardSection from '../components/BoardSection.astro';
+---
+
+<BaseLayout>
+  <div class="container">
+    <Sidebar />
+
+    <div class="content-wrapper">
+      <AdGrid />
+
+      <div class="board-grid">
+        <BoardSection category="soccer" title="축구" />
+        <BoardSection category="baseball" title="야구" />
+        <BoardSection category="basketball" title="농구" />
+        <BoardSection category="volleyball" title="배구" />
+        <BoardSection category="hockey" title="하키" />
+        <BoardSection category="lol" title="LoL" />
+      </div>
+    </div>
+  </div>
+</BaseLayout>

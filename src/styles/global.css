@@ -1,0 +1,552 @@
+/* --- 0. 폰트 --- */
+@font-face {
+    font-family: 'A2z';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2601-6@1.0/에이투지체-2ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A2z';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2601-6@1.0/에이투지체-5Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@import url('https://cdn.jsdelivr.net/npm/pretendard/dist/web/static/pretendard.css');
+
+:root {
+  --bg-color: #f4f6f9;
+  --card-bg: #ffffff;
+  --border-color: #e1e4e8;
+  --text-main: #222;
+  --text-sub: #888;
+  --hover-bg: #f5f7fa;
+}
+
+/* --- 1. 기본 --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+}
+
+/* --- 2. 헤더 --- */
+.header {
+  width: 100%;
+  background-color: var(--card-bg);
+  border-bottom: 1px solid var(--border-color);
+
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* 🔥 여기에 추가 */
+.logo,
+.nav a,
+.board-header h2 {
+  font-family: 'A2z', sans-serif;
+}
+
+.header-container {
+  max-width: 1200px; /* 🔥 수정 */
+  margin: 0 auto;
+  padding: 0 20px;
+  height: 70px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* 로고 */
+.logo {
+  font-size: 26px;
+  font-weight: 500;
+  color: #000;
+  text-decoration: none;
+}
+
+/* 메뉴 */
+.nav {
+  display: flex;
+  gap: 35px;
+}
+
+.nav a {
+  position: relative;
+  text-decoration: none;
+  color: var(--text-main);
+  font-size: 15px;
+
+  font-weight: 500; /* 🔥 항상 굵게 */
+}
+
+/* hover */
+.nav a:hover {
+  color: #000;
+}
+
+/* 밑줄 */
+.nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0%;
+  height: 1px;
+  background: #000;
+  transition: width 0.25s ease;
+}
+
+.nav a:hover::after {
+  width: 100%;
+}
+
+/* active */
+.nav a.active::after {
+  width: 100%;
+}
+
+/* --- 3. 레이아웃 --- */
+.container {
+  display: flex;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+/* 🔥 사이드바 (핵심 수정) */
+.sidebar {
+  width: 300px;
+  flex-shrink: 0;
+
+  position: sticky;
+  top: 90px;
+
+  align-self: flex-start;
+
+  height: fit-content; /* 🔥 핵심 */
+}
+
+/* 콘텐츠 */
+.content-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* --- 4. 게시판 그리드 --- */
+.board-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+/* --- 5. 게시판 --- */
+.board {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: 0.2s;
+}
+
+.board:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* 헤더 */
+.board-header {
+  padding: 10px 14px;
+  background: #fafbfc;
+  border-bottom: 1px solid var(--border-color);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.board-header h2 {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* 리스트 */
+.board-list {
+  list-style: none;
+}
+
+.board-list li {
+  border-bottom: 1px solid #f1f3f5;
+}
+
+.board-list li:last-child {
+  border-bottom: none;
+}
+
+/* --- 게시판 리스트 (또렷하게 개선) --- */
+.board-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 7px 12px;
+  font-size: 13px;
+
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+
+  /* 🔥 핵심 수정 */
+  font-weight: 500;                 /* 400 → 500 (가장 중요) */
+  color: #111;                      /* 더 진한 색 */
+  letter-spacing: -0.2px;           /* 가독성 개선 */
+
+  -webkit-font-smoothing: auto;     /* 흐림 제거 */
+  -moz-osx-font-smoothing: auto;
+
+  text-decoration: none;
+
+  transition: background 0.15s;
+}
+
+.board-list a:hover {
+  background: var(--hover-bg);
+}
+
+/* 제목 */
+.post-title {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+
+  font-weight: 500; /* 🔥 추가 */
+}
+
+/* 날짜 */
+.post-date {
+  font-size: 11px;
+  color: var(--text-sub);
+}
+
+/* NEW */
+.new-badge {
+  font-size: 10px;
+  background: #ff3b30;
+  color: #fff;
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+/* 댓글 */
+.comment-count {
+  font-size: 11px;
+  color: #ff3b30;
+}
+
+/* --- 6. 사이드 박스 --- */
+.sp-sidebar-box {
+  background: #fff;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+/* --- 7. 푸터 --- */
+.footer {
+  margin-top: 40px;
+  border-top: 1px solid var(--border-color);
+  padding: 30px 0;
+  background-color: #fff;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-info {
+  color: var(--text-sub);
+  font-size: 13px;
+}
+
+/* --- 8. 반응형 --- */
+@media (max-width: 1024px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    position: static;
+  }
+
+  .board-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =========================
+   🔥 사이트 전체 UI 업그레이드
+   ========================= */
+
+/* 카드 공통 (게시판 포함) */
+.board {
+  background: #fff;
+  border-radius: 12px;
+  border: 1px solid #e1e4e8;
+  overflow: hidden;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+  transition: all 0.2s ease;
+}
+
+.board:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+/* 게시판 헤더 */
+.board-header {
+  position: relative;
+  padding: 14px;
+
+  background: linear-gradient(135deg, #f8fafc, #eef3f8);
+  border-bottom: 1px solid #e1e4e8;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* 게시판 제목 */
+.board-header h2 {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+/* 게시판 리스트 */
+.board-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 9px 12px;
+  font-size: 13px;
+
+  font-family: 'Pretendard', sans-serif;
+
+  font-weight: 500;
+  color: #111;
+
+  text-decoration: none;
+
+  transition: all 0.15s ease;
+}
+
+/* 리스트 hover */
+.board-list a:hover {
+  background: #f8fafc;
+  padding-left: 14px;
+}
+
+/* 버튼 스타일 */
+.btn {
+  background: linear-gradient(135deg, #4dabf7, #339af0);
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+
+  transition: all 0.2s;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(77,171,247,0.3);
+}
+
+/* 레이아웃 여백 개선 */
+.container {
+  gap: 24px;
+}
+
+.content-wrapper {
+  gap: 24px;
+}
+
+/* =========================
+   🔥 분석 게시판 카테고리 색상
+   ========================= */
+
+/* ⚽ 축구 */
+.board.soccer .board-header {
+  background: linear-gradient(135deg, #e8f8f0, #d1f2e0);
+}
+
+/* ⚾ 야구 */
+.board.baseball .board-header {
+  background: linear-gradient(135deg, #fff4e6, #ffe8cc);
+}
+
+/* 🏀 농구 */
+.board.basketball .board-header {
+  background: linear-gradient(135deg, #fff0f0, #ffd6d6);
+}
+
+/* 🏐 배구 */
+.board.volleyball .board-header {
+  background: linear-gradient(135deg, #f3f0ff, #e5dbff);
+}
+
+/* 🏒 하키 */
+.board.hockey .board-header {
+  background: linear-gradient(135deg, #eef1f5, #dde3ea);
+}
+
+/* 🎮 LoL */
+.board.lol .board-header {
+  background: linear-gradient(135deg, #fffbe6, #fff3bf);
+}
+
+/* =========================
+   🔥 게시판 아이콘 (포털 스타일)
+   ========================= */
+
+.board-header {
+  position: relative;
+  padding: 14px 16px 14px 90px; /* 🔥 왼쪽 공간 더 확보 */
+}
+
+/* 공통 아이콘 */
+.board-header::before {
+  content: "";
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+
+  width: 22px;
+  height: 22px;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* ⚽ 축구 */
+.board.soccer .board-header::before {
+  background-image: url('/icons/soccer.png');
+}
+
+/* ⚾ 야구 */
+.board.baseball .board-header::before {
+  background-image: url('/icons/baseball.png');
+}
+
+/* 🏀 농구 */
+.board.basketball .board-header::before {
+  background-image: url('/icons/basketball.png');
+}
+
+/* 🏐 배구 */
+.board.volleyball .board-header::before {
+  background-image: url('/icons/volleyball.png');
+}
+
+/* 🏒 하키 */
+.board.hockey .board-header::before {
+  background-image: url('/icons/hockey.png');
+}
+
+/* 🎮 LoL */
+.board.lol .board-header::before {
+  background-image: url('/icons/lol.png');
+}
+
+/* 🔥 리스트 hover */
+.board-list li {
+  transition: all 0.15s ease;
+}
+
+.board-list li:hover {
+  background: #f8fafc;
+  padding-left: 4px;
+}
+
+/* 🔥 제목 hover */
+.title-link:hover .text-content {
+  text-decoration: underline;
+}
+
+/* 🔥 NEW 뱃지 */
+.new-badge {
+  background: linear-gradient(135deg, #ff3b30, #ff6a6a);
+  box-shadow: 0 2px 6px rgba(255,59,48,0.3);
+}
+
+/* 🔥 모두보기 버튼 */
+.more-btn {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.more-btn::after {
+  content: "›";
+  font-size: 14px;
+}
+
+/* 🔥 아이콘과 제목 겹침 방지 */
+.board-header::before {
+  z-index: 1;
+}
+
+.board-header h2 {
+  position: relative;
+  z-index: 2;
+}
+
+/* 🔥 아이콘 겹침 강제 해결 */
+.board .board-header {
+  padding-left: 60px !important;
+}
+
+.board .board-header::before {
+  left: 20px !important;
+}
+
+.board-header::before {
+  opacity: 0.9;
+}
+
+.board-header h2 {
+  transition: all 0.2s ease;
+}
+
+.board:hover .board-header h2 {
+  transform: translateX(2px);
+}

@@ -1,0 +1,177 @@
+---
+// index.astro에서 전달받는 props: category(종목코드), title(한글종목명)
+const { category, title } = Astro.props;
+
+/**
+ * 날짜 비교 로직
+ * 현재 시간을 기준으로 '오늘' 날짜(MM.DD)를 생성하여 게시글 날짜와 비교합니다.
+ */
+const now = new Date();
+const month = String(now.getMonth() + 1).padStart(2, '0');
+const day = String(now.getDate()).padStart(2, '0');
+const todayStr = `${month}.${day}`; // 예: "03.30"
+
+// 게시글 데이터 (실제 운영 시에는 getCollection 등으로 Markdown 데이터를 가져오게 됩니다)
+const posts = [
+  { title: `덴버 vs 골든스테이트 통계 분석 | NBA`, date: '03.30' },
+  { title: `[남자V리그] 3월29일 우리카드 vs 현대캐피탈`, date: '03.29' },
+  { title: `[WKBL] 3월29일 하나은행 vs KB스타즈`, date: '03.29' },
+  { title: `청주 vs 부산 통계 분석 | K리그2`, date: '03.29' },
+];
+---
+
+<section class={`board ${category}`}>
+  <div class="board-header">
+    <h2>{title}분석</h2>
+    <a href={`/category/${category}`} class="more-btn">모두보기</a>
+  </div>
+  
+  <ul class="board-list">
+    {posts.map(post => {
+      const isNew = post.date === todayStr;
+      return (
+        <li>
+          <a href="#" class="title-link">
+            <span class="title-wrapper">
+              {isNew && <span class="new-badge">N</span>}
+              <span class="site-tag">[스포날]</span>
+              <span class="text-content">{post.title}</span>
+            </span>
+          </a>
+          <span class="post-date">{post.date}</span>
+        </li>
+      );
+    })}
+  </ul>
+</section>
+
+<style>
+  .board {
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid #e1e4e8;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    transition: all 0.2s ease;
+  }
+
+  .board:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  }
+
+  /* 🔥 헤더 (그라데이션 적용) */
+  .board-header {
+    padding: 14px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background: linear-gradient(135deg, #ffffff 0%, #f5f7fa 100%);
+    border-bottom: 1px solid #e1e4e8;
+  }
+
+  /* 🔥 hover 시 살짝 강조 */
+  .board:hover .board-header {
+    background: linear-gradient(135deg, #f8fafc 0%, #eef3f8 100%);
+  }
+
+  /* 제목 */
+  .board-header h2 {
+    font-family: 'A2z', sans-serif;
+    margin: 0;
+    font-size: 17px;
+    font-weight: 600;
+    color: #111;
+  }
+
+  /* 🔥 버튼 업그레이드 */
+  .more-btn {
+    font-family: 'A2z', sans-serif;
+    font-size: 12px;
+
+    background: linear-gradient(135deg, #4dabf7, #339af0);
+    color: #fff;
+
+    padding: 4px 8px;
+    border-radius: 6px;
+    text-decoration: none;
+
+    transition: all 0.2s;
+  }
+
+  .more-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 3px 8px rgba(77,171,247,0.3);
+  }
+
+  .board-list {
+    list-style: none;
+    padding: 6px 15px;
+    margin: 0;
+  }
+
+  /* 🔥 리스트 개선 (흐림 해결 핵심) */
+  .board-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+
+    font-weight: 400; /* 🔥 200 → 400 */
+  }
+
+  .board-list li:last-child {
+    border-bottom: none;
+  }
+
+  .title-link {
+    flex: 1;
+    text-decoration: none;
+    color: #111; /* 🔥 더 진하게 */
+    overflow: hidden;
+  }
+
+  .title-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  /* 🔥 텍스트 선명하게 */
+  .text-content {
+    font-size: 13px;
+    font-weight: 500; /* 🔥 300 → 500 */
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .new-badge {
+    background: linear-gradient(135deg, #ff3b30, #ff6a6a);
+    color: #ffffff;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 1px 4px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+
+  .site-tag {
+    color: #e74c3c;
+    font-weight: 600;
+    font-size: 12px;
+    flex-shrink: 0;
+    margin-right: 2px;
+  }
+
+  .post-date {
+    font-size: 12px;
+    color: #777;
+    flex-shrink: 0;
+    font-weight: 400;
+  }
+</style>

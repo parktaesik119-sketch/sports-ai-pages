@@ -1,0 +1,39 @@
+---
+import "../styles/global.css";
+
+const { url } = Astro;
+const currentPath = url.pathname;
+---
+
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>스포츠 분석</title>
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="header-container">
+
+        <!-- 로고 -->
+        <a href="/" class="logo">SPORTS AI</a>
+
+        <!-- 메뉴 -->
+        <nav class="nav">
+          <a href="/" class={currentPath === "/" ? "active" : ""}>공지사항</a>
+          <a href="/category/soccer" class={currentPath.includes("soccer") ? "active" : ""}>축구</a>
+          <a href="/category/baseball" class={currentPath.includes("baseball") ? "active" : ""}>야구</a>
+          <a href="/category/basketball" class={currentPath.includes("basketball") ? "active" : ""}>농구</a>
+          <a href="/category/volleyball" class={currentPath.includes("volleyball") ? "active" : ""}>배구</a>
+          <a href="/category/hockey" class={currentPath.includes("hockey") ? "active" : ""}>하키</a>
+          <a href="/category/lol" class={currentPath.includes("lol") ? "active" : ""}>LoL</a>
+        </nav>
+
+      </div>
+    </header>
+
+    <main class="container">
+      <slot />
+    </main>
+  </body>
+</html>
