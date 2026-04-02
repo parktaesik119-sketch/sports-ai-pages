@@ -14,16 +14,23 @@ try {
   recentPosts = [];
 }
 
-const notices = [
-  { id: 1, title: '제휴종료 보증업체 리스트', commentCount: 8 },
-  { id: 2, title: '일부 회원분들의 접속 차단 관련...', commentCount: 23 },
-];
+let notices = [];
+try {
+  const allNotices = await getCollection('notice');
+
+  notices = allNotices
+    .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
+    .slice(0, 5);
+} catch (e) {
+  notices = [];
+}
 
 const now = new Date();
 const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
 ---
 
 <aside class="sidebar">
+  <!-- 🔴 공지사항 -->
   <section class="sp-sidebar-box">
     <div class="box-header notice-header">
       <div class="header-content">
@@ -31,15 +38,19 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
         <h2>공지사항</h2>
       </div>
     </div>
+
     <ul class="notice-list">
-      {notices.map((notice) => (
-        <li>
-          <a href={`/notice/${notice.id}`} class="notice-link">
-            <span class="notice-title">{notice.title}</span>
-            <span class="comment-count">[{notice.commentCount}]</span>
-          </a>
-        </li>
-      ))}
+      {notices.length > 0 ? (
+        notices.map((notice) => (
+          <li>
+            <a href="#" class="notice-link">
+              <span class="notice-title">{notice.data.title}</span>
+            </a>
+          </li>
+        ))
+      ) : (
+        <li class="no-data">공지사항이 없습니다.</li>
+      )}
     </ul>
   </section>
 
@@ -223,7 +234,7 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
     text-decoration: none;
 
     color: #111;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
 
     border-bottom: 1px solid #f0f0f0;
@@ -271,12 +282,12 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   .comment-count {
     color: #ff3b30;
     margin-left: 5px;
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 600;
   }
 
   .date {
-    font-size: 11px;
+    font-size: 12px;
     color: #999;
     margin-left: 8px;
   }

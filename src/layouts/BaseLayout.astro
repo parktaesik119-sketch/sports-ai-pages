@@ -8,19 +8,23 @@ const currentPath = url.pathname;
 <html lang="ko">
   <head>
     <meta charset="UTF-8" />
-    <title>스포츠 분석</title>
+    <title>픽천국 - 스포츠 분석</title>
   </head>
 
   <body>
     <header class="header">
       <div class="header-container">
 
-        <!-- 로고 -->
-        <a href="/" class="logo">SPORTS AI</a>
+        <!-- 🔥 로고 -->
+        <a href="/" class="logo">
+          <span class="logo-main">픽천국</span>
+          <span class="logo-sub">PICK HEAVEN</span>
+        </a>
 
         <!-- 메뉴 -->
         <nav class="nav">
           <a href="/" class={currentPath === "/" ? "active" : ""}>공지사항</a>
+          <a href="/partners" class={currentPath.startsWith('/partners') ? 'active' : ''}>제휴업체</a>
           <a href="/category/soccer" class={currentPath.includes("soccer") ? "active" : ""}>축구</a>
           <a href="/category/baseball" class={currentPath.includes("baseball") ? "active" : ""}>야구</a>
           <a href="/category/basketball" class={currentPath.includes("basketball") ? "active" : ""}>농구</a>
@@ -37,3 +41,141 @@ const currentPath = url.pathname;
     </main>
   </body>
 </html>
+
+<style>
+.header {
+  background: #ffffff;
+  border-bottom: 1px solid #eaecef;
+}
+
+.header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 14px 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* 🔥 로고 */
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 👈 핵심 (가로 중앙) */
+  text-align: center;  /* 👈 핵심 (텍스트 중앙) */
+  text-decoration: none;
+  line-height: 1;
+  position: relative;
+}
+
+/* 🔥 메인 로고 */
+.logo-main {
+  font-family: 'A2z', sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  color: #3b82f6; /* 👈 파란계열 유지 가능 */
+
+  letter-spacing: 1px;
+  position: relative;
+}
+
+/* 🔥 왼쪽 날개 */
+.logo-main::before {
+  content: "🪽";
+  position: absolute;
+  left: -32px;
+  top: 2px;
+  font-size: 25px;  
+  transform: scaleX(-1); /* 좌우 반전 */
+  opacity: 0.9;
+
+  animation: wing-right 1.2s infinite ease-in-out; /* 👈 이거 추가 */
+}
+
+/* 🔥 오른쪽 날개 */
+.logo-main::after {
+  content: "🪽";
+  position: absolute;
+  right: -32px;
+  top: 2px;
+  font-size: 25px;
+  opacity: 0.9;
+
+  animation: wing-left 1.2s infinite ease-in-out; /* 👈 이거 추가 */
+}
+
+/* 🔥 왼쪽 날개 애니메이션 */
+@keyframes wing-left {
+  0%, 100% {
+    transform: translateY(0) rotate(-5deg);
+  }
+  50% {
+    transform: translateY(-3px) rotate(-15deg);
+  }
+}
+
+/* 🔥 오른쪽 날개 애니메이션 */
+@keyframes wing-right {
+  0%, 100% {
+    transform: scaleX(-1) translateY(0) rotate(-5deg);
+  }
+  50% {
+    transform: scaleX(-1) translateY(-3px) rotate(-15deg);
+  }
+}
+
+/* 🔥 서브 텍스트 */
+.logo-sub {
+  font-size: 10px;
+  color: #888;
+  margin-top: 3px;
+  letter-spacing: 2px;
+}
+
+/* 🔥 hover 효과 */
+.logo:hover .logo-main {
+  transform: scale(1.05);
+  transition: 0.2s;
+}
+
+/* 🔥 메뉴 */
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.nav a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #333;
+  font-weight: 500;
+  position: relative;
+}
+
+.nav a:hover {
+  color: #3b82f6;
+}
+
+.nav a.active {
+  color: #3b82f6;
+  font-weight: 700;
+}
+
+.nav a.active::after {
+  content: "";
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: #3b82f6;
+}
+
+/* 🔥 메인 */
+.container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+</style>

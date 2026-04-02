@@ -1,0 +1,22 @@
+---
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('free');
+
+// 최신순 정렬
+const sortedPosts = posts.sort((a, b) => {
+  return new Date(b.data.date) - new Date(a.data.date);
+});
+---
+
+<h1>자유게시판</h1>
+
+<ul>
+  {sortedPosts.map((post) => (
+    <li>
+      <a href={`/free/${post.slug}`}>
+        {post.data.title}
+      </a>
+    </li>
+  ))}
+</ul>
