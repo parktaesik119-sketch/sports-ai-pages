@@ -5,10 +5,14 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 export async function getStaticPaths() {
   const items = await getCollection('notice');
 
-  return items.map((item) => ({
-    params: { slug: item.slug },
-    props: { item },
-  }));
+  return items.map((item) => {
+    const slug = item.data.slug ?? item.slug;
+
+    return {
+      params: { slug },
+      props: { item },
+    };
+  });
 }
 
 const { item } = Astro.props;
@@ -18,7 +22,9 @@ const { Content } = await item.render();
 <BaseLayout>
   <article style="padding:20px;">
     <h1>{item.data.title}</h1>
-    <p style="color:gray;">{item.data.date}</p>
+    <p style="color:gray;">
+      {new Date(item.data.date).toLocaleDateString()}
+    </p>
     <hr />
     <Content />
   </article>

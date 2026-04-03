@@ -18,9 +18,11 @@ let notices = [];
 try {
   const allNotices = await getCollection('notice');
 
-  notices = allNotices
-    .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
-    .slice(0, 5);
+  if (allNotices && allNotices.length > 0) {
+    notices = allNotices
+      .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf())
+      .slice(0, 5);
+  }
 } catch (e) {
   notices = [];
 }
@@ -41,24 +43,29 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
 
     <ul class="notice-list">
       {notices.length > 0 ? (
-        notices.map((notice) => (
-          <li>
-            <!-- 🔥 여기 수정됨 -->
-            <a href={`/notice/${notice.slug}`} class="notice-link">
-              <span class="notice-title">{notice.data.title}</span>
-            </a>
-          </li>
-        ))
+        notices.map((notice) => {
+          const slug = notice.data.slug ?? notice.slug;
+
+          return (
+            <li>
+              <a href={`/notice/${slug}`} class="notice-link">
+                <span class="notice-title">{notice.data.title}</span>
+              </a>
+            </li>
+          );
+        })
       ) : (
         <li class="no-data">공지사항이 없습니다.</li>
       )}
     </ul>
   </section>
 
+  <!-- 배너 -->
   <a href="https://t.me/SPONAL79" class="sp-banner-link" target="_blank">
     <img src="/images/contact_id_banner.png" alt="텔레그램 고객센터" />
   </a>
 
+  <!-- 🔵 최신 분석글 -->
   <section class="sp-sidebar-box">
     <div class="box-header recent-header">
       <div class="header-content">
@@ -72,9 +79,11 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
         recentPosts.map((post) => {
           const d = new Date(post.data.date);
           const dateStr = `${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
+          const slug = post.data.slug ?? post.slug;
+
           return (
             <li>
-              <a href={`/posts/${post.slug}`} class="recent-post-link">
+              <a href={`/posts/${slug}`} class="recent-post-link">
                 <span class="post-title">{post.data.title}</span>
                 {dateStr === today && <span class="new-icon">N</span>}
                 <span class="date">{dateStr}</span>
@@ -90,8 +99,8 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
 </aside>
 
 <style>
-/* 기존 스타일 그대로 유지 */
 .sidebar { font-family: 'Pretendard', sans-serif; }
+
 .sp-sidebar-box {
   background: #fff;
   border: 1px solid #e1e4e8;
@@ -99,6 +108,7 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
+
 .box-header {
   height: 80px;
   position: relative;
@@ -107,10 +117,13 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   justify-content: center;
   overflow: hidden;
 }
+
+/* 공지 */
 .notice-header {
   background: linear-gradient(135deg, #ff6a6a, #ff3d3d);
   color: #fff;
 }
+
 .notice-header::before {
   content: "";
   position: absolute;
@@ -122,9 +135,8 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   background: url('/icons/megaphone.png') no-repeat center;
   background-size: contain;
   opacity: 0.95;
-  z-index: 2;
-  transition: transform 0.3s ease;
 }
+
 .notice-header::after {
   content: "";
   position: absolute;
@@ -133,13 +145,14 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   width: 200%;
   height: 200%;
   background: radial-gradient(circle, rgba(255,255,255,0.25) 0%, transparent 60%);
-  transform: rotate(25deg);
-  z-index: 1;
 }
+
+/* 최신글 */
 .recent-header {
   background: linear-gradient(135deg, #9fd8ff, #4dabf7);
   color: #0b3d5c;
 }
+
 .recent-header::before {
   content: "";
   position: absolute;
@@ -150,10 +163,8 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   height: 60px;
   background: url('/icons/post.png') no-repeat center;
   background-size: contain;
-  opacity: 0.9;
-  z-index: 2;
-  transition: transform 0.3s ease;
 }
+
 .recent-header::after {
   content: "";
   position: absolute;
@@ -162,17 +173,16 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   width: 200%;
   height: 200%;
   background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, transparent 60%);
-  transform: rotate(25deg);
-  z-index: 1;
 }
+
 .box-header h2 {
   font-family: 'A2z', sans-serif;
   font-size: 18px;
   font-weight: 700;
   margin: 0;
-  position: relative;
-  z-index: 3;
+  z-index: 2;
 }
+
 .header-icon { display: none; }
 
 .notice-list,
@@ -194,11 +204,13 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   align-items: center;
   transition: all 0.15s;
 }
+
 .notice-link:hover,
 .recent-post-link:hover {
   background: #f8fafc;
   padding-left: 16px;
 }
+
 .notice-title,
 .post-title {
   flex-grow: 1;
@@ -206,6 +218,7 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
 .new-icon {
   background: linear-gradient(135deg, #ff3b30, #ff6a6a);
   color: #fff;
@@ -214,17 +227,20 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   border-radius: 4px;
   margin-left: 5px;
 }
+
 .date {
   font-size: 12px;
   color: #999;
   margin-left: 8px;
 }
+
 .no-data {
   padding: 30px 15px;
   font-size: 13px;
   color: #999;
   text-align: center;
 }
+
 .sp-banner-link img {
   width: 100%;
   border-radius: 10px;
