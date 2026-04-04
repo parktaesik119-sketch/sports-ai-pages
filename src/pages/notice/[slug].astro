@@ -1,31 +1,156 @@
 ---
-import { getCollection } from 'astro:content';
+// src/pages/notice/[slug].astro
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
 
 export async function getStaticPaths() {
   const items = await getCollection('notice');
-
-  return items.map((item) => {
-    const slug = item.data.slug ?? item.slug;
-
-    return {
-      params: { slug },
-      props: { item },
-    };
-  });
+  return items.map((item) => ({
+    params: { slug: item.data.slug ?? item.id },
+    props: { item },
+  }));
 }
 
 const { item } = Astro.props;
-const { Content } = await item.render();
+const { Content } = await render(item);
 ---
 
-<BaseLayout>
-  <article style="padding:20px;">
-    <h1>{item.data.title}</h1>
-    <p style="color:gray;">
-      {new Date(item.data.date).toLocaleDateString()}
-    </p>
-    <hr />
-    <Content />
-  </article>
+<BaseLayout title={`${item.data.title} - 공지사항`}>
+  <div class="main-layout-container">
+    <div class="sidebar-area">
+      <Sidebar />
+    </div>
+
+    <main class="content-area">
+      <article class="board-card detail-view">
+        <header class="detail-header">
+          <div class="category-badge">공지사항</div>
+          <h1>{item.data.title}</h1>
+          <div class="post-meta">
+            <span class="date">작성일: {new Date(item.data.date).toLocaleDateString('ko-KR')}</span>
+          </div>
+        </header>
+
+        <div class="detail-content">
+          <div class="prose">
+            <Content />
+          </div>
+        </div>
+
+        <footer class="detail-footer">
+          <a href="/notice" class="back-btn">목록으로 돌아가기</a>
+        </footer>
+      </article>
+    </main>
+  </div>
 </BaseLayout>
+
+<style>
+  /* 1. 레이아웃: 목록 페이지와 100% 동일하게 설정 */
+  .main-layout-container {
+    display: flex !important;
+    flex-direction: row;
+    gap: 30px;            /* 요청하신 40px 반영 */
+    max-width: 1260px;    /* 요청하신 1260px 반영 */
+    margin: 20px auto;
+    padding: 0 15px;
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .sidebar-area {
+    width: 280px;
+    flex-shrink: 0;
+  }
+
+  .content-area {
+    flex: 1;
+    min-width: 0;
+  }
+
+  /* 2. 게시판 상세 디자인 */
+  .board-card {
+    background: #fff;
+    border-radius: 12px;
+    border: 1px solid #e1e4e8;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+
+  .detail-header {
+    padding: 30px 30px 20px;
+    border-bottom: 1px solid #f1f3f5;
+  }
+
+  .category-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    background: #e7f5ff;
+    color: #228be6;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .detail-header h1 {
+    font-size: 1.8rem;
+    color: #111;
+    margin-bottom: 15px;
+    line-height: 1.3;
+  }
+
+  .post-meta {
+    color: #868e96;
+    font-size: 0.9rem;
+  }
+
+  .detail-content {
+    padding: 30px;
+    min-height: 300px;
+  }
+
+  /* 마크다운 본문 스타일 */
+  .prose {
+    line-height: 1.8;
+    font-size: 1.05rem;
+    color: #333;
+  }
+
+  .detail-footer {
+    padding: 20px 30px;
+    background: #f8fafc;
+    border-top: 1px solid #f1f3f5;
+    text-align: center;
+  }
+
+  .back-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #495057;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: background 0.2s;
+  }
+
+  .back-btn:hover {
+    background: #343a40;
+  }
+
+  /* 3. 모바일 대응 */
+  @media (max-width: 1024px) {
+    .main-layout-container {
+      flex-direction: column;
+      gap: 20px;
+    }
+    .sidebar-area {
+      width: 100%;
+    }
+    .detail-header h1 {
+      font-size: 1.5rem;
+    }
+  }
+</style>

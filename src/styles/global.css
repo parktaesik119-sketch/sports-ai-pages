@@ -1,3 +1,6 @@
+/* src/styles/global.css */
+@import url('https://cdn.jsdelivr.net/npm/pretendard/dist/web/static/pretendard.css');
+
 /* --- 0. 폰트 --- */
 @font-face {
     font-family: 'A2z';
@@ -13,7 +16,7 @@
     font-display: swap;
 }
 
-@import url('https://cdn.jsdelivr.net/npm/pretendard/dist/web/static/pretendard.css');
+
 
 :root {
   --bg-color: #f4f6f9;

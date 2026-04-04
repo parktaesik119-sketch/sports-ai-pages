@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const partners = await getCollection('partners');
+---
+
+<BaseLayout>
+  <section style="padding:20px;">
+    <h1>제휴업체</h1>
+
+    {partners.length === 0 ? (
+      <p>등록된 제휴업체가 없습니다.</p>
+    ) : (
+      <ul>
+        {partners.map((item) => {
+          const slug = item.data.slug ?? item.slug;
+
+          return (
+            <li>
+              <a href={`/partners/${slug}`}>
+                {item.data.title}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    )}
+  </section>
+</BaseLayout>

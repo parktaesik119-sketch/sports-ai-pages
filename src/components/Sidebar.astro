@@ -2,6 +2,7 @@
 // Sidebar.astro
 import { getCollection } from 'astro:content';
 
+/* 🔵 데이터 가져오기 로직 (유지) */
 let recentPosts = [];
 try {
   const allPosts = await getCollection('posts');
@@ -10,96 +11,78 @@ try {
       .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf())
       .slice(0, 10);
   }
-} catch (e) {
-  recentPosts = [];
-}
+} catch (e) { recentPosts = []; }
 
 let notices = [];
 try {
   const allNotices = await getCollection('notice');
-
   if (allNotices && allNotices.length > 0) {
     notices = allNotices
       .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf())
       .slice(0, 5);
   }
-} catch (e) {
-  notices = [];
-}
+} catch (e) { notices = []; }
 
 const now = new Date();
 const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
 ---
 
 <aside class="sidebar">
-  <!-- 🔴 공지사항 -->
+
   <section class="sp-sidebar-box">
     <div class="box-header notice-header">
       <div class="header-content">
-        <img src="/icons/notice.png" alt="" class="header-icon" />
         <h2>공지사항</h2>
       </div>
     </div>
-
     <ul class="notice-list">
-      {notices.length > 0 ? (
-        notices.map((notice) => {
-          const slug = notice.data.slug ?? notice.slug;
-
-          return (
-            <li>
-              <a href={`/notice/${slug}`} class="notice-link">
-                <span class="notice-title">{notice.data.title}</span>
-              </a>
-            </li>
-          );
-        })
-      ) : (
-        <li class="no-data">공지사항이 없습니다.</li>
-      )}
+      {notices.length > 0 ? notices.map((notice) => (
+        <li>
+          <a href={`/notice/${notice.data.slug ?? notice.slug}`} class="notice-link">
+            <span class="notice-title">{notice.data.title}</span>
+          </a>
+        </li>
+      )) : <li class="no-data">공지사항이 없습니다.</li>}
     </ul>
   </section>
 
-  <!-- 배너 -->
-  <a href="https://t.me/SPONAL79" class="sp-banner-link" target="_blank">
-    <img src="/images/contact_id_banner.png" alt="텔레그램 고객센터" />
-  </a>
+  <div class="sidebar-banner-area">
+    <a href="https://t.me/SPONAL79" class="sp-banner-link" target="_blank">
+      <img src="/images/contact_id_banner.png" alt="텔레그램 고객센터" />
+    </a>
+  </div>
 
-  <!-- 🔵 최신 분석글 -->
   <section class="sp-sidebar-box">
     <div class="box-header recent-header">
       <div class="header-content">
-        <img src="/icons/post.png" alt="" class="header-icon" />
         <h2>최신 분석글</h2>
       </div>
     </div>
-
     <ul class="recent-post-list">
-      {recentPosts.length > 0 ? (
-        recentPosts.map((post) => {
-          const d = new Date(post.data.date);
-          const dateStr = `${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
-          const slug = post.data.slug ?? post.slug;
-
-          return (
-            <li>
-              <a href={`/posts/${slug}`} class="recent-post-link">
-                <span class="post-title">{post.data.title}</span>
-                {dateStr === today && <span class="new-icon">N</span>}
-                <span class="date">{dateStr}</span>
-              </a>
-            </li>
-          );
-        })
-      ) : (
-        <li class="no-data">등록된 분석글이 없습니다.</li>
-      )}
+      {recentPosts.length > 0 ? recentPosts.map((post) => {
+        const d = new Date(post.data.date);
+        const dateStr = `${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
+        return (
+          <li>
+            <a href={`/posts/${post.data.slug ?? post.slug}`} class="recent-post-link">
+              <span class="post-title">{post.data.title}</span>
+              {dateStr === today && <span class="new-icon">N</span>}
+              <span class="date">{dateStr}</span>
+            </a>
+          </li>
+        );
+      }) : <li class="no-data">등록된 분석글이 없습니다.</li>}
     </ul>
   </section>
+
 </aside>
 
 <style>
-.sidebar { font-family: 'Pretendard', sans-serif; }
+.sidebar {
+  width: 280px; 
+  flex-shrink: 0;
+  font-family: 'Pretendard', sans-serif;
+}
 
 .sp-sidebar-box {
   background: #fff;
@@ -107,6 +90,40 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  margin-bottom: 10px;
+}
+
+.sp-banner-link {
+  display: block;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+
+.sidebar-banner-area {
+  width: 100%;
+  margin-bottom: 10px; 
+}
+
+/* ✅ 배너 기본 */
+.sp-banner-link img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+/* ✅ 배너 hover 시 두근두근 효과 */
+.sp-banner-link:hover img {
+  animation: heartbeat 0.8s infinite;
+}
+
+/* 🔥 두근두근 애니메이션 */
+@keyframes heartbeat {
+  0% { transform: scale(1); }
+  25% { transform: scale(1.05); }
+  50% { transform: scale(1.1); }
+  75% { transform: scale(1.05); }
+  100% { transform: scale(1); }
 }
 
 .box-header {
@@ -118,12 +135,10 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   overflow: hidden;
 }
 
-/* 공지 */
-.notice-header {
-  background: linear-gradient(135deg, #ff6a6a, #ff3d3d);
-  color: #fff;
-}
+/* 🔴 공지 */
+.notice-header { background: linear-gradient(135deg, #ff6a6a, #ff3d3d); color: #fff; }
 
+/* 👉 아이콘 */
 .notice-header::before {
   content: "";
   position: absolute;
@@ -134,24 +149,16 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   height: 65px;
   background: url('/icons/megaphone.png') no-repeat center;
   background-size: contain;
-  opacity: 0.95;
+  transition: transform 0.3s ease;
 }
 
-.notice-header::after {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -20%;
-  width: 200%;
-  height: 200%;
-  background: radial-gradient(circle, rgba(255,255,255,0.25) 0%, transparent 60%);
+/* 🔥 hover 시 흔들림 */
+.notice-header:hover::before {
+  animation: shake 0.6s infinite;
 }
 
-/* 최신글 */
-.recent-header {
-  background: linear-gradient(135deg, #9fd8ff, #4dabf7);
-  color: #0b3d5c;
-}
+/* 🔵 분석글 */
+.recent-header { background: linear-gradient(135deg, #9fd8ff, #4dabf7); color: #0b3d5c; }
 
 .recent-header::before {
   content: "";
@@ -163,16 +170,31 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   height: 60px;
   background: url('/icons/post.png') no-repeat center;
   background-size: contain;
+  transition: transform 0.3s ease;
 }
 
-.recent-header::after {
+/* 🔥 hover 시 흔들림 */
+.recent-header:hover::before {
+  animation: shake 0.6s infinite;
+}
+
+/* 🔥 아이콘 흔들기 */
+@keyframes shake {
+  0% { transform: translateY(-50%) rotate(0deg); }
+  25% { transform: translateY(-50%) rotate(5deg); }
+  50% { transform: translateY(-50%) rotate(-5deg); }
+  75% { transform: translateY(-50%) rotate(3deg); }
+  100% { transform: translateY(-50%) rotate(0deg); }
+}
+
+.box-header::after {
   content: "";
   position: absolute;
   top: -50%;
   left: -20%;
   width: 200%;
   height: 200%;
-  background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, transparent 60%);
+  background: radial-gradient(circle, rgba(255,255,255,0.25) 0%, transparent 60%);
 }
 
 .box-header h2 {
@@ -183,40 +205,32 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   z-index: 2;
 }
 
-.header-icon { display: none; }
-
-.notice-list,
-.recent-post-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.notice-link,
-.recent-post-link {
+/* 리스트 및 마우스 오버 효과 (완전히 통일) */
+.notice-link, .recent-post-link {
   display: flex;
   padding: 11px 14px;
   text-decoration: none;
   color: #111;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 500; /* 👉 두께 통일 */
   border-bottom: 1px solid #f0f0f0;
   align-items: center;
   transition: all 0.15s;
 }
 
-.notice-link:hover,
-.recent-post-link:hover {
+.notice-link:hover, .recent-post-link:hover {
   background: #f8fafc;
-  padding-left: 16px;
+  padding-left: 20px;
 }
 
-.notice-title,
-.post-title {
+/* 🔥 핵심: 완전히 동일 스타일 적용 */
+.notice-title, .post-title {
   flex-grow: 1;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  font-size: 14px;
+  font-weight: 500; /* 👉 동일하게 맞춤 */
 }
 
 .new-icon {
@@ -241,9 +255,29 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   text-align: center;
 }
 
-.sp-banner-link img {
-  width: 100%;
-  border-radius: 10px;
-  display: block;
+/* 🔥 리스트 영역 높이 고정 + 스크롤 */
+.notice-list,
+.recent-post-list {
+  max-height: 260px;   /* 👉 원하는 높이 (조절 가능) */
+  overflow-y: auto;
 }
+
+/* 🔥 스크롤 디자인 (선택 - 깔끔하게) */
+.notice-list::-webkit-scrollbar,
+.recent-post-list::-webkit-scrollbar {
+  width: 6px;
+}
+
+.notice-list::-webkit-scrollbar-thumb,
+.recent-post-list::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.notice-list::-webkit-scrollbar-track,
+.recent-post-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
 </style>
+

@@ -5,9 +5,17 @@ const { url } = Astro;
 const currentPath = url.pathname;
 ---
 
+<!DOCTYPE html>
 <html lang="ko">
   <head>
+    <!-- 🔥 UTF-8 강제 -->
     <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- 🔥 반응형 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>픽천국 - 스포츠 분석</title>
   </head>
 
@@ -21,10 +29,15 @@ const currentPath = url.pathname;
           <span class="logo-sub">PICK HEAVEN</span>
         </a>
 
-        <!-- 메뉴 -->
+        <!-- 🔥 메뉴 -->
         <nav class="nav">
-          <a href="/" class={currentPath === "/" ? "active" : ""}>공지사항</a>
-          <a href="/partners" class={currentPath.startsWith('/partners') ? 'active' : ''}>제휴업체</a>
+          <!-- 공지 -->
+          <a href="/notice" class={currentPath.startsWith('/notice') ? "active" : ""}>공지사항</a>
+
+          <!-- 제휴 -->
+          <a href="/partners" class={currentPath.startsWith('/partners') ? "active" : ""}>제휴업체</a>
+
+          <!-- 카테고리 -->
           <a href="/category/soccer" class={currentPath.includes("soccer") ? "active" : ""}>축구</a>
           <a href="/category/baseball" class={currentPath.includes("baseball") ? "active" : ""}>야구</a>
           <a href="/category/basketball" class={currentPath.includes("basketball") ? "active" : ""}>농구</a>
@@ -62,8 +75,8 @@ const currentPath = url.pathname;
 .logo {
   display: flex;
   flex-direction: column;
-  align-items: center; /* 👈 핵심 (가로 중앙) */
-  text-align: center;  /* 👈 핵심 (텍스트 중앙) */
+  align-items: center;
+  text-align: center;
   text-decoration: none;
   line-height: 1;
   position: relative;
@@ -74,8 +87,7 @@ const currentPath = url.pathname;
   font-family: 'A2z', sans-serif;
   font-size: 28px;
   font-weight: 800;
-  color: #3b82f6; /* 👈 파란계열 유지 가능 */
-
+  color: #3b82f6;
   letter-spacing: 1px;
   position: relative;
 }
@@ -87,10 +99,9 @@ const currentPath = url.pathname;
   left: -32px;
   top: 2px;
   font-size: 25px;  
-  transform: scaleX(-1); /* 좌우 반전 */
+  transform: scaleX(-1);
   opacity: 0.9;
-
-  animation: wing-right 1.2s infinite ease-in-out; /* 👈 이거 추가 */
+  animation: wing-right 1.2s infinite ease-in-out;
 }
 
 /* 🔥 오른쪽 날개 */
@@ -101,11 +112,9 @@ const currentPath = url.pathname;
   top: 2px;
   font-size: 25px;
   opacity: 0.9;
-
-  animation: wing-left 1.2s infinite ease-in-out; /* 👈 이거 추가 */
+  animation: wing-left 1.2s infinite ease-in-out;
 }
 
-/* 🔥 왼쪽 날개 애니메이션 */
 @keyframes wing-left {
   0%, 100% {
     transform: translateY(0) rotate(-5deg);
@@ -115,7 +124,6 @@ const currentPath = url.pathname;
   }
 }
 
-/* 🔥 오른쪽 날개 애니메이션 */
 @keyframes wing-right {
   0%, 100% {
     transform: scaleX(-1) translateY(0) rotate(-5deg);
@@ -133,7 +141,7 @@ const currentPath = url.pathname;
   letter-spacing: 2px;
 }
 
-/* 🔥 hover 효과 */
+/* 🔥 hover */
 .logo:hover .logo-main {
   transform: scale(1.05);
   transition: 0.2s;
