@@ -34,11 +34,7 @@ const currentPath = url.pathname;
           <!-- 공지 -->
           <a href="/notice" class={currentPath.startsWith('/notice') ? "active" : ""}>공지사항</a>
 
-          <!-- 제휴 -->
-          {/* <a href="/partners" class={currentPath.startsWith('/partners') ? "active" : ""}>제휴업체</a> 
-         */}
-
-          <!-- 카테고리 -->
+         <!-- 카테고리 -->
           <a href="/category/soccer" class={currentPath.includes("soccer") ? "active" : ""}>축구</a>
           <a href="/category/baseball" class={currentPath.includes("baseball") ? "active" : ""}>야구</a>
           <a href="/category/basketball" class={currentPath.includes("basketball") ? "active" : ""}>농구</a>
