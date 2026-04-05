@@ -1,0 +1,97 @@
+---
+// src/pages/category/[category].astro
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+
+export async function getStaticPaths() {
+  // 상단 메뉴에 정의된 카테고리 목록
+  const categories = ['soccer', 'baseball', 'basketball', 'volleyball', 'hockey', 'lol'];
+  
+  return categories.map((category) => ({
+    params: { category },
+    props: { categoryName: category.toUpperCase() },
+  }));
+}
+
+const { category } = Astro.params;
+const { categoryName } = Astro.props;
+
+// 전체 분석글 중 해당 카테고리에 속한 글만 필터링
+const allPosts = await getCollection('posts');
+const filteredPosts = allPosts
+  .filter((post) => post.data.category === category)
+  .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+---
+
+<BaseLayout title={`${categoryName} 분석 - 픽천국`}>
+  <div class="main-layout-container">
+    <div class="sidebar-area">
+      <Sidebar />
+    </div>
+
+    <main class="content-area">
+      <section class="board-card">
+        <header class="board-header">
+          <h2>{categoryName} 분석글</h2>
+          <p>최신 스포츠 분석 정보를 확인하세요.</p>
+        </header>
+
+        <div class="post-list">
+          {filteredPosts.length > 0 ? (
+            filteredPosts.map((post) => (
+              <a href={`/posts/${post.data.slug ?? post.id}`} class="post-item">
+                <div class="post-info">
+                  <span class="post-title">{post.data.title}</span>
+                  <span class="post-date">
+                    {new Date(post.data.date).toLocaleDateString('ko-KR')}
+                  </span>
+                </div>
+              </a>
+            ))
+          ) : (
+            <div class="no-data">아직 등록된 분석글이 없습니다.</div>
+          )}
+        </div>
+      </section>
+    </main>
+  </div>
+</BaseLayout>
+
+<style>
+  /* 공지사항 상세페이지([slug].astro)와 동일한 레이아웃 유지 */
+  .main-layout-container {
+    display: flex;
+    gap: 30px;
+    max-width: 1260px;
+    margin: 20px auto;
+    padding: 0 15px;
+    align-items: flex-start;
+  }
+  .sidebar-area { width: 280px; flex-shrink: 0; }
+  .content-area { flex: 1; min-width: 0; }
+
+  .board-card {
+    background: #fff;
+    border-radius: 12px;
+    border: 1px solid #e1e4e8;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  .board-header { padding: 25px 30px; border-bottom: 2px solid #f8fafc; }
+  .board-header h2 { font-size: 1.5rem; color: #333; margin-bottom: 5px; }
+  .board-header p { color: #888; font-size: 0.9rem; }
+
+  .post-item {
+    display: block;
+    padding: 18px 30px;
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px solid #f1f3f5;
+    transition: background 0.2s;
+  }
+  .post-item:hover { background: #f8fafc; }
+  .post-info { display: flex; justify-content: space-between; align-items: center; }
+  .post-title { font-weight: 500; font-size: 1.05rem; }
+  .post-date { color: #999; font-size: 0.9rem; }
+  .no-data { padding: 50px; text-align: center; color: #999; }
+</style>
