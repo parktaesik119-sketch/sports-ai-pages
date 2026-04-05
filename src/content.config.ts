@@ -2,17 +2,27 @@
 import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
 
-// 🔵 분석글 컬렉션
+// 🔵 분석글
 const posts = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/posts" }),
   schema: z.object({
     title: z.string(),
-    date: z.coerce.date(), // 문자열이어도 날짜 객체로 변환해줌
+    date: z.coerce.date(),
     slug: z.string().optional(),
+
+    /* 🔥 카테고리 제한 (중요) */
+    category: z.enum([
+      'soccer',
+      'baseball',
+      'basketball',
+      'volleyball',
+      'hockey',
+      'lol'
+    ]),
   }),
 });
 
-// 🔴 공지사항 컬렉션
+// 🔴 공지사항
 const notice = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/notice" }),
   schema: z.object({
