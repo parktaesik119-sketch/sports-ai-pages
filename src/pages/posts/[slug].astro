@@ -1,33 +1,49 @@
 ---
-// src/pages/posts/[slug].astro 수정안
-import { getCollection } from 'astro:content';
+// src/pages/posts/[slug].astro
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
   
-  return posts.map((post) => {
-    // 1. post.data.slug 확인 -> 2. 파일명(post.id 또는 post.slug) 확인 -> 3. 없으면 'unknown'
-    const finalSlug = post.data.slug || post.id || post.slug || "unknown";
+  // 데이터가 없을 경우 빈 배열 반환
+  if (!posts || posts.length === 0) return [];
 
+  return posts.map((post) => {
+    // slug가 누락된 경우를 대비해 id를 사용
+    const slugValue = post.data.slug || post.id || "test-post";
+    
     return {
-      params: { slug: String(finalSlug) }, // slug를 문자열로 강제 변환
+      params: { slug: String(slugValue) },
       props: { post },
     };
   });
 }
 
 const { post } = Astro.props;
-const { Content } = await post.render();
+// 🔵 핵심 수정: post.render() 대신 render(post) 사용
+const { Content } = await render(post);
 ---
 
-<BaseLayout>
-  <article style="padding:20px;">
-    <h1>{post.data.title}</h1>
-    <p style="color:gray;">
-      {new Date(post.data.date).toLocaleDateString()}
-    </p>
-    <hr />
-    <Content />
+<BaseLayout title={post.data.title}>
+  <article style="padding:20px; max-width: 800px; margin: 0 auto;">
+    <header style="margin-bottom: 30px;">
+      <h1 style="font-size: 2rem; margin-bottom: 10px;">{post.data.title}</h1>
+      <p style="color:gray;">
+        작성일: {new Date(post.data.date).toLocaleDateString('ko-KR')}
+      </p>
+    </header>
+    <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;" />
+    <div class="prose">
+      <Content />
+    </div>
   </article>
 </BaseLayout>
+
+<style>
+  .prose {
+    line-height: 1.8;
+    font-size: 1.1rem;
+    color: #333;
+  }
+</style>
