@@ -1,15 +1,17 @@
 ---
+// src/pages/posts/[slug].astro 수정안
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
-
+  
   return posts.map((post) => {
-    const slug = post.data.slug ?? post.slug;
+    // 1. post.data.slug 확인 -> 2. 파일명(post.id 또는 post.slug) 확인 -> 3. 없으면 'unknown'
+    const finalSlug = post.data.slug || post.id || post.slug || "unknown";
 
     return {
-      params: { slug },
+      params: { slug: String(finalSlug) }, // slug를 문자열로 강제 변환
       props: { post },
     };
   });

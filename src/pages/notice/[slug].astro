@@ -6,10 +6,19 @@ import Sidebar from '../../components/Sidebar.astro';
 
 export async function getStaticPaths() {
   const items = await getCollection('notice');
-  return items.map((item) => ({
-    params: { slug: item.data.slug ?? item.id },
-    props: { item },
-  }));
+  
+  // 🔵 데이터가 없는 경우 빈 배열을 반환하여 빌드 에러 방지
+  if (!items || items.length === 0) return [];
+
+  return items.map((item) => {
+    // 🔵 slug가 누락된 경우를 대비해 id를 사용하고, 문자열임을 보장함
+    const slugValue = item.data.slug || item.id || "default-notice";
+    
+    return {
+      params: { slug: String(slugValue) },
+      props: { item },
+    };
+  });
 }
 
 const { item } = Astro.props;
@@ -47,12 +56,12 @@ const { Content } = await render(item);
 </BaseLayout>
 
 <style>
-  /* 1. 레이아웃: 목록 페이지와 100% 동일하게 설정 */
+  /* 기존 스타일 유지 */
   .main-layout-container {
     display: flex !important;
     flex-direction: row;
-    gap: 30px;            /* 요청하신 40px 반영 */
-    max-width: 1260px;    /* 요청하신 1260px 반영 */
+    gap: 30px;
+    max-width: 1260px;
     margin: 20px auto;
     padding: 0 15px;
     align-items: flex-start;
@@ -69,7 +78,6 @@ const { Content } = await render(item);
     min-width: 0;
   }
 
-  /* 2. 게시판 상세 디자인 */
   .board-card {
     background: #fff;
     border-radius: 12px;
@@ -111,7 +119,6 @@ const { Content } = await render(item);
     min-height: 300px;
   }
 
-  /* 마크다운 본문 스타일 */
   .prose {
     line-height: 1.8;
     font-size: 1.05rem;
@@ -140,7 +147,6 @@ const { Content } = await render(item);
     background: #343a40;
   }
 
-  /* 3. 모바일 대응 */
   @media (max-width: 1024px) {
     .main-layout-container {
       flex-direction: column;
