@@ -8,15 +8,34 @@ const currentPath = url.pathname;
 <!DOCTYPE html>
 <html lang="ko">
   <head>
-    <!-- 🔥 UTF-8 강제 -->
+    <!-- 🔥 기본 -->
     <meta charset="UTF-8" />
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- 🔥 반응형 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>픽천국 - 스포츠 분석</title>
+    <!-- 🔥 제목 -->
+    <title>{Astro.props.title}</title>
+
+    <!-- 🔥 SEO -->
+    <meta name="description" content={Astro.props.description ?? "스포츠 분석 및 추천픽 제공"} />
+    <meta name="keywords" content="스포츠 분석, 축구 분석, 야구 분석, 농구 픽, 토토 추천" />
+
+    <!-- 🔥 canonical (중요!!) -->
+    <link rel="canonical" href={Astro.url} />
+
+    <!-- 🔥 Open Graph -->
+    <meta property="og:title" content={Astro.props.title} />
+    <meta property="og:description" content={Astro.props.description ?? "스포츠 분석 사이트"} />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content={Astro.url} />
+
+    <!-- 🔥 썸네일 (없으면 기본 이미지 넣어도 됨) -->
+    <meta property="og:image" content="/og-default.jpg" />
+
+    <!-- 🔥 트위터 -->
+    <meta name="twitter:card" content="summary_large_image" />
   </head>
 
   <body>

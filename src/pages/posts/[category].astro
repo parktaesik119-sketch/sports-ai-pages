@@ -36,7 +36,7 @@ const filteredPosts = allPosts
           <ul class="notice-list-full">
             {filteredPosts.map((post) => (
               <li class="notice-item-full">
-                <a href={`/posts/${post.data.slug ?? post.id}`}>
+                <a href={`/posts/detail/${post.data.slug ?? post.id}`}>
                   <span class="title">{post.data.title}</span>
                   <span class="date">
                     {new Date(post.data.date).toLocaleDateString('ko-KR')}
