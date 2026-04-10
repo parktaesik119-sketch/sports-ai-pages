@@ -707,3 +707,11 @@ body {
 .mobile-menu {
   display: none;
 }
+
+/* 📱 모바일에서 사이드바 제거 */
+@media (max-width: 1024px) {
+  .sidebar,
+  .sidebar-area {
+    display: none !important;
+  }
+}
