@@ -40,10 +40,10 @@ const categoryName = CATEGORY_MAP[category] ?? category;
 
 <BaseLayout 
   title={`${item.data.title} - ${categoryName}`}
+  /* 🔵 앞부분에 백틱(`)이 빠져있어서 에러가 났던 부분입니다 */
   description={`${item.data.title} 분석글입니다. 최신 스포츠 분석 및 추천픽 제공`}
 >
   <div class="main-layout-container">
-
     <div class="sidebar-area">
       <Sidebar />
     </div>
@@ -67,7 +67,6 @@ const categoryName = CATEGORY_MAP[category] ?? category;
         </div>
 
         <footer class="detail-footer">
-          <!-- 🔥 핵심 수정 (여기 하나로 해결됨) -->
           <a href={`/posts/${category}`} class="back-btn">
             목록으로 돌아가기
           </a>

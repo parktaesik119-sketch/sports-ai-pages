@@ -5,13 +5,28 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import { CATEGORY_MAP, CATEGORY_COLOR } from '../../lib/categories';
 
-// 📌 URL에서 category 가져오기
+/* =========================
+   🔥 핵심 추가 (여기!)
+========================= */
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+
+  // 👉 카테고리 자동 추출
+  const categories = [...new Set(posts.map(p => p.data.category))];
+
+  return categories.map(cat => ({
+    params: { category: cat }
+  }));
+}
+/* ========================= */
+
+/* 📌 URL에서 category 가져오기 */
 const { category } = Astro.params;
 
-// 📌 전체 게시글 가져오기
+/* 📌 전체 게시글 가져오기 */
 const allPosts = await getCollection('posts');
 
-// 📌 해당 카테고리만 필터링
+/* 📌 해당 카테고리만 필터링 */
 const filteredPosts = allPosts
   .filter((post) => post.data.category === category)
   .sort(
@@ -20,7 +35,7 @@ const filteredPosts = allPosts
       new Date(a.data.date).valueOf()
   );
 
-// 📌 카테고리 이름 & 색상
+/* 📌 카테고리 이름 & 색상 */
 const categoryName = CATEGORY_MAP[category] ?? category;
 const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
 ---
@@ -37,7 +52,7 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
     <main class="content-area">
       <div class={`board board-card ${category}`}>
 
-        <!-- 🔥 여기 핵심 (색상 적용) -->
+        <!-- 🔥 헤더 -->
         <div 
           class="board-header"
           style={`background: ${categoryColor}`}
