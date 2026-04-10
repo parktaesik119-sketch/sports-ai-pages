@@ -1,41 +1,55 @@
 ---
+// 📦 데이터 불러오기
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
+import { CATEGORY_MAP, CATEGORY_COLOR } from '../../lib/categories';
 
-import { CATEGORY_MAP } from '../../lib/categories';
-
-export async function getStaticPaths() {
-  return Object.keys(CATEGORY_MAP).map((category) => ({
-    params: { category }
-  }));
-}
-
+// 📌 URL에서 category 가져오기
 const { category } = Astro.params;
 
+// 📌 전체 게시글 가져오기
 const allPosts = await getCollection('posts');
 
+// 📌 해당 카테고리만 필터링
 const filteredPosts = allPosts
-  .filter(post => post.data.category === category)
-  .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+  .filter((post) => post.data.category === category)
+  .sort(
+    (a, b) =>
+      new Date(b.data.date).valueOf() -
+      new Date(a.data.date).valueOf()
+  );
+
+// 📌 카테고리 이름 & 색상
+const categoryName = CATEGORY_MAP[category] ?? category;
+const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
 ---
 
-<BaseLayout title={`${CATEGORY_MAP[category]} - 스포츠 분석 사이트`}>
+<BaseLayout title={`${categoryName} - 스포츠 분석`}>
   <div class="main-layout-container">
+    
+    <!-- 🔵 사이드바 -->
     <div class="sidebar-area">
       <Sidebar />
     </div>
 
+    <!-- 🔵 본문 -->
     <main class="content-area">
-      <div class="board-card">
-        <div class="board-header">
-          <h2>{CATEGORY_MAP[category]}</h2>
+      <div class={`board board-card ${category}`}>
+
+        <!-- 🔥 여기 핵심 (색상 적용) -->
+        <div 
+          class="board-header"
+          style={`background: ${categoryColor}`}
+        >
+          <h2>{categoryName}</h2>
         </div>
-        
+
+        <!-- 게시글 리스트 -->
         <div class="board-content">
-          <ul class="notice-list-full">
+          <ul class="post-list">
             {filteredPosts.map((post) => (
-              <li class="notice-item-full">
+              <li class="post-item">
                 <a href={`/posts/detail/${post.data.slug ?? post.id}`}>
                   <span class="title">{post.data.title}</span>
                   <span class="date">
@@ -47,16 +61,22 @@ const filteredPosts = allPosts
           </ul>
 
           {filteredPosts.length === 0 && (
-            <div class="empty-msg">등록된 게시글이 없습니다.</div>
+            <div class="empty-msg">
+              등록된 게시글이 없습니다.
+            </div>
           )}
         </div>
+
       </div>
     </main>
+
   </div>
 </BaseLayout>
 
 <style>
-/* 🔥 공지사항과 완전히 동일 */
+/* =========================
+   📌 레이아웃 (핵심)
+========================= */
 .main-layout-container {
   display: flex !important;
   flex-direction: row;
@@ -78,18 +98,19 @@ const filteredPosts = allPosts
   min-width: 0;
 }
 
+/* =========================
+   📌 게시판
+========================= */
 .board-card {
   background: #fff;
   border-radius: 12px;
   border: 1px solid #e1e4e8;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
 .board-header {
-  background: linear-gradient(135deg, #4dabf7, #339af0);
   padding: 15px 20px;
-  color: white;
+  color: #333;
 }
 
 .board-header h2 {
@@ -98,35 +119,29 @@ const filteredPosts = allPosts
   font-weight: 700;
 }
 
-/* 🔥 요청하신 종목별 색상 코드 적용 */
-.board.soccer .board-header { background: linear-gradient(135deg, #e8f8f0, #d1f2e0); }
-.board.baseball .board-header { background: linear-gradient(135deg, #fff4e6, #ffe8cc); }
-.board.basketball .board-header { background: linear-gradient(135deg, #fff0f0, #ffd6d6); }
-.board.volleyball .board-header { background: linear-gradient(135deg, #f3f0ff, #e5dbff); }
-.board.hockey .board-header { background: linear-gradient(135deg, #eef1f5, #dde3ea); }
-.board.lol .board-header { background: linear-gradient(135deg, #fffbe6, #fff3bf); }
-
-.notice-list-full {
+/* =========================
+   📌 리스트
+========================= */
+.post-list {
   list-style: none;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
-.notice-item-full {
+.post-item {
   border-bottom: 1px solid #f1f3f5;
 }
 
-.notice-item-full a {
+.post-item a {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   padding: 18px 20px;
   text-decoration: none;
   color: #333;
 }
 
-.notice-item-full a:hover {
-  background-color: #f8fafc;
+.post-item a:hover {
+  background: #f8fafc;
 }
 
 .title {
@@ -138,13 +153,22 @@ const filteredPosts = allPosts
   color: #94a3b8;
 }
 
-/* 모바일 */
+/* =========================
+   📱 모바일
+========================= */
 @media (max-width: 1024px) {
   .main-layout-container {
     flex-direction: column;
+    gap: 20px;
   }
+
   .sidebar-area {
     width: 100%;
+  }
+
+  .post-item a {
+    flex-direction: column;
+    gap: 5px;
   }
 }
 </style>

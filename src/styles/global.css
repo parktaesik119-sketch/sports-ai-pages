@@ -490,6 +490,11 @@ body {
   background-image: url('/icons/lol.png');
 }
 
+/* 📢 공지사항 */
+.board.notice .board-header::before {
+  background-image: url('/icons/megaphone.png');
+}
+
 /* 🔥 리스트 hover */
 .board-list li {
   transition: all 0.15s ease;
@@ -535,11 +540,20 @@ body {
 
 /* 🔥 아이콘 겹침 강제 해결 */
 .board .board-header {
+  position: relative;
   padding-left: 60px !important;
 }
 
 .board .board-header::before {
+  content: "";
+  position: absolute;
   left: 20px !important;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .board-header::before {
@@ -552,4 +566,61 @@ body {
 
 .board:hover .board-header h2 {
   transform: translateX(2px);
+}
+
+/* =========================
+   📱 모바일 최적화
+========================= */
+
+@media (max-width: 1024px) {
+
+  /* 전체 레이아웃 */
+  .main-layout-container {
+    flex-direction: column !important;
+    gap: 15px;
+  }
+
+  .sidebar-area {
+    width: 100% !important;
+  }
+
+  .content-area {
+    width: 100%;
+  }
+
+  /* 카드 */
+  .board-card {
+    border-radius: 10px;
+  }
+
+  /* 제목 */
+  h1 {
+    font-size: 1.4rem !important;
+  }
+
+  h2 {
+    font-size: 1.2rem !important;
+  }
+
+  /* 리스트 */
+  .notice-item-full a {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+  }
+
+  .date {
+    font-size: 0.75rem;
+  }
+
+  /* 상세 */
+  .detail-content {
+    padding: 20px !important;
+  }
+
+  /* 버튼 */
+  .back-btn {
+    width: 100%;
+    text-align: center;
+  }
 }
