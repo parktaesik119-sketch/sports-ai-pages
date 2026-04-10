@@ -572,6 +572,10 @@ body {
    📱 모바일 최적화 (기존 + 메뉴 포함)
 ========================= */
 
+/* =========================
+   📱 태블릿 이하 (1024px)
+========================= */
+
 @media (max-width: 1024px) {
 
   /* 전체 레이아웃 */
@@ -623,19 +627,22 @@ body {
     width: 100%;
     text-align: center;
   }
+}
 
-  /* =========================
-     🔥 추가 (햄버거 메뉴)
-     ========================= */
+/* =========================
+   📱 모바일 (768px 이하)
+========================= */
 
-  /* 기존 메뉴 숨김 */
+@media (max-width: 768px) {
+
+  /* PC 메뉴 숨김 */
   .nav {
-    display: none;
+    display: none !important;
   }
 
   /* 햄버거 버튼 */
   .menu-btn {
-    display: block;
+    display: block !important;
     font-size: 24px;
     background: none;
     border: none;
@@ -644,6 +651,7 @@ body {
 
   /* 모바일 메뉴 */
   .mobile-menu {
+    display: flex;
     position: fixed;
     top: 0;
     right: -100%;
@@ -651,7 +659,6 @@ body {
     height: 100%;
     background: #fff;
 
-    display: flex;
     flex-direction: column;
     padding: 20px;
     gap: 15px;
@@ -681,8 +688,22 @@ body {
     cursor: pointer;
   }
 
-  /* 헤더 정렬 */
-  .header-container {
-    justify-content: space-between;
+  /* 햄버거 기본 숨김 → 모바일에서만 표시 */
+  .menu-btn {
+    display: block;
   }
+}
+
+/* =========================
+   💻 PC 전용
+========================= */
+
+/* 햄버거 버튼 기본 숨김 */
+.menu-btn {
+  display: none;
+}
+
+/* 모바일 메뉴 기본 숨김 */
+.mobile-menu {
+  display: none;
 }
