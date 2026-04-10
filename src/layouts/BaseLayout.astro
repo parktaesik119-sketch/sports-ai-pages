@@ -39,31 +39,59 @@ const currentPath = url.pathname;
   </head>
 
   <body>
-    <header class="header">
-      <div class="header-container">
+<header class="header">
+  <div class="header-container">
 
-        <!-- 🔥 로고 -->
-        <a href="/" class="logo">
-          <span class="logo-main">픽천국</span>
-          <span class="logo-sub">PICK HEAVEN</span>
-        </a>
+    <!-- 🔥 로고 -->
+    <a href="/" class="logo">
+      <span class="logo-main">픽천국</span>
+      <span class="logo-sub">PICK HEAVEN</span>
+    </a>
 
-        <!-- 🔥 메뉴 -->
-        <nav class="nav">
-          <!-- 공지 -->
-          <a href="/notice" class={currentPath.startsWith('/notice') ? "active" : ""}>공지사항</a>
+    <!-- 🔥 PC 메뉴 -->
+    <nav class="nav">
+      <a href="/notice" class={currentPath.startsWith('/notice') ? "active" : ""}>공지사항</a>
+      <a href="/posts/soccer" class={currentPath.includes("soccer") ? "active" : ""}>축구</a>
+      <a href="/posts/baseball" class={currentPath.includes("baseball") ? "active" : ""}>야구</a>
+      <a href="/posts/basketball" class={currentPath.includes("basketball") ? "active" : ""}>농구</a>
+      <a href="/posts/volleyball" class={currentPath.includes("volleyball") ? "active" : ""}>배구</a>
+      <a href="/posts/hockey" class={currentPath.includes("hockey") ? "active" : ""}>하키</a>
+      <a href="/posts/lol" class={currentPath.includes("lol") ? "active" : ""}>LoL</a>
+    </nav>
 
-         <!-- 카테고리 -->
-          <a href="/posts/soccer" class={currentPath.includes("soccer") ? "active" : ""}>축구</a>
-          <a href="/posts/baseball" class={currentPath.includes("baseball") ? "active" : ""}>야구</a>
-          <a href="/posts/basketball" class={currentPath.includes("basketball") ? "active" : ""}>농구</a>
-          <a href="/posts/volleyball" class={currentPath.includes("volleyball") ? "active" : ""}>배구</a>
-          <a href="/posts/hockey" class={currentPath.includes("hockey") ? "active" : ""}>하키</a>
-          <a href="/posts/lol" class={currentPath.includes("lol") ? "active" : ""}>LoL</a>
-        </nav>
+    <!-- 🔥 햄버거 -->
+    <button class="menu-btn" id="menuBtn">☰</button>
 
-      </div>
-    </header>
+  </div>
+
+  <!-- 🔥 모바일 메뉴 -->
+  <div class="mobile-menu" id="mobileMenu">
+    <button class="close-btn" id="closeBtn">✕</button>
+
+    <a href="/notice">공지사항</a>
+    <a href="/posts/soccer">축구</a>
+    <a href="/posts/baseball">야구</a>
+    <a href="/posts/basketball">농구</a>
+    <a href="/posts/volleyball">배구</a>
+    <a href="/posts/hockey">하키</a>
+    <a href="/posts/lol">LoL</a>
+  </div>
+
+  <!-- 🔥 스크립트 -->
+  <script>
+    const menuBtn = document.getElementById('menuBtn');
+    const closeBtn = document.getElementById('closeBtn');
+    const mobileMenu = document.getElementById('mobileMenu');
+
+    menuBtn.addEventListener('click', () => {
+      mobileMenu.classList.add('open');
+    });
+
+    closeBtn.addEventListener('click', () => {
+      mobileMenu.classList.remove('open');
+    });
+  </script>
+</header>
 
     <main class="container">
       <slot />

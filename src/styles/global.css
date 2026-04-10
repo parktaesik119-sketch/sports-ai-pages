@@ -569,7 +569,7 @@ body {
 }
 
 /* =========================
-   📱 모바일 최적화
+   📱 모바일 최적화 (기존 + 메뉴 포함)
 ========================= */
 
 @media (max-width: 1024px) {
@@ -622,5 +622,67 @@ body {
   .back-btn {
     width: 100%;
     text-align: center;
+  }
+
+  /* =========================
+     🔥 추가 (햄버거 메뉴)
+     ========================= */
+
+  /* 기존 메뉴 숨김 */
+  .nav {
+    display: none;
+  }
+
+  /* 햄버거 버튼 */
+  .menu-btn {
+    display: block;
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  /* 모바일 메뉴 */
+  .mobile-menu {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 260px;
+    height: 100%;
+    background: #fff;
+
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 15px;
+
+    box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+    transition: right 0.3s ease;
+    z-index: 2000;
+  }
+
+  .mobile-menu.open {
+    right: 0;
+  }
+
+  .mobile-menu a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #111;
+    font-weight: 500;
+  }
+
+  /* 닫기 버튼 */
+  .close-btn {
+    align-self: flex-end;
+    font-size: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  /* 헤더 정렬 */
+  .header-container {
+    justify-content: space-between;
   }
 }
