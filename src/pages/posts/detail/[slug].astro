@@ -75,13 +75,16 @@ description={item.data.title} 분석글입니다. 최신 스포츠 분석 및 �
 
 <style>
 /* 레이아웃 유지 */
-.main-layout-container {
-  display: flex !important;
-  gap: 30px;
-  max-width: 1260px;
-  margin: 20px auto;
-  padding: 0 15px;
-}
+  .main-layout-container {
+    display: flex !important;
+    flex-direction: row;
+    gap: 30px;
+    max-width: 1260px;
+    margin: 20px auto;
+    padding: 0 15px;
+    align-items: flex-start;
+    width: 100%;
+  }
 
 .sidebar-area {
   width: 280px;
@@ -116,11 +119,11 @@ description={item.data.title} 분석글입니다. 최신 스포츠 분석 및 �
 
 .category-badge {
   display: inline-block;
-  padding: 5px 12px;
+  padding: 4px 10px;
   background: #e7f5ff;
   color: #228be6;
-  border-radius: 6px;
-  font-size: 0.8rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
   font-weight: 600;
   margin-bottom: 15px;
 }
