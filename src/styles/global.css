@@ -715,3 +715,36 @@ body {
     display: none !important;
   }
 }
+
+@media (max-width: 768px) {
+
+  /* 🔥 전체 컨테이너 꽉 채우기 */
+  .container {
+    padding: 0 !important;
+  }
+
+  /* 🔥 메인 레이아웃도 꽉 */
+  .main-layout-container {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* 🔥 콘텐츠 영역 */
+  .content-area {
+    width: 100%;
+  }
+
+  /* 🔥 게시판 카드 */
+  .board,
+  .board-card {
+    border-radius: 0 !important;   /* 네이버 스타일 */
+    margin: 0 !important;
+    width: 100%;
+  }
+
+  /* 🔥 배너 (있다면) */
+  .banner {
+    width: 100%;
+    margin: 0;
+  }
+}
