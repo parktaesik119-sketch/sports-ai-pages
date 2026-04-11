@@ -147,24 +147,40 @@ const currentPath = url.pathname;
 
 /* 🔥 왼쪽 날개 */
 .logo-main::before {
-  content: "🪽";
+  content: "";
   position: absolute;
   left: -32px;
   top: 2px;
-  font-size: 25px;  
+
+  width: 32px;   /* 🔥 크기 조절 */
+  height: 32px;
+
+  background-image: url('/icons/wing1.png'); /* 🔥 여기 중요 */
+  background-size: contain;
+  background-repeat: no-repeat;
+
   transform: scaleX(-1);
   opacity: 0.9;
+
   animation: wing-right 1.2s infinite ease-in-out;
 }
 
 /* 🔥 오른쪽 날개 */
 .logo-main::after {
-  content: "🪽";
+  content: "";
   position: absolute;
   right: -32px;
   top: 2px;
-  font-size: 25px;
+
+  width: 32px;
+  height: 32px;
+
+  background-image: url('/icons/wing1.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+
   opacity: 0.9;
+
   animation: wing-left 1.2s infinite ease-in-out;
 }
 
