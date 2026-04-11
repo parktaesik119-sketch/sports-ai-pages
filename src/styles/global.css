@@ -731,7 +731,7 @@ body {
 
   /* 🔥 콘텐츠 영역 */
   .content-area {
-    width: 100%;
+    width: 99%;
   }
 
   /* 🔥 게시판 카드 */
@@ -739,12 +739,12 @@ body {
   .board-card {
     border-radius: 0 !important;   /* 네이버 스타일 */
     margin: 0 !important;
-    width: 100%;
+    width: 99%;
   }
 
   /* 🔥 배너 (있다면) */
   .banner {
-    width: 100%;
+    width: 99%;
     margin: 0;
   }
 }
