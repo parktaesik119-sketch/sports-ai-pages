@@ -25,7 +25,7 @@ const sortedPosts = allPosts.sort(
           <ul class="notice-list-full">
             {sortedPosts.map((post) => (
               <li class="notice-item-full">
-                <a href={`/posts/${post.data.slug ?? post.id}`}>
+                <a href={`/posts/detail/${post.data.slug ?? post.id}`}>
                   <span class="title">{post.data.title}</span>
                   <span class="date">
                     {new Date(post.data.date).toLocaleDateString('ko-KR')}
@@ -129,5 +129,30 @@ const sortedPosts = allPosts.sort(
   .sidebar-area {
     width: 100%;
   }
+}
+
+/* 🔥 게시판 본문 컨테이너 (여백 확보의 핵심) */
+.board-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 400px; /* 게시글이 없을 때 상자 높이를 넉넉히 잡습니다 */
+  background-color: #fff;
+}
+
+/* 🔥 게시글이 없을 때 메시지 스타일 */
+.empty-msg {
+  flex: 1;                 /* 부모인 board-content의 남은 공간을 다 차지 */
+  display: flex !important;
+  justify-content: center; /* 가로 가운데 */
+  align-items: center;     /* 세로 가운데 */
+  
+  padding: 60px 20px !important;
+  color: #94a3b8;
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-align: center;
+  
+  /* 위아래 선이 필요하다면 추가 (선택 사항) */
+  border-top: 1px solid #f1f3f5; 
 }
 </style>

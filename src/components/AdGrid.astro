@@ -13,8 +13,9 @@ const adLinks = {
   10: "https://t.me/pickheaven"
 };
 
-// 광고 번호 리스트 (위의 adLinks에 적은 숫자와 일치해야 합니다)
-const ads = Object.keys(adLinks).map(Number);
+
+const ads = Object.keys(adLinks).map(Number).sort(() => Math.random() - 0.5);
+
 const hasAds = ads && ads.length > 0;
 ---
 

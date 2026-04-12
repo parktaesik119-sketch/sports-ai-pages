@@ -1166,3 +1166,26 @@ body {
     padding-top: 5px !important;
   }
 }
+
+/* global.css 맨 아래 추가 */
+
+/* 게시글이 없을 때의 컨테이너 높이 확보 */
+.board-content {
+  display: flex !important;
+  flex-direction: column !important;
+  min-height: 300px !important; /* 최소 높이를 줘서 중앙 정렬 공간 확보 */
+  background: #fff;
+}
+
+/* 메시지 정중앙 배치 */
+.empty-msg {
+  flex: 1 !important;
+  display: flex !important;
+  align-items: center !important;   /* 세로 중앙 */
+  justify-content: center !important; /* 가로 중앙 */
+  padding: 50px 20px !important;
+  color: #94a3b8 !important;
+  font-size: 1.1rem !important;
+  text-align: center !important;
+  width: 100% !important;
+}
