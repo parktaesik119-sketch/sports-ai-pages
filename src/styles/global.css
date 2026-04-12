@@ -132,8 +132,8 @@ body {
   display: flex;
   gap: 20px;
   max-width: 1200px;
-  margin: 20px auto;
-  padding: 0 20px;
+  margin: 10px auto;
+  padding: 0 10px;
 }
 
 /* 🔥 사이드바 (핵심 수정) */
@@ -1155,5 +1155,13 @@ body {
     flex-shrink: 0;             /* ⭐ 중요: 아이콘이 눌리지 않게 고정 */
     background-size: contain;
     background-repeat: no-repeat;
+  }
+}
+
+@media (max-width: 768px) {
+  /* 화면 전체를 감싸는 컨테이너의 위쪽 여백을 강제로 줄임 */
+  .main-layout-container {
+    margin-top: 5px !important; 
+    padding-top: 5px !important;
   }
 }

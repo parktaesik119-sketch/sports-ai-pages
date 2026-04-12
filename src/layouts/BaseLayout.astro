@@ -337,4 +337,20 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 }
+
+.board {
+    background: #fff;
+    border-radius: 12px;
+    margin-bottom: 10px !important; /* 게시판 사이의 아래 여백을 20px -> 10px로 줄임 */
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+
+  /* 🔴 게시판 헤더의 위아래 뚱뚱한 여백도 줄이고 싶다면 이 부분을 수정하세요 */
+  .board-header {
+    padding: 10px 15px !important; /* 기존보다 위아래를 더 홀쭉하게 만듭니다 */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 </style>
