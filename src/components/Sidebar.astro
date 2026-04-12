@@ -64,7 +64,7 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
         const dateStr = `${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
         return (
           <li>
-            <a href={`/posts/${post.data.slug ?? post.slug}`} class="recent-post-link">
+            <a href={`/posts/detail/${post.data.slug ?? post.slug}`} class="recent-post-link">
               <span class="post-title">{post.data.title}</span>
               {dateStr === today && <span class="new-icon">N</span>}
               <span class="date">{dateStr}</span>
