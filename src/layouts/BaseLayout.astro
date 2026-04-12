@@ -54,18 +54,20 @@ const currentPath = url.pathname;
 
       </div>
 
-      <!-- 🔥 모바일 메뉴 (추가) -->
-      <div class="mobile-menu" id="mobile-menu">
-        <button class="close-btn" id="close-btn">✕</button>
+<!-- 🔥 모바일 메뉴 + 배경 -->
+<div class="menu-overlay" id="menu-overlay">
+  <div class="mobile-menu" id="mobile-menu">
+    <button class="close-btn" id="close-btn">✕</button>
 
-        <a href="/notice">공지사항</a>
-        <a href="/posts/soccer">축구</a>
-        <a href="/posts/baseball">야구</a>
-        <a href="/posts/basketball">농구</a>
-        <a href="/posts/volleyball">배구</a>
-        <a href="/posts/hockey">하키</a>
-        <a href="/posts/lol">LoL</a>
-      </div>
+    <a href="/notice">📢 공지사항</a>
+    <a href="/posts/soccer">⚽ 축구</a>
+    <a href="/posts/baseball">⚾ 야구</a>
+    <a href="/posts/basketball">🏀 농구</a>
+    <a href="/posts/volleyball">🏐 배구</a>
+    <a href="/posts/hockey">🏒 하키</a>
+    <a href="/posts/lol">🎮 LoL</a>
+  </div>
+</div>
     </header>
 
     <main class="container">
@@ -73,23 +75,33 @@ const currentPath = url.pathname;
     </main>
 
     <!-- 🔥 JS 위치 중요 (body 맨 아래) -->
-    <script>
-      document.addEventListener('DOMContentLoaded', () => {
-        const menuBtn = document.getElementById('menu-btn');
-        const closeBtn = document.getElementById('close-btn');
-        const mobileMenu = document.getElementById('mobile-menu');
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const menuBtn = document.getElementById('menu-btn');
+  const closeBtn = document.getElementById('close-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const overlay = document.getElementById('menu-overlay');
 
-        if (!menuBtn || !closeBtn || !mobileMenu) return;
+  if (!menuBtn || !closeBtn || !mobileMenu || !overlay) return;
 
-        menuBtn.addEventListener('click', () => {
-          mobileMenu.classList.add('open');
-        });
+  // 열기
+  menuBtn.addEventListener('click', () => {
+    overlay.classList.add('open');
+  });
 
-        closeBtn.addEventListener('click', () => {
-          mobileMenu.classList.remove('open');
-        });
-      });
-    </script>
+  // 닫기 버튼
+  closeBtn.addEventListener('click', () => {
+    overlay.classList.remove('open');
+  });
+
+  // 🔥 배경 클릭하면 닫힘
+  overlay.addEventListener('click', (e) => {
+    if (e.target === overlay) {
+      overlay.classList.remove('open');
+    }
+  });
+});
+</script>
   </body>
 </html>
 

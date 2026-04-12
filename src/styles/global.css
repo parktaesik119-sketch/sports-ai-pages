@@ -811,6 +811,63 @@ body {
     z-index: 2000;
   }
 
+  /* =========================
+   🔥 모바일 메뉴 UI 업그레이드
+========================= */
+
+/* 메뉴 상단 */
+.mobile-menu::before {
+  content: "MENU";
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #f1f3f5;
+}
+
+/* 메뉴 링크 */
+.mobile-menu a {
+  display: block;
+  padding: 14px 6px;
+
+  font-size: 16px;
+  font-weight: 500;
+  color: #222;
+
+  border-bottom: 1px solid #f1f3f5;
+
+  transition: all 0.2s ease;
+}
+
+/* 마지막 줄 border 제거 */
+.mobile-menu a:last-child {
+  border-bottom: none;
+}
+
+/* hover 효과 */
+.mobile-menu a:hover {
+  background: #f8fafc;
+  padding-left: 10px;
+  color: #3b82f6;
+}
+
+/* 클릭 느낌 */
+.mobile-menu a:active {
+  background: #eef3f8;
+}
+
+/* 닫기 버튼 */
+.close-btn {
+  margin-bottom: 10px;
+  font-size: 22px;
+  color: #555;
+}
+
+/* 메뉴 전체 패딩 정리 */
+.mobile-menu {
+  padding-top: 15px;
+}
+
   .mobile-menu.open {
     right: 0;
   }
@@ -829,4 +886,104 @@ body {
     border: none;
     cursor: pointer;
   }
+}
+
+/* =========================
+   🔥 메뉴 배경 (DIM)
+========================= */
+
+.menu-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  background: rgba(0,0,0,0.45);
+
+  opacity: 0;
+  visibility: hidden;
+
+  transition: all 0.3s ease;
+  z-index: 1999;
+}
+
+.menu-overlay.open {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* =========================
+   🔥 모바일 메뉴 업그레이드
+========================= */
+
+.mobile-menu {
+  position: absolute;
+  top: 0;
+  right: -100%;
+  width: 260px;
+  height: 100%;
+
+  background: #fff;
+
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 5px;
+
+  transition: right 0.3s ease;
+}
+
+.menu-overlay.open .mobile-menu {
+  right: 0;
+}
+
+/* 상단 타이틀 */
+.mobile-menu::before {
+  content: "전체 메뉴";
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #f1f3f5;
+}
+
+/* 메뉴 아이템 */
+.mobile-menu a {
+  display: block;
+  padding: 14px 8px;
+
+  font-size: 16px;
+  font-weight: 500;
+  color: #222;
+
+  border-bottom: 1px solid #f1f3f5;
+
+  transition: all 0.2s ease;
+}
+
+.mobile-menu a:last-child {
+  border-bottom: none;
+}
+
+/* hover */
+.mobile-menu a:hover {
+  background: #f8fafc;
+  padding-left: 12px;
+  color: #3b82f6;
+}
+
+/* 클릭 */
+.mobile-menu a:active {
+  background: #eef3f8;
+}
+
+/* 닫기 버튼 */
+.close-btn {
+  align-self: flex-end;
+  font-size: 22px;
+  margin-bottom: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
 }
