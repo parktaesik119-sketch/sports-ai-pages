@@ -106,6 +106,29 @@ const currentPath = url.pathname;
       <slot />
     </main>
   </body>
+
+  <script>
+  const menuBtn = document.getElementById('menu-btn');
+  const closeBtn = document.getElementById('close-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+
+  // 메뉴 열기
+  menuBtn?.addEventListener('click', () => {
+    mobileMenu?.classList.add('open');
+  });
+
+  // 메뉴 닫기
+  closeBtn?.addEventListener('click', () => {
+    mobileMenu?.classList.remove('open');
+  });
+
+  // 메뉴 외부 클릭 시 닫기 (선택 사항)
+  window.addEventListener('click', (e) => {
+    if (e.target === mobileMenu) {
+      mobileMenu?.classList.remove('open');
+    }
+  });
+</script>
 </html>
 
 <style>
