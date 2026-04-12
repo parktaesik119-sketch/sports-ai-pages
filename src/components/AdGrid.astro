@@ -1,5 +1,20 @@
 ---
-const ads = [1, 2, 3, 4, 5, 6]; 
+// 각 번호에 연결하고 싶은 실제 주소를 입력.
+const adLinks = {
+  1: "https://trp-s.com",
+  2: "https://trp-s.com",
+  3: "https://trp-s.com",
+  4: "https://naver.com",
+  5: "https://주소5.com",
+  6: "https://주소6.com",
+  7: "https://주소7.com",
+  8: "https://주소8.com",
+  9: "https://주소9.com",
+  10: "https://주소10.com"
+};
+
+// 광고 번호 리스트 (위의 adLinks에 적은 숫자와 일치해야 합니다)
+const ads = Object.keys(adLinks).map(Number);
 const hasAds = ads && ads.length > 0;
 ---
 
@@ -7,7 +22,7 @@ const hasAds = ads && ads.length > 0;
   <div class="ad-grid">
     {ads.map(num => (
       <div class="ad-item">
-        <a href={`/partners/ad${num}`}>
+        <a href={adLinks[num]} target="_blank" rel="noopener noreferrer">
           <img 
             src={`/images/ads/ad${num}.png`} 
             alt={`제휴배너 ${num}`} 
