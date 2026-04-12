@@ -665,7 +665,7 @@ body {
 
     box-shadow: -2px 0 10px rgba(0,0,0,0.1);
     transition: right 0.3s ease;
-    z-index: 2000;
+    z-index: 9999;
   }
 
   .mobile-menu.open {
@@ -746,5 +746,87 @@ body {
   .banner {
     width: 99%;
     margin: 0;
+  }
+}
+
+/* =========================
+   📱 모바일 헤더 (핵심)
+========================= */
+
+/* 기본 (PC) */
+.menu-btn {
+  display: none;
+}
+
+/* 모바일 */
+@media (max-width: 1024px) {
+
+  /* 🔥 PC 메뉴 숨김 */
+  .nav {
+    display: none !important;
+  }
+
+  /* 🔥 햄버거 표시 */
+  .menu-btn {
+    display: block;
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  /* 🔥 로고 중앙 정렬 */
+  .header-container {
+    position: relative;
+    justify-content: center;
+  }
+
+  .logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .menu-btn {
+    position: absolute;
+    right: 20px;
+  }
+
+  /* 🔥 모바일 메뉴 */
+  .mobile-menu {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 260px;
+    height: 100%;
+    background: #fff;
+
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 15px;
+
+    box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+    transition: right 0.3s ease;
+    z-index: 2000;
+  }
+
+  .mobile-menu.open {
+    right: 0;
+  }
+
+  .mobile-menu a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #111;
+    font-weight: 500;
+  }
+
+  .close-btn {
+    align-self: flex-end;
+    font-size: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
   }
 }

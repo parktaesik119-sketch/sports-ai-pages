@@ -8,127 +8,89 @@ const currentPath = url.pathname;
 <!DOCTYPE html>
 <html lang="ko">
   <head>
-    <!-- 🔥 기본 -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-    <!-- 🔥 반응형 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!-- 🔥 제목 -->
     <title>{Astro.props.title}</title>
 
-    <!-- 🔥 SEO -->
     <meta name="description" content={Astro.props.description ?? "스포츠 분석 및 추천픽 제공"} />
     <meta name="keywords" content="스포츠 분석, 축구 분석, 야구 분석, 농구 픽, 토토 추천" />
 
-    <!-- 🔥 canonical (중요!!) -->
     <link rel="canonical" href={Astro.url} />
 
-    <!-- 🔥 Open Graph -->
     <meta property="og:title" content={Astro.props.title} />
     <meta property="og:description" content={Astro.props.description ?? "스포츠 분석 사이트"} />
     <meta property="og:type" content="article" />
     <meta property="og:url" content={Astro.url} />
-
-    <!-- 🔥 썸네일 (없으면 기본 이미지 넣어도 됨) -->
     <meta property="og:image" content="/og-default.jpg" />
 
-    <!-- 🔥 트위터 -->
     <meta name="twitter:card" content="summary_large_image" />
   </head>
 
   <body>
-<header class="header">
-  <div class="header-container">
+    <header class="header">
+      <div class="header-container">
 
-    <!-- 🔥 로고 -->
-    <a href="/" class="logo">
-      <span class="logo-main">픽천국</span>
-      <span class="logo-sub">PICK HEAVEN</span>
-    </a>
+        <!-- 🔥 로고 (기존 그대로 유지) -->
+        <a href="/" class="logo">
+          <span class="logo-main">픽천국</span>
+          <span class="logo-sub">PICK HEAVEN</span>
+        </a>
 
-    <!-- 🔥 PC 메뉴 -->
-    <nav class="nav">
-      <a href="/notice" class={currentPath.startsWith('/notice') ? "active" : ""}>공지사항</a>
-      <a href="/posts/soccer" class={currentPath.includes("soccer") ? "active" : ""}>축구</a>
-      <a href="/posts/baseball" class={currentPath.includes("baseball") ? "active" : ""}>야구</a>
-      <a href="/posts/basketball" class={currentPath.includes("basketball") ? "active" : ""}>농구</a>
-      <a href="/posts/volleyball" class={currentPath.includes("volleyball") ? "active" : ""}>배구</a>
-      <a href="/posts/hockey" class={currentPath.includes("hockey") ? "active" : ""}>하키</a>
-      <a href="/posts/lol" class={currentPath.includes("lol") ? "active" : ""}>LoL</a>
-    </nav>
+        <!-- 🔥 PC 메뉴 (그대로 유지) -->
+        <nav class="nav">
+          <a href="/notice" class={currentPath.startsWith('/notice') ? "active" : ""}>공지사항</a>
+          <a href="/posts/soccer" class={currentPath.includes("soccer") ? "active" : ""}>축구</a>
+          <a href="/posts/baseball" class={currentPath.includes("baseball") ? "active" : ""}>야구</a>
+          <a href="/posts/basketball" class={currentPath.includes("basketball") ? "active" : ""}>농구</a>
+          <a href="/posts/volleyball" class={currentPath.includes("volleyball") ? "active" : ""}>배구</a>
+          <a href="/posts/hockey" class={currentPath.includes("hockey") ? "active" : ""}>하키</a>
+          <a href="/posts/lol" class={currentPath.includes("lol") ? "active" : ""}>LoL</a>
+        </nav>
 
-    <!-- 🔥 햄버거 -->
-    <button class="menu-btn" id="menuBtn">☰</button>
+        <!-- 🔥 햄버거 버튼 (추가) -->
+        <button class="menu-btn" id="menu-btn">☰</button>
 
-  </div>
+      </div>
 
-    <!-- 🔥 추가: 오버레이 -->
-  <div class="menu-overlay" id="menuOverlay"></div>
+      <!-- 🔥 모바일 메뉴 (추가) -->
+      <div class="mobile-menu" id="mobile-menu">
+        <button class="close-btn" id="close-btn">✕</button>
 
-  <!-- 🔥 모바일 메뉴 -->
-  <div class="mobile-menu" id="mobileMenu">
-    <button class="close-btn" id="closeBtn">✕</button>
-
-    <a href="/notice">공지사항</a>
-    <a href="/posts/soccer">축구</a>
-    <a href="/posts/baseball">야구</a>
-    <a href="/posts/basketball">농구</a>
-    <a href="/posts/volleyball">배구</a>
-    <a href="/posts/hockey">하키</a>
-    <a href="/posts/lol">LoL</a>
-  </div>
-
-  <!-- 🔥 스크립트 -->
-  <script is:inline>
-  window.addEventListener("load", () => {
-    const menuBtn = document.getElementById("menuBtn");
-    const closeBtn = document.getElementById("closeBtn");
-    const mobileMenu = document.getElementById("mobileMenu");
-
-    if (!menuBtn || !mobileMenu) return;
-
-    menuBtn.onclick = () => {
-      mobileMenu.classList.add("open");
-    };
-
-    if (closeBtn) {
-      closeBtn.onclick = () => {
-        mobileMenu.classList.remove("open");
-      };
-    }
-  });
-</script>
-</header>
+        <a href="/notice">공지사항</a>
+        <a href="/posts/soccer">축구</a>
+        <a href="/posts/baseball">야구</a>
+        <a href="/posts/basketball">농구</a>
+        <a href="/posts/volleyball">배구</a>
+        <a href="/posts/hockey">하키</a>
+        <a href="/posts/lol">LoL</a>
+      </div>
+    </header>
 
     <main class="container">
       <slot />
     </main>
+
+    <!-- 🔥 JS 위치 중요 (body 맨 아래) -->
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const menuBtn = document.getElementById('menu-btn');
+        const closeBtn = document.getElementById('close-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+
+        if (!menuBtn || !closeBtn || !mobileMenu) return;
+
+        menuBtn.addEventListener('click', () => {
+          mobileMenu.classList.add('open');
+        });
+
+        closeBtn.addEventListener('click', () => {
+          mobileMenu.classList.remove('open');
+        });
+      });
+    </script>
   </body>
-
-  <script>
-  const menuBtn = document.getElementById('menu-btn');
-  const closeBtn = document.getElementById('close-btn');
-  const mobileMenu = document.getElementById('mobile-menu');
-
-  // 메뉴 열기
-  menuBtn?.addEventListener('click', () => {
-    mobileMenu?.classList.add('open');
-  });
-
-  // 메뉴 닫기
-  closeBtn?.addEventListener('click', () => {
-    mobileMenu?.classList.remove('open');
-  });
-
-  // 메뉴 외부 클릭 시 닫기 (선택 사항)
-  window.addEventListener('click', (e) => {
-    if (e.target === mobileMenu) {
-      mobileMenu?.classList.remove('open');
-    }
-  });
-</script>
 </html>
 
 <style>
