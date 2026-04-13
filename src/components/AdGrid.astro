@@ -1,51 +1,58 @@
 ---
-// 1. 광고 데이터
+// 1. 광고 데이터 구성 (파일명 ad1, ad2 등에 맞춰 경로 설정)
 const ads = [
-  { id: 1, normal: "https://imgur.com/2TEoKN2.png", long: "https://imgur.com/w0edAQi.png", link: "https://trp-s.com" },
-  { id: 2, normal: "https://imgur.com/cb1Zmw6.png", long: "https://imgur.com/7PrjmHJ.png", link: "https://t.me/pickheaven" },
+  {
+    id: 1,
+    normal: "/images/ads/ad1.png",      // public 폴더 기준 경로
+    long: "/images/ads/ad1_long.png",
+    link: "https://trp-s.com"
+  },
+  {
+    id: 2,
+    normal: "/images/ads/ad2.png",
+    long: "/images/ads/ad2_long.png",
+    link: "https://t.me/pickheaven"
+  }
+  // 광고 추가 시 동일하게 /images/ads/파일명.png 형식으로 입력하세요.
 ];
 
 const { type } = Astro.props;
 
-// 2. 랜덤 셔플 함수 (새로고침 시마다 변함)
+// 2. 랜덤 셔플 함수 (새로고침 시 위치 변경용)
 const shuffle = (arr) => [...arr].sort(() => Math.random() - 0.5);
+
+// 3. 광고 분배 로직 (게시글 페이지용)
+const longAds = ads.filter(ad => ad.long);
+
+// 상/하단이 같은 순서를 공유하도록 밀리초 기반 시드 대신 '초' 단위 시드 활용
+// (중복 노출 방지와 새로고침 시 랜덤 변경을 동시에 해결)
+const seed = Math.floor(Date.now() / 1000);
+const shuffledPool = [...longAds].sort((a, b) => {
+  return (Math.sin(a.id + seed) - Math.sin(b.id + seed));
+}).slice(0, 4);
+
+const total = shuffledPool.length;
 
 let displayAds = [];
 
-// 3. 로직 처리
-if (type === 'top' || type === 'bottom') {
-  // 게시글용 (long 이미지가 있는 광고만)
-  const longAds = ads.filter(ad => ad && ad.long);
-  
-  // 📌 현재 접속 시간을 기준으로 리스트를 섞어 위/아래가 같은 결과물을 공유하게 함
-  // 1초 단위로 바뀌므로 새로고침 시 위치가 바뀝니다.
-  const secondSeed = Math.floor(Date.now() / 1000);
-  const shuffledPool = [...longAds].sort((a, b) => {
-    return (Math.sin(a.id + secondSeed) - Math.sin(b.id + secondSeed));
-  }).slice(0, 4);
-
-  const total = shuffledPool.length;
-
-  if (type === 'top') {
-    const count = total <= 2 ? 1 : 2;
-    displayAds = shuffledPool.slice(0, count);
-  } else if (type === 'bottom') {
-    const count = total <= 2 ? 1 : 2;
-    // 광고가 1개면 하단은 빈 배열, 그 외에는 나머지 슬라이스
-    displayAds = total > 1 ? shuffledPool.slice(count) : [];
-  }
+if (type === 'top') {
+  const count = total <= 2 ? 1 : 2;
+  displayAds = shuffledPool.slice(0, count);
+} else if (type === 'bottom') {
+  const count = total <= 2 ? 1 : 2;
+  displayAds = total > 1 ? shuffledPool.slice(count) : [];
 } else {
-  // 메인 화면용
+  // 메인 화면 (전체 광고 랜덤)
   displayAds = shuffle(ads);
 }
 
-// 4. undefined 방지 필터링
-displayAds = displayAds.filter(ad => ad !== undefined && ad !== null);
+// undefined 방지
+displayAds = displayAds.filter(ad => ad);
 const hasAds = displayAds.length > 0;
 ---
 
 {hasAds && (
-  <div class={type ? "post-ad-container" : "main-ad-grid"}>
+  <div class={type ? "premium-container" : "ad-grid"}>
     {displayAds.map((ad) => (
       <div class="ad-item" key={ad.id}>
         <a href={ad.link} target="_blank" rel="noopener noreferrer">
@@ -61,16 +68,8 @@ const hasAds = displayAds.length > 0;
 )}
 
 <style>
-.main-ad-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 10px;
-  margin-bottom: 20px;
-}
-@media (max-width: 768px) {
-  .main-ad-grid { grid-template-columns: 1fr; }
-}
-.post-ad-container {
+/* 기존 스타일 유지 */
+.premium-container {
   display: flex;
   flex-direction: column;
   gap: 15px;
@@ -78,6 +77,31 @@ const hasAds = displayAds.length > 0;
   margin: 15px 0;
   align-items: center;
 }
-.ad-item { width: 100%; display: flex; justify-content: center; }
-.ad-img { width: 100%; height: auto; border-radius: 8px; }
+
+.ad-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .ad-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ad-item {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.ad-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  /* 이미지 로딩 시 레이아웃 무너짐 방지 */
+  display: block;
+}
 </style>
