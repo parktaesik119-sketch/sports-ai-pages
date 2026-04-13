@@ -1,7 +1,7 @@
 ---
 // ========================
 // 📌 광고 데이터 (Imgur)
-/// ========================
+// ========================
 const ads = [
   {
     id: 1,
@@ -15,46 +15,52 @@ const ads = [
     long: "https://i.imgur.com/7PrjmHJ.png",
     link: "https://t.me/pickheaven"
   },
-  // 계속 추가 가능
 ];
 
+// props
 const { type } = Astro.props;
 let displayAds = [];
 
-// 랜덤
-const shuffle = (arr) => [...arr].sort(() => Math.random() - 0.5);
+// ========================
+// 📌 랜덤 (안정 버전)
+// ========================
+const shuffle = (arr) => {
+  return [...arr].sort(() => 0.5 - Math.random());
+};
 
-// 👉 페이지 단위 랜덤 (중복 방지 핵심)
+// 👉 long 광고만
 const longAds = ads.filter(ad => ad.long);
-const shuffled = shuffle(longAds).slice(0, 4);
-const total = shuffled.length;
+
+// 👉 항상 동일 순서 보장 (핵심)
+const baseList = shuffle(longAds).slice(0, 4);
+const total = baseList.length;
 
 
 // ========================
-// 게시글
+// 📌 게시글
 // ========================
 if (type === 'top' || type === 'bottom') {
 
   if (total === 1) {
-    displayAds = type === 'top' ? [shuffled[0]] : [];
+    displayAds = type === 'top' ? [baseList[0]] : [];
   } 
   else if (total === 2) {
-    displayAds = type === 'top' ? [shuffled[0]] : [shuffled[1]];
+    displayAds = type === 'top' ? [baseList[0]] : [baseList[1]];
   } 
   else if (total === 3) {
     displayAds = type === 'top' 
-      ? [shuffled[0], shuffled[1]] 
-      : [shuffled[2]];
+      ? [baseList[0], baseList[1]] 
+      : [baseList[2]];
   } 
   else if (total >= 4) {
     displayAds = type === 'top' 
-      ? [shuffled[0], shuffled[1]] 
-      : [shuffled[2], shuffled[3]];
+      ? [baseList[0], baseList[1]] 
+      : [baseList[2], baseList[3]];
   }
 
 } 
 // ========================
-// 메인
+// 📌 메인
 // ========================
 else {
   displayAds = shuffle(ads);
@@ -73,7 +79,6 @@ const hasAds = displayAds.length > 0;
             src={type ? ad.long : ad.normal}
             alt={`ad${ad.id}`}
             class="ad-img"
-            onerror="this.closest('.ad-item').style.display='none'"
           />
         </a>
       </div>
@@ -82,7 +87,6 @@ const hasAds = displayAds.length > 0;
 )}
 
 <style>
-/* 게시글 */
 .premium-container {
   display: flex;
   flex-direction: column;
@@ -92,7 +96,6 @@ const hasAds = displayAds.length > 0;
   align-items: center;
 }
 
-/* 메인 */
 .ad-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -100,7 +103,6 @@ const hasAds = displayAds.length > 0;
   margin-bottom: 20px;
 }
 
-/* 모바일 */
 @media (max-width: 768px) {
   .ad-grid {
     grid-template-columns: 1fr;
