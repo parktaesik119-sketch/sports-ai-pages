@@ -21,21 +21,17 @@ const ads = [
 const { type } = Astro.props;
 let displayAds = [];
 
-// ========================
-// 📌 랜덤 1회만 생성
-// ========================
-if (!Astro.locals.adShuffle) {
-  const shuffle = (arr) => [...arr].sort(() => Math.random() - 0.5);
-  const longAds = ads.filter(ad => ad.long);
-  Astro.locals.adShuffle = shuffle(longAds).slice(0, 4);
-}
+// 랜덤
+const shuffle = (arr) => [...arr].sort(() => Math.random() - 0.5);
 
-const shuffled = Astro.locals.adShuffle;
+// 👉 페이지 단위 랜덤 (중복 방지 핵심)
+const longAds = ads.filter(ad => ad.long);
+const shuffled = shuffle(longAds).slice(0, 4);
 const total = shuffled.length;
 
 
 // ========================
-// 📌 게시글 페이지
+// 게시글
 // ========================
 if (type === 'top' || type === 'bottom') {
 
@@ -58,10 +54,9 @@ if (type === 'top' || type === 'bottom') {
 
 } 
 // ========================
-// 📌 메인 페이지
+// 메인
 // ========================
 else {
-  const shuffle = (arr) => [...arr].sort(() => Math.random() - 0.5);
   displayAds = shuffle(ads);
 }
 
