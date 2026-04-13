@@ -1,74 +1,68 @@
 ---
-// 1. 광고 데이터 구성 (파일명 ad1, ad2 등에 맞춰 경로 설정)
+// 1. 광고 데이터
 const ads = [
-  {
-    id: 1,
-    normal: "/images/ads/ad1.png",      // public 폴더 기준 경로
-    long: "/images/ads/ad1_long.png",
-    link: "https://trp-s.com"
-  },
-  {
-    id: 2,
-    normal: "/images/ads/ad2.png",
-    long: "/images/ads/ad2_long.png",
-    link: "https://t.me/pickheaven"
-  }
-  // 광고 추가 시 동일하게 /images/ads/파일명.png 형식으로 입력하세요.
+  { id: 1, normal: "/images/ads/ad1.png", long: "/images/ads/ad1_long.png", link: "https://trp-s.com" },
+  { id: 2, normal: "/images/ads/ad2.png", normal: "/images/ads/ad2.png", long: "/images/ads/ad2_long.png", link: "https://t.me/pickheaven" },
 ];
 
 const { type } = Astro.props;
-
-// 2. 랜덤 셔플 함수 (새로고침 시 위치 변경용)
-const shuffle = (arr) => [...arr].sort(() => Math.random() - 0.5);
-
-// 3. 광고 분배 로직 (게시글 페이지용)
-const longAds = ads.filter(ad => ad.long);
-
-// 상/하단이 같은 순서를 공유하도록 밀리초 기반 시드 대신 '초' 단위 시드 활용
-// (중복 노출 방지와 새로고침 시 랜덤 변경을 동시에 해결)
-const seed = Math.floor(Date.now() / 1000);
-const shuffledPool = [...longAds].sort((a, b) => {
-  return (Math.sin(a.id + seed) - Math.sin(b.id + seed));
-}).slice(0, 4);
-
-const total = shuffledPool.length;
-
-let displayAds = [];
-
-if (type === 'top') {
-  const count = total <= 2 ? 1 : 2;
-  displayAds = shuffledPool.slice(0, count);
-} else if (type === 'bottom') {
-  const count = total <= 2 ? 1 : 2;
-  displayAds = total > 1 ? shuffledPool.slice(count) : [];
-} else {
-  // 메인 화면 (전체 광고 랜덤)
-  displayAds = shuffle(ads);
-}
-
-// undefined 방지
-displayAds = displayAds.filter(ad => ad);
-const hasAds = displayAds.length > 0;
 ---
 
-{hasAds && (
-  <div class={type ? "premium-container" : "ad-grid"}>
-    {displayAds.map((ad) => (
-      <div class="ad-item" key={ad.id}>
-        <a href={ad.link} target="_blank" rel="noopener noreferrer">
-          <img 
-            src={type ? ad.long : ad.normal} 
-            alt={`ad${ad.id}`}
-            class="ad-img"
-          />
-        </a>
-      </div>
-    ))}
-  </div>
-)}
+<div class={type ? "premium-container" : "ad-grid"} id={`ad-wrapper-${type || 'main'}`} data-type={type} style="display: none;">
+  {ads.map((ad) => (
+    <div class="ad-item-unit" data-id={ad.id}>
+      <a href={ad.link} target="_blank" rel="noopener noreferrer">
+        <img 
+          src={type ? ad.long : ad.normal} 
+          alt={`ad${ad.id}`} 
+          class="ad-img" 
+        />
+      </a>
+    </div>
+  ))}
+</div>
+
+<script is:inline define:vars={{ type }}>
+  (function() {
+    const container = document.getElementById(`ad-wrapper-${type || 'main'}`);
+    if (!container) return;
+
+    const items = Array.from(container.querySelectorAll('.ad-item-unit'));
+    
+    // 📌 세션 스토리지를 사용하여 페이지 내에서 동일한 순서 공유
+    const storageKey = 'ad_display_order';
+    let displayOrder;
+
+    if (type === 'top' || !type) {
+      // 상단이거나 메인일 때 새로 섞고 저장
+      displayOrder = items.map(el => el.dataset.id).sort(() => Math.random() - 0.5);
+      if (type === 'top') sessionStorage.setItem(storageKey, JSON.stringify(displayOrder));
+    } else if (type === 'bottom') {
+      // 하단은 저장된 순서를 가져옴 (중복 방지 핵심)
+      const saved = sessionStorage.getItem(storageKey);
+      displayOrder = saved ? JSON.parse(saved) : items.map(el => el.dataset.id);
+    }
+
+    // 순서에 맞춰 필터링 및 노출
+    const sortedItems = displayOrder.map(id => items.find(el => el.dataset.id === id)).filter(Boolean);
+    
+    let toShow = [];
+    if (type === 'top') {
+      toShow = sortedItems.slice(0, 1); // 상단 1개
+    } else if (type === 'bottom') {
+      toShow = sortedItems.length > 1 ? sortedItems.slice(1, 2) : []; // 하단 나머지 1개
+    } else {
+      toShow = sortedItems; // 메인은 전체
+    }
+
+    // 결과 반영
+    container.innerHTML = '';
+    toShow.forEach(el => container.appendChild(el));
+    container.style.display = type ? 'flex' : 'grid';
+  })();
+</script>
 
 <style>
-/* 기존 스타일 유지 */
 .premium-container {
   display: flex;
   flex-direction: column;
@@ -77,31 +71,15 @@ const hasAds = displayAds.length > 0;
   margin: 15px 0;
   align-items: center;
 }
-
 .ad-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 10px;
   margin-bottom: 20px;
 }
-
 @media (max-width: 768px) {
-  .ad-grid {
-    grid-template-columns: 1fr;
-  }
+  .ad-grid { grid-template-columns: 1fr; }
 }
-
-.ad-item {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
-.ad-img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  /* 이미지 로딩 시 레이아웃 무너짐 방지 */
-  display: block;
-}
+.ad-item-unit { width: 100%; display: flex; justify-content: center; }
+.ad-img { width: 100%; height: auto; border-radius: 8px; display: block; }
 </style>
