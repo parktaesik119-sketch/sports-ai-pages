@@ -12,7 +12,7 @@ export async function getStaticPaths() {
   const posts = await getCollection('posts');
 
   // 👉 카테고리 자동 추출
-  const categories = [...new Set(posts.map(p => p.data.category))];
+  const allCategories = ['soccer', 'baseball', 'basketball', 'volleyball', 'hockey', 'lol'];
 
   return categories.map(cat => ({
     params: { category: cat }
