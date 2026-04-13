@@ -14,10 +14,11 @@ export async function getStaticPaths() {
   // 👉 카테고리 자동 추출
   const allCategories = ['soccer', 'baseball', 'basketball', 'volleyball', 'hockey', 'lol'];
 
-  return categories.map(cat => ({
+  return allCategories.map(cat => ({
     params: { category: cat }
   }));
 }
+
 /* ========================= */
 
 /* 📌 URL에서 category 가져오기 */
@@ -41,7 +42,7 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
 ---
 
 <BaseLayout title={`${categoryName} - 스포츠 분석`}>
-  <div class="main-layout-container">
+  <div class="main-layout-container" data-category={category}>
     
     <!-- 🔵 사이드바 -->
     <div class="sidebar-area">
@@ -90,7 +91,7 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
 
 <style>
 /* =========================
-   📌 레이아웃 (핵심)
+   📌 레이아웃 (기존 유지)
 ========================= */
 .main-layout-container {
   display: flex !important;
@@ -114,13 +115,14 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
 }
 
 /* =========================
-   📌 게시판
+   📌 게시판 및 아이콘 (핵심 추가)
 ========================= */
 .board-card {
   background: #fff;
   border-radius: 12px;
   border: 1px solid #e1e4e8;
   overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
 .board-header {
@@ -132,10 +134,55 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
   margin: 0;
   font-size: 1.2rem;
   font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* 아이콘 공통 설정 */
+.board-header h2::before {
+  content: "";
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* 종목별 아이콘 주소 연결 */
+/* ⚽ 축구 */
+[data-category="soccer"] .board-header h2::before {
+  background-image: url('/icons/soccer.png') !important;
+}
+
+/* ⚾ 야구 */
+[data-category="baseball"] .board-header h2::before {
+  background-image: url('/icons/baseball.png') !important;
+}
+
+/* 🏀 농구 */
+[data-category="basketball"] .board-header h2::before {
+  background-image: url('/icons/basketball.png') !important;
+}
+
+/* 🏐 배구 */
+[data-category="volleyball"] .board-header h2::before {
+  background-image: url('/icons/volleyball.png') !important;
+}
+
+/* 🏒 하키 */
+[data-category="hockey"] .board-header h2::before {
+  background-image: url('/icons/hockey.png') !important;
+}
+
+/* 🎮 LoL */
+[data-category="lol"] .board-header h2::before {
+  background-image: url('/icons/lol.png') !important;
 }
 
 /* =========================
-   📌 리스트
+   📌 리스트 (기존 유지)
 ========================= */
 .post-list {
   list-style: none;
@@ -168,8 +215,14 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
   color: #94a3b8;
 }
 
+.empty-msg {
+  padding: 50px;
+  text-align: center;
+  color: #94a3b8;
+}
+
 /* =========================
-   📱 모바일
+   📱 모바일 (기존 유지)
 ========================= */
 @media (max-width: 1024px) {
   .main-layout-container {
@@ -178,7 +231,7 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
   }
 
   .sidebar-area {
-    width: 100%;
+    display: none; /* 모바일에서 사이드바 숨김 */
   }
 
   .post-item a {
