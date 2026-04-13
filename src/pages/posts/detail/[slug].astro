@@ -4,6 +4,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Sidebar from '../../../components/Sidebar.astro';
 import { CATEGORY_MAP } from '../../../lib/categories';
+import AdGrid from '../../../components/AdGrid.astro';
 
 export async function getStaticPaths() {
   const items = await getCollection('posts');
@@ -61,9 +62,17 @@ const categoryName = CATEGORY_MAP[category] ?? category;
         </header>
 
         <div class="detail-content">
+        <div style="margin-bottom: 20px;">
+    <AdGrid type="top" />
+  </div>
+
           <div class="prose">
             <Content />
           </div>
+
+          <div style="margin-top: 30px; padding-top: 20px; border-top: 1px dashed #eee;">
+    <AdGrid type="bottom" />
+  </div>
         </div>
 
         <footer class="detail-footer">
