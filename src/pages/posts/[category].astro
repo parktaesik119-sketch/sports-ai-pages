@@ -50,7 +50,7 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
 
     <!-- 🔵 본문 -->
     <main class="content-area">
-      <div class={`board board-card ${category}`}>
+      <div class={`board-card`}>
 
         <!-- 🔥 헤더 -->
         <div 
@@ -77,7 +77,7 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
 
           {filteredPosts.length === 0 && (
             <div class="empty-msg">
-              등록된 게시글이 없습니다.
+              등록된 {categoryName} 글이 없습니다.
             </div>
           )}
         </div>
