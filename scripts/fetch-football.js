@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // 1. 설정 정보
-const API_KEY = '8e49b25e545ea6bff12f75a858c89529';
+const API_KEY = process.env.FOOTBALL_API_KEY || '8e49b25e545ea6bff12f75a858c89529';
 const BASE_URL = 'https://v3.football.api-sports.io';
 
 async function getMatches(date) {
@@ -58,6 +58,5 @@ async function getMatches(date) {
   }
 }
 
-// 테스트용 날짜 (데이터가 확실히 있는 과거 날짜나 오늘 날짜로 입력)
-// 2024년 데이터로 테스트해보거나, 오늘 날짜(2026-04-14)로 해보세요.
-getMatches('2026-04-14');
+const today = new Date().toISOString().split('T')[0];
+getMatches(today);
