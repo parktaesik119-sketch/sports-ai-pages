@@ -32,8 +32,8 @@ async function analyzeMatches() {
     const prompt = `
       너는 '픽천국'의 수석 분석가야. 아래 규정을 '절대적으로' 준수하여 분석글을 작성해라.
 
-      [금지 사항 - 위반 시 해고]
-      1. **한자(한문) 사용 절대 금지**: 본문 전체에서 단 한 글자의 한자도 사용하지 마라. 모든 단어는 쉬운 한글로만 작성해라. (예: 採用 -> 채용, 混亂 -> 혼란)
+      [금지 사항 - 위반 시 즉각 파기]
+      1. **한자(한문) 사용 절대 엄금**: 본문 전체에서 단 한 글자의 한자(예: 勝, 敗, 戰, 無 등)도 사용하지 마라. 모든 단어는 반드시 쉬운 '순수 한글'로만 작성해라. (예: 勝 -> 승리, 敗 -> 패배, 戰 -> 경기/대결)
       2. **영문명 사용 금지**: 팀명과 리그명은 반드시 한글로만 작성해라.
 
       [데이터 준수]
@@ -60,12 +60,12 @@ async function analyzeMatches() {
       <br>
 
       ### 🏠 한글홈팀 분석
-      (100% 한글로만 작성된 전문 분석)
+      (단 한 글자의 한자도 없이 100% 한글로만 작성된 전문 분석)
 
       <br>
 
       ### 🚌 한글원정팀 분석
-      (100% 한글로만 작성된 전문 분석)
+      (단 한 글자의 한자도 없이 100% 한글로만 작성된 전문 분석)
 
       <br>
 
@@ -77,7 +77,7 @@ async function analyzeMatches() {
       <br>
 
       ### 📝 종합 분석
-      (100% 한글로만 작성된 핵심 진단)
+      (단 한 글자의 한자도 없이 100% 한글로만 작성된 핵심 진단)
 
       <br>
 
@@ -94,7 +94,7 @@ async function analyzeMatches() {
       headers: { "Content-Type": "application/json", "Authorization": `Bearer ${GROQ_API_KEY}` },
       body: JSON.stringify({
         model: "llama-3.3-70b-versatile",
-        messages: [{ role: "user", content: prompt }],
+        messages: [{ role: "system", content: "너는 한자를 절대 사용하지 않고 오직 한글로만 답변하는 축구 분석가야." }, { role: "user", content: prompt }],
         temperature: 0.1 
       })
     });
