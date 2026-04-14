@@ -1,62 +1,64 @@
-import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-// ES 모듈에서 경로 설정을 위한 코드
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// 1. 설정 정보
-const API_KEY = '8e49b25e545ea6bff12f75a858c89529';
-const BASE_URL = 'https://v3.football.api-sports.io';
+// 기존 API 키 사용
+const API_KEY = process.env.FOOTBALL_API_KEY || "사장님의_API_키"; 
 
-async function getMatches(date) {
+async function fetchThreeDaysMatches() {
   try {
-    const response = await axios.get(`${BASE_URL}/fixtures`, {
-      params: { 
-        date: date,
-        timezone: 'Asia/Seoul' // 한국 시간 기준으로 가져오기
-      },
-      headers: {
-        'x-rapidapi-key': API_KEY,
-        'x-rapidapi-host': 'v3.football.api-sports.io'
-      }
+    // 1. 날짜 배열 생성 (오늘, 내일, 모레)
+    const dates = [0, 1, 2].map(offset => {
+      const d = new Date();
+      d.setDate(d.getDate() + offset);
+      return d.toISOString().split('T')[0];
     });
 
-    const matches = response.data.response;
-    
-    if (!matches || matches.length === 0) {
-      console.log(`${date} 일자에 경기 데이터가 없습니다.`);
-      return;
+    console.log(`🚀 데이터 수집 시작: ${dates.join(', ')}`);
+
+    let allMatches = [];
+
+    // 2. 각 날짜별로 API 호출 루프
+    for (const date of dates) {
+      console.log(`📅 ${date} 경기 불러오는 중...`);
+      
+      const response = await fetch(`https://v3.football.api-sports.io/fixtures?date=${date}&timezone=Asia/Seoul`, {
+        method: "GET",
+        headers: {
+          "x-rapidapi-key": API_KEY,
+          "x-rapidapi-host": "v3.football.api-sports.io"
+        }
+      });
+
+      const result = await response.json();
+
+      if (result.response && result.response.length > 0) {
+        // 사장님 전략대로 배당률이 있거나 주요 리그인 것들 위주로 데이터 가공
+        const filtered = result.response.map(item => ({
+          id: item.fixture.id,
+          date: item.fixture.date,
+          league: item.league.name,
+          home: item.teams.home.name,
+          away: item.teams.away.name,
+          homeLogo: item.teams.home.logo,
+          awayLogo: item.teams.away.logo
+        }));
+        allMatches = [...allMatches, ...filtered];
+      }
     }
 
-    console.log(`${date} 일자에 총 ${matches.length}개의 경기가 있습니다.`);
+    // 3. 통합된 3일치 데이터를 raw-data.json에 저장
+    const savePath = path.resolve(__dirname, 'raw-data.json');
+    fs.writeFileSync(savePath, JSON.stringify(allMatches, null, 2), 'utf8');
 
-    // 실제 분석에 필요한 데이터만 뽑기
-    const selectedMatches = matches.slice(0, 5).map(m => ({
-      id: m.fixture.id,
-      league: m.league.name,
-      round: m.league.round,
-      home: m.teams.home.name,
-      away: m.teams.away.name,
-      homeLogo: m.teams.home.logo,
-      awayLogo: m.teams.away.logo,
-      time: m.fixture.date,
-      venue: m.fixture.venue.name
-    }));
-
-    // 파일 저장 경로 설정 (scripts 폴더 안에 raw-data.json으로 저장)
-    const savePath = path.join(__dirname, 'raw-data.json');
-    fs.writeFileSync(savePath, JSON.stringify(selectedMatches, null, 2));
+    console.log(`✅ 수집 완료: 총 ${allMatches.length}개의 경기를 확보했습니다.`);
     
-    console.log(`✅ 데이터 수집 완료!`);
-    console.log(`📂 저장 위치: ${savePath}`);
-
   } catch (error) {
-    console.error('❌ 에러 발생:', error.message);
+    console.error("❌ 수집 오류:", error.message);
   }
 }
 
-const today = new Date().toISOString().split('T')[0];
-getMatches(today);
+fetchThreeDaysMatches();

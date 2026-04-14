@@ -2,8 +2,8 @@ name: Pick Heaven Auto Post
 
 on:
   schedule:
-    # 한국시간 기준 오전 9시, 오후 9시에 실행 (UTC 00:00, 12:00)
-    - cron: '0 0,12 * * *'
+    # 한국 시간 기준 오전 9시 (UTC 00:00) 딱 한 번만 실행
+    - cron: '0 0 * * *'
   workflow_dispatch: # 수동으로 즉시 실행해볼 수 있는 버튼 생성
 
 jobs:

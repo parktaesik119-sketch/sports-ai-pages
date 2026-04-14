@@ -1,23 +1,29 @@
 ---
-// index.astro에서 전달받는 props: category(종목코드), title(한글종목명)
+// [수정] Astro에서 콘텐츠 모음을 가져오기 위한 도구 로드
+import { getCollection } from 'astro:content';
+
 const { category, title } = Astro.props;
 
-/**
- * 날짜 비교 로직
- * 현재 시간을 기준으로 '오늘' 날짜(MM.DD)를 생성하여 게시글 날짜와 비교합니다.
- */
+// [수정] 실제 'posts' 컬렉션에서 해당 카테고리의 글만 가져오기
+const allPosts = await getCollection('posts', ({ data }) => {
+  return data.category === category; // 'soccer' 등 카테고리 필터링
+});
+
+// [수정] 최신순 정렬 후 상위 4개만 추출
+const posts = allPosts
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 4)
+  .map(post => ({
+    title: post.data.title,
+    // 날짜 포맷을 MM.DD 형식으로 변경 (예: 04.14)
+    date: `${String(post.data.date.getMonth() + 1).padStart(2, '0')}.${String(post.data.date.getDate()).padStart(2, '0')}`,
+    slug: `/posts/detail/${post.slug}` // 상세 페이지 링크
+  }));
+
 const now = new Date();
 const month = String(now.getMonth() + 1).padStart(2, '0');
 const day = String(now.getDate()).padStart(2, '0');
-const todayStr = `${month}.${day}`; // 예: "03.30"
-
-// 게시글 데이터 (실제 운영 시에는 getCollection 등으로 Markdown 데이터를 가져오게 됩니다)
-const posts = [
-  { title: `덴버 vs 골든스테이트 통계 분석 | NBA`, date: '03.30' },
-  { title: `[남자V리그] 3월29일 우리카드 vs 현대캐피탈`, date: '03.29' },
-  { title: `[WKBL] 3월29일 하나은행 vs KB스타즈`, date: '03.29' },
-  { title: `청주 vs 부산 통계 분석 | K리그2`, date: '03.29' },
-];
+const todayStr = `${month}.${day}`;
 ---
 
 <section class={`board ${category}`}>
@@ -31,7 +37,7 @@ const posts = [
       const isNew = post.date === todayStr;
       return (
         <li>
-          <a href="#" class="title-link">
+          <a href={post.slug} class="title-link">
             <span class="title-wrapper">
               {isNew && <span class="new-badge">N</span>}
               <span class="site-tag">[픽천국]</span>
