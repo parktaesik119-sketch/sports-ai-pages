@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // 1. 설정 정보
-const API_KEY = process.env.FOOTBALL_API_KEY;
+const API_KEY = '8e49b25e545ea6bff12f75a858c89529';
 const BASE_URL = 'https://v3.football.api-sports.io';
 
 async function getMatches(date) {
