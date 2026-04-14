@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
 async function analyzeMatches() {
   try {
