@@ -12,6 +12,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^6.1.1"
+    "@google/generative-ai": "^0.24.1",
+    "astro": "^6.1.1",
+    "axios": "^1.15.0"
   }
 }
