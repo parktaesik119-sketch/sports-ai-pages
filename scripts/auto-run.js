@@ -4,7 +4,7 @@ import { execSync } from 'child_process';
 try {
   console.log("1. 축구 데이터 수집 시작...");
   // 데이터 수집 파일 실행 (파일명이 다르면 수정하세요)
-  execSync('node scripts/fetch-data.js', { stdio: 'inherit' });
+  execSync('node scripts/fetch-football.js', { stdio: 'inherit' });
 
   console.log("2. 그록 AI 분석 및 글 작성 시작...");
   // 분석 및 글쓰기 파일 실행
