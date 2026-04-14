@@ -1,0 +1,33 @@
+name: Pick Heaven Auto Post
+
+on:
+  schedule:
+    # 한국시간 기준 오전 9시, 오후 9시에 실행 (UTC 00:00, 12:00)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 수동으로 즉시 실행해볼 수 있는 버튼 생성
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Node.js 설정
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: 의존성 설치
+        run: npm install
+
+      - name: 데이터 수집 및 AI 분석 실행
+        run: node scripts/auto-run.js
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # 깃허브에 등록한 키 사용
+
+      - name: 생성된 글을 깃허브에 푸쉬
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "자동 분석글 업로드" && git push)
