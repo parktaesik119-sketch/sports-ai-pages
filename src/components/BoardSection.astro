@@ -13,12 +13,18 @@ const allPosts = await getCollection('posts', ({ data }) => {
 const posts = allPosts
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 4)
-  .map(post => ({
-    title: post.data.title,
-    // 날짜 포맷을 MM.DD 형식으로 변경 (예: 04.14)
-    date: `${String(post.data.date.getMonth() + 1).padStart(2, '0')}.${String(post.data.date.getDate()).padStart(2, '0')}`,
-    slug: `/posts/detail/${post.slug}` // 상세 페이지 링크
-  }));
+  .map(post => {
+    // 💡 [핵심수정] AI가 만든 파일 속 slug 데이터가 있으면 그것을 쓰고, 없으면 기본 slug를 씁니다.
+    // 이렇게 해야 주소가 /undefined 로 나오는 현상이 해결됩니다.
+    const finalSlug = post.data.slug || post.slug;
+
+    return {
+      title: post.data.title,
+      // 날짜 포맷을 MM.DD 형식으로 변경 (예: 04.14)
+      date: `${String(post.data.date.getMonth() + 1).padStart(2, '0')}.${String(post.data.date.getDate()).padStart(2, '0')}`,
+      slug: `/posts/detail/${finalSlug}` // 상세 페이지 링크
+    };
+  });
 
 const now = new Date();
 const month = String(now.getMonth() + 1).padStart(2, '0');
