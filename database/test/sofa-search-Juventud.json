@@ -1,0 +1,758 @@
+{
+  "results": [
+    {
+      "entity": {
+        "id": 1980,
+        "name": "Juventude",
+        "nameCode": "JUV",
+        "slug": "juventude",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 59285,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوفنتود"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 228708.81,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 3224,
+        "name": "Juventud de Las Piedras",
+        "nameCode": "JUV",
+        "slug": "juventud-de-las-piedras",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 6349,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0000ff",
+          "text": "#0000ff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "UY",
+          "name": "Uruguay",
+          "slug": "uruguay"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خدمة الشباب",
+            "ru": "Ювентуд ду лас Пиедрас"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 191929.94,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 195800,
+        "name": "Juventud de Las Piedras Reserve",
+        "nameCode": "JDL",
+        "slug": "juventud-de-las-piedras-reserve",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 1909,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "UY",
+          "name": "Uruguay",
+          "slug": "uruguay"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوسينتود ريزيرف"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 93144.52,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 263407,
+        "name": "Juventud Torremolinos CF",
+        "nameCode": "JTO",
+        "slug": "juventud-torremolinos-cf",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 1442,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "ES",
+          "name": "Spain",
+          "slug": "spain"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوسيه توريمولينوس سي إف"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 70216.5,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 273210,
+        "name": "Juventud Unida Universitario",
+        "nameCode": "JUU",
+        "slug": "juventud-unida-universitario",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 1038,
+        "teamColors": {
+          "primary": "#000080",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خدمة الشباب المتحدة الجامعية",
+            "ru": "Хувентуд Унида Университарио"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 58550.14,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 980586,
+        "name": "Marcelo Perez",
+        "slug": "perez-marcelo",
+        "userCount": 1757,
+        "team": {
+          "id": 3224,
+          "name": "Juventud de Las Piedras",
+          "nameCode": "JUV",
+          "slug": "juventud-de-las-piedras",
+          "national": false,
+          "sport": {
+            "id": 1,
+            "slug": "football",
+            "name": "Football"
+          },
+          "userCount": 6349,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0000ff",
+            "text": "#0000ff"
+          },
+          "gender": "M",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خدمة الشباب",
+              "ru": "Ювентуд ду лас Пиедрас"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "deceased": false,
+        "country": {
+          "alpha2": "PY",
+          "name": "Paraguay",
+          "slug": "paraguay"
+        },
+        "shortName": "M. Perez",
+        "position": "F",
+        "jerseyNumber": "9",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "م. بيريز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 49336.117,
+      "type": "player"
+    },
+    {
+      "entity": {
+        "id": 266185,
+        "name": "Juventud Unida San Miguel",
+        "nameCode": "JSM",
+        "slug": "juventud-unida-san-miguel",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 952,
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خدمة الشباب المتحدة سان ميغيل",
+            "hi": "जुवेंटुड यूनिडा सैन मिगुएल",
+            "ru": "Хувентуд Унида Сан Мигель"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 47276.082,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 93519,
+        "name": "Juventud Antoniana",
+        "nameCode": "JAS",
+        "slug": "juventud-antoniana",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 1018,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000050",
+          "text": "#000050"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوڢينتود انتونيانا",
+            "ru": "Ювентуд Антониана"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 41067.566,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 224003,
+        "name": "Juventude U20",
+        "nameCode": "JUV",
+        "slug": "juventude-u20",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 1821,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوفنتود تحت 20"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 40017.062,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 464768,
+        "name": "Juventud Copalera",
+        "nameCode": "JCO",
+        "slug": "juventud-copalera",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 205,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "GT",
+          "name": "Guatemala",
+          "slug": "guatemala"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوفنتود كوباليرا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 36399.066,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 374351,
+        "name": "Juventud Alianza",
+        "nameCode": "JAL",
+        "slug": "juventud-alianza",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 197,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوابنتود أليانزا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 35554.895,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 189721,
+        "name": "Juventud Unida Gualeguaychú",
+        "nameCode": "JUN",
+        "slug": "juventud-unida-gualeguaychu",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 279,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#27bef8",
+          "text": "#27bef8"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خدمة الشباب المتحدة",
+            "ru": "Хувентуд Унида Гуалегуайчу"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 35508.684,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 396744,
+        "name": "EC Juventude",
+        "nameCode": "JUV",
+        "slug": "ec-juventude",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 1505,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "F",
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيوفينتود"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 35192.492,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 1619824,
+        "name": "Jorge Lara",
+        "slug": "jorge-lara",
+        "userCount": 673,
+        "team": {
+          "id": 375950,
+          "name": "Juventud Pinulteca FC",
+          "nameCode": "JPI",
+          "slug": "juventud-pinulteca-fc",
+          "national": false,
+          "sport": {
+            "id": 1,
+            "slug": "football",
+            "name": "Football"
+          },
+          "userCount": 107,
+          "teamColors": {
+            "primary": "#374df5",
+            "secondary": "#374df5",
+            "text": "#ffffff"
+          },
+          "gender": "M",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خوابنتود بينولتيكا إف سي"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "deceased": false,
+        "country": {
+          "alpha2": "CO",
+          "name": "Colombia",
+          "slug": "colombia"
+        },
+        "shortName": "J. Lara",
+        "position": "M",
+        "jerseyNumber": "24",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خ. لارا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 33098.316,
+      "type": "player"
+    },
+    {
+      "entity": {
+        "id": 1110520,
+        "name": "Juventud Copalera",
+        "nameCode": "JUV",
+        "slug": "juventud-copalera",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 247,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "GT",
+          "name": "Guatemala",
+          "slug": "guatemala"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خدمة الشباب كوباليرا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 32719.65,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 485465,
+        "name": "Club Juventud Cambados",
+        "nameCode": "JCA",
+        "slug": "club-juventud-cambados",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 188,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "ES",
+          "name": "Spain",
+          "slug": "spain"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خفوتود كامبادوس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 32223.52,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 28186,
+        "name": "Martín Cáceres",
+        "slug": "martin-caceres",
+        "userCount": 617,
+        "team": {
+          "id": 3224,
+          "name": "Juventud de Las Piedras",
+          "nameCode": "JUV",
+          "slug": "juventud-de-las-piedras",
+          "national": false,
+          "sport": {
+            "id": 1,
+            "slug": "football",
+            "name": "Football"
+          },
+          "userCount": 6835,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0000ff",
+            "text": "#0000ff"
+          },
+          "gender": "M",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خدمة الشباب",
+              "ru": "Ювентуд ду лас Пиедрас"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "deceased": false,
+        "country": {
+          "alpha2": "UY",
+          "name": "Uruguay",
+          "slug": "uruguay"
+        },
+        "shortName": "M. Cáceres",
+        "position": "D",
+        "jerseyNumber": "4",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "bn": "এম. ক্যাসেরেস",
+            "hi": "एम. कासेरेस"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 28847.56,
+      "type": "player"
+    },
+    {
+      "entity": {
+        "id": 404331,
+        "name": "Juventud Puerto Tirol",
+        "nameCode": "JPT",
+        "slug": "juventud-puerto-tirol",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 144,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خدمة (بي تي)"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 28103.121,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 273409,
+        "name": "CF Juventud Laguna U19",
+        "nameCode": "JLA",
+        "slug": "cf-juventud-laguna-u19",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 179,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "ES",
+          "name": "Spain",
+          "slug": "spain"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خدمة الشباب لاجونا تحت 19"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 26796.525,
+      "type": "team"
+    },
+    {
+      "entity": {
+        "id": 506904,
+        "name": "C. D. Juventud Unida",
+        "nameCode": "JUN",
+        "slug": "c-d-juventud-unida",
+        "national": false,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "userCount": 118,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سي. دي. خوسينتود أونييدا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "score": 24837.01,
+      "type": "team"
+    }
+  ]
+}

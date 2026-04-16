@@ -1,151 +1,178 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// --- [ 설정 구역 ] ---
+const GEMINI_API_KEY = "AIzaSyBePzZQYMIc_omUJ6doh_4q0rgGPJO4I1U"; 
+const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+const MODEL_PRIORITY = [
+  "gemini-2.0-flash",
+  "gemini-flash-latest",
+  "gemini-2.0-flash-lite-001",
+  "gemini-pro-latest",
+  "gemini-2.5-flash"
+];
+
 async function analyzeMatches() {
   try {
-    // 1. 마스터 DB 및 오늘 데이터 로드
+    const today = new Date().toISOString().split('T')[0]; 
     const dbPath = path.resolve(__dirname, '../database/all-fixtures.json');
-    const dataPath = path.resolve(__dirname, 'raw-data.json'); 
+    const dataPath = path.resolve(__dirname, `../database/${today}.json`); 
 
     if (!fs.existsSync(dataPath)) {
-      console.error("❌ 분석할 raw-data.json을 찾을 수 없습니다.");
+      console.error(`❌ 분석할 ${today}.json 파일을 찾을 수 없습니다.`);
       return;
     }
 
     const rawData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
     const masterData = fs.existsSync(dbPath) ? JSON.parse(fs.readFileSync(dbPath, 'utf8')) : [];
 
-    // 2. [사장님 로직 100% 보존] 정밀 필터링 (축구, 농구, 야구, 배구, 하키, LOL)
     const filteredMatches = rawData.filter(m => {
       const league = (m.league || '').toUpperCase();
-      if (league.includes('FOOTBALL') || league.includes('SOCCER') || league.includes('LEAGUE 1') || league.includes('LEAGUE 2') || 
-          league.includes('CUP') || league.includes('INTERNATIONAL') || league.includes('FRIENDLIES') || 
-          league.includes('OLYMPIC') || league.includes('U19') || league.includes('U20') || league.includes('U21') || league.includes('U23')) return true;
-      if (league.includes('NBA') || league.includes('KBL') || league.includes('CBA') || league.includes('B.LEAGUE')) return true;
-      if (league.includes('V-LEAGUE') || league.includes('SV.LEAGUE') || league.includes('CVL') || league.includes('SULTANLAR')) return true;
-      if (league.includes('KBO') || league.includes('MLB') || league.includes('NPB') || league.includes('ABL') || league.includes('MEXICAN')) return true;
-      if (league.includes('NHL') || league.includes('KHL')) return true;
-      if (league.includes('LCK') || league.includes('LCS') || league.includes('LPL') || league.includes('MSI') || league.includes('WORLD CHAMPIONSHIP')) return true;
-      return false;
+      const s = (str) => league.includes(str);
+      return s('FOOTBALL') || s('SOCCER') || s('NBA') || s('KBL') || s('V-LEAGUE') || s('KBO') || s('MLB') || s('NHL') || s('LCK') || s('LPL');
     });
 
-    console.log(`🚀 [픽천국] 분석 엔진 가동: 총 ${filteredMatches.length}개 경기 정밀 분석 시작`);
+    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 및 디자인 복구 시작`);
 
-    for (const match of filteredMatches) {
-      const rawDate = match.date || new Date().toISOString();
-      const dateOnly = rawDate.split('T')[0];
+    for (let i = 0; i < filteredMatches.length; i++) {
+      const match = filteredMatches[i];
+      const dateOnly = (match.date || new Date().toISOString()).split('T')[0];
+      const dateShort = dateOnly.substring(2).replace(/-/g, '/'); // 26/04/15 형식 
+      
       const saveDir = path.resolve(__dirname, '../src/content/posts');
-      if (!fs.existsSync(saveDir)) fs.mkdirSync(saveDir, { recursive: true });
       const savePath = path.join(saveDir, `${dateOnly}-${match.id}.md`);
 
-      // 중복 생성 방지
       if (fs.existsSync(savePath)) continue; 
 
-      // 3. [사장님 로직 100% 보존] 마스터 DB에서 실제 상대 전적(H2H) 추출
+      // 1. 한국 시간 및 가독성 spacer
+      const dateObj = new Date(match.date || new Date());
+      const fullKstSchedule = `${dateObj.toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', weekday: 'short' })} ${dateObj.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit', hour12: false })}`;
+      const spacer = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+
+      // 2. 상대 전적 데이터 확보 (데이터가 1개도 없을 경우 섹션 숨김 처리) 
       const h2hHistory = masterData
-        .filter(m => 
-          ((m.home === match.home && m.away === match.away) || (m.home === match.away && m.away === match.home)) &&
-          new Date(m.date) < new Date(match.date)
-        )
-        .sort((a, b) => new Date(b.date) - new Date(a.date))
-        .slice(0, 5); 
+        .filter(m => ((m.home === match.home && m.away === match.away) || (m.home === match.away && m.away === match.home)) && new Date(m.date) < new Date(match.date))
+        .sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5); 
 
-      const h2hDataText = h2hHistory.length > 0 
-        ? h2hHistory.map(h => `| ${h.date.split('T')[0]} | ${h.home} vs ${h.away} | 결과 정보 포함 |`).join('\n')
-        : "| 데이터 없음 | 최근 상대 전적 데이터가 부족합니다. | - |";
+      let h2hContent = "";
+      if (h2hHistory.length > 0) {
+        const h2hRows = h2hHistory.map(h => `| ${h.date.split('T')[0]} ${spacer} | ${h.home} ${spacer} | ${h.score || '결과 미정'} ${spacer} |`).join('\n');
+        h2hContent = `
+<br>
 
-      // 4. [사장님 로직 100% 보존] 종목별 카테고리 정밀 분류
+### ⚔️ 상대 전적 분석
+| <span style="color: #007bff;">날짜</span> ${spacer} | <span style="color: #007bff;">승리팀</span> ${spacer} | <span style="color: #007bff;">경기결과</span> ${spacer} |
+|:---|:---|:---:|
+${h2hRows}
+`;
+      }
+
+      // 3. 카테고리 결정
       const lg = (match.league || '').toUpperCase();
-      let finalCategory = "soccer"; 
-      if (lg.includes('NBA') || lg.includes('KBL') || lg.includes('CBA') || lg.includes('B.LEAGUE')) finalCategory = "basketball";
-      else if (lg.includes('KBO') || lg.includes('MLB') || lg.includes('NPB') || lg.includes('ABL')) finalCategory = "baseball";
-      else if (lg.includes('V-LEAGUE') || lg.includes('SV.LEAGUE') || lg.includes('SULTANLAR')) finalCategory = "volleyball";
-      else if (lg.includes('NHL') || lg.includes('KHL')) finalCategory = "hockey";
-      else if (lg.includes('LCK') || lg.includes('LCS') || lg.includes('LPL') || lg.includes('WORLD')) finalCategory = "lol";
+      let cat = "soccer"; 
+      if (lg.includes('NBA') || lg.includes('KBL')) cat = "basketball";
+      else if (lg.includes('KBO') || lg.includes('MLB')) cat = "baseball";
+      else if (lg.includes('LCK') || lg.includes('LPL')) cat = "lol";
 
-      const spacer = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-      
-      // 5. 🤖 llama3:8b 모델에 최적화된 한국어 특화 프롬프트
       const prompt = `
-        당신은 대한민국 최고의 스포츠 분석 채널 '픽천국'의 수석 에디터입니다.
-        아래 경기 정보를 바탕으로 반드시 **한국어로만** 가독성이 뛰어난 전문 분석글을 작성하세요.
+        너는 '픽천국'의 수석 분석가야. 아래 규정을 절대적으로 준수하여 리포트를 작성해라. [cite: 2, 3]
 
-        [지시 사항]
-        1. 모든 영어 팀명과 리그명은 자연스러운 한국어로 번역하세요. (예: Arsenal -> 아스널)
-        2. 분석 내용은 각 팀당 최소 3문장 이상 상세하고 전문적으로 작성하세요.
-        3. 항목 제목은 파란색 강조 태그 <span style="color: #007bff;">항목명</span>를 사용하세요.
-        4. TITLE 형식: TITLE: [한글리그명] 한글홈팀 vs 한글원정팀 분석 (날짜)
+        [금지 사항]
+        1. 한자(한문), 일어 사용 절대 금지: 100% 쉬운 한글로만 작성. [cite: 3]
+        2. 영문명 사용 금지: 모든 팀명/리그명은 한글로 소리나는 대로 번역.(예: Arsenal -> 아스널) [cite: 4]
+        3. 마크다운 기호 노출 주의: 불필요한 코드 블록 기호(\`\`\`) 등을 절대 사용하지 마라. [cite: 4]
 
-        원문 데이터:
-        - 리그: ${match.league}
-        - 홈팀: ${match.home} / 원정팀: ${match.away}
-        - 상대전적: ${h2hDataText}
+        [디자인 지시]
+        1. 항목명 파란색 강조: '홈팀', '원정팀', '리그', '경기시간', '승무패', '핸디캡', '오버언더', '날짜', '승리팀', '경기결과'는 반드시 <span style="color: #007bff;">항목명</span> 태그 사용. [cite: 5]
+        2. 부제목 아이콘: 🏟️, 🏠, 🚌, ⚔️, 📝, 🎯 필수. [cite: 6]
+        3. 여백 유지: 표 내부 데이터 뒤에 반드시 ${spacer}를 삽입하여 넓게 벌려라. [cite: 6]
+        4. 상세 분석(홈/원정/종합분석)은 각각 최소 3문장 이상의 전문적인 문장으로 작성을 하고, 문맥이 끊기거나 주제가 바뀌면 반드시 <br> 태그와 함께 다음 줄로 넘겨라. [cite: 7]
+        5. 팀명 뒤 'U20', 'W' 등이 있다면 반드시 한글 뒤에 붙여라.(예: W -> 여 이렇게 하지말고 W로) 
 
-        [출력 구조]
-        TITLE: [한글리그명] ${match.home} vs ${match.away} 분석 (${dateOnly})
+        [제목 형식 지시] 
+        - 반드시 TITLE: 형식을 유지하며 다음 포맷으로 작성해라.
+        - TITLE: ${dateShort} 국가 [리그명] 홈팀명 vs 원정팀명 분석 (국제대회는 국가 대신 '국제'라고 표기)
+
+        TITLE: ${dateShort} [${match.league}] ${match.home} vs ${match.away} 분석
 
         ### 🏟️ 경기 정보 요약
         | | |
         |:---|:---|
-        | **<span style="color: #007bff;">홈팀</span>** ${spacer} | (한글 홈팀명 번역) |
-        | **<span style="color: #007bff;">원정팀</span>** ${spacer} | (한글 원정팀명 번역) |
-        | **<span style="color: #007bff;">리그</span>** ${spacer} | (한글 리그명 번역) |
+        | **<span style="color: #007bff;">홈팀</span>** ${spacer} | <img src="${match.homeLogo || ''}" width="25" height="25" style="vertical-align: middle;"> ${match.home} |
+        | **<span style="color: #007bff;">원정팀</span>** ${spacer} | <img src="${match.awayLogo || ''}" width="25" height="25" style="vertical-align: middle;"> ${match.away} |
+        | **<span style="color: #007bff;">리그</span>** ${spacer} | ${match.league} |
+        | **<span style="color: #007bff;">경기시간</span>** ${spacer} | ${fullKstSchedule} |
 
         <br>
-        ### 🏠 (한글홈팀명) 상세 분석
-        (이 팀의 최근 폼과 핵심 선수 위주 분석 서술)
+
+        ### 🏠 ${match.home} 분석
+        (3문장 이상의 전문 분석. 문단 끝 <br>) [cite: 9]
 
         <br>
-        ### 🚌 (한글원정팀명) 상세 분석
-        (원정 팀의 수비력과 최근 원정 경기 흐름 분석 서술)
+
+        ### 🚌 ${match.away} 분석
+        (3문장 이상의 전문 분석. 문단 끝 <br>) [cite: 10]
+        ${h2hContent}
+        <br>
+
+        ### 📝 종합 분석
+        (상대전적 유무와 상관없이 현재 폼을 바탕으로 한 최종 진단) 
 
         <br>
-        ### ⚔️ 상대 전적 분석 (최근 5경기)
-        ${h2hDataText}
 
-        <br>
-        ### 📝 종합 분석 및 최종 진단
-        (상대 전적과 두 팀의 현재 기세를 비교하여 최종 시나리오 서술)
-
-        <br>
-        ### 🎯 최종 추천픽
+        ### 🎯 추천픽 [cite: 12]
         | | | | |
         |:---:|:---:|:---:|:---:|
-        | **<span style="color: #007bff;">승무패</span>** ${spacer} | 추천결과 | - | **추천** |
-        | **<span style="color: #007bff;">핸디캡</span>** ${spacer} | 추천결과 | [기준점] | **추천** |
-        | **<span style="color: #007bff;">오버언더</span>** ${spacer} | 추천결과 | [기준점] | **추천** |
+        | **<span style="color: #007bff;">승무패</span>** ${spacer} | (추천) ${spacer} | - ${spacer} | **추천** |
+        | **<span style="color: #007bff;">핸디캡</span>** ${spacer} | (추천) ${spacer} | [0.5] ${spacer} | **추천** |
+        | **<span style="color: #007bff;">오버언더</span>** ${spacer} | (추천) ${spacer} | [2.5] ${spacer} | **추천** |
       `;
 
-      // 6. Ollama 분석 실행 (설치 중이신 llama3:8b 모델 사용)
-      try {
-        console.log(`📝 분석 생성 중: ${match.home} vs ${match.away}`);
-        const response = await fetch("http://localhost:11434/api/generate", {
-          method: "POST",
-          body: JSON.stringify({ 
-            model: "llama3:8b", // 설치 중인 모델명으로 변경
-            prompt: prompt, 
-            stream: false,
-            options: { temperature: 0.3, num_predict: 2000 }
-          })
-        });
+      let success = false;
+      let modelIdx = 0;
+      while (!success && modelIdx < MODEL_PRIORITY.length) {
+        try {
+          const model = genAI.getGenerativeModel({ model: MODEL_PRIORITY[modelIdx] });
+          const result = await model.generateContent(prompt);
+          const response = await result.response;
+          let aiText = response.text().replace(/```markdown|```/g, "").trim();
 
-        const result = await response.json();
-        let aiText = result.response;
+          const titleMatch = aiText.match(/TITLE:\s*(.*)/);
+          let finalTitle = titleMatch ? titleMatch[1].trim() : `${dateShort} [${match.league}] ${match.home} 분석`;
+          aiText = aiText.replace(/TITLE:.*\n?/, "").trim();
 
-        // 제목 추출 및 메타데이터 정리
-        const titleMatch = aiText.match(/TITLE:\s*(.*)/);
-        let finalTitle = titleMatch ? titleMatch[1].trim() : `[${match.league}] ${match.home} vs ${match.away} 분석`;
-        aiText = aiText.replace(/TITLE:.*\n?/, "").trim();
-        aiText += `\n\n---\n<p align="center"><b>© 픽천국(Pick Heaven) - 무단 전재 및 재배포 금지</b></p>`;
+          // SEO 태그 (한글홈팀, 한글원정팀, 영문홈팀, 영문원정팀, 카테고리분석) [cite: 16]
+          // 하단 워터마크 및 구분선 적용 
+          const footer = `
+<div align="center">
+<p><b>© 픽천국(Pick Heaven) - 무단 전재 및 재배포 금지</b></p>
+<p>- 무단배포 금지 -</p>
+<p>- 무료로 배포되는 단순 참고용 분석글이며, 픽천국은 결과에 책임지지 않습니다 -</p>
+<hr>
+#${match.home} #${match.away} #${match.home_en || match.home} #${match.away_en || match.away} #${cat}분석 #픽천국
+</div>`;
 
-        fs.writeFileSync(savePath, `---\ntitle: "${finalTitle}"\ndate: ${new Date().toISOString()}\nslug: "analyze-${match.id}-${dateOnly}"\ncategory: "${finalCategory}"\n---\n\n${aiText}`, 'utf8');
-        console.log(`✅ 생성 완료: ${savePath}`);
-      } catch (err) { console.error(`❌ AI 호출 오류: ${err.message}`); }
+          fs.writeFileSync(savePath, `---\ntitle: "${finalTitle}"\ndate: ${new Date().toISOString()}\nslug: "analyze-${match.id}-${dateOnly}"\ncategory: "${cat}"\n---\n\n${aiText}\n${footer}`, 'utf8');
+          console.log(`✅ 성공: ${finalTitle} (모델: ${MODEL_PRIORITY[modelIdx]})`);
+          success = true;
+          await sleep(15000); 
+        } catch (err) {
+          console.error(`❌ ${MODEL_PRIORITY[modelIdx]} 실패, 다음 모델 시도...`);
+          modelIdx++;
+          await sleep(5000);
+        }
+      }
     }
-  } catch (error) { console.error("❌ 분석 오류:", error.message); }
+  } catch (error) {
+    console.error("❌ 오류 발생:", error.message);
+  }
 }
+
 analyzeMatches();

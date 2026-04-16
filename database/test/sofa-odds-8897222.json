@@ -1,0 +1,551 @@
+{
+  "markets": [
+    {
+      "sourceId": 102540178,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8701972,
+      "marketGroup": "1X2",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "33/100",
+          "fractionalValue": "3/10",
+          "sourceId": 1715845226,
+          "name": "1",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "17/4",
+          "fractionalValue": "5/1",
+          "sourceId": 1715845236,
+          "name": "X",
+          "winning": false,
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "7/1",
+          "fractionalValue": "8/1",
+          "sourceId": 1715845238,
+          "name": "2",
+          "winning": false,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 1,
+      "marketId": 2,
+      "marketName": "Double chance",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8702711,
+      "marketGroup": "Double chance",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "1/12",
+          "fractionalValue": "1/14",
+          "sourceId": 1730038267,
+          "name": "1X",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "9/4",
+          "fractionalValue": "12/5",
+          "sourceId": 1730038265,
+          "name": "X2",
+          "winning": false,
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "1/6",
+          "fractionalValue": "1/8",
+          "sourceId": 1730038266,
+          "name": "12",
+          "winning": true,
+          "change": -1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 1,
+      "marketId": 3,
+      "marketName": "1st half",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8702712,
+      "marketGroup": "1X2",
+      "marketPeriod": "1st half",
+      "choices": [
+        {
+          "initialFractionalValue": "4/5",
+          "fractionalValue": "8/11",
+          "sourceId": 1730038346,
+          "name": "1",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "13/8",
+          "fractionalValue": "7/4",
+          "sourceId": 1730038347,
+          "name": "X",
+          "winning": false,
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "11/2",
+          "fractionalValue": "11/2",
+          "sourceId": 1730038348,
+          "name": "2",
+          "winning": false,
+          "change": 0
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 1,
+      "marketId": 4,
+      "marketName": "Draw no bet",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8702713,
+      "marketGroup": "Draw no bet",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "1/8",
+          "fractionalValue": "1/9",
+          "sourceId": 1730038342,
+          "name": "1",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "5/1",
+          "fractionalValue": "11/2",
+          "sourceId": 1730038343,
+          "name": "2",
+          "winning": false,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 1,
+      "marketId": 5,
+      "marketName": "Both teams to score",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8703213,
+      "marketGroup": "Both teams to score",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "10/11",
+          "fractionalValue": "3/4",
+          "sourceId": 1744303642,
+          "name": "Yes",
+          "winning": false,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "10/11",
+          "fractionalValue": "1/1",
+          "sourceId": 1744303643,
+          "name": "No",
+          "winning": true,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 9,
+      "marketName": "Match goals",
+      "choiceGroup": "0.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8703219,
+      "marketGroup": "Match goals",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "1/33",
+          "fractionalValue": "1/66",
+          "sourceId": 1744302961,
+          "name": "Over",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "14/1",
+          "fractionalValue": "20/1",
+          "sourceId": 1744302964,
+          "name": "Under",
+          "winning": false,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 9,
+      "marketName": "Match goals",
+      "choiceGroup": "1.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8703218,
+      "marketGroup": "Match goals",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "2/9",
+          "fractionalValue": "1/7",
+          "sourceId": 1744302982,
+          "name": "Over",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "10/3",
+          "fractionalValue": "9/2",
+          "sourceId": 1744302983,
+          "name": "Under",
+          "winning": false,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 9,
+      "marketName": "Match goals",
+      "choiceGroup": "2.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8702715,
+      "marketGroup": "Match goals",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "4/7",
+          "fractionalValue": "4/9",
+          "sourceId": 1715845239,
+          "name": "Over",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "11/8",
+          "fractionalValue": "7/4",
+          "sourceId": 1715845254,
+          "name": "Under",
+          "winning": false,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 9,
+      "marketName": "Match goals",
+      "choiceGroup": "3.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8703217,
+      "marketGroup": "Match goals",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "7/4",
+          "fractionalValue": "11/10",
+          "sourceId": 1744302988,
+          "name": "Over",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "4/9",
+          "fractionalValue": "8/11",
+          "sourceId": 1744302989,
+          "name": "Under",
+          "winning": false,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 9,
+      "marketName": "Match goals",
+      "choiceGroup": "4.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8703216,
+      "marketGroup": "Match goals",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "4/1",
+          "fractionalValue": "5/2",
+          "sourceId": 1744302999,
+          "name": "Over",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "1/6",
+          "fractionalValue": "3/10",
+          "sourceId": 1744303000,
+          "name": "Under",
+          "winning": false,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 9,
+      "marketName": "Match goals",
+      "choiceGroup": "5.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8703215,
+      "marketGroup": "Match goals",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "9/1",
+          "fractionalValue": "11/2",
+          "sourceId": 1744303005,
+          "name": "Over",
+          "winning": false,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "1/16",
+          "fractionalValue": "1/9",
+          "sourceId": 1744303006,
+          "name": "Under",
+          "winning": true,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 9,
+      "marketName": "Match goals",
+      "choiceGroup": "6.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8703214,
+      "marketGroup": "Match goals",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "18/1",
+          "fractionalValue": "12/1",
+          "sourceId": 1744303072,
+          "name": "Over",
+          "winning": false,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "1/50",
+          "fractionalValue": "1/25",
+          "sourceId": 1744303075,
+          "name": "Under",
+          "winning": true,
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 9,
+      "marketName": "Match goals",
+      "choiceGroup": "7.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8727912,
+      "marketGroup": "Match goals",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "25/1",
+          "fractionalValue": "22/1",
+          "sourceId": 1744303078,
+          "name": "Over",
+          "winning": false,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "1/100",
+          "fractionalValue": "1/80",
+          "sourceId": 1744303079,
+          "name": "Under",
+          "winning": true,
+          "change": 0
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 1,
+      "marketId": 17,
+      "marketName": "Asian handicap",
+      "isLive": false,
+      "fid": 102540181,
+      "suspended": false,
+      "id": 8706869,
+      "marketGroup": "Asian Handicap",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "97/100",
+          "fractionalValue": "87/100",
+          "sourceId": 1715845257,
+          "name": "(-1.50) Manchester City",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "93/100",
+          "fractionalValue": "103/100",
+          "sourceId": 1715845274,
+          "name": "(1.5) Everton",
+          "change": 1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 20,
+      "marketName": "Cards in match",
+      "choiceGroup": "2.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8713070,
+      "marketGroup": "Total Cards",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "4/5",
+          "fractionalValue": "4/5",
+          "sourceId": 1746059331,
+          "name": "Over",
+          "change": 0
+        },
+        {
+          "initialFractionalValue": "10/11",
+          "fractionalValue": "10/11",
+          "sourceId": 1746059332,
+          "name": "Under",
+          "change": 0
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 2,
+      "marketId": 21,
+      "marketName": "Corners 2-Way",
+      "choiceGroup": "10.5",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8713071,
+      "marketGroup": "Corners 2-Way",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "5/6",
+          "fractionalValue": "1/1",
+          "sourceId": 1745945764,
+          "name": "Over",
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "5/6",
+          "fractionalValue": "8/11",
+          "sourceId": 1745945765,
+          "name": "Under",
+          "change": -1
+        }
+      ]
+    },
+    {
+      "sourceId": 102540178,
+      "structureType": 1,
+      "marketId": 6,
+      "marketName": "First team to score",
+      "isLive": false,
+      "fid": 102540178,
+      "suspended": false,
+      "id": 8702714,
+      "marketGroup": "First team to score",
+      "marketPeriod": "Full-time",
+      "choices": [
+        {
+          "initialFractionalValue": "1/4",
+          "fractionalValue": "2/9",
+          "sourceId": 1730038386,
+          "name": "Manchester City",
+          "winning": true,
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "16/1",
+          "fractionalValue": "20/1",
+          "sourceId": 1730038387,
+          "name": "No goal",
+          "winning": false,
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "11/4",
+          "fractionalValue": "3/1",
+          "sourceId": 1730038388,
+          "name": "Everton",
+          "winning": false,
+          "change": 1
+        }
+      ]
+    }
+  ],
+  "eventId": 8897222
+}

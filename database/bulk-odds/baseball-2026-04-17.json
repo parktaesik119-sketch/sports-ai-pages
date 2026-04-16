@@ -1,0 +1,284 @@
+{
+  "odds": {
+    "15308201": {
+      "sourceId": 193055217,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055217,
+      "suspended": false,
+      "id": 304579318,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "91/100",
+          "fractionalValue": "19/20",
+          "sourceId": 1076068792,
+          "name": "1",
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "91/100",
+          "fractionalValue": "87/100",
+          "sourceId": 1076068786,
+          "name": "2",
+          "change": -1
+        }
+      ]
+    },
+    "15308202": {
+      "sourceId": 193055210,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055210,
+      "suspended": false,
+      "id": 304576922,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "83/100",
+          "fractionalValue": "77/100",
+          "sourceId": 1076068692,
+          "name": "1",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "1/1",
+          "fractionalValue": "11/10",
+          "sourceId": 1076068682,
+          "name": "2",
+          "change": 1
+        }
+      ]
+    },
+    "15308203": {
+      "sourceId": 193055224,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055224,
+      "suspended": false,
+      "id": 304580839,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "21/50",
+          "fractionalValue": "19/50",
+          "sourceId": 1076068976,
+          "name": "1",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "39/20",
+          "fractionalValue": "21/10",
+          "sourceId": 1076068939,
+          "name": "2",
+          "change": 1
+        }
+      ]
+    },
+    "15308204": {
+      "sourceId": 193055204,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055204,
+      "suspended": false,
+      "id": 304576923,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "13/20",
+          "fractionalValue": "61/100",
+          "sourceId": 1076068533,
+          "name": "1",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "13/10",
+          "fractionalValue": "7/5",
+          "sourceId": 1076068524,
+          "name": "2",
+          "change": 1
+        }
+      ]
+    },
+    "15308205": {
+      "sourceId": 193055240,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055240,
+      "suspended": false,
+      "id": 304579316,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "83/100",
+          "fractionalValue": "4/5",
+          "sourceId": 1076069195,
+          "name": "1",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "1/1",
+          "fractionalValue": "21/20",
+          "sourceId": 1076069189,
+          "name": "2",
+          "change": 1
+        }
+      ]
+    },
+    "15308206": {
+      "sourceId": 193055245,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055245,
+      "suspended": false,
+      "id": 304579322,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "83/100",
+          "fractionalValue": "77/100",
+          "sourceId": 1076069245,
+          "name": "1",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "1/1",
+          "fractionalValue": "11/10",
+          "sourceId": 1076069241,
+          "name": "2",
+          "change": 1
+        }
+      ]
+    },
+    "15308207": {
+      "sourceId": 193055229,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055229,
+      "suspended": false,
+      "id": 304579320,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "23/20",
+          "fractionalValue": "11/10",
+          "sourceId": 1076069097,
+          "name": "1",
+          "change": -1
+        },
+        {
+          "initialFractionalValue": "37/50",
+          "fractionalValue": "77/100",
+          "sourceId": 1076069093,
+          "name": "2",
+          "change": 1
+        }
+      ]
+    },
+    "15308208": {
+      "sourceId": 193055250,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055250,
+      "suspended": false,
+      "id": 304579317,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "1/2",
+          "fractionalValue": "1/2",
+          "sourceId": 1076069305,
+          "name": "1",
+          "change": 0
+        },
+        {
+          "initialFractionalValue": "33/20",
+          "fractionalValue": "33/20",
+          "sourceId": 1076069303,
+          "name": "2",
+          "change": 0
+        }
+      ]
+    },
+    "15308209": {
+      "sourceId": 193055234,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055234,
+      "suspended": false,
+      "id": 304579321,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "1/1",
+          "fractionalValue": "1/1",
+          "sourceId": 1076069149,
+          "name": "1",
+          "change": 0
+        },
+        {
+          "initialFractionalValue": "83/100",
+          "fractionalValue": "83/100",
+          "sourceId": 1076069147,
+          "name": "2",
+          "change": 0
+        }
+      ]
+    },
+    "15308210": {
+      "sourceId": 193055255,
+      "structureType": 1,
+      "marketId": 1,
+      "marketName": "Full time",
+      "isLive": false,
+      "fid": 193055255,
+      "suspended": false,
+      "id": 304579319,
+      "marketGroup": "Home/Away",
+      "marketPeriod": "Match",
+      "choices": [
+        {
+          "initialFractionalValue": "19/20",
+          "fractionalValue": "1/1",
+          "sourceId": 1076069341,
+          "name": "1",
+          "change": 1
+        },
+        {
+          "initialFractionalValue": "87/100",
+          "fractionalValue": "83/100",
+          "sourceId": 1076069339,
+          "name": "2",
+          "change": -1
+        }
+      ]
+    }
+  }
+}
