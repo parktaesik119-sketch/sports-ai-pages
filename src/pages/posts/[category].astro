@@ -13,6 +13,10 @@ export async function getStaticPaths() {
 
   // 👉 카테고리 자동 추출
   const allCategories = ['soccer', 'baseball', 'basketball', 'volleyball', 'hockey', 'lol'];
+  // 👉 카테고리 날짜기준 변수 추가
+  const now = new Date();
+  const todayStr = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
+
 
   return allCategories.map(cat => ({
     params: { category: cat }
@@ -39,6 +43,9 @@ const filteredPosts = allPosts
 /* 📌 카테고리 이름 & 색상 */
 const categoryName = CATEGORY_MAP[category] ?? category;
 const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
+
+/* 🔥 추가: 현재 시간 (24시간 NEW 기준용) */
+const now = new Date(); // ✅ 추가
 ---
 
 <BaseLayout title={`${categoryName} - 스포츠 분석`}>
@@ -64,16 +71,26 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
         <!-- 게시글 리스트 -->
         <div class="board-content">
           <ul class="post-list">
-            {filteredPosts.map((post) => (
-              <li class="post-item">
-                <a href={`/posts/detail/${post.data.slug ?? post.id}`}>
-                  <span class="title">{post.data.title}</span>
-                  <span class="date">
-                    {new Date(post.data.date).toLocaleDateString('ko-KR')}
-                  </span>
-                </a>
-              </li>
-            ))}
+            {filteredPosts.map((post) => {
+              
+              /* 🔥 추가: 24시간 NEW 계산 */
+              const postDate = new Date(post.data.date); // ✅ 추가
+              const isNew = (now - postDate) < (24 * 60 * 60 * 1000); // ✅ 추가
+
+              return (
+                <li class="post-item">
+                  <a href={`/posts/detail/${post.data.slug ?? post.id}`}>
+                    <span class="title">
+                      {post.data.title}
+                      {isNew && <span class="new-badge">N</span>} {/* ✅ 추가 */}
+                    </span>
+                    <span class="date">
+                      {new Date(post.data.date).toLocaleDateString('ko-KR')}
+                    </span>
+                  </a>
+                </li>
+              );
+            })}
           </ul>
 
           {filteredPosts.length === 0 && (
@@ -102,11 +119,16 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
   padding: 0 15px;
   align-items: flex-start;
   width: 100%;
+
+  overflow: visible;
 }
 
 .sidebar-area {
   width: 280px;
   flex-shrink: 0;
+  align-self: flex-start;
+
+  position: relative;
 }
 
 .content-area {
@@ -213,6 +235,13 @@ const categoryColor = CATEGORY_COLOR[category] ?? "#4dabf7";
 .date {
   font-size: 0.85rem;
   color: #94a3b8;
+}
+
+/* 🔥 추가: NEW 뱃지 */
+.new-badge {
+  color: red;
+  font-weight: bold;
+  margin-left: 6px;
 }
 
 .empty-msg {

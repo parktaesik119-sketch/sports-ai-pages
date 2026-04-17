@@ -61,12 +61,15 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
     <ul class="recent-post-list">
       {recentPosts.length > 0 ? recentPosts.map((post) => {
         const d = new Date(post.data.date);
+        const isNew = (now - d) < (24 * 60 * 60 * 1000); // ✅ 수정
+
         const dateStr = `${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
+
         return (
           <li>
             <a href={`/posts/detail/${post.data.slug ?? post.slug}`} class="recent-post-link">
               <span class="post-title">{post.data.title}</span>
-              {dateStr === today && <span class="new-icon">N</span>}
+              {isNew && <span class="new-icon">N</span>}
               <span class="date">{dateStr}</span>
             </a>
           </li>
@@ -82,13 +85,14 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   width: 280px; 
   flex-shrink: 0;
   font-family: 'Pretendard', sans-serif;
+
 }
 
 .sp-sidebar-box {
   background: #fff;
   border: 1px solid #e1e4e8;
   border-radius: 12px;
-  overflow: hidden;
+  
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
   margin-bottom: 10px;
 }
@@ -216,6 +220,7 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   border-bottom: 1px solid #f0f0f0;
   align-items: center;
   transition: all 0.15s;
+  min-width: 0;
 }
 
 .notice-link:hover, .recent-post-link:hover {
@@ -223,9 +228,9 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   padding-left: 20px;
 }
 
-/* 🔥 핵심: 완전히 동일 스타일 적용 */
 .notice-title, .post-title {
   flex-grow: 1;
+  min-width: 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -258,8 +263,8 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
 /* 🔥 리스트 영역 높이 고정 + 스크롤 */
 .notice-list,
 .recent-post-list {
-  max-height: 260px;   /* 👉 원하는 높이 (조절 가능) */
-  overflow-y: auto;
+  max-height: none;   /* 👉 원하는 높이 (조절 가능) */
+  overflow-y: visible;
 }
 
 /* 🔥 스크롤 디자인 (선택 - 깔끔하게) */
