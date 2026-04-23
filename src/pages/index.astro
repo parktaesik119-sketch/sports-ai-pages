@@ -23,3 +23,52 @@ import BoardSection from '../components/BoardSection.astro';
     </div>
   </div>
 </BaseLayout>
+
+<style>
+  /* 메인 레이아웃 컨테이너 */
+  .container {
+    display: flex;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+    align-items: flex-start; /* 👉 사이드바 높이 고정 및 레이아웃 안정화 */
+  }
+
+  /* 사이드바 영역 고정 */
+  :global(.sidebar) {
+    width: 280px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 20px;
+  }
+
+  /* 메인 콘텐츠 영역 */
+  .content-wrapper {
+    flex: 1;
+    min-width: 0; /* 👉 내부 보드 섹션들의 ... 처리를 위해 필수 */
+  }
+
+  /* 게시판 그리드 (2열) */
+  .board-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1本); /* 1fr 대신 100% 기반 계산 */
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  /* 모바일 대응 */
+  @media (max-width: 992px) {
+    .container {
+      flex-direction: column;
+    }
+    :global(.sidebar) {
+      width: 100%;
+      position: static;
+    }
+    .board-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

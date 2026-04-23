@@ -85,6 +85,7 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   width: 280px; 
   flex-shrink: 0;
   font-family: 'Pretendard', sans-serif;
+  min-width: 0 !important;
 
 }
 
@@ -212,6 +213,8 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
 /* 리스트 및 마우스 오버 효과 (완전히 통일) */
 .notice-link, .recent-post-link {
   display: flex;
+  width: 100%;            /* 가로 꽉 채우기 */
+  box-sizing: border-box;
   padding: 11px 14px;
   text-decoration: none;
   color: #111;
@@ -230,12 +233,14 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
 
 .notice-title, .post-title {
   flex-grow: 1;
-  min-width: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  min-width: 0;           /* 핵심: flex 내부에서 너비 제한을 위해 필요 */
+  white-space: nowrap;    /* 줄바꿈 금지 */
+  overflow: hidden;       /* 넘치는 부분 숨김 */
+  text-overflow: ellipsis; /* ... 표시 */
   font-size: 14px;
   font-weight: 500; /* 👉 동일하게 맞춤 */
+  display: block; /* inline-flex나 flex 상태라면 block으로 강제 전환 */
+  max-width: 100%; /* 부모 너비를 절대 넘지 못하도록 한계 설정 */
 }
 
 .new-icon {

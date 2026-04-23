@@ -1188,3 +1188,11 @@ body {
   text-align: center !important;
   width: 100% !important;
 }
+
+/* global.css 하단에 추가 또는 수정 */
+.sidebar {
+  position: sticky;
+  top: 20px; /* 상단에서 20px 떨어진 지점에서 고정 */
+  align-self: flex-start; /* 부모 컨테이너 내에서 높이가 늘어나지 않게 설정 */
+  height: fit-content; /* 내용물 크기만큼만 높이 차지 */
+}

@@ -1,0 +1,321 @@
+---
+// 📦 데이터 불러오기
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Sidebar from '../../../components/Sidebar.astro';
+import { CATEGORY_MAP, CATEGORY_COLOR } from '../../../lib/categories';
+
+/* =========================
+   🔥 핵심 추가 (페이징 로직)
+========================= */
+export async function getStaticPaths({ paginate }) {
+  const allPosts = await getCollection('posts');
+
+  // 👉 카테고리 자동 추출
+  const allCategories = ['soccer', 'baseball', 'basketball', 'volleyball', 'hockey', 'lol'];
+  
+  return allCategories.flatMap(cat => {
+    const categoryPosts = allPosts
+      .filter(post => post.data.category === cat)
+      .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+
+    return paginate(categoryPosts, {
+      params: { category: cat },
+      pageSize: 20,
+    });
+  });
+}
+
+const { page } = Astro.props;
+const { category } = Astro.params;
+
+// 👉 카테고리 날짜기준 변수 추가
+const now = new Date();
+const todayStr = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
+
+const categoryName = CATEGORY_MAP[category] || category;
+const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
+---
+
+<BaseLayout title={`${categoryName} 분석글 - 페이지 ${page.currentPage}`}>
+  <div class="main-layout-container">
+    <div class="sidebar-area">
+      <Sidebar />
+    </div>
+
+    <main class="content-area">
+      <section class="board-section" data-category={category}>
+        <div class="board-header" style={`border-top: 3px solid ${categoryColor}`}>
+          <h2>{categoryName} 게시판</h2>
+        </div>
+
+        <ul class="post-list">
+          {/* 🔥 filteredPosts.map 대신 page.data.map 사용 */}
+          {page.data.map((post) => {
+            const postDate = new Date(post.data.date);
+            const dateStr = `${String(postDate.getMonth() + 1).padStart(2, '0')}.${String(postDate.getDate()).padStart(2, '0')}`;
+            const isNew = dateStr === todayStr;
+            const finalSlug = post.data.slug || post.slug;
+
+            return (
+              <li class="post-item">
+                <a href={`/posts/detail/${finalSlug}`}>
+                  <div class="title-group">
+                    <span class="title">{post.data.title}</span>
+                    {isNew && <span class="new-tag">N</span>}
+                  </div>
+                  <span class="date">{dateStr}</span>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+
+        {/* 🔥 추가: 페이지네이션 UI */}
+        <nav class="pagination">
+          {page.url.prev ? (
+            <a href={page.url.prev} class="page-btn">이전</a>
+          ) : (
+            <span class="page-btn disabled">이전</span>
+          )}
+          
+          <div class="page-numbers">
+            {Array.from({ length: page.lastPage }, (_, i) => {
+              const pageNum = i + 1;
+              const href = pageNum === 1 ? `/posts/${category}` : `/posts/${category}/${pageNum}`;
+              return (
+                <a href={href} class={page.currentPage === pageNum ? "active" : ""}>
+                  {pageNum}
+                </a>
+              );
+            })}
+          </div>
+
+          {page.url.next ? (
+            <a href={page.url.next} class="page-btn">다음</a>
+          ) : (
+            <span class="page-btn disabled">다음</span>
+          )}
+        </nav>
+      </section>
+    </main>
+  </div>
+</BaseLayout>
+
+<style>
+  /* =========================
+     📌 레이아웃 (본문 폭 고정 핵심)
+  ========================= */
+  .main-layout-container {
+    display: flex;
+    gap: 20px;
+    max-width: 1200px;
+    width: 100%;       /* 전체 너비 100% */
+    margin: 20px auto;
+    padding: 0 15px;
+    align-items: flex-start;
+  }
+
+  .sidebar-area {
+    width: 280px;
+    flex-shrink: 0;
+  }
+
+  .content-area {
+    flex: 1;           /* 남은 공간 무조건 꽉 채우기 */
+    min-width: 0;      /* 내부 요소의 overflow 제어를 위해 필수 */
+  }
+
+  /* =========================
+     📌 게시판 섹션 (기존 유지)
+  ========================= */
+  .board-section {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.05);
+    overflow: hidden;
+    width: 100%;       /* 섹션 가로폭 강제 고정 */
+  }
+
+  .board-header {
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .board-header h2 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: #333;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Pretendard', sans-serif;
+    font-weight: 700;
+  }
+
+  /* 📌 아이콘 공통 */
+  .board-header h2::before {
+    content: "";
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  /* ⚽ 축구 */
+  [data-category="soccer"] .board-header h2::before {
+    background-image: url('/icons/soccer.png') !important;
+  }
+
+  /* ⚾ 야구 */
+  [data-category="baseball"] .board-header h2::before {
+    background-image: url('/icons/baseball.png') !important;
+  }
+
+  /* 🏀 농구 */
+  [data-category="basketball"] .board-header h2::before {
+    background-image: url('/icons/basketball.png') !important;
+  }
+
+  /* 🏐 배구 */
+  [data-category="volleyball"] .board-header h2::before {
+    background-image: url('/icons/volleyball.png') !important;
+  }
+
+  /* 🏒 하키 */
+  [data-category="hockey"] .board-header h2::before {
+    background-image: url('/icons/hockey.png') !important;
+  }
+
+  /* 🎮 LoL */
+  [data-category="lol"] .board-header h2::before {
+    background-image: url('/icons/lol.png') !important;
+  }
+
+  /* =========================
+     📌 리스트 (디테일 수정)
+  ========================= */
+  .post-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-item {
+    border-bottom: 1px solid #f1f3f5;
+  }
+
+  .post-item a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: #333;
+    width: 100%;       /* 리스트 내부 가로 꽉 채우기 */
+  }
+
+  .post-item a:hover {
+    background: #f8fafc;
+  }
+
+  .title-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex: 1;           /* 날짜 영역 제외한 나머지 다 차지 */
+    min-width: 0;      /* 글자 잘림 처리를 위해 필수 */
+    margin-right: 20px; /* 날짜와의 최소 간격 확보 */
+  }
+
+  .title {
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .new-tag {
+    background: #ff5252;
+    color: #fff;
+    font-size: 10px;
+    padding: 1px 4px;
+    border-radius: 3px;
+    font-weight: bold;
+    flex-shrink: 0;
+  }
+
+  .date {
+    color: #999;
+    font-size: 0.9rem;
+    flex-shrink: 0;    /* 날짜가 밀려나거나 작아지지 않게 고정 */
+    text-align: right;
+  }
+
+  /* =========================
+     📌 페이지네이션 디자인 (신규)
+  ========================= */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 30px 0;
+    border-top: 1px solid #f1f3f5;
+  }
+  .page-numbers { display: flex; gap: 5px; }
+  .page-numbers a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #495057;
+    font-size: 0.95rem;
+  }
+  .page-numbers a.active {
+    background-color: #4dabf7;
+    color: white;
+    border-color: #4dabf7;
+  }
+  .page-btn {
+    padding: 8px 16px;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #495057;
+    font-size: 0.9rem;
+  }
+  .page-btn.disabled { color: #adb5bd; cursor: not-allowed; }
+
+  /* =========================
+     📌 모바일 (기존 유지)
+  ========================= */
+  @media (max-width: 768px) {
+    .main-layout-container {
+      flex-direction: column;
+      margin-top: 10px;
+      padding: 0 10px;
+    }
+
+    .sidebar-area {
+      display: none;
+    }
+
+    .board-header h2 {
+      font-size: 1.15rem;
+    }
+
+    .post-item a {
+      padding: 15px;
+    }
+  }
+</style>
