@@ -240,6 +240,26 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
     text-overflow: ellipsis;
   }
 
+  @media (max-width: 768px) {
+    .title {
+      font-size: 13px; /* 모바일에서 제목 글자 크기 축소 */
+    }
+
+    .date {
+      font-size: 10px;   /* 날짜 크기도 작게 */
+    }
+
+    .post-item {
+      padding: 8px 0;    /* 리스트 위아래 간격을 좁게 */
+      gap: 5px;          /* 제목과 날짜 사이 빈공간 축소 */
+    }
+
+    /* N 아이콘과 제목 사이의 간격을 좁히고 싶다면 추가 */
+    .title-wrapper {
+      gap: 2px;
+    }
+  }
+
   .new-tag {
     background: #ff5252;
     color: #fff;
