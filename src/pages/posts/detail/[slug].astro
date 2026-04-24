@@ -269,4 +269,23 @@ const categoryName = CATEGORY_MAP[category] ?? category;
     font-size: 1.5rem;
   }
 }
+
+@media (max-width: 768px) {
+  .post-header {
+    padding: 20px 15px !important; /* 모바일 상단 여백 축소 */
+  }
+  .post-body {
+    padding: 15px 10px !important; /* 모바일 본문 좌우 여백을 10px로 축소 */
+  }
+}
+
+@media (max-width: 768px) {
+  .detail-header {
+    padding: 18px 12px !important;
+  }
+
+  .detail-content {
+    padding: 12px 8px !important;
+  }
+}
 </style>
