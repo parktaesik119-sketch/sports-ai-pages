@@ -5,7 +5,7 @@ slug: "notice-02"
 ---
 <img src="https://i.imgur.com/MRg3fcQ.png" style="width:100%; display:block; margin:20px auto;">
 <br>
-<b><center>
+<b>
 픽천국은 축구, 야구, 농구, 배구, 하키, LOL 6가지 종목에 대하여 매일 무료 픽을 제공합니다.<br><br>
 
 유로로 제공되는 픽은 없으며, 모든 픽이 무료로 제공되고 있으니<br>
