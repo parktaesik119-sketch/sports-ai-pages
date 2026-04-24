@@ -187,7 +187,7 @@ async function fetchMajorSoccerLeagues(date) {
 }
 
 /**
- * 3. RapidAPI Free Football Data (보충 수집)
+ * 3. [신규] RapidAPI Free Football Data (보충 수집)
  */
 async function fetchRapidSoccer(date) {
   const url = `https://${RAPID_SOCCER_HOST}/api/v1/football/fixtures/date/${date}`;
@@ -295,24 +295,34 @@ async function fetchOddsAndScores() {
 // ==========================
 async function main() {
   try {
-    const targetDates = getTargetDates(); 
+    const targetDates = getTargetDates(); // 어제(-1), 오늘(0), 내일(1), 모레(2)
     const sports = ["soccer", "basketball", "baseball", "hockey", "volleyball"];
     const scheduleTasks = [];
 
     targetDates.forEach(date => {
+      // 종목별 범용 수집
       sports.forEach(sport => scheduleTasks.push(fetchApiSports(sport, date)));
+      
+      // 축구 주요 리그 정밀 수집
       scheduleTasks.push(fetchMajorSoccerLeagues(date));
+
+      // [신규] Rapid Soccer API 수집 (보충용)
       scheduleTasks.push(fetchRapidSoccer(date));
+
+      // LoL RapidAPI 수집
       scheduleTasks.push(fetchLckRapid(date));
     });
     
+    // LoL PandaScore 수집
     scheduleTasks.push(fetchLOLPanda());
 
+    // 모든 API 동시 실행
     const [rawResults, oddsAndScores] = await Promise.all([
       Promise.all(scheduleTasks),
       fetchOddsAndScores()
     ]);
 
+    // 평탄화 및 배당 매칭
     const mergedData = rawResults.flat().map(m => getMatchedData(m, oddsAndScores.odds, oddsAndScores.scores));
 
     await fs.mkdir(OUTPUT_DIR, { recursive: true });
@@ -323,6 +333,7 @@ async function main() {
       existing = JSON.parse(content || "[]");
     } catch (e) {}
 
+    // 중복 제거 및 데이터 업데이트용 Map
     const map = new Map();
     existing.forEach(m => {
       if (!m.date) return;
@@ -361,12 +372,14 @@ async function main() {
     const finalAllFixtures = Array.from(map.values());
     finalAllFixtures.sort((a, b) => new Date(a.date) - new Date(b.date));
 
+    // 전체 데이터 파일 저장
     await fs.writeFile(ALL_FIXTURES_FILE, JSON.stringify(finalAllFixtures, null, 2));
 
+    // 당일 수집된 데이터 캐시 저장
     const todayStr = new Date().toISOString().split("T")[0];
     await fs.writeFile(path.join(OUTPUT_DIR, `${todayStr}.json`), JSON.stringify(mergedData, null, 2));
 
-    console.log(`✅ 업데이트 완료: 총 ${finalAllFixtures.length}건 데이터 통합 관리 중`);
+    console.log(`✅ 업데이트 완료: 총 ${finalAllFixtures.length}건 데이터 통합 관리 중 (Rapid Soccer API 포함)`);
   } catch (err) {
     console.error("❌ 통합 프로세스 에러:", err.stack);
   }
