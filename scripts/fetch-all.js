@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 const OUTPUT_DIR = path.join(__dirname, "../database");
 const ALL_FIXTURES_FILE = path.join(OUTPUT_DIR, "all-fixtures.json");
 
-// API 키 설정
+// API 키 설정 (제공해주신 키 적용)
 const API_SPORTS_KEY = "8e49b25e545ea6bff12f75a858c89529";
 const PANDASCORE_KEY = "GfxE_2NtG9NN2bI-TW2NobkbeSXIFNLleuR5M4Nz6kgRHs9zxnY";
 const ODDS_API_KEY = "3d7903bd16bdc5cd23fea5cd05a23692";
@@ -19,7 +19,7 @@ const RAPID_KEY = "749bc19777msh67bb1920124b5d7p1cf477jsn772cbb1ccdd3";
 
 // 호스트 설정
 const API_SPORTS_BASE = {
-  soccer: "https://v3.football.api-sports.io",
+  soccer: "https://v3.football.api-sports.io", // football 용어는 API 주소에만 사용 (내부는 soccer)
   basketball: "https://v1.basketball.api-sports.io",
   baseball: "https://v1.baseball.api-sports.io",
   hockey: "https://v1.hockey.api-sports.io",
@@ -29,34 +29,30 @@ const RAPID_LOL_HOST = "esportapi1.p.rapidapi.com";
 const RAPID_SOCCER_HOST = "free-api-live-football-data.p.rapidapi.com";
 
 /**
- * 반드시 수집해야 하는 주요 축구 리그 ID 목록 (API-SPORTS 기준)
+ * 주요 축구 리그 ID 목록 (API-SPORTS 기준)
  */
 const MAJOR_SOCCER_LEAGUES = [
-  39, 40,   // 영국 (EPL, 챔피언십)
-  140, 141, // 스페인 (라리가 1, 2)
-  135, 136, // 이탈리아 (세리에 A, B)
-  78, 79,   // 독일 (분데스리가 1, 2)
-  61, 62,   // 프랑스 (리그 1, 2)
-  307,      // 사우디 프로리그
-  244,      // 핀란드 베이카우스리가
-  106,      // 폴란드 엑스트라클라사
-  233,      // 이집트 프리미어리그
-  103,      // 노르웨이 엘리테세리엔
-  71        // 브라질 세리에 A
+  39, 40, 140, 141, 135, 136, 78, 79, 61, 62, 307, 244, 106, 233, 103, 71
 ];
 
 // ==========================
 // 🛠 유틸리티 함수
 // ==========================
 
+/**
+ * 이름 정규화 (공백 제거, 소문자화) - 중복 체크 키 생성용
+ */
 function normalizeName(name) {
   if (!name) return "";
   return name.toLowerCase().replace(/\s+/g, "").trim();
 }
 
+/**
+ * 호출 기간 설정: 현재 기준 -2일 ~ +2일 (총 5일)
+ */
 function getTargetDates() {
   const dates = [];
-  for (let i = -1; i <= 2; i++) {
+  for (let i = -2; i <= 2; i++) {
     const d = new Date();
     d.setDate(d.getDate() + i);
     dates.push(d.toISOString().split("T")[0]);
@@ -64,19 +60,21 @@ function getTargetDates() {
   return dates;
 }
 
+/**
+ * 배당 데이터 매칭 및 평균값 계산 로직
+ */
 function getMatchedData(match, allOdds, allScores) {
   if (!match.date) return match;
   
-  const matchDateObj = new Date(match.date);
-  const matchDateStr = matchDateObj.toISOString().split('T')[0]; 
-
+  const matchDateStr = new Date(match.date).toISOString().split('T')[0];
   const homeNorm = normalizeName(match.home);
   const awayNorm = normalizeName(match.away);
 
-  const oddsList = Array.isArray(allOdds) ? allOdds : [];
-  const oddsInfo = oddsList.find(o => {
+  // 1. 해당 경기의 배당 정보 찾기
+  const oddsInfo = (allOdds || []).find(o => {
     const oDateStr = new Date(o.commence_time).toISOString().split('T')[0];
     const oHomeNorm = normalizeName(o.home_team);
+    const oAwayNorm = normalizeName(o.away_team);
     return oDateStr === matchDateStr && (oHomeNorm.includes(homeNorm) || homeNorm.includes(oHomeNorm));
   });
 
@@ -87,35 +85,73 @@ function getMatchedData(match, allOdds, allScores) {
   };
 
   if (oddsInfo && oddsInfo.bookmakers) {
-    const targetBookie = oddsInfo.bookmakers.find(b => b.key === "onexbet") || oddsInfo.bookmakers[0];
-    if (targetBookie) {
-      const h2h = targetBookie.markets.find(m => m.key === "h2h");
-      if (h2h) {
-        result.homeOdd = h2h.outcomes.find(o => normalizeName(o.name).includes(homeNorm))?.price || null;
-        result.awayOdd = h2h.outcomes.find(o => normalizeName(o.name).includes(awayNorm))?.price || null;
-        result.drawOdd = h2h.outcomes.find(o => o.name.toLowerCase() === "draw")?.price || null;
+    const bookies = oddsInfo.bookmakers;
+    
+    // 우선순위 북메이커: onexbet, pinnacle, draftkings
+    const priorityKeys = ["onexbet", "pinnacle", "draftkings"];
+    let targetBookie = null;
+    for (const key of priorityKeys) {
+      targetBookie = bookies.find(b => b.key === key);
+      if (targetBookie) break;
+    }
+
+    // 마켓별 데이터 추출 (targetBookie가 있으면 우선 사용, 없으면 전체 평균)
+    const extractMarket = (marketKey) => {
+      if (targetBookie) {
+        return targetBookie.markets.find(m => m.key === marketKey);
       }
-      const spreads = targetBookie.markets.find(m => m.key === "spreads");
-      if (spreads) {
-        const hOutcome = spreads.outcomes.find(o => normalizeName(o.name).includes(homeNorm));
-        if (hOutcome) {
-          result.handicap = hOutcome.point;
-          result.handicapHomeOdd = hOutcome.price;
-          result.handicapAwayOdd = spreads.outcomes.find(o => normalizeName(o.name).includes(awayNorm))?.price || null;
+      return null;
+    };
+
+    // --- 1. 승무패 (h2h) ---
+    const h2hMarket = extractMarket("h2h");
+    if (h2hMarket) {
+      result.homeOdd = h2hMarket.outcomes.find(o => normalizeName(o.name).includes(homeNorm))?.price || null;
+      result.awayOdd = h2hMarket.outcomes.find(o => normalizeName(o.name).includes(awayNorm))?.price || null;
+      result.drawOdd = h2hMarket.outcomes.find(o => o.name.toLowerCase() === "draw")?.price || null;
+    } else {
+      // 우선순위 북메이커에 없으면 모든 북메이커 평균 계산
+      let hSum = 0, aSum = 0, dSum = 0, count = 0;
+      bookies.forEach(b => {
+        const m = b.markets.find(mk => mk.key === "h2h");
+        if (m) {
+          const h = m.outcomes.find(o => normalizeName(o.name).includes(homeNorm))?.price;
+          const a = m.outcomes.find(o => normalizeName(o.name).includes(awayNorm))?.price;
+          const d = m.outcomes.find(o => o.name.toLowerCase() === "draw")?.price;
+          if (h && a) { hSum += h; aSum += a; dSum += (d || 0); count++; }
         }
+      });
+      if (count > 0) {
+        result.homeOdd = parseFloat((hSum / count).toFixed(2));
+        result.awayOdd = parseFloat((aSum / count).toFixed(2));
+        result.drawOdd = dSum > 0 ? parseFloat((dSum / count).toFixed(2)) : null;
       }
-      const totals = targetBookie.markets.find(m => m.key === "totals");
-      if (totals) {
-        const over = totals.outcomes.find(o => o.name.toLowerCase() === "over");
-        if (over) {
-          result.overUnder = over.point;
-          result.overOdd = over.price;
-          result.underOdd = totals.outcomes.find(o => o.name.toLowerCase() === "under")?.price || null;
-        }
+    }
+
+    // --- 2. 핸디캡 (spreads) ---
+    const spreadsMarket = extractMarket("spreads");
+    if (spreadsMarket) {
+      const hOutcome = spreadsMarket.outcomes.find(o => normalizeName(o.name).includes(homeNorm));
+      if (hOutcome) {
+        result.handicap = hOutcome.point;
+        result.handicapHomeOdd = hOutcome.price;
+        result.handicapAwayOdd = spreadsMarket.outcomes.find(o => normalizeName(o.name).includes(awayNorm))?.price || null;
+      }
+    }
+
+    // --- 3. 언더오버 (totals) ---
+    const totalsMarket = extractMarket("totals");
+    if (totalsMarket) {
+      const over = totalsMarket.outcomes.find(o => o.name.toLowerCase() === "over");
+      if (over) {
+        result.overUnder = over.point;
+        result.overOdd = over.price;
+        result.underOdd = totalsMarket.outcomes.find(o => o.name.toLowerCase() === "under")?.price || null;
       }
     }
   }
 
+  // 2. 실시간 스코어 매칭 (The Odds API 기반 보조 스코어)
   const scoresList = Array.isArray(allScores) ? allScores : [];
   const scoreInfo = scoresList.find(s => {
     const sDateStr = new Date(s.commence_time).toISOString().split('T')[0];
@@ -125,8 +161,8 @@ function getMatchedData(match, allOdds, allScores) {
   return {
     ...match,
     ...result,
-    homeScore: scoreInfo?.scores?.find(s => normalizeName(s.name).includes(homeNorm))?.score || match.homeScore || null,
-    awayScore: scoreInfo?.scores?.find(s => normalizeName(s.name).includes(awayNorm))?.score || match.awayScore || null
+    homeScore: match.homeScore ?? (scoreInfo?.scores?.find(s => normalizeName(s.name).includes(homeNorm))?.score || null),
+    awayScore: match.awayScore ?? (scoreInfo?.scores?.find(s => normalizeName(s.name).includes(awayNorm))?.score || null)
   };
 }
 
@@ -134,9 +170,6 @@ function getMatchedData(match, allOdds, allScores) {
 // 📡 데이터 호출 함수
 // ==========================
 
-/**
- * 1. API-SPORTS (범용 수집)
- */
 async function fetchApiSports(sport, date) {
   const url = `${API_SPORTS_BASE[sport]}/${sport === "soccer" ? "fixtures" : "games"}?date=${date}`;
   try {
@@ -158,9 +191,6 @@ async function fetchApiSports(sport, date) {
   } catch (err) { return []; }
 }
 
-/**
- * 2. API-SPORTS (주요 리그 ID 정밀 수집)
- */
 async function fetchMajorSoccerLeagues(date) {
   const tasks = MAJOR_SOCCER_LEAGUES.map(async (leagueId) => {
     const url = `${API_SPORTS_BASE.soccer}/fixtures?date=${date}&league=${leagueId}&season=2025`;
@@ -186,21 +216,14 @@ async function fetchMajorSoccerLeagues(date) {
   return results.flat();
 }
 
-/**
- * 3. RapidAPI Free Football Data (보충 수집)
- */
 async function fetchRapidSoccer(date) {
   const url = `https://${RAPID_SOCCER_HOST}/api/v1/football/fixtures/date/${date}`;
   try {
     const res = await fetch(url, {
-      headers: { 
-        'x-rapidapi-key': RAPID_KEY, 
-        'x-rapidapi-host': RAPID_SOCCER_HOST 
-      }
+      headers: { 'x-rapidapi-key': RAPID_KEY, 'x-rapidapi-host': RAPID_SOCCER_HOST }
     });
     const data = await res.json();
     if (!data?.data) return [];
-
     return data.data.map(item => ({
       id: `rapid-soc-${item.fixture_id}`,
       sport: "soccer",
@@ -216,9 +239,6 @@ async function fetchRapidSoccer(date) {
   } catch (err) { return []; }
 }
 
-/**
- * 4. RapidAPI LoL/LCK 수집
- */
 async function fetchLckRapid(date) {
   const [y, m, d] = date.split('-');
   const dateParam = `${d}/${m}/${y}`;
@@ -232,7 +252,7 @@ async function fetchLckRapid(date) {
     return data.events
       .filter(e => (e.tournament?.category?.name?.toLowerCase() || "").includes("lol"))
       .map(e => ({
-        id: `rapid-${e.id}`,
+        id: `rapid-lol-${e.id}`,
         sport: "lol",
         league: e.tournament?.name || "LoL League",
         date: e.startTimestamp ? new Date(e.startTimestamp * 1000).toISOString() : null,
@@ -246,11 +266,9 @@ async function fetchLckRapid(date) {
   } catch (err) { return []; }
 }
 
-/**
- * 5. PandaScore LoL 수집
- */
 async function fetchLOLPanda() {
   const dates = getTargetDates();
+  // PandaScore는 범위를 지정하여 한 번에 가져옴 (API 횟수 절약)
   const url = `https://api.pandascore.co/matches?range[begin_at]=${dates[0]}T00:00:00Z,${dates[dates.length-1]}T23:59:59Z`;
   try {
     const res = await fetch(url, { headers: { Authorization: `Bearer ${PANDASCORE_KEY}` } });
@@ -265,15 +283,12 @@ async function fetchLOLPanda() {
       away: m.opponents[1]?.opponent.name || "TBD",
       homeLogo: m.opponents[0]?.opponent.image_url,
       awayLogo: m.opponents[1]?.opponent.image_url,
-      homeScore: m.results[0]?.score || 0,
-      awayScore: m.results[1]?.score || 0
+      homeScore: m.results.find(r => r.item_id === m.opponents[0]?.opponent.id)?.score ?? 0,
+      awayScore: m.results.find(r => r.item_id === m.opponents[1]?.opponent.id)?.score ?? 0
     }));
   } catch (err) { return []; }
 }
 
-/**
- * 6. 배당 및 실시간 스코어 수집 (The Odds API)
- */
 async function fetchOddsAndScores() {
   const regions = "eu,us,au,uk";
   const markets = "h2h,spreads,totals";
@@ -295,10 +310,12 @@ async function fetchOddsAndScores() {
 // ==========================
 async function main() {
   try {
+    console.log("🚀 데이터 수집을 시작합니다...");
     const targetDates = getTargetDates(); 
     const sports = ["soccer", "basketball", "baseball", "hockey", "volleyball"];
     const scheduleTasks = [];
 
+    // 각 날짜별로 테스크 생성 (단, 무료 API 한도를 위해 Promise.all로 병렬 처리)
     targetDates.forEach(date => {
       sports.forEach(sport => scheduleTasks.push(fetchApiSports(sport, date)));
       scheduleTasks.push(fetchMajorSoccerLeagues(date));
@@ -306,6 +323,7 @@ async function main() {
       scheduleTasks.push(fetchLckRapid(date));
     });
     
+    // LoL 전용 및 배당 호출
     scheduleTasks.push(fetchLOLPanda());
 
     const [rawResults, oddsAndScores] = await Promise.all([
@@ -313,19 +331,23 @@ async function main() {
       fetchOddsAndScores()
     ]);
 
+    // 데이터 통합 및 배당 매칭
     const mergedData = rawResults.flat().map(m => getMatchedData(m, oddsAndScores.odds, oddsAndScores.scores));
 
     await fs.mkdir(OUTPUT_DIR, { recursive: true });
     
-    let existing = [];
+    // 기존 all-fixtures.json 로드
+    let existingFixtures = [];
     try { 
       const content = await fs.readFile(ALL_FIXTURES_FILE, "utf-8");
-      existing = JSON.parse(content || "[]");
-    } catch (e) {}
+      existingFixtures = JSON.parse(content || "[]");
+    } catch (e) {
+      console.log("ℹ️ 기존 all-fixtures.json이 없습니다. 새로 생성합니다.");
+    }
 
+    // 중복 체크 및 업데이트 로직 (Key: 날짜_홈팀_원정팀)
     const map = new Map();
-    existing.forEach(m => {
-      if (!m.date) return;
+    existingFixtures.forEach(m => {
       const dKey = new Date(m.date).toISOString().split("T")[0];
       const key = `${dKey}_${normalizeName(m.home)}_${normalizeName(m.away)}`;
       map.set(key, m);
@@ -338,20 +360,15 @@ async function main() {
       
       if (map.has(key)) {
         const oldMatch = map.get(key);
+        // 기존 데이터에 결과나 배당이 비어있으면 새 데이터로 덮어쓰기
         map.set(key, {
           ...oldMatch,
           ...newMatch,
-          homeScore: (newMatch.homeScore !== null) ? newMatch.homeScore : oldMatch.homeScore,
-          awayScore: (newMatch.awayScore !== null) ? newMatch.awayScore : oldMatch.awayScore,
+          homeScore: newMatch.homeScore !== null ? newMatch.homeScore : oldMatch.homeScore,
+          awayScore: newMatch.awayScore !== null ? newMatch.awayScore : oldMatch.awayScore,
           homeOdd: newMatch.homeOdd || oldMatch.homeOdd,
           awayOdd: newMatch.awayOdd || oldMatch.awayOdd,
-          drawOdd: newMatch.drawOdd || oldMatch.drawOdd,
-          handicap: newMatch.handicap || oldMatch.handicap,
-          handicapHomeOdd: newMatch.handicapHomeOdd || oldMatch.handicapHomeOdd,
-          handicapAwayOdd: newMatch.handicapAwayOdd || oldMatch.handicapAwayOdd,
-          overUnder: newMatch.overUnder || oldMatch.overUnder,
-          overOdd: newMatch.overOdd || oldMatch.overOdd,
-          underOdd: newMatch.underOdd || oldMatch.underOdd
+          drawOdd: newMatch.drawOdd || oldMatch.drawOdd
         });
       } else {
         map.set(key, newMatch);
@@ -361,12 +378,13 @@ async function main() {
     const finalAllFixtures = Array.from(map.values());
     finalAllFixtures.sort((a, b) => new Date(a.date) - new Date(b.date));
 
+    // 파일 저장
     await fs.writeFile(ALL_FIXTURES_FILE, JSON.stringify(finalAllFixtures, null, 2));
 
     const todayStr = new Date().toISOString().split("T")[0];
     await fs.writeFile(path.join(OUTPUT_DIR, `${todayStr}.json`), JSON.stringify(mergedData, null, 2));
 
-    console.log(`✅ 업데이트 완료: 총 ${finalAllFixtures.length}건 데이터 통합 관리 중`);
+    console.log(`✅ 업데이트 완료: 총 ${finalAllFixtures.length}건의 데이터가 누적 저장되었습니다.`);
   } catch (err) {
     console.error("❌ 통합 프로세스 에러:", err.stack);
   }
