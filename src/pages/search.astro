@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('posts');
+
+const url = new URL(Astro.request.url);
+const q = (url.searchParams.get('q') || '').toLowerCase();
+
+const results = q
+  ? posts.filter((post) => {
+      const title = post.data.title.toLowerCase();
+      const content = (post.body || '').toLowerCase();
+      const league = (post.data.league || '').toLowerCase();
+
+      return (
+        title.includes(q) ||
+        content.includes(q) ||
+        league.includes(q)
+      );
+    })
+  : [];
+---
+
+<h1>검색 결과</h1>
+
+<form method="GET" action="/search">
+  <input name="q" value={q} placeholder="팀 / 리그 / 경기 검색" />
+  <button type="submit">검색</button>
+</form>
+
+<hr />
+
+{q === '' ? (
+  <p>검색어를 입력하세요</p>
+) : results.length === 0 ? (
+  <p>검색 결과가 없습니다</p>
+) : (
+  results.map((post) => (
+    <div>
+      <a href={`/posts/detail/${post.slug}`}>
+        {post.data.title}
+      </a>
+    </div>
+  ))
+)}

@@ -29,6 +29,19 @@ export async function getStaticPaths({ paginate }) {
 const { page } = Astro.props;
 const { category } = Astro.params;
 
+// 🔥 추가: 5개씩 끊어서 보여주기 위한 계산
+const range = 5; // 한 번에 보여줄 페이지 수
+const startPage = Math.floor((page.currentPage - 1) / range) * range + 1;
+const endPage = Math.min(startPage + range - 1, page.lastPage);
+const pageNumbers = Array.from({ length: endPage - startPage + 1 }, (_, i) => startPage + i);
+
+// 🔥 핵심: 이전 그룹 마지막 페이지 / 다음 그룹 첫 번째 페이지 계산
+const prevGroupPage = startPage - 1; // 6~10일 때 5페이지로
+const nextGroupPage = endPage + 1;   // 1~5일 때 6페이지로
+
+// URL 생성 함수 (1페이지는 기본 경로, 나머지는 숫자 경로)
+const getPageHref = (num) => num === 1 ? `/posts/${category}` : `/posts/${category}/${num}`;
+
 // 👉 카테고리 날짜기준 변수 추가
 const now = new Date();
 const todayStr = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
@@ -73,30 +86,30 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
 
         {/* 🔥 추가: 페이지네이션 UI */}
         <nav class="pagination">
-          {page.url.prev ? (
-            <a href={page.url.prev} class="page-btn">이전</a>
-          ) : (
-            <span class="page-btn disabled">이전</span>
-          )}
-          
-          <div class="page-numbers">
-            {Array.from({ length: page.lastPage }, (_, i) => {
-              const pageNum = i + 1;
-              const href = pageNum === 1 ? `/posts/${category}` : `/posts/${category}/${pageNum}`;
-              return (
-                <a href={href} class={page.currentPage === pageNum ? "active" : ""}>
-                  {pageNum}
-                </a>
-              );
-            })}
-          </div>
+  <div class="page-numbers">
+    {pageNumbers.map((pageNum) => (
+      <a href={getPageHref(pageNum)} class={page.currentPage === pageNum ? "active" : ""}>
+        {pageNum}
+      </a>
+    ))}
+  </div>
 
-          {page.url.next ? (
-            <a href={page.url.next} class="page-btn">다음</a>
-          ) : (
-            <span class="page-btn disabled">다음</span>
-          )}
-        </nav>
+  <div class="nav-arrows">
+    {/* 이전 그룹으로 가기 (1~5페이지일 때는 비활성화) */}
+    {startPage > 1 ? (
+      <a href={getPageHref(prevGroupPage)} class="page-btn">이전</a>
+    ) : (
+      <span class="page-btn disabled">이전</span>
+    )}
+
+    {/* 다음 그룹으로 가기 (마지막 그룹일 때는 비활성화) */}
+    {endPage < page.lastPage ? (
+      <a href={getPageHref(nextGroupPage)} class="page-btn">다음</a>
+    ) : (
+      <span class="page-btn disabled">다음</span>
+    )}
+  </div>
+</nav>
       </section>
     </main>
   </div>
@@ -278,43 +291,84 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
   }
 
   /* =========================
-     📌 페이지네이션 디자인 (신규)
+     📌 페이지네이션 디자인 
   ========================= */
   .pagination {
     display: flex;
-    justify-content: center;
+    flex-direction: column; /* 모바일: 번호가 위, 버튼이 아래 */
     align-items: center;
     gap: 15px;
     padding: 30px 0;
     border-top: 1px solid #f1f3f5;
   }
-  .page-numbers { display: flex; gap: 5px; }
+
+  /* 숫자 버튼 그룹 */
+  .page-numbers {
+    display: flex;
+    gap: 8px;
+  }
+
+  /* 🔥 이전/다음 버튼 그룹 - 한 줄 가로 배치의 핵심 */
+  .nav-arrows {
+    display: flex;
+    flex-direction: row; /* 무조건 가로 정렬 */
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+    max-width: 260px; /* 버튼 두 개가 모바일 화면에 쏙 들어오게 제한 */
+  }
+
+  /* 숫자 버튼 디자인 */
   .page-numbers a {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 35px;
-    height: 35px;
+    width: 38px;
+    height: 38px;
     border: 1px solid #dee2e6;
     border-radius: 6px;
     text-decoration: none;
     color: #495057;
     font-size: 0.95rem;
+    background-color: #fff;
   }
+
   .page-numbers a.active {
     background-color: #4dabf7;
     color: white;
     border-color: #4dabf7;
+    font-weight: bold;
   }
+
+  /* 🔥 이전/다음 버튼 디자인 - 한 줄에 사이좋게 절반씩 차지 */
   .page-btn {
-    padding: 8px 16px;
+    flex: 1; /* 이전/다음 버튼이 동일한 너비를 가짐 */
+    text-align: center;
+    padding: 10px 0;
     border: 1px solid #dee2e6;
     border-radius: 6px;
     text-decoration: none;
     color: #495057;
     font-size: 0.9rem;
+    background: #fff;
   }
-  .page-btn.disabled { color: #adb5bd; cursor: not-allowed; }
+
+  .page-btn.disabled {
+    color: #adb5bd;
+    background: #f8f9fa;
+    cursor: not-allowed;
+  }
+
+  /* PC 버전: 다시 한 줄로 길게 배치 */
+  @media (min-width: 768px) {
+    .pagination {
+      flex-direction: row; 
+      gap: 20px;
+    }
+    .nav-arrows { width: auto; order: 2; }
+    .page-numbers { order: 1; }
+    .page-btn { flex: none; width: 80px; }
+  }
 
   /* =========================
      📌 모바일 (기존 유지)
