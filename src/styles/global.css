@@ -1196,3 +1196,44 @@ body {
   align-self: flex-start; /* 부모 컨테이너 내에서 높이가 늘어나지 않게 설정 */
   height: fit-content; /* 내용물 크기만큼만 높이 차지 */
 }
+
+.search-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.search-item {
+  border-bottom: 1px solid #eee;
+  padding: 14px 0;
+}
+
+.search-item a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.meta {
+  font-size: 13px;
+  color: #888;
+  margin-bottom: 4px;
+}
+
+.meta .date {
+  margin-right: 8px;
+}
+
+.meta .league {
+  color: #4a90e2;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.search-item:hover {
+  background: #fafafa;
+}

@@ -1,0 +1,230 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+
+// 🔥 페이지네이션용 (유지)
+export async function getStaticPaths({ paginate }) {
+  const allPosts = await getCollection('posts');
+
+  return paginate(allPosts, {
+    pageSize: 20,
+  });
+}
+
+// 🔥 여기부터 서버 실행 영역
+const { page } = Astro.props;
+
+// ✅ 전체 게시글 다시 불러오기 (핵심)
+const allPosts = await getCollection('posts');
+
+// 🔥 URL에서 검색어
+const url = new URL(Astro.request.url);
+const keywordRaw = url.searchParams.get('team') || '';
+
+// 🔥 정규화
+const keyword = keywordRaw.toLowerCase().replace(/\s+/g, '');
+const normalize = (str) =>
+  str.toLowerCase().replace(/\s+/g, '');
+
+// 🔥 전체 기준 검색
+const filteredAll = keyword
+  ? allPosts.filter(post =>
+      normalize(post.data.title).includes(keyword)
+    )
+  : allPosts;
+
+// 🔥 페이지 자르기
+const pageSize = 20;
+const start = (page.currentPage - 1) * pageSize;
+const end = start + pageSize;
+const filtered = filteredAll.slice(start, end);
+
+// 🔥 페이지 수
+const totalPages = Math.ceil(filteredAll.length / pageSize);
+
+// 🔥 날짜 (N 표시)
+const now = new Date();
+const todayStr = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
+---
+
+<BaseLayout title={`"${keywordRaw}" 검색 결과`}>
+  <div class="main-layout-container">
+    
+    <div class="sidebar-area">
+      <Sidebar />
+    </div>
+
+    <main class="content-area">
+      <section class="board-section">
+
+        <div class="board-header">
+          <h2>🔍 "{keywordRaw}" 검색 결과</h2>
+        </div>
+
+        <ul class="post-list">
+          {filtered.map((post) => {
+            const postDate = new Date(post.data.date);
+            const dateStr = `${String(postDate.getMonth() + 1).padStart(2, '0')}.${String(postDate.getDate()).padStart(2, '0')}`;
+            const isNew = dateStr === todayStr;
+            const finalSlug = post.data.slug || post.slug;
+
+            return (
+              <li class="post-item">
+                <a href={`/posts/detail/${finalSlug}`}>
+                  <div class="title-group">
+                    <span class="title">{post.data.title}</span>
+                    {isNew && <span class="new-tag">N</span>}
+                  </div>
+                  <span class="date">{dateStr}</span>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+
+        <nav class="pagination">
+
+          {page.url.prev ? (
+            <a href={`${page.url.prev}?team=${keywordRaw}`} class="page-btn">이전</a>
+          ) : (
+            <span class="page-btn disabled">이전</span>
+          )}
+
+          <span class="page-info">
+            {page.currentPage} / {totalPages}
+          </span>
+
+          {page.url.next ? (
+            <a href={`${page.url.next}?team=${keywordRaw}`} class="page-btn">다음</a>
+          ) : (
+            <span class="page-btn disabled">다음</span>
+          )}
+
+        </nav>
+
+      </section>
+    </main>
+
+  </div>
+</BaseLayout>
+
+<style>
+.main-layout-container {
+  display: flex;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+.sidebar-area {
+  width: 280px;
+}
+
+.content-area {
+  flex: 1;
+}
+
+.board-section {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.05);
+  overflow: hidden;
+}
+
+.board-header {
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-item {
+  border-bottom: 1px solid #f1f3f5;
+}
+
+.post-item a {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 20px;
+  text-decoration: none;
+  color: #333;
+}
+
+.post-item a:hover {
+  background: #f8fafc;
+}
+
+.title-group {
+  display: flex;
+  gap: 6px;
+  flex: 1;
+  min-width: 0;
+}
+
+.title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.date {
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.new-tag {
+  background: red;
+  color: #fff;
+  font-size: 10px;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  padding: 20px;
+}
+
+.page-btn {
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #495057;
+  background: #fff;
+  font-size: 13px;
+}
+
+.page-btn.disabled {
+  color: #adb5bd;
+  background: #f8f9fa;
+}
+
+.page-info {
+  font-size: 14px;
+  color: #555;
+}
+
+@media (max-width: 768px) {
+  .main-layout-container {
+    flex-direction: column;
+  }
+
+  .sidebar-area {
+    display: none;
+  }
+}
+</style>

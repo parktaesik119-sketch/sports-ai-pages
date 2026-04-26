@@ -84,8 +84,26 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
           })}
         </ul>
 
+        <div class="category-search">
+  <input
+    type="text"
+    id="categorySearchInput"
+    placeholder="팀명 검색"
+  />
+  <button id="categorySearchBtn">검색</button>
+</div>
+
         {/* 🔥 추가: 페이지네이션 UI */}
         <nav class="pagination">
+
+  {/* 🔥 이전 버튼 */}
+  {startPage > 1 ? (
+    <a href={getPageHref(prevGroupPage)} class="page-btn">이전</a>
+  ) : (
+    <span class="page-btn disabled">이전</span>
+  )}
+
+  {/* 🔥 숫자 */}
   <div class="page-numbers">
     {pageNumbers.map((pageNum) => (
       <a href={getPageHref(pageNum)} class={page.currentPage === pageNum ? "active" : ""}>
@@ -94,21 +112,13 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
     ))}
   </div>
 
-  <div class="nav-arrows">
-    {/* 이전 그룹으로 가기 (1~5페이지일 때는 비활성화) */}
-    {startPage > 1 ? (
-      <a href={getPageHref(prevGroupPage)} class="page-btn">이전</a>
-    ) : (
-      <span class="page-btn disabled">이전</span>
-    )}
+  {/* 🔥 다음 버튼 */}
+  {endPage < page.lastPage ? (
+    <a href={getPageHref(nextGroupPage)} class="page-btn">다음</a>
+  ) : (
+    <span class="page-btn disabled">다음</span>
+  )}
 
-    {/* 다음 그룹으로 가기 (마지막 그룹일 때는 비활성화) */}
-    {endPage < page.lastPage ? (
-      <a href={getPageHref(nextGroupPage)} class="page-btn">다음</a>
-    ) : (
-      <span class="page-btn disabled">다음</span>
-    )}
-  </div>
 </nav>
       </section>
     </main>
@@ -294,64 +304,67 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
      📌 페이지네이션 디자인 
   ========================= */
   .pagination {
-    display: flex;
-    flex-direction: column; /* 모바일: 번호가 위, 버튼이 아래 */
-    align-items: center;
-    gap: 15px;
-    padding: 30px 0;
-    border-top: 1px solid #f1f3f5;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 30px 0;
+  border-top: 1px solid #f1f3f5;
+}
 
-  /* 숫자 버튼 그룹 */
-  .page-numbers {
-    display: flex;
-    gap: 8px;
-  }
+/* 숫자 */
+.page-numbers {
+  display: flex;
+  gap: 8px;
+}
 
-  /* 🔥 이전/다음 버튼 그룹 - 한 줄 가로 배치의 핵심 */
-  .nav-arrows {
-    display: flex;
-    flex-direction: row; /* 무조건 가로 정렬 */
-    justify-content: center;
-    gap: 10px;
-    width: 100%;
-    max-width: 260px; /* 버튼 두 개가 모바일 화면에 쏙 들어오게 제한 */
-  }
 
-  /* 숫자 버튼 디자인 */
-  .page-numbers a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 38px;
-    height: 38px;
-    border: 1px solid #dee2e6;
-    border-radius: 6px;
-    text-decoration: none;
-    color: #495057;
-    font-size: 0.95rem;
-    background-color: #fff;
-  }
 
-  .page-numbers a.active {
-    background-color: #4dabf7;
-    color: white;
-    border-color: #4dabf7;
-    font-weight: bold;
-  }
+/* 숫자 버튼 */
+.page-numbers a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 38px;
+  height: 38px;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #495057;
+  background-color: #fff;
+}
+
+.page-numbers a.active {
+  background-color: #4dabf7;
+  color: white;
+  border-color: #4dabf7;
+  font-weight: bold;
+}
+
+/* 비활성 */
+.page-btn.disabled {
+  color: #adb5bd;
+  background: #f8f9fa;
+  cursor: not-allowed;
+}
 
   /* 🔥 이전/다음 버튼 디자인 - 한 줄에 사이좋게 절반씩 차지 */
   .page-btn {
-    flex: 1; /* 이전/다음 버튼이 동일한 너비를 가짐 */
-    text-align: center;
-    padding: 10px 0;
-    border: 1px solid #dee2e6;
-    border-radius: 6px;
-    text-decoration: none;
-    color: #495057;
-    font-size: 0.9rem;
-    background: #fff;
-  }
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #495057;
+  font-size: 13px;
+  background: #fff;
+
+  flex: none;
+}
 
   .page-btn.disabled {
     color: #adb5bd;
@@ -361,14 +374,19 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
 
   /* PC 버전: 다시 한 줄로 길게 배치 */
   @media (min-width: 768px) {
-    .pagination {
-      flex-direction: row; 
-      gap: 20px;
-    }
-    .nav-arrows { width: auto; order: 2; }
-    .page-numbers { order: 1; }
-    .page-btn { flex: none; width: 80px; }
+  .pagination {
+    flex-direction: row; 
+    gap: 20px;
   }
+
+  /* 👉 필요 없으면 order도 지워도 됨 (지금은 단순 구조라 의미 없음) */
+  .page-numbers { }
+
+  /* 👉 버튼 크기만 유지 */
+  .page-btn {
+    width: 80px;
+  }
+}
 
   /* =========================
      📌 모바일 (기존 유지)
@@ -392,4 +410,48 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
       padding: 15px;
     }
   }
+
+  /* 🔥 검색창 스타일 추가 */
+.category-search {
+  display: flex;
+  justify-content: center;   /* 가운데 정렬 */
+  gap: 6px;
+  margin: 20px 0;
+}
+
+.category-search input {
+  width: 220px;              /* ✅ 고정폭 */
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.category-search button {
+  padding: 8px 12px;
+  background: #4dabf7;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
 </style>
+
+<script>
+  const input = document.getElementById("categorySearchInput");
+  const btn = document.getElementById("categorySearchBtn");
+
+  function goSearch() {
+    const value = input.value.trim();
+    if (!value) return;
+
+    window.location.href = `/search?team=${encodeURIComponent(value)}`;
+  }
+
+  btn?.addEventListener("click", goSearch);
+
+  input?.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      goSearch();
+    }
+  });
+</script>

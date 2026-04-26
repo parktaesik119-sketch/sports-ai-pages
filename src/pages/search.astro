@@ -1,45 +1,109 @@
 ---
+export const prerender = false;
+
 import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
 
-const posts = await getCollection('posts');
+const allPosts = await getCollection('posts');
 
-const url = new URL(Astro.request.url);
-const q = (url.searchParams.get('q') || '').toLowerCase();
+const keyword = Astro.url.searchParams.get('team')?.toLowerCase().trim() || '';
 
-const results = q
-  ? posts.filter((post) => {
-      const title = post.data.title.toLowerCase();
-      const content = (post.body || '').toLowerCase();
-      const league = (post.data.league || '').toLowerCase();
+const keywords = keyword
+  ? [
+      keyword,
+      keyword.replace(/토론토/g, 'toronto'),
+      keyword.replace(/toronto/g, '토론토'),
+    ]
+  : [];
 
-      return (
-        title.includes(q) ||
-        content.includes(q) ||
-        league.includes(q)
-      );
-    })
+// ✅ 여기서 전부 가공 끝낸다
+const filtered = keyword
+  ? allPosts
+      .filter(post => {
+        const title = post.data.title.toLowerCase();
+        return (
+          post.data.slug &&   
+          keywords.some(k => title.includes(k))
+        );
+      })
+      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
+      .map(post => {
+        const title = post.data.title;
+
+        const dateMatch = title.match(/^(\d{2,4}[./-]\d{2}[./-]\d{2})/);
+        const leagueMatch = title.match(/\[(.*?)\]/);
+
+        return {
+          slug: post.data.slug,
+          title,
+          date: dateMatch ? dateMatch[1] : '',
+          league: leagueMatch ? leagueMatch[1] : '',
+        };
+      })
   : [];
 ---
 
-<h1>검색 결과</h1>
+<BaseLayout title={`검색 결과 - ${keyword || '전체'}`}>
+  <main style="max-width:800px; margin:40px auto;">
 
-<form method="GET" action="/search">
-  <input name="q" value={q} placeholder="팀 / 리그 / 경기 검색" />
-  <button type="submit">검색</button>
-</form>
+    <h2>🔍 "{keyword}" 검색 결과</h2>
 
-<hr />
+    {keyword === '' ? (
+      <p>검색어를 입력하세요</p>
+    ) : filtered.length > 0 ? (
+      <ul class="search-list">
 
-{q === '' ? (
-  <p>검색어를 입력하세요</p>
-) : results.length === 0 ? (
-  <p>검색 결과가 없습니다</p>
-) : (
-  results.map((post) => (
-    <div>
-      <a href={`/posts/detail/${post.slug}`}>
-        {post.data.title}
-      </a>
-    </div>
-  ))
-)}
+        {filtered.map(post => (
+          <li class="search-item">
+            <a href={`/posts/detail/${post.slug}`}>
+
+              
+
+              <div class="title">{post.title}</div>
+
+            </a>
+          </li>
+        ))}
+
+      </ul>
+    ) : (
+      <p>검색 결과 없음</p>
+    )}
+
+  </main>
+</BaseLayout>
+
+<style>
+.search-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.search-item {
+  border-bottom: 1px solid #ddd;
+  padding: 12px 0;
+}
+
+.search-item a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.meta {
+  font-size: 12px;
+  color: #888;
+  margin-bottom: 4px;
+}
+
+.meta .league {
+  margin-left: 6px;
+  color: #4da3ff;
+}
+
+.title {
+  font-size: 15px;
+  line-height: 1.4;
+}
+</style>
