@@ -6,7 +6,7 @@ const allPosts = await getCollection('posts');
 ---
 
 <BaseLayout title="검색 결과">
-  <main style="max-width:800px; margin:40px auto;">
+  <main style="max-width:800px; margin:40px auto; padding:0 16px;">
 
     <h2>🔍 검색 결과</h2>
 
@@ -14,8 +14,14 @@ const allPosts = await getCollection('posts');
     <div id="posts-data" data-json={JSON.stringify(allPosts)}></div>
 
     <ul class="search-list">
-      <li class="placeholder">검색 중...</li>
-    </ul>
+  {allPosts.map(post => (
+    <li class="search-item">
+      <a href={`/posts/detail/${post.data.slug}`}>
+        <div class="title">{post.data.title}</div>
+      </a>
+    </li>
+  ))}
+</ul>
 
   </main>
 </BaseLayout>
@@ -30,13 +36,19 @@ const allPosts = await getCollection('posts');
   gap: 10px;
 }
 
-/* 카드형 */
+/* 카드 */
 .search-item {
+  width: 100%;
+  box-sizing: border-box;
+
   border: 1px solid #e5e5e5;
   border-radius: 12px;
   padding: 14px;
   background: #fff;
+
   transition: 0.2s;
+
+  overflow: hidden; /* 🔥 핵심 */
 }
 
 .search-item:hover {
@@ -44,38 +56,47 @@ const allPosts = await getCollection('posts');
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
+/* 링크 */
 .search-item a {
   text-decoration: none;
   color: inherit;
   display: block;
+
   width: 100%;
-  min-width: 0;
-}
-
-/* 제목 (핵심) */
-.title {
-  font-size: 15px;
-  line-height: 1.4;
-
-  display: -webkit-box;
-  -webkit-line-clamp: 2;   /* ⭐ 2줄 제한 */
-  -webkit-box-orient: vertical;
+  max-width: 100%;
   overflow: hidden;
 }
 
-/* 모바일 최적화 */
+/* 제목 */
+.title {
+  font-size: 14px;
+  line-height: 1.4;
+
+  /* 🔥 핵심: 줄바꿈 + 넘침 방지 */
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+
+  overflow: hidden;
+}
+
+/* 모바일 */
 @media (max-width: 768px) {
   .search-item {
     padding: 12px;
   }
 
   .title {
-    font-size: 12px;
+    font-size: 12px; /* 살짝 축소 */
   }
 }
 </style>
 
-<script>
+<script type="module">
   // 🔥 안정적으로 JSON 읽기
   const raw = document.getElementById('posts-data').dataset.json;
   const allPosts = JSON.parse(raw);
@@ -114,7 +135,9 @@ const allPosts = await getCollection('posts');
     container.innerHTML = filtered.map(post => `
       <li class="search-item">
         <a href="/posts/detail/${post.data.slug}">
-          <div class="title">${post.data.title}</div>
+          <div class="search-title">
+          ${post.data.title}
+          </div>
         </a>
       </li>
     `).join('');
