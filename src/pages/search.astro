@@ -25,11 +25,23 @@ const allPosts = await getCollection('posts');
   list-style: none;
   padding: 0;
   margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
+/* 카드형 */
 .search-item {
-  border-bottom: 1px solid #ddd;
-  padding: 12px 0;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 14px;
+  background: #fff;
+  transition: 0.2s;
+}
+
+.search-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
 .search-item a {
@@ -38,17 +50,26 @@ const allPosts = await getCollection('posts');
   display: block;
 }
 
+/* 제목 (핵심) */
 .title {
   font-size: 15px;
   line-height: 1.4;
 
-  white-space: nowrap;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;   /* ⭐ 2줄 제한 */
+  -webkit-box-orient: vertical;
   overflow: hidden;
-  text-overflow: ellipsis;
 }
 
-.placeholder {
-  color: #888;
+/* 모바일 최적화 */
+@media (max-width: 768px) {
+  .search-item {
+    padding: 12px;
+  }
+
+  .title {
+    font-size: 12.5px;
+  }
 }
 </style>
 
