@@ -1,74 +1,21 @@
 ---
-export const prerender = false;
-
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 const allPosts = await getCollection('posts');
-
-const keyword = Astro.url.searchParams.get('team')?.toLowerCase().trim() || '';
-
-const keywords = keyword
-  ? [
-      keyword,
-      keyword.replace(/토론토/g, 'toronto'),
-      keyword.replace(/toronto/g, '토론토'),
-    ]
-  : [];
-
-// ✅ 여기서 전부 가공 끝낸다
-const filtered = keyword
-  ? allPosts
-      .filter(post => {
-        const title = post.data.title.toLowerCase();
-        return (
-          post.data.slug &&   
-          keywords.some(k => title.includes(k))
-        );
-      })
-      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
-      .map(post => {
-        const title = post.data.title;
-
-        const dateMatch = title.match(/^(\d{2,4}[./-]\d{2}[./-]\d{2})/);
-        const leagueMatch = title.match(/\[(.*?)\]/);
-
-        return {
-          slug: post.data.slug,
-          title,
-          date: dateMatch ? dateMatch[1] : '',
-          league: leagueMatch ? leagueMatch[1] : '',
-        };
-      })
-  : [];
 ---
 
-<BaseLayout title={`검색 결과 - ${keyword || '전체'}`}>
+<BaseLayout title="검색 결과">
   <main style="max-width:800px; margin:40px auto;">
 
-    <h2>🔍 "{keyword}" 검색 결과</h2>
+    <h2>🔍 검색 결과</h2>
 
-    {keyword === '' ? (
-      <p>검색어를 입력하세요</p>
-    ) : filtered.length > 0 ? (
-      <ul class="search-list">
+    <!-- 🔥 안전한 데이터 전달 -->
+    <div id="posts-data" data-json={JSON.stringify(allPosts)}></div>
 
-        {filtered.map(post => (
-          <li class="search-item">
-            <a href={`/posts/detail/${post.slug}`}>
-
-              
-
-              <div class="title">{post.title}</div>
-
-            </a>
-          </li>
-        ))}
-
-      </ul>
-    ) : (
-      <p>검색 결과 없음</p>
-    )}
+    <ul class="search-list">
+      <li class="placeholder">검색 중...</li>
+    </ul>
 
   </main>
 </BaseLayout>
@@ -91,19 +38,58 @@ const filtered = keyword
   display: block;
 }
 
-.meta {
-  font-size: 12px;
-  color: #888;
-  margin-bottom: 4px;
-}
-
-.meta .league {
-  margin-left: 6px;
-  color: #4da3ff;
-}
-
 .title {
   font-size: 15px;
   line-height: 1.4;
 }
+
+.placeholder {
+  color: #888;
+}
 </style>
+
+<script>
+  // 🔥 안정적으로 JSON 읽기
+  const raw = document.getElementById('posts-data').dataset.json;
+  const allPosts = JSON.parse(raw);
+
+  const params = new URLSearchParams(window.location.search);
+  const keyword = (params.get('team') || '').toLowerCase().trim();
+
+  const keywords = keyword
+    ? [
+        keyword,
+        keyword.replace(/토론토/g, 'toronto'),
+        keyword.replace(/toronto/g, '토론토'),
+      ]
+    : [];
+
+  const container = document.querySelector('.search-list');
+
+  let filtered = [];
+
+  if (keyword) {
+    filtered = allPosts
+      .filter(post => {
+        const title = post.data.title.toLowerCase();
+        return post.data.slug && keywords.some(k => title.includes(k));
+      })
+      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+  }
+
+  container.innerHTML = '';
+
+  if (!keyword) {
+    container.innerHTML = '<li>검색어를 입력하세요</li>';
+  } else if (filtered.length === 0) {
+    container.innerHTML = '<li>검색 결과 없음</li>';
+  } else {
+    container.innerHTML = filtered.map(post => `
+      <li class="search-item">
+        <a href="/posts/detail/${post.data.slug}">
+          <div class="title">${post.data.title}</div>
+        </a>
+      </li>
+    `).join('');
+  }
+</script>
