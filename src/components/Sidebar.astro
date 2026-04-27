@@ -233,16 +233,26 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   padding-left: 20px;
 }
 
+/* 1. 공지사항 리스트 제목만 별도로 키우기 */
+.notice-link .notice-title {
+  font-size: 16px !important; /* 최신글보다 크게 설정 */
+  font-weight: 700;           /* 공지사항은 더 두껍게 강조 */
+  color: #111;                /* 글자색을 더 진하게 */
+}
+
+/* 2. 공통 및 최신 분석글 스타일 (기존 14px 유지) */
 .notice-title, .post-title {
   flex-grow: 1;
-  min-width: 0;           /* 핵심: flex 내부에서 너비 제한을 위해 필요 */
-  white-space: nowrap;    /* 줄바꿈 금지 */
-  overflow: hidden;       /* 넘치는 부분 숨김 */
-  text-overflow: ellipsis; /* ... 표시 */
-  font-size: 14px;
-  font-weight: 500; /* 👉 동일하게 맞춤 */
-  display: block; /* inline-flex나 flex 상태라면 block으로 강제 전환 */
-  max-width: 100%; /* 부모 너비를 절대 넘지 못하도록 한계 설정 */
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  
+  font-size: 14px; /* 최신 분석글은 이 크기를 따름 */
+  
+  font-weight: 500;
+  display: block;
+  max-width: 100%;
 }
 
 .new-icon {
