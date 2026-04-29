@@ -40,7 +40,7 @@ DN SOOPers와 HANJIN BRION은 현재 리그에서 모두 연패를 기록하며 
 
 ### 🎯 추천픽
 
-| <span style="display:inline-block; width:90px;"></span> | <span style="display:inline-block; width:180px;"></span> | <span style="display:inline-block; width:80px;"></span> |
+| <span style="display:inline-block; width:50px;"></span> | <span style="display:inline-block; width:180px;"></span> | <span style="display:inline-block; width:40px;"></span> |
 |:---|:---:|:---:|
 | **<span style="color: #007bff;">승무패</span>** | HANJIN BRION | 승 | |
 | **<span style="color: #007bff;">핸디캡</span>** | HANJIN BRION | -1.5 | |
