@@ -104,6 +104,59 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 </script>
+
+<style is:global>
+  /* 전체 텍스트 또렷하게 (4번 해결) */
+  body {
+    color: #1a1a1a !important; /* 더 진한 블랙 */
+    line-height: 1.8;
+    font-family: 'Pretendard', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* 본문 텍스트(p) 강조 */
+  p, li, td {
+    color: #2d2d2d;
+    font-weight: 400;
+  }
+
+  /* 섹션 타이틀 굵게 및 간격 (3번 해결) */
+  h3 {
+    font-size: 1.4rem;
+    font-weight: 800 !important;
+    color: #000;
+    margin: 3rem 0 1.2rem 0 !important;
+    display: block;
+  }
+
+  /* 표 디자인 */
+  table {
+    width: 100%;
+    max-width: 800px;
+    margin: 1.5rem auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+  }
+
+  table thead { display: none; } /* 헤더 숨기기 */
+
+  td {
+    border: 1px solid #eee;
+    padding: 16px;
+    text-align: center;
+  }
+
+  /* 첫 번째 열 파란색 강조 */
+  table tr td:first-child {
+    color: #007bff !important;
+    font-weight: 700 !important;
+    background-color: #fcfdfe;
+    width: 25%;
+  }
+</style>
+
   </body>
 </html>
 
