@@ -1,6 +1,7 @@
 ---
-title: "26/05/01 대한민국 [LCK] 젠지 글로벌 아카데미 vs T1 루키즈 분석"
-date: 2026-04-28T10:48:17.784Z
+title: "26/05/01 대한민국 [LCK] DN SOOPers vs HANJIN BRION 분석"
+date: 2026-04-28T11:44:06.020Z
+description: "LCK CL 스프링 시즌 6주차 경기에서 DN SOOPers와 HANJIN BRION이 맞붙는다. 최근 두 팀 모두 연패를 기록하며 부진한 모습을 보이고 있어, 이번 경기 결과에 따라 순위 변동이 예상된다. DN SOOPers는 상체 주도권을 바탕으로 한 운영 능..."
 slug: "analyze-rapid-lol-15860099-2026-05-01"
 category: "lol"
 ---
@@ -9,43 +10,40 @@ category: "lol"
 
 | | |
 |:---|:---|
-| **<span style="color: #007bff;">홈팀</span>** | <img src="/logos/dn-soopers.png" width="31" height="30" style="vertical-align: middle;"> 젠지 글로벌 아카데미 |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="/logos/hanjin-brion.png" width="31" height="30" style="vertical-align: middle;"> T1 루키즈 |
+| **<span style="color: #007bff;">홈팀</span>** | <img src="/logos/dn-soopers.png" width="31" height="30" style="vertical-align: middle;"> DN SOOPers |
+| **<span style="color: #007bff;">원정팀</span>** | <img src="/logos/hanjin-brion.png" width="31" height="30" style="vertical-align: middle;"> HANJIN BRION |
 | **<span style="color: #007bff;">리그</span>** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 대한민국: LCK |
 | **<span style="color: #007bff;">경기시간</span>** | 2026. 05. 01. (금) 17:00 |
 
 <br>
 
-### <img src="/logos/dn-soopers.png" width="31" height="30" style="vertical-align: middle;"> 젠지 글로벌 아카데미 분석
-젠지 글로벌 아카데미는 최근 LCK CL에서 안정적인 경기력을 보여주며 상위권에 자리매김하고 있습니다. 팀의 주요 강점은 뛰어난 팀워크와 메타에 대한 빠른 적응력으로, 특히 중후반 운영 능력에서 강점을 드러냅니다. <br>
-이번 경기에서도 젠지 글로벌 아카데미는 특유의 끈끈한 조직력을 바탕으로 상대방의 실수를 유발하며 경기를 유리하게 이끌어갈 것으로 예상됩니다. <br>
-특히, 이번 시즌 새롭게 영입된 미드라이너의 활약이 팀의 승패에 중요한 영향을 미칠 것으로 보입니다. <br>
+### <img src="/logos/dn-soopers.png" width="31" height="30" style="vertical-align: middle;"> DN SOOPers 분석
+DN SOOPers는 최근 연패를 기록하며 흐름이 좋지 않다. 특히 중반 운영 단계에서 발생하는 실수가 잦아 상대에게 흐름을 내주는 경우가 많다. <br> 그러나 상체 라인에서의 개인 기량은 준수한 편이며, 이를 바탕으로 초반 주도권을 잡는다면 경기를 유리하게 이끌어갈 수 있다. <br> 이번 경기에서는 집중력 있는 플레이와 효율적인 운영으로 연패 탈출을 노릴 것으로 예상된다.
 
 <br><br>
 
-### <img src="/logos/hanjin-brion.png" width="31" height="30" style="vertical-align: middle;"> T1 루키즈 분석
-T1 루키즈는 젊고 패기 넘치는 선수들로 구성되어 있으며, 공격적인 플레이 스타일을 주 무기로 삼고 있습니다. 최근 몇 경기에서 기복 있는 모습을 보였지만, 언제든 폭발적인 경기력을 보여줄 수 있는 잠재력을 지닌 팀입니다. <br>
-이들의 강점은 초반 주도권을 잡고 상대를 압박하는 능력이며, 이를 통해 빠른 시간 안에 승기를 잡으려 할 것입니다. <br>
-젠지 글로벌 아카데미와의 경기에서도 T1 루키즈는 초반부터 강하게 몰아붙이며 변수를 창출하려 할 것으로 예상됩니다. <br>
+### <img src="/logos/hanjin-brion.png" width="31" height="30" style="vertical-align: middle;"> HANJIN BRION 분석
+HANJIN BRION 역시 최근 몇 경기에서 승리를 거두지 못하며 아쉬운 모습을 보이고 있다. 팀 전체적으로 공격적인 성향이 강하지만, 때로는 과도한 욕심으로 인해 역습에 취약한 모습을 보이기도 한다. <br> 그래도 플레이메이킹 능력이 뛰어난 선수들이 있어, 기회가 왔을 때 순간적인 집중력을 발휘하며 경기의 흐름을 바꿀 잠재력을 가지고 있다. <br> 이번 DN SOOPers와의 경기에서는 변화된 전략과 공격적인 운영으로 반전을 꾀할 가능성이 높다.
 
 <br><br>
 
-26/04/20 | 젠지 글로벌 아카데미 | 2-1 <br>
-26/03/18 | T1 루키즈 | 0-2 <br>
-26/02/15 | 젠지 글로벌 아카데미 | 2-1 <br>
+26/04/20 | HANJIN BRION | 2-1 <br>
+26/04/15 | DN SOOPers | 1-2 <br>
+26/03/25 | HANJIN BRION | 2-0 <br>
+
 <br><br>
 
 ### 📝 종합 분석
-이번 경기는 LCK CL의 두 강팀 간의 맞대결로, 치열한 접전이 예상됩니다. 최근 상대전적에서는 젠지 글로벌 아카데미가 근소하게 우위를 점하고 있으나, T1 루키즈 역시 언제든 승리를 가져갈 수 있는 저력을 가지고 있습니다. 젠지 글로벌 아카데미는 안정적인 운영과 팀워크를 바탕으로 경기를 풀어갈 것이며, T1 루키즈는 공격적인 플레이로 초반부터 주도권을 잡으려 할 것입니다. 양 팀 모두 최근 폼이 좋기 때문에, 누가 더 실수를 적게 하고 집중력을 유지하느냐에 따라 승패가 갈릴 것으로 보입니다.
+DN SOOPers와 HANJIN BRION은 현재 리그에서 모두 연패를 기록하며 부진한 흐름을 이어가고 있다. 하지만 최근 두 팀 간의 맞대결에서는 HANJIN BRION이 근소한 차이로 우위를 점하고 있어 심리적으로 앞설 수 있다. DN SOOPers는 상체 주도권을 바탕으로 경기를 풀어가려 하겠지만, HANJIN BRION의 공격적인 플레이와 순간적인 집중력이 변수가 될 수 있다. 양 팀 모두 확실한 강점을 보여주지 못하고 있어 치열한 접전이 예상되지만, 최근 상대전적과 경기 운영의 안정성을 고려했을 때 HANJIN BRION이 근소하게 우세할 것으로 보인다.
 
-<br><br><br>
+<br><br>
 
 ### 🎯 추천픽
 
 | <span style="display:inline-block; width:90px;"></span> | <span style="display:inline-block; width:180px;"></span> | <span style="display:inline-block; width:80px;"></span> |
 |:---|:---:|:---:|
-| **<span style="color: #007bff;">승무패</span>** | 젠지 글로벌 아카데미 | 승 | |
-| **<span style="color: #007bff;">핸디캡</span>** | 젠지 글로벌 아카데미 | -1.5 | |
+| **<span style="color: #007bff;">승무패</span>** | HANJIN BRION | 승 | |
+| **<span style="color: #007bff;">핸디캡</span>** | HANJIN BRION | -1.5 | |
 | **<span style="color: #007bff;">오버언더</span>** | 오버 | 2.5 | |
 
 <br><br><br>
@@ -53,5 +51,5 @@ T1 루키즈는 젊고 패기 넘치는 선수들로 구성되어 있으며, 공
 <p><b>© 픽천국(Pick Heaven)</b></p>
 <p>- 무료로 배포되는 단순 참고용 분석글이며, 결과에 책임지지 않습니다 -</p>
 <hr>
-#젠지글로벌아카데미 #T1루키즈 #롤분석 #스포츠픽 #픽천국
+#DNSOOPers #HANJINBRION #롤분석 #스포츠픽 #픽천국
 </div>
