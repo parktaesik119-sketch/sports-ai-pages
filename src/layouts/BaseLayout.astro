@@ -28,23 +28,9 @@ const currentPath = url.pathname;
     <meta name="twitter:card" content="summary_large_image" />
 
     <meta name="referrer" content="no-referrer" />
-
-    <script type="application/ld+json">
-    {JSON.stringify(Astro.props.structuredData)}
-    </script>
-
   </head>
 
   <body>
-
-   <!-- 🔥 인트로 로고 -->
-  <div id="intro">
-    <div class="intro-logo">
-    <span class="logo-main">픽천국</span>
-    <span class="logo-sub">PICK HEAVEN</span>
-    </div>
-  </div>
-
     <header class="header">
       <div class="header-container">
 
@@ -98,68 +84,25 @@ document.addEventListener('DOMContentLoaded', () => {
   const mobileMenu = document.getElementById('mobile-menu');
   const overlay = document.getElementById('menu-overlay');
 
-  const intro = document.getElementById("intro");
-  const introLogo = document.querySelector(".intro-logo");
-  const headerLogo = document.querySelector(".logo");
-
   if (!menuBtn || !closeBtn || !mobileMenu || !overlay) return;
+
+  // 열기
+  menuBtn.addEventListener('click', () => {
+    overlay.classList.add('open');
+  });
 
   // 닫기 버튼
   closeBtn.addEventListener('click', () => {
     overlay.classList.remove('open');
   });
 
-  // 배경 클릭
+  // 🔥 배경 클릭하면 닫힘
   overlay.addEventListener('click', (e) => {
     if (e.target === overlay) {
       overlay.classList.remove('open');
     }
   });
-
-  // =========================
-  // 🔥 인트로 애니메이션 (최종 완성형)
-  // =========================
-  if (introLogo && headerLogo) {
-
-    // 🔥 모바일 위치 튐 방지 핵심
-    introLogo.getBoundingClientRect();
-
-    const introRect = introLogo.getBoundingClientRect();
-    const headerRect = headerLogo.getBoundingClientRect();
-
-    // 🔥 "중앙 기준" 계산 (이게 핵심이다)
-    const introCenterX = introRect.left + introRect.width / 2;
-    const introCenterY = introRect.top + introRect.height / 2;
-
-    const headerCenterX = headerRect.left + headerRect.width / 2;
-    const headerCenterY = headerRect.top + headerRect.height / 2;
-
-    const deltaX = headerCenterX - introCenterX;
-    const deltaY = headerCenterY - introCenterY;
-
-    introLogo.style.setProperty("--target-x", `${deltaX}px`);
-    introLogo.style.setProperty("--target-y", `${deltaY}px`);
-
-    // 이동 시작
-    setTimeout(() => {
-      introLogo.classList.add("move");
-      introLogo.classList.add("shine");
-    }, 250);
-
-    // 🔥 도착 순간 빛 퍼짐
-    setTimeout(() => {
-    introLogo.classList.add("flash");
-    }, 900);
-
-    // 🔥 종료
-    setTimeout(() => {
-    introLogo.classList.add("hide");
-    if (intro) intro.style.display = "none";
-    }, 1400);
-    }
-
 });
-
 </script>
 
 <style is:global>
@@ -252,13 +195,6 @@ document.addEventListener('DOMContentLoaded', () => {
   color: #1d61cf;
   letter-spacing: 1px;
   position: relative;
-
-  animation: neonGlow 2s ease-in-out infinite alternate;
-}
-
-/* 인트로는 따로 */
-.intro-logo .logo-main {
-  animation: neonPulse 2s ease-in-out infinite;
 }
 
 /* 🔥 왼쪽 날개 */
@@ -277,9 +213,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   transform-origin: right center;
 
-  animation: 
-  wing-left 1.8s cubic-bezier(0.4, 0, 0.2, 1) infinite,
-  wing-glow 2.2s ease-in-out infinite;
+  animation: wing-left 1.8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
 
   opacity: 0.95;
   filter: drop-shadow(0 3px 5px rgba(0,0,0,0.25));
@@ -301,9 +235,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   transform-origin: 70% center;
 
-  animation: 
-  wing-right 1.8s cubic-bezier(0.4, 0, 0.2, 1) infinite,
-  wing-glow 2.2s ease-in-out infinite;
+  animation: wing-right 1.8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
 
   opacity: 0.95;
   filter: drop-shadow(0 3px 5px rgba(0,0,0,0.25));
@@ -328,16 +260,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 }
 
-/* 🔥 glow는 그대로 유지 */
-@keyframes wing-glow {
-  0%, 100% {
-    filter: drop-shadow(0 0 4px rgba(255, 220, 120, 0.2));
-  }
-  50% {
-    filter: drop-shadow(0 0 10px rgba(255, 220, 120, 0.6));
-  }
-}
-
 /* 🔥 오른쪽 날개 (scaleX(-1) 반드시 포함!) */
 @keyframes wing-right {
   0% {
@@ -356,7 +278,6 @@ document.addEventListener('DOMContentLoaded', () => {
     transform: scaleX(-1) rotate(0deg) translateY(0);
   }
 }
-
 
 /* 🔥 hover 시 더 크게 펄럭 */
 .logo:hover .logo-main::before {
@@ -397,59 +318,14 @@ document.addEventListener('DOMContentLoaded', () => {
 .logo-sub {
   font-size: 11px;
   color: #888;
-  margin-top: 4px;
+  margin-top: 3px;
   letter-spacing: 2px;
-
-  display: block;
-  width: 100%;
-  text-align: center;
-  line-height: 1;
-}
-
-.intro-logo .logo-main {
-  line-height: 1.05;
 }
 
 /* 🔥 hover */
 .logo:hover .logo-main {
   transform: scale(1.05);
   transition: 0.2s;
-}
-
-@keyframes neonGlow {
-  0% {
-    text-shadow:
-      0 0 1px #fff8c2,
-      0 0 6px rgba(255, 236, 140, 0.8),
-      0 0 12px rgba(255, 214, 90, 0.4);
-  }
-  100% {
-    text-shadow:
-      0 0 2px #fff2a8,
-      0 0 8px rgba(255, 232, 120, 1),
-      0 0 16px rgba(255, 210, 70, 0.6);
-  }
-}
-
-@keyframes neonPulse {
-  0% {
-    transform: scale(1);
-    text-shadow:
-      0 0 2px #fff6b0,
-      0 0 8px rgba(255, 232, 120, 0.8);
-  }
-  50% {
-    transform: scale(1.05);
-    text-shadow:
-      0 0 3px #fff8c2,
-      0 0 12px rgba(255, 220, 90, 1);
-  }
-  100% {
-    transform: scale(1);
-    text-shadow:
-      0 0 2px #fff6b0,
-      0 0 8px rgba(255, 232, 120, 0.8);
-  }
 }
 
 /* 🔥 메뉴 */
@@ -532,156 +408,4 @@ document.addEventListener('DOMContentLoaded', () => {
     justify-content: space-between;
     align-items: center;
   }
-
- /* 🔥 인트로 전체 화면 */
-#intro {
-  position: fixed;
-  inset: 0;
-  background: #ffffff;
-  z-index: 9999;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.intro-text {
-  font-size: 60px;
-  font-weight: 900;
-  color: #1d61cf;
-
-  text-shadow:
-    0 0 10px #3b82f6,
-    0 0 20px #3b82f6,
-    0 0 40px #60a5fa;
-}
-
-#intro.hide {
-  opacity: 0;
-  pointer-events: none;
-}
-
-/* 🔥 인트로 시작 위치 (중앙) */
-.intro-logo {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  z-index: 10000;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-
-  text-align: center;
-  gap: 2px;
-
-  transform: translate(-50%, -50%) scale(3);
-
-  transition:
-    transform 1.2s cubic-bezier(0.22, 1, 0.36, 1),
-    opacity 0.4s ease;
-
-  will-change: transform, opacity;
-
-  overflow: visible; /* 🔥 여기로 합침 */
-}
-
-.intro-logo::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: -120%;
-  width: 60%;
-  height: 100%;
-
-  background: linear-gradient(
-    120deg,
-    transparent,
-    rgba(255, 245, 170, 0.6),
-    transparent
-  );
-
-  transform: skewX(-20deg);
-  pointer-events: none;
-}
-
-.intro-logo.shine::before {
-  animation: shineMove 0.9s ease-out;
-}
-
-@keyframes shineMove {
-  0% { left: -120%; }
-  100% { left: 120%; }
-}
-
-/* 🔥 픽천국 / PICK HEAVEN 세로 중앙 정렬 */
-.intro-logo .logo-main,
-.intro-logo .logo-sub {
-  display: block;
-  width: 100%;
-  text-align: center;
-}
-
-/* 🔥 도착 시 빛 퍼짐 효과 */
-.intro-logo::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-
-  width: 20px;
-  height: 20px;
-
-  background: radial-gradient(circle, rgba(59,130,246,0.8) 0%, rgba(59,130,246,0.4) 40%, transparent 70%);
-  border-radius: 50%;
-
-  transform: translate(-50%, -50%) scale(0);
-  opacity: 0;
-
-  pointer-events: none;
-}
-
-/* 🔥 터지는 순간 */
-.intro-logo.flash::after {
-  animation: flashSpread 0.8s ease-out forwards;
-}
-
-/* 🔥 확산 애니메이션 */
-@keyframes flashSpread {
-  0% {
-    transform: translate(-50%, -50%) scale(0.5);
-    opacity: 0.8;
-  }
-  50% {
-    transform: translate(-50%, -50%) scale(3);
-    opacity: 0.5;
-  }
-  100% {
-    transform: translate(-50%, -50%) scale(6);
-    opacity: 0;
-  }
-}
-
-/* 🔥 이동 상태 */
-.intro-logo.move {
-  transform:
-    translate(var(--target-x), var(--target-y))
-    scale(1)
-    rotate(0deg); /* 🔥 이동하면서 기울어짐 */
-}
-
-/* 🔥 사라짐 */
-.intro-logo.hide {
-  opacity: 0;
-}
-
-/* 🔥 인트로에서도 날개 보이게 강제 */
-.intro-logo .logo-main::before,
-.intro-logo .logo-main::after {
-  opacity: 1 !important;
-  visibility: visible !important;
-  display: block !important;
-}
-
 </style>
