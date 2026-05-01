@@ -50,25 +50,6 @@ const categoryName = CATEGORY_MAP[category] || category;
 const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
 ---
 
-const siteUrl = "https://pick79.com";
-const pageUrl = `${siteUrl}/posts/detail/${finalSlug}`;
-
-const structuredData = {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": post.data.title,
-  "description": post.data.description ?? post.data.title,
-  "url": pageUrl,
-  "datePublished": post.data.date,
-  "author": {
-    "@type": "Organization",
-    "name": "픽천국"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "픽천국"
-  }
-};
 
 <BaseLayout
   title={`${categoryName} 분석글 - 페이지 ${page.currentPage}`}
@@ -129,7 +110,7 @@ const structuredData = {
   {/* 🔥 숫자 */}
   <div class="page-numbers">
     {pageNumbers.map((pageNum) => (
-      <a href={getPageHref(pageNum)} class={page.currentPage === pageNum ? "active" : ""}>
+      <a href={getPageHref(pageNum)} class={page.currentPage === pageNum ? "active" : null}>
         {pageNum}
       </a>
     ))}
