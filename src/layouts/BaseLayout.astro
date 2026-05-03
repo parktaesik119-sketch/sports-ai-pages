@@ -365,9 +365,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 /* 🔥 메인 */
 .container {
-  max-width: 1200px;
+  display: flex;       /* 🔥 추가: 사이드바와 본문을 가로로 나란히 배치 */
+  gap: 20px;           /* 🔥 추가: 이 숫자를 30px, 40px 등으로 바꿔서 간격을 조절하세요 */
+  max-width: 1230px;
   margin: 5px auto;
   padding: 0 20px;
+  align-items: flex-start; /* 추가: 사이드바가 본문 길이에 따라 늘어나지 않게 고정 */
 }
 
 /* =========================
