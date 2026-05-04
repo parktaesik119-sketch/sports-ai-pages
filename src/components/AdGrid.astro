@@ -3,7 +3,6 @@
 const ads = [
   { id: 1, normal: "/images/ads/ad1.png", long: "/images/ads/ad1_long.png", link: "https://trp-s.com" },
   { id: 2, normal: "/images/ads/ad2.png", normal: "/images/ads/ad2.png", long: "/images/ads/ad2_long.png", link: "https://t.me/pickheaven" },
-  { id: 3, normal: "/images/ads/ad3.png", normal: "/images/ads/ad3.png", long: "/images/ads/ad3_long.png", link: "https://pick79.com" },
   { id: 5, normal: "/images/ads/ad5.png", normal: "/images/ads/ad5.png", link: "https://xn--3e0b940dl3f.com/" },
 ];
 
@@ -121,11 +120,18 @@ const { type } = Astro.props;
   border-radius: 8px;
 }
 
-/* 모바일 대응: 화면이 좁아지면 높이도 줄어들게 조정 */
+/* 모바일 대응: 가로 100%를 유지 */
 @media (max-width: 768px) {
-  .ad-grid { grid-template-columns: 1fr; }
+  .ad-grid { 
+    grid-template-columns: 1fr; /* 1단으로 변경 */
+    width: 100%; /* 그리드 자체 너비 확보 */
+  }
+  
   .ad-grid .ad-img {
-    height: 130px; /* 모바일에서는 높이를 조금 낮춤 */
+    width: 100% !important; /* 부모 너비에 무조건 꽉 채움 */
+    height: 120px; /* 요청하신 모바일 높이 */
+    object-fit: fill; /* 가로/세로를 박스에 강제로 맞춤 */
+    display: block; /* 하단 미세 공백 제거 */
   }
 }
 </style>
