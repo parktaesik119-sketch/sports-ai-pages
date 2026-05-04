@@ -1,7 +1,7 @@
 ---
 title: "무료스포츠분석 픽천국 이용안내"
 date: 2026-04-01T10:00:00
-slug: "notice-02"
+slug: "notice-01"
 ---
 <img src="https://i.imgur.com/MRg3fcQ.png" style="width:100%; display:block; margin:20px auto;">
 <br>

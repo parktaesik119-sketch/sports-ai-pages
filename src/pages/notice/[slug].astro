@@ -12,7 +12,8 @@ export async function getStaticPaths() {
 
   return items.map((item) => {
     // 🔵 slug가 누락된 경우를 대비해 id를 사용하고, 문자열임을 보장함
-    const slugValue = item.data.slug || item.id || "default-notice";
+    const slugValue = item.data.slug || item.id;
+    console.log("Generated Slug:", slugValue); // 터미널에서 슬러그가 중복되는지 확인용
     
     return {
       params: { slug: String(slugValue) },
