@@ -111,7 +111,7 @@ const { type } = Astro.props;
   min-height: 150px; /* 이미지가 너무 작아지는 것 방지 (본문용) */
 }
 
-/* 2. 메인화면 2단 배너 (900x250 비율) */
+/* 2. 메인화면 배너 (900x250 비율) */
 .ad-grid .ad-img {
   width: 100%;
   /* aspect-ratio가 작동하지 않는 구형 환경 대비 height 강제 지정 */
@@ -124,14 +124,15 @@ const { type } = Astro.props;
 @media (max-width: 768px) {
   .ad-grid { 
     grid-template-columns: 1fr; /* 1단으로 변경 */
-    width: 100%; /* 그리드 자체 너비 확보 */
+    width: 100%;
+    gap: 10px 0;
   }
   
   .ad-grid .ad-img {
-    width: 100% !important; /* 부모 너비에 무조건 꽉 채움 */
-    height: 120px; /* 요청하신 모바일 높이 */
-    object-fit: fill; /* 가로/세로를 박스에 강제로 맞춤 */
-    display: block; /* 하단 미세 공백 제거 */
+    width: 100% !important; 
+    height: 120px; 
+    object-fit: fill; 
+    border-radius: 8px;
   }
 }
 </style>
