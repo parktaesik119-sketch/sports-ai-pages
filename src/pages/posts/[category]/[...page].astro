@@ -44,7 +44,7 @@ const getPageHref = (num) => num === 1 ? `/posts/${category}` : `/posts/${catego
 
 // 👉 카테고리 날짜기준 변수 추가
 const now = new Date();
-const todayStr = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
+const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
 
 const categoryName = CATEGORY_MAP[category] || category;
 const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
@@ -71,7 +71,7 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
           {page.data.map((post) => {
             const postDate = new Date(post.data.date);
             const dateStr = `${String(postDate.getMonth() + 1).padStart(2, '0')}.${String(postDate.getDate()).padStart(2, '0')}`;
-            const isNew = dateStr === todayStr;
+            const isNew = (now.getTime() - postDate.getTime()) < ONE_DAY_MS;
             const finalSlug = post.data.slug || post.slug;
 
             return (
@@ -93,13 +93,12 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
         {/* 🔥 추가: 페이지네이션 UI */}
         <nav class="pagination">
         <div class="category-search">
-  <input
-    type="text"
-    id="categorySearchInput"
-    placeholder="팀명 검색"
-  />
-  <button id="categorySearchBtn">검색</button>
-</div>
+  <input type="text" id="categorySearchInput" placeholder="팀명 검색" />
+    <button id="categorySearchBtn">검색</button>
+  </div>
+
+  <!-- 🔥 추가: 버튼과 숫자를 한 줄로 묶어주는 컨테이너 -->
+  <div class="pagination-wrapper">
 
   {/* 🔥 이전 버튼 */}
   {startPage > 1 ? (
@@ -123,7 +122,7 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
   ) : (
     <span class="page-btn disabled">다음</span>
   )}
-
+</div>
 </nav>
       </section>
     </main>
@@ -313,9 +312,17 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 20px;
+  gap: 15px;
   padding: 30px 0;
   border-top: 1px solid #f1f3f5;
+}
+
+.pagination-wrapper {
+  display: flex;          /* 🔥 버튼과 숫자를 가로로 나열 */
+  align-items: center;
+  justify-content: center;
+  gap: 10px;              /* 버튼 사이의 간격 */
+  width: 100%;
 }
 
 /* 숫자 */
@@ -384,6 +391,10 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
     flex-direction: row; 
     flex-wrap: wrap;
     gap: 20px;
+  }
+
+  .pagination-wrapper {
+    width: auto;         /* 🔥 PC에서는 필요한 만큼만 폭 차지 */
   }
 
   /* 👉 필요 없으면 order도 지워도 됨 (지금은 단순 구조라 의미 없음) */

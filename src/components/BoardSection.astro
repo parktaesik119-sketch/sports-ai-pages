@@ -27,9 +27,7 @@ const posts = allPosts
   });
 
 const now = new Date();
-const month = String(now.getMonth() + 1).padStart(2, '0');
-const day = String(now.getDate()).padStart(2, '0');
-const todayStr = `${month}.${day}`;
+const ONE_DAY_MS = 24 * 60 * 60 * 1000; 
 ---
 
 <section class={`board ${category}`}>
@@ -39,21 +37,29 @@ const todayStr = `${month}.${day}`;
   </div>
   
   <ul class="board-list">
-    {posts.map(post => {
-      const isNew = post.date === todayStr;
-      return (
-        <li>
-          <a href={post.slug} class="title-link">
-            <span class="title-wrapper">
-              {isNew && <span class="new-badge">N</span>}
-              
-              <span class="text-content">{post.title}</span>
-            </span>
-          </a>
-          <span class="post-date">{post.date}</span>
-        </li>
-      );
-    })}
+    {allPosts
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+      .slice(0, 4)
+      .map(post => {
+        // 🔥 24시간 계산 로직
+        const isNew = (now.getTime() - post.data.date.getTime()) < ONE_DAY_MS;
+        const finalSlug = post.data.slug || post.slug;
+        
+        // 🔥 날짜 표시용 문자열 (05.04 형식)
+        const displayDate = `${String(post.data.date.getMonth() + 1).padStart(2, '0')}.${String(post.data.date.getDate()).padStart(2, '0')}`;
+
+        return (
+          <li>
+            <a href={`/posts/detail/${finalSlug}`} class="title-link">
+              <span class="title-wrapper">
+                {isNew && <span class="new-badge">N</span>}
+                <span class="text-content">{post.data.title}</span>
+              </span>
+            </a>
+            <span class="post-date">{displayDate}</span>
+          </li>
+        );
+      })}
   </ul>
 </section>
 
