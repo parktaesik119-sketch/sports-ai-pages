@@ -3,6 +3,7 @@
 const ads = [
   { id: 1, normal: "/images/ads/ad1.png", long: "/images/ads/ad1_long.png", link: "https://trp-s.com" },
   { id: 2, normal: "/images/ads/ad2.png", normal: "/images/ads/ad2.png", long: "/images/ads/ad2_long.png", link: "https://t.me/pickheaven" },
+  { id: 3, normal: "/images/ads/ad3.png", normal: "/images/ads/ad3.png", long: "/images/ads/ad3_long.png", link: "https://pick79.com" },
   { id: 5, normal: "/images/ads/ad5.png", normal: "/images/ads/ad5.png", link: "https://xn--3e0b940dl3f.com/" },
 ];
 
@@ -10,6 +11,7 @@ const { type } = Astro.props;
 ---
 
 <div class={type ? "premium-container" : "ad-grid"} id={`ad-wrapper-${type || 'main'}`} data-type={type} style="display: none;">
+  {/* filter 부분을 아래와 같이 수정하세요 */}
   {ads.map((ad) => (
     <div class="ad-item-unit" data-id={ad.id}>
       <a href={ad.link} target="_blank" rel="noopener noreferrer">
@@ -28,7 +30,12 @@ const { type } = Astro.props;
     const container = document.getElementById(`ad-wrapper-${type || 'main'}`);
     if (!container) return;
 
-    const items = Array.from(container.querySelectorAll('.ad-item-unit'));
+    let items = Array.from(container.querySelectorAll('.ad-item-unit'));
+    
+    // 본문(type이 있는 경우)은 1~4번만 사용
+    if (type) {
+      items = items.filter(el => parseInt(el.dataset.id) <= 4);
+    }
     
     // 📌 세션 스토리지를 사용하여 페이지 내에서 동일한 순서 공유
     const storageKey = 'ad_display_order';
@@ -49,11 +56,18 @@ const { type } = Astro.props;
     
     let toShow = [];
     if (type === 'top') {
-      toShow = sortedItems.slice(0, 1); // 상단 1개
+      // 상단 노출 로직
+      if (sortedItems.length === 1) toShow = sortedItems.slice(0, 1); // 1개일 때 상단 1
+      else if (sortedItems.length === 2) toShow = sortedItems.slice(0, 1); // 2개일 때 상단 1
+      else if (sortedItems.length >= 3) toShow = sortedItems.slice(0, 2); // 3~4개일 때 상단 2
     } else if (type === 'bottom') {
-      toShow = sortedItems.length > 1 ? sortedItems.slice(1, 2) : []; // 하단 나머지 1개
+      // 하단 노출 로직
+      if (sortedItems.length === 1) toShow = []; // 1개일 때 하단 0
+      else if (sortedItems.length === 2) toShow = sortedItems.slice(1, 2); // 2개일 때 하단 1
+      else if (sortedItems.length === 3) toShow = sortedItems.slice(2, 3); // 3개일 때 하단 1
+      else if (sortedItems.length === 4) toShow = sortedItems.slice(2, 4); // 4개일 때 하단 2
     } else {
-      toShow = sortedItems; // 메인은 전체
+      toShow = sortedItems; // 메인은 전체 노출
     }
 
     // 결과 반영
@@ -82,5 +96,36 @@ const { type } = Astro.props;
   .ad-grid { grid-template-columns: 1fr; }
 }
 .ad-item-unit { width: 100%; display: flex; justify-content: center; }
-.ad-img { width: 100%; height: auto; border-radius: 8px; display: block; }
+.ad-img { 
+  width: 100%; 
+  border-radius: 8px; 
+  display: block; 
+  object-fit: fill; /* 비율 무시하고 지정된 영역에 꽉 채움 */
+}
+
+/* 1. 본문 long 배너 (1200x230) */
+.premium-container .ad-img {
+  width: 100%;
+  height: auto; /* 기본값 */
+  aspect-ratio: 1200 / 230;
+  object-fit: fill;
+  min-height: 150px; /* 이미지가 너무 작아지는 것 방지 (본문용) */
+}
+
+/* 2. 메인화면 2단 배너 (900x250 비율) */
+.ad-grid .ad-img {
+  width: 100%;
+  /* aspect-ratio가 작동하지 않는 구형 환경 대비 height 강제 지정 */
+  height: 140px; /* 메인 화면 배너 높이를 고정 (적당한 높이로 조절 가능) */
+  object-fit: fill; 
+  border-radius: 8px;
+}
+
+/* 모바일 대응: 화면이 좁아지면 높이도 줄어들게 조정 */
+@media (max-width: 768px) {
+  .ad-grid { grid-template-columns: 1fr; }
+  .ad-grid .ad-img {
+    height: 130px; /* 모바일에서는 높이를 조금 낮춤 */
+  }
+}
 </style>
