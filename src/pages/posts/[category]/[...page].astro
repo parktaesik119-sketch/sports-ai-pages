@@ -310,9 +310,10 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
   ========================= */
   .pagination {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
   padding: 30px 0;
   border-top: 1px solid #f1f3f5;
 }
@@ -381,6 +382,7 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
   @media (min-width: 768px) {
   .pagination {
     flex-direction: row; 
+    flex-wrap: wrap;
     gap: 20px;
   }
 
