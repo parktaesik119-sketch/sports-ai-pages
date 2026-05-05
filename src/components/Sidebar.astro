@@ -103,36 +103,43 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
     </div>
   </div>
 
-  <script is:inline>
-    async function updateCounter() {
-        try {
-          // 1. HITS API를 사용하여 공통 누적수 가져오기 (URL 기반)
-          // 'pick79-total' 부분은 사용자님 사이트만의 고유 키값입니다.
-          const response = await fetch('https://api.countapi.xyz/hit/pick79.com/total');
-          const data = await response.json();
-          
-          // 2. 기본값 4,000 + 실제 API 조회수 합산
-          const baseTotal = 4589;
-          const totalCount = baseTotal + data.value;
-          
-          // 3. 화면에 표시
-          document.getElementById('total-count').innerText = totalCount.toLocaleString();
 
-          // 오늘 방문자수는 API 특성상 '오늘'만 리셋하기 어려우므로, 
-          // 현재 로직(세션 기반)을 유지하되 초기 시작값을 동기화하거나 
-          // 아래처럼 간단한 랜덤 보정치를 더해 '살아있는' 느낌만 줍니다.
-          const todayBase = Math.floor(data.value * 0.05) + 35; // 전체 조회수의 5% 정도를 오늘 방문자로 가정
-          document.getElementById('today-count').innerText = todayBase.toLocaleString();
-          
-        } catch (error) {
-          console.error('카운터 로딩 실패:', error);
-          // 실패 시 기본값이라도 표시
-          document.getElementById('total-count').innerText = "4,000";
-        }
+<script is:inline>
+  async function updateCounter() {
+    const totalElement = document.getElementById('total-count');
+    const todayElement = document.getElementById('today-count');
+    const baseTotal = 4589; // 초기 시작값
+
+    try {
+      // 1. 누적 방문자: 호스팅어 서버의 PHP 실행
+      // 🔴 'trp-s.com' 부분을 실제 호스팅어에 연결된 도메인으로 바꾸세요.
+      const response = await fetch('https://trp-s.com/counter.php');
+      const data = await response.json();
+      
+      if (data && data.total) {
+        totalElement.innerText = (baseTotal + data.total).toLocaleString();
       }
+    } catch (error) {
+      console.error("카운터 서버 연결 실패:", error);
+      totalElement.innerText = baseTotal.toLocaleString();
+    }
 
-      updateCounter();
-  </script>
+    // 2. 오늘 방문자: 세션 기반 로직 (자연스러운 증가 효과)
+    const todayKey = 'p79_today_val';
+    let todayCount = sessionStorage.getItem(todayKey);
+
+    if (!todayCount) {
+      const hour = new Date().getHours();
+      todayCount = Math.floor(Math.random() * 20) + (hour * 7) + 40;
+    } else {
+      todayCount = parseInt(todayCount) + Math.floor(Math.random() * 2) + 1;
+    }
+    sessionStorage.setItem(todayKey, todayCount);
+    todayElement.innerText = todayCount.toLocaleString();
+  }
+
+  updateCounter();
+</script>
 
 </aside>
 
