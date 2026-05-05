@@ -100,6 +100,15 @@ const { type } = Astro.props;
   border-radius: 8px; 
   display: block; 
   object-fit: fill; /* 비율 무시하고 지정된 영역에 꽉 채움 */
+  transition: all 0.3s ease-in-out;
+}
+
+/* ✅ 마우스 오버 시 살짝 커지는 효과 */
+.ad-item-unit a:hover .ad-img {
+  transform: scale(1.03); /* 2%만 살짝 커짐 */
+  position: relative;
+  z-index: 5;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* 그림자를 살짝 넣어 입체감 부여 */
 }
 
 /* 1. 본문 long 배너 (1200x230) */
@@ -118,6 +127,7 @@ const { type } = Astro.props;
   height: 140px; /* 메인 화면 배너 높이를 고정 (적당한 높이로 조절 가능) */
   object-fit: fill; 
   border-radius: 0px;
+  will-change: transform;
 }
 
 /* 모바일 대응: 가로 100%를 유지 */
