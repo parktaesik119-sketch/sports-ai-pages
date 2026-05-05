@@ -110,27 +110,26 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
     const todayElement = document.getElementById('today-count');
     const baseTotal = 4589; // 초기 시작값
 
-    // 1. 누적 방문자 로직 (실제 방문 + 1~5 랜덤 덤)
+    // 1. 누적 방문자 로직 (실제 합계 + 30~50명 보너스)
 try {
   const response = await fetch('https://trp-s.com/counter.php');
   const data = await response.json();
   
   if (data && data.total) {
-    // 🎲 사용자마다 고정된 '덤' 수치 결정 (세션 활용)
-    const boostKey = 'p79_total_boost_v2';
-    let extraWeight = sessionStorage.getItem(boostKey);
+    // 🎲 사용자 세션마다 고정된 보너스 숫자 결정 (30~50 사이)
+    const bonusKey = 'p79_total_bonus_fixed';
+    let staticBonus = sessionStorage.getItem(bonusKey);
     
-    if (!extraWeight) {
-      // 1에서 5 사이의 숫자를 무작위로 뽑아 이번 세션의 가중치로 둡니다.
-      extraWeight = Math.floor(Math.random() * 3) + 1; 
-      sessionStorage.setItem(boostKey, extraWeight);
+    if (!staticBonus) {
+      // 처음 접속 시 30에서 50 사이의 숫자를 딱 하나 뽑습니다.
+      staticBonus = Math.floor(Math.random() * 21) + 30; 
+      sessionStorage.setItem(bonusKey, staticBonus);
     } else {
-      extraWeight = parseInt(extraWeight);
+      staticBonus = parseInt(staticBonus);
     }
 
-    // [계산] 기본값 + (실제 서버 카운트 * (1 + 랜덤가중치))
-    // 실제 방문자 1명당 본인 포함 총 2~6명 사이의 숫자가 올라가게 됩니다.
-    const totalWithBoost = baseTotal + (data.total * (1 + extraWeight));
+    // [공식] 초기값(4589) + 실제 서버 카운트 + 랜덤 보너스(30~50)
+    const totalWithBoost = baseTotal + data.total + staticBonus;
     totalElement.innerText = totalWithBoost.toLocaleString();
   }
 } catch (error) {
