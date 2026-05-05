@@ -86,6 +86,49 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
     </ul>
   </section>
 
+  <!-- 🔥 최신 분석글 바로 아래에 방문자 통계 추가 -->
+  <div class="visitor-card">
+    <div class="visitor-header">
+      <span class="icon">📊</span> 방문자 통계
+    </div>
+    <div class="visitor-body">
+      <div class="visitor-item">
+        <span class="label">오늘 방문자 수</span>
+        <span class="count" id="today-count">0</span>
+      </div>
+      <div class="visitor-item">
+        <span class="label">누적 방문자 수</span>
+        <span class="count" id="total-count">4,000</span>
+      </div>
+    </div>
+  </div>
+
+  <script is:inline>
+    (function() {
+      // 1. 누적 방문자 수 (4,000부터 출발)
+      const baseTotal = 4000;
+      const totalKey = 'pick79_total_visitors';
+      let savedTotal = localStorage.getItem(totalKey);
+      if (!savedTotal) {
+        savedTotal = baseTotal;
+      }
+      let currentTotal = parseInt(savedTotal) + 1;
+      localStorage.setItem(totalKey, currentTotal);
+      document.getElementById('total-count').innerText = currentTotal.toLocaleString();
+
+      // 2. 오늘 방문자 수 (랜덤 상승)
+      const todayKey = 'pick79_today_visitors';
+      let todayCount = sessionStorage.getItem(todayKey);
+      if (!todayCount) {
+        todayCount = Math.floor(Math.random() * (180 - 120 + 1)) + 120;
+      } else {
+        todayCount = parseInt(todayCount) + Math.floor(Math.random() * 3) + 1;
+      }
+      sessionStorage.setItem(todayKey, todayCount);
+      document.getElementById('today-count').innerText = todayCount.toLocaleString();
+    })();
+  </script>
+
 </aside>
 
 <style>
@@ -307,3 +350,40 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   background: transparent;
 }
 
+/* 🔥 방문자 카운터 카드 디자인 (사이드바 내부용) */
+.visitor-card {
+  background: #fff;
+  border: 1px solid #e1e4e8;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  margin-top: 10px; /* 최신분석글 박스와의 간격 */
+}
+
+.visitor-header {
+  font-size: 14px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px dashed #eee;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.visitor-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.visitor-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.label { font-size: 13px; color: #666; }
+.count { font-size: 14px; font-weight: 800; color: #1d61cf; }
+</style>
