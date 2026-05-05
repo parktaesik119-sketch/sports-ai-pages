@@ -81,40 +81,7 @@ const { currentCategory } = Astro.props;
     </div>
     </main>
 
-    <!-- 방문자 카운터 로직 스크립트 -->
-    <script is:inline>
-      (function() {
-        // 1. 누적 방문자 수 (4,000부터 시작 및 유지)
-        const baseTotal = 4000;
-        const totalKey = 'pick79_total_visitors';
-        let savedTotal = localStorage.getItem(totalKey);
-        
-        if (!savedTotal) {
-          savedTotal = baseTotal;
-        }
-
-        // 페이지 이동 시마다 1명씩 자연스럽게 증가
-        let currentTotal = parseInt(savedTotal) + 1;
-        localStorage.setItem(totalKey, currentTotal);
-        document.getElementById('total-count').innerText = currentTotal.toLocaleString();
-
-        // 2. 오늘 방문자 수 (랜덤 증가 로직)
-        const todayKey = 'pick79_today_visitors';
-        let todayCount = sessionStorage.getItem(todayKey);
-
-        if (!todayCount) {
-          // 처음 접속 시 120~180명 사이 랜덤 시작
-          todayCount = Math.floor(Math.random() * (80 - 35 + 1)) + 120;
-        } else {
-          // 새로고침/메뉴이동 시 1~3명씩 랜덤 증가
-          todayCount = parseInt(todayCount) + Math.floor(Math.random() * 3) + 1;
-        }
-        
-        sessionStorage.setItem(todayKey, todayCount);
-        document.getElementById('today-count').innerText = todayCount.toLocaleString();
-      })();
-    </script>
-
+    
     <!-- 🔥 JS 위치 중요 (body 맨 아래) -->
 <script>
 document.addEventListener('DOMContentLoaded', () => {

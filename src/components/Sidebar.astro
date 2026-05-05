@@ -104,29 +104,34 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
   </div>
 
   <script is:inline>
-    (function() {
-      // 1. 누적 방문자 수 (4,000부터 출발)
-      const baseTotal = 4000;
-      const totalKey = 'pick79_total_visitors';
-      let savedTotal = localStorage.getItem(totalKey);
-      if (!savedTotal) {
-        savedTotal = baseTotal;
-      }
-      let currentTotal = parseInt(savedTotal) + 1;
-      localStorage.setItem(totalKey, currentTotal);
-      document.getElementById('total-count').innerText = currentTotal.toLocaleString();
+    async function updateCounter() {
+        try {
+          // 1. HITS API를 사용하여 공통 누적수 가져오기 (URL 기반)
+          // 'pick79-total' 부분은 사용자님 사이트만의 고유 키값입니다.
+          const response = await fetch('https://api.countapi.xyz/hit/pick79.com/total');
+          const data = await response.json();
+          
+          // 2. 기본값 4,000 + 실제 API 조회수 합산
+          const baseTotal = 4589;
+          const totalCount = baseTotal + data.value;
+          
+          // 3. 화면에 표시
+          document.getElementById('total-count').innerText = totalCount.toLocaleString();
 
-      // 2. 오늘 방문자 수 (랜덤 상승)
-      const todayKey = 'pick79_today_visitors';
-      let todayCount = sessionStorage.getItem(todayKey);
-      if (!todayCount) {
-        todayCount = Math.floor(Math.random() * (180 - 120 + 1)) + 120;
-      } else {
-        todayCount = parseInt(todayCount) + Math.floor(Math.random() * 3) + 1;
+          // 오늘 방문자수는 API 특성상 '오늘'만 리셋하기 어려우므로, 
+          // 현재 로직(세션 기반)을 유지하되 초기 시작값을 동기화하거나 
+          // 아래처럼 간단한 랜덤 보정치를 더해 '살아있는' 느낌만 줍니다.
+          const todayBase = Math.floor(data.value * 0.05) + 35; // 전체 조회수의 5% 정도를 오늘 방문자로 가정
+          document.getElementById('today-count').innerText = todayBase.toLocaleString();
+          
+        } catch (error) {
+          console.error('카운터 로딩 실패:', error);
+          // 실패 시 기본값이라도 표시
+          document.getElementById('total-count').innerText = "4,000";
+        }
       }
-      sessionStorage.setItem(todayKey, todayCount);
-      document.getElementById('today-count').innerText = todayCount.toLocaleString();
-    })();
+
+      updateCounter();
   </script>
 
 </aside>
