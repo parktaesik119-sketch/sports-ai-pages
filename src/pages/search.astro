@@ -114,8 +114,10 @@ const allPosts = await getCollection('posts');
   const allPosts = JSON.parse(raw);
 
   const params = new URLSearchParams(window.location.search);
-  const keyword = (params.get('team') || '').toLowerCase().trim();
-  const page = parseInt(params.get('page') || '1');
+  const keyword = params.get('team') || '';
+  const dateQuery = params.get('date') || '';
+  const categoryQuery = params.get('category') || ''; // 🔥 종목 정보 가져오기
+  const page = parseInt(params.get('page')) || 1;
   const pageSize = 10;
 
   // 토론토 보정 로직
@@ -131,21 +133,40 @@ const allPosts = await getCollection('posts');
   const paginationEl = document.getElementById('pagination');
 
   let filtered = [];
-  if (keyword) {
+  
+  // 🔥 수정: 키워드(팀명) 또는 날짜가 있을 때 필터링 수행
+  if (keyword || dateQuery) {
     filtered = allPosts
       .filter(post => {
         const title = post.data.title ? post.data.title.toLowerCase() : '';
-        return post.data.slug && keywords.some(k => title.includes(k));
+        const slug = post.data.slug || '';
+        
+        // 1. 팀명 키워드 매칭 여부
+        const matchesKeyword = keyword ? keywords.some(k => title.includes(k)) : true;
+
+        // 🔥 2. 종목(카테고리) 매칭 여부 추가
+        const matchesCategory = categoryQuery ? post.data.category === categoryQuery : true;
+
+        // 3. 날짜 매칭 여부 (dateQuery: "2026-05-08" -> 제목의 "26/05/08"와 비교)
+        let matchesDate = true;
+        if (dateQuery) {
+          const [y, m, d] = dateQuery.split('-');
+          const targetDateStr = `${y.substring(2)}/${m}/${d}`;
+          matchesDate = title.startsWith(targetDateStr);
+        }
+
+        return slug && matchesKeyword && matchesCategory && matchesDate;
       })
       .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
   }
 
-  const totalPages = Math.ceil(filtered.length / pageSize);
-  const start = (page - 1) * pageSize;
-  const paged = filtered.slice(start, start + pageSize);
+  const effectivePageSize = dateQuery ? filtered.length : pageSize;
+  const totalPages = Math.ceil(filtered.length / effectivePageSize);
+  const start = (page - 1) * effectivePageSize;
+  const paged = filtered.slice(start, start + effectivePageSize);
 
-  if (!keyword) {
-    container.innerHTML = '<li style="text-align:center; padding:40px 0;">검색어를 입력하세요</li>';
+  if (!keyword && !dateQuery) {
+    container.innerHTML = '<li style="text-align:center; padding:40px 0;">검색어 또는 날짜를 선택하세요</li>';
   } else if (filtered.length === 0) {
     container.innerHTML = '<li style="text-align:center; padding:40px 0;">검색 결과가 없습니다.</li>';
   } else {

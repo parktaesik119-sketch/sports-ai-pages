@@ -64,6 +64,15 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
       <section class="board-section" data-category={category}>
         <div class="board-header" style={`border-top: 3px solid ${categoryColor}`}>
           <h2>{categoryName} 게시판</h2>
+          <div class="date-filter-wrapper">
+            <label for="dateFilterInput" class="date-label">경기날짜검색</label>
+            <div class="date-input-group">
+              <input type="date" id="dateFilterInput" class="date-filter-input" />
+              <button id="dateResetBtn" class="date-reset-btn" title="초기화">
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path></svg>
+              </button>
+            </div>
+          </div>
         </div>
 
         <ul class="post-list">
@@ -181,6 +190,74 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
     gap: 10px;
     font-family: 'Pretendard', sans-serif;
     font-weight: 700;
+  }
+
+  /* 🔥 날짜 필터 전체 디자인 개선 */
+  .date-filter-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .date-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #495057;
+    white-space: nowrap;
+  }
+
+  .date-input-group {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 2px 6px;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+
+  .date-input-group:focus-within {
+    border-color: #4dabf7;
+    box-shadow: 0 0 0 3px rgba(77, 171, 247, 0.2);
+  }
+
+  .date-filter-input {
+    border: none;
+    outline: none;
+    font-family: inherit;
+    font-size: 0.9rem;
+    color: #495057;
+    padding: 6px 4px;
+    cursor: pointer;
+  }
+
+  .date-reset-btn {
+    background: none;
+    border: none;
+    color: #adb5bd;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 6px;
+    transition: color 0.2s;
+  }
+
+  .date-reset-btn:hover {
+    color: #fa5252;
+  }
+
+  @media (max-width: 768px) {
+    .date-filter-wrapper {
+      gap: 5px;
+    }
+    .date-label {
+      font-size: 0.75rem;
+    }
+    .date-filter-input {
+      font-size: 0.8rem;
+      width: 105px;
+    }
   }
 
   /* 📌 아이콘 공통 */
@@ -457,19 +534,36 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
 <script>
   const input = document.getElementById("categorySearchInput");
   const btn = document.getElementById("categorySearchBtn");
+  const dateInput = document.getElementById("dateFilterInput");
+  const dateResetBtn = document.getElementById("dateResetBtn");
 
+  // 팀명 검색 함수
   function goSearch() {
     const value = input.value.trim();
     if (!value) return;
-
-    window.location.href = `/search?team=${encodeURIComponent(value)}`;
+    
+    // 🔥 현재 카테고리(종목) 정보를 가져와서 함께 보냅니다.
+    const currentCategory = window.location.pathname.split('/')[2]; 
+    window.location.href = `/search?team=${encodeURIComponent(value)}&category=${currentCategory}`;
   }
 
-  btn?.addEventListener("click", goSearch);
-
-  input?.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") {
-      goSearch();
-    }
+  // 🔥 날짜 검색 함수 (전체 페이지 대상)
+  dateInput?.addEventListener("change", (e) => {
+    const selectedDate = e.target.value; // 예: "2026-05-08"
+    if (!selectedDate) return;
+    
+    // 🔥 현재 카테고리(종목) 정보도 함께 넘깁니다.
+    const currentCategory = window.location.pathname.split('/')[2]; 
+    window.location.href = `/search?date=${selectedDate}&category=${currentCategory}`;
   });
+
+  // 초기화 버튼
+  dateResetBtn?.addEventListener("click", () => {
+    // 현재 카테고리 메인 페이지로 이동 (예: /posts/soccer)
+    const category = document.querySelector('.board-section')?.getAttribute('data-category');
+    window.location.href = `/posts/${category}`;
+  });
+
+  btn?.addEventListener("click", goSearch);
+  input?.addEventListener("keydown", (e) => { if (e.key === "Enter") goSearch(); });
 </script>
