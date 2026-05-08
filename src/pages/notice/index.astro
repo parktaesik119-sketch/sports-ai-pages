@@ -53,7 +53,7 @@ const sortedNotices = allNotices.sort(
     gap: 40px;
     max-width: 1260px;
     margin: 20px auto;
-    padding: 0;
+    padding: 0 15px;
     align-items: flex-start;
     width: 100%;
   }
@@ -66,6 +66,9 @@ const sortedNotices = allNotices.sort(
   .content-area {
     flex: 1;      /* 남은 공간 전부 차지 */
     min-width: 0; /* Flex 내부 텍스트 넘침 방지 */
+
+    width: 100%;
+    max-width: 100%;
   }
 
   /* 2. 게시판 스타일 */
@@ -75,6 +78,7 @@ const sortedNotices = allNotices.sort(
     border: 1px solid #e1e4e8;
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    width: 100%;
   }
 
   .board-header {
