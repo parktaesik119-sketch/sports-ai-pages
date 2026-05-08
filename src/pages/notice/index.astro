@@ -75,6 +75,14 @@ const sortedNotices = allNotices.sort(
     border: 1px solid #e1e4e8;
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    width: 100%;       /* 추가: 가로폭 꽉 채우기 */
+    display: flex;     /* 추가: 내부 요소 정렬 */
+    flex-direction: column;
+  }
+
+  .board-content {
+    width: 100%;       /* 추가: 리스트 영역 가로폭 꽉 채우기 */
+    padding: 0;        /* 추가: 불필요한 좌우 여백 제거 */
   }
 
   .board-header {
@@ -107,6 +115,8 @@ const sortedNotices = allNotices.sort(
     padding: 18px 20px;
     text-decoration: none;
     color: #333;
+    width: 100%; /* 추가: 리스트 너비를 부모에 맞게 꽉 채움 */
+    box-sizing: border-box; /* 추가: 패딩이 너비에 포함되도록 설정 */
   }
 
   .notice-item-full a:hover {
@@ -115,6 +125,11 @@ const sortedNotices = allNotices.sort(
 
   .title {
     font-weight: 500;
+    flex: 1; /* 추가: 제목이 남은 공간을 다 차지하도록 함 */
+    white-space: nowrap; /* 추가: 제목이 길어도 줄바꿈 방지 */
+    overflow: hidden; /* 추가: 넘치는 텍스트 숨김 */
+    text-overflow: ellipsis; /* 추가: 넘치는 텍스트 ... 처리 */
+    margin-right: 10px; /* 추가: 날짜와의 간격 확보 */
   }
 
   @media (max-width: 768px) {
@@ -147,9 +162,15 @@ const sortedNotices = allNotices.sort(
   @media (max-width: 1024px) {
     .main-layout-container {
       flex-direction: column;
+      padding: 0 10px; /* 추가: 모바일 양옆 여백 조정 */
     }
     .sidebar-area {
       width: 100%;
+      margin-bottom: 20px; /* 추가: 사이드바와 본문 사이 간격 */
+    }
+    .content-area {
+      width: 100%;       /* 추가: 본문 영역 가로폭 100% 강제 */
+      flex: none;        /* 추가: flex 비율 계산 무시 */
     }
   }
 </style>
