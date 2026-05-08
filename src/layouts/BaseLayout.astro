@@ -389,7 +389,14 @@ document.addEventListener('DOMContentLoaded', () => {
 /* 🔥 본문 넓이 조절 */
 .main-content {
   flex: 1;
-  min-width: 0; /* flex box 버그 방지 */
+  min-width: 0; 
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    width: 100% !important;
+    padding: 0 !important;
+  }
 }
 
 /* 🔥 사이드바 넓이 고정 */
