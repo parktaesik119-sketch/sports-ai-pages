@@ -571,11 +571,17 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
 
   // 🔥 날짜 검색 함수 (전체 페이지 대상)
   dateInput?.addEventListener("change", (e) => {
-    const selectedDate = e.target.value; // 예: "2026-05-08"
+    const target = e.target;
+    const selectedDate = target.value; 
+
+    // 값이 없거나, 사용자가 선택을 취소한 경우 작동 방지
     if (!selectedDate) return;
-    
-    // 🔥 현재 카테고리(종목) 정보도 함께 넘깁니다.
-    const currentCategory = window.location.pathname.split('/')[2]; 
+
+    // 🔥 현재 카테고리(종목) 정보 추출
+    const pathParts = window.location.pathname.split('/');
+    const currentCategory = pathParts[2] || 'soccer'; 
+
+    // 페이지 이동 실행
     window.location.href = `/search?date=${selectedDate}&category=${currentCategory}`;
   });
 
