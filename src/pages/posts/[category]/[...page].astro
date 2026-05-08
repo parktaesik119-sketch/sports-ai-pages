@@ -576,8 +576,9 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
   const btn = document.getElementById("categorySearchBtn");
   const dateInput = document.getElementById("dateFilterInput");
   const dateSearchBtn = document.getElementById("dateSearchBtn");
+  const dateResetBtn = document.getElementById("dateResetBtn");
 
-  // 조회 버튼 클릭 시에만 검색 실행
+  // ✅ 날짜 조회 버튼 클릭 이벤트 (기존의 change 이벤트는 삭제됨)
   dateSearchBtn?.addEventListener("click", () => {
     const selectedDate = dateInput.value;
     
@@ -586,39 +587,20 @@ const categoryColor = CATEGORY_COLOR[category] || '#4dabf7';
       return;
     }
     
-    // 현재 카테고리(종목) 정보 추출
     const pathParts = window.location.pathname.split('/');
     const currentCategory = pathParts[2] || 'soccer'; 
 
     window.location.href = `/search?date=${selectedDate}&category=${currentCategory}`;
   });
-  const dateResetBtn = document.getElementById("dateResetBtn");
 
   // 팀명 검색 함수
   function goSearch() {
     const value = input.value.trim();
     if (!value) return;
     
-    // 🔥 현재 카테고리(종목) 정보를 가져와서 함께 보냅니다.
     const currentCategory = window.location.pathname.split('/')[2]; 
     window.location.href = `/search?team=${encodeURIComponent(value)}&category=${currentCategory}`;
   }
-
-  // 🔥 날짜 검색 함수 (전체 페이지 대상)
-  dateInput?.addEventListener("change", (e) => {
-    const target = e.target;
-    const selectedDate = target.value; 
-
-    // 값이 없거나, 사용자가 선택을 취소한 경우 작동 방지
-    if (!selectedDate) return;
-
-    // 🔥 현재 카테고리(종목) 정보 추출
-    const pathParts = window.location.pathname.split('/');
-    const currentCategory = pathParts[2] || 'soccer'; 
-
-    // 페이지 이동 실행
-    window.location.href = `/search?date=${selectedDate}&category=${currentCategory}`;
-  });
 
   // 초기화 버튼
   dateResetBtn?.addEventListener("click", () => {
