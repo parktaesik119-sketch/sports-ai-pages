@@ -41,12 +41,12 @@ let isGeminiExhausted = false;    // Gemini 소진 여부
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const MODEL_PRIORITY = [  // 모델 버전 및 수명 주기 확인 요망
-  "gemini-2.5-flash",           // 권한 확인됨. 현재 가장 강력한 분석력
-  "gemini-2.5-flash-lite",      // 권한 확인됨. 수명 주기가 가장 긴 모델  
-  "gemini-2.5-pro",             // 권한 확인됨. 속도는 느리지만 정교한 분석용
-  "gemini-3-flash-preview",     // 권한 확인됨. 차세대 엔진 테스트용
-  "gemini-3.1-flash-lite-preview", // 권한 확인됨. 최신 3.1 라이트 버전
-  "gemini-3.1-pro-preview"      // 권한 확인됨. 가장 최신 프로 프리뷰
+  "gemini-2.5-flash",          // 2026년 10월까지 유효
+  "gemini-2.5-flash-lite",     // 2026년 10월까지 유효
+  "gemini-2.5-pro",            // 2026년 10월까지 유효
+  "gemini-3-flash-preview",    // 최신 권장 모델
+  "gemini-3.1-flash-lite",     // 최신 권장 모델 (표의 권장 교체 참고)
+  "gemini-3.1-pro-preview"     // 최신 권장 모델
  
 ];
 
