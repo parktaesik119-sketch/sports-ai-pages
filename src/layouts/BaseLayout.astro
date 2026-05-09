@@ -26,6 +26,15 @@ const { currentCategory } = Astro.props;
 
     <title>{Astro.props.title}</title>
 
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "픽천국",
+      "url": "https://pick79.com/"
+    }
+    </script>
+
     <meta name="description" content={Astro.props.description ?? "픽천국 - 365일 매일 만나는 데이터기반 정밀한 스포츠분석 및 추천픽 제공"} />
     <meta name="keywords" content="무료스포츠분석, 무료스포츠픽, 오늘, 축구경기분석, 야구경기분석, 농구경기분석, 롤분석, 픽천국" />
 
