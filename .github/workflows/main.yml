@@ -21,9 +21,14 @@ jobs:
         run: npm install
 
       - name: 데이터 수집 및 AI 분석 실행
-        run: node scripts/auto-run.js
+        run: node scripts/main-auto.js
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # 깃허브에 등록한 키 사용
+          GEMINI_KEYS: ${{ secrets.GEMINI_KEYS }}
+          MISTRAL_KEYS: ${{ secrets.MISTRAL_KEYS }}
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+          PANDASCORE_KEY: ${{ secrets.PANDASCORE_KEY }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          RAPID_KEY: ${{ secrets.RAPID_KEY }}
 
       - name: 생성된 글을 깃허브에 푸쉬
         run: |
