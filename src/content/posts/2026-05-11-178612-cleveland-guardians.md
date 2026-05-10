@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "클리블랜드 가디언스"
 awayTeam: "미네소타 트윈스"
-homeLogo: "https://media.api-sports.io/baseball/teams/9.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/22.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/9.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/22.png"
 ---
 
 ### 🏟️ 경기 정보 요약

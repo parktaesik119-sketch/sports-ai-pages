@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "밀워키 브루어스"
 awayTeam: "뉴욕 양키스"
-homeLogo: "https://media.api-sports.io/baseball/teams/20.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/25.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/20.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/25.png"
 ---
 
 ### 🏟️ 경기 정보 요약

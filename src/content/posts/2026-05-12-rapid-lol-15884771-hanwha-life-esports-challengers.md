@@ -8,8 +8,8 @@ country: "대한민국"
 league: "LCK CL"
 homeTeam: "한화생명 e스포츠 챌린저스"
 awayTeam: "KT 롤스터 챌린저스"
-homeLogo: "/logos/hanwha-life-esports-challengers.png",
-  awayLogo: "/logos/kt-rolster-challengers.png",
+homeLogo: "/logos/hanwha-life-esports-challengers.png"
+awayLogo: "/logos/kt-rolster-challengers.png",
 ---
 
 ### 🏟️ 경기 정보 요약

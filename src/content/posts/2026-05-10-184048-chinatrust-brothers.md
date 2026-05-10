@@ -8,8 +8,8 @@ country: "대만"
 league: "CPBL"
 homeTeam: "중신 브라더스"
 awayTeam: "TSG 호크스"
-homeLogo: "https://media.api-sports.io/baseball/teams/348.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/915.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/348.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/915.png"
 ---
 
 ### 🏟️ 경기 정보 요약

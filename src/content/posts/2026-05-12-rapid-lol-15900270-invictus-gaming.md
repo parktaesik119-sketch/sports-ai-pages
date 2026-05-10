@@ -8,8 +8,8 @@ country: "중국"
 league: "LPL"
 homeTeam: "인빅터스 게이밍"
 awayTeam: "빌리빌리 게이밍"
-homeLogo: "/logos/invictus-gaming.png",
-  awayLogo: "/logos/bilibili-gaming.png",
+homeLogo: "/logos/invictus-gaming.png"
+awayLogo: "/logos/bilibili-gaming.png"
 ---
 
 ### 🏟️ 경기 정보 요약

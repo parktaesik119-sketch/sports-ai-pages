@@ -8,8 +8,8 @@ country: "대한민국"
 league: "LCK CL"
 homeTeam: "한진 브리온 챌린저스"
 awayTeam: "디플러스 기아 챌린저스"
-homeLogo: "/logos/hanjin-brion-challengers.png",
-  awayLogo: "/logos/dplus-kia-challengers.png",
+homeLogo: "/logos/hanjin-brion-challengers.png"
+awayLogo: "/logos/dplus-kia-challengers.png"
 ---
 
 ### 🏟️ 경기 정보 요약

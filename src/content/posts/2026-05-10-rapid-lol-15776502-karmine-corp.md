@@ -8,8 +8,8 @@ country: "유럽"
 league: "LEC"
 homeTeam: "카민 코프"
 awayTeam: "자이언츠"
-homeLogo: "/logos/karmine-corp.png",
-  awayLogo: "/logos/giantx.png",
+homeLogo: "/logos/karmine-corp.png"
+awayLogo: "/logos/giantx.png"
 ---
 
 ### 🏟️ 경기 정보 요약

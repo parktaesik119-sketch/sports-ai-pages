@@ -8,8 +8,8 @@ country: "중국"
 league: "LPL"
 homeTeam: "탑 e스포츠"
 awayTeam: "닌자스 인 파자마스"
-homeLogo: "/logos/top-esports.png",
-  awayLogo: "/logos/ninjas-in-pyjamas.png",
+homeLogo: "/logos/top-esports.png"
+awayLogo: "/logos/ninjas-in-pyjamas.png"
 ---
 
 ### 🏟️ 경기 정보 요약

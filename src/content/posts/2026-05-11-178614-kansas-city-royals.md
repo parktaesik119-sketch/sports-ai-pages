@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "캔자스시티 로열스"
 awayTeam: "디트로이트 타이거스"
-homeLogo: "https://media.api-sports.io/baseball/teams/16.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/12.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/16.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/12.png"
 ---
 
 ### 🏟️ 경기 정보 요약

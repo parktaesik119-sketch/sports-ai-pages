@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "필라델피아 필리스"
 awayTeam: "콜로라도 로키스"
-homeLogo: "https://media.api-sports.io/baseball/teams/27.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/10.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/27.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/10.png"
 ---
 
 ### 🏟️ 경기 정보 요약

@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "볼티모어 오리올스"
 awayTeam: "애슬레틱스"
-homeLogo: "https://media.api-sports.io/baseball/teams/4.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/963.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/4.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/963.png"
 ---
 
 ### 🏟️ 경기 정보 요약

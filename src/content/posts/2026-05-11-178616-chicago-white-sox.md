@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "시카고 화이트삭스"
 awayTeam: "시애틀 매리너스"
-homeLogo: "https://media.api-sports.io/baseball/teams/7.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/32.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/7.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/32.png"
 ---
 
 ### 🏟️ 경기 정보 요약

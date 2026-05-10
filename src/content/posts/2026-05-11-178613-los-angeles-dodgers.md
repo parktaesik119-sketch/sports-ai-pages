@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "로스앤젤레스 다저스"
 awayTeam: "애틀랜타 브레이브스"
-homeLogo: "https://media.api-sports.io/baseball/teams/18.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/3.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/18.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/3.png"
 ---
 
 ### 🏟️ 경기 정보 요약

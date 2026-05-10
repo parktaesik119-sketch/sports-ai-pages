@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "샌프란시스코 자이언츠"
 awayTeam: "피츠버그 파이리츠"
-homeLogo: "https://media.api-sports.io/baseball/teams/31.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/28.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/31.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/28.png"
 ---
 
 ### 🏟️ 경기 정보 요약

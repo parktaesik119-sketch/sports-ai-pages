@@ -8,8 +8,8 @@ country: "대한민국"
 league: "LCK CL"
 homeTeam: "키움 DRX 챌린저스"
 awayTeam: "농심 이스포츠 아카데미"
-homeLogo: "/logos/kiwoom-drx-challengers.png",
-  awayLogo: "/logos/nongshim-esports-academy.png",
+homeLogo: "/logos/kiwoom-drx-challengers.png"
+awayLogo: "/logos/nongshim-esports-academy.png"
 ---
 
 ### 🏟️ 경기 정보 요약

@@ -8,8 +8,8 @@ country: "유럽"
 league: "LEC"
 homeTeam: "모비스타 코이"
 awayTeam: "G2 e스포츠"
-homeLogo: "/logos/movistar-koi.png",
-  awayLogo: "/logos/g2-esports.png",
+homeLogo: "/logos/movistar-koi.png"
+awayLogo: "/logos/g2-esports.png"
 ---
 
 ### 🏟️ 경기 정보 요약

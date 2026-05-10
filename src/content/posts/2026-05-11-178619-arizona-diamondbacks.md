@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "애리조나 다이아몬드백스"
 awayTeam: "뉴욕 메츠"
-homeLogo: "https://media.api-sports.io/baseball/teams/2.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/24.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/2.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/24.png"
 ---
 
 ### 🏟️ 경기 정보 요약

@@ -8,8 +8,8 @@ country: "미국"
 league: "MLB"
 homeTeam: "토론토 블루제이스"
 awayTeam: "로스앤젤레스 에인절스"
-homeLogo: "https://media.api-sports.io/baseball/teams/36.png",
-  awayLogo: "https://media.api-sports.io/baseball/teams/17.png",
+homeLogo: "https://media.api-sports.io/baseball/teams/36.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/17.png"
 ---
 
 ### 🏟️ 경기 정보 요약

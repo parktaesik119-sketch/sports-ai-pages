@@ -8,8 +8,8 @@ country: "대한민국"
 league: "LCK CL"
 homeTeam: "BNK FearX Youth"
 awayTeam: "DN SOOPers Challengers"
-homeLogo: "/logos/bnk-fearx-youth.png",
-  awayLogo: "/logos/dn-soopers-challengers.png",
+homeLogo: "/logos/bnk-fearx-youth.png"
+awayLogo: "/logos/dn-soopers-challengers.png"
 ---
 
 ### 🏟️ 경기 정보 요약
