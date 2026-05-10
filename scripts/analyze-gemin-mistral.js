@@ -904,7 +904,7 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
 const content = `---
 title: "${finalTitle}"
-date: ${m.date}
+date: ${match.date}
 description: "${extractedDesc.replace(/"/g, "'")}"
 slug: "analyze-${match.id}-${dateOnly}-${safeHomeNameForSlug}"
 category: "${cat}"
@@ -912,8 +912,8 @@ country: "${country}"
 league: "${leagueName}"
 homeTeam: "${aiHomeName}"
 awayTeam: "${aiAwayName}"
-homeLogo: "${m.homeLogo}"
-awayLogo: "${m.awayLogo}"
+homeLogo: "${match.homeLogo}",
+  awayLogo: "${match.awayLogo}",
 ---
 
 ${cleanedText}${footer}`;
