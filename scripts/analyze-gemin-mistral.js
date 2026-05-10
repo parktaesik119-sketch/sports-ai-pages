@@ -31,6 +31,7 @@ const TEAM_NAME_MAP = {
   "Al-Ettifaq": "알 에티파크",
   "Genk": "헹크",
   "Auxerre": "옥세르",
+  "Yongin City": "용인 FC",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
