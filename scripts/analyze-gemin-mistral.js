@@ -812,6 +812,8 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "LEC": "유럽",
     "K LEAGUE 1": "대한민국",
     "CONMEBOL LIBERTADORES": "남미",
+    "FRIENDLY INTERNATIONAL": "국제",
+    "INTERNATIONAL FRIENDLY": "국제",
     "CONCACAF CHAMPIONS LEAGUE": "북중미"
   };
 
