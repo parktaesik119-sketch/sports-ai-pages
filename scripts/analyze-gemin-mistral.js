@@ -794,6 +794,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /Premier Division/gi, replace: "D1" },
     { target: /Division 1/gi, replace: "D1" },
     { target: /2. Bundesliga/gi, replace: "D2" },
+    { target: /Beijer Hockey Games/gi, replace: "유로 하키 투어" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
