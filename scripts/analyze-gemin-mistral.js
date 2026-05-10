@@ -138,19 +138,7 @@ async function analyzeMatches() {
   }
 
   const cleanUpperLg = upperLg.replace(/\s+/g, ''); // 데이터의 공백 제거
-  // 프리패스 리그 작성 구간 (프리패스 리그는 전부 무조건 대문자로 적어야 함)  
-  // 1. 축구 주요 리그 
-  const top5 = ['PREMIER LEAGUE', 'CHAMPIONSHIP', 'LALIGA', 'LALIGA 2', 'BUNDESLIGA', '2. BUNDESLIGA', 'PRIMEIRA LIGA', 'SERIE A', 'SERIE B', 'LIGUE 1', 'LIGUE 2', 'EREDIVISIE'].some(el => el === upperLg);
-  const korea = ['KLEAGUE1', 'KLEAGUE2'].some(el => {
-  const cleanLg = upperLg.replace(/\s+/g, ''); // 데이터의 모든 공백 제거
-  return el === cleanLg;
-});
-  const mls = ['MAJOR LEAGUE SOCCER', 'MLS'].some(el => el === upperLg); // NEXT PRO는 이름이 다르므로 자동 차단됨
-  // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
-  const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE', 'CONMEBOL LIBERTADORES', 'Copa Libertadores'].some(el => upperLg.includes(el));
-    // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
-  const isFirstDivision = ['DIVISION 1', '1. DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'Allsvenskan', 'HNL'].some(el => el === upperLg);
-   
+     
   // [추가] 국가별 특정 리그 차단 사전 (리그명 대문자로 적어야 함)
   const countryLeagueBlacklist = {
     "Denmark": ["1. DIVISION"],
@@ -165,6 +153,19 @@ async function analyzeMatches() {
     console.log(`🚫 [특수 차단] ${country} 하위 리그 스킵: ${m.league}`);
     return false;
   }
+
+  // 프리패스 리그 작성 구간 (프리패스 리그는 전부 무조건 대문자로 적어야 함)  
+  // 1. 축구 주요 리그 
+  const top5 = ['PREMIER LEAGUE', 'CHAMPIONSHIP', 'LALIGA', 'LALIGA 2', 'BUNDESLIGA', '2. BUNDESLIGA', 'PRIMEIRA LIGA', 'SERIE A', 'SERIE B', 'LIGUE 1', 'LIGUE 2', 'EREDIVISIE'].some(el => el === upperLg);
+  const korea = ['KLEAGUE1', 'KLEAGUE2'].some(el => {
+  const cleanLg = upperLg.replace(/\s+/g, ''); // 데이터의 모든 공백 제거
+  return el === cleanLg;
+});
+  const mls = ['MAJOR LEAGUE SOCCER', 'MLS'].some(el => el === upperLg); // NEXT PRO는 이름이 다르므로 자동 차단됨
+  // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
+  const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE', 'CONMEBOL LIBERTADORES', 'Copa Libertadores'].some(el => upperLg.includes(el));
+    // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
+  const isFirstDivision = ['DIVISION 1', '1. DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'Allsvenskan', 'HNL'].some(el => el === upperLg);
 
   // 축구 통합 필터
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
