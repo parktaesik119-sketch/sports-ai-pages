@@ -913,7 +913,7 @@ league: "${leagueName}"
 homeTeam: "${aiHomeName}"
 awayTeam: "${aiAwayName}"
 homeLogo: "${match.homeLogo}"
-  awayLogo: "${match.awayLogo}"
+awayLogo: "${match.awayLogo}"
 ---
 
 ${cleanedText}${footer}`;
