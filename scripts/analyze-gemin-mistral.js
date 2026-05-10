@@ -22,6 +22,16 @@ if (GEMINI_API_KEYS.length === 0) {
   process.exit(1);
 }
 
+// [추가] 특정 팀명을 원하는 이름으로 고정하는 매핑 테이블
+const TEAM_NAME_MAP = {
+  "KFUM oslo": "KFUM 오슬로",
+  "Manchester City": "맨시티",
+  "Tottenham": "토트넘",
+  "Bodo/Glimt": "보되/글림트",
+  "Al-Ettifaq": "알 에티파크",
+  // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
+};
+
 // [추가] 팀명을 파일명 규칙(하이픈, 마침표 제거)으로 변환하는 함수
 function getSafeLogoName(teamName) {
   if (!teamName) return "default-logo";
@@ -140,9 +150,24 @@ async function analyzeMatches() {
   const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE', 'CONMEBOL LIBERTADORES', 'Copa Libertadores'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
   const isFirstDivision = ['DIVISION 1', '1. DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'Allsvenskan', 'HNL'].some(el => el === upperLg);
+   
+  // [추가] 국가별 특정 리그 차단 사전 (리그명 대문자로 적어야 함)
+  const countryLeagueBlacklist = {
+    "Denmark": ["1. DIVISION"],
+    "Norway": ["1. DIVISION", "2. DIVISION"],
+    "Iceland": ["1. DEILD"],
+    "Cyprus": ["2. DIVISION"],
+    "Scotland": ["CHAMPIONSHIP", "LEAGUE ONE"],
+    "Brazil": ["SERIE B"],
+  };
+
+  if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => upperLg.includes(bl.toUpperCase()))) {
+    console.log(`🚫 [특수 차단] ${country} 하위 리그 스킵: ${m.league}`);
+    return false;
+  }
+
   // 축구 통합 필터
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
-
   // 2. 농구 
   const basketball = ((upperLg === 'NBA') && !upperLg.includes('WNBA') && !upperLg.includes('NBA W')) || 
                      ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B League'].some(el => el === upperLg);
@@ -277,24 +302,6 @@ async function analyzeMatches() {
   // [차단] 블랙리스트 리그 발견 시 즉시 스킵
   if (lg.includes('TKBL') || lg.includes('TURKEY') || lg.includes('GELISIM')) {
     console.log(`🚫 [차단] 블랙리스트 리그 발견: ${match.league}`);
-    continue;
-  }
-
-  // [추가] 국가별 특정 리그 차단 사전 (리그명 대문자로 적어야 함)
-  const countryLeagueBlacklist = {
-    "Denmark": ["1. DIVISION"],
-    "Norway": ["2. DIVISION"],    
-    "Norway": ["1. Division"],
-    "Iceland": ["1. DEILD"],
-    "Cyprus": ["2. DIVISION"],
-    "Scotland": ["CHAMPIONSHIP"],
-    "Scotland": ["LEAGUE ONE"],
-    "Brazil": ["SERIE B"],
-  };
-
-  const currentCountry = match.country; // 예: "Denmark"
-  if (countryLeagueBlacklist[currentCountry] && countryLeagueBlacklist[currentCountry].includes(lg)) {
-    console.log(`🚫 [특수 차단] ${currentCountry} 하위 리그 스킵: ${match.league}`);
     continue;
   }
 
