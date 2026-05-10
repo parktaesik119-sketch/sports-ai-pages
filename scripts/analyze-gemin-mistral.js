@@ -87,7 +87,7 @@ async function analyzeMatches() {
 
   // ⬇️ 제외하고 싶은 국가명을 정확히 입력하세요 //대소문자 구분없음
     const blockedCountries = [
-  "Bahrain", "Kyrgyzstan", "Uzbekistan", "Uganda", "Eswatini", "Zambia", "Algeria", "India", "South-Africa", "Malaysia", "Malta", "Kenya", "Barbados", "Peru", "Bolivia", "Honduras", "Cambodia", "Ivory-Coast", "Cyprus", "Burkina-Faso", "Azerbaijan", "Belarus", "Kazakhstan", "Ukraine", "Zimbabwe", "Rwanda", "Congo", "Mongolia", "Armenia", "Indonesia", "Syria", "Ethiopia", "Chile", "Ecuador", "Lithuania", "Mauritania", "Latvia", "Estonia", "Balkans", "Puerto Rico", "Dominican Republic", "Aruba", "Philippines", 'PERU', 'ECUADOR', 'AZERBAIJAN', 'ARMENIA', 'BELARUS', 'KAZAKHSTAN', 'UKRAINE', 'ICELAND', 'LITHUANIA', 'LATVIA', 'ESTONIA', 'MALTA', 'CYPRUS', 'SYRIA', 'BARBADOS', 'Bangladesh', 'Egypt', 'Tunisia', 'Malawi',
+  "Bahrain", "Kyrgyzstan", "Uzbekistan", "Uganda", "Eswatini", "Zambia", "Algeria", "India", "South-Africa", "Malaysia", "Malta", "Kenya", "Barbados", "Peru", "Bolivia", "Honduras", "Cambodia", "Ivory-Coast", "Cyprus", "Burkina-Faso", "Azerbaijan", "Belarus", "Kazakhstan", "Ukraine", "Zimbabwe", "Rwanda", "Congo", "Mongolia", "Armenia", "Indonesia", "Syria", "Ethiopia", "Chile", "Ecuador", "Lithuania", "Mauritania", "Latvia", "Estonia", "Balkans", "Puerto Rico", "Dominican Republic", "Aruba", "Philippines", 'PERU', 'ECUADOR', 'AZERBAIJAN', 'ARMENIA', 'BELARUS', 'KAZAKHSTAN', 'UKRAINE', 'ICELAND', 'LITHUANIA', 'LATVIA', 'ESTONIA', 'MALTA', 'CYPRUS', 'SYRIA', 'BARBADOS', 'Bangladesh', 'Egypt', 'Tunisia', 'Malawi', 'Ghana',
   "Slovakia", "Faroe-Islands", 'Aruba', 'Panama', 'Bhutan', 'Ethiopia', 'Congo-DR', 'Israel', "El Salvador", 'El-Salvador', 'Jamaica', 'Rwanda', 'Mauritania', 'Zimbabwe',,'Ethiopia', 'Kenya', 'Algeria','INDIA', 'UZBEKISTAN', 'KYRGYZSTAN', 'Bangladesh', 'Lesotho',
 ].filter(c => c !== "South-Korea");
 
@@ -283,7 +283,8 @@ async function analyzeMatches() {
   // [추가] 국가별 특정 리그 차단 사전 (리그명 대문자로 적어야 함)
   const countryLeagueBlacklist = {
     "Denmark": ["1. DIVISION"],
-    "Norway": ["2. DIVISION"],
+    "Norway": ["2. DIVISION"],    
+    "Norway": ["1. Division"],
     "Iceland": ["1. DEILD"],
     "Cyprus": ["2. DIVISION"],
     "Scotland": ["CHAMPIONSHIP"],
@@ -406,6 +407,7 @@ if (isFreePassLeague) {
         5. 'DN', 'BNK','TS', 'FC', 'AC', 'SK', 'U20' 같은 영문 약자는 번역하지 말고 영문 그대로 유지해라.(예: TS Galaxy -> TS 갤럭시, FC Barcelona -> FC 바르셀로나)
         6. 팀명 'Bodo/Glimt'는 반드시 '보되/글림트'로 번역해서 작성해.
         7. 팀명 'Al-Ettifaq'는 반드시 '알 에티파크'로 번역해서 작성해.
+        8. 팀명 'KFUM Oslo'는 반드시 'KFUM 오슬로'로 번역해서 작성해.
 
         [출력 강제 규칙]
         - 반드시 아래 형식의 데이터를 최상단에 추가 출력하라.
