@@ -814,7 +814,8 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "CONMEBOL LIBERTADORES": "남미",
     "FRIENDLY INTERNATIONAL": "국제",
     "INTERNATIONAL FRIENDLY": "국제",
-    "CONCACAF CHAMPIONS LEAGUE": "북중미"
+    "CONCACAF CHAMPIONS LEAGUE": "북중미",
+    "ESPORTS WORLD CUP": "국제",
   };
 
   const countryMap = {
