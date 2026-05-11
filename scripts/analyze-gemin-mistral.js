@@ -659,10 +659,7 @@ const aiResponse =
 }
 }
 
-  if (success) {
-    console.log("🧪 [테스트] 첫 번째 경기 분석 완료. 즉시 종료합니다.");
-    process.exit(0); 
-  }
+  if (success) await new Promise(res => setTimeout(res, 61000));
 }
     }
   } catch (error) {
