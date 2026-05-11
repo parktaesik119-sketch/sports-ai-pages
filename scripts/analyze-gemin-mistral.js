@@ -667,6 +667,7 @@ const aiResponse =
   }
 }
 
+
 async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hContent) {
 
   // [검증 1] 데이터 타입 확인
