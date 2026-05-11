@@ -7,6 +7,9 @@ on:
     - cron: '0 21 9 * *'
   workflow_dispatch: # 수동으로 즉시 실행해볼 수 있는 버튼 생성
 
+permissions:
+  contents: write  
+
 jobs:
   build:
     runs-on: ubuntu-latest
