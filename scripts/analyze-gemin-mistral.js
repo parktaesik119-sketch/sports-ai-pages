@@ -65,7 +65,8 @@ const MODEL_PRIORITY = [  // 모델 버전 및 수명 주기 확인 요망
 
 async function analyzeMatches() {
   try {
-    const today = new Date().toISOString().split('T')[0]; 
+    // 한국 시간 기준으로 날짜 문자열(YYYY-MM-DD) 생성
+    const today = new Date(Date.now() + (9 * 60 * 60 * 1000)).toISOString().split('T')[0];
     const dbPath = path.resolve(__dirname, '../database/all-fixtures.json');
     const dataPath = path.resolve(__dirname, `../database/${today}.json`); 
 
