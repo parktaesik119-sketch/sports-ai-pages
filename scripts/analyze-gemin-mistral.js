@@ -35,6 +35,9 @@ const TEAM_NAME_MAP = {
   "Uni Lions": "유니 라이온즈",
   "Chinatrust Brothers": "중신 브라더스",
   "St.Louis Cardinals": "세인트루이스 카디널스",
+  "Detroit Tigers": "디트로이트 타이거즈",
+  "Toronto Blue Jays": "토론토 블루제이즈",
+  "Baltimore Orioles": "볼티모어 오리올스",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
