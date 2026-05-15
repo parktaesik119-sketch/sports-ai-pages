@@ -38,6 +38,8 @@ const TEAM_NAME_MAP = {
   "Detroit Tigers": "디트로이트 타이거즈",
   "Toronto Blue Jays": "토론토 블루제이즈",
   "Baltimore Orioles": "볼티모어 오리올스",
+  "New York Mets": "뉴욕 메츠",
+  "New York Yankees": "뉴욕 양키즈",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
