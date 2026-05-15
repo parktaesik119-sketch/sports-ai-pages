@@ -816,6 +816,8 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "CONMEBOL LIBERTADORES": "남미",
     "FRIENDLY INTERNATIONAL": "국제",
     "INTERNATIONAL FRIENDLY": "국제",
+    "CPBL": "대만",
+    "KBO": "대한민국",
     "CONCACAF CHAMPIONS LEAGUE": "북중미",
   };
 
