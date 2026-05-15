@@ -101,7 +101,7 @@ async function analyzeMatches() {
 
   // ⬇️ 제외하고 싶은 국가명을 정확히 입력하세요 //대소문자 구분없음
     const blockedCountries = [
-  "Bahrain", "Kyrgyzstan", "Uzbekistan", "Uganda", "Eswatini", "Zambia", "Algeria", "India", "South-Africa", "Malaysia", "Malta", "Kenya", "Barbados", "Peru", "Bolivia", "Honduras", "Cambodia", "Ivory-Coast", "Cyprus", "Burkina-Faso", "Azerbaijan", "Belarus", "Kazakhstan", "Ukraine", "Zimbabwe", "Rwanda", "Congo", "Mongolia", "Armenia", "Indonesia", "Syria", "Ethiopia", "Chile", "Ecuador", "Lithuania", "Mauritania", "Latvia", "Estonia", "Balkans", "Puerto Rico", "Dominican Republic", "Aruba", "Philippines", 'PERU', 'ECUADOR', 'AZERBAIJAN', 'ARMENIA', 'BELARUS', 'KAZAKHSTAN', 'UKRAINE', 'ICELAND', 'LITHUANIA', 'LATVIA', 'ESTONIA', 'MALTA', 'CYPRUS', 'SYRIA', 'BARBADOS', 'Bangladesh', 'Egypt', 'Tunisia', 'Malawi', 'Ghana', 'Lebanon',
+  "Bahrain", "Kyrgyzstan", "Uzbekistan", "Uganda", "Eswatini", "Zambia", "Algeria", "India", "South-Africa", "Malaysia", "Malta", "Kenya", "Barbados", "Peru", "Bolivia", "Honduras", "Cambodia", "Ivory-Coast", "Cyprus", "Burkina-Faso", "Azerbaijan", "Belarus", "Kazakhstan", "Ukraine", "Zimbabwe", "Rwanda", "Congo", "Mongolia", "Armenia", "Indonesia", "Syria", "Ethiopia", "Chile", "Ecuador", "Lithuania", "Mauritania", "Latvia", "Estonia", "Balkans", "Puerto Rico", "Dominican Republic", "Aruba", "Philippines", 'PERU', 'ECUADOR', 'AZERBAIJAN', 'ARMENIA', 'BELARUS', 'KAZAKHSTAN', 'UKRAINE', 'ICELAND', 'LITHUANIA', 'LATVIA', 'ESTONIA', 'MALTA', 'CYPRUS', 'SYRIA', 'BARBADOS', 'Bangladesh', 'Egypt', 'Tunisia', 'Malawi', 'Ghana', 'Lebanon', 'Botswana',
   "Slovakia", "Faroe-Islands", 'Aruba', 'Panama', 'Bhutan', 'Ethiopia', 'Congo-DR', 'Israel', "El Salvador", 'El-Salvador', 'Jamaica', 'Rwanda', 'Mauritania', 'Zimbabwe',,'Ethiopia', 'Kenya', 'Algeria','INDIA', 'UZBEKISTAN', 'KYRGYZSTAN', 'Bangladesh', 'Lesotho',
 ].filter(c => c !== "South-Korea");
 
@@ -905,7 +905,7 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   const catNames = { "soccer": "축구", "basketball": "농구", "baseball": "야구", "volleyball": "배구", "hockey": "하키", "lol": "롤" };
   const korCat = catNames[cat] || "스포츠";
 
-  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 무료로 제공되는 참고용 스포츠분석 글이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #스포츠픽 #스포츠분석\n</div>`;
+  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 무료로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #스포츠픽 #스포츠경기분석\n</div>`;
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
