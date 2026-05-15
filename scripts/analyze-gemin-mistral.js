@@ -32,6 +32,9 @@ const TEAM_NAME_MAP = {
   "Genk": "헹크",
   "Auxerre": "옥세르",
   "Yongin City": "용인 FC",
+  "Uni Lions": "유니 라이온즈",
+  "Chinatrust Brothers": "중신 브라더스",
+  "St.Louis Cardinals": "세인트루이스 카디널스",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
@@ -798,6 +801,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /Division 1/gi, replace: "D1" },
     { target: /2. Bundesliga/gi, replace: "D2" },
     { target: /Beijer Hockey Games/gi, replace: "유로 하키 투어" },
+    { target: /B League/gi, replace: "B리그" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
