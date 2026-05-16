@@ -1,13 +1,13 @@
 ---
-title: "26/05/17 영국 [PL] **맨체스터 유나이티드** vs **노팅엄 포레스트** 분석"
+title: "26/05/17 영국 [PL] 맨체스터 유나이티드 vs 노팅엄 포레스트 분석"
 date: 2026-05-17T11:30:00+00:00
-description: "**맨체스터 유나이티드** vs **노팅엄 포레스트** 경기 분석 리포트"
+description: "맨체스터 유나이티드 vs 노팅엄 포레스트 경기 분석 리포트"
 slug: "analyze-1379336-2026-05-17-manchester-united"
 category: "soccer"
 country: "영국"
 league: "PL"
-homeTeam: "**맨체스터 유나이티드**"
-awayTeam: "**노팅엄 포레스트**"
+homeTeam: "맨체스터 유나이티드"
+awayTeam: "노팅엄 포레스트"
 homeLogo: "https://media.api-sports.io/football/teams/33.png"
 awayLogo: "https://media.api-sports.io/football/teams/65.png"
 ---
@@ -15,10 +15,10 @@ awayLogo: "https://media.api-sports.io/football/teams/65.png"
 ### 🏟️ 경기 정보 요약
 | <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
 |:---|:---|
-| **<span style="color: #007bff;">홈팀</span>** | <img src="https://media.api-sports.io/football/teams/33.png" width="31" height="30" style="vertical-align: middle;"> ****맨체스터 유나이티드**** |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="https://media.api-sports.io/football/teams/65.png" width="31" height="30" style="vertical-align: middle;"> ****노팅엄 포레스트**** |
-| **<span style="color: #007bff;">리그</span>** | **영국: PL** |
-| **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 17. 20:30** |
+| **<span style="color: #007bff;">홈팀</span>** | <img src="https://media.api-sports.io/football/teams/33.png" width="31" height="30" style="vertical-align: middle;"> ****맨체스터 유나이티드 |
+| **<span style="color: #007bff;">원정팀</span>** | <img src="https://media.api-sports.io/football/teams/65.png" width="31" height="30" style="vertical-align: middle;"> ****노팅엄 포레스트 |
+| **<span style="color: #007bff;">리그</span>** | **영국: PL |
+| **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 17. 20:30 |
 
 ### <img src="https://media.api-sports.io/football/teams/33.png" width="31" height="30" style="vertical-align: middle;"> 맨체스터 유나이티드 분석
 맨유는 최근 2년 동안 리그에서 상위권 경쟁력을 유지하며 공격력과 수비력 모두 균형 있는 모습을 보여왔다. 특히 2025-26 시즌 초반에는 10경기 이상에서 2골 이상을 기록하는 화력을 과시하며 상대팀들의 수비를 압도했다. 그러나 최근 3경기에서는 수비진의 약점이 노출되며 실점률이 상승한 상태이다. 이 경기에서는 원정팀의 공격적인 전술에 대비해 수비진의 집중도가 핵심 요소가 될 것으로 예상된다.
@@ -54,12 +54,12 @@ awayLogo: "https://media.api-sports.io/football/teams/65.png"
 
 | | | |
 |---|---:|---:|
-| 승무패 | **맨체스터 유나이티드** | 승 |
-| 핸디캡 | **맨체스터 유나이티드** | -1.5 |
+| 승무패 | 맨체스터 유나이티드 | 승 |
+| 핸디캡 | 맨체스터 유나이티드 | -1.5 |
 | 오버언더 | 오버 | 2.5 |
 <div align="center">
 <p><b>© 픽천국(Pick Heaven)</b></p>
 <p>- 참고용으로 무료로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>
 <hr>
-#**맨체스터유나이티드** #**노팅엄포레스트** #오늘 #스포츠픽 #스포츠경기분석
+#맨체스터유나이티드 #노팅엄포레스트 #오늘 #스포츠픽 #스포츠경기분석
 </div>
