@@ -40,20 +40,15 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 1. 꼬인 파일들 강제 정리
-          git reset --hard HEAD
-          git clean -fd
-          
-          # 2. 최신 상태 불러오기
+          # 1. 원격 저장소의 최신 변경사항을 가져오되, 내가 만든 파일(Staging되지 않은 파일)은 유지하며 pull
+          git stash --include-untracked || true
           git pull --rebase origin main
+          git stash pop || true
           
-          # 3. 분석 다시 실행 (파일이 reset으로 날아갔을 경우를 대비)
-          node scripts/main-auto.js
-          
-          # 4. 생성된 모든 파일(글+데이터)을 강제로 추가
+          # 2. 생성된 모든 파일(글+데이터)을 스테이징
           git add .
           
-          # 5. 변경사항이 있을 때만 커밋 및 푸쉬
+          # 3. 변경사항이 있을 때만 커밋 및 푸쉬
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "🤖 자동 분석글 및 데이터 업데이트"
             git push origin main
