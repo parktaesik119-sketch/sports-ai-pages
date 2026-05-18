@@ -813,6 +813,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /Serie A/gi, replace: "세리에 A" },
     { target: /Bundesliga/gi, replace: "분데스리가" },
     { target: /Primeira Liga/gi, replace: "프리메라리가" },
+    { target: /Esports World Cup Playoffs/gi, replace: "Esports World Cup" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
@@ -834,6 +835,8 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "CPBL": "대만",
     "KBO": "대한민국",
     "CONCACAF CHAMPIONS LEAGUE": "북중미",
+    "ESPORTS WORLD CUP PLAYOFFS": "국제",
+    "ESPORTS WORLD CUP": "국제",
   };
 
   const countryMap = {
