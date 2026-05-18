@@ -106,7 +106,7 @@ async function analyzeMatches() {
   '1. DIVISION', 'FEDERACION', 'SUPER LEAGUE 2', '2. Deild', '3. Division', '3. Division - Girone 6', 'UEFA Europa Conference League', 'Ykkösliiga', 'Kakkonen - Lohko C', 'Kakkonen - Lohko A', 'Kakkonen - Lohko B', 'Kakkonen', 'Superettan', 'Ettan - Södra', 'Ettan - Norra', 'Ettan', 'Division 2 - Norra Götaland', 'Division 2 - Östra Götaland', 'Götaland', 'Division 2 - Västra Götaland', 'Damallsvenskan', 'Division 2 - Norrland', 'First Division',
   'U18 PREMIER LEAGUE', 'PREMIER LEAGUE INTERNATIONAL CUP', 'Elitettan', 'Damallsvenskan', 'Ettan', 'Svealand', 'Prime League', 'North American', 'NWSL', 'Central', 'MLS Next Pro',
     // 농구 및 기타 (Basketball & Others)
-  'WNBA', 'NBAW', 'NBA W', 'W NBA', 'ABA LEAGUE', 'USL CHAMPIONSHIP', 'BAHRAIN', 'Balkan', 'HLL', 'LES', 'Circuito', 'LRS', 'Legends',  'ACB', 'NBL', 'USHL', 'SHL', 'Liiga', 'DEL', 'SuperLega', 'PlusLiga', 'LFL', 'Prime League', 'Arabian League', 'TCL', 'Regular', 'LIT', 'BSN', 'LNB', 'LBP', 'PCL', 'SPHL', 'ECHL', 'Regular Season','Esports World Cup', 'LPLOL Regular Season', 'LPLOL REGULAR SEASON',
+  'ABA LEAGUE', 'USL CHAMPIONSHIP', 'BAHRAIN', 'Balkan', 'HLL', 'LES', 'Circuito', 'LRS', 'Legends',  'ACB', 'NBL', 'USHL', 'SHL', 'Liiga', 'DEL', 'SuperLega', 'PlusLiga', 'LFL', 'Prime League', 'Arabian League', 'TCL', 'Regular', 'LIT', 'BSN', 'LNB', 'LBP', 'PCL', 'SPHL', 'ECHL', 'Regular Season','Esports World Cup', 'LPLOL Regular Season', 'LPLOL REGULAR SEASON',
 ];
 
   // ⬇️ 제외하고 싶은 국가명을 정확히 입력하세요 //대소문자 구분없음
@@ -195,7 +195,7 @@ async function analyzeMatches() {
   const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'BEIJER HOCKEY GAMES' ].some(el => el === upperLg);
   // 6. 롤 
   const lol = (upperLg.includes('LCK') || upperLg.includes('LEC') || upperLg.includes('LPL')) ||
-               ['MSI', 'WORLD', 'WORLDS', 'INTERNATIONAL','ESPORTS WORLD CUP'].some(el => el === upperLg);
+               ['MSI', 'WORLD', 'WORLDS', 'INTERNATIONAL','ESPORTS WORLD CUP','ESPORTS WORLD CUP PLAYOFFS'].some(el => el === upperLg);
 
   // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam)'를 추가
   const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam;
@@ -810,6 +810,9 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /2. Bundesliga/gi, replace: "D2" },
     { target: /Beijer Hockey Games/gi, replace: "유로 하키 투어" },
     { target: /B League/gi, replace: "B리그" },
+    { target: /Serie A/gi, replace: "세리에 A" },
+    { target: /Bundesliga/gi, replace: "분데스리가" },
+    { target: /Primeira Liga/gi, replace: "프리메라리가" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
