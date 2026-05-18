@@ -44,10 +44,12 @@ const sortedPosts = categoryPosts.sort((a, b) => {
 
   const timeA = dateValueA ? new Date(dateValueA).getTime() : 0;
   const timeB = dateValueB ? new Date(dateValueB).getTime() : 0;
-  const currentKstTime = Date.now() + kstOffset;
+  
+  // 실제 현재 UTC 밀리초와 마크다운의 절대 밀리초를 바로 비교합니다.
+  const currentUtcTime = Date.now();
 
-  const isStartedA = timeA <= currentKstTime;
-  const isStartedB = timeB <= currentKstTime;
+  const isStartedA = timeA <= currentUtcTime;
+  const isStartedB = timeB <= currentUtcTime;
 
   if (isStartedA !== isStartedB) {
     return isStartedA ? 1 : -1;
@@ -63,15 +65,26 @@ const sortedPosts = categoryPosts.sort((a, b) => {
 
   if (matchDateValue) {
     const rawDate = new Date(matchDateValue);
-    const cardYear = rawDate.getFullYear();
-    const cardMonth = String(rawDate.getMonth() + 1).padStart(2, '0');
-    const cardDay = String(rawDate.getDate()).padStart(2, '0');
-    const cardHours = String(rawDate.getHours()).padStart(2, '0');
-    const cardMinutes = String(rawDate.getMinutes()).padStart(2, '0');
+    
+    // 💡 환경(서버/클라이언트) 타임존에 영향받지 않도록 UTC 기준 밀리초에 9시간을 더해 KST 날짜 객체를 강제 생성합니다.
+    const kstTargetOffset = 9 * 60 * 60 * 1000;
+    const kstDate = new Date(rawDate.getTime() + kstTargetOffset);
 
+    // KST 기준으로 년, 월, 일, 시, 분을 뽑아냅니다. (getUTC 메소드를 사용해야 오차가 안 생깁니다)
+    const cardYear = kstDate.getUTCFullYear();
+    const cardMonth = String(kstDate.getUTCMonth() + 1).padStart(2, '0');
+    const cardDay = String(kstDate.getUTCDate()).padStart(2, '0');
+    const cardHours = String(kstDate.getUTCHours()).padStart(2, '0');
+    const cardMinutes = String(kstDate.getUTCMinutes()).padStart(2, '0');
+
+    // 리스트 필터링용 날짜 문자열도 KST 기준으로 치환 (예: 2026-05-19)
     cardMatchDateStr = `${cardYear}-${cardMonth}-${cardDay}`;
+    
+    // 화면에 뿌려줄 텍스트 포맷 (예: 26년 05월 19일 04:00)
     displayTimeStr = `${String(cardYear).slice(-2)}년 ${cardMonth}월 ${cardDay}일 ${cardHours}:${cardMinutes}`;
-    isStarted = rawDate.getTime() <= (Date.now() + kstOffset);
+    
+    // 현재 시간과 경기 시간의 절대값 비교로 경기 시작 여부 판별
+    isStarted = rawDate.getTime() <= Date.now();
   }
 
   // 💡 [개미지옥 탈출 치트키] 스키마 필터링을 완벽하게 무력화하기 위해,
