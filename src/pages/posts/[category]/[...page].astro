@@ -129,15 +129,53 @@ const sortedPosts = categoryPosts.sort((a, b) => {
     }
   }
 
-  // 4. 로고 이미지 주소 추출 (예시: homeLogo: "주소")
-  let homeLogo = '/images/wing-home.png';
-  let awayLogo = '/images/wing-away.png';
-  const logoRegex = /media\.api-sports\.io\/football\/teams\/(\d+)\.png/g;
-  const logosFound = [...bodyText.matchAll(logoRegex)];
+  // 4. 로고 이미지 주소 처리
+// ✅ Frontmatter 우선
+// ✅ 없으면 bodyText 에서 직접 추출
+// ✅ 그래도 없으면 wing 기본 이미지
+
+let homeLogo = '/images/wing-home.png';
+let awayLogo = '/images/wing-away.png';
+
+// 1차 : frontmatter 우선 적용
+if (
+  rawData.homeLogo &&
+  typeof rawData.homeLogo === 'string' &&
+  rawData.homeLogo.trim()
+) {
+  homeLogo = rawData.homeLogo.trim();
+}
+
+if (
+  rawData.awayLogo &&
+  typeof rawData.awayLogo === 'string' &&
+  rawData.awayLogo.trim()
+) {
+  awayLogo = rawData.awayLogo.trim();
+}
+
+// 2차 : frontmatter 값이 없을 경우 bodyText 에서 직접 추출
+if (
+  homeLogo === '/images/wing-home.png' ||
+  awayLogo === '/images/wing-away.png'
+) {
+
+  // football / baseball / basketball / hockey 등 전 종목 대응
+  const logoRegex = /https:\/\/media\.api-sports\.io\/[a-z-]+\/teams\/\d+\.png/g;
+
+  const logosFound = bodyText.match(logoRegex);
+
   if (logosFound && logosFound.length >= 2) {
-    homeLogo = `https://media.api-sports.io/football/teams/${logosFound[0][1]}.png`;
-    awayLogo = `https://media.api-sports.io/football/teams/${logosFound[1][1]}.png`;
+
+    if (homeLogo === '/images/wing-home.png') {
+      homeLogo = logosFound[0];
+    }
+
+    if (awayLogo === '/images/wing-away.png') {
+      awayLogo = logosFound[1];
+    }
   }
+}
 
   const slugValue = rawData.slug || post.slug;
 
