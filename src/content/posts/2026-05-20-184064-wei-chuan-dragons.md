@@ -17,8 +17,8 @@ awayLogo: "https://media.api-sports.io/baseball/teams/915.png"
 |:---|:---|
 | **<span style="color: #007bff;">홈팀</span>** | <img src="https://media.api-sports.io/baseball/teams/569.png" width="31" height="30" style="vertical-align: middle;"> **웨이촨 드래곤스 |
 | **<span style="color: #007bff;">원정팀</span>** | <img src="https://media.api-sports.io/baseball/teams/915.png" width="31" height="30" style="vertical-align: middle;"> **TSG 호크스 |
-| **<span style="color: #007bff;">리그</span>** | **대만: CPBL** |
-| **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 20. 19:35** |
+| **<span style="color: #007bff;">리그</span>** | **대만: CPBL |
+| **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 20. 19:35 |
 
 ### <img src="https://media.api-sports.io/baseball/teams/569.png" width="31" height="30" style="vertical-align: middle;"> 웨이촨 드래곤스 분석
 웨이촨 드래곤스는 최근 2주간 타격 면에서 부진한 모습을 보이고 있다. 특히 원정 경기에서 타율과 출루율이 하락하며 수비에서도 실책이 잦아지는 추세다. 그러나 홈 경기에서는 타격 지원이 강해지는 경향이 있어 홈 이점을 활용할 수 있는 기회가 될 수 있다. 최근 3경기 중 2경기를 승리로 장식한 만큼 승부 강도가 높은 경기에서는 주전 선수들의 활약이 결정적 역할을 할 것으로 예상된다.<br>
