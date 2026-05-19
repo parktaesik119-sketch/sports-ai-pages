@@ -204,7 +204,7 @@ async function analyzeMatches() {
   // 4. 야구 
   const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'ABL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
   // 5. 하키 
-  const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'BEIJER HOCKEY GAMES' ].some(el => el === upperLg);
+  const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'BEIJER HOCKEY GAMES', 'WORLD CHAMPIONSHIP' ].some(el => el === upperLg);
   // 6. 롤 
   const lol = (upperLg.includes('LCK') || upperLg.includes('LEC') || upperLg.includes('LPL')) ||
                ['MSI', 'WORLD', 'WORLDS', 'INTERNATIONAL','ESPORTS WORLD CUP','ESPORTS WORLD CUP PLAYOFFS'].some(el => el === upperLg);
@@ -587,14 +587,14 @@ if (isFreePassLeague) {
 
         // 이제 errMsg가 문자열임이 보장되므로 includes를 안전하게 호출 가능
         if (errMsg.includes("503") || errMsg.includes("Service Unavailable") || errMsg.includes("high demand")) {
-        console.warn(`💡 서버 부하가 심합니다. 10초 대기 후 다음 단계를 시도합니다...`);
-        await new Promise(res => setTimeout(res, 10000)); 
+        console.warn(`💡 서버 부하가 심합니다. 60초 대기 후 다음 단계를 시도합니다...`);
+        await new Promise(res => setTimeout(res, 60000)); 
         continue; 
         }
 
         if (errMsg.includes("429") || errMsg.includes("Quota") || errMsg.includes("limit")) {
-        console.warn(`🚨 할당량 초과! 10초 대기 후 다음 API 키로 교체를 준비합니다.`);
-        await new Promise(res => setTimeout(res, 10000)); 
+        console.warn(`🚨 할당량 초과! 60초 대기 후 다음 API 키로 교체를 준비합니다.`);
+        await new Promise(res => setTimeout(res, 60000)); 
         break; // 현재 키를 포기하고 다음 키로 이동
         }
 
