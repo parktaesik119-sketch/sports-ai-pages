@@ -7,7 +7,7 @@ category: "baseball"
 country: "대만"
 league: "CPBL"
 homeTeam: "웨이촨 드래곤스"
-awayTeam: "TSG 호크스
+awayTeam: "TSG 호크스"
 homeLogo: "https://media.api-sports.io/baseball/teams/569.png"
 awayLogo: "https://media.api-sports.io/baseball/teams/915.png"
 ---
