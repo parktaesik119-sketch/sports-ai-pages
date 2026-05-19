@@ -283,10 +283,9 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
                     {post.league ? post.league : '리그'}
                     ]
                   </span>
-                  
-                  <span class="status-badge dynamic-status" data-match-time={post.data || post['date']}>
-                   경기예정                  
-                  </span>
+                  <span class={`status-badge ${post.isStarted ? 'started' : 'scheduled'}`}>
+                    {post.isStarted ? '지난경기' : '경기예정'}
+                    </span>
                 </div>
        
                 <div class="card-center">
