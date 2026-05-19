@@ -755,6 +755,62 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
     kstTime.getDate()
   );
 
+  // =====================================================
+// 🔥 카드 실시간 재정렬 함수
+// 경기예정 → 지난경기 순
+// 같은 상태에서는 경기시간 빠른 순
+// =====================================================
+
+function reorderCards() {
+
+  const container = document.getElementById("postListContainer");
+
+  if (!container) return;
+
+  const cards = [...container.querySelectorAll(".post-card-item")];
+
+  cards.sort((a, b) => {
+
+    const startedA = a.getAttribute("data-started") === "true";
+    const startedB = b.getAttribute("data-started") === "true";
+
+    // =====================================================
+    // 1️⃣ 경기예정 먼저
+    // =====================================================
+
+    if (startedA !== startedB) {
+      return startedA ? 1 : -1;
+    }
+
+    // =====================================================
+    // 2️⃣ 같은 상태 안에서는 시간 빠른 순
+    // =====================================================
+
+    const badgeA = a.querySelector(".dynamic-status");
+    const badgeB = b.querySelector(".dynamic-status");
+
+    const timeA = badgeA
+      ? new Date(badgeA.getAttribute("data-match-time")).getTime()
+      : 0;
+
+    const timeB = badgeB
+      ? new Date(badgeB.getAttribute("data-match-time")).getTime()
+      : 0;
+
+    return timeA - timeB;
+
+  });
+
+  // =====================================================
+  // 🔥 정렬된 카드 다시 DOM 배치
+  // =====================================================
+
+  cards.forEach(card => {
+    container.appendChild(card);
+  });
+
+}
+
   function filterListByDate() {
     // 타임존 연산 격차 없이 선택된 순수 날짜 문자열 그대로 매칭
     const year = activeDate.getFullYear();
@@ -830,8 +886,14 @@ cards.forEach(card => {
 });
     
     if (noDataMessage) {
-      noDataMessage.style.display = visibleCount === 0 ? "block" : "none";
-    }
+  noDataMessage.style.display = visibleCount === 0 ? "block" : "none";
+}
+
+// =====================================================
+// 🔥 상태 변경 후 카드 자동 재정렬
+// =====================================================
+
+reorderCards();
   }
 
   prevDateBtn?.addEventListener("click", () => {
