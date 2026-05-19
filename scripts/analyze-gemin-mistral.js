@@ -42,6 +42,18 @@ const TEAM_NAME_MAP = {
   "New York Yankees": "뉴욕 양키즈",
   "Hiroshima Carp": "히로시마 도요 카프",
   "Seattle Mariners": "시애틀 마리너스",
+  "Qingdao Jonoon": "칭다오 하이뉴",
+  "Shenyang Urban": "랴오닝 선양",
+  "Wuhan Three Towns": "우한 쓰리 타운즈",
+  "Los Angeles Angels": "LA 에인절스",
+  "Athletics": "애슬레틱스",
+  "Seibu Lion": "세이부 라이온즈",
+  "Orix Buffaloes": "오릭스 버팔로스",
+  "Wei Chuan Dragons": "웨이촨 드래곤스",
+  "TSG Hawks": "TSG 호크스",
+  "Rakuten Monkeys": "라쿠텐 몽키스",
+  "Fubon Guardian": "푸방 가디언즈",
+  "Pittsburgh Pirates": "피츠버그 파이러츠",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
@@ -814,6 +826,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /Bundesliga/gi, replace: "분데스리가" },
     { target: /Primeira Liga/gi, replace: "프리메라리가" },
     { target: /Esports World Cup Playoffs/gi, replace: "Esports World Cup" },
+    { target: /Primera División - Apertura/gi, replace: "PRIMERA DIVISIÓN" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
