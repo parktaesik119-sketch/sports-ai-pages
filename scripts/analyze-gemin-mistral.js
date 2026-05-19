@@ -440,7 +440,7 @@ if (isFreePassLeague) {
         2. 모든 팀 이름은 한글 소리 나는 대로 번역해라. (예: Arsenal -> 아스널)
         3. 적용 범위: 변환된 한글 팀명을 TITLE, 경기 정보 요약 표, 각 섹션의 부제목, 추천픽 표 등 보고서 전체에 100% 적용하라.
         4. 팀명 뒤 'U20', 'W' 등이 있다면 반드시 한글 뒤에 붙여라.(예: W -> 여 이렇게 하지말고 W로 표기) 
-        5. 'DN', 'BNK','TS', 'FC', 'AC', 'SK', 'U20' 같은 영문 약자는 번역하지 말고 영문 그대로 유지해라.(예: TS Galaxy -> TS 갤럭시, FC Barcelona -> FC 바르셀로나)
+        5. 'DN', 'BNK','TS', 'FC', 'AC', 'SK', 'U20', 'KT' 같은 영문 약자는 번역하지 말고 영문 그대로 유지해라.(예: TS Galaxy -> TS 갤럭시, FC Barcelona -> FC 바르셀로나)
         6. 팀명 'Bodo/Glimt'는 반드시 '보되/글림트'로 번역해서 작성해.
 
         [출력 강제 규칙]
@@ -557,51 +557,163 @@ if (isFreePassLeague) {
       const genAI = new GoogleGenerativeAI(GEMINI_API_KEYS[currentKeyIndex]);
       
       for (const modelName of MODEL_PRIORITY) {
-        try {
-          console.log(`📡 [시도] 키 ${currentKeyIndex + 1} - 모델: ${modelName}`);
-          const model = genAI.getGenerativeModel({ 
-            model: modelName,
-            tools: [{ googleSearch: {} }] 
-          });
-          
-          const result = await model.generateContent(prompt);
-          const response = await result.response;
-          const aiResponse = response?.text?.() || "";
 
-          if (aiResponse.length < 200) {
-            console.warn(`⚠️ [부실] ${modelName} 응답 부족. 다음 모델 시도.`);
-            continue; 
-          }
+  let quotaExceeded = false;
 
-          // 성공 시 저장 로직
-          await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent);
-          console.log(`✅ [성공] 키 ${currentKeyIndex + 1} (${modelName}): ${match.home} vs ${match.away}`);
-          success = true;
-          break; // 모델 루프 탈출
-        } catch (err) {
-        // 에러 객체가 비어있거나 message가 없는 상황을 완벽하게 방어
-        const rawErr = err?.message || (typeof err === 'string' ? err : JSON.stringify(err)) || "";
-        const errMsg = String(rawErr); // 무조건 문자열로 강제 변환
-  
-        console.error(`❌ 모델 오류 (${modelName}):`, errMsg);
+  // ✅ 모델별 최대 3회 시도
+  for (let retry = 1; retry <= 3; retry++) {
 
-        // 이제 errMsg가 문자열임이 보장되므로 includes를 안전하게 호출 가능
-        if (errMsg.includes("503") || errMsg.includes("Service Unavailable") || errMsg.includes("high demand")) {
-        console.warn(`💡 서버 부하가 심합니다. 60초 대기 후 다음 단계를 시도합니다...`);
-        await new Promise(res => setTimeout(res, 60000)); 
-        continue; 
+    try {
+
+      console.log(
+        `📡 [시도] 키 ${currentKeyIndex + 1} - 모델: ${modelName} (${retry}/3)`
+      );
+
+      const model = genAI.getGenerativeModel({
+        model: modelName,
+        tools: [{ googleSearch: {} }]
+      });
+
+      const result = await model.generateContent(prompt);
+      const response = await result.response;
+      const aiResponse = response?.text?.() || "";
+
+      // ✅ 부실 응답
+      if (aiResponse.length < 200) {
+
+        console.warn(
+          `⚠️ [부실] ${modelName} 응답 부족 (${retry}/3)`
+        );
+
+        if (retry < 3) {
+          await new Promise(res => setTimeout(res, 3000));
+          continue;
         }
 
-        if (errMsg.includes("429") || errMsg.includes("Quota") || errMsg.includes("limit")) {
-        console.warn(`🚨 할당량 초과! 60초 대기 후 다음 API 키로 교체를 준비합니다.`);
-        await new Promise(res => setTimeout(res, 60000)); 
-        break; // 현재 키를 포기하고 다음 키로 이동
+        break;
+      }
+
+      // ✅ 성공
+      await savePost(
+        savePath,
+        aiResponse,
+        match,
+        dateShort,
+        cat,
+        dateOnly,
+        h2hContent
+      );
+
+      console.log(
+        `✅ [성공] 키 ${currentKeyIndex + 1} (${modelName}): ${match.home} vs ${match.away}`
+      );
+
+      success = true;
+
+      break;
+
+    } catch (err) {
+
+      const rawErr =
+        err?.message ||
+        (typeof err === 'string'
+          ? err
+          : JSON.stringify(err)) ||
+        "";
+
+      const errMsg = String(rawErr);
+
+      console.error(
+        `❌ 모델 오류 (${modelName}) [${retry}/3]:`,
+        errMsg
+      );
+
+      // ==================================================
+      // ✅ 503
+      // ==================================================
+
+      if (
+        errMsg.includes("503") ||
+        errMsg.includes("Service Unavailable") ||
+        errMsg.includes("high demand")
+      ) {
+
+        if (retry < 3) {
+
+          console.warn(
+            `💡 503 서버 과부하. 60초 후 재시도 (${retry}/3)`
+          );
+
+          await new Promise(res => setTimeout(res, 60000));
+
+          continue;
         }
 
-        console.warn(`⚠️ 기타 에러 발생. 3초 후 다음 시도를 이어갑니다.`);
-        await new Promise(res => setTimeout(res, 3000));
+        console.warn(
+          `❌ 503 재시도 3회 실패 → 다음 모델`
+        );
+
+        break;
+      }
+
+      // ==================================================
+      // ✅ 429
+      // ==================================================
+
+      if (
+        errMsg.includes("429") ||
+        errMsg.includes("Quota") ||
+        errMsg.includes("limit")
+      ) {
+
+        if (retry < 3) {
+
+          console.warn(
+            `🚨 429 할당량 초과. 60초 후 재시도 (${retry}/3)`
+          );
+
+          await new Promise(res => setTimeout(res, 60000));
+
+          continue;
         }
-      } // for (MODEL_PRIORITY) 끝
+
+        console.warn(
+          `🚨 429 재시도 3회 실패 → 다음 API 키`
+        );
+
+        quotaExceeded = true;
+
+        await new Promise(res => setTimeout(res, 10000));
+
+        break;
+      }
+
+      // ==================================================
+      // ✅ 기타 에러
+      // ==================================================
+
+      console.warn(
+        `⚠️ 기타 에러. 10초 후 다음 키 진행`
+      );
+
+      quotaExceeded = true;
+
+      await new Promise(res => setTimeout(res, 10000));
+
+      break;
+    }
+  }
+
+  // ✅ 성공했으면 모델 루프 종료
+  if (success) {
+    break;
+  }
+
+  // ✅ 429/기타에러면 다음 키로 이동
+  if (quotaExceeded) {
+    break;
+  }
+}
 
       if (success) break; // 성공했으면 키(while) 루프 탈출
 
