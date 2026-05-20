@@ -54,6 +54,7 @@ const TEAM_NAME_MAP = {
   "Rakuten Monkeys": "라쿠텐 몽키스",
   "Fubon Guardian": "푸방 가디언즈",
   "Pittsburgh Pirates": "피츠버그 파이러츠",
+  "Nippon Ham Fighters": "니혼햄 파이터즈",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
@@ -198,7 +199,7 @@ async function analyzeMatches() {
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
   // 2. 농구 
   const basketball = ((upperLg === 'NBA') && !upperLg.includes('WNBA') && !upperLg.includes('NBA W')) || 
-                     ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B League', 'NBA'].some(el => el === upperLg);
+                     ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B League', 'NBA', 'ASIA CHAMPIONS LEAGUE'].some(el => el === upperLg);
   // 3. 배구 
   const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL'].some(el => el === upperLg);
   // 4. 야구 
@@ -463,7 +464,7 @@ if (isFreePassLeague) {
            - &nbsp;나 &; 같은 특수 공백 코드는 절대 사용 금지.** 대신 한글 팀명과 결과값 사이에 가독성을 위한 최소한의 일반 공백(Space)만 사용하라.
            - 표의 세로 줄이 맞지 않는 현상을 방지하기 위해, 모든 행(Row)의 열(Column) 개수를 동일하게 유지하라.
         3. 상세 분석(홈/원정/종합분석)은 각각 최소 3문장 이상의 전문적인 문장으로 작성을 하고, 문맥이 끊기거나 주제가 바뀌면 반드시 <br> 태그와 함께 다음 줄로 넘겨라.
-        4. 상세 분석 작성 시 너의 구글 검색 기능을 동원해서 결장자 정보도 별도로 표기를 해라.
+        4. 상세 분석 작성 시 너의 구글 검색 기능을 동원해서 결장자 정보도 분석글에 포함하여 작성해라.
         5. 모든 추천픽의 기준점(핸디캡, 오버언더)은 제공된 팀의 전력과 최근 득점력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 [추천 픽 및 기준점] 테이블을 만드세요.(예를 들어 화력전이 예상되면 오버언더 기준점을 2.5 또는 3.5로 네가 직접 정하는 식이다.)
         6. 상대전적은 너의 구글 검색(Google Search)을 기능을 총동원하여 최근 2년 사이의 두 팀 간 맞대결 기록을 최대 5개 찾아내라.
            (2023년 이전의 너무 오래된 데이터만 있다면 차라리 '※업데이트 예정'이라고 표기하고 분석 섹션을 생략해라. 거짓으로 데이터를 만들지 마라(No Hallucination))
@@ -974,6 +975,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "ESPORTS WORLD CUP": "국제",
     "KHL": "러시아",
     "NHL": "미국",
+    "ASIA CHAMPIONS LEAGUE": "국제",
   };
 
   const countryMap = {
