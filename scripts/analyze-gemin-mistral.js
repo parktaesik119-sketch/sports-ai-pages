@@ -263,7 +263,7 @@ async function analyzeMatches() {
     continue;
   }
 
-  // 2. 리그명 교정 로직 (질문자님 기존 로직)
+  // 2. 리그명 교정 로직
   let displayLeagueName = match.league; 
   const cutOffKeywords = / (Rounds?|Week|Group|Stage|Playoffs|Knockout).*/i;
   displayLeagueName = displayLeagueName.replace(cutOffKeywords, '').trim();  
@@ -276,13 +276,22 @@ async function analyzeMatches() {
     year: '2-digit', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul'
   }).replace(/\. /g, '/').replace(/\./g, '');
 
-      // 4. 로고 매칭 (질문자님 기존 로직)
+      // 4. 로고 매칭
   if (match.sport === "lol") {
-    const homeFile = getSafeLogoName(match.home);
-    const awayFile = getSafeLogoName(match.away);
-    match.homeLogo = `/logos/${homeFile}.png`;
-    match.awayLogo = `/logos/${awayFile}.png`;
-  }
+  const homeFile = getSafeLogoName(match.home);
+  const awayFile = getSafeLogoName(match.away);
+
+  const homePath = path.join(process.cwd(), 'public', 'logos', `${homeFile}.png`);
+  const awayPath = path.join(process.cwd(), 'public', 'logos', `${awayFile}.png`);
+
+  match.homeLogo = fs.existsSync(homePath)
+    ? `/logos/${homeFile}.png`
+    : '/images/wing-home.png';
+
+  match.awayLogo = fs.existsSync(awayPath)
+    ? `/logos/${awayFile}.png`
+    : '/images/wing-away.png';
+}
 
       // 5. 저장 경로 확인
   const safeHomeName = getSafeLogoName(match.home); 
