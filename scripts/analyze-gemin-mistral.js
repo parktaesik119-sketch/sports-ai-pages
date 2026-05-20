@@ -206,8 +206,11 @@ async function analyzeMatches() {
   // 5. 하키 
   const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'BEIJER HOCKEY GAMES', 'WORLD CHAMPIONSHIP' ].some(el => el === upperLg);
   // 6. 롤 
-  const lol = (upperLg.includes('LCK') || upperLg.includes('LEC') || upperLg.includes('LPL')) ||
-               ['MSI', 'WORLD', 'WORLDS', 'INTERNATIONAL','ESPORTS WORLD CUP','ESPORTS WORLD CUP PLAYOFFS'].some(el => el === upperLg);
+  const normalizedLg = upperLg
+  .replace(/\s+/g, '')
+  .replace(/ROUNDS?.*|WEEK.*|GROUP.*|STAGE.*|PLAYOFFS?.*/i, '');
+
+  const lol = ['LCK','LCK CL','LEC','LPL','LCS','MSI','WORLD','WORLDS','INTERNATIONAL','ESPORTS WORLD CUP'].includes(normalizedLg);
 
   // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam)'를 추가
   const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam;
@@ -466,7 +469,7 @@ if (isFreePassLeague) {
         9. 출력 시 반드시 최종 분석 보고서 결과만 출력하고, 내부 추론 과정이나 검색 결과에 대한 코멘트, ***나 ### 같은 불필요한 기호, 영어로 된 분석 메모는 절대 포함하지 마세요.
 
         [제목 형식 지시] 
-        - 반드시 다음 형식을 엄수하라: "{dateShort} {country} [{league}] {home} vs {away} 분석"
+        - 반드시 다음 형식을 엄수하라: "{dateShort} {country} [{league}] {home} vs {away} 스포츠분석 스포츠픽"
         - 상단 TITLE 라인의 팀명은 반드시 한글로 번역해서 사용해라.(국가명일 경우에도 한글로 번역해라)
         - 날짜는 반드시 ${dateShort} 변수값 그대로 사용할 것. (2026/07/20 처럼 길게 쓰지 말 것)
         - 국가명 중 '한국', '대한민국'은 '대한민국'으로 통일해라
@@ -853,7 +856,7 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   // const aiHomeName = match.homeNameKor || match.home || "홈팀";
   // const aiAwayName = match.awayNameKor || match.away || "원정팀";
 
-  let extractedDesc = `${aiHomeName} vs ${aiAwayName} 경기 분석 리포트`; // 기본값
+  let extractedDesc = `${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 리포트 스포츠픽`; // 기본값
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
@@ -1045,13 +1048,13 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
 }
 
   // 10. 제목 및 저장
-  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} 분석`;
+  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 스포츠픽`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
   const catNames = { "soccer": "축구", "basketball": "농구", "baseball": "야구", "volleyball": "배구", "hockey": "하키", "lol": "롤" };
   const korCat = catNames[cat] || "스포츠";
 
-  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 무료로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #스포츠픽 #스포츠경기분석\n</div>`;
+  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #무료스포츠픽 #스포츠분석\n</div>`;
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
