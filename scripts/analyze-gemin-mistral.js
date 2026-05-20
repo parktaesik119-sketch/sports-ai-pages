@@ -55,6 +55,7 @@ const TEAM_NAME_MAP = {
   "Fubon Guardian": "푸방 가디언즈",
   "Pittsburgh Pirates": "피츠버그 파이러츠",
   "Nippon Ham Fighters": "니혼햄 파이터즈",
+  "Wuhan Three Towns": "우한 쓰리 타운즈",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
