@@ -55,7 +55,7 @@ const TEAM_NAME_MAP = {
   "Fubon Guardian": "푸방 가디언즈",
   "Pittsburgh Pirates": "피츠버그 파이러츠",
   "Nippon Ham Fighters": "니혼햄 파이터즈",
-  "Wuhan Three Towns": "우한 쓰리 타운즈",
+  "Shenyang Urban": "랴오닝 선양",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
@@ -422,8 +422,8 @@ if (isFreePassLeague) {
 
     const fullKstSchedule = matchDateKST.toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false });
 
-    const hName = match.home;
-    const aName = match.away;
+    const hName = TEAM_NAME_MAP[match.home] || match.home;
+    const aName = TEAM_NAME_MAP[match.away] || match.away;
 
     const gameContext = cat === 'lol' ? "이 경기는 '리그오브레전드(롤)' 이스포츠 경기다. 절대 농구나 축구로 착각하지 마라." : "";
 
