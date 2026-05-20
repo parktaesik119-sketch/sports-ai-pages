@@ -186,7 +186,81 @@ document.addEventListener('DOMContentLoaded', () => {
     width: 25%;
     text-align: center !important;
   }
+
+  /* 🔝 맨 위로 버튼 */
+#scrollTopBtn {
+  position: fixed;
+  right: 16px;
+  bottom: 80px;
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(0,0,0,0.7);
+  color: white;
+  font-size: 22px;
+  cursor: pointer;
+  z-index: 9999;
+
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.25s ease;
+
+  /* 🔥 네온 효과 추가 */
+  box-shadow:
+    0 0 8px #3b82f6,
+    0 0 16px #2563eb;
+
+  backdrop-filter: blur(6px);
+}
+
+/* 표시 상태 */
+#scrollTopBtn.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+#scrollTopBtn:hover {
+  transform: scale(1.08);
+
+  box-shadow:
+    0 0 12px #60a5fa,
+    0 0 24px #3b82f6;
+}
+
+/* 모바일 전용 */
+@media (min-width: 769px) {
+  #scrollTopBtn {
+    display: none;
+  }
+}
 </style>
+
+<!-- 🔝 맨 위로 버튼 -->
+<button id="scrollTopBtn" aria-label="맨 위로 이동">
+  ↑
+</button>
+
+<script>
+  const scrollTopBtn = document.getElementById('scrollTopBtn');
+
+  // 스크롤 시 버튼 표시
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      scrollTopBtn.classList.add('show');
+    } else {
+      scrollTopBtn.classList.remove('show');
+    }
+  });
+
+  // 클릭 시 맨 위 이동
+  scrollTopBtn.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+</script>
 
   </body>
 </html>
