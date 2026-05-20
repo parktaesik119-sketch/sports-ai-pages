@@ -355,20 +355,17 @@ async function analyzeMatches() {
   // [1순위] sport 필드가 없을 경우 상세 리그명으로 판별 (질문자님 기존 로직)
   else {
     if (
-      lg.includes('NBA') || lg.includes('KBL') || lg.includes('WKBL') ||
-      lg.includes('CBA') || lg.includes('B.LEAGUE') || lg.includes('MPBL')
+      lg.includes('NBA') || lg.includes('KBL') || lg.includes('WKBL') || lg.includes('CBA') || lg.includes('B.LEAGUE') || lg.includes('MPBL')
     ) {
       cat = "basketball";
     } 
     else if (
-      lg.includes('KBO') || lg.includes('MLB') || lg.includes('NPB') || 
-      lg.includes('ABL') || lg.includes('CPBL') 
+      lg.includes('KBO') || lg.includes('MLB') || lg.includes('NPB') || lg.includes('ABL') || lg.includes('CPBL') 
     ) {
       cat = "baseball";
     } 
     else if (
-      lg.includes('V-LEAGUE') || lg.includes('KOVO') || lg.includes('JAPAN') || 
-      lg.includes('CHINA') || lg.includes('TURKEY')
+      lg.includes('V-LEAGUE') || lg.includes('KOVO') || lg.includes('JAPAN') || lg.includes('CHINA') || lg.includes('TURKEY')
     ) {
       cat = "volleyball";
     }
@@ -378,8 +375,7 @@ async function analyzeMatches() {
       cat = "hockey";
     }
     else if (
-      lg.includes('LCK') || lg.includes('LEC') || lg.includes('LPL') ||
-      lg.includes('MSI') || lg.includes('WORLDS')
+      lg.includes('LCK') || lg.includes('LEC') || lg.includes('MSI') || lg.includes('WORLDS')
     ) {
       cat = "lol";
     }
