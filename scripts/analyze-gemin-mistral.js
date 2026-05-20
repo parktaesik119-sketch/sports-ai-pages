@@ -863,6 +863,9 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   cleanedText = cleanedText.replace(/HOME_KOR:.*\n?/g, '');
   cleanedText = cleanedText.replace(/AWAY_KOR:.*\n?/g, '');
   cleanedText = cleanedText.replace(/COUNTRY_KOR:.*\n?/g, '');
+
+  const catNames = { "soccer": "축구", "basketball": "농구", "baseball": "야구", "volleyball": "배구", "hockey": "하키", "lol": "롤" };
+  const korCat = catNames[cat] || "스포츠";
   
   //  let 아랫줄부터 바로 위줄까지 코드 삽입으로 일단 임시로 가림
   // const aiHomeName = match.homeNameKor || match.home || "홈팀";
@@ -1066,9 +1069,7 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 스포츠픽`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
-  const catNames = { "soccer": "축구", "basketball": "농구", "baseball": "야구", "volleyball": "배구", "hockey": "하키", "lol": "롤" };
-  const korCat = catNames[cat] || "스포츠";
-
+  
   const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #무료스포츠픽 #스포츠분석\n</div>`;
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
