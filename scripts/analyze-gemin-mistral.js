@@ -83,7 +83,8 @@ const MODEL_PRIORITY = [  // 모델 버전 및 수명 주기 확인 요망
   "gemini-2.5-pro",            // 2026년 10월까지 유효
   "gemini-3-flash-preview",    // 최신 권장 모델
   "gemini-3.1-flash-lite",     // 최신 권장 모델 (표의 권장 교체 참고)
-  "gemini-3.1-pro-preview"     // 최신 권장 모델
+  "gemini-3.1-pro-preview",    // 최신 권장 모델
+  "gemini-3.5-flash",          // 출시일 26/05/19
  
 ];
 
@@ -597,7 +598,7 @@ if (isFreePassLeague) {
           `⚠️ [부실] ${modelName} 응답 부족 (${retry}/3)`
         );
 
-        if (retry < 3) {
+        if (retry < 2) {
           await new Promise(res => setTimeout(res, 3000));
           continue;
         }
@@ -633,7 +634,7 @@ if (isFreePassLeague) {
           : JSON.stringify(err)) ||
         "";
 
-      const errMsg = String(rawErr);
+      const errMsg = String(rawErr).toLowerCase();
 
       console.error(
         `❌ 모델 오류 (${modelName}) [${retry}/3]:`,
@@ -645,10 +646,10 @@ if (isFreePassLeague) {
       // ==================================================
 
       if (
-        errMsg.includes("503") ||
-        errMsg.includes("Service Unavailable") ||
-        errMsg.includes("high demand")
-      ) {
+  errMsg.includes("503") ||
+  errMsg.includes("service unavailable") ||
+  errMsg.includes("high demand")
+) {
 
         if (retry < 3) {
 
@@ -673,46 +674,48 @@ if (isFreePassLeague) {
       // ==================================================
 
       if (
-        errMsg.includes("429") ||
-        errMsg.includes("Quota") ||
-        errMsg.includes("limit")
-      ) {
+  errMsg.includes("429") ||
+  errMsg.includes("quota") ||
+  errMsg.includes("rate limit")
+) {
 
-        if (retry < 3) {
+  // ✅ 429는 일시 제한 가능성이 있어서 2회 재시도
+  if (retry < 2) {
 
-          console.warn(
-            `🚨 429 할당량 초과. 60초 후 재시도 (${retry}/3)`
-          );
+    console.warn(
+      `🚨 429 제한 감지. 60초 후 재시도 (${retry}/2)`
+    );
 
-          await new Promise(res => setTimeout(res, 60000));
+    await new Promise(res => setTimeout(res, 60000));
 
-          continue;
-        }
+    continue;
+  }
 
-        console.warn(
-          `🚨 429 재시도 3회 실패 → 다음 API 키`
-        );
+  console.warn(
+    `🚨 429 재시도 실패 → 다음 API 키`
+  );
 
-        quotaExceeded = true;
+  quotaExceeded = true;
 
-        await new Promise(res => setTimeout(res, 10000));
+  await new Promise(res => setTimeout(res, 5000));
 
-        break;
-      }
+  break;
+}
 
       // ==================================================
       // ✅ 기타 에러
       // ==================================================
 
-      console.warn(
-        `⚠️ 기타 에러. 10초 후 다음 키 진행`
-      );
+console.warn(
+  `⚠️ 기타 에러 → 다음 모델 시도`
+);
 
-      quotaExceeded = true;
+// ❌ quotaExceeded 처리 금지
+// quotaExceeded = true;
 
-      await new Promise(res => setTimeout(res, 10000));
+await new Promise(res => setTimeout(res, 2000));
 
-      break;
+break;
     }
   }
 
