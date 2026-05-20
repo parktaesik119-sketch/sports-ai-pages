@@ -856,7 +856,7 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   // const aiHomeName = match.homeNameKor || match.home || "홈팀";
   // const aiAwayName = match.awayNameKor || match.away || "원정팀";
 
-  let extractedDesc = `${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 리포트 스포츠픽`; // 기본값
+  let extractedDesc = `${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 리포트 무료 스포츠픽`; // 기본값
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
