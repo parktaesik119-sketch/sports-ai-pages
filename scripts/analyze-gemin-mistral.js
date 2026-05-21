@@ -59,17 +59,20 @@ const TEAM_NAME_MAP = {
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
-// [추가] 팀명을 파일명 규칙(하이픈, 마침표 제거)으로 변환하는 함수
+// [추가] 팀명을 LOL 로고 파일명 규칙으로 안전하게 변환
 function getSafeLogoName(teamName) {
+
   if (!teamName) return "default-logo";
-  return teamName
-    .toLowerCase()
-    .replace(/[\/\\]/g, '-')     // 1. 슬래시부터 먼저 대시로 바꿔서 경로 분리 방지
-    .replace(/\./g, "-")        // 2. 점(.) 처리
-    .replace(/\s+/g, "-")       // 3. 빈칸 처리
-    .replace(/[^a-z0-9-]/g, '')  // 4. 나머지 특수문자 싹 다 제거 (안전빵)
-    .replace(/-+/g, "-")        // 5. 중복 대시 정리
-    .replace(/^-+|-+$/g, '');   // 6. 앞뒤 정리
+
+  return String(teamName)
+    .trim()                         // 앞뒤 공백 제거
+    .toLowerCase()                  // 소문자
+    .replace(/[\/\\]/g, '-')        // 슬래시 → -
+    .replace(/\./g, '-')            // 점(.) → -
+    .replace(/\s+/g, '-')           // 공백 → -
+    .replace(/[^a-z0-9-]/g, '')     // 영문/숫자/- 제외 제거
+    .replace(/-+/g, '-')            // 중복 하이픈 제거
+    .replace(/^-+|-+$/g, '');       // 앞뒤 하이픈 제거
 }
 
 let currentKeyIndex = 0;          // Gemini 키 인덱스
@@ -121,7 +124,7 @@ async function analyzeMatches() {
   '1. DIVISION', 'FEDERACION', 'SUPER LEAGUE 2', '2. Deild', '3. Division', '3. Division - Girone 6', 'UEFA Europa Conference League', 'Ykkösliiga', 'Kakkonen - Lohko C', 'Kakkonen - Lohko A', 'Kakkonen - Lohko B', 'Kakkonen', 'Superettan', 'Ettan - Södra', 'Ettan - Norra', 'Ettan', 'Division 2 - Norra Götaland', 'Division 2 - Östra Götaland', 'Götaland', 'Division 2 - Västra Götaland', 'Damallsvenskan', 'Division 2 - Norrland', 'First Division',
   'U18 PREMIER LEAGUE', 'PREMIER LEAGUE INTERNATIONAL CUP', 'Elitettan', 'Damallsvenskan', 'Ettan', 'Svealand', 'Prime League', 'North American', 'NWSL', 'Central', 'MLS Next Pro',
     // 농구 및 기타 (Basketball & Others)
-  'ABA LEAGUE', 'USL CHAMPIONSHIP', 'BAHRAIN', 'Balkan', 'HLL', 'LES', 'Circuito', 'LRS', 'Legends',  'ACB', 'NBL', 'USHL', 'SHL', 'Liiga', 'DEL', 'SuperLega', 'PlusLiga', 'LFL', 'Prime League', 'Arabian League', 'TCL', 'Regular', 'LIT', 'BSN', 'LNB', 'LBP', 'PCL', 'SPHL', 'ECHL', 'Regular Season','Esports World Cup', 'LPLOL Regular Season', 'LPLOL REGULAR SEASON',
+  'ABA LEAGUE', 'USL CHAMPIONSHIP', 'BAHRAIN', 'Balkan', 'HLL', 'LES', 'Circuito', 'LRS', 'Legends',  'ACB', 'NBL', 'USHL', 'SHL', 'Liiga', 'DEL', 'SuperLega', 'PlusLiga', 'LFL', 'Prime League', 'Arabian League', 'TCL', 'Regular', 'LIT', 'BSN', 'LNB', 'LBP', 'PCL', 'SPHL', 'ECHL', 'Regular Season','Esports World Cup', 'LPLOL Regular Season', 'LPLOL REGULAR SEASON', 'LEC', 'LCS',
 ];
 
   // ⬇️ 제외하고 싶은 국가명을 정확히 입력하세요 //대소문자 구분없음
@@ -213,8 +216,7 @@ async function analyzeMatches() {
   const normalizedLg = upperLg
   .replace(/\s+/g, '')
   .replace(/ROUNDS?.*|WEEK.*|GROUP.*|STAGE.*|PLAYOFFS?.*/i, '');
-
-  const lol = ['LCK','LCK CL','LEC','LPL','LCS','MSI','WORLD','WORLDS','INTERNATIONAL','ESPORTS WORLD CUP'].includes(normalizedLg);
+  const lol = ['LCK','LCK CL','LPL','MSI','WORLD','WORLDS','INTERNATIONAL','ESPORTS WORLD CUP'].includes(normalizedLg);
 
   // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam)'를 추가
   const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam;
