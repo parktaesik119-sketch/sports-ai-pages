@@ -80,25 +80,29 @@ function isSimilar(a, b) {
  * 호출 기간 설정: 현재 기준 -2일 ~ +2일 (총 5일)
  */
 function getTargetDates() {
-
   const dates = [];
+  const now = new Date(); // 현재 기준 시스템 시각 활용
 
-  // 현재 한국시간
-  const nowKst = new Date(Date.now() + (9 * 60 * 60 * 1000));
-
-  // 과거 48시간 ~ 미래 48시간
-  const start = new Date(nowKst.getTime() - (48 * 60 * 60 * 1000));
-  const end = new Date(nowKst.getTime() + (48 * 60 * 60 * 1000));
-
-  // 날짜 단위 배열 생성
-  const current = new Date(start);
-
-  while (current <= end) {
-    dates.push(current.toISOString().split("T")[0]);
-    current.setDate(current.getDate() + 1);
+  // -2일(과거 48시간)부터 +2일(미래 48시간)까지 안전하게 KST 날짜 배열 생성
+  for (let i = -2; i <= 2; i++) {
+    const targetDate = new Date(now);
+    targetDate.setDate(now.getDate() + i);
+    
+    // 한국 시간대 기준으로 YYYY-MM-DD 문자열 포맷팅
+    const formatter = new Intl.DateTimeFormat("ko-KR", {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      timeZone: "Asia/Seoul"
+    });
+    
+    const parts = formatter.formatToParts(targetDate);
+    const year = parts.find(p => p.type === 'year').value;
+    const month = parts.find(p => p.type === 'month').value;
+    const day = parts.find(p => p.type === 'day').value;
+    
+    dates.push(`${year}-${month}-${day}`);
   }
-
-  // 중복 제거
   return [...new Set(dates)];
 }
 
@@ -466,22 +470,29 @@ scheduleTasks.push(fetchRapidSoccerRange());
       map.set(key, m);
     });
 
+    // 3) 병합 처리
     mergedData.forEach(newMatch => {
       if (!newMatch.date) return;
       const dKey = new Date(newMatch.date).toISOString().split("T")[0];
       const key = `${dKey}_${normalizeName(newMatch.home)}_${normalizeName(newMatch.away)}`;
-      
+
       if (map.has(key)) {
         const oldMatch = map.get(key);
-        // 기존 데이터에 결과나 배당이 비어있으면 새 데이터로 덮어쓰기
+        
+        // 스코어 유효성 검사 함수 (null, undefined, 공백문자 방지)
+        const isValidScore = (score) => score !== null && score !== undefined && String(score).trim() !== '';
+
         map.set(key, {
           ...oldMatch,
           ...newMatch,
-          homeScore: newMatch.homeScore !== null ? newMatch.homeScore : oldMatch.homeScore,
-          awayScore: newMatch.awayScore !== null ? newMatch.awayScore : oldMatch.awayScore,
-          homeOdd: newMatch.homeOdd || oldMatch.homeOdd,
-          awayOdd: newMatch.awayOdd || oldMatch.awayOdd,
-          drawOdd: newMatch.drawOdd || oldMatch.drawOdd
+          // 새 데이터에 진짜 점수가 존재할 때만 업데이트하고, 없을 경우 기존(과거 수집된) 점수를 보존
+          homeScore: isValidScore(newMatch.homeScore) ? newMatch.homeScore : oldMatch.homeScore,
+          awayScore: isValidScore(newMatch.awayScore) ? newMatch.awayScore : oldMatch.awayScore,
+          
+          // 배당 정보 안전 가드 장치
+          homeOdd: (newMatch.homeOdd && newMatch.homeOdd !== "N/A" && newMatch.homeOdd !== "") ? newMatch.homeOdd : oldMatch.homeOdd,
+          awayOdd: (newMatch.awayOdd && newMatch.awayOdd !== "N/A" && newMatch.awayOdd !== "") ? newMatch.awayOdd : oldMatch.awayOdd,
+          drawOdd: (newMatch.drawOdd && newMatch.drawOdd !== "N/A" && newMatch.drawOdd !== "") ? newMatch.drawOdd : oldMatch.drawOdd
         });
       } else {
         map.set(key, newMatch);
