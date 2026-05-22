@@ -287,8 +287,8 @@ async function analyzeMatches() {
   const homeFile = getSafeLogoName(match.home);
   const awayFile = getSafeLogoName(match.away);
 
-  const homePath = path.join(process.cwd(), 'public', 'logos', `${homeFile}.png`);
-  const awayPath = path.join(process.cwd(), 'public', 'logos', `${awayFile}.png`);
+  const homePath = path.join(process.cwd(), 'logos', `${homeFile}.png`);
+  const awayPath = path.join(process.cwd(), 'logos', `${awayFile}.png`);
 
   match.homeLogo = fs.existsSync(homePath)
     ? `/logos/${homeFile}.png`
@@ -948,8 +948,6 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /Veikkausliiga/gi, replace: "D1" },
     { target: /JUPILER PRO LEAGUE/gi, replace: "D1" },
     { target: /Eliteserien/gi, replace: "D1" },
-    { target: /HNL/gi, replace: "D1" },
-    { target: /Premiership/gi, replace: "D1" },
     { target: /Premier Division/gi, replace: "D1" },
     { target: /Division 1/gi, replace: "D1" },
     { target: /2. Bundesliga/gi, replace: "D2" },

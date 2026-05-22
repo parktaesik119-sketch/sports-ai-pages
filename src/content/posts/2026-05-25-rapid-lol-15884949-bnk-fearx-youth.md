@@ -8,26 +8,26 @@ country: "대한민국"
 league: "LCK CL"
 homeTeam: "BNK 피어엑스 유스"
 awayTeam: "티원 아카데미"
-homeLogo: "/images/wing-home.png"
-awayLogo: "/images/wing-away.png"
+homeLogo: "/logos/bnk-fearx-youth.png"
+awayLogo: "/logos/t1-academy.png"
 ---
 
 ### 🏟️ 경기 정보 요약
 | <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
 |:---|:---|
-| **<span style="color: #007bff;">홈팀</span>** | <img src="/images/wing-home.png" width="31" height="30" style="vertical-align: middle;"> **BNK 피어엑스 유스** |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="/images/wing-away.png" width="31" height="30" style="vertical-align: middle;"> **티원 아카데미** |
+| **<span style="color: #007bff;">홈팀</span>** | <img src="/logos/bnk-fearx-youth.png" width="31" height="30" style="vertical-align: middle;"> **BNK 피어엑스 유스** |
+| **<span style="color: #007bff;">원정팀</span>** | <img src="/logos/t1-academy.png" width="31" height="30" style="vertical-align: middle;"> **티원 아카데미** |
 | **<span style="color: #007bff;">리그</span>** | **대한민국: LCK CL** |
 | **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 25. 16:00** |
 
-### <img src="/images/wing-home.png" width="31" height="30" style="vertical-align: middle;"> BNK 피어엑스 유스 분석
+### <img src="/logos/bnk-fearx-youth.png" width="31" height="30" style="vertical-align: middle;"> BNK 피어엑스 유스 분석
 BNK 피어엑스 유스는 최근 경기에서 강팀을 상대로 세트를 따내는 등 잠재력을 보여주고 있으나, 이를 승리로 연결하는 데 어려움을 겪고 있습니다. 특히 후반 운영과 한타 단계에서 아쉬운 판단이 나오며 유리한 상황을 놓치는 경우가 잦았습니다. 라인전 단계에서 우위를 점할 수 있는 밴픽 전략과 함께 오브젝트 컨트롤에 집중하여 초반 스노우볼을 굴리는 것이 중요합니다.
 
 <br><br>
 
 
 
-### <img src="/images/wing-away.png" width="31" height="30" style="vertical-align: middle;"> 티원 아카데미 분석
+### <img src="/logos/t1-academy.png" width="31" height="30" style="vertical-align: middle;"> 티원 아카데미 분석
 티원 아카데미는 안정적인 라인전과 뛰어난 한타 집중력을 바탕으로 경기를 지배하는 경향이 있습니다. 특히 주요 딜러들의 캐리력이 뛰어나 한번 흐름을 타면 상대를 압도하는 모습을 자주 보여주었습니다. 다만, 가끔씩 무리한 이니시에이팅으로 인해 불리한 한타를 여는 경우가 있어 이 부분만 보완한다면 더욱 강력한 팀이 될 것입니다.
 
 <br><br>
