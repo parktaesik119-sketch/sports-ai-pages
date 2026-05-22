@@ -569,6 +569,61 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
   gap: 15px;
 }
 
+/* =========================
+   📱 모바일 전용 여백 제거
+========================= */
+@media (max-width: 767px) {
+
+  /* 바깥 전체 영역 */
+  .main-layout-container {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0 !important;
+    gap: 0 !important;
+  }
+
+  /* 흰색 본문 판 */
+  .board-section {
+    border-radius: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    box-shadow: none !important;
+  }
+
+  /* 카드 리스트 영역 */
+  .post-list {
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+    gap: 6px !important;
+  }
+
+  /* 카드 자체 */
+  .post-card-item {
+    border-radius: 8px !important;
+    margin: 0 !important;
+  }
+
+  /* 카드 내부 */
+  .card-link {
+    padding: 8px 8px 6px 8px !important;
+  }
+
+  /* 카드 사이 간격 압축 */
+  .card-top {
+    margin-bottom: 2px !important;
+  }
+
+  .card-center {
+    margin-top: 0 !important;
+  }
+
+  .card-bottom {
+    padding-top: 2px !important;
+  }
+}
+
 @media (min-width: 1024px) {
   .post-list {
     grid-template-columns: 1fr 1fr;
