@@ -56,6 +56,9 @@ const TEAM_NAME_MAP = {
   "Pittsburgh Pirates": "피츠버그 파이러츠",
   "Nippon Ham Fighters": "니혼햄 파이터즈",
   "Shenyang Urban": "랴오닝 선양",
+  "Nieciecza": "부르크베트 테르말리차",
+  "Lechia Gdansk": "레히아 그단스크",
+  "Widzew Łódź": "비드제브 로즈",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
