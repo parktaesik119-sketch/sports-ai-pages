@@ -418,13 +418,12 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
       border-radius: 4px !important; /* 👈 화면에 꽉 차므로 둥근 모서리를 살짝만 줌 */
       box-shadow: none !important;  /* 👈 모바일에서는 불필요한 그림자 제거로 깔끔하게 */
     }
-    
+
     .board-header-center {
       flex-direction: column;
-      /* 모바일 환경에서는 위아래로 깔끔히 적층 */
       gap: 0px;             /* 1️⃣ 날짜 아래 간격을 줄이기 위해 타이틀과 날짜 사이의 간격을 0으로 타이트하게 조정 */
       text-align: center;
-      padding: 6px 10px;    /* 헤더 영역 위아래 패딩을 10px에서 6px로 더 압축 */
+      padding: 6px 8px;    /* 헤더 영역 위아래 패딩을 10px에서 6px로 더 압축 */
     }
     .board-title-left h2 {
       font-size: 1.05rem;
@@ -443,8 +442,8 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
 
     /* 📱 모바일 카드 세로 크기 압축 스타일 추가 */
     .post-list {
-      padding: 3px 0px;
-      gap: 3px;
+      padding: 3px 6px;
+      gap: 6px;
       width: 100%;
     }
     .card-link {
