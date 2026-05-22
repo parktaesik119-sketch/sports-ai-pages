@@ -443,7 +443,11 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
     /* 3️⃣ 🎴 카드를 감싸는 리스트의 좌우 패딩을 '0'으로 만듭니다 */
     .post-list {
       padding: 5px 4px !important; /* 👈 좌우 패딩을 4px만 남겨서 카드가 화면 양끝에 꽉 차게 만듭니다 */
-      gap: 3px; !important;        /* 카드와 카드 사이 여백
+      gap: 3px !important;        /* 카드와 카드 사이 여백
+    }
+
+    .post-card-item {
+      border-bottom: 2px solid rgba(0, 0, 0, 0.1) !important; /* 기존 PC용 4px 두께를 2px로 줄여서 불필요한 공백 제거 */
     }
 
     /* 카드 내부 전체의 하단 여백 압축 */
