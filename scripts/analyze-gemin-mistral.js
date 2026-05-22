@@ -968,6 +968,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /Primeira Liga/gi, replace: "프리메라리가" },
     { target: /Esports World Cup Playoffs/gi, replace: "Esports World Cup" },
     { target: /Primera División - Apertura/gi, replace: "PRIMERA DIVISIÓN" },
+    { target: /LA LIGA/gi, replace: "라리가" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
