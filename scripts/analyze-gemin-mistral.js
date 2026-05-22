@@ -59,6 +59,7 @@ const TEAM_NAME_MAP = {
   "Nieciecza": "부르크베트 테르말리차",
   "Lechia Gdansk": "레히아 그단스크",
   "Widzew Łódź": "비드제브 로즈",
+  "Xac Broncos": "Xac 브롱코스",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
