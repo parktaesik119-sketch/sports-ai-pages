@@ -154,8 +154,12 @@ async function analyzeMatches() {
   const essentialTeams = ['BNK FEARX YOUTH']; 
   const isEssentialTeam = essentialTeams.some(t => upperHome.includes(t) || upperAway.includes(t));
 
+  // 1. 여기에 예외로 허용하고 싶은 여성/청소년 리그명을 대문자로 등록합니다.
+const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE'];
+const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
+
   // [단계 1] 가장 먼저 여성/청소년 경기인지 확인 (최우선순위) - 있으면 무조건 차단
-  const isRestricted = !isEssentialTeam && (upperLg.includes('WOMEN') || upperLg.includes('FRAUEN') || upperLg.includes('YOUTH') || upperLg.includes('RESERVE') || upperLg.includes('U15') || upperLg.includes('U16') || upperLg.includes('U17') || upperLg.includes('U18') || upperLg.includes('U19') || upperLg.includes('U20') || upperLg.includes('U21') || upperLg.includes('U23'));
+  const isRestricted = !isEssentialTeam && !isAllowedWomenLeague && (upperLg.includes('WOMEN') || upperLg.includes('FRAUEN') || upperLg.includes('YOUTH') || upperLg.includes('RESERVE') || upperLg.includes('U15') || upperLg.includes('U16') || upperLg.includes('U17') || upperLg.includes('U18') || upperLg.includes('U19') || upperLg.includes('U20') || upperLg.includes('U21') || upperLg.includes('U23'));
 
   // [단계 2] 제한 대상이면 아래 조건은 보지도 말고 즉시 종료
   if (isRestricted) {
@@ -199,7 +203,7 @@ async function analyzeMatches() {
   // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
   const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE', 'CONMEBOL LIBERTADORES', 'COPA LIBERTADORES'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
-  const isFirstDivision = ['DIVISION 1', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA'].some(el => el === upperLg);
+  const isFirstDivision = ['DIVISION 1', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', 'AFC WOMEN\'S CHAMPIONS LEAGUE'].some(el => el === upperLg);
 
   // 축구 통합 필터
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
