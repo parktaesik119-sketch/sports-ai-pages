@@ -9,14 +9,14 @@ league: "LCK"
 homeTeam: "한진 브리온"
 awayTeam: "T1"
 homeLogo: "/logos/hanjin-brion.png"
-awayLogo: "/logoss/t1.png"
+awayLogo: "/logos/t1.png"
 ---
 
 ### 🏟️ 경기 정보 요약
 | <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
 |:---|:---|
 | **<span style="color: #007bff;">홈팀</span>** | <img src="/logos/hanjin-brion.png" width="31" height="30" style="vertical-align: middle;"> **한진 브리온** |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="/logoss/t1.png" width="31" height="30" style="vertical-align: middle;"> **T1** |
+| **<span style="color: #007bff;">원정팀</span>** | <img src="/logos/t1.png" width="31" height="30" style="vertical-align: middle;"> **T1** |
 | **<span style="color: #007bff;">리그</span>** | **대한민국: LCK** |
 | **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 24. 19:00** |
 
@@ -27,7 +27,7 @@ awayLogo: "/logoss/t1.png"
 
 
 
-### <img src="/logoss/t1.png" width="31" height="30" style="vertical: middle;"> T1 분석
+### <img src="/logos/t1.png" width="31" height="30" style="vertical: middle;"> T1 분석
 T1은 내부 데이터베이스상 한진 브리온과의 최근 두 번의 맞대결에서 모두 2대0 완승을 거두며 압도적인 상성을 입증했습니다. T1은 정교한 라인전과 완벽한 오브젝트 관리 능력을 바탕으로 경기를 주도하며 상대를 압박하는 전략에 능합니다. 특히 주요 선수들의 뛰어난 개인 기량과 한타에서의 집중력은 현재 LCK 내에서도 최고 수준을 자랑하며, 밴픽 단계에서도 상대의 의도를 정확히 파악하고 유연하게 대처하는 능력이 탁월합니다. 현재까지 알려진 결장자 정보는 없으며, 안정적인 팀워크를 바탕으로 이번 경기에서도 우위를 점할 가능성이 높습니다.
 
 <br><br>
