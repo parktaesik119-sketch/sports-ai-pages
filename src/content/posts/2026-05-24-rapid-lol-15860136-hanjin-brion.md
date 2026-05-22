@@ -8,26 +8,26 @@ country: "대한민국"
 league: "LCK"
 homeTeam: "한진 브리온"
 awayTeam: "T1"
-homeLogo: "/images/wing-home.png"
-awayLogo: "/images/wing-away.png"
+homeLogo: "/logos/hanjin-brion.png"
+awayLogo: "/logoss/t1.png"
 ---
 
 ### 🏟️ 경기 정보 요약
 | <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
 |:---|:---|
-| **<span style="color: #007bff;">홈팀</span>** | <img src="/images/wing-home.png" width="31" height="30" style="vertical-align: middle;"> **한진 브리온** |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="/images/wing-away.png" width="31" height="30" style="vertical-align: middle;"> **T1** |
+| **<span style="color: #007bff;">홈팀</span>** | <img src="/logos/hanjin-brion.png" width="31" height="30" style="vertical-align: middle;"> **한진 브리온** |
+| **<span style="color: #007bff;">원정팀</span>** | <img src="/logoss/t1.png" width="31" height="30" style="vertical-align: middle;"> **T1** |
 | **<span style="color: #007bff;">리그</span>** | **대한민국: LCK** |
 | **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 24. 19:00** |
 
-### <img src="/images/wing-home.png" width="31" height="30" style="vertical-align: middle;"> 한진 브리온 분석
+### <img src="/logos/hanjin-brion.png" width="31" height="30" style="vertical-align: middle;"> 한진 브리온 분석
 한진 브리온은 최근 경기에서 T1을 상대로 두 번 모두 0대2로 패배하며 전력의 열세를 보였습니다. 이러한 결과는 라인전 단계부터 오브젝트 컨트롤, 그리고 한타 운영에 이르기까지 전반적인 경기력에서 개선이 필요함을 시사합니다. 특히 밴픽 단계에서 T1의 강력한 조합을 효과적으로 카운터하지 못하고 자신들의 강점을 살리지 못하는 경향이 두드러졌습니다. 최근 몇 경기에서 미드 라인과 정글 포지션에서 불안정한 모습을 보이며 초반 스노우볼링에 어려움을 겪고 있어, 이번 경기에서는 보다 공격적인 초반 설계와 유기적인 움직임이 중요할 것으로 예상됩니다.
 
 <br><br>
 
 
 
-### <img src="/images/wing-away.png" width="31" height="30" style="vertical: middle;"> T1 분석
+### <img src="/logoss/t1.png" width="31" height="30" style="vertical: middle;"> T1 분석
 T1은 내부 데이터베이스상 한진 브리온과의 최근 두 번의 맞대결에서 모두 2대0 완승을 거두며 압도적인 상성을 입증했습니다. T1은 정교한 라인전과 완벽한 오브젝트 관리 능력을 바탕으로 경기를 주도하며 상대를 압박하는 전략에 능합니다. 특히 주요 선수들의 뛰어난 개인 기량과 한타에서의 집중력은 현재 LCK 내에서도 최고 수준을 자랑하며, 밴픽 단계에서도 상대의 의도를 정확히 파악하고 유연하게 대처하는 능력이 탁월합니다. 현재까지 알려진 결장자 정보는 없으며, 안정적인 팀워크를 바탕으로 이번 경기에서도 우위를 점할 가능성이 높습니다.
 
 <br><br>

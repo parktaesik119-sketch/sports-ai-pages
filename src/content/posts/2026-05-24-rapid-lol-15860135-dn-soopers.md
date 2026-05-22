@@ -8,26 +8,26 @@ country: "대한민국"
 league: "LCK"
 homeTeam: "DN SOOPers"
 awayTeam: "Gen.G"
-homeLogo: "/images/wing-home.png"
-awayLogo: "/images/wing-away.png"
+homeLogo: "/logos/dn-soopers.png"
+awayLogo: "/logoss/gen-g.png"
 ---
 
 ### 🏟️ 경기 정보 요약
 | <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
 |:---|:---|
-| **<span style="color: #007bff;">홈팀</span>** | <img src="/images/wing-home.png" width="31" height="30" style="vertical-align: middle;"> **DN SOOPers** |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="/images/wing-away.png" width="31" height="30" style="vertical-align: middle;"> **Gen.G** |
+| **<span style="color: #007bff;">홈팀</span>** | <img src="/logos/dn-soopers.png" width="31" height="30" style="vertical-align: middle;"> **DN SOOPers** |
+| **<span style="color: #007bff;">원정팀</span>** | <img src="/logoss/gen-g.png" width="31" height="30" style="vertical-align: middle;"> **Gen.G** |
 | **<span style="color: #007bff;">리그</span>** | **대한민국: LCK** |
 | **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 24. 17:00** |
 
-### <img src="/images/wing-home.png" width="31" height="30" style="vertical-align: middle;"> DN SOOPers 분석
+### <img src="/logos/dn-soopers.png" width="31" height="30" style="vertical-align: middle;"> DN SOOPers 분석
 DN SOOPers는 현재 전 세계 랭킹 176위에 머물러 있으며, 최근 6연패를 기록하는 등 매우 부진한 경기력을 보이고 있습니다. 팀의 승률은 20%대 초반에 불과하며, 2025년에는 16연패를 기록했던 전례가 있어 전반적인 경기 운영 능력과 후반 집중력에 약점을 드러내고 있습니다. 특히 라인전 단계에서 상대에게 주도권을 쉽게 내주는 경향이 잦으며, 주요 오브젝트 컨트롤 싸움에서도 아쉬운 모습을 보이며 경기를 어렵게 끌고 가는 경우가 많습니다. <br>최근 경기들을 살펴보면 킬 스코어와 데스 관리에서 불안정한 지표를 보여주고 있으며, 이는 팀의 낮은 승률로 직결되고 있습니다. 현재 DN SOOPers의 주전 로스터에 특이할 만한 결장 소식은 없으나, 전반적인 팀 컨디션과 사기 저하가 우려되는 상황입니다.
 
 <br><br>
 
 
 
-### <img src="/images/wing-away.png" width="31" height="30" style="vertical-align: middle;"> Gen.G 분석
+### <img src="/logoss/gen-g.png" width="31" height="30" style="vertical-align: middle;"> Gen.G 분석
 Gen.G는 전 세계 랭킹 4위에 빛나는 압도적인 강팀으로, 총 430경기 중 약 318승을 거두며 높은 승률을 기록하고 있습니다. 2025년에는 27연승을 달성하고 Esports World Cup 2025에서 우승하는 등 꾸준히 최상위권의 기량을 유지하고 있습니다. Gen.G는 강력한 라인전과 유기적인 팀 플레이를 바탕으로 초반부터 상대를 압박하며 킬 스코어 격차를 벌려나가는 데 능숙합니다. <br>특히 용과 바론 등 핵심 오브젝트를 효과적으로 관리하여 스노우볼을 굴리는 능력이 뛰어나며, 다양한 밴픽 전략을 통해 상대의 허를 찌르는 데도 일가견이 있습니다. <br>최근 T1 등 강팀과의 경기에서도 준수한 경기력을 보여주며 꾸준히 좋은 흐름을 이어가고 있으며, 현재까지 알려진 주요 로스터의 결장 소식은 없습니다.
 
 <br><br>
