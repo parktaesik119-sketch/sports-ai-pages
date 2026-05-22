@@ -406,6 +406,19 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
 
   /* 모바일 화면 크기 대응을 위한 미디어쿼리 최적화 */
   @media (max-width: 767px) {
+
+    /* 1️⃣ 최외곽 컨테이너의 좌우 패딩을 없애 화면 끝까지 늘립니다 */
+    .main-layout-container {
+      padding: 0 4px !important; /* 👈 기존 0 15px에서 4px로 확 줄여서 양옆 밀착 */
+      margin: 10px auto !important;
+    }
+
+    /* 2️⃣ 흰색 배경판(.board-section) 자체의 둥근 모서리를 줄이고 폭을 100%로 고정 */
+    .board-section {
+      border-radius: 4px !important; /* 👈 화면에 꽉 차므로 둥근 모서리를 살짝만 줌 */
+      box-shadow: none !important;  /* 👈 모바일에서는 불필요한 그림자 제거로 깔끔하게 */
+    }
+    
     .board-header-center {
       flex-direction: column;
       /* 모바일 환경에서는 위아래로 깔끔히 적층 */
