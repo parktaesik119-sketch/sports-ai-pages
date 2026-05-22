@@ -988,6 +988,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "KHL": "러시아",
     "NHL": "미국",
     "ASIA CHAMPIONS LEAGUE": "국제",
+    "EuropeE": "유럽",
   };
 
   const countryMap = {
