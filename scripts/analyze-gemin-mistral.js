@@ -189,6 +189,8 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
     "Brazil": ["SERIE B"],
     "Saudi-Arabia": ["DIVISION 1"],
     "Egypt": ["CUP"],
+    "Venezuela": ["Segunda División"],
+    "Uruguay": ["Segunda División"],
   };
 
   if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => upperLg.includes(bl.toUpperCase()))) {
