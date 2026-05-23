@@ -297,8 +297,13 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   const homeFile = getSafeLogoName(match.home);
   const awayFile = getSafeLogoName(match.away);
 
-  const homePath = path.join(process.cwd(), 'logos', `${homeFile}.png`);
-  const awayPath = path.join(process.cwd(), 'logos', `${awayFile}.png`);
+  const homePath = path.resolve(__dirname, '../logos', `${homeFile}.png`);
+  const awayPath = path.resolve(__dirname, '../logos', `${awayFile}.png`);
+
+  // 🔍 아래 디버깅 코드를 잠시 추가해서 터미널에 찍히는 실제 절대경로를 확인해보세요!
+  console.log(`[경로 디버깅] DB팀명: ${match.home} -> 변환파일명: ${homeFile}.png`);
+  console.log(`[경로 디버깅] 실제 찾는 절대경로: ${homePath}`);
+  console.log(`[경로 디버깅] 파일 존재 여부: ${fs.existsSync(homePath)}`);
 
   match.homeLogo = fs.existsSync(homePath)
     ? `/logos/${homeFile}.png`
@@ -996,6 +1001,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "NHL": "미국",
     "ASIA CHAMPIONS LEAGUE": "국제",
     "EuropeE": "유럽",
+    "LCS": "북미",
   };
 
   const countryMap = {
