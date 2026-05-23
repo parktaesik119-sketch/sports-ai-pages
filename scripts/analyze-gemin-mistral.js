@@ -60,6 +60,7 @@ const TEAM_NAME_MAP = {
   "Lechia Gdansk": "레히아 그단스크",
   "Widzew Łódź": "비드제브 로즈",
   "Xac Broncos": "Xac 브롱코스",
+  "Ventforet Kofu": "방포레 고후",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
@@ -522,8 +523,8 @@ if (isFreePassLeague) {
         3. **구조 유지**: 2열 표 형식을 유지하고 중앙 또는 왼쪽 정렬 문법을 사용하라.
         | | |
         |:---|:---|
-        | **<span style="color: #007bff;","vertical-align: middle;">홈팀</span>**| <img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;"> ${match.home} |
-        | **<span style="color: #007bff;","vertical-align: middle;">원정팀</span>**| <img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;"> ${match.away} |
+        | **<span style="color: #007bff;","vertical-align: middle;">홈팀</span>**| <img src="${match.homeLogo || ''}" width="30" height="30" style="vertical-align: middle;"> ${match.home} |
+        | **<span style="color: #007bff;","vertical-align: middle;">원정팀</span>**| <img src="${match.awayLogo || ''}" width="30" height="30" style="vertical-align: middle;"> ${match.away} |
         | **<span style="color: #007bff;">리그</span>**| [해당 경기의 국가명]: [치환 규칙이 적용된 리그명] |
         | **<span style="color: #007bff;">경기시간</span>**| **${matchTimeStr}** |
 
