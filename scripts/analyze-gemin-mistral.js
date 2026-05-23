@@ -298,13 +298,8 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   const homeFile = getSafeLogoName(match.home);
   const awayFile = getSafeLogoName(match.away);
 
-  const homePath = path.resolve(__dirname, '../logos', `${homeFile}.png`);
-  const awayPath = path.resolve(__dirname, '../logos', `${awayFile}.png`);
-
-  // 🔍 아래 디버깅 코드를 잠시 추가해서 터미널에 찍히는 실제 절대경로를 확인해보세요!
-  console.log(`[경로 디버깅] DB팀명: ${match.home} -> 변환파일명: ${homeFile}.png`);
-  console.log(`[경로 디버깅] 실제 찾는 절대경로: ${homePath}`);
-  console.log(`[경로 디버깅] 파일 존재 여부: ${fs.existsSync(homePath)}`);
+  const homePath = path.resolve(__dirname, '../public/logos', `${homeFile}.png`);
+  const awayPath = path.resolve(__dirname, '../public/logos', `${awayFile}.png`);
 
   match.homeLogo = fs.existsSync(homePath)
     ? `/logos/${homeFile}.png`
@@ -1085,10 +1080,19 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
 }
 
   // 10. 제목 및 저장
+<<<<<<< Updated upstream
   const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 스포츠픽`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
   
+=======
+  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} 스포츠분석 스포츠픽`;
+    // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
+  cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
+  const catNames = { "soccer": "축구", "basketball": "농구", "baseball": "야구", "volleyball": "배구", "hockey": "하키", "lol": "롤" };
+  const korCat = catNames[cat] || "스포츠";
+
+>>>>>>> Stashed changes
   const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #무료스포츠픽 #스포츠분석\n</div>`;
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
