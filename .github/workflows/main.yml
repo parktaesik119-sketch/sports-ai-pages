@@ -4,28 +4,37 @@ on:
   schedule:
     # ☀️ 한국 시간 기준 오전 8시 11분 (UTC 23:11 - 전날)
     - cron: '11 23 * * *'
-    # 🌙 한국 시간 기준 오후 11시 21분 (UTC 14:21)
-    # (KST 21:21 - 9시간 = UTC 12:21)
+
+    # 🌙 한국 시간 기준 오후 9시 21분 (UTC 12:21)
     - cron: '21 12 * * *'
-  workflow_dispatch: # 수동으로 즉시 실행해볼 수 있는 버튼 생성
+
+  workflow_dispatch:
 
 permissions:
-  contents: write  
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
+    steps:
+      # 저장소 체크아웃
+      - name: 저장소 가져오기
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Node.js 설치
       - name: Node.js 설정
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
 
+      # 패키지 설치
       - name: 의존성 설치
         run: npm install
 
+      # 자동 분석 실행
       - name: 데이터 수집 및 AI 분석 실행
         run: node scripts/main-auto.js
         env:
@@ -36,23 +45,26 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           RAPID_KEY: ${{ secrets.RAPID_KEY }}
 
+      # 생성 파일 자동 커밋 및 푸쉬
       - name: 생성된 글을 깃허브에 푸쉬
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 1. 원격 저장소의 최신 변경사항을 가져오되, 내가 만든 파일(Staging되지 않은 파일)은 유지하며 pull
-          git stash --include-untracked || true
-          git pull --rebase origin main
-          git stash pop || true
-          
-          # 2. 생성된 모든 파일(글+데이터)을 스테이징
+
+          # 생성된 파일 추가
           git add .
-          
-          # 3. 변경사항이 있을 때만 커밋 및 푸쉬
+
+          # 변경사항 있을 때만 커밋
           if [ -n "$(git status --porcelain)" ]; then
+
             git commit -m "🤖 자동 분석글 및 데이터 업데이트"
-            git push origin main
+
+            # 로컬 작업과 충돌 방지용 최신 main 반영
+            git pull --rebase https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+
+            # 푸쉬
+            git push
+
           else
             echo "업데이트할 파일이 없습니다."
           fi
