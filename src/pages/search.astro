@@ -3,13 +3,17 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 const allPosts = await getCollection('posts');
+
+const limitedPosts = allPosts
+  .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
+  .slice(0, 300);
 ---
 
 <BaseLayout title="검색 결과">
   <main class="search-container">
     <h2 class="search-title">🔍 검색 결과</h2>
 
-    <div id="posts-data" data-json={JSON.stringify(allPosts)}></div>
+    <div id="posts-data" data-json={JSON.stringify(limitedPosts)}></div>
 
     <ul class="search-list">
       </ul>
