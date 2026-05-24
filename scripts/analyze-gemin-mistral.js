@@ -496,7 +496,7 @@ if (isFreePassLeague) {
         9. 출력 시 반드시 최종 분석 보고서 결과만 출력하고, 내부 추론 과정이나 검색 결과에 대한 코멘트, ***나 ### 같은 불필요한 기호, 영어로 된 분석 메모는 절대 포함하지 마세요.
 
         [제목 형식 지시] 
-        - 반드시 다음 형식을 엄수하라: "{dateShort} {country} [{league}] {home} vs {away} 스포츠분석 스포츠픽"
+        - 반드시 다음 형식을 엄수하라: "{dateShort} {country} [{league}] {home} vs {away} 스포츠분석 무료스포츠픽 픽천국"
         - 상단 TITLE 라인의 팀명은 반드시 한글로 번역해서 사용해라.(국가명일 경우에도 한글로 번역해라)
         - 날짜는 반드시 ${dateShort} 변수값 그대로 사용할 것. (2026/07/20 처럼 길게 쓰지 말 것)
         - 국가명 중 '한국', '대한민국'은 '대한민국'으로 통일해라
@@ -891,7 +891,7 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   // const aiHomeName = match.homeNameKor || match.home || "홈팀";
   // const aiAwayName = match.awayNameKor || match.away || "원정팀";
 
-  let extractedDesc = `${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 리포트 무료 스포츠픽`; // 기본값
+  let extractedDesc = `${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 리포트 무료 스포츠픽 픽천국`; // 기본값
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
@@ -1087,7 +1087,7 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
 }
 
   // 10. 제목 및 저장
-  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 스포츠픽`;
+  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 무료스포츠픽 픽천국`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
 

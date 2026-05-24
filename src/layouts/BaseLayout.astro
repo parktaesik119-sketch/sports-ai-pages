@@ -49,6 +49,10 @@ const { currentCategory } = Astro.props;
     <meta name="twitter:card" content="summary_large_image" />
 
     <meta name="referrer" content="no-referrer" />
+
+    {Astro.props.noindex && (
+  <meta name="robots" content="noindex, follow" />
+  )}
   </head>
 
   <body>
