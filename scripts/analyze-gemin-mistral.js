@@ -61,6 +61,12 @@ const TEAM_NAME_MAP = {
   "Widzew Łódź": "비드제브 로즈",
   "Xac Broncos": "Xac 브롱코스",
   "Ventforet Kofu": "방포레 고후",
+  "Công An Nhân Dân": "하노이 폴리스",
+  "Meizhou Kejia": "메이저우 하카",
+  "Taipower": "대만전력",
+  "Tatung": "래퍼드 캣 FC",
+  "Meshakhte": "마사크테 트빌리시",
+  "Universitatea Craiova": "Univ 크라이오바",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
@@ -190,8 +196,10 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
     "Brazil": ["SERIE B"],
     "Saudi-Arabia": ["DIVISION 1"],
     "Egypt": ["CUP"],
-    "Venezuela": ["Segunda División"],
-    "Uruguay": ["Segunda División"],
+    "Venezuela": ["SEGUNDA DIVISIÓN"],
+    "Uruguay": ["SEGUNDA DIVISIÓN"],
+    "USA": ["USL LEAGUE ONE"],
+    "England": ["LEAGUE ONE"],
   };
 
   if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => upperLg.includes(bl.toUpperCase()))) {
@@ -210,13 +218,12 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
   const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE', 'CONMEBOL LIBERTADORES', 'COPA LIBERTADORES'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
-  const isFirstDivision = ['DIVISION 1', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', 'AFC WOMEN\'S CHAMPIONS LEAGUE', 'A-LEAGUE', 'EKSTRAKLASA'].some(el => el === upperLg);
+ const isFirstDivision = ['DIVISION 1','1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE", 'A-LEAGUE', 'EKSTRAKLASA', 'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE', 'EROVNULI LIGA','DFB POKAL'].some(el => el === upperLg);
 
   // 축구 통합 필터
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
   // 2. 농구 
-  const basketball = ((upperLg === 'NBA') && !upperLg.includes('WNBA') && !upperLg.includes('NBA W')) || 
-                     ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B League', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE'].some(el => el === upperLg);
+  const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B League', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W'].some(el => el === upperLg);
   // 3. 배구 
   const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL'].some(el => el === upperLg);
   // 4. 야구 
