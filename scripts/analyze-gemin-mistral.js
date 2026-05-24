@@ -459,7 +459,7 @@ if (isFreePassLeague) {
         
         [금지 사항]
         1. 한자(한문), 일어 사용 절대 금지: 100% 쉬운 한글로만 작성.
-        2. 마크다운 코드블록기호(\`\`\`) 사용 금지
+        2. markdown 문법 및 ###, ##, #, **, __, ---, *** 같은 코드블록기호(\`\`\`) 사용 금지
         3. 추천픽은 배당은 기재하면 안된다.
         4. 허용 리그 외 분석 금지
         5. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. (예시로 든 아스널, 리버풀 같은 팀을 본문에 절대 적지 마세요.)
@@ -922,6 +922,17 @@ cleanedText = cleanedText.split('\n').filter(line => {
 
   // AI가 생성한 본문에 이미 "업데이트" 관련 문구가 있다면 제거 (중복 방지)
   cleanedText = cleanedText.replace(/\(※업데이트 예정\)/g, "");
+  // 🔥 markdown 불필요 기호 정리
+  // 단독 ### 라인 제거
+  cleanedText = cleanedText.replace(/^#{1,6}\s*$/gm, "");
+  // *** 단독 라인 제거
+  cleanedText = cleanedText.replace(/^\*{3,}$/gm, "");
+  // --- 단독 라인 제거
+  cleanedText = cleanedText.replace(/^-{3,}$/gm, "");
+  // **텍스트** → 텍스트
+  cleanedText = cleanedText.replace(/\*\*(.*?)\*\*/g, "$1");
+  // __텍스트__ → 텍스트
+  cleanedText = cleanedText.replace(/__(.*?)__/g, "$1");
    // AI가 줄바꿈을 빼먹는 경우를 대비해 섹션 타이틀 앞뒤로 빈 줄을 강제 삽입합니다.
   cleanedText = cleanedText.replace(/### /g, "\n\n### ");
 
