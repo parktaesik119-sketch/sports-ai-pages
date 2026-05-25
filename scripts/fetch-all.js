@@ -81,20 +81,19 @@ function isSimilar(a, b) {
  */
 function getTargetDates() {
   const dates = [];
-  const now = new Date(); // 현재 기준 시스템 시각 활용
+  const now = new Date();
 
-  // -2일(과거 48시간)부터 +2일(미래 48시간)까지 안전하게 KST 날짜 배열 생성
+  const formatter = new Intl.DateTimeFormat("ko-KR", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    timeZone: "Asia/Seoul"
+  });
+
+  // -2일부터 +2일까지만 안전하게 KST 날짜 배열 생성
   for (let i = -2; i <= 2; i++) {
-    const targetDate = new Date(now);
+    const targetDate = new Date(now.getTime());
     targetDate.setDate(now.getDate() + i);
-    
-    // 한국 시간대 기준으로 YYYY-MM-DD 문자열 포맷팅
-    const formatter = new Intl.DateTimeFormat("ko-KR", {
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      timeZone: "Asia/Seoul"
-    });
     
     const parts = formatter.formatToParts(targetDate);
     const year = parts.find(p => p.type === 'year').value;
@@ -107,17 +106,30 @@ function getTargetDates() {
 }
 
 function getDateRange() {
+  const now = new Date();
+  
+  // 현재 시점 기준 -2일(48시간 전)과 +2일(48시간 후) 객체 생성
+  const fromDate = new Date(now.getTime() - (48 * 60 * 60 * 1000));
+  const toDate = new Date(now.getTime() + (48 * 60 * 60 * 1000));
 
-  // 현재 한국시간
-  const nowKst = new Date(Date.now() + (9 * 60 * 60 * 1000));
-
-  // ±48시간
-  const fromDate = new Date(nowKst.getTime() - (48 * 60 * 60 * 1000));
-  const toDate = new Date(nowKst.getTime() + (48 * 60 * 60 * 1000));
+  // 한국 시간대 기준 YYYY-MM-DD 변환 함수
+  const formatKst = (date) => {
+    const formatter = new Intl.DateTimeFormat("ko-KR", {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      timeZone: "Asia/Seoul"
+    });
+    const parts = formatter.formatToParts(date);
+    const year = parts.find(p => p.type === 'year').value;
+    const month = parts.find(p => p.type === 'month').value;
+    const day = parts.find(p => p.type === 'day').value;
+    return `${year}-${month}-${day}`;
+  };
 
   return {
-    from: fromDate.toISOString().split("T")[0],
-    to: toDate.toISOString().split("T")[0]
+    from: formatKst(fromDate),
+    to: formatKst(toDate)
   };
 }
 
