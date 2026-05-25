@@ -108,25 +108,27 @@ function getTargetDates() {
 function getDateRange() {
   const now = new Date();
   
-  // 현재 시점 기준 -2일(48시간 전)과 +2일(48시간 후) 객체 생성
-  const fromDate = new Date(now.getTime() - (48 * 60 * 60 * 1000));
-  const toDate = new Date(now.getTime() + (48 * 60 * 60 * 1000));
+  // 1. 한국 시간대 포맷터 정의 (서버/로컬 타임존 무력화)
+  const formatter = new Intl.DateTimeFormat("ko-KR", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    timeZone: "Asia/Seoul"
+  });
 
-  // 한국 시간대 기준 YYYY-MM-DD 변환 함수
-  const formatKst = (date) => {
-    const formatter = new Intl.DateTimeFormat("ko-KR", {
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      timeZone: "Asia/Seoul"
-    });
-    const parts = formatter.formatToParts(date);
+  const formatKst = (dateObj) => {
+    const parts = formatter.formatToParts(dateObj);
     const year = parts.find(p => p.type === 'year').value;
     const month = parts.find(p => p.type === 'month').value;
     const day = parts.find(p => p.type === 'day').value;
     return `${year}-${month}-${day}`;
   };
 
+  // 2. 현재 시점을 기반으로 정확하게 -2일과 +2일 시점을 계산
+  const fromDate = new Date(now.getTime() - (48 * 60 * 60 * 1000));
+  const toDate = new Date(now.getTime() + (48 * 60 * 60 * 1000));
+
+  // 3. toISOString 대신 한국 시간대 포맷터를 거친 문자열 반환
   return {
     from: formatKst(fromDate),
     to: formatKst(toDate)
