@@ -53,6 +53,26 @@ function normalizeName(name) {
     .trim();
 }
 
+// ==========================
+// 🇰🇷 KST 날짜 변환 함수
+// ==========================
+function formatKSTDate(dateInput) {
+  const formatter = new Intl.DateTimeFormat("ko-KR", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    timeZone: "Asia/Seoul"
+  });
+
+  const parts = formatter.formatToParts(new Date(dateInput));
+
+  const year = parts.find(p => p.type === 'year').value;
+  const month = parts.find(p => p.type === 'month').value;
+  const day = parts.find(p => p.type === 'day').value;
+
+  return `${year}-${month}-${day}`;
+}
+
 function isSimilar(a, b) {
   if (!a || !b) return false;
 
@@ -141,13 +161,13 @@ function getDateRange() {
 function getMatchedData(match, allOdds, allScores) {
   if (!match.date) return match;
   
-  const matchDateStr = new Date(match.date).toISOString().split('T')[0];
+  const matchDateStr = formatKSTDate(match.date);
   const homeNorm = normalizeName(match.home);
   const awayNorm = normalizeName(match.away);
 
   // 1. 해당 경기의 배당 정보 찾기
   const oddsInfo = (allOdds || []).find(o => {
-    const oDateStr = new Date(o.commence_time).toISOString().split('T')[0];
+    const oDateStr = formatKSTDate(o.commence_time);
     const oHomeNorm = normalizeName(o.home_team);
     const oAwayNorm = normalizeName(o.away_team);
 
@@ -243,7 +263,7 @@ function getMatchedData(match, allOdds, allScores) {
   // 2. 실시간 스코어 매칭 (The Odds API 기반 보조 스코어)
   const scoresList = Array.isArray(allScores) ? allScores : [];
   const scoreInfo = scoresList.find(s => {
-    const sDateStr = new Date(s.commence_time).toISOString().split('T')[0];
+    const sDateStr = formatKSTDate(s.commence_time);
     return (
   sDateStr === matchDateStr &&
   isSimilar(normalizeName(s.home_team), homeNorm) &&
@@ -479,15 +499,15 @@ scheduleTasks.push(fetchRapidSoccerRange());
     // 중복 체크 및 업데이트 로직 (Key: 날짜_홈팀_원정팀)
     const map = new Map();
     existingFixtures.forEach(m => {
-      const dKey = new Date(m.date).toISOString().split("T")[0];
-      const key = `${dKey}_${normalizeName(m.home)}_${normalizeName(m.away)}`;
-      map.set(key, m);
-    });
+  const dKey = formatKSTDate(m.date);
+  const key = `${dKey}_${normalizeName(m.home)}_${normalizeName(m.away)}`;
+  map.set(key, m);
+});
 
     // 3) 병합 처리
     mergedData.forEach(newMatch => {
       if (!newMatch.date) return;
-      const dKey = new Date(newMatch.date).toISOString().split("T")[0];
+      const dKey = formatKSTDate(newMatch.date);
       const key = `${dKey}_${normalizeName(newMatch.home)}_${normalizeName(newMatch.away)}`;
 
       if (map.has(key)) {
@@ -527,7 +547,7 @@ scheduleTasks.push(fetchRapidSoccerRange());
     await fs.writeFile(ALL_FIXTURES_FILE, JSON.stringify(finalAllFixtures, null, 2));
 
     // 한국 시간(KST) 기준으로 날짜 문자열 생성 (ISO 8601 형식)
-    const todayKst = new Date(new Date().getTime() + (9 * 60 * 60 * 1000)).toISOString().split("T")[0];
+    const todayKst = formatKSTDate(new Date());
 
     await fs.writeFile(path.join(OUTPUT_DIR, `${todayKst}.json`), JSON.stringify(mergedData, null, 2));
 
