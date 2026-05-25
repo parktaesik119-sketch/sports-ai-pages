@@ -686,13 +686,17 @@ body {
     font-weight: 500;
   }
 
-  /* 닫기 버튼 */
+  /* 닫기 버튼 (오른쪽 정렬을 풀고 absolute를 사용하여 예시 이미지처럼 왼쪽 바깥 영역으로 탈출시킴) */
   .close-btn {
-    align-self: flex-end;
-    font-size: 20px;
+    position: absolute;   /* 👈 중요: 메뉴 상자를 기준으로 절대 좌표 설정 */
+    left: -45px;          /* 👈 중요: 하얀색 메뉴 상자에서 왼쪽으로 45px 삐져나가게 설정 */
+    top: 15px;            /* 👈 전체 메뉴 타이틀과 일직선상에 높이 맞춤 */
+    font-size: 26px;      /* 👈 예시 이미지처럼 크기를 더 크고 또렷하게 키움 */
+    color: #fff;          /* 👈 어두운 배경 회색(dim) 위에서 잘 보이도록 흰색 또는 흐린 회색(#ddd) 추천 */
     background: none;
     border: none;
     cursor: pointer;
+    z-index: 2001;
   }
 
   /* 햄버거 기본 숨김 → 모바일에서만 표시 */
@@ -800,7 +804,7 @@ body {
     right: 20px;
   }
 
-  /* 🔥 모바일 메뉴 */
+/* 🔥 모바일 메뉴 (닫기 버튼 오픈 허용 및 리스트 상단 정렬 바짝 밀착) */
   .mobile-menu {
     position: fixed;
     top: 0;
@@ -811,24 +815,27 @@ body {
 
     display: flex;
     flex-direction: column;
-    padding: 20px;
-    gap: 15px;
+    padding: 12px 20px 20px 20px !important; /* 위쪽 패딩을 20px에서 12px로 줄여 리스트를 위로 올림 */
+    gap: 8px; /* 메뉴 항목 간 간격을 좁혀 촘촘하게 정렬 */
 
     box-shadow: -2px 0 10px rgba(0,0,0,0.1);
     transition: right 0.3s ease;
     z-index: 2000;
+    overflow: visible; /* 하얀 메뉴 상자 바깥으로 나간 버튼을 보이게 설정 */
   }
 
   /* =========================
    🔥 모바일 메뉴 UI 업그레이드
 ========================= */
 
-/* 메뉴 상단 */
+/* 메뉴 상단 (위쪽 마진/패딩을 완전히 제거하여 게시판 리스트를 위로 끌어올림) */
 .mobile-menu::before {
-  content: "MENU";
+  content: "전체 메뉴"; /* 예시 이미지처럼 '전체 메뉴'로 통일 */
   font-size: 18px;
   font-weight: 700;
-  margin-bottom: 10px;
+  margin-top: 0 !important;      /* 위쪽 마진 제거 */
+  margin-bottom: 5px;            /* 아래 메뉴 리스트와의 간격 축소 */
+  padding-top: 0 !important;     /* 위쪽 안쪽 여백 제거 */
   padding-bottom: 10px;
   border-bottom: 2px solid #f1f3f5;
 }
@@ -864,11 +871,17 @@ body {
   background: #eef3f8;
 }
 
-/* 닫기 버튼 */
+/* 닫기 버튼 (오른쪽 배치를 풀고 absolute를 사용해 하얀 상자 왼쪽 바깥으로 완전히 탈출시킴) */
 .close-btn {
-  margin-bottom: 10px;
-  font-size: 22px;
-  color: #555;
+  position: absolute !important;   /* 메뉴 상자를 기준으로 절대적인 위치 지정 */
+  left: -45px !important;          /* 하얀색 메뉴 상자 왼쪽 바깥으로 45px 이동 */
+  top: 12px !important;            /* "전체 메뉴" 글자 서체와 수평 높이를 맞춤 */
+  font-size: 28px !important;      /* 예시 이미지처럼 크기를 더 크고 시원하게 설정 */
+  color: #fff !important;          /* 회색(#555) 대신 어두운 배경 위에서 잘 보이도록 흰색(#fff) 처리 */
+  background: none !important;
+  border: none !important;
+  cursor: pointer;
+  z-index: 2001;
 }
 
 /* 메뉴 전체 패딩 정리 */
@@ -885,14 +898,6 @@ body {
     font-size: 16px;
     color: #111;
     font-weight: 500;
-  }
-
-  .close-btn {
-    align-self: flex-end;
-    font-size: 20px;
-    background: none;
-    border: none;
-    cursor: pointer;
   }
 }
 
@@ -919,81 +924,6 @@ body {
 .menu-overlay.open {
   opacity: 1;
   visibility: visible;
-}
-
-/* =========================
-   🔥 모바일 메뉴 업그레이드
-========================= */
-
-.mobile-menu {
-  position: absolute;
-  top: 0;
-  right: -100%;
-  width: 260px;
-  height: 100%;
-
-  background: #fff;
-
-  display: flex;
-  flex-direction: column;
-  padding: 20px;
-  gap: 5px;
-
-  transition: right 0.3s ease;
-}
-
-.menu-overlay.open .mobile-menu {
-  right: 0;
-}
-
-/* 상단 타이틀 */
-.mobile-menu::before {
-  content: "전체 메뉴";
-  font-size: 18px;
-  font-weight: 700;
-  margin-bottom: 10px;
-  padding-bottom: 10px;
-  border-bottom: 2px solid #f1f3f5;
-}
-
-/* 메뉴 아이템 */
-.mobile-menu a {
-  display: block;
-  padding: 14px 8px;
-
-  font-size: 16px;
-  font-weight: 500;
-  color: #222;
-
-  border-bottom: 1px solid #f1f3f5;
-
-  transition: all 0.2s ease;
-}
-
-.mobile-menu a:last-child {
-  border-bottom: none;
-}
-
-/* hover */
-.mobile-menu a:hover {
-  background: #f8fafc;
-  padding-left: 12px;
-  color: #3b82f6;
-}
-
-/* 클릭 */
-.mobile-menu a:active {
-  background: #eef3f8;
-}
-
-/* 닫기 버튼 */
-.close-btn {
-  align-self: flex-end;
-  font-size: 22px;
-  margin-bottom: 10px;
-  background: none;
-  border: none;
-  cursor: pointer;
 }
 
 /* =========================
@@ -1236,4 +1166,36 @@ body {
 
 .search-item:hover {
   background: #fafafa;
+}
+
+/* ========================================================
+   📱 모바일 메뉴 구조 최종 보정 (기존 중복 스타일 강제 오버라이드)
+   ======================================================== */
+@media (max-width: 1024px) {
+  /* 1. 메뉴 리스트를 최상단 빈 공간으로 바짝 끌어올리기 */
+  .mobile-menu {
+    padding-top: 10px !important;    /* 위쪽 내부 여백을 줄여 메뉴를 위로 밀착 */
+    gap: 4px !important;            /* 게시판 리스트들 사이의 간격을 촘촘하게 축소 */
+    overflow: visible !important;   /* 👈 중요: 바깥으로 빠져나간 X 버튼이 잘리지 않게 방어 */
+  }
+
+  /* 2. '전체 메뉴' 타이틀 주변 불필요한 마진 원천 제거 */
+  .mobile-menu::before {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    margin-bottom: 8px !important;
+  }
+
+  /* 3. 닫기 버튼(X)을 하얀 상자 왼쪽 바깥 영역(예시 이미지 위치)으로 탈출 */
+  .close-btn {
+    position: absolute !important;   /* 모바일 메뉴 상자 기준 절대 좌표 */
+    left: -50px !important;          /* 👈 하얀색 메뉴 상자에서 왼쪽 바깥으로 완전히 꺼냄 */
+    top: 15px !important;            /* '전체 메뉴' 글자 라인과 수평 높이 정렬 */
+    font-size: 28px !important;      /* 크기를 시원하고 또렷하게 확대 */
+    color: #fff !important;          /* 👈 예시처럼 어두운 배경(dim) 위에서 잘 보이도록 흰색 처리 */
+    background: none !important;
+    border: none !important;
+    cursor: pointer !important;
+    z-index: 99999 !important;       /* 다른 요소에 가려지지 않게 최상단 배치 */
+  }
 }
