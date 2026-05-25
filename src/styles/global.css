@@ -662,7 +662,7 @@ body {
     position: fixed;
     top: 0;
     right: -100%;
-    width: 260px;
+    width: 200px;
     height: 100%;
     background: #fff;
 
@@ -927,7 +927,7 @@ body {
   position: absolute;
   top: 0;
   right: -100%;
-  width: 260px;
+  width: 200px;
   height: 100%;
 
   background: #fff;
