@@ -136,7 +136,7 @@ async function analyzeMatches() {
   '1. DIVISION', 'FEDERACION', 'SUPER LEAGUE 2', '2. Deild', '3. Division', '3. Division - Girone 6', 'UEFA Europa Conference League', 'Ykkösliiga', 'Kakkonen - Lohko C', 'Kakkonen - Lohko A', 'Kakkonen - Lohko B', 'Kakkonen', 'Superettan', 'Ettan - Södra', 'Ettan - Norra', 'Ettan', 'Division 2 - Norra Götaland', 'Division 2 - Östra Götaland', 'Götaland', 'Division 2 - Västra Götaland', 'Damallsvenskan', 'Division 2 - Norrland', 'First Division',
   'U18 PREMIER LEAGUE', 'PREMIER LEAGUE INTERNATIONAL CUP', 'Elitettan', 'Damallsvenskan', 'Ettan', 'Svealand', 'Prime League', 'North American', 'NWSL', 'Central', 'MLS Next Pro',
     // 농구 및 기타 (Basketball & Others)
-  'ABA LEAGUE', 'USL CHAMPIONSHIP', 'BAHRAIN', 'Balkan', 'HLL', 'LES', 'Circuito', 'LRS', 'Legends',  'ACB', 'NBL', 'USHL', 'SHL', 'Liiga', 'DEL', 'SuperLega', 'PlusLiga', 'LFL', 'Prime League', 'Arabian League', 'TCL', 'Regular', 'LIT', 'BSN', 'LNB', 'LBP', 'PCL', 'SPHL', 'ECHL', 'Regular Season','Esports World Cup', 'LPLOL Regular Season', 'LPLOL REGULAR SEASON', 'LEC', 'LCS',
+  'ABA LEAGUE', 'USL CHAMPIONSHIP', 'BAHRAIN', 'Balkan', 'HLL', 'LES', 'Circuito', 'LRS', 'Legends',  'ACB', 'NBL', 'USHL', 'SHL', 'Liiga', 'DEL', 'SuperLega', 'PlusLiga', 'LFL', 'Prime League', 'Arabian League', 'TCL', 'Regular', 'LIT', 'BSN', 'LNB', 'LBP', 'PCL', 'SPHL', 'ECHL', 'Regular Season','Esports World Cup', 'LPLOL Regular Season', 'LPLOL REGULAR SEASON',
 ];
 
   // ⬇️ 제외하고 싶은 국가명을 정확히 입력하세요 //대소문자 구분없음
@@ -235,7 +235,7 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   const normalizedLg = upperLg
   .replace(/\s+/g, '')
   .replace(/ROUNDS?.*|WEEK.*|GROUP.*|STAGE.*|PLAYOFFS?.*/i, '');
-  const lol = ['LCK','LCK CL','LPL', 'LCS','MSI','WORLD','WORLDS','INTERNATIONAL','ESPORTSWORLDCUP','LCKCHALLENGERSLEAGUE'].includes(normalizedLg);
+  const lol = ['LCK','LCK CL','LPL', 'LCS', 'LEC', 'MSI','WORLD','WORLDS','INTERNATIONAL','ESPORTSWORLDCUP','LCKCHALLENGERSLEAGUE'].includes(normalizedLg);
 
   // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam)'를 추가
   const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam;
