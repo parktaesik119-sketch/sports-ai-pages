@@ -67,6 +67,7 @@ const TEAM_NAME_MAP = {
   "Tatung": "래퍼드 캣 FC",
   "Meshakhte": "마사크테 트빌리시",
   "Universitatea Craiova": "Univ 크라이오바",
+  "Toledo Mud Hens": "톨레도 머드헨스"
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
@@ -227,7 +228,7 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   // 3. 배구 
   const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL'].some(el => el === upperLg);
   // 4. 야구 
-  const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'ABL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
+  const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'ABL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'IL'].some(el => el === upperLg);
   // 5. 하키 
   const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'BEIJER HOCKEY GAMES', 'WORLD CHAMPIONSHIP' ].some(el => el === upperLg);
   // 6. 롤 
@@ -442,8 +443,8 @@ if (isFreePassLeague) {
 
     const fullKstSchedule = matchDateKST.toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false });
 
-    const hName = TEAM_NAME_MAP[match.home] || match.home;
-    const aName = TEAM_NAME_MAP[match.away] || match.away;
+    const aiHomeName = TEAM_NAME_MAP[match.home] || match.home;
+    const aiAwayName = TEAM_NAME_MAP[match.away] || match.away;
 
     const gameContext = cat === 'lol' ? "이 경기는 '리그오브레전드(롤)' 이스포츠 경기다. 절대 농구나 축구로 착각하지 마라." : "";
 
@@ -468,7 +469,7 @@ if (isFreePassLeague) {
 
         [팀명 한글화 절대 원칙]
         1. 처리 순서: 분석을 시작하기 전, 제공된 영문 팀명(예: Cleveland Cavaliers)을 가장 먼저 표준 한국어 명칭(예: 클리블랜드 캐벌리어스)으로 변환하라.
-        2. 모든 팀 이름은 반드시 한글(${hName}, ${aName})로만 작성하세요.
+        2. 모든 팀 이름은 반드시 한글(${aiHomeName}, ${aiAwayName})로만 작성하세요.
         3. 적용 범위: 변환된 한글 팀명을 TITLE, 경기 정보 요약 표, 각 섹션의 부제목, 추천픽 표 등 보고서 전체에 100% 적용하라.
         4. 팀명 뒤 'U20', 'W' 등이 있다면 반드시 한글 뒤에 붙여라.(예: W -> 여 이렇게 하지말고 W로 표기) 
         5. 'DN', 'BNK','TS', 'FC', 'AC', 'SK', 'U20', 'KT' 같은 영문 약자는 번역하지 말고 영문 그대로 유지해라.(예: TS Galaxy -> TS 갤럭시, FC Barcelona -> FC 바르셀로나)
@@ -532,14 +533,14 @@ if (isFreePassLeague) {
 
         <br>
 
-        ### <img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;">  ${aiHomeName} (${match.home}) 분석
+        ### <img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;">  ${aiHomeName} 분석
         [분석 작성 규칙]
         1. **로고 유지 및 이모지 금지**: 반드시 위 <img> 태그 형식을 유지하고, 팀명 앞뒤에 야구공(⚾) 등 임의의 이모지를 절대 넣지 마라.
         2. 3문장 이상의 전문 분석을 작성하고 문단 끝에 <br>을 넣어라.
 
         <br><br>
 
-        ### <img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;"> ${aiAwayName} (${match.away}) 분석
+        ### <img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;"> ${aiAwayName} 분석
         (홈팀 분석 규칙과 동일하게 로고 이미지를 사용하고 이모지를 금지하여 3문장 이상 작성. 문단 끝 <br>)
         <br><br>
 
@@ -990,6 +991,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /LA LIGA/gi, replace: "라리가" },
     { target: /UEFA Europa Conference League/gi, replace: "UEFA 컨퍼런스리그" },
     { target: /CONMEBOL Sudamericana/gi, replace: "코파 수다메리카나" },
+    { target: /IL/gi, replace: "트리플A(IL)" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
@@ -1018,7 +1020,8 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "ASIA CHAMPIONS LEAGUE": "국제",
     "EUROPE": "유럽",
     "LCS": "북미",
-    "CONMEBOL SUDAMERICANA": "남미"
+    "CONMEBOL SUDAMERICANA": "남미",
+    "IL": "미국"
   };
 
   const countryMap = {
