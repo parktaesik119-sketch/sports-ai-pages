@@ -991,7 +991,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /LA LIGA/gi, replace: "라리가" },
     { target: /UEFA Europa Conference League/gi, replace: "UEFA 컨퍼런스리그" },
     { target: /CONMEBOL Sudamericana/gi, replace: "코파 수다메리카나" },
-    { target: /IL/gi, replace: "트리플A(IL)" },
+    { target: /IL/gi, replace: "트리플A-IL" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
