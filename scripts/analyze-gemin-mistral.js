@@ -218,7 +218,7 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
   const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE', 'CONMEBOL LIBERTADORES', 'COPA LIBERTADORES'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
- const isFirstDivision = ['DIVISION 1','1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE", 'A-LEAGUE', 'EKSTRAKLASA', 'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE', 'EROVNULI LIGA','DFB POKAL'].some(el => el === upperLg);
+ const isFirstDivision = ['DIVISION 1','1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE", 'A-LEAGUE', 'EKSTRAKLASA', 'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE', 'EROVNULI LIGA','DFB POKAL', 'CONMEBOL SUDAMERICANA'].some(el => el === upperLg);
 
   // 축구 통합 필터
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
@@ -988,6 +988,8 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /Esports World Cup Playoffs/gi, replace: "Esports World Cup" },
     { target: /Primera División - Apertura/gi, replace: "PRIMERA DIVISIÓN" },
     { target: /LA LIGA/gi, replace: "라리가" },
+    { target: /UEFA Europa Conference League/gi, replace: "UEFA 컨퍼런스리그" },
+    { target: /CONMEBOL Sudamericana/gi, replace: "코파 수다메리카나" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
@@ -1014,8 +1016,9 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "KHL": "러시아",
     "NHL": "미국",
     "ASIA CHAMPIONS LEAGUE": "국제",
-    "EuropeE": "유럽",
+    "EUROPE": "유럽",
     "LCS": "북미",
+    "CONMEBOL SUDAMERICANA": "남미"
   };
 
   const countryMap = {
