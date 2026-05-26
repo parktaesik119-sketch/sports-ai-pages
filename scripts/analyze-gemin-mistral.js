@@ -532,14 +532,14 @@ if (isFreePassLeague) {
 
         <br>
 
-        ### <img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;">  ${match.home} 분석
+        ### <img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;">  ${aiHomeName} (${match.home}) 분석
         [분석 작성 규칙]
         1. **로고 유지 및 이모지 금지**: 반드시 위 <img> 태그 형식을 유지하고, 팀명 앞뒤에 야구공(⚾) 등 임의의 이모지를 절대 넣지 마라.
         2. 3문장 이상의 전문 분석을 작성하고 문단 끝에 <br>을 넣어라.
 
         <br><br>
 
-        ### <img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;"> ${match.away} 분석
+        ### <img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;"> ${aiAwayName} (${match.away}) 분석
         (홈팀 분석 규칙과 동일하게 로고 이미지를 사용하고 이모지를 금지하여 3문장 이상 작성. 문단 끝 <br>)
         <br><br>
 
@@ -891,7 +891,7 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   // const aiHomeName = match.homeNameKor || match.home || "홈팀";
   // const aiAwayName = match.awayNameKor || match.away || "원정팀";
 
-  let extractedDesc = `${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 리포트 무료 스포츠픽 픽천국`; // 기본값
+  let extractedDesc = `${aiHomeName}(${match.home}) vs ${aiAwayName}(${match.away}) ${korCat}분석 스포츠분석 리포트 무료 스포츠픽 픽천국`; // 기본값
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
@@ -1066,8 +1066,8 @@ let country;
   const summaryTable = `### 🏟️ 경기 정보 요약
 | <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
 |:---|:---|
-| **<span style="color: #007bff;">홈팀</span>** | <img src="${match.homeLogo}" width="31" height="30" style="vertical-align: middle;"> **${aiHomeName}** |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="${match.awayLogo}" width="31" height="30" style="vertical-align: middle;"> **${aiAwayName}** |
+| **<span style="color: #007bff;">홈팀</span>** | <img src="${match.homeLogo}" width="31" height="30" style="vertical-align: middle;"> **${aiHomeName} (${match.home})** |
+| **<span style="color: #007bff;">원정팀</span>** | <img src="${match.awayLogo}" width="31" height="30" style="vertical-align: middle;"> **${aiAwayName} (${match.away})** |
 | **<span style="color: #007bff;">리그</span>** | **${country}: ${leagueName}** |
 | **<span style="color: #007bff;">경기시간</span>** | **${new Date(match.date).toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'Asia/Seoul' })}** |`;
 
