@@ -960,7 +960,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
   // 3. 리그명 치환 및 국가 매핑
   let leagueName = match.league || "스포츠";
   const leagueReplacements = [
-    { target: /Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League/gi, replace: "PL" },
+    { target: /Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League/gi, replace: "프리미어리그" },
     { target: /Challengers League/gi, replace: "CL" },
     { target: /LCK CHALLENGERS LEAGUE/gi, replace: "LCK CL" },
     { target: /Friendly International/gi, replace: "국제친선" },
