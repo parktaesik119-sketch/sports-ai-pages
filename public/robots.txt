@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /search
+Disallow: /search/
 
-Sitemap: https://pick79.com/sitemap-index.xml
+Sitemap: https://pick79.com/sitemap.xml
