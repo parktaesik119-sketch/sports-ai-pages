@@ -12,7 +12,7 @@ slug: "about-pick-heaven"
 ‘픽천국(Pick Heaven)’은 철저한 통계적 빅데이터와 종목별 전문가 패널의 집단지성을 결합하여, 매일 독보적인 퀄리티의 무료 스포츠분석과 데이터 기반 스포츠픽을 제공하는 프리미엄 스포츠 정보 플랫폼입니다.<br><br>
 
 결장자 정보, 해외 유명 배당 사이트 3곳 이상의 배당 흐름 트래킹, 정밀한 상대 전적 등 승패를 가르는 핵심 변수들을 현미경 분석하여 전 세계 6대 종목의 날카로운 리포트를 완성합니다.<br><br>
-<img src="https://i.imgur.com/B9bKzfp.jpeg" style="width:100%; display:block; margin:20px auto;" alt="픽천국 일러스트"><br><br>
+<img src="https://i.imgur.com/RNLx4Qh.png" style="width:100%; display:block; margin:20px auto;" alt="픽천국 일러스트"><br><br>
 ---
 
 ## 🌐 전 세계 6대 종목 압도적인 분석 커버리지
