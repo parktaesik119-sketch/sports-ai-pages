@@ -1110,7 +1110,7 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   const dateParts = dateShort.split('/');
   const seoDateTag = dateParts.length === 3 ? `${dateParts[1]}월${dateParts[2]}일` : '오늘';
 
-  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
+  const finalTitle = `${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${dateShort} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
 
