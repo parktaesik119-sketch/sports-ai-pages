@@ -11,6 +11,7 @@ slug: "notice-03"
 이번 개편을 통해 날짜별 카드형태로 한눈에 쉽게 경기일정별 분석글을 확인 할 수 있도록 새롭게 정리하였으며,<br><br>
 경기시간 순서대로 정렬하여 이미 시작된 경기는 아래쪽으로 자동으로 이동하고, <br>
 경기예정인 목록만 곧바로 확인하실 수 있도록 개편되었습니다.<br><br><br>
+<img src="https://i.imgur.com/FeCJbyt.png" style="width:100%; display:block; margin:20px auto;">
 
 
 <a href="https://t.me/pickheaven_official">'픽천국 공식채널'로 이동하기</a><br><br>
