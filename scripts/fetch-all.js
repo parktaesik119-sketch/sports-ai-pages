@@ -77,7 +77,7 @@ function isSimilar(a, b) {
 }
 
 /**
- * 호출 기간 설정: 현재 기준 -2일 ~ +2일 (총 5일)
+ * 호출 기간 설정: 현재 기준 -1일 ~ +3일 (총 5일)
  */
 function getTargetDates() {
   const dates = [];
@@ -91,8 +91,8 @@ function getTargetDates() {
     timeZone: "Asia/Seoul"
   });
 
-  // -2일부터 +2일
-  for (let i = -2; i <= 2; i++) {
+  // -1일부터 +3일
+  for (let i = -1; i <= 3; i++) {
     const targetDate = new Date(now.getTime());
     targetDate.setDate(now.getDate() + i);
     
@@ -126,8 +126,8 @@ function getDateRange() {
   };
 
   // 2. 현재 시점을 기반으로 정확하게 -2일과 +2일 시점을 계산
-  const fromDate = new Date(now.getTime() - (48 * 60 * 60 * 1000));
-  const toDate = new Date(now.getTime() + (48 * 60 * 60 * 1000));
+  const fromDate = new Date(now.getTime() - (24 * 60 * 60 * 1000));
+  const toDate = new Date(now.getTime() + (72 * 60 * 60 * 1000));
 
   // 3. toISOString 대신 한국 시간대 포맷터를 거친 문자열 반환
   return {
@@ -532,7 +532,7 @@ scheduleTasks.push(fetchRapidSoccerRange());
     const todayKst = `${nowKst.getFullYear()}-${String(nowKst.getMonth() + 1).padStart(2, '0')}-${String(nowKst.getDate()).padStart(2, '0')}`;
 
     await fs.writeFile(path.join(OUTPUT_DIR, `${todayKst}.json`), JSON.stringify(mergedData, null, 2));
-    
+
     console.log(`✅ 업데이트 완료: 총 ${finalAllFixtures.length}건의 데이터가 누적 저장되었습니다.`);
   } catch (err) {
     console.error("❌ 통합 프로세스 에러:", err.stack);

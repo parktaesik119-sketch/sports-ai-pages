@@ -497,7 +497,7 @@ if (isFreePassLeague) {
         9. 출력 시 반드시 최종 분석 보고서 결과만 출력하고, 내부 추론 과정이나 검색 결과에 대한 코멘트, ***나 ### 같은 불필요한 기호, 영어로 된 분석 메모는 절대 포함하지 마세요.
 
         [제목 형식 지시] 
-        - 반드시 다음 형식을 엄수하라: "{dateShort} {country} [{league}] {home} vs {away} 스포츠분석 무료스포츠픽 픽천국"
+        - 반드시 다음 형식을 엄수하라: "{country} [{league}] {home} vs {away} {dateShort} 스포츠분석 | 무료스포츠픽 - 픽천국"
         - 상단 TITLE 라인의 팀명은 반드시 한글로 번역해서 사용해라.(국가명일 경우에도 한글로 번역해라)
         - 날짜는 반드시 ${dateShort} 변수값 그대로 사용할 것. (2026/07/20 처럼 길게 쓰지 말 것)
         - 국가명 중 '한국', '대한민국'은 '대한민국'으로 통일해라
@@ -892,7 +892,7 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   // const aiHomeName = match.homeNameKor || match.home || "홈팀";
   // const aiAwayName = match.awayNameKor || match.away || "원정팀";
 
-  let extractedDesc = `${aiHomeName}(${match.home}) vs ${aiAwayName}(${match.away}) ${korCat}분석 스포츠분석 리포트 무료 스포츠픽 픽천국`; // 기본값
+  let extractedDesc = `${aiHomeName}(${match.home}) vs ${aiAwayName}(${match.away}) ${dateShort} ${korCat}분석 스포츠분석리포트 | 무료스포츠픽 - 픽천국`; // 기본값
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
@@ -961,7 +961,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
   // 3. 리그명 치환 및 국가 매핑
   let leagueName = match.league || "스포츠";
   const leagueReplacements = [
-    { target: /Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League/gi, replace: "프리미어리그" },
+    { target: /Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League/gi, replace: "P.L" },
     { target: /Challengers League/gi, replace: "CL" },
     { target: /LCK CHALLENGERS LEAGUE/gi, replace: "LCK CL" },
     { target: /Friendly International/gi, replace: "국제친선" },
@@ -992,6 +992,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /UEFA Europa Conference League/gi, replace: "UEFA 컨퍼런스리그" },
     { target: /CONMEBOL Sudamericana/gi, replace: "코파 수다메리카나" },
     { target: /IL/gi, replace: "트리플A-IL" },
+    { target: /CONMEBOL Libertadores/gi, replace: "코파 리베르타도레스" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
@@ -1107,11 +1108,11 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   const dateParts = dateShort.split('/');
   const seoDateTag = dateParts.length === 3 ? `${dateParts[1]}월${dateParts[2]}일` : '오늘';
 
-  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${korCat}분석 스포츠분석 무료스포츠픽 픽천국`;
+  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
 
- const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')}(${match.home}) #${aiAwayName.replace(/\s+/g, '')}(${match.away}) #${seoDateTag} #무료스포츠픽 #스포츠경기분석\n</div>`;
+ const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석글이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')}(${match.home}) #${aiAwayName.replace(/\s+/g, '')}(${match.away}) #${seoDateTag} #무료스포츠픽 #스포츠경기분석\n</div>`;
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
