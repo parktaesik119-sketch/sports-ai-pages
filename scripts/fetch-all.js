@@ -125,7 +125,7 @@ function getDateRange() {
     return `${year}-${month}-${day}`;
   };
 
-  // 2. 현재 시점을 기반으로 정확하게 -2일과 +2일 시점을 계산
+  // 2. 현재 시점을 기반으로 정확하게 -1일과 +3일 시점을 계산
   const fromDate = new Date(now.getTime() - (24 * 60 * 60 * 1000));
   const toDate = new Date(now.getTime() + (72 * 60 * 60 * 1000));
 
@@ -469,6 +469,7 @@ scheduleTasks.push(fetchRapidSoccerRange());
     await fs.mkdir(OUTPUT_DIR, { recursive: true });
     
     // 기존 all-fixtures.json 로드
+    const map = new Map();
     let existingFixtures = [];
     try { 
       const content = await fs.readFile(ALL_FIXTURES_FILE, "utf-8");
@@ -478,7 +479,6 @@ scheduleTasks.push(fetchRapidSoccerRange());
     }
 
     // 중복 체크 및 업데이트 로직 (Key: 날짜_홈팀_원정팀)
-    const map = new Map();
     existingFixtures.forEach(m => {
       const dKey = new Date(m.date).toISOString().split("T")[0];
       const key = `${dKey}_${normalizeName(m.home)}_${normalizeName(m.away)}`;

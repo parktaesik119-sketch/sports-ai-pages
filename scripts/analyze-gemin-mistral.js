@@ -24,7 +24,7 @@ if (GEMINI_API_KEYS.length === 0) {
 
 // [추가] 특정 팀명을 원하는 이름으로 고정하는 매핑 테이블
 const TEAM_NAME_MAP = {
-  "KFUM oslo": "KFUM 오슬로",
+  "KFUM Oslo": "KFUM 오슬로",
   "Manchester City": "맨시티",
   "Tottenham": "토트넘",
   "Bodo/Glimt": "보되/글림트",
