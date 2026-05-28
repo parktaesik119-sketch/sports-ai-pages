@@ -139,54 +139,77 @@ if (
 }
 
 // ======================================================
-// 2차 : bodyText 기반 복구
-// frontmatter 없을 때만 실행
+// 2차 : bodyText 기반 복구 (경기 정보 요약 표 파싱)
+// frontmatter가 없을 때만 실행
 // ======================================================
-
 if (
   (homeTeam === '홈팀' || awayTeam === '원정팀') &&
   bodyText
 ) {
-
-  const teamAnalysisRegex =
-    /###\s*<img[^>]*>\s*(.*?)\s*분석/g;
-
-  const teamsFound = [...bodyText.matchAll(teamAnalysisRegex)];
-
-  if (teamsFound && teamsFound.length >= 2) {
-
-    if (homeTeam === '홈팀') {
-      homeTeam = teamsFound[0][1].trim();
+  // 1. 홈팀 이름 추출 (middle;"> 뒤의 **팀명 (영문)** 구조에서 괄호 앞만 추출)
+  if (homeTeam === '홈팀') {
+    const homeRegex = /\|\s*\*\*<span[^>]*>홈팀<\/span>\*\*\s*\|\s*<img[^>]*>\s*\*\*(.*?)\s*\(/;
+    const matchHome = bodyText.match(homeRegex);
+    if (matchHome && matchHome[1]) {
+      homeTeam = matchHome[1].trim();
     }
+  }
 
-    if (awayTeam === '원정팀') {
-      awayTeam = teamsFound[1][1].trim();
+  // 2. 원정팀 이름 추출
+  if (awayTeam === '원정팀') {
+    const awayRegex = /\|\s*\*\*<span[^>]*>원정팀<\/span>\*\*\s*\|\s*<img[^>]*>\s*\*\*(.*?)\s*\(/;
+    const matchAway = bodyText.match(awayRegex);
+    if (matchAway && matchAway[1]) {
+      awayTeam = matchAway[1].trim();
     }
   }
 }
 
 // ======================================================
-// 3차 : title 기반 최종 백업
+// 3차 : title 기반 최종 백업 (다양한 타이틀 포맷 대응)
+// frontmatter, bodyText 둘 다 실패했을 때만 실행
 // ======================================================
-
 if (
   (homeTeam === '홈팀' || awayTeam === '원정팀') &&
   rawData.title
 ) {
+  const currentTitle = rawData.title;
 
-  const titleRegex =
-    /\]\s*(.*?)\s*vs\s*(.*?)\s*(분석|스포츠분석|롤경기분석)/;
+  // 1. 'vs'를 기준으로 타이틀을 홈팀 영역과 원정팀 영역으로 크게 쪼갭니다.
+  const vsParts = currentTitle.split(/\s+vs\s+/i);
 
-  const matchTitle = rawData.title.match(titleRegex);
-
-  if (matchTitle) {
-
+  if (vsParts.length >= 2) {
+    // --------------------------------------------------
+    // 🏠 [홈팀 정제] 'vs'의 왼쪽 영역 처리
+    // --------------------------------------------------
     if (homeTeam === '홈팀') {
-      homeTeam = matchTitle[1].trim();
+      let rawHome = vsParts[0];
+      
+      // 대괄호 닫기 ']' 가 있다면 그 뒤의 순수 팀명만 추출 (예시 1, 2, 3 방어)
+      if (rawHome.includes(']')) {
+        rawHome = rawHome.split(']').pop();
+      }
+      
+      homeTeam = rawHome.trim();
     }
 
+    // --------------------------------------------------
+    // ✈️ [원정팀 정제] 'vs'의 오른쪽 영역 처리
+    // --------------------------------------------------
     if (awayTeam === '원정팀') {
-      awayTeam = matchTitle[2].trim();
+      let rawAway = vsParts[1];
+
+      // 뒤따라오는 날짜 및 분석 키워드 노이즈 패턴 정의
+      // - YY/MM/DD 형식 (예: 26/05/30)
+      // - MM월DD일 형식 (예: 05월30일)
+      // - 공통 분석 키워드 (예: 롤경기분석, 롤분석, 스포츠분석 등) 및 파이프(|)
+      const noiseRegex = /(\d{2}\/\d{2}\/\d{2}|\d{2}월\s*\d{2}일|롤경기분석|롤분석|스포츠분석|무료스포츠픽|픽천국|\|)/g;
+      
+      // 노이즈 패턴을 모두 공백으로 날려버립니다.
+      rawAway = rawAway.replace(noiseRegex, ' ');
+      
+      // 혹시 남아있을지 모르는 연속된 공백이나 잔여 텍스트 정리 후 최종 팀명 확보
+      awayTeam = rawAway.trim().split(/\s{2,}/)[0].trim();
     }
   }
 }
