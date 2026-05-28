@@ -20,19 +20,7 @@ awayLogo: "/logos/hanwha-life-esports.png"
 | **<span style="color: #007bff;">리그</span>** | **대한민국: LCK** |
 | **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 31. 17:00** |
 
-대한민국 [LCK] 한진 브리온 vs 한화생명 e스포츠  | 무료스포츠픽 - 픽천국
 
-대한민국 [LCK] 한진 브리온 vs 한화생명 e스포츠  | 무료스포츠픽 - 픽천국
-
-🏟️ 경기 정보 요약
-| | |
-|:---|:---|
-| <span style="color: #007bff;","vertical-align: middle;">홈팀</span>| <img src="/logos/hanjin-brion.png" width="30" height="30" style="vertical-align: middle;"> 한진 브리온 |
-| <span style="color: #007bff;","vertical-align: middle;">원정팀</span>| <img src="/logos/hanwha-life-esports.png" width="30" height="30" style="vertical-align: middle;"> 한화생명 e스포츠 |
-| <span style="color: #007bff;">리그</span>| 대한민국: LCK |
-| <span style="color: #007bff;">경기시간</span>| 2026. 05. 31. 17:00 |
-
-<br>
 
 <img src="/logos/hanjin-brion.png" width="31" height="30" style="vertical-align: middle;"> 한진 브리온 분석
 한진 브리온은 현재 LCK에서 6위(6승 10패)를 기록하며 중위권에서 MSI 대표 선발전 진출을 위한 치열한 순위 싸움을 펼치고 있습니다. 최근 5연승 이후 디플러스 기아와 T1에게 덜미를 잡히는 등 상위권 강팀들을 상대로는 다소 고전하는 모습을 보였습니다. 이번 경기 결과에 따라 6위 수성 여부가 갈릴 수 있어 매우 중요한 상황에 놓여있습니다. 결장자 정보는 현재까지 공식적으로 확인된 바 없습니다.

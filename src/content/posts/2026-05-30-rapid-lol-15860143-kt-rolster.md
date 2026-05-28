@@ -20,15 +20,6 @@ awayLogo: "/logos/dn-soopers.png"
 | **<span style="color: #007bff;">리그</span>** | **대한민국: LCK** |
 | **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 30. 17:00** |
 
-대한민국 [e스포츠] KT 롤스터 vs DN SOOPers  | 무료스포츠픽 - 픽천국
-
-🏟️ 경기 정보 요약
-| | |
-|:---|:---|
-| <span style="color: #007bff;","vertical-align: middle;">홈팀</span>| <img src="/logos/kt-rolster.png" width="30" height="30" style="vertical-align: middle;"> KT 롤스터 |
-| <span style="color: #007bff;","vertical-align: middle;">원정팀</span>| <img src="/logos/dn-soopers.png" width="30" height="30" style="vertical-align: middle;"> DN SOOPers |
-| <span style="color: #007bff;">리그</span>| 대한민국: e스포츠 |
-| <span style="color: #007bff;">경기시간</span>| 2026. 05. 30. 17:00 |
 
 <br>
 
