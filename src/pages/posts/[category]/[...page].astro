@@ -165,7 +165,31 @@ if (
   }
 }
 
+// ======================================================
+// 3차 : title 기반 최종 백업
+// ======================================================
 
+if (
+  (homeTeam === '홈팀' || awayTeam === '원정팀') &&
+  rawData.title
+) {
+
+  const titleRegex =
+    /\]\s*(.*?)\s*vs\s*(.*?)\s*(분석|스포츠분석|롤경기분석)/;
+
+  const matchTitle = rawData.title.match(titleRegex);
+
+  if (matchTitle) {
+
+    if (homeTeam === '홈팀') {
+      homeTeam = matchTitle[1].trim();
+    }
+
+    if (awayTeam === '원정팀') {
+      awayTeam = matchTitle[2].trim();
+    }
+  }
+}
 
   // 4. 로고 이미지 주소 처리
 // ✅ LOL은 frontmatter 로고를 무조건 우선 사용
