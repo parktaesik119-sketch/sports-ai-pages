@@ -8,19 +8,19 @@ country: "유럽"
 league: "LEC"
 homeTeam: "팀 바이탈리티"
 awayTeam: "자이언트엑스"
-homeLogo: "/images/wing-home.png"
+homeLogo: "/images/team-vitality.png"
 awayLogo: "/logos/giantx.png"
 ---
 
 ### 🏟️ 경기 정보 요약
 | <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
 |:---|:---|
-| **<span style="color: #007bff;">홈팀</span>** | <img src="/images/wing-home.png" width="31" height="30" style="vertical-align: middle;"> **팀 바이탈리티 (Team Vitality)** |
+| **<span style="color: #007bff;">홈팀</span>** | <img src="/images/team-vitality.png" width="31" height="30" style="vertical-align: middle;"> **팀 바이탈리티 (Team Vitality)** |
 | **<span style="color: #007bff;">원정팀</span>** | <img src="/logos/giantx.png" width="31" height="30" style="vertical-align: middle;"> **자이언트엑스 (GIANTX)** |
 | **<span style="color: #007bff;">리그</span>** | **유럽: LEC** |
 | **<span style="color: #007bff;">경기시간</span>** | **2026. 06. 01. 24:00** |
 
-### <img src="/images/wing-home.png" width="31" height="30" style="vertical-align: middle;"> 팀 바이탈리티 분석
+### <img src="/images/team-vitality.png" width="31" height="30" style="vertical-align: middle;"> 팀 바이탈리티 분석
 팀 바이탈리티는 2026 LEC 스프링 시즌에서 56.6%의 승률을 기록하며 안정적인 경기력을 보여주고 있습니다. 탑 라이너 'Naak Nako', 정글러 'Lyncas', 미드 라이너 'Humanoid', 원거리 딜러 'Carzzy', 서포터 'Fleshy'로 구성된 로스터는 높은 고점을 기대하게 합니다. 특히 'Humanoid'의 합류는 팀의 미드 라인전 강화를 가져왔으며, 'Naak Nako', 'Humanoid', 'Carzzy'의 조합은 G2, MKOI, KC와 같은 강팀들을 상대로도 충분히 경쟁력을 보여줄 수 있다는 평가를 받고 있습니다.
 
 <br><br>
