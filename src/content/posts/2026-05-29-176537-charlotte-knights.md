@@ -9,14 +9,14 @@ league: "트리플A-IL"
 homeTeam: "샬럿 나이츠"
 awayTeam: "잭슨빌 점보 슈림프"
 homeLogo: "https://media.api-sports.io/baseball/teams/48.png"
-awayLogo: "https://media.api-sports.io/baseball/teams/775.png"
+awayLogo: "https://static.flashscore.com/res/image/data/O41BgbYg-C8IP4udm.png"
 ---
 
 ### 🏟️ 경기 정보 요약
 | <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
 |:---|:---|
 | **<span style="color: #007bff;">홈팀</span>** | <img src="https://media.api-sports.io/baseball/teams/48.png" width="31" height="30" style="vertical-align: middle;"> **샬럿 나이츠 (Charlotte Knights)** |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="https://media.api-sports.io/baseball/teams/775.png" width="31" height="30" style="vertical-align: middle;"> **잭슨빌 점보 슈림프 (Jacksonville Jumbo Shrimp)** |
+| **<span style="color: #007bff;">원정팀</span>** | <img src="https://static.flashscore.com/res/image/data/O41BgbYg-C8IP4udm.png" width="31" height="30" style="vertical-align: middle;"> **잭슨빌 점보 슈림프 (Jacksonville Jumbo Shrimp)** |
 | **<span style="color: #007bff;">리그</span>** | **미국: 트리플A-IL** |
 | **<span style="color: #007bff;">경기시간</span>** | **2026. 05. 29. 08:04** |
 
@@ -28,7 +28,7 @@ awayLogo: "https://media.api-sports.io/baseball/teams/775.png"
 
 
 
-### <img src="https://media.api-sports.io/baseball/teams/775.png" width="31" height="30" style="vertical-align: middle;"> 잭슨빌 점보 슈림프 분석
+### <img src="https://static.flashscore.com/res/image/data/O41BgbYg-C8IP4udm.png" width="31" height="30" style="vertical-align: middle;"> 잭슨빌 점보 슈림프 분석
 잭슨빌 점보 슈림프는 최근 샬럿 나이츠와의 맞대결에서 5월 10일 6-1 승리를 거두는 등 강점과 약점이 명확하게 드러나고 있습니다. 타선의 폭발력이 있는 날에는 대량 득점이 가능하지만, 기복이 심하다는 단점을 가지고 있습니다. 현재 인터내셔널 리그 하위권에 머물고 있으며, 꾸준한 승리보다는 한 번의 승리 이후 다시 연패에 빠지는 경향이 있습니다.
 마운드에서는 선발 투수진이 초반에 흔들리는 경우가 종종 있으며, 불펜의 과부하도 우려되는 상황입니다. 팀 내 핵심 타자인 빅터 메사가 지난 5월 12일 부상자 명단에 올랐으며, 그의 부재가 타선에 큰 영향을 미치고 있습니다. 잭슨빌은 전반적으로 투타 밸런스 조정과 함께 부상 선수들의 복귀가 절실한 상황입니다.
 
