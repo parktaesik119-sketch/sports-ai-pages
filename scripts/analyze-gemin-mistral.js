@@ -294,12 +294,12 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   displayLeagueName = displayLeagueName.replace(cutOffKeywords, '').trim();  
   match.league = displayLeagueName;
 
-      // 3. 시간 및 날짜 설정
+  // 3. 시간 및 날짜 설정
   const matchDateKST = new Date(match.date);
   const dateOnly = matchDateKST.toLocaleDateString('sv-SE', { timeZone: 'Asia/Seoul' });
   const dateShort = matchDateKST.toLocaleDateString('ko-KR', {
-    year: '2-digit', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul'
-  }).replace(/\. /g, '/').replace(/\./g, '');
+    month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul'
+  }).replace(/\. /g, '월 ').replace(/\./g, '일');
 
       // 4. 로고 매칭
   if (match.sport === "lol") {
@@ -1108,8 +1108,7 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
 }
 
   // 10. 제목 및 저장
-  const dateParts = dateShort.split('/');
-  const seoDateTag = dateParts.length === 3 ? `${dateParts[1]}월${dateParts[2]}일` : '오늘';
+  const seoDateTag = dateShort ? dateShort.replace(/\s+/g, '') : '오늘';
 
   const finalTitle = `${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${dateShort} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
