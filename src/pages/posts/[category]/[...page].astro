@@ -109,25 +109,87 @@ const sortedPosts = categoryPosts.sort((a, b) => {
   post.country = country;
   post.league = league;
 
-  // 2. 홈팀 및 원정팀 이름 추출 (예시: ### <img ...> 낭트 분석)
-  let homeTeam = '홈팀';
-  let awayTeam = '원정팀';
-  const teamAnalysisRegex = /###\s*<img[^>]*>\s*(.*?)\s*분석/g;
-  const teamsFound = [...bodyText.matchAll(teamAnalysisRegex)];
-  if (teamsFound && teamsFound.length >= 2) {
-    homeTeam = teamsFound[0][1].trim();
-    awayTeam = teamsFound[1][1].trim();
-  }
+  // ======================================================
+// 2. 홈팀 / 원정팀 이름 처리
+// ✅ frontmatter 값 최우선 사용
+// ✅ 없을 경우에만 body/title 파싱 백업
+// ======================================================
 
-  // 3. 만약 위 본문 파싱으로 실패할 경우를 대비한 2차 백업 정규식 (타이틀에서 낚아채기)
-  if (homeTeam === '홈팀' && rawData.title) {
-    const titleRegex = /\]\s*(.*?)\s*vs\s*(.*?)\s*분석/;
-    const matchTitle = rawData.title.match(titleRegex);
-    if (matchTitle) {
+let homeTeam = '홈팀';
+let awayTeam = '원정팀';
+
+// ======================================================
+// 1차 : frontmatter 우선 적용
+// ======================================================
+
+if (
+  rawData.homeTeam &&
+  typeof rawData.homeTeam === 'string' &&
+  rawData.homeTeam.trim()
+) {
+  homeTeam = rawData.homeTeam.trim();
+}
+
+if (
+  rawData.awayTeam &&
+  typeof rawData.awayTeam === 'string' &&
+  rawData.awayTeam.trim()
+) {
+  awayTeam = rawData.awayTeam.trim();
+}
+
+// ======================================================
+// 2차 : bodyText 기반 복구
+// frontmatter 없을 때만 실행
+// ======================================================
+
+if (
+  (homeTeam === '홈팀' || awayTeam === '원정팀') &&
+  bodyText
+) {
+
+  const teamAnalysisRegex =
+    /###\s*<img[^>]*>\s*(.*?)\s*분석/g;
+
+  const teamsFound = [...bodyText.matchAll(teamAnalysisRegex)];
+
+  if (teamsFound && teamsFound.length >= 2) {
+
+    if (homeTeam === '홈팀') {
+      homeTeam = teamsFound[0][1].trim();
+    }
+
+    if (awayTeam === '원정팀') {
+      awayTeam = teamsFound[1][1].trim();
+    }
+  }
+}
+
+// ======================================================
+// 3차 : title 기반 최종 백업
+// ======================================================
+
+if (
+  (homeTeam === '홈팀' || awayTeam === '원정팀') &&
+  rawData.title
+) {
+
+  const titleRegex =
+    /\]\s*(.*?)\s*vs\s*(.*?)\s*(분석|스포츠분석|롤경기분석)/;
+
+  const matchTitle = rawData.title.match(titleRegex);
+
+  if (matchTitle) {
+
+    if (homeTeam === '홈팀') {
       homeTeam = matchTitle[1].trim();
+    }
+
+    if (awayTeam === '원정팀') {
       awayTeam = matchTitle[2].trim();
     }
   }
+}
 
   // 4. 로고 이미지 주소 처리
 // ✅ LOL은 frontmatter 로고를 무조건 우선 사용
