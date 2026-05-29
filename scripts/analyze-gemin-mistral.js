@@ -1107,10 +1107,21 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   }
 }
 
+<<<<<<< Updated upstream
 // 10. 제목 및 저장
   const seoDateTag = dateShort ? dateShort.replace(/\s+/g, '') : '오늘';
 
   const finalTitle = `${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${dateShort} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
+=======
+  // 10. 제목 및 저장
+  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} 스포츠분석 스포츠픽`;
+    // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
+  cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
+  const catNames = { "soccer": "축구", "basketball": "농구", "baseball": "야구", "volleyball": "배구", "hockey": "하키", "lol": "롤" };
+  const korCat = catNames[cat] || "스포츠";
+
+  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #무료스포츠픽 #스포츠분석\n</div>`;
+>>>>>>> Stashed changes
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
