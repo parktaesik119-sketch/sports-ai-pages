@@ -886,14 +886,22 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
 }
 
   // 10. 제목 및 저장
+<<<<<<< Updated upstream:scripts/analyze-router-one-git.js
   const dateParts = dateShort.split('/');
   const seoDateTag = dateParts.length === 3 ? `${parseInt(dateParts[1], 10)}월${parseInt(dateParts[2], 10)}일` : '오늘';
 
   const finalTitle = `${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${displayDate} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
+=======
+  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} 스포츠분석 스포츠픽`;
+>>>>>>> Stashed changes:scripts/analyze-gemin-mistral.js
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
 
+<<<<<<< Updated upstream:scripts/analyze-router-one-git.js
   const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')}(${match.home}) #${aiAwayName.replace(/\s+/g, '')}(${match.away}) #${seoDateTag} #무료스포츠픽 #스포츠경기분석\n</div>`;
+=======
+  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #무료스포츠픽 #스포츠분석\n</div>`;
+>>>>>>> Stashed changes:scripts/analyze-gemin-mistral.js
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
