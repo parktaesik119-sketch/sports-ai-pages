@@ -203,9 +203,9 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   // 2. 농구 
   const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W'].some(el => el === upperLg);
   // 3. 배구 
-  const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'SV.LEAGUE'].some(el => el === upperLg);
+  const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'SV.LEAGUE','NATIONS LEAGUE WOMEN','NATIONS LEAGUE','EUROPEAN LEAGUE WOMEN','EUROPEAN LEAGUE'].some(el => el === upperLg);
   // 4. 야구 
-  const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'ABL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'IL'].some(el => el === upperLg);
+  const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'ABL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
   // 5. 하키 
   const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'BEIJER HOCKEY GAMES', 'WCH U18', 'WORLD CHAMPIONSHIP' ].some(el => el === upperLg);
   // 6. 롤 //대문자로 띄어쓰기 없이 적을 것. Rounds 1-2 이런 글자는 자동 삭제니 적지 않아야 함
@@ -758,7 +758,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /Serie A/gi, replace: "세리에 A" },
     { target: /Bundesliga/gi, replace: "분데스리가" },
     { target: /Primeira Liga/gi, replace: "프리메라리가" },
-    { target: /Esports World Cup Playoffs/gi, replace: "Esports World Cup" },
+    { target: /Esports World Cup Playoffs/gi, replace: "EWC 플레이오프 " },
     { target: /Primera División - Apertura/gi, replace: "프리메라디비전" },
     { target: /LA LIGA/gi, replace: "라리가" },
     { target: /UEFA Europa Conference League/gi, replace: "UEFA 컨퍼런스리그" },
@@ -768,6 +768,8 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /NBA W/gi, replace: "WNBA" },
     { target: /Nations League Women/gi, replace: "네이션스리그(W)" },
     { target: /Nations League/gi, replace: "네이션스리그" },
+    { target: /European League Women/gi, replace: "유러피언리그(W)" },
+    { target: /European League/gi, replace: "유러피언리그" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
