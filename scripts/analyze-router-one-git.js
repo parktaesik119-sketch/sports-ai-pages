@@ -143,7 +143,7 @@ async function analyzeMatches() {
   const isEssentialTeam = essentialTeams.some(t => upperHome.includes(t) || upperAway.includes(t));
 
   // 1. 여기에 예외로 허용하고 싶은 여성/청소년 리그명을 대문자로 등록합니다.
-const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE'];
+const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE','NATIONS LEAGUE WOMEN','NATIONS LEAGUE','EUROPEAN LEAGUE WOMEN'];
 const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
 
   // [단계 1] 가장 먼저 여성/청소년 경기인지 확인 (최우선순위) - 있으면 무조건 차단
@@ -733,43 +733,43 @@ cleanedText = cleanedText.split('\n').filter(line => {
   // 3. 리그명 치환 및 국가 매핑
   let leagueName = match.league || "스포츠";
   const leagueReplacements = [
-    { target: /Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League/gi, replace: "P.L" },
-    { target: /Challengers League/gi, replace: "CL" },
-    { target: /LCK CHALLENGERS LEAGUE/gi, replace: "LCK CL" },
-    { target: /Friendly International/gi, replace: "국제친선" },
-    { target: /Super League/gi, replace: "SL" },
-    { target: /Major League Soccer/gi, replace: "MLS" },
-    { target: /African Club Championship/gi, replace: "CAF" },
-    { target: /K League 1/gi, replace: "K1" },
-    { target: /K League 2/gi, replace: "K2" },
-    { target: /UEFA Champions League/gi, replace: "UEFA 챔피언스리그" },
-    { target: /UEFA Europa League/gi, replace: "UEFA 유로파리그" },
-    { target: /AFC ASIAN CUP/gi, replace: "AFC 아시안컵" },
-    { target: /LCK CHALLENGERS LEAGUE ROUNDS 1-2/gi, replace: "LCK CL" },    
-    { target: /LCK ROUNDS 1-2/gi, replace: "LCK" },
-    { target: /Veikkausliiga/gi, replace: "D1" },
-    { target: /JUPILER PRO LEAGUE/gi, replace: "D1" },
-    { target: /Eliteserien/gi, replace: "D1" },
-    { target: /Premier Division/gi, replace: "D1" },
-    { target: /Division 1/gi, replace: "D1" },
-    { target: /2. Bundesliga/gi, replace: "분데스리가2" },
-    { target: /Beijer Hockey Games/gi, replace: "유로 하키 투어" },
-    { target: /B League/gi, replace: "B리그" },
-    { target: /Serie A/gi, replace: "세리에 A" },
-    { target: /Bundesliga/gi, replace: "분데스리가" },
-    { target: /Primeira Liga/gi, replace: "프리메라리가" },
-    { target: /Esports World Cup Playoffs/gi, replace: "EWC 플레이오프 " },
-    { target: /Primera División - Apertura/gi, replace: "프리메라디비전" },
-    { target: /LA LIGA/gi, replace: "라리가" },
-    { target: /UEFA Europa Conference League/gi, replace: "UEFA 컨퍼런스리그" },
-    { target: /CONMEBOL Sudamericana/gi, replace: "코파 수다메리카나" },
-    { target: /IL/gi, replace: "트리플A-IL" },
-    { target: /CONMEBOL Libertadores/gi, replace: "코파 리베르타도레스" },
-    { target: /NBA W/gi, replace: "WNBA" },
-    { target: /Nations League Women/gi, replace: "네이션스리그(W)" },
-    { target: /Nations League/gi, replace: "네이션스리그" },
-    { target: /European League Women/gi, replace: "유러피언리그(W)" },
-    { target: /European League/gi, replace: "유러피언리그" },
+  { target: /^(Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League)$/i, replace: "P.L" },
+  { target: /^Challengers League$/i, replace: "CL" },
+  { target: /^LCK CHALLENGERS LEAGUE$/i, replace: "LCK CL" },
+  { target: /^Friendly International$/i, replace: "국제친선" },
+  { target: /^Super League$/i, replace: "SL" },
+  { target: /^Major League Soccer$/i, replace: "MLS" },
+  { target: /^African Club Championship$/i, replace: "CAF" },
+  { target: /^K League 1$/i, replace: "K1" },
+  { target: /^K League 2$/i, replace: "K2" },
+  { target: /^UEFA Champions League$/i, replace: "UEFA 챔피언스리그" },
+  { target: /^UEFA Europa League$/i, replace: "UEFA 유로파리그" },
+  { target: /^AFC ASIAN CUP$/i, replace: "AFC 아시안컵" },
+  { target: /^LCK CHALLENGERS LEAGUE ROUNDS 1-2$/i, replace: "LCK CL" },    
+  { target: /^LCK ROUNDS 1-2$/i, replace: "LCK" },
+  { target: /^Veikkausliiga$/i, replace: "D1" },
+  { target: /^JUPILER PRO LEAGUE$/i, replace: "D1" },
+  { target: /^Eliteserien$/i, replace: "D1" },
+  { target: /^Premier Division$/i, replace: "D1" },
+  { target: /^Division 1$/i, replace: "D1" },
+  { target: /^2. Bundesliga$/i, replace: "분데스리가2" },
+  { target: /^Beijer Hockey Games$/i, replace: "유로 하키 투어" },
+  { target: /^B League$/i, replace: "B리그" },
+  { target: /^Serie A$/i, replace: "세리에 A" },
+  { target: /^Bundesliga$/i, replace: "분데스리가" },
+  { target: /^Primeira Liga$/i, replace: "프리메라리가" },
+  { target: /^Esports World Cup Playoffs$/i, replace: "EWC 플레이오프 " },
+  { target: /^Primera División - Apertura$/i, replace: "프리메라디비전" },
+  { target: /^LA LIGA$/i, replace: "라리가" },
+  { target: /^UEFA Europa Conference League$/i, replace: "UEFA 컨퍼런스리그" },
+  { target: /^CONMEBOL Sudamericana$/i, replace: "코파 수다메리카나" },
+  { target: /^IL$/i, replace: "트리플A-IL" },
+  { target: /^CONMEBOL Libertadores$/i, replace: "코파 리베르타도레스" },
+  { target: /^NBA W$/i, replace: "WNBA" },
+  { target: /^Nations League Women$/i, replace: "네이션스리그(W)" },
+  { target: /^Nations League$/i, replace: "네이션스리그" },
+  { target: /^European League Women$/i, replace: "유러피언리그(W)" },
+  { target: /^European League$/i, replace: "유러피언리그" }
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
@@ -803,6 +803,8 @@ cleanedText = cleanedText.split('\n').filter(line => {
     "IL": "미국",
     "NATIONS LEAGUE WOMEN": "국제",
     "NATIONS LEAGUE": "국제",
+    "EUROPEAN LEAGUE WOMEN": "유럽",
+    "EUROPEAN LEAGUE": "유럽",
   
   };
 
@@ -886,22 +888,14 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
 }
 
   // 10. 제목 및 저장
-<<<<<<< Updated upstream:scripts/analyze-router-one-git.js
   const dateParts = dateShort.split('/');
   const seoDateTag = dateParts.length === 3 ? `${parseInt(dateParts[1], 10)}월${parseInt(dateParts[2], 10)}일` : '오늘';
 
   const finalTitle = `${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${displayDate} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
-=======
-  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} 스포츠분석 스포츠픽`;
->>>>>>> Stashed changes:scripts/analyze-gemin-mistral.js
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
 
-<<<<<<< Updated upstream:scripts/analyze-router-one-git.js
   const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')}(${match.home}) #${aiAwayName.replace(/\s+/g, '')}(${match.away}) #${seoDateTag} #무료스포츠픽 #스포츠경기분석\n</div>`;
-=======
-  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #무료스포츠픽 #스포츠분석\n</div>`;
->>>>>>> Stashed changes:scripts/analyze-gemin-mistral.js
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
