@@ -444,9 +444,12 @@ const SYSTEM_RULES_PROMPT = `
   1. 한자(한문), 일어 사용 절대 금지: 100% 쉬운 한글로만 작성.
   2. markdown 문법 및 ###, ##, #, **, __, ---, *** 같은 코드블록기호(\`\`\`) 사용 금지
   3. 추천픽에 배당은 기재하면 안된다.
-  4. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. (예시로 든 아스널, 리버풀 같은 팀을 본문에 절대 적지 마세요.)
-  5. 보고서의 어떤 항목에서도 영문 팀명을 그대로 노출하지 마라. (단, FC, AC, U20 같은 약어는 예외)
+  4. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
+  5. 보고서의 어떤 항목에서도 영문 팀명을 그대로 노출하지 마라. ...
   6. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
+  7. '경기 정보 요약' 섹션을 절대 직접 작성하지 마라. 이 섹션은 시스템이 자동 삽입한다.
+  8. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
+  9. 반드시 '### [홈팀명] 분석' 섹션부터 바로 시작하라.
 
   [팀명 한글화 절대 원칙]
   1. 처리 순서: 분석을 시작하기 전, 제공된 영문 팀명을 가장 먼저 표준 한국어 명칭으로 변환하라.
@@ -861,8 +864,13 @@ let country;
 | **<span style="color: #007bff;">리그</span>** | **${country}: ${leagueName}** |
 | **<span style="color: #007bff;">경기시간</span>** | **${new Date(match.date).toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'Asia/Seoul' })}** |`;
 
-  // 7. 기존 AI 요약 전체 삭제
-cleanedText = cleanedText.replace(/### 🏟️ 경기 정보 요약[\s\S]*?(?=###|$)/, "").trim();
+  // 7. 기존 AI 요약 전체 삭제 (모든 변형 패턴 제거)
+cleanedText = cleanedText
+  .replace(/###\s*🏟️\s*경기 정보 요약[\s\S]*?(?=###|$)/g, "")
+  .replace(/🏟️\s*경기 정보 요약[\s\S]*?(?=###|⚔️|📝|🎯)/g, "")
+  .replace(/날짜:\s*.*\n[\s\S]*?(?=\n\n[가-힣]|\n###)/g, "")
+  .trim();
+
  // 8. 맨 위에 강제 삽입
 cleanedText = summaryTable + "\n\n" + cleanedText;
 
