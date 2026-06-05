@@ -24,7 +24,7 @@ if (GEMINI_API_KEYS.length === 0) {
 
 // [추가] 특정 팀명을 원하는 이름으로 고정하는 매핑 테이블
 const TEAM_NAME_MAP = {
-  "KFUM Oslo": "KFUM 오슬로",
+  "KFUM oslo": "KFUM 오슬로",
   "Manchester City": "맨시티",
   "Tottenham": "토트넘",
   "Bodo/Glimt": "보되/글림트",
@@ -219,7 +219,7 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
   const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE', 'CONMEBOL LIBERTADORES', 'COPA LIBERTADORES'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
- const isFirstDivision = ['DIVISION 1','1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE", 'A-LEAGUE', 'EKSTRAKLASA', 'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE', 'EROVNULI LIGA','DFB POKAL', 'CONMEBOL SUDAMERICANA','WK-LEAGUE'].some(el => el === upperLg);
+ const isFirstDivision = ['DIVISION 1','1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE", 'A-LEAGUE', 'EKSTRAKLASA', 'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE', 'EROVNULI LIGA','DFB POKAL', 'CONMEBOL SUDAMERICANA'].some(el => el === upperLg);
 
   // 축구 통합 필터
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
@@ -294,12 +294,12 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   displayLeagueName = displayLeagueName.replace(cutOffKeywords, '').trim();  
   match.league = displayLeagueName;
 
-  // 3. 시간 및 날짜 설정
+      // 3. 시간 및 날짜 설정
   const matchDateKST = new Date(match.date);
   const dateOnly = matchDateKST.toLocaleDateString('sv-SE', { timeZone: 'Asia/Seoul' });
   const dateShort = matchDateKST.toLocaleDateString('ko-KR', {
-    month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul'
-  }).replace(/\. /g, '월 ').replace(/\./g, '일');
+    year: '2-digit', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul'
+  }).replace(/\. /g, '/').replace(/\./g, '');
 
       // 4. 로고 매칭
   if (match.sport === "lol") {
@@ -587,49 +587,53 @@ if (isFreePassLeague) {
 
       let success = false;
 
-  // Gemini 시도 로직 시작
-  if (!isGeminiExhausted) {
-    while (currentKeyIndex < GEMINI_API_KEYS.length) {
-      const genAI = new GoogleGenerativeAI(GEMINI_API_KEYS[currentKeyIndex]);
-      
-      for (const modelName of MODEL_PRIORITY) {
+// ================================
+// OPENROUTER 단일 호출 함수
+// ================================
+async function callOpenRouter(prompt, apiKey) {
+  const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${apiKey}`,
+      "Content-Type": "application/json",
+      "HTTP-Referer": "https://pick79.com",
+      "X-Title": "Pick Heaven"
+    },
+    body: JSON.stringify({
+      model: "google/gemini-2.5-flash",
+      messages: [
+        { role: "user", content: prompt }
+      ]
+    })
+  });
 
-  let quotaExceeded = false;
+  if (!res.ok) {
+    throw new Error(await res.text());
+  }
 
-  // ✅ 모델별 최대 3회 시도
-  for (let retry = 1; retry <= 3; retry++) {
+  const data = await res.json();
+  return data?.choices?.[0]?.message?.content || "";
+}
 
+
+// ================================
+// AI 실행 루프 (단순화 버전)
+// ================================
+
+for (let i = 0; i < OPENROUTER_API_KEYS.length; i++) {
+  const apiKey = OPENROUTER_API_KEYS[i];
+
+  for (let retry = 0; retry < 3; retry++) {
     try {
+      console.log(`📡 OpenRouter ${i + 1}번 키 / ${retry + 1}회`);
 
-      console.log(
-        `📡 [시도] 키 ${currentKeyIndex + 1} - 모델: ${modelName} (${retry}/3)`
-      );
+      const aiResponse = await callOpenRouter(prompt, apiKey);
 
-      const model = genAI.getGenerativeModel({
-        model: modelName,
-        tools: [{ googleSearch: {} }]
-      });
-
-      const result = await model.generateContent(prompt);
-      const response = await result.response;
-      const aiResponse = response?.text?.() || "";
-
-      // ✅ 부실 응답
-      if (aiResponse.length < 200) {
-
-        console.warn(
-          `⚠️ [부실] ${modelName} 응답 부족 (${retry}/3)`
-        );
-
-        if (retry < 2) {
-          await new Promise(res => setTimeout(res, 3000));
-          continue;
-        }
-
-        break;
+      if (!aiResponse || aiResponse.length < 200) {
+        console.warn("⚠️ 응답 부족");
+        continue;
       }
 
-      // ✅ 성공
       await savePost(
         savePath,
         aiResponse,
@@ -640,201 +644,37 @@ if (isFreePassLeague) {
         h2hContent
       );
 
-      console.log(
-        `✅ [성공] 키 ${currentKeyIndex + 1} (${modelName}): ${match.home} vs ${match.away}`
-      );
+      console.log(`✅ 성공: ${match.home} vs ${match.away}`);
 
       success = true;
+
+      // 🔥 핵심: 글 저장 후 3초 대기
+      await new Promise(res => setTimeout(res, 3000));
 
       break;
 
     } catch (err) {
+      const msg = String(err?.message || "").toLowerCase();
 
-      const rawErr =
-        err?.message ||
-        (typeof err === 'string'
-          ? err
-          : JSON.stringify(err)) ||
-        "";
-
-      const errMsg = String(rawErr).toLowerCase();
-
-      console.error(
-        `❌ 모델 오류 (${modelName}) [${retry}/3]:`,
-        errMsg
-      );
-
-      // ==================================================
-      // ✅ 503
-      // ==================================================
+      console.error("❌ OpenRouter 오류:", msg);
 
       if (
-  errMsg.includes("503") ||
-  errMsg.includes("service unavailable") ||
-  errMsg.includes("high demand")
-) {
-
-        if (retry < 3) {
-
-          console.warn(
-            `💡 503 서버 과부하. 60초 후 재시도 (${retry}/3)`
-          );
-
-          await new Promise(res => setTimeout(res, 60000));
-
-          continue;
-        }
-
-        console.warn(
-          `❌ 503 재시도 3회 실패 → 다음 모델`
-        );
-
-        break;
+        msg.includes("429") ||
+        msg.includes("403") ||
+        msg.includes("503") ||
+        msg.includes("rate")
+      ) {
+        console.warn("⏳ 제한 감지 → 5초 대기 후 재시도");
+        await new Promise(res => setTimeout(res, 5000));
+        continue;
       }
 
-      // ==================================================
-      // ✅ 429
-      // ==================================================
-
-      if (
-  errMsg.includes("429") ||
-  errMsg.includes("quota") ||
-  errMsg.includes("rate limit")
-) {
-
-  // ✅ 429는 일시 제한 가능성이 있어서 2회 재시도
-  if (retry < 2) {
-
-    console.warn(
-      `🚨 429 제한 감지. 60초 후 재시도 (${retry}/2)`
-    );
-
-    await new Promise(res => setTimeout(res, 60000));
-
-    continue;
-  }
-
-  console.warn(
-    `🚨 429 재시도 실패 → 다음 API 키`
-  );
-
-  quotaExceeded = true;
-
-  await new Promise(res => setTimeout(res, 5000));
-
-  break;
-}
-
-      // ==================================================
-      // ✅ 기타 에러
-      // ==================================================
-
-console.warn(
-  `⚠️ 기타 에러 → 다음 모델 시도`
-);
-
-// ❌ quotaExceeded 처리 금지
-// quotaExceeded = true;
-
-await new Promise(res => setTimeout(res, 2000));
-
-break;
-    }
-  }
-
-  // ✅ 성공했으면 모델 루프 종료
-  if (success) {
-    break;
-  }
-
-  // ✅ 429/기타에러면 다음 키로 이동
-  if (quotaExceeded) {
-    break;
-  }
-}
-
-      if (success) break; // 성공했으면 키(while) 루프 탈출
-
-      // 여기까지 왔다면 현재 키의 모든 모델이 실패했거나 429 에러인 경우임
-      currentKeyIndex++;
-      console.log(`🔄 다음 API 키로 교체... (현재: ${currentKeyIndex + 1}번 키)`);
-      await new Promise(res => setTimeout(res, 2000));
-    }
-    if (currentKeyIndex >= GEMINI_API_KEYS.length) isGeminiExhausted = true;
-  }
-
-      // 10. Mistral 백업 (다중 키 로테이션 최종 보완판)
-if (!success) { 
-  // MISTRAL_API_KEYS (S붙음)와 currentMistralKeyIndex가 위에서 선언되어 있어야 작동합니다.
-  while (currentMistralKeyIndex < MISTRAL_API_KEYS.length) {
-    try {
-      console.log(`🌀 [Mistral 우회 - 키 ${currentMistralKeyIndex + 1}]: ${match.home} vs ${match.away}`);
-      
-      const client = new Mistral({ apiKey: MISTRAL_API_KEYS[currentMistralKeyIndex], timeout: 60000 });
-      let res;
-    let successRequest = false;
-
-    // 🔥 여기 추가 (재시도 로직)
-    for (let retry = 0; retry < 3; retry++) {
-  try {
-    res = await client.chat.complete({
-      model: "open-mistral-7b",
-      messages: [{ role: "user", content: prompt }]
-    });
-
-    successRequest = true;
-    break;
-
-  } catch (err) {
-    const rawErr =
-      err?.message ||
-      err?.cause?.message ||
-      (typeof err === "string" ? err : JSON.stringify(err)) ||
-      "";
-
-        const errMsg = String(rawErr).toLowerCase();
-
-        if (errMsg.includes("timeout") || errMsg.includes("aborted")) {
-          console.warn(`⏳ timeout 발생 → 재시도 (${retry + 1}/3)`);
-          await sleep(3000);
-        } else {
-          throw err;
-        }
-      }
-    }
-
-    if (!successRequest) {
-      console.warn(`❌ 3번 재시도 실패 → 다음 키로 이동`);
-      currentMistralKeyIndex++;
-      continue;
-    }
-
-    const rawContent = res?.choices?.[0]?.message?.content;
-
-const aiResponse =
-  typeof rawContent === "string"
-    ? rawContent.trim()
-    : "";
-
-    if (aiResponse.length > 200) {
-      await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent);
-      console.log(`✅ [Mistral 성공] 키 ${currentMistralKeyIndex + 1}`);
-      success = true;
       break;
-    } else {
-      console.warn(`⚠️ 응답 부족 → 다음 키`);
-      currentMistralKeyIndex++;
     }
-
-  } catch (err) {
-    console.error(`❌ Mistral 에러 (키 ${currentMistralKeyIndex + 1}):`, err);
-    currentMistralKeyIndex++;
-    await sleep(2000);
   }
-}
-}
 
-  if (success) await new Promise(res => setTimeout(res, 61000));
+  if (success) break;
+}
 }
     }
   } catch (error) {
@@ -995,7 +835,6 @@ cleanedText = cleanedText.split('\n').filter(line => {
     { target: /CONMEBOL Sudamericana/gi, replace: "코파 수다메리카나" },
     { target: /IL/gi, replace: "트리플A-IL" },
     { target: /CONMEBOL Libertadores/gi, replace: "코파 리베르타도레스" },
-    { target: /NBA W/gi, replace: "WNBA" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
@@ -1107,21 +946,15 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   }
 }
 
-<<<<<<< Updated upstream
-// 10. 제목 및 저장
-  const seoDateTag = dateShort ? dateShort.replace(/\s+/g, '') : '오늘';
+  // 10. 제목 및 저장
+  const dateParts = dateShort.split('/');
+  const seoDateTag = dateParts.length === 3 ? `${dateParts[1]}월${dateParts[2]}일` : '오늘';
 
   const finalTitle = `${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${dateShort} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
-=======
-  // 10. 제목 및 저장
-  const finalTitle = `${dateShort} ${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} 스포츠분석 스포츠픽`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
-  const catNames = { "soccer": "축구", "basketball": "농구", "baseball": "야구", "volleyball": "배구", "hockey": "하키", "lol": "롤" };
-  const korCat = catNames[cat] || "스포츠";
 
-  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')} #${aiAwayName.replace(/\s+/g, '')} #오늘 #무료스포츠픽 #스포츠분석\n</div>`;
->>>>>>> Stashed changes
+ const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석글이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')}(${match.home}) #${aiAwayName.replace(/\s+/g, '')}(${match.away}) #${seoDateTag} #무료스포츠픽 #스포츠경기분석\n</div>`;
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
