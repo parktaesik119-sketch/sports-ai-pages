@@ -38,8 +38,7 @@ jobs:
       - name: 데이터 수집 및 AI 분석 실행
         run: node scripts/main-auto.js
         env:
-          GEMINI_KEYS: ${{ secrets.GEMINI_KEYS }}
-          MISTRAL_KEYS: ${{ secrets.MISTRAL_KEYS }}
+          ROUTERONE_KEY: ${{ secrets.ROUTERONE_KEY }}
           API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
           PANDASCORE_KEY: ${{ secrets.PANDASCORE_KEY }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}

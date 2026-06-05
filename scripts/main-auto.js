@@ -21,7 +21,7 @@ async function runAutomation() {
     // (analyze-gemini.js 내부에서 필터링, H2H 추출, AI 분석, MD 생성이 모두 처리됨)
     console.log("\n[2-5단계] 신규 경기 필터링 및 AI 분석 시작...");
     console.log("💡 이미 생성된 분석글은 자동으로 건너뜁니다.");
-    execSync('node analyze-gemin-mistral.js', { stdio: 'inherit', cwd: __dirname });
+    execSync('node analyze-router-one-git.js', { stdio: 'inherit', cwd: __dirname });
     
     console.log("\n====================================================");
     console.log("🎉 모든 작업이 완료되었습니다!");
