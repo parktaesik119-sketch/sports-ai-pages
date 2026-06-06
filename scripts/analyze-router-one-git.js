@@ -123,7 +123,7 @@ async function analyzeMatches() {
 
     const blockedTeams = [
   // [나이,성별]
-  'U21', 'U19', 'U18', 'U17', 'YOUTH', 'RESERVE', 'WOMEN', 'WOMAN', 'FEMALE', 'FRAUEN', 'FEMININE', 'FEMININE DIVISION 1', 'FEMENIL', 'BUBLIKI', 'ZEROZONE GAMING', 'RONALDO TEAM', 'THE OTTER SIDE', 'CRUSADERS', 'DREAM ESPORTS', 'GTZ ESPORTS'
+  'U21', 'U19', 'U18', 'U17', 'YOUTH', 'RESERVE', 'WOMEN', 'WOMAN', 'FEMALE', 'FRAUEN', 'FEMININE', 'FEMININE DIVISION 1', 'FEMENIL', 'BUBLIKI', 'ZEROZONE GAMING', 'RONALDO TEAM', 'THE OTTER SIDE', 'CRUSADERS', 'DREAM ESPORTS', 'GTZ ESPORTS', 'FLUXO W7M', 'PAIN GAMING', 'LOUD', 'VIVO KEYD STARS', 'RED CANIDS', 'LEVIATAN ESPORTS', 'FRITES ESPORTS CLUB', 'MCON ESPORTS',
   ];
    
   const filteredMatches = rawData.filter(m => {
@@ -211,6 +211,10 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
   // 6. 롤 //대문자로 띄어쓰기 없이 적을 것. Rounds 1-2 이런 글자는 자동 삭제니 적지 않아야 함
   // Playoffs가 붙은 EWC는 lol 판별 전에 먼저 차단
   const isEWCPlayoffs = upperLg.replace(/\s+/g, '') === 'ESPORTSWORLDCUPPLAYOFFS';
+  if (isEWCPlayoffs) {
+    console.log(`🚫 [EWC 차단] EWC Playoffs 스킵: ${m.league}`);
+    return false;
+  }
 
   const normalizedLg = upperLg
   .replace(/\s+/g, '')
