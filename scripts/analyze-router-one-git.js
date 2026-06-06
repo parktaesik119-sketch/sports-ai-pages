@@ -440,7 +440,6 @@ if (isFreePassLeague) {
 // 1. 절대로 변하지 않는 '절대 규칙/지시문'만 시스템 프롬프트로 고정합니다. (캐싱 대상)
 const SYSTEM_RULES_PROMPT = `
   너는 '픽천국'의 수석 분석가야. 아래 규정을 절대적으로 준수하여 풍부하고 냉철한 리포트를 작성해라.
-  친절한 말투로 작성해라(예: 합니다. 습니다. 입니다)
 
   [최우선 지시: 영문 노출 절대 금지]
   - 모든 팀명은 반드시 한국어로만 작성해야 한다.
@@ -496,7 +495,6 @@ const SYSTEM_RULES_PROMPT = `
   2. 분석 과정, 내부 추론, 모델의 자기 생각(Thought)을 본문에 단 한 단어도 포함하지 마라.
   3. 응답은 반드시 HOME_KOR / AWAY_KOR / COUNTRY_KOR 세 줄 다음,
    '### <img ...> 홈팀명 분석' 섹션부터 바로 시작하라.
-   '### 🏟️ 경기 정보 요약'은 절대 작성하지 마라.
   4. 한국어 분석 리포트 내에 영어로 된 설명글이나 메모를 절대 적지 마라. 100% 한국어만 사용해라.
   5. 동일한 내용을 두 번 반복해서 생성하는 행위는 절대 금지한다.
 
@@ -580,7 +578,7 @@ const client = new OpenAI({
 try {
   // 3. API 호출 시 메세지 배열 구조를 분리하여 전달합니다.
   const completion = await client.chat.completions.create({
-    model: "openai/gpt-4.1-mini",
+    model: "google/gemini-2.5-flash",
     messages: [
       {
         role: "system",
@@ -656,7 +654,6 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   }
 
   // [검증 2-1] 가상 선수명 플레이스홀더 필터링
-
 if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includes('[부상') || aiText.includes('[결장')) {
   console.error(`❌ [환각 감지] 가상 선수명 플레이스홀더 발견: ${match.home}`);
   return;
