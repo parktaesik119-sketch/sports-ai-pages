@@ -62,6 +62,8 @@ const TEAM_NAME_MAP = {
   "Meshakhte": "마사크테 트빌리시",
   "Universitatea Craiova": "Univ 크라이오바",
   "Toledo Mud Hens": "톨레도 머드헨스"
+  "NC Dinos": "NC 다이노스",
+  "LG Twins": "LG 트윈스",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
