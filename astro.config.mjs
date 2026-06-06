@@ -2,16 +2,19 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  // 도메인 주소는 정확히 유지하세요.
   site: 'https://pick79.com',
+
+  // ✅ 슬래시 통일: 실제 URL이 슬래시로 끝나므로 always로 맞춤
+  trailingSlash: 'always',
+
   integrations: [
     sitemap({
-      // 구글 핑 대신 '수정 날짜'를 봇에게 명확히 전달합니다.
       serialize(item) {
         if (/posts\//.test(item.url)) {
-          item.changefreq = 'hourly'; // 분석글은 자주 확인하도록 유도
-          item.lastmod = new Date().toISOString(); // 현재 시간을 마지막 수정일로 기록
-          item.priority = 0.9; // 일반 페이지보다 높은 우선순위 부여
+          item.changefreq = 'daily'; // hourly는 과도함, daily로 충분
+          // ✅ lastmod를 현재 시간으로 덮어쓰지 않음 (빌드마다 전체 갱신 방지)
+          // Astro가 파일 수정일 기준으로 자동 처리하도록 그냥 둠
+          item.priority = 0.9;
         }
         return item;
       },
