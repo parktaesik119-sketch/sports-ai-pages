@@ -61,7 +61,7 @@ const TEAM_NAME_MAP = {
   "Tatung": "래퍼드 캣 FC",
   "Meshakhte": "마사크테 트빌리시",
   "Universitatea Craiova": "Univ 크라이오바",
-  "Toledo Mud Hens": "톨레도 머드헨스"
+  "Toledo Mud Hens": "톨레도 머드헨스",
   "NC Dinos": "NC 다이노스",
   "LG Twins": "LG 트윈스",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
@@ -440,6 +440,7 @@ if (isFreePassLeague) {
 // 1. 절대로 변하지 않는 '절대 규칙/지시문'만 시스템 프롬프트로 고정합니다. (캐싱 대상)
 const SYSTEM_RULES_PROMPT = `
   너는 '픽천국'의 수석 분석가야. 아래 규정을 절대적으로 준수하여 풍부하고 냉철한 리포트를 작성해라.
+  친절한 말투로 작성해라(예: 합니다. 습니다. 입니다)
 
   [최우선 지시: 영문 노출 절대 금지]
   - 모든 팀명은 반드시 한국어로만 작성해야 한다.
@@ -448,14 +449,13 @@ const SYSTEM_RULES_PROMPT = `
   
   [금지 사항]
   1. 한자(한문), 일어 사용 절대 금지: 100% 쉬운 한글로만 작성.
-  2. markdown 문법 및 ###, ##, #, **, __, ---, *** 같은 코드블록기호(\`\`\`) 사용 금지
-  3. 추천픽에 배당은 기재하면 안된다.
-  4. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
-  5. 보고서의 어떤 항목에서도 영문 팀명을 그대로 노출하지 마라. ...
-  6. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
-  7. '경기 정보 요약' 섹션을 절대 직접 작성하지 마라. 이 섹션은 시스템이 자동 삽입한다.
-  8. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
-  9. 반드시 '### [홈팀명] 분석' 섹션부터 바로 시작하라.
+  2. 추천픽에 배당은 기재하면 안된다.
+  3. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
+  4. 보고서의 어떤 항목에서도 영문 팀명을 그대로 노출하지 마라. ...
+  5. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
+  6. '경기 정보 요약' 섹션을 절대 직접 작성하지 마라. 이 섹션은 시스템이 자동 삽입한다.
+  7. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
+  8. '### 🏟️ 경기 정보 요약' 섹션은 시스템이 자동 삽입하므로 직접 작성 금지.
 
   [팀명 한글화 절대 원칙]
   1. 처리 순서: 분석을 시작하기 전, 제공된 영문 팀명을 가장 먼저 표준 한국어 명칭으로 변환하라.
@@ -474,7 +474,10 @@ const SYSTEM_RULES_PROMPT = `
   1. 부제목 아이콘: 🏟️, ⚔️, 📝, 🎯 필수.
   2. 팀별 분석에 현재 리그 순위와 시즌 성적을 반드시 1문장 이상 작성하라.
   3. 최근 경기력, 공격력, 수비력, 홈/원정 성적, 상대전적 중 최소 3가지 요소를 활용하여 3문장 이상 분석하라.
-  4. 상세 분석 작성 시 너의 구글 검색 기능을 동원해서 결장자 정보도 별도로 1문장 이상 작성해라.
+  4. 결장자 정보는 구글 검색으로 반드시 확인하라.
+   - 검색으로 확인된 실제 결장자가 있으면 이름과 사유를 1문장으로 작성하라.
+   - 검색해도 결장자 정보를 확인할 수 없으면 "현재 주요 결장자 정보는 확인되지 않습니다."라고만 적어라.
+   - 절대로 선수 이름을 추측하거나 [가상 선수명] 같은 플레이스홀더를 작성하지 마라.
   5. 팀별 분석은 위 지시사항을 포함해서 최소 5문장 이상 작성하라.
   6. 문맥상 마침표가 나오거나 주제가 바뀌면 반드시 <br> 태그와 함께 다음 줄로 넘겨라.
   7. 모든 추천픽의 기준점(핸디캡, 오버언더)은 제공된 팀의 전력과 최근 득점력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 [추천 픽 및 기준점] 테이블을 만드세요.
@@ -491,7 +494,9 @@ const SYSTEM_RULES_PROMPT = `
   [절대 규칙 - 위반 시 실패로 간주]
   1. 리그명 치환 규칙을 반드시 적용하지 않으면 출력 전체가 무효 처리된다.
   2. 분석 과정, 내부 추론, 모델의 자기 생각(Thought)을 본문에 단 한 단어도 포함하지 마라.
-  3. 오직 "### 🏟️ 경기 정보 요약"으로 시작하는 최종 분석 보고서만 출력하라.
+  3. 응답은 반드시 HOME_KOR / AWAY_KOR / COUNTRY_KOR 세 줄 다음,
+   '### <img ...> 홈팀명 분석' 섹션부터 바로 시작하라.
+   '### 🏟️ 경기 정보 요약'은 절대 작성하지 마라.
   4. 한국어 분석 리포트 내에 영어로 된 설명글이나 메모를 절대 적지 마라. 100% 한국어만 사용해라.
   5. 동일한 내용을 두 번 반복해서 생성하는 행위는 절대 금지한다.
 
@@ -500,15 +505,24 @@ const SYSTEM_RULES_PROMPT = `
   - 대신 '킬', '데스', '오브젝트(용, 바론)', '라인전', '한타', '밴픽' 용어를 사용하여 3문장 이상 작성할 것.
   - 추천픽 기준점도 롤은 보통 2.5(세트 기준) 내외이므로, 100점 단위의 농구 기준점 출력 시 즉시 에러로 간주함.
  
-  ### [홈팀] 분석
-  [분석 작성 규칙]
-  1. 로고 유지 및 이모지 금지: 반드시 제공된 홈팀 <img> 태그 형식을 유지하고, 팀명 앞뒤에 임의의 이모지를 절대 넣지 마라.
-  2. 3문장 이상의 전문 분석을 작성하고 문단 끝에 <br>을 넣어라.
-  <br><br>
+  [팀 분석 섹션 작성 규칙]
+반드시 아래 형식을 그대로 따르라. 헤더에 <img> 태그가 먼저, 그 다음 팀명이 온다.
 
-  ### [원정팀] 분석
-  (홈팀 분석 규칙과 동일하게 로고 이미지를 사용하고 이모지를 금지하여 3문장 이상 작성. 문단 끝 <br>)
-  <br><br>
+올바른 형식:
+### <img src="[홈팀 로고 URL]" width="30" height="30" style="vertical-align: middle;"> [홈팀명] 분석
+분석 첫 문장<br>
+분석 두 번째 문장<br>
+<br><br>
+
+### <img src="[원정팀 로고 URL]" width="30" height="30" style="vertical-align: middle;"> [원정팀명] 분석
+분석 첫 문장<br>
+분석 두 번째 문장<br>
+<br><br>
+
+절대 금지:
+- ### 팀명 분석 (img 없이 팀명만 쓰는 것)
+- ### 팀명 분석 다음 줄에 <img> 태그 쓰는 것
+- 헤더와 <img> 사이에 어떤 텍스트도 삽입 금지
 
   ### ⚔️ 상대전적
   [상대전적 작성 절대 규칙]
@@ -566,7 +580,7 @@ const client = new OpenAI({
 try {
   // 3. API 호출 시 메세지 배열 구조를 분리하여 전달합니다.
   const completion = await client.chat.completions.create({
-    model: "google/gemini-2.5-flash",
+    model: "openai/gpt-4.1-mini",
     messages: [
       {
         role: "system",
@@ -582,7 +596,7 @@ try {
   const aiResponse =
     completion.choices?.[0]?.message?.content || "";
 
-  if (aiResponse.length > 200) {
+  if (aiResponse.length > 1500) {
 
     await savePost(
       savePath,
@@ -641,6 +655,13 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
     return;
   }
 
+  // [검증 2-1] 가상 선수명 플레이스홀더 필터링
+
+if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includes('[부상') || aiText.includes('[결장')) {
+  console.error(`❌ [환각 감지] 가상 선수명 플레이스홀더 발견: ${match.home}`);
+  return;
+}
+
   // 1. 기초 정제 (여기서 변수를 선언합니다)
   let cleanedText = aiText.replace(/```markdown|```/g, "").trim();
   
@@ -687,14 +708,19 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   // [강제집행 1] 본문 상단 중복 타이틀 무조건 삭제
   // '### 🏟️ 경기 정보 요약' 앞부분에 오는 모든 텍스트(AI가 쓴 제목 등)를 통째로 지웁니다.
   const marker = "### 🏟️";
-  if (cleanedText.includes(marker)) {
-    cleanedText = cleanedText.substring(cleanedText.indexOf(marker));
-  }
-
-  const textParts = cleanedText.split(marker);
-if (textParts.length > 2) {
-    cleanedText = marker + textParts[1]; // 첫 번째 정상적인 분석 내용만 취함
+if (cleanedText.includes(marker)) {
+  cleanedText = cleanedText.substring(cleanedText.indexOf(marker));
 }
+
+const textParts = cleanedText.split(marker);
+if (textParts.length >= 2) {
+    cleanedText = marker + textParts[1];
+}
+
+// 경기 정보 요약 표([경기시간] 행) 직후부터 첫 번째 ### 섹션 사이의 불필요한 텍스트 전부 제거
+cleanedText = cleanedText.replace(/(경기시간[^\n]*\|[^\n]*\n)([\s\S]*?)(### )/g, (match, p1, p2, p3) => {
+  return p1 + '\n' + p3;
+});
 
 // [추가] 영어 문장이 일정 비율 이상 포함된 줄은 삭제 (필요 시 적용)
 cleanedText = cleanedText.split('\n').filter(line => {
