@@ -49,7 +49,6 @@ const TEAM_NAME_MAP = {
   "Fubon Guardian": "푸방 가디언즈",
   "Pittsburgh Pirates": "피츠버그 파이러츠",
   "Nippon Ham Fighters": "니혼햄 파이터즈",
-  "Shenyang Urban": "랴오닝 선양",
   "Nieciecza": "부르크베트 테르말리차",
   "Lechia Gdansk": "레히아 그단스크",
   "Widzew Łódź": "비드제브 로즈",
@@ -181,7 +180,7 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
     "England": ["LEAGUE ONE"],
   };
 
-  if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => upperLg.includes(bl.toUpperCase()))) {
+  if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
     console.log(`🚫 [특수 차단] ${country} 하위 리그 스킵: ${m.league}`);
     return false;
   }
@@ -252,9 +251,7 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
 });
 
 
-    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Gemini -> Mistral 로테이션)`);
-
-    const now = new Date();
+    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Gemini 2.5 flash)`);
 
     for (let i = 0; i < filteredMatches.length; i++) {
   const match = filteredMatches[i];
@@ -568,64 +565,57 @@ const matchDataPrompt = `
   - [중요] 상대전적 가이드: 데이터베이스에 스코어 정보가 있다면 이를 우선 반영하고 만약 비어있다면 Google Search를 통해 "${match.home} vs ${match.away} last match results 2024 2025 2026"를 검색하여 리포트를 완성하라.
 `;
 
+// ✅ 재시도 포함 버전 (최대 2회 시도)
 let success = false;
+const MAX_RETRY = 2;
+const client = new OpenAI({ baseURL: "https://api.router.one/v1", apiKey: ROUTERONE_API_KEY });
 
-const client = new OpenAI({
-  baseURL: "https://api.router.one/v1",
-  apiKey: ROUTERONE_API_KEY
-});
+for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
+  try {
+    if (attempt > 1) {
+      console.log(`🔄 [재시도 ${attempt}/${MAX_RETRY}] ${match.home} vs ${match.away}`);
+      await new Promise(res => setTimeout(res, 3000)); // 재시도 전 3초 대기
+    }
 
-try {
-  // 3. API 호출 시 메세지 배열 구조를 분리하여 전달합니다.
-  const completion = await client.chat.completions.create({
-    model: "google/gemini-2.5-flash",
-    messages: [
-      {
-        role: "system",
-        content: SYSTEM_RULES_PROMPT // 👈 변하지 않는 거대한 가이드라인 (자동 캐싱 발동)
-      },
-      {
-        role: "user",
-        content: matchDataPrompt // 👈 매 루프마다 가볍게 변경되는 데이터 영역
+    const completion = await client.chat.completions.create({
+      model: "google/gemini-2.5-flash",
+      messages: [
+        { role: "system", content: SYSTEM_RULES_PROMPT },
+        { role: "user", content: matchDataPrompt }
+      ]
+    });
+
+    const aiResponse = completion.choices?.[0]?.message?.content || "";
+
+    if (aiResponse.length > 2000) {
+      const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent);
+      if (saved) {
+        console.log(`✅ Router One 성공 (${attempt}차 시도): ${match.home} vs ${match.away}`);
+        success = true;
+        break; // 성공하면 재시도 루프 종료
+      } else {
+        console.warn(`⚠️ [저장 실패] ${attempt}차 시도 저장 거부됨: ${match.home} vs ${match.away}`);
       }
-    ]
-  });
+    } else {
+      console.warn(`⚠️ [응답 짧음] ${attempt}차 시도 응답 길이 부족 (${aiResponse.length}자): ${match.home}`);
+    }
 
-  const aiResponse =
-    completion.choices?.[0]?.message?.content || "";
-
-  if (aiResponse.length > 1500) {
-
-    await savePost(
-      savePath,
-      aiResponse,
-      match,
-      dateShort,
-      cat,
-      dateOnly,
-      h2hContent
-    );
-
-    console.log(
-      `✅ Router One 성공: ${match.home} vs ${match.away}`
-    );
-
-    success = true;
+  } catch (err) {
+    const code = err?.status || err?.response?.status;
+    console.error(`❌ Router One 오류 (${code}) ${attempt}차 시도`, err.message);
+    if (attempt === MAX_RETRY) break;
   }
-
-} catch (err) {
-
-  const code =
-    err?.status ||
-    err?.response?.status;
-
-  console.error(
-    `❌ Router One 오류 (${code})`,
-    err.message
-  );
 }
 
-  if (success) await new Promise(res => setTimeout(res, 6000));
+if (success) {
+  await new Promise(res => setTimeout(res, 6000));
+} else {
+  // ✅ 최종 실패 로그 기록
+  const failLogPath = path.resolve(__dirname, '../database/failed-matches.log');
+  const failEntry = `[${new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })}] FAILED: ${match.home} vs ${match.away} | ${match.league} | ${matchTimeStr}\n`;
+  fs.appendFileSync(failLogPath, failEntry, 'utf8');
+  console.error(`📋 [최종 실패 기록] ${match.home} vs ${match.away} → failed-matches.log`);
+}
 }
     }
   } catch (error) {
@@ -638,30 +628,49 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   // [검증 1] 데이터 타입 확인
   if (typeof aiText !== 'string' || !aiText || aiText.length < 10) {
     console.error(`❌ [저장 실패] AI 응답이 문자열이 아니거나 너무 짧음: ${match.home}`);
-    return;
+    return false;
   }
 
   const basketballTerms = ["외곽슛", "득점력", "리바운드", "쿼터", "자유투", "3점슛"];
   if (cat === "lol" && basketballTerms.some(term => aiText.includes(term))) {
     console.error(`❌ [종목 혼동 차단] 롤 분석에 농구 용어 감지됨: ${match.home} vs ${match.away}`);
-    return; // 이 지점에서 함수를 종료하여 파일 생성을 막습니다.
+    return false; // 이 지점에서 함수를 종료하여 파일 생성을 막습니다.
   }
 
   // [검증 2] AI의 "방어적 사과문" 필터링
   if (aiText.includes("정보가 없") || aiText.includes("죄송합니다") || aiText.includes("불가능합니다")) {
     console.error(`❌ [분석 실패] AI가 유효하지 않은 답변을 생성함: ${match.home}`);
-    return;
+    return false;
   }
 
   // [검증 2-1] 가상 선수명 플레이스홀더 필터링
 if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includes('[부상') || aiText.includes('[결장')) {
   console.error(`❌ [환각 감지] 가상 선수명 플레이스홀더 발견: ${match.home}`);
-  return;
+  return false;
 }
 
   // 1. 기초 정제 (여기서 변수를 선언합니다)
   let cleanedText = aiText.replace(/```markdown|```/g, "").trim();
   
+  
+// [검증 2-2] 야구 무승부 감지 필터
+if (cat === "baseball") {
+  const drawPattern = /\(\d+-\d+\).*무승부|\b(\d+)-\1\b/;
+  const tieLines = cleanedText.split('\n').filter(line => {
+    const scoreMatch = line.match(/\((\d+)-(\d+)\)/);
+    return scoreMatch && scoreMatch[1] === scoreMatch[2];
+  });
+  if (tieLines.length > 0) {
+    console.warn(`⚠️ [야구 무승부 감지] 해당 줄 자동 제거: ${match.home}`);
+    cleanedText = cleanedText.split('\n')
+      .filter(line => {
+        const scoreMatch = line.match(/\((\d+)-(\d+)\)/);
+        return !(scoreMatch && scoreMatch[1] === scoreMatch[2]);
+      })
+      .join('\n');
+  }
+}
+
   // 변수 선언 (중복 선언 에러 방지를 위해 여기서 한 번만 선언)
   const homeKorMatch = cleanedText.match(/HOME_KOR:\s*(.*)/);
   const awayKorMatch = cleanedText.match(/AWAY_KOR:\s*(.*)/);
@@ -670,7 +679,7 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
   // [검증 3] 필수 정보(한글 팀명) 추출 확인
   if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
     console.error(`❌ [매핑 실패] 한글 팀명 누락으로 저장 스킵: ${match.home}`);
-    return;
+    return false;
   }
 
   // 데이터 할당
@@ -938,6 +947,15 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
+
+// ✅ [검증 4] 필수 섹션 완전성 검사 - 저장 직전 최종 관문
+const requiredSections = ['분석', '⚔️', '📝', '🎯'];
+const missingSections = requiredSections.filter(s => !cleanedText.includes(s));
+if (missingSections.length > 0) {
+  console.error(`❌ [구조 불완전] 누락 섹션 감지 (${missingSections.join(', ')}): ${match.home} vs ${match.away}`);
+  return false; // 
+}
+
 const content = `---
 title: "${finalTitle}"
 date: ${match.date}
@@ -956,6 +974,7 @@ ${cleanedText}${footer}`;
 
   fs.writeFileSync(savePath, content, 'utf8');
   console.log(`✅ [저장성공] ${finalTitle}`);
+  return true;
 }
 
 analyzeMatches();
