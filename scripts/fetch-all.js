@@ -81,28 +81,20 @@ function isSimilar(a, b) {
  */
 function getTargetDates() {
   const dates = [];
-  // 💡 실행 시점 자체를 KST로 고정
-  const now = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
+  // UTC 기준 현재 시각에서 ms 단위로 날짜 오프셋 계산
+  const nowUtc = Date.now();
 
-  const formatter = new Intl.DateTimeFormat("ko-KR", {
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-    timeZone: "Asia/Seoul"
-  });
-
-  // -1일부터 +3일
   for (let i = -1; i <= 3; i++) {
-    const targetDate = new Date(now.getTime());
-    targetDate.setDate(now.getDate() + i);
-    
-    const parts = formatter.formatToParts(targetDate);
-    const year = parts.find(p => p.type === 'year').value;
-    const month = parts.find(p => p.type === 'month').value;
-    const day = parts.find(p => p.type === 'day').value;
-    
-    dates.push(`${year}-${month}-${day}`);
+    const target = new Date(nowUtc + i * 24 * 60 * 60 * 1000);
+    // KST(+9) 기준 날짜 문자열 추출
+    const kstOffset = 9 * 60 * 60 * 1000;
+    const kst = new Date(target.getTime() + kstOffset);
+    const y = kst.getUTCFullYear();
+    const m = String(kst.getUTCMonth() + 1).padStart(2, '0');
+    const d = String(kst.getUTCDate()).padStart(2, '0');
+    dates.push(`${y}-${m}-${d}`);
   }
+
   return [...new Set(dates)];
 }
 
