@@ -587,7 +587,7 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
 
     const aiResponse = completion.choices?.[0]?.message?.content || "";
 
-    if (aiResponse.length > 2000) {
+    if (aiResponse.length > 1200) {
       const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent);
       if (saved) {
         console.log(`✅ Router One 성공 (${attempt}차 시도): ${match.home} vs ${match.away}`);
@@ -615,6 +615,41 @@ if (success) {
   const failEntry = `[${new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })}] FAILED: ${match.home} vs ${match.away} | ${match.league} | ${matchTimeStr}\n`;
   fs.appendFileSync(failLogPath, failEntry, 'utf8');
   console.error(`📋 [최종 실패 기록] ${match.home} vs ${match.away} → failed-matches.log`);
+
+  // ✅ 실패 경기 빈 껍데기 파일 저장 (수동 재분석용)
+  // 폴더 없으면 자동 생성
+const failDir = path.resolve(__dirname, '../database/false');
+if (!fs.existsSync(failDir)) fs.mkdirSync(failDir, { recursive: true });
+
+const failSavePath = path.resolve(failDir, `${dateOnly}-${match.id}-${safeHomeName}.md`);
+  if (!fs.existsSync(failSavePath)) {
+    const aiHomeName = TEAM_NAME_MAP[match.home] || match.home;
+    const aiAwayName = TEAM_NAME_MAP[match.away] || match.away;
+    const failContent = `---
+title: "[미분석] ${aiHomeName} vs ${aiAwayName} ${matchTimeStr}"
+date: ${match.date}
+description: "AI 분석 실패 - 수동 재분석 필요"
+slug: "analyze-${match.id}-${dateOnly}-${safeHomeName}"
+category: "${cat}"
+country: ""
+league: "${match.league}"
+homeTeam: "${aiHomeName}"
+awayTeam: "${aiAwayName}"
+homeLogo: "${match.homeLogo || ''}"
+awayLogo: "${match.awayLogo || ''}"
+draft: true
+---
+
+> ⚠️ AI 분석 ${MAX_RETRY}회 시도 모두 실패한 경기입니다.
+
+- 홈팀: ${aiHomeName} (${match.home})
+- 원정팀: ${aiAwayName} (${match.away})
+- 리그: ${match.league}
+- 경기시간: ${matchTimeStr}
+`;
+    fs.writeFileSync(failSavePath, failContent, 'utf8');
+    console.log(`📝 [미완성 파일 저장] ${match.home} vs ${match.away}`);
+  }
 }
 }
     }
