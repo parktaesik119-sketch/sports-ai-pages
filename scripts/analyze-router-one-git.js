@@ -81,6 +81,50 @@ function getSafeLogoName(teamName) {
     .replace(/-+/g, '-')            // 중복 하이픈 제거
     .replace(/^-+|-+$/g, '');       // 앞뒤 하이픈 제거
 }
+
+// 최근 경기 → AI 컨텍스트 + 가로 한줄 형식
+  function buildRecentForm(recentList, teamName) {
+  if (!recentList || recentList.length === 0) return `${teamName}: 최근 경기 데이터 없음`;
+
+  const lines = recentList.map(m => {
+    const d = new Date(m.date).toLocaleDateString('ko-KR', {
+      year: '2-digit', month: '2-digit', day: '2-digit'
+    }).replace(/\.\s*/g, '/').replace(/\/$/, '');
+    const score = (m.homeScore !== null && m.awayScore !== null)
+      ? `${m.homeScore}-${m.awayScore}` : m.score;
+    const isHome = m.home === teamName;
+    const myScore = isHome ? Number(m.homeScore) : Number(m.awayScore);
+    const opScore = isHome ? Number(m.awayScore) : Number(m.homeScore);
+    const result = myScore > opScore ? '🟢승' : myScore < opScore ? '🔴패' : '🟡무';
+    return `  ${d} ${m.home} vs ${m.away} (${score}) → ${result}`;
+  });
+
+  const wins = recentList.filter(m => {
+    const isHome = m.home === teamName;
+    const my = isHome ? Number(m.homeScore) : Number(m.awayScore);
+    const op = isHome ? Number(m.awayScore) : Number(m.homeScore);
+    return my > op;
+  }).length;
+  const losses = recentList.filter(m => {
+    const isHome = m.home === teamName;
+    const my = isHome ? Number(m.homeScore) : Number(m.awayScore);
+    const op = isHome ? Number(m.awayScore) : Number(m.homeScore);
+    return my < op;
+  }).length;
+  const draws = recentList.length - wins - losses;
+
+  const totalScored = recentList.reduce((sum, m) => {
+    const isHome = m.home === teamName;
+    return sum + (isHome ? Number(m.homeScore) : Number(m.awayScore));
+  }, 0);
+  const avgScore = (totalScored / recentList.length).toFixed(1);
+
+  const summary = `최근 ${recentList.length}경기: ${wins}승 ${draws}무 ${losses}패 / 평균 득점 ${avgScore}`;
+  const matchLines = lines.join('\n');
+
+  return `${summary}\n📋 최근 경기\n${matchLines}`;
+}
+
 async function analyzeMatches() {
   try {
     const today = new Date(Date.now() + (9 * 60 * 60 * 1000)).toISOString().split('T')[0];
@@ -344,7 +388,33 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
     h2hContextForAI = `\n[SEARCH_REQUIRED] "2024-2026 ${match.homeTeam} vs ${match.awayTeam} match results"를 검색하여 스코어를 확인하고 상세 분석에 반영하라.\n`;
   }
 
-     // 7. 종목 판별 및 리그 차단 
+  // 최근 3경기 추출
+  const homeRecentMatches = masterData.filter(m => {
+    const isHomeTeam = m.home === match.home || m.away === match.home;
+    const matchDate = new Date(m.date);
+    const isPast = matchDate < currentMatchDate;
+    const isRecentEnough = matchDate >= strictlyRecentDate;
+    const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
+                     (m.homeScore !== null && m.awayScore !== null);
+    return isHomeTeam && isPast && isRecentEnough && hasScore;
+  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 3);
+
+  // 원정팀 최근 3경기 추출
+  const awayRecentMatches = masterData.filter(m => {
+    const isAwayTeam = m.home === match.away || m.away === match.away;
+    const matchDate = new Date(m.date);
+    const isPast = matchDate < currentMatchDate;
+    const isRecentEnough = matchDate >= strictlyRecentDate;
+    const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
+                     (m.homeScore !== null && m.awayScore !== null);
+    return isAwayTeam && isPast && isRecentEnough && hasScore;
+  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 3);
+
+  // ✅ 최근 경기 컨텍스트 문자열 생성
+  const homeRecentContext = buildRecentForm(homeRecentMatches, match.home);
+  const awayRecentContext = buildRecentForm(awayRecentMatches, match.away);
+
+  // 7. 종목 판별 및 리그 차단 
   const lg = (match.league || '').toUpperCase();
   
   // [차단] 블랙리스트 리그 발견 시 즉시 스킵
@@ -482,6 +552,22 @@ const SYSTEM_RULES_PROMPT = `
     - 조건에 맞는 최근 2년 이내(2024~2026) 기록이 단 하나도 없다면, 이 섹션 전체를 출력하지 말고 '※업데이트 예정'이라고만 표기하라.  
   9. 리그명 중 KBL, MLB, NPB, NHL, MLS, KHL 등 약자로 된 리그는 한글로 바꾸지말고 영문 그대로 사용해주세요.
   10. 출력 시 반드시 최종 분석 보고서 결과만 출력하고, 내부 추론 과정이나 검색 결과에 대한 코멘트, 불필요한 기호는 절대 포함하지 마세요.
+  11. 홈팀 분석 텍스트 안에 반드시 다음 두 가지를 포함하라:
+    ① 제공된 [홈팀 최근 3경기 DB]의 승/패 기록과 평균 득점 수치를 인용하여 최근 폼을 1~2문장으로 서술하라.
+       (예: "최근 3경기에서 2승 1패를 기록 중이며, 평균 2.3득점을 올리고 있어 공격력이 살아있는 상태다.")
+    ② 분석 텍스트가 끝난 다음 줄에, 아래 형식을 그대로 사용하여 최근 경기를 출력하라.
+       표(|) 절대 사용 금지. 한 경기당 한 줄씩 출력하라.
+
+       📋 최근 경기
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🔴패
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🟢승
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🟡무
+       (위 형식은 예시이며, 반드시 [홈팀/원정팀 최근 3경기 DB]에서 제공된 실제 데이터만 사용하라. 예시 값을 절대 그대로 출력하지 마라.)
+
+       - 승/무/패 이모지 규칙: 승 → 🟢승, 패 → 🔴패, 무 → 🟡무
+       - 팀명은 반드시 한글로 번역하라.
+       - 데이터가 없으면 '📋 최근 경기 데이터 없음'으로 표기하라.
+12. 원정팀도 11번과 동일한 규칙을 적용하라.
 
   [제목 형식 지시] 
   - 상단 TITLE 라인의 팀명은 반드시 한글로 번역해서 사용해라.
@@ -563,6 +649,12 @@ const matchDataPrompt = `
   - 원정팀 정보: 한글 매핑명 명칭은 '${aiAwayName}'이며, 오리지널 영문명은 '${match.away}'이다. 로고 태그는 '<img src="${match.awayLogo || ''}" width="30" height="30" style="vertical-align: middle;">'를 사용하라.
   - 상대 전적 데이터베이스 정보: ${h2hContextForAI}
   - [중요] 상대전적 가이드: 데이터베이스에 스코어 정보가 있다면 이를 우선 반영하고 만약 비어있다면 Google Search를 통해 "${match.home} vs ${match.away} last match results 2024 2025 2026"를 검색하여 리포트를 완성하라.
+
+    [홈팀 최근 3경기 DB - 홈팀 분석 섹션 하단에 반드시 반영]
+  ${homeRecentContext}
+
+  [원정팀 최근 3경기 DB - 원정팀 분석 섹션 하단에 반드시 반영]
+  ${awayRecentContext}
 `;
 
 // ✅ 재시도 포함 버전 (최대 2회 시도)
@@ -758,11 +850,6 @@ if (textParts.length >= 2) {
     cleanedText = marker + textParts[1];
 }
 
-// 경기 정보 요약 표([경기시간] 행) 직후부터 첫 번째 ### 섹션 사이의 불필요한 텍스트 전부 제거
-cleanedText = cleanedText.replace(/(경기시간[^\n]*\|[^\n]*\n)([\s\S]*?)(### )/g, (match, p1, p2, p3) => {
-  return p1 + '\n' + p3;
-});
-
 // [추가] 영어 문장이 일정 비율 이상 포함된 줄은 삭제 (필요 시 적용)
 cleanedText = cleanedText.split('\n').filter(line => {
     const englishCount = (line.match(/[a-zA-Z]/g) || []).length;
@@ -945,6 +1032,18 @@ cleanedText = cleanedText
 
  // 8. 맨 위에 강제 삽입
 cleanedText = summaryTable + "\n\n" + cleanedText;
+
+// ✅ [추가] summaryTable 삽입 후, 경기정보요약 표와 첫 번째 홈팀 분석(###) 사이의 불필요한 텍스트 제거
+cleanedText = cleanedText.replace(
+  /(경기시간[^\n]*\n)\n*([\s\S]*?)\n*(###\s*<img)/,
+  (_, p1, p2, p3) => {
+    const garbage = p2.trim();
+    if (garbage) {
+      console.log(`🧹 [중간 쓰레기 제거] "${garbage.substring(0, 60)}..."`);
+    }
+    return p1 + '\n\n' + p3;
+  }
+);
 
   // 9. 추천픽 표 정제 - 미스트랄 예외 완벽 방어
 if (cleanedText && cleanedText.includes('🎯 추천픽')) {
