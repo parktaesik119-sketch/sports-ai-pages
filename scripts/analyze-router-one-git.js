@@ -96,7 +96,7 @@ function getSafeLogoName(teamName) {
     const myScore = isHome ? Number(m.homeScore) : Number(m.awayScore);
     const opScore = isHome ? Number(m.awayScore) : Number(m.homeScore);
     const result = myScore > opScore ? '🟢승' : myScore < opScore ? '🔴패' : '🟡무';
-    return `${d} ${m.home} vs ${m.away} (${score}) → ${result} <br>`;  // ← <br> 추가, 앞 공백 제거
+    return `${d} ${m.home} vs ${m.away} (${score}) → ${result}`;
   });
 
   const wins = recentList.filter(m => {
@@ -120,9 +120,9 @@ function getSafeLogoName(teamName) {
   const avgScore = (totalScored / recentList.length).toFixed(1);
 
   const summary = `최근 ${recentList.length}경기: ${wins}승 ${draws}무 ${losses}패 / 평균 득점 ${avgScore}`;
-  const matchLines = lines.join('\n');
+  const matchLines = lines.join('  \n');
 
-  return `${summary}\n📋 최근 경기 <br>\n${matchLines}\n<br><br>`;  // ← 헤더와 마지막에 <br> 추가
+  return `${summary}\n\n📋 최근 경기\n\n${matchLines}\n\n`;
 }
 
 async function analyzeMatches() {
