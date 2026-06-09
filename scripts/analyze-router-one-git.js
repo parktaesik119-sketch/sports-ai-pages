@@ -120,9 +120,8 @@ function getSafeLogoName(teamName) {
   const avgScore = (totalScored / recentList.length).toFixed(1);
 
   const summary = `최근 ${recentList.length}경기: ${wins}승 ${draws}무 ${losses}패 / 평균 득점 ${avgScore}`;
-  const matchLines = lines.join('  \n');
-
-  return `${summary}\n\n📋 최근 경기\n\n${matchLines}\n\n`;
+  const matchLines = lines.map(l => `${l}<br>`).join('\n');
+  return `${summary}\n\n📋 최근 경기<br>\n${matchLines}\n\n`;
 }
 
 async function analyzeMatches() {
@@ -558,9 +557,9 @@ const SYSTEM_RULES_PROMPT = `
     ② 분석 텍스트가 끝난 다음 줄에, 아래 형식을 그대로 사용하여 최근 경기를 출력하라.
        표(|) 절대 사용 금지. 한 경기당 한 줄씩 출력하라.
 
-       📋 최근 경기
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🔴패
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🟢승
+       📋 최근 경기<br>
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🔴패<br>
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🟢승<br>
        YY/MM/DD 팀A vs 팀B (X-Y) → 🟡무
        (위 형식은 예시이며, 반드시 [홈팀/원정팀 최근 3경기 DB]에서 제공된 실제 데이터만 사용하라. 예시 값을 절대 그대로 출력하지 마라.)
 
