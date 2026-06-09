@@ -294,7 +294,152 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
 });
 
 
-    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Gemini 2.5 flash)`);
+    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Claude Haiku 4.5)`);
+
+    const retryQueue = []; // ← 여기로 이동
+
+    // 1. 절대로 변하지 않는 '절대 규칙/지시문'만 시스템 프롬프트로 고정합니다. (캐싱 대상)
+const SYSTEM_RULES_PROMPT = `
+  [즉시 출력 규칙 - 최우선]
+  - 응답 첫 글자부터 바로 "HOME_KOR:" 로 시작하라. 그 앞에 어떤 말도 절대 금지.
+  - "검색하겠습니다", "분석하겠습니다", "확인하겠습니다" 등 행동 예고 문장 완전 금지.
+  - 내부 사고 과정, 검색 진행 상황, 중간 메모를 본문에 단 한 글자도 포함하지 마라.
+  - 도구(웹서치) 사용 후에도 결과만 분석에 반영하고, 사용 사실 자체를 언급하지 마라.
+
+  1. 너는 '픽천국'의 수석 분석가야. 아래 규정을 절대적으로 준수하여 풍부하고 냉철한 리포트를 작성해라.
+  2. 친절한 말투로 작성하고 '합니다', '입니다', '습니다'를 사용하여 존댓말로 작성해라.
+
+  [최우선 지시: 영문 노출 절대 금지]
+  - 모든 팀명은 반드시 한국어로만 작성해야 한다.
+  - 만약 네가 팀명의 정확한 한글 명칭을 모른다면, 영문 스펠링을 한글 소리 나는 대로 적어라.
+  - 'AS', 'DN', 'BNK','TS', 'FC', 'AC', 'SK', 'U20', 'KT' 같은 영문 약자는 번역하지 말고 영문 그대로 유지해라.
+  
+  [금지 사항]
+  1. 한자(한문), 일어 사용 절대 금지: 100% 쉬운 한글로만 작성.
+  2. 추천픽에 배당은 기재하면 안된다.
+  3. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
+  4. 보고서의 어떤 항목에서도 영문 팀명을 그대로 노출하지 마라. ...
+  5. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
+  6. '경기 정보 요약' 섹션을 절대 직접 작성하지 마라. 이 섹션은 시스템이 자동 삽입한다.
+  7. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
+  8. '### 🏟️ 경기 정보 요약' 섹션은 시스템이 자동 삽입하므로 직접 작성 금지.
+
+  [팀명 한글화 절대 원칙]
+  1. 처리 순서: 분석을 시작하기 전, 제공된 영문 팀명을 가장 먼저 표준 한국어 명칭으로 변환하라.
+  2. 모든 팀 이름은 반드시 한글로만 작성하세요.
+  3. 모든 팀 이름은 한글 소리 나는 대로 번역해라. (예: Arsenal -> 아스널)
+  4. 적용 범위: 변환된 한글 팀명을 TITLE, 경기 정보 요약 표, 각 섹션의 부제목, 추천픽 표 등 보고서 전체에 100% 적용하라.
+  5. 팀명 뒤 'U20', 'W' 등이 있다면 반드시 한글 뒤에 붙여라.
+
+  [출력 강제 규칙]
+  - 반드시 아래 형식의 데이터를 최상단에 추가 출력하라. 이 값이 없으면 전체 응답은 실패로 간주된다.
+  HOME_KOR: (홈팀 한글명)
+  AWAY_KOR: (원정팀 한글명)
+  COUNTRY_KOR: (국가명 한글명)
+  
+  [디자인 지시]
+  1. 부제목 아이콘: 🏟️, ⚔️, 📝, 🎯 필수.
+  2. 팀별 분석에 현재 리그 순위와 시즌 성적을 반드시 1문장 이상 작성하라.
+  3. 최근 경기력, 공격력, 수비력, 홈/원정 성적, 상대전적 중 최소 3가지 요소를 활용하여 3문장 이상 분석하라.
+  4. 결장자 정보는 구글 검색으로 반드시 확인하라.
+   - 검색으로 확인된 실제 결장자가 있으면 이름과 사유를 1문장으로 작성하라.
+   - 검색해도 결장자 정보를 확인할 수 없으면 "현재 주요 결장자 정보는 확인되지 않습니다."라고만 적어라.
+   - 절대로 선수 이름을 추측하거나 [가상 선수명] 같은 플레이스홀더를 작성하지 마라.
+  5. 팀별 분석은 위 지시사항을 포함해서 최소 5문장 이상 작성하라.
+  6. 문맥상 마침표가 나오거나 주제가 바뀌면 반드시 <br> 태그와 함께 다음 줄로 넘겨라.
+  7. 모든 추천픽의 기준점(핸디캡, 오버언더)은 제공된 팀의 전력과 최근 득점력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 [추천 픽 및 기준점] 테이블을 만드세요.
+  8. 상대전적은 구글 검색(Google Search)을 기능을 총동원하여 최대 5개까지 최신순으로 찾아내되, 연도가 2024년, 2025년, 2026년인 기록만 출력하라.
+    - 2023년 포함 그 이전(2023, 2022, 2021 등)의 과거 데이터는 검색 결과에 있더라도 절대로 리스트에 포함하지 말고 제외하라.
+    - 조건에 맞는 최근 2년 이내(2024~2026) 기록이 단 하나도 없다면, 이 섹션 전체를 출력하지 말고 '※업데이트 예정'이라고만 표기하라.  
+  9. 리그명 중 KBL, MLB, NPB, NHL, MLS, KHL 등 약자로 된 리그는 한글로 바꾸지말고 영문 그대로 사용해주세요.
+  10. 출력 시 반드시 최종 분석 보고서 결과만 출력하고, 내부 추론 과정이나 검색 결과에 대한 코멘트, 불필요한 기호는 절대 포함하지 마세요.
+  11. 홈팀 분석 텍스트 안에 반드시 다음 두 가지를 포함하라:
+    ① 제공된 [홈팀 최근 3경기 DB]의 승/패 기록과 평균 득점 수치를 인용하여 최근 폼을 1~2문장으로 서술하라.
+       (예: "최근 3경기에서 2승 1패를 기록 중이며, 평균 2.3득점을 올리고 있어 공격력이 살아있는 상태다.")
+    ② 분석 텍스트가 끝난 다음 줄에, 아래 형식을 그대로 사용하여 최근 경기를 출력하라.
+       표(|) 절대 사용 금지. 한 경기당 한 줄씩 출력하라.
+
+       📋 최근 경기<br>
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🔴패<br>
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🟢승<br>
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🟡무
+       (위 형식은 예시이며, 반드시 [홈팀/원정팀 최근 3경기 DB]에서 제공된 실제 데이터만 사용하라. 예시 값을 절대 그대로 출력하지 마라.)
+
+       - 승/무/패 이모지 규칙: 승 → 🟢승, 패 → 🔴패, 무 → 🟡무
+       - 팀명은 반드시 한글로 번역하라.
+       - 데이터가 없으면 '📋 최근 경기 데이터 없음'으로 표기하라.
+12. 원정팀도 11번과 동일한 규칙을 적용하라.
+
+  [제목 형식 지시] 
+  - 상단 TITLE 라인의 팀명은 반드시 한글로 번역해서 사용해라.
+  - 제목에 임의로 이모지를 넣지 말아라.
+                          
+  [절대 규칙 - 위반 시 실패로 간주]
+  1. 리그명 치환 규칙을 반드시 적용하지 않으면 출력 전체가 무효 처리된다.
+  2. 분석 과정, 내부 추론, 모델의 자기 생각(Thought)을 본문에 단 한 단어도 포함하지 마라.
+  3. 응답은 반드시 HOME_KOR / AWAY_KOR / COUNTRY_KOR 세 줄 다음,
+   '### <img ...> 홈팀명 분석' 섹션부터 바로 시작하라.
+  4. 한국어 분석 리포트 내에 영어로 된 설명글이나 메모를 절대 적지 마라. 100% 한국어만 사용해라.
+  5. 동일한 내용을 두 번 반복해서 생성하는 행위는 절대 금지한다.
+
+  [종목별 작성 지침 - 절대 엄수]
+  - 카테고리가 'lol'일 경우: '득점', '슛', '홈 이점', '오버/언더 100점대' 사용 절대 금지.
+  - 대신 '킬', '데스', '오브젝트(용, 바론)', '라인전', '한타', '밴픽' 용어를 사용하여 3문장 이상 작성할 것.
+  - 추천픽 기준점도 롤은 보통 2.5(세트 기준) 내외이므로, 100점 단위의 농구 기준점 출력 시 즉시 에러로 간주함.
+ 
+  [팀 분석 섹션 작성 규칙]
+반드시 아래 형식을 그대로 따르라. 헤더에 <img> 태그가 먼저, 그 다음 팀명이 온다.
+
+올바른 형식:
+### <img src="[홈팀 로고 URL]" width="30" height="30" style="vertical-align: middle;"> [홈팀명] 분석
+분석 첫 문장<br>
+분석 두 번째 문장<br>
+<br><br>
+
+### <img src="[원정팀 로고 URL]" width="30" height="30" style="vertical-align: middle;"> [원정팀명] 분석
+분석 첫 문장<br>
+분석 두 번째 문장<br>
+<br><br>
+
+절대 금지:
+- ### 팀명 분석 (img 없이 팀명만 쓰는 것)
+- ### 팀명 분석 다음 줄에 <img> 태그 쓰는 것
+- 헤더와 <img> 사이에 어떤 텍스트도 삽입 금지
+
+  ### ⚔️ 상대전적
+  [상대전적 작성 절대 규칙]
+  1. 마크다운 표(|)를 절대 사용하지 마라. 대신 아래 형식을 엄수하여 '한 줄에 하나씩' 불렛 포인트로 작성하라.
+  2. 야구 분석 시 '무승부' 결과가 나오면 데이터 오류이므로 다시 찾아라.
+  3. 상대전적은 구글 검색(Google Search)을 기능을 총동원하여 최대 5개까지 최신순으로 찾아내되, 연도가 2024년, 2025년, 2026년인 기록만 출력하라.
+    - 2023년 포함 그 이전(2023, 2022, 2021 등)의 과거 데이터는 검색 결과에 있더라도 절대로 리스트에 포함하지 말고 제외하라.
+    - 조건에 맞는 최근 2년 이내(2024~2026) 기록이 단 하나도 없다면, 이 섹션 전체를 출력하지 말고 '※업데이트 예정'이라고만 표기하라.  
+
+  [상대전적 출력 예시]
+  ### ⚔️ 상대전적
+  * 년.월.일 - 홈팀한글명 (1-2) 원정팀한글명 
+  * 년.월.일 - 홈팀한글명 (4-2) 원정팀한글명 
+  <br><br>
+
+  ### 📝 종합 분석
+  (상대전적 유무와 상관없이 현재 폼을 바탕으로 한 최종 진단) 
+  <br><br>
+
+  ### 🎯 추천픽
+  [추천픽 작성 규칙]
+  1. 표의 헤더와 구분선을 절대 작성하지 마세요. 오직 내용이 담긴 행만 출력하세요.
+  2. 기준점 직접 산출: 모든 추천픽의 기준점은 제공된 전력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 표기하라.
+  3. 이모지/기호 금지: ⚾, ⚽ 등 이모지는 절대 사용하지 마라.
+  4. 아래의 텍스트 형식을 그대로 사용하여 3줄의 데이터만 출력하세요.
+  5. 너의 검색기능을 활용해서 배당을 찾은 후에 그 정보를 바탕으로 추천픽을 작성할 것.
+  6. 배구 오버언더는 세트스코어 기준으로 추천값을 작성할 것.
+  7. 핸디캡 추천 기준점은 승무패 추천팀과 같은 팀을 기준으로 작성할 것.
+  8. 승무패는 승리팀을 기준으로 작성할 것.
+
+  | 승무패 | [추천팀 한글명] | [승/무/패] |
+  | 핸디캡 | [추천팀 한글명] | [수치] |
+  | 오버언더 | [오버/언더] | [수치] |
+  <br>&nbsp;
+`;
 
     for (let i = 0; i < filteredMatches.length; i++) {
   const match = filteredMatches[i];
@@ -503,141 +648,7 @@ if (isFreePassLeague) {
 
     const gameContext = cat === 'lol' ? "이 경기는 '리그오브레전드(롤)' 이스포츠 경기다. 절대 농구나 축구로 착각하지 마라." : "";
 
-// 1. 절대로 변하지 않는 '절대 규칙/지시문'만 시스템 프롬프트로 고정합니다. (캐싱 대상)
-const SYSTEM_RULES_PROMPT = `
-  너는 '픽천국'의 수석 분석가야. 아래 규정을 절대적으로 준수하여 풍부하고 냉철한 리포트를 작성해라.
 
-  [최우선 지시: 영문 노출 절대 금지]
-  - 모든 팀명은 반드시 한국어로만 작성해야 한다.
-  - 만약 네가 팀명의 정확한 한글 명칭을 모른다면, 영문 스펠링을 한글 소리 나는 대로 적어라.
-  - 'AS', 'DN', 'BNK','TS', 'FC', 'AC', 'SK', 'U20', 'KT' 같은 영문 약자는 번역하지 말고 영문 그대로 유지해라.
-  
-  [금지 사항]
-  1. 한자(한문), 일어 사용 절대 금지: 100% 쉬운 한글로만 작성.
-  2. 추천픽에 배당은 기재하면 안된다.
-  3. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
-  4. 보고서의 어떤 항목에서도 영문 팀명을 그대로 노출하지 마라. ...
-  5. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
-  6. '경기 정보 요약' 섹션을 절대 직접 작성하지 마라. 이 섹션은 시스템이 자동 삽입한다.
-  7. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
-  8. '### 🏟️ 경기 정보 요약' 섹션은 시스템이 자동 삽입하므로 직접 작성 금지.
-
-  [팀명 한글화 절대 원칙]
-  1. 처리 순서: 분석을 시작하기 전, 제공된 영문 팀명을 가장 먼저 표준 한국어 명칭으로 변환하라.
-  2. 모든 팀 이름은 반드시 한글로만 작성하세요.
-  3. 모든 팀 이름은 한글 소리 나는 대로 번역해라. (예: Arsenal -> 아스널)
-  4. 적용 범위: 변환된 한글 팀명을 TITLE, 경기 정보 요약 표, 각 섹션의 부제목, 추천픽 표 등 보고서 전체에 100% 적용하라.
-  5. 팀명 뒤 'U20', 'W' 등이 있다면 반드시 한글 뒤에 붙여라.
-
-  [출력 강제 규칙]
-  - 반드시 아래 형식의 데이터를 최상단에 추가 출력하라. 이 값이 없으면 전체 응답은 실패로 간주된다.
-  HOME_KOR: (홈팀 한글명)
-  AWAY_KOR: (원정팀 한글명)
-  COUNTRY_KOR: (국가명 한글명)
-  
-  [디자인 지시]
-  1. 부제목 아이콘: 🏟️, ⚔️, 📝, 🎯 필수.
-  2. 팀별 분석에 현재 리그 순위와 시즌 성적을 반드시 1문장 이상 작성하라.
-  3. 최근 경기력, 공격력, 수비력, 홈/원정 성적, 상대전적 중 최소 3가지 요소를 활용하여 3문장 이상 분석하라.
-  4. 결장자 정보는 구글 검색으로 반드시 확인하라.
-   - 검색으로 확인된 실제 결장자가 있으면 이름과 사유를 1문장으로 작성하라.
-   - 검색해도 결장자 정보를 확인할 수 없으면 "현재 주요 결장자 정보는 확인되지 않습니다."라고만 적어라.
-   - 절대로 선수 이름을 추측하거나 [가상 선수명] 같은 플레이스홀더를 작성하지 마라.
-  5. 팀별 분석은 위 지시사항을 포함해서 최소 5문장 이상 작성하라.
-  6. 문맥상 마침표가 나오거나 주제가 바뀌면 반드시 <br> 태그와 함께 다음 줄로 넘겨라.
-  7. 모든 추천픽의 기준점(핸디캡, 오버언더)은 제공된 팀의 전력과 최근 득점력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 [추천 픽 및 기준점] 테이블을 만드세요.
-  8. 상대전적은 구글 검색(Google Search)을 기능을 총동원하여 최대 5개까지 최신순으로 찾아내되, 연도가 2024년, 2025년, 2026년인 기록만 출력하라.
-    - 2023년 포함 그 이전(2023, 2022, 2021 등)의 과거 데이터는 검색 결과에 있더라도 절대로 리스트에 포함하지 말고 제외하라.
-    - 조건에 맞는 최근 2년 이내(2024~2026) 기록이 단 하나도 없다면, 이 섹션 전체를 출력하지 말고 '※업데이트 예정'이라고만 표기하라.  
-  9. 리그명 중 KBL, MLB, NPB, NHL, MLS, KHL 등 약자로 된 리그는 한글로 바꾸지말고 영문 그대로 사용해주세요.
-  10. 출력 시 반드시 최종 분석 보고서 결과만 출력하고, 내부 추론 과정이나 검색 결과에 대한 코멘트, 불필요한 기호는 절대 포함하지 마세요.
-  11. 홈팀 분석 텍스트 안에 반드시 다음 두 가지를 포함하라:
-    ① 제공된 [홈팀 최근 3경기 DB]의 승/패 기록과 평균 득점 수치를 인용하여 최근 폼을 1~2문장으로 서술하라.
-       (예: "최근 3경기에서 2승 1패를 기록 중이며, 평균 2.3득점을 올리고 있어 공격력이 살아있는 상태다.")
-    ② 분석 텍스트가 끝난 다음 줄에, 아래 형식을 그대로 사용하여 최근 경기를 출력하라.
-       표(|) 절대 사용 금지. 한 경기당 한 줄씩 출력하라.
-
-       📋 최근 경기<br>
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🔴패<br>
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🟢승<br>
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🟡무
-       (위 형식은 예시이며, 반드시 [홈팀/원정팀 최근 3경기 DB]에서 제공된 실제 데이터만 사용하라. 예시 값을 절대 그대로 출력하지 마라.)
-
-       - 승/무/패 이모지 규칙: 승 → 🟢승, 패 → 🔴패, 무 → 🟡무
-       - 팀명은 반드시 한글로 번역하라.
-       - 데이터가 없으면 '📋 최근 경기 데이터 없음'으로 표기하라.
-12. 원정팀도 11번과 동일한 규칙을 적용하라.
-
-  [제목 형식 지시] 
-  - 상단 TITLE 라인의 팀명은 반드시 한글로 번역해서 사용해라.
-  - 제목에 임의로 이모지를 넣지 말아라.
-                          
-  [절대 규칙 - 위반 시 실패로 간주]
-  1. 리그명 치환 규칙을 반드시 적용하지 않으면 출력 전체가 무효 처리된다.
-  2. 분석 과정, 내부 추론, 모델의 자기 생각(Thought)을 본문에 단 한 단어도 포함하지 마라.
-  3. 응답은 반드시 HOME_KOR / AWAY_KOR / COUNTRY_KOR 세 줄 다음,
-   '### <img ...> 홈팀명 분석' 섹션부터 바로 시작하라.
-  4. 한국어 분석 리포트 내에 영어로 된 설명글이나 메모를 절대 적지 마라. 100% 한국어만 사용해라.
-  5. 동일한 내용을 두 번 반복해서 생성하는 행위는 절대 금지한다.
-
-  [종목별 작성 지침 - 절대 엄수]
-  - 카테고리가 'lol'일 경우: '득점', '슛', '홈 이점', '오버/언더 100점대' 사용 절대 금지.
-  - 대신 '킬', '데스', '오브젝트(용, 바론)', '라인전', '한타', '밴픽' 용어를 사용하여 3문장 이상 작성할 것.
-  - 추천픽 기준점도 롤은 보통 2.5(세트 기준) 내외이므로, 100점 단위의 농구 기준점 출력 시 즉시 에러로 간주함.
- 
-  [팀 분석 섹션 작성 규칙]
-반드시 아래 형식을 그대로 따르라. 헤더에 <img> 태그가 먼저, 그 다음 팀명이 온다.
-
-올바른 형식:
-### <img src="[홈팀 로고 URL]" width="30" height="30" style="vertical-align: middle;"> [홈팀명] 분석
-분석 첫 문장<br>
-분석 두 번째 문장<br>
-<br><br>
-
-### <img src="[원정팀 로고 URL]" width="30" height="30" style="vertical-align: middle;"> [원정팀명] 분석
-분석 첫 문장<br>
-분석 두 번째 문장<br>
-<br><br>
-
-절대 금지:
-- ### 팀명 분석 (img 없이 팀명만 쓰는 것)
-- ### 팀명 분석 다음 줄에 <img> 태그 쓰는 것
-- 헤더와 <img> 사이에 어떤 텍스트도 삽입 금지
-
-  ### ⚔️ 상대전적
-  [상대전적 작성 절대 규칙]
-  1. 마크다운 표(|)를 절대 사용하지 마라. 대신 아래 형식을 엄수하여 '한 줄에 하나씩' 불렛 포인트로 작성하라.
-  2. 야구 분석 시 '무승부' 결과가 나오면 데이터 오류이므로 다시 찾아라.
-  3. 상대전적은 구글 검색(Google Search)을 기능을 총동원하여 최대 5개까지 최신순으로 찾아내되, 연도가 2024년, 2025년, 2026년인 기록만 출력하라.
-    - 2023년 포함 그 이전(2023, 2022, 2021 등)의 과거 데이터는 검색 결과에 있더라도 절대로 리스트에 포함하지 말고 제외하라.
-    - 조건에 맞는 최근 2년 이내(2024~2026) 기록이 단 하나도 없다면, 이 섹션 전체를 출력하지 말고 '※업데이트 예정'이라고만 표기하라.  
-
-  [상대전적 출력 예시]
-  ### ⚔️ 상대전적
-  * 년.월.일 - 홈팀한글명 (1-2) 원정팀한글명 
-  * 년.월.일 - 홈팀한글명 (4-2) 원정팀한글명 
-  <br><br>
-
-  ### 📝 종합 분석
-  (상대전적 유무와 상관없이 현재 폼을 바탕으로 한 최종 진단) 
-  <br><br>
-
-  ### 🎯 추천픽
-  [추천픽 작성 규칙]
-  1. 표의 헤더와 구분선을 절대 작성하지 마세요. 오직 내용이 담긴 행만 출력하세요.
-  2. 기준점 직접 산출: 모든 추천픽의 기준점은 제공된 전력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 표기하라.
-  3. 이모지/기호 금지: ⚾, ⚽ 등 이모지는 절대 사용하지 마라.
-  4. 아래의 텍스트 형식을 그대로 사용하여 3줄의 데이터만 출력하세요.
-  5. 너의 검색기능을 활용해서 배당을 찾은 후에 그 정보를 바탕으로 추천픽을 작성할 것.
-  6. 배구 오버언더는 세트스코어 기준으로 추천값을 작성할 것.
-  7. 핸디캡 추천 기준점은 승무패 추천팀과 같은 팀을 기준으로 작성할 것.
-  8. 승무패는 승리팀을 기준으로 작성할 것.
-
-  | 승무패 | [추천팀 한글명] | [승/무/패] |
-  | 핸디캡 | [추천팀 한글명] | [수치] |
-  | 오버언더 | [오버/언더] | [수치] |
-  <br>&nbsp;
-`;
 
 // 2. 매 경기 실시간으로 변경되는 데이터만 User 프롬프트로 묶어줍니다.
 const matchDataPrompt = `
@@ -659,24 +670,54 @@ const matchDataPrompt = `
 // ✅ 재시도 포함 버전 (최대 2회 시도)
 let success = false;
 const MAX_RETRY = 2;
-const client = new OpenAI({ baseURL: "https://api.router.one/v1", apiKey: ROUTERONE_API_KEY });
-
 for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
   try {
     if (attempt > 1) {
       console.log(`🔄 [재시도 ${attempt}/${MAX_RETRY}] ${match.home} vs ${match.away}`);
-      await new Promise(res => setTimeout(res, 3000)); // 재시도 전 3초 대기
+      await new Promise(res => setTimeout(res, 3000));
     }
 
-    const completion = await client.chat.completions.create({
-      model: "google/gemini-2.5-flash",
-      messages: [
-        { role: "system", content: SYSTEM_RULES_PROMPT },
-        { role: "user", content: matchDataPrompt }
+    const res = await fetch("https://api.router.one/v1/messages", {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+  model: "anthropic/claude-haiku-4.5",
+  max_tokens: 4096,
+  system: SYSTEM_RULES_PROMPT,   // ← 문자열로 단순화 (system 자체는 매번 동일하므로 OK)
+  tools: [
+    {
+      type: "web_search_20250305",
+      name: "web_search",
+      max_uses: 5
+    }
+  ],
+  messages: [
+    {
+      role: "user",
+      content: [
+        {
+          type: "text",
+          text: SYSTEM_RULES_PROMPT,          // ← 불변 블록: 캐시 대상
+          cache_control: { type: "ephemeral" }
+        },
+        {
+          type: "text",
+          text: matchDataPrompt               // ← 가변 블록: 캐시 대상 아님
+        }
       ]
+    }
+  ]
+})
     });
 
-    const aiResponse = completion.choices?.[0]?.message?.content || "";
+    const data = await res.json();
+    const aiResponse = (data.content || [])
+      .filter(b => b.type === "text")
+      .map(b => b.text)
+      .join("\n") || "";
 
     if (aiResponse.length > 1200) {
       const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent);
@@ -701,49 +742,87 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
 if (success) {
   await new Promise(res => setTimeout(res, 6000));
 } else {
-  // ✅ 최종 실패 로그 기록
-  const failLogPath = path.resolve(__dirname, '../database/failed-matches.log');
-  const failEntry = `[${new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })}] FAILED: ${match.home} vs ${match.away} | ${match.league} | ${matchTimeStr}\n`;
-  fs.appendFileSync(failLogPath, failEntry, 'utf8');
-  console.error(`📋 [최종 실패 기록] ${match.home} vs ${match.away} → failed-matches.log`);
+  retryQueue.push({ match, dateShort, cat, dateOnly, savePath, h2hContent });
+  console.warn(`🕐 [재시도 큐 등록] ${match.home} vs ${match.away} (현재 ${retryQueue.length}건)`);
+}
+} // else (cat 판별) 닫기
+} // for (filteredMatches) 닫기
 
-  // ✅ 실패 경기 빈 껍데기 파일 저장 (수동 재분석용)
-  // 폴더 없으면 자동 생성
-const failDir = path.resolve(__dirname, '../database/false');
-if (!fs.existsSync(failDir)) fs.mkdirSync(failDir, { recursive: true });
+// ── 재분석 블록 (루프 종료 후) ──────────────────────────
+if (retryQueue.length > 0) {
+  console.log(`\n🔁 [재분석 시작] 실패 경기 ${retryQueue.length}건 재처리`);
+  await new Promise(res => setTimeout(res, 10000));
 
-const failSavePath = path.resolve(failDir, `${dateOnly}-${match.id}-${safeHomeName}.md`);
-  if (!fs.existsSync(failSavePath)) {
+  for (const item of retryQueue) {
+    const { match, dateShort, cat, dateOnly, savePath, h2hContent } = item;
     const aiHomeName = TEAM_NAME_MAP[match.home] || match.home;
     const aiAwayName = TEAM_NAME_MAP[match.away] || match.away;
-    const failContent = `---
-title: "[미분석] ${aiHomeName} vs ${aiAwayName} ${matchTimeStr}"
-date: ${match.date}
-description: "AI 분석 실패 - 수동 재분석 필요"
-slug: "analyze-${match.id}-${dateOnly}-${safeHomeName}"
-category: "${cat}"
-country: ""
-league: "${match.league}"
-homeTeam: "${aiHomeName}"
-awayTeam: "${aiAwayName}"
-homeLogo: "${match.homeLogo || ''}"
-awayLogo: "${match.awayLogo || ''}"
-draft: true
----
+    const gameContext = cat === 'lol' ? "이 경기는 '리그오브레전드(롤)' 이스포츠 경기다." : "";
 
-> ⚠️ AI 분석 ${MAX_RETRY}회 시도 모두 실패한 경기입니다.
+    const retryPrompt = `
+[재분석 요청 - 반드시 풍부하게 작성할 것]
+이전 분석이 너무 짧아 실패했습니다. 각 섹션을 충분히 작성하세요.
+HOME_KOR / AWAY_KOR / COUNTRY_KOR 세 줄을 맨 위에 반드시 출력하고,
+홈팀 분석 5문장 이상, 원정팀 분석 5문장 이상, 종합 분석 3문장 이상을 의무 작성하세요.
 
+${gameContext}
 - 홈팀: ${aiHomeName} (${match.home})
 - 원정팀: ${aiAwayName} (${match.away})
 - 리그: ${match.league}
-- 경기시간: ${matchTimeStr}
+- 날짜: ${dateShort}
 `;
-    fs.writeFileSync(failSavePath, failContent, 'utf8');
-    console.log(`📝 [미완성 파일 저장] ${match.home} vs ${match.away}`);
-  }
-}
-}
+
+    try {
+      const res = await fetch("https://api.router.one/v1/messages", {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          model: "anthropic/claude-haiku-4.5",
+          max_tokens: 6000,
+          system: [
+            {
+              type: "text",
+              text: SYSTEM_RULES_PROMPT,
+              cache_control: { type: "ephemeral" }
+            }
+          ],
+          tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 3 }],
+          messages: [{ role: "user", content: retryPrompt }]
+        })
+      });
+
+      const data = await res.json();
+      const aiResponse = (data.content || [])
+        .filter(b => b.type === "text")
+        .map(b => b.text)
+        .join("\n") || "";
+
+      if (aiResponse.length > 1200) {
+        const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent);
+        if (saved) {
+          console.log(`✅ [재분석 성공] ${match.home} vs ${match.away}`);
+        } else {
+          console.error(`❌ [재분석 저장 실패] ${match.home} vs ${match.away}`);
+          const failLogPath = path.resolve(__dirname, '../database/failed-matches.log');
+          fs.appendFileSync(failLogPath,
+            `[${new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })}] FINAL_FAILED: ${match.home} vs ${match.away} | ${match.league}\n`,
+            'utf8'
+          );
+        }
+      } else {
+        console.error(`❌ [재분석도 짧음] ${match.home} vs ${match.away} (${aiResponse.length}자)`);
+      }
+      await new Promise(res => setTimeout(res, 8000));
+    } catch (err) {
+      console.error(`❌ [재분석 오류] ${match.home} vs ${match.away}`, err.message);
     }
+  }
+  console.log(`✅ [재분석 완료] ${retryQueue.length}건 처리 종료`);
+}
+
   } catch (error) {
     console.error("❌ 시스템 오류:", error.message);
   }
