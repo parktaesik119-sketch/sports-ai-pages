@@ -420,12 +420,12 @@ if (isExtraFiltered) {
 반드시 아래 형식을 그대로 따르라. 헤더에 <img> 태그가 먼저, 그 다음 팀명이 온다.
 
 올바른 형식:
-### <img src="[홈팀 로고 URL]" width="30" height="30" style="vertical-align: middle;"> [홈팀명] 분석
+### <img src="[홈팀 로고 URL]" width="31" height="30" style="vertical-align: middle;"> [홈팀명] 분석
 분석 첫 문장<br>
 분석 두 번째 문장<br>
 <br><br>
 
-### <img src="[원정팀 로고 URL]" width="30" height="30" style="vertical-align: middle;"> [원정팀명] 분석
+### <img src="[원정팀 로고 URL]" width="31" height="30" style="vertical-align: middle;"> [원정팀명] 분석
 분석 첫 문장<br>
 분석 두 번째 문장<br>
 <br><br>
@@ -684,8 +684,8 @@ const matchDataPrompt = `
   [실시간 경기 컨텍스트 데이터]
   - 종목 안내: ${gameContext}
   - 날짜/시간 변수 고정값: 날짜는 반드시 '${dateShort}' 값 그대로 사용할 것.
-  - 홈팀 정보: 한글 매핑명 명칭은 '${aiHomeName}'이며, 오리지널 영문명은 '${match.home}'이다. 로고 태그는 '<img src="${match.homeLogo || ''}" width="30" height="30" style="vertical-align: middle;">'를 사용하라.
-  - 원정팀 정보: 한글 매핑명 명칭은 '${aiAwayName}'이며, 오리지널 영문명은 '${match.away}'이다. 로고 태그는 '<img src="${match.awayLogo || ''}" width="30" height="30" style="vertical-align: middle;">'를 사용하라.
+  - 홈팀 정보: 한글 매핑명 명칭은 '${aiHomeName}'이며, 오리지널 영문명은 '${match.home}'이다. 로고 태그는 '<img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;">'를 사용하라.
+  - 원정팀 정보: 한글 매핑명 명칭은 '${aiAwayName}'이며, 오리지널 영문명은 '${match.away}'이다. 로고 태그는 '<img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;">'를 사용하라.
   - 상대 전적 데이터베이스 정보: ${h2hContextForAI}
   - [중요] 상대전적 가이드: 데이터베이스에 스코어 정보가 있다면 이를 우선 반영하고 만약 비어있다면 Google Search를 통해 "${match.home} vs ${match.away} last match results 2024 2025 2026"를 검색하여 리포트를 완성하라.
 
