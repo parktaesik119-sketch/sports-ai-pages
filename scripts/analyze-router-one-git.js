@@ -63,7 +63,8 @@ const TEAM_NAME_MAP = {
   "Toledo Mud Hens": "톨레도 머드헨스",
   "NC Dinos": "NC 다이노스",
   "LG Twins": "LG 트윈스",
-  "Minnesota Twins": "미네소타 트윈스"
+  "Minnesota Twins": "미네소타 트윈스",
+  "Vegas Golden Knights": "베가스 골든나이츠"
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
