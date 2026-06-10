@@ -976,6 +976,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
   { target: /^European League$/i, replace: "유러피언리그" },
   { target: /^World Cup - Women - Qualification Europe$/i, replace: "월드컵 예선(W)" },
   { target: /^Friendlies$/i, replace: "국제친선" },
+  { target: /^World Cup$/i, replace: "FIFA 월드컵" },
         
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
