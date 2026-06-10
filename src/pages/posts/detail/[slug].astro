@@ -360,19 +360,19 @@ awayLogo = awayLogo || '/images/wing-away.png';
 .match-info-card .home-team { justify-content: flex-end; text-align: right; }
 .match-info-card .away-team { justify-content: flex-start; text-align: left; }
 .match-info-card .team-name {
-  font-size: 0.95rem;
+  font-size: 1.2rem;       /* 0.95rem → 1.2rem */
   font-weight: 800;
   color: #111;
   word-break: keep-all;
 }
 .match-info-card .team-logo {
-  width: 31px;
-  height: 31px;
+  width: 48px;             /* 31px → 48px */
+  height: 48px;            /* 31px → 48px */
   object-fit: contain;
   flex-shrink: 0;
 }
 .match-info-card .vs-zone {
-  font-size: 1.1rem;
+  font-size: 1.3rem;       /* 1.1rem → 1.3rem */
   font-weight: 800;
   color: #aeaeae;
   font-style: italic;
@@ -452,6 +452,18 @@ awayLogo = awayLogo || '/images/wing-away.png';
   .prose {
     font-size: 0.9rem !important;
     line-height: 1.8;
+  }
+
+  /* ✅ 모바일에서 카드 사이즈 원래대로 유지 */
+  .match-info-card .team-name {
+    font-size: 0.85rem !important;
+  }
+  .match-info-card .team-logo {
+    width: 28px !important;
+    height: 28px !important;
+  }
+  .match-info-card .vs-zone {
+    font-size: 0.95rem !important;
   }
 }
 </style>
