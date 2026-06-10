@@ -47,6 +47,7 @@ const TEAM_NAME_MAP = {
   "TSG Hawks": "TSG 호크스",
   "Rakuten Monkeys": "라쿠텐 몽키스",
   "Fubon Guardian": "푸방 가디언즈",
+  "Fubon Guardians": "푸방 가디언즈",
   "Pittsburgh Pirates": "피츠버그 파이러츠",
   "Nippon Ham Fighters": "니혼햄 파이터즈",
   "Nieciecza": "부르크베트 테르말리차",
@@ -64,7 +65,7 @@ const TEAM_NAME_MAP = {
   "NC Dinos": "NC 다이노스",
   "LG Twins": "LG 트윈스",
   "Minnesota Twins": "미네소타 트윈스",
-  "Vegas Golden Knights": "베가스 골든나이츠"
+  "Vegas Golden Knights": "베가스 골든나이츠",
   "Yakult Swallows": "아쿠르트 스왈로우스",
   "Colorado Rockies": "콜로라도 로키스",
   "Chunichi Dragons": "주니치 드래곤스",
