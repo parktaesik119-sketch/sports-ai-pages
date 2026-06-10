@@ -970,6 +970,7 @@ const TEAM_NAME_MAP = {
   "Argentina": "아르헨티나",
   "Brazil": "브라질",
   "Mexico": "멕시코",
+  "South Africa": "남아프리카공화국",
   "Colombia": "콜롬비아",
   "Saudi Arabia": "사우디아라비아",
   "Iran": "이란",
