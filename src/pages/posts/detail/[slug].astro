@@ -63,11 +63,14 @@ const categoryName = CATEGORY_MAP[category] ?? category;
 
 <div class="detail-content">
 
-  <!-- ✅ 경기 정보 카드 -->
-  <div class="match-info-card">
+  <div style="margin-bottom: 20px;">
+    <AdGrid type="top" />
+  </div>
+<!-- ✅ 경기 정보 카드 (광고 아래 고정) -->
+  <div class="match-info-card" id="matchInfoCard">
     <div class="card-top">
       <span class="league-info">
-        {item.data.country ?? '국가'} [ {item.data.league ?? '리그'} ]
+        {item.data.country} [ {item.data.league} ]
       </span>
       <span class="match-time-text">
         {(() => {
@@ -82,35 +85,27 @@ const categoryName = CATEGORY_MAP[category] ?? category;
         })()}
       </span>
     </div>
-
     <div class="card-center">
       <div class="team home-team">
-        <span class="team-name">{item.data.homeTeam ?? '홈팀'}</span>
+        <span class="team-name">{item.data.homeTeam}</span>
         <img
-          src={item.data.homeLogo || '/images/wing-home.png'}
+          src={item.data.homeLogo}
           alt={item.data.homeTeam}
           class="team-logo"
           onerror="if(!this.dataset.failed){this.dataset.failed='1';this.src='/images/wing-home.png';}"
         />
       </div>
-
       <div class="vs-zone">VS</div>
-
       <div class="team away-team">
         <img
-          src={item.data.awayLogo || '/images/wing-away.png'}
+          src={item.data.awayLogo}
           alt={item.data.awayTeam}
           class="team-logo"
           onerror="if(!this.dataset.failed){this.dataset.failed='1';this.src='/images/wing-away.png';}"
         />
-        <span class="team-name">{item.data.awayTeam ?? '원정팀'}</span>
+        <span class="team-name">{item.data.awayTeam}</span>
       </div>
     </div>
-  </div>
-  <!-- ✅ 경기 정보 카드 끝 -->
-
-  <div style="margin-bottom: 20px;">
-    <AdGrid type="top" />
   </div>
 
   <div class="prose">
@@ -135,66 +130,6 @@ const categoryName = CATEGORY_MAP[category] ?? category;
 </BaseLayout>
 
 <style>
-/* ✅ 경기 정보 카드 */
-.match-info-card {
-  border-radius: 10px;
-  background: linear-gradient(135deg, #f8fafc, #eef2f7);
-  border: 1.5px solid #dee2e6;
-  border-bottom: 4px solid rgba(0,0,0,0.1);
-  padding: 12px;
-  margin-bottom: 20px;
-}
-.match-info-card .card-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 8px;
-}
-.match-info-card .league-info {
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: #2b2b2b;
-}
-.match-info-card .match-time-text {
-  font-size: 0.8rem;
-  color: #666;
-}
-.match-info-card .card-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 12px;
-}
-.match-info-card .team {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  flex: 1;
-  min-width: 0;
-}
-.match-info-card .home-team { justify-content: flex-end; text-align: right; }
-.match-info-card .away-team { justify-content: flex-start; text-align: left; }
-.match-info-card .team-name {
-  font-size: 0.95rem;
-  font-weight: 800;
-  color: #111;
-  word-break: keep-all;
-  white-space: normal;
-}
-.match-info-card .team-logo {
-  width: 31px;
-  height: 31px;
-  object-fit: contain;
-  flex-shrink: 0;
-}
-.match-info-card .vs-zone {
-  font-size: 1.1rem;
-  font-weight: 800;
-  color: #aeaeae;
-  font-style: italic;
-  width: 10%;
-  text-align: center;
-}
 
 /* 레이아웃 유지 */
 .main-layout-container {
@@ -333,12 +268,64 @@ const categoryName = CATEGORY_MAP[category] ?? category;
   margin: 20px 0;
 }
 
-/* ✅ 기존 마크다운의 경기 정보 요약 섹션 숨김 (카드로 대체) */
-.prose h3:has(+ table) {
-  display: none;
+/* ✅ 경기 정보 카드 */
+.match-info-card {
+  border-radius: 10px;
+  background: linear-gradient(135deg, #f8fafc, #eef2f7);
+  border: 1.5px solid #dee2e6;
+  border-bottom: 4px solid rgba(0,0,0,0.1);
+  padding: 12px;
+  margin-bottom: 20px;
 }
-.prose h3 + table:first-of-type {
-  display: none;
+.match-info-card .card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.match-info-card .league-info {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #2b2b2b;
+}
+.match-info-card .match-time-text {
+  font-size: 0.8rem;
+  color: #666;
+}
+.match-info-card .card-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.match-info-card .team {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex: 1;
+  min-width: 0;
+}
+.match-info-card .home-team { justify-content: flex-end; text-align: right; }
+.match-info-card .away-team { justify-content: flex-start; text-align: left; }
+.match-info-card .team-name {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: #111;
+  word-break: keep-all;
+}
+.match-info-card .team-logo {
+  width: 31px;
+  height: 31px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.match-info-card .vs-zone {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #aeaeae;
+  font-style: italic;
+  width: 10%;
+  text-align: center;
 }
 
 .prose table {
@@ -416,3 +403,29 @@ const categoryName = CATEGORY_MAP[category] ?? category;
   }
 }
 </style>
+
+<script>
+  // 🏟️ 경기 정보 요약 h3를 찾아서 카드로 교체
+  document.addEventListener('DOMContentLoaded', () => {
+    const prose = document.querySelector('.prose');
+    if (!prose) return;
+
+    // 🏟️ 경기 정보 요약 h3와 표 숨김
+    const allH3 = prose.querySelectorAll('h3');
+    allH3.forEach(h3 => {
+      if (!h3.textContent.includes('🏟️')) return;
+
+      h3.style.display = 'none';
+
+      let next = h3.nextElementSibling;
+      while (next && next.tagName !== 'H3') {
+        const curr = next;
+        next = next.nextElementSibling;
+        if (curr.tagName === 'TABLE') {
+          curr.style.display = 'none';
+          break;
+        }
+      }
+    });
+  });
+</script>
