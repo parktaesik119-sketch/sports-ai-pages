@@ -65,6 +65,12 @@ const TEAM_NAME_MAP = {
   "LG Twins": "LG 트윈스",
   "Minnesota Twins": "미네소타 트윈스",
   "Vegas Golden Knights": "베가스 골든나이츠"
+  "Yakult Swallows": "아쿠르트 스왈로우스",
+  "Colorado Rockies": "콜로라도 로키스",
+  "Chunichi Dragons": "주니치 드래곤스",
+  "Chiba Lotte Marine": "지바 롯데 마린스",
+  "Kiwoom Heroes": "키움 히어로즈",
+  "Samsung Lions": "삼성 라이온스",
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
