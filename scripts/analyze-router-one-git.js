@@ -285,9 +285,8 @@ if (isExtraFiltered) {
   2. 추천픽에 배당은 기재하면 안된다.
   3. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
   4. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
-  5. '경기 정보 요약' 섹션을 절대 직접 작성하지 마라. 이 섹션은 시스템이 자동 삽입한다.
-  6. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
-  7. '### 🏟️ 경기 정보 요약' 섹션은 시스템이 자동 삽입하므로 직접 작성 금지.
+  5. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
+  6. '### 🏟️ 경기 정보 요약' 섹션은 시스템이 자동 삽입하므로 직접 작성 금지.
 
   [팀명 표기 원칙]
   1. 홈팀과 원정팀의 한글 명칭은 프롬프트에서 '한글 매핑명'으로 이미 제공된다.
@@ -975,6 +974,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
   { target: /^European League Women$/i, replace: "유러피언리그(W)" },
   { target: /^European League$/i, replace: "유러피언리그" },
   { target: /^World Cup - Women - Qualification Europe$/i, replace: "월드컵 예선(W)" },
+  { target: /^World Cup - Women$/i, replace: "월드컵 (W)" },
   { target: /^Friendlies$/i, replace: "국제친선" },
   { target: /^World Cup$/i, replace: "FIFA 월드컵" },
         
@@ -1058,25 +1058,12 @@ let country;
   // cleanedText = cleanedText.replace(new RegExp(match.home, 'gi'), aiHomeName);
   // cleanedText = cleanedText.replace(new RegExp(match.away, 'gi'), aiAwayName);
 
-  // 6. [강제집행] 경기 정보 요약 표 (디자인 강제 고정)
-  const spacer = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-  const summaryTable = `### 🏟️ 경기 정보 요약
-| <span style="color: #007bff;">항목</span>| <span style="color: #007bff;">내용</span> |
-|:---|:---|
-| **<span style="color: #007bff;">홈팀</span>** | <img src="${match.homeLogo}" width="31" height="30" style="vertical-align: middle;"> **${aiHomeName} (${match.home})** |
-| **<span style="color: #007bff;">원정팀</span>** | <img src="${match.awayLogo}" width="31" height="30" style="vertical-align: middle;"> **${aiAwayName} (${match.away})** |
-| **<span style="color: #007bff;">리그</span>** | **${country}: ${leagueName}** |
-| **<span style="color: #007bff;">경기시간</span>** | **${new Date(match.date).toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'Asia/Seoul' })}** |`;
-
-  // 7. 기존 AI 요약 전체 삭제 (모든 변형 패턴 제거)
+  // 6. 기존 AI가 생성한 경기 정보 요약 섹션 제거 (슬러그 파일에서 카드로 대체)
 cleanedText = cleanedText
   .replace(/###\s*🏟️\s*경기 정보 요약[\s\S]*?(?=###|$)/g, "")
   .replace(/🏟️\s*경기 정보 요약[\s\S]*?(?=###|⚔️|📝|🎯)/g, "")
   .replace(/날짜:\s*.*\n[\s\S]*?(?=\n\n[가-힣]|\n###)/g, "")
   .trim();
-
- // 8. 맨 위에 강제 삽입 
-cleanedText = summaryTable + "\n\n" + cleanedText;
 
  // "📋 최근 경기" 이후 각 경기 줄을 불렛 포인트로 강제 변환
 cleanedText = cleanedText.replace(
@@ -1097,17 +1084,8 @@ cleanedText = cleanedText.replace(
   }
 );
 
-// ✅ [추가] summaryTable 삽입 후, 경기정보요약 표와 첫 번째 홈팀 분석(###) 사이의 불필요한 텍스트 제거
-cleanedText = cleanedText.replace(
-  /(경기시간[^\n]*\n)\n*([\s\S]*?)\n*(###\s*<img)/,
-  (_, p1, p2, p3) => {
-    const garbage = p2.trim();
-    if (garbage) {
-      console.log(`🧹 [중간 쓰레기 제거] "${garbage.substring(0, 60)}..."`);
-    }
-    return p1 + '\n\n' + p3;
-  }
-);
+// 본문 시작 전 불필요한 빈 줄 정리
+cleanedText = cleanedText.replace(/^\n+/, '').trim();
 
   // 9. 추천픽 표 정제 - 미스트랄 예외 완벽 방어
 if (cleanedText && cleanedText.includes('🎯 추천픽')) {
