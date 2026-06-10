@@ -63,6 +63,7 @@ const TEAM_NAME_MAP = {
   "Toledo Mud Hens": "톨레도 머드헨스",
   "NC Dinos": "NC 다이노스",
   "LG Twins": "LG 트윈스",
+  "Minnesota Twins": "미네소타 트윈스"
   // 필요한 팀명을 여기에 계속 추가하세요. "원래이름": "바꿀이름"
 };
 
@@ -299,7 +300,7 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
     const retryQueue = []; // ← 여기로 이동
 
     // 1. 절대로 변하지 않는 '절대 규칙/지시문'만 시스템 프롬프트로 고정합니다. (캐싱 대상)
-const SYSTEM_RULES_PROMPT = `
+  const SYSTEM_RULES_PROMPT = `
   [즉시 출력 규칙 - 최우선]
   - 응답 첫 글자부터 바로 "HOME_KOR:" 로 시작하라. 그 앞에 어떤 말도 절대 금지.
   - "검색하겠습니다", "분석하겠습니다", "확인하겠습니다" 등 행동 예고 문장 완전 금지.
@@ -357,11 +358,11 @@ const SYSTEM_RULES_PROMPT = `
     ① 제공된 [홈팀 최근 3경기 DB]의 승/패 기록과 평균 득점 수치를 인용하여 최근 폼을 1~2문장으로 서술하라.
        (예: "최근 3경기에서 2승 1패를 기록 중이며, 평균 2.3득점을 올리고 있어 공격력이 살아있는 상태다.")
     ② 분석 텍스트가 끝난 다음 줄에, 아래 형식을 그대로 사용하여 최근 경기를 출력하라.
-       표(|) 절대 사용 금지. 한 경기당 한 줄씩 출력하라.
+       표(|) 절대 사용 금지. <br>을 사용하여 한 경기당 한 줄씩 작성하라.
 
-       📋 최근 경기<br>
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🔴패<br>
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🟢승<br>
+       📋 최근 경기
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🔴패
+       YY/MM/DD 팀A vs 팀B (X-Y) → 🟢승
        YY/MM/DD 팀A vs 팀B (X-Y) → 🟡무
        (위 형식은 예시이며, 반드시 [홈팀/원정팀 최근 3경기 DB]에서 제공된 실제 데이터만 사용하라. 예시 값을 절대 그대로 출력하지 마라.)
 
@@ -1108,8 +1109,27 @@ cleanedText = cleanedText
   .replace(/날짜:\s*.*\n[\s\S]*?(?=\n\n[가-힣]|\n###)/g, "")
   .trim();
 
- // 8. 맨 위에 강제 삽입
+ // 8. 맨 위에 강제 삽입 
 cleanedText = summaryTable + "\n\n" + cleanedText;
+
+ // "📋 최근 경기" 이후 각 경기 줄을 불렛 포인트로 강제 변환
+cleanedText = cleanedText.replace(
+  /(📋 최근 경기)(<br>)?\n([\s\S]*?)(\n\n|###|$)/g,
+  (_, header, br, body, ending) => {
+    const fixedBody = body
+      .split('\n')
+      .map(line => {
+        const trimmed = line.trim();
+        if (!trimmed) return '';
+        // 이미 * 로 시작하면 그대로, 아니면 * 추가하고 기존 <br> 제거
+        if (trimmed.startsWith('* ')) return trimmed.replace(/<br>$/, '');
+        return `* ${trimmed.replace(/<br>$/, '')}`;
+      })
+      .filter(Boolean)
+      .join('\n');
+    return `${header}\n${fixedBody}\n${ending}`;
+  }
+);
 
 // ✅ [추가] summaryTable 삽입 후, 경기정보요약 표와 첫 번째 홈팀 분석(###) 사이의 불필요한 텍스트 제거
 cleanedText = cleanedText.replace(

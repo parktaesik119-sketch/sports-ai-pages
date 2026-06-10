@@ -2,6 +2,7 @@ name: Pick Heaven Auto Post
 
 on:
   schedule:
+<<<<<<< Updated upstream
     # ☀️ 1회차 - KST 오전 9시 13분 (UTC 00:13)
     # UTC 날짜가 바뀐 직후 → d와 d+1 수집
     # KST 기준: 오늘 + 내일 + 모레 새벽까지 커버
@@ -11,6 +12,17 @@ on:
     # UTC 당일 낮 → d와 d+1 수집
     # 1회차 이후 새로 추가된 경기일정 보충
     - cron: '11 12 * * *'
+=======
+    # ☀️ 1회차 - KST 오전 9시 05분 (UTC 00:05)
+    # UTC 날짜가 바뀐 직후 → d와 d+1 수집
+    # KST 기준: 오늘 + 내일 + 모레 새벽까지 커버
+    - cron: '6 0 * * *'
+
+    # 🌙 2회차 - KST 오후 9시 05분 (UTC 12:05)
+    # UTC 당일 낮 → d와 d+1 수집
+    # 1회차 이후 새로 추가된 경기일정 보충
+    - cron: '8 12 * * *'
+>>>>>>> Stashed changes
 
   workflow_dispatch:
 
