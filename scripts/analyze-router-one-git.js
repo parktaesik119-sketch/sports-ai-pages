@@ -212,6 +212,7 @@ const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
 const leaguesWithExtraFilter = ['FRIENDLIES', 'FRIENDLY INTERNATIONAL', 'INTERNATIONAL'];
 
 const isExtraFiltered = leaguesWithExtraFilter.some(el => el === upperLg) && (
+  upperHome.includes('U17') || upperAway.includes('U17') ||
   upperHome.includes('U18') || upperAway.includes('U18') ||
   upperHome.includes('U19') || upperAway.includes('U19') ||
   upperHome.includes('U20') || upperAway.includes('U20') ||
