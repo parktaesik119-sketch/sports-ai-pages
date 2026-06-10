@@ -37,6 +37,62 @@ const { Content } = await render(item);
 /* 🔥 추가 (핵심) */
 const category = item.data.category;
 const categoryName = CATEGORY_MAP[category] ?? category;
+
+/* ✅ 카드 표시용 데이터 — frontmatter 우선, 없으면 body 파싱 백업 */
+const bodyText = item.body || "";
+
+let country = item.data.country?.trim() && item.data.country !== '국가'
+  ? item.data.country.trim() : '';
+let league = item.data.league?.trim() && item.data.league !== '리그'
+  ? item.data.league.trim() : '';
+let homeTeam = item.data.homeTeam?.trim() && item.data.homeTeam !== '홈팀'
+  ? item.data.homeTeam.trim() : '';
+let awayTeam = item.data.awayTeam?.trim() && item.data.awayTeam !== '원정팀'
+  ? item.data.awayTeam.trim() : '';
+let homeLogo = item.data.homeLogo?.trim() && item.data.homeLogo !== '/images/wing-home.png'
+  ? item.data.homeLogo.trim() : '';
+let awayLogo = item.data.awayLogo?.trim() && item.data.awayLogo !== '/images/wing-away.png'
+  ? item.data.awayLogo.trim() : '';
+
+// body 파싱 백업 (frontmatter 값이 없을 때만)
+if ((!country || !league) && bodyText) {
+  const leagueRegex = /\|\s*\*\*<span[^>]*>리그<\/span>\*\*\s*\|\s*\*\*(.*?):\s*(.*?)\*\*\s*\|/;
+  const m = bodyText.match(leagueRegex);
+  if (m) {
+    if (!country) country = m[1].trim();
+    if (!league) league = m[2].trim();
+  }
+}
+
+if ((!homeTeam || !awayTeam) && bodyText) {
+  if (!homeTeam) {
+    const m = bodyText.match(/\|\s*\*\*<span[^>]*>홈팀<\/span>\*\*\s*\|\s*<img[^>]*>\s*\*\*(.*?)\s*\(/);
+    if (m) homeTeam = m[1].trim();
+  }
+  if (!awayTeam) {
+    const m = bodyText.match(/\|\s*\*\*<span[^>]*>원정팀<\/span>\*\*\s*\|\s*<img[^>]*>\s*\*\*(.*?)\s*\(/);
+    if (m) awayTeam = m[1].trim();
+  }
+}
+
+if ((!homeLogo || !awayLogo) && bodyText) {
+  const logoRegex = category === 'lol'
+    ? /\/logos\/[a-z0-9-_]+\.png/g
+    : /https:\/\/media\.api-sports\.io\/[a-z-]+\/teams\/\d+\.png/g;
+  const logos = bodyText.match(logoRegex);
+  if (logos && logos.length >= 2) {
+    if (!homeLogo) homeLogo = logos[0];
+    if (!awayLogo) awayLogo = logos[1];
+  }
+}
+
+// 최종 기본값
+country = country || '국가';
+league = league || '리그';
+homeTeam = homeTeam || '홈팀';
+awayTeam = awayTeam || '원정팀';
+homeLogo = homeLogo || '/images/wing-home.png';
+awayLogo = awayLogo || '/images/wing-away.png';
 ---
 
 <BaseLayout 
@@ -70,7 +126,7 @@ const categoryName = CATEGORY_MAP[category] ?? category;
   <div class="match-info-card" id="matchInfoCard">
     <div class="card-top">
       <span class="league-info">
-        {item.data.country} [ {item.data.league} ]
+        {country} [ {league} ]
       </span>
       <span class="match-time-text">
         {(() => {
@@ -87,23 +143,19 @@ const categoryName = CATEGORY_MAP[category] ?? category;
     </div>
     <div class="card-center">
       <div class="team home-team">
-        <span class="team-name">{item.data.homeTeam}</span>
-        <img
-          src={item.data.homeLogo}
-          alt={item.data.homeTeam}
+        <span class="team-name">{homeTeam}</span>
+      <img src={homeLogo} alt={homeTeam}
           class="team-logo"
           onerror="if(!this.dataset.failed){this.dataset.failed='1';this.src='/images/wing-home.png';}"
         />
       </div>
       <div class="vs-zone">VS</div>
       <div class="team away-team">
-        <img
-          src={item.data.awayLogo}
-          alt={item.data.awayTeam}
+         <img src={awayLogo} alt={awayTeam}
           class="team-logo"
           onerror="if(!this.dataset.failed){this.dataset.failed='1';this.src='/images/wing-away.png';}"
         />
-        <span class="team-name">{item.data.awayTeam}</span>
+        <span class="team-name">{awayTeam}</span>
       </div>
     </div>
   </div>
