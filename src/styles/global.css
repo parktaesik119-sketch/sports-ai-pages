@@ -1241,3 +1241,273 @@ body {
 .search-item:hover {
   background: #fafafa;
 }
+/* =========================
+   🏟️ 포메이션 위젯
+========================= */
+
+.formation-wrap {
+  margin: 20px 0;
+}
+
+.formation-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.formation-svg {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+}
+
+/* PC: 가로 표시 */
+.formation-pc {
+  display: block;
+}
+
+/* PC: 세로형 숨김 */
+.formation-mobile {
+  display: none;
+}
+
+/* 모바일: 세로형으로 전환 */
+@media (max-width: 600px) {
+  .formation-pc {
+    display: none;
+  }
+  .formation-mobile {
+    display: block;
+  }
+}
+
+/* =========================
+   📝 종합 전망 카드
+========================= */
+.summary-card {
+  margin: 20px 0;
+  border-radius: 10px;
+  border: 1px solid #dee2e6;
+  overflow: hidden;
+}
+.summary-card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 12px 16px;
+  background: #f8fafc;
+  border-bottom: 1px solid #dee2e6;
+  color: #333;
+}
+.summary-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.summary-table tr {
+  border-bottom: 1px solid #f1f3f5;
+}
+.summary-table tr:last-child {
+  border-bottom: none;
+}
+.summary-label {
+  width: 35%;
+  padding: 10px 16px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #555;
+  background: #fafafa;
+  vertical-align: top;
+}
+.summary-value {
+  padding: 10px 16px;
+  font-size: 0.85rem;
+  color: #222;
+  line-height: 1.6;
+}
+
+/* =========================
+   🔭 경기 전망 카드
+========================= */
+.outlook-card {
+  margin: 20px 0;
+  border-radius: 10px;
+  border: 1px solid #dee2e6;
+  overflow: hidden;
+}
+.outlook-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 12px 16px;
+  background: #f8fafc;
+  border-bottom: 1px solid #dee2e6;
+  color: #333;
+}
+.outlook-body {
+  padding: 16px;
+  background: #fff;
+}
+.outlook-para {
+  font-size: 0.92rem;
+  line-height: 1.8;
+  color: #333;
+  margin-bottom: 12px;
+}
+.outlook-para:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .summary-label { width: 40%; font-size: 0.78rem; padding: 8px 10px; }
+  .summary-value { font-size: 0.78rem; padding: 8px 10px; }
+  .outlook-para { font-size: 0.85rem; }
+}
+
+/* =========================
+   🎯 추천픽 카드
+========================= */
+.pick-card {
+  margin: 20px 0;
+  border-radius: 10px;
+  border: 2px solid #4dabf7;
+  overflow: hidden;
+}
+.pick-card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 12px 16px;
+  background: linear-gradient(135deg, #e7f5ff, #d0ebff);
+  border-bottom: 1px solid #4dabf7;
+  color: #1971c2;
+}
+.pick-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.pick-th {
+  padding: 8px 16px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #666;
+  background: #f8fafc;
+  border-bottom: 1px solid #dee2e6;
+  text-align: left;
+}
+.pick-table tbody tr {
+  border-bottom: 1px solid #f1f3f5;
+}
+.pick-table tbody tr:last-child {
+  border-bottom: none;
+}
+.pick-type {
+  width: 20%;
+  padding: 12px 16px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #1971c2;
+  background: #f8fafc;
+}
+.pick-team {
+  width: 45%;
+  padding: 12px 16px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #222;
+}
+.pick-value {
+  width: 35%;
+  padding: 12px 16px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #e03131;
+  text-align: right;
+}
+.pick-disclaimer {
+  padding: 8px 16px;
+  font-size: 0.75rem;
+  color: #999;
+  background: #f8fafc;
+  border-top: 1px solid #f1f3f5;
+}
+
+@media (max-width: 600px) {
+  .pick-type { font-size: 0.78rem; padding: 10px 8px; }
+  .pick-team { font-size: 0.82rem; padding: 10px 8px; }
+  .pick-value { font-size: 0.82rem; padding: 10px 8px; }
+}
+
+/* =========================
+   ⚡ 팀별 핵심 전력 분석 카드
+========================= */
+.analysis-card {
+  margin: 20px 0;
+  border-radius: 10px;
+  border: 1px solid #dee2e6;
+  overflow: hidden;
+}
+.analysis-card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 12px 16px;
+  background: #f8fafc;
+  border-bottom: 1px solid #dee2e6;
+  color: #333;
+}
+.analysis-teams {
+  display: flex;
+  gap: 0;
+}
+.analysis-team {
+  flex: 1;
+  padding: 16px;
+  min-width: 0;
+}
+.analysis-divider {
+  width: 1px;
+  background: #dee2e6;
+  flex-shrink: 0;
+}
+.analysis-team-name {
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid currentColor;
+}
+.home-color { color: #e03131; }
+.away-color { color: #1971c2; }
+.analysis-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.analysis-point {
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: #333;
+  padding: 5px 0 5px 14px;
+  position: relative;
+  border-bottom: 1px solid #f8f9fa;
+}
+.analysis-point:last-child {
+  border-bottom: none;
+}
+.analysis-point::before {
+  content: "●";
+  position: absolute;
+  left: 0;
+  color: #adb5bd;
+  font-size: 0.5rem;
+  top: 8px;
+}
+
+@media (max-width: 600px) {
+  .analysis-teams {
+    flex-direction: column;
+  }
+  .analysis-divider {
+    width: 100%;
+    height: 1px;
+  }
+  .analysis-point { font-size: 0.78rem; }
+}
