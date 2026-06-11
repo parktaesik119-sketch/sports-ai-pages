@@ -19,6 +19,14 @@ const posts = defineCollection({
       'hockey',
       'lol'
     ]),
+
+    /* ✅ 경기 정보 필드 추가 */
+    country:  z.string().optional(),
+    league:   z.string().optional(),
+    homeTeam: z.string().optional(),
+    awayTeam: z.string().optional(),
+    homeLogo: z.string().optional(),
+    awayLogo: z.string().optional(),
   }),
 });
 

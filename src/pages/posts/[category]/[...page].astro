@@ -138,6 +138,8 @@ if (
   awayTeam = rawData.awayTeam.trim();
 }
 
+
+
 // ======================================================
 // 2차 : bodyText 기반 복구 (경기 정보 요약 표 파싱)
 // frontmatter가 없을 때만 실행
@@ -171,6 +173,8 @@ if (
 // ======================================================
 if (
   (homeTeam === '홈팀' || awayTeam === '원정팀') &&
+  !rawData.homeTeam &&
+  !rawData.awayTeam &&
   rawData.title
 ) {
   const currentTitle = rawData.title;
