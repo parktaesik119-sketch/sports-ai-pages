@@ -300,6 +300,9 @@ const TEAM_NAME_MAP = {
   "Seoul E-Land FC": "서울 이랜드 FC",
   "Suwon Bluewings": "수원 삼성 블루윙즈",
   "Suwon City FC": "수원 FC",
+  "Suwon FMC W": "수원 FC(W)",
+  "Gumi Sportstoto W": "세종스포츠토토(W)",
+  "Incheon Red Angels W": "현대제철 레드엔젤스(W)",
   "Yongin City": "용인 FC",
 
   // ===== 🇺🇸 MLS =====
@@ -783,14 +786,14 @@ const TEAM_NAME_MAP = {
   "Vitoria": "비토리아",
 
   // K리그 WK리그
-  "Boeun Sangmu": "보은 상무",
-  "Changnyeong": "창녕 FC",
-  "Gumi Sportstoto": "구미 스포르토토",
-  "Gyeongju": "경주 한국수력원자력",
-  "Hwacheon KSPO": "화천 KSPO",
+  "Boeun Sangmu W": "문경 상무(W)",
+  "Changnyeong W": "창녕 FC(W)",
+  "Gumi Sportstoto": "세종스포츠토토(W)",
+  "Gyeongju W": "경주 한국수력원자력(W)",
+  "Hwacheon KSPO W": "화천 KSPO(W)",
   "Incheon Red Angels": "인천 현대제철 레드엔젤스",
-  "Naegohyang W": "내고향",
-  "Seoul": "서울시청",
+  "Naegohyang W": "내고향(W)",
+  "Seoul W": "서울시청(W)",
   "Suwon FMC": "수원 FMC",
 
   // 프리메이라리가 디비시온 (아르헨티나/남미)
