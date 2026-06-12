@@ -573,6 +573,7 @@ const TEAM_NAME_MAP = {
   // 국가대표팀
   "Canada": "캐나다",
   "Finland": "핀란드",
+  "Finland W": "핀란드 W",
   "Sweden": "스웨덴",
   "Sweden W": "스웨덴 W",
   "Tunisia": "튀니지",
@@ -591,8 +592,10 @@ const TEAM_NAME_MAP = {
   "Slovakia": "슬로바키아",
   "Slovakia W": "슬로바키아 W",
   "Latvia": "라트비아",
+  "Latvia W": "라트비아 W",
   "Slovenia": "슬로베니아",
   "Austria": "오스트리아",
+  "Austria W": "오스트리아 W",
   "Hungary": "헝가리",
   "Italy": "이탈리아",
   "Great Britain": "영국",
@@ -982,6 +985,7 @@ const TEAM_NAME_MAP = {
   "Cape Verde Islands": "카보베르데",
   "Italy": "이탈리아",
   "Portugal": "포르투갈",
+  "Portugal W": "포르투갈 W",
   "Netherlands": "네덜란드",
   "Belgium": "벨기에",
   "Egypt": "이집트",
@@ -989,6 +993,8 @@ const TEAM_NAME_MAP = {
   "Ecuador": "에콰도르",
   "Argentina": "아르헨티나",
   "Brazil": "브라질",
+  "Serbia": "세르비아",
+  "Serbia W": "세르비아 W",
   "Mexico": "멕시코",
   "South Africa": "남아프리카공화국",
   "Colombia": "콜롬비아",
@@ -1017,6 +1023,8 @@ const TEAM_NAME_MAP = {
   "North Macedonia": "북마케도니아",
   "Albania W": "알바니아 W",
   "Albania": "알바니아",
+  "Croatia": "크로아티아",
+  "Croatia W": "크로아티아 W",
   "Romania W": "루마니아 W",
   "Ukraine": "우크라이나",
   "Cuba": "쿠바",
@@ -1166,6 +1174,16 @@ const TEAM_NAME_MAP = {
   "Shenyang Urban": "랴오닝 선양",
   "Wuhan Three Towns": "우한 쓰리 타운즈",
   "Toledo Mud Hens": "톨레도 머드헨스",
+
+  //중국축구
+  "Changchun Yatai": "창춘 야타이",
+  "Dalian Huayi": "다롄 쿤 시티",
+  "Hebei Kungfu": "스자좡 쿵후",
+  "Suzhou Dongwu": "쑤저우 동우",
+  "Nanjing City": "난징 시티",
+  "Ningbo Professional": "닝보 프로페셔널",
+  "Heilongjiang Lava Spring": "헤이룽장 훠샨밍취안",
+  "Guangzhou E-Power": "광둥 GZ-파워",
 
 
 };
