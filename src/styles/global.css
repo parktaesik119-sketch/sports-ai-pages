@@ -1511,3 +1511,102 @@ body {
   }
   .analysis-point { font-size: 0.78rem; }
 }
+
+/* =========================
+   🎯 위젯 카드 스타일 (공통)
+========================= */
+
+/* 포메이션 위젯 */
+.formation-wrap {
+  background: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 20px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.formation-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #333;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #f1f3f5;
+}
+
+/* 핵심 전력 분석 카드 */
+.analysis-card {
+  background: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  margin: 20px 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.analysis-card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 14px 16px;
+  background: linear-gradient(135deg, #f8fafc, #eef2f7);
+  border-bottom: 1px solid #dee2e6;
+  color: #333;
+}
+
+/* 종합 전망 카드 */
+.summary-card {
+  background: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  margin: 20px 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.summary-card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 14px 16px;
+  background: linear-gradient(135deg, #fff9db, #fff4e6);
+  border-bottom: 1px solid #ffe8a1;
+  color: #856404;
+}
+
+/* 경기 전망 카드 */
+.outlook-card {
+  background: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  margin: 20px 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.outlook-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 14px 16px;
+  background: linear-gradient(135deg, #e7f5ff, #d0ebff);
+  border-bottom: 1px solid #74c0fc;
+  color: #1971c2;
+}
+
+/* 추천픽 카드 */
+.pick-card {
+  background: #fff;
+  border: 2px solid #4dabf7;
+  border-radius: 10px;
+  margin: 20px 0;
+  overflow: hidden;
+  box-shadow: 0 3px 12px rgba(77,171,247,0.2);
+}
+
+.pick-card-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  padding: 14px 16px;
+  background: linear-gradient(135deg, #e7f5ff, #d0ebff);
+  border-bottom: 2px solid #4dabf7;
+  color: #1971c2;
+}
