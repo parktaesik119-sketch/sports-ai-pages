@@ -588,6 +588,8 @@ const TEAM_NAME_MAP = {
   "Curacao": "퀴라소",
   "Switzerland": "스위스",
   "Denmark": "덴마크",
+  "Curaçao": "퀴라소",
+  "Bulgaria": "불가리아",
   "Norway": "노르웨이",
   "Slovakia": "슬로바키아",
   "Slovakia W": "슬로바키아 W",
