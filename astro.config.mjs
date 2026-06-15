@@ -7,6 +7,11 @@ export default defineConfig({
   // ✅ 슬래시 통일: 실제 URL이 슬래시로 끝나므로 always로 맞춤
   trailingSlash: 'always',
 
+  markdown: {
+    remarkPlugins: [],
+    rehypePlugins: [],
+  },
+
   integrations: [
     sitemap({
       serialize(item) {
