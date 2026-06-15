@@ -374,7 +374,7 @@ if (isExtraFiltered) {
     - 2순위: 2024년 이후 기록이 단 하나도 없으면, 연도 제한 없이 역대 전적을 최신순으로 최대 5개 출력하고, 첫 줄에 '※ 최근 공식 맞대결 기록 없음, 역대 전적 표기' 라고 명시하라.
     - 어떤 경우에도 '※업데이트 예정' 단독 출력은 금지한다. 반드시 검색 후 찾은 전적을 표기하라.
     - 절대 금지: 아직 열리지 않은 예정 경기(미래 날짜, "예정", "upcoming" 등)를 전적으로 출력하는 것은 엄격히 금지한다. 오직 이미 종료된 경기 결과만 표기하라.
-    - 검색해도 과거 전적이 없으면 '※ 전적 데이터 없음'으로만 표기하라.
+    - 검색해도 과거 전적이 없으면 '※ 2년 이내 전적 데이터 없음'으로만 표기하라.
 
   [상대전적 출력 예시]
   ### ⚔️ 상대전적
@@ -1276,9 +1276,14 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
       // body에서 "📋 최근 경기" 헤더 텍스트 제거
       const cleanRecent = (str) => {
         let s = str.replace(/^📋\s*최근 경기(<br>)?\s*/m, '').trim();
-        // 영문 팀명 → 한글 팀명 치환 (대소문자 무시)
+        // 홈/원정팀 영문명 → 한글 치환
         if (homeEng && homeKor) s = s.replace(new RegExp(homeEng.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'), homeKor);
         if (awayEng && awayKor) s = s.replace(new RegExp(awayEng.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'), awayKor);
+        // TEAM_NAME_MAP 전체 참조해서 나머지 영문 팀명도 한글로 치환
+        for (const [eng, kor] of Object.entries(TEAM_NAME_MAP)) {
+          if (!eng) continue;
+          s = s.replace(new RegExp(eng.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'), kor);
+        }
         return s;
       };
 
@@ -1287,7 +1292,7 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
         const recentPart   = cleanRecent(body.slice(recentIdx).trim());
         result.push(makeWidget(teamLabel, '#228be6', analysisPart));
         result.push('\n');
-        result.push(makeWidget('📋 최근 경기', '#1098ad', recentPart));
+        result.push(makeWidget(`📋 ${teamName} 최근 경기`, '#1098ad', recentPart));
       } else {
         result.push(makeWidget(teamLabel, '#228be6', body.trim()));
       }
