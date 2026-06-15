@@ -469,171 +469,27 @@ awayLogo = awayLogo || '/images/wing-away.png';
 </style>
 
 <script>
+  // 🏟️ 경기 정보 요약 h3를 찾아서 카드로 교체
   document.addEventListener('DOMContentLoaded', () => {
     const prose = document.querySelector('.prose');
     if (!prose) return;
 
-    // ─────────────────────────────────────────────
-    // 1. 🏟️ 경기 정보 요약 섹션 숨김 (기존 로직 유지)
-    // ─────────────────────────────────────────────
-    prose.querySelectorAll('h3').forEach(h3 => {
+    // 🏟️ 경기 정보 요약 h3와 표 숨김
+    const allH3 = prose.querySelectorAll('h3');
+    allH3.forEach(h3 => {
       if (!h3.textContent.includes('🏟️')) return;
+
       h3.style.display = 'none';
+
       let next = h3.nextElementSibling;
       while (next && next.tagName !== 'H3') {
         const curr = next;
         next = next.nextElementSibling;
-        if (curr.tagName === 'TABLE') { curr.style.display = 'none'; break; }
-      }
-    });
-
-    // ─────────────────────────────────────────────
-    // 2. 섹션 위젯 래핑
-    // ─────────────────────────────────────────────
-
-    // 섹션 정의: 키워드로 h3를 구분하고 각각 스타일을 지정
-    // 홈팀/원정팀 분석은 h3 뒤에 📋 최근 경기 단락이 포함되어 있으므로
-    // "분석" 섹션 내부에서 📋 부분을 별도 카드로 분리한다.
-    const SECTION_DEFS = [
-      { match: (t) => t.includes('분석') && !t.includes('종합'), icon: '🔍', label: '팀 분석',   color: '#228be6', splitRecent: true  },
-      { match: (t) => t.includes('⚔️'),                          icon: '⚔️', label: '상대 전적', color: '#f03e3e', splitRecent: false },
-      { match: (t) => t.includes('📝'),                          icon: '📝', label: '종합 분석', color: '#7048e8', splitRecent: false },
-      { match: (t) => t.includes('🎯'),                          icon: '🎯', label: '추천 픽',   color: '#2f9e44', splitRecent: false },
-    ];
-
-    // 📋 최근 경기 블록을 텍스트에서 감지하는 헬퍼
-    function isRecentHeader(el) {
-      return el && el.textContent && el.textContent.includes('📋 최근 경기');
-    }
-
-    // h3 목록을 순회하며 대상 섹션만 래핑
-    const allH3 = Array.from(prose.querySelectorAll('h3'));
-
-    allH3.forEach((h3) => {
-      const text = h3.textContent || '';
-
-      // 🏟️ 는 이미 처리됨, 건너뜀
-      if (text.includes('🏟️')) return;
-
-      const def = SECTION_DEFS.find(d => d.match(text));
-      if (!def) return;
-
-      // ── 이 h3 다음에 오는 형제 요소들을 모은다 (다음 h3 전까지)
-      const siblings = [];
-      let cursor = h3.nextElementSibling;
-      while (cursor && cursor.tagName !== 'H3') {
-        siblings.push(cursor);
-        cursor = cursor.nextElementSibling;
-      }
-
-      if (def.splitRecent) {
-        // ── 팀 분석 섹션: 분석 본문 / 📋 최근 경기로 분리
-        const recentIdx = siblings.findIndex(el => isRecentHeader(el));
-
-        // 분석 본문 노드들
-        const analysisSiblings = recentIdx >= 0 ? siblings.slice(0, recentIdx) : siblings;
-        // 최근 경기 노드들 (📋 포함 노드부터 끝)
-        const recentSiblings  = recentIdx >= 0 ? siblings.slice(recentIdx) : [];
-
-        wrapSection(h3, analysisSiblings, def.icon, def.label, def.color);
-
-        if (recentSiblings.length > 0) {
-          // 📋 최근 경기 카드는 헤더 없이 간결하게
-          wrapSection(null, recentSiblings, '📋', '최근 경기', '#1098ad');
+        if (curr.tagName === 'TABLE') {
+          curr.style.display = 'none';
+          break;
         }
-      } else {
-        wrapSection(h3, siblings, def.icon, def.label, def.color);
       }
     });
-
-    // ─────────────────────────────────────────────
-    // 3. 실제 DOM 래핑 함수
-    // ─────────────────────────────────────────────
-    function wrapSection(h3El, contentEls, icon, label, color) {
-      if (!contentEls.length && !h3El) return;
-
-      const anchor = h3El || contentEls[0];
-      if (!anchor || !anchor.parentNode) return;
-
-      // 카드 외형
-      const card = document.createElement('div');
-      card.className = 'section-widget';
-
-      // 컬러 헤더
-      const header = document.createElement('div');
-      header.className = 'section-widget-header';
-      header.style.setProperty('--widget-color', color);
-      header.innerHTML = `<span class="widget-icon">${icon}</span><span class="widget-label">${label}</span>`;
-
-      // 본문 영역
-      const body = document.createElement('div');
-      body.className = 'section-widget-body';
-
-      card.appendChild(header);
-      card.appendChild(body);
-
-      // h3 제목 자체는 카드 헤더로 대체되므로 숨김
-      if (h3El) {
-        h3El.style.display = 'none';
-        h3El.parentNode.insertBefore(card, h3El);
-      } else {
-        contentEls[0].parentNode.insertBefore(card, contentEls[0]);
-      }
-
-      // 본문 노드 이동
-      contentEls.forEach(el => body.appendChild(el));
-    }
   });
 </script>
-
-<style>
-/* ── 섹션 위젯 카드 ── */
-.section-widget {
-  border-radius: 10px;
-  border: 1px solid #e9ecef;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.07);
-  margin: 20px 0;
-  overflow: hidden;
-}
-
-.section-widget-header {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 10px 16px;
-  background: var(--widget-color, #228be6);
-  color: #fff;
-  font-weight: 700;
-  font-size: 0.95rem;
-}
-
-.widget-icon {
-  font-size: 1.1rem;
-  line-height: 1;
-}
-
-.widget-label {
-  letter-spacing: 0.02em;
-}
-
-.section-widget-body {
-  padding: 16px 18px;
-  background: #fff;
-}
-
-/* 본문 내부 여백 초기화 (prose 스타일 중복 방지) */
-.section-widget-body > *:first-child { margin-top: 0; }
-.section-widget-body > *:last-child  { margin-bottom: 0; }
-
-/* 추천픽 테이블 강조 */
-.section-widget:has(.section-widget-header[style*="#2f9e44"]) table {
-  font-size: 1rem;
-  font-weight: 600;
-}
-
-/* 모바일 */
-@media (max-width: 768px) {
-  .section-widget-header { font-size: 0.88rem; padding: 9px 13px; }
-  .section-widget-body   { padding: 12px 13px; }
-}
-</style>
