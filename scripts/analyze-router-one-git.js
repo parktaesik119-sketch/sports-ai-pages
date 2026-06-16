@@ -1027,6 +1027,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
   { target: /^LCK CHALLENGERS LEAGUE ROUNDS 1-2$/i, replace: "LCK CL" },    
   { target: /^LCK ROUNDS 1-2$/i, replace: "LCK" },
   { target: /^Veikkausliiga$/i, replace: "D1" },
+  { target: /^Erovnuli Liga$/i, replace: "D1" },
   { target: /^Botola Pro$/i, replace: "D1" },
   { target: /^JUPILER PRO LEAGUE$/i, replace: "D1" },
   { target: /^Eliteserien$/i, replace: "D1" },
