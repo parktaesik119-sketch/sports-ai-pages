@@ -866,6 +866,7 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
   return false;
 }
 
+
   // 1. 기초 정제 (여기서 변수를 선언합니다)
   let cleanedText = aiText.replace(/```markdown|```/g, "").trim();
 
@@ -1250,7 +1251,7 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
   // 섹션 정의: h3 텍스트에 포함된 키워드 → 헤더 라벨 + 색상
   const SECTION_DEFS = [
     { keyword: '⚡',  label: '⚡ 팀별 핵심 전력 분석', color: '#e67700', custom: 'power' },
-    { keyword: '⚔️',  label: '⚔️ 상대 전적', color: '#f03e3e' },
+    { keyword: '⚔️',  label: '⚔️ 상대 전적', color: '#1098ad' },
     { keyword: '📝',  label: '📝 종합 분석', color: '#7048e8' },
     { keyword: '🎯',  label: '🎯 추천 픽',   color: '#2f9e44' },
   ];
@@ -1316,15 +1317,17 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
         return s;
       };
 
+      const teamColor = isHome ? '#e03131' : '#228be6';
+
       if (recentIdx !== -1) {
-        const analysisPart = body.slice(0, recentIdx).trim();
-        const recentPart   = cleanRecent(body.slice(recentIdx).trim());
-        result.push(makeWidget(teamLabel, '#228be6', analysisPart));
-        result.push('\n');
-        result.push(makeWidget(`📋 ${teamName} 최근 경기`, '#1098ad', recentPart));
-      } else {
-        result.push(makeWidget(teamLabel, '#228be6', body.trim()));
-      }
+      const analysisPart = body.slice(0, recentIdx).trim();
+      const recentPart   = cleanRecent(body.slice(recentIdx).trim());
+      result.push(makeWidget(teamLabel, teamColor, analysisPart));
+      result.push('\n');
+      result.push(makeWidget(`📋 ${teamName} 최근 경기`, '#868e96', recentPart));
+     } else {
+      result.push(makeWidget(teamLabel, teamColor, body.trim()));
+     }
       continue;
     }
 
@@ -1347,17 +1350,34 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
 }
 
 function makeWidget(label, color, innerMarkdown) {
+  // 경기 줄 패턴: "YY/MM/DD 팀A vs 팀B" 또는 "YYYY.MM.DD - 팀A" 형태
+  const isMatchLine = (str) => /\d{2,4}[\/\.\-]\d{1,2}[\/\.\-]\d{1,2}/.test(str);
+
   const converted = innerMarkdown.trim()
     .replace(/<br>\s*<br>/gi, '')   // <br><br> 제거
     .replace(/<br>\s*$/gim, '')     // 줄 끝 <br> 제거
-    .split('\n').map(line => {
+    .split('\n').map((line, idx, arr) => {
     // ✅ 내용 없이 * 또는 - 만 단독으로 있는 줄은 HTML 변환 전에 제거
     if (/^\s*[*\-]+\s*$/.test(line)) return '';
     const m = line.match(/^[*-]\s+(.+)/);
-    if (!m) return line;
+    if (!m) {
+      // 경기 줄(날짜 포함)이고 이전에 같은 패턴 줄이 있으면 위에 구분선 추가
+      if (isMatchLine(line) && idx > 0 && arr.slice(0, idx).some(l => isMatchLine(l))) {
+        return `<hr style="border:none;border-top:1px solid #e9ecef;margin:6px 0;">${line}`;
+      }
+      return line;
+    }
     const text = m[1].replace(/<br>$/, '').trim();
     if (!text) return ''; // 내용 없는 빈 * 제거
-    return `<div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:7px;font-size:0.9rem;line-height:1.6;"><span style="display:inline-block;min-width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${text}</span></div>`;
+    // 불렛 경기 줄이고 이전에 같은 패턴 불렛이 있으면 구분선 추가
+    const prevMatchBullets = arr.slice(0, idx).filter(l => {
+      const bm = l.match(/^[*-]\s+(.+)/);
+      return bm && isMatchLine(bm[1]);
+    });
+    const divider = (isMatchLine(text) && prevMatchBullets.length > 0)
+      ? `<hr style="border:none;border-top:1px solid #e9ecef;margin:6px 0;">`
+      : '';
+    return `${divider}<div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:7px;font-size:0.9rem;line-height:1.6;"><span style="display:inline-block;min-width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${text}</span></div>`;
   }).join('\n');
 
   return [
