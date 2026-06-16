@@ -113,7 +113,7 @@ async function analyzeMatches() {
   // ⬇️ 제외하고 싶은 국가명을 정확히 입력하세요 //대소문자 구분없음
     const blockedCountries = [
   "Bahrain", "Kyrgyzstan", "Uzbekistan", "Uganda", "Eswatini", "Zambia", "India", "South-Africa", "Malaysia", "Malta", "Kenya", "Barbados", "Peru", "Bolivia", "Honduras", "Cambodia", "Ivory-Coast", "Cyprus", "Burkina-Faso", "Azerbaijan", "Belarus", "Kazakhstan", "Ukraine", "Zimbabwe", "Rwanda", "Congo", "Mongolia", "Armenia", "Indonesia", "Syria", "Ethiopia", "Chile", "Ecuador", "Lithuania", "Mauritania", "Latvia", "Estonia", "Balkans", "Puerto Rico", "Dominican Republic", "Aruba", "Philippines", 'PERU', 'ECUADOR', 'AZERBAIJAN', 'ARMENIA', 'BELARUS', 'KAZAKHSTAN', 'UKRAINE', 'ICELAND', 'LITHUANIA', 'LATVIA', 'ESTONIA', 'MALTA', 'CYPRUS', 'SYRIA', 'BARBADOS', 'Bangladesh', 'Tunisia', 'Malawi', 'Ghana', 'Lebanon', 'Botswana',
-  "Slovakia", "Faroe-Islands", 'Aruba', 'Panama', 'Bhutan', 'Ethiopia', 'Congo-DR', 'Israel', "El Salvador", 'El-Salvador', 'Jamaica', 'Rwanda', 'Mauritania', 'Zimbabwe',,'Ethiopia', 'Kenya', 'INDIA', 'UZBEKISTAN', 'KYRGYZSTAN', 'Bangladesh', 'Lesotho', 'Kuwait', 'Finland',
+  "Slovakia", "Faroe-Islands", 'Aruba', 'Panama', 'Bhutan', 'Ethiopia', 'Congo-DR', 'Israel', "El Salvador", 'El-Salvador', 'Jamaica', 'Rwanda', 'Mauritania', 'Zimbabwe','Ethiopia', 'Kenya', 'INDIA', 'UZBEKISTAN', 'KYRGYZSTAN', 'Bangladesh', 'Lesotho', 'Kuwait', 'Finland',
 ].filter(c => c !== "South-Korea");
 
     const blockedTeams = [
@@ -397,6 +397,7 @@ if (isExtraFiltered) {
   - 핵심포인트3
   - 핵심포인트4
   - 핵심포인트5
+  ---
   [원정팀명]
   - 핵심포인트1
   - 핵심포인트2
@@ -404,6 +405,8 @@ if (isExtraFiltered) {
   - 핵심포인트4
   - 핵심포인트5
   <br><br>
+
+  ※ 위 형식에서 [홈팀명]과 [원정팀명] 사이 구분선(---)은 반드시 포함하라. 원정팀 불렛을 절대 생략하지 마라.
 
   ### 📝 종합 분석
   (상대전적 유무와 상관없이 현재 폼을 바탕으로 한 최종 진단) 
@@ -483,7 +486,10 @@ if (isExtraFiltered) {
 
       // 6. 상대전적(H2H) 분석 로직
   const spacer = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-  const strictlyRecentDate = new Date('2024-01-01'); 
+  // ✅ MLB/NBA/NHL 등 데이터가 풍부한 스포츠는 3년치까지 DB 검색
+  const lgUpper = (match.league || '').toUpperCase();
+  const isDataRichSport = ['MLB', 'NBA', 'NHL', 'KBO', 'NPB'].some(s => lgUpper.includes(s));
+  const strictlyRecentDate = new Date(isDataRichSport ? '2023-01-01' : '2024-01-01');
   const currentMatchDate = new Date(match.date);
 
   const h2hHistory = masterData.filter(m => {
@@ -516,8 +522,18 @@ if (isExtraFiltered) {
     } else {
       
     h2hContent = "\n\n(※업데이트 예정)\n\n";
-    h2hContextForAI = `\n[SEARCH_REQUIRED] "2024-2026 ${match.homeTeam} vs ${match.awayTeam} match results"를 검색하여 스코어를 확인하고 상세 분석에 반영하라.\n`;
-  }
+    // ✅ 검색 지시를 더 구체적으로 강화 (팀명 변수도 match.home/away로 수정)
+    h2hContextForAI = `
+   [SEARCH_REQUIRED - 반드시 실행]
+   내부 DB에 상대전적이 없습니다. 아래 절차를 반드시 수행하라:
+   ① 웹 검색: "${match.home} vs ${match.away} head to head results 2024 2025 2026"
+   ② 검색 결과에서 이미 종료된 경기(스코어가 숫자-숫자 형태로 확인된 것)만 추출하라.
+   ③ 종료된 경기가 2024년 이후에 있으면 최신순으로 최대 5개 출력하라.
+   ④ 2024년 이후 결과가 없으면 연도 제한 없이 역대 최신순 5개를 출력하고, 첫 줄에 '※ 최근 공식 맞대결 기록 없음, 역대 전적 표기'를 명시하라.
+   ⑤ 검색해도 종료된 경기가 단 하나도 없는 경우에만 '※ 2년 이내 전적 데이터 없음'으로 표기하라.
+   ⑥ '예정', 'upcoming', 'scheduled' 경기는 절대 포함 금지.
+   `;
+   }
 
   // 최근 3경기 추출
   const homeRecentMatches = masterData.filter(m => {
@@ -1135,6 +1151,8 @@ cleanedText = cleanedText.replace(
       .map(line => {
         const trimmed = line.trim();
         if (!trimmed) return '';
+        // ✅ 내용 없이 * 또는 - 만 단독으로 있는 줄 제거
+        if (/^[*\-]+$/.test(trimmed)) return '';
         // 이미 * 로 시작하면 그대로, 아니면 * 추가하고 기존 <br> 제거
         if (trimmed.startsWith('* ')) return trimmed.replace(/<br>$/, '');
         return `* ${trimmed.replace(/<br>$/, '')}`;
@@ -1144,6 +1162,9 @@ cleanedText = cleanedText.replace(
     return `${header}\n${fixedBody}\n${ending}`;
   }
 );
+
+// ✅ 본문 전체에서 내용 없이 * 또는 - 만 단독으로 있는 줄 제거
+cleanedText = cleanedText.split('\n').filter(line => !/^\s*[*\-]\s*$/.test(line)).join('\n');
 
 // 본문 시작 전 불필요한 빈 줄 정리
 cleanedText = cleanedText.replace(/^\n+/, '').trim();
@@ -1362,7 +1383,7 @@ function makePowerWidget(label, color, body) {
     } else if (phase === 1) {
       if (isSeparator) { phase = 2; }
       else if (isBullet) homeLines.push(trimmed);
-      else if (!isBullet && trimmed.length > 0) { awayName = trimmed.replace(/^#+\s*|\[|\]|🔴|🔵|●|▶/g, '').trim(); phase = 3; }
+      else if (!isBullet && trimmed.length > 0 && homeLines.length > 0) { awayName = trimmed.replace(/^#+\s*|\[|\]|🔴|🔵|●|▶/g, '').trim(); phase = 3; }
     } else if (phase === 2) {
       if (!isBullet) { awayName = trimmed.replace(/^#+\s*|\[|\]|🔴|🔵|●|▶/g, '').trim(); phase = 3; }
     } else if (phase === 3) {
