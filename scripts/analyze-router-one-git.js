@@ -669,7 +669,7 @@ const matchDataPrompt = `
     ② 데이터베이스가 비어있으면 "${match.home} vs ${match.away} head to head results" 검색 → 종료된 경기 결과만 사용.
     ③ 검색 결과에서 미래 날짜이거나 "예정", "upcoming" 이 포함된 경기는 절대 포함 금지.
     ④ 반드시 스코어(숫자-숫자)가 확인된 종료된 경기만 출력하라.
-    ⑤ 2024년 이전 전적도 없으면 역대 최신순으로 5개 출력하되, 첫 줄에 '※ 최근 공식 맞대결 기록 없음, 역대 전적 표기' 명시.- [중요] 상대전적 가이드: 데이터베이스에 스코어 정보가 있다면 이를 우선 반영하고 만약 비어있다면 Google Search를 통해 "${match.home} vs ${match.away} last match results 2024 2025 2026"를 검색하여 리포트를 완성하라.
+    ⑤ 2024년 이전 전적도 없으면 역대 최신순으로 5개 출력하되, 첫 줄에 '※ 최근 공식 맞대결 기록 없음, 역대 전적 표기' 명시.
 
     [홈팀 최근 3경기 DB - 홈팀 분석 섹션 하단에 반드시 반영]
   ${homeRecentContext}
@@ -1350,7 +1350,7 @@ function makeWidget(label, color, innerMarkdown) {
   const converted = innerMarkdown.trim()
     .replace(/<br>\s*<br>/gi, '')   // <br><br> 제거
     .replace(/<br>\s*$/gim, '')     // 줄 끝 <br> 제거
-    split('\n').map(line => {
+    .split('\n').map(line => {
     // ✅ 내용 없이 * 또는 - 만 단독으로 있는 줄은 HTML 변환 전에 제거
     if (/^\s*[*\-]+\s*$/.test(line)) return '';
     const m = line.match(/^[*-]\s+(.+)/);
