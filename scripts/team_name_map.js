@@ -249,7 +249,7 @@ const TEAM_NAME_MAP = {
   "Wisla Plock": "비스와 프워츠크",
   "Zaglebie Lubin": "자글레비에 루빈",
 
-    // Finland (핀란드)
+  // Finland (핀란드)
 "AC Oulu": "AC 오울루",
 "FF Jaro": "FF 야로",
 "HIFK Helsinki": "HIFK 헬싱키",

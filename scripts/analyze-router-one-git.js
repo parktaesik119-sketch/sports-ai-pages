@@ -1343,7 +1343,9 @@ function makeWidget(label, color, innerMarkdown) {
   const converted = innerMarkdown.trim()
     .replace(/<br>\s*<br>/gi, '')   // <br><br> 제거
     .replace(/<br>\s*$/gim, '')     // 줄 끝 <br> 제거
-    .split('\n').map(line => {
+    split('\n').map(line => {
+    // ✅ 내용 없이 * 또는 - 만 단독으로 있는 줄은 HTML 변환 전에 제거
+    if (/^\s*[*\-]+\s*$/.test(line)) return '';
     const m = line.match(/^[*-]\s+(.+)/);
     if (!m) return line;
     const text = m[1].replace(/<br>$/, '').trim();
@@ -1364,29 +1366,48 @@ function makeWidget(label, color, innerMarkdown) {
 }
 
 function makePowerWidget(label, color, body) {
-  // HOME_TEAM/AWAY_TEAM 파싱
-  // ##홈:팀명 / ##원정:팀명 파싱 — 파싱 실패 시 전달된 homeLogo에서 추출 불가하므로 기본값 사용
-  // AI가 출력하는 형식: 첫줄 팀명, --- 구분, 둘째 팀명
-  // ##, [], 공백 등 어떤 형식으로 와도 첫 비불렛 줄을 팀명으로 파싱
   const lines = body.trim().split('\n');
   let homeName = '홈팀', awayName = '원정팀';
   let homeLines = [], awayLines = [];
   let phase = 0; // 0=홈팀명 찾는 중, 1=홈불렛, 2=원정팀명 찾는 중, 3=원정불렛
 
+  // ✅ 팀명 정제 함수: 마크다운 기호(##, **, [], 이모지 등) 모두 제거, 언어 무관하게 동작
+  const cleanTeamName = (str) => str
+    .replace(/^#+\s*/g, '')       // ## 제거
+    .replace(/\*+/g, '')          // ** 제거
+    .replace(/[\[\]]/g, '')       // [] 제거
+    .replace(/[🔴🔵●▶◀★☆]/gu, '') // 이모지 제거
+    .replace(/\s+/g, ' ')         // 연속 공백 정리
+    .trim();
+
+  // ✅ 구분선 감지: ---, - - -, ──, **** 등 다양한 형태 모두 감지
+  const isSeparatorLine = (str) => /^[-─━—\s*]{3,}$/.test(str) && !/[a-zA-Z가-힣]/.test(str);
+
   for (const line of lines) {
     const trimmed = line.trim();
     if (!trimmed) continue;
-    const isBullet = /^[-*]\s+/.test(trimmed);
-    const isSeparator = /^-{3,}$/.test(trimmed);
+    const isBullet = /^[-*]\s+\S/.test(trimmed); // ✅ * 뒤에 내용 있어야 불렛으로 인정
+    const isSeparator = isSeparatorLine(trimmed);
 
     if (phase === 0) {
-      if (!isBullet) { homeName = trimmed.replace(/^#+\s*|\[|\]|🔴|🔵|●|▶/g, '').trim(); phase = 1; }
+      // ✅ 구분선은 팀명으로 잡지 않음
+      if (!isBullet && !isSeparator) {
+        homeName = cleanTeamName(trimmed);
+        phase = 1;
+      }
     } else if (phase === 1) {
       if (isSeparator) { phase = 2; }
-      else if (isBullet) homeLines.push(trimmed);
-      else if (!isBullet && trimmed.length > 0 && homeLines.length > 0) { awayName = trimmed.replace(/^#+\s*|\[|\]|🔴|🔵|●|▶/g, '').trim(); phase = 3; }
+      else if (isBullet) { homeLines.push(trimmed); }
+      // ✅ 불렛이 1개 이상 쌓인 후 비불렛 텍스트 → 원정팀명으로 전환
+      else if (!isBullet && !isSeparator && homeLines.length > 0) {
+        awayName = cleanTeamName(trimmed);
+        phase = 3;
+      }
     } else if (phase === 2) {
-      if (!isBullet) { awayName = trimmed.replace(/^#+\s*|\[|\]|🔴|🔵|●|▶/g, '').trim(); phase = 3; }
+      if (!isBullet && !isSeparator) {
+        awayName = cleanTeamName(trimmed);
+        phase = 3;
+      }
     } else if (phase === 3) {
       if (isBullet) awayLines.push(trimmed);
     }
