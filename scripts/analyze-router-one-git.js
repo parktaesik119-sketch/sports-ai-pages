@@ -307,10 +307,13 @@ if (isExtraFiltered) {
   1. 부제목 아이콘: 🏟️, ⚔️, 📝, 🎯 필수.
   2. 팀별 분석 작성시 웹 검색을 하여 현재 리그 순위와 시즌 성적을 반드시 1문장 이상 작성하라.
   3. 웹 검색 내용을 바탕으로 최근 경기력, 공격력, 수비력, 홈/원정 성적, 상대전적 중 최소 3가지 요소를 활용하여 3문장 이상 분석하라.
-  4. 결장자 정보는 구글 검색으로 반드시 확인하라.
-   - 검색으로 확인된 실제 결장자가 있으면 이름과 사유를 1문장으로 작성하라.
-   - 검색해도 결장자 정보를 확인할 수 없으면 "현재 주요 결장자 정보는 확인되지 않습니다."라고만 적어라.
-   - 절대로 선수 이름을 추측하거나 [가상 선수명] 같은 플레이스홀더를 작성하지 마라.
+  4. 결장자·부상자 정보는 아래 절차를 반드시 수행하라.
+   - 검색 쿼리 예시: "[팀명] injury list 2026", "[팀명] injured suspended players", "[팀명] 결장 부상"
+   - 검색 후 확인된 실제 부상·정지 선수가 있으면 선수명과 사유를 아래 형식으로 작성하라.
+     예) 🚑 결장/부상 현황: 홍길동 (햄스트링 부상), 김철수 (경고 누적)
+   - 부상자와 결장자를 구분하여 각각 명시하라. 부상 선수는 예상 복귀 시점도 함께 적어라.
+   - 검색을 최소 2회 이상 시도했음에도 정보가 없을 경우에만 "현재 주요 결장·부상자 정보는 확인되지 않습니다."라고 적어라.
+   - 절대로 선수 이름을 추측하거나 플레이스홀더([선수명], [가상선수명] 등)를 작성하지 마라.
   5. 팀별 분석은 위 지시사항을 포함해서 최소 5문장 이상 작성하라.
   6. 문맥상 마침표가 나오거나 주제가 바뀌면 반드시 <br> 태그와 함께 다음 줄로 넘겨라.
   7. 모든 추천픽의 기준점(핸디캡, 오버언더)은 제공된 팀의 전력과 최근 득점력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 [추천 픽 및 기준점] 테이블을 만드세요.
@@ -857,7 +860,8 @@ async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hCo
   }
 
   // [검증 2-1] 가상 선수명 플레이스홀더 필터링
-if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includes('[부상') || aiText.includes('[결장')) {
+// ✅ [부상], [결장] 은 실제 결장자 정보 표기에 쓰일 수 있으므로 필터에서 제외
+if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includes('[가상선수명]')) {
   console.error(`❌ [환각 감지] 가상 선수명 플레이스홀더 발견: ${match.home}`);
   return false;
 }
@@ -967,6 +971,8 @@ if (textParts.length >= 2) {
 // [추가] 영어 문장이 일정 비율 이상 포함된 줄은 삭제 (필요 시 적용)
 cleanedText = cleanedText.split('\n').filter(line => {
     const englishCount = (line.match(/[a-zA-Z]/g) || []).length;
+    // ✅ 결장·부상 관련 줄은 선수명이 영문이어도 삭제 금지
+    if (line.includes('결장') || line.includes('부상') || line.includes('🚑') || line.includes('suspended') || line.includes('injury')) return true;
     // 한 줄에 영문이 70% 이상이면 AI의 메모로 간주하고 삭제 (이미지 태그 제외)
     if (englishCount > line.length * 0.7 && !line.includes('<img')) return false;
     return true;
