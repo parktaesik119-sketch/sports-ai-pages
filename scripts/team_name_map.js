@@ -1034,6 +1034,8 @@ const TEAM_NAME_MAP = {
   "Algeria W": "알제리 W",
   "Jordan": "요르단",
   "Jordan W": "요르단 W",
+  "FYR Macedonia": "북마케도니아",
+  "Nicaragua": "니카라과",
   "Congo DR": "콩고 민주 공화국",
   "Congo DR W": "콩고 민주 공화국 W",
   "Ghana": "가나",
