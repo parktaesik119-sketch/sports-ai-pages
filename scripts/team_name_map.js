@@ -272,8 +272,14 @@ const TEAM_NAME_MAP = {
 "Turku PS": "투르쿠 PS",
 "PuiU Helsinki": "푸이우 헬싱키",
 "Jaro 2": "야로 II",
+"Mariehamn": "마리에함",
 
 // Morocco (모로코)
+"Renaissance Berkane": "RS 베르카네",
+"Olympique Safi": "올림피크 데 사피",
+"Olympique Dcheïra": "올림피크 드체이라",
+"Wydad AC": "위다드 AC",
+"Yacoub El Mansour": "야쿠브 엘 만수르",
 "FAR Rabat": "FAR 라바트",
 "FUS Rabat": "FUS 라바트",
 "Fath Casablanca": "파스 카사블랑카",
