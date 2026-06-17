@@ -286,10 +286,11 @@ if (isExtraFiltered) {
   [금지 사항]
   1. 한자(한문), 일어 사용 절대 금지: 100% 쉬운 한글로만 작성.
   2. 추천픽에 배당은 기재하면 안된다.
-  3. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
-  4. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
-  5. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
-  6. '### 🏟️ 경기 정보 요약' 섹션은 시스템이 자동 삽입하므로 직접 작성 금지.
+  3. 대한민국을 절대 '남한', '한국', '남조선'으로 표기하지 마라. 반드시 '대한민국'으로만 표기하라.
+  4. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
+  5. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
+  6. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
+  7. '### 🏟️ 경기 정보 요약' 섹션은 시스템이 자동 삽입하므로 직접 작성 금지.
 
   [팀명 표기 원칙]
   1. 홈팀과 원정팀의 한글 명칭은 프롬프트에서 '한글 매핑명'으로 이미 제공된다.
@@ -997,7 +998,7 @@ cleanedText = cleanedText.split('\n').filter(line => {
 
   // 2. [강제집행 2] 팀명/국가명 번역 사전 (영문 차단)
   const dict = {
-    "South Korea": "대한민국", "China": "중국", "Germany": "독일", "France": "프랑스", "Spain": "스페인", "Turkey": "터키", "Saudi Arabia": "사우디아라비아", "Balkans": "발칸", "Italy": "이탈리아", "Austria": "오스트리아",
+    "South Korea": "대한민국", "남한": "대한민국", "China": "중국", "Germany": "독일", "France": "프랑스", "Spain": "스페인", "Turkey": "터키", "Saudi Arabia": "사우디아라비아", "Balkans": "발칸", "Italy": "이탈리아", "Austria": "오스트리아",
     "Poland": "폴란드", "Greece": "그리스", "Brazil": "브라질", "North America": "북미", "USA": "미국", "World": "국제", "International": "국제", "Friendly International": "국제 친선", "World": "국제", "Netherlands": "네덜란드",
     "Great Britain": "영국", "England": "영국", "Bolivia": "볼리비아", "Iceland": "아이슬란드", "Portugal": "포르투갈", "Peru": "페루", "Mexico": "멕시코", "Colombia": "콜롬비아", "Argentina": "아르헨티나",
     "Chile": "칠레", "Ecuador": "에콰도르", "Honduras": "온두라스", "Jamaica": "자메이카", "Puerto Rico": "푸에르토리코", "Dominican Republic": "도미니카 공화국", "Aruba": "아루바", "Japan": "일본",
