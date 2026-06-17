@@ -661,8 +661,8 @@ const matchDataPrompt = `
   [실시간 경기 컨텍스트 데이터]
   - 종목 안내: ${gameContext}
   - 날짜/시간 변수 고정값: 날짜는 반드시 '${dateShort}' 값 그대로 사용할 것.
-  - 홈팀 정보: 한글 매핑명 명칭은 '${aiHomeName}'이며, 오리지널 영문명은 '${match.home}'이다. 로고 태그는 '<img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;">'를 사용하라.
-  - 원정팀 정보: 한글 매핑명 명칭은 '${aiAwayName}'이며, 오리지널 영문명은 '${match.away}'이다. 로고 태그는 '<img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;">'를 사용하라.
+  - 홈팀 정보: 한글 매핑명 명칭은 '${aiHomeName}'이며, 오리지널 영문명은 '${match.home}'이다. 만약 한글 매핑명이 영문과 동일하다면(매핑 없음), 영문명 그대로 HOME_KOR에 출력하라. 임의 번역 금지. 로고 태그는 '<img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;">'를 사용하라.
+  - 원정팀 정보: 한글 매핑명 명칭은 '${aiAwayName}'이며, 오리지널 영문명은 '${match.away}'이다. 만약 한글 매핑명이 영문과 동일하다면(매핑 없음), 영문명 그대로 AWAY_KOR에 출력하라. 임의 번역 금지. 로고 태그는 '<img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;">'를 사용하라.
   - 상대 전적 데이터베이스 정보: ${h2hContextForAI}
   - [상대전적 필수 지시]: 아래 순서를 반드시 따르라.
     ① 데이터베이스에 스코어가 있으면 그것을 우선 사용.
@@ -922,11 +922,11 @@ if (cat === "baseball") {
   const awayKorMatch = cleanedText.match(/AWAY_KOR:\s*(.*)/);
   const countryKorMatch = cleanedText.match(/COUNTRY_KOR:\s*(.*)/);
 
-  // [검증 3] 필수 정보(한글 팀명) 추출 확인
-  if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
-    console.error(`❌ [매핑 실패] 한글 팀명 누락으로 저장 스킵: ${match.home}`);
-    return false;
-  }
+  // [검증 3] 필수 정보(한글 팀명) 추출 확인 - 없으면 원본 영문명으로 폴백
+if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
+  console.warn(`⚠️ [매핑 없음] 한글 팀명 누락 → 영문명으로 대체 진행: ${match.home}`);
+  // return false; ← 삭제: 거부하지 않고 아래에서 영문명으로 폴백
+}
 
   // 데이터 할당
   const aiHomeName = homeKorMatch ? homeKorMatch[1].trim() : match.home;
