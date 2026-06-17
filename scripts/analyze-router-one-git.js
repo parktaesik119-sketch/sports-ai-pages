@@ -354,12 +354,12 @@ if (isExtraFiltered) {
 반드시 아래 형식을 그대로 따르라. 헤더에 <img> 태그가 먼저, 그 다음 팀명이 온다.
 
 올바른 형식:
-### <img src="[홈팀 로고 URL]" width="31" height="30" style="vertical-align: middle;"> [홈팀명] 분석
+### <img src="[홈팀 로고 URL]" width="31" height="30" style="vertical-align: middle;"> [홈팀명] 최근 전력 분석
 분석 첫 문장<br>
 분석 두 번째 문장<br>
 <br><br>
 
-### <img src="[원정팀 로고 URL]" width="31" height="30" style="vertical-align: middle;"> [원정팀명] 분석
+### <img src="[원정팀 로고 URL]" width="31" height="30" style="vertical-align: middle;"> [원정팀명] 최근 전력 분석
 분석 첫 문장<br>
 분석 두 번째 문장<br>
 <br><br>
@@ -949,7 +949,7 @@ if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
   const datePartsForText = dateShort.split('/');
   const displayDate = `${parseInt(datePartsForText[1], 10)}월 ${parseInt(datePartsForText[2], 10)}일`;
 
-  let extractedDesc = `${aiHomeName}(${match.home}) vs ${aiAwayName}(${match.away}) ${displayDate} ${korCat}분석 스포츠분석리포트 | 무료스포츠픽 - 픽천국`;
+  let extractedDesc = `${displayDate} ${country} ${leagueName} ${aiHomeName} 대 ${aiAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
@@ -1207,7 +1207,7 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   const dateParts = dateShort.split('/');
   const seoDateTag = dateParts.length === 3 ? `${parseInt(dateParts[1], 10)}월${parseInt(dateParts[2], 10)}일` : '오늘';
 
-  const finalTitle = `${country} [${leagueName}] ${aiHomeName} vs ${aiAwayName} ${displayDate} ${korCat}경기분석 | 무료스포츠픽 - 픽천국`;
+  const finalTitle = `${aiHomeName} 대 ${aiAwayName} 경기분석 및 승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
 
@@ -1296,10 +1296,10 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
       const logoUrl = isHome ? homeLogo : awayLogo;
       const logoTag = logoUrl ? `<img src="${logoUrl}" width="24" height="24" style="vertical-align:middle;margin-right:6px;">` : '';
 
-      // 팀명 추출
-      const teamNameMatch = title.match(/>\s*(.+?)\s*분석/) || title.match(/###\s*(.+?)\s*분석/);
+      // '최근 전력 분석' 또는 '분석' 앞에서 팀명만 추출
+      const teamNameMatch = title.match(/>\s*(.+?)\s*(?:최근 전력 분석|분석)/) || title.match(/###\s*(.+?)\s*(?:최근 전력 분석|분석)/);
       const teamName = teamNameMatch ? teamNameMatch[1].trim() : '팀';
-      const teamLabel = `${logoTag}${teamName} 분석`;
+      const teamLabel = `${logoTag}${teamName} 최근 전력 분석`;  // ← 라벨도 통일
 
       // 📋 최근 경기 기준으로 분석 본문 / 최근경기 분리
       const recentIdx = body.indexOf('📋 최근 경기');
@@ -1383,7 +1383,7 @@ function makeWidget(label, color, innerMarkdown) {
 
   return [
     `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">`,
-    `<div class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:${color};color:#fff;font-weight:700;font-size:0.95rem;">${label}</div>`,
+    `<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:${color};color:#fff;font-weight:700;font-size:0.95rem;margin:0;">${label}</h2>`,
     `<div class="section-widget-body" style="padding:16px 18px;background:#fff;">`,
     ``,
     converted,
@@ -1452,14 +1452,14 @@ function makePowerWidget(label, color, body) {
   const awayBullets = extractBullets(sections[1] || '');
 
   return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">
-<div style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#e67700;color:#fff;font-weight:700;font-size:0.95rem;">⚡ 팀별 핵심 전력 분석</div>
+<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#e67700;color:#fff;font-weight:700;font-size:0.95rem;margin:0;">⚡ 팀별 핵심 전력 분석</h2>
 <div style="display:flex;background:#fff;flex-wrap:wrap;">
 <div style="flex:1;min-width:240px;padding:20px 18px;border-right:1px solid #f0f0f0;box-sizing:border-box;">
-<div style="color:#e03131;font-weight:700;font-size:0.95rem;margin-bottom:12px;padding-bottom:8px;border-bottom:2px solid #e03131;">${homeName}</div>
+<h3 style="color:#e03131;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #e03131;">${homeName}</h3>
 <ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${homeBullets}</ul>
 </div>
 <div style="flex:1;min-width:240px;padding:20px 18px;box-sizing:border-box;">
-<div style="color:#1971c2;font-weight:700;font-size:0.95rem;margin-bottom:12px;padding-bottom:8px;border-bottom:2px solid #1971c2;">${awayName}</div>
+<h3 style="color:#1971c2;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #1971c2;">${awayName}</h3>
 <ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${awayBullets}</ul>
 </div>
 </div>
