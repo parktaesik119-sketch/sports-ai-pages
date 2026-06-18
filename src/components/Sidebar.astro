@@ -2,7 +2,7 @@
 // Sidebar.astro
 import { getCollection } from 'astro:content';
 
-/* 🔵 데이터 가져오기 로직 (유지) */
+/*🔵 데이터 가져오기 로직 주석처리 
 let recentPosts = [];
 try {
   const allPosts = await getCollection('posts');
@@ -12,6 +12,7 @@ try {
       .slice(0, 10);
   }
 } catch (e) { recentPosts = []; }
+*/
 
 let notices = [];
 try {
@@ -58,8 +59,8 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
     </a>
   </div>
 
-  
-
+  <!-- 사이드바 최신 분석글 비활성화 -->
+{false && (
   <section class="sp-sidebar-box">
     <div class="box-header recent-header">
       <div class="header-content">
@@ -85,6 +86,7 @@ const today = `${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDa
       }) : <li class="no-data">등록된 분석글이 없습니다.</li>}
     </ul>
   </section>
+  )}
 
   <!-- 🔥 최신 분석글 바로 아래에 방문자 통계 추가 -->
   <div class="visitor-card">
