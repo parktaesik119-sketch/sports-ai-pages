@@ -456,7 +456,7 @@ const TEAM_NAME_MAP = {
   "Rakuten Gold. Eagles": "라쿠텐 골든이글스",
   "Seibu Lions": "세이부 라이온즈",
   "Yakult Swallows": "야쿠르트 스왈로우스",
-  "Yokohama BayStars": "요코하마 DeNA 베이스타스",
+  "Yokohama BayStars": "요코하마 베이스타스",
   "Yomiuri Giants": "요미우리 자이언츠",
 
   // ===== ⚾ CPBL (대만) =====
