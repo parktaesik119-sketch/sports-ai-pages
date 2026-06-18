@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import OpenAI from "openai";
 import TEAM_NAME_MAP from './team_name_map.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -949,11 +948,11 @@ if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
   const datePartsForText = dateShort.split('/');
   const displayDate = `${parseInt(datePartsForText[1], 10)}월 ${parseInt(datePartsForText[2], 10)}일`;
 
-  let extractedDesc = `${displayDate} ${match.country || ''} ${match.league || ''} ${aiHomeName} 대 ${aiAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
+  let extractedDescOverride = '';
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
-      extractedDesc = descMatch[1].trim();
+      extractedDescOverride = descMatch[1].trim();
       cleanedText = cleanedText.replace(/DESCRIPTION:.*?\n/s, "").trim();
     }
   }
@@ -1207,14 +1206,20 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   const dateParts = dateShort.split('/');
   const seoDateTag = dateParts.length === 3 ? `${parseInt(dateParts[1], 10)}월${parseInt(dateParts[2], 10)}일` : '오늘';
 
-  const finalTitle = `${aiHomeName} 대 ${aiAwayName} 경기분석 및 승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
+  // ✅ TEAM_NAME_MAP 참조해서 한글팀명으로 디스크립션 생성
+  const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName || match.home;
+  const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName || match.away;
+  const extractedDesc = extractedDescOverride ||
+    `${displayDate} ${country || ''} ${leagueName || ''} ${descHomeName} 대 ${descAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
+
+  const finalTitle = `${aiHomeName} 대 ${aiAwayName} 경기분석 및 승부예측 (${displayDate}) | ${country} ${leagueName} - 픽천국`;
     // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
   cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
 
   // 섹션별 HTML 위젯 카드 변환 (Astro 마크다운은 HTML을 그대로 렌더링)
   cleanedText = wrapSectionsAsWidgets(cleanedText, match.homeLogo, match.awayLogo, match.home, match.away, aiHomeName, aiAwayName);
 
-  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n</div>`;
+  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n</div>\n<hr style="border:none;border-top:1px solid #e9ecef;margin:16px 0 0 0;">`;
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
@@ -1337,6 +1342,8 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
     if (def) {
       if (def.custom === 'power') {
         result.push(makePowerWidget(def.label, def.color, body.trim()));
+      } else if (def.keyword === '🎯') {
+        result.push(makePickWidget(body.trim()));
       } else {
         result.push(makeWidget(def.label, def.color, body.trim()));
       }
@@ -1348,6 +1355,47 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
   }
 
   return result.join('\n');
+}
+
+// ✅ wrapSectionsAsWidgets 바깥으로 이동 (strict mode 중첩 선언 오류 방지)
+function makePickWidget(body) {
+  const rows = body.split('\n')
+    .map(l => l.trim())
+    .filter(l => l.startsWith('|') && !l.includes(':---') && !l.includes('---') && !l.match(/^\|\s*\|\s*\|\s*\|/));
+
+  const parsed = rows.map(row => {
+    const cells = row.split('|').map(c => c.trim()).filter(Boolean);
+    return cells;
+  }).filter(cells => cells.length >= 2);
+
+  // ✅ SVG 인라인 아이콘으로 교체 (외부 CSS 의존 제거)
+  const icons = {
+    '승무패': `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>`,
+    '핸디캡': `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>`,
+    'O/U':   `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>`,
+  };
+  const colors = { '승무패': '#2f9e44', '핸디캡': '#1971c2', 'O/U': '#e67700' };
+
+  const items = parsed.map(cells => {
+    const label = cells[0] || '';
+    const team  = cells[1] || '';
+    const value = cells[2] || '';
+    const icon  = icons[label] || '•';
+    const color = colors[label] || '#868e96';
+    return `<div style="display:flex;align-items:center;padding:14px 18px;border-bottom:1px solid #f0f0f0;">
+  <div style="width:38px;height:38px;border-radius:50%;background:${color};display:flex;align-items:center;justify-content:center;flex-shrink:0;">${icon}</div>
+  <div style="margin-left:14px;flex:1;">
+    <div style="font-size:0.72rem;color:#868e96;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;">${label}</div>
+    <div style="font-size:0.92rem;color:#222;font-weight:700;margin-top:3px;">${team}</div>
+  </div>
+  <div style="font-size:1.15rem;font-weight:800;color:${color};">${value}</div>
+</div>`;
+  }).join('');
+
+  return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">
+<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#2f9e44;color:#fff;font-weight:700;font-size:0.95rem;margin:0;">🎯 추천 픽</h2>
+<div style="background:#fff;">${items}</div>
+</div>`;
 }
 
 function makeWidget(label, color, innerMarkdown) {
@@ -1362,9 +1410,16 @@ function makeWidget(label, color, innerMarkdown) {
     if (/^\s*[*\-]+\s*$/.test(line)) return '';
     const m = line.match(/^[*-]\s+(.+)/);
     if (!m) {
-      // 경기 줄(날짜 포함)이고 이전에 같은 패턴 줄이 있으면 위에 구분선 추가
+      const trimmed = line.trim();
+      if (!trimmed) return line; // 빈 줄은 그대로
+      // 경기 줄(날짜 포함)이고 이전에 같은 패턴 줄이 있으면 구분선 추가
       if (isMatchLine(line) && idx > 0 && arr.slice(0, idx).some(l => isMatchLine(l))) {
-        return `<hr style="border:none;border-top:1px solid #e9ecef;margin:6px 0;">${line}`;
+        return `<hr style="border:none;border-top:1px solid #e9ecef;margin:8px 0;">${line}`;
+      }
+      // 일반 텍스트 줄(분석 본문)이고 이전에 내용 있는 줄이 있으면 구분선 추가
+      const prevContentLines = arr.slice(0, idx).filter(l => l.trim() && !/^\s*[*\-]+\s*$/.test(l) && !l.match(/^[*-]\s+/));
+      if (prevContentLines.length > 0) {
+        return `<hr style="border:none;border-top:1px solid #f0f0f0;margin:8px 0;">${line}`;
       }
       return line;
     }
@@ -1378,11 +1433,7 @@ function makeWidget(label, color, innerMarkdown) {
     const divider = (isMatchLine(text) && prevMatchBullets.length > 0)
       ? `<hr style="border:none;border-top:1px solid #e9ecef;margin:6px 0;">`
       : '';
-    const prevBullets = arr.slice(0, idx).filter(l => /^[*-]\s+\S/.test(l.trim()));
-    const bulletDivider = prevBullets.length > 0
-      ? `<hr style="border:none;border-top:1px solid #e9ecef;margin:6px 0;">`
-      : '';
-    return `${bulletDivider}${divider}<div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:7px;font-size:0.9rem;line-height:1.6;"><span style="display:inline-block;min-width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${text}</span></div>`;
+    return `${divider}<div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:7px;font-size:0.9rem;line-height:1.6;"><span style="display:inline-block;min-width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${text}</span></div>`;
   }).join('\n');
 
   return [
