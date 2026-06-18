@@ -1393,12 +1393,21 @@ function makePickWidget(body) {
   }).join('');
 
   return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">
-<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#2f9e44;color:#fff;font-weight:700;font-size:0.95rem;margin:0;">🎯 추천 픽</h2>
+<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#2f9e44;background-image:linear-gradient(180deg,#2f9e44 0%,#0ca678 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">🎯 추천 픽</h2>
 <div style="background:#fff;">${items}</div>
 </div>`;
 }
 
 function makeWidget(label, color, innerMarkdown) {
+  const GRAD_MAP = {
+    '#e03131': '#c2255c',
+    '#228be6': '#1098ad',
+    '#868e96': '#495057',
+    '#1098ad': '#0c8599',
+    '#7048e8': '#4c6ef5',
+    '#2f9e44': '#0ca678',
+  };
+  const colorDark = (c) => GRAD_MAP[c] || c;
   // 경기 줄 패턴: "YY/MM/DD 팀A vs 팀B" 또는 "YYYY.MM.DD - 팀A" 형태
   const isMatchLine = (str) => /\d{2,4}[\/\.\-]\d{1,2}[\/\.\-]\d{1,2}/.test(str);
 
@@ -1438,7 +1447,7 @@ function makeWidget(label, color, innerMarkdown) {
 
   return [
     `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">`,
-    `<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:${color};color:#fff;font-weight:700;font-size:0.95rem;margin:0;">${label}</h2>`,
+    `<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:${color};background-image:linear-gradient(180deg,${color} 0%,${colorDark(color)} 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">${label}</h2>`,
     `<div class="section-widget-body" style="padding:16px 18px;background:#fff;">`,
     ``,
     converted,
@@ -1507,7 +1516,7 @@ function makePowerWidget(label, color, body) {
   const awayBullets = extractBullets(sections[1] || '');
 
   return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">
-<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#e67700;color:#fff;font-weight:700;font-size:0.95rem;margin:0;">⚡ 팀별 핵심 전력 분석</h2>
+<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#e67700;background-image:linear-gradient(180deg,#e67700 0%,#d9480f 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">⚡ 팀별 핵심 전력 분석</h2>
 <div style="display:flex;background:#fff;flex-wrap:wrap;">
 <div style="flex:1;min-width:240px;padding:20px 18px;border-right:1px solid #f0f0f0;box-sizing:border-box;">
 <h3 style="color:#e03131;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #e03131;">${homeName}</h3>
