@@ -949,7 +949,7 @@ if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
   const datePartsForText = dateShort.split('/');
   const displayDate = `${parseInt(datePartsForText[1], 10)}월 ${parseInt(datePartsForText[2], 10)}일`;
 
-  let extractedDesc = `${displayDate} ${match.country || ''} ${leagueName} ${aiHomeName} 대 ${aiAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
+  let extractedDesc = `${displayDate} ${match.country || ''} ${match.league || ''} ${aiHomeName} 대 ${aiAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
