@@ -307,12 +307,21 @@ if (isExtraFiltered) {
   1. 부제목 아이콘: 🏟️, ⚔️, 📝, 🎯 필수.
   2. 팀별 분석 작성시 웹 검색을 하여 현재 리그 순위와 시즌 성적을 반드시 1문장 이상 작성하라.
   3. 웹 검색 내용을 바탕으로 최근 경기력, 공격력, 수비력, 홈/원정 성적, 상대전적 중 최소 3가지 요소를 활용하여 3문장 이상 분석하라.
-  4. 결장자·부상자 정보는 아래 절차를 반드시 수행하라.
-   - 검색 쿼리 예시: "[팀명] injury list 2026", "[팀명] injured suspended players", "[팀명] 결장 부상"
-   - 검색 후 확인된 실제 부상·정지 선수가 있으면 선수명과 사유를 아래 형식으로 작성하라.
-     예) 🚑 결장/부상 현황: 홍길동 (햄스트링 부상), 김철수 (경고 누적)
-   - 부상자와 결장자를 구분하여 각각 명시하라. 부상 선수는 예상 복귀 시점도 함께 적어라.
-   - 검색을 최소 2회 이상 시도했음에도 정보가 없을 경우에만 "현재 주요 결장·부상자 정보는 확인되지 않습니다."라고 적어라.
+  4. 결장자·부상자 정보는 팀 분석 섹션 본문에 포함하지 마라. 반드시 아래 별도 섹션으로만 작성하라.
+   - 원정팀 분석 텍스트가 끝난 후, ### 🚑 결장·부상 현황 섹션을 별도로 작성하라. (상대전적 섹션보다 반드시 앞에 위치해야 한다)
+   - 웹 검색으로 각 팀의 결장자·부상자 정보를 반드시 확인하라.
+   - 검색 쿼리 예시: "[팀명] injury list 2026", "[팀명] injured suspended players"
+   - 형식은 반드시 아래와 같이 홈팀/원정팀을 나누어 각각 작성하라.
+
+   ### 🚑 결장·부상 현황
+   [홈팀명]
+   - 선수명 (부상 사유, 예상 복귀 시점)
+   - 선수명 (경고 누적)
+   ---
+   [원정팀명]
+   - 선수명 (부상 사유, 예상 복귀 시점)
+
+   - 검색 후 확인된 선수가 없으면 해당 팀 항목에 "현재 알려진 결장·부상자 명단은 없습니다"로만 적어라.
    - 절대로 선수 이름을 추측하거나 플레이스홀더([선수명], [가상선수명] 등)를 작성하지 마라.
   5. 팀별 분석은 위 지시사항을 포함해서 최소 5문장 이상 작성하라.
   6. 문맥상 마침표가 나오거나 주제가 바뀌면 반드시 <br> 태그와 함께 다음 줄로 넘겨라.
@@ -369,6 +378,7 @@ if (isExtraFiltered) {
 - 헤더와 <img> 사이에 어떤 텍스트도 삽입 금지
 
   ### ⚔️ 상대전적
+  [섹션 순서 절대 규칙: 🚑 결장·부상 현황 → ⚔️ 상대전적 → ⚡ 팀별 핵심 전력 분석 → 📝 종합 분석 → 🎯 추천픽 순서를 반드시 지켜라.]
   [상대전적 작성 절대 규칙]
   1. 마크다운 표(|)를 절대 사용하지 마라. 대신 아래 형식을 엄수하여 '한 줄에 하나씩' 불렛 포인트로 작성하라.
   2. 야구 분석 시 '무승부' 결과가 나오면 데이터 오류이므로 다시 찾아라.
@@ -886,6 +896,19 @@ const junkPatterns = [
   /진행하겠습니다.*?\n?/g,
   /찾기 어렵습니다.*?\n?/g,
   /결과를 찾지 못했습니다.*?\n?/g,
+  // ✅ 추가: 나는/저는 ~ 하겠습니다 형태 독백 차단
+  /나는\s.{0,80}하겠습니다[.]?\n?/g,
+  /저는\s.{0,80}하겠습니다[.]?\n?/g,
+  /먼저\s.{0,80}(하겠습니다|수행하겠습니다|검색하겠습니다)[.]?\n?/g,
+  // ✅ 추가: "~를 바탕으로 ~ 하겠습니다" 패턴
+  /.*바탕으로.{0,80}하겠습니다[.]?\n?/g,
+  // ✅ 추가: "검색 결과 확인:" 블록 (콜론 뒤 항목 포함 전체 제거)
+  /검색\s*결과\s*확인\s*:\s*[\s\S]*?(?=\n\n|\n<|$)/g,
+  // ✅ 추가: "- 20XX년 X월 경기:" 형태의 검색 결과 메모 줄
+  /^.*\d{4}년\s*\d{1,2}월\s*경기\s*:.*\n?/gm,
+  // ✅ 추가: "지침을 따르고" 류 독백
+  /.*지침을\s*(정확히\s*)?따르고.*\n?/g,
+  /.*지시를\s*(정확히\s*)?따르고.*\n?/g,
 ];
 junkPatterns.forEach(pattern => {
   cleanedText = cleanedText.replace(pattern, "");
@@ -958,15 +981,19 @@ if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
   }
   
   // [강제집행 1] 본문 상단 중복 타이틀 무조건 삭제
-  // '### 🏟️ 경기 정보 요약' 앞부분에 오는 모든 텍스트(AI가 쓴 제목 등)를 통째로 지웁니다.
-  const marker = "### 🏟️";
+// '### 🏟️' 또는 '### <img' (팀 분석 헤더) 중 먼저 나오는 곳부터 잘라냄
+const marker = "### 🏟️";
+const altMarker = "### <img"; // 🏟️ 없이 바로 팀 분석 시작할 때 대비
+
 if (cleanedText.includes(marker)) {
   cleanedText = cleanedText.substring(cleanedText.indexOf(marker));
-}
-
-const textParts = cleanedText.split(marker);
-if (textParts.length >= 2) {
+  const textParts = cleanedText.split(marker);
+  if (textParts.length >= 2) {
     cleanedText = marker + textParts[1];
+  }
+} else if (cleanedText.includes(altMarker)) {
+  // 🏟️ 섹션 없이 바로 팀 분석 섹션으로 시작하는 경우
+  cleanedText = cleanedText.substring(cleanedText.indexOf(altMarker));
 }
 
 // [추가] 영어 문장이 일정 비율 이상 포함된 줄은 삭제 (필요 시 적용)
@@ -1256,11 +1283,12 @@ ${cleanedText}${footer}`;
 function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeKor, awayKor) {
   // 섹션 정의: h3 텍스트에 포함된 키워드 → 헤더 라벨 + 색상
   const SECTION_DEFS = [
-    { keyword: '⚡',  label: '⚡ 팀별 핵심 전력 분석', color: '#e67700', custom: 'power' },
-    { keyword: '⚔️',  label: '⚔️ 상대 전적', color: '#1098ad' },
-    { keyword: '📝',  label: '📝 종합 분석', color: '#7048e8' },
-    { keyword: '🎯',  label: '🎯 추천 픽',   color: '#2f9e44' },
-  ];
+  { keyword: '⚡',  label: '⚡ 팀별 핵심 전력 분석', color: '#e67700', custom: 'power' },
+  { keyword: '🚑',  label: '🚑 결장·부상 현황',       color: '#c92a2a', custom: 'injury' }, // ✅ 추가
+  { keyword: '⚔️',  label: '⚔️ 상대 전적', color: '#1098ad' },
+  { keyword: '📝',  label: '📝 종합 분석', color: '#7048e8' },
+  { keyword: '🎯',  label: '🎯 추천 픽',   color: '#2f9e44' },
+];
 
   // ### 기준으로 섹션 분리 (첫 번째 빈 앞부분도 보존)
   const sectionRegex = /(^|\n)(### .+)/g;
@@ -1341,12 +1369,14 @@ function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeK
     const def = SECTION_DEFS.find(d => title.includes(d.keyword));
     if (def) {
       if (def.custom === 'power') {
-        result.push(makePowerWidget(def.label, def.color, body.trim()));
-      } else if (def.keyword === '🎯') {
-        result.push(makePickWidget(body.trim()));
-      } else {
-        result.push(makeWidget(def.label, def.color, body.trim()));
-      }
+  result.push(makePowerWidget(def.label, def.color, body.trim()));
+} else if (def.custom === 'injury') {
+  result.push(makeInjuryWidget(def.label, def.color, body.trim(), homeKor, awayKor));
+} else if (def.keyword === '🎯') {
+  result.push(makePickWidget(body.trim()));
+} else {
+  result.push(makeWidget(def.label, def.color, body.trim()));
+}
       continue;
     }
 
@@ -1448,7 +1478,7 @@ function makeWidget(label, color, innerMarkdown) {
   return [
     `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">`,
     `<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:${color};background-image:linear-gradient(180deg,${color} 0%,${colorDark(color)} 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">${label}</h2>`,
-    `<div class="section-widget-body" style="padding:16px 18px;background:#fff;">`,
+    `<div class="section-widget-body" style="padding:16px 18px;background:#fff;color:#333;">`,
     ``,
     converted,
     ``,
@@ -1515,19 +1545,60 @@ function makePowerWidget(label, color, body) {
   const homeBullets = extractBullets(sections[0] || '');
   const awayBullets = extractBullets(sections[1] || '');
 
-  return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">
-<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#e67700;background-image:linear-gradient(180deg,#e67700 0%,#d9480f 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">⚡ 팀별 핵심 전력 분석</h2>
-<div style="display:flex;background:#fff;flex-wrap:wrap;">
-<div style="flex:1;min-width:240px;padding:20px 18px;border-right:1px solid #f0f0f0;box-sizing:border-box;">
-<h3 style="color:#e03131;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #e03131;">${homeName}</h3>
-<ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${homeBullets}</ul>
-</div>
-<div style="flex:1;min-width:240px;padding:20px 18px;box-sizing:border-box;">
-<h3 style="color:#1971c2;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #1971c2;">${awayName}</h3>
-<ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${awayBullets}</ul>
-</div>
-</div>
-</div>`;
+  return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;"><h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#e67700;background-image:linear-gradient(180deg,#e67700 0%,#d9480f 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">⚡ 팀별 핵심 전력 분석</h2><div style="display:flex;background:#fff;flex-wrap:wrap;"><div style="flex:1;min-width:240px;padding:20px 18px;border-right:1px solid #f0f0f0;box-sizing:border-box;"><h3 style="color:#e03131;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #e03131;">${homeName}</h3><ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${homeBullets}</ul></div><div style="flex:1;min-width:240px;padding:20px 18px;box-sizing:border-box;"><h3 style="color:#1971c2;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #1971c2;">${awayName}</h3><ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${awayBullets}</ul></div></div></div>`;
+}
+
+function makeInjuryWidget(label, color, body, homeKorFallback, awayKorFallback) {
+  // makePowerWidget과 동일한 파싱 로직으로 홈/원정 불렛 분리
+  const lines = body.trim().split('\n');
+  let homeName = homeKorFallback || '홈팀';
+  let awayName = awayKorFallback || '원정팀';
+  let homeLines = [], awayLines = [];
+  let phase = 0;
+
+  const cleanTeamName = (str) => str
+    .replace(/^#+\s*/g, '').replace(/\*+/g, '').replace(/[\[\]]/g, '')
+    .replace(/[🔴🔵●▶◀★☆]/gu, '').replace(/\s+/g, ' ').trim();
+  const isSeparatorLine = (str) => /^[-─━—\s*]{3,}$/.test(str) && !/[a-zA-Z가-힣]/.test(str);
+  const EMPTY_MSG = '현재 알려진 결장·부상자 명단은 없습니다';
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed) continue;
+    const isBullet = /^[-*]\s+\S/.test(trimmed);
+    const isSeparator = isSeparatorLine(trimmed);
+
+    if (phase === 0) {
+      if (!isBullet && !isSeparator) { homeName = cleanTeamName(trimmed); phase = 1; }
+    } else if (phase === 1) {
+      if (isSeparator) { phase = 2; }
+      else if (isBullet) { homeLines.push(trimmed); }
+      else if (!isBullet && !isSeparator && homeLines.length > 0) { awayName = cleanTeamName(trimmed); phase = 3; }
+    } else if (phase === 2) {
+      if (!isBullet && !isSeparator) { awayName = cleanTeamName(trimmed); phase = 3; }
+    } else if (phase === 3) {
+      if (isBullet) awayLines.push(trimmed);
+    }
+  }
+
+  // 불렛 → HTML 변환. 없으면 안내 문구 표시
+  const renderBullets = (lineArr) => {
+    const bullets = (lineArr.join('\n').match(/^[-*]\s*.+/gm) || [])
+      .map(b => `<li style="margin-bottom:8px;padding-left:4px;display:flex;align-items:flex-start;gap:6px;"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${b.replace(/^[-*]\s*/, '')}</span></li>`)
+      .join('');
+    // 불렛이 없거나 "현재 주요" 같은 기존 빈 문구만 있으면 안내 문구로 대체
+    const hasRealContent = lineArr.some(l => /^[-*]\s+\S/.test(l.trim()) && !l.includes('정보 없음') && !l.includes('알려진'));
+    if (!hasRealContent) {
+      return `<li style="margin-bottom:8px;padding-left:4px;display:flex;align-items:flex-start;gap:6px;color:#868e96;font-style:italic;"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#dee2e6;margin-top:6px;flex-shrink:0;"></span><span>${EMPTY_MSG}</span></li>`;
+    }
+    return bullets;
+  };
+
+  const homeBullets = renderBullets(homeLines);
+  const awayBullets = renderBullets(awayLines);
+
+  const gradEnd = '#b02020';
+  return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;"><h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:${color};background-image:linear-gradient(180deg,${color} 0%,${gradEnd} 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">${label}</h2><div style="display:flex;background:#fff;flex-wrap:wrap;"><div style="flex:1;min-width:240px;padding:20px 18px;border-right:1px solid #f0f0f0;box-sizing:border-box;"><h3 style="color:#e03131;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #e03131;">${homeName}</h3><ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${homeBullets}</ul></div><div style="flex:1;min-width:240px;padding:20px 18px;box-sizing:border-box;"><h3 style="color:#1971c2;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #1971c2;">${awayName}</h3><ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${awayBullets}</ul></div></div></div>`;
 }
 
 analyzeMatches();
