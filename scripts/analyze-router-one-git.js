@@ -949,7 +949,7 @@ if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
   const datePartsForText = dateShort.split('/');
   const displayDate = `${parseInt(datePartsForText[1], 10)}월 ${parseInt(datePartsForText[2], 10)}일`;
 
-  let extractedDesc = `${displayDate} ${country} ${leagueName} ${aiHomeName} 대 ${aiAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
+  let extractedDesc = `${displayDate} ${match.country || ''} ${leagueName} ${aiHomeName} 대 ${aiAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
   if (cleanedText.includes("DESCRIPTION:")) {
     const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
     if (descMatch) {
@@ -1214,7 +1214,7 @@ if (cleanedText && cleanedText.includes('🎯 추천픽')) {
   // 섹션별 HTML 위젯 카드 변환 (Astro 마크다운은 HTML을 그대로 렌더링)
   cleanedText = wrapSectionsAsWidgets(cleanedText, match.homeLogo, match.awayLogo, match.home, match.away, aiHomeName, aiAwayName);
 
-  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n<hr>\n#${aiHomeName.replace(/\s+/g, '')}(${match.home}) #${aiAwayName.replace(/\s+/g, '')}(${match.away}) #${seoDateTag} #무료스포츠픽 #스포츠경기분석\n</div>`;
+  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n</div>`;
 
  // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
 const safeHomeNameForSlug = getSafeLogoName(match.home); 
@@ -1378,7 +1378,11 @@ function makeWidget(label, color, innerMarkdown) {
     const divider = (isMatchLine(text) && prevMatchBullets.length > 0)
       ? `<hr style="border:none;border-top:1px solid #e9ecef;margin:6px 0;">`
       : '';
-    return `${divider}<div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:7px;font-size:0.9rem;line-height:1.6;"><span style="display:inline-block;min-width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${text}</span></div>`;
+    const prevBullets = arr.slice(0, idx).filter(l => /^[*-]\s+\S/.test(l.trim()));
+    const bulletDivider = prevBullets.length > 0
+      ? `<hr style="border:none;border-top:1px solid #e9ecef;margin:6px 0;">`
+      : '';
+    return `${bulletDivider}${divider}<div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:7px;font-size:0.9rem;line-height:1.6;"><span style="display:inline-block;min-width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${text}</span></div>`;
   }).join('\n');
 
   return [
