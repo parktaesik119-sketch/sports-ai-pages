@@ -190,6 +190,13 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
     </div>
   </div>
 
+ <!-- 디버그 임시 -->
+<div style="background:red;color:white;padding:10px;">
+  homeAnalysis: {item.data.homeAnalysis ? '있음' : '없음(undefined)'}
+  / homePower: {item.data.homePower ? '있음' : '없음'}
+  / homeRecent: {item.data.homeRecent ? '있음' : '없음'}
+</div>
+
   <!-- 구 방식 글: homeAnalysis 없으면 본문 그대로 렌더링 -->
   {!homeAnalysis && (
     <div class="prose">
