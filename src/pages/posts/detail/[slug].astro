@@ -298,14 +298,14 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
   <!-- 팀별 핵심 전력 -->
   <div class="section-widget">
     <h2 class="section-widget-header sw-power">⚡ 팀별 핵심 전력 분석</h2>
-    <div class="power-body">
-      <div class="power-col">
+    <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;">
+      <div style="flex:1;min-width:240px;padding:10px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
         <h3 class="power-title power-title--home">{homeTeam}</h3>
         <ul class="power-list">
           {homePowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
         </ul>
       </div>
-      <div class="power-col">
+      <div style="flex:1;min-width:240px;padding:10px 18px 14px;box-sizing:border-box;">
         <h3 class="power-title power-title--away">{awayTeam}</h3>
         <ul class="power-list">
           {awayPowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
@@ -779,6 +779,15 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
 .power-title--away { color:#1971c2;border-bottom:2px solid #1971c2; }
 .power-list { margin:0;padding-left:0;list-style:none;font-size:0.95rem;line-height:1.7;color:#111; }
 .power-item { margin-bottom:8px;display:flex;align-items:flex-start;gap:6px;font-weight:500; }
+
+@media (max-width: 768px) {
+  .section-widget-body { font-size:0.88rem; }
+  .power-list { font-size:0.84rem; }
+  .power-title { font-size:0.88rem; }
+  .recent-row span { font-size:0.84rem; }
+  .pick-team { font-size:0.85rem; }
+  .pick-value { font-size:1.05rem; }
+}
 </style>
 
 <script>
