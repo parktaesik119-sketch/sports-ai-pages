@@ -299,7 +299,18 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
   <div class="section-widget">
     <h2 class="section-widget-header sw-power">⚡ 팀별 핵심 전력 분석</h2>
     <div class="power-body">
-      <div class="power-col"><h3 class="power-title power-title--home">{homeTeam}</h3><ul class="power-list">{homePowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}</ul></div><div class="power-col"><h3 class="power-title power-title--away">{awayTeam}</h3><ul class="power-list">{awayPowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}</ul></div>
+      <div class="power-col">
+        <h3 class="power-title power-title--home">{homeTeam}</h3>
+        <ul class="power-list">
+          {homePowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
+        </ul>
+      </div>
+      <div class="power-col">
+        <h3 class="power-title power-title--away">{awayTeam}</h3>
+        <ul class="power-list">
+          {awayPowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -760,8 +771,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
 .recent-row { display:flex;align-items:flex-start;gap:8px;margin-bottom:4px; }
 .recent-dot { display:inline-block;width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0; }
 /* 팀별 핵심 전력 */
-.power-body { display:flex;background:#fff;flex-wrap:wrap;font-size:0; }
-.power-col  { flex:1;min-width:240px;padding:14px 18px 16px;box-sizing:border-box;font-size:1rem; }
+.power-body { display:flex;background:#fff;flex-wrap:wrap;align-items:stretch; }
+.power-col  { flex:1;min-width:240px;padding:10px 18px 14px;box-sizing:border-box; }
 .power-col:first-child { border-right:1px solid #f0f0f0; }
 .power-title { font-weight:700;font-size:0.95rem;margin:0 0 10px;padding-bottom:8px; }
 .power-title--home { color:#e03131;border-bottom:2px solid #e03131; }
