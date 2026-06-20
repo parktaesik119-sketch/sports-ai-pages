@@ -299,22 +299,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
   <div class="section-widget">
     <h2 class="section-widget-header sw-power">⚡ 팀별 핵심 전력 분석</h2>
     <div class="power-body">
-      <div class="power-col">
-        <h3 class="power-title power-title--home">{homeTeam}</h3>
-        <ul class="power-list">
-          {homePowerItems.map((p: string) => (
-            <li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>
-          ))}
-        </ul>
-      </div>
-      <div class="power-col">
-        <h3 class="power-title power-title--away">{awayTeam}</h3>
-        <ul class="power-list">
-          {awayPowerItems.map((p: string) => (
-            <li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>
-          ))}
-        </ul>
-      </div>
+      <div class="power-col"><h3 class="power-title power-title--home">{homeTeam}</h3><ul class="power-list">{homePowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}</ul></div><div class="power-col"><h3 class="power-title power-title--away">{awayTeam}</h3><ul class="power-list">{awayPowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}</ul></div>
     </div>
   </div>
 
