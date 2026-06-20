@@ -538,12 +538,10 @@ const sportPickRule = cat === 'lol'
   : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라. 0.25 단위 소수점으로 산출하라.`;
 
 const matchDataPrompt = `
-지금 당장 아래 4가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.
+지금 당장 아래 2가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.
 
-검색 1: "${match.home} vs ${match.away} head to head results 2025 2026"
-검색 2: "${match.home} injury report 2026"
-검색 3: "${match.away} injury report 2026"
-검색 4: "${match.home} vs ${match.away} betting odds asian handicap over under"
+검색 1: "${match.home} ${match.away} injury report 2026"
+검색 2: "${match.home} vs ${match.away} betting odds asian handicap over under"
 
 검색 완료 후 아래 정보를 참고하여 분석을 작성하라.
 
@@ -553,8 +551,8 @@ const matchDataPrompt = `
 - 원정팀: ${match.away}
 - ${sportPickRule}
 
-[DB 상대전적 참고]
-${h2hContextForAI || '없음'}
+[상대전적 DB - 아래 데이터를 H2H에 그대로 사용하라. 웹 검색 금지]
+${h2hContextForAI || '없음 - H2H: 없음 으로 표기'}
 
 [홈팀 최근 경기 DB]
 ${homeRecentContext}
@@ -600,7 +598,6 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
     });
 
     const data = await res.json();
-    console.log(`📦 [RAW 응답] ${match.home}:`, JSON.stringify(data).substring(0, 500));
 
     // 웹검색 실행 여부 로그
     const searchBlocks = (data.content || []).filter(b => 
