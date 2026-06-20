@@ -27,7 +27,26 @@ const posts = defineCollection({
     awayTeam: z.string().optional(),
     homeLogo: z.string().optional(),
     awayLogo: z.string().optional(),
-  }),
+
+    // 분석 데이터 추가
+    description: z.string().optional(),
+    homeAnalysis: z.string().optional(),
+    awayAnalysis: z.string().optional(),
+    homePower: z.string().optional(),
+    awayPower: z.string().optional(),
+    h2h: z.string().optional(),
+    summary: z.string().optional(),
+    homeRecent: z.string().optional(),
+    awayRecent: z.string().optional(),
+    injuryHome: z.string().optional(),
+    injuryAway: z.string().optional(),
+    pickWinTeam: z.string().optional(),
+    pickWinResult: z.string().optional(),
+    pickHandicapTeam: z.string().optional(),
+    pickHandicapValue: z.string().optional(),
+    pickOuDirection: z.string().optional(),
+    pickOuValue: z.string().optional(),
+  }).passthrough(),
 });
 
 // 🔴 공지사항
