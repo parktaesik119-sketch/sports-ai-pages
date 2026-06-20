@@ -9,26 +9,16 @@ const postsCollection = defineCollection({
   schema: z.object({
     // 필수 필드
     title: z.string(),
-    
-    // 날짜 데이터의 경우 마크다운 작성 방식에 따라 Date 객체나 String으로 인식될 수 있으므로 유연하게 대처
     date: z.union([z.date(), z.string()]),
-    
-    // 선택적 필드 및 기본값 설정
     description: z.string().optional(),
     slug: z.string(),
     category: z.string(),
-    
-    // 리스트 표기에 필요한 추가 데이터들
     country: z.string().default('국가'),
     league: z.string().default('리그'),
     homeTeam: z.string().default('홈팀'),
     awayTeam: z.string().default('원정팀'),
-    
-    // 로고 경로: 데이터가 없을 경우 기본 날개 로고 경로를 사용하도록 설정
     homeLogo: z.string().optional().default('/images/wing-home.png'),
     awayLogo: z.string().optional().default('/images/wing-away.png'),
-
-    // 분석 데이터 (신규 추가)
     homeAnalysis: z.string().optional(),
     awayAnalysis: z.string().optional(),
     homePower: z.string().optional(),
@@ -45,7 +35,7 @@ const postsCollection = defineCollection({
     pickHandicapValue: z.string().optional(),
     pickOuDirection: z.string().optional(),
     pickOuValue: z.string().optional(),
-  }),
+  }).passthrough(),  // ← 이 줄 추가
 });
 
 /**
