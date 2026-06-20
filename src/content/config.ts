@@ -27,6 +27,24 @@ const postsCollection = defineCollection({
     // 로고 경로: 데이터가 없을 경우 기본 날개 로고 경로를 사용하도록 설정
     homeLogo: z.string().optional().default('/images/wing-home.png'),
     awayLogo: z.string().optional().default('/images/wing-away.png'),
+
+    // 분석 데이터 (신규 추가)
+    homeAnalysis: z.string().optional(),
+    awayAnalysis: z.string().optional(),
+    homePower: z.string().optional(),
+    awayPower: z.string().optional(),
+    h2h: z.string().optional(),
+    summary: z.string().optional(),
+    homeRecent: z.string().optional(),
+    awayRecent: z.string().optional(),
+    injuryHome: z.string().optional(),
+    injuryAway: z.string().optional(),
+    pickWinTeam: z.string().optional(),
+    pickWinResult: z.string().optional(),
+    pickHandicapTeam: z.string().optional(),
+    pickHandicapValue: z.string().optional(),
+    pickOuDirection: z.string().optional(),
+    pickOuValue: z.string().optional(),
   }),
 });
 
