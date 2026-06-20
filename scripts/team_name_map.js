@@ -280,6 +280,7 @@ const TEAM_NAME_MAP = {
 // Morocco (모로코)
 "Renaissance Berkane": "RS 베르카네",
 "Olympique Safi": "올림피크 데 사피",
+"Ittihad Tanger": "IR 탕헤르",
 "Olympique Dcheïra": "올림피크 드체이라",
 "Wydad AC": "위다드 AC",
 "Yacoub El Mansour": "야쿠브 엘 만수르",
@@ -294,6 +295,7 @@ const TEAM_NAME_MAP = {
 "Moghreb Tetouan": "모그레브 테투안",
 "Racing de Casablanca": "라싱 카사블랑카",
 "Raja Casablanca": "라자 카사블랑카",
+"CODM Meknès": "COD 메크네스",
 "UTS Rabat": "UTS 라바트",
 "Wydad Casablanca": "위다드 카사블랑카",
 "CR Khemis Zemamra": "RCA 제맘라",
@@ -456,7 +458,7 @@ const TEAM_NAME_MAP = {
   "Rakuten Gold. Eagles": "라쿠텐 골든이글스",
   "Seibu Lions": "세이부 라이온즈",
   "Yakult Swallows": "야쿠르트 스왈로우스",
-  "Yokohama BayStars": "요코하마 베이스타스",
+  "Yokohama BayStars": "요코하마 DeNA 베이스타스",
   "Yomiuri Giants": "요미우리 자이언츠",
 
   // ===== ⚾ CPBL (대만) =====
@@ -1117,6 +1119,8 @@ const TEAM_NAME_MAP = {
   "Croatia W": "크로아티아",
   "Romania W": "루마니아",
   "Ukraine": "우크라이나",
+  "Curaçao": "퀴라소",
+  "Curaçao W": "퀴라소",
   "Cuba": "쿠바",
   "Kosovo": "코소보",
   "Kosovo W": "코소보",

@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import TEAM_NAME_MAP from './team_name_map.js';
+import COUNTRY_MAP from './country_map.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -137,7 +138,7 @@ async function analyzeMatches() {
   const isEssentialTeam = essentialTeams.some(t => upperHome.includes(t) || upperAway.includes(t));
 
   // 1. 여기에 예외로 허용하고 싶은 여성/청소년 리그명을 대문자로 등록합니다.
-const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE','NATIONS LEAGUE WOMEN','EUROPEAN LEAGUE WOMEN','WORLD CUP - WOMEN - QUALIFICATION EUROPE'];
+const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE','NATIONS LEAGUE WOMEN','WORLD CUP - WOMEN - QUALIFICATION EUROPE'];
 const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
 
   // [단계 1] 가장 먼저 여성/청소년 경기인지 확인 (최우선순위) - 있으면 무조건 차단
@@ -192,6 +193,7 @@ if (isExtraFiltered) {
     "USA": ["USL LEAGUE ONE"],
     "England": ["LEAGUE ONE"],
     "China": ["LEAGUE ONE"],
+    "Belgium": ["PRO LEAGUE"],
   };
 
   if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
@@ -208,9 +210,9 @@ if (isExtraFiltered) {
 });
   const mls = ['MAJOR LEAGUE SOCCER', 'MLS'].some(el => el === upperLg); // NEXT PRO는 이름이 다르므로 자동 차단됨
   // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
-  const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE', 'CONMEBOL LIBERTADORES', 'Copa Libertadores'].some(el => upperLg.includes(el));
+  const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
-  const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'ELITESERIEN', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'VEIKKAUSLIIGA', 'ALLSVENSKAN', 'HNL','J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE", 'A-LEAGUE', 'EKSTRAKLASA', 'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE', 'EROVNULI LIGA','DFB POKAL', 'CONMEBOL SUDAMERICANA','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','FRIENDLIES','ASEAN CHAMPIONSHIP','BOTOLA PRO'].some(el => el === upperLg);
+  const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE','DFB POKAL', 'CONMEBOL SUDAMERICANA','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP'].some(el => el === upperLg);
 
   // 축구 통합 필터
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
@@ -218,11 +220,11 @@ if (isExtraFiltered) {
   // 2. 농구 
   const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W'].some(el => el === upperLg);
   // 3. 배구 
-  const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'SV.LEAGUE','NATIONS LEAGUE WOMEN','NATIONS LEAGUE','EUROPEAN LEAGUE WOMEN','EUROPEAN LEAGUE'].some(el => el === upperLg);
+  const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'SV.LEAGUE','NATIONS LEAGUE WOMEN','NATIONS LEAGUE'].some(el => el === upperLg);
   // 4. 야구 
-  const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'ABL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
+  const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
   // 5. 하키 
-  const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'BEIJER HOCKEY GAMES', 'WCH U18', 'WORLD CHAMPIONSHIP' ].some(el => el === upperLg);
+  const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL','WORLD CHAMPIONSHIP' ].some(el => el === upperLg);
   // 6. 롤 //대문자로 띄어쓰기 없이 적을 것. Rounds 1-2 이런 글자는 자동 삭제니 적지 않아야 함
   // Playoffs가 붙은 EWC는 lol 판별 전에 먼저 차단
   const isEWCPlayoffs = upperLg.replace(/\s+/g, '') === 'ESPORTSWORLDCUPPLAYOFFS';
@@ -271,174 +273,33 @@ if (isExtraFiltered) {
 
     // 1. 절대로 변하지 않는 '절대 규칙/지시문'만 시스템 프롬프트로 고정합니다. (캐싱 대상)
   const SYSTEM_RULES_PROMPT = `
-  [즉시 출력 규칙 - 최우선]
-  - 응답 첫 글자부터 바로 "HOME_KOR:" 로 시작하라. 그 앞에 어떤 말도 절대 금지.
-  - "검색하겠습니다", "분석하겠습니다", "확인하겠습니다" 등 행동 예고 문장 완전 금지.
-  - 내부 사고 과정, 검색 진행 상황, 중간 메모를 본문에 단 한 글자도 포함하지 마라.
-  - 도구(웹서치) 사용 후에도 결과만 분석에 반영하고, 사용 사실 자체를 언급하지 마라.
-  - "검색 결과를 분석해보니", "더 구체적인 검색을 진행하겠습니다", "찾기 어렵습니다" 등 검색 과정을 설명하는 문장 완전 금지.
-  - 상대전적 섹션에서 검색 실패 시 해당 과정 설명 없이 '※업데이트 예정' 한 줄만 출력하라.
+너는 '픽천국'의 수석 분석가다. 아래 규칙을 반드시 준수하라.
 
-  1. 너는 '픽천국'의 수석 분석가야. 아래 규정을 절대적으로 준수하여 풍부하고 냉철한 리포트를 작성해라.
-  2. 분석글은 친절한 말투로 작성하고 '합니다', '입니다', '습니다'를 사용하여 존댓말로 작성해라.
-  
-  [금지 사항]
-  1. 한자(한문), 일어 사용 절대 금지: 100% 쉬운 한글로만 작성.
-  2. 추천 픽에 배당은 기재하면 안된다.
-  3. 대한민국을 절대 '남한', '한국', '남조선'으로 표기하지 마라. 반드시 '대한민국'으로만 표기하라.
-  4. 반드시 제공된 "JSON 데이터"의 팀명만 사용하세요. ...
-  5. 홈팀명, 원정팀명, 리그명, 국가명 단어 자체에 ** 기호를 감싸거나 남발하지 마십시오.
-  6. 날짜/홈팀/원정팀/리그를 텍스트로 나열하는 블록을 절대 작성하지 마라.
-  7. '### 🏟️ 경기 정보 요약' 섹션은 시스템이 자동 삽입하므로 직접 작성 금지.
+[출력 형식 - 절대 엄수]
+반드시 아래 키=값 형식으로만 출력하라. 마크다운, HTML, ### 헤더, <br> 태그를 절대 사용하지 마라.
+키 이름을 변경하거나 추가하지 마라. 설명 문장, 행동 예고, 내부 추론을 절대 포함하지 마라.
 
-  [팀명 표기 원칙]
-  1. 홈팀과 원정팀의 한글 명칭은 프롬프트에서 '한글 매핑명'으로 이미 제공된다.
-  2. 분석글 작성 시 모든 팀명 표기는 반드시 제공된 한글 매핑명만 사용하라. 임의로 번역하거나 다른 명칭을 사용하지 마라.
-  3. 한글 매핑명이 영문 그대로인 경우(매핑 없음)에도 그 영문명을 그대로 사용하라. 소리 나는 대로 임의 번역 금지.
-  4. 팀명 뒤 'U20', 'W' 등 접미사가 있다면 매핑명 뒤에 그대로 붙여라.
+HOME_ANALYSIS: (홈팀 분석. 존댓말로 5문장 이상. 리그 순위·시즌 성적·최근 경기력·공격력·수비력·홈 성적 중 최소 3가지 포함. 문장 사이 구분은 공백으로만)
+AWAY_ANALYSIS: (원정팀 분석. 동일 규칙 적용)
+HOME_POWER: (홈팀 핵심 포인트 5개를 파이프(|)로 구분. 각 15자 이내. 예: 홈 승률 강세|선발 안정|공격력 우수|수비 견고|최근 3연승)
+AWAY_POWER: (원정팀 핵심 포인트 5개를 파이프(|)로 구분)
+H2H: (상대전적. 각 경기를 파이프(|)로 구분. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 있으면 그것 사용. 없으면 웹 검색. 검색해도 없으면 "없음")
+SUMMARY: (종합 분석. 존댓말로 3문장 이상)
+INJURY_HOME: (홈팀 부상/결장 선수. 없으면 "없음". 플레이스홀더 절대 금지)
+INJURY_AWAY: (원정팀 부상/결장 선수. 없으면 "없음". 플레이스홀더 절대 금지)
+PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부")
+PICK_WIN_RESULT: (승 또는 무승부)
+PICK_HANDICAP_TEAM: (핸디캡 기준 팀명)
+PICK_HANDICAP_VALUE: (반드시 웹 검색으로 해당 경기 아시안 핸디캡 배당 기준점을 확인 후 기재. 배당을 찾지 못하면 양 팀 최근 5경기 득점력 차이를 계산해서 0.5 단위로 직접 산출하라. "없음" 절대 금지. 반드시 숫자로만 기재.)
+PICK_OU_DIRECTION: (오버 또는 언더)
+PICK_OU_VALUE: (반드시 웹 검색으로 해당 경기 아시안 오버언더 배당 기준점을 확인 후 기재. 배당을 찾지 못하면 양 팀 최근 5경기 평균 득점 합산으로 직접 산출하라. "없음" 절대 금지. 반드시 숫자로만 기재.)
 
-  [출력 강제 규칙]
-  - 반드시 아래 형식의 데이터를 최상단에 추가 출력하라. 이 값이 없으면 전체 응답은 실패로 간주된다.
-  HOME_KOR: (제공된 홈팀 한글 매핑명을 그대로 복사)
-  AWAY_KOR: (제공된 원정팀 한글 매핑명을 그대로 복사)
-  COUNTRY_KOR: (국가명 한글명)
-  
-  [디자인 지시]
-  1. 부제목 아이콘: 🏟️, ⚔️, 📝, 🎯 필수.
-  2. 팀별 분석 작성시 웹 검색을 하여 현재 리그 순위와 시즌 성적을 반드시 1문장 이상 작성하라.
-  3. 웹 검색 내용을 바탕으로 최근 경기력, 공격력, 수비력, 홈/원정 성적, 상대전적 중 최소 3가지 요소를 활용하여 3문장 이상 분석하라.
-  4. 결장자·부상자 정보는 아래 절차를 반드시 수행하라.
-   - 검색 쿼리 예시: "[팀명] injury list 2026", "[팀명] injured suspended players", "[팀명] 결장 부상"
-   - 검색 후 확인된 실제 부상·정지 선수가 있으면 선수명과 사유를 아래 형식으로 작성하라.
-     예) 🚑 결장/부상 현황: 홍길동 (햄스트링 부상), 김철수 (경고 누적)
-   - 부상자와 결장자를 구분하여 각각 명시하라. 부상 선수는 예상 복귀 시점도 함께 적어라.
-   - 검색을 최소 2회 이상 시도했음에도 정보가 없을 경우에만 "현재 주요 결장·부상자 정보는 확인되지 않습니다."라고 적어라.
-   - 절대로 선수 이름을 추측하거나 플레이스홀더([선수명], [가상선수명] 등)를 작성하지 마라.
-  5. 팀별 분석은 위 지시사항을 포함해서 최소 5문장 이상 작성하라.
-  6. 문맥상 마침표가 나오거나 주제가 바뀌면 반드시 <br> 태그와 함께 다음 줄로 넘겨라.
-  7. 모든 추천 픽의 기준점(핸디캡, 오버언더)은 제공된 팀의 전력과 최근 득점력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 [추천 픽 및 기준점] 테이블을 만드세요.
-  8. 리그명 중 KBL, MLB, NPB, NHL, MLS, KHL 등 약자로 된 리그는 한글로 바꾸지말고 영문 그대로 사용해주세요.
-  9. 출력 시 반드시 최종 분석 보고서 결과만 출력하고, 내부 추론 과정이나 검색 결과에 대한 코멘트, 불필요한 기호는 절대 포함하지 마세요.
-  10. 홈팀 분석 텍스트 안에 반드시 다음 두 가지를 포함하라:
-    ① 제공된 [홈팀 최근 3경기 DB]의 승/패 기록과 평균 득점 수치를 인용하여 최근 폼을 1~2문장으로 서술하라.
-       (예: "최근 3경기에서 2승 1패를 기록 중이며, 평균 2.3득점을 올리고 있어 공격력이 살아있는 상태다.")
-    ② 분석 텍스트가 끝난 다음 줄에, 아래 형식을 그대로 사용하여 최근 경기를 출력하라.
-       표(|) 절대 사용 금지. <br>을 사용하여 한 경기당 한 줄씩 작성하라.
-
-       📋 최근 경기
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🔴패
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🟢승
-       YY/MM/DD 팀A vs 팀B (X-Y) → 🟡무
-       (위 형식은 예시이며, 반드시 [홈팀/원정팀 최근 3경기 DB]에서 제공된 실제 데이터만 사용하라. 예시 값을 절대 그대로 출력하지 마라.)
-
-       - 승/무/패 이모지 규칙: 승 → 🟢승, 패 → 🔴패, 무 → 🟡무
-       - 데이터가 없으면 '📋 최근 경기 데이터 없음'으로 표기하라.
-11. 원정팀도 11번과 동일한 규칙을 적용하라.
-12. 팀에 대한 설명을 할 때는 '폼' 이라는 단어 대신 '전력'이라고 적어라.
-                          
-  [절대 규칙 - 위반 시 실패로 간주]
-  1. 리그명 치환 규칙을 반드시 적용하지 않으면 출력 전체가 무효 처리된다.
-  2. 분석 과정, 내부 추론, 모델의 자기 생각(Thought)을 본문에 단 한 단어도 포함하지 마라.
-  3. 응답은 반드시 HOME_KOR / AWAY_KOR / COUNTRY_KOR 세 줄 다음,
-   '### <img ...> 홈팀명 분석' 섹션부터 바로 시작하라.
-  4. 한국어 분석 리포트 내에 영어로 된 설명글이나 메모를 절대 적지 마라. 100% 한국어만 사용해라.
-  5. 동일한 내용을 두 번 반복해서 생성하는 행위는 절대 금지한다.
-
-  [종목별 작성 지침]
-  - 종목별 세부 규칙은 아래 [현재 경기 종목 지침] 블록에서 별도로 제공된다. 그 지침만 적용하고, 여기에 없는 종목 규칙을 임의로 끌어와 적용하지 마라.
- 
-  [팀 분석 섹션 작성 규칙]
-반드시 아래 형식을 그대로 따르라. 헤더에 <img> 태그가 먼저, 그 다음 팀명이 온다.
-
-올바른 형식:
-### <img src="[홈팀 로고 URL]" width="31" height="30" style="vertical-align: middle;"> [홈팀명] 최근 전력 분석
-분석 첫 문장<br>
-분석 두 번째 문장<br>
-<br><br>
-
-### <img src="[원정팀 로고 URL]" width="31" height="30" style="vertical-align: middle;"> [원정팀명] 최근 전력 분석
-분석 첫 문장<br>
-분석 두 번째 문장<br>
-<br><br>
-
-절대 금지:
-- ### 팀명 분석 (img 없이 팀명만 쓰는 것)
-- ### 팀명 분석 다음 줄에 <img> 태그 쓰는 것
-- 헤더와 <img> 사이에 어떤 텍스트도 삽입 금지
-
-  ### ⚔️ 상대전적
-  [상대전적 작성 절대 규칙]
-  1. 마크다운 표(|)를 절대 사용하지 마라. 대신 아래 형식을 엄수하여 '한 줄에 하나씩' 불렛 포인트로 작성하라.
-  2. 야구 분석 시 '무승부' 결과가 나오면 데이터 오류이므로 다시 찾아라.
-  3. 상대전적은 구글 검색(Google Search) 기능을 총동원하여 반드시 검색하라. 검색 후 아래 우선순위로 출력하라.
-    - 1순위: 2024년, 2025년, 2026년 기록이 있으면 최신순으로 최대 5개 출력하라.
-    - 2순위: 2024년 이후 기록이 단 하나도 없으면, 연도 제한 없이 역대 전적을 최신순으로 최대 5개 출력하고, 첫 줄에 '※ 최근 공식 맞대결 정보 부족' 라고 명시하라.
-    - 어떤 경우에도 '※업데이트 예정' 단독 출력은 금지한다. 반드시 검색 후 찾은 전적을 표기하라.
-    - 절대 금지: 아직 열리지 않은 예정 경기(미래 날짜, "예정", "upcoming" 등)를 전적으로 출력하는 것은 엄격히 금지한다. 오직 이미 종료된 경기 결과만 표기하라.
-    - 검색해도 과거 전적이 없으면 '※ 최근 공식 맞대결 정보 부족'으로만 표기하라.
-
-  [상대전적 출력 예시]
-  ### ⚔️ 상대전적
-  * 년.월.일 - 홈팀명 (1-2) 원정팀명
-  * 년.월.일 - 홈팀명 (4-2) 원정팀명
-  <br><br>
-
-  ### ⚡ 팀별 핵심 전력 분석
-  [핵심 전력 작성 규칙]
-  1. 홈팀과 원정팀 각각 핵심 포인트를 불렛 5개씩 작성하라.
-  2. 각 불렛은 15자 이내 짧고 임팩트 있는 문장으로 작성하라.
-  3. 웹 검색으로 얻은 최신 정보를 반영하라.
-  4. 아래 형식을 그대로 따르라.
-
-  [핵심 전력 출력 형식 - 절대 엄수]
-  ### ⚡ 팀별 핵심 전력 분석
-  (주의: 이 섹션 안에서 ### 기호를 다시 사용하지 마라. 팀명은 ### 없이 일반 텍스트로만 작성하라.)
-  [홈팀명]
-  - 핵심포인트1
-  - 핵심포인트2
-  - 핵심포인트3
-  - 핵심포인트4
-  - 핵심포인트5
-  ---
-  [원정팀명]
-  - 핵심포인트1
-  - 핵심포인트2
-  - 핵심포인트3
-  - 핵심포인트4
-  - 핵심포인트5
-  <br><br>
-
-  ※ 위 형식에서 [홈팀명]과 [원정팀명] 사이 구분선(---)은 반드시 포함하라. 원정팀 불렛을 절대 생략하지 마라.
-
-  ### 📝 종합 분석
-  (상대전적 유무와 상관없이 현재 폼을 바탕으로 한 최종 진단) 
-  <br><br>
-
-  ### 🎯 추천 픽
-  [추천 픽 작성 규칙]
-  1. 표의 헤더와 구분선을 절대 작성하지 마세요. 오직 내용이 담긴 행만 출력하세요.
-  2. 기준점 직접 산출: 모든 추천 픽의 기준점은 제공된 전력을 바탕으로 네가 직접 '가장 적절한 수치'를 산출해서 표기하라.
-  3. 이모지/기호 금지: ⚾, ⚽ 등 이모지는 절대 사용하지 마라.
-  4. 아래의 텍스트 형식을 그대로 사용하여 반드시 승무패/핸디캡/O-U 3줄을 모두 출력하세요. 한 줄이라도 누락되면 전체 응답이 실패로 간주됩니다.
-  5. 배당은 검색하지 마라. 대신 검색으로 얻은 최근 폼/전력 정보를 참고하여, 2번 규칙대로 핸디캡과 오버언더 수치는 네가 직접 산출하라.
-  6. 배구 핸디캡과 오버언더는 세트스코어 기준으로 추천값을 작성할 것.
-  7. 핸디캡 추천 기준점은 승무패 추천팀과 같은 팀을 기준으로 작성할 것.
-  8. 핸디캡 부호 규칙: 승무패에서 이길 것으로 추천한 팀이 핸디캡 기준팀이면 반드시 마이너스(-) 수치를 써야 한다. (예: 화천 KSPO 승 → 핸디캡 화천 KSPO -1.0). 플러스(+) 수치는 약팀/원정팀에만 사용한다.
-  9. 승무패 무승부 추천 시 핸디캡 수치는 반드시 0 또는 0.5 이내로 작성하라.
-  10. 상대전적에 실제 날짜와 경기 기록이 있으면 '※ 최근 공식 맞대결 기록 없음, 역대 전적 표기' 문구를 절대 쓰지 마라. 전적 기록이 전혀 없을 때만 이 문구를 사용하라.
-
-| 승무패 | 데리 시티 | 승 |
-| 핸디캡 | 데리 시티 | -0.5 |
-| O/U | 오버 | 2.5 |
-
-반드시 위 형식과 동일하게 출력하라.
-반드시 파이프(|)를 포함한 3줄만 출력하라.
-승무패, 핸디캡, O/U 라벨은 절대 변경하지 마라.
-
-  ⚠️ 추천픽 표기 금지사항 (반드시 엄수):
-  - '오버언더', '오버', '언더' 단독 사용 금지 → 반드시 'O/U' 로만 표기
-  - 콜론(:) 없이 공백만으로 구분하는 것도 허용하나, 라벨명은 위 세 가지만 사용
-  <br>&nbsp;
+[분석 규칙]
+1. 웹 검색으로 현재 리그 순위, 시즌 성적, 부상자 정보를 반드시 확인하라.
+2. 대한민국을 '남한', '한국'으로 표기하지 마라. 반드시 '대한민국'으로만 표기하라.
+3. 팀명을 임의로 번역하지 마라. 제공된 영문 팀명 그대로 사용하라.
+4. 한자, 일어 사용 금지. 100% 한글로만 작성하라.
+5. '폼' 대신 '전력'이라고 표기하라.
 `;
 
     for (let i = 0; i < filteredMatches.length; i++) {
@@ -530,20 +391,22 @@ if (isExtraFiltered) {
       return `${h.date}: ${h.home} (${s}) ${h.away}`;
     }).join('\n')}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
     } else {
-      
-    h2hContent = "\n\n(※업데이트 예정)\n\n";
-    // ✅ 검색 지시를 더 구체적으로 강화 (팀명 변수도 match.home/away로 수정)
-    h2hContextForAI = `
-   [SEARCH_REQUIRED - 반드시 실행]
-   내부 DB에 상대전적이 없습니다. 아래 절차를 반드시 수행하라:
-   ① 웹 검색: "${match.home} vs ${match.away} head to head results 2024 2025 2026"
-   ② 검색 결과에서 이미 종료된 경기(스코어가 숫자-숫자 형태로 확인된 것)만 추출하라.
-   ③ 종료된 경기가 2024년 이후에 있으면 최신순으로 최대 5개 출력하라.
-   ④ 2024년 이후 결과가 없으면 연도 제한 없이 역대 최신순 5개를 출력하고, 첫 줄에 '※ 최근 공식 맞대결 기록 없음, 역대 전적 표기'를 명시하라.
-   ⑤ 검색해도 종료된 경기가 단 하나도 없는 경우에만 '※ 2년 이내 전적 데이터 없음'으로 표기하라.
-   ⑥ '예정', 'upcoming', 'scheduled' 경기는 절대 포함 금지.
-   `;
-   }
+      h2hContent = "\n\n(※업데이트 예정)\n\n";
+      const dbText = h2hHistory.length > 0
+        ? `[내부 DB 상대전적 - ${h2hHistory.length}개만 존재, 반드시 추가 검색 필요]\n` +
+          h2hHistory.map(h => {
+            const s = (h.homeScore !== null && h.awayScore !== null) ? `${h.homeScore}-${h.awayScore}` : h.score;
+            return `${h.date}: ${h.home} (${s}) ${h.away}`;
+          }).join('\n')
+        : '[내부 DB 상대전적 없음]';
+      h2hContextForAI = `${dbText}
+⚠️ 웹 검색 필수 실행:
+① "${match.home} vs ${match.away} head to head 2024 2025 2026" 검색
+② 종료된 경기(스코어 확인된 것)만 추출하여 DB와 합쳐 최신순 최대 5개 출력
+③ 검색해도 없으면 H2H: 없음 으로만 표기
+④ 미래 예정 경기 절대 포함 금지`;
+    }
+  
 
   // 최근 3경기 추출
   const homeRecentMatches = masterData.filter(m => {
@@ -554,7 +417,7 @@ if (isExtraFiltered) {
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
                      (m.homeScore !== null && m.awayScore !== null);
     return isHomeTeam && isPast && isRecentEnough && hasScore;
-  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 3);
+  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
 
   // 원정팀 최근 3경기 추출
   const awayRecentMatches = masterData.filter(m => {
@@ -565,7 +428,7 @@ if (isExtraFiltered) {
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
                      (m.homeScore !== null && m.awayScore !== null);
     return isAwayTeam && isPast && isRecentEnough && hasScore;
-  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 3);
+  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
 
   // ✅ 최근 경기 컨텍스트 문자열 생성
   const homeRecentContext = buildRecentForm(homeRecentMatches, match.home);
@@ -597,7 +460,7 @@ if (isExtraFiltered) {
     } 
     else if (
       lg.includes('KBO') || lg.includes('MLB') || lg.includes('NPB') || 
-      lg.includes('ABL') || lg.includes('CPBL') 
+      lg.includes('CPBL') 
     ) {
       cat = "baseball";
     } 
@@ -665,29 +528,39 @@ if (isFreePassLeague) {
 
 // 2. 매 경기 실시간으로 변경되는 데이터만 User 프롬프트로 묶어줍니다.
 const sportPickRule = cat === 'lol'
-  ? `핸디캡과 오버언더 수치는 반드시 세트(set) 기준으로 작성하고 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 2.5 세트) '핸디캡' 항목명을 절대 다른 이름으로 바꾸지 마라.`
-  : `이 경기는 lol이 아니다. 핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라. 골/점수 기준의 일반적인 숫자(예: -0.5, 2.5)만 사용하라.`;
+  ? `핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 2.5 세트)`
+  : cat === 'volleyball'
+  ? `배구다. 핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 3.5 세트)`
+  : cat === 'basketball'
+  ? `농구다. 핸디캡은 양 팀 전력 차를 분석해 -2.5~-15.5 범위에서 0.25 단위 소수점으로 산출하라. 오버언더는 양 팀 평균 득점 합산 기반으로 155.5~215.5 범위에서 0.25 단위 소수점으로 산출하라. 정수 출력 절대 금지.`
+  : cat === 'baseball'
+  ? `야구다. 핸디캡은 -1.5 또는 +1.5 중 선택. 오버언더는 양 팀 선발 투수 평균자책점과 최근 득점력 기반으로 6.5~10.5 범위에서 0.5 단위로 산출하라.`
+  : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라. 0.25 단위 소수점으로 산출하라.`;
 
 const matchDataPrompt = `
-  [실시간 경기 컨텍스트 데이터]
-  - 종목 안내: ${gameContext}
-  - [추천픽 종목별 규칙 - 반드시 준수]: ${sportPickRule}
-  - 날짜/시간 변수 고정값: 날짜는 반드시 '${dateShort}' 값 그대로 사용할 것.
-  - 홈팀 정보: 한글 매핑명 명칭은 '${aiHomeName}'이며, 오리지널 영문명은 '${match.home}'이다. 만약 한글 매핑명이 영문과 동일하다면(매핑 없음), 영문명 그대로 HOME_KOR에 출력하라. 임의 번역 금지. 로고 태그는 '<img src="${match.homeLogo || ''}" width="31" height="30" style="vertical-align: middle;">'를 사용하라.
-  - 원정팀 정보: 한글 매핑명 명칭은 '${aiAwayName}'이며, 오리지널 영문명은 '${match.away}'이다. 만약 한글 매핑명이 영문과 동일하다면(매핑 없음), 영문명 그대로 AWAY_KOR에 출력하라. 임의 번역 금지. 로고 태그는 '<img src="${match.awayLogo || ''}" width="31" height="30" style="vertical-align: middle;">'를 사용하라.
-  - 상대 전적 데이터베이스 정보: ${h2hContextForAI}
-  - [상대전적 필수 지시]: 아래 순서를 반드시 따르라.
-    ① 데이터베이스에 스코어가 있으면 그것을 우선 사용.
-    ② 데이터베이스가 비어있으면 "${match.home} vs ${match.away} head to head results" 검색 → 종료된 경기 결과만 사용.
-    ③ 검색 결과에서 미래 날짜이거나 "예정", "upcoming" 이 포함된 경기는 절대 포함 금지.
-    ④ 반드시 스코어(숫자-숫자)가 확인된 종료된 경기만 출력하라.
-    ⑤ 2024년 이전 전적도 없으면 역대 최신순으로 5개 출력하되, 첫 줄에 '※ 최근 공식 맞대결 기록 없음, 역대 전적 표기' 명시.
+지금 당장 아래 4가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.
 
-    [홈팀 최근 3경기 DB - 홈팀 분석 섹션 하단에 반드시 반영]
-  ${homeRecentContext}
+검색 1: "${match.home} vs ${match.away} head to head results 2025 2026"
+검색 2: "${match.home} injury report 2026"
+검색 3: "${match.away} injury report 2026"
+검색 4: "${match.home} vs ${match.away} betting odds asian handicap over under"
 
-  [원정팀 최근 3경기 DB - 원정팀 분석 섹션 하단에 반드시 반영]
-  ${awayRecentContext}
+검색 완료 후 아래 정보를 참고하여 분석을 작성하라.
+
+[경기 정보]
+- 종목: ${cat} ${gameContext}
+- 홈팀: ${match.home}
+- 원정팀: ${match.away}
+- ${sportPickRule}
+
+[DB 상대전적 참고]
+${h2hContextForAI || '없음'}
+
+[홈팀 최근 경기 DB]
+${homeRecentContext}
+
+[원정팀 최근 경기 DB]
+${awayRecentContext}
 `;
 
 // ✅ 재시도 포함 버전 (최대 2회 시도)
@@ -709,7 +582,7 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
       body: JSON.stringify({
   model: "anthropic/claude-haiku-4.5",
   max_tokens: 6000,
-  system: SYSTEM_RULES_PROMPT,   // ← 문자열로 단순화 (system 자체는 매번 동일하므로 OK)
+  system: SYSTEM_RULES_PROMPT,
   tools: [
     {
       type: "web_search_20250305",
@@ -720,36 +593,34 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
   messages: [
     {
       role: "user",
-      content: [
-        {
-          type: "text",
-          text: SYSTEM_RULES_PROMPT,          // ← 불변 블록: 캐시 대상
-          cache_control: { type: "ephemeral" }
-        },
-        {
-          type: "text",
-          text: matchDataPrompt               // ← 가변 블록: 캐시 대상 아님
-        }
-      ]
+      content: matchDataPrompt
     }
   ]
 })
     });
 
     const data = await res.json();
+    console.log(`📦 [RAW 응답] ${match.home}:`, JSON.stringify(data).substring(0, 500));
+
+    // 웹검색 실행 여부 로그
+    const searchBlocks = (data.content || []).filter(b => 
+  (b.type === "tool_use" || b.type === "server_tool_use") && b.name === "web_search"
+);
+if (searchBlocks.length > 0) {
+  searchBlocks.forEach(b => {
+    console.log(`🔍 [웹검색] ${match.home} vs ${match.away} → "${b.input?.query}"`);
+  });
+} else {
+  console.warn(`⚠️ [웹검색 없음] ${match.home} vs ${match.away}`);
+}
+
     const aiResponse = (data.content || [])
       .filter(b => b.type === "text")
       .map(b => b.text)
       .join("\n") || "";
 
-    fs.writeFileSync(
-      path.resolve(__dirname, `../database/debug-raw-${match.id}.txt`),
-      aiResponse,
-      'utf8'
-    );
-
-    if (aiResponse.length > 1200) {
-      const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent);
+    if (aiResponse.length > 500) {
+      const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches);
       if (saved) {
         console.log(`✅ Router One 성공 (${attempt}차 시도): ${match.home} vs ${match.away}`);
         success = true;
@@ -771,14 +642,18 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
 if (success) {
   await new Promise(res => setTimeout(res, 6000));
 } else {
-  retryQueue.push({ match, dateShort, cat, dateOnly, savePath, h2hContent });
+  retryQueue.push({ match, dateShort, cat, dateOnly, savePath, h2hContent, homeRecentMatches, awayRecentMatches });
   console.warn(`🕐 [재시도 큐 등록] ${match.home} vs ${match.away} (현재 ${retryQueue.length}건)`);
 }
 } // else (cat 판별) 닫기
 } // for (filteredMatches) 닫기
 
-// ── 재분석 블록 (루프 종료 후) ──────────────────────────
-if (retryQueue.length > 0) {
+  } catch (error) {
+    console.error("❌ 시스템 오류:", error.message);
+  }
+}
+
+async function analyzeMatchesRetry() {
   console.log(`\n🔁 [재분석 시작] 실패 경기 ${retryQueue.length}건 재처리`);
   await new Promise(res => setTimeout(res, 10000));
 
@@ -788,17 +663,25 @@ if (retryQueue.length > 0) {
     const aiAwayName = TEAM_NAME_MAP[match.away] || match.away;
     const gameContext = cat === 'lol' ? "이 경기는 '리그오브레전드(롤)' 이스포츠 경기다." : "";
 
+    const retrySportPickRule = cat === 'lol'
+      ? `핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라.`
+      : cat === 'volleyball'
+      ? `배구다. 핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라.`
+      : cat === 'basketball'
+      ? `농구다. 핸디캡은 -2.5~-15.5 범위에서 0.25 단위 소수점으로 산출하라. 오버언더는 155.5~215.5 범위에서 0.25 단위 소수점으로 산출하라.`
+      : cat === 'baseball'
+      ? `야구다. 핸디캡은 -1.5 또는 +1.5 중 선택. 오버언더는 6.5~10.5 범위에서 0.5 단위로 산출하라.`
+      : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라. 0.25 단위 소수점으로 산출하라.`;
+
     const retryPrompt = `
-[재분석 요청 - 반드시 풍부하게 작성할 것]
-이전 분석이 너무 짧아 실패했습니다. 각 섹션을 충분히 작성하세요.
-HOME_KOR / AWAY_KOR / COUNTRY_KOR 세 줄을 맨 위에 반드시 출력하고,
-홈팀 분석 5문장 이상, 원정팀 분석 5문장 이상, 종합 분석 3문장 이상을 의무 작성하세요.
+[재분석 요청]
+이전 응답이 유효하지 않아 재분석합니다. 반드시 아래 형식 그대로 모든 키를 출력하세요.
 
 ${gameContext}
-- 홈팀: ${aiHomeName} (${match.home})
-- 원정팀: ${aiAwayName} (${match.away})
+- 홈팀: ${match.home}
+- 원정팀: ${match.away}
 - 리그: ${match.league}
-- 날짜: ${dateShort}
+- ${retrySportPickRule}
 `;
 
     try {
@@ -811,13 +694,7 @@ ${gameContext}
         body: JSON.stringify({
           model: "anthropic/claude-haiku-4.5",
           max_tokens: 6000,
-          system: [
-            {
-              type: "text",
-              text: SYSTEM_RULES_PROMPT,
-              cache_control: { type: "ephemeral" }
-            }
-          ],
+          system: SYSTEM_RULES_PROMPT,
           tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 3 }],
           messages: [{ role: "user", content: retryPrompt }]
         })
@@ -830,7 +707,7 @@ ${gameContext}
         .join("\n") || "";
 
       if (aiResponse.length > 1200) {
-        const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent);
+        const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches);
         if (saved) {
           console.log(`✅ [재분석 성공] ${match.home} vs ${match.away}`);
         } else {
@@ -852,12 +729,7 @@ ${gameContext}
   console.log(`✅ [재분석 완료] ${retryQueue.length}건 처리 종료`);
 }
 
-  } catch (error) {
-    console.error("❌ 시스템 오류:", error.message);
-  }
-}
-
-async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hContent) {
+async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches = [], awayRecentMatches = []) {
 
   // [검증 1] 데이터 타입 확인
   if (typeof aiText !== 'string' || !aiText || aiText.length < 10) {
@@ -884,397 +756,214 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
   return false;
 }
 
-
-  // 1. 기초 정제 (여기서 변수를 선언합니다)
-  let cleanedText = aiText.replace(/```markdown|```/g, "").trim();
-
-  // [강제 필터] AI 독백/검색 과정 혼잣말 제거
-const junkPatterns = [
-  /초기 검색에서.*?\n?/g,
-  /더 구체적인 검색을.*?\n?/g,
-  /검색 결과를 분석해보니.*?\n?/g,
-  /추가 검색을 시도.*?\n?/g,
-  /검색을 진행하겠습니다.*?\n?/g,
-  /확인하겠습니다.*?\n?/g,
-  /분석하겠습니다.*?\n?/g,
-  /찾아보겠습니다.*?\n?/g,
-  /살펴보겠습니다.*?\n?/g,
-  /검색해보겠습니다.*?\n?/g,
-  /시도하겠습니다.*?\n?/g,
-  /진행하겠습니다.*?\n?/g,
-  /찾기 어렵습니다.*?\n?/g,
-  /결과를 찾지 못했습니다.*?\n?/g,
-// ✅ 추가: 나는/저는 ~ 하겠습니다 형태 독백 차단
-  /나는\s.{0,80}하겠습니다[.]?\n?/g,
-  /저는\s.{0,80}하겠습니다[.]?\n?/g,
-  /먼저\s.{0,80}(하겠습니다|수행하겠습니다|검색하겠습니다)[.]?\n?/g,
-  // ✅ 추가: "~를 바탕으로 ~ 하겠습니다" 패턴
-  /.*바탕으로.{0,80}하겠습니다[.]?\n?/g,
-  // ✅ 추가: "검색 결과 확인:" 블록 (콜론 뒤 항목 포함 전체 제거)
-  /검색\s*결과\s*확인\s*:\s*[\s\S]*?(?=\n\n|\n<|$)/g,
-  // ✅ 추가: "- 20XX년 X월 경기:" 형태의 검색 결과 메모 줄
-  /^.*\d{4}년\s*\d{1,2}월\s*경기\s*:.*\n?/gm,
-  // ✅ 추가: "지침을 따르고" 류 독백
-  /.*지침을\s*(정확히\s*)?따르고.*\n?/g,
-  /.*지시를\s*(정확히\s*)?따르고.*\n?/g,
-];
-junkPatterns.forEach(pattern => {
-  cleanedText = cleanedText.replace(pattern, "");
-});
-
-// [강제 필터] 상대전적 섹션 예정 경기 줄 제거
-cleanedText = cleanedText.split('\n').filter(line => {
-  const isBullet = /^\*\s+/.test(line.trim()) || /^-\s+/.test(line.trim());
-  if (!isBullet) return true;
-  const hasUpcoming = /예정|upcoming|TBD/i.test(line);
-  return !hasUpcoming;
-}).join('\n');  
-  
-// [검증 2-2] 야구 무승부 감지 필터
-if (cat === "baseball") {
-  const drawPattern = /\(\d+-\d+\).*무승부|\b(\d+)-\1\b/;
-  const tieLines = cleanedText.split('\n').filter(line => {
-    const scoreMatch = line.match(/\((\d+)-(\d+)\)/);
-    return scoreMatch && scoreMatch[1] === scoreMatch[2];
-  });
-  if (tieLines.length > 0) {
-    console.warn(`⚠️ [야구 무승부 감지] 해당 줄 자동 제거: ${match.home}`);
-    cleanedText = cleanedText.split('\n')
-      .filter(line => {
-        const scoreMatch = line.match(/\((\d+)-(\d+)\)/);
-        return !(scoreMatch && scoreMatch[1] === scoreMatch[2]);
-      })
-      .join('\n');
+  // [검증 0] aiHomeName/aiAwayName에 img 태그나 URL이 포함된 경우 강제 교체
+  if (aiHomeName.includes('<img') || aiHomeName.includes('http')) {
+    console.warn(`⚠️ [팀명 오염] aiHomeName에 img/URL 감지 → TEAM_NAME_MAP으로 교체: ${match.home}`);
+    aiHomeName = TEAM_NAME_MAP[match.home] || match.home;
   }
-}
+  if (aiAwayName.includes('<img') || aiAwayName.includes('http')) {
+    console.warn(`⚠️ [팀명 오염] aiAwayName에 img/URL 감지 → TEAM_NAME_MAP으로 교체: ${match.away}`);
+    aiAwayName = TEAM_NAME_MAP[match.away] || match.away;
+  }
 
-  // 변수 선언 (중복 선언 에러 방지를 위해 여기서 한 번만 선언)
-  const homeKorMatch = cleanedText.match(/HOME_KOR:\s*(.*)/);
-  const awayKorMatch = cleanedText.match(/AWAY_KOR:\s*(.*)/);
-  const countryKorMatch = cleanedText.match(/COUNTRY_KOR:\s*(.*)/);
+  // 1. 기초 정제 및 독백 제거
+  let cleanedText = aiText.replace(/```markdown|```/g, "").trim();
+  const junkPatterns = [
+    /초기 검색에서.*?\n?/g, /더 구체적인 검색을.*?\n?/g,
+    /검색 결과를 분석해보니.*?\n?/g, /검색을 진행하겠습니다.*?\n?/g,
+    /확인하겠습니다.*?\n?/g, /분석하겠습니다.*?\n?/g,
+    /찾아보겠습니다.*?\n?/g, /살펴보겠습니다.*?\n?/g,
+    /나는\s.{0,80}하겠습니다[.]?\n?/g, /저는\s.{0,80}하겠습니다[.]?\n?/g,
+    /먼저\s.{0,80}(하겠습니다|수행하겠습니다|검색하겠습니다)[.]?\n?/g,
+    /.*바탕으로.{0,80}하겠습니다[.]?\n?/g,
+    /.*지침을\s*(정확히\s*)?따르고.*\n?/g,
+    /.*지시를\s*(정확히\s*)?따르고.*\n?/g,
+  ];
+  junkPatterns.forEach(p => { cleanedText = cleanedText.replace(p, ""); });
 
-  // [검증 3] 필수 정보(한글 팀명) 추출 확인 - 없으면 원본 영문명으로 폴백
-if (!homeKorMatch || homeKorMatch[1].includes("정보 정보")) {
-  console.warn(`⚠️ [매핑 없음] 한글 팀명 누락 → 영문명으로 대체 진행: ${match.home}`);
-  // return false; ← 삭제: 거부하지 않고 아래에서 영문명으로 폴백
-}
+  // 2. 키=값 추출
+  const extract = (key) => {
+    const m = cleanedText.match(new RegExp(`${key}:\\s*(.+)`));
+    return m ? m[1].trim() : '';
+  };
 
-  // 데이터 할당
-  const aiHomeName = homeKorMatch ? homeKorMatch[1].trim() : match.home;
-  const aiAwayName = awayKorMatch ? awayKorMatch[1].trim() : match.away;
-  const aiCountryName = countryKorMatch ? countryKorMatch[1].trim() : (match.countryKor || match.country);
+  const homeAnalysis      = extract('HOME_ANALYSIS');
+  const awayAnalysis      = extract('AWAY_ANALYSIS');
+  const homePowerRaw      = extract('HOME_POWER');
+  const awayPowerRaw      = extract('AWAY_POWER');
+  const h2hRaw            = extract('H2H');
+  const summary           = extract('SUMMARY');
+  const injuryHome        = extract('INJURY_HOME');
+  const injuryAway        = extract('INJURY_AWAY');
+  const pickWinTeam       = extract('PICK_WIN_TEAM');
+  const pickWinResult     = extract('PICK_WIN_RESULT');
+  const pickHandicapTeam  = extract('PICK_HANDICAP_TEAM');
+  const pickHandicapValue = extract('PICK_HANDICAP_VALUE');
+  const pickOuDirection   = extract('PICK_OU_DIRECTION');
+  const pickOuValue       = extract('PICK_OU_VALUE');
 
-  // 본문에서 메타 데이터 제거
-  cleanedText = cleanedText.replace(/HOME_KOR:.*\n?/g, '');
-  cleanedText = cleanedText.replace(/AWAY_KOR:.*\n?/g, '');
-  cleanedText = cleanedText.replace(/COUNTRY_KOR:.*\n?/g, '');
+  // 3. 필수 값 검증
+  if (!homeAnalysis || !awayAnalysis || !summary) {
+    console.error(`❌ [필수값 누락] HOME_ANALYSIS/AWAY_ANALYSIS/SUMMARY 없음: ${match.home}`);
+    return false;
+  }
 
-   const catNames = { "soccer": "축구", "basketball": "농구", "baseball": "야구", "volleyball": "배구", "hockey": "하키", "lol": "롤" };
-   const korCat = catNames[cat] || "스포츠";
-  
-  //  let 아랫줄부터 바로 위줄까지 코드 삽입으로 일단 임시로 가림
-  // const aiHomeName = match.homeNameKor || match.home || "홈팀";
-  // const aiAwayName = match.awayNameKor || match.away || "원정팀";
+  // 4. 무승부 차단 (축구 외)
+  const NO_DRAW_SPORTS = ['baseball', 'basketball', 'hockey', 'volleyball', 'lol'];
+  let finalPickWinTeam   = pickWinTeam;
+  let finalPickWinResult = pickWinResult;
+  if (cat && NO_DRAW_SPORTS.includes(cat) && pickWinTeam === '무승부') {
+    finalPickWinTeam   = pickHandicapTeam || aiHomeName;
+    finalPickWinResult = '승';
+    console.warn(`⚠️ [무승부 차단] ${cat} → '${finalPickWinTeam} 승'으로 교체`);
+  }
 
+  // 5. 핸디캡/오버언더 0.5단위 보정 함수
+  const roundToHalf = (val) => {
+    const n = parseFloat(String(val).replace('+', ''));
+    if (isNaN(n)) return null;
+    return (Math.round(n * 2) / 2).toFixed(1);
+  };
+
+  // 핸디캡 보정: 없음/미확인이면 -0.5 기본값
+  let finalHandicapValue = roundToHalf(pickHandicapValue) || '-0.5';
+  if (finalPickWinTeam && finalPickWinTeam !== '무승부' && finalPickWinTeam === pickHandicapTeam) {
+    const num = parseFloat(finalHandicapValue);
+    if (!isNaN(num) && num >= 0) finalHandicapValue = `-${Math.abs(num) || 0.5}`;
+  }
+
+  // 오버언더 보정: 없음/미확인이면 종목별 기본값
+  const ouFallback = cat === 'basketball' ? '167.5'
+    : cat === 'baseball' ? '8.5'
+    : cat === 'volleyball' ? '3.5'
+    : '2.5';
+  const finalOuValue = roundToHalf(pickOuValue) || ouFallback;
+
+  // 6. 팀명 일괄 치환 함수
+  const replaceTeamNames = (text) => {
+    if (!text) return '';
+    let result = text;
+    for (const [eng, kor] of Object.entries(TEAM_NAME_MAP)) {
+      if (!eng || !kor || eng === kor) continue;
+      const escaped = eng.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      result = result.replace(new RegExp(`(?<![a-zA-Z0-9])${escaped}(?![a-zA-Z0-9])`, 'gi'), kor);
+    }
+    return result;
+  };
+
+  const homeAnalysisKor   = replaceTeamNames(homeAnalysis);
+  const awayAnalysisKor   = replaceTeamNames(awayAnalysis);
+  const summaryKor        = replaceTeamNames(summary);
+  const finalPickWinTeamKor      = replaceTeamNames(finalPickWinTeam);
+  const finalPickHandicapTeamKor = replaceTeamNames(pickHandicapTeam);
+  const homePowerItems  = homePowerRaw ? homePowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
+  const awayPowerItems  = awayPowerRaw ? awayPowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
+  const h2hItems = (h2hRaw && h2hRaw !== '없음')
+    ? h2hRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(s => s && s !== '없음') : [];
+
+  // 7. 리그명 치환
   const datePartsForText = dateShort.split('/');
   const displayDate = `${parseInt(datePartsForText[1], 10)}월 ${parseInt(datePartsForText[2], 10)}일`;
 
-  let extractedDescOverride = '';
-  if (cleanedText.includes("DESCRIPTION:")) {
-    const descMatch = cleanedText.match(/DESCRIPTION:\s*(.*?)(?=\n|###)/s);
-    if (descMatch) {
-      extractedDescOverride = descMatch[1].trim();
-      cleanedText = cleanedText.replace(/DESCRIPTION:.*?\n/s, "").trim();
-    }
-  }
-  
-  // [강제집행 1] 본문 상단 중복 타이틀 무조건 삭제
-  // '### 🏟️ 경기 정보 요약' 앞부분에 오는 모든 텍스트(AI가 쓴 제목 등)를 통째로 지웁니다.
-  const marker = "### 🏟️";
-if (cleanedText.includes(marker)) {
-  cleanedText = cleanedText.substring(cleanedText.indexOf(marker));
-}
-
-const textParts = cleanedText.split(marker);
-if (textParts.length >= 2) {
-    cleanedText = marker + textParts[1];
-}
-
-// [추가] 영어 문장이 일정 비율 이상 포함된 줄은 삭제 (필요 시 적용)
-cleanedText = cleanedText.split('\n').filter(line => {
-    const englishCount = (line.match(/[a-zA-Z]/g) || []).length;
-    // ✅ 결장·부상 관련 줄은 선수명이 영문이어도 삭제 금지
-    if (line.includes('결장') || line.includes('부상') || line.includes('🚑') || line.includes('suspended') || line.includes('injury')) return true;
-    // 한 줄에 영문이 70% 이상이면 AI의 메모로 간주하고 삭제 (이미지 태그 제외)
-    if (englishCount > line.length * 0.7 && !line.includes('<img')) return false;
-    return true;
-}).join('\n');
-
-  // AI가 생성한 본문에 이미 "업데이트" 관련 문구가 있다면 제거 (중복 방지)
-  cleanedText = cleanedText.replace(/\(※업데이트 예정\)/g, "");
-  // 🔥 markdown 불필요 기호 정리
-  // 단독 ### 라인 제거
-  cleanedText = cleanedText.replace(/^#{1,6}\s*$/gm, "");
-  // *** 단독 라인 제거
-  cleanedText = cleanedText.replace(/^\*{3,}$/gm, "");
-  // --- 단독 라인 제거
-  cleanedText = cleanedText.replace(/^-{3,}$/gm, "");
-  // **텍스트** → 텍스트
-  cleanedText = cleanedText.replace(/\*\*(.*?)\*\*/g, "$1");
-  // __텍스트__ → 텍스트
-  cleanedText = cleanedText.replace(/__(.*?)__/g, "$1");
-   // AI가 줄바꿈을 빼먹는 경우를 대비해 섹션 타이틀 앞뒤로 빈 줄을 강제 삽입합니다.
-  cleanedText = cleanedText.replace(/### /g, "\n\n### ");
-
-  // 2. [강제집행 2] 팀명/국가명 번역 사전 (영문 차단)
-  const dict = {
-    "South Korea": "대한민국", "남한": "대한민국", "China": "중국", "Germany": "독일", "France": "프랑스", "Spain": "스페인", "Turkey": "터키", "Saudi Arabia": "사우디아라비아", "Balkans": "발칸", "Italy": "이탈리아", "Austria": "오스트리아",
-    "Poland": "폴란드", "Greece": "그리스", "Brazil": "브라질", "North America": "북미", "USA": "미국", "World": "국제", "International": "국제", "Friendly International": "국제 친선", "World": "국제", "Netherlands": "네덜란드",
-    "Great Britain": "영국", "England": "영국", "Bolivia": "볼리비아", "Iceland": "아이슬란드", "Portugal": "포르투갈", "Peru": "페루", "Mexico": "멕시코", "Colombia": "콜롬비아", "Argentina": "아르헨티나",
-    "Chile": "칠레", "Ecuador": "에콰도르", "Honduras": "온두라스", "Jamaica": "자메이카", "Puerto Rico": "푸에르토리코", "Dominican Republic": "도미니카 공화국", "Aruba": "아루바", "Japan": "일본",
-    "Philippines": "필리핀", "Russia": "러시아", "Indonesia": "인도네시아", "Slovakia": "슬로바키아", "Kazakhstan": "카자흐스탄", "Ethiopia": "에티오피아", "Azerbaijan": "아제르바이잔", "Thailand": "태국",
-    "Cambodia": "캄보디아", "Norway": "노르웨이", "Georgia": "조지아", "Vietnam": "베트남", "Australia": "호주","Hanwha Eagles": "한화 이글스","Lotte Giants": "롯데 자이언츠","KT Wiz": "KT 위즈", "Kia Tigers": "KIA 타이거즈", "Kiwoom Heroes": "키움 히어로즈",
-  };
-
-  const translate = (text) => {
-    if (!text) return "";
-    let res = text.trim();
-    for (let [eng, kor] of Object.entries(dict)) {
-      res = res.replace(new RegExp(eng, "gi"), kor);
-    }
-    return res;
-  };
-
-  
-
-  // 3. 리그명 치환 및 국가 매핑
   let leagueName = match.league || "스포츠";
   const leagueReplacements = [
-  { target: /^(Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League)$/i, replace: "P.L" },
-  { target: /^Challengers League$/i, replace: "CL" },
-  { target: /^LCK CHALLENGERS LEAGUE$/i, replace: "LCK CL" },
-  { target: /^Friendly International$/i, replace: "국제친선" },
-  { target: /^Super League$/i, replace: "SL" },
-  { target: /^Major League Soccer$/i, replace: "MLS" },
-  { target: /^African Club Championship$/i, replace: "CAF" },
-  { target: /^K League 1$/i, replace: "K1" },
-  { target: /^K League 2$/i, replace: "K2" },
-  { target: /^UEFA Champions League$/i, replace: "UEFA 챔피언스리그" },
-  { target: /^UEFA Europa League$/i, replace: "UEFA 유로파리그" },
-  { target: /^AFC ASIAN CUP$/i, replace: "AFC 아시안컵" },
-  { target: /^LCK CHALLENGERS LEAGUE ROUNDS 1-2$/i, replace: "LCK CL" },    
-  { target: /^LCK ROUNDS 1-2$/i, replace: "LCK" },
-  { target: /^Veikkausliiga$/i, replace: "D1" },
-  { target: /^Erovnuli Liga$/i, replace: "D1" },
-  { target: /^Botola Pro$/i, replace: "D1" },
-  { target: /^JUPILER PRO LEAGUE$/i, replace: "D1" },
-  { target: /^Eliteserien$/i, replace: "D1" },
-  { target: /^Premier Division$/i, replace: "D1" },
-  { target: /^Division 1$/i, replace: "D1" },
-  { target: /^2. Bundesliga$/i, replace: "분데스리가2" },
-  { target: /^Beijer Hockey Games$/i, replace: "유로 하키 투어" },
-  { target: /^B League$/i, replace: "B리그" },
-  { target: /^Serie A$/i, replace: "세리에 A" },
-  { target: /^Bundesliga$/i, replace: "분데스리가" },
-  { target: /^Primeira Liga$/i, replace: "프리메라리가" },
-  { target: /^Esports World Cup Playoffs$/i, replace: "EWC 플레이오프 " },
-  { target: /^Primera División - Apertura$/i, replace: "프리메라디비전" },
-  { target: /^LA LIGA$/i, replace: "라리가" },
-  { target: /^UEFA Europa Conference League$/i, replace: "UEFA 컨퍼런스리그" },
-  { target: /^CONMEBOL Sudamericana$/i, replace: "코파 수다메리카나" },
-  { target: /^IL$/i, replace: "트리플A-IL" },
-  { target: /^CONMEBOL Libertadores$/i, replace: "코파 리베르타도레스" },
-  { target: /^NBA W$/i, replace: "WNBA" },
-  { target: /^Nations League Women$/i, replace: "네이션스리그(W)" },
-  { target: /^Nations League$/i, replace: "네이션스리그" },
-  { target: /^European League Women$/i, replace: "유러피언리그(W)" },
-  { target: /^European League$/i, replace: "유러피언리그" },
-  { target: /^World Cup - Women - Qualification Europe$/i, replace: "월드컵 예선(W)" },
-  { target: /^World Cup - Women$/i, replace: "월드컵 (W)" },
-  { target: /^Friendlies$/i, replace: "국제친선" },
-  { target: /^World Cup$/i, replace: "FIFA 월드컵" },
-        
+    { target: /^(Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League)$/i, replace: "P.L" },
+    { target: /^Challengers League$/i, replace: "CL" },
+    { target: /^LCK CHALLENGERS LEAGUE$/i, replace: "LCK CL" },
+    { target: /^Friendly International$/i, replace: "국제친선" },
+    { target: /^Super League$/i, replace: "SL" },
+    { target: /^Major League Soccer$/i, replace: "MLS" },
+    { target: /^African Club Championship$/i, replace: "CAF" },
+    { target: /^K League 1$/i, replace: "K1" },
+    { target: /^K League 2$/i, replace: "K2" },
+    { target: /^UEFA Champions League$/i, replace: "UEFA 챔피언스리그" },
+    { target: /^UEFA Europa League$/i, replace: "UEFA 유로파리그" },
+    { target: /^AFC ASIAN CUP$/i, replace: "AFC 아시안컵" },
+    { target: /^LCK CHALLENGERS LEAGUE ROUNDS 1-2$/i, replace: "LCK CL" },
+    { target: /^LCK ROUNDS 1-2$/i, replace: "LCK" },
+    { target: /^JUPILER PRO LEAGUE$/i, replace: "D1" },
+    { target: /^Premier Division$/i, replace: "D1" },
+    { target: /^Division 1$/i, replace: "D1" },
+    { target: /^2. Bundesliga$/i, replace: "분데스리가2" },
+    { target: /^Beijer Hockey Games$/i, replace: "유로 하키 투어" },
+    { target: /^B League$/i, replace: "B리그" },
+    { target: /^Serie A$/i, replace: "세리에 A" },
+    { target: /^Bundesliga$/i, replace: "분데스리가" },
+    { target: /^Primeira Liga$/i, replace: "프리메라리가" },
+    { target: /^Esports World Cup Playoffs$/i, replace: "EWC 플레이오프" },
+    { target: /^Primera División - Apertura$/i, replace: "프리메라디비전" },
+    { target: /^LA LIGA$/i, replace: "라리가" },
+    { target: /^Segunda División$/i, replace: "라리가2" },
+    { target: /^UEFA Europa Conference League$/i, replace: "UEFA 컨퍼런스리그" },
+    { target: /^CONMEBOL Sudamericana$/i, replace: "코파 수다메리카나" },
+    { target: /^IL$/i, replace: "트리플A-IL" },
+    { target: /^CONMEBOL Libertadores$/i, replace: "코파 리베르타도레스" },
+    { target: /^NBA W$/i, replace: "WNBA" },
+    { target: /^Nations League Women$/i, replace: "네이션스리그(W)" },
+    { target: /^Nations League$/i, replace: "네이션스리그" },
+    { target: /^World Cup - Women - Qualification Europe$/i, replace: "월드컵 예선(W)" },
+    { target: /^World Cup - Women$/i, replace: "월드컵 (W)" },
+    { target: /^Friendlies$/i, replace: "국제친선" },
+    { target: /^World Cup$/i, replace: "FIFA 월드컵" },
   ];
   leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
-    
-  // 국가명 강제
-  let countryRaw = (match.country || "").toUpperCase();
 
-  // 특정 리그 전용 국가명 설정 (비교를 위해 키값을 반드시 '대문자'로 작성하세요)
+  // 8. 국가명 결정
   const leagueCountryOverrides = {
-    "OFC PRO LEAGUE": "오세아니아",
-    "AFC CHAMPIONS LEAGUE": "아시아",
-    "UEFA CHAMPIONS LEAGUE": "유럽",
-    "UEFA Europa League": "유럽",
-    "LEC": "유럽",
-    "K LEAGUE 1": "대한민국",
-    "CONMEBOL LIBERTADORES": "남미",
-    "FRIENDLY INTERNATIONAL": "국제",
-    "INTERNATIONAL FRIENDLY": "국제",
-    "CPBL": "대만",
-    "KBO": "대한민국",
-    "CONCACAF CHAMPIONS LEAGUE": "북중미",
-    "ESPORTS WORLD CUP PLAYOFFS": "국제",
-    "ESPORTS WORLD CUP": "국제",
-    "WORLD CHAMPIONSHIP": "국제",
-    "KHL": "러시아",
-    "NHL": "미국",
-    "ASIA CHAMPIONS LEAGUE": "국제",
-    "EUROPE": "유럽",
-    "LCS": "북미",
-    "CONMEBOL SUDAMERICANA": "남미",
-    "IL": "미국",
-    "NATIONS LEAGUE WOMEN": "국제",
-    "NATIONS LEAGUE": "국제",
-    "EUROPEAN LEAGUE WOMEN": "유럽",
-    "EUROPEAN LEAGUE": "유럽",
+    "OFC PRO LEAGUE": "오세아니아", "AFC CHAMPIONS LEAGUE": "아시아",
+    "UEFA CHAMPIONS LEAGUE": "유럽", "UEFA Europa League": "유럽", "LEC": "유럽",
+    "K LEAGUE 1": "대한민국", "CONMEBOL LIBERTADORES": "남미",
+    "FRIENDLY INTERNATIONAL": "국제", "INTERNATIONAL FRIENDLY": "국제",
+    "CPBL": "대만", "KBO": "대한민국", "CONCACAF CHAMPIONS LEAGUE": "북중미",
+    "ESPORTS WORLD CUP PLAYOFFS": "국제", "ESPORTS WORLD CUP": "국제",
+    "WORLD CHAMPIONSHIP": "국제", "KHL": "러시아", "NHL": "미국",
+    "ASIA CHAMPIONS LEAGUE": "국제", "EUROPE": "유럽", "LCS": "북미",
+    "CONMEBOL SUDAMERICANA": "남미", "IL": "미국",
+    "NATIONS LEAGUE WOMEN": "국제", "NATIONS LEAGUE": "국제",
+    "EUROPEAN LEAGUE WOMEN": "유럽", "EUROPEAN LEAGUE": "유럽",
     "WORLD CUP - WOMEN - QUALIFICATION EUROPE": "국제",
-    "FRIENDLIES": "국제",
-    "ASEAN CHAMPIONSHIP": "국제",
-    "EROVNULI LIGA": "조지아",
-  
+    "FRIENDLIES": "국제", "ASEAN CHAMPIONSHIP": "국제",
   };
-
-  const countryMap = {
-  "INTERNATIONAL": "국제",
-  "WORLD": "국제",
-  "World": "국제",
-  "Saudi-Arabia": "사우디아라비아",
-  "SAUDI-ARABIA": "사우디아라비아",
-  "Friendly International": "국제친선"
-};
-
-let country;
-  // 입력받은 원본 리그명(match.league)을 대문자로 변환하여 비교 (대소문자 무관 처리)
   const upperLeagueName = (match.league || "").toUpperCase();
+  let country = leagueCountryOverrides[upperLeagueName]
+    || (["WORLD","INTERNATIONAL"].includes(match.country?.toUpperCase()) ? "국제" : null)
+    || COUNTRY_MAP[match.country] || match.country;
+  if (['MLB','NBA','NHL','MLS'].some(lg => leagueName.toUpperCase().includes(lg))) country = "미국";
+  if (['KBO','KBL','V-LEAGUE','LCK'].some(lg => leagueName.toUpperCase().includes(lg))) country = "대한민국";
 
-  // [최우선] 특정 리그 예외 조건 확인
-  if (leagueCountryOverrides[upperLeagueName]) {
-    country = leagueCountryOverrides[upperLeagueName];
-  } 
-  // [2순위] 원본 데이터가 WORLD나 INTERNATIONAL인 경우
-  else if (["WORLD", "INTERNATIONAL"].includes(match.country?.toUpperCase())) {
-    country = "국제";
-  } 
-  // [3순위] 그 외에는 AI 번역값이나 기존 데이터 사용
-  else {
-    country = aiCountryName || match.countryKor || match.country;
-  }
+  // 9. 메타 정보
+  const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;
+  const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName;
+  const extractedDesc = `${descHomeName} vs ${descAwayName} ${displayDate} ${leagueName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
+  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석 및 승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
+  const safeHomeNameForSlug = getSafeLogoName(match.home);
 
-  // 4순위: 만약 AI 번역값이 영어이거나 없을 경우 기본값/매핑값 사용
-  if (!country || /^[a-zA-Z\s]+$/.test(country)) {
-      country = countryMap[countryRaw] || match.countryKor || match.country;
-  }
-  
-  if (['MLB', 'NBA', 'NHL', 'MLS'].some(lg => leagueName.toUpperCase().includes(lg))) country = "미국";
-  if (['KBO', 'KBL', 'V-LEAGUE', 'LCK'].some(lg => leagueName.toUpperCase().includes(lg))) country = "대한민국";
-  if (leagueName.includes("영국") || aiHomeName.includes("영국")) country = "영국";
-  if (leagueName.includes("이탈리아") || aiHomeName.includes("이탈리아")) country = "이탈리아";
+  // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
+  const homeRecentJson = JSON.stringify(homeRecentMatches.map(m => ({
+    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
+    home: TEAM_NAME_MAP[m.home] || m.home,
+    away: TEAM_NAME_MAP[m.away] || m.away,
+    score: (m.homeScore !== null && m.awayScore !== null) ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
+    result: (() => {
+      const isHomeTeam = m.home === match.home;
+      const my = isHomeTeam ? Number(m.homeScore) : Number(m.awayScore);
+      const op = isHomeTeam ? Number(m.awayScore) : Number(m.homeScore);
+      return my > op ? '🟢승' : my < op ? '🔴패' : '🟡무';
+    })()
+  })));
 
-  // 5. [강제집행] 본문 내 영문 팀명 전역 치환 (본문 읽기 편하게) (팀명이 자꾸 영어로 번역되서 임시로 가림)
-  // cleanedText = cleanedText.replace(new RegExp(match.home, 'gi'), aiHomeName);
-  // cleanedText = cleanedText.replace(new RegExp(match.away, 'gi'), aiAwayName);
-
-  // 6. 기존 AI가 생성한 경기 정보 요약 섹션 제거 (슬러그 파일에서 카드로 대체)
-cleanedText = cleanedText
-  .replace(/###\s*🏟️\s*경기 정보 요약[\s\S]*?(?=###|$)/g, "")
-  .replace(/🏟️\s*경기 정보 요약[\s\S]*?(?=###|⚔️|📝|🎯)/g, "")
-  .replace(/날짜:\s*.*\n[\s\S]*?(?=\n\n[가-힣]|\n###)/g, "")
-  .trim();
-
- // "📋 최근 경기" 이후 각 경기 줄을 불렛 포인트로 강제 변환
-cleanedText = cleanedText.replace(
-  /(📋 최근 경기)(<br>)?\n([\s\S]*?)(\n\n|###|$)/g,
-  (_, header, br, body, ending) => {
-    const fixedBody = body
-      .split('\n')
-      .map(line => {
-        const trimmed = line.trim();
-        if (!trimmed) return '';
-        // ✅ 내용 없이 * 또는 - 만 단독으로 있는 줄 제거
-        if (/^[*\-]+$/.test(trimmed)) return '';
-        // 이미 * 로 시작하면 그대로, 아니면 * 추가하고 기존 <br> 제거
-        if (trimmed.startsWith('* ')) return trimmed.replace(/<br>$/, '');
-        return `* ${trimmed.replace(/<br>$/, '')}`;
-      })
-      .filter(Boolean)
-      .join('\n');
-    return `${header}\n${fixedBody}\n${ending}`;
-  }
-);
-
-// ✅ 본문 전체에서 내용 없이 * 또는 - 만 단독으로 있는 줄 제거
-cleanedText = cleanedText.split('\n').filter(line => !/^\s*[*\-]\s*$/.test(line)).join('\n');
-
-// 본문 시작 전 불필요한 빈 줄 정리
-cleanedText = cleanedText.replace(/^\n+/, '').trim();
-
-  // 9. 추천 픽 표 정제 - 미스트랄 예외 완벽 방어
-if (cleanedText && cleanedText.includes('🎯 추천 픽')) {
-  let parts = cleanedText.split(/🎯 추천 픽|### 🎯 추천 픽/);
-
-  // 🔥 여기 추가된 핵심 방어
-  if (!Array.isArray(parts) || parts.length < 2) {
-    console.warn("⚠️ 추천 픽 파싱 불가: 구조 이상");
-  } else {
-    let pickBody = parts[parts.length - 1]?.trim() || "";
-
-    const rows = pickBody.split('\n')
-  .map(line => line.trim())
-  .filter(line =>
-    line &&
-    line.includes('|') &&
-    !line.includes(':---') &&
-    (
-      line.includes('승무패') ||
-      line.includes('핸디캡') ||
-      line.includes('O/U')
-    )
-  );
-
-if (rows.length >= 3) {
-  const emptyHeader = "| | | |\n|---|---:|---:|";
-
-  const cleanRows = rows
-    .map(r => r.replace(/\|+/g, "|"))
-    .join('\n');
-
-  pickBody = emptyHeader + "\n" + cleanRows;
-}
-
-    cleanedText = parts[0].trim() + "\n\n### 🎯 추천 픽\n\n" + pickBody;
-  }
-}
-
-  // 10. 제목 및 저장
-  const dateParts = dateShort.split('/');
-  const seoDateTag = dateParts.length === 3 ? `${parseInt(dateParts[1], 10)}월${parseInt(dateParts[2], 10)}일` : '오늘';
-
-  // ✅ TEAM_NAME_MAP 참조해서 한글팀명으로 디스크립션 생성
-  const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName || match.home;
-  const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName || match.away;
-  const extractedDesc = extractedDescOverride ||
-    `${displayDate} ${country || ''} ${leagueName || ''} ${descHomeName} 대 ${descAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요.`;
-
-  const finalTitle = `${aiHomeName} 대 ${aiAwayName} 경기분석 및 승부예측 (${displayDate}) | ${country} ${leagueName} - 픽천국`;
-    // 본문 내부에 AI가 임의로 작성한 제목 행(26/05/01... 분석)이 중복 노출되지 않도록 제거
-  cleanedText = cleanedText.replace(new RegExp(`${dateShort}.*?분석`, 'g'), '').trim();
-
-  // 섹션별 HTML 위젯 카드 변환 (Astro 마크다운은 HTML을 그대로 렌더링)
-  cleanedText = wrapSectionsAsWidgets(cleanedText, match.homeLogo, match.awayLogo, match.home, match.away, aiHomeName, aiAwayName);
-
-  const footer = `\n<div align="center">\n<p><b>© 픽천국(Pick Heaven)</b></p>\n<p>- 참고용으로 제공되는 스포츠분석이며, 결과에 책임지지 않습니다 -</p>\n</div>\n<hr style="border:none;border-top:1px solid #e9ecef;margin:16px 0 0 0;">`;
-
- // 팀명을 포함하여 고유성을 보장 (safeHomeName 활용)
-const safeHomeNameForSlug = getSafeLogoName(match.home); 
-
-// ✅ [검증 4] 필수 섹션 완전성 검사 - 저장 직전 최종 관문
-const requiredSections = ['분석', '⚔️', '📝', '🎯'];
-const missingSections = requiredSections.filter(s => !cleanedText.includes(s));
-if (missingSections.length > 0) {
-  console.error(`❌ [구조 불완전] 누락 섹션 감지 (${missingSections.join(', ')}): ${match.home} vs ${match.away}`);
-  return false; // 
-}
+  const awayRecentJson = JSON.stringify(awayRecentMatches.map(m => ({
+    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
+    home: TEAM_NAME_MAP[m.home] || m.home,
+    away: TEAM_NAME_MAP[m.away] || m.away,
+    score: (m.homeScore !== null && m.awayScore !== null) ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
+    result: (() => {
+      const isHomeTeam = m.home === match.away;
+      const my = isHomeTeam ? Number(m.homeScore) : Number(m.awayScore);
+      const op = isHomeTeam ? Number(m.awayScore) : Number(m.homeScore);
+      return my > op ? '🟢승' : my < op ? '🔴패' : '🟡무';
+    })()
+  })));
 
 const content = `---
 title: "${finalTitle}"
@@ -1286,385 +975,30 @@ country: "${country}"
 league: "${leagueName}"
 homeTeam: "${aiHomeName}"
 awayTeam: "${aiAwayName}"
-homeLogo: "${match.homeLogo}"
-awayLogo: "${match.awayLogo}"
+homeLogo: "${match.homeLogo || ''}"
+awayLogo: "${match.awayLogo || ''}"
+homeAnalysis: "${homeAnalysisKor.replace(/"/g, "'")}"
+awayAnalysis: "${awayAnalysisKor.replace(/"/g, "'")}"
+homePower: "${homePowerItems.join('|').replace(/"/g, "'")}"
+awayPower: "${awayPowerItems.join('|').replace(/"/g, "'")}"
+h2h: "${h2hItems.join('|').replace(/"/g, "'")}"
+summary: "${summaryKor.replace(/"/g, "'")}"
+homeRecent: '${homeRecentJson.replace(/'/g, "\\'")}'
+awayRecent: '${awayRecentJson.replace(/'/g, "\\'")}'
+injuryHome: "${injuryHome.replace(/"/g, "'")}"
+injuryAway: "${injuryAway.replace(/"/g, "'")}"
+pickWinTeam: "${finalPickWinTeamKor}"
+pickWinResult: "${finalPickWinResult}"
+pickHandicapTeam: "${finalPickHandicapTeamKor}"
+pickHandicapValue: "${finalHandicapValue}"
+pickOuDirection: "${pickOuDirection}"
+pickOuValue: "${finalOuValue}"
 ---
-
-${cleanedText}${footer}`;
+`;
 
   fs.writeFileSync(savePath, content, 'utf8');
   console.log(`✅ [저장성공] ${finalTitle}`);
   return true;
-}
-
-function wrapSectionsAsWidgets(text, homeLogo, awayLogo, homeEng, awayEng, homeKor, awayKor) {
-  // 섹션 정의: h3 텍스트에 포함된 키워드 → 헤더 라벨 + 색상
-  const SECTION_DEFS = [
-    { keyword: '⚡',  label: '⚡ 팀별 핵심 전력 분석', color: '#e67700', custom: 'power' },
-    { keyword: '⚔️',  label: '⚔️ 상대 전적', color: '#1098ad' },
-    { keyword: '📝',  label: '📝 종합 분석', color: '#7048e8' },
-    { keyword: '🎯',  label: '🎯 추천 픽',   color: '#2f9e44' },
-  ];
-
-  // ### 기준으로 섹션 분리 (첫 번째 빈 앞부분도 보존)
-  const sectionRegex = /(^|\n)(### .+)/g;
-  const parts = [];
-  let lastIndex = 0;
-  let match;
-
-  while ((match = sectionRegex.exec(text)) !== null) {
-    if (match.index > lastIndex) {
-      parts.push({ type: 'raw', content: text.slice(lastIndex, match.index) });
-    }
-    parts.push({ type: 'h3', title: match[2], startIndex: match.index + match[1].length });
-    lastIndex = match.index + match[0].length;
-  }
-  if (lastIndex < text.length) {
-    parts.push({ type: 'raw', content: text.slice(lastIndex) });
-  }
-
-  // 섹션 단위로 재조합: h3 다음에 오는 raw 블록까지 묶어서 처리
-  const result = [];
-  for (let i = 0; i < parts.length; i++) {
-    const part = parts[i];
-
-    if (part.type !== 'h3') {
-      result.push(part.content);
-      continue;
-    }
-
-    const title = part.title; // "### <img...> 사우디아라비아 분석" 등
-    const body = (parts[i + 1]?.type === 'raw') ? parts[++i].content : '';
-
-    // ── 팀 분석 섹션: "분석" 포함, 종합/🏟️ 제외
-    const isTeamAnalysis = title.includes('분석') && !title.includes('종합') && !title.includes('🏟️') && !title.includes('⚡') && !title.includes('핵심 전력');
-
-    if (isTeamAnalysis) {
-      // 홈팀/원정팀 판별 → 로고 결정
-      const isHome = !result.some(r => typeof r === 'string' && r.includes('section-widget'));
-      const logoUrl = isHome ? homeLogo : awayLogo;
-      const logoTag = logoUrl ? `<img src="${logoUrl}" width="24" height="24" style="vertical-align:middle;margin-right:6px;">` : '';
-
-      // '최근 전력 분석' 또는 '분석' 앞에서 팀명만 추출
-      const teamNameMatch = title.match(/>\s*(.+?)\s*(?:최근 전력 분석|분석)/) || title.match(/###\s*(.+?)\s*(?:최근 전력 분석|분석)/);
-      const teamName = teamNameMatch ? teamNameMatch[1].trim() : '팀';
-      const teamLabel = `${logoTag}${teamName} 최근 전력 분석`;  // ← 라벨도 통일
-
-      // 📋 최근 경기 기준으로 분석 본문 / 최근경기 분리
-      const recentIdx = body.indexOf('📋 최근 경기');
-
-      // body에서 "📋 최근 경기" 헤더 텍스트 제거
-      const cleanRecent = (str) => {
-        let s = str.replace(/^📋\s*최근 경기(<br>)?\s*/m, '').trim();
-        // 홈/원정팀 영문명 → 한글 치환
-        if (homeEng && homeKor) s = s.replace(new RegExp(homeEng.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'), homeKor);
-        if (awayEng && awayKor) s = s.replace(new RegExp(awayEng.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'), awayKor);
-        // TEAM_NAME_MAP 전체 참조해서 나머지 영문 팀명도 한글로 치환
-        for (const [eng, kor] of Object.entries(TEAM_NAME_MAP)) {
-          if (!eng) continue;
-          s = s.replace(new RegExp(eng.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'), kor);
-        }
-        return s;
-      };
-
-      const teamColor = isHome ? '#e03131' : '#228be6';
-
-      if (recentIdx !== -1) {
-      const analysisPart = body.slice(0, recentIdx).trim();
-      const recentPart   = cleanRecent(body.slice(recentIdx).trim());
-      result.push(makeWidget(teamLabel, teamColor, analysisPart));
-      result.push('\n');
-      result.push(makeWidget(`📋 ${teamName} 최근 경기`, '#868e96', recentPart));
-     } else {
-      result.push(makeWidget(teamLabel, teamColor, body.trim()));
-     }
-      continue;
-    }
-
-    // ── 나머지 섹션 (⚔️ 상대전적, 📝 종합분석, 🎯 추천 픽) — ### 제목 제거하고 body만 넘김
-    const def = SECTION_DEFS.find(d => title.includes(d.keyword));
-    if (def) {
-      if (def.custom === 'power') {
-        result.push(makePowerWidget(def.label, def.color, body.trim()));
-      } else if (def.keyword === '🎯') {
-        result.push(makePickWidget(body.trim()));
-      } else {
-        let widgetBody = body.trim();
-        // ⚔️ 상대전적: 실제 날짜 포함 전적이 있으면 '※ 최근 공식...' 문구 제거
-        if (def.keyword === '⚔️') {
-          const hasRealRecord = /\d{2,4}[\/\.\-년]\d{1,2}[\/\.\-월]\d{1,2}/.test(widgetBody);
-          if (hasRealRecord) {
-            widgetBody = widgetBody.replace(/※\s*최근\s*공식\s*맞대결\s*기록\s*없음[^\n]*/g, '').trim();
-          }
-        }
-        result.push(makeWidget(def.label, def.color, widgetBody));
-      }
-      continue;
-    }
-
-    // ── 매칭 없는 섹션은 그대로
-    result.push(`${title}\n${body}`);
-  }
-
-  return result.join('\n');
-}
-
-// ✅ wrapSectionsAsWidgets 바깥으로 이동 (strict mode 중첩 선언 오류 방지)
-function makePickWidget(body) {
-  let rows = body.split('\n')
-    .map(l => l.trim())
-    .filter(l => l.includes('|') && !l.includes(':---') && !l.includes('---') && !l.match(/^\|?\s*\|?\s*\|?\s*\|?\s*$/));
-
-  // fallback 1: "승무패: 팀명 승" 한 줄 형식
-  if (rows.length === 0) {
-    rows = body.split('\n')
-      .map(l => l.trim())
-      .map(l => l
-        .replace(/^오버언더/, 'O/U')
-        .replace(/^오버\/언더/, 'O/U')
-        .replace(/^오버\s/, 'O/U 오버 ')
-        .replace(/^언더\s/, 'O/U 언더 ')
-        .replace(/^무승부$/, 'DRAW')
-      )
-      .filter(l => /^(승무패|핸디캡|O\/U)/.test(l));
-  }
-
-  // fallback 2: 라벨/팀명/값이 각각 별도 줄로 분리된 형식
-  if (rows.length === 0) {
-    const labels = ['승무패', '핸디캡', 'O/U'];
-    const lines = body.split('\n').map(l => l.trim()).filter(Boolean);
-    const assembled = [];
-    for (let i = 0; i < lines.length; i++) {
-      if (labels.includes(lines[i])) {
-        const team  = lines[i + 1] || '';
-        const value = lines[i + 2] || '';
-        // team이 다음 라벨이면 값이 없는 경우
-        if (!labels.includes(team)) {
-          assembled.push(`| ${lines[i]} | ${team} | ${value} |`);
-          i += 2;
-        } else {
-          assembled.push(`| ${lines[i]} | | |`);
-        }
-      }
-    }
-    rows = assembled;
-  }
-
-  const parsed = rows.map(row => {
-    // '|' 형식이면 파이프로 분리, 아니면 ':' 기준으로 라벨/나머지 분리 후 공백으로 추가 분리
-    let cells;
-    if (row.includes('|')) {
-      cells = row.split('|').map(c => c.trim()).filter(Boolean);
-    } else {
-      const m = row.match(
-  /^(승무패|핸디캡|O\/U|오버언더)\s*[:：]?\s*(.+)$/
-);
-if (m && m[1] === '오버언더') {
-  m[1] = 'O/U';
-}
-      if (m) {
-        const rest = m[2].trim().split(/\s+/);
-        let team, value;
-        if (rest.length === 1) {
-          // "승무패 무승부" 또는 "O/U 오버" 처럼 결과값만 있는 경우
-          team = '';
-          value = rest[0];
-        } else {
-          value = rest.pop();
-          team = rest.join(' ');
-        }
-        cells = [m[1], team, value].filter(c => c !== '');
-        if (cells.length < 2) cells = []; // 최소 라벨+값은 있어야 함
-      } else {
-        cells = [];
-      }
-    }
-    return cells;
-  }).filter(cells => cells.length >= 2);
-
-  // 핸디캡 부호 자동 보정: 승무패 추천팀 = 핸디캡 추천팀이면 마이너스여야 함
-const winPick = parsed.find(c => c[0] === '승무패');
-const handicapPick = parsed.find(c => c[0] === '핸디캡');
-if (winPick && handicapPick) {
-  const winTeam = (winPick[1] || '').trim();
-  const hTeam   = (handicapPick[1] || '').trim();
-  const hValue  = (handicapPick[2] || '').trim();
-  // 승리 추천팀 = 핸디캡 팀인데 수치가 양수이면 음수로 교정
-  if (winTeam && winTeam !== '무승부' && winTeam === hTeam) {
-    const num = parseFloat(hValue.replace('+', ''));
-    if (!isNaN(num) && num > 0) {
-      handicapPick[2] = `-${num}`;
-    }
-  }
-  // 승무패가 무승부인데 핸디캡 수치가 1.5 이상이면 0.5로 교정
-  if (winTeam === '무승부') {
-    const num = parseFloat(hValue.replace(/[+\-]/, ''));
-    if (!isNaN(num) && num >= 1.5) {
-      handicapPick[2] = '0.5';
-    }
-  }
-}
-
-  // ✅ SVG 인라인 아이콘으로 교체 (외부 CSS 의존 제거)
-  const icons = {
-    '승무패': `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>`,
-    '핸디캡': `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>`,
-    'O/U':   `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>`,
-  };
-  const colors = { '승무패': '#2f9e44', '핸디캡': '#1971c2', 'O/U': '#e67700' };
-
-  const items = parsed.map(cells => {
-    const label = cells[0] || '';
-    const team  = cells[1] || '';
-    const value = cells[2] || '';
-    const icon  = icons[label] || '•';
-    const color = colors[label] || '#868e96';
-    return `<div style="display:flex;align-items:center;padding:14px 18px;border-bottom:1px solid #f0f0f0;">
-  <div style="width:38px;height:38px;border-radius:50%;background:${color};display:flex;align-items:center;justify-content:center;flex-shrink:0;">${icon}</div>
-  <div style="margin-left:14px;flex:1;">
-    <div style="font-size:0.72rem;color:#868e96;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;">${label}</div>
-    <div style="font-size:0.92rem;color:#222;font-weight:700;margin-top:3px;">${team}</div>
-  </div>
-  <div style="font-size:1.15rem;font-weight:800;color:${color};">${value}</div>
-</div>`;
-  }).join('');
-
-  return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">
-<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#2f9e44;background-image:linear-gradient(180deg,#2f9e44 0%,#0ca678 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">🎯 추천 픽</h2>
-<div style="background:#fff;">${items}</div>
-</div>`;
-}
-
-function makeWidget(label, color, innerMarkdown) {
-  const GRAD_MAP = {
-    '#e03131': '#c2255c',
-    '#228be6': '#1098ad',
-    '#868e96': '#495057',
-    '#1098ad': '#0c8599',
-    '#7048e8': '#4c6ef5',
-    '#2f9e44': '#0ca678',
-  };
-  const colorDark = (c) => GRAD_MAP[c] || c;
-  // 경기 줄 패턴: "YY/MM/DD 팀A vs 팀B" 또는 "YYYY.MM.DD - 팀A" 형태
-  const isMatchLine = (str) => /\d{2,4}[\/\.\-]\d{1,2}[\/\.\-]\d{1,2}/.test(str);
-
-  const converted = innerMarkdown.trim()
-    .replace(/<br>\s*<br>/gi, '')   // <br><br> 제거
-    .replace(/<br>\s*$/gim, '')     // 줄 끝 <br> 제거
-    .split('\n').map((line, idx, arr) => {
-    // ✅ 내용 없이 * 또는 - 만 단독으로 있는 줄은 HTML 변환 전에 제거
-    if (/^\s*[*\-]+\s*$/.test(line)) return '';
-    const m = line.match(/^[*-]\s+(.+)/);
-    if (!m) {
-      const trimmed = line.trim();
-      if (!trimmed) return line; // 빈 줄은 그대로
-      // 경기 줄(날짜 포함)이고 이전에 같은 패턴 줄이 있으면 구분선 추가
-      if (isMatchLine(line) && idx > 0 && arr.slice(0, idx).some(l => isMatchLine(l))) {
-        return `<hr style="border:none;border-top:1px solid #e9ecef;margin:8px 0;">${line}`;
-      }
-      // 일반 텍스트 줄(분석 본문)이고 이전에 내용 있는 줄이 있으면 구분선 추가
-      const prevContentLines = arr.slice(0, idx).filter(l => l.trim() && !/^\s*[*\-]+\s*$/.test(l) && !l.match(/^[*-]\s+/));
-      if (prevContentLines.length > 0) {
-        return `<hr style="border:none;border-top:1px solid #f0f0f0;margin:8px 0;">${line}`;
-      }
-      return line;
-    }
-    const text = m[1].replace(/<br>$/, '').trim();
-    if (!text) return ''; // 내용 없는 빈 * 제거
-    // 불렛 경기 줄이고 이전에 같은 패턴 불렛이 있으면 구분선 추가
-    const prevMatchBullets = arr.slice(0, idx).filter(l => {
-      const bm = l.match(/^[*-]\s+(.+)/);
-      return bm && isMatchLine(bm[1]);
-    });
-    const divider = (isMatchLine(text) && prevMatchBullets.length > 0)
-      ? `<hr style="border:none;border-top:1px solid #e9ecef;margin:6px 0;">`
-      : '';
-    return `${divider}<div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:7px;font-size:0.9rem;line-height:1.6;"><span style="display:inline-block;min-width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${text}</span></div>`;
-  }).join('\n');
-
-  return [
-    `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">`,
-    `<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:${color};background-image:linear-gradient(180deg,${color} 0%,${colorDark(color)} 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">${label}</h2>`,
-    `<div class="section-widget-body" style="padding:16px 18px;background:#fff;">`,
-    ``,
-    converted,
-    ``,
-    `</div>`,
-    `</div>`,
-  ].join('\n');
-}
-
-function makePowerWidget(label, color, body) {
-  const lines = body.trim().split('\n');
-  let homeName = '홈팀', awayName = '원정팀';
-  let homeLines = [], awayLines = [];
-  let phase = 0; // 0=홈팀명 찾는 중, 1=홈불렛, 2=원정팀명 찾는 중, 3=원정불렛
-
-  // ✅ 팀명 정제 함수: 마크다운 기호(##, **, [], 이모지 등) 모두 제거, 언어 무관하게 동작
-  const cleanTeamName = (str) => str
-    .replace(/^#+\s*/g, '')       // ## 제거
-    .replace(/\*+/g, '')          // ** 제거
-    .replace(/[\[\]]/g, '')       // [] 제거
-    .replace(/[🔴🔵●▶◀★☆]/gu, '') // 이모지 제거
-    .replace(/\s+/g, ' ')         // 연속 공백 정리
-    .trim();
-
-  // ✅ 구분선 감지: ---, - - -, ──, **** 등 다양한 형태 모두 감지
-  const isSeparatorLine = (str) => /^[-─━—\s*]{3,}$/.test(str) && !/[a-zA-Z가-힣]/.test(str);
-
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (!trimmed) continue;
-    const isBullet = /^[-*]\s+\S/.test(trimmed); // ✅ * 뒤에 내용 있어야 불렛으로 인정
-    const isSeparator = isSeparatorLine(trimmed);
-
-    if (phase === 0) {
-      // ✅ 구분선은 팀명으로 잡지 않음
-      if (!isBullet && !isSeparator) {
-        homeName = cleanTeamName(trimmed);
-        phase = 1;
-      }
-    } else if (phase === 1) {
-      if (isSeparator) { phase = 2; }
-      else if (isBullet) { homeLines.push(trimmed); }
-      // ✅ 불렛이 1개 이상 쌓인 후 비불렛 텍스트 → 원정팀명으로 전환
-      else if (!isBullet && !isSeparator && homeLines.length > 0) {
-        awayName = cleanTeamName(trimmed);
-        phase = 3;
-      }
-    } else if (phase === 2) {
-      if (!isBullet && !isSeparator) {
-        awayName = cleanTeamName(trimmed);
-        phase = 3;
-      }
-    } else if (phase === 3) {
-      if (isBullet) awayLines.push(trimmed);
-    }
-  }
-
-  // 각 팀 불렛 추출
-  const sections = [homeLines.join('\n'), awayLines.join('\n')];
-  const extractBullets = (str) =>
-    (str.match(/^[-*]\s*.+/gm) || [])
-      .map(b => `<li style="margin-bottom:8px;padding-left:4px;display:flex;align-items:flex-start;gap:6px;"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#adb5bd;margin-top:6px;flex-shrink:0;"></span><span>${b.replace(/^[-*]\s*/, '')}</span></li>`)
-      .join('');
-
-  const homeBullets = extractBullets(sections[0] || '');
-  const awayBullets = extractBullets(sections[1] || '');
-
-  return `<div class="section-widget" style="border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden;">
-<h2 class="section-widget-header" style="display:flex;align-items:center;gap:8px;padding:10px 16px;background:#e67700;background-image:linear-gradient(180deg,#e67700 0%,#d9480f 100%);color:#fff;font-weight:700;font-size:0.95rem;margin:0;">⚡ 팀별 핵심 전력 분석</h2>
-<div style="display:flex;background:#fff;flex-wrap:wrap;">
-<div style="flex:1;min-width:240px;padding:20px 18px;border-right:1px solid #f0f0f0;box-sizing:border-box;">
-<h3 style="color:#e03131;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #e03131;">${homeName}</h3>
-<ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${homeBullets}</ul>
-</div>
-<div style="flex:1;min-width:240px;padding:20px 18px;box-sizing:border-box;">
-<h3 style="color:#1971c2;font-weight:700;font-size:0.95rem;margin:0 0 12px 0;padding-bottom:8px;border-bottom:2px solid #1971c2;">${awayName}</h3>
-<ul style="margin:0;padding-left:0;list-style:none;font-size:0.88rem;line-height:1.7;color:#333;">${awayBullets}</ul>
-</div>
-</div>
-</div>`;
 }
 
 analyzeMatches();
