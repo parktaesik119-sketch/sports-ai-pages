@@ -114,6 +114,24 @@ const hasInjury = !!(
   (injuryHome && injuryHome !== '없음') ||
   (injuryAway && injuryAway !== '없음')
 );
+function parseInjury(str: string): string[] {
+  if (!str || str === '없음') return [];
+  const result: string[] = [];
+  const cp = String.fromCharCode(41);
+  const parts = str.split('|');
+  for (const part of parts) {
+    const trimmed = part.trim();
+    if (!trimmed) continue;
+    const subparts = trimmed.split(cp + ', ');
+    for (let i = 0; i < subparts.length; i++) {
+      const s = i < subparts.length - 1 ? subparts[i] + cp : subparts[i];
+      if (s.trim()) result.push(s.trim());
+    }
+  }
+  return result;
+}
+const injuryHomeItems = parseInjury(injuryHome);
+const injuryAwayItems = parseInjury(injuryAway);
 
 // 추천 픽
 const pickWinTeam       = item.data.pickWinTeam?.trim()       || '';
@@ -263,26 +281,26 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
     </div>
   )}
 
-  <!-- 결장/부상 현황 -->
+<!-- 결장/부상 현황 -->
   {hasInjury && (
     <div class="injury-widget">
       <div class="injury-header">🚑 결장/부상 현황</div>
-      {injuryHome && injuryHome !== '없음' && (
+      {injuryHomeItems.length > 0 && (
         <div class="injury-row">
           <div class="injury-team-label injury-team-label--home">{homeTeam}</div>
           <div class="injury-content">
-            {injuryHome.split('|').map((entry: string) => (
-              <div class="injury-entry"><span class="recent-dot"></span><span>{entry.trim()}</span></div>
+            {injuryHomeItems.map((entry: string) => (
+              <div class="injury-entry"><span class="recent-dot"></span><span>{entry}</span></div>
             ))}
           </div>
         </div>
       )}
-      {injuryAway && injuryAway !== '없음' && (
+      {injuryAwayItems.length > 0 && (
         <div class="injury-row">
           <div class="injury-team-label injury-team-label--away">{awayTeam}</div>
           <div class="injury-content">
-            {injuryAway.split('|').map((entry: string) => (
-              <div class="injury-entry"><span class="recent-dot"></span><span>{entry.trim()}</span></div>
+            {injuryAwayItems.map((entry: string) => (
+              <div class="injury-entry"><span class="recent-dot"></span><span>{entry}</span></div>
             ))}
           </div>
         </div>
