@@ -263,6 +263,33 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
     </div>
   )}
 
+  <!-- 결장/부상 현황 -->
+  {hasInjury && (
+    <div class="injury-widget">
+      <div class="injury-header">🚑 결장/부상 현황</div>
+      {injuryHome && injuryHome !== '없음' && (
+        <div class="injury-row">
+          <div class="injury-team-label injury-team-label--home">{homeTeam}</div>
+          <div class="injury-content">
+            {injuryHome.split('|').map((entry: string) => (
+              <div class="injury-entry"><span class="recent-dot"></span><span>{entry.trim()}</span></div>
+            ))}
+          </div>
+        </div>
+      )}
+      {injuryAway && injuryAway !== '없음' && (
+        <div class="injury-row">
+          <div class="injury-team-label injury-team-label--away">{awayTeam}</div>
+          <div class="injury-content">
+            {injuryAway.split('|').map((entry: string) => (
+              <div class="injury-entry"><span class="recent-dot"></span><span>{entry.trim()}</span></div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  )}
+
   <!-- 상대전적 -->
   <div class="section-widget">
     <h2 class="section-widget-header sw-h2h">⚔️ 상대 전적</h2>
@@ -279,7 +306,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
   <!-- 팀별 핵심 전력 -->
   <div class="section-widget">
     <h2 class="section-widget-header sw-power">⚡ 팀별 핵심 전력 분석</h2>
-    <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;">
+    <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;align-items:flex-start;">
       <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
         <h3 class="power-title power-title--home">{homeTeam}</h3>
         <ul class="power-list">
@@ -762,7 +789,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
 .power-body { display:flex;background:#fff;flex-wrap:wrap;align-items:stretch; }
 .power-col  { flex:1;min-width:240px;padding:10px 18px 14px;box-sizing:border-box; }
 .power-col:first-child { border-right:1px solid #f0f0f0; }
-.power-title { font-weight:700;font-size:0.95rem;margin:0 0 10px;padding-bottom:8px; }
+.power-title { font-weight:700;font-size:0.95rem;margin:0 0 10px 0;padding-bottom:8px;padding-top:0; }
 .power-title--home { color:#e03131;border-bottom:2px solid #e03131; }
 .power-title--away { color:#1971c2;border-bottom:2px solid #1971c2; }
 .power-list { margin:0;padding-left:0;list-style:none;font-size:0.95rem;line-height:1.7;color:#111; }

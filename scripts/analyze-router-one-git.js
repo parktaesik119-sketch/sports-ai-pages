@@ -279,23 +279,23 @@ if (isExtraFiltered) {
 반드시 아래 키=값 형식으로만 출력하라. 마크다운, HTML, ### 헤더, <br> 태그를 절대 사용하지 마라.
 키 이름을 변경하거나 추가하지 마라. 설명 문장, 행동 예고, 내부 추론을 절대 포함하지 마라.
 
-HOME_ANALYSIS: (홈팀 분석. 존댓말로 5문장 이상. 반드시 [홈팀 최근 경기 DB]의 승/패 기록과 평균 득점 수치를 직접 인용하여 1~2문장 서술. 예: "최근 5경기에서 3승 2패를 기록 중이며 평균 4.2득점으로 공격력이 살아있습니다." 이후 리그 순위·시즌 성적·공격력·수비력·홈 성적 중 최소 3가지를 추가 분석. 문장 사이 구분은 공백으로만)
-AWAY_ANALYSIS: (원정팀 분석. 동일 규칙 적용. 반드시 [원정팀 최근 경기 DB] 수치 인용 필수)
+HOME_ANALYSIS: (홈팀 분석. 반드시 아래 5가지를 각각 1문장씩 존댓말로 작성하라. ①[홈팀 최근 경기 DB]의 승/패/무 기록과 평균 득점 수치를 직접 인용. 예: "최근 5경기에서 3승 1무 1패를 기록 중이며 평균 2.3득점으로 공격력이 살아있습니다." ②공격력 또는 득점 패턴 분석. ③수비력 또는 실점 현황 분석. ④홈 경기 성적 또는 원정 성적 분석. ⑤팀의 강점 또는 주목할 선수/전술 분석. 총 5문장 미만 출력 절대 금지. 문장 사이 구분은 공백으로만.)
+AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 5가지 항목을 원정팀 기준으로 작성하라. 반드시 [원정팀 최근 경기 DB] 수치 직접 인용 필수. 총 5문장 미만 출력 절대 금지. 문장 사이 구분은 공백으로만.)
 HOME_POWER: (홈팀 핵심 포인트 5개를 파이프(|)로 구분. 각 20자 이내. 반드시 구체적 수치 포함. 예: 최근 평균 4.2득점으로 공격력 우수|선발 평균자책점 3.1 안정|홈 승률 .620 강세|최근 3연승 흐름|수비 실점 2점 이하 유지)
 AWAY_POWER: (원정팀 핵심 포인트 5개를 파이프(|)로 구분. 각 20자 이내. 반드시 구체적 수치 포함)
-H2H: (상대전적. 각 경기를 파이프(|)로 구분. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 있으면 그것 사용. 없으면 웹 검색. 검색해도 없으면 "없음")
+H2H: (상대전적. DB에 있으면 각 경기를 파이프(|)로 구분하여 기재. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 없으면 반드시 "※ H2H 업데이트 예정" 으로만 표기. 웹 검색 절대 금지.)
 SUMMARY: (종합 분석. 존댓말로 3문장 이상)
-INJURY_HOME: (홈팀 부상/결장 선수. 없으면 "없음". 플레이스홀더 절대 금지)
-INJURY_AWAY: (원정팀 부상/결장 선수. 없으면 "없음". 플레이스홀더 절대 금지)
-PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부")
+INJURY_HOME: (홈팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
+INJURY_AWAY: (원정팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
+PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부". 배당 검색 금지. 반드시 아래 제공된 최근경기 DB와 상대전적 DB만을 근거로 판단하라.)
 PICK_WIN_RESULT: (승 또는 무승부)
-PICK_HANDICAP_TEAM: (핸디캡 기준 팀명)
-PICK_HANDICAP_VALUE: (반드시 웹 검색으로 해당 경기 아시안 핸디캡 배당 기준점을 확인 후 기재. 배당을 찾지 못하면 양 팀 최근 5경기 득점력 차이를 계산해서 0.5 단위로 직접 산출하라. "없음" 절대 금지. 반드시 숫자로만 기재.)
-PICK_OU_DIRECTION: (오버 또는 언더)
-PICK_OU_VALUE: (반드시 웹 검색으로 해당 경기 아시안 오버언더 배당 기준점을 확인 후 기재. 배당을 찾지 못하면 양 팀 최근 5경기 평균 득점 합산으로 직접 산출하라. "없음" 절대 금지. 반드시 숫자로만 기재.)
+PICK_HANDICAP_TEAM: (핸디캡 기준 팀명. 배당 검색 금지.)
+PICK_HANDICAP_VALUE: (양 팀 최근 5경기 평균 득점 차이를 계산하여 0.5 단위로 산출. 예: 홈팀 평균 2.3득점, 원정팀 평균 0.7득점 → 차이 1.6 → -1.5. "없음" 절대 금지. 반드시 숫자로만 기재.)
+PICK_OU_DIRECTION: (오버 또는 언더. 배당 검색 금지. 양 팀 최근 5경기 평균 득점 합산으로 판단.)
+PICK_OU_VALUE: (양 팀 최근 5경기 평균 득점 합산으로 0.5 단위 산출. 예: 홈팀 평균 2.3 + 원정팀 평균 1.2 = 3.5. "없음" 절대 금지. 반드시 숫자로만 기재.)
 
 [분석 규칙]
-1. 웹 검색으로 현재 리그 순위, 시즌 성적, 부상자 정보를 반드시 확인하라.
+1. 웹 검색으로 결장자와 부상자 정보만 확인하라. 리그 순위와 시즌 성적은 제공된 DB 데이터를 활용하라.
 2. 대한민국을 '남한', '한국'으로 표기하지 마라. 반드시 '대한민국'으로만 표기하라.
 3. 팀명을 임의로 번역하지 마라. 제공된 영문 팀명 그대로 사용하라.
 4. 한자, 일어 사용 금지. 100% 한글로만 작성하라.
@@ -392,19 +392,7 @@ PICK_OU_VALUE: (반드시 웹 검색으로 해당 경기 아시안 오버언더 
     }).join('\n')}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
     } else {
       h2hContent = "\n\n(※업데이트 예정)\n\n";
-      const dbText = h2hHistory.length > 0
-        ? `[내부 DB 상대전적 - ${h2hHistory.length}개만 존재, 반드시 추가 검색 필요]\n` +
-          h2hHistory.map(h => {
-            const s = (h.homeScore !== null && h.awayScore !== null) ? `${h.homeScore}-${h.awayScore}` : h.score;
-            return `${h.date}: ${h.home} (${s}) ${h.away}`;
-          }).join('\n')
-        : '[내부 DB 상대전적 없음]';
-      h2hContextForAI = `${dbText}
-⚠️ 웹 검색 필수 실행:
-① "${match.home} vs ${match.away} head to head 2024 2025 2026" 검색
-② 종료된 경기(스코어 확인된 것)만 추출하여 DB와 합쳐 최신순 최대 5개 출력
-③ 검색해도 없으면 H2H: 없음 으로만 표기
-④ 미래 예정 경기 절대 포함 금지`;
+      h2hContextForAI = '[내부 DB 상대전적 없음] H2H: ※ H2H 업데이트 예정 으로만 표기';
     }
   
 
@@ -538,10 +526,9 @@ const sportPickRule = cat === 'lol'
   : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라. 0.25 단위 소수점으로 산출하라.`;
 
 const matchDataPrompt = `
-지금 당장 아래 2가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.
+지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.
 
 검색 1: "${match.home} ${match.away} injury report 2026"
-검색 2: "${match.home} vs ${match.away} betting odds asian handicap over under"
 
 검색 완료 후 아래 정보를 참고하여 분석을 작성하라.
 
@@ -551,13 +538,13 @@ const matchDataPrompt = `
 - 원정팀: ${match.away}
 - ${sportPickRule}
 
-[상대전적 DB - 아래 데이터를 H2H에 그대로 사용하라. 웹 검색 금지]
-${h2hContextForAI || '없음 - H2H: 없음 으로 표기'}
+[상대전적 DB - 아래 데이터를 H2H에 그대로 사용하라. 웹 검색 절대 금지]
+${h2hContextForAI || '없음 - H2H: ※ H2H 업데이트 예정 으로만 표기'}
 
-[홈팀 최근 경기 DB]
+[홈팀 최근 경기 DB - 핸디캡/오버언더 산출 시 이 데이터를 직접 계산하여 사용하라]
 ${homeRecentContext}
 
-[원정팀 최근 경기 DB]
+[원정팀 최근 경기 DB - 핸디캡/오버언더 산출 시 이 데이터를 직접 계산하여 사용하라]
 ${awayRecentContext}
 `;
 
@@ -585,7 +572,7 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
     {
       type: "web_search_20250305",
       name: "web_search",
-      max_uses: 5
+      max_uses: 2
     }
   ],
   messages: [
@@ -692,7 +679,7 @@ ${gameContext}
           model: "anthropic/claude-haiku-4.5",
           max_tokens: 6000,
           system: SYSTEM_RULES_PROMPT,
-          tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 3 }],
+          tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 2 }],
           messages: [{ role: "user", content: retryPrompt }]
         })
       });
@@ -780,9 +767,9 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
 
   // 2. 키=값 추출
   const extract = (key) => {
-    const m = cleanedText.match(new RegExp(`${key}:\\s*(.+)`));
-    return m ? m[1].trim() : '';
-  };
+  const m = cleanedText.match(new RegExp(`${key}:\\s*([\\s\\S]+?)(?=\\n[A-Z_]+:|$)`));
+  return m ? m[1].trim() : '';
+};
 
   const homeAnalysis      = extract('HOME_ANALYSIS');
   const awayAnalysis      = extract('AWAY_ANALYSIS');
@@ -801,9 +788,19 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
 
   // 3. 필수 값 검증
   if (!homeAnalysis || !awayAnalysis || !summary) {
-    console.error(`❌ [필수값 누락] HOME_ANALYSIS/AWAY_ANALYSIS/SUMMARY 없음: ${match.home}`);
-    return false;
-  }
+  console.error(`❌ [필수값 누락] HOME_ANALYSIS/AWAY_ANALYSIS/SUMMARY 없음: ${match.home}`);
+  return false;
+}
+if (!pickWinTeam || !pickHandicapValue || !pickOuValue) {
+  console.error(`❌ [픽 누락] PICK 항목 빈값: ${match.home} | WIN:${pickWinTeam} HANDICAP:${pickHandicapValue} OU:${pickOuValue}`);
+  return false;
+}
+const homeAnalysisSentences = homeAnalysis.split(/(?<=[.!?])\s+/).filter(Boolean).length;
+const awayAnalysisSentences = awayAnalysis.split(/(?<=[.!?])\s+/).filter(Boolean).length;
+if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
+  console.error(`❌ [분석 부실] 문장 수 부족: 홈 ${homeAnalysisSentences}문장 / 원정 ${awayAnalysisSentences}문장 → ${match.home}`);
+  return false;
+}
 
   // 4. 무승부 차단 (축구 외)
   const NO_DRAW_SPORTS = ['baseball', 'basketball', 'hockey', 'volleyball', 'lol'];
