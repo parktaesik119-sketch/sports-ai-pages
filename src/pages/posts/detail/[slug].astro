@@ -286,7 +286,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
 <!-- 결장/부상 현황 -->
   {hasInjury && (
     <div class="injury-widget">
-      <div class="injury-header">🚑 결장/부상 현황</div>
+      <h2 class="injury-header">🚑 결장/부상 현황</h2>
       {injuryHomeItems.length > 0 && (
         <div class="injury-row">
           <div class="injury-team-label injury-team-label--home">{homeTeam}</div>
@@ -328,13 +328,13 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
     <h2 class="section-widget-header sw-power">⚡ 팀별 핵심 전력 분석</h2>
     <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;align-items:flex-start;">
       <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
-        <h3 class="power-title power-title--home">{homeTeam}</h3>
+        <div class="power-title power-title--home">{homeTeam}</div>
         <ul class="power-list">
           {homePowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
         </ul>
       </div>
       <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;">
-        <h3 class="power-title power-title--away">{awayTeam}</h3>
+        <div class="power-title power-title--away">{awayTeam}</div>
         <ul class="power-list">
           {awayPowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
         </ul>
@@ -345,7 +345,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
   <!-- 종합 분석 -->
   {summary && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-summary">📝 종합 분석</h2>
+      <h3 class="section-widget-header sw-summary">📝 종합 분석</h3>
       <div class="section-widget-body">
   {summary.split(/(?<=\.) /).filter(Boolean).map((sentence: string, idx: number) => (
     <span>{idx > 0 && <hr class="sw-divider" />}{sentence}</span>
@@ -753,11 +753,12 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
   align-items: center;
   gap: 8px;
   padding: 10px 16px;
-  background: #e03131;
-  background-image: linear-gradient(180deg, #e03131 0%, #c2255c 100%);
+  background: #1a1a2e;
+  background-image: linear-gradient(180deg, #1a1a2e 0%, #16213e 100%);
   color: #fff;
   font-weight: 700;
   font-size: 0.95rem;
+  margin: 0;
 }
 .injury-row {
   display: flex;
