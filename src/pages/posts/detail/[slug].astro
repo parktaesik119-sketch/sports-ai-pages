@@ -197,25 +197,6 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
     </div>
   )}
 
-  <!-- 부상/결장자 (상단 고정) -->
-  {hasInjury && (
-    <div class="injury-widget">
-      <div class="injury-header">🚑 결장/부상 현황</div>
-      {injuryHome && injuryHome !== '없음' && (
-        <div class="injury-row">
-          <div class="injury-team-label">홈팀</div>
-          <div class="injury-content">{injuryHome}</div>
-        </div>
-      )}
-      {injuryAway && injuryAway !== '없음' && (
-        <div class="injury-row">
-          <div class="injury-team-label">원정팀</div>
-          <div class="injury-content">{injuryAway}</div>
-        </div>
-      )}
-    </div>
-  )}
-
   <!-- 홈팀 분석 -->
   {homeAnalysis && (
     <div class="section-widget">
@@ -299,13 +280,13 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
   <div class="section-widget">
     <h2 class="section-widget-header sw-power">⚡ 팀별 핵심 전력 분석</h2>
     <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;">
-      <div style="flex:1;min-width:240px;padding:10px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
+      <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
         <h3 class="power-title power-title--home">{homeTeam}</h3>
         <ul class="power-list">
           {homePowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
         </ul>
       </div>
-      <div style="flex:1;min-width:240px;padding:10px 18px 14px;box-sizing:border-box;">
+      <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;">
         <h3 class="power-title power-title--away">{awayTeam}</h3>
         <ul class="power-list">
           {awayPowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
@@ -744,17 +725,24 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
   font-size: 0.75rem;
   font-weight: 700;
   color: #fff;
-  background: #e03131;
   border-radius: 4px;
   padding: 2px 8px;
   white-space: nowrap;
   flex-shrink: 0;
   margin-top: 2px;
 }
+.injury-team-label--home { background: #e03131; }
+.injury-team-label--away { background: #1971c2; }
 .injury-content {
   font-size: 0.9rem;
   color: #333;
   line-height: 1.6;
+}
+.injury-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  margin-bottom: 4px;
 }
 
 /* 분석 섹션 공통 위젯 */
