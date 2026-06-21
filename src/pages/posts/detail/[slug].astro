@@ -795,7 +795,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
 
 /* 분석 섹션 공통 위젯 */
 .section-widget { border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden; }
-.section-widget-header { display:flex;align-items:center;gap:8px;padding:10px 16px;color:#fff;font-weight:700;font-size:0.95rem;margin:0; }
+.section-widget-header { display:flex;align-items:center;gap:8px;padding:10px 16px;color:#fff;font-weight:700;font-size:0.95rem;margin:0;line-height:1; }
 .section-widget-body { padding:16px 18px;background:#fff;font-size:1rem;line-height:1.8;color:#333;font-weight:400; }
 .sw-home    { background:#e03131;background-image:linear-gradient(180deg,#e03131 0%,#c2255c 100%); }
 .sw-away    { background:#228be6;background-image:linear-gradient(180deg,#228be6 0%,#1098ad 100%); }
@@ -817,6 +817,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickOuValue);
 .power-title--away { color:#1971c2;border-bottom:2px solid #1971c2; }
 .power-list { margin:0;padding-left:0;list-style:none;font-size:0.95rem;line-height:1.7;color:#111; }
 .power-item { margin-bottom:8px;display:flex;align-items:flex-start;gap:6px;font-weight:500; }
+
+h3.section-widget-header { margin:0;padding:10px 16px; }
 
 @media (max-width: 768px) {
   .section-widget-body { font-size:0.88rem; }
