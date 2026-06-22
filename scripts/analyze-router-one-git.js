@@ -387,8 +387,15 @@ PICK_OU_VALUE: (양 팀 최근 5경기 평균 득점 합산으로 0.5 단위 산
     
     // AI에게 전달할 데이터도 스코어 정보를 명확히 조합하여 전달
     h2hContextForAI = `\n[내부 데이터베이스 상대전적 참고]\n${h2hHistory.map(h => {
-      const s = (h.homeScore !== null && h.awayScore !== null) ? `${h.homeScore}-${h.awayScore}` : h.score;
-      return `${h.date}: ${h.home} (${s}) ${h.away}`;
+    let scoreStr = '';
+    if (h.homeScore !== null && h.awayScore !== null) {
+    scoreStr = `${h.homeScore}-${h.awayScore}`;
+    } else if (h.score) {
+    // h.score에서 숫자만 추출 (예: "3) 애리조나 (5" → "3-5")
+    const scoreMatch = h.score.match(/(\d+)[^\d]*(\d+)/);
+    scoreStr = scoreMatch ? `${scoreMatch[1]}-${scoreMatch[2]}` : h.score;
+    }
+    return `${h.date} - ${h.home} (${scoreStr}) ${h.away}`;
     }).join('\n')}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
     } else {
       h2hContent = "\n\n(※업데이트 예정)\n\n";
