@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import OpenAI from "openai";
 import TEAM_NAME_MAP from './team_name_map.js';
 import COUNTRY_MAP from './country_map.js';
 
@@ -267,7 +268,7 @@ if (isExtraFiltered) {
 });
 
 
-    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Claude Haiku 4.5)`);
+    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (GPT 5.4 mini)`);
 
     const retryQueue = []; // ← 여기로 이동
 
@@ -279,12 +280,12 @@ if (isExtraFiltered) {
 반드시 아래 키=값 형식으로만 출력하라. 마크다운, HTML, ### 헤더, <br> 태그를 절대 사용하지 마라.
 키 이름을 변경하거나 추가하지 마라. 설명 문장, 행동 예고, 내부 추론을 절대 포함하지 마라.
 
-HOME_ANALYSIS: (홈팀 분석. 반드시 아래 5가지를 각각 1문장씩 존댓말로 작성하라. ①[홈팀 최근 경기 DB]의 승/패/무 기록과 평균 득점 수치를 직접 인용. 예: "최근 5경기에서 3승 1무 1패를 기록 중이며 평균 2.3득점으로 공격력이 살아있습니다." ②공격력 또는 득점 패턴 분석. ③수비력 또는 실점 현황 분석. ④홈 경기 성적 또는 원정 성적 분석. ⑤팀의 강점 또는 주목할 선수/전술 분석. 총 5문장 미만 출력 절대 금지. 문장 사이 구분은 공백으로만.)
-AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 5가지 항목을 원정팀 기준으로 작성하라. 반드시 [원정팀 최근 경기 DB] 수치 직접 인용 필수. 총 5문장 미만 출력 절대 금지. 문장 사이 구분은 공백으로만.)
+HOME_ANALYSIS: (홈팀 분석. 존댓말로 자연스럽게 5문장 이상 서술하라. 시즌 전체 성적(승률, 순위)을 먼저 언급하고, 최근 흐름과 비교하여 자연스럽게 이어지도록 작성하라. 득점력, 수비력, 홈/원정 성적, 강점 또는 주목 선수를 흐름 안에 녹여 작성하라. "최근 5경기에서 N승 N패" 같은 수치 나열식 첫 문장 절대 금지. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
+AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 방식으로 원정팀 기준으로 작성하라. 시즌 전체 성적을 먼저 언급하고 최근 흐름과 자연스럽게 연결하라. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
 HOME_POWER: (홈팀 핵심 포인트 5개를 파이프(|)로 구분. 각 20자 이내. 반드시 구체적 수치 포함. 예: 최근 평균 4.2득점으로 공격력 우수|선발 평균자책점 3.1 안정|홈 승률 .620 강세|최근 3연승 흐름|수비 실점 2점 이하 유지)
 AWAY_POWER: (원정팀 핵심 포인트 5개를 파이프(|)로 구분. 각 20자 이내. 반드시 구체적 수치 포함)
 H2H: (상대전적. DB에 있으면 각 경기를 파이프(|)로 구분하여 기재. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 없으면 반드시 "※ H2H 업데이트 예정" 으로만 표기. 웹 검색 절대 금지.)
-SUMMARY: (종합 분석. 존댓말로 3문장 이상)
+SUMMARY: (종합 분석. 존댓말로 3문장 이상. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 최근 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라.)
 INJURY_HOME: (홈팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 INJURY_AWAY: (원정팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부". 배당 검색 금지. 반드시 아래 제공된 최근경기 DB와 상대전적 DB만을 근거로 판단하라.)
@@ -300,6 +301,13 @@ PICK_OU_VALUE: (양 팀 최근 5경기 평균 득점 합산으로 0.5 단위 산
 3. 팀명을 임의로 번역하지 마라. 제공된 영문 팀명 그대로 사용하라.
 4. 한자, 일어 사용 금지. 100% 한글로만 작성하라.
 5. '폼' 대신 '전력'이라고 표기하라.
+
+[톤/스타일 지시 - 매우 중요]
+6. 절대 명령조, 가르치는 톤을 쓰지 마라. 친절하고 부드러운 존댓말만 사용하라.
+7. 다음 표현들을 적극 사용하라: "~입니다", "~했습니다", "~보입니다", "~있습니다", "~드립니다", "~됩니다"
+8. 딱딱하고 딱딱한 표현 대신 "이런 점이 돋보입니다", "특히 주목할 만합니다", "강점으로 평가됩니다" 같은 부드러운 표현을 사용하라.
+9. "~하고 있다", "~되었다" 같은 딱딱한 문체 대신 "~하고 있습니다", "~되었습니다" 처럼 존댓말로 마무리하라.
+10. 종합 분석(SUMMARY)은 특히 친절하고 설명적으로 작성하라.
 `;
 
     for (let i = 0; i < filteredMatches.length; i++) {
@@ -403,7 +411,7 @@ PICK_OU_VALUE: (양 팀 최근 5경기 평균 득점 합산으로 0.5 단위 산
     }
   
 
-  // 최근 3경기 추출
+  // 최근 5경기 추출
   const homeRecentMatches = masterData.filter(m => {
     const isHomeTeam = m.home === match.home || m.away === match.home;
     const matchDate = new Date(m.date);
@@ -414,7 +422,7 @@ PICK_OU_VALUE: (양 팀 최근 5경기 평균 득점 합산으로 0.5 단위 산
     return isHomeTeam && isPast && isRecentEnough && hasScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
 
-  // 원정팀 최근 3경기 추출
+  // 원정팀 최근 5경기 추출
   const awayRecentMatches = masterData.filter(m => {
     const isAwayTeam = m.home === match.away || m.away === match.away;
     const matchDate = new Date(m.date);
@@ -424,6 +432,31 @@ PICK_OU_VALUE: (양 팀 최근 5경기 평균 득점 합산으로 0.5 단위 산
                      (m.homeScore !== null && m.awayScore !== null);
     return isAwayTeam && isPast && isRecentEnough && hasScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
+
+  // 시즌 전체 경기 추출 (2025-01-01 이후)
+  const seasonStartDate = new Date('2025-01-01');
+  const homeAllMatches = masterData.filter(m => {
+    const isHomeTeam = m.home === match.home || m.away === match.home;
+    const matchDate = new Date(m.date);
+    const isPast = matchDate < currentMatchDate;
+    const isRecentEnough = matchDate >= seasonStartDate;
+    const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
+                     (m.homeScore !== null && m.awayScore !== null);
+    return isHomeTeam && isPast && isRecentEnough && hasScore;
+  }).sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  const awayAllMatches = masterData.filter(m => {
+    const isAwayTeam = m.home === match.away || m.away === match.away;
+    const matchDate = new Date(m.date);
+    const isPast = matchDate < currentMatchDate;
+    const isRecentEnough = matchDate >= seasonStartDate;
+    const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
+                     (m.homeScore !== null && m.awayScore !== null);
+    return isAwayTeam && isPast && isRecentEnough && hasScore;
+  }).sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  const homeAllContext = buildRecentForm(homeAllMatches, match.home);
+  const awayAllContext = buildRecentForm(awayAllMatches, match.away);
 
   // ✅ 최근 경기 컨텍스트 문자열 생성
   const homeRecentContext = buildRecentForm(homeRecentMatches, match.home);
@@ -548,16 +581,24 @@ const matchDataPrompt = `
 [상대전적 DB - 아래 데이터를 H2H에 그대로 사용하라. 웹 검색 절대 금지]
 ${h2hContextForAI || '없음 - H2H: ※ H2H 업데이트 예정 으로만 표기'}
 
-[홈팀 최근 경기 DB - 핸디캡/오버언더 산출 시 이 데이터를 직접 계산하여 사용하라]
+[홈팀 전체 시즌 DB - 시즌 전체 성적 분석에 사용하라]
+${homeAllContext}
+
+[홈팀 최근 5경기 DB - 핸디캡/오버언더 산출 및 최근 흐름 파악에 사용하라]
 ${homeRecentContext}
 
-[원정팀 최근 경기 DB - 핸디캡/오버언더 산출 시 이 데이터를 직접 계산하여 사용하라]
+[원정팀 전체 시즌 DB - 시즌 전체 성적 분석에 사용하라]
+${awayAllContext}
+
+[원정팀 최근 5경기 DB - 핸디캡/오버언더 산출 및 최근 흐름 파악에 사용하라]
 ${awayRecentContext}
 `;
 
 // ✅ 재시도 포함 버전 (최대 2회 시도)
 let success = false;
 const MAX_RETRY = 2;
+const client = new OpenAI({ baseURL: "https://api.router.one/v1", apiKey: ROUTERONE_API_KEY });
+
 for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
   try {
     if (attempt > 1) {
@@ -565,75 +606,27 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
       await new Promise(res => setTimeout(res, 3000));
     }
 
-    // [이전 하이쿠4.5 버전]
-/*
-const res = await fetch("https://api.router.one/v1/messages", {
-  method: "POST",
-  headers: {
-    "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
-    "Content-Type": "application/json"
-  },
-  body: JSON.stringify({
-    model: "anthropic/claude-haiku-4.5",
-    max_tokens: 6000,
-    system: SYSTEM_RULES_PROMPT,
-    tools: [
-      {
-        type: "web_search_20250305",
-        name: "web_search",
-        max_uses: 2
-      }
-    ],
-    messages: [
-      {
-        role: "user",
-        content: matchDataPrompt
-      }
-    ]
-  })
-});
-*/
+    const response = await client.responses.create({
+  model: "openai/gpt-5.4-mini",
 
-// [gpt 5.4 mini 새 버전]
-const res = await fetch("https://api.router.one/v1/chat/completions", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-    "Authorization": `Bearer ${ROUTERONE_API_KEY}`
-  },
-  body: JSON.stringify({
-    model: "openai/gpt-5.4-mini",
-    messages: [
-      {
-        role: "system",
-        content: SYSTEM_RULES_PROMPT
-      },
-      {
-        role: "user",
-        content: matchDataPrompt
-      }
-    ]
-  })
+  tools: [
+    {
+      type: "web_search",
+      search_context_size: "medium"
+    }
+  ],
+
+  tool_choice: "auto",
+
+  input: `
+${SYSTEM_RULES_PROMPT}
+
+${matchDataPrompt}
+`
 });
 
-    const data = await res.json();
-
-    // 웹검색 실행 여부 로그
-    const searchBlocks = (data.content || []).filter(b => 
-  (b.type === "tool_use" || b.type === "server_tool_use") && b.name === "web_search"
-);
-if (searchBlocks.length > 0) {
-  searchBlocks.forEach(b => {
-    console.log(`🔍 [웹검색] ${match.home} vs ${match.away} → "${b.input?.query}"`);
-  });
-} else {
-  console.warn(`⚠️ [웹검색 없음] ${match.home} vs ${match.away}`);
-}
-
-    const aiResponse = (data.content || [])
-      .filter(b => b.type === "text")
-      .map(b => b.text)
-      .join("\n") || "";
+    const aiResponse =
+      response.output_text || "";
 
     if (aiResponse.length > 500) {
       const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches);
@@ -701,51 +694,27 @@ ${gameContext}
 `;
 
     try {
-      // [이전 버전]
-/*
-const res = await fetch("https://api.router.one/v1/messages", {
-  method: "POST",
-  headers: {
-    "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
-    "Content-Type": "application/json"
-  },
-  body: JSON.stringify({
-    model: "anthropic/claude-haiku-4.5",
-    max_tokens: 6000,
-    system: SYSTEM_RULES_PROMPT,
-    tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 2 }],
-    messages: [{ role: "user", content: retryPrompt }]
-  })
-});
-*/
+    const retryResponse = await client.responses.create({
+  model: "openai/gpt-5.4-mini",
 
-// [새 버전]
-const res = await fetch("https://api.router.one/v1/chat/completions", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-    "Authorization": `Bearer ${ROUTERONE_API_KEY}`
-  },
-  body: JSON.stringify({
-    model: "openai/gpt-5.4-mini",
-    messages: [
-      {
-        role: "system",
-        content: SYSTEM_RULES_PROMPT
-      },
-      {
-        role: "user",
-        content: retryPrompt
-      }
-    ]
-  })
+  tools: [
+    {
+      type: "web_search",
+      search_context_size: "medium"
+    }
+  ],
+
+  tool_choice: "auto",
+
+  input: `
+${SYSTEM_RULES_PROMPT}
+
+${retryPrompt}
+`
 });
 
-      const data = await res.json();
-      const aiResponse = (data.content || [])
-        .filter(b => b.type === "text")
-        .map(b => b.text)
-        .join("\n") || "";
+      const aiResponse =
+        retryResponse.output_text || "";
 
       if (aiResponse.length > 1200) {
         const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches);
@@ -824,7 +793,7 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
 
   // 2. 키=값 추출
   const extract = (key) => {
-  const m = cleanedText.match(new RegExp(`${key}:\\s*([\\s\\S]+?)(?=\\n[A-Z_]+:|$)`));
+  const m = cleanedText.match(new RegExp(`${key}:\\s*([\\s\\S]+?)(?=\\n[A-Z0-9_]+:|$)`));
   return m ? m[1].trim() : '';
 };
 
