@@ -565,31 +565,56 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
       await new Promise(res => setTimeout(res, 3000));
     }
 
-    const res = await fetch("https://api.router.one/v1/messages", {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
-        "Content-Type": "application/json"
+    // [이전 하이쿠4.5 버전]
+/*
+const res = await fetch("https://api.router.one/v1/messages", {
+  method: "POST",
+  headers: {
+    "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({
+    model: "anthropic/claude-haiku-4.5",
+    max_tokens: 6000,
+    system: SYSTEM_RULES_PROMPT,
+    tools: [
+      {
+        type: "web_search_20250305",
+        name: "web_search",
+        max_uses: 2
+      }
+    ],
+    messages: [
+      {
+        role: "user",
+        content: matchDataPrompt
+      }
+    ]
+  })
+});
+*/
+
+// [gpt 5.4 mini 새 버전]
+const res = await fetch("https://api.router.one/v1/chat/completions", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "Authorization": `Bearer ${ROUTERONE_API_KEY}`
+  },
+  body: JSON.stringify({
+    model: "openai/gpt-5.4-mini",
+    messages: [
+      {
+        role: "system",
+        content: SYSTEM_RULES_PROMPT
       },
-      body: JSON.stringify({
-  model: "anthropic/claude-haiku-4.5",
-  max_tokens: 6000,
-  system: SYSTEM_RULES_PROMPT,
-  tools: [
-    {
-      type: "web_search_20250305",
-      name: "web_search",
-      max_uses: 2
-    }
-  ],
-  messages: [
-    {
-      role: "user",
-      content: matchDataPrompt
-    }
-  ]
-})
-    });
+      {
+        role: "user",
+        content: matchDataPrompt
+      }
+    ]
+  })
+});
 
     const data = await res.json();
 
@@ -676,20 +701,45 @@ ${gameContext}
 `;
 
     try {
-      const res = await fetch("https://api.router.one/v1/messages", {
-        method: "POST",
-        headers: {
-          "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          model: "anthropic/claude-haiku-4.5",
-          max_tokens: 6000,
-          system: SYSTEM_RULES_PROMPT,
-          tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 2 }],
-          messages: [{ role: "user", content: retryPrompt }]
-        })
-      });
+      // [이전 버전]
+/*
+const res = await fetch("https://api.router.one/v1/messages", {
+  method: "POST",
+  headers: {
+    "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({
+    model: "anthropic/claude-haiku-4.5",
+    max_tokens: 6000,
+    system: SYSTEM_RULES_PROMPT,
+    tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 2 }],
+    messages: [{ role: "user", content: retryPrompt }]
+  })
+});
+*/
+
+// [새 버전]
+const res = await fetch("https://api.router.one/v1/chat/completions", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "Authorization": `Bearer ${ROUTERONE_API_KEY}`
+  },
+  body: JSON.stringify({
+    model: "openai/gpt-5.4-mini",
+    messages: [
+      {
+        role: "system",
+        content: SYSTEM_RULES_PROMPT
+      },
+      {
+        role: "user",
+        content: retryPrompt
+      }
+    ]
+  })
+});
 
       const data = await res.json();
       const aiResponse = (data.content || [])
