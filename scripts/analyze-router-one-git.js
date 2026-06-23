@@ -34,8 +34,113 @@ function getSafeLogoName(teamName) {
     .replace(/^-+|-+$/g, '');       // 앞뒤 하이픈 제거
 }
 
+// 공통 유틸: 팀 득점 배열 추출
+function getTeamScores(matches, teamName) {
+  return matches.map(m => {
+    const isHome = m.home === teamName;
+    const score = isHome ? Number(m.homeScore) : Number(m.awayScore);
+    return isNaN(score) ? null : score;
+  }).filter(s => s !== null);
+}
+
+// 공통 유틸: 최고/최저 제거 후 평균
+function trimmedAvg(scores) {
+  if (scores.length === 0) return null;
+  if (scores.length <= 2) return scores.reduce((a, b) => a + b, 0) / scores.length;
+  const sorted = [...scores].sort((a, b) => a - b);
+  const trimmed = sorted.slice(1, -1);
+  return trimmed.reduce((a, b) => a + b, 0) / trimmed.length;
+}
+
+// H2H 평균 득점 계산 (홈팀/원정팀 각각 양쪽 포지션 모두 포함)
+function getH2hAvgScore(h2hMatches, teamName) {
+  const scores = h2hMatches.map(m => {
+    const isHome = m.home === teamName;
+    const score = isHome ? Number(m.homeScore) : Number(m.awayScore);
+    return isNaN(score) ? null : score;
+  }).filter(s => s !== null && s >= 0);  // null 제거는 동일
+  if (scores.length === 0) return null;
+  // 전체가 0점인 경기만 있으면 null 처리 (0-0 무승부 등)
+  const nonZero = scores.filter(s => s > 0);
+  if (nonZero.length === 0) return null;
+  return scores.reduce((a, b) => a + b, 0) / scores.length;
+}
+
+// 가중 평균: 최근 5경기 70% + H2H 30% (H2H 없으면 최근 5경기 100%)
+function weightedAvg(recentAvg, h2hAvg) {
+  if (recentAvg === null) return null;
+  if (h2hAvg === null) return recentAvg;
+  return recentAvg * 0.7 + h2hAvg * 0.3;
+}
+
+// 오버언더 계산 함수 (최고/최저 제거 후 평균 + H2H 가중치)
+function calcOuValue(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches = []) {
+  const homeRecentAvg = trimmedAvg(getTeamScores(homeMatches, homeTeam));
+  const awayRecentAvg = trimmedAvg(getTeamScores(awayMatches, awayTeam));
+
+  const homeH2hAvg = getH2hAvgScore(h2hMatches, homeTeam);
+  const awayH2hAvg = getH2hAvgScore(h2hMatches, awayTeam);
+
+  const homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg);
+  const awayAvg = weightedAvg(awayRecentAvg, awayH2hAvg);
+
+  if (homeAvg === null || awayAvg === null) return null;
+
+  const raw = homeAvg + awayAvg;
+
+  if (cat === 'basketball') {
+    const rounded = Math.round(raw * 2) / 2;
+    return Math.min(215.5, Math.max(155.5, rounded)).toFixed(1);
+  } else if (cat === 'baseball') {
+    const rounded = Math.round(raw * 2) / 2;
+    return Math.min(15.5, Math.max(4.5, rounded)).toFixed(1);
+  } else {
+    const rounded = Math.round(raw * 2) / 2;
+    return rounded.toFixed(1);
+  }
+}
+
+// 핸디캡 허용 범위 계산 함수 (OU 값 및 득점 차 기반)
+function calcHandicapConstraint(homeMatches, awayMatches, homeTeam, awayTeam, cat, ouValue, h2hMatches = []) {
+  if (cat === 'lol' || cat === 'volleyball') return '';
+
+  const homeRecentAvg = trimmedAvg(getTeamScores(homeMatches, homeTeam));
+  const awayRecentAvg = trimmedAvg(getTeamScores(awayMatches, awayTeam));
+
+  const homeH2hAvg = getH2hAvgScore(h2hMatches, homeTeam);
+  const awayH2hAvg = getH2hAvgScore(h2hMatches, awayTeam);
+
+  const homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg);
+  const awayAvg = weightedAvg(awayRecentAvg, awayH2hAvg);
+  const diff = (homeAvg !== null && awayAvg !== null) ? Math.abs(homeAvg - awayAvg) : null;
+  const ou = ouValue !== null ? parseFloat(ouValue) : null;
+
+  if (cat === 'soccer' || cat === 'hockey') {
+    if (ou === null) return '';
+    if (ou <= 1.5) return `핸디캡은 반드시 -0.5 로 고정하라. (OU ${ou} 기준, 1점 차 이내 승부 예상)`;
+    if (ou <= 2.5) return `핸디캡은 -0.5 또는 -1.5 중 선택하라. (OU ${ou} 기준)`;
+    if (ou <= 3.5) return `핸디캡은 -1.5 또는 -2.5 중 선택하라. (OU ${ou} 기준)`;
+    return `핸디캡은 -2.5 이상으로 산출하라. (OU ${ou} 기준)`;
+  }
+
+  if (cat === 'baseball') {
+    if (diff === null) return `핸디캡은 -1.5 또는 -2.5 중 선택하라.`;
+    if (diff < 1.0) return `핸디캡은 반드시 -1.5 로 고정하라. (득점 차 ${diff.toFixed(1)} 기준, 접전 예상)`;
+    if (diff < 2.5) return `핸디캡은 -2.5 로 산출하라. (득점 차 ${diff.toFixed(1)} 기준)`;
+    return `핸디캡은 -3.5 이상으로 산출하라. (득점 차 ${diff.toFixed(1)} 기준)`;
+  }
+
+  if (cat === 'basketball') {
+    if (ou === null) return '';
+    if (ou <= 170) return `핸디캡은 -2.5 ~ -5.5 범위에서 산출하라. (OU ${ou} 기준, 접전 예상)`;
+    return `핸디캡은 전력 차에 따라 -2.5 ~ -15.5 범위에서 산출하라. (OU ${ou} 기준)`;
+  }
+
+  return '';
+}
+
 // 최근 경기 → AI 컨텍스트 + 가로 한줄 형식
-  function buildRecentForm(recentList, teamName) {
+function buildRecentForm(recentList, teamName) {
   if (!recentList || recentList.length === 0) return `${teamName}: 최근 경기 데이터 없음`;
 
   const lines = recentList.map(m => {
@@ -290,10 +395,10 @@ INJURY_HOME: (홈팀 부상/결장 선수. 선수명은 영문 원문 그대로 
 INJURY_AWAY: (원정팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부". 배당 검색 금지. 반드시 아래 제공된 최근경기 DB와 상대전적 DB만을 근거로 판단하라.)
 PICK_WIN_RESULT: (승 또는 무승부)
-PICK_HANDICAP_TEAM: (핸디캡 기준 팀명. 배당 검색 금지.)
-PICK_HANDICAP_VALUE: (양 팀 최근 5경기 평균 득점 차이를 계산하여 0.5 단위로 산출. 예: 홈팀 평균 2.3득점, 원정팀 평균 0.7득점 → 차이 1.6 → -1.5. "없음" 절대 금지. 반드시 숫자로만 기재.)
-PICK_OU_DIRECTION: (오버 또는 언더. 배당 검색 금지. 양 팀 각각 최근 5경기에서 최고/최저 득점 1개씩 제거 후 나머지 평균을 구하고, 두 팀 평균의 평균으로 판단.)
-PICK_OU_VALUE: (양 팀 각각 최근 5경기 최고/최저 득점 제거 후 평균을 구한 뒤, (홈팀 평균 + 원정팀 평균) ÷ 2 로 산출. 0.5 단위로 반올림. 예: 홈팀 정제평균 2.5, 원정팀 정제평균 1.5 → (2.5+1.5)÷2 = 2.0. "없음" 절대 금지. 반드시 숫자로만 기재.)
+PICK_HANDICAP_TEAM: (핸디캡 기준 팀명. 반드시 PICK_WIN_TEAM과 동일한 팀으로 설정하라. 배당 검색 금지.)
+PICK_HANDICAP_VALUE: (경기 정보에 제공된 핸디캡 허용 범위 안에서 양 팀 전력 차를 반영해 산출하라. 롤/배구는 세트 기준으로 자체 산출. "없음" 절대 금지. 반드시 숫자로만 기재.)
+PICK_OU_DIRECTION: (오버 또는 언더. 배당 검색 금지. 경기 정보에 제공된 오버언더 값 기준으로 판단하라. 반드시 핸디캡 값과 논리적으로 일관성을 유지하라. 롤/배구는 세트 기준으로 자체 판단.)
+PICK_OU_VALUE: (경기 정보에 제공된 오버언더 값을 그대로 출력하라. 롤/배구는 세트 기준으로 자체 산출. "없음" 절대 금지. 반드시 숫자로만 기재.)
 
 [분석 규칙]
 1. 웹 검색으로 결장자와 부상자 정보만 확인하라. 리그 순위와 시즌 성적은 제공된 DB 데이터를 활용하라.
@@ -565,10 +670,24 @@ const sportPickRule = cat === 'lol'
   : cat === 'volleyball'
   ? `배구다. 핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 3.5 세트)`
   : cat === 'basketball'
-  ? `농구다. 핸디캡은 양 팀 전력 차를 분석해 -2.5~-15.5 범위에서 0.25 단위 소수점으로 산출하라. 오버언더는 양 팀 평균 득점 합산 기반으로 155.5~215.5 범위에서 0.25 단위 소수점으로 산출하라. 정수 출력 절대 금지.`
+  ? `농구다. 핸디캡은 양 팀 전력 차를 분석해 -2.5~-15.5 범위에서 0.25 단위 소수점으로 산출하라. 정수 출력 절대 금지.`
   : cat === 'baseball'
-  ? `야구다. 핸디캡은 -1.5 또는 +1.5 중 선택. 오버언더는 양 팀 선발 투수 평균자책점과 최근 득점력 기반으로 6.5~10.5 범위에서 0.5 단위로 산출하라.`
-  : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라. 0.25 단위 소수점으로 산출하라.`;
+  ? `야구다. 핸디캡은 -1.5 또는 +1.5 중 선택.`
+  : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라.`;
+
+// JS로 OU 계산 (롤/배구 제외)
+const computedOuValue = (cat !== 'lol' && cat !== 'volleyball')
+  ? calcOuValue(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, h2hHistory)
+  : null;
+
+const handicapConstraint = calcHandicapConstraint(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, computedOuValue, h2hHistory);
+
+const ouIsNeutral = computedOuValue !== null && (parseFloat(computedOuValue) % 1 === 0);
+const ouInstruction = computedOuValue !== null
+  ? ouIsNeutral
+    ? `오버언더 값은 JS 계산 결과 ${computedOuValue} 로 고정한다. PICK_OU_VALUE는 반드시 ${computedOuValue} 로 출력하라. PICK_OU_DIRECTION은 이 수치가 정수 기준선이므로 부상정보·최근 흐름·홈/원정 이점을 종합해 오버 또는 언더 중 하나를 반드시 판단하라.`
+    : `오버언더 값은 JS 계산 결과 ${computedOuValue} 로 고정한다. PICK_OU_VALUE는 반드시 ${computedOuValue} 로 출력하라. PICK_OU_DIRECTION은 이 수치 기준으로 오버 또는 언더를 판단하라.`
+  : '';
 
 const matchDataPrompt = `
 지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.
@@ -582,6 +701,8 @@ const matchDataPrompt = `
 - 홈팀: ${match.home}
 - 원정팀: ${match.away}
 - ${sportPickRule}
+${handicapConstraint ? `- ${handicapConstraint}` : ''}
+${ouInstruction ? `- ${ouInstruction}` : ''}
 
 [상대전적 DB - 아래 데이터를 H2H에 그대로 사용하라. 웹 검색 절대 금지]
 ${h2hContextForAI || '없음 - H2H: ※ H2H 업데이트 예정 으로만 표기'}
@@ -591,13 +712,13 @@ ${h2hContextForAI || '없음 - H2H: ※ H2H 업데이트 예정 으로만 표기
 [홈팀 ${seasonLabel} 전체 DB - ${seasonLabel} 성적(승패, 득점, 홈성적 등) 분석에 사용하라. 이 데이터 외 다른 연도 수치 절대 사용 금지]
 ${homeAllContext}
 
-[홈팀 최근 5경기 DB - 핸디캡/오버언더 산출 및 최근 흐름 파악에 사용하라]
+[홈팀 최근 5경기 DB - 최근 흐름 파악에 사용하라]
 ${homeRecentContext}
 
 [원정팀 ${seasonLabel} 전체 DB - ${seasonLabel} 성적(승패, 득점, 홈성적 등) 분석에 사용하라. 이 데이터 외 다른 연도 수치 절대 사용 금지]
 ${awayAllContext}
 
-[원정팀 최근 5경기 DB - 핸디캡/오버언더 산출 및 최근 흐름 파악에 사용하라]
+[원정팀 최근 5경기 DB - 최근 흐름 파악에 사용하라]
 ${awayRecentContext}
 `;
 
