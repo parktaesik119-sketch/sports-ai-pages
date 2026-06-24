@@ -43,29 +43,29 @@ function getTeamScores(matches, teamName) {
   }).filter(s => s !== null);
 }
 
-// 공통 유틸: 새 가중 평균 (상하위 1개 제거 → 이상치 필터 → 최종 평균)
+// 공통 유틸: 가중 이동 평균 (최근 경기일수록 높은 가중치)
 function trimmedAvg(scores, isBball = false) {
   if (scores.length === 0) return null;
-  if (scores.length <= 2) return scores.reduce((a, b) => a + b, 0) / scores.length;
+  if (scores.length === 1) return scores[0];
 
-  // 1. 상하위 1개씩 제거
-  const sorted = [...scores].sort((a, b) => a - b);
-  let filtered = sorted.slice(1, -1);
+  // 농구 전용: 60점 미만은 데이터 오류로 판단하여 완전 제거
+  const validScores = isBball ? scores.filter(v => v >= 60) : scores;
+  if (validScores.length === 0) return null;
+  if (validScores.length === 1) return validScores[0];
 
-  // 2. 남은 값의 평균 계산
-  let avg = filtered.reduce((a, b) => a + b, 0) / filtered.length;
+  // scores는 최신순으로 들어옴 (index 0 = 가장 최근)
+  // 가중치: 최근 경기 N, 그 전 N-1, ... 1
+  const n = validScores.length;
+  let weightedSum = 0;
+  let totalWeight = 0;
 
-  // 3. 평균의 2배 초과 제거 (전 종목 공통)
-  filtered = filtered.filter(v => v <= avg * 2);
-
-  // 4. 농구 전용: 평균의 0.5배 미만 + 50점 미만 제거
-  if (isBball) {
-    filtered = filtered.filter(v => v >= avg * 0.5 && v >= 50);
+  for (let i = 0; i < n; i++) {
+    const weight = n - i;
+    weightedSum += validScores[i] * weight;
+    totalWeight += weight;
   }
 
-  // 5. 최종 평균
-  if (filtered.length === 0) return avg;
-  return filtered.reduce((a, b) => a + b, 0) / filtered.length;
+  return weightedSum / totalWeight;
 }
 
 // H2H 평균 득점 계산 (홈팀/원정팀 각각 양쪽 포지션 모두 포함)
@@ -124,7 +124,7 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
     else                    return { homeScore: 0, awayScore: 3 };
   }
 
-  return { homeScore, awayScore };
+  return { homeScore, awayScore, homeAvg: parseFloat(homeAvg.toFixed(2)), awayAvg: parseFloat(awayAvg.toFixed(2)) };
 }
 
 // 핸디캡 제약 계산용 합산 총점 (기존 calcOuValue 역할 유지)
@@ -442,9 +442,9 @@ PICK_EXPECTED_HOME: (홈팀 예상 득점. 경기 정보에 제공된 JS 계산�
 PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계산값을 그대로 출력하라. LOL/배구는 "없음"으로 표기. 반드시 숫자로만 기재.)
 
 [분석 규칙]
-1. 웹 검색으로 결장자와 부상자 정보만 확인하라. 리그 순위와 시즌 성적은 제공된 DB 데이터를 활용하라.
+1. 웹 검색으로 결장자와 부상자 정보만 확인하라. 리그 순위와 시즌 성적은 제공된 DB 데이터를 활용하라. 단, 득점 평균 수치는 반드시 [경기 정보]에 제공된 JS 계산값을 기준으로만 언급하라. DB에서 자체 계산한 평균 득점 수치를 분석글에 직접 기재하지 마라.
 2. 대한민국을 '남한', '한국'으로 표기하지 마라. 반드시 '대한민국'으로만 표기하라.
-3. 팀명을 임의로 번역하지 마라. 제공된 영문 팀명 그대로 사용하라. 팀명은 반드시 풀네임으로 표기하라. "GIANTS", "MARLINS", "TWINS" 같은 약식 표기 절대 금지. 예: "GIANTS" → "SAN FRANCISCO GIANTS", "MARLINS" → "MIAMI MARLINS".
+3. 팀명은 반드시 [경기 정보]에 제공된 홈팀/원정팀 이름을 그대로 사용하라. 임의로 번역하거나 변형하지 마라. 팀명은 반드시 풀네임으로 표기하라. "GIANTS", "MARLINS", "TWINS" 같은 약식 표기 절대 금지. 예: "GIANTS" → "SAN FRANCISCO GIANTS", "MARLINS" → "MIAMI MARLINS".
 4. 한자, 일어 사용 금지. 100% 한글로만 작성하라.
 5. '폼' 대신 '전력'이라고 표기하라.
 
@@ -717,6 +717,11 @@ const expectedScores = (cat !== 'lol')
   ? calcExpectedScores(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, h2hHistory)
   : null;
 
+  //Avg 콘솔 출력
+  if (expectedScores) {
+  console.log(`📊 [Avg] ${match.home} vs ${match.away} | homeAvg: ${expectedScores.homeAvg} / awayAvg: ${expectedScores.awayAvg} | homeScore: ${expectedScores.homeScore} / awayScore: ${expectedScores.awayScore}`);
+}
+
 // JS로 OU 합산 계산 (핸디캡 제약용, 롤/배구 제외)
 const computedOuValue = (cat !== 'lol' && cat !== 'volleyball')
   ? calcOuValue(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, h2hHistory)
@@ -731,8 +736,21 @@ const isDrawExpected = expectedScores !== null
 const jsHandicapValue = null;
 
 const ouInstruction = expectedScores !== null
-  ? `예상 스코어는 JS 계산 결과 홈팀 ${expectedScores.homeScore} - 원정팀 ${expectedScores.awayScore} 이다. PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라.`
-    + (isDrawExpected && cat === 'soccer' ? ` 예상 스코어가 동점이므로 PICK_WIN_RESULT는 반드시 "무승부"로, PICK_WIN_TEAM은 "무승부"로 출력하라.` : '')
+  ? (() => {
+      const homeAvg = expectedScores.homeAvg;
+      const awayAvg = expectedScores.awayAvg;
+      let base = `예상 스코어는 JS 계산 결과 홈팀 ${expectedScores.homeScore} - 원정팀 ${expectedScores.awayScore} 이다. PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라.`;
+      if (homeAvg !== null && awayAvg !== null && homeAvg !== awayAvg) {
+        const stronger = homeAvg > awayAvg ? '홈팀' : '원정팀';
+        const _aiHome = TEAM_NAME_MAP[match.home] || match.home;
+const _aiAway = TEAM_NAME_MAP[match.away] || match.away;
+base += ` 전력 분석상 ${stronger}이 우위에 있으므로 PICK_WIN_TEAM은 ${stronger === '홈팀' ? _aiHome : _aiAway}으로 출력하라.`;
+      }
+      if (isDrawExpected && cat === 'soccer') {
+        base += ` 예상 스코어가 동점이므로 PICK_WIN_RESULT는 반드시 "무승부"로, PICK_WIN_TEAM은 "무승부"로 출력하라.`;
+      }
+      return base;
+    })()
   : '';
 
 const handicapInstruction = cat === 'lol'
@@ -750,8 +768,8 @@ const matchDataPrompt = `
 
 [경기 정보]
 - 종목: ${cat} ${gameContext}
-- 홈팀: ${match.home}
-- 원정팀: ${match.away}
+- 홈팀: ${aiHomeName} (DB 원문: ${match.home})
+- 원정팀: ${aiAwayName} (DB 원문: ${match.away})
 - ${sportPickRule}
 ${handicapInstruction ? `- ${handicapInstruction}` : ''}
 ${ouInstruction ? `- ${ouInstruction}` : ''}
@@ -867,8 +885,8 @@ async function analyzeMatchesRetry() {
 이전 응답이 유효하지 않아 재분석합니다. 반드시 아래 형식 그대로 모든 키를 출력하세요.
 
 ${gameContext}
-- 홈팀: ${match.home}
-- 원정팀: ${match.away}
+- 홈팀: ${aihomename}
+- 원정팀: ${aiawayname}
 - 리그: ${match.league}
 - ${retrySportPickRule}
 `;
@@ -1035,7 +1053,7 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
     const ea = parseInt(finalExpectedAway);
     if (!isNaN(eh) && !isNaN(ea) && eh === ea) {
       const bonus = cat === 'basketball' ? 3 : 1;
-      const homeNames = [match.home, aiHomeName].filter(Boolean).map(n => n.toLowerCase());
+      const homeNames = [match.home, aiHomeName, TEAM_NAME_MAP[match.home]].filter(Boolean).map(n => n.toLowerCase());
       const winnerIsHome = homeNames.some(n => finalPickWinTeam.toLowerCase().includes(n) || n.includes(finalPickWinTeam.toLowerCase()));
       if (winnerIsHome) {
         finalExpectedHome = String(eh + bonus);
@@ -1051,10 +1069,10 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
     const eh = parseInt(finalExpectedHome);
     const ea = parseInt(finalExpectedAway);
     if (!isNaN(eh) && !isNaN(ea)) {
-      const homeNames = [match.home, aiHomeName].filter(Boolean).map(n => n.toLowerCase());
-      const winnerIsHome = homeNames.some(n =>
-        finalPickWinTeam.toLowerCase().includes(n) || n.includes(finalPickWinTeam.toLowerCase())
-      );
+      const homeNames = [match.home, aiHomeName, TEAM_NAME_MAP[match.home]].filter(Boolean).map(n => n.toLowerCase());
+const winnerIsHome = homeNames.some(n =>
+  finalPickWinTeam.toLowerCase().includes(n) || n.includes(finalPickWinTeam.toLowerCase())
+);
       const scoreWinnerIsHome = eh > ea;
       // 픽 승자와 스코어 승자가 다른 경우 뒤집기
       if (winnerIsHome !== scoreWinnerIsHome) {
@@ -1204,7 +1222,7 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
   const homeRecentJson = JSON.stringify(homeRecentMatches.slice(0, 5).map(m => ({
-    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timezone: 'asia/seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
+    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timeZone: 'Asia/Seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
     score: (m.homeScore !== null && m.awayScore !== null) ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
@@ -1217,7 +1235,7 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
   })));
 
   const awayRecentJson = JSON.stringify(awayRecentMatches.slice(0, 5).map(m => ({
-    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timezone: 'asia/seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
+    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timeZone: 'Asia/Seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
     score: (m.homeScore !== null && m.awayScore !== null) ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),

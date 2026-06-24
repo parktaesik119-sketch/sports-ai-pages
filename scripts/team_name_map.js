@@ -1103,7 +1103,7 @@ const TEAM_NAME_MAP = {
   "Venezuela W": "베네수엘라",
   "Belgium": "벨기에",
   "Egypt": "이집트",
-  "Ivory Coast": "코티드부아르",
+  "Ivory Coast": "코트디부아르",
   "Ecuador": "에콰도르",
   "Argentina": "아르헨티나",
   "Brazil": "브라질",
