@@ -43,13 +43,29 @@ function getTeamScores(matches, teamName) {
   }).filter(s => s !== null);
 }
 
-// 공통 유틸: 최고/최저 제거 후 평균
-function trimmedAvg(scores) {
+// 공통 유틸: 새 가중 평균 (상하위 1개 제거 → 이상치 필터 → 최종 평균)
+function trimmedAvg(scores, isBball = false) {
   if (scores.length === 0) return null;
   if (scores.length <= 2) return scores.reduce((a, b) => a + b, 0) / scores.length;
+
+  // 1. 상하위 1개씩 제거
   const sorted = [...scores].sort((a, b) => a - b);
-  const trimmed = sorted.slice(1, -1);
-  return trimmed.reduce((a, b) => a + b, 0) / trimmed.length;
+  let filtered = sorted.slice(1, -1);
+
+  // 2. 남은 값의 평균 계산
+  let avg = filtered.reduce((a, b) => a + b, 0) / filtered.length;
+
+  // 3. 평균의 2배 초과 제거 (전 종목 공통)
+  filtered = filtered.filter(v => v <= avg * 2);
+
+  // 4. 농구 전용: 평균의 0.5배 미만 + 50점 미만 제거
+  if (isBball) {
+    filtered = filtered.filter(v => v >= avg * 0.5 && v >= 50);
+  }
+
+  // 5. 최종 평균
+  if (filtered.length === 0) return avg;
+  return filtered.reduce((a, b) => a + b, 0) / filtered.length;
 }
 
 // H2H 평균 득점 계산 (홈팀/원정팀 각각 양쪽 포지션 모두 포함)
@@ -73,10 +89,12 @@ function weightedAvg(recentAvg, h2hAvg) {
   return recentAvg * 0.7 + h2hAvg * 0.3;
 }
 
-// 오버언더 계산 함수 (최고/최저 제거 후 평균 + H2H 가중치)
-function calcOuValue(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches = []) {
-  const homeRecentAvg = trimmedAvg(getTeamScores(homeMatches, homeTeam));
-  const awayRecentAvg = trimmedAvg(getTeamScores(awayMatches, awayTeam));
+// 예상 스코어 계산 함수 (홈팀/원정팀 각각 반환)
+function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches = []) {
+  const isBball = cat === 'basketball';
+
+  const homeRecentAvg = trimmedAvg(getTeamScores(homeMatches, homeTeam), isBball);
+  const awayRecentAvg = trimmedAvg(getTeamScores(awayMatches, awayTeam), isBball);
 
   const homeH2hAvg = getH2hAvgScore(h2hMatches, homeTeam);
   const awayH2hAvg = getH2hAvgScore(h2hMatches, awayTeam);
@@ -86,57 +104,80 @@ function calcOuValue(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatch
 
   if (homeAvg === null || awayAvg === null) return null;
 
-  const raw = homeAvg + awayAvg;
+  // 종목별 반올림 및 동점 보정
+  const roundScore = (val) => Math.round(val);
 
+  let homeScore = roundScore(homeAvg);
+  let awayScore = roundScore(awayAvg);
+
+  // 동점 보정(축구 제외)은 savePost에서 픽 승자 확정 후 처리하므로 여기선 제거
+  // calcExpectedScores는 순수 계산값만 반환
+
+  // 배구: 세트 스코어로 변환 (3:0 / 3:1 / 3:2)
+  if (cat === 'volleyball') {
+    const ratio = homeAvg / (homeAvg + awayAvg);
+    if (ratio >= 0.75)      return { homeScore: 3, awayScore: 0 };
+    else if (ratio >= 0.58) return { homeScore: 3, awayScore: 1 };
+    else if (ratio >= 0.5)  return { homeScore: 3, awayScore: 2 };
+    else if (ratio >= 0.42) return { homeScore: 2, awayScore: 3 };
+    else if (ratio >= 0.25) return { homeScore: 1, awayScore: 3 };
+    else                    return { homeScore: 0, awayScore: 3 };
+  }
+
+  return { homeScore, awayScore };
+}
+
+// 핸디캡 제약 계산용 합산 총점 (기존 calcOuValue 역할 유지)
+function calcOuValue(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches = []) {
+  const result = calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches);
+  if (!result) return null;
+  const raw = result.homeScore + result.awayScore;
   if (cat === 'basketball') {
-    const rounded = Math.round(raw * 2) / 2;
-    return Math.min(215.5, Math.max(155.5, rounded)).toFixed(1);
+    return Math.min(215.5, Math.max(155.5, raw)).toFixed(1);
   } else if (cat === 'baseball') {
-    const rounded = Math.round(raw * 2) / 2;
-    return Math.min(15.5, Math.max(4.5, rounded)).toFixed(1);
+    return Math.min(15.5, Math.max(4.5, raw)).toFixed(1);
   } else {
-    const rounded = Math.round(raw * 2) / 2;
-    return rounded.toFixed(1);
+    return String(raw);
   }
 }
 
-// 핸디캡 허용 범위 계산 함수 (OU 값 및 득점 차 기반)
-function calcHandicapConstraint(homeMatches, awayMatches, homeTeam, awayTeam, cat, ouValue, h2hMatches = []) {
-  if (cat === 'lol' || cat === 'volleyball') return '';
+// 예상스코어 기반 핸디캡 자동 산출 함수
+// expectedScores: { homeScore, awayScore } 또는 null
+// winnerIsHome: true = 홈팀 승 예상, false = 원정팀 승 예상
+function calcHandicapValue(cat, expectedScores, winnerIsHome) {
+  if (!expectedScores) return null;
 
-  const homeRecentAvg = trimmedAvg(getTeamScores(homeMatches, homeTeam));
-  const awayRecentAvg = trimmedAvg(getTeamScores(awayMatches, awayTeam));
-
-  const homeH2hAvg = getH2hAvgScore(h2hMatches, homeTeam);
-  const awayH2hAvg = getH2hAvgScore(h2hMatches, awayTeam);
-
-  const homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg);
-  const awayAvg = weightedAvg(awayRecentAvg, awayH2hAvg);
-  const diff = (homeAvg !== null && awayAvg !== null) ? Math.abs(homeAvg - awayAvg) : null;
-  const ou = ouValue !== null ? parseFloat(ouValue) : null;
+  const diff = Math.abs(expectedScores.homeScore - expectedScores.awayScore);
+  const sign = winnerIsHome ? '-' : '+';
 
   if (cat === 'soccer' || cat === 'hockey') {
-    if (ou === null) return '';
-    if (ou <= 1.5) return `핸디캡은 반드시 -0.5 로 고정하라. (OU ${ou} 기준, 1점 차 이내 승부 예상)`;
-    if (ou <= 2.5) return `핸디캡은 -0.5 또는 -1.5 중 선택하라. (OU ${ou} 기준)`;
-    if (ou <= 3.5) return `핸디캡은 -1.5 또는 -2.5 중 선택하라. (OU ${ou} 기준)`;
-    return `핸디캡은 -2.5 이상으로 산출하라. (OU ${ou} 기준)`;
+    if (diff <= 1) return `${sign}0.5`;
+    if (diff === 2) return `${sign}1.5`;
+    return `${sign}2.5`;
   }
 
   if (cat === 'baseball') {
-    if (diff === null) return `핸디캡은 -1.5 또는 -2.5 중 선택하라.`;
-    if (diff < 1.0) return `핸디캡은 반드시 -1.5 로 고정하라. (득점 차 ${diff.toFixed(1)} 기준, 접전 예상)`;
-    if (diff < 2.5) return `핸디캡은 -2.5 로 산출하라. (득점 차 ${diff.toFixed(1)} 기준)`;
-    return `핸디캡은 -3.5 이상으로 산출하라. (득점 차 ${diff.toFixed(1)} 기준)`;
+    if (diff <= 1) return `${sign}0.5`;
+    if (diff <= 3) return `${sign}1.5`;
+    return `${sign}2.5`;
   }
 
   if (cat === 'basketball') {
-    if (ou === null) return '';
-    if (ou <= 170) return `핸디캡은 -2.5 ~ -5.5 범위에서 산출하라. (OU ${ou} 기준, 접전 예상)`;
-    return `핸디캡은 전력 차에 따라 -2.5 ~ -15.5 범위에서 산출하라. (OU ${ou} 기준)`;
+    if (diff <= 4)  return `${sign}2.5`;
+    if (diff <= 9)  return `${sign}5.5`;
+    if (diff <= 14) return `${sign}8.5`;
+    if (diff <= 19) return `${sign}11.5`;
+    return `${sign}15.5`;
   }
 
-  return '';
+  if (cat === 'volleyball') {
+    // 세트스코어 기반: expectedScores = { homeScore: 세트, awayScore: 세트 }
+    if (diff === 3) return `${sign}2.5`;
+    if (diff === 2) return `${sign}1.5`;
+    return `${sign}0.5`;
+  }
+
+  return null;
 }
 
 // 최근 경기 → AI 컨텍스트 + 가로 한줄 형식
@@ -387,8 +428,8 @@ if (isExtraFiltered) {
 
 HOME_ANALYSIS: (홈팀 분석. 존댓말로 자연스럽게 5문장 이상 서술하라. 반드시 [홈팀 시즌 전체 DB]만 기준으로 시즌 성적(승패수, 승률, 득점 평균 등)을 첫 문장에 언급하고, 최근 흐름과 자연스럽게 연결하라. 득점력, 수비력, 홈/원정 성적, 강점 또는 주목 선수를 흐름 안에 녹여 작성하라. 다른 연도 수치 사용 절대 금지. "최근 5경기에서 N승 N패" 같은 수치 나열식 첫 문장 절대 금지. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
 AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 방식으로 원정팀 기준으로 작성하라. 반드시 [원정팀 시즌 전체 DB]만 기준으로 시즌 성적을 먼저 언급하고 최근 흐름과 자연스럽게 연결하라. 다른 연도 수치 사용 절대 금지. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
-HOME_POWER: (홈팀 핵심 포인트 5개를 파이프(|)로 구분. 각 20자 이내. 반드시 [홈팀 시즌 전체 DB] 기준 구체적 수치 포함. 예: 시즌 26경기 14승12패|평균 4.2득점 공격력 우수|홈 승률 .620 강세|최근 3연승 흐름|수비 실점 2점 이하 유지)
-AWAY_POWER: (원정팀 핵심 포인트 5개를 파이프(|)로 구분. 각 20자 이내. 반드시 [원정팀 시즌 전체 DB] 기준 구체적 수치 포함. 예: 시즌 26경기 10승16패|평균 3.5득점 수준|원정 2연속 대패|실점 급증 흐름|주전 타선 침묵)
+HOME_POWER: (홈팀 핵심 포인트 5개를 파이프(|)로 구분. 각 30자 이내. 반드시 [홈팀 시즌 전체 DB] 기준 구체적 수치 포함. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지. 예: 시즌 26경기 14승12패|평균 4.2득점 공격력 우수|홈 승률 .620 강세|최근 3연승 흐름|수비 실점 2점 이하 유지)
+AWAY_POWER: (원정팀 핵심 포인트 5개를 파이프(|)로 구분. 각 30자 이내. 반드시 [원정팀 시즌 전체 DB] 기준 구체적 수치 포함. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지. 예: 시즌 26경기 10승16패|평균 3.5득점 수준|원정 2연속 대패|실점 급증 흐름|주전 타선 침묵)
 H2H: (상대전적. DB에 있으면 각 경기를 파이프(|)로 구분하여 기재. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 없으면 반드시 "※ H2H 업데이트 예정" 으로만 표기. 웹 검색 절대 금지.)
 SUMMARY: (종합 분석. 존댓말로 3문장 이상. 반드시 [시즌 전체 DB] 기준 수치만 활용하라. 다른 연도 수치 사용 절대 금지. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 시즌 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라.)
 INJURY_HOME: (홈팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
@@ -396,9 +437,9 @@ INJURY_AWAY: (원정팀 부상/결장 선수. 선수명은 영문 원문 그대�
 PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부". 배당 검색 금지. 반드시 아래 제공된 최근경기 DB와 상대전적 DB만을 근거로 판단하라.)
 PICK_WIN_RESULT: (승 또는 무승부)
 PICK_HANDICAP_TEAM: (핸디캡 기준 팀명. 반드시 PICK_WIN_TEAM과 동일한 팀으로 설정하라. 배당 검색 금지.)
-PICK_HANDICAP_VALUE: (경기 정보에 제공된 핸디캡 허용 범위 안에서 양 팀 전력 차를 반영해 산출하라. 롤/배구는 세트 기준으로 자체 산출. "없음" 절대 금지. 반드시 숫자로만 기재.)
-PICK_OU_DIRECTION: (오버 또는 언더. 배당 검색 금지. 경기 정보에 제공된 오버언더 값 기준으로 판단하라. 반드시 핸디캡 값과 논리적으로 일관성을 유지하라. 롤/배구는 세트 기준으로 자체 판단.)
-PICK_OU_VALUE: (경기 정보에 제공된 오버언더 값을 그대로 출력하라. 롤/배구는 세트 기준으로 자체 산출. "없음" 절대 금지. 반드시 숫자로만 기재.)
+PICK_HANDICAP_VALUE: (경기 정보에 제공된 핸디캡 값을 그대로 출력하라. LOL은 세트 기준으로 자체 산출. "없음" 절대 금지. 반드시 숫자로만 기재.)
+PICK_EXPECTED_HOME: (홈팀 예상 득점. 경기 정보에 제공된 JS 계산값을 그대로 출력하라. LOL/배구는 "없음"으로 표기. 반드시 숫자로만 기재.)
+PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계산값을 그대로 출력하라. LOL/배구는 "없음"으로 표기. 반드시 숫자로만 기재.)
 
 [분석 규칙]
 1. 웹 검색으로 결장자와 부상자 정보만 확인하라. 리그 순위와 시즌 성적은 제공된 DB 데이터를 활용하라.
@@ -525,9 +566,9 @@ PICK_OU_VALUE: (경기 정보에 제공된 오버언더 값을 그대로 출력�
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
                      (m.homeScore !== null && m.awayScore !== null);
     return isHomeTeam && isPast && isRecentEnough && hasScore;
-  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
+  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
-  // 원정팀 최근 5경기 추출
+  // 원정팀 최근 10경기 추출 (계산용. 표기는 5개로 제한)
   const awayRecentMatches = masterData.filter(m => {
     const isAwayTeam = m.home === match.away || m.away === match.away;
     const matchDate = new Date(m.date);
@@ -536,7 +577,7 @@ PICK_OU_VALUE: (경기 정보에 제공된 오버언더 값을 그대로 출력�
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
                      (m.homeScore !== null && m.awayScore !== null);
     return isAwayTeam && isPast && isRecentEnough && hasScore;
-  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
+  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
   // 시즌 전체 경기 추출 (올해 1월 1일 이후)
   const currentYear = new Date().getFullYear();
@@ -667,27 +708,36 @@ const seasonLabel = isInternationalTournament ? `이번 ${match.league}에서` :
 // 2. 매 경기 실시간으로 변경되는 데이터만 User 프롬프트로 묶어줍니다.
 const sportPickRule = cat === 'lol'
   ? `핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 2.5 세트)`
-  : cat === 'volleyball'
-  ? `배구다. 핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 3.5 세트)`
-  : cat === 'basketball'
-  ? `농구다. 핸디캡은 양 팀 전력 차를 분석해 -2.5~-15.5 범위에서 0.25 단위 소수점으로 산출하라. 정수 출력 절대 금지.`
-  : cat === 'baseball'
-  ? `야구다. 핸디캡은 -1.5 또는 +1.5 중 선택.`
   : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라.`;
 
-// JS로 OU 계산 (롤/배구 제외)
+// JS로 예상스코어 계산 (롤 제외)
+const expectedScores = (cat !== 'lol')
+  ? calcExpectedScores(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, h2hHistory)
+  : null;
+
+// JS로 OU 합산 계산 (핸디캡 제약용, 롤/배구 제외)
 const computedOuValue = (cat !== 'lol' && cat !== 'volleyball')
   ? calcOuValue(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, h2hHistory)
   : null;
 
-const handicapConstraint = calcHandicapConstraint(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, computedOuValue, h2hHistory);
+// 예상스코어 동점 여부 (축구만 동점 허용)
+const isDrawExpected = expectedScores !== null
+  && expectedScores.homeScore === expectedScores.awayScore
+  && cat === 'soccer';
 
-const ouIsNeutral = computedOuValue !== null && (parseFloat(computedOuValue) % 1 === 0);
-const ouInstruction = computedOuValue !== null
-  ? ouIsNeutral
-    ? `오버언더 값은 JS 계산 결과 ${computedOuValue} 로 고정한다. PICK_OU_VALUE는 반드시 ${computedOuValue} 로 출력하라. PICK_OU_DIRECTION은 이 수치가 정수 기준선이므로 부상정보·최근 흐름·홈/원정 이점을 종합해 오버 또는 언더 중 하나를 반드시 판단하라.`
-    : `오버언더 값은 JS 계산 결과 ${computedOuValue} 로 고정한다. PICK_OU_VALUE는 반드시 ${computedOuValue} 로 출력하라. PICK_OU_DIRECTION은 이 수치 기준으로 오버 또는 언더를 판단하라.`
+// jsHandicapValue는 savePost에서 동점 보정 후 finalExpectedHome/Away 기준으로 산출
+const jsHandicapValue = null;
+
+const ouInstruction = expectedScores !== null
+  ? `예상 스코어는 JS 계산 결과 홈팀 ${expectedScores.homeScore} - 원정팀 ${expectedScores.awayScore} 이다. PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라.`
+    + (isDrawExpected && cat === 'soccer' ? ` 예상 스코어가 동점이므로 PICK_WIN_RESULT는 반드시 "무승부"로, PICK_WIN_TEAM은 "무승부"로 출력하라.` : '')
   : '';
+
+const handicapInstruction = cat === 'lol'
+  ? `핸디캡은 세트 기준으로 자체 산출하라.`
+  : isDrawExpected
+  ? `예상 스코어가 동점이므로 핸디캡 추천 없음. PICK_HANDICAP_VALUE는 "없음"으로 출력하라.`
+  : `핸디캡 값은 JS에서 자동 산출된다. PICK_HANDICAP_VALUE는 반드시 "0"으로만 출력하라.`;
 
 const matchDataPrompt = `
 지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.
@@ -701,7 +751,7 @@ const matchDataPrompt = `
 - 홈팀: ${match.home}
 - 원정팀: ${match.away}
 - ${sportPickRule}
-${handicapConstraint ? `- ${handicapConstraint}` : ''}
+${handicapInstruction ? `- ${handicapInstruction}` : ''}
 ${ouInstruction ? `- ${ouInstruction}` : ''}
 
 [상대전적 DB - 아래 데이터를 H2H에 그대로 사용하라. 웹 검색 절대 금지]
@@ -712,13 +762,13 @@ ${h2hContextForAI || '없음 - H2H: ※ H2H 업데이트 예정 으로만 표기
 [홈팀 ${seasonLabel} 전체 DB - ${seasonLabel} 성적(승패, 득점, 홈성적 등) 분석에 사용하라. 이 데이터 외 다른 연도 수치 절대 사용 금지]
 ${homeAllContext}
 
-[홈팀 최근 5경기 DB - 최근 흐름 파악에 사용하라]
+[홈팀 최근 경기 DB - 최근 흐름 파악에 사용하라]
 ${homeRecentContext}
 
 [원정팀 ${seasonLabel} 전체 DB - ${seasonLabel} 성적(승패, 득점, 홈성적 등) 분석에 사용하라. 이 데이터 외 다른 연도 수치 절대 사용 금지]
 ${awayAllContext}
 
-[원정팀 최근 5경기 DB - 최근 흐름 파악에 사용하라]
+[원정팀 최근 경기 DB - 최근 흐름 파악에 사용하라]
 ${awayRecentContext}
 `;
 
@@ -937,16 +987,16 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
   const pickWinResult     = extract('PICK_WIN_RESULT');
   const pickHandicapTeam  = extract('PICK_HANDICAP_TEAM');
   const pickHandicapValue = extract('PICK_HANDICAP_VALUE');
-  const pickOuDirection   = extract('PICK_OU_DIRECTION');
-  const pickOuValue       = extract('PICK_OU_VALUE');
+  const pickExpectedHome  = extract('PICK_EXPECTED_HOME');
+  const pickExpectedAway  = extract('PICK_EXPECTED_AWAY');
 
   // 3. 필수 값 검증
   if (!homeAnalysis || !awayAnalysis || !summary) {
   console.error(`❌ [필수값 누락] HOME_ANALYSIS/AWAY_ANALYSIS/SUMMARY 없음: ${match.home}`);
   return false;
 }
-if (!pickWinTeam || !pickHandicapValue || !pickOuValue) {
-  console.error(`❌ [픽 누락] PICK 항목 빈값: ${match.home} | WIN:${pickWinTeam} HANDICAP:${pickHandicapValue} OU:${pickOuValue}`);
+if (!pickWinTeam || !pickHandicapValue) {
+  console.error(`❌ [픽 누락] PICK 항목 빈값: ${match.home} | WIN:${pickWinTeam} HANDICAP:${pickHandicapValue}`);
   return false;
 }
 const homeAnalysisSentences = homeAnalysis.split(/(?<=[.!?])\s+/).filter(Boolean).length;
@@ -973,19 +1023,83 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
     return (Math.round(n * 2) / 2).toFixed(1);
   };
 
-  // 핸디캡 보정: 없음/미확인이면 -0.5 기본값
-  let finalHandicapValue = roundToHalf(pickHandicapValue) || '-0.5';
-  if (finalPickWinTeam && finalPickWinTeam !== '무승부' && finalPickWinTeam === pickHandicapTeam) {
-    const num = parseFloat(finalHandicapValue);
-    if (!isNaN(num) && num >= 0) finalHandicapValue = `-${Math.abs(num) || 0.5}`;
+  // 예상스코어: AI가 출력한 값 그대로 사용 (JS 계산값을 지시했으므로 그대로)
+  let finalExpectedHome = (pickExpectedHome && pickExpectedHome !== '없음') ? pickExpectedHome : '';
+  let finalExpectedAway = (pickExpectedAway && pickExpectedAway !== '없음') ? pickExpectedAway : '';
+
+  // 동점 보정 (축구 제외, 픽 승자 기준)
+  if (cat !== 'soccer' && finalExpectedHome && finalExpectedAway) {
+    const eh = parseInt(finalExpectedHome);
+    const ea = parseInt(finalExpectedAway);
+    if (!isNaN(eh) && !isNaN(ea) && eh === ea) {
+      const bonus = cat === 'basketball' ? 3 : 1;
+      const homeNames = [match.home, aiHomeName].filter(Boolean).map(n => n.toLowerCase());
+      const winnerIsHome = homeNames.some(n => finalPickWinTeam.toLowerCase().includes(n) || n.includes(finalPickWinTeam.toLowerCase()));
+      if (winnerIsHome) {
+        finalExpectedHome = String(eh + bonus);
+      } else {
+        finalExpectedAway = String(ea + bonus);
+      }
+    }
   }
 
-  // 오버언더 보정: 없음/미확인이면 종목별 기본값
-  const ouFallback = cat === 'basketball' ? '167.5'
-    : cat === 'baseball' ? '8.5'
-    : cat === 'volleyball' ? '3.5'
-    : '2.5';
-  const finalOuValue = roundToHalf(pickOuValue) || ouFallback;
+  // 승자 픽 기준 예상스코어 방향 보정 (축구 무승부 제외)
+  // AI 픽 승자와 예상스코어 승자가 다르면 점수 차를 유지한 채 뒤집기
+  if (cat !== 'soccer' && finalExpectedHome && finalExpectedAway && finalPickWinTeam) {
+    const eh = parseInt(finalExpectedHome);
+    const ea = parseInt(finalExpectedAway);
+    if (!isNaN(eh) && !isNaN(ea)) {
+      const homeNames = [match.home, aiHomeName].filter(Boolean).map(n => n.toLowerCase());
+      const winnerIsHome = homeNames.some(n =>
+        finalPickWinTeam.toLowerCase().includes(n) || n.includes(finalPickWinTeam.toLowerCase())
+      );
+      const scoreWinnerIsHome = eh > ea;
+      // 픽 승자와 스코어 승자가 다른 경우 뒤집기
+      if (winnerIsHome !== scoreWinnerIsHome) {
+        finalExpectedHome = String(ea);
+        finalExpectedAway = String(eh);
+      }
+    }
+  }
+
+  // 축구 동점 스코어 상한선 보정 (3:3 이상 → 2:2)
+  if (cat === 'soccer' && finalExpectedHome && finalExpectedAway) {
+    const eh = parseInt(finalExpectedHome);
+    const ea = parseInt(finalExpectedAway);
+    if (!isNaN(eh) && !isNaN(ea) && eh === ea && eh >= 3) {
+      finalExpectedHome = '2';
+      finalExpectedAway = '2';
+    }
+  }
+
+  // 핸디캡 보정 (동점 보정된 finalExpectedHome/Away 기준으로 산출)
+  let finalHandicapValue = '';
+
+  if (finalPickWinResult === '무승부' || finalPickWinTeam === '무승부' || finalPickWinTeam === '') {
+    // 축구 무승부 → 핸디캡 없음
+    finalHandicapValue = '';
+  } else {
+    const expHome = finalExpectedHome ? parseInt(finalExpectedHome) : null;
+    const expAway = finalExpectedAway ? parseInt(finalExpectedAway) : null;
+
+    if (expHome !== null && expAway !== null) {
+      const diff = Math.abs(expHome - expAway);
+      // calcHandicapValue 로직 인라인 (보정된 스코어 기준)
+      let absVal = '0.5';
+      if (cat === 'soccer' || cat === 'hockey') {
+        absVal = diff <= 1 ? '0.5' : diff === 2 ? '1.5' : '2.5';
+      } else if (cat === 'baseball') {
+        absVal = diff <= 1 ? '0.5' : diff <= 3 ? '1.5' : '2.5';
+      } else if (cat === 'basketball') {
+        absVal = diff <= 4 ? '2.5' : diff <= 9 ? '5.5' : diff <= 14 ? '8.5' : diff <= 19 ? '11.5' : '15.5';
+      } else if (cat === 'volleyball') {
+        absVal = diff === 3 ? '2.5' : diff === 2 ? '1.5' : '0.5';
+      }
+      finalHandicapValue = `-${absVal}`;
+    } else {
+      finalHandicapValue = '-0.5';
+    }
+  }
 
   // 6. 팀명 일괄 치환 함수
   const replaceTeamNames = (text) => {
@@ -1002,8 +1116,8 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
   const homeAnalysisKor   = replaceTeamNames(homeAnalysis);
   const awayAnalysisKor   = replaceTeamNames(awayAnalysis);
   const summaryKor        = replaceTeamNames(summary);
-  const finalPickWinTeamKor      = replaceTeamNames(finalPickWinTeam);
-  const finalPickHandicapTeamKor = replaceTeamNames(pickHandicapTeam);
+  const finalPickWinTeamKor      = (finalPickWinTeam === '무승부') ? '' : replaceTeamNames(finalPickWinTeam);
+  const finalPickHandicapTeamKor = (pickHandicapTeam === '무승부' || finalHandicapValue === '') ? '' : replaceTeamNames(pickHandicapTeam);
   const homePowerItems  = homePowerRaw ? homePowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
   const awayPowerItems  = awayPowerRaw ? awayPowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
   const h2hItems = (h2hRaw && h2hRaw !== '없음')
@@ -1087,7 +1201,7 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
   const safeHomeNameForSlug = getSafeLogoName(match.home);
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
-  const homeRecentJson = JSON.stringify(homeRecentMatches.map(m => ({
+  const homeRecentJson = JSON.stringify(homeRecentMatches.slice(0, 5).map(m => ({
     date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
@@ -1100,7 +1214,7 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
     })()
   })));
 
-  const awayRecentJson = JSON.stringify(awayRecentMatches.map(m => ({
+  const awayRecentJson = JSON.stringify(awayRecentMatches.slice(0, 5).map(m => ({
     date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
@@ -1139,8 +1253,8 @@ pickWinTeam: "${finalPickWinTeamKor}"
 pickWinResult: "${finalPickWinResult}"
 pickHandicapTeam: "${finalPickHandicapTeamKor}"
 pickHandicapValue: "${finalHandicapValue}"
-pickOuDirection: "${pickOuDirection}"
-pickOuValue: "${finalOuValue}"
+pickExpectedHome: "${finalExpectedHome}"
+pickExpectedAway: "${finalExpectedAway}"
 ---
 `;
 
