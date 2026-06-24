@@ -34,6 +34,52 @@ function getSafeLogoName(teamName) {
     .replace(/^-+|-+$/g, '');       // 앞뒤 하이픈 제거
 }
 
+function convertLeagueName(rawLeague) {
+  let name = rawLeague || "스포츠";
+  const leagueReplacements = [
+    { target: /^(Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League)$/i, replace: "P.L" },
+    { target: /^Challengers League$/i, replace: "CL" },
+    { target: /^LCK CHALLENGERS LEAGUE$/i, replace: "LCK CL" },
+    { target: /^Friendly International$/i, replace: "국제친선" },
+    { target: /^Super League$/i, replace: "SL" },
+    { target: /^Major League Soccer$/i, replace: "MLS" },
+    { target: /^African Club Championship$/i, replace: "CAF" },
+    { target: /^K League 1$/i, replace: "K1" },
+    { target: /^K League 2$/i, replace: "K2" },
+    { target: /^UEFA Champions League$/i, replace: "UEFA 챔피언스리그" },
+    { target: /^UEFA Europa League$/i, replace: "UEFA 유로파리그" },
+    { target: /^AFC ASIAN CUP$/i, replace: "AFC 아시안컵" },
+    { target: /^LCK CHALLENGERS LEAGUE ROUNDS 1-2$/i, replace: "LCK CL" },
+    { target: /^LCK ROUNDS 1-2$/i, replace: "LCK" },
+    { target: /^JUPILER PRO LEAGUE$/i, replace: "D1" },
+    { target: /^Premier Division$/i, replace: "D1" },
+    { target: /^Division 1$/i, replace: "D1" },
+    { target: /^2. Bundesliga$/i, replace: "분데스리가2" },
+    { target: /^Beijer Hockey Games$/i, replace: "유로 하키 투어" },
+    { target: /^B League$/i, replace: "B리그" },
+    { target: /^Serie A$/i, replace: "세리에 A" },
+    { target: /^Bundesliga$/i, replace: "분데스리가" },
+    { target: /^Primeira Liga$/i, replace: "프리메라리가" },
+    { target: /^Esports World Cup Playoffs$/i, replace: "EWC 플레이오프" },
+    { target: /^Primera División - Apertura$/i, replace: "프리메라디비전" },
+    { target: /^LA LIGA$/i, replace: "라리가" },
+    { target: /^Segunda División$/i, replace: "라리가2" },
+    { target: /^UEFA Europa Conference League$/i, replace: "UEFA 컨퍼런스리그" },
+    { target: /^CONMEBOL Sudamericana$/i, replace: "코파 수다메리카나" },
+    { target: /^IL$/i, replace: "트리플A-IL" },
+    { target: /^CONMEBOL Libertadores$/i, replace: "코파 리베르타도레스" },
+    { target: /^NBA W$/i, replace: "WNBA" },
+    { target: /^Nations League Women$/i, replace: "네이션스리그(W)" },
+    { target: /^Nations League$/i, replace: "네이션스리그" },
+    { target: /^World Cup - Women - Qualification Europe$/i, replace: "월드컵 예선(W)" },
+    { target: /^World Cup - Women$/i, replace: "월드컵 (W)" },
+    { target: /^Friendlies$/i, replace: "국제친선" },
+    { target: /^World Cup$/i, replace: "FIFA 월드컵" },
+  ];
+  leagueReplacements.forEach(rule => { name = name.replace(rule.target, rule.replace); });
+  return name;
+}
+
 // 공통 유틸: 팀 득점 배열 추출
 function getTeamScores(matches, teamName) {
   return matches.map(m => {
@@ -116,12 +162,14 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
   // 배구: 세트 스코어로 변환 (3:0 / 3:1 / 3:2)
   if (cat === 'volleyball') {
     const ratio = homeAvg / (homeAvg + awayAvg);
-    if (ratio >= 0.75)      return { homeScore: 3, awayScore: 0 };
-    else if (ratio >= 0.58) return { homeScore: 3, awayScore: 1 };
-    else if (ratio >= 0.5)  return { homeScore: 3, awayScore: 2 };
-    else if (ratio >= 0.42) return { homeScore: 2, awayScore: 3 };
-    else if (ratio >= 0.25) return { homeScore: 1, awayScore: 3 };
-    else                    return { homeScore: 0, awayScore: 3 };
+    let homeScore, awayScore;
+    if (ratio >= 0.75)      { homeScore = 3; awayScore = 0; }
+    else if (ratio >= 0.58) { homeScore = 3; awayScore = 1; }
+    else if (ratio >= 0.5)  { homeScore = 3; awayScore = 2; }
+    else if (ratio >= 0.42) { homeScore = 2; awayScore = 3; }
+    else if (ratio >= 0.25) { homeScore = 1; awayScore = 3; }
+    else                    { homeScore = 0; awayScore = 3; }
+    return { homeScore, awayScore, homeAvg: parseFloat(homeAvg.toFixed(2)), awayAvg: parseFloat(awayAvg.toFixed(2)) };
   }
 
   return { homeScore, awayScore, homeAvg: parseFloat(homeAvg.toFixed(2)), awayAvg: parseFloat(awayAvg.toFixed(2)) };
@@ -703,7 +751,8 @@ if (isFreePassLeague) {
 
 const lgUpper2 = (match.league || '').toUpperCase();
 const isInternationalTournament = lgUpper2.includes('WORLD CUP') || lgUpper2.includes('OLYMPIC') || lgUpper2.includes('EURO') || lgUpper2.includes('COPA AMERICA') || lgUpper2.includes('AFC ASIAN CUP') || lgUpper2.includes('NATIONS LEAGUE') || lgUpper2.includes('WORLD CHAMPIONSHIP') || lgUpper2.includes('WORLD BASEBALL') || lgUpper2.includes('WBC') || lgUpper2.includes('MSI') || lgUpper2.includes('WORLDS');
-const seasonLabel = isInternationalTournament ? `이번 ${match.league}에서` : `${currentYear}시즌`;
+const leagueNameForPrompt = convertLeagueName(match.league);
+const seasonLabel = isInternationalTournament ? `이번 ${leagueNameForPrompt}에서` : `${currentYear}시즌`;
 
 
 
@@ -1150,48 +1199,7 @@ const winnerIsHome = homeNames.some(n =>
   const datePartsForText = dateShort.split('/');
   const displayDate = `${parseInt(datePartsForText[1], 10)}월 ${parseInt(datePartsForText[2], 10)}일`;
 
-  let leagueName = match.league || "스포츠";
-  const leagueReplacements = [
-    { target: /^(Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League)$/i, replace: "P.L" },
-    { target: /^Challengers League$/i, replace: "CL" },
-    { target: /^LCK CHALLENGERS LEAGUE$/i, replace: "LCK CL" },
-    { target: /^Friendly International$/i, replace: "국제친선" },
-    { target: /^Super League$/i, replace: "SL" },
-    { target: /^Major League Soccer$/i, replace: "MLS" },
-    { target: /^African Club Championship$/i, replace: "CAF" },
-    { target: /^K League 1$/i, replace: "K1" },
-    { target: /^K League 2$/i, replace: "K2" },
-    { target: /^UEFA Champions League$/i, replace: "UEFA 챔피언스리그" },
-    { target: /^UEFA Europa League$/i, replace: "UEFA 유로파리그" },
-    { target: /^AFC ASIAN CUP$/i, replace: "AFC 아시안컵" },
-    { target: /^LCK CHALLENGERS LEAGUE ROUNDS 1-2$/i, replace: "LCK CL" },
-    { target: /^LCK ROUNDS 1-2$/i, replace: "LCK" },
-    { target: /^JUPILER PRO LEAGUE$/i, replace: "D1" },
-    { target: /^Premier Division$/i, replace: "D1" },
-    { target: /^Division 1$/i, replace: "D1" },
-    { target: /^2. Bundesliga$/i, replace: "분데스리가2" },
-    { target: /^Beijer Hockey Games$/i, replace: "유로 하키 투어" },
-    { target: /^B League$/i, replace: "B리그" },
-    { target: /^Serie A$/i, replace: "세리에 A" },
-    { target: /^Bundesliga$/i, replace: "분데스리가" },
-    { target: /^Primeira Liga$/i, replace: "프리메라리가" },
-    { target: /^Esports World Cup Playoffs$/i, replace: "EWC 플레이오프" },
-    { target: /^Primera División - Apertura$/i, replace: "프리메라디비전" },
-    { target: /^LA LIGA$/i, replace: "라리가" },
-    { target: /^Segunda División$/i, replace: "라리가2" },
-    { target: /^UEFA Europa Conference League$/i, replace: "UEFA 컨퍼런스리그" },
-    { target: /^CONMEBOL Sudamericana$/i, replace: "코파 수다메리카나" },
-    { target: /^IL$/i, replace: "트리플A-IL" },
-    { target: /^CONMEBOL Libertadores$/i, replace: "코파 리베르타도레스" },
-    { target: /^NBA W$/i, replace: "WNBA" },
-    { target: /^Nations League Women$/i, replace: "네이션스리그(W)" },
-    { target: /^Nations League$/i, replace: "네이션스리그" },
-    { target: /^World Cup - Women - Qualification Europe$/i, replace: "월드컵 예선(W)" },
-    { target: /^World Cup - Women$/i, replace: "월드컵 (W)" },
-    { target: /^Friendlies$/i, replace: "국제친선" },
-    { target: /^World Cup$/i, replace: "FIFA 월드컵" },
-  ];
-  leagueReplacements.forEach(rule => { leagueName = leagueName.replace(rule.target, rule.replace); });
+  let leagueName = convertLeagueName(match.league);
 
   // 8. 국가명 결정
   const leagueCountryOverrides = {
