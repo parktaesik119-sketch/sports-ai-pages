@@ -531,7 +531,7 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
   let h2hContextForAI = "";
   if (h2hHistory.length > 0) {
     const h2hRows = h2hHistory.map(h => {
-      const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\s/g, '').replace(/\.$/, '');
+      const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timezone: 'asia/seoul' }).replace(/\s/g, '').replace(/\.$/, '');
       const finalScore = (h.homeScore !== null && h.awayScore !== null) ? `${h.homeScore}-${h.awayScore}` : h.score;
       
             
@@ -549,7 +549,9 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
     const scoreMatch = h.score.match(/(\d+)[^\d]*(\d+)/);
     scoreStr = scoreMatch ? `${scoreMatch[1]}-${scoreMatch[2]}` : h.score;
     }
-    return `${h.date} - ${h.home} (${scoreStr}) ${h.away}`;
+    const dAI = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
+return `${dAI} - ${h.home} (${scoreStr}) ${h.away}`;
+return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     }).join('\n')}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
     } else {
       h2hContent = "\n\n(※업데이트 예정)\n\n";
@@ -1196,13 +1198,13 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
   // 9. 메타 정보
   const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;
   const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName;
-  const extractedDesc = `${descHomeName} vs ${descAwayName} ${displayDate} ${leagueName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 부상.결장자정보, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요.`;
+  const extractedDesc = `${descHomeName} vs ${descAwayName} ${displayDate} ${leagueName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H),부상.결장자정보, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요.`;
   const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석 및 승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
   const safeHomeNameForSlug = getSafeLogoName(match.home);
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
   const homeRecentJson = JSON.stringify(homeRecentMatches.slice(0, 5).map(m => ({
-    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
+    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timezone: 'asia/seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
     score: (m.homeScore !== null && m.awayScore !== null) ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
@@ -1215,7 +1217,7 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
   })));
 
   const awayRecentJson = JSON.stringify(awayRecentMatches.slice(0, 5).map(m => ({
-    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
+    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timezone: 'asia/seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
     score: (m.homeScore !== null && m.awayScore !== null) ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
