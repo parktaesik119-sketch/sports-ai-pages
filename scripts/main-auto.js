@@ -17,8 +17,12 @@ async function runAutomation() {
     execSync('node fetch-all.js', { stdio: 'inherit', cwd: __dirname });
     console.log("✅ 데이터 수집 및 마스터 DB 업데이트 완료.");
 
+    // 1.5단계: 배구 스코어 업데이트
+    console.log("\n[1.5단계] 배구 스코어 업데이트 중...");
+    execSync('node fetch-score-update.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ 배구 스코어 업데이트 완료.");
+
     // 2~5단계: 분석 및 마크다운 생성
-    // (analyze-gemini.js 내부에서 필터링, H2H 추출, AI 분석, MD 생성이 모두 처리됨)
     console.log("\n[2-5단계] 신규 경기 필터링 및 AI 분석 시작...");
     console.log("💡 이미 생성된 분석글은 자동으로 건너뜁니다.");
     execSync('node analyze-router-one-git.js', { stdio: 'inherit', cwd: __dirname });
@@ -26,7 +30,6 @@ async function runAutomation() {
     console.log("\n====================================================");
     console.log("🎉 모든 작업이 완료되었습니다!");
     console.log("📍 생성된 MD 파일 위치: src/content/posts/");
-    console.log("👉 이제 이 폴더의 파일들을 업로드용 PC로 복사하세요.");
     console.log("====================================================");
 
   } catch (error) {
