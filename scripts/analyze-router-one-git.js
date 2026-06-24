@@ -367,7 +367,7 @@ if (isExtraFiltered) {
   // 2. 농구 
   const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W'].some(el => el === upperLg);
   // 3. 배구 
-  const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'SV.LEAGUE','NATIONS LEAGUE WOMEN','NATIONS LEAGUE'].some(el => el === upperLg);
+  const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'NATIONS LEAGUE WOMEN','NATIONS LEAGUE'].some(el => el === upperLg);
   // 4. 야구 
   const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
   // 5. 하키 
@@ -719,7 +719,10 @@ const expectedScores = (cat !== 'lol')
 
   //Avg 콘솔 출력
   if (expectedScores) {
-  console.log(`📊 [Avg] ${match.home} vs ${match.away} | homeAvg: ${expectedScores.homeAvg} / awayAvg: ${expectedScores.awayAvg} | homeScore: ${expectedScores.homeScore} / awayScore: ${expectedScores.awayScore}`);
+  const avgInfo = (expectedScores.homeAvg !== undefined)
+  ? `homeAvg: ${expectedScores.homeAvg} / awayAvg: ${expectedScores.awayAvg}`
+  : `(배구: avg 미산출)`;
+console.log(`📊 [Avg] ${match.home} vs ${match.away} | ${avgInfo} | homeScore: ${expectedScores.homeScore} / awayScore: ${expectedScores.awayScore}`);
 }
 
 // JS로 OU 합산 계산 (핸디캡 제약용, 롤/배구 제외)

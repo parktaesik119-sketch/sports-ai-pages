@@ -79,16 +79,18 @@ async function main() {
     process.exit(1);
   }
 
-  const today = new Date().toISOString().split("T")[0];
+  const now = new Date();
+const kstDate = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+const today = kstDate.toISOString().split("T")[0]; // KST 기준 오늘
 
-  const targetMatches = existingFixtures.filter(m =>
-    m.sport === "volleyball"
-    && m.date >= "2026-05-01"
-    && m.date.slice(0, 10) < today
-    && m.homeScore === null
-    && m.awayScore === null
-    && isTargetVolleyballLeague(m.league)
-  );
+const targetMatches = existingFixtures.filter(m =>
+  m.sport === "volleyball"
+  && m.date >= "2026-05-01"
+  && m.date.slice(0, 10) <= today   // ← <= 로 변경, 당일 포함
+  && m.homeScore === null
+  && m.awayScore === null
+  && isTargetVolleyballLeague(m.league)
+);
 
   if (targetMatches.length === 0) {
     console.log("✅ 업데이트할 스코어 없음. 종료.");
