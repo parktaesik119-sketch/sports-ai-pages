@@ -419,7 +419,7 @@ if (isExtraFiltered) {
   // 4. 야구 
   const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
   // 5. 하키 
-  const hockey = ['NHL', 'KHL', 'WORLD', 'WORLDS', 'INTERNATIONAL','WORLD CHAMPIONSHIP' ].some(el => el === upperLg);
+  const hockey = ['NHL', 'KHL','WORLD CHAMPIONSHIP','FRIENDLY INTERNATIONAL', 'WCH IA','WCH IB' ].some(el => el === upperLg);
   // 6. 롤 //대문자로 띄어쓰기 없이 적을 것. Rounds 1-2 이런 글자는 자동 삭제니 적지 않아야 함
   // Playoffs가 붙은 EWC는 lol 판별 전에 먼저 차단
   const isEWCPlayoffs = upperLg.replace(/\s+/g, '') === 'ESPORTSWORLDCUPPLAYOFFS';
