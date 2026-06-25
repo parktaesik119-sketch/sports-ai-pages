@@ -608,6 +608,14 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
   
 
   // 최근 5경기 추출
+  const lgUpperRecent = (match.league || '').toUpperCase();
+  const isIntlMatch = lgUpperRecent.includes('WORLD CUP') || lgUpperRecent.includes('OLYMPIC') || lgUpperRecent.includes('EURO') || lgUpperRecent.includes('COPA AMERICA') || lgUpperRecent.includes('AFC ASIAN CUP') || lgUpperRecent.includes('NATIONS LEAGUE') || lgUpperRecent.includes('WORLD CHAMPIONSHIP') || lgUpperRecent.includes('WORLD BASEBALL') || lgUpperRecent.includes('WBC') || lgUpperRecent.includes('MSI') || lgUpperRecent.includes('WORLDS') || lgUpperRecent.includes('FRIENDLY INTERNATIONAL') || lgUpperRecent.includes('FRIENDLIES');
+
+  const isIntlCountry = (c) => {
+    const cu = (c || '').toUpperCase();
+    return cu === 'WORLD' || cu === 'INTERNATIONAL' || cu === '국제';
+  };
+
   const homeRecentMatches = masterData.filter(m => {
     const isHomeTeam = m.home === match.home || m.away === match.home;
     const matchDate = new Date(m.date);
@@ -615,10 +623,11 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
                      (m.homeScore !== null && m.awayScore !== null);
-    return isHomeTeam && isPast && isRecentEnough && hasScore;
+    const isSameSport = m.sport === match.sport;
+    const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
+    return isHomeTeam && isPast && isRecentEnough && hasScore && isSameSport && scopeOk;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
-  // 원정팀 최근 10경기 추출 (계산용. 표기는 5개로 제한)
   const awayRecentMatches = masterData.filter(m => {
     const isAwayTeam = m.home === match.away || m.away === match.away;
     const matchDate = new Date(m.date);
@@ -626,7 +635,9 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
                      (m.homeScore !== null && m.awayScore !== null);
-    return isAwayTeam && isPast && isRecentEnough && hasScore;
+    const isSameSport = m.sport === match.sport;
+    const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
+    return isAwayTeam && isPast && isRecentEnough && hasScore && isSameSport && scopeOk;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
   // 시즌 전체 경기 추출 (올해 1월 1일 이후)
@@ -791,7 +802,10 @@ const ouInstruction = expectedScores !== null
   ? (() => {
       const homeAvg = expectedScores.homeAvg;
       const awayAvg = expectedScores.awayAvg;
-      let base = `예상 스코어는 JS 계산 결과 홈팀 ${expectedScores.homeScore} - 원정팀 ${expectedScores.awayScore} 이다. PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라.`;
+      const scoreRevealInPrompt = (cat === 'soccer' || cat === 'volleyball' || cat === 'hockey');
+let base = scoreRevealInPrompt
+  ? `예상 스코어는 JS 계산 결과 홈팀 ${expectedScores.homeScore} - 원정팀 ${expectedScores.awayScore} 이다. PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라.`
+  : `PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라. 예상 스코어 수치는 분석 본문에 절대 언급하지 마라.`;
       if (homeAvg !== null && awayAvg !== null && homeAvg !== awayAvg) {
         const stronger = homeAvg > awayAvg ? '홈팀' : '원정팀';
         const _aiHome = TEAM_NAME_MAP[match.home] || match.home;

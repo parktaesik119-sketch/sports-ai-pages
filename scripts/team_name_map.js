@@ -1300,7 +1300,10 @@ const TEAM_NAME_MAP = {
   "Ningbo Professional": "닝보 프로페셔널",
   "Heilongjiang Lava Spring": "헤이룽장 훠샨밍취안",
   "Guangzhou E-Power": "광둥 GZ-파워",
-
+  "Wuxi Wugou": "윈난 유쿤",
+  "Sichuan Jiuniu": "선전 신청펑",
+  "Chongqing Tongliang Long": "충칭 통량룽",
+  "Beijing Guoan": "베이징 궈안",
 
 };
 
