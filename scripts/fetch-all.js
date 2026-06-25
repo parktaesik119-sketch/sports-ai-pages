@@ -14,7 +14,6 @@ const ALL_FIXTURES_FILE = path.join(OUTPUT_DIR, "all-fixtures.json");
 // 깃허브 시크릿에서 키를 가져옵니다.
 const API_SPORTS_KEY = process.env.API_SPORTS_KEY;
 const PANDASCORE_KEY = process.env.PANDASCORE_KEY;
-const ODDS_API_KEY = process.env.ODDS_API_KEY;
 const RAPID_KEY = process.env.RAPID_KEY;
 
 // 호스트 설정
@@ -51,29 +50,6 @@ function normalizeName(name) {
     .replace(/fc|cf|afc|sc|club/g, "")   // 불필요 단어 제거
     .replace(/[^a-z0-9]/g, "")          // 특수문자 제거
     .trim();
-}
-
-function isSimilar(a, b) {
-  if (!a || !b) return false;
-
-  if (a === b) return true;
-  if (a.includes(b) || b.includes(a)) return true;
-
-  // 단어 단위 비교 (핵심)
-  const aWords = a.split(/\s+/);
-  const bWords = b.split(/\s+/);
-
-  let matchCount = 0;
-
-  for (const wordA of aWords) {
-    for (const wordB of bWords) {
-      if (wordA === wordB || wordA.includes(wordB) || wordB.includes(wordA)) {
-        matchCount++;
-      }
-    }
-  }
-
-  return matchCount > 0;
 }
 
 /**
@@ -126,143 +102,6 @@ function getDateRange() {
     from: formatKst(fromDate),
     to: formatKst(toDate)
   };
-}
-
-/**
- * 배당 데이터 매칭 및 평균값 계산 로직
- */
-function getMatchedData(match, allOdds, allScores) {
-  if (!match.date) return match;
-  
-  const matchDateStr = new Date(match.date).toISOString().split('T')[0];
-  const homeNorm = normalizeName(match.home);
-  const awayNorm = normalizeName(match.away);
-
-  // 1. 해당 경기의 배당 정보 찾기
-  const oddsInfo = (allOdds || []).find(o => {
-    const oDateStr = new Date(o.commence_time).toISOString().split('T')[0];
-    const oHomeNorm = normalizeName(o.home_team);
-    const oAwayNorm = normalizeName(o.away_team);
-
-    
-
-   const timeDiff = Math.abs(new Date(o.commence_time) - new Date(match.date));
-
-   return (
-  timeDiff < 12 * 60 * 60 * 1000 &&
-  o.sport_key?.includes(match.sport) &&
-  (
-    (isSimilar(oHomeNorm, homeNorm) && isSimilar(oAwayNorm, awayNorm)) ||
-    (isSimilar(oHomeNorm, awayNorm) && isSimilar(oAwayNorm, homeNorm))
-    )
-   );
-  });
-
-  
-
-  const result = {
-    homeOdd: null, drawOdd: null, awayOdd: null,
-    handicap: null, handicapHomeOdd: null, handicapAwayOdd: null,
-    overUnder: null, overOdd: null, underOdd: null
-  };
-
-  if (oddsInfo && oddsInfo.bookmakers) {
-    const bookies = oddsInfo.bookmakers;
-    
-    // 우선순위 북메이커: onexbet, pinnacle, draftkings
-    const priorityKeys = ["onexbet", "pinnacle", "draftkings"];
-    let targetBookie = null;
-    for (const key of priorityKeys) {
-      targetBookie = bookies.find(b => b.key === key);
-      if (targetBookie) break;
-    }
-
-    // 마켓별 데이터 추출 (targetBookie가 있으면 우선 사용, 없으면 전체 평균)
-    const extractMarket = (marketKey) => {
-      if (targetBookie) {
-        return targetBookie.markets.find(m => m.key === marketKey);
-      }
-      return null;
-    };
-
-    // --- 1. 승무패 (h2h) ---
-    const h2hMarket = extractMarket("h2h");
-    if (h2hMarket) {
-      result.homeOdd = h2hMarket.outcomes.find(o => isSimilar(normalizeName(o.name), homeNorm))?.price || null;
-      result.awayOdd = h2hMarket.outcomes.find(o => isSimilar(normalizeName(o.name), awayNorm))?.price || null;
-      result.drawOdd = h2hMarket.outcomes.find(o => o.name.toLowerCase() === "draw")?.price || null;
-    } else {
-      // 우선순위 북메이커에 없으면 모든 북메이커 평균 계산
-      let hSum = 0, aSum = 0, dSum = 0, count = 0;
-      bookies.forEach(b => {
-        const m = b.markets.find(mk => mk.key === "h2h");
-        if (m) {
-          const h = m.outcomes.find(o => isSimilar(normalizeName(o.name), homeNorm))?.price;
-          const a = m.outcomes.find(o => isSimilar(normalizeName(o.name), awayNorm))?.price;
-          const d = m.outcomes.find(o => o.name.toLowerCase() === "draw")?.price;
-          if (h && a) { hSum += h; aSum += a; dSum += (d || 0); count++; }
-        }
-      });
-      if (count > 0) {
-        result.homeOdd = parseFloat((hSum / count).toFixed(2));
-        result.awayOdd = parseFloat((aSum / count).toFixed(2));
-        result.drawOdd = dSum > 0 ? parseFloat((dSum / count).toFixed(2)) : null;
-      }
-    }
-
-    // --- 2. 핸디캡 (spreads) ---
-    const spreadsMarket = extractMarket("spreads");
-    if (spreadsMarket) {
-      const hOutcome = spreadsMarket.outcomes.find(o => isSimilar(normalizeName(o.name), homeNorm));
-      if (hOutcome) {
-        result.handicap = hOutcome.point;
-        result.handicapHomeOdd = hOutcome.price;
-        result.handicapAwayOdd = spreadsMarket.outcomes.find(o => isSimilar(normalizeName(o.name), awayNorm))?.price || null;
-      }
-    }
-
-    // --- 3. 언더오버 (totals) ---
-    const totalsMarket = extractMarket("totals");
-    if (totalsMarket) {
-      const over = totalsMarket.outcomes.find(o => o.name.toLowerCase() === "over");
-      if (over) {
-        result.overUnder = over.point;
-        result.overOdd = over.price;
-        result.underOdd = totalsMarket.outcomes.find(o => o.name.toLowerCase() === "under")?.price || null;
-      }
-    }
-  }
-
-  // 2. 실시간 스코어 매칭 (The Odds API 기반 보조 스코어)
-  const scoresList = Array.isArray(allScores) ? allScores : [];
-  const scoreInfo = scoresList.find(s => {
-    const sDateStr = new Date(s.commence_time).toISOString().split('T')[0];
-    return (
-  sDateStr === matchDateStr &&
-  isSimilar(normalizeName(s.home_team), homeNorm) &&
-  isSimilar(normalizeName(s.away_team), awayNorm)
-);
-  });
-
-  return {
-  ...match,
-
-  homeOdd: result.homeOdd ?? "N/A",
-  drawOdd: result.drawOdd ?? "N/A",
-  awayOdd: result.awayOdd ?? "N/A",
-
-  handicap: result.handicap ?? null,
-  handicapHomeOdd: result.handicapHomeOdd ?? null,
-  handicapAwayOdd: result.handicapAwayOdd ?? null,
-
-  overUnder: result.overUnder ?? null,
-  overOdd: result.overOdd ?? null,
-  underOdd: result.underOdd ?? null,
-
-  homeScore: match.homeScore ?? (scoreInfo?.scores?.find(s => isSimilar(normalizeName(s.name), homeNorm))?.score || null),
-  awayScore: match.awayScore ?? (scoreInfo?.scores?.find(s => isSimilar(normalizeName(s.name), awayNorm))?.score || null)
-};
-  
 }
 
 // ==========================
@@ -411,22 +250,6 @@ async function fetchLOLPanda() {
   } catch (err) { return []; }
 }
 
-async function fetchOddsAndScores() {
-  const regions = "eu,us,au,uk";
-  const markets = "h2h,spreads,totals";
-  const oddsUrl = `https://api.the-odds-api.com/v4/sports/soccer/odds/?apiKey=${ODDS_API_KEY}&regions=${regions}&markets=${markets}&oddsFormat=decimal`;
-  const scoresUrl = `https://api.the-odds-api.com/v4/sports/soccer/scores/?apiKey=${ODDS_API_KEY}&daysFrom=3`;
-  try {
-    const [oddsRes, scoresRes] = await Promise.all([fetch(oddsUrl), fetch(scoresUrl)]);
-    const oddsData = await oddsRes.json();
-    const scoresData = await scoresRes.json();
-    return { 
-      odds: Array.isArray(oddsData) ? oddsData : [], 
-      scores: Array.isArray(scoresData) ? scoresData : [] 
-    };
-  } catch (err) { return { odds: [], scores: [] }; }
-}
-
 // ==========================
 // 🚀 메인 프로세스
 // ==========================
@@ -450,13 +273,9 @@ scheduleTasks.push(fetchRapidSoccerRange());
     // LoL 전용 및 배당 호출
     scheduleTasks.push(fetchLOLPanda());
 
-    const [rawResults, oddsAndScores] = await Promise.all([
-      Promise.all(scheduleTasks),
-      fetchOddsAndScores()
-    ]);
+    const rawResults = await Promise.all(scheduleTasks);
 
-    // 데이터 통합 및 배당 매칭
-    const mergedData = rawResults.flat().map(m => getMatchedData(m, oddsAndScores.odds, oddsAndScores.scores));
+    const mergedData = rawResults.flat();
 
     await fs.mkdir(OUTPUT_DIR, { recursive: true });
     
