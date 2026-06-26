@@ -156,6 +156,21 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
   let homeScore = roundScore(homeAvg);
   let awayScore = roundScore(awayAvg);
 
+  // 축구 전용: avg 차이 기반 스코어 보정
+  if (cat === 'soccer') {
+    const avgDiff = Math.abs(homeAvg - awayAvg);
+
+    // avg 차이 > 0.15인데 반올림 결과가 동점이면 → avg 낮은 팀 -1 (최소 0)
+    if (avgDiff > 0.15 && homeScore === awayScore) {
+      if (homeAvg < awayAvg) {
+        homeScore = Math.max(0, homeScore - 1);
+      } else {
+        awayScore = Math.max(0, awayScore - 1);
+      }
+    }
+    // avg 차이 ≤ 0.15이면 → 무승부 (스코어는 반올림 그대로 유지)
+  }
+
   // 동점 보정(축구 제외)은 savePost에서 픽 승자 확정 후 처리하므로 여기선 제거
   // calcExpectedScores는 순수 계산값만 반환
 
@@ -803,9 +818,12 @@ const ouInstruction = expectedScores !== null
       const homeAvg = expectedScores.homeAvg;
       const awayAvg = expectedScores.awayAvg;
       const scoreRevealInPrompt = (cat === 'soccer' || cat === 'volleyball' || cat === 'hockey');
+const drawNote = (cat === 'soccer' && Math.abs((expectedScores.homeAvg ?? 0) - (expectedScores.awayAvg ?? 0)) <= 0.15)
+  ? ` avg 차이가 0.15 이하이므로 예상 결과는 무승부다. SUMMARY는 반드시 이 스코어(${expectedScores.homeScore}:${expectedScores.awayScore} 무승부)를 기준으로 종합 분석을 서술하라.`
+  : ` SUMMARY는 반드시 이 예상 스코어(홈팀 ${expectedScores.homeScore} - 원정팀 ${expectedScores.awayScore})를 기준으로 종합 분석을 서술하라.`;
 let base = scoreRevealInPrompt
-  ? `예상 스코어는 JS 계산 결과 홈팀 ${expectedScores.homeScore} - 원정팀 ${expectedScores.awayScore} 이다. PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라.`
-  : `PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라. 예상 스코어 수치는 분석 본문에 절대 언급하지 마라.`;
+  ? `예상 스코어는 JS 계산 결과 홈팀 ${expectedScores.homeScore} - 원정팀 ${expectedScores.awayScore} 이다. PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라.${drawNote}`
+  : `PICK_EXPECTED_HOME은 반드시 ${expectedScores.homeScore} 로, PICK_EXPECTED_AWAY는 반드시 ${expectedScores.awayScore} 로 출력하라. 예상 스코어 수치는 분석 본문에 절대 언급하지 마라.${drawNote}`;
       if (homeAvg !== null && awayAvg !== null && homeAvg !== awayAvg) {
         const stronger = homeAvg > awayAvg ? '홈팀' : '원정팀';
         const _aiHome = TEAM_NAME_MAP[match.home] || match.home;

@@ -1304,6 +1304,10 @@ const TEAM_NAME_MAP = {
   "Sichuan Jiuniu": "선전 신청펑",
   "Chongqing Tongliang Long": "충칭 통량룽",
   "Beijing Guoan": "베이징 궈안",
+  "Shandong Luneng": "산둥 타이산",
+  "Henan Jianye": "허난 FC",
+  "SHANGHAI SIPG": "상하이 하이강",
+  "Tianjin Teda": "텐진 진먼후",
 
 };
 
