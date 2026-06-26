@@ -1,0 +1,29 @@
+name: Lineup Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 매시 정각 실행 (UTC 기준, KST -9h)
+  workflow_dispatch:      # 수동 실행 가능
+
+jobs:
+  lineup-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run lineup update script
+        run: node scripts/espn-boxscore-update.js
+
+      - name: Commit and push lineup updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content/posts/
+          git diff --staged --quiet && echo "변경 없음" || (git commit -m "lineup: update starting lineups [skip ci]" && git push)

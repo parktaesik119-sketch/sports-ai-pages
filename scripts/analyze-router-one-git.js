@@ -128,11 +128,22 @@ function getH2hAvgScore(h2hMatches, teamName) {
   return scores.reduce((a, b) => a + b, 0) / scores.length;
 }
 
-// 가중 평균: 최근 5경기 70% + H2H 30% (H2H 없으면 최근 5경기 100%)
-function weightedAvg(recentAvg, h2hAvg) {
+// H2H 경기 수에 따라 동적으로 가중치 결정
+// 1경기:20% / 2경기:35% / 3경기:45% / 4경기 이상:55%
+function getH2hWeight(h2hCount) {
+  if (h2hCount <= 0) return 0;
+  if (h2hCount === 1) return 0.20;
+  if (h2hCount === 2) return 0.35;
+  if (h2hCount === 3) return 0.45;
+  return 0.55; // 4경기 이상
+}
+
+// 가중 평균: H2H 경기 수에 따라 동적 가중치 적용 (H2H 없으면 최근 경기 100%)
+function weightedAvg(recentAvg, h2hAvg, h2hCount = 0) {
   if (recentAvg === null) return null;
-  if (h2hAvg === null) return recentAvg;
-  return recentAvg * 0.7 + h2hAvg * 0.3;
+  if (h2hAvg === null || h2hCount === 0) return recentAvg;
+  const h2hWeight = getH2hWeight(h2hCount);
+  return recentAvg * (1 - h2hWeight) + h2hAvg * h2hWeight;
 }
 
 // 예상 스코어 계산 함수 (홈팀/원정팀 각각 반환)
@@ -144,9 +155,10 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
 
   const homeH2hAvg = getH2hAvgScore(h2hMatches, homeTeam);
   const awayH2hAvg = getH2hAvgScore(h2hMatches, awayTeam);
+  const h2hCount   = h2hMatches.length;
 
-  const homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg);
-  const awayAvg = weightedAvg(awayRecentAvg, awayH2hAvg);
+  const homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg, h2hCount);
+  const awayAvg = weightedAvg(awayRecentAvg, awayH2hAvg, h2hCount);
 
   if (homeAvg === null || awayAvg === null) return null;
 
@@ -1259,8 +1271,8 @@ const winnerIsHome = homeNames.some(n =>
   // 9. 메타 정보
   const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;
   const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName;
-  const extractedDesc = `${descHomeName} vs ${descAwayName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요.`;
-  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석·결장자·통계·승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
+  const extractedDesc = `${descHomeName} vs ${descAwayName} 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요.`;
+  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석·라인업·결장자·통계·승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
   const safeHomeNameForSlug = getSafeLogoName(match.home);
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
