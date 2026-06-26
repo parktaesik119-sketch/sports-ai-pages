@@ -1260,7 +1260,7 @@ const winnerIsHome = homeNames.some(n =>
   const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;
   const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName;
   const extractedDesc = `${descHomeName} vs ${descAwayName} ${displayDate} ${leagueName} 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H),부상.결장자정보, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요.`;
-  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석 및 승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
+  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석·결장자·승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
   const safeHomeNameForSlug = getSafeLogoName(match.home);
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
