@@ -495985,18 +495985,6 @@
     }
   },
   {
-    "id": "panda-1556174",
-    "sport": "lol",
-    "league": "Douyu Cup",
-    "date": "2026-06-27T05:00:00Z",
-    "home": "soO",
-    "away": "Scarlett",
-    "homeLogo": "https://cdn-api.pandascore.co/images/player/image/43089/so_o_2016_vsl_team_league.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/player/image/43029/600px_scarlett_archon_toronto.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "419823",
     "sport": "hockey",
     "country": "New-Zealand",
@@ -496008,6 +495996,18 @@
     "awayLogo": "https://media.api-sports.io/hockey/teams/331.png",
     "homeScore": null,
     "awayScore": null
+  },
+  {
+    "id": "panda-1556174",
+    "sport": "lol",
+    "league": "Douyu Cup",
+    "date": "2026-06-27T05:10:33Z",
+    "home": "soO",
+    "away": "Scarlett",
+    "homeLogo": "https://cdn-api.pandascore.co/images/player/image/43089/so_o_2016_vsl_team_league.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/player/image/43029/600px_scarlett_archon_toronto.png",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "1527093",
@@ -496140,22 +496140,10 @@
     "awayScore": null
   },
   {
-    "id": "panda-1557148",
-    "sport": "lol",
-    "league": "Arena of Valor Premier League",
-    "date": "2026-06-27T06:00:00Z",
-    "home": "One Star Esports",
-    "away": "WANIN Flash Wolves",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/135985/600px_one_star_esports_no_text_allmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133968/800px_flash_wolves_allmode.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "panda-1557876",
     "sport": "lol",
     "league": "EPL World Series",
-    "date": "2026-06-27T06:00:00Z",
+    "date": "2026-06-27T06:13:17Z",
     "home": "D family",
     "away": "Mentality Monster",
     "homeLogo": null,
@@ -496189,6 +496177,18 @@
       "over_time": null,
       "total": null
     }
+  },
+  {
+    "id": "panda-1557148",
+    "sport": "lol",
+    "league": "Arena of Valor Premier League",
+    "date": "2026-06-27T06:17:50Z",
+    "home": "One Star Esports",
+    "away": "WANIN Flash Wolves",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/135985/600px_one_star_esports_no_text_allmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133968/800px_flash_wolves_allmode.png",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "1517798",
@@ -496272,7 +496272,7 @@
     "id": "panda-1556175",
     "sport": "lol",
     "league": "Douyu Cup",
-    "date": "2026-06-27T06:50:00Z",
+    "date": "2026-06-27T06:54:49Z",
     "home": "Neeb",
     "away": "Jieshi",
     "homeLogo": null,
@@ -497679,11 +497679,23 @@
     "id": "panda-1558909",
     "sport": "lol",
     "league": "United21",
-    "date": "2026-06-27T08:00:00Z",
+    "date": "2026-06-27T08:06:07Z",
     "home": "eSuba",
     "away": "MASQ",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/127497/e_suba_2021_lightmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138578/449px_masq_allmode.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1556176",
+    "sport": "lol",
+    "league": "Douyu Cup",
+    "date": "2026-06-27T08:06:24Z",
+    "home": "INnoVation",
+    "away": "TY",
+    "homeLogo": null,
+    "awayLogo": null,
     "homeScore": 0,
     "awayScore": 0
   },
@@ -498431,18 +498443,6 @@
     }
   },
   {
-    "id": "panda-1557149",
-    "sport": "lol",
-    "league": "Arena of Valor Premier League",
-    "date": "2026-06-27T09:00:00Z",
-    "home": "FPT Polytechnic",
-    "away": "King of Gamers Club",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136576/190px_fpt_polytechnic.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/136570/king_of_gamers_full_lightmode.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "181039",
     "sport": "baseball",
     "country": "Japan",
@@ -498623,18 +498623,6 @@
     }
   },
   {
-    "id": "panda-1557804",
-    "sport": "lol",
-    "league": "Cross Regional",
-    "date": "2026-06-27T09:00:00Z",
-    "home": "Dplus KIA",
-    "away": "LOS",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "183969",
     "sport": "baseball",
     "country": "Taiwan",
@@ -498725,14 +498713,14 @@
     }
   },
   {
-    "id": "panda-1556176",
+    "id": "panda-1557804",
     "sport": "lol",
-    "league": "Douyu Cup",
-    "date": "2026-06-27T09:10:00Z",
-    "home": "INnoVation",
-    "away": "TY",
-    "homeLogo": null,
-    "awayLogo": null,
+    "league": "Cross Regional",
+    "date": "2026-06-27T09:08:44Z",
+    "home": "Dplus KIA",
+    "away": "LOS",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -499051,6 +499039,18 @@
     }
   },
   {
+    "id": "panda-1557149",
+    "sport": "lol",
+    "league": "Arena of Valor Premier League",
+    "date": "2026-06-27T09:32:32Z",
+    "home": "FPT Polytechnic",
+    "away": "King of Gamers Club",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136576/190px_fpt_polytechnic.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/136570/king_of_gamers_full_lightmode.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
     "id": "1549313",
     "sport": "soccer",
     "country": "Australia",
@@ -499062,6 +499062,30 @@
     "awayLogo": "https://media.api-sports.io/football/teams/27816.png",
     "homeScore": null,
     "awayScore": null
+  },
+  {
+    "id": "panda-1557805",
+    "sport": "lol",
+    "league": "Cross Regional",
+    "date": "2026-06-27T09:49:37Z",
+    "home": "Kiwoom DRX",
+    "away": "FlyQuest",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/311/fly_questlogo_square.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1556177",
+    "sport": "lol",
+    "league": "Douyu Cup",
+    "date": "2026-06-27T09:55:39Z",
+    "home": "Oliveira",
+    "away": "Cyan",
+    "homeLogo": null,
+    "awayLogo": "https://cdn-api.pandascore.co/images/player/image/43951/cyan_2022.png",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "1496097",
@@ -499436,18 +499460,6 @@
     }
   },
   {
-    "id": "panda-1557805",
-    "sport": "lol",
-    "league": "Cross Regional",
-    "date": "2026-06-27T10:00:00Z",
-    "home": "Kiwoom DRX",
-    "away": "FlyQuest",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/311/fly_questlogo_square.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "487335",
     "sport": "basketball",
     "country": "Australia",
@@ -499540,14 +499552,14 @@
     }
   },
   {
-    "id": "panda-1558910",
+    "id": "panda-1557806",
     "sport": "lol",
-    "league": "United21",
-    "date": "2026-06-27T10:30:00Z",
-    "home": "LPH Gaming",
-    "away": "Millennium Esports",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136786/171px_lph_gaming_allmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/137470/153px_millennium_esports_feb_2025_allmode.png",
+    "league": "Cross Regional",
+    "date": "2026-06-27T10:43:40Z",
+    "home": "DN SOOPers",
+    "away": "LOS",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -500196,26 +500208,14 @@
     }
   },
   {
-    "id": "panda-1557806",
+    "id": "panda-1558910",
     "sport": "lol",
-    "league": "Cross Regional",
-    "date": "2026-06-27T11:00:00Z",
-    "home": "DN SOOPers",
-    "away": "LOS",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136063/dn_soo_perslogo_profile.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
-    "id": "panda-1556177",
-    "sport": "lol",
-    "league": "Douyu Cup",
-    "date": "2026-06-27T11:00:00Z",
-    "home": "Oliveira",
-    "away": "Cyan",
-    "homeLogo": null,
-    "awayLogo": "https://cdn-api.pandascore.co/images/player/image/43951/cyan_2022.png",
+    "league": "United21",
+    "date": "2026-06-27T11:21:17Z",
+    "home": "LPH Gaming",
+    "away": "Millennium Esports",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136786/171px_lph_gaming_allmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/137470/153px_millennium_esports_feb_2025_allmode.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -500388,6 +500388,18 @@
     "awayLogo": "https://media.api-sports.io/football/teams/5648.png",
     "homeScore": null,
     "awayScore": null
+  },
+  {
+    "id": "panda-1557807",
+    "sport": "lol",
+    "league": "Cross Regional",
+    "date": "2026-06-27T11:38:06Z",
+    "home": "Dplus KIA",
+    "away": "Cloud9",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/1097/cloud9-gnd9b0gn.png",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "493574",
@@ -501160,18 +501172,6 @@
     }
   },
   {
-    "id": "panda-1557150",
-    "sport": "lol",
-    "league": "Arena of Valor Premier League",
-    "date": "2026-06-27T12:00:00Z",
-    "home": "BanMei Gaming",
-    "away": "GAM Esports",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/135987/ban_mei_gaming_allmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138069/adonis_marineslogo_square.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "1562837",
     "sport": "soccer",
     "country": "World",
@@ -501314,18 +501314,6 @@
     }
   },
   {
-    "id": "panda-1557807",
-    "sport": "lol",
-    "league": "Cross Regional",
-    "date": "2026-06-27T12:00:00Z",
-    "home": "Dplus KIA",
-    "away": "Cloud9",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132531/800px_dplus_lightmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/1097/cloud9-gnd9b0gn.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "493581",
     "sport": "basketball",
     "country": "World",
@@ -501378,6 +501366,18 @@
       "over_time": null,
       "total": null
     }
+  },
+  {
+    "id": "panda-1557150",
+    "sport": "lol",
+    "league": "Arena of Valor Premier League",
+    "date": "2026-06-27T12:58:21Z",
+    "home": "BanMei Gaming",
+    "away": "GAM Esports",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/135987/ban_mei_gaming_allmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138069/adonis_marineslogo_square.png",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "panda-1555094",
@@ -508653,12 +508653,49 @@
     "awayScore": 0
   },
   {
+    "id": "panda-1557875",
+    "sport": "lol",
+    "league": "EPL World Series",
+    "date": "2026-06-28T03:00:00Z",
+    "home": "Carstensz",
+    "away": "Mentality Monster",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132981/285px_carstensz_allmode.png",
+    "awayLogo": null,
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
     "id": "panda-1556178",
     "sport": "lol",
     "league": "Douyu Cup",
     "date": "2026-06-28T05:00:00Z",
-    "home": "TBD",
+    "home": "Scarlett",
+    "away": "Neeb",
+    "homeLogo": "https://cdn-api.pandascore.co/images/player/image/43029/600px_scarlett_archon_toronto.png",
+    "awayLogo": null,
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1557874",
+    "sport": "lol",
+    "league": "EPL World Series",
+    "date": "2026-06-28T06:30:00Z",
+    "home": "Direborn",
     "away": "TBD",
+    "homeLogo": null,
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1556179",
+    "sport": "lol",
+    "league": "Douyu Cup",
+    "date": "2026-06-28T07:30:00Z",
+    "home": "TY",
+    "away": "Oliveira",
+    "homeLogo": null,
+    "awayLogo": null,
     "homeScore": 0,
     "awayScore": 0
   },
@@ -508682,6 +508719,16 @@
     "home": "Honvéd",
     "away": "TBD",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/128887/honved_budapest_old_logo_70_adbfc97_d_seeklogo.com.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1556180",
+    "sport": "lol",
+    "league": "Douyu Cup",
+    "date": "2026-06-28T10:00:00Z",
+    "home": "TBD",
+    "away": "TBD",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -508753,6 +508800,66 @@
     "away": "MIBR Academy",
     "homeLogo": null,
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/129800/600px_mibr_academy_lightmode.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1560053",
+    "sport": "lol",
+    "league": "Prime League 1st Division",
+    "date": "2026-06-30T15:00:00Z",
+    "home": "E WIE EINFACH E-SPORTS",
+    "away": "BIG",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/125905/berlin_international_gaminglogo_square.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1560054",
+    "sport": "lol",
+    "league": "Prime League 1st Division",
+    "date": "2026-06-30T16:00:00Z",
+    "home": "Eintracht Frankfurt",
+    "away": "Unicorns Of Love Sexy Edition",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132017/eintracht_frankfurtlogo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/126832/220px_unicorns_of_lovelogo_square.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1560055",
+    "sport": "lol",
+    "league": "Prime League 1st Division",
+    "date": "2026-06-30T17:00:00Z",
+    "home": "G2 NORD",
+    "away": "ROSSMANN Centaurs",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137945/ezgif_82457a6b2740471e.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/135653/rossmann_centaurslogo_square.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1560056",
+    "sport": "lol",
+    "league": "Prime League 1st Division",
+    "date": "2026-06-30T18:00:00Z",
+    "home": "VfB eSports",
+    "away": "TeamOrangeGaming",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137064/vf_b_e_sportslogo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133759/148px_team_orange_gaming_2025_full_allmode.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1560057",
+    "sport": "lol",
+    "league": "Prime League 1st Division",
+    "date": "2026-06-30T19:00:00Z",
+    "home": "Kaufland Hangry Knights",
+    "away": "Eintracht Spandau",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132014/kaufland_hangry_knightslogo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/130010/eintracht_spandaulogo_square.png",
     "homeScore": 0,
     "awayScore": 0
   },
