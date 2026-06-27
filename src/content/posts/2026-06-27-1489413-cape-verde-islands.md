@@ -26,4 +26,6 @@ pickHandicapTeam: "카보베르데"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "2"
 pickExpectedAway: "1"
+homeLineup: "[\"Vozinha (G)\",\"D. Borges (CD-L)\",\"P. Lopes (CD-R)\",\"K. Pina (DM)\",\"J. Paulo (LB)\",\"W. Pina (RB)\",\"J. Monteiro (CM-L)\",\"D. Duarte (CM-R)\",\"W. Semedo (LM)\",\"R. Mendes (RM)\",\"D. Livramento (F)\"]"
+awayLineup: "[\"M. Al-Owais (G)\",\"H. Al-Tambakti (CD-L)\",\"A. Al-Amri (CD-R)\",\"N. Boushal (LB)\",\"S. Abdulhamid (RB)\",\"N. Al-Dawsari (CM-L)\",\"A. Al-Khaibari (CM-R)\",\"S. Al-Dawsari (LM)\",\"S. Mandash (RM)\",\"M. Kanno (CF-L)\",\"F. Al-Brikan (CF-R)\"]"
 ---
