@@ -26,6 +26,6 @@ pickHandicapTeam: "캔자스시티 로열스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "3"
 pickExpectedAway: "6"
-homeLineup: "[\"선발투수 D. Martin (9-3, 3.18) ERA 3.18\"]"
-awayLineup: "[\"선발투수 M. Wacha (5-5, 3.48) ERA 3.48\"]"
+homeLineup: "[\"선발투수 D. Martin (9-3, 3.18) ERA 3.18\",\"1번 S. Antonacci (LF)\",\"2번 M. Vargas (3B)\",\"3번 A. Benintendi (DH)\",\"4번 C. Montgomery (SS)\",\"5번 C. Meidroth (2B)\",\"6번 B. Montgomery (RF)\",\"7번 T. Peters (CF)\",\"8번 J. Gonzalez (1B)\",\"9번 D. Romo (C)\"]"
+awayLineup: "[\"선발투수 M. Wacha (5-5, 3.48) ERA 3.48\",\"1번 C. Jensen (DH)\",\"2번 B. Witt Jr. (SS)\",\"3번 J. Caglianone (1B)\",\"4번 L. Thomas (CF)\",\"5번 M. Massey (2B)\",\"6번 S. Perez (C)\",\"7번 J. Rave (RF)\",\"8번 N. Loftin (3B)\",\"9번 I. Collins (LF)\"]"
 ---
