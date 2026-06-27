@@ -283,7 +283,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 홈팀 최근 경기 -->
   {homeRecentItems.length > 0 && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">📋</span>{homeTeam} 최근 경기</h2>
+      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#495057" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/></svg></span>{homeTeam} 최근 경기</h2>
       <div class="section-widget-body">
         {homeRecentItems.map((m: any, idx: number) => (
           <div>
@@ -358,7 +358,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 원정팀 최근 경기 -->
   {awayRecentItems.length > 0 && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">📋</span>{awayTeam} 최근 경기</h2>
+      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#495057" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/></svg></span>{awayTeam} 최근 경기</h2>
       <div class="section-widget-body">
         {awayRecentItems.map((m: any, idx: number) => (
           <div>
@@ -436,7 +436,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 종합 분석 -->
   {summary && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-summary"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">📝</span>종합 분석</h2>
+      <h2 class="section-widget-header sw-summary"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#4c6ef5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12h6M9 16h6M9 8h6M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/></svg></span>종합 분석</h2>
       <div class="section-widget-body">
   {summary.split(/(?<=\.) /).filter(Boolean).map((sentence: string, idx: number) => (
     <span>{idx > 0 && <hr class="sw-divider" />}{sentence}</span>
@@ -448,7 +448,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 추천 픽 -->
   {hasPick && (
     <div class="section-widget">
-      <h2 class="section-widget-header" style="background:#2f9e44;background-image:linear-gradient(180deg,#2f9e44 0%,#0ca678 100%);"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">🎯</span>추천 픽</h2>
+      <h2 class="section-widget-header" style="background:#2f9e44;background-image:linear-gradient(180deg,#2f9e44 0%,#0ca678 100%);"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0ca678" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3v4M12 17v4M3 12h4M17 12h4"/><circle cx="12" cy="12" r="3"/></svg></span>추천 픽</h2>
       <div style="background:#fff;">
         <div style="display:flex;align-items:center;padding:14px 18px;border-bottom:1px solid #f0f0f0;">
           <div style="width:38px;height:38px;border-radius:50%;background:#2f9e44;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
