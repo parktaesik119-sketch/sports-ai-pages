@@ -26,6 +26,6 @@ pickHandicapTeam: "세인트루이스 카디널스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
-homeLineup: "[\"선발투수 A. Pallante (9-4, 3.59) ERA 3.59\"]"
-awayLineup: "[\"선발투수 R. Gusto (0-2, 6.00) ERA 6.00\"]"
+homeLineup: "[\"선발투수 A. Pallante (9-4, 3.59) ERA 3.59\",\"1번 J. Wetherholt (2B)\",\"2번 I. Herrera (DH)\",\"3번 A. Burleson (1B)\",\"4번 J. Walker (RF)\",\"5번 L. Nootbaar (LF)\",\"6번 M. Winn (SS)\",\"7번 B. Torres (3B)\",\"8번 J. Crooks (C)\",\"9번 N. Church (CF)\"]"
+awayLineup: "[\"선발투수 R. Gusto (0-2, 6.00) ERA 6.00\",\"1번 X. Edwards (2B)\",\"2번 O. Lopez (SS)\",\"3번 K. Stowers (1B)\",\"4번 H. Hernandez (LF)\",\"5번 O. Caissie (RF)\",\"6번 J. Marsee (CF)\",\"7번 G. Conine (DH)\",\"8번 J. Sanoja (3B)\",\"9번 J. Mack (C)\"]"
 ---

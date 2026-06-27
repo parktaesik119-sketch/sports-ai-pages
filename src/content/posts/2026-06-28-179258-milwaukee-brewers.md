@@ -26,6 +26,6 @@ pickHandicapTeam: "밀워키 브루어스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
-homeLineup: "[\"선발투수 K. Harrison (8-1, 2.50) ERA 2.50\"]"
+homeLineup: "[\"선발투수 K. Harrison (8-1, 2.50) ERA 2.50\",\"1번 J. Chourio (LF)\",\"2번 B. Turang (2B)\",\"3번 W. Contreras (C)\",\"4번 A. Vaughn (1B)\",\"5번 G. Sanchez (DH)\",\"6번 B. Perkins (CF)\",\"7번 S. Frelick (RF)\",\"8번 C. Pratt (SS)\",\"9번 J. Ortiz (3B)\"]"
 awayLineup: "[\"선발투수 D. Peterson (3-6, 6.09) ERA 6.09\"]"
 ---
