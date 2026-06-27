@@ -42,6 +42,7 @@ const ESPN_SPORTS = {
   soccer_primeira: { sport: 'soccer',     league: 'por.1',         label: '프리메라리가'   },
   soccer_ucl:      { sport: 'soccer',     league: 'uefa.champions', label: 'UEFA 챔피언스리그' },
   soccer_uel:      { sport: 'soccer',     league: 'uefa.europa',   label: 'UEFA 유로파리그' },
+  soccer_worldcup: { sport: 'soccer',     league: 'fifa.world',    label: 'FIFA 월드컵'     },
   soccer_epl:      { sport: 'soccer',     league: 'eng.1',         label: 'P.L'           },
   soccer_seriea:   { sport: 'soccer',     league: 'ita.1',         label: '세리에 A'       },
   soccer_ligue1:   { sport: 'soccer',     league: 'fra.1',         label: '리그1'          },
@@ -63,7 +64,8 @@ function detectEspnSport(category, league) {
     if (lg.includes('분데스리가') && !lg.includes('분데스리가2')) return 'soccer_bundesliga';
     if (lg.includes('프리메라리가')) return 'soccer_primeira';
     if (lg.includes('UEFA 챔피언스리그') || lg.includes('UEFA CHAMPIONS')) return 'soccer_ucl';
-    if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA'))      return 'soccer_uel';
+    if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA')) return 'soccer_uel';
+    if (lg.includes('FIFA 월드컵') || lg.includes('FIFA WORLD'))      return 'soccer_worldcup';
     if (lg.includes('P.L'))          return 'soccer_epl';
     if (lg.includes('세리에 A'))     return 'soccer_seriea';
     if (lg.includes('리그1'))        return 'soccer_ligue1';
