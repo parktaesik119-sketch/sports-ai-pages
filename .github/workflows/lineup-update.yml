@@ -19,7 +19,7 @@ jobs:
           node-version: '20'
 
       - name: Run lineup update script
-        run: node scripts/Espn-boxscore-update.js
+        run: node scripts/espn-boxscore-update.js
 
       - name: Commit and push lineup updates
         run: |
