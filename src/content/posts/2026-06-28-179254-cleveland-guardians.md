@@ -26,6 +26,6 @@ pickHandicapTeam: "클리블랜드 가디언스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "4"
 pickExpectedAway: "2"
-homeLineup: "[\"선발투수 S. Cecconi (3-6, 4.48) ERA 4.48\"]"
+homeLineup: "[\"선발투수 S. Cecconi (3-6, 4.48) ERA 4.48\",\"1번 S. Kwan (LF)\",\"2번 T. Bazzana (2B)\",\"3번 B. Rocchio (SS)\",\"4번 K. Manzardo (1B)\",\"5번 K. Watson (RF)\",\"6번 C. Ingle (DH)\",\"7번 G. Arias (3B)\",\"8번 P. Bailey (C)\",\"9번 P. Halpin (CF)\"]"
 awayLineup: "[\"선발투수 L. Gilbert (6-4, 3.29) ERA 3.29\"]"
 ---

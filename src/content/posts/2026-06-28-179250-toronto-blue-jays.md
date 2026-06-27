@@ -26,6 +26,6 @@ pickHandicapTeam: "토론토 블루제이즈"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "6"
 pickExpectedAway: "5"
-homeLineup: "[\"선발투수 D. Cease (4-3, 2.75) ERA 2.75\"]"
-awayLineup: "[\"선발투수 C. Quantrill (3-0, 3.73) ERA 3.73\",\"1번 J. Pederson (DH)\",\"2번 W. Langford (CF)\",\"3번 C. Seager (SS)\",\"4번 B. Nimmo (RF)\",\"5번 J. Jung (3B)\",\"6번 J. Burger (1B)\",\"7번 J. Kelenic (LF)\",\"8번 E. Diaz (C)\",\"9번 N. Lopez (2B)\"]"
+homeLineup: "[\"선발투수 D. Cease (4-3, 2.75) ERA 2.75\",\"1번 N. Lukes (RF)\",\"2번 V. Guerrero Jr. (DH)\",\"3번 D. Varsho (CF)\",\"4번 K. Okamoto (3B)\",\"5번 A. Kirk (C)\",\"6번 S. Keys (1B)\",\"7번 E. Clement (2B)\",\"8번 Y. Pinango (LF)\",\"9번 A. Gimenez (SS)\"]"
+awayLineup: "[\"선발투수 C. Quantrill (3-0, 3.73) ERA 3.73\",\"1번 J. Pederson (DH)\",\"2번 J. Jung (3B)\",\"3번 C. Seager (SS)\",\"4번 B. Nimmo (RF)\",\"5번 J. Burger (1B)\",\"6번 J. Kelenic (LF)\",\"7번 A. Osuna (CF)\",\"8번 E. Diaz (C)\",\"9번 N. Lopez (2B)\"]"
 ---
