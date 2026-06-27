@@ -283,7 +283,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 홈팀 최근 경기 -->
   {homeRecentItems.length > 0 && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-gray">📋 <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><img src={awayLogo} style="width:26px;height:26px;object-fit:contain;" /></span> {homeTeam} 최근 경기</h2>
+      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">📋</span>{homeTeam} 최근 경기</h2>
       <div class="section-widget-body">
         {homeRecentItems.map((m: any, idx: number) => (
           <div>
@@ -358,7 +358,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 원정팀 최근 경기 -->
   {awayRecentItems.length > 0 && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-gray">📋 <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><img src={awayLogo} style="width:26px;height:26px;object-fit:contain;" /></span> {awayTeam} 최근 경기</h2>
+      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">📋</span>{awayTeam} 최근 경기</h2>
       <div class="section-widget-body">
         {awayRecentItems.map((m: any, idx: number) => (
           <div>
@@ -403,7 +403,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 
   <!-- 상대전적 -->
   <div class="section-widget">
-    <h2 class="section-widget-header sw-h2h">⚔️ <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><img src={awayLogo} style="width:26px;height:26px;object-fit:contain;" /></span> 상대 전적</h2>
+    <h2 class="section-widget-header sw-h2h"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">⚔️</span>상대 전적</h2>
     <div class="section-widget-body">
       {h2hItems.length > 0 ? h2hItems.map((row: string, idx: number) => (
         <div>
@@ -416,7 +416,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 
   <!-- 팀별 핵심 전력 -->
   <div class="section-widget">
-    <h2 class="section-widget-header sw-power">⚡ <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><img src={awayLogo} style="width:26px;height:26px;object-fit:contain;" /></span> 팀별 핵심 전력 분석</h2>
+    <h2 class="section-widget-header sw-power"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">⚡</span>팀별 핵심 전력 분석</h2>
     <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;align-items:flex-start;">
       <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
         <div class="power-title power-title--home">{homeTeam}</div>
@@ -436,7 +436,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 종합 분석 -->
   {summary && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-summary">📝 <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><img src={awayLogo} style="width:26px;height:26px;object-fit:contain;" /></span> 종합 분석</h2>
+      <h2 class="section-widget-header sw-summary"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">📝</span>종합 분석</h2>
       <div class="section-widget-body">
   {summary.split(/(?<=\.) /).filter(Boolean).map((sentence: string, idx: number) => (
     <span>{idx > 0 && <hr class="sw-divider" />}{sentence}</span>
@@ -448,7 +448,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 추천 픽 -->
   {hasPick && (
     <div class="section-widget">
-      <h2 class="section-widget-header" style="background:#2f9e44;background-image:linear-gradient(180deg,#2f9e44 0%,#0ca678 100%);">🎯 <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><img src={awayLogo} style="width:26px;height:26px;object-fit:contain;" /></span> 추천 픽</h2>
+      <h2 class="section-widget-header" style="background:#2f9e44;background-image:linear-gradient(180deg,#2f9e44 0%,#0ca678 100%);"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">🎯</span>추천 픽</h2>
       <div style="background:#fff;">
         <div style="display:flex;align-items:center;padding:14px 18px;border-bottom:1px solid #f0f0f0;">
           <div style="width:38px;height:38px;border-radius:50%;background:#2f9e44;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
