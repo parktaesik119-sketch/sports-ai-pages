@@ -242,43 +242,53 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 
   <!-- 홈팀 라인업 -->
   {homeLineupItems.length > 0 && (() => {
-    const homePitchers = homeLineupItems.filter((p: string) => p.startsWith('선발투수'));
-    const homeBatters  = homeLineupItems.filter((p: string) => p.includes('번 '));
-    return (
-      <div class="section-widget">
-        <h2 class="section-widget-header sw-home-lineup">
-          <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#e03131" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.57a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.57a2 2 0 0 0-1.34-2.23z"/></svg></span>
-          {homeTeam} 라인업
-        </h2>
-        <div class="section-widget-body lineup-body">
-          {homePitchers.length > 0 && (
-            <div class="lineup-section-label">투수</div>
-          )}
-          {homePitchers.map((player: string, idx: number) => (
-            <div>
-              {idx > 0 && <hr class="sw-divider" />}
-              <div class="recent-row">
-                <span class="lineup-pitcher-dot"></span>
-                <span class="recent-info">{player}</span>
-              </div>
+  const homePitchers = homeLineupItems.filter((p: string) => p.startsWith('선발투수'));
+  const homeBatters  = homeLineupItems.filter((p: string) => p.includes('번 '));
+  const homeSoccer   = homeLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 '));
+  return (
+    <div class="section-widget">
+      <h2 class="section-widget-header sw-home-lineup">
+        <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#e03131" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.57a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.57a2 2 0 0 0-1.34-2.23z"/></svg></span>
+        {homeTeam} 라인업
+      </h2>
+      <div class="section-widget-body lineup-body">
+        {homePitchers.length > 0 && (
+          <div class="lineup-section-label">투수</div>
+        )}
+        {homePitchers.map((player: string, idx: number) => (
+          <div>
+            {idx > 0 && <hr class="sw-divider" />}
+            <div class="recent-row">
+              <span class="lineup-pitcher-dot"></span>
+              <span class="recent-info">{player}</span>
             </div>
-          ))}
-          {homeBatters.length > 0 && (
-            <div class="lineup-section-label" style={homePitchers.length > 0 ? "margin-top:10px" : ""}">타자</div>
-          )}
-          {homeBatters.map((player: string, idx: number) => (
-            <div>
-              {idx > 0 && <hr class="sw-divider" />}
-              <div class="recent-row">
-                <span class="lineup-num">{player.match(/^(\d+)번/)?.[1] || String(idx+1)}</span>
-                <span class="recent-info">{player.replace(/^\d+번 /, '')}</span>
-              </div>
+          </div>
+        ))}
+        {homeBatters.length > 0 && (
+          <div class="lineup-section-label" style={homePitchers.length > 0 ? "margin-top:10px" : ""}">타자</div>
+        )}
+        {homeBatters.map((player: string, idx: number) => (
+          <div>
+            {idx > 0 && <hr class="sw-divider" />}
+            <div class="recent-row">
+              <span class="lineup-num">{player.match(/^(\d+)번/)?.[1] || String(idx+1)}</span>
+              <span class="recent-info">{player.replace(/^\d+번 /, '')}</span>
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
+        {homeSoccer.map((player: string, idx: number) => (
+          <div>
+            {idx > 0 && <hr class="sw-divider" />}
+            <div class="recent-row">
+              <span class="recent-dot"></span>
+              <span class="recent-info">{player}</span>
+            </div>
+          </div>
+        ))}
       </div>
-    );
-  })()}
+    </div>
+  );
+})()}
 
   <!-- 홈팀 최근 경기 -->
   {homeRecentItems.length > 0 && (
@@ -317,43 +327,53 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 
   <!-- 원정팀 라인업 -->
   {awayLineupItems.length > 0 && (() => {
-    const awayPitchers = awayLineupItems.filter((p: string) => p.startsWith('선발투수'));
-    const awayBatters  = awayLineupItems.filter((p: string) => p.includes('번 '));
-    return (
-      <div class="section-widget">
-        <h2 class="section-widget-header sw-away-lineup">
-          <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#228be6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.57a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.57a2 2 0 0 0-1.34-2.23z"/></svg></span>
-          {awayTeam} 라인업
-        </h2>
-        <div class="section-widget-body lineup-body">
-          {awayPitchers.length > 0 && (
-            <div class="lineup-section-label">투수</div>
-          )}
-          {awayPitchers.map((player: string, idx: number) => (
-            <div>
-              {idx > 0 && <hr class="sw-divider" />}
-              <div class="recent-row">
-                <span class="lineup-pitcher-dot"></span>
-                <span class="recent-info">{player}</span>
-              </div>
+  const awayPitchers = awayLineupItems.filter((p: string) => p.startsWith('선발투수'));
+  const awayBatters  = awayLineupItems.filter((p: string) => p.includes('번 '));
+  const awaySoccer   = awayLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 '));
+  return (
+    <div class="section-widget">
+      <h2 class="section-widget-header sw-away-lineup">
+        <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#228be6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.57a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.57a2 2 0 0 0-1.34-2.23z"/></svg></span>
+        {awayTeam} 라인업
+      </h2>
+      <div class="section-widget-body lineup-body">
+        {awayPitchers.length > 0 && (
+          <div class="lineup-section-label">투수</div>
+        )}
+        {awayPitchers.map((player: string, idx: number) => (
+          <div>
+            {idx > 0 && <hr class="sw-divider" />}
+            <div class="recent-row">
+              <span class="lineup-pitcher-dot"></span>
+              <span class="recent-info">{player}</span>
             </div>
-          ))}
-          {awayBatters.length > 0 && (
-            <div class="lineup-section-label" style={awayPitchers.length > 0 ? "margin-top:10px" : ""}">타자</div>
-          )}
-          {awayBatters.map((player: string, idx: number) => (
-            <div>
-              {idx > 0 && <hr class="sw-divider" />}
-              <div class="recent-row">
-                <span class="lineup-num">{player.match(/^(\d+)번/)?.[1] || String(idx+1)}</span>
-                <span class="recent-info">{player.replace(/^\d+번 /, '')}</span>
-              </div>
+          </div>
+        ))}
+        {awayBatters.length > 0 && (
+          <div class="lineup-section-label" style={awayPitchers.length > 0 ? "margin-top:10px" : ""}">타자</div>
+        )}
+        {awayBatters.map((player: string, idx: number) => (
+          <div>
+            {idx > 0 && <hr class="sw-divider" />}
+            <div class="recent-row">
+              <span class="lineup-num">{player.match(/^(\d+)번/)?.[1] || String(idx+1)}</span>
+              <span class="recent-info">{player.replace(/^\d+번 /, '')}</span>
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
+        {awaySoccer.map((player: string, idx: number) => (
+          <div>
+            {idx > 0 && <hr class="sw-divider" />}
+            <div class="recent-row">
+              <span class="recent-dot"></span>
+              <span class="recent-info">{player}</span>
+            </div>
+          </div>
+        ))}
       </div>
-    );
-  })()}
+    </div>
+  );
+})()}
 
   <!-- 원정팀 최근 경기 -->
   {awayRecentItems.length > 0 && (
