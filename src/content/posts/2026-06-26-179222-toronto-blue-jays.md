@@ -26,4 +26,6 @@ pickHandicapTeam: "토론토 블루제이즈"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 P. Corbin (2-3, 4.73) ERA 4.73\",\"1번 G. Springer (DH) | 시즌타율 .000\",\"2번 N. Lukes (RF) | 시즌타율 .333\",\"3번 V. Guerrero Jr. (1B) | 시즌타율 .333\",\"4번 K. Okamoto (3B) | 시즌타율 .333\",\"5번 D. Varsho (CF) | 시즌타율 .000\",\"6번 E. Clement (2B) | 시즌타율 .333\",\"7번 J. Sanchez (LF) | 시즌타율 .000\",\"8번 B. Valenzuela (C) | 시즌타율 .000\",\"9번 A. Gimenez (SS) | 시즌타율 .500\"]"
+awayLineup: "[\"선발투수 N. Eovaldi (7-7, 4.24) ERA 4.24\",\"1번 W. Langford (CF) | 시즌타율 .750\",\"2번 J. Jung (3B) | 시즌타율 .000\",\"3번 B. Nimmo (RF) | 시즌타율 .250\",\"4번 J. Burger (1B) | 시즌타율 .000\",\"5번 J. Foscue (DH) | 시즌타율 .500\",\"6번 E. Duran (SS) | 시즌타율 .500\",\"7번 K. Higashioka (C) | 시즌타율 .000\",\"8번 A. Osuna (LF) | 시즌타율 .000\",\"9번 N. Lopez (2B) | 시즌타율 .000\"]"
 ---

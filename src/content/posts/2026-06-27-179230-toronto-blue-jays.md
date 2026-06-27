@@ -26,4 +26,6 @@ pickHandicapTeam: "토론토 블루제이즈"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 D. Cease (4-3, 2.75) ERA 2.75\"]"
+awayLineup: "[\"선발투수 K. Rocker (2-6, 4.14) ERA 4.14\"]"
 ---

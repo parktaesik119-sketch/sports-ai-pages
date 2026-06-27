@@ -26,4 +26,6 @@ pickHandicapTeam: "애슬레틱스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "7"
+homeLineup: "[\"선발투수 R. Detmers (3-5, 3.93) ERA 3.93\"]"
+awayLineup: "[\"선발투수 J. Perkins (2-3, 6.26) ERA 6.26\"]"
 ---

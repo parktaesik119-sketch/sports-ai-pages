@@ -26,4 +26,6 @@ pickHandicapTeam: "시카고 컵스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
+homeLineup: "[\"선발투수 K. Harrison (8-1, 2.50) ERA 2.50\"]"
+awayLineup: "[]"
 ---

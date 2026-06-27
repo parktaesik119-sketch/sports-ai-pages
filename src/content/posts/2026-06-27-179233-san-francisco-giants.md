@@ -26,4 +26,6 @@ pickHandicapTeam: "샌프란시스코 자이언츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 L. Webb (4-5, 3.35) ERA 3.35\"]"
+awayLineup: "[\"선발투수 B. Elder (5-5, 3.71) ERA 3.71\"]"
 ---

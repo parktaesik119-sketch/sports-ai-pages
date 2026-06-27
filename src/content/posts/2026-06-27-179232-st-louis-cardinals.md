@@ -26,4 +26,6 @@ pickHandicapTeam: "세인트루이스 카디널스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 D. May (5-6, 4.30) ERA 4.30\"]"
+awayLineup: "[]"
 ---
