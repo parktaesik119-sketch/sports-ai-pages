@@ -26,6 +26,6 @@ pickHandicapTeam: "피츠버그 파이러츠"
 pickHandicapValue: "-2.5"
 pickExpectedHome: "7"
 pickExpectedAway: "3"
-homeLineup: "[\"선발투수 J. Jones (1-1, 5.75) ERA 5.75\"]"
-awayLineup: "[\"선발투수 C. Burns (9-1, 2.00) ERA 2.00\"]"
+homeLineup: "[\"선발투수 P. Skenes (6-7, 3.10) ERA 3.10\",\"1번 K. Griffin (SS)\",\"2번 B. Lowe (2B)\",\"3번 B. Reynolds (RF)\",\"4번 M. Ozuna (DH)\",\"5번 R. O'Hearn (1B)\",\"6번 E. Valdez (RF)\",\"7번 J. Triolo (3B)\",\"8번 J. Mangum (LF)\",\"9번 H. Davis (C)\"]"
+awayLineup: "[\"선발투수 A. Abbott (5-4, 3.90) ERA 3.90\",\"1번 B. Dunn (CF)\",\"2번 E. De La Cruz (SS)\",\"3번 J. Bleday (LF)\",\"4번 S. Stewart (1B)\",\"5번 N. Lowe (DH)\",\"6번 E. Suarez (3B)\",\"7번 S. Steer (RF)\",\"8번 T. Stephenson (C)\",\"9번 M. McLain (2B)\"]"
 ---

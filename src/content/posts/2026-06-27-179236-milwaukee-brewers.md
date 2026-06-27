@@ -26,6 +26,6 @@ pickHandicapTeam: "시카고 컵스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
-homeLineup: "[\"선발투수 K. Harrison (8-1, 2.50) ERA 2.50\"]"
-awayLineup: "[]"
+homeLineup: "[\"선발투수 J. Misiorowski (9-3, 1.45) ERA 1.45\",\"1번 C. Yelich (DH)\",\"2번 J. Chourio (LF)\",\"3번 B. Turang (2B)\",\"4번 W. Contreras (C)\",\"5번 J. Bauers (1B)\",\"6번 A. Vaughn (1B)\",\"7번 G. Mitchell (CF)\",\"8번 C. Pratt (SS)\",\"9번 D. Hamilton (3B)\"]"
+awayLineup: "[\"선발투수 C. Rea (5-5, 4.80) ERA 4.80\",\"1번 P. Crow-Armstrong (CF)\",\"2번 A. Bregman (3B)\",\"3번 M. Busch (1B)\",\"4번 S. Suzuki (DH)\",\"5번 I. Happ (LF)\",\"6번 N. Hoerner (2B)\",\"7번 C. Kelly (C)\",\"8번 M. Shaw (RF)\",\"9번 D. Swanson (SS)\"]"
 ---

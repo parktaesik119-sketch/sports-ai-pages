@@ -26,4 +26,6 @@ pickHandicapTeam: "필라델피아 필리스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "6"
 pickExpectedAway: "7"
+homeLineup: "[\"선발투수 C. Cavalli (4-4, 4.00) ERA 4.00\",\"1번 J. Wood (DH)\",\"2번 C. Mead (3B)\",\"3번 A. Chaparro (1B)\",\"4번 D. Crews (CF)\",\"5번 D. Lile (LF)\",\"6번 J. Young (CF)\",\"7번 N. Nunez (SS)\",\"8번 J. Vivas (2B)\",\"9번 K. Ruiz (C)\"]"
+awayLineup: "[\"선발투수 C. Sanchez (9-3, 2.13) ERA 2.13\",\"1번 T. Turner (SS)\",\"2번 K. Schwarber (DH)\",\"3번 B. Harper (1B)\",\"4번 B. Marsh (LF)\",\"5번 A. Bohm (3B)\",\"6번 B. Stott (2B)\",\"7번 J.T. Realmuto (C)\",\"8번 G. Rincones Jr. (RF)\",\"9번 J. Crawford (CF)\"]"
 ---

@@ -26,4 +26,6 @@ pickHandicapTeam: ""
 pickHandicapValue: ""
 pickExpectedHome: "3"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 B. Chandler (3-7, 4.42) ERA 4.42\",\"1번 J. Mangum (LF)\",\"2번 B. Lowe (DH)\",\"3번 B. Reynolds (RF)\",\"4번 N. Gonzales (3B)\",\"5번 R. O'Hearn (1B)\",\"6번 E. Valdez (RF)\",\"7번 T. Callihan (2B)\",\"8번 J. Triolo (SS)\",\"9번 H. Davis (C)\"]"
+awayLineup: "[\"선발투수 B. Miller (3-2, 1.97) ERA 1.97\",\"1번 J.P. Crawford (3B)\",\"2번 C. Raleigh (DH)\",\"3번 J. Rodriguez (CF)\",\"4번 J. Naylor (1B)\",\"5번 R. Arozarena (LF)\",\"6번 L. Raley (RF)\",\"7번 C. Young (2B)\",\"8번 M. Garver (C)\",\"9번 C. Emerson (SS)\"]"
 ---

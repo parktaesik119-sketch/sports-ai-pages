@@ -26,6 +26,6 @@ pickHandicapTeam: "세인트루이스 카디널스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
-homeLineup: "[\"선발투수 D. May (5-6, 4.30) ERA 4.30\"]"
-awayLineup: "[]"
+homeLineup: "[\"선발투수 M. McGreevy (3-6, 3.12) ERA 3.12\",\"1번 J. Wetherholt (2B)\",\"2번 I. Herrera (C)\",\"3번 A. Burleson (1B)\",\"4번 J. Walker (RF)\",\"5번 L. Nootbaar (LF)\",\"6번 M. Winn (SS)\",\"7번 N. Church (CF)\",\"8번 B. Jordan (3B)\",\"9번 J. Fermin (DH)\"]"
+awayLineup: "[\"선발투수 M. Meyer (9-0, 2.60) ERA 2.60\",\"1번 J. Marsee (CF)\",\"2번 G. Conine (RF)\",\"3번 X. Edwards (2B)\",\"4번 K. Stowers (1B)\",\"5번 O. Lopez (SS)\",\"6번 O. Caissie (DH)\",\"7번 J. Mack (C)\",\"8번 E. Ruiz (LF)\",\"9번 G. Pauley (3B)\"]"
 ---

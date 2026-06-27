@@ -26,6 +26,6 @@ pickHandicapTeam: "샌프란시스코 자이언츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
-homeLineup: "[\"선발투수 L. Webb (4-5, 3.35) ERA 3.35\"]"
-awayLineup: "[\"선발투수 B. Elder (5-5, 3.71) ERA 3.71\"]"
+homeLineup: "[\"선발투수 T. McDonald (2-6, 4.94) ERA 4.94\",\"1번 L. Arraez (2B)\",\"2번 B. Eldridge (DH)\",\"3번 C. Schmitt (LF)\",\"4번 R. Devers (1B)\",\"5번 J. Lee (CF)\",\"6번 W. Adames (SS)\",\"7번 M. Chapman (3B)\",\"8번 D. Cavanaugh (C)\",\"9번 V. Bericoto (RF)\"]"
+awayLineup: "[\"선발투수 R. Lopez (3-1, 3.47) ERA 3.47\",\"1번 M. Harris II (CF)\",\"2번 M. Dubon (LF)\",\"3번 M. Olson (1B)\",\"4번 O. Albies (2B)\",\"5번 D. Baldwin (C)\",\"6번 A. Riley (3B)\",\"7번 D. Smith (DH)\",\"8번 M. Yastrzemski (RF)\",\"9번 H. Kim (SS)\"]"
 ---

@@ -26,6 +26,6 @@ pickHandicapTeam: "워싱턴 내셔널스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
-homeLineup: "[\"선발투수 B. Young (6-2, 3.07) ERA 3.07\"]"
-awayLineup: "[\"선발투수 F. Griffin (8-2, 3.15) ERA 3.15\"]"
+homeLineup: "[\"선발투수 T. Rogers (5-7, 4.99) ERA 4.99\",\"1번 T. Ward (LF)\",\"2번 G. Henderson (SS)\",\"3번 P. Alonso (1B)\",\"4번 C. Mayo (DH)\",\"5번 T. O'Neill (RF)\",\"6번 S. Basallo (C)\",\"7번 L. Taveras (RF)\",\"8번 J. Holliday (2B)\",\"9번 B. Alexander (3B)\"]"
+awayLineup: "[\"선발투수 A. Alvarez (1-1, 3.44) ERA 3.44\",\"1번 J. Wood (RF)\",\"2번 C. Mead (2B)\",\"3번 A. Chaparro (3B)\",\"4번 C. Abrams (SS)\",\"5번 D. Crews (CF)\",\"6번 D. Lile (DH)\",\"7번 J. Young (CF)\",\"8번 N. Nunez (2B)\",\"9번 K. Ruiz (C)\"]"
 ---

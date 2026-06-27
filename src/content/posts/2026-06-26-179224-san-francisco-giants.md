@@ -26,4 +26,6 @@ pickHandicapTeam: "샌프란시스코 자이언츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 L. Roupp (5-7, 4.07) ERA 4.07\",\"1번 M. Chapman (3B)\",\"2번 B. Eldridge (1B)\",\"3번 C. Schmitt (2B)\",\"4번 R. Devers (DH)\",\"5번 W. Adames (SS)\",\"6번 J. Lee (RF)\",\"7번 V. Bericoto (LF)\",\"8번 D. Susac (C)\",\"9번 J. Cox (CF)\"]"
+awayLineup: "[\"선발투수 J. Springs (3-7, 5.52) ERA 5.52\",\"1번 H. Bolte (CF)\",\"2번 N. Kurtz (1B)\",\"3번 S. Langeliers (DH)\",\"4번 T. Soderstrom (LF)\",\"5번 J. Heim (C)\",\"6번 L. Butler (RF)\",\"7번 M. Muncy (3B)\",\"8번 J. McNeil (2B)\",\"9번 A. Williams (SS)\"]"
 ---

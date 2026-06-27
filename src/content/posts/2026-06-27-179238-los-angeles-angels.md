@@ -26,6 +26,6 @@ pickHandicapTeam: "애슬레틱스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "7"
-homeLineup: "[\"선발투수 R. Detmers (3-5, 3.93) ERA 3.93\"]"
-awayLineup: "[\"선발투수 J. Perkins (2-3, 6.26) ERA 6.26\"]"
+homeLineup: "[\"선발투수 W. Urena (5-6, 3.14) ERA 3.14\",\"1번 Z. Neto (SS)\",\"2번 N. Schanuel (1B)\",\"3번 J. Adell (CF)\",\"4번 J. Soler (DH)\",\"5번 W. Meckler (RF)\",\"6번 D. Guzman (3B)\",\"7번 D. Walton (2B)\",\"8번 L. O'Hoppe (C)\",\"9번 J. Lowe (CF)\"]"
+awayLineup: "[\"선발투수 J.T. Ginn (6-4, 3.15) ERA 3.15\",\"1번 H. Bolte (CF)\",\"2번 N. Kurtz (1B)\",\"3번 S. Langeliers (C)\",\"4번 T. Soderstrom (LF)\",\"5번 J. Heim (DH)\",\"6번 L. Butler (RF)\",\"7번 M. Muncy (3B)\",\"8번 J. McNeil (2B)\",\"9번 A. Williams (SS)\"]"
 ---
