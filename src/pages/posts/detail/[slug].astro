@@ -240,26 +240,6 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     </div>
   )}
 
-  <!-- 홈팀 최근 경기 -->
-  {homeRecentItems.length > 0 && (
-    <div class="section-widget">
-      <h2 class="section-widget-header sw-gray">📋 {homeTeam} 최근 경기</h2>
-      <div class="section-widget-body">
-        {homeRecentItems.map((m: any, idx: number) => (
-          <div>
-            {idx > 0 && <hr class="sw-divider" />}
-            <div class="recent-row">
-              <span class="recent-dot"></span>
-              <span class="recent-info">{m.date} {m.home} vs {m.away} ({m.score})</span>
-              <span class="recent-result">{m.result}</span>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  )}
-
-
   <!-- 홈팀 라인업 -->
   {homeLineupItems.length > 0 && (() => {
     const homePitchers = homeLineupItems.filter((p: string) => p.startsWith('선발투수'));
@@ -300,6 +280,26 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     );
   })()}
 
+  <!-- 홈팀 최근 경기 -->
+  {homeRecentItems.length > 0 && (
+    <div class="section-widget">
+      <h2 class="section-widget-header sw-gray">📋 {homeTeam} 최근 경기</h2>
+      <div class="section-widget-body">
+        {homeRecentItems.map((m: any, idx: number) => (
+          <div>
+            {idx > 0 && <hr class="sw-divider" />}
+            <div class="recent-row">
+              <span class="recent-dot"></span>
+              <span class="recent-info">{m.date} {m.home} vs {m.away} ({m.score})</span>
+              <span class="recent-result">{m.result}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  )}
+
+
   <!-- 원정팀 분석 -->
   {awayAnalysis && (
     <div class="section-widget">
@@ -312,25 +312,6 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     <span>{idx > 0 && <hr class="sw-divider" />}{sentence}</span>
   ))}
 </div>
-    </div>
-  )}
-
-  <!-- 원정팀 최근 경기 -->
-  {awayRecentItems.length > 0 && (
-    <div class="section-widget">
-      <h2 class="section-widget-header sw-gray">📋 {awayTeam} 최근 경기</h2>
-      <div class="section-widget-body">
-        {awayRecentItems.map((m: any, idx: number) => (
-          <div>
-            {idx > 0 && <hr class="sw-divider" />}
-            <div class="recent-row">
-              <span class="recent-dot"></span>
-              <span class="recent-info">{m.date} {m.home} vs {m.away} ({m.score})</span>
-              <span class="recent-result">{m.result}</span>
-            </div>
-          </div>
-        ))}
-      </div>
     </div>
   )}
 
@@ -373,6 +354,25 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
       </div>
     );
   })()}
+
+  <!-- 원정팀 최근 경기 -->
+  {awayRecentItems.length > 0 && (
+    <div class="section-widget">
+      <h2 class="section-widget-header sw-gray">📋 {awayTeam} 최근 경기</h2>
+      <div class="section-widget-body">
+        {awayRecentItems.map((m: any, idx: number) => (
+          <div>
+            {idx > 0 && <hr class="sw-divider" />}
+            <div class="recent-row">
+              <span class="recent-dot"></span>
+              <span class="recent-info">{m.date} {m.home} vs {m.away} ({m.score})</span>
+              <span class="recent-result">{m.result}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  )}
 
 <!-- 결장/부상 현황 -->
   {hasInjury && (

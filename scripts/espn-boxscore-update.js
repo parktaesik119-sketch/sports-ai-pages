@@ -192,7 +192,7 @@ function parseBaseballRosters(summary, event, homeTeamEn, awayTeamEn) {
       const sm   = {};
       (p.stats || []).forEach(s => { sm[s.name] = s.displayValue; });
       const avg = sm['avg'] || '.000';
-      result[side].push(`${p.batOrder}번 ${name} (${pos}) | 시즌타율 ${avg}`);
+      result[side].push(`${p.batOrder}번 ${name} (${pos})`);
     }
   }
 
