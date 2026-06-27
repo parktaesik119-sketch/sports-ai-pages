@@ -598,7 +598,7 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const isPast = matchDate < currentMatchDate;
     // score 필드가 있거나, homeScore/awayScore가 숫자로 존재할 때 스코어가 있다고 판단
-    const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") || (m.homeScore !== null && m.awayScore !== null); 
+    const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") || (typeof m.homeScore === 'number' && typeof m.awayScore === 'number'); 
     return isMatch && isRecentEnough && isPast && hasScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
 
@@ -649,7 +649,7 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
-                     (m.homeScore !== null && m.awayScore !== null);
+                     (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
     const isSameSport = m.sport === match.sport;
     const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
     return isHomeTeam && isPast && isRecentEnough && hasScore && isSameSport && scopeOk;
@@ -661,7 +661,7 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
-                     (m.homeScore !== null && m.awayScore !== null);
+                     (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
     const isSameSport = m.sport === match.sport;
     const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
     return isAwayTeam && isPast && isRecentEnough && hasScore && isSameSport && scopeOk;
@@ -676,7 +676,7 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= seasonStartDate;
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
-                     (m.homeScore !== null && m.awayScore !== null);
+                     (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
     return isHomeTeam && isPast && isRecentEnough && hasScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date));
 
@@ -686,7 +686,7 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= seasonStartDate;
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
-                     (m.homeScore !== null && m.awayScore !== null);
+                     (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
     return isAwayTeam && isPast && isRecentEnough && hasScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date));
 
