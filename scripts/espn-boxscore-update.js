@@ -386,14 +386,15 @@ function getKstDates() {
   const now       = new Date(Date.now() + 9 * 60 * 60 * 1000);
   const today     = now.toISOString().slice(0, 10);
   const yesterday = new Date(now.getTime() - 86400000).toISOString().slice(0, 10);
-  return [today, yesterday];
+  const tomorrow  = new Date(now.getTime() + 86400000).toISOString().slice(0, 10);
+  return [today, yesterday, tomorrow];
 }
 
 function getTargetPostFiles() {
-  const [today, yesterday] = getKstDates();
+  const targetDates = getKstDates();
   if (!fs.existsSync(POSTS_DIR)) return [];
   return fs.readdirSync(POSTS_DIR)
-    .filter(f => f.endsWith('.md') && (f.startsWith(today) || f.startsWith(yesterday)))
+    .filter(f => f.endsWith('.md') && targetDates.some(d => f.startsWith(d)))
     .map(f => path.join(POSTS_DIR, f));
 }
 
