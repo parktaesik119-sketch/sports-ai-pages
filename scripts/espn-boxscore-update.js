@@ -445,7 +445,7 @@ async function main() {
     const awayTeamEn = toEnglishTeamName(awayTeamKo);
     const espnSport  = detectEspnSport(category, league);
 
-    if (!espnSport) {
+    if (!espnSport || espnSport === 'wnba') {
   skipCount++;
   continue;
 }
