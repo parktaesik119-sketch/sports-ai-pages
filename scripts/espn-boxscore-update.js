@@ -41,12 +41,12 @@ const ESPN_SPORTS = {
 function detectEspnSport(category, league) {
   const cat = (category || '').toLowerCase();
   const lg  = (league   || '').toUpperCase();
-  if (lg.includes('WNBA'))                        return 'wnba';
-  if (cat === 'baseball' || lg.includes('MLB'))   return 'baseball';
+  if (lg.includes('WNBA'))  return 'wnba';
+  if (lg.includes('MLB'))   return 'baseball';  // MLB만 명시적으로
   if (cat === 'basketball' || lg.includes('NBA')) return 'basketball';
   if (cat === 'hockey'   || lg.includes('NHL'))   return 'hockey';
   if (cat === 'soccer'   && lg.includes('MLS'))   return 'soccer_mls';
-  return null;
+  return null;  // KBO, NPB, CPBL 등은 null → 스킵
 }
 
 // ─────────────────────────────────────────────
@@ -393,10 +393,9 @@ async function main() {
     const espnSport  = detectEspnSport(category, league);
 
     if (!espnSport) {
-      console.log(`⏩ [스킵] ESPN 미지원 종목: ${category} / ${league}`);
-      skipCount++;
-      continue;
-    }
+  skipCount++;
+  continue;
+}
 
     console.log(`\n🔍 ${path.basename(filePath)}`);
     console.log(`   홈: ${homeTeamKo} → ${homeTeamEn}`);
@@ -404,12 +403,13 @@ async function main() {
     console.log(`   날짜(KST): ${dateStr} / 종목: ${ESPN_SPORTS[espnSport].label}`);
 
     // 스코어보드 조회 (캐시)
-    const cacheKey = `${espnSport}_${dateStr}`;
-    if (!eventCache[cacheKey]) {
-      console.log(`   📡 스코어보드 호출: ${dateStr}`);
-      eventCache[cacheKey] = await fetchEspnEvents(espnSport, dateStr);
-      await new Promise(r => setTimeout(r, 800));
-    }
+    const utcDateStr = new Date(`${dateStr}T00:00:00+09:00`).toISOString().slice(0, 10);
+const cacheKey = `${espnSport}_${utcDateStr}`;
+if (!eventCache[cacheKey]) {
+  console.log(`   📡 스코어보드 호출: ${utcDateStr}`);
+  eventCache[cacheKey] = await fetchEspnEvents(espnSport, utcDateStr);
+  await new Promise(r => setTimeout(r, 800));
+}
 
     let matched = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
 
