@@ -255,12 +255,17 @@ function parseSoccerRosters(summary, homeTeamEn, awayTeamEn) {
   const rosters = summary?.rosters;
   if (!rosters || rosters.length === 0) return null;
 
-  const result = { home: [], away: [] };
+  const result = { home: [], away: [], homeFormation: '', awayFormation: '' };
 
   for (const rosterGroup of rosters) {
     const teamName = rosterGroup.team?.displayName || rosterGroup.team?.name || '';
     const isHome   = matchTeam(teamName, homeTeamEn);
     const side     = isHome ? 'home' : 'away';
+
+    if (rosterGroup.formation) {
+      if (isHome) result.homeFormation = rosterGroup.formation;
+      else        result.awayFormation = rosterGroup.formation;
+    }
 
     const starters = (rosterGroup.roster || [])
       .filter(p => p.starter)
@@ -497,6 +502,7 @@ if (!eventCache[cacheKey]) {
 
     let homeLineup = [];
     let awayLineup = [];
+    const updates  = {};
 
     if (espnSport === 'baseball') {
       const parsed = summary ? parseBaseballRosters(summary, event, homeTeamEn, awayTeamEn) : null;
@@ -523,6 +529,8 @@ if (!eventCache[cacheKey]) {
       if (parsed) {
         homeLineup = parsed.home;
         awayLineup = parsed.away;
+        if (parsed.homeFormation) updates.homeFormation = parsed.homeFormation;
+        if (parsed.awayFormation) updates.awayFormation = parsed.awayFormation;
       } else {
         console.log(`   ℹ️ ${ESPN_SPORTS[espnSport].label} ESPN 라인업 정보 미지원`);
         const leaders = parseLeadersFromEvent(event, homeTeamEn, awayTeamEn);
@@ -541,10 +549,10 @@ if (!eventCache[cacheKey]) {
       continue;
     }
 
-    const ok = updateMdFrontmatter(filePath, {
-      homeLineup: JSON.stringify(homeLineup),
-      awayLineup: JSON.stringify(awayLineup),
-    });
+    updates.homeLineup = JSON.stringify(homeLineup);
+    updates.awayLineup = JSON.stringify(awayLineup);
+
+    const ok = updateMdFrontmatter(filePath, updates);
 
     if (ok) {
       console.log(`   🔄 업데이트 완료 | 홈 ${homeLineup.length}건 / 원정 ${awayLineup.length}건`);
