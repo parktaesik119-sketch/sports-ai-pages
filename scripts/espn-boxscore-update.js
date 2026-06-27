@@ -31,22 +31,46 @@ function toEnglishTeamName(koName) {
 // 종목별 ESPN API 설정
 // ─────────────────────────────────────────────
 const ESPN_SPORTS = {
-  baseball:   { sport: 'baseball',   league: 'mlb',  label: 'MLB'  },
-  basketball: { sport: 'basketball', league: 'nba',  label: 'NBA'  },
-  wnba:       { sport: 'basketball', league: 'wnba', label: 'WNBA' },
-  hockey:     { sport: 'hockey',     league: 'nhl',  label: 'NHL'  },
-  soccer_mls: { sport: 'soccer',     league: 'usa.1',label: 'MLS'  },
+  baseball:        { sport: 'baseball',   league: 'mlb',           label: 'MLB'           },
+  basketball:      { sport: 'basketball', league: 'nba',           label: 'NBA'           },
+  wnba:            { sport: 'basketball', league: 'wnba',          label: 'WNBA'          },
+  hockey:          { sport: 'hockey',     league: 'nhl',           label: 'NHL'           },
+  soccer_mls:      { sport: 'soccer',     league: 'usa.1',         label: 'MLS'           },
+  soccer_laliga:   { sport: 'soccer',     league: 'esp.1',         label: '라리가'         },
+  soccer_bundesliga:  { sport: 'soccer',  league: 'ger.1',         label: '분데스리가'     },
+  soccer_bundesliga2: { sport: 'soccer',  league: 'ger.2',         label: '분데스리가2'    },
+  soccer_primeira: { sport: 'soccer',     league: 'por.1',         label: '프리메라리가'   },
+  soccer_ucl:      { sport: 'soccer',     league: 'uefa.champions', label: 'UEFA 챔피언스리그' },
+  soccer_uel:      { sport: 'soccer',     league: 'uefa.europa',   label: 'UEFA 유로파리그' },
+  soccer_epl:      { sport: 'soccer',     league: 'eng.1',         label: 'P.L'           },
+  soccer_seriea:   { sport: 'soccer',     league: 'ita.1',         label: '세리에 A'       },
+  soccer_ligue1:   { sport: 'soccer',     league: 'fra.1',         label: '리그1'          },
+  soccer_eredivisie: { sport: 'soccer',   league: 'ned.1',         label: '에레디비시'     },
+  soccer_kleague:  { sport: 'soccer',     league: 'kor.1',         label: 'K1'            },
 };
 
 function detectEspnSport(category, league) {
   const cat = (category || '').toLowerCase();
   const lg  = (league   || '').toUpperCase();
-  if (lg.includes('WNBA'))  return 'wnba';
-  if (lg.includes('MLB'))   return 'baseball';  // MLB만 명시적으로
+  if (lg.includes('WNBA'))           return 'wnba';
+  if (lg.includes('MLB'))            return 'baseball';
   if (cat === 'basketball' || lg.includes('NBA')) return 'basketball';
   if (cat === 'hockey'   || lg.includes('NHL'))   return 'hockey';
-  if (cat === 'soccer'   && lg.includes('MLS'))   return 'soccer_mls';
-  return null;  // KBO, NPB, CPBL 등은 null → 스킵
+  if (cat === 'soccer') {
+    if (lg.includes('MLS'))          return 'soccer_mls';
+    if (lg.includes('라리가') && !lg.includes('라리가2')) return 'soccer_laliga';
+    if (lg.includes('분데스리가2'))  return 'soccer_bundesliga2';
+    if (lg.includes('분데스리가') && !lg.includes('분데스리가2')) return 'soccer_bundesliga';
+    if (lg.includes('프리메라리가')) return 'soccer_primeira';
+    if (lg.includes('UEFA 챔피언스리그') || lg.includes('UEFA CHAMPIONS')) return 'soccer_ucl';
+    if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA'))      return 'soccer_uel';
+    if (lg.includes('P.L'))          return 'soccer_epl';
+    if (lg.includes('세리에 A'))     return 'soccer_seriea';
+    if (lg.includes('리그1'))        return 'soccer_ligue1';
+    if (lg.includes('에레디비시'))   return 'soccer_eredivisie';
+    if (lg.includes('K1'))           return 'soccer_kleague';
+  }
+  return null;
 }
 
 // ─────────────────────────────────────────────
@@ -215,6 +239,35 @@ function parseBaseballRosters(summary, event, homeTeamEn, awayTeamEn) {
         if (era)    line += ` ERA ${era}`;
         result[side].unshift(line);
       }
+    }
+  }
+
+  if (result.home.length === 0 && result.away.length === 0) return null;
+  return result;
+}
+
+// ─────────────────────────────────────────────
+// 축구 라인업 파싱 (rosters)
+// ─────────────────────────────────────────────
+function parseSoccerRosters(summary, homeTeamEn, awayTeamEn) {
+  const rosters = summary?.rosters;
+  if (!rosters || rosters.length === 0) return null;
+
+  const result = { home: [], away: [] };
+
+  for (const rosterGroup of rosters) {
+    const teamName = rosterGroup.team?.displayName || rosterGroup.team?.name || '';
+    const isHome   = matchTeam(teamName, homeTeamEn);
+    const side     = isHome ? 'home' : 'away';
+
+    const starters = (rosterGroup.roster || [])
+      .filter(p => p.starter)
+      .sort((a, b) => (a.jerseyNumber || 0) - (b.jerseyNumber || 0));
+
+    for (const p of starters) {
+      const name = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos  = p.position?.abbreviation || '';
+      if (name) result[side].push(`${name} (${pos})`);
     }
   }
 
@@ -458,6 +511,17 @@ if (!eventCache[cacheKey]) {
         homeLineup = parsed.home;
         awayLineup = parsed.away;
       } else {
+        const leaders = parseLeadersFromEvent(event, homeTeamEn, awayTeamEn);
+        homeLineup = leaders.home;
+        awayLineup = leaders.away;
+      }
+    } else if (espnSport.startsWith('soccer_')) {
+      const parsed = summary ? parseSoccerRosters(summary, homeTeamEn, awayTeamEn) : null;
+      if (parsed) {
+        homeLineup = parsed.home;
+        awayLineup = parsed.away;
+      } else {
+        console.log(`   ℹ️ ${ESPN_SPORTS[espnSport].label} ESPN 라인업 정보 미지원`);
         const leaders = parseLeadersFromEvent(event, homeTeamEn, awayTeamEn);
         homeLineup = leaders.home;
         awayLineup = leaders.away;
