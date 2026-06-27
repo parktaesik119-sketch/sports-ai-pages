@@ -26,4 +26,6 @@ pickHandicapTeam: "워싱턴 내셔널스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
+homeLineup: "[\"선발투수 B. Young (6-2, 3.07) ERA 3.07\"]"
+awayLineup: "[\"선발투수 F. Griffin (8-2, 3.15) ERA 3.15\"]"
 ---

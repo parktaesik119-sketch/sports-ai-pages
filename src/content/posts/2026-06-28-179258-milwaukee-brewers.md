@@ -26,4 +26,6 @@ pickHandicapTeam: "밀워키 브루어스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 K. Harrison (8-1, 2.50) ERA 2.50\"]"
+awayLineup: "[\"선발투수 D. Peterson (3-6, 6.09) ERA 6.09\"]"
 ---

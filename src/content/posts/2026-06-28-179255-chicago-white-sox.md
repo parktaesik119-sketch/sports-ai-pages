@@ -26,4 +26,6 @@ pickHandicapTeam: "캔자스시티 로열스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "3"
 pickExpectedAway: "6"
+homeLineup: "[\"선발투수 D. Martin (9-3, 3.18) ERA 3.18\"]"
+awayLineup: "[\"선발투수 M. Wacha (5-5, 3.48) ERA 3.48\"]"
 ---

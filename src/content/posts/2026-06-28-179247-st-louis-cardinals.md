@@ -26,4 +26,6 @@ pickHandicapTeam: "세인트루이스 카디널스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 A. Pallante (9-4, 3.59) ERA 3.59\"]"
+awayLineup: "[\"선발투수 R. Gusto (0-2, 6.00) ERA 6.00\"]"
 ---

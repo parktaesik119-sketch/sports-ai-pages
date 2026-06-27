@@ -26,4 +26,6 @@ pickHandicapTeam: "클리블랜드 가디언스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "4"
 pickExpectedAway: "2"
+homeLineup: "[\"선발투수 S. Cecconi (3-6, 4.48) ERA 4.48\"]"
+awayLineup: "[\"선발투수 L. Gilbert (6-4, 3.29) ERA 3.29\"]"
 ---

@@ -26,4 +26,6 @@ pickHandicapTeam: "피츠버그 파이러츠"
 pickHandicapValue: "-2.5"
 pickExpectedHome: "7"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 J. Jones (1-1, 5.75) ERA 5.75\"]"
+awayLineup: "[\"선발투수 C. Burns (9-1, 2.00) ERA 2.00\"]"
 ---

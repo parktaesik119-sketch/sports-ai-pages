@@ -26,4 +26,6 @@ pickHandicapTeam: "토론토 블루제이즈"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "6"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 D. Cease (4-3, 2.75) ERA 2.75\"]"
+awayLineup: "[\"선발투수 C. Quantrill (3-0, 3.73) ERA 3.73\"]"
 ---
