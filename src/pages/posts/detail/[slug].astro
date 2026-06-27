@@ -244,7 +244,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   {homeLineupItems.length > 0 && (() => {
   const homePitchers = homeLineupItems.filter((p: string) => p.startsWith('선발투수'));
   const homeBatters  = homeLineupItems.filter((p: string) => p.includes('번 '));
-  const homeSoccer   = homeLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 '));
+  const homeOthers   = homeLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 '));
   return (
     <div class="section-widget">
       <h2 class="section-widget-header sw-home-lineup">
@@ -329,7 +329,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   {awayLineupItems.length > 0 && (() => {
   const awayPitchers = awayLineupItems.filter((p: string) => p.startsWith('선발투수'));
   const awayBatters  = awayLineupItems.filter((p: string) => p.includes('번 '));
-  const awaySoccer   = awayLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 '));
+  const awayOthers   = awayLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 '));
   return (
     <div class="section-widget">
       <h2 class="section-widget-header sw-away-lineup">
