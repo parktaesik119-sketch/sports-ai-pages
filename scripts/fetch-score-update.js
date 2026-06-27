@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 const OUTPUT_DIR = path.join(__dirname, "../database");
 const ALL_FIXTURES_FILE = path.join(OUTPUT_DIR, "all-fixtures.json");
 
-const HIGHLIGHTLY_KEY = process.env.RAPID_KEY;
+const HIGHLIGHTLY_KEY = "749bc19777msh67bb1920124b5d7p1cf477jsn772cbb1ccdd3";
 const HIGHLIGHTLY_HOST = "volleyball-highlights-api.p.rapidapi.com";
 
 const TARGET_VOLLEYBALL_LEAGUES = [
@@ -79,25 +79,30 @@ async function main() {
     process.exit(1);
   }
 
-  const now = new Date();
-const kstDate = new Date(now.getTime() + 9 * 60 * 60 * 1000);
-const today = kstDate.toISOString().split("T")[0]; // KST 기준 오늘
+  const todayKST = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().split("T")[0];
 
-const targetMatches = existingFixtures.filter(m =>
-  m.sport === "volleyball"
-  && m.date >= "2026-05-01"
-  && m.date.slice(0, 10) <= today   // ← <= 로 변경, 당일 포함
-  && m.homeScore === null
-  && m.awayScore === null
-  && isTargetVolleyballLeague(m.league)
-);
+const targetMatches = existingFixtures.filter(m => {
+  const matchDateKST = new Date(new Date(m.date).getTime() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
+  return (
+    m.sport === "volleyball"
+    && m.date >= "2026-05-01"
+    && matchDateKST < todayKST
+    && (
+  (m.homeScore === null && m.awayScore === null) ||
+  (m.homeScore === 0 && m.awayScore === 0)
+)
+    && isTargetVolleyballLeague(m.league)
+  );
+});
 
   if (targetMatches.length === 0) {
     console.log("✅ 업데이트할 스코어 없음. 종료.");
     return;
   }
 
-  const targetDates = [...new Set(targetMatches.map(m => m.date.slice(0, 10)))].sort();
+  const targetDates = [...new Set(targetMatches.map(m =>
+  new Date(new Date(m.date).getTime() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10)
+))].sort();
   console.log(`📅 스코어 없는 날짜: ${targetDates.length}개`);
   console.log(`🎯 업데이트 대상 경기: ${targetMatches.length}건\n`);
 
@@ -106,9 +111,10 @@ const targetMatches = existingFixtures.filter(m =>
     console.log(`📡 호출 중: ${date}`);
     const results = await fetchVolleyballByDate(date);
     results.forEach(m => {
-      const key = `${m.date.slice(0, 10)}_${normalizeTeamName(m.home)}_${normalizeTeamName(m.away)}`;
-      fetchedMap.set(key, m);
-    });
+  const dateKST = new Date(new Date(m.date).getTime() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
+  const key = `${dateKST}_${normalizeTeamName(m.home)}_${normalizeTeamName(m.away)}`;
+  fetchedMap.set(key, m);
+});
     await new Promise(r => setTimeout(r, 5000));
   }
 
@@ -118,9 +124,16 @@ const targetMatches = existingFixtures.filter(m =>
   let failCount = 0;
   const updatedFixtures = existingFixtures.map(m => {
     if (m.sport !== "volleyball" || !isTargetVolleyballLeague(m.league)) return m;
-    if (isValidScore(m.homeScore) || isValidScore(m.awayScore)) return m;
+    if (isValidScore(m.homeScore) || isValidScore(m.awayScore)) {
+  if (m.homeScore === 0 && m.awayScore === 0) {
+    // 0:0은 무효로 보고 재수집 진행
+  } else {
+    return m; // 실제 스코어 있으면 스킵
+  }
+}
 
-    const key = `${m.date.slice(0, 10)}_${normalizeTeamName(m.home)}_${normalizeTeamName(m.away)}`;
+    const matchDateKST = new Date(new Date(m.date).getTime() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
+    const key = `${matchDateKST}_${normalizeTeamName(m.home)}_${normalizeTeamName(m.away)}`;
     const fetched = fetchedMap.get(key);
     if (!fetched) {
       failCount++;
