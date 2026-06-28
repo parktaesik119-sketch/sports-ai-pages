@@ -304,12 +304,12 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           <rect x="10" y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
           <rect x={W_SVG-10-W_SVG*0.13} y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
           <text text-anchor="middle" font-family="sans-serif" fill="#fff">
-          <tspan x={W_SVG*0.25} y="22" font-size="18" font-weight="700">{homeTeam}</tspan>
-          <tspan x={W_SVG*0.25} dy="20" font-size="14" font-weight="400">{homeFormation}</tspan>
+          <tspan x={W_SVG*0.25} y="30" font-size="14" font-weight="700">{homeTeam}</tspan>
+          <tspan x={W_SVG*0.25} dy="18" font-size="18" font-weight="400">{homeFormation}</tspan>
           </text>
           <text text-anchor="middle" font-family="sans-serif" fill="#fff">
-          <tspan x={W_SVG*0.75} y="22" font-size="18" font-weight="700">{awayTeam}</tspan>
-          <tspan x={W_SVG*0.75} dy="20" font-size="14" font-weight="400">{awayFormation}</tspan>
+          <tspan x={W_SVG*0.75} y="30" font-size="14" font-weight="700">{awayTeam}</tspan>
+          <tspan x={W_SVG*0.75} dy="18" font-size="18" font-weight="400">{awayFormation}</tspan>
           </text>
           {homeLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
   const coord = hCoords[i];
