@@ -26,4 +26,6 @@ pickHandicapTeam: "클리블랜드 가디언스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "4"
 pickExpectedAway: "2"
+homeLineup: "[\"선발투수 G. Williams (9-4, 3.82) ERA 3.82\"]"
+awayLineup: "[\"선발투수 E. Hancock (5-4, 3.60) ERA 3.60\"]"
 ---

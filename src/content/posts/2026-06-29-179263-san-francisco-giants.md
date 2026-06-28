@@ -26,4 +26,6 @@ pickHandicapTeam: "샌프란시스코 자이언츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 R. Ray (6-6, 3.70) ERA 3.70\"]"
+awayLineup: "[\"선발투수 C. Sale (8-5, 2.14) ERA 2.14\"]"
 ---

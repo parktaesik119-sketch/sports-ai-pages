@@ -26,4 +26,6 @@ pickHandicapTeam: "시카고 컵스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
+homeLineup: "[\"선발투수 B. Woodruff (2-1, 3.00) ERA 3.00\"]"
+awayLineup: "[\"선발투수 R. Rolison (5-1, 1.82) ERA 1.82\"]"
 ---

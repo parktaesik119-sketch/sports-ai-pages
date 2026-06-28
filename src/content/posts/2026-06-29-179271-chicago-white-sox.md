@@ -26,4 +26,6 @@ pickHandicapTeam: "캔자스시티 로열스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "3"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 A. Kay (6-2, 4.24) ERA 4.24\"]"
+awayLineup: "[\"선발투수 L. Avila (3-3, 5.06) ERA 5.06\"]"
 ---

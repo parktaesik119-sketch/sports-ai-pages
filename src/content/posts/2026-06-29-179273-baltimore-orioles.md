@@ -26,4 +26,6 @@ pickHandicapTeam: "워싱턴 내셔널스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 K. Bradish (5-7, 3.64) ERA 3.64\"]"
+awayLineup: "[\"선발투수 Z. Littell (6-6, 5.40) ERA 5.40\"]"
 ---

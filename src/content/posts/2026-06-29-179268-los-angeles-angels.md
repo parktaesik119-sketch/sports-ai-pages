@@ -26,4 +26,6 @@ pickHandicapTeam: "애슬레틱스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "7"
+homeLineup: "[\"선발투수 S. Aldegheri (2-3, 5.47) ERA 5.47\"]"
+awayLineup: "[\"선발투수 A. Civale (5-4, 4.88) ERA 4.88\"]"
 ---
