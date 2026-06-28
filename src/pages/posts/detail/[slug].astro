@@ -276,7 +276,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
             </div>
           </div>
         ))}
-        {homeSoccer.map((player: string, idx: number) => (
+        {homeOthers.map((player: string, idx: number) => (
           <div>
             {idx > 0 && <hr class="sw-divider" />}
             <div class="recent-row">
@@ -361,7 +361,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
             </div>
           </div>
         ))}
-        {awaySoccer.map((player: string, idx: number) => (
+        {awayOthers.map((player: string, idx: number) => (
           <div>
             {idx > 0 && <hr class="sw-divider" />}
             <div class="recent-row">
