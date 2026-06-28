@@ -133,7 +133,7 @@ function calcPos(formation: string, side: 'home' | 'away') {
   const numLines = lines.length + 1;
   const padX = W_SVG * 0.08;
   const padY = H_SVG * 0.12;
-  const halfW = (W_SVG - padX * 2) * 0.48;
+  const halfW = (W_SVG - padX * 2) * 0.42;
   const fieldH = H_SVG - padY * 2;
   const xPos: number[] = [];
   for (let i = 0; i < numLines; i++) {
@@ -337,8 +337,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           <text x="34" y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">GK</text>
           <rect x="60" y={H_SVG-22} width="10" height="10" rx="2" fill={HOME_COLOR}/>
           <text x="74" y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">{homeTeam}</text>
-          <rect x={W_SVG/2-10} y={H_SVG-22} width="10" height="10" rx="2" fill={AWAY_COLOR}/>
-          <text x={W_SVG/2+4} y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">{awayTeam}</text>
+          <rect x="130" y={H_SVG-22} width="10" height="10" rx="2" fill={AWAY_COLOR}/>
+          <text x="144" y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">{awayTeam}</text>
         </svg>
       </div>
     </div>
