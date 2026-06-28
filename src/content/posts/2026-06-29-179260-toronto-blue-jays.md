@@ -14,10 +14,10 @@ homeAnalysis: "토론토 블루제이즈는 2026시즌 최근 53경기에서 24�
 awayAnalysis: "텍사스 레인저스는 2026시즌 최근 45경기에서 21승 0무 24패, 평균 득점 3.6으로 시즌 전력은 홈팀보다 조금 더 날카로운 균형감을 보여주고 있습니다. 최근 흐름은 다소 흔들렸지만, 필요할 때 한 점 차 승부를 가져오는 집중력이 돋보이고 있습니다. 원정에서는 폭발적인 득점보다는 실리를 챙기는 운영이 강점으로 평가됩니다. 최근 토론토 블루제이즈와의 맞대결에서 7득점, 6득점을 기록하며 공격 연결이 더 매끄럽게 이어진 점도 주목할 만합니다. 수비와 불펜이 큰 실점만 억제해 주면 원정에서도 충분히 우세한 흐름을 만들 수 있을 것으로 보입니다."
 homePower: "53경기 24승1무28패|평균 3.7득점 기록|최근 10경기 5승5패|홈 실점 관리가 관건|토론토 블루제이즈 타선 기복"
 awayPower: "45경기 21승24패|평균 3.6득점 수준|최근 10경기 4승6패|맞대결 2연승 흐름|텍사스 레인저스 집중력 우위"
-h2h: "2026.06.28 - 토론토 블루제이즈 (4-7) 텍사스 레인저스|2026.06.26 - 토론토 블루제이즈 (5-6) 텍사스 레인저스"
+h2h: '[{"date":"2026.06.28","home":"토론토 블루제이즈","score":"4-7","away":"텍사스 레인저스","link":"https://pick79.com/posts/detail/analyze-179260-2026-06-28-toronto-blue-jays/"},{"date":"2026.06.26","home":"토론토 블루제이즈","score":"5-6","away":"텍사스 레인저스","link":"https://pick79.com/posts/detail/analyze-179230-2026-06-26-toronto-blue-jays/"}]'
 summary: "두 팀의 시즌 전력을 비교하면 텍사스 레인저스가 조금 더 안정적인 승부 운영을 보여주고 있고, 토론토 블루제이즈는 득점력은 유지하지만 수비 흔들림이 발목을 잡는 흐름입니다. 최근 맞대결에서도 텍사스 레인저스가 연속으로 더 많은 점수를 올리며 우위를 지켜냈기 때문에, 이번 경기 역시 원정팀이 조금 더 앞서는 구도로 보입니다. 토론토 블루제이즈가 홈에서 반등을 노리더라도 실점 억제가 따라주지 않으면 흐름을 가져오기 쉽지 않아 보이며, 텍사스 레인저스는 필요한 순간 타선이 한 번 더 힘을 내주면 유리한 경기를 만들 가능성이 높습니다."
-homeRecent: '[{"date":"26/06/28","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"4-7","result":"🔴패"},{"date":"26/06/26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"5-6","result":"🔴패"},{"date":"26/06/25","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패"},{"date":"26/06/24","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"7-9","result":"🔴패"},{"date":"26/06/23","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"4-2","result":"🟢승"}]'
-awayRecent: '[{"date":"26/06/28","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"4-7","result":"🟢승"},{"date":"26/06/26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"5-6","result":"🟢승"},{"date":"26/06/25","home":"마이애미 말린스","away":"텍사스 레인저스","score":"4-2","result":"🔴패"},{"date":"26/06/24","home":"마이애미 말린스","away":"텍사스 레인저스","score":"6-4","result":"🔴패"},{"date":"26/06/23","home":"마이애미 말린스","away":"텍사스 레인저스","score":"3-4","result":"🟢승"}]'
+homeRecent: '[{"date":"26/06/28","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179260-2026-06-28-toronto-blue-jays/"},{"date":"26/06/26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179230-2026-06-26-toronto-blue-jays/"},{"date":"26/06/25","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179207-2026-06-24-toronto-blue-jays/"},{"date":"26/06/24","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179207-2026-06-24-toronto-blue-jays/"},{"date":"26/06/23","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179192-2026-06-23-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26/06/28","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179260-2026-06-28-toronto-blue-jays/"},{"date":"26/06/26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179230-2026-06-26-toronto-blue-jays/"},{"date":"26/06/25","home":"마이애미 말린스","away":"텍사스 레인저스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179214-2026-06-24-miami-marlins/"},{"date":"26/06/24","home":"마이애미 말린스","away":"텍사스 레인저스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179214-2026-06-24-miami-marlins/"},{"date":"26/06/23","home":"마이애미 말린스","away":"텍사스 레인저스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179199-2026-06-23-miami-marlins/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
 pickWinTeam: "텍사스 레인저스"
@@ -26,6 +26,4 @@ pickHandicapTeam: "텍사스 레인저스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
-homeLineup: "[\"선발투수 S. Bieber (0-0, 9.82) ERA 9.82\"]"
-awayLineup: "[\"선발투수 K. Rocker (2-6, 4.14) ERA 4.14\"]"
 ---

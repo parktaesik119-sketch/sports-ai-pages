@@ -27,6 +27,11 @@ async function runAutomation() {
     console.log("💡 이미 생성된 분석글은 자동으로 건너뜁니다.");
     execSync('node analyze-router-one-git.js', { stdio: 'inherit', cwd: __dirname });
     
+    // 6단계: 링크 삽입
+    console.log("\n[6단계] 분석글 링크 삽입 중...");
+    execSync('node inject-links.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ 링크 삽입 완료.");
+
     console.log("\n====================================================");
     console.log("🎉 모든 작업이 완료되었습니다!");
     console.log("📍 생성된 MD 파일 위치: src/content/posts/");

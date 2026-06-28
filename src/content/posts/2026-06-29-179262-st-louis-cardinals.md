@@ -14,10 +14,10 @@ homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 44경기에�
 awayAnalysis: "마이애미 말린스는 2026시즌 최근 51경기에서 26승 2무 23패, 평균 득점 3.9로 세인트루이스 카디널스보다 더 안정적인 승수 흐름을 보여주고 있습니다. 최근 10경기에서는 7승 3패로 상승세가 뚜렷하며, 텍사스전과 샌프란시스코전에서 연달아 승리를 챙기며 공격 집중력이 좋았습니다. 특히 최근 경기들에서 4득점 이상을 여러 차례 기록해 득점 생산이 꾸준하고, 필요할 때는 저득점 승부도 잡아내는 점이 돋보입니다. 수비 쪽에서도 상대 타선을 1점대로 묶는 경기가 나와 경기 운영 완성도가 좋아 보입니다. 원정에서도 흐름을 잘 이어가고 있어, 최근 전력만 놓고 보면 더 신뢰감 있는 모습입니다."
 homePower: "시즌 44경기 19승24패|평균 3.9득점 기록|최근 10경기 4승6패|홈에서 실점 변동 큼|마이애미전 1득점 패배"
 awayPower: "시즌 51경기 26승23패|평균 3.9득점 유지|최근 10경기 7승3패|텍사스전 연속 승리|실점 억제력도 안정적"
-h2h: "2026.06.28 - 세인트루이스 카디널스 (1-5) 마이애미 말린스"
+h2h: '[{"date":"2026.06.28","home":"세인트루이스 카디널스","score":"1-5","away":"마이애미 말린스","link":"https://pick79.com/posts/detail/analyze-179262-2026-06-28-st-louis-cardinals/"}]'
 summary: "마이애미 말린스는 2026시즌 전체 전력과 최근 흐름에서 세인트루이스 카디널스보다 한 발 앞서 있는 모습입니다. 두 팀 모두 평균 득점은 3.9로 비슷하지만, 최근 승률과 안정감에서는 마이애미 말린스가 더 나은 흐름을 이어가고 있어 경기 주도권을 잡을 가능성이 높아 보입니다. 직전 맞대결에서도 마이애미 말린스가 5득점으로 세인트루이스 카디널스를 1점에 묶으며 공수 균형에서 우위를 보여주었고, 이번 경기 역시 5대3 흐름으로 원정팀 쪽 기대가 더 크게 형성됩니다."
-homeRecent: '[{"date":"26/06/28","home":"세인트루이스 카디널스","away":"마이애미 말린스","score":"1-5","result":"🔴패"},{"date":"26/06/25","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"4-9","result":"🔴패"},{"date":"26/06/24","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패"},{"date":"26/06/23","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"3-2","result":"🟢승"},{"date":"26/06/22","home":"캔자스시티 로열스","away":"세인트루이스 카디널스","score":"10-12","result":"🟢승"}]'
-awayRecent: '[{"date":"26/06/28","home":"세인트루이스 카디널스","away":"마이애미 말린스","score":"1-5","result":"🟢승"},{"date":"26/06/25","home":"마이애미 말린스","away":"텍사스 레인저스","score":"4-2","result":"🟢승"},{"date":"26/06/24","home":"마이애미 말린스","away":"텍사스 레인저스","score":"6-4","result":"🟢승"},{"date":"26/06/23","home":"마이애미 말린스","away":"텍사스 레인저스","score":"3-4","result":"🔴패"},{"date":"26/06/22","home":"마이애미 말린스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🟢승"}]'
+homeRecent: '[{"date":"26/06/28","home":"세인트루이스 카디널스","away":"마이애미 말린스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179262-2026-06-28-st-louis-cardinals/"},{"date":"26/06/25","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179220-2026-06-25-st-louis-cardinals/"},{"date":"26/06/24","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179209-2026-06-24-st-louis-cardinals/"},{"date":"26/06/23","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179194-2026-06-23-st-louis-cardinals/"},{"date":"26/06/22","home":"캔자스시티 로열스","away":"세인트루이스 카디널스","score":"10-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179169-2026-06-21-kansas-city-royals/"}]'
+awayRecent: '[{"date":"26/06/28","home":"세인트루이스 카디널스","away":"마이애미 말린스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179262-2026-06-28-st-louis-cardinals/"},{"date":"26/06/25","home":"마이애미 말린스","away":"텍사스 레인저스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179214-2026-06-24-miami-marlins/"},{"date":"26/06/24","home":"마이애미 말린스","away":"텍사스 레인저스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179214-2026-06-24-miami-marlins/"},{"date":"26/06/23","home":"마이애미 말린스","away":"텍사스 레인저스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179199-2026-06-23-miami-marlins/"},{"date":"26/06/22","home":"마이애미 말린스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179167-2026-06-21-miami-marlins/"}]'
 injuryHome: "Ryan Fernandez (허리 통증)|Matt Pushard (무릎 슬개건염)"
 injuryAway: "Thomas White (어깨 관절낭 염좌)|Kemp Alderman (팔꿈치 염좌)"
 pickWinTeam: "마이애미 말린스"
@@ -26,6 +26,4 @@ pickHandicapTeam: "마이애미 말린스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "3"
 pickExpectedAway: "5"
-homeLineup: "[\"선발투수 K. Leahy (5-4, 4.24) ERA 4.24\"]"
-awayLineup: "[\"선발투수 T. Phillips (1-2, 3.09) ERA 3.09\"]"
 ---
