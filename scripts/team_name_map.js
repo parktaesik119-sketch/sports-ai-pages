@@ -1308,6 +1308,10 @@ const TEAM_NAME_MAP = {
   "Henan Jianye": "허난 FC",
   "SHANGHAI SIPG": "상하이 하이강",
   "Tianjin Teda": "텐진 진먼후",
+  "Qingdao Youth Island": "칭다오 하이뉴",
+  "Hangzhou Greentown": "저장 뤼청",
+  "Dalian Zhixing": "다롄 잉보 FC",
+  "Shanghai Shenhua": "상하이 선화",
 
 };
 

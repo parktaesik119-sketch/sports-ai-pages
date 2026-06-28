@@ -598,8 +598,10 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const isPast = matchDate < currentMatchDate;
     // score 필드가 있거나, homeScore/awayScore가 숫자로 존재할 때 스코어가 있다고 판단
-    const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") || (typeof m.homeScore === 'number' && typeof m.awayScore === 'number'); 
-    return isMatch && isRecentEnough && isPast && hasScore;
+    const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") || (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
+const isZeroZero = m.homeScore === 0 && m.awayScore === 0;
+const isValidScore = hasScore && !(isZeroZero && m.sport !== 'soccer');
+return isMatch && isRecentEnough && isPast && isValidScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
 
       let h2hContent = "";
@@ -649,10 +651,12 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
-                     (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
-    const isSameSport = m.sport === match.sport;
-    const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
-    return isHomeTeam && isPast && isRecentEnough && hasScore && isSameSport && scopeOk;
+                 (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
+const isZeroZero = m.homeScore === 0 && m.awayScore === 0;
+const isValidScore = hasScore && !(isZeroZero && m.sport !== 'soccer');
+const isSameSport = m.sport === match.sport;
+const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
+return isHomeTeam && isPast && isRecentEnough && isValidScore && isSameSport && scopeOk;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
   const awayRecentMatches = masterData.filter(m => {
@@ -661,10 +665,12 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const hasScore = (m.score && m.score.trim() !== "" && m.score !== "-") ||
-                     (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
-    const isSameSport = m.sport === match.sport;
-    const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
-    return isAwayTeam && isPast && isRecentEnough && hasScore && isSameSport && scopeOk;
+                 (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
+const isZeroZero = m.homeScore === 0 && m.awayScore === 0;
+const isValidScore = hasScore && !(isZeroZero && m.sport !== 'soccer');
+const isSameSport = m.sport === match.sport;
+const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
+return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && scopeOk;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
   // 시즌 전체 경기 추출 (올해 1월 1일 이후)
@@ -1280,24 +1286,26 @@ const winnerIsHome = homeNames.some(n =>
     date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timeZone: 'Asia/Seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
-    score: (m.homeScore !== null && m.awayScore !== null) ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
+    score: (typeof m.homeScore === 'number' && typeof m.awayScore === 'number') ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
     result: (() => {
-      const isHomeTeam = m.home === match.home;
-      const my = isHomeTeam ? Number(m.homeScore) : Number(m.awayScore);
-      const op = isHomeTeam ? Number(m.awayScore) : Number(m.homeScore);
-      return my > op ? '🟢승' : my < op ? '🔴패' : '🟡무';
-    })()
+  const isHomeTeam = m.home === match.home;
+  const my = isHomeTeam ? Number(m.homeScore) : Number(m.awayScore);
+  const op = isHomeTeam ? Number(m.awayScore) : Number(m.homeScore);
+  if (isNaN(my) || isNaN(op)) return '-';
+  return my > op ? '🟢승' : my < op ? '🔴패' : '🟡무';
+})()
   })));
 
   const awayRecentJson = JSON.stringify(awayRecentMatches.slice(0, 5).map(m => ({
     date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timeZone: 'Asia/Seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
-    score: (m.homeScore !== null && m.awayScore !== null) ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
+    score: (typeof m.homeScore === 'number' && typeof m.awayScore === 'number') ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
     result: (() => {
       const isHomeTeam = m.home === match.away;
       const my = isHomeTeam ? Number(m.homeScore) : Number(m.awayScore);
       const op = isHomeTeam ? Number(m.awayScore) : Number(m.homeScore);
+      if (isNaN(my) || isNaN(op)) return '-';
       return my > op ? '🟢승' : my < op ? '🔴패' : '🟡무';
     })()
   })));
@@ -1320,8 +1328,8 @@ homePower: "${homePowerItems.join('|').replace(/"/g, "'")}"
 awayPower: "${awayPowerItems.join('|').replace(/"/g, "'")}"
 h2h: "${h2hItems.join('|').replace(/"/g, "'")}"
 summary: "${summaryKor.replace(/"/g, "'")}"
-homeRecent: '${homeRecentJson.replace(/'/g, "\\'")}'
-awayRecent: '${awayRecentJson.replace(/'/g, "\\'")}'
+homeRecent: '${homeRecentJson.replace(/'/g, "\u2019")}'
+awayRecent: '${awayRecentJson.replace(/'/g, "\u2019")}'
 injuryHome: "${injuryHome.replace(/"/g, "'")}"
 injuryAway: "${injuryAway.replace(/"/g, "'")}"
 pickWinTeam: "${finalPickWinTeamKor}"
