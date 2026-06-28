@@ -26,6 +26,6 @@ pickHandicapTeam: "애슬레틱스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "7"
-homeLineup: "[\"선발투수 S. Aldegheri (2-3, 5.47) ERA 5.47\"]"
-awayLineup: "[\"선발투수 A. Civale (5-4, 4.88) ERA 4.88\"]"
+homeLineup: "[\"선발투수 S. Aldegheri (2-3, 5.47) ERA 5.47\",\"1번 Z. Neto (SS)\",\"2번 D. Guzman (3B)\",\"3번 N. Schanuel (DH)\",\"4번 J. Adell (RF)\",\"5번 V. Grissom (1B)\",\"6번 W. Meckler (LF)\",\"7번 O. Peraza (2B)\",\"8번 J. Lowe (CF)\",\"9번 T. Heineman (C)\"]"
+awayLineup: "[\"선발투수 A. Civale (5-4, 4.88) ERA 4.88\",\"1번 H. Bolte (CF)\",\"2번 J. Meneses (1B)\",\"3번 S. Langeliers (C)\",\"4번 J. Heim (DH)\",\"5번 C. Thomas (LF)\",\"6번 L. Butler (RF)\",\"7번 M. Muncy (3B)\",\"8번 J. McNeil (2B)\",\"9번 A. Williams (SS)\"]"
 ---

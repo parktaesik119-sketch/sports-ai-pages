@@ -26,6 +26,6 @@ pickHandicapTeam: "샌프란시스코 자이언츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
-homeLineup: "[\"선발투수 R. Ray (6-6, 3.70) ERA 3.70\"]"
-awayLineup: "[\"선발투수 C. Sale (8-5, 2.14) ERA 2.14\"]"
+homeLineup: "[\"선발투수 R. Ray (6-6, 3.70) ERA 3.70\",\"1번 M. Chapman (3B)\",\"2번 L. Arraez (2B)\",\"3번 C. Schmitt (LF)\",\"4번 R. Devers (1B)\",\"5번 W. Adames (SS)\",\"6번 H. Ramos (DH)\",\"7번 J. Lee (CF)\",\"8번 V. Bericoto (RF)\",\"9번 E. Haase (C)\"]"
+awayLineup: "[\"선발투수 C. Sale (8-5, 2.14) ERA 2.14\",\"1번 M. Dubon (LF)\",\"2번 M. Harris II (CF)\",\"3번 O. Albies (2B)\",\"4번 M. Olson (1B)\",\"5번 D. Baldwin (DH)\",\"6번 A. Riley (3B)\",\"7번 J. Bart (C)\",\"8번 E. White (RF)\",\"9번 H. Kim (SS)\"]"
 ---
