@@ -26,6 +26,6 @@ pickHandicapTeam: "텍사스 레인저스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
-homeLineup: "[\"선발투수 S. Bieber (0-0, 9.82) ERA 9.82\"]"
+homeLineup: "[\"선발투수 S. Bieber (0-0, 9.82) ERA 9.82\",\"1번 G. Springer (DH)\",\"2번 N. Lukes (RF)\",\"3번 V. Guerrero Jr. (1B)\",\"4번 K. Okamoto (3B)\",\"5번 D. Varsho (CF)\",\"6번 E. Clement (2B)\",\"7번 A. Kirk (C)\",\"8번 Y. Pinango (LF)\",\"9번 A. Gimenez (SS)\"]"
 awayLineup: "[\"선발투수 K. Rocker (2-6, 4.14) ERA 4.14\"]"
 ---

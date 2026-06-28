@@ -27,5 +27,5 @@ pickHandicapValue: "-1.5"
 pickExpectedHome: "7"
 pickExpectedAway: "5"
 homeLineup: "[\"선발투수 M. Keller (5-5, 4.89) ERA 4.89\"]"
-awayLineup: "[\"선발투수 B. Singer (3-6, 4.81) ERA 4.81\"]"
+awayLineup: "[\"선발투수 B. Singer (3-6, 4.81) ERA 4.81\",\"1번 E. De La Cruz (SS)\",\"2번 S. Stewart (3B)\",\"3번 J. Bleday (LF)\",\"4번 E. Suarez (DH)\",\"5번 S. Steer (1B)\",\"6번 N. Marte (RF)\",\"7번 T. Stephenson (C)\",\"8번 T. Friedl (CF)\",\"9번 E. Arroyo (2B)\"]"
 ---

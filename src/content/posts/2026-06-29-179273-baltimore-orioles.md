@@ -26,6 +26,6 @@ pickHandicapTeam: "워싱턴 내셔널스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
-homeLineup: "[\"선발투수 K. Bradish (5-7, 3.64) ERA 3.64\"]"
-awayLineup: "[\"선발투수 Z. Littell (6-6, 5.40) ERA 5.40\"]"
+homeLineup: "[\"선발투수 K. Bradish (5-7, 3.64) ERA 3.64\",\"1번 T. Ward (LF)\",\"2번 G. Henderson (SS)\",\"3번 A. Rutschman (C)\",\"4번 P. Alonso (DH)\",\"5번 S. Basallo (1B)\",\"6번 D. Beavers (RF)\",\"7번 C. Mayo (3B)\",\"8번 C. Cowser (CF)\",\"9번 J. Holliday (2B)\"]"
+awayLineup: "[\"선발투수 Z. Littell (6-6, 5.40) ERA 5.40\",\"1번 J. Wood (DH)\",\"2번 L. Garcia Jr. (1B)\",\"3번 C. Mead (3B)\",\"4번 C. Abrams (SS)\",\"5번 D. Crews (RF)\",\"6번 D. Lile (LF)\",\"7번 J. Young (CF)\",\"8번 J. Vivas (2B)\",\"9번 K. Ruiz (C)\"]"
 ---
