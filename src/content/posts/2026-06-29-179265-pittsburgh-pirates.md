@@ -26,4 +26,6 @@ pickHandicapTeam: "피츠버그 파이러츠"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "7"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 M. Keller (5-5, 4.89) ERA 4.89\"]"
+awayLineup: "[\"선발투수 B. Singer (3-6, 4.81) ERA 4.81\"]"
 ---

@@ -26,4 +26,6 @@ pickHandicapTeam: "마이애미 말린스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "3"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 K. Leahy (5-4, 4.24) ERA 4.24\"]"
+awayLineup: "[\"선발투수 T. Phillips (1-2, 3.09) ERA 3.09\"]"
 ---
