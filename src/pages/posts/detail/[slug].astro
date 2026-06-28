@@ -300,7 +300,12 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
             {idx > 0 && <hr class="sw-divider" />}
             <div class="recent-row">
               <span class="recent-dot"></span>
-              <span class="recent-info">{m.date} {m.home} vs {m.away} ({m.score})</span>
+              <span class="recent-info">
+  {m.link
+    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{m.date} {m.home} vs {m.away} ({m.score})</a>
+    : <>{m.date} {m.home} vs {m.away} ({m.score})</>
+  }
+</span>
               <span class="recent-result">{m.result}</span>
             </div>
           </div>
@@ -385,7 +390,12 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
             {idx > 0 && <hr class="sw-divider" />}
             <div class="recent-row">
               <span class="recent-dot"></span>
-              <span class="recent-info">{m.date} {m.home} vs {m.away} ({m.score})</span>
+              <span class="recent-info">
+  {m.link
+    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{m.date} {m.home} vs {m.away} ({m.score})</a>
+    : <>{m.date} {m.home} vs {m.away} ({m.score})</>
+  }
+</span>
               <span class="recent-result">{m.result}</span>
             </div>
           </div>
@@ -428,7 +438,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
       {h2hItems.length > 0 ? h2hItems.map((row: string, idx: number) => (
         <div>
           {idx > 0 && <hr class="sw-divider" />}
-          <div class="recent-row"><span class="recent-dot"></span><span>{row}</span></div>
+          <div class="recent-row"><span class="recent-dot"></span><span set:html={row}></span></div>
         </div>
       )) : <span>※ 최근 공식 맞대결 정보 부족</span>}
     </div>
