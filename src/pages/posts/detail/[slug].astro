@@ -99,7 +99,15 @@ const homeAnalysis   = item.data.homeAnalysis  || '';
 const awayAnalysis   = item.data.awayAnalysis  || '';
 const homePowerItems = (item.data.homePower || '').split('|').map((s: string) => s.trim()).filter(Boolean);
 const awayPowerItems = (item.data.awayPower || '').split('|').map((s: string) => s.trim()).filter(Boolean);
-const h2hItems       = (!item.data.h2h || item.data.h2h === '없음') ? [] : (item.data.h2h || '').split('|').map((s: string) => s.trim()).filter(Boolean);
+let h2hItems: any[] = [];
+if (item.data.h2h && item.data.h2h !== '없음') {
+  const raw = (item.data.h2h || '').trim();
+  if (raw.startsWith('[')) {
+    try { h2hItems = JSON.parse(raw); } catch(e) {}
+  } else {
+    h2hItems = raw.split('|').map((s: string) => s.trim()).filter(Boolean);
+  }
+}
 const summary        = item.data.summary || '';
 
 let homeRecentItems: any[] = [];
@@ -438,7 +446,12 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
       {h2hItems.length > 0 ? h2hItems.map((row: string, idx: number) => (
         <div>
           {idx > 0 && <hr class="sw-divider" />}
-          <div class="recent-row"><span class="recent-dot"></span><span set:html={row}></span></div>
+          <div class="recent-row"><span class="recent-dot"></span><span>
+  {typeof row === 'object' && row.link
+    ? <a href={row.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{row.text}</a>
+    : typeof row === 'object' ? row.text : row
+  }
+</span></div>
         </div>
       )) : <span>※ 최근 공식 맞대결 정보 부족</span>}
     </div>

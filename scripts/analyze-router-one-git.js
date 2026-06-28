@@ -1242,8 +1242,19 @@ const winnerIsHome = homeNames.some(n =>
   const finalPickHandicapTeamKor = (pickHandicapTeam === '무승부' || finalHandicapValue === '') ? '' : replaceTeamNames(pickHandicapTeam);
   const homePowerItems  = homePowerRaw ? homePowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
   const awayPowerItems  = awayPowerRaw ? awayPowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
-  const h2hItems = (h2hRaw && h2hRaw !== '없음')
-    ? h2hRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(s => s && s !== '없음') : [];
+  const h2hItems = (h2hHistory && h2hHistory.length > 0)
+  ? h2hHistory.map(h => {
+      const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '').replace(/\./g, '.');
+      const score = (typeof h.homeScore === 'number' && typeof h.awayScore === 'number') ? `${h.homeScore}-${h.awayScore}` : (h.score || '-');
+      return {
+        date: d,
+        home: TEAM_NAME_MAP[h.home] || h.home,
+        away: TEAM_NAME_MAP[h.away] || h.away,
+        score,
+        text: `${d} - ${TEAM_NAME_MAP[h.home] || h.home} (${score}) ${TEAM_NAME_MAP[h.away] || h.away}`
+      };
+    })
+  : [];
 
   // 7. 리그명 치환
   const datePartsForText = dateShort.split('/');
@@ -1326,7 +1337,7 @@ homeAnalysis: "${homeAnalysisKor.replace(/"/g, "'")}"
 awayAnalysis: "${awayAnalysisKor.replace(/"/g, "'")}"
 homePower: "${homePowerItems.join('|').replace(/"/g, "'")}"
 awayPower: "${awayPowerItems.join('|').replace(/"/g, "'")}"
-h2h: "${h2hItems.join('|').replace(/"/g, "'")}"
+h2h: '${JSON.stringify(h2hItems).replace(/'/g, "\u2019")}'
 summary: "${summaryKor.replace(/"/g, "'")}"
 homeRecent: '${homeRecentJson.replace(/'/g, "\u2019")}'
 awayRecent: '${awayRecentJson.replace(/'/g, "\u2019")}'
