@@ -26,6 +26,6 @@ pickHandicapTeam: "클리블랜드 가디언스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "4"
 pickExpectedAway: "2"
-homeLineup: "[\"선발투수 G. Williams (9-4, 3.82) ERA 3.82\"]"
-awayLineup: "[\"선발투수 E. Hancock (5-4, 3.60) ERA 3.60\"]"
+homeLineup: "[\"선발투수 G. Williams (9-4, 3.82) ERA 3.82\",\"1번 S. Kwan (CF)\",\"2번 T. Bazzana (2B)\",\"3번 C. DeLauter (DH)\",\"4번 K. Manzardo (1B)\",\"5번 K. Watson (RF)\",\"6번 B. Rocchio (SS)\",\"7번 C. Ingle (LF)\",\"8번 G. Arias (3B)\",\"9번 A. Hedges (C)\"]"
+awayLineup: "[\"선발투수 E. Hancock (5-4, 3.60) ERA 3.60\",\"1번 J.P. Crawford (3B)\",\"2번 J. Rodriguez (CF)\",\"3번 J. Naylor (1B)\",\"4번 R. Arozarena (LF)\",\"5번 C. Raleigh (DH)\",\"6번 C. Young (2B)\",\"7번 C. Emerson (SS)\",\"8번 M. Garver (C)\",\"9번 V. Robles (RF)\"]"
 ---

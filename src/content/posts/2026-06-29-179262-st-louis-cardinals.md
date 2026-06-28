@@ -26,6 +26,6 @@ pickHandicapTeam: "마이애미 말린스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "3"
 pickExpectedAway: "5"
-homeLineup: "[\"선발투수 K. Leahy (5-4, 4.24) ERA 4.24\"]"
-awayLineup: "[\"선발투수 T. Phillips (1-2, 3.09) ERA 3.09\"]"
+homeLineup: "[\"선발투수 K. Leahy (5-4, 4.24) ERA 4.24\",\"1번 J. Wetherholt (2B)\",\"2번 I. Herrera (DH)\",\"3번 A. Burleson (1B)\",\"4번 L. Nootbaar (RF)\",\"5번 M. Winn (SS)\",\"6번 B. Torres (LF)\",\"7번 B. Jordan (3B)\",\"8번 N. Church (CF)\",\"9번 P. Pages (C)\"]"
+awayLineup: "[\"선발투수 T. Phillips (1-2, 3.09) ERA 3.09\",\"1번 J. Marsee (CF)\",\"2번 O. Lopez (SS)\",\"3번 K. Stowers (DH)\",\"4번 X. Edwards (2B)\",\"5번 H. Hernandez (LF)\",\"6번 G. Conine (1B)\",\"7번 O. Caissie (RF)\",\"8번 G. Pauley (3B)\",\"9번 B. Navarreto (C)\"]"
 ---

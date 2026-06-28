@@ -26,4 +26,6 @@ pickHandicapTeam: "볼티모어 오리올스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 S. Baz (4-8, 4.31) ERA 4.31\"]"
+awayLineup: "[\"선발투수 S. Burke (5-4, 3.71) ERA 3.71\"]"
 ---

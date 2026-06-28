@@ -26,4 +26,6 @@ pickHandicapTeam: "필라델피아 필리스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "7"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 A. Nola (3-4, 5.58) ERA 5.58\"]"
+awayLineup: "[\"선발투수 B. Ashcraft (7-3, 3.07) ERA 3.07\"]"
 ---

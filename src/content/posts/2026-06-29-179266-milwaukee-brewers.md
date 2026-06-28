@@ -26,6 +26,6 @@ pickHandicapTeam: "시카고 컵스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
-homeLineup: "[\"선발투수 B. Woodruff (2-1, 3.00) ERA 3.00\"]"
-awayLineup: "[\"선발투수 R. Rolison (5-1, 1.82) ERA 1.82\"]"
+homeLineup: "[\"선발투수 B. Woodruff (2-1, 3.00) ERA 3.00\",\"1번 C. Yelich (DH)\",\"2번 J. Chourio (CF)\",\"3번 B. Turang (2B)\",\"4번 A. Vaughn (1B)\",\"5번 J. Bauers (LF)\",\"6번 G. Sanchez (C)\",\"7번 S. Frelick (RF)\",\"8번 C. Pratt (SS)\",\"9번 D. Hamilton (3B)\"]"
+awayLineup: "[\"선발투수 R. Rolison (5-1, 1.82) ERA 1.82\",\"1번 P. Crow-Armstrong (CF)\",\"2번 A. Bregman (3B)\",\"3번 M. Busch (1B)\",\"4번 S. Suzuki (DH)\",\"5번 I. Happ (LF)\",\"6번 N. Hoerner (2B)\",\"7번 M. Conforto (RF)\",\"8번 M. Amaya (C)\",\"9번 D. Swanson (SS)\"]"
 ---

@@ -26,6 +26,6 @@ pickHandicapTeam: "캔자스시티 로열스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "3"
 pickExpectedAway: "4"
-homeLineup: "[\"선발투수 A. Kay (6-2, 4.24) ERA 4.24\"]"
-awayLineup: "[\"선발투수 L. Avila (3-3, 5.06) ERA 5.06\"]"
+homeLineup: "[\"선발투수 A. Kay (6-2, 4.24) ERA 4.24\",\"1번 S. Antonacci (LF)\",\"2번 M. Vargas (3B)\",\"3번 K. Teel (C)\",\"4번 A. Benintendi (DH)\",\"5번 C. Montgomery (SS)\",\"6번 C. Meidroth (2B)\",\"7번 B. Montgomery (RF)\",\"8번 T. Peters (CF)\",\"9번 J. Gonzalez (1B)\"]"
+awayLineup: "[\"선발투수 L. Avila (3-3, 5.06) ERA 5.06\",\"1번 L. Thomas (CF)\",\"2번 B. Witt Jr. (SS)\",\"3번 C. Jensen (C)\",\"4번 S. Marte (DH)\",\"5번 S. Perez (1B)\",\"6번 M. Massey (2B)\",\"7번 I. Collins (LF)\",\"8번 T. Tolbert (3B)\",\"9번 K. Misner (RF)\"]"
 ---

@@ -26,4 +26,6 @@ pickHandicapTeam: "뉴욕 메츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 T. Yesavage (3-3, 3.56) ERA 3.56\"]"
+awayLineup: "[\"선발투수 S. Manaea (1-2, 4.87) ERA 4.87\"]"
 ---

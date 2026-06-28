@@ -26,4 +26,6 @@ pickHandicapTeam: "밀워키 브루어스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 R. Gasser (1-3, 4.50) ERA 4.50\"]"
+awayLineup: "[\"선발투수 N. Lodolo (2-2, 5.59) ERA 5.59\"]"
 ---
