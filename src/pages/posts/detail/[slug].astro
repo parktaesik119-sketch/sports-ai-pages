@@ -303,8 +303,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           <circle cx={W_SVG/2} cy={H_SVG/2} r="4" fill="rgba(255,255,255,0.5)"/>
           <rect x="10" y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
           <rect x={W_SVG-10-W_SVG*0.13} y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
-          <text x={W_SVG*0.25} y="24" text-anchor="middle" font-size="12" fill="rgba(255,255,255,0.9)" font-family="sans-serif" font-weight="700">{homeTeam} {homeFormation}</text>
-          <text x={W_SVG*0.75} y="24" text-anchor="middle" font-size="12" fill="rgba(255,255,255,0.9)" font-family="sans-serif" font-weight="700">{awayTeam} {awayFormation}</text>
+          <text x={W_SVG*0.25} y="28" text-anchor="middle" font-size="18" fill="#fff" font-family="sans-serif" font-weight="700">{homeTeam} {homeFormation}</text>
+          <text x={W_SVG*0.75} y="28" text-anchor="middle" font-size="18" fill="#fff" font-family="sans-serif" font-weight="700">{awayTeam} {awayFormation}</text>
           {homeLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
   const coord = hCoords[i];
   if (!coord) return null;
