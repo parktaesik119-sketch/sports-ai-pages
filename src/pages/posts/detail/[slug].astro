@@ -297,26 +297,27 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
       <!-- 소파스코어식 상단 팀명+포메이션 바 -->
       <div style="display:flex;align-items:center;background:#f8f9fa;border-bottom:1px solid #e9ecef;padding:10px 16px;">
         <div style="flex:1;text-align:center;">
-          <div style="font-weight:700;font-size:0.95rem;color:#1a1a2e;">{homeTeam}</div>
-          <div style="font-size:0.85rem;color:#868e96;margin-top:2px;">{homeFormation}</div>
+          <div style="font-weight:800;font-size:0.95rem;color:#1a1a2e;">{homeTeam}</div>
+          <div style="font-size:1rem;color:#1a1a2e;margin-top:2px;font-weight:700;">{homeFormation}</div>
         </div>
         <div style="display:flex;gap:12px;align-items:center;padding:0 16px;">
-          <!-- 홈 유니폼 (단색 사각형) -->
+          <!-- 홈 유니폼: 빨간색 -->
           <svg width="22" height="26" viewBox="0 0 22 26" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M7 1 L1 5 L3 10 L6 9 L6 25 L16 25 L16 9 L19 10 L21 5 L15 1 Q11 3 7 1Z" fill="#e03131" stroke="#c92a2a" stroke-width="0.5"/>
           </svg>
+          <!-- 원정 유니폼: 파란색 -->
           <svg width="22" height="26" viewBox="0 0 22 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M7 1 L1 5 L3 10 L6 9 L6 25 L16 25 L16 9 L19 10 L21 5 L15 1 Q11 3 7 1Z" fill="#fff" stroke="#dee2e6" stroke-width="0.5"/>
+            <path d="M7 1 L1 5 L3 10 L6 9 L6 25 L16 25 L16 9 L19 10 L21 5 L15 1 Q11 3 7 1Z" fill="#228be6" stroke="#1971c2" stroke-width="0.5"/>
           </svg>
         </div>
         <div style="flex:1;text-align:center;">
-          <div style="font-weight:700;font-size:0.95rem;color:#1a1a2e;">{awayTeam}</div>
-          <div style="font-size:0.85rem;color:#868e96;margin-top:2px;">{awayFormation}</div>
+          <div style="font-weight:800;font-size:0.95rem;color:#1a1a2e;">{awayTeam}</div>
+          <div style="font-size:1rem;color:#1a1a2e;margin-top:2px;font-weight:700;">{awayFormation}</div>
         </div>
       </div>
       <div style="background:#fff;padding:0;">
         <svg viewBox={`0 0 ${W_SVG} ${H_SVG}`} xmlns="http://www.w3.org/2000/svg" style="width:100%;display:block;">
-          <rect width={W_SVG} height={H_SVG} fill="#4a9e3f"/>
+          <rect width={W_SVG} height={H_SVG} fill="#2d6a1f"/>
           <rect x="10" y="10" width={W_SVG-20} height={H_SVG-20} fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
           <line x1={W_SVG/2} y1="10" x2={W_SVG/2} y2={H_SVG-10} stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
           <circle cx={W_SVG/2} cy={H_SVG/2} r="55" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
@@ -333,8 +334,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   return (
     <g transform={`translate(${coord.x.toFixed(0)},${coord.y.toFixed(0)})`}>
       <circle r="16" fill={color} opacity="0.95"/>
-      <text y="-20" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif">{name}</text>
-      <text y="4" text-anchor="middle" font-size="8" fill="rgba(255,255,255,0.85)" font-family="sans-serif">{pos}</text>
+      <text y="-20" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif" font-weight="700">{name}</text>
+      <text y="4" text-anchor="middle" font-size="8" fill="#fff" font-family="sans-serif" font-weight="600">{pos}</text>
     </g>
   );
 })())}
@@ -348,8 +349,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   return (
     <g transform={`translate(${coord.x.toFixed(0)},${coord.y.toFixed(0)})`}>
       <circle r="16" fill={color} opacity="0.95"/>
-      <text y="-20" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif">{name}</text>
-      <text y="4" text-anchor="middle" font-size="8" fill="rgba(255,255,255,0.85)" font-family="sans-serif">{pos}</text>
+      <text y="-20" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif" font-weight="700">{name}</text>
+      <text y="4" text-anchor="middle" font-size="8" fill="#fff" font-family="sans-serif" font-weight="600">{pos}</text>
     </g>
   );
 })())}
