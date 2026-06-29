@@ -26,4 +26,6 @@ pickHandicapTeam: "밀워키 브루어스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 B. Sproat (2-4, 5.43) ERA 5.43\"]"
+awayLineup: "[\"선발투수 R. Lowder (3-5, 4.81) ERA 4.81\"]"
 ---

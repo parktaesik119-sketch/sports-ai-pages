@@ -26,4 +26,6 @@ pickHandicapTeam: "뉴욕 메츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 K. Gausman (4-6, 4.36) ERA 4.36\"]"
+awayLineup: "[\"선발투수 N. McLean (4-5, 4.03) ERA 4.03\"]"
 ---

@@ -26,4 +26,6 @@ pickHandicapTeam: "볼티모어 오리올스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 T. Gibson (1-2, 5.64) ERA 5.64\"]"
+awayLineup: "[\"선발투수 E. Fedde (2-6, 4.34) ERA 4.34\"]"
 ---

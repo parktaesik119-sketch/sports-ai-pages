@@ -26,4 +26,6 @@ pickHandicapTeam: "탬파베이 레이스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
+homeLineup: "[\"선발투수 N. Cameron (4-5, 4.50) ERA 4.50\"]"
+awayLineup: "[\"선발투수 G. Jax (3-5, 3.33) ERA 3.33\"]"
 ---

@@ -26,4 +26,6 @@ pickHandicapTeam: "필라델피아 필리스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "7"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 C. Sanchez (9-3, 2.13) ERA 2.13\"]"
+awayLineup: "[\"선발투수 B. Chandler (3-7, 4.42) ERA 4.42\"]"
 ---
