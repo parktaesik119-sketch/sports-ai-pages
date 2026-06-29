@@ -124,8 +124,8 @@ async function fetchApiSports(sport, date) {
       away: item.teams.away.name,
       homeLogo: item.teams.home.logo,
       awayLogo: item.teams.away.logo,
-      homeScore: item.goals?.home ?? item.scores?.home?.total ?? item.scores?.home ?? null,
-      awayScore: item.goals?.away ?? item.scores?.away?.total ?? item.scores?.away ?? null
+      homeScore: item.goals?.home ?? item.scores?.home?.total ?? null,
+      awayScore: item.goals?.away ?? item.scores?.away?.total ?? null
     }));
   } catch (err) { return []; }
 }
