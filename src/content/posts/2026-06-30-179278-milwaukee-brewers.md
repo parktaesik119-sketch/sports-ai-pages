@@ -27,5 +27,5 @@ pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
 homeLineup: "[\"선발투수 R. Gasser (1-3, 4.50) ERA 4.50\"]"
-awayLineup: "[\"선발투수 N. Lodolo (2-2, 5.59) ERA 5.59\"]"
+awayLineup: "[\"선발투수 N. Lodolo (2-2, 5.59) ERA 5.59\",\"1번 E. De La Cruz (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"2번 S. Stewart (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"3번 S. Steer (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722857.png\",\"4번 J. Bleday (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"5번 D. Myers (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40048.png\",\"6번 N. Marte (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41307.png\",\"7번 T. Stephenson (C)|https://a.espncdn.com/i/headshots/mlb/players/full/34975.png\",\"8번 M. McLain (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4422899.png\",\"9번 E. Arroyo (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4919919.png\"]"
 ---
