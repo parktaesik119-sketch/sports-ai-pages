@@ -126,14 +126,14 @@ const homeFormation = item.data.homeFormation?.trim() || '';
 const awayFormation = item.data.awayFormation?.trim() || '';
 const hasFormation  = !!(homeFormation && awayFormation && homeLineupItems.length > 0 && awayLineupItems.length > 0);
 
-const W_SVG = 700, H_SVG = 420;
+const W_SVG = 700, H_SVG = 360;
 function calcPos(formation: string, side: 'home' | 'away') {
   const lines = formation.split('-').map(Number).filter((n: number) => !isNaN(n) && n > 0);
   if (lines.length === 0) lines.push(...[4,3,3]);
   const numLines = lines.length + 1;
   const padX = W_SVG * 0.08;
   const padY = H_SVG * 0.04;
-  const halfW = (W_SVG - padX * 2) * 0.44;
+  const halfW = (W_SVG - padX * 2) * 0.40;
   const fieldH = H_SVG - padY * 2;
   const xPos: number[] = [];
   for (let i = 0; i < numLines; i++) {
@@ -144,8 +144,8 @@ function calcPos(formation: string, side: 'home' | 'away') {
   positions.push({ x: xPos[0], y: H_SVG / 2, isGK: true });
   lines.forEach((count: number, li: number) => {
     const lx = xPos[li + 1];
-    const effH = fieldH * 0.92;
-const startY = padY + (fieldH - effH) / 2;
+    const effH = fieldH * 0.77;
+const startY = H_SVG / 2 - effH / 2;
 for (let j = 0; j < count; j++) {
   const y = count === 1 ? startY + effH / 2 : startY + effH * (j / (count - 1));
   positions.push({ x: lx, y, isGK: false });
@@ -335,7 +335,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   return (
     <g transform={`translate(${coord.x.toFixed(0)},${coord.y.toFixed(0)})`}>
       <circle r="16" fill={color} opacity="0.95"/>
-      <text y="-20" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif" font-weight="700">{name}</text>
+      <text y="-22" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif" font-weight="700">{name}</text>
       <text y="4" text-anchor="middle" font-size="8" fill="#fff" font-family="sans-serif" font-weight="600">{pos}</text>
     </g>
   );
@@ -350,7 +350,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   return (
     <g transform={`translate(${coord.x.toFixed(0)},${coord.y.toFixed(0)})`}>
       <circle r="16" fill={color} opacity="0.95"/>
-      <text y="-20" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif" font-weight="700">{name}</text>
+      <text y="-22" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif" font-weight="700">{name}</text>
       <text y="4" text-anchor="middle" font-size="8" fill="#fff" font-family="sans-serif" font-weight="600">{pos}</text>
     </g>
   );
