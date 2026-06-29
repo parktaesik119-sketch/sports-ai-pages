@@ -27,5 +27,5 @@ pickHandicapValue: "-1.5"
 pickExpectedHome: "3"
 pickExpectedAway: "5"
 homeLineup: "[\"선발투수 P. Messick (7-4, 2.67) ERA 2.67\"]"
-awayLineup: "[]"
+awayLineup: "[\"선발투수 T. Alexander (1-1, 2.62) ERA 2.62\"]"
 ---
