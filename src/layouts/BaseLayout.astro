@@ -139,6 +139,12 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  // 뒤로가기/앞으로가기 시 스피너 숨김
+  window.addEventListener('pageshow', (e) => {
+    const spinner = document.getElementById('ph-spinner');
+    if (spinner) spinner.style.display = 'none';
+  });
+
   const menuBtn = document.getElementById('menu-btn');
   const closeBtn = document.getElementById('close-btn');
   const mobileMenu = document.getElementById('mobile-menu');
