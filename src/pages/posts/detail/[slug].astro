@@ -294,28 +294,41 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
         </span>
         예상 포메이션
       </h2>
+      <!-- 소파스코어식 상단 팀명+포메이션 바 -->
+      <div style="display:flex;align-items:center;background:#f8f9fa;border-bottom:1px solid #e9ecef;padding:10px 16px;">
+        <div style="flex:1;text-align:center;">
+          <div style="font-weight:700;font-size:0.95rem;color:#1a1a2e;">{homeTeam}</div>
+          <div style="font-size:0.85rem;color:#868e96;margin-top:2px;">{homeFormation}</div>
+        </div>
+        <div style="display:flex;gap:12px;align-items:center;padding:0 16px;">
+          <!-- 홈 유니폼 (단색 사각형) -->
+          <svg width="22" height="26" viewBox="0 0 22 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7 1 L1 5 L3 10 L6 9 L6 25 L16 25 L16 9 L19 10 L21 5 L15 1 Q11 3 7 1Z" fill="#e03131" stroke="#c92a2a" stroke-width="0.5"/>
+          </svg>
+          <svg width="22" height="26" viewBox="0 0 22 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7 1 L1 5 L3 10 L6 9 L6 25 L16 25 L16 9 L19 10 L21 5 L15 1 Q11 3 7 1Z" fill="#fff" stroke="#dee2e6" stroke-width="0.5"/>
+          </svg>
+        </div>
+        <div style="flex:1;text-align:center;">
+          <div style="font-weight:700;font-size:0.95rem;color:#1a1a2e;">{awayTeam}</div>
+          <div style="font-size:0.85rem;color:#868e96;margin-top:2px;">{awayFormation}</div>
+        </div>
+      </div>
       <div style="background:#fff;padding:0;">
         <svg viewBox={`0 0 ${W_SVG} ${H_SVG}`} xmlns="http://www.w3.org/2000/svg" style="width:100%;display:block;">
-          <rect width={W_SVG} height={H_SVG} fill="#2d6a1f"/>
+          <rect width={W_SVG} height={H_SVG} fill="#4a9e3f"/>
           <rect x="10" y="10" width={W_SVG-20} height={H_SVG-20} fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
           <line x1={W_SVG/2} y1="10" x2={W_SVG/2} y2={H_SVG-10} stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
           <circle cx={W_SVG/2} cy={H_SVG/2} r="55" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
           <circle cx={W_SVG/2} cy={H_SVG/2} r="4" fill="rgba(255,255,255,0.5)"/>
           <rect x="10" y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
           <rect x={W_SVG-10-W_SVG*0.13} y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
-          <text text-anchor="middle" font-family="sans-serif" fill="#fff">
-          <tspan x={W_SVG*0.25} y="30" font-size="14" font-weight="700">{homeTeam}</tspan>
-          <tspan x={W_SVG*0.25} dy="18" font-size="18" font-weight="400">{homeFormation}</tspan>
-          </text>
-          <text text-anchor="middle" font-family="sans-serif" fill="#fff">
-          <tspan x={W_SVG*0.75} y="30" font-size="14" font-weight="700">{awayTeam}</tspan>
-          <tspan x={W_SVG*0.75} dy="18" font-size="18" font-weight="400">{awayFormation}</tspan>
-          </text>
           {homeLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
   const coord = hCoords[i];
   if (!coord) return null;
-  const name = shortenName(player.replace(/\s*\(.*\)$/, ''));
-  const pos  = (player.match(/\(([^)]+)\)/) || [])[1] || hPosFn[i] || '';
+  const base = player.split('|')[0];
+  const name = shortenName(base.replace(/\s*\(.*\)$/, ''));
+  const pos  = (base.match(/\(([^)]+)\)/) || [])[1] || hPosFn[i] || '';
   const color = coord.isGK ? GK_COLOR : HOME_COLOR;
   return (
     <g transform={`translate(${coord.x.toFixed(0)},${coord.y.toFixed(0)})`}>
@@ -328,8 +341,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           {awayLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
   const coord = aCoords[i];
   if (!coord) return null;
-  const name = shortenName(player.replace(/\s*\(.*\)$/, ''));
-  const pos  = (player.match(/\(([^)]+)\)/) || [])[1] || aPosFn[i] || '';
+  const base = player.split('|')[0];
+  const name = shortenName(base.replace(/\s*\(.*\)$/, ''));
+  const pos  = (base.match(/\(([^)]+)\)/) || [])[1] || aPosFn[i] || '';
   const color = coord.isGK ? GK_COLOR : AWAY_COLOR;
   return (
     <g transform={`translate(${coord.x.toFixed(0)},${coord.y.toFixed(0)})`}>
@@ -353,12 +367,14 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 통합 라인업 -->
   {(homeLineupItems.length > 0 || awayLineupItems.length > 0) && (() => {
   function parsePitcher(player: string) {
-    const m = player.match(/^선발투수\s+(.+?)\s+\((\d+)-(\d+),\s*([\d.]+)\)/);
-    if (!m) return { name: player.replace(/^선발투수\s+/, '').replace(/\s+ERA\s+[\d.]+$/, ''), record: '', era: '' };
+    const base = player.split('|')[0];
+    const m = base.match(/^선발투수\s+(.+?)\s+\((\d+)-(\d+),\s*([\d.]+)\)/);
+    if (!m) return { name: base.replace(/^선발투수\s+/, '').replace(/\s+ERA\s+[\d.]+$/, ''), record: '', era: '' };
     return { name: m[1], record: `${m[2]}승 ${m[3]}패`, era: m[4] };
   }
   function getPosBadge(player: string) {
-    const m = player.match(/\(([^)]+)\)$/);
+    const base = player.split('|')[0];
+    const m = base.match(/\(([^)]+)\)$/);
     const pos = m ? m[1] : '';
     if (!pos) return { pos: '', cls: '' };
     const upper = pos.toUpperCase();
@@ -368,7 +384,14 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     if (upper.startsWith('AM') || upper === 'CAM' || upper === 'SS') return { pos, cls: 'pos-am' };
     return { pos, cls: 'pos-mf' };
   }
-  function stripPos(player: string) { return player.replace(/\s*\([^)]+\)$/, ''); }
+  function stripPos(player: string) {
+    const base = player.split('|')[0];
+    return base.replace(/\s*\([^)]+\)$/, '');
+  }
+  function getPhoto(player: string) {
+    const parts = player.split('|');
+    return parts.length > 1 ? parts[parts.length - 1] : '';
+  }
   return (
     <div class="section-widget">
       <h2 class="section-widget-header sw-lineup">
@@ -416,8 +439,10 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   }
   const { pos, cls } = getPosBadge(player);
   const name = stripPos(player);
+  const photo = getPhoto(player);
   return (
     <div class="lineup-player-row" key={idx}>
+      {photo && <img src={photo} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />}
       <span class="lineup-player-name">{name}</span>
       {pos && <span class={`pos-badge ${cls}`}>{pos}</span>}
     </div>
@@ -451,8 +476,10 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   }
   const { pos, cls } = getPosBadge(player);
   const name = stripPos(player);
+  const photo = getPhoto(player);
   return (
     <div class="lineup-player-row" key={idx}>
+      {photo && <img src={photo} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />}
       <span class="lineup-player-name">{name}</span>
       {pos && <span class={`pos-badge ${cls}`}>{pos}</span>}
     </div>
@@ -1111,6 +1138,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 .lineup-split-title--away { color:#1971c2;border-bottom:2px solid #1971c2; }
 .lineup-player-row { display:flex;align-items:center;gap:8px;margin-bottom:8px;width:100%; }
 .lineup-player-name { font-size:0.9rem;color:#111;flex:1; }
+.lineup-player-photo { width:32px;height:32px;border-radius:50%;object-fit:cover;background:#eee;flex-shrink:0; }
 .pos-badge { display:inline-flex;align-items:center;justify-content:center;min-width:36px;height:18px;border-radius:4px;font-size:0.68rem;font-weight:700;flex-shrink:0;letter-spacing:0.3px;padding:0 4px; }
 .pos-gk { background:#fff3bf;color:#5c3d00; }
 .pos-df { background:#d3f9d8;color:#1a4d24; }

@@ -213,12 +213,16 @@ function parseBaseballRosters(summary, event, homeTeamEn, awayTeamEn) {
       .sort((a, b) => a.batOrder - b.batOrder);
 
     for (const p of starters) {
-      const name = p.athlete?.shortName || p.athlete?.displayName || '';
-      const pos  = p.position?.abbreviation || '';
-      const sm   = {};
+      const name  = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos   = p.position?.abbreviation || '';
+      const id    = p.athlete?.id || '';
+      const photo = id ? `https://a.espncdn.com/i/headshots/mlb/players/full/${id}.png` : '';
+      const sm    = {};
       (p.stats || []).forEach(s => { sm[s.name] = s.displayValue; });
       const avg = sm['avg'] || '.000';
-      result[side].push(`${p.batOrder}번 ${name} (${pos})`);
+      let line = `${p.batOrder}번 ${name} (${pos})`;
+      if (photo) line += `|${photo}`;
+      result[side].push(line);
     }
   }
 
@@ -272,9 +276,11 @@ function parseSoccerRosters(summary, homeTeamEn, awayTeamEn) {
       .sort((a, b) => (a.jerseyNumber || 0) - (b.jerseyNumber || 0));
 
     for (const p of starters) {
-      const name = p.athlete?.shortName || p.athlete?.displayName || '';
-      const pos  = p.position?.abbreviation || '';
-      if (name) result[side].push(`${name} (${pos})`);
+      const name  = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos   = p.position?.abbreviation || '';
+      const id    = p.athlete?.id || '';
+      const photo = id ? `https://a.espncdn.com/i/headshots/soccer/players/full/${id}.png` : '';
+      if (name) result[side].push(`${name} (${pos})${photo ? '|' + photo : ''}`);
     }
   }
 
@@ -299,13 +305,16 @@ function parseBasketballRosters(summary, homeTeamEn, awayTeamEn) {
     const starters = (rosterGroup.roster || []).filter(p => p.starter);
 
     for (const p of starters) {
-      const name = p.athlete?.shortName || p.athlete?.displayName || '';
-      const pos  = p.position?.abbreviation || '';
-      const sm   = {};
+      const name  = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos   = p.position?.abbreviation || '';
+      const id    = p.athlete?.id || '';
+      const photo = id ? `https://a.espncdn.com/i/headshots/nba/players/full/${id}.png` : '';
+      const sm    = {};
       (p.stats || []).forEach(s => { sm[s.name] = s.displayValue; });
       const ppg = sm['avgPoints'] || sm['points'] || '';
       let line = `${name} (${pos})`;
       if (ppg) line += ` | 평균 ${ppg}점`;
+      if (photo) line += `|${photo}`;
       result[side].push(line);
     }
   }
