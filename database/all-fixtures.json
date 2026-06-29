@@ -483907,40 +483907,8 @@
     "away": "Yakult Swallows",
     "homeLogo": "https://media.api-sports.io/baseball/teams/58.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/64.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "181027",
@@ -483952,40 +483920,8 @@
     "away": "Yomiuri Giants",
     "homeLogo": "https://media.api-sports.io/baseball/teams/59.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/66.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "181029",
@@ -484384,22 +484320,8 @@
     "away": "Iloilo United Royals",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7369.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7881.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501366",
@@ -486052,40 +485974,8 @@
     "away": "Samanes de Aragua",
     "homeLogo": "https://media.api-sports.io/baseball/teams/766.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/735.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185282",
@@ -486097,40 +485987,8 @@
     "away": "Centauros de La Guaira",
     "homeLogo": "https://media.api-sports.io/baseball/teams/733.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/765.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185283",
@@ -486142,40 +486000,8 @@
     "away": "Caciques de Distrito",
     "homeLogo": "https://media.api-sports.io/baseball/teams/848.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/764.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185284",
@@ -486187,40 +486013,8 @@
     "away": "Marineros de Carabobo",
     "homeLogo": "https://media.api-sports.io/baseball/teams/736.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/734.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1560803",
@@ -486906,40 +486700,8 @@
     "away": "Laguna",
     "homeLogo": "https://media.api-sports.io/baseball/teams/283.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/285.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176772",
@@ -487921,40 +487683,8 @@
     "away": "Yakult Swallows",
     "homeLogo": "https://media.api-sports.io/baseball/teams/58.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/64.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "181033",
@@ -488105,40 +487835,8 @@
     "away": "Wei Chuan Dragons",
     "homeLogo": "https://media.api-sports.io/baseball/teams/349.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/569.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "184120",
@@ -488150,40 +487848,8 @@
     "away": "Rakuten Monkeys",
     "homeLogo": "https://media.api-sports.io/baseball/teams/348.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/482.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1556161",
@@ -489242,40 +488908,8 @@
     "away": "Caciques de Distrito",
     "homeLogo": "https://media.api-sports.io/baseball/teams/734.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/764.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501755",
@@ -489339,40 +488973,8 @@
     "away": "Lideres de Miranda",
     "homeLogo": "https://media.api-sports.io/baseball/teams/766.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/733.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185288",
@@ -489384,40 +488986,8 @@
     "away": "Guerreros de Lara",
     "homeLogo": "https://media.api-sports.io/baseball/teams/736.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/848.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1557872",
@@ -489454,40 +489024,8 @@
     "away": "St. Paul",
     "homeLogo": "https://media.api-sports.io/baseball/teams/73.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/595.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179227",
@@ -489628,40 +489166,8 @@
     "away": "Centauros de La Guaira",
     "homeLogo": "https://media.api-sports.io/baseball/teams/735.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/765.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "205781",
@@ -489842,40 +489348,8 @@
     "away": "Arizona Diamondbacks",
     "homeLogo": "https://media.api-sports.io/baseball/teams/33.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/2.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1525105",
@@ -489926,22 +489400,8 @@
     "away": "Capitanes de Arecibo",
     "homeLogo": "https://media.api-sports.io/basketball/teams/956.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/952.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "493789",
@@ -490385,22 +489845,8 @@
     "away": "Nelson Giants",
     "homeLogo": "https://media.api-sports.io/basketball/teams/861.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/856.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1553990",
@@ -490588,40 +490034,8 @@
     "away": "Chunichi Dragons",
     "homeLogo": "https://media.api-sports.io/baseball/teams/64.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/56.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "181036",
@@ -490633,40 +490047,8 @@
     "away": "Hanshin Tigers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/59.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/58.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "181037",
@@ -490691,40 +490073,8 @@
     "away": "Fukuoka S. Hawks",
     "homeLogo": "https://media.api-sports.io/baseball/teams/55.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/57.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1556167",
@@ -490760,40 +490110,8 @@
     "away": "Yomiuri Giants",
     "homeLogo": "https://media.api-sports.io/baseball/teams/65.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/66.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1547978",
@@ -492206,40 +491524,8 @@
     "away": "Helsinki Mets",
     "homeLogo": "https://media.api-sports.io/baseball/teams/157.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/154.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "200853",
@@ -492791,40 +492077,8 @@
     "away": "Traiskirchen",
     "homeLogo": "https://media.api-sports.io/baseball/teams/113.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/111.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1510616",
@@ -493161,40 +492415,8 @@
     "away": "Industriales",
     "homeLogo": "https://media.api-sports.io/baseball/teams/132.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/128.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185665",
@@ -493206,40 +492428,8 @@
     "away": "Las Tunas",
     "homeLogo": "https://media.api-sports.io/baseball/teams/127.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/130.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "200854",
@@ -493652,40 +492842,8 @@
     "away": "Senadores de Caracas",
     "homeLogo": "https://media.api-sports.io/baseball/teams/734.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/736.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1557211",
@@ -493747,40 +492905,8 @@
     "away": "St. Paul",
     "homeLogo": "https://media.api-sports.io/baseball/teams/73.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/595.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176792",
@@ -493792,40 +492918,8 @@
     "away": "Durham Bulls",
     "homeLogo": "https://media.api-sports.io/baseball/teams/53.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/69.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179235",
@@ -493837,40 +492931,8 @@
     "away": "Cincinnati Reds",
     "homeLogo": "https://media.api-sports.io/baseball/teams/28.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/8.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179239",
@@ -493882,40 +492944,8 @@
     "away": "Houston Astros",
     "homeLogo": "https://media.api-sports.io/baseball/teams/12.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/15.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176790",
@@ -493927,40 +492957,8 @@
     "away": "Toledo Mud Hens",
     "homeLogo": "https://media.api-sports.io/baseball/teams/596.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/77.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176793",
@@ -493972,40 +492970,8 @@
     "away": "Syracuse Mets",
     "homeLogo": "https://media.api-sports.io/baseball/teams/72.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/76.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1513188",
@@ -494134,40 +493100,8 @@
     "away": "Delfines de La Guaira",
     "homeLogo": "https://media.api-sports.io/baseball/teams/764.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/766.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185291",
@@ -494179,40 +493113,8 @@
     "away": "Guerreros de Lara",
     "homeLogo": "https://media.api-sports.io/baseball/teams/765.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/848.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185292",
@@ -494224,40 +493126,8 @@
     "away": "Lideres de Miranda",
     "homeLogo": "https://media.api-sports.io/baseball/teams/735.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/733.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "207065",
@@ -494282,40 +493152,8 @@
     "away": "Rochester Red Wings",
     "homeLogo": "https://media.api-sports.io/baseball/teams/48.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/29.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176795",
@@ -494327,40 +493165,8 @@
     "away": "Memphis Redbirds",
     "homeLogo": "https://media.api-sports.io/baseball/teams/775.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/41.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176797",
@@ -494372,40 +493178,8 @@
     "away": "Scranton/WB",
     "homeLogo": "https://media.api-sports.io/baseball/teams/71.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/75.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179243",
@@ -494417,40 +493191,8 @@
     "away": "Washington Nationals",
     "homeLogo": "https://media.api-sports.io/baseball/teams/4.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/37.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179230",
@@ -494462,40 +493204,8 @@
     "away": "Texas Rangers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/36.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/35.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1557774",
@@ -494519,40 +493229,8 @@
     "away": "Philadelphia Phillies",
     "homeLogo": "https://media.api-sports.io/baseball/teams/24.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/27.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179231",
@@ -494564,40 +493242,8 @@
     "away": "Arizona Diamondbacks",
     "homeLogo": "https://media.api-sports.io/baseball/teams/34.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/2.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179240",
@@ -494609,40 +493255,8 @@
     "away": "Seattle Mariners",
     "homeLogo": "https://media.api-sports.io/baseball/teams/9.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/32.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179242",
@@ -494654,40 +493268,8 @@
     "away": "New York Yankees",
     "homeLogo": "https://media.api-sports.io/baseball/teams/5.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/25.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1525114",
@@ -494712,22 +493294,8 @@
     "away": "Niagara River Lions",
     "homeLogo": "https://media.api-sports.io/basketball/teams/3574.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/1445.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "494908",
@@ -494739,22 +493307,8 @@
     "away": "Portland Fire W",
     "homeLogo": "https://media.api-sports.io/basketball/teams/163.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7100.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "494909",
@@ -494766,22 +493320,8 @@
     "away": "Washington Mystics W",
     "homeLogo": "https://media.api-sports.io/basketball/teams/164.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/175.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176789",
@@ -494793,40 +493333,8 @@
     "away": "Gwinnett Stripers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/42.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/70.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179241",
@@ -494838,40 +493346,8 @@
     "away": "Kansas City Royals",
     "homeLogo": "https://media.api-sports.io/baseball/teams/7.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/16.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179236",
@@ -494883,40 +493359,8 @@
     "away": "Chicago Cubs",
     "homeLogo": "https://media.api-sports.io/baseball/teams/20.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/6.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1489413",
@@ -495097,40 +493541,8 @@
     "away": "Caciques de Distrito",
     "homeLogo": "https://media.api-sports.io/baseball/teams/766.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/764.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "207069",
@@ -497486,40 +495898,8 @@
     "away": "Fukuoka S. Hawks",
     "homeLogo": "https://media.api-sports.io/baseball/teams/55.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/57.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "181041",
@@ -497557,40 +495937,8 @@
     "away": "Chunichi Dragons",
     "homeLogo": "https://media.api-sports.io/baseball/teams/64.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/56.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1547867",
@@ -497680,40 +496028,8 @@
     "away": "Uni Lions",
     "homeLogo": "https://media.api-sports.io/baseball/teams/348.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/351.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "183970",
@@ -497763,40 +496079,8 @@
     "away": "Yomiuri Giants",
     "homeLogo": "https://media.api-sports.io/baseball/teams/65.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/66.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1554539",
@@ -501573,40 +499857,8 @@
     "away": "Rouen",
     "homeLogo": "https://media.api-sports.io/baseball/teams/165.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/166.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "183494",
@@ -501618,40 +499870,8 @@
     "away": "La Rochelle",
     "homeLogo": "https://media.api-sports.io/baseball/teams/167.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/160.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "183495",
@@ -501663,40 +499883,8 @@
     "away": "Stade Toulousain",
     "homeLogo": "https://media.api-sports.io/baseball/teams/168.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/169.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1555284",
@@ -504485,40 +502673,8 @@
     "away": "Centauros de La Guaira",
     "homeLogo": "https://media.api-sports.io/baseball/teams/734.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/765.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1543295",
@@ -504738,40 +502894,8 @@
     "away": "Lideres de Miranda",
     "homeLogo": "https://media.api-sports.io/baseball/teams/736.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/733.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "207083",
@@ -505107,40 +503231,8 @@
     "away": "Guerreros de Lara",
     "homeLogo": "https://media.api-sports.io/baseball/teams/766.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/848.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185295",
@@ -505152,40 +503244,8 @@
     "away": "Caciques de Distrito",
     "homeLogo": "https://media.api-sports.io/baseball/teams/735.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/764.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176804",
@@ -505197,40 +503257,8 @@
     "away": "St. Paul",
     "homeLogo": "https://media.api-sports.io/baseball/teams/73.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/595.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1544458",
@@ -505501,40 +503529,8 @@
     "away": "Durham Bulls",
     "homeLogo": "https://media.api-sports.io/baseball/teams/53.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/69.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176803",
@@ -506377,22 +504373,8 @@
     "away": "San Luis",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7865.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/832.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501378",
@@ -506404,22 +504386,8 @@
     "away": "CD Huachipato",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7867.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7377.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501759",
@@ -506431,22 +504399,8 @@
     "away": "Omega",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4920.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7378.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501760",
@@ -506458,22 +504412,8 @@
     "away": "Stadio Italiano",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7862.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3586.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501761",
@@ -506485,22 +504425,8 @@
     "away": "Sergio Ceppi",
     "homeLogo": "https://media.api-sports.io/basketball/teams/3585.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4925.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501820",
@@ -507852,40 +505778,8 @@
     "away": "Rakuten Monkeys",
     "homeLogo": "https://media.api-sports.io/baseball/teams/348.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/482.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "184107",
@@ -509587,40 +507481,8 @@
     "away": "Sheffield Bruins",
     "homeLogo": "https://media.api-sports.io/baseball/teams/1022.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/746.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1512951",
@@ -509671,22 +507533,8 @@
     "away": "Cameroon U17",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4133.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7859.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "200866",
@@ -509724,22 +507572,8 @@
     "away": "Kosovo W",
     "homeLogo": "https://media.api-sports.io/basketball/teams/6468.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4776.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1562845",
@@ -509972,22 +507806,8 @@
     "away": "Canada U17",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4117.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4116.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185615",
@@ -509999,40 +507819,8 @@
     "away": "Gauting",
     "homeLogo": "https://media.api-sports.io/baseball/teams/628.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/959.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "200868",
@@ -510083,22 +507871,8 @@
     "away": "Gibraltar",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4771.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4768.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1561054",
@@ -510290,40 +508064,8 @@
     "away": "Vienna Metrostars",
     "homeLogo": "https://media.api-sports.io/baseball/teams/114.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/112.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "206946",
@@ -510387,22 +508129,8 @@
     "away": "Ukraine",
     "homeLogo": "https://media.api-sports.io/basketball/teams/3021.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3155.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1555296",
@@ -510647,22 +508375,8 @@
     "away": "Niagara River Lions",
     "homeLogo": "https://media.api-sports.io/basketball/teams/3576.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/1445.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185297",
@@ -510674,40 +508388,8 @@
     "away": "Guerreros de Lara",
     "homeLogo": "https://media.api-sports.io/baseball/teams/764.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/848.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501830",
@@ -510719,22 +508401,8 @@
     "away": "Albania W",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4777.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4574.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176809",
@@ -510746,40 +508414,8 @@
     "away": "St. Paul",
     "homeLogo": "https://media.api-sports.io/baseball/teams/73.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/595.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176813",
@@ -510791,40 +508427,8 @@
     "away": "Toledo Mud Hens",
     "homeLogo": "https://media.api-sports.io/baseball/teams/596.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/77.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "493582",
@@ -510836,22 +508440,8 @@
     "away": "Slovenia U17",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4128.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4894.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176814",
@@ -510863,40 +508453,8 @@
     "away": "Syracuse Mets",
     "homeLogo": "https://media.api-sports.io/baseball/teams/72.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/76.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501832",
@@ -510908,22 +508466,8 @@
     "away": "Andorra",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4770.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4767.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176816",
@@ -510935,40 +508479,8 @@
     "away": "Scranton/WB",
     "homeLogo": "https://media.api-sports.io/baseball/teams/71.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/75.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179265",
@@ -510980,40 +508492,8 @@
     "away": "Cincinnati Reds",
     "homeLogo": "https://media.api-sports.io/baseball/teams/28.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/8.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179273",
@@ -511025,40 +508505,8 @@
     "away": "Washington Nationals",
     "homeLogo": "https://media.api-sports.io/baseball/teams/4.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/37.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179260",
@@ -511070,40 +508518,8 @@
     "away": "Texas Rangers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/36.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/35.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179259",
@@ -511115,40 +508531,8 @@
     "away": "Philadelphia Phillies",
     "homeLogo": "https://media.api-sports.io/baseball/teams/24.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/27.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179261",
@@ -511160,40 +508544,8 @@
     "away": "Arizona Diamondbacks",
     "homeLogo": "https://media.api-sports.io/baseball/teams/34.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/2.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179269",
@@ -511205,40 +508557,8 @@
     "away": "Houston Astros",
     "homeLogo": "https://media.api-sports.io/baseball/teams/12.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/15.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179270",
@@ -511250,40 +508570,8 @@
     "away": "Seattle Mariners",
     "homeLogo": "https://media.api-sports.io/baseball/teams/9.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/32.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1550762",
@@ -511360,22 +508648,8 @@
     "away": "New Zealand U17",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4126.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4124.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1499485",
@@ -511712,22 +508986,8 @@
     "away": "Minnesota Lynx W",
     "homeLogo": "https://media.api-sports.io/basketball/teams/165.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/169.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185601",
@@ -511739,40 +508999,8 @@
     "away": "Industriales",
     "homeLogo": "https://media.api-sports.io/baseball/teams/132.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/128.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185702",
@@ -511784,40 +509012,8 @@
     "away": "Holguin",
     "homeLogo": "https://media.api-sports.io/baseball/teams/130.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/127.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "200869",
@@ -511842,40 +509038,8 @@
     "away": "Durham Bulls",
     "homeLogo": "https://media.api-sports.io/baseball/teams/53.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/69.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176818",
@@ -511887,40 +509051,8 @@
     "away": "Memphis Redbirds",
     "homeLogo": "https://media.api-sports.io/baseball/teams/775.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/41.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176815",
@@ -511932,40 +509064,8 @@
     "away": "Buffalo Bisons",
     "homeLogo": "https://media.api-sports.io/baseball/teams/79.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/67.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179266",
@@ -511977,40 +509077,8 @@
     "away": "Chicago Cubs",
     "homeLogo": "https://media.api-sports.io/baseball/teams/20.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/6.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179267",
@@ -512022,40 +509090,8 @@
     "away": "Colorado Rockies",
     "homeLogo": "https://media.api-sports.io/baseball/teams/22.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/10.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179271",
@@ -512067,40 +509103,8 @@
     "away": "Kansas City Royals",
     "homeLogo": "https://media.api-sports.io/baseball/teams/7.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/16.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179262",
@@ -512112,40 +509116,8 @@
     "away": "Miami Marlins",
     "homeLogo": "https://media.api-sports.io/baseball/teams/33.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/19.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1508070",
@@ -512624,22 +509596,8 @@
     "away": "Portland Fire W",
     "homeLogo": "https://media.api-sports.io/basketball/teams/175.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7100.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179268",
@@ -512651,40 +509609,8 @@
     "away": "Athletics",
     "homeLogo": "https://media.api-sports.io/baseball/teams/17.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/963.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1554056",
@@ -512709,40 +509635,8 @@
     "away": "Salt Lake Bees",
     "homeLogo": "https://media.api-sports.io/baseball/teams/38.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/84.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1525164",
@@ -513001,22 +509895,8 @@
     "away": "Las Vegas Aces W",
     "homeLogo": "https://media.api-sports.io/basketball/teams/163.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/167.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185298",
@@ -513028,40 +509908,8 @@
     "away": "Senadores de Caracas",
     "homeLogo": "https://media.api-sports.io/baseball/teams/733.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/736.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1561050",
@@ -513085,40 +509933,8 @@
     "away": "Atlanta Braves",
     "homeLogo": "https://media.api-sports.io/baseball/teams/31.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/3.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "175674",
@@ -513130,40 +509946,8 @@
     "away": "Las Vegas Aviators",
     "homeLogo": "https://media.api-sports.io/baseball/teams/54.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/80.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179264",
@@ -513175,40 +509959,8 @@
     "away": "Los Angeles Dodgers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/30.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/18.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1553073",
@@ -513246,40 +509998,8 @@
     "away": "Round Rock Express",
     "homeLogo": "https://media.api-sports.io/baseball/teams/86.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/83.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1525160",
@@ -513421,40 +510141,8 @@
     "away": "Delfines de La Guaira",
     "homeLogo": "https://media.api-sports.io/baseball/teams/765.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/766.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "185300",
@@ -513466,40 +510154,8 @@
     "away": "Marineros de Carabobo",
     "homeLogo": "https://media.api-sports.io/baseball/teams/735.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/734.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176817",
@@ -513511,40 +510167,8 @@
     "away": "Rochester Red Wings",
     "homeLogo": "https://media.api-sports.io/baseball/teams/48.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/29.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1520745",
@@ -513724,22 +510348,8 @@
     "away": "Saskatoon Mamba",
     "homeLogo": "https://media.api-sports.io/basketball/teams/3570.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3577.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "493797",
@@ -513751,22 +510361,8 @@
     "away": "Cangrejeros",
     "homeLogo": "https://media.api-sports.io/basketball/teams/954.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/1644.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501821",
@@ -513778,22 +510374,8 @@
     "away": "Heroes de Moca",
     "homeLogo": "https://media.api-sports.io/basketball/teams/1614.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7885.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "176810",
@@ -513805,40 +510387,8 @@
     "away": "Columbus Clippers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/44.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/68.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1532320",
@@ -513863,40 +510413,8 @@
     "away": "Gwinnett Stripers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/42.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/70.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1513189",
@@ -513999,22 +510517,8 @@
     "away": "New York Liberty W",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7326.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/170.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501841",
@@ -514026,22 +510530,8 @@
     "away": "Stadio Italiano",
     "homeLogo": "https://media.api-sports.io/basketball/teams/3585.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3586.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1561051",
@@ -514065,40 +510555,8 @@
     "away": "New York Yankees",
     "homeLogo": "https://media.api-sports.io/baseball/teams/5.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/25.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1525171",
@@ -514149,40 +510607,8 @@
     "away": "El Paso Chihuahuas",
     "homeLogo": "https://media.api-sports.io/baseball/teams/593.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/49.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1513184",
@@ -514259,40 +510685,8 @@
     "away": "LMB All Stars",
     "homeLogo": "https://media.api-sports.io/baseball/teams/287.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/1014.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "496386",
@@ -514304,22 +510698,8 @@
     "away": "Gigantes de Carolina",
     "homeLogo": "https://media.api-sports.io/basketball/teams/2239.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3062.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501757",
@@ -514331,22 +510711,8 @@
     "away": "Arturo Prat San Felipe",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7330.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3580.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1532324",
@@ -514384,40 +510750,8 @@
     "away": "Oklahoma City Dodgers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/82.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/81.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1513192",
@@ -514467,22 +510801,8 @@
     "away": "Pasay Voyagers",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7358.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7368.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1543588",
@@ -514507,22 +510827,8 @@
     "away": "Batang Kankaloo",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7367.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7351.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1561056",
@@ -514559,22 +510865,8 @@
     "away": "Cebu Greats",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7370.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7888.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1508072",
@@ -514663,22 +510955,8 @@
     "away": "Syria",
     "homeLogo": "https://media.api-sports.io/basketball/teams/3055.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4090.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1515874",
@@ -514807,22 +511085,8 @@
     "away": "Saudi Arabia",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4098.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3159.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1561058",
@@ -514859,22 +511123,8 @@
     "away": "Jordan",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4095.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3158.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1556223",
@@ -515015,22 +511265,8 @@
     "away": "India",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4083.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4078.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1508071",
@@ -515210,40 +511446,8 @@
     "away": "Chicago White Sox",
     "homeLogo": "https://media.api-sports.io/baseball/teams/4.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/7.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179276",
@@ -515255,40 +511459,8 @@
     "away": "Pittsburgh Pirates",
     "homeLogo": "https://media.api-sports.io/baseball/teams/27.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/28.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "501842",
@@ -515300,22 +511472,8 @@
     "away": "CD Huachipato",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4920.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7377.png",
-    "homeScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    },
-    "awayScore": {
-      "quarter_1": null,
-      "quarter_2": null,
-      "quarter_3": null,
-      "quarter_4": null,
-      "over_time": null,
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179277",
@@ -515327,40 +511485,8 @@
     "away": "Detroit Tigers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/25.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/12.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179275",
@@ -515372,40 +511498,8 @@
     "away": "New York Mets",
     "homeLogo": "https://media.api-sports.io/baseball/teams/36.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/24.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179282",
@@ -515417,40 +511511,8 @@
     "away": "Washington Nationals",
     "homeLogo": "https://media.api-sports.io/baseball/teams/5.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/37.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "179286",
@@ -515462,40 +511524,8 @@
     "away": "Texas Rangers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/9.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/35.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "1544469",
@@ -515520,40 +511550,8 @@
     "away": "Cincinnati Reds",
     "homeLogo": "https://media.api-sports.io/baseball/teams/20.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/8.png",
-    "homeScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    },
-    "awayScore": {
-      "hits": null,
-      "errors": null,
-      "innings": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null,
-        "6": null,
-        "7": null,
-        "8": null,
-        "9": null,
-        "extra": null
-      },
-      "total": null
-    }
+    "homeScore": null,
+    "awayScore": null
   },
   {
     "id": "panda-1561060",
