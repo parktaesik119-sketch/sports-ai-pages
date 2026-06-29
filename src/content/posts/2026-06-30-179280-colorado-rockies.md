@@ -26,4 +26,6 @@ pickHandicapTeam: "콜로라도 로키스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "6"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 S. Sullivan (0-2, 8.25) ERA 8.25\"]"
+awayLineup: "[\"선발투수 S. Alcantara (8-4, 4.01) ERA 4.01\"]"
 ---

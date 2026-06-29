@@ -26,4 +26,6 @@ pickHandicapTeam: "LA 에인절스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "3"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 G. Kirby (6-7, 3.94) ERA 3.94\"]"
+awayLineup: "[\"선발투수 R. Johnson (1-2, 8.84) ERA 8.84\"]"
 ---
