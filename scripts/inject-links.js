@@ -53,6 +53,15 @@ function parseRecentDate(dateStr) {
   return `20${yy}-${mm}-${dd}`;
 }
 
+// UTC datetime string → KST 날짜 "2026-06-19" (UTC+9 적용)
+function toKstDateKey(utcDateStr) {
+  if (!utcDateStr) return null;
+  const d = new Date(utcDateStr);
+  if (isNaN(d)) return utcDateStr.slice(0, 10); // fallback
+  const kst = new Date(d.getTime() + 9 * 60 * 60 * 1000);
+  return kst.toISOString().slice(0, 10);
+}
+
 // "2026.06.24" → "2026-06-24"
 function parseH2hDate(dateStr) {
   if (!dateStr) return null;
@@ -70,7 +79,8 @@ const allFixtures = JSON.parse(fs.readFileSync(DB_PATH, 'utf-8'));
 const slugIndex = new Map();
 for (const m of allFixtures) {
   if (!m.date || !m.home || !m.away || !m.id) continue;
-  const dateKey = m.date.slice(0, 10);
+  // UTC → KST(+9) 변환 후 날짜 추출 (slug URL은 KST 기준으로 생성됨)
+  const dateKey = toKstDateKey(m.date);
   const key = `${dateKey}_${normalizeName(m.home)}_${normalizeName(m.away)}`;
   const slug = `analyze-${m.id}-${dateKey}-${getSafeLogoName(m.home)}`;
   slugIndex.set(key, slug);
