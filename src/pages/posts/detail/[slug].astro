@@ -126,13 +126,13 @@ const homeFormation = item.data.homeFormation?.trim() || '';
 const awayFormation = item.data.awayFormation?.trim() || '';
 const hasFormation  = !!(homeFormation && awayFormation && homeLineupItems.length > 0 && awayLineupItems.length > 0);
 
-const W_SVG = 700, H_SVG = 380;
+const W_SVG = 700, H_SVG = 460;
 function calcPos(formation: string, side: 'home' | 'away') {
   const lines = formation.split('-').map(Number).filter((n: number) => !isNaN(n) && n > 0);
   if (lines.length === 0) lines.push(...[4,3,3]);
   const numLines = lines.length + 1;
   const padX = W_SVG * 0.08;
-  const padY = H_SVG * 0.06;
+  const padY = H_SVG * 0.04;
   const halfW = (W_SVG - padX * 2) * 0.42;
   const fieldH = H_SVG - padY * 2;
   const xPos: number[] = [];
@@ -144,7 +144,7 @@ function calcPos(formation: string, side: 'home' | 'away') {
   positions.push({ x: xPos[0], y: H_SVG / 2, isGK: true });
   lines.forEach((count: number, li: number) => {
     const lx = xPos[li + 1];
-    const effH = fieldH * 0.95;
+    const effH = fieldH * 0.98;
 const startY = padY + (fieldH - effH) / 2;
     for (let j = 0; j < count; j++) {
       positions.push({ x: lx, y: startY + effH * ((j + 1) / (count + 1)), isGK: false });
@@ -354,18 +354,14 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     </g>
   );
 })())}
-          <rect x="20" y={H_SVG-22} width="10" height="10" rx="2" fill={GK_COLOR}/>
-          <text x="34" y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">GK</text>
-          <rect x="60" y={H_SVG-22} width="10" height="10" rx="2" fill={HOME_COLOR}/>
-          <text x="74" y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">{homeTeam}</text>
-          {(() => {
-            const awayBoxX = 74 + homeTeam.length * 13 + 16;
-            const awayTextX = awayBoxX + 14;
-            return (<>
-              <rect x={awayBoxX} y={H_SVG-22} width="10" height="10" rx="2" fill={AWAY_COLOR}/>
-              <text x={awayTextX} y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">{awayTeam}</text>
-            </>);
-          })()}
+          <text x="20" y={H_SVG-13} font-size="10" font-family="sans-serif">
+            <tspan fill={GK_COLOR}>■</tspan>
+            <tspan fill="rgba(255,255,255,0.8)"> GK   </tspan>
+            <tspan fill={HOME_COLOR}>■</tspan>
+            <tspan fill="rgba(255,255,255,0.8)"> {homeTeam}   </tspan>
+            <tspan fill={AWAY_COLOR}>■</tspan>
+            <tspan fill="rgba(255,255,255,0.8)"> {awayTeam}</tspan>
+          </text>
         </svg>
       </div>
     </div>
