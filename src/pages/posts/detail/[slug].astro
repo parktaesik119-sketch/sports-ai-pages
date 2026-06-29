@@ -144,8 +144,8 @@ function calcPos(formation: string, side: 'home' | 'away') {
   positions.push({ x: xPos[0], y: H_SVG / 2, isGK: true });
   lines.forEach((count: number, li: number) => {
     const lx = xPos[li + 1];
-    const effH = fieldH * 0.82;
-    const startY = (H_SVG - effH) / 2;
+    const effH = fieldH * 0.95;
+const startY = padY + (fieldH - effH) / 2;
     for (let j = 0; j < count; j++) {
       positions.push({ x: lx, y: startY + effH * ((j + 1) / (count + 1)), isGK: false });
     }
@@ -358,8 +358,14 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           <text x="34" y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">GK</text>
           <rect x="60" y={H_SVG-22} width="10" height="10" rx="2" fill={HOME_COLOR}/>
           <text x="74" y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">{homeTeam}</text>
-          <rect x={74 + homeTeam.length * 7 + 10} y={H_SVG-22} width="10" height="10" rx="2" fill={AWAY_COLOR}/>
-          <text x={74 + homeTeam.length * 7 + 24} y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">{awayTeam}</text>
+          {(() => {
+            const awayBoxX = 74 + homeTeam.length * 13 + 16;
+            const awayTextX = awayBoxX + 14;
+            return (<>
+              <rect x={awayBoxX} y={H_SVG-22} width="10" height="10" rx="2" fill={AWAY_COLOR}/>
+              <text x={awayTextX} y={H_SVG-13} font-size="10" fill="rgba(255,255,255,0.8)" font-family="sans-serif">{awayTeam}</text>
+            </>);
+          })()}
         </svg>
       </div>
     </div>
