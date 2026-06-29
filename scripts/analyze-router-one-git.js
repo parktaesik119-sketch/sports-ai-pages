@@ -929,7 +929,7 @@ ${matchDataPrompt}
       response.output_text || "";
 
     if (aiResponse.length > 500) {
-      const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches);
+      const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory);
       if (saved) {
         console.log(`✅ Router One 성공 (${attempt}차 시도): ${match.home} vs ${match.away}`);
         success = true;
@@ -1017,7 +1017,7 @@ ${retryPrompt}
         retryResponse.output_text || "";
 
       if (aiResponse.length > 1200) {
-        const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches);
+        const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory);
         if (saved) {
           console.log(`✅ [재분석 성공] ${match.home} vs ${match.away}`);
         } else {
@@ -1039,7 +1039,7 @@ ${retryPrompt}
   console.log(`✅ [재분석 완료] ${retryQueue.length}건 처리 종료`);
 }
 
-async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches = [], awayRecentMatches = []) {
+async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches = [], awayRecentMatches = [], h2hHistory = []) {
 
   // [검증 1] 데이터 타입 확인
   if (typeof aiText !== 'string' || !aiText || aiText.length < 10) {
