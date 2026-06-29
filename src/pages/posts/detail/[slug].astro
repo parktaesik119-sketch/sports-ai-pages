@@ -147,7 +147,8 @@ function calcPos(formation: string, side: 'home' | 'away') {
     const effH = fieldH * 0.98;
 const startY = padY + (fieldH - effH) / 2;
     for (let j = 0; j < count; j++) {
-      positions.push({ x: lx, y: startY + effH * ((j + 1) / (count + 1)), isGK: false });
+      const y = count === 1 ? startY + effH / 2 : startY + effH * (j / (count - 1));
+positions.push({ x: lx, y, isGK: false });
     }
   });
   return positions;
@@ -356,9 +357,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 })())}
           <text x="20" y={H_SVG-13} font-size="10" font-family="sans-serif">
             <tspan fill={GK_COLOR}>■</tspan>
-            <tspan fill="rgba(255,255,255,0.8)"> GK   </tspan>
+            <tspan fill="rgba(255,255,255,0.8)"> GK &nbsp;&nbsp;&nbsp;</tspan>
             <tspan fill={HOME_COLOR}>■</tspan>
-            <tspan fill="rgba(255,255,255,0.8)"> {homeTeam}   </tspan>
+            <tspan fill="rgba(255,255,255,0.8)"> {homeTeam} &nbsp;&nbsp;&nbsp;</tspan>
             <tspan fill={AWAY_COLOR}>■</tspan>
             <tspan fill="rgba(255,255,255,0.8)"> {awayTeam}</tspan>
           </text>
