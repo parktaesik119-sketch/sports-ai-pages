@@ -144,11 +144,10 @@ function calcPos(formation: string, side: 'home' | 'away') {
   positions.push({ x: xPos[0], y: H_SVG / 2, isGK: true });
   lines.forEach((count: number, li: number) => {
     const lx = xPos[li + 1];
-    const spread = count >= 4 ? 0.90 : 0.77;
-const effH = fieldH * spread;
+    const effH = fieldH * 0.85;
 const startY = H_SVG / 2 - effH / 2;
 for (let j = 0; j < count; j++) {
-  const y = startY + effH * ((j + 1) / (count + 1));
+  const y = startY + effH * ((j + 0.5) / count);
   positions.push({ x: lx, y, isGK: false });
 }
   });
