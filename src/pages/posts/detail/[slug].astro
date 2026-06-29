@@ -147,7 +147,7 @@ function calcPos(formation: string, side: 'home' | 'away') {
     const effH = fieldH * 0.77;
 const startY = H_SVG / 2 - effH / 2;
 for (let j = 0; j < count; j++) {
-  const y = count === 1 ? startY + effH / 2 : startY + effH * (j / (count - 1));
+  const y = startY + effH * ((j + 1) / (count + 1));
   positions.push({ x: lx, y, isGK: false });
 }
   });
