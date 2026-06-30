@@ -26,4 +26,6 @@ pickHandicapTeam: "시카고 화이트삭스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
+homeLineup: "[]"
+awayLineup: "[\"선발투수 N. Schultz (2-4, 5.82) ERA 5.82\"]"
 ---

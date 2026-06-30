@@ -26,4 +26,6 @@ pickHandicapTeam: "뉴욕 메츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "3"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 P. Corbin (2-4, 5.09) ERA 5.09\"]"
+awayLineup: "[\"선발투수 F. Peralta (5-6, 4.53) ERA 4.53\"]"
 ---

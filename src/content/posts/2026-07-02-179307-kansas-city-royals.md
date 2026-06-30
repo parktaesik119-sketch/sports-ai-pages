@@ -26,4 +26,6 @@ pickHandicapTeam: "탬파베이 레이스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
+homeLineup: "[\"선발투수 S. Lugo (3-5, 4.18) ERA 4.18\"]"
+awayLineup: "[\"선발투수 S. McClanahan (6-5, 3.30) ERA 3.30\"]"
 ---

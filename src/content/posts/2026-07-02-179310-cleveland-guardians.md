@@ -26,4 +26,6 @@ pickHandicapTeam: "텍사스 레인저스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 J. Cantillo (6-3, 3.87) ERA 3.87\"]"
+awayLineup: "[\"선발투수 M. Gore (5-6, 4.05) ERA 4.05\"]"
 ---

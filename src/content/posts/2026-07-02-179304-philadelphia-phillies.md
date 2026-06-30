@@ -26,4 +26,6 @@ pickHandicapTeam: "필라델피아 필리스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "7"
 pickExpectedAway: "6"
+homeLineup: "[\"선발투수 Z. Wheeler (8-1, 2.03) ERA 2.03\"]"
+awayLineup: "[\"선발투수 P. Skenes (6-7, 3.10) ERA 3.10\"]"
 ---
