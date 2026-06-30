@@ -1,0 +1,29 @@
+---
+title: "캔자스시티 로열스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (7월 2일) | MLB - 픽천국"
+date: 2026-07-01T23:40:00+00:00
+description: "캔자스시티 로열스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179307-2026-07-02-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://media.api-sports.io/baseball/teams/16.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/34.png"
+homeAnalysis: "캔자스시티 로열스는 2026시즌 최근 49경기에서 24승 4무 21패를 기록하며 승률 5할을 웃도는 흐름을 보이고 있고, 평균 득점 4.6으로 공격 생산력도 나쁘지 않습니다. 최근에는 평균 득점 6.1로 타선의 폭발력이 살아나며 경기당 득점 기복을 크게 줄이고 있습니다. 특히 강팀 상대로도 한 번 몰아칠 때는 많은 득점을 만들어내는 장면이 돋보이고, 홈에서는 안정적인 득점 전개로 흐름을 잡는 모습이 있습니다. 다만 최근 탬파베이 레이스전에서는 실점이 크게 늘어난 경기가 있었던 만큼, 마운드가 초반부터 버텨주는지가 중요해 보입니다. 타선에서는 중심 타선의 응집력이 살아날 때 경쟁력이 높아지는 팀으로 평가됩니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 최근 51경기에서 29승 4무 18패를 기록하며 홈팀보다 더 좋은 승률을 보여주고 있고, 평균 득점 4.1로 효율적인 득점 운영이 강점입니다. 최근 10경기에서도 평균 득점 4.9를 유지하며 타격 감각이 다시 올라오는 흐름입니다. 특히 강한 투수진을 상대로도 장타와 연결 타격이 함께 살아날 때 경기 주도권을 잡는 모습이 돋보입니다. 다만 원정에서는 타선이 잠시 묶일 때가 있어 득점 흐름을 초반에 끊기지 않게 이어가는 것이 중요합니다. 마운드와 수비가 안정적으로 받쳐줄 경우 경기 후반까지 우위를 지키는 전력이 강하게 느껴집니다."
+homePower: "최근 49경기 24승4무21패|평균 4.6득점 전개|최근 10경기 6승4패|최근 평균 6.1득점|탬파베이전 2승2패 기록"
+awayPower: "최근 51경기 29승4무18패|평균 4.1득점 효율|최근 10경기 6승4패|최근 평균 4.9득점|원정에서도 득점 응집력 보유"
+h2h: '[{"date":"2026.06.26","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"13-2","link":"https://pick79.com/posts/detail/analyze-179223-2026-06-26-tampa-bay-rays/"},{"date":"2026.06.25","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-179208-2026-06-25-tampa-bay-rays/"},{"date":"2026.06.24","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"5-12","link":"https://pick79.com/posts/detail/analyze-179193-2026-06-24-tampa-bay-rays/"},{"date":"2026.06.23","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-179178-2026-06-23-tampa-bay-rays/"}]'
+summary: "탬파베이 레이스는 2026시즌 전체 전력에서 29승 4무 18패로 캔자스시티 로열스의 24승 4무 21패보다 앞서 있으며, 시즌 전체 흐름에서도 한 단계 더 안정적인 모습입니다. 평균 득점은 로열스가 4.6, 레이스가 4.1로 보이지만, 최근 경기에서는 레이스가 더 효율적으로 득점을 쌓고 있고 로열스는 수비와 마운드가 흔들릴 때 대량 실점을 허용하는 장면이 보입니다. 맞대결 흐름에서도 레이스가 최근 우세를 가져가고 있어, 이번 경기는 홈팀의 득점 저항보다 원정팀의 전체 전력 균형이 더 돋보이는 구도로 읽힙니다. 예상 스코어 기준으로도 레이스가 한 점 차 안팎의 우위를 지킬 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26/06/29","home":"시카고 화이트삭스","away":"캔자스시티 로열스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179271-2026-06-29-chicago-white-sox/"},{"date":"26/06/28","home":"시카고 화이트삭스","away":"캔자스시티 로열스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179255-2026-06-28-chicago-white-sox/"},{"date":"26/06/26","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"13-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179223-2026-06-26-tampa-bay-rays/"},{"date":"26/06/25","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179208-2026-06-25-tampa-bay-rays/"},{"date":"26/06/24","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"5-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179193-2026-06-24-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26/06/29","home":"탬파베이 레이스","away":"애리조나 다이아몬드백스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179261-2026-06-29-tampa-bay-rays/"},{"date":"26/06/28","home":"탬파베이 레이스","away":"애리조나 다이아몬드백스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179248-2026-06-28-tampa-bay-rays/"},{"date":"26/06/26","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"13-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179223-2026-06-26-tampa-bay-rays/"},{"date":"26/06/25","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179208-2026-06-25-tampa-bay-rays/"},{"date":"26/06/24","home":"탬파베이 레이스","away":"캔자스시티 로열스","score":"5-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179193-2026-06-24-tampa-bay-rays/"}]'
+injuryHome: "Kyle Isbel (족저근막염)|Vinnie Pasquantino (오른손 햄테 골절 수술)|Maikel Garcia (왼손 근육 염좌)|Kris Bubic (팔꿈치 통증)|Nick Mears (오른쪽 어깨 충돌 증후군)|Alec Marsh (어깨 수술)|Carlos Estévez (왼발 타박상 및 회전근개 염좌)|Jonathan India (어깨 수술)|James McArthur (오른팔꿈치 수술)|Cole Ragans (팔꿈치 수술)"
+injuryAway: "없음"
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "5"
+pickExpectedAway: "6"
+---
