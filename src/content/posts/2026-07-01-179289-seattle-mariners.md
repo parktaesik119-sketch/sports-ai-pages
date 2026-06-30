@@ -26,6 +26,6 @@ pickHandicapTeam: "시애틀 매리너스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
-homeLineup: "[\"선발투수 B. Woo (6-6, 4.26) ERA 4.26\"]"
+homeLineup: "[\"선발투수 B. Woo (6-6, 4.26) ERA 4.26\",\"1번 J.P. Crawford (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33210.png\",\"2번 J. Rodriguez (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41044.png\",\"3번 J. Naylor (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35066.png\",\"4번 R. Arozarena (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36488.png\",\"5번 C. Raleigh (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41292.png\",\"6번 C. Young (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080641.png\",\"7번 C. Emerson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149068.png\",\"8번 V. Robles (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/35042.png\",\"9번 W. Wilson (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/38682.png\"]"
 awayLineup: "[\"선발투수 J. Soriano (8-4, 3.32) ERA 3.32\"]"
 ---
