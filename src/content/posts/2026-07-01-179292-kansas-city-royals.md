@@ -26,6 +26,6 @@ pickHandicapTeam: "탬파베이 레이스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "6"
-homeLineup: "[\"선발투수 N. Cameron (4-5, 4.50) ERA 4.50\"]"
+homeLineup: "[\"선발투수 N. Cameron (4-5, 4.50) ERA 4.50\",\"1번 C. Jensen (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png\",\"2번 B. Witt Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42403.png\",\"3번 J. Caglianone (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4926296.png\",\"4번 L. Thomas (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/36409.png\",\"5번 M. Massey (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109223.png\",\"6번 S. Perez (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/31127.png\",\"7번 J. Rave (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4418140.png\",\"8번 N. Loftin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4314013.png\",\"9번 I. Collins (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42959.png\"]"
 awayLineup: "[\"선발투수 G. Jax (3-5, 3.33) ERA 3.33\"]"
 ---

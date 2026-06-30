@@ -26,6 +26,6 @@ pickHandicapTeam: "뉴욕 메츠"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "5"
-homeLineup: "[\"선발투수 K. Gausman (4-6, 4.36) ERA 4.36\"]"
+homeLineup: "[\"선발투수 K. Gausman (4-6, 4.36) ERA 4.36\",\"1번 G. Springer (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32078.png\",\"2번 N. Lukes (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/35682.png\",\"3번 V. Guerrero Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35002.png\",\"4번 S. Keys (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5128241.png\",\"5번 A. Kirk (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42081.png\",\"6번 D. Varsho (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40963.png\",\"7번 E. Clement (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41287.png\",\"8번 Y. Pinango (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917684.png\",\"9번 A. Gimenez (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/37729.png\"]"
 awayLineup: "[\"선발투수 N. McLean (4-5, 4.03) ERA 4.03\"]"
 ---
