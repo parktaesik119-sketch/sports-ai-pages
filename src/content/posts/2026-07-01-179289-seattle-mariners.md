@@ -26,4 +26,6 @@ pickHandicapTeam: "시애틀 매리너스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "5"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 B. Woo (6-6, 4.26) ERA 4.26\"]"
+awayLineup: "[\"선발투수 J. Soriano (8-4, 3.32) ERA 3.32\"]"
 ---

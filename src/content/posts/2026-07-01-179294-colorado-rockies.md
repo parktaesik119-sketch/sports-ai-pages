@@ -26,4 +26,6 @@ pickHandicapTeam: "마이애미 말린스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "6"
 pickExpectedAway: "7"
+homeLineup: "[\"선발투수 T. Gordon (0-1, 6.37) ERA 6.37\"]"
+awayLineup: "[\"선발투수 E. Perez (3-6, 4.41) ERA 4.41\"]"
 ---

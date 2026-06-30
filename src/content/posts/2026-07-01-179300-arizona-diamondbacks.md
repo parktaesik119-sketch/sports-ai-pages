@@ -26,4 +26,6 @@ pickHandicapTeam: "애리조나 다이아몬드백스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 B. Pfaadt (0-1, 5.92) ERA 5.92\"]"
+awayLineup: "[\"선발투수 L. Roupp (5-7, 4.07) ERA 4.07\"]"
 ---
