@@ -4,6 +4,7 @@ import { fileURLToPath } from 'url';
 import OpenAI from "openai";
 import TEAM_NAME_MAP from './team_name_map.js';
 import COUNTRY_MAP from './country_map.js';
+import { matchTeam } from './espn-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -310,6 +311,35 @@ async function analyzeMatches() {
 
     const rawData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
     const masterData = fs.existsSync(dbPath) ? JSON.parse(fs.readFileSync(dbPath, 'utf8')) : [];
+
+    // ESPN 결장자/순위 컨텍스트 로드 (fetch-espn-context.js가 미리 생성)
+    const espnContextPath = path.resolve(__dirname, `../database/espn-context-${today}.json`);
+    const espnContextList = fs.existsSync(espnContextPath)
+      ? JSON.parse(fs.readFileSync(espnContextPath, 'utf8'))
+      : [];
+    if (espnContextList.length > 0) {
+      console.log(`📊 [ESPN 컨텍스트] ${espnContextList.length}건 로드됨`);
+    }
+
+    function findEspnContext(match) {
+      const candidates = espnContextList.filter(e =>
+        (matchTeam(e.home, match.home) && matchTeam(e.away, match.away)) ||
+        (matchTeam(e.home, match.away) && matchTeam(e.away, match.home))
+      );
+      if (candidates.length === 0) return null;
+      if (candidates.length === 1) return candidates[0];
+
+      // 같은 팀조합이 시리즈로 여러 번 겹치는 경우(MLB 3연전 등) 날짜가 가장 가까운 항목을 선택
+      const targetTime = new Date(match.date).getTime();
+      return candidates.reduce((best, cur) => {
+        const curTime = new Date(cur.date).getTime();
+        const bestTime = new Date(best.date).getTime();
+        if (Number.isNaN(curTime)) return best;
+        if (Number.isNaN(bestTime)) return cur;
+        return Math.abs(curTime - targetTime) < Math.abs(bestTime - targetTime) ? cur : best;
+      });
+    }
+
     
 
     const blockedLeagues = [  //대소문자 구분없음
@@ -501,11 +531,12 @@ if (isExtraFiltered) {
 [출력 형식 - 절대 엄수]
 반드시 아래 키=값 형식으로만 출력하라. 마크다운, HTML, ### 헤더, <br> 태그를 절대 사용하지 마라.
 키 이름을 변경하거나 추가하지 마라. 설명 문장, 행동 예고, 내부 추론을 절대 포함하지 마라.
+각 키(HOME_ANALYSIS, AWAY_ANALYSIS, HOME_POWER 등)는 반드시 새 줄(줄바꿈)에서 시작하라. 이전 키의 값과 다음 키 이름을 같은 줄에 이어 쓰지 마라.
 
 HOME_ANALYSIS: (홈팀 분석. 존댓말로 자연스럽게 5문장 이상 서술하라. 반드시 [홈팀 시즌 전체 DB]만 기준으로 시즌 성적(승패수, 승률, 득점 평균 등)을 첫 문장에 언급하고, 최근 흐름과 자연스럽게 연결하라. 득점력, 수비력, 홈/원정 성적, 강점 또는 주목 선수를 흐름 안에 녹여 작성하라. 다른 연도 수치 사용 절대 금지. "최근 5경기에서 N승 N패" 같은 수치 나열식 첫 문장 절대 금지. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
 AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 방식으로 원정팀 기준으로 작성하라. 반드시 [원정팀 시즌 전체 DB]만 기준으로 시즌 성적을 먼저 언급하고 최근 흐름과 자연스럽게 연결하라. 다른 연도 수치 사용 절대 금지. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
-HOME_POWER: (홈팀 핵심 포인트 5개를 파이프(|)로 구분. 각 30자 이내. 반드시 [홈팀 시즌 전체 DB] 기준 구체적 수치 포함. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지. 예: 시즌 26경기 14승12패|평균 4.2득점 공격력 우수|홈 승률 .620 강세|최근 3연승 흐름|수비 실점 2점 이하 유지)
-AWAY_POWER: (원정팀 핵심 포인트 5개를 파이프(|)로 구분. 각 30자 이내. 반드시 [원정팀 시즌 전체 DB] 기준 구체적 수치 포함. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지. 예: 시즌 26경기 10승16패|평균 3.5득점 수준|원정 2연속 대패|실점 급증 흐름|주전 타선 침묵)
+HOME_POWER: (홈팀 핵심 전력 포인트 5개를 파이프(|)로 구분. 각 35자 이내. HOME_ANALYSIS에 이미 쓴 문장이나 수치를 그대로 반복하지 마라 — 같은 데이터를 다른 각도로 해석한 통찰을 담아라. 단순히 "N승N패", "평균 N득점" 같은 시즌 기록 나열이 아니라, 그 기록이 시사하는 패턴이나 강약점을 한 줄로 압축하라. 가능하면 수치를 근거로 들되, 수치 자체보다 "그래서 어떻다"는 해석이 핵심이다. 문장은 반드시 "~함/~음/~임/~보임/~검증됨" 같은 명사형·요약체 종결어미로 끝내라. "~합니다", "~있습니다" 같은 완결된 존댓말 문장 절대 금지 — 서술이 아니라 한 줄 요약처럼 읽혀야 한다. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지. 예: 최근 맞대결 5경기 중 4승, 상대 상성 확실한 우위|최근 4경기 모두 2득점 이상, 화력보단 꾸준함이 강점|원정 약한 상대 수비 vs 안정적 홈 운영, 매치업상 유리|직전 경기 무득점 포함 마무리 효율은 기복 변수|조 1위로 마친 만큼 큰 경기 운영력은 검증된 상태)
+AWAY_POWER: (원정팀 핵심 전력 포인트 5개를 파이프(|)로 구분. 각 35자 이내. AWAY_ANALYSIS와 동일한 방식·동일한 원칙(수치 재탕 금지, 패턴·시사점 중심)으로 원정팀 기준으로 작성하라. 문장은 반드시 "~함/~음/~임/~보임/~검증됨" 같은 명사형·요약체 종결어미로 끝내라. "~합니다", "~있습니다" 같은 완결된 존댓말 문장 절대 금지. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지.)
 H2H: (상대전적. DB에 있으면 각 경기를 파이프(|)로 구분하여 기재. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 없으면 반드시 "※ H2H 업데이트 예정" 으로만 표기. 웹 검색 절대 금지.)
 SUMMARY: (종합 분석. 존댓말로 3문장 이상. 반드시 [시즌 전체 DB] 기준 수치만 활용하라. 다른 연도 수치 사용 절대 금지. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 시즌 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라.)
 INJURY_HOME: (홈팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
@@ -518,7 +549,7 @@ PICK_EXPECTED_HOME: (홈팀 예상 득점. 경기 정보에 제공된 JS 계산�
 PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계산값을 그대로 출력하라. LOL/배구는 "없음"으로 표기. 반드시 숫자로만 기재.)
 
 [분석 규칙]
-1. 웹 검색으로 결장자와 부상자 정보만 확인하라. 리그 순위와 시즌 성적은 제공된 DB 데이터를 활용하라. 단, 득점 평균 수치는 반드시 [경기 정보]에 제공된 JS 계산값을 기준으로만 언급하라. DB에서 자체 계산한 평균 득점 수치를 분석글에 직접 기재하지 마라.
+1. 결장자와 부상자 정보는 [ESPN 공식 데이터]가 제공된 경우 그 데이터를 그대로 사용하고 web_search를 사용하지 마라. [ESPN 공식 데이터]가 제공되지 않은 경기만 web_search로 결장자와 부상자 정보를 확인하라. 리그 순위와 시즌 성적은 제공된 DB 데이터(ESPN 순위 데이터 포함)를 활용하라. 단, 득점 평균 수치는 반드시 [경기 정보]에 제공된 JS 계산값을 기준으로만 언급하라. DB에서 자체 계산한 평균 득점 수치를 분석글에 직접 기재하지 마라.
 2. 대한민국을 '남한', '한국'으로 표기하지 마라. 반드시 '대한민국'으로만 표기하라.
 3. 팀명은 반드시 [경기 정보]에 제공된 홈팀/원정팀 이름을 그대로 사용하라. 임의로 번역하거나 변형하지 마라. 팀명은 반드시 풀네임으로 표기하라. "GIANTS", "MARLINS", "TWINS" 같은 약식 표기 절대 금지. 예: "GIANTS" → "SAN FRANCISCO GIANTS", "MARLINS" → "MIAMI MARLINS".
 4. 한자, 일어 사용 금지. 100% 한글로만 작성하라.
@@ -593,7 +624,7 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
   const strictlyRecentDate = new Date(isDataRichSport ? '2023-01-01' : '2024-01-01');
   const currentMatchDate = new Date(match.date);
 
-  const h2hHistory = masterData.filter(m => {
+  let h2hHistory = masterData.filter(m => {
     const isMatch = ((m.home === match.home && m.away === match.away) || (m.home === match.away && m.away === match.home));
     const matchDate = new Date(m.date);
     const isRecentEnough = matchDate >= strictlyRecentDate;
@@ -673,6 +704,41 @@ const isSameSport = m.sport === match.sport;
 const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
 return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && scopeOk;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
+
+  // ESPN 결장자/순위/H2H 컨텍스트 매칭 (calcExpectedScores가 h2hHistory를 쓰기 전에 먼저 해야 함)
+  const espnInfo = findEspnContext(match);
+
+  // ESPN H2H가 있으면 기존 all-fixtures 기반 h2hContextForAI/h2hContent/h2hHistory를 덮어쓴다.
+  // (all-fixtures는 2026년 4월부터 수집 중이라 시즌 초반/월드컵 등은 데이터가 부족함 — ESPN을 우선시)
+  // 두 소스(all-fixtures, ESPN) 모두 {date, home, away, homeScore, awayScore} 동일 구조라
+  // 같은 buildH2hRows 함수로 표를 만들어 화면 표기 방식을 통일한다.
+  function buildH2hRows(games) {
+    return games.map(h => {
+      const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
+      const finalScore = (h.homeScore !== null && h.homeScore !== undefined && h.awayScore !== null && h.awayScore !== undefined)
+        ? `${h.homeScore}-${h.awayScore}` : (h.score || '');
+      return `| ${d} ${spacer} | ${h.home} ${spacer} | ${finalScore} ${spacer} | ${h.away} ${spacer} |`;
+    }).join('\n');
+  }
+
+  if (espnInfo?.h2h?.games?.length > 0) {
+    // 최신순(내림차순) 정렬 — recent 위젯과 표기 순서를 통일
+    const sortedH2hGames = [...espnInfo.h2h.games].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    const espnRows = buildH2hRows(sortedH2hGames);
+    h2hContent = `\n<br>\n\n### ⚔️ 상대 전적 분석 (ESPN 공식 데이터)\n| <span style="color: #007bff;">날짜</span> ${spacer} | <span style="color: #007bff;">홈팀</span> ${spacer} | <span style="color: #007bff;">경기결과</span> ${spacer} |\n|:---|:---|:---:|\n${espnRows}\n`;
+
+    const aiGameLines = sortedH2hGames.map(g => {
+      const d = new Date(g.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
+      return `${d} - ${g.home} (${g.homeScore}-${g.awayScore}) ${g.away}`;
+    }).join('\n');
+    const seasonNote = espnInfo.h2h.source === 'seasonseries' && espnInfo.h2h.text ? `\n현재 시즌 상대전적 요약: ${espnInfo.h2h.text}` : '';
+    h2hContextForAI = `\n[ESPN 공식 데이터 - 상대전적 ${espnInfo.h2h.totalGames}경기]\n${aiGameLines}${seasonNote}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
+
+    // h2hHistory 자체도 ESPN 데이터로 덮어써야 calcExpectedScores 계산과 프론트매터 h2h 필드(h2hItems) 둘 다
+    // 동일한 ESPN 데이터를 쓰게 된다. 구조가 {date, home, away, homeScore, awayScore}로 동일해서 그대로 대입 가능.
+    h2hHistory = sortedH2hGames;
+  }
 
   // 시즌 전체 경기 추출 (올해 1월 1일 이후)
   const currentYear = new Date().getFullYear();
@@ -862,13 +928,65 @@ const handicapInstruction = cat === 'lol'
   ? `예상 스코어가 동점이므로 핸디캡 추천 없음. PICK_HANDICAP_VALUE는 "없음"으로 출력하라.`
   : `핸디캡 값은 JS에서 자동 산출된다. PICK_HANDICAP_VALUE는 반드시 "0"으로만 출력하라.`;
 
+// ESPN 결장자/순위 데이터 매칭 (있으면 web_search 대신 이 데이터를 그대로 사용)
+// 결장자 심각도 분류: 장기 IL(15일 이상)은 "주요 결장"으로 별도 태깅해서
+// AI가 백업급 단기 결장자와 같은 비중으로 다루지 않도록 유도한다.
+const MINOR_STATUS = /day-to-day|paternity|bereavement/i;
+function classifySeverity(status) {
+  return MINOR_STATUS.test(status || '') ? '경미' : '주요';
+}
+function formatInjuries(list) {
+  if (!list || list.length === 0) return null;
+  return list
+    .map(i => `${i.name}[${classifySeverity(i.status)}](${i.status}${i.detail ? ' - ' + i.detail : ''})`)
+    .join(' | ');
+}
+function formatStanding(s) {
+  if (!s) return null;
+  const parts = [];
+  if (s.rank) parts.push(`순위 ${s.rank}위`);
+  if (s.wins || s.losses) parts.push(`${s.wins || 0}승 ${s.losses || 0}패${s.ties ? ` ${s.ties}무` : ''}`);
+  if (s.winPercent) parts.push(`승률 ${s.winPercent}`);
+  if (s.gamesBehind && s.gamesBehind !== '-') parts.push(`${s.gamesBehind}경기차`);
+  if (s.pointsFor && s.pointsAgainst) {
+    const diff = (parseFloat(s.pointsFor) - parseFloat(s.pointsAgainst)).toFixed(1);
+    parts.push(`득실 ${s.pointsFor}-${s.pointsAgainst}(${diff > 0 ? '+' : ''}${diff})`);
+  }
+  return parts.length > 0 ? parts.join(', ') : null;
+}
+
+const homeInjuryText = espnInfo ? formatInjuries(espnInfo.injuries?.home) : null;
+const awayInjuryText = espnInfo ? formatInjuries(espnInfo.injuries?.away) : null;
+const homeStandingText = espnInfo ? formatStanding(espnInfo.standings?.home) : null;
+const awayStandingText = espnInfo ? formatStanding(espnInfo.standings?.away) : null;
+
+const hasEspnInjuryData = !!(homeInjuryText || awayInjuryText);
+const hasEspnAnyData = hasEspnInjuryData || homeStandingText || awayStandingText;
+
+// ESPN 데이터가 있으면 web_search 지시 대신 ESPN 데이터를 그대로 사용.
+// ESPN 매칭이 안 된 경기(리그 미지원 포함)는 기존 web_search 방식 그대로 유지.
+const searchOrEspnInstruction = hasEspnAnyData
+  ? `아래 [ESPN 공식 데이터]를 결장자/순위 정보의 근거로 그대로 사용하라. 이 경기는 ESPN 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [ESPN 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
+  : `지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.\n\n검색 1: "${match.home} ${match.away} injury report 2026"\n\n검색 완료 후 아래 정보를 참고하여 분석을 작성하라.`;
+
+// 월드컵/올림픽 등 조별리그 방식 대회는 ESPN standings의 rank가 "전체 리그 순위"가 아니라
+// "조 내 순위"이므로 표현을 구분한다 ("리그순위" vs "조 순위").
+const standingTermKo = isInternationalTournament ? '조 순위' : '리그순위';
+
+const espnDataBlock = hasEspnAnyData ? `
+[ESPN 공식 데이터 - 결장자/${standingTermKo}. 신뢰도 높은 1차 데이터이므로 우선 사용하라]
+- 홈팀(${aiHomeName}) 결장자: ${homeInjuryText || '없음'}
+- 원정팀(${aiAwayName}) 결장자: ${awayInjuryText || '없음'}
+- 홈팀(${aiHomeName}) ${standingTermKo}: ${homeStandingText || '정보 없음'}
+- 원정팀(${aiAwayName}) ${standingTermKo}: ${awayStandingText || '정보 없음'}
+
+[ESPN 데이터 활용 가이드]
+${(homeStandingText || awayStandingText) ? `- 분석 본문에서 순위 데이터를 언급할 때는 반드시 "${standingTermKo}"라는 표현을 사용하라 (예: "현재 ${standingTermKo} 3위"). "전체 순위", "랭킹" 등 다른 표현으로 바꾸지 마라.\n` : ''}${hasEspnInjuryData ? '- 결장자 이름 옆 [주요]/[경미] 태그를 분석 비중에 그대로 반영하라. [주요](15일 이상 장기 결장)는 전력분석에서 비중 있게 다루고, [경미](Day-To-Day 등 단기)는 가볍게 언급하거나 생략해도 된다. 둘을 동일 비중으로 다루지 마라. 태그 표기([주요]/[경미]) 자체는 분석 본문에 그대로 노출하지 말고, 비중 조절 용도로만 참고하라.\n' : ''}${(homeStandingText || awayStandingText) ? `- ${standingTermKo}와 [홈팀/원정팀 최근 경기 DB]의 최근 흐름을 반드시 교차 비교하라. 순위는 낮은데 최근 흐름이 좋으면 "반등 조짐"으로, 순위는 높은데 최근 흐름이 나쁘면 "고점 대비 주춤"으로 서술하는 등 두 정보를 연결해서 서사를 만들어라. 순위와 최근 폼을 따로따로만 언급하지 마라.\n` : ''}${(homeStandingText || awayStandingText) ? '- 득실 수치(괄호 안 +/- 값)는 단순 전적보다 실제 득점력-실점력 격차를 보여주는 지표다. 핸디캡/언더오버 근거를 보강할 때 활용하라.\n' : ''}` : '';
+
+
 const matchDataPrompt = `
-지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.
-
-검색 1: "${match.home} ${match.away} injury report 2026"
-
-검색 완료 후 아래 정보를 참고하여 분석을 작성하라.
-
+${searchOrEspnInstruction}
+${espnDataBlock}
 [경기 정보]
 - 종목: ${cat} ${gameContext}
 - 홈팀: ${aiHomeName} (DB 원문: ${match.home})
@@ -1093,8 +1211,16 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
   junkPatterns.forEach(p => { cleanedText = cleanedText.replace(p, ""); });
 
   // 2. 키=값 추출
+  // ⚠️ AI가 가끔 라벨 사이 줄바꿈 없이 한 줄로 이어 출력하는 경우가 있어,
+  // 줄바꿈 유무에 의존하지 않고 알려진 라벨 목록을 기준으로 다음 섹션 시작을 인식한다.
+  const ALL_LABELS = [
+    'HOME_ANALYSIS', 'AWAY_ANALYSIS', 'HOME_POWER', 'AWAY_POWER', 'H2H', 'SUMMARY',
+    'INJURY_HOME', 'INJURY_AWAY', 'PICK_WIN_TEAM', 'PICK_WIN_RESULT',
+    'PICK_HANDICAP_TEAM', 'PICK_HANDICAP_VALUE', 'PICK_EXPECTED_HOME', 'PICK_EXPECTED_AWAY',
+  ];
+  const NEXT_LABEL_LOOKAHEAD = ALL_LABELS.join('|');
   const extract = (key) => {
-  const m = cleanedText.match(new RegExp(`${key}:\\s*([\\s\\S]+?)(?=\\n[A-Z0-9_]+:|$)`));
+  const m = cleanedText.match(new RegExp(`${key}:\\s*([\\s\\S]+?)(?=\\n?(?:${NEXT_LABEL_LOOKAHEAD}):|$)`));
   return m ? m[1].trim() : '';
 };
 
@@ -1245,14 +1371,13 @@ const winnerIsHome = homeNames.some(n =>
   const awayPowerItems  = awayPowerRaw ? awayPowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
   const h2hItems = (h2hHistory && h2hHistory.length > 0)
   ? h2hHistory.map(h => {
-      const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '').replace(/\./g, '.');
+      const d = new Date(h.date).toLocaleDateString('ko-KR', { year: '2-digit', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
       const score = (typeof h.homeScore === 'number' && typeof h.awayScore === 'number') ? `${h.homeScore}-${h.awayScore}` : (h.score || '-');
       return {
         date: d,
         home: TEAM_NAME_MAP[h.home] || h.home,
         away: TEAM_NAME_MAP[h.away] || h.away,
         score,
-        text: `${d} - ${TEAM_NAME_MAP[h.home] || h.home} (${score}) ${TEAM_NAME_MAP[h.away] || h.away}`
       };
     })
   : [];
@@ -1295,7 +1420,7 @@ const winnerIsHome = homeNames.some(n =>
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
   const homeRecentJson = JSON.stringify(homeRecentMatches.slice(0, 5).map(m => ({
-    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timeZone: 'Asia/Seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
+    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, ''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
     score: (typeof m.homeScore === 'number' && typeof m.awayScore === 'number') ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
@@ -1309,7 +1434,7 @@ const winnerIsHome = homeNames.some(n =>
   })));
 
   const awayRecentJson = JSON.stringify(awayRecentMatches.slice(0, 5).map(m => ({
-    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timeZone: 'Asia/Seoul' }).replace(/\.\s*/g,'/').replace(/\/$/,''),
+    date: new Date(m.date).toLocaleDateString('ko-KR', { year:'2-digit', month:'2-digit', day:'2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, ''),
     home: TEAM_NAME_MAP[m.home] || m.home,
     away: TEAM_NAME_MAP[m.away] || m.away,
     score: (typeof m.homeScore === 'number' && typeof m.awayScore === 'number') ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),

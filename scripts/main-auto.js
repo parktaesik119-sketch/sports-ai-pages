@@ -12,6 +12,11 @@ async function runAutomation() {
   console.log("====================================================");
 
   try {
+    // 0단계: 전날 캐시 파일 정리 (당일 파일/누적 DB는 보존)
+    console.log("\n[0단계] 전날 database 캐시 파일 정리 중...");
+    execSync('node cleanup-database.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ DB 정리 완료.");
+
     // 1단계: 데이터 수집 
     console.log("\n[1단계] 전 종목 경기 데이터 수집 중...");
     execSync('node fetch-all.js', { stdio: 'inherit', cwd: __dirname });
@@ -21,6 +26,11 @@ async function runAutomation() {
     console.log("\n[1.5단계] 배구 스코어 업데이트 중...");
     execSync('node fetch-score-update.js', { stdio: 'inherit', cwd: __dirname });
     console.log("✅ 배구 스코어 업데이트 완료.");
+
+    // 1.7단계: ESPN 결장자/순위/H2H 컨텍스트 수집
+    console.log("\n[1.7단계] ESPN 결장자/순위/H2H 데이터 수집 중...");
+    execSync('node fetch-espn-context.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ ESPN 컨텍스트 수집 완료.");
 
     // 2~5단계: 분석 및 마크다운 생성
     console.log("\n[2-5단계] 신규 경기 필터링 및 AI 분석 시작...");
