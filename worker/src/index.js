@@ -34,8 +34,9 @@ const PHOTO_TAG_PATTERN = /^\s*\[(사진|포토|MD포토|엑스포츠사진|화�
 
 // ── iframe 삽입 가능 확인된 언론사 화이트리스트 ──
 const ALLOWED_DOMAINS = [
-  'osen.co.kr', 'sportschosun.com', 'mydaily.co.kr',
+  'sportschosun.com', 'mydaily.co.kr',
   'spotvnews.co.kr', 'isplus.com', 'news1.kr', 'newsis.com',
+  'sportsseoul.com',
 ];
 
 const SEED_LIMIT = 5;      // 최초 배포(콜드 스타트) 시 종목당 시드 기사 개수
