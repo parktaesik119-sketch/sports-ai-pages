@@ -169,13 +169,13 @@ document.addEventListener('DOMContentLoaded', () => {
   /* 페이지 이동 로딩 스피너 (순수 CSS, display 전환에 영향 안 받음) */
   .ph-ring-loader-wrap {
     position: relative;
-    width: 64px;
-    height: 64px;
+    width: 128px;
+    height: 128px;
   }
   .ph-ring-loader {
     position: absolute;
     inset: 0;
-    padding: 9px;
+    padding: 18px;
     border-radius: 50%;
     background: #5B8DEF;
     --_m:
@@ -194,7 +194,7 @@ document.addEventListener('DOMContentLoaded', () => {
     transform: translate(-50%, -50%);
     font-family: Georgia, serif;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 36px;
     color: #5B8DEF;
   }
   @keyframes ph-ring-spin {
