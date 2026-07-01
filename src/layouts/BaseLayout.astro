@@ -83,6 +83,7 @@ const { currentCategory } = Astro.props;
         <!-- 🔥 PC 메뉴 (그대로 유지) -->
         <nav class="nav">
           <a href="/notice" class={currentPath.startsWith('/notice') || currentCategory === 'notice' ? "active" : ""}>공지사항</a>
+          <a href="/news" class={currentPath.startsWith('/news') || currentCategory === 'news' ? "active" : ""}>스포츠뉴스</a>
           <a href="/posts/soccer" class={currentPath.includes("soccer") || currentCategory === 'soccer' ? "active" : ""}>축구</a>
           <a href="/posts/baseball" class={currentPath.includes("baseball") || currentCategory === 'baseball' ? "active" : ""}>야구</a>
           <a href="/posts/basketball" class={currentPath.includes("basketball") || currentCategory === 'basketball' ? "active" : ""}>농구</a>
@@ -102,6 +103,7 @@ const { currentCategory } = Astro.props;
     <button class="close-btn" id="close-btn">✕</button>
 
     <a href="/notice" class={`menu notice ${currentPath.includes('/notice') ? 'active' : ''}`}>공지사항</a>
+    <a href="/news" class={`menu news ${currentPath.startsWith('/news') ? 'active' : ''}`}>스포츠 뉴스</a>
     <a href="/posts/soccer" class={`menu soccer ${currentPath.includes('/soccer') ? 'active' : ''}`}>축구분석</a>
     <a href="/posts/baseball" class={`menu baseball ${currentPath.includes('/baseball') ? 'active' : ''}`}>야구분석</a>
     <a href="/posts/basketball" class={`menu basketball ${currentPath.includes('/basketball') ? 'active' : ''}`}>농구분석</a>
