@@ -1,7 +1,7 @@
 // inject-links.js
 // 실행: node inject-links.js
 // 역할: 신형 MD 파일의 homeRecent/awayRecent/h2h 텍스트에 분석글 링크 삽입
-// 대상: 파일명 날짜 기준 -5일 ~ +2일, homeRecent 또는 awayRecent 또는 h2h 필드 있는 파일만
+// 대상: 파일명 날짜 기준 -1일 ~ +2일, homeRecent 또는 awayRecent 또는 h2h 필드 있는 파일만
 
 import fs from 'fs';
 import path from 'path';
@@ -50,6 +50,15 @@ function parseRecentDate(dateStr) {
   const parts = dateStr.split('/');
   if (parts.length !== 3) return null;
   const [yy, mm, dd] = parts;
+  return `20${yy}-${mm}-${dd}`;
+}
+
+// "26.06.28" → "2026-06-28" (2자리 연도 + 마침표, 신형 recent/h2h 포맷)
+function parseShortDotDate(dateStr) {
+  if (!dateStr) return null;
+  const m = dateStr.match(/^(\d{2})\.(\d{2})\.(\d{2})$/);
+  if (!m) return null;
+  const [, yy, mm, dd] = m;
   return `20${yy}-${mm}-${dd}`;
 }
 
@@ -140,7 +149,7 @@ function processRecentJson(jsonStr) {
 
     if (rest.link) return rest; // 이미 링크 있으면 스킵
 
-    const dateStr = parseRecentDate(rest.date) || parseH2hDate(rest.date);
+    const dateStr = parseRecentDate(rest.date) || parseShortDotDate(rest.date) || parseH2hDate(rest.date);
     if (!dateStr) return rest;
 
     const slug = findSlug(dateStr, rest.home, rest.away);
@@ -227,8 +236,8 @@ function main() {
     const fileDate = new Date(dateMatch[1]).getTime();
     const diffDays = (todayMs - fileDate) / (24 * 60 * 60 * 1000);
 
-    // -5일 ~ +2일 범위 (과거 5일 ~ 미래 2일)
-    if (diffDays > 5 || diffDays < -2) {
+    // -1일 ~ +2일 범위 (과거 1일 ~ 미래 2일)
+    if (diffDays > 1 || diffDays < -2) {
       totalSkipped++;
       continue;
     }
