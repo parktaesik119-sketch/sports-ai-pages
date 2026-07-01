@@ -1,0 +1,13 @@
+name = "sports-news-worker"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# 30분마다 실행
+[triggers]
+crons = ["*/30 * * * *"]
+
+# KV 네임스페이스 바인딩
+# 아래 id는 `wrangler kv namespace create NEWS_KV` 실행 후 나오는 실제 id로 교체 필요
+[[kv_namespaces]]
+binding = "NEWS_KV"
+id = "ae8eea82c9df43ac80f86f425930cab5"

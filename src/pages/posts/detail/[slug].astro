@@ -429,12 +429,15 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     );
   }
   if (player.match(/^\d+번 /)) {
-    const numMatch = player.match(/^(\d+)번 (.+?)\s*\(([^)]+)\)$/);
+    const base = player.split('|')[0];
+    const numMatch = base.match(/^(\d+)번 (.+?)\s*\(([^)]+)\)$/);
     const num = numMatch ? numMatch[1] : '';
-    const pname = numMatch ? numMatch[2] : player.replace(/^\d+번 /, '');
+    const pname = numMatch ? numMatch[2] : base.replace(/^\d+번 /, '');
     const ppos = numMatch ? numMatch[3] : '';
+    const photo = getPhoto(player);
     return (
       <div class="lineup-player-row" key={idx}>
+        {photo && <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />}
         <span class="pos-badge pos-num">{num}번</span>
         <span class="lineup-player-name">{pname}</span>
         {ppos && <span class="pos-badge pos-pos">{ppos}</span>}
@@ -466,12 +469,15 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     );
   }
   if (player.match(/^\d+번 /)) {
-    const numMatch = player.match(/^(\d+)번 (.+?)\s*\(([^)]+)\)$/);
+    const base = player.split('|')[0];
+    const numMatch = base.match(/^(\d+)번 (.+?)\s*\(([^)]+)\)$/);
     const num = numMatch ? numMatch[1] : '';
-    const pname = numMatch ? numMatch[2] : player.replace(/^\d+번 /, '');
+    const pname = numMatch ? numMatch[2] : base.replace(/^\d+번 /, '');
     const ppos = numMatch ? numMatch[3] : '';
+    const photo = getPhoto(player);
     return (
       <div class="lineup-player-row" key={idx}>
+        {photo && <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />}
         <span class="pos-badge pos-num">{num}번</span>
         <span class="lineup-player-name">{pname}</span>
         {ppos && <span class="pos-badge pos-pos">{ppos}</span>}
