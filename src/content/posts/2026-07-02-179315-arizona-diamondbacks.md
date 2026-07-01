@@ -26,6 +26,6 @@ pickHandicapTeam: "애리조나 다이아몬드백스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "6"
 pickExpectedAway: "3"
-homeLineup: "[\"선발투수 Z. Gallen (3-7, 6.15) ERA 6.15\"]"
+homeLineup: "[\"선발투수 Z. Gallen (3-7, 6.15) ERA 6.15\",\"1번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"2번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"3번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"4번 G. Moreno (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"5번 L. Gurriel Jr. (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36040.png\",\"6번 A. Del Castillo (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41464.png\",\"7번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"8번 P. Smith (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40767.png\",\"9번 T. Troy (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4837403.png\"]"
 awayLineup: "[\"선발투수 T. McDonald (2-6, 4.94) ERA 4.94\"]"
 ---
