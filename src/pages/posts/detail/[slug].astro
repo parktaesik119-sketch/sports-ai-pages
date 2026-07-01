@@ -463,7 +463,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     const { name, record, era } = parsePitcher(player);
     return (
       <div class="lineup-player-row" key={idx}>
-        <span class="pos-badge pos-gk">선발</span>
+        <span class="pos-badge pos-gk">선발투수</span>
         <span class="lineup-player-name">{name} {record && <span style="color:#868e96;font-size:0.82rem;">({record} 평균자책점 {era})</span>}</span>
       </div>
     );
