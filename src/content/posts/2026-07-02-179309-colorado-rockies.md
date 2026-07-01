@@ -26,4 +26,6 @@ pickHandicapTeam: "마이애미 말린스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "4"
 pickExpectedAway: "7"
+homeLineup: "[\"선발투수 K. Freeland (1-7, 7.50) ERA 7.50\"]"
+awayLineup: "[\"선발투수 M. Meyer (9-0, 2.60) ERA 2.60\"]"
 ---

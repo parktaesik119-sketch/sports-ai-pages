@@ -26,4 +26,6 @@ pickHandicapTeam: "애리조나 다이아몬드백스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "6"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 Z. Gallen (3-7, 6.15) ERA 6.15\"]"
+awayLineup: "[\"선발투수 T. McDonald (2-6, 4.94) ERA 4.94\"]"
 ---

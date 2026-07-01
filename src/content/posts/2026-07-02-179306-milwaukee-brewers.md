@@ -26,4 +26,6 @@ pickHandicapTeam: "밀워키 브루어스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 S. Drohan (3-2, 3.12) ERA 3.12\"]"
+awayLineup: "[\"선발투수 A. Abbott (5-4, 3.90) ERA 3.90\"]"
 ---
