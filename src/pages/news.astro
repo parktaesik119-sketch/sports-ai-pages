@@ -302,10 +302,11 @@ import Sidebar from '../components/Sidebar.astro';
     inset: 0;
     background: rgba(20, 22, 26, 0.55);
     display: none;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
-    z-index: 999;
-    padding: 20px;
+    z-index: 99999;
+    padding: 88px 20px 20px;
+    overflow-y: auto;
   }
   .modal-overlay.open{ display: flex; }
 
@@ -313,8 +314,8 @@ import Sidebar from '../components/Sidebar.astro';
     background: #fff;
     width: 100%;
     max-width: 780px;
-    height: 88vh;
-    max-height: 820px;
+    height: calc(100vh - 120px);
+    max-height: 760px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -410,7 +411,8 @@ import Sidebar from '../components/Sidebar.astro';
     .thumb svg{ width: 22px; height: 22px; }
     .thumb i{ font-size: 20px; }
     .headline{ font-size: 14.5px; }
-    .modal{ height: 92vh; border-radius: 0; }
+    .modal-overlay{ padding: 64px 0 0; }
+    .modal{ height: calc(100vh - 64px); max-height: none; border-radius: 0; }
   }
 </style>
 
@@ -436,13 +438,13 @@ import Sidebar from '../components/Sidebar.astro';
   };
 
   const DOMAIN_LABELS: Record<string, string> = {
-    'osen.co.kr': 'OSEN',
     'sportschosun.com': '스포츠조선',
     'mydaily.co.kr': 'MyDaily',
     'spotvnews.co.kr': 'SPOTV NEWS',
     'isplus.com': '일간스포츠',
     'news1.kr': 'news1',
     'newsis.com': 'newsis',
+    'sportsseoul.com': '스포츠서울',
   };
 
   const ICONS: Record<string, string> = {
@@ -457,7 +459,25 @@ import Sidebar from '../components/Sidebar.astro';
   const BREAKING_WINDOW_MS = 30 * 60 * 1000; // 발행 30분 이내면 "속보" 배지
 
   // 실측 결과 아티클 URL 기준으로 iframe이 막히는 도메인 (모달 안에서 표시 불가 → 새 창 안내로 대체)
-  const NO_IFRAME_DOMAINS = new Set<string>(['osen.co.kr']);
+  // osen.co.kr은 화이트리스트에서 완전히 제외했으니 지금은 비어있음. 스포츠서울 등 새로 추가한
+  // 도메인에서 iframe이 안 뜨는 게 확인되면 여기에 도메인만 추가하면 됨.
+  const NO_IFRAME_DOMAINS = new Set<string>([]);
+
+  // 모바일 버전 URL로 변환 (있으면 우측 관련기사 패널 없이 더 깔끔하게 보임) — 관례적인 m. 서브도메인
+  // 패턴이라 도메인별로 실제 존재하는지는 확인이 필요함. 안 되는 도메인이 있으면 이 함수에서
+  // 예외 처리하거나, NO_IFRAME_DOMAINS처럼 별도 제외 목록을 만들면 됨.
+  function toMobileUrl(url: string): string {
+    try {
+      const u = new URL(url);
+      if (!u.hostname.startsWith('m.')) {
+        const bare = u.hostname.replace(/^www\./, '');
+        u.hostname = `m.${bare}`;
+      }
+      return u.toString();
+    } catch {
+      return url;
+    }
+  }
 
   // [사진]/[MD포토] 등 포토캡션 태그 제거 (Worker에서 신규 수집분은 이미 걸러지지만,
   // 필터 적용 전 캐시된 KV 데이터가 남아있을 수 있어 화면단에서도 한 번 더 정리)
@@ -694,7 +714,7 @@ import Sidebar from '../components/Sidebar.astro';
     } else {
       iframeBlockedEl.style.display = 'none';
       modalFrame.style.display = 'block';
-      modalFrame.src = a.url;
+      modalFrame.src = toMobileUrl(a.url);
     }
   }
 
