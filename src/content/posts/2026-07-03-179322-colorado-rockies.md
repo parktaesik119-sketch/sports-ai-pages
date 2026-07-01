@@ -26,4 +26,6 @@ pickHandicapTeam: "마이애미 말린스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "4"
 pickExpectedAway: "7"
+homeLineup: "[\"선발투수 M. Lorenzen (3-9, 6.83) ERA 6.83\"]"
+awayLineup: "[]"
 ---

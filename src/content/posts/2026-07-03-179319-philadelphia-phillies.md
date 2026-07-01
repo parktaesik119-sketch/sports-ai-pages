@@ -26,4 +26,6 @@ pickHandicapTeam: "필라델피아 필리스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "7"
 pickExpectedAway: "5"
+homeLineup: "[\"선발투수 A. Rangel (0-1, 4.50) ERA 4.50\"]"
+awayLineup: "[\"선발투수 J. Jones (1-1, 5.76) ERA 5.76\"]"
 ---

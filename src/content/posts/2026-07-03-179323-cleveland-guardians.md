@@ -26,4 +26,6 @@ pickHandicapTeam: "시카고 화이트삭스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "3"
 pickExpectedAway: "4"
+homeLineup: "[\"선발투수 S. Cecconi (4-6, 4.18) ERA 4.18\"]"
+awayLineup: "[\"선발투수 D. Martin (9-3, 3.00) ERA 3.00\"]"
 ---

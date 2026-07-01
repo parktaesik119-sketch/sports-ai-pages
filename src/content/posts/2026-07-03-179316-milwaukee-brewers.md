@@ -26,4 +26,6 @@ pickHandicapTeam: "밀워키 브루어스"
 pickHandicapValue: "-0.5"
 pickExpectedHome: "4"
 pickExpectedAway: "3"
+homeLineup: "[\"선발투수 J. Misiorowski (9-3, 1.45) ERA 1.45\"]"
+awayLineup: "[\"선발투수 C. Burns (9-1, 2.36) ERA 2.36\"]"
 ---
