@@ -83,7 +83,7 @@ const { currentCategory } = Astro.props;
         <!-- 🔥 PC 메뉴 (그대로 유지) -->
         <nav class="nav">
           <a href="/notice" class={currentPath.startsWith('/notice') || currentCategory === 'notice' ? "active" : ""}>공지사항</a>
-          <a href="/news" class={currentPath.startsWith('/news') || currentCategory === 'news' ? "active" : ""}>스포츠뉴스</a>
+          <a href="/news" class={currentPath.startsWith('/news') || currentCategory === 'news' ? "active" : ""}>뉴스</a>
           <a href="/posts/soccer" class={currentPath.includes("soccer") || currentCategory === 'soccer' ? "active" : ""}>축구</a>
           <a href="/posts/baseball" class={currentPath.includes("baseball") || currentCategory === 'baseball' ? "active" : ""}>야구</a>
           <a href="/posts/basketball" class={currentPath.includes("basketball") || currentCategory === 'basketball' ? "active" : ""}>농구</a>
@@ -128,7 +128,8 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('a[href]').forEach(link => {
     link.addEventListener('click', (e) => {
       const href = link.getAttribute('href');
-      if (href && !href.startsWith('#') && !href.startsWith('javascript') && !e.ctrlKey && !e.metaKey) {
+      const opensNewTab = link.target === '_blank';
+      if (href && !opensNewTab && !href.startsWith('#') && !href.startsWith('javascript') && !e.ctrlKey && !e.metaKey) {
         const spinner = document.getElementById('ph-spinner');
         if (spinner) { spinner.style.opacity = '1'; spinner.style.visibility = 'visible'; spinner.style.pointerEvents = 'auto'; }
       }

@@ -29,6 +29,9 @@ const REQUIRE_PATTERNS = {
   hockey: [/\bNHL\b/i, /\bKHL\b/i],
 };
 
+// ── 포토 캡션성 기사 제외 (같은 사진에 캡션만 바꿔서 여러 건 발행 → 대량 중복 유발) ──
+const PHOTO_TAG_PATTERN = /^\s*\[(사진|포토|MD포토|엑스포츠사진|화보|샷)\]/;
+
 // ── iframe 삽입 가능 확인된 언론사 화이트리스트 ──
 const ALLOWED_DOMAINS = [
   'osen.co.kr', 'sportschosun.com', 'mydaily.co.kr',
@@ -73,6 +76,17 @@ function matchesRequired(sport, title, description) {
   return patterns.some(p => p.test(combined));
 }
 
+function isPhotoCaption(title) {
+  return PHOTO_TAG_PATTERN.test(title);
+}
+
+// 제목 정규화(공백/구두점 제거) — 표현만 살짝 다른 사실상 동일 기사를 잡아내기 위함
+function normalizeTitle(title) {
+  return title
+    .replace(/\s+/g, '')
+    .replace(/['"'',.!?…\-]/g, '');
+}
+
 function sourceDomain(originallink) {
   try {
     return new URL(originallink).hostname.replace(/^www\./, '');
@@ -112,15 +126,19 @@ async function collectSportArticles(sport, env) {
     await sleep(CALL_DELAY_MS);
   }
 
-  // 원문 링크 기준 중복 제거
-  const seen = new Set();
+  // 원문 링크 기준 + 제목 정규화 기준 중복 제거 (같은 회차 수집분 내에서)
+  const seenLinks = new Set();
+  const seenTitles = new Set();
   const deduped = allItems.filter(item => {
-    if (seen.has(item.originallink)) return false;
-    seen.add(item.originallink);
+    if (seenLinks.has(item.originallink)) return false;
+    const normTitle = normalizeTitle(stripHighlightTags(item.title));
+    if (seenTitles.has(normTitle)) return false;
+    seenLinks.add(item.originallink);
+    seenTitles.add(normTitle);
     return true;
   });
 
-  // 화이트리스트 + 노이즈 필터 + 필수패턴 필터
+  // 화이트리스트 + 포토캡션 제외 + 노이즈 필터 + 필수패턴 필터
   return deduped
     .filter(item => isAllowedSource(item.originallink))
     .map(item => ({
@@ -130,6 +148,7 @@ async function collectSportArticles(sport, env) {
       pubDate: item.pubDate,
       source: sourceDomain(item.originallink),
     }))
+    .filter(item => !isPhotoCaption(item.title))
     .filter(item => !isNoisy(sport, item.title, item.description))
     .filter(item => matchesRequired(sport, item.title, item.description));
 }
@@ -159,12 +178,16 @@ async function processSport(sport, env) {
   }
 
   if (newItems.length > 0) {
-    // 기존 인덱스 불러와서 새 기사 앞에 붙이고, 링크 기준 중복 제거 후 개수 제한
+    // 기존 인덱스 불러와서 새 기사 앞에 붙이고, 링크+제목 기준 중복 제거 후 개수 제한
     const existingRaw = await env.NEWS_KV.get(indexKey);
     const existing = existingRaw ? JSON.parse(existingRaw) : [];
 
     const existingLinks = new Set(existing.map(a => a.originallink));
-    const uniqueNew = newItems.filter(a => !existingLinks.has(a.originallink));
+    const existingTitles = new Set(existing.map(a => normalizeTitle(a.title)));
+
+    const uniqueNew = newItems.filter(a =>
+      !existingLinks.has(a.originallink) && !existingTitles.has(normalizeTitle(a.title))
+    );
 
     const merged = [...uniqueNew, ...existing]
       .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))

@@ -38,6 +38,10 @@ import Sidebar from '../components/Sidebar.astro';
       </div>
       <div class="modal-frame-wrap">
         <iframe id="modalFrame" title="원문 기사" loading="lazy"></iframe>
+        <div class="iframe-blocked" id="iframeBlocked">
+          <p>이 언론사는 창 안에서 바로 보여드리기 어려워요.</p>
+          <button id="openExternalBtn" type="button">새 창에서 원문 보기 ↗</button>
+        </div>
       </div>
       <div class="modal-foot">
         <span id="modalSource"></span>
@@ -355,6 +359,29 @@ import Sidebar from '../components/Sidebar.astro';
 
   .modal-frame-wrap{ flex: 1; background: #fff; position: relative; }
   .modal-frame-wrap iframe{ width: 100%; height: 100%; border: 0; display: block; }
+  .iframe-blocked{
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    height: 100%;
+    padding: 20px;
+    text-align: center;
+    color: #555555;
+    font-size: 13.5px;
+  }
+  .iframe-blocked button{
+    font-size: 13.5px;
+    font-weight: 700;
+    padding: 9px 18px;
+    border-radius: 999px;
+    border: none;
+    background: #1D61CF;
+    color: #fff;
+    cursor: pointer;
+  }
+  .iframe-blocked button:hover{ background: #164ea8; }
 
   .modal-foot{
     padding: 10px 16px;
@@ -429,6 +456,16 @@ import Sidebar from '../components/Sidebar.astro';
 
   const BREAKING_WINDOW_MS = 30 * 60 * 1000; // 발행 30분 이내면 "속보" 배지
 
+  // 실측 결과 아티클 URL 기준으로 iframe이 막히는 도메인 (모달 안에서 표시 불가 → 새 창 안내로 대체)
+  const NO_IFRAME_DOMAINS = new Set<string>(['osen.co.kr']);
+
+  // [사진]/[MD포토] 등 포토캡션 태그 제거 (Worker에서 신규 수집분은 이미 걸러지지만,
+  // 필터 적용 전 캐시된 KV 데이터가 남아있을 수 있어 화면단에서도 한 번 더 정리)
+  const PHOTO_TAG_PATTERN = /^\s*\[(사진|포토|MD포토|엑스포츠사진|화보|샷)\]\s*/;
+  function cleanTitle(title: string): string {
+    return title.replace(PHOTO_TAG_PATTERN, '').trim();
+  }
+
   function timeAgo(pubDate: string): string {
     const diffMs = Date.now() - new Date(pubDate).getTime();
     const min = Math.floor(diffMs / 60000);
@@ -447,11 +484,16 @@ import Sidebar from '../components/Sidebar.astro';
     headline: string;
     summary: string;
     source: string;
+    domain: string;
     url: string;
     pubDate: string;
     time: string;
     breaking: boolean;
   };
+
+  function normalizeTitleClient(t: string): string {
+    return t.replace(/\s+/g, '').replace(/['"'',.!?…\-]/g, '');
+  }
 
   function flatten(data: { articles: Record<string, any[]> }): Article[] {
     const out: Article[] = [];
@@ -461,9 +503,10 @@ import Sidebar from '../components/Sidebar.astro';
           id: a.originallink,
           sport,
           sportLabel: SPORT_LABEL[sport] || sport,
-          headline: a.title,
+          headline: cleanTitle(a.title),
           summary: a.description,
           source: DOMAIN_LABELS[a.source] || a.source,
+          domain: a.source,
           url: a.originallink,
           pubDate: a.pubDate,
           time: timeAgo(a.pubDate),
@@ -471,7 +514,18 @@ import Sidebar from '../components/Sidebar.astro';
         });
       }
     }
-    return out.sort((x, y) => new Date(y.pubDate).getTime() - new Date(x.pubDate).getTime());
+    const sorted = out.sort((x, y) => new Date(y.pubDate).getTime() - new Date(x.pubDate).getTime());
+
+    // 이미 KV에 캐시된 중복(제목만 살짝 다른 것 포함)이 남아있을 수 있어 화면단에서도 한 번 더 정리
+    const seenLinks = new Set<string>();
+    const seenTitles = new Set<string>();
+    return sorted.filter(a => {
+      const key = normalizeTitleClient(a.headline);
+      if (seenLinks.has(a.id) || seenTitles.has(key)) return false;
+      seenLinks.add(a.id);
+      seenTitles.add(key);
+      return true;
+    });
   }
 
   // ============================================================
@@ -620,6 +674,8 @@ import Sidebar from '../components/Sidebar.astro';
   const modalSource = document.getElementById('modalSource')!;
   const modalOpenExternal = document.getElementById('modalOpenExternal') as HTMLAnchorElement;
   const modalClose = document.getElementById('modalClose')!;
+  const iframeBlockedEl = document.getElementById('iframeBlocked')!;
+  const openExternalBtn = document.getElementById('openExternalBtn')!;
 
   function openModal(id: string){
     const a = ARTICLES.find(x => x.id === id);
@@ -627,14 +683,25 @@ import Sidebar from '../components/Sidebar.astro';
     modalTitle.textContent = a.headline;
     modalSource.textContent = `${a.source} 원문`;
     modalOpenExternal.href = a.url;
-    modalFrame.src = a.url;
     overlay.classList.add('open');
     document.body.style.overflow = 'hidden';
+
+    if (NO_IFRAME_DOMAINS.has(a.domain)) {
+      modalFrame.style.display = 'none';
+      modalFrame.src = '';
+      iframeBlockedEl.style.display = 'flex';
+      openExternalBtn.onclick = () => window.open(a.url, '_blank', 'noopener');
+    } else {
+      iframeBlockedEl.style.display = 'none';
+      modalFrame.style.display = 'block';
+      modalFrame.src = a.url;
+    }
   }
 
   function closeModal(){
     overlay.classList.remove('open');
     modalFrame.src = '';
+    iframeBlockedEl.style.display = 'none';
     document.body.style.overflow = '';
   }
 
