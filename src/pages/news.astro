@@ -463,16 +463,24 @@ import Sidebar from '../components/Sidebar.astro';
   // 도메인에서 iframe이 안 뜨는 게 확인되면 여기에 도메인만 추가하면 됨.
   const NO_IFRAME_DOMAINS = new Set<string>([]);
 
-  // 모바일 버전 URL로 변환 (있으면 우측 관련기사 패널 없이 더 깔끔하게 보임) — 관례적인 m. 서브도메인
-  // 패턴이라 도메인별로 실제 존재하는지는 확인이 필요함. 안 되는 도메인이 있으면 이 함수에서
-  // 예외 처리하거나, NO_IFRAME_DOMAINS처럼 별도 제외 목록을 만들면 됨.
-  function toMobileUrl(url: string): string {
+  // m. 서브도메인이 실제로 안정적으로 동작하는 것으로 확인된 도메인만 여기 등록.
+  // (뉴시스/news1은 실측으로 m. 정상 동작 확인. 스포츠조선/일간스포츠는 m. 서브도메인이
+  //  없거나 경로 구조가 달라 404/DNS 실패했으므로 원문 주소를 그대로 사용해야 함.)
+  const MOBILE_DOMAINS = new Set(['newsis.com', 'news1.kr']);
+
+  function toIframeUrl(url: string): string {
     try {
       const u = new URL(url);
-      if (!u.hostname.startsWith('m.')) {
-        const bare = u.hostname.replace(/^www\./, '');
+
+      // http로 내려오는 링크(OSEN 등)를 https 페이지에 iframe으로 넣으면
+      // 브라우저가 혼합 콘텐츠로 판단해 에러 없이 조용히 빈 화면을 띄우는 경우가 있어 강제 업그레이드
+      if (u.protocol === 'http:') u.protocol = 'https:';
+
+      const bare = u.hostname.replace(/^www\./, '').replace(/^m\./, '');
+      if (MOBILE_DOMAINS.has(bare)) {
         u.hostname = `m.${bare}`;
       }
+      // 화이트리스트 안의 다른 도메인은 원문 링크의 호스트를 그대로 사용 (테스트로 검증된 형태)
       return u.toString();
     } catch {
       return url;
@@ -714,7 +722,7 @@ import Sidebar from '../components/Sidebar.astro';
     } else {
       iframeBlockedEl.style.display = 'none';
       modalFrame.style.display = 'block';
-      modalFrame.src = toMobileUrl(a.url);
+      modalFrame.src = toIframeUrl(a.url);
     }
   }
 
