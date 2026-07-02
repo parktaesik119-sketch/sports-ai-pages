@@ -26,4 +26,6 @@ pickHandicapTeam: "탬파베이 레이스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "5"
 pickExpectedAway: "7"
+homeLineup: "[\"선발투수 S. Kolek (4-2, 4.15) ERA 4.15\"]"
+awayLineup: "[\"선발투수 I. Seymour (4-1, 4.32) ERA 4.32\"]"
 ---
