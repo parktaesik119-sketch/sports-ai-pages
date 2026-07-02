@@ -1350,6 +1350,31 @@ const winnerIsHome = homeNames.some(n =>
     }
   }
 
+  // 5-1. 언더오버 산출 (농구/야구 전용): 예상 합산 점수를 기준으로 라인/방향 결정
+  const OU_SPORTS = ['basketball', 'baseball'];
+  let finalOuValue = '';
+  let finalOuDirection = '';
+
+  if (OU_SPORTS.includes(cat) && expectedScores && finalExpectedHome && finalExpectedAway) {
+    const roundedTotal = parseInt(finalExpectedHome) + parseInt(finalExpectedAway);
+    const avgTotal = (expectedScores.homeAvg ?? 0) + (expectedScores.awayAvg ?? 0);
+
+    // 반올림 전 평균 합산이 반올림된 최종 예상치보다 크면 '오버' 쪽 흐름으로 판단
+    finalOuDirection = avgTotal >= roundedTotal ? '오버' : '언더';
+
+    let ouLine = finalOuDirection === '오버' ? roundedTotal - 0.5 : roundedTotal + 0.5;
+
+    // 종목별 현실적인 범위로 clamp (calcOuValue와 동일 기준)
+    if (cat === 'basketball') ouLine = Math.min(215.5, Math.max(155.5, ouLine));
+    if (cat === 'baseball')   ouLine = Math.min(15.5, Math.max(4.5, ouLine));
+
+    finalOuValue = ouLine.toFixed(1);
+
+    // 언더오버로 표기하는 종목은 예상 스코어(홈:원정) 위젯을 노출하지 않음
+    finalExpectedHome = '';
+    finalExpectedAway = '';
+  }
+
   // 6. 팀명 일괄 치환 함수
   const replaceTeamNames = (text) => {
     if (!text) return '';
@@ -1475,6 +1500,8 @@ pickHandicapTeam: "${finalPickHandicapTeamKor}"
 pickHandicapValue: "${finalHandicapValue}"
 pickExpectedHome: "${finalExpectedHome}"
 pickExpectedAway: "${finalExpectedAway}"
+pickOuValue: "${finalOuValue}"
+pickOuDirection: "${finalOuDirection}"
 ---
 `;
 
