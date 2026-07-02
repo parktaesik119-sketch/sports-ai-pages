@@ -21,6 +21,9 @@ jobs:
       - name: Run lineup update script
         run: node scripts/espn-boxscore-update.js
 
+      - name: Run KBO lineup update script
+        run: node scripts/kbo-lineup-update.js
+
       - name: Commit and push lineup updates
         run: |
           git config user.name "github-actions[bot]"

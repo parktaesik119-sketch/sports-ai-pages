@@ -321,6 +321,20 @@ async function analyzeMatches() {
       console.log(`📊 [ESPN 컨텍스트] ${espnContextList.length}건 로드됨`);
     }
 
+    // KBO 컨텍스트 로드 (fetch-kbo-context.js가 미리 생성) — ESPN이 커버 못하는 KBO 전용
+    // fetch-kbo-context.js가 match.home/away를 원문 그대로 저장하므로 정확 일치로 매칭 가능
+    const kboContextPath = path.resolve(__dirname, `../database/kbo-context-${today}.json`);
+    const kboContextList = fs.existsSync(kboContextPath)
+      ? JSON.parse(fs.readFileSync(kboContextPath, 'utf8'))
+      : [];
+    if (kboContextList.length > 0) {
+      console.log(`⚾ [KBO 컨텍스트] ${kboContextList.length}건 로드됨`);
+    }
+
+    function findKboContext(match) {
+      return kboContextList.find(k => k.home === match.home && k.away === match.away) || null;
+    }
+
     function findEspnContext(match) {
       const candidates = espnContextList.filter(e =>
         (matchTeam(e.home, match.home) && matchTeam(e.away, match.away)) ||
@@ -708,6 +722,9 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   // ESPN 결장자/순위/H2H 컨텍스트 매칭 (calcExpectedScores가 h2hHistory를 쓰기 전에 먼저 해야 함)
   const espnInfo = findEspnContext(match);
 
+  // KBO 전용 컨텍스트 매칭 (선발투수분석/구종분석/라인업). ESPN이 KBO를 커버하지 않으므로 별도 처리.
+  const kboInfo = cat === 'baseball' ? findKboContext(match) : null;
+
   // ESPN H2H가 있으면 기존 all-fixtures 기반 h2hContextForAI/h2hContent/h2hHistory를 덮어쓴다.
   // (all-fixtures는 2026년 4월부터 수집 중이라 시즌 초반/월드컵 등은 데이터가 부족함 — ESPN을 우선시)
   // 두 소스(all-fixtures, ESPN) 모두 {date, home, away, homeScore, awayScore} 동일 구조라
@@ -963,10 +980,40 @@ const awayStandingText = espnInfo ? formatStanding(espnInfo.standings?.away) : n
 const hasEspnInjuryData = !!(homeInjuryText || awayInjuryText);
 const hasEspnAnyData = hasEspnInjuryData || homeStandingText || awayStandingText;
 
+// ─────────────────────────────────────────────
+// KBO 전용 데이터 포맷 (fetch-kbo-context.js가 수집한 선발투수분석/구종분석/라인업)
+// ESPN이 KBO를 커버하지 않으므로 별도 데이터 블록으로 구성한다.
+// searchOrEspnInstruction이 hasKboData를 참조하므로 그보다 먼저 계산해둔다.
+// ─────────────────────────────────────────────
+function formatKboPitcher(p) {
+  if (!p) return null;
+  return `${p.name} (ERA ${p.era}, WAR ${p.war}, ${p.games}경기, 선발평균 ${p.inningsPerStart}이닝, QS ${p.qs}, WHIP ${p.whip})`;
+}
+function formatKboPitchKind(p) {
+  if (!p?.pitches?.length) return null;
+  return p.pitches.map(pt => `${pt.type} ${pt.usageRate}(${pt.avgSpeed})`).join(', ');
+}
+function formatKboLineup(team) {
+  if (!team?.lineup?.length) return null;
+  return team.lineup.map(b => `${b.order}번 ${b.position} ${b.name}(WAR ${b.war})`).join(', ');
+}
+
+const kboHomePitcherText   = kboInfo?.pitcherRecord ? formatKboPitcher(kboInfo.pitcherRecord.home) : null;
+const kboAwayPitcherText   = kboInfo?.pitcherRecord ? formatKboPitcher(kboInfo.pitcherRecord.away) : null;
+const kboHomePitchKindText = kboInfo?.pitKind ? formatKboPitchKind(kboInfo.pitKind.home) : null;
+const kboAwayPitchKindText = kboInfo?.pitKind ? formatKboPitchKind(kboInfo.pitKind.away) : null;
+const kboHomeLineupText    = kboInfo?.lineup ? formatKboLineup(kboInfo.lineup.home) : null;
+const kboAwayLineupText    = kboInfo?.lineup ? formatKboLineup(kboInfo.lineup.away) : null;
+const kboLineupStatusText  = kboInfo?.lineup ? (kboInfo.lineup.lineupConfirmed ? '확정 라인업' : '예상 라인업') : null;
+
+const hasKboData = !!(kboHomePitcherText || kboAwayPitcherText || kboHomeLineupText || kboAwayLineupText);
+
 // ESPN 데이터가 있으면 web_search 지시 대신 ESPN 데이터를 그대로 사용.
 // ESPN 매칭이 안 된 경기(리그 미지원 포함)는 기존 web_search 방식 그대로 유지.
 const searchOrEspnInstruction = hasEspnAnyData
   ? `아래 [ESPN 공식 데이터]를 결장자/순위 정보의 근거로 그대로 사용하라. 이 경기는 ESPN 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [ESPN 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
+  : hasKboData
+  ? `아래 [KBO 공식 데이터]를 선발투수/구종/라인업/순위 정보의 근거로 그대로 사용하라. 이 경기는 KBO 공식 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 KBO 데이터에 결장자 목록이 없으므로 "없음"으로 표기하라.`
   : `지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.\n\n검색 1: "${match.home} ${match.away} injury report 2026"\n\n검색 완료 후 아래 정보를 참고하여 분석을 작성하라.`;
 
 // 월드컵/올림픽 등 조별리그 방식 대회는 ESPN standings의 rank가 "전체 리그 순위"가 아니라
@@ -983,10 +1030,35 @@ const espnDataBlock = hasEspnAnyData ? `
 [ESPN 데이터 활용 가이드]
 ${(homeStandingText || awayStandingText) ? `- 분석 본문에서 순위 데이터를 언급할 때는 반드시 "${standingTermKo}"라는 표현을 사용하라 (예: "현재 ${standingTermKo} 3위"). "전체 순위", "랭킹" 등 다른 표현으로 바꾸지 마라.\n` : ''}${hasEspnInjuryData ? '- 결장자 이름 옆 [주요]/[경미] 태그를 분석 비중에 그대로 반영하라. [주요](15일 이상 장기 결장)는 전력분석에서 비중 있게 다루고, [경미](Day-To-Day 등 단기)는 가볍게 언급하거나 생략해도 된다. 둘을 동일 비중으로 다루지 마라. 태그 표기([주요]/[경미]) 자체는 분석 본문에 그대로 노출하지 말고, 비중 조절 용도로만 참고하라.\n' : ''}${(homeStandingText || awayStandingText) ? `- ${standingTermKo}와 [홈팀/원정팀 최근 경기 DB]의 최근 흐름을 반드시 교차 비교하라. 순위는 낮은데 최근 흐름이 좋으면 "반등 조짐"으로, 순위는 높은데 최근 흐름이 나쁘면 "고점 대비 주춤"으로 서술하는 등 두 정보를 연결해서 서사를 만들어라. 순위와 최근 폼을 따로따로만 언급하지 마라.\n` : ''}${(homeStandingText || awayStandingText) ? '- 득실 수치(괄호 안 +/- 값)는 단순 전적보다 실제 득점력-실점력 격차를 보여주는 지표다. 핸디캡/언더오버 근거를 보강할 때 활용하라.\n' : ''}` : '';
 
+// KBO 순위 텍스트는 standingTermKo 정의 이후에 계산
+const kboHomeStandingText  = kboInfo?.standings?.home != null ? `${kboInfo.standings.home}위` : null;
+const kboAwayStandingText  = kboInfo?.standings?.away != null ? `${kboInfo.standings.away}위` : null;
+
+const kboDataBlock = hasKboData ? `
+[KBO 공식 데이터 - 선발투수 분석/구종분석/라인업(${kboLineupStatusText || '정보 없음'}). koreabaseball.com 공식 1차 데이터이므로 우선 사용하라]
+- 홈팀(${aiHomeName}) 선발: ${kboHomePitcherText || '정보 없음'}
+- 원정팀(${aiAwayName}) 선발: ${kboAwayPitcherText || '정보 없음'}
+- 홈팀 선발 주요 구종: ${kboHomePitchKindText || '정보 없음'}
+- 원정팀 선발 주요 구종: ${kboAwayPitchKindText || '정보 없음'}
+- 홈팀 ${standingTermKo}: ${kboHomeStandingText || '정보 없음'}
+- 원정팀 ${standingTermKo}: ${kboAwayStandingText || '정보 없음'}
+- 홈팀 라인업(${kboLineupStatusText || '정보 없음'}): ${kboHomeLineupText || '정보 없음'}
+- 원정팀 라인업(${kboLineupStatusText || '정보 없음'}): ${kboAwayLineupText || '정보 없음'}
+
+[KBO 데이터 활용 가이드]
+- 선발투수 ERA/WAR/QS/WHIP 수치를 근거로 양 선발투수의 우열을 분석 본문에 명시하라.
+- 구종 데이터가 있으면 주무기 구종과 평균구속을 언급해 투수 스타일을 설명하라.
+- 라인업이 "확정 라인업"이면 분석 신뢰도를 높여 단정적으로 서술하고, "예상 라인업"이면 변동 가능성이 있다는 점을 짧게 언급하라.
+- 타순별 WAR 수치를 활용해 상/하위 타선의 파괴력 차이를 비교 분석에 반영하라.
+` : '';
+
+
+
 
 const matchDataPrompt = `
 ${searchOrEspnInstruction}
 ${espnDataBlock}
+${kboDataBlock}
 [경기 정보]
 - 종목: ${cat} ${gameContext}
 - 홈팀: ${aiHomeName} (DB 원문: ${match.home})
