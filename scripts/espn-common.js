@@ -85,11 +85,25 @@ export function detectEspnSport(category, league, country) {
 // ─────────────────────────────────────────────
 // 팀명 정규화/매칭
 // ─────────────────────────────────────────────
+
+// ESPN이 DB(api-sports 등)와 다르게 표기하는 국가대표팀 별칭.
+// key/value 모두 normalize()를 거친 형태(소문자, 특수문자 제거)로 비교하므로
+// 원문 그대로 적어두면 됨. 한쪽 표기만 알아도 다른 쪽과 매칭되도록
+// 자주 갈리는 케이스를 하나의 표준형으로 모아준다.
+const NATION_ALIASES = {
+  usa: 'unitedstates',
+  unitedstates: 'unitedstates',
+  southkorea: 'korearepublic',
+  korea: 'korearepublic',
+  korearepublic: 'korearepublic',
+};
+
 export function normalize(str) {
   return (str || '').toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 export function normalizeTeamForMatch(str) {
-  return normalize(String(str).replace(/\s+W$/i, ''));
+  const n = normalize(String(str).replace(/\s+W$/i, ''));
+  return NATION_ALIASES[n] || n;
 }
 export function matchTeam(espnName, dbName) {
   const en = normalizeTeamForMatch(espnName);

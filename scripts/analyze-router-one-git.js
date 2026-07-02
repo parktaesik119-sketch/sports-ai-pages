@@ -1048,7 +1048,7 @@ ${matchDataPrompt}
       response.output_text || "";
 
     if (aiResponse.length > 500) {
-      const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory);
+      const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores);
       if (saved) {
         console.log(`✅ Router One 성공 (${attempt}차 시도): ${match.home} vs ${match.away}`);
         success = true;
@@ -1070,7 +1070,7 @@ ${matchDataPrompt}
 if (success) {
   await new Promise(res => setTimeout(res, 6000));
 } else {
-  retryQueue.push({ match, dateShort, cat, dateOnly, savePath, h2hContent, homeRecentMatches, awayRecentMatches });
+  retryQueue.push({ match, dateShort, cat, dateOnly, savePath, h2hContent, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores });
   console.warn(`🕐 [재시도 큐 등록] ${match.home} vs ${match.away} (현재 ${retryQueue.length}건)`);
 }
 } // else (cat 판별) 닫기
@@ -1086,7 +1086,7 @@ async function analyzeMatchesRetry() {
   await new Promise(res => setTimeout(res, 10000));
 
   for (const item of retryQueue) {
-    const { match, dateShort, cat, dateOnly, savePath, h2hContent } = item;
+    const { match, dateShort, cat, dateOnly, savePath, h2hContent, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores } = item;
     const aiHomeName = TEAM_NAME_MAP[match.home] || match.home;
     const aiAwayName = TEAM_NAME_MAP[match.away] || match.away;
     const gameContext = cat === 'lol' ? "이 경기는 '리그오브레전드(롤)' 이스포츠 경기다." : "";
@@ -1106,10 +1106,10 @@ async function analyzeMatchesRetry() {
 이전 응답이 유효하지 않아 재분석합니다. 반드시 아래 형식 그대로 모든 키를 출력하세요.
 
 ${gameContext}
-- 홈팀: ${aihomename}
-- 원정팀: ${aiawayname}
+- 홈팀: ${aiHomeName}
+- 원정팀: ${aiAwayName}
 - 리그: ${match.league}
-- ${retrySportPickRule}
+- ${sportPickRule}
 `;
 
     try {
@@ -1136,7 +1136,7 @@ ${retryPrompt}
         retryResponse.output_text || "";
 
       if (aiResponse.length > 1200) {
-        const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory);
+        const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores);
         if (saved) {
           console.log(`✅ [재분석 성공] ${match.home} vs ${match.away}`);
         } else {
@@ -1158,7 +1158,7 @@ ${retryPrompt}
   console.log(`✅ [재분석 완료] ${retryQueue.length}건 처리 종료`);
 }
 
-async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches = [], awayRecentMatches = [], h2hHistory = []) {
+async function savePost(savePath, aiText, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches = [], awayRecentMatches = [], h2hHistory = [], expectedScores = null) {
 
   // [검증 1] 데이터 타입 확인
   if (typeof aiText !== 'string' || !aiText || aiText.length < 10) {
