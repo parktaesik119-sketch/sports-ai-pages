@@ -335,6 +335,19 @@ async function analyzeMatches() {
       return kboContextList.find(k => k.home === match.home && k.away === match.away) || null;
     }
 
+    // NPB 컨텍스트 로드 (fetch-npb-context.js가 미리 생성) — 선발투수만 제공 (NPB는 라인업 사전공개가 없음)
+    const npbContextPath = path.resolve(__dirname, `../database/npb-context-${today}.json`);
+    const npbContextList = fs.existsSync(npbContextPath)
+      ? JSON.parse(fs.readFileSync(npbContextPath, 'utf8'))
+      : [];
+    if (npbContextList.length > 0) {
+      console.log(`⚾ [NPB 컨텍스트] ${npbContextList.length}건 로드됨`);
+    }
+
+    function findNpbContext(match) {
+      return npbContextList.find(n => n.home === match.home && n.away === match.away) || null;
+    }
+
     function findEspnContext(match) {
       const candidates = espnContextList.filter(e =>
         (matchTeam(e.home, match.home) && matchTeam(e.away, match.away)) ||
@@ -725,6 +738,9 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   // KBO 전용 컨텍스트 매칭 (선발투수분석/구종분석/라인업). ESPN이 KBO를 커버하지 않으므로 별도 처리.
   const kboInfo = cat === 'baseball' ? findKboContext(match) : null;
 
+  // NPB 전용 컨텍스트 매칭 (예고선발투수만 제공)
+  const npbInfo = cat === 'baseball' ? findNpbContext(match) : null;
+
   // ESPN H2H가 있으면 기존 all-fixtures 기반 h2hContextForAI/h2hContent/h2hHistory를 덮어쓴다.
   // (all-fixtures는 2026년 4월부터 수집 중이라 시즌 초반/월드컵 등은 데이터가 부족함 — ESPN을 우선시)
   // 두 소스(all-fixtures, ESPN) 모두 {date, home, away, homeScore, awayScore} 동일 구조라
@@ -1008,12 +1024,28 @@ const kboLineupStatusText  = kboInfo?.lineup ? (kboInfo.lineup.lineupConfirmed ?
 
 const hasKboData = !!(kboHomePitcherText || kboAwayPitcherText || kboHomeLineupText || kboAwayLineupText);
 
+// ─────────────────────────────────────────────
+// NPB 전용 데이터 포맷 (fetch-npb-context.js가 수집한 예고선발투수)
+// NPB는 라인업 사전공개가 없어 선발투수 정보만 제공한다.
+// ─────────────────────────────────────────────
+function formatNpbStarter(p) {
+  if (!p?.name) return null;
+  return p.name;
+}
+
+const npbHomeStarterText = npbInfo?.starters ? formatNpbStarter(npbInfo.starters.home) : null;
+const npbAwayStarterText = npbInfo?.starters ? formatNpbStarter(npbInfo.starters.away) : null;
+
+const hasNpbData = !!(npbHomeStarterText || npbAwayStarterText);
+
 // ESPN 데이터가 있으면 web_search 지시 대신 ESPN 데이터를 그대로 사용.
 // ESPN 매칭이 안 된 경기(리그 미지원 포함)는 기존 web_search 방식 그대로 유지.
 const searchOrEspnInstruction = hasEspnAnyData
   ? `아래 [ESPN 공식 데이터]를 결장자/순위 정보의 근거로 그대로 사용하라. 이 경기는 ESPN 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [ESPN 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
   : hasKboData
   ? `아래 [KBO 공식 데이터]를 선발투수/구종/라인업/순위 정보의 근거로 그대로 사용하라. 이 경기는 KBO 공식 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 KBO 데이터에 결장자 목록이 없으므로 "없음"으로 표기하라.`
+  : hasNpbData
+  ? `아래 [NPB 공식 데이터]의 예고선발투수 정보를 그대로 사용하라. 이 경기는 NPB 공식 예고선발 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. 단, NPB 데이터는 선발투수 이름만 제공하므로 결장자/부상자 정보(INJURY_HOME/INJURY_AWAY)와 선발투수의 상세 기록(ERA 등)은 web_search로 "${match.home} ${match.away} starting pitcher injury 2026"를 검색해서 보강하라.`
   : `지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.\n\n검색 1: "${match.home} ${match.away} injury report 2026"\n\n검색 완료 후 아래 정보를 참고하여 분석을 작성하라.`;
 
 // 월드컵/올림픽 등 조별리그 방식 대회는 ESPN standings의 rank가 "전체 리그 순위"가 아니라
@@ -1052,6 +1084,16 @@ const kboDataBlock = hasKboData ? `
 - 타순별 WAR 수치를 활용해 상/하위 타선의 파괴력 차이를 비교 분석에 반영하라.
 ` : '';
 
+const npbDataBlock = hasNpbData ? `
+[NPB 공식 데이터 - 예고선발투수(前日 発表). npb.jp 공식 데이터이므로 선발투수 이름은 이 데이터를 우선 사용하라. 단 결장자/부상자와 선발투수 상세 기록은 별도 web_search로 보강해야 함]
+- 홈팀(${aiHomeName}) 예고선발: ${npbHomeStarterText || '정보 없음'}
+- 원정팀(${aiAwayName}) 예고선발: ${npbAwayStarterText || '정보 없음'}
+
+[NPB 데이터 활용 가이드]
+- 위 예고선발투수 이름을 그대로 사용하고, web_search로 각 투수의 최근 시즌 성적(ERA, 승패, 최근 등판 결과 등)을 찾아 분석에 반영하라.
+- 예고선발은 부상 등 예외 상황이 아니면 변경되지 않으므로, 신뢰도 높은 정보로 취급해 분석 본문에 단정적으로 서술하라.
+` : '';
+
 
 
 
@@ -1059,6 +1101,7 @@ const matchDataPrompt = `
 ${searchOrEspnInstruction}
 ${espnDataBlock}
 ${kboDataBlock}
+${npbDataBlock}
 [경기 정보]
 - 종목: ${cat} ${gameContext}
 - 홈팀: ${aiHomeName} (DB 원문: ${match.home})

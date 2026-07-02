@@ -14,8 +14,6 @@ import Sidebar from '../components/Sidebar.astro';
     </div>
 
     <main class="content-area">
-      <p class="notice">헤드라인을 클릭하면 이 창 안에서 <b>원문 기사</b>를 바로 볼 수 있어요</p>
-
       <section class="board-card">
         <div class="board-card-header">
           <span class="header-icon" aria-hidden="true"><i class="ti ti-news"></i></span>
@@ -27,6 +25,8 @@ import Sidebar from '../components/Sidebar.astro';
 
         <div class="board" id="board"></div>
       </section>
+
+      <p class="notice">헤드라인을 클릭하면 창 안에서 <b>원문 기사</b>를 바로 볼 수 있어요</p>
     </main>
   </div>
 
@@ -74,7 +74,7 @@ import Sidebar from '../components/Sidebar.astro';
   }
 
   .notice{
-    margin: 0 0 16px;
+    margin: 16px 0 0;
     font-size: 12.5px;
     color: #555555;
     text-align: center;
