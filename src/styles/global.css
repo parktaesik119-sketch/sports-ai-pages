@@ -500,6 +500,11 @@ body {
   background-image: url('/icons/megaphone.png');
 }
 
+/* 📰 스포츠뉴스 */
+.menu.news::before {
+  background-image: url('/icons/news.png');
+}
+
 /* 🔥 리스트 hover */
 .board-list li {
   transition: all 0.15s ease;
