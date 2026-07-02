@@ -26,6 +26,6 @@ pickHandicapTeam: "필라델피아 필리스"
 pickHandicapValue: "-1.5"
 pickExpectedHome: "7"
 pickExpectedAway: "5"
-homeLineup: "[\"선발투수 A. Rangel (0-1, 4.50) ERA 4.50\"]"
+homeLineup: "[\"선발투수 A. Rangel (0-1, 4.50) ERA 4.50\",\"1번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"2번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"3번 B. Harper (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 B. Marsh (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40803.png\",\"5번 A. Bohm (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"6번 B. Stott (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"7번 G. Rincones Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5131884.png\",\"8번 J. Crawford (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080642.png\",\"9번 R. Marchan (C)|https://a.espncdn.com/i/headshots/mlb/players/full/40816.png\"]"
 awayLineup: "[\"선발투수 J. Jones (1-1, 5.76) ERA 5.76\"]"
 ---
