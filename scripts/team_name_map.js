@@ -411,7 +411,6 @@ const TEAM_NAME_MAP = {
   "LG Twins": "LG 트윈스",
   "Lotte Giants": "롯데 자이언츠",
   "NC Dinos": "NC 다이노스",
-  "Rakuten Gold. Eagles": "롯데 자이언츠",  // 확인 필요
   "SSG Landers": "SSG 랜더스",
   "Samsung Lions": "삼성 라이온스",
 
@@ -1312,6 +1311,7 @@ const TEAM_NAME_MAP = {
   "Hangzhou Greentown": "저장 뤼청",
   "Dalian Zhixing": "다롄 잉보 FC",
   "Shanghai Shenhua": "상하이 선화",
+  "Yunnan Yukun": "윈난 유쿤",
 
 };
 
