@@ -72,7 +72,13 @@ async function fetchEnglishPlayerStats(playerId) {
     try {
       const currentYear = String(new Date().getFullYear());
       const pitchingSectionMatch = html.match(/Pitching Stats([\s\S]*?)(Batting Stats|$)/i);
-      const section = pitchingSectionMatch ? pitchingSectionMatch[1] : html;
+      let section = pitchingSectionMatch ? pitchingSectionMatch[1] : html;
+
+      // ⚠️ IP(이닝) 칸 안에 <table class="table_inning">가 통째로 중첩돼 있어서,
+      //    이걸 먼저 제거하지 않으면 시즌 행의 <tr>...</tr> 매칭이 이 안쪽 표의
+      //    </tr>에서 먼저 끊겨버려 뒤쪽 ERA 칸까지 못 읽음 (실측으로 확인된 원인).
+      //    td 자체는 남기고 내용물만 비워서 컬럼 개수/순서는 그대로 유지.
+      section = section.replace(/<table class="table_inning">[\s\S]*?<\/table>/gi, '');
 
       const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
       let rowMatch;
