@@ -10,9 +10,16 @@ export const SPORT_LABEL_KO = {
 };
 
 export function parseFrontmatterField(content, field) {
-  const re = new RegExp(`^${field}:\\s*"([^"]*)"`, 'm');
-  const match = content.match(re);
-  return match ? match[1] : null;
+  // 대부분 필드는 "값" 형태로 따옴표가 있지만, date 필드는 예외적으로
+  // 따옴표 없이 저장됨 (예: date: 2026-07-03T09:00:00+00:00).
+  // 따옴표 있는 값을 먼저 시도하고, 없으면 줄 끝까지를 값으로 취급.
+  const quotedRe = new RegExp(`^${field}:\\s*"([^"]*)"`, 'm');
+  const quotedMatch = content.match(quotedRe);
+  if (quotedMatch) return quotedMatch[1];
+
+  const bareRe = new RegExp(`^${field}:\\s*(.+?)\\s*$`, 'm');
+  const bareMatch = content.match(bareRe);
+  return bareMatch ? bareMatch[1] : null;
 }
 
 // "2026-07-02T09:30:00+00:00" → "26.07.02"
