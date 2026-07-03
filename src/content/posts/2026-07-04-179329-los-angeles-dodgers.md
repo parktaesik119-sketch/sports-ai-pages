@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 S. Ohtani (8-2, 1.58) ERA 1.58|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\"]"
+homeLineup: "[\"선발투수 S. Ohtani (8-2, 1.58) ERA 1.58|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\",\"2번 A. Pages (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42468.png\",\"3번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"4번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"5번 M. Muncy (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33303.png\",\"6번 K. Tucker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34967.png\",\"7번 T. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"8번 D. Rushing (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4619839.png\",\"9번 A. Freeland (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4727589.png\"]"
 awayLineup: "[\"선발투수 M. King (5-7, 3.55) ERA 3.55|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
 ---
