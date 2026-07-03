@@ -203,19 +203,9 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
   return { homeScore, awayScore, homeAvg: parseFloat(homeAvg.toFixed(2)), awayAvg: parseFloat(awayAvg.toFixed(2)) };
 }
 
-// 핸디캡 제약 계산용 합산 총점 (기존 calcOuValue 역할 유지)
-function calcOuValue(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches = []) {
-  const result = calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches);
-  if (!result) return null;
-  const raw = result.homeScore + result.awayScore;
-  if (cat === 'basketball') {
-    return Math.min(215.5, Math.max(155.5, raw)).toFixed(1);
-  } else if (cat === 'baseball') {
-    return Math.min(15.5, Math.max(4.5, raw)).toFixed(1);
-  } else {
-    return String(raw);
-  }
-}
+// (참고: 예전엔 여기에 calcOuValue()라는 별도 함수가 있었는데, 계산 결과를
+//  어디에서도 안 써서(로그도 안 찍고 프롬프트에도 안 넣고) 죽은 코드였음 - 제거함.
+//  실제 O/U 범위 제한은 finalOuValue 계산부의 clamp 한 줄이 유일하게 유효함)
 
 // 예상스코어 기반 핸디캡 자동 산출 함수
 // expectedScores: { homeScore, awayScore } 또는 null
@@ -944,10 +934,8 @@ const expectedScores = (cat !== 'lol')
 console.log(`📊 [Avg] ${match.home} vs ${match.away} | ${avgInfo} | homeScore: ${expectedScores.homeScore} / awayScore: ${expectedScores.awayScore}`);
 }
 
-// JS로 OU 합산 계산 (핸디캡 제약용, 롤/배구 제외)
-const computedOuValue = (cat !== 'lol' && cat !== 'volleyball')
-  ? calcOuValue(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, h2hHistory)
-  : null;
+// (참고: 예전엔 여기서 calcOuValue()를 호출해 computedOuValue에 담았는데,
+//  그 값을 이후 어디서도 안 써서 죽은 코드였음 - 통째로 제거함)
 
 // 예상스코어 동점 여부 (축구만 동점 허용)
 const isDrawExpected = expectedScores !== null
@@ -1253,6 +1241,14 @@ async function analyzeMatchesRetry() {
     const aiAwayName = TEAM_NAME_MAP[match.away] || match.away;
     const gameContext = cat === 'lol' ? "이 경기는 '리그오브레전드(롤)' 이스포츠 경기다." : "";
 
+    const baseballOuRange = (() => {
+  const lgUpper = (match.league || '').toUpperCase();
+  if (lgUpper.includes('MLB')) return '7.5~10.5';
+  if (lgUpper.includes('NPB')) return '4.5~8.5';
+  if (lgUpper.includes('KBO')) return '5.5~10.5';
+  return '5.5~9.5'; // CPBL 등 기본값
+})();
+
     const sportPickRule = cat === 'lol'
   ? `핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 2.5 세트)`
   : cat === 'volleyball'
@@ -1260,7 +1256,7 @@ async function analyzeMatchesRetry() {
   : cat === 'basketball'
   ? `농구다. 핸디캡은 양 팀 전력 차를 분석해 -2.5~-15.5 범위에서 0.25 단위 소수점으로 산출하라. 정수 출력 절대 금지. 오버언더는 양 팀 각각 최근 5경기 최고/최저 득점 제거 후 평균을 구한 뒤 (홈팀 평균 + 원정팀 평균) ÷ 2 로 산출하고 155.5~215.5 범위에서 0.5 단위로 반올림하라. (예: 155.5, 156.0, 156.5)`
   : cat === 'baseball'
-  ? `야구다. 핸디캡은 -1.5 또는 +1.5 중 선택. 오버언더는 양 팀 각각 최근 5경기 최고/최저 득점 제거 후 평균을 구한 뒤 (홈팀 평균 + 원정팀 평균) ÷ 2 로 산출하고 6.5~10.5 범위에서 0.5 단위로 반올림하라.`
+  ? `야구다. 핸디캡은 -1.5 또는 +1.5 중 선택. 오버언더는 양 팀 각각 최근 5경기 최고/최저 득점 제거 후 평균을 구한 뒤 (홈팀 평균 + 원정팀 평균) ÷ 2 로 산출하고 ${baseballOuRange} 범위(리그별 득점 수준 반영)에서 0.5 단위로 반올림하라.`
   : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라. 오버언더는 양 팀 각각 최근 5경기 최고/최저 득점 제거 후 평균을 구한 뒤 (홈팀 평균 + 원정팀 평균) ÷ 2 로 산출하고 0.5 단위로 반올림하라.`;
 
     const retryPrompt = `
@@ -1546,9 +1542,19 @@ const winnerIsHome = homeNames.some(n =>
 
     let ouLine = finalOuDirection === '오버' ? roundedTotal - 0.5 : roundedTotal + 0.5;
 
-    // 종목별 현실적인 범위로 clamp (calcOuValue와 동일 기준)
+    // 종목별 현실적인 범위로 clamp
     if (cat === 'basketball') ouLine = Math.min(215.5, Math.max(155.5, ouLine));
-    if (cat === 'baseball')   ouLine = Math.min(15.5, Math.max(4.5, ouLine));
+    if (cat === 'baseball') {
+      // 리그마다 득점 수준이 달라서 해외 베팅사이트 실측 범위를 리그별로 적용
+      // (KBO가 MLB/NPB보다 고득점 리그라 범위가 더 넓음, CPBL은 저득점)
+      const lgUpper = (match.league || '').toUpperCase();
+      let ouMin = 5.5, ouMax = 9.5; // 기본값(매칭 안 되는 리그 대비, CPBL 기준)
+      if (lgUpper.includes('MLB')) { ouMin = 7.5; ouMax = 10.5; }
+      else if (lgUpper.includes('NPB')) { ouMin = 4.5; ouMax = 8.5; }
+      else if (lgUpper.includes('KBO')) { ouMin = 5.5; ouMax = 10.5; }
+      else if (lgUpper.includes('CPBL')) { ouMin = 5.5; ouMax = 7.5; }
+      ouLine = Math.min(ouMax, Math.max(ouMin, ouLine));
+    }
 
     finalOuValue = ouLine.toFixed(1);
 
