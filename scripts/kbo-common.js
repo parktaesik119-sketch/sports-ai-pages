@@ -282,6 +282,18 @@ export async function fetchKboDayPreviews(date) {
 // 팀명 매핑: team_name_map.js의 영문 키(api-sports 등에서 오는 형태) → KBO 공식 팀코드
 // ESPN 쪽과 달리 KBO는 코드가 고정돼 있어 퍼지 매칭 없이 정확히 대조 가능.
 // ─────────────────────────────────────────────
+// ─────────────────────────────────────────────
+// 선수 사진 URL (koreabaseball.com 선수 상세페이지에서 실측 확인한 패턴)
+// 예: https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53764.jpg
+// 별도 API 호출 없이 playerId만으로 조립 가능 (선발투수 ID는 fetchKboGameList에서 이미 확보됨)
+// ⚠️ 신인 등 사진이 아직 없는 선수는 깨진 이미지일 수 있음 - 프론트에서 onError 처리 권장
+//    (기존 코드에 이미 onError="this.style.display='none'" 있으므로 별도 조치 불필요)
+// ─────────────────────────────────────────────
+export function getKboPlayerPhotoUrl(playerId, year = new Date().getFullYear()) {
+  if (!playerId) return null;
+  return `https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/${year}/${playerId}.jpg`;
+}
+
 export const KBO_TEAM_CODE_MAP = {
   'Doosan Bears': 'OB',
   'Hanwha Eagles': 'HH',

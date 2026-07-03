@@ -6,7 +6,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchKboGameList, findKboGame, fetchLineupAnalysis, fetchPitcherRecordAnalysis, KBO_TEAM_CODE_MAP } from './kbo-common.js';
+import { fetchKboGameList, findKboGame, fetchLineupAnalysis, fetchPitcherRecordAnalysis, getKboPlayerPhotoUrl, KBO_TEAM_CODE_MAP } from './kbo-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
@@ -199,12 +199,15 @@ async function main() {
       });
     }
 
-    // 선발투수 이름(+ERA) 줄을 맨 앞에 추가 (astro 파서가 "선발투수 이름 (ERA 값)" 형식도 인식하도록 반영해뒀음)
+    // 선발투수 이름(+ERA+사진) 줄을 맨 앞에 추가
     function buildPitcherLine(side) {
       const starterName = matched[side]?.starterName;
       if (!starterName) return null;
       const era = pitcherRecord?.[side]?.era;
-      return era ? `선발투수 ${starterName} (ERA ${era})` : `선발투수 ${starterName}`;
+      const photo = getKboPlayerPhotoUrl(matched[side]?.starterId);
+      let line = era ? `선발투수 ${starterName} (ERA ${era})` : `선발투수 ${starterName}`;
+      if (photo) line += `|${photo}`;
+      return line;
     }
     const homePitcherLine = buildPitcherLine('home');
     const awayPitcherLine = buildPitcherLine('away');
