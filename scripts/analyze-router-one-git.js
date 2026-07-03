@@ -695,6 +695,64 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     }
   
 
+  // 7. 종목 판별 및 리그 차단 
+  const lg = (match.league || '').toUpperCase();
+  
+  // [차단] 블랙리스트 리그 발견 시 즉시 스킵
+  if (lg.includes('TKBL') || lg.includes('TURKEY') || lg.includes('GELISIM')) {
+    console.log(`🚫 [차단] 블랙리스트 리그 발견: ${match.league}`);
+    continue;
+  }
+
+  let cat = ""; 
+  const apiSport = (match.sport || '').toLowerCase();
+
+  // [0순위] API 데이터의 sport 필드를 최우선 신뢰
+  if (["soccer", "basketball", "baseball", "volleyball", "hockey", "lol"].includes(apiSport)) {
+    cat = apiSport;
+  } 
+  // [1순위] sport 필드가 없을 경우 상세 리그명으로 판별 (질문자님 기존 로직)
+  else {
+    if (
+      lg.includes('NBA') || lg.includes('KBL') || lg.includes('WKBL') ||
+      lg.includes('CBA') || lg.includes('B.LEAGUE') || lg.includes('MPBL')
+    ) {
+      cat = "basketball";
+    } 
+    else if (
+      lg.includes('KBO') || lg.includes('MLB') || lg.includes('NPB') || 
+      lg.includes('CPBL') 
+    ) {
+      cat = "baseball";
+    } 
+    else if (
+      lg.includes('V-LEAGUE') || lg.includes('KOVO') || lg.includes('JAPAN') || 
+      lg.includes('CHINA') || lg.includes('TURKEY')
+    ) {
+      cat = "volleyball";
+    }
+    else if (
+      lg.includes('NHL') || lg.includes('KHL')
+    ) {
+      cat = "hockey";
+    }
+    else if (
+      lg.includes('LCK') || lg.includes('LEC') || lg.includes('MSI') || lg.includes('WORLDS')
+    ) {
+      cat = "lol";
+    }
+    else {
+      // 축구 판별 (질문자님 상세 조건 모두 포함)
+      const isSoccer =
+        lg.includes('PREMIER') || lg.includes('LALIGA') || lg.includes('BUNDESLIGA') ||
+        lg.includes('SERIE') || lg.includes('LIGUE') || lg.includes('K LEAGUE') ||
+        lg.includes('DIVISION') || lg.includes('SUPER LEAGUE') || lg.includes('CHAMPIONSHIP') ||
+        lg.includes('WORLD CUP') || lg.includes('EURO') || lg.includes('OLYMPIC');
+
+      if (isSoccer) cat = "soccer";
+    }
+  }
+
   // 최근 5경기 추출
   const lgUpperRecent = (match.league || '').toUpperCase();
   const isIntlMatch = lgUpperRecent.includes('WORLD CUP') || lgUpperRecent.includes('OLYMPIC') || lgUpperRecent.includes('EURO') || lgUpperRecent.includes('COPA AMERICA') || lgUpperRecent.includes('AFC ASIAN CUP') || lgUpperRecent.includes('NATIONS LEAGUE') || lgUpperRecent.includes('WORLD CHAMPIONSHIP') || lgUpperRecent.includes('WORLD BASEBALL') || lgUpperRecent.includes('WBC') || lgUpperRecent.includes('MSI') || lgUpperRecent.includes('WORLDS') || lgUpperRecent.includes('FRIENDLY INTERNATIONAL') || lgUpperRecent.includes('FRIENDLIES');
@@ -802,64 +860,6 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   // ✅ 최근 경기 컨텍스트 문자열 생성
   const homeRecentContext = buildRecentForm(homeRecentMatches, match.home);
   const awayRecentContext = buildRecentForm(awayRecentMatches, match.away);
-
-  // 7. 종목 판별 및 리그 차단 
-  const lg = (match.league || '').toUpperCase();
-  
-  // [차단] 블랙리스트 리그 발견 시 즉시 스킵
-  if (lg.includes('TKBL') || lg.includes('TURKEY') || lg.includes('GELISIM')) {
-    console.log(`🚫 [차단] 블랙리스트 리그 발견: ${match.league}`);
-    continue;
-  }
-
-  let cat = ""; 
-  const apiSport = (match.sport || '').toLowerCase();
-
-  // [0순위] API 데이터의 sport 필드를 최우선 신뢰
-  if (["soccer", "basketball", "baseball", "volleyball", "hockey", "lol"].includes(apiSport)) {
-    cat = apiSport;
-  } 
-  // [1순위] sport 필드가 없을 경우 상세 리그명으로 판별 (질문자님 기존 로직)
-  else {
-    if (
-      lg.includes('NBA') || lg.includes('KBL') || lg.includes('WKBL') ||
-      lg.includes('CBA') || lg.includes('B.LEAGUE') || lg.includes('MPBL')
-    ) {
-      cat = "basketball";
-    } 
-    else if (
-      lg.includes('KBO') || lg.includes('MLB') || lg.includes('NPB') || 
-      lg.includes('CPBL') 
-    ) {
-      cat = "baseball";
-    } 
-    else if (
-      lg.includes('V-LEAGUE') || lg.includes('KOVO') || lg.includes('JAPAN') || 
-      lg.includes('CHINA') || lg.includes('TURKEY')
-    ) {
-      cat = "volleyball";
-    }
-    else if (
-      lg.includes('NHL') || lg.includes('KHL')
-    ) {
-      cat = "hockey";
-    }
-    else if (
-      lg.includes('LCK') || lg.includes('LEC') || lg.includes('MSI') || lg.includes('WORLDS')
-    ) {
-      cat = "lol";
-    }
-    else {
-      // 축구 판별 (질문자님 상세 조건 모두 포함)
-      const isSoccer =
-        lg.includes('PREMIER') || lg.includes('LALIGA') || lg.includes('BUNDESLIGA') ||
-        lg.includes('SERIE') || lg.includes('LIGUE') || lg.includes('K LEAGUE') ||
-        lg.includes('DIVISION') || lg.includes('SUPER LEAGUE') || lg.includes('CHAMPIONSHIP') ||
-        lg.includes('WORLD CUP') || lg.includes('EURO') || lg.includes('OLYMPIC');
-
-      if (isSoccer) cat = "soccer";
-    }
-  }
 
   // 카테고리 판별 실패 시 스킵
   if (!cat) {
