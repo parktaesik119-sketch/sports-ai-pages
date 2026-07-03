@@ -83,13 +83,24 @@ async function main() {
       venue: matched.venue,
       gameTime: matched.time,
       starters: {
-        home: { name: matched.home?.pitcherName, playerId: matched.home?.pitcherId, photoUrl: matched.home?.photoUrl },
-        away: { name: matched.away?.pitcherName, playerId: matched.away?.pitcherId, photoUrl: matched.away?.photoUrl },
+        // 영어(로마자) 이름 우선 사용, 조회 실패 시 일본어 이름으로 폴백
+        home: {
+          name: matched.home?.pitcherNameEn || matched.home?.pitcherName,
+          nameJa: matched.home?.pitcherName,
+          playerId: matched.home?.pitcherId,
+          photoUrl: matched.home?.photoUrl,
+        },
+        away: {
+          name: matched.away?.pitcherNameEn || matched.away?.pitcherName,
+          nameJa: matched.away?.pitcherName,
+          playerId: matched.away?.pitcherId,
+          photoUrl: matched.away?.photoUrl,
+        },
       },
     });
 
     okCount++;
-    console.log(`✅ [수집] ${match.away} @ ${match.home} | 선발: ${matched.away?.pitcherName} vs ${matched.home?.pitcherName}`);
+    console.log(`✅ [수집] ${match.away} @ ${match.home} | 선발: ${matched.away?.pitcherNameEn || matched.away?.pitcherName} vs ${matched.home?.pitcherNameEn || matched.home?.pitcherName}`);
   }
 
   fs.writeFileSync(outPath, JSON.stringify(results, null, 2), 'utf8');

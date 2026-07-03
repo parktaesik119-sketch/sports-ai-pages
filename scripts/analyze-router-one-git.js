@@ -1173,6 +1173,27 @@ ${matchDataPrompt}
       }
     } else {
       console.warn(`⚠️ [응답 짧음] ${attempt}차 시도 응답 길이 부족 (${aiResponse.length}자): ${match.home}`);
+
+      // ── 진단 로그: 다음에 같은 문제가 재현되면 정확한 원인을 파악하기 위함 ──
+      try {
+        console.warn(`   [진단] status: ${response.status ?? '(없음)'}`);
+        if (response.incomplete_details) {
+          console.warn(`   [진단] incomplete_details: ${JSON.stringify(response.incomplete_details)}`);
+        }
+        if (Array.isArray(response.output)) {
+          const outputTypes = response.output.map(o => o.type);
+          console.warn(`   [진단] output 아이템 타입: [${outputTypes.join(', ')}]`);
+          // 텍스트 없이 도구 호출(web_search_call 등)만 있는 케이스인지 확인
+          const hasToolCallOnly = outputTypes.length > 0 && !outputTypes.includes('message');
+          if (hasToolCallOnly) {
+            console.warn(`   [진단] → 도구 호출만 있고 최종 텍스트 메시지가 없음 (web_search 관련 가능성)`);
+          }
+        } else {
+          console.warn(`   [진단] response.output 없음 또는 배열 아님`);
+        }
+      } catch (diagErr) {
+        console.warn(`   [진단 로그 실패] ${diagErr.message}`);
+      }
     }
 
   } catch (err) {
@@ -1264,6 +1285,26 @@ ${retryPrompt}
         }
       } else {
         console.error(`❌ [재분석도 짧음] ${match.home} vs ${match.away} (${aiResponse.length}자)`);
+
+        // ── 진단 로그: 원인 파악용 ──
+        try {
+          console.warn(`   [진단] status: ${retryResponse.status ?? '(없음)'}`);
+          if (retryResponse.incomplete_details) {
+            console.warn(`   [진단] incomplete_details: ${JSON.stringify(retryResponse.incomplete_details)}`);
+          }
+          if (Array.isArray(retryResponse.output)) {
+            const outputTypes = retryResponse.output.map(o => o.type);
+            console.warn(`   [진단] output 아이템 타입: [${outputTypes.join(', ')}]`);
+            const hasToolCallOnly = outputTypes.length > 0 && !outputTypes.includes('message');
+            if (hasToolCallOnly) {
+              console.warn(`   [진단] → 도구 호출만 있고 최종 텍스트 메시지가 없음 (web_search 관련 가능성)`);
+            }
+          } else {
+            console.warn(`   [진단] response.output 없음 또는 배열 아님`);
+          }
+        } catch (diagErr) {
+          console.warn(`   [진단 로그 실패] ${diagErr.message}`);
+        }
       }
       await new Promise(res => setTimeout(res, 8000));
     } catch (err) {

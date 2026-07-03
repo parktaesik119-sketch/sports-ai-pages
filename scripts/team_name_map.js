@@ -1312,6 +1312,8 @@ const TEAM_NAME_MAP = {
   "Dalian Zhixing": "다롄 잉보 FC",
   "Shanghai Shenhua": "상하이 선화",
   "Yunnan Yukun": "윈난 유쿤",
+  "Qingdao Youth Island": "칭다오 FC",
+
 
 };
 

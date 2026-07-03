@@ -39,6 +39,36 @@ export function findNpbGame(games, homeTeamEn, awayTeamEn) {
 }
 
 // ─────────────────────────────────────────────
+// 영어 이름 조회 (npb.jp/eng/)
+// ⚠️ npb.jp/eng/에는 予告先発投手(예고선발) 공지 페이지 자체가 없음(영어 사이트엔
+//    일정/공지 섹션이 없고 stats/teams/players만 있음). 그래서 페이지 자체를 영어판으로
+//    통째로 바꿀 수는 없고, 대신 이미 확보한 pitcherId로 선수 개인 페이지(영어판)를
+//    별도 조회해서 로마자 이름만 가져오는 방식으로 우회함.
+//    예: https://npb.jp/bis/eng/players/51055132.html
+//        <title>Takahashi,Keiji（Tokyo Yakult Swallows） | Players ...</title>
+// ─────────────────────────────────────────────
+async function fetchEnglishPlayerName(playerId) {
+  if (!playerId) return null;
+  try {
+    const res = await fetch(`${BASE}/bis/eng/players/${playerId}.html`, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const titleMatch = html.match(/<title>([^<]+)<\/title>/i);
+    if (!titleMatch) return null;
+
+    // "Takahashi,Keiji（Tokyo Yakult Swallows） | Players | ..." → "Takahashi,Keiji"
+    const rawName = titleMatch[1].split(/[（|]/)[0].trim();
+    if (!rawName) return null;
+
+    // "Takahashi,Keiji" (성,이름) → "Keiji Takahashi" (이름 성) 형태로 정리
+    const [last, first] = rawName.split(',').map(s => s.trim());
+    return (last && first) ? `${first} ${last}` : rawName;
+  } catch {
+    return null; // 실패하면 호출부에서 일본어 이름으로 폴백
+  }
+}
+
+// ─────────────────────────────────────────────
 // HTML 조회
 // ─────────────────────────────────────────────
 export async function fetchStarterAnnouncementHtml() {
@@ -149,7 +179,19 @@ export function parseStarterAnnouncements(html) {
 
 export async function fetchStarterAnnouncements() {
   const html = await fetchStarterAnnouncementHtml();
-  return parseStarterAnnouncements(html);
+  const parsed = parseStarterAnnouncements(html);
+
+  // 경기별 홈/원정 선발투수의 영어(로마자) 이름을 병렬로 조회해서 pitcherNameEn으로 추가.
+  // 조회 실패 시 pitcherNameEn은 null로 남고, 호출부(fetch-npb-context.js)가
+  // 일본어 이름(pitcherName)으로 폴백 처리한다.
+  await Promise.all(
+    parsed.games.map(async (g) => {
+      if (g.home) g.home.pitcherNameEn = await fetchEnglishPlayerName(g.home.pitcherId);
+      if (g.away) g.away.pitcherNameEn = await fetchEnglishPlayerName(g.away.pitcherId);
+    })
+  );
+
+  return parsed;
 }
 
 // "7月3日の予告先発投手" 같은 텍스트에서 연도 없는 월/일만 뽑아 'YYYY-MM-DD'로 변환.
