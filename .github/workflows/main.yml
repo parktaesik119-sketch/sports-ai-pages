@@ -35,6 +35,11 @@ jobs:
         with:
           node-version: '18'
 
+      # 커밋 전 해시 저장 (텔레그램 알림용 diff 기준점)
+      - name: 현재 커밋 해시 저장
+        id: before
+        run: echo "hash=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
       # 패키지 설치
       - name: 의존성 설치
         run: npm install
@@ -72,3 +77,10 @@ jobs:
           else
             echo "업데이트할 파일이 없습니다."
           fi
+
+      # 신규 분석글 텔레그램 알림
+      - name: 텔레그램 알림 발송
+        run: node scripts/notify-posts-telegram.js "${{ steps.before.outputs.hash }}"
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
