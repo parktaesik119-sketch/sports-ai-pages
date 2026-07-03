@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Kenta Maeda|https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg\"]"
+awayLineup: "[\"선발투수 Haruki Hosono|https://p.npb.jp/players_photo/2026/180/f/029_61865159.jpg\"]"
 ---

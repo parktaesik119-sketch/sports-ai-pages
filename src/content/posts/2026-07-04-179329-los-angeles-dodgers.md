@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 S. Ohtani (8-2, 1.58) ERA 1.58\"]"
-awayLineup: "[\"선발투수 M. King (5-7, 3.55) ERA 3.55\"]"
+homeLineup: "[\"선발투수 S. Ohtani (8-2, 1.58) ERA 1.58|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\"]"
+awayLineup: "[\"선발투수 M. King (5-7, 3.55) ERA 3.55|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
 ---

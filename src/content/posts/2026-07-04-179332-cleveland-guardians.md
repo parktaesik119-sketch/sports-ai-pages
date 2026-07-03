@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 G. Williams (9-4, 3.81) ERA 3.81\"]"
-awayLineup: "[\"선발투수 A. Kay (6-3, 4.50) ERA 4.50\"]"
+homeLineup: "[\"선발투수 G. Williams (9-4, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 A. Kay (6-3, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
 ---

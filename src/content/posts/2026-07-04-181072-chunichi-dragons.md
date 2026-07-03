@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Hideaki Wakui|https://p.npb.jp/players_photo/2026/180/d/020_31635110.jpg\"]"
+awayLineup: "[\"선발투수 Kazuyuki Takemaru|https://p.npb.jp/players_photo/2026/180/g/021_71275152.jpg\"]"
 ---

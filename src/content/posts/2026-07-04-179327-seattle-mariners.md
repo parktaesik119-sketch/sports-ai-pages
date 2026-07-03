@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 L. Castillo (3-6, 4.93) ERA 4.93\"]"
-awayLineup: "[\"선발투수 D. Cease (4-4, 3.02) ERA 3.02\"]"
+homeLineup: "[\"선발투수 L. Castillo (3-6, 4.93) ERA 4.93|https://a.espncdn.com/i/headshots/mlb/players/full/35124.png\"]"
+awayLineup: "[\"선발투수 D. Cease (4-4, 3.02) ERA 3.02|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
 ---

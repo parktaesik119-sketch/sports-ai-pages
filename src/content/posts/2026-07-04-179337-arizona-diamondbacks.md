@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 J. Cabrera (0-1, 3.60) ERA 3.60\"]"
-awayLineup: "[\"선발투수 K. Harrison (8-1, 2.57) ERA 2.57\"]"
+homeLineup: "[\"선발투수 J. Cabrera (0-1, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/5270084.png\"]"
+awayLineup: "[\"선발투수 K. Harrison (8-1, 2.57) ERA 2.57|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 ---

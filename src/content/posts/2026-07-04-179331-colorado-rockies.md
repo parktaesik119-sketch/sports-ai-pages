@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "12.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 R. Feltner (2-2, 4.42) ERA 4.42\"]"
-awayLineup: "[\"선발투수 L. Webb (5-5, 3.09) ERA 3.09\"]"
+homeLineup: "[\"선발투수 R. Feltner (2-2, 4.42) ERA 4.42|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
+awayLineup: "[\"선발투수 L. Webb (5-5, 3.09) ERA 3.09|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\"]"
 ---
