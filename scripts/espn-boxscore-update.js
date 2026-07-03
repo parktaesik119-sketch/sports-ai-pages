@@ -238,11 +238,14 @@ function parseBaseballRosters(summary, event, homeTeamEn, awayTeamEn) {
       const record  = prob.record || '';
       const eraStat = (prob.statistics || []).find(s => s.abbreviation === 'ERA');
       const era     = eraStat?.displayValue || '';
+      const probId  = prob.athlete?.id || '';
+      const photo   = probId ? `https://a.espncdn.com/i/headshots/mlb/players/full/${probId}.png` : '';
       if (name) {
         // record에 이미 괄호 포함된 경우 그대로, 없으면 괄호 추가
         let line = `선발투수 ${name}`;
         if (record) line += record.startsWith('(') ? ` ${record}` : ` (${record})`;
         if (era)    line += ` ERA ${era}`;
+        if (photo)  line += `|${photo}`;
         result[side].unshift(line);
       }
     }
@@ -341,10 +344,13 @@ function parseLeadersFromEvent(event, homeTeamEn, awayTeamEn) {
       const record = prob.record || '';
       const eraStat = (prob.statistics || []).find(s => s.abbreviation === 'ERA');
       const era     = eraStat?.displayValue || '';
+      const probId  = prob.athlete?.id || '';
+      const photo   = probId ? `https://a.espncdn.com/i/headshots/mlb/players/full/${probId}.png` : '';
       if (name) {
         let line = `선발투수 ${name}`;
         if (record) line += record.startsWith('(') ? ` ${record}` : ` (${record})`;
         if (era)    line += ` ERA ${era}`;
+        if (photo)  line += `|${photo}`;
         result[side].push(line);
       }
     }
@@ -438,7 +444,9 @@ async function main() {
     const fm = parseFrontmatter(filePath);
 
     // 라인업이 이미 채워져 있으면 스킵. 종목별로 저장 포맷이 달라서 체크 방식을 분기한다.
-    // - 야구: "1번 김민석 (좌익수)" 형태라 '번 ' 포함 여부로 판단
+    // - 야구: "1번 김민석 (좌익수)" 형태라 '번 ' 포함 여부로 판단.
+    //   단, 선발투수 사진 기능을 나중에 추가했기 때문에 '번 '만 보면 사진 없는 기존 글이
+    //   영원히 재처리 안 됨 → 선발투수 줄에 사진(|)까지 있는지도 같이 확인.
     // - 그 외(축구/농구 등): "손흥민 (FW)|photo" 형태라 '번 '이 절대 없음 → 내용이 비어있는지("" 또는 "[]")로 판단
     const category  = fm.category  || '';
     const existingLineup = fm.homeLineup || '';
@@ -446,7 +454,11 @@ async function main() {
     const hasBatters = category === 'baseball'
       ? unescapedLineup.includes('번 ')
       : (unescapedLineup !== '' && unescapedLineup !== '[]');
-    if (hasBatters) {
+    const pitcherMatch = unescapedLineup.match(/선발투수[^"]*/);
+    const hasPitcherPhoto = category === 'baseball'
+      ? !!(pitcherMatch && pitcherMatch[0].includes('|'))
+      : true; // 야구 아니면 이 조건 자체가 무관하므로 항상 통과
+    if (hasBatters && hasPitcherPhoto) {
       console.log(`⏩ [스킵] 라인업 완료: ${path.basename(filePath)}`);
       skipCount++;
       continue;
