@@ -24,7 +24,7 @@ jobs:
       - name: Node.js 설정
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       # 커밋 전 해시 저장 (텔레그램 알림용 diff 기준점)
       - name: 현재 커밋 해시 저장
@@ -47,6 +47,7 @@ jobs:
 
       # 생성 파일 자동 커밋 및 푸쉬
       - name: 생성된 글을 깃허브에 푸쉬
+        id: push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -65,9 +66,24 @@ jobs:
             # 푸쉬
             git push
 
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "업데이트할 파일이 없습니다."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      # 사이트 빌드 (변경사항 있을 때만) - Cloudflare 자동빌드 대신 여기서 직접 빌드
+      - name: 사이트 빌드
+        if: steps.push.outputs.changed == 'true'
+        run: npx astro sync && npm run build
+
+      # Cloudflare Pages에 Direct Upload로 배포 (빌드 횟수 500회 한도 대상 아님)
+      - name: Cloudflare Pages 배포
+        if: steps.push.outputs.changed == 'true'
+        run: npx wrangler pages deploy dist --project-name=sports-ai-pages --branch=main
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       # 신규 분석글 텔레그램 알림
       - name: 텔레그램 알림 발송

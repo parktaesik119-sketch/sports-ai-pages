@@ -18,6 +18,10 @@ jobs:
         with:
           node-version: '20'
 
+      # 사이트 빌드(npm run build)에는 패키지가 필요하지만, 라인업 스크립트 자체는 외부 패키지가 없어도 됨
+      - name: Install dependencies
+        run: npm install
+
       - name: Run lineup update script
         run: node scripts/espn-boxscore-update.js
 
@@ -28,8 +32,29 @@ jobs:
         run: node scripts/npb-lineup-update.js
 
       - name: Commit and push lineup updates
+        id: push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/content/posts/
-          git diff --staged --quiet && echo "변경 없음" || (git commit -m "lineup: update starting lineups" && git push)
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "변경 없음"
+          else
+            git commit -m "lineup: update starting lineups"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # 사이트 빌드 (변경사항 있을 때만) - Cloudflare 자동빌드 대신 여기서 직접 빌드
+      - name: 사이트 빌드
+        if: steps.push.outputs.changed == 'true'
+        run: npx astro sync && npm run build
+
+      # Cloudflare Pages에 Direct Upload로 배포 (빌드 횟수 500회 한도 대상 아님)
+      - name: Cloudflare Pages 배포
+        if: steps.push.outputs.changed == 'true'
+        run: npx wrangler pages deploy dist --project-name=sports-ai-pages --branch=main
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
