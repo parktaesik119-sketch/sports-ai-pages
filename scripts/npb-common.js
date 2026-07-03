@@ -111,15 +111,6 @@ export async function fetchStarterAnnouncementHtml() {
 }
 
 // ─────────────────────────────────────────────
-// HTML 조회
-// ─────────────────────────────────────────────
-export async function fetchStarterAnnouncementHtml() {
-  const res = await fetch(STARTER_URL, { headers: { 'User-Agent': 'Mozilla/5.0' } });
-  if (!res.ok) throw new Error(`예고선발 페이지 호출 실패: HTTP ${res.status}`);
-  return await res.text();
-}
-
-// ─────────────────────────────────────────────
 // <div class="unit xx_N">...</div> 블록을 balanced-div 방식으로 추출.
 // 정규식만으로는 중첩된 </div>를 정확히 못 끊어내서, 태그를 순회하며 depth를 센다.
 // ─────────────────────────────────────────────
