@@ -196,7 +196,9 @@ async function main() {
 
     const ok = updateMdFrontmatter(filePath, updates);
     if (ok) {
-      console.log(`   ✅ 업데이트 완료 | 선발: ${matched.away?.pitcherNameEn || matched.away?.pitcherName} vs ${matched.home?.pitcherNameEn || matched.home?.pitcherName}\n`);
+      const awayEraTag = matched.away?.pitcherEra ? `ERA ${matched.away.pitcherEra}` : 'ERA 없음';
+      const homeEraTag = matched.home?.pitcherEra ? `ERA ${matched.home.pitcherEra}` : 'ERA 없음';
+      console.log(`   ✅ 업데이트 완료 | 선발: ${matched.away?.pitcherNameEn || matched.away?.pitcherName}(${awayEraTag}) vs ${matched.home?.pitcherNameEn || matched.home?.pitcherName}(${homeEraTag})\n`);
       updatedCount++;
     }
   }
