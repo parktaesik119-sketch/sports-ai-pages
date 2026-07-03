@@ -1534,27 +1534,27 @@
       "home": {
         "rank": "3",
         "wins": "50",
-        "losses": "34",
+        "losses": "35",
         "ties": "0",
-        "winPercent": ".595",
-        "gamesBehind": "4.5",
-        "pointsFor": "398",
-        "pointsAgainst": "308"
+        "winPercent": ".588",
+        "gamesBehind": "5",
+        "pointsFor": "403",
+        "pointsAgainst": "319"
       },
       "away": {
         "rank": "6",
-        "wins": "44",
+        "wins": "45",
         "losses": "39",
         "ties": "0",
-        "winPercent": ".530",
-        "gamesBehind": "10",
-        "pointsFor": "368",
-        "pointsAgainst": "378"
+        "winPercent": ".536",
+        "gamesBehind": "9.5",
+        "pointsFor": "379",
+        "pointsAgainst": "383"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 1-1",
+      "text": "STL leads series 2-1",
       "totalGames": 2,
       "games": [
         {
@@ -2506,13 +2506,13 @@
       },
       "away": {
         "rank": "6",
-        "wins": "44",
+        "wins": "45",
         "losses": "39",
         "ties": "0",
-        "winPercent": ".530",
-        "gamesBehind": "10",
-        "pointsFor": "368",
-        "pointsAgainst": "378"
+        "winPercent": ".536",
+        "gamesBehind": "9.5",
+        "pointsFor": "379",
+        "pointsAgainst": "383"
       }
     },
     "h2h": {
@@ -3028,12 +3028,12 @@
       "home": {
         "rank": "3",
         "wins": "50",
-        "losses": "34",
+        "losses": "35",
         "ties": "0",
-        "winPercent": ".595",
-        "gamesBehind": "4.5",
-        "pointsFor": "398",
-        "pointsAgainst": "308"
+        "winPercent": ".588",
+        "gamesBehind": "5",
+        "pointsFor": "403",
+        "pointsAgainst": "319"
       },
       "away": {
         "rank": "14",
@@ -3248,6 +3248,178 @@
           "homeScore": 7,
           "awayScore": 3,
           "competition": "World Cup - Sweden 1958"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Las Vegas Aces W",
+    "away": "Chicago Sky W",
+    "date": "2026-07-04T02:00:00+00:00",
+    "league": "NBA W",
+    "sport": "basketball",
+    "espnSport": "wnba",
+    "gameId": "401857038",
+    "injuries": {
+      "home": [
+        {
+          "name": "Dana Evans",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Janiah Barker",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "A'ja Wilson",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Rickea Jackson",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "14",
+        "losses": "5",
+        "ties": null,
+        "winPercent": ".737",
+        "gamesBehind": "1",
+        "pointsFor": "1723",
+        "pointsAgainst": "1641"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "6",
+        "losses": "13",
+        "ties": null,
+        "winPercent": ".316",
+        "gamesBehind": "5.5",
+        "pointsFor": "1642",
+        "pointsAgainst": "1701"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LV leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-06-28T20:00:00Z",
+          "home": "Chicago Sky",
+          "away": "Las Vegas Aces",
+          "homeScore": 99,
+          "awayScore": 107,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Atlanta Dream W",
+    "away": "Golden State Valkyries W",
+    "date": "2026-07-04T17:00:00+00:00",
+    "league": "NBA W",
+    "sport": "basketball",
+    "espnSport": "wnba",
+    "gameId": "401857039",
+    "injuries": {
+      "home": [
+        {
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Aaliyah Nye",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Brionna Jones",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Miela Sowah",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Iliana Rupert",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "12",
+        "losses": "8",
+        "ties": null,
+        "winPercent": ".600",
+        "gamesBehind": "-",
+        "pointsFor": "1754",
+        "pointsAgainst": "1674"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "13",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".650",
+        "gamesBehind": "2.5",
+        "pointsFor": "1655",
+        "pointsAgainst": "1557"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "GS leads series 2-0",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-06-25T02:00:00Z",
+          "home": "Golden State Valkyries",
+          "away": "Atlanta Dream",
+          "homeScore": 77,
+          "awayScore": 66,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-27T02:00:00Z",
+          "home": "Golden State Valkyries",
+          "away": "Atlanta Dream",
+          "homeScore": 78,
+          "awayScore": 75,
+          "isCompleted": true
         }
       ]
     }
