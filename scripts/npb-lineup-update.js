@@ -105,15 +105,19 @@ async function main() {
     return;
   }
 
-  // NPB 글만 필터링 (league === 'NPB'), 이미 선발투수가 채워져 있으면 스킵
+  // NPB 글만 필터링 (league === 'NPB'), 이름+ERA까지 채워져 있어야 완료로 간주.
+  // ⚠️ "선발투수"만 확인하면 오늘 ERA 기능 추가 이전에 이름만 채워졌던 기존 파일들이
+  //    영원히 재처리 안 되고 ERA 없는 채로 남음 → 괄호(ERA 값 있다는 뜻)까지 같이 확인
   const targets = [];
   for (const filePath of postFiles) {
     const fm = parseFrontmatter(filePath);
     if ((fm.league || '') !== 'NPB') continue;
 
     const existingLineup = (fm.homeLineup || '').replace(/\\"/g, '"').trim();
-    if (existingLineup && existingLineup !== '[]' && existingLineup.includes('선발투수')) {
-      console.log(`⏩ [스킵] 이미 선발투수 채워짐: ${path.basename(filePath)}`);
+    const hasPitcher = existingLineup.includes('선발투수');
+    const hasStats = existingLineup.includes('(');
+    if (existingLineup && existingLineup !== '[]' && hasPitcher && hasStats) {
+      console.log(`⏩ [스킵] 선발투수+ERA 완료: ${path.basename(filePath)}`);
       continue;
     }
     targets.push({ filePath, fm });
