@@ -1,8 +1,9 @@
 name: Lineup Update
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # 매시 정각 실행 (UTC 기준, KST -9h)
+  # schedule: 블록 제거함 - GitHub 자체 cron은 지연이 심해서(1.5~4시간)
+  # 외부 Cloudflare Worker(github-actions-dispatcher)가 30분마다 정확한 시각에
+  # workflow_dispatch로 대신 호출하는 방식으로 변경.
   workflow_dispatch:      # 수동 실행 가능
 
 jobs:
