@@ -1,13 +1,12 @@
 // scripts/kbo-lineup-update.js
-// espn-boxscore-update.js와 같은 시간대(매시 정각)에 함께 실행되는 KBO 전용 경량 라인업 갱신 스크립트.
-// fetch-kbo-context.js(선발투수분석+구종분석+라인업 전부 수집)와 달리
-// 이 스크립트는 "라인업만" 다시 불러서 GetKboGameList + GetLineUpAnalysis 2개 호출로 끝낸다.
-// (선발투수 ERA/WAR나 구종 데이터는 경기 당일 크게 안 바뀌므로 매시간 다시 부를 필요 없음)
+// espn-boxscore-update.js와 같은 시간대에 함께 실행되는 KBO 전용 라인업 갱신 스크립트.
+// 라인업(GetLineUpAnalysis)에 더해, 선발투수 ERA/WAR(GetPitcherRecordAnalysis)까지
+// 같이 채워넣는다. 선발투수 ID가 발표된 경기만 해당(미발표면 이름만 들어감).
 
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchKboGameList, findKboGame, fetchLineupAnalysis, KBO_TEAM_CODE_MAP } from './kbo-common.js';
+import { fetchKboGameList, findKboGame, fetchLineupAnalysis, fetchPitcherRecordAnalysis, KBO_TEAM_CODE_MAP } from './kbo-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
@@ -182,16 +181,31 @@ async function main() {
     const homeLineupLines = formatKboLineupLines(lineup?.home);
     const awayLineupLines = formatKboLineupLines(lineup?.away);
 
-    // 선발투수 이름을 맨 앞에 추가 (GetKboGameList에 이미 포함된 데이터라 API 호출 추가 없음)
-    // ⚠️ ERA/WAR 등 상세 기록은 안 붙임 - 이 스크립트는 "가벼운" 매시간 재조회 목적이라
-    //    (파일 상단 주석 참고) 상세 기록까지 넣으려면 GetPitcherRecordAnalysis를 추가로
-    //    불러야 해서 별도 논의 필요
-    if (matched.home?.starterName) {
-      homeLineupLines.unshift(`선발투수 ${matched.home.starterName}`);
+    // 선발투수 ERA/WAR 조회 (선발투수 ID가 발표된 경기만 - 미발표면 이름만 씀)
+    let pitcherRecord = null;
+    if (matched.home?.starterId && matched.away?.starterId) {
+      pitcherRecord = await fetchPitcherRecordAnalysis({
+        leId: matched.leId, srId: matched.srId, seasonId: matched.seasonId,
+        awayTeamId: matched.away.id, awayPitId: matched.away.starterId,
+        homeTeamId: matched.home.id, homePitId: matched.home.starterId,
+        groupSc: 'SEASON',
+      }).catch(err => {
+        console.error(`   ❌ GetPitcherRecordAnalysis 실패:`, err.message);
+        return null;
+      });
     }
-    if (matched.away?.starterName) {
-      awayLineupLines.unshift(`선발투수 ${matched.away.starterName}`);
+
+    // 선발투수 이름(+ERA) 줄을 맨 앞에 추가 (astro 파서가 "선발투수 이름 (ERA 값)" 형식도 인식하도록 반영해뒀음)
+    function buildPitcherLine(side) {
+      const starterName = matched[side]?.starterName;
+      if (!starterName) return null;
+      const era = pitcherRecord?.[side]?.era;
+      return era ? `선발투수 ${starterName} (ERA ${era})` : `선발투수 ${starterName}`;
     }
+    const homePitcherLine = buildPitcherLine('home');
+    const awayPitcherLine = buildPitcherLine('away');
+    if (homePitcherLine) homeLineupLines.unshift(homePitcherLine);
+    if (awayPitcherLine) awayLineupLines.unshift(awayPitcherLine);
 
     if (homeLineupLines.length === 0 && awayLineupLines.length === 0) {
       console.log(`   ⚠️ 라인업 데이터 없음 (아직 미발표일 수 있음)`);
