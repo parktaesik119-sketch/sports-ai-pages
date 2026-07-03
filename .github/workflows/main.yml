@@ -1,18 +1,9 @@
 name: Pick Heaven Auto Post
 
 on:
-  schedule:
-    # ☀️ 1회차 - KST 오전 9시 28분 (UTC 00:28)
-    # UTC 날짜가 바뀐 직후 → d와 d+1 수집
-    # KST 기준: 오늘 + 내일 + 모레 새벽까지 커버
-    - cron: '28 0 * * *'
-
-    # 🌙 2회차 - KST 오후 9시 11분 (UTC 12:11)
-    # UTC 당일 낮 → d와 d+1 수집
-    # 1회차 이후 새로 추가된 경기일정 보충
-    - cron: '11 12 * * *'
-
-
+  # schedule: 블록은 제거함 - GitHub 자체 cron은 몇 시간씩 지연되는 문제가 있어서
+  # 외부 Cloudflare Worker가 정확한 시각에 workflow_dispatch로 대신 호출하는 방식으로 변경.
+  # (schedule과 workflow_dispatch를 동시에 두면 같은 작업이 중복 실행될 위험이 있어 schedule은 제거)
   workflow_dispatch:
 
 permissions:
