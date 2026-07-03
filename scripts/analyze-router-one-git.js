@@ -661,12 +661,13 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
 const isZeroZero = m.homeScore === 0 && m.awayScore === 0;
 const isValidScore = hasScore && !(isZeroZero && m.sport !== 'soccer');
 return isMatch && isRecentEnough && isPast && isValidScore;
-  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
+  }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10); // 10개 버퍼 확보 (ESPN과 병합 후 5개로 자름 - 아래 참고)
 
       let h2hContent = "";
   let h2hContextForAI = "";
   if (h2hHistory.length > 0) {
-    const h2hRows = h2hHistory.map(h => {
+    const h2hDisplayList = h2hHistory.slice(0, 5); // all-fixtures만 있을 때(ESPN 없음)는 여기서 5개로 제한
+    const h2hRows = h2hDisplayList.map(h => {
       const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timezone: 'asia/seoul' }).replace(/\s/g, '').replace(/\.$/, '');
       const finalScore = (h.homeScore !== null && h.awayScore !== null) ? `${h.homeScore}-${h.awayScore}` : h.score;
       
@@ -676,7 +677,7 @@ return isMatch && isRecentEnough && isPast && isValidScore;
     h2hContent = `\n<br>\n\n### ⚔️ 상대 전적 분석 (2025년 이후)\n| <span style="color: #007bff;">날짜</span> ${spacer} | <span style="color: #007bff;">홈팀</span> ${spacer} | <span style="color: #007bff;">경기결과</span> ${spacer} |\n|:---|:---|:---:|\n${h2hRows}\n`;
     
     // AI에게 전달할 데이터도 스코어 정보를 명확히 조합하여 전달
-    h2hContextForAI = `\n[내부 데이터베이스 상대전적 참고]\n${h2hHistory.map(h => {
+    h2hContextForAI = `\n[내부 데이터베이스 상대전적 참고]\n${h2hDisplayList.map(h => {
     let scoreStr = '';
     if (h.homeScore !== null && h.awayScore !== null) {
     scoreStr = `${h.homeScore}-${h.awayScore}`;
@@ -813,8 +814,23 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   }
 
   if (espnInfo?.h2h?.games?.length > 0) {
+    // ESPN이 주는 팀명 표기가 TEAM_NAME_MAP의 키(match.home/match.away)와 정확히 일치하지
+    // 않는 경우가 있어(WNBA "W" 접미사 등), matchTeam()으로 어느 쪽 팀인지 판별한 뒤
+    // 항상 match.home/match.away(canonical 영문명)로 치환한다.
+    // → 이렇게 해야 이후 h2hItems 생성 시 TEAM_NAME_MAP[h.home] 조회가 항상 성공한다.
+    function normalizeH2hTeam(rawName) {
+      if (matchTeam(rawName, match.home)) return match.home;
+      if (matchTeam(rawName, match.away)) return match.away;
+      return rawName; // 매칭 안 되면 원본 유지 (방어적 처리)
+    }
+    const normalizedEspnGames = espnInfo.h2h.games.map(g => ({
+      ...g,
+      home: normalizeH2hTeam(g.home),
+      away: normalizeH2hTeam(g.away),
+    }));
+
     // 최신순(내림차순) 정렬 — recent 위젯과 표기 순서를 통일
-    const sortedH2hGames = [...espnInfo.h2h.games].sort((a, b) => new Date(b.date) - new Date(a.date));
+    const sortedH2hGames = [...normalizedEspnGames].sort((a, b) => new Date(b.date) - new Date(a.date));
 
     const espnRows = buildH2hRows(sortedH2hGames);
     h2hContent = `\n<br>\n\n### ⚔️ 상대 전적 분석 (ESPN 공식 데이터)\n| <span style="color: #007bff;">날짜</span> ${spacer} | <span style="color: #007bff;">홈팀</span> ${spacer} | <span style="color: #007bff;">경기결과</span> ${spacer} |\n|:---|:---|:---:|\n${espnRows}\n`;
@@ -826,9 +842,19 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     const seasonNote = espnInfo.h2h.source === 'seasonseries' && espnInfo.h2h.text ? `\n현재 시즌 상대전적 요약: ${espnInfo.h2h.text}` : '';
     h2hContextForAI = `\n[ESPN 공식 데이터 - 상대전적 ${espnInfo.h2h.totalGames}경기]\n${aiGameLines}${seasonNote}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
 
-    // h2hHistory 자체도 ESPN 데이터로 덮어써야 calcExpectedScores 계산과 프론트매터 h2h 필드(h2hItems) 둘 다
-    // 동일한 ESPN 데이터를 쓰게 된다. 구조가 {date, home, away, homeScore, awayScore}로 동일해서 그대로 대입 가능.
-    h2hHistory = sortedH2hGames;
+    // ESPN 우선 + all-fixtures로 5개까지 채우기: 같은 날짜(=같은 경기)는 중복 제외
+    const espnDates = new Set(sortedH2hGames.map(g => new Date(g.date).toISOString().slice(0, 10)));
+    const supplementFromFixtures = h2hHistory.filter(h => {
+      const hDate = new Date(h.date).toISOString().slice(0, 10);
+      return !espnDates.has(hDate);
+    });
+
+    h2hHistory = [...sortedH2hGames, ...supplementFromFixtures]
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .slice(0, 5);
+  } else {
+    // ESPN H2H가 없으면 all-fixtures 버퍼(최대 10개)도 5개로 정리
+    h2hHistory = h2hHistory.slice(0, 5);
   }
 
   // 시즌 전체 경기 추출 (올해 1월 1일 이후)
