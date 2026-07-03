@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 L. Gilbert (6-5, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+awayLineup: "[\"선발투수 S. Bieber (0-0, 6.00) ERA 6.00|https://a.espncdn.com/i/headshots/mlb/players/full/40912.png\"]"
 ---

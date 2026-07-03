@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 P. Messick (7-5, 2.85) ERA 2.85|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
+awayLineup: "[\"선발투수 S. Burke (5-4, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
 ---

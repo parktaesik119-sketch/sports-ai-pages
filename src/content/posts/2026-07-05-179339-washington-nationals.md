@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "11.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Z. Littell (7-6, 5.29) ERA 5.29|https://a.espncdn.com/i/headshots/mlb/players/full/36052.png\"]"
+awayLineup: "[\"선발투수 B. Ashcraft (8-3, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
 ---
