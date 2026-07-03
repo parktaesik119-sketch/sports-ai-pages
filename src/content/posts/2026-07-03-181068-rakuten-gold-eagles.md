@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Takahisa Hayakawa|https://p.npb.jp/players_photo/2026/180/e/021_31835153.jpg\"]"
+awayLineup: "[\"선발투수 Hiromi Itoh|https://p.npb.jp/players_photo/2026/180/f/017_51355153.jpg\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Detmers (3-5, 3.88) ERA 3.88\"]"
+awayLineup: "[\"선발투수 J. Bennett (2-3, 3.27) ERA 3.27\"]"
 ---

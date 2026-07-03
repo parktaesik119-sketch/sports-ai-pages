@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "11.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 F. Griffin (8-2, 2.93) ERA 2.93\"]"
+awayLineup: "[\"선발투수 M. Keller (6-5, 4.87) ERA 4.87\"]"
 ---

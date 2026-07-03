@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Yudai Ohno|https://p.npb.jp/players_photo/2026/180/d/022_11515133.jpg\"]"
+awayLineup: "[\"선발투수 Forrest Whitley|https://p.npb.jp/players_photo/2026/180/g/026_53355152.jpg\"]"
 ---
