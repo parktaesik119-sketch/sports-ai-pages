@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       # 사이트 빌드(npm run build)에는 패키지가 필요하지만, 라인업 스크립트 자체는 외부 패키지가 없어도 됨
       - name: Install dependencies
