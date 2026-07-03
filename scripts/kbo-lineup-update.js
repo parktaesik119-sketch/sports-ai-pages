@@ -121,10 +121,14 @@ async function main() {
   for (const filePath of postFiles) {
     const fm = parseFrontmatter(filePath);
 
-    // 타자 라인업(번 N)이 이미 채워져 있으면 스킵 — espn-boxscore-update.js와 동일 기준
+    // 타자 라인업(번 N) + 선발투수 줄이 둘 다 있어야 완료로 간주.
+    // (2026-07-03 이전 생성 파일은 타자만 있고 선발투수 줄이 없는 경우가 있어,
+    //  '번 '만 보고 스킵하면 그 파일들은 영원히 선발투수가 안 채워짐 → 둘 다 확인하도록 변경)
     const existingLineup = fm.homeLineup || '';
-    if (existingLineup.includes('번 ')) {
-      console.log(`⏩ [스킵] 타자 라인업 완료: ${path.basename(filePath)}`);
+    const hasBatters = existingLineup.includes('번 ');
+    const hasPitcher = existingLineup.includes('선발투수');
+    if (hasBatters && hasPitcher) {
+      console.log(`⏩ [스킵] 타자+선발투수 라인업 완료: ${path.basename(filePath)}`);
       skipCount++;
       continue;
     }
