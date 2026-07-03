@@ -600,28 +600,26 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 
 <!-- 결장/부상 현황 -->
   {hasInjury && (
-    <div class="injury-widget">
-      <h2 class="injury-header"><div style="width:30px;height:30px;border-radius:50%;background:#e03131;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M12 8v8M8 12h8"/></svg></div> 결장/부상 현황</h2>
-      {injuryHomeItems.length > 0 && (
-        <div class="injury-row">
-          <div class="injury-team-label injury-team-label--home">{homeTeam}</div>
-          <div class="injury-content">
-            {injuryHomeItems.map((entry: string) => (
-              <div class="injury-entry"><span class="recent-dot"></span><span>{entry}</span></div>
-            ))}
-          </div>
+    <div class="section-widget">
+      <h2 class="section-widget-header sw-injury"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">🩹</span>결장/부상 현황</h2>
+      <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;align-items:flex-start;">
+        <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
+          <div class="power-title power-title--home">{homeTeam}</div>
+          <ul class="power-list">
+            {injuryHomeItems.length > 0
+              ? injuryHomeItems.map((entry: string) => (<li class="power-item"><span class="recent-dot"></span><span>{entry}</span></li>))
+              : <li class="power-item" style="color:#adb5bd;">특이사항 없음</li>}
+          </ul>
         </div>
-      )}
-      {injuryAwayItems.length > 0 && (
-        <div class="injury-row">
-          <div class="injury-team-label injury-team-label--away">{awayTeam}</div>
-          <div class="injury-content">
-            {injuryAwayItems.map((entry: string) => (
-              <div class="injury-entry"><span class="recent-dot"></span><span>{entry}</span></div>
-            ))}
-          </div>
+        <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;">
+          <div class="power-title power-title--away">{awayTeam}</div>
+          <ul class="power-list">
+            {injuryAwayItems.length > 0
+              ? injuryAwayItems.map((entry: string) => (<li class="power-item"><span class="recent-dot"></span><span>{entry}</span></li>))
+              : <li class="power-item" style="color:#adb5bd;">특이사항 없음</li>}
+          </ul>
         </div>
-      )}
+      </div>
     </div>
   )}
 
@@ -1073,59 +1071,6 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 .pick-value--handicap { color: #1971c2; }
 .pick-value--ou       { color: #e67700; }
 
-/* 부상/결장자 위젯 */
-.injury-widget {
-  border-radius: 10px;
-  border: 1px solid #e9ecef;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.07);
-  margin: 20px 0;
-  overflow: hidden;
-}
-.injury-header {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 14px 16px;
-  background: #1a1a2e;
-  background-image: linear-gradient(180deg, #1a1a2e 0%, #16213e 100%);
-  color: #fff;
-  font-weight: 700;
-  font-size: 0.95rem;
-  margin: 0;
-}
-.injury-row {
-  display: flex;
-  flex-direction: column;
-  padding: 12px 18px;
-  border-bottom: 1px solid #f0f0f0;
-  background: #fff;
-  gap: 8px;
-}
-.injury-row:last-child { border-bottom: none; }
-.injury-team-label {
-  font-size: 0.75rem;
-  font-weight: 700;
-  color: #fff;
-  border-radius: 4px;
-  padding: 2px 8px;
-  white-space: nowrap;
-  flex-shrink: 0;
-  margin-top: 2px;
-}
-.injury-team-label--home { background: #e03131; }
-.injury-team-label--away { background: #1971c2; }
-.injury-content {
-  font-size: 0.9rem;
-  color: #333;
-  line-height: 1.6;
-}
-.injury-entry {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  margin-bottom: 4px;
-}
-
 /* 분석 섹션 공통 위젯 */
 .section-widget { border-radius:10px;border:1px solid #e9ecef;box-shadow:0 2px 10px rgba(0,0,0,0.07);margin:20px 0;overflow:hidden; }
 .section-widget-header { display:flex;align-items:center;gap:8px;padding:14px 16px;color:#fff;font-weight:700;font-size:0.95rem;margin:0;line-height:1; }
@@ -1137,6 +1082,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 .sw-gray    { background:#868e96;background-image:linear-gradient(180deg,#868e96 0%,#495057 100%); }
 .sw-h2h     { background:#1098ad;background-image:linear-gradient(180deg,#1098ad 0%,#0c8599 100%); }
 .sw-power   { background:#e67700;background-image:linear-gradient(180deg,#e67700 0%,#d9480f 100%); }
+.sw-injury  { background:#1a1a2e;background-image:linear-gradient(180deg,#1a1a2e 0%,#16213e 100%); }
 .sw-summary { background:#7048e8;background-image:linear-gradient(180deg,#7048e8 0%,#4c6ef5 100%); }
 .sw-divider { border:none;border-top:1px solid #e9ecef;margin:8px 0; }
 .recent-row { display:flex;align-items:center;gap:8px;margin-bottom:4px; }
@@ -1179,7 +1125,6 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 @media (max-width: 768px) {
   .section-widget-body { font-size:0.88rem; }
   .section-widget-header { font-size:0.88rem !important; padding:10px 12px; }
-  .injury-header { font-size:0.88rem !important; padding:10px 12px; }
   .power-list { font-size:0.84rem; }
   .power-title { font-size:0.88rem; }
   .recent-row span { font-size:0.84rem; }
