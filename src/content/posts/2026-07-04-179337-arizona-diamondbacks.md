@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 J. Cabrera (0-1, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/5270084.png\"]"
+homeLineup: "[\"선발투수 J. Cabrera (0-1, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/5270084.png\",\"1번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"2번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"3번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"4번 G. Moreno (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"5번 L. Gurriel Jr. (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36040.png\",\"6번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"7번 I. Vargas (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32985.png\",\"8번 L. Groover (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4752206.png\",\"9번 T. Troy (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4837403.png\"]"
 awayLineup: "[\"선발투수 K. Harrison (8-1, 2.57) ERA 2.57|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 ---
