@@ -71,14 +71,17 @@ async function fetchEnglishPlayerStats(playerId) {
     let era = null, wins = null, losses = null;
     try {
       const currentYear = String(new Date().getFullYear());
-      const pitchingSectionMatch = html.match(/Pitching Stats([\s\S]*?)(Batting Stats|$)/i);
-      let section = pitchingSectionMatch ? pitchingSectionMatch[1] : html;
 
-      // ⚠️ IP(이닝) 칸 안에 <table class="table_inning">가 통째로 중첩돼 있어서,
-      //    이걸 먼저 제거하지 않으면 시즌 행의 <tr>...</tr> 매칭이 이 안쪽 표의
-      //    </tr>에서 먼저 끊겨버려 뒤쪽 ERA 칸까지 못 읽음 (실측으로 확인된 원인).
-      //    td 자체는 남기고 내용물만 비워서 컬럼 개수/순서는 그대로 유지.
-      section = section.replace(/<table class="table_inning">[\s\S]*?<\/table>/gi, '');
+      // ⚠️ 이닝(IP) 칸에 <table class="table_inning">가 중첩돼 있어서, 이걸 문서 전체에서
+      //    먼저 제거해야 </table>/</tr> 매칭이 안쪽 표에서 끊기지 않음.
+      const cleanedHtml = html.replace(/<table class="table_inning">[\s\S]*?<\/table>/gi, '');
+
+      // ⚠️ "Pitching Stats"라는 텍스트는 실제 표 앞에도 나오지만, 그보다 먼저
+      //    탭 메뉴 라벨("Pitching Stats"/"Batting Stats"가 바로 옆에 붙어 나옴)로도 나와서
+      //    텍스트 기준 자르기는 탭 메뉴에서 끊겨버림 (실측으로 확인된 원인).
+      //    대신 투구 기록표의 고유 id(tablefix_p)를 기준으로 정확히 자른다.
+      const pStart = cleanedHtml.indexOf('id="tablefix_p"');
+      const section = pStart === -1 ? cleanedHtml : cleanedHtml.slice(pStart);
 
       const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
       let rowMatch;
