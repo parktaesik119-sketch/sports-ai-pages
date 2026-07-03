@@ -91,6 +91,7 @@ function getTeamScores(matches, teamName) {
 }
 
 // 공통 유틸: 가중 이동 평균 (최근 경기일수록 높은 가중치)
+// + 콜드게임 등 극단치(최고/최저)는 완전 제거하지 않고 가중치만 절반으로 낮춤
 function trimmedAvg(scores, isBball = false) {
   if (scores.length === 0) return null;
   if (scores.length === 1) return scores[0];
@@ -103,11 +104,18 @@ function trimmedAvg(scores, isBball = false) {
   // scores는 최신순으로 들어옴 (index 0 = 가장 최근)
   // 가중치: 최근 경기 N, 그 전 N-1, ... 1
   const n = validScores.length;
+  const maxScore = Math.max(...validScores);
+  const minScore = Math.min(...validScores);
   let weightedSum = 0;
   let totalWeight = 0;
 
   for (let i = 0; i < n; i++) {
-    const weight = n - i;
+    let weight = n - i;
+    // 콜드게임(대량득점/대량실점) 등 극단치는 실제 경기결과이니 반영은 하되,
+    // 평균을 과도하게 왜곡하지 않도록 가중치만 절반으로 낮춤 (완전 제거 X)
+    if (validScores[i] === maxScore || validScores[i] === minScore) {
+      weight *= 0.5;
+    }
     weightedSum += validScores[i] * weight;
     totalWeight += weight;
   }
@@ -126,7 +134,18 @@ function getH2hAvgScore(h2hMatches, teamName) {
   // 전체가 0점인 경기만 있으면 null 처리 (0-0 무승부 등)
   const nonZero = scores.filter(s => s > 0);
   if (nonZero.length === 0) return null;
-  return scores.reduce((a, b) => a + b, 0) / scores.length;
+  if (scores.length === 1) return scores[0];
+
+  // 콜드게임 등 극단치(최고/최저)는 완전 제외 대신 가중치만 절반으로 낮춤 (trimmedAvg와 동일 원칙)
+  const maxScore = Math.max(...scores);
+  const minScore = Math.min(...scores);
+  let weightedSum = 0, totalWeight = 0;
+  for (const s of scores) {
+    const weight = (s === maxScore || s === minScore) ? 0.5 : 1;
+    weightedSum += s * weight;
+    totalWeight += weight;
+  }
+  return weightedSum / totalWeight;
 }
 
 // H2H 경기 수에 따라 동적으로 가중치 결정
@@ -641,6 +660,7 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
   const strictlyRecentDate = new Date(isDataRichSport ? '2023-01-01' : '2024-01-01');
   const currentMatchDate = new Date(match.date);
 
+  let h2hForAvg = []; // 평균 계산 전용 (표시용 h2hHistory와 별개, 최대 10개까지 사용)
   let h2hHistory = masterData.filter(m => {
     const isMatch = ((m.home === match.home && m.away === match.away) || (m.home === match.away && m.away === match.home));
     const matchDate = new Date(m.date);
@@ -832,18 +852,22 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     const seasonNote = espnInfo.h2h.source === 'seasonseries' && espnInfo.h2h.text ? `\n현재 시즌 상대전적 요약: ${espnInfo.h2h.text}` : '';
     h2hContextForAI = `\n[ESPN 공식 데이터 - 상대전적 ${espnInfo.h2h.totalGames}경기]\n${aiGameLines}${seasonNote}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
 
-    // ESPN 우선 + all-fixtures로 5개까지 채우기: 같은 날짜(=같은 경기)는 중복 제외
+    // ESPN 우선 + all-fixtures로 채우기: 같은 날짜(=같은 경기)는 중복 제외
     const espnDates = new Set(sortedH2hGames.map(g => new Date(g.date).toISOString().slice(0, 10)));
     const supplementFromFixtures = h2hHistory.filter(h => {
       const hDate = new Date(h.date).toISOString().slice(0, 10);
       return !espnDates.has(hDate);
     });
 
-    h2hHistory = [...sortedH2hGames, ...supplementFromFixtures]
-      .sort((a, b) => new Date(b.date) - new Date(a.date))
-      .slice(0, 5);
+    const mergedH2h = [...sortedH2hGames, ...supplementFromFixtures]
+      .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    // 평균 계산용(h2hForAvg)은 최대 10개까지 넉넉히, 화면 표시용(h2hHistory)은 기존대로 5개만
+    h2hForAvg  = mergedH2h.slice(0, 10);
+    h2hHistory = mergedH2h.slice(0, 5);
   } else {
-    // ESPN H2H가 없으면 all-fixtures 버퍼(최대 10개)도 5개로 정리
+    // ESPN H2H가 없으면 all-fixtures 버퍼(최대 10개)를 그대로 평균용으로, 5개만 표시용으로
+    h2hForAvg  = h2hHistory.slice(0, 10);
     h2hHistory = h2hHistory.slice(0, 5);
   }
 
@@ -923,7 +947,7 @@ const sportPickRule = cat === 'lol'
 
 // JS로 예상스코어 계산 (롤 제외)
 const expectedScores = (cat !== 'lol')
-  ? calcExpectedScores(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, h2hHistory)
+  ? calcExpectedScores(homeRecentMatches, awayRecentMatches, match.home, match.away, cat, h2hForAvg)
   : null;
 
   //Avg 콘솔 출력
