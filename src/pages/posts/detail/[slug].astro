@@ -392,6 +392,15 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     const base = player.split('|')[0];
     return base.replace(/\s*\([^)]+\)$/, '');
   }
+  // 야구 포지션(한글)을 색상 배지로 분류 - 기존 축구용 색상 팔레트 재사용
+  // 포수=GK색(노랑), 내야수=DF색(초록), 외야수=MF색(파랑), 지명타자=FW색(빨강)
+  function getBaseballPosClass(pos: string): string {
+    if (pos === '포수') return 'pos-gk';
+    if (['1루수', '2루수', '3루수', '유격수'].includes(pos)) return 'pos-df';
+    if (['좌익수', '중견수', '우익수'].includes(pos)) return 'pos-mf';
+    if (pos === '지명타자') return 'pos-fw';
+    return 'pos-pos'; // 알 수 없는 포지션은 기존 회색 그대로
+  }
   function getPhoto(player: string) {
     const parts = player.split('|');
     return parts.length > 1 ? parts[parts.length - 1] : '';
@@ -442,7 +451,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
         {photo && <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />}
         <span class="pos-badge pos-num">{num}번</span>
         <span class="lineup-player-name">{pname}</span>
-        {ppos && <span class="pos-badge pos-pos">{ppos}</span>}
+        {ppos && <span class={`pos-badge ${getBaseballPosClass(ppos)}`}>{ppos}</span>}
       </div>
     );
   }
@@ -484,7 +493,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
         {photo && <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />}
         <span class="pos-badge pos-num">{num}번</span>
         <span class="lineup-player-name">{pname}</span>
-        {ppos && <span class="pos-badge pos-pos">{ppos}</span>}
+        {ppos && <span class={`pos-badge ${getBaseballPosClass(ppos)}`}>{ppos}</span>}
       </div>
     );
   }

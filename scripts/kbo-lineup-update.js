@@ -182,6 +182,17 @@ async function main() {
     const homeLineupLines = formatKboLineupLines(lineup?.home);
     const awayLineupLines = formatKboLineupLines(lineup?.away);
 
+    // 선발투수 이름을 맨 앞에 추가 (GetKboGameList에 이미 포함된 데이터라 API 호출 추가 없음)
+    // ⚠️ ERA/WAR 등 상세 기록은 안 붙임 - 이 스크립트는 "가벼운" 매시간 재조회 목적이라
+    //    (파일 상단 주석 참고) 상세 기록까지 넣으려면 GetPitcherRecordAnalysis를 추가로
+    //    불러야 해서 별도 논의 필요
+    if (matched.home?.starterName) {
+      homeLineupLines.unshift(`선발투수 ${matched.home.starterName}`);
+    }
+    if (matched.away?.starterName) {
+      awayLineupLines.unshift(`선발투수 ${matched.away.starterName}`);
+    }
+
     if (homeLineupLines.length === 0 && awayLineupLines.length === 0) {
       console.log(`   ⚠️ 라인업 데이터 없음 (아직 미발표일 수 있음)`);
       skipCount++;

@@ -39,33 +39,75 @@ export function findNpbGame(games, homeTeamEn, awayTeamEn) {
 }
 
 // ─────────────────────────────────────────────
-// 영어 이름 조회 (npb.jp/eng/)
-// ⚠️ npb.jp/eng/에는 予告先発投手(예고선발) 공지 페이지 자체가 없음(영어 사이트엔
-//    일정/공지 섹션이 없고 stats/teams/players만 있음). 그래서 페이지 자체를 영어판으로
-//    통째로 바꿀 수는 없고, 대신 이미 확보한 pitcherId로 선수 개인 페이지(영어판)를
-//    별도 조회해서 로마자 이름만 가져오는 방식으로 우회함.
-//    예: https://npb.jp/bis/eng/players/51055132.html
-//        <title>Takahashi,Keiji（Tokyo Yakult Swallows） | Players ...</title>
+// 영어 이름 + 시즌 성적(ERA/승패) 조회 (npb.jp/eng/)
+// npb.jp/eng/에는 予告先発投手(예고선발) 공지 페이지 자체가 없어서(영어 사이트엔
+// 일정/공지 섹션이 없고 stats/teams/players만 있음) 페이지 자체를 영어판으로 통째로
+// 바꿀 수는 없고, 대신 이미 확보한 pitcherId로 선수 개인 페이지(영어판)를 별도 조회해서
+// 로마자 이름 + 연도별 성적표에서 올해 행을 뽑아 쓰는 방식으로 우회함.
+// 예: https://npb.jp/bis/eng/players/51055132.html
+//     <title>Takahashi,Keiji（Tokyo Yakult Swallows） | Players ...</title>
+//     연도별 투구 성적표: Year | Team | G | W | L | ... | ERA(항상 마지막 컬럼)
+// 주의: raw HTML 태그 구조를 직접 확인 못하고 만든 파서라, 실사용 테스트로 검증 필요.
 // ─────────────────────────────────────────────
-async function fetchEnglishPlayerName(playerId) {
+async function fetchEnglishPlayerStats(playerId) {
   if (!playerId) return null;
   try {
     const res = await fetch(`${BASE}/bis/eng/players/${playerId}.html`, { headers: { 'User-Agent': 'Mozilla/5.0' } });
     if (!res.ok) return null;
     const html = await res.text();
+
+    // 이름 추출
     const titleMatch = html.match(/<title>([^<]+)<\/title>/i);
-    if (!titleMatch) return null;
+    let name = null;
+    if (titleMatch) {
+      const rawName = titleMatch[1].split(/[（|]/)[0].trim();
+      if (rawName) {
+        const [last, first] = rawName.split(',').map(s => s.trim());
+        name = (last && first) ? `${first} ${last}` : rawName;
+      }
+    }
 
-    // "Takahashi,Keiji（Tokyo Yakult Swallows） | Players | ..." → "Takahashi,Keiji"
-    const rawName = titleMatch[1].split(/[（|]/)[0].trim();
-    if (!rawName) return null;
+    // "Pitching Stats" 표에서 올해(YYYY) 행을 찾아 W/L/ERA 추출
+    let era = null, wins = null, losses = null;
+    try {
+      const currentYear = String(new Date().getFullYear());
+      const pitchingSectionMatch = html.match(/Pitching Stats([\s\S]*?)(Batting Stats|$)/i);
+      const section = pitchingSectionMatch ? pitchingSectionMatch[1] : html;
 
-    // "Takahashi,Keiji" (성,이름) → "Keiji Takahashi" (이름 성) 형태로 정리
-    const [last, first] = rawName.split(',').map(s => s.trim());
-    return (last && first) ? `${first} ${last}` : rawName;
+      const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
+      let rowMatch;
+      while ((rowMatch = rowRegex.exec(section))) {
+        const cellRegex = /<td[^>]*>([\s\S]*?)<\/td>/gi;
+        const cells = [];
+        let cellMatch;
+        while ((cellMatch = cellRegex.exec(rowMatch[1]))) {
+          cells.push(cellMatch[1].replace(/<[^>]+>/g, '').replace(/&nbsp;/g, '').trim());
+        }
+        if (cells.length > 4 && cells[0] === currentYear) {
+          // 헤더 순서: Year, Team, G, W, L, ... , ERA(마지막 컬럼 고정)
+          wins = cells[3] || null;
+          losses = cells[4] || null;
+          era = cells[cells.length - 1] || null;
+          break;
+        }
+      }
+    } catch {
+      // 성적표 파싱 실패해도 이름은 살리고 성적만 비움 (방어적 처리)
+    }
+
+    return { name, era, wins, losses };
   } catch {
     return null; // 실패하면 호출부에서 일본어 이름으로 폴백
   }
+}
+
+// ─────────────────────────────────────────────
+// HTML 조회
+// ─────────────────────────────────────────────
+export async function fetchStarterAnnouncementHtml() {
+  const res = await fetch(STARTER_URL, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+  if (!res.ok) throw new Error(`예고선발 페이지 호출 실패: HTTP ${res.status}`);
+  return await res.text();
 }
 
 // ─────────────────────────────────────────────
@@ -181,13 +223,25 @@ export async function fetchStarterAnnouncements() {
   const html = await fetchStarterAnnouncementHtml();
   const parsed = parseStarterAnnouncements(html);
 
-  // 경기별 홈/원정 선발투수의 영어(로마자) 이름을 병렬로 조회해서 pitcherNameEn으로 추가.
-  // 조회 실패 시 pitcherNameEn은 null로 남고, 호출부(fetch-npb-context.js)가
-  // 일본어 이름(pitcherName)으로 폴백 처리한다.
+  // 경기별 홈/원정 선발투수의 영어(로마자) 이름 + 시즌 성적(ERA/승패)을 병렬로 조회해서 추가.
+  // 조회 실패 시 각 필드는 null로 남고, 호출부(fetch-npb-context.js/npb-lineup-update.js)가
+  // 일본어 이름(pitcherName) 또는 이름만 있는 형태로 폴백 처리한다.
   await Promise.all(
     parsed.games.map(async (g) => {
-      if (g.home) g.home.pitcherNameEn = await fetchEnglishPlayerName(g.home.pitcherId);
-      if (g.away) g.away.pitcherNameEn = await fetchEnglishPlayerName(g.away.pitcherId);
+      if (g.home) {
+        const stats = await fetchEnglishPlayerStats(g.home.pitcherId);
+        g.home.pitcherNameEn = stats?.name || null;
+        g.home.pitcherEra = stats?.era || null;
+        g.home.pitcherWins = stats?.wins || null;
+        g.home.pitcherLosses = stats?.losses || null;
+      }
+      if (g.away) {
+        const stats = await fetchEnglishPlayerStats(g.away.pitcherId);
+        g.away.pitcherNameEn = stats?.name || null;
+        g.away.pitcherEra = stats?.era || null;
+        g.away.pitcherWins = stats?.wins || null;
+        g.away.pitcherLosses = stats?.losses || null;
+      }
     })
   );
 

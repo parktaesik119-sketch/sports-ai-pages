@@ -160,12 +160,18 @@ async function main() {
       continue;
     }
 
-    // espn-boxscore-update.js와 동일 포맷: "선발투수 {이름}" + 사진 있으면 "|{URL}"
+    // espn-boxscore-update.js와 동일 포맷: "선발투수 {이름} ({승}-{패}, {ERA})" + 사진 있으면 "|{URL}"
+    // 승/패/ERA 중 하나라도 없으면 괄호 없이 이름만 (fallback)
     function buildLine(side) {
-      const name  = matched[side]?.pitcherNameEn || matched[side]?.pitcherName;
-      const photo = matched[side]?.photoUrl;
+      const info = matched[side];
+      const name  = info?.pitcherNameEn || info?.pitcherName;
+      const photo = info?.photoUrl;
       if (!name) return null;
+
       let line = `선발투수 ${name}`;
+      if (info?.pitcherWins != null && info?.pitcherLosses != null && info?.pitcherEra != null) {
+        line += ` (${info.pitcherWins}-${info.pitcherLosses}, ${info.pitcherEra})`;
+      }
       if (photo) line += `|${photo}`;
       return line;
     }
