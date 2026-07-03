@@ -437,16 +437,21 @@ async function main() {
   for (const filePath of postFiles) {
     const fm = parseFrontmatter(filePath);
 
-    // 타자 데이터(번 타순)가 있으면 완료된 것으로 스킵, 선발투수만 있으면 재실행
+    // 라인업이 이미 채워져 있으면 스킵. 종목별로 저장 포맷이 달라서 체크 방식을 분기한다.
+    // - 야구: "1번 김민석 (좌익수)" 형태라 '번 ' 포함 여부로 판단
+    // - 그 외(축구/농구 등): "손흥민 (FW)|photo" 형태라 '번 '이 절대 없음 → 내용이 비어있는지("" 또는 "[]")로 판단
+    const category  = fm.category  || '';
     const existingLineup = fm.homeLineup || '';
-    const hasBatters = existingLineup.includes('번 ');
+    const unescapedLineup = existingLineup.replace(/\\"/g, '"').trim();
+    const hasBatters = category === 'baseball'
+      ? unescapedLineup.includes('번 ')
+      : (unescapedLineup !== '' && unescapedLineup !== '[]');
     if (hasBatters) {
-      console.log(`⏩ [스킵] 타자 라인업 완료: ${path.basename(filePath)}`);
+      console.log(`⏩ [스킵] 라인업 완료: ${path.basename(filePath)}`);
       skipCount++;
       continue;
     }
 
-    const category  = fm.category  || '';
     const league    = fm.league    || '';
     const homeTeamKo = fm.homeTeam || '';
     const awayTeamKo = fm.awayTeam || '';
