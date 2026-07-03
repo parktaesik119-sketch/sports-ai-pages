@@ -450,7 +450,7 @@ const TEAM_NAME_MAP = {
   // ===== ⚾ NPB =====
   "Chiba Lotte Marines": "지바 롯데 마린스",
   "Chunichi Dragons": "주니치 드래곤스",
-  "Fukuoka S. Hawks": "후쿠오카 소프트뱅크 호크스",
+  "Fukuoka S. Hawks": "소프트뱅크 호크스",
   "Hanshin Tigers": "한신 타이거스",
   "Hiroshima Carp": "히로시마 도요 카프",
   "Nippon Ham Fighters": "니혼햄 파이터즈",
