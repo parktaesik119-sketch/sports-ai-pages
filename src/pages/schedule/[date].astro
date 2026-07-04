@@ -91,12 +91,14 @@ const pageTitle = `${y}년 ${parseInt(m)}월 ${parseInt(d)}일 경기 일정 | �
 </style>
 
 <script define:vars={{ prevDate, nextDate }}>
-  document.addEventListener("astro:page-load", () => {
+  function initDateNav() {
     document.querySelector('[data-nav="prev"]')?.addEventListener("click", () => {
       location.href = `/schedule/${prevDate}`;
     });
     document.querySelector('[data-nav="next"]')?.addEventListener("click", () => {
       location.href = `/schedule/${nextDate}`;
     });
-  });
+  }
+  document.addEventListener("astro:page-load", initDateNav);
+  initDateNav();
 </script>
