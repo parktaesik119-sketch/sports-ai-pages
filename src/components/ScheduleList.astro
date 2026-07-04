@@ -65,6 +65,30 @@ function formatKST(iso: string) {
   return `${hh}:${mm}`;
 }
 
+// "국가명 + U연령대" 패턴(예: "Puerto Rico U17")을 감지해서, 국가명 부분만
+// 팀명 사전/국가명 사전에서 찾아 치환하고 "U17" 뒷부분은 그대로 붙인다.
+// (하이픈/공백 표기가 사전마다 달라서 둘 다 시도해본다: "Costa Rica" <-> "Costa-Rica")
+function lookupCountryFlexible(name: string): string | null {
+  const candidates = [name, name.replace(/ /g, "-"), name.replace(/-/g, " ")];
+  for (const c of candidates) {
+    if (MERGED_TEAM_NAME_MAP[c]) return MERGED_TEAM_NAME_MAP[c];
+    const viaCountry = getCountryName(c);
+    if (viaCountry && viaCountry !== c) return viaCountry;
+  }
+  return null;
+}
+
+function translateTeamName(name: string): string {
+  if (MERGED_TEAM_NAME_MAP[name]) return MERGED_TEAM_NAME_MAP[name];
+
+  const ageGroupMatch = name.match(/^(.+?)\s+(U\d{1,2})$/i);
+  if (ageGroupMatch) {
+    const translatedCountry = lookupCountryFlexible(ageGroupMatch[1].trim());
+    if (translatedCountry) return `${translatedCountry} ${ageGroupMatch[2].toUpperCase()}`;
+  }
+  return name;
+}
+
 const enriched = matches.map((m) => {
   const countryName = getCountryName(m.country ?? null);
   const flagCode = getFlagCode(m.country ?? null);
@@ -77,8 +101,8 @@ const enriched = matches.map((m) => {
     countryName, // null 가능 (country 필드 자체가 없는 경우, 예: 일부 e스포츠)
     flagCode, // null 가능 (country는 있지만 실제 국기가 없는 값, 예: World/대륙명)
     league: translateLeagueName(m.league),
-    home: MERGED_TEAM_NAME_MAP[m.home] ?? m.home,
-    away: MERGED_TEAM_NAME_MAP[m.away] ?? m.away,
+    home: translateTeamName(m.home),
+    away: translateTeamName(m.away),
     homeLogo: resolveLogo(m, "home"),
     awayLogo: resolveLogo(m, "away"),
   };
