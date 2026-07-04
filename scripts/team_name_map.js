@@ -1350,7 +1350,7 @@ const TEAM_NAME_MAP = {
   "Ningbo Professional": "닝보 프로페셔널",
   "Heilongjiang Lava Spring": "헤이룽장 훠샨밍취안",
   "Guangzhou E-Power": "광둥 GZ-파워",
-  "Wuxi Wugou": "윈난 유쿤",
+  "Wuxi Wugou": "우시 우고",
   "Sichuan Jiuniu": "선전 신청펑",
   "Chongqing Tongliang Long": "충칭 통량룽",
   "Beijing Guoan": "베이징 궈안",
@@ -1363,6 +1363,9 @@ const TEAM_NAME_MAP = {
   "Shanghai Shenhua": "상하이 선화",
   "Yunnan Yukun": "윈난 유쿤",
   "Qingdao Youth Island": "칭다오 FC",
+  "Shaanxi Union": "산시 유니온",
+  "Shenzhen Juniors": "선전 주니어스",
+  "Nantong Zhiyun": "난퉁 지윈",
 
 
 };

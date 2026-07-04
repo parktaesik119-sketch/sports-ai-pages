@@ -14,7 +14,37 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import Sidebar from "../../components/Sidebar.astro";
 import ScheduleList, { type Match } from "../../components/ScheduleList.astro";
 
-const DATE_FILE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
+// getStaticPaths는 Astro가 빌드 시 별도 청크로 분리해서 먼저 실행합니다.
+// 그래서 바깥(모듈 최상단)에 선언한 함수를 참조하면 "함수가 정의되지 않음" 에러가
+// 날 수 있어요 — 그래서 getStaticPaths 안에 필요한 로직을 전부 자체적으로 넣어서
+// 완전히 독립적으로 동작하게 만듭니다. (아래 본문용 loadMatchesForDate와 내용은
+// 같지만, 번들링 문제를 피하려고 일부러 중복시켜뒀습니다.)
+export async function getStaticPaths() {
+  function toKstDateString(iso: string) {
+    const kst = new Date(new Date(iso).getTime() + 9 * 60 * 60 * 1000);
+    return kst.toISOString().slice(0, 10);
+  }
+
+  const dataDir = path.resolve("./database");
+  const DATE_FILE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
+  const files = fs.existsSync(dataDir)
+    ? fs.readdirSync(dataDir).filter((f) => DATE_FILE_RE.test(f)).sort()
+    : [];
+
+  const dates = new Set<string>();
+  for (const file of files) {
+    try {
+      const json = JSON.parse(fs.readFileSync(path.join(dataDir, file), "utf-8"));
+      if (Array.isArray(json)) {
+        for (const m of json) dates.add(toKstDateString(m.date));
+      }
+    } catch {
+      // 파싱 실패한 파일은 건너뜀
+    }
+  }
+
+  return [...dates].map((date) => ({ params: { date } }));
+}
 
 // UTC ISO -> KST 기준 "YYYY-MM-DD" (서버 타임존과 무관하게 항상 KST로 고정)
 function toKstDateString(iso: string) {
@@ -22,12 +52,13 @@ function toKstDateString(iso: string) {
   return kst.toISOString().slice(0, 10);
 }
 
-// database/ 안의 모든 날짜 파일을 읽어서 id 기준으로 합칩니다.
+// database/ 안의 모든 날짜 파일을 읽어서 id 기준으로 합친 뒤, 특정 날짜(KST)만 걸러냅니다.
 // (파일명 오름차순으로 처리해서, 겹치는 id는 더 나중 파일 값이 최종 반영되도록)
-function loadAllMatches(): Match[] {
+function loadMatchesForDate(targetDate: string): Match[] {
   const dataDir = path.resolve("./database");
   if (!fs.existsSync(dataDir)) return [];
 
+  const DATE_FILE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
   const files = fs.readdirSync(dataDir).filter((f) => DATE_FILE_RE.test(f)).sort();
   const byId = new Map<string, Match>();
 
@@ -42,17 +73,11 @@ function loadAllMatches(): Match[] {
     }
   }
 
-  return [...byId.values()];
-}
-
-export async function getStaticPaths() {
-  const allMatches = loadAllMatches();
-  const dates = new Set(allMatches.map((m) => toKstDateString(m.date)));
-  return [...dates].map((date) => ({ params: { date } }));
+  return [...byId.values()].filter((m) => toKstDateString(m.date) === targetDate);
 }
 
 const { date } = Astro.params;
-const matches: Match[] = loadAllMatches().filter((m) => toKstDateString(m.date) === date);
+const matches: Match[] = loadMatchesForDate(date!);
 
 function shiftDate(base: string, days: number) {
   const d = new Date(`${base}T00:00:00Z`);
