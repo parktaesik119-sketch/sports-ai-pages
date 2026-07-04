@@ -20,6 +20,7 @@ import MERGED_TEAM_NAME_MAP from "../../data/i18n/team-additions/index.js";
 import LOL_LOGO_MAP from "../../data/i18n/team-additions/lol-logos.js";
 import { translateLeagueName } from "../../data/i18n/league-name-map.js";
 import { getCountryName, getFlagCode } from "../../data/i18n/country-lookup.js";
+import { isRealLolLeague } from "../../data/i18n/lol-league-allowlist.js";
 
 export interface Match {
   id: string;
@@ -70,6 +71,7 @@ const enriched = matches.map((m) => {
   return {
     id: m.id,
     sport: m.sport,
+    isLol: m.sport === "lol" && isRealLolLeague(m.league),
     timestamp: new Date(m.date).getTime(),
     timeLabel: formatKST(m.date),
     countryName, // null 가능 (country 필드 자체가 없는 경우, 예: 일부 e스포츠)
@@ -107,7 +109,8 @@ const SPORTS = [
     <defs>
       <symbol id="ic-soccer" viewBox="0 0 24 24">
         <circle cx="12" cy="12" r="9.3" fill="none" stroke="currentColor" stroke-width="1.3"/>
-        <path d="M12 7.2 L15.2 9.5 L14 13.3 L10 13.3 L8.8 9.5 Z" fill="currentColor"/>
+        <path d="M12 8.3 L14.7 10.2 L13.7 13.4 L10.3 13.4 L9.3 10.2 Z" fill="currentColor"/>
+        <path d="M12 8.3 V5.2 M14.7 10.2 L17.4 8.4 M13.7 13.4 L15.5 16.1 M10.3 13.4 L8.5 16.1 M9.3 10.2 L6.6 8.4" stroke="currentColor" stroke-width="1"/>
       </symbol>
       <symbol id="ic-baseball" viewBox="0 0 24 24">
         <circle cx="12" cy="12" r="9.3" fill="none" stroke="currentColor" stroke-width="1.3"/>
@@ -183,6 +186,11 @@ const SPORTS = [
   .sched-root {
     font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD Gothic Neo", sans-serif;
     color: #1a1a1a;
+    background: #fff;
+    border: 1px solid #e1e4e8;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    padding: 20px;
   }
 
   .sched-date-nav {
@@ -267,14 +275,14 @@ const SPORTS = [
 
   .sched-match-row {
     display: grid;
-    grid-template-columns: 22px 40px 1fr 20px 1fr;
+    grid-template-columns: 26px 44px 1fr 24px 1fr;
     align-items: center;
     gap: 8px;
-    padding: 6px 4px;
+    padding: 8px 4px;
     border-bottom: 1px solid #ececec;
     font-size: 13px;
   }
-  .sched-sport-icon { width: 16px; height: 16px; color: #666; }
+  .sched-sport-icon { width: 20px; height: 20px; color: #666; }
   .sched-time { font-size: 12px; color: #1a1a1a; font-variant-numeric: tabular-nums; }
   .sched-team {
     display: flex;
@@ -282,7 +290,8 @@ const SPORTS = [
     gap: 6px;
     min-width: 0;
   }
-  .sched-team.sched-away { justify-content: flex-end; }
+  .sched-team.sched-home { justify-content: flex-end; }
+  .sched-team.sched-away { justify-content: flex-start; }
   .sched-team img { width: 18px; height: 18px; object-fit: contain; flex-shrink: 0; }
   .sched-team .sched-name {
     font-size: 13px;
@@ -291,15 +300,38 @@ const SPORTS = [
     white-space: nowrap;
   }
   .sched-vs { text-align: center; font-size: 11px; color: #9aa1ab; font-weight: 600; }
+  .sched-vs-time { display: none; }
 
   .sched-empty-msg { color: #1a1a1a; font-size: 13px; padding: 16px 4px; text-align: center; }
   .sched-sentinel { height: 1px; }
+
+  /* 모바일: 팀명 2줄까지 표시 후 말줄임, vs 자리에 시간 표기 */
+  @media (max-width: 520px) {
+    .sched-root { padding: 14px; }
+    .sched-match-row {
+      grid-template-columns: 22px 1fr 40px 1fr;
+    }
+    .sched-time { display: none; }
+    .sched-vs-label { display: none; }
+    .sched-vs-time { display: block; font-size: 11px; color: #1a1a1a; font-weight: 600; }
+    .sched-team .sched-name {
+      white-space: normal;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      line-clamp: 2;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.3;
+    }
+  }
 </style>
 
 <script>
   interface EnrichedMatch {
     id: string;
     sport: string;
+    isLol: boolean;
     timestamp: number;
     timeLabel: string;
     countryName: string | null;
@@ -360,7 +392,10 @@ const SPORTS = [
           <span class="sched-name">${escapeHtml(m.home)}</span>
           <img src="${m.homeLogo}" alt="" loading="lazy" />
         </span>
-        <span class="sched-vs">vs</span>
+        <span class="sched-vs">
+          <span class="sched-vs-label">vs</span>
+          <span class="sched-vs-time">${m.timeLabel}</span>
+        </span>
         <span class="sched-team sched-away">
           <img src="${m.awayLogo}" alt="" loading="lazy" />
           <span class="sched-name">${escapeHtml(m.away)}</span>
@@ -402,7 +437,12 @@ const SPORTS = [
 
       function currentLists() {
         const now = Date.now();
-        const filtered = activeSport === "all" ? all : all.filter((m) => m.sport === activeSport);
+        const filtered =
+          activeSport === "all"
+            ? all
+            : activeSport === "lol"
+            ? all.filter((m) => m.isLol)
+            : all.filter((m) => m.sport === activeSport);
         const upcoming = filtered
           .filter((m) => m.timestamp > now)
           .sort((a, b) => a.timestamp - b.timestamp);
