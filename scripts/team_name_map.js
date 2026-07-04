@@ -490,6 +490,16 @@ const TEAM_NAME_MAP = {
   "Sacramento Kings": "새크라멘토 킹스",
   "Brooklyn Nets": "브루클린 네츠",
   "Memphis Grizzlies": "멤피스 그리즐리",
+  "Chicago Bulls": "시카고 불스",
+  "Dallas Mavericks": "댈러스 매버릭스",
+  "Golden State Warriors": "골든스테이트 워리어스",
+  "LA Clippers": "LA 클리퍼스",
+  "Miami Heat": "마이애미 히트",
+  "Milwaukee Bucks": "밀워키 벅스",
+  "Charlotte Hornets": "샬럿 호네츠",
+  "Indiana Pacers": "인디애나 페이서스",
+  "New Orleans Pelicans": "뉴올리언스 펠리컨스",
+  "Washington Wizards": "워싱턴 위저즈",
 
   // ===== 🏀 KBL =====
   "Anyang JungKwanJang": "안양 정관장",
