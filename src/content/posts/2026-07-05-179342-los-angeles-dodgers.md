@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 Y. Yamamoto (8-5, 2.67) ERA 2.67|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
+homeLineup: "[\"선발투수 Y. Yamamoto (8-5, 2.67) ERA 2.67|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\",\"1번 T. Edman (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/39907.png\",\"2번 A. Pages (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42468.png\",\"3번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"4번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"5번 K. Tucker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34967.png\",\"6번 T. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"7번 M. Muncy (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33303.png\",\"8번 D. Rushing (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4619839.png\",\"9번 A. Freeland (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4727589.png\"]"
 awayLineup: "[\"선발투수 W. Peralta (1-1, 2.38) ERA 2.38|https://a.espncdn.com/i/headshots/mlb/players/full/36036.png\"]"
 ---
