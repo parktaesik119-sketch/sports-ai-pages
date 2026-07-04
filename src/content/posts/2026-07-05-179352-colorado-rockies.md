@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 S. Sullivan (0-2, 8.64) ERA 8.64|https://a.espncdn.com/i/headshots/mlb/players/full/5128694.png\"]"
-awayLineup: "[\"선발투수 R. Ray (7-6, 3.39) ERA 3.39|https://a.espncdn.com/i/headshots/mlb/players/full/32175.png\"]"
+awayLineup: "[\"선발투수 R. Ray (7-6, 3.39) ERA 3.39|https://a.espncdn.com/i/headshots/mlb/players/full/32175.png\",\"1번 H. Ramos (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/39642.png\",\"2번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"3번 C. Schmitt (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4301949.png\",\"4번 R. Devers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/33859.png\",\"5번 J. Lee (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5134621.png\",\"6번 W. Adames (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33675.png\",\"7번 B. Eldridge (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png\",\"8번 V. Bericoto (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42502.png\",\"9번 E. Haase (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33452.png\"]"
 ---

@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 G. Kirby (7-7, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/42406.png\"]"
+homeLineup: "[\"선발투수 E. Hancock (5-4, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\"]"
 awayLineup: "[\"선발투수 T. Yesavage (4-3, 3.34) ERA 3.34|https://a.espncdn.com/i/headshots/mlb/players/full/4949041.png\"]"
 ---
