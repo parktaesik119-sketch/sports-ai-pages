@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 L. Gilbert (6-5, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+homeLineup: "[\"선발투수 L. Gilbert (6-5, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\",\"1번 J.P. Crawford (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33210.png\",\"2번 R. Arozarena (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36488.png\",\"3번 D. Canzone (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4345621.png\",\"4번 C. Raleigh (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41292.png\",\"5번 J. Naylor (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35066.png\",\"6번 L. Raley (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40422.png\",\"7번 C. Young (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080641.png\",\"8번 V. Robles (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/35042.png\",\"9번 C. Emerson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149068.png\"]"
 awayLineup: "[\"선발투수 S. Bieber (0-0, 6.00) ERA 6.00|https://a.espncdn.com/i/headshots/mlb/players/full/40912.png\"]"
 ---
