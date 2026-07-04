@@ -10,8 +10,9 @@ import ScheduleList, { type Match } from "../../components/ScheduleList.astro";
 
 export async function getStaticPaths() {
   const dataDir = path.resolve("./database");
+  const DATE_FILE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
   const files = fs.existsSync(dataDir)
-    ? fs.readdirSync(dataDir).filter((f) => f.endsWith(".json"))
+    ? fs.readdirSync(dataDir).filter((f) => DATE_FILE_RE.test(f))
     : [];
 
   return files.map((file) => ({ params: { date: file.replace(".json", "") } }));
