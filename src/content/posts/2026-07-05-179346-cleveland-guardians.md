@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 P. Messick (7-5, 2.85) ERA 2.85|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
+homeLineup: "[\"선발투수 P. Messick (7-5, 2.85) ERA 2.85|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\",\"1번 T. Bazzana (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png\",\"2번 C. DeLauter (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png\",\"3번 K. Manzardo (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4917927.png\",\"4번 K. Watson (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4872684.png\",\"5번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\",\"6번 C. Ingle (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4736964.png\",\"7번 D. Schneemann (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42001.png\",\"8번 A. Hedges (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32168.png\",\"9번 S. Kwan (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\"]"
 awayLineup: "[\"선발투수 S. Burke (5-4, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
 ---
