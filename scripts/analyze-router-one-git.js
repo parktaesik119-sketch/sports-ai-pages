@@ -76,6 +76,7 @@ function convertLeagueName(rawLeague) {
     { target: /^World Cup - Women$/i, replace: "월드컵 (W)" },
     { target: /^Friendlies$/i, replace: "국제친선" },
     { target: /^World Cup$/i, replace: "월드컵" },
+    { target: /^NBA Salt Lake City Summer League$/i, replace: "NBA 서머리그" },
   ];
   leagueReplacements.forEach(rule => { name = name.replace(rule.target, rule.replace); });
   return name;
@@ -507,7 +508,7 @@ if (isExtraFiltered) {
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
 
   // 2. 농구 
-  const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W'].some(el => el === upperLg);
+  const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W', 'NBA SALT LAKE CITY SUMMER LEAGUE'].some(el => el === upperLg);
   // 3. 배구 
   const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'NATIONS LEAGUE WOMEN','NATIONS LEAGUE'].some(el => el === upperLg);
   // 4. 야구 

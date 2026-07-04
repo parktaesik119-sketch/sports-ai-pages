@@ -486,6 +486,10 @@ const TEAM_NAME_MAP = {
   "Portland Trail Blazers": "포틀랜드 트레일블레이저스",
   "San Antonio Spurs": "샌안토니오 스퍼스",
   "Toronto Raptors": "토론토 랩터스",
+  "Utah Jazz": "유타 재즈",
+  "Sacramento Kings": "새크라멘토 킹스",
+  "Brooklyn Nets": "브루클린 네츠",
+  "Memphis Grizzlies": "멤피스 그리즐리",
 
   // ===== 🏀 KBL =====
   "Anyang JungKwanJang": "안양 정관장",
