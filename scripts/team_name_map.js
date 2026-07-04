@@ -355,6 +355,10 @@ const TEAM_NAME_MAP = {
   "Gumi Sportstoto W": "세종스포츠토토",
   "Incheon Red Angels W": "현대제철 레드엔젤스",
   "Yongin City": "용인 FC",
+  "Changwon City": "창원시청",
+  "Geumsan Insam": "금산 인삼",
+  "Pocheon": "포천 시민",
+  "Daejeon Korail": "대전 코레일",
 
   // ===== 🇺🇸 MLS =====
   "Atlanta United FC": "애틀랜타 유나이티드",
