@@ -86,6 +86,11 @@ function translateTeamName(name: string): string {
     const translatedCountry = lookupCountryFlexible(ageGroupMatch[1].trim());
     if (translatedCountry) return `${translatedCountry} ${ageGroupMatch[2].toUpperCase()}`;
   }
+
+  // U연령대가 없는 성인 국가대표팀(예: "Mali", "Uganda")도 국가명 사전을 확인
+  const viaCountry = lookupCountryFlexible(name);
+  if (viaCountry) return viaCountry;
+
   return name;
 }
 
