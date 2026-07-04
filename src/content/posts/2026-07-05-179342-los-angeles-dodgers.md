@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Y. Yamamoto (8-5, 2.67) ERA 2.67|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
+awayLineup: "[\"선발투수 G. Canning (1-5, 7.09) ERA 7.09|https://a.espncdn.com/i/headshots/mlb/players/full/41065.png\"]"
 ---

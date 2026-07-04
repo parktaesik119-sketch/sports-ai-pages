@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. Wacha (5-5, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\"]"
+awayLineup: "[\"선발투수 J. Luzardo (6-4, 3.88) ERA 3.88|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
 ---

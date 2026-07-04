@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Aldegheri (3-3, 4.85) ERA 4.85|https://a.espncdn.com/i/headshots/mlb/players/full/5221123.png\"]"
+awayLineup: "[\"선발투수 S. Gray (9-1, 2.69) ERA 2.69|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 ---

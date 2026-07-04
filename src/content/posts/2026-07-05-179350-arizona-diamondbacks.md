@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. Kelly (5-8, 5.84) ERA 5.84|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
+awayLineup: "[\"선발투수 B. Woodruff (2-1, 2.59) ERA 2.59|https://a.espncdn.com/i/headshots/mlb/players/full/37515.png\"]"
 ---
