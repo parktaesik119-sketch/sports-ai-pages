@@ -5,7 +5,7 @@
 // 나중에 축구/농구/배구 장기 꼬리 팀을 추가할 때도 이 폴더에 파일만 새로 만들고
 // 여기서 import + spread 해주면 됩니다.
 
-import TEAM_NAME_MAP from "../../../team_name_map.js"; // 실제 경로에 맞게 조정하세요
+import TEAM_NAME_MAP from "../../../scripts/team_name_map.js"; // root/scripts/team_name_map.js
 import baseballAdditions from "./baseball.js";
 import hockeyAdditions from "./hockey.js";
 import lolAdditions from "./lol.js";
