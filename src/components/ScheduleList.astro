@@ -146,11 +146,11 @@ const SPORTS = [
 
   <div class="sched-date-nav">
     <button type="button" class="sched-date-nav-btn" data-nav="prev" aria-label="이전 날짜">
-      <i aria-hidden="true">‹</i>
+      <i class="ti ti-chevron-left" aria-hidden="true"></i>
     </button>
     <span class="sched-date-label"><slot name="date-label">오늘</slot></span>
     <button type="button" class="sched-date-nav-btn" data-nav="next" aria-label="다음 날짜">
-      <i aria-hidden="true">›</i>
+      <i class="ti ti-chevron-right" aria-hidden="true"></i>
     </button>
   </div>
 
@@ -208,6 +208,7 @@ const SPORTS = [
     background: none;
     border: none;
     font-size: 18px;
+    font-style: normal;
     color: #1a1a1a;
     cursor: pointer;
     line-height: 1;
