@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Roansy Contreras|https://p.npb.jp/players_photo/2026/180/e/015_53555152.jpg\"]"
+awayLineup: "[\"선발투수 Ren Fukushima (3-2, 2.26)|https://p.npb.jp/players_photo/2026/180/f/045_81685155.jpg\"]"
 ---
