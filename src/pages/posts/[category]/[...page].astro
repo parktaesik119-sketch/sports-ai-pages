@@ -510,29 +510,32 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
     .board-header-center {
       flex-direction: row !important;
       flex-wrap: wrap !important;       /* 너무 좁은 화면에서는 자동으로 2줄로 떨어지는 안전장치 */
-      justify-content: center !important;
+      justify-content: space-between !important;  /* 기본(한 줄): 제목 왼쪽 / 날짜 오른쪽 */
       align-items: center !important;
       gap: 8px !important;
       padding: 8px 10px !important;    /* 헤더 영역 위아래 패딩을 10px에서 8px로 압축 */
     }
+    .board-header-center.is-wrapped {
+      justify-content: center !important;  /* 실제로 두 줄로 떨어졌을 때만 중앙 정렬 (JS로 감지) */
+    }
     .board-title-left h2 {
-      font-size: 0.92rem !important;
+      font-size: 1.05rem !important;
       margin-bottom: 0 !important;   /* 한 줄 배치라 세로 여백 자체가 불필요 */
     }
     .date-navigator {
       margin-bottom: 0px !important;
-      gap: 5px !important;             /* 화살표와 날짜 텍스트 사이 간격 좁힘 */
+      gap: 6px !important;             /* 화살표와 날짜 텍스트 사이 간격 좁힘 */
     }
     .date-display-text {
-      font-size: 0.85rem !important;  /* 제목(0.92rem)보다 작게 - 제목이 더 눈에 띄어야 함 */
+      font-size: 0.95rem !important;  /* 제목(1.05rem)보다 작게 - 제목이 더 눈에 띄어야 함 */
     }
     .date-nav-btn {
-      width: 22px !important;      /* 모바일에서는 살짝 더 작게 */
-      height: 22px !important;
+      width: 24px !important;      /* 모바일에서는 살짝 더 작게 */
+      height: 24px !important;
     }
     .date-nav-btn svg {
-      width: 11px !important;
-      height: 11px !important;
+      width: 12px !important;
+      height: 12px !important;
     }
 
     /* 📱 모바일 카드 세로 크기 압축 스타일 추가 */
@@ -905,6 +908,21 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
 </style>
 
 <script>
+  // 게시판 헤더(제목+날짜)가 실제로 한 줄인지 두 줄로 떨어졌는지 감지해서
+  // 한 줄이면 좌우 분리, 두 줄이면 중앙 정렬로 자동 전환
+  function checkHeaderWrap() {
+    document.querySelectorAll(".board-header-center").forEach((el) => {
+      const title = el.querySelector(".board-title-left");
+      const nav = el.querySelector(".date-navigator");
+      if (!title || !nav) return;
+      const wrapped = nav.getBoundingClientRect().top > title.getBoundingClientRect().top + 5;
+      el.classList.toggle("is-wrapped", wrapped);
+    });
+  }
+  window.addEventListener("load", checkHeaderWrap);
+  window.addEventListener("resize", checkHeaderWrap);
+  checkHeaderWrap();
+
   const input = document.getElementById("categorySearchInput");
   const btn = document.getElementById("categorySearchBtn"); 
   const dateInput = document.getElementById("dateFilterInput");
