@@ -1115,6 +1115,11 @@ body {
   background-image: url('/icons/megaphone.png');
 }
 
+/* 🗓 일정 */
+.menu.schedule::before {
+  background-image: url('/icons/schedule.png');
+}
+
 /* =========================
    🔥 메뉴 active 강조
 ========================= */

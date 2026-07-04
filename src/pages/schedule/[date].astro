@@ -1,0 +1,66 @@
+---
+// src/pages/schedule/[date].astro
+//
+// URL 예: /schedule/2026-07-04
+// root/database/{date}.json 을 읽어서 ScheduleList에 그대로 넘겨줍니다.
+
+import fs from "node:fs";
+import path from "node:path";
+import ScheduleList, { type Match } from "../../components/ScheduleList.astro";
+
+export async function getStaticPaths() {
+  const dataDir = path.resolve("./database");
+  const files = fs.existsSync(dataDir)
+    ? fs.readdirSync(dataDir).filter((f) => f.endsWith(".json"))
+    : [];
+
+  return files.map((file) => ({ params: { date: file.replace(".json", "") } }));
+}
+
+const { date } = Astro.params;
+const filePath = path.resolve(`./database/${date}.json`);
+
+let matches: Match[] = [];
+if (fs.existsSync(filePath)) {
+  matches = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+}
+
+function shiftDate(base: string, days: number) {
+  const d = new Date(`${base}T00:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + days);
+  return d.toISOString().slice(0, 10);
+}
+
+const prevDate = shiftDate(date!, -1);
+const nextDate = shiftDate(date!, 1);
+const [y, m, d] = date!.split("-");
+---
+
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{`${y}년 ${parseInt(m)}월 ${parseInt(d)}일 경기 일정`}</title>
+    <!-- flag-icons: npm install flag-icons 후, 실제로는 공용 레이아웃에서 한 번만 import 하세요 -->
+    <link rel="stylesheet" href="/node_modules/flag-icons/css/flag-icons.min.css" />
+  </head>
+  <body>
+    <main style="max-width: 720px; margin: 0 auto; padding: 24px 16px;">
+      <ScheduleList matches={matches}>
+        <Fragment slot="date-label">
+          {`${y}년 ${parseInt(m)}월 ${parseInt(d)}일`}
+        </Fragment>
+      </ScheduleList>
+    </main>
+
+    <script define:vars={{ prevDate, nextDate }}>
+      document.addEventListener("astro:page-load", () => {
+        document.querySelector('[data-nav="prev"]')?.addEventListener("click", () => {
+          location.href = `/schedule/${prevDate}`;
+        });
+        document.querySelector('[data-nav="next"]')?.addEventListener("click", () => {
+          location.href = `/schedule/${nextDate}`;
+        });
+      });
+    </script>
+  </body>
+</html>
