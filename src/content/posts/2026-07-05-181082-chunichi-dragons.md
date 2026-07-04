@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "4.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Yumeto Kanemaru (5-5, 2.62)|https://p.npb.jp/players_photo/2026/180/d/021_61565150.jpg\"]"
+awayLineup: "[\"선발투수 Haruto Inoue (6-5, 2.31)|https://p.npb.jp/players_photo/2026/180/g/097_51355151.jpg\"]"
 ---
