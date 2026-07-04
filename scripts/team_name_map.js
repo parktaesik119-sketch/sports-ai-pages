@@ -355,6 +355,38 @@ const TEAM_NAME_MAP = {
   "Gumi Sportstoto W": "세종스포츠토토",
   "Incheon Red Angels W": "현대제철 레드엔젤스",
   "Yongin City": "용인 FC",
+
+// ===== 🇰🇷 한국 FA컵 시민구단/아마추어팀 추가분 =====
+  "Anseong": "안성",
+  "Areum": "아름", // 추정 - 확인 필요
+  "Busan Transportation": "부산교통공사",
+  "Cheongju Showking": "청주 쇼킹", // 추정 - 확인 필요
+  "Chuncheon": "춘천",
+  "Dangjin Citizen": "당진시민",
+  "Gangneung City": "강릉시청",
+  "Geoje Citizen": "거제시민",
+  "Gijang United": "기장 유나이티드",
+  "Gyeongju HNP": "경주 한수원",
+  "Haman": "함안",
+  "Jecheon Citizen": "제천시민",
+  "Jincheon": "진천",
+  "Jinju Citizen": "진주시민",
+  "Jungnang Chorus Mustang": "중랑 코러스 무스탕", // 추정 - 확인 필요
+  "Mokpo City": "목포시청",
+  "Namyangju": "남양주",
+  "Pyeongchang United": "평창 유나이티드",
+  "Pyeongtaek Citizen": "평택시민",
+  "Sejong SA": "세종 SA", // 추정 - 확인 필요
+  "Seogot": "서곶", // 추정 - 확인 필요
+  "Seosan Pioneer": "서산 파이오니어",
+  "Siheung Citizen": "시흥시민",
+  "Ulsan Citizen": "울산시민",
+  "Ulsan FC": "울산 FC",
+  "Yangcheon TNT": "양천 TNT",
+  "Yangpyeong": "양평",
+  "Yangsan United": "양산 유나이티드",
+  "Yeoju Sejong": "여주 세종",
+  "Yeonsu Songdo": "연수 송도",
   "Changwon City": "창원시청",
   "Geumsan Insam": "금산 인삼",
   "Pocheon": "포천 시민",
