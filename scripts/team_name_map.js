@@ -1102,6 +1102,7 @@ const TEAM_NAME_MAP = {
   "Costa Rica W": "코스타리카",
   "Bolivia": "볼리비아",
   "Bolivia W": "볼리비아",
+  "Libya": "리비아",
   "Venezuela": "베네수엘라",
   "Nigeria": "나이지리아",
   "Nigeria W": "나이지리아",

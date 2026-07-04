@@ -171,6 +171,7 @@ const COUNTRY_MAP = {
   'Gambia': '감비아',
   'Mauritania': '모리타니',
   'Burundi': '부룬디',
+  'Libya': "리비아",
 
   // ===== 오세아니아 =====
   'Australia': '호주',
