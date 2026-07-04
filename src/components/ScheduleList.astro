@@ -11,6 +11,10 @@
 // - LoL은 로컬 로고(data/i18n/team-additions/lol-logos.js) 우선 → 없으면 API 로고 →
 //   그것도 없으면 홈/원정 각각 다른 기본 이미지
 // - 종목 필터(전체+6종목), 무한 스크롤(스피너 없이 이미 가진 데이터를 나눠서 렌더링)
+//
+// 주의: 경기 목록은 클라이언트 JS가 innerHTML로 나중에 그려 넣기 때문에,
+// Astro의 기본 scoped style로는 스타일이 안 먹습니다. 그래서 아래 <style>은
+// is:global로 두고, 대신 클래스 충돌을 막기 위해 전부 sched- 접두사를 붙였습니다.
 
 import MERGED_TEAM_NAME_MAP from "../../data/i18n/team-additions/index.js";
 import LOL_LOGO_MAP from "../../data/i18n/team-additions/lol-logos.js";
@@ -91,12 +95,12 @@ const SPORTS = [
 
 <!--
   flag-icons 라이브러리 필요: `npm install flag-icons` 하신 뒤
-  레이아웃(예: src/layouts/Base.astro) 한 곳에서
+  레이아웃(BaseLayout.astro) 한 곳에서
   `import "flag-icons/css/flag-icons.min.css";` 한 번만 넣어주세요.
 -->
 
 <div
-  class="schedule-root"
+  class="sched-root"
   data-matches={JSON.stringify(enriched)}
 >
   <svg width="0" height="0" style="position:absolute;" aria-hidden="true">
@@ -133,21 +137,21 @@ const SPORTS = [
     </defs>
   </svg>
 
-  <div class="date-nav">
-    <button type="button" class="date-nav-btn" data-nav="prev" aria-label="이전 날짜">
+  <div class="sched-date-nav">
+    <button type="button" class="sched-date-nav-btn" data-nav="prev" aria-label="이전 날짜">
       <i aria-hidden="true">‹</i>
     </button>
-    <span class="date-label"><slot name="date-label">오늘</slot></span>
-    <button type="button" class="date-nav-btn" data-nav="next" aria-label="다음 날짜">
+    <span class="sched-date-label"><slot name="date-label">오늘</slot></span>
+    <button type="button" class="sched-date-nav-btn" data-nav="next" aria-label="다음 날짜">
       <i aria-hidden="true">›</i>
     </button>
   </div>
 
-  <div class="sport-pills" role="tablist">
+  <div class="sched-sport-pills" role="tablist">
     {SPORTS.map((s, i) => (
       <button
         type="button"
-        class="pill"
+        class="sched-pill"
         data-sport={s.key}
         aria-pressed={i === 0 ? "true" : "false"}
       >
@@ -156,39 +160,39 @@ const SPORTS = [
     ))}
   </div>
 
-  <div class="section" data-section="upcoming">
-    <div class="section-heading">
-      <span class="dot dot-upcoming"></span>예정 경기
+  <div class="sched-section" data-section="upcoming">
+    <div class="sched-section-heading">
+      <span class="sched-dot sched-dot-upcoming"></span>예정 경기
     </div>
-    <div class="match-rows" data-rows="upcoming"></div>
-    <p class="empty-msg" data-empty="upcoming" hidden>예정된 경기가 없습니다.</p>
-    <div class="sentinel" data-sentinel="upcoming"></div>
+    <div class="sched-match-rows" data-rows="upcoming"></div>
+    <p class="sched-empty-msg" data-empty="upcoming" hidden>예정된 경기가 없습니다.</p>
+    <div class="sched-sentinel" data-sentinel="upcoming"></div>
   </div>
 
-  <div class="section" data-section="started">
-    <div class="section-heading">
-      <span class="dot dot-started"></span>진행중 · 종료
+  <div class="sched-section" data-section="started">
+    <div class="sched-section-heading">
+      <span class="sched-dot sched-dot-started"></span>진행중 · 종료
     </div>
-    <div class="match-rows started" data-rows="started"></div>
-    <p class="empty-msg" data-empty="started" hidden>진행중이거나 종료된 경기가 없습니다.</p>
-    <div class="sentinel" data-sentinel="started"></div>
+    <div class="sched-match-rows sched-started" data-rows="started"></div>
+    <p class="sched-empty-msg" data-empty="started" hidden>진행중이거나 종료된 경기가 없습니다.</p>
+    <div class="sched-sentinel" data-sentinel="started"></div>
   </div>
 </div>
 
-<style>
-  .schedule-root {
+<style is:global>
+  .sched-root {
     font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD Gothic Neo", sans-serif;
     color: #1a1a1a;
   }
 
-  .date-nav {
+  .sched-date-nav {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 16px;
     margin-bottom: 14px;
   }
-  .date-nav-btn {
+  .sched-date-nav-btn {
     background: none;
     border: none;
     font-size: 18px;
@@ -197,12 +201,12 @@ const SPORTS = [
     line-height: 1;
     padding: 4px 8px;
   }
-  .date-label {
+  .sched-date-label {
     font-size: 15px;
     font-weight: 600;
   }
 
-  .sport-pills {
+  .sched-sport-pills {
     display: flex;
     gap: 6px;
     overflow-x: auto;
@@ -210,7 +214,7 @@ const SPORTS = [
     margin-bottom: 12px;
     border-bottom: 1px solid #ececec;
   }
-  .pill {
+  .sched-pill {
     flex-shrink: 0;
     padding: 6px 14px;
     border-radius: 999px;
@@ -220,16 +224,16 @@ const SPORTS = [
     color: #555;
     cursor: pointer;
   }
-  .pill[aria-pressed="true"] {
+  .sched-pill[aria-pressed="true"] {
     background: #1a1a1a;
     color: #fff;
     border-color: #1a1a1a;
   }
 
-  .section {
+  .sched-section {
     margin-bottom: 26px;
   }
-  .section-heading {
+  .sched-section-heading {
     display: flex;
     align-items: center;
     gap: 8px;
@@ -238,13 +242,13 @@ const SPORTS = [
     margin-bottom: 4px;
     color: #333;
   }
-  .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
-  .dot-upcoming { background: #2f6fed; }
-  .dot-started { background: #9aa1ab; }
+  .sched-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+  .sched-dot-upcoming { background: #2f6fed; }
+  .sched-dot-started { background: #9aa1ab; }
 
-  .match-rows.started { opacity: 0.6; }
+  .sched-match-rows.sched-started { opacity: 0.6; }
 
-  .league-header {
+  .sched-league-header {
     display: flex;
     align-items: center;
     gap: 6px;
@@ -252,16 +256,16 @@ const SPORTS = [
     font-size: 11px;
     color: #9aa1ab;
   }
-  .league-header .fi,
-  .league-header .flag-fallback {
+  .sched-league-header .fi,
+  .sched-flag-fallback {
     width: 14px;
     height: 14px;
     border-radius: 2px;
     flex-shrink: 0;
   }
-  .flag-fallback { background-size: contain; background-repeat: no-repeat; }
+  .sched-flag-fallback { background-size: contain; background-repeat: no-repeat; }
 
-  .match-row {
+  .sched-match-row {
     display: grid;
     grid-template-columns: 22px 40px 1fr 20px 1fr;
     align-items: center;
@@ -270,26 +274,26 @@ const SPORTS = [
     border-bottom: 1px solid #ececec;
     font-size: 13px;
   }
-  .sport-icon { width: 16px; height: 16px; color: #666; }
-  .time { font-size: 12px; color: #666; font-variant-numeric: tabular-nums; }
-  .team {
+  .sched-sport-icon { width: 16px; height: 16px; color: #666; }
+  .sched-time { font-size: 12px; color: #666; font-variant-numeric: tabular-nums; }
+  .sched-team {
     display: flex;
     align-items: center;
     gap: 6px;
     min-width: 0;
   }
-  .team.away { justify-content: flex-end; }
-  .team img { width: 18px; height: 18px; object-fit: contain; flex-shrink: 0; }
-  .team .name {
+  .sched-team.sched-away { justify-content: flex-end; }
+  .sched-team img { width: 18px; height: 18px; object-fit: contain; flex-shrink: 0; }
+  .sched-team .sched-name {
     font-size: 13px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
-  .vs { text-align: center; font-size: 11px; color: #9aa1ab; font-weight: 600; }
+  .sched-vs { text-align: center; font-size: 11px; color: #9aa1ab; font-weight: 600; }
 
-  .empty-msg { color: #9aa1ab; font-size: 13px; padding: 16px 4px; text-align: center; }
-  .sentinel { height: 1px; }
+  .sched-empty-msg { color: #9aa1ab; font-size: 13px; padding: 16px 4px; text-align: center; }
+  .sched-sentinel { height: 1px; }
 </style>
 
 <script>
@@ -332,7 +336,7 @@ const SPORTS = [
     if (m.flagCode) {
       return `<span class="fi fi-${m.flagCode}"></span>`;
     }
-    return `<span class="flag-fallback" style="background-image:url('${FALLBACK_FLAG}')"></span>`;
+    return `<span class="sched-flag-fallback" style="background-image:url('${FALLBACK_FLAG}')"></span>`;
   }
 
   function leagueHeaderKey(m: EnrichedMatch) {
@@ -343,23 +347,23 @@ const SPORTS = [
     const countryPart = m.countryName
       ? `${flagHtml(m)}<span>${escapeHtml(m.countryName)} · ${escapeHtml(m.league)}</span>`
       : `<span>${escapeHtml(m.league)}</span>`;
-    return `<div class="league-header">${countryPart}</div>`;
+    return `<div class="sched-league-header">${countryPart}</div>`;
   }
 
   function rowHtml(m: EnrichedMatch) {
     const iconId = SPORT_ICON[m.sport] ?? "ic-soccer";
     return `
-      <div class="match-row">
-        <svg class="sport-icon"><use href="#${iconId}"/></svg>
-        <span class="time">${m.timeLabel}</span>
-        <span class="team home">
-          <span class="name">${escapeHtml(m.home)}</span>
+      <div class="sched-match-row">
+        <svg class="sched-sport-icon"><use href="#${iconId}"/></svg>
+        <span class="sched-time">${m.timeLabel}</span>
+        <span class="sched-team sched-home">
+          <span class="sched-name">${escapeHtml(m.home)}</span>
           <img src="${m.homeLogo}" alt="" loading="lazy" />
         </span>
-        <span class="vs">vs</span>
-        <span class="team away">
+        <span class="sched-vs">vs</span>
+        <span class="sched-team sched-away">
           <img src="${m.awayLogo}" alt="" loading="lazy" />
-          <span class="name">${escapeHtml(m.away)}</span>
+          <span class="sched-name">${escapeHtml(m.away)}</span>
         </span>
       </div>`;
   }
@@ -389,7 +393,7 @@ const SPORTS = [
   }
 
   function init() {
-    const roots = document.querySelectorAll<HTMLElement>(".schedule-root");
+    const roots = document.querySelectorAll<HTMLElement>(".sched-root");
 
     roots.forEach((root) => {
       const all: EnrichedMatch[] = JSON.parse(root.dataset.matches ?? "[]");
@@ -434,10 +438,10 @@ const SPORTS = [
       }
 
       // 종목 필터 클릭
-      root.querySelectorAll<HTMLButtonElement>(".pill").forEach((btn) => {
+      root.querySelectorAll<HTMLButtonElement>(".sched-pill").forEach((btn) => {
         btn.addEventListener("click", () => {
           activeSport = btn.dataset.sport ?? "all";
-          root.querySelectorAll<HTMLButtonElement>(".pill").forEach((b) => {
+          root.querySelectorAll<HTMLButtonElement>(".sched-pill").forEach((b) => {
             b.setAttribute("aria-pressed", b === btn ? "true" : "false");
           });
           visibleCounts.upcoming = BATCH_SIZE;

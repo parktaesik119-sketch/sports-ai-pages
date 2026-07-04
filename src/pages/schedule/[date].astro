@@ -3,9 +3,11 @@
 //
 // URL 예: /schedule/2026-07-04
 // root/database/{date}.json 을 읽어서 ScheduleList에 그대로 넘겨줍니다.
+// BaseLayout으로 감싸서 사이트 공용 헤더/메뉴 안에서 보이도록 합니다.
 
 import fs from "node:fs";
 import path from "node:path";
+import BaseLayout from "../../layouts/BaseLayout.astro";
 import ScheduleList, { type Match } from "../../components/ScheduleList.astro";
 
 export async function getStaticPaths() {
@@ -35,33 +37,24 @@ function shiftDate(base: string, days: number) {
 const prevDate = shiftDate(date!, -1);
 const nextDate = shiftDate(date!, 1);
 const [y, m, d] = date!.split("-");
+const pageTitle = `${y}년 ${parseInt(m)}월 ${parseInt(d)}일 경기 일정 | 픽천국`;
 ---
 
-<html lang="ko">
-  <head>
-    <meta charset="UTF-8" />
-    <title>{`${y}년 ${parseInt(m)}월 ${parseInt(d)}일 경기 일정`}</title>
-    <!-- flag-icons: npm install flag-icons 후, 실제로는 공용 레이아웃에서 한 번만 import 하세요 -->
-    <link rel="stylesheet" href="/node_modules/flag-icons/css/flag-icons.min.css" />
-  </head>
-  <body>
-    <main style="max-width: 720px; margin: 0 auto; padding: 24px 16px;">
-      <ScheduleList matches={matches}>
-        <Fragment slot="date-label">
-          {`${y}년 ${parseInt(m)}월 ${parseInt(d)}일`}
-        </Fragment>
-      </ScheduleList>
-    </main>
+<BaseLayout title={pageTitle} currentCategory="schedule">
+  <ScheduleList matches={matches}>
+    <Fragment slot="date-label">
+      {`${y}년 ${parseInt(m)}월 ${parseInt(d)}일`}
+    </Fragment>
+  </ScheduleList>
+</BaseLayout>
 
-    <script define:vars={{ prevDate, nextDate }}>
-      document.addEventListener("astro:page-load", () => {
-        document.querySelector('[data-nav="prev"]')?.addEventListener("click", () => {
-          location.href = `/schedule/${prevDate}`;
-        });
-        document.querySelector('[data-nav="next"]')?.addEventListener("click", () => {
-          location.href = `/schedule/${nextDate}`;
-        });
-      });
-    </script>
-  </body>
-</html>
+<script define:vars={{ prevDate, nextDate }}>
+  document.addEventListener("astro:page-load", () => {
+    document.querySelector('[data-nav="prev"]')?.addEventListener("click", () => {
+      location.href = `/schedule/${prevDate}`;
+    });
+    document.querySelector('[data-nav="next"]')?.addEventListener("click", () => {
+      location.href = `/schedule/${nextDate}`;
+    });
+  });
+</script>
