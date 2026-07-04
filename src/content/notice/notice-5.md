@@ -3,7 +3,7 @@ title: "픽천국 스포츠뉴스 & 축구·야구·농구·배구·하키·LOL 
 date: 2026-07-04T10:00:00
 slug: "notice-05"
 ---
-<img src="https://i.imgur.com/MRg3fcQ.png" style="width:100%; display:block; margin:20px auto;">
+<img src="/images/pickheaven-logo.svg" style="max-width:320px; width:100%; display:block; margin:20px auto;">
 <br>
 <b>
 안녕하세요, 픽천국입니다.<br><br>
