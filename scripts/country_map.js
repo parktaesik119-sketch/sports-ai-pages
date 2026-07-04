@@ -167,6 +167,7 @@ const COUNTRY_MAP = {
   'Benin': '베냉',
   'Gabon': '가봉',
   'Congo-DR': '콩고 민주공화국',
+  'D.R. Congo': '콩고 민주공화국',
   'Liberia': '라이베리아',
   'Gambia': '감비아',
   'Mauritania': '모리타니',
