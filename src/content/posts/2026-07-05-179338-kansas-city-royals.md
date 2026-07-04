@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 M. Wacha (5-5, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\"]"
+homeLineup: "[\"선발투수 M. Wacha (5-5, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\",\"1번 C. Jensen (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png\",\"2번 B. Witt Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42403.png\",\"3번 L. Thomas (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/36409.png\",\"4번 J. Caglianone (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4926296.png\",\"5번 N. Loftin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4314013.png\",\"6번 S. Marte (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/30830.png\",\"7번 I. Collins (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42959.png\",\"8번 M. Massey (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109223.png\",\"9번 T. Tolbert (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4151063.png\"]"
 awayLineup: "[\"선발투수 J. Luzardo (6-4, 3.88) ERA 3.88|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
 ---
