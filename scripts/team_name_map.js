@@ -479,7 +479,7 @@ const TEAM_NAME_MAP = {
   "Los Angeles Lakers": "LA 레이커스",
   "Minnesota Timberwolves": "미네소타 팀버울브스",
   "New York Knicks": "뉴욕 닉스",
-  "Oklahoma City Thunder": "오클라호마시티 선더",
+  "Oklahoma City Thunder": "오클라호마시티 썬더",
   "Orlando Magic": "올랜도 매직",
   "Philadelphia 76ers": "필라델피아 76ers",
   "Phoenix Suns": "피닉스 선즈",
