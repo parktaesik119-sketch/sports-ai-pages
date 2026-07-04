@@ -107,30 +107,9 @@ const SPORTS = [
 >
   <svg width="0" height="0" style="position:absolute;" aria-hidden="true">
     <defs>
-      <symbol id="ic-soccer" viewBox="0 0 24 24">
-        <circle cx="12" cy="12" r="9.3" fill="#e9e9e9" stroke="#888" stroke-width="0.7"/>
-        <polygon points="12,7.8 15,10 13.9,13.4 10.1,13.4 9,10" fill="#4a4a4a"/>
-        <path d="M12 7.8V4.9M15 10L17.6 8.2M13.9 13.4L15.7 16.2M10.1 13.4L8.3 16.2M9 10L6.4 8.2" stroke="#888" stroke-width="0.9"/>
-      </symbol>
-      <symbol id="ic-baseball" viewBox="0 0 24 24">
-        <circle cx="12" cy="12" r="9.3" fill="none" stroke="currentColor" stroke-width="1.3"/>
-        <path d="M6.5 6.8 C9 9 9 15 6.5 17.2" fill="none" stroke="currentColor" stroke-width="1.1"/>
-        <path d="M17.5 6.8 C15 9 15 15 17.5 17.2" fill="none" stroke="currentColor" stroke-width="1.1"/>
-      </symbol>
-      <symbol id="ic-basketball" viewBox="0 0 24 24">
-        <circle cx="12" cy="12" r="9.3" fill="none" stroke="currentColor" stroke-width="1.3"/>
-        <path d="M12 2.7 V21.3 M2.7 12 H21.3 M4.8 5.5 C8 9 8 15 4.8 18.5 M19.2 5.5 C16 9 16 15 19.2 18.5" fill="none" stroke="currentColor" stroke-width="1"/>
-      </symbol>
-      <symbol id="ic-volleyball" viewBox="0 0 24 24">
-        <circle cx="12" cy="12" r="9.3" fill="#fff" stroke="#d5d5d5" stroke-width="0.7"/>
-        <path d="M12 2.7C7.3 4.1 4.9 8 5.3 12.3C8.2 9.9 12 9 12 2.7Z" fill="#4dabf7"/>
-        <path d="M12 21.3C16.7 19.9 19.1 16 18.7 11.7C15.8 14.1 12 15 12 21.3Z" fill="#ffd43b"/>
-        <path d="M2.9 12.3C2.9 12.3 7.2 15.6 12 15.1C16.8 14.6 21.1 12.3 21.1 12.3" fill="none" stroke="#aaa" stroke-width="0.6"/>
-      </symbol>
       <symbol id="ic-hockey" viewBox="0 0 24 24">
-        <ellipse cx="12" cy="13.3" rx="9.3" ry="3.6" fill="#232323"/>
-        <ellipse cx="12" cy="11.6" rx="9.3" ry="3.6" fill="#3d3d3d" stroke="#555" stroke-width="0.5"/>
-        <ellipse cx="12" cy="10.6" rx="9.3" ry="2.4" fill="none" stroke="#c0392b" stroke-width="0.7" opacity="0.75"/>
+        <ellipse cx="12" cy="14" rx="9" ry="3.3" fill="#232323"/>
+        <ellipse cx="12" cy="12.3" rx="9" ry="3.3" fill="#3a3a3a" stroke="#565656" stroke-width="0.6"/>
       </symbol>
       <symbol id="ic-lol" viewBox="0 0 24 24">
         <rect x="3" y="8.5" width="18" height="8" rx="4" fill="none" stroke="currentColor" stroke-width="1.3"/>
@@ -287,7 +266,8 @@ const SPORTS = [
     border-bottom: 1px solid #ececec;
     font-size: 15px;
   }
-  .sched-sport-icon { width: 20px; height: 20px; color: #666; }
+  .sched-sport-icon { font-size: 20px; color: #666; }
+  svg.sched-sport-icon { width: 20px; height: 20px; }
   .sched-time { font-size: 15px; color: #1a1a1a; font-variant-numeric: tabular-nums; }
   .sched-team {
     display: flex;
@@ -352,14 +332,25 @@ const SPORTS = [
   const RECLASSIFY_INTERVAL_MS = 60_000;
   const FALLBACK_FLAG = "/assets/fallback/flag.svg";
 
-  const SPORT_ICON: Record<string, string> = {
-    soccer: "ic-soccer",
-    baseball: "ic-baseball",
-    basketball: "ic-basketball",
-    volleyball: "ic-volleyball",
+  const SPORT_ICON_FONT: Record<string, string> = {
+    soccer: "ti-ball-football",
+    baseball: "ti-ball-baseball",
+    basketball: "ti-ball-basketball",
+    volleyball: "ti-ball-volleyball",
+  };
+  const SPORT_ICON_SVG: Record<string, string> = {
     hockey: "ic-hockey",
     lol: "ic-lol",
   };
+
+  function sportIconHtml(sport: string) {
+    const fontClass = SPORT_ICON_FONT[sport];
+    if (fontClass) {
+      return `<i class="ti ${fontClass} sched-sport-icon" aria-hidden="true"></i>`;
+    }
+    const svgId = SPORT_ICON_SVG[sport] ?? "ic-hockey";
+    return `<svg class="sched-sport-icon"><use href="#${svgId}"/></svg>`;
+  }
 
   function escapeHtml(str: string) {
     return str
@@ -391,10 +382,9 @@ const SPORTS = [
   const FALLBACK_AWAY_LOGO = "/icons/wing3-away.png";
 
   function rowHtml(m: EnrichedMatch) {
-    const iconId = SPORT_ICON[m.sport] ?? "ic-soccer";
     return `
       <div class="sched-match-row">
-        <svg class="sched-sport-icon"><use href="#${iconId}"/></svg>
+        ${sportIconHtml(m.sport)}
         <span class="sched-time">${m.timeLabel}</span>
         <span class="sched-team sched-home">
           <span class="sched-name">${escapeHtml(m.home)}</span>
