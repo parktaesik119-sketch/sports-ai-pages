@@ -344,9 +344,13 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
           </div>
        
           <div class="date-navigator">
-            <button id="prevDateBtn" class="date-nav-btn">&lt;&lt;</button>
+            <button id="prevDateBtn" class="date-nav-btn" aria-label="이전 날짜">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+            </button>
             <span id="currentDateDisplay" class="date-display-text">{displayDate}</span>
-            <button id="nextDateBtn" class="date-nav-btn">&gt;&gt;</button>
+            <button id="nextDateBtn" class="date-nav-btn" aria-label="다음 날짜">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+            </button>
           </div>
 
           <input 
@@ -521,7 +525,8 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
       font-size: 1.1rem;
     }
     .date-nav-btn {
-      padding: 0px 4px;     /* 화살표 버튼 패딩 최소화 */
+      width: 26px;      /* 모바일에서는 살짝 더 작게 */
+      height: 26px;
     }
 
     /* 📱 모바일 카드 세로 크기 압축 스타일 추가 */
@@ -591,13 +596,26 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
   }
 
   .date-nav-btn {
-    background: none;
+    background: #f1f3f5;
     border: none;
-    font-size: 1.1rem;
-    font-weight: bold;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: #4dabf7;
     cursor: pointer;
-    padding: 4px 8px;
+    padding: 0;
+    flex-shrink: 0;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.1s ease;
+  }
+  .date-nav-btn:hover {
+    background: #e7f5ff;
+    color: #1c7ed6;
+  }
+  .date-nav-btn:active {
+    transform: scale(0.9);
   }
 
   .date-display-text {
