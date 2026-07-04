@@ -8,6 +8,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import Sidebar from "../../components/Sidebar.astro";
 import ScheduleList, { type Match } from "../../components/ScheduleList.astro";
 
 export async function getStaticPaths() {
@@ -41,12 +42,53 @@ const pageTitle = `${y}년 ${parseInt(m)}월 ${parseInt(d)}일 경기 일정 | �
 ---
 
 <BaseLayout title={pageTitle} currentCategory="schedule">
-  <ScheduleList matches={matches}>
-    <Fragment slot="date-label">
-      {`${y}년 ${parseInt(m)}월 ${parseInt(d)}일`}
-    </Fragment>
-  </ScheduleList>
+  <div class="main-layout-container">
+    <div class="sidebar-area">
+      <Sidebar />
+    </div>
+
+    <main class="content-area">
+      <ScheduleList matches={matches}>
+        <Fragment slot="date-label">
+          {`${y}년 ${parseInt(m)}월 ${parseInt(d)}일`}
+        </Fragment>
+      </ScheduleList>
+    </main>
+  </div>
 </BaseLayout>
+
+<style>
+/* 🔥 레이아웃 (index.astro / 축구·뉴스 게시판과 동일) */
+.main-layout-container {
+  display: flex !important;
+  flex-direction: row;
+  gap: 20px;
+  max-width: 1230px;
+  margin: 20px auto;
+  padding: 0 15px;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.sidebar-area {
+  width: 280px;
+  flex-shrink: 0;
+}
+
+.content-area {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 1024px) {
+  .main-layout-container {
+    flex-direction: column;
+  }
+  .sidebar-area {
+    width: 100%;
+  }
+}
+</style>
 
 <script define:vars={{ prevDate, nextDate }}>
   document.addEventListener("astro:page-load", () => {
