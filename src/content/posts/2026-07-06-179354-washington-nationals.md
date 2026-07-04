@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. Mikolas (2-7, 5.44) ERA 5.44|https://a.espncdn.com/i/headshots/mlb/players/full/32116.png\"]"
+awayLineup: "[\"선발투수 B. Chandler (3-8, 4.62) ERA 4.62|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
 ---

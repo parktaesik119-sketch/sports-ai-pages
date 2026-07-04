@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 E. Sheehan (4-5, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\"]"
+awayLineup: "[\"선발투수 J. Sears (1-1, 6.97) ERA 6.97|https://a.espncdn.com/i/headshots/mlb/players/full/39818.png\"]"
 ---

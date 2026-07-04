@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 T. Bibee (2-9, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
+awayLineup: "[\"선발투수 E. Fedde (3-6, 4.41) ERA 4.41|https://a.espncdn.com/i/headshots/mlb/players/full/33793.png\"]"
 ---

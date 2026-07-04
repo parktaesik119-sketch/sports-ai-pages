@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 T. Gordon (0-2, 6.69) ERA 6.69|https://a.espncdn.com/i/headshots/mlb/players/full/4415658.png\"]"
+awayLineup: "[\"선발투수 T. Mahle (1-8, 5.67) ERA 5.67|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
 ---

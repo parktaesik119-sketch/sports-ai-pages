@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 L. Avila (3-3, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/5201985.png\"]"
+awayLineup: "[\"선발투수 A. Nola (3-5, 6.04) ERA 6.04|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
 ---

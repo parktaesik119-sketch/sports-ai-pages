@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 E. Rodriguez (7-2, 2.21) ERA 2.21|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 B. Sproat (3-4, 5.28) ERA 5.28|https://a.espncdn.com/i/headshots/mlb/players/full/4621041.png\"]"
 ---
