@@ -26,6 +26,6 @@ pickHandicapTeam: "오클라호마시티 선더"
 pickHandicapValue: "-11.5"
 pickExpectedHome: ""
 pickExpectedAway: ""
-pickOuValue: "203.5"
+pickOuValue: "173.5"
 pickOuDirection: "오버"
 ---
