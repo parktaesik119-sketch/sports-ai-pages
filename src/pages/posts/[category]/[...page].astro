@@ -508,31 +508,31 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
     }
 
     .board-header-center {
-      flex-direction: row;
-      flex-wrap: wrap;       /* 너무 좁은 화면에서는 자동으로 2줄로 떨어지는 안전장치 */
-      justify-content: space-between;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 10px;    /* 헤더 영역 위아래 패딩을 10px에서 8px로 압축 */
+      flex-direction: row !important;
+      flex-wrap: wrap !important;       /* 너무 좁은 화면에서는 자동으로 2줄로 떨어지는 안전장치 */
+      justify-content: center !important;
+      align-items: center !important;
+      gap: 8px !important;
+      padding: 8px 10px !important;    /* 헤더 영역 위아래 패딩을 10px에서 8px로 압축 */
     }
     .board-title-left h2 {
-      font-size: 0.92rem;
-      margin-bottom: 0;   /* 한 줄 배치라 세로 여백 자체가 불필요 */
+      font-size: 0.92rem !important;
+      margin-bottom: 0 !important;   /* 한 줄 배치라 세로 여백 자체가 불필요 */
     }
     .date-navigator {
-      margin-bottom: 0px;
-      gap: 5px;             /* 화살표와 날짜 텍스트 사이 간격 좁힘 */
+      margin-bottom: 0px !important;
+      gap: 5px !important;             /* 화살표와 날짜 텍스트 사이 간격 좁힘 */
     }
     .date-display-text {
-      font-size: 0.85rem;  /* 제목(0.92rem)보다 작게 - 제목이 더 눈에 띄어야 함 */
+      font-size: 0.85rem !important;  /* 제목(0.92rem)보다 작게 - 제목이 더 눈에 띄어야 함 */
     }
     .date-nav-btn {
-      width: 22px;      /* 모바일에서는 살짝 더 작게 */
-      height: 22px;
+      width: 22px !important;      /* 모바일에서는 살짝 더 작게 */
+      height: 22px !important;
     }
     .date-nav-btn svg {
-      width: 11px;
-      height: 11px;
+      width: 11px !important;
+      height: 11px !important;
     }
 
     /* 📱 모바일 카드 세로 크기 압축 스타일 추가 */
