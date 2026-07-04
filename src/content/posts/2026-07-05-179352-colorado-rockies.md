@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 T. Sugano (8-4, 4.80) ERA 4.80|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
+homeLineup: "[\"선발투수 S. Sullivan (0-2, 8.64) ERA 8.64|https://a.espncdn.com/i/headshots/mlb/players/full/5128694.png\"]"
 awayLineup: "[\"선발투수 R. Ray (7-6, 3.39) ERA 3.39|https://a.espncdn.com/i/headshots/mlb/players/full/32175.png\"]"
 ---
