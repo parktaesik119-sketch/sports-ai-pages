@@ -1588,6 +1588,24 @@ const winnerIsHome = homeNames.some(n =>
     finalExpectedAway = '';
   }
 
+  // 5-2. 농구 데이터 부족 보정: expectedScores가 null이면(홈/원정 중 최근경기가 없거나
+  // H2H도 없어서 평균 자체를 못 낸 경우) AI가 대충 써낸 예상스코어(예: "3:0" 같은
+  // 농구답지 않은 값)를 믿지 않고, 핸디캡/OU를 현실적인 랜덤 범위로 대체한다.
+  // 데이터가 쌓여서 expectedScores가 정상 계산되면 이 분기는 자연히 안 타게 됨.
+  if (cat === 'basketball' && !expectedScores) {
+    const randomHalfStep = (min, max) => {
+      const steps = Math.round((max - min) / 0.5);
+      const n = Math.floor(Math.random() * (steps + 1));
+      return (min + n * 0.5).toFixed(1);
+    };
+    finalHandicapValue = `-${randomHalfStep(5.5, 15.5)}`;
+    finalOuValue = randomHalfStep(155.5, 185.5);
+    finalOuDirection = Math.random() < 0.5 ? '오버' : '언더';
+    finalExpectedHome = '';
+    finalExpectedAway = '';
+    console.warn(`⚠️ [데이터 부족] ${match.home} vs ${match.away} - 농구 최근경기/H2H 부족으로 핸디캡 ${finalHandicapValue} / OU ${finalOuValue} ${finalOuDirection} 랜덤 대체`);
+  }
+
   // 6. 팀명 일괄 치환 함수
   const replaceTeamNames = (text) => {
     if (!text) return '';
@@ -1604,7 +1622,9 @@ const winnerIsHome = homeNames.some(n =>
   const awayAnalysisKor   = replaceTeamNames(awayAnalysis);
   const summaryKor        = replaceTeamNames(summary);
   const finalPickWinTeamKor      = (finalPickWinTeam === '무승부') ? '' : replaceTeamNames(finalPickWinTeam);
-  const finalPickHandicapTeamKor = (pickHandicapTeam === '무승부' || finalHandicapValue === '') ? '' : replaceTeamNames(pickHandicapTeam);
+  // 핸디캡 팀은 AI가 따로 써내는 pickHandicapTeam을 믿지 않고 항상 승자 픽(finalPickWinTeam)과
+  // 동일하게 고정한다. 두 필드가 서로 다른 팀으로 나오는 불일치를 원천 차단하기 위함.
+  const finalPickHandicapTeamKor = (finalPickWinResult === '무승부' || finalHandicapValue === '') ? '' : replaceTeamNames(finalPickWinTeam);
   const homePowerItems  = homePowerRaw ? homePowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
   const awayPowerItems  = awayPowerRaw ? awayPowerRaw.split('|').map(s => replaceTeamNames(s.trim())).filter(Boolean) : [];
   const h2hItems = (h2hHistory && h2hHistory.length > 0)
