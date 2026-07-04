@@ -499,20 +499,31 @@ if (isExtraFiltered) {
   return el === cleanLg;
 });
   const mls = ['MAJOR LEAGUE SOCCER', 'MLS'].some(el => el === upperLg); // NEXT PRO는 이름이 다르므로 자동 차단됨
-  // [추가] 특정 국가에서만 통과시키고 싶은 리그 (리그명이 여러 나라에 겹칠 때 국가까지 같이 체크) 리그명+국가명 전부 대문자로 기재
-  const countryScopedLeagues = [
-    { league: 'FA CUP', country: 'SOUTH-KOREA' },
+  // [추가] 한국 FA컵: 초반 라운드엔 시민구단/아마추어팀이 많이 섞여있고
+  // 이런 팀들은 데이터가 거의 없어서 분석이 사실상 불가능함.
+  // 그래서 양쪽 팀이 둘 다 K리그/내셔널리그급(아래 목록)일 때만 통과시킨다.
+  const koreaEstablishedClubs = [
+    'BUCHEON FC 1995', 'DAEJEON CITIZEN', 'FC ANYANG', 'FC SEOUL', 'GANGWON FC',
+    'GIMCHEON SANGMU FC', 'GWANGJU FC', 'INCHEON UNITED', 'JEJU UNITED FC',
+    'JEONBUK MOTORS', 'POHANG STEELERS', 'ULSAN HYUNDAI FC', 'ANSAN GREENERS',
+    'ASAN MUGUNGHWA', 'BUSAN I PARK', 'CHEONAN CITY', 'CHEONGJU', 'DAEGU FC',
+    'GIMHAE CITY', 'GIMPO CITIZEN', 'GYEONGNAM FC', 'HWASEONG', 'JEONNAM DRAGONS',
+    'PAJU CITIZEN', 'SEONGNAM FC', 'SEOUL E-LAND FC', 'SUWON BLUEWINGS',
+    'SUWON CITY FC', 'YONGIN CITY', 'CHANGWON CITY', 'GEUMSAN INSAM', 'POCHEON',
+    'DAEJEON KORAIL',
   ];
-  const isCountryScopedLeague = countryScopedLeagues.some(
-    (el) => el.league === upperLg && el.country === upperCountry
-  );
+  const isKoreaFaCupBothEstablished =
+    upperLg === 'FA CUP' &&
+    upperCountry === 'SOUTH-KOREA' &&
+    koreaEstablishedClubs.includes(upperHome) &&
+    koreaEstablishedClubs.includes(upperAway);
   // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
   const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
   const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE','DFB POKAL', 'CONMEBOL SUDAMERICANA','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP'].some(el => el === upperLg);
 
   // 축구 통합 필터
-  const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision || isCountryScopedLeague);
+  const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision || isKoreaFaCupBothEstablished);
 
   // 2. 농구 
   const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W', 'NBA SALT LAKE CITY SUMMER LEAGUE'].some(el => el === upperLg);
