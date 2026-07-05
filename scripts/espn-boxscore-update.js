@@ -661,6 +661,15 @@ if (!eventCache[cacheKey]) {
 
     if (homeLineup.length === 0 && awayLineup.length === 0) {
       console.log(`   ⚠️ 라인업 데이터 없음`);
+      if ((espnSport === 'basketball' || espnSport.startsWith('basketball_summer') || espnSport === 'wnba') && summary) {
+        const players = summary?.boxscore?.players;
+        console.log(`   [진단] boxscore.players 존재: ${!!players} / 길이: ${players?.length ?? 'N/A'}`);
+        if (players && players.length > 0) {
+          const firstTeamAthletes = players[0]?.statistics?.[0]?.athletes;
+          console.log(`   [진단] 첫 팀 athletes 길이: ${firstTeamAthletes?.length ?? 'N/A'} / starter 필드 존재 예시: ${JSON.stringify(firstTeamAthletes?.[0]?.starter)}`);
+        }
+        console.log(`   [진단] summary?.rosters 존재: ${!!summary?.rosters} / 길이: ${summary?.rosters?.length ?? 'N/A'}`);
+      }
       skipCount++;
       continue;
     }
