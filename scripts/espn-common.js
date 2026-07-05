@@ -74,7 +74,8 @@ export function detectEspnSport(category, league, country) {
     else if (lg.includes('세리에 A') || lg === 'SERIE A')             key = 'soccer_seriea';
     else if (lg.includes('리그1') || lg === 'LIGUE 1')                key = 'soccer_ligue1';
     else if (lg.includes('에레디비시') || lg === 'EREDIVISIE')        key = 'soccer_eredivisie';
-    else if (lg.includes('K1') || lg === 'K LEAGUE 1')                key = 'soccer_kleague';
+    // K1(K리그)은 ESPN 커버리지가 부실해서(매칭 100% 실패 확인됨) 제외 - API 호출 낭비 방지
+    // else if (lg.includes('K1') || lg === 'K LEAGUE 1')                key = 'soccer_kleague';
 
     if (key && countryOk(key, country)) return key;
     return null;
