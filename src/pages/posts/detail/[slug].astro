@@ -453,7 +453,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     return (
       <div class="lineup-player-row" key={idx}>
         {pitcherPhoto
-          ? <img src={pitcherPhoto} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />
+          ? <img src={pitcherPhoto} alt={name} class="lineup-player-photo" onError="this.outerHTML='<span class=\"lineup-player-photo lineup-player-photo--placeholder\"><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#adb5bd\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"8\" r=\"4\"/><path d=\"M4 20c0-4 3.5-6 8-6s8 2 8 6\"/></svg></span>'" />
           : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
         <span class="pos-badge pos-gk">선발투수</span>
         <span class="lineup-player-name">{name} {(record || era) && <span style="color:#868e96;font-size:0.82rem;">({record ? `${record} ` : ''}평균자책점 {era})</span>}</span>
@@ -470,7 +470,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     return (
       <div class="lineup-player-row" key={idx}>
         {photo
-          ? <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />
+          ? <img src={photo} alt={pname} class="lineup-player-photo" onError="this.outerHTML='<span class=\"lineup-player-photo lineup-player-photo--placeholder\"><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#adb5bd\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"8\" r=\"4\"/><path d=\"M4 20c0-4 3.5-6 8-6s8 2 8 6\"/></svg></span>'" />
           : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
         <span class="pos-badge pos-num">{num}번</span>
         <span class="lineup-player-name">{pname}</span>
@@ -484,7 +484,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   return (
     <div class="lineup-player-row" key={idx}>
       {photo
-      ? <img src={photo} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />
+      ? <img src={photo} alt={name} class="lineup-player-photo" onError="this.outerHTML='<span class=\"lineup-player-photo lineup-player-photo--placeholder\"><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#adb5bd\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"8\" r=\"4\"/><path d=\"M4 20c0-4 3.5-6 8-6s8 2 8 6\"/></svg></span>'" />
       : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
       <span class="lineup-player-name">{name}</span>
       {pos && <span class={`pos-badge ${cls}`}>{pos}</span>}
@@ -501,7 +501,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     return (
       <div class="lineup-player-row" key={idx}>
         {pitcherPhoto
-          ? <img src={pitcherPhoto} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />
+          ? <img src={pitcherPhoto} alt={name} class="lineup-player-photo" onError="this.outerHTML='<span class=\"lineup-player-photo lineup-player-photo--placeholder\"><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#adb5bd\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"8\" r=\"4\"/><path d=\"M4 20c0-4 3.5-6 8-6s8 2 8 6\"/></svg></span>'" />
           : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
         <span class="pos-badge pos-gk">선발투수</span>
         <span class="lineup-player-name">{name} {(record || era) && <span style="color:#868e96;font-size:0.82rem;">({record ? `${record} ` : ''}평균자책점 {era})</span>}</span>
@@ -518,7 +518,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     return (
       <div class="lineup-player-row" key={idx}>
         {photo
-          ? <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />
+          ? <img src={photo} alt={pname} class="lineup-player-photo" onError="this.outerHTML='<span class=\"lineup-player-photo lineup-player-photo--placeholder\"><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#adb5bd\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"8\" r=\"4\"/><path d=\"M4 20c0-4 3.5-6 8-6s8 2 8 6\"/></svg></span>'" />
           : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
         <span class="pos-badge pos-num">{num}번</span>
         <span class="lineup-player-name">{pname}</span>
@@ -532,7 +532,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   return (
     <div class="lineup-player-row" key={idx}>
       {photo
-      ? <img src={photo} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />
+      ? <img src={photo} alt={name} class="lineup-player-photo" onError="this.outerHTML='<span class=\"lineup-player-photo lineup-player-photo--placeholder\"><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#adb5bd\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"8\" r=\"4\"/><path d=\"M4 20c0-4 3.5-6 8-6s8 2 8 6\"/></svg></span>'" />
       : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
       <span class="lineup-player-name">{name}</span>
       {pos && <span class={`pos-badge ${cls}`}>{pos}</span>}
