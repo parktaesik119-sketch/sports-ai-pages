@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 R. Johnson (1-3, 7.40) ERA 7.40|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
+homeLineup: "[\"선발투수 R. Johnson (1-3, 7.40) ERA 7.40|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\",\"1번 Z. Neto (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png\",\"2번 D. Guzman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4917822.png\",\"3번 V. Grissom (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42503.png\",\"4번 J. Soler (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32558.png\",\"5번 O. Peraza (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42479.png\",\"6번 J. Adell (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"7번 J. Siri (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/33954.png\",\"8번 L. O'Hoppe (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42047.png\",\"9번 J. Lowe (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40557.png\"]"
 awayLineup: "[\"선발투수 R. Suarez (4-3, 2.94) ERA 2.94|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
 ---
