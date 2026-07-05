@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 C. Cavalli (5-4, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png\"]"
-awayLineup: "[\"선발투수 B. Chandler (3-8, 4.62) ERA 4.62|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
+awayLineup: "[\"선발투수 B. Chandler (3-8, 4.62) ERA 4.62|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\",\"1번 K. Griffin (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5218285.png\",\"2번 B. Lowe (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39961.png\",\"3번 B. Reynolds (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/38980.png\",\"4번 E. Valdez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5137200.png\",\"5번 R. O'Hearn (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35183.png\",\"6번 N. Gonzales (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4311634.png\",\"7번 E. Rodriguez (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4712767.png\",\"8번 T. Callihan (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42487.png\",\"9번 J. Mangum (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42664.png\"]"
 ---
