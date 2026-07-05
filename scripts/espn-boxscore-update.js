@@ -629,7 +629,7 @@ if (!eventCache[cacheKey]) {
         homeLineup = leaders.home;
         awayLineup = leaders.away;
       }
-    } else if (espnSport === 'basketball' || espnSport === 'wnba') {
+    } else if (espnSport === 'basketball' || espnSport.startsWith('basketball_summer') || espnSport === 'wnba') {
       let parsed = summary ? parseBasketballRosters(summary, homeTeamEn, awayTeamEn) : null;
       if (!parsed) parsed = summary ? parseBasketballBoxscoreStarters(summary, homeTeamEn, awayTeamEn) : null;
       if (parsed) {
