@@ -33,6 +33,10 @@ function toEnglishTeamName(koName) {
 const ESPN_SPORTS = {
   baseball:        { sport: 'baseball',   league: 'mlb',           label: 'MLB'           },
   basketball:      { sport: 'basketball', league: 'nba',           label: 'NBA'           },
+  basketball_summer_utah:       { sport: 'basketball', league: 'nba-summer-utah',       label: 'NBA 서머리그(솔트레이크)' },
+  basketball_summer_lasvegas:   { sport: 'basketball', league: 'nba-summer-las-vegas',  label: 'NBA 서머리그(라스베가스)' },
+  basketball_summer_orlando:    { sport: 'basketball', league: 'nba-summer-orlando',    label: 'NBA 서머리그(올랜도)' },
+  basketball_summer_sacramento: { sport: 'basketball', league: 'nba-summer-sacramento', label: 'NBA 서머리그(새크라멘토)' },
   wnba:            { sport: 'basketball', league: 'wnba',          label: 'WNBA'          },
   hockey:          { sport: 'hockey',     league: 'nhl',           label: 'NHL'           },
   soccer_mls:      { sport: 'soccer',     league: 'usa.1',         label: 'MLS'           },
@@ -55,6 +59,13 @@ function detectEspnSport(category, league) {
   const lg  = (league   || '').toUpperCase();
   if (lg.includes('WNBA'))           return 'wnba';
   if (lg.includes('MLB'))            return 'baseball';
+  // NBA 서머리그는 정규시즌(nba)과 ESPN 리그 코드 자체가 달라서 먼저 걸러내야 함
+  if (lg.includes('서머리그') || lg.includes('CALIFORNIA CLASSIC')) {
+    if (lg.includes('솔트레이크'))   return 'basketball_summer_utah';
+    if (lg.includes('새크라멘토') || lg.includes('CALIFORNIA CLASSIC')) return 'basketball_summer_sacramento';
+    if (lg.includes('올랜도'))       return 'basketball_summer_orlando';
+    return 'basketball_summer_lasvegas'; // 도시 특정 안 되면 참가 팀이 가장 많은 라스베가스로 기본 처리
+  }
   if (cat === 'basketball' || lg.includes('NBA')) return 'basketball';
   if (cat === 'hockey'   || lg.includes('NHL'))   return 'hockey';
   if (cat === 'soccer') {
@@ -423,6 +434,36 @@ function getTargetPostFiles() {
 // ─────────────────────────────────────────────
 // 메인
 // ─────────────────────────────────────────────
+// ─────────────────────────────────────────────
+// 서머리그 도시 대조용: database/{date}.json 원본 fixtures 캐시
+// (analyze-router-one-git.js가 표시용으로는 "NBA 서머리그"로 뭉개버려서,
+//  라인업 매칭에 필요한 도시 정보는 원본 파일을 다시 대조해서 알아낸다)
+// ─────────────────────────────────────────────
+const rawFixturesCache = {};
+
+function loadRawFixtures(dateStr) {
+  if (dateStr in rawFixturesCache) return rawFixturesCache[dateStr];
+  const p = path.resolve(__dirname, `../database/${dateStr}.json`);
+  if (!fs.existsSync(p)) { rawFixturesCache[dateStr] = null; return null; }
+  try {
+    rawFixturesCache[dateStr] = JSON.parse(fs.readFileSync(p, 'utf-8'));
+  } catch {
+    rawFixturesCache[dateStr] = null;
+  }
+  return rawFixturesCache[dateStr];
+}
+
+// 홈/원정 영문 팀명 + 날짜로 원본(도시 정보 포함) 리그명 찾기. 못 찾으면 null.
+function findRawLeagueName(dateStr, homeTeamEn, awayTeamEn) {
+  const fixtures = loadRawFixtures(dateStr);
+  if (!fixtures) return null;
+  const found = fixtures.find(m =>
+    (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(homeTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(awayTeamEn)) ||
+    (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(awayTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(homeTeamEn))
+  );
+  return found ? (found.league || null) : null;
+}
+
 async function main() {
   console.log('📊 ESPN 라인업 업데이트 시작\n');
 
@@ -479,7 +520,20 @@ async function main() {
 
     const homeTeamEn = toEnglishTeamName(homeTeamKo);
     const awayTeamEn = toEnglishTeamName(awayTeamKo);
-    const espnSport  = detectEspnSport(category, league);
+
+    // 표시용 리그명이 "NBA 서머리그"로 뭉개져서 도시 구분이 안 될 때만,
+    // 원본 raw fixtures 파일을 다시 대조해서 실제 도시가 들어간 리그명으로 재감지
+    let detectLeague = league;
+    if (league.includes('서머리그') || league === 'California Classic') {
+      const rawLeague = findRawLeagueName(dateStr, homeTeamEn, awayTeamEn);
+      if (rawLeague) {
+        detectLeague = rawLeague;
+        console.log(`   ℹ️ 서머리그 도시 대조: 표시="${league}" → 원본="${rawLeague}"`);
+      } else {
+        console.log(`   ⚠️ 서머리그 원본 대조 실패 - database/${dateStr}.json에서 못 찾음 (라스베가스로 기본 처리)`);
+      }
+    }
+    const espnSport  = detectEspnSport(category, detectLeague);
 
     if (!espnSport || espnSport === 'wnba') {
   skipCount++;

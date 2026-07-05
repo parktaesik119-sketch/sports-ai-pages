@@ -57,6 +57,7 @@ export const EXACT_LEAGUE_MAP = {
   // 농구
   "NBA": "NBA",
   "NBA Salt Lake City Summer League": "NBA 썸머리그",
+  "California Classic": "NBA 썸머리그",
   "WNBA": "WNBA",
   "KBL": "KBL",
   "WKBL": "WKBL",
