@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 E. Hancock (5-4, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\"]"
+homeLineup: "[\"선발투수 E. Hancock (5-4, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\",\"1번 J.P. Crawford (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33210.png\",\"2번 R. Arozarena (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36488.png\",\"3번 C. Raleigh (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41292.png\",\"4번 J. Naylor (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35066.png\",\"5번 L. Raley (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40422.png\",\"6번 C. Young (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080641.png\",\"7번 M. Garver (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33667.png\",\"8번 C. Emerson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149068.png\",\"9번 V. Robles (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/35042.png\"]"
 awayLineup: "[\"선발투수 T. Yesavage (4-3, 3.34) ERA 3.34|https://a.espncdn.com/i/headshots/mlb/players/full/4949041.png\"]"
 ---
