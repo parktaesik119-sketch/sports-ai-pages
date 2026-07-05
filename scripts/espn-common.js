@@ -9,10 +9,10 @@
 export const ESPN_SPORTS = {
   baseball:           { sport: 'baseball',   league: 'mlb',            label: 'MLB'             },
   basketball:         { sport: 'basketball', league: 'nba',            label: 'NBA'             },
-  basketball_summer_utah:       { sport: 'basketball', league: 'nba-summer-utah',       label: 'NBA 서머리그(솔트레이크)' },
-  basketball_summer_lasvegas:   { sport: 'basketball', league: 'nba-summer-las-vegas',  label: 'NBA 서머리그(라스베가스)' },
-  basketball_summer_orlando:    { sport: 'basketball', league: 'nba-summer-orlando',    label: 'NBA 서머리그(올랜도)' },
-  basketball_summer_sacramento: { sport: 'basketball', league: 'nba-summer-sacramento', label: 'NBA 서머리그(새크라멘토)' },
+  basketball_summer_utah:       { sport: 'basketball', league: 'nba-summer-utah',       label: 'NBA 썸머리그(솔트레이크)' },
+  basketball_summer_lasvegas:   { sport: 'basketball', league: 'nba-summer-las-vegas',  label: 'NBA 썸머리그(라스베가스)' },
+  basketball_summer_orlando:    { sport: 'basketball', league: 'nba-summer-orlando',    label: 'NBA 썸머리그(올랜도)' },
+  basketball_summer_sacramento: { sport: 'basketball', league: 'nba-summer-sacramento', label: 'NBA 썸머리그(새크라멘토)' },
   wnba:               { sport: 'basketball', league: 'wnba',           label: 'WNBA'            },
   hockey:             { sport: 'hockey',     league: 'nhl',            label: 'NHL'             },
   soccer_mls:         { sport: 'soccer',     league: 'usa.1',          label: 'MLS'             },
@@ -59,7 +59,7 @@ export function detectEspnSport(category, league, country) {
   const lg  = (league   || '').toUpperCase();
 
   if (lg.includes('WNBA') || lg === 'NBA W')         return 'wnba';
-  // NBA 서머리그는 정규시즌(nba)과 ESPN 리그 코드 자체가 달라서 먼저 걸러내야 함
+  // NBA 썸머리그는 정규시즌(nba)과 ESPN 리그 코드 자체가 달라서 먼저 걸러내야 함
   if (cat === 'basketball' && (lg.includes('SUMMER LEAGUE') || lg.includes('CALIFORNIA CLASSIC'))) {
     if (lg.includes('SALT LAKE') || lg.includes('UTAH'))  return 'basketball_summer_utah';
     if (lg.includes('SACRAMENTO') || lg.includes('CALIFORNIA CLASSIC')) return 'basketball_summer_sacramento';
