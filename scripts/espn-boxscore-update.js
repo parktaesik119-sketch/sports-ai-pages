@@ -65,7 +65,8 @@ function detectEspnSport(category, league) {
     if (lg.includes('프리메라리가')) return 'soccer_primeira';
     if (lg.includes('UEFA 챔피언스리그') || lg.includes('UEFA CHAMPIONS')) return 'soccer_ucl';
     if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA')) return 'soccer_uel';
-    if (lg.includes('FIFA 월드컵') || lg.includes('FIFA WORLD'))      return 'soccer_worldcup';
+    if (lg.includes('FIFA 월드컵') || lg.includes('FIFA WORLD') ||
+        (lg.includes('월드컵') && !lg.includes('(W)') && !lg.includes('예선'))) return 'soccer_worldcup';
     if (lg.includes('P.L'))          return 'soccer_epl';
     if (lg.includes('세리에 A'))     return 'soccer_seriea';
     if (lg.includes('리그1'))        return 'soccer_ligue1';

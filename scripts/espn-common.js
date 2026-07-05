@@ -69,7 +69,7 @@ export function detectEspnSport(category, league, country) {
     else if (lg.includes('프리메라리가') || lg === 'PRIMEIRA LIGA')    key = 'soccer_primeira';
     else if (lg.includes('UEFA 챔피언스리그') || lg === 'UEFA CHAMPIONS LEAGUE') key = 'soccer_ucl';
     else if (lg.includes('UEFA 유로파리그') || lg === 'UEFA EUROPA LEAGUE') key = 'soccer_uel';
-    else if (lg.includes('FIFA 월드컵') || lg === 'WORLD CUP')        key = 'soccer_worldcup';
+    else if (lg.includes('FIFA 월드컵') || (lg.includes('WORLD CUP') && !lg.includes('WOMEN') && !lg.includes('QUALIF'))) key = 'soccer_worldcup';
     else if (lg.includes('P.L') || lg === 'PREMIER LEAGUE')           key = 'soccer_epl';
     else if (lg.includes('세리에 A') || lg === 'SERIE A')             key = 'soccer_seriea';
     else if (lg.includes('리그1') || lg === 'LIGUE 1')                key = 'soccer_ligue1';
