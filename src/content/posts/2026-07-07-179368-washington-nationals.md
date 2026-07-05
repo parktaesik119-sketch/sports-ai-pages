@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 M. Mikolas (2-7, 5.44) ERA 5.44|https://a.espncdn.com/i/headshots/mlb/players/full/32116.png\"]"
+awayLineup: "[\"선발투수 M. Burrows (4-8, 5.58) ERA 5.58|https://a.espncdn.com/i/headshots/mlb/players/full/4918155.png\"]"
 ---

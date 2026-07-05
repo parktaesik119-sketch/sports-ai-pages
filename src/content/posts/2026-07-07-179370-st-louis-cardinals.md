@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. McGreevy (3-7, 3.12) ERA 3.12|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 S. Drohan (3-2, 3.12) ERA 3.12|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
 ---
