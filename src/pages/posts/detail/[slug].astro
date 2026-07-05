@@ -452,7 +452,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     const pitcherPhoto = getPhoto(player);
     return (
       <div class="lineup-player-row" key={idx}>
-        {pitcherPhoto && <img src={pitcherPhoto} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />}
+        {pitcherPhoto
+          ? <img src={pitcherPhoto} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />
+          : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
         <span class="pos-badge pos-gk">선발투수</span>
         <span class="lineup-player-name">{name} {(record || era) && <span style="color:#868e96;font-size:0.82rem;">({record ? `${record} ` : ''}평균자책점 {era})</span>}</span>
       </div>
@@ -467,7 +469,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     const photo = getPhoto(player);
     return (
       <div class="lineup-player-row" key={idx}>
-        {photo && <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />}
+        {photo
+          ? <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />
+          : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
         <span class="pos-badge pos-num">{num}번</span>
         <span class="lineup-player-name">{pname}</span>
         {ppos && <span class={`pos-badge ${getBaseballPosClass(ppos)}`}>{ppos}</span>}
@@ -479,7 +483,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   const photo = getPhoto(player);
   return (
     <div class="lineup-player-row" key={idx}>
-      {photo && <img src={photo} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />}
+      {photo
+      ? <img src={photo} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />
+      : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
       <span class="lineup-player-name">{name}</span>
       {pos && <span class={`pos-badge ${cls}`}>{pos}</span>}
     </div>
@@ -494,7 +500,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     const pitcherPhoto = getPhoto(player);
     return (
       <div class="lineup-player-row" key={idx}>
-        {pitcherPhoto && <img src={pitcherPhoto} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />}
+        {pitcherPhoto
+          ? <img src={pitcherPhoto} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />
+          : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
         <span class="pos-badge pos-gk">선발투수</span>
         <span class="lineup-player-name">{name} {(record || era) && <span style="color:#868e96;font-size:0.82rem;">({record ? `${record} ` : ''}평균자책점 {era})</span>}</span>
       </div>
@@ -509,7 +517,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     const photo = getPhoto(player);
     return (
       <div class="lineup-player-row" key={idx}>
-        {photo && <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />}
+        {photo
+          ? <img src={photo} alt={pname} class="lineup-player-photo" onError="this.style.display='none'" />
+          : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
         <span class="pos-badge pos-num">{num}번</span>
         <span class="lineup-player-name">{pname}</span>
         {ppos && <span class={`pos-badge ${getBaseballPosClass(ppos)}`}>{ppos}</span>}
@@ -521,7 +531,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   const photo = getPhoto(player);
   return (
     <div class="lineup-player-row" key={idx}>
-      {photo && <img src={photo} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />}
+      {photo
+      ? <img src={photo} alt={name} class="lineup-player-photo" onError="this.style.display='none'" />
+      : <span class="lineup-player-photo lineup-player-photo--placeholder"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#adb5bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg></span>}
       <span class="lineup-player-name">{name}</span>
       {pos && <span class={`pos-badge ${cls}`}>{pos}</span>}
     </div>
@@ -669,7 +681,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   }
 </span>{typeof row === 'object' && <span class="recent-score">{row.score}</span>}</div>
         </div>
-      )) : <span>※ 업데이트 예정</span>}
+      )) : <span>※ 최근 공식 맞대결 정보 부족</span>}
     </div>
   </div>
 
@@ -1161,6 +1173,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 .lineup-player-row { display:flex;align-items:center;gap:10px;margin-bottom:10px;width:100%; }
 .lineup-player-name { font-size:0.92rem;color:#111;flex:1; }
 .lineup-player-photo { width:44px;height:44px;border-radius:50%;object-fit:cover;background:#eee;flex-shrink:0;border:1px solid #e9ecef; }
+.lineup-player-photo--placeholder { display:flex;align-items:center;justify-content:center; }
 .pos-badge { display:inline-flex;align-items:center;justify-content:center;min-width:36px;height:18px;border-radius:4px;font-size:0.68rem;font-weight:700;flex-shrink:0;letter-spacing:0.3px;padding:0 4px; }
 .pos-gk { background:#fff3bf;color:#5c3d00; }
 .pos-df { background:#d3f9d8;color:#1a4d24; }
