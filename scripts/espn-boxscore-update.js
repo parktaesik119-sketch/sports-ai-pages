@@ -60,7 +60,7 @@ function detectEspnSport(category, league) {
   if (lg.includes('WNBA'))           return 'wnba';
   if (lg.includes('MLB'))            return 'baseball';
   // NBA 썸머리그는 정규시즌(nba)과 ESPN 리그 코드 자체가 달라서 먼저 걸러내야 함
-  if (lg.includes('썸머리그') || lg.includes('SUMMER LEAGUE') || lg.includes('CALIFORNIA CLASSIC')) {
+  if (lg.includes('썸머리그') || lg.includes('서머리그') || lg.includes('SUMMER LEAGUE') || lg.includes('CALIFORNIA CLASSIC')) {
     if (lg.includes('솔트레이크') || lg.includes('SALT LAKE') || lg.includes('UTAH'))   return 'basketball_summer_utah';
     if (lg.includes('새크라멘토') || lg.includes('SACRAMENTO') || lg.includes('CALIFORNIA CLASSIC')) return 'basketball_summer_sacramento';
     if (lg.includes('올랜도') || lg.includes('ORLANDO'))       return 'basketball_summer_orlando';
@@ -524,7 +524,7 @@ async function main() {
     // 표시용 리그명이 "NBA 썸머리그"로 뭉개져서 도시 구분이 안 될 때만,
     // 원본 raw fixtures 파일을 다시 대조해서 실제 도시가 들어간 리그명으로 재감지
     let detectLeague = league;
-    if (league.includes('썸머리그') || league === 'California Classic') {
+    if (league.includes('썸머리그') || league.includes('서머리그') || league === 'California Classic') {
       const rawLeague = findRawLeagueName(dateStr, homeTeamEn, awayTeamEn);
       if (rawLeague) {
         detectLeague = rawLeague;

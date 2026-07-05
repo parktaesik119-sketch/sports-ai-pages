@@ -76,8 +76,8 @@ function convertLeagueName(rawLeague) {
     { target: /^World Cup - Women$/i, replace: "월드컵 (W)" },
     { target: /^Friendlies$/i, replace: "국제친선" },
     { target: /^World Cup$/i, replace: "월드컵" },
-    { target: /^NBA (Salt Lake City|Las Vegas|Orlando|Sacramento) Summer League$/i, replace: "NBA 서머리그" },
-    { target: /^California Classic$/i, replace: "NBA 서머리그" },
+    { target: /^NBA (Salt Lake City|Las Vegas|Orlando|Sacramento) Summer League$/i, replace: "NBA 썸머리그" },
+    { target: /^California Classic$/i, replace: "NBA 썸머리그" },
   ];
   leagueReplacements.forEach(rule => { name = name.replace(rule.target, rule.replace); });
   return name;
