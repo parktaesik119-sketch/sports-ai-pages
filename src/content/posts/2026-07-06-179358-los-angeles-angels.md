@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Johnson (1-3, 7.40) ERA 7.40|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
+awayLineup: "[\"선발투수 R. Suarez (4-3, 2.94) ERA 2.94|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
 ---
