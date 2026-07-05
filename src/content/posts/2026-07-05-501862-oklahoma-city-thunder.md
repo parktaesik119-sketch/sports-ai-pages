@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "175.5"
 pickOuDirection: "언더"
+homeLineup: "[\"A. Mara (C)|https://a.espncdn.com/i/headshots/nba/players/full/5367328.png\",\"J. Dix (G)|https://a.espncdn.com/i/headshots/nba/players/full/5367329.png\",\"B. Stirtz (G)|https://a.espncdn.com/i/headshots/nba/players/full/5367327.png\",\"O. Oweh (G)|https://a.espncdn.com/i/headshots/nba/players/full/5367326.png\",\"B. Barnhizer (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684208.png\"]"
+awayLineup: "[\"C. Boozer (F)|https://a.espncdn.com/i/headshots/nba/players/full/5367342.png\",\"C. Coward (F)|https://a.espncdn.com/i/headshots/nba/players/full/4903027.png\",\"T. Hendricks (F)|https://a.espncdn.com/i/headshots/nba/players/full/4684806.png\",\"O. Prosper (F)|https://a.espncdn.com/i/headshots/nba/players/full/4595400.png\",\"J. Small (G)|https://a.espncdn.com/i/headshots/nba/players/full/4781746.png\"]"
 ---
