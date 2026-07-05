@@ -340,6 +340,39 @@ function parseBasketballRosters(summary, homeTeamEn, awayTeamEn) {
 }
 
 // ─────────────────────────────────────────────
+// 농구: 경기 종료 후 대비 - boxscore.players(실제 출전/선발 여부 포함)에서 선발 추출
+// (rosters는 경기 전 예상 명단이라 경기 끝나면 비어있는 경우가 있음 - 그때 이걸로 대체)
+// ─────────────────────────────────────────────
+function parseBasketballBoxscoreStarters(summary, homeTeamEn, awayTeamEn) {
+  const players = summary?.boxscore?.players;
+  if (!players || players.length === 0) return null;
+
+  const result = { home: [], away: [] };
+
+  for (const teamBlock of players) {
+    const teamName = teamBlock.team?.displayName || teamBlock.team?.name || '';
+    const isHome   = matchTeam(teamName, homeTeamEn);
+    const side     = isHome ? 'home' : 'away';
+
+    const athleteEntries = teamBlock.statistics?.[0]?.athletes || [];
+    const starters = athleteEntries.filter(p => p.starter);
+
+    for (const p of starters) {
+      const name  = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos   = p.athlete?.position?.abbreviation || '';
+      const id    = p.athlete?.id || '';
+      const photo = id ? `https://a.espncdn.com/i/headshots/nba/players/full/${id}.png` : '';
+      let line = `${name} (${pos})`;
+      if (photo) line += `|${photo}`;
+      result[side].push(line);
+    }
+  }
+
+  if (result.home.length === 0 && result.away.length === 0) return null;
+  return result;
+}
+
+// ─────────────────────────────────────────────
 // Fallback: 스코어보드 leaders
 // ─────────────────────────────────────────────
 function parseLeadersFromEvent(event, homeTeamEn, awayTeamEn) {
@@ -597,7 +630,8 @@ if (!eventCache[cacheKey]) {
         awayLineup = leaders.away;
       }
     } else if (espnSport === 'basketball' || espnSport === 'wnba') {
-      const parsed = summary ? parseBasketballRosters(summary, homeTeamEn, awayTeamEn) : null;
+      let parsed = summary ? parseBasketballRosters(summary, homeTeamEn, awayTeamEn) : null;
+      if (!parsed) parsed = summary ? parseBasketballBoxscoreStarters(summary, homeTeamEn, awayTeamEn) : null;
       if (parsed) {
         homeLineup = parsed.home;
         awayLineup = parsed.away;
