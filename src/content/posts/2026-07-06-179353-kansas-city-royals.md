@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 L. Avila (3-3, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/5201985.png\"]"
+homeLineup: "[\"선발투수 L. Avila (3-3, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/5201985.png\",\"1번 C. Jensen (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png\",\"2번 B. Witt Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42403.png\",\"3번 J. Caglianone (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4926296.png\",\"4번 L. Thomas (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/36409.png\",\"5번 M. Massey (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109223.png\",\"6번 S. Perez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31127.png\",\"7번 J. Rojas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/40718.png\",\"8번 K. Misner (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42416.png\",\"9번 I. Collins (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42959.png\"]"
 awayLineup: "[\"선발투수 A. Nola (3-5, 6.04) ERA 6.04|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
 ---
