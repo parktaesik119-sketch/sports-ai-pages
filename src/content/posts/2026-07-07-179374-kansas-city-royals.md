@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 N. Cameron (4-6, 4.95) ERA 4.95|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\"]"
+homeLineup: "[\"선발투수 N. Cameron (4-6, 4.95) ERA 4.95|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\",\"1번 L. Thomas (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/36409.png\",\"2번 B. Witt Jr. (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42403.png\",\"3번 S. Perez (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/31127.png\",\"4번 J. Caglianone (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4926296.png\",\"5번 N. Loftin (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4314013.png\",\"6번 S. Marte (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/30830.png\",\"7번 T. Tolbert (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4151063.png\",\"8번 L. Maile (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33271.png\",\"9번 J. Rojas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/40718.png\"]"
 awayLineup: "[\"선발투수 C. Sanchez (10-3, 2.00) ERA 2.00|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
 ---
