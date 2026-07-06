@@ -56,7 +56,7 @@ async function main() {
     const sport = (match.sport || '').toLowerCase();
     if (!targetSports.has(sport)) { skipCount++; continue; }
 
-    const espnSport = detectEspnSport(sport, match.league || '', match.country || '');
+    const espnSport = detectEspnSport(sport, match.league || '', match.country || '', match.date || '');
     if (!espnSport || !ESPN_SPORTS[espnSport]) {
       skipCount++;
       continue;

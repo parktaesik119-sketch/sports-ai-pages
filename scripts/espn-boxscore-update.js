@@ -79,9 +79,17 @@ const ESPN_SPORTS = {
   soccer_ireland:  { sport: 'soccer',     league: 'irl.1',         label: 'D1(아일랜드)'    },
 };
 
-function detectEspnSport(category, league, country) {
+function detectEspnSport(category, league, country, matchDate) {
   const cat = (category || '').toLowerCase();
   const lg  = (league   || '').toUpperCase();
+  // UCL/UEL/UECL 예선은 항상 6~8월에 열리고, 본선(조별/리그 스테이지)은 9월에야 시작한다.
+  // api-sports의 league 필드는 예선/본선을 구분하는 단어 자체를 안 주기 때문에("UEFA
+  // Champions League"로 동일), 이 문자열만으로는 절대 구분할 수 없다 — 날짜로 판별한다.
+  const isUefaQualSeason = (() => {
+    if (!matchDate) return false;
+    const m = new Date(matchDate).getUTCMonth() + 1; // 1~12
+    return m >= 6 && m <= 8;
+  })();
   if (lg.includes('WNBA'))           return 'wnba';
   if (lg.includes('MLB'))            return 'baseball';
   // NBA 썸머리그는 정규시즌(nba)과 ESPN 리그 코드 자체가 달라서 먼저 걸러내야 함
@@ -101,18 +109,14 @@ function detectEspnSport(category, league, country) {
     if (lg.includes('분데스리가') && !lg.includes('분데스리가2')) return 'soccer_bundesliga';
     if (lg.includes('프리메라리가')) return 'soccer_primeira';
     if (lg.includes('UEFA 챔피언스리그') || lg.includes('UEFA CHAMPIONS')) {
-      // ESPN은 예선과 본선을 완전히 다른 리그 코드로 분리해서 관리한다(uefa.champions vs
-      // uefa.champions_qual). api-sports의 원문 리그명이 "UEFA Champions League Qualifying"처럼
-      // 예선도 "UEFA Champions League"를 포함하고 있어서, 부분포함 검사만으로는 구분이 안 된다.
-      // "QUALIF" 키워드로 예선 여부를 먼저 확인해야 본선 코드로 잘못 보내는 걸 막을 수 있다.
-      return lg.includes('QUALIF') ? 'soccer_ucl_qual' : 'soccer_ucl';
+      return isUefaQualSeason ? 'soccer_ucl_qual' : 'soccer_ucl';
     }
     // 컨퍼런스리그가 "UEFA EUROPA"를 부분 포함하는 원문 표기가 있을 수 있어 유로파리그보다 먼저 확인
     if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) {
-      return lg.includes('QUALIF') ? 'soccer_uecl_qual' : 'soccer_uecl';
+      return isUefaQualSeason ? 'soccer_uecl_qual' : 'soccer_uecl';
     }
     if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA')) {
-      return lg.includes('QUALIF') ? 'soccer_uel_qual' : 'soccer_uel';
+      return isUefaQualSeason ? 'soccer_uel_qual' : 'soccer_uel';
     }
     if (lg.includes('FIFA 월드컵') || lg.includes('FIFA WORLD') ||
         (lg.includes('월드컵') && !lg.includes('(W)') && !lg.includes('예선'))) return 'soccer_worldcup';
@@ -606,19 +610,19 @@ async function main() {
     const homeTeamEn = toEnglishTeamName(homeTeamKo);
     const awayTeamEn = toEnglishTeamName(awayTeamKo);
 
-    const espnSportGuess = detectEspnSport(category, league, fm.country);
-
-    if (!espnSportGuess || espnSportGuess === 'wnba') {
-      skipCount++;
-      continue;
-    }
-
     if (!fm.date || isNaN(new Date(fm.date))) {
       console.log(`⚠️ [스킵] frontmatter date 파싱 실패: ${path.basename(filePath)}`);
       skipCount++;
       continue;
     }
     const utcDateStr = new Date(fm.date).toISOString().slice(0, 10);
+
+    const espnSportGuess = detectEspnSport(category, league, fm.country, fm.date);
+
+    if (!espnSportGuess || espnSportGuess === 'wnba') {
+      skipCount++;
+      continue;
+    }
 
     console.log(`\n🔍 ${path.basename(filePath)}`);
     console.log(`   홈: ${homeTeamKo} → ${homeTeamEn}`);

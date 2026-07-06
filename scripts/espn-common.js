@@ -75,9 +75,17 @@ function countryOk(key, country) {
   return required.some(c => c.toLowerCase() === String(country).toLowerCase());
 }
 
-export function detectEspnSport(category, league, country) {
+export function detectEspnSport(category, league, country, matchDate) {
   const cat = (category || '').toLowerCase();
   const lg  = (league   || '').toUpperCase();
+  // UCL/UEL/UECL 예선은 항상 6~8월에 열리고, 본선(조별/리그 스테이지)은 9월에야 시작한다.
+  // api-sports의 league 필드는 예선/본선을 구분하는 단어를 안 주기 때문에(둘 다 그냥
+  // "UEFA Champions League"), 문자열만으로는 절대 구분이 안 되고 날짜로 판별해야 한다.
+  const isUefaQualSeason = (() => {
+    if (!matchDate) return false;
+    const m = new Date(matchDate).getUTCMonth() + 1; // 1~12
+    return m >= 6 && m <= 8;
+  })();
 
   if (lg.includes('WNBA') || lg === 'NBA W')         return 'wnba';
   // NBA 썸머리그는 정규시즌(nba)과 ESPN 리그 코드 자체가 달라서 먼저 걸러내야 함
@@ -100,16 +108,13 @@ export function detectEspnSport(category, league, country) {
     else if ((lg.includes('분데스리가') && !lg.includes('분데스리가2')) || lg === 'BUNDESLIGA') key = 'soccer_bundesliga';
     else if (lg.includes('프리메라리가') || lg === 'PRIMEIRA LIGA')    key = 'soccer_primeira';
     else if (lg.includes('UEFA 챔피언스리그') || lg === 'UEFA CHAMPIONS LEAGUE') {
-      // ESPN은 예선과 본선을 완전히 다른 리그 코드로 분리한다(uefa.champions vs
-      // uefa.champions_qual). 원문 리그명에 "Qualifying"이 포함돼 있어도
-      // "UEFA CHAMPIONS"는 그대로 포함되므로, QUALIF 키워드로 먼저 구분해야 한다.
-      key = lg.includes('QUALIF') ? 'soccer_ucl_qual' : 'soccer_ucl';
+      key = isUefaQualSeason ? 'soccer_ucl_qual' : 'soccer_ucl';
     }
     else if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) {
-      key = lg.includes('QUALIF') ? 'soccer_uecl_qual' : 'soccer_uecl';
+      key = isUefaQualSeason ? 'soccer_uecl_qual' : 'soccer_uecl';
     }
     else if (lg.includes('UEFA 유로파리그') || lg === 'UEFA EUROPA LEAGUE') {
-      key = lg.includes('QUALIF') ? 'soccer_uel_qual' : 'soccer_uel';
+      key = isUefaQualSeason ? 'soccer_uel_qual' : 'soccer_uel';
     }
     else if (lg.includes('FIFA 월드컵') || (lg.includes('WORLD CUP') && !lg.includes('WOMEN') && !lg.includes('QUALIF'))) key = 'soccer_worldcup';
     else if (lg.includes('P.L') || lg === 'PREMIER LEAGUE')           key = 'soccer_epl';
