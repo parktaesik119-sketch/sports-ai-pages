@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 E. Lauer (4-5, 4.84) ERA 4.84|https://a.espncdn.com/i/headshots/mlb/players/full/39915.png\"]"
-awayLineup: "[\"선발투수 K. Freeland (2-7, 7.25) ERA 7.25|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
+homeLineup: "[\"선발투수 J. Wrobleski (10-2, 2.80) ERA 2.80|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\"]"
+awayLineup: "[\"선발투수 M. Lorenzen (3-9, 6.91) ERA 6.91|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\"]"
 ---
