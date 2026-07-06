@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 P. Skenes (6-8, 3.62) ERA 3.62|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
-awayLineup: "[]"
+awayLineup: "[\"선발투수 H. Waldrep (0-0, 3.68) ERA 3.68|https://a.espncdn.com/i/headshots/mlb/players/full/4740117.png\"]"
 ---
