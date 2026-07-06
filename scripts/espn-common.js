@@ -125,8 +125,9 @@ export function detectEspnSport(category, league, country) {
       if (lg === 'JUPILER PRO LEAGUE' || c === 'belgium') key = 'soccer_belgium';
       else if (c === 'ireland' || c === 'republic of ireland') key = 'soccer_ireland';
     }
-    // K1(K리그)은 ESPN 커버리지가 부실해서(매칭 100% 실패 확인됨) 제외 - API 호출 낭비 방지
-    // else if (lg.includes('K1') || lg === 'K LEAGUE 1')                key = 'soccer_kleague';
+    // K1(K리그): 예전엔 팀명 매칭 100% 실패로 제외했었는데, 원인이 ESPN이 스폰서명을
+    // 생략한 축약 팀명을 쓰는 것(예: "Ulsan HD")으로 확인되어 TEAM_NAME_ALIASES로 보강 후 재활성화.
+    else if (lg.includes('K1') || lg === 'K LEAGUE 1')                key = 'soccer_kleague';
 
     if (key && countryOk(key, country)) return key;
     return null;
@@ -150,6 +151,20 @@ const NATION_ALIASES = {
   korearepublic: 'korearepublic',
 };
 
+// ─────────────────────────────────────────────
+// ESPN이 api-sports와 다른 축약 팀명을 쓰는 경우의 예외 매핑.
+// (예: K리그 "Ulsan Hyundai FC"를 ESPN은 "Ulsan HD"로 표기 — 중간에 낀 스폰서명
+//  "Hyundai" 때문에 일반 부분포함 매칭이 실패함. 이런 사례가 발견될 때마다 추가한다.)
+// 값은 normalizeTeamForMatch를 거친 정규화 문자열 기준.
+// ─────────────────────────────────────────────
+const TEAM_NAME_ALIASES = {
+  'ulsanhd': 'ulsanhyundaifc',
+};
+
+function resolveTeamAlias(normalized) {
+  return TEAM_NAME_ALIASES[normalized] || normalized;
+}
+
 export function normalize(str) {
   return (str || '').toLowerCase().replace(/[^a-z0-9]/g, '');
 }
@@ -161,7 +176,11 @@ export function matchTeam(espnName, dbName) {
   const en = normalizeTeamForMatch(espnName);
   const dn = normalizeTeamForMatch(dbName);
   if (!en || !dn) return false;
-  return en === dn || en.includes(dn) || dn.includes(en);
+  if (en === dn || en.includes(dn) || dn.includes(en)) return true;
+  // 일반 매칭 실패 시, 별칭 테이블로 한 번 더 시도 (스폰서명 생략 등 예외 케이스 대응)
+  const enAlias = resolveTeamAlias(en);
+  const dnAlias = resolveTeamAlias(dn);
+  return enAlias === dnAlias || enAlias.includes(dnAlias) || dnAlias.includes(enAlias);
 }
 
 // ─────────────────────────────────────────────
