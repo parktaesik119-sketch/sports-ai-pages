@@ -14,7 +14,16 @@ function buildReverseMap(mapFilePath) {
   const content = fs.readFileSync(mapFilePath, 'utf-8');
   const pairs   = [...content.matchAll(/"([^"]+)":\s*"([^"]+)"/g)];
   const reverse = {};
+  // 국가대표 남/여 팀이 같은 한글 라벨을 공유하는 경우가 있어서(예: "Belgium"/"Belgium W"
+  // 둘 다 "벨기에"), 파일에 어느 쪽이 먼저 나오든 상관없이 "W" 접미사 없는 일반(주로 남자부)
+  // 키를 우선 배정한다. 1차: 일반 키 먼저 채우고, 2차: 그래도 비어있는 한글 라벨만
+  // "W" 접미사 키(여자부 전용 팀 등)로 보충한다.
   for (const [, en, ko] of pairs) {
+    if (/ W$/.test(en)) continue;
+    if (!reverse[ko]) reverse[ko] = en;
+  }
+  for (const [, en, ko] of pairs) {
+    if (!/ W$/.test(en)) continue;
     if (!reverse[ko]) reverse[ko] = en;
   }
   return reverse;
@@ -646,7 +655,19 @@ async function main() {
     console.log(`   날짜(KST): ${dateStr} / 종목: ${ESPN_SPORTS[espnSport].label}`);
 
     // 스코어보드 조회 (캐시)
-    const utcDateStr = new Date(`${dateStr}T00:00:00+09:00`).toISOString().slice(0, 10);
+    // ⚠️ 예전엔 파일명 날짜(dateStr)를 "KST 자정"으로 가정하고 UTC로 역산했는데,
+    //    실제로는 파일명이 database/{date}.json의 미국 현지 기준 날짜를 그대로
+    //    물려받은 것이라 이 가정이 틀렸다 (예: 파일명 "2026-07-06"인데 실제 경기는
+    //    UTC 기준 07-07인 경우가 흔함 — 특히 미국 저녁 경기가 자정을 넘길 때).
+    //    frontmatter의 date 필드는 실제 경기 시각을 정확한 오프셋과 함께 그대로
+    //    저장해두고 있으므로, 이걸 직접 UTC로 변환해서 쓰는 게 훨씬 정확하다.
+    let utcDateStr;
+    if (fm.date && !isNaN(new Date(fm.date))) {
+      utcDateStr = new Date(fm.date).toISOString().slice(0, 10);
+    } else {
+      console.log(`   ⚠️ frontmatter date 파싱 실패 — 파일명 기반 추정치로 폴백`);
+      utcDateStr = new Date(`${dateStr}T00:00:00+09:00`).toISOString().slice(0, 10);
+    }
 const cacheKey = `${espnSport}_${utcDateStr}`;
 if (!eventCache[cacheKey]) {
   console.log(`   📡 스코어보드 호출: ${utcDateStr}`);
