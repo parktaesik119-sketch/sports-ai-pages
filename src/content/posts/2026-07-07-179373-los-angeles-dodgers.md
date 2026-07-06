@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 E. Lauer (4-5, 4.84) ERA 4.84|https://a.espncdn.com/i/headshots/mlb/players/full/39915.png\"]"
+awayLineup: "[\"선발투수 K. Freeland (2-7, 7.25) ERA 7.25|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
 ---

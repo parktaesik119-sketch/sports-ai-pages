@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 L. Roupp (5-8, 4.55) ERA 4.55|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
+awayLineup: "[\"선발투수 K. Gausman (4-7, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
 ---

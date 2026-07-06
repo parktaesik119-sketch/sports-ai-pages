@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Yutaro Ishida (3-8, 3.00)|https://p.npb.jp/players_photo/2026/180/db/054_21125159.jpg\"]"
+awayLineup: "[\"선발투수 Kyle Muller (2-4, 2.84)|https://p.npb.jp/players_photo/2026/180/d/093_13915150.jpg\"]"
 ---

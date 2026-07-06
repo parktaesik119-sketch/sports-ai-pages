@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Andre Jackson (5-5, 3.28)|https://p.npb.jp/players_photo/2026/180/m/042_43745159.jpg\"]"
+awayLineup: "[\"선발투수 Koki Kitayama (8-2, 1.98)|https://p.npb.jp/players_photo/2026/180/f/015_51755155.jpg\"]"
 ---
