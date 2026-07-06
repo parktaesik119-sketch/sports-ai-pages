@@ -487,14 +487,24 @@ function loadRawFixtures(dateStr) {
 }
 
 // 홈/원정 영문 팀명 + 날짜로 원본(도시 정보 포함) 리그명 찾기. 못 찾으면 null.
+// 수집기(analyze-router-one-git.js)는 미국 현지 경기일 기준으로 database/{date}.json을 묶어 저장하는 반면,
+// 이 스크립트는 글 파일명의 KST 날짜를 기준으로 조회하기 때문에 두 날짜가 어긋날 수 있다.
+// (예: KST 07-06 새벽 경기가 미국 기준 07-05 파일에 들어있는 경우)
+// 이를 보정하기 위해 대상 날짜뿐 아니라 하루 전 날짜 파일도 함께 확인한다.
 function findRawLeagueName(dateStr, homeTeamEn, awayTeamEn) {
-  const fixtures = loadRawFixtures(dateStr);
-  if (!fixtures) return null;
-  const found = fixtures.find(m =>
-    (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(homeTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(awayTeamEn)) ||
-    (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(awayTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(homeTeamEn))
-  );
-  return found ? (found.league || null) : null;
+  const prevDateStr = new Date(new Date(`${dateStr}T00:00:00Z`).getTime() - 86400000)
+    .toISOString().slice(0, 10);
+
+  for (const d of [dateStr, prevDateStr]) {
+    const fixtures = loadRawFixtures(d);
+    if (!fixtures) continue;
+    const found = fixtures.find(m =>
+      (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(homeTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(awayTeamEn)) ||
+      (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(awayTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(homeTeamEn))
+    );
+    if (found) return found.league || null;
+  }
+  return null;
 }
 
 async function main() {
@@ -563,7 +573,7 @@ async function main() {
         detectLeague = rawLeague;
         console.log(`   ℹ️ 썸머리그 도시 대조: 표시="${league}" → 원본="${rawLeague}"`);
       } else {
-        console.log(`   ⚠️ 썸머리그 원본 대조 실패 - database/${dateStr}.json에서 못 찾음 (라스베가스로 기본 처리)`);
+        console.log(`   ⚠️ 썸머리그 원본 대조 실패 - database/${dateStr}.json (및 전날 파일)에서 못 찾음 (라스베가스로 기본 처리)`);
       }
     }
     const espnSport  = detectEspnSport(category, detectLeague);
