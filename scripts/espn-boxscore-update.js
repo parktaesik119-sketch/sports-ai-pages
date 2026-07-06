@@ -52,6 +52,7 @@ const ESPN_SPORTS = {
   soccer_ligue1:   { sport: 'soccer',     league: 'fra.1',         label: '리그1'          },
   soccer_eredivisie: { sport: 'soccer',   league: 'ned.1',         label: '에레디비시'     },
   soccer_kleague:  { sport: 'soccer',     league: 'kor.1',         label: 'K1'            },
+  soccer_uruguay:  { sport: 'soccer',     league: 'uru.1',         label: '프리메라디비전' },
 };
 
 function detectEspnSport(category, league) {
@@ -82,6 +83,7 @@ function detectEspnSport(category, league) {
     if (lg.includes('세리에 A'))     return 'soccer_seriea';
     if (lg.includes('리그1'))        return 'soccer_ligue1';
     if (lg.includes('에레디비시'))   return 'soccer_eredivisie';
+    if (lg.includes('프리메라디비전')) return 'soccer_uruguay';
     // K1(K리그)은 ESPN 커버리지가 부실해서(매칭 100% 실패 확인됨) 제외 - API 호출 낭비 방지
     // if (lg.includes('K1'))           return 'soccer_kleague';
   }

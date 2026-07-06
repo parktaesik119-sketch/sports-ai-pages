@@ -28,6 +28,7 @@ export const ESPN_SPORTS = {
   soccer_ligue1:      { sport: 'soccer',     league: 'fra.1',          label: '리그1'           },
   soccer_eredivisie:  { sport: 'soccer',     league: 'ned.1',          label: '에레디비시'      },
   soccer_kleague:     { sport: 'soccer',     league: 'kor.1',          label: 'K1'              },
+  soccer_uruguay:     { sport: 'soccer',     league: 'uru.1',          label: '프리메라디비전'  },
 };
 
 // analyze-router-one-git.js의 cat('soccer'|'basketball'|'baseball'|'hockey'|'volleyball'|'lol')과
@@ -45,6 +46,7 @@ const COUNTRY_REQUIRED = {
   soccer_ligue1:      ['France'],
   soccer_eredivisie:  ['Netherlands'],
   soccer_kleague:     ['South Korea', 'Korea Republic', 'Korea'],
+  soccer_uruguay:     ['Uruguay'],
 };
 
 function countryOk(key, country) {
@@ -85,6 +87,11 @@ export function detectEspnSport(category, league, country) {
     else if (lg.includes('세리에 A') || lg === 'SERIE A')             key = 'soccer_seriea';
     else if (lg.includes('리그1') || lg === 'LIGUE 1')                key = 'soccer_ligue1';
     else if (lg.includes('에레디비시') || lg === 'EREDIVISIE')        key = 'soccer_eredivisie';
+    // 우루과이 리그는 시즌 전반기/후반기에 따라 원문 리그명이 "Primera División - Apertura"
+    // "- Clausura" 등으로 계속 바뀌기 때문에, 특정 문자열 매칭 대신 country 필드로 판별한다.
+    // (country 검증은 countryOk()에서 한 번 더 확인하지만, 여기서 country로 직접 판별해두면
+    // Apertura/Clausura 어느 쪽이든, 표기가 바뀌어도 안정적으로 잡힌다.)
+    else if (lg.includes('프리메라디비전') || (country && String(country).toLowerCase() === 'uruguay')) key = 'soccer_uruguay';
     // K1(K리그)은 ESPN 커버리지가 부실해서(매칭 100% 실패 확인됨) 제외 - API 호출 낭비 방지
     // else if (lg.includes('K1') || lg === 'K LEAGUE 1')                key = 'soccer_kleague';
 
