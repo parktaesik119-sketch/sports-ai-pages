@@ -176,6 +176,7 @@ const NATION_ALIASES = {
 // ─────────────────────────────────────────────
 const TEAM_NAME_ALIASES = {
   'ulsanhd': 'ulsanhyundaifc',
+  'usa': 'unitedstates',
 };
 
 function resolveTeamAlias(normalized) {

@@ -155,6 +155,9 @@ function detectEspnSport(category, league, country, matchDate) {
 //  "Hyundai" 때문에 일반 부분포함 매칭이 실패함. 이런 사례가 발견될 때마다 추가한다.)
 const TEAM_NAME_ALIASES = {
   'ulsanhd': 'ulsanhyundaifc',
+  // ESPN은 미국 축구 국가대표를 "United States"로 표기하는데, team_name_map의 영문
+  // 키는 "USA"라 부분포함 매칭이 실패한다(둘 사이에 공통 부분문자열이 없음).
+  'usa': 'unitedstates',
 };
 
 function resolveTeamAlias(normalized) {
@@ -632,33 +635,51 @@ async function main() {
     let espnSport = espnSportGuess;
     let matched   = null;
 
+    // ESPN 스코어보드는 순수 UTC 날짜가 아니라 미국 현지 시간(대략 동부시간) 기준으로
+    // 날짜를 나누는 것으로 확인됐다. 예: 실제 UTC로 "07-07 00:00"에 시작하는 경기가
+    // (=미국 동부시간으로는 전날 저녁) ESPN 스코어보드에는 "07-06" 쪽에 걸려있는 경우가 있다.
+    // 우리 날짜 계산 자체는 정확하지만(항상 UTC 기준), ESPN의 분류 기준이 달라서 생기는
+    // 어긋남이라 UTC-1일도 함께 시도한다.
+    const prevUtcDateStr = new Date(new Date(`${utcDateStr}T00:00:00Z`).getTime() - 86400000)
+      .toISOString().slice(0, 10);
+    const dateCandidates = [utcDateStr, prevUtcDateStr];
+
     if (SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)) {
       // 표시용 리그명이 "NBA 썸머리그"로 도시 정보가 뭉개져 있어서 어느 도시 대회인지
       // frontmatter만으로는 알 수 없다. DB 원본 파일을 대조하는 대신, 4개 도시
       // 스코어보드를 전부 조회해서 실제로 이 두 팀이 있는 곳을 직접 찾는다.
-      for (const cityKey of SUMMER_LEAGUE_CITY_KEYS) {
-        const cacheKey = `${cityKey}_${utcDateStr}`;
-        if (!eventCache[cacheKey]) {
-          console.log(`   📡 스코어보드 호출: ${ESPN_SPORTS[cityKey].label} / ${utcDateStr}`);
-          eventCache[cacheKey] = await fetchEspnEvents(cityKey, utcDateStr);
-          await new Promise(r => setTimeout(r, 500));
-        }
-        const found = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
-        if (found) {
-          matched = found;
-          espnSport = cityKey;
-          console.log(`   ✅ 도시 확인됨: ${ESPN_SPORTS[cityKey].label}`);
-          break;
+      outer:
+      for (const d of dateCandidates) {
+        for (const cityKey of SUMMER_LEAGUE_CITY_KEYS) {
+          const cacheKey = `${cityKey}_${d}`;
+          if (!(cacheKey in eventCache)) {
+            console.log(`   📡 스코어보드 호출: ${ESPN_SPORTS[cityKey].label} / ${d}`);
+            eventCache[cacheKey] = await fetchEspnEvents(cityKey, d);
+            await new Promise(r => setTimeout(r, 500));
+          }
+          const found = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
+          if (found) {
+            matched = found;
+            espnSport = cityKey;
+            console.log(`   ✅ 도시 확인됨: ${ESPN_SPORTS[cityKey].label} (조회 날짜: ${d})`);
+            break outer;
+          }
         }
       }
     } else {
-      const cacheKey = `${espnSport}_${utcDateStr}`;
-      if (!eventCache[cacheKey]) {
-        console.log(`   📡 스코어보드 호출: ${utcDateStr}`);
-        eventCache[cacheKey] = await fetchEspnEvents(espnSport, utcDateStr);
-        await new Promise(r => setTimeout(r, 800));
+      for (const d of dateCandidates) {
+        const cacheKey = `${espnSport}_${d}`;
+        if (!(cacheKey in eventCache)) {
+          console.log(`   📡 스코어보드 호출: ${d}`);
+          eventCache[cacheKey] = await fetchEspnEvents(espnSport, d);
+          await new Promise(r => setTimeout(r, 800));
+        }
+        matched = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
+        if (matched) {
+          if (d !== utcDateStr) console.log(`   ✅ 하루 전 날짜(${d})에서 찾음 (ESPN 날짜 분류 기준 차이)`);
+          break;
+        }
       }
-      matched = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
     }
 
     // 매칭 실패 시 팀 스케줄로 재시도 (현재는 WNBA만 실질적으로 동작, 나머지는 no-op)
@@ -676,15 +697,15 @@ async function main() {
       console.log(`   ⚠️ 경기 매칭 실패`);
       // 매칭이 계속 실패하는 리그가 있으면, ESPN이 그날 실제로 어떤 팀명을 쓰는지
       // 로그에 남겨 TEAM_NAME_ALIASES 등을 보강할 때 근거로 쓴다 (K리그 한정이 아니라 전체 적용).
-      const lastCacheKey = SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)
-        ? `${espnSportGuess}_${utcDateStr}`
-        : `${espnSport}_${utcDateStr}`;
-      const todaysEspnTeams = (eventCache[lastCacheKey] || []).flatMap(e => {
+      const keysToCheck = SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)
+        ? dateCandidates.flatMap(d => SUMMER_LEAGUE_CITY_KEYS.map(k => `${k}_${d}`))
+        : dateCandidates.map(d => `${espnSport}_${d}`);
+      const todaysEspnTeams = keysToCheck.flatMap(k => (eventCache[k] || []).flatMap(e => {
         const comp = e.competitions?.[0];
         return (comp?.competitors || []).map(c => c.team?.displayName || c.team?.name || '');
-      });
+      }));
       console.log(`   [진단] 우리 팀명: "${homeTeamEn}" / "${awayTeamEn}"`);
-      console.log(`   [진단] ESPN이 그날 쓴 팀명 목록: ${JSON.stringify([...new Set(todaysEspnTeams)])}`);
+      console.log(`   [진단] ESPN이 그 기간(±1일) 쓴 팀명 목록: ${JSON.stringify([...new Set(todaysEspnTeams)])}`);
       skipCount++;
       continue;
     }
