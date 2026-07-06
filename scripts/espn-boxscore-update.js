@@ -534,17 +534,26 @@ async function main() {
     //   단, 선발투수 사진 기능을 나중에 추가했기 때문에 '번 '만 보면 사진 없는 기존 글이
     //   영원히 재처리 안 됨 → 선발투수 줄에 사진(|)까지 있는지도 같이 확인.
     // - 그 외(축구/농구 등): "손흥민 (FW)|photo" 형태라 '번 '이 절대 없음 → 내용이 비어있는지("" 또는 "[]")로 판단
+    //
+    // ⚠️ 홈/원정 라인업은 ESPN에서 각 팀이 개별적으로, 그것도 서로 다른 시점에 발표한다.
+    // 한쪽만(예: homeLineup) 보고 완료 판정을 하면, 먼저 발표된 쪽만 채워진 상태에서
+    // 파일 전체가 "완료"로 스킵되어 늦게 발표되는 반대쪽 팀 라인업이 영영 채워지지 않는
+    // 비대칭 버그가 생긴다. 따라서 홈/원정을 각각 판단해서 "둘 다" 완료된 경우에만 스킵한다.
     const category  = fm.category  || '';
-    const existingLineup = fm.homeLineup || '';
-    const unescapedLineup = existingLineup.replace(/\\"/g, '"').trim();
-    const hasBatters = category === 'baseball'
-      ? unescapedLineup.includes('번 ')
-      : (unescapedLineup !== '' && unescapedLineup !== '[]');
-    const pitcherMatch = unescapedLineup.match(/선발투수[^"]*/);
-    const hasPitcherPhoto = category === 'baseball'
-      ? !!(pitcherMatch && pitcherMatch[0].includes('|'))
-      : true; // 야구 아니면 이 조건 자체가 무관하므로 항상 통과
-    if (hasBatters && hasPitcherPhoto) {
+
+    const isLineupComplete = (rawLineup) => {
+      const unescaped = (rawLineup || '').replace(/\\"/g, '"').trim();
+      const hasBatters = category === 'baseball'
+        ? unescaped.includes('번 ')
+        : (unescaped !== '' && unescaped !== '[]');
+      const pitcherMatch = unescaped.match(/선발투수[^"]*/);
+      const hasPitcherPhoto = category === 'baseball'
+        ? !!(pitcherMatch && pitcherMatch[0].includes('|'))
+        : true; // 야구 아니면 이 조건 자체가 무관하므로 항상 통과
+      return hasBatters && hasPitcherPhoto;
+    };
+
+    if (isLineupComplete(fm.homeLineup) && isLineupComplete(fm.awayLineup)) {
       console.log(`⏩ [스킵] 라인업 완료: ${path.basename(filePath)}`);
       skipCount++;
       continue;
@@ -684,13 +693,30 @@ if (!eventCache[cacheKey]) {
       continue;
     }
 
-    updates.homeLineup = JSON.stringify(homeLineup);
-    updates.awayLineup = JSON.stringify(awayLineup);
+    // 재처리 시, 이미 완성되어 있던 쪽을 이번 응답이 비어있다는 이유로 덮어써서
+    // 되돌리는 일이 없도록 방어한다 (예: 홈은 이미 발표됐는데 원정만 늦게 나오는 경우,
+    // 원정을 채우려고 재처리하다가 홈 쪽 응답이 일시적으로 비어 온다고 해서 홈을 지우면 안 됨).
+    const newHomeLineupStr = JSON.stringify(homeLineup);
+    const newAwayLineupStr = JSON.stringify(awayLineup);
+
+    if (isLineupComplete(fm.homeLineup) && !isLineupComplete(newHomeLineupStr)) {
+      console.log(`   ℹ️ 홈 라인업은 기존 값 유지 (신규 응답이 비어있음)`);
+    } else {
+      updates.homeLineup = newHomeLineupStr;
+    }
+
+    if (isLineupComplete(fm.awayLineup) && !isLineupComplete(newAwayLineupStr)) {
+      console.log(`   ℹ️ 원정 라인업은 기존 값 유지 (신규 응답이 비어있음)`);
+    } else {
+      updates.awayLineup = newAwayLineupStr;
+    }
 
     const ok = updateMdFrontmatter(filePath, updates);
 
     if (ok) {
-      console.log(`   🔄 업데이트 완료 | 홈 ${homeLineup.length}건 / 원정 ${awayLineup.length}건`);
+      const loggedHomeCount = updates.homeLineup ? JSON.parse(updates.homeLineup).length : '기존유지';
+      const loggedAwayCount = updates.awayLineup ? JSON.parse(updates.awayLineup).length : '기존유지';
+      console.log(`   🔄 업데이트 완료 | 홈 ${loggedHomeCount}건 / 원정 ${loggedAwayCount}건`);
       updatedCount++;
     }
   }
