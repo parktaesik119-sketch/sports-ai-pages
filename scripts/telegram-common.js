@@ -22,14 +22,19 @@ export function parseFrontmatterField(content, field) {
   return bareMatch ? bareMatch[1] : null;
 }
 
-// "2026-07-02T09:30:00+00:00" → "26.07.02"
+// "2026-07-02T09:30:00+00:00" → "26.07.02" (KST, UTC+9 기준)
+// GitHub Actions 러너는 UTC 타임존으로 돌아가기 때문에, 서버 로컬 시간대에
+// 의존하지 않고 UTC 값에 9시간을 직접 더해서 KST 기준 날짜를 계산한다.
+const KST_OFFSET_MS = 9 * 60 * 60 * 1000;
+
 export function toShortDate(isoDateStr) {
   if (!isoDateStr) return '';
   const d = new Date(isoDateStr);
   if (isNaN(d)) return '';
-  const yy = String(d.getFullYear()).slice(2);
-  const mm = String(d.getMonth() + 1).padStart(2, '0');
-  const dd = String(d.getDate()).padStart(2, '0');
+  const kst = new Date(d.getTime() + KST_OFFSET_MS);
+  const yy = String(kst.getUTCFullYear()).slice(2);
+  const mm = String(kst.getUTCMonth() + 1).padStart(2, '0');
+  const dd = String(kst.getUTCDate()).padStart(2, '0');
   return `${yy}.${mm}.${dd}`;
 }
 
