@@ -32,6 +32,9 @@ jobs:
       - name: Run NPB lineup update script
         run: node scripts/npb-lineup-update.js
 
+      - name: Run KBL lineup update script
+        run: node scripts/kbl-lineup-update.js
+
       - name: Commit and push lineup updates
         id: push
         run: |

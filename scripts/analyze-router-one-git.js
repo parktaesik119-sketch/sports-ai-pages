@@ -359,6 +359,21 @@ async function analyzeMatches() {
       return npbContextList.find(n => n.home === match.home && n.away === match.away) || null;
     }
 
+    // KBL 컨텍스트 로드 (fetch-kbl-context.js가 미리 생성) — 최근폼/상대전적만 제공
+    // (KBL은 경기 전 라인업 사전공개가 없어서 fetch-kbl-context.js가 라인업은 다루지 않음)
+    // fetch-kbl-context.js도 KBO/NPB와 마찬가지로 match.home/away를 원문 그대로 저장하므로 정확 일치로 매칭 가능
+    const kblContextPath = path.resolve(__dirname, `../database/kbl-context-${today}.json`);
+    const kblContextList = fs.existsSync(kblContextPath)
+      ? JSON.parse(fs.readFileSync(kblContextPath, 'utf8'))
+      : [];
+    if (kblContextList.length > 0) {
+      console.log(`🏀 [KBL 컨텍스트] ${kblContextList.length}건 로드됨`);
+    }
+
+    function findKblContext(match) {
+      return kblContextList.find(k => k.home === match.home && k.away === match.away) || null;
+    }
+
     function findEspnContext(match) {
       const candidates = espnContextList.filter(e =>
         (matchTeam(e.home, match.home) && matchTeam(e.away, match.away)) ||
@@ -775,7 +790,7 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
     return cu === 'WORLD' || cu === 'INTERNATIONAL' || cu === '국제';
   };
 
-  const homeRecentMatches = masterData.filter(m => {
+  let homeRecentMatches = masterData.filter(m => {
     const isHomeTeam = m.home === match.home || m.away === match.home;
     const matchDate = new Date(m.date);
     const isPast = matchDate < currentMatchDate;
@@ -789,7 +804,7 @@ const scopeOk = isIntlMatch ? isIntlCountry(m.country) : true;
 return isHomeTeam && isPast && isRecentEnough && isValidScore && isSameSport && scopeOk;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
-  const awayRecentMatches = masterData.filter(m => {
+  let awayRecentMatches = masterData.filter(m => {
     const isAwayTeam = m.home === match.away || m.away === match.away;
     const matchDate = new Date(m.date);
     const isPast = matchDate < currentMatchDate;
@@ -811,6 +826,27 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
 
   // NPB 전용 컨텍스트 매칭 (예고선발투수만 제공)
   const npbInfo = cat === 'baseball' ? findNpbContext(match) : null;
+
+  // KBL 전용 컨텍스트 매칭 (최근폼/상대전적만 제공, ESPN이 KBL을 커버하지 않으므로 별도 처리)
+  const kblInfo = cat === 'basketball' ? findKblContext(match) : null;
+
+  // KBL 공식 API 최근폼을 all-fixtures 기반 homeRecentMatches/awayRecentMatches에 보강.
+  // (겨울 시즌제라 시즌 초반엔 all-fixtures만으로 최근 경기가 부족할 수 있어서 만든 보강 경로.
+  //  날짜 중복만 걸러내고 병합 후 최신순으로 다시 정렬 — 어느 쪽이 더 많든 항상 최신 10개만 남음)
+  if (kblInfo?.recentForm?.home?.length > 0) {
+    const existingDates = new Set(homeRecentMatches.map(m => new Date(m.date).toISOString().slice(0, 10)));
+    const supplement = kblInfo.recentForm.home.filter(m => !existingDates.has(new Date(m.date).toISOString().slice(0, 10)));
+    homeRecentMatches = [...homeRecentMatches, ...supplement]
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .slice(0, 10);
+  }
+  if (kblInfo?.recentForm?.away?.length > 0) {
+    const existingDates = new Set(awayRecentMatches.map(m => new Date(m.date).toISOString().slice(0, 10)));
+    const supplement = kblInfo.recentForm.away.filter(m => !existingDates.has(new Date(m.date).toISOString().slice(0, 10)));
+    awayRecentMatches = [...awayRecentMatches, ...supplement]
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .slice(0, 10);
+  }
 
   // ESPN H2H가 있으면 기존 all-fixtures 기반 h2hContextForAI/h2hContent/h2hHistory를 덮어쓴다.
   // (all-fixtures는 2026년 4월부터 수집 중이라 시즌 초반/월드컵 등은 데이터가 부족함 — ESPN을 우선시)
@@ -867,8 +903,34 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     // 평균 계산용(h2hForAvg)은 최대 10개까지 넉넉히, 화면 표시용(h2hHistory)은 기존대로 5개만
     h2hForAvg  = mergedH2h.slice(0, 10);
     h2hHistory = mergedH2h.slice(0, 5);
+  } else if (kblInfo?.headToHead?.length > 0) {
+    // ESPN이 KBL을 커버하지 않으므로, KBL 공식 API로 직접 수집한 상대전적을 그 다음 우선순위로 사용.
+    // (겨울 시즌제라 all-fixtures DB만으로는 시즌 초반에 상대전적이 텅 빌 수 있어서 만든 보강 경로)
+    const sortedKblH2h = [...kblInfo.headToHead].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    const kblRows = buildH2hRows(sortedKblH2h);
+    h2hContent = `\n<br>\n\n### ⚔️ 상대 전적 분석 (KBL 공식 데이터)\n| <span style="color: #007bff;">날짜</span> ${spacer} | <span style="color: #007bff;">홈팀</span> ${spacer} | <span style="color: #007bff;">경기결과</span> ${spacer} |\n|:---|:---|:---:|\n${kblRows}\n`;
+
+    const kblAiGameLines = sortedKblH2h.map(g => {
+      const d = new Date(g.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
+      return `${d} - ${g.home} (${g.homeScore}-${g.awayScore}) ${g.away}`;
+    }).join('\n');
+    h2hContextForAI = `\n[KBL 공식 데이터 - 상대전적 ${sortedKblH2h.length}경기]\n${kblAiGameLines}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
+
+    // KBL 우선 + all-fixtures로 채우기: 같은 날짜(=같은 경기)는 중복 제외 (ESPN 병합 로직과 동일)
+    const kblDates = new Set(sortedKblH2h.map(g => new Date(g.date).toISOString().slice(0, 10)));
+    const kblSupplementFromFixtures = h2hHistory.filter(h => {
+      const hDate = new Date(h.date).toISOString().slice(0, 10);
+      return !kblDates.has(hDate);
+    });
+
+    const mergedKblH2h = [...sortedKblH2h, ...kblSupplementFromFixtures]
+      .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    h2hForAvg  = mergedKblH2h.slice(0, 10);
+    h2hHistory = mergedKblH2h.slice(0, 5);
   } else {
-    // ESPN H2H가 없으면 all-fixtures 버퍼(최대 10개)를 그대로 평균용으로, 5개만 표시용으로
+    // ESPN/KBL H2H가 없으면 all-fixtures 버퍼(최대 10개)를 그대로 평균용으로, 5개만 표시용으로
     h2hForAvg  = h2hHistory.slice(0, 10);
     h2hHistory = h2hHistory.slice(0, 5);
   }

@@ -42,6 +42,11 @@ async function runAutomation() {
     execSync('node fetch-npb-context.js', { stdio: 'inherit', cwd: __dirname });
     console.log("✅ NPB 컨텍스트 수집 완료.");
 
+    // 1.95단계: KBL 최근폼/상대전적 컨텍스트 수집 (ESPN 미커버 리그, 겨울 시즌제)
+    console.log("\n[1.95단계] KBL 최근폼/상대전적 데이터 수집 중...");
+    execSync('node fetch-kbl-context.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ KBL 컨텍스트 수집 완료.");
+
     // 2~5단계: 분석 및 마크다운 생성
     console.log("\n[2-5단계] 신규 경기 필터링 및 AI 분석 시작...");
     console.log("💡 이미 생성된 분석글은 자동으로 건너뜁니다.");
