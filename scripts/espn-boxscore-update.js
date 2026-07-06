@@ -158,6 +158,8 @@ const TEAM_NAME_ALIASES = {
   // ESPN은 미국 축구 국가대표를 "United States"로 표기하는데, team_name_map의 영문
   // 키는 "USA"라 부분포함 매칭이 실패한다(둘 사이에 공통 부분문자열이 없음).
   'usa': 'unitedstates',
+  // ESPN은 안도라의 Inter Club d'Escaldes를 "Club"을 빼고 "Inter D'Escaldes"로 표기한다.
+  'interdescaldes': 'interclubdescaldes',
 };
 
 function resolveTeamAlias(normalized) {
@@ -165,7 +167,11 @@ function resolveTeamAlias(normalized) {
 }
 
 function normalize(str) {
-  return (str || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  // 발음기호(다이어크리틱)가 있는 문자를 그냥 삭제하면 글자 자체가 없어져서
+  // 비교가 깨진다(예: "Žalgiris" -> "algiris"). NFD로 분해해서 결합 발음기호만
+  // 떼어내면 "Ž" -> "Z"처럼 기본 알파벳으로 안전하게 변환된다.
+  const stripped = (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  return stripped.toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 function normalizeTeamForMatch(str) {
   return normalize(str.replace(/\s+W$/i, ''));

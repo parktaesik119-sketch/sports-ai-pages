@@ -177,6 +177,7 @@ const NATION_ALIASES = {
 const TEAM_NAME_ALIASES = {
   'ulsanhd': 'ulsanhyundaifc',
   'usa': 'unitedstates',
+  'interdescaldes': 'interclubdescaldes',
 };
 
 function resolveTeamAlias(normalized) {
@@ -184,7 +185,11 @@ function resolveTeamAlias(normalized) {
 }
 
 export function normalize(str) {
-  return (str || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  // 발음기호(다이어크리틱)가 있는 문자를 그냥 삭제하면 글자 자체가 없어져서
+  // 비교가 깨진다(예: "Žalgiris" -> "algiris"). NFD로 분해해서 결합 발음기호만
+  // 떼어내면 "Ž" -> "Z"처럼 기본 알파벳으로 안전하게 변환된다.
+  const stripped = (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  return stripped.toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 export function normalizeTeamForMatch(str) {
   const n = normalize(String(str).replace(/\s+W$/i, ''));
