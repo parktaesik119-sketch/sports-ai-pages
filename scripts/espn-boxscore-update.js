@@ -54,7 +54,9 @@ const ESPN_SPORTS = {
   soccer_bundesliga2: { sport: 'soccer',  league: 'ger.2',         label: '분데스리가2'    },
   soccer_primeira: { sport: 'soccer',     league: 'por.1',         label: '프리메라리가'   },
   soccer_ucl:      { sport: 'soccer',     league: 'uefa.champions', label: 'UEFA 챔피언스리그' },
+  soccer_ucl_qual: { sport: 'soccer',     league: 'uefa.champions_qual', label: 'UEFA 챔피언스리그 예선' },
   soccer_uel:      { sport: 'soccer',     league: 'uefa.europa',   label: 'UEFA 유로파리그' },
+  soccer_uel_qual: { sport: 'soccer',     league: 'uefa.europa_qual', label: 'UEFA 유로파리그 예선' },
   soccer_worldcup: { sport: 'soccer',     league: 'fifa.world',    label: 'FIFA 월드컵'     },
   soccer_epl:      { sport: 'soccer',     league: 'eng.1',         label: 'P.L'           },
   soccer_seriea:   { sport: 'soccer',     league: 'ita.1',         label: '세리에 A'       },
@@ -66,6 +68,7 @@ const ESPN_SPORTS = {
   soccer_sudamericana: { sport: 'soccer', league: 'conmebol.sudamericana', label: '코파 수다메리카나'   },
   soccer_laliga2:  { sport: 'soccer',     league: 'esp.2',         label: '라리가2'        },
   soccer_uecl:     { sport: 'soccer',     league: 'uefa.europa.conf', label: 'UEFA 컨퍼런스리그' },
+  soccer_uecl_qual:{ sport: 'soccer',     league: 'uefa.europa.conf_qual', label: 'UEFA 컨퍼런스리그 예선' },
   soccer_nations:  { sport: 'soccer',     league: 'uefa.nations',  label: '네이션스리그'    },
   soccer_nations_w:{ sport: 'soccer',     league: 'uefa.w.nations',label: '네이션스리그(W)' },
   soccer_wwc:      { sport: 'soccer',     league: 'fifa.wwc',      label: '월드컵 (W)'     },
@@ -97,10 +100,20 @@ function detectEspnSport(category, league, country) {
     if (lg.includes('분데스리가2'))  return 'soccer_bundesliga2';
     if (lg.includes('분데스리가') && !lg.includes('분데스리가2')) return 'soccer_bundesliga';
     if (lg.includes('프리메라리가')) return 'soccer_primeira';
-    if (lg.includes('UEFA 챔피언스리그') || lg.includes('UEFA CHAMPIONS')) return 'soccer_ucl';
+    if (lg.includes('UEFA 챔피언스리그') || lg.includes('UEFA CHAMPIONS')) {
+      // ESPN은 예선과 본선을 완전히 다른 리그 코드로 분리해서 관리한다(uefa.champions vs
+      // uefa.champions_qual). api-sports의 원문 리그명이 "UEFA Champions League Qualifying"처럼
+      // 예선도 "UEFA Champions League"를 포함하고 있어서, 부분포함 검사만으로는 구분이 안 된다.
+      // "QUALIF" 키워드로 예선 여부를 먼저 확인해야 본선 코드로 잘못 보내는 걸 막을 수 있다.
+      return lg.includes('QUALIF') ? 'soccer_ucl_qual' : 'soccer_ucl';
+    }
     // 컨퍼런스리그가 "UEFA EUROPA"를 부분 포함하는 원문 표기가 있을 수 있어 유로파리그보다 먼저 확인
-    if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) return 'soccer_uecl';
-    if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA')) return 'soccer_uel';
+    if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) {
+      return lg.includes('QUALIF') ? 'soccer_uecl_qual' : 'soccer_uecl';
+    }
+    if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA')) {
+      return lg.includes('QUALIF') ? 'soccer_uel_qual' : 'soccer_uel';
+    }
     if (lg.includes('FIFA 월드컵') || lg.includes('FIFA WORLD') ||
         (lg.includes('월드컵') && !lg.includes('(W)') && !lg.includes('예선'))) return 'soccer_worldcup';
     if (lg.includes('P.L'))          return 'soccer_epl';
@@ -500,19 +513,7 @@ function parseFrontmatter(filePath) {
   return fm;
 }
 
-function getDateFromFilename(filePath) {
-  const m = path.basename(filePath).match(/^(\d{4}-\d{2}-\d{2})/);
-  return m ? m[1] : null;
-}
-
-// 파일명 "2026-07-07-501866-memphis-grizzlies.md"에서 경기 ID(501866)를 뽑아낸다.
-// 팀명+날짜로 애매하게 찾는 것보다 ID로 정확히 찾는 게 훨씬 안전하다.
-function getMatchIdFromFilename(filePath) {
-  const m = path.basename(filePath).match(/^\d{4}-\d{2}-\d{2}-(\d+)-/);
-  return m ? m[1] : null;
-}
-
-// ⚠️ 글 파일명 날짜는 "경기 날짜"가 아니라 "글이 생성된 날"(그날 읽은 database/{그날}.json)이다.
+// ⚠️ 글 파일명 날짜는 "경기 날짜"가 아니라 "글이 생성된 날"일 뿐이라 신뢰할 수 없다.
 // fetch-all.js가 D+2까지 미리 일정을 당겨와 분석글을 만들어두기 때문에, 실제 경기는 파일명
 // 날짜보다 최대 2일 뒤에 열릴 수 있다 (예: 07-04에 생성된 글 안에 07-06 경기가 들어있는 경우).
 // 그래서 이 스크립트가 "오늘" 실행돼도, 오늘 경기의 라인업을 채워야 할 글은 파일명이
@@ -532,87 +533,15 @@ function getTargetPostFiles() {
 }
 
 // ─────────────────────────────────────────────
-// 메인
+// NBA 썸머리그는 표시용 리그명이 "NBA 썸머리그"로 도시 정보 없이 뭉개져 있어서,
+// frontmatter만 봐서는 어느 도시 대회인지 알 수 없다. database 원본 파일을 대조하는
+// 대신(파일이 정리돼서 없어지거나 날짜가 어긋날 위험이 있음), 4개 도시 스코어보드를
+// 전부 조회해서 실제로 이 두 팀이 있는 곳을 직접 찾는 방식을 쓴다 (메인 루프에서 사용).
 // ─────────────────────────────────────────────
-// ─────────────────────────────────────────────
-// 썸머리그 도시 대조용: database/{date}.json 원본 fixtures 캐시
-// (analyze-router-one-git.js가 표시용으로는 "NBA 썸머리그"로 뭉개버려서,
-//  라인업 매칭에 필요한 도시 정보는 원본 파일을 다시 대조해서 알아낸다)
-// ─────────────────────────────────────────────
-const rawFixturesCache = {};
-
-function loadRawFixtures(dateStr) {
-  if (dateStr in rawFixturesCache) return rawFixturesCache[dateStr];
-  const p = path.resolve(__dirname, `../database/${dateStr}.json`);
-  if (!fs.existsSync(p)) { rawFixturesCache[dateStr] = null; return null; }
-  try {
-    rawFixturesCache[dateStr] = JSON.parse(fs.readFileSync(p, 'utf-8'));
-  } catch {
-    rawFixturesCache[dateStr] = null;
-  }
-  return rawFixturesCache[dateStr];
-}
-
-// ─────────────────────────────────────────────
-// database/{date}.json은 cleanup-database.js가 오래된 스냅샷을 정리하기 때문에,
-// 이 스크립트가 늦게 실행되면 정작 필요한 날짜의 스냅샷이 이미 사라져 있을 수 있다.
-// 반면 database/all-fixtures.json은 절대 삭제되지 않는 누적 DB라서, 최후의 폴백으로 쓴다.
-// ─────────────────────────────────────────────
-let allFixturesCache = undefined; // undefined=아직 안 불러옴, null=파일 없음/실패, 배열=로드됨
-
-function loadAllFixtures() {
-  if (allFixturesCache !== undefined) return allFixturesCache;
-  const p = path.resolve(__dirname, '../database/all-fixtures.json');
-  if (!fs.existsSync(p)) { allFixturesCache = null; return null; }
-  try {
-    allFixturesCache = JSON.parse(fs.readFileSync(p, 'utf-8'));
-  } catch {
-    allFixturesCache = null;
-  }
-  return allFixturesCache;
-}
-
-// 홈/원정 영문 팀명 + 날짜(+가능하면 경기 ID)로 원본(도시 정보 포함) 리그명 찾기. 못 찾으면 null.
-// 수집기(analyze-router-one-git.js)는 미국 현지 경기일 기준으로 database/{date}.json을 묶어 저장하는 반면,
-// 이 스크립트는 글 파일명의 KST 날짜를 기준으로 조회하기 때문에 두 날짜가 어긋날 수 있다.
-// 게다가 fetch-all.js가 D+2까지 미리 일정을 당겨와 분석글을 만들어두기 때문에, "오늘 날짜 파일"
-// 하나만 봐서는 안 되고 실제로는 그 경기가 며칠 전(D-1) ~ 며칠 후(D+2) 파일 중 어디에 들어있을지
-// 알 수 없다. 그래서 D-1부터 D+2까지 폭넓게 뒤진다.
-// matchId가 있으면 팀명/날짜 매칭보다 우선해서 ID로 정확히 대조한다(가장 안전).
-function findRawLeagueName(dateStr, homeTeamEn, awayTeamEn, matchId = null) {
-  const base = new Date(`${dateStr}T00:00:00Z`).getTime();
-  const dayOffsets = [-1, 0, 1, 2]; // D-1 ~ D+2
-  const candidateDates = dayOffsets.map(n =>
-    new Date(base + n * 86400000).toISOString().slice(0, 10)
-  );
-
-  const byId = (fixtures) => matchId ? fixtures.find(m => String(m.id) === String(matchId)) : null;
-  const byTeams = (fixtures) => fixtures.find(m =>
-    (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(homeTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(awayTeamEn)) ||
-    (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(awayTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(homeTeamEn))
-  );
-
-  for (const d of candidateDates) {
-    const fixtures = loadRawFixtures(d);
-    if (!fixtures) continue;
-    const found = byId(fixtures) || byTeams(fixtures);
-    if (found) return found.league || null;
-  }
-
-  // 날짜 범위 안의 스냅샷 파일들이 전부 없거나(cleanup으로 삭제됨) 못 찾았으면,
-  // 절대 삭제되지 않는 누적 DB(all-fixtures.json)에서 마지막으로 시도.
-  // 누적 DB는 데이터가 많아 팀명만으로 찾으면 다른 날짜 경기와 헷갈릴 수 있으므로
-  // ID가 있을 때만(가장 정확할 때만) 사용한다.
-  if (matchId) {
-    const all = loadAllFixtures();
-    if (all) {
-      const found = byId(all);
-      if (found) return found.league || null;
-    }
-  }
-
-  return null;
-}
+const SUMMER_LEAGUE_CITY_KEYS = [
+  'basketball_summer_utah', 'basketball_summer_lasvegas',
+  'basketball_summer_orlando', 'basketball_summer_sacramento',
+];
 
 async function main() {
   console.log('📊 ESPN 라인업 업데이트 시작\n');
@@ -669,71 +598,71 @@ async function main() {
     const league    = fm.league    || '';
     const homeTeamKo = fm.homeTeam || '';
     const awayTeamKo = fm.awayTeam || '';
-    const dateStr   = getDateFromFilename(filePath);
 
-    if (!dateStr) {
-      console.log(`⚠️ [스킵] 날짜 추출 실패: ${path.basename(filePath)}`);
+    // ⚠️ ESPN 조회에 필요한 정보(팀명/리그명/국가/날짜)는 전부 분석글 frontmatter에
+    // 이미 있다. database/{날짜}.json 같은 원본 파일을 대조할 필요가 전혀 없다 —
+    // 팀명은 team_name_map 역치환(없으면 원문 그대로), 리그명/국가는 frontmatter 값
+    // 그대로, 날짜는 frontmatter의 UTC date 필드를 그대로 쓰면 된다.
+    const homeTeamEn = toEnglishTeamName(homeTeamKo);
+    const awayTeamEn = toEnglishTeamName(awayTeamKo);
+
+    const espnSportGuess = detectEspnSport(category, league, fm.country);
+
+    if (!espnSportGuess || espnSportGuess === 'wnba') {
       skipCount++;
       continue;
     }
 
-    const homeTeamEn = toEnglishTeamName(homeTeamKo);
-    const awayTeamEn = toEnglishTeamName(awayTeamKo);
-    const matchId    = getMatchIdFromFilename(filePath);
-
-    // 표시용 리그명이 "NBA 썸머리그"로 뭉개져서 도시 구분이 안 될 때만,
-    // 원본 raw fixtures 파일을 다시 대조해서 실제 도시가 들어간 리그명으로 재감지
-    let detectLeague = league;
-    if (league.includes('썸머리그') || league.includes('서머리그') || league === 'California Classic') {
-      const rawLeague = findRawLeagueName(dateStr, homeTeamEn, awayTeamEn, matchId);
-      if (rawLeague) {
-        detectLeague = rawLeague;
-        console.log(`   ℹ️ 썸머리그 도시 대조: 표시="${league}" → 원본="${rawLeague}"`);
-      } else {
-        console.log(`   ⚠️ 썸머리그 원본 대조 실패 - database/${dateStr}.json 전후(D-1~D+2) 및 누적 DB에서 못 찾음 (라스베가스로 기본 처리)`);
-      }
+    if (!fm.date || isNaN(new Date(fm.date))) {
+      console.log(`⚠️ [스킵] frontmatter date 파싱 실패: ${path.basename(filePath)}`);
+      skipCount++;
+      continue;
     }
-    const espnSport  = detectEspnSport(category, detectLeague, fm.country);
-
-    if (!espnSport || espnSport === 'wnba') {
-  skipCount++;
-  continue;
-}
+    const utcDateStr = new Date(fm.date).toISOString().slice(0, 10);
 
     console.log(`\n🔍 ${path.basename(filePath)}`);
     console.log(`   홈: ${homeTeamKo} → ${homeTeamEn}`);
     console.log(`   원정: ${awayTeamKo} → ${awayTeamEn}`);
-    console.log(`   날짜(KST): ${dateStr} / 종목: ${ESPN_SPORTS[espnSport].label}`);
+    console.log(`   날짜(UTC): ${utcDateStr} / 리그: "${league}"`);
 
-    // 스코어보드 조회 (캐시)
-    // ⚠️ 예전엔 파일명 날짜(dateStr)를 "KST 자정"으로 가정하고 UTC로 역산했는데,
-    //    실제로는 파일명이 database/{date}.json의 미국 현지 기준 날짜를 그대로
-    //    물려받은 것이라 이 가정이 틀렸다 (예: 파일명 "2026-07-06"인데 실제 경기는
-    //    UTC 기준 07-07인 경우가 흔함 — 특히 미국 저녁 경기가 자정을 넘길 때).
-    //    frontmatter의 date 필드는 실제 경기 시각을 정확한 오프셋과 함께 그대로
-    //    저장해두고 있으므로, 이걸 직접 UTC로 변환해서 쓰는 게 훨씬 정확하다.
-    let utcDateStr;
-    if (fm.date && !isNaN(new Date(fm.date))) {
-      utcDateStr = new Date(fm.date).toISOString().slice(0, 10);
+    let espnSport = espnSportGuess;
+    let matched   = null;
+
+    if (SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)) {
+      // 표시용 리그명이 "NBA 썸머리그"로 도시 정보가 뭉개져 있어서 어느 도시 대회인지
+      // frontmatter만으로는 알 수 없다. DB 원본 파일을 대조하는 대신, 4개 도시
+      // 스코어보드를 전부 조회해서 실제로 이 두 팀이 있는 곳을 직접 찾는다.
+      for (const cityKey of SUMMER_LEAGUE_CITY_KEYS) {
+        const cacheKey = `${cityKey}_${utcDateStr}`;
+        if (!eventCache[cacheKey]) {
+          console.log(`   📡 스코어보드 호출: ${ESPN_SPORTS[cityKey].label} / ${utcDateStr}`);
+          eventCache[cacheKey] = await fetchEspnEvents(cityKey, utcDateStr);
+          await new Promise(r => setTimeout(r, 500));
+        }
+        const found = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
+        if (found) {
+          matched = found;
+          espnSport = cityKey;
+          console.log(`   ✅ 도시 확인됨: ${ESPN_SPORTS[cityKey].label}`);
+          break;
+        }
+      }
     } else {
-      console.log(`   ⚠️ frontmatter date 파싱 실패 — 파일명 기반 추정치로 폴백`);
-      utcDateStr = new Date(`${dateStr}T00:00:00+09:00`).toISOString().slice(0, 10);
+      const cacheKey = `${espnSport}_${utcDateStr}`;
+      if (!eventCache[cacheKey]) {
+        console.log(`   📡 스코어보드 호출: ${utcDateStr}`);
+        eventCache[cacheKey] = await fetchEspnEvents(espnSport, utcDateStr);
+        await new Promise(r => setTimeout(r, 800));
+      }
+      matched = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
     }
-const cacheKey = `${espnSport}_${utcDateStr}`;
-if (!eventCache[cacheKey]) {
-  console.log(`   📡 스코어보드 호출: ${utcDateStr}`);
-  eventCache[cacheKey] = await fetchEspnEvents(espnSport, utcDateStr);
-  await new Promise(r => setTimeout(r, 800));
-}
 
-    let matched = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
-
-    // 매칭 실패 시 팀 스케줄로 재시도
+    // 매칭 실패 시 팀 스케줄로 재시도 (현재는 WNBA만 실질적으로 동작, 나머지는 no-op)
     if (!matched) {
       console.log(`   🔄 팀 스케줄 API로 재시도...`);
       const scheduleEvents =
-        await fetchEventFromTeamSchedule(espnSport, homeTeamEn, dateStr) ||
-        await fetchEventFromTeamSchedule(espnSport, awayTeamEn, dateStr);
+        await fetchEventFromTeamSchedule(espnSport, homeTeamEn, utcDateStr) ||
+        await fetchEventFromTeamSchedule(espnSport, awayTeamEn, utcDateStr);
       if (scheduleEvents?.length > 0) {
         matched = findMatchingEvent(scheduleEvents, homeTeamEn, awayTeamEn);
       }
@@ -741,16 +670,17 @@ if (!eventCache[cacheKey]) {
 
     if (!matched) {
       console.log(`   ⚠️ 경기 매칭 실패`);
-      // K리그는 예전에 팀명 표기 차이(스폰서명 생략 등)로 매칭이 자주 실패했던 전례가 있어서,
-      // 실패 시 ESPN이 그날 실제로 어떤 팀명을 쓰는지 로그에 남겨 TEAM_NAME_ALIASES 보강에 활용한다.
-      if (espnSport === 'soccer_kleague') {
-        const todaysEspnTeams = (eventCache[cacheKey] || []).flatMap(e => {
-          const comp = e.competitions?.[0];
-          return (comp?.competitors || []).map(c => c.team?.displayName || c.team?.name || '');
-        });
-        console.log(`   [진단] 우리 팀명: "${homeTeamEn}" / "${awayTeamEn}"`);
-        console.log(`   [진단] ESPN이 그날 쓴 팀명 목록: ${JSON.stringify([...new Set(todaysEspnTeams)])}`);
-      }
+      // 매칭이 계속 실패하는 리그가 있으면, ESPN이 그날 실제로 어떤 팀명을 쓰는지
+      // 로그에 남겨 TEAM_NAME_ALIASES 등을 보강할 때 근거로 쓴다 (K리그 한정이 아니라 전체 적용).
+      const lastCacheKey = SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)
+        ? `${espnSportGuess}_${utcDateStr}`
+        : `${espnSport}_${utcDateStr}`;
+      const todaysEspnTeams = (eventCache[lastCacheKey] || []).flatMap(e => {
+        const comp = e.competitions?.[0];
+        return (comp?.competitors || []).map(c => c.team?.displayName || c.team?.name || '');
+      });
+      console.log(`   [진단] 우리 팀명: "${homeTeamEn}" / "${awayTeamEn}"`);
+      console.log(`   [진단] ESPN이 그날 쓴 팀명 목록: ${JSON.stringify([...new Set(todaysEspnTeams)])}`);
       skipCount++;
       continue;
     }

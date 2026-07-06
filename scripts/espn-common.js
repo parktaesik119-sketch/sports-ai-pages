@@ -21,7 +21,9 @@ export const ESPN_SPORTS = {
   soccer_bundesliga2: { sport: 'soccer',     league: 'ger.2',          label: '분데스리가2'     },
   soccer_primeira:    { sport: 'soccer',     league: 'por.1',          label: '프리메라리가'    },
   soccer_ucl:         { sport: 'soccer',     league: 'uefa.champions', label: 'UEFA 챔피언스리그' },
+  soccer_ucl_qual:    { sport: 'soccer',     league: 'uefa.champions_qual', label: 'UEFA 챔피언스리그 예선' },
   soccer_uel:         { sport: 'soccer',     league: 'uefa.europa',    label: 'UEFA 유로파리그' },
+  soccer_uel_qual:    { sport: 'soccer',     league: 'uefa.europa_qual', label: 'UEFA 유로파리그 예선' },
   soccer_worldcup:    { sport: 'soccer',     league: 'fifa.world',     label: 'FIFA 월드컵'      },
   soccer_epl:         { sport: 'soccer',     league: 'eng.1',          label: 'P.L'             },
   soccer_seriea:      { sport: 'soccer',     league: 'ita.1',          label: '세리에 A'        },
@@ -33,6 +35,7 @@ export const ESPN_SPORTS = {
   soccer_sudamericana:{ sport: 'soccer',     league: 'conmebol.sudamericana', label: '코파 수다메리카나'   },
   soccer_laliga2:     { sport: 'soccer',     league: 'esp.2',          label: '라리가2'         },
   soccer_uecl:        { sport: 'soccer',     league: 'uefa.europa.conf', label: 'UEFA 컨퍼런스리그' },
+  soccer_uecl_qual:   { sport: 'soccer',     league: 'uefa.europa.conf_qual', label: 'UEFA 컨퍼런스리그 예선' },
   soccer_nations:     { sport: 'soccer',     league: 'uefa.nations',   label: '네이션스리그'     },
   soccer_nations_w:   { sport: 'soccer',     league: 'uefa.w.nations', label: '네이션스리그(W)'  },
   soccer_wwc:         { sport: 'soccer',     league: 'fifa.wwc',       label: '월드컵 (W)'      },
@@ -96,8 +99,18 @@ export function detectEspnSport(category, league, country) {
     else if (lg.includes('분데스리가2') || lg.includes('2. BUNDESLIGA')) key = 'soccer_bundesliga2';
     else if ((lg.includes('분데스리가') && !lg.includes('분데스리가2')) || lg === 'BUNDESLIGA') key = 'soccer_bundesliga';
     else if (lg.includes('프리메라리가') || lg === 'PRIMEIRA LIGA')    key = 'soccer_primeira';
-    else if (lg.includes('UEFA 챔피언스리그') || lg === 'UEFA CHAMPIONS LEAGUE') key = 'soccer_ucl';
-    else if (lg.includes('UEFA 유로파리그') || lg === 'UEFA EUROPA LEAGUE') key = 'soccer_uel';
+    else if (lg.includes('UEFA 챔피언스리그') || lg === 'UEFA CHAMPIONS LEAGUE') {
+      // ESPN은 예선과 본선을 완전히 다른 리그 코드로 분리한다(uefa.champions vs
+      // uefa.champions_qual). 원문 리그명에 "Qualifying"이 포함돼 있어도
+      // "UEFA CHAMPIONS"는 그대로 포함되므로, QUALIF 키워드로 먼저 구분해야 한다.
+      key = lg.includes('QUALIF') ? 'soccer_ucl_qual' : 'soccer_ucl';
+    }
+    else if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) {
+      key = lg.includes('QUALIF') ? 'soccer_uecl_qual' : 'soccer_uecl';
+    }
+    else if (lg.includes('UEFA 유로파리그') || lg === 'UEFA EUROPA LEAGUE') {
+      key = lg.includes('QUALIF') ? 'soccer_uel_qual' : 'soccer_uel';
+    }
     else if (lg.includes('FIFA 월드컵') || (lg.includes('WORLD CUP') && !lg.includes('WOMEN') && !lg.includes('QUALIF'))) key = 'soccer_worldcup';
     else if (lg.includes('P.L') || lg === 'PREMIER LEAGUE')           key = 'soccer_epl';
     else if (lg.includes('세리에 A') || lg === 'SERIE A')             key = 'soccer_seriea';
@@ -111,7 +124,6 @@ export function detectEspnSport(category, league, country) {
     else if (lg.includes('코파 리베르타도레스') || lg === 'CONMEBOL LIBERTADORES') key = 'soccer_libertadores';
     else if (lg.includes('코파 수다메리카나') || lg === 'CONMEBOL SUDAMERICANA') key = 'soccer_sudamericana';
     else if (lg.includes('라리가2') || lg.includes('SEGUNDA DIVISI')) key = 'soccer_laliga2';
-    else if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) key = 'soccer_uecl';
     // "네이션스리그(W)"가 "네이션스리그"의 부분집합 문자열이라, 여성부를 먼저 확인해야 함
     else if (lg.includes('네이션스리그(W)') || lg === 'NATIONS LEAGUE WOMEN') key = 'soccer_nations_w';
     else if (lg.includes('네이션스리그') || lg === 'NATIONS LEAGUE') key = 'soccer_nations';
