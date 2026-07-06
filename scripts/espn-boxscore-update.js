@@ -53,9 +53,21 @@ const ESPN_SPORTS = {
   soccer_eredivisie: { sport: 'soccer',   league: 'ned.1',         label: '에레디비시'     },
   soccer_kleague:  { sport: 'soccer',     league: 'kor.1',         label: 'K1'            },
   soccer_uruguay:  { sport: 'soccer',     league: 'uru.1',         label: '프리메라디비전' },
+  soccer_libertadores: { sport: 'soccer', league: 'conmebol.libertadores', label: '코파 리베르타도레스' },
+  soccer_sudamericana: { sport: 'soccer', league: 'conmebol.sudamericana', label: '코파 수다메리카나'   },
+  soccer_laliga2:  { sport: 'soccer',     league: 'esp.2',         label: '라리가2'        },
+  soccer_uecl:     { sport: 'soccer',     league: 'uefa.europa.conf', label: 'UEFA 컨퍼런스리그' },
+  soccer_nations:  { sport: 'soccer',     league: 'uefa.nations',  label: '네이션스리그'    },
+  soccer_nations_w:{ sport: 'soccer',     league: 'uefa.w.nations',label: '네이션스리그(W)' },
+  soccer_wwc:      { sport: 'soccer',     league: 'fifa.wwc',      label: '월드컵 (W)'     },
+  soccer_afc_asiancup: { sport: 'soccer', league: 'afc.asian.cup', label: 'AFC 아시안컵'    },
+  soccer_friendly: { sport: 'soccer',     league: 'fifa.friendly', label: '국제친선'        },
+  // "D1"이라는 한글 라벨을 여러 나라가 공유해서(벨기에/아일랜드) country로 최종 구분한다.
+  soccer_belgium:  { sport: 'soccer',     league: 'bel.1',         label: 'D1(벨기에)'      },
+  soccer_ireland:  { sport: 'soccer',     league: 'irl.1',         label: 'D1(아일랜드)'    },
 };
 
-function detectEspnSport(category, league) {
+function detectEspnSport(category, league, country) {
   const cat = (category || '').toLowerCase();
   const lg  = (league   || '').toUpperCase();
   if (lg.includes('WNBA'))           return 'wnba';
@@ -71,11 +83,14 @@ function detectEspnSport(category, league) {
   if (cat === 'hockey'   || lg.includes('NHL'))   return 'hockey';
   if (cat === 'soccer') {
     if (lg.includes('MLS'))          return 'soccer_mls';
-    if (lg.includes('라리가') && !lg.includes('라리가2')) return 'soccer_laliga';
+    if (lg.includes('라리가2'))      return 'soccer_laliga2';
+    if (lg.includes('라리가'))       return 'soccer_laliga';
     if (lg.includes('분데스리가2'))  return 'soccer_bundesliga2';
     if (lg.includes('분데스리가') && !lg.includes('분데스리가2')) return 'soccer_bundesliga';
     if (lg.includes('프리메라리가')) return 'soccer_primeira';
     if (lg.includes('UEFA 챔피언스리그') || lg.includes('UEFA CHAMPIONS')) return 'soccer_ucl';
+    // 컨퍼런스리그가 "UEFA EUROPA"를 부분 포함하는 원문 표기가 있을 수 있어 유로파리그보다 먼저 확인
+    if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) return 'soccer_uecl';
     if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA')) return 'soccer_uel';
     if (lg.includes('FIFA 월드컵') || lg.includes('FIFA WORLD') ||
         (lg.includes('월드컵') && !lg.includes('(W)') && !lg.includes('예선'))) return 'soccer_worldcup';
@@ -83,7 +98,22 @@ function detectEspnSport(category, league) {
     if (lg.includes('세리에 A'))     return 'soccer_seriea';
     if (lg.includes('리그1'))        return 'soccer_ligue1';
     if (lg.includes('에레디비시'))   return 'soccer_eredivisie';
-    if (lg.includes('프리메라디비전')) return 'soccer_uruguay';
+    if (lg.includes('프리메라디비전') || (country && String(country).toLowerCase() === 'uruguay')) return 'soccer_uruguay';
+    if (lg.includes('코파 리베르타도레스') || lg === 'CONMEBOL LIBERTADORES') return 'soccer_libertadores';
+    if (lg.includes('코파 수다메리카나') || lg === 'CONMEBOL SUDAMERICANA') return 'soccer_sudamericana';
+    // "네이션스리그(W)"가 "네이션스리그"의 부분집합 문자열이라 여성부를 먼저 확인
+    if (lg.includes('네이션스리그(W)') || lg === 'NATIONS LEAGUE WOMEN') return 'soccer_nations_w';
+    if (lg.includes('네이션스리그') || lg === 'NATIONS LEAGUE') return 'soccer_nations';
+    if (lg.includes('월드컵 (W)') || lg === 'WORLD CUP - WOMEN') return 'soccer_wwc';
+    if (lg.includes('AFC 아시안컵') || lg === 'AFC ASIAN CUP') return 'soccer_afc_asiancup';
+    if (lg.includes('국제친선') || lg === 'FRIENDLIES' || lg === 'FRIENDLY INTERNATIONAL') return 'soccer_friendly';
+    if (lg === 'D1' || lg === 'JUPILER PRO LEAGUE' || lg === 'PREMIER DIVISION') {
+      // "D1" 라벨은 벨기에/아일랜드 등 여러 나라가 공유하므로 country로 최종 판별한다.
+      // country가 없거나 등록되지 않은 나라면 오매칭 방지를 위해 안전하게 스킵(undefined 반환)한다.
+      const c = (country || '').toLowerCase();
+      if (lg === 'JUPILER PRO LEAGUE' || c === 'belgium') return 'soccer_belgium';
+      if (c === 'ireland' || c === 'republic of ireland') return 'soccer_ireland';
+    }
     // K1(K리그)은 ESPN 커버리지가 부실해서(매칭 100% 실패 확인됨) 제외 - API 호출 낭비 방지
     // if (lg.includes('K1'))           return 'soccer_kleague';
   }
@@ -587,7 +617,7 @@ async function main() {
         console.log(`   ⚠️ 썸머리그 원본 대조 실패 - database/${dateStr}.json (및 전날 파일)에서 못 찾음 (라스베가스로 기본 처리)`);
       }
     }
-    const espnSport  = detectEspnSport(category, detectLeague);
+    const espnSport  = detectEspnSport(category, detectLeague, fm.country);
 
     if (!espnSport || espnSport === 'wnba') {
   skipCount++;

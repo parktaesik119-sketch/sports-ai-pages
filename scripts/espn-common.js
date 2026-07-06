@@ -29,6 +29,18 @@ export const ESPN_SPORTS = {
   soccer_eredivisie:  { sport: 'soccer',     league: 'ned.1',          label: '에레디비시'      },
   soccer_kleague:     { sport: 'soccer',     league: 'kor.1',          label: 'K1'              },
   soccer_uruguay:     { sport: 'soccer',     league: 'uru.1',          label: '프리메라디비전'  },
+  soccer_libertadores:{ sport: 'soccer',     league: 'conmebol.libertadores', label: '코파 리베르타도레스' },
+  soccer_sudamericana:{ sport: 'soccer',     league: 'conmebol.sudamericana', label: '코파 수다메리카나'   },
+  soccer_laliga2:     { sport: 'soccer',     league: 'esp.2',          label: '라리가2'         },
+  soccer_uecl:        { sport: 'soccer',     league: 'uefa.europa.conf', label: 'UEFA 컨퍼런스리그' },
+  soccer_nations:     { sport: 'soccer',     league: 'uefa.nations',   label: '네이션스리그'     },
+  soccer_nations_w:   { sport: 'soccer',     league: 'uefa.w.nations', label: '네이션스리그(W)'  },
+  soccer_wwc:         { sport: 'soccer',     league: 'fifa.wwc',       label: '월드컵 (W)'      },
+  soccer_afc_asiancup:{ sport: 'soccer',     league: 'afc.asian.cup',  label: 'AFC 아시안컵'     },
+  soccer_friendly:    { sport: 'soccer',     league: 'fifa.friendly',  label: '국제친선'         },
+  // "D1"이라는 한글 라벨을 여러 나라가 공유해서(벨기에/아일랜드/기타) country로 최종 구분한다.
+  soccer_belgium:     { sport: 'soccer',     league: 'bel.1',          label: 'D1(벨기에)'       },
+  soccer_ireland:     { sport: 'soccer',     league: 'irl.1',          label: 'D1(아일랜드)'     },
 };
 
 // analyze-router-one-git.js의 cat('soccer'|'basketball'|'baseball'|'hockey'|'volleyball'|'lol')과
@@ -47,6 +59,10 @@ const COUNTRY_REQUIRED = {
   soccer_eredivisie:  ['Netherlands'],
   soccer_kleague:     ['South Korea', 'Korea Republic', 'Korea'],
   soccer_uruguay:     ['Uruguay'],
+  soccer_laliga2:     ['Spain'],
+  soccer_belgium:     ['Belgium'],
+  soccer_ireland:     ['Ireland', 'Republic of Ireland'],
+  // CONMEBOL 대회/UEFA 대륙대회/국제대회는 국가 제한 없음 (COUNTRY_REQUIRED에 미등록 = 제한 없음)
 };
 
 function countryOk(key, country) {
@@ -92,6 +108,23 @@ export function detectEspnSport(category, league, country) {
     // (country 검증은 countryOk()에서 한 번 더 확인하지만, 여기서 country로 직접 판별해두면
     // Apertura/Clausura 어느 쪽이든, 표기가 바뀌어도 안정적으로 잡힌다.)
     else if (lg.includes('프리메라디비전') || (country && String(country).toLowerCase() === 'uruguay')) key = 'soccer_uruguay';
+    else if (lg.includes('코파 리베르타도레스') || lg === 'CONMEBOL LIBERTADORES') key = 'soccer_libertadores';
+    else if (lg.includes('코파 수다메리카나') || lg === 'CONMEBOL SUDAMERICANA') key = 'soccer_sudamericana';
+    else if (lg.includes('라리가2') || lg.includes('SEGUNDA DIVISI')) key = 'soccer_laliga2';
+    else if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) key = 'soccer_uecl';
+    // "네이션스리그(W)"가 "네이션스리그"의 부분집합 문자열이라, 여성부를 먼저 확인해야 함
+    else if (lg.includes('네이션스리그(W)') || lg === 'NATIONS LEAGUE WOMEN') key = 'soccer_nations_w';
+    else if (lg.includes('네이션스리그') || lg === 'NATIONS LEAGUE') key = 'soccer_nations';
+    else if (lg.includes('월드컵 (W)') || lg === 'WORLD CUP - WOMEN') key = 'soccer_wwc';
+    else if (lg.includes('AFC 아시안컵') || lg === 'AFC ASIAN CUP') key = 'soccer_afc_asiancup';
+    else if (lg.includes('국제친선') || lg === 'FRIENDLIES' || lg === 'FRIENDLY INTERNATIONAL') key = 'soccer_friendly';
+    else if (lg === 'D1' || lg === 'JUPILER PRO LEAGUE' || lg === 'PREMIER DIVISION') {
+      // "D1"이라는 표기를 벨기에/아일랜드 등 여러 나라가 공유하므로 country로만 최종 판별한다.
+      // country가 없거나 등록된 나라가 아니면 오매칭 방지를 위해 안전하게 스킵한다.
+      const c = (country || '').toLowerCase();
+      if (lg === 'JUPILER PRO LEAGUE' || c === 'belgium') key = 'soccer_belgium';
+      else if (c === 'ireland' || c === 'republic of ireland') key = 'soccer_ireland';
+    }
     // K1(K리그)은 ESPN 커버리지가 부실해서(매칭 100% 실패 확인됨) 제외 - API 호출 낭비 방지
     // else if (lg.includes('K1') || lg === 'K LEAGUE 1')                key = 'soccer_kleague';
 
