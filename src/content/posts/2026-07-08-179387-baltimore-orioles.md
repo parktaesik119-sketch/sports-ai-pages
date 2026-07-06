@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Baz (4-8, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (3-1, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
 ---

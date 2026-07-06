@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 P. Skenes (6-8, 3.62) ERA 3.62|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
+awayLineup: "[]"
 ---

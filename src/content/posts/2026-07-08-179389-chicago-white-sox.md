@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 N. Schultz (2-5, 5.86) ERA 5.86|https://a.espncdn.com/i/headshots/mlb/players/full/5080754.png\"]"
+awayLineup: "[\"선발투수 P. Tolle (4-6, 3.39) ERA 3.39|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
 ---

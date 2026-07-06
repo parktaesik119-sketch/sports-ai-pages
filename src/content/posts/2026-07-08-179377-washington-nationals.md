@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 A. Alvarez (2-1, 3.05) ERA 3.05|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
+awayLineup: "[\"선발투수 T. Imai (5-4, 6.14) ERA 6.14|https://a.espncdn.com/i/headshots/mlb/players/full/5330833.png\"]"
 ---
