@@ -667,7 +667,35 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
       // 5. 저장 경로 확인
   const safeHomeName = getSafeLogoName(match.home); 
   const savePath = path.resolve(__dirname, `../src/content/posts/${dateOnly}-${match.id}-${safeHomeName}.md`);
-  if (fs.existsSync(savePath)) continue;
+
+  // ⚠️ 서머리그처럼 아직 확정 안 된 경기는 api-sports가 kickoff 시각을 매일 하루씩
+  // 밀어서 내려주는 경우가 있다. 이때 match.date(dateOnly)가 매일 바뀌면서 savePath도
+  // 매번 달라져, 이미 만들어둔 글이 있는데도 "새 경기"로 착각해 중복 생성되는 문제가 있었다.
+  // 그래서 파일명 전체가 아니라 "이 경기 id를 가진 파일이 이미 있는지"만 먼저 확인한다.
+  const postsDirForDedup = path.resolve(__dirname, '../src/content/posts');
+  const existingFileForId = fs.existsSync(postsDirForDedup)
+    ? fs.readdirSync(postsDirForDedup).find(f => f.endsWith('.md') && f.includes(`-${match.id}-`))
+    : null;
+
+  if (existingFileForId) {
+    // 이미 이 경기 글이 있으면 새로 만들지 않는다. 다만 날짜가 그 사이 밀렸다면(=위 현상),
+    // 기존 글의 date 필드만 최신값으로 갱신해준다 — 그래야 espn-boxscore-update.js 등
+    // 후속 스크립트가 정확한 경기 시각으로 ESPN을 조회할 수 있다. 본문(분석글)은 그대로 둔다.
+    const existingPath = path.join(postsDirForDedup, existingFileForId);
+    try {
+      const existingContent = fs.readFileSync(existingPath, 'utf-8');
+      const dateFieldMatch = existingContent.match(/^date:\s*(.+)$/m);
+      const existingDate = dateFieldMatch ? dateFieldMatch[1].trim() : null;
+      if (existingDate && existingDate !== match.date) {
+        const updatedContent = existingContent.replace(/^date:.*$/m, `date: ${match.date}`);
+        fs.writeFileSync(existingPath, updatedContent, 'utf-8');
+        console.log(`🔄 [날짜 갱신] ${existingFileForId}: ${existingDate} → ${match.date} (경기 시각 변경분 반영, 본문은 유지)`);
+      }
+    } catch (err) {
+      console.warn(`⚠️ [날짜 갱신 실패] ${existingFileForId}:`, err.message);
+    }
+    continue;
+  }
 
       // 6. 상대전적(H2H) 분석 로직
   const spacer = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";

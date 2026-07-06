@@ -505,12 +505,22 @@ function getDateFromFilename(filePath) {
   return m ? m[1] : null;
 }
 
+// 파일명 "2026-07-07-501866-memphis-grizzlies.md"에서 경기 ID(501866)를 뽑아낸다.
+// 팀명+날짜로 애매하게 찾는 것보다 ID로 정확히 찾는 게 훨씬 안전하다.
+function getMatchIdFromFilename(filePath) {
+  const m = path.basename(filePath).match(/^\d{4}-\d{2}-\d{2}-(\d+)-/);
+  return m ? m[1] : null;
+}
+
+// ⚠️ 글 파일명 날짜는 "경기 날짜"가 아니라 "글이 생성된 날"(그날 읽은 database/{그날}.json)이다.
+// fetch-all.js가 D+2까지 미리 일정을 당겨와 분석글을 만들어두기 때문에, 실제 경기는 파일명
+// 날짜보다 최대 2일 뒤에 열릴 수 있다 (예: 07-04에 생성된 글 안에 07-06 경기가 들어있는 경우).
+// 그래서 이 스크립트가 "오늘" 실행돼도, 오늘 경기의 라인업을 채워야 할 글은 파일명이
+// 최대 2일 전 날짜일 수 있다 — ±1일로는 부족하고 ±2일 범위까지 봐야 한다.
 function getKstDates() {
-  const now       = new Date(Date.now() + 9 * 60 * 60 * 1000);
-  const today     = now.toISOString().slice(0, 10);
-  const yesterday = new Date(now.getTime() - 86400000).toISOString().slice(0, 10);
-  const tomorrow  = new Date(now.getTime() + 86400000).toISOString().slice(0, 10);
-  return [today, yesterday, tomorrow];
+  const now = new Date(Date.now() + 9 * 60 * 60 * 1000);
+  const offsets = [-2, -1, 0, 1, 2];
+  return offsets.map(n => new Date(now.getTime() + n * 86400000).toISOString().slice(0, 10));
 }
 
 function getTargetPostFiles() {
@@ -543,24 +553,64 @@ function loadRawFixtures(dateStr) {
   return rawFixturesCache[dateStr];
 }
 
-// 홈/원정 영문 팀명 + 날짜로 원본(도시 정보 포함) 리그명 찾기. 못 찾으면 null.
+// ─────────────────────────────────────────────
+// database/{date}.json은 cleanup-database.js가 오래된 스냅샷을 정리하기 때문에,
+// 이 스크립트가 늦게 실행되면 정작 필요한 날짜의 스냅샷이 이미 사라져 있을 수 있다.
+// 반면 database/all-fixtures.json은 절대 삭제되지 않는 누적 DB라서, 최후의 폴백으로 쓴다.
+// ─────────────────────────────────────────────
+let allFixturesCache = undefined; // undefined=아직 안 불러옴, null=파일 없음/실패, 배열=로드됨
+
+function loadAllFixtures() {
+  if (allFixturesCache !== undefined) return allFixturesCache;
+  const p = path.resolve(__dirname, '../database/all-fixtures.json');
+  if (!fs.existsSync(p)) { allFixturesCache = null; return null; }
+  try {
+    allFixturesCache = JSON.parse(fs.readFileSync(p, 'utf-8'));
+  } catch {
+    allFixturesCache = null;
+  }
+  return allFixturesCache;
+}
+
+// 홈/원정 영문 팀명 + 날짜(+가능하면 경기 ID)로 원본(도시 정보 포함) 리그명 찾기. 못 찾으면 null.
 // 수집기(analyze-router-one-git.js)는 미국 현지 경기일 기준으로 database/{date}.json을 묶어 저장하는 반면,
 // 이 스크립트는 글 파일명의 KST 날짜를 기준으로 조회하기 때문에 두 날짜가 어긋날 수 있다.
-// (예: KST 07-06 새벽 경기가 미국 기준 07-05 파일에 들어있는 경우)
-// 이를 보정하기 위해 대상 날짜뿐 아니라 하루 전 날짜 파일도 함께 확인한다.
-function findRawLeagueName(dateStr, homeTeamEn, awayTeamEn) {
-  const prevDateStr = new Date(new Date(`${dateStr}T00:00:00Z`).getTime() - 86400000)
-    .toISOString().slice(0, 10);
+// 게다가 fetch-all.js가 D+2까지 미리 일정을 당겨와 분석글을 만들어두기 때문에, "오늘 날짜 파일"
+// 하나만 봐서는 안 되고 실제로는 그 경기가 며칠 전(D-1) ~ 며칠 후(D+2) 파일 중 어디에 들어있을지
+// 알 수 없다. 그래서 D-1부터 D+2까지 폭넓게 뒤진다.
+// matchId가 있으면 팀명/날짜 매칭보다 우선해서 ID로 정확히 대조한다(가장 안전).
+function findRawLeagueName(dateStr, homeTeamEn, awayTeamEn, matchId = null) {
+  const base = new Date(`${dateStr}T00:00:00Z`).getTime();
+  const dayOffsets = [-1, 0, 1, 2]; // D-1 ~ D+2
+  const candidateDates = dayOffsets.map(n =>
+    new Date(base + n * 86400000).toISOString().slice(0, 10)
+  );
 
-  for (const d of [dateStr, prevDateStr]) {
+  const byId = (fixtures) => matchId ? fixtures.find(m => String(m.id) === String(matchId)) : null;
+  const byTeams = (fixtures) => fixtures.find(m =>
+    (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(homeTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(awayTeamEn)) ||
+    (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(awayTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(homeTeamEn))
+  );
+
+  for (const d of candidateDates) {
     const fixtures = loadRawFixtures(d);
     if (!fixtures) continue;
-    const found = fixtures.find(m =>
-      (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(homeTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(awayTeamEn)) ||
-      (normalizeTeamForMatch(m.home) === normalizeTeamForMatch(awayTeamEn) && normalizeTeamForMatch(m.away) === normalizeTeamForMatch(homeTeamEn))
-    );
+    const found = byId(fixtures) || byTeams(fixtures);
     if (found) return found.league || null;
   }
+
+  // 날짜 범위 안의 스냅샷 파일들이 전부 없거나(cleanup으로 삭제됨) 못 찾았으면,
+  // 절대 삭제되지 않는 누적 DB(all-fixtures.json)에서 마지막으로 시도.
+  // 누적 DB는 데이터가 많아 팀명만으로 찾으면 다른 날짜 경기와 헷갈릴 수 있으므로
+  // ID가 있을 때만(가장 정확할 때만) 사용한다.
+  if (matchId) {
+    const all = loadAllFixtures();
+    if (all) {
+      const found = byId(all);
+      if (found) return found.league || null;
+    }
+  }
+
   return null;
 }
 
@@ -629,17 +679,18 @@ async function main() {
 
     const homeTeamEn = toEnglishTeamName(homeTeamKo);
     const awayTeamEn = toEnglishTeamName(awayTeamKo);
+    const matchId    = getMatchIdFromFilename(filePath);
 
     // 표시용 리그명이 "NBA 썸머리그"로 뭉개져서 도시 구분이 안 될 때만,
     // 원본 raw fixtures 파일을 다시 대조해서 실제 도시가 들어간 리그명으로 재감지
     let detectLeague = league;
     if (league.includes('썸머리그') || league.includes('서머리그') || league === 'California Classic') {
-      const rawLeague = findRawLeagueName(dateStr, homeTeamEn, awayTeamEn);
+      const rawLeague = findRawLeagueName(dateStr, homeTeamEn, awayTeamEn, matchId);
       if (rawLeague) {
         detectLeague = rawLeague;
         console.log(`   ℹ️ 썸머리그 도시 대조: 표시="${league}" → 원본="${rawLeague}"`);
       } else {
-        console.log(`   ⚠️ 썸머리그 원본 대조 실패 - database/${dateStr}.json (및 전날 파일)에서 못 찾음 (라스베가스로 기본 처리)`);
+        console.log(`   ⚠️ 썸머리그 원본 대조 실패 - database/${dateStr}.json 전후(D-1~D+2) 및 누적 DB에서 못 찾음 (라스베가스로 기본 처리)`);
       }
     }
     const espnSport  = detectEspnSport(category, detectLeague, fm.country);
