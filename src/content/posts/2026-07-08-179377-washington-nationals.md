@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 A. Alvarez (2-1, 3.05) ERA 3.05|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
+homeLineup: "[\"선발투수 A. Alvarez (2-1, 3.05) ERA 3.05|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\",\"1번 J. Wood (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4918256.png\",\"2번 L. Garcia Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40459.png\",\"3번 C. Mead (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42360.png\",\"4번 C. Abrams (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42402.png\",\"5번 K. Ruiz (C)|https://a.espncdn.com/i/headshots/mlb/players/full/38827.png\",\"6번 D. Lile (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917889.png\",\"7번 N. Nunez (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4728688.png\",\"8번 J. Vivas (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722676.png\",\"9번 J. Young (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4414210.png\"]"
 awayLineup: "[\"선발투수 T. Imai (5-4, 6.14) ERA 6.14|https://a.espncdn.com/i/headshots/mlb/players/full/5330833.png\"]"
 ---

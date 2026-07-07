@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 S. Baz (4-8, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
-awayLineup: "[\"선발투수 M. Boyd (3-1, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (3-1, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\",\"1번 P. Crow-Armstrong (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png\",\"2번 A. Bregman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34886.png\",\"3번 M. Busch (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42415.png\",\"4번 S. Suzuki (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png\",\"5번 I. Happ (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/34945.png\",\"6번 N. Hoerner (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41219.png\",\"7번 M. Conforto (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33711.png\",\"8번 D. Swanson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/34895.png\",\"9번 M. Amaya (C)|https://a.espncdn.com/i/headshots/mlb/players/full/38905.png\"]"
 ---
