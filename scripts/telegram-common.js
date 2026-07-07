@@ -4,6 +4,14 @@
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT_ID = process.env.TELEGRAM_CHAT_ID;
 
+// 분석글 상세 페이지 URL 베이스. frontmatter의 slug와 합쳐서 링크를 만든다.
+const SITE_BASE_URL = 'https://pick79.com';
+
+export function buildPostUrl(slug) {
+  if (!slug) return null;
+  return `${SITE_BASE_URL}/posts/detail/${slug}/`;
+}
+
 export const SPORT_LABEL_KO = {
   soccer: '축구', baseball: '야구', basketball: '농구',
   volleyball: '배구', hockey: '하키', lol: 'LOL',

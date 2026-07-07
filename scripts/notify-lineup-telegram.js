@@ -18,7 +18,7 @@ import fs from 'fs';
 import path from 'path';
 import { execSync } from 'child_process';
 import { fileURLToPath } from 'url';
-import { parseFrontmatterField, toShortDate, sendTelegramMessage } from './telegram-common.js';
+import { parseFrontmatterField, toShortDate, sendTelegramMessage, buildPostUrl, escapeHtml } from './telegram-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -56,8 +56,12 @@ async function main() {
     const homeTeam = parseFrontmatterField(content, 'homeTeam');
     const awayTeam = parseFrontmatterField(content, 'awayTeam');
     const date = parseFrontmatterField(content, 'date');
+    const slug = parseFrontmatterField(content, 'slug');
     if (!homeTeam || !awayTeam) continue;
-    lines.push(`${toShortDate(date)} ${homeTeam} vs ${awayTeam}`);
+
+    const label = `${toShortDate(date)} ${escapeHtml(homeTeam)} vs ${escapeHtml(awayTeam)}`;
+    const url = buildPostUrl(slug);
+    lines.push(url ? `<a href="${url}">${label}</a>` : label);
   }
 
   if (lines.length === 0) {
