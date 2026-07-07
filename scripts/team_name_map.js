@@ -1372,6 +1372,15 @@ const TEAM_NAME_MAP = {
   "AF Elbasani": "AF 엘바사니",
   "La Fiorita": "라 피오리타",
   "UNA Strassen": "UNA 슈트라센",
+  "Flora Tallinn": "플로라 탈린",
+  "Kairat Almaty": "카이라트",
+  "Sutjeska": "FK수체스카",
+  "ML Vitebsk": "ML 비테프스크",
+  "Petrocub": "페트로쿱",
+  "Egnatia Rrogozhinë": "에그나티아",
+  "GAP Connah S Quay FC": "코나스 퀘이",
+  "Ballkani": "발카니",
+
 
 
   //중국축구
