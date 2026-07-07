@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "208.5"
 pickOuDirection: "언더"
+homeLineup: "[\"L. Lovering (C)|https://a.espncdn.com/i/headshots/nba/players/full/4596528.png\",\"J. Porter (F)|https://a.espncdn.com/i/headshots/nba/players/full/5106880.png\",\"B. Hausen (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105589.png\",\"T. Hendricks (F)|https://a.espncdn.com/i/headshots/nba/players/full/4684806.png\",\"T. Burton (F)|https://a.espncdn.com/i/headshots/nba/players/full/4431914.png\"]"
+awayLineup: "[\"H. Veesaar (C)|https://a.espncdn.com/i/headshots/nba/players/full/5105571.png\",\"J. Toppin (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592461.png\",\"D. Higgs (G)|https://a.espncdn.com/i/headshots/nba/players/full/5194095.png\",\"I. McKneely (G)|https://a.espncdn.com/i/headshots/nba/players/full/4712845.png\",\"R. Dennis (G)|https://a.espncdn.com/i/headshots/nba/players/full/4431941.png\"]"
 ---
