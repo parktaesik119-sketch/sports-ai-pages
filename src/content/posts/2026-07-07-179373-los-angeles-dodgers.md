@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 J. Wrobleski (10-2, 2.80) ERA 2.80|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\"]"
-awayLineup: "[\"선발투수 M. Lorenzen (3-9, 6.91) ERA 6.91|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\"]"
+awayLineup: "[\"선발투수 M. Lorenzen (3-9, 6.91) ERA 6.91|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\",\"1번 W. Castro (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"2번 K. Karros (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5203102.png\",\"3번 H. Goodman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"4번 C. Carrigg (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"5번 J. McCarthy (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"6번 T. Freeman (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/40958.png\",\"7번 E. Tovar (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png\",\"8번 M. Moniak (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"9번 B. Fulford (C)|https://a.espncdn.com/i/headshots/mlb/players/full/5000931.png\"]"
 ---
