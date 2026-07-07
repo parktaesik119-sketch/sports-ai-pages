@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 F. Griffin (9-2, 2.87) ERA 2.87|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
+awayLineup: "[\"선발투수 S. Arrighetti (7-4, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4726080.png\"]"
 ---

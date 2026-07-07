@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 D. Kremer (1-1, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
+awayLineup: "[\"선발투수 C. Rea (6-5, 4.74) ERA 4.74|https://a.espncdn.com/i/headshots/mlb/players/full/33950.png\"]"
 ---

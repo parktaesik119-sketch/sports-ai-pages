@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[]"
+awayLineup: "[\"선발투수 J. Misiorowski (9-4, 1.47) ERA 1.47|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
 ---

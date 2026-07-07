@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 D. Martin (9-3, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
+awayLineup: "[\"선발투수 J. Bennett (3-3, 3.10) ERA 3.10|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\"]"
 ---

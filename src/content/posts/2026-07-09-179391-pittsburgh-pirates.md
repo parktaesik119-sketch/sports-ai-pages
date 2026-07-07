@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 J. Jones (1-1, 5.28) ERA 5.28|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (5-4, 3.83) ERA 3.83|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Sasaki (3-5, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/5134638.png\"]"
+awayLineup: "[\"선발투수 R. Feltner (3-2, 4.27) ERA 4.27|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
 ---
