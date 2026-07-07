@@ -1,6 +1,6 @@
 ---
 title: "26/05/06 미국 [MLB] 세인트루이스 카디널스 vs 밀워키 브루어스 분석"
-date: 2026-05-04T01:21:39.790Z
+date: 2026-07-07T18:15:00+00:00
 description: "세인트루이스 카디널스 vs 밀워키 브루어스 경기 분석 리포트"
 slug: "analyze-178539-2026-05-06-st-louis-cardinals"
 category: "baseball"
