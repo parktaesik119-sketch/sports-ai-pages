@@ -1570,8 +1570,14 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
   let finalExpectedHome = (pickExpectedHome && pickExpectedHome !== '없음') ? pickExpectedHome : '';
   let finalExpectedAway = (pickExpectedAway && pickExpectedAway !== '없음') ? pickExpectedAway : '';
 
-  // 동점 보정 (축구 제외, 픽 승자 기준)
-  if (cat !== 'soccer' && finalExpectedHome && finalExpectedAway) {
+  // 축구에서 "진짜 무승부 픽"인 경우에만 동점 스코어를 그대로 인정한다.
+  // (승/패 픽인데 스코어만 동점으로 나오는 건 AI 환각이므로 보정 대상)
+  const isSoccerDrawPick = cat === 'soccer'
+    && (finalPickWinResult === '무승부' || finalPickWinTeam === '무승부' || finalPickWinTeam === '');
+
+  // 동점 보정: 승자 픽이 있는데 예상 스코어가 동점으로 나오면(AI 환각) 승자 쪽에 점수를 더해 모순 제거
+  // (축구는 진짜 무승부 픽일 때만 예외)
+  if (!isSoccerDrawPick && finalExpectedHome && finalExpectedAway) {
     const eh = parseInt(finalExpectedHome);
     const ea = parseInt(finalExpectedAway);
     if (!isNaN(eh) && !isNaN(ea) && eh === ea) {
@@ -1586,9 +1592,9 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
     }
   }
 
-  // 승자 픽 기준 예상스코어 방향 보정 (축구 무승부 제외)
+  // 승자 픽 기준 예상스코어 방향 보정 (축구는 진짜 무승부 픽일 때만 예외)
   // AI 픽 승자와 예상스코어 승자가 다르면 점수 차를 유지한 채 뒤집기
-  if (cat !== 'soccer' && finalExpectedHome && finalExpectedAway && finalPickWinTeam) {
+  if (!isSoccerDrawPick && finalExpectedHome && finalExpectedAway && finalPickWinTeam) {
     const eh = parseInt(finalExpectedHome);
     const ea = parseInt(finalExpectedAway);
     if (!isNaN(eh) && !isNaN(ea)) {
@@ -1605,8 +1611,8 @@ const winnerIsHome = homeNames.some(n =>
     }
   }
 
-  // 축구 동점 스코어 상한선 보정 (3:3 이상 → 2:2)
-  if (cat === 'soccer' && finalExpectedHome && finalExpectedAway) {
+  // 축구 "진짜 무승부 픽"의 동점 스코어 상한선 보정 (3:3 이상 → 2:2)
+  if (isSoccerDrawPick && finalExpectedHome && finalExpectedAway) {
     const eh = parseInt(finalExpectedHome);
     const ea = parseInt(finalExpectedAway);
     if (!isNaN(eh) && !isNaN(ea) && eh === ea && eh >= 3) {
