@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 A. Pallante (10-5, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
+homeLineup: "[\"선발투수 M. McGreevy (3-7, 3.12) ERA 3.12|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
 awayLineup: "[\"선발투수 K. Harrison (8-1, 2.82) ERA 2.82|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 ---
