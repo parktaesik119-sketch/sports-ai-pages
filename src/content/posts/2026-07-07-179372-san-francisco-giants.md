@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 T. McDonald (3-6, 4.42) ERA 4.42|https://a.espncdn.com/i/headshots/mlb/players/full/5185136.png\"]"
+homeLineup: "[\"선발투수 T. McDonald (3-6, 4.42) ERA 4.42|https://a.espncdn.com/i/headshots/mlb/players/full/5185136.png\",\"1번 H. Ramos (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/39642.png\",\"2번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"3번 C. Schmitt (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4301949.png\",\"4번 R. Devers (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33859.png\",\"5번 J. Lee (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5134621.png\",\"6번 W. Adames (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33675.png\",\"7번 B. Eldridge (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png\",\"8번 V. Bericoto (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42502.png\",\"9번 D. Cavanaugh (C)|https://a.espncdn.com/i/headshots/mlb/players/full/5270445.png\"]"
 awayLineup: "[\"선발투수 S. Miles (4-1, 2.83) ERA 2.83|https://a.espncdn.com/i/headshots/mlb/players/full/4833671.png\"]"
 ---
