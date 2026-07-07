@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Katsuki Azuma (6-4, 2.27)|https://p.npb.jp/players_photo/2026/180/db/011_51155136.jpg\"]"
+awayLineup: "[\"선발투수 Takahiro Matsuba (0-0, 3.60)|https://p.npb.jp/players_photo/2026/180/d/038_21225137.jpg\"]"
 ---

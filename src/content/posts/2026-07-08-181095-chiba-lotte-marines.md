@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Tokito Kawamura (1-1, 3.50)|https://p.npb.jp/players_photo/2026/180/m/058_61765153.jpg\"]"
+awayLineup: "[\"선발투수 Takayuki Katoh (8-1, 2.50)|https://p.npb.jp/players_photo/2026/180/f/014_41545132.jpg\"]"
 ---
