@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 T. McDonald (3-6, 4.42) ERA 4.42|https://a.espncdn.com/i/headshots/mlb/players/full/5185136.png\"]"
-awayLineup: "[]"
+awayLineup: "[\"선발투수 S. Miles (4-1, 2.83) ERA 2.83|https://a.espncdn.com/i/headshots/mlb/players/full/4833671.png\"]"
 ---
