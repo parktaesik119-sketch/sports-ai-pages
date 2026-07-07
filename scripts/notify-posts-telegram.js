@@ -16,7 +16,7 @@ import fs from 'fs';
 import path from 'path';
 import { execSync } from 'child_process';
 import { fileURLToPath } from 'url';
-import { parseFrontmatterField, toShortDate, sendTelegramMessage, SPORT_LABEL_KO } from './telegram-common.js';
+import { parseFrontmatterField, toShortDate, sendTelegramMessage, SPORT_LABEL_KO, buildPostUrl, escapeHtml } from './telegram-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -57,11 +57,15 @@ async function main() {
     const awayTeam = parseFrontmatterField(content, 'awayTeam');
     const date = parseFrontmatterField(content, 'date');
     const category = parseFrontmatterField(content, 'category') || 'etc';
+    const slug = parseFrontmatterField(content, 'slug');
     if (!homeTeam || !awayTeam) continue;
 
     const label = SPORT_LABEL_KO[category] || category;
     if (!grouped[label]) grouped[label] = [];
-    grouped[label].push(`${toShortDate(date)} ${homeTeam} vs ${awayTeam}`);
+
+    const lineText = `${toShortDate(date)} ${escapeHtml(homeTeam)} vs ${escapeHtml(awayTeam)}`;
+    const url = buildPostUrl(slug);
+    grouped[label].push(url ? `<a href="${url}">${lineText}</a>` : lineText);
   }
 
   const sections = Object.keys(grouped);
