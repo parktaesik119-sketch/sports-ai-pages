@@ -556,6 +556,62 @@ const SUMMER_LEAGUE_CITY_KEYS = [
   'basketball_summer_orlando', 'basketball_summer_sacramento',
 ];
 
+// ─────────────────────────────────────────────
+// 기존에 저장된 라인업(frontmatter 문자열)을 배열로 복원
+// ─────────────────────────────────────────────
+function parseStoredLineupArray(raw) {
+  const unescaped = (raw || '').replace(/\\"/g, '"').trim();
+  if (!unescaped || unescaped === '[]') return [];
+  try {
+    const arr = JSON.parse(unescaped);
+    return Array.isArray(arr) ? arr : [];
+  } catch {
+    return [];
+  }
+}
+
+// ─────────────────────────────────────────────
+// 기존 라인업 + 신규 응답 병합
+// - 축구/농구 등: 투수/타자 구분이 없어 통짜로 발표되므로, 새 응답이 있으면 그걸 쓰고
+//   없으면(아직 미발표) 기존 값을 그대로 유지한다.
+// - 야구: 선발투수(probables API)와 타자(rosters API)가 서로 다른 시점에 개별적으로
+//   채워질 수 있어서, 두 줄을 분리해 "새로 왔으면 새 걸로, 안 왔으면 기존 걸로" 각각
+//   독립적으로 채운다. 한쪽만 새로 나왔다고 이미 확보해둔 다른 한쪽을 지우는 일이 없게 함.
+// ─────────────────────────────────────────────
+function mergeLineupSide(oldRaw, newArr, category) {
+  const oldArr  = parseStoredLineupArray(oldRaw);
+  const newSafe = Array.isArray(newArr) ? newArr : [];
+
+  if (category !== 'baseball') {
+    return newSafe.length > 0 ? newSafe : oldArr;
+  }
+
+  const isPitcherLine = (line) => typeof line === 'string' && line.startsWith('선발투수');
+  const hasPhoto       = (line) => typeof line === 'string' && line.includes('|');
+
+  const oldPitcher = oldArr.find(isPitcherLine) || null;
+  const oldBatters = oldArr.filter(l => !isPitcherLine(l));
+
+  const newPitcher = newSafe.find(isPitcherLine) || null;
+  const newBatters = newSafe.filter(l => !isPitcherLine(l));
+
+  // 투수: 새 응답에 사진까지 포함된 정상적인 정보가 있으면 그걸 쓰고,
+  // 없거나(미발표) 부실하면(사진 없음) 기존에 이미 확보한 투수 정보를 지킨다.
+  let finalPitcher;
+  if (newPitcher && (hasPhoto(newPitcher) || !oldPitcher)) {
+    finalPitcher = newPitcher;
+  } else if (oldPitcher) {
+    finalPitcher = oldPitcher;
+  } else {
+    finalPitcher = newPitcher; // null 이거나 사진 없는 값 그대로
+  }
+
+  // 타자: 새 응답에 타자 라인업이 있으면 그걸 쓰고, 없으면 기존 걸 유지
+  const finalBatters = newBatters.length > 0 ? newBatters : oldBatters;
+
+  return finalPitcher ? [finalPitcher, ...finalBatters] : finalBatters;
+}
+
 async function main() {
   console.log('📊 ESPN 라인업 업데이트 시작\n');
 
@@ -784,22 +840,27 @@ async function main() {
       continue;
     }
 
-    // 재처리 시, 이미 완성되어 있던 쪽을 이번 응답이 비어있다는 이유로 덮어써서
-    // 되돌리는 일이 없도록 방어한다 (예: 홈은 이미 발표됐는데 원정만 늦게 나오는 경우,
-    // 원정을 채우려고 재처리하다가 홈 쪽 응답이 일시적으로 비어 온다고 해서 홈을 지우면 안 됨).
-    const newHomeLineupStr = JSON.stringify(homeLineup);
-    const newAwayLineupStr = JSON.stringify(awayLineup);
+    // 재처리 시, 이미 확보해둔 라인업 조각(투수/타자)을 이번 응답에서 빠졌다는 이유로
+    // 지우지 않도록 병합한다 (예: 홈은 타자만 먼저 나왔다가 다음 실행에서 투수만 새로
+    // 나오는 경우, 기존 타자 정보가 사라지지 않고 투수 정보만 추가로 채워짐).
+    const mergedHomeLineup = mergeLineupSide(fm.homeLineup, homeLineup, category);
+    const mergedAwayLineup = mergeLineupSide(fm.awayLineup, awayLineup, category);
 
-    if (isLineupComplete(fm.homeLineup) && !isLineupComplete(newHomeLineupStr)) {
-      console.log(`   ℹ️ 홈 라인업은 기존 값 유지 (신규 응답이 비어있음)`);
+    const mergedHomeStr = JSON.stringify(mergedHomeLineup);
+    const mergedAwayStr = JSON.stringify(mergedAwayLineup);
+    const oldHomeStr    = JSON.stringify(parseStoredLineupArray(fm.homeLineup));
+    const oldAwayStr    = JSON.stringify(parseStoredLineupArray(fm.awayLineup));
+
+    if (mergedHomeStr !== oldHomeStr) {
+      updates.homeLineup = mergedHomeStr;
     } else {
-      updates.homeLineup = newHomeLineupStr;
+      console.log(`   ℹ️ 홈 라인업 변경 없음 (기존 값 유지)`);
     }
 
-    if (isLineupComplete(fm.awayLineup) && !isLineupComplete(newAwayLineupStr)) {
-      console.log(`   ℹ️ 원정 라인업은 기존 값 유지 (신규 응답이 비어있음)`);
+    if (mergedAwayStr !== oldAwayStr) {
+      updates.awayLineup = mergedAwayStr;
     } else {
-      updates.awayLineup = newAwayLineupStr;
+      console.log(`   ℹ️ 원정 라인업 변경 없음 (기존 값 유지)`);
     }
 
     const ok = updateMdFrontmatter(filePath, updates);
