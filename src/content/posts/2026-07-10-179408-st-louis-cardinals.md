@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 A. Pallante (10-5, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
+awayLineup: "[\"선발투수 L. Henderson (2-1, 2.74) ERA 2.74|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
 ---
