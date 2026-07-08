@@ -1,0 +1,31 @@
+---
+title: "Hegelmann Litauen vs Paide 경기분석·라인업·결장자·통계·승부예측 (7월 10일) | UEFA 컨퍼런스리그 - 픽천국"
+date: 2026-07-09T16:00:00+00:00
+description: "Hegelmann Litauen vs Paide 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1554402-2026-07-10-hegelmann-litauen"
+category: "soccer"
+country: "국제"
+league: "UEFA 컨퍼런스리그"
+homeTeam: "Hegelmann Litauen"
+awayTeam: "Paide"
+homeLogo: "https://media.api-sports.io/football/teams/3861.png"
+awayLogo: "https://media.api-sports.io/football/teams/3528.png"
+homeAnalysis: "Hegelmann Litauen은 이번 UEFA 컨퍼런스리그에서 2승 4무 5패를 기록하며 경기당 평균 1.2득점으로 시즌 내내 득점 생산이 들쭉날쭉한 흐름을 보이고 있습니다. 최근에는 득점과 실점이 함께 발생하는 경기가 많아 안정감이 완전히 잡히지 않았지만, 홈에서는 최소한 공격 전개가 살아나는 장면이 종종 확인되고 있습니다. 다만 수비 쪽에서 한 번 흔들리면 흐름을 되찾는 데 시간이 걸리는 모습이라, 초반 실점 여부가 매우 중요해 보입니다. 이번 맞대결에서는 홈 이점을 바탕으로 전방 압박과 세트피스 활용을 얼마나 효율적으로 가져가느냐가 관건입니다. 공격의 꾸준함은 있으나 마무리 집중력이 흔들리는 구간이 있어, 경기 후반 운영이 승부를 가를 가능성이 높습니다."
+awayAnalysis: "Paide는 이번 UEFA 컨퍼런스리그에서 5승 3무 5패를 기록하며 경기당 평균 1.3득점으로 비교적 고른 득점력을 보여주고 있습니다. 최근 경기 흐름을 보면 승리와 무득점 억제가 함께 살아나고 있어, 전방에서는 보다 적극적인 마무리가 기대되는 상황입니다. 반면 실점이 늘어나는 경기에서는 수비 간격이 벌어지는 장면이 반복되어, 강한 압박을 받는 구간에서 흔들릴 여지가 있습니다. 원정에서는 템포를 조절하면서도 결정적인 찬스를 놓치지 않는 장면이 특히 중요해 보입니다. 전체적으로는 공격 밸런스가 홈팀보다 조금 더 나아 보이지만, 원정 수비의 안정감이 승부의 변수가 될 것입니다."
+homePower: "홈에서 먼저 주도권을 잡는 운영이 강점임|실점 이후 반격은 가능하지만 수비 집중력 기복이 보임|득점은 꾸준하나 마무리 효율이 승부 변수임|후반으로 갈수록 경기 흐름이 흔들릴 수 있음|세트피스와 압박 전환이 핵심 무기임"
+awayPower: "전방 효율이 좋아 득점 기대치가 높음|최근 승리 흐름이 공격 자신감으로 이어짐|원정에서도 찬스 창출 자체는 안정적임|수비 간격이 벌어질 때 실점 위험이 커짐|중원 압박을 버티면 경기 주도권 확보 가능함"
+h2h: '[]'
+summary: "Hegelmann Litauen은 이번 UEFA 컨퍼런스리그에서 2승 4무 5패로, Paide의 5승 3무 5패보다 시즌 전력의 완성도에서 다소 밀리는 흐름입니다. 득점 평균도 Hegelmann Litauen이 1.2, Paide가 1.3으로 큰 차이는 아니지만, 최근 전개를 보면 Paide 쪽이 조금 더 안정적으로 득점 기대치를 유지하고 있습니다. 다만 두 팀 모두 수비가 완전히 단단한 편은 아니어서, 초반 주도권과 선제골이 나오는 쪽이 경기를 가져갈 가능성이 높아 보입니다. 전체적으로는 Paide가 조금 더 우세한 전력으로 보이며, Hegelmann Litauen은 홈에서 버티며 후반 승부로 끌고 가는 그림이 중요해 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "Paide"
+pickWinResult: "승"
+pickHandicapTeam: "Paide"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
