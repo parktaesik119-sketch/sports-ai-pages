@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. Keller (6-6, 5.02) ERA 5.02|https://a.espncdn.com/i/headshots/mlb/players/full/33722.png\"]"
+awayLineup: "[\"선발투수 B. Elder (5-6, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\"]"
 ---

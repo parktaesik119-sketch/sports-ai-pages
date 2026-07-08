@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 T. Rogers (6-7, 4.70) ERA 4.70|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
+awayLineup: "[\"선발투수 D. Peterson (4-7, 6.75) ERA 6.75|https://a.espncdn.com/i/headshots/mlb/players/full/40921.png\"]"
 ---
