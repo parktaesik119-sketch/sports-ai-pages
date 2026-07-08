@@ -48,8 +48,9 @@ async function main() {
     return;
   }
 
-  // 종목별로 그룹핑
-  const grouped = {}; // { soccer: ["26.07.03 G팀 vs F팀", ...], ... }
+  // 날짜 > 종목 > 리그 3단 그룹핑
+  // grouped['26.07.08']['야구']['MLB'] = ['<a...>팀A vs 팀B</a>', ...]
+  const grouped = {};
 
   for (const filePath of files) {
     const content = fs.readFileSync(filePath, 'utf-8');
@@ -57,32 +58,53 @@ async function main() {
     const awayTeam = parseFrontmatterField(content, 'awayTeam');
     const date = parseFrontmatterField(content, 'date');
     const category = parseFrontmatterField(content, 'category') || 'etc';
+    const league = parseFrontmatterField(content, 'league') || ''; // 없으면 리그 소제목 생략
     const slug = parseFrontmatterField(content, 'slug');
     if (!homeTeam || !awayTeam) continue;
 
-    const label = SPORT_LABEL_KO[category] || category;
-    if (!grouped[label]) grouped[label] = [];
+    const dateLabel = toShortDate(date);
+    const sportLabel = SPORT_LABEL_KO[category] || category;
 
-    const lineText = `${toShortDate(date)} ${escapeHtml(homeTeam)} vs ${escapeHtml(awayTeam)}`;
+    if (!grouped[dateLabel]) grouped[dateLabel] = {};
+    if (!grouped[dateLabel][sportLabel]) grouped[dateLabel][sportLabel] = {};
+    if (!grouped[dateLabel][sportLabel][league]) grouped[dateLabel][sportLabel][league] = [];
+
+    // 날짜는 이미 상위 헤더로 빠졌으니 경기 줄에서는 제거
+    const lineText = `${escapeHtml(homeTeam)} vs ${escapeHtml(awayTeam)}`;
     const url = buildPostUrl(slug);
-    grouped[label].push(url ? `<a href="${url}">${lineText}</a>` : lineText);
+    grouped[dateLabel][sportLabel][league].push(url ? `<a href="${url}">${lineText}</a>` : lineText);
   }
 
-  const sections = Object.keys(grouped);
-  if (sections.length === 0) {
+  const dateLabels = Object.keys(grouped).sort(); // "YY.MM.DD" 문자열 정렬 = 날짜순 정렬
+  if (dateLabels.length === 0) {
     console.log('ℹ️ 팀 정보를 읽지 못해 알림을 보내지 않습니다.');
     return;
   }
 
-  const body = sections
-    .map(label => [label, ...grouped[label]].join('\n'))
-    .join('\n\n');
+  const dateBlocks = dateLabels.map(dateLabel => {
+    const sports = grouped[dateLabel];
+    const sportBlocks = Object.keys(sports).map(sportLabel => {
+      const leagues = sports[sportLabel];
+      const leagueBlocks = Object.keys(leagues).map(league => {
+        const matches = leagues[league];
+        // league 필드가 없던 글은 리그 소제목 없이 경기 목록만
+        return league ? [`<b>${league}</b>`, ...matches].join('\n') : matches.join('\n');
+      });
+      return [`<b>${sportLabel}</b>`, leagueBlocks.join('\n\n')].join('\n');
+    });
+    return [`<b>${dateLabel}</b>`, '', sportBlocks.join('\n\n')].join('\n');
+  });
+
+  const body = dateBlocks.join('\n\n\n');
+  const total = dateLabels.reduce((sum, d) =>
+    sum + Object.values(grouped[d]).reduce((s2, leagues) =>
+      s2 + Object.values(leagues).reduce((s3, matches) => s3 + matches.length, 0), 0), 0);
+  const sportSetCount = new Set(dateLabels.flatMap(d => Object.keys(grouped[d]))).size;
 
   const message = ['<b>신규 분석글 업데이트</b>', '', body].join('\n');
 
   await sendTelegramMessage(message);
-  const total = sections.reduce((sum, k) => sum + grouped[k].length, 0);
-  console.log(`✅ 신규 분석글 알림 발송 완료 (${total}건, ${sections.length}개 종목)`);
+  console.log(`✅ 신규 분석글 알림 발송 완료 (${total}건, ${dateLabels.length}개 날짜, ${sportSetCount}개 종목)`);
 }
 
 main();

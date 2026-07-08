@@ -23,6 +23,12 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      # notify-lineup-telegram.js가 "이번 실행에서 뭐가 바뀌었는지" 비교할 기준점.
+      # 반드시 아래 라인업 스크립트들(UEFA/ESPN/KBO/NPB/KBL)이 실행되기 "전"에 캡처해야 함.
+      - name: Capture starting commit hash
+        id: before
+        run: echo "hash=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
       - name: Run UEFA lineup update script
         run: node scripts/uefa-lineup-update.js
 
@@ -52,6 +58,14 @@ jobs:
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # 이번 실행에서 라인업이 채워진 글들을 모아 텔레그램으로 알림 (커밋 성공했을 때만)
+      - name: Notify lineup updates via Telegram
+        if: steps.push.outputs.changed == 'true'
+        run: node scripts/notify-lineup-telegram.js "${{ steps.before.outputs.hash }}"
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
       # 사이트 빌드 (변경사항 있을 때만) - Cloudflare 자동빌드 대신 여기서 직접 빌드
       - name: 사이트 빌드
