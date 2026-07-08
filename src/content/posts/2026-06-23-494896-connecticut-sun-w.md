@@ -1,0 +1,29 @@
+---
+title: "코네티컷 선 vs 시카고 스카이 경기분석 및 승부예측 (6월 23일) | WNBA - 픽천국"
+date: 2026-06-22T23:00:00+00:00
+description: "코네티컷 선 vs 시카고 스카이 6월 23일 WNBA 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요."
+slug: "analyze-494896-2026-06-23-connecticut-sun-w"
+category: "basketball"
+country: "미국"
+league: "WNBA"
+homeTeam: "코네티컷 선"
+awayTeam: "시카고 스카이"
+homeLogo: "https://media.api-sports.io/basketball/teams/164.png"
+awayLogo: "https://media.api-sports.io/basketball/teams/163.png"
+homeAnalysis: "코네티컷 선는 최근 5경기에서 0승 5패를 기록 중이며 평균 87.0득점으로 공격력이 현저히 부진합니다. 동부컨퍼런스 7위를 차지하고 있으며 시즌 성적이 극도로 부실합니다. 홈 경기에서의 경기력도 뚜렷한 개선이 없어 전력 회복이 절실한 상태입니다. 최근 대면 경기에서 시카고 스카이에 85-80으로 패배한 이력이 있어 심리적 우위가 부족합니다. 기본기와 집중력 모두에서 개선이 필요한 상황입니다."
+awayAnalysis: "시카고 스카이는 최근 5경기에서 0승 5패를 기록 중이며 평균 87.2득점을 올리고 있습니다. 동부컨퍼런스 6위로 코네티컷 선와 비슷한 수준의 부진 중입니다. 원정에서의 성적도 마찬가지로 악화되어 있으며 전체적인 팀 컨디션이 좋지 않습니다. 최근 경기에서 댈러스 윙스에 92-93으로 패배하며 연패 기록이 계속되고 있습니다. 양 팀 모두 극저조 상태여서 경기 예측이 어려운 상황입니다."
+homePower: "최근 평균 87.0득점 공격|홈 경기 출전 중심 구성|동부 7위 순위 저위|최근 연패 5연속|수비 실점 높은 문제"
+awayPower: "최근 평균 87.2득점으로 소폭 우위|원정 경기 3연패 진행 중|동부 6위 순위 유지|공격 효율성 분산|전력 회복 필요 상황"
+h2h: '[{"date":"2026.06.05","home":"시카고 스카이","score":"85-80","away":"코네티컷 선","link":"https://pick79.com/posts/detail/analyze-494847-2026-06-05-chicago-sky-w/"}]'
+summary: "양 팀이 극도로 부진한 상황에서 맞붙는 경기로, 코네티컷 선의 평균 87.0득점과 시카고 스카이의 평균 87.2득점으로 거의 동등한 전력을 보유하고 있습니다. 상대전적에서 시카고 스카이가 최근 우위를 확인했으나, 홈팀으로서 코네티컷 선가 약간의 심리적 이점을 가질 수 있습니다. 전반적인 경기력 저하로 인해 낮은 스코어의 접전이 예상되므로 신중한 접근이 필요합니다."
+homeRecent: '[{"date":"26/06/19","home":"코네티컷 선","away":"토론토 템포","score":"97-101","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494887-2026-06-19-connecticut-sun-w/"},{"date":"26/06/17","home":"코네티컷 선","away":"워싱턴 미스틱스","score":"81-88","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494880-2026-06-17-connecticut-sun-w/"},{"date":"26/06/13","home":"코네티컷 선","away":"인디애나 피버","score":"75-85","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494870-2026-06-13-connecticut-sun-w/"},{"date":"26/06/10","home":"토론토 템포","away":"코네티컷 선","score":"106-102","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494862-2026-06-10-toronto-tempo-w/"},{"date":"26/06/08","home":"코네티컷 선","away":"뉴욕 리버티","score":"80-89","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494856-2026-06-08-connecticut-sun-w/"}]'
+awayRecent: '[{"date":"26/06/21","home":"댈러스 윙스","away":"시카고 스카이","score":"93-92","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494892-2026-06-21-dallas-wings-w/"},{"date":"26/06/18","home":"시카고 스카이","away":"뉴욕 리버티","score":"95-96","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494881-2026-06-18-chicago-sky-w/"},{"date":"26/06/11","home":"인디애나 피버","away":"시카고 스카이","score":"114-106","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494864-2026-06-11-indiana-fever-w/"},{"date":"26/06/09","home":"시카고 스카이","away":"애틀랜타 드림","score":"75-82","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494859-2026-06-09-chicago-sky-w/"},{"date":"26/06/07","home":"토론토 템포","away":"시카고 스카이","score":"85-68","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494854-2026-06-07-toronto-tempo-w/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "코네티컷 선"
+pickWinResult: "승"
+pickHandicapTeam: "코네티컷 선"
+pickHandicapValue: "-2.5"
+pickOuDirection: "언더"
+pickOuValue: "174.5"
+---

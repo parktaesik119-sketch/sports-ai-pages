@@ -1,0 +1,35 @@
+---
+title: "Vikingur Reykjavik vs Gyori ETO FC 경기분석·라인업·결장자·통계·승부예측 (7월 8일) | UEFA 챔피언스리그 - 픽천국"
+date: 2026-07-07T19:00:00+00:00
+description: "Vikingur Reykjavik vs Gyori ETO FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1554374-2026-07-08-vikingur-reykjavik"
+category: "soccer"
+country: "유럽"
+league: "UEFA 챔피언스리그"
+homeTeam: "Vikingur Reykjavik"
+awayTeam: "Gyori ETO FC"
+homeLogo: "https://media.api-sports.io/football/teams/278.png"
+awayLogo: "https://media.api-sports.io/football/teams/2402.png"
+homeAnalysis: "Vikingur Reykjavik은 2026시즌 최근 14경기에서 13승 1패를 기록하며 매우 높은 승률을 유지하고 있고, 평균 득점 3.4로 공격 전개가 상당히 날카롭습니다. 최근 흐름도 10경기 기준 9승 1패로 이어지고 있어, 한 번 경기를 주도하면 끝까지 밀어붙이는 전력이 돋보입니다. 직전 경기에서도 3득점을 기록했고, 그 이전에는 원정에서도 4득점과 5득점을 연달아 만들어 내며 화력이 흔들리지 않고 있습니다. 홈에서는 KR Reykjavik을 2대0으로 제압했고, FH hafnarfjordur를 5대0으로 완파하는 등 안방 운영 능력도 매우 안정적입니다. 수비 쪽에서도 대량 실점을 자주 허용하지 않으면서 경기 초반부터 리드를 잡고 경기를 정리하는 흐름이 자주 보입니다."
+awayAnalysis: "Gyori ETO FC는 2026시즌 최근 3경기에서 1승 2무를 기록하며 패배 없이 버티고 있고, 평균 득점 1.3으로 효율적인 득점 운영을 이어가고 있습니다. 최근 흐름은 아주 무너지지는 않지만, 경기당 득점 폭이 크지 않아 공격에서 한 번 더 날카로움이 필요해 보입니다. 원정에서도 Kisvarda FC를 상대로 1득점 승리를 만들었고, Debreceni VSC와 그라처 AK를 상대로도 실점을 최소화하며 흐름을 지켜냈습니다. 다만 상대가 강하게 압박할 때는 득점 기대치가 낮아지는 경향이 보여, 주도권을 오래 가져가기는 쉽지 않아 보입니다. 수비는 어느 정도 버티고 있지만, 상위 전력과 맞붙을 때는 공격 전환의 완성도가 승부를 가를 가능성이 큽니다."
+homePower: "최근 고득점 흐름이 흔들리지 않는 공격 응집력임|안방에서도 실점 억제와 득점 폭발이 함께 확인됨|초반 선제 이후 경기 관리 능력이 매우 안정적임|상대 압박을 받아도 다득점으로 되받아치는 힘이 있음|대량 득점 경기가 반복되며 우세 구간 장악력이 검증됨"
+awayPower: "실점 억제는 되지만 득점 폭은 크지 않은 전력임|원정에서도 경기 흐름을 쉽게 내주지 않는 안정감 있음|한 골 차 승부로 버티는 경기 운영이 강점임|강한 상대 앞에서는 마무리 효율이 변수로 남음|무패 흐름 유지 중이나 공격 파괴력은 제한적임"
+h2h: '[]'
+summary: "Vikingur Reykjavik은 2026시즌 전체 흐름에서 득점과 승률 모두 매우 강한 모습을 보이고 있어, 이번 경기에서도 주도권을 잡을 가능성이 높아 보입니다. Gyori ETO FC는 무패 흐름으로 버티는 힘은 있지만, 득점 폭이 크지 않아 상대의 높은 공격력과 비교하면 한 단계 가벼운 전력으로 평가됩니다. 예상 스코어처럼 Vikingur Reykjavik이 3대2로 이길 가능성이 가장 자연스럽고, 경기 내내 득점 교환이 이어지더라도 홈팀의 화력이 조금 더 앞설 것으로 보입니다."
+homeRecent: '[{"date":"26.07.03","home":"Vikingur Reykjavik","away":"KA Akureyri","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1508796-2026-07-03-vikingur-reykjavik/"},{"date":"26.06.28","home":"Breidablik","away":"Vikingur Reykjavik","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1553725-2026-06-28-breidablik/"},{"date":"26.06.26","home":"Breidablik","away":"Vikingur Reykjavik","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1508794-2026-06-26-breidablik/"},{"date":"26.06.22","home":"Fram Reykjavik","away":"Vikingur Reykjavik","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1508788-2026-06-22-fram-reykjavik/"},{"date":"26.06.17","home":"Vikingur Reykjavik","away":"KR Reykjavik","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1508783-2026-06-17-vikingur-reykjavik/"}]'
+awayRecent: '[{"date":"26.06.20","home":"그라처 AK","away":"Gyori ETO FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554473-2026-06-20-grazer-ak/"},{"date":"26.05.17","home":"Kisvarda FC","away":"Gyori ETO FC","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1380369-2026-05-17-kisvarda-fc/"},{"date":"26.04.27","home":"Debreceni VSC","away":"Gyori ETO FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1380354-2026-04-27-debreceni-vsc/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "Vikingur Reykjavik"
+pickWinResult: "승"
+pickHandicapTeam: "Vikingur Reykjavik"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeLineup: "[\"Ö. Kristinsson (G)|https://a.espncdn.com/i/headshots/soccer/players/full/173675.png\",\"O. Ekroth (CD-L)|https://a.espncdn.com/i/headshots/soccer/players/full/312860.png\",\"G. Vatnhamar (CD-R)|https://a.espncdn.com/i/headshots/soccer/players/full/221301.png\",\"H. Gudjonsson (LB)|https://a.espncdn.com/i/headshots/soccer/players/full/305400.png\",\"K. Gunnarsson (RB)|https://a.espncdn.com/i/headshots/soccer/players/full/326636.png\",\"G. Sigurdsson (CM)|https://a.espncdn.com/i/headshots/soccer/players/full/121910.png\",\"D. Hafsteinsson (LM)|https://a.espncdn.com/i/headshots/soccer/players/full/290222.png\",\"V. Ingimundarson (RM)|https://a.espncdn.com/i/headshots/soccer/players/full/307724.png\",\"E. Ómarsson (F)|https://a.espncdn.com/i/headshots/soccer/players/full/238116.png\",\"Ó. Borgthórsson (LF)|https://a.espncdn.com/i/headshots/soccer/players/full/370773.png\",\"A. Thrandarson (RF)|https://a.espncdn.com/i/headshots/soccer/players/full/220122.png\"]"
+awayLineup: "[\"S. Petrás (G)|https://a.espncdn.com/i/headshots/soccer/players/full/304970.png\",\"M. Krpic (CD-L)|https://a.espncdn.com/i/headshots/soccer/players/full/366140.png\",\"M. Csinger (CD-R)|https://a.espncdn.com/i/headshots/soccer/players/full/341423.png\",\"D. Štefulj (LB)|https://a.espncdn.com/i/headshots/soccer/players/full/308094.png\",\"S. Vladoiu (RB)|https://a.espncdn.com/i/headshots/soccer/players/full/239909.png\",\"Z. Gavric (AM)|https://a.espncdn.com/i/headshots/soccer/players/full/303724.png\",\"R. Tóth (LM)|https://a.espncdn.com/i/headshots/soccer/players/full/396075.png\",\"M. Vitális (RM)|https://a.espncdn.com/i/headshots/soccer/players/full/364626.png\",\"N. Njie (F)|https://a.espncdn.com/i/headshots/soccer/players/full/376178.png\",\"C. Bumba (AM-L)|https://a.espncdn.com/i/headshots/soccer/players/full/215630.png\",\"K. Bánáti (AM-R)|https://a.espncdn.com/i/headshots/soccer/players/full/402202.png\"]"
+---

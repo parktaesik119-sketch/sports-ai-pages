@@ -1,0 +1,29 @@
+---
+title: "골든스테이트 발키리스 vs 애틀랜타 드림 경기분석 및 승부예측 (6월 25일) | WNBA - 픽천국"
+date: 2026-06-25T02:00:00+00:00
+description: "골든스테이트 발키리스 vs 애틀랜타 드림 6월 25일 WNBA 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-494904-2026-06-25-golden-state-valkyries-w"
+category: "basketball"
+country: "미국"
+league: "WNBA"
+homeTeam: "골든스테이트 발키리스"
+awayTeam: "애틀랜타 드림"
+homeLogo: "https://media.api-sports.io/basketball/teams/7326.png"
+awayLogo: "https://media.api-sports.io/basketball/teams/162.png"
+homeAnalysis: "골든스테이트 발키리스는 2026시즌 최근 16경기 11승 5패, 평균 득점 81.2점으로 전체적으로 안정적인 전력을 보여주고 있습니다. 최근에는 득점이 78.6점으로 다소 줄었지만, 강한 수비와 홈에서의 7승 3패 성적을 바탕으로 경기 운영의 완성도는 여전히 높아 보입니다. 특히 79.4점의 평균 실점이 말해주듯 수비 밸런스가 좋고, 상대의 득점을 낮추는 흐름이 강점으로 평가됩니다. 다만 직전 두 경기에서 연패를 당한 만큼 공격의 효율이 한 번 더 살아나야 하는 구간입니다. 그럼에도 홈에서는 경기 흐름을 자기 쪽으로 끌어오는 힘이 뚜렷해, 초반 템포를 잘 잡으면 충분히 경쟁력 있는 모습이 기대됩니다."
+awayAnalysis: "애틀랜타 드림는 2026시즌 최근 17경기 12승 5패, 평균 득점 87.2점으로 공격 전개가 매우 인상적인 전력을 보여주고 있습니다. 최근 5경기에서도 101.4점까지 끌어올리며 화력이 크게 올라와 있고, 원정에서도 6승 2패로 흔들림이 적습니다. 팀 평균 실점은 83.3점이지만, 최근에는 득점 폭발이 이를 충분히 상쇄하고 있어 전체적인 경기 지배력이 돋보입니다. 특히 빠른 공격 전개와 높은 득점 효율이 강점이며, 핵심 득점 자원이 꾸준히 힘을 보태고 있습니다. 다만 수비가 완전히 잠기는 흐름은 아니어서, 상대가 템포를 낮추면 경기 양상이 다소 팽팽해질 수 있습니다."
+homePower: "최근16경기11승5패|평균81.2득점|홈7승3패 강세|실점79.4점 탄탄|최근2연패로 주춤"
+awayPower: "최근17경기12승5패|평균87.2득점|최근5경기101.4점|원정6승2패 강세|실점83.3점 관리"
+h2h: "※ H2H 업데이트 예정"
+summary: "애틀랜타 드림는 시즌 평균 득점과 최근 폭발적인 공격 흐름에서 한 발 앞서 있는 전력으로 보입니다. 골든스테이트 발키리스는 홈에서의 안정감과 낮은 실점이 강점이지만, 최근 득점 흐름이 다소 꺾인 점은 부담이 될 수 있습니다. 전체 흐름을 보면 원정팀이 공격 우위를 바탕으로 경기 주도권을 잡을 가능성이 조금 더 높아 보입니다."
+homeRecent: '[{"date":"26/06/21","home":"라스베이거스 에이시스","away":"골든스테이트 발키리스","score":"92-73","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494893-2026-06-21-las-vegas-aces-w/"},{"date":"26/06/20","home":"골든스테이트 발키리스","away":"미네소타 링크스","score":"75-81","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494889-2026-06-20-golden-state-valkyries-w/"},{"date":"26/06/18","home":"골든스테이트 발키리스","away":"댈러스 윙스","score":"91-80","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-494885-2026-06-18-golden-state-valkyries-w/"},{"date":"26/06/16","home":"골든스테이트 발키리스","away":"LA 스파크스","score":"78-58","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-494878-2026-06-16-golden-state-valkyries-w/"},{"date":"26/06/13","home":"시애틀 스톰","away":"골든스테이트 발키리스","score":"72-76","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-494869-2026-06-13-seattle-storm-w/"}]'
+awayRecent: '[{"date":"26/06/22","home":"애틀랜타 드림","away":"토론토 템포","score":"94-87","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-494897-2026-06-22-atlanta-dream-w/"},{"date":"26/06/20","home":"애틀랜타 드림","away":"인디애나 피버","score":"113-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-494890-2026-06-20-atlanta-dream-w/"},{"date":"26/06/18","home":"인디애나 피버","away":"애틀랜타 드림","score":"101-108","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-494886-2026-06-18-indiana-fever-w/"},{"date":"26/06/14","home":"토론토 템포","away":"애틀랜타 드림","score":"77-102","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-494875-2026-06-14-toronto-tempo-w/"},{"date":"26/06/11","home":"애틀랜타 드림","away":"뉴욕 리버티","score":"90-104","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-494865-2026-06-11-atlanta-dream-w/"}]'
+injuryHome: "Iliana Rupert (출전 불가, 비부상 관련)"
+injuryAway: "Aaliyah Nye (무릎)|Brionna Jones (무릎)"
+pickWinTeam: "애틀랜타 드림"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 드림"
+pickHandicapValue: "-3.5"
+pickOuDirection: "오버"
+pickOuValue: "177.5"
+---

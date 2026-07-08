@@ -1,0 +1,31 @@
+---
+title: "클리블랜드 가디언스 vs 시애틀 매리너스 경기분석·라인업·결장자·통계·승부예측 (6월 29일) | MLB - 픽천국"
+date: 2026-06-28T17:40:00+00:00
+description: "클리블랜드 가디언스 vs 시애틀 매리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179270-2026-06-29-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://media.api-sports.io/baseball/teams/9.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/32.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 최근 49경기에서 23승 2무 24패, 평균 득점 3.7로 시즌 전력의 균형이 비교적 잘 잡혀 있습니다. 최근에는 기복이 조금 보이지만 직전 시애틀 매리너스전에서 4대3 승리를 거두며 중요한 경기에서 집중력이 살아나는 흐름을 보여주셨습니다. 득점 생산은 폭발적이진 않지만 필요한 순간 득점해 주는 응집력이 돋보이고, 실점 관리도 크게 무너지지 않아 접전에서 강점을 보입니다. 홈 경기에서는 안정적인 운영이 가능해 보이며, 최근 흐름상 마운드와 수비의 버팀목이 경기 결과를 좌우할 가능성이 큽니다. 특히 시애틀 매리너스를 상대로는 최근 맞대결 승리가 있어 상성 면에서도 자신감을 이어갈 수 있는 상황입니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 최근 42경기에서 21승 1무 20패, 평균 득점 3.8로 전체 성적은 나쁘지 않지만 최근 경기력은 흔들림이 있습니다. 직전 경기들에서 득점이 크게 줄어드는 모습이 나타났고, 원정에서는 실점이 늘어날 때 흐름이 급격히 무너지는 장면이 있었습니다. 타선의 폭발력보다는 특정 경기에서만 점수가 나는 편이라 꾸준한 득점 연결이 중요해 보입니다. 수비와 투수진이 버텨 주면 충분히 경쟁할 수 있지만, 최근 원정 흐름을 보면 안정감은 홈팀보다 떨어져 보입니다. 특히 클리블랜드 가디언스와의 최근 맞대결에서 아쉬운 패배를 기록해 분위기 반전이 필요한 상태입니다."
+homePower: "최근 49경기 23승24패|평균 득점 3.7 유지|최근 10경기 5승5패|직전 시애틀전 4대3 승리|접전 운영 강점"
+awayPower: "최근 42경기 21승20패|평균 득점 3.8 기록|최근 10경기 4승6패|원정서 대량실점 노출|최근 클리블랜드전 3대4 패"
+h2h: '[{"date":"2026.06.28","home":"클리블랜드 가디언스","score":"4-3","away":"시애틀 매리너스","link":"https://pick79.com/posts/detail/analyze-179254-2026-06-28-cleveland-guardians/"}]'
+summary: "클리블랜드 가디언스는 시즌 전체 전력에서 경기 운영의 안정감이 더 돋보이고, 시애틀 매리너스는 득점력은 비슷하지만 최근 원정 흐름이 다소 흔들리고 있습니다. 양 팀 모두 시즌 평균 득점이 비슷한 편이지만, 클리블랜드 가디언스는 접전에서 실점을 최소화하며 결과를 가져오는 장면이 더 안정적으로 보입니다. 직전 맞대결 4대3 결과까지 감안하면 이번 경기 역시 클리블랜드 가디언스가 한두 점 차로 우위를 이어갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26/06/28","home":"클리블랜드 가디언스","away":"시애틀 매리너스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179254-2026-06-28-cleveland-guardians/"},{"date":"26/06/25","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179219-2026-06-25-chicago-white-sox/"},{"date":"26/06/24","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179203-2026-06-24-chicago-white-sox/"},{"date":"26/06/23","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179189-2026-06-23-chicago-white-sox/"},{"date":"26/06/22","home":"휴스턴 애스트로스","away":"클리블랜드 가디언스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179170-2026-06-22-houston-astros/"}]'
+awayRecent: '[{"date":"26/06/28","home":"클리블랜드 가디언스","away":"시애틀 매리너스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179254-2026-06-28-cleveland-guardians/"},{"date":"26/06/26","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179225-2026-06-26-pittsburgh-pirates/"},{"date":"26/06/25","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179205-2026-06-25-pittsburgh-pirates/"},{"date":"26/06/24","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179190-2026-06-24-pittsburgh-pirates/"},{"date":"26/06/22","home":"시애틀 매리너스","away":"보스턴 레드삭스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179180-2026-06-22-seattle-mariners/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "4"
+pickExpectedAway: "2"
+homeLineup: "[\"선발투수 G. Williams (9-4, 3.82) ERA 3.82\",\"1번 S. Kwan (CF)\",\"2번 T. Bazzana (2B)\",\"3번 C. DeLauter (DH)\",\"4번 K. Manzardo (1B)\",\"5번 K. Watson (RF)\",\"6번 B. Rocchio (SS)\",\"7번 C. Ingle (LF)\",\"8번 G. Arias (3B)\",\"9번 A. Hedges (C)\"]"
+awayLineup: "[\"선발투수 E. Hancock (5-4, 3.60) ERA 3.60\",\"1번 J.P. Crawford (3B)\",\"2번 J. Rodriguez (CF)\",\"3번 J. Naylor (1B)\",\"4번 R. Arozarena (LF)\",\"5번 C. Raleigh (DH)\",\"6번 C. Young (2B)\",\"7번 C. Emerson (SS)\",\"8번 M. Garver (C)\",\"9번 V. Robles (RF)\"]"
+---

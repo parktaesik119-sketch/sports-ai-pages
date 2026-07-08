@@ -1,0 +1,31 @@
+---
+title: "토론토 블루제이즈 vs 텍사스 레인저스 경기분석·라인업·결장자·통계·승부예측 (6월 28일) | MLB - 픽천국"
+date: 2026-06-27T19:07:00+00:00
+description: "토론토 블루제이즈 vs 텍사스 레인저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179250-2026-06-28-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "텍사스 레인저스"
+homeLogo: "https://media.api-sports.io/baseball/teams/36.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/35.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 53경기에서 24승 2무 27패를 기록하며 승패 균형을 맞추기 위해 분투하고 있고, 최근 흐름에서도 기복은 있지만 타선이 한 번 살아날 때는 충분히 득점을 만들어내고 있습니다. 홈 경기에서는 공격 흐름이 비교적 안정적으로 이어지는 편이며, 특히 상위 타선이 출루와 장타를 함께 만들어낼 때 경기 주도권을 잡는 모습이 돋보입니다. 다만 실점 억제 면에서는 경기마다 편차가 있어, 한 번 흔들리면 연속 실점으로 이어지는 장면이 아쉽게 보입니다. 최근 텍사스 레인저스를 상대로는 접전 양상이 이어졌고, 마무리 구간 집중력이 승부를 가르는 모습이 분명하게 드러났습니다. 이런 점을 고려하면 토론토 블루제이즈는 홈에서 타선 응집력을 살릴 때 충분히 우세를 만들 수 있는 전력입니다."
+awayAnalysis: "텍사스 레인저스는 2026시즌 45경기에서 20승 1무 24패를 기록하며 전체적으로는 팽팽하지만, 최근에는 승패가 엇갈리며 흐름이 다소 흔들리고 있습니다. 원정에서는 공격이 폭발할 때와 침묵할 때의 차이가 커서, 초반에 점수를 내지 못하면 경기 운영이 어려워지는 모습이 보입니다. 수비에서는 대량 실점을 허용하는 경기가 섞여 있어 안정감이 완전히 자리 잡았다고 보기는 어렵습니다. 다만 최근 토론토 원정 맞대결에서 승리를 가져간 적이 있어, 상위 타선이 초반부터 살아나면 충분히 맞설 수 있는 전력입니다. 결국 텍사스 레인저스는 접전에서는 힘을 낼 수 있지만, 경기 후반 흔들림을 줄이는 것이 관건으로 보입니다."
+homePower: "2026시즌 24승2무27패|홈 경기 타선 응집력 강점|최근 10경기 5승1무4패|텍사스전 최근 1패 뒤 경기|상위 타선 출루가 핵심"
+awayPower: "2026시즌 20승1무24패|원정에서 기복 큰 타선|최근 10경기 3승1무6패|대량 실점 경기 다수|초반 득점 여부가 중요"
+h2h: '[{"date":"2026.06.27","home":"토론토 블루제이즈","score":"[object Object]-[object Object]","away":"텍사스 레인저스","link":"https://pick79.com/posts/detail/analyze-179230-2026-06-27-toronto-blue-jays/"},{"date":"2026.06.26","home":"토론토 블루제이즈","score":"5-6","away":"텍사스 레인저스","link":"https://pick79.com/posts/detail/analyze-179222-2026-06-26-toronto-blue-jays/"}]'
+summary: "토론토 블루제이즈는 2026시즌 전체 흐름에서 텍사스 레인저스보다 한층 더 안정적인 전력을 보여주고 있고, 특히 홈에서는 득점 생산이 살아날 때 경기 주도권을 잡는 힘이 있습니다. 텍사스 레인저스는 전체 전력 자체는 나쁘지 않지만 최근 원정 흐름이 들쭉날쭉해서, 실점 관리가 흔들리면 경기를 어렵게 풀 가능성이 있습니다. 두 팀 모두 공격은 나올 수 있지만 수비 집중력과 후반 운영에서 토론토 블루제이즈가 조금 더 믿을 만한 모습이며, 접전 양상에서도 홈팀이 우세를 가져갈 가능성이 높아 보입니다. 예상 흐름은 팽팽하더라도 마지막에는 토론토 블루제이즈 쪽으로 조금 더 기울어질 가능성이 있어 보입니다."
+homeRecent: '[{"date":"26/06/27","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"[object Object]-[object Object]","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179230-2026-06-27-toronto-blue-jays/"},{"date":"26/06/26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179222-2026-06-26-toronto-blue-jays/"},{"date":"26/06/25","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179207-2026-06-25-toronto-blue-jays/"},{"date":"26/06/24","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179192-2026-06-24-toronto-blue-jays/"},{"date":"26/06/23","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179177-2026-06-23-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26/06/27","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"[object Object]-[object Object]","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179230-2026-06-27-toronto-blue-jays/"},{"date":"26/06/26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179222-2026-06-26-toronto-blue-jays/"},{"date":"26/06/25","home":"마이애미 말린스","away":"텍사스 레인저스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179214-2026-06-25-miami-marlins/"},{"date":"26/06/24","home":"마이애미 말린스","away":"텍사스 레인저스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179199-2026-06-24-miami-marlins/"},{"date":"26/06/23","home":"마이애미 말린스","away":"텍사스 레인저스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179184-2026-06-23-miami-marlins/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "토론토 블루제이즈"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 블루제이즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "6"
+pickExpectedAway: "5"
+homeLineup: "[\"선발투수 D. Cease (4-3, 2.75) ERA 2.75\",\"1번 N. Lukes (RF)\",\"2번 V. Guerrero Jr. (DH)\",\"3번 D. Varsho (CF)\",\"4번 K. Okamoto (3B)\",\"5번 A. Kirk (C)\",\"6번 S. Keys (1B)\",\"7번 E. Clement (2B)\",\"8번 Y. Pinango (LF)\",\"9번 A. Gimenez (SS)\"]"
+awayLineup: "[\"선발투수 C. Quantrill (3-0, 3.73) ERA 3.73\",\"1번 J. Pederson (DH)\",\"2번 J. Jung (3B)\",\"3번 C. Seager (SS)\",\"4번 B. Nimmo (RF)\",\"5번 J. Burger (1B)\",\"6번 J. Kelenic (LF)\",\"7번 A. Osuna (CF)\",\"8번 E. Diaz (C)\",\"9번 N. Lopez (2B)\"]"
+---

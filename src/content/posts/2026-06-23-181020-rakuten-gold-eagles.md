@@ -1,0 +1,29 @@
+---
+title: "라쿠텐 골든이글스 vs 세이부 라이온즈 경기분석 및 승부예측 (6월 23일) | NPB - 픽천국"
+date: 2026-06-23T09:00:00+00:00
+description: "라쿠텐 골든이글스 vs 세이부 라이온즈 6월 23일 NPB 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-181020-2026-06-23-rakuten-gold-eagles"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "라쿠텐 골든이글스"
+awayTeam: "세이부 라이온즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/62.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/63.png"
+homeAnalysis: "라쿠텐 골든이글스는 최근 41경기 10승 31패로 시즌 승률이 낮고 순위도 하위권에 머물러 있습니다. 시즌 평균 득점이 2.8점에 그치고 있어 공격 전개가 무겁고, 득점권에서 흐름을 살리지 못하는 장면이 자주 보입니다. 홈에서는 버티는 경기보다 실점이 먼저 늘어나는 흐름이 두드러지며, 최근에도 연속 실점 경기가 이어지면서 수비 안정감이 흔들리고 있습니다. 다만 Rui Muneyama처럼 복귀가 기대되는 자원이 있어 전력이 완전히 정체된 모습만은 아니며, 중심 타선이 한 번 터지면 단기 반등 가능성은 있습니다. 그래도 최근 흐름만 놓고 보면 선발과 불펜 모두 부담이 크고, 저득점 접전으로 가더라도 끝까지 끌고 가는 힘은 부족해 보입니다."
+awayAnalysis: "세이부 라이온즈는 최근 43경기 31승 11패로 시즌 승률이 매우 높고 순위도 상위권을 유지하고 있습니다. 시즌 평균 득점이 4.1점으로 공격 밸런스가 좋고, 최근에도 꾸준히 점수를 내며 경기 주도권을 잡는 모습이 이어지고 있습니다. 원정에서도 실점 억제력이 나쁘지 않아 불펜 운영이 안정적이며, 접전 상황에서도 경기 후반 집중력이 돋보입니다. Tyler Nevin과 Alexander Canario 같은 타선 핵심이 버티고 있어 장타 한 방과 연결 타선 모두 기대할 수 있습니다. 최근 경기 흐름까지 감안하면 득점 생산과 마운드 안정감이 함께 살아 있어 전체적인 전력 우위가 분명해 보입니다."
+homePower: "시즌 10승31패로 부진|최근 5경기 0승5패|평균 득점 2.6점|홈 실점 급증 흐름|세이부전 0점도 발생"
+awayPower: "시즌 31승11패 강세|최근 5경기 4승1패|평균 득점 3.6점|원정에서도 4연승력|실점 1점대 경기 다수"
+h2h: '[{"date":"2026.06.22","home":"라쿠텐 골든이글스","score":"1-3","away":"세이부 라이온즈","link":"https://pick79.com/posts/detail/analyze-181018-2026-06-22-rakuten-gold-eagles/"},{"date":"2026.05.10","home":"세이부 라이온즈","score":"6-1","away":"라쿠텐 골든이글스","link":"https://pick79.com/posts/detail/analyze-180828-2026-05-10-seibu-lions/"},{"date":"2026.05.08","home":"세이부 라이온즈","score":"4-2","away":"라쿠텐 골든이글스","link":"https://pick79.com/posts/detail/analyze-180812-2026-05-08-seibu-lions/"},{"date":"2026.04.26","home":"라쿠텐 골든이글스","score":"0-3","away":"세이부 라이온즈","link":"https://pick79.com/posts/detail/analyze-180754-2026-04-26-rakuten-gold-eagles/"},{"date":"2026.04.25","home":"라쿠텐 골든이글스","score":"7-9","away":"세이부 라이온즈","link":"https://pick79.com/posts/detail/analyze-180751-2026-04-25-rakuten-gold-eagles/"}]'
+summary: "최근 전력 차이는 세이부 라이온즈 쪽으로 분명하게 기울어져 있습니다. 라쿠텐 골든이글스는 득점 생산이 매끄럽지 않고 실점 부담도 커서, 세밀한 운영보다 상대 흐름에 끌려가는 장면이 많아 보입니다. 반면 세이부 라이온즈는 공격과 마운드의 균형이 좋고, 최근 맞대결에서도 우위를 이어가며 경기 운영 면에서 안정감이 돋보입니다. 전체적으로는 세이부 라이온즈가 더 높은 득점 기대치와 더 낮은 실점 가능성을 함께 보여주고 있어, 승부 흐름도 원정팀 쪽으로 자연스럽게 기울어질 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26/06/22","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181018-2026-06-22-rakuten-gold-eagles/"},{"date":"26/06/21","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181014-2026-06-21-chiba-lotte-marines/"},{"date":"26/06/19","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181000-2026-06-19-chiba-lotte-marines/"},{"date":"26/06/17","home":"한신 타이거스","away":"라쿠텐 골든이글스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-180959-2026-06-17-hanshin-tigers/"},{"date":"26/06/14","home":"라쿠텐 골든이글스","away":"히로시마 도요 카프","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-180995-2026-06-14-rakuten-gold-eagles/"}]'
+awayRecent: '[{"date":"26/06/22","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181018-2026-06-22-rakuten-gold-eagles/"},{"date":"26/06/21","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181017-2026-06-21-orix-buffaloes/"},{"date":"26/06/20","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181010-2026-06-20-orix-buffaloes/"},{"date":"26/06/19","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181002-2026-06-19-orix-buffaloes/"},{"date":"26/06/16","home":"한신 타이거스","away":"세이부 라이온즈","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-180932-2026-06-16-hanshin-tigers/"}]'
+injuryHome: "Rui Muneyama (왼쪽 손목 삼각섬유연골 손상)"
+injuryAway: "Tyler Nevin (왼쪽 옆구리 부상)|Yuta Nakamura (상체 컨디션 이상)"
+pickWinTeam: "세이부 라이온즈"
+pickWinResult: "승"
+pickHandicapTeam: "세이부 라이온즈"
+pickHandicapValue: "-1.0"
+pickOuDirection: "언더"
+pickOuValue: "6.5"
+---

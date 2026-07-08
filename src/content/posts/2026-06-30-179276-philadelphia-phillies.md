@@ -1,0 +1,31 @@
+---
+title: "필라델피아 필리스 vs 피츠버그 파이러츠 경기분석·라인업·결장자·통계·승부예측 (6월 30일) | MLB - 픽천국"
+date: 2026-06-29T22:40:00+00:00
+description: "필라델피아 필리스 vs 피츠버그 파이러츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179276-2026-06-30-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "피츠버그 파이러츠"
+homeLogo: "https://media.api-sports.io/baseball/teams/27.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/28.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 최근 50경기 29승 2무 19패, 평균 득점 4.6으로 전체 전력이 안정적이며, 최근 10경기에서도 6승 4패, 평균 득점 6.9로 타선의 폭발력이 더욱 살아나고 있습니다. 홈에서는 장타와 집중력이 함께 살아나는 흐름이 뚜렷하고, 최근 워싱턴 원정과 뉴욕 메츠전에서 대량 득점을 기록하며 공격 응집력이 돋보입니다. 다만 뉴욕 메츠전 패배처럼 상대 강타선과 맞붙을 때 실점이 늘어날 수 있어, 마운드 운영의 안정감이 중요하게 보입니다. 그래도 최근 경기에서 보인 높은 득점 생산력은 분명한 강점이며, 홈에서 흐름을 이어갈 가능성이 높아 보입니다. 특히 피츠버그 파이러츠를 상대로는 최근 맞대결에서 매우 우세한 흐름을 이어가고 있어 자신감이 더해질 것으로 보입니다."
+awayAnalysis: "피츠버그 파이러츠는 2026시즌 최근 50경기 22승 1무 27패, 평균 득점 5.0으로 공격은 일정한 힘을 보이지만, 승패 균형에서 아쉬움이 남는 전력입니다. 최근 10경기에서는 5승 5패, 평균 득점 5.8로 타선이 한 경기씩 폭발하는 힘은 있으나, 이어지는 경기에서 기복이 나타나고 있습니다. 시애틀 매리너스전과 콜로라도 로키스전에서 공격이 잘 풀린 장면은 강점이지만, 동시에 실점이 크게 늘어난 경기들도 있어 수비 안정감은 보완이 필요합니다. 원정에서도 득점 자체는 나쁘지 않지만, 상대가 강한 타선을 갖춘 경기에서는 마운드가 흔들리는 모습이 보입니다. 필라델피아 필리스를 상대로 최근 맞대결에서 연이어 고전한 점까지 더해지며, 이번 경기에서도 부담이 큰 편으로 판단됩니다."
+homePower: "2026시즌 29승 2무 19패|최근 10경기 6승 4패|평균 득점 4.6|최근 10경기 평균 6.9득점|피츠버그전 3연승 우세"
+awayPower: "2026시즌 22승 1무 27패|최근 10경기 5승 5패|평균 득점 5.0|최근 10경기 평균 5.8득점|실점 기복으로 안정감 과제"
+h2h: '[{"date":"2026.05.18","home":"피츠버그 파이러츠","score":"0-6","away":"필라델피아 필리스","link":"https://pick79.com/posts/detail/analyze-178702-2026-05-18-pittsburgh-pirates/"},{"date":"2026.05.17","home":"피츠버그 파이러츠","score":"0-6","away":"필라델피아 필리스","link":"https://pick79.com/posts/detail/analyze-178687-2026-05-17-pittsburgh-pirates/"},{"date":"2026.05.16","home":"피츠버그 파이러츠","score":"9-11","away":"필라델피아 필리스","link":"https://pick79.com/posts/detail/analyze-178672-2026-05-16-pittsburgh-pirates/"}]'
+summary: "필라델피아 필리스는 2026시즌 29승 2무 19패의 안정적인 전력을 바탕으로 최근 득점 흐름도 한층 살아나 있어 전체적인 우위가 분명해 보입니다. 피츠버그 파이러츠는 22승 1무 27패로 공격력은 나쁘지 않지만, 실점이 함께 늘어나는 경기들이 많아 상위 전력과의 맞대결에서 부담이 커 보입니다. 상대전적에서도 필라델피아 필리스가 최근 세 경기 연속 앞서 있었던 만큼, 이번 경기는 홈팀이 타선의 우세와 맞대결 상성을 앞세워 주도할 가능성이 높게 보입니다."
+homeRecent: '[{"date":"26/06/28","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179246-2026-06-28-new-york-mets/"},{"date":"26/06/26","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179221-2026-06-26-washington-nationals/"},{"date":"26/06/25","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179206-2026-06-25-washington-nationals/"},{"date":"26/06/24","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"9-14","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179191-2026-06-24-washington-nationals/"},{"date":"26/06/23","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179176-2026-06-23-washington-nationals/"}]'
+awayRecent: '[{"date":"26/06/28","home":"피츠버그 파이러츠","away":"신시내티 레즈","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179249-2026-06-28-pittsburgh-pirates/"},{"date":"26/06/26","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179225-2026-06-26-pittsburgh-pirates/"},{"date":"26/06/25","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"11-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179205-2026-06-25-pittsburgh-pirates/"},{"date":"26/06/24","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179190-2026-06-24-pittsburgh-pirates/"},{"date":"26/06/22","home":"콜로라도 로키스","away":"피츠버그 파이러츠","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179172-2026-06-22-colorado-rockies/"}]'
+injuryHome: "Brad Keller (오른쪽 전완부 건염)"
+injuryAway: "Jared Jones (오른쪽 팔꿈치 인대 염좌)"
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "7"
+pickExpectedAway: "5"
+homeLineup: "[\"선발투수 A. Nola (3-4, 5.58) ERA 5.58\",\"1번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"2번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"3번 B. Harper (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 B. Marsh (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40803.png\",\"5번 A. Bohm (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"6번 B. Stott (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"7번 J.T. Realmuto (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32177.png\",\"8번 G. Rincones Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5131884.png\",\"9번 J. Crawford (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080642.png\"]"
+awayLineup: "[\"선발투수 B. Ashcraft (7-3, 3.07) ERA 3.07\"]"
+---

@@ -1,0 +1,33 @@
+---
+title: "세인트루이스 카디널스 vs 밀워키 브루어스 경기분석·라인업·결장자·통계·승부예측 (7월 9일) | MLB - 픽천국"
+date: 2026-07-08T23:45:00+00:00
+description: "세인트루이스 카디널스 vs 밀워키 브루어스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179394-2026-07-09-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://media.api-sports.io/baseball/teams/33.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/20.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 51경기 24승 1무 26패, 평균 득점 4.2로 시즌 전체 흐름은 승패가 크게 엇갈리지만, 최근 10경기에서 5승 5패와 평균 득점 5.0으로 타선이 한층 살아난 모습입니다. 직전 밀워키 브루어스전 2-0 승리처럼 경기 초반부터 투수진이 흐름을 잡으면 충분히 주도권을 가져올 수 있습니다. 다만 2026시즌 리그순위 6위, 득실 403-390으로 득실 차가 크지 않아, 경기마다 공격 폭발력과 실점 억제가 함께 맞아떨어져야 하는 팀으로 보입니다. 홈에서는 안정적인 운영이 비교적 잘 나오는 편이라, 접전 상황에서 수비와 불펜 집중력이 특히 중요합니다. 결장자 부담도 있는 만큼, 중심 타선이 적시에 응답해 주는 흐름이 이어지면 승부를 유리하게 끌고 갈 가능성이 있습니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 최근 56경기 34승 1무 21패, 평균 득점 4.6으로 시즌 전체 전력은 홈팀보다 더 단단하게 평가됩니다. 현재 리그순위 2위, 득실 449-322로 공격과 수비의 균형이 매우 좋고, 시즌 내내 안정적으로 상위권을 유지해 온 흐름이 분명합니다. 다만 최근 10경기에서는 6승 4패, 평균 득점 3.7로 타선의 폭발력은 다소 줄어든 모습이라 고점 대비 주춤한 구간이 보입니다. 직전 세인트루이스 카디널스전에서 0-2로 묶인 부분은 상성상 답답함이 드러난 장면으로 볼 수 있습니다. 결장자가 여러 명인 점까지 더해지면서, 원정에서는 선발과 불펜이 버텨 주더라도 득점 생산이 얼마나 매끄럽게 이어질지가 핵심입니다."
+homePower: "세인트루이스 카디널스 직전 맞대결에서 영봉승으로 흐름 반전 가능성 확인됨|최근 타선 기복은 있으나 폭발 경기에서 득점 확장성 뚜렷함|홈 운영에서 실점 억제 시 접전 승부에 강한 구조임|리그순위 6위지만 최근 반등 조짐으로 상위권 상대도 대응 가능함|결장자 부담 속에서도 경기 초반 선취점이 승부 열쇠로 보임"
+awayPower: "밀워키 브루어스 리그순위 2위가 말해 주는 전체 안정감이 큼|득실차가 크게 플러스라 공수 밸런스 완성도 높음|최근 원정 타격은 다소 잦아들어 마무리 효율 점검 필요함|세인트루이스 카디널스전 연승 흐름으로 상성 우위가 검증됨|결장자 누적이 길어지며 불펜 운용 폭은 다소 좁아짐"
+h2h: '[{"date":"26.07.07","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"2-0","link":"https://pick79.com/posts/detail/analyze-179370-2026-07-07-st-louis-cardinals/"},{"date":"26.05.28","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-178836-2026-05-28-milwaukee-brewers/"},{"date":"26.05.27","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"6-0","link":"https://pick79.com/posts/detail/analyze-178821-2026-05-27-milwaukee-brewers/"},{"date":"26.05.26","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"5-1","link":"https://pick79.com/posts/detail/analyze-178814-2026-05-26-milwaukee-brewers/"},{"date":"26.05.07","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-178554-2026-05-07-st-louis-cardinals/"}]'
+summary: "세인트루이스 카디널스는 시즌 전력만 놓고 보면 기복이 있지만 최근 타선 회복세가 살아나면서 홈에서 충분히 맞설 힘을 보여주고 있습니다. 밀워키 브루어스는 현재 리그순위와 득실 차에서 우위가 뚜렷해 전체 완성도는 더 높지만, 최근 득점 흐름이 다소 가라앉아 있어 압도적인 우세로 이어지지는 않아 보입니다. 상대전적에서 밀워키 브루어스가 앞서 있는 점은 부담이지만, 이번 경기는 세인트루이스 카디널스가 수비와 접전 운영으로 균형을 맞추며 3대 3 흐름에 가까운 팽팽한 승부를 만들 가능성이 있습니다."
+homeRecent: '[{"date":"26.07.07","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179370-2026-07-07-st-louis-cardinals/"},{"date":"26.07.06","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179364-2026-07-06-chicago-cubs/"},{"date":"26.07.04","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"1-17","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179334-2026-07-04-chicago-cubs/"},{"date":"26.07.03","home":"애틀랜타 브레이브스","away":"세인트루이스 카디널스","score":"5-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179321-2026-07-03-atlanta-braves/"},{"date":"26.07.02","home":"애틀랜타 브레이브스","away":"세인트루이스 카디널스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179313-2026-07-02-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.07.07","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179370-2026-07-07-st-louis-cardinals/"},{"date":"26.07.06","home":"애리조나 다이아몬드백스","away":"밀워키 브루어스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179367-2026-07-06-arizona-diamondbacks/"},{"date":"26.07.04","home":"애리조나 다이아몬드백스","away":"밀워키 브루어스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179337-2026-07-04-arizona-diamondbacks/"},{"date":"26.07.03","home":"밀워키 브루어스","away":"신시내티 레즈","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179316-2026-07-03-milwaukee-brewers/"},{"date":"26.07.01","home":"밀워키 브루어스","away":"신시내티 레즈","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179291-2026-07-01-milwaukee-brewers/"}]'
+injuryHome: "Max Rajcic (통증)|Ramon Urias (건염)"
+injuryAway: "Logan Henderson (부상)|Coleman Crow (부상)|Rob Zastryzny (부상)|Carlos Rodriguez (신경 압박)|Joel Kuhnel (부상)"
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. McGreevy (3-7, 3.12) ERA 3.12|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 K. Harrison (8-1, 2.82) ERA 2.82|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
+---

@@ -1,0 +1,31 @@
+---
+title: "볼티모어 오리올스 vs 워싱턴 내셔널스 경기분석·라인업·결장자·통계·승부예측 (6월 28일) | MLB - 픽천국"
+date: 2026-06-27T23:05:00+00:00
+description: "볼티모어 오리올스 vs 워싱턴 내셔널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179257-2026-06-28-baltimore-orioles"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "볼티모어 오리올스"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://media.api-sports.io/baseball/teams/4.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/37.png"
+homeAnalysis: "볼티모어 오리올스는 2026시즌 최근 49경기에서 21승 4무 24패로 버티고 있으며, 최근 10경기에서도 3승 1무 6패로 흐름이 다소 흔들리고 있습니다. 타선은 한 경기에서 폭발력을 보여주기도 하지만 기복이 큰 편이라 꾸준한 득점 연결이 중요한 상황입니다. 수비 쪽에서도 실점이 크게 늘어나는 경기와 잘 막아내는 경기가 섞여 있어 안정감이 아쉽습니다. 홈에서는 비교적 버티는 장면이 나오고 있지만, 최근 분위기만 보면 긴 이닝을 끌고 가는 힘이 부족해 보입니다. 그래도 핵심 타자들이 초반부터 출루와 장타를 연결해 주면 경기 흐름을 다시 가져올 가능성은 있습니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 최근 51경기에서 26승 3무 22패로 홈팀보다 시즌 전력 흐름이 조금 더 앞서 있습니다. 최근 10경기에서도 3승 1무 6패로 완전히 안정적이지는 않지만, 강한 상대를 상대로도 공격이 살아나는 장면이 있어 기대감을 줍니다. 득점력은 경기마다 편차가 있으나, 필요할 때 한 번에 점수를 쌓는 응집력이 돋보입니다. 반면 실점 관리에서는 흔들리는 구간이 있어 접전에서는 불펜 운영이 중요해 보입니다. 그래도 최근 맞대결에서 볼티모어 오리올스를 압박한 장면이 이어져 상성 면에서는 강점을 기대할 수 있습니다."
+homePower: "시즌 49경기 21승24패|최근 10경기 3승1무6패|홈에서 기복 큰 전력|실점 관리 불안정|타선 폭발력은 보유"
+awayPower: "시즌 51경기 26승22패|최근 10경기 3승1무6패|강팀 상대로 득점 가능|한 경기 집중 득점 강점|불펜 흔들림은 변수"
+h2h: '[{"date":"2026.06.27","home":"볼티모어 오리올스","score":"[object Object]-[object Object]","away":"워싱턴 내셔널스","link":"https://pick79.com/posts/detail/analyze-179243-2026-06-27-baltimore-orioles/"},{"date":"2026.05.18","home":"워싱턴 내셔널스","score":"3-7","away":"볼티모어 오리올스","link":"https://pick79.com/posts/detail/analyze-178698-2026-05-18-washington-nationals/"},{"date":"2026.05.17","home":"워싱턴 내셔널스","score":"13-3","away":"볼티모어 오리올스","link":"https://pick79.com/posts/detail/analyze-178683-2026-05-17-washington-nationals/"},{"date":"2026.05.16","home":"워싱턴 내셔널스","score":"3-2","away":"볼티모어 오리올스","link":"https://pick79.com/posts/detail/analyze-178667-2026-05-16-washington-nationals/"}]'
+summary: "워싱턴 내셔널스는 2026시즌 전체 흐름에서 26승 22패로 볼티모어 오리올스의 21승 24패보다 조금 더 앞선 전력을 보여주고 있습니다. 최근 맞대결에서도 워싱턴 내셔널스가 큰 점수 차 승리를 포함해 우위를 만들었던 장면이 있어, 이번 경기에서도 공격의 응집력이 중요한 강점으로 보입니다. 볼티모어 오리올스는 홈에서 반등 여지는 있지만 최근 실점 관리가 불안정해 접전 후반에 흐름을 지키는 데 어려움이 예상됩니다. 전체적으로는 워싱턴 내셔널스가 더 안정적인 득점 흐름을 바탕으로 볼티모어 오리올스를 앞설 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26/06/27","home":"볼티모어 오리올스","away":"워싱턴 내셔널스","score":"[object Object]-[object Object]","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179243-2026-06-27-baltimore-orioles/"},{"date":"26/06/25","home":"LA 에인절스","away":"볼티모어 오리올스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179215-2026-06-25-los-angeles-angels/"},{"date":"26/06/23","home":"LA 에인절스","away":"볼티모어 오리올스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179185-2026-06-23-los-angeles-angels/"},{"date":"26/06/22","home":"LA 다저스","away":"볼티모어 오리올스","score":"1-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179161-2026-06-22-los-angeles-dodgers/"},{"date":"26/06/20","home":"LA 다저스","away":"볼티모어 오리올스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179134-2026-06-20-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26/06/27","home":"볼티모어 오리올스","away":"워싱턴 내셔널스","score":"[object Object]-[object Object]","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179243-2026-06-27-baltimore-orioles/"},{"date":"26/06/26","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179221-2026-06-26-washington-nationals/"},{"date":"26/06/25","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179206-2026-06-25-washington-nationals/"},{"date":"26/06/24","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"9-14","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179191-2026-06-24-washington-nationals/"},{"date":"26/06/23","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179176-2026-06-23-washington-nationals/"}]'
+injuryHome: "Adley Rutschman (뇌진탕)|Jordan Westburg (시즌 아웃)"
+injuryAway: "Dylan Beavers (복사근 부상)"
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "5"
+pickExpectedAway: "6"
+homeLineup: "[\"선발투수 B. Young (6-2, 3.07) ERA 3.07\",\"1번 T. Ward (LF)\",\"2번 G. Henderson (SS)\",\"3번 P. Alonso (1B)\",\"4번 C. Mayo (DH)\",\"5번 T. O'Neill (RF)\",\"6번 B. Alexander (3B)\",\"7번 L. Taveras (CF)\",\"8번 J. Jackson (2B)\",\"9번 C. Tromp (C)\"]"
+awayLineup: "[\"선발투수 F. Griffin (8-2, 3.15) ERA 3.15\",\"1번 J. Wood (RF)\",\"2번 L. Garcia Jr. (1B)\",\"3번 J. Tena (DH)\",\"4번 C. Abrams (SS)\",\"5번 D. Crews (CF)\",\"6번 D. Lile (LF)\",\"7번 J. Vivas (3B)\",\"8번 N. Nunez (2B)\",\"9번 D. Millas (C)\"]"
+---

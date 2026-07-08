@@ -1,0 +1,29 @@
+---
+title: "주니치 드래곤스 vs 요코하마 DeNA 베이스타스 경기분석 및 승부예측 (6월 24일) | NPB - 픽천국"
+date: 2026-06-24T09:00:00+00:00
+description: "주니치 드래곤스 vs 요코하마 DeNA 베이스타스 6월 24일 NPB 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-181029-2026-06-24-chunichi-dragons"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "주니치 드래곤스"
+awayTeam: "요코하마 DeNA 베이스타스"
+homeLogo: "https://media.api-sports.io/baseball/teams/56.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/65.png"
+homeAnalysis: "주니치 드래곤스는 2026시즌 최근 42경기에서 19승 23패, 평균 3.7득점을 기록하고 있어 전력의 바탕은 나쁘지 않지만 득점 기복이 함께 보입니다. 최근에는 요미우리 자이언츠와 니혼햄 파이터즈를 상대로 승리를 챙기며 타선이 필요한 순간에 점수를 내는 장면이 돋보였습니다. 다만 강한 상대를 만나면 1점 차 접전이나 저득점 패배도 적지 않아, 공격 흐름이 안정적으로 이어지느냐가 중요합니다. 홈에서는 세이부 라이온즈, 후쿠오카 소프트뱅크 호크스, 야쿠르트 스왈로우스와의 경기에서 승패가 빠르게 갈리며, 경기 운영에 따라 결과 차이가 크게 나는 모습입니다. 이런 흐름을 보면 마운드와 수비가 버텨주는 날에는 충분히 경쟁력이 있고, 중심 타선이 초반부터 살아나면 홈 이점도 잘 살릴 수 있습니다."
+awayAnalysis: "요코하마 DeNA 베이스타스는 2026시즌 최근 42경기에서 13승 1무 28패, 평균 3.4득점으로 홈팀보다 시즌 전력이 다소 무겁게 나타납니다. 최근 5경기에서도 1승 4패로 흔들렸고, 한신 타이거스와의 경기에서 실점이 크게 늘어난 점이 특히 부담스럽습니다. 그래도 지바 롯데 마린스전에서는 16득점을 올리며 타선 폭발력을 보여준 바 있어, 타격이 한 번 살아나면 경기 양상이 크게 달라질 수 있습니다. 다만 그 흐름이 연속적으로 이어지지 못하고 있어, 안정적인 득점 루트 확보가 필요해 보입니다. 원정에서는 수비 불안이 결과로 이어지는 경우가 잦아, 초반 실점을 줄이는 것이 가장 중요한 관건입니다."
+homePower: "최근42경기19승23패|평균 3.7득점|최근5경기3승2패|Giants전 2승1패|BayStars전 1승2패"
+awayPower: "최근42경기13승28패|평균 3.4득점|최근5경기1승4패|최근 4패로 하락|한 경기 16득점 폭발"
+h2h: '[{"date":"2026.04.30","home":"주니치 드래곤스","score":"2-6","away":"요코하마 DeNA 베이스타스","link":"https://pick79.com/posts/detail/analyze-180771-2026-04-30-chunichi-dragons/"},{"date":"2026.04.29","home":"주니치 드래곤스","score":"2-4","away":"요코하마 DeNA 베이스타스","link":"https://pick79.com/posts/detail/analyze-180767-2026-04-29-chunichi-dragons/"},{"date":"2026.04.28","home":"주니치 드래곤스","score":"3-0","away":"요코하마 DeNA 베이스타스","link":"https://pick79.com/posts/detail/analyze-180760-2026-04-28-chunichi-dragons/"}]'
+summary: "주니치 드래곤스는 시즌 전체 전력과 최근 흐름에서 요코하마 DeNA 베이스타스보다 한 발 앞선 모습입니다. 평균 득점과 최근 5경기 흐름을 함께 보면 홈팀이 조금 더 안정적으로 점수를 만들고 있고, 상대전적에서도 최근 맞대결을 주고받으면서도 최소 한 번은 완승을 거둔 바 있어 상성 면에서도 부담이 덜합니다. 반면 요코하마 DeNA 베이스타스는 시즌 득점력은 나쁘지 않아도 실점이 커지는 장면이 잦아, 접전으로 가면 흔들릴 가능성이 더 커 보입니다."
+homeRecent: '[{"date":"26/06/21","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181013-2026-06-21-yomiuri-giants/"},{"date":"26/06/20","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181007-2026-06-20-yomiuri-giants/"},{"date":"26/06/19","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181005-2026-06-19-yomiuri-giants/"},{"date":"26/06/14","home":"니혼햄 파이터즈","away":"주니치 드래곤스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-180997-2026-06-14-nippon-ham-fighters/"},{"date":"26/06/13","home":"니혼햄 파이터즈","away":"주니치 드래곤스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-180991-2026-06-13-nippon-ham-fighters/"}]'
+awayRecent: '[{"date":"26/06/21","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181012-2026-06-21-yokohama-baystars/"},{"date":"26/06/19","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"3-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181004-2026-06-19-yokohama-baystars/"},{"date":"26/06/14","home":"지바 롯데 마린스","away":"요코하마 DeNA 베이스타스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-180999-2026-06-14-chiba-lotte-marines/"},{"date":"26/06/13","home":"지바 롯데 마린스","away":"요코하마 DeNA 베이스타스","score":"6-16","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-180992-2026-06-13-chiba-lotte-marines/"},{"date":"26/06/12","home":"지바 롯데 마린스","away":"요코하마 DeNA 베이스타스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-180982-2026-06-12-chiba-lotte-marines/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "주니치 드래곤스"
+pickWinResult: "승"
+pickHandicapTeam: "주니치 드래곤스"
+pickHandicapValue: "-0.5"
+pickOuDirection: "언더"
+pickOuValue: "3.5"
+---

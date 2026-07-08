@@ -1,0 +1,29 @@
+---
+title: "콜로라도 로키스 vs 보스턴 레드삭스 경기분석 및 승부예측 (6월 25일) | MLB - 픽천국"
+date: 2026-06-24T19:10:00+00:00
+description: "콜로라도 로키스 vs 보스턴 레드삭스 6월 25일 MLB 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179217-2026-06-25-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://media.api-sports.io/baseball/teams/10.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/5.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 최근 37경기 15승 1무 21패, 평균 득점 5.2로 공격 생산력은 꾸준한 편이지만 수비 쪽 기복이 함께 드러나고 있습니다. 최근 흐름에서도 득점이 살아나는 경기와 실점이 크게 늘어나는 경기가 번갈아 나오고 있어 전력의 안정감은 다소 아쉬운 모습입니다. 특히 홈에서는 득점이 잘 붙는 날에는 강한 타격 흐름을 보여주지만, 실점 억제가 흔들릴 때는 경기 운영이 급격히 어려워지고 있습니다. 타선에서는 중심 타선의 장타와 상위 타순의 출루가 살아날 때 경쟁력이 커지는 편입니다. 이번 경기에서도 홈에서의 득점감은 기대할 만하지만, 마운드가 상대 타선을 얼마나 묶어내느냐가 매우 중요해 보입니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 최근 47경기 19승 3무 25패, 평균 득점 3.8로 공격 효율이 다소 낮은 흐름입니다. 최근 흐름을 보면 짧게 반등하는 구간은 있었지만, 연속해서 득점이 묶이는 경기들이 이어지며 전력의 기복이 꽤 보이고 있습니다. 원정에서는 득점이 더 줄어드는 경향이 있어 긴 이닝 동안 상대 마운드를 압박하는 힘이 부족해 보입니다. 수비와 마운드는 비교적 버텨주는 구간이 있지만, 공격이 따라오지 못할 때는 접전에서도 주도권을 잡기 어려운 모습입니다. 다만 초반 실점을 억제하고 낮은 득점 싸움으로 끌고 가면 충분히 승부를 길게 가져갈 가능성은 있습니다."
+homePower: "시즌 37경기 15승21패|평균 5.2득점|홈 타격 강세|실점 기복 존재|중심타선 주목"
+awayPower: "시즌 47경기 19승25패|평균 3.8득점|원정 득점 저조|연속 침묵 잦음|저득점 경기형"
+h2h: '[{"date":"2026.06.23","home":"콜로라도 로키스","score":"0-0","away":"보스턴 레드삭스","link":"https://pick79.com/posts/detail/analyze-179187-2026-06-23-colorado-rockies/"}]'
+summary: "콜로라도 로키스는 2026시즌 평균 득점 5.2로 공격에서는 보스턴 레드삭스보다 한 수 위의 생산력을 보여주고 있습니다. 보스턴 레드삭스는 2026시즌 평균 득점 3.8로 공격 흐름이 더 무겁고, 원정에서는 그 약점이 더욱 드러나는 모습입니다. 이번 경기는 콜로라도 로키스가 득점 주도권을 잡을 가능성이 더 높고, 접전으로 흐르더라도 홈팀 쪽이 조금 더 유리해 보입니다."
+homeRecent: '[{"date":"26/06/23","home":"콜로라도 로키스","away":"보스턴 레드삭스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179187-2026-06-23-colorado-rockies/"},{"date":"26/06/21","home":"콜로라도 로키스","away":"피츠버그 파이러츠","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179142-2026-06-20-colorado-rockies/"},{"date":"26/06/20","home":"콜로라도 로키스","away":"피츠버그 파이러츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179142-2026-06-20-colorado-rockies/"},{"date":"26/06/18","home":"시카고 컵스","away":"콜로라도 로키스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179120-2026-06-18-chicago-cubs/"},{"date":"26/06/17","home":"시카고 컵스","away":"콜로라도 로키스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179106-2026-06-17-chicago-cubs/"}]'
+awayRecent: '[{"date":"26/06/23","home":"콜로라도 로키스","away":"보스턴 레드삭스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179187-2026-06-23-colorado-rockies/"},{"date":"26/06/21","home":"시애틀 매리너스","away":"보스턴 레드삭스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179150-2026-06-20-seattle-mariners/"},{"date":"26/06/20","home":"시애틀 매리너스","away":"보스턴 레드삭스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179150-2026-06-20-seattle-mariners/"},{"date":"26/06/18","home":"보스턴 레드삭스","away":"토론토 블루제이즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179121-2026-06-18-boston-red-sox/"},{"date":"26/06/17","home":"보스턴 레드삭스","away":"토론토 블루제이즈","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179107-2026-06-17-boston-red-sox/"}]'
+injuryHome: "없음"
+injuryAway: "Tyler Freeman (십일일 부상자 명단)"
+pickWinTeam: "콜로라도 로키스"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 로키스"
+pickHandicapValue: "-1.5"
+pickOuDirection: "언더"
+pickOuValue: "7.0"
+---

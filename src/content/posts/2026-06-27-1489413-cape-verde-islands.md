@@ -1,0 +1,33 @@
+---
+title: "카보베르데 vs 사우디아라비아 경기분석 및 승부예측 (6월 27일) | FIFA 월드컵 - 픽천국"
+date: 2026-06-27T00:00:00+00:00
+description: "카보베르데 vs 사우디아라비아 6월 27일 FIFA 월드컵 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H),부상.결장자정보, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1489413-2026-06-27-cape-verde-islands"
+category: "soccer"
+country: "국제"
+league: "FIFA 월드컵"
+homeTeam: "카보베르데"
+awayTeam: "사우디아라비아"
+homeLogo: "https://media.api-sports.io/football/teams/1533.png"
+awayLogo: "https://media.api-sports.io/football/teams/23.png"
+homeAnalysis: "카보베르데는 이번 FIFA 월드컵에서 2승 2무 0패, 평균 득점 2.0으로 매우 안정적인 전력을 보여주고 있습니다. 최근 흐름에서도 스페인과 우루과이를 상대로 실점 부담을 잘 버티면서도 공격에서는 꾸준히 득점을 만들어내고 있어 전반적인 경기 운영이 탄탄해 보입니다. 특히 홈에서는 세르비아와 버뮤다를 상대로 연속 무실점 승리를 거두며 수비 집중력이 돋보였습니다. 공격 쪽에서는 다득점이 가능한 전개가 인상적이고, 강한 상대를 만나서도 쉽게 무너지지 않는 점이 큰 강점입니다. 이런 흐름이라면 이번 경기에서도 주도권을 잡을 가능성이 높아 보입니다."
+awayAnalysis: "사우디아라비아는 이번 FIFA 월드컵에서 1승 2무 2패, 평균 득점 1.0으로 기복이 있는 전력을 보이고 있습니다. 최근 경기에서는 스페인전 대패가 아쉬웠지만, 우루과이와 세네갈을 상대로는 실점을 크게 억제하며 버티는 모습도 있었습니다. 다만 원정에서는 에콰도르와 스페인을 상대로 수비가 흔들리는 장면이 나와, 강한 압박을 받으면 불안이 드러나는 편입니다. 공격에서는 푸에르토리코전처럼 효율이 살아날 때는 득점이 나왔지만, 전체적으로는 마무리의 일관성이 부족해 보입니다. 수비 안정감을 다시 찾는 것이 무엇보다 중요해 보입니다."
+homePower: "이번 FIFA 월드컵 4경기 2승2무0패|평균 득점 2.0으로 상승세|스페인전 0실점 무승부|우루과이전 2골로 버팀|버뮤다전 3골 무실점 승리"
+awayPower: "이번 FIFA 월드컵 5경기 1승2무2패|평균 득점 1.0으로 저조|스페인전 0득점 4실점 패배|우루과이전 1득점 무승부|에콰도르전 1득점 패배"
+h2h: "※ H2H 업데이트 예정"
+summary: "카보베르데는 이번 FIFA 월드컵에서 2승 2무 0패로 더 안정적인 전력을 보여주고 있고, 사우디아라비아는 1승 2무 2패로 흐름이 다소 흔들리고 있습니다. 득점 면에서는 카보베르데가 평균 2.0으로 더 날카롭고, 사우디아라비아는 평균 1.0에 머물러 있어 공격 효율 차이도 분명합니다. 여기에 카보베르데가 강한 상대를 만나서도 수비 집중력을 유지해 온 점을 고려하면, 이번 경기는 카보베르데가 한 끗 우위의 경기를 가져갈 가능성이 높아 보입니다. 주목 포인트는 카보베르데의 안정된 공수 균형과 사우디아라비아의 원정 수비 부담이며, 전반적인 흐름상 카보베르데 쪽 기대감이 더 큽니다."
+homeRecent: '[{"date":"26/06/22","home":"우루과이","away":"카보베르데","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1489398-2026-06-22-uruguay/"},{"date":"26/06/16","home":"스페인","away":"카보베르데","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1489380-2026-06-16-spain/"},{"date":"26/06/07","home":"카보베르데","away":"버뮤다","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546499-2026-06-07-cape-verde-islands/"},{"date":"26/06/01","home":"카보베르데","away":"세르비아","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1543819-2026-06-01-cape-verde-islands/"}]'
+awayRecent: '[{"date":"26/06/22","home":"스페인","away":"사우디아라비아","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1489397-2026-06-22-spain/"},{"date":"26/06/16","home":"사우디아라비아","away":"우루과이","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1489379-2026-06-16-saudi-arabia/"},{"date":"26/06/10","home":"사우디아라비아","away":"세네갈","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544368-2026-06-10-saudi-arabia/"},{"date":"26/06/06","home":"Puerto Rico","away":"사우디아라비아","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546497-2026-06-06-puerto-rico/"},{"date":"26/05/31","home":"에콰도르","away":"사우디아라비아","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1540948-2026-05-31-ecuador/"}]'
+injuryHome: "없음"
+injuryAway: "Walid Al-Ahmad (십자인대 부상)|Ali Lajami (결장 가능성)"
+pickWinTeam: "카보베르데"
+pickWinResult: "승"
+pickHandicapTeam: "카보베르데"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+homeLineup: "[\"Vozinha (G)\",\"D. Borges (CD-L)\",\"P. Lopes (CD-R)\",\"K. Pina (DM)\",\"J. Paulo (LB)\",\"W. Pina (RB)\",\"J. Monteiro (CM-L)\",\"D. Duarte (CM-R)\",\"W. Semedo (LM)\",\"R. Mendes (RM)\",\"D. Livramento (F)\"]"
+awayLineup: "[\"M. Al-Owais (G)\",\"H. Al-Tambakti (CD-L)\",\"A. Al-Amri (CD-R)\",\"N. Boushal (LB)\",\"S. Abdulhamid (RB)\",\"N. Al-Dawsari (CM-L)\",\"A. Al-Khaibari (CM-R)\",\"S. Al-Dawsari (LM)\",\"S. Mandash (RM)\",\"M. Kanno (CF-L)\",\"F. Al-Brikan (CF-R)\"]"
+homeFormation: "4-1-4-1"
+awayFormation: "4-4-2"
+---

@@ -1,0 +1,31 @@
+---
+title: "세인트루이스 카디널스 vs 마이애미 말린스 경기분석·라인업·결장자·통계·승부예측 (6월 27일) | MLB - 픽천국"
+date: 2026-06-27T00:15:00+00:00
+description: "세인트루이스 카디널스 vs 마이애미 말린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179232-2026-06-27-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://media.api-sports.io/baseball/teams/33.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/19.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 44경기 19승 2무 23패의 흐름을 보이고 있어 전반적인 전력은 기복이 있는 편입니다. 최근 경기에서는 득점과 실점이 함께 출렁이는 모습이 이어졌고, 공격에서 반등하는 경기와 함께 수비가 흔들리는 장면도 자주 나타나고 있습니다. 홈에서는 한 끗 차 승부를 만들어내는 힘이 보이지만, 실점이 커지는 경기에서는 흐름이 쉽게 넘어가는 점도 함께 드러나고 있습니다. 특히 중요한 순간에 타선이 응답해 주는 경기에서는 경쟁력이 살아나고 있습니다. 다만 안정감 면에서는 조금 더 정교한 운영이 필요해 보입니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 최근 50경기 25승 2무 23패로 전체 성적이 탄탄한 편이며, 최근 10경기 7승 3패 흐름도 좋아 보입니다. 최근 들어서는 득점 생산이 꾸준하고, 1점 차 경기에서도 집중력을 유지하는 장면이 자주 확인되고 있습니다. 원정에서도 공격이 크게 꺾이지 않는 점이 강점으로 평가됩니다. 수비 쪽에서는 대량 실점을 완전히 피하지는 못하지만, 필요한 순간에 마운드와 불펜이 버텨주는 경기들이 이어지고 있습니다. 최근 흐름만 놓고 보면 자신감이 꽤 올라와 있는 전력입니다."
+homePower: "최근 44경기 19승2무23패|최근 10경기 4승1무5패|홈 경기 실점 변동 큼|접전 운영 능력은 준수|세인트루이스 카디널스 타선 기복"
+awayPower: "최근 50경기 25승2무23패|최근 10경기 7승3패 상승|평균 3.9득점 생산력|최근 4연승 구간 포함|마이애미 말린스 마운드 안정"
+h2h: "※ H2H 업데이트 예정"
+summary: "세인트루이스 카디널스는 2026시즌 19승 2무 23패로 출발은 나쁘지 않지만, 경기별 편차가 커서 안정감에서는 아쉬움이 있습니다. 마이애미 말린스는 25승 2무 23패와 최근 10경기 7승 3패로 더 탄탄한 전력을 보여주고 있어, 흐름 자체는 원정팀이 우세해 보입니다. 다만 이 경기는 세인트루이스 카디널스가 홈에서 접전을 만들 가능성도 충분하고, 예상 흐름상 5대4처럼 한 점 차 승부로 이어질 여지가 있습니다. 전체적인 전력 균형과 최근 상승세를 함께 보면 마이애미 말린스의 근소한 우세가 돋보입니다."
+homeRecent: '[{"date":"26/06/26","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"[object Object]-[object Object]","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179220-2026-06-26-st-louis-cardinals/"},{"date":"26/06/25","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179209-2026-06-25-st-louis-cardinals/"},{"date":"26/06/24","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179194-2026-06-24-st-louis-cardinals/"},{"date":"26/06/23","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179179-2026-06-23-st-louis-cardinals/"},{"date":"26/06/22","home":"캔자스시티 로열스","away":"세인트루이스 카디널스","score":"10-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179169-2026-06-22-kansas-city-royals/"}]'
+awayRecent: '[{"date":"26/06/25","home":"마이애미 말린스","away":"텍사스 레인저스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179214-2026-06-25-miami-marlins/"},{"date":"26/06/24","home":"마이애미 말린스","away":"텍사스 레인저스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179199-2026-06-24-miami-marlins/"},{"date":"26/06/23","home":"마이애미 말린스","away":"텍사스 레인저스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179184-2026-06-23-miami-marlins/"},{"date":"26/06/22","home":"마이애미 말린스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179167-2026-06-22-miami-marlins/"},{"date":"26/06/21","home":"마이애미 말린스","away":"샌프란시스코 자이언츠","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179147-2026-06-21-miami-marlins/"}]'
+injuryHome: "Bryan Torres (불명)|Ryan Fernandez (허리 통증)|Ramon Urias (팔꿈치)"
+injuryAway: "Liam Hicks (허리)|Josh Ekness (종아리 염좌)|Andrew Nardi (늑골 스트레스 반응)|Janson Junk (정강이 통증)|Robby Snelling (왼쪽 팔꿈치 측부인대 염좌)|Adam Mazur (오른쪽 팔꿈치 수술)|Ronny Henriquez (오른쪽 팔꿈치 측부인대 수술)"
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "5"
+pickExpectedAway: "4"
+homeLineup: "[\"선발투수 M. McGreevy (3-6, 3.12) ERA 3.12\",\"1번 J. Wetherholt (2B)\",\"2번 I. Herrera (C)\",\"3번 A. Burleson (1B)\",\"4번 J. Walker (RF)\",\"5번 L. Nootbaar (LF)\",\"6번 M. Winn (SS)\",\"7번 N. Church (CF)\",\"8번 B. Jordan (3B)\",\"9번 J. Fermin (DH)\"]"
+awayLineup: "[\"선발투수 M. Meyer (9-0, 2.60) ERA 2.60\",\"1번 J. Marsee (CF)\",\"2번 G. Conine (RF)\",\"3번 X. Edwards (2B)\",\"4번 K. Stowers (1B)\",\"5번 O. Lopez (SS)\",\"6번 O. Caissie (DH)\",\"7번 J. Mack (C)\",\"8번 E. Ruiz (LF)\",\"9번 G. Pauley (3B)\"]"
+---

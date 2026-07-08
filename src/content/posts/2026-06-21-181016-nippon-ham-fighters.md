@@ -1,0 +1,29 @@
+---
+title: "니혼햄 파이터즈 vs 후쿠오카 소프트뱅크 호크스 경기분석 및 승부예측 (6월 21일) | NPB - 픽천국"
+date: 2026-06-21T04:00:00+00:00
+description: "니혼햄 파이터즈 vs 후쿠오카 소프트뱅크 호크스 6월 21일 NPB 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요."
+slug: "analyze-181016-2026-06-21-nippon-ham-fighters"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "니혼햄 파이터즈"
+awayTeam: "후쿠오카 소프트뱅크 호크스"
+homeLogo: "https://media.api-sports.io/baseball/teams/60.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/57.png"
+homeAnalysis: "최근 5경기에서 3승 2패를 기록 중이며 평균 4.4득점으로 공격력이 살아있습니다. 대한민국 야구팬들에게 잘 알려진 팀으로서 홈 경기장 Es Con Field에서 강한 모습을 보이고 있으며 리그 내 안정적인 투수진을 보유하고 있습니다. 최근 상대전적에서 다소 부진하고 있으나 홈팀으로서의 이점이 존재합니다. 장기전에서의 공수 밸런스가 탄탄하며 주요 선수들의 컨디션이 양호합니다."
+awayAnalysis: "최근 5경기에서 2승 3패를 기록 중이며 평균 4.6득점으로 공격력이 우수합니다. 최근 상대전적에서 4경기 중 3승을 거두며 강한 전력을 드러내고 있습니다. 선발 투수진이 안정적이며 특히 공격 포인트에서 일관된 성적을 유지하고 있습니다. 원정 경기에서도 경쟁력 있는 모습을 보여주고 있으며 수비 안정성도 뛰어난 편입니다."
+homePower: "최근 4.4평균 득점으로 공격력 유지|최근 3경기 중 2승으로 반등 흐름|홈구장 Es Con Field에서 안정적 경기력|선발 투수진 평균자책점 2.9로 우수|상대전적 역사적 우위 유지"
+awayPower: "최근 평균 4.6득점으로 공격력 우수|최근 4경기 3승으로 강한 전력|공격 포인트 10점 이상 기록 다수|선발 투수 안정성 높음|원정 경기력 경쟁력 충분"
+h2h: '[{"date":"2026.06.20","home":"니혼햄 파이터즈","score":"7-10","away":"후쿠오카 소프트뱅크 호크스","text":"2026.06.20 - 니혼햄 파이터즈 (7-10) 후쿠오카 소프트뱅크 호크스","link":"https://pick79.com/posts/detail/analyze-181011-2026-06-20-nippon-ham-fighters/"},{"date":"2026.06.19","home":"니혼햄 파이터즈","score":"4-3","away":"후쿠오카 소프트뱅크 호크스","text":"2026.06.19 - 니혼햄 파이터즈 (4-3) 후쿠오카 소프트뱅크 호크스","link":"https://pick79.com/posts/detail/analyze-181001-2026-06-19-nippon-ham-fighters/"},{"date":"2026.05.24","home":"후쿠오카 소프트뱅크 호크스","score":"7-6","away":"니혼햄 파이터즈","text":"2026.05.24 - 후쿠오카 소프트뱅크 호크스 (7-6) 니혼햄 파이터즈","link":"https://pick79.com/posts/detail/analyze-180887-2026-05-24-fukuoka-s-hawks/"},{"date":"2026.05.23","home":"후쿠오카 소프트뱅크 호크스","score":"11-1","away":"니혼햄 파이터즈","text":"2026.05.23 - 후쿠오카 소프트뱅크 호크스 (11-1) 니혼햄 파이터즈","link":"https://pick79.com/posts/detail/analyze-180884-2026-05-23-fukuoka-s-hawks/"},{"date":"2026.05.22","home":"후쿠오카 소프트뱅크 호크스","score":"10-0","away":"니혼햄 파이터즈","text":"2026.05.22 - 후쿠오카 소프트뱅크 호크스 (10-0) 니혼햄 파이터즈","link":"https://pick79.com/posts/detail/analyze-180876-2026-05-22-fukuoka-s-hawks/"}]'
+summary: "최근 전력은 후쿠오카 소프트뱅크 호크스가 우수하나 니혼햄 파이터즈가 홈팀으로서의 이점을 가지고 있습니다. 상대전적에서 최근 4경기 중 Fukuoka가 3승을 거두며 상승세를 보이고 있으나 홈팀의 리그 내 위치와 경험이 중요한 변수입니다. 양 팀 모두 공격력이 비슷한 수준으로 4.4대 4.6으로 접근하고 있어 투수전 양상으로 흘러갈 가능성이 높습니다."
+homeRecent: '[{"date":"26/06/20","home":"니혼햄 파이터즈","away":"후쿠오카 소프트뱅크 호크스","score":"7-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181011-2026-06-20-nippon-ham-fighters/"},{"date":"26/06/19","home":"니혼햄 파이터즈","away":"후쿠오카 소프트뱅크 호크스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181001-2026-06-19-nippon-ham-fighters/"},{"date":"26/06/16","home":"히로시마 도요 카프","away":"니혼햄 파이터즈","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-180930-2026-06-16-hiroshima-carp/"},{"date":"26/06/14","home":"니혼햄 파이터즈","away":"주니치 드래곤스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-180997-2026-06-14-nippon-ham-fighters/"},{"date":"26/06/13","home":"니혼햄 파이터즈","away":"주니치 드래곤스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-180991-2026-06-13-nippon-ham-fighters/"}]'
+awayRecent: '[{"date":"26/06/20","home":"니혼햄 파이터즈","away":"후쿠오카 소프트뱅크 호크스","score":"7-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181011-2026-06-20-nippon-ham-fighters/"},{"date":"26/06/19","home":"니혼햄 파이터즈","away":"후쿠오카 소프트뱅크 호크스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181001-2026-06-19-nippon-ham-fighters/"},{"date":"26/06/14","home":"후쿠오카 소프트뱅크 호크스","away":"야쿠르트 스왈로우스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-180998-2026-06-14-fukuoka-s-hawks/"},{"date":"26/06/13","home":"후쿠오카 소프트뱅크 호크스","away":"야쿠르트 스왈로우스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-180993-2026-06-13-fukuoka-s-hawks/"},{"date":"26/06/12","home":"후쿠오카 소프트뱅크 호크스","away":"야쿠르트 스왈로우스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-180983-2026-06-12-fukuoka-s-hawks/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "니혼햄 파이터즈"
+pickWinResult: "승"
+pickHandicapTeam: "니혼햄 파이터즈"
+pickHandicapValue: "-0.5"
+pickOuDirection: "오버"
+pickOuValue: "9.0"
+---

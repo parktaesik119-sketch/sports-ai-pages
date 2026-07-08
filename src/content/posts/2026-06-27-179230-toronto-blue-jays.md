@@ -1,0 +1,31 @@
+---
+title: "토론토 블루제이즈 vs 텍사스 레인저스 경기분석 및 승부예측 (6월 27일) | MLB - 픽천국"
+date: 2026-06-26T23:07:00+00:00
+description: "토론토 블루제이즈 vs 텍사스 레인저스 6월 27일 MLB 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H),부상.결장자정보, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179230-2026-06-27-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "텍사스 레인저스"
+homeLogo: "https://media.api-sports.io/baseball/teams/36.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/35.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 최근 52경기 24승 2무 26패 흐름 속에서 시즌 전력이 오르내림을 반복하고 있지만, 최근 10경기 5승 1무 4패로 다시 균형을 잡아가고 있습니다. 최근 경기에서는 휴스턴 애스트로스전과 시카고 컵스전에서 득점 기복이 있었지만, 보스턴 레드삭스를 상대로는 안정적인 득점 생산을 보여주며 공격 쪽 잠재력이 충분합니다. 특히 홈에서는 텍사스 레인저스와의 직전 맞대결에서 접전을 펼쳤고, 전체적으로 홈 경기에서 경기 운영이 한층 부드럽게 이어지는 모습입니다. 수비에서는 대량 실점을 허용한 경기와 한 점 차 승부를 모두 경험하며 흔들림이 있었지만, 불펜과 타선의 연결이 맞아떨어질 때는 충분히 강한 전력을 보입니다. 홈에서 주도권을 잡는 흐름과 최근 반등 기세를 함께 고려하면, 이번 경기에서도 토론토 블루제이즈의 경기력이 조금 더 안정적으로 보입니다."
+awayAnalysis: "텍사스 레인저스는 2026시즌 최근 44경기 19승 1무 24패로 시즌 전반의 기복이 분명한 편이며, 최근 10경기 3승 1무 6패로 흐름도 다소 무거워 보입니다. 마이애미 말린스 원정과 미네소타 트윈스전에서 실점이 커지며 수비 불안이 드러났고, 공격도 점수를 내는 날과 묶이는 날의 차이가 큽니다. 다만 샌디에이고 파드리스전과 보스턴 레드삭스전처럼 접전에서 끝까지 따라가는 힘은 있어 쉽게 무너지지 않는 점은 분명합니다. 원정 경기에서는 경기 초반 흐름이 흔들릴 때 추격전으로 바뀌는 경우가 많아, 초반 실점 관리가 매우 중요해 보입니다. 전체적으로는 타선의 폭발력보다 경기 운영의 안정감이 더 필요한 시기이며, 최근 흐름만 놓고 보면 토론토 블루제이즈보다 한 발 아래로 평가됩니다."
+homePower: "2026시즌 24승 2무 26패|최근 10경기 5승 1무 4패|보스턴전 3연승 강점|홈 맞대결 접전력 있음|득점 기복 속 반등 기대"
+awayPower: "2026시즌 19승 1무 24패|최근 10경기 3승 1무 6패|마이애미전 2연패 부담|원정 실점 확대가 아쉬움|접전 대응력은 유지"
+h2h: '[{"date":"2026.06.26","home":"토론토 블루제이즈","score":"[object Object]-[object Object]","away":"텍사스 레인저스","link":"https://pick79.com/posts/detail/analyze-179222-2026-06-26-toronto-blue-jays/"}]'
+summary: "토론토 블루제이즈는 2026시즌 24승 2무 26패로 시즌 균형을 조금씩 회복하는 모습이며, 최근 10경기 흐름도 5승 1무 4패로 나쁘지 않습니다. 텍사스 레인저스는 19승 1무 24패에 최근 10경기 3승 1무 6패로 다소 무거운 흐름이 이어지고 있어, 전력의 안정감에서는 홈팀이 조금 더 앞서 보입니다. 두 팀 모두 득점 기복은 있지만, 최근 맞대결이 접전 양상으로 흘렀던 점을 보면 이번 경기 역시 팽팽하게 진행되더라도 토론토 블루제이즈가 홈 이점을 바탕으로 우위를 잡을 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26/06/26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"[object Object]-[object Object]","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179222-2026-06-26-toronto-blue-jays/"},{"date":"26/06/25","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179207-2026-06-25-toronto-blue-jays/"},{"date":"26/06/24","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179192-2026-06-24-toronto-blue-jays/"},{"date":"26/06/23","home":"토론토 블루제이즈","away":"휴스턴 애스트로스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179177-2026-06-23-toronto-blue-jays/"},{"date":"26/06/21","home":"시카고 컵스","away":"토론토 블루제이즈","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179158-2026-06-21-chicago-cubs/"}]'
+awayRecent: '[{"date":"26/06/26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"[object Object]-[object Object]","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179222-2026-06-26-toronto-blue-jays/"},{"date":"26/06/25","home":"마이애미 말린스","away":"텍사스 레인저스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179214-2026-06-25-miami-marlins/"},{"date":"26/06/24","home":"마이애미 말린스","away":"텍사스 레인저스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179199-2026-06-24-miami-marlins/"},{"date":"26/06/23","home":"마이애미 말린스","away":"텍사스 레인저스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179184-2026-06-23-miami-marlins/"},{"date":"26/06/22","home":"텍사스 레인저스","away":"샌디에이고 파드리스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179162-2026-06-22-texas-rangers/"}]'
+injuryHome: "Cody Ponce (무릎 부상)|Yimi García (팔꿈치 척골 신경 및 어깨관절 수술 회복)"
+injuryAway: "Cody Bradford (팔꿈치 수술 회복)|Josh Jung (부상)"
+pickWinTeam: "토론토 블루제이즈"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 블루제이즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+homeLineup: "[\"선발투수 P. Corbin (2-4, 5.09) ERA 5.09\",\"1번 G. Springer (DH)\",\"2번 N. Lukes (RF)\",\"3번 V. Guerrero Jr. (1B)\",\"4번 K. Okamoto (3B)\",\"5번 D. Varsho (CF)\",\"6번 E. Clement (LF)\",\"7번 J. Sanchez (LF)\",\"8번 B. Valenzuela (C)\",\"9번 A. Gimenez (SS)\"]"
+awayLineup: "[\"선발투수 N. Eovaldi (8-7, 3.95) ERA 3.95\",\"1번 W. Langford (CF)\",\"2번 J. Jung (3B)\",\"3번 B. Nimmo (RF)\",\"4번 J. Burger (1B)\",\"5번 J. Foscue (DH)\",\"6번 E. Duran (SS)\",\"7번 K. Higashioka (C)\",\"8번 A. Osuna (RF)\",\"9번 N. Lopez (2B)\"]"
+---

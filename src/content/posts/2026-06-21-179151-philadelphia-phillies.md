@@ -1,0 +1,29 @@
+---
+title: "필라델피아 필리스 대 뉴욕 메츠 경기분석 및 승부예측 (6월 21일) | 미국 MLB - 픽천국"
+date: 2026-06-20T23:15:00+00:00
+description: "6월 21일 미국 MLB 필라델피아 필리스 대 뉴욕 메츠 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H), 예상 결과를 픽천국에서 확인하세요."
+slug: "analyze-179151-2026-06-21-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://media.api-sports.io/baseball/teams/27.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/24.png"
+homeAnalysis: "리그 순위에서 상위권을 유지하고 있으며 시즌 성적에서도 안정적인 모습을 보여주고 있습니다 최근 경기력도 양호하며 공격력은 꾸준한 득점력을 발휘하고 수비력도 견고한 편입니다 또한 홈 성적이 좋아 홈 팬들 앞에서 좋은 전력을 보여줄 가능성이 높습니다 공격적인 전력과 수비 안정성을 겸비하여 경기의 주도권을 잡을 것으로 기대됩니다"
+awayAnalysis: "최근 경기에서 연속 승리를 거두며 전력이 상승 곡선을 그리고 있습니다 시즌 성적도 양호하고 공격력도 좋으며 최근 득점력 역시 우수합니다 수비 역시 안정적이고 전력의 밸런스가 좋아 경쟁력이 뛰어납니다 원정 경기임에도 불구하고 강한 전력을 보여줄 전망입니다"
+homePower: "홈 승률 강세|선발 안정|수비 견고|최근 3연승|공격력 우수"
+awayPower: "최근 3연승|선발 안정|공격력 강세|수비 견고|경기 운영 능력"
+h2h: "2026.06.18 - 필라델피아 필리스 (4-6) 뉴욕 메츠. 2026.06.17 - 필라델피아 필리스 (8-2) 뉴욕 메츠. 2026.06.16 - 필라델피아 필리스 (7-0) 뉴욕 메츠. 2025.07.12 - 필라델피아 필리스 (3-4) 뉴욕 메츠. 2025.07.10 - 필라델피아 필리스 (2-5) 뉴욕 메츠."
+summary: "양 팀 모두 최근 전력이 상승하며 좋은 흐름을 보여주고 있습니다 특히 홈팀은 수비 안정성과 공격력을 겸비하여 강한 모습을 보이고 있으며 원정팀 역시 연승으로 자신감을 갖고 있습니다 최근 상대전적에서도 홈팀이 우위를 점하는 모습이 계속되고 있어 이번 경기 역시 홈팀의 유리한 전개가 예상됩니다"
+homeRecent: '[{"date":"26/06/19","home":"필라델피아 필리스","away":"뉴욕 메츠","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179125-2026-06-19-philadelphia-phillies/"},{"date":"26/06/18","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179115-2026-06-18-philadelphia-phillies/"},{"date":"26/06/17","home":"필라델피아 필리스","away":"마이애미 말린스","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179101-2026-06-17-philadelphia-phillies/"},{"date":"26/06/16","home":"필라델피아 필리스","away":"마이애미 말린스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179089-2026-06-16-philadelphia-phillies/"},{"date":"26/06/15","home":"밀워키 브루어스","away":"필라델피아 필리스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179071-2026-06-15-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26/06/19","home":"필라델피아 필리스","away":"뉴욕 메츠","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179125-2026-06-19-philadelphia-phillies/"},{"date":"26/06/18","home":"신시내티 레즈","away":"뉴욕 메츠","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179117-2026-06-18-cincinnati-reds/"},{"date":"26/06/17","home":"신시내티 레즈","away":"뉴욕 메츠","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179105-2026-06-17-cincinnati-reds/"},{"date":"26/06/16","home":"신시내티 레즈","away":"뉴욕 메츠","score":"12-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179092-2026-06-16-cincinnati-reds/"},{"date":"26/06/15","home":"뉴욕 메츠","away":"애틀랜타 브레이브스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179075-2026-06-15-new-york-mets/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-1.5"
+pickOuDirection: "오버"
+pickOuValue: "7.5"
+---

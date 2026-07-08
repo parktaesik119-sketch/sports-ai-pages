@@ -1,0 +1,29 @@
+---
+title: "샌프란시스코 자이언츠 vs 애슬레틱스 경기분석 및 승부예측 (6월 25일) | MLB - 픽천국"
+date: 2026-06-25T01:45:00+00:00
+description: "샌프란시스코 자이언츠 vs 애슬레틱스 6월 25일 MLB 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H),부상.결장자정보, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179210-2026-06-25-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "애슬레틱스"
+homeLogo: "https://media.api-sports.io/baseball/teams/31.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/963.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 38경기에서 17승 1무 20패, 평균 득점 4.6점을 기록하며 경기력의 기복이 다소 있는 편입니다. 최근 흐름만 보더라도 공격은 4점 안팎으로 버티고 있지만, 실점이 늘어나는 경기에서는 접전에서 밀리는 모습이 함께 나타나고 있습니다. 다만 홈에서는 초반 득점 압박이 살아날 때 경기 주도권을 잡는 힘이 있고, 중심 타선의 장타와 상위 타선의 출루가 연결될 때 득점 효율이 좋아집니다. 수비 쪽은 실책성 흐름을 줄이는 것이 중요해 보이며, 선발진이 초반 이닝을 안정적으로 끌어주면 전력상 강점이 더욱 선명해집니다. 최근 맞대결에서 애슬레틱스를 상대로 좋은 결과를 낸 점도 이번 경기에서 자신감을 줄 수 있는 요소로 보입니다."
+awayAnalysis: "애슬레틱스는 2026시즌 최근 40경기에서 19승 1무 20패, 평균 득점 5.0점으로 공격 생산력은 꽤 준수한 편입니다. 최근 흐름도 득점 자체는 유지되고 있지만, 실점이 크게 늘어나는 경기에서는 전력의 균형이 흔들리는 모습이 함께 보입니다. 원정에서는 타선이 초반부터 점수를 내줄 때 강한 압박을 만들 수 있고, 중심 타선의 장타가 살아나면 대량 득점으로 이어지는 힘이 있습니다. 반면 수비와 불펜이 흔들리면 경기 후반 흐름을 지키는 데 어려움이 있습니다. 최근 샌프란시스코 자이언츠를 상대로 한 경기에서는 아쉬운 결과가 있었지만, 이전 맞대결에서는 큰 점수 차 승리도 있었던 만큼 타선의 폭발력은 충분히 주목할 만합니다."
+homePower: "최근 38경기 17승1무20패|평균 4.6득점 기록|최근 10경기 5승5패|홈 득점 흐름은 안정적|상대전 2승1패 우위"
+awayPower: "최근 40경기 19승1무20패|평균 5.0득점 생산|최근 10경기 5승5패|장타로 대량 득점 가능|실점 많아 수비 보완 필요"
+h2h: '[{"date":"2026.06.24","home":"샌프란시스코 자이언츠","score":"3-1","away":"애슬레틱스","link":"https://pick79.com/posts/detail/analyze-179195-2026-06-24-san-francisco-giants/"},{"date":"2026.05.18","home":"애슬레틱스","score":"1-10","away":"샌프란시스코 자이언츠","link":"https://pick79.com/posts/detail/analyze-178711-2026-05-18-athletics/"},{"date":"2026.05.16","home":"애슬레틱스","score":"5-2","away":"샌프란시스코 자이언츠","link":"https://pick79.com/posts/detail/analyze-178680-2026-05-16-athletics/"}]'
+summary: "샌프란시스코 자이언츠는 2026시즌 17승 1무 20패, 평균 4.6득점으로 공격과 수비가 완전히 맞물리지는 않지만, 경기 흐름을 잡는 순간에는 충분히 경쟁력이 있습니다. 애슬레틱스는 19승 1무 20패, 평균 5.0득점으로 득점 생산력은 더 나아 보이지만, 실점 관리가 흔들릴 때 전력이 쉽게 무너지는 모습이 있습니다. 최근 맞대결 흐름까지 함께 보면 샌프란시스코 자이언츠가 조금 더 안정적인 경기 운영을 보여주고 있어 승부의 무게가 홈팀 쪽으로 기울어 보입니다."
+homeRecent: '[{"date":"26/06/24","home":"샌프란시스코 자이언츠","away":"애슬레틱스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179195-2026-06-24-san-francisco-giants/"},{"date":"26/06/21","home":"마이애미 말린스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179147-2026-06-21-miami-marlins/"},{"date":"26/06/20","home":"마이애미 말린스","away":"샌프란시스코 자이언츠","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179138-2026-06-20-miami-marlins/"},{"date":"26/06/19","home":"마이애미 말린스","away":"샌프란시스코 자이언츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179138-2026-06-19-miami-marlins/"},{"date":"26/06/17","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179108-2026-06-17-atlanta-braves/"}]'
+awayRecent: '[{"date":"26/06/24","home":"샌프란시스코 자이언츠","away":"애슬레틱스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179195-2026-06-24-san-francisco-giants/"},{"date":"26/06/21","home":"애슬레틱스","away":"LA 에인절스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179145-2026-06-20-athletics/"},{"date":"26/06/20","home":"애슬레틱스","away":"LA 에인절스","score":"12-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179145-2026-06-20-athletics/"},{"date":"26/06/19","home":"애슬레틱스","away":"LA 에인절스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179133-2026-06-19-athletics/"},{"date":"26/06/18","home":"애슬레틱스","away":"피츠버그 파이러츠","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179123-2026-06-18-athletics/"}]'
+injuryHome: "Keaton Winn (팔꿈치 염좌)|Joel Peguero (햄스트링 염좌)|Harrison Bader (족저근막염)|Tyler Mahle (햄스트링 염좌)|Heliot Ramos (허벅지 사두근 염좌)|José Buttó (팔 피로)|Hayden Birdsong (토미존 수술 예정)|Rowan Wick (토미존 수술 회복)|Jason Foley (어깨 수술)|Randy Rodríguez (팔꿈치 염좌)"
+injuryAway: "Mark Leiter (엉덩이 충돌)|Brent Rooker (왼쪽 무릎 타박상)|Brooks Kriske (어깨 충돌)|Luis Severino (오른쪽 어깨 염좌)|Denzel Clarke (오른발 중족부 타박상)|Gunnar Hoglund (오른쪽 무릎 염좌 및 시즌 아웃)"
+pickWinTeam: "샌프란시스코 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "샌프란시스코 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "5"
+pickExpectedAway: "4"
+---

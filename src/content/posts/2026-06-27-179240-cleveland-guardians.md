@@ -1,0 +1,31 @@
+---
+title: "클리블랜드 가디언스 vs 시애틀 매리너스 경기분석 및 승부예측 (6월 27일) | MLB - 픽천국"
+date: 2026-06-26T23:10:00+00:00
+description: "클리블랜드 가디언스 vs 시애틀 매리너스 6월 27일 MLB 경기 분석입니다. 팀 전력, 최근 성적, 상대전적(H2H),부상.결장자정보, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179240-2026-06-27-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://media.api-sports.io/baseball/teams/9.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/32.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 최근 48경기에서 22승 2무 24패, 평균 득점 3.7을 기록하며 전체적으로는 승패가 엇비슷한 흐름을 보이고 있습니다. 최근에는 득점 기복이 조금 있지만, 경기마다 필요한 순간에 점수를 내는 집중력이 살아 있어 접전에서 버티는 힘이 돋보입니다. 홈에서는 득점 흐름을 조금 더 안정적으로 가져가고 있고, 마운드도 상대 타선을 3점대 초중반에서 묶는 경기가 나와 수비 안정감이 강점으로 평가됩니다. 특히 최근 경기들에서는 강팀 상대로도 한 번씩 큰 점수 차 승리를 만들어내며 경기 운영 능력을 보여주고 있습니다. 다만 타선이 한 번 식으면 득점이 크게 줄어드는 구간이 있어, 초반 흐름을 잡는지가 매우 중요해 보입니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 최근 41경기에서 21승 2무 18패를 기록하며 전체 전력은 나쁘지 않은 흐름을 이어가고 있습니다. 최근 경기에서는 승리와 패배가 번갈아 나오는 모습이 보여서, 공격과 수비의 균형을 얼마나 안정적으로 맞추느냐가 관건입니다. 원정에서는 장타 한 방으로 흐름을 바꾸는 힘이 있으나, 실점이 늘어나는 경기에서는 전개가 급격히 흔들리는 점이 아쉽습니다. 특히 최근에는 강한 마운드를 상대로도 득점을 만들어내는 장면이 있었지만, 경기 후반 집중력 저하가 보일 때가 있어 아쉬움이 남습니다. 전체적으로는 타선이 폭발하면 강한 팀이지만, 득점이 묶일 때는 수비 부담이 커지는 전력으로 보입니다."
+homePower: "2026시즌 48경기 22승24패|평균 득점 3.7 유지|최근 10경기 5승 5패|화이트삭스전 4득점 승리|접전에서 마운드 안정감"
+awayPower: "2026시즌 41경기 21승18패|최근 10경기 5승1무4패|원정 경기 기복 존재|강타선 상대로 실점 증가|득점 터지면 경기력 상승"
+h2h: "※ H2H 업데이트 예정"
+summary: "클리블랜드 가디언스는 2026시즌 전체 흐름에서 득점과 실점의 균형이 비교적 잘 맞아 있는 편이고, 시애틀 매리너스는 전체 전력 자체는 나쁘지 않지만 원정에서 경기 기복이 조금 더 크게 나타나고 있습니다. 가디언스는 평균 득점 3.7의 꾸준함과 접전 대응 능력이 강점으로 보이고, 매리너스는 득점이 살아날 때는 위협적이지만 실점이 늘어나는 구간에서 흐름이 흔들릴 수 있습니다. 이런 점을 함께 보면 이번 경기는 클리블랜드 가디언스가 마운드 운영과 중반 이후 흐름에서 조금 더 앞설 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26/06/25","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179219-2026-06-25-chicago-white-sox/"},{"date":"26/06/24","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179203-2026-06-24-chicago-white-sox/"},{"date":"26/06/23","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179189-2026-06-23-chicago-white-sox/"},{"date":"26/06/22","home":"휴스턴 애스트로스","away":"클리블랜드 가디언스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179170-2026-06-22-houston-astros/"},{"date":"26/06/21","home":"휴스턴 애스트로스","away":"클리블랜드 가디언스","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179155-2026-06-21-houston-astros/"}]'
+awayRecent: '[{"date":"26/06/26","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"[object Object]-[object Object]","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179225-2026-06-26-pittsburgh-pirates/"},{"date":"26/06/25","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179205-2026-06-25-pittsburgh-pirates/"},{"date":"26/06/24","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179190-2026-06-24-pittsburgh-pirates/"},{"date":"26/06/22","home":"시애틀 매리너스","away":"보스턴 레드삭스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179180-2026-06-22-seattle-mariners/"},{"date":"26/06/20","home":"시애틀 매리너스","away":"보스턴 레드삭스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179150-2026-06-20-seattle-mariners/"}]'
+injuryHome: "José Ramírez (왼쪽 햄스트링 골절)|Chase DeLauter (오른쪽 갈비뼈 골절)|Angel Martínez (왼쪽 발 골절)"
+injuryAway: "Brendan Donovan (왼쪽 사타구니 염좌)|Matt Brash (오른쪽 광배근 염좌)"
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+homeLineup: "[\"선발투수 J. Cantillo (6-3, 3.87) ERA 3.87\",\"1번 T. Bazzana (2B)\",\"2번 K. Manzardo (1B)\",\"3번 B. Rocchio (SS)\",\"4번 K. Watson (RF)\",\"5번 C. Ingle (DH)\",\"6번 D. Schneemann (3B)\",\"7번 S. Kwan (CF)\",\"8번 P. Bailey (C)\",\"9번 P. Halpin (CF)\"]"
+awayLineup: "[\"선발투수 L. Castillo (3-6, 4.93) ERA 4.93\",\"1번 R. Arozarena (LF)\",\"2번 J. Rodriguez (CF)\",\"3번 C. Raleigh (C)\",\"4번 D. Canzone (DH)\",\"5번 J. Naylor (1B)\",\"6번 J.P. Crawford (3B)\",\"7번 R. Refsnyder (RF)\",\"8번 C. Young (2B)\",\"9번 C. Emerson (SS)\"]"
+---

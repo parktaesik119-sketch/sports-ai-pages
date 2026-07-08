@@ -1,0 +1,31 @@
+---
+title: "피츠버그 파이러츠 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (6월 29일) | MLB - 픽천국"
+date: 2026-06-28T17:35:00+00:00
+description: "피츠버그 파이러츠 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179265-2026-06-29-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/28.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/8.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 최근 50경기에서 22승 1무 27패, 평균 득점 5.0을 기록하며 공격에서 꾸준히 힘을 내고 있습니다. 최근 흐름에서도 평균 득점 5.8로 생산성이 더 살아났고, 시애틀 매리너스전과 콜로라도 로키스전에서 다득점 승리를 거두며 타선의 폭발력이 돋보였습니다. 다만 실점이 늘어나는 경기에서는 흐름이 쉽게 흔들리는 모습도 있어, 수비 안정이 승부의 핵심으로 보입니다. 홈에서는 장타와 연결타가 함께 살아날 때 강세가 뚜렷하고, 최근 신시내티 레즈전에서도 초반 득점 압박을 잘 만들어냈습니다. 전반적으로 타격 우위가 분명한 팀이며, 홈 경기에서는 흐름을 한 번 잡으면 연속 득점으로 경기를 주도하는 장점이 있습니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 최근 47경기에서 18승 2무 27패, 평균 득점 4.2를 기록하며 전체적으로는 기복이 있는 전력입니다. 최근 흐름에서는 평균 득점 4.7로 나아지는 모습이 보이지만, 밀워키 브루어스전처럼 득점이 묶이면 경기 운영이 급격히 어려워지는 편입니다. 반대로 뉴욕 양키스전에서는 원정에서도 공격이 살아나며 다득점 승리를 만들기도 해, 타선의 집중력이 살아날 때는 충분히 반격 여지가 있습니다. 수비에서는 실점 관리가 흔들리는 구간이 있어, 접전에서는 흐름이 길게 이어지지 못하는 점이 아쉽습니다. 원정에서는 초반에 점수를 내지 못하면 부담이 커지는 경향이 있어, 이번 경기에서도 선취점 여부가 중요하게 작용할 것으로 보입니다."
+homePower: "최근 50경기 22승27패|평균 5.0득점 기록|최근 10경기 5승5패|최근 평균 5.8득점|피츠버그 파이러츠 홈 강세"
+awayPower: "최근 47경기 18승27패|평균 4.2득점 기록|최근 10경기 5승5패|최근 평균 4.7득점|신시내티 레즈 원정 기복"
+h2h: '[{"date":"2026.06.28","home":"피츠버그 파이러츠","score":"7-9","away":"신시내티 레즈","link":"https://pick79.com/posts/detail/analyze-179249-2026-06-28-pittsburgh-pirates/"},{"date":"2026.05.04","home":"피츠버그 파이러츠","score":"1-0","away":"신시내티 레즈","link":"https://pick79.com/posts/detail/analyze-178514-2026-05-04-pittsburgh-pirates/"},{"date":"2026.05.03","home":"피츠버그 파이러츠","score":"17-7","away":"신시내티 레즈","link":"https://pick79.com/posts/detail/analyze-178500-2026-05-03-pittsburgh-pirates/"}]'
+summary: "피츠버그 파이러츠는 2026시즌 전체 득점력과 최근 상승 흐름에서 조금 더 안정적인 전력을 보여주고 있습니다. 신시내티 레즈도 최근 들어 공격이 살아나는 장면이 있지만, 시즌 전체 기준에서는 득점과 수비의 균형이 파이러츠보다 다소 흔들리는 모습입니다. 상대전적에서도 파이러츠가 큰 점수 차 승리와 접전 승리를 함께 가져가며 상성 우위를 보여주고 있어, 이번 경기는 홈팀이 조금 더 유리하게 풀어갈 가능성이 높아 보입니다. 예상 스코어 흐름으로도 파이러츠가 7점대 득점으로 경기를 주도하고 레즈는 추격에 나서는 양상이 어울립니다."
+homeRecent: '[{"date":"26/06/28","home":"피츠버그 파이러츠","away":"신시내티 레즈","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179249-2026-06-28-pittsburgh-pirates/"},{"date":"26/06/26","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179225-2026-06-26-pittsburgh-pirates/"},{"date":"26/06/25","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"11-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179205-2026-06-25-pittsburgh-pirates/"},{"date":"26/06/24","home":"피츠버그 파이러츠","away":"시애틀 매리너스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179190-2026-06-24-pittsburgh-pirates/"},{"date":"26/06/22","home":"콜로라도 로키스","away":"피츠버그 파이러츠","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179172-2026-06-22-colorado-rockies/"}]'
+awayRecent: '[{"date":"26/06/28","home":"피츠버그 파이러츠","away":"신시내티 레즈","score":"7-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179249-2026-06-28-pittsburgh-pirates/"},{"date":"26/06/25","home":"신시내티 레즈","away":"밀워키 브루어스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179218-2026-06-25-cincinnati-reds/"},{"date":"26/06/24","home":"신시내티 레즈","away":"밀워키 브루어스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179197-2026-06-24-cincinnati-reds/"},{"date":"26/06/23","home":"신시내티 레즈","away":"밀워키 브루어스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179188-2026-06-23-cincinnati-reds/"},{"date":"26/06/22","home":"뉴욕 양키즈","away":"신시내티 레즈","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179166-2026-06-22-new-york-yankees/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "7"
+pickExpectedAway: "5"
+homeLineup: "[\"선발투수 M. Keller (5-5, 4.89) ERA 4.89\",\"1번 K. Griffin (SS)\",\"2번 B. Lowe (2B)\",\"3번 B. Reynolds (DH)\",\"4번 N. Gonzales (3B)\",\"5번 R. O'Hearn (1B)\",\"6번 E. Valdez (RF)\",\"7번 T. Callihan (LF)\",\"8번 J. Mangum (CF)\",\"9번 H. Davis (C)\"]"
+awayLineup: "[\"선발투수 B. Singer (3-6, 4.81) ERA 4.81\",\"1번 E. De La Cruz (SS)\",\"2번 S. Stewart (3B)\",\"3번 J. Bleday (LF)\",\"4번 E. Suarez (DH)\",\"5번 S. Steer (1B)\",\"6번 N. Marte (RF)\",\"7번 T. Stephenson (C)\",\"8번 T. Friedl (CF)\",\"9번 E. Arroyo (2B)\"]"
+---
