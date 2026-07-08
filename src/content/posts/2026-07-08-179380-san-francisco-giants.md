@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 L. Webb (5-6, 3.66) ERA 3.66|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\"]"
+homeLineup: "[\"선발투수 L. Webb (5-6, 3.66) ERA 3.66|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\",\"1번 H. Ramos (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/39642.png\",\"2번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"3번 C. Schmitt (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4301949.png\",\"4번 R. Devers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/33859.png\",\"5번 J. Lee (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5134621.png\",\"6번 W. Adames (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33675.png\",\"7번 B. Eldridge (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png\",\"8번 D. Gilbert (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4619467.png\",\"9번 E. Haase (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33452.png\"]"
 awayLineup: "[\"선발투수 D. Cease (5-4, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
 ---
