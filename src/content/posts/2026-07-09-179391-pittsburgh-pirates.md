@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 J. Jones (1-1, 5.28) ERA 5.28|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
-awayLineup: "[\"선발투수 G. Holmes (5-4, 3.83) ERA 3.83|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (5-4, 3.83) ERA 3.83|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\",\"1번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"2번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 D. Baldwin (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"5번 M. Dubon (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"6번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"7번 M. Yastrzemski (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"8번 J. Bart (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41168.png\",\"9번 J. Mateo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33832.png\"]"
 ---
