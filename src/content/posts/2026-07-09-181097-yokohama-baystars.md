@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "5.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Kentaro Taira (2-5, 4.14)|https://p.npb.jp/players_photo/2026/180/db/059_01905139.jpg\"]"
+awayLineup: "[\"선발투수 Yuya Yanagi (4-2, 2.33)|https://p.npb.jp/players_photo/2026/180/d/017_63165134.jpg\"]"
 ---
