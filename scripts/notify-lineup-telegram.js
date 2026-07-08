@@ -52,6 +52,8 @@ async function main() {
 
   // 날짜 > 종목 > 리그 3단 그룹핑 (notify-posts-telegram.js와 동일한 방식으로 통일)
   const grouped = {};
+  const now = new Date(); // 알림 발송 시점 기준. 이 시점 이후 킥오프인 경기만 알림 대상.
+  let skippedStarted = 0;
 
   for (const filePath of files) {
     const content = fs.readFileSync(filePath, 'utf-8');
@@ -62,6 +64,16 @@ async function main() {
     const league = parseFrontmatterField(content, 'league') || '';
     const slug = parseFrontmatterField(content, 'slug');
     if (!homeTeam || !awayTeam) continue;
+
+    // 이미 킥오프한 경기는 새로 보러 온 사람에게 의미가 없으니 알림에서 제외
+    // (기존 글 완성도 보강 목적의 백그라운드 수집이지, "곧 시작하는 경기 라인업 나왔어요" 알림이 아님)
+    if (date) {
+      const kickoff = new Date(date);
+      if (!isNaN(kickoff.getTime()) && kickoff <= now) {
+        skippedStarted++;
+        continue;
+      }
+    }
 
     const dateLabel = toShortDate(date);
     const sportLabel = SPORT_LABEL_KO[category] || category;
@@ -77,7 +89,7 @@ async function main() {
 
   const dateLabels = Object.keys(grouped).sort();
   if (dateLabels.length === 0) {
-    console.log('ℹ️ 팀 정보를 읽지 못해 알림을 보내지 않습니다.');
+    console.log(`ℹ️ 알림 보낼 대상 없음 (이미 시작된 경기 ${skippedStarted}건 제외 처리됨)`);
     return;
   }
 
@@ -102,7 +114,7 @@ async function main() {
   const message = ['<b>라인업 업데이트</b>', '', body].join('\n');
 
   await sendTelegramMessage(message);
-  console.log(`✅ 라인업 업데이트 알림 발송 완료 (${total}건, ${dateLabels.length}개 날짜)`);
+  console.log(`✅ 라인업 업데이트 알림 발송 완료 (${total}건, ${dateLabels.length}개 날짜, 이미 시작된 경기 ${skippedStarted}건 제외)`);
 }
 
 main();
