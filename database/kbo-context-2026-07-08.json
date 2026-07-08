@@ -1,695 +1,152 @@
 [
   {
-    "home": "Doosan Bears",
-    "away": "SSG Landers",
-    "date": "2026-07-08T09:30:00+00:00",
+    "home": "Samsung Lions",
+    "away": "LG Twins",
+    "date": "2026-07-09T09:30:00+00:00",
     "league": "KBO",
-    "gameId": "20260708SKOB0",
-    "stadium": "잠실",
+    "gameId": "20260709LGSS0",
+    "stadium": "대구",
     "standings": {
-      "home": 5,
-      "away": 9
+      "home": 1,
+      "away": 2
     },
     "starters": {
-      "home": "곽빈",
-      "away": "전영준"
+      "home": null,
+      "away": null
     },
-    "pitcherRecord": {
-      "away": {
-        "name": "전영준",
-        "era": "6.75",
-        "war": "-0.40",
-        "games": "29",
-        "inningsPerStart": "0.0",
-        "qs": "0",
-        "whip": "1.54"
-      },
-      "home": {
-        "name": "곽빈",
-        "era": "2.70",
-        "war": "2.85",
-        "games": "16",
-        "inningsPerStart": "5.2",
-        "qs": "10",
-        "whip": "1.24"
-      },
-      "_headerLabels": [
-        "선발투수",
-        "평균자책점",
-        "WAR",
-        "경기",
-        "선발평균이닝",
-        "QS",
-        "WHIP"
-      ]
-    },
-    "pitKind": {
-      "away": {
-        "name": "전영준",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "71.9%",
-            "avgSpeed": "143.6km/h"
-          },
-          {
-            "type": "포크",
-            "usageRate": "13.6%",
-            "avgSpeed": "128.8km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "9.2%",
-            "avgSpeed": "132.0km/h"
-          },
-          {
-            "type": "커브",
-            "usageRate": "5.2%",
-            "avgSpeed": "114.9km/h"
-          }
-        ]
-      },
-      "home": {
-        "name": "곽빈",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "42.8%",
-            "avgSpeed": "151.3km/h"
-          },
-          {
-            "type": "커터",
-            "usageRate": "19.4%",
-            "avgSpeed": "146.2km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "13.9%",
-            "avgSpeed": "136.2km/h"
-          },
-          {
-            "type": "커브",
-            "usageRate": "12.0%",
-            "avgSpeed": "118.6km/h"
-          }
-        ]
-      }
-    },
+    "pitcherRecord": null,
+    "pitKind": null,
     "lineup": {
       "lineupConfirmed": false,
       "home": {
-        "teamId": "OB",
-        "teamName": "두산",
-        "gameId": "20260707SKOB0",
+        "teamId": "SS",
+        "teamName": "삼성",
+        "gameId": "20260707LGSS0",
         "warByOrderRange": {
-          "1-2": "1.92",
-          "3-5": "4.31",
-          "6-9": "4.00"
+          "1-2": "2.47",
+          "3-5": "7.90",
+          "6-9": "2.85"
         },
         "lineup": [
           {
             "order": "1",
-            "position": "좌익수",
-            "name": "김민석",
-            "war": "1.98"
+            "position": "중견수",
+            "name": "김지찬",
+            "war": "2.18"
           },
           {
             "order": "2",
-            "position": "지명타자",
-            "name": "손아섭",
-            "war": "-0.06"
+            "position": "우익수",
+            "name": "김현준",
+            "war": "0.29"
           },
           {
             "order": "3",
-            "position": "2루수",
-            "name": "박준순",
-            "war": "2.32"
+            "position": "좌익수",
+            "name": "구자욱",
+            "war": "2.38"
           },
           {
             "order": "4",
-            "position": "포수",
-            "name": "양의지",
-            "war": "1.80"
+            "position": "지명타자",
+            "name": "최형우",
+            "war": "2.80"
           },
           {
             "order": "5",
-            "position": "3루수",
-            "name": "안재석",
-            "war": "0.19"
+            "position": "1루수",
+            "name": "디아즈",
+            "war": "2.72"
           },
           {
             "order": "6",
-            "position": "유격수",
-            "name": "박찬호",
-            "war": "2.17"
+            "position": "2루수",
+            "name": "류지혁",
+            "war": "2.33"
           },
           {
             "order": "7",
-            "position": "우익수",
-            "name": "류승민",
-            "war": "0.21"
+            "position": "포수",
+            "name": "강민호",
+            "war": "0.90"
           },
           {
             "order": "8",
-            "position": "1루수",
-            "name": "강승호",
-            "war": "0.16"
+            "position": "3루수",
+            "name": "김영웅",
+            "war": "-0.51"
           },
           {
             "order": "9",
-            "position": "중견수",
-            "name": "정수빈",
-            "war": "1.46"
+            "position": "유격수",
+            "name": "심재훈",
+            "war": "0.13"
           }
         ]
       },
       "away": {
-        "teamId": "SK",
-        "teamName": "SSG",
-        "gameId": "20260707SKOB0",
+        "teamId": "LG",
+        "teamName": "LG",
+        "gameId": "20260707LGSS0",
         "warByOrderRange": {
-          "1-2": "5.42",
-          "3-5": "3.97",
-          "6-9": "3.05"
+          "1-2": "2.84",
+          "3-5": "7.93",
+          "6-9": "2.53"
         },
         "lineup": [
           {
             "order": "1",
-            "position": "유격수",
-            "name": "박성한",
-            "war": "4.23"
+            "position": "우익수",
+            "name": "홍창기",
+            "war": "1.34"
           },
           {
             "order": "2",
-            "position": "우익수",
-            "name": "김성욱",
-            "war": "1.19"
+            "position": "중견수",
+            "name": "박해민",
+            "war": "1.50"
           },
           {
             "order": "3",
-            "position": "지명타자",
-            "name": "최정",
-            "war": "2.97"
+            "position": "1루수",
+            "name": "오스틴",
+            "war": "5.53"
           },
           {
             "order": "4",
-            "position": "좌익수",
-            "name": "에레디아",
+            "position": "3루수",
+            "name": "문보경",
             "war": "1.17"
           },
           {
             "order": "5",
-            "position": "1루수",
-            "name": "오태곤",
-            "war": "-0.17"
-          },
-          {
-            "order": "6",
-            "position": "3루수",
-            "name": "고명준",
-            "war": "0.61"
-          },
-          {
-            "order": "7",
-            "position": "중견수",
-            "name": "최지훈",
-            "war": "1.03"
-          },
-          {
-            "order": "8",
-            "position": "포수",
-            "name": "조형우",
-            "war": "-0.32"
-          },
-          {
-            "order": "9",
-            "position": "2루수",
-            "name": "정준재",
-            "war": "1.73"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "home": "Hanwha Eagles",
-    "away": "NC Dinos",
-    "date": "2026-07-08T09:30:00+00:00",
-    "league": "KBO",
-    "gameId": "20260708NCHH0",
-    "stadium": "대전",
-    "standings": {
-      "home": 6,
-      "away": 7
-    },
-    "starters": {
-      "home": "왕옌청",
-      "away": "토다"
-    },
-    "pitcherRecord": {
-      "away": {
-        "name": "토다",
-        "era": "4.74",
-        "war": "0.66",
-        "games": "15",
-        "inningsPerStart": "5.1",
-        "qs": "5",
-        "whip": "1.44"
-      },
-      "home": {
-        "name": "왕옌청",
-        "era": "3.59",
-        "war": "1.31",
-        "games": "17",
-        "inningsPerStart": "5.0",
-        "qs": "4",
-        "whip": "1.49"
-      },
-      "_headerLabels": [
-        "선발투수",
-        "평균자책점",
-        "WAR",
-        "경기",
-        "선발평균이닝",
-        "QS",
-        "WHIP"
-      ]
-    },
-    "pitKind": {
-      "away": {
-        "name": "토다",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "38.0%",
-            "avgSpeed": "144.9km/h"
-          },
-          {
-            "type": "커터",
-            "usageRate": "19.6%",
-            "avgSpeed": "137.1km/h"
-          },
-          {
-            "type": "포크",
-            "usageRate": "19.1%",
-            "avgSpeed": "131.0km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "14.4%",
-            "avgSpeed": "126.8km/h"
-          }
-        ]
-      },
-      "home": {
-        "name": "왕옌청",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "43.8%",
-            "avgSpeed": "144.1km/h"
-          },
-          {
-            "type": "투심",
-            "usageRate": "20.6%",
-            "avgSpeed": "143.6km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "17.7%",
-            "avgSpeed": "124.4km/h"
-          },
-          {
-            "type": "스위퍼",
-            "usageRate": "10.6%",
-            "avgSpeed": "122.5km/h"
-          }
-        ]
-      }
-    },
-    "lineup": {
-      "lineupConfirmed": false,
-      "home": {
-        "teamId": "HH",
-        "teamName": "한화",
-        "gameId": "20260707NCHH0",
-        "warByOrderRange": {
-          "1-2": "4.14",
-          "3-5": "7.58",
-          "6-9": "5.16"
-        },
-        "lineup": [
-          {
-            "order": "1",
-            "position": "좌익수",
-            "name": "최인호",
-            "war": "0.09"
-          },
-          {
-            "order": "2",
-            "position": "우익수",
-            "name": "페라자",
-            "war": "4.05"
-          },
-          {
-            "order": "3",
-            "position": "중견수",
-            "name": "문현빈",
-            "war": "2.39"
-          },
-          {
-            "order": "4",
             "position": "지명타자",
-            "name": "강백호",
-            "war": "3.41"
-          },
-          {
-            "order": "5",
-            "position": "3루수",
-            "name": "노시환",
-            "war": "1.78"
+            "name": "문정빈",
+            "war": "1.23"
           },
           {
             "order": "6",
-            "position": "포수",
-            "name": "허인서",
-            "war": "1.99"
-          },
-          {
-            "order": "7",
-            "position": "1루수",
-            "name": "김태연",
-            "war": "1.46"
-          },
-          {
-            "order": "8",
-            "position": "2루수",
-            "name": "이도윤",
-            "war": "0.80"
-          },
-          {
-            "order": "9",
-            "position": "유격수",
-            "name": "심우준",
-            "war": "0.91"
-          }
-        ]
-      },
-      "away": {
-        "teamId": "NC",
-        "teamName": "NC",
-        "gameId": "20260707NCHH0",
-        "warByOrderRange": {
-          "1-2": "3.74",
-          "3-5": "5.40",
-          "6-9": "1.20"
-        },
-        "lineup": [
-          {
-            "order": "1",
-            "position": "유격수",
-            "name": "김주원",
-            "war": "3.37"
-          },
-          {
-            "order": "2",
-            "position": "중견수",
-            "name": "최정원",
-            "war": "0.37"
-          },
-          {
-            "order": "3",
-            "position": "2루수",
-            "name": "박민우",
-            "war": "3.45"
-          },
-          {
-            "order": "4",
-            "position": "1루수",
-            "name": "블레인",
-            "war": "0.18"
-          },
-          {
-            "order": "5",
-            "position": "지명타자",
-            "name": "박건우",
-            "war": "1.77"
-          },
-          {
-            "order": "6",
-            "position": "3루수",
-            "name": "김휘집",
-            "war": "0.48"
-          },
-          {
-            "order": "7",
-            "position": "우익수",
-            "name": "천재환",
-            "war": "0.43"
-          },
-          {
-            "order": "8",
-            "position": "포수",
-            "name": "안중열",
-            "war": "0.24"
-          },
-          {
-            "order": "9",
             "position": "좌익수",
-            "name": "고준휘",
-            "war": "0.05"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "home": "KT Wiz Suwon",
-    "away": "Kiwoom Heroes",
-    "date": "2026-07-08T09:30:00+00:00",
-    "league": "KBO",
-    "gameId": "20260708WOKT0",
-    "stadium": "수원",
-    "standings": {
-      "home": 3,
-      "away": 10
-    },
-    "starters": {
-      "home": "로건",
-      "away": "배동현"
-    },
-    "pitcherRecord": {
-      "away": {
-        "name": "배동현",
-        "era": "5.37",
-        "war": "0.53",
-        "games": "16",
-        "inningsPerStart": "4.2",
-        "qs": "1",
-        "whip": "1.54"
-      },
-      "home": {
-        "name": "로건",
-        "era": "3.00",
-        "war": "0.44",
-        "games": "3",
-        "inningsPerStart": "6.0",
-        "qs": "2",
-        "whip": "1.22"
-      },
-      "_headerLabels": [
-        "선발투수",
-        "평균자책점",
-        "WAR",
-        "경기",
-        "선발평균이닝",
-        "QS",
-        "WHIP"
-      ]
-    },
-    "pitKind": {
-      "away": {
-        "name": "배동현",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "44.0%",
-            "avgSpeed": "141.9km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "21.3%",
-            "avgSpeed": "133.7km/h"
-          },
-          {
-            "type": "체인지업",
-            "usageRate": "18.0%",
-            "avgSpeed": "121.3km/h"
-          },
-          {
-            "type": "커브",
-            "usageRate": "12.7%",
-            "avgSpeed": "117.2km/h"
-          }
-        ]
-      },
-      "home": {
-        "name": "로건",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "46.3%",
-            "avgSpeed": "145.0km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "25.0%",
-            "avgSpeed": "130.9km/h"
-          },
-          {
-            "type": "체인지업",
-            "usageRate": "16.4%",
-            "avgSpeed": "132.8km/h"
-          },
-          {
-            "type": "커터",
-            "usageRate": "10.2%",
-            "avgSpeed": "138.0km/h"
-          }
-        ]
-      }
-    },
-    "lineup": {
-      "lineupConfirmed": false,
-      "home": {
-        "teamId": "KT",
-        "teamName": "KT",
-        "gameId": "20260707WOKT0",
-        "warByOrderRange": {
-          "1-2": "4.64",
-          "3-5": "4.55",
-          "6-9": "2.51"
-        },
-        "lineup": [
-          {
-            "order": "1",
-            "position": "지명타자",
-            "name": "최원준",
-            "war": "4.01"
-          },
-          {
-            "order": "2",
-            "position": "좌익수",
-            "name": "김민혁",
-            "war": "0.63"
-          },
-          {
-            "order": "3",
-            "position": "우익수",
-            "name": "안현민",
-            "war": "1.67"
-          },
-          {
-            "order": "4",
-            "position": "1루수",
-            "name": "김현수",
-            "war": "1.73"
-          },
-          {
-            "order": "5",
-            "position": "3루수",
-            "name": "허경민",
-            "war": "1.15"
-          },
-          {
-            "order": "6",
-            "position": "2루수",
-            "name": "김상수",
-            "war": "1.18"
+            "name": "문성주",
+            "war": "0.25"
           },
           {
             "order": "7",
-            "position": "중견수",
-            "name": "배정대",
-            "war": "-0.10"
+            "position": "유격수",
+            "name": "오지환",
+            "war": "0.55"
           },
           {
             "order": "8",
             "position": "포수",
-            "name": "조대현",
-            "war": "0.15"
+            "name": "박동원",
+            "war": "1.21"
           },
           {
             "order": "9",
-            "position": "유격수",
-            "name": "권동진",
-            "war": "1.28"
-          }
-        ]
-      },
-      "away": {
-        "teamId": "WO",
-        "teamName": "키움",
-        "gameId": "20260707WOKT0",
-        "warByOrderRange": {
-          "1-2": "1.65",
-          "3-5": "3.19",
-          "6-9": "1.29"
-        },
-        "lineup": [
-          {
-            "order": "1",
             "position": "2루수",
-            "name": "서건창",
-            "war": "1.46"
-          },
-          {
-            "order": "2",
-            "position": "중견수",
-            "name": "추재현",
-            "war": "0.20"
-          },
-          {
-            "order": "3",
-            "position": "1루수",
-            "name": "데이비슨",
-            "war": "1.52"
-          },
-          {
-            "order": "4",
-            "position": "좌익수",
-            "name": "히우라",
-            "war": "0.40"
-          },
-          {
-            "order": "5",
-            "position": "지명타자",
-            "name": "안치홍",
-            "war": "1.28"
-          },
-          {
-            "order": "6",
-            "position": "우익수",
-            "name": "박찬혁",
-            "war": "0.36"
-          },
-          {
-            "order": "7",
-            "position": "3루수",
-            "name": "여동욱",
-            "war": "0.60"
-          },
-          {
-            "order": "8",
-            "position": "포수",
-            "name": "김건희",
-            "war": "1.09"
-          },
-          {
-            "order": "9",
-            "position": "유격수",
-            "name": "권혁빈",
-            "war": "-0.75"
+            "name": "신민재",
+            "war": "0.52"
           }
         ]
       }
@@ -698,99 +155,20 @@
   {
     "home": "Lotte Giants",
     "away": "KIA Tigers",
-    "date": "2026-07-08T09:30:00+00:00",
+    "date": "2026-07-09T09:30:00+00:00",
     "league": "KBO",
-    "gameId": "20260708HTLT0",
+    "gameId": "20260709HTLT0",
     "stadium": "사직",
     "standings": {
       "home": 8,
       "away": 4
     },
     "starters": {
-      "home": "나균안",
-      "away": "네일"
+      "home": null,
+      "away": null
     },
-    "pitcherRecord": {
-      "away": {
-        "name": "네일",
-        "era": "3.44",
-        "war": "2.72",
-        "games": "17",
-        "inningsPerStart": "6.0",
-        "qs": "10",
-        "whip": "1.09"
-      },
-      "home": {
-        "name": "나균안",
-        "era": "3.95",
-        "war": "1.35",
-        "games": "15",
-        "inningsPerStart": "5.2",
-        "qs": "7",
-        "whip": "1.40"
-      },
-      "_headerLabels": [
-        "선발투수",
-        "평균자책점",
-        "WAR",
-        "경기",
-        "선발평균이닝",
-        "QS",
-        "WHIP"
-      ]
-    },
-    "pitKind": {
-      "away": {
-        "name": "네일",
-        "pitches": [
-          {
-            "type": "스위퍼",
-            "usageRate": "31.8%",
-            "avgSpeed": "130.2km/h"
-          },
-          {
-            "type": "투심",
-            "usageRate": "30.9%",
-            "avgSpeed": "144.5km/h"
-          },
-          {
-            "type": "커터",
-            "usageRate": "19.5%",
-            "avgSpeed": "139.7km/h"
-          },
-          {
-            "type": "체인지업",
-            "usageRate": "12.6%",
-            "avgSpeed": "136.3km/h"
-          }
-        ]
-      },
-      "home": {
-        "name": "나균안",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "35.9%",
-            "avgSpeed": "142.9km/h"
-          },
-          {
-            "type": "포크",
-            "usageRate": "27.8%",
-            "avgSpeed": "130.4km/h"
-          },
-          {
-            "type": "커터",
-            "usageRate": "16.7%",
-            "avgSpeed": "137.8km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "13.4%",
-            "avgSpeed": "126.7km/h"
-          }
-        ]
-      }
-    },
+    "pitcherRecord": null,
+    "pitKind": null,
     "lineup": {
       "lineupConfirmed": false,
       "home": {
@@ -928,232 +306,459 @@
     }
   },
   {
-    "home": "Samsung Lions",
-    "away": "LG Twins",
-    "date": "2026-07-08T09:30:00+00:00",
+    "home": "KT Wiz Suwon",
+    "away": "Kiwoom Heroes",
+    "date": "2026-07-09T09:30:00+00:00",
     "league": "KBO",
-    "gameId": "20260708LGSS0",
-    "stadium": "대구",
+    "gameId": "20260709WOKT0",
+    "stadium": "수원",
     "standings": {
-      "home": 1,
-      "away": 2
+      "home": 3,
+      "away": 10
     },
     "starters": {
-      "home": "오러클린",
-      "away": "임찬규"
+      "home": null,
+      "away": null
     },
-    "pitcherRecord": {
-      "away": {
-        "name": "임찬규",
-        "era": "3.79",
-        "war": "1.67",
-        "games": "16",
-        "inningsPerStart": "5.2",
-        "qs": "7",
-        "whip": "1.41"
-      },
-      "home": {
-        "name": "오러클린",
-        "era": "4.52",
-        "war": "1.07",
-        "games": "16",
-        "inningsPerStart": "5.0",
-        "qs": "7",
-        "whip": "1.33"
-      },
-      "_headerLabels": [
-        "선발투수",
-        "평균자책점",
-        "WAR",
-        "경기",
-        "선발평균이닝",
-        "QS",
-        "WHIP"
-      ]
-    },
-    "pitKind": {
-      "away": {
-        "name": "임찬규",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "32.0%",
-            "avgSpeed": "139.0km/h"
-          },
-          {
-            "type": "체인지업",
-            "usageRate": "31.6%",
-            "avgSpeed": "123.1km/h"
-          },
-          {
-            "type": "커브",
-            "usageRate": "26.8%",
-            "avgSpeed": "110.9km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "8.3%",
-            "avgSpeed": "130.4km/h"
-          }
-        ]
-      },
-      "home": {
-        "name": "오러클린",
-        "pitches": [
-          {
-            "type": "직구",
-            "usageRate": "40.5%",
-            "avgSpeed": "144.0km/h"
-          },
-          {
-            "type": "스위퍼",
-            "usageRate": "14.1%",
-            "avgSpeed": "125.1km/h"
-          },
-          {
-            "type": "커브",
-            "usageRate": "11.8%",
-            "avgSpeed": "118.0km/h"
-          },
-          {
-            "type": "슬라이더",
-            "usageRate": "11.7%",
-            "avgSpeed": "132.4km/h"
-          }
-        ]
-      }
-    },
+    "pitcherRecord": null,
+    "pitKind": null,
     "lineup": {
       "lineupConfirmed": false,
       "home": {
-        "teamId": "SS",
-        "teamName": "삼성",
-        "gameId": "20260707LGSS0",
+        "teamId": "KT",
+        "teamName": "KT",
+        "gameId": "20260707WOKT0",
         "warByOrderRange": {
-          "1-2": "2.47",
-          "3-5": "7.90",
-          "6-9": "2.85"
+          "1-2": "4.64",
+          "3-5": "4.55",
+          "6-9": "2.51"
         },
         "lineup": [
           {
             "order": "1",
-            "position": "중견수",
-            "name": "김지찬",
-            "war": "2.18"
+            "position": "지명타자",
+            "name": "최원준",
+            "war": "4.01"
           },
           {
             "order": "2",
-            "position": "우익수",
-            "name": "김현준",
-            "war": "0.29"
+            "position": "좌익수",
+            "name": "김민혁",
+            "war": "0.63"
           },
           {
             "order": "3",
-            "position": "좌익수",
-            "name": "구자욱",
-            "war": "2.38"
+            "position": "우익수",
+            "name": "안현민",
+            "war": "1.67"
           },
           {
             "order": "4",
-            "position": "지명타자",
-            "name": "최형우",
-            "war": "2.80"
+            "position": "1루수",
+            "name": "김현수",
+            "war": "1.73"
           },
           {
             "order": "5",
-            "position": "1루수",
-            "name": "디아즈",
-            "war": "2.72"
+            "position": "3루수",
+            "name": "허경민",
+            "war": "1.15"
           },
           {
             "order": "6",
             "position": "2루수",
-            "name": "류지혁",
-            "war": "2.33"
+            "name": "김상수",
+            "war": "1.18"
           },
           {
             "order": "7",
-            "position": "포수",
-            "name": "강민호",
-            "war": "0.90"
+            "position": "중견수",
+            "name": "배정대",
+            "war": "-0.10"
           },
           {
             "order": "8",
-            "position": "3루수",
-            "name": "김영웅",
-            "war": "-0.51"
+            "position": "포수",
+            "name": "조대현",
+            "war": "0.15"
           },
           {
             "order": "9",
             "position": "유격수",
-            "name": "심재훈",
-            "war": "0.13"
+            "name": "권동진",
+            "war": "1.28"
           }
         ]
       },
       "away": {
-        "teamId": "LG",
-        "teamName": "LG",
-        "gameId": "20260707LGSS0",
+        "teamId": "WO",
+        "teamName": "키움",
+        "gameId": "20260707WOKT0",
         "warByOrderRange": {
-          "1-2": "2.84",
-          "3-5": "7.93",
-          "6-9": "2.53"
+          "1-2": "1.65",
+          "3-5": "3.19",
+          "6-9": "1.29"
         },
         "lineup": [
           {
             "order": "1",
-            "position": "우익수",
-            "name": "홍창기",
-            "war": "1.34"
+            "position": "2루수",
+            "name": "서건창",
+            "war": "1.46"
           },
           {
             "order": "2",
             "position": "중견수",
-            "name": "박해민",
-            "war": "1.50"
+            "name": "추재현",
+            "war": "0.20"
           },
           {
             "order": "3",
             "position": "1루수",
-            "name": "오스틴",
-            "war": "5.53"
+            "name": "데이비슨",
+            "war": "1.52"
           },
           {
             "order": "4",
+            "position": "좌익수",
+            "name": "히우라",
+            "war": "0.40"
+          },
+          {
+            "order": "5",
+            "position": "지명타자",
+            "name": "안치홍",
+            "war": "1.28"
+          },
+          {
+            "order": "6",
+            "position": "우익수",
+            "name": "박찬혁",
+            "war": "0.36"
+          },
+          {
+            "order": "7",
             "position": "3루수",
-            "name": "문보경",
+            "name": "여동욱",
+            "war": "0.60"
+          },
+          {
+            "order": "8",
+            "position": "포수",
+            "name": "김건희",
+            "war": "1.09"
+          },
+          {
+            "order": "9",
+            "position": "유격수",
+            "name": "권혁빈",
+            "war": "-0.75"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "home": "Hanwha Eagles",
+    "away": "NC Dinos",
+    "date": "2026-07-09T09:30:00+00:00",
+    "league": "KBO",
+    "gameId": "20260709NCHH0",
+    "stadium": "대전",
+    "standings": {
+      "home": 6,
+      "away": 7
+    },
+    "starters": {
+      "home": null,
+      "away": null
+    },
+    "pitcherRecord": null,
+    "pitKind": null,
+    "lineup": {
+      "lineupConfirmed": false,
+      "home": {
+        "teamId": "HH",
+        "teamName": "한화",
+        "gameId": "20260707NCHH0",
+        "warByOrderRange": {
+          "1-2": "4.14",
+          "3-5": "7.58",
+          "6-9": "5.16"
+        },
+        "lineup": [
+          {
+            "order": "1",
+            "position": "좌익수",
+            "name": "최인호",
+            "war": "0.09"
+          },
+          {
+            "order": "2",
+            "position": "우익수",
+            "name": "페라자",
+            "war": "4.05"
+          },
+          {
+            "order": "3",
+            "position": "중견수",
+            "name": "문현빈",
+            "war": "2.39"
+          },
+          {
+            "order": "4",
+            "position": "지명타자",
+            "name": "강백호",
+            "war": "3.41"
+          },
+          {
+            "order": "5",
+            "position": "3루수",
+            "name": "노시환",
+            "war": "1.78"
+          },
+          {
+            "order": "6",
+            "position": "포수",
+            "name": "허인서",
+            "war": "1.99"
+          },
+          {
+            "order": "7",
+            "position": "1루수",
+            "name": "김태연",
+            "war": "1.46"
+          },
+          {
+            "order": "8",
+            "position": "2루수",
+            "name": "이도윤",
+            "war": "0.80"
+          },
+          {
+            "order": "9",
+            "position": "유격수",
+            "name": "심우준",
+            "war": "0.91"
+          }
+        ]
+      },
+      "away": {
+        "teamId": "NC",
+        "teamName": "NC",
+        "gameId": "20260707NCHH0",
+        "warByOrderRange": {
+          "1-2": "3.74",
+          "3-5": "5.40",
+          "6-9": "1.20"
+        },
+        "lineup": [
+          {
+            "order": "1",
+            "position": "유격수",
+            "name": "김주원",
+            "war": "3.37"
+          },
+          {
+            "order": "2",
+            "position": "중견수",
+            "name": "최정원",
+            "war": "0.37"
+          },
+          {
+            "order": "3",
+            "position": "2루수",
+            "name": "박민우",
+            "war": "3.45"
+          },
+          {
+            "order": "4",
+            "position": "1루수",
+            "name": "블레인",
+            "war": "0.18"
+          },
+          {
+            "order": "5",
+            "position": "지명타자",
+            "name": "박건우",
+            "war": "1.77"
+          },
+          {
+            "order": "6",
+            "position": "3루수",
+            "name": "김휘집",
+            "war": "0.48"
+          },
+          {
+            "order": "7",
+            "position": "우익수",
+            "name": "천재환",
+            "war": "0.43"
+          },
+          {
+            "order": "8",
+            "position": "포수",
+            "name": "안중열",
+            "war": "0.24"
+          },
+          {
+            "order": "9",
+            "position": "좌익수",
+            "name": "고준휘",
+            "war": "0.05"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "home": "Doosan Bears",
+    "away": "SSG Landers",
+    "date": "2026-07-09T09:30:00+00:00",
+    "league": "KBO",
+    "gameId": "20260709SKOB0",
+    "stadium": "잠실",
+    "standings": {
+      "home": 5,
+      "away": 9
+    },
+    "starters": {
+      "home": null,
+      "away": null
+    },
+    "pitcherRecord": null,
+    "pitKind": null,
+    "lineup": {
+      "lineupConfirmed": false,
+      "home": {
+        "teamId": "OB",
+        "teamName": "두산",
+        "gameId": "20260707SKOB0",
+        "warByOrderRange": {
+          "1-2": "1.92",
+          "3-5": "4.31",
+          "6-9": "4.00"
+        },
+        "lineup": [
+          {
+            "order": "1",
+            "position": "좌익수",
+            "name": "김민석",
+            "war": "1.98"
+          },
+          {
+            "order": "2",
+            "position": "지명타자",
+            "name": "손아섭",
+            "war": "-0.06"
+          },
+          {
+            "order": "3",
+            "position": "2루수",
+            "name": "박준순",
+            "war": "2.32"
+          },
+          {
+            "order": "4",
+            "position": "포수",
+            "name": "양의지",
+            "war": "1.80"
+          },
+          {
+            "order": "5",
+            "position": "3루수",
+            "name": "안재석",
+            "war": "0.19"
+          },
+          {
+            "order": "6",
+            "position": "유격수",
+            "name": "박찬호",
+            "war": "2.17"
+          },
+          {
+            "order": "7",
+            "position": "우익수",
+            "name": "류승민",
+            "war": "0.21"
+          },
+          {
+            "order": "8",
+            "position": "1루수",
+            "name": "강승호",
+            "war": "0.16"
+          },
+          {
+            "order": "9",
+            "position": "중견수",
+            "name": "정수빈",
+            "war": "1.46"
+          }
+        ]
+      },
+      "away": {
+        "teamId": "SK",
+        "teamName": "SSG",
+        "gameId": "20260707SKOB0",
+        "warByOrderRange": {
+          "1-2": "5.42",
+          "3-5": "3.97",
+          "6-9": "3.05"
+        },
+        "lineup": [
+          {
+            "order": "1",
+            "position": "유격수",
+            "name": "박성한",
+            "war": "4.23"
+          },
+          {
+            "order": "2",
+            "position": "우익수",
+            "name": "김성욱",
+            "war": "1.19"
+          },
+          {
+            "order": "3",
+            "position": "지명타자",
+            "name": "최정",
+            "war": "2.97"
+          },
+          {
+            "order": "4",
+            "position": "좌익수",
+            "name": "에레디아",
             "war": "1.17"
           },
           {
             "order": "5",
-            "position": "지명타자",
-            "name": "문정빈",
-            "war": "1.23"
+            "position": "1루수",
+            "name": "오태곤",
+            "war": "-0.17"
           },
           {
             "order": "6",
-            "position": "좌익수",
-            "name": "문성주",
-            "war": "0.25"
+            "position": "3루수",
+            "name": "고명준",
+            "war": "0.61"
           },
           {
             "order": "7",
-            "position": "유격수",
-            "name": "오지환",
-            "war": "0.55"
+            "position": "중견수",
+            "name": "최지훈",
+            "war": "1.03"
           },
           {
             "order": "8",
             "position": "포수",
-            "name": "박동원",
-            "war": "1.21"
+            "name": "조형우",
+            "war": "-0.32"
           },
           {
             "order": "9",
             "position": "2루수",
-            "name": "신민재",
-            "war": "0.52"
+            "name": "정준재",
+            "war": "1.73"
           }
         ]
       }
