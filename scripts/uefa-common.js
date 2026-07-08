@@ -100,6 +100,76 @@ export function teamNamesMatch(a, b) {
 // 일정 조회
 // fromDate/toDate: 'YYYY-MM-DD' (UTC 기준 날짜)
 // ─────────────────────────────────────────────
+// ─────────────────────────────────────────────
+// H2H(상대전적) 조회
+// - 엔드포인트: compstats.uefa.com/v2/team-statistics/head2head?competitionId=&teamId=A,B
+//   (인증 불필요, 두 팀의 teamId를 쉼표로 묶어서 요청하면 양쪽 집계를 한 번에 준다)
+// - 응답은 팀별 승/무/패/득점 "집계"와, 그 집계에 반영된 과거 matchId 목록만 준다.
+//   날짜/스코어 등 개별 경기 상세는 안 주므로, 각 matchId를 /v5/matches?matchId=로
+//   다시 조회해서 채운다.
+// ⚠️ 실측 확인(matchId 2048621, Sabah vs The New Saints): 1차 예선처럼 두 팀이 처음
+//    만나는 라운드에서는 matches_appearance가 항상 "지금 조회 중인 이 경기 자신"만
+//    가리키고, 진짜 과거 맞대결은 0건인 게 정상이다. 그래서 excludeMatchId로 현재
+//    경기 자신은 h2h 목록에서 제외한다.
+// ⚠️ fetchUefaMatchDetail()의 정확한 응답 구조(배열인지 단일 객체인지, score 필드명)는
+//    과거 맞대결이 있는 실제 사례로 검증된 적이 없다. 여러 후보 필드명을 방어적으로
+//    다 시도하게 짜뒀지만, 나중에 실제 h2h 데이터가 있는 경기가 나오면 한 번 확인 필요.
+// ─────────────────────────────────────────────
+export async function fetchUefaHeadToHead(competitionId, teamIdA, teamIdB, excludeMatchId) {
+  if (!teamIdA || !teamIdB) return [];
+
+  const url = `https://compstats.uefa.com/v2/team-statistics/head2head?competitionId=${competitionId}&teamId=${teamIdA}%2C${teamIdB}`;
+  const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+  if (!res.ok) throw new Error(`UEFA h2h 조회 실패: HTTP ${res.status}`);
+  const data = await res.json();
+
+  // 두 팀 중 아무 쪽에서나 matches_appearance의 statisticMatchIds를 모으면
+  // 두 팀이 실제로 맞붙었던 경기 목록이 된다 (양쪽 다 같은 matchId 목록을 가리킴).
+  const matchIds = new Set();
+  for (const teamStat of data || []) {
+    for (const stat of teamStat.statistics || []) {
+      if (stat.name === 'matches_appearance') {
+        for (const id of stat.statisticMatchIds || []) matchIds.add(String(id));
+      }
+    }
+  }
+  if (excludeMatchId) matchIds.delete(String(excludeMatchId));
+  if (matchIds.size === 0) return [];
+
+  const details = await Promise.all(
+    [...matchIds].map(id => fetchUefaMatchDetail(id).catch(() => null))
+  );
+
+  return details
+    .filter(Boolean)
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, 5); // 최근 5경기까지만
+}
+
+// /v5/matches?matchId= 단건 조회 → h2h용 {date, home, away, score} 형태로 정규화
+async function fetchUefaMatchDetail(matchId) {
+  const url = `${MATCH_API_BASE}/matches?matchId=${matchId}`;
+  const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+  if (!res.ok) throw new Error(`UEFA 경기 상세 조회 실패: HTTP ${res.status}`);
+  const raw = await res.json();
+  const m = Array.isArray(raw) ? raw[0] : raw;
+  if (!m) return null;
+
+  const home = m.homeTeam?.internationalName ?? '';
+  const away = m.awayTeam?.internationalName ?? '';
+  const dateRaw = m.kickOffTime?.dateTime ?? m.date ?? null;
+  const homeGoals = m.score?.total?.home ?? m.score?.home ?? m.homeScore ?? null;
+  const awayGoals = m.score?.total?.away ?? m.score?.away ?? m.awayScore ?? null;
+  const score = (homeGoals !== null && awayGoals !== null) ? `${homeGoals}-${awayGoals}` : '';
+
+  return {
+    date: dateRaw ? String(dateRaw).slice(0, 10) : '',
+    home,
+    away,
+    score,
+  };
+}
+
 export async function fetchUefaMatches({
   competitionId = UEFA_COMPETITION_ID.UCL,
   fromDate,

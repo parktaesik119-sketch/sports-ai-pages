@@ -21,6 +21,7 @@ import {
   fetchUefaMatches,
   findUefaMatch,
   fetchUefaLineup,
+  fetchUefaHeadToHead,
   toKstDateStr,
 } from './uefa-common.js';
 
@@ -113,6 +114,14 @@ async function main() {
       lineup = null; // 아직 미발표 — null로 남겨서 uefa-lineup-update.js가 나중에 채우도록 함
     }
 
+    // 상대전적(h2h) — 1차 예선처럼 첫 만남인 라운드는 항상 빈 배열이 정상
+    const homeTeamId = matched.homeTeam?.id;
+    const awayTeamId = matched.awayTeam?.id;
+    const h2h = await fetchUefaHeadToHead(competitionId, homeTeamId, awayTeamId, matched.id).catch(err => {
+      console.error(`❌ UEFA h2h 조회 실패 (matchId ${matched.id}):`, err.message);
+      return [];
+    });
+
     results.push({
       home: match.home,
       away: match.away,
@@ -128,10 +137,11 @@ async function main() {
       referees: (matched.referees || []).map(r => ({ role: r.role ?? null, name: r.internationalName ?? null })),
       lineupStatus: lineup?.lineupStatus ?? matched.lineupStatus, // 라인업 API 응답값이 있으면 그걸 우선 신뢰
       lineup, // null이면 아직 미발표 (uefa-lineup-update.js가 나중에 채움)
+      h2h, // 빈 배열이면 과거 맞대결 없음(1차 예선은 대부분 이게 정상)
     });
 
     okCount++;
-    console.log(`✅ [수집] ${match.away} @ ${match.home} | matchId ${matched.id} | ${matched.stadium?.name || '경기장 정보 없음'} | 라인업${lineup ? 'O' : 'X'}`);
+    console.log(`✅ [수집] ${match.away} @ ${match.home} | matchId ${matched.id} | ${matched.stadium?.name || '경기장 정보 없음'} | 라인업${lineup ? 'O' : 'X'} | h2h${h2h.length}건`);
   }
 
   fs.writeFileSync(outPath, JSON.stringify(results, null, 2), 'utf8');
