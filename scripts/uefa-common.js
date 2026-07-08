@@ -156,30 +156,65 @@ export function toKstDateStr(isoDateStr) {
 }
 
 // ─────────────────────────────────────────────
-// 라인업 조회 (실측 완료: matchId=2048621, Sabah vs The New Saints, lineupStatus TACTICAL_AVAILABLE)
-// - 엔드포인트: match.uefa.com/v5/matches/{matchId}/lineups (인증 불필요)
-//   ⚠️ /v5/matches?matchId= 처럼 쿼리스트링이 아니라, matchId가 URL 경로 자체에 들어간다.
+// 포메이션/줄 구성 계산 (좌표 기반)
+// ⚠️ 처음엔 UEFA의 fieldPosition 라벨(GOALKEEPER/DEFENDER/MIDFIELDER/FORWARD) 개수만
+//    세는 방식으로 했었는데, 실측해보니 UEFA가 이 라벨을 느슨하게 붙여서(윙백을
+//    DEFENDER 대신 MIDFIELDER로 분류하는 등) "2-6-2"처럼 말이 안 되는 포메이션이 나오는
+//    사고가 있었다(matchId 2048621, New Saints 실측 확인 — 라벨상 DEFENDER 2명뿐이었지만
+//    실제 fieldCoordinate.y는 4명이 정확히 같은 값으로 백4를 이루고 있었음).
 //
-// ⚠️ 출력 포맷은 _slug_.astro가 기대하는 형식(ESPN 데이터 기준)을 그대로 따라야 한다:
-//    - "{이름} ({G|D|M|F})|{사진URL}" — 등번호/주장표시/교체표시 없음
-//    - homeLineup/awayLineup 배열은 "선발 11명만" (교체 명단은 넣지 않음, ESPN 컨벤션과 통일)
-//    - 배열 순서는 반드시 GK → DF전원 → MF전원 → FW전원 순 (프론트가 이 순서를
-//      homeFormation 문자열의 각 줄과 그대로 매칭해서 피치 위에 배치하기 때문)
-//    - homeFormation/awayFormation은 배열이 아니라 별도의 평범한 문자열 필드("4-4-2")
+// 그래서 라벨 대신 각 선수의 fieldCoordinate.y(피치 세로 위치)로 줄을 묶는 방식으로 변경.
+// 다만 팀마다 좌표 품질이 다르다(New Saints는 250/500/800처럼 깔끔한 값, Sabah는 186~708
+// 사이에 촘촘하게 퍼진 값) — 그대로 두면 Sabah 같은 팀은 5줄 이상으로 과도하게 쪼개질 수
+// 있어서, 최대 4줄로 제한하고 간격이 가장 좁은 인접 줄부터 자동으로 합친다.
 // ─────────────────────────────────────────────
-const FIELD_POSITION_CODE = {
-  GOALKEEPER: 'G',
-  DEFENDER: 'D',
-  MIDFIELDER: 'M',
-  FORWARD: 'F',
-};
+const ROW_GAP_THRESHOLD = 40; // 이 값 이하 차이는 같은 줄로 간주
+const MAX_ROWS = 4;           // DF/MF(/MF)/FW — 표준 포메이션 표기는 보통 4줄을 안 넘음
 
-const POSITION_ORDER = { GOALKEEPER: 0, DEFENDER: 1, MIDFIELDER: 2, FORWARD: 3 };
+function classifyOutfieldRows(field) {
+  const outfield = (field || [])
+    .filter(e => e.player?.fieldPosition !== 'GOALKEEPER')
+    .slice()
+    .sort((a, b) => (a.fieldCoordinate?.y ?? 0) - (b.fieldCoordinate?.y ?? 0));
 
-function formatUefaPlayerLine(entry) {
+  // 1차: y값이 가까운(ROW_GAP_THRESHOLD 이내) 선수끼리 묶어서 줄을 만든다
+  const rows = [];
+  for (const entry of outfield) {
+    const y = entry.fieldCoordinate?.y ?? 0;
+    const lastRow = rows[rows.length - 1];
+    if (lastRow && y - (lastRow[lastRow.length - 1].fieldCoordinate?.y ?? 0) <= ROW_GAP_THRESHOLD) {
+      lastRow.push(entry);
+    } else {
+      rows.push([entry]);
+    }
+  }
+
+  // 2차: 줄이 MAX_ROWS를 넘으면, 인접한 줄 중 간격이 가장 좁은 것부터 병합
+  while (rows.length > MAX_ROWS) {
+    let minGap = Infinity, minIdx = 0;
+    for (let i = 0; i < rows.length - 1; i++) {
+      const gap = (rows[i + 1][0].fieldCoordinate?.y ?? 0) - (rows[i][rows[i].length - 1].fieldCoordinate?.y ?? 0);
+      if (gap < minGap) { minGap = gap; minIdx = i; }
+    }
+    rows[minIdx] = rows[minIdx].concat(rows[minIdx + 1]);
+    rows.splice(minIdx + 1, 1);
+  }
+
+  // 각 줄 내부는 x좌표(가로 위치) 기준으로 왼쪽→오른쪽 정렬
+  rows.forEach(row => row.sort((a, b) => (a.fieldCoordinate?.x ?? 0) - (b.fieldCoordinate?.x ?? 0)));
+
+  return rows;
+}
+
+function rowPositionCode(rowIndex, totalRows) {
+  if (rowIndex === 0) return 'D';
+  if (rowIndex === totalRows - 1) return 'F';
+  return 'M';
+}
+
+function formatUefaPlayerLine(entry, code) {
   const p = entry.player || {};
   const name = p.internationalName || '';
-  const code = FIELD_POSITION_CODE[p.fieldPosition] || '';
   const photo = p.imageUrl;
   let line = `${name} (${code})`;
   if (photo) line += `|${photo}`;
@@ -187,29 +222,24 @@ function formatUefaPlayerLine(entry) {
 }
 
 // side.field(선발 11명)만 사용 — 벤치(bench)는 기존 ESPN 컨벤션과 통일하기 위해 제외.
-// GK→DF→MF→FW 순으로 재정렬 (원본 UEFA 응답은 이 순서로 안 옴 — 실측 확인됨).
 function formatUefaLineupSide(side) {
   if (!side?.field) return [];
-  const sorted = [...side.field].sort((a, b) => {
-    const oa = POSITION_ORDER[a.player?.fieldPosition] ?? 99;
-    const ob = POSITION_ORDER[b.player?.fieldPosition] ?? 99;
-    return oa - ob;
+  const gk = side.field.find(e => e.player?.fieldPosition === 'GOALKEEPER');
+  const rows = classifyOutfieldRows(side.field);
+  const lines = [];
+  if (gk) lines.push(formatUefaPlayerLine(gk, 'G'));
+  rows.forEach((row, i) => {
+    const code = rowPositionCode(i, rows.length);
+    row.forEach(entry => lines.push(formatUefaPlayerLine(entry, code)));
   });
-  return sorted.map(formatUefaPlayerLine);
+  return lines;
 }
 
-// "4-4-2" 같은 포메이션 문자열 계산 (골키퍼 제외, DF/MF/FW 각 인원수)
-// ⚠️ 세부 라인(예: 진짜 4-2-3-1의 수비형MF/공격형MF 구분)까지는 UEFA 데이터로 구분이
-//    안 돼서 미드필더가 전부 한 줄로 뭉뚱그려질 수 있다(예: 4-5-1). 프론트엔드 피치
-//    배치에는 인원수만 맞으면 되므로 지장 없음.
+// "4-3-3" 같은 포메이션 문자열 (골키퍼 제외, 좌표 기반 줄 구성)
 function calcUefaFormation(side) {
   if (!side?.field) return '';
-  const counts = { DEFENDER: 0, MIDFIELDER: 0, FORWARD: 0 };
-  for (const entry of side.field) {
-    const pos = entry.player?.fieldPosition;
-    if (pos in counts) counts[pos]++;
-  }
-  return `${counts.DEFENDER}-${counts.MIDFIELDER}-${counts.FORWARD}`;
+  const rows = classifyOutfieldRows(side.field);
+  return rows.map(r => r.length).join('-');
 }
 
 export async function fetchUefaLineup(matchId) {
