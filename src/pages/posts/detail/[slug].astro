@@ -401,6 +401,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     const pos = m ? m[1] : '';
     if (!pos) return { pos: '', cls: '' };
     const upper = pos.toUpperCase();
+    // 농구는 "G"가 골키퍼(GK)가 아니라 가드(Guard) — 축구용 GK 라벨로 강제 치환하지 않고 그대로 표시
+    if (category === 'basketball' && upper === 'G') return { pos: 'G', cls: 'pos-mf' };
     if (upper === 'G' || upper === 'GK') return { pos: 'GK', cls: 'pos-gk' };
     if (upper.startsWith('CD') || upper === 'CB' || upper === 'LB' || upper === 'RB' || upper === 'WB') return { pos, cls: 'pos-df' };
     if (upper === 'F' || upper === 'FW' || upper === 'CF' || upper === 'ST') return { pos, cls: 'pos-fw' };
