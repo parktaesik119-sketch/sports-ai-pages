@@ -544802,6 +544802,19 @@
     "awayScore": 1
   },
   {
+    "id": "1583642",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies",
+    "date": "2026-07-07T09:30:00+00:00",
+    "home": "Myanmar U20",
+    "away": "Hong Kong, China U20",
+    "homeLogo": "https://media.api-sports.io/football/teams/25104.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/25096.png",
+    "homeScore": 2,
+    "awayScore": 0
+  },
+  {
     "id": "1560538",
     "sport": "soccer",
     "country": "World",
@@ -546886,7 +546899,7 @@
     "away": "El Paso Chihuahuas",
     "homeLogo": "https://media.api-sports.io/baseball/teams/81.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/49.png",
-    "homeScore": 0,
+    "homeScore": 5,
     "awayScore": 8
   },
   {
@@ -546899,8 +546912,8 @@
     "away": "Albuquerque Isotopes",
     "homeLogo": "https://media.api-sports.io/baseball/teams/593.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/38.png",
-    "homeScore": 2,
-    "awayScore": 4
+    "homeScore": 6,
+    "awayScore": 5
   },
   {
     "id": "179378",
@@ -546912,8 +546925,8 @@
     "away": "Los Angeles Angels",
     "homeLogo": "https://media.api-sports.io/baseball/teams/35.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/17.png",
-    "homeScore": 2,
-    "awayScore": 2
+    "homeScore": 8,
+    "awayScore": 3
   },
   {
     "id": "1513206",
@@ -546964,8 +546977,8 @@
     "away": "Laguna",
     "homeLogo": "https://media.api-sports.io/baseball/teams/809.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/285.png",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 9
   },
   {
     "id": "182858",
@@ -546977,8 +546990,8 @@
     "away": "Monclova",
     "homeLogo": "https://media.api-sports.io/baseball/teams/283.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/288.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "182860",
@@ -546991,7 +547004,7 @@
     "homeLogo": "https://media.api-sports.io/baseball/teams/914.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/293.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 6
   },
   {
     "id": "182863",
@@ -547005,6 +547018,19 @@
     "awayLogo": "https://media.api-sports.io/baseball/teams/291.png",
     "homeScore": null,
     "awayScore": null
+  },
+  {
+    "id": "182863",
+    "sport": "baseball",
+    "country": "Mexico",
+    "league": "LMB",
+    "date": "2026-07-08T01:00:00+00:00",
+    "home": "Oaxaca",
+    "away": "Veracruz",
+    "homeLogo": "https://media.api-sports.io/baseball/teams/291.png",
+    "awayLogo": "https://media.api-sports.io/baseball/teams/457.png",
+    "homeScore": 3,
+    "awayScore": 8
   },
   {
     "id": "1525275",
@@ -547042,8 +547068,8 @@
     "away": "Toros de Tijuana",
     "homeLogo": "https://media.api-sports.io/baseball/teams/281.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/297.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 9,
+    "awayScore": 4
   },
   {
     "id": "182856",
@@ -547055,8 +547081,8 @@
     "away": "Puebla",
     "homeLogo": "https://media.api-sports.io/baseball/teams/844.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/292.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 9
   },
   {
     "id": "182859",
@@ -547068,8 +547094,8 @@
     "away": "Monterrey",
     "homeLogo": "https://media.api-sports.io/baseball/teams/303.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/289.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 7
   },
   {
     "id": "182861",
@@ -547081,21 +547107,8 @@
     "away": "Caliente de Durango",
     "homeLogo": "https://media.api-sports.io/baseball/teams/294.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/933.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "182862",
-    "sport": "baseball",
-    "country": "Mexico",
-    "league": "LMB",
-    "date": "2026-07-08T01:30:00+00:00",
-    "home": "Tabasco",
-    "away": "Diablos Rojos",
-    "homeLogo": "https://media.api-sports.io/baseball/teams/296.png",
-    "awayLogo": "https://media.api-sports.io/baseball/teams/287.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "182864",
@@ -547107,8 +547120,8 @@
     "away": "Campeche",
     "homeLogo": "https://media.api-sports.io/baseball/teams/298.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/282.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "179381",
@@ -547120,8 +547133,8 @@
     "away": "Arizona Diamondbacks",
     "homeLogo": "https://media.api-sports.io/baseball/teams/30.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/2.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "175710",
@@ -547133,8 +547146,8 @@
     "away": "Salt Lake Bees",
     "homeLogo": "https://media.api-sports.io/baseball/teams/54.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/84.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 7,
+    "awayScore": 6
   },
   {
     "id": "1513197",
@@ -547185,8 +547198,8 @@
     "away": "Tacoma Rainiers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/80.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/86.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 9,
+    "awayScore": 5
   },
   {
     "id": "179385",
@@ -547198,8 +547211,21 @@
     "away": "Colorado Rockies",
     "homeLogo": "https://media.api-sports.io/baseball/teams/18.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/10.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
+  },
+  {
+    "id": "182862",
+    "sport": "baseball",
+    "country": "Mexico",
+    "league": "LMB",
+    "date": "2026-07-08T02:15:00+00:00",
+    "home": "Tabasco",
+    "away": "Diablos Rojos",
+    "homeLogo": "https://media.api-sports.io/baseball/teams/296.png",
+    "awayLogo": "https://media.api-sports.io/baseball/teams/287.png",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "1525130",
@@ -547287,8 +547313,8 @@
     "away": "Dalian Kewei",
     "homeLogo": "https://media.api-sports.io/football/teams/20674.png",
     "awayLogo": "https://media.api-sports.io/football/teams/27620.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "500242",
@@ -547300,8 +547326,8 @@
     "away": "Binan Tatak Gel",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7360.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7353.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 85,
+    "awayScore": 129
   },
   {
     "id": "panda-1575853",
@@ -547315,14 +547341,40 @@
     "awayScore": 0
   },
   {
-    "id": "panda-1575853",
+    "id": "1583646",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies",
+    "date": "2026-07-08T08:00:00+00:00",
+    "home": "Australia U17",
+    "away": "Nigeria U17",
+    "homeLogo": "https://media.api-sports.io/football/teams/12501.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/12516.png",
+    "homeScore": 4,
+    "awayScore": 2
+  },
+  {
+    "id": "1583647",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies",
+    "date": "2026-07-08T08:00:00+00:00",
+    "home": "Vietnam",
+    "away": "Yongin City",
+    "homeLogo": "https://media.api-sports.io/football/teams/1542.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/9171.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "panda-1575854",
     "sport": "lol",
     "league": "VCL",
-    "date": "2026-07-08T08:00:00Z",
-    "home": "No Salary Peek",
-    "away": "Yi-Jing",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/134148/917px_no_salary_peek_lightmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138905/e_king_2025_allmode.png",
+    "date": "2026-07-08T08:09:07Z",
+    "home": "555",
+    "away": "Fancy United",
+    "homeLogo": null,
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/130482/600px_fancy_united_esports_2022_allmode.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -547336,8 +547388,8 @@
     "away": "Mâcon",
     "homeLogo": "https://media.api-sports.io/football/teams/80.png",
     "awayLogo": "https://media.api-sports.io/football/teams/3277.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "1550532",
@@ -547349,8 +547401,8 @@
     "away": "Táborsko",
     "homeLogo": "https://media.api-sports.io/football/teams/3720.png",
     "awayLogo": "https://media.api-sports.io/football/teams/3726.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "1550533",
@@ -547362,8 +547414,8 @@
     "away": "Baník Ostrava",
     "homeLogo": "https://media.api-sports.io/football/teams/345.png",
     "awayLogo": "https://media.api-sports.io/football/teams/3713.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "1554780",
@@ -547375,8 +547427,8 @@
     "away": "Stade Lausanne-Ouchy",
     "homeLogo": "https://media.api-sports.io/football/teams/2184.png",
     "awayLogo": "https://media.api-sports.io/football/teams/4269.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "1554781",
@@ -547388,8 +547440,8 @@
     "away": "Hapoel Tel Aviv",
     "homeLogo": "https://media.api-sports.io/football/teams/603.png",
     "awayLogo": "https://media.api-sports.io/football/teams/4501.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "1560547",
@@ -547401,8 +547453,8 @@
     "away": "Soroksar",
     "homeLogo": "https://media.api-sports.io/football/teams/576.png",
     "awayLogo": "https://media.api-sports.io/football/teams/2404.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "1562885",
@@ -547414,8 +547466,8 @@
     "away": "Preußen Münster II",
     "homeLogo": "https://media.api-sports.io/football/teams/9373.png",
     "awayLogo": "https://media.api-sports.io/football/teams/14753.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "181091",
@@ -547427,8 +547479,8 @@
     "away": "Hanshin Tigers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/66.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/58.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "181093",
@@ -547440,8 +547492,8 @@
     "away": "Fukuoka S. Hawks",
     "homeLogo": "https://media.api-sports.io/baseball/teams/61.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/57.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "181094",
@@ -547453,8 +547505,8 @@
     "away": "Yakult Swallows",
     "homeLogo": "https://media.api-sports.io/baseball/teams/59.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/64.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "181095",
@@ -547466,8 +547518,8 @@
     "away": "Nippon Ham Fighters",
     "homeLogo": "https://media.api-sports.io/baseball/teams/55.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/60.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 7
   },
   {
     "id": "200983",
@@ -547492,20 +547544,34 @@
     "away": "Sparta Katowice",
     "homeLogo": "https://media.api-sports.io/football/teams/3495.png",
     "awayLogo": "https://media.api-sports.io/football/teams/22910.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
-    "id": "panda-1576763",
-    "sport": "lol",
-    "league": "European Pro League",
-    "date": "2026-07-08T09:00:00Z",
-    "home": "Spirit Academy",
-    "away": "summer bear",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137540/185px_team_spirit_academy_2021_lightmode.png",
-    "awayLogo": null,
+    "id": "1548790",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-08T09:00:00+00:00",
+    "home": "Górnik Łęczna",
+    "away": "Hetman Zamosc",
+    "homeLogo": "https://media.api-sports.io/football/teams/6941.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/12789.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
+  },
+  {
+    "id": "185744",
+    "sport": "baseball",
+    "country": "Europe",
+    "league": "Prague Baseball Week",
+    "date": "2026-07-08T09:00:00+00:00",
+    "home": "Croatia",
+    "away": "Switzerland",
+    "homeLogo": "https://media.api-sports.io/baseball/teams/507.png",
+    "awayLogo": "https://media.api-sports.io/baseball/teams/526.png",
+    "homeScore": 8,
+    "awayScore": 5
   },
   {
     "id": "181092",
@@ -547517,8 +547583,20 @@
     "away": "Chunichi Dragons",
     "homeLogo": "https://media.api-sports.io/baseball/teams/65.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/56.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
+  },
+  {
+    "id": "panda-1576763",
+    "sport": "lol",
+    "league": "European Pro League",
+    "date": "2026-07-08T09:28:52Z",
+    "home": "Spirit Academy",
+    "away": "summer bear",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137540/185px_team_spirit_academy_2021_lightmode.png",
+    "awayLogo": null,
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "1554790",
@@ -547530,8 +547608,8 @@
     "away": "Chrobry Głogów",
     "homeLogo": "https://media.api-sports.io/football/teams/348.png",
     "awayLogo": "https://media.api-sports.io/football/teams/3483.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "181090",
@@ -547543,8 +547621,8 @@
     "away": "Rakuten Gold. Eagles",
     "homeLogo": "https://media.api-sports.io/baseball/teams/63.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/62.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "181842",
@@ -547556,8 +547634,8 @@
     "away": "SSG Landers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/88.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/647.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 7,
+    "awayScore": 3
   },
   {
     "id": "181843",
@@ -547582,8 +547660,8 @@
     "away": "Kiwoom Heroes",
     "homeLogo": "https://media.api-sports.io/baseball/teams/91.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/92.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 3
   },
   {
     "id": "181845",
@@ -547595,8 +547673,8 @@
     "away": "KIA Tigers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/94.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/90.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 10,
+    "awayScore": 2
   },
   {
     "id": "181846",
@@ -547608,8 +547686,8 @@
     "away": "LG Twins",
     "homeLogo": "https://media.api-sports.io/baseball/teams/97.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/93.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 7
   },
   {
     "id": "1550536",
@@ -547621,8 +547699,8 @@
     "away": "Raków Częstochowa",
     "homeLogo": "https://media.api-sports.io/football/teams/600.png",
     "awayLogo": "https://media.api-sports.io/football/teams/3491.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "panda-1568896",
@@ -547646,8 +547724,8 @@
     "away": "Tensung",
     "homeLogo": "https://media.api-sports.io/football/teams/9426.png",
     "awayLogo": "https://media.api-sports.io/football/teams/5590.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "id": "1550534",
@@ -547659,8 +547737,8 @@
     "away": "Randers FC",
     "homeLogo": "https://media.api-sports.io/football/teams/402.png",
     "awayLogo": "https://media.api-sports.io/football/teams/401.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "1550535",
@@ -547672,8 +547750,8 @@
     "away": "Silkeborg",
     "homeLogo": "https://media.api-sports.io/football/teams/6004.png",
     "awayLogo": "https://media.api-sports.io/football/teams/2073.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "500243",
@@ -547685,6 +547763,32 @@
     "away": "Paranaque Patriots",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7374.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7367.png",
+    "homeScore": 84,
+    "awayScore": 74
+  },
+  {
+    "id": "1547922",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-08T10:00:00+00:00",
+    "home": "Piast Gliwice",
+    "away": "Miedz Legnica",
+    "homeLogo": "https://media.api-sports.io/football/teams/349.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/335.png",
+    "homeScore": 2,
+    "awayScore": 2
+  },
+  {
+    "id": "1523779",
+    "sport": "soccer",
+    "country": "Australia",
+    "league": "Northern NSW NPL",
+    "date": "2026-07-08T10:00:00+00:00",
+    "home": "Kahibah",
+    "away": "Maitland",
+    "homeLogo": "https://media.api-sports.io/football/teams/23502.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/10208.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -547723,8 +547827,8 @@
     "away": "Rakuten Monkeys",
     "homeLogo": "https://media.api-sports.io/baseball/teams/349.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/482.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "184148",
@@ -547736,8 +547840,8 @@
     "away": "Chinatrust Brothers",
     "homeLogo": "https://media.api-sports.io/baseball/teams/351.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/348.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "184149",
@@ -547749,21 +547853,20 @@
     "away": "TSG Hawks",
     "homeLogo": "https://media.api-sports.io/baseball/teams/569.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/915.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
-    "id": "1547922",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-08T11:00:00+00:00",
-    "home": "Piast Gliwice",
-    "away": "Miedz Legnica",
-    "homeLogo": "https://media.api-sports.io/football/teams/349.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/335.png",
-    "homeScore": null,
-    "awayScore": null
+    "id": "panda-1575853",
+    "sport": "lol",
+    "league": "VCL",
+    "date": "2026-07-08T10:51:42Z",
+    "home": "No Salary Peek",
+    "away": "Yi-Jing",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/134148/917px_no_salary_peek_lightmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138905/e_king_2025_allmode.png",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "200985",
@@ -547790,18 +547893,6 @@
     "awayScore": 0
   },
   {
-    "id": "panda-1575854",
-    "sport": "lol",
-    "league": "VCL",
-    "date": "2026-07-08T11:00:00Z",
-    "home": "555",
-    "away": "Fancy United",
-    "homeLogo": null,
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/130482/600px_fancy_united_esports_2022_allmode.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "1532768",
     "sport": "soccer",
     "country": "China",
@@ -547811,6 +547902,19 @@
     "away": "Jiangxi Liansheng",
     "homeLogo": "https://media.api-sports.io/football/teams/23270.png",
     "awayLogo": "https://media.api-sports.io/football/teams/5665.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "1583648",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies",
+    "date": "2026-07-08T11:35:00+00:00",
+    "home": "China PR U17",
+    "away": "Tanzania U17",
+    "homeLogo": "https://media.api-sports.io/football/teams/21449.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/25822.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -547824,19 +547928,6 @@
     "away": "Yverdon Sport",
     "homeLogo": "https://media.api-sports.io/football/teams/551.png",
     "awayLogo": "https://media.api-sports.io/football/teams/6653.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "1548790",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-08T12:00:00+00:00",
-    "home": "Górnik Łęczna",
-    "away": "Hetman Zamosc",
-    "homeLogo": "https://media.api-sports.io/football/teams/6941.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/12789.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -547889,8 +547980,8 @@
     "away": "Vendsyssel FF",
     "homeLogo": "https://media.api-sports.io/football/teams/4676.png",
     "awayLogo": "https://media.api-sports.io/football/teams/399.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "1560549",
@@ -547902,34 +547993,8 @@
     "away": "MSV Duisburg",
     "homeLogo": "https://media.api-sports.io/football/teams/413.png",
     "awayLogo": "https://media.api-sports.io/football/teams/187.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "1567566",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-08T12:00:00+00:00",
-    "home": "Oleksandria",
-    "away": "Inhulets",
-    "homeLogo": "https://media.api-sports.io/football/teams/3619.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/3625.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "1567567",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-08T12:00:00+00:00",
-    "home": "Świt Skolwin",
-    "away": "Kluczevia Stargard",
-    "homeLogo": "https://media.api-sports.io/football/teams/12902.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/17398.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "500244",
@@ -547941,8 +548006,8 @@
     "away": "Pasay Voyagers",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7882.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7368.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 4
   },
   {
     "id": "panda-1576764",
@@ -547957,10 +548022,23 @@
     "awayScore": 0
   },
   {
+    "id": "1560541",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-08T12:00:00+00:00",
+    "home": "Brinje-Grosuplje",
+    "away": "Uta Arad",
+    "homeLogo": "https://media.api-sports.io/football/teams/12744.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/2589.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "panda-1576764",
     "sport": "lol",
     "league": "European Pro League",
-    "date": "2026-07-08T12:00:00Z",
+    "date": "2026-07-08T12:06:34Z",
     "home": "Ilbirs eSports",
     "away": "Hive",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137657/566px_ilbirs_e_sports_allmode.png",
@@ -547991,6 +548069,32 @@
     "away": "Canada W",
     "homeLogo": "https://media.api-sports.io/volley/teams/2218.png",
     "awayLogo": "https://media.api-sports.io/volley/teams/2217.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "185745",
+    "sport": "baseball",
+    "country": "Europe",
+    "league": "Prague Baseball Week",
+    "date": "2026-07-08T12:30:00+00:00",
+    "home": "Czech Republic",
+    "away": "Germany",
+    "homeLogo": "https://media.api-sports.io/baseball/teams/508.png",
+    "awayLogo": "https://media.api-sports.io/baseball/teams/511.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1567566",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-08T13:00:00+00:00",
+    "home": "Oleksandria",
+    "away": "Inhulets",
+    "homeLogo": "https://media.api-sports.io/football/teams/3619.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/3625.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -548137,11 +548241,24 @@
     "awayScore": null
   },
   {
+    "id": "185746",
+    "sport": "baseball",
+    "country": "Europe",
+    "league": "Prague Baseball Week",
+    "date": "2026-07-08T14:00:00+00:00",
+    "home": "Belgium",
+    "away": "Slovakia",
+    "homeLogo": "https://media.api-sports.io/baseball/teams/505.png",
+    "awayLogo": "https://media.api-sports.io/baseball/teams/523.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "1554798",
     "sport": "soccer",
     "country": "World",
     "league": "Friendlies Clubs",
-    "date": "2026-07-08T14:00:00+00:00",
+    "date": "2026-07-08T14:30:00+00:00",
     "home": "Farul Constanta",
     "away": "Cherno More Varna",
     "homeLogo": "https://media.api-sports.io/football/teams/2596.png",
@@ -548379,6 +548496,19 @@
     "away": "Netherlands",
     "homeLogo": "https://media.api-sports.io/volley/teams/2255.png",
     "awayLogo": "https://media.api-sports.io/volley/teams/2206.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1567567",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-08T15:30:00+00:00",
+    "home": "Świt Skolwin",
+    "away": "Kluczevia Stargard",
+    "homeLogo": "https://media.api-sports.io/football/teams/12902.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/17398.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -548794,19 +548924,6 @@
     "awayScore": null
   },
   {
-    "id": "1550540",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-08T16:30:00+00:00",
-    "home": "SG Sonnenhof Grossaspach",
-    "away": "CFR Pforzheim",
-    "homeLogo": "https://media.api-sports.io/football/teams/1317.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/1659.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "1554804",
     "sport": "soccer",
     "country": "World",
@@ -548842,6 +548959,32 @@
     "away": "Optik Rathenow",
     "homeLogo": "https://media.api-sports.io/football/teams/12809.png",
     "awayLogo": "https://media.api-sports.io/football/teams/9356.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1554812",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-08T16:30:00+00:00",
+    "home": "Spartak Moscow",
+    "away": "Rubin",
+    "homeLogo": "https://media.api-sports.io/football/teams/558.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/1083.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1550540",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-08T17:00:00+00:00",
+    "home": "SG Sonnenhof Grossaspach",
+    "away": "CFR Pforzheim",
+    "homeLogo": "https://media.api-sports.io/football/teams/1317.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/1659.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -548989,6 +549132,32 @@
     "awayScore": null
   },
   {
+    "id": "1583659",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Women",
+    "date": "2026-07-08T17:00:00+00:00",
+    "home": "Egypt W",
+    "away": "Senegal W",
+    "homeLogo": "https://media.api-sports.io/football/teams/19417.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/18262.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "185747",
+    "sport": "baseball",
+    "country": "Europe",
+    "league": "Prague Baseball Week",
+    "date": "2026-07-08T17:00:00+00:00",
+    "home": "Chinese Taipei",
+    "away": "Netherlands",
+    "homeLogo": "https://media.api-sports.io/baseball/teams/486.png",
+    "awayLogo": "https://media.api-sports.io/baseball/teams/518.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "176893",
     "sport": "baseball",
     "country": "USA",
@@ -549060,19 +549229,6 @@
     "away": "Fortuna Düsseldorf",
     "homeLogo": "https://media.api-sports.io/football/teams/19466.png",
     "awayLogo": "https://media.api-sports.io/football/teams/158.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "1554812",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-08T17:30:00+00:00",
-    "home": "Spartak Moscow",
-    "away": "Rubin",
-    "homeLogo": "https://media.api-sports.io/football/teams/558.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/1083.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -549418,8 +549574,8 @@
     "away": "Round Rock Express",
     "homeLogo": "https://media.api-sports.io/baseball/teams/82.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/83.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 9,
+    "awayScore": 14
   },
   {
     "id": "1562887",
@@ -549457,8 +549613,8 @@
     "away": "Toronto Blue Jays",
     "homeLogo": "https://media.api-sports.io/baseball/teams/31.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/36.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 9
   },
   {
     "id": "1493895",
@@ -550201,6 +550357,19 @@
     "awayScore": null
   },
   {
+    "id": "1544673",
+    "sport": "soccer",
+    "country": "Canada",
+    "league": "Canadian Championship",
+    "date": "2026-07-08T23:00:00+00:00",
+    "home": "Supra du Quebec",
+    "away": "Atlético Ottawa",
+    "homeLogo": "https://media.api-sports.io/football/teams/27461.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/10169.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "176897",
     "sport": "baseball",
     "country": "USA",
@@ -550574,6 +550743,19 @@
     "away": "Caliente de Durango",
     "homeLogo": "https://media.api-sports.io/baseball/teams/294.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/933.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1583233",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-09T00:00:00+00:00",
+    "home": "Boca Juniors",
+    "away": "Atletico Paranaense",
+    "homeLogo": "https://media.api-sports.io/football/teams/451.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/134.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -551061,8 +551243,9 @@
     "sport": "lol",
     "league": "VCL",
     "date": "2026-07-09T08:00:00Z",
-    "home": "TBD",
+    "home": "555",
     "away": "TBD",
+    "homeLogo": null,
     "homeScore": 0,
     "awayScore": 0
   },
@@ -551078,6 +551261,16 @@
     "awayLogo": "https://media.api-sports.io/basketball/teams/56.png",
     "homeScore": null,
     "awayScore": null
+  },
+  {
+    "id": "panda-1577262",
+    "sport": "lol",
+    "league": "RES Showdown",
+    "date": "2026-07-09T09:00:00Z",
+    "home": "TBD",
+    "away": "TBD",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "panda-1574635",
@@ -551450,6 +551643,19 @@
     "away": "GenSan Warriors",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7373.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7357.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1583234",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-09T12:00:00+00:00",
+    "home": "OFK Beograd",
+    "away": "Buducnost Podgorica",
+    "homeLogo": "https://media.api-sports.io/football/teams/2633.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/579.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -552471,6 +552677,19 @@
     "awayScore": null
   },
   {
+    "id": "1583660",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Women",
+    "date": "2026-07-09T22:00:00+00:00",
+    "home": "United States U20 W",
+    "away": "England U20 W",
+    "homeLogo": "https://media.api-sports.io/football/teams/19091.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/27219.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "501849",
     "sport": "basketball",
     "country": "Paraguay",
@@ -552772,8 +552991,9 @@
     "sport": "lol",
     "league": "VCL",
     "date": "2026-07-10T08:00:00Z",
-    "home": "TBD",
+    "home": "Fancy United",
     "away": "TBD",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/130482/600px_fancy_united_esports_2022_allmode.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -552798,6 +553018,16 @@
     "away": "AG Super Play",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/135058/600px_jd_gaming_2021_allmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/129030/190px_all_gamers_logo.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1577266",
+    "sport": "lol",
+    "league": "RES Showdown",
+    "date": "2026-07-10T13:00:00Z",
+    "home": "TBD",
+    "away": "TBD",
     "homeScore": 0,
     "awayScore": 0
   },
