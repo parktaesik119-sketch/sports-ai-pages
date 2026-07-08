@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 D. Martin (9-3, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
+homeLineup: "[\"선발투수 D. Martin (9-3, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\",\"1번 M. Vargas (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"2번 R. Grichuk (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31399.png\",\"3번 C. Montgomery (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\",\"4번 C. Meidroth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5136929.png\",\"5번 S. Antonacci (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5207167.png\",\"6번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"7번 J. Perez (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42471.png\",\"8번 K. Teel (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4743772.png\",\"9번 L. Acuna (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42411.png\"]"
 awayLineup: "[\"선발투수 J. Bennett (3-3, 3.10) ERA 3.10|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\"]"
 ---
