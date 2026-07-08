@@ -112,9 +112,20 @@ export function findUefaMatch(matches, homeTeamEn, awayTeamEn) {
     || null;
 }
 
-// match.date(api-sports, UTC ISO) → 'YYYY-MM-DD' (UTC 기준, UEFA fromDate/toDate 파라미터용)
+// match.date(api-sports, UTC ISO) → 'YYYY-MM-DD' (UTC 기준)
+// ⚠️ 이건 순수 UTC 날짜 변환용이고, UEFA API 쿼리 파라미터용이 아니다.
 export function toUtcDateStr(isoDateStr) {
   return new Date(isoDateStr).toISOString().slice(0, 10);
+}
+
+// match.date(api-sports, UTC ISO) → 'YYYY-MM-DD' (KST 기준)
+// ⚠️ fetchUefaMatches()의 fromDate/toDate는 utcOffset=9와 함께 쓰이는데, 이때 UEFA API는
+//    fromDate/toDate를 "KST 달력 기준 날짜"로 해석한다(실측 확인: 브라우저에서 "Wed 8 Jul"
+//    탭을 선택했을 때 캡처된 URL의 fromDate/toDate가 화면에 보이는 KST 날짜 그대로였음).
+//    UTC 날짜를 그대로 넣으면 늦은 시간대 킥오프 경기가 조회 범위 밖으로 빠져 매칭 실패가 난다.
+export function toKstDateStr(isoDateStr) {
+  const kst = new Date(new Date(isoDateStr).getTime() + 9 * 60 * 60 * 1000);
+  return kst.toISOString().slice(0, 10);
 }
 
 // ─────────────────────────────────────────────

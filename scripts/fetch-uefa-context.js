@@ -21,7 +21,7 @@ import {
   fetchUefaMatches,
   findUefaMatch,
   fetchUefaLineup,
-  toUtcDateStr,
+  toKstDateStr,
 } from './uefa-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -66,36 +66,36 @@ async function main() {
     return;
   }
 
-  const scheduleCache = {}; // key: `${competitionId}:${utcDate}` -> fetchUefaMatches() 결과
+  const scheduleCache = {}; // key: `${competitionId}:${kstDate}` -> fetchUefaMatches() 결과
   const results = [];
   let okCount = 0, skipCount = 0;
 
   for (const match of pendingMatches) {
     const competitionId = LEAGUE_TO_COMPETITION_ID[match.league];
-    const utcDate = match.date ? toUtcDateStr(match.date) : null;
+    const kstDate = match.date ? toKstDateStr(match.date) : null;
 
-    if (!utcDate) {
+    if (!kstDate) {
       console.log(`⚠️ [date 파싱 실패] ${match.home} vs ${match.away}`);
       skipCount++;
       continue;
     }
 
-    const cacheKey = `${competitionId}:${utcDate}`;
+    const cacheKey = `${competitionId}:${kstDate}`;
     if (!scheduleCache[cacheKey]) {
-      console.log(`📡 UEFA 일정 조회: ${utcDate} (competitionId=${competitionId})`);
+      console.log(`📡 UEFA 일정 조회: ${kstDate} (competitionId=${competitionId})`);
       scheduleCache[cacheKey] = await fetchUefaMatches({
         competitionId,
-        fromDate: utcDate,
-        toDate: utcDate,
+        fromDate: kstDate,
+        toDate: kstDate,
       }).catch(err => {
-        console.error(`❌ UEFA 일정 조회 실패 (${utcDate}):`, err.message);
+        console.error(`❌ UEFA 일정 조회 실패 (${kstDate}):`, err.message);
         return [];
       });
     }
 
     const matched = findUefaMatch(scheduleCache[cacheKey], match.home, match.away);
     if (!matched) {
-      console.log(`⚠️ [매칭 실패] ${match.home} vs ${match.away} (${utcDate}) — UEFA.com 일정에서 대응하는 경기를 못 찾음`);
+      console.log(`⚠️ [매칭 실패] ${match.home} vs ${match.away} (${kstDate}) — UEFA.com 일정에서 대응하는 경기를 못 찾음`);
       console.log(`   → 팀명 표기 차이이거나, api-sports 데이터가 실제 UEFA.com 정보와 다를 수 있음`);
       skipCount++;
       continue;

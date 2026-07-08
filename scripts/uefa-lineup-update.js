@@ -16,7 +16,7 @@ import {
   UEFA_COMPETITION_ID,
   fetchUefaMatches,
   findUefaMatch,
-  toUtcDateStr,
+  toKstDateStr,
   fetchUefaLineup,
 } from './uefa-common.js';
 
@@ -154,31 +154,31 @@ async function main() {
   console.log(`🎯 대상 파일: ${targets.length}건`);
 
   // 날짜(UTC)+대회 단위로 일정을 캐싱해서 중복 호출 방지
-  const scheduleCache = {}; // key: `${competitionId}:${utcDate}` -> fetchUefaMatches() 결과
+  const scheduleCache = {}; // key: `${competitionId}:${kstDate}` -> fetchUefaMatches() 결과
   let updatedCount = 0;
   let skipCount    = 0;
 
   for (const { filePath, fm, competitionId } of targets) {
     const homeTeamEn = toEnglishTeamName(fm.homeTeam || '');
     const awayTeamEn = toEnglishTeamName(fm.awayTeam || '');
-    const utcDate    = fm.date ? toUtcDateStr(fm.date) : null;
+    const kstDate    = fm.date ? toKstDateStr(fm.date) : null;
 
     console.log(`\n🔍 ${path.basename(filePath)}`);
-    console.log(`   홈: ${fm.homeTeam} → ${homeTeamEn} / 원정: ${fm.awayTeam} → ${awayTeamEn} / 경기일(UTC): ${utcDate}`);
+    console.log(`   홈: ${fm.homeTeam} → ${homeTeamEn} / 원정: ${fm.awayTeam} → ${awayTeamEn} / 경기일(KST): ${kstDate}`);
 
-    if (!utcDate) {
+    if (!kstDate) {
       console.log(`   ⚠️ date 필드 파싱 실패 — 스킵`);
       skipCount++;
       continue;
     }
 
-    const cacheKey = `${competitionId}:${utcDate}`;
+    const cacheKey = `${competitionId}:${kstDate}`;
     if (!scheduleCache[cacheKey]) {
-      console.log(`   📡 UEFA 일정 조회: ${utcDate} (competitionId=${competitionId})`);
+      console.log(`   📡 UEFA 일정 조회: ${kstDate} (competitionId=${competitionId})`);
       scheduleCache[cacheKey] = await fetchUefaMatches({
         competitionId,
-        fromDate: utcDate,
-        toDate: utcDate,
+        fromDate: kstDate,
+        toDate: kstDate,
       }).catch(err => {
         console.error(`   ❌ UEFA 일정 조회 실패:`, err.message);
         return [];
