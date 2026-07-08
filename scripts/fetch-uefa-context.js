@@ -102,12 +102,15 @@ async function main() {
     }
 
     // 이 시점엔 대개 라인업 미발표지만, 혹시 이미 나와 있으면 같이 수집
-    let lineup = null;
-    if (AVAILABLE_LINEUP_STATUSES.includes(matched.lineupStatus)) {
-      lineup = await fetchUefaLineup(matched.id).catch(err => {
-        console.error(`❌ UEFA 라인업 조회 실패 (matchId ${matched.id}):`, err.message);
-        return null;
-      });
+    // ⚠️ matched.lineupStatus(일정 목록 API의 값)는 신뢰할 수 없음이 실측 확인됨(경기가
+    //    끝난 뒤에도 NOT_AVAILABLE로 고정). 게이트 없이 일단 호출해보고 응답 자체의
+    //    lineupStatus로 판단한다.
+    let lineup = await fetchUefaLineup(matched.id).catch(err => {
+      console.error(`❌ UEFA 라인업 조회 실패 (matchId ${matched.id}):`, err.message);
+      return null;
+    });
+    if (lineup && !AVAILABLE_LINEUP_STATUSES.includes(lineup.lineupStatus)) {
+      lineup = null; // 아직 미발표 — null로 남겨서 uefa-lineup-update.js가 나중에 채우도록 함
     }
 
     results.push({
@@ -123,7 +126,7 @@ async function main() {
         ? { name: matched.stadium.name ?? null, city: matched.stadium.city ?? null }
         : null,
       referees: (matched.referees || []).map(r => ({ role: r.role ?? null, name: r.internationalName ?? null })),
-      lineupStatus: matched.lineupStatus,
+      lineupStatus: lineup?.lineupStatus ?? matched.lineupStatus, // 라인업 API 응답값이 있으면 그걸 우선 신뢰
       lineup, // null이면 아직 미발표 (uefa-lineup-update.js가 나중에 채움)
     });
 

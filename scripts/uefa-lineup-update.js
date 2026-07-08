@@ -193,22 +193,25 @@ async function main() {
       continue;
     }
 
-    console.log(`   ✅ 매칭 성공 (matchId: ${matched.id}, lineupStatus: ${matched.lineupStatus})`);
+    console.log(`   ✅ 매칭 성공 (matchId: ${matched.id})`);
 
-    // 실측 확인됨: 라인업 준비되면 lineupStatus가 "TACTICAL_AVAILABLE"로 바뀐다
-    // (matchId 2048621, Sabah vs The New Saints 경기로 확인, 2026-07-07)
+    // ⚠️ matched.lineupStatus(일정 목록 API의 값)는 신뢰할 수 없다 — 실측 결과, 경기가
+    //    이미 끝난 뒤에도 계속 "NOT_AVAILABLE"로 고정되어 있었다(matchId 2048621 확인,
+    //    2026-07-08). 실제 정확한 값은 라인업 API(fetchUefaLineup) 자체 응답에만 있으므로,
+    //    게이트를 걸지 않고 일단 호출해본 뒤 그 응답의 lineupStatus로 판단한다.
     const AVAILABLE_LINEUP_STATUSES = ['TACTICAL_AVAILABLE', 'CONFIRMED', 'AVAILABLE'];
-    if (!AVAILABLE_LINEUP_STATUSES.includes(matched.lineupStatus)) {
-      console.log(`   ⏭️ 아직 라인업 미발표 (lineupStatus: ${matched.lineupStatus})`);
-      skipCount++;
-      continue;
-    }
 
     let lineup;
     try {
       lineup = await fetchUefaLineup(matched.id);
     } catch (err) {
-      console.log(`   ⚠️ 라인업 조회 미구현/실패: ${err.message}`);
+      console.log(`   ⚠️ 라인업 조회 실패: ${err.message}`);
+      skipCount++;
+      continue;
+    }
+
+    if (!AVAILABLE_LINEUP_STATUSES.includes(lineup.lineupStatus)) {
+      console.log(`   ⏭️ 아직 라인업 미발표 (lineupStatus: ${lineup.lineupStatus})`);
       skipCount++;
       continue;
     }
