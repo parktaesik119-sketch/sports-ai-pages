@@ -22,6 +22,24 @@ export const UEFA_COMPETITION_ID = {
 // ("L. Red Imps")이 서로 다른 표기 방식(약칭/풀네임/발음기호/접미사)을 쓰기 때문에,
 // 정확히 일치시키는 대신 "정규화 후 토큰 겹침" 방식으로 매칭한다.
 // ─────────────────────────────────────────────
+// ─────────────────────────────────────────────
+// 팀명 별칭 테이블
+// 퍼지 매칭(토큰 겹침/편집거리)으로는 절대 못 잡는 예외 케이스를 위한 수동 매핑.
+// - 개명: api-sports가 구단 개명을 아직 반영 안 한 경우 (예: Saburtalo → Iberia Tbilisi, 2026년 개명)
+// - 이니셜 표기: UEFA.com이 정식명 대신 이니셜만 쓰는 경우 (예: Rīgas FS → RFS)
+//   ⚠️ "RFS"는 "Riga FC"(다른 라트비아 클럽, api-sports에선 "Riga")와는 별개의 클럽이므로
+//      절대 "Riga"와 혼동해서 별칭 처리하면 안 됨.
+// 키/값 모두 normalizeTeamName()을 거친 정규화 문자열로 등록한다.
+// ─────────────────────────────────────────────
+const TEAM_ALIASES = {
+  'saburtalo': 'iberia tbilisi', // Saburtalo Tbilisi → FC Iberia 1999 (2026년 개명, UEFA는 "Iberia Tbilisi")
+  'rigas fs': 'rfs',             // Rīgas Futbola skola, UEFA.com은 이니셜만 표기
+};
+
+function resolveAlias(normalized) {
+  return TEAM_ALIASES[normalized] || normalized;
+}
+
 function normalizeTeamName(name) {
   if (!name) return '';
   return name
@@ -53,8 +71,17 @@ function levenshtein(a, b) {
 }
 
 export function teamNamesMatch(a, b) {
-  const tokensA = teamTokens(a);
-  const tokensB = teamTokens(b);
+  // 별칭 해석을 먼저 적용 (개명/이니셜 표기 등 알고리즘으로 못 잡는 케이스)
+  const na = resolveAlias(normalizeTeamName(a));
+  const nb = resolveAlias(normalizeTeamName(b));
+  if (na && nb && na === nb) return true;
+  if (!na || !nb) return false;
+
+  // ⚠️ 토큰화는 반드시 별칭 해석 "이후" 문자열(na/nb)로 해야 한다.
+  // 원본 문자열로 토큰화하면 "Riga"(Riga FC)와 "Rīgas FS"(RFS, 다른 클럽)가
+  // 편집거리 fallback에서 "riga"↔"rigas"로 오매칭되는 사고가 난다.
+  const tokensA = na.split(' ').filter(t => t.length >= 3);
+  const tokensB = nb.split(' ').filter(t => t.length >= 3);
   if (!tokensA.length || !tokensB.length) return false;
   const [shorter, longer] = tokensA.length <= tokensB.length ? [tokensA, tokensB] : [tokensB, tokensA];
   // 짧은 쪽 토큰이 전부 긴 쪽에 있으면 강한 매칭
