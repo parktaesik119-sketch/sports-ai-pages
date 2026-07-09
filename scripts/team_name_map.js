@@ -166,7 +166,7 @@ const TEAM_NAME_MAP = {
   "PEC Zwolle": "PEC 즈볼러",
   "PSV Eindhoven": "PSV 에인트호번",
   "Sparta Rotterdam": "스파르타 로테르담",
-  "Twente": "트벤테",
+  "Twente": "트벤터",
   "Utrecht": "위트레흐트",
   "Waalwijk": "발베이크",
   "Willem II": "빌럼 II",
@@ -1425,6 +1425,7 @@ const TEAM_NAME_MAP = {
   "Aluminij": "알루미니",
   "Vojvodina": "보이보디나",
   "Ferencvarosi TC": "페렌츠바로시",
+
 
 
 
