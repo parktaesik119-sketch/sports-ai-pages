@@ -51,6 +51,9 @@ async function main() {
   // 날짜 > 종목 > 리그 3단 그룹핑
   // grouped['26.07.08']['야구']['MLB'] = ['<a...>팀A vs 팀B</a>', ...]
   const grouped = {};
+  // 리그명 옆에 국가명을 붙이기 위한 매핑. 같은 리그는 항상 같은 국가라고 가정하고
+  // 처음 등장한 글의 country 값을 기준으로 삼는다.
+  const leagueCountry = {};
 
   for (const filePath of files) {
     const content = fs.readFileSync(filePath, 'utf-8');
@@ -59,6 +62,7 @@ async function main() {
     const date = parseFrontmatterField(content, 'date');
     const category = parseFrontmatterField(content, 'category') || 'etc';
     const league = parseFrontmatterField(content, 'league') || ''; // 없으면 리그 소제목 생략
+    const country = parseFrontmatterField(content, 'country') || '';
     const slug = parseFrontmatterField(content, 'slug');
     if (!homeTeam || !awayTeam) continue;
 
@@ -68,6 +72,7 @@ async function main() {
     if (!grouped[dateLabel]) grouped[dateLabel] = {};
     if (!grouped[dateLabel][sportLabel]) grouped[dateLabel][sportLabel] = {};
     if (!grouped[dateLabel][sportLabel][league]) grouped[dateLabel][sportLabel][league] = [];
+    if (league && country && !leagueCountry[league]) leagueCountry[league] = country;
 
     // 날짜는 이미 상위 헤더로 빠졌으니 경기 줄에서는 제거
     const lineText = `${escapeHtml(homeTeam)} vs ${escapeHtml(awayTeam)}`;
@@ -88,7 +93,10 @@ async function main() {
       const leagueBlocks = Object.keys(leagues).map(league => {
         const matches = leagues[league];
         // league 필드가 없던 글은 리그 소제목 없이 경기 목록만
-        return league ? [`<b>${league}</b>`, ...matches].join('\n') : matches.join('\n');
+        if (!league) return matches.join('\n');
+        const country = leagueCountry[league];
+        const leagueLabel = country ? `${country} ${league}` : league;
+        return [`<b>${leagueLabel}</b>`, ...matches].join('\n');
       });
       return [`<b>${sportLabel}</b>`, leagueBlocks.join('\n\n')].join('\n');
     });
