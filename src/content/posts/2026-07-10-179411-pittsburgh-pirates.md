@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 M. Keller (6-6, 5.02) ERA 5.02|https://a.espncdn.com/i/headshots/mlb/players/full/33722.png\"]"
-awayLineup: "[\"선발투수 B. Elder (5-6, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\"]"
+awayLineup: "[\"선발투수 B. Elder (5-6, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\",\"1번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"2번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 D. Baldwin (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"5번 M. Dubon (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"6번 D. Smith (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33218.png\",\"7번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"8번 M. Yastrzemski (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"9번 J. Jarvis (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5205951.png\"]"
 ---
