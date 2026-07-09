@@ -97,8 +97,9 @@ export const EXACT_LEAGUE_MAP = {
   // 공통
   "World Cup": "월드컵",
   "Champions League": "챔피언스리그",
-  "Europa Conference League": "컨퍼런스리그",
-  "UEFA Europa Conference League": "컨퍼런스리그",
+  "Europa Conference League": "UEFA 컨퍼런스리그",
+  "UEFA Europa Conference League": "UEFA 컨퍼런스리그",
+  "UEFA Europa League": "UEFA 유로파리그",
   "Friendly International": "국가대표 친선경기",
   "Friendly International Women": "국가대표 친선경기 여자부",
 };
