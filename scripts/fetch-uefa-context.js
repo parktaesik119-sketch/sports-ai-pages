@@ -1,5 +1,5 @@
 // scripts/fetch-uefa-context.js
-// api-sports 등으로 만든 오늘자 database/{date}.json을 읽어서, UEFA 주관 대회(챔스·컨퍼런스리그)
+// api-sports 등으로 만든 오늘자 database/{date}.json을 읽어서, UEFA 주관 대회(챔스·컨퍼런스리그·유로파리그)
 // 경기에 한해 match.uefa.com에서 경기장/심판/라운드 정보를 수집,
 // database/uefa-context-{date}.json 으로 저장합니다.
 //
@@ -12,6 +12,9 @@
 //
 // ⚠️ league 문자열은 api-sports 원본 기준입니다. 챔스 "UEFA Champions League",
 //    컨퍼런스리그 "UEFA Europa Conference League" 둘 다 실측 확인됐습니다.
+//    유로파리그는 "UEFA Europa League"로 가정해서 등록했으나, 아직 api-sports 원본
+//    database/{date}.json으로 실측 확인은 안 됐습니다 — 처음 유로파리그 경기가 들어오면
+//    league 필드값을 한 번 확인해볼 것.
 
 import fs from 'fs';
 import path from 'path';
@@ -28,10 +31,14 @@ import {
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
 
-// api-sports 원본 league 문자열 → UEFA competitionId (둘 다 실측 확인됨)
+// api-sports 원본 league 문자열 → UEFA competitionId
+// ⚠️ 챔스/컨퍼런스리그 문자열은 실측 확인됨. 유로파리그는 UEFA.com 쪽 competitionId(14)만
+//    실측 확인됐고, api-sports가 실제로 이 문자열("UEFA Europa League") 그대로 주는지는
+//    아직 database/{date}.json 원본으로 재확인 안 됨 — 다르면 이 키만 고치면 된다.
 const LEAGUE_TO_COMPETITION_ID = {
   'UEFA Champions League': UEFA_COMPETITION_ID.UCL,
   'UEFA Europa Conference League': UEFA_COMPETITION_ID.UECL,
+  'UEFA Europa League': UEFA_COMPETITION_ID.UEL,
 };
 
 const AVAILABLE_LINEUP_STATUSES = ['TACTICAL_AVAILABLE', 'CONFIRMED', 'AVAILABLE'];

@@ -2,9 +2,9 @@
 // UEFA 주관 대회(챔피언스리그 등)는 ESPN 커버리지가 예선전에서는 라인업을 안 주는 경우가 많아
 // UEFA 공식 API(match.uefa.com)에서 직접 일정/매치ID를 확보해 라인업을 채워넣는 스크립트.
 //
-// ⚠️ 현재는 SUPPORTED_LEAGUES에 등록된 대회(챔피언스리그)만 지원한다.
-//    컨퍼런스리그/유로파리그는 competitionId가 아직 확인 안 됐음 — 확인되는 대로
-//    SUPPORTED_LEAGUES에 한 줄 추가하면 바로 지원된다.
+// ⚠️ 현재는 SUPPORTED_LEAGUES에 등록된 대회(챔피언스리그·컨퍼런스리그·유로파리그)만 지원한다.
+//    다른 대항전이 추가로 필요하면 competitionId 확인 후 SUPPORTED_LEAGUES에 한 줄만
+//    추가하면 바로 지원된다.
 // ⚠️ 확정 라인업(선발 11명) 조회 자체는 uefa-common.js의 fetchUefaLineup()이 아직
 //    미구현 상태(엔드포인트 미확인)라, 이 스크립트는 지금은 "매치 매칭 + lineupStatus
 //    확인"까지만 동작하고 실제 라인업 반영은 fetchUefaLineup()이 채워지는 대로 활성화된다.
@@ -25,10 +25,10 @@ const __dirname  = path.dirname(__filename);
 const POSTS_DIR  = path.resolve(__dirname, '../src/content/posts');
 
 // frontmatter의 한글 league 표기 → UEFA competitionId
-// (유로파리그 competitionId 확인되면 여기에 한 줄 더 추가)
 const SUPPORTED_LEAGUES = {
   'UEFA 챔피언스리그': UEFA_COMPETITION_ID.UCL,
   'UEFA 컨퍼런스리그': UEFA_COMPETITION_ID.UECL,
+  'UEFA 유로파리그': UEFA_COMPETITION_ID.UEL, // competitionId=14 실측 확인됨 (matchId 2048650)
 };
 
 // ─────────────────────────────────────────────

@@ -14,6 +14,7 @@ const MATCH_API_BASE = 'https://match.uefa.com/v5';
 export const UEFA_COMPETITION_ID = {
   UCL: '1',     // UEFA Champions League
   UECL: '2019', // UEFA Conference League (실측 확인됨)
+  UEL: '14',    // UEFA Europa League (실측 확인됨, matchId 2048650)
 };
 
 // ─────────────────────────────────────────────
