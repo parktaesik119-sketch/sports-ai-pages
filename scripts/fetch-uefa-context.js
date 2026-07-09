@@ -11,10 +11,8 @@
 //    나중에 별도로 채움). 그래도 혹시 이미 나와 있으면(당일 늦게 도는 경우 등) 같이 담아둡니다.
 //
 // ⚠️ league 문자열은 api-sports 원본 기준입니다. 챔스 "UEFA Champions League",
-//    컨퍼런스리그 "UEFA Europa Conference League" 둘 다 실측 확인됐습니다.
-//    유로파리그는 "UEFA Europa League"로 가정해서 등록했으나, 아직 api-sports 원본
-//    database/{date}.json으로 실측 확인은 안 됐습니다 — 처음 유로파리그 경기가 들어오면
-//    league 필드값을 한 번 확인해볼 것.
+//    컨퍼런스리그 "UEFA Europa Conference League", 유로파리그 "UEFA Europa League"
+//    모두 실측 확인됐습니다.
 
 import fs from 'fs';
 import path from 'path';
@@ -31,10 +29,7 @@ import {
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
 
-// api-sports 원본 league 문자열 → UEFA competitionId
-// ⚠️ 챔스/컨퍼런스리그 문자열은 실측 확인됨. 유로파리그는 UEFA.com 쪽 competitionId(14)만
-//    실측 확인됐고, api-sports가 실제로 이 문자열("UEFA Europa League") 그대로 주는지는
-//    아직 database/{date}.json 원본으로 재확인 안 됨 — 다르면 이 키만 고치면 된다.
+// api-sports 원본 league 문자열 → UEFA competitionId (셋 다 실측 확인됨)
 const LEAGUE_TO_COMPETITION_ID = {
   'UEFA Champions League': UEFA_COMPETITION_ID.UCL,
   'UEFA Europa Conference League': UEFA_COMPETITION_ID.UECL,
