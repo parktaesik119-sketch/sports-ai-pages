@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 A. Kay (6-3, 4.39) ERA 4.39|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
+homeLineup: "[\"선발투수 A. Kay (6-3, 4.29) ERA 4.29|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
 awayLineup: "[\"선발투수 P. Sandoval|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\"]"
 ---

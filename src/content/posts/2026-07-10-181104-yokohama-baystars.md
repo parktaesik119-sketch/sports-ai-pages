@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Shuto Ogata (0-2, 3.00)|https://p.npb.jp/players_photo/2026/180/db/036_61365136.jpg\"]"
+awayLineup: "[\"선발투수 Forrest Whitley (3-4, 2.51)|https://p.npb.jp/players_photo/2026/180/g/026_53355152.jpg\"]"
 ---

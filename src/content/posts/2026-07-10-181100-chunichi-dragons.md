@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Yudai Ohno (6-4, 1.89)|https://p.npb.jp/players_photo/2026/180/d/022_11515133.jpg\"]"
+awayLineup: "[\"선발투수 Masato Morishita (5-5, 4.21)|https://p.npb.jp/players_photo/2026/180/c/018_53155151.jpg\"]"
 ---
