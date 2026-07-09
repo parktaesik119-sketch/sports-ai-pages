@@ -1351,6 +1351,8 @@ const TEAM_NAME_MAP = {
   "Shenyang Urban": "랴오닝 선양",
   "Wuhan Three Towns": "우한 쓰리 타운즈",
   "Toledo Mud Hens": "톨레도 머드헨스",
+  "Deportivo Maldonado": "데포르티보 말도나도",
+  "Albion FC": "알비온 FC",
 
   //UEFA
   "Ararat-Armenia": "아라라트 아르메니아",
