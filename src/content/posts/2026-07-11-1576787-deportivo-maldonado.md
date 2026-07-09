@@ -1,0 +1,31 @@
+---
+title: "Deportivo Maldonado vs Albion FC 경기분석·라인업·결장자·통계·승부예측 (7월 11일) | 프리메라디비전 - 픽천국"
+date: 2026-07-10T22:00:00+00:00
+description: "Deportivo Maldonado vs Albion FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1576787-2026-07-11-deportivo-maldonado"
+category: "soccer"
+country: "우루과이"
+league: "프리메라디비전"
+homeTeam: "Deportivo Maldonado"
+awayTeam: "Albion FC"
+homeLogo: "https://media.api-sports.io/football/teams/2370.png"
+awayLogo: "https://media.api-sports.io/football/teams/2378.png"
+homeAnalysis: "디포르티보 말도나도는 2026시즌 전체 DB 기준으로 3승 1무 0패, 평균 득점 2.8을 기록하며 리그순위 1위에 올라 있습니다. 최근에는 꾸준히 득점 생산이 이어지고 있고, 홈과 원정을 가리지 않고 공격 전개가 매끄럽게 이어지는 흐름입니다. 특히 아틀레티코 토르케전 4득점과 클럽 나시오날전 3득점에서 보이듯, 초반부터 경기를 주도하며 상대 수비를 흔드는 힘이 돋보입니다. 수비 쪽에서도 4경기 4실점으로 안정감을 유지하고 있어, 실점 부담을 크게 안지 않는 운영이 가능합니다. 최근 분위기와 리그순위가 함께 받쳐주고 있어, 현재 전력의 완성도가 높은 팀으로 평가됩니다."
+awayAnalysis: "알비온 FC는 2026시즌 전체 DB 기준으로 1승 2패 1무, 득실 3-4로 리그순위 5위에 자리하고 있습니다. 최근 경기에서는 승패가 엇갈리며 전력의 기복이 드러나고 있고, 경기마다 득점 생산이 일정하지 않은 점이 아쉽습니다. 다만 프로그레소전 원정 승리처럼 상대를 효율적으로 공략할 때는 결과를 만들어내는 집중력이 있습니다. 반면 강한 압박을 받는 구간에서는 득점 루트가 단조로워지는 모습이 보여, 공격의 지속성이 과제로 보입니다. 수비는 대량 실점까지는 아니지만, 흐름이 흔들릴 때 버티는 힘이 부족해 상위권 상대를 만나면 부담이 커질 수 있습니다."
+homePower: "리그순위 1위답게 경기 주도권 장악력이 검증됨|최근 득점 폭발로 초반 기세가 매우 강함|실점 억제가 가능해 운영 부담이 적음|홈외 무대에서도 공격 템포 유지가 돋보임|상대보다 마무리 완성도가 한 단계 앞선 모습임"
+awayPower: "리그순위 5위지만 원정에서 한 방은 살아 있음|강팀 상대로도 버티는 수비 집중력은 보임|득점 루트가 제한적이라 흐름 의존도가 큼|경기 중반 이후 공격 전개가 둔해지는 편임|주도권을 내주면 반격 효율이 떨어지는 구조임"
+h2h: '[{"date":"26.04.26","home":"Deportivo Maldonado","away":"Albion FC","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1540898-2026-04-26-deportivo-maldonado/"},{"date":"22.10.25","home":"Albion FC","away":"Deportivo Maldonado","score":"1-3"},{"date":"22.07.16","home":"Albion FC","away":"Deportivo Maldonado","score":"2-3"},{"date":"22.06.05","home":"Deportivo Maldonado","away":"Albion FC","score":"0-0"}]'
+summary: "디포르티보 말도나도는 리그순위 1위에 걸맞게 공격과 수비의 균형이 좋고, 최근 득점 흐름도 매우 안정적입니다. 알비온 FC는 리그순위 5위로 전력 자체는 나쁘지 않지만, 득점이 들쑥날쑥해 상위권 상대를 상대로는 경기 운영의 안정감이 부족해 보입니다. 예상 스코어도 홈팀 2-1 흐름에 맞아 떨어지며, 전체 전력과 최근 흐름을 함께 보면 디포르티보 말도나도가 한 골 차 승리를 가져갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.06.07","home":"Atletico Torque","away":"Deportivo Maldonado","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546807-2026-06-07-atletico-torque/"},{"date":"26.06.01","home":"Deportivo Maldonado","away":"나시오날","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546802-2026-06-01-deportivo-maldonado/"},{"date":"26.05.25","home":"Wanderers","away":"Deportivo Maldonado","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1545241-2026-05-25-wanderers/"},{"date":"26.05.19","home":"Deportivo Maldonado","away":"Danubio","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544927-2026-05-19-deportivo-maldonado/"}]'
+awayRecent: '[{"date":"26.06.07","home":"Progreso","away":"Albion FC","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546809-2026-06-07-progreso/"},{"date":"26.05.31","home":"Albion FC","away":"Atletico Torque","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1546800-2026-05-31-albion-fc/"},{"date":"26.05.24","home":"나시오날","away":"Albion FC","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1545239-2026-05-24-club-nacional/"},{"date":"26.05.18","home":"Albion FC","away":"Wanderers","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544926-2026-05-18-albion-fc/"},{"date":"26.05.04","home":"Albion FC","away":"나시오날","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1540910-2026-05-04-albion-fc/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "Deportivo Maldonado"
+pickWinResult: "승"
+pickHandicapTeam: "Deportivo Maldonado"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
