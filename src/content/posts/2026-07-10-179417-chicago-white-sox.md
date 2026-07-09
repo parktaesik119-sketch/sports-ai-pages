@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 A. Kay (6-3, 4.29) ERA 4.29|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
+homeLineup: "[\"선발투수 A. Kay (6-3, 4.29) ERA 4.29|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\",\"1번 C. Meidroth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5136929.png\",\"2번 R. Grichuk (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31399.png\",\"3번 M. Vargas (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"4번 C. Montgomery (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\",\"5번 J. Perez (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42471.png\",\"6번 S. Antonacci (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5207167.png\",\"7번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"8번 L. Acuna (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42411.png\",\"9번 D. Romo (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917765.png\"]"
 awayLineup: "[\"선발투수 P. Sandoval|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\"]"
 ---
