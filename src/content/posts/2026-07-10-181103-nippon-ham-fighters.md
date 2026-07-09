@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Hiromi Itoh (8-4, 3.20)|https://p.npb.jp/players_photo/2026/180/f/017_51355153.jpg\"]"
+awayLineup: "[\"선발투수 Natsuki Takeuchi (5-4, 2.77)|https://p.npb.jp/players_photo/2026/180/l/021_51255159.jpg\"]"
 ---

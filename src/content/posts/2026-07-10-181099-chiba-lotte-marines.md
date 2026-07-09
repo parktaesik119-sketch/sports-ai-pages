@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Koshiro Hiroike (2-4, 3.22)|https://p.npb.jp/players_photo/2026/180/m/064_81685150.jpg\"]"
+awayLineup: "[\"선발투수 Daiki Tajima (2-4, 5.83)|https://p.npb.jp/players_photo/2026/180/b/029_41045136.jpg\"]"
 ---
