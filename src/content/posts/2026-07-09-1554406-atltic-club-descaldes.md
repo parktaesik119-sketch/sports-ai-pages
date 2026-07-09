@@ -28,4 +28,8 @@ pickExpectedHome: "2"
 pickExpectedAway: "1"
 pickOuValue: ""
 pickOuDirection: ""
+homeLineup: "[\"Adrià Muñoz  (G)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250173084.jpg\",\"Marcos Blasco (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250196622.jpg\",\"Chinchu (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250221728.jpg\",\"Emanoel (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250209451.jpg\",\"Juan Barragán (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250221721.jpg\",\"Gemelson (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250173556.jpg\",\"David Valero (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250196707.jpg\",\"Hamza Bouharma (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250119996.jpg\",\"Sergio Rodriguez (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250186284.jpg\",\"Sohaib Boulayoune (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250221723.jpg\",\"Adrian Gallego (D)|https://img.uefa.com/imgml/TP/players/2019/2027/324x324/250156641.jpg\"]"
+awayLineup: "[]"
+homeFormation: "10"
+awayFormation: ""
 ---
