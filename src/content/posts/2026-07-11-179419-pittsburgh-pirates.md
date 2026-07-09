@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 B. Ashcraft (9-3, 3.24) ERA 3.24|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
+awayLineup: "[\"선발투수 B. Sproat (3-4, 5.13) ERA 5.13|https://a.espncdn.com/i/headshots/mlb/players/full/4621041.png\"]"
 ---

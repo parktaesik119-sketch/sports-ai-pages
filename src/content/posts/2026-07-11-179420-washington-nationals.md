@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Z. Littell (7-6, 5.02) ERA 5.02|https://a.espncdn.com/i/headshots/mlb/players/full/36052.png\"]"
+awayLineup: "[\"선발투수 R. Weathers (3-7, 4.29) ERA 4.29|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\"]"
 ---

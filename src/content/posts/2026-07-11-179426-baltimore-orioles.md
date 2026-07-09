@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 B. Young (7-2, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
+awayLineup: "[\"선발투수 L. Avila (4-3, 5.05) ERA 5.05|https://a.espncdn.com/i/headshots/mlb/players/full/5201985.png\"]"
 ---
