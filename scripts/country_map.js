@@ -107,6 +107,7 @@ const COUNTRY_MAP = {
 
   // ===== 아메리카 =====
   'USA': '미국',
+  'United States': '미국',
   'Canada': '캐나다',
   'Mexico': '멕시코',
   'Brazil': '브라질',

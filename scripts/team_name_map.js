@@ -697,6 +697,7 @@ const TEAM_NAME_MAP = {
   "Paraguay": "파라과이",
   "Russia": "러시아",
   "USA": "미국",
+  "United States": "미국",
   "Qatar": "카타르",
   "Morocco": "모로코",
   "Germany": "독일",
