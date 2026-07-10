@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 B. Ashcraft (9-3, 3.24) ERA 3.24|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
+homeLineup: "[\"선발투수 B. Ashcraft (9-3, 3.24) ERA 3.24|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\",\"1번 J. Mangum (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42664.png\",\"2번 B. Lowe (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39961.png\",\"3번 B. Reynolds (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/38980.png\",\"4번 E. Valdez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5137200.png\",\"5번 R. O'Hearn (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35183.png\",\"6번 N. Gonzales (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4311634.png\",\"7번 T. Callihan (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42487.png\",\"8번 J. Triolo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42933.png\",\"9번 H. Davis (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4418683.png\"]"
 awayLineup: "[\"선발투수 B. Sproat (3-4, 5.13) ERA 5.13|https://a.espncdn.com/i/headshots/mlb/players/full/4621041.png\"]"
 ---
