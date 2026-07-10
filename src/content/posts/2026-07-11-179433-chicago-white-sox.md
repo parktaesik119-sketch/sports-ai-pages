@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 S. Burke (5-4, 3.56) ERA 3.56|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
-awayLineup: "[\"선발투수 A. Civale (5-6, 5.10) ERA 5.10|https://a.espncdn.com/i/headshots/mlb/players/full/40934.png\"]"
+awayLineup: "[\"선발투수 J. Lopez (4-3, 7.04) ERA 7.04|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\"]"
 ---
