@@ -146,6 +146,12 @@ const TEAM_NAME_MAP = {
   "Sporting CP": "스포르팅 CP",
   "Tondela": "톤델라",
   "Torreense": "토렌스",
+  "Juventud": "후벤투드",
+  "Atletico Torque": "몬테비데오 시티",
+  "Danubio": "다누비오",
+  "Wanderers": "원더러스",
+  "Progreso": "프로그레소",
+  
 
   // ===== 🇳🇱 에레디비지 (Eredivisie) =====
   "AZ Alkmaar": "AZ 알크마르",
@@ -1356,6 +1362,8 @@ const TEAM_NAME_MAP = {
   "Deportivo Maldonado": "데포르티보 말도나도",
   "Albion FC": "알비온 FC",
 
+
+
   //UEFA
   "Ararat-Armenia": "아라라트 아르메니아",
   "Riga": "리가 FC",
@@ -1456,7 +1464,7 @@ const TEAM_NAME_MAP = {
   "Shaanxi Union": "산시 유니온",
   "Shenzhen Juniors": "선전 주니어스",
   "Nantong Zhiyun": "난퉁 지윈",
-
+  "Chengdu Better City": "청두 룽청",
 
 };
 
