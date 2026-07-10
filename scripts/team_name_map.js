@@ -536,6 +536,7 @@ const TEAM_NAME_MAP = {
   "Indiana Pacers": "인디애나 페이서스",
   "New Orleans Pelicans": "뉴올리언스 펠리컨스",
   "Washington Wizards": "워싱턴 위저즈",
+  "Los Angeles Clippers": "LA 클리퍼스",
 
   // ===== 🏀 KBL =====
   "Anyang JungKwanJang": "안양 정관장",
