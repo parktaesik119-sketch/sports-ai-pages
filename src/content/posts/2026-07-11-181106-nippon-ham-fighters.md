@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Sachiya Yamasaki (1-0, 2.50)|https://p.npb.jp/players_photo/2026/180/f/018_21825130.jpg\"]"
+awayLineup: "[\"선발투수 Kona Takahashi (7-3, 1.71)|https://p.npb.jp/players_photo/2026/180/l/013_71075130.jpg\"]"
 ---

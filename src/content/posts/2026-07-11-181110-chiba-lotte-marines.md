@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Sam Long (1-2, 3.26)|https://p.npb.jp/players_photo/2026/180/m/073_03905152.jpg\"]"
+awayLineup: "[\"선발투수 Taito Takashima (3-1, 3.91)|https://p.npb.jp/players_photo/2026/180/b/096_61065159.jpg\"]"
 ---

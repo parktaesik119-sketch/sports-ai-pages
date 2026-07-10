@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. Liberatore (4-6, 5.34) ERA 5.34|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
+awayLineup: "[\"선발투수 R. Lopez (4-1, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/33860.png\"]"
 ---

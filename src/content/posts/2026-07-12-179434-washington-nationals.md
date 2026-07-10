@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. Mikolas (3-7, 5.78) ERA 5.78|https://a.espncdn.com/i/headshots/mlb/players/full/32116.png\"]"
+awayLineup: "[\"선발투수 C. Schlittler (9-5, 2.01) ERA 2.01|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
 ---

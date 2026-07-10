@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 K. Bradish (5-9, 3.75) ERA 3.75|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
+awayLineup: "[\"선발투수 N. Cameron (5-6, 4.77) ERA 4.77|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\"]"
 ---

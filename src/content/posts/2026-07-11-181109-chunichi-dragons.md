@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Hideaki Wakui (0-0, 3.71)|https://p.npb.jp/players_photo/2026/180/d/020_31635110.jpg\"]"
+awayLineup: "[\"선발투수 Shohei Mori (1-0, 2.10)|https://p.npb.jp/players_photo/2026/180/c/016_93395155.jpg\"]"
 ---

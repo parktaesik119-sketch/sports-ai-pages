@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 E. Fedde (4-6, 4.34) ERA 4.34|https://a.espncdn.com/i/headshots/mlb/players/full/33793.png\"]"
+awayLineup: "[\"선발투수 G. Jump (3-3, 3.77) ERA 3.77|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\"]"
 ---

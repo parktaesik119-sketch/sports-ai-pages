@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Y. Yamamoto (9-5, 2.49) ERA 2.49|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
+awayLineup: "[\"선발투수 B. Pfaadt (2-1, 4.84) ERA 4.84|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\"]"
 ---

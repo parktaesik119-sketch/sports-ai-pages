@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Shintaro Fujinami|https://p.npb.jp/players_photo/2026/180/db/027_41045137.jpg\"]"
+awayLineup: "[\"선발투수 Kazuyuki Takemaru (5-6, 2.71)|https://p.npb.jp/players_photo/2026/180/g/021_71275152.jpg\"]"
 ---
