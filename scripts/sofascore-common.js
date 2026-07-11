@@ -50,11 +50,20 @@ async function ensureSessionCookie() {
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Language': COMMON_HEADERS['Accept-Language'],
       },
-    }).then(res => {
+    }).then(async res => {
       // Node 18.14+/20+/22의 Headers.getSetCookie()로 다중 Set-Cookie를 안전하게 파싱
       const setCookies = typeof res.headers.getSetCookie === 'function' ? res.headers.getSetCookie() : [];
       cachedCookie = setCookies.map(c => c.split(';')[0]).join('; ');
-      console.log(`🍪 [SofaScore] 세션 쿠키 확보 ${cachedCookie ? `(${setCookies.length}개)` : '- 응답에 쿠키 없음'}`);
+
+      // ⚠️ 진단용: 쿠키가 하나도 없을 때, 홈페이지 요청 자체가 실제로 어떤 응답을 받았는지
+      // (상태코드 + 본문 앞부분) 남겨서 Cloudflare 챌린지 페이지("Just a moment...",
+      // "Attention Required" 등)인지, 아니면 정상 200인데 그냥 쿠키가 없는 건지 구분한다.
+      if (!cachedCookie) {
+        const bodySnippet = await res.text().then(t => t.slice(0, 300)).catch(() => '(본문 읽기 실패)');
+        console.log(`🍪 [SofaScore] 세션 쿠키 확보 - 응답에 쿠키 없음 | 홈페이지 응답 HTTP ${res.status} | 본문 일부: ${bodySnippet}`);
+      } else {
+        console.log(`🍪 [SofaScore] 세션 쿠키 확보 (${setCookies.length}개)`);
+      }
       return cachedCookie;
     }).catch(err => {
       console.error('⚠️ [SofaScore] 세션 쿠키 확보 실패:', err.message);
