@@ -118,6 +118,13 @@ const todaySchedulePath = `/schedule/${nowKST.toISOString().slice(0, 10)}`;
     <a href="/posts/volleyball" class={`menu volleyball ${currentPath.includes('/volleyball') ? 'active' : ''}`}>배구분석</a>
     <a href="/posts/hockey" class={`menu hockey ${currentPath.includes('/hockey') ? 'active' : ''}`}>하키분석</a>
     <a href="/posts/lol" class={`menu lol ${currentPath.includes('/lol') ? 'active' : ''}`}>LoL분석</a>
+
+    <!-- 🔥 사이드바(Sidebar.astro)와 동일한 라인업 업데이트 알림 배너 -->
+    <div class="mobile-menu-banner-area">
+      <a href="https://t.me/s/pickheaven_official" class="mobile-menu-banner-link" target="_blank">
+        <img src="https://i.imgur.com/LdjJtMw.gif" alt="신규분석글|라인업 업데이트 알람받기" />
+      </a>
+    </div>
   </div>
 </div>
     </header>

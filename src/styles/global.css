@@ -1011,6 +1011,35 @@ body {
   background: #eef3f8;
 }
 
+/* 🔥 사이드바(Sidebar.astro)와 동일한 라인업 업데이트 알림 배너 (모바일 메뉴 하단) */
+.mobile-menu-banner-area {
+  margin-top: 10px;
+}
+
+.mobile-menu-banner-link {
+  display: block;
+  text-decoration: none;
+}
+
+.mobile-menu-banner-link img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.mobile-menu-banner-link:hover img {
+  animation: mobile-banner-heartbeat 1.1s infinite;
+}
+
+@keyframes mobile-banner-heartbeat {
+  0% { transform: scale(1); }
+  25% { transform: scale(1.02); }
+  50% { transform: scale(1.1); }
+  75% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+
 /* 닫기 버튼 */
 .close-btn {
   align-self: flex-end;
