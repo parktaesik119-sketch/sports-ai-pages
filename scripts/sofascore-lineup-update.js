@@ -18,6 +18,7 @@ import {
   findEventId,
   fetchLineups,
 } from './sofascore-common.js';
+import { closeSofascoreBrowser } from './sofascore-browser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
@@ -198,4 +199,4 @@ async function main() {
   console.log(`\n✅ 완료: ${updatedCount}건 업데이트 / ${skipCount}건 스킵`);
 }
 
-main();
+main().finally(() => closeSofascoreBrowser());

@@ -19,6 +19,7 @@ import {
   CAT_TO_SOFASCORE_SPORT,
   fetchSofascoreContext,
 } from './sofascore-common.js';
+import { closeSofascoreBrowser } from './sofascore-browser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
@@ -117,4 +118,4 @@ async function main() {
   console.log(`\n✅ [SofaScore 컨텍스트 수집 완료] 성공 ${okCount}건 / 스킵 ${skipCount}건 → ${path.basename(outPath)}`);
 }
 
-main();
+main().finally(() => closeSofascoreBrowser());

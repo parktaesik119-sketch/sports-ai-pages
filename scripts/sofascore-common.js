@@ -1,10 +1,13 @@
 // scripts/sofascore-common.js
 // SofaScore 비공식 공개 REST API(www.sofascore.com/api/v1/*) 호출 공통 로직.
 //
-// KBO(/ws/*.asmx)와 달리 인증/쿠키 없이 그대로 호출되는 것을 실사용 브라우저 네트워크
-// 캡처로 확인함(2026-07-11 기준). 다만 비공식 엔드포인트이므로 SofaScore 쪽에서
-// 응답 구조를 예고 없이 바꿀 수 있음 — 호출 실패/구조 변경 시 이 파일의 파서만 손보면 되도록
-// fetch-sofascore-context.js와 분리해둔다.
+// ⚠️ 2026-07 실사용 테스트로 겪은 과정 요약 (다음에 이 파일 건드릴 사람을 위한 기록):
+// 1차: 정적 fetch()로 직접 호출 → 403 {"reason":"Forbidden"} (GitHub Actions IP 차단 추정)
+// 2차: 홈페이지 먼저 방문해 쿠키 확보 후 재사용 → 그래도 403, 홈페이지 자체도 쿠키 없이 403
+// 3차: Cloudflare Worker(github-actions-dispatcher)를 경유 → 홈페이지는 200으로 뚫림,
+//      but API 호출은 {"reason":"challenge"} — IP 문제가 아니라 JS 챌린지가 필요하다는 뜻.
+// 4차(현재): Playwright로 실제 Chromium을 띄우고 그 페이지 컨텍스트 안에서 fetch()를
+//      실행(sofascore-browser.js). 브라우저가 챌린지/쿠키/세션을 스스로 처리해준다.
 //
 // fetch-sofascore-context.js가 이 파일의 함수들을 사용해 축구/농구/배구/하키의
 // H2H·최근폼·라인업(포메이션 포함)·선수사진을 수집한다.
@@ -13,106 +16,13 @@
 //    "Missing players" 류의 위젯 자체가 없음) — 그 부분은 계속 ESPN/KBO 등이 담당한다.
 
 import { matchTeam } from './espn-common.js';
+import { fetchJsonViaBrowser } from './sofascore-browser.js';
 
 const BASE = 'https://www.sofascore.com/api/v1';
 const IMG_BASE = 'https://img.sofascore.com/api/v1';
 
-// ─────────────────────────────────────────────
-// GitHub Actions IP에서 sofascore.com을 직접 호출하면 403으로 차단당하는 것을 확인함(2026-07).
-// github-actions-dispatcher Cloudflare Worker에 만들어둔 /proxy/sofascore 라우트를 통해
-// 우회한다. 두 환경변수가 모두 설정된 경우에만 프록시를 쓰고, 없으면(로컬 테스트 등)
-// 기존처럼 sofascore.com에 직접 요청한다.
-//   SOFASCORE_PROXY_URL:    예) https://github-actions-dispatcher.<계정서브도메인>.workers.dev/proxy/sofascore
-//   SOFASCORE_PROXY_SECRET: Worker의 wrangler secret put PROXY_SECRET과 동일한 값
-// ─────────────────────────────────────────────
-// ⚠️ GitHub Actions 시크릿에 복사/붙여넣기하다가 끝에 보이지 않는 개행문자나 공백이
-// 딸려 들어가는 경우가 흔하다. 그 상태로 URL을 조립하면 경로가 미묘하게 어긋나서
-// Worker가 404를 돌려주는 원인이 될 수 있어(실제로 겪음), 값을 읽자마자 trim()으로
-// 방어한다.
-const SOFASCORE_PROXY_URL = (process.env.SOFASCORE_PROXY_URL || '').trim();
-const SOFASCORE_PROXY_SECRET = (process.env.SOFASCORE_PROXY_SECRET || '').trim();
-const USE_PROXY = !!(SOFASCORE_PROXY_URL && SOFASCORE_PROXY_SECRET);
-
-function resolveFetchUrl(targetUrl) {
-  return USE_PROXY ? `${SOFASCORE_PROXY_URL}?url=${encodeURIComponent(targetUrl)}` : targetUrl;
-}
-
-function resolveFetchHeaders(baseHeaders) {
-  return USE_PROXY ? { ...baseHeaders, 'X-Proxy-Secret': SOFASCORE_PROXY_SECRET } : baseHeaders;
-}
-
-const COMMON_HEADERS = {
-  'Accept': 'application/json, text/plain, */*',
-  'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
-  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
-  'Referer': 'https://www.sofascore.com/',
-  'Origin': 'https://www.sofascore.com',
-  'sec-ch-ua': '"Not.A/Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
-  'sec-ch-ua-mobile': '?0',
-  'sec-ch-ua-platform': '"Windows"',
-  'sec-fetch-dest': 'empty',
-  'sec-fetch-mode': 'cors',
-  'sec-fetch-site': 'same-origin',
-};
-
-// ─────────────────────────────────────────────
-// 세션 쿠키 확보: API를 쿠키 없이 바로 찌르면 403 {"error":{"reason":"Forbidden"}}이 온다
-// (2026-07 실사용 테스트로 확인). 브라우저는 sofascore.com 홈페이지를 먼저 로드하면서
-// 쿠키를 받은 상태로 API를 호출하므로 통과하는 것으로 추정됨 — 홈페이지를 한 번 먼저
-// GET해서 Set-Cookie를 받아두고, 이후 모든 API 호출에 그대로 실어 보낸다.
-// 스크립트 1회 실행(=1 프로세스) 동안 한 번만 확보해서 재사용한다.
-// ─────────────────────────────────────────────
-let cachedCookie = null;
-let cookieFetchPromise = null;
-
-async function ensureSessionCookie() {
-  if (cachedCookie !== null) return cachedCookie;
-  if (!cookieFetchPromise) {
-    cookieFetchPromise = fetch(resolveFetchUrl('https://www.sofascore.com/'), {
-      headers: resolveFetchHeaders({
-        'User-Agent': COMMON_HEADERS['User-Agent'],
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': COMMON_HEADERS['Accept-Language'],
-      }),
-    }).then(async res => {
-      // Node 18.14+/20+/22의 Headers.getSetCookie()로 다중 Set-Cookie를 안전하게 파싱
-      const setCookies = typeof res.headers.getSetCookie === 'function' ? res.headers.getSetCookie() : [];
-      cachedCookie = setCookies.map(c => c.split(';')[0]).join('; ');
-
-      // ⚠️ 진단용: 쿠키가 하나도 없을 때, 홈페이지 요청 자체가 실제로 어떤 응답을 받았는지
-      // (상태코드 + 본문 앞부분) 남겨서 Cloudflare 챌린지 페이지("Just a moment...",
-      // "Attention Required" 등)인지, 아니면 정상 200인데 그냥 쿠키가 없는 건지 구분한다.
-      if (!cachedCookie) {
-        const bodySnippet = await res.text().then(t => t.slice(0, 300)).catch(() => '(본문 읽기 실패)');
-        console.log(`🍪 [SofaScore] 세션 쿠키 확보 - 응답에 쿠키 없음 | ${USE_PROXY ? 'Worker 경유' : '직접 호출'} | 홈페이지 응답 HTTP ${res.status} | 본문 일부: ${bodySnippet}`);
-      } else {
-        console.log(`🍪 [SofaScore] 세션 쿠키 확보 (${setCookies.length}개) | ${USE_PROXY ? 'Worker 경유' : '직접 호출'}`);
-      }
-      return cachedCookie;
-    }).catch(err => {
-      console.error('⚠️ [SofaScore] 세션 쿠키 확보 실패:', err.message);
-      cachedCookie = '';
-      return cachedCookie;
-    });
-  }
-  return cookieFetchPromise;
-}
-
 async function getJson(url) {
-  const cookie = await ensureSessionCookie();
-  const headers = resolveFetchHeaders({ ...COMMON_HEADERS });
-  if (cookie) headers['Cookie'] = cookie;
-
-  const res = await fetch(resolveFetchUrl(url), { headers });
-  if (!res.ok) {
-    // ⚠️ 헤더를 아무리 브라우저처럼 꾸며도, Cloudflare 등 WAF가 GitHub Actions 같은
-    // 클라우드/CI IP 대역 자체를 차단하는 경우엔 이 헤더 보강으로 해결이 안 될 수 있다.
-    // 그래서 실패 시 응답 본문 앞부분을 로그에 남겨, 실제로 WAF 차단 페이지(HTML)가
-    // 오는 건지 다른 이유인지 다음 실행 로그에서 구분할 수 있게 한다.
-    const bodySnippet = await res.text().then(t => t.slice(0, 300)).catch(() => '(본문 읽기 실패)');
-    throw new Error(`GET ${url} 실패: HTTP ${res.status} | ${USE_PROXY ? 'Worker 경유' : '직접 호출'} | 응답 일부: ${bodySnippet}`);
-  }
-  return res.json();
+  return fetchJsonViaBrowser(url);
 }
 
 // analyze-router-one-git.js의 cat('soccer'|'basketball'|'volleyball'|'hockey') →
