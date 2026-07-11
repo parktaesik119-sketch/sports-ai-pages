@@ -1,0 +1,31 @@
+---
+title: "피츠버그 파이러츠 vs 밀워키 브루어스 경기분석·라인업·결장자·통계·승부예측 (7월 13일) | MLB - 픽천국"
+date: 2026-07-12T16:15:00+00:00
+description: "피츠버그 파이러츠 vs 밀워키 브루어스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179450-2026-07-13-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://media.api-sports.io/baseball/teams/28.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/20.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 최근 61경기에서 28승 1무 32패를 기록하며 승률 5할 안팎의 흐름을 보이고 있고, 평균 득점 5.3점으로 공격 생산성은 충분히 유지하고 있습니다. 최근에는 득점 폭발과 무득점 경기가 함께 나타나면서 기복이 보이지만, 강한 상대를 상대로도 타선이 한 번 터지면 경기 흐름을 크게 바꾸는 장면이 자주 나옵니다. 홈에서는 공격 전개가 한층 살아나고 수비 부담도 줄어드는 편이라, 실점이 늘더라도 빠르게 따라붙는 힘이 돋보입니다. 특히 최근 홈 경기들에서 10점대 득점 경기도 나왔기 때문에 타선의 상한은 분명히 높아 보입니다. 다만 투수진이 흔들리는 구간에서는 한 이닝에 대량 실점이 나올 수 있어, 경기 초반 실점 억제가 중요하게 보입니다. 현재 리그순위 9위라는 위치는 아쉽지만, 최근 반등 흐름과 홈 이점이 맞물리며 상위권 팀을 상대로도 충분히 승부를 걸 수 있는 전력으로 평가됩니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 최근 59경기에서 37승 1무 21패를 기록하며 승률 .634로 매우 안정적인 상위 전력을 유지하고 있고, 평균 득점 4.7점으로도 꾸준한 득점 운영을 보여주고 있습니다. 최근 10경기 흐름도 7승 3패로 좋으며, 원정에서도 긴 이닝을 버티면서 필요한 순간에 점수를 쌓는 운영이 잘 살아 있습니다. 강한 수비 안정감과 실점 억제력이 팀의 중심을 이루고 있어, 큰 점수 차 승부보다 효율적인 경기 운영에서 장점이 두드러집니다. 다만 최근에는 일부 경기에서 타선이 급격히 잠기는 장면이 있어, 상대 선발이 버티는 날에는 공격이 다소 답답해질 수 있습니다. 현재 리그순위 2위라는 위치에 걸맞게 전반적인 완성도는 높지만, 최근 흐름이 완전히 압도적이기보다는 안정 속 변동성이 함께 보입니다. 그래도 득실 차가 매우 크기 때문에, 경기 후반까지 접전이 이어져도 마무리 힘은 충분히 기대되는 전력입니다."
+homePower: "홈 타선의 폭발력이 상위권 상대도 흔드는 구조임|홈에서 경기당 득점 변동 폭이 커 역전 여지 큼|최근 장타 생산이 살아나며 한 이닝 대량득점 가능함|실점이 늘어도 추격이 가능한 공격 중심 전력임|리그순위는 낮지만 홈에서는 반등 흐름이 분명함"
+awayPower: "밀워키 브루어스는 실점 억제력으로 승부를 만드는 전력임|득실 격차가 커 경기 후반 운영 안정감이 검증됨|원정에서도 필요한 득점만 뽑는 효율성이 돋보임|큰 점수 차보다 접전 관리에 더 강한 구조임|최근 타선 기복이 있어 압도보단 안정 우위로 평가됨"
+h2h: '[{"date":"26.07.11","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"0-0","link":"https://pick79.com/posts/detail/analyze-179419-2026-07-11-pittsburgh-pirates/"},{"date":"26.04.27","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"5-0","link":"https://pick79.com/posts/detail/analyze-178422-2026-04-27-milwaukee-brewers/"},{"date":"26.04.26","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-6","link":"https://pick79.com/posts/detail/analyze-178408-2026-04-26-milwaukee-brewers/"},{"date":"26.04.25","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"0-6","link":"https://pick79.com/posts/detail/analyze-178388-2026-04-25-milwaukee-brewers/"}]'
+summary: "피츠버그 파이러츠는 리그순위 9위지만 최근 흐름에서 공격 쪽 반등 조짐이 분명하고, 홈에서는 경기당 득점이 크게 살아나는 모습이어서 예상 스코어 5점까지 기대할 만합니다. 밀워키 브루어스는 리그순위 2위답게 전반적 완성도가 높고 득실 차도 크지만, 최근 원정 흐름에서는 강한 경기와 흔들리는 경기가 함께 나타나면서 절대 우위만으로 보기는 어렵습니다. 상대전적에서도 피츠버그 파이러츠가 우세 흐름을 잡아낸 이력이 있어, 이번 경기는 홈팀의 공격 응집력과 원정팀의 안정된 수비가 맞붙는 접전으로 보입니다. 결국 득점 균형과 홈 이점을 감안하면 피츠버그 파이러츠 쪽 기대값이 조금 더 높게 보입니다."
+homeRecent: '[{"date":"26.07.10","home":"피츠버그 파이러츠","away":"애틀랜타 브레이브스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179411-2026-07-10-pittsburgh-pirates/"},{"date":"26.07.09","home":"피츠버그 파이러츠","away":"애틀랜타 브레이브스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179391-2026-07-09-pittsburgh-pirates/"},{"date":"26.07.08","home":"피츠버그 파이러츠","away":"애틀랜타 브레이브스","score":"12-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179376-2026-07-08-pittsburgh-pirates/"},{"date":"26.07.06","home":"워싱턴 내셔널스","away":"피츠버그 파이러츠","score":"5-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179354-2026-07-06-washington-nationals/"},{"date":"26.07.05","home":"워싱턴 내셔널스","away":"피츠버그 파이러츠","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179339-2026-07-05-washington-nationals/"}]'
+awayRecent: '[{"date":"26.07.10","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179408-2026-07-10-st-louis-cardinals/"},{"date":"26.07.09","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179394-2026-07-09-st-louis-cardinals/"},{"date":"26.07.08","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"2-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179379-2026-07-08-st-louis-cardinals/"},{"date":"26.07.07","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179370-2026-07-07-st-louis-cardinals/"},{"date":"26.07.06","home":"애리조나 다이아몬드백스","away":"밀워키 브루어스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179367-2026-07-06-arizona-diamondbacks/"}]'
+injuryHome: "Wilber Dotel (좌측 햄스트링 염좌)|Endy Rodriguez (햄스트링 염좌)|Evan Sisk (염증)|Chris Devenski (상세 미기재)|Spencer Horwitz (햄스트링 염좌)"
+injuryAway: "Coleman Crow (햄스트링 염좌)|Kyle Harrison (근육통)|David Hamilton (햄스트링 염좌)|Rob Zastryzny (햄스트링 염좌)|Carlos Rodriguez (신경 압박)"
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
