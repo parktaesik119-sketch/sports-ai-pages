@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 M. Mikolas (3-7, 5.78) ERA 5.78|https://a.espncdn.com/i/headshots/mlb/players/full/32116.png\"]"
-awayLineup: "[\"선발투수 C. Schlittler (9-5, 2.01) ERA 2.01|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
+awayLineup: "[\"선발투수 C. Schlittler (9-5, 2.01) ERA 2.01|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\",\"1번 A. Rosario (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33215.png\",\"2번 B. Rice (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5016968.png\",\"3번 T. Grisham (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/34995.png\",\"4번 P. Goldschmidt (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/31027.png\",\"5번 C. Bellinger (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33912.png\",\"6번 J. Dominguez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42401.png\",\"7번 J. Chisholm Jr. (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41433.png\",\"8번 A. Volpe (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42547.png\",\"9번 A. Sanchez (C)|https://a.espncdn.com/i/headshots/mlb/players/full/37537.png\"]"
 ---
