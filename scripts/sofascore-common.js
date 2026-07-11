@@ -31,8 +31,46 @@ const COMMON_HEADERS = {
   'sec-fetch-site': 'same-origin',
 };
 
+// ─────────────────────────────────────────────
+// 세션 쿠키 확보: API를 쿠키 없이 바로 찌르면 403 {"error":{"reason":"Forbidden"}}이 온다
+// (2026-07 실사용 테스트로 확인). 브라우저는 sofascore.com 홈페이지를 먼저 로드하면서
+// 쿠키를 받은 상태로 API를 호출하므로 통과하는 것으로 추정됨 — 홈페이지를 한 번 먼저
+// GET해서 Set-Cookie를 받아두고, 이후 모든 API 호출에 그대로 실어 보낸다.
+// 스크립트 1회 실행(=1 프로세스) 동안 한 번만 확보해서 재사용한다.
+// ─────────────────────────────────────────────
+let cachedCookie = null;
+let cookieFetchPromise = null;
+
+async function ensureSessionCookie() {
+  if (cachedCookie !== null) return cachedCookie;
+  if (!cookieFetchPromise) {
+    cookieFetchPromise = fetch('https://www.sofascore.com/', {
+      headers: {
+        'User-Agent': COMMON_HEADERS['User-Agent'],
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': COMMON_HEADERS['Accept-Language'],
+      },
+    }).then(res => {
+      // Node 18.14+/20+/22의 Headers.getSetCookie()로 다중 Set-Cookie를 안전하게 파싱
+      const setCookies = typeof res.headers.getSetCookie === 'function' ? res.headers.getSetCookie() : [];
+      cachedCookie = setCookies.map(c => c.split(';')[0]).join('; ');
+      console.log(`🍪 [SofaScore] 세션 쿠키 확보 ${cachedCookie ? `(${setCookies.length}개)` : '- 응답에 쿠키 없음'}`);
+      return cachedCookie;
+    }).catch(err => {
+      console.error('⚠️ [SofaScore] 세션 쿠키 확보 실패:', err.message);
+      cachedCookie = '';
+      return cachedCookie;
+    });
+  }
+  return cookieFetchPromise;
+}
+
 async function getJson(url) {
-  const res = await fetch(url, { headers: COMMON_HEADERS });
+  const cookie = await ensureSessionCookie();
+  const headers = { ...COMMON_HEADERS };
+  if (cookie) headers['Cookie'] = cookie;
+
+  const res = await fetch(url, { headers });
   if (!res.ok) {
     // ⚠️ 헤더를 아무리 브라우저처럼 꾸며도, Cloudflare 등 WAF가 GitHub Actions 같은
     // 클라우드/CI IP 대역 자체를 차단하는 경우엔 이 헤더 보강으로 해결이 안 될 수 있다.
