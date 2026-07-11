@@ -44,6 +44,8 @@ jobs:
           PANDASCORE_KEY: ${{ secrets.PANDASCORE_KEY }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           RAPID_KEY: ${{ secrets.RAPID_KEY }}
+          HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
+          HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
 
       # 생성 파일 자동 커밋 및 푸쉬
       - name: 생성된 글을 깃허브에 푸쉬

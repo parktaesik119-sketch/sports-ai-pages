@@ -72,33 +72,45 @@ const server = http.createServer((req, res) => {
   for (const h of FORWARD_HEADERS) {
     if (req.headers[h]) forwardHeaders[h] = req.headers[h];
   }
+  // footystats.org의 검색(search.php)처럼 POST + form body가 필요한 요청도 있어서,
+  // content-type은 별도로 챙겨서 그대로 넘겨준다.
+  if (req.headers['content-type']) forwardHeaders['content-type'] = req.headers['content-type'];
 
-  console.log(`[${new Date().toISOString()}] 프록시 요청: ${target.toString()}`);
+  // 요청 바디를 먼저 다 읽은 다음에 업스트림으로 그대로 전달한다(GET은 바디가 없어서 0바이트로 끝남).
+  const reqChunks = [];
+  req.on('data', (c) => reqChunks.push(c));
+  req.on('end', () => {
+    const reqBody = Buffer.concat(reqChunks);
+    if (reqBody.length > 0) forwardHeaders['content-length'] = String(reqBody.length);
 
-  const upstreamReq = https.request(target, { method: 'GET', headers: forwardHeaders }, (upstreamRes) => {
-    const chunks = [];
-    upstreamRes.on('data', (c) => chunks.push(c));
-    upstreamRes.on('end', () => {
-      const body = Buffer.concat(chunks);
-      const headers = {
-        'Content-Type': upstreamRes.headers['content-type'] || 'application/octet-stream',
-        'X-Upstream-Status': String(upstreamRes.statusCode),
-      };
-      // Set-Cookie가 여러 개일 수 있으니 배열 그대로 전달
-      if (upstreamRes.headers['set-cookie']) {
-        headers['Set-Cookie'] = upstreamRes.headers['set-cookie'];
-      }
-      res.writeHead(upstreamRes.statusCode, headers);
-      res.end(body);
+    console.log(`[${new Date().toISOString()}] 프록시 요청: ${req.method} ${target.toString()}`);
+
+    const upstreamReq = https.request(target, { method: req.method, headers: forwardHeaders }, (upstreamRes) => {
+      const chunks = [];
+      upstreamRes.on('data', (c) => chunks.push(c));
+      upstreamRes.on('end', () => {
+        const body = Buffer.concat(chunks);
+        const headers = {
+          'Content-Type': upstreamRes.headers['content-type'] || 'application/octet-stream',
+          'X-Upstream-Status': String(upstreamRes.statusCode),
+        };
+        // Set-Cookie가 여러 개일 수 있으니 배열 그대로 전달
+        if (upstreamRes.headers['set-cookie']) {
+          headers['Set-Cookie'] = upstreamRes.headers['set-cookie'];
+        }
+        res.writeHead(upstreamRes.statusCode, headers);
+        res.end(body);
+      });
     });
-  });
 
-  upstreamReq.on('error', (err) => {
-    console.error('업스트림 요청 실패:', err.message);
-    sendJson(res, 502, { error: `Upstream fetch failed: ${err.message}` });
-  });
+    upstreamReq.on('error', (err) => {
+      console.error('업스트림 요청 실패:', err.message);
+      sendJson(res, 502, { error: `Upstream fetch failed: ${err.message}` });
+    });
 
-  upstreamReq.end();
+    if (reqBody.length > 0) upstreamReq.write(reqBody);
+    upstreamReq.end();
+  });
 });
 
 server.listen(PORT, () => {
