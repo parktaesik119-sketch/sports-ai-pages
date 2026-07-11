@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Ren Fukushima (3-2, 2.68)|https://p.npb.jp/players_photo/2026/180/f/045_81685155.jpg\"]"
+awayLineup: "[\"선발투수 Chihiro Sumida (6-5, 2.44)|https://p.npb.jp/players_photo/2026/180/l/016_21025155.jpg\"]"
 ---
