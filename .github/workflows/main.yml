@@ -35,11 +35,6 @@ jobs:
       - name: 의존성 설치
         run: npm install
 
-      # SofaScore가 API 호출에 JS 챌린지를 요구해서, Playwright로 실제 Chromium을 띄워
-      # 그 안에서 API를 호출하는 방식으로 우회한다(sofascore-browser.js).
-      - name: Playwright Chromium 설치
-        run: npx playwright install --with-deps chromium
-
       # 자동 분석 실행
       - name: 데이터 수집 및 AI 분석 실행
         run: node scripts/main-auto.js

@@ -153,12 +153,23 @@ for (let j = 0; j < count; j++) {
   });
   return positions;
 }
+function makePosFn(formation: string) {
+  const lines = formation.split('-').map(Number).filter((n: number) => !isNaN(n) && n > 0);
+  const result = ['GK'];
+  lines.forEach((count: number, li: number) => {
+    const posName = li === 0 ? 'DF' : li === lines.length - 1 ? 'FW' : 'MF';
+    for (let j = 0; j < count; j++) result.push(posName);
+  });
+  return result;
+}
 function shortenName(name: string) {
   return name.length > 7 ? name.slice(0, 6) + '.' : name;
 }
 
 const hCoords = hasFormation ? calcPos(homeFormation, 'home') : [];
 const aCoords = hasFormation ? calcPos(awayFormation, 'away') : [];
+const hPosFn  = hasFormation ? makePosFn(homeFormation) : [];
+const aPosFn  = hasFormation ? makePosFn(awayFormation) : [];
 const GK_COLOR   = '#f59f00';
 const HOME_COLOR = '#e03131';
 const AWAY_COLOR = '#228be6';
@@ -328,53 +339,33 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           <circle cx={W_SVG/2} cy={H_SVG/2} r="4" fill="rgba(255,255,255,0.5)"/>
           <rect x="10" y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
           <rect x={W_SVG-10-W_SVG*0.13} y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
-          <!-- 선수 사진: 실루엣 placeholder를 먼저 깔고 사진을 그 위에 덧그린 뒤,
-               사진 로딩 실패 시 onerror로 숨겨서 밑에 깔린 placeholder가 자연스럽게 드러나게 한다 -->
           {homeLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
   const coord = hCoords[i];
   if (!coord) return null;
-  const parts = player.split('|');
-  const base = parts[0];
-  const photo = parts.length > 1 ? parts[parts.length - 1] : '';
+  const base = player.split('|')[0];
   const name = shortenName(base.replace(/\s*\(.*\)$/, ''));
-  const ringColor = coord.isGK ? GK_COLOR : HOME_COLOR;
-  const clipId = `pitch-photo-h-${i}`;
+  const pos  = (base.match(/\(([^)]+)\)/) || [])[1] || hPosFn[i] || '';
+  const color = coord.isGK ? GK_COLOR : HOME_COLOR;
   return (
     <g transform={`translate(${coord.x.toFixed(0)},${coord.y.toFixed(0)})`}>
+      <circle r="16" fill={color} opacity="0.95"/>
       <text y="-22" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif" font-weight="700">{name}</text>
-      <circle r="16" fill="#ced4da" stroke={ringColor} stroke-width="2.5"/>
-      <svg x="-11" y="-12" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg>
-      {photo && (
-        <>
-          <clipPath id={clipId}><circle r="15"/></clipPath>
-          <image href={photo} x="-15" y="-15" width="30" height="30" clip-path={`url(#${clipId})`} preserveAspectRatio="xMidYMid slice" onerror="this.style.display='none'" />
-          <circle r="16" fill="none" stroke={ringColor} stroke-width="2.5"/>
-        </>
-      )}
+      <text y="4" text-anchor="middle" font-size="8" fill="#fff" font-family="sans-serif" font-weight="600">{pos}</text>
     </g>
   );
 })())}
           {awayLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
   const coord = aCoords[i];
   if (!coord) return null;
-  const parts = player.split('|');
-  const base = parts[0];
-  const photo = parts.length > 1 ? parts[parts.length - 1] : '';
+  const base = player.split('|')[0];
   const name = shortenName(base.replace(/\s*\(.*\)$/, ''));
-  const ringColor = coord.isGK ? GK_COLOR : AWAY_COLOR;
-  const clipId = `pitch-photo-a-${i}`;
+  const pos  = (base.match(/\(([^)]+)\)/) || [])[1] || aPosFn[i] || '';
+  const color = coord.isGK ? GK_COLOR : AWAY_COLOR;
   return (
     <g transform={`translate(${coord.x.toFixed(0)},${coord.y.toFixed(0)})`}>
+      <circle r="16" fill={color} opacity="0.95"/>
       <text y="-22" text-anchor="middle" font-size="9.5" fill="#fff" font-family="sans-serif" font-weight="700">{name}</text>
-      <circle r="16" fill="#ced4da" stroke={ringColor} stroke-width="2.5"/>
-      <svg x="-11" y="-12" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-6 8-6s8 2 8 6"/></svg>
-      {photo && (
-        <>
-          <clipPath id={clipId}><circle r="15"/></clipPath>
-          <image href={photo} x="-15" y="-15" width="30" height="30" clip-path={`url(#${clipId})`} preserveAspectRatio="xMidYMid slice" onerror="this.style.display='none'" />
-          <circle r="16" fill="none" stroke={ringColor} stroke-width="2.5"/>
-        </>
-      )}
+      <text y="4" text-anchor="middle" font-size="8" fill="#fff" font-family="sans-serif" font-weight="600">{pos}</text>
     </g>
   );
 })())}

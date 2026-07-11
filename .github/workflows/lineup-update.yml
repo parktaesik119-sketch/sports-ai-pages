@@ -23,19 +23,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # SofaScore가 API 호출에 JS 챌린지를 요구해서, Playwright로 실제 Chromium을 띄워
-      # 그 안에서 API를 호출하는 방식으로 우회한다(sofascore-browser.js).
-      - name: Playwright Chromium 설치
-        run: npx playwright install --with-deps chromium
-
       # notify-lineup-telegram.js가 "이번 실행에서 뭐가 바뀌었는지" 비교할 기준점.
-      # 반드시 아래 라인업 스크립트들(SofaScore/UEFA/ESPN/KBO/NPB/KBL)이 실행되기 "전"에 캡처해야 함.
+      # 반드시 아래 라인업 스크립트들(UEFA/ESPN/KBO/NPB/KBL)이 실행되기 "전"에 캡처해야 함.
       - name: Capture starting commit hash
         id: before
         run: echo "hash=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
-
-      - name: Run SofaScore lineup update script
-        run: node scripts/sofascore-lineup-update.js
 
       - name: Run UEFA lineup update script
         run: node scripts/uefa-lineup-update.js
