@@ -34,6 +34,50 @@ const FORWARD_HEADERS = [
   'sec-fetch-dest', 'sec-fetch-mode', 'sec-fetch-site',
 ];
 
+// 리다이렉트(301/302/303/307/308)를 만나면 Location을 따라 최대 5번까지 재요청한다.
+// footystats.org의 H2H URL은 "홈팀-vs-원정팀" 순서가 아니라 자기들만의 고정 순서를
+// 쓰는 것으로 보여서(팀 ID 기준 추정), 순서가 어긋나면 올바른 URL로 301 리다이렉트를
+// 해준다 — 그런데 지금까지는 이 리다이렉트를 안 따라가고 그냥 끊어버리고 있었다.
+// (실사용 테스트로 원인 확정, 2026-07)
+function makeUpstreamRequest(target, method, headers, body, redirectsLeft = 5) {
+  return new Promise((resolve, reject) => {
+    const upstreamReq = https.request(target, { method, headers }, (upstreamRes) => {
+      const chunks = [];
+      upstreamRes.on('data', (c) => chunks.push(c));
+      upstreamRes.on('end', () => {
+        const status = upstreamRes.statusCode;
+        const location = upstreamRes.headers['location'];
+
+        if ([301, 302, 303, 307, 308].includes(status) && location && redirectsLeft > 0) {
+          let redirectUrl;
+          try {
+            redirectUrl = new URL(location, target); // location이 상대경로여도 처리됨
+          } catch {
+            return resolve({ statusCode: status, headers: upstreamRes.headers, body: Buffer.concat(chunks) });
+          }
+
+          // 리다이렉트 대상도 허용된 호스트인지 다시 확인(오픈 프록시로 악용 방지)
+          if (!ALLOWED_HOSTS.has(redirectUrl.hostname)) {
+            return resolve({ statusCode: status, headers: upstreamRes.headers, body: Buffer.concat(chunks) });
+          }
+
+          console.log(`[${new Date().toISOString()}]   ↳ 리다이렉트(${status}) 감지 → ${redirectUrl.toString()}`);
+          // 301/302/303은 관례적으로 GET 요청으로 전환, 307/308만 원래 메서드+바디 유지
+          const nextMethod = (status === 307 || status === 308) ? method : 'GET';
+          const nextBody = nextMethod === method ? body : null;
+          return resolve(makeUpstreamRequest(redirectUrl, nextMethod, headers, nextBody, redirectsLeft - 1));
+        }
+
+        resolve({ statusCode: status, headers: upstreamRes.headers, body: Buffer.concat(chunks) });
+      });
+    });
+
+    upstreamReq.on('error', reject);
+    if (body && body.length > 0) upstreamReq.write(body);
+    upstreamReq.end();
+  });
+}
+
 function sendJson(res, status, obj) {
   const body = JSON.stringify(obj);
   res.writeHead(status, { 'Content-Type': 'application/json; charset=utf-8' });
@@ -85,12 +129,9 @@ const server = http.createServer((req, res) => {
 
     console.log(`[${new Date().toISOString()}] 프록시 요청: ${req.method} ${target.toString()} (바디 ${reqBody.length}바이트, content-type: ${forwardHeaders['content-type'] || '없음'})`);
 
-    const upstreamReq = https.request(target, { method: req.method, headers: forwardHeaders }, (upstreamRes) => {
-      const chunks = [];
-      upstreamRes.on('data', (c) => chunks.push(c));
-      upstreamRes.on('end', () => {
-        const body = Buffer.concat(chunks);
-        console.log(`[${new Date().toISOString()}]   ↳ 업스트림 응답: HTTP ${upstreamRes.statusCode}, ${body.length}바이트`);
+    makeUpstreamRequest(target, req.method, forwardHeaders, reqBody)
+      .then((upstreamRes) => {
+        console.log(`[${new Date().toISOString()}]   ↳ 최종 응답: HTTP ${upstreamRes.statusCode}, ${upstreamRes.body.length}바이트`);
         const headers = {
           'Content-Type': upstreamRes.headers['content-type'] || 'application/octet-stream',
           'X-Upstream-Status': String(upstreamRes.statusCode),
@@ -100,17 +141,12 @@ const server = http.createServer((req, res) => {
           headers['Set-Cookie'] = upstreamRes.headers['set-cookie'];
         }
         res.writeHead(upstreamRes.statusCode, headers);
-        res.end(body);
+        res.end(upstreamRes.body);
+      })
+      .catch((err) => {
+        console.error('업스트림 요청 실패:', err.message);
+        sendJson(res, 502, { error: `Upstream fetch failed: ${err.message}` });
       });
-    });
-
-    upstreamReq.on('error', (err) => {
-      console.error('업스트림 요청 실패:', err.message);
-      sendJson(res, 502, { error: `Upstream fetch failed: ${err.message}` });
-    });
-
-    if (reqBody.length > 0) upstreamReq.write(reqBody);
-    upstreamReq.end();
   });
 });
 

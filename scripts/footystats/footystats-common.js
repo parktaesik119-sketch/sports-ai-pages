@@ -21,14 +21,13 @@ function assertProxyConfigured() {
 
 // footystats.org가 짧은 시간에 요청이 몰리면 429(속도 제한)로 막는 것을 실사용
 // 테스트로 확인함 — 모든 요청 사이에 최소한의 간격을 둔다.
-const REQUEST_DELAY_MS = 800;
+// (0.8초로 뒀을 때도 간헐적으로 빈 응답이 오는 사례가 있어 1.5초로 늘림 — 2026-07 확인)
+const REQUEST_DELAY_MS = 1500;
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function proxyFetch(targetUrl, { method = 'GET', body = null, headers = {} } = {}) {
-  assertProxyConfigured();
-  await delay(REQUEST_DELAY_MS);
+async function proxyFetchOnce(targetUrl, { method = 'GET', body = null, headers = {} } = {}) {
   const proxiedUrl = `${HOME_PROXY_URL}/proxy?url=${encodeURIComponent(targetUrl)}`;
   const res = await fetch(proxiedUrl, {
     method,
@@ -44,6 +43,23 @@ async function proxyFetch(targetUrl, { method = 'GET', body = null, headers = {}
   if (upstreamStatus && upstreamStatus !== '200') {
     throw new Error(`footystats.org 응답 실패: HTTP ${upstreamStatus} | ${text.slice(0, 200)}`);
   }
+  return text;
+}
+
+async function proxyFetch(targetUrl, options = {}) {
+  assertProxyConfigured();
+  await delay(REQUEST_DELAY_MS);
+  const text = await proxyFetchOnce(targetUrl, options);
+
+  // ⚠️ HTTP 200인데 본문이 텅 빈 간헐적 케이스가 관찰됨(2026-07) — 명확한 에러는
+  // 아니라서 위 에러 처리로는 안 걸러지지만, 실제로는 실패한 요청이다.
+  // 한 번 더 기다렸다가 재시도해서 자동 복구를 시도한다.
+  if (text.length === 0) {
+    console.log(`   ⚠️ 빈 응답 감지, 재시도: ${targetUrl}`);
+    await delay(REQUEST_DELAY_MS * 2);
+    return proxyFetchOnce(targetUrl, options);
+  }
+
   return text;
 }
 
@@ -182,8 +198,14 @@ export function parseClubSquad($) {
 // 따로따로 요청할 필요가 없음 — 실사용 테스트로 확인).
 export async function getH2hPage(countrySlug, team1Slug, team2Slug) {
   const url = `https://footystats.org/${countrySlug}/${stripClubIdSuffix(team1Slug)}-vs-${stripClubIdSuffix(team2Slug)}-h2h-stats`;
-  const html = await getHtml(url);
-  return cheerio.load(html);
+  try {
+    const html = await getHtml(url);
+    return cheerio.load(html);
+  } catch (err) {
+    // ⚠️ 진단용: 301 등으로 실패하면 실제로 어떤 URL을 시도했는지(특히 countrySlug 값)
+    // 남겨서 다음 실행 로그에서 URL 조립 자체가 잘못된 건지 바로 확인 가능하게 한다.
+    throw new Error(`${err.message} | 시도한 URL: ${url} (countrySlug="${countrySlug}")`);
+  }
 }
 
 // $ = getH2hPage()가 반환한 cheerio 인스턴스
