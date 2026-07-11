@@ -10,6 +10,8 @@ const allPosts = await getCollection('posts', ({ data }) => {
 });
 
 // [수정] 최신순 정렬 후 상위 4개만 추출
+const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+
 const posts = allPosts
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 4)
@@ -18,16 +20,17 @@ const posts = allPosts
     // 이렇게 해야 주소가 /undefined 로 나오는 현상이 해결됩니다.
     const finalSlug = post.data.slug || post.slug;
 
+    // 🔥 24시간 계산 로직
+    const isNew = (Date.now() - post.data.date.getTime()) < ONE_DAY_MS;
+
     return {
       title: post.data.title,
       // 날짜 포맷을 MM.DD 형식으로 변경 (예: 04.14)
       date: `${String(post.data.date.getMonth() + 1).padStart(2, '0')}.${String(post.data.date.getDate()).padStart(2, '0')}`,
-      slug: `/posts/detail/${finalSlug}` // 상세 페이지 링크
+      slug: `/posts/detail/${finalSlug}`, // 상세 페이지 링크
+      isNew,
     };
   });
-
-const now = new Date();
-const ONE_DAY_MS = 24 * 60 * 60 * 1000; 
 ---
 
 <section class={`board ${category}`}>
@@ -37,29 +40,17 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000;
   </div>
   
   <ul class="board-list">
-    {allPosts
-      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-      .slice(0, 4)
-      .map(post => {
-        // 🔥 24시간 계산 로직
-        const isNew = (now.getTime() - post.data.date.getTime()) < ONE_DAY_MS;
-        const finalSlug = post.data.slug || post.slug;
-        
-        // 🔥 날짜 표시용 문자열 (05.04 형식)
-        const displayDate = `${String(post.data.date.getMonth() + 1).padStart(2, '0')}.${String(post.data.date.getDate()).padStart(2, '0')}`;
-
-        return (
-          <li>
-            <a href={`/posts/detail/${finalSlug}`} class="title-link">
-              <span class="title-wrapper">
-                {isNew && <span class="new-badge">N</span>}
-                <span class="text-content">{post.data.title}</span>
-              </span>
-            </a>
-            <span class="post-date">{displayDate}</span>
-          </li>
-        );
-      })}
+    {posts.map(post => (
+      <li>
+        <a href={post.slug} class="title-link">
+          <span class="title-wrapper">
+            {post.isNew && <span class="new-badge">N</span>}
+            <span class="text-content">{post.title}</span>
+          </span>
+        </a>
+        <span class="post-date">{post.date}</span>
+      </li>
+    ))}
   </ul>
 </section>
 
