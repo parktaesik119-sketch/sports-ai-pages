@@ -19,8 +19,16 @@ function assertProxyConfigured() {
   }
 }
 
+// footystats.org가 짧은 시간에 요청이 몰리면 429(속도 제한)로 막는 것을 실사용
+// 테스트로 확인함 — 모든 요청 사이에 최소한의 간격을 둔다.
+const REQUEST_DELAY_MS = 800;
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 async function proxyFetch(targetUrl, { method = 'GET', body = null, headers = {} } = {}) {
   assertProxyConfigured();
+  await delay(REQUEST_DELAY_MS);
   const proxiedUrl = `${HOME_PROXY_URL}/proxy?url=${encodeURIComponent(targetUrl)}`;
   const res = await fetch(proxiedUrl, {
     method,
@@ -151,7 +159,7 @@ export function parseClubSquad($) {
 //    아그리게이트 요약 + 개별 경기 리스트(최대 수십 경기)
 // ─────────────────────────────────────────────
 export async function getH2H(countrySlug, team1Slug, team2Slug, limit = 10) {
-  const url = `https://footystats.org/${countrySlug}/${team1Slug}-vs-${team2Slug}-h2h-stats`;
+  const url = `https://footystats.org/${countrySlug}/${stripClubIdSuffix(team1Slug)}-vs-${stripClubIdSuffix(team2Slug)}-h2h-stats`;
   const html = await getHtml(url);
   const $ = cheerio.load(html);
 
@@ -197,6 +205,15 @@ export function extractTeamSlugFromClubPath(clubPath) {
   // /clubs/galway-united-fc-2052 → galway-united-fc-2052
   const m = clubPath.match(/\/clubs\/(.+)$/);
   return m ? m[1] : null;
+}
+
+// ⚠️ H2H URL(/{country}/{team1}-vs-{team2}-h2h-stats)에 쓰이는 팀 슬러그는
+// 클럽 페이지 경로 끝에 붙는 숫자 ID가 빠진 형태다.
+// 예: 클럽 경로 slug "galway-united-fc-2052" → H2H에는 "galway-united-fc"만 사용.
+// (실사용 테스트로 확인: 숫자 ID를 안 떼면 301 리다이렉트가 남 — 원인 특정 완료)
+export function stripClubIdSuffix(slug) {
+  if (!slug) return slug;
+  return slug.replace(/-\d+$/, '');
 }
 
 // $ = getClubPage()가 반환한 cheerio 인스턴스에서 국가 슬러그 추출.
