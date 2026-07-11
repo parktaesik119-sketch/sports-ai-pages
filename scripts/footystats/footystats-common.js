@@ -178,11 +178,16 @@ export function parseClubSquad($) {
 // 3. H2H 페이지: GET /{country-slug}/{team1}-vs-{team2}-h2h-stats
 //    아그리게이트 요약 + 개별 경기 리스트(최대 수십 경기)
 // ─────────────────────────────────────────────
-export async function getH2H(countrySlug, team1Slug, team2Slug, limit = 10) {
+// H2H 페이지를 딱 한 번만 가져온다(매치 목록과 라인업이 같은 페이지 안에 다 있어서
+// 따로따로 요청할 필요가 없음 — 실사용 테스트로 확인).
+export async function getH2hPage(countrySlug, team1Slug, team2Slug) {
   const url = `https://footystats.org/${countrySlug}/${stripClubIdSuffix(team1Slug)}-vs-${stripClubIdSuffix(team2Slug)}-h2h-stats`;
   const html = await getHtml(url);
-  const $ = cheerio.load(html);
+  return cheerio.load(html);
+}
 
+// $ = getH2hPage()가 반환한 cheerio 인스턴스
+export function parseH2hMatches($, limit = 10) {
   const matches = [];
   $('a.fixture.changeH2HDataButton_neo').each((_, el) => {
     const a = $(el);
@@ -216,6 +221,93 @@ export async function getH2H(countrySlug, team1Slug, team2Slug, limit = 10) {
     .filter(m => m.date)
     .sort((a, b) => (a.date < b.date ? 1 : -1))
     .slice(0, limit);
+}
+
+// 하위 호환용 - 예전처럼 한 번에 fetch + parse를 같이 하고 싶을 때.
+// (라인업까지 같이 필요하면 getH2hPage() + parseH2hMatches()/parseMatchLineups()를
+// 따로 써서 페이지를 한 번만 가져오는 쪽이 요청 수를 아낄 수 있음)
+export async function getH2H(countrySlug, team1Slug, team2Slug, limit = 10) {
+  const $ = await getH2hPage(countrySlug, team1Slug, team2Slug);
+  return parseH2hMatches($, limit);
+}
+
+// ─────────────────────────────────────────────
+// H2H 페이지 안에 있는 "Lineup Predictions & Injuries" 섹션 — 두 팀의 최근 사용
+// 선발 11명(등번호/이름/세부포지션)을 뽑는다. ⚠️ "가장 최근에 사용된 라인업"
+// 기준이지, 이번 경기 확정/공식 라인업이 아니다(footystats 페이지 자체 문구로 확인).
+// $ = getH2hPage()가 반환한 cheerio 인스턴스
+// ─────────────────────────────────────────────
+export function parseMatchLineups($) {
+  // "#Starting 11" 헤더가 팀당 하나씩(총 2개), 그 바로 뒤에 "#Substitutes" 헤더가 옴.
+  // [팀1-Starting11, 팀1-Substitutes, 팀2-Starting11, 팀2-Substitutes] 순서.
+  const headers = $('.club-blue-highlight').toArray();
+  const startingHeaders = headers.filter(h => $(h).text().includes('Starting 11'));
+  if (startingHeaders.length < 2) return null; // 라인업 섹션 자체가 없는 경기(하위 리그 등)
+
+  const allRows = $('.row.cf.m0Auto').toArray();
+
+  // cheerio에는 DOM의 compareDocumentPosition이 없어서, 전체 노드 배열에서의
+  // 인덱스 순서로 "헤더 A와 B 사이에 있는 행"을 판단한다.
+  const allNodesInOrder = $('*').toArray();
+  const indexOf = (el) => allNodesInOrder.indexOf(el);
+
+  function rowsBetween(startEl, endEl) {
+    const startIdx = indexOf(startEl);
+    const endIdx = endEl ? indexOf(endEl) : Infinity;
+    return allRows.filter(r => {
+      const idx = indexOf(r);
+      return idx > startIdx && idx < endIdx;
+    });
+  }
+
+  function extractPlayers(rows) {
+    const players = [];
+    for (const r of rows) {
+      const ps = $(r).children('p').toArray();
+      if (ps.length < 3) continue;
+      const a = $(ps[1]).find('a').first();
+      const href = a.attr('href');
+      const name = a.text().trim();
+      const position = $(ps[2]).text().trim();
+      const number = $(ps[0]).text().trim();
+      if (!name || !href) continue;
+
+      const parts = href.split('/').filter(Boolean); // ['players', country, slug]
+      const country = parts[1];
+      const slug = parts[2];
+
+      players.push({
+        number: number || null,
+        name,
+        position: position || null,
+        profilePath: href,
+        photoUrl: country && slug ? `https://cdn.footystats.org/img/players/${country}-${slug}.png` : null,
+      });
+    }
+    return players;
+  }
+
+  function nextHeaderAfter(headerEl) {
+    const pos = headers.indexOf(headerEl);
+    return headers[pos + 1] || null;
+  }
+
+  const homeStarting = extractPlayers(rowsBetween(startingHeaders[0], nextHeaderAfter(startingHeaders[0])));
+  const awayStarting = extractPlayers(rowsBetween(startingHeaders[1], nextHeaderAfter(startingHeaders[1])));
+
+  if (homeStarting.length === 0 && awayStarting.length === 0) return null;
+
+  return { home: homeStarting, away: awayStarting };
+}
+
+// 라인업(parseMatchLineups 결과의 home 또는 away)을 _slug_.astro가 기대하는
+// "{이름} ({포지션})|{사진URL}" 문자열 배열로 변환. (kbo-lineup-update.js 등과 동일 포맷)
+export function formatLineupForDisplay(players) {
+  if (!players || players.length === 0) return [];
+  return players.map(p => {
+    const base = `${p.name} (${p.position || 'MF'})`;
+    return p.photoUrl ? `${base}|${p.photoUrl}` : base;
+  });
 }
 
 // clubPath("/clubs/galway-united-fc-2052")에서 country/team 슬러그를 뽑아내는 헬퍼.

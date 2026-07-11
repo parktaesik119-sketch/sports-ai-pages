@@ -1,16 +1,19 @@
 // scripts/footystats/footystats-lineup-update.js
 // kbo-lineup-update.js / uefa-lineup-update.js와 같은 패턴 — 이미 생성된 축구 분석글의
-// homeTeam/awayTeam(한글)을 읽어서 footystats.org에서 H2H/최근폼/스쿼드+선수사진을
-// 수집해온다. api-sports를 전혀 호출하지 않으므로 무료 호출 한도(100회/일)와 무관하게
-// 자유롭게 테스트할 수 있다.
+// homeTeam/awayTeam(한글)을 읽어서 footystats.org에서 H2H·최근폼·실제 선발 라인업을
+// 수집해온다. api-sports를 전혀 호출하지 않으므로 무료 호출 한도(100회/일)와 무관하다.
 //
 // ⚠️ HOME_PROXY_URL / HOME_PROXY_SECRET 환경변수 필요 (집 PC 프록시 경유 필수).
 //
-// _slug_.astro 소스를 직접 확인해서 h2h/homeRecent/awayRecent가 기대하는 정확한 스키마를
-// 맞췄다(h2h: {date,home,away,score}, homeRecent/awayRecent: {date,home,away,score,result}).
-// 다만 기존 AI가 이미 채워놓은 homeRecent/awayRecent(한글명+사이트 내부링크 포함)는
-// footystats 데이터보다 품질이 좋으므로 절대 덮어쓰지 않고, "비어있을 때만" 채운다.
-// h2h는 보통 자체 DB 기간이 짧아 항상 비어있으므로("[]") 대부분 채워질 것이다.
+// 정책:
+// - h2h/homeRecent/awayRecent: 기존에 이미 5개 이상 있으면 안 건드림. 5개 미만이면
+//   부족한 만큼만 footystats 데이터로 "날짜순 보충"(기존 항목은 그대로 유지, 겹치는
+//   경기는 중복 추가 안 함). 기존 데이터(한글명+사이트 내부링크)가 footystats보다
+//   품질이 좋으므로 절대 덮어쓰지 않는다.
+// - homeLineup/awayLineup: 이미 값이 있으면(ESPN/UEFA가 이미 채웠으면) 안 건드리고,
+//   비어있을 때만 footystats의 "최근 사용 라인업"으로 채운다.
+//   ⚠️ footystats 문구상 이번 경기 확정 라인업이 아니라 "가장 최근에 쓰인 라인업"
+//   기준 예측이다.
 
 import fs from 'fs';
 import path from 'path';
@@ -20,10 +23,12 @@ import {
   searchClub,
   getClubPage,
   parseClubRecentMatches,
-  parseClubSquad,
   parseCountrySlug,
   extractTeamSlugFromClubPath,
-  getH2H,
+  getH2hPage,
+  parseH2hMatches,
+  parseMatchLineups,
+  formatLineupForDisplay,
   toH2hDisplayFormat,
   toRecentDisplayFormat,
 } from './footystats-common.js';
@@ -31,41 +36,27 @@ import {
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
 const POSTS_DIR  = path.resolve(__dirname, '../../src/content/posts');
+const TARGET_COUNT = 5; // h2h/homeRecent/awayRecent를 이 개수까지 채운다
 
-// ─────────────────────────────────────────────
-// TEAM_NAME_MAP 로드 후 역방향(한글→영문) 생성 — kbo-lineup-update.js와 동일 로직
-// ─────────────────────────────────────────────
-function buildReverseMap(mapFilePath) {
+function buildMaps(mapFilePath) {
   const content = fs.readFileSync(mapFilePath, 'utf-8');
   const pairs   = [...content.matchAll(/"([^"]+)":\s*"([^"]+)"/g)];
-  const reverse = {};
+  const koToEn = {};
+  const enToKo = {};
   for (const [, en, ko] of pairs) {
-    if (!reverse[ko]) reverse[ko] = en;
+    if (!koToEn[ko]) koToEn[ko] = en;
+    enToKo[en] = ko;
   }
-  return reverse;
+  return { koToEn, enToKo };
 }
 const TEAM_MAP_PATH = path.resolve(__dirname, '../team_name_map.js');
-const KO_TO_EN = buildReverseMap(TEAM_MAP_PATH);
+const { koToEn: KO_TO_EN, enToKo: EN_TO_KO } = buildMaps(TEAM_MAP_PATH);
+const ALL_MAPPED_EN_NAMES = Object.keys(EN_TO_KO);
+
 function toEnglishTeamName(koName) {
   return KO_TO_EN[koName] || koName;
 }
 
-// 영문 → 한글 정방향 매핑 (footystats에서 가져온 팀명을 한글로 되돌리는 용도)
-function buildForwardMap(mapFilePath) {
-  const content = fs.readFileSync(mapFilePath, 'utf-8');
-  const pairs   = [...content.matchAll(/"([^"]+)":\s*"([^"]+)"/g)];
-  const forward = {};
-  for (const [, en, ko] of pairs) {
-    forward[en] = ko;
-  }
-  return forward;
-}
-const EN_TO_KO = buildForwardMap(TEAM_MAP_PATH);
-const ALL_MAPPED_EN_NAMES = Object.keys(EN_TO_KO);
-
-// footystats가 준 팀명(영문, 표기가 team_name_map.js와 정확히 안 맞을 수 있음)을
-// 한글로 치환. 정확히 일치하는 게 없으면 matchTeam()으로 가장 가까운 걸 찾고,
-// 그마저도 없으면 원문(영문)을 그대로 둔다(무리하게 억지로 안 바꿈).
 function translateTeamNameToKorean(footystatsName) {
   if (!footystatsName) return footystatsName;
   if (EN_TO_KO[footystatsName]) return EN_TO_KO[footystatsName];
@@ -81,9 +72,6 @@ function translateMatchList(matches) {
   }));
 }
 
-// ─────────────────────────────────────────────
-// md frontmatter 파싱/업데이트 — kbo-lineup-update.js와 동일
-// ─────────────────────────────────────────────
 function updateMdFrontmatter(filePath, updates) {
   let content  = fs.readFileSync(filePath, 'utf-8');
   const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
@@ -152,17 +140,38 @@ async function collectTeamData(teamNameEn) {
     teamSlug: extractTeamSlugFromClubPath(club.path),
     countrySlug: parseCountrySlug($),
     recentMatches: parseClubRecentMatches($),
-    squad: parseClubSquad($),
   };
 }
 
-// fm에서 읽은 값(따옴표 포함된 원문 문자열일 수 있음)이 사실상 빈 배열인지 판단.
-// parseFrontmatter()가 큰따옴표만 벗겨내고 작은따옴표(h2h: '[]' 같은 경우)는 그대로
-// 남기므로, 앞뒤 따옴표를 한 번 더 벗겨내고 비교한다.
-function isEmptyArrayField(raw) {
-  if (!raw) return true;
+function getExistingMatches(raw) {
+  if (!raw) return { items: [] };
   const stripped = raw.trim().replace(/^['"]|['"]$/g, '').trim();
-  return stripped === '' || stripped === '[]';
+  if (!stripped || stripped === '[]') return { items: [] };
+  try {
+    const parsed = JSON.parse(stripped);
+    if (Array.isArray(parsed)) return { items: parsed };
+  } catch { /* fallthrough */ }
+  return { items: null };
+}
+
+function supplementMatchList(existingItems, additionalItems, targetCount) {
+  const need = targetCount - existingItems.length;
+  if (need <= 0) return null;
+
+  const existingKeys = new Set(existingItems.map(m => `${m.date}|${m.home}|${m.away}`));
+  const candidates = additionalItems.filter(m => !existingKeys.has(`${m.date}|${m.home}|${m.away}`));
+  candidates.sort((a, b) => (a.date < b.date ? 1 : -1));
+  const toAdd = candidates.slice(0, need);
+  if (toAdd.length === 0) return null;
+
+  const merged = [...existingItems, ...toAdd];
+  merged.sort((a, b) => (a.date < b.date ? 1 : -1));
+  return merged;
+}
+
+function isEmptyField(raw) {
+  if (!raw) return true;
+  return raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
 }
 
 async function main() {
@@ -197,13 +206,18 @@ async function main() {
       continue;
     }
 
-    const needH2h         = isEmptyArrayField(fm.h2h);
-    const needHomeRecent  = isEmptyArrayField(fm.homeRecent);
-    const needAwayRecent  = isEmptyArrayField(fm.awayRecent);
+    const existingH2h        = getExistingMatches(fm.h2h);
+    const existingHomeRecent = getExistingMatches(fm.homeRecent);
+    const existingAwayRecent = getExistingMatches(fm.awayRecent);
+    const homeLineupEmpty = isEmptyField(fm.homeLineup);
+    const awayLineupEmpty = isEmptyField(fm.awayLineup);
 
-    // h2h/homeRecent/awayRecent가 이미 다 채워져 있으면 footystats를 부를 필요가 없음
-    // (기존 좋은 데이터는 절대 덮어쓰지 않으므로, 채울 게 없으면 그냥 스킵)
-    if (!needH2h && !needHomeRecent && !needAwayRecent) {
+    const needH2h        = existingH2h.items !== null && existingH2h.items.length < TARGET_COUNT;
+    const needHomeRecent = existingHomeRecent.items !== null && existingHomeRecent.items.length < TARGET_COUNT;
+    const needAwayRecent = existingAwayRecent.items !== null && existingAwayRecent.items.length < TARGET_COUNT;
+    const needLineup     = homeLineupEmpty || awayLineupEmpty;
+
+    if (!needH2h && !needHomeRecent && !needAwayRecent && !needLineup) {
       skipCount++;
       continue;
     }
@@ -213,7 +227,7 @@ async function main() {
 
     console.log(`\n🔍 ${path.basename(filePath)}`);
     console.log(`   홈: ${fm.homeTeam} → ${homeTeamEn} / 원정: ${fm.awayTeam} → ${awayTeamEn}`);
-    console.log(`   채울 것: h2h=${needH2h} homeRecent=${needHomeRecent} awayRecent=${needAwayRecent}`);
+    console.log(`   필요: h2h(${existingH2h.items?.length ?? '파싱불가'}→${needH2h}) homeRecent(${existingHomeRecent.items?.length ?? '파싱불가'}→${needHomeRecent}) awayRecent(${existingAwayRecent.items?.length ?? '파싱불가'}→${needAwayRecent}) lineup(${needLineup})`);
 
     try {
       const homeData = await collectTeamData(homeTeamEn);
@@ -232,32 +246,48 @@ async function main() {
       }
       console.log(`   ✅ 원정팀 매칭: ${awayData.matchedName} (${awayData.clubPath})`);
 
-      let h2h = [];
-      if (needH2h && homeData.countrySlug && homeData.teamSlug && awayData.teamSlug) {
-        h2h = await getH2H(homeData.countrySlug, homeData.teamSlug, awayData.teamSlug).catch(err => {
-          console.error(`   ⚠️ H2H 수집 실패:`, err.message);
-          return [];
+      const updates = {};
+
+      if ((needH2h || needLineup) && homeData.countrySlug && homeData.teamSlug && awayData.teamSlug) {
+        const $h2h = await getH2hPage(homeData.countrySlug, homeData.teamSlug, awayData.teamSlug).catch(err => {
+          console.error(`   ⚠️ H2H 페이지 수집 실패:`, err.message);
+          return null;
         });
+
+        if ($h2h) {
+          if (needH2h) {
+            const h2hRaw = parseH2hMatches($h2h);
+            const h2hDisplay = toH2hDisplayFormat(translateMatchList(h2hRaw));
+            const merged = supplementMatchList(existingH2h.items, h2hDisplay, TARGET_COUNT);
+            if (merged) updates.h2h = JSON.stringify(merged);
+          }
+
+          if (needLineup) {
+            const lineups = parseMatchLineups($h2h);
+            if (lineups) {
+              if (homeLineupEmpty && lineups.home.length > 0) {
+                updates.homeLineup = JSON.stringify(formatLineupForDisplay(lineups.home));
+              }
+              if (awayLineupEmpty && lineups.away.length > 0) {
+                updates.awayLineup = JSON.stringify(formatLineupForDisplay(lineups.away));
+              }
+            } else {
+              console.log(`   ℹ️ 라인업 섹션 없음 (하위 리그 등 footystats 미지원일 수 있음)`);
+            }
+          }
+        }
       }
 
-      const updates = {};
-      if (needH2h && h2h.length > 0) {
-        updates.h2h = JSON.stringify(toH2hDisplayFormat(translateMatchList(h2h)));
+      if (needHomeRecent) {
+        const homeRecentDisplay = toRecentDisplayFormat(translateMatchList(homeData.recentMatches), fm.homeTeam);
+        const merged = supplementMatchList(existingHomeRecent.items, homeRecentDisplay, TARGET_COUNT);
+        if (merged) updates.homeRecent = JSON.stringify(merged);
       }
-      if (needHomeRecent && homeData.recentMatches.length > 0) {
-        updates.homeRecent = JSON.stringify(
-          toRecentDisplayFormat(translateMatchList(homeData.recentMatches), fm.homeTeam)
-        );
+      if (needAwayRecent) {
+        const awayRecentDisplay = toRecentDisplayFormat(translateMatchList(awayData.recentMatches), fm.awayTeam);
+        const merged = supplementMatchList(existingAwayRecent.items, awayRecentDisplay, TARGET_COUNT);
+        if (merged) updates.awayRecent = JSON.stringify(merged);
       }
-      if (needAwayRecent && awayData.recentMatches.length > 0) {
-        updates.awayRecent = JSON.stringify(
-          toRecentDisplayFormat(translateMatchList(awayData.recentMatches), fm.awayTeam)
-        );
-      }
-      // 스쿼드(전체 선수+포지션+사진)는 아직 _slug_.astro에 표시 로직이 없어서
-      // 별도 필드에 계속 보관해둔다. 화면 반영 방식이 정해지면 그때 옮기면 됨.
-      if (homeData.squad.length > 0) updates.footystatsSquadHome = JSON.stringify(homeData.squad);
-      if (awayData.squad.length > 0) updates.footystatsSquadAway = JSON.stringify(awayData.squad);
 
       if (Object.keys(updates).length > 0) {
         const ok = updateMdFrontmatter(filePath, updates);
@@ -266,7 +296,7 @@ async function main() {
           updatedCount++;
         }
       } else {
-        console.log(`   ℹ️ 채울 것 없음 (footystats에도 데이터가 없었음)`);
+        console.log(`   ℹ️ 채울 것 없음 (footystats에도 보충할 데이터가 없었음)`);
         skipCount++;
       }
     } catch (err) {
