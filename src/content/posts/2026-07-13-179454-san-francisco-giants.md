@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 T. McDonald (3-7, 5.46) ERA 5.46|https://a.espncdn.com/i/headshots/mlb/players/full/5185136.png\"]"
+awayLineup: "[\"선발투수 M. Lorenzen (3-9, 6.46) ERA 6.46|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\"]"
 ---

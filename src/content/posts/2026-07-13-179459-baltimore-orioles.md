@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Baz (4-9, 4.21) ERA 4.21|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+awayLineup: "[\"선발투수 S. Lugo (3-6, 4.56) ERA 4.56|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 P. Skenes (7-8, 3.58) ERA 3.58|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
+awayLineup: "[\"선발투수 J. Misiorowski (10-4, 1.62) ERA 1.62|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
 ---

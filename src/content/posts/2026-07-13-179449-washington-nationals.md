@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 C. Cavalli (5-4, 3.88) ERA 3.88|https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png\"]"
+awayLineup: "[\"선발투수 W. Warren (7-4, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\"]"
 ---

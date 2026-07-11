@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 N. Schultz (2-6, 6.00) ERA 6.00|https://a.espncdn.com/i/headshots/mlb/players/full/5080754.png\"]"
+awayLineup: "[\"선발투수 J.T. Ginn (7-5, 3.10) ERA 3.10|https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png\"]"
 ---
