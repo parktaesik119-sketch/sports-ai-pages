@@ -34,6 +34,7 @@ jobs:
 
       - name: Run footystats test update script
         run: node scripts/footystats/footystats-lineup-update.js
+        continue-on-error: true
         env:
           HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
           HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}

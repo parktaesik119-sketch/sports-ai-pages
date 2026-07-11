@@ -62,6 +62,14 @@ export async function searchClub(query) {
       results.push({ name, path: href });
     }
   });
+
+  // ⚠️ 진단용: 검색 결과가 0건이면, 실제로 응답이 어떻게 왔는지 로그로 남긴다.
+  // (파싱 셀렉터가 틀렸는지, 프록시가 이상한 응답을 돌려줬는지, 진짜 검색 결과가
+  // 없는 건지 다음 실행 로그에서 구분할 수 있게 함)
+  if (results.length === 0) {
+    console.log(`   🔎 [진단] "${query}" 검색 결과 0건 — 응답 길이 ${html.length}자, 앞부분: ${html.slice(0, 300).replace(/\s+/g, ' ')}`);
+  }
+
   return results;
 }
 

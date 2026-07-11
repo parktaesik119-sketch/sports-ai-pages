@@ -83,13 +83,14 @@ const server = http.createServer((req, res) => {
     const reqBody = Buffer.concat(reqChunks);
     if (reqBody.length > 0) forwardHeaders['content-length'] = String(reqBody.length);
 
-    console.log(`[${new Date().toISOString()}] 프록시 요청: ${req.method} ${target.toString()}`);
+    console.log(`[${new Date().toISOString()}] 프록시 요청: ${req.method} ${target.toString()} (바디 ${reqBody.length}바이트, content-type: ${forwardHeaders['content-type'] || '없음'})`);
 
     const upstreamReq = https.request(target, { method: req.method, headers: forwardHeaders }, (upstreamRes) => {
       const chunks = [];
       upstreamRes.on('data', (c) => chunks.push(c));
       upstreamRes.on('end', () => {
         const body = Buffer.concat(chunks);
+        console.log(`[${new Date().toISOString()}]   ↳ 업스트림 응답: HTTP ${upstreamRes.statusCode}, ${body.length}바이트`);
         const headers = {
           'Content-Type': upstreamRes.headers['content-type'] || 'application/octet-stream',
           'X-Upstream-Status': String(upstreamRes.statusCode),
