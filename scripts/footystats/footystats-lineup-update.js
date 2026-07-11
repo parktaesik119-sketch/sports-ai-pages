@@ -6,9 +6,11 @@
 //
 // ⚠️ HOME_PROXY_URL / HOME_PROXY_SECRET 환경변수 필요 (집 PC 프록시 경유 필수).
 //
-// ⚠️ 아직 _slug_.astro 쪽에 표시 로직을 안 만들어서, 기존 AI가 써놓은 h2h/homeRecent
-// 같은 필드는 건드리지 않고 새 필드(footystatsH2H 등, JSON 문자열)로 따로 저장한다.
-// 화면 반영 방식이 정해지면 그때 실제 표시용 필드로 옮기면 됨.
+// _slug_.astro 소스를 직접 확인해서 h2h/homeRecent/awayRecent가 기대하는 정확한 스키마를
+// 맞췄다(h2h: {date,home,away,score}, homeRecent/awayRecent: {date,home,away,score,result}).
+// 다만 기존 AI가 이미 채워놓은 homeRecent/awayRecent(한글명+사이트 내부링크 포함)는
+// footystats 데이터보다 품질이 좋으므로 절대 덮어쓰지 않고, "비어있을 때만" 채운다.
+// h2h는 보통 자체 DB 기간이 짧아 항상 비어있으므로("[]") 대부분 채워질 것이다.
 
 import fs from 'fs';
 import path from 'path';
@@ -22,6 +24,8 @@ import {
   parseCountrySlug,
   extractTeamSlugFromClubPath,
   getH2H,
+  toH2hDisplayFormat,
+  toRecentDisplayFormat,
 } from './footystats-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -44,6 +48,37 @@ const TEAM_MAP_PATH = path.resolve(__dirname, '../team_name_map.js');
 const KO_TO_EN = buildReverseMap(TEAM_MAP_PATH);
 function toEnglishTeamName(koName) {
   return KO_TO_EN[koName] || koName;
+}
+
+// 영문 → 한글 정방향 매핑 (footystats에서 가져온 팀명을 한글로 되돌리는 용도)
+function buildForwardMap(mapFilePath) {
+  const content = fs.readFileSync(mapFilePath, 'utf-8');
+  const pairs   = [...content.matchAll(/"([^"]+)":\s*"([^"]+)"/g)];
+  const forward = {};
+  for (const [, en, ko] of pairs) {
+    forward[en] = ko;
+  }
+  return forward;
+}
+const EN_TO_KO = buildForwardMap(TEAM_MAP_PATH);
+const ALL_MAPPED_EN_NAMES = Object.keys(EN_TO_KO);
+
+// footystats가 준 팀명(영문, 표기가 team_name_map.js와 정확히 안 맞을 수 있음)을
+// 한글로 치환. 정확히 일치하는 게 없으면 matchTeam()으로 가장 가까운 걸 찾고,
+// 그마저도 없으면 원문(영문)을 그대로 둔다(무리하게 억지로 안 바꿈).
+function translateTeamNameToKorean(footystatsName) {
+  if (!footystatsName) return footystatsName;
+  if (EN_TO_KO[footystatsName]) return EN_TO_KO[footystatsName];
+  const matched = ALL_MAPPED_EN_NAMES.find(en => matchTeam(footystatsName, en));
+  return matched ? EN_TO_KO[matched] : footystatsName;
+}
+
+function translateMatchList(matches) {
+  return matches.map(m => ({
+    ...m,
+    home: translateTeamNameToKorean(m.home),
+    away: translateTeamNameToKorean(m.away),
+  }));
 }
 
 // ─────────────────────────────────────────────
@@ -121,8 +156,17 @@ async function collectTeamData(teamNameEn) {
   };
 }
 
+// fm에서 읽은 값(따옴표 포함된 원문 문자열일 수 있음)이 사실상 빈 배열인지 판단.
+// parseFrontmatter()가 큰따옴표만 벗겨내고 작은따옴표(h2h: '[]' 같은 경우)는 그대로
+// 남기므로, 앞뒤 따옴표를 한 번 더 벗겨내고 비교한다.
+function isEmptyArrayField(raw) {
+  if (!raw) return true;
+  const stripped = raw.trim().replace(/^['"]|['"]$/g, '').trim();
+  return stripped === '' || stripped === '[]';
+}
+
 async function main() {
-  console.log('⚽ footystats 테스트 업데이트 시작\n');
+  console.log('⚽ footystats 업데이트 시작\n');
 
   if (!process.env.HOME_PROXY_URL || !process.env.HOME_PROXY_SECRET) {
     console.log('⚠️ HOME_PROXY_URL / HOME_PROXY_SECRET 환경변수 없음 — footystats 업데이트를 건너뜁니다.');
@@ -153,11 +197,23 @@ async function main() {
       continue;
     }
 
+    const needH2h         = isEmptyArrayField(fm.h2h);
+    const needHomeRecent  = isEmptyArrayField(fm.homeRecent);
+    const needAwayRecent  = isEmptyArrayField(fm.awayRecent);
+
+    // h2h/homeRecent/awayRecent가 이미 다 채워져 있으면 footystats를 부를 필요가 없음
+    // (기존 좋은 데이터는 절대 덮어쓰지 않으므로, 채울 게 없으면 그냥 스킵)
+    if (!needH2h && !needHomeRecent && !needAwayRecent) {
+      skipCount++;
+      continue;
+    }
+
     const homeTeamEn = toEnglishTeamName(fm.homeTeam || '');
     const awayTeamEn = toEnglishTeamName(fm.awayTeam || '');
 
     console.log(`\n🔍 ${path.basename(filePath)}`);
     console.log(`   홈: ${fm.homeTeam} → ${homeTeamEn} / 원정: ${fm.awayTeam} → ${awayTeamEn}`);
+    console.log(`   채울 것: h2h=${needH2h} homeRecent=${needHomeRecent} awayRecent=${needAwayRecent}`);
 
     try {
       const homeData = await collectTeamData(homeTeamEn);
@@ -177,25 +233,41 @@ async function main() {
       console.log(`   ✅ 원정팀 매칭: ${awayData.matchedName} (${awayData.clubPath})`);
 
       let h2h = [];
-      if (homeData.countrySlug && homeData.teamSlug && awayData.teamSlug) {
+      if (needH2h && homeData.countrySlug && homeData.teamSlug && awayData.teamSlug) {
         h2h = await getH2H(homeData.countrySlug, homeData.teamSlug, awayData.teamSlug).catch(err => {
           console.error(`   ⚠️ H2H 수집 실패:`, err.message);
           return [];
         });
       }
 
-      const updates = {
-        footystatsH2H: JSON.stringify(h2h),
-        footystatsRecentHome: JSON.stringify(homeData.recentMatches),
-        footystatsRecentAway: JSON.stringify(awayData.recentMatches),
-        footystatsSquadHome: JSON.stringify(homeData.squad),
-        footystatsSquadAway: JSON.stringify(awayData.squad),
-      };
+      const updates = {};
+      if (needH2h && h2h.length > 0) {
+        updates.h2h = JSON.stringify(toH2hDisplayFormat(translateMatchList(h2h)));
+      }
+      if (needHomeRecent && homeData.recentMatches.length > 0) {
+        updates.homeRecent = JSON.stringify(
+          toRecentDisplayFormat(translateMatchList(homeData.recentMatches), fm.homeTeam)
+        );
+      }
+      if (needAwayRecent && awayData.recentMatches.length > 0) {
+        updates.awayRecent = JSON.stringify(
+          toRecentDisplayFormat(translateMatchList(awayData.recentMatches), fm.awayTeam)
+        );
+      }
+      // 스쿼드(전체 선수+포지션+사진)는 아직 _slug_.astro에 표시 로직이 없어서
+      // 별도 필드에 계속 보관해둔다. 화면 반영 방식이 정해지면 그때 옮기면 됨.
+      if (homeData.squad.length > 0) updates.footystatsSquadHome = JSON.stringify(homeData.squad);
+      if (awayData.squad.length > 0) updates.footystatsSquadAway = JSON.stringify(awayData.squad);
 
-      const ok = updateMdFrontmatter(filePath, updates);
-      if (ok) {
-        console.log(`   🔄 업데이트 완료 | H2H ${h2h.length}건 / 최근폼 홈${homeData.recentMatches.length}·원정${awayData.recentMatches.length}건 / 스쿼드 홈${homeData.squad.length}명·원정${awayData.squad.length}명`);
-        updatedCount++;
+      if (Object.keys(updates).length > 0) {
+        const ok = updateMdFrontmatter(filePath, updates);
+        if (ok) {
+          console.log(`   🔄 업데이트 완료 | ${Object.keys(updates).join(', ')}`);
+          updatedCount++;
+        }
+      } else {
+        console.log(`   ℹ️ 채울 것 없음 (footystats에도 데이터가 없었음)`);
+        skipCount++;
       }
     } catch (err) {
       console.error(`   ❌ 수집 실패:`, err.message);

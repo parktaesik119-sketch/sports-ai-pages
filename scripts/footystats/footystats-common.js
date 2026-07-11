@@ -129,7 +129,10 @@ export function parseClubRecentMatches($, limit = 10) {
 
 // $ = getClubPage()가 반환한 cheerio 인스턴스
 export function parseClubSquad($) {
+  const VALID_POSITIONS = new Set(['GK', 'DF', 'MF', 'FW']);
   const players = [];
+  const seen = new Set(); // profilePath 기준 중복 제거
+
   $("a.semi-bold[href^='/players/']").each((_, el) => {
     const a = $(el);
     const href = a.attr('href'); // /players/{country}/{name-slug}
@@ -142,15 +145,32 @@ export function parseClubSquad($) {
     const row = a.closest('p').parent(); // <p class="col-lg-6 ellipses">의 부모 div
     const position = row.find('p').eq(1).text().trim();
 
+    // ⚠️ 스쿼드 표(전체 선수 명단) 말고도 페이지 다른 곳(득점자 순위 등)에
+    // 같은 클래스(a.semi-bold)의 선수 링크가 또 나와서 이름 뒤에 숫자가 붙은
+    // 중복 항목("Stefan Mugoša  7" 등, position 없음)이 섞이는 걸 실사용 테스트로 확인함.
+    // 포지션이 GK/DF/MF/FW 중 하나로 정확히 확인된 것만 스쿼드로 인정한다.
+    if (!VALID_POSITIONS.has(position)) return;
+    if (seen.has(href)) return; // 같은 선수가 여러 번 잡히는 것도 방지
+    seen.add(href);
+
     if (name && href) {
       players.push({
         name,
-        position: position || null,
+        position,
         profilePath: href,
         photoUrl: country && slug ? `https://cdn.footystats.org/img/players/${country}-${slug}.png` : null,
       });
     }
   });
+
+  // ⚠️ 진단용: 선수를 하나도 못 찾았으면, 파싱 셀렉터가 안 맞는 건지 이 클럽 페이지
+  // 자체에 스쿼드 정보가 없는 건지 구분할 수 있게 페이지 제목/일부를 남긴다.
+  if (players.length === 0) {
+    const title = $('title').text().trim();
+    const bodySnippet = $('body').text().replace(/\s+/g, ' ').trim().slice(0, 200);
+    console.log(`   🔎 [진단] 스쿼드 0명 — 페이지 제목: "${title}" | 본문 일부: ${bodySnippet}`);
+  }
+
   return players;
 }
 
@@ -223,4 +243,56 @@ export function parseCountrySlug($) {
   const href = $('.breadcrumb a').first().attr('href'); // 예: /republic-of-ireland
   if (!href) return null;
   return href.split('/').filter(Boolean)[0] || null;
+}
+
+// ─────────────────────────────────────────────
+// _slug_.astro가 실제로 렌더링하는 정확한 스키마로 변환.
+// (직접 _slug_.astro 소스를 확인해서 맞춘 스키마 — 2026-07-11 확인)
+//
+// h2h:               { date, home, away, score, link? }              (result 없음)
+// homeRecent/awayRecent: { date, home, away, score, result, link? }  (result: 🟢승/🔴패/🟡무)
+//
+// footystats matches({date:"2026-07-03", home, away, homeScore, awayScore})를
+// 위 스키마로 변환한다. link는 footystats 매치엔 사이트 내부 글이 없으므로 항상 생략.
+// ─────────────────────────────────────────────
+
+// "2026-07-03" → "26.07.03" (기존 AI가 쓰던 날짜 표기와 동일하게 맞춤)
+function toShortDate(isoDate) {
+  const parts = (isoDate || '').split('-');
+  if (parts.length !== 3) return isoDate;
+  return `${parts[0].slice(2)}.${parts[1]}.${parts[2]}`;
+}
+
+function computeResultEmoji(perspectiveIsHome, homeScore, awayScore) {
+  const mine = perspectiveIsHome ? homeScore : awayScore;
+  const opp  = perspectiveIsHome ? awayScore : homeScore;
+  if (mine > opp) return '🟢승';
+  if (mine < opp) return '🔴패';
+  return '🟡무';
+}
+
+// h2h 필드용 변환 (result 없음)
+export function toH2hDisplayFormat(matches) {
+  return matches.map(m => ({
+    date: toShortDate(m.date),
+    home: m.home,
+    away: m.away,
+    score: `${m.homeScore}-${m.awayScore}`,
+  }));
+}
+
+// homeRecent/awayRecent 필드용 변환. perspectiveNameKo는 "이 목록이 누구 기준인지"
+// (homeRecent면 홈팀의 한글명, awayRecent면 원정팀의 한글명) — m.home과 문자열이
+// 일치하면 그 경기에서 이 팀이 홈이었다고 보고 result를 계산한다.
+export function toRecentDisplayFormat(matches, perspectiveNameKo) {
+  return matches.map(m => {
+    const perspectiveIsHome = m.home === perspectiveNameKo;
+    return {
+      date: toShortDate(m.date),
+      home: m.home,
+      away: m.away,
+      score: `${m.homeScore}-${m.awayScore}`,
+      result: computeResultEmoji(perspectiveIsHome, m.homeScore, m.awayScore),
+    };
+  });
 }

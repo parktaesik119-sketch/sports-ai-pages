@@ -2,6 +2,14 @@
 // 오늘자 database/{date}.json 중 축구 경기에 대해 footystats.org에서
 // H2H·최근폼·스쿼드(선수+포지션+사진)를 수집해 database/footystats-context-{date}.json 으로 저장한다.
 //
+// h2h/recent는 _slug_.astro가 기대하는 정확한 표시 스키마로 저장한다
+// (h2h: {date,home,away,score}, recent: {date,home,away,score,result}).
+//
+// ⚠️ 이 파일은 아직 analyze-router-one-git.js에서 읽어서 쓰고 있지 않다 — 지금은 그냥
+// database/에 저장만 해두는 단계. 실제로 분석글 생성 시 h2h/homeRecent/awayRecent가
+// 비어있을 때 이 데이터를 채워넣는 연결 작업은 별도로 해야 함
+// (footystats-lineup-update.js는 이미 생성된 글을 나중에 갱신하는 방식으로 이 부분을 해결함).
+//
 // ⚠️ 전제조건: 이 스크립트는 반드시 HOME_PROXY_URL / HOME_PROXY_SECRET 환경변수가 있는
 // 상태로 실행해야 한다(footystats.org는 GitHub Actions IP에서 직접 호출하면 403 차단됨).
 // 집 PC의 home-proxy-server.js + cloudflared tunnel이 켜져 있어야 함.
@@ -20,10 +28,39 @@ import {
   parseCountrySlug,
   extractTeamSlugFromClubPath,
   getH2H,
+  toH2hDisplayFormat,
+  toRecentDisplayFormat,
 } from './footystats-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
+
+// footystats가 준 팀명(영문)을 team_name_map.js 기준 한글로 치환.
+// 정확히 일치 안 하면 matchTeam()으로 가장 가까운 걸 찾고, 그마저도 없으면 원문 그대로 둔다.
+function buildForwardMap(mapFilePath) {
+  const content = fs.readFileSync(mapFilePath, 'utf-8');
+  const pairs   = [...content.matchAll(/"([^"]+)":\s*"([^"]+)"/g)];
+  const forward = {};
+  for (const [, en, ko] of pairs) forward[en] = ko;
+  return forward;
+}
+const EN_TO_KO = buildForwardMap(path.resolve(__dirname, '../team_name_map.js'));
+const ALL_MAPPED_EN_NAMES = Object.keys(EN_TO_KO);
+
+function translateTeamNameToKorean(footystatsName) {
+  if (!footystatsName) return footystatsName;
+  if (EN_TO_KO[footystatsName]) return EN_TO_KO[footystatsName];
+  const matched = ALL_MAPPED_EN_NAMES.find(en => matchTeam(footystatsName, en));
+  return matched ? EN_TO_KO[matched] : footystatsName;
+}
+
+function translateMatchList(matches) {
+  return matches.map(m => ({
+    ...m,
+    home: translateTeamNameToKorean(m.home),
+    away: translateTeamNameToKorean(m.away),
+  }));
+}
 
 function getKstToday() {
   return new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().split('T')[0];
@@ -113,15 +150,18 @@ async function main() {
         });
       }
 
+      const homeNameKo = translateTeamNameToKorean(match.home);
+      const awayNameKo = translateTeamNameToKorean(match.away);
+
       results.push({
         home: match.home,
         away: match.away,
         date: match.date,
         league: match.league,
-        h2h,
+        h2h: toH2hDisplayFormat(translateMatchList(h2h)),
         recent: {
-          home: homeData.recentMatches,
-          away: awayData.recentMatches,
+          home: toRecentDisplayFormat(translateMatchList(homeData.recentMatches), homeNameKo),
+          away: toRecentDisplayFormat(translateMatchList(awayData.recentMatches), awayNameKo),
         },
         squad: {
           home: homeData.squad,
