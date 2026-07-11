@@ -945,7 +945,7 @@ body {
   visibility: hidden;
 
   transition: all 0.3s ease;
-  z-index: 1999;
+  z-index: 10000; /* 🔥 #scrollTopBtn(z-index:9999)보다 위에 오도록 상향 */
 }
 
 .menu-overlay.open {
@@ -970,6 +970,9 @@ body {
   flex-direction: column;
   padding: 20px;
   gap: 5px;
+
+  overflow-y: auto;              /* 🔥 내용이 화면 높이를 넘으면 스크롤되도록 */
+  -webkit-overflow-scrolling: touch; /* 🔥 iOS 관성 스크롤 부드럽게 */
 
   transition: right 0.3s ease;
 }
@@ -1024,13 +1027,19 @@ body {
   background: #eef3f8;
 }
 
-/* 🔥 사이드바(Sidebar.astro)와 동일한 라인업 업데이트 알림 배너 (모바일 메뉴 하단) */
+/* 🔥 사이드바(Sidebar.astro)와 동일한 라인업 업데이트 알림 배너 (모바일 메뉴 하단)
+   ⚠️ .mobile-menu a { padding, border-bottom, ... } 규칙이 element+class 조합(0,1,1)이라
+   단순 클래스 셀렉터(.mobile-menu-banner-link, 0,1,0)보다 우선순위가 높다. 화면 크기와
+   무관하게 항상 이겨야 하므로 여기서도 동일하게 .mobile-menu a.mobile-menu-banner-link
+   형태(0,2,1)로 맞춰서 패딩/테두리가 스며들지 않게 한다. */
 .mobile-menu-banner-area {
   margin-top: 10px;
 }
 
-.mobile-menu-banner-link {
+.mobile-menu a.mobile-menu-banner-link {
   display: block;
+  padding: 0;
+  border-bottom: none;
   text-decoration: none;
 }
 
@@ -1227,6 +1236,24 @@ body {
     flex-shrink: 0;             /* ⭐ 중요: 아이콘이 눌리지 않게 고정 */
     background-size: contain;
     background-repeat: no-repeat;
+  }
+
+  /* 🔥 라인업 업데이트 배너 링크는 메뉴 아이템이 아니라 이미지 배너이므로
+     위의 .mobile-menu a 강제 규칙(flex 정렬 + 빈 아이콘 박스)에서 제외한다.
+     (.mobile-menu a::before가 아이콘 없는 빈 20x20 박스를 만들어 이미지를 밀어내고
+     오른쪽이 잘려 보이던 문제의 원인이었음) */
+  .mobile-menu a.mobile-menu-banner-link {
+    display: block !important;
+    gap: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  .mobile-menu a.mobile-menu-banner-link::before {
+    content: none !important;
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
   }
 }
 
