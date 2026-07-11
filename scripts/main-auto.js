@@ -27,6 +27,12 @@ async function runAutomation() {
     execSync('node fetch-score-update.js', { stdio: 'inherit', cwd: __dirname });
     console.log("✅ 배구 스코어 업데이트 완료.");
 
+    // 1.6단계: SofaScore H2H/최근폼/배당/라인업(포메이션)/선수사진 수집
+    // (축구/농구/배구/하키 - 리그별 스크립트들보다 먼저 실행해 폭넓은 기반 데이터부터 채운다)
+    console.log("\n[1.6단계] SofaScore H2H/최근폼/배당/라인업 데이터 수집 중...");
+    execSync('node fetch-sofascore-context.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ SofaScore 컨텍스트 수집 완료.");
+
     // 1.7단계: ESPN 결장자/순위/H2H 컨텍스트 수집
     console.log("\n[1.7단계] ESPN 결장자/순위/H2H 데이터 수집 중...");
     execSync('node fetch-espn-context.js', { stdio: 'inherit', cwd: __dirname });
