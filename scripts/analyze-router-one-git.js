@@ -5,6 +5,7 @@ import OpenAI from "openai";
 import TEAM_NAME_MAP from './team_name_map.js';
 import COUNTRY_MAP from './country_map.js';
 import { matchTeam } from './espn-common.js';
+import { formatKboInjuries } from './kbo-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -1144,19 +1145,7 @@ function formatKboLineup(team) {
   return team.lineup.map(b => `${b.order}번 ${b.position} ${b.name}(WAR ${b.war})`).join(', ');
 }
 // fetch-kbo-context.js의 getActiveInjuriesForTeam()이 계산해준, 등재기간 기준
-// "현재도 유효한(=만료 안 된)" 결장자만 대상으로 포맷한다.
-// KBO API는 구체적 부상 부위/사유(예: "근육 염좌")를 제공하지 않으므로,
-// 항목명을 간결한 카테고리로 축약해서 표기한다("부상자 명단"→"부상", "치료·재활명단"→"치료·재활중").
-const KBO_INJURY_CATEGORY_LABEL = {
-  '부상자 명단': '부상',
-  '치료·재활명단': '치료·재활중',
-};
-function formatKboInjuries(list) {
-  if (!list || list.length === 0) return null;
-  return list
-    .map(i => `${i.player}(${KBO_INJURY_CATEGORY_LABEL[i.category] || i.category})`)
-    .join(' | ');
-}
+// "현재도 유효한(=만료 안 된)" 결장자만 대상으로 포맷한다. (표기 규칙은 kbo-common.js에서 공용 관리)
 
 const kboHomePitcherText   = kboInfo?.pitcherRecord ? formatKboPitcher(kboInfo.pitcherRecord.home) : null;
 const kboAwayPitcherText   = kboInfo?.pitcherRecord ? formatKboPitcher(kboInfo.pitcherRecord.away) : null;

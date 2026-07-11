@@ -6,7 +6,11 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchKboGameList, findKboGame, fetchLineupAnalysis, fetchPitcherRecordAnalysis, getKboPlayerPhotoUrl, KBO_TEAM_CODE_MAP } from './kbo-common.js';
+import {
+  fetchKboGameList, findKboGame, fetchLineupAnalysis, fetchPitcherRecordAnalysis,
+  getKboPlayerPhotoUrl, KBO_TEAM_CODE_MAP,
+  fetchAllInjuryAndRehabEntries, getActiveInjuriesForTeam, formatKboInjuryEntry,
+} from './kbo-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
@@ -97,6 +101,27 @@ function formatKboLineupLines(team) {
 }
 
 // ─────────────────────────────────────────────
+// 결장자(injuryHome/injuryAway) 갱신: 분석글 작성 시점 이후 새로 등재된 선수만 "추가"한다.
+// 기존에 AI가 써놓은 내용은 절대 지우거나 덮어쓰지 않고, 뒤에 이어붙이기만 한다.
+// (AI가 표기를 살짝 다르게 썼을 수 있으므로, 매칭은 "이름(포지션)" 문자열이 기존 텍스트에
+//  포함되어 있는지로 느슨하게 판단한다 — 완전 일치가 아니어도 이미 언급된 선수면 건너뜀)
+// ─────────────────────────────────────────────
+function buildInjuryFieldUpdate(existingText, activeEntries) {
+  const existing = (existingText || '').trim();
+  const existingIsEmpty = !existing || existing === '없음';
+
+  const newOnes = activeEntries.filter(e => {
+    if (existingIsEmpty) return true;
+    return !existing.includes(e.player); // "배찬승(투수)" 문자열이 이미 있으면 기존 선수로 간주
+  });
+
+  if (newOnes.length === 0) return null; // 추가할 것 없음 → 이 필드는 건드리지 않음
+
+  const newText = newOnes.map(formatKboInjuryEntry).join(' | ');
+  return existingIsEmpty ? newText : `${existing} | ${newText}`;
+}
+
+// ─────────────────────────────────────────────
 // 메인
 // ─────────────────────────────────────────────
 async function main() {
@@ -118,20 +143,17 @@ async function main() {
   let updatedCount = 0;
   let skipCount    = 0;
 
+  // 부상자/치료재활명단은 하루 1회만 조회하고, 팀별 필터링은 로컬에서 처리 (fetch-kbo-context.js와 동일 패턴)
+  const todayStr = getKstDates()[0];
+  const seasonYear = todayStr.slice(0, 4);
+  const allInjuryEntries = await fetchAllInjuryAndRehabEntries(seasonYear).catch(err => {
+    console.error(`❌ [부상자/치료재활명단 조회 실패]`, err.message);
+    return [];
+  });
+  console.log(`🏥 [KBO 부상자/치료재활명단] 시즌 전체 ${allInjuryEntries.length}건 로드됨\n`);
+
   for (const filePath of postFiles) {
     const fm = parseFrontmatter(filePath);
-
-    // 타자 라인업(번 N) + 선발투수 줄이 둘 다 있어야 완료로 간주.
-    // (2026-07-03 이전 생성 파일은 타자만 있고 선발투수 줄이 없는 경우가 있어,
-    //  '번 '만 보고 스킵하면 그 파일들은 영원히 선발투수가 안 채워짐 → 둘 다 확인하도록 변경)
-    const existingLineup = fm.homeLineup || '';
-    const hasBatters = existingLineup.includes('번 ');
-    const hasPitcher = existingLineup.includes('선발투수');
-    if (hasBatters && hasPitcher) {
-      console.log(`⏩ [스킵] 타자+선발투수 라인업 완료: ${path.basename(filePath)}`);
-      skipCount++;
-      continue;
-    }
 
     // KBO 리그 게시글만 처리 (다른 리그는 espn-boxscore-update.js가 담당)
     const league = (fm.league || '').toUpperCase();
@@ -145,6 +167,37 @@ async function main() {
 
     if (!KBO_TEAM_CODE_MAP[homeTeamEn] || !KBO_TEAM_CODE_MAP[awayTeamEn]) {
       console.log(`⚠️ [팀코드 매핑 없음] ${fm.homeTeam} vs ${fm.awayTeam} — KBO_TEAM_CODE_MAP 확인 필요`);
+      skipCount++;
+      continue;
+    }
+
+    // ── 결장자(부상/치료재활) 갱신: 라인업 완료 여부와 무관하게 매번 시도 ──
+    // 분석글 작성 이후 새로 등재된 선수가 있으면 기존 내용은 그대로 두고 뒤에 추가만 한다.
+    const activeHomeInjuries = getActiveInjuriesForTeam(allInjuryEntries, KBO_TEAM_CODE_MAP[homeTeamEn], todayStr);
+    const activeAwayInjuries = getActiveInjuriesForTeam(allInjuryEntries, KBO_TEAM_CODE_MAP[awayTeamEn], todayStr);
+    const newInjuryHome = buildInjuryFieldUpdate(fm.injuryHome, activeHomeInjuries);
+    const newInjuryAway = buildInjuryFieldUpdate(fm.injuryAway, activeAwayInjuries);
+    const injuryUpdates = {};
+    if (newInjuryHome !== null) injuryUpdates.injuryHome = newInjuryHome;
+    if (newInjuryAway !== null) injuryUpdates.injuryAway = newInjuryAway;
+
+    // 타자 라인업(번 N) + 선발투수 줄이 둘 다 있어야 완료로 간주.
+    // (2026-07-03 이전 생성 파일은 타자만 있고 선발투수 줄이 없는 경우가 있어,
+    //  '번 '만 보고 스킵하면 그 파일들은 영원히 선발투수가 안 채워짐 → 둘 다 확인하도록 변경)
+    const existingLineup = fm.homeLineup || '';
+    const hasBatters = existingLineup.includes('번 ');
+    const hasPitcher = existingLineup.includes('선발투수');
+    if (hasBatters && hasPitcher) {
+      // 라인업은 이미 완료됐으니, 결장자 갱신할 게 있을 때만 frontmatter를 건드린다.
+      if (Object.keys(injuryUpdates).length > 0) {
+        const ok = updateMdFrontmatter(filePath, injuryUpdates);
+        if (ok) {
+          console.log(`🏥 [결장자 추가] ${path.basename(filePath)} | 홈 +${newInjuryHome !== null ? '갱신' : '-'} 원정 +${newInjuryAway !== null ? '갱신' : '-'}`);
+          updatedCount++;
+        }
+      } else {
+        console.log(`⏩ [스킵] 타자+선발투수 라인업 완료, 신규 결장자 없음: ${path.basename(filePath)}`);
+      }
       skipCount++;
       continue;
     }
@@ -216,6 +269,14 @@ async function main() {
 
     if (homeLineupLines.length === 0 && awayLineupLines.length === 0) {
       console.log(`   ⚠️ 라인업 데이터 없음 (아직 미발표일 수 있음)`);
+      if (Object.keys(injuryUpdates).length > 0) {
+        const ok = updateMdFrontmatter(filePath, injuryUpdates);
+        if (ok) {
+          console.log(`   🏥 [결장자만 추가] 라인업은 아직이지만 결장자 정보만 갱신함`);
+          updatedCount++;
+          continue;
+        }
+      }
       skipCount++;
       continue;
     }
@@ -223,11 +284,13 @@ async function main() {
     const updates = {
       homeLineup: JSON.stringify(homeLineupLines),
       awayLineup: JSON.stringify(awayLineupLines),
+      ...injuryUpdates,
     };
 
     const ok = updateMdFrontmatter(filePath, updates);
     if (ok) {
-      console.log(`   🔄 업데이트 완료 | ${lineup.lineupConfirmed ? '확정' : '예상'} 라인업 | 홈 ${homeLineupLines.length}건 / 원정 ${awayLineupLines.length}건`);
+      const injuryNote = Object.keys(injuryUpdates).length > 0 ? ` | 결장자 갱신됨` : '';
+      console.log(`   🔄 업데이트 완료 | ${lineup.lineupConfirmed ? '확정' : '예상'} 라인업 | 홈 ${homeLineupLines.length}건 / 원정 ${awayLineupLines.length}건${injuryNote}`);
       updatedCount++;
     }
   }

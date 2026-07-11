@@ -445,3 +445,22 @@ export function getActiveInjuriesForTeam(allEntries, teamCode, todayStr) {
     .filter(e => isStillActive(e, todayStr))
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
+
+// KBO API는 구체적 부상 부위/사유(예: "근육 염좌")를 제공하지 않으므로,
+// 항목명을 간결한 카테고리로 축약해서 표기한다. analyze-router-one-git.js(분석글 최초 작성)와
+// kbo-lineup-update.js(이후 결장자 갱신)가 동일한 표기 규칙을 쓰도록 여기서 공용으로 관리한다.
+export const KBO_INJURY_CATEGORY_LABEL = {
+  '부상자 명단': '부상',
+  '치료·재활명단': '치료·재활중',
+};
+
+// getActiveInjuriesForTeam()이 반환한 entry 1건 → "선수명(포지션)(부상)" 형태의 표기 문자열
+export function formatKboInjuryEntry(entry) {
+  return `${entry.player}(${KBO_INJURY_CATEGORY_LABEL[entry.category] || entry.category})`;
+}
+
+// entry 배열 전체 → 파이프(|)로 구분된 표기 문자열 (없으면 null)
+export function formatKboInjuries(list) {
+  if (!list || list.length === 0) return null;
+  return list.map(formatKboInjuryEntry).join(' | ');
+}
