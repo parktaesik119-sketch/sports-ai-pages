@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Kazuya Ojima (2-5, 3.33)|https://p.npb.jp/players_photo/2026/180/m/014_11515138.jpg\"]"
+awayLineup: "[\"선발투수 Anderson Espinoza (7-3, 2.39)|https://p.npb.jp/players_photo/2026/180/b/000_43545159.jpg\"]"
 ---

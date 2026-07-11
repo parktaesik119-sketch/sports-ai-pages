@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Kentaro Shinogi (4-1, 3.77)|https://p.npb.jp/players_photo/2026/180/db/030_41045150.jpg\"]"
+awayLineup: "[\"선발투수 Haruto Inoue (7-5, 2.11)|https://p.npb.jp/players_photo/2026/180/g/097_51355151.jpg\"]"
 ---
