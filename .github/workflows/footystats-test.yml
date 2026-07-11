@@ -1,7 +1,8 @@
-name: FootyStats Access Test (1회성)
+name: Home Proxy Access Test (1회성)
 
-# ⚠️ 이 워크플로우는 footystats.org가 GitHub Actions IP에서도 접근되는지
-# 딱 한 번 확인하기 위한 임시 테스트용입니다. 확인 끝나면 이 파일은 지워도 됩니다.
+# ⚠️ 이 워크플로우는 footystats.org / sofascore.com이 GitHub Actions IP에서도
+# 집 프록시(home-proxy-server.js + cloudflared)를 통해 접근되는지 확인하기 위한
+# 임시 테스트용입니다. 확인 끝나면 이 파일은 지워도 됩니다.
 
 on:
   workflow_dispatch:
@@ -20,6 +21,12 @@ jobs:
 
       - name: Run footystats access test via home proxy
         run: node scripts/footystats/test-footystats-via-home-proxy.js
+        env:
+          HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
+          HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
+
+      - name: Run sofascore access test via home proxy
+        run: node scripts/footystats/test-sofascore-via-home-proxy.js
         env:
           HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
           HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
