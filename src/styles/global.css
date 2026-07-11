@@ -51,7 +51,12 @@ body {
 
   position: sticky;
   top: 0;
-  z-index: 1000;
+  /* 🔥 position:sticky + z-index는 새 스태킹 컨텍스트를 만든다. 그러면 이 안에 있는
+     .menu-overlay(모바일 메뉴)가 내부적으로 아무리 z-index를 높여도 .header 바깥의
+     #scrollTopBtn(z-index:9999, header 밖 body 최상위)과는 .header 자신의 z-index로만
+     비교된다. 그래서 메뉴가 버튼 뒤에 깔리는 문제가 있었음 → .header 자체를 9999보다
+     높게 올려서 헤더(및 그 안의 모바일 메뉴)가 항상 위에 오도록 함. */
+  z-index: 10001;
 }
 
 /* 🔥 여기에 추가 */
