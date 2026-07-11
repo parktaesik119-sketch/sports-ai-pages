@@ -1143,6 +1143,20 @@ function formatKboLineup(team) {
   if (!team?.lineup?.length) return null;
   return team.lineup.map(b => `${b.order}번 ${b.position} ${b.name}(WAR ${b.war})`).join(', ');
 }
+// fetch-kbo-context.js의 getActiveInjuriesForTeam()이 계산해준, 등재기간 기준
+// "현재도 유효한(=만료 안 된)" 결장자만 대상으로 포맷한다.
+// KBO API는 구체적 부상 부위/사유(예: "근육 염좌")를 제공하지 않으므로,
+// 항목명을 간결한 카테고리로 축약해서 표기한다("부상자 명단"→"부상", "치료·재활명단"→"치료·재활중").
+const KBO_INJURY_CATEGORY_LABEL = {
+  '부상자 명단': '부상',
+  '치료·재활명단': '치료·재활중',
+};
+function formatKboInjuries(list) {
+  if (!list || list.length === 0) return null;
+  return list
+    .map(i => `${i.player}(${KBO_INJURY_CATEGORY_LABEL[i.category] || i.category})`)
+    .join(' | ');
+}
 
 const kboHomePitcherText   = kboInfo?.pitcherRecord ? formatKboPitcher(kboInfo.pitcherRecord.home) : null;
 const kboAwayPitcherText   = kboInfo?.pitcherRecord ? formatKboPitcher(kboInfo.pitcherRecord.away) : null;
@@ -1151,6 +1165,8 @@ const kboAwayPitchKindText = kboInfo?.pitKind ? formatKboPitchKind(kboInfo.pitKi
 const kboHomeLineupText    = kboInfo?.lineup ? formatKboLineup(kboInfo.lineup.home) : null;
 const kboAwayLineupText    = kboInfo?.lineup ? formatKboLineup(kboInfo.lineup.away) : null;
 const kboLineupStatusText  = kboInfo?.lineup ? (kboInfo.lineup.lineupConfirmed ? '확정 라인업' : '예상 라인업') : null;
+const kboHomeInjuryText    = kboInfo?.injuries ? formatKboInjuries(kboInfo.injuries.home) : null;
+const kboAwayInjuryText    = kboInfo?.injuries ? formatKboInjuries(kboInfo.injuries.away) : null;
 
 const hasKboData = !!(kboHomePitcherText || kboAwayPitcherText || kboHomeLineupText || kboAwayLineupText);
 
@@ -1173,7 +1189,7 @@ const hasNpbData = !!(npbHomeStarterText || npbAwayStarterText);
 const searchOrEspnInstruction = hasEspnAnyData
   ? `아래 [ESPN 공식 데이터]를 결장자/순위 정보의 근거로 그대로 사용하라. 이 경기는 ESPN 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [ESPN 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
   : hasKboData
-  ? `아래 [KBO 공식 데이터]를 선발투수/구종/라인업/순위 정보의 근거로 그대로 사용하라. 이 경기는 KBO 공식 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 KBO 데이터에 결장자 목록이 없으므로 "없음"으로 표기하라.`
+  ? `아래 [KBO 공식 데이터]를 선발투수/구종/라인업/순위/결장자 정보의 근거로 그대로 사용하라. 이 경기는 KBO 공식 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [KBO 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
   : hasNpbData
   ? `아래 [NPB 공식 데이터]의 예고선발투수 정보를 그대로 사용하라. 이 경기는 NPB 공식 예고선발 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. 단, NPB 데이터는 선발투수 이름만 제공하므로 결장자/부상자 정보(INJURY_HOME/INJURY_AWAY)와 선발투수의 상세 기록(ERA 등)은 web_search로 "${match.home} ${match.away} starting pitcher injury 2026"를 검색해서 보강하라.`
   : `지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.\n\n검색 1: "${match.home} ${match.away} injury report 2026"\n\n검색 완료 후 아래 정보를 참고하여 분석을 작성하라.`;
@@ -1197,7 +1213,7 @@ const kboHomeStandingText  = kboInfo?.standings?.home != null ? `${kboInfo.stand
 const kboAwayStandingText  = kboInfo?.standings?.away != null ? `${kboInfo.standings.away}위` : null;
 
 const kboDataBlock = hasKboData ? `
-[KBO 공식 데이터 - 선발투수 분석/구종분석/라인업(${kboLineupStatusText || '정보 없음'}). koreabaseball.com 공식 1차 데이터이므로 우선 사용하라]
+[KBO 공식 데이터 - 선발투수 분석/구종분석/라인업(${kboLineupStatusText || '정보 없음'})/결장자. koreabaseball.com 공식 1차 데이터이므로 우선 사용하라]
 - 홈팀(${aiHomeName}) 선발: ${kboHomePitcherText || '정보 없음'}
 - 원정팀(${aiAwayName}) 선발: ${kboAwayPitcherText || '정보 없음'}
 - 홈팀 선발 주요 구종: ${kboHomePitchKindText || '정보 없음'}
@@ -1206,12 +1222,15 @@ const kboDataBlock = hasKboData ? `
 - 원정팀 ${standingTermKo}: ${kboAwayStandingText || '정보 없음'}
 - 홈팀 라인업(${kboLineupStatusText || '정보 없음'}): ${kboHomeLineupText || '정보 없음'}
 - 원정팀 라인업(${kboLineupStatusText || '정보 없음'}): ${kboAwayLineupText || '정보 없음'}
+- 홈팀(${aiHomeName}) 결장자(부상자명단/치료재활명단): ${kboHomeInjuryText || '없음'}
+- 원정팀(${aiAwayName}) 결장자(부상자명단/치료재활명단): ${kboAwayInjuryText || '없음'}
 
 [KBO 데이터 활용 가이드]
 - 선발투수 ERA/WAR/QS/WHIP 수치를 근거로 양 선발투수의 우열을 분석 본문에 명시하라.
 - 구종 데이터가 있으면 주무기 구종과 평균구속을 언급해 투수 스타일을 설명하라.
 - 라인업이 "확정 라인업"이면 분석 신뢰도를 높여 단정적으로 서술하고, "예상 라인업"이면 변동 가능성이 있다는 점을 짧게 언급하라.
 - 타순별 WAR 수치를 활용해 상/하위 타선의 파괴력 차이를 비교 분석에 반영하라.
+- 결장자 목록의 등재 사유(부상자명단/치료재활명단)와 등재기간(비고)은 등재일 기준으로 아직 복귀 예상일이 지나지 않은 선수만 추려온 것이므로, 결장자로 언급된 선수는 이번 경기에 실제로 나오지 않을 가능성이 높다고 전제하고 분석하라. 단, 등재기간이 최소 기간(부상자명단 등재 시 통상 10일)이라 실제 복귀일과 며칠 오차가 있을 수 있다는 점은 염두에 두되, 이 오차 자체를 분석 본문에 언급하지는 마라.
 ` : '';
 
 const npbDataBlock = hasNpbData ? `

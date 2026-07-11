@@ -15,6 +15,8 @@ import {
   fetchPitcherRecordAnalysis,
   fetchPitKindAnalysis,
   fetchLineupAnalysis,
+  fetchAllInjuryAndRehabEntries,
+  getActiveInjuriesForTeam,
   KBO_TEAM_CODE_MAP,
 } from './kbo-common.js';
 
@@ -54,6 +56,15 @@ async function main() {
   const gameListCache = {}; // key: 'YYYYMMDD' -> fetchKboGameList() 결과 배열
   const results = [];
   let okCount = 0, skipCount = 0;
+
+  // 부상자 명단(18) + 치료·재활명단(21) 이력은 팀 필터 없이 시즌 전체를 한 번에 받아오는 게
+  // API 호출 비용이 적으므로, 경기 루프 밖에서 딱 1회만 조회하고 팀별 필터링은 로컬에서 처리한다.
+  const seasonYear = today.slice(0, 4);
+  const allInjuryEntries = await fetchAllInjuryAndRehabEntries(seasonYear).catch(err => {
+    console.error(`❌ [부상자/치료재활명단 조회 실패]`, err.message);
+    return [];
+  });
+  console.log(`🏥 [KBO 부상자/치료재활명단] 시즌 전체 ${allInjuryEntries.length}건 로드됨`);
 
   for (const match of kboMatches) {
     // 이미 스코어가 채워진(=완료된) 경기는 프리뷰 대상이 아니므로 스킵
@@ -107,6 +118,14 @@ async function main() {
       leId: matched.leId, srId: matched.srId, seasonId: matched.seasonId, gameId: matched.gameId,
     }).catch(err => { console.error(`❌ GetLineUpAnalysis 실패:`, err.message); return null; });
 
+    // 홈/원정팀 코드 기준으로 "현재 결장 중"인 선수만 로컬 필터링 (API 재호출 없음)
+    const homeTeamCode = KBO_TEAM_CODE_MAP[match.home];
+    const awayTeamCode = KBO_TEAM_CODE_MAP[match.away];
+    const injuries = {
+      home: getActiveInjuriesForTeam(allInjuryEntries, homeTeamCode, today),
+      away: getActiveInjuriesForTeam(allInjuryEntries, awayTeamCode, today),
+    };
+
     results.push({
       home: match.home,
       away: match.away,
@@ -125,10 +144,11 @@ async function main() {
       pitcherRecord,
       pitKind,
       lineup,
+      injuries,
     });
 
     okCount++;
-    console.log(`✅ [수집] ${match.away} @ ${match.home} | gameId ${matched.gameId} | 투수분석${pitcherRecord ? 'O' : 'X'} 구종분석${pitKind ? 'O' : 'X'} 라인업${lineup ? (lineup.lineupConfirmed ? '확정' : '예상') : 'X'}`);
+    console.log(`✅ [수집] ${match.away} @ ${match.home} | gameId ${matched.gameId} | 투수분석${pitcherRecord ? 'O' : 'X'} 구종분석${pitKind ? 'O' : 'X'} 라인업${lineup ? (lineup.lineupConfirmed ? '확정' : '예상') : 'X'} 결장자(홈${injuries.home.length}/원정${injuries.away.length})`);
   }
 
   fs.writeFileSync(outPath, JSON.stringify(results, null, 2), 'utf8');

@@ -335,3 +335,113 @@ export async function fetchKboGamePreview({
 
   return { pitcherRecord, pitKind, lineup };
 }
+
+// ─────────────────────────────────────────────
+// 5. 선수 이동 현황 - 부상자 명단(bdSc=18) / 치료·재활명단(bdSc=21)
+//
+// koreabaseball.com/ws/Player.asmx/GetTradeList — 브라우저 네트워크 캡처로 확인한
+// 비공개 엔드포인트(2026-07-11 실사용 테스트 기준). "선수 이동 현황" 페이지가
+// 이 엔드포인트로 항목(bdSc)별 이동 이력을 조회한다.
+//
+// ⚠️ 이 API는 "현재 결장 중"인 선수 목록이 아니라 시즌 전체 등재 이력 로그다.
+//    비고(note)에 적힌 등재 일수(예: "10일", "30일")를 등재일(date)에 더해
+//    만료일을 계산하고, 오늘이 그 안에 있는 선수만 "현재 결장 중"으로 추정한다.
+// ─────────────────────────────────────────────
+const PLAYER_WS = `${BASE}/ws/Player.asmx`;
+
+async function postPlayerWs(method, params, cookie) {
+  const body = new URLSearchParams(params).toString();
+  const headers = { ...COMMON_HEADERS };
+  if (cookie) headers['Cookie'] = cookie;
+
+  const res = await fetch(`${PLAYER_WS}/${method}`, { method: 'POST', headers, body });
+  if (!res.ok) throw new Error(`${method} 호출 실패: HTTP ${res.status}`);
+  const text = await res.text();
+  try {
+    return JSON.parse(text);
+  } catch {
+    throw new Error(`${method} 응답 JSON 파싱 실패: ${text.slice(0, 200)}`);
+  }
+}
+
+// bdSc: 18 = 부상자 명단, 21 = 치료·재활명단
+// teamName을 비워두면 전체 팀 결과가 한 번에 오므로, 하루 단위로 한 번만 호출하고
+// 이후 팀별 필터링은 로컬에서 처리하는 편이 API 호출 횟수를 줄일 수 있다.
+export async function fetchTradeList({ seasonId, bdSc, teamName = '', monthId = '0', pageNo = 1, listCount = 300 }, cookie) {
+  const data = await postPlayerWs('GetTradeList', { seasonId, monthId, bdSc, teamName, searchIf: '', pageNo, listCount }, cookie);
+  return parseTradeList(data);
+}
+
+export function parseTradeList(data) {
+  if (!data?.rows) return [];
+  return data.rows.map(rowWrap => {
+    const c = rowWrap.row;
+    return {
+      date: c[0]?.Text ?? null,     // 'YYYY-MM-DD' 등재일
+      category: c[1]?.Text ?? null, // '부상자 명단' | '치료·재활명단'
+      team: c[2]?.Text ?? null,     // 짧은 한글 팀명 (예: '삼성')
+      player: c[3]?.Text ?? null,   // '이름(포지션)' 형태
+      note: c[4]?.Text ?? null,     // '10일', '30일', '10일/7.5군 엔트리등록' 등
+    };
+  });
+}
+
+// 짧은 한글 팀명("삼성") → KBO_TEAM_CODE_MAP과 동일한 코드("SS")
+export const KBO_SHORT_NAME_TO_CODE = {
+  '두산': 'OB',
+  '한화': 'HH',
+  'KIA': 'HT',
+  'KT': 'KT',
+  '키움': 'WO',
+  'LG': 'LG',
+  '롯데': 'LT',
+  'NC': 'NC',
+  'SSG': 'SK',
+  '삼성': 'SS',
+};
+
+// note에서 등재 일수(정수) 추출. "10일/7.5군 엔트리등록"처럼 뒤에 다른 문구가 붙어도
+// 맨 앞 "N일" 패턴만 잡는다. 못 찾으면 null.
+function extractDurationDays(note) {
+  const m = String(note || '').match(/(\d+)\s*일/);
+  return m ? parseInt(m[1], 10) : null;
+}
+
+// entry.date(등재일, KST) + 등재 일수로 만료일을 계산해 오늘 기준 아직 유효한지 판단.
+// 비고에 일수가 없는 경우(빈 값)는 KBO 부상자명단 최소 등재기간인 10일로 보수적으로 처리.
+function isStillActive(entry, todayStr) {
+  const days = extractDurationDays(entry.note) ?? 10;
+  const regDate = new Date(`${entry.date}T00:00:00+09:00`);
+  const expiry = new Date(regDate.getTime() + days * 24 * 60 * 60 * 1000);
+  const today = new Date(`${todayStr}T00:00:00+09:00`);
+  return today <= expiry;
+}
+
+// 부상자 명단(18) + 치료·재활명단(21)을 합쳐 시즌 전체 이력을 한 번에 가져온다.
+// (하루 수집 배치당 1회만 호출하고 fetch-kbo-context.js에서 팀별로 재사용할 것)
+export async function fetchAllInjuryAndRehabEntries(seasonId, cookie) {
+  const [injuries, rehab] = await Promise.all([
+    fetchTradeList({ seasonId, bdSc: 18 }, cookie),
+    fetchTradeList({ seasonId, bdSc: 21 }, cookie),
+  ]);
+  return [...injuries, ...rehab];
+}
+
+// allEntries(fetchAllInjuryAndRehabEntries 결과)에서 특정 팀코드의 "현재 결장 중" 선수만 추림.
+// 같은 선수가 시즌 중 여러 번 등재/복귀를 반복했을 수 있으므로, 선수별로 가장 최근 등재
+// 1건만 남긴 뒤 그 기록이 아직 만료 전인지를 판단한다(최신 기록이 그 선수의 최신 상태를 반영).
+export function getActiveInjuriesForTeam(allEntries, teamCode, todayStr) {
+  const teamEntries = allEntries.filter(e => KBO_SHORT_NAME_TO_CODE[e.team] === teamCode);
+
+  const latestByPlayer = {};
+  for (const e of teamEntries) {
+    if (!e.player) continue;
+    if (!latestByPlayer[e.player] || e.date > latestByPlayer[e.player].date) {
+      latestByPlayer[e.player] = e;
+    }
+  }
+
+  return Object.values(latestByPlayer)
+    .filter(e => isStillActive(e, todayStr))
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
+}
