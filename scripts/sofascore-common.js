@@ -25,8 +25,12 @@ const IMG_BASE = 'https://img.sofascore.com/api/v1';
 //   SOFASCORE_PROXY_URL:    예) https://github-actions-dispatcher.<계정서브도메인>.workers.dev/proxy/sofascore
 //   SOFASCORE_PROXY_SECRET: Worker의 wrangler secret put PROXY_SECRET과 동일한 값
 // ─────────────────────────────────────────────
-const SOFASCORE_PROXY_URL = process.env.SOFASCORE_PROXY_URL || '';
-const SOFASCORE_PROXY_SECRET = process.env.SOFASCORE_PROXY_SECRET || '';
+// ⚠️ GitHub Actions 시크릿에 복사/붙여넣기하다가 끝에 보이지 않는 개행문자나 공백이
+// 딸려 들어가는 경우가 흔하다. 그 상태로 URL을 조립하면 경로가 미묘하게 어긋나서
+// Worker가 404를 돌려주는 원인이 될 수 있어(실제로 겪음), 값을 읽자마자 trim()으로
+// 방어한다.
+const SOFASCORE_PROXY_URL = (process.env.SOFASCORE_PROXY_URL || '').trim();
+const SOFASCORE_PROXY_SECRET = (process.env.SOFASCORE_PROXY_SECRET || '').trim();
 const USE_PROXY = !!(SOFASCORE_PROXY_URL && SOFASCORE_PROXY_SECRET);
 
 function resolveFetchUrl(targetUrl) {
