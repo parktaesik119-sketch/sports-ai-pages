@@ -17,6 +17,26 @@ import { matchTeam } from './espn-common.js';
 const BASE = 'https://www.sofascore.com/api/v1';
 const IMG_BASE = 'https://img.sofascore.com/api/v1';
 
+// ─────────────────────────────────────────────
+// GitHub Actions IP에서 sofascore.com을 직접 호출하면 403으로 차단당하는 것을 확인함(2026-07).
+// github-actions-dispatcher Cloudflare Worker에 만들어둔 /proxy/sofascore 라우트를 통해
+// 우회한다. 두 환경변수가 모두 설정된 경우에만 프록시를 쓰고, 없으면(로컬 테스트 등)
+// 기존처럼 sofascore.com에 직접 요청한다.
+//   SOFASCORE_PROXY_URL:    예) https://github-actions-dispatcher.<계정서브도메인>.workers.dev/proxy/sofascore
+//   SOFASCORE_PROXY_SECRET: Worker의 wrangler secret put PROXY_SECRET과 동일한 값
+// ─────────────────────────────────────────────
+const SOFASCORE_PROXY_URL = process.env.SOFASCORE_PROXY_URL || '';
+const SOFASCORE_PROXY_SECRET = process.env.SOFASCORE_PROXY_SECRET || '';
+const USE_PROXY = !!(SOFASCORE_PROXY_URL && SOFASCORE_PROXY_SECRET);
+
+function resolveFetchUrl(targetUrl) {
+  return USE_PROXY ? `${SOFASCORE_PROXY_URL}?url=${encodeURIComponent(targetUrl)}` : targetUrl;
+}
+
+function resolveFetchHeaders(baseHeaders) {
+  return USE_PROXY ? { ...baseHeaders, 'X-Proxy-Secret': SOFASCORE_PROXY_SECRET } : baseHeaders;
+}
+
 const COMMON_HEADERS = {
   'Accept': 'application/json, text/plain, */*',
   'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
@@ -44,12 +64,12 @@ let cookieFetchPromise = null;
 async function ensureSessionCookie() {
   if (cachedCookie !== null) return cachedCookie;
   if (!cookieFetchPromise) {
-    cookieFetchPromise = fetch('https://www.sofascore.com/', {
-      headers: {
+    cookieFetchPromise = fetch(resolveFetchUrl('https://www.sofascore.com/'), {
+      headers: resolveFetchHeaders({
         'User-Agent': COMMON_HEADERS['User-Agent'],
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Language': COMMON_HEADERS['Accept-Language'],
-      },
+      }),
     }).then(async res => {
       // Node 18.14+/20+/22의 Headers.getSetCookie()로 다중 Set-Cookie를 안전하게 파싱
       const setCookies = typeof res.headers.getSetCookie === 'function' ? res.headers.getSetCookie() : [];
@@ -60,9 +80,9 @@ async function ensureSessionCookie() {
       // "Attention Required" 등)인지, 아니면 정상 200인데 그냥 쿠키가 없는 건지 구분한다.
       if (!cachedCookie) {
         const bodySnippet = await res.text().then(t => t.slice(0, 300)).catch(() => '(본문 읽기 실패)');
-        console.log(`🍪 [SofaScore] 세션 쿠키 확보 - 응답에 쿠키 없음 | 홈페이지 응답 HTTP ${res.status} | 본문 일부: ${bodySnippet}`);
+        console.log(`🍪 [SofaScore] 세션 쿠키 확보 - 응답에 쿠키 없음 | ${USE_PROXY ? 'Worker 경유' : '직접 호출'} | 홈페이지 응답 HTTP ${res.status} | 본문 일부: ${bodySnippet}`);
       } else {
-        console.log(`🍪 [SofaScore] 세션 쿠키 확보 (${setCookies.length}개)`);
+        console.log(`🍪 [SofaScore] 세션 쿠키 확보 (${setCookies.length}개) | ${USE_PROXY ? 'Worker 경유' : '직접 호출'}`);
       }
       return cachedCookie;
     }).catch(err => {
@@ -76,17 +96,17 @@ async function ensureSessionCookie() {
 
 async function getJson(url) {
   const cookie = await ensureSessionCookie();
-  const headers = { ...COMMON_HEADERS };
+  const headers = resolveFetchHeaders({ ...COMMON_HEADERS });
   if (cookie) headers['Cookie'] = cookie;
 
-  const res = await fetch(url, { headers });
+  const res = await fetch(resolveFetchUrl(url), { headers });
   if (!res.ok) {
     // ⚠️ 헤더를 아무리 브라우저처럼 꾸며도, Cloudflare 등 WAF가 GitHub Actions 같은
     // 클라우드/CI IP 대역 자체를 차단하는 경우엔 이 헤더 보강으로 해결이 안 될 수 있다.
     // 그래서 실패 시 응답 본문 앞부분을 로그에 남겨, 실제로 WAF 차단 페이지(HTML)가
     // 오는 건지 다른 이유인지 다음 실행 로그에서 구분할 수 있게 한다.
     const bodySnippet = await res.text().then(t => t.slice(0, 300)).catch(() => '(본문 읽기 실패)');
-    throw new Error(`GET ${url} 실패: HTTP ${res.status} | 응답 일부: ${bodySnippet}`);
+    throw new Error(`GET ${url} 실패: HTTP ${res.status} | ${USE_PROXY ? 'Worker 경유' : '직접 호출'} | 응답 일부: ${bodySnippet}`);
   }
   return res.json();
 }

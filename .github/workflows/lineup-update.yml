@@ -31,6 +31,9 @@ jobs:
 
       - name: Run SofaScore lineup update script
         run: node scripts/sofascore-lineup-update.js
+        env:
+          SOFASCORE_PROXY_URL: ${{ secrets.SOFASCORE_PROXY_URL }}
+          SOFASCORE_PROXY_SECRET: ${{ secrets.SOFASCORE_PROXY_SECRET }}
 
       - name: Run UEFA lineup update script
         run: node scripts/uefa-lineup-update.js
