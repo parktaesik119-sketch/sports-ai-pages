@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 T. Mahle (1-8, 5.70) ERA 5.70|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
-awayLineup: "[\"선발투수 K. Freeland (2-7, 7.46) ERA 7.46|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
+awayLineup: "[\"선발투수 K. Freeland (2-7, 7.46) ERA 7.46|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\",\"1번 J. McCarthy (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 M. Moniak (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"3번 H. Goodman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"4번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"5번 K. Karros (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5203102.png\",\"6번 T. Johnston (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4346111.png\",\"7번 E. Julien (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/3985190.png\",\"8번 E. Tovar (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png\",\"9번 B. Sullivan (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39913.png\"]"
 ---
