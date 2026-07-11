@@ -18,13 +18,29 @@ const BASE = 'https://www.sofascore.com/api/v1';
 const IMG_BASE = 'https://img.sofascore.com/api/v1';
 
 const COMMON_HEADERS = {
-  'Accept': 'application/json',
+  'Accept': 'application/json, text/plain, */*',
+  'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+  'Referer': 'https://www.sofascore.com/',
+  'Origin': 'https://www.sofascore.com',
+  'sec-ch-ua': '"Not.A/Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-fetch-dest': 'empty',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-site': 'same-origin',
 };
 
 async function getJson(url) {
   const res = await fetch(url, { headers: COMMON_HEADERS });
-  if (!res.ok) throw new Error(`GET ${url} 실패: HTTP ${res.status}`);
+  if (!res.ok) {
+    // ⚠️ 헤더를 아무리 브라우저처럼 꾸며도, Cloudflare 등 WAF가 GitHub Actions 같은
+    // 클라우드/CI IP 대역 자체를 차단하는 경우엔 이 헤더 보강으로 해결이 안 될 수 있다.
+    // 그래서 실패 시 응답 본문 앞부분을 로그에 남겨, 실제로 WAF 차단 페이지(HTML)가
+    // 오는 건지 다른 이유인지 다음 실행 로그에서 구분할 수 있게 한다.
+    const bodySnippet = await res.text().then(t => t.slice(0, 300)).catch(() => '(본문 읽기 실패)');
+    throw new Error(`GET ${url} 실패: HTTP ${res.status} | 응답 일부: ${bodySnippet}`);
+  }
   return res.json();
 }
 
