@@ -329,7 +329,7 @@ const TEAM_NAME_MAP = {
   "Yokohama F. Marinos": "요코하마 F마리노스",
 
   // ===== 🇰🇷 K리그 (K League) =====
-  "Bucheon FC 1995": "부천 FC 1995",
+  "Bucheon FC 1995": "부천 FC",
   "Daejeon Citizen": "대전 시티즌",
   "FC Anyang": "FC 안양",
   "FC Seoul": "FC 서울",
@@ -1361,7 +1361,10 @@ const TEAM_NAME_MAP = {
   "Toledo Mud Hens": "톨레도 머드헨스",
   "Deportivo Maldonado": "데포르티보 말도나도",
   "Albion FC": "알비온 FC",
-
+  "Liverpool Montevideo": "리버풀 몬테비데오",
+  "Cerro": "세로",
+  "Boston River": "보스톤 리베르",
+  "Racing Montevideo": "라싱 몬테비데오",
 
 
   //UEFA
@@ -1436,9 +1439,7 @@ const TEAM_NAME_MAP = {
   "Vojvodina": "보이보디나",
   "Ferencvarosi TC": "페렌츠바로시",
 
-
-
-
+  
   //중국축구
   "Changchun Yatai": "창춘 야타이",
   "Dalian Huayi": "다롄 쿤 시티",
