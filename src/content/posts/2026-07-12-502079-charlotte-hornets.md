@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "177.5"
 pickOuDirection: "오버"
+homeLineup: "[\"R. Kalkbrenner (C)|https://a.espncdn.com/i/headshots/nba/players/full/4576060.png\",\"T. Salaun (F)|https://a.espncdn.com/i/headshots/nba/players/full/5211176.png\",\"L. McNeeley (G)|https://a.espncdn.com/i/headshots/nba/players/full/5239590.png\",\"C. Anderson (G)|https://a.espncdn.com/i/headshots/nba/players/full/5060701.png\",\"S. James (G)|https://a.espncdn.com/i/headshots/nba/players/full/4602025.png\"]"
+awayLineup: "[\"H. Dickinson (C)|https://a.espncdn.com/i/headshots/nba/players/full/4432180.png\",\"J. Moore (F)|https://a.espncdn.com/i/headshots/nba/players/full/4701819.png\",\"M. Peavy (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432185.png\",\"K. Bufkin (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683736.png\",\"M. Nowell (G)|https://a.espncdn.com/i/headshots/nba/players/full/4397554.png\"]"
 ---
