@@ -570,20 +570,33 @@ body {
   opacity: 0.9;
 }
 
-/* 🔥 게시판 아이콘(공) 통통 튀는 효과 — .board:hover로 카드 전체가 뜨는 효과와는 별개로,
-   아이콘 자체가 항상 살짝 위아래로 튀도록 함. transform 기준값(translateY(-50%))은
-   위쪽 세로 중앙정렬과 겹치지 않도록 키프레임 안에 그대로 포함시켰다. */
+/* 🔥 게시판 아이콘(공) 통통 튀는 효과 — .board:hover일 때만 동작(평소엔 정지 상태).
+   실제 공이 튀는 느낌을 내기 위해 키프레임을 비대칭으로 배분했다:
+   - 위로 솟아오르는 구간(0→20%)은 짧고 빠르게
+   - 정점 부근에 머무는 구간(20→55%)을 길게 잡아 "위에 오래 머무는" 느낌을 줌
+   - 떨어지는 구간(55→78%)은 짧고 빠르게(중력 가속 느낌)
+   - 바닥에 닿은 뒤 다음 튀어오름 전까지(78→100%)는 아주 짧게만 머무름
+   transform 기준값(translateY(-50%))은 세로 중앙정렬과 겹치지 않도록 키프레임 안에 그대로 포함시켰다. */
 @keyframes board-icon-bounce {
-  0%, 100% {
+  0% {
     transform: translateY(-50%);
+    animation-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1); /* 탄력있게 솟아오름 */
   }
-  50% {
-    transform: translateY(calc(-50% - 4px));
+  20% {
+    transform: translateY(calc(-50% - 7px));
+    animation-timing-function: ease-in-out; /* 정점 부근에서 느리게 머무름 */
+  }
+  55% {
+    transform: translateY(calc(-50% - 6px));
+    animation-timing-function: cubic-bezier(0.55, 0, 1, 0.45); /* 빠르게 낙하 */
+  }
+  78%, 100% {
+    transform: translateY(-50%);
   }
 }
 
-.board-header::before {
-  animation: board-icon-bounce 1.6s ease-in-out infinite;
+.board:hover .board-header::before {
+  animation: board-icon-bounce 0.9s infinite;
 }
 
 .board-header h2 {
