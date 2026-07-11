@@ -1,0 +1,22 @@
+name: FootyStats Access Test (1회성)
+
+# ⚠️ 이 워크플로우는 footystats.org가 GitHub Actions IP에서도 접근되는지
+# 딱 한 번 확인하기 위한 임시 테스트용입니다. 확인 끝나면 이 파일은 지워도 됩니다.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run footystats access test
+        run: node scripts/footystats/test-footystats.js
