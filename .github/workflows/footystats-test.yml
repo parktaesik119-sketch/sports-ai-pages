@@ -18,5 +18,8 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Run footystats access test
-        run: node scripts/footystats/test-footystats.js
+      - name: Run footystats access test via home proxy
+        run: node scripts/footystats/test-footystats-via-home-proxy.js
+        env:
+          HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
+          HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
