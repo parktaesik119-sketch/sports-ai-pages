@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 B. Hudson (3-2, 2.25) ERA 2.25|https://a.espncdn.com/i/headshots/mlb/players/full/4991171.png\"]"
+homeLineup: "[\"선발투수 B. Hudson (3-2, 2.25) ERA 2.25|https://a.espncdn.com/i/headshots/mlb/players/full/4991171.png\",\"1번 R. Grichuk (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31399.png\",\"2번 M. Murakami (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4872595.png\",\"3번 M. Vargas (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"4번 C. Montgomery (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\",\"5번 C. Meidroth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5136929.png\",\"6번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"7번 L. Acuna (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42411.png\",\"8번 J. Perez (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42471.png\",\"9번 D. Romo (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917765.png\"]"
 awayLineup: "[\"선발투수 G. Jump (3-3, 3.77) ERA 3.77|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\"]"
 ---
