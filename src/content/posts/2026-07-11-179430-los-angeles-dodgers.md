@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 Y. Yamamoto (9-5, 2.49) ERA 2.49|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
-awayLineup: "[\"선발투수 B. Pfaadt (2-1, 4.84) ERA 4.84|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\"]"
+awayLineup: "[\"선발투수 B. Pfaadt (2-1, 4.84) ERA 4.84|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\",\"1번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"2번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"3번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"4번 G. Moreno (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"5번 M. Kepler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31870.png\",\"6번 T. Tawa (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\",\"7번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"8번 J. McCann (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32046.png\",\"9번 T. Troy (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4837403.png\"]"
 ---

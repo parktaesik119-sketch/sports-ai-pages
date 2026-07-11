@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 M. Liberatore (4-6, 5.34) ERA 5.34|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
+homeLineup: "[\"선발투수 M. Liberatore (4-6, 5.34) ERA 5.34|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 I. Herrera (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"4번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"5번 L. Nootbaar (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4448736.png\",\"6번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"7번 B. Torres (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5125653.png\",\"8번 B. Jordan (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722953.png\",\"9번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\"]"
 awayLineup: "[\"선발투수 R. Lopez (4-1, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/33860.png\"]"
 ---
