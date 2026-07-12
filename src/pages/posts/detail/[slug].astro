@@ -5,6 +5,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Sidebar from '../../../components/Sidebar.astro';
 import { CATEGORY_MAP } from '../../../lib/categories';
 import AdGrid from '../../../components/AdGrid.astro';
+import TEAM_NAME_MAP from '../../../../scripts/team_name_map.js';
 
 export async function getStaticPaths() {
   const items = await getCollection('posts');
@@ -94,11 +95,37 @@ awayTeam = awayTeam || '원정팀';
 homeLogo = homeLogo || '/images/wing-home.png';
 awayLogo = awayLogo || '/images/wing-away.png';
 
+// ─────────────────────────────────────────────
+// 팀명을 화면에 뿌리기 "직전"에 team_name_map.js로 한 번 더 번역한다.
+// 글 생성 시점에 이미 한글로 잘 박혀있는 대부분의 값은, 그 한글 문자열이
+// TEAM_NAME_MAP의 키(영문)로는 안 걸리니까 그대로 통과한다 — 기존 글에 영향 없음.
+// 반대로 (footystats 보충 등으로) 매칭 실패해서 영문으로 박제된 값은, 나중에
+// team_name_map.js에 그 팀을 추가하기만 하면 — .md 파일을 다시 안 고쳐도 —
+// 이 페이지를 다시 열 때 바로 한글로 나온다.
+function translateTeam(name: string) {
+  if (!name) return name;
+  return (TEAM_NAME_MAP as Record<string, string>)[name] || name;
+}
+
+// title/description/summary/homeAnalysis 등 "문장 안에 팀명이 섞여있는" 필드용.
+// homeTeam/awayTeam(frontmatter 원문 — 번역 실패 시 영문일 수 있음)이 텍스트 어딘가에
+// 등장하면, 그 부분만 찾아서 한글로 치환한다. 이미 한글로 잘 박힌 정상 케이스는
+// homeTeam 자체가 한글이라 TEAM_NAME_MAP 키로 안 걸려서 아무 일도 안 일어난다(안전).
+function translateTeamsInText(text: string): string {
+  if (!text) return text;
+  let result = text;
+  const homeKo = (TEAM_NAME_MAP as Record<string, string>)[homeTeam];
+  const awayKo = (TEAM_NAME_MAP as Record<string, string>)[awayTeam];
+  if (homeKo) result = result.split(homeTeam).join(homeKo);
+  if (awayKo) result = result.split(awayTeam).join(awayKo);
+  return result;
+}
+
 // 분석 데이터 프론트매터
-const homeAnalysis   = item.data.homeAnalysis  || '';
-const awayAnalysis   = item.data.awayAnalysis  || '';
-const homePowerItems = (item.data.homePower || '').split('|').map((s: string) => s.trim()).filter(Boolean);
-const awayPowerItems = (item.data.awayPower || '').split('|').map((s: string) => s.trim()).filter(Boolean);
+const homeAnalysis   = translateTeamsInText(item.data.homeAnalysis  || '');
+const awayAnalysis   = translateTeamsInText(item.data.awayAnalysis  || '');
+const homePowerItems = (item.data.homePower || '').split('|').map((s: string) => translateTeamsInText(s.trim())).filter(Boolean);
+const awayPowerItems = (item.data.awayPower || '').split('|').map((s: string) => translateTeamsInText(s.trim())).filter(Boolean);
 let h2hItems: any[] = [];
 if (item.data.h2h && item.data.h2h !== '없음') {
   const raw = (item.data.h2h || '').trim();
@@ -108,7 +135,8 @@ if (item.data.h2h && item.data.h2h !== '없음') {
     h2hItems = raw.split('|').map((s: string) => s.trim()).filter(Boolean);
   }
 }
-const summary        = item.data.summary || '';
+const summary        = translateTeamsInText(item.data.summary || '');
+const translatedTitle       = translateTeamsInText(item.data.title || '');
 
 let homeRecentItems: any[] = [];
 let awayRecentItems: any[] = [];
@@ -215,9 +243,9 @@ const injuryHomeItems = parseInjury(injuryHome);
 const injuryAwayItems = parseInjury(injuryAway);
 
 // 추천 픽
-const pickWinTeam       = item.data.pickWinTeam?.trim()       || '';
+const pickWinTeam       = translateTeamsInText(item.data.pickWinTeam?.trim()       || '');
 const pickWinResult     = item.data.pickWinResult?.trim()      || '';
-const pickHandicapTeam  = item.data.pickHandicapTeam?.trim()   || '';
+const pickHandicapTeam  = translateTeamsInText(item.data.pickHandicapTeam?.trim()   || '');
 const pickHandicapValue = item.data.pickHandicapValue?.trim()  || '';
 const pickExpectedHome  = item.data.pickExpectedHome?.trim()   || '';
 const pickExpectedAway  = item.data.pickExpectedAway?.trim()   || '';
@@ -229,8 +257,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 ---
 
 <BaseLayout 
-  title={`${item.data.title} - ${categoryName}`}
-    description={`${item.data.title} 스포츠경기 분석글입니다. 최신 스포츠분석 및 추천 스포츠픽 제공`}
+  title={`${translatedTitle} - ${categoryName}`}
+    description={`${translatedTitle} 스포츠경기 분석글입니다. 최신 스포츠분석 및 추천 스포츠픽 제공`}
     currentCategory={category}
 >
   <div class="main-layout-container">
@@ -243,7 +271,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 
         <header class="detail-header">
           <div class="category-badge">{categoryName}</div>
-          <h1>{item.data.title}</h1>
+          <h1>{translatedTitle}</h1>
 
           <div class="post-meta">
             작성일: {new Date(item.data.date).toLocaleDateString('ko-KR')}
@@ -276,19 +304,19 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     </div>
     <div class="card-center">
       <div class="team home-team">
-        <span class="team-name">{homeTeam}</span>
-      <img src={homeLogo} alt={homeTeam}
+        <span class="team-name">{translateTeam(homeTeam)}</span>
+      <img src={homeLogo} alt={translateTeam(homeTeam)}
           class="team-logo"
           onerror="if(!this.dataset.failed){this.dataset.failed='1';this.src='/images/wing-home.png';}"
         />
       </div>
       <div class="vs-zone">VS</div>
       <div class="team away-team">
-         <img src={awayLogo} alt={awayTeam}
+         <img src={awayLogo} alt={translateTeam(awayTeam)}
           class="team-logo"
           onerror="if(!this.dataset.failed){this.dataset.failed='1';this.src='/images/wing-away.png';}"
         />
-        <span class="team-name">{awayTeam}</span>
+        <span class="team-name">{translateTeam(awayTeam)}</span>
       </div>
     </div>
   </div>
@@ -312,7 +340,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
       <!-- 소파스코어식 상단 팀명+포메이션 바 -->
       <div style="display:flex;align-items:center;background:#f8f9fa;border-bottom:1px solid #e9ecef;padding:10px 16px;">
         <div style="flex:1;text-align:center;">
-          <div style="font-weight:800;font-size:0.95rem;color:#1a1a2e;">{homeTeam}</div>
+          <div style="font-weight:800;font-size:0.95rem;color:#1a1a2e;">{translateTeam(homeTeam)}</div>
           <div style="font-size:1rem;color:#1a1a2e;margin-top:2px;font-weight:700;">{homeFormation}</div>
         </div>
         <div style="display:flex;gap:12px;align-items:center;padding:0 16px;">
@@ -326,7 +354,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           </svg>
         </div>
         <div style="flex:1;text-align:center;">
-          <div style="font-weight:800;font-size:0.95rem;color:#1a1a2e;">{awayTeam}</div>
+          <div style="font-weight:800;font-size:0.95rem;color:#1a1a2e;">{translateTeam(awayTeam)}</div>
           <div style="font-size:1rem;color:#1a1a2e;margin-top:2px;font-weight:700;">{awayFormation}</div>
         </div>
       </div>
@@ -373,9 +401,9 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
             <tspan fill={GK_COLOR}>■</tspan>
             <tspan fill="rgba(255,255,255,0.8)"> GK &nbsp;&nbsp;&nbsp;</tspan>
             <tspan fill={HOME_COLOR}>■</tspan>
-            <tspan fill="rgba(255,255,255,0.8)"> {homeTeam} &nbsp;&nbsp;&nbsp;</tspan>
+            <tspan fill="rgba(255,255,255,0.8)"> {translateTeam(homeTeam)} &nbsp;&nbsp;&nbsp;</tspan>
             <tspan fill={AWAY_COLOR}>■</tspan>
-            <tspan fill="rgba(255,255,255,0.8)"> {awayTeam}</tspan>
+            <tspan fill="rgba(255,255,255,0.8)"> {translateTeam(awayTeam)}</tspan>
           </text>
         </svg>
       </div>
@@ -443,11 +471,11 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
             </g>
           </svg>
         </span>
-        {homeTeam} <span class="vs-accent">vs</span> {awayTeam} 라인업
+        {translateTeam(homeTeam)} <span class="vs-accent">vs</span> {translateTeam(awayTeam)} 라인업
       </h2>
       <div class="lineup-split-body">
         <div class="lineup-split-col">
-          <div class="lineup-split-title lineup-split-title--home">{homeTeam}</div>
+          <div class="lineup-split-title lineup-split-title--home">{translateTeam(homeTeam)}</div>
           {homeLineupItems.map((player: string, idx: number) => {
   if (player.startsWith('선발투수')) {
     const { name, record, era } = parsePitcher(player);
@@ -495,7 +523,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
 })}
         </div>
         <div class="lineup-split-col">
-          <div class="lineup-split-title lineup-split-title--away">{awayTeam}</div>
+          <div class="lineup-split-title lineup-split-title--away">{translateTeam(awayTeam)}</div>
           {awayLineupItems.map((player: string, idx: number) => {
   if (player.startsWith('선발투수')) {
     const { name, record, era } = parsePitcher(player);
@@ -552,7 +580,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     <div class="section-widget">
       <h2 class="section-widget-header sw-home">
         <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><img src={homeLogo} style="width:26px;height:26px;object-fit:contain;" /></span>
-        {homeTeam} 최근 전력 분석
+        {translateTeam(homeTeam)} 최근 전력 분석
       </h2>
       <div class="section-widget-body">
   {homeAnalysis.split(/(?<=\.) /).filter(Boolean).map((sentence: string, idx: number) => (
@@ -565,7 +593,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 홈팀 최근 경기 -->
   {homeRecentItems.length > 0 && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#495057" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/></svg></span>{homeTeam} 최근 경기</h2>
+      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#495057" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/></svg></span>{translateTeam(homeTeam)} 최근 경기</h2>
       <div class="section-widget-body">
         {homeRecentItems.map((m: any, idx: number) => (
           <div>
@@ -574,8 +602,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
               <span class="recent-dot"></span>
               <span class="recent-info">
   {m.link
-    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{m.date}{' '}{m.home}{' '}<span class="vs-accent">vs</span>{' '}{m.away}</a>
-    : <>{m.date}{' '}{m.home}{' '}<span class="vs-accent">vs</span>{' '}{m.away}</>
+    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{m.date}{' '}{translateTeam(m.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</a>
+    : <>{m.date}{' '}{translateTeam(m.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</>
   }
 </span>
               <span class="recent-score">{m.score}</span>
@@ -593,7 +621,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     <div class="section-widget">
       <h2 class="section-widget-header sw-away">
         {awayLogo && <span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><img src={awayLogo} style="width:26px;height:26px;object-fit:contain;" /></span>}
-        {awayTeam} 최근 전력 분석
+        {translateTeam(awayTeam)} 최근 전력 분석
       </h2>
       <div class="section-widget-body">
   {awayAnalysis.split(/(?<=\.) /).filter(Boolean).map((sentence: string, idx: number) => (
@@ -606,7 +634,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   <!-- 원정팀 최근 경기 -->
   {awayRecentItems.length > 0 && (
     <div class="section-widget">
-      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#495057" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/></svg></span>{awayTeam} 최근 경기</h2>
+      <h2 class="section-widget-header sw-gray"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#495057" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/><path d="M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/></svg></span>{translateTeam(awayTeam)} 최근 경기</h2>
       <div class="section-widget-body">
         {awayRecentItems.map((m: any, idx: number) => (
           <div>
@@ -615,8 +643,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
               <span class="recent-dot"></span>
               <span class="recent-info">
   {m.link
-    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{m.date}{' '}{m.home}{' '}<span class="vs-accent">vs</span>{' '}{m.away}</a>
-    : <>{m.date}{' '}{m.home}{' '}<span class="vs-accent">vs</span>{' '}{m.away}</>
+    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{m.date}{' '}{translateTeam(m.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</a>
+    : <>{m.date}{' '}{translateTeam(m.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</>
   }
 </span>
               <span class="recent-score">{m.score}</span>
@@ -634,7 +662,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
       <h2 class="section-widget-header sw-injury"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#e03131" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M12 8v8M8 12h8"/></svg></span>결장/부상 현황</h2>
       <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;align-items:flex-start;">
         <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
-          <div class="power-title power-title--home">{homeTeam}</div>
+          <div class="power-title power-title--home">{translateTeam(homeTeam)}</div>
           <ul class="power-list">
             {injuryHomeItems.length > 0
               ? injuryHomeItems.map((entry: string) => {
@@ -650,7 +678,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           </ul>
         </div>
         <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;">
-          <div class="power-title power-title--away">{awayTeam}</div>
+          <div class="power-title power-title--away">{translateTeam(awayTeam)}</div>
           <ul class="power-list">
             {injuryAwayItems.length > 0
               ? injuryAwayItems.map((entry: string) => {
@@ -674,13 +702,13 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     <h2 class="section-widget-header sw-power"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">⚡</span>팀별 핵심 전력 분석</h2>
     <div class="power-body" style="display:flex;background:#fff;flex-wrap:wrap;margin:0;padding:0;align-items:flex-start;">
       <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;border-right:1px solid #f0f0f0;">
-        <div class="power-title power-title--home">{homeTeam}</div>
+        <div class="power-title power-title--home">{translateTeam(homeTeam)}</div>
         <ul class="power-list">
           {homePowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
         </ul>
       </div>
       <div style="flex:1;min-width:240px;padding:6px 18px 14px;box-sizing:border-box;">
-        <div class="power-title power-title--away">{awayTeam}</div>
+        <div class="power-title power-title--away">{translateTeam(awayTeam)}</div>
         <ul class="power-list">
           {awayPowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
         </ul>
@@ -697,8 +725,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           {idx > 0 && <hr class="sw-divider" />}
           <div class="recent-row"><span class="recent-dot"></span><span class="recent-info">
   {typeof row === 'object' && row.link
-    ? <a href={row.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{row.date}{' '}{row.home}{' '}<span class="vs-accent">vs</span>{' '}{row.away}</a>
-    : typeof row === 'object' ? <>{row.date}{' '}{row.home}{' '}<span class="vs-accent">vs</span>{' '}{row.away}</> : formatLegacyH2hText(row)
+    ? <a href={row.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{row.date}{' '}{translateTeam(row.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(row.away)}</a>
+    : typeof row === 'object' ? <>{row.date}{' '}{translateTeam(row.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(row.away)}</> : formatLegacyH2hText(row)
   }
 </span>{typeof row === 'object' && <span class="recent-score">{row.score}</span>}</div>
         </div>
@@ -750,7 +778,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           </div>
           <div style="margin-left:14px;flex:1;">
             <div style="font-size:0.72rem;color:#868e96;font-weight:600;letter-spacing:0.5px;">예상 스코어</div>
-            <div style="font-size:0.92rem;color:#222;font-weight:700;margin-top:3px;">{homeTeam} <span class="vs-accent">vs</span> {awayTeam}</div>
+            <div style="font-size:0.92rem;color:#222;font-weight:700;margin-top:3px;">{translateTeam(homeTeam)} <span class="vs-accent">vs</span> {translateTeam(awayTeam)}</div>
           </div>
           <div style="font-size:1.15rem;font-weight:800;color:#e67700;">{pickExpectedHome} : {pickExpectedAway}</div>
         </div>
