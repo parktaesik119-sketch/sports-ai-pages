@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { deriveFormationFromLineup } from './formation-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
@@ -380,6 +381,19 @@ function parseSoccerRosters(summary, homeTeamEn, awayTeamEn) {
       const id    = p.athlete?.id || '';
       const photo = id ? `https://a.espncdn.com/i/headshots/soccer/players/full/${id}.png` : '';
       if (name) result[side].push(`${name} (${pos})${photo ? '|' + photo : ''}`);
+    }
+
+    // ⚠️ ESPN이 formation 필드를 안 주는 경기가 있다(하위 리그 등 커버리지가 얕은 경우 —
+    // 실사용에서 확인, 2026-07). 라인업(선수+포지션)은 있으니, footystats와 동일한
+    // 방식(deriveFormationFromLineup)으로 세부 포지션 코드를 세어 유추한다.
+    if (!rosterGroup.formation) {
+      const derived = deriveFormationFromLineup(
+        starters.map(p => ({ position: p.position?.abbreviation || '' }))
+      );
+      if (derived) {
+        if (isHome) result.homeFormation = derived;
+        else        result.awayFormation = derived;
+      }
     }
   }
 
