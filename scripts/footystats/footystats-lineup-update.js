@@ -213,23 +213,54 @@ function isEmptyField(raw) {
   return raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
 }
 
+// 사진 URL이 실제로 살아있는지 HEAD 요청으로 확인. ESPN은 사진이 없는 선수 ID에
+// 대해 회색 대체 이미지가 아니라 진짜 HTTP 404를 준다(ESPN 비공식 API 문서로 확인,
+// 2026-07) — 그래서 상태코드만 봐도 확실하게 판단할 수 있다.
+async function hasValidPhoto(url) {
+  if (!url) return false;
+  try {
+    const res = await fetch(url, { method: 'HEAD', signal: AbortSignal.timeout(5000) });
+    return res.ok;
+  } catch {
+    return false; // 요청 자체가 실패해도 사진 없는 것으로 간주(보수적으로)
+  }
+}
+
 // ⚠️ ESPN이 하부리그(예: 우루과이 프리메라디비전) 라인업을 줄 때, 포지션 정보 자체가
 // 부실해서 전체 선수가 전부 "SUB"로만 채워지는 경우가 실사용에서 확인됨(코드 버그가
 // 아니라 ESPN API 자체가 이 정도 정보만 준 것). 이런 경우 필드 자체는 "비어있지 않지만"
 // 사실상 쓸모없는 데이터이므로, footystats가 더 나은 데이터를 갖고 있을 때 이걸 그냥
 // 비어있는 것처럼 취급해서 덮어쓸 수 있게 한다.
-function isLowQualityLineup(raw) {
+//
+// 포지션은 멀쩡해 보여도 사진이 대부분 깨져있는 경우도 저품질로 본다. 선수 전원을
+// 매번 검사하면 요청이 너무 많아지니, 최대 5명만 샘플로 찍어서 절반 넘게 깨져있으면
+// (해당 리그 자체의 데이터가 부실하다는 신호로 보고) 저품질로 판정한다.
+async function isLowQualityLineup(raw) {
   if (isEmptyField(raw)) return true;
   try {
     const stripped = raw.trim().replace(/^['"]|['"]$/g, '');
     const items = JSON.parse(stripped);
     if (!Array.isArray(items) || items.length === 0) return true;
-    // "{이름} (POS)|사진" 형식에서 포지션만 뽑아서, 전부 SUB(또는 빈값)뿐이면 저품질로 판정
-    return items.every(item => {
+
+    // 1) 포지션이 전부 SUB(또는 빈값)면 저품질
+    const allSubPosition = items.every(item => {
       const posMatch = String(item).match(/\(([^)]+)\)/);
       const pos = posMatch ? posMatch[1].trim().toUpperCase() : '';
       return pos === 'SUB' || pos === '';
     });
+    if (allSubPosition) return true;
+
+    // 2) 사진 샘플(최대 5장)이 절반 넘게 깨져있으면 저품질
+    const photoUrls = items.map(item => {
+      const parts = String(item).split('|');
+      return parts.length > 1 ? parts[parts.length - 1] : '';
+    }).filter(Boolean);
+    if (photoUrls.length === 0) return false; // 애초에 사진 필드가 없는 포맷이면 판단 보류
+
+    const sample = photoUrls.slice(0, 5);
+    const results = await Promise.all(sample.map(hasValidPhoto));
+    const validRatio = results.filter(Boolean).length / results.length;
+    return validRatio < 0.5;
   } catch {
     return false; // 파싱이 안 되면 뭔가 유효한 데이터가 있는 걸로 보고 보수적으로 안 건드림
   }
@@ -270,8 +301,8 @@ async function main() {
     const existingH2h        = getExistingMatches(fm.h2h);
     const existingHomeRecent = getExistingMatches(fm.homeRecent);
     const existingAwayRecent = getExistingMatches(fm.awayRecent);
-    const homeLineupEmpty = isLowQualityLineup(fm.homeLineup);
-    const awayLineupEmpty = isLowQualityLineup(fm.awayLineup);
+    const homeLineupEmpty = await isLowQualityLineup(fm.homeLineup);
+    const awayLineupEmpty = await isLowQualityLineup(fm.awayLineup);
     const homeFormationEmpty = isEmptyField(fm.homeFormation);
     const awayFormationEmpty = isEmptyField(fm.awayFormation);
 
