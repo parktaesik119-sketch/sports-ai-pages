@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "210.5"
 pickOuDirection: "언더"
+homeLineup: "[\"H. Dickinson (C)|https://a.espncdn.com/i/headshots/nba/players/full/4432180.png\",\"J. Moore (F)|https://a.espncdn.com/i/headshots/nba/players/full/4701819.png\",\"J. Pierre Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/4703115.png\",\"K. Bufkin (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683736.png\",\"M. Nowell (G)|https://a.espncdn.com/i/headshots/nba/players/full/4397554.png\"]"
+awayLineup: "[\"K. Maluach (C)|https://a.espncdn.com/i/headshots/nba/players/full/5203685.png\",\"R. Fleming (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105977.png\",\"K. Peat (F)|https://a.espncdn.com/i/headshots/nba/players/full/5041953.png\",\"K. Brea (G)|https://a.espncdn.com/i/headshots/nba/players/full/4591259.png\",\"Brown (G)|https://a.espncdn.com/i/headshots/nba/players/full/4397450.png\"]"
 ---
