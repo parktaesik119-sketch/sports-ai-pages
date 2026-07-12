@@ -390,7 +390,29 @@ export function parseMatchLineups($) {
 
   if (homeStarting.length === 0 && awayStarting.length === 0) return null;
 
-  return { home: homeStarting, away: awayStarting };
+  // ⚠️ footystats는 HTML에서 선수를 "Forwards → Midfielders → Defenders → Goalkeeper"
+  // 순서(공격수부터)로 나열한다(실사용 조사로 확인). 근데 _slug_.astro의 피치뷰 좌표 생성기는
+  // 배열 순서를 GK→수비→미드필더→공격 순으로 기대해서(좌표를 그 순서로 만들어놓고 배열
+  // 인덱스로 매칭하기 때문), 순서를 안 맞추면 공격수가 골키퍼 자리에 그려지는 식으로
+  // 완전히 어긋난다. 그래서 반환하기 전에 항상 GK→DF→MF→FW 순서로 재정렬한다.
+  return {
+    home: sortForPitchView(homeStarting),
+    away: sortForPitchView(awayStarting),
+  };
+}
+
+// GK→DF→MF→FW 순서로 정렬. 분류 안 되는 포지션(예: "-")은 미드필더 취급해서 중간에 둔다
+// (완전히 엉뚱한 자리보다는 중간이 그나마 덜 어색함).
+function sortForPitchView(players) {
+  const order = { GK: 0, DF: 1, MF: 2, FW: 3 };
+  function bucketOf(pos) {
+    const upper = (pos || '').toUpperCase().trim();
+    if (upper === 'GK') return 'GK';
+    if (DF_POSITIONS.has(upper)) return 'DF';
+    if (FW_POSITIONS.has(upper)) return 'FW';
+    return 'MF'; // MF_POSITIONS에 맞는 것도, 분류 안 되는 것도 전부 여기로
+  }
+  return [...players].sort((a, b) => order[bucketOf(a.position)] - order[bucketOf(b.position)]);
 }
 
 // 라인업(parseMatchLineups 결과의 home 또는 away)을 _slug_.astro가 기대하는
@@ -444,8 +466,24 @@ export function deriveFormationFromLineup(players) {
   // (11명 중 1명 정도는 흔함) — 그때마다 통째로 포기하면 너무 자주 실패하니, 최대 1명까지는
   // 무시하고 나머지로 계산한다. 2명 이상 미상이면 신뢰도가 너무 떨어져서 포기한다.
   if (unknown > 1) return null;
+  // sortForPitchView()도 미분류 포지션을 미드필더 취급해서 정렬하므로, 여기서도 mf에
+  // 합산해야 배열 길이(11명)와 포메이션 숫자 합이 어긋나지 않는다.
+  mf += unknown;
   if (df + mf + fw < 9) return null;      // 분류된 필드 플레이어가 너무 적으면 불완전한 라인업
   if (df === 0 || fw === 0) return null;  // 수비/공격이 0명인 포메이션은 있을 수 없음
+
+  // 미드필더가 5명 이상이면 한 줄에 몰아넣지 않고 두 줄(수비형/공격형)로 나눠서
+  // "3-6-1" 대신 "3-3-3-1"처럼 훨씬 자연스러운 포메이션 모양을 만든다. footystats가
+  // CDM/CAM처럼 세부 구분 없이 전부 "CM"으로 뭉뚱그려 줄 때가 많아서, "정확히 누가
+  // 수비형이고 누가 공격형인지"까지는 알 수 없다 — 그래서 정렬된 순서 그대로 절반씩
+  // 나눈다. 실제 배치와 100% 일치한다는 보장은 없지만, 한 줄에 5~6명이 몰려있는 것보다는
+  // 훨씬 자연스러운 모양이 나온다. _slug_.astro의 좌표 생성기가 4구간 포메이션 문자열
+  // ("4-2-3-1" 같은)을 이미 지원하므로 형식만 맞추면 별도 프론트 작업 없이 그려진다.
+  if (mf >= 5) {
+    const deeperMf = Math.floor(mf / 2);
+    const advancedMf = mf - deeperMf;
+    return `${df}-${deeperMf}-${advancedMf}-${fw}`;
+  }
 
   return `${df}-${mf}-${fw}`;
 }
