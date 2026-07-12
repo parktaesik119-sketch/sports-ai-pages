@@ -1617,6 +1617,202 @@
     }
   },
   {
+    "home": "Boston River",
+    "away": "Central Espanol",
+    "date": "2026-07-12T18:00:00+00:00",
+    "league": "Primera División - Apertura",
+    "h2h": [
+      {
+        "date": "2026-05-03",
+        "home": "Boston River",
+        "away": "Central Español",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-04-02",
+        "home": "Boston River",
+        "away": "Central Español",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-05-02",
+        "home": "Central Español",
+        "away": "Boston River",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2014-12-02",
+        "home": "Boston River",
+        "away": "Central Español",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2014-04-22",
+        "home": "Boston River",
+        "away": "Central Español",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-11-19",
+        "home": "Central Español",
+        "away": "Boston River",
+        "homeScore": 3,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-07",
+          "home": "Defensor Sporting",
+          "away": "Boston River",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-01",
+          "home": "Boston River",
+          "away": "Liverpool FC Montevideo",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Cerro Largo",
+          "away": "Boston River",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Boston River",
+          "away": "Cerro",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-11",
+          "home": "Deportivo Maldonado",
+          "away": "Boston River",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Boston River",
+          "away": "Central Español",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-24",
+          "home": "Torque",
+          "away": "Boston River",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-20",
+          "home": "Boston River",
+          "away": "Cerro Largo",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Defensor Sporting",
+          "away": "Boston River",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-03",
+          "home": "Boston River",
+          "away": "Wanderers",
+          "homeScore": 4,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-06",
+          "home": "Central Español",
+          "away": "Racing",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-02",
+          "home": "Peñarol",
+          "away": "Central Español",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Cerro",
+          "away": "Central Español",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Central Español",
+          "away": "Defensor Sporting",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Central Español",
+          "away": "Racing",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Boston River",
+          "away": "Central Español",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Central Español",
+          "away": "Cerro",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Albion",
+          "away": "Central Español",
+          "homeScore": 6,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Central Español",
+          "away": "Danubio",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-04",
+          "home": "Nacional",
+          "away": "Central Español",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
     "home": "Cerro Largo",
     "away": "Defensor Sporting",
     "date": "2026-07-13T22:00:00+00:00",

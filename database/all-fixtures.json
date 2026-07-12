@@ -569637,8 +569637,8 @@
     "away": "Apotheos",
     "homeLogo": "https://media.api-sports.io/football/teams/23116.png",
     "awayLogo": "https://media.api-sports.io/football/teams/23216.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "1525344",
@@ -569819,8 +569819,8 @@
     "away": "Jackson Boom",
     "homeLogo": "https://media.api-sports.io/football/teams/4001.png",
     "awayLogo": "https://media.api-sports.io/football/teams/27517.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "1525360",
@@ -570599,8 +570599,8 @@
     "away": "Otago Nuggets",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4890.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/2257.png",
-    "homeScore": 60,
-    "awayScore": 65
+    "homeScore": 80,
+    "awayScore": 84
   },
   {
     "id": "488102",
@@ -570612,8 +570612,8 @@
     "away": "North Gold Coast Seahawks",
     "homeLogo": "https://media.api-sports.io/basketball/teams/3447.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/3450.png",
-    "homeScore": 79,
-    "awayScore": 43
+    "homeScore": 91,
+    "awayScore": 67
   },
   {
     "id": "1524075",
@@ -570691,7 +570691,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/10223.png",
     "awayLogo": "https://media.api-sports.io/football/teams/10213.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "1549330",
@@ -570704,7 +570704,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/27804.png",
     "awayLogo": "https://media.api-sports.io/football/teams/27815.png",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "1584831",
@@ -570717,7 +570717,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/4323.png",
     "awayLogo": "https://media.api-sports.io/football/teams/7127.png",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 2
   },
   {
     "id": "424982",
@@ -570768,8 +570768,8 @@
     "away": "Haman",
     "homeLogo": "https://media.api-sports.io/football/teams/23089.png",
     "awayLogo": "https://media.api-sports.io/football/teams/27859.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "181111",
@@ -570781,8 +570781,8 @@
     "away": "Orix Buffaloes",
     "homeLogo": "https://media.api-sports.io/baseball/teams/55.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/61.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "183512",
@@ -570820,8 +570820,8 @@
     "away": "La Rochelle",
     "homeLogo": "https://media.api-sports.io/baseball/teams/909.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/160.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "183515",
@@ -570861,6 +570861,19 @@
     "awayLogo": "https://media.api-sports.io/volley/teams/3900.png",
     "homeScore": null,
     "awayScore": null
+  },
+  {
+    "id": "1567595",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-12T08:00:00+00:00",
+    "home": "Bihor Oradea",
+    "away": "NK Varazdin",
+    "homeLogo": "https://media.api-sports.io/football/teams/20033.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/1483.png",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "184157",
@@ -573016,19 +573029,6 @@
     "away": "Latvia U20",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4559.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4556.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "1567595",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-12T16:00:00+00:00",
-    "home": "Bihor Oradea",
-    "away": "NK Varazdin",
-    "homeLogo": "https://media.api-sports.io/football/teams/20033.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/1483.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -575945,6 +575945,58 @@
     "awayScore": null
   },
   {
+    "id": "209583",
+    "sport": "volleyball",
+    "country": "Asia",
+    "league": "Asian Championship U18",
+    "date": "2026-07-13T02:00:00+00:00",
+    "home": "Iran U18",
+    "away": "India U18",
+    "homeLogo": "https://media.api-sports.io/volley/teams/2873.png",
+    "awayLogo": "https://media.api-sports.io/volley/teams/2872.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "209584",
+    "sport": "volleyball",
+    "country": "Asia",
+    "league": "Asian Championship U18",
+    "date": "2026-07-13T02:30:00+00:00",
+    "home": "Pakistan U18",
+    "away": "Kazakhstan U18",
+    "homeLogo": "https://media.api-sports.io/volley/teams/2879.png",
+    "awayLogo": "https://media.api-sports.io/volley/teams/2875.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "209585",
+    "sport": "volleyball",
+    "country": "Asia",
+    "league": "Asian Championship U18",
+    "date": "2026-07-13T05:00:00+00:00",
+    "home": "Philippines U18",
+    "away": "Bahrain U18",
+    "homeLogo": "https://media.api-sports.io/volley/teams/3900.png",
+    "awayLogo": "https://media.api-sports.io/volley/teams/3898.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "209586",
+    "sport": "volleyball",
+    "country": "Asia",
+    "league": "Asian Championship U18",
+    "date": "2026-07-13T05:30:00+00:00",
+    "home": "South Korea U18",
+    "away": "Saudi Arabia U18",
+    "homeLogo": "https://media.api-sports.io/volley/teams/2881.png",
+    "awayLogo": "https://media.api-sports.io/volley/teams/3901.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "485364",
     "sport": "basketball",
     "country": "New Zealand",
@@ -575980,6 +576032,32 @@
     "away": "Bacolod Masskara",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7421.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7880.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "209587",
+    "sport": "volleyball",
+    "country": "Asia",
+    "league": "Asian Championship U18",
+    "date": "2026-07-13T08:00:00+00:00",
+    "home": "Indonesia U18",
+    "away": "Chinese Taipei U18",
+    "homeLogo": "https://media.api-sports.io/volley/teams/4365.png",
+    "awayLogo": "https://media.api-sports.io/volley/teams/2870.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "209588",
+    "sport": "volleyball",
+    "country": "Asia",
+    "league": "Asian Championship U18",
+    "date": "2026-07-13T08:30:00+00:00",
+    "home": "Kyrgyzstan U18",
+    "away": "Thailand U18",
+    "homeLogo": "https://media.api-sports.io/volley/teams/4366.png",
+    "awayLogo": "https://media.api-sports.io/volley/teams/2883.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -576049,6 +576127,19 @@
     "awayScore": null
   },
   {
+    "id": "209589",
+    "sport": "volleyball",
+    "country": "Asia",
+    "league": "Asian Championship U18",
+    "date": "2026-07-13T11:00:00+00:00",
+    "home": "China U18",
+    "away": "Hong Kong U18",
+    "homeLogo": "https://media.api-sports.io/volley/teams/2869.png",
+    "awayLogo": "https://media.api-sports.io/volley/teams/2871.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "493313",
     "sport": "basketball",
     "country": "Europe",
@@ -576058,6 +576149,19 @@
     "away": "Poland U20",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4557.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4559.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "209590",
+    "sport": "volleyball",
+    "country": "Asia",
+    "league": "Asian Championship U18",
+    "date": "2026-07-13T11:30:00+00:00",
+    "home": "Japan U18",
+    "away": "Australia U18",
+    "homeLogo": "https://media.api-sports.io/volley/teams/2874.png",
+    "awayLogo": "https://media.api-sports.io/volley/teams/2868.png",
     "homeScore": null,
     "awayScore": null
   },
