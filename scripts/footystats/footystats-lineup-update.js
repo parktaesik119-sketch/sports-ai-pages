@@ -186,11 +186,20 @@ function getExistingMatches(raw) {
   if (!raw) return { items: [] };
   const stripped = raw.trim().replace(/^['"]|['"]$/g, '').trim();
   if (!stripped || stripped === '[]') return { items: [] };
+
+  // ⚠️ "[" 로 시작하지 않으면 JSON 배열이 아니라는 뜻 — 예전 AI 프롬프트가 h2h 데이터
+  // 없을 때 "※ H2H 업데이트 예정" 같은 플레이스홀더 문장을 그대로 넣었거나, 아주 옛날
+  // 파이프(|) 구분 텍스트 포맷일 수 있다. 둘 다 사실상 "쓸만한 구조화 데이터가 없는"
+  // 상태인데, 예전엔 이걸 "파싱 실패 = 뭔가 있으니 손대지 마라"로 오판해서 footystats가
+  // 채워줄 수 있는데도 버려지는 문제가 있었다(실사용 로그로 확인, 2026-07).
+  // JSON 배열 형태가 아니면 그냥 비어있는 것으로 취급해서 채울 수 있게 한다.
+  if (!stripped.startsWith('[')) return { items: [] };
+
   try {
     const parsed = JSON.parse(stripped);
     if (Array.isArray(parsed)) return { items: parsed };
   } catch { /* fallthrough */ }
-  return { items: null };
+  return { items: null }; // "["로 시작하는데 파싱이 깨진 경우만 보수적으로 안 건드림
 }
 
 function supplementMatchList(existingItems, additionalItems, targetCount) {
