@@ -270,6 +270,27 @@ function calcHandicapValue(cat, expectedScores, winnerIsHome) {
 }
 
 // 최근 경기 → AI 컨텍스트 + 가로 한줄 형식
+// ⚠️ h2h/최근폼 데이터가 masterData(all-fixtures) · ESPN · KBL · footystats 등 여러
+// 소스에서 각각 수집돼서 여러 단계에 걸쳐 병합되다 보니, 같은 경기가 두 번 들어가는
+// 사고가 실사용에서 확인됨(예: ESPN도 특정 경기를 찾고 footystats도 같은 경기를 찾아서
+// 병합 단계의 개별 dedup 체크를 뚫고 같이 살아남는 경우). 개별 병합 단계마다 따로
+// 막기보다, "이 데이터를 실제로 쓰기 직전"에 한 번 더 무조건 걸러내는 최종 안전장치를
+// 둔다. 날짜(연-월-일)+홈팀+원정팀이 같으면 같은 경기로 보고, 먼저 나온 것만 남긴다.
+function dedupeMatchList(list) {
+  if (!Array.isArray(list) || list.length === 0) return list;
+  const seen = new Set();
+  const result = [];
+  for (const m of list) {
+    const d = new Date(m.date);
+    const dateKey = Number.isNaN(d.getTime()) ? String(m.date) : d.toISOString().slice(0, 10);
+    const key = `${dateKey}|${m.home}|${m.away}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    result.push(m);
+  }
+  return result;
+}
+
 function buildRecentForm(recentList, teamName) {
   if (!recentList || recentList.length === 0) return `${teamName}: 최근 경기 데이터 없음`;
 
@@ -479,7 +500,7 @@ AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 방식으로 원정
 HOME_POWER: (홈팀 핵심 전력 포인트 5개를 파이프(|)로 구분. 각 35자 이내. HOME_ANALYSIS에 이미 쓴 문장이나 수치를 그대로 반복하지 마라 — 같은 데이터를 다른 각도로 해석한 통찰을 담아라. 단순히 "N승N패", "평균 N득점" 같은 시즌 기록 나열이 아니라, 그 기록이 시사하는 패턴이나 강약점을 한 줄로 압축하라. 가능하면 수치를 근거로 들되, 수치 자체보다 "그래서 어떻다"는 해석이 핵심이다. 문장은 반드시 "~함/~음/~임/~보임/~검증됨" 같은 명사형·요약체 종결어미로 끝내라. "~합니다", "~있습니다" 같은 완결된 존댓말 문장 절대 금지 — 서술이 아니라 한 줄 요약처럼 읽혀야 한다. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지. 예: 최근 맞대결 5경기 중 4승, 상대 상성 확실한 우위|최근 4경기 모두 2득점 이상, 화력보단 꾸준함이 강점|원정 약한 상대 수비 vs 안정적 홈 운영, 매치업상 유리|직전 경기 무득점 포함 마무리 효율은 기복 변수|조 1위로 마친 만큼 큰 경기 운영력은 검증된 상태)
 AWAY_POWER: (원정팀 핵심 전력 포인트 5개를 파이프(|)로 구분. 각 35자 이내. AWAY_ANALYSIS와 동일한 방식·동일한 원칙(수치 재탕 금지, 패턴·시사점 중심)으로 원정팀 기준으로 작성하라. 문장은 반드시 "~함/~음/~임/~보임/~검증됨" 같은 명사형·요약체 종결어미로 끝내라. "~합니다", "~있습니다" 같은 완결된 존댓말 문장 절대 금지. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지.)
 H2H: (상대전적. DB에 있으면 각 경기를 파이프(|)로 구분하여 기재. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 없으면 반드시 "※ H2H 업데이트 예정" 으로만 표기. 웹 검색 절대 금지.)
-SUMMARY: (종합 분석. 존댓말로 3문장 이상. 반드시 [시즌 전체 DB] 기준 수치만 활용하라. 다른 연도 수치 사용 절대 금지. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 시즌 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라.)
+SUMMARY: (종합 분석. 존댓말로 3문장 이상. 반드시 [시즌 전체 DB] 기준 수치만 활용하라. 다른 연도 수치 사용 절대 금지. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 시즌 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라. ④"예상 스코어가 O대O로 제시된 만큼", "예상되는 스코어가 ~인 만큼" 같이 예상 스코어(pick) 자체를 근거로 들어 설명하는 순환 서술 절대 금지 — 예상 스코어는 이 분석 내용을 바탕으로 "나온 결과"이지, 분석의 "근거"가 아니다. 전력 비교와 흐름만으로 자연스럽게 결론에 도달하도록 서술하라.)
 INJURY_HOME: (홈팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 INJURY_AWAY: (원정팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부". 배당 검색 금지. 반드시 아래 제공된 최근경기 DB와 상대전적 DB만을 근거로 판단하라.)
@@ -872,8 +893,9 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
       .sort((a, b) => new Date(b.date) - new Date(a.date));
 
     // 평균 계산용(h2hForAvg)은 최대 10개까지 넉넉히, 화면 표시용(h2hHistory)은 기존대로 5개만
-    h2hForAvg  = mergedH2h.slice(0, 10);
-    h2hHistory = mergedH2h.slice(0, 5);
+    const dedupedMergedH2h = dedupeMatchList(mergedH2h);
+    h2hForAvg  = dedupedMergedH2h.slice(0, 10);
+    h2hHistory = dedupedMergedH2h.slice(0, 5);
   } else if (kblInfo?.headToHead?.length > 0) {
     // ESPN이 KBL을 커버하지 않으므로, KBL 공식 API로 직접 수집한 상대전적을 그 다음 우선순위로 사용.
     // (겨울 시즌제라 all-fixtures DB만으로는 시즌 초반에 상대전적이 텅 빌 수 있어서 만든 보강 경로)
@@ -898,12 +920,14 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     const mergedKblH2h = [...sortedKblH2h, ...kblSupplementFromFixtures]
       .sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    h2hForAvg  = mergedKblH2h.slice(0, 10);
-    h2hHistory = mergedKblH2h.slice(0, 5);
+    const dedupedMergedKblH2h = dedupeMatchList(mergedKblH2h);
+    h2hForAvg  = dedupedMergedKblH2h.slice(0, 10);
+    h2hHistory = dedupedMergedKblH2h.slice(0, 5);
   } else {
     // ESPN/KBL H2H가 없으면 all-fixtures 버퍼(최대 10개)를 그대로 평균용으로, 5개만 표시용으로
-    h2hForAvg  = h2hHistory.slice(0, 10);
-    h2hHistory = h2hHistory.slice(0, 5);
+    const dedupedH2hBuffer = dedupeMatchList(h2hHistory);
+    h2hForAvg  = dedupedH2hBuffer.slice(0, 10);
+    h2hHistory = dedupedH2hBuffer.slice(0, 5);
 
     // footystats로 보충된 경기가 있으면(위 772번째 줄쯤에서 h2hHistory에 이미 반영됨),
     // AI 프롬프트용 텍스트도 그 최신 h2hHistory 기준으로 다시 만들어서 화면 표시·평균 계산·
@@ -919,6 +943,12 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
       h2hContextForAI = `\n[내부 데이터베이스 상대전적 참고]\n${aiGameLines}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
     }
   }
+
+  // ⚠️ 최종 안전장치: ESPN/KBL/footystats/masterData 중 어디서 왔든, 병합이 다 끝난
+  // 이 시점에 한 번 더 중복을 걸러낸다. 평균 계산(h2hForAvg)과 화면 표시(h2hHistory)
+  // 둘 다 이 시점 이후에 쓰이므로, 여기서 걸러내면 두 곳 다 안전하다.
+  h2hForAvg  = dedupeMatchList(h2hForAvg);
+  h2hHistory = dedupeMatchList(h2hHistory);
 
   // 시즌 전체 경기 추출 (올해 1월 1일 이후)
   const currentYear = new Date().getFullYear();
@@ -942,6 +972,11 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
                      (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
     return isAwayTeam && isPast && isRecentEnough && hasScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  // ⚠️ H2H와 동일한 이유로 최근폼도 최종 중복제거를 한 번 더 거친다(masterData/KBL/
+  // footystats 등 여러 소스가 병합되면서 같은 경기가 중복될 수 있음).
+  homeRecentMatches = dedupeMatchList(homeRecentMatches);
+  awayRecentMatches = dedupeMatchList(awayRecentMatches);
 
   const homeAllContext = buildRecentForm(homeAllMatches, match.home);
   const awayAllContext = buildRecentForm(awayAllMatches, match.away);
