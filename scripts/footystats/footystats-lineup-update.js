@@ -34,6 +34,7 @@ import {
   strictTeamMatch,
   parseUpcomingFixtureDate,
   isDateReasonablyClose,
+  deriveFormationFromLineup,
 } from './footystats-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -249,11 +250,15 @@ async function main() {
     const existingAwayRecent = getExistingMatches(fm.awayRecent);
     const homeLineupEmpty = isEmptyField(fm.homeLineup);
     const awayLineupEmpty = isEmptyField(fm.awayLineup);
+    const homeFormationEmpty = isEmptyField(fm.homeFormation);
+    const awayFormationEmpty = isEmptyField(fm.awayFormation);
 
     const needH2h        = existingH2h.items !== null && existingH2h.items.length < TARGET_COUNT;
     const needHomeRecent = existingHomeRecent.items !== null && existingHomeRecent.items.length < TARGET_COUNT;
     const needAwayRecent = existingAwayRecent.items !== null && existingAwayRecent.items.length < TARGET_COUNT;
-    const needLineup     = homeLineupEmpty || awayLineupEmpty;
+    // 라인업 텍스트뿐 아니라 포메이션 문자열도 비어있으면 H2H 페이지를 가져오는
+    // 트리거에 포함시킨다(라인업은 이미 있는데 포메이션만 비어있는 경우도 커버).
+    const needLineup = homeLineupEmpty || awayLineupEmpty || homeFormationEmpty || awayFormationEmpty;
 
     if (!needH2h && !needHomeRecent && !needAwayRecent && !needLineup) {
       skipCount++;
@@ -318,6 +323,18 @@ async function main() {
                 }
                 if (awayLineupEmpty && lineups.away.length > 0) {
                   updates.awayLineup = JSON.stringify(formatLineupForDisplay(lineups.away));
+                }
+
+                // footystats는 "4-2-3-1" 같은 포메이션 문자열을 직접 안 주므로,
+                // 선발 11명의 세부 포지션 코드를 세어서 유추한다. 불완전하거나
+                // 애매하면(deriveFormationFromLineup이 null 반환) 억지로 채우지 않는다.
+                if (homeFormationEmpty) {
+                  const homeFormation = deriveFormationFromLineup(lineups.home);
+                  if (homeFormation) updates.homeFormation = homeFormation;
+                }
+                if (awayFormationEmpty) {
+                  const awayFormation = deriveFormationFromLineup(lineups.away);
+                  if (awayFormation) updates.awayFormation = awayFormation;
                 }
               } else {
                 console.log(`   ℹ️ 라인업 섹션 없음 (하위 리그 등 footystats 미지원일 수 있음)`);
