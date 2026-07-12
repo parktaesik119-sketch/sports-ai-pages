@@ -423,7 +423,7 @@ export function formatLineupForDisplay(players) {
 // 만들어내지 않는다.
 // ─────────────────────────────────────────────
 const DF_POSITIONS = new Set(['CB', 'LB', 'RB', 'WB', 'LWB', 'RWB', 'DF']);
-const MF_POSITIONS = new Set(['CDM', 'CAM', 'CM', 'DM', 'AM', 'MF']);
+const MF_POSITIONS = new Set(['CDM', 'CAM', 'CM', 'DM', 'AM', 'MF', 'LM', 'RM']);
 const FW_POSITIONS = new Set(['CF', 'ST', 'LF', 'RF', 'LW', 'RW', 'FW']);
 
 export function deriveFormationFromLineup(players) {
@@ -439,10 +439,13 @@ export function deriveFormationFromLineup(players) {
     else unknown++;
   }
 
-  if (gk !== 1) return null;           // GK가 정확히 1명이 아니면 데이터 이상함
-  if (unknown > 0) return null;        // 분류 못 한 포지션 코드가 있으면 신뢰 못 함
-  if (df + mf + fw !== 10) return null; // 필드 플레이어가 10명이 아니면 라인업이 불완전함
-  if (df === 0 || fw === 0) return null; // 수비/공격이 0명인 포메이션은 있을 수 없음
+  if (gk !== 1) return null;              // GK가 정확히 1명이 아니면 데이터 이상함
+  // ⚠️ footystats가 일부 선수 포지션을 "-"(정보 없음)로 주는 경우가 실사용에서 확인됨
+  // (11명 중 1명 정도는 흔함) — 그때마다 통째로 포기하면 너무 자주 실패하니, 최대 1명까지는
+  // 무시하고 나머지로 계산한다. 2명 이상 미상이면 신뢰도가 너무 떨어져서 포기한다.
+  if (unknown > 1) return null;
+  if (df + mf + fw < 9) return null;      // 분류된 필드 플레이어가 너무 적으면 불완전한 라인업
+  if (df === 0 || fw === 0) return null;  // 수비/공격이 0명인 포메이션은 있을 수 없음
 
   return `${df}-${mf}-${fw}`;
 }
