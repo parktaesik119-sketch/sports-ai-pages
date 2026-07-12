@@ -673,9 +673,20 @@ async function main() {
     };
 
     if (isLineupComplete(fm.homeLineup) && isLineupComplete(fm.awayLineup)) {
-      console.log(`⏩ [스킵] 라인업 완료: ${path.basename(filePath)}`);
-      skipCount++;
-      continue;
+      // ⚠️ 라인업은 이미 채워졌어도, 축구 경기의 포메이션(homeFormation/awayFormation)이
+      // 비어있으면 스킵하면 안 된다 — 스킵해버리면 이 파일은 다시는 ESPN을 조회하지
+      // 않아서 포메이션이 영영 안 채워진다(실사용 중 확인, 2026-07). footystats-lineup-
+      // update.js도 동일한 이유로 라인업뿐 아니라 포메이션까지 같이 체크하도록 되어 있음.
+      const isEmptyField = (raw) => !raw || raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
+      const needsFormation = category === 'soccer'
+        && (isEmptyField(fm.homeFormation) || isEmptyField(fm.awayFormation));
+
+      if (!needsFormation) {
+        console.log(`⏩ [스킵] 라인업 완료: ${path.basename(filePath)}`);
+        skipCount++;
+        continue;
+      }
+      console.log(`ℹ️ [계속 진행] 라인업은 완료됐지만 포메이션이 비어있어 재조회: ${path.basename(filePath)}`);
     }
 
     const league    = fm.league    || '';
