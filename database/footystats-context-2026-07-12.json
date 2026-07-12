@@ -1,0 +1,1843 @@
+[
+  {
+    "home": "Wuhan Three Towns",
+    "away": "Henan Jianye",
+    "date": "2026-07-11T11:00:00+00:00",
+    "league": "Super League",
+    "h2h": [
+      {
+        "date": "2026-03-21",
+        "home": "Henan Jianye",
+        "away": "Wuhan Three Towns",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-09-19",
+        "home": "Wuhan Three Towns",
+        "away": "Henan Jianye",
+        "homeScore": 2,
+        "awayScore": 5
+      },
+      {
+        "date": "2025-05-01",
+        "home": "Henan Jianye",
+        "away": "Wuhan Three Towns",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-09-29",
+        "home": "Wuhan Three Towns",
+        "away": "Henan Jianye",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-05-17",
+        "home": "Henan Jianye",
+        "away": "Wuhan Three Towns",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2023-08-09",
+        "home": "Wuhan Three Towns",
+        "away": "Henan Jianye",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-05-09",
+        "home": "Henan Jianye",
+        "away": "Wuhan Three Towns",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-11-13",
+        "home": "Wuhan Three Towns",
+        "away": "Henan Jianye",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2022-08-17",
+        "home": "Henan Jianye",
+        "away": "Wuhan Three Towns",
+        "homeScore": 0,
+        "awayScore": 3
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-04",
+          "home": "Dalian Zhixing",
+          "away": "Wuhan Three Towns",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Beijing Guoan",
+          "away": "Wuhan Three Towns",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-31",
+          "home": "Wuhan Three Towns",
+          "away": "Yunnan Yukun",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Shandong Luneng",
+          "away": "Wuhan Three Towns",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-20",
+          "home": "Shanghai Shenhua",
+          "away": "Wuhan Three Towns",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Wuhan Three Towns",
+          "away": "Shenyang Urban",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Qingdao Youth Island",
+          "away": "Wuhan Three Towns",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-06",
+          "home": "Wuhan Three Towns",
+          "away": "Qingdao Jonoon",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Tianjin Teda",
+          "away": "Wuhan Three Towns",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Shanghai SIPG",
+          "away": "Wuhan Three Towns",
+          "homeScore": 4,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-03",
+          "home": "Yunnan Yukun",
+          "away": "Henan Jianye",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Henan Jianye",
+          "away": "Shanghai SIPG",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Henan Jianye",
+          "away": "Zhejiang FC",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Beijing Guoan",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Tianjin Teda",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Henan Jianye",
+          "away": "Sichuan Jiuniu",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Chengdu Better City FC",
+          "away": "Henan Jianye",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Chongqing Tongliang Long",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Henan Jianye",
+          "away": "Shenyang Urban",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Henan Jianye",
+          "away": "Shanghai Shenhua",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ]
+    }
+  },
+  {
+    "home": "Shanghai Shenhua",
+    "away": "Beijing Guoan",
+    "date": "2026-07-11T11:35:00+00:00",
+    "league": "Super League",
+    "h2h": [
+      {
+        "date": "2026-03-21",
+        "home": "Beijing Guoan",
+        "away": "Shanghai Shenhua",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-07-19",
+        "home": "Beijing Guoan",
+        "away": "Shanghai Shenhua",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2025-03-01",
+        "home": "Shanghai Shenhua",
+        "away": "Beijing Guoan",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-08-22",
+        "home": "Shanghai Shenhua",
+        "away": "Beijing Guoan",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-08-04",
+        "home": "Beijing Guoan",
+        "away": "Shanghai Shenhua",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-04-13",
+        "home": "Shanghai Shenhua",
+        "away": "Beijing Guoan",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-08-19",
+        "home": "Beijing Guoan",
+        "away": "Shanghai Shenhua",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-05-19",
+        "home": "Shanghai Shenhua",
+        "away": "Beijing Guoan",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-11-25",
+        "home": "Shanghai Shenhua",
+        "away": "Beijing Guoan",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-08-26",
+        "home": "Beijing Guoan",
+        "away": "Shanghai Shenhua",
+        "homeScore": 0,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-05",
+          "home": "Shanghai Shenhua",
+          "away": "Zhejiang FC",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-06-28",
+          "home": "Dalian Zhixing",
+          "away": "Shanghai Shenhua",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Qingdao Youth Island",
+          "away": "Shanghai Shenhua",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Shanghai Shenhua",
+          "away": "Sichuan Jiuniu",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-20",
+          "home": "Shanghai Shenhua",
+          "away": "Wuhan Three Towns",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Yunnan Yukun",
+          "away": "Shanghai Shenhua",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Shanghai Shenhua",
+          "away": "Chongqing Tongliang Long",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Shandong Luneng",
+          "away": "Shanghai Shenhua",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Shanghai Shenhua",
+          "away": "Chengdu Better City FC",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Henan Jianye",
+          "away": "Shanghai Shenhua",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-04",
+          "home": "Beijing Guoan",
+          "away": "Shandong Luneng",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Beijing Guoan",
+          "away": "Wuhan Three Towns",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Chongqing Tongliang Long",
+          "away": "Beijing Guoan",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Beijing Guoan",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Qingdao Youth Island",
+          "away": "Beijing Guoan",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Beijing Guoan",
+          "away": "Qingdao Jonoon",
+          "homeScore": 4,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Beijing Guoan",
+          "away": "Shanghai SIPG",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-06",
+          "home": "Beijing Guoan",
+          "away": "Dalian Zhixing",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Yunnan Yukun",
+          "away": "Beijing Guoan",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Beijing Guoan",
+          "away": "Tianjin Teda",
+          "homeScore": 2,
+          "awayScore": 4
+        }
+      ]
+    }
+  },
+  {
+    "home": "Incheon United",
+    "away": "FC Anyang",
+    "date": "2026-07-12T10:30:00+00:00",
+    "league": "K League 1",
+    "h2h": [
+      {
+        "date": "2026-03-22",
+        "home": "Anyang",
+        "away": "Incheon United",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-04-14",
+        "home": "Incheon United",
+        "away": "Anyang",
+        "homeScore": 0,
+        "awayScore": 3
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-05",
+          "home": "FC Seoul",
+          "away": "Incheon United",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Incheon United",
+          "away": "Gwangju",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-12",
+          "home": "Incheon United",
+          "away": "Pohang Steelers",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Sangju Sangmu",
+          "away": "Incheon United",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Daejeon Citizen",
+          "away": "Incheon United",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Incheon United",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Incheon United",
+          "away": "Jeju United",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-21",
+          "home": "Jeonbuk Motors",
+          "away": "Incheon United",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Bucheon 1995",
+          "away": "Incheon United",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Incheon United",
+          "away": "Ulsan",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-04",
+          "home": "Anyang",
+          "away": "Pohang Steelers",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Jeju United",
+          "away": "Anyang",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-13",
+          "home": "Anyang",
+          "away": "Sangju Sangmu",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Anyang",
+          "away": "Jeonbuk Motors",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-05",
+          "home": "FC Seoul",
+          "away": "Anyang",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Anyang",
+          "away": "Bucheon 1995",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Gwangju",
+          "away": "Anyang",
+          "homeScore": 2,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-04-22",
+          "home": "Anyang",
+          "away": "Ulsan",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Pohang Steelers",
+          "away": "Anyang",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Sangju Sangmu",
+          "away": "Anyang",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "Jeju United FC",
+    "away": "Daejeon Citizen",
+    "date": "2026-07-12T10:30:00+00:00",
+    "league": "K League 1",
+    "h2h": [
+      {
+        "date": "2026-04-22",
+        "home": "Daejeon Citizen",
+        "away": "Jeju United",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-10-18",
+        "home": "Daejeon Citizen",
+        "away": "Jeju United",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-06-27",
+        "home": "Daejeon Citizen",
+        "away": "Jeju United",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-03-15",
+        "home": "Jeju United",
+        "away": "Daejeon Citizen",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2024-06-19",
+        "home": "Daejeon Citizen",
+        "away": "Jeju United",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-05-29",
+        "home": "Daejeon Citizen",
+        "away": "Jeju United",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-03-10",
+        "home": "Jeju United",
+        "away": "Daejeon Citizen",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-11-25",
+        "home": "Jeju United",
+        "away": "Daejeon Citizen",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-10-08",
+        "home": "Daejeon Citizen",
+        "away": "Jeju United",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-06-24",
+        "home": "Jeju United",
+        "away": "Daejeon Citizen",
+        "homeScore": 1,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-05",
+          "home": "Sangju Sangmu",
+          "away": "Jeju United",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Jeju United",
+          "away": "Anyang",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-13",
+          "home": "Ulsan",
+          "away": "Jeju United",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Jeju United",
+          "away": "FC Seoul",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Bucheon 1995",
+          "away": "Jeju United",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Jeju United",
+          "away": "Jeonbuk Motors",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Incheon United",
+          "away": "Jeju United",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-22",
+          "home": "Daejeon Citizen",
+          "away": "Jeju United",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Jeju United",
+          "away": "Sangju Sangmu",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Pohang Steelers",
+          "away": "Jeju United",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-04",
+          "home": "Daejeon Citizen",
+          "away": "Bucheon 1995",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Daejeon Citizen",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-12",
+          "home": "Gangwon",
+          "away": "Daejeon Citizen",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Daejeon Citizen",
+          "away": "Pohang Steelers",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Daejeon Citizen",
+          "away": "Incheon United",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Gwangju",
+          "away": "Daejeon Citizen",
+          "homeScore": 0,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Ulsan",
+          "away": "Daejeon Citizen",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-04-22",
+          "home": "Daejeon Citizen",
+          "away": "Jeju United",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-18",
+          "home": "FC Seoul",
+          "away": "Daejeon Citizen",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Daejeon Citizen",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Seoul",
+    "away": "Gangwon FC",
+    "date": "2026-07-12T10:30:00+00:00",
+    "league": "K League 1",
+    "h2h": [
+      {
+        "date": "2026-04-25",
+        "home": "Gangwon",
+        "away": "FC Seoul",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-10-26",
+        "home": "FC Seoul",
+        "away": "Gangwon",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-09-13",
+        "home": "Gangwon",
+        "away": "FC Seoul",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-06-17",
+        "home": "FC Seoul",
+        "away": "Gangwon",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-03-15",
+        "home": "Gangwon",
+        "away": "FC Seoul",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-10-20",
+        "home": "Gangwon",
+        "away": "FC Seoul",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-08-24",
+        "home": "FC Seoul",
+        "away": "Gangwon",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-06-26",
+        "home": "FC Seoul",
+        "away": "Gangwon",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-06-19",
+        "home": "FC Seoul",
+        "away": "Gangwon",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-03-31",
+        "home": "Gangwon",
+        "away": "FC Seoul",
+        "homeScore": 1,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-05",
+          "home": "FC Seoul",
+          "away": "Incheon United",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Daejeon Citizen",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-12",
+          "home": "Gwangju",
+          "away": "FC Seoul",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Jeju United",
+          "away": "FC Seoul",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-05",
+          "home": "FC Seoul",
+          "away": "Anyang",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "FC Seoul",
+          "away": "Sangju Sangmu",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Gangwon",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-21",
+          "home": "FC Seoul",
+          "away": "Bucheon 1995",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-18",
+          "home": "FC Seoul",
+          "away": "Daejeon Citizen",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-15",
+          "home": "Ulsan",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 4
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-04",
+          "home": "Jeonbuk Motors",
+          "away": "Gangwon",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Gangwon",
+          "away": "Ulsan",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-12",
+          "home": "Gangwon",
+          "away": "Daejeon Citizen",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Gwangju",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Gangwon",
+          "away": "Pohang Steelers",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Incheon United",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Gangwon",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-21",
+          "home": "Sangju Sangmu",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Gangwon",
+          "away": "Jeonbuk Motors",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Daejeon Citizen",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ]
+    }
+  },
+  {
+    "home": "Asan Mugunghwa",
+    "away": "Gyeongnam FC",
+    "date": "2026-07-12T10:30:00+00:00",
+    "league": "K League 2",
+    "h2h": [
+      {
+        "date": "2025-10-12",
+        "home": "Asan Mugunghwa",
+        "away": "Gyeongnam",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-08-09",
+        "home": "Asan Mugunghwa",
+        "away": "Gyeongnam",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-05-17",
+        "home": "Gyeongnam",
+        "away": "Asan Mugunghwa",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2024-09-01",
+        "home": "Asan Mugunghwa",
+        "away": "Gyeongnam",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-06-22",
+        "home": "Asan Mugunghwa",
+        "away": "Gyeongnam",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-03-16",
+        "home": "Gyeongnam",
+        "away": "Asan Mugunghwa",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-08-29",
+        "home": "Asan Mugunghwa",
+        "away": "Gyeongnam",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-06-10",
+        "home": "Gyeongnam",
+        "away": "Asan Mugunghwa",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-04-23",
+        "home": "Asan Mugunghwa",
+        "away": "Gyeongnam",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-08-31",
+        "home": "Asan Mugunghwa",
+        "away": "Gyeongnam",
+        "homeScore": 2,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-05",
+          "home": "Gimpo Citizen",
+          "away": "Asan Mugunghwa",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-06-05",
+          "home": "Busan I'Park",
+          "away": "Asan Mugunghwa",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Asan Mugunghwa",
+          "away": "Suwon Bluewings",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Yongin City",
+          "away": "Asan Mugunghwa",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Asan Mugunghwa",
+          "away": "Suwon",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Asan Mugunghwa",
+          "away": "Seoul E-Land",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Cheonan City",
+          "away": "Asan Mugunghwa",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Cheongju",
+          "away": "Asan Mugunghwa",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Asan Mugunghwa",
+          "away": "Jeonnam Dragons",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Asan Mugunghwa",
+          "away": "Gimhae City",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-05",
+          "home": "Gyeongnam",
+          "away": "Cheonan City",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-06",
+          "home": "Gyeongnam",
+          "away": "Yongin City",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-31",
+          "home": "Hwaseong",
+          "away": "Gyeongnam",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Gyeongnam",
+          "away": "Suwon",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Seongnam",
+          "away": "Gyeongnam",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Gyeongnam",
+          "away": "Gimhae City",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Daegu",
+          "away": "Gyeongnam",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Paju Citizen",
+          "away": "Gyeongnam",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Gyeongnam",
+          "away": "Suwon Bluewings",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-04",
+          "home": "Gyeongnam",
+          "away": "Busan I'Park",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ]
+    }
+  },
+  {
+    "home": "Tianjin Teda",
+    "away": "Shenyang Urban",
+    "date": "2026-07-12T11:00:00+00:00",
+    "league": "Super League",
+    "h2h": [
+      {
+        "date": "2026-03-21",
+        "home": "Shenyang Urban",
+        "away": "Tianjin Teda",
+        "homeScore": 3,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-04",
+          "home": "Tianjin Teda",
+          "away": "Sichuan Jiuniu",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Chongqing Tongliang Long",
+          "away": "Tianjin Teda",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-31",
+          "home": "Tianjin Teda",
+          "away": "Dalian Zhixing",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Shanghai SIPG",
+          "away": "Tianjin Teda",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Tianjin Teda",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Tianjin Teda",
+          "away": "Chengdu Better City FC",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Zhejiang FC",
+          "away": "Tianjin Teda",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Qingdao Youth Island",
+          "away": "Tianjin Teda",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Tianjin Teda",
+          "away": "Wuhan Three Towns",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Beijing Guoan",
+          "away": "Tianjin Teda",
+          "homeScore": 2,
+          "awayScore": 4
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-04",
+          "home": "Shenyang Urban",
+          "away": "Chongqing Tongliang Long",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Shenyang Urban",
+          "away": "Shandong Luneng",
+          "homeScore": 1,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-05-29",
+          "home": "Shenyang Urban",
+          "away": "Shanghai SIPG",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Zhejiang FC",
+          "away": "Shenyang Urban",
+          "homeScore": 0,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-05-20",
+          "home": "Shenyang Urban",
+          "away": "Qingdao Jonoon",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Wuhan Three Towns",
+          "away": "Shenyang Urban",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Shenyang Urban",
+          "away": "Yunnan Yukun",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Shenyang Urban",
+          "away": "Chengdu Better City FC",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Henan Jianye",
+          "away": "Shenyang Urban",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Sichuan Jiuniu",
+          "away": "Shenyang Urban",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    }
+  },
+  {
+    "home": "SHANGHAI SIPG",
+    "away": "Dalian Zhixing",
+    "date": "2026-07-12T11:35:00+00:00",
+    "league": "Super League",
+    "h2h": [
+      {
+        "date": "2026-03-20",
+        "home": "Dalian Zhixing",
+        "away": "Shanghai SIPG",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-11-22",
+        "home": "Dalian Zhixing",
+        "away": "Shanghai SIPG",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-06-26",
+        "home": "Shanghai SIPG",
+        "away": "Dalian Zhixing",
+        "homeScore": 3,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-04",
+          "home": "Qingdao Youth Island",
+          "away": "Shanghai SIPG",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Henan Jianye",
+          "away": "Shanghai SIPG",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-29",
+          "home": "Shenyang Urban",
+          "away": "Shanghai SIPG",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Shanghai SIPG",
+          "away": "Tianjin Teda",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Chengdu Better City FC",
+          "away": "Shanghai SIPG",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Shanghai SIPG",
+          "away": "Zhejiang FC",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Beijing Guoan",
+          "away": "Shanghai SIPG",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-06",
+          "home": "Shanghai SIPG",
+          "away": "Sichuan Jiuniu",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Qingdao Jonoon",
+          "away": "Shanghai SIPG",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Shanghai SIPG",
+          "away": "Wuhan Three Towns",
+          "homeScore": 4,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-04",
+          "home": "Dalian Zhixing",
+          "away": "Wuhan Three Towns",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-06-28",
+          "home": "Dalian Zhixing",
+          "away": "Shanghai Shenhua",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-05-31",
+          "home": "Tianjin Teda",
+          "away": "Dalian Zhixing",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Dalian Zhixing",
+          "away": "Chengdu Better City FC",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Sichuan Jiuniu",
+          "away": "Dalian Zhixing",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Dalian Zhixing",
+          "away": "Qingdao Youth Island",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Qingdao Jonoon",
+          "away": "Dalian Zhixing",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-06",
+          "home": "Beijing Guoan",
+          "away": "Dalian Zhixing",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Dalian Zhixing",
+          "away": "Chongqing Tongliang Long",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Dalian Zhixing",
+          "away": "Yunnan Yukun",
+          "homeScore": 1,
+          "awayScore": 3
+        }
+      ]
+    }
+  },
+  {
+    "home": "Cerro Largo",
+    "away": "Defensor Sporting",
+    "date": "2026-07-13T22:00:00+00:00",
+    "league": "Primera División - Apertura",
+    "h2h": [
+      {
+        "date": "2026-02-21",
+        "home": "Defensor Sporting",
+        "away": "Cerro Largo",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-09-13",
+        "home": "Cerro Largo",
+        "away": "Defensor Sporting",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-05-25",
+        "home": "Defensor Sporting",
+        "away": "Cerro Largo",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-03-23",
+        "home": "Defensor Sporting",
+        "away": "Cerro Largo",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-11-27",
+        "home": "Cerro Largo",
+        "away": "Defensor Sporting",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-05-26",
+        "home": "Defensor Sporting",
+        "away": "Cerro Largo",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-10-21",
+        "home": "Defensor Sporting",
+        "away": "Cerro Largo",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-03-19",
+        "home": "Cerro Largo",
+        "away": "Defensor Sporting",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2022-09-16",
+        "home": "Defensor Sporting",
+        "away": "Cerro Largo",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-06-25",
+        "home": "Defensor Sporting",
+        "away": "Cerro Largo",
+        "homeScore": 1,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-08",
+          "home": "Liverpool FC Montevideo",
+          "away": "Cerro Largo",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-29",
+          "home": "Cerro Largo",
+          "away": "Cerro",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Cerro Largo",
+          "away": "Boston River",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Racing",
+          "away": "Cerro Largo",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-12",
+          "home": "Cerro Largo",
+          "away": "Peñarol",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Progreso",
+          "away": "Cerro Largo",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Cerro Largo",
+          "away": "Racing",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-20",
+          "home": "Boston River",
+          "away": "Cerro Largo",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Cerro Largo",
+          "away": "Cerro",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Albion",
+          "away": "Cerro Largo",
+          "homeScore": 2,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-07",
+          "home": "Defensor Sporting",
+          "away": "Boston River",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Racing",
+          "away": "Defensor Sporting",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Defensor Sporting",
+          "away": "Peñarol",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Central Español",
+          "away": "Defensor Sporting",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Defensor Sporting",
+          "away": "Juventud",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-04",
+          "home": "Peñarol",
+          "away": "Defensor Sporting",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-27",
+          "home": "Defensor Sporting",
+          "away": "Progreso",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Racing",
+          "away": "Defensor Sporting",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Defensor Sporting",
+          "away": "Boston River",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Cerro",
+          "away": "Defensor Sporting",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    }
+  }
+]
