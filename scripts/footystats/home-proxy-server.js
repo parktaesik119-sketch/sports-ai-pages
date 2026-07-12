@@ -25,6 +25,7 @@ const ALLOWED_HOSTS = new Set([
   'cdn.footystats.org',
   'www.sofascore.com',
   'img.sofascore.com',
+  'm.aiscore.com',
 ]);
 
 // GitHub Actions 쪽에서 보낸 헤더 중, 실제 대상 사이트로 그대로 실어 넘길 것들만 화이트리스트로 고른다.

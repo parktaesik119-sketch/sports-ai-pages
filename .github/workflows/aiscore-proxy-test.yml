@@ -1,0 +1,44 @@
+name: AiScore 홈프록시 접근 테스트 (1회성)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-aiscore-via-proxy:
+    runs-on: ubuntu-latest
+    env:
+      HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
+      HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
+    steps:
+      - name: Node 버전 확인
+        run: node --version
+
+      - name: 집 프록시 경유로 aiscore.com 호출 테스트
+        run: |
+          node -e "
+          (async () => {
+            const targetUrl = 'https://m.aiscore.com/ko/match-gangwon-fc-fc-seoul/jek33idpdzxi9ko/lineups';
+            const proxiedUrl = \`\${process.env.HOME_PROXY_URL}/proxy?url=\${encodeURIComponent(targetUrl)}\`;
+
+            try {
+              const res = await fetch(proxiedUrl, {
+                headers: { 'X-Proxy-Secret': process.env.HOME_PROXY_SECRET }
+              });
+              const upstreamStatus = res.headers.get('x-upstream-status');
+              const text = await res.text();
+
+              console.log('=== 결과 ===');
+              console.log('프록시 응답 상태코드:', res.status);
+              console.log('실제 업스트림(aiscore.com) 상태코드:', upstreamStatus);
+              console.log('응답 크기:', text.length, '바이트');
+              console.log('포메이션 문자열(3-4-3) 포함 여부:', text.includes('3-4-3'));
+              console.log('선수명(박상혁) 포함 여부:', text.includes('박상혁'));
+              console.log('');
+              console.log('=== 응답 앞부분 800자 ===');
+              console.log(text.slice(0, 800));
+            } catch (err) {
+              console.error('요청 자체 실패:', err.message);
+              process.exitCode = 1;
+            }
+          })();
+          "
