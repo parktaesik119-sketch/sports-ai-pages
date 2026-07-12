@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "213.5"
 pickOuDirection: "언더"
+homeLineup: "[\"R. Zikarsky (C)|https://a.espncdn.com/i/headshots/nba/players/full/5157587.png\",\"I. Evans (F)|https://a.espncdn.com/i/headshots/nba/players/full/5369615.png\",\"E. Freeman (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592699.png\",\"Z. Pullin (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592979.png\",\"D. Williams (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592304.png\"]"
+awayLineup: "[\"G. Emejuru (C)|https://a.espncdn.com/i/headshots/nba/players/full/4896939.png\",\"B. Hopkins (F)|https://a.espncdn.com/i/headshots/nba/players/full/4565698.png\",\"K. Simpson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683834.png\",\"M. Mitchell Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433285.png\",\"E. Stevenson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4396679.png\"]"
 ---
