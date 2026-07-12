@@ -336,7 +336,20 @@ function buildPrioritizedMatchList(sourceListsInPriorityOrder, homeTeam, awayTea
       const covered = result.some(r => {
         const rTime = new Date(r.date).getTime();
         if (Number.isNaN(mTime) || Number.isNaN(rTime)) return false;
-        return Math.abs(mTime - rTime) <= 2 * 24 * 60 * 60 * 1000;
+        const dateClose = Math.abs(mTime - rTime) <= 2 * 24 * 60 * 60 * 1000;
+        if (!dateClose) return false;
+        // ⚠️ H2H는 두 팀이 항상 고정이라 날짜만 가까우면 같은 경기로 봐도 안전하지만,
+        // 최근폼은 경기마다 상대가 다르므로 날짜만으로 판단하면 안 된다 — "4/17 vs A팀"과
+        // "4/16 vs B팀"처럼 날짜만 가까운 완전히 다른 두 경기를 같은 경기로 착각해서
+        // 하나를 통째로 날려버리는 사고가 날 수 있다(실사용 중 지적받아 확인/수정, 2026-07).
+        // 상대팀까지 같아야(어느 쪽이 홈/원정이든) 진짜 같은 경기로 판단한다.
+        if (!awayTeam) {
+          const sameOpponentPair =
+            (matchTeam(m.home, r.home) && matchTeam(m.away, r.away)) ||
+            (matchTeam(m.home, r.away) && matchTeam(m.away, r.home));
+          if (!sameOpponentPair) return false;
+        }
+        return true;
       });
       if (!covered) result.push(m);
     }
