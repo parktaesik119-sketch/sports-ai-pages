@@ -4,6 +4,12 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Sidebar from '../../../components/Sidebar.astro';
 import { CATEGORY_MAP, CATEGORY_COLOR } from '../../../lib/categories';
+import TEAM_NAME_MAP from '../../../../scripts/team_name_map.js';
+
+function translateTeam(name: string) {
+  if (!name) return name;
+  return (TEAM_NAME_MAP as Record<string, string>)[name] || name;
+}
 
 /* =========================
    🔥 구조 개조 (오늘 날짜 및 상태별 정렬 로직)
@@ -388,7 +394,7 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
                   <div class="team home-team">
                     {/* ⭕ post.data.homeTeam 대신 post.homeTeam을 찌릅니다. */}
                     <span class="team-name">
-                      {post.homeTeam ? post.homeTeam : '홈팀'}
+                      {post.homeTeam ? translateTeam(post.homeTeam) : '홈팀'}
                     </span>
                     <img 
   src={
@@ -396,7 +402,7 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
     post.homeLogo ||
     '/images/wing-home.png'
   }
-  alt={post.homeTeam}
+  alt={translateTeam(post.homeTeam)}
   class="team-logo"
   loading="lazy"
   onerror="if(!this.dataset.failed){this.dataset.failed='1';this.src='/images/wing-home.png';}"
@@ -412,14 +418,14 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000; // 24시간을 밀리초로 계산
     post.awayLogo ||
     '/images/wing-away.png'
   }
-  alt={post.awayTeam} 
+  alt={translateTeam(post.awayTeam)} 
   class="team-logo" 
   loading="lazy"
   onerror="if(!this.dataset.failed){this.dataset.failed='1';this.src='/images/wing-away.png';}" 
 />
                     {/* ⭕ post.data.awayTeam 대신 post.awayTeam을 찌릅니다. */}
                     <span class="team-name">
-                      {post.awayTeam ? post.awayTeam : '원정팀'}
+                      {post.awayTeam ? translateTeam(post.awayTeam) : '원정팀'}
                     </span>
                   </div>
                 </div>
