@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 E. Sheehan (4-6, 4.91) ERA 4.91|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\"]"
+homeLineup: "[\"선발투수 E. Sheehan (4-6, 4.91) ERA 4.91|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\",\"1번 S. Ohtani (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\",\"2번 A. Pages (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42468.png\",\"3번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"4번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"5번 T. Edman (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39907.png\",\"6번 K. Tucker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34967.png\",\"7번 T. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"8번 M. Muncy (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33303.png\",\"9번 E. Alfonzo (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917804.png\"]"
 awayLineup: "[\"선발투수 M. Bratt (0-0, 3.00) ERA 3.00|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
 ---
