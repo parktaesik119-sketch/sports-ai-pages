@@ -30,6 +30,7 @@ const IGNORABLE_CLUB_WORDS = new Set([
 function normalizeToWordSet(name) {
   return new Set(
     (name || '')
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // 악센트 분리(é→e+´) 후 악센트 부호만 제거
       .toUpperCase()
       .replace(/[^A-Z0-9\s]/g, ' ')
       .split(/\s+/)
@@ -317,12 +318,20 @@ export function parseUpcomingFixtureDate($) {
 // footystats가 준 일시(ISO)와 분석글의 실제 경기 일시(ISO)가 대략 맞는지 확인.
 // 타임존 표기 차이 등을 감안해서 여유를 넉넉히(기본 48시간) 둔다 — 정확한 시각 일치가
 // 아니라 "완전히 다른 경기/팀으로 잘못 매칭된 건 아닌지"를 걸러내는 용도이기 때문.
-export function isDateReasonablyClose(isoA, isoB, toleranceHours = 48) {
+// ⚠️ 처음엔 48시간으로 뒀었는데, 실사용 로그에서 팀 매칭은 정확한데도 대량으로
+// 걸러지는 문제를 발견함(2026-07) — 워크플로우가 실제 경기 종료 "이후"에 도는 경우가
+// 많아서, footystats의 "다음 맞대결" 필드가 이미 지나간 이 경기가 아니라 두 팀의
+// 그 다음번 맞대결(같은 시즌 내 리버스 픽스처 등, 보통 몇 주~몇 달 뒤)을 가리키게
+// 되기 때문. 팀은 정확히 맞았는데 순수 타이밍 문제로 정상 데이터를 버리고 있었음.
+// 완전히 다른 나라의 동명 클럽(예: 우루과이 Nacional vs 포르투갈 Nacional)까지
+// 걸러내는 용도이기도 해서 무한정 늘리진 않고, 한 시즌 내 리그 일정을 넉넉히
+// 커버할 수 있는 220일(약 7개월)로 크게 늘린다.
+export function isDateReasonablyClose(isoA, isoB, toleranceDays = 220) {
   if (!isoA || !isoB) return false;
   const a = new Date(isoA).getTime();
   const b = new Date(isoB).getTime();
   if (Number.isNaN(a) || Number.isNaN(b)) return false;
-  return Math.abs(a - b) <= toleranceHours * 60 * 60 * 1000;
+  return Math.abs(a - b) <= toleranceDays * 24 * 60 * 60 * 1000;
 }
 
 
