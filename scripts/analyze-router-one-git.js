@@ -364,17 +364,25 @@ function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam) {
     }
   }
 
+  // 스코어가 숫자로 정상 존재하는지 확인 (해당 소스가 이 경기를 "찾긴 했지만"
+  // 스코어 값 자체가 비정상(null/undefined 등)인 경우까지 걸러내기 위함)
+  function hasValidScore(row) {
+    return typeof row.homeScore === 'number' && typeof row.awayScore === 'number'
+      && !Number.isNaN(row.homeScore) && !Number.isNaN(row.awayScore);
+  }
+
   const SCORE_PRIORITY = ['footystats', 'espn', 'masterData'];
   return groups.map(g => {
     // 날짜: 실제 시각 있는 후보 우선, 없으면 아무거나(첫 후보)
     const dateSource = g.candidates.find(c => hasRealTime(c.row.date)) || g.candidates[0];
-    // 스코어: 지정된 우선순위대로
+    // 스코어: footystats에 없거나(이 경기 자체를 못 찾음) 스코어가 비정상이면 ESPN,
+    // 그것도 없으면 api-sports(masterData) 그대로 사용.
     let scoreSource = null;
     for (const label of SCORE_PRIORITY) {
-      scoreSource = g.candidates.find(c => c.label === label);
+      scoreSource = g.candidates.find(c => c.label === label && hasValidScore(c.row));
       if (scoreSource) break;
     }
-    scoreSource = scoreSource || g.candidates[0];
+    scoreSource = scoreSource || g.candidates.find(c => hasValidScore(c.row)) || g.candidates[0];
 
     return {
       date: dateSource.row.date,
