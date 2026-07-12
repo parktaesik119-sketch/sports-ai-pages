@@ -55,9 +55,9 @@ async function runAutomation() {
     // 1.97단계: footystats H2H/최근폼/스쿼드+선수사진 수집 (축구 전용, 집 PC 프록시 경유)
     // HOME_PROXY_URL/HOME_PROXY_SECRET이 없으면 fetch-footystats-context.js 내부에서
     // 자동으로 건너뛰고, 실패해도(exit 0으로 감싸져 있음) 뒤 단계에 영향 없음.
-    // console.log("\n[1.97단계] footystats H2H/최근폼/스쿼드 데이터 수집 중...");
-    // execSync('node footystats/fetch-footystats-context.js', { stdio: 'inherit', cwd: __dirname });
-    // console.log("✅ footystats 컨텍스트 수집 완료.");
+    console.log("\n[1.97단계] footystats H2H/최근폼/스쿼드 데이터 수집 중...");
+    execSync('node footystats/fetch-footystats-context.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ footystats 컨텍스트 수집 완료.");
 
     // 2~5단계: 분석 및 마크다운 생성
     console.log("\n[2-5단계] 신규 경기 필터링 및 AI 분석 시작...");
