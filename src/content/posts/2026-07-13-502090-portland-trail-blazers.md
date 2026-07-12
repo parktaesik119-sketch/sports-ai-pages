@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "185.5"
 pickOuDirection: "오버"
+homeLineup: "[\"D. Steward (ATH)|https://a.espncdn.com/i/headshots/nba/players/full/4701231.png\",\"F. Fidler (F)|https://a.espncdn.com/i/headshots/nba/players/full/4897263.png\",\"A. Carr (F)|https://a.espncdn.com/i/headshots/nba/players/full/4702743.png\",\"C. Youngblood (G)|https://a.espncdn.com/i/headshots/nba/players/full/4706557.png\",\"J. Kent (G)|https://a.espncdn.com/i/headshots/nba/players/full/4703889.png\"]"
+awayLineup: "[\"C. Castleton (C)|https://a.espncdn.com/i/headshots/nba/players/full/4397204.png\",\"P. Wheeler (F)|https://a.espncdn.com/i/headshots/nba/players/full/4909710.png\",\"T. Washington Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683749.png\",\"A. Morales (G)|https://a.espncdn.com/i/headshots/nba/players/full/4593034.png\",\"L. Quinones (G)|https://a.espncdn.com/i/headshots/nba/players/full/4431720.png\"]"
 ---
