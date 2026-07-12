@@ -669,24 +669,6 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     </div>
   )}
 
-  <!-- 상대전적 -->
-  <div class="section-widget">
-    <h2 class="section-widget-header sw-h2h"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">⚔️</span>상대 전적</h2>
-    <div class="section-widget-body">
-      {h2hItems.length > 0 ? h2hItems.map((row: any, idx: number) => (
-        <div>
-          {idx > 0 && <hr class="sw-divider" />}
-          <div class="recent-row"><span class="recent-dot"></span><span class="recent-info">
-  {typeof row === 'object' && row.link
-    ? <a href={row.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{row.date}{' '}{row.home}{' '}<span class="vs-accent">vs</span>{' '}{row.away}</a>
-    : typeof row === 'object' ? <>{row.date}{' '}{row.home}{' '}<span class="vs-accent">vs</span>{' '}{row.away}</> : formatLegacyH2hText(row)
-  }
-</span>{typeof row === 'object' && <span class="recent-score">{row.score}</span>}</div>
-        </div>
-      )) : <span>※ H2H 업데이트 예정</span>}
-    </div>
-  </div>
-
   <!-- 팀별 핵심 전력 -->
   <div class="section-widget">
     <h2 class="section-widget-header sw-power"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">⚡</span>팀별 핵심 전력 분석</h2>
@@ -703,6 +685,24 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           {awayPowerItems.map((p: string) => (<li class="power-item"><span class="recent-dot"></span><span>{p}</span></li>))}
         </ul>
       </div>
+    </div>
+  </div>
+
+  <!-- 상대전적 -->
+  <div class="section-widget">
+    <h2 class="section-widget-header sw-h2h"><span style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;vertical-align:middle;margin-right:6px;flex-shrink:0;">⚔️</span>상대 전적</h2>
+    <div class="section-widget-body">
+      {h2hItems.length > 0 ? h2hItems.map((row: any, idx: number) => (
+        <div>
+          {idx > 0 && <hr class="sw-divider" />}
+          <div class="recent-row"><span class="recent-dot"></span><span class="recent-info">
+  {typeof row === 'object' && row.link
+    ? <a href={row.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{row.date}{' '}{row.home}{' '}<span class="vs-accent">vs</span>{' '}{row.away}</a>
+    : typeof row === 'object' ? <>{row.date}{' '}{row.home}{' '}<span class="vs-accent">vs</span>{' '}{row.away}</> : formatLegacyH2hText(row)
+  }
+</span>{typeof row === 'object' && <span class="recent-score">{row.score}</span>}</div>
+        </div>
+      )) : <span>※ H2H 업데이트 예정</span>}
     </div>
   </div>
 
