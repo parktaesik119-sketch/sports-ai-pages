@@ -606,28 +606,6 @@ const isValidScore = hasScore && !(isZeroZero && m.sport !== 'soccer');
 return isMatch && isRecentEnough && isPast && isValidScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10); // 10개 버퍼 확보 (ESPN과 병합 후 5개로 자름 - 아래 참고)
 
-  // footystats H2H 보충 (KBL 최근폼 보충과 동일한 패턴) — 자체 DB(all-fixtures) 기간이 아직
-  // 짧아서 h2hHistory가 5개 미만일 때만, 부족한 만큼 footystats 데이터로 날짜순 보충한다.
-  // 축구 전용(footystats가 축구만 지원). ESPN 쪽 h2h 덮어쓰기는 이 아래에서 별도로 일어나므로
-  // (있으면) 순서상 ESPN이 최종적으로 우선함 — footystats는 ESPN도 없는 소규모 리그를 메꿔주는 역할.
-  if (cat === 'soccer' && h2hHistory.length < 5) {
-    const footystatsInfo = findFootystatsContext(match);
-    if (footystatsInfo?.h2h?.length > 0) {
-      const existingDates = new Set(h2hHistory.map(m => new Date(m.date).toISOString().slice(0, 10)));
-      const need = 5 - h2hHistory.length;
-      const supplement = footystatsInfo.h2h
-        .filter(m => !existingDates.has(new Date(m.date).toISOString().slice(0, 10)))
-        .slice(0, need)
-        .map(m => normalizeH2hRow(m, match.home, match.away));
-      if (supplement.length > 0) {
-        console.log(`⚽ [footystats H2H 보충] ${match.home} vs ${match.away} — ${supplement.length}건 추가`);
-        h2hHistory = [...h2hHistory, ...supplement]
-          .sort((a, b) => new Date(b.date) - new Date(a.date))
-          .slice(0, 10);
-      }
-    }
-  }
-
       let h2hContent = "";
   let h2hContextForAI = "";
   if (h2hHistory.length > 0) {
@@ -786,10 +764,31 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
       .slice(0, 10);
   }
 
-  // footystats 최근폼 보충 (축구 전용) — 자체 DB가 5개 미만일 때만, 부족한 만큼만 보충.
-  // KBL과 동일한 패턴이되, footystats는 5개 미만일 때만 개입한다(KBL은 항상 병합).
+  // footystats H2H/최근폼 보충 (축구 전용) — 자체 DB(all-fixtures) 기간이 아직 짧아서
+  // 데이터가 5개 미만일 때만, 부족한 만큼 footystats로 날짜순 보충한다.
+  // ⚠️ cat이 여기서(위 판별 체인 완료 후) 처음으로 확정되므로, 이 지점 이전에서는
+  // cat을 참조하면 안 된다(let 선언 전 참조 시 ReferenceError — 실사용 중 실제로 겪은
+  // 버그라 위치를 여기로 고정함, 2026-07).
   if (cat === 'soccer') {
     const footystatsInfo = findFootystatsContext(match);
+
+    // H2H 보충. ESPN 쪽 h2h 덮어쓰기는 이 아래에서 별도로 일어나므로(있으면) 순서상
+    // ESPN이 최종적으로 우선함 — footystats는 ESPN도 없는 소규모 리그를 메꿔주는 역할.
+    if (footystatsInfo?.h2h?.length > 0 && h2hHistory.length < 5) {
+      const existingDates = new Set(h2hHistory.map(m => new Date(m.date).toISOString().slice(0, 10)));
+      const need = 5 - h2hHistory.length;
+      const supplement = footystatsInfo.h2h
+        .filter(m => !existingDates.has(new Date(m.date).toISOString().slice(0, 10)))
+        .slice(0, need)
+        .map(m => normalizeH2hRow(m, match.home, match.away));
+      if (supplement.length > 0) {
+        console.log(`⚽ [footystats H2H 보충] ${match.home} vs ${match.away} — ${supplement.length}건 추가`);
+        h2hHistory = [...h2hHistory, ...supplement]
+          .sort((a, b) => new Date(b.date) - new Date(a.date))
+          .slice(0, 10);
+      }
+    }
+
     if (footystatsInfo?.recent?.home?.length > 0 && homeRecentMatches.length < 5) {
       const existingDates = new Set(homeRecentMatches.map(m => new Date(m.date).toISOString().slice(0, 10)));
       const need = 5 - homeRecentMatches.length;
@@ -905,6 +904,20 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     // ESPN/KBL H2H가 없으면 all-fixtures 버퍼(최대 10개)를 그대로 평균용으로, 5개만 표시용으로
     h2hForAvg  = h2hHistory.slice(0, 10);
     h2hHistory = h2hHistory.slice(0, 5);
+
+    // footystats로 보충된 경기가 있으면(위 772번째 줄쯤에서 h2hHistory에 이미 반영됨),
+    // AI 프롬프트용 텍스트도 그 최신 h2hHistory 기준으로 다시 만들어서 화면 표시·평균 계산·
+    // AI 서술이 전부 같은 데이터를 보게 한다(ESPN/KBL 있는 두 경로는 이미 자체적으로
+    // h2hContextForAI를 새로 만들므로 이 처리가 필요 없음 — 이 else 경로만 빠져있었음).
+    if (h2hHistory.length > 0) {
+      const aiGameLines = h2hHistory.map(h => {
+        const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
+        const scoreStr = (h.homeScore !== null && h.homeScore !== undefined && h.awayScore !== null && h.awayScore !== undefined)
+          ? `${h.homeScore}-${h.awayScore}` : (h.score || '');
+        return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
+      }).join('\n');
+      h2hContextForAI = `\n[내부 데이터베이스 상대전적 참고]\n${aiGameLines}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
+    }
   }
 
   // 시즌 전체 경기 추출 (올해 1월 1일 이후)
