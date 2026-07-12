@@ -1439,6 +1439,9 @@ const TEAM_NAME_MAP = {
   "Aluminij": "알루미니",
   "Vojvodina": "보이보디나",
   "Ferencvarosi TC": "페렌츠바로시",
+  "Defensor Sporting": "데펜소르 스포르팅",
+  "Cerro Largo": "세로 라르고",
+  "O’Higgins": "오히긴스",
 
   
   //중국축구
