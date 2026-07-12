@@ -361,6 +361,7 @@ const TEAM_NAME_MAP = {
   "Gumi Sportstoto W": "세종스포츠토토",
   "Incheon Red Angels W": "현대제철 레드엔젤스",
   "Yongin City": "용인 FC",
+  "Jeonbuk Motors II": "전북 현대모터스 II",
 
 // ===== 🇰🇷 한국 FA컵 시민구단/아마추어팀 추가분 =====
   "Anseong": "안성",
