@@ -584,6 +584,19 @@ function parseStoredLineupArray(raw) {
   }
 }
 
+// 저장된 라인업 문자열("{이름} (포지션)|{사진}")에서 포지션만 뽑아
+// deriveFormationFromLineup()이 기대하는 {position} 객체 배열로 변환한다.
+// ESPN이 이번 실행에 새 로스터 데이터를 전혀 안 준 경우에도(하위 리그라 커버를
+// 아예 안 하는 경우 등), 이미 저장된 라인업(footystats 등 다른 소스가 채운 것 포함)만
+// 있으면 그걸로도 포메이션을 유추할 수 있게 하기 위함(실사용 지적으로 확인, 2026-07).
+function extractPositionsFromStoredLineup(rawLineup) {
+  const items = parseStoredLineupArray(rawLineup);
+  return items.map(line => {
+    const m = String(line).match(/\(([^)]+)\)/);
+    return { position: m ? m[1].trim() : '' };
+  });
+}
+
 // ─────────────────────────────────────────────
 // 기존 라인업 + 신규 응답 병합
 // - 축구/농구 등: 투수/타자 구분이 없어 통짜로 발표되므로, 새 응답이 있으면 그걸 쓰고
@@ -672,13 +685,23 @@ async function main() {
       return hasBatters && hasPitcherPhoto;
     };
 
+    const isEmptyField = (raw) => !raw || raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
+    // ⚠️ if 블록 안에서 const로 선언했다가, 블록이 끝난 뒤(로그 출력부)에서 다시
+    // 참조하려다가 ReferenceError가 날 뻔했다(cat 버그와 같은 유형) — 파일 루프
+    // 전체에서 접근 가능하도록 여기서 미리 선언해둔다.
+    let needsFormation = false;
+    // 저장된 라인업(footystats 등 다른 소스가 채운 것 포함)으로 미리 유추해둔 포메이션.
+    // ESPN이 이번 실행에 새 로스터 데이터를 못 주더라도(하위 리그 등 커버리지가 얕은
+    // 경우) 이걸로 채울 수 있게 폴백용으로 들고 있는다.
+    let fallbackHomeFormation = '';
+    let fallbackAwayFormation = '';
+
     if (isLineupComplete(fm.homeLineup) && isLineupComplete(fm.awayLineup)) {
       // ⚠️ 라인업은 이미 채워졌어도, 축구 경기의 포메이션(homeFormation/awayFormation)이
       // 비어있으면 스킵하면 안 된다 — 스킵해버리면 이 파일은 다시는 ESPN을 조회하지
       // 않아서 포메이션이 영영 안 채워진다(실사용 중 확인, 2026-07). footystats-lineup-
       // update.js도 동일한 이유로 라인업뿐 아니라 포메이션까지 같이 체크하도록 되어 있음.
-      const isEmptyField = (raw) => !raw || raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
-      const needsFormation = category === 'soccer'
+      needsFormation = category === 'soccer'
         && (isEmptyField(fm.homeFormation) || isEmptyField(fm.awayFormation));
 
       if (!needsFormation) {
@@ -686,6 +709,22 @@ async function main() {
         skipCount++;
         continue;
       }
+
+      // ⚠️ 여기서 바로 유추를 시도해둔다 — ESPN이 이 경기의 로스터 데이터 자체를
+      // 아예 안 주는 경우(하위 리그라 ESPN 커버리지가 없는 경우 등)에도, 이미 저장된
+      // 라인업(footystats가 채운 것일 수도 있음)만으로 포메이션을 채울 수 있게 하기
+      // 위함이다. "ESPN이 이번에 새로 준 데이터에서만 유추"하던 게 원래 문제였음
+      // (실사용 지적으로 확인, 2026-07).
+      if (isEmptyField(fm.homeFormation)) {
+        fallbackHomeFormation = deriveFormationFromLineup(extractPositionsFromStoredLineup(fm.homeLineup)) || '';
+      }
+      if (isEmptyField(fm.awayFormation)) {
+        fallbackAwayFormation = deriveFormationFromLineup(extractPositionsFromStoredLineup(fm.awayLineup)) || '';
+      }
+      if (fallbackHomeFormation || fallbackAwayFormation) {
+        console.log(`ℹ️ [저장된 라인업으로 포메이션 유추] ${path.basename(filePath)} | 홈 ${fallbackHomeFormation || '실패'} / 원정 ${fallbackAwayFormation || '실패'}`);
+      }
+
       console.log(`ℹ️ [계속 진행] 라인업은 완료됐지만 포메이션이 비어있어 재조회: ${path.basename(filePath)}`);
     }
 
@@ -844,6 +883,13 @@ async function main() {
         homeLineup = leaders.home;
         awayLineup = leaders.away;
       }
+
+      // ⚠️ ESPN이 이번 실행에 formation을 못 줬으면(parsed 자체가 null이었거나,
+      // parsed는 있는데 formation 필드만 비어있는 경우 둘 다) 위에서 저장된 라인업으로
+      // 미리 유추해둔 값으로 채운다 — "ESPN이 새로 준 데이터에서만 유추"하던 게
+      // 원래 문제였음(실사용 지적으로 확인, 2026-07).
+      if (!updates.homeFormation && fallbackHomeFormation) updates.homeFormation = fallbackHomeFormation;
+      if (!updates.awayFormation && fallbackAwayFormation) updates.awayFormation = fallbackAwayFormation;
     } else {
       const leaders = parseLeadersFromEvent(event, homeTeamEn, awayTeamEn);
       homeLineup = leaders.home;
@@ -893,7 +939,15 @@ async function main() {
     if (ok) {
       const loggedHomeCount = updates.homeLineup ? JSON.parse(updates.homeLineup).length : '기존유지';
       const loggedAwayCount = updates.awayLineup ? JSON.parse(updates.awayLineup).length : '기존유지';
-      console.log(`   🔄 업데이트 완료 | 홈 ${loggedHomeCount}건 / 원정 ${loggedAwayCount}건`);
+      // ⚠️ 예전엔 라인업 개수만 로그로 남기고 포메이션은 아예 안 찍혀서, 실제로 채워졌는지
+      // 실패했는지 로그만 보고는 알 수가 없었다(실사용 중 지적으로 확인, 2026-07).
+      const homeFormationLog = updates.homeFormation
+        ? `홈포메이션 ${updates.homeFormation}`
+        : (category === 'soccer' && needsFormation ? '홈포메이션 실패(유추 안 됨)' : '홈포메이션 대상아님');
+      const awayFormationLog = updates.awayFormation
+        ? `원정포메이션 ${updates.awayFormation}`
+        : (category === 'soccer' && needsFormation ? '원정포메이션 실패(유추 안 됨)' : '원정포메이션 대상아님');
+      console.log(`   🔄 업데이트 완료 | 홈 ${loggedHomeCount}건 / 원정 ${loggedAwayCount}건 | ${homeFormationLog} / ${awayFormationLog}`);
       updatedCount++;
     }
   }
