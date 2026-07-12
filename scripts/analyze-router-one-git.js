@@ -170,6 +170,27 @@ function weightedAvg(recentAvg, h2hAvg, h2hCount = 0) {
   return recentAvg * (1 - h2hWeight) + h2hAvg * h2hWeight;
 }
 
+// 최근폼 + H2H를 합쳐서, 그 팀이 "홈이었던 경기"만 추려 승률을 계산한다.
+// 70% 이상이면 홈 어드밴티지를 제대로 살리는 팀으로 보고 배율을 적용한다.
+// (판단할 홈 경기 자체가 없으면 무리하게 판단하지 않고 배율 없음(1.0)을 반환)
+const HOME_ADVANTAGE_WIN_RATE_THRESHOLD = 0.7;
+const HOME_ADVANTAGE_MULTIPLIER = 1.1;
+
+function calcHomeAdvantageMultiplier(recentMatches, h2hMatches, teamName) {
+  const combined = [...recentMatches, ...h2hMatches];
+  const homeGames = combined.filter(m => m.home === teamName);
+  if (homeGames.length === 0) return 1.0;
+
+  const wins = homeGames.filter(m => {
+    const my  = Number(m.homeScore);
+    const opp = Number(m.awayScore);
+    return !isNaN(my) && !isNaN(opp) && my > opp;
+  }).length;
+
+  const winRate = wins / homeGames.length;
+  return winRate >= HOME_ADVANTAGE_WIN_RATE_THRESHOLD ? HOME_ADVANTAGE_MULTIPLIER : 1.0;
+}
+
 // 예상 스코어 계산 함수 (홈팀/원정팀 각각 반환)
 function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches = []) {
   const isBball = cat === 'basketball';
@@ -181,10 +202,18 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
   const awayH2hAvg = getH2hAvgScore(h2hMatches, awayTeam);
   const h2hCount   = h2hMatches.length;
 
-  const homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg, h2hCount);
+  let homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg, h2hCount);
   const awayAvg = weightedAvg(awayRecentAvg, awayH2hAvg, h2hCount);
 
   if (homeAvg === null || awayAvg === null) return null;
+
+  // 축구에서만, 홈팀이 최근폼+H2H 통틀어 "홈 경기"에서 70% 이상 이겼을 때만
+  // 홈 어드밴티지를 실제로 살리는 팀으로 보고 예상 득점에 소폭(×1.1) 가산한다.
+  // 무조건 홈이라고 주는 게 아니라, 실제로 그 이점을 살리는 팀에게만 준다.
+  if (cat === 'soccer') {
+    const homeAdvMultiplier = calcHomeAdvantageMultiplier(homeMatches, h2hMatches, homeTeam);
+    homeAvg *= homeAdvMultiplier;
+  }
 
   // 종목별 반올림 및 동점 보정
   const roundScore = (val) => Math.round(val);
