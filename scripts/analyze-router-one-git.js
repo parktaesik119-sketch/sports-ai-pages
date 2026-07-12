@@ -210,7 +210,10 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
   // 축구에서만, 홈팀이 최근폼+H2H 통틀어 "홈 경기"에서 70% 이상 이겼을 때만
   // 홈 어드밴티지를 실제로 살리는 팀으로 보고 예상 득점에 소폭(×1.1) 가산한다.
   // 무조건 홈이라고 주는 게 아니라, 실제로 그 이점을 살리는 팀에게만 준다.
-  if (cat === 'soccer') {
+  // 축구/야구만 대상 — 둘 다 득점 스케일이 낮고 정수라 배율 방식이 잘 맞음.
+  // 농구는 점수 스케일이 커서 배율 대신 다른 설계가 필요하고, 배구는 세트스코어
+  // 방식이라 애초에 이 평균 로직 자체를 안 씀.
+  if (cat === 'soccer' || cat === 'baseball') {
     const homeAdvMultiplier = calcHomeAdvantageMultiplier(homeMatches, h2hMatches, homeTeam);
     homeAvg *= homeAdvMultiplier;
   }
@@ -305,19 +308,58 @@ function calcHandicapValue(cat, expectedScores, winnerIsHome) {
 // 병합 단계의 개별 dedup 체크를 뚫고 같이 살아남는 경우). 개별 병합 단계마다 따로
 // 막기보다, "이 데이터를 실제로 쓰기 직전"에 한 번 더 무조건 걸러내는 최종 안전장치를
 // 둔다. 날짜(연-월-일)+홈팀+원정팀이 같으면 같은 경기로 보고, 먼저 나온 것만 남긴다.
+// ⚠️ 처음엔 날짜 문자열(연-월-일)만 비교했는데, 실사용 데이터로 확인해보니 같은 경기를
+// footystats는 "2025-05-25"로, ESPN은 "2025-05-24T23:00Z"로 — 하루 차이로 기록하고
+// 있었다(자정 근처 경기라 소스마다 시간대 처리 방식이 달라서 날짜가 하루씩 밀림).
+// 그래서 날짜 문자열 정확 일치 대신 "같은 두 팀 + 같은 스코어 + 날짜 이틀 이내"를
+// 같은 경기로 판단한다 — 이 조건을 우연히 만족하는 서로 다른 두 경기는 사실상 없다고
+// 봐도 된다.
+// ⚠️ 축구 전용: recent/H2H를 footystats → ESPN → api-sports(masterData) 순서로
+// 우선순위 병합한다. api-sports(all-fixtures 기반 masterData)는 데이터 품질이
+// 떨어질 때가 종종 있고(스코어가 실제와 다르게 들어오는 경우 확인됨), 반대로 축구에
+// 한해서는 footystats가 가장 정확한 걸로 확인돼서(사용자 실사용 검증) 최우선으로 삼는다.
+// 앞쪽 소스가 이미 커버한 경기(같은 팀 + 날짜 이틀 이내)는 뒤 소스에서 다시 안 가져온다.
+function buildPrioritizedMatchList(sourceListsInPriorityOrder, homeTeam, awayTeam) {
+  function normalizeRow(m) {
+    // H2H(양 팀 고정)는 home/away를 정규화하고, 최근폼(상대가 매번 다름)은 원본 그대로 둔다.
+    if (awayTeam) {
+      const isHome = matchTeam(m.home, homeTeam);
+      return { date: m.date, home: isHome ? homeTeam : awayTeam, away: isHome ? awayTeam : homeTeam, homeScore: m.homeScore, awayScore: m.awayScore };
+    }
+    return m;
+  }
+  const result = [];
+  for (const rawList of sourceListsInPriorityOrder) {
+    for (const raw of (rawList || [])) {
+      const m = awayTeam ? normalizeRow(raw) : raw;
+      const mTime = new Date(m.date).getTime();
+      const covered = result.some(r => {
+        const rTime = new Date(r.date).getTime();
+        if (Number.isNaN(mTime) || Number.isNaN(rTime)) return false;
+        return Math.abs(mTime - rTime) <= 2 * 24 * 60 * 60 * 1000;
+      });
+      if (!covered) result.push(m);
+    }
+  }
+  return result.sort((a, b) => new Date(b.date) - new Date(a.date));
+}
+
 function dedupeMatchList(list) {
   if (!Array.isArray(list) || list.length === 0) return list;
-  const seen = new Set();
-  const result = [];
+  const kept = [];
   for (const m of list) {
-    const d = new Date(m.date);
-    const dateKey = Number.isNaN(d.getTime()) ? String(m.date) : d.toISOString().slice(0, 10);
-    const key = `${dateKey}|${m.home}|${m.away}`;
-    if (seen.has(key)) continue;
-    seen.add(key);
-    result.push(m);
+    const mTime = new Date(m.date).getTime();
+    const isDup = kept.some(k => {
+      const sameTeams = k.home === m.home && k.away === m.away;
+      const sameScore = k.homeScore === m.homeScore && k.awayScore === m.awayScore;
+      if (!sameTeams || !sameScore) return false;
+      const kTime = new Date(k.date).getTime();
+      if (Number.isNaN(mTime) || Number.isNaN(kTime)) return true; // 날짜 파싱 안 되면 팀+스코어만으로 판단
+      return Math.abs(mTime - kTime) <= 2 * 24 * 60 * 60 * 1000; // 이틀 이내면 같은 경기
+    });
+    if (!isDup) kept.push(m);
   }
-  return result;
+  return kept;
 }
 
 function buildRecentForm(recentList, teamName) {
@@ -814,61 +856,6 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
       .slice(0, 10);
   }
 
-  // footystats H2H/최근폼 보충 (축구 전용) — 자체 DB(all-fixtures) 기간이 아직 짧아서
-  // 데이터가 5개 미만일 때만, 부족한 만큼 footystats로 날짜순 보충한다.
-  // ⚠️ cat이 여기서(위 판별 체인 완료 후) 처음으로 확정되므로, 이 지점 이전에서는
-  // cat을 참조하면 안 된다(let 선언 전 참조 시 ReferenceError — 실사용 중 실제로 겪은
-  // 버그라 위치를 여기로 고정함, 2026-07).
-  if (cat === 'soccer') {
-    const footystatsInfo = findFootystatsContext(match);
-
-    // H2H 보충. ESPN 쪽 h2h 덮어쓰기는 이 아래에서 별도로 일어나므로(있으면) 순서상
-    // ESPN이 최종적으로 우선함 — footystats는 ESPN도 없는 소규모 리그를 메꿔주는 역할.
-    if (footystatsInfo?.h2h?.length > 0 && h2hHistory.length < 5) {
-      const existingDates = new Set(h2hHistory.map(m => new Date(m.date).toISOString().slice(0, 10)));
-      const need = 5 - h2hHistory.length;
-      const supplement = footystatsInfo.h2h
-        .filter(m => !existingDates.has(new Date(m.date).toISOString().slice(0, 10)))
-        .slice(0, need)
-        .map(m => normalizeH2hRow(m, match.home, match.away));
-      if (supplement.length > 0) {
-        console.log(`⚽ [footystats H2H 보충] ${match.home} vs ${match.away} — ${supplement.length}건 추가`);
-        h2hHistory = [...h2hHistory, ...supplement]
-          .sort((a, b) => new Date(b.date) - new Date(a.date))
-          .slice(0, 10);
-      }
-    }
-
-    if (footystatsInfo?.recent?.home?.length > 0 && homeRecentMatches.length < 5) {
-      const existingDates = new Set(homeRecentMatches.map(m => new Date(m.date).toISOString().slice(0, 10)));
-      const need = 5 - homeRecentMatches.length;
-      const supplement = footystatsInfo.recent.home
-        .filter(m => !existingDates.has(new Date(m.date).toISOString().slice(0, 10)))
-        .slice(0, need)
-        .map(m => normalizeFootystatsRow(m, match.home));
-      if (supplement.length > 0) {
-        console.log(`⚽ [footystats 최근폼 보충] ${match.home} — ${supplement.length}건 추가`);
-        homeRecentMatches = [...homeRecentMatches, ...supplement]
-          .sort((a, b) => new Date(b.date) - new Date(a.date))
-          .slice(0, 10);
-      }
-    }
-    if (footystatsInfo?.recent?.away?.length > 0 && awayRecentMatches.length < 5) {
-      const existingDates = new Set(awayRecentMatches.map(m => new Date(m.date).toISOString().slice(0, 10)));
-      const need = 5 - awayRecentMatches.length;
-      const supplement = footystatsInfo.recent.away
-        .filter(m => !existingDates.has(new Date(m.date).toISOString().slice(0, 10)))
-        .slice(0, need)
-        .map(m => normalizeFootystatsRow(m, match.away));
-      if (supplement.length > 0) {
-        console.log(`⚽ [footystats 최근폼 보충] ${match.away} — ${supplement.length}건 추가`);
-        awayRecentMatches = [...awayRecentMatches, ...supplement]
-          .sort((a, b) => new Date(b.date) - new Date(a.date))
-          .slice(0, 10);
-      }
-    }
-  }
-
   // ESPN H2H가 있으면 기존 all-fixtures 기반 h2hContextForAI/h2hContent/h2hHistory를 덮어쓴다.
   // (all-fixtures는 2026년 4월부터 수집 중이라 시즌 초반/월드컵 등은 데이터가 부족함 — ESPN을 우선시)
   // 두 소스(all-fixtures, ESPN) 모두 {date, home, away, homeScore, awayScore} 동일 구조라
@@ -882,7 +869,45 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     }).join('\n');
   }
 
-  if (espnInfo?.h2h?.games?.length > 0) {
+  if (cat === 'soccer') {
+    // 축구 전용: footystats → ESPN → api-sports(masterData) 순서로 우선순위 병합.
+    // api-sports는 스코어 데이터 품질이 떨어질 때가 종종 있고(실제와 다른 스코어가
+    // 들어오는 경우 확인됨), footystats가 축구에 한해 가장 정확한 걸로 확인돼서
+    // (사용자 실사용 검증, 2026-07) 최우선으로 삼는다. 앞쪽 소스가 이미 커버한 경기는
+    // 뒤 소스에서 다시 안 가져온다(buildPrioritizedMatchList가 처리).
+    const footystatsInfo = findFootystatsContext(match);
+
+    const prioritizedH2h = buildPrioritizedMatchList(
+      [footystatsInfo?.h2h, espnInfo?.h2h?.games, h2hHistory],
+      match.home, match.away
+    );
+    h2hForAvg  = prioritizedH2h.slice(0, 10);
+    h2hHistory = prioritizedH2h.slice(0, 5);
+
+    const prioritizedHomeRecent = buildPrioritizedMatchList(
+      [footystatsInfo?.recent?.home, homeRecentMatches], null, null
+    );
+    homeRecentMatches = prioritizedHomeRecent.slice(0, 10);
+
+    const prioritizedAwayRecent = buildPrioritizedMatchList(
+      [footystatsInfo?.recent?.away, awayRecentMatches], null, null
+    );
+    awayRecentMatches = prioritizedAwayRecent.slice(0, 10);
+
+    const sourceLabel = footystatsInfo?.h2h?.length > 0 ? 'footystats'
+      : (espnInfo?.h2h?.games?.length > 0 ? 'ESPN 공식' : '내부 DB');
+
+    if (h2hHistory.length > 0) {
+      const h2hRows = buildH2hRows(h2hHistory);
+      h2hContent = `\n<br>\n\n### ⚔️ 상대 전적 분석 (${sourceLabel} 데이터)\n| <span style="color: #007bff;">날짜</span> ${spacer} | <span style="color: #007bff;">홈팀</span> ${spacer} | <span style="color: #007bff;">경기결과</span> ${spacer} |\n|:---|:---|:---:|\n${h2hRows}\n`;
+
+      const aiGameLines = h2hForAvg.map(h => {
+        const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
+        return `${d} - ${h.home} (${h.homeScore}-${h.awayScore}) ${h.away}`;
+      }).join('\n');
+      h2hContextForAI = `\n[${sourceLabel} 데이터 - 상대전적 ${h2hForAvg.length}경기]\n${aiGameLines}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
+    }
+  } else if (espnInfo?.h2h?.games?.length > 0) {
     // ESPN이 주는 팀명 표기가 TEAM_NAME_MAP의 키(match.home/match.away)와 정확히 일치하지
     // 않는 경우가 있어(WNBA "W" 접미사 등), matchTeam()으로 어느 쪽 팀인지 판별한 뒤
     // 항상 match.home/match.away(canonical 영문명)로 치환한다.
