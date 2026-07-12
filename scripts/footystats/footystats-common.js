@@ -10,6 +10,55 @@
 
 import * as cheerio from 'cheerio';
 
+// ─────────────────────────────────────────────
+// 엄격한 팀명 매칭. 기존 matchTeam()(espn-common.js)은 "포함되면 매칭"이라
+// "England"가 "New England Revolution"에 포함되는 식으로 전혀 다른 팀이 걸리는
+// 문제가 실사용에서 확인됨(노르웨이-잉글랜드 국가대표전이 MLS 클럽으로 잘못 매칭됨 등).
+//
+// 단순히 "후보 이름에 검색어 단어가 몇 개나 더 있냐"로는 안 된다 — "Progreso"가
+// "Club Atletico Progreso"(정상 매칭)에 붙는 것과 "England"가
+// "New England Revolution"(오매칭)에 붙는 게 단어 개수상으로는 구분이 안 되기 때문.
+// 그래서 "클럽 이름에 흔히 붙는 범용 수식어" 화이트리스트를 만들어서, 후보 이름의
+// 여분 단어가 전부 이 화이트리스트 안에 있을 때만 매칭을 인정한다.
+// ─────────────────────────────────────────────
+const IGNORABLE_CLUB_WORDS = new Set([
+  'FC', 'CF', 'SC', 'AFC', 'CD', 'AC', 'CLUB',
+  'DEPORTIVO', 'ATLETICO', 'ATLÉTICO', 'SOCIAL', 'SPORTING', 'ASOCIACION', 'ASOCIACIÓN',
+  'DE', 'Y', 'DA', 'DO', 'DOS', 'LOS', 'EL', 'LA',
+]);
+
+function normalizeToWordSet(name) {
+  return new Set(
+    (name || '')
+      .toUpperCase()
+      .replace(/[^A-Z0-9\s]/g, ' ')
+      .split(/\s+/)
+      .filter(Boolean)
+  );
+}
+
+export function strictTeamMatch(candidateName, searchName) {
+  const candWords = normalizeToWordSet(candidateName);
+  const searchWords = normalizeToWordSet(searchName);
+  if (candWords.size === 0 || searchWords.size === 0) return false;
+
+  // 검색어의 단어는 (화이트리스트 제외하고) 전부 후보 이름 안에 있어야 한다.
+  for (const w of searchWords) {
+    if (IGNORABLE_CLUB_WORDS.has(w)) continue;
+    if (!candWords.has(w)) return false;
+  }
+
+  // 후보 이름에만 있는 "여분 단어"는 전부 화이트리스트에 있는 것만 허용한다.
+  // (Club Atletico Progreso처럼 정식 명칭 접두어는 통과, New England Revolution처럼
+  //  전혀 다른 정체성의 단어가 섞여 있으면 차단)
+  for (const w of candWords) {
+    if (searchWords.has(w)) continue;
+    if (!IGNORABLE_CLUB_WORDS.has(w)) return false;
+  }
+
+  return true;
+}
+
 const HOME_PROXY_URL = (process.env.HOME_PROXY_URL || '').trim();
 const HOME_PROXY_SECRET = (process.env.HOME_PROXY_SECRET || '').trim();
 
@@ -254,11 +303,33 @@ export async function getH2H(countrySlug, team1Slug, team2Slug, limit = 10) {
 }
 
 // ─────────────────────────────────────────────
+// $ = getH2hPage()가 반환한 cheerio 인스턴스에서 "다음 경기" 실제 일시를 추출한다.
+// 이 페이지의 schema.org 구조화 데이터(<span itemprop='startDate'>)에 ISO 일시가
+// 그대로 박혀있는 걸 실사용 테스트로 확인함(2026-07). fm.date(분석글의 실제 경기 일시)와
+// 비교해서, 날짜가 안 맞으면 팀이 잘못 매칭된 걸로 간주할 수 있다 —
+// "Nacional"(우루과이) vs "CD Nacional"(포르투갈)처럼 이름만으로는 도저히 구분 안 되는
+// 케이스도 날짜가 안 맞으면 걸러낼 수 있어서 팀명 매칭보다 훨씬 강력한 안전장치다.
+export function parseUpcomingFixtureDate($) {
+  const iso = $("span[itemprop='startDate']").first().attr('content');
+  return iso || null;
+}
+
+// footystats가 준 일시(ISO)와 분석글의 실제 경기 일시(ISO)가 대략 맞는지 확인.
+// 타임존 표기 차이 등을 감안해서 여유를 넉넉히(기본 48시간) 둔다 — 정확한 시각 일치가
+// 아니라 "완전히 다른 경기/팀으로 잘못 매칭된 건 아닌지"를 걸러내는 용도이기 때문.
+export function isDateReasonablyClose(isoA, isoB, toleranceHours = 48) {
+  if (!isoA || !isoB) return false;
+  const a = new Date(isoA).getTime();
+  const b = new Date(isoB).getTime();
+  if (Number.isNaN(a) || Number.isNaN(b)) return false;
+  return Math.abs(a - b) <= toleranceHours * 60 * 60 * 1000;
+}
+
+
 // H2H 페이지 안에 있는 "Lineup Predictions & Injuries" 섹션 — 두 팀의 최근 사용
 // 선발 11명(등번호/이름/세부포지션)을 뽑는다. ⚠️ "가장 최근에 사용된 라인업"
 // 기준이지, 이번 경기 확정/공식 라인업이 아니다(footystats 페이지 자체 문구로 확인).
 // $ = getH2hPage()가 반환한 cheerio 인스턴스
-// ─────────────────────────────────────────────
 export function parseMatchLineups($) {
   // "#Starting 11" 헤더가 팀당 하나씩(총 2개), 그 바로 뒤에 "#Substitutes" 헤더가 옴.
   // [팀1-Starting11, 팀1-Substitutes, 팀2-Starting11, 팀2-Substitutes] 순서.

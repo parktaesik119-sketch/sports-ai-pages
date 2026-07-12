@@ -31,6 +31,9 @@ import {
   formatLineupForDisplay,
   toH2hDisplayFormat,
   toRecentDisplayFormat,
+  strictTeamMatch,
+  parseUpcomingFixtureDate,
+  isDateReasonablyClose,
 } from './footystats-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -52,6 +55,30 @@ function buildMaps(mapFilePath) {
 const TEAM_MAP_PATH = path.resolve(__dirname, '../team_name_map.js');
 const { koToEn: KO_TO_EN, enToKo: EN_TO_KO } = buildMaps(TEAM_MAP_PATH);
 const ALL_MAPPED_EN_NAMES = Object.keys(EN_TO_KO);
+
+// ─────────────────────────────────────────────
+// footystats 전용 팀 캐시 — 한 번 찾은 팀(영문명 → 클럽 경로)을 저장해뒀다가
+// 다음부터는 검색(search.php, 종종 불안정함) 없이 바로 써먹는다.
+// 30분마다 도는 스크립트라 시간이 지나면 team_name_map.js처럼 자연스럽게 쌓인다.
+// (실제로 파일을 갱신했으면 main()이 끝날 때 커밋되도록 lineup-update.yml에서
+// 이 파일도 git add 대상에 포함시켜야 한다)
+// ─────────────────────────────────────────────
+const TEAM_CACHE_PATH = path.resolve(__dirname, 'team-map-cache.json');
+
+function loadTeamCache() {
+  try {
+    return JSON.parse(fs.readFileSync(TEAM_CACHE_PATH, 'utf-8'));
+  } catch {
+    return {};
+  }
+}
+
+function saveTeamCache(cache) {
+  fs.writeFileSync(TEAM_CACHE_PATH, JSON.stringify(cache, null, 2), 'utf-8');
+}
+
+const teamCache = loadTeamCache();
+let teamCacheDirty = false;
 
 function toEnglishTeamName(koName) {
   return KO_TO_EN[koName] || koName;
@@ -122,11 +149,22 @@ function getTargetPostFiles() {
 }
 
 async function findClub(teamNameEn) {
+  if (teamCache[teamNameEn]) {
+    return teamCache[teamNameEn];
+  }
+
   const results = await searchClub(teamNameEn);
   for (const r of results) {
-    if (matchTeam(r.name, teamNameEn)) return r;
+    if (strictTeamMatch(r.name, teamNameEn)) {
+      teamCache[teamNameEn] = r;
+      teamCacheDirty = true;
+      return r;
+    }
   }
-  return results[0] || null;
+  // ⚠️ 예전엔 매칭 실패 시 results[0]으로 폴백했는데, 이게 "England"가
+  // "New England Revolution"으로 잘못 매칭되는 등 엉뚱한 팀을 가져오는 원인이었다.
+  // 정확히 매칭되는 게 없으면 그냥 실패로 처리한다(느슨하게 아무거나 가져오지 않음).
+  return null;
 }
 
 async function collectTeamData(teamNameEn) {
@@ -255,24 +293,35 @@ async function main() {
         });
 
         if ($h2h) {
-          if (needH2h) {
-            const h2hRaw = parseH2hMatches($h2h);
-            const h2hDisplay = toH2hDisplayFormat(translateMatchList(h2hRaw));
-            const merged = supplementMatchList(existingH2h.items, h2hDisplay, TARGET_COUNT);
-            if (merged) updates.h2h = JSON.stringify(merged);
-          }
+          const fixtureDate = parseUpcomingFixtureDate($h2h);
+          const dateOk = isDateReasonablyClose(fixtureDate, fm.date);
 
-          if (needLineup) {
-            const lineups = parseMatchLineups($h2h);
-            if (lineups) {
-              if (homeLineupEmpty && lineups.home.length > 0) {
-                updates.homeLineup = JSON.stringify(formatLineupForDisplay(lineups.home));
+          if (!dateOk) {
+            // ⚠️ 팀명은 매칭됐지만(strictTeamMatch 통과), footystats가 알고 있는
+            // "다음 경기" 일시가 분석글의 실제 경기 일시와 안 맞는다 = 동명이인 팀
+            // (예: 우루과이 Nacional vs 포르투갈 Nacional)으로 잘못 짝지어졌을 가능성이
+            // 높다는 뜻. 이럴 땐 데이터를 아예 쓰지 않는다(틀린 데이터보다 안 쓰는 게 낫다).
+            console.log(`   ⚠️ 날짜 불일치 감지 — footystats 다음경기: ${fixtureDate || '없음'} / 분석글 경기일시: ${fm.date} → 팀이 잘못 매칭됐을 가능성이 높아 이 데이터는 사용하지 않습니다.`);
+          } else {
+            if (needH2h) {
+              const h2hRaw = parseH2hMatches($h2h);
+              const h2hDisplay = toH2hDisplayFormat(translateMatchList(h2hRaw));
+              const merged = supplementMatchList(existingH2h.items, h2hDisplay, TARGET_COUNT);
+              if (merged) updates.h2h = JSON.stringify(merged);
+            }
+
+            if (needLineup) {
+              const lineups = parseMatchLineups($h2h);
+              if (lineups) {
+                if (homeLineupEmpty && lineups.home.length > 0) {
+                  updates.homeLineup = JSON.stringify(formatLineupForDisplay(lineups.home));
+                }
+                if (awayLineupEmpty && lineups.away.length > 0) {
+                  updates.awayLineup = JSON.stringify(formatLineupForDisplay(lineups.away));
+                }
+              } else {
+                console.log(`   ℹ️ 라인업 섹션 없음 (하위 리그 등 footystats 미지원일 수 있음)`);
               }
-              if (awayLineupEmpty && lineups.away.length > 0) {
-                updates.awayLineup = JSON.stringify(formatLineupForDisplay(lineups.away));
-              }
-            } else {
-              console.log(`   ℹ️ 라인업 섹션 없음 (하위 리그 등 footystats 미지원일 수 있음)`);
             }
           }
         }
@@ -303,6 +352,11 @@ async function main() {
       console.error(`   ❌ 수집 실패:`, err.message);
       skipCount++;
     }
+  }
+
+  if (teamCacheDirty) {
+    saveTeamCache(teamCache);
+    console.log(`💾 팀 캐시 갱신됨 → ${path.basename(TEAM_CACHE_PATH)}`);
   }
 
   console.log(`\n✅ 완료: ${updatedCount}건 업데이트 / ${skipCount}건 스킵`);

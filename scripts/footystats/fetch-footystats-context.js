@@ -29,6 +29,7 @@ import {
   extractTeamSlugFromClubPath,
   getH2H,
   toH2hDisplayFormat,
+  strictTeamMatch,
   toRecentDisplayFormat,
 } from './footystats-common.js';
 
@@ -70,10 +71,12 @@ function getKstToday() {
 async function findClub(teamNameEn) {
   const results = await searchClub(teamNameEn);
   for (const r of results) {
-    if (matchTeam(r.name, teamNameEn)) return r;
+    if (strictTeamMatch(r.name, teamNameEn)) return r;
   }
-  // 완전 매칭 실패 시, 검색 결과 자체가 이미 유사도순이라 최상위 결과로 폴백
-  return results[0] || null;
+  // ⚠️ 예전엔 매칭 실패 시 results[0]으로 폴백했는데, 이게 엉뚱한 팀을 가져오는
+  // 원인이었다(예: "England" → "New England Revolution"). 정확히 매칭되는 게
+  // 없으면 그냥 실패로 처리한다.
+  return null;
 }
 
 async function collectTeamData(teamNameEn) {
