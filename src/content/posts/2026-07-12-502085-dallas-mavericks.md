@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "183.5"
 pickOuDirection: "오버"
+homeLineup: "[\"S. de Larrea (F)|https://a.espncdn.com/i/headshots/nba/players/full/5279129.png\",\"T. Lawal (F)|https://a.espncdn.com/i/headshots/nba/players/full/5106040.png\",\"M. Johnson Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4873153.png\",\"J. Poulakidas (G)|https://a.espncdn.com/i/headshots/nba/players/full/4898238.png\",\"R. Nembhard (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433629.png\"]"
+awayLineup: "[\"A. Thiero (F)|https://a.espncdn.com/i/headshots/nba/players/full/5060631.png\",\"A. Kaluma (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433599.png\",\"A. Watson (F)|https://a.espncdn.com/i/headshots/nba/players/full/4431705.png\",\"W. Hickey (G)|https://a.espncdn.com/i/headshots/nba/players/full/5090847.png\",\"C. Manon (G)|https://a.espncdn.com/i/headshots/nba/players/full/4702972.png\"]"
 ---
