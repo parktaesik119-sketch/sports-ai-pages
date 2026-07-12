@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 E. Sheehan (4-6, 4.91) ERA 4.91|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\"]"
-awayLineup: "[\"선발투수 Z. Gallen (3-9, 6.34) ERA 6.34|https://a.espncdn.com/i/headshots/mlb/players/full/39910.png\"]"
+awayLineup: "[\"선발투수 M. Bratt (0-0, 3.00) ERA 3.00|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
 ---
