@@ -319,6 +319,73 @@ function calcHandicapValue(cat, expectedScores, winnerIsHome) {
 // 떨어질 때가 종종 있고(스코어가 실제와 다르게 들어오는 경우 확인됨), 반대로 축구에
 // 한해서는 footystats가 가장 정확한 걸로 확인돼서(사용자 실사용 검증) 최우선으로 삼는다.
 // 앞쪽 소스가 이미 커버한 경기(같은 팀 + 날짜 이틀 이내)는 뒤 소스에서 다시 안 가져온다.
+// 날짜 문자열에 실제 킥오프 "시각"까지 있는지 확인. footystats는 "YYYY-MM-DD"만 주고
+// (시간이 통째로 없어서 항상 UTC 자정으로 파싱됨), ESPN/api-sports는
+// "YYYY-MM-DDTHH:MM:SSZ"처럼 실제 킥오프 시각을 준다 — 이 차이로 구분한다.
+function hasRealTime(dateStr) {
+  return /T\d{2}:\d{2}/.test(String(dateStr));
+}
+
+// ⚠️ 축구 전용 하이브리드 병합: "날짜(킥오프 시각)"와 "스코어"를 서로 다른 우선순위로
+// 따로 결정한다.
+// - 날짜: 실제 시각 정보가 있는 소스(ESPN/api-sports)를 우선 사용한다. footystats는
+//   시간을 아예 안 줘서(항상 자정으로 가정) 실제 킥오프 시각에 따라 KST 변환 시
+//   하루 이르거나 늦게 표시될 수 있기 때문(사용자 실사용 지적으로 확인, 2026-07).
+// - 스코어: footystats → ESPN → api-sports 순서(footystats가 축구 스코어 데이터
+//   품질이 가장 정확한 걸로 검증됨).
+// 같은 실제 경기인지 판별(그룹화)은 기존과 동일하게 팀+날짜 근접성(±2일)으로 한다 —
+// footystats 날짜가 ±1일 오차가 있어도 이 범위 안에서 충분히 같은 경기로 인식된다.
+function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam) {
+  function normalizeRow(m) {
+    if (!awayTeam) return m; // 최근폼(상대 매번 다름)은 정규화 없이 원본 그대로
+    const isHome = matchTeam(m.home, homeTeam);
+    return { date: m.date, home: isHome ? homeTeam : awayTeam, away: isHome ? awayTeam : homeTeam, homeScore: m.homeScore, awayScore: m.awayScore };
+  }
+
+  // 모든 소스의 모든 항목을 "같은 실제 경기"끼리 그룹으로 묶는다
+  const groups = [];
+  for (const { label, list } of sourceListsWithLabel) {
+    for (const raw of (list || [])) {
+      const row = normalizeRow(raw);
+      const rTime = new Date(row.date).getTime();
+      let group = groups.find(g => {
+        const g0 = g.candidates[0].row;
+        const gTime = new Date(g0.date).getTime();
+        if (Number.isNaN(rTime) || Number.isNaN(gTime)) return false;
+        if (Math.abs(rTime - gTime) > 2 * 24 * 60 * 60 * 1000) return false;
+        if (!awayTeam) {
+          return (matchTeam(row.home, g0.home) && matchTeam(row.away, g0.away)) ||
+                 (matchTeam(row.home, g0.away) && matchTeam(row.away, g0.home));
+        }
+        return true;
+      });
+      if (!group) { group = { candidates: [] }; groups.push(group); }
+      group.candidates.push({ label, row });
+    }
+  }
+
+  const SCORE_PRIORITY = ['footystats', 'espn', 'masterData'];
+  return groups.map(g => {
+    // 날짜: 실제 시각 있는 후보 우선, 없으면 아무거나(첫 후보)
+    const dateSource = g.candidates.find(c => hasRealTime(c.row.date)) || g.candidates[0];
+    // 스코어: 지정된 우선순위대로
+    let scoreSource = null;
+    for (const label of SCORE_PRIORITY) {
+      scoreSource = g.candidates.find(c => c.label === label);
+      if (scoreSource) break;
+    }
+    scoreSource = scoreSource || g.candidates[0];
+
+    return {
+      date: dateSource.row.date,
+      home: scoreSource.row.home,
+      away: scoreSource.row.away,
+      homeScore: scoreSource.row.homeScore,
+      awayScore: scoreSource.row.awayScore,
+    };
+  }).sort((a, b) => new Date(b.date) - new Date(a.date));
+}
+
 function buildPrioritizedMatchList(sourceListsInPriorityOrder, homeTeam, awayTeam) {
   function normalizeRow(m) {
     // H2H(양 팀 고정)는 home/away를 정규화하고, 최근폼(상대가 매번 다름)은 원본 그대로 둔다.
@@ -883,27 +950,40 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   }
 
   if (cat === 'soccer') {
-    // 축구 전용: footystats → ESPN → api-sports(masterData) 순서로 우선순위 병합.
-    // api-sports는 스코어 데이터 품질이 떨어질 때가 종종 있고(실제와 다른 스코어가
-    // 들어오는 경우 확인됨), footystats가 축구에 한해 가장 정확한 걸로 확인돼서
-    // (사용자 실사용 검증, 2026-07) 최우선으로 삼는다. 앞쪽 소스가 이미 커버한 경기는
-    // 뒤 소스에서 다시 안 가져온다(buildPrioritizedMatchList가 처리).
+    // 축구 전용: 날짜(킥오프 시각)와 스코어를 서로 다른 우선순위로 하이브리드 병합한다.
+    // - 날짜: ESPN/api-sports(실제 시각 정보 있음)를 우선 — footystats는 시간이 없어서
+    //   자정으로 가정되므로, 실제 킥오프 시각에 따라 KST 변환 시 하루 어긋날 수 있음
+    //   (사용자 실사용 지적으로 확인, 2026-07).
+    // - 스코어: footystats → ESPN → api-sports 순서(footystats가 스코어 정확도가
+    //   가장 높은 걸로 검증됨).
     const footystatsInfo = findFootystatsContext(match);
 
-    const prioritizedH2h = buildPrioritizedMatchList(
-      [footystatsInfo?.h2h, espnInfo?.h2h?.games, h2hHistory],
+    const prioritizedH2h = mergeSoccerMatchSources(
+      [
+        { label: 'footystats', list: footystatsInfo?.h2h },
+        { label: 'espn', list: espnInfo?.h2h?.games },
+        { label: 'masterData', list: h2hHistory },
+      ],
       match.home, match.away
     );
     h2hForAvg  = prioritizedH2h.slice(0, 10);
     h2hHistory = prioritizedH2h.slice(0, 5);
 
-    const prioritizedHomeRecent = buildPrioritizedMatchList(
-      [footystatsInfo?.recent?.home, homeRecentMatches], null, null
+    const prioritizedHomeRecent = mergeSoccerMatchSources(
+      [
+        { label: 'footystats', list: footystatsInfo?.recent?.home },
+        { label: 'masterData', list: homeRecentMatches },
+      ],
+      null, null
     );
     homeRecentMatches = prioritizedHomeRecent.slice(0, 10);
 
-    const prioritizedAwayRecent = buildPrioritizedMatchList(
-      [footystatsInfo?.recent?.away, awayRecentMatches], null, null
+    const prioritizedAwayRecent = mergeSoccerMatchSources(
+      [
+        { label: 'footystats', list: footystatsInfo?.recent?.away },
+        { label: 'masterData', list: awayRecentMatches },
+      ],
+      null, null
     );
     awayRecentMatches = prioritizedAwayRecent.slice(0, 10);
 
