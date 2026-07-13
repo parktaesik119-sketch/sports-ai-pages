@@ -682,7 +682,26 @@ async function main() {
       const hasPitcherPhoto = category === 'baseball'
         ? !!(pitcherMatch && pitcherMatch[0].includes('|'))
         : true; // 야구 아니면 이 조건 자체가 무관하므로 항상 통과
-      return hasBatters && hasPitcherPhoto;
+
+      // ⚠️ 축구는 값이 "있냐 없냐"만 보면 안 된다 — ESPN이 하위 리그에 대해 포지션
+      // 정보를 아예 안 주고 전부 "SUB"로만 채워주는 경우가 실사용에서 확인됨(다누비오
+      // 사례 등, 2026-07). 이런 경우 "라인업이 있다"고 착각해서 다시는 재조회를 안 하면
+      // 영원히 저품질 데이터로 남는다. 전부 SUB(또는 빈 포지션)뿐이면 미완료로 본다.
+      const isAllSubOrEmpty = category === 'soccer' && hasBatters && (() => {
+        try {
+          const arr = JSON.parse(unescaped);
+          if (!Array.isArray(arr) || arr.length === 0) return true;
+          return arr.every(line => {
+            const m = String(line).match(/\(([^)]+)\)/);
+            const pos = m ? m[1].trim().toUpperCase() : '';
+            return pos === 'SUB' || pos === '';
+          });
+        } catch {
+          return false; // 파싱 실패는 보수적으로 "완료"로 취급(안 건드림)
+        }
+      })();
+
+      return hasBatters && hasPitcherPhoto && !isAllSubOrEmpty;
     };
 
     const isEmptyField = (raw) => !raw || raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
@@ -723,6 +742,23 @@ async function main() {
       }
       if (fallbackHomeFormation || fallbackAwayFormation) {
         console.log(`ℹ️ [저장된 라인업으로 포메이션 유추] ${path.basename(filePath)} | 홈 ${fallbackHomeFormation || '실패'} / 원정 ${fallbackAwayFormation || '실패'}`);
+
+        // ⚠️ 계산하자마자 바로 파일에 반영해둔다 — 뒤에 이어지는 ESPN 조회 로직에는
+        // (종목 인식 실패, 경기 매칭 실패 등) 로그도 없이 조용히 continue하는 지점이
+        // 여러 군데 있어서, 나중에 반영하려고 미루면 그 지점에서 애써 계산한 값이
+        // 통째로 버려지는 사고가 실제로 있었다(실사용 지적으로 확인, 2026-07).
+        // 여기서 즉시 써두면 이후 코드가 어디서 continue하든 상관없이 안전하다.
+        // (뒤에서 ESPN이 진짜 formation 값을 새로 주면 그걸로 다시 덮어써서 업그레이드됨)
+        const immediateUpdates = {};
+        if (fallbackHomeFormation) immediateUpdates.homeFormation = fallbackHomeFormation;
+        if (fallbackAwayFormation) immediateUpdates.awayFormation = fallbackAwayFormation;
+        const savedNow = updateMdFrontmatter(filePath, immediateUpdates);
+        if (savedNow) {
+          updatedCount++;
+          // 방금 파일에 쓴 값은 fm에도 반영해서, 뒤에서 다시 빈 값으로 오판하지 않게 한다.
+          if (fallbackHomeFormation) fm.homeFormation = fallbackHomeFormation;
+          if (fallbackAwayFormation) fm.awayFormation = fallbackAwayFormation;
+        }
       }
 
       console.log(`ℹ️ [계속 진행] 라인업은 완료됐지만 포메이션이 비어있어 재조회: ${path.basename(filePath)}`);
