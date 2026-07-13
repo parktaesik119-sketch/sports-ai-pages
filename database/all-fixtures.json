@@ -575739,8 +575739,8 @@
     "away": "Miami AC",
     "homeLogo": "https://media.api-sports.io/football/teams/4101.png",
     "awayLogo": "https://media.api-sports.io/football/teams/18900.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "494946",
@@ -576155,8 +576155,8 @@
     "away": "Nelson Giants",
     "homeLogo": "https://media.api-sports.io/basketball/teams/855.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/856.png",
-    "homeScore": 22,
-    "awayScore": 23
+    "homeScore": 120,
+    "awayScore": 113
   },
   {
     "id": "1583651",
@@ -576168,8 +576168,8 @@
     "away": "Gangwon FC",
     "homeLogo": "https://media.api-sports.io/football/teams/1542.png",
     "awayLogo": "https://media.api-sports.io/football/teams/2746.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "500250",
@@ -576181,8 +576181,8 @@
     "away": "Bacolod Masskara",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7421.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7880.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 107,
+    "awayScore": 100
   },
   {
     "id": "209587",
@@ -576198,26 +576198,26 @@
     "awayScore": null
   },
   {
-    "id": "panda-1582141",
-    "sport": "lol",
-    "league": "NODWIN Clutch Series",
-    "date": "2026-07-13T08:00:00Z",
-    "home": "Inner Circle Academy",
-    "away": "BIG Academy",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/138101/192px_inner_circle_esports_lightmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/126694/big.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "panda-1584698",
     "sport": "lol",
     "league": "United21",
-    "date": "2026-07-13T08:00:00Z",
+    "date": "2026-07-13T08:00:11Z",
     "home": "ex-MANA eSports",
     "away": "EAC Rising",
     "homeLogo": null,
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138820/467px_esport_academy_copenhagen_rising_allmode.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1582141",
+    "sport": "lol",
+    "league": "NODWIN Clutch Series",
+    "date": "2026-07-13T08:13:44Z",
+    "home": "Inner Circle Academy",
+    "away": "BIG Academy",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/138101/192px_inner_circle_esports_lightmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/126694/big.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -576235,6 +576235,19 @@
     "awayScore": null
   },
   {
+    "id": "1589175",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Asean Championship Women",
+    "date": "2026-07-13T08:45:00+00:00",
+    "home": "Cambodia W",
+    "away": "Timor-Leste W",
+    "homeLogo": "https://media.api-sports.io/football/teams/26046.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/21022.png",
+    "homeScore": 3,
+    "awayScore": 1
+  },
+  {
     "id": "1527279",
     "sport": "soccer",
     "country": "Australia",
@@ -576244,8 +576257,8 @@
     "away": "Modbury Jets",
     "homeLogo": "https://media.api-sports.io/football/teams/3784.png",
     "awayLogo": "https://media.api-sports.io/football/teams/10010.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "500251",
@@ -576257,21 +576270,8 @@
     "away": "Pasig City",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7883.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7369.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "1543597",
-    "sport": "soccer",
-    "country": "Bhutan",
-    "league": "Premier League",
-    "date": "2026-07-13T10:00:00+00:00",
-    "home": "Ugyen Academy",
-    "away": "Transport United",
-    "homeLogo": "https://media.api-sports.io/football/teams/19007.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/5593.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 93,
+    "awayScore": 87
   },
   {
     "id": "1522143",
@@ -576283,14 +576283,14 @@
     "away": "Brunswick City",
     "homeLogo": "https://media.api-sports.io/football/teams/16781.png",
     "awayLogo": "https://media.api-sports.io/football/teams/16780.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "panda-1584699",
     "sport": "lol",
     "league": "United21",
-    "date": "2026-07-13T10:30:00Z",
+    "date": "2026-07-13T10:50:49Z",
     "home": "FaZe Up Next",
     "away": "Alpha Dominion Nation",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/138894/612px_faze_up_next_allmode.png",
@@ -576308,8 +576308,8 @@
     "away": "Dongguan United",
     "homeLogo": "https://media.api-sports.io/football/teams/27556.png",
     "awayLogo": "https://media.api-sports.io/football/teams/17263.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "493311",
@@ -576321,8 +576321,8 @@
     "away": "Czech Republic U20",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4554.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4568.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 54,
+    "awayScore": 34
   },
   {
     "id": "209589",
@@ -576341,7 +576341,7 @@
     "id": "panda-1582139",
     "sport": "lol",
     "league": "NODWIN Clutch Series",
-    "date": "2026-07-13T11:00:00Z",
+    "date": "2026-07-13T11:27:03Z",
     "home": "Honvéd",
     "away": "Julie&cie",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/128887/honved_budapest_old_logo_70_adbfc97_d_seeklogo.com.png",
@@ -576359,8 +576359,8 @@
     "away": "Poland U20",
     "homeLogo": "https://media.api-sports.io/basketball/teams/4557.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/4559.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 41,
+    "awayScore": 27
   },
   {
     "id": "209590",
@@ -576376,6 +576376,19 @@
     "awayScore": null
   },
   {
+    "id": "1543597",
+    "sport": "soccer",
+    "country": "Bhutan",
+    "league": "Premier League",
+    "date": "2026-07-13T12:00:00+00:00",
+    "home": "Ugyen Academy",
+    "away": "Transport United",
+    "homeLogo": "https://media.api-sports.io/football/teams/19007.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/5593.png",
+    "homeScore": 0,
+    "awayScore": 1
+  },
+  {
     "id": "1548836",
     "sport": "soccer",
     "country": "World",
@@ -576389,19 +576402,6 @@
     "awayScore": null
   },
   {
-    "id": "1583299",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-13T12:00:00+00:00",
-    "home": "HNK Gorica",
-    "away": "Göztepe",
-    "homeLogo": "https://media.api-sports.io/football/teams/1068.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/994.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "500252",
     "sport": "basketball",
     "country": "Philippines",
@@ -576411,6 +576411,19 @@
     "away": "Batang Kankaloo",
     "homeLogo": "https://media.api-sports.io/basketball/teams/7359.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/7351.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1589176",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Asean Championship Women",
+    "date": "2026-07-13T12:45:00+00:00",
+    "home": "Singapore",
+    "away": "Laos W",
+    "homeLogo": "https://media.api-sports.io/football/teams/1546.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/18267.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -576618,6 +576631,32 @@
     "awayScore": 0
   },
   {
+    "id": "1554927",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-13T15:00:00+00:00",
+    "home": "Wolfsberger AC",
+    "away": "Hradec Králové",
+    "homeLogo": "https://media.api-sports.io/football/teams/1025.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/3723.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1583299",
+    "sport": "soccer",
+    "country": "World",
+    "league": "Friendlies Clubs",
+    "date": "2026-07-13T15:30:00+00:00",
+    "home": "HNK Gorica",
+    "away": "Göztepe",
+    "homeLogo": "https://media.api-sports.io/football/teams/1068.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/994.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "1541525",
     "sport": "soccer",
     "country": "Finland",
@@ -576627,19 +576666,6 @@
     "away": "HJS Akatemia",
     "homeLogo": "https://media.api-sports.io/football/teams/1169.png",
     "awayLogo": "https://media.api-sports.io/football/teams/9209.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "1554927",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-13T15:30:00+00:00",
-    "home": "Wolfsberger AC",
-    "away": "Hradec Králové",
-    "homeLogo": "https://media.api-sports.io/football/teams/1025.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/3723.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -580244,6 +580270,19 @@
     "away": "Memphis Grizzlies",
     "homeLogo": "https://media.api-sports.io/basketball/teams/141.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/146.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "1586078",
+    "sport": "soccer",
+    "country": "USA",
+    "league": "USL League Two",
+    "date": "2026-07-14T23:00:00+00:00",
+    "home": "Asheville City",
+    "away": "Virginia Beach City",
+    "homeLogo": "https://media.api-sports.io/football/teams/10094.png",
+    "awayLogo": "https://media.api-sports.io/football/teams/13192.png",
     "homeScore": null,
     "awayScore": null
   },
