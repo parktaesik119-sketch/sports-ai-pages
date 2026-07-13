@@ -1465,7 +1465,14 @@ const TEAM_NAME_MAP = {
   "Botev Vratsa": "보테브 브라트사",
   "Etar Veliko Tarnovo": "에타르 벨리코 타르노보",
   "Akademik Svishtov": "아카데믹 스비스토프",
-
+  "Akhmat": "아흐마트 그로즈니",
+  "Radnik Bijeljina": "라드니크 비옐리나",
+  "FS Jelgava": "FS 옐가바",
+  "Auda": "FK 아우다",
+  "BFC Daugavpils": "BFC 다우가프필스",
+  "Gandzasar": "간자사르",
+  "FC Noah": "FC 노아",
+  "Turan": "투란 토브스 IK",
 
   
   //중국축구
