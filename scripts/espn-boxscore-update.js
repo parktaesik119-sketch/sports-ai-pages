@@ -832,6 +832,23 @@ async function main() {
       }));
       console.log(`   [진단] 우리 팀명: "${homeTeamEn}" / "${awayTeamEn}"`);
       console.log(`   [진단] ESPN이 그 기간(±1일) 쓴 팀명 목록: ${JSON.stringify([...new Set(todaysEspnTeams)])}`);
+
+      // ⚠️ ESPN이 경기 자체를 못 찾아서 여기서 건너뛰더라도, 저장된 라인업으로
+      // 미리 유추해둔 폴백 포메이션이 있으면 그것만이라도 파일에 반영한다.
+      // 이 지점 이후의 코드(실제 updates 적용부)는 여기서 continue하면 아예
+      // 도달을 못 해서, 애써 계산한 값이 통째로 버려지고 있었다(실사용 지적으로 확인, 2026-07).
+      const fallbackUpdates = {};
+      if (fallbackHomeFormation) fallbackUpdates.homeFormation = fallbackHomeFormation;
+      if (fallbackAwayFormation) fallbackUpdates.awayFormation = fallbackAwayFormation;
+      if (Object.keys(fallbackUpdates).length > 0) {
+        const ok = updateMdFrontmatter(filePath, fallbackUpdates);
+        if (ok) {
+          console.log(`   🔄 [경기 매칭 실패했지만 포메이션만 반영] 홈 ${fallbackHomeFormation || '-'} / 원정 ${fallbackAwayFormation || '-'}`);
+          updatedCount++;
+          continue;
+        }
+      }
+
       skipCount++;
       continue;
     }
