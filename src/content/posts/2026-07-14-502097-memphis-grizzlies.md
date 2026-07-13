@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "173.5"
 pickOuDirection: "언더"
+homeLineup: "[\"C. Boozer (F)|https://a.espncdn.com/i/headshots/nba/players/full/5041935.png\",\"C. Coward (F)|https://a.espncdn.com/i/headshots/nba/players/full/4903027.png\",\"T. Hendricks (F)|https://a.espncdn.com/i/headshots/nba/players/full/4684806.png\",\"O. Prosper (F)|https://a.espncdn.com/i/headshots/nba/players/full/4595400.png\",\"J. Small (G)|https://a.espncdn.com/i/headshots/nba/players/full/4781746.png\"]"
+awayLineup: "[\"S. de Larrea (F)|https://a.espncdn.com/i/headshots/nba/players/full/5279129.png\",\"T. Lawal (F)|https://a.espncdn.com/i/headshots/nba/players/full/5106040.png\",\"J. Diaz Graham (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105411.png\",\"V. Ishchenko (G)|https://a.espncdn.com/i/headshots/nba/players/full/5358755.png\",\"J. Poulakidas (G)|https://a.espncdn.com/i/headshots/nba/players/full/4898238.png\"]"
 ---
