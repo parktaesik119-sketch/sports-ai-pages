@@ -262,45 +262,10 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
 //  어디에서도 안 써서(로그도 안 찍고 프롬프트에도 안 넣고) 죽은 코드였음 - 제거함.
 //  실제 O/U 범위 제한은 finalOuValue 계산부의 clamp 한 줄이 유일하게 유효함)
 
-// 예상스코어 기반 핸디캡 자동 산출 함수
-// expectedScores: { homeScore, awayScore } 또는 null
-// winnerIsHome: true = 홈팀 승 예상, false = 원정팀 승 예상
-function calcHandicapValue(cat, expectedScores, winnerIsHome) {
-  if (!expectedScores) return null;
-
-  const diff = Math.abs(expectedScores.homeScore - expectedScores.awayScore);
-  const sign = winnerIsHome ? '-' : '+';
-
-  if (cat === 'soccer' || cat === 'hockey') {
-    if (diff <= 1) return `${sign}0.5`;
-    if (diff === 2) return `${sign}1.5`;
-    return `${sign}2.5`;
-  }
-
-  if (cat === 'baseball') {
-    if (diff <= 1) return `${sign}0.5`;
-    if (diff <= 3) return `${sign}1.5`;
-    return `${sign}2.5`;
-  }
-
-  if (cat === 'basketball') {
-    if (diff <= 4)  return `${sign}2.5`;
-    if (diff <= 9)  return `${sign}5.5`;
-    if (diff <= 14) return `${sign}8.5`;
-    if (diff <= 19) return `${sign}11.5`;
-    return `${sign}15.5`;
-  }
-
-  if (cat === 'volleyball') {
-    // 세트스코어 기반: expectedScores = { homeScore: 세트, awayScore: 세트 }
-    if (diff === 3) return `${sign}2.5`;
-    if (diff === 2) return `${sign}1.5`;
-    return `${sign}0.5`;
-  }
-
-  return null;
-}
-
+// ⚠️ 실제 핸디캡 계산은 이 함수가 아니라 finalHandicapValue를 만드는 인라인 로직
+// (아래쪽, "핸디캡 보정" 주석 부분)에서 이루어진다 — 그쪽은 반올림·동점보정까지 끝난
+// "최종 보정된 스코어" 기준으로 계산해야 해서 별도로 만들어졌고, 이 함수는 그 이후로
+// 아무 데서도 호출되지 않는 죽은 코드였다. 혼동 방지를 위해 제거함(2026-07 정리).
 // 최근 경기 → AI 컨텍스트 + 가로 한줄 형식
 // ⚠️ h2h/최근폼 데이터가 masterData(all-fixtures) · ESPN · KBL · footystats 등 여러
 // 소스에서 각각 수집돼서 여러 단계에 걸쳐 병합되다 보니, 같은 경기가 두 번 들어가는
@@ -1796,7 +1761,8 @@ const winnerIsHome = homeNames.some(n =>
       } else if (cat === 'baseball') {
         absVal = diff <= 1 ? '0.5' : diff <= 3 ? '1.5' : '2.5';
       } else if (cat === 'basketball') {
-        absVal = diff <= 4 ? '2.5' : diff <= 9 ? '5.5' : diff <= 14 ? '8.5' : diff <= 19 ? '11.5' : '15.5';
+        // 농구 핸디캡 구간(2026-07 조정): 0~4점차 4.5 / 5~9점차 6.5 / 10~14점차 8.5 / 15~19점차 11.5 / 20점차+ 15.5
+        absVal = diff <= 4 ? '4.5' : diff <= 9 ? '6.5' : diff <= 14 ? '8.5' : diff <= 19 ? '11.5' : '15.5';
       } else if (cat === 'volleyball') {
         absVal = diff === 3 ? '2.5' : diff === 2 ? '1.5' : '0.5';
       }
