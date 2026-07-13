@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Koki Kitayama (8-3, 2.22)|https://p.npb.jp/players_photo/2026/180/f/015_51755155.jpg\"]"
+awayLineup: "[\"선발투수 Naoyuki Uwasawa (5-3, 2.58)|https://p.npb.jp/players_photo/2026/180/h/010_51355135.jpg\"]"
 ---

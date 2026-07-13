@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Kyle Muller (2-5, 2.86)|https://p.npb.jp/players_photo/2026/180/d/093_13915150.jpg\"]"
+awayLineup: "[\"선발투수 Haruto Takahashi (10-1, 1.57)|https://p.npb.jp/players_photo/2026/180/t/029_91095136.jpg\"]"
 ---

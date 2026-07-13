@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Ryota Takinaka (4-3, 2.10)|https://p.npb.jp/players_photo/2026/180/e/057_31235151.jpg\"]"
+awayLineup: "[\"선발투수 Allen Kuri (6-5, 3.03)|https://p.npb.jp/players_photo/2026/180/b/022_71775139.jpg\"]"
 ---
