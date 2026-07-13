@@ -372,6 +372,67 @@ export function extractTeamStanding(standingsData, teamNameEn) {
 // 종목군에 따라 ESPN이 내려주는 형식이 다름:
 // - 시즌제 리그(MLB, NBA/WNBA, NHL 추정): summary.seasonseries → 이번 시즌 맞대결 요약 텍스트
 // - 국가대항전/컵대회(월드컵 등 soccer 계열): summary.headToHeadGames → 다년간 최근 맞대결 상세 목록
+// ⚠️ 팀의 "이번 시즌 전체 스케줄"을 필터링 없이 그대로 반환한다. 이 응답 안에 이미
+// 완료된 과거 경기(스코어 포함)와 예정된 경기가 섞여있는데, extractRecentForm()에서
+// 완료된 것만 걸러 최근폼으로 쓴다.
+// (fetchEventFromTeamSchedule은 "특정 날짜 ±1일 경기 하나 찾기" 용도로 이미 날짜
+// 필터링을 하고 있어서, 최근폼처럼 여러 경기가 통째로 필요한 용도엔 못 쓴다 —
+// 그래서 별도 함수로 분리함)
+export async function fetchTeamSchedule(espnSport, teamId) {
+  const { sport, league } = ESPN_SPORTS[espnSport];
+  if (!teamId) return [];
+  const url = `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/teams/${teamId}/schedule`;
+  try {
+    const res  = await fetch(url);
+    const data = await res.json();
+    return data.events || [];
+  } catch (err) {
+    console.error(`❌ 팀 시즌 스케줄 호출 실패 (teamId=${teamId}):`, err.message);
+    return [];
+  }
+}
+
+// 팀 시즌 스케줄(fetchTeamSchedule 결과)에서 beforeDateStr 이전에 "완료된" 경기만
+// 최신순으로 최대 limit개 뽑아서 {date, home, away, homeScore, awayScore} 형태로 반환.
+// footystats/masterData의 recentMatches와 동일한 필드 구조라 mergeSoccerMatchSources에
+// 그대로 섞어 쓸 수 있다.
+export function extractRecentForm(scheduleEvents, beforeDateStr, limit = 10) {
+  if (!Array.isArray(scheduleEvents) || scheduleEvents.length === 0) return [];
+  const beforeDate = beforeDateStr ? new Date(beforeDateStr) : null;
+
+  const games = scheduleEvents
+    .map(e => {
+      const comp = e.competitions?.[0];
+      const competitors = comp?.competitors || [];
+      const home = competitors.find(c => c.homeAway === 'home');
+      const away = competitors.find(c => c.homeAway === 'away');
+      const isCompleted = comp?.status?.type?.name === 'STATUS_FINAL'
+        || comp?.status?.type?.completed === true;
+      return {
+        date: e.date || '',
+        home: home?.team?.displayName || '',
+        away: away?.team?.displayName || '',
+        homeScore: home?.score?.value != null ? Number(home.score.value) : null,
+        awayScore: away?.score?.value != null ? Number(away.score.value) : null,
+        isCompleted,
+      };
+    })
+    .filter(g => {
+      if (!g.home || !g.away || !g.isCompleted) return false;
+      if (g.homeScore === null || g.awayScore === null) return false;
+      if (beforeDate) {
+        const d = new Date(g.date);
+        if (Number.isNaN(d.getTime()) || d >= beforeDate) return false;
+      }
+      return true;
+    })
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, limit)
+    .map(({ isCompleted, ...g }) => g); // 비교용 필드 제거
+
+  return games;
+}
+
 export function extractH2H(summary, beforeDateStr) {
   if (!summary) return null;
   const beforeDate = beforeDateStr ? new Date(beforeDateStr) : null;
@@ -422,7 +483,9 @@ export function extractH2H(summary, beforeDateStr) {
   // 2) headToHeadGames 형식 (soccer 계열 - 월드컵, 클럽대항전 등)
   if (Array.isArray(summary.headToHeadGames) && summary.headToHeadGames.length > 0) {
     const group = summary.headToHeadGames[0];
-    const events = (group.events || []).slice(0, 5); // 최근 5경기까지만
+    const events = (group.events || []).slice(0, 10); // ⚠️ 예전엔 5경기까지만 잘랐는데,
+    // h2hForAvg(평균 계산용)는 최대 10개까지 쓰므로 원본에 그만큼 있으면 다 활용하도록
+    // 확대함(실사용 지적으로 확인, 2026-07). 표시용(h2hHistory)은 여전히 5개로 별도 제한됨.
     if (events.length > 0) {
       const games = events.map(e => {
         const selfIsHome = String(e.homeTeamId) === String(group.team?.id);
