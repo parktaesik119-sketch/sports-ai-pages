@@ -5,6 +5,8 @@ import OpenAI from "openai";
 import TEAM_NAME_MAP from './team_name_map.js';
 import COUNTRY_MAP from './country_map.js';
 import { matchTeam } from './espn-common.js';
+import { formatKboInjuries } from './kbo-common.js';
+import { isMatchApproved } from './match-filter.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -168,6 +170,27 @@ function weightedAvg(recentAvg, h2hAvg, h2hCount = 0) {
   return recentAvg * (1 - h2hWeight) + h2hAvg * h2hWeight;
 }
 
+// 최근폼 + H2H를 합쳐서, 그 팀이 "홈이었던 경기"만 추려 승률을 계산한다.
+// 70% 이상이면 홈 어드밴티지를 제대로 살리는 팀으로 보고 배율을 적용한다.
+// (판단할 홈 경기 자체가 없으면 무리하게 판단하지 않고 배율 없음(1.0)을 반환)
+const HOME_ADVANTAGE_WIN_RATE_THRESHOLD = 0.7;
+const HOME_ADVANTAGE_MULTIPLIER = 1.1;
+
+function calcHomeAdvantageMultiplier(recentMatches, h2hMatches, teamName) {
+  const combined = [...recentMatches, ...h2hMatches];
+  const homeGames = combined.filter(m => m.home === teamName);
+  if (homeGames.length === 0) return 1.0;
+
+  const wins = homeGames.filter(m => {
+    const my  = Number(m.homeScore);
+    const opp = Number(m.awayScore);
+    return !isNaN(my) && !isNaN(opp) && my > opp;
+  }).length;
+
+  const winRate = wins / homeGames.length;
+  return winRate >= HOME_ADVANTAGE_WIN_RATE_THRESHOLD ? HOME_ADVANTAGE_MULTIPLIER : 1.0;
+}
+
 // 예상 스코어 계산 함수 (홈팀/원정팀 각각 반환)
 function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h2hMatches = []) {
   const isBball = cat === 'basketball';
@@ -179,10 +202,21 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
   const awayH2hAvg = getH2hAvgScore(h2hMatches, awayTeam);
   const h2hCount   = h2hMatches.length;
 
-  const homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg, h2hCount);
+  let homeAvg = weightedAvg(homeRecentAvg, homeH2hAvg, h2hCount);
   const awayAvg = weightedAvg(awayRecentAvg, awayH2hAvg, h2hCount);
 
   if (homeAvg === null || awayAvg === null) return null;
+
+  // 축구에서만, 홈팀이 최근폼+H2H 통틀어 "홈 경기"에서 70% 이상 이겼을 때만
+  // 홈 어드밴티지를 실제로 살리는 팀으로 보고 예상 득점에 소폭(×1.1) 가산한다.
+  // 무조건 홈이라고 주는 게 아니라, 실제로 그 이점을 살리는 팀에게만 준다.
+  // 축구/야구만 대상 — 둘 다 득점 스케일이 낮고 정수라 배율 방식이 잘 맞음.
+  // 농구는 점수 스케일이 커서 배율 대신 다른 설계가 필요하고, 배구는 세트스코어
+  // 방식이라 애초에 이 평균 로직 자체를 안 씀.
+  if (cat === 'soccer' || cat === 'baseball') {
+    const homeAdvMultiplier = calcHomeAdvantageMultiplier(homeMatches, h2hMatches, homeTeam);
+    homeAvg *= homeAdvMultiplier;
+  }
 
   // 종목별 반올림 및 동점 보정
   const roundScore = (val) => Math.round(val);
@@ -268,6 +302,154 @@ function calcHandicapValue(cat, expectedScores, winnerIsHome) {
 }
 
 // 최근 경기 → AI 컨텍스트 + 가로 한줄 형식
+// ⚠️ h2h/최근폼 데이터가 masterData(all-fixtures) · ESPN · KBL · footystats 등 여러
+// 소스에서 각각 수집돼서 여러 단계에 걸쳐 병합되다 보니, 같은 경기가 두 번 들어가는
+// 사고가 실사용에서 확인됨(예: ESPN도 특정 경기를 찾고 footystats도 같은 경기를 찾아서
+// 병합 단계의 개별 dedup 체크를 뚫고 같이 살아남는 경우). 개별 병합 단계마다 따로
+// 막기보다, "이 데이터를 실제로 쓰기 직전"에 한 번 더 무조건 걸러내는 최종 안전장치를
+// 둔다. 날짜(연-월-일)+홈팀+원정팀이 같으면 같은 경기로 보고, 먼저 나온 것만 남긴다.
+// ⚠️ 처음엔 날짜 문자열(연-월-일)만 비교했는데, 실사용 데이터로 확인해보니 같은 경기를
+// footystats는 "2025-05-25"로, ESPN은 "2025-05-24T23:00Z"로 — 하루 차이로 기록하고
+// 있었다(자정 근처 경기라 소스마다 시간대 처리 방식이 달라서 날짜가 하루씩 밀림).
+// 그래서 날짜 문자열 정확 일치 대신 "같은 두 팀 + 같은 스코어 + 날짜 이틀 이내"를
+// 같은 경기로 판단한다 — 이 조건을 우연히 만족하는 서로 다른 두 경기는 사실상 없다고
+// 봐도 된다.
+// ⚠️ 축구 전용: recent/H2H를 footystats → ESPN → api-sports(masterData) 순서로
+// 우선순위 병합한다. api-sports(all-fixtures 기반 masterData)는 데이터 품질이
+// 떨어질 때가 종종 있고(스코어가 실제와 다르게 들어오는 경우 확인됨), 반대로 축구에
+// 한해서는 footystats가 가장 정확한 걸로 확인돼서(사용자 실사용 검증) 최우선으로 삼는다.
+// 앞쪽 소스가 이미 커버한 경기(같은 팀 + 날짜 이틀 이내)는 뒤 소스에서 다시 안 가져온다.
+// 날짜 문자열에 실제 킥오프 "시각"까지 있는지 확인. footystats는 "YYYY-MM-DD"만 주고
+// (시간이 통째로 없어서 항상 UTC 자정으로 파싱됨), ESPN/api-sports는
+// "YYYY-MM-DDTHH:MM:SSZ"처럼 실제 킥오프 시각을 준다 — 이 차이로 구분한다.
+function hasRealTime(dateStr) {
+  return /T\d{2}:\d{2}/.test(String(dateStr));
+}
+
+// ⚠️ 축구 전용 하이브리드 병합: "날짜(킥오프 시각)"와 "스코어"를 서로 다른 우선순위로
+// 따로 결정한다.
+// - 날짜: 실제 시각 정보가 있는 소스(ESPN/api-sports)를 우선 사용한다. footystats는
+//   시간을 아예 안 줘서(항상 자정으로 가정) 실제 킥오프 시각에 따라 KST 변환 시
+//   하루 이르거나 늦게 표시될 수 있기 때문(사용자 실사용 지적으로 확인, 2026-07).
+// - 스코어: footystats → ESPN → api-sports 순서(footystats가 축구 스코어 데이터
+//   품질이 가장 정확한 걸로 검증됨).
+// 같은 실제 경기인지 판별(그룹화)은 기존과 동일하게 팀+날짜 근접성(±2일)으로 한다 —
+// footystats 날짜가 ±1일 오차가 있어도 이 범위 안에서 충분히 같은 경기로 인식된다.
+function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam) {
+  function normalizeRow(m) {
+    if (!awayTeam) return m; // 최근폼(상대 매번 다름)은 정규화 없이 원본 그대로
+    const isHome = matchTeam(m.home, homeTeam);
+    return { date: m.date, home: isHome ? homeTeam : awayTeam, away: isHome ? awayTeam : homeTeam, homeScore: m.homeScore, awayScore: m.awayScore };
+  }
+
+  // 모든 소스의 모든 항목을 "같은 실제 경기"끼리 그룹으로 묶는다
+  const groups = [];
+  for (const { label, list } of sourceListsWithLabel) {
+    for (const raw of (list || [])) {
+      const row = normalizeRow(raw);
+      const rTime = new Date(row.date).getTime();
+      let group = groups.find(g => {
+        const g0 = g.candidates[0].row;
+        const gTime = new Date(g0.date).getTime();
+        if (Number.isNaN(rTime) || Number.isNaN(gTime)) return false;
+        if (Math.abs(rTime - gTime) > 2 * 24 * 60 * 60 * 1000) return false;
+        if (!awayTeam) {
+          return (matchTeam(row.home, g0.home) && matchTeam(row.away, g0.away)) ||
+                 (matchTeam(row.home, g0.away) && matchTeam(row.away, g0.home));
+        }
+        return true;
+      });
+      if (!group) { group = { candidates: [] }; groups.push(group); }
+      group.candidates.push({ label, row });
+    }
+  }
+
+  // 스코어가 숫자로 정상 존재하는지 확인 (해당 소스가 이 경기를 "찾긴 했지만"
+  // 스코어 값 자체가 비정상(null/undefined 등)인 경우까지 걸러내기 위함)
+  function hasValidScore(row) {
+    return typeof row.homeScore === 'number' && typeof row.awayScore === 'number'
+      && !Number.isNaN(row.homeScore) && !Number.isNaN(row.awayScore);
+  }
+
+  const SCORE_PRIORITY = ['footystats', 'espn', 'masterData'];
+  return groups.map(g => {
+    // 날짜: 실제 시각 있는 후보 우선, 없으면 아무거나(첫 후보)
+    const dateSource = g.candidates.find(c => hasRealTime(c.row.date)) || g.candidates[0];
+    // 스코어: footystats에 없거나(이 경기 자체를 못 찾음) 스코어가 비정상이면 ESPN,
+    // 그것도 없으면 api-sports(masterData) 그대로 사용.
+    let scoreSource = null;
+    for (const label of SCORE_PRIORITY) {
+      scoreSource = g.candidates.find(c => c.label === label && hasValidScore(c.row));
+      if (scoreSource) break;
+    }
+    scoreSource = scoreSource || g.candidates.find(c => hasValidScore(c.row)) || g.candidates[0];
+
+    return {
+      date: dateSource.row.date,
+      home: scoreSource.row.home,
+      away: scoreSource.row.away,
+      homeScore: scoreSource.row.homeScore,
+      awayScore: scoreSource.row.awayScore,
+    };
+  }).sort((a, b) => new Date(b.date) - new Date(a.date));
+}
+
+function buildPrioritizedMatchList(sourceListsInPriorityOrder, homeTeam, awayTeam) {
+  function normalizeRow(m) {
+    // H2H(양 팀 고정)는 home/away를 정규화하고, 최근폼(상대가 매번 다름)은 원본 그대로 둔다.
+    if (awayTeam) {
+      const isHome = matchTeam(m.home, homeTeam);
+      return { date: m.date, home: isHome ? homeTeam : awayTeam, away: isHome ? awayTeam : homeTeam, homeScore: m.homeScore, awayScore: m.awayScore };
+    }
+    return m;
+  }
+  const result = [];
+  for (const rawList of sourceListsInPriorityOrder) {
+    for (const raw of (rawList || [])) {
+      const m = awayTeam ? normalizeRow(raw) : raw;
+      const mTime = new Date(m.date).getTime();
+      const covered = result.some(r => {
+        const rTime = new Date(r.date).getTime();
+        if (Number.isNaN(mTime) || Number.isNaN(rTime)) return false;
+        const dateClose = Math.abs(mTime - rTime) <= 2 * 24 * 60 * 60 * 1000;
+        if (!dateClose) return false;
+        // ⚠️ H2H는 두 팀이 항상 고정이라 날짜만 가까우면 같은 경기로 봐도 안전하지만,
+        // 최근폼은 경기마다 상대가 다르므로 날짜만으로 판단하면 안 된다 — "4/17 vs A팀"과
+        // "4/16 vs B팀"처럼 날짜만 가까운 완전히 다른 두 경기를 같은 경기로 착각해서
+        // 하나를 통째로 날려버리는 사고가 날 수 있다(실사용 중 지적받아 확인/수정, 2026-07).
+        // 상대팀까지 같아야(어느 쪽이 홈/원정이든) 진짜 같은 경기로 판단한다.
+        if (!awayTeam) {
+          const sameOpponentPair =
+            (matchTeam(m.home, r.home) && matchTeam(m.away, r.away)) ||
+            (matchTeam(m.home, r.away) && matchTeam(m.away, r.home));
+          if (!sameOpponentPair) return false;
+        }
+        return true;
+      });
+      if (!covered) result.push(m);
+    }
+  }
+  return result.sort((a, b) => new Date(b.date) - new Date(a.date));
+}
+
+function dedupeMatchList(list) {
+  if (!Array.isArray(list) || list.length === 0) return list;
+  const kept = [];
+  for (const m of list) {
+    const mTime = new Date(m.date).getTime();
+    const isDup = kept.some(k => {
+      const sameTeams = k.home === m.home && k.away === m.away;
+      const sameScore = k.homeScore === m.homeScore && k.awayScore === m.awayScore;
+      if (!sameTeams || !sameScore) return false;
+      const kTime = new Date(k.date).getTime();
+      if (Number.isNaN(mTime) || Number.isNaN(kTime)) return true; // 날짜 파싱 안 되면 팀+스코어만으로 판단
+      return Math.abs(mTime - kTime) <= 2 * 24 * 60 * 60 * 1000; // 이틀 이내면 같은 경기
+    });
+    if (!isDup) kept.push(m);
+  }
+  return kept;
+}
+
 function buildRecentForm(recentList, teamName) {
   if (!recentList || recentList.length === 0) return `${teamName}: 최근 경기 데이터 없음`;
 
@@ -374,6 +556,67 @@ async function analyzeMatches() {
       return kblContextList.find(k => k.home === match.home && k.away === match.away) || null;
     }
 
+    // footystats 컨텍스트 로드 (fetch-footystats-context.js가 미리 생성) — 축구 전용,
+    // ESPN/자체 DB가 얕은 소규모 리그 위주로 H2H/최근폼을 보충하는 용도.
+    // KBO/NPB/KBL과 마찬가지로 match.home/away를 원문(영문) 그대로 저장하므로 정확 일치로 매칭 가능.
+    const footystatsContextPath = path.resolve(__dirname, `../database/footystats-context-${today}.json`);
+    const footystatsContextList = fs.existsSync(footystatsContextPath)
+      ? JSON.parse(fs.readFileSync(footystatsContextPath, 'utf8'))
+      : [];
+    if (footystatsContextList.length > 0) {
+      console.log(`⚽ [footystats 컨텍스트] ${footystatsContextList.length}건 로드됨`);
+    }
+
+    function findFootystatsContext(match) {
+      return footystatsContextList.find(f => f.home === match.home && f.away === match.away) || null;
+    }
+
+    // footystats가 준 경기 행(row)의 팀명은 footystats 자체 표기(영문, api-sports와 미묘하게
+    // 다를 수 있음 — 예: "St Patricks Athletic" vs api-sports의 다른 표기)라서, buildRecentForm의
+    // `m.home === teamName` 같은 정확 일치 비교가 깨지지 않도록 우리 팀 이름을 match.home/away
+    // 원문으로 강제 치환해서 정규화한다.
+    //
+    // ⚠️ 상대팀 이름도 그냥 두면 안 된다 — 최종 프론트매터 직렬화 단계(TEAM_NAME_MAP[m.home] ||
+    // m.home)가 "정확히 일치하는 키"만 찾기 때문에, footystats 표기가 team_name_map.js의 키와
+    // 철자가 미묘하게 다르면(예: "St Patricks Athletic" vs "St Patrick's Athl.") 그 한쪽만
+    // 한글 번역이 안 되고 영문으로 남아 "한화 이글스 vs St Patricks Athletic"처럼 언어가
+    // 섞여버린다. 그래서 상대팀 이름도 team_name_map.js의 키 중 가장 비슷한 걸로 미리
+    // 치환해둬서, 이후의 정확 일치 조회가 성공하도록 만든다. 매칭되는 키가 없으면(진짜로
+    // team_name_map.js에 없는 팀) 원문 영문 그대로 둔다 — 깨지는 것보단 영문 표기가 낫다.
+    const ALL_TEAM_NAME_MAP_KEYS = Object.keys(TEAM_NAME_MAP);
+    function resolveToKnownTeamName(footystatsName) {
+      if (!footystatsName) return footystatsName;
+      if (TEAM_NAME_MAP[footystatsName]) return footystatsName; // 이미 정확히 일치
+      const matched = ALL_TEAM_NAME_MAP_KEYS.find(key => matchTeam(footystatsName, key));
+      return matched || footystatsName;
+    }
+
+    // 최근폼용: 우리 팀은 match.home/away 원문으로, 상대팀은 team_name_map.js 키로 해석.
+    function normalizeFootystatsRow(row, teamName) {
+      const isHomeInRow = matchTeam(row.home, teamName);
+      const opponentResolved = resolveToKnownTeamName(isHomeInRow ? row.away : row.home);
+      return {
+        date: row.date,
+        home: isHomeInRow ? teamName : opponentResolved,
+        away: isHomeInRow ? opponentResolved : teamName,
+        homeScore: row.homeScore,
+        awayScore: row.awayScore,
+      };
+    }
+
+    // H2H용: 두 팀 다 이미 알고 있으므로(match.home/away 고정) 양쪽 다 원문으로 정규화
+    // (둘 다 이미 team_name_map.js에 있는 확정된 이름이라 별도 resolve 불필요).
+    function normalizeH2hRow(row, homeTeamName, awayTeamName) {
+      const isHomeInRow = matchTeam(row.home, homeTeamName);
+      return {
+        date: row.date,
+        home: isHomeInRow ? homeTeamName : awayTeamName,
+        away: isHomeInRow ? awayTeamName : homeTeamName,
+        homeScore: row.homeScore,
+        awayScore: row.awayScore,
+      };
+    }
+
     function findEspnContext(match) {
       const candidates = espnContextList.filter(e =>
         (matchTeam(e.home, match.home) && matchTeam(e.away, match.away)) ||
@@ -395,182 +638,7 @@ async function analyzeMatches() {
 
     
 
-    const blockedLeagues = [  //대소문자 구분없음
-   // 성별 및 연령대 (Youth & Gender)
-  'U21', 'U19', 'U18', 'U17', 'YOUTH', 'RESERVE', 'WOMEN', 'WOMAN', 'FEMALE', 'FRAUEN', 'FEMININE', 'FEMININE DIVISION 1', 'Femenil',
-    // 하부 리그 명칭 (Lower Divisions)
-  'LIGUE 2', 'LIGA 2', 'SERIE B', 'SERIE C', 'SERIE D', '3. LIGA', 'REGIONALLIGA', 'LEAGUE TWO', 'NATIONAL LEAGUE', 'NATIONAL', 'CHAMPIONNAT', 'EERSTE', 'EXPANSION', 'NACIONAL', 'METROPOLITANA', 'PRIMERA B', 'FEDERAL A',
-  'SEGUNDA DIVISIÓN RFEF', 'TERCERA DIVISION', 'OBERLIGA', 'REGION', 'NON LEAGUE PREMIER - NORTHERN', 'NON LEAGUE PREMIER - SOUTHERN SOUTH', 'ISTHMIAN', 'LOWLAND', 'HIGHLAND', 'SOUTHERN', 'CENTRAL', 'NON',
-    // 아시아 리그 (Asia)
-  'K4','FOOTBALL LEAGUE', 'THAILAND', 'MALAYSIA', 'INDONESIA', 'Two', 'Birinci', 'Tasmania Northern Championship', 'Southern Championship', 'Queensland Premier League', 'V.League 2', 'Liga 2', 'I-League',
-    // 브라질 및 남미 컵대회/지역리그 (South America & Cups)
-  'CAMPEONATO', 'COPA DO NORDESTE', 'COPA VERDE', 'COPA ESPÍRITO SANTO', 'COPA CENTRO-OESTE', 'COPA SUL-SUDESTE', 'COPA NORTE', 'PAULISTA', 'CARIOCA', 'MINEIRO', 'GAUCHO', 'PARANAENSE', 'BAIANO', 'PERNAMBUCANO', 'CATARINENSE', 'Copa do Nordeste', 'Copa Norte', 'Copa Presidente', 'Centro-Oeste', 'Copa Centro-Oeste', 'Copa Sul-Sudeste', 'Sul-Sudeste',
-  'GOIANO', 'CEARENSE','LIGA PRO SERIE B', 'Liga Pro Serie B', 'Primera B', 'Sudamericana', 'Copa De La Liga', 'Serie B', 'Copa Do Brasil', 'Expansion MX', 'Copa Espírito Santo', 'Santo',
-    // 아프리카 및 기타 국가 (Africa & Others)
-  'EGYPT', 'SOUTH AFRICA', 'TUNISIA', 'MOROCCO', 'UGANDA', 'BOTOLA', 'Elite Two', 'Coupe Nationale', 'Ligue 2', 'Second League',
-    // 유럽 기타 국가 및 리그 (Europe Others)
-  '1. DIVISION', 'FEDERACION', 'SUPER LEAGUE 2', '2. Deild', '3. Division', '3. Division - Girone 6', 'Ykkösliiga', 'Kakkonen - Lohko C', 'Kakkonen - Lohko A', 'Kakkonen - Lohko B', 'Kakkonen', 'Superettan', 'Ettan - Södra', 'Ettan - Norra', 'Ettan', 'Division 2 - Norra Götaland', 'Division 2 - Östra Götaland', 'Götaland', 'Division 2 - Västra Götaland', 'Damallsvenskan', 'Division 2 - Norrland', 'First Division',
-  'U18 PREMIER LEAGUE', 'PREMIER LEAGUE INTERNATIONAL CUP', 'Elitettan', 'Damallsvenskan', 'Ettan', 'Svealand', 'Prime League', 'North American', 'NWSL', 'Central', 'MLS Next Pro',
-    // 농구 및 기타 (Basketball & Others)
-  'ABA LEAGUE', 'USL CHAMPIONSHIP', 'BAHRAIN', 'Balkan', 'HLL', 'LES', 'Circuito', 'LRS', 'Legends',  'ACB', 'NBL', 'USHL', 'SHL', 'Liiga', 'DEL', 'SuperLega', 'PlusLiga', 'LFL', 'Prime League', 'Arabian League', 'TCL', 'Regular', 'LIT', 'BSN', 'LNB', 'LBP', 'PCL', 'SPHL', 'ECHL', 'Regular Season', 'LPLOL Regular Season', 'LPLOL REGULAR SEASON','Esports World Cup Playoffs','ESPORTS WORLD CUP PLAYOFFS','ESPORTS WORLD CUP', 'Esports World Cup',
-];
-
-  // ⬇️ 제외하고 싶은 국가명을 정확히 입력하세요 //대소문자 구분없음
-    const blockedCountries = [
-  "Bahrain", "Kyrgyzstan", "Uzbekistan", "Uganda", "Eswatini", "Zambia", "India", "South-Africa", "Malaysia", "Malta", "Kenya", "Barbados", "Peru", "Bolivia", "Honduras", "Cambodia", "Ivory-Coast", "Cyprus", "Burkina-Faso", "Azerbaijan", "Belarus", "Kazakhstan", "Ukraine", "Zimbabwe", "Rwanda", "Congo", "Mongolia", "Armenia", "Indonesia", "Syria", "Ethiopia", "Chile", "Ecuador", "Lithuania", "Mauritania", "Latvia", "Estonia", "Balkans", "Puerto Rico", "Dominican Republic", "Aruba", "Philippines", 'PERU', 'ECUADOR', 'AZERBAIJAN', 'ARMENIA', 'BELARUS', 'KAZAKHSTAN', 'UKRAINE', 'ICELAND', 'LITHUANIA', 'LATVIA', 'ESTONIA', 'MALTA', 'CYPRUS', 'SYRIA', 'BARBADOS', 'Bangladesh', 'Tunisia', 'Malawi', 'Ghana', 'Lebanon', 'Botswana',
-  "Slovakia", "Faroe-Islands", 'Libya','Aruba', 'Panama', 'Bhutan', 'Ethiopia', 'Congo-DR', 'Israel', "El Salvador", 'El-Salvador', 'Jamaica', 'Rwanda', 'Mauritania', 'Zimbabwe','Ethiopia', 'Kenya', 'INDIA', 'UZBEKISTAN', 'KYRGYZSTAN', 'Bangladesh', 'Lesotho', 'Kuwait',
-].filter(c => c !== "South-Korea");
-
-    const blockedTeams = [
-  // [나이,성별]
-  'U21', 'U19', 'U18', 'U17', 'YOUTH', 'RESERVE', 'WOMEN', 'WOMAN', 'FEMALE', 'FRAUEN', 'FEMININE', 'FEMININE DIVISION 1', 'FEMENIL', 'BUBLIKI', 'ZEROZONE GAMING', 'RONALDO TEAM', 'THE OTTER SIDE', 'CRUSADERS', 'DREAM ESPORTS', 'GTZ ESPORTS', 'FLUXO W7M', 'PAIN GAMING', 'LOUD', 'VIVO KEYD STARS', 'RED CANIDS', 'LEVIATAN ESPORTS', 'FRITES ESPORTS CLUB', 'MCON ESPORTS',
-  ];
-   
-  const filteredMatches = rawData.filter(m => {
-  const lg = (m.league || '').trim(); 
-  const upperLg = lg.toUpperCase(); // 비교를 위한 대문자 변환
-  const sport = (m.sport || '').toLowerCase(); // 지적하신 sport 변수 유지
-  const country = (m.country || '').trim();
-  const home = (m.home || '').trim();
-  const away = (m.away || '').trim();
-  const upperHome = home.toUpperCase();
-  const upperAway = away.toUpperCase();
-  const upperCountry = country.toUpperCase();
-
-  // 프리패스 팀->여성+청소년차단->국가차단->프리패스 리그->차단리그->차단팀 순서
-  // 프리패스 팀 리스트 (유스/여성 키워드가 있어도 분석하고 싶은 팀명 입력)
-  const essentialTeams = ['BNK FEARX YOUTH']; 
-  const isEssentialTeam = essentialTeams.some(t => upperHome.includes(t) || upperAway.includes(t));
-
-  // 1. 여기에 예외로 허용하고 싶은 여성/청소년 리그명을 대문자로 등록합니다.
-const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE','NATIONS LEAGUE WOMEN','WORLD CUP - WOMEN - QUALIFICATION EUROPE'];
-const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
-
-  // [단계 1] 가장 먼저 여성/청소년 경기인지 확인 (최우선순위) - 있으면 무조건 차단
-  const isRestricted = !isEssentialTeam && !isAllowedWomenLeague && (upperLg.includes('WOMEN') || upperLg.includes('FRAUEN') || upperLg.includes('YOUTH') || upperLg.includes('RESERVE') || upperLg.includes('U15') || upperLg.includes('U16') || upperLg.includes('U17') || upperLg.includes('U18') || upperLg.includes('U19') || upperLg.includes('U20') || upperLg.includes('U21') || upperLg.includes('U23'));
-
-  // [단계 2] 제한 대상이면 아래 조건은 보지도 말고 즉시 종료
-  if (isRestricted) {
-    console.log(`🚫 [제한 대상] 여성/청소년 경기 스킵: ${m.league}`);
-    return false;
-  }
-
-  // [단계 1.5] 특정 리그에서 추가 키워드 차단 (프리패스 우선 적용 전)
-const leaguesWithExtraFilter = ['FRIENDLIES', 'FRIENDLY INTERNATIONAL', 'INTERNATIONAL'];
-
-const isExtraFiltered = leaguesWithExtraFilter.some(el => el === upperLg) && (
-  upperHome.includes('U17') || upperAway.includes('U17') ||
-  upperHome.includes('U18') || upperAway.includes('U18') ||
-  upperHome.includes('U19') || upperAway.includes('U19') ||
-  upperHome.includes('U20') || upperAway.includes('U20') ||
-  upperHome.includes('U21') || upperAway.includes('U21') ||
-  upperHome.includes('U23') || upperAway.includes('U23') ||
-  upperHome.includes('YOUTH') || upperAway.includes('YOUTH') ||
-  upperHome.includes('WOMEN') || upperAway.includes('WOMEN') ||
-  upperHome.includes('RESERVE') || upperAway.includes('RESERVE')
-);
-
-if (isExtraFiltered) {
-  console.log(`🚫 [친선경기 추가 차단] ${m.league} - ${m.home} vs ${m.away}`);
-  return false;
-}
-
-  /// 국가 차단 
-  if (sport === 'soccer' && blockedCountries.some(c => c.toUpperCase() === upperCountry)) {
-    console.log(`🚫 [국가 차단] ${country} - ${m.home} vs ${m.away}`);
-    return false;
-  }
-
-  const cleanUpperLg = upperLg.replace(/\s+/g, ''); // 데이터의 공백 제거
-    
-  // [추가] 국가별 특정 리그 차단 사전 (리그명 대문자로 적어야 함)
-  const countryLeagueBlacklist = {
-    "Denmark": ["1. DIVISION"],
-    "Norway": ["1. DIVISION", "2. DIVISION"],
-    "Iceland": ["1. DEILD"],
-    "Cyprus": ["2. DIVISION"],
-    "Scotland": ["CHAMPIONSHIP", "LEAGUE ONE"],
-    "Brazil": ["SERIE B"],
-    "Saudi-Arabia": ["DIVISION 1"],    
-    "Egypt": ["CUP"],
-    "Venezuela": ["SEGUNDA DIVISIÓN"],
-    "Uruguay": ["SEGUNDA DIVISIÓN"],
-    "USA": ["USL LEAGUE ONE"],
-    "England": ["LEAGUE ONE"],
-    "China": ["LEAGUE ONE"],
-    "Belgium": ["PRO LEAGUE"],
-    "Libya": ["PREMIER LEAGUE"],
-  };
-
-  if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
-    console.log(`🚫 [특수 차단] ${country} 하위 리그 스킵: ${m.league}`);
-    return false;
-  }
-
-  // 프리패스 리그 작성 구간 (프리패스 리그는 전부 무조건 대문자로 적어야 함)  
-  // 1. 축구 주요 리그 
-  const top5 = ['PREMIER LEAGUE', 'CHAMPIONSHIP', 'LA LIGA', 'SEGUNDA DIVISIÓN', 'BUNDESLIGA', '2. BUNDESLIGA', 'PRIMEIRA LIGA', 'SERIE A', 'SERIE B', 'LIGUE 1', 'LIGUE 2', 'EREDIVISIE'].some(el => el === upperLg);
-  const korea = ['KLEAGUE1', 'KLEAGUE2'].some(el => {
-  const cleanLg = upperLg.replace(/\s+/g, ''); // 데이터의 모든 공백 제거
-  return el === cleanLg;
-});
-  const mls = ['MAJOR LEAGUE SOCCER', 'MLS'].some(el => el === upperLg); // NEXT PRO는 이름이 다르므로 자동 차단됨
-  // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
-  const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE'].some(el => upperLg.includes(el));
-    // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
-  const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'LIGA I', 'TAIWAN FOOTBALL PREMIER LEAGUE','DFB POKAL', 'CONMEBOL SUDAMERICANA','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP'].some(el => el === upperLg);
-
-  // 축구 통합 필터
-  const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision);
-
-  // 2. 농구 
-  const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W', 'NBA SALT LAKE CITY SUMMER LEAGUE', 'CALIFORNIA CLASSIC', 'NBA - LAS VEGAS SUMMER LEAGUE'].some(el => el === upperLg);
-  // 3. 배구 
-  const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'NATIONS LEAGUE WOMEN','NATIONS LEAGUE'].some(el => el === upperLg);
-  // 4. 야구 
-  const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
-  // 5. 하키 
-  const hockey = ['NHL', 'KHL','WORLD CHAMPIONSHIP','FRIENDLY INTERNATIONAL', 'WCH IA','WCH IB' ].some(el => el === upperLg);
-  // 6. 롤 //대문자로 띄어쓰기 없이 적을 것. Rounds 1-2 이런 글자는 자동 삭제니 적지 않아야 함
-  // Playoffs가 붙은 EWC는 lol 판별 전에 먼저 차단
-  const isEWCPlayoffs = upperLg.replace(/\s+/g, '') === 'ESPORTSWORLDCUPPLAYOFFS';
-  if (isEWCPlayoffs) {
-    console.log(`🚫 [EWC 차단] EWC Playoffs 스킵: ${m.league}`);
-    return false;
-  }
-
-  const normalizedLg = upperLg
-  .replace(/\s+/g, '')
-  .replace(/ROUNDS?.*|WEEK.*|GROUP.*|STAGE.*|PLAYOFFS?.*/i, '');
-  const lol = ['LCK','LCK CL','LPL', 'LCS','LEC', 'MSI','WORLD','WORLDS','INTERNATIONAL','LCKROADTOMSI','LCKCHALLENGERSLEAGUE'].includes(normalizedLg);
-
-  // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam)'를 추가
-  const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam;
-
-  // [STEP 2] 프리패스 우선 실행
-  if (isEssentialLeague) {
-    return true; 
-  }
-
-  // [STEP 3] 프리패스가 아닌 나머지 모든 경기는 차단 리스트 검사 후 종료
-    // 리그명 차단 (완전 일치로 더 엄격하게 체크)
-  if (blockedLeagues.some(x => upperLg === x.toUpperCase().trim())) {
-    console.log(`🚫 [리그 차단] ${m.league} - ${m.home} vs ${m.away}`);
-    return false;
-  }
-
-  // 팀명 차단
-  if (blockedTeams.some(t => {
-    const target = t.toUpperCase().trim();
-    return upperHome.includes(target) || upperAway.includes(target);
-  })) {
-    console.log(`🚫 [팀 차단] ${m.home} vs ${m.away} 경기를 스킵합니다.`);
-    return false;
-  }
-
-  // 모든 필터를 통과하지 못한 경기는 분석 제외
-  return false;
-});
+  const filteredMatches = rawData.filter(m => isMatchApproved(m));
 
 
     console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (GPT 5.4 mini)`);
@@ -591,7 +659,7 @@ AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 방식으로 원정
 HOME_POWER: (홈팀 핵심 전력 포인트 5개를 파이프(|)로 구분. 각 35자 이내. HOME_ANALYSIS에 이미 쓴 문장이나 수치를 그대로 반복하지 마라 — 같은 데이터를 다른 각도로 해석한 통찰을 담아라. 단순히 "N승N패", "평균 N득점" 같은 시즌 기록 나열이 아니라, 그 기록이 시사하는 패턴이나 강약점을 한 줄로 압축하라. 가능하면 수치를 근거로 들되, 수치 자체보다 "그래서 어떻다"는 해석이 핵심이다. 문장은 반드시 "~함/~음/~임/~보임/~검증됨" 같은 명사형·요약체 종결어미로 끝내라. "~합니다", "~있습니다" 같은 완결된 존댓말 문장 절대 금지 — 서술이 아니라 한 줄 요약처럼 읽혀야 한다. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지. 예: 최근 맞대결 5경기 중 4승, 상대 상성 확실한 우위|최근 4경기 모두 2득점 이상, 화력보단 꾸준함이 강점|원정 약한 상대 수비 vs 안정적 홈 운영, 매치업상 유리|직전 경기 무득점 포함 마무리 효율은 기복 변수|조 1위로 마친 만큼 큰 경기 운영력은 검증된 상태)
 AWAY_POWER: (원정팀 핵심 전력 포인트 5개를 파이프(|)로 구분. 각 35자 이내. AWAY_ANALYSIS와 동일한 방식·동일한 원칙(수치 재탕 금지, 패턴·시사점 중심)으로 원정팀 기준으로 작성하라. 문장은 반드시 "~함/~음/~임/~보임/~검증됨" 같은 명사형·요약체 종결어미로 끝내라. "~합니다", "~있습니다" 같은 완결된 존댓말 문장 절대 금지. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지.)
 H2H: (상대전적. DB에 있으면 각 경기를 파이프(|)로 구분하여 기재. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 없으면 반드시 "※ H2H 업데이트 예정" 으로만 표기. 웹 검색 절대 금지.)
-SUMMARY: (종합 분석. 존댓말로 3문장 이상. 반드시 [시즌 전체 DB] 기준 수치만 활용하라. 다른 연도 수치 사용 절대 금지. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 시즌 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라.)
+SUMMARY: (종합 분석. 존댓말로 3문장 이상. 반드시 [시즌 전체 DB] 기준 수치만 활용하라. 다른 연도 수치 사용 절대 금지. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 시즌 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라. ④"예상 스코어가 O대O로 제시된 만큼", "예상되는 스코어가 ~인 만큼" 같이 예상 스코어(pick) 자체를 근거로 들어 설명하는 순환 서술 절대 금지 — 예상 스코어는 이 분석 내용을 바탕으로 "나온 결과"이지, 분석의 "근거"가 아니다. 전력 비교와 흐름만으로 자연스럽게 결론에 도달하도록 서술하라.)
 INJURY_HOME: (홈팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 INJURY_AWAY: (원정팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부". 배당 검색 금지. 반드시 아래 제공된 최근경기 DB와 상대전적 DB만을 근거로 판단하라.)
@@ -889,7 +957,60 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     }).join('\n');
   }
 
-  if (espnInfo?.h2h?.games?.length > 0) {
+  if (cat === 'soccer') {
+    // 축구 전용: 날짜(킥오프 시각)와 스코어를 서로 다른 우선순위로 하이브리드 병합한다.
+    // - 날짜: ESPN/api-sports(실제 시각 정보 있음)를 우선 — footystats는 시간이 없어서
+    //   자정으로 가정되므로, 실제 킥오프 시각에 따라 KST 변환 시 하루 어긋날 수 있음
+    //   (사용자 실사용 지적으로 확인, 2026-07).
+    // - 스코어: footystats → ESPN → api-sports 순서(footystats가 스코어 정확도가
+    //   가장 높은 걸로 검증됨).
+    const footystatsInfo = findFootystatsContext(match);
+
+    const prioritizedH2h = mergeSoccerMatchSources(
+      [
+        { label: 'footystats', list: footystatsInfo?.h2h },
+        { label: 'espn', list: espnInfo?.h2h?.games },
+        { label: 'masterData', list: h2hHistory },
+      ],
+      match.home, match.away
+    );
+    h2hForAvg  = prioritizedH2h.slice(0, 10);
+    h2hHistory = prioritizedH2h.slice(0, 5);
+
+    const prioritizedHomeRecent = mergeSoccerMatchSources(
+      [
+        { label: 'footystats', list: footystatsInfo?.recent?.home },
+        { label: 'espn', list: espnInfo?.recent?.home },
+        { label: 'masterData', list: homeRecentMatches },
+      ],
+      null, null
+    );
+    homeRecentMatches = prioritizedHomeRecent.slice(0, 10);
+
+    const prioritizedAwayRecent = mergeSoccerMatchSources(
+      [
+        { label: 'footystats', list: footystatsInfo?.recent?.away },
+        { label: 'espn', list: espnInfo?.recent?.away },
+        { label: 'masterData', list: awayRecentMatches },
+      ],
+      null, null
+    );
+    awayRecentMatches = prioritizedAwayRecent.slice(0, 10);
+
+    const sourceLabel = footystatsInfo?.h2h?.length > 0 ? 'footystats'
+      : (espnInfo?.h2h?.games?.length > 0 ? 'ESPN 공식' : '내부 DB');
+
+    if (h2hHistory.length > 0) {
+      const h2hRows = buildH2hRows(h2hHistory);
+      h2hContent = `\n<br>\n\n### ⚔️ 상대 전적 분석 (${sourceLabel} 데이터)\n| <span style="color: #007bff;">날짜</span> ${spacer} | <span style="color: #007bff;">홈팀</span> ${spacer} | <span style="color: #007bff;">경기결과</span> ${spacer} |\n|:---|:---|:---:|\n${h2hRows}\n`;
+
+      const aiGameLines = h2hForAvg.map(h => {
+        const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
+        return `${d} - ${h.home} (${h.homeScore}-${h.awayScore}) ${h.away}`;
+      }).join('\n');
+      h2hContextForAI = `\n[${sourceLabel} 데이터 - 상대전적 ${h2hForAvg.length}경기]\n${aiGameLines}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
+    }
+  } else if (espnInfo?.h2h?.games?.length > 0) {
     // ESPN이 주는 팀명 표기가 TEAM_NAME_MAP의 키(match.home/match.away)와 정확히 일치하지
     // 않는 경우가 있어(WNBA "W" 접미사 등), matchTeam()으로 어느 쪽 팀인지 판별한 뒤
     // 항상 match.home/match.away(canonical 영문명)로 치환한다.
@@ -929,8 +1050,9 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
       .sort((a, b) => new Date(b.date) - new Date(a.date));
 
     // 평균 계산용(h2hForAvg)은 최대 10개까지 넉넉히, 화면 표시용(h2hHistory)은 기존대로 5개만
-    h2hForAvg  = mergedH2h.slice(0, 10);
-    h2hHistory = mergedH2h.slice(0, 5);
+    const dedupedMergedH2h = dedupeMatchList(mergedH2h);
+    h2hForAvg  = dedupedMergedH2h.slice(0, 10);
+    h2hHistory = dedupedMergedH2h.slice(0, 5);
   } else if (kblInfo?.headToHead?.length > 0) {
     // ESPN이 KBL을 커버하지 않으므로, KBL 공식 API로 직접 수집한 상대전적을 그 다음 우선순위로 사용.
     // (겨울 시즌제라 all-fixtures DB만으로는 시즌 초반에 상대전적이 텅 빌 수 있어서 만든 보강 경로)
@@ -955,13 +1077,35 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     const mergedKblH2h = [...sortedKblH2h, ...kblSupplementFromFixtures]
       .sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    h2hForAvg  = mergedKblH2h.slice(0, 10);
-    h2hHistory = mergedKblH2h.slice(0, 5);
+    const dedupedMergedKblH2h = dedupeMatchList(mergedKblH2h);
+    h2hForAvg  = dedupedMergedKblH2h.slice(0, 10);
+    h2hHistory = dedupedMergedKblH2h.slice(0, 5);
   } else {
     // ESPN/KBL H2H가 없으면 all-fixtures 버퍼(최대 10개)를 그대로 평균용으로, 5개만 표시용으로
-    h2hForAvg  = h2hHistory.slice(0, 10);
-    h2hHistory = h2hHistory.slice(0, 5);
+    const dedupedH2hBuffer = dedupeMatchList(h2hHistory);
+    h2hForAvg  = dedupedH2hBuffer.slice(0, 10);
+    h2hHistory = dedupedH2hBuffer.slice(0, 5);
+
+    // footystats로 보충된 경기가 있으면(위 772번째 줄쯤에서 h2hHistory에 이미 반영됨),
+    // AI 프롬프트용 텍스트도 그 최신 h2hHistory 기준으로 다시 만들어서 화면 표시·평균 계산·
+    // AI 서술이 전부 같은 데이터를 보게 한다(ESPN/KBL 있는 두 경로는 이미 자체적으로
+    // h2hContextForAI를 새로 만들므로 이 처리가 필요 없음 — 이 else 경로만 빠져있었음).
+    if (h2hHistory.length > 0) {
+      const aiGameLines = h2hHistory.map(h => {
+        const d = new Date(h.date).toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' }).replace(/\s/g, '').replace(/\.$/, '');
+        const scoreStr = (h.homeScore !== null && h.homeScore !== undefined && h.awayScore !== null && h.awayScore !== undefined)
+          ? `${h.homeScore}-${h.awayScore}` : (h.score || '');
+        return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
+      }).join('\n');
+      h2hContextForAI = `\n[내부 데이터베이스 상대전적 참고]\n${aiGameLines}\nAI는 위 스코어 결과를 바탕으로 양 팀의 공수 밸런스와 상성을 반드시 분석에 반영해라.`;
+    }
   }
+
+  // ⚠️ 최종 안전장치: ESPN/KBL/footystats/masterData 중 어디서 왔든, 병합이 다 끝난
+  // 이 시점에 한 번 더 중복을 걸러낸다. 평균 계산(h2hForAvg)과 화면 표시(h2hHistory)
+  // 둘 다 이 시점 이후에 쓰이므로, 여기서 걸러내면 두 곳 다 안전하다.
+  h2hForAvg  = dedupeMatchList(h2hForAvg);
+  h2hHistory = dedupeMatchList(h2hHistory);
 
   // 시즌 전체 경기 추출 (올해 1월 1일 이후)
   const currentYear = new Date().getFullYear();
@@ -985,6 +1129,11 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
                      (typeof m.homeScore === 'number' && typeof m.awayScore === 'number');
     return isAwayTeam && isPast && isRecentEnough && hasScore;
   }).sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  // ⚠️ H2H와 동일한 이유로 최근폼도 최종 중복제거를 한 번 더 거친다(masterData/KBL/
+  // footystats 등 여러 소스가 병합되면서 같은 경기가 중복될 수 있음).
+  homeRecentMatches = dedupeMatchList(homeRecentMatches);
+  awayRecentMatches = dedupeMatchList(awayRecentMatches);
 
   const homeAllContext = buildRecentForm(homeAllMatches, match.home);
   const awayAllContext = buildRecentForm(awayAllMatches, match.away);
@@ -1144,19 +1293,7 @@ function formatKboLineup(team) {
   return team.lineup.map(b => `${b.order}번 ${b.position} ${b.name}(WAR ${b.war})`).join(', ');
 }
 // fetch-kbo-context.js의 getActiveInjuriesForTeam()이 계산해준, 등재기간 기준
-// "현재도 유효한(=만료 안 된)" 결장자만 대상으로 포맷한다.
-// KBO API는 구체적 부상 부위/사유(예: "근육 염좌")를 제공하지 않으므로,
-// 항목명을 간결한 카테고리로 축약해서 표기한다("부상자 명단"→"부상", "치료·재활명단"→"치료·재활중").
-const KBO_INJURY_CATEGORY_LABEL = {
-  '부상자 명단': '부상',
-  '치료·재활명단': '치료·재활중',
-};
-function formatKboInjuries(list) {
-  if (!list || list.length === 0) return null;
-  return list
-    .map(i => `${i.player}(${KBO_INJURY_CATEGORY_LABEL[i.category] || i.category})`)
-    .join(' | ');
-}
+// "현재도 유효한(=만료 안 된)" 결장자만 대상으로 포맷한다. (표기 규칙은 kbo-common.js에서 공용 관리)
 
 const kboHomePitcherText   = kboInfo?.pitcherRecord ? formatKboPitcher(kboInfo.pitcherRecord.home) : null;
 const kboAwayPitcherText   = kboInfo?.pitcherRecord ? formatKboPitcher(kboInfo.pitcherRecord.away) : null;
