@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "182.5"
 pickOuDirection: "오버"
+homeLineup: "[\"A. Dybantsa (F)|https://a.espncdn.com/i/headshots/nba/players/full/5142718.png\",\"F. Okpara (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105841.png\",\"C. Livingston (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433622.png\",\"W. Riley (G)|https://a.espncdn.com/i/headshots/nba/players/full/5144126.png\",\"R. Beekman (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432187.png\"]"
+awayLineup: "[\"M. Raynaud (C)|https://a.espncdn.com/i/headshots/nba/players/full/4898371.png\",\"D. Cardwell (C)|https://a.espncdn.com/i/headshots/nba/players/full/4433174.png\",\"A. Karaban (F)|https://a.espncdn.com/i/headshots/nba/players/full/4917149.png\",\"D. Acuff Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/5142620.png\",\"N. Clifford (G)|https://a.espncdn.com/i/headshots/nba/players/full/4702384.png\"]"
 ---
