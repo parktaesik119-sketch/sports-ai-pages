@@ -20,7 +20,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { matchTeam } from '../espn-common.js';
 import {
-  searchClub,
+  searchClubWithFallback,
   getClubPage,
   parseClubRecentMatches,
   parseCountrySlug,
@@ -47,14 +47,17 @@ function buildMaps(mapFilePath) {
   const pairs   = [...content.matchAll(/"([^"]+)":\s*"([^"]+)"/g)];
   const koToEn = {};
   const enToKo = {};
+  const koToAllEns = {}; // 한글값이 같은 모든 영문 별칭(예: "쿠오피온 팔로세우라" → ["KuPS","KuPS W"])
   for (const [, en, ko] of pairs) {
     if (!koToEn[ko]) koToEn[ko] = en;
     enToKo[en] = ko;
+    if (!koToAllEns[ko]) koToAllEns[ko] = [];
+    if (!koToAllEns[ko].includes(en)) koToAllEns[ko].push(en);
   }
-  return { koToEn, enToKo };
+  return { koToEn, enToKo, koToAllEns };
 }
 const TEAM_MAP_PATH = path.resolve(__dirname, '../team_name_map.js');
-const { koToEn: KO_TO_EN, enToKo: EN_TO_KO } = buildMaps(TEAM_MAP_PATH);
+const { koToEn: KO_TO_EN, enToKo: EN_TO_KO, koToAllEns: KO_TO_ALL_ENS } = buildMaps(TEAM_MAP_PATH);
 const ALL_MAPPED_EN_NAMES = Object.keys(EN_TO_KO);
 
 // ─────────────────────────────────────────────
@@ -149,12 +152,12 @@ function getTargetPostFiles() {
     .map(f => path.join(POSTS_DIR, f));
 }
 
-async function findClub(teamNameEn) {
+async function findClub(teamNameEn, koName) {
   if (teamCache[teamNameEn]) {
     return teamCache[teamNameEn];
   }
 
-  const results = await searchClub(teamNameEn);
+  const results = await searchClubWithFallback(teamNameEn);
   for (const r of results) {
     if (strictTeamMatch(r.name, teamNameEn)) {
       teamCache[teamNameEn] = r;
@@ -162,14 +165,34 @@ async function findClub(teamNameEn) {
       return r;
     }
   }
+
+  // ⚠️ team_name_map.js에 같은 한글 팀명에 대해 영문 별칭이 여러 개 등록돼 있는 경우가
+  // 113개나 확인됨(예: "쿠오피온 팔로세우라" → ["KuPS","KuPS W"], "나시오날" →
+  // ["Nacional","Club Nacional"]). toEnglishTeamName()이 그중 첫 번째 것만 쓰고
+  // 있어서 나머지가 사장되고 있었는데, 원래 검색이 실패하면 이 별칭들로도 순서대로
+  // 재시도한다(사용자 제안으로 추가, 2026-07).
+  const aliases = (koName && KO_TO_ALL_ENS[koName]) || [];
+  for (const alias of aliases) {
+    if (alias === teamNameEn) continue; // 이미 시도한 것과 같으면 스킵
+    console.log(`   🔁 [팀네임맵 별칭으로 재시도] "${teamNameEn}" → "${alias}"`);
+    const aliasResults = await searchClubWithFallback(alias);
+    for (const r of aliasResults) {
+      if (strictTeamMatch(r.name, alias)) {
+        teamCache[teamNameEn] = r; // 원래 검색어 기준으로도 캐시해서 다음부턴 바로 히트
+        teamCacheDirty = true;
+        return r;
+      }
+    }
+  }
+
   // ⚠️ 예전엔 매칭 실패 시 results[0]으로 폴백했는데, 이게 "England"가
   // "New England Revolution"으로 잘못 매칭되는 등 엉뚱한 팀을 가져오는 원인이었다.
   // 정확히 매칭되는 게 없으면 그냥 실패로 처리한다(느슨하게 아무거나 가져오지 않음).
   return null;
 }
 
-async function collectTeamData(teamNameEn) {
-  const club = await findClub(teamNameEn);
+async function collectTeamData(teamNameEn, koName) {
+  const club = await findClub(teamNameEn, koName);
   if (!club) return null;
 
   const $ = await getClubPage(club.path);
@@ -335,7 +358,7 @@ async function main() {
     console.log(`   필요: h2h(${existingH2h.items?.length ?? '파싱불가'}→${needH2h}) homeRecent(${existingHomeRecent.items?.length ?? '파싱불가'}→${needHomeRecent}) awayRecent(${existingAwayRecent.items?.length ?? '파싱불가'}→${needAwayRecent}) lineup(${needLineup})`);
 
     try {
-      const homeData = await collectTeamData(homeTeamEn);
+      const homeData = await collectTeamData(homeTeamEn, fm.homeTeam);
       if (!homeData) {
         console.log(`   ⚠️ 홈팀 검색 실패: ${homeTeamEn}`);
         skipCount++;
@@ -343,7 +366,7 @@ async function main() {
       }
       console.log(`   ✅ 홈팀 매칭: ${homeData.matchedName} (${homeData.clubPath})`);
 
-      const awayData = await collectTeamData(awayTeamEn);
+      const awayData = await collectTeamData(awayTeamEn, fm.awayTeam);
       if (!awayData) {
         console.log(`   ⚠️ 원정팀 검색 실패: ${awayTeamEn}`);
         skipCount++;

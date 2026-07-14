@@ -9,7 +9,26 @@
 // 필요 패키지: npm install cheerio
 
 import * as cheerio from 'cheerio';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import { deriveFormationFromLineup, DF_POSITIONS, FW_POSITIONS } from '../formation-common.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+// ⚠️ 자동 검색(searchClub) + 자동 폴백(searchClubWithFallback)으로도 못 찾는 팀을 위한
+// 수동 보정 테이블. team_name_map.js에서 이미 검색을 시도했는데도 실패한 팀을 사용자가
+// footystats.org에서 직접 찾아서 이 파일에 등록해두면, 다음부터는 검색 자체를 건너뛰고
+// 바로 그 클럽 페이지로 접근한다 — 가장 확실하고 빠른 방법(2026-07 추가).
+function loadTeamAliases() {
+  try {
+    const raw = fs.readFileSync(path.resolve(__dirname, 'footystats-team-aliases.json'), 'utf-8');
+    return JSON.parse(raw);
+  } catch {
+    return {};
+  }
+}
+const TEAM_ALIASES = loadTeamAliases();
 
 // ─────────────────────────────────────────────
 // 엄격한 팀명 매칭. 기존 matchTeam()(espn-common.js)은 "포함되면 매칭"이라
@@ -121,13 +140,15 @@ async function getHtml(url) {
 // ─────────────────────────────────────────────
 // 1. 팀 검색: POST /search.php (body: searchString={query})
 // ─────────────────────────────────────────────
-export async function searchClub(query) {
-  const html = await proxyFetch('https://footystats.org/search.php', {
+async function searchRaw(query) {
+  return proxyFetch('https://footystats.org/search.php', {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
     body: `searchString=${encodeURIComponent(query)}`,
   });
+}
 
+function parseClubResultsFromHtml(html, query) {
   const $ = cheerio.load(html);
   const results = [];
   $('li > a.cf').each((_, el) => {
@@ -146,6 +167,84 @@ export async function searchClub(query) {
   }
 
   return results;
+}
+
+export async function searchClub(query) {
+  const html = await searchRaw(query);
+  return parseClubResultsFromHtml(html, query);
+}
+
+// h2h-stats 링크 URL에서 실제 팀 슬러그 두 개를 뽑아낸다.
+// 예: '/finland/seinajoen-jalkapallokerho-vs-kuopion-palloseura-h2h-stats'
+//     → ['seinajoen-jalkapallokerho', 'kuopion-palloseura']
+function extractSlugsFromH2hUrls(html) {
+  const slugs = new Set();
+  const matches = html.matchAll(/\/([a-z0-9-]+)-vs-([a-z0-9-]+)-h2h-stats/g);
+  for (const m of matches) {
+    slugs.add(m[1]);
+    slugs.add(m[2]);
+  }
+  return [...slugs];
+}
+
+// "kuopion-palloseura" → "Kuopion Palloseura" (각 단어 첫 글자만 대문자로)
+function humanizeSlug(slug) {
+  return slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+}
+
+// ─────────────────────────────────────────────
+// 검색이 실패했을 때 2단계로 재시도하는 폴백. footystats 자체 검색엔진이 정확한
+// 이름으로도 못 찾는 경우가 실사용에서 두 가지 패턴으로 확인됨(2026-07):
+//
+// 1) 여러 단어 검색어가 막히는 경우 (예: "Flora Tallinn" 실패 → "Flora"는 성공,
+//    footystats엔 "Tallinna FC Flora"로 등록돼있어 단어 순서/조합이 안 맞았던 것)
+//    → 마지막 단어부터 하나씩 줄여가며 재검색
+//
+// 2) 검색어가 정식 명칭이 아니라 약칭이라 아예 안 걸리는 경우 (예: "KuPS" 실패,
+//    footystats엔 "Kuopion Palloseura"로만 등록돼있음)
+//    → 이 경우 검색 결과에 클럽 링크는 없어도 h2h 매치업 링크는 나오는 경우가 있고,
+//      그 URL 안에 진짜 슬러그가 이미 박혀있다. 슬러그를 사람이 읽는 이름으로
+//      바꿔서 재검색하면 찾아진다.
+//
+// 두 폴백 다 실패하면 빈 배열을 반환한다(억지로 아무거나 반환하지 않음).
+// ─────────────────────────────────────────────
+export async function searchClubWithFallback(query) {
+  // 0단계: 수동 보정 테이블에 이미 등록된 팀이면 검색 자체를 생략하고 바로 사용.
+  // name은 원본 검색어(query)와 똑같이 채워서, findClub()의 strictTeamMatch 검증도
+  // 자동으로 통과하게 한다 — 사용자가 직접 확인해서 등록한 거라 재검증이 불필요함.
+  if (TEAM_ALIASES[query]) {
+    console.log(`   📌 [수동 보정 테이블 적용] "${query}" → ${TEAM_ALIASES[query]}`);
+    return [{ name: query, path: TEAM_ALIASES[query] }];
+  }
+
+  const direct = await searchClub(query);
+  if (direct.length > 0) return direct;
+
+  // 1단계: 단어를 하나씩 줄여가며 재검색
+  const words = query.trim().split(/\s+/);
+  for (let n = words.length - 1; n >= 1; n--) {
+    const attempt = words.slice(0, n).join(' ');
+    const results = await searchClub(attempt);
+    if (results.length > 0) {
+      console.log(`   🔁 [검색어 축약 성공] "${query}" → "${attempt}"`);
+      return results;
+    }
+  }
+
+  // 2단계: 원본 검색 결과에 h2h 매치업 링크가 있었다면, 거기서 슬러그를 뽑아
+  // 사람이 읽는 이름으로 변환해서 재검색 (최대 3개 후보까지만 시도해서 요청 수 제한)
+  const rawHtml = await searchRaw(query);
+  const slugCandidates = extractSlugsFromH2hUrls(rawHtml).slice(0, 3);
+  for (const slug of slugCandidates) {
+    const humanized = humanizeSlug(slug);
+    const results = await searchClub(humanized);
+    if (results.length > 0) {
+      console.log(`   🔁 [h2h 링크 슬러그로 재검색 성공] "${query}" → "${humanized}"`);
+      return results;
+    }
+  }
+
+  return [];
 }
 
 // ─────────────────────────────────────────────
