@@ -6,6 +6,7 @@ import Sidebar from '../../../components/Sidebar.astro';
 import { CATEGORY_MAP } from '../../../lib/categories';
 import AdGrid from '../../../components/AdGrid.astro';
 import TEAM_NAME_MAP from '../../../../scripts/team_name_map.js';
+import { sortLineupForPitchView } from '../../../../scripts/formation-common.js';
 
 export async function getStaticPaths() {
   const items = await getCollection('posts');
@@ -143,15 +144,26 @@ let awayRecentItems: any[] = [];
 try { homeRecentItems = JSON.parse(item.data.homeRecent || '[]'); } catch(e) {}
 try { awayRecentItems = JSON.parse(item.data.awayRecent || '[]'); } catch(e) {}
 
-// 라인업
+// 라인업 (원본 순서 — "통합 라인업" 리스트 위젯 등, 순서가 중요하지 않은 곳에 사용)
 let homeLineupItems: string[] = [];
 let awayLineupItems: string[] = [];
 try { homeLineupItems = JSON.parse(item.data.homeLineup || '[]'); } catch(e) {}
 try { awayLineupItems = JSON.parse(item.data.awayLineup || '[]'); } catch(e) {}
 
+// 포메이션 피치뷰(좌표 배치)용: 소스(footystats 등)가 주는 라인업 순서가 GK→DF→MF→
+// WIDE→FW로 깔끔히 정렬돼 있다는 보장이 없어서(윙어가 중간에 섞여 오는 경우가 실사용에서
+// 확인됨), 프론트매터의 homeFormation/homeLineup을 그대로 믿지 않고 렌더링 시점에
+// sortLineupForPitchView()로 직접 재정렬 + 포메이션을 재계산한다. 이렇게 하면 좌표
+// 배치(순서 기반)와 포메이션 라벨이 항상 서로 어긋나지 않는다. 재계산이 실패하면(GK가
+// 1명이 아니거나 포지션 정보가 너무 부실한 경우) 프론트매터 값으로 폴백한다.
+const homePitchView = sortLineupForPitchView(homeLineupItems);
+const awayPitchView = sortLineupForPitchView(awayLineupItems);
+const homePitchLineup = homePitchView.formation ? homePitchView.sortedItems : homeLineupItems;
+const awayPitchLineup = awayPitchView.formation ? awayPitchView.sortedItems : awayLineupItems;
+
 // 포메이션
-const homeFormation = item.data.homeFormation?.trim() || '';
-const awayFormation = item.data.awayFormation?.trim() || '';
+const homeFormation = homePitchView.formation || item.data.homeFormation?.trim() || '';
+const awayFormation = awayPitchView.formation || item.data.awayFormation?.trim() || '';
 const hasFormation  = !!(homeFormation && awayFormation && homeLineupItems.length > 0 && awayLineupItems.length > 0);
 
 const W_SVG = 700, H_SVG = 360;
@@ -367,7 +379,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           <circle cx={W_SVG/2} cy={H_SVG/2} r="4" fill="rgba(255,255,255,0.5)"/>
           <rect x="10" y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
           <rect x={W_SVG-10-W_SVG*0.13} y={H_SVG*0.32} width={W_SVG*0.13} height={H_SVG*0.37} fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.2"/>
-          {homeLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
+          {homePitchLineup.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
   const coord = hCoords[i];
   if (!coord) return null;
   const base = player.split('|')[0];
@@ -382,7 +394,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     </g>
   );
 })())}
-          {awayLineupItems.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
+          {awayPitchLineup.filter((p: string) => !p.startsWith('선발투수') && !p.includes('번 ')).slice(0,11).map((player: string, i: number) => (() => {
   const coord = aCoords[i];
   if (!coord) return null;
   const base = player.split('|')[0];

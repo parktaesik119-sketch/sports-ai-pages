@@ -21,20 +21,31 @@
 // 만들어내지 않는다.
 export const DF_POSITIONS = new Set(['CB', 'LB', 'RB', 'WB', 'LWB', 'RWB', 'DF']);
 export const MF_POSITIONS = new Set(['CDM', 'CAM', 'CM', 'DM', 'AM', 'MF', 'LM', 'RM']);
-export const FW_POSITIONS = new Set(['CF', 'ST', 'LF', 'RF', 'LW', 'RW', 'FW']);
+// FW를 다시 두 그룹으로 나눔: 윙어(측면)와 중앙 공격수.
+// - WIDE_FW: LW, RW, LF, RF → 실제 배치상 스트라이커보다 한 줄 뒤(측면)에 서는 경우가 많음
+// - CENTRAL_FW: CF, ST, FW → 최전방 중앙
+// 이렇게 나눠야 "LW+RW+CF+CF+LW=5명"처럼 서로 다른 역할이 섞였을 때 "3-2-5" 같은
+// 뭉뚱그린 결과 대신 "3-2-3-2"(수비-미드-윙-스트라이커)처럼 실제 배치에 가까운
+// 포메이션 문자열을 만들 수 있다.
+export const WIDE_FW_POSITIONS = new Set(['LW', 'RW', 'LF', 'RF']);
+export const CENTRAL_FW_POSITIONS = new Set(['CF', 'ST', 'FW']);
+// 기존 코드/호출부 호환을 위해 "포지션이 FW 계열인지" 판단할 때는 이 합집합을 그대로 사용.
+export const FW_POSITIONS = new Set([...WIDE_FW_POSITIONS, ...CENTRAL_FW_POSITIONS]);
 
 export function deriveFormationFromLineup(players) {
   if (!players || players.length === 0) return null;
 
-  let gk = 0, df = 0, mf = 0, fw = 0, unknown = 0;
+  let gk = 0, df = 0, mf = 0, fwWide = 0, fwCentral = 0, unknown = 0;
   for (const p of players) {
     const pos = (p.position || '').toUpperCase().trim();
     if (pos === 'GK') gk++;
     else if (DF_POSITIONS.has(pos)) df++;
     else if (MF_POSITIONS.has(pos)) mf++;
-    else if (FW_POSITIONS.has(pos)) fw++;
+    else if (WIDE_FW_POSITIONS.has(pos)) fwWide++;
+    else if (CENTRAL_FW_POSITIONS.has(pos)) fwCentral++;
     else unknown++;
   }
+  let fw = fwWide + fwCentral;
 
   if (gk !== 1) return null;              // GK가 정확히 1명이 아니면 데이터 이상함
   // ⚠️ 일부 선수 포지션이 "-"(정보 없음)로 오는 경우가 실사용에서 확인됨
@@ -47,18 +58,83 @@ export function deriveFormationFromLineup(players) {
   if (df + mf + fw < 9) return null;      // 분류된 필드 플레이어가 너무 적으면 불완전한 라인업
   if (df === 0 || fw === 0) return null;  // 수비/공격이 0명인 포메이션은 있을 수 없음
 
-  // 미드필더가 5명 이상이면 한 줄에 몰아넣지 않고 두 줄(수비형/공격형)로 나눠서
-  // "3-6-1" 대신 "3-3-3-1"처럼 훨씬 자연스러운 포메이션 모양을 만든다. 소스가
-  // CDM/CAM처럼 세부 구분 없이 전부 "CM"으로 뭉뚱그려 줄 때가 많아서, "정확히 누가
-  // 수비형이고 누가 공격형인지"까지는 알 수 없다 — 그래서 정렬된 순서 그대로 절반씩
-  // 나눈다. 실제 배치와 100% 일치한다는 보장은 없지만, 한 줄에 5~6명이 몰려있는 것보다는
-  // 훨씬 자연스러운 모양이 나온다. _slug_.astro의 좌표 생성기가 4구간 포메이션 문자열
-  // ("4-2-3-1" 같은)을 이미 지원하므로 형식만 맞추면 별도 프론트 작업 없이 그려진다.
+  // ✅ _slug_.astro의 좌표 생성기(calcPos/makePosFn)를 직접 확인한 결과, 세그먼트
+  // 개수에 하드코딩된 제한이 없다("4구간까지만 지원"은 잘못된 추측이었음 — 정정).
+  // SVG 좌표를 세그먼트 개수에 맞춰 그때그때 계산하는 구조라 5구간 이상도 문제없이
+  // 그려진다. 그래서 미드필더 분리와 윙/중앙 분리를 동시에 적용해도 된다.
+  return buildFormationString(df, mf, fwWide, fwCentral);
+}
+
+// df/mf/wide/central 개수로부터 최종 포메이션 문자열을 만든다.
+// sortLineupForPitchView()와 이 함수가 "같은 줄 순서"를 만들어야 좌표가 어긋나지
+// 않으므로, 줄 구성 규칙은 반드시 이 함수 하나로만 관리한다.
+function buildFormationString(df, mf, fwWide, fwCentral) {
+  const segments = [df];
+
+  // 미드필더 5명 이상 → 두 줄(수비형/공격형)로 분리. 소스가 CDM/CAM 구분 없이
+  // 전부 "CM"으로 뭉뚱그려 줄 때가 많아 "누가 수비형/공격형인지"까지는 알 수 없어서,
+  // 정렬된 순서 그대로 절반씩 나눈다(원본 배열은 그대로 두므로 sortLineupForPitchView
+  // 쪽에서 재정렬할 필요 없음 — 같은 MF 블록을 숫자로만 둘로 쪼개는 것).
   if (mf >= 5) {
     const deeperMf = Math.floor(mf / 2);
     const advancedMf = mf - deeperMf;
-    return `${df}-${deeperMf}-${advancedMf}-${fw}`;
+    segments.push(deeperMf, advancedMf);
+  } else if (mf > 0) {
+    segments.push(mf);
   }
 
-  return `${df}-${mf}-${fw}`;
+  // 윙어(측면)와 중앙 공격수가 둘 다 있으면 두 줄로: 측면이 앞줄, 중앙이 맨 앞줄.
+  if (fwWide > 0 && fwCentral > 0) {
+    segments.push(fwWide, fwCentral);
+  } else {
+    segments.push(fwWide + fwCentral);
+  }
+
+  return segments.join('-');
+}
+
+// "이름 (POS)|사진url" 형태의 원본 라인업 배열을 받아서
+//  1) GK → DF → MF → WIDE(윙) → FW(중앙) 순서로 재정렬하고
+//  2) 그 순서에 맞는 포메이션 문자열을 같이 계산해서 반환한다.
+// _slug_.astro는 좌표를 "배열 순서" 기준으로 채우므로, 소스(footystats 등)가 준
+// 원본 순서가 뒤섞여 있어도(예: LW-CF-CF-RW-LW) 이 함수를 거치면 항상
+// "수비-미드-윙-중앙공격" 블록 순서로 정렬된 배열 + 그에 맞는 포메이션 문자열이
+// 세트로 나온다. 별도의 사전 정렬 스크립트 없이 렌더링 시점에 바로 계산 가능.
+export function sortLineupForPitchView(lineupItems) {
+  if (!lineupItems || lineupItems.length === 0) {
+    return { sortedItems: [], formation: null };
+  }
+
+  const groups = { gk: [], df: [], mf: [], wide: [], central: [], unknown: [] };
+  for (const item of lineupItems) {
+    const base = item.split('|')[0] || '';
+    const posMatch = base.match(/\(([^)]+)\)/);
+    const pos = (posMatch ? posMatch[1] : '').toUpperCase().trim();
+    if (pos === 'GK') groups.gk.push(item);
+    else if (DF_POSITIONS.has(pos)) groups.df.push(item);
+    else if (MF_POSITIONS.has(pos)) groups.mf.push(item);
+    else if (WIDE_FW_POSITIONS.has(pos)) groups.wide.push(item);
+    else if (CENTRAL_FW_POSITIONS.has(pos)) groups.central.push(item);
+    else groups.unknown.push(item);
+  }
+
+  // 미분류 포지션("-" 등)은 formation 계산과 동일하게 미드필더로 취급해서
+  // MF 블록에 합류시킨다 — 배열 길이와 포메이션 숫자 합이 항상 일치해야 하기 때문.
+  const mfGroup = [...groups.mf, ...groups.unknown];
+
+  const sortedItems = [...groups.gk, ...groups.df, ...mfGroup, ...groups.wide, ...groups.central];
+
+  const gk = groups.gk.length;
+  const df = groups.df.length;
+  const mf = mfGroup.length;
+  const fwWide = groups.wide.length;
+  const fwCentral = groups.central.length;
+  const fw = fwWide + fwCentral;
+
+  let formation = null;
+  if (gk === 1 && df > 0 && fw > 0 && df + mf + fw >= 9) {
+    formation = buildFormationString(df, mf, fwWide, fwCentral);
+  }
+
+  return { sortedItems, formation };
 }
