@@ -105,6 +105,7 @@ function displayUrl(url: string) {
 
 <style>
   .container {
+    box-sizing: border-box;
     display: flex;
     gap: 20px;
     max-width: 1230px;
@@ -116,6 +117,7 @@ function displayUrl(url: string) {
   .content-wrapper {
     flex: 1;
     min-width: 0;
+    box-sizing: border-box;
   }
 
   .top-bar {
@@ -294,6 +296,15 @@ function displayUrl(url: string) {
   @media (max-width: 992px) {
     .container {
       flex-direction: column;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      width: 100%;
+      max-width: none;
+      margin: 10px 0;
+      padding: 0 10px;
     }
   }
 

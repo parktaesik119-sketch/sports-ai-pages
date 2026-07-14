@@ -62,6 +62,7 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
 
 <style>
   .container {
+    box-sizing: border-box;
     display: flex;
     gap: 20px;
     max-width: 1230px;
@@ -73,13 +74,16 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
   .content-wrapper {
     flex: 1;
     min-width: 0;
+    box-sizing: border-box;
   }
 
   .page-title {
     font-size: 1.6rem;
     font-weight: 800;
     margin: 0 0 20px 0;
+    padding-bottom: 14px;
     color: #1a1a1a;
+    border-bottom: 2px solid #eee;
   }
 
   .empty {
@@ -189,6 +193,15 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     }
     .sponsor-grid {
       grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      width: 100%;
+      max-width: none;
+      margin: 10px 0;
+      padding: 0 10px;
     }
   }
 
