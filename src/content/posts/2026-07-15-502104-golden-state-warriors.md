@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "189.5"
 pickOuDirection: "언더"
+homeLineup: "[\"Y. Lendeborg (F)|https://a.espncdn.com/i/headshots/nba/players/full/5175737.png\",\"M. Leons (F)|https://a.espncdn.com/i/headshots/nba/players/full/4897449.png\",\"W. Richard (F)|https://a.espncdn.com/i/headshots/nba/players/full/4897262.png\",\"G. Ike (F)|https://a.espncdn.com/i/headshots/nba/players/full/4703396.png\",\"L. Cryer (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433149.png\"]"
+awayLineup: "[\"L. Lovering (C)|https://a.espncdn.com/i/headshots/nba/players/full/4596528.png\",\"C. Boozer (F)|https://a.espncdn.com/i/headshots/nba/players/full/5041935.png\",\"C. Coward (F)|https://a.espncdn.com/i/headshots/nba/players/full/4903027.png\",\"T. Hendricks (F)|https://a.espncdn.com/i/headshots/nba/players/full/4684806.png\",\"J. Small (G)|https://a.espncdn.com/i/headshots/nba/players/full/4781746.png\"]"
 ---
