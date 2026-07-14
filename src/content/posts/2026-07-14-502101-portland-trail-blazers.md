@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "199.5"
 pickOuDirection: "언더"
+homeLineup: "[\"Y. Hansen (C)|https://a.espncdn.com/i/headshots/nba/players/full/5217746.png\",\"F. Fidler (F)|https://a.espncdn.com/i/headshots/nba/players/full/4897263.png\",\"C. Youngblood (G)|https://a.espncdn.com/i/headshots/nba/players/full/4706557.png\",\"J. Kent (G)|https://a.espncdn.com/i/headshots/nba/players/full/4703889.png\",\"Q. Olivari (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432070.png\"]"
+awayLineup: "[\"R. Zikarsky (C)|https://a.espncdn.com/i/headshots/nba/players/full/5157587.png\",\"I. Evans (F)|https://a.espncdn.com/i/headshots/nba/players/full/5061585.png\",\"E. Freeman (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592699.png\",\"Z. Pullin (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592979.png\",\"D. Williams (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592304.png\"]"
 ---
