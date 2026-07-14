@@ -483,7 +483,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
             </g>
           </svg>
         </span>
-        {translateTeam(homeTeam)} <span class="vs-accent">vs</span> {translateTeam(awayTeam)} 라인업
+        <span class="lineup-header-content"><span class="lineup-header-teams"><span class="mi-line1">{translateTeam(homeTeam)}</span> <span class="mi-line2"><span class="vs-accent">vs</span> {translateTeam(awayTeam)}</span></span> <span class="lineup-header-label">라인업</span></span>
       </h2>
       <div class="lineup-split-body">
         <div class="lineup-split-col">
@@ -614,8 +614,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
               <span class="recent-dot"></span>
               <span class="recent-info">
   {m.link
-    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{m.date}{' '}{translateTeam(m.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</a>
-    : <>{m.date}{' '}{translateTeam(m.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</>
+    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><span class="mi-line1">{m.date}{' '}{translateTeam(m.home)}</span>{' '}<span class="mi-line2"><span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</span></a>
+    : <><span class="mi-line1">{m.date}{' '}{translateTeam(m.home)}</span>{' '}<span class="mi-line2"><span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</span></>
   }
 </span>
               <span class="recent-score">{m.score}</span>
@@ -655,8 +655,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
               <span class="recent-dot"></span>
               <span class="recent-info">
   {m.link
-    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{m.date}{' '}{translateTeam(m.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</a>
-    : <>{m.date}{' '}{translateTeam(m.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</>
+    ? <a href={m.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><span class="mi-line1">{m.date}{' '}{translateTeam(m.home)}</span>{' '}<span class="mi-line2"><span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</span></a>
+    : <><span class="mi-line1">{m.date}{' '}{translateTeam(m.home)}</span>{' '}<span class="mi-line2"><span class="vs-accent">vs</span>{' '}{translateTeam(m.away)}</span></>
   }
 </span>
               <span class="recent-score">{m.score}</span>
@@ -737,8 +737,8 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           {idx > 0 && <hr class="sw-divider" />}
           <div class="recent-row"><span class="recent-dot"></span><span class="recent-info">
   {typeof row === 'object' && row.link
-    ? <a href={row.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{row.date}{' '}{translateTeam(row.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(row.away)}</a>
-    : typeof row === 'object' ? <>{row.date}{' '}{translateTeam(row.home)}{' '}<span class="vs-accent">vs</span>{' '}{translateTeam(row.away)}</> : formatLegacyH2hText(row)
+    ? <a href={row.link} style="color:inherit;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><span class="mi-line1">{row.date}{' '}{translateTeam(row.home)}</span>{' '}<span class="mi-line2"><span class="vs-accent">vs</span>{' '}{translateTeam(row.away)}</span></a>
+    : typeof row === 'object' ? <><span class="mi-line1">{row.date}{' '}{translateTeam(row.home)}</span>{' '}<span class="mi-line2"><span class="vs-accent">vs</span>{' '}{translateTeam(row.away)}</span></> : formatLegacyH2hText(row)
   }
 </span>{typeof row === 'object' && <span class="recent-score">{row.score}</span>}</div>
         </div>
@@ -790,7 +790,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
           </div>
           <div style="margin-left:14px;flex:1;">
             <div style="font-size:0.72rem;color:#868e96;font-weight:600;letter-spacing:0.5px;">예상 스코어</div>
-            <div style="font-size:0.92rem;color:#222;font-weight:700;margin-top:3px;">{translateTeam(homeTeam)} <span class="vs-accent">vs</span> {translateTeam(awayTeam)}</div>
+            <div class="pick-score-value" style="font-size:0.92rem;color:#222;font-weight:700;margin-top:3px;"><span class="mi-line1">{translateTeam(homeTeam)}</span> <span class="mi-line2"><span class="vs-accent">vs</span> {translateTeam(awayTeam)}</span></div>
           </div>
           <div style="font-size:1.15rem;font-weight:800;color:#e67700;">{pickExpectedHome} : {pickExpectedAway}</div>
         </div>
@@ -1233,6 +1233,37 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   .recent-row span { font-size:0.84rem; }
   .pick-team { font-size:0.85rem; }
   .pick-value { font-size:1.05rem; }
+
+  /* vs 기준 두번째 줄로: 최근 경기 / 상대 전적 / 예상 스코어 */
+  .mi-line1, .mi-line2 {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+  }
+  .recent-row { align-items: flex-start; }
+  .recent-row .recent-info { min-width: 0; }
+  .recent-row .recent-dot { margin-top: 6px; }
+  .recent-row .recent-score,
+  .recent-row .recent-result { margin-top: 2px; }
+  .pick-score-value { min-width: 0; }
+
+  /* 라인업 헤더: 팀명 두 줄 + "라인업" 라벨 우측 고정 */
+  .lineup-header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    flex: 1;
+    min-width: 0;
+  }
+  .lineup-header-teams {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .lineup-header-label { flex-shrink: 0; }
 }
 </style>
 
