@@ -225,12 +225,51 @@ function getExistingMatches(raw) {
   return { items: null }; // "["로 시작하는데 파싱이 깨진 경우만 보수적으로 안 건드림
 }
 
+// "26.07.09" (YY.MM.DD, 화면 표시용 포맷) 문자열을 비교 가능한 타임스탬프로 변환
+function parseDisplayDate(d) {
+  const m = String(d || '').match(/^(\d{2})\.(\d{2})\.(\d{2})$/);
+  if (!m) return NaN;
+  return new Date(`20${m[1]}-${m[2]}-${m[3]}T00:00:00Z`).getTime();
+}
+
+// ⚠️ "같은 실제 경기인지"를 날짜+팀명 문자열 정확 일치로만 판단하면, 소스마다
+// 팀명 표기가 다를 때(예: footystats 페이지 실제 표기 "Tallinna FC Flora" vs
+// team_name_map.js 키 "Flora Tallinn" — 단어 순서가 달라 matchTeam도 못 잡는 경우)
+// 번역이 실패해서 영문 그대로 남고, 그러면 기존 한글 항목과 완전히 다른 문자열로
+// 인식되어 같은 경기가 중복으로 추가되는 사고가 난다(실사용 지적으로 확인, 2026-07).
+// 팀명 정규화(team_name_map.js 정비)에만 기대지 않고, 병합 로직 자체에서
+// "±1일 이내 + 스코어 동일(정방향/역방향 둘 다 확인) + 팀명은 한쪽만 맞아도 인정"
+// 이라는 조건으로 같은 경기임을 판정한다 — 축구는 같은 팀이 하루 만에 재매치하는
+// 일이 현실적으로 없으므로 안전한 규칙이다(사용자 제안, 2026-07).
+function isProbablySameMatch(a, b) {
+  const aTime = parseDisplayDate(a.date);
+  const bTime = parseDisplayDate(b.date);
+  if (Number.isNaN(aTime) || Number.isNaN(bTime)) return false;
+  if (Math.abs(aTime - bTime) > 1 * 24 * 60 * 60 * 1000) return false;
+
+  const scoreA = String(a.score || '').trim();
+  const scoreB = String(b.score || '').trim();
+  if (!scoreA || !scoreB) return false;
+  const sameScoreDirect = scoreA === scoreB;
+  const partsA = scoreA.split('-').map(s => s.trim());
+  const partsB = scoreB.split('-').map(s => s.trim());
+  const sameScoreSwapped = partsA.length === 2 && partsB.length === 2
+    && partsA[0] === partsB[1] && partsA[1] === partsB[0];
+  if (!sameScoreDirect && !sameScoreSwapped) return false;
+
+  // 팀명은 한쪽만 맞아도 같은 경기로 인정(양쪽 다 요구하지 않음)
+  const homeMatches = matchTeam(a.home, b.home) || matchTeam(a.home, b.away);
+  const awayMatches = matchTeam(a.away, b.home) || matchTeam(a.away, b.away);
+  return homeMatches || awayMatches;
+}
+
 function supplementMatchList(existingItems, additionalItems, targetCount) {
   const need = targetCount - existingItems.length;
   if (need <= 0) return null;
 
-  const existingKeys = new Set(existingItems.map(m => `${m.date}|${m.home}|${m.away}`));
-  const candidates = additionalItems.filter(m => !existingKeys.has(`${m.date}|${m.home}|${m.away}`));
+  const candidates = additionalItems.filter(m =>
+    !existingItems.some(e => isProbablySameMatch(e, m))
+  );
   candidates.sort((a, b) => (a.date < b.date ? 1 : -1));
   const toAdd = candidates.slice(0, need);
   if (toAdd.length === 0) return null;

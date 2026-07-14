@@ -300,9 +300,30 @@ function hasRealTime(dateStr) {
 //   품질이 가장 정확한 걸로 검증됨).
 // 같은 실제 경기인지 판별(그룹화)은 기존과 동일하게 팀+날짜 근접성(±2일)으로 한다 —
 // footystats 날짜가 ±1일 오차가 있어도 이 범위 안에서 충분히 같은 경기로 인식된다.
-function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam) {
+// ⚠️ team_name_map.js에 정확히 일치하는 키가 없으면(footystats 표기가 team_name_map.js
+// 키와 철자가 미묘하게 다른 경우 등, 예: "St Patricks Athletic" vs "St Patrick's Athl.")
+// matchTeam()으로 가장 비슷한 키를 찾아서 한글로 변환한다. 매칭되는 키가 없으면(진짜로
+// team_name_map.js에 없는 팀) 원문 그대로 둔다 — 깨지는 것보단 원문 표기가 낫다.
+// 이미 한글인 값이 들어와도 안전하다(한글은 어차피 영문 키와 안 겹치니 그대로 통과).
+const ALL_TEAM_NAME_MAP_KEYS = Object.keys(TEAM_NAME_MAP);
+function resolveToKoreanName(name) {
+  if (!name) return name;
+  if (TEAM_NAME_MAP[name]) return TEAM_NAME_MAP[name]; // 정확히 일치하는 영문 키
+  const matched = ALL_TEAM_NAME_MAP_KEYS.find(key => matchTeam(name, key));
+  return matched ? TEAM_NAME_MAP[matched] : name;
+}
+
+function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam, subjectTeam) {
   function normalizeRow(m) {
-    if (!awayTeam) return m; // 최근폼(상대 매번 다름)은 정규화 없이 원본 그대로
+    if (!awayTeam) {
+      // ⚠️ 최근폼(상대 매번 다름)은 소스마다 언어가 다를 수 있다(masterData/AI가 이미
+      // 한글로 써둔 것도 있고, footystats가 방금 영문 그대로 준 것도 있음) — 이걸
+      // 정규화 안 하고 그냥 두면 "플로라 탈린"과 "Tallinna FC Flora"가 전혀 다른
+      // 문자열이라 아래 그룹핑에서 같은 경기로 인식을 못 하고 중복이 발생한다
+      // (실사용 지적으로 확인, 2026-07). 홈/원정 둘 다 한글로 통일해서 언어와
+      // 무관하게 비교되도록 만든다.
+      return { date: m.date, home: resolveToKoreanName(m.home), away: resolveToKoreanName(m.away), homeScore: m.homeScore, awayScore: m.awayScore };
+    }
     const isHome = matchTeam(m.home, homeTeam);
     return { date: m.date, home: isHome ? homeTeam : awayTeam, away: isHome ? awayTeam : homeTeam, homeScore: m.homeScore, awayScore: m.awayScore };
   }
@@ -319,8 +340,27 @@ function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam) {
         if (Number.isNaN(rTime) || Number.isNaN(gTime)) return false;
         if (Math.abs(rTime - gTime) > 2 * 24 * 60 * 60 * 1000) return false;
         if (!awayTeam) {
-          return (matchTeam(row.home, g0.home) && matchTeam(row.away, g0.away)) ||
-                 (matchTeam(row.home, g0.away) && matchTeam(row.away, g0.home));
+          const sameOpponentPair =
+            (matchTeam(row.home, g0.home) && matchTeam(row.away, g0.away)) ||
+            (matchTeam(row.home, g0.away) && matchTeam(row.away, g0.home));
+          if (sameOpponentPair) return true;
+
+          // ⚠️ 한글 변환까지 거쳤는데도(위 normalizeRow) 상대팀 이름이 안 겹치면 —
+          // 표기 차이가 너무 커서 matchTeam도 못 잡는 경우 — 마지막 안전장치로,
+          // 주체팀(subjectTeam)이 두 행 모두에 등장하고 스코어까지 완전히 같으면
+          // 같은 경기로 본다. 이름 매칭 없이 스코어만으로 판단하는 만큼, 위쪽 공통
+          // 날짜범위(±2일)보다 더 엄격하게 ±1일로 좁혀서 오탐 위험을 낮춘다 — 축구는
+          // 같은 팀이 하루 만에 재매치하는 일이 현실적으로 없으므로 안전한 규칙이다
+          // (사용자 제안, 2026-07).
+          if (subjectTeam && Math.abs(rTime - gTime) <= 1 * 24 * 60 * 60 * 1000) {
+            const rowHasSubject = matchTeam(row.home, subjectTeam) || matchTeam(row.away, subjectTeam);
+            const g0HasSubject  = matchTeam(g0.home, subjectTeam)  || matchTeam(g0.away, subjectTeam);
+            const sameScoreEitherOrder =
+              (row.homeScore === g0.homeScore && row.awayScore === g0.awayScore) ||
+              (row.homeScore === g0.awayScore && row.awayScore === g0.homeScore);
+            return rowHasSubject && g0HasSubject && sameScoreEitherOrder;
+          }
+          return false;
         }
         return true;
       });
@@ -542,19 +582,8 @@ async function analyzeMatches() {
     // 원문으로 강제 치환해서 정규화한다.
     //
     // ⚠️ 상대팀 이름도 그냥 두면 안 된다 — 최종 프론트매터 직렬화 단계(TEAM_NAME_MAP[m.home] ||
-    // m.home)가 "정확히 일치하는 키"만 찾기 때문에, footystats 표기가 team_name_map.js의 키와
-    // 철자가 미묘하게 다르면(예: "St Patricks Athletic" vs "St Patrick's Athl.") 그 한쪽만
-    // 한글 번역이 안 되고 영문으로 남아 "한화 이글스 vs St Patricks Athletic"처럼 언어가
-    // 섞여버린다. 그래서 상대팀 이름도 team_name_map.js의 키 중 가장 비슷한 걸로 미리
-    // 치환해둬서, 이후의 정확 일치 조회가 성공하도록 만든다. 매칭되는 키가 없으면(진짜로
-    // team_name_map.js에 없는 팀) 원문 영문 그대로 둔다 — 깨지는 것보단 영문 표기가 낫다.
-    const ALL_TEAM_NAME_MAP_KEYS = Object.keys(TEAM_NAME_MAP);
-    function resolveToKnownTeamName(footystatsName) {
-      if (!footystatsName) return footystatsName;
-      if (TEAM_NAME_MAP[footystatsName]) return footystatsName; // 이미 정확히 일치
-      const matched = ALL_TEAM_NAME_MAP_KEYS.find(key => matchTeam(footystatsName, key));
-      return matched || footystatsName;
-    }
+    // (resolveToKnownTeamName은 모듈 최상단으로 이동됨 — mergeSoccerMatchSources에서도
+    // 재사용하기 위함, 2026-07)
 
     // 최근폼용: 우리 팀은 match.home/away 원문으로, 상대팀은 team_name_map.js 키로 해석.
     function normalizeFootystatsRow(row, teamName) {
@@ -948,7 +977,7 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
         { label: 'espn', list: espnInfo?.recent?.home },
         { label: 'masterData', list: homeRecentMatches },
       ],
-      null, null
+      null, null, resolveToKoreanName(match.home)
     );
     homeRecentMatches = prioritizedHomeRecent.slice(0, 10);
 
@@ -958,7 +987,7 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
         { label: 'espn', list: espnInfo?.recent?.away },
         { label: 'masterData', list: awayRecentMatches },
       ],
-      null, null
+      null, null, resolveToKoreanName(match.away)
     );
     awayRecentMatches = prioritizedAwayRecent.slice(0, 10);
 

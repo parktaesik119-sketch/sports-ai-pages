@@ -171,8 +171,10 @@ function normalize(str) {
   // 발음기호(다이어크리틱)가 있는 문자를 그냥 삭제하면 글자 자체가 없어져서
   // 비교가 깨진다(예: "Žalgiris" -> "algiris"). NFD로 분해해서 결합 발음기호만
   // 떼어내면 "Ž" -> "Z"처럼 기본 알파벳으로 안전하게 변환된다.
-  const stripped = (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-  return stripped.toLowerCase().replace(/[^a-z0-9]/g, '');
+  // ⚠️ NFD 분해는 한글도 자모로 쪼개서 완성형 한글끼리도 다르다고 오판하는 버그가
+  // 있었다(espn-common.js와 동일 이슈, 2026-07) — NFC로 재조합해서 방지.
+  const stripped = (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').normalize('NFC');
+  return stripped.toLowerCase().replace(/[^a-z0-9가-힣]/g, '');
 }
 function normalizeTeamForMatch(str) {
   return normalize(str.replace(/\s+W$/i, ''));
