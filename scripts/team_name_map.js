@@ -1381,6 +1381,7 @@ const TEAM_NAME_MAP = {
   "Lincoln Red Imps FC": "링컨 레드임프스",
   "Inter Club d'Escaldes": "인터 클럽 드 에스칼데스",
   "Sabah FA": "사바 FA",
+  "Sabah FK": "사바 FA",
   "The New Saints": "더 뉴 세인츠 FC",
   "Tre Fiori": "트레 피오리",
   "Vardar Skopje": "FK 바르다르",
