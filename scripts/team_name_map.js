@@ -1392,6 +1392,7 @@ const TEAM_NAME_MAP = {
   "La Fiorita": "라 피오리타",
   "UNA Strassen": "UNA 슈트라센",
   "Flora Tallinn": "플로라 탈린",
+  "Tallinna FC Flora": "플로라 탈린",
   "Kairat Almaty": "카이라트",
   "Sutjeska": "FK수체스카",
   "ML Vitebsk": "ML 비테프스크",
@@ -1474,6 +1475,11 @@ const TEAM_NAME_MAP = {
   "Gandzasar": "간자사르",
   "FC Noah": "FC 노아",
   "Turan": "투란 토브스 IK",
+  "Olimpija Ljubljana": "올림피야 류블랴나",
+  "NK Olimpija Ljubljana": "올림피야 류블랴나",
+  "Arges Pitesti": "FC 아르제슈 피테슈티",
+  "FC Argeș Pitești": "FC 아르제슈 피테슈티",
+  "Mons Calpe": "몬스 칼페",
 
   
   //중국축구
