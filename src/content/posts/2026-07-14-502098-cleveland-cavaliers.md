@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "195.5"
 pickOuDirection: "오버"
+homeLineup: "[\"R. Minix (F)|https://a.espncdn.com/i/headshots/nba/players/full/5177362.png\",\"E. Udeh Jr. (C)|https://a.espncdn.com/i/headshots/nba/players/full/5106261.png\",\"M. Thomas (G)|https://a.espncdn.com/i/headshots/nba/players/full/5041951.png\",\"J. Robinson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4702528.png\",\"M. Branham (G)|https://a.espncdn.com/i/headshots/nba/players/full/4565201.png\"]"
+awayLineup: "[\"V. Goldin (C)|https://a.espncdn.com/i/headshots/nba/players/full/4700818.png\",\"J. Hadley (F)|https://a.espncdn.com/i/headshots/nba/players/full/4702784.png\",\"T. Donaldson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4837356.png\",\"K. Brown (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433254.png\",\"J. Young (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433133.png\"]"
 ---
