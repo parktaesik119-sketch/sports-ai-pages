@@ -1,0 +1,21 @@
+---
+name: "후원사명"
+url: "https://example.com"
+urlLabel: "example.com"
+logo: "/images/sponsors/예시-logo.png"
+banner: "/images/sponsors/예시-banner.png"
+eventName: "이벤트명"
+eventAmount: 100000000
+eventProducts: ["제품1", "제품2"]
+ongoingEvent: "진행중인 이벤트 설명"
+adImage: "/images/sponsors/예시-ad.png"
+order: 1
+active: true
+---
+
+여기부터가 상세 내용(본문)입니다. 마크다운으로 자유롭게 작성하면
+상세페이지의 "상세 내용" 영역에 그대로 렌더링됩니다.
+
+- 회원가입 방법
+- 이벤트 참여 조건
+- 유의사항
