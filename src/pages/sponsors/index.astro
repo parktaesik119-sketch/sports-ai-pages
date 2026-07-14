@@ -25,37 +25,43 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     <Sidebar />
 
     <div class="content-wrapper">
-      <h1 class="page-title">후원업체</h1>
-
-      {sponsors.length === 0 ? (
-        <p class="empty">등록된 후원업체가 없습니다.</p>
-      ) : (
-        <div class="sponsor-grid">
-          {sponsors.map((sponsor) => (
-            <div class="sponsor-card">
-              <a href={`/sponsors/${sponsor.slug}`} class="banner-link">
-                <img src={sponsor.data.banner} alt={sponsor.data.name} class="banner-img" loading="lazy" />
-              </a>
-
-              <div class="info-table">
-                <div class="info-row">
-                  <span class="info-label">제휴사명</span>
-                  <span class="info-value">{sponsor.data.name}</span>
-                </div>
-                <div class="info-row">
-                  <span class="info-label">URL</span>
-                  <span class="info-value">{displayUrl(sponsor)}</span>
-                </div>
-              </div>
-
-              <div class="card-actions">
-                <a href={`/sponsors/${sponsor.slug}`} class="btn btn-detail">상세보기 +</a>
-                <a href={sponsor.data.url} class="btn btn-visit" target="_blank" rel="noopener sponsored">바로가기 ↗</a>
-              </div>
-            </div>
-          ))}
+      <div class="board">
+        <div class="board-header">
+          <span class="board-title"><i class="ti ti-building-store"></i> 후원업체</span>
         </div>
-      )}
+
+        <div class="board-body">
+          {sponsors.length === 0 ? (
+            <p class="empty">등록된 후원업체가 없습니다.</p>
+          ) : (
+            <div class="sponsor-grid">
+              {sponsors.map((sponsor) => (
+                <div class="sponsor-card">
+                  <a href={`/sponsors/${sponsor.slug}`} class="banner-link">
+                    <img src={sponsor.data.banner} alt={sponsor.data.name} class="banner-img" loading="lazy" />
+                  </a>
+
+                  <div class="info-table">
+                    <div class="info-row">
+                      <span class="info-label">제휴사명</span>
+                      <span class="info-value">{sponsor.data.name}</span>
+                    </div>
+                    <div class="info-row">
+                      <span class="info-label">URL</span>
+                      <span class="info-value">{displayUrl(sponsor)}</span>
+                    </div>
+                  </div>
+
+                  <div class="card-actions">
+                    <a href={`/sponsors/${sponsor.slug}`} class="btn btn-detail">상세보기 +</a>
+                    <a href={sponsor.data.url} class="btn btn-visit" target="_blank" rel="noopener sponsored">바로가기 ↗</a>
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      </div>
     </div>
   </div>
 </BaseLayout>
@@ -69,30 +75,74 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     margin: 20px auto;
     padding: 0 10px;
     align-items: flex-start;
+    overflow-x: hidden;
   }
 
   .content-wrapper {
     flex: 1;
     min-width: 0;
+    width: 100%;
     box-sizing: border-box;
   }
 
-  .page-title {
-    font-size: 1.6rem;
-    font-weight: 800;
-    margin: 0 0 20px 0;
-    padding-bottom: 14px;
-    color: #1a1a1a;
-    border-bottom: 2px solid #eee;
+  /* BoardSection.astro와 동일한 톤: 흰 카드 + 얇은 테두리 + 그라데이션 헤더 + hover 리프트 */
+  .board {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid #e1e4e8;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    transition: all 0.2s ease;
+  }
+
+  .board:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  }
+
+  .board-header {
+    padding: 14px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(135deg, #ffffff 0%, #f5f7fa 100%);
+    border-bottom: 1px solid #e1e4e8;
+  }
+
+  .board:hover .board-header {
+    background: linear-gradient(135deg, #f8fafc 0%, #eef3f8 100%);
+  }
+
+  .board-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+    font-size: 17px;
+    font-weight: 600;
+    color: #111;
+  }
+
+  .board-title i {
+    color: #339af0;
+    font-size: 18px;
+  }
+
+  .board-body {
+    padding: 16px;
+    box-sizing: border-box;
   }
 
   .empty {
-    background: #fff;
+    background: #fafafa;
     border-radius: 10px;
-    padding: 40px;
+    padding: 40px 20px;
     text-align: center;
     color: #888;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    margin: 0;
+    box-sizing: border-box;
   }
 
   .sponsor-grid {
@@ -104,10 +154,17 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
   .sponsor-card {
     background: #fff;
     border-radius: 12px;
+    border: 1px solid #e1e4e8;
     overflow: hidden;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     display: flex;
     flex-direction: column;
+    transition: all 0.2s ease;
+  }
+
+  .sponsor-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.08);
   }
 
   .banner-link {
