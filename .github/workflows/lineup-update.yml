@@ -32,14 +32,14 @@ jobs:
       - name: Run UEFA lineup update script
         run: node scripts/uefa-lineup-update.js
 
-      - name: Run footystats test update script
+      - name: Run footystats update script
         run: node scripts/footystats/footystats-lineup-update.js
         continue-on-error: true
         env:
           HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
           HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
 
-      - name: Run lineup update script
+      - name: Run ESPN lineup update script
         run: node scripts/espn-boxscore-update.js
 
       - name: Run KBO lineup update script
