@@ -9,7 +9,7 @@
 // 필요 패키지: npm install cheerio
 
 import * as cheerio from 'cheerio';
-import { deriveFormationFromLineup } from '../formation-common.js';
+import { deriveFormationFromLineup, DF_POSITIONS, FW_POSITIONS } from '../formation-common.js';
 
 // ─────────────────────────────────────────────
 // 엄격한 팀명 매칭. 기존 matchTeam()(espn-common.js)은 "포함되면 매칭"이라

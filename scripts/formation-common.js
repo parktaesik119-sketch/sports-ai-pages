@@ -19,9 +19,9 @@
 // DF/FW가 둘 다 0보다 커야만 신뢰할 수 있는 것으로 보고 결과를 낸다.
 // 이 조건을 못 채우면(포지션 코드 누락 등) null을 반환해서 억지로 틀린 값을
 // 만들어내지 않는다.
-const DF_POSITIONS = new Set(['CB', 'LB', 'RB', 'WB', 'LWB', 'RWB', 'DF']);
-const MF_POSITIONS = new Set(['CDM', 'CAM', 'CM', 'DM', 'AM', 'MF', 'LM', 'RM']);
-const FW_POSITIONS = new Set(['CF', 'ST', 'LF', 'RF', 'LW', 'RW', 'FW']);
+export const DF_POSITIONS = new Set(['CB', 'LB', 'RB', 'WB', 'LWB', 'RWB', 'DF']);
+export const MF_POSITIONS = new Set(['CDM', 'CAM', 'CM', 'DM', 'AM', 'MF', 'LM', 'RM']);
+export const FW_POSITIONS = new Set(['CF', 'ST', 'LF', 'RF', 'LW', 'RW', 'FW']);
 
 export function deriveFormationFromLineup(players) {
   if (!players || players.length === 0) return null;
