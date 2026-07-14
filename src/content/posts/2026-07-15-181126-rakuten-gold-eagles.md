@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Kenta Maeda (2-3, 2.97)|https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg\"]"
+awayLineup: "[\"선발투수 Raiku Katayama (0-0, 3.00)|https://p.npb.jp/players_photo/2026/180/b/049_01505150.jpg\"]"
 ---

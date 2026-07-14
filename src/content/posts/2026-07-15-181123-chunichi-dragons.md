@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Masaki Nakanishi (1-2, 5.06)|https://p.npb.jp/players_photo/2026/180/d/011_51455152.jpg\"]"
+awayLineup: "[\"선발투수 Yuki Kesamaru (0-0, 2.25)|https://p.npb.jp/players_photo/2026/180/t/028_31935150.jpg\"]"
 ---
