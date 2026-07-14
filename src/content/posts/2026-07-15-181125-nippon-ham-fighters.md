@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Takayuki Katoh (9-1, 2.57)|https://p.npb.jp/players_photo/2026/180/f/014_41545132.jpg\"]"
+awayLineup: "[\"선발투수 Jr. Stewart (5-3, 5.17)|https://p.npb.jp/players_photo/2026/180/h/002_53755138.jpg\"]"
 ---
