@@ -70,12 +70,16 @@ export function deriveFormationFromLineup(players) {
 // 않으므로, 줄 구성 규칙은 반드시 이 함수 하나로만 관리한다.
 function buildFormationString(df, mf, fwWide, fwCentral) {
   const segments = [df];
+  const splitFw = fwWide > 0 && fwCentral > 0;
 
-  // 미드필더 5명 이상 → 두 줄(수비형/공격형)로 분리. 소스가 CDM/CAM 구분 없이
-  // 전부 "CM"으로 뭉뚱그려 줄 때가 많아 "누가 수비형/공격형인지"까지는 알 수 없어서,
-  // 정렬된 순서 그대로 절반씩 나눈다(원본 배열은 그대로 두므로 sortLineupForPitchView
-  // 쪽에서 재정렬할 필요 없음 — 같은 MF 블록을 숫자로만 둘로 쪼개는 것).
-  if (mf >= 5) {
+  // 미드필더 5명 이상이면 원래 두 줄(수비형/공격형)로 나눠서 "3-6-1" 대신
+  // "3-3-3-1"처럼 자연스러운 모양을 만드는 게 목적이었다. 하지만 이건 어디까지나
+  // "정렬된 순서를 숫자로만 반 나누는" 추측성 휴리스틱이라, 윙/중앙처럼 실제
+  // 포지션 코드로 확인된 분리가 있을 때는 그쪽을 우선한다. 두 분리를 동시에
+  // 적용하면 "2-2-3-1-2"처럼 부자연스러운 5구간이 나오므로(실사용 확인됨),
+  // splitFw가 참이면 mf는 쪼개지 않고 그대로 한 줄로 낸다. (예: DF2, CM4+CDM1=5,
+  // RW1, CF2 → "2-5-1-2")
+  if (!splitFw && mf >= 5) {
     const deeperMf = Math.floor(mf / 2);
     const advancedMf = mf - deeperMf;
     segments.push(deeperMf, advancedMf);
@@ -84,7 +88,7 @@ function buildFormationString(df, mf, fwWide, fwCentral) {
   }
 
   // 윙어(측면)와 중앙 공격수가 둘 다 있으면 두 줄로: 측면이 앞줄, 중앙이 맨 앞줄.
-  if (fwWide > 0 && fwCentral > 0) {
+  if (splitFw) {
     segments.push(fwWide, fwCentral);
   } else {
     segments.push(fwWide + fwCentral);
