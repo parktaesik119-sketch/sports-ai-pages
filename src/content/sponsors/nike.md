@@ -1,5 +1,6 @@
 ---
 name: "나이키"
+slug: "nike"
 url: "https://nike.com"
 urlLabel: "nike.com"
 logo: "/images/sponsors/nike-logo.png"

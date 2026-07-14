@@ -1,5 +1,6 @@
 ---
 name: "쿠팡"
+slug: "coupang"
 url: "https://coupang.com"
 urlLabel: "coupang.com"
 logo: "/images/sponsors/coupang-logo.png"

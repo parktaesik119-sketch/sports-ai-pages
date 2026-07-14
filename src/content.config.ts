@@ -59,7 +59,33 @@ const notice = defineCollection({
   }),
 });
 
+// 🟣 후원업체
+const sponsors = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/sponsors" }),
+  schema: z.object({
+    // ── 목록/상세 공통 ──────────────────────────────
+    name: z.string(),              // 후원사명 (예: 삼성전자)
+    slug: z.string().optional(),   // URL에 쓸 슬러그 (없으면 파일명 기준 id 사용)
+    url: z.string(),               // https://samsung.com
+    urlLabel: z.string().optional(), // 목록 카드에 보여줄 짧은 도메인 텍스트 (없으면 url에서 자동 추출)
+    logo: z.string().optional().default('/images/sponsor-default-logo.png'),
+    banner: z.string().optional().default('/images/sponsor-default-banner.png'),
+
+    // ── 상세페이지 전용 ─────────────────────────────
+    eventName: z.string().optional(),
+    eventAmount: z.number().optional(),
+    eventProducts: z.array(z.string()).optional(),
+    ongoingEvent: z.string().optional(),
+    adImage: z.string().optional(),
+
+    // ── 노출/정렬 ───────────────────────────────────
+    order: z.number().default(0),
+    active: z.boolean().default(true),
+  }),
+});
+
 export const collections = {
   posts,
   notice,
+  sponsors,
 };

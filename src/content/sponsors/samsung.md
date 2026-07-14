@@ -1,5 +1,6 @@
 ---
 name: "삼성전자"
+slug: "samsung"
 url: "https://samsung.com"
 urlLabel: "samsung.com"
 logo: "/images/sponsors/samsung-logo.png"

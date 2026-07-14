@@ -4,7 +4,12 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 
 const allSponsors = await getCollection('sponsors', ({ data }) => data.active);
-const sponsors = allSponsors.sort((a, b) => a.data.order - b.data.order);
+const sponsors = allSponsors
+  .sort((a, b) => a.data.order - b.data.order)
+  .map((sponsor) => ({
+    ...sponsor,
+    finalSlug: sponsor.data.slug || sponsor.id,
+  }));
 
 function displayUrl(sponsor: (typeof sponsors)[number]) {
   if (sponsor.data.urlLabel) return sponsor.data.urlLabel;
@@ -27,7 +32,7 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     <div class="content-wrapper">
       <div class="board">
         <div class="board-header">
-          <span class="board-title"><i class="ti ti-building-store"></i> 후원업체</span>
+          <span class="board-title"><img src="/icons/company.png" alt="" class="board-icon" /> 후원업체</span>
         </div>
 
         <div class="board-body">
@@ -37,7 +42,7 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
             <div class="sponsor-grid">
               {sponsors.map((sponsor) => (
                 <div class="sponsor-card">
-                  <a href={`/sponsors/${sponsor.slug}`} class="banner-link">
+                  <a href={`/sponsors/${sponsor.finalSlug}`} class="banner-link">
                     <img src={sponsor.data.banner} alt={sponsor.data.name} class="banner-img" loading="lazy" />
                   </a>
 
@@ -53,7 +58,7 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
                   </div>
 
                   <div class="card-actions">
-                    <a href={`/sponsors/${sponsor.slug}`} class="btn btn-detail">상세보기 +</a>
+                    <a href={`/sponsors/${sponsor.finalSlug}`} class="btn btn-detail">상세보기 +</a>
                     <a href={sponsor.data.url} class="btn btn-visit" target="_blank" rel="noopener sponsored">바로가기 ↗</a>
                   </div>
                 </div>
@@ -118,16 +123,18 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
   .board-title {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 10px;
     margin: 0;
-    font-size: 17px;
-    font-weight: 600;
+    font-family: 'A2z', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
     color: #111;
   }
 
-  .board-title i {
-    color: #339af0;
-    font-size: 18px;
+  .board-icon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
   }
 
   .board-body {

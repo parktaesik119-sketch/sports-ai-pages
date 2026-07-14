@@ -1,18 +1,18 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 
 export async function getStaticPaths() {
   const sponsors = await getCollection('sponsors', ({ data }) => data.active);
   return sponsors.map((sponsor) => ({
-    params: { slug: sponsor.slug },
+    params: { slug: sponsor.data.slug || sponsor.id },
     props: { sponsor },
   }));
 }
 
 const { sponsor } = Astro.props;
-const { Content } = await sponsor.render();
+const { Content } = await render(sponsor);
 
 function displayUrl(url: string) {
   try {
