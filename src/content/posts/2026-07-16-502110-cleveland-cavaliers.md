@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "182.5"
 pickOuDirection: "언더"
+homeLineup: "[\"E. Udeh Jr. (C)|https://a.espncdn.com/i/headshots/nba/players/full/5106261.png\",\"R. Minix (F)|https://a.espncdn.com/i/headshots/nba/players/full/5177362.png\",\"X. Lee (G)|https://a.espncdn.com/i/headshots/nba/players/full/5107169.png\",\"J. Robinson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4702528.png\",\"M. Branham (G)|https://a.espncdn.com/i/headshots/nba/players/full/4565201.png\"]"
+awayLineup: "[\"N. Mensah (C)|https://a.espncdn.com/i/headshots/nba/players/full/4397371.png\",\"M. Dia (F)|https://a.espncdn.com/i/headshots/nba/players/full/4712862.png\",\"C. Shumate (F)|https://a.espncdn.com/i/headshots/nba/players/full/4701228.png\",\"D. Daniels Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/5178207.png\",\"M. Council Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/5177301.png\"]"
 ---
