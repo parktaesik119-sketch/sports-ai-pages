@@ -193,22 +193,20 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     z-index: 0;
   }
 
-  /* 카드마다 시작 타이밍을 다르게 줘서 각자 독립적으로 도는 느낌 */
-  .sponsor-card:nth-of-type(3n+2)::before { animation-delay: -1s; }
-  .sponsor-card:nth-of-type(3n+3)::before { animation-delay: -2s; }
+  /* 모든 카드가 같은 타이밍에 동시에 돌도록 delay 없이 통일 */
 
   @keyframes card-glow-rotate {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
 
-  /* 실제 콘텐츠는 3px 마진으로 살짝 띄워서, 그 틈으로 뒤의 빛이 테두리처럼 비치게 함 */
+  /* 실제 콘텐츠는 2px 마진으로 살짝 띄워서, 그 틈으로 뒤의 빛이 얇은 테두리처럼 비치게 함 */
   .card-inner {
     position: relative;
     z-index: 1;
-    margin: 3px;
+    margin: 2px;
     background: #fff;
-    border-radius: 10px;
+    border-radius: 11px;
     border: 1px solid #e1e4e8;
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
