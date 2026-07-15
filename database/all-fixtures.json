@@ -580781,7 +580781,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/1980.png",
     "awayLogo": "https://media.api-sports.io/football/teams/1149.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "502105",
@@ -580793,8 +580793,8 @@
     "away": "Washington Wizards",
     "homeLogo": "https://media.api-sports.io/basketball/teams/136.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/161.png",
-    "homeScore": 44,
-    "awayScore": 43
+    "homeScore": 99,
+    "awayScore": 87
   },
   {
     "id": "502443",
@@ -580806,8 +580806,8 @@
     "away": "Cangrejeros",
     "homeLogo": "https://media.api-sports.io/basketball/teams/6334.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/1644.png",
-    "homeScore": 45,
-    "awayScore": 46
+    "homeScore": 84,
+    "awayScore": 84
   },
   {
     "id": "502444",
@@ -580819,8 +580819,8 @@
     "away": "Leones De Ponce",
     "homeLogo": "https://media.api-sports.io/basketball/teams/957.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/955.png",
-    "homeScore": 35,
-    "awayScore": 45
+    "homeScore": 89,
+    "awayScore": 90
   },
   {
     "id": "179464",
@@ -580846,7 +580846,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/3701.png",
     "awayLogo": "https://media.api-sports.io/football/teams/22266.png",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "1586079",
@@ -580859,7 +580859,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/26064.png",
     "awayLogo": "https://media.api-sports.io/football/teams/21283.png",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "id": "182917",
@@ -580871,7 +580871,7 @@
     "away": "Diablos Rojos",
     "homeLogo": "https://media.api-sports.io/baseball/teams/293.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/287.png",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1
   },
   {
@@ -580884,8 +580884,8 @@
     "away": "Denver Nuggets",
     "homeLogo": "https://media.api-sports.io/basketball/teams/152.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/139.png",
-    "homeScore": 11,
-    "awayScore": 8
+    "homeScore": 79,
+    "awayScore": 85
   },
   {
     "id": "182915",
@@ -580897,8 +580897,8 @@
     "away": "Veracruz",
     "homeLogo": "https://media.api-sports.io/baseball/teams/292.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/457.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "182918",
@@ -580910,8 +580910,8 @@
     "away": "Bravos de Leon",
     "homeLogo": "https://media.api-sports.io/baseball/teams/914.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/844.png",
-    "homeScore": 0,
-    "awayScore": 3
+    "homeScore": 3,
+    "awayScore": 7
   },
   {
     "id": "182920",
@@ -580923,7 +580923,7 @@
     "away": "Yucatan",
     "homeLogo": "https://media.api-sports.io/baseball/teams/291.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/298.png",
-    "homeScore": 0,
+    "homeScore": 5,
     "awayScore": 0
   },
   {
@@ -580936,8 +580936,8 @@
     "away": "Tabasco",
     "homeLogo": "https://media.api-sports.io/baseball/teams/282.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/296.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "182916",
@@ -580949,8 +580949,8 @@
     "away": "Chihuahua",
     "homeLogo": "https://media.api-sports.io/baseball/teams/294.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/809.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "182921",
@@ -580962,8 +580962,8 @@
     "away": "Caliente de Durango",
     "homeLogo": "https://media.api-sports.io/baseball/teams/285.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/933.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 6
   },
   {
     "id": "182923",
@@ -580975,8 +580975,8 @@
     "away": "Jalisco",
     "homeLogo": "https://media.api-sports.io/baseball/teams/281.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/303.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 2
   },
   {
     "id": "182924",
@@ -580988,8 +580988,8 @@
     "away": "Monclova",
     "homeLogo": "https://media.api-sports.io/baseball/teams/289.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/288.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "502107",
@@ -581001,8 +581001,8 @@
     "away": "Los Angeles Clippers",
     "homeLogo": "https://media.api-sports.io/basketball/teams/145.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/144.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 33,
+    "awayScore": 26
   },
   {
     "id": "182919",

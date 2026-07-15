@@ -247,19 +247,6 @@
     "awayScore": 0
   },
   {
-    "id": "1567622",
-    "sport": "soccer",
-    "country": "World",
-    "league": "Friendlies Clubs",
-    "date": "2026-07-14T12:00:00+00:00",
-    "home": "Legia Warszawa II",
-    "away": "Barycz Sułów",
-    "homeLogo": "https://media.api-sports.io/football/teams/6944.png",
-    "awayLogo": "https://media.api-sports.io/football/teams/24785.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "1567624",
     "sport": "soccer",
     "country": "World",
@@ -3039,7 +3026,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/1980.png",
     "awayLogo": "https://media.api-sports.io/football/teams/1149.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "1538384",
@@ -3052,7 +3039,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/3701.png",
     "awayLogo": "https://media.api-sports.io/football/teams/22266.png",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "1586079",
@@ -3065,7 +3052,7 @@
     "homeLogo": "https://media.api-sports.io/football/teams/26064.png",
     "awayLogo": "https://media.api-sports.io/football/teams/21283.png",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "id": "1589260",
@@ -5196,8 +5183,8 @@
     "away": "Washington Wizards",
     "homeLogo": "https://media.api-sports.io/basketball/teams/136.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/161.png",
-    "homeScore": 44,
-    "awayScore": 43
+    "homeScore": 99,
+    "awayScore": 87
   },
   {
     "id": "502443",
@@ -5209,8 +5196,8 @@
     "away": "Cangrejeros",
     "homeLogo": "https://media.api-sports.io/basketball/teams/6334.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/1644.png",
-    "homeScore": 45,
-    "awayScore": 46
+    "homeScore": 84,
+    "awayScore": 84
   },
   {
     "id": "502444",
@@ -5222,8 +5209,8 @@
     "away": "Leones De Ponce",
     "homeLogo": "https://media.api-sports.io/basketball/teams/957.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/955.png",
-    "homeScore": 35,
-    "awayScore": 45
+    "homeScore": 89,
+    "awayScore": 90
   },
   {
     "id": "502106",
@@ -5235,8 +5222,8 @@
     "away": "Denver Nuggets",
     "homeLogo": "https://media.api-sports.io/basketball/teams/152.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/139.png",
-    "homeScore": 11,
-    "awayScore": 8
+    "homeScore": 79,
+    "awayScore": 85
   },
   {
     "id": "502107",
@@ -5248,8 +5235,8 @@
     "away": "Los Angeles Clippers",
     "homeLogo": "https://media.api-sports.io/basketball/teams/145.png",
     "awayLogo": "https://media.api-sports.io/basketball/teams/144.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 33,
+    "awayScore": 26
   },
   {
     "id": "485365",
@@ -5677,7 +5664,7 @@
     "away": "Diablos Rojos",
     "homeLogo": "https://media.api-sports.io/baseball/teams/293.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/287.png",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1
   },
   {
@@ -5690,8 +5677,8 @@
     "away": "Veracruz",
     "homeLogo": "https://media.api-sports.io/baseball/teams/292.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/457.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "182918",
@@ -5703,8 +5690,8 @@
     "away": "Bravos de Leon",
     "homeLogo": "https://media.api-sports.io/baseball/teams/914.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/844.png",
-    "homeScore": 0,
-    "awayScore": 3
+    "homeScore": 3,
+    "awayScore": 7
   },
   {
     "id": "182920",
@@ -5716,7 +5703,7 @@
     "away": "Yucatan",
     "homeLogo": "https://media.api-sports.io/baseball/teams/291.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/298.png",
-    "homeScore": 0,
+    "homeScore": 5,
     "awayScore": 0
   },
   {
@@ -5729,8 +5716,8 @@
     "away": "Tabasco",
     "homeLogo": "https://media.api-sports.io/baseball/teams/282.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/296.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "182916",
@@ -5742,8 +5729,8 @@
     "away": "Chihuahua",
     "homeLogo": "https://media.api-sports.io/baseball/teams/294.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/809.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "182921",
@@ -5755,8 +5742,8 @@
     "away": "Caliente de Durango",
     "homeLogo": "https://media.api-sports.io/baseball/teams/285.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/933.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 6
   },
   {
     "id": "182923",
@@ -5768,8 +5755,8 @@
     "away": "Jalisco",
     "homeLogo": "https://media.api-sports.io/baseball/teams/281.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/303.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 2
   },
   {
     "id": "182924",
@@ -5781,8 +5768,8 @@
     "away": "Monclova",
     "homeLogo": "https://media.api-sports.io/baseball/teams/289.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/288.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "182919",
@@ -8030,84 +8017,6 @@
     "away": "New York Mets",
     "homeLogo": "https://media.api-sports.io/baseball/teams/27.png",
     "awayLogo": "https://media.api-sports.io/baseball/teams/24.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "200880",
-    "sport": "volleyball",
-    "country": "World",
-    "league": "Nations League",
-    "date": "2026-07-16T01:00:00+00:00",
-    "home": "USA",
-    "away": "China",
-    "homeLogo": "https://media.api-sports.io/volley/teams/2211.png",
-    "awayLogo": "https://media.api-sports.io/volley/teams/2212.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "200881",
-    "sport": "volleyball",
-    "country": "World",
-    "league": "Nations League",
-    "date": "2026-07-16T06:30:00+00:00",
-    "home": "Belgium",
-    "away": "Italy",
-    "homeLogo": "https://media.api-sports.io/volley/teams/2246.png",
-    "awayLogo": "https://media.api-sports.io/volley/teams/2204.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "200882",
-    "sport": "volleyball",
-    "country": "World",
-    "league": "Nations League",
-    "date": "2026-07-16T10:20:00+00:00",
-    "home": "Japan",
-    "away": "Canada",
-    "homeLogo": "https://media.api-sports.io/volley/teams/2205.png",
-    "awayLogo": "https://media.api-sports.io/volley/teams/2200.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "200883",
-    "sport": "volleyball",
-    "country": "World",
-    "league": "Nations League",
-    "date": "2026-07-16T14:30:00+00:00",
-    "home": "Iran",
-    "away": "Germany",
-    "homeLogo": "https://media.api-sports.io/volley/teams/2203.png",
-    "awayLogo": "https://media.api-sports.io/volley/teams/2202.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "200884",
-    "sport": "volleyball",
-    "country": "World",
-    "league": "Nations League",
-    "date": "2026-07-16T18:00:00+00:00",
-    "home": "Serbia",
-    "away": "Ukraine",
-    "homeLogo": "https://media.api-sports.io/volley/teams/2209.png",
-    "awayLogo": "https://media.api-sports.io/volley/teams/2278.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "200885",
-    "sport": "volleyball",
-    "country": "World",
-    "league": "Nations League",
-    "date": "2026-07-16T21:00:00+00:00",
-    "home": "China",
-    "away": "France",
-    "homeLogo": "https://media.api-sports.io/volley/teams/2212.png",
-    "awayLogo": "https://media.api-sports.io/volley/teams/2201.png",
     "homeScore": null,
     "awayScore": null
   },
