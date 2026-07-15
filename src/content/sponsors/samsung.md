@@ -2,7 +2,7 @@
 name: "삼성전자"
 url: "https://samsung.com"
 urlLabel: "samsung.com"
-logo: "https://i.imgur.com/ko78PZN.png"
+logo: "https://i.imgur.com/ko78PZN.png"  # 700*550
 banner: "https://i.imgur.com/ko78PZN.png"
 eventName: "삼성전자 공식 홈페이지 회원가입"
 eventAmount: 300000000
@@ -16,16 +16,16 @@ active: true
 
 
 삼성전자 공식 홈페이지에서 회원가입 후 다양한 이벤트에 참여할 수 있습니다.
-<br><br>
+<br>
 - 신규 회원가입 시 즉시 할인 쿠폰 지급
 - 갤럭시 신제품 사전예약 시 사은품 증정
 - 전 제품 20% 할인 (10월 31일까지)
-<br><br><br><br>
+<br><br><br>
 ## 참여 방법
 1. 삼성전자 공식 홈페이지 접속
 2. 회원가입 진행
 3. 이벤트 페이지에서 쿠폰 다운로드
-<br><br><br><br>
+<br><br>
 ## 유의사항
 
 - 이벤트 내용은 삼성전자 사정에 따라 변경될 수 있습니다.
