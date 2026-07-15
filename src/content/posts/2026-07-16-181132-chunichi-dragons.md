@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Yuya Yanagi (4-2, 2.49)|https://p.npb.jp/players_photo/2026/180/d/017_63165134.jpg\"]"
+awayLineup: "[\"선발투수 Takato Ihara (3-0, 3.57)|https://p.npb.jp/players_photo/2026/180/t/018_71375150.jpg\"]"
 ---

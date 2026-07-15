@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Roansy Contreras (0-1, 9.00)|https://p.npb.jp/players_photo/2026/180/e/015_53555152.jpg\"]"
+awayLineup: "[\"선발투수 Hiroshi Suzuki (2-0, 0.72)|https://p.npb.jp/players_photo/2026/180/b/066_61965136.jpg\"]"
 ---
