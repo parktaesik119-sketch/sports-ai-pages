@@ -22,7 +22,7 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
 ---
 
 <BaseLayout
-  title="후원업체 | 픽천국"
+  title="제휴업체 | 픽천국"
   description="픽천국 제휴업체를 소개합니다."
   currentCategory="sponsor"
 >
@@ -32,12 +32,12 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     <div class="content-wrapper">
       <div class="board">
         <div class="board-header">
-          <span class="board-title"><img src="/icons/company.png" alt="" class="board-icon" /> 후원업체</span>
+          <span class="board-title"><img src="/icons/company.png" alt="" class="board-icon" /> 제휴업체</span>
         </div>
 
         <div class="board-body">
           {sponsors.length === 0 ? (
-            <p class="empty">등록된 후원업체가 없습니다.</p>
+            <p class="empty">등록된 제휴업체가 없습니다.</p>
           ) : (
             <div class="sponsor-grid">
               {sponsors.map((sponsor) => (
