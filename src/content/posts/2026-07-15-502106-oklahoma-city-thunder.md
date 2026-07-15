@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "182.5"
 pickOuDirection: "오버"
+homeLineup: "[\"A. Mara (C)|https://a.espncdn.com/i/headshots/nba/players/full/5174983.png\",\"B. Stirtz (G)|https://a.espncdn.com/i/headshots/nba/players/full/5241364.png\",\"J. Dix (G)|https://a.espncdn.com/i/headshots/nba/players/full/5105800.png\",\"B. Barnhizer (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684208.png\",\"B. Boeheim (G)|https://a.espncdn.com/i/headshots/nba/players/full/4395676.png\"]"
+awayLineup: "[\"G. Emejuru (C)|https://a.espncdn.com/i/headshots/nba/players/full/4896939.png\",\"T. Brazile (F)|https://a.espncdn.com/i/headshots/nba/players/full/4698719.png\",\"B. Hopkins (F)|https://a.espncdn.com/i/headshots/nba/players/full/4565698.png\",\"M. Sears (G)|https://a.espncdn.com/i/headshots/nba/players/full/4703530.png\",\"E. Stevenson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4396679.png\"]"
 ---
