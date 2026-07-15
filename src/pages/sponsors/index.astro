@@ -42,7 +42,6 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
             <div class="sponsor-grid">
               {sponsors.map((sponsor) => (
                 <div class="sponsor-card">
-                  <span class="card-beam" aria-hidden="true"></span>
                   <div class="card-inner">
                     <a href={`/sponsors/${sponsor.finalSlug}`} class="banner-link">
                       <img src={sponsor.data.banner} alt={sponsor.data.name} class="banner-img" loading="lazy" />
@@ -164,13 +163,45 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
   .sponsor-card {
     position: relative;
     border-radius: 12px;
-    overflow: visible; /* 빛이 카드 경계선 위를 지나가도록 clip하지 않음 */
+    overflow: hidden; /* 200% 크기로 회전하는 그라데이션을 카드 모양대로 잘라냄 */
   }
 
-  /* 실제 콘텐츠(배너 이미지, 표, 버튼)는 여기서 모서리를 둥글게 자름 */
+  /* 카드 뒤에서 통째로 도는 빛 (사용자가 확인한 conic-gradient 방식) */
+  .sponsor-card::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: conic-gradient(
+      from 0deg,
+      #339af0 0deg,
+      rgba(51, 154, 240, 0.5) 60deg,
+      rgba(51, 154, 240, 0.1) 120deg,
+      transparent 180deg,
+      transparent 360deg
+    );
+    animation: card-glow-rotate 3s linear infinite;
+    z-index: 0;
+  }
+
+  /* 카드마다 시작 타이밍을 다르게 줘서 각자 독립적으로 도는 느낌 */
+  .sponsor-card:nth-of-type(3n+2)::before { animation-delay: -1s; }
+  .sponsor-card:nth-of-type(3n+3)::before { animation-delay: -2s; }
+
+  @keyframes card-glow-rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  /* 실제 콘텐츠는 3px 마진으로 살짝 띄워서, 그 틈으로 뒤의 빛이 테두리처럼 비치게 함 */
   .card-inner {
+    position: relative;
+    z-index: 1;
+    margin: 3px;
     background: #fff;
-    border-radius: 12px;
+    border-radius: 10px;
     border: 1px solid #e1e4e8;
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
@@ -182,34 +213,6 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
   .sponsor-card:hover .card-inner {
     transform: translateY(-2px);
     box-shadow: 0 8px 16px rgba(0,0,0,0.08);
-  }
-
-  /* 카드 테두리를 따라 시계방향으로 도는 빛 조각 */
-  .card-beam {
-    position: absolute;
-    inset: 0;
-    width: 46px;
-    height: 4px;
-    border-radius: 4px;
-    background: linear-gradient(90deg, transparent, #339af0 45%, #7dd3fc 55%, transparent);
-    box-shadow: 0 0 8px 1px rgba(51, 154, 240, 0.7);
-    offset-path: inset(0 round 12px);
-    offset-distance: 0%;
-    offset-rotate: auto;
-    animation: card-beam-travel 4.5s linear infinite;
-    pointer-events: none;
-    z-index: 2;
-  }
-
-  /* 카드마다 시작 타이밍을 다르게 줘서 각자 독립적으로 움직이는 느낌 */
-  .sponsor-card:nth-of-type(3n+1) .card-beam { animation-delay: 0s; }
-  .sponsor-card:nth-of-type(3n+2) .card-beam { animation-delay: -1.5s; }
-  .sponsor-card:nth-of-type(3n+3) .card-beam { animation-delay: -3s; }
-
-  @keyframes card-beam-travel {
-    to {
-      offset-distance: 100%;
-    }
   }
 
   .banner-link {
