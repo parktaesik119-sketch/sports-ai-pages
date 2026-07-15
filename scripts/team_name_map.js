@@ -1520,6 +1520,7 @@ const TEAM_NAME_MAP = {
   "LNZ Cherkasy": "하이두크 스플리트",
   "Rodange 91": "FC 로당주 91",
   "Racing FC Union Luxembourg": "라싱FC 유니온 룩셈부르크",
+  "Jeunesse Canach": "죄네스 카나흐",
 
   
   //중국축구
