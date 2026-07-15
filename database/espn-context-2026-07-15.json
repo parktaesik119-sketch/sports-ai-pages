@@ -373,7 +373,7 @@
     },
     "standings": {
       "home": {
-        "rank": "20",
+        "rank": "19",
         "wins": "1",
         "losses": "2",
         "ties": null,
@@ -383,7 +383,7 @@
         "pointsAgainst": "275"
       },
       "away": {
-        "rank": "22",
+        "rank": "21",
         "wins": "1",
         "losses": "2",
         "ties": null,
@@ -504,7 +504,7 @@
     },
     "standings": {
       "home": {
-        "rank": "17",
+        "rank": "16",
         "wins": "1",
         "losses": "2",
         "ties": null,
@@ -576,7 +576,7 @@
     },
     "standings": {
       "home": {
-        "rank": "18",
+        "rank": "17",
         "wins": "1",
         "losses": "2",
         "ties": null,
@@ -1311,7 +1311,7 @@
         "pointsAgainst": "304"
       },
       "away": {
-        "rank": "23",
+        "rank": "22",
         "wins": "1",
         "losses": "2",
         "ties": null,
@@ -1373,7 +1373,7 @@
     },
     "standings": {
       "home": {
-        "rank": "20",
+        "rank": "19",
         "wins": "1",
         "losses": "2",
         "ties": null,
@@ -1409,7 +1409,7 @@
     },
     "standings": {
       "home": {
-        "rank": "21",
+        "rank": "20",
         "wins": "1",
         "losses": "2",
         "ties": null,
@@ -1445,7 +1445,7 @@
     },
     "standings": {
       "home": {
-        "rank": "19",
+        "rank": "18",
         "wins": "1",
         "losses": "2",
         "ties": null,
@@ -2323,358 +2323,6 @@
         }
       ]
     }
-  },
-  {
-    "home": "Indiana Fever W",
-    "away": "Golden State Valkyries W",
-    "date": "2026-07-16T00:00:00+00:00",
-    "league": "NBA W",
-    "sport": "basketball",
-    "espnSport": "wnba",
-    "gameId": "401857070",
-    "injuries": {
-      "home": [
-        {
-          "name": "Caitlin Clark",
-          "status": "Day-To-Day",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Gabby Williams",
-          "status": "Day-To-Day",
-          "detail": "Bruise"
-        },
-        {
-          "name": "Iliana Rupert",
-          "status": "Out",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "1",
-        "wins": "14",
-        "losses": "9",
-        "ties": null,
-        "winPercent": ".609",
-        "gamesBehind": "-",
-        "pointsFor": "2162",
-        "pointsAgainst": "2048"
-      },
-      "away": {
-        "rank": "3",
-        "wins": "17",
-        "losses": "7",
-        "ties": null,
-        "winPercent": ".708",
-        "gamesBehind": "1",
-        "pointsFor": "1967",
-        "pointsAgainst": "1828"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "Series tied 1-1",
-      "totalGames": 2,
-      "games": [
-        {
-          "date": "2026-05-22T23:30:00Z",
-          "home": "Indiana Fever",
-          "away": "Golden State Valkyries",
-          "homeScore": 90,
-          "awayScore": 82,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-05-29T02:00:00Z",
-          "home": "Golden State Valkyries",
-          "away": "Indiana Fever",
-          "homeScore": 90,
-          "awayScore": 88,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Sacramento Kings",
-    "away": "Boston Celtics",
-    "date": "2026-07-16T00:00:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881870",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "28",
-        "wins": "1",
-        "losses": "2",
-        "ties": null,
-        "winPercent": ".333",
-        "gamesBehind": null,
-        "pointsFor": "259",
-        "pointsAgainst": "304"
-      },
-      "away": {
-        "rank": "9",
-        "wins": "2",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".667",
-        "gamesBehind": null,
-        "pointsFor": "260",
-        "pointsAgainst": "257"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "San Antonio Spurs",
-    "away": "Utah Jazz",
-    "date": "2026-07-16T01:30:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881871",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "14",
-        "wins": "2",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".667",
-        "gamesBehind": null,
-        "pointsFor": "226",
-        "pointsAgainst": "222"
-      },
-      "away": {
-        "rank": "17",
-        "wins": "1",
-        "losses": "2",
-        "ties": null,
-        "winPercent": ".333",
-        "gamesBehind": null,
-        "pointsFor": "250",
-        "pointsAgainst": "259"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Oklahoma City Thunder",
-    "away": "Dallas Mavericks",
-    "date": "2026-07-16T20:00:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881873",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "30",
-        "wins": "0",
-        "losses": "3",
-        "ties": null,
-        "winPercent": ".000",
-        "gamesBehind": null,
-        "pointsFor": "266",
-        "pointsAgainst": "306"
-      },
-      "away": {
-        "rank": "27",
-        "wins": "1",
-        "losses": "2",
-        "ties": null,
-        "winPercent": ".333",
-        "gamesBehind": null,
-        "pointsFor": "256",
-        "pointsAgainst": "280"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Houston Rockets",
-    "away": "Brooklyn Nets",
-    "date": "2026-07-16T20:30:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881874",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "4",
-        "wins": "2",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".667",
-        "gamesBehind": null,
-        "pointsFor": "276",
-        "pointsAgainst": "252"
-      },
-      "away": {
-        "rank": "3",
-        "wins": "2",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".667",
-        "gamesBehind": null,
-        "pointsFor": "282",
-        "pointsAgainst": "231"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Chicago Bulls",
-    "away": "Los Angeles Lakers",
-    "date": "2026-07-16T22:00:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881875",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "24",
-        "wins": "1",
-        "losses": "2",
-        "ties": null,
-        "winPercent": ".333",
-        "gamesBehind": null,
-        "pointsFor": "258",
-        "pointsAgainst": "264"
-      },
-      "away": {
-        "rank": "2",
-        "wins": "2",
-        "losses": "0",
-        "ties": null,
-        "winPercent": "1.000",
-        "gamesBehind": null,
-        "pointsFor": "187",
-        "pointsAgainst": "154"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Washington Mystics W",
-    "away": "Portland Fire W",
-    "date": "2026-07-16T23:00:00+00:00",
-    "league": "NBA W",
-    "sport": "basketball",
-    "espnSport": "wnba",
-    "gameId": "401857071",
-    "injuries": {
-      "home": [],
-      "away": [
-        {
-          "name": "Jordan Harrison",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Sania Feagin",
-          "status": "Out",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "3",
-        "wins": "12",
-        "losses": "10",
-        "ties": null,
-        "winPercent": ".545",
-        "gamesBehind": "1.5",
-        "pointsFor": "1785",
-        "pointsAgainst": "1831"
-      },
-      "away": {
-        "rank": "6",
-        "wins": "10",
-        "losses": "14",
-        "ties": null,
-        "winPercent": ".417",
-        "gamesBehind": "8",
-        "pointsFor": "2039",
-        "pointsAgainst": "2188"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "WSH leads series 1-0",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-06-28T19:00:00Z",
-          "home": "Washington Mystics",
-          "away": "Portland Fire",
-          "homeScore": 124,
-          "awayScore": 123,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "New York Knicks",
-    "away": "Golden State Warriors",
-    "date": "2026-07-16T23:00:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881876",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "26",
-        "wins": "1",
-        "losses": "2",
-        "ties": null,
-        "winPercent": ".333",
-        "gamesBehind": null,
-        "pointsFor": "200",
-        "pointsAgainst": "236"
-      },
-      "away": {
-        "rank": "6",
-        "wins": "2",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".667",
-        "gamesBehind": null,
-        "pointsFor": "290",
-        "pointsAgainst": "275"
-      }
-    },
-    "h2h": null
   },
   {
     "home": "Philadelphia Phillies",
