@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "198.5"
 pickOuDirection: "언더"
+homeLineup: "[\"R. Zikarsky (C)|https://a.espncdn.com/i/headshots/nba/players/full/5157587.png\",\"I. Evans (F)|https://a.espncdn.com/i/headshots/nba/players/full/5061585.png\",\"E. Freeman (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592699.png\",\"N. Santos (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433585.png\",\"Z. Pullin (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592979.png\"]"
+awayLineup: "[\"K. Keita (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105647.png\",\"K. Brooks Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4431689.png\",\"J. Slawson (F)|https://a.espncdn.com/i/headshots/nba/players/full/4398207.png\",\"B. Smith (G)|https://a.espncdn.com/i/headshots/nba/players/full/5105854.png\",\"T. Peter (G)|https://a.espncdn.com/i/headshots/nba/players/full/4703421.png\"]"
 ---
