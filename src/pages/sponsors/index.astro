@@ -92,6 +92,13 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     box-sizing: border-box;
   }
 
+  :global(.sidebar) {
+    width: 280px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 20px;
+  }
+
   /* BoardSection.astro와 동일한 톤: 흰 카드 + 얇은 테두리 + 그라데이션 헤더 + hover 리프트 */
   .board {
     width: 100%;
@@ -295,6 +302,10 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
   @media (max-width: 992px) {
     .container {
       flex-direction: column;
+    }
+    :global(.sidebar) {
+      width: 100%;
+      position: static;
     }
     .sponsor-grid {
       grid-template-columns: repeat(2, 1fr);
