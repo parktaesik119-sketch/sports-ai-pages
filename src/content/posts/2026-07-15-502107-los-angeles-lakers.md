@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "191.5"
 pickOuDirection: "언더"
+homeLineup: "[\"A. Thiero (F)|https://a.espncdn.com/i/headshots/nba/players/full/5060631.png\",\"A. Watson (F)|https://a.espncdn.com/i/headshots/nba/players/full/4431705.png\",\"C. Carr (G)|https://a.espncdn.com/i/headshots/nba/players/full/5113969.png\",\"W. Hickey (G)|https://a.espncdn.com/i/headshots/nba/players/full/5090847.png\",\"C. Manon (G)|https://a.espncdn.com/i/headshots/nba/players/full/4702972.png\"]"
+awayLineup: "[\"B. Miller (F)|https://a.espncdn.com/i/headshots/nba/players/full/5075626.png\",\"N. Omier (F)|https://a.espncdn.com/i/headshots/nba/players/full/4702134.png\",\"K. Wagler (G)|https://a.espncdn.com/i/headshots/nba/players/full/5254165.png\",\"R. Kugel (G)|https://a.espncdn.com/i/headshots/nba/players/full/5105529.png\",\"K. Sanders (G)|https://a.espncdn.com/i/headshots/nba/players/full/4702352.png\"]"
 ---
