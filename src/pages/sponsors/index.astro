@@ -42,24 +42,27 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
             <div class="sponsor-grid">
               {sponsors.map((sponsor) => (
                 <div class="sponsor-card">
-                  <a href={`/sponsors/${sponsor.finalSlug}`} class="banner-link">
-                    <img src={sponsor.data.banner} alt={sponsor.data.name} class="banner-img" loading="lazy" />
-                  </a>
+                  <span class="card-beam" aria-hidden="true"></span>
+                  <div class="card-inner">
+                    <a href={`/sponsors/${sponsor.finalSlug}`} class="banner-link">
+                      <img src={sponsor.data.banner} alt={sponsor.data.name} class="banner-img" loading="lazy" />
+                    </a>
 
-                  <div class="info-table">
-                    <div class="info-row">
-                      <span class="info-label">제휴사명</span>
-                      <span class="info-value">{sponsor.data.name}</span>
+                    <div class="info-table">
+                      <div class="info-row">
+                        <span class="info-label">제휴사명</span>
+                        <span class="info-value">{sponsor.data.name}</span>
+                      </div>
+                      <div class="info-row">
+                        <span class="info-label">URL</span>
+                        <span class="info-value">{displayUrl(sponsor)}</span>
+                      </div>
                     </div>
-                    <div class="info-row">
-                      <span class="info-label">URL</span>
-                      <span class="info-value">{displayUrl(sponsor)}</span>
-                    </div>
-                  </div>
 
-                  <div class="card-actions">
-                    <a href={`/sponsors/${sponsor.finalSlug}`} class="btn btn-detail">상세보기 +</a>
-                    <a href={sponsor.data.url} class="btn btn-visit" target="_blank" rel="noopener sponsored">바로가기 ↗</a>
+                    <div class="card-actions">
+                      <a href={`/sponsors/${sponsor.finalSlug}`} class="btn btn-detail">상세보기 +</a>
+                      <a href={sponsor.data.url} class="btn btn-visit" target="_blank" rel="noopener sponsored">바로가기 ↗</a>
+                    </div>
                   </div>
                 </div>
               ))}
@@ -159,6 +162,13 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
   }
 
   .sponsor-card {
+    position: relative;
+    border-radius: 12px;
+    overflow: visible; /* 빛이 카드 경계선 위를 지나가도록 clip하지 않음 */
+  }
+
+  /* 실제 콘텐츠(배너 이미지, 표, 버튼)는 여기서 모서리를 둥글게 자름 */
+  .card-inner {
     background: #fff;
     border-radius: 12px;
     border: 1px solid #e1e4e8;
@@ -166,12 +176,40 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     display: flex;
     flex-direction: column;
-    transition: all 0.2s ease;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
   }
 
-  .sponsor-card:hover {
+  .sponsor-card:hover .card-inner {
     transform: translateY(-2px);
     box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+  }
+
+  /* 카드 테두리를 따라 시계방향으로 도는 빛 조각 */
+  .card-beam {
+    position: absolute;
+    inset: 0;
+    width: 46px;
+    height: 4px;
+    border-radius: 4px;
+    background: linear-gradient(90deg, transparent, #339af0 45%, #7dd3fc 55%, transparent);
+    box-shadow: 0 0 8px 1px rgba(51, 154, 240, 0.7);
+    offset-path: inset(0 round 12px);
+    offset-distance: 0%;
+    offset-rotate: auto;
+    animation: card-beam-travel 4.5s linear infinite;
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  /* 카드마다 시작 타이밍을 다르게 줘서 각자 독립적으로 움직이는 느낌 */
+  .sponsor-card:nth-of-type(3n+1) .card-beam { animation-delay: 0s; }
+  .sponsor-card:nth-of-type(3n+2) .card-beam { animation-delay: -1.5s; }
+  .sponsor-card:nth-of-type(3n+3) .card-beam { animation-delay: -3s; }
+
+  @keyframes card-beam-travel {
+    to {
+      offset-distance: 100%;
+    }
   }
 
   .banner-link {
