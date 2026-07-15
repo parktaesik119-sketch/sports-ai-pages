@@ -24,8 +24,8 @@ function displayUrl(url: string) {
 ---
 
 <BaseLayout
-  title={`${sponsor.data.name} | 후원업체 | 픽천국`}
-  description={`픽천국 후원업체 - ${sponsor.data.name}`}
+  title={`${sponsor.data.name} | 제휴업체 | 픽천국`}
+  description={`픽천국 제휴업체 - ${sponsor.data.name}`}
   currentCategory="sponsor"
 >
   <div class="container">
@@ -33,7 +33,7 @@ function displayUrl(url: string) {
 
     <div class="content-wrapper">
       <div class="top-bar">
-        <span class="crumb">후원업체</span>
+        <span class="crumb">제휴업체</span>
         <a href="/sponsors" class="list-btn">목록</a>
       </div>
 
@@ -45,7 +45,7 @@ function displayUrl(url: string) {
 
           <div class="info-table">
             <div class="info-row">
-              <span class="info-label">후원사명</span>
+              <span class="info-label">제휴사명</span>
               <span class="info-value">{sponsor.data.name}</span>
             </div>
             <div class="info-row">
@@ -58,19 +58,19 @@ function displayUrl(url: string) {
             </div>
             {sponsor.data.eventName && (
               <div class="info-row">
-                <span class="info-label">이벤트명</span>
-                <span class="info-value">{sponsor.data.eventName}</span>
+                <span class="info-label">가입코드</span>
+                <span class="info-value event-name">{sponsor.data.eventName}</span>
               </div>
-            )}
+            )}            
             {sponsor.data.eventAmount != null && (
               <div class="info-row">
-                <span class="info-label">총 이벤트 금액</span>
+                <span class="info-label">승인전화|가입코드</span>
                 <span class="info-value">{sponsor.data.eventAmount.toLocaleString('ko-KR')}</span>
               </div>
             )}
             {sponsor.data.eventProducts?.length ? (
               <div class="info-row">
-                <span class="info-label">이벤트 제품</span>
+                <span class="info-label">게임종류</span>
                 <span class="info-value chips">
                   {sponsor.data.eventProducts.map((p) => <span class="chip">{p}</span>)}
                 </span>
@@ -259,6 +259,11 @@ function displayUrl(url: string) {
     color: #333;
   }
 
+  .event-name {
+   color: #d9333f; /* 다홍색 */
+   font-weight: 700;
+  }
+
   .url-link {
     color: #3b82f6;
     text-decoration: none;
@@ -312,7 +317,7 @@ function displayUrl(url: string) {
   }
 
   .detail-content {
-    padding: 24px 40px 40px;
+    padding: 24px 44px 40px; /*본문 여백 조정. 가운데 px을 키우면 좌우 여백이 늘어남*/
     font-size: 17px;    /*본문 폰트 사이즈*/
     line-height: 1.8;
     color: #2d2d2d;
