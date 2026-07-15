@@ -1,0 +1,31 @@
+---
+title: "우니베르시타테아 클루지 vs 디나모 키예프 경기분석·라인업·결장자·통계·승부예측 (7월 17일) | UEFA 유로파리그 - 픽천국"
+date: 2026-07-16T17:30:00+00:00
+description: "우니베르시타테아 클루지 vs 디나모 키예프 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1554450-2026-07-17-universitatea-cluj"
+category: "soccer"
+country: "국제"
+league: "UEFA 유로파리그"
+homeTeam: "우니베르시타테아 클루지"
+awayTeam: "디나모 키예프"
+homeLogo: "https://media.api-sports.io/football/teams/2599.png"
+awayLogo: "https://media.api-sports.io/football/teams/572.png"
+homeAnalysis: "우니베르시타테아 클루지는 이번 UEFA 유로파리그에서 최근 8경기 0승 5무 3패, 평균 득점 0.3으로 공격 전개가 매우 답답한 흐름입니다. 최근 경기에서도 디나모 키예프와의 원정에서 0대0으로 버티긴 했지만, 전체적으로는 득점 생산이 적고 경기를 풀어가는 힘이 부족한 모습이 이어지고 있습니다. 홈에서는 수비적으로 버티는 장면이 자주 나오지만, 결정적인 한 방이 부족해 승부를 끝내지 못하는 장면이 많습니다. 그럼에도 최근 흐름만 놓고 보면 실점 억제는 어느 정도 가능했고, 상대를 쉽게 무너뜨리지는 않는 전력이 보입니다. 다만 공격의 마무리 완성도가 낮아 선제 득점을 만들지 못하면 흐름이 길게 답답해질 가능성이 큽니다."
+awayAnalysis: "디나모 키예프는 이번 UEFA 유로파리그에서 최근 13경기 8승 3무 2패, 평균 득점 2.5로 매우 높은 화력을 바탕으로 우위를 만들어 가고 있습니다. 최근 경기에서도 라도미아크 라돔을 상대로 4득점을 기록하며 공격 효율이 살아 있고, 여러 경기에서 득점이 끊기지 않는 점이 강점입니다. 다만 우니베르시타테아 클루지와의 맞대결에서는 0대0으로 막히며 상대의 밀집 수비를 완전히 흔들지는 못했습니다. 그래도 전체적인 전력 균형과 경기 운영 면에서는 원정에서도 주도권을 잡을 수 있는 힘이 충분해 보입니다. 실점 관리가 조금만 안정되면 경기 흐름을 끝까지 가져가는 장면이 기대됩니다."
+homePower: "득점 침묵이 길어도 수비 집중력은 유지되는 편임|상대 압박에 흔들려도 무너지지 않는 버티기 전력임|선제 실점 전까지 경기 균형을 지키는 힘이 있음|마무리 한 끗이 부족해 승부 전환이 더딘 편임|저득점 흐름에선 의외의 변수가 생길 여지 있음"
+awayPower: "강한 득점 생산으로 경기 주도권을 잡는 전력임|멀티 득점 패턴이 자주 나오는 화력형 팀임|원정에서도 공격 템포가 크게 떨어지지 않음|최근 맞대결 무득점은 상성 점검 포인트로 보임|경기 운영 완성도까지 더해지면 우세가 굳어짐"
+h2h: '[{"date":"26.07.10","home":"디나모 키예프","away":"우니베르시타테아 클루지","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1554442-2026-07-10-dynamo-kyiv/"}]'
+summary: "우니베르시타테아 클루지는 이번 UEFA 유로파리그에서 득점이 매우 적고 승리 전환이 쉽지 않은 흐름이 이어지고 있어, 경기 내내 안정적으로 버티는 운영이 중요해 보입니다. 반면 디나모 키예프는 높은 득점력과 꾸준한 공격 전개를 바탕으로 전체 전력에서 한 수 위의 모습을 보여주고 있습니다. 직전 맞대결이 0대0으로 끝나며 우니베르시타테아 클루지가 수비적으로는 버틸 수 있다는 점이 확인되었지만, 전체 시즌 흐름까지 함께 보면 디나모 키예프가 경기 주도권을 가져갈 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.07.10","home":"디나모 키예프","away":"우니베르시타테아 클루지","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554442-2026-07-10-dynamo-kyiv/"},{"date":"26.07.03","home":"우니베르시타테아 클루지","away":"Nyiregyhaza","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1550508-2026-07-03-universitatea-cluj/"},{"date":"26.06.28","home":"Ujpest","away":"우니베르시타테아 클루지","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1548718-2026-06-28-ujpest/"}]'
+awayRecent: '[{"date":"26.07.10","home":"라도미아크 라돔","away":"디나모 키예프","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1567578-2026-07-10-radomiak-radom/"},{"date":"26.07.10","home":"디나모 키예프","away":"우니베르시타테아 클루지","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554442-2026-07-10-dynamo-kyiv/"},{"date":"26.07.04","home":"디나모 키예프","away":"라스크 린츠","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1554636-2026-07-04-dynamo-kyiv/"},{"date":"26.07.03","home":"디나모 키예프","away":"라피드 부쿠레슈티","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1567513-2026-07-03-dynamo-kyiv/"},{"date":"26.06.29","home":"Wieczysta Kraków","away":"디나모 키예프","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554585-2026-06-29-wieczysta-krakw/"}]'
+injuryHome: "없음"
+injuryAway: "Vladyslav Kabaev (발목 부상)|Mykola Mykhaylenko (무릎 수술)|Reshat Ramadani (무릎 수술)|Roman Salenko (엉덩이 부상)|Vitaliy Lobko (수술)|Vladyslav Zakharchenko (발목 인대 파열)"
+pickWinTeam: "디나모 키예프"
+pickWinResult: "승"
+pickHandicapTeam: "디나모 키예프"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
