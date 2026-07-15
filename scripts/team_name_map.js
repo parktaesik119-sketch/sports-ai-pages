@@ -966,7 +966,7 @@ const TEAM_NAME_MAP = {
   "Heart Of Midlothian": "하트 오브 미들로디언",
   "Hibernian": "하이버니언",
   "Kilmarnock": "킬마녹",
-  "Larne": "라른",
+  "Larne": "란 FC",
   "Livingston": "리빙스턴",
   "Motherwell": "마더웰",
   "Partick": "파틱 시슬",
@@ -1480,6 +1480,10 @@ const TEAM_NAME_MAP = {
   "Arges Pitesti": "FC 아르제슈 피테슈티",
   "FC Argeș Pitești": "FC 아르제슈 피테슈티",
   "Mons Calpe": "몬스 칼페",
+  "Mornar": "모르나르",
+  "FC Differdange 03": "디페르댕 03",
+  "Caernarfon Town": "케르나폰 타운",
+  "Yelimay Semey": "옐리마이 세미",
 
   
   //중국축구
