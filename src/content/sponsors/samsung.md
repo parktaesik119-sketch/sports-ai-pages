@@ -1,6 +1,5 @@
 ---
 name: "삼성전자"
-slug: "samsung"
 url: "https://samsung.com"
 urlLabel: "samsung.com"
 logo: "/images/sponsors/samsung-logo.png"
@@ -9,10 +8,13 @@ eventName: "삼성전자 공식 홈페이지 회원가입"
 eventAmount: 300000000
 eventProducts: ["갤럭시", "세탁기", "노트북"]
 ongoingEvent: "10월 31일까지 전제품 20% 할인"
-adImage: "/images/sponsors/samsung-ad.png"
+adImage: "https://i.imgur.com/ko78PZN.png"
 order: 1
 active: true
 ---
+
+<img src="https://i.imgur.com/crjFPBp.png" style="width:100%; display:block; margin:20px auto;">
+
 
 삼성전자 공식 홈페이지에서 회원가입 후 다양한 이벤트에 참여할 수 있습니다.
 
