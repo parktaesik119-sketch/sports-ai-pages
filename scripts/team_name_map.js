@@ -1518,6 +1518,8 @@ const TEAM_NAME_MAP = {
   "Odra Opole": "오드라 오폴레",
   "Opava": "오파바",
   "LNZ Cherkasy": "하이두크 스플리트",
+  "Rodange 91": "FC 로당주 91",
+  "Racing FC Union Luxembourg": "라싱FC 유니온 룩셈부르크",
 
   
   //중국축구
