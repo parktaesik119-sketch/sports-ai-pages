@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Hiromi Itoh (8-4, 3.07)|https://p.npb.jp/players_photo/2026/180/f/017_51355153.jpg\"]"
+awayLineup: "[\"선발투수 Taiga Kamichatani (4-0, 2.12)|https://p.npb.jp/players_photo/2026/180/h/064_81585138.jpg\"]"
 ---

@@ -28,4 +28,5 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+awayLineup: "[\"선발투수 C. Scott (2-1, 3.17) ERA 3.17|https://a.espncdn.com/i/headshots/mlb/players/full/4414215.png\"]"
 ---
