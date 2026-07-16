@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "173.5"
 pickOuDirection: "언더"
+homeLineup: "[\"T. Reed Jr. (C)|https://a.espncdn.com/i/headshots/nba/players/full/5105809.png\",\"M. Brown (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105337.png\",\"J. Gillespie (G)|https://a.espncdn.com/i/headshots/nba/players/full/5107968.png\",\"M. Kelly (G)|https://a.espncdn.com/i/headshots/nba/players/full/4696317.png\",\"R. Davis (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433176.png\"]"
+awayLineup: "[\"O. Robinson (C)|https://a.espncdn.com/i/headshots/nba/players/full/4593049.png\",\"D. Peterson (G)|https://a.espncdn.com/i/headshots/nba/players/full/5041955.png\",\"B. Mbeng (G)|https://a.espncdn.com/i/headshots/nba/players/full/4898237.png\",\"A. Garcia (G)|https://a.espncdn.com/i/headshots/nba/players/full/4702431.png\",\"T. Bates (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683933.png\"]"
 ---
