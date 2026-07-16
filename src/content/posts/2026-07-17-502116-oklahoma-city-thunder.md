@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "177.5"
 pickOuDirection: "언더"
+homeLineup: "[\"J. Dix (G)|https://a.espncdn.com/i/headshots/nba/players/full/5105800.png\",\"N. Johnson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4898278.png\",\"A. Pritchard (G)|https://a.espncdn.com/i/headshots/nba/players/full/4897155.png\",\"P. Sandfort (G)|https://a.espncdn.com/i/headshots/nba/players/full/4697270.png\",\"B. Barnhizer (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684208.png\"]"
+awayLineup: "[\"S. de Larrea (F)|https://a.espncdn.com/i/headshots/nba/players/full/5279129.png\",\"T. Lawal (F)|https://a.espncdn.com/i/headshots/nba/players/full/5106040.png\",\"J. Diaz Graham (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105411.png\",\"V. Ishchenko (G)|https://a.espncdn.com/i/headshots/nba/players/full/5358755.png\",\"J. Poulakidas (G)|https://a.espncdn.com/i/headshots/nba/players/full/4898238.png\"]"
 ---
