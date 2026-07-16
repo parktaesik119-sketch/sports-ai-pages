@@ -1294,6 +1294,1252 @@
     }
   },
   {
+    "home": "Vitoria",
+    "away": "Vasco DA Gama",
+    "date": "2026-07-16T22:30:00+00:00",
+    "league": "Serie A",
+    "h2h": [
+      {
+        "date": "2025-10-05",
+        "home": "Vasco da Gama",
+        "away": "Vitória",
+        "homeScore": 4,
+        "awayScore": 3
+      },
+      {
+        "date": "2025-05-10",
+        "home": "Vitória",
+        "away": "Vasco da Gama",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-09-01",
+        "home": "Vitória",
+        "away": "Vasco da Gama",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-05-12",
+        "home": "Vasco da Gama",
+        "away": "Vitória",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-11-11",
+        "home": "Vasco da Gama",
+        "away": "Vitória",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2021-08-07",
+        "home": "Vitória",
+        "away": "Vasco da Gama",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-09-09",
+        "home": "Vitória",
+        "away": "Vasco da Gama",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-05-13",
+        "home": "Vasco da Gama",
+        "away": "Vitória",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2017-11-03",
+        "home": "Vasco da Gama",
+        "away": "Vitória",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-07-13",
+        "home": "Vitória",
+        "away": "Vasco da Gama",
+        "homeScore": 1,
+        "awayScore": 4
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-31",
+          "home": "Santos",
+          "away": "Vitória",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Vitória",
+          "away": "Internacional",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Bragantino",
+          "away": "Vitória",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Fluminense",
+          "away": "Vitória",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Vitória",
+          "away": "Coritiba",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Atlético PR",
+          "away": "Vitória",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Vitória",
+          "away": "Corinthians",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Vitória",
+          "away": "São Paulo",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Chapecoense",
+          "away": "Vitória",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-02",
+          "home": "Cruzeiro",
+          "away": "Vitória",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-31",
+          "home": "Vasco da Gama",
+          "away": "Atlético Mineiro",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-25",
+          "home": "Vasco da Gama",
+          "away": "Bragantino",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Internacional",
+          "away": "Vasco da Gama",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-11",
+          "home": "Vasco da Gama",
+          "away": "Atlético PR",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Flamengo",
+          "away": "Vasco da Gama",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Corinthians",
+          "away": "Vasco da Gama",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Vasco da Gama",
+          "away": "São Paulo",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Remo",
+          "away": "Vasco da Gama",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Vasco da Gama",
+          "away": "Botafogo",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-02",
+          "home": "Coritiba",
+          "away": "Vasco da Gama",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chicago Fire",
+    "away": "Vancouver Whitecaps",
+    "date": "2026-07-17T00:30:00+00:00",
+    "league": "Major League Soccer",
+    "h2h": [
+      {
+        "date": "2025-03-23",
+        "home": "Vancouver Whitecaps",
+        "away": "Chicago Fire",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2023-08-31",
+        "home": "Chicago Fire",
+        "away": "Vancouver Whitecaps",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-07-24",
+        "home": "Vancouver Whitecaps",
+        "away": "Chicago Fire",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2020-07-23",
+        "home": "Chicago Fire",
+        "away": "Vancouver Whitecaps",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-04-13",
+        "home": "Chicago Fire",
+        "away": "Vancouver Whitecaps",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-07-08",
+        "home": "Vancouver Whitecaps",
+        "away": "Chicago Fire",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-07-02",
+        "home": "Chicago Fire",
+        "away": "Vancouver Whitecaps",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-05-12",
+        "home": "Vancouver Whitecaps",
+        "away": "Chicago Fire",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-03-14",
+        "home": "Chicago Fire",
+        "away": "Vancouver Whitecaps",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-07-31",
+        "home": "Chicago Fire",
+        "away": "Vancouver Whitecaps",
+        "homeScore": 0,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-24",
+          "home": "Chicago Fire",
+          "away": "Toronto",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Montreal Impact",
+          "away": "Chicago Fire",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-14",
+          "home": "DC United",
+          "away": "Chicago Fire",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Chicago Fire",
+          "away": "New York RB",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Chicago Fire",
+          "away": "FC Cincinnati",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Chicago Fire",
+          "away": "Sporting KC",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-19",
+          "home": "FC Cincinnati",
+          "away": "Chicago Fire",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Chicago Fire",
+          "away": "Atlanta United FC",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Chicago Fire",
+          "away": "Nashville SC",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-21",
+          "home": "Philadelphia Union",
+          "away": "Chicago Fire",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-24",
+          "home": "San Diego",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 2,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Houston Dynamo",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-14",
+          "home": "FC Dallas",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-10",
+          "home": "SJ Earthquakes",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-03",
+          "home": "LA Galaxy",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Vancouver Whitecaps",
+          "away": "Colorado Rapids",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Vancouver Whitecaps",
+          "away": "Sporting KC",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Vancouver Whitecaps",
+          "away": "New York City",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Vancouver Whitecaps",
+          "away": "Portland Timbers",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-03-22",
+          "home": "Vancouver Whitecaps",
+          "away": "SJ Earthquakes",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "Seattle Sounders",
+    "away": "Portland Timbers",
+    "date": "2026-07-17T02:30:00+00:00",
+    "league": "Major League Soccer",
+    "h2h": [
+      {
+        "date": "2025-10-05",
+        "home": "Seattle Sounders",
+        "away": "Portland Timbers",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-05-18",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-10-20",
+        "home": "Seattle Sounders",
+        "away": "Portland Timbers",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-09-01",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-05-12",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-09-03",
+        "home": "Seattle Sounders",
+        "away": "Portland Timbers",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-06-03",
+        "home": "Seattle Sounders",
+        "away": "Portland Timbers",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-04-16",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-08-27",
+        "home": "Portland Timbers",
+        "away": "Seattle Sounders",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-07-09",
+        "home": "Seattle Sounders",
+        "away": "Portland Timbers",
+        "homeScore": 0,
+        "awayScore": 3
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-25",
+          "home": "Los Angeles FC",
+          "away": "Seattle Sounders",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Seattle Sounders",
+          "away": "LA Galaxy",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-14",
+          "home": "Seattle Sounders",
+          "away": "SJ Earthquakes",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Seattle Sounders",
+          "away": "San Diego",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Sporting KC",
+          "away": "Seattle Sounders",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Seattle Sounders",
+          "away": "FC Dallas",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Seattle Sounders",
+          "away": "St. Louis City",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Houston Dynamo",
+          "away": "Seattle Sounders",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-22",
+          "home": "Minnesota United",
+          "away": "Seattle Sounders",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-15",
+          "home": "SJ Earthquakes",
+          "away": "Seattle Sounders",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-24",
+          "home": "Portland Timbers",
+          "away": "SJ Earthquakes",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Inter Miami",
+          "away": "Portland Timbers",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-14",
+          "home": "Montreal Impact",
+          "away": "Portland Timbers",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Portland Timbers",
+          "away": "Sporting KC",
+          "homeScore": 6,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Real Salt Lake",
+          "away": "Portland Timbers",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-26",
+          "home": "San Diego",
+          "away": "Portland Timbers",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Minnesota United",
+          "away": "Portland Timbers",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Portland Timbers",
+          "away": "Los Angeles FC",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Vancouver Whitecaps",
+          "away": "Portland Timbers",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-03-22",
+          "home": "Portland Timbers",
+          "away": "LA Galaxy",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "Qingdao Youth Island",
+    "away": "Chengdu Better City",
+    "date": "2026-07-17T11:00:00+00:00",
+    "league": "Super League",
+    "h2h": [
+      {
+        "date": "2026-04-03",
+        "home": "Chengdu Better City FC",
+        "away": "Qingdao Youth Island",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-10-26",
+        "home": "Qingdao Youth Island",
+        "away": "Chengdu Better City FC",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-05-17",
+        "home": "Chengdu Better City FC",
+        "away": "Qingdao Youth Island",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-10-27",
+        "home": "Qingdao Youth Island",
+        "away": "Chengdu Better City FC",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-05-26",
+        "home": "Chengdu Better City FC",
+        "away": "Qingdao Youth Island",
+        "homeScore": 7,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-11",
+          "home": "Sichuan Jiuniu",
+          "away": "Qingdao Youth Island",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-04",
+          "home": "Qingdao Youth Island",
+          "away": "Shanghai SIPG",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-28",
+          "home": "Qingdao Youth Island",
+          "away": "Zhejiang FC",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Qingdao Youth Island",
+          "away": "Shanghai Shenhua",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Yunnan Yukun",
+          "away": "Qingdao Youth Island",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Qingdao Youth Island",
+          "away": "Beijing Guoan",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Dalian Zhixing",
+          "away": "Qingdao Youth Island",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Qingdao Youth Island",
+          "away": "Wuhan Three Towns",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Qingdao Youth Island",
+          "away": "Tianjin Teda",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Shandong Luneng",
+          "away": "Qingdao Youth Island",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-11",
+          "home": "Chengdu Better City FC",
+          "away": "Chongqing Tongliang Long",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-05",
+          "home": "Qingdao Jonoon",
+          "away": "Chengdu Better City FC",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Sichuan Jiuniu",
+          "away": "Chengdu Better City FC",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Chengdu Better City FC",
+          "away": "Shandong Luneng",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Dalian Zhixing",
+          "away": "Chengdu Better City FC",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Chengdu Better City FC",
+          "away": "Shanghai SIPG",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Tianjin Teda",
+          "away": "Chengdu Better City FC",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Chengdu Better City FC",
+          "away": "Henan Jianye",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Shenyang Urban",
+          "away": "Chengdu Better City FC",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Shanghai Shenhua",
+          "away": "Chengdu Better City FC",
+          "homeScore": 2,
+          "awayScore": 3
+        }
+      ]
+    }
+  },
+  {
+    "home": "Beijing Guoan",
+    "away": "Shenyang Urban",
+    "date": "2026-07-17T11:35:00+00:00",
+    "league": "Super League",
+    "h2h": [
+      {
+        "date": "2026-04-04",
+        "home": "Shenyang Urban",
+        "away": "Beijing Guoan",
+        "homeScore": 2,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-04",
+          "home": "Beijing Guoan",
+          "away": "Shandong Luneng",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Beijing Guoan",
+          "away": "Wuhan Three Towns",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Chongqing Tongliang Long",
+          "away": "Beijing Guoan",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Beijing Guoan",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Qingdao Youth Island",
+          "away": "Beijing Guoan",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Beijing Guoan",
+          "away": "Qingdao Jonoon",
+          "homeScore": 4,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Beijing Guoan",
+          "away": "Shanghai SIPG",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-06",
+          "home": "Beijing Guoan",
+          "away": "Dalian Zhixing",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Yunnan Yukun",
+          "away": "Beijing Guoan",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Beijing Guoan",
+          "away": "Tianjin Teda",
+          "homeScore": 2,
+          "awayScore": 4
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-04",
+          "home": "Shenyang Urban",
+          "away": "Chongqing Tongliang Long",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Shenyang Urban",
+          "away": "Shandong Luneng",
+          "homeScore": 1,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-05-29",
+          "home": "Shenyang Urban",
+          "away": "Shanghai SIPG",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Zhejiang FC",
+          "away": "Shenyang Urban",
+          "homeScore": 0,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-05-20",
+          "home": "Shenyang Urban",
+          "away": "Qingdao Jonoon",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Wuhan Three Towns",
+          "away": "Shenyang Urban",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Shenyang Urban",
+          "away": "Yunnan Yukun",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Shenyang Urban",
+          "away": "Chengdu Better City FC",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Henan Jianye",
+          "away": "Shenyang Urban",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Sichuan Jiuniu",
+          "away": "Shenyang Urban",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    }
+  },
+  {
+    "home": "Henan Jianye",
+    "away": "Qingdao Jonoon",
+    "date": "2026-07-17T11:35:00+00:00",
+    "league": "Super League",
+    "h2h": [
+      {
+        "date": "2026-04-04",
+        "home": "Qingdao Jonoon",
+        "away": "Henan Jianye",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-08-29",
+        "home": "Qingdao Jonoon",
+        "away": "Henan Jianye",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-04-20",
+        "home": "Henan Jianye",
+        "away": "Qingdao Jonoon",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-08-10",
+        "home": "Qingdao Jonoon",
+        "away": "Henan Jianye",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-04-21",
+        "home": "Henan Jianye",
+        "away": "Qingdao Jonoon",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-07-17",
+        "home": "Qingdao Jonoon",
+        "away": "Henan Jianye",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-04-21",
+        "home": "Henan Jianye",
+        "away": "Qingdao Jonoon",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-08-19",
+        "home": "Qingdao Jonoon",
+        "away": "Henan Jianye",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-04-21",
+        "home": "Henan Jianye",
+        "away": "Qingdao Jonoon",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-09-28",
+        "home": "Henan Jianye",
+        "away": "Qingdao Jonoon",
+        "homeScore": 4,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-03",
+          "home": "Yunnan Yukun",
+          "away": "Henan Jianye",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-27",
+          "home": "Henan Jianye",
+          "away": "Shanghai SIPG",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Henan Jianye",
+          "away": "Zhejiang FC",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Beijing Guoan",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-19",
+          "home": "Tianjin Teda",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Henan Jianye",
+          "away": "Sichuan Jiuniu",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Chengdu Better City FC",
+          "away": "Henan Jianye",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Chongqing Tongliang Long",
+          "away": "Henan Jianye",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-01",
+          "home": "Henan Jianye",
+          "away": "Shenyang Urban",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Henan Jianye",
+          "away": "Shanghai Shenhua",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-14",
+          "home": "Zhejiang FC",
+          "away": "Qingdao Jonoon",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-05",
+          "home": "Qingdao Jonoon",
+          "away": "Chengdu Better City FC",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-26",
+          "home": "Qingdao Jonoon",
+          "away": "Yunnan Yukun",
+          "homeScore": 4,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-30",
+          "home": "Sichuan Jiuniu",
+          "away": "Qingdao Jonoon",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Qingdao Jonoon",
+          "away": "Chongqing Tongliang Long",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-20",
+          "home": "Shenyang Urban",
+          "away": "Qingdao Jonoon",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-15",
+          "home": "Beijing Guoan",
+          "away": "Qingdao Jonoon",
+          "homeScore": 4,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Qingdao Jonoon",
+          "away": "Dalian Zhixing",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-06",
+          "home": "Wuhan Three Towns",
+          "away": "Qingdao Jonoon",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Qingdao Jonoon",
+          "away": "Shanghai SIPG",
+          "homeScore": 3,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
     "home": "Yunnan Yukun",
     "away": "SHANGHAI SIPG",
     "date": "2026-07-17T12:00:00+00:00",
