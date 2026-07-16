@@ -58,19 +58,19 @@ function displayUrl(url: string) {
             </div>
             {sponsor.data.eventName && (
               <div class="info-row">
-                <span class="info-label">가입코드</span>
+                <span class="info-label">이벤트명</span>
                 <span class="info-value event-name">{sponsor.data.eventName}</span>
               </div>
             )}            
             {sponsor.data.eventAmount != null && (
               <div class="info-row">
-                <span class="info-label">승인전화</span>
+                <span class="info-label">총이벤트금액</span>
                 <span class="info-value">{sponsor.data.eventAmount.toLocaleString('ko-KR')}</span>
               </div>
             )}
             {sponsor.data.eventProducts?.length ? (
               <div class="info-row">
-                <span class="info-label">게임종류</span>
+                <span class="info-label">이벤트상품</span>
                 <span class="info-value chips">
                   {sponsor.data.eventProducts.map((p) => <span class="chip">{p}</span>)}
                 </span>
@@ -369,12 +369,14 @@ function displayUrl(url: string) {
     .logo-box {
       width: 100%;
     }
-    .info-row {
-      flex-direction: column;
-    }
     .info-label {
-      width: 100%;
-      padding: 8px 16px;
+      width: 100px;
+      font-size: 14px;
+      padding: 0 10px;
+    }
+    .info-value {
+      font-size: 14px;
+      padding: 10px;
     }
   }
 </style>
