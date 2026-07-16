@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 G. Williams (10-4, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 J. Jones (1-1, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
 ---
