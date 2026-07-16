@@ -38,6 +38,7 @@ const todaySchedulePath = `/schedule/${nowKST.toISOString().slice(0, 10)}`;
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": "픽천국",
+      "alternateName": "pick79.com",
       "url": "https://pick79.com/"
     }
     </script>
@@ -47,6 +48,7 @@ const todaySchedulePath = `/schedule/${nowKST.toISOString().slice(0, 10)}`;
 
     <link rel="canonical" href={Astro.url} />
 
+    <meta property="og:site_name" content="픽천국" />
     <meta property="og:title" content={Astro.props.title} />
     <meta property="og:description" content={Astro.props.description ?? "365일 매일 무료로 만나는 데이터 기반의 정밀한 스포츠 분석 서비스. 축구,야구,농구,배구,하키,LOL 프리뷰, 추천픽 제공."} />
     <meta property="og:type" content="article" />
