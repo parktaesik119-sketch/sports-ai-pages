@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
 awayLineup: "[\"선발투수 S. Alcantara (10-5, 3.99) ERA 3.99|https://a.espncdn.com/i/headshots/mlb/players/full/35241.png\"]"
+homeLineup: "[\"선발투수 L. Henderson (3-1, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
 ---
