@@ -70,7 +70,19 @@ export function deriveFormationFromLineup(players) {
 // 않으므로, 줄 구성 규칙은 반드시 이 함수 하나로만 관리한다.
 function buildFormationString(df, mf, fwWide, fwCentral) {
   const segments = [df];
+  // splitFw: "윙/중앙이 실질적으로 서로 다른 두 줄을 이루는가" — MF를 반으로
+  // 쪼갤지 말지를 결정할 때 쓰는 원래 기준으로, 아래 mergeSingleWideCentral
+  // 예외와 무관하게 그대로 유지한다(안 그러면 mf 분리 여부까지 같이 틀어져서
+  // "3-5-2"를 원했는데 "3-2-3-2"가 나오는 등 부작용이 생김).
   const splitFw = fwWide > 0 && fwCentral > 0;
+
+  // 다만 "윙 정확히 1명 + 중앙 정확히 1명"인 경우는 FW 줄 자체를 나눠 찍지 않고
+  // 합쳐서 한 줄(숫자 2)로 표기한다. 예: 3-5-1-1 (윙1+중앙1) → 실제로는 윙이
+  // "혼자 남은 측면 자원"이라기보다 투톱(3-5-2)의 한 축일 가능성이 훨씬 높다는
+  // 게 실사용 스크린샷으로 확인됨(알라쉬커트 3-5-1-1 케이스). 윙이 2명 이상이거나
+  // 중앙이 2명 이상이면(예: LW+RW+CF → 3-1-2처럼 여전히 실제 측면 라인이 있는
+  // 경우) 이 예외를 적용하지 않고 그대로 분리한다.
+  const mergeSingleWideCentral = fwWide === 1 && fwCentral === 1;
 
   // 미드필더 5명 이상이면 원래 두 줄(수비형/공격형)로 나눠서 "3-6-1" 대신
   // "3-3-3-1"처럼 자연스러운 모양을 만드는 게 목적이었다. 하지만 이건 어디까지나
@@ -88,7 +100,8 @@ function buildFormationString(df, mf, fwWide, fwCentral) {
   }
 
   // 윙어(측면)와 중앙 공격수가 둘 다 있으면 두 줄로: 측면이 앞줄, 중앙이 맨 앞줄.
-  if (splitFw) {
+  // 단, 윙1+중앙1인 경우는 위 예외에 따라 합쳐서 한 줄로 낸다.
+  if (splitFw && !mergeSingleWideCentral) {
     segments.push(fwWide, fwCentral);
   } else {
     segments.push(fwWide + fwCentral);

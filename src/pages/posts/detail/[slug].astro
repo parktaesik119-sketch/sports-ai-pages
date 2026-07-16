@@ -1234,13 +1234,19 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   .pick-team { font-size:0.85rem; }
   .pick-value { font-size:1.05rem; }
 
-  /* vs 기준 두번째 줄로: 최근 경기 / 상대 전적 / 예상 스코어 */
+  /* 기본은 한 줄로 붙여서 표시하되, 한 줄에 다 안 들어갈 때만 vs 기준으로
+     두번째 줄로 자연스럽게 넘어가게 함: 최근 경기 / 상대 전적 / 예상 스코어.
+     (display:block으로 강제하면 항상 두 줄이 되므로, inline-block으로 바꿔서
+     "같은 줄에 이어 붙이되, 공간이 부족하면 통째로 다음 줄로 넘어가는" 일반
+     텍스트 줄바꿈 동작을 활용한다. white-space:nowrap 덕분에 mi-line2 내부에서
+     "vs"와 팀명 사이가 쪼개지지 않고 한 덩어리로 줄바꿈된다.) */
   .mi-line1, .mi-line2 {
-    display: block;
+    display: inline-block;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 100%;
+    vertical-align: top;
   }
   .recent-row { align-items: flex-start; }
   .recent-row .recent-info { min-width: 0; }
@@ -1249,7 +1255,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   .recent-row .recent-result { margin-top: 2px; }
   .pick-score-value { min-width: 0; }
 
-  /* 라인업 헤더: 팀명 두 줄 + "라인업" 라벨 우측 고정 */
+  /* 라인업 헤더: 팀명은 기본 한 줄, 공간 부족시에만 vs 기준 줄바꿈 + "라인업" 라벨 우측 고정 */
   .lineup-header-content {
     display: flex;
     align-items: center;
@@ -1260,7 +1266,10 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   }
   .lineup-header-teams {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    column-gap: 4px;
     min-width: 0;
   }
   .lineup-header-label { flex-shrink: 0; }
