@@ -96,6 +96,9 @@ async function main() {
 
   // 날짜 > 종목 > 리그 3단 그룹핑 (notify-posts-telegram.js와 동일한 방식으로 통일)
   const grouped = {};
+  // 리그명 옆에 국가명을 붙이기 위한 매핑. 같은 리그는 항상 같은 국가라고 가정하고
+  // 처음 등장한 글의 country 값을 기준으로 삼는다. (notify-posts-telegram.js와 동일)
+  const leagueCountry = {};
   const now = new Date(); // 알림 발송 시점 기준. 이 시점 이후 킥오프인 경기만 알림 대상.
   let skippedStarted = 0;
 
@@ -106,6 +109,7 @@ async function main() {
     const date = parseFrontmatterField(content, 'date');
     const category = parseFrontmatterField(content, 'category') || 'etc';
     const league = parseFrontmatterField(content, 'league') || '';
+    const country = parseFrontmatterField(content, 'country') || '';
     const slug = parseFrontmatterField(content, 'slug');
     if (!homeTeam || !awayTeam) continue;
 
@@ -125,6 +129,7 @@ async function main() {
     if (!grouped[dateLabel]) grouped[dateLabel] = {};
     if (!grouped[dateLabel][sportLabel]) grouped[dateLabel][sportLabel] = {};
     if (!grouped[dateLabel][sportLabel][league]) grouped[dateLabel][sportLabel][league] = [];
+    if (league && country && !leagueCountry[league]) leagueCountry[league] = country;
 
     const lineText = `${escapeHtml(homeTeam)} vs ${escapeHtml(awayTeam)}`;
     const url = buildPostUrl(slug);
@@ -143,7 +148,10 @@ async function main() {
       const leagues = sports[sportLabel];
       const leagueBlocks = Object.keys(leagues).map(league => {
         const matches = leagues[league];
-        return league ? [`<b>${league}</b>`, ...matches].join('\n') : matches.join('\n');
+        if (!league) return matches.join('\n');
+        const country = leagueCountry[league];
+        const leagueLabel = country ? `${country} ${league}` : league;
+        return [`<b>${leagueLabel}</b>`, ...matches].join('\n');
       });
       return [`<b>${sportLabel}</b>`, leagueBlocks.join('\n\n')].join('\n');
     });
