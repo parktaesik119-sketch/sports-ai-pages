@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Shuto Ogata (0-2, 3.00)|https://p.npb.jp/players_photo/2026/180/db/036_61365136.jpg\"]"
+awayLineup: "[\"선발투수 Keiji Takahashi (2-3, 2.83)|https://p.npb.jp/players_photo/2026/180/s/047_51055132.jpg\"]"
 ---
