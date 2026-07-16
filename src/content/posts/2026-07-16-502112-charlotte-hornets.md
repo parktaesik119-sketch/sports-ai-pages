@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "167.5"
 pickOuDirection: "언더"
+homeLineup: "[\"H. Steinbach (C)|https://a.espncdn.com/i/headshots/nba/players/full/5281370.png\",\"T. Salaun (F)|https://a.espncdn.com/i/headshots/nba/players/full/5211176.png\",\"M. Ajayi (F)|https://a.espncdn.com/i/headshots/nba/players/full/5176517.png\",\"C. Anderson (G)|https://a.espncdn.com/i/headshots/nba/players/full/5060701.png\",\"K. Boswell (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684269.png\"]"
+awayLineup: "[\"B. Markovic (F)|https://a.espncdn.com/i/headshots/nba/players/full/5214989.png\",\"N. Ament (F)|https://a.espncdn.com/i/headshots/nba/players/full/5164559.png\",\"P. Nance (F)|https://a.espncdn.com/i/headshots/nba/players/full/4397233.png\",\"K. Jones (G)|https://a.espncdn.com/i/headshots/nba/players/full/4697268.png\",\"B. Boston Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432162.png\"]"
 ---
