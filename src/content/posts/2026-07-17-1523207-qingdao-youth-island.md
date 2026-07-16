@@ -1,0 +1,31 @@
+---
+title: "칭다오 FC vs 청두 룽청 경기분석·라인업·결장자·통계·승부예측 (7월 17일) | SL - 픽천국"
+date: 2026-07-17T11:00:00+00:00
+description: "칭다오 FC vs 청두 룽청 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1523207-2026-07-17-qingdao-youth-island"
+category: "soccer"
+country: "중국"
+league: "SL"
+homeTeam: "칭다오 FC"
+awayTeam: "청두 룽청"
+homeLogo: "https://media.api-sports.io/football/teams/17265.png"
+awayLogo: "https://media.api-sports.io/football/teams/5648.png"
+homeAnalysis: "칭다오 FC는 2026시즌 전체 DB 기준 4승 7무 1패, 평균 득점 1.6을 기록하고 있어 승부를 쉽게 내지 못하는 가운데도 공격 자체는 꾸준한 편입니다. 최근 흐름을 보면 원정에서 흔들린 경기가 있었지만, 홈에서는 상하이 샤크스와 저장 FC를 상대로 연속 득점과 승리를 만들며 경기 주도력이 살아난 모습입니다. 특히 홈에서는 2득점 이상을 만드는 장면이 종종 나오고 있어, 전방 전개가 매끄럽게 풀릴 때는 상대 수비를 충분히 흔들 수 있습니다. 다만 무실점 경기보다 실점이 따라붙는 경기가 많아 수비 집중력이 경기 후반의 관건으로 보입니다. 전반적으로 홈에서는 버티기만 하는 팀이 아니라, 흐름이 좋을 때는 적극적으로 밀어붙일 수 있는 전력으로 평가됩니다."
+awayAnalysis: "청두 룽청은 2026시즌 전체 DB 기준 6승 2무 2패, 평균 득점 1.6을 기록하며 시즌 전반의 완성도가 높은 편입니다. 최근에도 상하이 샤크스와 선전 신청펑을 상대로 강한 경기 운영을 보여 주었고, 득점과 수비의 균형이 비교적 잘 맞아 있습니다. 원정에서도 대량 득점 경기와 실리 있는 승리를 함께 만들어 왔기 때문에 경기 흐름을 자기 쪽으로 끌고 가는 힘이 있습니다. 특히 실점 억제력이 안정적으로 유지되는 구간이 많아, 접전에서도 쉽게 무너지지 않는 점이 돋보입니다. 전반적으로 강한 압박과 효율적인 마무리를 바탕으로 원정에서도 우세를 이어갈 가능성이 높아 보입니다."
+homePower: "홈 득점 흐름은 살아 있으나 수비 동반 안정성은 보완 필요함|홈에서는 경기 주도 구간이 길어지는 편으로 보임|득점 후에도 실점 허용 가능성 남아 있는 구조임|상대 수비 흔들릴 때는 연속 찬스 창출 능력 있음|강한 상대 상대로는 마무리 효율이 승부 변수임"
+awayPower: "청두 룽청은 공수 균형이 시즌 내내 안정적임|원정에서도 경기 템포를 유지하는 힘이 검증됨|실점 억제 후 빠른 전환으로 이득 보는 구조임|접전에서도 경기 운영이 흔들리지 않는 편임|상대의 홈 득점 흐름을 끊을 수 있는 전력임"
+h2h: '[{"date":"26.04.03","home":"청두 룽청","away":"칭다오 FC","score":"5-1"},{"date":"25.10.26","home":"칭다오 FC","away":"청두 룽청","score":"2-2"},{"date":"25.05.17","home":"청두 룽청","away":"칭다오 FC","score":"1-1"},{"date":"24.10.27","home":"칭다오 FC","away":"청두 룽청","score":"1-1"},{"date":"24.05.26","home":"청두 룽청","away":"칭다오 FC","score":"7-0"}]'
+summary: "청두 룽청은 2026시즌 전체 성적과 최근 흐름에서 모두 한 박자 앞선 전력을 보여 주고 있습니다. 칭다오 FC도 홈에서는 득점 생산력이 나쁘지 않지만, 시즌 내내 흔들림이 적지 않아 강한 상대를 상대로는 수비 부담이 커지는 모습입니다. 상대전적에서도 청두 룽청이 대승을 포함해 뚜렷한 우위를 이어가고 있어, 이번 경기 역시 청두 룽청 쪽이 경기 흐름을 주도할 가능성이 높습니다. 칭다오 FC가 홈에서 버티는 장면은 나오겠지만, 전체적인 전력 차와 맞대결 흐름을 함께 보면 청두 룽청의 우세가 더 자연스럽게 읽힙니다."
+homeRecent: '[{"date":"26.07.11","home":"선전 신청펑","away":"칭다오 FC","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523199-2026-07-11-sichuan-jiuniu/"},{"date":"26.07.04","home":"칭다오 FC","away":"상하이 샤크스","score":"2-1","result":"🔴패"},{"date":"26.06.28","home":"칭다오 FC","away":"Zhejiang FC","score":"3-1","result":"🔴패"},{"date":"26.06.19","home":"Xi’an Ronghai","away":"칭다오 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1545499-2026-06-19-xian-ronghai/"},{"date":"26.05.30","home":"칭다오 FC","away":"상하이 선화","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523174-2026-05-30-qingdao-youth-island/"}]'
+awayRecent: '[{"date":"26.07.11","home":"청두 룽청","away":"충칭 통량룽","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523200-2026-07-11-chengdu-better-city/"},{"date":"26.07.05","home":"칭다오 하이뉴","away":"청두 룽청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523193-2026-07-05-qingdao-jonoon/"},{"date":"26.06.27","home":"선전 신청펑","away":"청두 룽청","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523182-2026-06-27-sichuan-jiuniu/"},{"date":"26.06.20","home":"상하이 샤크스","away":"청두 룽청","score":"0-4","result":"🟢승"},{"date":"26.05.30","home":"청두 룽청","away":"산둥 타이산","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523173-2026-05-30-chengdu-better-city/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "청두 룽청"
+pickWinResult: "승"
+pickHandicapTeam: "청두 룽청"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
