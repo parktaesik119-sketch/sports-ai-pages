@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "180.5"
 pickOuDirection: "언더"
+homeLineup: "[\"D. Cardwell (C)|https://a.espncdn.com/i/headshots/nba/players/full/4433174.png\",\"J. Mogbo (F)|https://a.espncdn.com/i/headshots/nba/players/full/5107897.png\",\"A. Karaban (F)|https://a.espncdn.com/i/headshots/nba/players/full/4917149.png\",\"E. Sharp (G)|https://a.espncdn.com/i/headshots/nba/players/full/5106058.png\",\"I. Stevens (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432117.png\"]"
+awayLineup: "[\"A. Williams (C)|https://a.espncdn.com/i/headshots/nba/players/full/4702745.png\",\"T. DeVries (F)|https://a.espncdn.com/i/headshots/nba/players/full/4837238.png\",\"H. Gonzalez (G)|https://a.espncdn.com/i/headshots/nba/players/full/5175647.png\",\"M. Uzan (G)|https://a.espncdn.com/i/headshots/nba/players/full/5106272.png\",\"J. Tonje (G)|https://a.espncdn.com/i/headshots/nba/players/full/4593043.png\"]"
 ---
