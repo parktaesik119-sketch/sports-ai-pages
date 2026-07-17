@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="160 55 300 105" width="300" height="105">
+  <defs>
+    <linearGradient id="gradR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a8c6f7"/>
+      <stop offset="100%" stop-color="#2f6fed"/>
+    </linearGradient>
+    <linearGradient id="gradL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2f6fed"/>
+      <stop offset="100%" stop-color="#a8c6f7"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .wingL { transform-origin: 235px 106px; animation: growL 3s ease-out infinite; }
+    .wingR { transform-origin: 385px 106px; animation: growR 3s ease-out infinite; }
+    @keyframes growL {
+      0% { transform: scale(0.06); opacity: 0.35; }
+      25% { transform: scale(1); opacity: 1; }
+      97% { transform: scale(1); opacity: 1; }
+      100% { transform: scale(0.06); opacity: 0.35; }
+    }
+    @keyframes growR {
+      0% { transform: scale(0.06); opacity: 0.35; }
+      25% { transform: scale(1); opacity: 1; }
+      97% { transform: scale(1); opacity: 1; }
+      100% { transform: scale(0.06); opacity: 0.35; }
+    }
+  </style>
+
+  <g class="wingL">
+    <rect x="165" y="100" width="70" height="12" rx="6" fill="url(#gradL)" opacity="1" transform="rotate(30 235 106)"/>
+    <rect x="175" y="100" width="60" height="12" rx="6" fill="url(#gradL)" opacity="0.85" transform="rotate(10 235 106)"/>
+    <rect x="185" y="100" width="50" height="12" rx="6" fill="url(#gradL)" opacity="0.7" transform="rotate(-10 235 106)"/>
+    <rect x="197" y="100" width="38" height="12" rx="6" fill="url(#gradL)" opacity="0.55" transform="rotate(-30 235 106)"/>
+  </g>
+  <g class="wingR">
+    <rect x="385" y="100" width="70" height="12" rx="6" fill="url(#gradR)" opacity="1" transform="rotate(-30 385 106)"/>
+    <rect x="385" y="100" width="60" height="12" rx="6" fill="url(#gradR)" opacity="0.85" transform="rotate(-10 385 106)"/>
+    <rect x="385" y="100" width="50" height="12" rx="6" fill="url(#gradR)" opacity="0.7" transform="rotate(10 385 106)"/>
+    <rect x="385" y="100" width="38" height="12" rx="6" fill="url(#gradR)" opacity="0.55" transform="rotate(30 385 106)"/>
+  </g>
+
+  <text x="310" y="118" text-anchor="middle" font-family="-apple-system, 'Pretendard', 'Apple SD Gothic Neo', sans-serif" font-size="44" font-weight="800" fill="#2f6fed">픽천국</text>
+  <text x="310" y="143" text-anchor="middle" font-family="-apple-system, 'Pretendard', 'Apple SD Gothic Neo', sans-serif" font-size="12" letter-spacing="3" fill="#94a3b8">PICK HEAVEN</text>
+</svg>

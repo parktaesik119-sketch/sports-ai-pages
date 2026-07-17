@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="160 55 300 105" width="300" height="105">
+  <style>
+    .bladeL { transform-origin: 235px 106px; animation: foldL 2.6s ease-in-out infinite; }
+    .bladeR { transform-origin: 385px 106px; animation: foldR 2.6s ease-in-out infinite; }
+    @keyframes foldL {
+      0%, 100% { transform: rotate(var(--open)); }
+      45%, 55% { transform: rotate(var(--closed)); }
+    }
+    @keyframes foldR {
+      0%, 100% { transform: rotate(var(--open)); }
+      45%, 55% { transform: rotate(var(--closed)); }
+    }
+  </style>
+
+  <rect class="bladeL" style="--open:30deg; --closed:9deg; animation-delay:0s" x="165" y="100" width="70" height="12" rx="6" fill="#2f6fed" opacity="1"/>
+  <rect class="bladeL" style="--open:10deg; --closed:3deg; animation-delay:0.06s" x="175" y="100" width="60" height="12" rx="6" fill="#2f6fed" opacity="0.85"/>
+  <rect class="bladeL" style="--open:-10deg; --closed:-3deg; animation-delay:0.12s" x="185" y="100" width="50" height="12" rx="6" fill="#2f6fed" opacity="0.7"/>
+  <rect class="bladeL" style="--open:-30deg; --closed:-9deg; animation-delay:0.18s" x="197" y="100" width="38" height="12" rx="6" fill="#2f6fed" opacity="0.55"/>
+
+  <rect class="bladeR" style="--open:-30deg; --closed:-9deg; animation-delay:0s" x="385" y="100" width="70" height="12" rx="6" fill="#2f6fed" opacity="1"/>
+  <rect class="bladeR" style="--open:-10deg; --closed:-3deg; animation-delay:0.06s" x="385" y="100" width="60" height="12" rx="6" fill="#2f6fed" opacity="0.85"/>
+  <rect class="bladeR" style="--open:10deg; --closed:3deg; animation-delay:0.12s" x="385" y="100" width="50" height="12" rx="6" fill="#2f6fed" opacity="0.7"/>
+  <rect class="bladeR" style="--open:30deg; --closed:9deg; animation-delay:0.18s" x="385" y="100" width="38" height="12" rx="6" fill="#2f6fed" opacity="0.55"/>
+
+  <text x="310" y="118" text-anchor="middle" font-family="-apple-system, 'Pretendard', 'Apple SD Gothic Neo', sans-serif" font-size="44" font-weight="800" fill="#2f6fed">픽천국</text>
+  <text x="310" y="143" text-anchor="middle" font-family="-apple-system, 'Pretendard', 'Apple SD Gothic Neo', sans-serif" font-size="12" letter-spacing="3" fill="#94a3b8">PICK HEAVEN</text>
+</svg>
