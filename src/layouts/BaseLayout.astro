@@ -82,10 +82,15 @@ const todaySchedulePath = `/schedule/${nowKST.toISOString().slice(0, 10)}`;
     <header class="header">
       <div class="header-container">
 
-        <!-- 🔥 로고 (기존 그대로 유지) -->
+        <!-- 🔥 로고 -->
+        <!--
         <a href="/" class="logo">
           <span class="logo-main">픽천국</span>
           <span class="logo-sub">PICK HEAVEN</span>
+        </a>
+        -->
+        <a href="/" class="logo">
+          <img src="https://i.imgur.com/bY7iJfG.png" alt="픽천국" class="logo-img" />
         </a>
 
         <!-- 🔥 PC 메뉴 (그대로 유지) -->
@@ -402,7 +407,7 @@ document.addEventListener('DOMContentLoaded', () => {
   position: relative;
 }
 
-/* 🔥 왼쪽 날개 */
+/* 🔥 아래 날개 애니메이션 로고 관련 CSS 전체 각주(주석) 처리
 .logo-main::before {
   content: "";
   position: absolute;
@@ -424,7 +429,6 @@ document.addEventListener('DOMContentLoaded', () => {
   filter: drop-shadow(0 3px 5px rgba(0,0,0,0.25));
 }
 
-/* 🔥 오른쪽 날개 (진짜 반전 적용) */
 .logo-main::after {
   content: "";
   position: absolute;
@@ -446,7 +450,6 @@ document.addEventListener('DOMContentLoaded', () => {
   filter: drop-shadow(0 3px 5px rgba(0,0,0,0.25));
 }
 
-/* 🔥 왼쪽 날개 */
 @keyframes wing-left {
   0% {
     transform: rotate(0deg) translateY(0);
@@ -465,7 +468,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 }
 
-/* 🔥 오른쪽 날개 (scaleX(-1) 반드시 포함!) */
 @keyframes wing-right {
   0% {
     transform: scaleX(-1) rotate(0deg) translateY(0);
@@ -484,7 +486,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 }
 
-/* 🔥 hover 시 더 크게 펄럭 */
 .logo:hover .logo-main::before {
   animation: wing-left-hover 0.9s ease-in-out infinite;
 }
@@ -493,7 +494,6 @@ document.addEventListener('DOMContentLoaded', () => {
   animation: wing-right-hover 0.9s ease-in-out infinite;
 }
 
-/* 🔥 hover - 왼쪽 */
 @keyframes wing-left-hover {
   0% {
     transform: rotate(0deg) translateY(0);
@@ -506,7 +506,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 }
 
-/* 🔥 hover - 오른쪽 */
 @keyframes wing-right-hover {
   0% {
     transform: scaleX(-1) rotate(0deg) translateY(0);
@@ -519,7 +518,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 }
 
-/* 🔥 서브 텍스트 */
 .logo-sub {
   font-size: 11px;
   color: #888;
@@ -527,10 +525,17 @@ document.addEventListener('DOMContentLoaded', () => {
   letter-spacing: 2px;
 }
 
-/* 🔥 hover */
 .logo:hover .logo-main {
   transform: scale(1.05);
   transition: 0.2s;
+}
+*/
+
+/* 🔥 새 이미지 로고 */
+.logo-img {
+  height: 40px;
+  width: auto;
+  display: block;
 }
 
 /* 🔥 메뉴간격 */
