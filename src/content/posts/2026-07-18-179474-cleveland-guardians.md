@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 G. Williams (10-4, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+homeLineup: "[\"선발투수 G. Williams (10-4, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\",\"1번 T. Bazzana (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png\",\"2번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\",\"3번 C. DeLauter (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png\",\"4번 K. Manzardo (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4917927.png\",\"5번 R. Hoskins (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/35291.png\",\"6번 K. Watson (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4872684.png\",\"7번 G. Arias (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/40344.png\",\"8번 A. Hedges (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32168.png\",\"9번 S. Kwan (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\"]"
 awayLineup: "[\"선발투수 J. Jones (1-1, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
 ---
