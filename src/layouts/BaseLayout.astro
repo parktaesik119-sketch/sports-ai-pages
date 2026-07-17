@@ -395,6 +395,7 @@ document.addEventListener('DOMContentLoaded', () => {
   text-decoration: none;
   line-height: 1;
   position: relative;
+  margin-right: auto; /* 🔥 데스크탑에서 로고를 항상 왼쪽에 고정 */
 }
 
 /* 🔥 메인 로고 */
@@ -673,6 +674,7 @@ document.addEventListener('DOMContentLoaded', () => {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    margin-right: 0; /* 🔥 데스크탑용 margin-right:auto 무효화 (모바일은 절대위치로 중앙정렬) */
   }
 
   /* 햄버거는 오른쪽 */
