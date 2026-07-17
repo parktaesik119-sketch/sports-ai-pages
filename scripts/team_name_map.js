@@ -1521,6 +1521,9 @@ const TEAM_NAME_MAP = {
   "Rodange 91": "FC 로당주 91",
   "Racing FC Union Luxembourg": "라싱FC 유니온 룩셈부르크",
   "Jeunesse Canach": "죄네스 카나흐",
+  "Uta Arad": "UTA 아라드",
+  "FC Bacau": "FCM 바카우",  
+  "Banga": "방가 가르그즈다이",
 
   
   //중국축구
@@ -1549,6 +1552,8 @@ const TEAM_NAME_MAP = {
   "Shenzhen Juniors": "선전 주니어스",
   "Nantong Zhiyun": "난퉁 지윈",
   "Chengdu Better City": "청두 룽청",
+  "Zhejiang FC": "저장 FC",
+  "Jiangxi Liansheng": "장시 롄성"
 
 };
 
