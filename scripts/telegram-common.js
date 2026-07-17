@@ -75,3 +75,26 @@ export async function sendTelegramMessage(text) {
   }
   return true;
 }
+
+// 캡션 없이 사진 한 장만 전송한다. (본문 텍스트는 뒤이어 sendTelegramMessage로 별도 발송)
+// photoUrl은 텔레그램 서버가 직접 접근 가능한 공개 URL이어야 한다 (예: imgur 직링크).
+export async function sendTelegramPhoto(photoUrl) {
+  if (!BOT_TOKEN || !CHAT_ID) {
+    console.log('⚠️ TELEGRAM_BOT_TOKEN 또는 TELEGRAM_CHAT_ID가 없어 알림을 건너뜁니다.');
+    return false;
+  }
+  const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendPhoto`;
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      chat_id: CHAT_ID,
+      photo: photoUrl,
+    }),
+  });
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`텔레그램 사진 전송 실패 HTTP ${res.status}: ${body}`);
+  }
+  return true;
+}

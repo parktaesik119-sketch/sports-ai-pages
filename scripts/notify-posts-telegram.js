@@ -16,7 +16,10 @@ import fs from 'fs';
 import path from 'path';
 import { execSync } from 'child_process';
 import { fileURLToPath } from 'url';
-import { parseFrontmatterField, toShortDate, sendTelegramMessage, SPORT_LABEL_KO, buildPostUrl, escapeHtml } from './telegram-common.js';
+import { parseFrontmatterField, toShortDate, sendTelegramMessage, sendTelegramPhoto, SPORT_LABEL_KO, buildPostUrl, escapeHtml } from './telegram-common.js';
+
+// 신규 분석글 알림에 함께 보낼 이미지
+const NOTICE_IMAGE_URL = 'https://i.imgur.com/JvF6iu3.png';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -109,8 +112,9 @@ async function main() {
       s2 + Object.values(leagues).reduce((s3, matches) => s3 + matches.length, 0), 0), 0);
   const sportSetCount = new Set(dateLabels.flatMap(d => Object.keys(grouped[d]))).size;
 
-  const message = ['<b>신규 분석글 업데이트</b>', '', body].join('\n');
+  const message = ['<b>📢 신규 분석글 업데이트</b>', '', body].join('\n');
 
+  await sendTelegramPhoto(NOTICE_IMAGE_URL);
   await sendTelegramMessage(message);
   console.log(`✅ 신규 분석글 알림 발송 완료 (${total}건, ${dateLabels.length}개 날짜, ${sportSetCount}개 종목)`);
 }
