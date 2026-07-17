@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "178.5"
 pickOuDirection: "오버"
+homeLineup: "[\"E. Udeh Jr. (C)|https://a.espncdn.com/i/headshots/nba/players/full/5106261.png\",\"R. Minix (F)|https://a.espncdn.com/i/headshots/nba/players/full/5177362.png\",\"M. Thomas (G)|https://a.espncdn.com/i/headshots/nba/players/full/5041951.png\",\"J. Robinson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4702528.png\",\"M. Branham (G)|https://a.espncdn.com/i/headshots/nba/players/full/4565201.png\"]"
+awayLineup: "[\"D. Atwell (F)|https://a.espncdn.com/i/headshots/nba/players/full/5107355.png\",\"T. Awaka (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105555.png\",\"J. Sellers (G)|https://a.espncdn.com/i/headshots/nba/players/full/4898010.png\",\"A. Reeves (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592686.png\",\"K. Chandler (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432646.png\"]"
 ---
