@@ -1,0 +1,31 @@
+---
+title: "충칭 통량룽 vs 저장 뤼청 경기분석·라인업·결장자·통계·승부예측 (7월 18일) | SL - 픽천국"
+date: 2026-07-18T11:00:00+00:00
+description: "충칭 통량룽 vs 저장 뤼청 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1523206-2026-07-18-chongqing-tongliang-long"
+category: "soccer"
+country: "중국"
+league: "SL"
+homeTeam: "충칭 통량룽"
+awayTeam: "저장 뤼청"
+homeLogo: "https://media.api-sports.io/football/teams/21262.png"
+awayLogo: "https://media.api-sports.io/football/teams/848.png"
+homeAnalysis: "충칭 통량룽은 2026시즌 최근 12경기에서 3승 5무 4패, 평균 득점 0.9로 다소 신중한 전력을 보이고 있습니다. 득점 생산은 폭발적이지 않지만 경기마다 한 골 안팎은 꾸준히 만들어 내며 흐름을 버티는 모습이 돋보입니다. 다만 실점 억제력이 아주 단단한 편은 아니어서, 앞서 나가도 경기 후반에 흔들리는 장면이 종종 나타나고 있습니다. 홈에서는 상대를 완전히 눌러 버리기보다는 조직적으로 버티며 기회를 기다리는 성향이 강해 보입니다. 최근에는 텐진 진먼후전과 닝보 프로페셔널전처럼 승부를 가져온 경기들도 있었지만, 강한 압박을 받는 구간에서는 공격 효율이 떨어지는 점이 아쉽습니다."
+awayAnalysis: "저장 뤼청은 2026시즌 최근 10경기에서 4승 3무 3패, 평균 득점 1.8로 공격 전개가 더 활발한 전력을 보여주고 있습니다. 득점 생산이 홈팀보다 분명히 높고, 경기 양상도 다득점 흐름으로 이어지는 경우가 많아 상대 수비를 계속 흔드는 힘이 있습니다. 다만 실점도 함께 나오는 편이라 수비 안정감은 완성도가 높다고 보기는 어렵습니다. 원정에서도 허난 FC전과 윈난 유쿤전처럼 득점력을 바탕으로 결과를 만든 경기가 있어, 원정 부담 속에서도 공격 색깔을 유지하는 점이 강점입니다. 최근에는 상하이 선화전과 칭다오 계열 팀들과의 경기에서 연속으로 실점이 늘어난 점이 변수이지만, 전체적으로는 공격 쪽 기대치가 더 높은 팀으로 평가됩니다."
+homePower: "충칭 통량룽은 경기당 한 골 안팎으로 버티는 실리형 전력임|홈에서 무리하지 않고 균형을 먼저 잡는 운영이 특징임|실점 억제는 완벽하지 않으나 대량 실점은 자주 없었음|득점 효율이 높지 않아 선제 득점 여부가 중요하게 작용함|상대 압박이 강해질수록 마무리 장면의 정교함이 과제로 보임"
+awayPower: "저장 뤼청은 공격 전개 속도와 마무리 다양성이 강점임|경기당 득점 기대치가 높아 흐름을 끌고 가는 힘이 있음|원정에서도 득점 시도 자체를 줄이지 않는 점이 인상적임|다만 실점 동반 경향이 있어 수비 집중력은 보완 필요함|주도권을 잡는 경기에서 결과를 만들어 내는 능력이 검증됨"
+h2h: '[]'
+summary: "충칭 통량룽은 시즌 전체 흐름에서 끈질기게 버티는 힘은 있지만, 득점 생산과 경기 지배력에서는 다소 제한적인 모습입니다. 반면 저장 뤼청은 더 높은 득점 기대치와 공격 전개 속도를 바탕으로 경기 주도권을 잡을 가능성이 높아 보입니다. 수비 쪽에서는 양 팀 모두 완벽하다고 보기는 어렵지만, 전체 전력의 무게감과 최근 공격 흐름을 함께 보면 저장 뤼청이 한발 앞선 전력으로 평가됩니다."
+homeRecent: '[{"date":"26.07.11","home":"청두 룽청","away":"충칭 통량룽","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523200-2026-07-11-chengdu-better-city/"},{"date":"26.07.04","home":"랴오닝 선양","away":"충칭 통량룽","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523188-2026-07-04-shenyang-urban/"},{"date":"26.06.27","home":"충칭 통량룽","away":"텐진 진먼후","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523184-2026-06-27-chongqing-tongliang-long/"},{"date":"26.06.20","home":"닝보 프로페셔널","away":"충칭 통량룽","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1545494-2026-06-20-ningbo-professional/"},{"date":"26.05.30","home":"충칭 통량룽","away":"베이징 궈안","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523175-2026-05-30-chongqing-tongliang-long/"}]'
+awayRecent: '[{"date":"26.07.14","home":"저장 뤼청","away":"칭다오 하이뉴","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523197-2026-07-14-hangzhou-greentown/"},{"date":"26.07.05","home":"상하이 선화","away":"저장 뤼청","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523194-2026-07-05-shanghai-shenhua/"},{"date":"26.06.28","home":"칭다오 FC","away":"저장 뤼청","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523185-2026-06-28-qingdao-youth-island/"},{"date":"26.06.19","home":"산시 유니온","away":"저장 뤼청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1545496-2026-06-19-shaanxi-union/"},{"date":"26.05.30","home":"허난 FC","away":"저장 뤼청","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523172-2026-05-30-henan-jianye/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "저장 뤼청"
+pickWinResult: "승"
+pickHandicapTeam: "저장 뤼청"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
