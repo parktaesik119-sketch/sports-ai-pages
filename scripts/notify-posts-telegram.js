@@ -19,7 +19,7 @@ import { fileURLToPath } from 'url';
 import { parseFrontmatterField, toShortDate, sendTelegramMessage, sendTelegramPhoto, SPORT_LABEL_KO, buildPostUrl, escapeHtml } from './telegram-common.js';
 
 // 신규 분석글 알림에 함께 보낼 이미지
-const NOTICE_IMAGE_URL = '/image/new-up.png';
+const NOTICE_IMAGE_URL = 'https://pick79.com/images/new-up.png';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
