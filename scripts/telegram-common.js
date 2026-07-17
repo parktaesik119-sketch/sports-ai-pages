@@ -1,6 +1,9 @@
 // scripts/telegram-common.js
 // 두 알림 스크립트(notify-lineup-telegram.js, notify-posts-telegram.js)가 공통으로 쓰는 유틸
 
+import fs from 'fs';
+import path from 'path';
+
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT_ID = process.env.TELEGRAM_CHAT_ID;
 
@@ -77,21 +80,32 @@ export async function sendTelegramMessage(text) {
 }
 
 // 캡션 없이 사진 한 장만 전송한다. (본문 텍스트는 뒤이어 sendTelegramMessage로 별도 발송)
-// photoUrl은 텔레그램 서버가 직접 접근 가능한 공개 URL이어야 한다 (예: imgur 직링크).
-export async function sendTelegramPhoto(photoUrl) {
+// photoSource가 http(s):// 로 시작하면 URL 방식(텔레그램 서버가 직접 접근), 아니면
+// 로컬 파일 경로로 간주해 실제 파일 바이너리를 multipart/form-data로 업로드한다.
+export async function sendTelegramPhoto(photoSource) {
   if (!BOT_TOKEN || !CHAT_ID) {
     console.log('⚠️ TELEGRAM_BOT_TOKEN 또는 TELEGRAM_CHAT_ID가 없어 알림을 건너뜁니다.');
     return false;
   }
   const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendPhoto`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      chat_id: CHAT_ID,
-      photo: photoUrl,
-    }),
-  });
+  const isUrl = /^https?:\/\//i.test(photoSource);
+
+  let res;
+  if (isUrl) {
+    res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ chat_id: CHAT_ID, photo: photoSource }),
+    });
+  } else {
+    // 로컬 파일 경로: 실제 파일을 읽어서 바이너리로 업로드
+    const fileBuffer = fs.readFileSync(photoSource);
+    const form = new FormData();
+    form.append('chat_id', CHAT_ID);
+    form.append('photo', new Blob([fileBuffer]), path.basename(photoSource));
+    res = await fetch(url, { method: 'POST', body: form });
+  }
+
   if (!res.ok) {
     const body = await res.text();
     throw new Error(`텔레그램 사진 전송 실패 HTTP ${res.status}: ${body}`);
