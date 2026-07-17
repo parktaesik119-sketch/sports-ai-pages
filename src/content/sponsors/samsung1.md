@@ -9,7 +9,7 @@ eventAmount: 300000000
 eventProducts: ["갤럭시", "세탁기", "노트북"]
 ongoingEvent: "10월 31일까지 전제품 20% 할인"
 adImage: "https://i.imgur.com/crjFPBp.png"
-order: 1
+order: 6
 active: true
 ---
 

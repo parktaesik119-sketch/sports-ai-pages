@@ -9,7 +9,7 @@ eventAmount: 150000000
 eventProducts: ["운동화", "트레이닝복", "축구화"]
 ongoingEvent: "멤버십 가입 시 첫 구매 15% 할인 쿠폰 증정"
 adImage: "https://i.imgur.com/Yo3Lxu3.png"
-order: 2
+order: 4
 active: true
 ---
 

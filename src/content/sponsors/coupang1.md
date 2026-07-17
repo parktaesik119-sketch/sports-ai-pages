@@ -9,7 +9,7 @@ eventAmount: 80000000
 eventProducts: ["로켓배송", "로켓프레시", "쿠팡플레이"]
 ongoingEvent: "신규가입 시 로켓와우 30일 무료체험"
 adImage: "https://i.imgur.com/dq9C282.png"
-order: 3
+order: 5
 active: true
 ---
 
