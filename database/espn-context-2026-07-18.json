@@ -1,1406 +1,5 @@
 [
   {
-    "home": "Inter Turku",
-    "away": "FK Sarajevo",
-    "date": "2026-07-16T15:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877751",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T19:00Z",
-          "home": "FK Sarajevo",
-          "away": "FC Inter Turku",
-          "homeScore": 1,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Yelimay Semey",
-    "away": "Alashkert",
-    "date": "2026-07-16T15:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877980",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T16:00Z",
-          "home": "Alashkert FC",
-          "away": "Yelimay",
-          "homeScore": 1,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Ilves",
-    "away": "FC Differdange 03",
-    "date": "2026-07-16T16:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877781",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-08T17:30Z",
-          "home": "FC Differdange 03",
-          "away": "FC Ilves",
-          "homeScore": 0,
-          "awayScore": 0,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Paide",
-    "away": "Hegelmann Litauen",
-    "date": "2026-07-16T16:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877754",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T16:00Z",
-          "home": "Hegelmann",
-          "away": "Paide Linnameeskond",
-          "homeScore": 1,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Pyunik Yerevan",
-    "away": "Marsaxlokk",
-    "date": "2026-07-16T16:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877756",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T17:00Z",
-          "home": "Marsaxlokk FC",
-          "away": "Pyunik",
-          "homeScore": 0,
-          "awayScore": 3,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "St Joseph S Fc",
-    "away": "Bohemians",
-    "date": "2026-07-16T16:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877786",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T17:00Z",
-          "home": "Bohemians",
-          "away": "St. Joseph's",
-          "homeScore": 2,
-          "awayScore": 0,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Torpedo Kutaisi",
-    "away": "Zira",
-    "date": "2026-07-16T16:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877782",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-08T16:00Z",
-          "home": "Zira FK",
-          "away": "Torpedo Kutaisi",
-          "homeScore": 3,
-          "awayScore": 0,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "FC Levadia Tallinn",
-    "away": "Caernarfon Town",
-    "date": "2026-07-16T16:30:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877755",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T17:30Z",
-          "home": "Caernarfon",
-          "away": "FC Levadia Tallinn",
-          "homeScore": 0,
-          "awayScore": 5,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Bate Borisov",
-    "away": "AF Elbasani",
-    "date": "2026-07-16T17:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877981",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-07T18:00Z",
-          "home": "AF Elbasani",
-          "away": "BATE Borisov",
-          "homeScore": 1,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Dinamo Tbilisi",
-    "away": "US Mondorf-les-bains",
-    "date": "2026-07-16T17:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877982",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T17:15Z",
-          "home": "Mondorf-les-Bains",
-          "away": "Dinamo Tbilisi",
-          "homeScore": 1,
-          "awayScore": 2,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "FC Santa Coloma",
-    "away": "Penybont",
-    "date": "2026-07-16T17:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877748",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 3,
-      "games": [
-        {
-          "date": "2026-07-09T18:45Z",
-          "home": "Penybont FC",
-          "away": "Santa Coloma",
-          "homeScore": 0,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        },
-        {
-          "date": "2023-07-20T15:00Z",
-          "home": "Santa Coloma",
-          "away": "Penybont FC",
-          "homeScore": 2,
-          "awayScore": 0,
-          "competition": "2023-24 UEFA Europa Conference League Qualifying"
-        },
-        {
-          "date": "2023-07-13T17:30Z",
-          "home": "Penybont FC",
-          "away": "Santa Coloma",
-          "homeScore": 1,
-          "awayScore": 1,
-          "competition": "2023-24 UEFA Europa Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Vikingur Gota",
-    "away": "Stjarnan",
-    "date": "2026-07-16T17:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877796",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T19:00Z",
-          "home": "Stjarnan",
-          "away": "Víkingur",
-          "homeScore": 3,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "FK Zalgiris Vilnius",
-    "away": "Petrovac",
-    "date": "2026-07-16T17:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877757",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T18:45Z",
-          "home": "OFK Petrovac",
-          "away": "Zalgiris Vilnius",
-          "homeScore": 1,
-          "awayScore": 3,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Hamrun Spartans",
-    "away": "NSI Runavik",
-    "date": "2026-07-16T17:30:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877747",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T18:45Z",
-          "home": "NSI Runavik",
-          "away": "Hamrun Spartans",
-          "homeScore": 1,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Derry City",
-    "away": "CSKA Sofia",
-    "date": "2026-07-16T17:30:00+00:00",
-    "league": "UEFA Europa League",
-    "sport": "soccer",
-    "espnSport": "soccer_uel_qual",
-    "gameId": "401878075",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T18:00Z",
-          "home": "CSKA Sofia",
-          "away": "Derry City",
-          "homeScore": 3,
-          "awayScore": 2,
-          "competition": "2026-27 UEFA Europa League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Universitatea Cluj",
-    "away": "Dynamo Kyiv",
-    "date": "2026-07-16T17:30:00+00:00",
-    "league": "UEFA Europa League",
-    "sport": "soccer",
-    "espnSport": "soccer_uel_qual",
-    "gameId": "401878073",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T17:00Z",
-          "home": "Dynamo Kyiv",
-          "away": "Universitatea Cluj",
-          "homeScore": 0,
-          "awayScore": 0,
-          "competition": "2026-27 UEFA Europa League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Ballkani",
-    "away": "GAP Connah S Quay FC",
-    "date": "2026-07-16T18:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877787",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-08T17:30Z",
-          "home": "Connah's Quay",
-          "away": "Ballkani",
-          "homeScore": 0,
-          "awayScore": 0,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Shkendija",
-    "away": "Europa",
-    "date": "2026-07-16T18:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877750",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T17:30Z",
-          "home": "Europa FC",
-          "away": "KF Shkëndija",
-          "homeScore": 0,
-          "awayScore": 5,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Sileks",
-    "away": "Dinamo Minsk",
-    "date": "2026-07-16T18:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877783",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T17:00Z",
-          "home": "Dinamo Minsk",
-          "away": "FK Sileks ",
-          "homeScore": 0,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Aluminij",
-    "away": "Sheriff Tiraspol",
-    "date": "2026-07-16T18:00:00+00:00",
-    "league": "UEFA Europa League",
-    "sport": "soccer",
-    "espnSport": "soccer_uel_qual",
-    "gameId": "401877922",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T17:00Z",
-          "home": "Sheriff Tiraspol",
-          "away": "Aluminij",
-          "homeScore": 0,
-          "awayScore": 0,
-          "competition": "2026-27 UEFA Europa League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Ferencvarosi TC",
-    "away": "Vojvodina",
-    "date": "2026-07-16T18:15:00+00:00",
-    "league": "UEFA Europa League",
-    "sport": "soccer",
-    "espnSport": "soccer_uel_qual",
-    "gameId": "401878074",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T18:00Z",
-          "home": "Vojvodina",
-          "away": "Ferencvaros",
-          "homeScore": 1,
-          "awayScore": 2,
-          "competition": "2026-27 UEFA Europa League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Žilina",
-    "away": "HNK Hajduk Split",
-    "date": "2026-07-16T18:30:00+00:00",
-    "league": "UEFA Europa League",
-    "sport": "soccer",
-    "espnSport": "soccer_uel_qual",
-    "gameId": "401878076",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 3,
-      "games": [
-        {
-          "date": "2026-07-09T18:00Z",
-          "home": "Hajduk Split",
-          "away": "MSK Zilina",
-          "homeScore": 2,
-          "awayScore": 0,
-          "competition": "2026-27 UEFA Europa League Qualifying"
-        },
-        {
-          "date": "2009-08-06T19:00Z",
-          "home": "Hajduk Split",
-          "away": "MSK Zilina",
-          "homeScore": 0,
-          "awayScore": 1,
-          "competition": "2009/10 UEFA Europa League"
-        },
-        {
-          "date": "2009-07-30T17:30Z",
-          "home": "MSK Zilina",
-          "away": "Hajduk Split",
-          "homeScore": 1,
-          "awayScore": 1,
-          "competition": "2009/10 UEFA Europa League"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Mornar",
-    "away": "Atlètic Club d'Escaldes",
-    "date": "2026-07-16T18:45:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877802",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T14:00Z",
-          "home": "Atlètic Club d'Escaldes",
-          "away": "Mornar",
-          "homeScore": 2,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Virtus",
-    "away": "Dila",
-    "date": "2026-07-16T19:00:00+00:00",
-    "league": "UEFA Europa Conference League",
-    "sport": "soccer",
-    "espnSport": "soccer_uecl_qual",
-    "gameId": "401877752",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T16:00Z",
-          "home": "Dila Gori",
-          "away": "AC Virtus",
-          "homeScore": 3,
-          "awayScore": 1,
-          "competition": "2026-27 UEFA Conference League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Vestri",
-    "away": "Qarabag",
-    "date": "2026-07-16T20:00:00+00:00",
-    "league": "UEFA Europa League",
-    "sport": "soccer",
-    "espnSport": "soccer_uel_qual",
-    "gameId": "401877923",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-07-09T16:00Z",
-          "home": "FK Qarabag",
-          "away": "Vestri",
-          "homeScore": 3,
-          "awayScore": 0,
-          "competition": "2026-27 UEFA Europa League Qualifying"
-        }
-      ]
-    }
-  },
-  {
-    "home": "CF Montreal",
-    "away": "Toronto FC",
-    "date": "2026-07-16T23:30:00+00:00",
-    "league": "Major League Soccer",
-    "sport": "soccer",
-    "espnSport": "soccer_mls",
-    "gameId": "761659",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "11",
-        "wins": "4",
-        "losses": "8",
-        "ties": "2",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "22",
-        "pointsAgainst": "31"
-      },
-      "away": {
-        "rank": "13",
-        "wins": "3",
-        "losses": "6",
-        "ties": "5",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "22",
-        "pointsAgainst": "29"
-      }
-    },
-    "h2h": {
-      "source": "headToHeadGames",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2025-08-30T23:30Z",
-          "home": "Toronto FC",
-          "away": "CF Montréal",
-          "homeScore": 1,
-          "awayScore": 1,
-          "competition": "2025 MLS"
-        },
-        {
-          "date": "2025-05-17T18:30Z",
-          "home": "CF Montréal",
-          "away": "Toronto FC",
-          "homeScore": 1,
-          "awayScore": 6,
-          "competition": "2025 MLS"
-        },
-        {
-          "date": "2024-07-20T23:30Z",
-          "home": "CF Montréal",
-          "away": "Toronto FC",
-          "homeScore": 0,
-          "awayScore": 1,
-          "competition": "2024 MLS"
-        },
-        {
-          "date": "2024-05-18T23:30Z",
-          "home": "Toronto FC",
-          "away": "CF Montréal",
-          "homeScore": 5,
-          "awayScore": 1,
-          "competition": "2024 MLS"
-        },
-        {
-          "date": "2023-08-20T23:30Z",
-          "home": "Toronto FC",
-          "away": "CF Montréal",
-          "homeScore": 2,
-          "awayScore": 3,
-          "competition": "2023 MLS"
-        }
-      ]
-    }
-  },
-  {
-    "home": "Indiana Fever W",
-    "away": "Golden State Valkyries W",
-    "date": "2026-07-16T00:00:00+00:00",
-    "league": "NBA W",
-    "sport": "basketball",
-    "espnSport": "wnba",
-    "gameId": "401857070",
-    "injuries": {
-      "home": [
-        {
-          "name": "Caitlin Clark",
-          "status": "Day-To-Day",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Aliyah Boston",
-          "status": "Day-To-Day",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Iliana Rupert",
-          "status": "Out",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "2",
-        "wins": "14",
-        "losses": "10",
-        "ties": null,
-        "winPercent": ".583",
-        "gamesBehind": "-",
-        "pointsFor": "2237",
-        "pointsAgainst": "2136"
-      },
-      "away": {
-        "rank": "2",
-        "wins": "18",
-        "losses": "7",
-        "ties": null,
-        "winPercent": ".720",
-        "gamesBehind": "1",
-        "pointsFor": "2055",
-        "pointsAgainst": "1903"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "GS wins series 2-1",
-      "totalGames": 2,
-      "games": [
-        {
-          "date": "2026-05-22T23:30:00Z",
-          "home": "Indiana Fever",
-          "away": "Golden State Valkyries",
-          "homeScore": 90,
-          "awayScore": 82,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-05-29T02:00:00Z",
-          "home": "Golden State Valkyries",
-          "away": "Indiana Fever",
-          "homeScore": 90,
-          "awayScore": 88,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Sacramento Kings",
-    "away": "Boston Celtics",
-    "date": "2026-07-16T00:00:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881870",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "27",
-        "wins": "1",
-        "losses": "3",
-        "ties": null,
-        "winPercent": ".250",
-        "gamesBehind": null,
-        "pointsFor": "335",
-        "pointsAgainst": "386"
-      },
-      "away": {
-        "rank": "8",
-        "wins": "3",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".750",
-        "gamesBehind": null,
-        "pointsFor": "342",
-        "pointsAgainst": "333"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "San Antonio Spurs",
-    "away": "Utah Jazz",
-    "date": "2026-07-16T01:30:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881871",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "10",
-        "wins": "3",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".750",
-        "gamesBehind": null,
-        "pointsFor": "320",
-        "pointsAgainst": "304"
-      },
-      "away": {
-        "rank": "21",
-        "wins": "1",
-        "losses": "3",
-        "ties": null,
-        "winPercent": ".250",
-        "gamesBehind": null,
-        "pointsFor": "332",
-        "pointsAgainst": "353"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Oklahoma City Thunder",
-    "away": "Dallas Mavericks",
-    "date": "2026-07-16T20:00:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881873",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "30",
-        "wins": "0",
-        "losses": "4",
-        "ties": null,
-        "winPercent": ".000",
-        "gamesBehind": null,
-        "pointsFor": "353",
-        "pointsAgainst": "403"
-      },
-      "away": {
-        "rank": "18",
-        "wins": "2",
-        "losses": "2",
-        "ties": null,
-        "winPercent": ".500",
-        "gamesBehind": null,
-        "pointsFor": "353",
-        "pointsAgainst": "367"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Houston Rockets",
-    "away": "Brooklyn Nets",
-    "date": "2026-07-16T20:30:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881874",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "3",
-        "wins": "3",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".750",
-        "gamesBehind": null,
-        "pointsFor": "379",
-        "pointsAgainst": "335"
-      },
-      "away": {
-        "rank": "11",
-        "wins": "2",
-        "losses": "2",
-        "ties": null,
-        "winPercent": ".500",
-        "gamesBehind": null,
-        "pointsFor": "365",
-        "pointsAgainst": "334"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Chicago Bulls",
-    "away": "Los Angeles Lakers",
-    "date": "2026-07-16T22:00:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881875",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "28",
-        "wins": "1",
-        "losses": "3",
-        "ties": null,
-        "winPercent": ".250",
-        "gamesBehind": null,
-        "pointsFor": "340",
-        "pointsAgainst": "369"
-      },
-      "away": {
-        "rank": "1",
-        "wins": "4",
-        "losses": "0",
-        "ties": null,
-        "winPercent": "1.000",
-        "gamesBehind": null,
-        "pointsFor": "391",
-        "pointsAgainst": "321"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Washington Mystics W",
-    "away": "Portland Fire W",
-    "date": "2026-07-16T23:00:00+00:00",
-    "league": "NBA W",
-    "sport": "basketball",
-    "espnSport": "wnba",
-    "gameId": "401857071",
-    "injuries": {
-      "home": [
-        {
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "detail": "Not Specified"
-        }
-      ],
-      "away": [
-        {
-          "name": "Jordan Harrison",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Megan Gustafson",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Sania Feagin",
-          "status": "Out",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "4",
-        "wins": "12",
-        "losses": "11",
-        "ties": null,
-        "winPercent": ".522",
-        "gamesBehind": "1.5",
-        "pointsFor": "1841",
-        "pointsAgainst": "1906"
-      },
-      "away": {
-        "rank": "5",
-        "wins": "11",
-        "losses": "14",
-        "ties": null,
-        "winPercent": ".440",
-        "gamesBehind": "8",
-        "pointsFor": "2114",
-        "pointsAgainst": "2244"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "Series tied 1-1",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-06-28T19:00:00Z",
-          "home": "Washington Mystics",
-          "away": "Portland Fire",
-          "homeScore": 124,
-          "awayScore": 123,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "New York Knicks",
-    "away": "Golden State Warriors",
-    "date": "2026-07-16T23:00:00+00:00",
-    "league": "NBA - Las Vegas Summer League",
-    "sport": "basketball",
-    "espnSport": "basketball_summer_lasvegas",
-    "gameId": "401881876",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "29",
-        "wins": "1",
-        "losses": "3",
-        "ties": null,
-        "winPercent": ".250",
-        "gamesBehind": null,
-        "pointsFor": "277",
-        "pointsAgainst": "323"
-      },
-      "away": {
-        "rank": "4",
-        "wins": "3",
-        "losses": "1",
-        "ties": null,
-        "winPercent": ".750",
-        "gamesBehind": null,
-        "pointsFor": "377",
-        "pointsAgainst": "352"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Philadelphia Phillies",
-    "away": "New York Mets",
-    "date": "2026-07-16T22:40:00+00:00",
-    "league": "MLB",
-    "sport": "baseball",
-    "espnSport": "baseball",
-    "gameId": "401816143",
-    "injuries": {
-      "home": [
-        {
-          "name": "Lou Trivino",
-          "status": "15-Day-IL",
-          "detail": "Spasms"
-        },
-        {
-          "name": "Tanner Banks",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Brad Keller",
-          "status": "15-Day-IL",
-          "detail": ""
-        },
-        {
-          "name": "Johan Rojas",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Adolis Garcia",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
-        }
-      ],
-      "away": [
-        {
-          "name": "Juan Soto",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
-        },
-        {
-          "name": "Luis Robert Jr.",
-          "status": "60-Day-IL",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Dedniel Nunez",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Austin Warren",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Clay Holmes",
-          "status": "60-Day-IL",
-          "detail": "Fracture"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "5",
-        "wins": "54",
-        "losses": "44",
-        "ties": "0",
-        "winPercent": ".551",
-        "gamesBehind": "7.5",
-        "pointsFor": "425",
-        "pointsAgainst": "438"
-      },
-      "away": {
-        "rank": "14",
-        "wins": "41",
-        "losses": "57",
-        "ties": "0",
-        "winPercent": ".418",
-        "gamesBehind": "20.5",
-        "pointsFor": "402",
-        "pointsAgainst": "464"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "PHI leads series 4-3",
-      "totalGames": 7,
-      "games": [
-        {
-          "date": "2026-06-18T22:40:00Z",
-          "home": "Philadelphia Phillies",
-          "away": "New York Mets",
-          "homeScore": 4,
-          "awayScore": 6,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-06-20T23:15:00Z",
-          "home": "Philadelphia Phillies",
-          "away": "New York Mets",
-          "homeScore": 15,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-06-21T23:20:00Z",
-          "home": "Philadelphia Phillies",
-          "away": "New York Mets",
-          "homeScore": 6,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-06-26T23:10:00Z",
-          "home": "New York Mets",
-          "away": "Philadelphia Phillies",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-06-27T20:10:00Z",
-          "home": "New York Mets",
-          "away": "Philadelphia Phillies",
-          "homeScore": 6,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-06-28T17:40:00Z",
-          "home": "New York Mets",
-          "away": "Philadelphia Phillies",
-          "homeScore": 4,
-          "awayScore": 5,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-07-16T22:00:00Z",
-          "home": "Philadelphia Phillies",
-          "away": "New York Mets",
-          "homeScore": 1,
-          "awayScore": 4,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "St. Louis City",
     "away": "Sporting Kansas City",
     "date": "2026-07-17T00:30:00+00:00",
@@ -1711,81 +310,6 @@
       }
     },
     "h2h": null
-  },
-  {
-    "home": "Dallas Wings W",
-    "away": "New York Liberty W",
-    "date": "2026-07-17T01:00:00+00:00",
-    "league": "NBA W",
-    "sport": "basketball",
-    "espnSport": "wnba",
-    "gameId": "401857072",
-    "injuries": {
-      "home": [
-        {
-          "name": "Alanna Smith",
-          "status": "Day-To-Day",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Satou Sabally",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Leonie Fiebich",
-          "status": "Out",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "4",
-        "wins": "16",
-        "losses": "8",
-        "ties": null,
-        "winPercent": ".667",
-        "gamesBehind": "2.5",
-        "pointsFor": "2147",
-        "pointsAgainst": "2049"
-      },
-      "away": {
-        "rank": "3",
-        "wins": "13",
-        "losses": "11",
-        "ties": null,
-        "winPercent": ".542",
-        "gamesBehind": "1",
-        "pointsFor": "2108",
-        "pointsAgainst": "2027"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "DAL leads series 2-0",
-      "totalGames": 2,
-      "games": [
-        {
-          "date": "2026-05-24T19:30:00Z",
-          "home": "New York Liberty",
-          "away": "Dallas Wings",
-          "homeScore": 76,
-          "awayScore": 91,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-07-08T00:00:00Z",
-          "home": "New York Liberty",
-          "away": "Dallas Wings",
-          "homeScore": 77,
-          "awayScore": 88,
-          "isCompleted": true
-        }
-      ]
-    }
   },
   {
     "home": "Miami Heat",
@@ -2213,11 +737,6 @@
       ],
       "away": [
         {
-          "name": "Junior Caminero",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
-        },
-        {
           "name": "Gavin Lux",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -2235,6 +754,11 @@
         {
           "name": "Manuel Rodriguez",
           "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Jake Fraley",
+          "status": "10-Day-IL",
           "detail": "Surgery"
         }
       ]
@@ -2529,11 +1053,6 @@
       ],
       "away": [
         {
-          "name": "Junior Caminero",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
-        },
-        {
           "name": "Gavin Lux",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -2551,6 +1070,11 @@
         {
           "name": "Manuel Rodriguez",
           "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Jake Fraley",
+          "status": "10-Day-IL",
           "detail": "Surgery"
         }
       ]
@@ -2778,11 +1302,6 @@
     "injuries": {
       "home": [
         {
-          "name": "Ronald Acuna Jr.",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Ha-Seong Kim",
           "status": "10-Day-IL",
           "detail": "Inflammation"
@@ -2791,6 +1310,11 @@
           "name": "Sean Murphy",
           "status": "60-Day-IL",
           "detail": "Fracture"
+        },
+        {
+          "name": "Ronald Acuna Jr.",
+          "status": "10-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Martin Perez",
@@ -3215,5 +1739,181 @@
         }
       ]
     }
+  },
+  {
+    "home": "New York Knicks",
+    "away": "Dallas Mavericks",
+    "date": "2026-07-18T00:30:00+00:00",
+    "league": "NBA - Las Vegas Summer League",
+    "sport": "basketball",
+    "espnSport": "basketball_summer_lasvegas",
+    "gameId": "401881709",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "29",
+        "wins": "1",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".250",
+        "gamesBehind": null,
+        "pointsFor": "277",
+        "pointsAgainst": "323"
+      },
+      "away": {
+        "rank": "18",
+        "wins": "2",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".500",
+        "gamesBehind": null,
+        "pointsFor": "353",
+        "pointsAgainst": "367"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Miami Heat",
+    "away": "Detroit Pistons",
+    "date": "2026-07-18T01:00:00+00:00",
+    "league": "NBA - Las Vegas Summer League",
+    "sport": "basketball",
+    "espnSport": "basketball_summer_lasvegas",
+    "gameId": "401881710",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "23",
+        "wins": "1",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".250",
+        "gamesBehind": null,
+        "pointsFor": "370",
+        "pointsAgainst": "368"
+      },
+      "away": {
+        "rank": "22",
+        "wins": "1",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".250",
+        "gamesBehind": null,
+        "pointsFor": "359",
+        "pointsAgainst": "381"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Phoenix Mercury W",
+    "away": "Connecticut Sun W",
+    "date": "2026-07-18T02:00:00+00:00",
+    "league": "NBA W",
+    "sport": "basketball",
+    "espnSport": "wnba",
+    "gameId": "401857076",
+    "injuries": {
+      "home": [
+        {
+          "name": "Natasha Mack",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Kyara Linskens",
+          "status": "Day-To-Day",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Sami Whitcomb",
+          "status": "Day-To-Day",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Jovana Nogic",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Saniya Rivers",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "8",
+        "losses": "17",
+        "ties": null,
+        "winPercent": ".320",
+        "gamesBehind": "11",
+        "pointsFor": "2082",
+        "pointsAgainst": "2182"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "6",
+        "losses": "18",
+        "ties": null,
+        "winPercent": ".250",
+        "gamesBehind": "8",
+        "pointsFor": "1913",
+        "pointsAgainst": "2073"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Utah Jazz",
+    "away": "Portland Trail Blazers",
+    "date": "2026-07-18T02:30:00+00:00",
+    "league": "NBA - Las Vegas Summer League",
+    "sport": "basketball",
+    "espnSport": "basketball_summer_lasvegas",
+    "gameId": "401881711",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "21",
+        "wins": "1",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".250",
+        "gamesBehind": null,
+        "pointsFor": "332",
+        "pointsAgainst": "353"
+      },
+      "away": {
+        "rank": "12",
+        "wins": "2",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".500",
+        "gamesBehind": null,
+        "pointsFor": "403",
+        "pointsAgainst": "378"
+      }
+    },
+    "h2h": null
   }
 ]
