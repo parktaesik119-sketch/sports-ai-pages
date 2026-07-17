@@ -78,12 +78,14 @@ body {
 }
 
 /* 로고 */
+/* 🔥 예전 텍스트 로고용 스타일 각주 처리 (현재는 BaseLayout.astro에서 이미지 로고 스타일을 관리함, 충돌 방지)
 .logo {
   font-size: 26px;
   font-weight: 500;
   color: #000;
   text-decoration: none;
 }
+*/
 
 /* 메뉴 */
 .nav {
@@ -822,7 +824,7 @@ body {
     cursor: pointer;
   }
 
-  /* 🔥 로고 중앙 정렬 */
+  /* 🔥 로고 중앙 정렬은 BaseLayout.astro에서 관리 (분기점 통일: 1024px), 여기는 각주 처리
   .header-container {
     position: relative;
     justify-content: center;
@@ -833,6 +835,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
   }
+  */
 
   .menu-btn {
     position: absolute;

@@ -534,7 +534,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 /* 🔥 새 이미지 로고 */
 .logo-img {
-  height: 140px;
+  height: 40px;
   width: auto;
   display: block;
 }
@@ -667,9 +667,9 @@ document.addEventListener('DOMContentLoaded', () => {
 /* =========================
    📱 모바일 헤더 개선
 ========================= */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
 
-  /* 로고 중앙 */
+  /* 로고 중앙 (🔥 분기점을 global.css의 햄버거 전환 시점인 1024px로 통일) */
   .logo {
     position: absolute;
     left: 50%;
