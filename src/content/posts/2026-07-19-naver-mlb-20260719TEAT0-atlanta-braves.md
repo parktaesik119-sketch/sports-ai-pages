@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 O. Murphy (0-1, 2.25) ERA 2.25|https://a.espncdn.com/i/headshots/mlb/players/full/5080750.png\"]"
+homeLineup: "[\"선발투수 O. Murphy (0-1, 2.25) ERA 2.25|https://a.espncdn.com/i/headshots/mlb/players/full/5080750.png\",\"1번 D. Baldwin (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"2번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"5번 M. Dubon (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"6번 E. White (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/39963.png\",\"7번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"8번 J. Bart (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41168.png\",\"9번 J. Jarvis (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5205951.png\"]"
 awayLineup: "[\"선발투수 M. Gore (5-8, 4.63) ERA 4.63|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
 ---
