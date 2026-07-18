@@ -18,12 +18,12 @@ import { execSync } from 'child_process';
 import { fileURLToPath } from 'url';
 import { parseFrontmatterField, toShortDate, sendTelegramMessage, sendTelegramPhoto, SPORT_LABEL_KO, buildPostUrl, escapeHtml } from './telegram-common.js';
 
-// 신규 분석글 알림에 함께 보낼 이미지. (로컬 파일 경로로 지정 (REPO_ROOT 기준))
-const NOTICE_IMAGE_URL = path.resolve(REPO_ROOT, 'public/images/new-up.png');
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const REPO_ROOT = path.resolve(__dirname, '..');
+
+// 신규 분석글 알림에 함께 보낼 이미지. (로컬 파일 경로로 지정 (REPO_ROOT 기준))
+const NOTICE_IMAGE_URL = path.resolve(REPO_ROOT, 'public/images/new-up.png');
 
 function getNewMdFiles(beforeHash) {
   const output = execSync(
