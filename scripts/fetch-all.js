@@ -146,6 +146,30 @@ function getTargetDates() {
   return [...new Set(dates)];
 }
 
+/**
+ * ⚾ 야구 전용 호출 기간: 현재 기준 -1일 ~ +1일 (총 3일)
+ * 축구 등 다른 종목과 달리 야구는 거의 매일 경기가 있어서,
+ * -1~+3일 범위를 그대로 쓰면 불필요한 3~4일 뒤 예정경기까지 쌓여
+ * 분석글의 recent/avg 계산 신뢰도에 영향을 줄 수 있음.
+ * d-1(결과 수집) / d(오늘) / d+1(내일 예고)까지만 가져온다.
+ */
+function getBaseballTargetDates() {
+  const dates = [];
+  const nowUtc = Date.now();
+
+  for (let i = -1; i <= 1; i++) {
+    const target = new Date(nowUtc + i * 24 * 60 * 60 * 1000);
+    const kstOffset = 9 * 60 * 60 * 1000;
+    const kst = new Date(target.getTime() + kstOffset);
+    const y = kst.getUTCFullYear();
+    const m = String(kst.getUTCMonth() + 1).padStart(2, '0');
+    const d = String(kst.getUTCDate()).padStart(2, '0');
+    dates.push(`${y}-${m}-${d}`);
+  }
+
+  return [...new Set(dates)];
+}
+
 function getDateRange() {
   const now = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
   
@@ -186,7 +210,17 @@ async function fetchApiSports(sport, date) {
     const res = await fetch(url, { headers: { "x-apisports-key": API_SPORTS_KEY } });
     const data = await res.json();
     if (!data.response) return [];
-    return data.response.map(item => ({
+
+    let items = data.response;
+
+    // ⚾ 야구는 KBO/MLB/NPB를 네이버스포츠로 이관 완료.
+    // api-sports 야구는 신뢰하지 않기로 했으므로 CPBL만 예외적으로 통과시키고 나머지는 전부 차단.
+    // (CPBL 전용 수집기가 따로 생기기 전까지의 임시 조치)
+    if (sport === "baseball") {
+      items = items.filter(item => (item.league?.name || "").toUpperCase() === "CPBL");
+    }
+
+    return items.map(item => ({
       id: String(item.fixture?.id || item.id),
       sport,
       country: item.league?.country || item.country?.name || "Unknown",
@@ -379,15 +413,21 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
 async function main() {
   try {
     console.log("🚀 데이터 수집을 시작합니다...");
-    const targetDates = getTargetDates(); 
-    const sports = ["soccer", "basketball", "baseball", "hockey", "volleyball"];
+    const targetDates = getTargetDates();          // 축구 등: -1 ~ +3일 (5일)
+    const baseballDates = getBaseballTargetDates(); // 야구 전용: -1 ~ +1일 (3일)
+    const sports = ["soccer", "basketball", "hockey", "volleyball"]; // ⚠️ baseball은 별도 루프로 분리
     const scheduleTasks = [];
 
     targetDates.forEach(date => {
       sports.forEach(sport => {
-        scheduleTasks.push(fetchApiSports(sport, date)); // 5일치 각 날짜별 모든 종목 호출
+        scheduleTasks.push(fetchApiSports(sport, date)); // 5일치 각 날짜별 야구 외 종목 호출
       });
       scheduleTasks.push(fetchLckRapid(date));
+    });
+
+    // ⚾ 야구는 좁은 범위(d-1~d+1)로 별도 호출
+    baseballDates.forEach(date => {
+      scheduleTasks.push(fetchApiSports("baseball", date));
     });
 
 // ✅ 날짜 루프 밖에서 1번만 호출
@@ -398,8 +438,9 @@ scheduleTasks.push(fetchRapidSoccerRange());
 
     // ✅ 네이버스포츠 야구 (KBO / MLB+NPB) — api-sports 야구 호출 이후에 push하여
     //    혹시 모를 키 충돌 시 네이버 데이터가 우선 적용되도록 함
-    const naverFrom = targetDates[0];
-    const naverTo = targetDates[targetDates.length - 1];
+    //    야구 전용 좁은 범위(d-1~d+1) 사용
+    const naverFrom = baseballDates[0];
+    const naverTo = baseballDates[baseballDates.length - 1];
     scheduleTasks.push(fetchNaverBaseball("kbaseball", naverFrom, naverTo)); // KBO
     scheduleTasks.push(fetchNaverBaseball("wbaseball", naverFrom, naverTo)); // MLB + NPB
 
