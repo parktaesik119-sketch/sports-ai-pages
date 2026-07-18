@@ -35,6 +35,78 @@ const MAJOR_SOCCER_LEAGUES = [
 ];
 
 // ==========================
+// ⚾ 네이버스포츠 야구 팀코드 매핑
+// ==========================
+// team_name_map.js(영문→한글 표시용)의 실제 키값과 정확히 일치해야 함.
+// SE/SF처럼 코드가 리그 간에 겹치므로 반드시 categoryId별로 분리해서 조회.
+const NAVER_TEAM_CODE_MAP = {
+  kbo: {
+    HH: "Hanwha Eagles",
+    HT: "KIA Tigers",
+    LG: "LG Twins",
+    LT: "Lotte Giants",
+    NC: "NC Dinos",
+    OB: "Doosan Bears",
+    SK: "SSG Landers",
+    SS: "Samsung Lions",
+    WO: "Kiwoom Heroes",
+    KT: "KT Wiz Suwon", // ⚠️ team_name_map.js 키가 "KT Wiz"가 아니라 "KT Wiz Suwon"
+  },
+  mlb: {
+    AN: "Los Angeles Angels",
+    AT: "Atlanta Braves",
+    AZ: "Arizona Diamondbacks",
+    BA: "Baltimore Orioles",
+    BO: "Boston Red Sox",
+    CC: "Chicago Cubs",
+    CI: "Cincinnati Reds",
+    CL: "Cleveland Guardians",
+    CO: "Colorado Rockies",
+    CW: "Chicago White Sox",
+    DE: "Detroit Tigers",
+    FL: "Miami Marlins",
+    HO: "Houston Astros",
+    KC: "Kansas City Royals",
+    LA: "Los Angeles Dodgers",
+    MI: "Milwaukee Brewers",
+    MN: "Minnesota Twins",
+    MO: "Washington Nationals",
+    NM: "New York Mets",
+    NY: "New York Yankees",
+    OA: "Athletics",
+    PH: "Philadelphia Phillies",
+    PI: "Pittsburgh Pirates",
+    SD: "San Diego Padres",
+    SE: "Seattle Mariners",
+    SF: "San Francisco Giants",
+    SL: "St.Louis Cardinals", // ⚠️ 공백 없음, map 키 그대로
+    TB: "Tampa Bay Rays",
+    TE: "Texas Rangers",
+    TO: "Toronto Blue Jays",
+  },
+  npb: {
+    HI: "Hiroshima Carp",
+    HS: "Hanshin Tigers",
+    JL: "Chiba Lotte Marines",
+    JN: "Chunichi Dragons",
+    NH: "Nippon Ham Fighters",
+    OX: "Orix Buffaloes",
+    RT: "Rakuten Gold. Eagles",
+    SE: "Seibu Lions",
+    SF: "Fukuoka S. Hawks",
+    YA: "Yakult Swallows",
+    YK: "Yokohama BayStars",
+    YO: "Yomiuri Giants",
+  },
+};
+
+const NAVER_COUNTRY_BY_CATEGORY = {
+  kbo: "South Korea",
+  npb: "Japan",
+  mlb: "USA",
+};
+
+// ==========================
 // 🛠 유틸리티 함수
 // ==========================
 
@@ -250,6 +322,57 @@ async function fetchLOLPanda() {
   } catch (err) { return []; }
 }
 
+/**
+ * 네이버스포츠 야구 일정 수집 (KBO: upperCategoryId="kbaseball" / MLB+NPB: upperCategoryId="wbaseball")
+ * wbaseball 하나로 MLB+NPB가 categoryId 필드로 구분되어 함께 옵니다.
+ */
+async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
+  const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=${upperCategoryId}&fromDate=${fromDate}&toDate=${toDate}&size=500`;
+
+  try {
+    const res = await fetch(url, {
+      headers: {
+        "Referer": "https://m.sports.naver.com/",
+        "Origin": "https://m.sports.naver.com",
+        "Accept": "application/json, text/plain, */*",
+      }
+    });
+    const data = await res.json();
+    const games = data?.result?.games;
+    if (!Array.isArray(games)) return [];
+
+    return games
+      .filter(g => {
+        const map = NAVER_TEAM_CODE_MAP[g.categoryId];
+        // 실제 리그 경기만 통과 (편파중계 등 콘텐츠성 항목, 매핑 안 된 All-Star 등 제외)
+        return map && g.homeTeamCode && g.awayTeamCode
+          && map[g.homeTeamCode] && map[g.awayTeamCode];
+      })
+      .map(g => {
+        const map = NAVER_TEAM_CODE_MAP[g.categoryId];
+        // 취소/연기된 경기는 statusCode가 RESULT여도 스코어를 신뢰하지 않음
+        const isFinished = g.statusCode === "RESULT" && !g.cancel;
+        return {
+          id: `naver-${g.categoryId}-${g.gameId}`,
+          sport: "baseball",
+          country: NAVER_COUNTRY_BY_CATEGORY[g.categoryId] || "Unknown",
+          league: g.categoryId.toUpperCase(),
+          date: new Date(`${g.gameDateTime}+09:00`).toISOString(), // KST 명시 후 UTC로 통일
+          home: map[g.homeTeamCode],
+          away: map[g.awayTeamCode],
+          homeLogo: g.homeTeamEmblemUrl,
+          awayLogo: g.awayTeamEmblemUrl,
+          // 진행 전/취소 경기는 null로 둬서 기존 스코어 보존 로직이 정상 작동하게 함
+          homeScore: isFinished ? g.homeTeamScore : null,
+          awayScore: isFinished ? g.awayTeamScore : null,
+        };
+      });
+  } catch (err) {
+    console.error(`fetchNaverBaseball(${upperCategoryId}) 에러:`, err);
+    return [];
+  }
+}
+
 // ==========================
 // 🚀 메인 프로세스
 // ==========================
@@ -272,6 +395,13 @@ scheduleTasks.push(fetchRapidSoccerRange());
     
     // LoL 전용 및 배당 호출
     scheduleTasks.push(fetchLOLPanda());
+
+    // ✅ 네이버스포츠 야구 (KBO / MLB+NPB) — api-sports 야구 호출 이후에 push하여
+    //    혹시 모를 키 충돌 시 네이버 데이터가 우선 적용되도록 함
+    const naverFrom = targetDates[0];
+    const naverTo = targetDates[targetDates.length - 1];
+    scheduleTasks.push(fetchNaverBaseball("kbaseball", naverFrom, naverTo)); // KBO
+    scheduleTasks.push(fetchNaverBaseball("wbaseball", naverFrom, naverTo)); // MLB + NPB
 
     const rawResults = await Promise.all(scheduleTasks);
 
