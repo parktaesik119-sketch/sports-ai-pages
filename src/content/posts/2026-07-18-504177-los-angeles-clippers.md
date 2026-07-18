@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "198.5"
 pickOuDirection: "오버"
+homeLineup: "[\"N. Martinelli (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105832.png\",\"J. Telfort (F)|https://a.espncdn.com/i/headshots/nba/players/full/4702785.png\",\"K. Wagler (G)|https://a.espncdn.com/i/headshots/nba/players/full/5254165.png\",\"B. Miller (F)|https://a.espncdn.com/i/headshots/nba/players/full/5075626.png\",\"S. Pedulla (G)|https://a.espncdn.com/i/headshots/nba/players/full/4709131.png\"]"
+awayLineup: "[\"R. Zikarsky (C)|https://a.espncdn.com/i/headshots/nba/players/full/5157587.png\",\"I. Evans (F)|https://a.espncdn.com/i/headshots/nba/players/full/5061585.png\",\"Z. Pullin (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592979.png\",\"E. Freeman (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592699.png\",\"N. Santos (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433585.png\"]"
 ---
