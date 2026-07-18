@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 P. Sandoval (0-0, 2.08) ERA 2.08|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\"]"
+homeLineup: "[\"선발투수 P. Sandoval (0-0, 2.08) ERA 2.08|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\",\"1번 A. Seigler (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41194.png\",\"2번 C. Rafaela (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4987382.png\",\"3번 W. Abreu (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4990055.png\",\"4번 W. Contreras (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32532.png\",\"5번 R. Gonzalez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42826.png\",\"6번 C. Durbin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007615.png\",\"7번 A. Monasterio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/36950.png\",\"8번 J. Jones (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/34958.png\",\"9번 C. Narvaez (C)|https://a.espncdn.com/i/headshots/mlb/players/full/5012120.png\"]"
 awayLineup: "[\"선발투수 I. Seymour (6-2, 4.59) ERA 4.59|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
 ---

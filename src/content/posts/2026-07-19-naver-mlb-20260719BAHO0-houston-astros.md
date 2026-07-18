@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 S. Arrighetti (7-5, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/4726080.png\"]"
+homeLineup: "[\"선발투수 S. Arrighetti (7-5, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/4726080.png\",\"1번 J. Pena (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41273.png\",\"2번 Y. Alvarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36018.png\",\"3번 I. Paredes (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/39706.png\",\"4번 J. Altuve (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/31662.png\",\"5번 C. Walker (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32758.png\",\"6번 Y. Diaz (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4781491.png\",\"7번 C. Smith (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080766.png\",\"8번 Z. Dezenzo (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4424962.png\",\"9번 L. Spence (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5273759.png\"]"
 awayLineup: "[\"선발투수 T. Rogers (6-7, 4.48) ERA 4.48|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
 ---
