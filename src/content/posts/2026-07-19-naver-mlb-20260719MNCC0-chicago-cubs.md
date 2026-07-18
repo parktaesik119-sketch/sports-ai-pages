@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 M. Boyd (5-1, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
-awayLineup: "[\"선발투수 T. Bradley (9-3, 3.59) ERA 3.59|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (9-3, 3.59) ERA 3.59|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\",\"1번 A. Martin (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4297998.png\",\"2번 R. Jeffers (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41587.png\",\"3번 J. Bell (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"4번 V. Caratini (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33229.png\",\"5번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"6번 K. Clemens (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"7번 R. Kreidler (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42701.png\",\"8번 L. Keaschall (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4977664.png\",\"9번 T. Larnach (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41205.png\"]"
 ---
