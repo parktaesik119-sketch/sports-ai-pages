@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Sam Long (1-3, 4.12)|https://p.npb.jp/players_photo/2026/180/m/073_03905152.jpg\"]"
+awayLineup: "[\"선발투수 Yugo Maeda (6-0, 1.76)|https://p.npb.jp/players_photo/2026/180/h/041_13115159.jpg\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Jose Urena (2-3, 4.64)|https://p.npb.jp/players_photo/2026/180/e/022_73375152.jpg\"]"
+awayLineup: "[\"선발투수 Kona Takahashi (7-4, 2.31)|https://p.npb.jp/players_photo/2026/180/l/013_71075130.jpg\"]"
 ---

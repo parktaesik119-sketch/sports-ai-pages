@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Shohei Mori (1-1, 2.82)|https://p.npb.jp/players_photo/2026/180/c/016_93395155.jpg\"]"
+awayLineup: "[\"선발투수 Shoki Murakami (7-5, 1.98)|https://p.npb.jp/players_photo/2026/180/t/041_13315153.jpg\"]"
 ---

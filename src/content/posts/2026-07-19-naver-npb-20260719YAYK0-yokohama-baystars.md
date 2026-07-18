@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Hiromi Katayama (0-1, 23.63)|https://p.npb.jp/players_photo/2026/180/db/047_61565152.jpg\"]"
+awayLineup: "[\"선발투수 Kojiro Yoshimura (4-7, 4.08)|https://p.npb.jp/players_photo/2026/180/s/021_53555157.jpg\"]"
 ---
