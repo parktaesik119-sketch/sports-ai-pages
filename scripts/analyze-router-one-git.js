@@ -678,6 +678,42 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
 10. 종합 분석(SUMMARY)은 특히 친절하고 설명적으로 작성하라.
 `;
 
+    // --- 기존 발행글 인덱스 사전 구축 ---
+    // ⚠️ 네이버로 야구 소스를 이관하면서 소스별 id 체계가 완전히 달라졌다
+    // (숫자 id(api-sports) / naver-kbo-xxx / panda-xxx 등). id만으로 "이미 발행된 경기인지"
+    // 판단하면, 같은 실제 경기가 소스만 바뀌어도(혹은 나중에 소스가 또 추가돼도) 새 글로 오인해
+    // 중복 생성될 수 있다. 그래서 id 매칭에 더해 "날짜+시간(분 단위)+홈팀명+원정팀명"이 같은
+    // 기존 글도 동일 경기로 간주한다. (수동으로 글을 지운 경우엔 인덱스에도 없으니 정상적으로
+    // 재생성됨 — "삭제하면 다시 안 만든다" 같은 블랙리스트는 의도적으로 넣지 않음)
+    const postsDirForDedup = path.resolve(__dirname, '../src/content/posts');
+    function normalizeTeamKey(name) {
+      return String(name || '').trim().toLowerCase().replace(/\s+/g, '');
+    }
+    function dateTimeKey(dateStr) {
+      const d = new Date(dateStr);
+      return isNaN(d.getTime()) ? '' : d.toISOString().slice(0, 16); // 분 단위까지만 비교
+    }
+
+    const existingFiles = fs.existsSync(postsDirForDedup)
+      ? fs.readdirSync(postsDirForDedup).filter(f => f.endsWith('.md'))
+      : [];
+
+    const existingByTeamDate = new Map(); // "YYYY-MM-DDTHH:MM_home_away" -> 파일명
+    for (const file of existingFiles) {
+      try {
+        const content = fs.readFileSync(path.join(postsDirForDedup, file), 'utf-8');
+        const dateM = content.match(/^date:\s*(.+)$/m);
+        const homeM = content.match(/^homeTeam:\s*"([^"]*)"/m);
+        const awayM = content.match(/^awayTeam:\s*"([^"]*)"/m);
+        if (!dateM || !homeM || !awayM) continue;
+        const key = `${dateTimeKey(dateM[1].trim())}_${normalizeTeamKey(homeM[1])}_${normalizeTeamKey(awayM[1])}`;
+        if (key.startsWith('_')) continue; // 날짜 파싱 실패
+        existingByTeamDate.set(key, file);
+      } catch {
+        // 프론트매터 파싱 실패한 글은 팀명/일시 기반 매칭에서만 제외됨 (id 매칭으로는 여전히 잡힘)
+      }
+    }
+
     for (let i = 0; i < filteredMatches.length; i++) {
   const match = filteredMatches[i];
 
@@ -733,17 +769,22 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
   // ⚠️ 서머리그처럼 아직 확정 안 된 경기는 api-sports가 kickoff 시각을 매일 하루씩
   // 밀어서 내려주는 경우가 있다. 이때 match.date(dateOnly)가 매일 바뀌면서 savePath도
   // 매번 달라져, 이미 만들어둔 글이 있는데도 "새 경기"로 착각해 중복 생성되는 문제가 있었다.
-  // 그래서 파일명 전체가 아니라 "이 경기 id를 가진 파일이 이미 있는지"만 먼저 확인한다.
-  const postsDirForDedup = path.resolve(__dirname, '../src/content/posts');
-  const existingFileForId = fs.existsSync(postsDirForDedup)
-    ? fs.readdirSync(postsDirForDedup).find(f => f.endsWith('.md') && f.includes(`-${match.id}-`))
-    : null;
+  // 그래서 파일명 전체가 아니라 "이 경기 id를 가진 파일이 이미 있는지"를 먼저 확인하고,
+  // 소스가 달라 id가 다르더라도 "날짜+시간+홈팀+원정팀"이 같으면 동일 경기로 간주해 추가로 확인한다.
+  const existingFileForId = existingFiles.find(f => f.includes(`-${match.id}-`));
 
-  if (existingFileForId) {
+  const aiHomeNameForDedup = TEAM_NAME_MAP[match.home] || match.home;
+  const aiAwayNameForDedup = TEAM_NAME_MAP[match.away] || match.away;
+  const teamDateKey = `${dateTimeKey(match.date)}_${normalizeTeamKey(aiHomeNameForDedup)}_${normalizeTeamKey(aiAwayNameForDedup)}`;
+  const existingFileForTeamDate = existingByTeamDate.get(teamDateKey) || null;
+
+  const existingFile = existingFileForId || existingFileForTeamDate;
+
+  if (existingFile) {
     // 이미 이 경기 글이 있으면 새로 만들지 않는다. 다만 날짜가 그 사이 밀렸다면(=위 현상),
     // 기존 글의 date 필드만 최신값으로 갱신해준다 — 그래야 espn-boxscore-update.js 등
     // 후속 스크립트가 정확한 경기 시각으로 ESPN을 조회할 수 있다. 본문(분석글)은 그대로 둔다.
-    const existingPath = path.join(postsDirForDedup, existingFileForId);
+    const existingPath = path.join(postsDirForDedup, existingFile);
     try {
       const existingContent = fs.readFileSync(existingPath, 'utf-8');
       const dateFieldMatch = existingContent.match(/^date:\s*(.+)$/m);
@@ -751,10 +792,13 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
       if (existingDate && existingDate !== match.date) {
         const updatedContent = existingContent.replace(/^date:.*$/m, `date: ${match.date}`);
         fs.writeFileSync(existingPath, updatedContent, 'utf-8');
-        console.log(`🔄 [날짜 갱신] ${existingFileForId}: ${existingDate} → ${match.date} (경기 시각 변경분 반영, 본문은 유지)`);
+        console.log(`🔄 [날짜 갱신] ${existingFile}: ${existingDate} → ${match.date} (경기 시각 변경분 반영, 본문은 유지)`);
+      }
+      if (!existingFileForId && existingFileForTeamDate) {
+        console.log(`⏭️ [중복 스킵-소스교차] ${existingFile}: id는 다르지만(${match.id}) 동일 경기(날짜/시간/팀명 일치)로 판단해 재생성 안 함`);
       }
     } catch (err) {
-      console.warn(`⚠️ [날짜 갱신 실패] ${existingFileForId}:`, err.message);
+      console.warn(`⚠️ [날짜 갱신 실패] ${existingFile}:`, err.message);
     }
     continue;
   }
@@ -1916,6 +1960,7 @@ const winnerIsHome = homeNames.some(n =>
     || COUNTRY_MAP[match.country] || match.country;
   if (['MLB','NBA','NHL','MLS'].some(lg => leagueName.toUpperCase().includes(lg))) country = "미국";
   if (['KBO','KBL','V-LEAGUE','LCK'].some(lg => leagueName.toUpperCase().includes(lg))) country = "대한민국";
+  if (['NPB'].some(lg => leagueName.toUpperCase().includes(lg))) country = "일본"; // 네이버 NPB 소스가 country를 영문 "Japan"으로 주는데 KBO/MLB처럼 별도 보정이 없어 누락되던 부분
 
   // 9. 메타 정보
   const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;

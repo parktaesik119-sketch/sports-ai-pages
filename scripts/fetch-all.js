@@ -513,7 +513,27 @@ scheduleTasks.push(fetchRapidSoccerRange());
     const nowKst = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
     const todayKst = `${nowKst.getFullYear()}-${String(nowKst.getMonth() + 1).padStart(2, '0')}-${String(nowKst.getDate()).padStart(2, '0')}`;
 
-    await fs.writeFile(path.join(OUTPUT_DIR, `${todayKst}.json`), JSON.stringify(mergedData, null, 2));
+    // ⚠️ [재발 방지] ${today}.json은 원본 mergedData(dedup 전, 날것)를 그대로 쓰지 않는다.
+    // mergedData는 여러 소스(api-sports 날짜별 반복 호출, 네이버 등)의 결과를 단순 concat한 것이라
+    // 같은 실제 경기가 서로 다른 id로 두 번 들어갈 수 있고, 이게 그대로 analyze-router-one-git.js로
+    // 넘어가면 id 기반 중복 체크를 못 피해서 분석글이 중복 생성된다 (실제로 있었던 사례).
+    // 대신 all-fixtures.json에 쓰는 것과 동일한 "날짜_홈팀_원정팀" 키로 이미 병합/중복제거된 `map`에서
+    // 이번에 수집한 키만 뽑아서 저장한다 — 소스가 몇 개든, id가 다르든 실제 같은 경기면 하나로 합쳐진다.
+    const todayKeys = new Set();
+    mergedData.forEach(m => {
+      if (!m.date) return;
+      const dKey = new Date(m.date).toISOString().split("T")[0];
+      const key = `${dKey}_${normalizeName(m.home)}_${normalizeName(m.away)}`;
+      todayKeys.add(key);
+    });
+    const dedupedTodayData = [...todayKeys].map(k => map.get(k)).filter(Boolean);
+    dedupedTodayData.sort((a, b) => new Date(a.date) - new Date(b.date));
+
+    if (dedupedTodayData.length !== mergedData.length) {
+      console.log(`⚠️ [중복 제거] ${todayKst}.json: 원본 ${mergedData.length}건 → 중복 제거 후 ${dedupedTodayData.length}건`);
+    }
+
+    await fs.writeFile(path.join(OUTPUT_DIR, `${todayKst}.json`), JSON.stringify(dedupedTodayData, null, 2));
 
     console.log(`✅ 업데이트 완료: 총 ${finalAllFixtures.length}건의 데이터가 누적 저장되었습니다.`);
   } catch (err) {
