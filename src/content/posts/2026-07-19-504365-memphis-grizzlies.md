@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "192.5"
 pickOuDirection: "언더"
+homeLineup: "[\"C. Boozer (F)|https://a.espncdn.com/i/headshots/nba/players/full/5041935.png\",\"C. Coward (F)|https://a.espncdn.com/i/headshots/nba/players/full/4903027.png\",\"T. Hendricks (F)|https://a.espncdn.com/i/headshots/nba/players/full/4684806.png\",\"O. Prosper (F)|https://a.espncdn.com/i/headshots/nba/players/full/4595400.png\",\"J. Small (G)|https://a.espncdn.com/i/headshots/nba/players/full/4781746.png\"]"
+awayLineup: "[\"M. Foster Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4820852.png\",\"I. Crawford (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592857.png\",\"B. Thornton (G)|https://a.espncdn.com/i/headshots/nba/players/full/5105837.png\",\"Q. Copeland (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683860.png\",\"T. Newton (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592965.png\"]"
 ---
