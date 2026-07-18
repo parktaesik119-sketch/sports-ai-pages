@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "181.5"
 pickOuDirection: "오버"
+homeLineup: "[\"F. Okpara (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105841.png\",\"J. Camden (F)|https://a.espncdn.com/i/headshots/nba/players/full/4684155.png\",\"C. Livingston (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433622.png\",\"S. Trimble (G)|https://a.espncdn.com/i/headshots/nba/players/full/4712836.png\",\"R. Beekman (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432187.png\"]"
+awayLineup: "[\"H. Veesaar (C)|https://a.espncdn.com/i/headshots/nba/players/full/5105571.png\",\"D. Higgs (G)|https://a.espncdn.com/i/headshots/nba/players/full/5194095.png\",\"K. Johnson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683857.png\",\"G. Madsen (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432753.png\",\"I. Wong (G)|https://a.espncdn.com/i/headshots/nba/players/full/4431727.png\"]"
 ---
