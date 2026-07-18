@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
 awayLineup: "[\"선발투수 G. Canning (1-7, 6.47) ERA 6.47|https://a.espncdn.com/i/headshots/mlb/players/full/41065.png\"]"
+homeLineup: "[\"선발투수 R. Dobnak (0-0, 1.86) ERA 1.86|https://a.espncdn.com/i/headshots/mlb/players/full/42214.png\"]"
 ---
