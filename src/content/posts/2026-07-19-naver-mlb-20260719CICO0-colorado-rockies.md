@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 T. Sugano (8-4, 4.80) ERA 4.80|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
+awayLineup: "[\"선발투수 R. Lowder (3-6, 4.91) ERA 4.91|https://a.espncdn.com/i/headshots/mlb/players/full/4758873.png\"]"
 ---

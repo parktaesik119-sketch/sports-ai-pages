@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Taito Takashima (4-1, 3.72)|https://p.npb.jp/players_photo/2026/180/b/096_61065159.jpg\"]"
+awayLineup: "[\"선발투수 Sachiya Yamasaki (2-0, 2.74)|https://p.npb.jp/players_photo/2026/180/f/018_21825130.jpg\"]"
 ---

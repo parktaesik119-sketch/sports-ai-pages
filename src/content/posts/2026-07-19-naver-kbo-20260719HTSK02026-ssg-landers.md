@@ -18,8 +18,8 @@ h2h: '[{"date":"26.07.17","home":"SSG 랜더스","away":"KIA 타이거즈","scor
 summary: "KIA 타이거즈는 2026시즌 전체 전력과 평균 득점에서 SSG 랜더스보다 앞서 있고, 리그 순위와 선발 매치업에서도 우위가 분명해 보입니다. SSG 랜더스는 최근 득점 흐름이 완전히 꺼지지는 않았지만 실점 억제가 흔들리고 있어, 경기 운영에서 먼저 밀릴 가능성이 높습니다. 최근 맞대결에서도 KIA 타이거즈가 더 높은 득점 생산력과 경기 마무리 흐름을 보여준 장면이 많아, 이번 경기 역시 KIA 타이거즈 쪽 기대감이 더 큽니다."
 homeRecent: '[{"date":"26.07.17","home":"SSG 랜더스","away":"KIA 타이거즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260717HTSK02026-2026-07-17-ssg-landers/"},{"date":"26.07.16","home":"SSG 랜더스","away":"KIA 타이거즈","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181856-2026-07-16-ssg-landers/"},{"date":"26.07.09","home":"두산 베어스","away":"SSG 랜더스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181851-2026-07-09-doosan-bears/"},{"date":"26.07.08","home":"두산 베어스","away":"SSG 랜더스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181842-2026-07-08-doosan-bears/"},{"date":"26.07.07","home":"두산 베어스","away":"SSG 랜더스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181841-2026-07-07-doosan-bears/"}]'
 awayRecent: '[{"date":"26.07.17","home":"SSG 랜더스","away":"KIA 타이거즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260717HTSK02026-2026-07-17-ssg-landers/"},{"date":"26.07.16","home":"SSG 랜더스","away":"KIA 타이거즈","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181856-2026-07-16-ssg-landers/"},{"date":"26.07.09","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181848-2026-07-09-lotte-giants/"},{"date":"26.07.08","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"11-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181845-2026-07-08-lotte-giants/"},{"date":"26.07.07","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"10-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181838-2026-07-07-lotte-giants/"}]'
-injuryHome: "안상현 (부상)"
-injuryAway: "최유찬 (치료·재활중)|김태군 (부상)"
+injuryHome: "안상현 (부상) | 안상현(내야수)(부상)"
+injuryAway: "최유찬 (치료·재활중)|김태군 (부상) | 최유찬(투수)(치료·재활중) | 김태군(포수)(부상)"
 pickWinTeam: "KIA 타이거즈"
 pickWinResult: "승"
 pickHandicapTeam: "KIA 타이거즈"
@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"1번 정준재 (2루수)\",\"2번 박성한 (유격수)\",\"3번 고명준 (3루수)\",\"4번 전의산 (1루수)\",\"5번 김재환 (지명타자)\",\"6번 김성욱 (우익수)\",\"7번 최지훈 (중견수)\",\"8번 최준우 (좌익수)\",\"9번 조형우 (포수)\"]"
+awayLineup: "[\"1번 박재현 (우익수)\",\"2번 김호령 (중견수)\",\"3번 김도영 (3루수)\",\"4번 나성범 (지명타자)\",\"5번 카스트로 (좌익수)\",\"6번 한준수 (포수)\",\"7번 김선빈 (2루수)\",\"8번 박상준 (1루수)\",\"9번 김규성 (유격수)\"]"
 ---

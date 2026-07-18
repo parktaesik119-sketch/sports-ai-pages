@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 L. Gilbert (7-6, 3.32) ERA 3.32|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+awayLineup: "[\"선발투수 R. Ray (8-6, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/32175.png\"]"
 ---
