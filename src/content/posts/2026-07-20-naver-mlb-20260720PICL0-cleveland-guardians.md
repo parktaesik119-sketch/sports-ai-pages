@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 T. Bibee (3-9, 3.90) ERA 3.90|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
+awayLineup: "[\"선발투수 P. Skenes (8-8, 3.57) ERA 3.57|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
 ---

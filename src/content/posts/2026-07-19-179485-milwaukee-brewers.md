@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 S. Drohan (4-3, 3.09) ERA 3.09|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
+awayLineup: "[\"선발투수 M. Meyer (9-1, 2.58) ERA 2.58|https://a.espncdn.com/i/headshots/mlb/players/full/4345164.png\"]"
 ---

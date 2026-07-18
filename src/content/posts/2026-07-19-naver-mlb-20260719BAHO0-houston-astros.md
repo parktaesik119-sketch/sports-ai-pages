@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Arrighetti (7-5, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/4726080.png\"]"
+awayLineup: "[\"선발투수 T. Rogers (6-7, 4.48) ERA 4.48|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
 ---

@@ -19,7 +19,7 @@ summary: "삼성 라이온스는 2026시즌 전체 성적과 최근 득점 흐�
 homeRecent: '[{"date":"26.07.16","home":"삼성 라이온스","away":"롯데 자이언츠","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181855-2026-07-16-samsung-lions/"},{"date":"26.07.09","home":"삼성 라이온스","away":"LG 트윈스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181847-2026-07-09-samsung-lions/"},{"date":"26.07.08","home":"삼성 라이온스","away":"LG 트윈스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181846-2026-07-08-samsung-lions/"},{"date":"26.07.07","home":"삼성 라이온스","away":"LG 트윈스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181837-2026-07-07-samsung-lions/"},{"date":"26.07.05","home":"SSG 랜더스","away":"삼성 라이온스","score":"3-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181836-2026-07-05-ssg-landers/"}]'
 awayRecent: '[{"date":"26.07.16","home":"삼성 라이온스","away":"롯데 자이언츠","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181855-2026-07-16-samsung-lions/"},{"date":"26.07.09","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181848-2026-07-09-lotte-giants/"},{"date":"26.07.08","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"11-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181845-2026-07-08-lotte-giants/"},{"date":"26.07.07","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"10-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181838-2026-07-07-lotte-giants/"},{"date":"26.07.05","home":"KT 위즈","away":"롯데 자이언츠","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181834-2026-07-05-kt-wiz-suwon/"}]'
 injuryHome: "없음"
-injuryAway: "장두성 (부상)"
+injuryAway: "장두성 (부상) | 장두성(내야수)(부상)"
 pickWinTeam: "삼성 라이온스"
 pickWinResult: "승"
 pickHandicapTeam: "삼성 라이온스"
@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 페덱 (ERA -)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56459.jpg\",\"1번 김지찬 (중견수)\",\"2번 김성윤 (우익수)\",\"3번 구자욱 (좌익수)\",\"4번 최형우 (지명타자)\",\"5번 디아즈 (1루수)\",\"6번 류지혁 (2루수)\",\"7번 김영웅 (3루수)\",\"8번 김도환 (포수)\",\"9번 양우현 (유격수)\"]"
+awayLineup: "[\"선발투수 나균안 (ERA 3.90)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67539.jpg\",\"1번 황성빈 (중견수)\",\"2번 고승민 (우익수)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (지명타자)\",\"5번 노진혁 (1루수)\",\"6번 한태양 (2루수)\",\"7번 전민재 (유격수)\",\"8번 박승욱 (3루수)\",\"9번 손성빈 (포수)\"]"
 ---

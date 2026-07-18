@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Ryoji Kuribayashi (4-3, 1.19)|https://p.npb.jp/players_photo/2026/180/c/020_91995153.jpg\"]"
+awayLineup: "[\"선발투수 Masashi Itoh (0-0, 3.14)|https://p.npb.jp/players_photo/2026/180/t/027_71375153.jpg\"]"
 ---

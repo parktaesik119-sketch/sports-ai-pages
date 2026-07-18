@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Koshiro Hiroike (2-4, 3.58)|https://p.npb.jp/players_photo/2026/180/m/064_81685150.jpg\"]"
+awayLineup: "[\"선발투수 Ryosuke Ohtsu (8-2, 1.89)|https://p.npb.jp/players_photo/2026/180/h/019_01305157.jpg\"]"
 ---

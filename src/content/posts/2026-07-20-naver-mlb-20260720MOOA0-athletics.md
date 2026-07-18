@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 J. Lopez (4-3, 6.83) ERA 6.83|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (10-2, 2.77) ERA 2.77|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
 ---

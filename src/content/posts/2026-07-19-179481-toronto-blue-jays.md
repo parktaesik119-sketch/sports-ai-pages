@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 S. Bieber (0-1, 7.64) ERA 7.64|https://a.espncdn.com/i/headshots/mlb/players/full/40912.png\"]"
+awayLineup: "[\"선발투수 D. Martin (9-4, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
 ---

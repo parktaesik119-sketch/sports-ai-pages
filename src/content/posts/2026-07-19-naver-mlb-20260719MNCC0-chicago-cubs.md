@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. Boyd (5-1, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (9-3, 3.59) ERA 3.59|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
 ---

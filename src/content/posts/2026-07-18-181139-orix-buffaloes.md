@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Sean Hjelle (3-5, 2.42)|https://p.npb.jp/players_photo/2026/180/b/069_03505152.jpg\"]"
+awayLineup: "[\"선발투수 Haruki Hosono (2-5, 3.20)|https://p.npb.jp/players_photo/2026/180/f/029_61865159.jpg\"]"
 ---

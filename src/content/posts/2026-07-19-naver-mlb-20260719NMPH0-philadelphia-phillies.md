@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 J. Luzardo (8-4, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
+awayLineup: "[\"선발투수 S. Manaea (2-4, 4.56) ERA 4.56|https://a.espncdn.com/i/headshots/mlb/players/full/33244.png\"]"
 ---

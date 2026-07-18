@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 T. Yesavage (4-4, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/4949041.png\"]"
+awayLineup: "[\"선발투수 S. Burke (6-4, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
 ---

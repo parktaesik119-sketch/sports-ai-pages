@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 에르난데스 (ERA 4.97)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56712.jpg\",\"1번 오재원 (좌익수)\",\"2번 페라자 (우익수)\",\"3번 문현빈 (중견수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 장규현 (포수)\",\"7번 황영묵 (2루수)\",\"8번 김태연 (1루수)\",\"9번 심우준 (유격수)\"]"
+awayLineup: "[\"선발투수 안우진 (ERA 3.70)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68341.jpg\",\"1번 서건창 (2루수)\",\"2번 추재현 (중견수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (좌익수)\",\"5번 안치홍 (지명타자)\",\"6번 박찬혁 (우익수)\",\"7번 김건희 (포수)\",\"8번 권혁빈 (유격수)\",\"9번 여동욱 (3루수)\"]"
 ---

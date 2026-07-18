@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Kosei Shoji (4-8, 4.39)|https://p.npb.jp/players_photo/2026/180/e/019_21925157.jpg\"]"
+awayLineup: "[\"선발투수 Natsuki Takeuchi (6-4, 2.64)|https://p.npb.jp/players_photo/2026/180/l/021_51255159.jpg\"]"
 ---

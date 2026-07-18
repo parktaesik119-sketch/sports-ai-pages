@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 R. Johnson (1-4, 6.75) ERA 6.75|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
+awayLineup: "[\"선발투수 C. Mize (4-6, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/41167.png\"]"
 ---

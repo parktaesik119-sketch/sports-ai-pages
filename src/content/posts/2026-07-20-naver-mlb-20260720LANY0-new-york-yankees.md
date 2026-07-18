@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 C. Schlittler (9-5, 2.05) ERA 2.05|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
+awayLineup: "[\"선발투수 Y. Yamamoto (9-6, 2.85) ERA 2.85|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
 ---

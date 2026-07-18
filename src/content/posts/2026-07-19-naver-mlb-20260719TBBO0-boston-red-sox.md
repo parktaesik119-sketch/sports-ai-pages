@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 P. Sandoval (0-0, 2.08) ERA 2.08|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\"]"
+awayLineup: "[\"선발투수 I. Seymour (6-2, 4.59) ERA 4.59|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
 ---
