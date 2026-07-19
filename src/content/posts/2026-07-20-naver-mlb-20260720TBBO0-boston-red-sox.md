@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Gray (11-1, 2.54) ERA 2.54|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
+awayLineup: "[\"선발투수 S. McClanahan (8-5, 2.83) ERA 2.83|https://a.espncdn.com/i/headshots/mlb/players/full/41199.png\"]"
 ---

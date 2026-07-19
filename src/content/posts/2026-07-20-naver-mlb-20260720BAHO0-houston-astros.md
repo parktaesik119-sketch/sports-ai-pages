@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 H. Brown (1-0, 3.57) ERA 3.57|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
+awayLineup: "[\"선발투수 K. Bradish (6-9, 3.61) ERA 3.61|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
 ---

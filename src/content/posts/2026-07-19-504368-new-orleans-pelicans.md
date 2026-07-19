@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "178.5"
 pickOuDirection: "오버"
+homeLineup: "[\"S. Washington (F)|https://a.espncdn.com/i/headshots/nba/players/full/5105562.png\",\"M. Dia (F)|https://a.espncdn.com/i/headshots/nba/players/full/4712862.png\",\"C. Shumate (F)|https://a.espncdn.com/i/headshots/nba/players/full/4701228.png\",\"J. Riley (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683942.png\",\"M. Nowell (G)|https://a.espncdn.com/i/headshots/nba/players/full/4397554.png\"]"
+awayLineup: "[\"R. Mast (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592677.png\",\"G. McGlothan (F)|https://a.espncdn.com/i/headshots/nba/players/full/4398356.png\",\"J. Slawson (F)|https://a.espncdn.com/i/headshots/nba/players/full/4398207.png\",\"B. Smith (G)|https://a.espncdn.com/i/headshots/nba/players/full/5105854.png\",\"T. Peter (G)|https://a.espncdn.com/i/headshots/nba/players/full/4703421.png\"]"
 ---

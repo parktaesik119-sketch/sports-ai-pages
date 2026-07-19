@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 A. Rangel (0-2, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/4917631.png\"]"
+awayLineup: "[\"선발투수 N. McLean (6-6, 3.52) ERA 3.52|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 N. Cameron (5-7, 4.89) ERA 4.89|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\"]"
+awayLineup: "[\"선발투수 G. Marquez (4-2, 5.18) ERA 5.18|https://a.espncdn.com/i/headshots/mlb/players/full/34874.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 E. Rodriguez (8-3, 2.29) ERA 2.29|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 A. Pallante (10-6, 3.96) ERA 3.96|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
 ---

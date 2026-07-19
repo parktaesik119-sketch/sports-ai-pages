@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 S. Imanaga (5-8, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
+awayLineup: "[\"선발투수 Z. Matthews (4-6, 4.57) ERA 4.57|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\"]"
 ---

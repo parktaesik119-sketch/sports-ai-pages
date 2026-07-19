@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 R. Gasser (2-4, 5.24) ERA 5.24|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
+awayLineup: "[\"선발투수 E. Perez (5-7, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
 ---
