@@ -13,6 +13,11 @@
 //     env:
 //       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 //       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+//
+// ⚠️ 중요: 이 스크립트는 scripts/.lineup-notified-state.json 파일에 "이미 알림 보낸 글" 목록을
+// 기록해서 중복 발송을 막습니다. 워크플로에서 최종적으로 git commit/push 하는 단계에
+// 이 파일도 포함되어야 다음 실행에서도 상태가 유지됩니다 (예: git add -A 로 전체를 커밋).
+// 이 파일이 커밋되지 않으면 매 실행마다 상태가 초기화되어 다시 중복 발송이 발생합니다.
 
 import fs from 'fs';
 import path from 'path';
@@ -23,6 +28,38 @@ import { parseFrontmatterField, toShortDate, sendTelegramMessage, SPORT_LABEL_KO
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const REPO_ROOT = path.resolve(__dirname, '..');
+
+// 이미 라인업 업데이트 알림을 보낸 글을 기록해두는 파일.
+// { [slug]: { kickoff: "<ISO date>" } } 형태로 저장한다.
+// 같은 slug가 다시 걸리면(라인업 필드가 재차 갱신되어도) 알림을 다시 보내지 않기 위함.
+const STATE_FILE_PATH = path.resolve(__dirname, '.lineup-notified-state.json');
+
+function loadNotifiedState() {
+  try {
+    const raw = fs.readFileSync(STATE_FILE_PATH, 'utf-8');
+    const parsed = JSON.parse(raw);
+    return (parsed && typeof parsed === 'object') ? parsed : {};
+  } catch (e) {
+    // 파일이 없거나 손상된 경우 빈 상태로 시작
+    return {};
+  }
+}
+
+function saveNotifiedState(state) {
+  fs.writeFileSync(STATE_FILE_PATH, JSON.stringify(state, null, 2) + '\n', 'utf-8');
+}
+
+// 킥오프가 이미 지난 항목은 더 이상 중복 알림 걱정을 할 필요가 없으므로
+// 상태 파일이 무한정 커지지 않도록 정리한다.
+function pruneExpiredState(state, now) {
+  const pruned = {};
+  for (const [slug, info] of Object.entries(state)) {
+    const kickoff = info && info.kickoff ? new Date(info.kickoff) : null;
+    if (kickoff && !isNaN(kickoff.getTime()) && kickoff <= now) continue; // 지난 경기는 제거
+    pruned[slug] = info;
+  }
+  return pruned;
+}
 
 function getModifiedMdFiles(beforeHash) {
   const output = execSync(
@@ -94,6 +131,9 @@ async function main() {
     return;
   }
 
+  // 이미 알림을 보낸 글은 다시 보내지 않기 위해 상태 파일을 로드
+  const notifiedState = loadNotifiedState();
+
   // 날짜 > 종목 > 리그 3단 그룹핑 (notify-posts-telegram.js와 동일한 방식으로 통일)
   const grouped = {};
   // 리그명 옆에 국가명을 붙이기 위한 매핑. 같은 리그는 항상 같은 국가라고 가정하고
@@ -101,6 +141,10 @@ async function main() {
   const leagueCountry = {};
   const now = new Date(); // 알림 발송 시점 기준. 이 시점 이후 킥오프인 경기만 알림 대상.
   let skippedStarted = 0;
+  let skippedAlreadyNotified = 0;
+  // 이번 실행에서 실제로 알림에 포함시킨 글들의 key/kickoff.
+  // 발송에 성공하면 이 목록을 상태 파일에 반영해 다음 실행부터는 중복 발송을 막는다.
+  const toMarkNotified = [];
 
   for (const filePath of files) {
     const content = fs.readFileSync(filePath, 'utf-8');
@@ -123,6 +167,14 @@ async function main() {
       }
     }
 
+    // 같은 글은 한 번만 알림을 보내기 위한 식별자. slug가 있으면 slug를 쓰고,
+    // 혹시 slug가 없는 예외적인 글이라면 홈/어웨이/날짜 조합으로 대체한다.
+    const notifyKey = slug || `${homeTeam}__${awayTeam}__${date}`;
+    if (notifiedState[notifyKey]) {
+      skippedAlreadyNotified++;
+      continue;
+    }
+
     const dateLabel = toShortDate(date);
     const sportLabel = SPORT_LABEL_KO[category] || category;
 
@@ -134,11 +186,13 @@ async function main() {
     const lineText = `${escapeHtml(homeTeam)} vs ${escapeHtml(awayTeam)}`;
     const url = buildPostUrl(slug);
     grouped[dateLabel][sportLabel][league].push(url ? `<a href="${url}">${lineText}</a>` : lineText);
+
+    toMarkNotified.push({ key: notifyKey, kickoff: date });
   }
 
   const dateLabels = Object.keys(grouped).sort();
   if (dateLabels.length === 0) {
-    console.log(`ℹ️ 알림 보낼 대상 없음 (이미 시작된 경기 ${skippedStarted}건, 최근전적/상대전적만 갱신된 ${skippedNonLineup}건 제외 처리됨)`);
+    console.log(`ℹ️ 알림 보낼 대상 없음 (이미 시작된 경기 ${skippedStarted}건, 이미 알림 보낸 글 ${skippedAlreadyNotified}건, 최근전적/상대전적만 갱신된 ${skippedNonLineup}건 제외 처리됨)`);
     return;
   }
 
@@ -166,7 +220,16 @@ async function main() {
   const message = ['<b>📢 라인업 업데이트</b>', '', body].join('\n');
 
   await sendTelegramMessage(message);
-  console.log(`✅ 라인업 업데이트 알림 발송 완료 (${total}건, ${dateLabels.length}개 날짜, 이미 시작된 경기 ${skippedStarted}건 제외, 최근전적/상대전적만 갱신된 ${skippedNonLineup}건 제외)`);
+
+  // 발송에 성공한 경우에만 "알림 보냄" 상태로 기록한다.
+  // (전송 실패 시에는 기록하지 않아야 다음 실행에서 재시도될 수 있다)
+  for (const { key, kickoff } of toMarkNotified) {
+    notifiedState[key] = { kickoff: kickoff || null };
+  }
+  const cleanedState = pruneExpiredState(notifiedState, now);
+  saveNotifiedState(cleanedState);
+
+  console.log(`✅ 라인업 업데이트 알림 발송 완료 (${total}건, ${dateLabels.length}개 날짜, 이미 시작된 경기 ${skippedStarted}건 제외, 이미 알림 보낸 글 ${skippedAlreadyNotified}건 제외, 최근전적/상대전적만 갱신된 ${skippedNonLineup}건 제외)`);
 }
 
 main();

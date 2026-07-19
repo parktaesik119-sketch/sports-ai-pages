@@ -75,6 +75,20 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
+      # notify 스크립트가 로컬에 갱신해둔 "이미 알림 보낸 글" 상태를 커밋/푸시.
+      # 이 단계가 없으면 상태 파일 변경이 잡 종료와 함께 사라져서
+      # 다음 실행 때 항상 빈 상태로 리셋되고 중복 알림이 재발함.
+      - name: Commit lineup notification state
+        if: steps.push.outputs.changed == 'true'
+        run: |
+          git add scripts/.lineup-notified-state.json
+          if git diff --staged --quiet; then
+            echo "알림 상태 변경 없음"
+          else
+            git commit -m "chore: update lineup notification state"
+            git push
+          fi
+
       # 사이트 빌드 (변경사항 있을 때만) - Cloudflare 자동빌드 대신 여기서 직접 빌드
       - name: 사이트 빌드
         if: steps.push.outputs.changed == 'true'
