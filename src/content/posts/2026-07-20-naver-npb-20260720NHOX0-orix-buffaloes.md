@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Allen Kuri (6-6, 3.03)|https://p.npb.jp/players_photo/2026/180/b/022_71775139.jpg\"]"
+awayLineup: "[\"선발투수 Kohei Arihara (2-5, 6.47)|https://p.npb.jp/players_photo/2026/180/f/074_51155130.jpg\"]"
 ---
