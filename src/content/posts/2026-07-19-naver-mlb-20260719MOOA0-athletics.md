@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 J. Lopez (4-3, 6.83) ERA 6.83|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\"]"
+homeLineup: "[\"선발투수 J. Lopez (4-3, 6.83) ERA 6.83|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\",\"1번 J. Wilson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4719300.png\",\"2번 T. Soderstrom (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4686066.png\",\"3번 S. Langeliers (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42598.png\",\"4번 J. Heim (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33842.png\",\"5번 J. Kuroda-Grauer (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5023768.png\",\"6번 C. Thomas (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4662616.png\",\"7번 T. White (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4923961.png\",\"8번 H. Bolte (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080756.png\",\"9번 A. Williams (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4424289.png\"]"
 awayLineup: "[\"선발투수 F. Griffin (10-2, 2.77) ERA 2.77|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
 ---
