@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 S. Gray (11-1, 2.54) ERA 2.54|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
+homeLineup: "[\"선발투수 S. Gray (11-1, 2.54) ERA 2.54|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\",\"1번 J. Jones (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/34958.png\",\"2번 C. Rafaela (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4987382.png\",\"3번 W. Abreu (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4990055.png\",\"4번 W. Contreras (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32532.png\",\"5번 C. Durbin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007615.png\",\"6번 R. Gonzalez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42826.png\",\"7번 A. Monasterio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/36950.png\",\"8번 J. Duran (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41610.png\",\"9번 C. Wong (C)|https://a.espncdn.com/i/headshots/mlb/players/full/40086.png\"]"
 awayLineup: "[\"선발투수 S. McClanahan (8-5, 2.83) ERA 2.83|https://a.espncdn.com/i/headshots/mlb/players/full/41199.png\"]"
 ---
