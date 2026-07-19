@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 S. Imanaga (5-8, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
-awayLineup: "[\"선발투수 Z. Matthews (4-6, 4.57) ERA 4.57|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\"]"
+awayLineup: "[\"선발투수 Z. Matthews (4-6, 4.57) ERA 4.57|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\",\"1번 A. Martin (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4297998.png\",\"2번 R. Jeffers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41587.png\",\"3번 J. Bell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"4번 R. Lewis (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/40635.png\",\"5번 V. Caratini (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/33229.png\",\"6번 K. Clemens (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"7번 L. Keaschall (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4977664.png\",\"8번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"9번 R. Kreidler (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42701.png\"]"
 ---
