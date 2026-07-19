@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 R. Feltner (3-3, 4.55) ERA 4.55|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
-awayLineup: "[\"선발투수 H. Greene (1-1, 6.97) ERA 6.97|https://a.espncdn.com/i/headshots/mlb/players/full/39635.png\"]"
+awayLineup: "[\"선발투수 H. Greene (1-1, 6.97) ERA 6.97|https://a.espncdn.com/i/headshots/mlb/players/full/39635.png\",\"1번 E. De La Cruz (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"2번 S. Stewart (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"3번 J. Bleday (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"4번 S. Steer (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722857.png\",\"5번 N. Lowe (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/40538.png\",\"6번 E. Suarez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/32367.png\",\"7번 T. Stephenson (C)|https://a.espncdn.com/i/headshots/mlb/players/full/34975.png\",\"8번 T. Friedl (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36020.png\",\"9번 D. Myers (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40048.png\"]"
 ---

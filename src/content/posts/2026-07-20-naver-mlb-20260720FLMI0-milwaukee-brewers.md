@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 R. Gasser (2-4, 5.24) ERA 5.24|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
-awayLineup: "[\"선발투수 E. Perez (5-7, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
+awayLineup: "[\"선발투수 E. Perez (5-7, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\",\"1번 X. Edwards (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41326.png\",\"2번 H. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42455.png\",\"3번 K. Stowers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42796.png\",\"4번 J. Sanoja (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5073992.png\",\"5번 L. Hicks (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4725251.png\",\"6번 L. Jimenez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41397.png\",\"7번 G. Conine (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41295.png\",\"8번 E. Ruiz (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/39680.png\",\"9번 J. Marsee (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4866735.png\"]"
 ---

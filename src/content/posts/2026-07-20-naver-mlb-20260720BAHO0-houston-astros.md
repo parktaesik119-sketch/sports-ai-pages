@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 H. Brown (1-0, 3.57) ERA 3.57|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
-awayLineup: "[\"선발투수 K. Bradish (6-9, 3.61) ERA 3.61|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
+awayLineup: "[\"선발투수 K. Bradish (6-9, 3.61) ERA 3.61|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\",\"1번 G. Henderson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42507.png\",\"2번 T. Ward (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/34923.png\",\"3번 D. Beavers (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4959037.png\",\"4번 P. Alonso (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/37498.png\",\"5번 S. Basallo (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917646.png\",\"6번 L. Taveras (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34951.png\",\"7번 C. Cowser (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4416990.png\",\"8번 C. Mayo (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4683371.png\",\"9번 J. Holliday (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080633.png\"]"
 ---
