@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "178.5"
 pickOuDirection: "언더"
+homeLineup: "[\"S. Alexis (F)|https://a.espncdn.com/i/headshots/nba/players/full/5107375.png\",\"B. Harris (F)|https://a.espncdn.com/i/headshots/nba/players/full/4897768.png\",\"L. Wilkerson (G)|https://a.espncdn.com/i/headshots/nba/players/full/5105876.png\",\"S. Ashworth (G)|https://a.espncdn.com/i/headshots/nba/players/full/4701991.png\",\"B. Boeheim (G)|https://a.espncdn.com/i/headshots/nba/players/full/4395676.png\"]"
+awayLineup: "[\"D. Dainja (C)|https://a.espncdn.com/i/headshots/nba/players/full/4432189.png\",\"B. Humrichous (F)|https://a.espncdn.com/i/headshots/nba/players/full/5177736.png\",\"D. Brown (G)|https://a.espncdn.com/i/headshots/nba/players/full/5107242.png\",\"H. Sallis (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433281.png\",\"D. Murray Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/4398029.png\"]"
 ---
