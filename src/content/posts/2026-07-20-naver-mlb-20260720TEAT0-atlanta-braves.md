@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 G. Holmes (5-4, 3.61) ERA 3.61|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
+awayLineup: "[\"선발투수 N. Eovaldi (9-7, 4.04) ERA 4.04|https://a.espncdn.com/i/headshots/mlb/players/full/31174.png\"]"
 ---
