@@ -1,0 +1,31 @@
+---
+title: "애리조나 다이아몬드백스 vs 세인트루이스 카디널스 경기분석·라인업·결장자·통계·승부예측 (7월 20일) | MLB - 픽천국"
+date: 2026-07-19T20:10:00.000Z
+description: "애리조나 다이아몬드백스 vs 세인트루이스 카디널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260720SLAZ0-2026-07-20-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "세인트루이스 카디널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 55경기 28승 27패, 승률 .510, 평균 득점 4.4로 승패 균형을 맞추며 버티고 있습니다. 최근 10경기에서도 5승 5패, 평균 득점 4.5로 공격 생산은 유지되고 있고, 강한 상대를 상대로도 득점을 이어가며 반등의 흐름을 만들고 있습니다. 다만 실점 억제는 다소 흔들리는 편이라 한 번 흐름이 끊기면 경기 운영이 급격히 불안해질 수 있습니다. 홈에서는 득점이 살아나는 장면이 자주 보이고, 최근 세인트루이스 카디널스와의 맞대결에서 승리를 거둔 점도 자신감을 더해주고 있습니다. 특히 중심 타선의 응집력이 살아날 때는 경기 후반까지 주도권을 잡는 장면이 잘 만들어지고 있습니다."
+awayAnalysis: "세인트루이스 카디널스는 2026시즌 최근 57경기 25승 31패, 승률 .526, 평균 득점 4.2로 전반적인 득점 효율은 나쁘지 않지만 승패 흐름이 매끄럽지는 않습니다. 최근 10경기에서는 4승 6패, 평균 득점 5.6으로 타선 폭발력은 분명하게 드러나지만, 그만큼 실점도 함께 늘어나 경기 균형이 흔들리고 있습니다. 현재 리그순위 6위라는 위치에 비해 최근 경기 내용은 고점 대비 주춤한 편으로 보이며, 특히 강한 상대를 만났을 때 수비 집중도가 떨어지는 흐름이 보입니다. 원정에서는 공격이 살아나도 마무리에서 흔들리는 경우가 있어, 리드를 잡아도 안심하기 어려운 장면이 이어지고 있습니다. 다만 장타와 집중타가 한 번 터지면 단숨에 분위기를 바꾸는 힘은 여전히 주목할 만합니다."
+homePower: "최근 세인트루이스 카디널스 상대로 상성 우위가 확인됨|홈 득점 흐름이 안정적이라 초반 주도권 기대됨|실점 관리가 관건이나 타선으로 상쇄하는 구조임|상위권 상대에서도 버틴 흐름은 자신감으로 연결됨|중심 타선 응집 시 경기 후반 운영력도 살아나는 편임"
+awayPower: "세인트루이스 카디널스 타선은 폭발력은 있으나 기복이 큼|최근 다득점 경기와 실점 동반 증가가 함께 나타남|원정에서 공격 생산은 가능하나 수비 안정감이 약함|리그순위는 높아도 최근 내용은 흔들림이 확인됨|한 번 흐름을 타면 단기간에 경기 양상 바꾸는 힘 있음"
+h2h: '[{"date":"26.07.19","home":"애리조나 다이아몬드백스","away":"세인트루이스 카디널스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719SLAZ0-2026-07-19-arizona-diamondbacks/"},{"date":"26.07.18","home":"애리조나 다이아몬드백스","away":"세인트루이스 카디널스","score":"4-5"},{"date":"26.06.26","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"0-0","link":"https://pick79.com/posts/detail/analyze-179220-2026-06-26-st-louis-cardinals/"},{"date":"26.06.25","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"4-9","link":"https://pick79.com/posts/detail/analyze-179209-2026-06-25-st-louis-cardinals/"},{"date":"26.06.24","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-179194-2026-06-24-st-louis-cardinals/"}]'
+summary: "애리조나 다이아몬드백스는 최근 경기에서 득점 흐름이 꾸준하고, 세인트루이스 카디널스보다 전반적인 경기 운영이 한결 안정적으로 보입니다. 세인트루이스 카디널스는 리그순위는 더 높지만 최근에는 실점이 함께 늘어나며 전력 기복이 드러나고 있어, 현재 흐름만 놓고 보면 애리조나 다이아몬드백스 쪽이 더 낫습니다. 상대전적에서도 애리조나 다이아몬드백스가 우세한 흐름을 이어가고 있어, 이번 경기 역시 홈팀이 타선의 꾸준함과 맞대결 강세를 바탕으로 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.19","home":"애리조나 다이아몬드백스","away":"세인트루이스 카디널스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719SLAZ0-2026-07-19-arizona-diamondbacks/"},{"date":"26.07.13","home":"LA 다저스","away":"애리조나 다이아몬드백스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179462-2026-07-13-los-angeles-dodgers/"},{"date":"26.07.11","home":"LA 다저스","away":"애리조나 다이아몬드백스","score":"3-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179430-2026-07-11-los-angeles-dodgers/"},{"date":"26.07.10","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179410-2026-07-10-san-diego-padres/"},{"date":"26.07.09","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179396-2026-07-09-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.07.19","home":"애리조나 다이아몬드백스","away":"세인트루이스 카디널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719SLAZ0-2026-07-19-arizona-diamondbacks/"},{"date":"26.07.13","home":"세인트루이스 카디널스","away":"애틀랜타 브레이브스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179453-2026-07-13-st-louis-cardinals/"},{"date":"26.07.12","home":"세인트루이스 카디널스","away":"애틀랜타 브레이브스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179437-2026-07-12-st-louis-cardinals/"},{"date":"26.07.10","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179408-2026-07-10-st-louis-cardinals/"},{"date":"26.07.09","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179394-2026-07-09-st-louis-cardinals/"}]'
+injuryHome: "Blake Walston (수술)|Zac Gallen (염증)|Lourdes Gurriel Jr. (부상)|Jordan Lawlar (부상)|Michael Soroka (부상)"
+injuryAway: "Ramon Urias (건염)|JoJo Romero (부상)|Max Rajcic (통증)"
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

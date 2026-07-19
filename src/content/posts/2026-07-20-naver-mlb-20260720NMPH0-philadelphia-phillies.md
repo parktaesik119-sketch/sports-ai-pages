@@ -1,0 +1,31 @@
+---
+title: "필라델피아 필리스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (7월 20일) | MLB - 픽천국"
+date: 2026-07-19T17:35:00.000Z
+description: "필라델피아 필리스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260720NMPH0-2026-07-20-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 최근 65경기에서 37승 2무 26패, 평균 득점 4.5를 기록하며 상위권 전력을 유지하고 있습니다. 시즌 전체 기준으로는 공격 생산력이 비교적 안정적이고, 실점 억제도 크게 무너지지 않아 경기 운영의 균형이 좋은 편입니다. 다만 최근 10경기에서는 5승 5패, 평균 득점 3.1로 다소 주춤한 흐름이 보이는데, 강한 상대를 만났을 때 득점이 묶이는 모습이 함께 나타나고 있습니다. 그럼에도 홈에서는 경기 초반 흐름을 잡을 때 경기 내용을 끝까지 끌고 가는 힘이 있고, 뉴욕 메츠를 상대로도 장타와 집중타가 함께 살아난 장면이 확인됩니다. 결장자가 적지 않지만 시즌 전체 전력과 최근 맞대결 흐름을 보면, 필라델피아 필리스는 여전히 홈 이점을 살릴 만한 기반이 갖춰져 있습니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 최근 60경기에서 26승 1무 33패, 평균 득점 4.2를 기록하며 중하위권 전력에 머물러 있습니다. 시즌 전체 흐름에서는 득점력 자체가 완전히 무너진 것은 아니지만, 실점이 더 크게 누적되면서 경기 후반에 밀리는 모습이 자주 보입니다. 최근 10경기에서는 5승 5패, 평균 득점 5.1로 타선이 살아나는 반등 조짐도 있으나, 같은 기간 실점 억제는 여전히 불안정합니다. 특히 강한 상대를 상대로는 득점이 나와도 승부를 지키는 힘이 부족해, 좋은 타격 흐름이 결과로 이어지지 못하는 장면이 있습니다. 결장자 공백도 적지 않아, 뉴욕 메츠는 공격이 터져도 수비와 불펜 안정감에서 다시 흔들릴 가능성이 있습니다."
+homePower: "필라델피아 필리스, 상위권 전력에 걸맞은 경기 운영력 보임|최근 득점 기복은 있으나 홈에서 흐름 회복 능력 검증됨|뉴욕 메츠 상대로 장타와 집중타가 함께 터진 상성 우위|실점 폭이 큰 경기와 안정 경기의 차이가 커 변동성 존재|결장자 부담에도 선발 이후 이닝 관리가 승부 열쇠임"
+awayPower: "뉴욕 메츠, 타격은 살아나도 결과로 연결이 들쑥날쑥함|득점은 유지되나 실점 관리 실패가 전력 약점으로 남음|상위권 상대로도 공격 응집력은 보이지만 마무리 불안함|장기 결장 공백이 전력 깊이와 불펜 안정성에 영향임|접전에서는 후반 대응력이 떨어지는 패턴이 반복됨"
+h2h: '[{"date":"26.07.19","home":"필라델피아 필리스","away":"뉴욕 메츠","score":"6-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719NMPH0-2026-07-19-philadelphia-phillies/"},{"date":"26.07.17","home":"필라델피아 필리스","away":"뉴욕 메츠","score":"1-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260717NMPH0-2026-07-17-philadelphia-phillies/"},{"date":"26.06.29","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-179259-2026-06-29-new-york-mets/"},{"date":"26.06.28","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-179246-2026-06-28-new-york-mets/"},{"date":"26.06.27","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-179229-2026-06-27-new-york-mets/"}]'
+summary: "필라델피아 필리스는 2026시즌 전체 전력에서 55승 44패, 득실 431-439로 승률과 경기 운영 면에서 뉴욕 메츠보다 한 단계 앞서 있습니다. 뉴욕 메츠는 41승 58패, 득실 403-470으로 공격은 버티는 장면이 있어도 실점 관리에서 격차가 뚜렷해 보입니다. 최근 맞대결에서도 필라델피아 필리스가 시리즈를 앞서 가고 있고, 큰 점수 차로 밀어낸 경기와 접전 승리가 함께 있어 상성 면에서도 우위가 확인됩니다. 이런 흐름을 함께 보면 이번 경기는 필라델피아 필리스 쪽이 전체 전력, 최근 맞대결, 경기 안정감에서 더 낫게 평가됩니다."
+homeRecent: '[{"date":"26.07.19","home":"필라델피아 필리스","away":"뉴욕 메츠","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719NMPH0-2026-07-19-philadelphia-phillies/"},{"date":"26.07.17","home":"필라델피아 필리스","away":"뉴욕 메츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260717NMPH0-2026-07-17-philadelphia-phillies/"},{"date":"26.07.13","home":"디트로이트 타이거즈","away":"필라델피아 필리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179461-2026-07-13-detroit-tigers/"},{"date":"26.07.12","home":"디트로이트 타이거즈","away":"필라델피아 필리스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179445-2026-07-12-detroit-tigers/"},{"date":"26.07.11","home":"디트로이트 타이거즈","away":"필라델피아 필리스","score":"10-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179431-2026-07-11-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.07.19","home":"필라델피아 필리스","away":"뉴욕 메츠","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719NMPH0-2026-07-19-philadelphia-phillies/"},{"date":"26.07.17","home":"필라델피아 필리스","away":"뉴욕 메츠","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260717NMPH0-2026-07-17-philadelphia-phillies/"},{"date":"26.07.13","home":"뉴욕 메츠","away":"보스턴 레드삭스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179457-2026-07-13-new-york-mets/"},{"date":"26.07.12","home":"뉴욕 메츠","away":"보스턴 레드삭스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179441-2026-07-12-new-york-mets/"},{"date":"26.07.11","home":"뉴욕 메츠","away":"보스턴 레드삭스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179427-2026-07-11-new-york-mets/"}]'
+injuryHome: "Lou Trivino (경련)|Tanner Banks (염좌)|Brad Keller (부상자 명단)|Johan Rojas (수술)|Adolis Garcia (수술)"
+injuryAway: "Dedniel Nunez (수술)|Luis Robert Jr. (명시되지 않음)|Clay Holmes (골절)|Austin Warren (염좌)|Justin Hagenman (골절)"
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

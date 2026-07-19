@@ -1,0 +1,31 @@
+---
+title: "데펜소르 스포르팅 vs 리버풀 몬테비데오 경기분석·라인업·결장자·통계·승부예측 (7월 21일) | 프리메라디비전 - 픽천국"
+date: 2026-07-20T23:00:00+00:00
+description: "데펜소르 스포르팅 vs 리버풀 몬테비데오 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1576802-2026-07-21-defensor-sporting"
+category: "soccer"
+country: "우루과이"
+league: "프리메라디비전"
+homeTeam: "데펜소르 스포르팅"
+awayTeam: "리버풀 몬테비데오"
+homeLogo: "https://media.api-sports.io/football/teams/2350.png"
+awayLogo: "https://media.api-sports.io/football/teams/2358.png"
+homeAnalysis: "데펜소르 스포르팅은 2026시즌 전체 DB 기준 1승 4무 4패, 평균 득점 0.7로 공격 전개가 매끄럽지 않은 편이지만 쉽게 무너지지 않는 버티는 힘은 보여주고 있습니다. 최근 흐름에서도 연패 뒤에 무승부를 연달아 만들며 실점 폭을 억제하는 모습이 이어지고 있어, 전력의 바닥은 다지려는 흐름으로 읽힙니다. 특히 홈에서는 보스톤 리베르전 무승부와 페냐롤전 패배처럼 강팀 상대로도 완전히 밀리지 않는 장면이 있었고, 경기 운영 자체는 생각보다 안정적으로 가져가고 있습니다. 다만 평균 득점이 높지 않아 선제골을 내주면 반격의 폭이 좁아지는 점은 여전히 부담입니다. 리그순위 8위와 득실 3-6이라는 수치는 공격보다 수비 안정이 더 중요한 팀이라는 점을 잘 보여주고 있습니다."
+awayAnalysis: "리버풀 몬테비데오는 2026시즌 전체 DB 기준 1승 2무 3패, 평균 득점 0.5로 득점 생산이 다소 답답한 편입니다. 최근 흐름에서는 승리와 무승부가 함께 나오며 완전히 가라앉지는 않았지만, 리그순위 6위라는 자리와 달리 경기 내용이 꾸준하게 받쳐주지는 못하고 있습니다. 원정에서는 보스톤 리베르전 승리처럼 효율적인 경기 운영이 가능하지만, 전반적으로는 한 골 싸움에서 강하게 밀어붙이는 힘이 부족해 보입니다. 득실 3-4가 말해주듯 실점 관리가 아주 나쁘지는 않지만, 공격 쪽에서 우위를 만들지 못하면 흐름을 끝까지 끌고 가기 어려운 모습입니다. 최근 전력만 놓고 보면 반등의 실마리는 있으나, 고점 대비 주춤한 인상이 함께 남아 있습니다."
+homePower: "홈에서 쉽게 무너지지 않는 운영력 보임|실점 억제는 되나 마무리 효율이 낮음|강팀 상대로도 버티는 경기력 확인됨|선제 실점 시 추격 옵션이 좁아짐|리그순위 8위지만 반등 여지는 남아있음"
+awayPower: "리버풀 몬테비데오는 수비 집중력은 유지함|한 골 차 승부 대응력은 나쁘지 않음|득점 기복이 커 우세 장악이 어려움|원정에서 효율 축구일 때만 경쟁력 발휘됨|리그순위 6위보다 경기력은 더 들쭉날쭉함"
+h2h: '[{"date":"26.02.14","home":"리버풀 몬테비데오","away":"데펜소르 스포르팅","score":"1-2"},{"date":"25.08.31","home":"리버풀 몬테비데오","away":"데펜소르 스포르팅","score":"2-0"},{"date":"25.06.15","home":"데펜소르 스포르팅","away":"리버풀 몬테비데오","score":"4-2"},{"date":"25.03.08","home":"데펜소르 스포르팅","away":"리버풀 몬테비데오","score":"0-1"},{"date":"24.10.22","home":"데펜소르 스포르팅","away":"리버풀 몬테비데오","score":"2-1"}]'
+summary: "데펜소르 스포르팅은 리그순위 8위이지만 최근 전력에서 실점을 크게 허용하지 않으며 경기 균형을 지키는 흐름이 이어지고 있고, 리버풀 몬테비데오는 리그순위 6위에도 불구하고 득점 기복이 남아 있어 전력 우위가 아주 뚜렷하게 굳어진 상태는 아닙니다. 다만 상대전적에서는 데펜소르 스포르팅이 최근 맞대결에서 원정 승리를 포함해 우세한 결과를 여러 차례 만들어냈고, 홈에서의 맞붙음에서도 공격적으로 더 나은 장면을 보여준 적이 있습니다. 이번 경기는 두 팀 모두 득점 생산이 크지 않은 흐름이라 팽팽하게 흘러가겠지만, 홈에서 버티는 힘과 상성 면의 이점이 있는 데펜소르 스포르팅 쪽이 조금 더 우세한 그림으로 보입니다."
+homeRecent: '[{"date":"26.07.14","home":"세로 라르고","away":"데펜소르 스포르팅","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1576794-2026-07-14-cerro-largo/"},{"date":"26.07.04","home":"크루제이루","away":"데펜소르 스포르팅","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1567549-2026-07-04-cruzeiro/"},{"date":"26.06.08","home":"데펜소르 스포르팅","away":"보스톤 리베르","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1546811-2026-06-08-defensor-sporting/"},{"date":"26.05.30","home":"라싱 몬테비데오","away":"데펜소르 스포르팅","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1546798-2026-05-30-racing-montevideo/"},{"date":"26.05.25","home":"데펜소르 스포르팅","away":"페냐롤","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1545242-2026-05-25-defensor-sporting/"}]'
+awayRecent: '[{"date":"26.07.13","home":"리버풀 몬테비데오","away":"세로","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1576791-2026-07-13-liverpool-montevideo/"},{"date":"26.06.09","home":"리버풀 몬테비데오","away":"세로 라르고","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1546812-2026-06-09-liverpool-montevideo/"},{"date":"26.06.02","home":"보스톤 리베르","away":"리버풀 몬테비데오","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546803-2026-06-02-boston-river/"},{"date":"26.05.23","home":"리버풀 몬테비데오","away":"라싱 몬테비데오","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1545236-2026-05-23-liverpool-montevideo/"},{"date":"26.05.17","home":"페냐롤","away":"리버풀 몬테비데오","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544923-2026-05-17-penarol/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "데펜소르 스포르팅"
+pickWinResult: "승"
+pickHandicapTeam: "데펜소르 스포르팅"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

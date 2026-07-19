@@ -1,0 +1,31 @@
+---
+title: "밀워키 브루어스 vs 마이애미 말린스 경기분석·라인업·결장자·통계·승부예측 (7월 20일) | MLB - 픽천국"
+date: 2026-07-19T18:10:00.000Z
+description: "밀워키 브루어스 vs 마이애미 말린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260720FLMI0-2026-07-20-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+homeAnalysis: "밀워키 브루어스는 2026시즌 최근 63경기에서 39승 23패 1무, 평균 득점 4.7을 기록하며 리그순위 2위에 올라 있습니다. 최근 10경기에서도 7승 3패, 평균 득점 5.0으로 타선의 응집력이 살아 있고, 특히 홈에서 주도권을 잡는 경기 운영이 안정적으로 이어지고 있습니다. 직전 마이애미 말린스전에서는 8득점과 2득점을 번갈아 보여 주며 공격의 폭발력과 마무리 집중력을 함께 확인할 수 있었습니다. 다만 최근에는 피츠버그전에서 실점이 크게 늘어난 경기도 있어, 득점 지원이 있더라도 마운드 운용의 안정감이 경기 흐름을 좌우할 가능성이 있습니다. 결장자 쪽에서는 로브 자스트리즌, 조엘 쿠넬, 데이비드 해밀턴, DL 홀이 모두 장기 공백이라 투수진 뎁스 관리가 중요한 상황입니다. 그럼에도 득실 499-370이 보여 주듯 공수 균형이 분명하고, 홈에서의 전개력은 여전히 강점으로 평가됩니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 최근 65경기에서 33승 30패 2무, 평균 득점 4.3으로 리그순위 7위에 자리하고 있습니다. 최근 10경기에서는 5승 5패, 평균 득점 4.9로 타선은 나쁘지 않지만 결과의 안정감이 다소 흔들리고 있습니다. 직전 밀워키 브루어스전 2경기에서는 1득점과 6득점을 오가며 공격의 기복이 드러났고, 클리블랜드전에서는 연달아 3경기를 내주며 흐름이 꺾였습니다. 그래도 시애틀전과 애슬레틱스전에서 연속 다득점을 기록한 점은 반등 여지를 보여 주고 있습니다. 다만 득실 446-425가 말해 주듯 큰 폭의 우위는 아니어서, 접전으로 가면 한 끗 차이에서 밀릴 가능성도 있습니다. 오토 로페즈는 경미한 상태지만 존 킹, 윌리엄 켐프너, 조시 에크니스, 오언 케시는 장기 결장이라 투수진과 로테이션 운용에 부담이 있습니다."
+homePower: "최근 홈 전개가 안정적이고 초반 주도권 확보가 수월함|다득점 경기와 저득점 승리를 모두 소화하는 경기 폭이 넓음|장기 결장자 속에서도 타선 응집력은 크게 흔들리지 않음|실점 관리가 흔들린 경기만 줄이면 상위권 유지력 뚜렷함|마이애미 말린스 상대로 시리즈 우세 흐름이 이어지고 있음"
+awayPower: "시애틀전 화력은 살아 있어 타선 반등 신호가 보임|최근 승패가 엇갈려도 공격 생산성 자체는 완전히 꺾이지 않음|득실 차가 크지 않아 접전에서 수비 한 끗이 중요함|장기 결장 투수 자원이 많아 경기 후반 운영 부담이 큼|강팀 상대로는 기복이 커져 안정적 득점 연결이 과제임"
+h2h: '[{"date":"26.07.19","home":"밀워키 브루어스","away":"마이애미 말린스","score":"8-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719FLMI0-2026-07-19-milwaukee-brewers/"},{"date":"26.07.18","home":"밀워키 브루어스","away":"마이애미 말린스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260718FLMI0-2026-07-18-milwaukee-brewers/"},{"date":"26.04.20","home":"마이애미 말린스","away":"밀워키 브루어스","score":"5-3"},{"date":"26.04.19","home":"마이애미 말린스","away":"밀워키 브루어스","score":"2-5"},{"date":"26.04.18","home":"마이애미 말린스","away":"밀워키 브루어스","score":"5-7"}]'
+summary: "밀워키 브루어스는 리그순위 2위답게 시즌 전체 전력에서 앞서 있고, 득실 499-370이 보여 주듯 공격과 수비의 균형도 더 단단합니다. 마이애미 말린스는 최근 들어 타선이 어느 정도 살아나고 있지만, 리그순위 7위와 득실 446-425가 보여 주는 한계 때문에 상위 전력과의 맞대결에서는 안정감이 떨어지는 편입니다. 상대전적에서도 밀워키 브루어스가 우세한 흐름을 이어가고 있어, 경기 전체의 무게 중심은 홈팀 쪽으로 자연스럽게 기울어 보입니다. 이런 흐름을 종합하면 밀워키 브루어스가 주도권을 잡을 가능성이 높고, 마이애미 말린스는 중반 이후 추격 흐름을 만들지 못하면 버티기 어려워 보입니다."
+homeRecent: '[{"date":"26.07.19","home":"밀워키 브루어스","away":"마이애미 말린스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719FLMI0-2026-07-19-milwaukee-brewers/"},{"date":"26.07.18","home":"밀워키 브루어스","away":"마이애미 말린스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260718FLMI0-2026-07-18-milwaukee-brewers/"},{"date":"26.07.13","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"14-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179450-2026-07-13-pittsburgh-pirates/"},{"date":"26.07.12","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179440-2026-07-12-pittsburgh-pirates/"},{"date":"26.07.10","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179408-2026-07-10-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.07.19","home":"밀워키 브루어스","away":"마이애미 말린스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719FLMI0-2026-07-19-milwaukee-brewers/"},{"date":"26.07.18","home":"밀워키 브루어스","away":"마이애미 말린스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260718FLMI0-2026-07-18-milwaukee-brewers/"},{"date":"26.07.13","home":"마이애미 말린스","away":"클리블랜드 가디언스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179463-2026-07-13-miami-marlins/"},{"date":"26.07.12","home":"마이애미 말린스","away":"클리블랜드 가디언스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179443-2026-07-12-miami-marlins/"},{"date":"26.07.11","home":"마이애미 말린스","away":"클리블랜드 가디언스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179429-2026-07-11-miami-marlins/"}]'
+injuryHome: "Brice Turang (통증)|Rob Zastryzny (염좌)|Joel Kuhnel (결장)|David Hamilton (염좌)|DL Hall (염좌)"
+injuryAway: "Otto Lopez (결장)|John King (염좌)|William Kempner (염좌)|Josh Ekness (염좌)|Owen Caissie (염좌)"
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---
