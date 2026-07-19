@@ -402,7 +402,7 @@ const TEAM_NAME_MAP = {
   // ===== 🇺🇸 MLS =====
   "Atlanta United FC": "애틀랜타 유나이티드",
   "Austin": "오스틴 FC",
-  "CF Montreal": "CF 몬트리올",
+  "CF Montreal": "CF 몽레알",
   "Charlotte": "샬럿 FC",
   "Chicago Fire": "시카고 파이어",
   "Colorado Rapids": "콜로라도 래피즈",
@@ -1434,7 +1434,7 @@ const TEAM_NAME_MAP = {
   "Petrovac": "OFK 페트로바치",
   "FK Zalgiris Vilnius": "잘기리스 빌뉴스",
   "Velež": "FK 벨레주 모스타르",
-  "Milsami Orhei": "밀사미",
+  "Milsami Orhei": "밀사미 오르헤이",
   "Stjarnan": "스탸르난",
   "Vikingur Gota": "바이킹어",
   "Vllaznia Shkodër": "KF 블라즈니아",
@@ -1524,6 +1524,11 @@ const TEAM_NAME_MAP = {
   "Uta Arad": "UTA 아라드",
   "FC Bacau": "FCM 바카우",  
   "Banga": "방가 가르그즈다이",
+  "Slovan Liberec": "슬로반 리베레츠",
+  "FK Košice": "FK 코시체",
+  "Corvinul Hunedoara": "FC 코르비눌 후네도아라",
+  "Koper": "코페르",
+  "Zbrojovka Brno": "FC즈브로요프카 브르노",
 
   
   //중국축구
