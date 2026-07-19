@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 T. Yesavage (4-4, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/4949041.png\"]"
-awayLineup: "[\"선발투수 S. Burke (6-4, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
+awayLineup: "[\"선발투수 S. Burke (6-4, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\",\"1번 S. Antonacci (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5207167.png\",\"2번 M. Murakami (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872595.png\",\"3번 M. Vargas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"4번 C. Montgomery (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\",\"5번 A. Benintendi (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/34986.png\",\"6번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"7번 R. Grichuk (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31399.png\",\"8번 T. Peters (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5085893.png\",\"9번 D. Romo (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917765.png\"]"
 ---
