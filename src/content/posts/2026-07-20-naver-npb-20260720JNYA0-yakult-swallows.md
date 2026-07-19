@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Nash Walters (1-2, 5.87)|https://p.npb.jp/players_photo/2026/180/s/058_63965150.jpg\"]"
+awayLineup: "[\"선발투수 Hiroto Takahashi (1-6, 4.86)|https://p.npb.jp/players_photo/2026/180/d/019_61265153.jpg\"]"
 ---

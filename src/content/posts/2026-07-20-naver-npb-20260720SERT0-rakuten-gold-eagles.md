@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Takayuki Kishi (2-2, 2.10)|https://p.npb.jp/players_photo/2026/180/e/011_91795114.jpg\"]"
+awayLineup: "[\"선발투수 Emmanuel Ramirez (2-1, 5.40)|https://p.npb.jp/players_photo/2026/180/l/056_73975150.jpg\"]"
 ---

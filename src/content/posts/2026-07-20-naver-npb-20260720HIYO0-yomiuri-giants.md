@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Haruto Inoue (8-5, 2.17)|https://p.npb.jp/players_photo/2026/180/g/097_51355151.jpg\"]"
+awayLineup: "[\"선발투수 Hiroki Tokoda (4-3, 2.53)|https://p.npb.jp/players_photo/2026/180/c/019_11415134.jpg\"]"
 ---

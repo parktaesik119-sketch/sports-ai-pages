@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Andre Jackson (6-6, 3.23)|https://p.npb.jp/players_photo/2026/180/m/042_43745159.jpg\"]"
+awayLineup: "[\"선발투수 Tomohisa Ohzeki (3-4, 5.37)|https://p.npb.jp/players_photo/2026/180/h/047_01505151.jpg\"]"
 ---

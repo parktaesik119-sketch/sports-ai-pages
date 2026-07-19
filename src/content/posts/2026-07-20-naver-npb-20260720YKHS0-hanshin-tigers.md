@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Koutaro Ohtake (3-6, 2.77)|https://p.npb.jp/players_photo/2026/180/t/021_41345136.jpg\"]"
+awayLineup: "[\"선발투수 Kentaro Taira (2-5, 4.04)|https://p.npb.jp/players_photo/2026/180/db/059_01905139.jpg\"]"
 ---
