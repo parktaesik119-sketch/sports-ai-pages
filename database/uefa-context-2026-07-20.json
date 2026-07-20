@@ -365,11 +365,11 @@
     },
     "referees": [
       {
-        "role": "ASSISTANT_REFEREE_ONE",
+        "role": "ASSISTANT_REFEREE_TWO",
         "name": null
       },
       {
-        "role": "ASSISTANT_REFEREE_TWO",
+        "role": "REFEREE_OBSERVER",
         "name": null
       },
       {
@@ -385,7 +385,7 @@
         "name": null
       },
       {
-        "role": "REFEREE_OBSERVER",
+        "role": "ASSISTANT_REFEREE_ONE",
         "name": null
       }
     ],
@@ -424,19 +424,7 @@
     },
     "referees": [
       {
-        "role": "REFEREE_OBSERVER",
-        "name": null
-      },
-      {
-        "role": "UEFA_DELEGATE",
-        "name": null
-      },
-      {
         "role": "FOURTH_OFFICIAL",
-        "name": null
-      },
-      {
-        "role": "ASSISTANT_REFEREE_ONE",
         "name": null
       },
       {
@@ -444,7 +432,19 @@
         "name": null
       },
       {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
         "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
         "name": null
       }
     ],
@@ -617,6 +617,14 @@
     },
     "referees": [
       {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
         "role": "REFEREE",
         "name": null
       },
@@ -625,19 +633,11 @@
         "name": null
       },
       {
-        "role": "REFEREE_OBSERVER",
-        "name": null
-      },
-      {
-        "role": "ASSISTANT_REFEREE_ONE",
-        "name": null
-      },
-      {
-        "role": "ASSISTANT_REFEREE_TWO",
-        "name": null
-      },
-      {
         "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
         "name": null
       }
     ],
