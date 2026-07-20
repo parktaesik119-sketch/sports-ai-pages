@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 B. Elder (5-6, 4.12) ERA 4.12|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\"]"
+homeLineup: "[\"선발투수 B. Elder (5-6, 4.12) ERA 4.12|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\",\"1번 D. Baldwin (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"2번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"5번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"6번 M. Dubon (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"7번 J. Bart (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41168.png\",\"8번 J. Jarvis (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5205951.png\",\"9번 E. White (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/39963.png\"]"
 awayLineup: "[\"선발투수 J. Sears (2-2, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/39818.png\"]"
 ---

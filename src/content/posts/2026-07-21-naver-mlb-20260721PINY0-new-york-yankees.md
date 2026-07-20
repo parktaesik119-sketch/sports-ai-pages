@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 R. Weathers (3-7, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\"]"
+homeLineup: "[\"선발투수 R. Weathers (3-7, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\",\"1번 T. Grisham (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/34995.png\",\"2번 B. Rice (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5016968.png\",\"3번 P. Goldschmidt (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/31027.png\",\"4번 C. Bellinger (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33912.png\",\"5번 J. Chisholm Jr. (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41433.png\",\"6번 J. Dominguez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42401.png\",\"7번 R. McMahon (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33247.png\",\"8번 A. Wells (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4683349.png\",\"9번 J. Caballero (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42135.png\"]"
 awayLineup: "[\"선발투수 B. Ashcraft (9-3, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
 ---
