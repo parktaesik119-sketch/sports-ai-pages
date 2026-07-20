@@ -919,6 +919,8 @@ const TEAM_NAME_MAP = {
   "Deportivo Cuenca": "데포르티보 쿠엔카",
   "Fortaleza EC": "포르탈레자 EC",
   "Barracas Central": "바라카스 센트랄",
+  "Puerto Cabello": "푸에르토 카베요",
+  "Cienciano": "시엔시아노",
 
   // K리그 WK리그
   "Boeun Sangmu W": "문경 상무",
@@ -960,6 +962,9 @@ const TEAM_NAME_MAP = {
   "Corinthians": "코린치안스",
   "Palmeiras": "팔메이라스",
   "Gremio": "그레미우",
+  "Independ. Rivadavia": "인디펜디엔테 리바다비아",
+  "Alianza Atletico": "알리안자 아틀레티코",
+  "Macara": "마카라",
 
   // 프리미어십 (스코틀랜드)
   "Aberdeen": "애버딘",
@@ -1535,6 +1540,33 @@ const TEAM_NAME_MAP = {
   "Slovan Bratislava": "슬로반 브라티슬라바",
   "FK Crvena Zvezda": "츠르베나 즈베즈다",
   "Hapoel Beer Sheva": "하포엘 베르셰바",
+  "Horsens": "호르센스",
+  "Viborg": "비보르",
+  "Podbrezová": "포드브레조바",
+  "Admira Wacker": "FC 아드미라 바커",
+  "Eyüpspor": "에유프스포르",
+  "Galatasaray": "갈라타사라이",
+  "FC Nordsjaelland": "FC 노르셸란",
+  "Hallescher FC": "할레셔 FC",
+  "Kalsdorf": "칼스도르프",
+  "Waldhof Mannheim": "SV 발트호프 만하임",
+  "FC ST. Gallen": "FC 장트 갈렌",
+  "FC Sion": "FC 시옹",
+  "Cork City": "코크 시티",
+  "Pafos": "파포스",
+  "Puskas Academy": "푸슈카시 아카데미",
+  "H&W Welders": "H&W 웰더스",
+  "Macva": "FK 마크바 사바크",
+  "Zenit": "제니트 상트페테르부르크",
+  "SKU Amstetten": "SKU 암슈테텐",
+  "FC Copenhagen": "FC 코펜하겐",
+  "Thor Akureyri": "토르 아쿠레이리",
+  "Maccabi Tel Aviv": "마카비 텔아비브",
+  "Omonia Nicosia": "오모니아 니코시아",
+  "07 Vestur": "07 베스터",
+  "Šiauliai": "FA 샤울랴이",
+  "Velazerimi 77": "벨라제리미 77",
+  "Labunishta": "FK 라부니슈타",
 
   
   //중국축구
