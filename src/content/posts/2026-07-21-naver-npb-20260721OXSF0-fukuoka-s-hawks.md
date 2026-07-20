@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Naoyuki Uwasawa (5-3, 2.36)|https://p.npb.jp/players_photo/2026/180/h/010_51355135.jpg\"]"
+awayLineup: "[\"선발투수 Anderson Espinoza (8-3, 2.40)|https://p.npb.jp/players_photo/2026/180/b/000_43545159.jpg\"]"
 ---
