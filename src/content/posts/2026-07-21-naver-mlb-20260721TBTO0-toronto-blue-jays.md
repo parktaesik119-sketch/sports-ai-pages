@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 D. Cease (6-4, 2.56) ERA 2.56|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
+awayLineup: "[\"선발투수 N. Martinez (8-2, 2.65) ERA 2.65|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
 ---

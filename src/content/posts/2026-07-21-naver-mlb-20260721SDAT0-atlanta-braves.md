@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 B. Elder (5-6, 4.12) ERA 4.12|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\"]"
+awayLineup: "[\"선발투수 J. Sears (2-2, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/39818.png\"]"
 ---

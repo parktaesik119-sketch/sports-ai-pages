@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 R. Weathers (3-7, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\"]"
+awayLineup: "[\"선발투수 B. Ashcraft (9-3, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
 ---

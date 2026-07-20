@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 D. Peterson (4-7, 6.45) ERA 6.45|https://a.espncdn.com/i/headshots/mlb/players/full/40921.png\"]"
+awayLineup: "[\"선발투수 F. Valdez (5-6, 4.10) ERA 4.10|https://a.espncdn.com/i/headshots/mlb/players/full/36581.png\"]"
 ---

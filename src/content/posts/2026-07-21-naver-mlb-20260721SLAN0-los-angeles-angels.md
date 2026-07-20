@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 W. Urena (5-7, 2.88) ERA 2.88|https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png\"]"
+awayLineup: "[\"선발투수 M. Liberatore (5-6, 5.00) ERA 5.00|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 M. Wacha (5-7, 3.77) ERA 3.77|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\"]"
+awayLineup: "[\"선발투수 T. McDonald (3-7, 5.02) ERA 5.02|https://a.espncdn.com/i/headshots/mlb/players/full/5185136.png\"]"
 ---

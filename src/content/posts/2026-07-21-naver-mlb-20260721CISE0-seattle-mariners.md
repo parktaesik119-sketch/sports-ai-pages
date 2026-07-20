@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 L. Castillo (3-8, 4.93) ERA 4.93|https://a.espncdn.com/i/headshots/mlb/players/full/35124.png\"]"
+awayLineup: "[\"선발투수 C. Burns (11-1, 2.54) ERA 2.54|https://a.espncdn.com/i/headshots/mlb/players/full/4927516.png\"]"
 ---

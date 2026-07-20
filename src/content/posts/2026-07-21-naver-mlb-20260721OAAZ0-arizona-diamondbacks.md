@@ -28,4 +28,5 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+awayLineup: "[\"선발투수 J. Perkins (2-5, 6.87) ERA 6.87|https://a.espncdn.com/i/headshots/mlb/players/full/4418686.png\"]"
 ---

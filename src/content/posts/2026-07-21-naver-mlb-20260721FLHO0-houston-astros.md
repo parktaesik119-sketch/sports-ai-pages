@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 T. Imai (5-4, 6.06) ERA 6.06|https://a.espncdn.com/i/headshots/mlb/players/full/5330833.png\"]"
+awayLineup: "[\"선발투수 T. Phillips (2-4, 3.48) ERA 3.48|https://a.espncdn.com/i/headshots/mlb/players/full/41247.png\"]"
 ---

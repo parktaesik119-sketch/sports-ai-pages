@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 T. Bibee (3-9, 3.90) ERA 3.90|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
+awayLineup: "[\"선발투수 J. Ryan (6-5, 2.85) ERA 2.85|https://a.espncdn.com/i/headshots/mlb/players/full/42450.png\"]"
 ---

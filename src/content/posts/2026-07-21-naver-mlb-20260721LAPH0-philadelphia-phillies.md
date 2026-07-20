@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 C. Sanchez (11-4, 2.62) ERA 2.62|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+awayLineup: "[\"선발투수 E. Sheehan (4-6, 4.81) ERA 4.81|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\"]"
 ---

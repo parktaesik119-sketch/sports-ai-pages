@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 K. Rocker (2-8, 4.40) ERA 4.40|https://a.espncdn.com/i/headshots/mlb/players/full/4414525.png\"]"
+awayLineup: "[\"선발투수 N. Schultz (3-6, 5.60) ERA 5.60|https://a.espncdn.com/i/headshots/mlb/players/full/5080754.png\"]"
 ---
