@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Taichi Yamano (8-2, 2.06)|https://p.npb.jp/players_photo/2026/180/s/026_63365153.jpg\"]"
+awayLineup: "[\"선발투수 Takahiro Matsuba (0-1, 4.91)|https://p.npb.jp/players_photo/2026/180/d/038_21225137.jpg\"]"
 ---

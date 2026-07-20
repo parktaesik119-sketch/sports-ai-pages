@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Kaito Shimomura (0-1, 2.45)|https://p.npb.jp/players_photo/2026/180/t/019_61965159.jpg\"]"
+awayLineup: "[\"선발투수 Kentaro Shinogi (4-2, 4.13)|https://p.npb.jp/players_photo/2026/180/db/030_41045150.jpg\"]"
 ---

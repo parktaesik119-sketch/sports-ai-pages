@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Iori Yamasaki (0-0, 4.76)|https://p.npb.jp/players_photo/2026/180/g/019_03305153.jpg\"]"
+awayLineup: "[\"선발투수 Shun Okamoto (6-5, 3.24)|https://p.npb.jp/players_photo/2026/180/c/053_91595150.jpg\"]"
 ---
