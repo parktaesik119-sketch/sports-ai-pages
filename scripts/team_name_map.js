@@ -1529,6 +1529,12 @@ const TEAM_NAME_MAP = {
   "Corvinul Hunedoara": "FC 코르비눌 후네도아라",
   "Koper": "코페르",
   "Zbrojovka Brno": "FC즈브로요프카 브르노",
+  "Aarhus": "오르후스",
+  "Fenerbahçe": "페네르바체",
+  "FC Thun": "FC 툰",
+  "Slovan Bratislava": "슬로반 브라티슬라바",
+  "FK Crvena Zvezda": "츠르베나 즈베즈다",
+  "Hapoel Beer Sheva": "하포엘 베르셰바",
 
   
   //중국축구
