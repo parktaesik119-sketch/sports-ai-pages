@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 J. Misiorowski (10-4, 1.62) ERA 1.62|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
-awayLineup: "[\"선발투수 F. Peralta (5-8, 4.66) ERA 4.66|https://a.espncdn.com/i/headshots/mlb/players/full/39825.png\"]"
+awayLineup: "[\"선발투수 F. Peralta (5-8, 4.66) ERA 4.66|https://a.espncdn.com/i/headshots/mlb/players/full/39825.png\",\"1번 A.J. Ewing (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5208019.png\",\"2번 J. Soto (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36969.png\",\"3번 B. Bichette (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/38904.png\",\"4번 F. Lindor (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/32129.png\",\"5번 J. Polanco (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32525.png\",\"6번 J. Young (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41575.png\",\"7번 L. Robert Jr. (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/39631.png\",\"8번 B. Baty (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42414.png\",\"9번 F. Alvarez (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41253.png\"]"
 ---
