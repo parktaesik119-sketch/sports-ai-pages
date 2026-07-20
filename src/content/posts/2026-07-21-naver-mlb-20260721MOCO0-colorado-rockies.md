@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 M. Lorenzen (3-9, 6.22) ERA 6.22|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\"]"
+awayLineup: "[\"선발투수 M. Mikolas (3-7, 5.53) ERA 5.53|https://a.espncdn.com/i/headshots/mlb/players/full/32116.png\"]"
 ---
