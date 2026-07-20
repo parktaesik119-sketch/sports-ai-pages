@@ -1567,6 +1567,7 @@ const TEAM_NAME_MAP = {
   "Šiauliai": "FA 샤울랴이",
   "Velazerimi 77": "벨라제리미 77",
   "Labunishta": "FK 라부니슈타",
+  "AC Horsens": "AC 호르센스",
 
   
   //중국축구
