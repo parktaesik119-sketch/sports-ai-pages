@@ -147,7 +147,7 @@ const TEAM_NAME_MAP = {
   "Tondela": "톤델라",
   "Torreense": "토렌스",
   "Juventud": "후벤투드",
-  "Atletico Torque": "몬테비데오 시티",
+  "Atletico Torque": "몬테비데오 시티 토르케",
   "Danubio": "다누비오",
   "Wanderers": "원더러스",
   "Progreso": "프로그레소",
