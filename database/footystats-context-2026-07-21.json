@@ -578,78 +578,7 @@
     "away": "FC Anyang",
     "date": "2026-07-22T10:30:00+00:00",
     "league": "K League 1",
-    "h2h": [
-      {
-        "date": "2026-05-02",
-        "home": "Anyang",
-        "away": "Bucheon 1995",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-11-02",
-        "home": "Bucheon 1995",
-        "away": "Anyang",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-06-30",
-        "home": "Bucheon 1995",
-        "away": "Anyang",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-04-10",
-        "home": "Anyang",
-        "away": "Bucheon 1995",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2023-10-21",
-        "home": "Bucheon 1995",
-        "away": "Anyang",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-06-03",
-        "home": "Anyang",
-        "away": "Bucheon 1995",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-04-08",
-        "home": "Bucheon 1995",
-        "away": "Anyang",
-        "homeScore": 2,
-        "awayScore": 4
-      },
-      {
-        "date": "2022-10-08",
-        "home": "Anyang",
-        "away": "Bucheon 1995",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-08-16",
-        "home": "Anyang",
-        "away": "Bucheon 1995",
-        "homeScore": 4,
-        "awayScore": 2
-      },
-      {
-        "date": "2022-06-22",
-        "home": "Bucheon 1995",
-        "away": "Anyang",
-        "homeScore": 0,
-        "awayScore": 1
-      }
-    ],
+    "h2h": [],
     "recent": {
       "home": [
         {
