@@ -1,229 +1,5 @@
 [
   {
-    "home": "Jeju United FC",
-    "away": "Gangwon FC",
-    "date": "2026-07-21T10:30:00+00:00",
-    "league": "K League 1",
-    "h2h": [
-      {
-        "date": "2026-03-22",
-        "home": "Gangwon",
-        "away": "Jeju United",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-08-15",
-        "home": "Jeju United",
-        "away": "Gangwon",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-05-06",
-        "home": "Jeju United",
-        "away": "Gangwon",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2025-03-02",
-        "home": "Gangwon",
-        "away": "Jeju United",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-07-20",
-        "home": "Gangwon",
-        "away": "Jeju United",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-06-02",
-        "home": "Jeju United",
-        "away": "Gangwon",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-03-02",
-        "home": "Gangwon",
-        "away": "Jeju United",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-10-28",
-        "home": "Gangwon",
-        "away": "Jeju United",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-08-06",
-        "home": "Jeju United",
-        "away": "Gangwon",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-06-03",
-        "home": "Jeju United",
-        "away": "Gangwon",
-        "homeScore": 2,
-        "awayScore": 2
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-07-18",
-          "home": "Jeju United",
-          "away": "Pohang Steelers",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-07-12",
-          "home": "Jeju United",
-          "away": "Daejeon Citizen",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-07-05",
-          "home": "Sangju Sangmu",
-          "away": "Jeju United",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-17",
-          "home": "Jeju United",
-          "away": "Anyang",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-05-13",
-          "home": "Ulsan",
-          "away": "Jeju United",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-09",
-          "home": "Jeju United",
-          "away": "FC Seoul",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-05",
-          "home": "Bucheon 1995",
-          "away": "Jeju United",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-02",
-          "home": "Jeju United",
-          "away": "Jeonbuk Motors",
-          "homeScore": 0,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-04-25",
-          "home": "Incheon United",
-          "away": "Jeju United",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-04-22",
-          "home": "Daejeon Citizen",
-          "away": "Jeju United",
-          "homeScore": 0,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-07-18",
-          "home": "Gangwon",
-          "away": "Sangju Sangmu",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-07-12",
-          "home": "FC Seoul",
-          "away": "Gangwon",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-07-04",
-          "home": "Jeonbuk Motors",
-          "away": "Gangwon",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-05-17",
-          "home": "Gangwon",
-          "away": "Ulsan",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-05-12",
-          "home": "Gangwon",
-          "away": "Daejeon Citizen",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-05-09",
-          "home": "Gwangju",
-          "away": "Gangwon",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-05-05",
-          "home": "Gangwon",
-          "away": "Pohang Steelers",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-02",
-          "home": "Incheon United",
-          "away": "Gangwon",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-04-25",
-          "home": "Gangwon",
-          "away": "FC Seoul",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-04-21",
-          "home": "Sangju Sangmu",
-          "away": "Gangwon",
-          "homeScore": 0,
-          "awayScore": 3
-        }
-      ]
-    }
-  },
-  {
     "home": "Saburtalo",
     "away": "Slovan Bratislava",
     "date": "2026-07-21T16:00:00+00:00",
@@ -578,7 +354,78 @@
     "away": "FC Anyang",
     "date": "2026-07-22T10:30:00+00:00",
     "league": "K League 1",
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2026-05-02",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-11-02",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-06-30",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-04-10",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-10-21",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-06-03",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-04-08",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 2,
+        "awayScore": 4
+      },
+      {
+        "date": "2022-10-08",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-08-16",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-06-22",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 0,
+        "awayScore": 1
+      }
+    ],
     "recent": {
       "home": [
         {
