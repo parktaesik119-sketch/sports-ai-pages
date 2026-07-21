@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 A. Nola (3-7, 5.68) ERA 5.68|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
+awayLineup: "[\"선발투수 E. Lauer (4-5, 4.81) ERA 4.81|https://a.espncdn.com/i/headshots/mlb/players/full/39915.png\"]"
 ---

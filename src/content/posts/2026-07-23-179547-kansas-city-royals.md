@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Lugo (3-6, 4.39) ERA 4.39|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
+awayLineup: "[\"선발투수 L. Roupp (7-8, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
 ---

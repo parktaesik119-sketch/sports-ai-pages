@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Cecconi (4-6, 4.55) ERA 4.55|https://a.espncdn.com/i/headshots/mlb/players/full/41462.png\"]"
+awayLineup: "[\"선발투수 B. Ober (7-3, 4.32) ERA 4.32|https://a.espncdn.com/i/headshots/mlb/players/full/3107919.png\"]"
 ---

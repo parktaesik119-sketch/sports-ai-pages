@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 L. Henderson (3-1, 2.97) ERA 2.97|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
+awayLineup: "[\"선발투수 C. Scott (3-1, 2.87) ERA 2.87|https://a.espncdn.com/i/headshots/mlb/players/full/4414215.png\"]"
 ---
