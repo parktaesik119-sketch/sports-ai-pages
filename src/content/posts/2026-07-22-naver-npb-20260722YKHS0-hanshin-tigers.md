@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Haruto Takahashi (11-1, 1.62)|https://p.npb.jp/players_photo/2026/180/t/029_91095136.jpg\"]"
+awayLineup: "[\"선발투수 Shintaro Fujinami (0-0, 9.00)|https://p.npb.jp/players_photo/2026/180/db/027_41045137.jpg\"]"
 ---

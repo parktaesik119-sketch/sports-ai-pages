@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Yuhi Nishidate (2-1, 2.05)|https://p.npb.jp/players_photo/2026/180/g/017_31635159.jpg\"]"
+awayLineup: "[\"선발투수 Yuta Saitoh (0-1, 2.79)|https://p.npb.jp/players_photo/2026/180/c/047_61765157.jpg\"]"
 ---

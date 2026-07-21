@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Yasunobu Okugawa (3-7, 3.30)|https://p.npb.jp/players_photo/2026/180/s/018_31735151.jpg\"]"
+awayLineup: "[\"선발투수 Masaki Nakanishi (2-2, 4.68)|https://p.npb.jp/players_photo/2026/180/d/011_51455152.jpg\"]"
 ---

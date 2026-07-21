@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Jr. Stewart (5-4, 5.66)|https://p.npb.jp/players_photo/2026/180/h/002_53755138.jpg\"]"
+awayLineup: "[\"선발투수 Raiku Katayama (0-0, 3.20)|https://p.npb.jp/players_photo/2026/180/b/049_01505150.jpg\"]"
 ---
