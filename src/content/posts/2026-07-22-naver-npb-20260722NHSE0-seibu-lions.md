@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Kaima Taira (7-2, 0.92)|https://p.npb.jp/players_photo/2026/180/l/061_31035136.jpg\"]"
+awayLineup: "[\"선발투수 Hiromi Itoh (8-5, 3.23)|https://p.npb.jp/players_photo/2026/180/f/017_51355153.jpg\"]"
 ---

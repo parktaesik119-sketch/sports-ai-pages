@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Kazuya Ojima (2-6, 3.51)|https://p.npb.jp/players_photo/2026/180/m/014_11515138.jpg\"]"
+awayLineup: "[\"선발투수 Takahisa Hayakawa (4-3, 2.22)|https://p.npb.jp/players_photo/2026/180/e/021_31835153.jpg\"]"
 ---
