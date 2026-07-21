@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 M. Kelly (7-8, 5.20) ERA 5.20|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
+awayLineup: "[\"선발투수 G. Jump (3-5, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\"]"
 ---

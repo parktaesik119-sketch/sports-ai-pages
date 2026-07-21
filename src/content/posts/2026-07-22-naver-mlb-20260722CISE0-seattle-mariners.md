@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 E. Hancock (6-4, 3.17) ERA 3.17|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\"]"
+awayLineup: "[\"선발투수 B. Singer (4-9, 4.56) ERA 4.56|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
 ---

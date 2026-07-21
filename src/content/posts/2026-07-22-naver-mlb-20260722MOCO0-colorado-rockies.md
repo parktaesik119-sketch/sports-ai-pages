@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 G. Hughes (0-1, 3.14) ERA 3.14|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
+awayLineup: "[\"선발투수 C. Cavalli (6-4, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png\"]"
 ---

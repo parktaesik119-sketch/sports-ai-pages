@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 L. Avila (4-3, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/5201985.png\"]"
+awayLineup: "[\"선발투수 T. Mahle (2-8, 5.31) ERA 5.31|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
 ---

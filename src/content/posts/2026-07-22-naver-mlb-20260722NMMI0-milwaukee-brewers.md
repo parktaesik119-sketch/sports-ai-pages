@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 B. Sproat (3-4, 5.16) ERA 5.16|https://a.espncdn.com/i/headshots/mlb/players/full/4621041.png\"]"
+awayLineup: "[\"선발투수 Z. Thornton (0-1, 2.60) ERA 2.60|https://a.espncdn.com/i/headshots/mlb/players/full/5129576.png\"]"
 ---

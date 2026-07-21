@@ -28,4 +28,5 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 P. Messick (8-5, 2.73) ERA 2.73|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
 ---

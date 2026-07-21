@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 C. Quantrill (3-2, 3.93) ERA 3.93|https://a.espncdn.com/i/headshots/mlb/players/full/39875.png\"]"
+awayLineup: "[\"선발투수 A. Kay (6-4, 4.24) ERA 4.24|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
 ---

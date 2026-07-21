@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 C. Rea (7-6, 4.74) ERA 4.74|https://a.espncdn.com/i/headshots/mlb/players/full/33950.png\"]"
+awayLineup: "[\"선발투수 K. Montero (6-5, 3.22) ERA 3.22|https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png\"]"
 ---

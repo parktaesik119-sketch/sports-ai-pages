@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Suarez (4-3, 3.15) ERA 3.15|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
+awayLineup: "[\"선발투수 K. Bradish (6-9, 3.61) ERA 3.61|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
 ---

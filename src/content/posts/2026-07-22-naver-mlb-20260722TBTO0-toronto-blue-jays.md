@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 K. Gausman (4-8, 4.33) ERA 4.33|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
+awayLineup: "[\"선발투수 D. Rasmussen (7-5, 3.26) ERA 3.26|https://a.espncdn.com/i/headshots/mlb/players/full/42584.png\"]"
 ---

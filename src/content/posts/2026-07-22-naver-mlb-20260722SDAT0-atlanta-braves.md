@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Lopez (4-2, 3.50) ERA 3.50|https://a.espncdn.com/i/headshots/mlb/players/full/33860.png\"]"
+awayLineup: "[\"선발투수 W. Buehler (5-5, 5.36) ERA 5.36|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
 ---
