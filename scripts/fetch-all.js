@@ -35,78 +35,6 @@ const MAJOR_SOCCER_LEAGUES = [
 ];
 
 // ==========================
-// ⚾ 네이버스포츠 야구 팀코드 매핑
-// ==========================
-// team_name_map.js(영문→한글 표시용)의 실제 키값과 정확히 일치해야 함.
-// SE/SF처럼 코드가 리그 간에 겹치므로 반드시 categoryId별로 분리해서 조회.
-const NAVER_TEAM_CODE_MAP = {
-  kbo: {
-    HH: "Hanwha Eagles",
-    HT: "KIA Tigers",
-    LG: "LG Twins",
-    LT: "Lotte Giants",
-    NC: "NC Dinos",
-    OB: "Doosan Bears",
-    SK: "SSG Landers",
-    SS: "Samsung Lions",
-    WO: "Kiwoom Heroes",
-    KT: "KT Wiz Suwon", // ⚠️ team_name_map.js 키가 "KT Wiz"가 아니라 "KT Wiz Suwon"
-  },
-  mlb: {
-    AN: "Los Angeles Angels",
-    AT: "Atlanta Braves",
-    AZ: "Arizona Diamondbacks",
-    BA: "Baltimore Orioles",
-    BO: "Boston Red Sox",
-    CC: "Chicago Cubs",
-    CI: "Cincinnati Reds",
-    CL: "Cleveland Guardians",
-    CO: "Colorado Rockies",
-    CW: "Chicago White Sox",
-    DE: "Detroit Tigers",
-    FL: "Miami Marlins",
-    HO: "Houston Astros",
-    KC: "Kansas City Royals",
-    LA: "Los Angeles Dodgers",
-    MI: "Milwaukee Brewers",
-    MN: "Minnesota Twins",
-    MO: "Washington Nationals",
-    NM: "New York Mets",
-    NY: "New York Yankees",
-    OA: "Athletics",
-    PH: "Philadelphia Phillies",
-    PI: "Pittsburgh Pirates",
-    SD: "San Diego Padres",
-    SE: "Seattle Mariners",
-    SF: "San Francisco Giants",
-    SL: "St.Louis Cardinals", // ⚠️ 공백 없음, map 키 그대로
-    TB: "Tampa Bay Rays",
-    TE: "Texas Rangers",
-    TO: "Toronto Blue Jays",
-  },
-  npb: {
-    HI: "Hiroshima Carp",
-    HS: "Hanshin Tigers",
-    JL: "Chiba Lotte Marines",
-    JN: "Chunichi Dragons",
-    NH: "Nippon Ham Fighters",
-    OX: "Orix Buffaloes",
-    RT: "Rakuten Gold. Eagles",
-    SE: "Seibu Lions",
-    SF: "Fukuoka S. Hawks",
-    YA: "Yakult Swallows",
-    YK: "Yokohama BayStars",
-    YO: "Yomiuri Giants",
-  },
-};
-
-const NAVER_COUNTRY_BY_CATEGORY = {
-  kbo: "South Korea",
-  npb: "Japan",
-  mlb: "USA",
-};
-
-// ==========================
 // 🛠 유틸리티 함수
 // ==========================
 
@@ -135,30 +63,6 @@ function getTargetDates() {
   for (let i = -1; i <= 3; i++) {
     const target = new Date(nowUtc + i * 24 * 60 * 60 * 1000);
     // KST(+9) 기준 날짜 문자열 추출
-    const kstOffset = 9 * 60 * 60 * 1000;
-    const kst = new Date(target.getTime() + kstOffset);
-    const y = kst.getUTCFullYear();
-    const m = String(kst.getUTCMonth() + 1).padStart(2, '0');
-    const d = String(kst.getUTCDate()).padStart(2, '0');
-    dates.push(`${y}-${m}-${d}`);
-  }
-
-  return [...new Set(dates)];
-}
-
-/**
- * ⚾ 야구 전용 호출 기간: 현재 기준 -1일 ~ +1일 (총 3일)
- * 축구 등 다른 종목과 달리 야구는 거의 매일 경기가 있어서,
- * -1~+3일 범위를 그대로 쓰면 불필요한 3~4일 뒤 예정경기까지 쌓여
- * 분석글의 recent/avg 계산 신뢰도에 영향을 줄 수 있음.
- * d-1(결과 수집) / d(오늘) / d+1(내일 예고)까지만 가져온다.
- */
-function getBaseballTargetDates() {
-  const dates = [];
-  const nowUtc = Date.now();
-
-  for (let i = -1; i <= 1; i++) {
-    const target = new Date(nowUtc + i * 24 * 60 * 60 * 1000);
     const kstOffset = 9 * 60 * 60 * 1000;
     const kst = new Date(target.getTime() + kstOffset);
     const y = kst.getUTCFullYear();
@@ -210,17 +114,7 @@ async function fetchApiSports(sport, date) {
     const res = await fetch(url, { headers: { "x-apisports-key": API_SPORTS_KEY } });
     const data = await res.json();
     if (!data.response) return [];
-
-    let items = data.response;
-
-    // ⚾ 야구는 KBO/MLB/NPB를 네이버스포츠로 이관 완료.
-    // api-sports 야구는 신뢰하지 않기로 했으므로 CPBL만 예외적으로 통과시키고 나머지는 전부 차단.
-    // (CPBL 전용 수집기가 따로 생기기 전까지의 임시 조치)
-    if (sport === "baseball") {
-      items = items.filter(item => (item.league?.name || "").toUpperCase() === "CPBL");
-    }
-
-    return items.map(item => ({
+    return data.response.map(item => ({
       id: String(item.fixture?.id || item.id),
       sport,
       country: item.league?.country || item.country?.name || "Unknown",
@@ -335,76 +229,61 @@ async function fetchLckRapid(date) {
 
 async function fetchLOLPanda() {
   const dates = getTargetDates();
-  // PandaScore는 범위를 지정하여 한 번에 가져옴 (API 횟수 절약)
-  const url = `https://api.pandascore.co/matches?range[begin_at]=${dates[0]}T00:00:00Z,${dates[dates.length-1]}T23:59:59Z`;
+
+  // ⚠️ dates[]는 KST 기준 날짜 문자열이므로, UTC(Z)가 아니라 +09:00 오프셋으로 명시해야
+  //    실제 요청 범위가 의도한 KST 00:00~23:59와 정확히 일치한다.
+  const fromKst = `${dates[0]}T00:00:00+09:00`;
+  const toKst = `${dates[dates.length - 1]}T23:59:59+09:00`;
+
+  const allMatches = [];
+  const perPage = 100; // PandaScore 최대 페이지 크기
+  let page = 1;
+
   try {
-    const res = await fetch(url, { headers: { Authorization: `Bearer ${PANDASCORE_KEY}` } });
-    const data = await res.json();
-    if (!Array.isArray(data)) return [];
-    return data.map(m => ({
-      id: `panda-${m.id}`,
-      sport: "lol",
-      league: m.league.name,
-      date: m.begin_at,
-      home: m.opponents[0]?.opponent.name || "TBD",
-      away: m.opponents[1]?.opponent.name || "TBD",
-      homeLogo: m.opponents[0]?.opponent.image_url,
-      awayLogo: m.opponents[1]?.opponent.image_url,
-      homeScore: m.results.find(r => r.item_id === m.opponents[0]?.opponent.id)?.score ?? 0,
-      awayScore: m.results.find(r => r.item_id === m.opponents[1]?.opponent.id)?.score ?? 0
-    }));
-  } catch (err) { return []; }
+    while (true) {
+      // ⚠️ '/matches'는 LoL뿐 아니라 Dota2, CS:GO, 오버워치 등 모든 게임이 섞여서 오는
+      //    통합 엔드포인트다. LoL만 정확히 가져오려면 '/lol/matches'를 사용해야 한다.
+      const url =
+        `https://api.pandascore.co/lol/matches` +
+        `?range[begin_at]=${fromKst},${toKst}` +
+        `&sort=begin_at` +
+        `&page[size]=${perPage}` +
+        `&page[number]=${page}`;
+
+      const res = await fetch(url, { headers: { Authorization: `Bearer ${PANDASCORE_KEY}` } });
+      const data = await res.json();
+
+      if (!Array.isArray(data) || data.length === 0) break;
+
+      allMatches.push(...data);
+
+      // 받아온 개수가 perPage보다 적으면 마지막 페이지이므로 중단.
+      // ⚠️ 기존 코드는 page[size]/page[number]를 아예 지정하지 않아
+      //    기본값인 50건에서 잘려나가는 문제가 있었다.
+      if (data.length < perPage) break;
+      page++;
+    }
+  } catch (err) {
+    return allMatches.map(mapPandaMatch);
+  }
+
+  return allMatches.map(mapPandaMatch);
 }
 
-/**
- * 네이버스포츠 야구 일정 수집 (KBO: upperCategoryId="kbaseball" / MLB+NPB: upperCategoryId="wbaseball")
- * wbaseball 하나로 MLB+NPB가 categoryId 필드로 구분되어 함께 옵니다.
- */
-async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
-  const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=${upperCategoryId}&fromDate=${fromDate}&toDate=${toDate}&size=500`;
-
-  try {
-    const res = await fetch(url, {
-      headers: {
-        "Referer": "https://m.sports.naver.com/",
-        "Origin": "https://m.sports.naver.com",
-        "Accept": "application/json, text/plain, */*",
-      }
-    });
-    const data = await res.json();
-    const games = data?.result?.games;
-    if (!Array.isArray(games)) return [];
-
-    return games
-      .filter(g => {
-        const map = NAVER_TEAM_CODE_MAP[g.categoryId];
-        // 실제 리그 경기만 통과 (편파중계 등 콘텐츠성 항목, 매핑 안 된 All-Star 등 제외)
-        return map && g.homeTeamCode && g.awayTeamCode
-          && map[g.homeTeamCode] && map[g.awayTeamCode];
-      })
-      .map(g => {
-        const map = NAVER_TEAM_CODE_MAP[g.categoryId];
-        // 취소/연기된 경기는 statusCode가 RESULT여도 스코어를 신뢰하지 않음
-        const isFinished = g.statusCode === "RESULT" && !g.cancel;
-        return {
-          id: `naver-${g.categoryId}-${g.gameId}`,
-          sport: "baseball",
-          country: NAVER_COUNTRY_BY_CATEGORY[g.categoryId] || "Unknown",
-          league: g.categoryId.toUpperCase(),
-          date: new Date(`${g.gameDateTime}+09:00`).toISOString(), // KST 명시 후 UTC로 통일
-          home: map[g.homeTeamCode],
-          away: map[g.awayTeamCode],
-          homeLogo: g.homeTeamEmblemUrl,
-          awayLogo: g.awayTeamEmblemUrl,
-          // 진행 전/취소 경기는 null로 둬서 기존 스코어 보존 로직이 정상 작동하게 함
-          homeScore: isFinished ? g.homeTeamScore : null,
-          awayScore: isFinished ? g.awayTeamScore : null,
-        };
-      });
-  } catch (err) {
-    console.error(`fetchNaverBaseball(${upperCategoryId}) 에러:`, err);
-    return [];
-  }
+function mapPandaMatch(m) {
+  return {
+    id: `panda-${m.id}`,
+    sport: "lol",
+    league: m.league?.name,
+    date: m.begin_at,
+    home: m.opponents?.[0]?.opponent?.name || "TBD",
+    away: m.opponents?.[1]?.opponent?.name || "TBD",
+    homeLogo: m.opponents?.[0]?.opponent?.image_url,
+    awayLogo: m.opponents?.[1]?.opponent?.image_url,
+    // ⚠️ PandaScore results 배열의 팀 식별 필드는 item_id가 아니라 team_id다.
+    homeScore: m.results?.find(r => r.team_id === m.opponents?.[0]?.opponent?.id)?.score ?? 0,
+    awayScore: m.results?.find(r => r.team_id === m.opponents?.[1]?.opponent?.id)?.score ?? 0
+  };
 }
 
 // ==========================
@@ -413,21 +292,15 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
 async function main() {
   try {
     console.log("🚀 데이터 수집을 시작합니다...");
-    const targetDates = getTargetDates();          // 축구 등: -1 ~ +3일 (5일)
-    const baseballDates = getBaseballTargetDates(); // 야구 전용: -1 ~ +1일 (3일)
-    const sports = ["soccer", "basketball", "hockey", "volleyball"]; // ⚠️ baseball은 별도 루프로 분리
+    const targetDates = getTargetDates(); 
+    const sports = ["soccer", "basketball", "baseball", "hockey", "volleyball"];
     const scheduleTasks = [];
 
     targetDates.forEach(date => {
       sports.forEach(sport => {
-        scheduleTasks.push(fetchApiSports(sport, date)); // 5일치 각 날짜별 야구 외 종목 호출
+        scheduleTasks.push(fetchApiSports(sport, date)); // 5일치 각 날짜별 모든 종목 호출
       });
       scheduleTasks.push(fetchLckRapid(date));
-    });
-
-    // ⚾ 야구는 좁은 범위(d-1~d+1)로 별도 호출
-    baseballDates.forEach(date => {
-      scheduleTasks.push(fetchApiSports("baseball", date));
     });
 
 // ✅ 날짜 루프 밖에서 1번만 호출
@@ -435,14 +308,6 @@ scheduleTasks.push(fetchRapidSoccerRange());
     
     // LoL 전용 및 배당 호출
     scheduleTasks.push(fetchLOLPanda());
-
-    // ✅ 네이버스포츠 야구 (KBO / MLB+NPB) — api-sports 야구 호출 이후에 push하여
-    //    혹시 모를 키 충돌 시 네이버 데이터가 우선 적용되도록 함
-    //    야구 전용 좁은 범위(d-1~d+1) 사용
-    const naverFrom = baseballDates[0];
-    const naverTo = baseballDates[baseballDates.length - 1];
-    scheduleTasks.push(fetchNaverBaseball("kbaseball", naverFrom, naverTo)); // KBO
-    scheduleTasks.push(fetchNaverBaseball("wbaseball", naverFrom, naverTo)); // MLB + NPB
 
     const rawResults = await Promise.all(scheduleTasks);
 
@@ -513,27 +378,7 @@ scheduleTasks.push(fetchRapidSoccerRange());
     const nowKst = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
     const todayKst = `${nowKst.getFullYear()}-${String(nowKst.getMonth() + 1).padStart(2, '0')}-${String(nowKst.getDate()).padStart(2, '0')}`;
 
-    // ⚠️ [재발 방지] ${today}.json은 원본 mergedData(dedup 전, 날것)를 그대로 쓰지 않는다.
-    // mergedData는 여러 소스(api-sports 날짜별 반복 호출, 네이버 등)의 결과를 단순 concat한 것이라
-    // 같은 실제 경기가 서로 다른 id로 두 번 들어갈 수 있고, 이게 그대로 analyze-router-one-git.js로
-    // 넘어가면 id 기반 중복 체크를 못 피해서 분석글이 중복 생성된다 (실제로 있었던 사례).
-    // 대신 all-fixtures.json에 쓰는 것과 동일한 "날짜_홈팀_원정팀" 키로 이미 병합/중복제거된 `map`에서
-    // 이번에 수집한 키만 뽑아서 저장한다 — 소스가 몇 개든, id가 다르든 실제 같은 경기면 하나로 합쳐진다.
-    const todayKeys = new Set();
-    mergedData.forEach(m => {
-      if (!m.date) return;
-      const dKey = new Date(m.date).toISOString().split("T")[0];
-      const key = `${dKey}_${normalizeName(m.home)}_${normalizeName(m.away)}`;
-      todayKeys.add(key);
-    });
-    const dedupedTodayData = [...todayKeys].map(k => map.get(k)).filter(Boolean);
-    dedupedTodayData.sort((a, b) => new Date(a.date) - new Date(b.date));
-
-    if (dedupedTodayData.length !== mergedData.length) {
-      console.log(`⚠️ [중복 제거] ${todayKst}.json: 원본 ${mergedData.length}건 → 중복 제거 후 ${dedupedTodayData.length}건`);
-    }
-
-    await fs.writeFile(path.join(OUTPUT_DIR, `${todayKst}.json`), JSON.stringify(dedupedTodayData, null, 2));
+    await fs.writeFile(path.join(OUTPUT_DIR, `${todayKst}.json`), JSON.stringify(mergedData, null, 2));
 
     console.log(`✅ 업데이트 완료: 총 ${finalAllFixtures.length}건의 데이터가 누적 저장되었습니다.`);
   } catch (err) {
