@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 W. Urena (5-7, 2.88) ERA 2.88|https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png\"]"
+homeLineup: "[\"선발투수 W. Urena (5-7, 2.88) ERA 2.88|https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png\",\"1번 Z. Neto (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png\",\"2번 M. Trout (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/30836.png\",\"3번 N. Schanuel (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4739755.png\",\"4번 J. Soler (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32558.png\",\"5번 V. Grissom (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42503.png\",\"6번 J. Adell (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"7번 O. Peraza (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42479.png\",\"8번 J. Siri (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33954.png\",\"9번 L. O'Hoppe (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42047.png\"]"
 awayLineup: "[\"선발투수 M. Liberatore (5-6, 5.00) ERA 5.00|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
 ---

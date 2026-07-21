@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 L. Castillo (3-8, 4.93) ERA 4.93|https://a.espncdn.com/i/headshots/mlb/players/full/35124.png\"]"
-awayLineup: "[\"선발투수 C. Burns (11-1, 2.54) ERA 2.54|https://a.espncdn.com/i/headshots/mlb/players/full/4927516.png\"]"
+awayLineup: "[\"선발투수 C. Burns (11-1, 2.54) ERA 2.54|https://a.espncdn.com/i/headshots/mlb/players/full/4927516.png\",\"1번 E. De La Cruz (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"2번 S. Stewart (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"3번 J. Bleday (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"4번 E. Suarez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/32367.png\",\"5번 N. Lowe (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/40538.png\",\"6번 N. Marte (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41307.png\",\"7번 J. Trevino (C)|https://a.espncdn.com/i/headshots/mlb/players/full/35268.png\",\"8번 T. Friedl (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/36020.png\",\"9번 E. Arroyo (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4919919.png\"]"
 ---
