@@ -1,0 +1,31 @@
+---
+title: "애틀랜타 브레이브스 vs 샌디에이고 파드리스 경기분석·라인업·결장자·통계·승부예측 (7월 22일) | MLB - 픽천국"
+date: 2026-07-21T23:15:00.000Z
+description: "애틀랜타 브레이브스 vs 샌디에이고 파드리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260722SDAT0-2026-07-22-atlanta-braves"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애틀랜타 브레이브스"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 62경기에서 31승 29패 2무, 승률 .517과 평균 득점 4.6을 기록하며 전체적으로는 중상위 전력을 유지하고 있습니다. 최근 경기에서는 공격 생산력이 크게 살아나 평균 득점이 6점대까지 올라왔고, 텍사스 레인저스를 상대로 15득점을 올린 경기처럼 폭발력이 확실히 보입니다. 다만 같은 구간에서 실점도 함께 늘어나는 모습이어서, 득점은 충분해도 마무리 수비가 흔들리면 경기 흐름을 놓칠 수 있습니다. 홈에서는 화력이 올라오는 장면이 많아 강한 타선이 장점으로 평가되지만, 원정 전적이 섞인 최근 흐름을 보면 안정감은 다소 들쭉날쭉합니다. 마이크 야스트렘스키, 김하성, 로날드 아쿠냐 주니어의 이탈은 중심 타선의 무게감과 찬스 처리에 부담으로 작용하고 있습니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 최근 55경기에서 24승 30패 1무, 승률 .444와 평균 득점 4.1로 시즌 전체 흐름이 다소 아쉽게 이어지고 있습니다. 최근 경기에서는 캔자스시티 로열스를 상대로 19득점을 기록하는 등 폭발적인 장면도 있었지만, 그 직후 곧바로 흔들리는 모습이 나와 전력의 기복이 분명합니다. 실점 억제력이 완전히 무너지지는 않았으나, 대량 득점 이후에도 다음 경기에서 공격 연결이 끊기며 흐름을 이어 가지 못하는 점이 부담입니다. 원정에서는 강한 상대를 만났을 때 타선 집중도가 떨어지는 장면이 보여, 경기 초반 주도권 확보가 특히 중요해 보입니다. 데이비드 모건, 제레마이아 에스트라다, 루카스 지올리토, 닉 피베타의 결장은 마운드 운용과 중후반 운영에 적지 않은 영향을 주고 있습니다."
+homePower: "최근 득점 폭발과 실점 동반 상승이 맞물린 흐름임|중심 타자 공백으로 찬스 완성도 저하가 우려됨|경기마다 타격 상한은 높으나 안정성은 흔들리는 편임|홈에서 공격 템포를 끌어올릴 때 위력이 커지는 구조임|마이크 야스트렘스키, 김하성, 로날드 아쿠냐 주니어 공백이 큼"
+awayPower: "최근 한 경기 폭발 뒤 다음 경기 급락이 반복되는 패턴임|평균 득점은 무난하나 흐름 지속성이 약한 편임|마운드 핵심 이탈로 후반 운영 부담이 커진 모습임|강한 상대를 만나면 초반 주도권 확보가 중요함|원정에서는 타선 응집력보다 대응력이 더 관건임"
+h2h: '[{"date":"26.06.25","home":"샌디에이고 파드리스","away":"애틀랜타 브레이브스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-179211-2026-06-25-san-diego-padres/"},{"date":"26.06.24","home":"샌디에이고 파드리스","away":"애틀랜타 브레이브스","score":"7-6","link":"https://pick79.com/posts/detail/analyze-179196-2026-06-24-san-diego-padres/"},{"date":"26.06.23","home":"샌디에이고 파드리스","away":"애틀랜타 브레이브스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-179181-2026-06-23-san-diego-padres/"}]'
+summary: "애틀랜타 브레이브스는 리그순위 3위에 올라 있고 득실도 플러스 108로 매우 단단한 편이지만, 최근에는 타선 폭발과 수비 불안이 함께 나타나며 경기별 편차가 커지고 있습니다. 샌디에이고 파드리스는 리그순위 11위이고 득실이 마이너스 32로 내려가 있지만, 최근에는 한 번 크게 터질 수 있는 장면과 함께 상대 상성을 살리는 모습이 분명히 보입니다. 두 팀의 시즌 전력과 최근 흐름을 함께 보면 브레이브스가 기본 전력에서는 우세하지만, 최근 맞대결에서 샌디에이고 파드리스가 연속 우위를 잡아 왔기 때문에 이번 경기도 샌디에이고 파드리스 쪽으로 기세가 조금 더 실릴 가능성이 높아 보입니다. 전체적으로는 홈팀의 화력과 원정팀의 상성이 맞부딪히는 그림이어서, 샌디에이고 파드리스가 접전에서 조금 더 유리한 흐름을 이어갈 수 있는 경기로 판단됩니다."
+homeRecent: '[{"date":"26.07.20","home":"애틀랜타 브레이브스","away":"텍사스 레인저스","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720TEAT0-2026-07-20-atlanta-braves/"},{"date":"26.07.19","home":"애틀랜타 브레이브스","away":"텍사스 레인저스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719TEAT0-2026-07-19-atlanta-braves/"},{"date":"26.07.18","home":"애틀랜타 브레이브스","away":"텍사스 레인저스","score":"15-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260718TEAT0-2026-07-18-atlanta-braves/"},{"date":"26.07.13","home":"세인트루이스 카디널스","away":"애틀랜타 브레이브스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179453-2026-07-13-st-louis-cardinals/"},{"date":"26.07.12","home":"세인트루이스 카디널스","away":"애틀랜타 브레이브스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179437-2026-07-12-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.07.20","home":"캔자스시티 로열스","away":"샌디에이고 파드리스","score":"2-19","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720SDKC0-2026-07-20-kansas-city-royals/"},{"date":"26.07.19","home":"캔자스시티 로열스","away":"샌디에이고 파드리스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719SDKC0-2026-07-19-kansas-city-royals/"},{"date":"26.07.13","home":"샌디에이고 파드리스","away":"토론토 블루제이즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179455-2026-07-13-san-diego-padres/"},{"date":"26.07.11","home":"샌디에이고 파드리스","away":"토론토 블루제이즈","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179425-2026-07-11-san-diego-padres/"},{"date":"26.07.10","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179410-2026-07-10-san-diego-padres/"}]'
+injuryHome: "Mike Yastrzemski (염증)|Ha-Seong Kim (염증)|Ronald Acuna Jr. (근육 긴장)|Martin Perez (타박상)|AJ Smith-Shawver (수술)"
+injuryAway: "David Morgan (염증)|Samad Taylor (근육 긴장)|Jeremiah Estrada (염증)|Lucas Giolito (염증)|Nick Pivetta (근육 긴장)"
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

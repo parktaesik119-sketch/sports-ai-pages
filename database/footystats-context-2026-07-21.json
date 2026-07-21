@@ -1,0 +1,2043 @@
+[
+  {
+    "home": "Jeju United FC",
+    "away": "Gangwon FC",
+    "date": "2026-07-21T10:30:00+00:00",
+    "league": "K League 1",
+    "h2h": [
+      {
+        "date": "2026-03-22",
+        "home": "Gangwon",
+        "away": "Jeju United",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-08-15",
+        "home": "Jeju United",
+        "away": "Gangwon",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-05-06",
+        "home": "Jeju United",
+        "away": "Gangwon",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2025-03-02",
+        "home": "Gangwon",
+        "away": "Jeju United",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-07-20",
+        "home": "Gangwon",
+        "away": "Jeju United",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-06-02",
+        "home": "Jeju United",
+        "away": "Gangwon",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-03-02",
+        "home": "Gangwon",
+        "away": "Jeju United",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-10-28",
+        "home": "Gangwon",
+        "away": "Jeju United",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-08-06",
+        "home": "Jeju United",
+        "away": "Gangwon",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-06-03",
+        "home": "Jeju United",
+        "away": "Gangwon",
+        "homeScore": 2,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-18",
+          "home": "Jeju United",
+          "away": "Pohang Steelers",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-12",
+          "home": "Jeju United",
+          "away": "Daejeon Citizen",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-05",
+          "home": "Sangju Sangmu",
+          "away": "Jeju United",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Jeju United",
+          "away": "Anyang",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-13",
+          "home": "Ulsan",
+          "away": "Jeju United",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Jeju United",
+          "away": "FC Seoul",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Bucheon 1995",
+          "away": "Jeju United",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Jeju United",
+          "away": "Jeonbuk Motors",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Incheon United",
+          "away": "Jeju United",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-22",
+          "home": "Daejeon Citizen",
+          "away": "Jeju United",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-18",
+          "home": "Gangwon",
+          "away": "Sangju Sangmu",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-12",
+          "home": "FC Seoul",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-04",
+          "home": "Jeonbuk Motors",
+          "away": "Gangwon",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Gangwon",
+          "away": "Ulsan",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-12",
+          "home": "Gangwon",
+          "away": "Daejeon Citizen",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Gwangju",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Gangwon",
+          "away": "Pohang Steelers",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Incheon United",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Gangwon",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-21",
+          "home": "Sangju Sangmu",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ]
+    }
+  },
+  {
+    "home": "Saburtalo",
+    "away": "Slovan Bratislava",
+    "date": "2026-07-21T16:00:00+00:00",
+    "league": "UEFA Champions League",
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-23",
+          "home": "Saburtalo",
+          "away": "Meshakhte",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-17",
+          "home": "Saburtalo",
+          "away": "Rustavi",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-06-12",
+          "home": "Saburtalo",
+          "away": "Spaeri",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-29",
+          "home": "Saburtalo",
+          "away": "Dinamo Batumi",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-25",
+          "home": "Samgurali",
+          "away": "Saburtalo",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-20",
+          "home": "Saburtalo",
+          "away": "Gagra",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Dinamo Tbilisi",
+          "away": "Saburtalo",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Saburtalo",
+          "away": "Torpedo Kutaisi",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-06",
+          "home": "Dila",
+          "away": "Saburtalo",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Meshakhte",
+          "away": "Saburtalo",
+          "homeScore": 1,
+          "awayScore": 4
+        }
+      ],
+      "away": []
+    }
+  },
+  {
+    "home": "Floriana",
+    "away": "Drita",
+    "date": "2026-07-21T17:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "h2h": [],
+    "recent": {
+      "home": [],
+      "away": [
+        {
+          "date": "2021-05-15",
+          "home": "Drita",
+          "away": "Korabi Debar",
+          "homeScore": 3,
+          "awayScore": 4
+        },
+        {
+          "date": "2021-05-01",
+          "home": "Velazerimi 77",
+          "away": "Drita",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2021-04-24",
+          "home": "Drita",
+          "away": "Labunishta",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2021-04-17",
+          "home": "Kadino",
+          "away": "Drita",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2021-04-10",
+          "home": "Drita",
+          "away": "Skopje",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2021-04-03",
+          "home": "Veleshta",
+          "away": "Drita",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2021-03-27",
+          "home": "Drita",
+          "away": "KF Gostivari",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2021-03-13",
+          "home": "Ohrid",
+          "away": "Drita",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2021-03-06",
+          "home": "Drita",
+          "away": "Velazerimi 77",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2021-02-27",
+          "home": "Skopje",
+          "away": "Drita",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "Fenerbahçe",
+    "away": "Gornik Zabrze",
+    "date": "2026-07-21T18:00:00+00:00",
+    "league": "UEFA Champions League",
+    "h2h": [],
+    "recent": {
+      "home": [],
+      "away": []
+    }
+  },
+  {
+    "home": "FC Thun",
+    "away": "Dinamo Zagreb",
+    "date": "2026-07-21T18:00:00+00:00",
+    "league": "UEFA Champions League",
+    "h2h": [],
+    "recent": {
+      "home": [],
+      "away": []
+    }
+  },
+  {
+    "home": "Atert Bissen",
+    "away": "Gyori ETO FC",
+    "date": "2026-07-21T18:15:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "h2h": [],
+    "recent": {
+      "home": [],
+      "away": []
+    }
+  },
+  {
+    "home": "Club Nacional",
+    "away": "Tigre",
+    "date": "2026-07-21T22:00:00+00:00",
+    "league": "CONMEBOL Sudamericana",
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-17",
+          "home": "Nacional",
+          "away": "Wanderers",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-11",
+          "home": "Danubio",
+          "away": "Nacional",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-06",
+          "home": "Nacional",
+          "away": "Juventud",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-31",
+          "home": "Deportivo Maldonado",
+          "away": "Nacional",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-23",
+          "home": "Nacional",
+          "away": "Albion",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Torque",
+          "away": "Nacional",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Nacional",
+          "away": "Cerro",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-04",
+          "home": "Albion",
+          "away": "Nacional",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Nacional",
+          "away": "Danubio",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Liverpool FC Montevideo",
+          "away": "Nacional",
+          "homeScore": 1,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-03",
+          "home": "Rosario Central",
+          "away": "Tigre",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Sarmiento",
+          "away": "Tigre",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-21",
+          "home": "Tigre",
+          "away": "Huracán",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Atlético Tucumán",
+          "away": "Tigre",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-02",
+          "home": "Tigre",
+          "away": "Independiente Rivadavia",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-03-21",
+          "home": "Banfield",
+          "away": "Tigre",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-16",
+          "home": "Tigre",
+          "away": "Argentinos Juniors",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-10",
+          "home": "Tigre",
+          "away": "Vélez Sarsfield",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-02",
+          "home": "Tigre",
+          "away": "Gimnasia La Plata",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-02-25",
+          "home": "Barracas Central",
+          "away": "Tigre",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "Bucheon FC 1995",
+    "away": "FC Anyang",
+    "date": "2026-07-22T10:30:00+00:00",
+    "league": "K League 1",
+    "h2h": [
+      {
+        "date": "2026-05-02",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-11-02",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-06-30",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-04-10",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-10-21",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-06-03",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-04-08",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 2,
+        "awayScore": 4
+      },
+      {
+        "date": "2022-10-08",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-08-16",
+        "home": "Anyang",
+        "away": "Bucheon 1995",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-06-22",
+        "home": "Bucheon 1995",
+        "away": "Anyang",
+        "homeScore": 0,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-19",
+          "home": "Bucheon 1995",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-11",
+          "home": "Sangju Sangmu",
+          "away": "Bucheon 1995",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-04",
+          "home": "Daejeon Citizen",
+          "away": "Bucheon 1995",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Bucheon 1995",
+          "away": "Pohang Steelers",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-13",
+          "home": "Bucheon 1995",
+          "away": "Jeonbuk Motors",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Ulsan",
+          "away": "Bucheon 1995",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Bucheon 1995",
+          "away": "Jeju United",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Anyang",
+          "away": "Bucheon 1995",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Bucheon 1995",
+          "away": "Sangju Sangmu",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-21",
+          "home": "FC Seoul",
+          "away": "Bucheon 1995",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-19",
+          "home": "Anyang",
+          "away": "Gwangju",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-12",
+          "home": "Incheon United",
+          "away": "Anyang",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-04",
+          "home": "Anyang",
+          "away": "Pohang Steelers",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Jeju United",
+          "away": "Anyang",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-13",
+          "home": "Anyang",
+          "away": "Sangju Sangmu",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Anyang",
+          "away": "Jeonbuk Motors",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-05",
+          "home": "FC Seoul",
+          "away": "Anyang",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Anyang",
+          "away": "Bucheon 1995",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Gwangju",
+          "away": "Anyang",
+          "homeScore": 2,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-04-22",
+          "home": "Anyang",
+          "away": "Ulsan",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Seoul",
+    "away": "Pohang Steelers",
+    "date": "2026-07-22T10:30:00+00:00",
+    "league": "K League 1",
+    "h2h": [
+      {
+        "date": "2026-03-18",
+        "home": "Pohang Steelers",
+        "away": "FC Seoul",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-11-09",
+        "home": "Pohang Steelers",
+        "away": "FC Seoul",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-10-18",
+        "home": "FC Seoul",
+        "away": "Pohang Steelers",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-06-29",
+        "home": "FC Seoul",
+        "away": "Pohang Steelers",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-04-27",
+        "home": "Pohang Steelers",
+        "away": "FC Seoul",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-11-02",
+        "home": "FC Seoul",
+        "away": "Pohang Steelers",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-08-11",
+        "home": "Pohang Steelers",
+        "away": "FC Seoul",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-07-17",
+        "home": "Pohang Steelers",
+        "away": "FC Seoul",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-05-25",
+        "home": "Pohang Steelers",
+        "away": "FC Seoul",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-04-13",
+        "home": "FC Seoul",
+        "away": "Pohang Steelers",
+        "homeScore": 2,
+        "awayScore": 4
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-19",
+          "home": "Bucheon 1995",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-12",
+          "home": "FC Seoul",
+          "away": "Gangwon",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-05",
+          "home": "FC Seoul",
+          "away": "Incheon United",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Daejeon Citizen",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-12",
+          "home": "Gwangju",
+          "away": "FC Seoul",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Jeju United",
+          "away": "FC Seoul",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-05",
+          "home": "FC Seoul",
+          "away": "Anyang",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-02",
+          "home": "FC Seoul",
+          "away": "Sangju Sangmu",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Gangwon",
+          "away": "FC Seoul",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-21",
+          "home": "FC Seoul",
+          "away": "Bucheon 1995",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-18",
+          "home": "Jeju United",
+          "away": "Pohang Steelers",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-11",
+          "home": "Gwangju",
+          "away": "Pohang Steelers",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-04",
+          "home": "Anyang",
+          "away": "Pohang Steelers",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Bucheon 1995",
+          "away": "Pohang Steelers",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-12",
+          "home": "Incheon United",
+          "away": "Pohang Steelers",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Daejeon Citizen",
+          "away": "Pohang Steelers",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-05",
+          "home": "Gangwon",
+          "away": "Pohang Steelers",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Ulsan",
+          "away": "Pohang Steelers",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Jeonbuk Motors",
+          "away": "Pohang Steelers",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-22",
+          "home": "Pohang Steelers",
+          "away": "Gwangju",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    }
+  },
+  {
+    "home": "Egnatia Rrogozhinë",
+    "away": "Celje",
+    "date": "2026-07-22T19:00:00+00:00",
+    "league": "UEFA Champions League",
+    "h2h": [],
+    "recent": {
+      "home": [],
+      "away": [
+        {
+          "date": "2026-07-17",
+          "home": "Celje",
+          "away": "Mura",
+          "homeScore": 2,
+          "awayScore": 2
+        }
+      ]
+    }
+  },
+  {
+    "home": "Independiente Medellin",
+    "away": "Vasco DA Gama",
+    "date": "2026-07-22T22:00:00+00:00",
+    "league": "CONMEBOL Sudamericana",
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-03",
+          "home": "Independiente Medellín",
+          "away": "Rionegro Águilas",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Independiente Medellín",
+          "away": "Fortaleza CEIF",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-23",
+          "home": "Independiente Medellín",
+          "away": "Boyacá Chicó",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Alianza Petrolera",
+          "away": "Independiente Medellín",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Independiente Medellín",
+          "away": "Atlético Nacional",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-03",
+          "home": "Once Caldas",
+          "away": "Independiente Medellín",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-31",
+          "home": "Independiente Medellín",
+          "away": "América de Cali",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-23",
+          "home": "Santa Fe",
+          "away": "Independiente Medellín",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-20",
+          "home": "Independiente Medellín",
+          "away": "Junior",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-15",
+          "home": "Jaguares de Córdoba",
+          "away": "Independiente Medellín",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-16",
+          "home": "Vitória",
+          "away": "Vasco da Gama",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-31",
+          "home": "Vasco da Gama",
+          "away": "Atlético Mineiro",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-25",
+          "home": "Vasco da Gama",
+          "away": "Bragantino",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-16",
+          "home": "Internacional",
+          "away": "Vasco da Gama",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-11",
+          "home": "Vasco da Gama",
+          "away": "Atlético PR",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Flamengo",
+          "away": "Vasco da Gama",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Corinthians",
+          "away": "Vasco da Gama",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Vasco da Gama",
+          "away": "São Paulo",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Remo",
+          "away": "Vasco da Gama",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Vasco da Gama",
+          "away": "Botafogo",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ]
+    }
+  },
+  {
+    "home": "Coritiba",
+    "away": "Palmeiras",
+    "date": "2026-07-22T22:30:00+00:00",
+    "league": "Serie A",
+    "h2h": [
+      {
+        "date": "2023-10-22",
+        "home": "Coritiba",
+        "away": "Palmeiras",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-06-04",
+        "home": "Palmeiras",
+        "away": "Coritiba",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-10-06",
+        "home": "Palmeiras",
+        "away": "Coritiba",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-06-12",
+        "home": "Coritiba",
+        "away": "Palmeiras",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-02-17",
+        "home": "Coritiba",
+        "away": "Palmeiras",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-10-14",
+        "home": "Palmeiras",
+        "away": "Coritiba",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2017-09-19",
+        "home": "Palmeiras",
+        "away": "Coritiba",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-06-07",
+        "home": "Coritiba",
+        "away": "Palmeiras",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-09-24",
+        "home": "Palmeiras",
+        "away": "Coritiba",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-06-16",
+        "home": "Coritiba",
+        "away": "Palmeiras",
+        "homeScore": 2,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-30",
+          "home": "Flamengo",
+          "away": "Coritiba",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-26",
+          "home": "Coritiba",
+          "away": "Bahia",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Santos",
+          "away": "Coritiba",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Coritiba",
+          "away": "Internacional",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Vitória",
+          "away": "Coritiba",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Grêmio",
+          "away": "Coritiba",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Coritiba",
+          "away": "Atlético Mineiro",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Botafogo",
+          "away": "Coritiba",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Coritiba",
+          "away": "Fluminense",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-02",
+          "home": "Coritiba",
+          "away": "Vasco da Gama",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-31",
+          "home": "Palmeiras",
+          "away": "Chapecoense",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Flamengo",
+          "away": "Palmeiras",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Palmeiras",
+          "away": "Cruzeiro",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Remo",
+          "away": "Palmeiras",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Palmeiras",
+          "away": "Santos",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Bragantino",
+          "away": "Palmeiras",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-19",
+          "home": "Palmeiras",
+          "away": "Atlético PR",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Corinthians",
+          "away": "Palmeiras",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Bahia",
+          "away": "Palmeiras",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-03",
+          "home": "Palmeiras",
+          "away": "Grêmio",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Cincinnati",
+    "away": "Vancouver Whitecaps",
+    "date": "2026-07-22T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "h2h": [
+      {
+        "date": "2023-06-11",
+        "home": "Vancouver Whitecaps",
+        "away": "FC Cincinnati",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-07-14",
+        "home": "FC Cincinnati",
+        "away": "Vancouver Whitecaps",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-08-04",
+        "home": "FC Cincinnati",
+        "away": "Vancouver Whitecaps",
+        "homeScore": 1,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-24",
+          "home": "FC Cincinnati",
+          "away": "Orlando City",
+          "homeScore": 6,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-17",
+          "home": "San Diego",
+          "away": "FC Cincinnati",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-14",
+          "home": "FC Cincinnati",
+          "away": "Inter Miami",
+          "homeScore": 3,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-05-10",
+          "home": "Charlotte",
+          "away": "FC Cincinnati",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Chicago Fire",
+          "away": "FC Cincinnati",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-26",
+          "home": "FC Cincinnati",
+          "away": "New York RB",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-23",
+          "home": "New York City",
+          "away": "FC Cincinnati",
+          "homeScore": 4,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-04-19",
+          "home": "FC Cincinnati",
+          "away": "Chicago Fire",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Toronto",
+          "away": "FC Cincinnati",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-05",
+          "home": "New York RB",
+          "away": "FC Cincinnati",
+          "homeScore": 4,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-24",
+          "home": "San Diego",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 2,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Houston Dynamo",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-14",
+          "home": "FC Dallas",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-10",
+          "home": "SJ Earthquakes",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-03",
+          "home": "LA Galaxy",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Vancouver Whitecaps",
+          "away": "Colorado Rapids",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Vancouver Whitecaps",
+          "away": "Sporting KC",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Vancouver Whitecaps",
+          "away": "New York City",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Vancouver Whitecaps",
+          "away": "Portland Timbers",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-03-22",
+          "home": "Vancouver Whitecaps",
+          "away": "SJ Earthquakes",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "Columbus Crew",
+    "away": "New York City FC",
+    "date": "2026-07-22T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "h2h": [
+      {
+        "date": "2026-05-21",
+        "home": "Columbus Crew",
+        "away": "New York City",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2026-05-10",
+        "home": "New York City",
+        "away": "Columbus Crew",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-09-18",
+        "home": "New York City",
+        "away": "Columbus Crew",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-03-22",
+        "home": "Columbus Crew",
+        "away": "New York City",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-09-01",
+        "home": "Columbus Crew",
+        "away": "New York City",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-08-17",
+        "home": "Columbus Crew",
+        "away": "New York City",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-06-15",
+        "home": "New York City",
+        "away": "Columbus Crew",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2023-07-09",
+        "home": "Columbus Crew",
+        "away": "New York City",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-06-17",
+        "home": "New York City",
+        "away": "Columbus Crew",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-08-07",
+        "home": "Columbus Crew",
+        "away": "New York City",
+        "homeScore": 3,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-24",
+          "home": "Columbus Crew",
+          "away": "Atlanta United FC",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Philadelphia Union",
+          "away": "Columbus Crew",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-14",
+          "home": "New York RB",
+          "away": "Columbus Crew",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-10",
+          "home": "New York City",
+          "away": "Columbus Crew",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-03",
+          "home": "Columbus Crew",
+          "away": "Minnesota United",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Columbus Crew",
+          "away": "Philadelphia Union",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-23",
+          "home": "Columbus Crew",
+          "away": "LA Galaxy",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-19",
+          "home": "New England Revolution",
+          "away": "Columbus Crew",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-13",
+          "home": "Columbus Crew",
+          "away": "Orlando City",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Atlanta United FC",
+          "away": "Columbus Crew",
+          "homeScore": 1,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-24",
+          "home": "Nashville SC",
+          "away": "New York City",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-17",
+          "home": "New York RB",
+          "away": "New York City",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-14",
+          "home": "Charlotte",
+          "away": "New York City",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-10",
+          "home": "New York City",
+          "away": "Columbus Crew",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-03",
+          "home": "New York City",
+          "away": "DC United",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Montreal Impact",
+          "away": "New York City",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-23",
+          "home": "New York City",
+          "away": "FC Cincinnati",
+          "homeScore": 4,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-04-19",
+          "home": "New York City",
+          "away": "Charlotte",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Vancouver Whitecaps",
+          "away": "New York City",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-05",
+          "home": "New York City",
+          "away": "St. Louis City",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "New England Revolution",
+    "away": "Toronto FC",
+    "date": "2026-07-22T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "h2h": [
+      {
+        "date": "2025-09-14",
+        "home": "New England Revolution",
+        "away": "Toronto",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-05-03",
+        "home": "Toronto",
+        "away": "New England Revolution",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-04-21",
+        "home": "Toronto",
+        "away": "New England Revolution",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-03-03",
+        "home": "New England Revolution",
+        "away": "Toronto",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-06-25",
+        "home": "New England Revolution",
+        "away": "Toronto",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-05-07",
+        "home": "Toronto",
+        "away": "New England Revolution",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-08-18",
+        "home": "Toronto",
+        "away": "New England Revolution",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-07-31",
+        "home": "New England Revolution",
+        "away": "Toronto",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-08-15",
+        "home": "Toronto",
+        "away": "New England Revolution",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-07-08",
+        "home": "New England Revolution",
+        "away": "Toronto",
+        "homeScore": 2,
+        "awayScore": 3
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-24",
+          "home": "Charlotte",
+          "away": "New England Revolution",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-17",
+          "home": "New England Revolution",
+          "away": "Minnesota United",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-14",
+          "home": "New England Revolution",
+          "away": "Nashville SC",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-10",
+          "home": "New England Revolution",
+          "away": "Philadelphia Union",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-03",
+          "home": "New England Revolution",
+          "away": "Charlotte",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-26",
+          "home": "Inter Miami",
+          "away": "New England Revolution",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-23",
+          "home": "Atlanta United FC",
+          "away": "New England Revolution",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-19",
+          "home": "New England Revolution",
+          "away": "Columbus Crew",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-12",
+          "home": "New England Revolution",
+          "away": "DC United",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-04-04",
+          "home": "New England Revolution",
+          "away": "Montreal Impact",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-17",
+          "home": "Montreal Impact",
+          "away": "Toronto",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-24",
+          "home": "Chicago Fire",
+          "away": "Toronto",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-17",
+          "home": "Charlotte",
+          "away": "Toronto",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-09",
+          "home": "Toronto",
+          "away": "Inter Miami",
+          "homeScore": 2,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-05-02",
+          "home": "Toronto",
+          "away": "SJ Earthquakes",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-25",
+          "home": "Toronto",
+          "away": "Atlanta United FC",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-23",
+          "home": "Toronto",
+          "away": "Philadelphia Union",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-18",
+          "home": "Toronto",
+          "away": "Austin",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Toronto",
+          "away": "FC Cincinnati",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-04",
+          "home": "Toronto",
+          "away": "Colorado Rapids",
+          "homeScore": 3,
+          "awayScore": 2
+        }
+      ]
+    }
+  }
+]

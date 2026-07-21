@@ -1,0 +1,31 @@
+---
+title: "토론토 블루제이즈 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (7월 22일) | MLB - 픽천국"
+date: 2026-07-21T23:07:00.000Z
+description: "토론토 블루제이즈 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260722TBTO0-2026-07-22-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 29승 1무 36패, 평균 득점 3.5로 시즌 전체 전력이 다소 들쭉날쭉한 흐름입니다. 최근에는 10경기 4승 6패로 버티는 힘은 보였지만, 득점 기복이 이어지면서 경기 후반 주도권을 놓치는 장면이 자주 보입니다. 특히 홈에서라면 좀 더 안정적인 타격 생산이 필요하지만, 장타와 연결타의 흐름이 함께 살아나지 않으면 공격이 쉽게 끊기는 모습입니다. 수비 쪽에서는 실점 억제가 완전히 무너지지는 않았지만, 한 번 흐름을 내주면 연속 실점으로 이어지는 약점이 드러납니다. 그래도 최근 경기들에서 간헐적으로 완봉에 가까운 안정감을 보인 만큼, 선발과 불펜이 초반 리듬을 잡아주는지가 매우 중요해 보입니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 36승 4무 26패, 평균 득점 4.2로 홈팀보다 시즌 전체 생산성이 한 단계 앞선 전력입니다. 최근 10경기 4승 6패로 결과만 보면 흔들림이 있지만, 꾸준히 득점을 만들어내는 힘은 여전히 유지하고 있습니다. 원정에서도 공격 템포를 크게 잃지 않는 편이라, 초반에 점수를 먼저 내면 경기 운영이 한결 편해지는 타입입니다. 다만 최근에는 강한 상대를 만나 실점이 늘어나는 장면이 있었고, 마운드가 흔들릴 때 경기 전체 흐름이 빠르게 기울 수 있습니다. 그럼에도 시즌 득실이 플러스인 점은 공격과 수비의 균형이 홈팀보다 낫다는 뜻으로 읽히며, 주도권을 잡을 가능성이 더 높아 보입니다."
+homePower: "홈에서 실점 억제가 흔들리면 경기 후반 부담이 커짐|득점 기복이 커서 한 번의 장타 의존도가 높아 보임|강한 상대 상대로는 초반 추격전 양상이 잦음|불펜 소모가 커질수록 마무리 안정감이 떨어짐|홈에서는 수비 실책 최소화가 승부의 핵심임"
+awayPower: "평균 득점 4점대가 보여주는 공격 지속성이 강점임|원정에서도 초반 선취점 후 운영 능력이 검증됨|시즌 득실 플러스라 공수 균형이 상대적으로 우세함|강한 타선 상대로도 득점 생산 루트가 다양함|최근 흔들림 속에서도 한 방으로 흐름을 바꾸는 힘이 있음"
+h2h: '[{"date":"26.05.14","home":"토론토 블루제이즈","away":"탬파베이 레이스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-178627-2026-05-13-toronto-blue-jays/"},{"date":"26.05.13","home":"토론토 블루제이즈","away":"탬파베이 레이스","score":"6-7","link":"https://pick79.com/posts/detail/analyze-178627-2026-05-13-toronto-blue-jays/"},{"date":"26.05.12","home":"토론토 블루제이즈","away":"탬파베이 레이스","score":"5-8","link":"https://pick79.com/posts/detail/analyze-178620-2026-05-12-toronto-blue-jays/"},{"date":"26.05.07","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"3-0","link":"https://pick79.com/posts/detail/analyze-178553-2026-05-07-tampa-bay-rays/"},{"date":"26.05.06","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"4-3","link":"https://pick79.com/posts/detail/analyze-178538-2026-05-06-tampa-bay-rays/"}]'
+summary: "탬파베이 레이스는 2026시즌 리그순위 1위, 토론토 블루제이즈는 리그순위 11위로 시즌 전력 차이가 분명합니다. 득실과 평균 득점을 함께 보면 탬파베이 레이스가 더 안정적으로 점수를 내고 실점도 억제하는 반면, 토론토 블루제이즈는 공격 기복과 수비 흔들림이 함께 나타나고 있습니다. 맞대결 흐름에서도 탬파베이 레이스가 우세를 이어가고 있어, 전체적인 경기 주도권은 원정팀 쪽으로 기울 가능성이 높아 보입니다. 토론토 블루제이즈가 홈에서 초반을 잘 버티더라도, 현재 전력과 상대전적을 함께 고려하면 탬파베이 레이스가 한 발 앞선 흐름을 만들 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.20","home":"토론토 블루제이즈","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720CWTO0-2026-07-20-toronto-blue-jays/"},{"date":"26.07.19","home":"토론토 블루제이즈","away":"시카고 화이트삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719CWTO0-2026-07-19-toronto-blue-jays/"},{"date":"26.07.18","home":"토론토 블루제이즈","away":"시카고 화이트삭스","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260718CWTO0-2026-07-18-toronto-blue-jays/"},{"date":"26.07.13","home":"샌디에이고 파드리스","away":"토론토 블루제이즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179455-2026-07-13-san-diego-padres/"},{"date":"26.07.11","home":"샌디에이고 파드리스","away":"토론토 블루제이즈","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179425-2026-07-11-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.07.20","home":"보스턴 레드삭스","away":"탬파베이 레이스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720TBBO0-2026-07-20-boston-red-sox/"},{"date":"26.07.19","home":"보스턴 레드삭스","away":"탬파베이 레이스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719TBBO0-2026-07-19-boston-red-sox/"},{"date":"26.07.18","home":"보스턴 레드삭스","away":"탬파베이 레이스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260718TBBO2-2026-07-18-boston-red-sox/"},{"date":"26.07.13","home":"탬파베이 레이스","away":"시애틀 매리너스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179452-2026-07-13-tampa-bay-rays/"},{"date":"26.07.12","home":"탬파베이 레이스","away":"시애틀 매리너스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179436-2026-07-12-tampa-bay-rays/"}]'
+injuryHome: "Lenyn Sosa (타박상)|Jesus Sanchez (염좌)|Max Scherzer (경련)|Yimi Garcia (수술)|Joe Mantiply (수술)"
+injuryAway: "Steven Matz (염좌)|Jake Fraley (수술)|Steven Wilson (염증)|Jonathan Heasley (골절)|Jesse Scholtens (좌상)"
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---
