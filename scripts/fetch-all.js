@@ -230,10 +230,16 @@ async function fetchLckRapid(date) {
 async function fetchLOLPanda() {
   const dates = getTargetDates();
 
-  // ⚠️ dates[]는 KST 기준 날짜 문자열이므로, UTC(Z)가 아니라 +09:00 오프셋으로 명시해야
-  //    실제 요청 범위가 의도한 KST 00:00~23:59와 정확히 일치한다.
-  const fromKst = `${dates[0]}T00:00:00+09:00`;
-  const toKst = `${dates[dates.length - 1]}T23:59:59+09:00`;
+  // ⚠️ dates[]는 KST 기준 날짜 문자열이다. '+09:00' 오프셋 표기는 URL 쿼리스트링에서
+  //    '+' 문자가 공백으로 해석되어 날짜가 깨지는 문제가 있으므로,
+  //    KST 시각을 UTC로 직접 환산해 'Z' 형식으로만 보낸다.
+  function kstBoundaryToUtcIso(dateStr, h, m, s) {
+    const [y, mo, d] = dateStr.split("-").map(Number);
+    const utcMs = Date.UTC(y, mo - 1, d, h, m, s) - 9 * 60 * 60 * 1000; // KST = UTC+9
+    return new Date(utcMs).toISOString();
+  }
+  const fromKst = kstBoundaryToUtcIso(dates[0], 0, 0, 0);
+  const toKst = kstBoundaryToUtcIso(dates[dates.length - 1], 23, 59, 59);
 
   const allMatches = [];
   const perPage = 100; // PandaScore 최대 페이지 크기
