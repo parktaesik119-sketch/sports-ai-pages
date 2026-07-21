@@ -1,0 +1,31 @@
+---
+title: "클리블랜드 가디언스 vs 미네소타 트윈스 경기분석·라인업·결장자·통계·승부예측 (7월 23일) | MLB - 픽천국"
+date: 2026-07-22T22:40:00+00:00
+description: "클리블랜드 가디언스 vs 미네소타 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179549-2026-07-23-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://media.api-sports.io/baseball/teams/9.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/22.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 최근 66경기에서 33승 2무 31패, 승률 .525를 기록하며 리그순위 4위에 올라 있고, 평균 득점은 4.0으로 안정적인 공격 흐름을 보여주고 있습니다. 최근에는 최근 10경기 6승 4패, 평균 득점 4.8로 살아나는 모습을 보였고, 특히 미네소타 트윈스를 상대로도 화력을 끌어올리며 흐름을 좋게 이어가고 있습니다. 홈에서든 원정에서든 한 점 차 접전에서 승부를 가져오는 장면이 적지 않아 경기 운영의 응집력이 돋보입니다. 다만 조시 네이선은 아니고 호세 라미레즈, 앤절 마르티네스, 팀 헤린의 결장은 득점 전개와 불펜 운용에 부담으로 작용할 수 있습니다. 그럼에도 최근 득점 감각이 다시 올라온 만큼, 초반부터 적극적으로 점수를 내며 경기 주도권을 잡으려는 흐름이 강하게 보입니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 최근 65경기에서 30승 35패, 승률 .485로 리그순위 9위에 자리하고 있으며, 평균 득점은 4.2로 공격 자체는 완전히 막힌 모습은 아닙니다. 최근 10경기 6승 4패, 평균 득점 4.4로 반등의 실마리는 보였지만, 직전 클리블랜드 원정과 시카고 원정에서 연속으로 크게 흔들리며 고점 대비 주춤한 흐름이 나타났습니다. 득점력은 어느 정도 유지되고 있으나 실점 억제력이 따라주지 못해 흐름이 길게 이어지지 않는 점이 아쉽습니다. 특히 콜 샌즈, 마르코 라야, 개럿 액턴, 코너 프리엘립, 데이비드 페스타의 이탈은 투수진 뎁스를 약하게 만들고 있습니다. 최근 들어 타선이 한 번 살아나는 장면은 있었지만, 강한 상대를 만나면 수비와 불펜의 불안이 다시 드러나는 전개가 반복되고 있습니다."
+homePower: "클리블랜드 가디언스, 접전 운영에서 강점이 뚜렷함|최근 득점 상승세로 타선 응집력 회복 중임|미네소타 트윈스 상대 상성에서 최근 우위 확인됨|장기 결장자 영향에도 마운드 운영 안정감 유지 보임|홈 경기에서 흐름 타면 중후반 뒤집는 힘이 검증됨"
+awayPower: "미네소타 트윈스, 타선은 평균 이상이나 기복 존재함|최근 원정 대량 실점으로 수비 불안이 드러남|클리블랜드 가디언스 상대 최근 수비 대응이 흔들림|불펜 핵심 이탈로 후반 리드 관리 부담 큼|득점은 가능하나 경기 전체 균형은 약세로 보임"
+h2h: '[{"date":"26.07.21","home":"클리블랜드 가디언스","away":"미네소타 트윈스","score":"13-4","link":"https://pick79.com/posts/detail/analyze-179519-2026-07-21-cleveland-guardians/"},{"date":"26.07.10","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-179413-2026-07-10-minnesota-twins/"},{"date":"26.07.09","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-179399-2026-07-09-minnesota-twins/"},{"date":"26.07.08","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-179390-2026-07-08-minnesota-twins/"},{"date":"26.05.11","home":"클리블랜드 가디언스","away":"미네소타 트윈스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-178612-2026-05-11-cleveland-guardians/"}]'
+summary: "클리블랜드 가디언스는 리그순위 4위에 걸맞게 승률과 경기 운영의 균형이 더 안정적으로 보이며, 최근 득점 흐름도 살아나면서 홈에서의 기대치가 높아지고 있습니다. 미네소타 트윈스는 리그순위 9위로 처져 있지만 최근에는 공격이 완전히 꺼지지 않았고, 특정 구간에서는 반격 능력도 보여주고 있습니다. 다만 두 팀의 맞대결 흐름을 보면 클리블랜드 가디언스가 최근 접전과 대승 모두를 포함해 더 좋은 장면을 만들어 왔고, 미네소타 트윈스는 실점이 커지는 순간 경기 전체가 무너지는 모습이 반복되고 있습니다. 이런 흐름을 함께 보면 클리블랜드 가디언스가 한 수 위의 전력을 바탕으로 경기를 주도할 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.21","home":"클리블랜드 가디언스","away":"미네소타 트윈스","score":"13-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179519-2026-07-21-cleveland-guardians/"},{"date":"26.07.20","home":"클리블랜드 가디언스","away":"피츠버그 파이러츠","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720PICL0-2026-07-20-cleveland-guardians/"},{"date":"26.07.19","home":"클리블랜드 가디언스","away":"피츠버그 파이러츠","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719PICL2-2026-07-19-cleveland-guardians/"},{"date":"26.07.13","home":"마이애미 말린스","away":"클리블랜드 가디언스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179463-2026-07-13-miami-marlins/"},{"date":"26.07.12","home":"마이애미 말린스","away":"클리블랜드 가디언스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179443-2026-07-12-miami-marlins/"}]'
+awayRecent: '[{"date":"26.07.21","home":"클리블랜드 가디언스","away":"미네소타 트윈스","score":"13-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179519-2026-07-21-cleveland-guardians/"},{"date":"26.07.20","home":"시카고 컵스","away":"미네소타 트윈스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720MNCC0-2026-07-20-chicago-cubs/"},{"date":"26.07.19","home":"시카고 컵스","away":"미네소타 트윈스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719MNCC0-2026-07-19-chicago-cubs/"},{"date":"26.07.13","home":"미네소타 트윈스","away":"LA 에인절스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179460-2026-07-13-minnesota-twins/"},{"date":"26.07.12","home":"미네소타 트윈스","away":"LA 에인절스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179442-2026-07-12-minnesota-twins/"}]'
+injuryHome: "Tim Herrin (타박상)|Angel Martinez (골절)|Jose Ramirez (수술)"
+injuryAway: "Cole Sands (염좌)|Marco Raya (신경 압박)|Garrett Acton (염좌)|Connor Prielipp (찰과상)|David Festa (신경 압박)"
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
