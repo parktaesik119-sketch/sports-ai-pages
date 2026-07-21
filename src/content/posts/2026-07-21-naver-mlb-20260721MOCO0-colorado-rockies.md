@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 M. Lorenzen (3-9, 6.22) ERA 6.22|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\"]"
+homeLineup: "[\"선발투수 M. Lorenzen (3-9, 6.22) ERA 6.22|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\",\"1번 J. McCarthy (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 C. Carrigg (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"3번 H. Goodman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"4번 W. Castro (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"5번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"6번 K. Karros (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5203102.png\",\"7번 M. Moniak (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"8번 T. Johnston (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4346111.png\",\"9번 E. Tovar (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png\"]"
 awayLineup: "[\"선발투수 C. Palmquist (0-1, 6.52) ERA 6.52|https://a.espncdn.com/i/headshots/mlb/players/full/4621424.png\"]"
 ---
