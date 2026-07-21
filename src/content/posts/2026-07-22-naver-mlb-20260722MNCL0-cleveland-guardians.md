@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 P. Messick (8-5, 2.73) ERA 2.73|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
+homeLineup: "[\"선발투수 P. Messick (8-5, 2.73) ERA 2.73|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\",\"1번 S. Kwan (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\",\"2번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\",\"3번 C. DeLauter (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png\",\"4번 R. Hoskins (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35291.png\",\"5번 D. Fry (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41672.png\",\"6번 T. Bazzana (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png\",\"7번 G. Arias (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/40344.png\",\"8번 A. Hedges (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32168.png\",\"9번 P. Halpin (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4722962.png\"]"
 awayLineup: "[\"선발투수 K. Rojas (1-1, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/5296012.png\"]"
 ---

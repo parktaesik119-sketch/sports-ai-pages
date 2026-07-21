@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 K. Gausman (4-8, 4.33) ERA 4.33|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
+homeLineup: "[\"선발투수 K. Gausman (4-8, 4.33) ERA 4.33|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\",\"1번 N. Lukes (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/35682.png\",\"2번 V. Guerrero Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35002.png\",\"3번 E. Clement (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41287.png\",\"4번 G. Springer (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32078.png\",\"5번 D. Varsho (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40963.png\",\"6번 K. Okamoto (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5134636.png\",\"7번 B. Valenzuela (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4918248.png\",\"8번 A. Gimenez (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/37729.png\",\"9번 J. Clase (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4918159.png\"]"
 awayLineup: "[\"선발투수 D. Rasmussen (7-5, 3.26) ERA 3.26|https://a.espncdn.com/i/headshots/mlb/players/full/42584.png\"]"
 ---
