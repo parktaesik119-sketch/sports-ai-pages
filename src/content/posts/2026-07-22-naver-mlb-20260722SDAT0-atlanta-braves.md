@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 R. Lopez (4-2, 3.50) ERA 3.50|https://a.espncdn.com/i/headshots/mlb/players/full/33860.png\"]"
+homeLineup: "[\"선발투수 R. Lopez (4-2, 3.50) ERA 3.50|https://a.espncdn.com/i/headshots/mlb/players/full/33860.png\",\"1번 D. Baldwin (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"2번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"5번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"6번 M. Dubon (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"7번 M. Yastrzemski (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"8번 B. Hicklen (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41378.png\",\"9번 J. Jarvis (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5205951.png\"]"
 awayLineup: "[\"선발투수 W. Buehler (5-5, 5.36) ERA 5.36|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
 ---
