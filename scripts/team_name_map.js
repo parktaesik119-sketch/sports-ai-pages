@@ -1568,6 +1568,19 @@ const TEAM_NAME_MAP = {
   "Velazerimi 77": "벨라제리미 77",
   "Labunishta": "FK 라부니슈타",
   "AC Horsens": "AC 호르센스",
+  "Spartak Trnava": "스파르타크 트르나바",
+  "CSKA 1948": "CSKA 1948 소피아",
+  "Beşiktaş": "베식타스 JK",
+  "Šamorín": "STK 1914 샤모린",
+  "Slovácko": "슬로바츠코",
+  "Plzen": "빅토리아 플젠",
+  "Maribor": "마리보르",
+  "Başakşehir": "이스탄불 바샥셰히르",
+  "Neftchi Baku": "PFK 네프치 바쿠",
+  "MTK Budapest": "MTK 부다페스트",
+  "Cukaricki": "추카리츠키",
+  "Apollon Limassol": "아폴론 리마솔",
+  "Apoel Nicosia": "아포엘 니코시아 FC",
 
   
   //중국축구

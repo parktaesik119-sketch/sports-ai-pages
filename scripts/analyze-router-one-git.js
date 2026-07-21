@@ -80,6 +80,7 @@ function convertLeagueName(rawLeague) {
     { target: /^World Cup$/i, replace: "월드컵" },
     { target: /^NBA\s*-?\s*(Salt Lake City|Las Vegas|Orlando|Sacramento) Summer League$/i, replace: "NBA 썸머리그" },
     { target: /^California Classic$/i, replace: "NBA 썸머리그" },
+    { target: /^Copa Libertadores$/i, replace: "코파 리베르타도레스" },
   ];
   leagueReplacements.forEach(rule => { name = name.replace(rule.target, rule.replace); });
   return name;
