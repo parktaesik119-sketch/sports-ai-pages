@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 Z. Wheeler (10-1, 2.13) ERA 2.13|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
-awayLineup: "[\"선발투수 E. Lauer (4-5, 4.81) ERA 4.81|https://a.espncdn.com/i/headshots/mlb/players/full/39915.png\"]"
+awayLineup: "[\"선발투수 J. Wrobleski (10-2, 2.69) ERA 2.69|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\"]"
 ---
