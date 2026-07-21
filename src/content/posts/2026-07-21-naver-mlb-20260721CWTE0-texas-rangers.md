@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 K. Rocker (2-8, 4.40) ERA 4.40|https://a.espncdn.com/i/headshots/mlb/players/full/4414525.png\"]"
+homeLineup: "[\"선발투수 K. Rocker (2-8, 4.40) ERA 4.40|https://a.espncdn.com/i/headshots/mlb/players/full/4414525.png\",\"1번 W. Langford (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4719324.png\",\"2번 J. Foscue (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4298639.png\",\"3번 J. Jung (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42437.png\",\"4번 B. Nimmo (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/32159.png\",\"5번 J. Burger (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/39882.png\",\"6번 E. Duran (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42457.png\",\"7번 C. Cauley (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917917.png\",\"8번 E. Diaz (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33594.png\",\"9번 A. Osuna (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4916547.png\"]"
 awayLineup: "[\"선발투수 N. Schultz (3-6, 5.60) ERA 5.60|https://a.espncdn.com/i/headshots/mlb/players/full/5080754.png\"]"
 ---

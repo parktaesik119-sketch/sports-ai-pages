@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 B. Sproat (3-4, 5.16) ERA 5.16|https://a.espncdn.com/i/headshots/mlb/players/full/4621041.png\"]"
+homeLineup: "[\"선발투수 B. Sproat (3-4, 5.16) ERA 5.16|https://a.espncdn.com/i/headshots/mlb/players/full/4621041.png\",\"1번 J. Chourio (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917869.png\",\"2번 B. Turang (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41179.png\",\"3번 W. Contreras (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/39895.png\",\"4번 A. Vaughn (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42394.png\",\"5번 G. Mitchell (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4313442.png\",\"6번 G. Sanchez (C)|https://a.espncdn.com/i/headshots/mlb/players/full/31095.png\",\"7번 L. Lara (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5138536.png\",\"8번 C. Pratt (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149101.png\",\"9번 J. Ortiz (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42958.png\"]"
 awayLineup: "[\"선발투수 Z. Thornton (0-1, 2.60) ERA 2.60|https://a.espncdn.com/i/headshots/mlb/players/full/5129576.png\"]"
 ---

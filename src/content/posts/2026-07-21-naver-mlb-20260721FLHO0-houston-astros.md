@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 T. Imai (5-4, 6.06) ERA 6.06|https://a.espncdn.com/i/headshots/mlb/players/full/5330833.png\"]"
+homeLineup: "[\"선발투수 T. Imai (5-4, 6.06) ERA 6.06|https://a.espncdn.com/i/headshots/mlb/players/full/5330833.png\",\"1번 J. Pena (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41273.png\",\"2번 Y. Alvarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36018.png\",\"3번 I. Paredes (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/39706.png\",\"4번 J. Altuve (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/31662.png\",\"5번 L. Wade Jr. (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/37798.png\",\"6번 C. Walker (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32758.png\",\"7번 T. Trammell (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/37773.png\",\"8번 L. Spence (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5273759.png\",\"9번 C. Vazquez (C)|https://a.espncdn.com/i/headshots/mlb/players/full/31389.png\"]"
 awayLineup: "[\"선발투수 T. Phillips (2-4, 3.48) ERA 3.48|https://a.espncdn.com/i/headshots/mlb/players/full/41247.png\"]"
 ---
