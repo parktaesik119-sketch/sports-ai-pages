@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 G. Williams (10-5, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (9-4, 3.85) ERA 3.85|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
 ---

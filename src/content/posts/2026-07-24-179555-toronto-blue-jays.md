@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Bieber (1-1, 5.70) ERA 5.70|https://a.espncdn.com/i/headshots/mlb/players/full/40912.png\"]"
+awayLineup: "[\"선발투수 I. Seymour (6-2, 4.79) ERA 4.79|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
 ---
