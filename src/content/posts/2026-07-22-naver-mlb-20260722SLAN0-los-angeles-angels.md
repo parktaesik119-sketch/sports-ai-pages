@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 R. Detmers (3-6, 4.16) ERA 4.16|https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png\"]"
-awayLineup: "[\"선발투수 M. McGreevy (4-7, 2.92) ERA 2.92|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 H. Dobbins (1-1, 4.03) ERA 4.03|https://a.espncdn.com/i/headshots/mlb/players/full/4415836.png\"]"
 ---
