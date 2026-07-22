@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
 awayLineup: "[\"선발투수 G. Jax (5-7, 4.08) ERA 4.08|https://a.espncdn.com/i/headshots/mlb/players/full/42604.png\"]"
+homeLineup: "[\"선발투수 B. Fisher (3-3, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/41318.png\"]"
 ---
