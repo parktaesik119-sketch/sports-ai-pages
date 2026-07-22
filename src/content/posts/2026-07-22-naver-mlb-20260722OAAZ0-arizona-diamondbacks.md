@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 M. Kelly (7-8, 5.20) ERA 5.20|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
-awayLineup: "[\"선발투수 G. Jump (3-5, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\"]"
+awayLineup: "[\"선발투수 G. Jump (3-5, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\",\"1번 J. Wilson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4719300.png\",\"2번 T. Soderstrom (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4686066.png\",\"3번 S. Langeliers (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42598.png\",\"4번 C. Cortes (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41595.png\",\"5번 D. Walton (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/37232.png\",\"6번 T. White (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4923961.png\",\"7번 J. McNeil (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33900.png\",\"8번 L. Butler (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917919.png\",\"9번 J. Heim (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33842.png\"]"
 ---

@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 G. Hughes (0-1, 3.14) ERA 3.14|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
+homeLineup: "[\"선발투수 G. Hughes (0-1, 3.14) ERA 3.14|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\",\"1번 J. McCarthy (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 M. Moniak (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"3번 H. Goodman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"4번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"5번 C. Carrigg (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"6번 K. Karros (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5203102.png\",\"7번 W. Castro (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"8번 E. Julien (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/3985190.png\",\"9번 B. Sullivan (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39913.png\"]"
 awayLineup: "[\"선발투수 C. Cavalli (6-4, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png\"]"
 ---

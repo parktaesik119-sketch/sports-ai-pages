@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 R. Detmers (3-6, 4.16) ERA 4.16|https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png\"]"
-awayLineup: "[\"선발투수 H. Dobbins (1-1, 4.03) ERA 4.03|https://a.espncdn.com/i/headshots/mlb/players/full/4415836.png\"]"
+awayLineup: "[\"선발투수 H. Dobbins (1-1, 4.03) ERA 4.03|https://a.espncdn.com/i/headshots/mlb/players/full/4415836.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"4번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"5번 N. Velazquez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41047.png\",\"6번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"7번 J. Fermin (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/38851.png\",\"8번 B. Jordan (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722953.png\",\"9번 P. Pages (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42608.png\"]"
 ---
