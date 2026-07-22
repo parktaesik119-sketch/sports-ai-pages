@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 S. Lugo (3-6, 4.39) ERA 4.39|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
+homeLineup: "[\"선발투수 S. Lugo (3-6, 4.39) ERA 4.39|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\",\"1번 C. Jensen (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png\",\"2번 L. Thomas (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/36409.png\",\"3번 V. Pasquantino (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109109.png\",\"4번 S. Perez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31127.png\",\"5번 M. Massey (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109223.png\",\"6번 I. Collins (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42959.png\",\"7번 S. Marte (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/30830.png\",\"8번 J. Rojas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/40718.png\",\"9번 A. Velazquez (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/35247.png\"]"
 awayLineup: "[\"선발투수 L. Roupp (7-8, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
 ---
