@@ -38,6 +38,8 @@ jobs:
         env:
           HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
           HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
+          CF_SESSION_COOKIE: ${{ secrets.CF_SESSION_COOKIE }}
+          CF_SESSION_USER_AGENT: ${{ secrets.CF_SESSION_USER_AGENT }}
 
       - name: Run ESPN lineup update script
         run: node scripts/espn-boxscore-update.js

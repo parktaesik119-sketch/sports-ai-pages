@@ -31,6 +31,28 @@ function loadTeamAliases() {
 const TEAM_ALIASES = loadTeamAliases();
 
 // ─────────────────────────────────────────────
+// Cloudflare Turnstile 챌린지 세션. 사람이 브라우저에서 체크박스를 눌러 발급받은
+// cf_clearance 쿠키 + 그때의 User-Agent를 그대로 실어 보내면, 만료 전까지는
+// 챌린지 없이 통과된다. 값은 사람이 수동으로 갱신해서 이 파일에 저장해둔다
+// (2026-07 추가 — footystats.org가 Cloudflare Turnstile을 새로 도입해서 집 IP도
+// 더 이상 무조건 통과되지 않게 됨).
+// ⚠️ cf-session.json은 절대 git에 커밋하면 안 됨 (.gitignore 등록 필수).
+function loadCfSession() {
+  try {
+    const raw = fs.readFileSync(path.resolve(__dirname, 'cf-session.json'), 'utf-8');
+    const session = JSON.parse(raw);
+    if (!session.cookie || !session.userAgent) {
+      console.warn('   ⚠️ cf-session.json에 cookie/userAgent가 비어있습니다.');
+    }
+    return session;
+  } catch {
+    console.warn('   ⚠️ cf-session.json을 찾을 수 없습니다 — Cloudflare 챌린지에 막힐 수 있습니다.');
+    return null;
+  }
+}
+const CF_SESSION = loadCfSession();
+
+// ─────────────────────────────────────────────
 // 엄격한 팀명 매칭. 기존 matchTeam()(espn-common.js)은 "포함되면 매칭"이라
 // "England"가 "New England Revolution"에 포함되는 식으로 전혀 다른 팀이 걸리는
 // 문제가 실사용에서 확인됨(노르웨이-잉글랜드 국가대표전이 MLS 클럽으로 잘못 매칭됨 등).
@@ -99,9 +121,16 @@ function delay(ms) {
 
 async function proxyFetchOnce(targetUrl, { method = 'GET', body = null, headers = {} } = {}) {
   const proxiedUrl = `${HOME_PROXY_URL}/proxy?url=${encodeURIComponent(targetUrl)}`;
+
+  // Cloudflare 세션(쿠키/UA)을 기본으로 깔고, 호출부에서 명시적으로 넘긴 headers가 있으면
+  // 그 값이 우선하도록 뒤에 스프레드(추후 호출부별로 다른 UA가 필요해지는 경우 대비).
+  const cfHeaders = CF_SESSION
+    ? { Cookie: CF_SESSION.cookie, 'User-Agent': CF_SESSION.userAgent }
+    : {};
+
   const res = await fetch(proxiedUrl, {
     method,
-    headers: { 'X-Proxy-Secret': HOME_PROXY_SECRET, ...headers },
+    headers: { 'X-Proxy-Secret': HOME_PROXY_SECRET, ...cfHeaders, ...headers },
     body,
   });
   const upstreamStatus = res.headers.get('x-upstream-status');
