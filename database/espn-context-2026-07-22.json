@@ -6259,6 +6259,155 @@
     "h2h": null
   },
   {
+    "home": "Indiana Fever W",
+    "away": "Connecticut Sun W",
+    "date": "2026-07-23T00:00:00+00:00",
+    "league": "NBA W",
+    "sport": "basketball",
+    "espnSport": "wnba",
+    "gameId": "401857090",
+    "injuries": {
+      "home": [
+        {
+          "name": "Damiris Dantas",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Caitlin Clark",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Aaliyah Edwards",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Saniya Rivers",
+          "status": "Day-To-Day",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Brittney Griner",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "16",
+        "losses": "10",
+        "ties": null,
+        "winPercent": ".615",
+        "gamesBehind": "-",
+        "pointsFor": "2455",
+        "pointsAgainst": "2331"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "7",
+        "losses": "19",
+        "ties": null,
+        "winPercent": ".269",
+        "gamesBehind": "9",
+        "pointsFor": "2072",
+        "pointsAgainst": "2228"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "IND leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-06-13T22:00:00Z",
+          "home": "Connecticut Sun",
+          "away": "Indiana Fever",
+          "homeScore": 75,
+          "awayScore": 85,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Portland Fire W",
+    "away": "Dallas Wings W",
+    "date": "2026-07-23T02:00:00+00:00",
+    "league": "NBA W",
+    "sport": "basketball",
+    "espnSport": "wnba",
+    "gameId": "401857091",
+    "injuries": {
+      "home": [
+        {
+          "name": "Sania Feagin",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Alanna Smith",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Paige Bueckers",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "5",
+        "wins": "11",
+        "losses": "15",
+        "ties": null,
+        "winPercent": ".423",
+        "gamesBehind": "9.5",
+        "pointsFor": "2207",
+        "pointsAgainst": "2345"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "17",
+        "losses": "9",
+        "ties": null,
+        "winPercent": ".654",
+        "gamesBehind": "3.5",
+        "pointsFor": "2335",
+        "pointsAgainst": "2230"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "POR leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-06-14T00:30:00Z",
+          "home": "Portland Fire",
+          "away": "Dallas Wings",
+          "homeScore": 84,
+          "awayScore": 83,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
     "home": "Texas Rangers",
     "away": "Chicago White Sox",
     "date": "2026-07-23T00:05:00+00:00",
