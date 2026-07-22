@@ -424,7 +424,7 @@ const TEAM_NAME_MAP = {
   "Portland Timbers": "포틀랜드 팀버스",
   "Real Salt Lake": "레알 솔트레이크",
   "San Diego": "샌디에이고 FC",
-  "San Jose Earthquakes": "새너제이 어스퀘이크스",
+  "San Jose Earthquakes": "산호세 어스퀘이크스",
   "Seattle Sounders": "시애틀 사운더스",
   "Sporting Kansas City": "스포르팅 캔자스시티",
   "St. Louis City": "세인트루이스 시티",
@@ -921,6 +921,7 @@ const TEAM_NAME_MAP = {
   "Barracas Central": "바라카스 센트랄",
   "Puerto Cabello": "푸에르토 카베요",
   "Cienciano": "시엔시아노",
+  "Remo": "헤무",
 
   // K리그 WK리그
   "Boeun Sangmu W": "문경 상무",
@@ -1581,6 +1582,25 @@ const TEAM_NAME_MAP = {
   "Cukaricki": "추카리츠키",
   "Apollon Limassol": "아폴론 리마솔",
   "Apoel Nicosia": "아포엘 니코시아 FC",
+  "Beitar Jerusalem": "베이타르 예루살렘",
+  "AEK Larnaca": "라르니카",
+  "FK Tobol Kostanay": "FK 토볼",
+  "Ludogorets": "루도고레츠",
+  "Coleraine FC": "콜레인 FC",
+  "FC Lugano": "FC 루가노",
+  "HB Torshavn": "HB 토르스하운",
+  "Paks": "퍽시 FC",
+  "Valletta FC": "발레타 FC",
+  "Valur Reykjavik": "발루르 레이캬비크",
+  "Zrinjski": "HSK 즈리니스키 모스타르",
+  "FK Jablonec": "야블로네츠",
+  "Zimbru": "짐브루 키시너우",
+  "Bravo": "NK 브라보",
+  "FC Midtjylland": "미트윌란",
+  "Hradec Králové": "흐라덱 크라로베",
+  "Yverdon Sport": "이베르동스포르",
+  "Neuchatel Xamax FC": "뇌샤텔 크사막스 FCS",
+  "Étoile Carouge": "에투알 카루주",
 
   
   //중국축구

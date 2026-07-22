@@ -159,7 +159,7 @@ if (isExtraFiltered) {
   const normalizedLg = upperLg
   .replace(/\s+/g, '')
   .replace(/ROUNDS?.*|WEEK.*|GROUP.*|STAGE.*|PLAYOFFS?.*/i, '');
-  const lol = ['LCK','LCK CL','LPL', 'LCS','MSI','WORLD','WORLDS','INTERNATIONAL','LCKROADTOMSI','LCKCHALLENGERSLEAGUE'].includes(normalizedLg);
+  const lol = ['LCK','LCK CL','LPL', 'MSI','WORLD','WORLDS','INTERNATIONAL','LCKROADTOMSI','LCKCHALLENGERSLEAGUE'].includes(normalizedLg);
 
   // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam)'를 추가
   const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam;
