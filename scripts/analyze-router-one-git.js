@@ -1954,6 +1954,7 @@ const winnerIsHome = homeNames.some(n =>
     "EUROPEAN LEAGUE WOMEN": "유럽", "EUROPEAN LEAGUE": "유럽",
     "WORLD CUP - WOMEN - QUALIFICATION EUROPE": "국제",
     "FRIENDLIES": "국제", "ASEAN CHAMPIONSHIP": "국제",
+    "LPL": "중국",
   };
   const upperLeagueName = (match.league || "").toUpperCase();
   let country = leagueCountryOverrides[upperLeagueName]
