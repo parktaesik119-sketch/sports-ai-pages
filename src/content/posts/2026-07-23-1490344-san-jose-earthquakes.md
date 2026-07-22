@@ -1,0 +1,31 @@
+---
+title: "새너제이 어스퀘이크스 vs 올랜도 시티 경기분석·라인업·결장자·통계·승부예측 (7월 23일) | MLS - 픽천국"
+date: 2026-07-23T02:30:00+00:00
+description: "새너제이 어스퀘이크스 vs 올랜도 시티 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490344-2026-07-23-san-jose-earthquakes"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "새너제이 어스퀘이크스"
+awayTeam: "올랜도 시티"
+homeLogo: "https://media.api-sports.io/football/teams/1596.png"
+awayLogo: "https://media.api-sports.io/football/teams/1598.png"
+homeAnalysis: "새너제이 어스퀘이크스는 2026시즌 리그순위 2위로 10승 3패 2무, 득실 34-15를 기록하며 상위권 전력을 유지하고 있습니다. 최근 7경기에서도 4승 1무 2패, 평균 득점 2.0으로 공격 흐름이 꾸준하고, 홈에서는 득점 전개가 더 자연스럽게 이어지는 모습이 보입니다. 다만 최근 일정에서는 승리를 만들 때와 실점을 허용할 때의 간격이 함께 드러나면서 수비 집중력의 흔들림도 함께 보이고 있습니다. 그럼에도 원정에서도 득점을 이어가는 장면이 자주 나오고 있어, 경기 주도권을 잡았을 때는 공격 전환 속도로 상대를 압박하는 힘이 분명합니다. 특히 홈에서 빠른 템포를 살릴 경우 공격 쪽 강점이 더욱 또렷하게 드러날 가능성이 높습니다."
+awayAnalysis: "올랜도 시티는 2026시즌 리그순위 13위로 4승 9패 2무, 득실 23-44를 기록하며 수비 불안이 크게 드러나고 있습니다. 최근 4경기에서는 1승 1무 2패, 평균 득점 2.0으로 공격 자체는 완전히 막히지 않지만, 실점이 더 크게 쌓이는 흐름이 이어지고 있습니다. 특히 대량 실점 경기가 섞여 있어 경기 내내 버티는 힘보다 흔들릴 때의 폭이 더 크다는 점이 눈에 띕니다. 홈에서는 반격 장면을 만들 수 있어도 원정에서는 수비 라인이 쉽게 흔들리는 모습이 반복되고 있습니다. 다만 공격에서는 한 번 흐름을 타면 득점 전개가 나오는 편이라, 초반 실점을 줄이는지가 경기 내용의 핵심으로 보입니다."
+homePower: "리그순위 2위답게 경기 지배 구간이 길어짐|홈에서는 템포를 끌어올릴 때 공격 완성도 상승함|득실 +19로 공수 균형이 상위권 수준임|실점이 늘어나는 경기엔 집중력 흔들림이 드러남|상위권 전력과 홈 이점이 맞물려 우세함"
+awayPower: "리그순위 13위지만 득점 폭발력은 간헐적으로 확인됨|원정에서도 득점은 나오나 수비 붕괴가 더 큰 변수임|득실 -21로 경기 후반 버티는 힘이 약해 보임|대량 실점 경기가 섞여 안정감이 떨어짐|선제 실점 시 흐름 회복이 쉽지 않은 전력임"
+h2h: '[{"date":"24.05.19","home":"새너제이 어스퀘이크스","away":"올랜도 시티","score":"0-1"},{"date":"21.06.23","home":"올랜도 시티","away":"새너제이 어스퀘이크스","score":"5-0"},{"date":"19.09.01","home":"새너제이 어스퀘이크스","away":"올랜도 시티","score":"3-0"},{"date":"18.04.22","home":"올랜도 시티","away":"새너제이 어스퀘이크스","score":"3-2"},{"date":"17.05.18","home":"새너제이 어스퀘이크스","away":"올랜도 시티","score":"1-1"}]'
+summary: "새너제이 어스퀘이크스는 2026시즌 리그순위 2위와 +19 득실이 보여주듯 전체 전력의 완성도가 높고, 올랜도 시티는 13위와 -21 득실에서 드러나듯 수비 쪽 부담이 큰 편입니다. 최근 흐름을 함께 보면 새너제이 어스퀘이크스는 득점 생산이 꾸준하면서도 경기 주도권을 잡는 힘이 좋고, 올랜도 시티는 공격은 이어가더라도 실점 관리에서 흔들림이 반복되고 있습니다. 상대전적에서도 서로 승부가 갈린 경기들이 있었지만, 현재 전력과 최근 흐름을 함께 놓고 보면 새너제이 어스퀘이크스가 더 안정적으로 우위를 점할 가능성이 높습니다. 다만 올랜도 시티도 득점 자체는 만들 수 있어서 초반 흐름이 느슨해지면 접전 양상으로 이어질 여지는 있습니다."
+homeRecent: '[{"date":"26.07.04","home":"새너제이 어스퀘이크스","away":"Club Tijuana","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1567522-2026-07-04-san-jose-earthquakes/"},{"date":"26.05.24","home":"포틀랜드 팀버스","away":"새너제이 어스퀘이크스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490320-2026-05-24-portland-timbers/"},{"date":"26.05.21","home":"콜로라도 래피즈","away":"새너제이 어스퀘이크스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1543869-2026-05-21-colorado-rapids/"},{"date":"26.05.17","home":"새너제이 어스퀘이크스","away":"FC 댈러스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490307-2026-05-17-san-jose-earthquakes/"},{"date":"26.05.10","home":"새너제이 어스퀘이크스","away":"밴쿠버 화이트캡스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490276-2026-05-10-san-jose-earthquakes/"}]'
+awayRecent: '[{"date":"26.05.24","home":"FC 신시내티","away":"올랜도 시티","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490311-2026-05-24-fc-cincinnati/"},{"date":"26.05.20","home":"올랜도 시티","away":"애틀랜타 유나이티드","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1543866-2026-05-20-orlando-city-sc/"},{"date":"26.05.17","home":"올랜도 시티","away":"애틀랜타 유나이티드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490296-2026-05-17-orlando-city-sc/"},{"date":"26.04.30","home":"뉴잉글랜드 레볼루션","away":"올랜도 시티","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1540853-2026-04-30-new-england-revolution/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "올랜도 시티"
+pickWinResult: "승"
+pickHandicapTeam: "올랜도 시티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

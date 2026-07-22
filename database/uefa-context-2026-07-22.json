@@ -1,0 +1,3343 @@
+[
+  {
+    "home": "Neftchi Baku",
+    "away": "Dinamo Minsk",
+    "date": "2026-07-22T16:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048844",
+    "kickOffTime": "2026-07-22T16:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "AZE",
+        "id": "1162",
+        "translations": {
+          "name": {
+            "EN": "Baku",
+            "FR": "Bakou",
+            "DE": "Baku",
+            "ES": "Bakú",
+            "PT": "Bacu",
+            "IT": "Baku",
+            "RU": "Баку",
+            "ZH": "巴库",
+            "AR": "Baku"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Omonia Nicosia",
+    "away": "Kairat Almaty",
+    "date": "2026-07-22T17:00:00+00:00",
+    "league": "UEFA Champions League",
+    "matchId": "2048720",
+    "kickOffTime": "2026-07-22T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "CYP",
+        "id": "2345",
+        "translations": {
+          "name": {
+            "EN": "Nicosia",
+            "FR": "Nicosie",
+            "DE": "Nikosia",
+            "ES": "Nicosia",
+            "PT": "Nicósia",
+            "IT": "Nicosia",
+            "RU": "Никосия",
+            "ZH": "尼科西亚",
+            "AR": "Nicosia"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Bohemians",
+    "away": "Ballkani",
+    "date": "2026-07-22T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048853",
+    "kickOffTime": "2026-07-22T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "IRL",
+        "id": "1538",
+        "translations": {
+          "name": {
+            "EN": "Dublin",
+            "FR": "Dublin",
+            "DE": "Dublin",
+            "ES": "Dublín",
+            "PT": "Dublin",
+            "IT": "Dublino",
+            "RU": "Дублин",
+            "ZH": "都柏林",
+            "AR": "Dublin"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Levski Sofia",
+    "away": "Universitatea Craiova",
+    "date": "2026-07-22T17:30:00+00:00",
+    "league": "UEFA Champions League",
+    "matchId": "2048719",
+    "kickOffTime": "2026-07-22T17:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "BUL",
+        "id": "2816",
+        "translations": {
+          "name": {
+            "EN": "Sofia",
+            "FR": "Sofia",
+            "DE": "Sofia",
+            "ES": "Sofía",
+            "PT": "Sófia",
+            "IT": "Sofia",
+            "RU": "София",
+            "ZH": "索非亚",
+            "AR": "Sofia"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Başakşehir",
+    "away": "Inter Turku",
+    "date": "2026-07-22T17:45:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048818",
+    "kickOffTime": "2026-07-22T17:45:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "TUR",
+        "id": "1859",
+        "translations": {
+          "name": {
+            "EN": "Istanbul",
+            "FR": "Istanbul",
+            "DE": "Istanbul",
+            "ES": "Estambul",
+            "PT": "Istambul",
+            "IT": "Istanbul",
+            "RU": "Стамбул",
+            "ZH": "伊斯坦布尔",
+            "AR": "Istanbul"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Vardar Skopje",
+    "away": "Riga",
+    "date": "2026-07-22T18:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048816",
+    "kickOffTime": "2026-07-22T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "MKD",
+        "id": "2800",
+        "translations": {
+          "name": {
+            "EN": "Skopje",
+            "FR": "Skopje",
+            "DE": "Skopje",
+            "ES": "Skopie",
+            "PT": "Skopje",
+            "IT": "Skopje",
+            "RU": "Скопье",
+            "ZH": "斯科普里",
+            "AR": "Skopje"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Spartak Trnava",
+    "away": "CSKA 1948",
+    "date": "2026-07-22T18:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048856",
+    "kickOffTime": "2026-07-22T18:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SVK",
+        "id": "2995",
+        "translations": {
+          "name": {
+            "EN": "Trnava",
+            "FR": "Trnava",
+            "DE": "Trnava",
+            "ES": "Trnava",
+            "PT": "Trnava",
+            "IT": "Trnava",
+            "RU": "Трнава",
+            "ZH": "特纳瓦",
+            "AR": "Trnava"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Železničar Pančevo",
+    "away": "SC Braga",
+    "date": "2026-07-22T19:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048846",
+    "kickOffTime": "2026-07-22T19:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SRB",
+        "id": "2463",
+        "translations": {
+          "name": {
+            "EN": "Pancevo",
+            "FR": "Pancevo",
+            "DE": "Pancevo",
+            "ES": "Pancevo",
+            "PT": "Pancevo",
+            "IT": "Pancevo",
+            "RU": "Панчево",
+            "ZH": "Pancevo",
+            "AR": "Pancevo"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Egnatia Rrogozhinë",
+    "away": "Celje",
+    "date": "2026-07-22T19:00:00+00:00",
+    "league": "UEFA Champions League",
+    "matchId": "2048724",
+    "kickOffTime": "2026-07-22T19:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "ALB",
+        "id": "2654",
+        "translations": {
+          "name": {
+            "EN": "Rrogozhine",
+            "FR": "Rrogozhinë",
+            "DE": "Rrogozhine",
+            "ES": "Rrogozhine",
+            "PT": "Rrogozhine",
+            "IT": "Rrogozhine",
+            "RU": "Рогожина",
+            "ZH": "Rrogozhine",
+            "AR": "Rrogozhine"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Malisheva",
+    "away": "Hibernian",
+    "date": "2026-07-23T14:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048843",
+    "kickOffTime": "2026-07-23T14:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "KOS",
+        "id": "50000297",
+        "translations": {
+          "name": {
+            "EN": "Pristina",
+            "FR": "Pristina",
+            "DE": "Pristina",
+            "ES": "Pristina",
+            "PT": "Pristina",
+            "IT": "Pristina",
+            "RU": "Приштина",
+            "ZH": "Pristina",
+            "AR": "Pristina"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "FK Liepaja",
+    "away": "Austria Vienna",
+    "date": "2026-07-23T15:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048824",
+    "kickOffTime": "2026-07-23T15:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "LVA",
+        "id": "1885",
+        "translations": {
+          "name": {
+            "EN": "Jurmala",
+            "FR": "Jurmala",
+            "DE": "Jurmala",
+            "ES": "Jurmala",
+            "PT": "Jurmala",
+            "IT": "Jurmala",
+            "RU": "Юрмала",
+            "ZH": "具马拉",
+            "AR": "Jurmala"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Alashkert",
+    "away": "CFR 1907 Cluj",
+    "date": "2026-07-23T15:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048852",
+    "kickOffTime": "2026-07-23T15:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "ARM",
+        "id": "3198",
+        "translations": {
+          "name": {
+            "EN": "Yerevan",
+            "FR": "Yerevan",
+            "DE": "Yerevan",
+            "ES": "Ereván",
+            "PT": "Ierevan",
+            "IT": "Yerevan",
+            "RU": "Ереван",
+            "ZH": "埃里温",
+            "AR": "Yerevan"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Panevėžys",
+    "away": "FK Tobol Kostanay",
+    "date": "2026-07-23T15:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048842",
+    "kickOffTime": "2026-07-23T15:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "LTU",
+        "id": "2464",
+        "translations": {
+          "name": {
+            "EN": "Panevezys",
+            "FR": "Panevezys",
+            "DE": "Panevezys",
+            "ES": "Panevezys",
+            "PT": "Panevezys",
+            "IT": "Panevezys",
+            "RU": "Паневежис",
+            "ZH": "帕涅韦日斯",
+            "AR": "Panevezys"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "HJK Helsinki",
+    "away": "Coleraine FC",
+    "date": "2026-07-23T16:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048820",
+    "kickOffTime": "2026-07-23T16:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "FIN",
+        "id": "1793",
+        "translations": {
+          "name": {
+            "EN": "Helsinki",
+            "FR": "Helsinki",
+            "DE": "Helsinki",
+            "ES": "Helsinki",
+            "PT": "Helsínquia",
+            "IT": "Helsinki",
+            "RU": "Хельсинки",
+            "ZH": "赫尔辛基",
+            "AR": "Helsinki"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Flora Tallinn",
+    "away": "The New Saints",
+    "date": "2026-07-23T16:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048814",
+    "kickOffTime": "2026-07-23T16:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "EST",
+        "id": "2909",
+        "translations": {
+          "name": {
+            "EN": "Tallinn",
+            "FR": "Tallinn",
+            "DE": "Tallinn",
+            "ES": "Tallin",
+            "PT": "Tallinn",
+            "IT": "Tallinn",
+            "RU": "Таллин",
+            "ZH": "塔林",
+            "AR": "Tallinn"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Debreceni VSC",
+    "away": "Pyunik Yerevan",
+    "date": "2026-07-23T16:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048825",
+    "kickOffTime": "2026-07-23T16:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "HUN",
+        "id": "1481",
+        "translations": {
+          "name": {
+            "EN": "Debrecen",
+            "FR": "Debrecen",
+            "DE": "Debrecen",
+            "ES": "Debrecen",
+            "PT": "Debrecen",
+            "IT": "Debrecen",
+            "RU": "Дебрецен",
+            "ZH": "德布勒森",
+            "AR": "Debrecen"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Dila",
+    "away": "Apollon Limassol",
+    "date": "2026-07-23T16:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048830",
+    "kickOffTime": "2026-07-23T16:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "GEO",
+        "id": "1711",
+        "translations": {
+          "name": {
+            "EN": "Gori",
+            "FR": "Gori",
+            "DE": "Gori",
+            "ES": "Gori",
+            "PT": "Gori",
+            "IT": "Gori",
+            "RU": "Гори",
+            "ZH": "哥里",
+            "AR": "Gori"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Paide",
+    "away": "Zira",
+    "date": "2026-07-23T16:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048854",
+    "kickOffTime": "2026-07-23T16:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "EST",
+        "id": "2473",
+        "translations": {
+          "name": {
+            "EN": "Parnu",
+            "FR": "Parnü",
+            "DE": "Parnü",
+            "ES": "Parnü",
+            "PT": "Parnu",
+            "IT": "Parnü",
+            "RU": "Пярну",
+            "ZH": "Parnü",
+            "AR": "Parnu"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Qarabag",
+    "away": "CSKA Sofia",
+    "date": "2026-07-23T16:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048742",
+    "kickOffTime": "2026-07-23T16:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "AZE",
+        "id": "1162",
+        "translations": {
+          "name": {
+            "EN": "Baku",
+            "FR": "Bakou",
+            "DE": "Baku",
+            "ES": "Bakú",
+            "PT": "Bacu",
+            "IT": "Baku",
+            "RU": "Баку",
+            "ZH": "巴库",
+            "AR": "Baku"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "AEK Larnaca",
+    "away": "Beitar Jerusalem",
+    "date": "2026-07-23T16:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048760",
+    "kickOffTime": "2026-07-23T16:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "CYP",
+        "id": "2038",
+        "translations": {
+          "name": {
+            "EN": "Larnaca",
+            "FR": "Larnaca",
+            "DE": "Larnaca",
+            "ES": "Larnaca",
+            "PT": "Larnaca",
+            "IT": "Larnaca",
+            "RU": "Ларнака",
+            "ZH": "拉纳卡",
+            "AR": "Larnaca"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Raków Częstochowa",
+    "away": "Valletta FC",
+    "date": "2026-07-23T16:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048823",
+    "kickOffTime": "2026-07-23T16:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "POL",
+        "id": "1472",
+        "translations": {
+          "name": {
+            "EN": "Czestochowa",
+            "FR": "Czestochowa",
+            "DE": "Czestochowa",
+            "ES": "Czestochowa",
+            "PT": "Czestochowa",
+            "IT": "Czestochowa",
+            "RU": "Ченстохова",
+            "ZH": "Czestochowa",
+            "AR": "Czestochowa"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Rīgas FS",
+    "away": "Vestri",
+    "date": "2026-07-23T16:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048822",
+    "kickOffTime": "2026-07-23T16:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "LVA",
+        "id": "2621",
+        "translations": {
+          "name": {
+            "EN": "Riga",
+            "FR": "Riga",
+            "DE": "Riga",
+            "ES": "Riga",
+            "PT": "Riga",
+            "IT": "Riga",
+            "RU": "Рига",
+            "ZH": "里加",
+            "AR": "Riga"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Zimbru",
+    "away": "FC Noah",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048835",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "MDA",
+        "id": "1423",
+        "translations": {
+          "name": {
+            "EN": "Chisinau",
+            "FR": "Chisinau",
+            "DE": "Chisinau",
+            "ES": "Chisinau",
+            "PT": "Chisinau",
+            "IT": "Chisinau",
+            "RU": "Кишинев",
+            "ZH": "基希讷乌",
+            "AR": "Chisinau"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Hammarby FF",
+    "away": "Anderlecht",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048741",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SWE",
+        "id": "2866",
+        "translations": {
+          "name": {
+            "EN": "Stockholm",
+            "FR": "Stockholm",
+            "DE": "Stockholm",
+            "ES": "Estocolmo",
+            "PT": "Estocolmo",
+            "IT": "Stoccolma",
+            "RU": "Стокгольм",
+            "ZH": "斯德哥尔摩",
+            "AR": "Stockholm"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Tromso",
+    "away": "Hradec Králové",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048743",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "NOR",
+        "id": "2997",
+        "translations": {
+          "name": {
+            "EN": "Tromso",
+            "FR": "Tromsø",
+            "DE": "Tromsø",
+            "ES": "Tromsø",
+            "PT": "Tromsø",
+            "IT": "Tromsø",
+            "RU": "Тромсе",
+            "ZH": "特罗姆瑟",
+            "AR": "Tromso"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "ML Vitebsk",
+    "away": "Sutjeska",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048813",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "HUN",
+        "id": "2226",
+        "translations": {
+          "name": {
+            "EN": "Mezokovesd",
+            "FR": "Mezokovesd",
+            "DE": "Mezokovesd",
+            "ES": "Mezokovesd",
+            "PT": "Mezokovesd",
+            "IT": "Mezokovesd",
+            "RU": "Мезекевешд",
+            "ZH": "Mezokovesd",
+            "AR": "Mezokovesd"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Bate Borisov",
+    "away": "FC Sion",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048839",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "AZE",
+        "id": "2885",
+        "translations": {
+          "name": {
+            "EN": "Sumgayit",
+            "FR": "Sumgayit",
+            "DE": "Sumgayit",
+            "ES": "Sumgayit",
+            "PT": "Sumgayit",
+            "IT": "Sumgayit",
+            "RU": "Сумгаит",
+            "ZH": "Sumgayit",
+            "AR": "Sumgayit"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Dinamo Tbilisi",
+    "away": "FK Zalgiris Vilnius",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048836",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "GEO",
+        "id": "2923",
+        "translations": {
+          "name": {
+            "EN": "Tbilisi",
+            "FR": "Tbilissi",
+            "DE": "Tiflis",
+            "ES": "Tiflis",
+            "PT": "Tbilissi",
+            "IT": "Tbilisi",
+            "RU": "Тбилиси",
+            "ZH": "第比利斯",
+            "AR": "Tbilisi"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "FC Santa Coloma",
+    "away": "Rapid Vienna",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048850",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "AND",
+        "id": "1077",
+        "translations": {
+          "name": {
+            "EN": "Andorra la Vella",
+            "FR": "Andorre-la-Vieille",
+            "DE": "Andorra la Vella",
+            "ES": "Andorra la Vella",
+            "PT": "Andorra la Vella",
+            "IT": "Andorra la Vella",
+            "RU": "Андорра-ла-Велья",
+            "ZH": "安道尔城",
+            "AR": "Andorra la Vella"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Universitatea Cluj",
+    "away": "Brann",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048832",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "ROU",
+        "id": "50000466",
+        "translations": {
+          "name": {
+            "EN": "Sfantu Gheorghe",
+            "FR": "Sfantu Gheorghe",
+            "DE": "Sfantu Gheorghe",
+            "ES": "Sfantu Gheorghe",
+            "PT": "Sfantu Gheorghe",
+            "IT": "Sfantu Gheorghe",
+            "RU": "Сфынту-Георге",
+            "ZH": "Sfantu Gheorghe",
+            "AR": "Sfantu Gheorghe"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Dynamo Kyiv",
+    "away": "PAOK",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048757",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "POL",
+        "id": "50000342",
+        "translations": {
+          "name": {
+            "EN": "Lublin",
+            "FR": "Lublin",
+            "DE": "Lublin",
+            "ES": "Lublin",
+            "PT": "Lublin",
+            "IT": "Lublin",
+            "RU": "Люблин",
+            "ZH": "Lublin",
+            "AR": "Lublin"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Sheriff Tiraspol",
+    "away": "Maccabi Tel Aviv",
+    "date": "2026-07-23T17:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048747",
+    "kickOffTime": "2026-07-23T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "MDA",
+        "id": "2953",
+        "translations": {
+          "name": {
+            "EN": "Tiraspol",
+            "FR": "Tiraspol",
+            "DE": "Tiraspol",
+            "ES": "Tiraspol",
+            "PT": "Tiraspol",
+            "IT": "Tiraspol",
+            "RU": "Тирасполь",
+            "ZH": "蒂拉斯波尔",
+            "AR": "Tiraspol"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "FC Vaduz",
+    "away": "Atlètic Club d'Escaldes",
+    "date": "2026-07-23T17:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048855",
+    "kickOffTime": "2026-07-23T17:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "LIE",
+        "id": "3036",
+        "translations": {
+          "name": {
+            "EN": "Vaduz",
+            "FR": "Vaduz",
+            "DE": "Vaduz",
+            "ES": "Vaduz",
+            "PT": "Vaduz",
+            "IT": "Vaduz",
+            "RU": "Вадуц",
+            "ZH": "瓦杜兹",
+            "AR": "Vaduz"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "FCSB",
+    "away": "Auda",
+    "date": "2026-07-23T17:45:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048821",
+    "kickOffTime": "2026-07-23T17:45:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "ROU",
+        "id": "1326",
+        "translations": {
+          "name": {
+            "EN": "Bucharest",
+            "FR": "Bucarest",
+            "DE": "Bukarest",
+            "ES": "Bucarest",
+            "PT": "Bucareste",
+            "IT": "Bucarest",
+            "RU": "Бухарест",
+            "ZH": "布加勒斯特",
+            "AR": "Bucharest"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Paks",
+    "away": "Panathinaikos",
+    "date": "2026-07-23T18:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048845",
+    "kickOffTime": "2026-07-23T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "HUN",
+        "id": "250000185",
+        "translations": {
+          "name": {
+            "EN": "Paks",
+            "FR": "Paks",
+            "DE": "Paks",
+            "ES": "Paks",
+            "PT": "Paks",
+            "IT": "Paks",
+            "RU": "Пакш",
+            "ZH": "Paks",
+            "AR": "Paks"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Polessya",
+    "away": "FC Copenhagen",
+    "date": "2026-07-23T18:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048848",
+    "kickOffTime": "2026-07-23T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SVK",
+        "id": "1962",
+        "translations": {
+          "name": {
+            "EN": "Košice",
+            "FR": "Košice",
+            "DE": "Košice",
+            "ES": "Košice",
+            "PT": "Košice",
+            "IT": "Košice",
+            "RU": "Кошице",
+            "ZH": "科西斯",
+            "AR": "Košice"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "NK Varazdin",
+    "away": "FK Jablonec",
+    "date": "2026-07-23T18:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048829",
+    "kickOffTime": "2026-07-23T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "CRO",
+        "id": "3055",
+        "translations": {
+          "name": {
+            "EN": "Varaždin",
+            "FR": "Varaždin",
+            "DE": "Varaždin",
+            "ES": "Varaždin",
+            "PT": "Varaždin",
+            "IT": "Varaždin",
+            "RU": "Вараждин",
+            "ZH": "瓦拉兹丁",
+            "AR": "Varaždin"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Beşiktaş",
+    "away": "FC Midtjylland",
+    "date": "2026-07-23T18:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048745",
+    "kickOffTime": "2026-07-23T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "TUR",
+        "id": "1859",
+        "translations": {
+          "name": {
+            "EN": "Istanbul",
+            "FR": "Istanbul",
+            "DE": "Istanbul",
+            "ES": "Estambul",
+            "PT": "Istambul",
+            "IT": "Istanbul",
+            "RU": "Стамбул",
+            "ZH": "伊斯坦布尔",
+            "AR": "Istanbul"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "FC ST. Gallen",
+    "away": "Benfica",
+    "date": "2026-07-23T18:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048748",
+    "kickOffTime": "2026-07-23T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SUI",
+        "id": "2849",
+        "translations": {
+          "name": {
+            "EN": "St.Gallen",
+            "FR": "Saint-Gall",
+            "DE": "St. Gallen",
+            "ES": "St. Gallen",
+            "PT": "St. Gallen",
+            "IT": "St. Gallen",
+            "RU": "Санкт-Галлен",
+            "ZH": "圣加仑",
+            "AR": "St.Gallen"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Aluminij",
+    "away": "Dinamo Tirana",
+    "date": "2026-07-23T18:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048837",
+    "kickOffTime": "2026-07-23T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SVN",
+        "id": "2193",
+        "translations": {
+          "name": {
+            "EN": "Maribor",
+            "FR": "Maribor",
+            "DE": "Maribor",
+            "ES": "Maribor",
+            "PT": "Maribor",
+            "IT": "Maribor",
+            "RU": "Марибор",
+            "ZH": "马里博尔",
+            "AR": "Maribor"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Vojvodina",
+    "away": "Ajax",
+    "date": "2026-07-23T18:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048847",
+    "kickOffTime": "2026-07-23T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SRB",
+        "id": "2368",
+        "translations": {
+          "name": {
+            "EN": "Novi Sad",
+            "FR": "Novi Sad",
+            "DE": "Novi Sad",
+            "ES": "Novi Sad",
+            "PT": "Novi Sad",
+            "IT": "Novi Sad",
+            "RU": "Нови-Сад",
+            "ZH": "诺维·萨德",
+            "AR": "Novi Sad"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Twente",
+    "away": "Ferencvarosi TC",
+    "date": "2026-07-23T18:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048744",
+    "kickOffTime": "2026-07-23T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "NED",
+        "id": "1589",
+        "translations": {
+          "name": {
+            "EN": "Enschede",
+            "FR": "Enschede",
+            "DE": "Enschede",
+            "ES": "Enschede",
+            "PT": "Enschede",
+            "IT": "Enschede",
+            "RU": "Энсхеде",
+            "ZH": "恩斯赫德",
+            "AR": "Enschede"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Hapoel Tel Aviv",
+    "away": "Ludogorets",
+    "date": "2026-07-23T18:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048851",
+    "kickOffTime": "2026-07-23T18:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "HUN",
+        "id": "2243",
+        "translations": {
+          "name": {
+            "EN": "Miskolc",
+            "FR": "Miskolc",
+            "DE": "Miskolc",
+            "ES": "Miskolc",
+            "PT": "Miskolc",
+            "IT": "Miskolc",
+            "RU": "Мишкольц",
+            "ZH": "密什科尔茨",
+            "AR": "Miskolc"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "LNZ Cherkasy",
+    "away": "Gent",
+    "date": "2026-07-23T18:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048849",
+    "kickOffTime": "2026-07-23T18:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "POL",
+        "id": "2517",
+        "translations": {
+          "name": {
+            "EN": "Plock",
+            "FR": "Plock",
+            "DE": "Plock",
+            "ES": "Plock",
+            "PT": "Plock",
+            "IT": "Plock",
+            "RU": "Плоцк",
+            "ZH": "Plock",
+            "AR": "Plock"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "FC Lugano",
+    "away": "Dukagjini",
+    "date": "2026-07-23T18:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048819",
+    "kickOffTime": "2026-07-23T18:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SUI",
+        "id": "2143",
+        "translations": {
+          "name": {
+            "EN": "Lugano",
+            "FR": "Lugano",
+            "DE": "Lugano",
+            "ES": "Lugano",
+            "PT": "Lugano",
+            "IT": "Lugano",
+            "RU": "Лугано",
+            "ZH": "Lugano",
+            "AR": "Lugano"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Borac Banja Luka",
+    "away": "Petrocub",
+    "date": "2026-07-23T18:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048811",
+    "kickOffTime": "2026-07-23T18:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "BIH",
+        "id": "1174",
+        "translations": {
+          "name": {
+            "EN": "Banjaluka",
+            "FR": "Banjaluka",
+            "DE": "Banjaluka",
+            "ES": "Banjaluka",
+            "PT": "Banjaluka",
+            "IT": "Banjaluka",
+            "RU": "Баня-Лука",
+            "ZH": "班哈卢卡",
+            "AR": "Banjaluka"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Žilina",
+    "away": "GKS Katowice",
+    "date": "2026-07-23T18:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048828",
+    "kickOffTime": "2026-07-23T18:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SVK",
+        "id": "3232",
+        "translations": {
+          "name": {
+            "EN": "Žilina",
+            "FR": "Žilina",
+            "DE": "Žilina",
+            "ES": "Žilina",
+            "PT": "Žilina",
+            "IT": "Žilina",
+            "RU": "Жилина",
+            "ZH": "日利纳",
+            "AR": "Žilina"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Bravo",
+    "away": "Shkendija",
+    "date": "2026-07-23T18:45:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048831",
+    "kickOffTime": "2026-07-23T18:45:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SVN",
+        "id": "2105",
+        "translations": {
+          "name": {
+            "EN": "Ljubljana",
+            "FR": "Ljubljana",
+            "DE": "Ljubljana",
+            "ES": "Liubliana",
+            "PT": "Ljubljana",
+            "IT": "Lubiana",
+            "RU": "Любляна",
+            "ZH": "卢布尔雅那",
+            "AR": "Ljubljana"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "NSI Runavik",
+    "away": "Koper",
+    "date": "2026-07-23T18:45:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048759",
+    "kickOffTime": "2026-07-23T18:45:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "FRO",
+        "id": "1959",
+        "translations": {
+          "name": {
+            "EN": "Klaksvik",
+            "FR": "Klaksvík",
+            "DE": "Klaksvík",
+            "ES": "Klaksvík",
+            "PT": "Klaksvík",
+            "IT": "Klaksvík",
+            "RU": "Клаксвик",
+            "ZH": "克拉克斯维克",
+            "AR": "Klaksvik"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "HNK Rijeka",
+    "away": "Derry City",
+    "date": "2026-07-23T18:45:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048817",
+    "kickOffTime": "2026-07-23T18:45:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "CRO",
+        "id": "2622",
+        "translations": {
+          "name": {
+            "EN": "Rijeka",
+            "FR": "Rijeka",
+            "DE": "Rijeka",
+            "ES": "Rijeka",
+            "PT": "Rijeka",
+            "IT": "Rijeka",
+            "RU": "Риека",
+            "ZH": "里耶卡",
+            "AR": "Rijeka"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Shelbourne",
+    "away": "Kalju Nomme",
+    "date": "2026-07-23T18:45:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048833",
+    "kickOffTime": "2026-07-23T18:45:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "IRL",
+        "id": "1538",
+        "translations": {
+          "name": {
+            "EN": "Dublin",
+            "FR": "Dublin",
+            "DE": "Dublin",
+            "ES": "Dublín",
+            "PT": "Dublin",
+            "IT": "Dublino",
+            "RU": "Дублин",
+            "ZH": "都柏林",
+            "AR": "Dublin"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "FK Partizan",
+    "away": "UNA Strassen",
+    "date": "2026-07-23T19:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048761",
+    "kickOffTime": "2026-07-23T19:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "SRB",
+        "id": "1213",
+        "translations": {
+          "name": {
+            "EN": "Belgrade",
+            "FR": "Belgrade",
+            "DE": "Belgrad",
+            "ES": "Belgrado",
+            "PT": "Belgrado",
+            "IT": "Belgrado",
+            "RU": "Белград",
+            "ZH": "贝尔格莱德",
+            "AR": "Belgrade"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Stjarnan",
+    "away": "Ilves",
+    "date": "2026-07-23T19:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048840",
+    "kickOffTime": "2026-07-23T19:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "ISL",
+        "id": "1670",
+        "translations": {
+          "name": {
+            "EN": "Gardabaer",
+            "FR": "Gardabaer",
+            "DE": "Gardabaer",
+            "ES": "Gardabaer",
+            "PT": "Gardabaer",
+            "IT": "Gardabaer",
+            "RU": "Гардабайр",
+            "ZH": "加达巴尔",
+            "AR": "Gardabaer"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "HNK Hajduk Split",
+    "away": "Pafos",
+    "date": "2026-07-23T19:00:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2048746",
+    "kickOffTime": "2026-07-23T19:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "CRO",
+        "id": "2840",
+        "translations": {
+          "name": {
+            "EN": "Split",
+            "FR": "Split",
+            "DE": "Split",
+            "ES": "Split",
+            "PT": "Split",
+            "IT": "Spalato",
+            "RU": "Сплит",
+            "ZH": "斯普里特",
+            "AR": "Split"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Valur Reykjavik",
+    "away": "Zrinjski",
+    "date": "2026-07-23T19:15:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2048834",
+    "kickOffTime": "2026-07-23T19:15:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "ISL",
+        "id": "2612",
+        "translations": {
+          "name": {
+            "EN": "Reykjavik",
+            "FR": "Reykjavik",
+            "DE": "Reykjavík",
+            "ES": "Reikiavik",
+            "PT": "Reiquejavique",
+            "IT": "Reykjavik",
+            "RU": "Рейкьявик",
+            "ZH": "雷克雅维克",
+            "AR": "Reykjavik"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  }
+]

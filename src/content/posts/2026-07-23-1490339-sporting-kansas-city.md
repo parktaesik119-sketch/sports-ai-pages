@@ -1,0 +1,31 @@
+---
+title: "스포르팅 캔자스시티 vs 미네소타 유나이티드 경기분석·라인업·결장자·통계·승부예측 (7월 23일) | MLS - 픽천국"
+date: 2026-07-23T00:30:00+00:00
+description: "스포르팅 캔자스시티 vs 미네소타 유나이티드 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490339-2026-07-23-sporting-kansas-city"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "스포르팅 캔자스시티"
+awayTeam: "미네소타 유나이티드"
+homeLogo: "https://media.api-sports.io/football/teams/1611.png"
+awayLogo: "https://media.api-sports.io/football/teams/1612.png"
+homeAnalysis: "스포르팅 캔자스시티는 2026시즌 리그순위 15위에서 3승 9패 2무, 득실 14-36으로 고전하고 있습니다. 시즌 전체 흐름만 보면 실점 억제가 흔들리면서 경기 후반까지 안정감을 유지하지 못하는 장면이 잦았고, 최근 경기에서도 그 불안이 크게 이어지고 있습니다. 다만 최근 경기 DB에서는 평균 득점 1.2로 완전히 막히기보다는 공격 전개 자체는 어느 정도 이어지고 있어 반등의 실마리는 남아 있습니다. 홈에서 주도권을 잡아야 하는 경기에서는 수비 부담이 커질 때 급격히 흔들리는 모습이 돋보이고, 이런 점은 상위권 상대를 만났을 때 더 크게 드러나고 있습니다. 최근 맞대결에서도 미네소타 유나이티드를 상대로 실점 관리가 어렵다는 흐름이 반복되어 있어, 이번 경기 역시 수비 안정이 가장 중요한 과제로 보입니다."
+awayAnalysis: "미네소타 유나이티드는 2026시즌 리그순위 8위에서 6승 5패 4무, 득실 18-22로 중상위권 경쟁을 이어가고 있습니다. 시즌 전체적으로는 대량 실점이 적고 경기 운영이 비교적 정돈되어 있어, 순위에 걸맞은 안정감이 있는 편입니다. 최근 경기 DB에서는 평균 득점 1.5로 공격 생산이 크게 떨어지지 않았고, 비록 승리 수는 많지 않아도 경기 내용을 완전히 놓치지는 않고 있습니다. 원정에서는 결과가 흔들리는 구간이 있었지만, 수비가 완전히 무너지는 양상보다는 한두 번의 결정적 장면에서 승부가 갈리는 모습이 더 강합니다. 스포르팅 캔자스시티를 상대로는 최근 전적 우위도 분명해서, 이번 경기에서도 경기 흐름을 먼저 가져갈 가능성이 높아 보입니다."
+homePower: "리그순위 15위, 하위권 압박 속 반등 필요함|실점 편차 커서 수비 집중력 기복이 뚜렷함|홈에서도 주도권 잡기보다 버티기 운영이 많음|최근 득점은 이어져도 마무리 완성도는 과제임|미네소타 유나이티드 상대 상성 열세가 반복됨"
+awayPower: "리그순위 8위, 중위권보다 한 단계 안정된 위치임|득실 차가 작아 수비 밸런스가 비교적 견고함|최근 무승부와 패배 속에서도 득점 감각은 유지됨|원정에서도 실점 폭주보다 관리형 경기력이 강점임|스포르팅 캔자스시티 상대로 우세 흐름이 검증됨"
+h2h: '[{"date":"25.10.05","home":"미네소타 유나이티드","away":"스포르팅 캔자스시티","score":"3-0"},{"date":"25.03.16","home":"스포르팅 캔자스시티","away":"미네소타 유나이티드","score":"3-3"},{"date":"24.09.22","home":"스포르팅 캔자스시티","away":"미네소타 유나이티드","score":"0-2"},{"date":"24.06.02","home":"미네소타 유나이티드","away":"스포르팅 캔자스시티","score":"3-1"},{"date":"24.04.28","home":"미네소타 유나이티드","away":"스포르팅 캔자스시티","score":"2-1"}]'
+summary: "미네소타 유나이티드는 리그순위 8위와 득실 18-22가 보여주듯, 스포르팅 캔자스시티보다 시즌 전력의 균형이 더 좋습니다. 스포르팅 캔자스시티는 리그순위 15위에 득실 14-36으로 내려앉아 있어 실점 관리에서 분명한 약점이 드러나고 있습니다. 최근 맞대결에서도 미네소타 유나이티드가 우세한 흐름을 이어왔고, 이번 경기 역시 원정팀이 경기 운영과 결정력에서 한발 앞설 가능성이 높아 보입니다. 특히 홈팀이 최근 들어 득점은 이어가도 수비 흔들림을 끊지 못하고 있어, 전반적인 전력 차가 결과로 이어질 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.17","home":"세인트루이스 시티","away":"스포르팅 캔자스시티","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490327-2026-07-17-st-louis-city/"},{"date":"26.05.24","home":"스포르팅 캔자스시티","away":"뉴욕 레드불스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490316-2026-05-24-sporting-kansas-city/"},{"date":"26.05.17","home":"오스틴 FC","away":"스포르팅 캔자스시티","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490303-2026-05-17-austin/"},{"date":"26.05.10","home":"포틀랜드 팀버스","away":"스포르팅 캔자스시티","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490277-2026-05-10-portland-timbers/"},{"date":"26.04.26","home":"시카고 파이어","away":"스포르팅 캔자스시티","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490244-2026-04-26-chicago-fire/"}]'
+awayRecent: '[{"date":"26.05.24","home":"미네소타 유나이티드","away":"레알 솔트레이크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490317-2026-05-24-minnesota-united-fc/"},{"date":"26.05.17","home":"뉴잉글랜드 레볼루션","away":"미네소타 유나이티드","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490300-2026-05-17-new-england-revolution/"},{"date":"26.05.11","home":"미네소타 유나이티드","away":"오스틴 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490279-2026-05-11-minnesota-united-fc/"},{"date":"26.04.29","home":"새너제이 어스퀘이크스","away":"미네소타 유나이티드","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1540855-2026-04-29-san-jose-earthquakes/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "미네소타 유나이티드"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 유나이티드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
