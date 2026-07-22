@@ -1601,6 +1601,7 @@ const TEAM_NAME_MAP = {
   "Yverdon Sport": "이베르동스포르",
   "Neuchatel Xamax FC": "뇌샤텔 크사막스 FCS",
   "Étoile Carouge": "에투알 카루주",
+  "Radnicki NIS": "FK 라드니츠키 니슈",
 
   
   //중국축구
