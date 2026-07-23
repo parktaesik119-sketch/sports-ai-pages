@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 G. Williams (10-5, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+homeLineup: "[\"선발투수 G. Williams (10-5, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\",\"1번 S. Kwan (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\",\"2번 J. Ramirez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/32801.png\",\"3번 C. DeLauter (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png\",\"4번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\",\"5번 T. Bazzana (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png\",\"6번 R. Hoskins (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/35291.png\",\"7번 K. Manzardo (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4917927.png\",\"8번 P. Bailey (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4345843.png\",\"9번 P. Halpin (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4722962.png\"]"
 awayLineup: "[\"선발투수 T. Bradley (9-4, 3.85) ERA 3.85|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
 ---
