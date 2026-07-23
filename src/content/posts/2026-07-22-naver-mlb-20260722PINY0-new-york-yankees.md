@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 W. Warren (7-4, 4.03) ERA 4.03|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\"]"
-awayLineup: "[\"선발투수 B. Chandler (3-8, 4.77) ERA 4.77|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
+homeLineup: "[\"선발투수 W. Warren (7-4, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\"]"
+awayLineup: "[\"선발투수 B. Chandler (3-8, 4.47) ERA 4.47|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
 ---
