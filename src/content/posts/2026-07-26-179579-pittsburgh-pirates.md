@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 P. Skenes (9-8, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
+awayLineup: "[\"선발투수 S. Imanaga (6-8, 3.91) ERA 3.91|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
 ---

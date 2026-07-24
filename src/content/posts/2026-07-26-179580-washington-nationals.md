@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 F. Griffin (11-2, 2.68) ERA 2.68|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
+awayLineup: "[\"선발투수 M. Bratt (0-0, 5.06) ERA 5.06|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
 ---

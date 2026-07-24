@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Yuya Yanagi (4-3, 2.50)|https://p.npb.jp/players_photo/2026/180/d/017_63165134.jpg\"]"
+awayLineup: "[\"선발투수 Katsuki Azuma (7-5, 2.72)|https://p.npb.jp/players_photo/2026/180/db/011_51155136.jpg\"]"
 ---

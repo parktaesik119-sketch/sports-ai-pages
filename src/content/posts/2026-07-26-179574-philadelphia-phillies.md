@@ -28,4 +28,5 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+awayLineup: "[\"선발투수 R. Weathers (3-7, 4.40) ERA 4.40|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\"]"
 ---

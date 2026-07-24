@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 R. Ray (8-6, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/32175.png\"]"
+awayLineup: "[\"선발투수 R. Johnson (2-4, 6.10) ERA 6.10|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 T. Rogers (6-7, 4.28) ERA 4.28|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (6-4, 3.70) ERA 3.70|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
 ---

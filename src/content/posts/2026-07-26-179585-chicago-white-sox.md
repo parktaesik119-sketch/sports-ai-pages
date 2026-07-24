@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 S. Burke (7-4, 3.20) ERA 3.20|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
+awayLineup: "[\"선발투수 H. Brown (1-1, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
 ---

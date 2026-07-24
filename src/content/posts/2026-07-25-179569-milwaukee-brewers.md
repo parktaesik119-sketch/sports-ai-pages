@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Drohan (5-3, 3.20) ERA 3.20|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
+awayLineup: "[\"선발투수 T. Sugano (9-4, 4.76) ERA 4.76|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
 ---

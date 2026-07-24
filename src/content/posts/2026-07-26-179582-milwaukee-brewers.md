@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Gasser (2-4, 4.91) ERA 4.91|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
+awayLineup: "[\"선발투수 R. Feltner (3-4, 5.48) ERA 5.48|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
 ---

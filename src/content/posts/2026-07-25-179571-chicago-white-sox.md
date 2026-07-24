@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 D. Martin (9-5, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
+awayLineup: "[\"선발투수 S. Arrighetti (7-5, 4.34) ERA 4.34|https://a.espncdn.com/i/headshots/mlb/players/full/4726080.png\"]"
 ---

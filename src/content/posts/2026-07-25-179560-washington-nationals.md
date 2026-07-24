@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 C. Palmquist (0-1, 8.74) ERA 8.74|https://a.espncdn.com/i/headshots/mlb/players/full/4621424.png\"]"
+awayLineup: "[\"선발투수 E. Rodriguez (8-3, 2.62) ERA 2.62|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
 ---

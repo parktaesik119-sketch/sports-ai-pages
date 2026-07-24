@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 J. Jones (2-1, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (6-1, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
 ---

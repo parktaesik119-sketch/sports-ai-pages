@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 J. Luzardo (9-4, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
+awayLineup: "[\"선발투수 C. Schlittler (9-6, 2.20) ERA 2.20|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
 ---
