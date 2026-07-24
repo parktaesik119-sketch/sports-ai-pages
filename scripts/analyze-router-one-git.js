@@ -1978,7 +1978,7 @@ const winnerIsHome = homeNames.some(n =>
     away: TEAM_NAME_MAP[m.away] || m.away,
     score: (typeof m.homeScore === 'number' && typeof m.awayScore === 'number') ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
     result: (() => {
-  const isHomeTeam = m.home === match.home;
+  const isHomeTeam = m.home === (TEAM_NAME_MAP[match.home] || match.home);
   const my = isHomeTeam ? Number(m.homeScore) : Number(m.awayScore);
   const op = isHomeTeam ? Number(m.awayScore) : Number(m.homeScore);
   if (isNaN(my) || isNaN(op)) return '-';
@@ -1992,12 +1992,12 @@ const winnerIsHome = homeNames.some(n =>
     away: TEAM_NAME_MAP[m.away] || m.away,
     score: (typeof m.homeScore === 'number' && typeof m.awayScore === 'number') ? `${m.homeScore}-${m.awayScore}` : (m.score || '-'),
     result: (() => {
-      const isHomeTeam = m.home === match.away;
-      const my = isHomeTeam ? Number(m.homeScore) : Number(m.awayScore);
-      const op = isHomeTeam ? Number(m.awayScore) : Number(m.homeScore);
-      if (isNaN(my) || isNaN(op)) return '-';
-      return my > op ? '🟢승' : my < op ? '🔴패' : '🟡무';
-    })()
+  const isHomeTeam = m.home === (TEAM_NAME_MAP[match.away] || match.away);
+  const my = isHomeTeam ? Number(m.homeScore) : Number(m.awayScore);
+  const op = isHomeTeam ? Number(m.awayScore) : Number(m.homeScore);
+  if (isNaN(my) || isNaN(op)) return '-';
+  return my > op ? '🟢승' : my < op ? '🔴패' : '🟡무';
+})()
   })));
 
 const content = `---
