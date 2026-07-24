@@ -40,7 +40,7 @@ function getSafeLogoName(teamName) {
 function convertLeagueName(rawLeague) {
   let name = rawLeague || "스포츠";
   const leagueReplacements = [
-    { target: /^(Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League)$/i, replace: "P.L" },
+    { target: /^(Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League)$/i, replace: "프리미어리그" },
     { target: /^Challengers League$/i, replace: "CL" },
     { target: /^LCK CHALLENGERS LEAGUE$/i, replace: "LCK CL" },
     { target: /^Friendly International$/i, replace: "국제친선" },

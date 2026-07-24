@@ -965,7 +965,10 @@ const TEAM_NAME_MAP = {
   "Gremio": "그레미우",
   "Independ. Rivadavia": "인디펜디엔테 리바다비아",
   "Alianza Atletico": "알리안자 아틀레티코",
-  "Macara": "마카라",
+  "Macara": "마카라",  
+  "Chico": "보야카 치코",
+  "Deportivo Pasto": "데포르티보 파스토",
+  "Bucaramanga": "부카라망가",
 
   // 프리미어십 (스코틀랜드)
   "Aberdeen": "애버딘",
@@ -1059,9 +1062,8 @@ const TEAM_NAME_MAP = {
   "CSKA Moscow": "CSFA 모스크바",
   "Dynamo": "디나모 모스크바",
   "Krylia Sovetov": "크릴리야 소베토프 사마라",
-  "Chico": "보야카 치코",
-  "Deportivo Pasto": "데포르티보 파스토",
-  "Bucaramanga": "부카라망가",
+  "Fakel": "FC 파켈 보로네시",
+  "Spartak Moscow": "스파르타크 모스크바",
 
 
   // HNL (크로아티아)
@@ -1255,6 +1257,9 @@ const TEAM_NAME_MAP = {
   "Slovenia W": "슬로베니아",
   "Luxembourg": "룩셈부르크",
   "Luxembourg W": "룩셈부르크",
+  "Philippines": "필리핀",
+  "Guam": "괌",
+  "Kuwait": "쿠웨이트",
 
 
   // 코파 리베르타도레스 / 수다메리카나 주요팀
@@ -1284,6 +1289,7 @@ const TEAM_NAME_MAP = {
   "Estudiantes L.P.": "에스투디안테스",
   "Tigre": "티그레",
   "Jaguares": "하우가레스 코르도바",
+  "Popayan": "우니베르시타리오 포파얀",
 
   // 프리미어 디비전 (아일랜드)
   "Bohemians": "보헤미안스",
@@ -1403,6 +1409,7 @@ const TEAM_NAME_MAP = {
   "Servette FC": "세르베트",
   "FC Basel 1893": "FC 바젤 1893",
   "Stade Nyonnais": "스타드 니옹",
+  "FC Luzern": "FC 루체른",
 
   //UEFA
   "Ararat-Armenia": "아라라트 아르메니아",
@@ -1657,7 +1664,9 @@ const TEAM_NAME_MAP = {
   "Nantong Zhiyun": "난퉁 지윈",
   "Chengdu Better City": "청두 룽청",
   "Zhejiang FC": "저장 FC",
-  "Jiangxi Liansheng": "장시 롄성"
+  "Jiangxi Liansheng": "장시 롄성",
+  "Rizhao Yuqi": "리조우 위치",
+  "Dalian Kewei": "다롄 케웨이"
 
 };
 
