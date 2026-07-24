@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 S. Drohan (5-3, 3.20) ERA 3.20|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
-awayLineup: "[\"선발투수 T. Sugano (9-4, 4.76) ERA 4.76|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
+awayLineup: "[\"선발투수 T. Sugano (9-4, 4.76) ERA 4.76|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\",\"1번 J. McCarthy (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 K. Karros (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5203102.png\",\"3번 C. Carrigg (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"4번 H. Goodman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"5번 W. Castro (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"6번 T. Johnston (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4346111.png\",\"7번 M. Moniak (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"8번 T. Freeman (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40958.png\",\"9번 E. Tovar (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png\"]"
 ---
