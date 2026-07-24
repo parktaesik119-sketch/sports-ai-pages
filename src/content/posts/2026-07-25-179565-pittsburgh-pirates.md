@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 J. Jones (2-1, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
-awayLineup: "[\"선발투수 M. Boyd (6-1, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (6-1, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\",\"1번 P. Crow-Armstrong (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png\",\"2번 S. Suzuki (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png\",\"3번 M. Busch (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42415.png\",\"4번 A. Bregman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34886.png\",\"5번 I. Happ (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/34945.png\",\"6번 N. Hoerner (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41219.png\",\"7번 P. Ramirez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5012995.png\",\"8번 C. Kelly (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32797.png\",\"9번 D. Swanson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/34895.png\"]"
 ---
