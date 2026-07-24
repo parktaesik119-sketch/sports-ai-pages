@@ -49,6 +49,8 @@ const COUNTRY_MAP = {
   'Armenia': '아르메니아',
   'Georgia': '조지아',
   'Pakistan': '파키스탄',
+  "Myanmar": "미얀마",
+  "Laos": "라오스",
 
   // ===== 유럽 =====
   'Europe': '유럽',

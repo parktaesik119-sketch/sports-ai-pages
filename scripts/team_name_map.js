@@ -1054,6 +1054,16 @@ const TEAM_NAME_MAP = {
   "Universitatea Cluj": "우니베르시타테아 클루지",
   "Universitatea Craiova": "Univ 크라이오바",
 
+  //러시아
+  "Baltika": "FC 발티카 칼리닌그라드",
+  "CSKA Moscow": "CSFA 모스크바",
+  "Dynamo": "디나모 모스크바",
+  "Krylia Sovetov": "크릴리야 소베토프 사마라",
+  "Chico": "보야카 치코",
+  "Deportivo Pasto": "데포르티보 파스토",
+  "Bucaramanga": "부카라망가",
+
+
   // HNL (크로아티아)
   "Dinamo Zagreb": "디나모 자그레브",
   "HNK Gorica": "HNK 고리차",
@@ -1273,6 +1283,7 @@ const TEAM_NAME_MAP = {
   "Rosario Central": "로사리오 센트랄",
   "Estudiantes L.P.": "에스투디안테스",
   "Tigre": "티그레",
+  "Jaguares": "하우가레스 코르도바",
 
   // 프리미어 디비전 (아일랜드)
   "Bohemians": "보헤미안스",
@@ -1330,6 +1341,13 @@ const TEAM_NAME_MAP = {
   // ASEAN Championship
   "Brunei": "브루나이",
   "Timor-Leste": "동티모르",
+  "Laos": "라오스",
+  "Myanmar": "미얀마",
+  "Malaysia": "말레이시아",
+  "Singapore": "싱가포르",
+  "Cambodia": "캄보디아",
+  "Vietnam": "베트남",
+
 
   // 기타 주요 단일팀
   "CONCACAF Champions League": "CONCACAF 챔피언스리그",
@@ -1378,6 +1396,13 @@ const TEAM_NAME_MAP = {
   "Boston River": "보스톤 리베르",
   "Racing Montevideo": "라싱 몬테비데오",
 
+  //스위스
+  "Lausanne": "로잔 스포르",
+  "Grasshoppers": "그라스호퍼",
+  "FC Aarau": "FC 아라우",
+  "Servette FC": "세르베트",
+  "FC Basel 1893": "FC 바젤 1893",
+  "Stade Nyonnais": "스타드 니옹",
 
   //UEFA
   "Ararat-Armenia": "아라라트 아르메니아",
@@ -1602,6 +1627,7 @@ const TEAM_NAME_MAP = {
   "Neuchatel Xamax FC": "뇌샤텔 크사막스 FCS",
   "Étoile Carouge": "에투알 카루주",
   "Radnicki NIS": "FK 라드니츠키 니슈",
+  "Slavia Praha": "슬라비아 프라하",
 
   
   //중국축구

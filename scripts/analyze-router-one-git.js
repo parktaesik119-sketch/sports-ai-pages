@@ -44,7 +44,6 @@ function convertLeagueName(rawLeague) {
     { target: /^Challengers League$/i, replace: "CL" },
     { target: /^LCK CHALLENGERS LEAGUE$/i, replace: "LCK CL" },
     { target: /^Friendly International$/i, replace: "국제친선" },
-    { target: /^Super League$/i, replace: "SL" },
     { target: /^Major League Soccer$/i, replace: "MLS" },
     { target: /^African Club Championship$/i, replace: "CAF" },
     { target: /^K League 1$/i, replace: "K1" },
