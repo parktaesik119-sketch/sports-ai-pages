@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Hideaki Wakui (2-0, 2.73)|https://p.npb.jp/players_photo/2026/180/d/020_31635110.jpg\"]"
+awayLineup: "[\"선발투수 Osvaldo Bido|https://p.npb.jp/players_photo/2026/180/db/042_13015152.jpg\"]"
 ---
