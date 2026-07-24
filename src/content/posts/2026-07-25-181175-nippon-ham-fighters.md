@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Takayuki Katoh (10-1, 2.63)|https://p.npb.jp/players_photo/2026/180/f/014_41545132.jpg\"]"
+awayLineup: "[\"선발투수 Kosei Shoji (5-8, 4.25)|https://p.npb.jp/players_photo/2026/180/e/019_21925157.jpg\"]"
 ---
