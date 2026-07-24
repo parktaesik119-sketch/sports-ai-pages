@@ -1,0 +1,31 @@
+---
+title: "아틀레티코 파라나엔세 vs 인테르나시오나우 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | 세리에 A - 픽천국"
+date: 2026-07-25T21:30:00+00:00
+description: "아틀레티코 파라나엔세 vs 인테르나시오나우 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1492300-2026-07-26-atletico-paranaense"
+category: "soccer"
+country: "브라질"
+league: "세리에 A"
+homeTeam: "아틀레티코 파라나엔세"
+awayTeam: "인테르나시오나우"
+homeLogo: "https://media.api-sports.io/football/teams/134.png"
+awayLogo: "https://media.api-sports.io/football/teams/119.png"
+homeAnalysis: "아틀레티코 파라나엔세는 2026시즌 전체 DB 기준 최근 9경기 4승 2무 3패, 평균 득점 1.1을 기록하며 안정적인 득점 루틴을 보여주고 있습니다. 최근에는 상파울루 원정 승리처럼 힘 있는 상대를 상대로도 결과를 만들었고, 미라솔전과 헤무전에서도 필요한 순간에 득점을 챙기며 경기 운영의 밸런스를 유지했습니다. 다만 홈에서는 득점이 한 번 끊기면 경기 흐름이 답답해지는 장면도 보였고, 무실점 경기와 실점 경기가 함께 섞이면서 수비 집중력의 들쭉날쭉함이 드러났습니다. 전체적으로는 홈에서 과감하게 버티는 힘이 있지만, 최근 경기 내용만 보면 마무리 효율이 아주 높다고 보기는 어려운 편입니다. 그래도 상파울루 원정처럼 강한 상대를 상대로도 버텨낸 점은 충분히 주목할 만합니다."
+awayAnalysis: "인테르나시오나우는 2026시즌 전체 DB 기준 최근 6경기 2승 1무 3패, 평균 득점 1.3으로 공격 전개 자체는 나쁘지 않지만 결과의 안정감은 부족한 모습입니다. 최근 경기에서는 크루제이루전 패배와 브라간치누전 패배처럼 실점이 늘어나는 흐름이 있었고, 비토리아전과 같은 원정에서는 공격 전개가 막히며 답답함이 커졌습니다. 반면 바스쿠 다 가마전과 플루미넨시전에서는 득점을 앞세워 승리를 챙기며, 공격 자원이 살아날 때는 한 번에 흐름을 바꿀 수 있는 팀으로 보입니다. 다만 최근 원정 흐름만 보면 수비 쪽 흔들림이 더 크게 드러나고 있어, 경기 초반 실점 여부가 매우 중요해 보입니다. 공격에서 주도권을 잡을 때는 위협적이지만, 압박 강도가 올라가면 전개가 끊기는 장면이 적지 않습니다."
+homePower: "최근 원정 승리로 역습 완성도는 살아있음|홈에서는 무실점 운영 시 승점 확보력 높음|득점 편차가 작아 경기 설계는 안정적임|실점이 늘면 공격 전개까지 흔들리는 구조임|상파울루 제압으로 강팀 상대로도 버팀 검증됨"
+awayPower: "득점 잠재력은 있으나 기복이 큰 편임|원정 실점 관리가 흔들려 승부가 길어짐|한 번 흐름을 타면 다득점 전개 가능함|최근 패배가 많아 경기 초반 압박 대응이 중요함|공격 자원 살아날 때 상위권 상대로도 위협적임"
+h2h: '[]'
+summary: "아틀레티코 파라나엔세는 홈에서 버티는 힘이 있고, 인테르나시오나우는 공격 재능은 있으나 최근 전력의 흔들림이 더 크게 보입니다. 두 팀 모두 득점 흐름은 완전히 막혀 있지 않지만, 수비 안정감에서는 인테르나시오나우 쪽의 부담이 더 커 보입니다. 경기 양상은 한쪽이 일방적으로 밀기보다는 팽팽하게 흘러갈 가능성이 높고, 결국은 후반 집중력과 실수 관리가 승부를 가를 것으로 보입니다. 전반적인 전력과 최근 흐름을 함께 놓고 보면 인테르나시오나우가 근소하게 우위를 점할 가능성이 높지만, 접전 양상 자체는 충분히 예상됩니다."
+homeRecent: '[{"date":"26.07.23","home":"상파울루","away":"아틀레티코 파라나엔세","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1492298-2026-07-23-sao-paulo/"},{"date":"26.07.11","home":"RB 브라간치누","away":"아틀레티코 파라나엔세","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1584818-2026-07-11-rb-bragantino/"},{"date":"26.07.09","home":"보카 주니어스","away":"아틀레티코 파라나엔세","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1583233-2026-07-09-boca-juniors/"},{"date":"26.05.31","home":"아틀레티코 파라나엔세","away":"미라솔","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1492280-2026-05-31-atletico-paranaense/"},{"date":"26.05.25","home":"헤무","away":"아틀레티코 파라나엔세","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1492276-2026-05-25-remo/"}]'
+awayRecent: '[{"date":"26.07.23","home":"인테르나시오나우","away":"크루제이루","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1492296-2026-07-23-internacional/"},{"date":"26.05.31","home":"RB 브라간치누","away":"인테르나시오나우","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1492282-2026-05-31-rb-bragantino/"},{"date":"26.05.24","home":"비토리아","away":"인테르나시오나우","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1492279-2026-05-24-vitoria/"},{"date":"26.05.17","home":"인테르나시오나우","away":"바스코 다 가마","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1492267-2026-05-17-internacional/"},{"date":"26.05.04","home":"인테르나시오나우","away":"플루미넨세","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1492245-2026-05-04-internacional/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

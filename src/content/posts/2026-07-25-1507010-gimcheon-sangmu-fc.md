@@ -1,0 +1,31 @@
+---
+title: "김천 상무 FC vs 대전 시티즌 경기분석·라인업·결장자·통계·승부예측 (7월 25일) | K1 - 픽천국"
+date: 2026-07-25T10:30:00+00:00
+description: "김천 상무 FC vs 대전 시티즌 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1507010-2026-07-25-gimcheon-sangmu-fc"
+category: "soccer"
+country: "대한민국"
+league: "K1"
+homeTeam: "김천 상무 FC"
+awayTeam: "대전 시티즌"
+homeLogo: "https://media.api-sports.io/football/teams/2768.png"
+awayLogo: "https://media.api-sports.io/football/teams/2750.png"
+homeAnalysis: "김천 상무 FC는 2026시즌 전체 DB 기준 0승 3무 3패, 평균 득점 0.7로 득점 생산이 아쉽고 승리 전환이 쉽지 않은 흐름입니다. 최근에도 짧은 시간 안에 경기 흐름을 끝내지 못하고 버티는 장면이 자주 보였고, 실점 억제는 어느 정도 이어졌지만 결정적인 순간의 마무리가 부족했습니다. 홈에서는 버티는 힘이 완전히 무너지지는 않았지만, 우세한 흐름을 결과로 연결하지 못하는 점이 계속 부담으로 남아 있습니다. 다만 1득점 안팎의 경기 비중이 높아 수비 집중력과 세트 상황 대응은 비교적 유지되고 있습니다. 전반적으로 수비적으로 쉽게 무너지는 팀은 아니지만, 공격 쪽에서 한 번에 분위기를 바꾸는 힘은 약한 편으로 보입니다."
+awayAnalysis: "대전 시티즌은 2026시즌 전체 DB 기준 1승 5무 1패, 평균 득점 1.3으로 경기마다 득점 실마리를 꾸준히 만들고 있습니다. 최근 흐름에서도 패배를 잘 허용하지 않으면서 점유와 압박을 바탕으로 경기를 안정적으로 끌고 가는 모습이 이어지고 있습니다. 특히 원정에서도 득점이 완전히 끊기지 않고, 한 골 이상을 노릴 수 있는 전개가 유지되고 있다는 점이 돋보입니다. 다만 무승부가 잦아 공격 완성도가 폭발적으로 올라가는 단계는 아니며, 상대가 버티는 경기에서는 마무리 효율이 관건이 됩니다. 그래도 전체적으로는 실점 관리와 공격 전개 균형이 김천 상무 FC보다 한 단계 더 안정적으로 평가됩니다."
+homePower: "득점보다 버티는 전개가 먼저 살아나는 구조임|결정력 부족이 승부를 끝내지 못하는 핵심 변수임|실점 억제는 되지만 주도권 전환이 더딤|저득점 경기 적응은 되었으나 폭발력은 제한적임|홈에서 한 방이 필요할 때 응답이 약한 편임"
+awayPower: "끊기지 않는 득점 루트가 경기 안정성으로 이어짐|무패 흐름이 전술적 일관성을 뒷받침함|원정에서도 공격 템포 유지가 가능한 편임|다만 마무리 집중도는 경기마다 편차가 보임|김천 상무 FC보다 전력 완성도가 높게 검증됨"
+h2h: '[]'
+summary: "김천 상무 FC는 시즌 전력상 득점 효율이 낮아 경기 주도권을 잡아도 이를 결과로 굳히는 힘이 약하게 보입니다. 반면 대전 시티즌은 평균 득점과 최근 흐름이 더 안정적이고, 쉽게 패배하지 않는 운영이 이어지고 있어 전력 우위가 분명합니다. 이런 흐름이라면 경기 전체의 무게 중심은 대전 시티즌 쪽으로 기울 가능성이 높고, 김천 상무 FC는 수비로 버티더라도 끝까지 상대 압박을 견디기 어려울 수 있습니다."
+homeRecent: '[{"date":"26.07.22","home":"광주 FC","away":"김천 상무 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1507008-2026-07-22-gwangju-fc/"},{"date":"26.07.18","home":"강원 FC","away":"김천 상무 FC","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1506999-2026-07-18-gangwon-fc/"},{"date":"26.07.11","home":"김천 상무 FC","away":"부천 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1506992-2026-07-11-gimcheon-sangmu-fc/"},{"date":"26.07.05","home":"김천 상무 FC","away":"제주 유나이티드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1506989-2026-07-05-gimcheon-sangmu-fc/"},{"date":"26.05.17","home":"전북 현대","away":"김천 상무 FC","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1506983-2026-05-17-jeonbuk-motors/"}]'
+awayRecent: '[{"date":"26.07.21","home":"전북 현대","away":"대전 시티즌","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1507005-2026-07-21-jeonbuk-motors/"},{"date":"26.07.18","home":"대전 시티즌","away":"울산 HD FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1506998-2026-07-18-daejeon-citizen/"},{"date":"26.07.12","home":"제주 유나이티드","away":"대전 시티즌","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1506996-2026-07-12-jeju-united-fc/"},{"date":"26.07.04","home":"대전 시티즌","away":"부천 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1506987-2026-07-04-daejeon-citizen/"},{"date":"26.05.16","home":"대전 시티즌","away":"FC 서울","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1506980-2026-05-16-daejeon-citizen/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "대전 시티즌"
+pickWinResult: "승"
+pickHandicapTeam: "대전 시티즌"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

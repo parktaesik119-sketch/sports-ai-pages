@@ -1,0 +1,31 @@
+---
+title: "필라델피아 유니온 vs 시애틀 사운더스 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | MLS - 픽천국"
+date: 2026-07-25T23:30:00+00:00
+description: "필라델피아 유니온 vs 시애틀 사운더스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490348-2026-07-26-philadelphia-union"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "필라델피아 유니온"
+awayTeam: "시애틀 사운더스"
+homeLogo: "https://media.api-sports.io/football/teams/1599.png"
+awayLogo: "https://media.api-sports.io/football/teams/1595.png"
+homeAnalysis: "필라델피아 유니온은 2026시즌 전체 DB 기준으로 최근 3경기 1승 1무 1패, 평균 득점 2.7을 기록하며 공격 전개 자체는 나쁘지 않은 흐름입니다. 다만 최근 경기 DB에서는 같은 기간 0승 1무 2패, 평균 득점 2.0으로 기세가 다소 꺾인 모습이라, 득점력은 유지되지만 수비 안정감이 흔들리는 점이 함께 보입니다. 현재 리그순위 15위에 머물러 있어 시즌 전체 성적과 최근 흐름의 간극이 큰 편이며, 순위와 달리 경기력 반등 가능성을 보여주고 있습니다. 홈에서는 공격 전환이 빠르고 주도권을 잡을 때 득점 생산이 살아나는 편이라 이런 부분이 강점으로 평가됩니다. 다만 실점 허용이 많은 장면이 반복되면 우세를 오래 이어가기는 쉽지 않아, 초반 집중력이 특히 중요해 보입니다."
+awayAnalysis: "시애틀 사운더스는 2026시즌 전체 DB 기준으로 최근 6경기 1승 1무 4패, 평균 득점 0.8로 공격 생산성이 크게 떨어진 상태입니다. 최근 경기 DB에서는 최근 6경기 2승 1무 3패, 평균 득점 1.7로 조금 나아진 흐름이지만, 리그순위 6위라는 위치에 비해 최근 전력은 고점 대비 주춤한 모습입니다. 득실이 19-19로 균형에 가까운 수치인 만큼, 폭발적인 공격보다 버티는 운영에 더 강점이 있는 팀으로 보입니다. 원정에서는 득점 기복이 남아 있어 경기 흐름을 먼저 내주면 회복이 쉽지 않은 점이 아쉬움으로 작용합니다. 다만 수비를 정리해 접전을 만들면 충분히 버틸 힘은 남아 있는 팀으로 평가됩니다."
+homePower: "홈에서 공격 템포가 살아나면 경기 주도권을 빠르게 잡는 유형임|최근 순위 대비 경기 내용은 반등 조짐이 보임|실점 관리가 흔들리면 강점이 바로 상쇄되는 구조임|전방 전개 속도는 빠르나 마무리 집중력이 변수로 보임|리그순위 하위권이지만 홈 에너지로 격차를 줄일 가능성 있음"
+awayPower: "시애틀 사운더스는 리그순위 6위의 안정감이 남아 있음|득실이 균형이라 수비 기반 운영이 비교적 탄탄함|최근 득점 기복이 커서 선제 실점 시 답답함이 커짐|원정에서는 점유보다 효율적인 마무리가 더 중요함|고점 대비 주춤하지만 접전으로 끌고 가는 힘은 검증됨"
+h2h: '[{"date":"24.05.01","home":"필라델피아 유니온","away":"시애틀 사운더스","score":"2-3"},{"date":"19.05.19","home":"필라델피아 유니온","away":"시애틀 사운더스","score":"0-0"},{"date":"18.09.20","home":"시애틀 사운더스","away":"필라델피아 유니온","score":"0-1"},{"date":"17.10.02","home":"필라델피아 유니온","away":"시애틀 사운더스","score":"2-0"},{"date":"16.04.17","home":"시애틀 사운더스","away":"필라델피아 유니온","score":"2-1"}]'
+summary: "필라델피아 유니온은 리그순위 15위지만 최근 경기 흐름에서 반등 조짐이 보이고, 시애틀 사운더스는 리그순위 6위임에도 최근 득점 흐름이 매끄럽지 않아 현재 전력 차가 생각보다 크지 않게 느껴집니다. 다만 필라델피아 유니온은 평균 득점이 살아 있는 반면 수비 흔들림이 있고, 시애틀 사운더스는 득실 균형은 좋지만 공격 효율이 떨어져 답답한 경기가 이어지고 있습니다. 상대전적에서는 접전 양상이 자주 나왔고 서로 한 번씩 주도권을 잡은 적도 있어, 이번에도 초반 흐름과 선제 득점이 승부를 가를 가능성이 높습니다. 전반적인 전력과 홈 이점을 함께 보면 필라델피아 유니온이 조금 더 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.23","home":"필라델피아 유니온","away":"뉴욕 레드불스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490334-2026-07-23-philadelphia-union/"},{"date":"26.05.25","home":"인터 마이애미","away":"필라델피아 유니온","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490323-2026-05-25-inter-miami/"},{"date":"26.05.17","home":"필라델피아 유니온","away":"콜럼버스 크루","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490295-2026-05-17-philadelphia-union/"}]'
+awayRecent: '[{"date":"26.07.23","home":"오스틴 FC","away":"시애틀 사운더스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490337-2026-07-23-austin/"},{"date":"26.07.17","home":"시애틀 사운더스","away":"포틀랜드 팀버스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490328-2026-07-17-seattle-sounders/"},{"date":"26.05.25","home":"LA FC","away":"시애틀 사운더스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490324-2026-05-25-los-angeles-fc/"},{"date":"26.05.17","home":"시애틀 사운더스","away":"LA 갤럭시","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490304-2026-05-17-seattle-sounders/"},{"date":"26.05.10","home":"시애틀 사운더스","away":"샌디에이고 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490275-2026-05-10-seattle-sounders/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "필라델피아 유니온"
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

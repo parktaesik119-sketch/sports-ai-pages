@@ -1,0 +1,31 @@
+---
+title: "뉴잉글랜드 레볼루션 vs 애틀랜타 유나이티드 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | MLS - 픽천국"
+date: 2026-07-25T23:30:00+00:00
+description: "뉴잉글랜드 레볼루션 vs 애틀랜타 유나이티드 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490351-2026-07-26-new-england-revolution"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "뉴잉글랜드 레볼루션"
+awayTeam: "애틀랜타 유나이티드"
+homeLogo: "https://media.api-sports.io/football/teams/1609.png"
+awayLogo: "https://media.api-sports.io/football/teams/1608.png"
+homeAnalysis: "뉴잉글랜드 레볼루션은 2026시즌 리그순위 4위에서 8승 5패 2무, 득실 22-18(+4.0)을 기록하며 상위권 전력을 유지하고 있습니다. 최근에는 1승 1무 2패로 흐름이 다소 묶여 있지만, 홈에서 토론토 FC전 무실점과 미네소타 유나이티드전 승리처럼 기본적인 수비 안정감은 확인되고 있습니다. 평균 득점 1.3으로 폭발적인 화력은 아니지만, 무리하지 않고 경기의 균형을 지키는 운영이 강점으로 보입니다. 다만 올랜도 시티전처럼 실점이 한 번 흔들리면 경기 전체가 어려워질 수 있어 마무리 집중력은 보완이 필요합니다. 그럼에도 홈에서의 경기 운영과 리그순위가 보여주는 안정감은 이번 경기에서도 충분한 우위 요소로 평가됩니다."
+awayAnalysis: "애틀랜타 유나이티드는 2026시즌 리그순위 14위에서 3승 10패 3무, 득실 16-26(-10.0)을 기록하며 하위권에 머물고 있습니다. 최근 6경기에서도 1승 2무 3패로 반등 폭이 크지 않고, 평균 득점 1.0에 그쳐 공격 전개가 매끄럽지 않은 모습입니다. 샬럿 FC 원정에서 2득점을 올린 장면은 분명 긍정적이지만, 내슈빌 SC와 콜럼버스 크루, 올랜도 시티를 상대로는 득점이 막히면서 전력 기복이 드러났습니다. 실점 관리 역시 안정적이지 않아 한 번 밀리면 따라가기 어려운 흐름이 반복되고 있습니다. 최근 결과가 순위보다 조금씩 나아지는 듯한 장면은 있으나, 전체적으로는 아직 전열 재정비가 더 필요한 상태로 보입니다."
+homePower: "리그순위 4위로 상위권 운영력은 검증됨|홈에서 무실점 가능해 수비 밸런스가 좋음|실점 억제되면 저득점 승부에 강한 구조임|공격 폭발력보다 경기 통제력이 더 돋보임|하위권 원정팀 상대로 주도권 잡기 유리함"
+awayPower: "리그순위 14위로 하위권 부담이 큼|득실 -10.0이 수비 불안정을 보여줌|원정에서 득점 기복이 커 추격전이 어려움|상대 압박이 강하면 전개가 쉽게 끊어짐|한 번 실점 후 흐름 회복이 늦는 편임"
+h2h: '[{"date":"26.04.23","home":"애틀랜타 유나이티드","away":"뉴잉글랜드 레볼루션","score":"1-2"},{"date":"25.09.28","home":"뉴잉글랜드 레볼루션","away":"애틀랜타 유나이티드","score":"2-0"},{"date":"25.04.13","home":"애틀랜타 유나이티드","away":"뉴잉글랜드 레볼루션","score":"0-1"},{"date":"24.07.04","home":"뉴잉글랜드 레볼루션","away":"애틀랜타 유나이티드","score":"2-1"},{"date":"24.03.10","home":"애틀랜타 유나이티드","away":"뉴잉글랜드 레볼루션","score":"4-1"}]'
+summary: "뉴잉글랜드 레볼루션은 리그순위 4위와 +4.0의 득실에서 보이듯 경기 균형이 안정적이고, 애틀랜타 유나이티드는 리그순위 14위와 -10.0의 득실로 수비 쪽 부담이 큰 편입니다. 최근 흐름만 봐도 홈팀은 실점을 줄이면서 경기를 정리하는 힘이 있고, 원정팀은 득점이 들쭉날쭉해 한 박자씩 늦는 장면이 반복되고 있습니다. 상대전적에서도 뉴잉글랜드 레볼루션이 최근 맞대결 우위를 이어가고 있어, 이번 경기 역시 홈팀이 주도권을 잡을 가능성이 높아 보입니다. 전체적인 전력 차이와 상성을 함께 보면 뉴잉글랜드 레볼루션 쪽 기대감이 더 분명합니다."
+homeRecent: '[{"date":"26.07.23","home":"뉴잉글랜드 레볼루션","away":"토론토 FC","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490335-2026-07-23-new-england-revolution/"},{"date":"26.05.24","home":"샬럿 FC","away":"뉴잉글랜드 레볼루션","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490312-2026-05-24-charlotte/"},{"date":"26.05.17","home":"뉴잉글랜드 레볼루션","away":"미네소타 유나이티드","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490300-2026-05-17-new-england-revolution/"},{"date":"26.04.30","home":"뉴잉글랜드 레볼루션","away":"올랜도 시티","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1540853-2026-04-30-new-england-revolution/"}]'
+awayRecent: '[{"date":"26.07.23","home":"샬럿 FC","away":"애틀랜타 유나이티드","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490336-2026-07-23-charlotte/"},{"date":"26.07.18","home":"내슈빌 SC","away":"애틀랜타 유나이티드","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490329-2026-07-18-nashville-sc/"},{"date":"26.05.25","home":"콜럼버스 크루","away":"애틀랜타 유나이티드","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490322-2026-05-25-columbus-crew/"},{"date":"26.05.20","home":"올랜도 시티","away":"애틀랜타 유나이티드","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1543866-2026-05-20-orlando-city-sc/"},{"date":"26.05.17","home":"올랜도 시티","away":"애틀랜타 유나이티드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490296-2026-05-17-orlando-city-sc/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "뉴잉글랜드 레볼루션"
+pickWinResult: "승"
+pickHandicapTeam: "뉴잉글랜드 레볼루션"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

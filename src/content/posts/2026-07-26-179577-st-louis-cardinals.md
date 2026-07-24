@@ -1,0 +1,31 @@
+---
+title: "세인트루이스 카디널스 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | MLB - 픽천국"
+date: 2026-07-25T23:15:00+00:00
+description: "세인트루이스 카디널스 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179577-2026-07-26-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/33.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/8.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 61경기에서 26승 1무 34패, 평균 득점 4.1을 기록하며 전체적으로는 승패가 엇갈리지만 득점력은 비교적 일정한 흐름을 보이고 있습니다. 최근 10경기에서는 3승 7패로 주춤한 모습이지만, 직전 로스앤젤레스 에인절스전 1실점 승리처럼 투수진이 버텨주는 경기는 충분히 만들어내고 있습니다. 다만 애리조나 다이아몬드백스와 밀워키 브루어스전에서 실점이 크게 늘어난 점은 수비 안정성 면에서 부담으로 보입니다. 홈에서는 공격이 한 번 터질 때 대량 득점으로 이어지는 장면이 있어 경기 흐름을 바꿀 힘은 있습니다. 현재 리그순위 8위로 중위권을 지키고 있지만, 최근 흐름과 연결하면 반등 여부가 불펜과 하위 타선의 응집력에 달려 있습니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 최근 64경기에서 24승 2무 38패, 평균 득점 4.1을 기록하며 득점 생산은 유지하고 있지만 실점 관리에서 어려움이 더 크게 드러나고 있습니다. 최근 10경기에서는 4승 6패로 완만한 반등 기미는 있으나, 시애틀 매리너스전과 시카고 컵스전처럼 강한 압박을 받으면 경기 후반 흐름이 쉽게 흔들리고 있습니다. 원정에서는 큰 점수 차로 무너진 경기와 팽팽한 접전이 함께 나타나고 있어, 안정감보다는 변동성이 더 두드러집니다. 현재 리그순위 12위와 득실 차가 크게 벌어진 점을 보면, 순위보다 실제 전력 손실 폭이 더 크게 체감되는 팀으로 보입니다. 맷 맥레인, 닉 로돌로, 브랜든 윌리엄슨, 블레이크 던, 토니 산티얀의 이탈은 중심 축과 마운드 운용에 적지 않은 부담으로 이어지고 있습니다."
+homePower: "최근 맞대결 우세로 상성 주도권을 잡고 있음|직전 원정 승리처럼 접전 처리 능력은 살아 있음|실점이 늘어난 구간은 중반 이후 흔들림이 큼|홈에서는 장타보다 집중타로 흐름 전환 가능함|주요 결장자 공백 속에도 운영 균형은 원정보다 안정적임"
+awayPower: "최근 맞대결 열세가 심리적 부담으로 작용함|장타는 나오지만 수비 붕괴가 함께 따라오는 편임|원정 접전은 가능하나 뒷심 유지가 과제로 남음|주요 결장자 다수로 전력층이 얇아진 상태임|득실 차 확대로 경기 운영의 안정성이 떨어져 보임"
+h2h: '[{"date":"26.06.08","home":"세인트루이스 카디널스","away":"신시내티 레즈","score":"5-3","link":"https://pick79.com/posts/detail/analyze-178983-2026-06-08-st-louis-cardinals/"},{"date":"26.06.07","home":"세인트루이스 카디널스","away":"신시내티 레즈","score":"6-5","link":"https://pick79.com/posts/detail/analyze-178968-2026-06-07-st-louis-cardinals/"},{"date":"26.06.06","home":"세인트루이스 카디널스","away":"신시내티 레즈","score":"10-3"},{"date":"26.05.25","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"0-0","link":"https://pick79.com/posts/detail/analyze-178802-2026-05-25-cincinnati-reds/"},{"date":"26.05.24","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"7-6","link":"https://pick79.com/posts/detail/analyze-178787-2026-05-24-cincinnati-reds/"}]'
+summary: "세인트루이스 카디널스는 현재 리그순위 8위, 신시내티 레즈는 12위로, 시즌 전체 전력에서는 홈팀이 한 단계 더 나은 흐름을 보여주고 있습니다. 두 팀 모두 평균 득점은 4.1 수준으로 비슷하지만, 세인트루이스 카디널스는 최근 맞대결에서 우위를 잡아 왔고 신시내티 레즈는 득실 차가 더 크게 흔들리면서 경기 운영의 안정감이 떨어져 있습니다. 여기에 신시내티 레즈는 핵심 전력 이탈이 여러 명 겹쳐 있어, 세인트루이스 카디널스가 초반부터 주도권을 잡고 끝까지 밀어붙일 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.07.24","home":"세인트루이스 카디널스","away":"애리조나 다이아몬드백스","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179220-2026-07-24-st-louis-cardinals/"},{"date":"26.07.23","home":"LA 에인절스","away":"세인트루이스 카디널스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179546-2026-07-23-los-angeles-angels/"},{"date":"26.07.21","home":"LA 에인절스","away":"세인트루이스 카디널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179515-2026-07-21-los-angeles-angels/"},{"date":"26.07.20","home":"애리조나 다이아몬드백스","away":"세인트루이스 카디널스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720SLAZ0-2026-07-20-arizona-diamondbacks/"},{"date":"26.07.19","home":"애리조나 다이아몬드백스","away":"세인트루이스 카디널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719SLAZ0-2026-07-19-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.07.23","home":"시애틀 매리너스","away":"신시내티 레즈","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179542-2026-07-23-seattle-mariners/"},{"date":"26.07.21","home":"시애틀 매리너스","away":"신시내티 레즈","score":"8-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179512-2026-07-21-seattle-mariners/"},{"date":"26.07.20","home":"콜로라도 로키스","away":"신시내티 레즈","score":"6-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720CICO0-2026-07-20-colorado-rockies/"},{"date":"26.07.19","home":"콜로라도 로키스","away":"신시내티 레즈","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719CICO0-2026-07-19-colorado-rockies/"},{"date":"26.07.13","home":"신시내티 레즈","away":"시카고 컵스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179458-2026-07-13-cincinnati-reds/"}]'
+injuryHome: "Pedro Pages (경미한 부상)|JoJo Romero (부상자 명단)|Ramon Urias (건초염)|Max Rajcic (수술 후 회복)"
+injuryAway: "Matt McLain (근육 손상)|Nick Lodolo (찰과상)|Brandon Williamson (통증)|Blake Dunn (염좌)|Tony Santillan (근육 손상)"
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

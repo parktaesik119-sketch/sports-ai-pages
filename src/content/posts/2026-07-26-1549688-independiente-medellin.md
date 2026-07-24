@@ -1,0 +1,31 @@
+---
+title: "인데펜디엔테 메데인 vs Deportivo Pasto 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | Primera A - 픽천국"
+date: 2026-07-25T21:05:00+00:00
+description: "인데펜디엔테 메데인 vs Deportivo Pasto 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1549688-2026-07-26-independiente-medellin"
+category: "soccer"
+country: "콜롬비아"
+league: "Primera A"
+homeTeam: "인데펜디엔테 메데인"
+awayTeam: "Deportivo Pasto"
+homeLogo: "https://media.api-sports.io/football/teams/1128.png"
+awayLogo: "https://media.api-sports.io/football/teams/1126.png"
+homeAnalysis: "인데펜디엔테 메데인은 2026시즌 최근 10경기 4승 4무 2패, 평균 득점 1.2로 안정적인 흐름을 보여주고 있습니다. 득점이 크게 폭발하는 편은 아니지만, 필요한 순간에는 꾸준히 골을 만들어내며 경기 내용을 끌고 가는 힘이 있습니다. 최근 경기에서도 바스코 다 가마전 2득점, 쿠쿠타전 2득점처럼 홈에서 공격 템포를 유지하는 장면이 확인되었고, 플라멩구전 무득점처럼 상대 강도에 따라 마무리 효율은 다소 흔들리고 있습니다. 홈에서는 실점을 줄이면서 버티는 흐름이 비교적 잘 드러나고 있어, 경기 운영 면에서 흔들림이 크지 않은 편입니다. 이런 전력은 수비 밸런스를 바탕으로 주도권을 잡는 데 강점이 있으며, 핵심 자원이 한 번 흐름을 타면 홈 경기에서 더 안정적인 모습을 기대할 수 있습니다."
+awayAnalysis: "데포르티보 파스토는 2026시즌 최근 3경기 0승 0무 3패, 평균 득점 1.3으로 결과가 매우 좋지 않은 흐름입니다. 득점 자체는 완전히 막힌 수준은 아니지만, 수비에서 먼저 무너지며 경기를 지키지 못하는 장면이 이어지고 있습니다. 주니오르전 3득점처럼 공격에서 반짝 힘을 보인 적은 있으나, 곧바로 실점 관리가 흔들리며 승점을 잃는 모습이 반복되고 있습니다. 원정에서는 경기 내내 버티는 힘이 충분히 두드러지지 않아, 상대 압박이 강해질수록 흐름이 급격히 기울 가능성이 있습니다. 특히 최근에는 한 골 차 접전에서도 끝까지 균형을 유지하지 못하는 모습이 보여, 수비 집중력 회복이 절실한 전력으로 보입니다."
+homePower: "홈 경기 운영 안정감이 상대보다 앞서는 흐름임|실점 억제 우선 전략이 승부의 기반으로 보임|한 번 리드를 잡으면 경기 관리 능력이 검증됨|마무리 효율은 기복 있으나 기회 창출은 꾸준함|원정 약세 팀 상대로 템포 주도 가능성이 높음"
+awayPower: "최근 연패로 자신감 저하가 뚜렷함|득점은 가능하지만 수비 붕괴가 더 큰 변수임|상대 압박이 강해질수록 후반 버팀목이 약해짐|경기 초반 실점 시 반전 동력이 부족해 보임|공격 반짝임보다 수비 정리가 우선 과제임"
+h2h: '[]'
+summary: "인데펜디엔테 메데인은 2026시즌 전반적인 전력과 홈에서의 안정감이 분명한 팀으로 보입니다. 반면 데포르티보 파스토는 최근 3경기 연속 패배 속에서 수비 불안이 두드러지고 있어, 경기 흐름을 길게 가져가기에는 부담이 커 보입니다. 양 팀의 득실 흐름을 함께 보면 홈팀이 주도권을 잡을 가능성이 높고, 원정팀은 한 번 흔들릴 경우 반격의 폭이 크지 않아 보입니다. 다만 두 팀 모두 득점이 아주 폭발적인 편은 아니어서, 전체적인 경기 양상은 팽팽한 접전 속에서 인데펜디엔테 메데인이 조금 더 우위를 점하는 방향으로 전개될 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.23","home":"인데펜디엔테 메데인","away":"바스코 다 가마","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1547775-2026-07-23-independiente-medellin/"},{"date":"26.06.03","home":"인데펜디엔테 메데인","away":"Cucuta","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544279-2026-06-03-independiente-medellin/"},{"date":"26.05.30","home":"Leones FC","away":"인데펜디엔테 메데인","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544287-2026-05-30-leones-fc/"},{"date":"26.05.27","home":"에스투디안테스","away":"인데펜디엔테 메데인","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1535319-2026-05-27-estudiantes-l-p/"},{"date":"26.05.21","home":"쿠스코 FC","away":"인데펜디엔테 메데인","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1535301-2026-05-21-cusco/"}]'
+awayRecent: '[{"date":"26.07.22","home":"Deportivo Pasto","away":"Bogota FC","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1545507-2026-07-22-deportivo-pasto/"},{"date":"26.05.04","home":"주니오르 데 바란키야","away":"Deportivo Pasto","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1506114-2026-05-04-junior/"},{"date":"26.04.24","home":"Deportivo Pasto","away":"산타페","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-5140601-2026-04-24-deportivo-pasto/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
