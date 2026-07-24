@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 C. Palmquist (0-1, 8.74) ERA 8.74|https://a.espncdn.com/i/headshots/mlb/players/full/4621424.png\"]"
-awayLineup: "[\"선발투수 E. Rodriguez (8-3, 2.62) ERA 2.62|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 E. Rodriguez (8-3, 2.62) ERA 2.62|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\",\"1번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"2번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"3번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"4번 G. Moreno (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"5번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"6번 M. Kepler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31870.png\",\"7번 T. Locklear (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4866477.png\",\"8번 A. Del Castillo (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41464.png\",\"9번 T. Tawa (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\"]"
 ---
