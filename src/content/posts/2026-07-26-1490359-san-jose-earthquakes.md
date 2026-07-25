@@ -1,0 +1,31 @@
+---
+title: "산호세 어스퀘이크스 vs LA 갤럭시 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | MLS - 픽천국"
+date: 2026-07-26T02:30:00+00:00
+description: "산호세 어스퀘이크스 vs LA 갤럭시 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490359-2026-07-26-san-jose-earthquakes"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "산호세 어스퀘이크스"
+awayTeam: "LA 갤럭시"
+homeLogo: "https://media.api-sports.io/football/teams/1596.png"
+awayLogo: "https://media.api-sports.io/football/teams/1605.png"
+homeAnalysis: "산호세 어스퀘이크스는 2026시즌 전체 DB 기준 최근 8경기 3승 1무 4패, 평균 득점 1.8로 공격 시도 자체는 나쁘지 않지만 경기별 편차가 꽤 있는 편입니다. 최근 흐름만 보면 5승 1무 2패, 평균 득점 2.3으로 올라오며 전방 압박과 빠른 전환이 살아나는 모습이 보입니다. 홈에서는 득점력이 비교적 잘 나오는 반면, 실점이 한 번 흔들리면 경기가 크게 벌어지는 장면도 함께 나타나고 있습니다. 특히 강한 압박을 받은 뒤에도 역습 전환으로 득점을 만들어내는 장면이 많아 공격 전개 속도는 분명한 강점입니다. 다만 수비 쪽은 상대의 직선적인 공격에 흔들릴 여지가 있어, 경기 초반 실점 관리가 중요해 보입니다."
+awayAnalysis: "LA 갤럭시는 2026시즌 전체 DB 기준 최근 7경기 3승 2무 2패, 평균 득점 1.1로 결과는 나쁘지 않지만 득점 생산이 아주 매끄럽지는 않은 편입니다. 최근 경기 흐름에서는 3승 2무 2패, 평균 득점 1.6으로 공격 효율이 조금 살아났고, 원정에서도 필요한 순간에 결과를 만드는 힘은 보이고 있습니다. 다만 득점이 한 번 막히면 경기 운영이 답답해질 수 있고, 공격 전개가 길어질수록 마무리 완성도에 대한 의존도가 커집니다. 수비는 크게 무너지기보다는 버티는 장면이 많지만, 강한 압박을 받는 구간에서는 흔들리는 모습도 있습니다. 전반적으로는 한 방과 순간 집중력은 갖췄지만, 경기 전체를 안정적으로 끌고 가는 힘은 다소 제한적으로 보입니다."
+homePower: "최근 전방 압박 뒤 전환 속도 살아남|홈에서 득점 루트가 다양하게 열리는 편임|실점이 늘면 경기 흐름이 급격히 흔들림|강한 압박 상대로도 역습 효율은 검증됨|초반 주도권 확보 시 경기 운영이 유리해짐"
+awayPower: "결과는 버티되 득점 폭발력은 제한적임|원정에서도 필요한 순간 한 방은 살아있음|공격 효율이 오를 때 경기 완성도가 높아짐|압박 강한 팀 상대로 전개 끊길 위험 보임|실점 이후 추격전보다 선제 대응이 중요함"
+h2h: '[]'
+summary: "산호세 어스퀘이크스는 2026시즌 전체 흐름에서 득점 생산과 전환 속도가 살아나며 공격 쪽 기대감이 더 높은 편입니다. LA 갤럭시는 결과를 버티는 힘은 갖추고 있지만, 전체적인 득점 흐름이 상대적으로 낮아 경기 주도권 싸움에서 조금 밀릴 수 있습니다. 양 팀을 비교하면 산호세 어스퀘이크스가 더 적극적인 공격 전개와 홈 이점을 바탕으로 우위를 점할 가능성이 높아 보이며, 경기 흐름도 홈팀 쪽으로 기울 가능성이 큽니다."
+homeRecent: '[{"date":"26.07.23","home":"산호세 어스퀘이크스","away":"올랜도 시티","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490344-2026-07-23-san-jose-earthquakes/"},{"date":"26.07.04","home":"산호세 어스퀘이크스","away":"Club Tijuana","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1567522-2026-07-04-san-jose-earthquakes/"},{"date":"26.05.24","home":"포틀랜드 팀버스","away":"산호세 어스퀘이크스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490320-2026-05-24-portland-timbers/"},{"date":"26.05.21","home":"콜로라도 래피즈","away":"산호세 어스퀘이크스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1543869-2026-05-21-colorado-rapids/"},{"date":"26.05.17","home":"산호세 어스퀘이크스","away":"FC 댈러스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490307-2026-05-17-san-jose-earthquakes/"}]'
+awayRecent: '[{"date":"26.07.23","home":"LA 갤럭시","away":"세인트루이스 시티","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490343-2026-07-23-los-angeles-galaxy/"},{"date":"26.07.18","home":"LA 갤럭시","away":"LA FC","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490330-2026-07-18-los-angeles-galaxy/"},{"date":"26.07.12","home":"LA 갤럭시","away":"Club America","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554920-2026-07-12-los-angeles-galaxy/"},{"date":"26.05.24","home":"LA 갤럭시","away":"휴스턴 다이나모","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490321-2026-05-24-los-angeles-galaxy/"},{"date":"26.05.17","home":"시애틀 사운더스","away":"LA 갤럭시","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490304-2026-05-17-seattle-sounders/"}]'
+injuryHome: "Timo Werner (부상)|Earl Edwards Jr. (부상)|Vítor Costa (부상)|DeJuan Jones (부상)"
+injuryAway: "없음"
+pickWinTeam: "산호세 어스퀘이크스"
+pickWinResult: "승"
+pickHandicapTeam: "산호세 어스퀘이크스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

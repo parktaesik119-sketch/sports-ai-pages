@@ -1,0 +1,31 @@
+---
+title: "미네소타 유나이티드 vs 밴쿠버 화이트캡스 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | MLS - 픽천국"
+date: 2026-07-26T00:30:00+00:00
+description: "미네소타 유나이티드 vs 밴쿠버 화이트캡스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490354-2026-07-26-minnesota-united-fc"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "미네소타 유나이티드"
+awayTeam: "밴쿠버 화이트캡스"
+homeLogo: "https://media.api-sports.io/football/teams/1612.png"
+awayLogo: "https://media.api-sports.io/football/teams/1603.png"
+homeAnalysis: "미네소타 유나이티드는 2026시즌 리그순위 9위에서 6승 6패 4무, 득실 19-24를 기록하며 득실 차가 마이너스로 내려와 있습니다. 최근 5경기에서도 승리 없이 2무 3패에 그치며 흐름이 무겁고, 순위보다 경기 내용의 답답함이 더 크게 보입니다. 득점은 매 경기 완전히 끊기지는 않지만 결정적인 마무리에서 힘이 부족해 보이고, 실점 관리도 흔들리면서 접전을 끝내지 못하는 장면이 반복되고 있습니다. 홈 경기에서는 버티는 힘은 있으나 리드를 잡아도 지키는 안정감이 부족해 보이며, 승부처에서 수비 집중도가 흔들리는 점이 아쉽습니다. 다만 공격 전개 자체가 완전히 막힌 모습은 아니어서, 흐름을 다시 살리려면 초반 압박과 마무리 효율을 함께 끌어올리는 것이 중요해 보입니다."
+awayAnalysis: "밴쿠버 화이트캡스는 2026시즌 리그순위 1위에서 10승 3패 2무, 득실 37-16으로 리그 최상위의 안정감을 보여주고 있습니다. 최근 8경기에서는 3승 3무 2패로 다소 출렁였지만, 전체 시즌 전력의 높이는 여전히 분명하게 유지되고 있습니다. 득점 생산력이 매우 인상적이고, 실점도 적은 편이라 경기 운영의 균형이 좋은 팀으로 평가됩니다. 다만 최근 원정 흐름에서는 실점이 늘어난 장면이 있어 고점 대비 주춤한 모습도 함께 보입니다. 그럼에도 상위권다운 공격 완성도와 전반적인 전력 우위는 여전하며, 빠른 전환과 여러 득점 루트가 강점으로 작용하고 있습니다."
+homePower: "홈에서 경기 주도권 유지가 흔들리는 편임|실점 관리가 불안해 마무리 집중력 필요함|득점은 나오지만 결정타 부족이 뚜렷함|순위보다 경기 내용 반등 여지는 남아 있음|초반 흐름을 잡아야 강점이 살아나는 팀임"
+awayPower: "리그순위 1위답게 시즌 전력의 바닥이 높음|득점 생산과 실점 억제가 동시에 강점임|원정에서도 공격 전환 속도는 위력적임|최근 주춤은 있으나 전체 완성도는 유지됨|다득점 상황에서도 경기 운용이 가능한 팀임"
+h2h: '[{"date":"26.03.16","home":"밴쿠버 화이트캡스","away":"미네소타 유나이티드","score":"6-0"},{"date":"25.05.29","home":"밴쿠버 화이트캡스","away":"미네소타 유나이티드","score":"0-0"},{"date":"25.04.28","home":"미네소타 유나이티드","away":"밴쿠버 화이트캡스","score":"1-3"},{"date":"24.10.06","home":"밴쿠버 화이트캡스","away":"미네소타 유나이티드","score":"0-1"},{"date":"24.07.04","home":"미네소타 유나이티드","away":"밴쿠버 화이트캡스","score":"1-3"}]'
+summary: "미네소타 유나이티드는 리그순위 9위로 내려가 있지만 최근 전력은 승리 없이 흔들리고 있어 반등 신호가 아직 뚜렷하지 않습니다. 밴쿠버 화이트캡스는 리그순위 1위와 +21의 득실 차가 보여주듯 시즌 전체 전력이 훨씬 단단하고, 최근 흐름이 다소 출렁여도 공격과 수비의 기본 완성도는 높은 편입니다. 상대전적에서도 밴쿠버 화이트캡스가 여러 차례 우위를 보였고, 특히 미네소타 유나이티드의 수비가 맞붙을 때마다 부담을 크게 느끼는 모습이었습니다. 전반적인 전력 차이와 맞대결 상성을 함께 보면 밴쿠버 화이트캡스가 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.23","home":"스포르팅 캔자스시티","away":"미네소타 유나이티드","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490339-2026-07-23-sporting-kansas-city/"},{"date":"26.05.24","home":"미네소타 유나이티드","away":"레알 솔트레이크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490317-2026-05-24-minnesota-united-fc/"},{"date":"26.05.17","home":"뉴잉글랜드 레볼루션","away":"미네소타 유나이티드","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490300-2026-05-17-new-england-revolution/"},{"date":"26.05.11","home":"미네소타 유나이티드","away":"오스틴 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490279-2026-05-11-minnesota-united-fc/"},{"date":"26.04.29","home":"산호세 어스퀘이크스","away":"미네소타 유나이티드","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1540855-2026-04-29-san-jose-earthquakes/"}]'
+awayRecent: '[{"date":"26.07.23","home":"FC 신시내티","away":"밴쿠버 화이트캡스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490332-2026-07-23-fc-cincinnati/"},{"date":"26.07.14","home":"Cavalry FC","away":"밴쿠버 화이트캡스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544686-2026-07-14-cavalry-fc/"},{"date":"26.07.09","home":"밴쿠버 화이트캡스","away":"Cavalry FC","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544685-2026-07-09-vancouver-whitecaps/"},{"date":"26.05.24","home":"샌디에이고 FC","away":"밴쿠버 화이트캡스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490318-2026-05-24-san-diego/"},{"date":"26.05.17","home":"휴스턴 다이나모","away":"밴쿠버 화이트캡스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490302-2026-05-17-houston-dynamo/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "밴쿠버 화이트캡스"
+pickWinResult: "승"
+pickHandicapTeam: "밴쿠버 화이트캡스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

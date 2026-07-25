@@ -1,0 +1,31 @@
+---
+title: "저장 뤼청 vs 다롄 잉보 FC 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | Super League - 픽천국"
+date: 2026-07-26T12:00:00+00:00
+description: "저장 뤼청 vs 다롄 잉보 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1523218-2026-07-26-hangzhou-greentown"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "저장 뤼청"
+awayTeam: "다롄 잉보 FC"
+homeLogo: "https://media.api-sports.io/football/teams/848.png"
+awayLogo: "https://media.api-sports.io/football/teams/21263.png"
+homeAnalysis: "저장 뤼청은 2026시즌 전체 기준 4승 4무 3패, 평균 득점 1.7로 공격 흐름이 꾸준한 편이며 최근 경기에서도 득점 자체는 잘 이어가고 있습니다. 다만 실점이 함께 늘어나는 구간이 있어 안정감은 다소 흔들리고 있고, 경기 주도권을 잡아도 마무리 단계에서 변수가 생기는 모습이 보입니다. 홈에서는 한 번 분위기를 타면 득점 폭이 살아나는 장면이 있지만, 수비가 무너질 때는 결과가 급격히 흔들리는 점도 함께 확인됩니다. 최근에는 강한 상대를 상대로도 득점은 만들어내고 있어 전방 화력은 충분히 경쟁력이 있습니다. 전체적으로는 공격 전개와 득점 응집력이 강점이고, 수비 집중력을 얼마나 유지하느냐가 경기 흐름을 좌우할 가능성이 높습니다."
+awayAnalysis: "다롄 잉보 FC는 2026시즌 전체 기준 4승 3무 6패, 평균 득점 1.3으로 저장 뤼청보다 공격 생산성이 조금 낮고 결과 기복도 더 크게 나타나고 있습니다. 최근 경기에서는 승리와 패배가 번갈아 나오는 흐름이 이어져 경기력의 안정감이 완전히 잡히지 않은 상태입니다. 원정에서는 실점 억제력이 흔들리는 장면이 있고, 공격에서도 한 번에 경기를 끝내는 힘보다는 흐름을 타야 살아나는 성향이 읽힙니다. 그래도 상위 전력을 상대로도 득점 장면을 만든 적이 있어 전방의 잠재력 자체가 약한 팀은 아닙니다. 다만 전체적인 균형과 경기 운영 면에서는 홈팀보다 부담이 큰 편으로 보입니다."
+homePower: "홈에서 득점 템포가 살아나면 경기 주도권이 길게 이어지는 편임|실점 변동폭이 커서 선제 실점 시 흐름이 급격히 흔들림|강한 상대를 상대로도 득점 창출은 유지되는 편임|후반 접전에서 공격 전환 속도가 결과를 가르는 요인임|전방 생산성은 좋지만 수비 집중 유지가 핵심 과제임"
+awayPower: "원정에서 득점 효율이 떨어지면 버티는 경기로 기울어짐|승패가 섞이는 흐름이라 안정감이 완성되지 않은 상태임|강팀 상대로도 한 방은 있으나 지속 압박은 약한 편임|원정 수비가 버티지 못하면 경기 후반 흔들림이 커짐|전체 균형보다 순간 흐름에 의존하는 경향이 뚜렷함"
+h2h: '[]'
+summary: "저장 뤼청은 2026시즌 전체 성적과 득점 흐름에서 다롄 잉보 FC보다 한 발 앞선 전력을 보여주고 있습니다. 두 팀 모두 최근에 득점 장면은 만들고 있지만, 저장 뤼청이 경기 전개와 화력 면에서 조금 더 안정적인 흐름을 유지하고 있습니다. 다롄 잉보 FC도 반격 능력은 갖추고 있으나 원정에서는 수비 부담이 커지는 모습이어서, 전체적인 균형에서는 홈팀 쪽 기대가 더 높습니다. 이런 흐름이라면 저장 뤼청이 경기 주도권을 잡고 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.18","home":"충칭 통량룽","away":"저장 뤼청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523206-2026-07-18-chongqing-tongliang-long/"},{"date":"26.07.14","home":"저장 뤼청","away":"칭다오 하이뉴","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523197-2026-07-14-hangzhou-greentown/"},{"date":"26.07.05","home":"상하이 선화","away":"저장 뤼청","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523194-2026-07-05-shanghai-shenhua/"},{"date":"26.06.28","home":"칭다오 FC","away":"저장 뤼청","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523185-2026-06-28-qingdao-youth-island/"},{"date":"26.06.19","home":"산시 유니온","away":"저장 뤼청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1545496-2026-06-19-shaanxi-union/"}]'
+awayRecent: '[{"date":"26.07.21","home":"허난 FC","away":"다롄 잉보 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1567357-2026-07-21-henan-jianye/"},{"date":"26.07.18","home":"다롄 잉보 FC","away":"산둥 타이산","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523208-2026-07-18-dalian-zhixing/"},{"date":"26.07.04","home":"다롄 잉보 FC","away":"우한 쓰리 타운즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523191-2026-07-04-dalian-zhixing/"},{"date":"26.06.28","home":"다롄 잉보 FC","away":"상하이 선화","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523186-2026-06-28-dalian-zhixing/"},{"date":"26.06.19","home":"Langfang Glory City","away":"다롄 잉보 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1545491-2026-06-19-langfang-glory-city/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "저장 뤼청"
+pickWinResult: "승"
+pickHandicapTeam: "저장 뤼청"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

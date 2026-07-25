@@ -1,0 +1,31 @@
+---
+title: "Alianza Valledupar vs Fortaleza FC 경기분석·라인업·결장자·통계·승부예측 (7월 27일) | Primera A - 픽천국"
+date: 2026-07-26T23:10:00+00:00
+description: "Alianza Valledupar vs Fortaleza FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1549684-2026-07-27-alianza-valledupar"
+category: "soccer"
+country: "콜롬비아"
+league: "Primera A"
+homeTeam: "Alianza Valledupar"
+awayTeam: "Fortaleza FC"
+homeLogo: "https://media.api-sports.io/football/teams/1141.png"
+awayLogo: "https://media.api-sports.io/football/teams/1147.png"
+homeAnalysis: "Alianza Valledupar은 2026시즌 전체 DB 기준 2승 3무 1패, 평균 득점 1.3으로 안정적인 흐름을 이어가고 있습니다. 최근에는 부카라망가전 승리와 레알 산탄데르전 완승처럼 공격이 살아나는 장면이 있었고, 데포르티보 칼리 원정에서는 아쉽게 한 끗 차로 밀리기도 했습니다. 홈에서는 미요나리오스와 비기고 레알 산탄데르를 완파하는 등 경기 운영이 꽤 단단하게 잡혀 있습니다. 특히 실점이 적은 경기들에서 결과를 잘 지켜내는 모습이 돋보이고, 전방에서는 경기마다 1골 이상을 꾸준히 만들어내는 힘이 있습니다. 최근 흐름을 보면 수비 밸런스를 바탕으로 홈에서 경기를 주도하려는 장점이 분명하게 살아나고 있습니다."
+awayAnalysis: "Fortaleza FC는 2026시즌 전체 DB 기준 2승 2무 1패, 평균 득점 1.4로 나쁘지 않은 전력을 보여주고 있습니다. 최근에는 쿠쿠타 원정과 오르소마르소전에서 연속으로 실점을 억제하며 흐름을 지켰고, 레오네스 FC전에서는 4골을 몰아치며 화력을 확실히 증명했습니다. 부카라망가전 승리처럼 강한 상대를 상대로도 득점 생산이 가능하다는 점이 인상적입니다. 다만 인데펜디엔테 메데인 원정에서 무득점 패배가 있었던 만큼, 원정에서는 공격 전개가 매끄럽지 않을 때가 있습니다. 전반적으로는 득점 잠재력이 높지만, 경기별 기복이 있어 안정감 면에서는 조금 더 다듬을 여지가 보입니다."
+homePower: "홈에서 실점 억제 흐름이 잘 잡혀 있음|경기 주도 시 결과 관리 능력 검증됨|한 골 차 승부로 끌고 가는 힘이 있음|다득점 경기와 무실점 경기의 폭이 넓음|후반 운영에서 흔들림이 적은 편임"
+awayPower: "공격 폭발력과 무득점 경기의 간극이 큼|강팀 상대로도 득점 가능성은 유지됨|원정에서 수비 집중력이 비교적 살아있음|경기 흐름이 열리면 멀티득점도 가능함|전개가 막힐 때는 마무리 효율이 떨어짐"
+h2h: '[]'
+summary: "Alianza Valledupar은 2026시즌 전체 흐름에서 실점 억제와 홈 경기 운영이 잘 맞물리면서 안정적인 전력을 보여주고 있습니다. Fortaleza FC도 평균 득점은 준수하지만 원정에서는 공격 완성도가 흔들리는 장면이 있어, 전체적인 경기 무게추는 홈팀 쪽으로 조금 더 기울어져 있습니다. 최근 흐름과 득점·수비 균형을 함께 보면 Alianza Valledupar이 더 단단하게 경기를 풀 가능성이 높고, 전반적인 주도권 역시 홈팀이 잡을 것으로 보입니다. 이런 흐름이라면 홈팀 우세가 자연스럽게 이어질 가능성이 높습니다."
+homeRecent: '[{"date":"26.05.25","home":"Alianza Valledupar","away":"부카라망가","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544284-2026-05-25-alianza-valledupar/"},{"date":"26.05.21","home":"데포르티보 칼리","away":"Alianza Valledupar","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544277-2026-05-21-deportivo-cali/"},{"date":"26.05.17","home":"Alianza Valledupar","away":"Real Santander","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544269-2026-05-17-alianza-valledupar/"},{"date":"26.05.09","home":"우니베르시타리오 포파얀","away":"Alianza Valledupar","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544256-2026-05-09-popayan/"},{"date":"26.05.04","home":"Alianza Valledupar","away":"미요나리오스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1506107-2026-05-04-alianza-valledupar/"}]'
+awayRecent: '[{"date":"26.05.30","home":"Cucuta","away":"Fortaleza FC","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544286-2026-05-30-cucuta/"},{"date":"26.05.21","home":"Fortaleza FC","away":"Orsomarso","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544278-2026-05-21-fortaleza-fc/"},{"date":"26.05.09","home":"Fortaleza FC","away":"Leones FC","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544257-2026-05-09-fortaleza-fc/"},{"date":"26.05.04","home":"Fortaleza FC","away":"부카라망가","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1506111-2026-05-04-fortaleza-fc/"},{"date":"26.04.26","home":"인데펜디엔테 메데인","away":"Fortaleza FC","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1506101-2026-04-26-independiente-medellin/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "Alianza Valledupar"
+pickWinResult: "승"
+pickHandicapTeam: "Alianza Valledupar"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

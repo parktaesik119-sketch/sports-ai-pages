@@ -1,0 +1,31 @@
+---
+title: "청두 룽청 vs 베이징 궈안 경기분석·라인업·결장자·통계·승부예측 (7월 26일) | Super League - 픽천국"
+date: 2026-07-26T11:35:00+00:00
+description: "청두 룽청 vs 베이징 궈안 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1523216-2026-07-26-chengdu-better-city"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "청두 룽청"
+awayTeam: "베이징 궈안"
+homeLogo: "https://media.api-sports.io/football/teams/5648.png"
+awayLogo: "https://media.api-sports.io/football/teams/830.png"
+homeAnalysis: "청두 룽청은 2026시즌 전체 DB 기준 6승 4무 2패, 평균 득점 1.7로 안정적인 전력을 유지하고 있습니다. 최근에는 승부를 쉽게 내지 못하는 흐름도 있었지만, 큰 틀에서는 꾸준히 득점 기회를 만들며 경기 내용을 이어가고 있습니다. 특히 원정에서도 득점을 끊지 않는 장면이 자주 보였고, 홈에서는 수비 집중력을 바탕으로 실점을 억제하는 흐름이 돋보입니다. 다만 최근 몇 경기에서는 비슷한 점수대의 경기들이 이어지며 마무리 효율이 다소 흔들리는 모습도 있습니다. 그래도 전체적으로는 전방 압박과 공격 전개가 살아 있는 팀으로 보이며, 핵심 자원들이 경기 흐름을 잡아주는 힘이 분명합니다."
+awayAnalysis: "베이징 궈안은 2026시즌 전체 DB 기준 7승 4무 1패, 평균 득점 1.8로 매우 탄탄한 전력을 보여주고 있습니다. 최근에도 승리를 자주 쌓고 있고, 특히 실점 관리가 잘 되면서 경기 주도권을 놓치지 않는 모습이 이어지고 있습니다. 홈에서는 안정감이 좋고 원정에서도 득점을 만들어내는 힘이 유지되고 있어 공격 전개 완성도가 높아 보입니다. 다만 일부 경기에서는 상대의 압박이 강해질 때 마무리 장면이 매끄럽지 못했던 흔적도 있습니다. 그럼에도 전반적으로는 공격과 수비의 균형이 좋고, 경기 운영 면에서도 신뢰도가 높은 팀입니다."
+homePower: "꾸준한 득점 생산으로 공격 전개 안정감이 확인됨|무승부가 잦아도 경기 내용 유지력은 높게 평가됨|홈에서는 실점 억제 흐름이 살아 있는 편임|전방 압박 이후 빠른 전환이 강점으로 보임|마무리 효율만 살아나면 승부력 더 올라갈 구조임"
+awayPower: "높은 승률이 전력 균형의 안정성을 보여줌|실점 억제와 득점 생산이 함께 유지되는 편임|원정에서도 공격 템포가 크게 떨어지지 않음|경기 주도권을 잡으면 흐름을 끝까지 끌고 가는 힘이 있음|세밀한 마무리만 보완되면 상위권 경쟁력 충분함"
+h2h: '[]'
+summary: "청두 룽청은 시즌 전체 기준으로도 득점 흐름이 꾸준하고, 홈에서 경기를 안정적으로 풀어가는 힘이 분명한 팀입니다. 베이징 궈안은 더 높은 승률과 더 안정적인 실점 관리로 전체 전력의 완성도가 매우 높아 보입니다. 다만 이번 경기는 청두 룽청의 홈 이점과 최근 경기 운영의 끈끈함이 함께 작용할 가능성이 높아, 흐름상 홈팀이 조금 더 우세하게 전개할 가능성이 높습니다. 결국 양 팀 모두 득점 기반은 충분하지만, 청두 룽청이 수비 집중력과 홈 운영에서 한 발 앞서며 우위를 점할 것으로 보입니다."
+homeRecent: '[{"date":"26.07.21","home":"윈난 유쿤","away":"청두 룽청","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1567359-2026-07-21-yunnan-yukun/"},{"date":"26.07.17","home":"칭다오 FC","away":"청두 룽청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523207-2026-07-17-qingdao-youth-island/"},{"date":"26.07.11","home":"청두 룽청","away":"충칭 통량룽","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523200-2026-07-11-chengdu-better-city/"},{"date":"26.07.05","home":"칭다오 하이뉴","away":"청두 룽청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523193-2026-07-05-qingdao-jonoon/"},{"date":"26.06.27","home":"선전 신청펑","away":"청두 룽청","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523182-2026-06-27-sichuan-jiuniu/"}]'
+awayRecent: '[{"date":"26.07.21","home":"다롄 케웨이","away":"베이징 궈안","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1567360-2026-07-21-dalian-kewei/"},{"date":"26.07.17","home":"베이징 궈안","away":"랴오닝 선양","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523203-2026-07-17-beijing-guoan/"},{"date":"26.07.04","home":"베이징 궈안","away":"산둥 타이산","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523190-2026-07-04-beijing-guoan/"},{"date":"26.06.27","home":"베이징 궈안","away":"우한 쓰리 타운즈","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523183-2026-06-27-beijing-guoan/"},{"date":"26.06.19","home":"광둥 GZ-파워","away":"베이징 궈안","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1545489-2026-06-19-guangzhou-e-power/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "청두 룽청"
+pickWinResult: "승"
+pickHandicapTeam: "청두 룽청"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

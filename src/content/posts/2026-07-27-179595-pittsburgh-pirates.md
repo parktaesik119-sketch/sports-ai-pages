@@ -1,0 +1,31 @@
+---
+title: "피츠버그 파이러츠 vs 시카고 컵스 경기분석·라인업·결장자·통계·승부예측 (7월 27일) | MLB - 픽천국"
+date: 2026-07-26T17:35:00+00:00
+description: "피츠버그 파이러츠 vs 시카고 컵스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179595-2026-07-27-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "시카고 컵스"
+homeLogo: "https://media.api-sports.io/baseball/teams/28.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/6.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 최근 68경기에서 31승 2무 35패, 승률 .515, 평균 득점 5.2를 기록하며 시즌 내내 공격 생산력은 충분히 유지하고 있습니다. 최근 흐름도 완전히 꺾인 모습보다는 기복이 섞인 전개에 가깝고, 특히 득점이 한 번 터질 때는 대량 득점으로 이어지는 장면이 자주 보입니다. 다만 실점 억제는 상대 강타선과 맞붙을 때 흔들리는 편이라, 경기 후반 운영에서 불안감이 남아 있습니다. 홈에서는 비교적 득점 흐름이 잘 살아나는 편이라 타선의 집중력이 중요한 변수로 보입니다. 스펜서 호위츠와 엔디 로드리게스의 이탈은 타선의 연결성과 출루 이후 흐름에 부담을 줄 수 있어, 중심 타선의 장타 의존도가 더 커질 가능성이 있습니다."
+awayAnalysis: "시카고 컵스는 2026시즌 최근 64경기에서 33승 3무 28패, 승률 .559, 평균 득점 4.7로 피츠버그 파이러츠보다 한 단계 안정적인 시즌 전력을 보여주고 있습니다. 최근 경기에서도 대패 뒤 곧바로 반등하는 장면이 반복되며, 상위 리그순위에 걸맞게 회복력이 있는 흐름입니다. 득점력은 폭발형보다는 다득점 구간을 꾸준히 만들 수 있는 쪽에 가깝고, 실점 억제 역시 전체 득실 격차에서 확인되듯 더 단단한 편입니다. 원정에서도 공격 생산이 크게 꺾이지 않아, 상대 마운드가 흔들릴 때 빠르게 점수를 쌓는 운영이 돋보입니다. 맷 쇼와 호비 밀너의 장기 결장은 전력 폭을 줄일 수 있지만, 팀 전체의 균형감은 여전히 유지되고 있습니다."
+homePower: "홈에서 장타가 한 번 붙으면 경기 흐름을 크게 바꾸는 힘이 있음|실점 억제는 기복이 있어 선취점 의존도가 높은 편임|최근 상위권 상대전에서 공격은 살아나도 수비 흔들림이 보임|엔디 로드리게스 이탈로 하위 타선 연결성 약화가 우려됨|득점 폭발과 침묵이 공존해 경기별 편차가 큰 팀임"
+awayPower: "리그순위 4위에 걸맞은 안정된 전력 흐름이 확인됨|득실 우위가 커 경기 운영 밸런스가 상대적으로 우수함|원정에서도 득점 생산이 쉽게 꺾이지 않는 점이 강점임|장기 결장자 발생에도 대체 전력으로 균형 유지가 보임|기복은 있어도 반등 속도가 빨라 흐름 관리가 수월함"
+h2h: '[{"date":"26.07.25","home":"피츠버그 파이러츠","away":"시카고 컵스","score":"1-1","link":"https://pick79.com/posts/detail/analyze-179565-2026-07-25-pittsburgh-pirates/"},{"date":"26.05.29","home":"피츠버그 파이러츠","away":"시카고 컵스","score":"2-7","link":"https://pick79.com/posts/detail/analyze-178852-2026-05-29-pittsburgh-pirates/"},{"date":"26.05.28","home":"피츠버그 파이러츠","away":"시카고 컵스","score":"4-10","link":"https://pick79.com/posts/detail/analyze-178841-2026-05-28-pittsburgh-pirates/"},{"date":"26.05.27","home":"피츠버그 파이러츠","away":"시카고 컵스","score":"12-1","link":"https://pick79.com/posts/detail/analyze-178825-2026-05-27-pittsburgh-pirates/"},{"date":"26.05.26","home":"피츠버그 파이러츠","away":"시카고 컵스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-178813-2026-05-26-pittsburgh-pirates/"}]'
+summary: "시카고 컵스는 현재 리그순위와 득실 격차에서 피츠버그 파이러츠보다 한발 앞서 있으며, 전체 전력의 안정감도 더 좋게 보입니다. 피츠버그 파이러츠는 최근 들어 득점 자체는 유지하고 있지만 실점 관리가 흔들릴 때가 있어, 강한 상대를 만나면 경기 주도권을 내줄 가능성이 있습니다. 다만 상대전적에서는 피츠버그 파이러츠가 앞선 구간도 분명히 있었고, 맞대결에서는 한쪽이 쉽게 밀리는 구도라기보다 흐름에 따라 결과가 바뀌는 양상이 나타나고 있습니다. 종합하면 경기 운영의 균형과 시즌 전반의 안정감에서는 시카고 컵스가 우세하며, 타선이 초반부터 연결되면 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.07.25","home":"피츠버그 파이러츠","away":"시카고 컵스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179565-2026-07-25-pittsburgh-pirates/"},{"date":"26.07.23","home":"뉴욕 양키즈","away":"피츠버그 파이러츠","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179530-2026-07-23-new-york-yankees/"},{"date":"26.07.21","home":"뉴욕 양키즈","away":"피츠버그 파이러츠","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179514-2026-07-21-new-york-yankees/"},{"date":"26.07.20","home":"클리블랜드 가디언스","away":"피츠버그 파이러츠","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720PICL0-2026-07-20-cleveland-guardians/"},{"date":"26.07.19","home":"클리블랜드 가디언스","away":"피츠버그 파이러츠","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719PICL2-2026-07-19-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.07.25","home":"피츠버그 파이러츠","away":"시카고 컵스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-179565-2026-07-25-pittsburgh-pirates/"},{"date":"26.07.23","home":"시카고 컵스","away":"디트로이트 타이거즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179550-2026-07-23-chicago-cubs/"},{"date":"26.07.22","home":"시카고 컵스","away":"디트로이트 타이거즈","score":"11-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179536-2026-07-22-chicago-cubs/"},{"date":"26.07.21","home":"시카고 컵스","away":"디트로이트 타이거즈","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179520-2026-07-21-chicago-cubs/"},{"date":"26.07.20","home":"시카고 컵스","away":"미네소타 트윈스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720MNCC0-2026-07-20-chicago-cubs/"}]'
+injuryHome: "Spencer Horwitz (긴장)|Evan Sisk (염증)|Endy Rodriguez (긴장)|Chris Devenski (미상)|Rafael Flores Jr. (뇌진탕)"
+injuryAway: "Trent Thornton (멍)|Ethan Roberts (염증)|Matt Shaw (염좌)|Hoby Milner (수술)|Riley Martin (긴장)"
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
