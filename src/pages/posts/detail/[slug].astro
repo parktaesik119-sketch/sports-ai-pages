@@ -144,6 +144,24 @@ let awayRecentItems: any[] = [];
 try { homeRecentItems = JSON.parse(item.data.homeRecent || '[]'); } catch(e) {}
 try { awayRecentItems = JSON.parse(item.data.awayRecent || '[]'); } catch(e) {}
 
+function fixRecentResult(items: any[], myTeamRaw: string) {
+  const myTeam = translateTeam(myTeamRaw);
+  return items.map((m: any) => {
+    const sm = typeof m.score === 'string' ? m.score.match(/(-?\d+)\s*-\s*(-?\d+)/) : null;
+    if (!sm) return m;
+    const homeScore = Number(sm[1]);
+    const awayScore = Number(sm[2]);
+    let my, op;
+    if (translateTeam(m.home) === myTeam) { my = homeScore; op = awayScore; }
+    else if (translateTeam(m.away) === myTeam) { my = awayScore; op = homeScore; }
+    else return m; // 팀명 매칭 안되면 원래 값 유지
+    const result = my > op ? '🟢승' : my < op ? '🔴패' : '🟡무';
+    return { ...m, result };
+  });
+}
+homeRecentItems = fixRecentResult(homeRecentItems, homeTeam);
+awayRecentItems = fixRecentResult(awayRecentItems, awayTeam);
+
 // 라인업 (원본 순서 — "통합 라인업" 리스트 위젯 등, 순서가 중요하지 않은 곳에 사용)
 let homeLineupItems: string[] = [];
 let awayLineupItems: string[] = [];
