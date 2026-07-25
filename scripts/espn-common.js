@@ -178,10 +178,10 @@ const TEAM_NAME_ALIASES = {
   'ulsanhd': 'ulsanhyundaifc',
   'usa': 'unitedstates',
   'interdescaldes': 'interclubdescaldes',
-  'NewYorkRedBulls': 'RedBullNewYork',
-  'Charlotte': 'CharlotteFC',
-  'Cerro': 'CerroLargo',
-  'RacingMontevideo': 'Racing(Montevideo)',
+  'newyorkredbulls': 'redbullnewyork',
+  'charlotte': 'charlottefc',
+  'cerro': 'cerroLargo',
+  'racingmontevideo': 'racing(montevideo)',
 };
 
 function resolveTeamAlias(normalized) {
