@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 R. Ray (8-6, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/32175.png\"]"
+homeLineup: "[\"선발투수 R. Ray (8-6, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/32175.png\",\"1번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"2번 H. Ramos (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/39642.png\",\"3번 B. Eldridge (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png\",\"4번 R. Devers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/33859.png\",\"5번 C. Schmitt (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4301949.png\",\"6번 J. Lee (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5134621.png\",\"7번 W. Adames (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33675.png\",\"8번 D. Gilbert (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4619467.png\",\"9번 D. Susac (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4751554.png\"]"
 awayLineup: "[\"선발투수 R. Johnson (2-4, 6.10) ERA 6.10|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
 ---

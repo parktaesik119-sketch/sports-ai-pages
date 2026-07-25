@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 F. Griffin (11-2, 2.68) ERA 2.68|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
-awayLineup: "[\"선발투수 M. Bratt (0-0, 5.06) ERA 5.06|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
+awayLineup: "[\"선발투수 M. Bratt (0-0, 5.06) ERA 5.06|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\",\"1번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"2번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"3번 G. Moreno (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"4번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"5번 I. Vargas (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32985.png\",\"6번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"7번 T. Tawa (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\",\"8번 J. McCann (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32046.png\",\"9번 R. Waldschmidt (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5129344.png\"]"
 ---
