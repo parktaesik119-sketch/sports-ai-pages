@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
 awayLineup: "[\"선발투수 J. Soriano (8-6, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
+homeLineup: "[\"선발투수 C. Whisenhunt (2-0, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/4626232.png\"]"
 ---
