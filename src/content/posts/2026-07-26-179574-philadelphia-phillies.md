@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
 awayLineup: "[\"선발투수 R. Weathers (3-7, 4.40) ERA 4.40|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\"]"
+homeLineup: "[\"선발투수 T. Mayza (2-3, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/35773.png\",\"1번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"2번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"3번 B. Harper (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 A. Bohm (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"5번 E. Sosa (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33809.png\",\"6번 B. De La Cruz (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40787.png\",\"7번 J.T. Realmuto (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32177.png\",\"8번 B. Stott (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"9번 D. Hill (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/33721.png\"]"
 ---
