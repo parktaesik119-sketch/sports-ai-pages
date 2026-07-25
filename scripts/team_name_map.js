@@ -1375,6 +1375,9 @@ const TEAM_NAME_MAP = {
   "Singapore": "싱가포르",
   "Cambodia": "캄보디아",
   "Vietnam": "베트남",
+  "Nepal": "네팔",
+  "Turkmenistan": "투르크메니스탄",
+  "Sri Lanka": "스리랑카",
 
 
   // 기타 주요 단일팀
