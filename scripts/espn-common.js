@@ -179,7 +179,9 @@ const TEAM_NAME_ALIASES = {
   'usa': 'unitedstates',
   'interdescaldes': 'interclubdescaldes',
   'NewYorkRedBulls': 'RedBullNewYork',
-  'Charlotte': 'CharlotteFC'
+  'Charlotte': 'CharlotteFC',
+  'Cerro': 'CerroLargo',
+  'RacingMontevideo': 'Racing(Montevideo)',
 };
 
 function resolveTeamAlias(normalized) {
