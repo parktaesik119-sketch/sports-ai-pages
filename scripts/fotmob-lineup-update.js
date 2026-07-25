@@ -1,35 +1,36 @@
 // scripts/fotmob-lineup-update.js
 // footystats-lineup-update.js를 대체하는 스크립트. 이미 생성된 축구 분석글의
 // homeTeam/awayTeam(한글)을 읽어서 fotmob.com(비공식 공개 API)에서 H2H·최근폼·
-// 실제(또는 예상) 선발 라인업을 수집해온다.
+// 실제(또는 예상) 선발 라인업·결장자를 수집해온다.
 //
 // footystats와 달리 프록시/쿠키가 전혀 필요 없다 — fotmob은 Cloudflare 챌린지가
 // 없는 완전 공개 API라 GitHub Actions IP에서 바로 직접 호출된다(실사용 테스트로
-// 확인, 2026-07).
+// 확인, 2026-07). 실제 fetch/매칭 로직은 fetch-fotmob-context.js와 공유하기 위해
+// fotmob-common.js에 모아뒀다.
 //
-// 정책은 footystats-lineup-update.js와 동일하게 유지한다:
+// 정책:
 // - h2h/homeRecent/awayRecent: 기존에 이미 5개 이상 있으면 안 건드림. 부족한 만큼만
 //   "날짜순 보충"(기존 항목 유지, 중복 추가 안 함).
 // - homeLineup/awayLineup/homeFormation/awayFormation: 비어있을 때만 채움.
-//
-// fotmob 데이터 스키마 관련 특이사항(실사용 조사로 확인, 2026-07):
-// - matches?date=... 엔드포인트로 그날 전체 리그의 경기목록(matchId 포함)을
-//   한 번에 받아온다 — footystats처럼 팀명으로 검색(search.php)할 필요가 없다.
-// - matchDetails?matchId=... 응답의 content.lineup.{home,away}Team.formation에
-//   "4-3-3" 같은 포메이션 문자열이 이미 들어있어서, footystats/ESPN처럼
-//   formation-common.js로 역산할 필요가 거의 없다(단, 라인업은 있는데 formation
-//   문자열이 비어있는 극히 일부 경우를 대비해 폴백으로만 deriveFormationFromLineup 사용).
-// - 선수 포지션은 문자열 코드(CB/CM/ST 등)가 아니라 숫자(usualPlayingPositionId:
-//   0=GK, 1=DF, 2=MF, 3=FW)로 온다. 실제 4-4-2 라인업 데이터로 좌표(x)와 대조해서
-//   검증 완료.
-// - 선수 사진 URL은 응답에 없고 https://images.fotmob.com/image_resources/playerimages/{id}.png
-//   패턴으로 직접 조립해야 한다(실제 접속으로 확인됨).
+// - injuryHome/injuryAway: 비어있거나 "없음"(글 작성 시점에 fotmob 라인업이 아직
+//   안 나와서 fetch-fotmob-context.js가 못 채운 경우)일 때만 채움 — 이미 ESPN 등
+//   다른 소스로 채워진 값은 덮어쓰지 않는다.
 
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { matchTeam } from './espn-common.js';
 import { deriveFormationFromLineup } from './formation-common.js';
+import {
+  matchTeamWithAlias,
+  findFotmobMatch,
+  fetchMatchDetails,
+  formatFotmobLineup,
+  toFotmobH2hDisplay,
+  toFotmobRecentDisplay,
+  getFormOwnerId,
+  extractFotmobInjuries,
+  POS_LABEL,
+} from './fotmob-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
@@ -55,31 +56,6 @@ const { koToEn: KO_TO_EN } = buildMaps(TEAM_MAP_PATH);
 
 function toEnglishTeamName(koName) {
   return KO_TO_EN[koName] || koName;
-}
-
-// ─────────────────────────────────────────────
-// fotmob 전용 팀명 별칭 — matchTeam()으로도 못 잡는 표기 차이를 수동 등록.
-// footystats-team-aliases.json과 달리 URL 경로가 아니라 "fotmob이 실제로 쓰는
-// 팀명 문자열"을 등록한다(fotmob은 검색이 아니라 matches 목록에서 바로 이름
-// 대조만 하면 되므로 URL이 필요 없음).
-// ─────────────────────────────────────────────
-const ALIAS_PATH = path.resolve(__dirname, 'fotmob-team-aliases.json');
-function loadFotmobAliases() {
-  try {
-    const raw = JSON.parse(fs.readFileSync(ALIAS_PATH, 'utf-8'));
-    delete raw._설명;
-    return raw;
-  } catch {
-    return {};
-  }
-}
-const FOTMOB_ALIASES = loadFotmobAliases();
-
-function matchTeamWithAlias(fotmobName, dbNameEn) {
-  if (matchTeam(fotmobName, dbNameEn)) return true;
-  const alias = FOTMOB_ALIASES[dbNameEn];
-  if (alias && matchTeam(fotmobName, alias)) return true;
-  return false;
 }
 
 // ─────────────────────────────────────────────
@@ -172,8 +148,8 @@ function isProbablySameMatch(a, b) {
     && partsA[0] === partsB[1] && partsA[1] === partsB[0];
   if (!sameScoreDirect && !sameScoreSwapped) return false;
 
-  const homeMatches = matchTeam(a.home, b.home) || matchTeam(a.home, b.away);
-  const awayMatches = matchTeam(a.away, b.home) || matchTeam(a.away, b.away);
+  const homeMatches = matchTeamWithAlias(a.home, b.home) || matchTeamWithAlias(a.home, b.away);
+  const awayMatches = matchTeamWithAlias(a.away, b.home) || matchTeamWithAlias(a.away, b.away);
   return homeMatches || awayMatches;
 }
 
@@ -196,173 +172,22 @@ function isEmptyField(raw) {
   return raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
 }
 
-// ─────────────────────────────────────────────
-// fotmob API 호출
-// ─────────────────────────────────────────────
-
-// 날짜별 전체 경기 목록 (matchId, 팀명, 킥오프 시각 포함) — 검색 불필요, 목록 대조만 하면 됨
-async function fetchFotmobMatchesByDate(dateStr /* YYYY-MM-DD */) {
-  const d = dateStr.replace(/-/g, '');
-  const url = `https://www.fotmob.com/api/data/matches?date=${d}&timezone=Asia%2FSeoul&ccode3=KOR&includeNextDayLateNight=true`;
-  try {
-    const res = await fetch(url);
-    if (!res.ok) return [];
-    const data = await res.json();
-    const flat = [];
-    for (const lg of (data.leagues || [])) {
-      for (const m of (lg.matches || [])) {
-        flat.push({
-          id: m.id,
-          leagueId: lg.id,
-          leagueName: lg.name,
-          ccode: lg.ccode,
-          utcTime: m.status?.utcTime || null,
-          home: m.home?.name || '',
-          away: m.away?.name || '',
-          finished: !!m.status?.finished,
-        });
-      }
-    }
-    return flat;
-  } catch (err) {
-    console.error(`❌ fotmob matches 조회 실패 (${dateStr}):`, err.message);
-    return [];
-  }
+// injuryHome/injuryAway는 "없음"이 글 생성 시점 기본값이라, 비어있는 것과 동일하게
+// 취급해서 채워도 되는 대상으로 판단한다. 이미 ESPN 등으로 실제 값이 채워져
+// 있으면(= "없음"도 빈 문자열도 아니면) 손대지 않는다.
+function isEmptyOrNoneField(raw) {
+  if (isEmptyField(raw)) return true;
+  return raw.trim().replace(/^['"]|['"]$/g, '').trim() === '없음';
 }
 
-const matchesCache = {}; // KST 날짜문자열 -> 그날 경기 목록 (같은 실행 안에서 재사용)
-async function getMatchesForDate(dateStr) {
-  if (!(dateStr in matchesCache)) {
-    matchesCache[dateStr] = await fetchFotmobMatchesByDate(dateStr);
-  }
-  return matchesCache[dateStr];
-}
-
-function toKstDateStr(dateLike) {
-  const d = new Date(dateLike);
-  return new Date(d.getTime() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
-}
-
-// 분석글의 실제 경기 일시(fm.date, UTC)를 기준으로 fotmob 목록에서 같은 경기를 찾는다.
-// 팀명 매칭 + 시간 근접(±6시간)을 같이 확인해서, 동명이인 팀(우루과이 Nacional vs
-// 포르투갈 Nacional 같은 사례)이 엉뚱하게 매칭되는 사고를 방지한다.
-async function findFotmobMatch(fmDateRaw, homeTeamEn, awayTeamEn) {
-  const centerTs = new Date(fmDateRaw).getTime();
-  if (Number.isNaN(centerTs)) return null;
-
-  const centerDate = toKstDateStr(fmDateRaw);
-  const datesToCheck = new Set([
-    new Date(centerTs - 86400000).toISOString().slice(0, 10),
-    centerDate,
-    new Date(centerTs + 86400000).toISOString().slice(0, 10),
-  ]);
-
-  let candidates = [];
-  for (const ds of datesToCheck) {
-    candidates.push(...(await getMatchesForDate(ds)));
-  }
-
-  const matched = candidates.filter(c => {
-    if (!c.utcTime) return false;
-    const diffHours = Math.abs(new Date(c.utcTime).getTime() - centerTs) / 3600000;
-    if (diffHours > 6) return false;
-    return (matchTeamWithAlias(c.home, homeTeamEn) && matchTeamWithAlias(c.away, awayTeamEn))
-        || (matchTeamWithAlias(c.home, awayTeamEn) && matchTeamWithAlias(c.away, homeTeamEn));
-  });
-
-  if (matched.length === 0) return null;
-  matched.sort((a, b) =>
-    Math.abs(new Date(a.utcTime).getTime() - centerTs) - Math.abs(new Date(b.utcTime).getTime() - centerTs)
-  );
-  return matched[0];
-}
-
-async function fetchMatchDetails(matchId) {
-  const url = `https://www.fotmob.com/api/data/matchDetails?matchId=${matchId}`;
-  try {
-    const res = await fetch(url);
-    if (!res.ok) return null;
-    return await res.json();
-  } catch (err) {
-    console.error(`❌ matchDetails 조회 실패 (${matchId}):`, err.message);
-    return null;
-  }
-}
-
-// ─────────────────────────────────────────────
-// fotmob 응답 → 우리 저장 포맷 변환
-// ─────────────────────────────────────────────
-
-// usualPlayingPositionId: 0=GK, 1=DF, 2=MF, 3=FW
-// (4-4-2 실제 라인업 좌표 데이터로 검증 완료, 2026-07)
-const POS_LABEL = { 0: 'GK', 1: 'DF', 2: 'MF', 3: 'FW' };
-
-function formatFotmobLineup(teamLineup) {
-  if (!teamLineup || !Array.isArray(teamLineup.starters)) return [];
-  return teamLineup.starters.map(p => {
-    const pos = POS_LABEL[p.usualPlayingPositionId] ?? '';
-    const photo = `https://images.fotmob.com/image_resources/playerimages/${p.id}.png`;
-    return `${p.name} (${pos})|${photo}`;
-  });
-}
-
-function toDisplayDateStr(utcTimeLike) {
-  const d = new Date(utcTimeLike);
-  if (Number.isNaN(d.getTime())) return '';
-  const kst = new Date(d.getTime() + 9 * 60 * 60 * 1000);
-  const yy = String(kst.getUTCFullYear()).slice(2);
-  const mm = String(kst.getUTCMonth() + 1).padStart(2, '0');
-  const dd = String(kst.getUTCDate()).padStart(2, '0');
-  return `${yy}.${mm}.${dd}`;
-}
-
-function toFotmobH2hDisplay(h2h, beforeDateStr) {
-  if (!h2h || !Array.isArray(h2h.matches)) return [];
-  const beforeTs = beforeDateStr ? new Date(beforeDateStr).getTime() : null;
-  return h2h.matches
-    .filter(m => m.status?.finished && m.status?.scoreStr)
-    .filter(m => {
-      if (!beforeTs) return true;
-      const t = new Date(m.status?.utcTime || m.time?.utcTime).getTime();
-      return !Number.isNaN(t) && t < beforeTs;
-    })
-    .map(m => ({
-      date: toDisplayDateStr(m.status?.utcTime || m.time?.utcTime),
-      home: m.home?.name || '',
-      away: m.away?.name || '',
-      score: (m.status?.scoreStr || '').replace(/\s+/g, ''),
-    }))
-    .filter(m => m.date);
-}
-
-// teamForm 배열 안의 각 항목이 "우리 쪽" 팀인지는 isOurTeam 플래그가 붙은 쪽의
-// team id로 판별한다 — 배열 순서(0번=홈, 1번=원정)에 의존하지 않아 더 안전하다.
-function getFormOwnerId(formArray) {
-  const first = formArray?.[0];
-  if (!first) return null;
-  if (first.home?.isOurTeam) return String(first.home.id);
-  if (first.away?.isOurTeam) return String(first.away.id);
-  return null;
-}
-
-const RESULT_EMOJI = { W: '🟢승', L: '🔴패', D: '🟡무' };
-
-function toFotmobRecentDisplay(formArr, beforeDateStr) {
-  const beforeTs = beforeDateStr ? new Date(beforeDateStr).getTime() : null;
-  return (formArr || [])
-    .filter(item => {
-      if (!beforeTs) return true;
-      const t = new Date(item.date?.utcTime).getTime();
-      return !Number.isNaN(t) && t < beforeTs;
-    })
-    .map(item => ({
-      date: toDisplayDateStr(item.date?.utcTime),
-      home: item.home?.name || '',
-      away: item.away?.name || '',
-      score: (item.score || '').replace(/\s+/g, ''),
-      result: RESULT_EMOJI[item.resultString] || '🟡무',
-    }))
-    .filter(item => item.date);
+// fotmob의 unavailable[] → {name, status, detail} 배열을 사람이 읽는 텍스트로 변환.
+// analyze-router-one-git.js의 formatInjuries()와 같은 표기 스타일을 맞춘다
+// (다만 fotmob은 세부 중증도 구분을 안 줘서 전부 [주요]로 표기).
+function formatFotmobInjuryText(list) {
+  if (!list || list.length === 0) return null;
+  return list
+    .map(i => `${i.name}[주요](부상${i.detail ? ' - 복귀예정 ' + i.detail : ''})`)
+    .join(' | ');
 }
 
 // ─────────────────────────────────────────────
@@ -399,20 +224,23 @@ async function main() {
     const awayLineupEmpty    = isEmptyField(fm.awayLineup);
     const homeFormationEmpty = isEmptyField(fm.homeFormation);
     const awayFormationEmpty = isEmptyField(fm.awayFormation);
+    const homeInjuryEmpty    = isEmptyOrNoneField(fm.injuryHome);
+    const awayInjuryEmpty    = isEmptyOrNoneField(fm.injuryAway);
 
     const needH2h        = existingH2h.items !== null && existingH2h.items.length < TARGET_COUNT;
     const needHomeRecent = existingHomeRecent.items !== null && existingHomeRecent.items.length < TARGET_COUNT;
     const needAwayRecent = existingAwayRecent.items !== null && existingAwayRecent.items.length < TARGET_COUNT;
     const needLineup = homeLineupEmpty || awayLineupEmpty || homeFormationEmpty || awayFormationEmpty;
+    const needInjury  = homeInjuryEmpty || awayInjuryEmpty;
 
-    if (!needH2h && !needHomeRecent && !needAwayRecent && !needLineup) { skipCount++; continue; }
+    if (!needH2h && !needHomeRecent && !needAwayRecent && !needLineup && !needInjury) { skipCount++; continue; }
 
     const homeTeamEn = toEnglishTeamName(fm.homeTeam || '');
     const awayTeamEn = toEnglishTeamName(fm.awayTeam || '');
 
     console.log(`\n🔍 ${path.basename(filePath)}`);
     console.log(`   홈: ${fm.homeTeam} → ${homeTeamEn} / 원정: ${fm.awayTeam} → ${awayTeamEn}`);
-    console.log(`   필요: h2h(${existingH2h.items?.length ?? '파싱불가'}→${needH2h}) homeRecent(${existingHomeRecent.items?.length ?? '파싱불가'}→${needHomeRecent}) awayRecent(${existingAwayRecent.items?.length ?? '파싱불가'}→${needAwayRecent}) lineup(${needLineup})`);
+    console.log(`   필요: h2h(${existingH2h.items?.length ?? '파싱불가'}→${needH2h}) homeRecent(${existingHomeRecent.items?.length ?? '파싱불가'}→${needHomeRecent}) awayRecent(${existingAwayRecent.items?.length ?? '파싱불가'}→${needAwayRecent}) lineup(${needLineup}) injury(${needInjury})`);
 
     try {
       const candidate = await findFotmobMatch(fm.date, homeTeamEn, awayTeamEn);
@@ -447,8 +275,6 @@ async function main() {
           if (items.length > 0) updates.awayLineup = JSON.stringify(items);
         }
 
-        // fotmob이 formation 문자열을 직접 주면 그대로 사용, 없으면(드문 경우)
-        // 방금 만든 라인업의 GK/DF/MF/FW 라벨로부터 폴백 유추
         if (homeFormationEmpty) {
           if (fotmobHomeLineup?.formation) {
             updates.homeFormation = fotmobHomeLineup.formation;
@@ -466,6 +292,22 @@ async function main() {
             const derived = deriveFormationFromLineup(positions);
             if (derived) updates.awayFormation = derived;
           }
+        }
+      }
+
+      if (needInjury && lineup) {
+        const rawInjuries = extractFotmobInjuries(lineup);
+        const injuries = isHomeFirst
+          ? rawInjuries
+          : { home: rawInjuries.away, away: rawInjuries.home };
+
+        if (homeInjuryEmpty) {
+          const text = formatFotmobInjuryText(injuries.home);
+          if (text) updates.injuryHome = text;
+        }
+        if (awayInjuryEmpty) {
+          const text = formatFotmobInjuryText(injuries.away);
+          if (text) updates.injuryAway = text;
         }
       }
 

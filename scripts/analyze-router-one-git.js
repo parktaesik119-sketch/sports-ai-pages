@@ -576,6 +576,22 @@ async function analyzeMatches() {
       return footystatsContextList.find(f => f.home === match.home && f.away === match.away) || null;
     }
 
+    // fotmob 컨텍스트 로드 (fetch-fotmob-context.js가 미리 생성) — 축구 전용, ESPN이
+    // 커버 못 하는 하위 리그의 결장자(부상/출장정지) 정보를 글 작성 시점에 미리 확보.
+    // footystats/KBO/NPB/KBL과 마찬가지로 match.home/away를 원문(영문) 그대로 저장하므로
+    // 정확 일치로 매칭 가능.
+    const fotmobContextPath = path.resolve(__dirname, `../database/fotmob-context-${today}.json`);
+    const fotmobContextList = fs.existsSync(fotmobContextPath)
+      ? JSON.parse(fs.readFileSync(fotmobContextPath, 'utf8'))
+      : [];
+    if (fotmobContextList.length > 0) {
+      console.log(`⚽ [fotmob 컨텍스트] ${fotmobContextList.length}건 로드됨`);
+    }
+
+    function findFotmobContext(match) {
+      return fotmobContextList.find(f => f.home === match.home && f.away === match.away) || null;
+    }
+
     // footystats가 준 경기 행(row)의 팀명은 footystats 자체 표기(영문, api-sports와 미묘하게
     // 다를 수 있음 — 예: "St Patricks Athletic" vs api-sports의 다른 표기)라서, buildRecentForm의
     // `m.home === teamName` 같은 정확 일치 비교가 깨지지 않도록 우리 팀 이름을 match.home/away
@@ -964,6 +980,9 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   // KBL 전용 컨텍스트 매칭 (최근폼/상대전적만 제공, ESPN이 KBL을 커버하지 않으므로 별도 처리)
   const kblInfo = cat === 'basketball' ? findKblContext(match) : null;
 
+  // fotmob 결장자 컨텍스트 매칭 (축구 전용, ESPN이 못 잡는 하위 리그 보강)
+  const fotmobInfo = cat === 'soccer' ? findFotmobContext(match) : null;
+
   // KBL 공식 API 최근폼을 all-fixtures 기반 homeRecentMatches/awayRecentMatches에 보강.
   // (겨울 시즌제라 시즌 초반엔 all-fixtures만으로 최근 경기가 부족할 수 있어서 만든 보강 경로.
   //  날짜 중복만 걸러내고 병합 후 최신순으로 다시 정렬 — 어느 쪽이 더 많든 항상 최신 10개만 남음)
@@ -1313,6 +1332,13 @@ const awayStandingText = espnInfo ? formatStanding(espnInfo.standings?.away) : n
 const hasEspnInjuryData = !!(homeInjuryText || awayInjuryText);
 const hasEspnAnyData = hasEspnInjuryData || homeStandingText || awayStandingText;
 
+// fotmob 결장자 데이터 (축구 전용, ESPN이 못 잡는 하위 리그 보강).
+// extractFotmobInjuries()가 이미 {name, status, detail} 형태로 맞춰서 주기 때문에
+// ESPN용 formatInjuries()를 그대로 재사용할 수 있다.
+const fotmobHomeInjuryText = fotmobInfo ? formatInjuries(fotmobInfo.injuries?.home) : null;
+const fotmobAwayInjuryText = fotmobInfo ? formatInjuries(fotmobInfo.injuries?.away) : null;
+const hasFotmobInjuryData = !!(fotmobHomeInjuryText || fotmobAwayInjuryText);
+
 // ─────────────────────────────────────────────
 // KBO 전용 데이터 포맷 (fetch-kbo-context.js가 수집한 선발투수분석/구종분석/라인업)
 // ESPN이 KBO를 커버하지 않으므로 별도 데이터 블록으로 구성한다.
@@ -1367,6 +1393,8 @@ const searchOrEspnInstruction = hasEspnAnyData
   ? `아래 [KBO 공식 데이터]를 선발투수/구종/라인업/순위/결장자 정보의 근거로 그대로 사용하라. 이 경기는 KBO 공식 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [KBO 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
   : hasNpbData
   ? `아래 [NPB 공식 데이터]의 예고선발투수 정보를 그대로 사용하라. 이 경기는 NPB 공식 예고선발 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. 단, NPB 데이터는 선발투수 이름만 제공하므로 결장자/부상자 정보(INJURY_HOME/INJURY_AWAY)와 선발투수의 상세 기록(ERA 등)은 web_search로 "${match.home} ${match.away} starting pitcher injury 2026"를 검색해서 보강하라.`
+  : hasFotmobInjuryData
+  ? `아래 [fotmob 데이터]를 결장자 정보의 근거로 그대로 사용하라. INJURY_HOME/INJURY_AWAY는 반드시 [fotmob 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라. 단, fotmob 데이터는 결장자 정보만 제공하므로 그 외 정보(순위, 최근 이슈 등)가 분석에 필요하면 web_search로 "${match.home} ${match.away} 2026" 등을 검색해서 보강해도 된다.`
   : `지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.\n\n검색 1: "${match.home} ${match.away} injury report 2026"\n\n검색 완료 후 아래 정보를 참고하여 분석을 작성하라.`;
 
 // 월드컵/올림픽 등 조별리그 방식 대회는 ESPN standings의 rank가 "전체 리그 순위"가 아니라
@@ -1418,6 +1446,16 @@ const npbDataBlock = hasNpbData ? `
 - 예고선발은 부상 등 예외 상황이 아니면 변경되지 않으므로, 신뢰도 높은 정보로 취급해 분석 본문에 단정적으로 서술하라.
 ` : '';
 
+const fotmobDataBlock = hasFotmobInjuryData ? `
+[fotmob 데이터 - 결장자. ESPN 미커버 리그를 보강하는 1차 데이터이므로 우선 사용하라]
+- 홈팀(${aiHomeName}) 결장자: ${fotmobHomeInjuryText || '없음'}
+- 원정팀(${aiAwayName}) 결장자: ${fotmobAwayInjuryText || '없음'}
+
+[fotmob 데이터 활용 가이드]
+- 결장자 이름 옆 [주요] 태그가 있으면 전력분석에서 비중 있게 다루되, 태그 표기 자체는 분석 본문에 노출하지 마라.
+- fotmob은 결장자 외 정보(순위, 폼 등)는 제공하지 않으므로, 필요하면 web_search로 추가 보강하라.
+` : '';
+
 
 
 
@@ -1426,6 +1464,7 @@ ${searchOrEspnInstruction}
 ${espnDataBlock}
 ${kboDataBlock}
 ${npbDataBlock}
+${fotmobDataBlock}
 [경기 정보]
 - 종목: ${cat} ${gameContext}
 - 홈팀: ${aiHomeName} (DB 원문: ${match.home})
