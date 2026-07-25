@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 M. Mikolas (3-7, 5.60) ERA 5.60|https://a.espncdn.com/i/headshots/mlb/players/full/32116.png\"]"
+awayLineup: "[\"선발투수 K. Drake (0-0, 1.80) ERA 1.80|https://a.espncdn.com/i/headshots/mlb/players/full/5264737.png\"]"
 ---

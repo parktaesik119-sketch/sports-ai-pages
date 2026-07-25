@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 B. Ashcraft (9-4, 3.95) ERA 3.95|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
+awayLineup: "[\"선발투수 J. Taillon (2-5, 5.38) ERA 5.38|https://a.espncdn.com/i/headshots/mlb/players/full/31258.png\"]"
 ---

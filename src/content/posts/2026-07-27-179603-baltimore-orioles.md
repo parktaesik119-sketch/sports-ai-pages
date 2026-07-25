@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 S. Baz (4-9, 4.13) ERA 4.13|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+awayLineup: "[\"선발투수 R. Lopez (4-3, 3.95) ERA 3.95|https://a.espncdn.com/i/headshots/mlb/players/full/33860.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 E. Fedde (5-6, 4.16) ERA 4.16|https://a.espncdn.com/i/headshots/mlb/players/full/33793.png\"]"
+awayLineup: "[\"선발투수 R. Blanco (0-0, 7.71) ERA 7.71|https://a.espncdn.com/i/headshots/mlb/players/full/41829.png\"]"
 ---

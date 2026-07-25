@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 C. Sanchez (12-4, 2.71) ERA 2.71|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+awayLineup: "[\"선발투수 W. Warren (7-4, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\"]"
 ---

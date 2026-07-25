@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 J. Misiorowski (10-4, 1.57) ERA 1.57|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
+awayLineup: "[\"선발투수 K. Freeland (2-9, 7.28) ERA 7.28|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 K. Leahy (7-4, 3.59) ERA 3.59|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
+awayLineup: "[\"선발투수 A. Abbott (5-6, 3.89) ERA 3.89|https://a.espncdn.com/i/headshots/mlb/players/full/4414528.png\"]"
 ---
