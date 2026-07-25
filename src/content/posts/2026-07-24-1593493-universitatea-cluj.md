@@ -19,7 +19,7 @@ summary: "우니베르시타테아 클루지는 이번 대회에서 실점 억�
 homeRecent: '[{"date":"26.07.19","home":"우니베르시타테아 클루지","away":"SSC Farul","score":"2-1","result":"🔴패"},{"date":"26.07.17","home":"우니베르시타테아 클루지","away":"디나모 키예프","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554450-2026-07-17-universitatea-cluj/"},{"date":"26.07.10","home":"디나모 키예프","away":"우니베르시타테아 클루지","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554442-2026-07-10-dynamo-kyiv/"},{"date":"26.07.03","home":"우니베르시타테아 클루지","away":"니레지하자","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1550508-2026-07-03-universitatea-cluj/"},{"date":"26.06.28","home":"우이페슈트","away":"우니베르시타테아 클루지","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1548718-2026-06-28-ujpest/"}]'
 awayRecent: '[{"date":"26.07.18","home":"몰데","away":"브란","score":"1-2","result":"🟢승"},{"date":"26.07.12","home":"브란","away":"스타르트","score":"2-1","result":"🔴패"},{"date":"26.07.03","home":"브란","away":"크리스티안순","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1548748-2026-07-03-brann/"},{"date":"26.06.26","home":"오르후스","away":"브란","score":"0-1","result":"🟢승"},{"date":"26.05.29","home":"브란","away":"사르프스보르 08","score":"1-2","result":"🟢승"}]'
 injuryHome: "없음"
-injuryAway: "없음"
+injuryAway: "Nana Kwame Boakye[주요](부상 - 복귀예정 Out for season) | Sakarias Opsahl[주요](부상 - 복귀예정 Early August 2026)"
 pickWinTeam: "브란"
 pickWinResult: "승"
 pickHandicapTeam: "브란"
