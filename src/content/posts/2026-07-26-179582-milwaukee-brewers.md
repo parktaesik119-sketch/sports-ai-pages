@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 R. Gasser (2-4, 4.91) ERA 4.91|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
-awayLineup: "[\"선발투수 R. Feltner (3-4, 5.48) ERA 5.48|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
+awayLineup: "[\"선발투수 R. Feltner (3-4, 5.48) ERA 5.48|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\",\"1번 J. McCarthy (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 K. Karros (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5203102.png\",\"3번 C. Carrigg (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"4번 H. Goodman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"5번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"6번 W. Castro (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"7번 B. Fulford (C)|https://a.espncdn.com/i/headshots/mlb/players/full/5000931.png\",\"8번 T. Freeman (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40958.png\",\"9번 E. Tovar (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png\"]"
 ---

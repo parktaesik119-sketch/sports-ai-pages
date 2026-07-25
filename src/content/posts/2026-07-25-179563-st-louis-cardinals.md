@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 A. Pallante (10-6, 4.02) ERA 4.02|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
-awayLineup: "[\"선발투수 H. Greene (2-1, 6.06) ERA 6.06|https://a.espncdn.com/i/headshots/mlb/players/full/39635.png\"]"
+awayLineup: "[\"선발투수 H. Greene (2-1, 6.06) ERA 6.06|https://a.espncdn.com/i/headshots/mlb/players/full/39635.png\",\"1번 E. De La Cruz (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"2번 S. Stewart (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"3번 J. Bleday (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"4번 E. Suarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32367.png\",\"5번 T. Stephenson (C)|https://a.espncdn.com/i/headshots/mlb/players/full/34975.png\",\"6번 N. Marte (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41307.png\",\"7번 T. Friedl (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/36020.png\",\"8번 E. Arroyo (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4919919.png\",\"9번 K. Hayes (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/35020.png\"]"
 ---
