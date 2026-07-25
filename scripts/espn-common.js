@@ -178,6 +178,8 @@ const TEAM_NAME_ALIASES = {
   'ulsanhd': 'ulsanhyundaifc',
   'usa': 'unitedstates',
   'interdescaldes': 'interclubdescaldes',
+  'NewYorkRedBulls': 'RedBullNewYork',
+  'Charlotte': 'CharlotteFC'
 };
 
 function resolveTeamAlias(normalized) {
