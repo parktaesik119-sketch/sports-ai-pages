@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "6.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Sachiya Yamasaki (3-0, 2.57)|https://p.npb.jp/players_photo/2026/180/f/018_21825130.jpg\"]"
+awayLineup: "[\"선발투수 Ryota Takinaka (5-3, 2.03)|https://p.npb.jp/players_photo/2026/180/e/057_31235151.jpg\"]"
 ---

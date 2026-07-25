@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Yumeto Kanemaru (5-8, 2.75)|https://p.npb.jp/players_photo/2026/180/d/021_61565150.jpg\"]"
+awayLineup: "[\"선발투수 Shuto Ogata (0-2, 3.00)|https://p.npb.jp/players_photo/2026/180/db/036_61365136.jpg\"]"
 ---
