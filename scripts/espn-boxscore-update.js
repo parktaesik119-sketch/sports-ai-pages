@@ -161,6 +161,8 @@ const TEAM_NAME_ALIASES = {
   'usa': 'unitedstates',
   // ESPN은 안도라의 Inter Club d'Escaldes를 "Club"을 빼고 "Inter D'Escaldes"로 표기한다.
   'interdescaldes': 'interclubdescaldes',
+  'newyorkredbulls': 'redbullnewyork',
+  'charlotte': 'charlottefc',
 };
 
 function resolveTeamAlias(normalized) {
