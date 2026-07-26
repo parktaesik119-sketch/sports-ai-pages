@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 C. Sanchez (12-4, 2.65) ERA 2.65|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+homeLineup: "[\"선발투수 C. Sanchez (12-4, 2.65) ERA 2.65|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\",\"1번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"2번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"3번 B. Harper (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 B. Marsh (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40803.png\",\"5번 A. Bohm (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"6번 B. Stott (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"7번 J.T. Realmuto (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32177.png\",\"8번 G. Rincones Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5131884.png\",\"9번 J. Crawford (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080642.png\"]"
 awayLineup: "[\"선발투수 W. Warren (7-4, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\"]"
 ---
