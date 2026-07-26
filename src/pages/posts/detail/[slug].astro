@@ -249,8 +249,10 @@ function formatLegacyH2hText(str: unknown): string {
 // "Will Wilson (골절)" → { name: "Will Wilson", reason: "골절" } 로 분리 (사유 우측 정렬용)
 function parseInjuryEntry(entry: string): { name: string; reason: string } {
   const m = entry.match(/^(.+?)\s*\(([^)]+)\)\s*$/);
-  if (m) return { name: m[1].trim(), reason: m[2].trim() };
-  return { name: entry, reason: '' };
+  if (!m) return { name: entry, reason: '' };
+  const name = m[1].replace(/\[[^\]]*\]\s*$/, '').trim();   // 이름에 붙은 [주요] 태그 제거
+  const reason = m[2].split(' - ')[0].trim();                 // "부상 - 복귀예정 ..." 중 "부상"만 남김
+  return { name, reason };
 }
 
 function parseInjury(str: string): string[] {
