@@ -1019,12 +1019,12 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     // - 날짜: ESPN/api-sports(실제 시각 정보 있음)를 우선 — footystats는 시간이 없어서
     //   자정으로 가정되므로, 실제 킥오프 시각에 따라 KST 변환 시 하루 어긋날 수 있음
     //   (사용자 실사용 지적으로 확인, 2026-07).
-    // - 스코어: footystats → ESPN → api-sports 순서(footystats가 스코어 정확도가
-    //   가장 높은 걸로 검증됨).
+    // - 스코어: fotmob(현재 활성 소스) → footystats(레거시, 현재 미가동) → ESPN → api-sports.
     const footystatsInfo = findFootystatsContext(match);
 
     const prioritizedH2h = mergeSoccerMatchSources(
       [
+        { label: 'fotmob', list: fotmobInfo?.h2h },
         { label: 'footystats', list: footystatsInfo?.h2h },
         { label: 'espn', list: espnInfo?.h2h?.games },
         { label: 'masterData', list: h2hHistory },
@@ -1036,6 +1036,7 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
 
     const prioritizedHomeRecent = mergeSoccerMatchSources(
       [
+        { label: 'fotmob', list: fotmobInfo?.recent?.home },
         { label: 'footystats', list: footystatsInfo?.recent?.home },
         { label: 'espn', list: espnInfo?.recent?.home },
         { label: 'masterData', list: homeRecentMatches },
@@ -1046,6 +1047,7 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
 
     const prioritizedAwayRecent = mergeSoccerMatchSources(
       [
+        { label: 'fotmob', list: fotmobInfo?.recent?.away },
         { label: 'footystats', list: footystatsInfo?.recent?.away },
         { label: 'espn', list: espnInfo?.recent?.away },
         { label: 'masterData', list: awayRecentMatches },
@@ -1054,7 +1056,8 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     );
     awayRecentMatches = prioritizedAwayRecent.slice(0, 10);
 
-    const sourceLabel = footystatsInfo?.h2h?.length > 0 ? 'footystats'
+    const sourceLabel = fotmobInfo?.h2h?.length > 0 ? 'fotmob'
+      : footystatsInfo?.h2h?.length > 0 ? 'footystats'
       : (espnInfo?.h2h?.games?.length > 0 ? 'ESPN 공식' : '내부 DB');
 
     if (h2hHistory.length > 0) {

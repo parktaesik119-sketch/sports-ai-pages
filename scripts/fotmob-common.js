@@ -226,3 +226,57 @@ export function extractFotmobInjuries(lineup) {
     away: toItems(lineup?.awayTeam?.unavailable),
   };
 }
+
+// ─────────────────────────────────────────────
+// 글 작성 시점(analyze-router-one-git.js의 mergeSoccerMatchSources)용 변환.
+// toFotmobH2hDisplay/toFotmobRecentDisplay(위)는 fotmob-lineup-update.js가 사후에
+// frontmatter에 직접 써넣는 "26.07.09" 같은 축약 표시용 포맷이라, new Date()로
+// 파싱이 안 돼서 mergeSoccerMatchSources에 그대로 못 넣는다. 여기 두 함수는
+// 원본 ISO 날짜 + 숫자 homeScore/awayScore로 맞춘 "원본 데이터용" 버전이다.
+// ─────────────────────────────────────────────
+
+function splitScoreStr(scoreStr) {
+  const parts = (scoreStr || '').split('-').map(s => Number(s.trim()));
+  const [homeScore, awayScore] = parts;
+  return {
+    homeScore: Number.isFinite(homeScore) ? homeScore : null,
+    awayScore: Number.isFinite(awayScore) ? awayScore : null,
+  };
+}
+
+export function toFotmobH2hRaw(h2h, beforeDateStr) {
+  if (!h2h || !Array.isArray(h2h.matches)) return [];
+  const beforeTs = beforeDateStr ? new Date(beforeDateStr).getTime() : null;
+  return h2h.matches
+    .filter(m => m.status?.finished && m.status?.scoreStr)
+    .filter(m => {
+      if (!beforeTs) return true;
+      const t = new Date(m.status?.utcTime || m.time?.utcTime).getTime();
+      return !Number.isNaN(t) && t < beforeTs;
+    })
+    .map(m => ({
+      date: m.status?.utcTime || m.time?.utcTime, // ISO 원본 그대로
+      home: m.home?.name || '',
+      away: m.away?.name || '',
+      ...splitScoreStr(m.status?.scoreStr),
+    }))
+    .filter(m => m.date);
+}
+
+export function toFotmobRecentRaw(formArr, beforeDateStr) {
+  const beforeTs = beforeDateStr ? new Date(beforeDateStr).getTime() : null;
+  return (formArr || [])
+    .filter(item => {
+      if (!beforeTs) return true;
+      const t = new Date(item.date?.utcTime).getTime();
+      return !Number.isNaN(t) && t < beforeTs;
+    })
+    .map(item => ({
+      date: item.date?.utcTime, // ISO 원본 그대로
+      home: item.home?.name || '',
+      away: item.away?.name || '',
+      homeScore: item.tooltipText?.homeScore != null ? Number(item.tooltipText.homeScore) : null,
+      awayScore: item.tooltipText?.awayScore != null ? Number(item.tooltipText.awayScore) : null,
+    }))
+    .filter(item => item.date);
+}
