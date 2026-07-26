@@ -336,6 +336,33 @@
     }
   },
   {
+    "home": "New York Red Bulls",
+    "away": "Charlotte",
+    "date": "2026-07-25T22:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Rafael Mosquera",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "AJ Marcucci",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ],
+      "away": [
+        {
+          "name": "Aron John",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ]
+    }
+  },
+  {
     "home": "Millonarios",
     "away": "Bucaramanga",
     "date": "2026-07-25T23:10:00+00:00",
@@ -516,6 +543,68 @@
         },
         {
           "name": "Christopher Applewhite",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "New York City FC",
+    "away": "Chicago Fire",
+    "date": "2026-07-25T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Kai Trewin",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Keaton Parks",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Kevin OToole",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Aiden O'Neill",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Maxi Moralez",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Mac Learned",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Drew Baiera",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Alonso Martínez",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Mbekezeli Mbokazi",
+          "status": "injury",
+          "detail": "Day to day"
+        },
+        {
+          "name": "André Franco",
           "status": "injury",
           "detail": "Early August 2026"
         }
@@ -779,11 +868,6 @@
     "injuries": {
       "home": [
         {
-          "name": "Timothy Tillman",
-          "status": "injury",
-          "detail": "Doubtful"
-        },
-        {
           "name": "Sergi Palencia",
           "status": "injury",
           "detail": "Mid August 2026"
@@ -984,6 +1068,22 @@
         }
       ],
       "away": []
+    }
+  },
+  {
+    "home": "FC Orenburg",
+    "away": "FC Rostov",
+    "date": "2026-07-26T16:30:00+00:00",
+    "league": "Premier League",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Dmitriy Chistyakov",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        }
+      ]
     }
   },
   {
