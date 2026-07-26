@@ -30,11 +30,16 @@ function loadFotmobAliases() {
 }
 const FOTMOB_ALIASES = loadFotmobAliases();
 
+// 별칭 값은 문자열 하나 또는 문자열 배열(한 팀이 fotmob 안에서도 API 종류별로
+// 다른 이름을 쓰는 경우 대비 — 실사용으로 확인됨: New York Red Bulls가
+// matches 목록 API에선 "NY Red Bulls", teamForm/lineup 쪽에선
+// "Red Bull New York"으로 서로 다르게 나옴, 2026-07)
 export function matchTeamWithAlias(fotmobName, dbNameEn) {
   if (matchTeam(fotmobName, dbNameEn)) return true;
   const alias = FOTMOB_ALIASES[dbNameEn];
-  if (alias && matchTeam(fotmobName, alias)) return true;
-  return false;
+  if (!alias) return false;
+  const aliasList = Array.isArray(alias) ? alias : [alias];
+  return aliasList.some(a => matchTeam(fotmobName, a));
 }
 
 // ─────────────────────────────────────────────

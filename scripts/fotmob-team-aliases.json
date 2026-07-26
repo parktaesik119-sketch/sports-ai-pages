@@ -3,8 +3,9 @@
   "Los Angeles FC": "LAFC",
   "Sporting Kansas City": "Sporting KC",
   "Los Angeles Galaxy": "LA Galaxy",
-  "New York Red Bulls": "Red Bull New York",
-  "Chicago Fire": "Chicago Fire FC",
+  "New York Red Bulls": ["Red Bull New York", "NY Red Bulls"],
+  "New York City FC": "NYCFC",
+  "Chicago Fire": ["Chicago Fire FC", "Chicago"],
   "Charlotte": "Charlotte FC",
   
   "SHANGHAI SIPG": "Shanghai Port",
