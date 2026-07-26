@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 N. Schultz (3-7, 6.04) ERA 6.04|https://a.espncdn.com/i/headshots/mlb/players/full/5080754.png\"]"
+awayLineup: "[\"선발투수 G. Cole (3-5, 3.92) ERA 3.92|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 M. Liberatore (5-7, 5.18) ERA 5.18|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
+awayLineup: "[\"선발투수 D. Peterson (5-7, 5.97) ERA 5.97|https://a.espncdn.com/i/headshots/mlb/players/full/40921.png\"]"
 ---
