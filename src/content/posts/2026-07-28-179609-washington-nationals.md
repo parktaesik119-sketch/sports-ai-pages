@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 A. Alvarez (2-3, 4.22) ERA 4.22|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
+awayLineup: "[\"선발투수 M. Scherzer (1-4, 10.23) ERA 10.23|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
 ---
