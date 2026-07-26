@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
 awayLineup: "[\"선발투수 J. Soriano (8-6, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
-homeLineup: "[\"선발투수 C. Whisenhunt (2-0, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/4626232.png\"]"
+homeLineup: "[\"선발투수 C. Whisenhunt (2-0, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/4626232.png\",\"1번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"2번 H. Ramos (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/39642.png\",\"3번 B. Eldridge (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png\",\"4번 R. Devers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/33859.png\",\"5번 C. Schmitt (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4301949.png\",\"6번 D. Gilbert (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4619467.png\",\"7번 W. Adames (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33675.png\",\"8번 D. Cavanaugh (C)|https://a.espncdn.com/i/headshots/mlb/players/full/5270445.png\",\"9번 G. McCray (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4919922.png\"]"
 ---
