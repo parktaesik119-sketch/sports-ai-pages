@@ -1385,6 +1385,7 @@ const TEAM_NAME_MAP = {
   "Sri Lanka": "스리랑카",
   "Indonesia": "인도네시아",
   "Mongolia": "몽골",
+  "Maldives": "몰디브",
 
   // 기타 주요 단일팀
   "CONCACAF Champions League": "CONCACAF 챔피언스리그",
