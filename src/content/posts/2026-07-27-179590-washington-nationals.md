@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 M. Mikolas (3-7, 5.60) ERA 5.60|https://a.espncdn.com/i/headshots/mlb/players/full/32116.png\"]"
-awayLineup: "[\"선발투수 K. Drake (0-0, 1.80) ERA 1.80|https://a.espncdn.com/i/headshots/mlb/players/full/5264737.png\"]"
+awayLineup: "[\"선발투수 K. Drake (0-0, 1.80) ERA 1.80|https://a.espncdn.com/i/headshots/mlb/players/full/5264737.png\",\"1번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"2번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"3번 G. Moreno (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"4번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"5번 M. Kepler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31870.png\",\"6번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"7번 A. Del Castillo (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41464.png\",\"8번 T. Locklear (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4866477.png\",\"9번 T. Tawa (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\"]"
 ---
