@@ -1,0 +1,1405 @@
+[
+  {
+    "home": "Akron",
+    "away": "Zenit",
+    "date": "2026-07-25T13:15:00+00:00",
+    "league": "Premier League",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Vadim Shilov",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Fakel",
+    "away": "Dinamo Makhachkala",
+    "date": "2026-07-25T15:30:00+00:00",
+    "league": "Premier League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Stanislav Magkeev",
+          "status": "injury",
+          "detail": "Day to day"
+        }
+      ],
+      "away": [
+        {
+          "name": "Idar Shumakhov",
+          "status": "injury",
+          "detail": "Late November 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Galway United",
+    "away": "Waterford",
+    "date": "2026-07-25T16:00:00+00:00",
+    "league": "Premier Division",
+    "injuries": {
+      "home": [
+        {
+          "name": "Dara McGuinness",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ],
+      "away": [
+        {
+          "name": "Finlay Armstrong",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Lausanne",
+    "away": "Grasshoppers",
+    "date": "2026-07-25T16:00:00+00:00",
+    "league": "Super League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Hamza Abdallah",
+          "status": "injury",
+          "detail": "Early September 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Young-jun Lee",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Servette FC",
+    "away": "FC Basel 1893",
+    "date": "2026-07-25T16:00:00+00:00",
+    "league": "Super League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jérémy Frick",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Edvinas Gertmonas",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Junior Kadile",
+          "status": "injury",
+          "detail": "A few weeks"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kaio Eduardo",
+          "status": "injury",
+          "detail": "Mid November 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Spartak Moscow",
+    "away": "Rodina Moskva",
+    "date": "2026-07-25T17:45:00+00:00",
+    "league": "Premier League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Christopher Wooh",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Daniil Zorin",
+          "status": "injury",
+          "detail": "Late December 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Artur Gharibyan",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Luzern",
+    "away": "FC Thun",
+    "date": "2026-07-25T18:30:00+00:00",
+    "league": "Super League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Demir Xhemalija",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Bung Hua Freimann",
+          "status": "injury",
+          "detail": "Out for season"
+        }
+      ],
+      "away": [
+        {
+          "name": "Marco Bürki",
+          "status": "suspension",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Genís Montolio",
+          "status": "injury",
+          "detail": "Early January 2027"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Sligo Rovers",
+    "away": "Drogheda United",
+    "date": "2026-07-25T18:45:00+00:00",
+    "league": "Premier Division",
+    "injuries": {
+      "home": [
+        {
+          "name": "Sebastian Quirk",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Conor Reynolds",
+          "status": "injury",
+          "detail": "A few weeks"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kieran Cruise",
+          "status": "injury",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Andrew Quinn",
+          "status": "injury",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Owen Lambe",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chico",
+    "away": "Atletico Nacional",
+    "date": "2026-07-25T21:00:00+00:00",
+    "league": "Primera A",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Juan Zapata",
+          "status": "suspension",
+          "detail": null
+        },
+        {
+          "name": "Elkin Rivero",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Independiente Medellin",
+    "away": "Deportivo Pasto",
+    "date": "2026-07-25T21:05:00+00:00",
+    "league": "Primera A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Yony González",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        }
+      ],
+      "away": []
+    }
+  },
+  {
+    "home": "Atletico Paranaense",
+    "away": "Internacional",
+    "date": "2026-07-25T21:30:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Arthur Dias",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Bruno Zapelli",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Mycael",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Victor Gabriel",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Thiago Maia",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Sergio Rochet",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Santos",
+    "away": "Chapecoense-sc",
+    "date": "2026-07-25T21:30:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Gustavo Henrique",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Vinicius Lira",
+          "status": "injury",
+          "detail": "Out for season"
+        }
+      ],
+      "away": [
+        {
+          "name": "Anderson",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Carvalheira",
+          "status": "injury",
+          "detail": "Out for season"
+        },
+        {
+          "name": "Victor Caetano",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "João Paulo",
+          "status": "injury",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Robert",
+          "status": "injury",
+          "detail": "Mid October 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Millonarios",
+    "away": "Bucaramanga",
+    "date": "2026-07-25T23:10:00+00:00",
+    "league": "Primera A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Radamel Falcao",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": []
+    }
+  },
+  {
+    "home": "Columbus Crew",
+    "away": "FC Cincinnati",
+    "date": "2026-07-25T23:15:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Brooks Lennon",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Wessam Abou Ali",
+          "status": "injury",
+          "detail": "Early June 2026"
+        }
+      ],
+      "away": []
+    }
+  },
+  {
+    "home": "CF Montreal",
+    "away": "Inter Miami",
+    "date": "2026-07-25T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Thomas Gillier",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Josh-Duc Nteziryayo",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Bode Hidalgo",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Wiki Carmona",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Gonzalo Luján",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Maximiliano Falcón",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "David Ayala",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Tadeo Allende",
+          "status": "injury",
+          "detail": "Late August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Philadelphia Union",
+    "away": "Seattle Sounders",
+    "date": "2026-07-25T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Jackson Ragen",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Jordan Morris",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Ryan Sailor",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Alex Roldan",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Kee-Hee Kim",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Cristian Roldan",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Nikola Petkovic",
+          "status": "injury",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Pedro De la Vega",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Orlando City SC",
+    "away": "Nashville SC",
+    "date": "2026-07-25T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nolan Miller",
+          "status": "injury",
+          "detail": "Mid September 2026"
+        },
+        {
+          "name": "Joran Gerbet",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ],
+      "away": [
+        {
+          "name": "Reed Baker-Whiting",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Warren Madrigal",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Cristian Espinoza",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Patrick Yazbek",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Christopher Applewhite",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "New England Revolution",
+    "away": "Atlanta United FC",
+    "date": "2026-07-25T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Ilay Feingold",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Andrew Farrell",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Sérgio Santos",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Ajani Fortune",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Pedro Amador",
+          "status": "injury",
+          "detail": "Mid October 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "DC United",
+    "away": "Toronto FC",
+    "date": "2026-07-25T23:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Gabriel Segal",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Lazar Stefanovic",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Nelson Palacio",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Nicksoen Gomis",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Markus Cimermancic",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Matheus Pereira",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Vasco DA Gama",
+    "away": "Mirassol",
+    "date": "2026-07-25T23:30:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Alan Saldivia",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Neto Moura",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Alex Muralha",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Negueba",
+          "status": "injury",
+          "detail": "Out for season"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Minnesota United FC",
+    "away": "Vancouver Whitecaps",
+    "date": "2026-07-26T00:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Kenji Cabrera",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Emmanuel Sabbi",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Ralph Priso-Mbongue",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Belal Halbouni",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Houston Dynamo",
+    "away": "Austin",
+    "date": "2026-07-26T00:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jimmy Maurer",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Antônio Carlos",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Mikkel Desler",
+          "status": "injury",
+          "detail": "Early October 2026"
+        },
+        {
+          "name": "Jon Bell",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "St. Louis City",
+    "away": "Colorado Rapids",
+    "date": "2026-07-26T00:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Célio Pompeu",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jackson Travis",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Zack Steffen",
+          "status": "injury",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Mamadou Billo Diop",
+          "status": "injury",
+          "detail": "Mid September 2026"
+        },
+        {
+          "name": "Theodore Ku-DiPietro",
+          "status": "injury",
+          "detail": "Early June 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Deportes Tolima",
+    "away": "Junior",
+    "date": "2026-07-26T01:15:00+00:00",
+    "league": "Primera A",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Jesús Rivas",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Diego",
+    "away": "FC Dallas",
+    "date": "2026-07-26T01:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Amahl Pellegrino",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ramiro",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Los Angeles FC",
+    "away": "Sporting Kansas City",
+    "date": "2026-07-26T02:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Timothy Tillman",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Sergi Palencia",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Igor Jesus",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ],
+      "away": [
+        {
+          "name": "Taylor Calheira",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Justin Reynolds",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Jose Earthquakes",
+    "away": "Los Angeles Galaxy",
+    "date": "2026-07-26T02:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Niko Tsakiris",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Earl Edwards Jr.",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Nonso Adimabua",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "DeJuan Jones",
+          "status": "injury",
+          "detail": "Late December 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Emiro Garcés",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Erik Thommy",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Riqui Puig",
+          "status": "injury",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "João Klauss",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Portland Timbers",
+    "away": "Real Salt Lake",
+    "date": "2026-07-26T02:30:00+00:00",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Gage Guerra",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Juan Mosquera",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Omir Fernandez",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Aiden Hezarkhani",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Justen Glad",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Emeka Eneli",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "BSC Young Boys",
+    "away": "FC Sion",
+    "date": "2026-07-26T12:00:00+00:00",
+    "league": "Super League",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Kreshnik Hajrizi",
+          "status": "injury",
+          "detail": "Late September 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Lokomotiv",
+    "away": "Akhmat",
+    "date": "2026-07-26T14:00:00+00:00",
+    "league": "Premier League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nikolay Komlichenko",
+          "status": "injury",
+          "detail": "Day to day"
+        }
+      ],
+      "away": []
+    }
+  },
+  {
+    "home": "FC Lugano",
+    "away": "FC Vaduz",
+    "date": "2026-07-26T14:30:00+00:00",
+    "league": "Super League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Daniel Dos Santos",
+          "status": "injury",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Martim Marques",
+          "status": "injury",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Claudio Cassano",
+          "status": "injury",
+          "detail": "Out for season"
+        }
+      ],
+      "away": []
+    }
+  },
+  {
+    "home": "FC ST. Gallen",
+    "away": "FC Zurich",
+    "date": "2026-07-26T14:30:00+00:00",
+    "league": "Super League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Lukas Watkowiak",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Nino Weibel",
+          "status": "injury",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Behar Neziri",
+          "status": "injury",
+          "detail": "Early September 2026"
+        }
+      ],
+      "away": []
+    }
+  },
+  {
+    "home": "Rubin",
+    "away": "FC Krasnodar",
+    "date": "2026-07-26T16:30:00+00:00",
+    "league": "Premier League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Uros Drezgic",
+          "status": "injury",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Anderson Arroyo",
+          "status": "injury",
+          "detail": "Day to day"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kazbek Mukailov",
+          "status": "injury",
+          "detail": "Day to day"
+        },
+        {
+          "name": "Aleksandr Koksharov",
+          "status": "injury",
+          "detail": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Bahia",
+    "away": "Corinthians",
+    "date": "2026-07-26T19:00:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Marco Moreno",
+          "status": "injury",
+          "detail": "About a week"
+        },
+        {
+          "name": "Cristian Olivera",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Léo Vieira",
+          "status": "injury",
+          "detail": "Out for season"
+        }
+      ],
+      "away": [
+        {
+          "name": "Raniele",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Vitinho",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Kayke",
+          "status": "injury",
+          "detail": "Out for season"
+        },
+        {
+          "name": "Hugo",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Cruzeiro",
+    "away": "Botafogo",
+    "date": "2026-07-26T19:00:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Gérson",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Matheus Pereira",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Gabriel Pec",
+          "status": "injury",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Keny Arroyo",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Cássio",
+          "status": "injury",
+          "detail": "Early September 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Júnior Santos",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Allan",
+          "status": "injury",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Kaio",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "RB Bragantino",
+    "away": "Coritiba",
+    "date": "2026-07-26T21:30:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Agustín Sant'Anna",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Fabinho",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Vanderlan",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Davi Gomes",
+          "status": "injury",
+          "detail": "Mid December 2026"
+        },
+        {
+          "name": "Fabrício",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Sebastián Gómez",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Rodrigo Rodrigues",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Flamengo",
+    "away": "Sao Paulo",
+    "date": "2026-07-26T21:30:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jorge Carrascal",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Gonzalo Plata",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Léo Ortiz",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Luiz Araújo",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Lucas Paquetá",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Rafael Tolói",
+          "status": "injury",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Sabino",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Maik",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Lucas Moura",
+          "status": "injury",
+          "detail": "Out for season"
+        },
+        {
+          "name": "Ryan Francisco",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Gremio",
+    "away": "Fluminense",
+    "date": "2026-07-26T21:30:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Leonel Pérez",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Francis Amuzu",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Marlon",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "João Pedro",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "John Kennedy",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Julián Millán",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Jemmes",
+          "status": "injury",
+          "detail": "A few weeks"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Palmeiras",
+    "away": "Atletico-MG",
+    "date": "2026-07-26T22:30:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Ramón Sosa",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Alexander Barboza",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Khellven",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Felipe Anderson",
+          "status": "injury",
+          "detail": "About a week"
+        },
+        {
+          "name": "Jefté",
+          "status": "injury",
+          "detail": "Mid December 2026"
+        },
+        {
+          "name": "Agustín Giay",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Vitor Roque",
+          "status": "injury",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": [
+        {
+          "name": "Patrick Silva",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  },
+  {
+    "home": "Remo",
+    "away": "Vitoria",
+    "date": "2026-07-26T22:30:00+00:00",
+    "league": "Serie A",
+    "injuries": {
+      "home": [
+        {
+          "name": "Marllon",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Duplexe Tchamba",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Patrick de Paula",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "João Lucas",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Eduardo Melo",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Emmanuel Martínez",
+          "status": "suspension",
+          "detail": "Late July 2026"
+        },
+        {
+          "name": "Nathan Mendes",
+          "status": "injury",
+          "detail": "Out for season"
+        },
+        {
+          "name": "Anderson Pato",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Camutanga",
+          "status": "injury",
+          "detail": "Mid October 2026"
+        },
+        {
+          "name": "Riccieli",
+          "status": "injury",
+          "detail": "Early August 2026"
+        },
+        {
+          "name": "Edu",
+          "status": "injury",
+          "detail": "Early October 2026"
+        },
+        {
+          "name": "Dudu",
+          "status": "injury",
+          "detail": "Out for season"
+        },
+        {
+          "name": "Rúben Ismael",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    }
+  }
+]
