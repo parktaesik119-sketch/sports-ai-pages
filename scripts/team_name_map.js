@@ -988,6 +988,11 @@ const TEAM_NAME_MAP = {
   "Bucaramanga": "부카라망가",
   "Club Tijuana": "클럽 티후아나",
   "Club America": "클럽 아메리카",
+  "Once Caldas": "온세 칼다스",
+  "Envigado": "엔비가도",
+  "Cucuta": "쿠쿠타",
+  "Fortaleza FC": "포르탈레자 FC",
+  "Leones FC": "레오네스 FC",
 
   // 프리미어십 (스코틀랜드)
   "Aberdeen": "애버딘",
@@ -1378,7 +1383,8 @@ const TEAM_NAME_MAP = {
   "Nepal": "네팔",
   "Turkmenistan": "투르크메니스탄",
   "Sri Lanka": "스리랑카",
-
+  "Indonesia": "인도네시아",
+  "Mongolia": "몽골",
 
   // 기타 주요 단일팀
   "CONCACAF Champions League": "CONCACAF 챔피언스리그",
