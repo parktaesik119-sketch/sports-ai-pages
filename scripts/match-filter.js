@@ -117,6 +117,8 @@ if (isExtraFiltered) {
     "China": ["LEAGUE ONE"],
     "Belgium": ["PRO LEAGUE"],
     "Libya": ["PREMIER LEAGUE"],
+    "Russia": ["PREMIER LEAGUE"],
+    "Romania": ["LIGA I"],
   };
 
   if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
