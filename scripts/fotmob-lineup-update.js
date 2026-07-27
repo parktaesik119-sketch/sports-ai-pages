@@ -136,7 +136,6 @@ function isProbablySameMatch(a, b) {
   const aTime = parseDisplayDate(a.date);
   const bTime = parseDisplayDate(b.date);
   if (Number.isNaN(aTime) || Number.isNaN(bTime)) return false;
-  if (Math.abs(aTime - bTime) > 1 * 24 * 60 * 60 * 1000) return false;
 
   const scoreA = String(a.score || '').trim();
   const scoreB = String(b.score || '').trim();
@@ -147,6 +146,13 @@ function isProbablySameMatch(a, b) {
   const sameScoreSwapped = partsA.length === 2 && partsB.length === 2
     && partsA[0] === partsB[1] && partsA[1] === partsB[0];
   if (!sameScoreDirect && !sameScoreSwapped) return false;
+
+  // 날짜 문자열이 완전히 같고 스코어까지 일치하면, 팀명이 한글/영문처럼 언어가
+  // 달라 matchTeam이 못 알아보더라도 같은 경기로 간주한다 — 같은 날 같은 스코어의
+  // 다른 경기가 우연히 겹칠 확률은 사실상 없다 (한글/영문 중복 등록 버그로 확인, 2026-07).
+  if (a.date === b.date) return true;
+
+  if (Math.abs(aTime - bTime) > 1 * 24 * 60 * 60 * 1000) return false;
 
   const homeMatches = matchTeamWithAlias(a.home, b.home) || matchTeamWithAlias(a.home, b.away);
   const awayMatches = matchTeamWithAlias(a.away, b.home) || matchTeamWithAlias(a.away, b.away);
