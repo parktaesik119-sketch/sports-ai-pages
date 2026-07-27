@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 E. Yean (0-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/4981345.png\"]"
+homeLineup: "[\"선발투수 E. Yean (0-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/4981345.png\",\"1번 J. Wood (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4918256.png\",\"2번 L. Garcia Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40459.png\",\"3번 J. Tena (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42105.png\",\"4번 C. Abrams (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42402.png\",\"5번 D. Crews (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4719511.png\",\"6번 D. Lile (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917889.png\",\"7번 K. Ruiz (C)|https://a.espncdn.com/i/headshots/mlb/players/full/38827.png\",\"8번 J. Vivas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722676.png\",\"9번 N. Nunez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4728688.png\"]"
 awayLineup: "[\"선발투수 M. Scherzer (1-4, 10.23) ERA 10.23|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
 ---
