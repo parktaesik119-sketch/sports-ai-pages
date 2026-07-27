@@ -430,14 +430,20 @@ export async function fetchAllInjuryAndRehabEntries(seasonId, cookie) {
 // allEntries(fetchAllInjuryAndRehabEntries 결과)에서 특정 팀코드의 "현재 결장 중" 선수만 추림.
 // 같은 선수가 시즌 중 여러 번 등재/복귀를 반복했을 수 있으므로, 선수별로 가장 최근 등재
 // 1건만 남긴 뒤 그 기록이 아직 만료 전인지를 판단한다(최신 기록이 그 선수의 최신 상태를 반영).
+function normalizePlayerName(player) {
+  // "박민(내야수)"와 "박민"을 같은 선수로 취급하기 위해 뒤에 붙는 포지션 표기를 제거
+  return String(player || '').replace(/\([^)]*\)\s*$/, '').trim();
+}
+
 export function getActiveInjuriesForTeam(allEntries, teamCode, todayStr) {
   const teamEntries = allEntries.filter(e => KBO_SHORT_NAME_TO_CODE[e.team] === teamCode);
 
   const latestByPlayer = {};
   for (const e of teamEntries) {
     if (!e.player) continue;
-    if (!latestByPlayer[e.player] || e.date > latestByPlayer[e.player].date) {
-      latestByPlayer[e.player] = e;
+    const key = normalizePlayerName(e.player);
+    if (!latestByPlayer[key] || e.date > latestByPlayer[key].date) {
+      latestByPlayer[key] = e;
     }
   }
 
