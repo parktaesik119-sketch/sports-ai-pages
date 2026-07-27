@@ -111,9 +111,12 @@ function buildInjuryFieldUpdate(existingText, activeEntries) {
   const existingIsEmpty = !existing || existing === '없음';
 
   const newOnes = activeEntries.filter(e => {
-    if (existingIsEmpty) return true;
-    return !existing.includes(e.player); // "배찬승(투수)" 문자열이 이미 있으면 기존 선수로 간주
-  });
+  if (existingIsEmpty) return true;
+  // "김상준(내야수)"처럼 이름 뒤에 포지션이 붙어도 순수 이름만 뽑아서 비교 —
+  // "김상준"만 있는 기존 텍스트도 같은 선수로 인식하도록 함
+  const pureName = e.player.replace(/\([^)]*\)\s*$/, '').trim();
+  return !existing.includes(e.player) && !existing.includes(pureName);
+});
 
   if (newOnes.length === 0) return null; // 추가할 것 없음 → 이 필드는 건드리지 않음
 
