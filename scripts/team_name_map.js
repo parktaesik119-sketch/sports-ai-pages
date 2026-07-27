@@ -231,6 +231,7 @@ const TEAM_NAME_MAP = {
   "Kalmar FF": "칼마르",
   "Malmo FF": "말뫼",
   "Mjallby AIF": "엘라비 AIF",
+  "Mjällby": "엘라비 AIF",
   "Orgryte IS": "오르그뤼테",
   "Sirius": "시리우스",
   "Vasteras SK FK": "베스테로스",
@@ -1106,6 +1107,7 @@ const TEAM_NAME_MAP = {
 
   // Erovnuli Liga (조지아)
   "Dila": "딜라 고리",
+  "Dila Gori": "딜라 고리",
   "Dinamo Batumi": "디나모 바투미",
   "Dinamo Tbilisi": "디나모 트빌리시",
   "Gagra": "가그라",
@@ -1455,7 +1457,9 @@ const TEAM_NAME_MAP = {
 
   //UEFA
   "Ararat-Armenia": "아라라트 아르메니아",
+  "Ararat Armenia": "아라라트 아르메니아",
   "Riga": "리가 FC",
+  "Riga FC": "리가 FC",
   "Borac Banja Luka": "보라츠",
   "Levski Sofia": "레프스키 소피아",
   "Floriana": "플로리아나",
@@ -1471,6 +1475,7 @@ const TEAM_NAME_MAP = {
   "TNS": "더 뉴 세인츠 FC",
   "Tre Fiori": "트레 피오리",
   "Vardar Skopje": "FK 바르다르",
+  "FK Vardar Skopje": "FK 바르다르",
   "Vikingur Reykjavik": "바이킹어 레이캬비크",
   "Gyori ETO FC": "죄르 ETO",
   "Bate Borisov": "BATE 보리소프",
@@ -1484,6 +1489,7 @@ const TEAM_NAME_MAP = {
   "ML Vitebsk": "ML 비테프스크",
   "Petrocub": "페트로쿱",
   "Egnatia Rrogozhinë": "에그나티아",
+  "Egnatia": "에그나티아",
   "GAP Connah S Quay FC": "코나스 퀘이",
   "Ballkani": "발카니",
   "Atlètic Club d'Escaldes": "아틀레틱 에스칼데스",
@@ -1615,6 +1621,7 @@ const TEAM_NAME_MAP = {
   "Aarhus": "오르후스",
   "Fenerbahçe": "페네르바체",
   "FC Thun": "FC 툰",
+  "Thun": "FC 툰",
   "Slovan Bratislava": "슬로반 브라티슬라바",
   "FK Crvena Zvezda": "츠르베나 즈베즈다",
   "Hapoel Beer Sheva": "하포엘 베르셰바",
@@ -1689,6 +1696,7 @@ const TEAM_NAME_MAP = {
   "Étoile Carouge": "에투알 카루주",
   "Radnicki NIS": "FK 라드니츠키 니슈",
   "Slavia Praha": "슬라비아 프라하",
+  "Sigma Olomouc": "SK 시그마 올로모우츠",
 
   
   //중국축구
