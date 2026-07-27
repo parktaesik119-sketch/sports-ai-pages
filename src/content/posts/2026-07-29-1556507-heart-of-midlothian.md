@@ -1,0 +1,31 @@
+---
+title: "하트 오브 미들로디언 vs 슈투름 그라츠 경기분석·라인업·결장자·통계·승부예측 (7월 29일) | UEFA 챔피언스리그 - 픽천국"
+date: 2026-07-28T18:45:00+00:00
+description: "하트 오브 미들로디언 vs 슈투름 그라츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1556507-2026-07-29-heart-of-midlothian"
+category: "soccer"
+country: "유럽"
+league: "UEFA 챔피언스리그"
+homeTeam: "하트 오브 미들로디언"
+awayTeam: "슈투름 그라츠"
+homeLogo: "https://media.api-sports.io/football/teams/254.png"
+awayLogo: "https://media.api-sports.io/football/teams/637.png"
+homeAnalysis: "하트 오브 미들로디언은 2026시즌 전체 DB 기준으로 최근 7경기 4승 3패에 평균 득점 1.3을 기록하고 있어, 공격은 꾸준하지만 경기마다 기복이 함께 보입니다. 홈에서는 라요 바예카노와 레인저스를 상대로 득점을 만들며 경쟁력을 보여줬고, 흐름이 좋을 때는 전방 압박과 빠른 전환이 잘 살아나는 편입니다. 다만 셀틱과 리빙스턴, 그리고 슈투름 그라츠전에서 실점이 크게 늘어난 점을 보면 수비 안정감은 상대 압박 강도에 따라 흔들리는 모습입니다. 특히 홈에서는 주도권을 잡는 장면이 나오지만, 마무리 효율이 떨어지면 경기 운영이 급격히 어려워지는 경향이 있습니다. 라스 크로스 셧다운보다 마무리 집중력과 수비 전환 정리가 더 중요한 팀으로 보입니다."
+awayAnalysis: "슈투름 그라츠는 2026시즌 전체 DB 기준으로 최근 12경기 7승 4무 1패, 평균 득점 2.3으로 매우 안정적인 전력을 보여주고 있습니다. 최근에도 시커르헨과 하트 오브 미들로디언을 상대로 연속 득점을 만들며 공격 템포가 살아 있는 모습입니다. 홈에서의 연속 경기에서도 4득점 경기들이 나올 만큼 전방 화력이 강하고, 한 번 흐름을 타면 상대 수비를 압박하는 능력이 돋보입니다. 다만 리포트상 보조 자원 일부의 결장 가능성이 보이는 만큼, 주전 의존도가 높아질수록 경기 운영의 세밀함이 중요해질 수 있습니다. 그래도 전체적으로는 수비보다 공격 완성도가 더 안정적이고, 강한 압박 속에서도 득점 생산이 이어지는 점이 강점으로 평가됩니다."
+homePower: "하트 오브 미들로디언 홈에서 전개 속도는 빠르나 완성도 기복이 큼|강팀 상대로 실점이 늘어 수비 라인 유지가 과제임|득점은 가능하지만 경기 후반 집중력 저하가 드러남|전환 속도는 장점이나 압박 회피 능력은 제한적임|홈 주도권보다 실점 억제가 성패를 가를 핵심임"
+awayPower: "슈투름 그라츠는 다득점 흐름이 이어지는 공격 완성도 보임|강한 압박 뒤 빠른 마무리로 상대 흔들어 놓는 힘 있음|원정에서도 득점 생산이 크게 꺾이지 않는 편임|수비보다 공격 템포가 경기 우위를 만드는 구조임|하트 오브 미들로디언 상대로 상성 우위가 확인됨"
+h2h: '[{"date":"26.07.22","home":"슈투름 그라츠","away":"하트 오브 미들로디언","score":"4-0","link":"https://pick79.com/posts/detail/analyze-1556503-2026-07-22-sturm-graz/"}]'
+summary: "슈투름 그라츠는 2026시즌 전체 흐름에서 7승 4무 1패와 평균 득점 2.3으로 하트 오브 미들로디언의 4승 3패, 평균 득점 1.3보다 한 단계 높은 전력을 보여주고 있습니다. 하트 오브 미들로디언은 홈에서 버티는 힘이 있으나 최근에는 실점이 늘어난 경기들이 함께 나타나며 안정감이 흔들리는 모습입니다. 반면 슈투름 그라츠는 다득점 흐름과 직전 맞대결 4골 차 승리를 통해 상성과 경기 운영 모두에서 우위를 점하고 있어, 이번 경기에서도 원정팀 쪽 흐름이 더 자연스럽게 이어질 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.25","home":"Raith Rovers","away":"하트 오브 미들로디언","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1584942-2026-07-25-raith-rovers/"},{"date":"26.07.22","home":"슈투름 그라츠","away":"하트 오브 미들로디언","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1556503-2026-07-22-sturm-graz/"},{"date":"26.07.18","home":"하트 오브 미들로디언","away":"라요 바예카노","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1560635-2026-07-18-heart-of-midlothian/"},{"date":"26.07.11","home":"리빙스턴","away":"하트 오브 미들로디언","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1583242-2026-07-11-livingston/"},{"date":"26.05.16","home":"셀틱","away":"하트 오브 미들로디언","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1540032-2026-05-16-celtic/"}]'
+awayRecent: '[{"date":"26.07.25","home":"Seekirchen","away":"슈투름 그라츠","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1560893-2026-07-25-seekirchen/"},{"date":"26.07.22","home":"슈투름 그라츠","away":"하트 오브 미들로디언","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1556503-2026-07-22-sturm-graz/"},{"date":"26.07.16","home":"슈투름 그라츠","away":"포곤 슈체친","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554965-2026-07-16-sturm-graz/"},{"date":"26.07.12","home":"슈투름 그라츠","away":"산프레체 히로시마","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554915-2026-07-12-sturm-graz/"},{"date":"26.07.09","home":"슈투름 그라츠","away":"칼스도르프","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554793-2026-07-09-sturm-graz/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "슈투름 그라츠"
+pickWinResult: "승"
+pickHandicapTeam: "슈투름 그라츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
