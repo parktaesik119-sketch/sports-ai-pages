@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 L. Roupp (7-8, 3.93) ERA 3.93|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
+awayLineup: "[\"선발투수 L. Henderson (4-1, 3.05) ERA 3.05|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
 ---

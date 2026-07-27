@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Detmers (3-7, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png\"]"
+awayLineup: "[\"선발투수 P. Lambert (8-5, 3.03) ERA 3.03|https://a.espncdn.com/i/headshots/mlb/players/full/39898.png\"]"
 ---

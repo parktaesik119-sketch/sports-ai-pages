@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 C. Cavalli (7-4, 3.58) ERA 3.58|https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png\"]"
+awayLineup: "[\"선발투수 S. Bieber (2-1, 4.70) ERA 4.70|https://a.espncdn.com/i/headshots/mlb/players/full/40912.png\"]"
 ---

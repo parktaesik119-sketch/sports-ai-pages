@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 M. McGreevy (4-8, 3.07) ERA 3.07|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 C. Rea (7-7, 4.85) ERA 4.85|https://a.espncdn.com/i/headshots/mlb/players/full/33950.png\"]"
 ---
