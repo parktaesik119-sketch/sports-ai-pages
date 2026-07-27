@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 N. Schultz (3-7, 6.04) ERA 6.04|https://a.espncdn.com/i/headshots/mlb/players/full/5080754.png\"]"
+homeLineup: "[\"선발투수 N. Schultz (3-7, 6.04) ERA 6.04|https://a.espncdn.com/i/headshots/mlb/players/full/5080754.png\",\"1번 R. Grichuk (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31399.png\",\"2번 M. Murakami (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872595.png\",\"3번 M. Vargas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"4번 C. Montgomery (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\",\"5번 C. Meidroth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5136929.png\",\"6번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"7번 E. Pereira (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41252.png\",\"8번 E. Quero (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917824.png\",\"9번 L. Acuna (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42411.png\"]"
 awayLineup: "[\"선발투수 M. Fried (4-3, 2.97) ERA 2.97|https://a.espncdn.com/i/headshots/mlb/players/full/32685.png\"]"
 ---
