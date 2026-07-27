@@ -271,8 +271,23 @@ function parseInjury(str: string): string[] {
   }
   return result;
 }
-const injuryHomeItems = parseInjury(injuryHome);
-const injuryAwayItems = parseInjury(injuryAway);
+function dedupeInjuryEntries(entries: string[]): string[] {
+  const seen = new Set<string>();
+  const result: string[] = [];
+  for (const entry of entries) {
+    const { name } = parseInjuryEntry(entry);
+    // "강백호(내야수)" 처럼 이름 뒤에 붙는 포지션 등 부가 표기를 지운 순수 이름으로
+    // 비교해서, 같은 선수가 소스별로 다르게 표기돼도 중복으로 잡아낸다
+    const key = name.replace(/\([^)]*\)\s*$/, '').trim();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    result.push(entry);
+  }
+  return result;
+}
+
+const injuryHomeItems = dedupeInjuryEntries(parseInjury(injuryHome));
+const injuryAwayItems = dedupeInjuryEntries(parseInjury(injuryAway));
 
 // 추천 픽
 const pickWinTeam       = translateTeamsInText(item.data.pickWinTeam?.trim()       || '');
