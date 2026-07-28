@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 M. McGreevy (4-8, 3.07) ERA 3.07|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+homeLineup: "[\"선발투수 M. McGreevy (4-8, 3.07) ERA 3.07|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"3번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"4번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"5번 L. Nootbaar (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4448736.png\",\"6번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"7번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\",\"8번 J. Fermin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/38851.png\",\"9번 J. Crooks (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4749675.png\"]"
 awayLineup: "[\"선발투수 C. Rea (7-7, 4.85) ERA 4.85|https://a.espncdn.com/i/headshots/mlb/players/full/33950.png\"]"
 ---
