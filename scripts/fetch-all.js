@@ -53,14 +53,14 @@ function normalizeName(name) {
 }
 
 /**
- * 호출 기간 설정: 현재 기준 -1일 ~ +3일 (총 5일)
+ * 호출 기간 설정: 현재 기준 -1일 ~ +2일 (총 4일)
  */
 function getTargetDates() {
   const dates = [];
   // UTC 기준 현재 시각에서 ms 단위로 날짜 오프셋 계산
   const nowUtc = Date.now();
 
-  for (let i = -1; i <= 3; i++) {
+  for (let i = -1; i <= 2; i++) {
     const target = new Date(nowUtc + i * 24 * 60 * 60 * 1000);
     // KST(+9) 기준 날짜 문자열 추출
     const kstOffset = 9 * 60 * 60 * 1000;
