@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 L. Roupp (7-8, 3.93) ERA 3.93|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
+homeLineup: "[\"선발투수 L. Roupp (7-8, 3.93) ERA 3.93|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\",\"1번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"2번 B. Eldridge (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png\",\"3번 H. Ramos (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/39642.png\",\"4번 R. Devers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/33859.png\",\"5번 J. Lee (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5134621.png\",\"6번 W. Adames (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33675.png\",\"7번 G. McCray (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4919922.png\",\"8번 D. Cavanaugh (C)|https://a.espncdn.com/i/headshots/mlb/players/full/5270445.png\",\"9번 C. Koss (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109031.png\"]"
 awayLineup: "[\"선발투수 L. Henderson (4-1, 3.05) ERA 3.05|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
 ---
