@@ -12,24 +12,6 @@
 // (analyze-router-one-git.js 쪽도 이 함수를 import해서 쓰도록 바꿔서, 로직이 두 곳에
 // 따로 존재하며 서서히 어긋나는 걸 막았다)
 
-// 국가명 표기가 데이터 소스마다 다를 수 있어(하이픈/공백 유무, "Republic" 포함 여부 등)
-// 정규화(소문자 + 공백·하이픈 제거) 후 알려진 한국 표기들과 비교합니다.
-// FA Cup처럼 "한국만 통과"시켜야 하는 조건에 사용됩니다.
-function normalizeCountry(c) {
-  return (c || '').toLowerCase().replace(/[\s-]+/g, '');
-}
-const KOREA_COUNTRY_ALIASES = new Set([
-  'southkorea',        // South-Korea, South Korea
-  'korearepublic',     // Korea Republic, Korea-Republic
-  'korea,republicof',  // Korea, Republic of
-  'republicofkorea',   // Republic of Korea
-  'korearep',          // Korea Rep
-  'kor',               // 코드로 오는 경우
-]);
-function isKoreaCountry(c) {
-  return KOREA_COUNTRY_ALIASES.has(normalizeCountry(c));
-}
-
     const blockedLeagues = [  //대소문자 구분없음
    // 성별 및 연령대 (Youth & Gender)
   'U21', 'U19', 'U18', 'U17', 'YOUTH', 'RESERVE', 'WOMEN', 'WOMAN', 'FEMALE', 'FRAUEN', 'FEMININE', 'FEMININE DIVISION 1', 'Femenil',
@@ -144,6 +126,18 @@ if (isExtraFiltered) {
     return false;
   }
 
+  // [추가] 국가별 특정 리그 "허용" 사전 (국가+리그가 정확히 일치할 때만 통과)
+  // 예: FA Cup은 잉글랜드/이집트 등 여러 나라가 쓰는 흔한 명칭이라 리그명만으로는
+  // 국가를 구분할 수 없음 → 여기 등록된 국가의 경기만 통과시킨다.
+  // 다른 나라의 특정 리그만 추가로 허용하고 싶으면 이 사전에 한 줄만 추가하면 된다.
+  const countryLeagueWhitelist = {
+    "South-Korea": ["FA CUP"],
+    "South Korea": ["FA CUP"],
+  };
+  const isCountryLeagueWhitelisted =
+    !!countryLeagueWhitelist[country] &&
+    countryLeagueWhitelist[country].some(el => el === upperLg);
+
   // 프리패스 리그 작성 구간 (프리패스 리그는 전부 무조건 대문자로 적어야 함)  
   // 1. 축구 주요 리그 
   const top5 = ['PREMIER LEAGUE', 'CHAMPIONSHIP', 'LA LIGA', 'SEGUNDA DIVISIÓN', 'BUNDESLIGA', '2. BUNDESLIGA', 'PRIMEIRA LIGA', 'SERIE A', 'SERIE B', 'LIGUE 1', 'LIGUE 2', 'EREDIVISIE'].some(el => el === upperLg);
@@ -155,17 +149,12 @@ if (isExtraFiltered) {
   // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
   const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
-  // ⚠️ 'FA CUP'은 여기서 제외했습니다 — FA Cup은 국가 상관없이 전부 통과되면 안 되고
-  // 한국 FA컵만 통과시켜야 해서, 아래 isKoreaFACup으로 별도 처리합니다.
+  // ⚠️ 'FA CUP'은 여기서 제외했습니다 — FA Cup은 국가 상관없이 전부 통과되면 안 되고,
+  // 위 countryLeagueWhitelist에 등록된 국가의 경기만 통과시켜야 해서 별도 처리합니다.
   const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'TAIWAN FOOTBALL PREMIER LEAGUE','DFB POKAL', 'COPA LIBERTADORES','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP', 'LIGA I'].some(el => el === upperLg);
 
-  // FA Cup은 한국(대한FA컵)만 통과, 다른 나라 FA Cup은 차단
-  // country 표기가 소스마다 다를 수 있어(South-Korea / South Korea / Korea Republic 등)
-  // isKoreaCountry()로 정규화 비교합니다.
-  const isKoreaFACup = upperLg === 'FA CUP' && isKoreaCountry(country);
-
-  // 축구 통합 필터
-  const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision || isKoreaFACup);
+  // 축구 통합 필터 (국가+리그 화이트리스트 항목도 포함)
+  const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision || isCountryLeagueWhitelisted);
 
   // 2. 농구 
   const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W', 'NBA SALT LAKE CITY SUMMER LEAGUE', 'CALIFORNIA CLASSIC', 'NBA - LAS VEGAS SUMMER LEAGUE'].some(el => el === upperLg);
