@@ -1,0 +1,31 @@
+---
+title: "슬로반 브라티슬라바 vs 사부르탈로 경기분석·라인업·결장자·통계·승부예측 (7월 30일) | UEFA 챔피언스리그 - 픽천국"
+date: 2026-07-29T18:15:00+00:00
+description: "슬로반 브라티슬라바 vs 사부르탈로 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1589426-2026-07-30-slovan-bratislava"
+category: "soccer"
+country: "유럽"
+league: "UEFA 챔피언스리그"
+homeTeam: "슬로반 브라티슬라바"
+awayTeam: "사부르탈로"
+homeLogo: "https://media.api-sports.io/football/teams/656.png"
+awayLogo: "https://media.api-sports.io/football/teams/3502.png"
+homeAnalysis: "슬로반 브라티슬라바는 2026시즌 최근 19경기에서 10승 1무 8패, 평균 득점 38.9을 기록하며 전체적으로는 공격 전개가 살아 있는 전력입니다. 최근 흐름도 9경기 기준 6승 1무 2패로 좋고, 사부르탈로 원정에서 2골 차 승리를 거둔 뒤 흐름을 이어가고 있어 자신감이 높아 보입니다. 득점 쪽에서는 원정에서도 4골, 2골, 1골을 꾸준히 만들어내며 마무리 완성도가 돋보이고 있습니다. 수비는 강한 압박이 잘 맞아떨어질 때 실점을 억제하는 장면이 많지만, 강한 상대로는 한 번 흔들리면 실점이 나오는 모습도 함께 보입니다. 홈에서는 짧은 구간에서 3득점 경기가 나오는 등 전방 전개가 공격적으로 열릴 수 있고, 핵심 자원들의 연결이 살아날수록 경기 주도권을 잡는 힘이 분명합니다."
+awayAnalysis: "사부르탈로는 2026시즌 최근 16경기에서 7승 4무 5패, 평균 득점 1.4로 안정적인 승점 수확 능력을 보여주고 있습니다. 최근 10경기에서도 4승 3무 3패로 크게 흔들리지 않았고, 직전 경기에서는 3득점 승리를 기록해 공격 자신감이 유지되고 있습니다. 다만 슬로반 브라티슬라바와의 맞대결에서는 0득점으로 막히며 공격 전개가 상대 압박에 제약을 받는 모습이 확인되었습니다. 수비는 대체로 버티는 힘이 있으나, 강한 전방 압박과 빠른 전환을 만날 때 실점 관리가 완벽하지는 않은 편입니다. 원정에서도 득점 생산 자체는 꾸준하지만, 경기 흐름이 밀릴 때는 공격 템포가 떨어질 수 있어 초반 대응이 중요해 보입니다."
+homePower: "최근 맞대결에서 2골 차 완승으로 상성 우위 확인됨|원정에서도 득점 연결된 전환 속도와 마무리 힘이 강점임|강한 압박 뒤 회수 능력 좋아 경기 템포 주도에 유리함|실점 억제는 되지만 강한 상대엔 한 번 흔들릴 수 있음|홈에서 공격 숫자 늘리면 주도권 확보가 수월해 보임"
+awayPower: "최근 맞대결에서 무득점 패배로 전개 해법 과제 확인됨|직전 3득점 승리로 공격 자신감은 살아 있음|원정에서도 득점 유지되는 폭넓은 전개가 강점임|상대 압박 강해질 때 패스 연결이 끊길 가능성 있음|버티는 수비는 가능하나 실점 허용 시 회복 속도는 과제임"
+h2h: '[{"date":"26.07.22","home":"사부르탈로","away":"슬로반 브라티슬라바","score":"0-2","link":"https://pick79.com/posts/detail/analyze-1589416-2026-07-22-saburtalo/"}]'
+summary: "슬로반 브라티슬라바는 2026시즌 전체 흐름과 최근 경기력이 모두 안정적이라 전력 면에서 한층 무게감이 있습니다. 사부르탈로도 시즌 전반의 승점 수집 능력은 좋지만, 슬로반 브라티슬라바를 상대로는 득점이 막히며 맞대결 상성이 분명하게 드러났습니다. 공격 전개와 수비 안정감의 균형, 그리고 직전 맞대결 결과까지 함께 보면 슬로반 브라티슬라바가 경기를 더 주도할 가능성이 높아 보입니다. 다만 양 팀 모두 득점 흐름은 이어가고 있어 접전 양상은 충분히 예상되며, 경기 자체는 균형 속에서 슬로반 브라티슬라바 쪽으로 조금 더 기울어질 전망입니다."
+homeRecent: '[{"date":"26.07.27","home":"Dukla Banská Bystrica","away":"슬로반 브라티슬라바","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1551515-2026-07-27-dukla-bansk-bystrica/"},{"date":"26.07.22","home":"사부르탈로","away":"슬로반 브라티슬라바","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1589416-2026-07-22-saburtalo/"},{"date":"26.07.17","home":"슬로반 브라티슬라바","away":"파포스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1560621-2026-07-17-slovan-bratislava/"},{"date":"26.07.12","home":"슬라비아 프라하","away":"슬로반 브라티슬라바","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554914-2026-07-12-slavia-praha/"},{"date":"26.07.05","home":"푸슈카시 아카데미","away":"슬로반 브라티슬라바","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1562874-2026-07-05-puskas-academy/"}]'
+awayRecent: '[{"date":"26.07.25","home":"Margveti 2006","away":"사부르탈로","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1567372-2026-07-25-margveti-2006/"},{"date":"26.07.22","home":"사부르탈로","away":"슬로반 브라티슬라바","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1589416-2026-07-22-saburtalo/"},{"date":"26.07.15","home":"사부르탈로","away":"플로라 탈린","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554379-2026-07-15-saburtalo/"},{"date":"26.07.09","home":"플로라 탈린","away":"사부르탈로","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554363-2026-07-09-flora-tallinn/"},{"date":"26.07.02","home":"사부르탈로","away":"토르페도 쿠타이시","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1567846-2026-07-02-saburtalo/"}]'
+injuryHome: "Juraj Kucka (무릎 부상)"
+injuryAway: "Juraj Kucka (무릎 부상)"
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "2"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

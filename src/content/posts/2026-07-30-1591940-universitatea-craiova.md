@@ -1,0 +1,31 @@
+---
+title: "Univ 크라이오바 vs 레프스키 소피아 경기분석·라인업·결장자·통계·승부예측 (7월 30일) | UEFA 챔피언스리그 - 픽천국"
+date: 2026-07-29T17:30:00+00:00
+description: "Univ 크라이오바 vs 레프스키 소피아 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1591940-2026-07-30-universitatea-craiova"
+category: "soccer"
+country: "유럽"
+league: "UEFA 챔피언스리그"
+homeTeam: "Univ 크라이오바"
+awayTeam: "레프스키 소피아"
+homeLogo: "https://media.api-sports.io/football/teams/632.png"
+awayLogo: "https://media.api-sports.io/football/teams/646.png"
+homeAnalysis: "홈팀 유니베르시타테아 크라이오바는 2026시즌 최근 13경기에서 7승 4무 2패, 평균 득점 1.8로 충분히 공격적인 전력을 보여주고 있습니다. 다만 최근에는 득점 흐름이 다소 흔들리며 리그 경기와 맞물려 실점 부담도 함께 드러나고 있습니다. 홈에서는 전반적으로 주도권을 잡는 경기 운영이 강점으로 보이며, 빠른 전개로 상대 수비를 흔드는 장면이 자주 나옵니다. 특히 득점 생산은 꾸준한 편이지만, 강한 압박을 받는 경기에서는 마무리 효율이 떨어지는 모습도 함께 보입니다. 주요 전력 손실인 Mihnea Radulescu의 이탈은 측면과 마무리 선택지에 부담을 줄 수 있어, 이번 경기에서는 초반 흐름 관리가 중요해 보입니다."
+awayAnalysis: "원정팀 레프스키 소피아는 2026시즌 최근 12경기에서 8승 4무 0패, 평균 득점 2.3으로 매우 안정적인 전력을 유지하고 있습니다. 최근 흐름도 좋고, 공격 전개가 매끄러워 한 번 리드를 잡으면 경기를 편하게 끌고 가는 힘이 있습니다. 원정에서도 쉽게 무너지지 않는 수비 조직이 돋보이며, 실점 억제 능력이 좋은 편입니다. 다만 최근 경기들에서는 득점이 폭발하는 날과 비교해 조금은 실리적으로 운영하는 장면도 보여주고 있습니다. 이번 맞대결에서는 앞선 상성까지 고려할 때 수비 집중력과 전환 속도가 핵심 변수가 될 가능성이 높습니다."
+homePower: "홈에서 강한 압박으로 초반 주도권 확보함|중원 전개는 빠르나 마무리 정교함은 기복 있음|측면 자원 손실로 공격 폭은 다소 좁아질 수 있음|상대 압박이 강할수록 전개 속도 둔화가 보임|홈 경기에서 선제 득점 시 운영 안정성 높아짐"
+awayPower: "최근 연속 무패 흐름이 전력 안정성 증명됨|득점과 실점 균형이 좋아 경기 관리가 매끄러움|원정에서도 수비 블록 유지 능력 검증됨|한 골 차 운영에 강해 접전 대응력이 높음|직전 맞대결 승리로 상성 우위 심리 확보됨"
+h2h: '[{"date":"26.07.23","home":"레프스키 소피아","away":"Univ 크라이오바","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1591935-2026-07-23-levski-sofia/"}]'
+summary: "유니베르시타테아 크라이오바는 시즌 전체 성적상 충분한 경쟁력을 갖추고 있고, 홈에서 경기를 풀어가는 힘도 분명합니다. 다만 레프스키 소피아는 시즌 전체 흐름이 더 안정적이고, 득점과 수비의 균형에서도 조금 더 매끈한 전력을 보여주고 있습니다. 직전 맞대결에서 레프스키 소피아가 승리를 가져간 점까지 감안하면, 이번 경기는 홈팀이 반전을 노리더라도 원정팀의 조직력이 꽤 강하게 맞설 가능성이 높아 보입니다. 그럼에도 홈팀이 경기 초반 압박과 주도권을 살리면 흐름을 바꿀 여지는 충분하며, 전체적으로는 유니베르시타테아 크라이오바가 근소한 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.26","home":"디나모 부쿠레슈티","away":"Univ 크라이오바","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1565193-2026-07-26-dinamo-bucuresti/"},{"date":"26.07.23","home":"레프스키 소피아","away":"Univ 크라이오바","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1591935-2026-07-23-levski-sofia/"},{"date":"26.07.19","home":"Univ 크라이오바","away":"UTA 아라드","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1565190-2026-07-19-universitatea-craiova/"},{"date":"26.07.16","home":"Univ 크라이오바","away":"ML 비테프스크","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554388-2026-07-16-universitatea-craiova/"},{"date":"26.07.13","home":"Univ 크라이오바","away":"우니베르시타테아 클루지","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1582672-2026-07-13-universitatea-craiova/"}]'
+awayRecent: '[{"date":"26.07.26","home":"Lokomotiv Sofia","away":"레프스키 소피아","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1551060-2026-07-26-lokomotiv-sofia/"},{"date":"26.07.23","home":"레프스키 소피아","away":"Univ 크라이오바","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1591935-2026-07-23-levski-sofia/"},{"date":"26.07.18","home":"레프스키 소피아","away":"Dunav Ruse","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1551049-2026-07-18-levski-sofia/"},{"date":"26.07.15","home":"레프스키 소피아","away":"보라츠","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554383-2026-07-15-levski-sofia/"},{"date":"26.07.08","home":"보라츠","away":"레프스키 소피아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554362-2026-07-08-borac-banja-luka/"}]'
+injuryHome: "Mihnea Radulescu (시즌 아웃)"
+injuryAway: "없음"
+pickWinTeam: "Univ 크라이오바"
+pickWinResult: "승"
+pickHandicapTeam: "Univ 크라이오바"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---
