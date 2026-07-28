@@ -2005,6 +2005,138 @@
     }
   },
   {
+    "home": "Lech Poznan",
+    "away": "Aarhus",
+    "date": "2026-07-29T17:00:00+00:00",
+    "league": "UEFA Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Kamil Jakóbczyk",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Ali Gholizadeh",
+          "status": "injury",
+          "detail": "Mid January 2027"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kevin Yakob",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Luka Callø",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Markus Solbakken",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Nicolai Poulsen",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Janni Serra",
+          "status": "suspension",
+          "detail": "Early August 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-07-21T17:00:00.000Z",
+        "home": "AGF",
+        "away": "Lech Poznań",
+        "homeScore": 1,
+        "awayScore": 4
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-16T18:15:00.000Z",
+          "home": "Radomiak Radom",
+          "away": "Lech Poznań",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-23T15:30:00.000Z",
+          "home": "Lech Poznań",
+          "away": "Wisła Płock",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-16T17:00:00.000Z",
+          "home": "Lech Poznań",
+          "away": "Górnik Zabrze",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-21T17:00:00.000Z",
+          "home": "AGF",
+          "away": "Lech Poznań",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-07-25T18:15:00.000Z",
+          "home": "Lech Poznań",
+          "away": "Cracovia",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-05T12:00:00.000Z",
+          "home": "AGF",
+          "away": "Motherwell",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-11T12:00:00.000Z",
+          "home": "Union St.Gilloise",
+          "away": "AGF",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-15T12:00:00.000Z",
+          "home": "AGF",
+          "away": "AC Horsens",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-21T17:00:00.000Z",
+          "home": "AGF",
+          "away": "Lech Poznań",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-07-25T16:00:00.000Z",
+          "home": "AGF",
+          "away": "Brøndby IF",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
     "home": "FC Copenhagen",
     "away": "Polessya",
     "date": "2026-07-29T17:00:00+00:00",
@@ -2535,6 +2667,107 @@
     }
   },
   {
+    "home": "Slovan Bratislava",
+    "away": "Saburtalo",
+    "date": "2026-07-29T18:15:00+00:00",
+    "league": "UEFA Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Andraz Sporar",
+          "status": "injury",
+          "detail": "About a week"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-07-21T16:00:00.000Z",
+        "home": "Iberia 1999",
+        "away": "Slovan Bratislava",
+        "homeScore": 0,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-02T18:30:00.000Z",
+          "home": "Slovan Bratislava",
+          "away": "DAC 1904 Dunajska Streda",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-09T16:00:00.000Z",
+          "home": "Zeleziarne Podbrezova",
+          "away": "Slovan Bratislava",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-16T15:00:00.000Z",
+          "home": "Slovan Bratislava",
+          "away": "Zemplin Michalovce",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-21T16:00:00.000Z",
+          "home": "Iberia 1999",
+          "away": "Slovan Bratislava",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-26T17:00:00.000Z",
+          "home": "Dukla Banska Bystrica",
+          "away": "Slovan Bratislava",
+          "homeScore": 0,
+          "awayScore": 4
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-17T15:00:00.000Z",
+          "home": "Iberia 1999",
+          "away": "FC Rustavi",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-06-23T15:00:00.000Z",
+          "home": "Iberia 1999",
+          "away": "FC Meshakhte Tkibuli",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-08T16:00:00.000Z",
+          "home": "Flora Tallinn",
+          "away": "Iberia 1999",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-14T16:00:00.000Z",
+          "home": "Iberia 1999",
+          "away": "Flora Tallinn",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-21T16:00:00.000Z",
+          "home": "Iberia 1999",
+          "away": "Slovan Bratislava",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ]
+    }
+  },
+  {
     "home": "Rapid Vienna",
     "away": "FC Santa Coloma",
     "date": "2026-07-29T18:30:00+00:00",
@@ -2672,7 +2905,7 @@
         {
           "name": "Lucas Paquetá",
           "status": "injury",
-          "detail": "Early August 2026"
+          "detail": "Doubtful"
         }
       ]
     },
