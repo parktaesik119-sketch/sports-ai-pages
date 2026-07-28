@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 B. Chandler (3-8, 4.47) ERA 4.47|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
-awayLineup: "[\"선발투수 B. Pfaadt (5-1, 4.43) ERA 4.43|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\"]"
+awayLineup: "[\"선발투수 B. Pfaadt (5-1, 4.43) ERA 4.43|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\",\"1번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"2번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"3번 G. Moreno (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"4번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"5번 M. Kepler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31870.png\",\"6번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"7번 T. Tawa (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\",\"8번 J. McCann (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32046.png\",\"9번 R. Waldschmidt (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5129344.png\"]"
 ---
