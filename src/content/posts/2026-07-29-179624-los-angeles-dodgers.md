@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 E. Lauer (5-5, 4.83) ERA 4.83|https://a.espncdn.com/i/headshots/mlb/players/full/39915.png\"]"
+awayLineup: "[\"선발투수 E. Hancock (6-4, 3.16) ERA 3.16|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\"]"
 ---

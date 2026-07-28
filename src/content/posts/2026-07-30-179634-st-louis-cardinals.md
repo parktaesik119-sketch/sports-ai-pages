@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 D. May (5-7, 4.59) ERA 4.59|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (6-1, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
 ---

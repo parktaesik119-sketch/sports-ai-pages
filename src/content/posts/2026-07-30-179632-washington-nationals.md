@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Z. Littell (7-8, 5.17) ERA 5.17|https://a.espncdn.com/i/headshots/mlb/players/full/36052.png\"]"
+awayLineup: "[\"선발투수 T. Yesavage (4-5, 3.92) ERA 3.92|https://a.espncdn.com/i/headshots/mlb/players/full/4949041.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 L. Webb (5-7, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\"]"
+awayLineup: "[\"선발투수 S. Drohan (5-4, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
 ---

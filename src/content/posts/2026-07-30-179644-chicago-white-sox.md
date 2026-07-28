@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 D. Martin (9-5, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
+awayLineup: "[\"선발투수 C. Schlittler (10-6, 2.07) ERA 2.07|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
 ---

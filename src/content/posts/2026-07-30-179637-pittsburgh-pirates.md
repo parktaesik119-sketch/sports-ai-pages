@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 J. Jones (2-1, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
+awayLineup: "[\"선발투수 E. Rodriguez (9-3, 2.64) ERA 2.64|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
 ---
