@@ -166,6 +166,26 @@ if (isExtraFiltered) {
   // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam)'를 추가
   const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam;
 
+  // [STEP 1.9] 프리패스 리그에 속해도 무조건 제외할 팀
+  // (올스타전 등에서 팀명 자리에 리그명/구분값이 잘못 들어오는 케이스 방어)
+  const forceBlockTeams = [
+    'BUBLIKI', 'ZEROZONE GAMING', 'RONALDO TEAM', 'THE OTTER SIDE', 'CRUSADERS',
+    'DREAM ESPORTS', 'GTZ ESPORTS', 'FLUXO W7M', 'PAIN GAMING', 'LOUD',
+    'VIVO KEYD STARS', 'RED CANIDS', 'LEVIATAN ESPORTS', 'FRITES ESPORTS CLUB',
+    'MCON ESPORTS', 'TBD', 'CENTRAL LEAGUE', 'PACIFIC LEAGUE', 'NANUM',
+    'NATIONAL LEAGUE', 'AMERICAN LEAGUE', 'WORLD'
+  ];
+
+  const isForceBlocked = !isEssentialTeam && forceBlockTeams.some(t => {
+    const target = t.toUpperCase().trim();
+    return upperHome.includes(target) || upperAway.includes(target);
+  });
+
+  if (isForceBlocked) {
+    console.log(`🚫 [프리패스 예외 차단] ${m.home} vs ${m.away} 경기를 스킵합니다.`);
+    return false;
+  }
+
   // [STEP 2] 프리패스 우선 실행
   if (isEssentialLeague) {
     return true; 
