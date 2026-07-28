@@ -27,13 +27,6 @@ const API_SPORTS_BASE = {
 const RAPID_LOL_HOST = "esportapi1.p.rapidapi.com";
 const RAPID_SOCCER_HOST = "free-api-live-football-data.p.rapidapi.com";
 
-/**
- * 주요 축구 리그 ID 목록 (API-SPORTS 기준)
- */
-const MAJOR_SOCCER_LEAGUES = [
-  39, 40, 140, 141, 135, 136, 78, 79, 61, 62, 307, 244, 106, 233, 103, 71
-];
-
 // ==========================
 // 🛠 유틸리티 함수
 // ==========================
@@ -128,42 +121,6 @@ async function fetchApiSports(sport, date) {
       awayScore: item.goals?.away ?? item.scores?.away?.total ?? null
     }));
   } catch (err) { return []; }
-}
-
-async function fetchMajorSoccerLeagues(date) {
-  const tasks = MAJOR_SOCCER_LEAGUES.map(async (leagueId) => {
-
-    const d = new Date(date);
-    let season = d.getFullYear();
-
-    // 축구 시즌 보정 (유럽 기준)
-    // 8월 이전이면 이전 시즌
-    if (d.getMonth() < 7) {
-    season = season - 1;
-    }
-
-  const url = `${API_SPORTS_BASE.soccer}/fixtures?date=${date}&league=${leagueId}&season=${season}`;
-    try {
-      const res = await fetch(url, { headers: { "x-apisports-key": API_SPORTS_KEY } });
-      const data = await res.json();
-      if (!data.response) return [];
-      return data.response.map(item => ({
-        id: String(item.fixture.id),
-        sport: "soccer",
-        country: item.league.country || "Unknown",
-        league: item.league.name,
-        date: item.fixture.date,
-        home: item.teams.home.name,
-        away: item.teams.away.name,
-        homeLogo: item.teams.home.logo,
-        awayLogo: item.teams.away.logo,
-        homeScore: item.goals.home ?? null,
-        awayScore: item.goals.away ?? null
-      }));
-    } catch (err) { return []; }
-  });
-  const results = await Promise.all(tasks);
-  return results.flat();
 }
 
 async function fetchRapidSoccerRange() {
@@ -304,7 +261,7 @@ async function main() {
 
     targetDates.forEach(date => {
       sports.forEach(sport => {
-        scheduleTasks.push(fetchApiSports(sport, date)); // 5일치 각 날짜별 모든 종목 호출
+        scheduleTasks.push(fetchApiSports(sport, date)); // 4일치(-1~+2일) 각 날짜별 모든 종목 호출
       });
       scheduleTasks.push(fetchLckRapid(date));
     });
@@ -312,7 +269,7 @@ async function main() {
 // ✅ 날짜 루프 밖에서 1번만 호출
 scheduleTasks.push(fetchRapidSoccerRange());
     
-    // LoL 전용 및 배당 호출
+    // LoL 전용 호출 (PandaScore)
     scheduleTasks.push(fetchLOLPanda());
 
     const rawResults = await Promise.all(scheduleTasks);
@@ -355,12 +312,7 @@ scheduleTasks.push(fetchRapidSoccerRange());
           ...newMatch,
           // 새 데이터에 진짜 점수가 존재할 때만 업데이트하고, 없을 경우 기존(과거 수집된) 점수를 보존
           homeScore: isValidScore(newMatch.homeScore) ? newMatch.homeScore : oldMatch.homeScore,
-          awayScore: isValidScore(newMatch.awayScore) ? newMatch.awayScore : oldMatch.awayScore,
-          
-          // 배당 정보 안전 가드 장치
-          homeOdd: (newMatch.homeOdd && newMatch.homeOdd !== "N/A" && newMatch.homeOdd !== "") ? newMatch.homeOdd : oldMatch.homeOdd,
-          awayOdd: (newMatch.awayOdd && newMatch.awayOdd !== "N/A" && newMatch.awayOdd !== "") ? newMatch.awayOdd : oldMatch.awayOdd,
-          drawOdd: (newMatch.drawOdd && newMatch.drawOdd !== "N/A" && newMatch.drawOdd !== "") ? newMatch.drawOdd : oldMatch.drawOdd
+          awayScore: isValidScore(newMatch.awayScore) ? newMatch.awayScore : oldMatch.awayScore
         });
       } else {
         map.set(key, newMatch);
