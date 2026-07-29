@@ -1,0 +1,31 @@
+---
+title: "부산교통공사 vs 진주시민 경기분석·라인업·결장자·통계·승부예측 (7월 29일) | FA Cup - 픽천국"
+date: 2026-07-29T10:00:00+00:00
+description: "부산교통공사 vs 진주시민 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1591954-2026-07-29-busan-transportation"
+category: "soccer"
+country: "대한민국"
+league: "FA Cup"
+homeTeam: "부산교통공사"
+awayTeam: "진주시민"
+homeLogo: "https://media.api-sports.io/football/teams/7056.png"
+awayLogo: "https://media.api-sports.io/football/teams/16452.png"
+homeAnalysis: "부산교통공사는 2026시즌 최근 11경기에서 6승 3무 2패를 기록하며 승률과 안정감이 모두 좋은 흐름을 보이고 있고, 평균 득점 1.9로 공격 전개도 꾸준합니다. 특히 원정에서 강한 결과를 이어오면서도 홈에서도 승리를 꾸준히 챙기고 있어 전력의 균형이 잘 잡혀 있습니다. 최근에는 양평전 4득점, 수원 삼성 블루윙즈전 2득점, 시흥시민전 무실점 승리처럼 공격과 수비가 함께 살아난 장면이 돋보입니다. 실점이 많지 않은 편이라 경기 운영이 쉽게 흔들리지 않고, 필요할 때 한두 골 차이를 끝까지 지키는 힘이 있습니다. 또한 대전 코레일전과 춘천전처럼 까다로운 상대를 만나도 경기 흐름을 오래 끌고 가는 모습이 확인되고 있습니다."
+awayAnalysis: "진주시민은 2026시즌 최근 3경기에서 3승 0패를 기록하며 단기간 집중력이 매우 좋은 상태이고, 평균 득점 2.0으로 공격 효율도 분명하게 나타나고 있습니다. 원정 경기인 평택시민전과 안산 그리너스전에서 연속 무실점 승리를 거두며 수비 응집력까지 함께 보여주고 있습니다. 최근 흐름만 놓고 보면 빠른 전환과 마무리 완성도가 좋아 상대를 압박하는 장면이 자주 나오는 편입니다. 세 경기뿐이지만 경기당 득점이 안정적으로 나오고 있어 공격에서 한 번 리듬을 타면 이어가는 힘이 있습니다. 다만 시즌 전체 표본이 아직 많지 않아, 현재의 상승세를 얼마나 길게 유지하느냐가 관건으로 보입니다."
+homePower: "최근 11경기 6승으로 꾸준한 안정감이 돋보임|평균 1.9득점, 공격 효율이 무너지지 않음|원정에서도 승리 이어가며 적응력 검증됨|실점 억제가 좋아 접전 운영에 강함|상대 압박 속에서도 득점 루트가 유지됨"
+awayPower: "최근 3경기 전승으로 상승 탄력이 뚜렷함|평균 2.0득점, 공격 마무리 감각이 좋음|원정 연속 무실점, 수비 집중력 돋보임|짧은 기간에도 경기 주도력이 살아 있음|초반 리듬을 잡으면 흐름을 오래 가져감"
+h2h: '[]'
+summary: "부산교통공사는 시즌 전체 기준으로 승리 비중이 높고 득점과 실점 관리가 함께 안정된 흐름을 보여주고 있습니다. 진주시민은 최근 상승세가 분명하고 원정에서도 인상적인 결과를 이어가고 있지만, 시즌 전체 전력의 두께에서는 부산교통공사가 조금 더 앞서 보입니다. 양 팀 모두 공격 마무리가 나쁘지 않아서 득점 장면은 나올 가능성이 높고, 경기 흐름은 팽팽하게 이어질 것으로 보입니다. 다만 전체적인 균형과 누적된 안정감에서는 부산교통공사가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.26","home":"양평","away":"부산교통공사","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1520529-2026-07-26-yangpyeong/"},{"date":"26.07.15","home":"부산교통공사","away":"수원 삼성 블루윙즈","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1581837-2026-07-15-busan-transportation/"},{"date":"26.07.11","home":"시흥시민","away":"부산교통공사","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1520519-2026-07-11-siheung-citizen/"},{"date":"26.07.05","home":"부산교통공사","away":"기장 유나이티드","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1557963-2026-07-05-busan-transportation/"},{"date":"26.06.28","home":"부산교통공사","away":"대전 코레일","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1520515-2026-06-28-busan-transportation/"}]'
+awayRecent: '[{"date":"26.07.26","home":"평택시민","away":"진주시민","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1569821-2026-07-26-pyeongtaek-citizen/"},{"date":"26.07.15","home":"안산 그리너스","away":"진주시민","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1581355-2026-07-15-ansan-greeners/"},{"date":"26.07.04","home":"진주시민","away":"세종 SA","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1557960-2026-07-04-jinju-citizen/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "2"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

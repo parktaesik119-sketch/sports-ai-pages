@@ -1,0 +1,31 @@
+---
+title: "아틀레틱 에스칼데스 vs FC 바두츠 경기분석·라인업·결장자·통계·승부예측 (7월 30일) | UEFA 컨퍼런스리그 - 픽천국"
+date: 2026-07-30T14:00:00+00:00
+description: "아틀레틱 에스칼데스 vs FC 바두츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1593499-2026-07-30-atltic-club-descaldes"
+category: "soccer"
+country: "국제"
+league: "UEFA 컨퍼런스리그"
+homeTeam: "아틀레틱 에스칼데스"
+awayTeam: "FC 바두츠"
+homeLogo: "https://media.api-sports.io/football/teams/3345.png"
+awayLogo: "https://media.api-sports.io/football/teams/660.png"
+homeAnalysis: "아틀레틱 에스칼데스는 이번 UEFA 컨퍼런스리그에서 6승 2패, 평균 득점 1.9로 공격적인 흐름을 이어가고 있습니다. 최근 경기에서는 FC 바두츠에게 0대4로 크게 밀렸지만, 그 전까지는 모르나르를 상대로 연속 승리를 거두며 득점 감각을 유지한 점이 인상적입니다. 홈에서는 경기 주도권을 잡으려는 성향이 분명하고, 필요할 때 빠르게 득점을 만들어내는 힘도 갖추고 있습니다. 다만 수비 쪽에서는 강한 압박을 받을 때 실점이 늘어나는 모습이 보여 안정감은 조금 흔들리는 편입니다. 그래도 홈에서의 운영 능력과 초반 템포는 분명한 강점으로 평가됩니다."
+awayAnalysis: "FC 바두츠는 이번 UEFA 컨퍼런스리그에서 8승 2패, 평균 득점 2.2로 더 높은 화력을 보여주고 있습니다. 최근에는 FC 루가노와의 경기에서 아쉬운 결과가 있었지만, 아틀레틱 에스칼데스를 상대로 4대0 승리를 거두며 전력 차를 분명하게 드러냈습니다. 원정에서도 득점 생산이 끊기지 않고, 경기마다 공격 마무리가 비교적 안정적으로 이어지는 점이 돋보입니다. 수비 역시 크게 무너지는 구간이 많지 않아 전체적으로 균형 잡힌 전력을 보여주고 있습니다. 특히 강한 상대를 만났을 때도 전개 속도를 유지하는 부분이 주목할 만합니다."
+homePower: "최근 홈경기보다 원정 기복이 커서 압박 대응이 관건임|빠른 득점 뒤 경기 관리 능력은 아직 검증 필요함|아틀레틱 에스칼데스의 홈 템포는 초반 주도권에 강점임|강한 상대와 만나면 수비 라인 간격이 벌어지는 편임|득점 재현성은 있으나 대량 실점 억제가 변수로 보임"
+awayPower: "FC 바두츠는 강한 상대로도 득점 지속력이 유지됨|원정 득점 생산이 끊기지 않아 공격 다양성이 돋보임|아틀레틱 에스칼데스 상대로 상성 우위가 이미 확인됨|수비 안정감이 좋아 한 번 앞서면 흐름 장악이 쉬움|경기 운영 완성도가 높아 후반 관리도 강점임"
+h2h: '[{"date":"26.07.24","home":"FC 바두츠","away":"아틀레틱 에스칼데스","score":"4-0","link":"https://pick79.com/posts/detail/analyze-1593494-2026-07-24-fc-vaduz/"}]'
+summary: "FC 바두츠는 이번 UEFA 컨퍼런스리그에서 8승 2패, 평균 득점 2.2로 전반적인 전력 완성도가 더 높게 보입니다. 아틀레틱 에스칼데스도 6승 2패, 평균 득점 1.9로 경쟁력은 충분하지만, 직전 맞대결에서 0대4로 밀린 흐름은 분명히 부담으로 작용합니다. 양 팀의 득점 흐름을 함께 보면 FC 바두츠가 더 안정적으로 마무리하고 있고, 수비 쪽에서도 흔들림이 적어 우위를 점할 가능성이 높아 보입니다. 이번 경기는 FC 바두츠가 다시 한 번 경기 흐름을 가져가며 승리를 이어갈 가능성이 더 높게 평가됩니다."
+homeRecent: '[{"date":"26.07.24","home":"FC 바두츠","away":"Atletic Escaldes","score":"4-0","result":"🔴패"},{"date":"26.07.24","home":"FC 바두츠","away":"아틀레틱 에스칼데스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1593494-2026-07-24-fc-vaduz/"},{"date":"26.07.17","home":"모르나르","away":"Atletic Escaldes","score":"1-2","result":"🟢승"},{"date":"26.07.17","home":"모르나르","away":"아틀레틱 에스칼데스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554415-2026-07-17-mornar/"},{"date":"26.07.09","home":"Atletic Escaldes","away":"모르나르","score":"2-1","result":"🔴패"}]'
+awayRecent: '[{"date":"26.07.26","home":"FC 루가노","away":"FC 바두츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1555351-2026-07-26-fc-lugano/"},{"date":"26.07.24","home":"FC 바두츠","away":"아틀레틱 에스칼데스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1593494-2026-07-24-fc-vaduz/"},{"date":"26.07.18","home":"FC 루가노","away":"FC 바두츠","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1547977-2026-07-18-fc-lugano/"},{"date":"26.07.11","home":"알타흐","away":"FC 바두츠","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1546634-2026-07-11-scr-altach/"},{"date":"26.07.04","home":"FC 바두츠","away":"오스트리아","score":"1-0","result":"🟢승"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "FC 바두츠"
+pickWinResult: "승"
+pickHandicapTeam: "FC 바두츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,31 @@
+---
+title: "잘기리스 빌뉴스 vs 디나모 트빌리시 경기분석·라인업·결장자·통계·승부예측 (7월 31일) | UEFA 컨퍼런스리그 - 픽천국"
+date: 2026-07-30T17:00:00+00:00
+description: "잘기리스 빌뉴스 vs 디나모 트빌리시 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1593517-2026-07-31-fk-zalgiris-vilnius"
+category: "soccer"
+country: "국제"
+league: "UEFA 컨퍼런스리그"
+homeTeam: "잘기리스 빌뉴스"
+awayTeam: "디나모 트빌리시"
+homeLogo: "https://media.api-sports.io/football/teams/586.png"
+awayLogo: "https://media.api-sports.io/football/teams/2262.png"
+homeAnalysis: "잘기리스 빌뉴스는 이번 UEFA 컨퍼런스리그에서 최근 17경기 10승 2무 5패, 평균 득점 1.8로 공격 생산성과 결과 모두가 안정적인 흐름을 보이고 있습니다. 최근에도 원정에서 헤겔만을 3대2로 잡아내는 등 득점 감각은 이어지고 있고, 홈에서는 페트로바치와 트랜스인베스트를 상대로 연속 득점을 올리며 주도권을 잡는 장면이 자주 나왔습니다. 다만 디나모 트빌리시 원정에서는 0대3으로 밀리며 수비 전환 속도와 압박 대응에서 약점도 드러났습니다. 홈에서의 경기 운영은 비교적 활발하고, 상대가 흔들릴 때 전방 압박으로 찬스를 만드는 모습이 강점으로 평가됩니다. 다만 경기 후반 집중력과 실점 억제는 조금 더 정교해질 필요가 있어 보입니다."
+awayAnalysis: "디나모 트빌리시는 이번 UEFA 컨퍼런스리그에서 최근 15경기 7승 4무 4패, 평균 득점 1.6으로 꾸준함을 유지하고 있습니다. 최근 흐름만 보면 기복이 조금 보이지만, 직전 맞대결에서 잘기리스 빌뉴스를 3대0으로 제압하며 경기력의 상단은 분명히 확인되고 있습니다. 홈에서는 상대를 압박해 실점 없이 경기를 가져가는 장면이 있었고, 공격에서는 한 번 흐름을 타면 다득점으로 이어지는 힘도 보여주고 있습니다. 반면 원정 경기에서는 점유가 흔들릴 때 마무리 효율이 떨어지는 모습이 있어, 경기 초반 주도권 확보가 중요해 보입니다. 수비 조직이 안정될 때는 매우 단단하지만, 압박이 분산되면 실점 위험이 커지는 점이 주목할 만합니다."
+homePower: "홈에서 득점 템포가 살아나는 구조가 뚜렷함|압박이 통할 때 경기 주도권 확보가 빠름|상대 원정 대응이 흔들리면 득점 기회 확대됨|후반 집중력 저하가 실점 변수로 남아 있음|공격 전개는 활발하나 마무리 효율 보강 필요함"
+awayPower: "직전 맞대결 3대0 승리로 상성 우위 확인됨|압박 대응이 맞아떨어지면 수비 완성도 높음|원정에서는 주도권 관리가 경기 승패 좌우함|한 번 흐름을 타면 다득점으로 이어지는 힘 있음|기복은 있으나 큰 경기 집중력은 검증됨"
+h2h: '[{"date":"26.07.24","home":"디나모 트빌리시","away":"잘기리스 빌뉴스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-1593483-2026-07-24-dinamo-tbilisi/"}]'
+summary: "디나모 트빌리시는 이번 시즌 전력과 최근 맞대결 결과를 함께 보면 잘기리스 빌뉴스보다 한발 앞선 흐름을 보이고 있습니다. 잘기리스 빌뉴스도 득점력 자체는 나쁘지 않지만, 상대 압박이 강해질 때 수비 균형이 흔들리는 장면이 있었고 그 부분이 이번 경기에서도 중요한 변수가 될 가능성이 높습니다. 반면 디나모 트빌리시는 경기 운영의 밀도가 올라갈 때 실점을 잘 억제하면서도 필요한 득점은 만들어내는 편이라, 전체적인 우위를 이어갈 가능성이 높아 보입니다. 경기 양상은 팽팽하게 흘러갈 수 있지만, 전력의 안정감과 최근 직접 맞대결 흐름을 고려하면 디나모 트빌리시 쪽이 더 유리합니다."
+homeRecent: '[{"date":"26.07.28","home":"FC 헤겔만","away":"잘기리스 빌뉴스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1547597-2026-07-28-hegelmann-litauen/"},{"date":"26.07.24","home":"디나모 트빌리시","away":"잘기리스 빌뉴스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1593483-2026-07-24-dinamo-tbilisi/"},{"date":"26.07.20","home":"잘기리스 빌뉴스","away":"FK TransINVEST","score":"3-1","result":"🟢승"},{"date":"26.07.17","home":"잘기리스 빌뉴스","away":"OFK 페트로바치","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554440-2026-07-17-fk-zalgiris-vilnius/"},{"date":"26.07.10","home":"OFK 페트로바치","away":"잘기리스 빌뉴스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554409-2026-07-10-petrovac/"}]'
+awayRecent: '[{"date":"26.07.24","home":"디나모 트빌리시","away":"잘기리스 빌뉴스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1593483-2026-07-24-dinamo-tbilisi/"},{"date":"26.07.17","home":"디나모 트빌리시","away":"US Mondorf-les-bains","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554417-2026-07-17-dinamo-tbilisi/"},{"date":"26.07.10","home":"US Mondorf-les-bains","away":"디나모 트빌리시","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554405-2026-07-10-us-mondorf-les-bains/"},{"date":"26.06.24","home":"디나모 트빌리시","away":"디나모 바투미","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1509149-2026-06-24-dinamo-tbilisi/"},{"date":"26.06.19","home":"디나모 트빌리시","away":"삼구랄리","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1509144-2026-06-19-dinamo-tbilisi/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "디나모 트빌리시"
+pickWinResult: "승"
+pickHandicapTeam: "디나모 트빌리시"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

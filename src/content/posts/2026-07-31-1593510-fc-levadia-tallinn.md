@@ -1,0 +1,31 @@
+---
+title: "탈린나 FCI 레바디아 vs IFK 예테보리 경기분석·라인업·결장자·통계·승부예측 (7월 31일) | UEFA 컨퍼런스리그 - 픽천국"
+date: 2026-07-30T16:30:00+00:00
+description: "탈린나 FCI 레바디아 vs IFK 예테보리 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1593510-2026-07-31-fc-levadia-tallinn"
+category: "soccer"
+country: "국제"
+league: "UEFA 컨퍼런스리그"
+homeTeam: "탈린나 FCI 레바디아"
+awayTeam: "IFK 예테보리"
+homeLogo: "https://media.api-sports.io/football/teams/2273.png"
+awayLogo: "https://media.api-sports.io/football/teams/366.png"
+homeAnalysis: "탈린나 FCI 레바디아는 이번 UEFA 컨퍼런스리그에서 최근 12경기 10승 1무 1패, 평균 득점 3.3으로 매우 높은 완성도를 보여주고 있습니다. 최근 흐름도 좋고, 직전 맞대결에서 원정으로 2득점을 기록하며 승리해 공격 전개가 상대 압박 속에서도 잘 풀리고 있음을 보여주었습니다. 홈에서는 대량 득점 경기가 자주 나올 만큼 전방 효율이 돋보이고, 한 번 주도권을 잡으면 경기 운영을 끝까지 밀어붙이는 힘이 있습니다. 수비 쪽도 최근 경기들에서 실점 억제가 비교적 안정적으로 이어지고 있어, 공격과 수비의 균형이 좋은 편입니다. 특히 케르나폰 타운전과 같은 경기에서 확인된 강한 마무리와 빠른 전환은 이번 경기에서도 중요한 강점으로 평가됩니다."
+awayAnalysis: "IFK 예테보리는 이번 UEFA 컨퍼런스리그에서 최근 12경기 3승 3무 6패, 평균 득점 1.5로 기복이 있는 전력을 보이고 있습니다. 최근 흐름만 놓고 보면 득점은 완전히 막히지 않지만, 수비가 흔들리는 구간이 길게 이어지면서 경기 주도권을 자주 내주는 모습입니다. 원정에서는 특히 압박을 견디는 힘이 부족해 보이고, 실점 뒤 흐름을 다시 되돌리는 힘도 크지 않은 편입니다. 그럼에도 홈에서 보여준 일부 경기에서는 한 골 차 접전까지 만들며 버티는 장면이 있었고, 공격 쪽에서 최소한의 응답은 이어가고 있습니다. 다만 이번 상대처럼 전개 속도와 마무리 효율이 좋은 팀을 만나면, 수비 집중력 유지가 가장 큰 관건으로 보입니다."
+homePower: "최근 맞대결 승리로 상성 우위가 확인됨|득점 흐름이 길게 이어져 초반 주도권 강함|대승과 원정 승리가 많아 전환 효율 검증됨|실점 억제가 따라와야 경기 장악력 더 커짐|홈에서 템포를 올리면 상대 수비 흔들림 큼"
+awayPower: "공격은 완전 침묵보다 응답형 흐름이 강함|실점이 늘면 경기 균형이 급격히 무너짐|홈 기준 접전은 가능하나 압박 대응이 과제임|득점력보다 버티기와 역습 완성도가 핵심임|강한 전방 압박 팀 상대로 수비 부담 커짐"
+h2h: '[{"date":"26.07.22","home":"IFK 예테보리","away":"탈린나 FCI 레바디아","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1593486-2026-07-22-ifk-goteborg/"}]'
+summary: "탈린나 FCI 레바디아는 이번 UEFA 컨퍼런스리그에서 10승 1무 1패, 평균 득점 3.3으로 공격 효율과 경기 지배력이 모두 뛰어난 전력을 보여주고 있습니다. 반면 IFK 예테보리는 3승 3무 6패, 평균 득점 1.5로 득점 생산과 수비 안정성에서 모두 기복이 드러나고 있습니다. 최근 맞대결에서도 탈린나 FCI 레바디아가 2대1로 승리해 상성 면에서도 우위를 확인했고, 전체적인 전력 흐름과 마무리 완성도를 감안하면 이번 경기 역시 탈린나 FCI 레바디아 쪽이 더 앞설 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.22","home":"IFK 예테보리","away":"탈린나 FCI 레바디아","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1593486-2026-07-22-ifk-goteborg/"},{"date":"26.07.17","home":"탈린나 FCI 레바디아","away":"케르나폰 타운","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554426-2026-07-17-fc-levadia-tallinn/"},{"date":"26.07.10","home":"케르나폰 타운","away":"탈린나 FCI 레바디아","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554392-2026-07-10-caernarfon-town/"}]'
+awayRecent: '[{"date":"26.07.22","home":"IFK 예테보리","away":"탈린나 FCI 레바디아","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1593486-2026-07-22-ifk-goteborg/"},{"date":"26.06.27","home":"IFK 예테보리","away":"함캄","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1546595-2026-06-27-ifk-goteborg/"},{"date":"26.06.19","home":"IFK 예테보리","away":"발레렝아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1545678-2026-06-19-ifk-goteborg/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "탈린나 FCI 레바디아"
+pickWinResult: "승"
+pickHandicapTeam: "탈린나 FCI 레바디아"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
