@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 L. Webb (5-7, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\"]"
-awayLineup: "[\"선발투수 S. Drohan (5-4, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
+homeLineup: "[\"선발투수 L. Webb (5-7, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\",\"1번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"2번 B. Eldridge (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png\",\"3번 H. Ramos (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/39642.png\",\"4번 R. Devers (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33859.png\",\"5번 J. Lee (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5134621.png\",\"6번 W. Adames (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33675.png\",\"7번 D. Susac (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4751554.png\",\"8번 G. McCray (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4919922.png\",\"9번 C. Koss (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109031.png\"]"
+awayLineup: "[\"선발투수 T. Pannone|https://a.espncdn.com/i/headshots/mlb/players/full/39709.png\"]"
 ---
