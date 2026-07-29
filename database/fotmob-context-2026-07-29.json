@@ -1667,6 +1667,93 @@
     }
   },
   {
+    "home": "Busan Transportation",
+    "away": "Jinju Citizen",
+    "date": "2026-07-29T10:00:00+00:00",
+    "league": "FA Cup",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-28T10:00:00.000Z",
+          "home": "Busan Transport Corp",
+          "away": "Daejeon Korail",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-05T10:00:00.000Z",
+          "home": "Busan Transport Corp",
+          "away": "Gijang United",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-11T08:00:00.000Z",
+          "home": "Siheung Citizen",
+          "away": "Busan Transport Corp",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-15T10:00:00.000Z",
+          "home": "Busan Transport Corp",
+          "away": "Suwon Samsung Bluewings",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-26T09:00:00.000Z",
+          "home": "Yangpyeong",
+          "away": "Busan Transport Corp",
+          "homeScore": 2,
+          "awayScore": 4
+        }
+      ],
+      "away": [
+        {
+          "date": "2024-04-17T10:00:00.000Z",
+          "home": "Jinju Citizen",
+          "away": "Daejeon Hana Citizen",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2025-03-09T05:00:00.000Z",
+          "home": "Jinju Citizen",
+          "away": "Yeoncheon FC",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-03-23T05:00:00.000Z",
+          "home": "Hwaseong FC",
+          "away": "Jinju Citizen",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-04T10:00:00.000Z",
+          "home": "Jinju Citizen",
+          "away": "Sejong SA FC",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-15T10:00:00.000Z",
+          "home": "Ansan Greeners",
+          "away": "Jinju Citizen",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ]
+    }
+  },
+  {
     "home": "Gimcheon Sangmu FC",
     "away": "Suwon City FC",
     "date": "2026-07-29T10:00:00+00:00",
@@ -2194,6 +2281,101 @@
           "away": "Ulsan HD FC",
           "homeScore": 1,
           "awayScore": 3
+        }
+      ]
+    }
+  },
+  {
+    "home": "Yeoju Sejong",
+    "away": "Dangjin Citizen",
+    "date": "2026-07-29T10:00:00+00:00",
+    "league": "FA Cup",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-04-11T05:00:00.000Z",
+        "home": "Yeoju FC",
+        "away": "Dangjin Citizen",
+        "homeScore": 2,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-27T07:00:00.000Z",
+          "home": "Changwon City",
+          "away": "Yeoju FC",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-05T10:00:00.000Z",
+          "home": "Pyeongtaek Citizen",
+          "away": "Yeoju FC",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-10T10:00:00.000Z",
+          "home": "Ulsan Citizen",
+          "away": "Yeoju FC",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-15T10:30:00.000Z",
+          "home": "Gyeongnam FC",
+          "away": "Yeoju FC",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-25T10:00:00.000Z",
+          "home": "Gangneung City",
+          "away": "Yeoju FC",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-04T10:00:00.000Z",
+          "home": "Haman FC",
+          "away": "Dangjin Citizen",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-11T09:00:00.000Z",
+          "home": "Dangjin Citizen",
+          "away": "Pocheon Citizen FC",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-15T10:00:00.000Z",
+          "home": "Yongin FC",
+          "away": "Dangjin Citizen",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-18T10:00:00.000Z",
+          "home": "Dangjin Citizen",
+          "away": "Jeonbuk Hyundai Motors FC Reserves",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-25T10:00:00.000Z",
+          "home": "Dangjin Citizen",
+          "away": "FC Mokpo",
+          "homeScore": 6,
+          "awayScore": 1
         }
       ]
     }
@@ -4239,7 +4421,7 @@
         {
           "name": "Guilherme Arana",
           "status": "injury",
-          "detail": "Mid August 2026"
+          "detail": "About a week"
         },
         {
           "name": "Julián Millán",
@@ -4264,6 +4446,11 @@
           "detail": "Late July 2026"
         },
         {
+          "name": "Erick Carvalho",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Caio Alexandre",
           "status": "injury",
           "detail": "Early August 2026"
@@ -4271,7 +4458,7 @@
         {
           "name": "Marco Moreno",
           "status": "injury",
-          "detail": "About a week"
+          "detail": "Doubtful"
         },
         {
           "name": "Cristian Olivera",
@@ -4597,6 +4784,16 @@
         }
       ],
       "away": [
+        {
+          "name": "Paulinho",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Bruno Fuchs",
+          "status": "injury",
+          "detail": "Late August 2026"
+        },
         {
           "name": "Jefté",
           "status": "injury",
@@ -5864,6 +6061,117 @@
           "away": "FC Milsami Orhei",
           "homeScore": 0,
           "awayScore": 0
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Levadia Tallinn",
+    "away": "IFK Goteborg",
+    "date": "2026-07-30T16:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Ramon Pascal Lundqvist",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Max Fenger",
+          "status": "injury",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Arbnor Muçolli",
+          "status": "injury",
+          "detail": "Early August 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-07-21T17:00:00.000Z",
+        "home": "IFK Göteborg",
+        "away": "FCI Levadia",
+        "homeScore": 1,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-28T16:00:00.000Z",
+          "home": "FCI Levadia",
+          "away": "Flora Tallinn",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-04T16:00:00.000Z",
+          "home": "Narva Trans",
+          "away": "FCI Levadia",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-09T17:30:00.000Z",
+          "home": "Caernarfon",
+          "away": "FCI Levadia",
+          "homeScore": 0,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-07-16T16:30:00.000Z",
+          "home": "FCI Levadia",
+          "away": "Caernarfon",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-21T17:00:00.000Z",
+          "home": "IFK Göteborg",
+          "away": "FCI Levadia",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-05T12:00:00.000Z",
+          "home": "IFK Göteborg",
+          "away": "AIK",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-12T12:00:00.000Z",
+          "home": "Malmö FF",
+          "away": "IFK Göteborg",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-17T17:00:00.000Z",
+          "home": "IFK Göteborg",
+          "away": "Brommapojkarna",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-21T17:00:00.000Z",
+          "home": "IFK Göteborg",
+          "away": "FCI Levadia",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-26T12:00:00.000Z",
+          "home": "Sirius",
+          "away": "IFK Göteborg",
+          "homeScore": 4,
+          "awayScore": 1
         }
       ]
     }
