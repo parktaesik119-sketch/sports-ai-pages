@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 E. Lauer (5-5, 4.83) ERA 4.83|https://a.espncdn.com/i/headshots/mlb/players/full/39915.png\"]"
+homeLineup: "[\"선발투수 E. Lauer (5-5, 4.83) ERA 4.83|https://a.espncdn.com/i/headshots/mlb/players/full/39915.png\",\"1번 S. Ohtani (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\",\"2번 A. Pages (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42468.png\",\"3번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"4번 M. Muncy (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33303.png\",\"5번 T. Edman (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39907.png\",\"6번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"7번 K. Tucker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34967.png\",\"8번 T. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"9번 D. Rushing (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4619839.png\"]"
 awayLineup: "[\"선발투수 E. Hancock (6-4, 3.16) ERA 3.16|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\"]"
 ---
