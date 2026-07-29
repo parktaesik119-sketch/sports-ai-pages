@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 A. Pallante (11-6, 3.77) ERA 3.77|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
-awayLineup: "[\"선발투수 S. Imanaga (7-8, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
+awayLineup: "[\"선발투수 J. Assad (6-1, 3.86) ERA 3.86|https://a.espncdn.com/i/headshots/mlb/players/full/5002950.png\"]"
 ---

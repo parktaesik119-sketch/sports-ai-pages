@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 D. May (5-7, 4.59) ERA 4.59|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\"]"
+homeLineup: "[\"선발투수 D. May (5-7, 4.59) ERA 4.59|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"3번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"4번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"5번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"6번 J. Fermin (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/38851.png\",\"7번 B. Jordan (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722953.png\",\"8번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\",\"9번 P. Pages (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42608.png\"]"
 awayLineup: "[\"선발투수 M. Boyd (6-1, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
 ---
