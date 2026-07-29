@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Burke (7-5, 3.19) ERA 3.19|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
+awayLineup: "[\"선발투수 R. Weathers (4-7, 4.25) ERA 4.25|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\"]"
 ---
