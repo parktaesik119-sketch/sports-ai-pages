@@ -415,6 +415,7 @@ const TEAM_NAME_MAP = {
   "Geumsan Insam": "금산 인삼",
   "Pocheon": "포천 시민",
   "Daejeon Korail": "대전 코레일",
+  "Yeoncheon FC": "연천 FC",
 
   // ===== 🇺🇸 MLS =====
   "Atlanta United FC": "애틀랜타 유나이티드",
