@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 D. Martin (9-5, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
+homeLineup: "[\"선발투수 D. Martin (9-5, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\",\"1번 S. Antonacci (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5207167.png\",\"2번 M. Murakami (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872595.png\",\"3번 M. Vargas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"4번 C. Montgomery (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\",\"5번 A. Benintendi (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/34986.png\",\"6번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"7번 T. Peters (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5085893.png\",\"8번 C. Meidroth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5136929.png\",\"9번 D. Romo (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917765.png\"]"
 awayLineup: "[\"선발투수 C. Schlittler (10-6, 2.07) ERA 2.07|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
 ---
