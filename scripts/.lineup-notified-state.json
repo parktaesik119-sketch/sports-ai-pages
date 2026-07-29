@@ -1,67 +1,4 @@
 {
-  "analyze-1548092-2026-07-28-malaysia": {
-    "kickoff": "2026-07-28T13:00:00+00:00"
-  },
-  "analyze-1556505-2026-07-29-dinamo-zagreb": {
-    "kickoff": "2026-07-28T18:00:00+00:00"
-  },
-  "analyze-1556530-2026-07-29-cska-1948": {
-    "kickoff": "2026-07-28T17:30:00+00:00"
-  },
-  "analyze-1589424-2026-07-29-lincoln-red-imps-fc": {
-    "kickoff": "2026-07-28T16:00:00+00:00"
-  },
-  "analyze-1589425-2026-07-29-shamrock-rovers": {
-    "kickoff": "2026-07-28T19:00:00+00:00"
-  },
-  "analyze-1589431-2026-07-29-drita": {
-    "kickoff": "2026-07-28T18:00:00+00:00"
-  },
-  "analyze-1589432-2026-07-29-riga": {
-    "kickoff": "2026-07-28T17:00:00+00:00"
-  },
-  "analyze-1591937-2026-07-29-celje": {
-    "kickoff": "2026-07-28T18:15:00+00:00"
-  },
-  "analyze-1593498-2026-07-29-apollon-limassol": {
-    "kickoff": "2026-07-28T17:00:00+00:00"
-  },
-  "analyze-179616-2026-07-29-new-york-mets": {
-    "kickoff": "2026-07-28T23:10:00+00:00"
-  },
-  "analyze-179617-2026-07-29-tampa-bay-rays": {
-    "kickoff": "2026-07-28T22:40:00+00:00"
-  },
-  "analyze-179618-2026-07-29-st-louis-cardinals": {
-    "kickoff": "2026-07-28T23:45:00+00:00"
-  },
-  "analyze-179621-2026-07-29-pittsburgh-pirates": {
-    "kickoff": "2026-07-28T22:40:00+00:00"
-  },
-  "analyze-179622-2026-07-29-washington-nationals": {
-    "kickoff": "2026-07-28T22:45:00+00:00"
-  },
-  "analyze-179623-2026-07-29-minnesota-twins": {
-    "kickoff": "2026-07-28T23:40:00+00:00"
-  },
-  "analyze-179626-2026-07-29-detroit-tigers": {
-    "kickoff": "2026-07-28T22:40:00+00:00"
-  },
-  "analyze-179627-2026-07-29-cincinnati-reds": {
-    "kickoff": "2026-07-28T23:10:00+00:00"
-  },
-  "analyze-179628-2026-07-29-chicago-white-sox": {
-    "kickoff": "2026-07-28T23:40:00+00:00"
-  },
-  "analyze-179630-2026-07-29-miami-marlins": {
-    "kickoff": "2026-07-28T22:40:00+00:00"
-  },
-  "analyze-1556507-2026-07-29-heart-of-midlothian": {
-    "kickoff": "2026-07-28T18:45:00+00:00"
-  },
-  "analyze-1589423-2026-07-29-kups": {
-    "kickoff": "2026-07-28T15:00:00+00:00"
-  },
   "analyze-1556531-2026-07-29-dukagjini": {
     "kickoff": "2026-07-29T14:30:00+00:00"
   },
@@ -100,21 +37,6 @@
   },
   "analyze-1589426-2026-07-30-slovan-bratislava": {
     "kickoff": "2026-07-29T18:15:00+00:00"
-  },
-  "analyze-179619-2026-07-29-san-francisco-giants": {
-    "kickoff": "2026-07-29T01:45:00+00:00"
-  },
-  "analyze-179620-2026-07-29-san-diego-padres": {
-    "kickoff": "2026-07-29T01:40:00+00:00"
-  },
-  "analyze-179624-2026-07-29-los-angeles-dodgers": {
-    "kickoff": "2026-07-29T02:10:00+00:00"
-  },
-  "analyze-179625-2026-07-29-los-angeles-angels": {
-    "kickoff": "2026-07-29T01:38:00+00:00"
-  },
-  "analyze-179629-2026-07-29-athletics": {
-    "kickoff": "2026-07-29T01:40:00+00:00"
   },
   "analyze-181907-2026-07-29-hanwha-eagles": {
     "kickoff": "2026-07-29T09:30:00+00:00"
@@ -164,7 +86,229 @@
   "analyze-179644-2026-07-30-chicago-white-sox": {
     "kickoff": "2026-07-29T23:40:00+00:00"
   },
-  "analyze-1548093-2026-07-28-philippines": {
-    "kickoff": "2026-07-28T10:00:00+00:00"
+  "analyze-1591952-2026-07-29-bucheon-fc-1995": {
+    "kickoff": "2026-07-29T10:00:00+00:00"
+  },
+  "analyze-1591953-2026-07-29-busan-i-park": {
+    "kickoff": "2026-07-29T10:00:00+00:00"
+  },
+  "analyze-1591955-2026-07-29-cheongju": {
+    "kickoff": "2026-07-29T10:30:00+00:00"
+  },
+  "analyze-1591956-2026-07-29-gimcheon-sangmu-fc": {
+    "kickoff": "2026-07-29T10:00:00+00:00"
+  },
+  "analyze-1591957-2026-07-29-gimhae-city": {
+    "kickoff": "2026-07-29T11:00:00+00:00"
+  },
+  "analyze-1591958-2026-07-29-gimpo-citizen": {
+    "kickoff": "2026-07-29T10:00:00+00:00"
+  },
+  "analyze-1591959-2026-07-29-gwangju-fc": {
+    "kickoff": "2026-07-29T10:00:00+00:00"
+  },
+  "analyze-1591960-2026-07-29-jeju-united-fc": {
+    "kickoff": "2026-07-29T10:30:00+00:00"
+  },
+  "analyze-1492315-2026-07-30-fluminense": {
+    "kickoff": "2026-07-30T00:30:00+00:00"
+  },
+  "analyze-1556540-2026-07-30-fk-tobol-kostanay": {
+    "kickoff": "2026-07-30T14:00:00+00:00"
+  },
+  "analyze-1593499-2026-07-30-atltic-club-descaldes": {
+    "kickoff": "2026-07-30T14:00:00+00:00"
+  },
+  "analyze-179633-2026-07-30-tampa-bay-rays": {
+    "kickoff": "2026-07-29T22:40:00+00:00"
+  },
+  "analyze-179638-2026-07-30-los-angeles-dodgers": {
+    "kickoff": "2026-07-30T02:10:00+00:00"
+  },
+  "analyze-179641-2026-07-30-los-angeles-angels": {
+    "kickoff": "2026-07-30T01:38:00+00:00"
+  },
+  "analyze-179645-2026-07-30-athletics": {
+    "kickoff": "2026-07-30T01:40:00+00:00"
+  },
+  "analyze-181912-2026-07-30-ssg-landers": {
+    "kickoff": "2026-07-30T09:30:00+00:00"
+  },
+  "analyze-181913-2026-07-30-samsung-lions": {
+    "kickoff": "2026-07-30T09:30:00+00:00"
+  },
+  "analyze-181914-2026-07-30-lg-twins": {
+    "kickoff": "2026-07-30T09:30:00+00:00"
+  },
+  "analyze-181915-2026-07-30-nc-dinos": {
+    "kickoff": "2026-07-30T09:30:00+00:00"
+  },
+  "analyze-181916-2026-07-30-hanwha-eagles": {
+    "kickoff": "2026-07-30T09:30:00+00:00"
+  },
+  "analyze-1492313-2026-07-31-corinthians": {
+    "kickoff": "2026-07-30T22:30:00+00:00"
+  },
+  "analyze-1556526-2026-07-31-auda": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1556527-2026-07-31-beitar-jerusalem": {
+    "kickoff": "2026-07-30T17:30:00+00:00"
+  },
+  "analyze-1556528-2026-07-31-sc-braga": {
+    "kickoff": "2026-07-30T19:00:00+00:00"
+  },
+  "analyze-1556529-2026-07-31-coleraine-fc": {
+    "kickoff": "2026-07-30T18:45:00+00:00"
+  },
+  "analyze-1556533-2026-07-31-gent": {
+    "kickoff": "2026-07-30T18:30:00+00:00"
+  },
+  "analyze-1556534-2026-07-31-hb-torshavn": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1556535-2026-07-31-fk-jablonec": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1556536-2026-07-31-ludogorets": {
+    "kickoff": "2026-07-30T18:00:00+00:00"
+  },
+  "analyze-1556537-2026-07-31-fc-noah": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1556538-2026-07-31-fc-nordsjaelland": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1556539-2026-07-31-panathinaikos": {
+    "kickoff": "2026-07-30T18:30:00+00:00"
+  },
+  "analyze-1556541-2026-07-31-valletta-fc": {
+    "kickoff": "2026-07-30T17:30:00+00:00"
+  },
+  "analyze-1556542-2026-07-31-zrinjski": {
+    "kickoff": "2026-07-30T18:30:00+00:00"
+  },
+  "analyze-1556547-2026-07-31-anderlecht": {
+    "kickoff": "2026-07-30T18:30:00+00:00"
+  },
+  "analyze-1556549-2026-07-31-fc-midtjylland": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1556550-2026-07-31-hradec-krlov": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1589433-2026-07-31-the-new-saints": {
+    "kickoff": "2026-07-30T17:30:00+00:00"
+  },
+  "analyze-1589434-2026-07-31-una-strassen": {
+    "kickoff": "2026-07-30T18:15:00+00:00"
+  },
+  "analyze-1591946-2026-07-31-austria-vienna": {
+    "kickoff": "2026-07-30T18:30:00+00:00"
+  },
+  "analyze-1591947-2026-07-31-gyori-eto-fc": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1591948-2026-07-31-hibernian": {
+    "kickoff": "2026-07-30T19:00:00+00:00"
+  },
+  "analyze-1591949-2026-07-31-petrocub": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1591950-2026-07-31-sutjeska": {
+    "kickoff": "2026-07-30T19:00:00+00:00"
+  },
+  "analyze-1593497-2026-07-31-ajax": {
+    "kickoff": "2026-07-30T18:00:00+00:00"
+  },
+  "analyze-1593500-2026-07-31-brann": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1593501-2026-07-31-cfr-1907-cluj": {
+    "kickoff": "2026-07-30T18:30:00+00:00"
+  },
+  "analyze-1593502-2026-07-31-derry-city": {
+    "kickoff": "2026-07-30T17:30:00+00:00"
+  },
+  "analyze-1593503-2026-07-31-dinamo-tirana": {
+    "kickoff": "2026-07-30T19:00:00+00:00"
+  },
+  "analyze-1593504-2026-07-31-ballkani": {
+    "kickoff": "2026-07-30T18:00:00+00:00"
+  },
+  "analyze-1593505-2026-07-31-gks-katowice": {
+    "kickoff": "2026-07-30T18:30:00+00:00"
+  },
+  "analyze-1593506-2026-07-31-ilves": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1593507-2026-07-31-inter-turku": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1593508-2026-07-31-kalju-nomme": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1593509-2026-07-31-koper": {
+    "kickoff": "2026-07-30T18:45:00+00:00"
+  },
+  "analyze-1593511-2026-07-31-pyunik-yerevan": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1593512-2026-07-31-shkendija": {
+    "kickoff": "2026-07-30T18:00:00+00:00"
+  },
+  "analyze-1593513-2026-07-31-fc-sion": {
+    "kickoff": "2026-07-30T18:15:00+00:00"
+  },
+  "analyze-1593515-2026-07-31-vele": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1593516-2026-07-31-vestri": {
+    "kickoff": "2026-07-30T18:00:00+00:00"
+  },
+  "analyze-1593517-2026-07-31-fk-zalgiris-vilnius": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1593518-2026-07-31-zira": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1593524-2026-07-31-cska-sofia": {
+    "kickoff": "2026-07-30T18:00:00+00:00"
+  },
+  "analyze-1593525-2026-07-31-ferencvarosi-tc": {
+    "kickoff": "2026-07-30T18:30:00+00:00"
+  },
+  "analyze-1593526-2026-07-31-maccabi-tel-aviv": {
+    "kickoff": "2026-07-30T16:00:00+00:00"
+  },
+  "analyze-1593527-2026-07-31-pafos": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-1593528-2026-07-31-paok": {
+    "kickoff": "2026-07-30T17:45:00+00:00"
+  },
+  "analyze-1595192-2026-07-31-dinamo-minsk": {
+    "kickoff": "2026-07-30T17:00:00+00:00"
+  },
+  "analyze-179646-2026-07-31-new-york-mets": {
+    "kickoff": "2026-07-30T23:10:00+00:00"
+  },
+  "analyze-179647-2026-07-31-tampa-bay-rays": {
+    "kickoff": "2026-07-30T16:10:00+00:00"
+  },
+  "analyze-179648-2026-07-31-st-louis-cardinals": {
+    "kickoff": "2026-07-30T18:15:00+00:00"
+  },
+  "analyze-179650-2026-07-31-chicago-white-sox": {
+    "kickoff": "2026-07-30T18:10:00+00:00"
+  },
+  "analyze-179651-2026-07-31-minnesota-twins": {
+    "kickoff": "2026-07-30T17:40:00+00:00"
+  },
+  "analyze-179652-2026-07-31-cincinnati-reds": {
+    "kickoff": "2026-07-30T23:10:00+00:00"
+  },
+  "analyze-179654-2026-07-31-atlanta-braves": {
+    "kickoff": "2026-07-30T23:15:00+00:00"
   }
 }
