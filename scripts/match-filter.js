@@ -187,7 +187,7 @@ if (isExtraFiltered) {
     'DREAM ESPORTS', 'GTZ ESPORTS', 'FLUXO W7M', 'PAIN GAMING', 'LOUD',
     'VIVO KEYD STARS', 'RED CANIDS', 'LEVIATAN ESPORTS', 'FRITES ESPORTS CLUB',
     'MCON ESPORTS', 'TBD', 'CENTRAL LEAGUE', 'PACIFIC LEAGUE', 'NANUM',
-    'NATIONAL LEAGUE', 'AMERICAN LEAGUE', 'WORLD'
+    'NATIONAL LEAGUE', 'AMERICAN LEAGUE', 'WORLD', 'Team Cooper W', 'Team Weatherspoon W'
   ];
 
   const isForceBlocked = !isEssentialTeam && forceBlockTeams.some(t => {
