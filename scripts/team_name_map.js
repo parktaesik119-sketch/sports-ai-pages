@@ -228,6 +228,7 @@ const TEAM_NAME_MAP = {
   "IF Brommapojkarna": "브롬마포이카르나",
   "IF Elfsborg": "엘프스보리",
   "IFK Goteborg": "IFK 예테보리",
+  "IFK Göteborg": "IFK 예테보리",
   "Kalmar FF": "칼마르",
   "Malmo FF": "말뫼",
   "Mjallby AIF": "엘라비 AIF",
