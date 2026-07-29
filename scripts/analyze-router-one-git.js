@@ -2009,7 +2009,7 @@ const winnerIsHome = homeNames.some(n =>
   const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;
   const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName;
   const extractedDesc = `${descHomeName} vs ${descAwayName} 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요.`;
-  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석·라인업·결장자·통계·승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
+  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석·승부예측·라인업·결장자·추천픽 (${displayDate}) | ${leagueName} - 픽천국`;
   const safeHomeNameForSlug = getSafeLogoName(match.home);
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
