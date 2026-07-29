@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 J. Jones (2-1, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
-awayLineup: "[\"선발투수 E. Rodriguez (9-3, 2.64) ERA 2.64|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 E. Rodriguez (9-3, 2.64) ERA 2.64|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\",\"1번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"2번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"3번 G. Moreno (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"4번 K. Marte (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"5번 M. Kepler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31870.png\",\"6번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"7번 T. Tawa (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\",\"8번 I. Vargas (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32985.png\",\"9번 J. Barrosa (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41259.png\"]"
 ---
