@@ -356,6 +356,7 @@ const TEAM_NAME_MAP = {
   "Cheongju": "청주 FC",
   "Daegu FC": "대구 FC",
   "Gimhae City": "김해 시티",
+  "Gimhae FC 2008": "김해 시티",
   "Gimpo Citizen": "김포 시티즌",
   "Gimpo FC": "김포 시티즌",
   "Gyeongnam FC": "경남 FC",
@@ -381,6 +382,7 @@ const TEAM_NAME_MAP = {
   "Anseong": "안성",
   "Areum": "아름", // 추정 - 확인 필요
   "Busan Transportation": "부산교통공사",
+  "Busan Transport Corp": "부산교통공사",
   "Cheongju Showking": "청주 쇼킹", // 추정 - 확인 필요
   "Chuncheon": "춘천",
   "Dangjin Citizen": "당진시민",
@@ -407,6 +409,7 @@ const TEAM_NAME_MAP = {
   "Yangpyeong": "양평",
   "Yangsan United": "양산 유나이티드",
   "Yeoju Sejong": "여주 세종",
+  "Yeoju FC": "여주 세종",
   "Yeonsu Songdo": "연수 송도",
   "Changwon City": "창원시청",
   "Geumsan Insam": "금산 인삼",
@@ -1697,7 +1700,7 @@ const TEAM_NAME_MAP = {
   "Radnicki NIS": "FK 라드니츠키 니슈",
   "Slavia Praha": "슬라비아 프라하",
   "Sigma Olomouc": "SK 시그마 올로모우츠",
-
+  "Raith Rovers": "레이스 로버스",
   
   //중국축구
   "Changchun Yatai": "창춘 야타이",
