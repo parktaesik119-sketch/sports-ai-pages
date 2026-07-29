@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 G. Rodriguez (3-3, 8.54) ERA 8.54|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
+homeLineup: "[\"선발투수 G. Rodriguez (3-3, 8.54) ERA 8.54|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\",\"1번 Z. Neto (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png\",\"2번 M. Trout (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/30836.png\",\"3번 N. Schanuel (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4739755.png\",\"4번 V. Grissom (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42503.png\",\"5번 J. Adell (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"6번 W. Meckler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4424090.png\",\"7번 D. Guzman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4917822.png\",\"8번 J. Lowe (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40557.png\",\"9번 T. Heineman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33142.png\"]"
 awayLineup: "[\"선발투수 H. Wesneski|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
 ---
