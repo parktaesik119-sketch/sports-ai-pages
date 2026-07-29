@@ -16,7 +16,7 @@ export const EXACT_LEAGUE_MAP = {
   "LMBP": "멕시칸퍼시픽리그",
   "NPB": "NPB",
   "KBO": "KBO",
-  "CPBL": "대만프로야구",
+  "CPBL": "CPBL",
   "Liga Elite": "엘리트리그",
   "Serie A1": "세리에 A1",
   "Hoofdklasse": "호프트클라서",
