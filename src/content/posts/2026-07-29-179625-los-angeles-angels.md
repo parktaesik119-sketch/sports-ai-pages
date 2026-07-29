@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 G. Rodriguez (3-3, 8.54) ERA 8.54|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
+awayLineup: "[\"선발투수 H. Wesneski|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
 ---
