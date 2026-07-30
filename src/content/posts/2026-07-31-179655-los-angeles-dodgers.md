@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 R. Sasaki (4-5, 4.71) ERA 4.71|https://a.espncdn.com/i/headshots/mlb/players/full/5134638.png\"]"
+homeLineup: "[\"선발투수 R. Sasaki (4-5, 4.71) ERA 4.71|https://a.espncdn.com/i/headshots/mlb/players/full/5134638.png\",\"1번 T. Edman (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39907.png\",\"2번 A. Pages (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42468.png\",\"3번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"4번 M. Muncy (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33303.png\",\"5번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"6번 K. Tucker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34967.png\",\"7번 T. Hernandez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"8번 D. Rushing (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4619839.png\",\"9번 E. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31358.png\"]"
 awayLineup: "[\"선발투수 B. Woo (7-7, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
 ---
