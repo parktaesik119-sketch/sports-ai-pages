@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 T. Bibee (4-10, 3.89) ERA 3.89|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
+awayLineup: "[\"선발투수 M. Bratt (0-1, 6.32) ERA 6.32|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
 ---

@@ -28,4 +28,5 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 B. Young (8-2, 3.13) ERA 3.13|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
 ---

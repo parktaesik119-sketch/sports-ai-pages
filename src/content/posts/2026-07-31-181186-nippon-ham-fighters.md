@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Kota Tatsu (2-6, 3.49)|https://p.npb.jp/players_photo/2026/180/f/016_01205155.jpg\"]"
+awayLineup: "[\"선발투수 Tokito Kawamura (1-2, 2.97)|https://p.npb.jp/players_photo/2026/180/m/058_61765153.jpg\"]"
 ---

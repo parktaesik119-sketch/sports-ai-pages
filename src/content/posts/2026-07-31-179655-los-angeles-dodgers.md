@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Sasaki (4-5, 4.71) ERA 4.71|https://a.espncdn.com/i/headshots/mlb/players/full/5134638.png\"]"
+awayLineup: "[\"선발투수 B. Woo (7-7, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
 ---

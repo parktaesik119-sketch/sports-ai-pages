@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 D. Cease (7-5, 2.46) ERA 2.46|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
+awayLineup: "[\"선발투수 K. Leahy (7-4, 3.55) ERA 3.55|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
 ---

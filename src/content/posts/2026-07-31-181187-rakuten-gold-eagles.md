@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Takahisa Hayakawa (4-4, 2.93)|https://p.npb.jp/players_photo/2026/180/e/021_31835153.jpg\"]"
+awayLineup: "[\"선발투수 Taiga Kamichatani (6-0, 2.54)|https://p.npb.jp/players_photo/2026/180/h/064_81585138.jpg\"]"
 ---
