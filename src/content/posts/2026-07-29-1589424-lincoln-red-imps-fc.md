@@ -19,7 +19,7 @@ summary: "엘라비 AIF는 2026시즌 전체 흐름에서 링컨 레드임프스
 homeRecent: '[{"date":"26.07.22","home":"엘라비 AIF","away":"링컨 레드임프스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1589418-2026-07-22-mjallby-aif/"},{"date":"26.07.15","home":"인터 클럽 드 에스칼데스","away":"링컨 레드임프스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554380-2026-07-15-inter-club-descaldes/"},{"date":"26.07.08","home":"링컨 레드임프스","away":"인터 클럽 드 에스칼데스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554368-2026-07-08-lincoln-red-imps-fc/"},{"date":"25.12.19","home":"레기아 바르샤바","away":"링컨 레드임프스","score":"4-1","result":"🔴패"},{"date":"25.12.12","home":"링컨 레드임프스","away":"Sigma Olomouc","score":"2-1","result":"🟢승"}]'
 awayRecent: '[{"date":"26.07.26","home":"칼마르","away":"엘라비 AIF","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1494221-2026-07-26-kalmar-ff/"},{"date":"26.07.22","home":"엘라비 AIF","away":"링컨 레드임프스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1589418-2026-07-22-mjallby-aif/"},{"date":"26.07.18","home":"엘라비 AIF","away":"베스테로스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1494215-2026-07-18-mjallby-aif/"},{"date":"26.07.11","home":"엘라비 AIF","away":"AIK 스톡홀름","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1494206-2026-07-11-mjallby-aif/"},{"date":"26.07.04","home":"시리우스","away":"엘라비 AIF","score":"4-4","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1494200-2026-07-04-sirius/"}]'
 injuryHome: "없음"
-injuryAway: "Timo Stavitski (부상)"
+injuryAway: "없음"
 pickWinTeam: "엘라비 AIF"
 pickWinResult: "승"
 pickHandicapTeam: "엘라비 AIF"
