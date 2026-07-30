@@ -1510,6 +1510,7 @@ const TEAM_NAME_MAP = {
   "GAP Connah S Quay FC": "코나스 퀘이",
   "Ballkani": "발카니",
   "Atlètic Club d'Escaldes": "아틀레틱 에스칼데스",
+  "Atletic Escaldes": "아틀레틱 에스칼데스",
   "Alashkert": "알라쉬커트",
   "St Joseph S Fc": "세인트 조지프스",
   "FC Levadia Tallinn": "탈린나 FCI 레바디아",
