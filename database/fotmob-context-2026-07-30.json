@@ -10571,6 +10571,65 @@
     }
   },
   {
+    "home": "Barry Town",
+    "away": "Cambrian & Clydach",
+    "date": "2026-07-31T18:45:00+00:00",
+    "league": "Premier League",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-03-21T14:30:00.000Z",
+          "home": "Barry Town",
+          "away": "Caernarfon",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-29T13:30:00.000Z",
+          "home": "Connah's Quay Nomads",
+          "away": "Barry Town",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-03T13:30:00.000Z",
+          "home": "Penybont",
+          "away": "Barry Town",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-04-18T16:15:00.000Z",
+          "home": "Barry Town",
+          "away": "TNS",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-04-26T16:00:00.000Z",
+          "home": "Barry Town",
+          "away": "Haverfordwest",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-03-16T12:45:00.000Z",
+          "home": "Cambrian United",
+          "away": "TNS",
+          "homeScore": 0,
+          "awayScore": 5
+        }
+      ]
+    }
+  },
+  {
     "home": "Briton Ferry",
     "away": "Ammanford AFC",
     "date": "2026-07-31T18:45:00+00:00",
@@ -11230,6 +11289,307 @@
           "away": "Ararat Armenia",
           "homeScore": 2,
           "awayScore": 1
+        }
+      ]
+    }
+  },
+  {
+    "home": "Dundee Utd",
+    "away": "Rangers",
+    "date": "2026-07-31T19:00:00+00:00",
+    "league": "Premiership",
+    "injuries": {
+      "home": [
+        {
+          "name": "Miller Thomson",
+          "status": "injury",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ross McCrorie",
+          "status": "injury",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "José Cifuentes",
+          "status": "injury",
+          "detail": "Late June 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-04-04T14:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-12-03T19:45:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-10-18T14:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-05-14T18:45:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-01-26T12:00:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2024-11-23T15:50:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-09-15T11:00:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-04-01T14:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-01-08T16:00:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-09-17T14:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-05-08T14:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-02-20T12:00:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-12-18T15:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-08-07T11:30:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-02-21T15:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2020-12-13T12:00:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2020-09-12T14:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-04-12T11:45:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2013-02-02T12:45:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-05-02T18:45:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 5,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-03-17T12:45:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-02-05T12:15:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2011-11-05T15:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2011-09-10T11:30:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2011-05-10T18:45:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-04-19T18:45:00.000Z",
+        "home": "Dundee United",
+        "away": "Rangers",
+        "homeScore": 0,
+        "awayScore": 4
+      },
+      {
+        "date": "2011-04-02T14:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2010-09-18T14:00:00.000Z",
+        "home": "Rangers",
+        "away": "Dundee United",
+        "homeScore": 4,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-11T16:30:00.000Z",
+          "home": "Stirling Albion",
+          "away": "Dundee United",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-14T18:45:00.000Z",
+          "home": "Montrose",
+          "away": "Dundee United",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-18T18:00:00.000Z",
+          "home": "Dundee United",
+          "away": "Arbroath",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-21T18:45:00.000Z",
+          "home": "Dundee United",
+          "away": "Spartans FC",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-25T14:00:00.000Z",
+          "home": "Salford City",
+          "away": "Dundee United",
+          "homeScore": 3,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-10T11:00:00.000Z",
+          "home": "Celtic",
+          "away": "Rangers",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-13T19:00:00.000Z",
+          "home": "Rangers",
+          "away": "Hibernian",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-16T11:30:00.000Z",
+          "home": "Falkirk",
+          "away": "Rangers",
+          "homeScore": 2,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-07-22T18:45:00.000Z",
+          "home": "Rangers",
+          "away": "Saint-Etienne",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-26T15:00:00.000Z",
+          "home": "Rangers",
+          "away": "West Ham United",
+          "homeScore": 0,
+          "awayScore": 0
         }
       ]
     }
