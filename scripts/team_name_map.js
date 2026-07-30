@@ -803,6 +803,14 @@ const TEAM_NAME_MAP = {
   "Panathinaikos": "파나티나이코스",
   "Hapoel Tel Aviv": "하포엘 텔아비브",
   "Olympiacos": "올림피아코스",
+
+  //웨일스
+  "Barry Town": "배리 타운",
+  "Cambrian & Clydach": "캠브리언 & 클리다치",
+  "Ammanford AFC": "아만포드 AFC",
+  "Colwyn Bay": "콜윈베이 FC",
+  "Llandudno": "란디드노",
+
   // WNBA
   "Atlanta Dream W": "애틀랜타 드림",
   "Chicago Sky W": "시카고 스카이",
