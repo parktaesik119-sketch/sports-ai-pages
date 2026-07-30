@@ -136,6 +136,7 @@ function isProbablySameMatch(a, b) {
   const aTime = parseDisplayDate(a.date);
   const bTime = parseDisplayDate(b.date);
   if (Number.isNaN(aTime) || Number.isNaN(bTime)) return false;
+  if (Math.abs(aTime - bTime) > 1 * 24 * 60 * 60 * 1000) return false;
 
   const scoreA = String(a.score || '').trim();
   const scoreB = String(b.score || '').trim();
@@ -146,13 +147,6 @@ function isProbablySameMatch(a, b) {
   const sameScoreSwapped = partsA.length === 2 && partsB.length === 2
     && partsA[0] === partsB[1] && partsA[1] === partsB[0];
   if (!sameScoreDirect && !sameScoreSwapped) return false;
-
-  // 날짜 문자열이 완전히 같고 스코어까지 일치하면, 팀명이 한글/영문처럼 언어가
-  // 달라 matchTeam이 못 알아보더라도 같은 경기로 간주한다 — 같은 날 같은 스코어의
-  // 다른 경기가 우연히 겹칠 확률은 사실상 없다 (한글/영문 중복 등록 버그로 확인, 2026-07).
-  if (a.date === b.date) return true;
-
-  if (Math.abs(aTime - bTime) > 1 * 24 * 60 * 60 * 1000) return false;
 
   const homeMatches = matchTeamWithAlias(a.home, b.home) || matchTeamWithAlias(a.home, b.away);
   const awayMatches = matchTeamWithAlias(a.away, b.home) || matchTeamWithAlias(a.away, b.away);
@@ -178,21 +172,14 @@ function isEmptyField(raw) {
   return raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
 }
 
-// injuryHome/injuryAway는 "없음"이 글 생성 시점 기본값이라, 비어있는 것과 동일하게
-// 취급해서 채워도 되는 대상으로 판단한다. 이미 ESPN 등으로 실제 값이 채워져
-// 있으면(= "없음"도 빈 문자열도 아니면) 손대지 않는다.
-function isEmptyOrNoneField(raw) {
-  if (isEmptyField(raw)) return true;
-  return raw.trim().replace(/^['"]|['"]$/g, '').trim() === '없음';
-}
-
 // fotmob의 unavailable[] → {name, status, detail} 배열을 사람이 읽는 텍스트로 변환.
-// analyze-router-one-git.js의 formatInjuries()와 같은 표기 스타일을 맞춘다
-// (다만 fotmob은 세부 중증도 구분을 안 줘서 전부 [주요]로 표기).
+// analyze-router-one-git.js의 formatInjuries()와 같은 표기 스타일을 맞춘다.
+// i.status는 extractFotmobInjuries()가 injuryId 매핑표로 알아낸 구체적 부상명
+// (예: "무릎 부상")이거나, 매핑을 모르면 "부상"으로 뭉뚱그린 값이다.
 function formatFotmobInjuryText(list) {
   if (!list || list.length === 0) return null;
   return list
-    .map(i => `${i.name}[주요](부상${i.detail ? ' - 복귀예정 ' + i.detail : ''})`)
+    .map(i => `${i.name}[주요](${i.status}${i.detail ? ' - 복귀예정 ' + i.detail : ''})`)
     .join(' | ');
 }
 
@@ -230,14 +217,16 @@ async function main() {
     const awayLineupEmpty    = isEmptyField(fm.awayLineup);
     const homeFormationEmpty = isEmptyField(fm.homeFormation);
     const awayFormationEmpty = isEmptyField(fm.awayFormation);
-    const homeInjuryEmpty    = isEmptyOrNoneField(fm.injuryHome);
-    const awayInjuryEmpty    = isEmptyOrNoneField(fm.injuryAway);
 
     const needH2h        = existingH2h.items !== null && existingH2h.items.length < TARGET_COUNT;
     const needHomeRecent = existingHomeRecent.items !== null && existingHomeRecent.items.length < TARGET_COUNT;
     const needAwayRecent = existingAwayRecent.items !== null && existingAwayRecent.items.length < TARGET_COUNT;
     const needLineup = homeLineupEmpty || awayLineupEmpty || homeFormationEmpty || awayFormationEmpty;
-    const needInjury  = homeInjuryEmpty || awayInjuryEmpty;
+    // ⚠️ 부상자는 라인업과 달리 "한 번 확정되면 안 바뀌는 정보"가 아니라 경기 직전까지
+    // 계속 바뀐다(회복/신규 부상 등). 그래서 라인업처럼 "비어있을 때만 채움"이 아니라
+    // fotmob 데이터가 있을 때마다 항상 최신 상태로 덮어써야 한다(2026-07 실사용 버그로
+    // 확인 — 예전에 채워진 결장자 이름이 회복 후에도 영원히 안 바뀌는 문제가 있었음).
+    const needInjury = true;
 
     if (!needH2h && !needHomeRecent && !needAwayRecent && !needLineup && !needInjury) { skipCount++; continue; }
 
@@ -302,19 +291,21 @@ async function main() {
       }
 
       if (needInjury && lineup) {
+        // ⚠️ lineup !== null이면 fotmob이 이 경기의 결장자 명단을 "확정" 상태로 갖고
+        // 있다는 뜻이라, 결장자가 0명이어도(= 다 회복함) 그 정보 자체가 유효하다.
+        // lineup이 null이면(경기가 아직 멀어서 정보 자체가 없음) 아래 if(lineup)에서
+        // 걸러지므로 이 블록엔 아예 안 들어오고, 기존 값을 그대로 보존한다.
         const rawInjuries = extractFotmobInjuries(lineup);
         const injuries = isHomeFirst
           ? rawInjuries
           : { home: rawInjuries.away, away: rawInjuries.home };
 
-        if (homeInjuryEmpty) {
-          const text = formatFotmobInjuryText(injuries.home);
-          if (text) updates.injuryHome = text;
-        }
-        if (awayInjuryEmpty) {
-          const text = formatFotmobInjuryText(injuries.away);
-          if (text) updates.injuryAway = text;
-        }
+        const homeText = formatFotmobInjuryText(injuries.home) || '없음';
+        const awayText = formatFotmobInjuryText(injuries.away) || '없음';
+
+        // 실제로 값이 달라졌을 때만 write해서 불필요한 git diff/커밋을 방지
+        if (homeText !== (fm.injuryHome || '').trim()) updates.injuryHome = homeText;
+        if (awayText !== (fm.injuryAway || '').trim()) updates.injuryAway = awayText;
       }
 
       if (needH2h) {

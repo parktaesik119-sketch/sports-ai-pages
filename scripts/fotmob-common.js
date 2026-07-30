@@ -30,6 +30,24 @@ function loadFotmobAliases() {
 }
 const FOTMOB_ALIASES = loadFotmobAliases();
 
+// ─────────────────────────────────────────────
+// injuryId(숫자) → 한글 부상 유형 매핑. fotmob 웹페이지엔 "무릎 부상" 같은 구체적
+// 텍스트가 뜨지만 API 응답 자체엔 텍스트가 없고 숫자 코드(injuryId)만 있어서,
+// 실사용 캡처로 하나씩 확인해서 채워나가는 수동 매핑표다 (공식 문서 없음, 2026-07 확인).
+// 모르는 injuryId는 그냥 "부상"으로 뭉뚱그린다.
+// ─────────────────────────────────────────────
+const INJURY_TYPE_PATH = path.resolve(__dirname, 'fotmob-injury-types.json');
+function loadInjuryTypeMap() {
+  try {
+    const raw = JSON.parse(fs.readFileSync(INJURY_TYPE_PATH, 'utf-8'));
+    delete raw._설명;
+    return raw;
+  } catch {
+    return {};
+  }
+}
+const INJURY_TYPE_MAP = loadInjuryTypeMap();
+
 // 별칭 값은 문자열 하나 또는 문자열 배열(한 팀이 fotmob 안에서도 API 종류별로
 // 다른 이름을 쓰는 경우 대비 — 실사용으로 확인됨: New York Red Bulls가
 // matches 목록 API에선 "NY Red Bulls", teamForm/lineup 쪽에선
@@ -216,11 +234,15 @@ export function toFotmobRecentDisplay(formArr, beforeDateStr) {
 // formatInjuries()를 소스가 ESPN이든 fotmob이든 손 안 대고 그대로 재사용할 수 있다.
 // (실제 unavailable[] 항목 구조를 실사용 데이터로 확인함: unavailability.type/expectedReturn, 2026-07)
 export function extractFotmobInjuries(lineup) {
-  const toItems = (list) => (list || []).map(p => ({
-    name: p.name,
-    status: p.unavailability?.type || 'injury',
-    detail: p.unavailability?.expectedReturn || null,
-  }));
+  const toItems = (list) => (list || []).map(p => {
+    const injuryId = p.unavailability?.injuryId;
+    const knownType = injuryId != null ? INJURY_TYPE_MAP[String(injuryId)] : null;
+    return {
+      name: p.name,
+      status: knownType || '부상', // 매핑표에 있으면 "무릎 부상" 등 구체적으로, 없으면 뭉뚱그림
+      detail: p.unavailability?.expectedReturn || null,
+    };
+  });
   return {
     home: toItems(lineup?.homeTeam?.unavailable),
     away: toItems(lineup?.awayTeam?.unavailable),
