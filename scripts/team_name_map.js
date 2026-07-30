@@ -796,6 +796,7 @@ const TEAM_NAME_MAP = {
   "Xinjiang": "신장 플라잉 타이거스",
   "Zhejiang Chouzhou": "저장 저우저우 차이나 라이온스",
   "Zhejiang Guangsha": "저장 광샤 라이온스",
+
   // 유로리그
   "Fenerbahce": "페네르바흐체",
   "Zalgiris Kaunas": "잘기리스 카우나스",
@@ -807,9 +808,11 @@ const TEAM_NAME_MAP = {
   //웨일스
   "Barry Town": "배리 타운",
   "Cambrian & Clydach": "캠브리언 & 클리다치",
+  "Cambrian United": "캠브리언 & 클리다치",
   "Ammanford AFC": "아만포드 AFC",
   "Colwyn Bay": "콜윈베이 FC",
   "Llandudno": "란디드노",
+  "Llaneros": "야네로스",
 
   // WNBA
   "Atlanta Dream W": "애틀랜타 드림",
@@ -1013,8 +1016,9 @@ const TEAM_NAME_MAP = {
   // 프리미어십 (스코틀랜드)
   "Aberdeen": "애버딘",
   "Celtic": "셀틱",
-  "Dundee": "던디",
+  "Dundee": "던디 유나이티드",
   "Dundee Utd": "던디 유나이티드",
+  "Dundee United": "던디 유나이티드",
   "Dunfermline": "던퍼믈린",
   "Falkirk": "팰커크",
   "Heart Of Midlothian": "하트 오브 미들로디언",
