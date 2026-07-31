@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Takayuki Katoh (10-1, 2.66)|https://p.npb.jp/players_photo/2026/180/f/014_41545132.jpg\"]"
+awayLineup: "[\"선발투수 Sam Long (1-4, 4.17)|https://p.npb.jp/players_photo/2026/180/m/073_03905152.jpg\"]"
 ---

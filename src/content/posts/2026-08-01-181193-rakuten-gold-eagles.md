@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Kenta Maeda (2-3, 2.91)|https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg\"]"
+awayLineup: "[\"선발투수 Haru Matsumoto (6-2, 3.54)|https://p.npb.jp/players_photo/2026/180/h/049_41845157.jpg\"]"
 ---
