@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 L. Gilbert (8-6, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+awayLineup: "[\"선발투수 C. Prielipp (3-5, 4.73) ERA 4.73|https://a.espncdn.com/i/headshots/mlb/players/full/4620001.png\"]"
 ---

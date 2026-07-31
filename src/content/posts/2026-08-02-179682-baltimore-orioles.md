@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 S. Baz (4-9, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+awayLineup: "[\"선발투수 C. Sanchez (13-4, 2.73) ERA 2.73|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
 ---

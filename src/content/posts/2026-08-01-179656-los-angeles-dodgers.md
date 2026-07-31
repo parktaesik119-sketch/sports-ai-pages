@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Y. Yamamoto (11-6, 2.72) ERA 2.72|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
+awayLineup: "[\"선발투수 P. Tolle (6-6, 3.32) ERA 3.32|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 P. Messick (8-6, 2.59) ERA 2.59|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
+awayLineup: "[\"선발투수 K. Drake (0-0, 5.00) ERA 5.00|https://a.espncdn.com/i/headshots/mlb/players/full/5264737.png\"]"
 ---

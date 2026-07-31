@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 R. Feltner (3-5, 5.73) ERA 5.73|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
+awayLineup: "[\"선발투수 L. Avila (5-3, 4.81) ERA 4.81|https://a.espncdn.com/i/headshots/mlb/players/full/5201985.png\"]"
 ---
