@@ -29,5 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
 homeLineup: "[\"선발투수 D. Cease (7-5, 2.46) ERA 2.46|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
-awayLineup: "[\"선발투수 K. Leahy (7-4, 3.55) ERA 3.55|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
+awayLineup: "[\"선발투수 K. Leahy (7-4, 3.55) ERA 3.55|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"3번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"4번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"5번 L. Nootbaar (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4448736.png\",\"6번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"7번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\",\"8번 J. Fermin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/38851.png\",\"9번 J. Crooks (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4749675.png\"]"
 ---
