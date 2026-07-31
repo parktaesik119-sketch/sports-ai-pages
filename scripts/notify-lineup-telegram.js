@@ -135,10 +135,10 @@ async function main() {
   const notifiedState = loadNotifiedState();
 
   // 날짜 > 종목 > 리그 3단 그룹핑 (notify-posts-telegram.js와 동일한 방식으로 통일)
+  // grouped['26.07.08']['야구']['MLB__미국'] = { league: 'MLB', country: '미국', matches: [...] }
+  // ⚠️ 리그명이 같아도 국가가 다를 수 있으므로(예: "Super League" = 중국/스위스 등),
+  // league명 단독이 아니라 league+country 조합을 키로 써서 서로 섞이지 않게 한다.
   const grouped = {};
-  // 리그명 옆에 국가명을 붙이기 위한 매핑. 같은 리그는 항상 같은 국가라고 가정하고
-  // 처음 등장한 글의 country 값을 기준으로 삼는다. (notify-posts-telegram.js와 동일)
-  const leagueCountry = {};
   const now = new Date(); // 알림 발송 시점 기준. 이 시점 이후 킥오프인 경기만 알림 대상.
   let skippedStarted = 0;
   let skippedAlreadyNotified = 0;
@@ -178,14 +178,17 @@ async function main() {
     const dateLabel = toShortDate(date);
     const sportLabel = SPORT_LABEL_KO[category] || category;
 
+    const leagueKey = league ? `${league}__${country}` : '';
+
     if (!grouped[dateLabel]) grouped[dateLabel] = {};
     if (!grouped[dateLabel][sportLabel]) grouped[dateLabel][sportLabel] = {};
-    if (!grouped[dateLabel][sportLabel][league]) grouped[dateLabel][sportLabel][league] = [];
-    if (league && country && !leagueCountry[league]) leagueCountry[league] = country;
+    if (!grouped[dateLabel][sportLabel][leagueKey]) {
+      grouped[dateLabel][sportLabel][leagueKey] = { league, country, matches: [] };
+    }
 
     const lineText = `${escapeHtml(homeTeam)} vs ${escapeHtml(awayTeam)}`;
     const url = buildPostUrl(slug);
-    grouped[dateLabel][sportLabel][league].push(url ? `<a href="${url}">${lineText}</a>` : lineText);
+    grouped[dateLabel][sportLabel][leagueKey].matches.push(url ? `<a href="${url}">${lineText}</a>` : lineText);
 
     toMarkNotified.push({ key: notifyKey, kickoff: date });
   }
@@ -200,10 +203,9 @@ async function main() {
     const sports = grouped[dateLabel];
     const sportBlocks = Object.keys(sports).map(sportLabel => {
       const leagues = sports[sportLabel];
-      const leagueBlocks = Object.keys(leagues).map(league => {
-        const matches = leagues[league];
+      const leagueBlocks = Object.keys(leagues).map(leagueKey => {
+        const { league, country, matches } = leagues[leagueKey];
         if (!league) return matches.join('\n');
-        const country = leagueCountry[league];
         const leagueLabel = country ? `${country} ${league}` : league;
         return [`<b>${leagueLabel}</b>`, ...matches].join('\n');
       });
@@ -215,7 +217,7 @@ async function main() {
   const body = dateBlocks.join('\n\n\n');
   const total = dateLabels.reduce((sum, d) =>
     sum + Object.values(grouped[d]).reduce((s2, leagues) =>
-      s2 + Object.values(leagues).reduce((s3, matches) => s3 + matches.length, 0), 0), 0);
+      s2 + Object.values(leagues).reduce((s3, group) => s3 + group.matches.length, 0), 0), 0);
 
   const message = ['<b>📢 라인업 업데이트</b>', '', body].join('\n');
 
