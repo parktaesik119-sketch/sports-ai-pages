@@ -78,7 +78,8 @@ const TEAM_NAME_MAP = {
   "Union Berlin": "우니온 베를린",
   "VfB Stuttgart": "슈투트가르트",
   "VfL Wolfsburg": "볼프스부르크",
-  "WSG Wattens": "바텐스",
+  "WSG Wattens": "WSG 티롤",
+  "WSG Tirol": "WSG 티롤",
   "Werder Bremen": "베르더 브레멘",
   "Wolfsberger AC": "볼프스베르거 AC",
 
