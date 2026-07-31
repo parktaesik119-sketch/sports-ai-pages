@@ -6701,6 +6701,16 @@
       "home": [],
       "away": [
         {
+          "name": "Tobias Koch",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Tim Trummer",
+          "status": "햄스트링 부상",
+          "detail": "A few weeks"
+        },
+        {
           "name": "Jacob Italiano",
           "status": "부상",
           "detail": "Unknown"
@@ -7601,6 +7611,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Ethan O'Brien",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
           "name": "Kieran Cruise",
           "status": "부상",
           "detail": "A few weeks"
@@ -7618,6 +7633,16 @@
       ],
       "away": [
         {
+          "name": "John McGovern",
+          "status": "충돌 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Daniel Cleary",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
           "name": "Danny Grant",
           "status": "근육 부상",
           "detail": "A few weeks"
@@ -7626,16 +7651,6 @@
           "name": "Victor Ozhianvuna",
           "status": "근육 부상",
           "detail": "A few weeks"
-        },
-        {
-          "name": "Daniel Mândroiu",
-          "status": "무릎 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Rory Gaffney",
-          "status": "발목 부상",
-          "detail": "Unknown"
         }
       ]
     },
