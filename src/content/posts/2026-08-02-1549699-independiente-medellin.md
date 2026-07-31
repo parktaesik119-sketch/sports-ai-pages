@@ -1,0 +1,31 @@
+---
+title: "인데펜디엔테 메데인 vs 데포르티보 칼리 경기분석·승부예측·라인업·결장자·추천픽 (8월 2일) | Primera A - 픽천국"
+date: 2026-08-01T23:10:00+00:00
+description: "인데펜디엔테 메데인 vs 데포르티보 칼리 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1549699-2026-08-02-independiente-medellin"
+category: "soccer"
+country: "콜롬비아"
+league: "Primera A"
+homeTeam: "인데펜디엔테 메데인"
+awayTeam: "데포르티보 칼리"
+homeLogo: "https://media.api-sports.io/football/teams/1128.png"
+awayLogo: "https://media.api-sports.io/football/teams/1127.png"
+homeAnalysis: "인데펜디엔테 메데인은 2026시즌 최근 12경기에서 5승 4무 3패, 평균 득점 1.3으로 운영 안정감은 유지하고 있습니다. 최근 흐름만 보면 득점이 완전히 폭발하는 구간은 아니지만, 홈에서 쿠쿠타를 2골로 제압했고 데포르티보 파스토전에서도 3득점을 올리며 공격 전개가 살아나는 장면이 보였습니다. 다만 바스코 다 가마전과 에스투디안테스전처럼 원정에서 실점이 먼저 나오는 경기에서는 흐름이 쉽게 흔들리는 편이라, 수비 집중력이 관건입니다. 홈에서는 플라멩고전 무득점과 아길라스 도라다스전 실점 패배가 있었지만, 전체적으로는 홈에서 경기를 주도하려는 색채가 분명합니다. 특히 한 골 싸움에서 버티는 힘과 역습 마무리 능력이 강점으로 평가되며, 최근 맞대결 상성까지 감안하면 홈 이점이 충분히 살아날 수 있습니다."
+awayAnalysis: "데포르티보 칼리는 2026시즌 최근 6경기에서 4승 2무 0패, 평균 득점 1.8로 공격 효율이 매우 좋은 흐름을 이어가고 있습니다. 최근에는 하우가레스전과 리얼 산탄데르전에서 연속 득점을 기록했고, 포파얀 원정에서는 5득점까지 올리며 전방 마무리의 자신감을 보여주었습니다. 다만 최근 7경기 기준으로 보면 2승 2무 3패, 평균 득점 1.1로 들쭉날쭉한 흔적도 있어, 경기마다 공격 완성도 편차가 존재합니다. 홈에서는 아메리카 데 칼리와 0-0으로 묶인 적도 있어, 강한 압박을 받는 경기에서는 득점 템포가 다소 늦어질 수 있습니다. 그래도 최근 원정 포함 흐름에서 공격 전환 속도와 결정력은 분명히 돋보이며, 초반 선제 득점이 나오면 경기 운영이 한층 편해지는 팀으로 보입니다."
+homePower: "홈에서 한 골 차 승부를 끝까지 끌고 가는 힘이 있음|최근 실점 경기에서도 추격 득점은 꾸준히 만들어냄|상대전에서 득점 교환보다 잠그는 운영이 자주 검증됨|전방 압박이 맞아들면 홈 주도권을 잡기 쉬운 구조임|후반 집중력만 유지되면 안정적 승부 운영이 가능함"
+awayPower: "데포르티보 칼리|최근 원정에서 득점 생산성이 크게 살아남|다득점 경기와 무득점 경기의 편차가 존재함|선제골 시 경기 템포를 빠르게 장악하는 모습임|상대 압박을 넘기면 마무리 효율이 높아짐|최근 흐름상 공격 전환 완성도가 가장 큰 무기임"
+h2h: '[{"date":"26.01.25","home":"데포르티보 칼리","away":"인데펜디엔테 메데인","score":"3-1"},{"date":"25.08.31","home":"데포르티보 칼리","away":"인데펜디엔테 메데인","score":"1-3"},{"date":"25.03.17","home":"인데펜디엔테 메데인","away":"데포르티보 칼리","score":"0-0"},{"date":"24.08.05","home":"데포르티보 칼리","away":"인데펜디엔테 메데인","score":"2-0"},{"date":"24.02.06","home":"인데펜디엔테 메데인","away":"데포르티보 칼리","score":"1-0"}]'
+summary: "인데펜디엔테 메데인은 2026시즌 12경기 기준 5승 4무 3패로 전체 전력의 균형이 나쁘지 않고, 데포르티보 칼리는 6경기 기준 4승 2무 0패로 최근 마무리 감각이 더 날카롭습니다. 다만 인데펜디엔테 메데인은 홈에서 버티는 힘과 경기 운영의 안정감이 있고, 데포르티보 칼리는 공격 효율은 좋지만 경기별 편차가 남아 있어 원정에서는 부담이 커질 수 있습니다. 상대전적에서도 서로 득점이 오간 경기가 적지 않았지만, 최근 흐름과 홈 이점을 함께 보면 인데펜디엔테 메데인이 더 주도권을 잡을 가능성이 높아 보입니다. 전반적으로는 홈팀이 조금 더 안정된 전력으로 경기를 풀어가며 우세를 점할 흐름으로 판단됩니다."
+homeRecent: '[{"date":"26.07.30","home":"바스코 다 가마","away":"인데펜디엔테 메데인","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1547788-2026-07-30-vasco-da-gama/"},{"date":"26.07.26","home":"인데펜디엔테 메데인","away":"데포르티보 파스토","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1549688-2026-07-26-independiente-medellin/"},{"date":"26.07.23","home":"인데펜디엔테 메데인","away":"바스코 다 가마","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1547775-2026-07-23-independiente-medellin/"},{"date":"26.06.03","home":"인데펜디엔테 메데인","away":"쿠쿠타","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544279-2026-06-03-independiente-medellin/"},{"date":"26.05.30","home":"레오네스 FC","away":"인데펜디엔테 메데인","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544287-2026-05-30-leones-fc/"}]'
+awayRecent: '[{"date":"26.07.25","home":"데포르티보 칼리","away":"하우가레스 코르도바","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1549686-2026-07-25-deportivo-cali/"},{"date":"26.05.25","home":"Real Santander","away":"데포르티보 칼리","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544290-2026-05-25-real-santander/"},{"date":"26.05.21","home":"데포르티보 칼리","away":"Alianza Valledupar","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544277-2026-05-21-deportivo-cali/"},{"date":"26.05.16","home":"우니베르시타리오 포파얀","away":"데포르티보 칼리","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544270-2026-05-16-popayan/"},{"date":"26.05.12","home":"데포르티보 칼리","away":"부카라망가","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544262-2026-05-12-deportivo-cali/"}]'
+injuryHome: "Francis Fydriszewski (부상)|Léider Berrío (부상)"
+injuryAway: "없음"
+pickWinTeam: "인데펜디엔테 메데인"
+pickWinResult: "승"
+pickHandicapTeam: "인데펜디엔테 메데인"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,31 @@
+---
+title: "밴쿠버 화이트캡스 vs LA FC 경기분석·승부예측·라인업·결장자·추천픽 (8월 2일) | MLS - 픽천국"
+date: 2026-08-01T23:30:00+00:00
+description: "밴쿠버 화이트캡스 vs LA FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490363-2026-08-02-vancouver-whitecaps"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "밴쿠버 화이트캡스"
+awayTeam: "LA FC"
+homeLogo: "https://media.api-sports.io/football/teams/1603.png"
+awayLogo: "https://media.api-sports.io/football/teams/1616.png"
+homeAnalysis: "밴쿠버 화이트캡스는 2026시즌 최근 9경기에서 3승 4무 2패를 기록하고 있으며, 경기당 득점은 1.9점으로 공격 전개 자체는 꾸준한 편입니다. 최근 흐름을 보면 승리 수가 아주 많지는 않지만 무승부 비중이 높아 쉽게 무너지지 않는 경기 운영이 이어지고 있습니다. 직전 일정들에서도 미네소타 유나이티드와 0-0, Cavalry FC와 1-1을 기록하는 등 수비 집중력이 살아 있는 장면이 보였습니다. 반면 FC 신시내티전 3실점처럼 압박 강도가 높은 팀을 만났을 때는 수비 전환에서 흔들리는 모습도 있었고, 이 부분은 이번 경기에서도 중요한 변수로 보입니다. 홈 경기에서는 Cavalry FC전 4-1 승리와 콜로라도 래피즈전 3-1 승리처럼 공격이 살아날 때 득점 폭발력이 분명히 드러났습니다. 다만 Kenji Cabrera와 Emmanuel Sabbi, Ralph Priso-Mbongue, Belal Halbouni의 이탈로 인해 전방의 날카로움과 수비 뎁스가 함께 약해질 수 있다는 점은 부담입니다. 전체적으로 밴쿠버 화이트캡스는 쉽게 무너지지 않는 균형감은 갖추고 있지만, 강한 전방 압박을 받으면 실점 위험이 커지는 팀으로 보입니다."
+awayAnalysis: "LA FC는 2026시즌 최근 9경기에서 5승 1무 3패를 기록하고 있으며, 경기당 득점은 2.0점으로 밴쿠버 화이트캡스보다 한층 강한 공격 생산력을 보여주고 있습니다. 최근 일정에서는 스포르팅 캔자스시티전 4-0 승리, 레알 솔트레이크전 3-1 승리, LA 갤럭시전 3-0 승리로 3연승을 달리며 전력이 확실히 올라온 모습입니다. 공격에서는 다득점 경기가 반복되고 있어 마무리 완성도와 전방 연계가 모두 살아난 흐름으로 해석됩니다. 수비 역시 최근 세 경기에서 단 1실점만 허용하며 안정감을 회복했고, 특히 강한 압박 이후 빠르게 주도권을 잡는 운영이 인상적입니다. 다만 시즌 중반에는 내슈빌 SC전 2-3 패배, 휴스턴 다이나모전 1-4 패배처럼 수비 조직이 무너진 경기도 있었기 때문에 완벽한 무결점 전력이라고 보기는 어렵습니다. 그럼에도 최근 분위기만 놓고 보면 공수 밸런스가 가장 잘 맞아드는 시점에 들어섰고, 원정에서도 경기 주도권을 잡을 가능성이 높아 보입니다. Sergi Palencia와 Igor Jesus의 결장은 분명 변수지만, 현재 팀 전체 전력 흐름이 이를 어느 정도 상쇄하고 있습니다."
+homePower: "밴쿠버 화이트캡스는 접전 관리 능력 돋보임|밴쿠버 화이트캡스는 홈 화력 상승폭 큼|전방 결장 여파로 마무리 기복 우려됨|수비 집중력 살아나면 버티는 힘 있음|강한 압박 대응력은 아직 숙제로 남음"
+awayPower: "LA FC는 최근 공격 완성도 확실히 올라옴|LA FC는 압박 뒤 전환 속도 우수함|원정에서도 주도권 잡는 전개 가능해보임|연승 구간에서 수비 안정감도 회복됨|핵심 이탈 있어도 전력 유지력 검증됨"
+h2h: '[{"date":"25.11.23","home":"밴쿠버 화이트캡스","away":"LA FC","score":"2-2"},{"date":"25.06.30","home":"LA FC","away":"밴쿠버 화이트캡스","score":"0-1"},{"date":"25.05.12","home":"밴쿠버 화이트캡스","away":"LA FC","score":"2-2"},{"date":"24.11.09","home":"LA FC","away":"밴쿠버 화이트캡스","score":"1-0"},{"date":"24.11.04","home":"밴쿠버 화이트캡스","away":"LA FC","score":"3-0"}]'
+summary: "이번 경기는 시즌 전체 전력만 비교하면 LA FC 쪽이 한 걸음 앞서 있다고 보입니다. 밴쿠버 화이트캡스도 쉽게 무너지지 않는 운영과 홈에서의 득점 잠재력은 갖추고 있지만, 최근에는 무승부가 많아지며 결정력에서 다소 아쉬움을 남기고 있습니다. 반면 LA FC는 시즌 공격 생산력이 더 높고, 최근에는 연속 다득점 승리로 마무리 완성도와 수비 안정감을 함께 끌어올렸습니다. 상대전적에서도 팽팽한 흐름 속에 LA FC가 중요한 승부처에서 우위를 점한 장면이 적지 않았고, 이번에도 전방 압박과 전환 속도에서 우세를 만들 가능성이 높아 보입니다. 밴쿠버 화이트캡스가 버티는 경기는 만들 수 있겠지만, 전체적인 공수 밸런스와 최근 상승세를 감안하면 LA FC가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.26","home":"미네소타 유나이티드","away":"밴쿠버 화이트캡스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490354-2026-07-26-minnesota-united-fc/"},{"date":"26.07.23","home":"FC 신시내티","away":"밴쿠버 화이트캡스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490332-2026-07-23-fc-cincinnati/"},{"date":"26.07.14","home":"Cavalry FC","away":"밴쿠버 화이트캡스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544686-2026-07-14-cavalry-fc/"},{"date":"26.07.09","home":"밴쿠버 화이트캡스","away":"Cavalry FC","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544685-2026-07-09-vancouver-whitecaps/"},{"date":"26.05.24","home":"샌디에이고 FC","away":"밴쿠버 화이트캡스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490318-2026-05-24-san-diego/"}]'
+awayRecent: '[{"date":"26.07.26","home":"LA FC","away":"스포르팅 캔자스시티","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490358-2026-07-26-los-angeles-fc/"},{"date":"26.07.23","home":"LA FC","away":"레알 솔트레이크","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490342-2026-07-23-los-angeles-fc/"},{"date":"26.07.18","home":"LA 갤럭시","away":"LA FC","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490330-2026-07-18-los-angeles-galaxy/"},{"date":"26.05.25","home":"LA FC","away":"시애틀 사운더스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490324-2026-05-25-los-angeles-fc/"},{"date":"26.05.18","home":"내슈빌 SC","away":"LA FC","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490309-2026-05-18-nashville-sc/"}]'
+injuryHome: "Kenji Cabrera (발 부상)|Emmanuel Sabbi (부상)|Ralph Priso-Mbongue (햄스트링 부상)|Belal Halbouni (무릎 부상)"
+injuryAway: "Sergi Palencia (부상)|Igor Jesus (십자 인대 부상)"
+pickWinTeam: "LA FC"
+pickWinResult: "승"
+pickHandicapTeam: "LA FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

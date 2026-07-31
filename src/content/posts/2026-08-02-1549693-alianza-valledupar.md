@@ -1,0 +1,31 @@
+---
+title: "Alianza Valledupar vs 데포르테스 톨리마 경기분석·승부예측·라인업·결장자·추천픽 (8월 2일) | Primera A - 픽천국"
+date: 2026-08-01T21:05:00+00:00
+description: "Alianza Valledupar vs 데포르테스 톨리마 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1549693-2026-08-02-alianza-valledupar"
+category: "soccer"
+country: "콜롬비아"
+league: "Primera A"
+homeTeam: "Alianza Valledupar"
+awayTeam: "데포르테스 톨리마"
+homeLogo: "https://media.api-sports.io/football/teams/1141.png"
+awayLogo: "https://media.api-sports.io/football/teams/1142.png"
+homeAnalysis: "2026시즌 전체 기준 최근 7경기에서 2승 4무 1패를 기록했고 평균 득점은 1.3으로 안정적인 공격 생산력을 보여주고 있습니다. 최근에는 포르탈레자 FC와 1-1로 비기며 연속 무패 흐름을 이어갔고, 부카라망가와 레알 산탄데르를 상대로 승리를 거두며 홈 경기 경쟁력을 확인했습니다. 특히 홈에서 3-0 승리와 2-1 승리를 만들어낸 점은 경기 주도권을 잡았을 때 결정력이 살아나는 팀이라는 점을 보여줍니다. 수비에서는 최근 7경기 중 무실점 경기가 두 차례 있었지만, 데포르티보 칼리전처럼 공격이 막히면 반등이 늦어지는 모습도 나타났습니다. 최근 10경기 기준으로는 승리보다 패배가 많아 전체적인 전력에는 기복이 있습니다. 데포르테스 톨리마와의 상대전적에서 여러 차례 승리를 거둔 경험은 심리적인 강점으로 작용할 수 있지만, 이번 경기에서는 꾸준한 마무리가 중요해 보입니다."
+awayAnalysis: "2026시즌 전체 기준 최근 11경기에서 4승 2무 5패를 기록했고 평균 득점은 1.2로 알리안사 발레두파르보다 조금 더 높은 공격 생산력을 보이고 있습니다. 최근에는 데포르테스 킨디오에 1-2로 패했지만 주니오르와 킨디오를 상대로 연속 승리를 거두며 반등하는 흐름도 만들었습니다. 홈 경기에서는 2-1과 3-0 승리를 기록하며 공격 전개가 살아났고, 클루브 나시오날전에서도 다득점 승리를 통해 결정력을 보여주었습니다. 반면 원정에서는 아틀레티코 나시오날과 코키보 우니도에게 연속으로 많은 실점을 허용해 수비 안정성이 약점으로 드러났습니다. 최근 10경기 기준으로는 승리가 한 차례에 그쳐 경기력의 변동성이 큰 편입니다. 다만 알리안사 발레두파르와의 최근 맞대결에서는 2-0으로 승리하며 상성에서 우위를 확인했고, 이번 경기에서도 효율적인 역습이 핵심이 될 것으로 보입니다."
+homePower: "홈에서 경기 주도 시 다득점 전개 가능|최근 무패 흐름으로 경기 운영 안정감 회복|무실점 승리 경험이 있어 선제골 이후 강함|데포르테스 톨리마 상대 역습 대응이 핵심 변수|결정력 기복으로 경기 초반 집중력 요구됨"
+awayPower: "최근 홈 승리에서 공격 효율 상승세|선제 득점 시 수비 부담을 줄이는 운영 가능|알리안사 발레두파르 상대 상성 우위 재확인됨|원정 다실점 사례가 있어 수비 전환이 변수|주니오르전 승리로 반등 감각은 살아난 상태임"
+h2h: '[{"date":"26.01.24","home":"데포르테스 톨리마","away":"Alianza Valledupar","score":"2-0"},{"date":"25.07.23","home":"데포르테스 톨리마","away":"Alianza Valledupar","score":"0-1"},{"date":"25.02.08","home":"데포르테스 톨리마","away":"Alianza Valledupar","score":"3-1"},{"date":"24.10.20","home":"데포르테스 톨리마","away":"Alianza Valledupar","score":"2-0"},{"date":"24.03.30","home":"데포르테스 톨리마","away":"Alianza Valledupar","score":"0-2"}]'
+summary: "2026시즌 전체 전력은 두 팀이 크게 벌어져 있지는 않지만, 데포르테스 톨리마가 더 많은 승리를 기록하며 공격 생산력에서 근소한 우위를 보이고 있습니다. 알리안사 발레두파르는 최근 홈에서 무패 흐름과 다득점 승리를 만들었지만, 데포르테스 톨리마는 주니오르와 킨디오를 상대로 연속 승리를 거두며 반등 가능성을 보여주었습니다. 상대전적에서도 데포르테스 톨리마가 2-0 승리를 포함해 여러 차례 우세한 결과를 만들었고, 알리안사 발레두파르의 공격을 제한하는 운영이 강점으로 평가됩니다. 데포르테스 톨리마의 원정 수비 불안은 변수지만, 전체적인 상성 및 결정력에서는 원정팀이 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.07.27","home":"Alianza FC","away":"포르탈레자 FC","score":"1-1","result":"🟡무"},{"date":"26.07.27","home":"Alianza Valledupar","away":"포르탈레자 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1549684-2026-07-27-alianza-valledupar/"},{"date":"26.05.25","home":"Alianza FC","away":"부카라망가","score":"2-1","result":"🔴패"},{"date":"26.05.25","home":"Alianza Valledupar","away":"부카라망가","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544284-2026-05-25-alianza-valledupar/"},{"date":"26.05.21","home":"데포르티보 칼리","away":"Alianza FC","score":"1-0","result":"🔴패"}]'
+awayRecent: '[{"date":"26.07.29","home":"Quindio","away":"데포르테스 톨리마","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1545517-2026-07-29-quindio/"},{"date":"26.07.26","home":"데포르테스 톨리마","away":"주니오르 데 바란키야","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1549687-2026-07-26-deportes-tolima/"},{"date":"26.07.22","home":"데포르테스 톨리마","away":"Quindio","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1545506-2026-07-22-deportes-tolima/"},{"date":"26.05.27","home":"우니베르시타리오","away":"데포르테스 톨리마","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1535329-2026-05-27-universitario/"},{"date":"26.05.24","home":"아틀레티코 나시오날","away":"데포르테스 톨리마","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1545168-2026-05-24-atletico-nacional/"}]'
+injuryHome: "Sergio Aponzá (무릎 부상)"
+injuryAway: "없음"
+pickWinTeam: "데포르테스 톨리마"
+pickWinResult: "승"
+pickHandicapTeam: "데포르테스 톨리마"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
