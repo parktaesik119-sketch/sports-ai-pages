@@ -29,4 +29,5 @@ pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
 homeLineup: "[\"선발투수 B. Young (8-2, 3.13) ERA 3.13|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
+awayLineup: "[\"1번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"2번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"3번 B. Harper (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 A. Bohm (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"5번 B. Marsh (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40803.png\",\"6번 J.T. Realmuto (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32177.png\",\"7번 B. Stott (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"8번 G. Rincones Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5131884.png\",\"9번 J. Crawford (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080642.png\"]"
 ---
