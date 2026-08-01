@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 B. Suter (1-2, 4.26) ERA 4.26|https://a.espncdn.com/i/headshots/mlb/players/full/36023.png\"]"
+homeLineup: "[\"선발투수 B. Suter (1-2, 4.26) ERA 4.26|https://a.espncdn.com/i/headshots/mlb/players/full/36023.png\",\"1번 Z. Neto (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png\",\"2번 M. Trout (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/30836.png\",\"3번 N. Schanuel (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4739755.png\",\"4번 J. Soler (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32558.png\",\"5번 V. Grissom (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42503.png\",\"6번 J. Adell (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"7번 T. d'Arnaud (C)|https://a.espncdn.com/i/headshots/mlb/players/full/29951.png\",\"8번 D. Guzman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4917822.png\",\"9번 J. Siri (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33954.png\"]"
 awayLineup: "[\"선발투수 R. Gasser (3-4, 4.71) ERA 4.71|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
 ---
