@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 R. Feltner (3-5, 5.73) ERA 5.73|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
+homeLineup: "[\"선발투수 R. Feltner (3-5, 5.73) ERA 5.73|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\",\"1번 J. McCarthy (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 K. Karros (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5203102.png\",\"3번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"4번 H. Goodman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"5번 M. Moniak (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"6번 C. Carrigg (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"7번 W. Castro (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"8번 T. Freeman (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40958.png\",\"9번 B. Doyle (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42462.png\"]"
 awayLineup: "[\"선발투수 L. Avila (5-3, 4.95) ERA 4.95|https://a.espncdn.com/i/headshots/mlb/players/full/5201985.png\"]"
 ---

@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
-homeLineup: "[\"선발투수 J. Soriano (9-6, 3.29) ERA 3.29|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
+homeLineup: "[\"선발투수 B. Suter (1-2, 4.26) ERA 4.26|https://a.espncdn.com/i/headshots/mlb/players/full/36023.png\"]"
 awayLineup: "[\"선발투수 R. Gasser (3-4, 4.71) ERA 4.71|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
 ---
