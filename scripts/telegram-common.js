@@ -79,6 +79,84 @@ export async function sendTelegramMessage(text) {
   return true;
 }
 
+// 텔레그램 텍스트 메시지 길이 제한 (sendMessage 기준)
+export const TELEGRAM_TEXT_LIMIT = 4096;
+
+// header + blocks(날짜별 블록처럼 그 자체로 완결된 문단들의 배열)를 하나의 메시지로 합쳐
+// 우선 전송을 시도한다. 4096자 제한(ENTITIES_TOO_LONG)에 걸려 실패하면,
+// 블록 단위로 나눠서 여러 메시지로 재전송한다. (블록 하나가 그 자체로도 너무 길면 줄 단위로 강제 분할)
+export async function sendTelegramMessageWithBlocks(header, blocks) {
+  const fullText = [header, '', blocks.join('\n\n\n')].join('\n');
+
+  try {
+    return await sendTelegramMessage(fullText);
+  } catch (err) {
+    const errMsg = String((err && err.message) || '');
+    const isTooLong = errMsg.includes('ENTITIES_TOO_LONG') || errMsg.includes('MESSAGE_TOO_LONG');
+    if (!isTooLong) throw err; // 글자수 문제가 아닌 다른 오류(네트워크, 인증 등)는 그대로 전파
+
+    console.warn('⚠️ 메시지가 너무 길어(4096자 초과) 여러 개로 나눠서 재전송합니다.');
+    const chunks = chunkBlocksByLimit(header, blocks);
+    let allOk = true;
+    for (const chunk of chunks) {
+      const ok = await sendTelegramMessage(chunk);
+      if (!ok) allOk = false;
+    }
+    return allOk;
+  }
+}
+
+function chunkBlocksByLimit(header, blocks, limit = TELEGRAM_TEXT_LIMIT) {
+  const chunks = [];
+  let current = [];
+  let currentLen = header.length + 2; // 헤더 + 빈 줄만큼의 기본 여유
+
+  const flush = () => {
+    if (current.length === 0) return;
+    chunks.push(current);
+    current = [];
+    currentLen = header.length + 2;
+  };
+
+  for (const block of blocks) {
+    const addLen = block.length + 3; // 블록 사이 구분자 '\n\n\n'
+
+    if (current.length > 0 && currentLen + addLen > limit) {
+      flush();
+    }
+
+    if (block.length + header.length + 2 > limit) {
+      // 블록 하나가 그 자체로도 너무 긴 극단적인 경우: 줄 단위로 강제 분할
+      flush();
+      const lines = block.split('\n');
+      let sub = [];
+      let subLen = header.length + 2;
+      for (const line of lines) {
+        const lineLen = line.length + 1;
+        if (sub.length > 0 && subLen + lineLen > limit) {
+          chunks.push([sub.join('\n')]);
+          sub = [];
+          subLen = header.length + 2;
+        }
+        sub.push(line);
+        subLen += lineLen;
+      }
+      if (sub.length) chunks.push([sub.join('\n')]);
+      continue;
+    }
+
+    current.push(block);
+    currentLen += addLen;
+  }
+  flush();
+
+  const total = chunks.length;
+  return chunks.map((blockGroup, i) => {
+    const partHeader = total > 1 ? `${header} (${i + 1}/${total})` : header;
+    return [partHeader, '', blockGroup.join('\n\n\n')].join('\n');
+  });
+}
+
 // 캡션 없이 사진 한 장만 전송한다. (본문 텍스트는 뒤이어 sendTelegramMessage로 별도 발송)
 // photoSource가 http(s):// 로 시작하면 URL 방식(텔레그램 서버가 직접 접근), 아니면
 // 로컬 파일 경로로 간주해 실제 파일 바이너리를 multipart/form-data로 업로드한다.
