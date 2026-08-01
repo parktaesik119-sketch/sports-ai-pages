@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 G. Williams (10-6, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 M. Kelly (8-8, 4.86) ERA 4.86|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 W. Urena (6-7, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png\"]"
+awayLineup: "[\"선발투수 J. Misiorowski (11-4, 1.58) ERA 1.58|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
 ---

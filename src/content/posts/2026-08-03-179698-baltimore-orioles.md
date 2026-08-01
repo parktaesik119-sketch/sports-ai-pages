@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 K. Bradish (7-9, 3.74) ERA 3.74|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
+awayLineup: "[\"선발투수 Z. Wheeler (10-2, 2.53) ERA 2.53|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
 ---

@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 E. Sheehan (4-7, 4.95) ERA 4.95|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\"]"
+awayLineup: "[\"선발투수 J. Bennett (6-4, 2.74) ERA 2.74|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\"]"
 ---

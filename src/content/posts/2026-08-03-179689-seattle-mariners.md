@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 G. Kirby (8-9, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/42406.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (9-4, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
 ---

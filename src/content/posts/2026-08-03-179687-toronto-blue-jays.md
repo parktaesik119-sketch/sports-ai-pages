@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 M. Scherzer (1-4, 9.49) ERA 9.49|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
+awayLineup: "[\"선발투수 M. Liberatore (5-8, 5.26) ERA 5.26|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
 ---

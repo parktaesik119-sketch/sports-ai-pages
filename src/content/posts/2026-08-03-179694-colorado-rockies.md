@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 K. Freeland (2-10, 7.34) ERA 7.34|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
+awayLineup: "[\"선발투수 S. Lugo (4-6, 4.22) ERA 4.22|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
 ---
