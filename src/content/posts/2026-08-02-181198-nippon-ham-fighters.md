@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "8.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 Kohei Arihara (2-6, 5.83)|https://p.npb.jp/players_photo/2026/180/f/074_51155130.jpg\"]"
+awayLineup: "[\"선발투수 Andre Jackson (7-6, 3.36)|https://p.npb.jp/players_photo/2026/180/m/042_43745159.jpg\"]"
 ---
