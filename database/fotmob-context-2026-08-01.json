@@ -6533,12 +6533,27 @@
     "injuries": {
       "home": [
         {
+          "name": "Gabriel Sigua",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Kaio Eduardo",
           "status": "십자 인대 부상",
           "detail": "Mid November 2026"
         }
       ],
       "away": [
+        {
+          "name": "Nicky Beloko",
+          "status": "충돌 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Souleymane N'Diaye",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
         {
           "name": "Hamza Abdallah",
           "status": "십자 인대 부상",
@@ -6960,8 +6975,24 @@
     "date": "2026-08-01T16:00:00+00:00",
     "league": "Super League",
     "injuries": {
-      "home": [],
+      "home": [
+        {
+          "name": "David Vujevic",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Silas Huber",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        }
+      ],
       "away": [
+        {
+          "name": "Yoan Severin",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
         {
           "name": "Jérémy Frick",
           "status": "등 부상",
@@ -7801,8 +7832,30 @@
     "date": "2026-08-01T17:30:00+00:00",
     "league": "Bundesliga",
     "injuries": {
-      "home": [],
-      "away": []
+      "home": [
+        {
+          "name": "Justin Omoregie",
+          "status": "부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Anrie Chase",
+          "status": "부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Stefan Lainer",
+          "status": "부상",
+          "detail": "Late August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Lukas Fridrikas",
+          "status": "십자 인대 부상",
+          "detail": "Mid April 2027"
+        }
+      ]
     },
     "h2h": [
       {
@@ -8159,12 +8212,43 @@
           "detail": "Late August 2026"
         },
         {
+          "name": "Mattias Käit",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
           "name": "Genís Montolio",
           "status": "십자 인대 부상",
           "detail": "Early January 2027"
         }
       ],
-      "away": []
+      "away": [
+        {
+          "name": "Benjamin Kabeya",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Facinet Conte",
+          "status": "충돌 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Saidy Janko",
+          "status": "부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Alan Virginius",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Ryan Andrews",
+          "status": "충돌 부상",
+          "detail": "About 1-2 weeks"
+        }
+      ]
     },
     "h2h": [
       {
@@ -18968,7 +19052,7 @@
         {
           "name": "Rocky Bushiri",
           "status": "아킬레스건 부상",
-          "detail": "Early August 2026"
+          "detail": "Mid August 2026"
         }
       ],
       "away": []
