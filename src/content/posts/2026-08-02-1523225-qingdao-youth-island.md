@@ -1,0 +1,31 @@
+---
+title: "칭다오 FC vs 칭다오 하이뉴 경기분석·승부예측·라인업·결장자·추천픽 (8월 2일) | Super League - 픽천국"
+date: 2026-08-02T10:00:00+00:00
+description: "칭다오 FC vs 칭다오 하이뉴 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1523225-2026-08-02-qingdao-youth-island"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "칭다오 FC"
+awayTeam: "칭다오 하이뉴"
+homeLogo: "https://media.api-sports.io/football/teams/17265.png"
+awayLogo: "https://media.api-sports.io/football/teams/1431.png"
+homeAnalysis: "칭다오 FC는 2026시즌 최근 15경기에서 5승 8무 2패, 평균 득점 1.4를 기록하며 쉽게 무너지지 않는 전력을 보여주고 있습니다. 최근 흐름을 보면 승리와 무승부를 꾸준히 섞어내고 있어 경기 운영의 안정감이 돋보입니다. 다만 최근 10경기 기준으로는 2승 4무 4패, 평균 득점 1.1로 공격 마무리에서는 다소 답답한 흐름도 함께 보입니다. 홈에서는 강한 상대를 상대로도 득점에 성공하는 장면이 있었고, 상하이 하이강과 저장 뤼청을 상대로 골을 만들며 전방의 버티는 힘을 보여주고 있습니다. 반면 수비에서는 실점이 크게 늘어나는 경기보다 한두 골 차 승부로 가는 경우가 많아, 균형은 있지만 결정력에서 차이를 더 만드는 쪽이 중요해 보입니다."
+awayAnalysis: "칭다오 하이뉴는 2026시즌 최근 14경기에서 4승 2무 8패, 평균 득점 1.9를 기록하며 공격 생산성은 높지만 결과 기복이 큰 전력을 보이고 있습니다. 최근 흐름에서는 실점이 크게 늘어난 경기들이 이어지며 수비 안정감이 흔들리고 있습니다. 최근 10경기 기준으로도 2승 2무 6패, 평균 득점 1.5로 득점은 나와도 이를 지켜내지 못하는 장면이 반복되고 있습니다. 원정에서는 강한 상대를 상대로도 득점은 만들고 있지만, 후방에서 여러 골을 허용하는 흐름이 부담으로 작용하고 있습니다. 특히 경기 후반 흐름을 버티는 힘이 떨어지는 모습이 보여, 선제 실점이 나오면 뒤집기 부담이 커지는 전력으로 평가됩니다."
+homePower: "칭다오 FC는 큰 점수 차보다 버티는 경기 운영이 강점임|최근 무승부 비중이 높아 경기 균형 유지력이 돋보임|칭다오 하이뉴 상대로 실점 억제 흐름이 반복됨|홈에서 강호 상대로도 득점 연결이 가능한 편임|마무리 효율만 올라가면 승부를 가져갈 여지가 커 보임"
+awayPower: "칭다오 하이뉴는 득점 자원은 다양하게 살아 있음|그러나 실점이 늘어도 흐름을 끊는 방어가 약해 보임|최근 원정 경기에서 수비 불안이 뚜렷하게 드러남|칭다오 FC 상대로는 대체로 주도권을 오래 못 지킴|공격 강도는 높지만 경기 관리 능력은 흔들림이 큼"
+h2h: '[{"date":"26.04.17","home":"칭다오 하이뉴","away":"칭다오 FC","score":"0-0"},{"date":"25.06.29","home":"칭다오 하이뉴","away":"칭다오 FC","score":"1-0"},{"date":"25.02.23","home":"칭다오 하이뉴","away":"칭다오 FC","score":"2-2"},{"date":"24.07.07","home":"칭다오 하이뉴","away":"칭다오 FC","score":"3-1"},{"date":"24.03.30","home":"칭다오 하이뉴","away":"칭다오 FC","score":"1-0"}]'
+summary: "칭다오 하이뉴는 시즌 평균 득점이 더 높아 공격 전개에서는 한층 날카로운 모습을 보이고 있습니다. 다만 최근 경기들에서 실점이 크게 늘어난 반면, 칭다오 FC는 승패 기복은 있어도 경기 균형을 지키는 힘이 비교적 안정적으로 유지되고 있습니다. 상대전적에서도 팽팽한 무승부와 한 골 차 승부가 자주 나왔지만, 최근 수비 흐름과 공격 효율을 함께 보면 이번 경기는 칭다오 하이뉴가 조금 더 우세한 쪽으로 읽히고 있습니다."
+homeRecent: '[{"date":"26.07.25","home":"랴오닝 선양","away":"칭다오 FC","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523212-2026-07-25-shenyang-urban/"},{"date":"26.07.21","home":"충칭 통량룽","away":"칭다오 FC","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1567356-2026-07-21-chongqing-tongliang-long/"},{"date":"26.07.17","home":"칭다오 FC","away":"청두 룽청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523207-2026-07-17-qingdao-youth-island/"},{"date":"26.07.11","home":"선전 신청펑","away":"칭다오 FC","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523199-2026-07-11-sichuan-jiuniu/"},{"date":"26.07.04","home":"칭다오 FC","away":"상하이 하이강","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1523189-2026-07-04-qingdao-youth-island/"}]'
+awayRecent: '[{"date":"26.07.25","home":"칭다오 하이뉴","away":"텐진 진먼후","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523211-2026-07-25-qingdao-jonoon/"},{"date":"26.07.21","home":"상하이 선화","away":"칭다오 하이뉴","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1567358-2026-07-21-shanghai-shenhua/"},{"date":"26.07.17","home":"허난 FC","away":"칭다오 하이뉴","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523204-2026-07-17-henan-jianye/"},{"date":"26.07.14","home":"저장 뤼청","away":"칭다오 하이뉴","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523197-2026-07-14-hangzhou-greentown/"},{"date":"26.07.05","home":"칭다오 하이뉴","away":"청두 룽청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1523193-2026-07-05-qingdao-jonoon/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "칭다오 하이뉴"
+pickWinResult: "승"
+pickHandicapTeam: "칭다오 하이뉴"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

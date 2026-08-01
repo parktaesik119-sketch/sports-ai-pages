@@ -1,0 +1,31 @@
+---
+title: "미네소타 유나이티드 vs 샌디에이고 FC 경기분석·승부예측·라인업·결장자·추천픽 (8월 2일) | MLS - 픽천국"
+date: 2026-08-02T00:30:00+00:00
+description: "미네소타 유나이티드 vs 샌디에이고 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490370-2026-08-02-minnesota-united-fc"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "미네소타 유나이티드"
+awayTeam: "샌디에이고 FC"
+homeLogo: "https://media.api-sports.io/football/teams/1612.png"
+awayLogo: "https://media.api-sports.io/football/teams/25484.png"
+homeAnalysis: "미네소타 유나이티드는 2026시즌 현재 리그순위 9위로 6승 6패 5무, 득실 19-24를 기록하고 있어 공격보다 수비 쪽 부담이 더 크게 드러나는 흐름입니다. 최근 경기에서도 0승 3무 3패로 승점 쌓기가 매끄럽지 않았고, 득점도 평균 1.2골 수준에 머물러 마무리 완성도가 아쉬워 보입니다. 다만 홈에서는 버티는 힘이 완전히 무너진 모습은 아니어서, 접전으로 끌고 가는 운영 자체는 유지되고 있습니다. 실점 억제는 어느 정도 되고 있지만 한 번 앞서 나가야 하는 경기에서 득점 전환이 늦어지는 점이 가장 큰 고민으로 보입니다. 이번 경기에서도 홈에서의 안정감은 살릴 수 있겠지만, 흐름 전체로 보면 공격 전개에서 더 분명한 해법이 필요해 보입니다."
+awayAnalysis: "샌디에이고 FC는 2026시즌 현재 리그순위 12위로 5승 7패 5무, 득실 31-28을 기록하고 있어 순위는 낮지만 득점 생산력 자체는 꽤 살아 있는 편입니다. 최근 경기에서는 1승 3무 3패로 결과가 들쭉날쭉했지만, 평균 득점 1.4골과 최근 경기 기준 1.5골 흐름은 공격 쪽 잠재력이 분명하다는 뜻으로 읽힙니다. 특히 실점이 적지 않은 편이라 수비 안정성은 숙제로 남아 있지만, 공격에서 한 번 흐름을 타면 득점 구간을 만들어내는 힘은 있습니다. 아마흘 펠레그리노의 이탈은 전방 선택지에 영향을 줄 수 있어 보이지만, 전체적으로는 득점 루트가 다양한 팀으로 평가됩니다. 순위는 다소 낮아도 최근 공격 흐름과 득실 차를 함께 보면 반등 가능성이 충분히 느껴집니다."
+homePower: "리그순위보다 경기 내용이 더 답답하게 이어지고 있음|홈에서 버티는 힘은 있으나 마무리 효율이 약함|실점 억제는 되지만 선제 득점 뒤 운영이 아쉬움|최근 무승 흐름이 공격 전개 정체를 보여줌|접전은 가능하나 승부 결정력은 보완이 필요함"
+awayPower: "낮은 리그순위 대비 득점 잠재력은 선명함|실점도 동반되는 공격형 운영이 특징임|최근 원정에서도 득점 시도는 꾸준히 유지됨|아마흘 펠레그리노 공백이 전방 연결에 변수임|상대보다 화력 전개 폭은 더 넓어 보임"
+h2h: '[{"date":"26.04.12","home":"샌디에이고 FC","away":"미네소타 유나이티드","score":"1-2"},{"date":"25.11.25","home":"샌디에이고 FC","away":"미네소타 유나이티드","score":"1-0"},{"date":"25.09.14","home":"샌디에이고 FC","away":"미네소타 유나이티드","score":"1-3"},{"date":"25.06.15","home":"미네소타 유나이티드","away":"샌디에이고 FC","score":"2-4"}]'
+summary: "미네소타 유나이티드는 리그순위는 더 높지만 최근 전력 흐름이 떨어져 있어, 숫자상 위치와 실제 경기력 사이의 간극이 느껴집니다. 샌디에이고 FC는 리그순위가 더 낮아도 득실과 득점 흐름을 보면 공격 쪽에서 더 강한 인상을 주고 있고, 최근 경기에서도 득점 생산력은 비교적 유지되고 있습니다. 상대전적에서도 최근에는 미네소타 유나이티드가 앞선 결과를 가져간 적이 있지만, 전체적으로는 득점 교환이 활발한 양상이라 이번에도 원정팀이 더 주도권을 잡을 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.07.26","home":"미네소타 유나이티드","away":"밴쿠버 화이트캡스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490354-2026-07-26-minnesota-united-fc/"},{"date":"26.07.23","home":"스포르팅 캔자스시티","away":"미네소타 유나이티드","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490339-2026-07-23-sporting-kansas-city/"},{"date":"26.05.24","home":"미네소타 유나이티드","away":"레알 솔트레이크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490317-2026-05-24-minnesota-united-fc/"},{"date":"26.05.17","home":"뉴잉글랜드 레볼루션","away":"미네소타 유나이티드","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490300-2026-05-17-new-england-revolution/"},{"date":"26.05.14","home":"미네소타 유나이티드","away":"콜로라도 래피즈","score":"0-1","result":"🔴패"}]'
+awayRecent: '[{"date":"26.07.26","home":"샌디에이고 FC","away":"FC 댈러스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490357-2026-07-26-san-diego/"},{"date":"26.07.23","home":"콜로라도 래피즈","away":"샌디에이고 FC","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490341-2026-07-23-colorado-rapids/"},{"date":"26.05.24","home":"샌디에이고 FC","away":"밴쿠버 화이트캡스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490318-2026-05-24-san-diego/"},{"date":"26.05.17","home":"샌디에이고 FC","away":"FC 신시내티","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490306-2026-05-17-san-diego/"},{"date":"26.05.14","home":"샌디에이고 FC","away":"오스틴 FC","score":"5-0","result":"🟢승"}]'
+injuryHome: "없음"
+injuryAway: "Amahl Pellegrino (근육 부상)"
+pickWinTeam: "샌디에이고 FC"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

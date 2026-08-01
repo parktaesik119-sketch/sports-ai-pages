@@ -1,0 +1,31 @@
+---
+title: "스포르팅 캔자스시티 vs 휴스턴 다이나모 경기분석·승부예측·라인업·결장자·추천픽 (8월 2일) | MLS - 픽천국"
+date: 2026-08-02T00:30:00+00:00
+description: "스포르팅 캔자스시티 vs 휴스턴 다이나모 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490371-2026-08-02-sporting-kansas-city"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "스포르팅 캔자스시티"
+awayTeam: "휴스턴 다이나모"
+homeLogo: "https://media.api-sports.io/football/teams/1611.png"
+awayLogo: "https://media.api-sports.io/football/teams/1600.png"
+homeAnalysis: "스포르팅 캔자스시티는 2026시즌 리그순위 15위에 머물며 4승 11패 2무, 득실 18-44로 고전하고 있습니다. 다만 최근 경기에서는 득점이 완전히 끊기기보다는 홈에서 한 번씩 반응을 보이며 흐름을 다시 만들 여지는 남아 있습니다. 시즌 평균 득점이 1.0으로 높지는 않지만, 홈에서는 최소한 공격 전개를 시도하며 상대 수비를 흔드는 장면은 꾸준히 만들고 있습니다. 반면 실점 억제는 가장 큰 과제로 보이며, 경기 후반으로 갈수록 수비 집중력이 흔들리는 모습이 자주 드러나고 있습니다. 주목할 점은 홈에서의 경기 운영 자체는 나쁘지 않다는 점이며, 상대가 강한 원정 전력을 앞세워도 공간 관리만 안정되면 접전으로 끌고 갈 가능성은 있습니다."
+awayAnalysis: "휴스턴 다이나모는 2026시즌 리그순위 5위에 올라 있으며 8승 6패 2무, 득실 23-24로 상위권 경쟁을 이어가고 있습니다. 시즌 전체 성적만 보면 안정적인 승점 수집이 돋보이지만, 최근 경기 흐름은 기대치에 비해 다소 흔들리는 모습이 함께 보입니다. 평균 득점 1.8은 공격 전개가 살아 있다는 뜻이고, 여러 경기에서 득점 루트를 다양하게 가져가는 점도 강점입니다. 다만 최근에는 승부를 매끄럽게 마무리하지 못하는 장면이 보이며, 원정에서 강한 압박을 받으면 경기 주도권이 길게 이어지지 않을 수 있습니다. 결장자 부담은 크지 않지만, 전방 효율이 흔들리는 구간에서는 수비적으로 먼저 안정감을 찾는 운영이 필요해 보입니다."
+homePower: "홈 경기서 먼저 맞고도 끌고 가는 회복력 보임|실점이 많아도 초반 압박은 유지되는 편임|전개는 살아 있으나 마무리 효율이 들쭉날쭉함|수비 라인 간격 벌어질 때 대량 실점 위험 큼|순위는 낮지만 홈에서는 반등 여지 확인됨"
+awayPower: "휴스턴 다이나모는 상위권 전력 유지가 검증됨|공격 루트가 다양해 한 골 싸움에 강점 있음|최근 흔들림 속에서도 경기 지배력은 남아 있음|원정에서도 전방 압박 전환이 빠른 편임|득실 차 좁아 수비 안정이 승부 핵심임"
+h2h: '[{"date":"25.10.19","home":"스포르팅 캔자스시티","away":"휴스턴 다이나모","score":"0-0"},{"date":"25.06.01","home":"휴스턴 다이나모","away":"스포르팅 캔자스시티","score":"1-3"},{"date":"24.05.12","home":"스포르팅 캔자스시티","away":"휴스턴 다이나모","score":"1-2"},{"date":"24.02.25","home":"휴스턴 다이나모","away":"스포르팅 캔자스시티","score":"1-1"},{"date":"23.11.27","home":"휴스턴 다이나모","away":"스포르팅 캔자스시티","score":"1-0"}]'
+summary: "스포르팅 캔자스시티는 리그순위 15위로 처져 있지만 최근에는 홈에서 다시 버티는 장면을 만들고 있고, 휴스턴 다이나모는 리그순위 5위의 상위 전력을 유지하면서도 최근 흐름은 다소 둔화된 모습입니다. 수치만 놓고 보면 휴스턴 다이나모가 시즌 전체 전력에서 앞서지만, 스포르팅 캔자스시티는 홈에서의 응집력과 상대전적에서의 접전 경험이 있어 쉽게 무너지지 않을 가능성이 있습니다. 그래도 공격 효율과 전체 득실 균형에서는 휴스턴 다이나모 쪽이 한 단계 안정적이어서, 경기 전체 그림은 원정팀이 조금 더 우위를 점하는 방향으로 보는 편이 자연스럽습니다."
+homeRecent: '[{"date":"26.07.26","home":"LA FC","away":"스포르팅 캔자스시티","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490358-2026-07-26-los-angeles-fc/"},{"date":"26.07.23","home":"스포르팅 캔자스시티","away":"미네소타 유나이티드","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490339-2026-07-23-sporting-kansas-city/"},{"date":"26.07.17","home":"세인트루이스 시티","away":"스포르팅 캔자스시티","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490327-2026-07-17-st-louis-city/"},{"date":"26.05.24","home":"스포르팅 캔자스시티","away":"뉴욕 레드불스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490316-2026-05-24-sporting-kansas-city/"},{"date":"26.05.17","home":"오스틴 FC","away":"스포르팅 캔자스시티","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490303-2026-05-17-austin/"}]'
+awayRecent: '[{"date":"26.07.26","home":"휴스턴 다이나모","away":"오스틴 FC","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490355-2026-07-26-houston-dynamo/"},{"date":"26.07.23","home":"휴스턴 다이나모","away":"DC 유나이티드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490340-2026-07-23-houston-dynamo/"},{"date":"26.07.16","home":"휴스턴 다이나모","away":"아메리카 데 칼리","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1548853-2026-07-16-houston-dynamo/"},{"date":"26.07.12","home":"휴스턴 다이나모","away":"올림피아","score":"3-0","result":"🟢승"},{"date":"26.05.24","home":"LA 갤럭시","away":"휴스턴 다이나모","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490321-2026-05-24-los-angeles-galaxy/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "스포르팅 캔자스시티"
+pickWinResult: "승"
+pickHandicapTeam: "스포르팅 캔자스시티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

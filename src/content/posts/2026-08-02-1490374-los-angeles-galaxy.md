@@ -1,0 +1,31 @@
+---
+title: "LA 갤럭시 vs FC 댈러스 경기분석·승부예측·라인업·결장자·추천픽 (8월 2일) | MLS - 픽천국"
+date: 2026-08-02T02:30:00+00:00
+description: "LA 갤럭시 vs FC 댈러스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1490374-2026-08-02-los-angeles-galaxy"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "LA 갤럭시"
+awayTeam: "FC 댈러스"
+homeLogo: "https://media.api-sports.io/football/teams/1605.png"
+awayLogo: "https://media.api-sports.io/football/teams/1597.png"
+homeAnalysis: "LA 갤럭시는 2026시즌 전체 DB 기준으로 최근 8경기 3승 3무 2패, 평균 득점 1.1을 기록하고 있어 공격 전개가 완전히 무너지지는 않았지만 마무리에서 기복이 보입니다. 최근에는 홈에서 실점이 늘어나는 장면이 있었고, 강한 압박을 받는 경기에서는 전방 연결이 끊기는 모습도 확인됩니다. 다만 홈 경기에서는 경기 운영을 비교적 안정적으로 가져가며, 짧은 시간에 흐름을 바꾸는 장면도 종종 만들어내고 있습니다. 공격 쪽에서는 개별 마무리보다 측면 전개와 세컨드 볼 대응이 중요하게 작용하는 편입니다. 핵심 자원인 리키 푸이그와 에리크 토미, 조앙 클라우스의 공백은 전개와 결정력 모두에 부담으로 이어질 가능성이 높아 보입니다."
+awayAnalysis: "FC 댈러스는 2026시즌 전체 DB 기준으로 최근 6경기 3승 1무 2패, 평균 득점 1.8을 기록하며 전방 생산성이 홈팀보다 더 살아 있는 흐름입니다. 최근 원정 경기에서도 꾸준히 득점을 만들고 있어, 초반부터 라인을 올려 상대 수비를 흔드는 전개가 기대됩니다. 수비에서는 실점 자체가 완전히 적지는 않지만, 공격에서 먼저 우위를 잡아 경기 주도권을 끌어오는 방식이 잘 맞아 보입니다. 특히 역습 전환과 빠른 마무리에서 강점이 드러나며, 상대가 간격을 벌리면 더 위협적인 장면을 만들 가능성이 있습니다. 다만 라미로의 결장은 중원과 수비 밸런스에 작은 구멍을 만들 수 있어, 이 부분은 신경 써야 할 지점입니다."
+homePower: "리키 푸이그 공백으로 중원 창조성 저하가 뚜렷함|에리크 토미 부재로 측면 전개 폭이 좁아짐|조앙 클라우스 이탈로 박스 안 마무리 약화 보임|홈에서는 버티는 힘은 있으나 실점 억제 흔들림|공격보다 세트 전개와 전환 대응이 핵심 변수임"
+awayPower: "최근 원정에서도 득점 생산이 안정적으로 이어짐|빠른 전환으로 상대 수비 정렬 전 약점 공략 가능함|실점이 있어도 공격 화력으로 상쇄하는 구조임|라미로 결장에도 전방 압박 강도는 유지될 가능성 큼|맞대결에서 우세 흐름을 이어온 상성 강점 확인됨"
+h2h: '[{"date":"26.04.19","home":"FC 댈러스","away":"LA 갤럭시","score":"2-2"},{"date":"25.10.12","home":"FC 댈러스","away":"LA 갤럭시","score":"2-1"},{"date":"25.10.05","home":"FC 댈러스","away":"LA 갤럭시","score":"2-1"},{"date":"24.07.14","home":"FC 댈러스","away":"LA 갤럭시","score":"2-0"},{"date":"24.05.30","home":"FC 댈러스","away":"LA 갤럭시","score":"3-1"}]'
+summary: "LA 갤럭시는 최근 전력 흐름이 완전히 나쁘지는 않지만, 시즌 평균 득점과 최근 경기 내용이 들쭉날쭉해 안정감에서는 아쉬움이 있습니다. 반면 FC 댈러스는 더 높은 득점 생산력을 바탕으로 경기 초반부터 주도권을 잡는 장면이 많고, 상대전적에서도 꾸준히 우위를 보여 왔습니다. 특히 이번 경기는 LA 갤럭시의 핵심 자원 이탈이 전개와 마무리 모두에 영향을 줄 수 있어, FC 댈러스가 전력상 한 발 앞선 흐름을 이어갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.07.26","home":"산호세 어스퀘이크스","away":"LA 갤럭시","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490359-2026-07-26-san-jose-earthquakes/"},{"date":"26.07.23","home":"LA 갤럭시","away":"세인트루이스 시티","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490343-2026-07-23-los-angeles-galaxy/"},{"date":"26.07.18","home":"LA 갤럭시","away":"LA FC","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490330-2026-07-18-los-angeles-galaxy/"},{"date":"26.07.12","home":"LA 갤럭시","away":"클럽 아메리카","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554920-2026-07-12-los-angeles-galaxy/"},{"date":"26.05.24","home":"LA 갤럭시","away":"휴스턴 다이나모","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490321-2026-05-24-los-angeles-galaxy/"}]'
+awayRecent: '[{"date":"26.07.26","home":"샌디에이고 FC","away":"FC 댈러스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1490357-2026-07-26-san-diego/"},{"date":"26.07.23","home":"포틀랜드 팀버스","away":"FC 댈러스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1490345-2026-07-23-portland-timbers/"},{"date":"26.05.24","home":"콜로라도 래피즈","away":"FC 댈러스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490319-2026-05-24-colorado-rapids/"},{"date":"26.05.17","home":"산호세 어스퀘이크스","away":"FC 댈러스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1490307-2026-05-17-san-jose-earthquakes/"},{"date":"26.05.14","home":"FC 댈러스","away":"밴쿠버 화이트캡스","score":"2-3","result":"🔴패"}]'
+injuryHome: "Erik Thommy (발 부상)|Riqui Puig (무릎 부상)|João Klauss (발 부상)"
+injuryAway: "Ramiro (충돌 부상)"
+pickWinTeam: "FC 댈러스"
+pickWinResult: "승"
+pickHandicapTeam: "FC 댈러스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

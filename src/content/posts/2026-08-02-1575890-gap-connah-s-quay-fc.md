@@ -1,0 +1,31 @@
+---
+title: "코나스 퀘이 vs 케르나폰 타운 경기분석·승부예측·라인업·결장자·추천픽 (8월 2일) | 프리미어리그 - 픽천국"
+date: 2026-08-02T13:30:00+00:00
+description: "코나스 퀘이 vs 케르나폰 타운 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1575890-2026-08-02-gap-connah-s-quay-fc"
+category: "soccer"
+country: "웨일스"
+league: "프리미어리그"
+homeTeam: "코나스 퀘이"
+awayTeam: "케르나폰 타운"
+homeLogo: "https://media.api-sports.io/football/teams/357.png"
+awayLogo: "https://media.api-sports.io/football/teams/356.png"
+homeAnalysis: "코나스 퀘이는 2026시즌 최근 3경기에서 1승 1무 1패, 평균 득점 1.0으로 나타나며 전반적으로 안정과 기복이 함께 보이는 흐름입니다. 발카니 원정에서는 2실점하며 패했지만, 홈에서는 무실점 무승부를 지켜 수비 조직력은 어느 정도 유지하고 있습니다. 퀸 오브 더 사우스 원정에서 1득점 승리를 거둔 점을 보면, 상대 압박이 과하지 않을 때는 효율적으로 경기를 풀어갈 수 있습니다. 다만 득점 생산이 폭발적이지는 않아서 한 골 차 승부에서 공격 마무리가 중요하게 작용하는 팀으로 보입니다. 홈에서 수비 균형을 바탕으로 버티는 힘은 있으나, 경기 흐름을 확실히 가져가려면 전방의 결정력이 더 살아나야 할 것으로 보입니다."
+awayAnalysis: "케르나폰 타운은 2026시즌 최근 3경기에서 1승 2패, 평균 득점 0.7로 나오며 최근 전력 흐름이 다소 흔들리고 있습니다. 글렌토런 원정 승리는 인상적이었지만, 탈린나 FCI 레바디아전 두 경기에서 연속으로 크게 무너진 점이 부담스럽습니다. 특히 최근 경기들에서는 실점 억제보다 공격 전개의 연결이 더 큰 과제로 보이며, 원정에서는 흐름이 쉽게 끊기는 모습이 확인됩니다. 그럼에도 한 번 리듬을 타면 원정에서도 득점 가능성은 남아 있어, 초반 주도권을 잡는 장면이 중요합니다. 전반적인 안정감은 아쉬우나, 상대 수비가 흔들리는 구간을 빠르게 파고들면 승부를 바꿀 여지는 있습니다."
+homePower: "홈 수비 응집력은 유지되는 흐름임|득점은 많지 않지만 실점 억제로 버팀|홈 경기에서 경기 관리 능력 보임|한 골 승부로 끌고 갈 가능성 있음|결정력만 받쳐주면 이변 가능성 있음"
+awayPower: "원정 득점 기복이 승부 변수로 작용함|강팀 상대로 수비 붕괴 위험 드러남|빠른 역습 성공 시 위협도는 살아있음|원정 첫 흐름 장악이 관건임|경기 초반 집중력에 따라 결과 폭 큼"
+h2h: '[]'
+summary: "코나스 퀘이는 시즌 전체 흐름에서 수비 균형을 먼저 세우는 팀으로 보이며, 케르나폰 타운은 최근 경기 내용의 흔들림이 더 크게 드러나고 있습니다. 득점 흐름만 놓고 봐도 코나스 퀘이가 조금 더 안정적이고, 케르나폰 타운은 원정에서 실점 부담이 커지는 장면이 이어지고 있습니다. 따라서 경기 전체 그림은 코나스 퀘이가 버티는 힘을 앞세워 저항하겠지만, 전력의 완성도와 최근 흐름에서는 케르나폰 타운이 한 발 앞설 가능성이 높습니다."
+homeRecent: '[{"date":"26.07.17","home":"발카니","away":"코나스 퀘이","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1554419-2026-07-17-ballkani/"},{"date":"26.07.09","home":"코나스 퀘이","away":"발카니","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554393-2026-07-09-gap-connah-s-quay-fc/"},{"date":"26.06.27","home":"퀸 오브 더 사우스","away":"코나스 퀘이","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1547884-2026-06-27-queen-of-the-south/"}]'
+awayRecent: '[{"date":"26.07.17","home":"탈린나 FCI 레바디아","away":"케르나폰 타운","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1554426-2026-07-17-fc-levadia-tallinn/"},{"date":"26.07.10","home":"케르나폰 타운","away":"탈린나 FCI 레바디아","score":"0-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1554392-2026-07-10-caernarfon-town/"},{"date":"26.06.21","home":"글렌토런","away":"케르나폰 타운","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546584-2026-06-21-glentoran/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+pickWinTeam: "케르나폰 타운"
+pickWinResult: "승"
+pickHandicapTeam: "케르나폰 타운"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
