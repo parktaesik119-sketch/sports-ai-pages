@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 Y. Yamamoto (11-6, 2.72) ERA 2.72|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
+homeLineup: "[\"선발투수 Y. Yamamoto (11-6, 2.72) ERA 2.72|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\",\"1번 S. Ohtani (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\",\"2번 A. Pages (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42468.png\",\"3번 T. Edman (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39907.png\",\"4번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"5번 E. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31358.png\",\"6번 T. Hernandez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"7번 M. Muncy (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33303.png\",\"8번 M. Rojas (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/30791.png\",\"9번 D. Rushing (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4619839.png\"]"
 awayLineup: "[\"선발투수 P. Tolle (6-6, 3.32) ERA 3.32|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
 ---
