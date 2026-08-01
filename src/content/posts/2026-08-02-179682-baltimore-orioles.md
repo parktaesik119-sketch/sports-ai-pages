@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 S. Baz (4-9, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+homeLineup: "[\"선발투수 S. Baz (4-9, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\",\"1번 C. Mayo (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4683371.png\",\"2번 T. Ward (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/34923.png\",\"3번 G. Henderson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42507.png\",\"4번 P. Alonso (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/37498.png\",\"5번 T. O'Neill (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34168.png\",\"6번 C. Encarnacion-Strand (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5012106.png\",\"7번 L. Taveras (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/34951.png\",\"8번 J. Holliday (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080633.png\",\"9번 J. Rogers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39900.png\"]"
 awayLineup: "[\"선발투수 C. Sanchez (13-4, 2.73) ERA 2.73|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
 ---
