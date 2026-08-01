@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 K. Gausman (4-10, 4.51) ERA 4.51|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
+homeLineup: "[\"선발투수 K. Gausman (4-10, 4.51) ERA 4.51|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\",\"1번 L. Urias (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/35383.png\",\"2번 V. Guerrero Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35002.png\",\"3번 K. Okamoto (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5134636.png\",\"4번 G. Springer (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32078.png\",\"5번 A. Kirk (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42081.png\",\"6번 D. Varsho (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40963.png\",\"7번 E. Clement (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41287.png\",\"8번 M. Straw (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/39105.png\",\"9번 D. Schneider (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4997181.png\"]"
 awayLineup: "[\"선발투수 Q. Mathews|https://a.espncdn.com/i/headshots/mlb/players/full/4837405.png\"]"
 ---
