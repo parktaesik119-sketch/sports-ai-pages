@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "7.5"
 pickOuDirection: "오버"
+homeLineup: "[\"선발투수 Tatsuki Koja (1-6, 4.10)|https://p.npb.jp/players_photo/2026/180/e/017_21725159.jpg\"]"
+awayLineup: "[\"선발투수 Yugo Maeda (8-0, 1.41)|https://p.npb.jp/players_photo/2026/180/h/041_13115159.jpg\"]"
 ---
