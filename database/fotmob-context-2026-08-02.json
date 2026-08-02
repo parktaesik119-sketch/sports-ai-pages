@@ -10774,11 +10774,6 @@
           "name": "Juan Mosquera",
           "status": "발 부상",
           "detail": "Mid August 2026"
-        },
-        {
-          "name": "Omir Fernandez",
-          "status": "발 부상",
-          "detail": "Early August 2026"
         }
       ],
       "away": [
@@ -10786,11 +10781,6 @@
           "name": "Jackson Ragen",
           "status": "부상",
           "detail": "Early August 2026"
-        },
-        {
-          "name": "Ryan Sailor",
-          "status": "무릎 부상",
-          "detail": "Late September 2026"
         },
         {
           "name": "Yeimar Gómez",
@@ -10801,16 +10791,6 @@
           "name": "Jordan Morris",
           "status": "근육 부상",
           "detail": "Mid August 2026"
-        },
-        {
-          "name": "Alex Roldan",
-          "status": "부상",
-          "detail": "Late August 2026"
-        },
-        {
-          "name": "Kee-Hee Kim",
-          "status": "햄스트링 부상",
-          "detail": "Late August 2026"
         },
         {
           "name": "Cristian Roldan",
@@ -13171,9 +13151,59 @@
           "name": "Leon Schaffran",
           "status": "부상",
           "detail": "Early August 2026"
+        },
+        {
+          "name": "Stephan Seiler",
+          "status": "부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Tim-Tiado Öhri",
+          "status": "충돌 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Lado Akhalaia",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
         }
       ],
       "away": [
+        {
+          "name": "Lawrence Ati Zigi",
+          "status": "부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Nevio Scherrer",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Cyrill May",
+          "status": "충돌 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Colin Kleine-Bekel",
+          "status": "부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Malamine Efekele",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Stephan Ambrosius",
+          "status": "충돌 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Tom Gaal",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
         {
           "name": "Nino Weibel",
           "status": "무릎 부상",
@@ -14710,16 +14740,32 @@
     "date": "2026-08-02T14:30:00+00:00",
     "league": "Super League",
     "injuries": {
-      "home": [],
-      "away": [
+      "home": [
         {
-          "name": "Daniel Dos Santos",
-          "status": "충돌 부상",
-          "detail": "Unknown"
+          "name": "Young-jun Lee",
+          "status": "부상",
+          "detail": "Early August 2026"
         },
+        {
+          "name": "Abdoulaye Diaby",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Saulo Decarli",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        }
+      ],
+      "away": [
         {
           "name": "Martim Marques",
           "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Daniel Dos Santos",
+          "status": "충돌 부상",
           "detail": "Unknown"
         },
         {
@@ -15061,12 +15107,22 @@
     "injuries": {
       "home": [
         {
+          "name": "Benjamin Kololli",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
           "name": "Kreshnik Hajrizi",
           "status": "근육 부상",
           "detail": "Late September 2026"
         }
       ],
       "away": [
+        {
+          "name": "Levin Winkler",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
         {
           "name": "Demir Xhemalija",
           "status": "근육 부상",
@@ -15596,8 +15652,20 @@
     "date": "2026-08-02T15:00:00+00:00",
     "league": "Bundesliga",
     "injuries": {
-      "home": [],
-      "away": []
+      "home": [
+        {
+          "name": "Haris Ismailcebioglu",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": [
+        {
+          "name": "Philipp Pomer",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        }
+      ]
     },
     "h2h": [
       {
