@@ -50,6 +50,9 @@ jobs:
       - name: Run NPB lineup update script
         run: node scripts/npb-lineup-update.js
 
+      - name: Run NPB photo update
+        run: node scripts/npb-photo-update.js
+
       - name: Run KBL lineup update script
         run: node scripts/kbl-lineup-update.js
 
