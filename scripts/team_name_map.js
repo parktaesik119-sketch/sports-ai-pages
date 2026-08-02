@@ -54,6 +54,7 @@ const TEAM_NAME_MAP = {
   "1. FC Köln": "쾰른",
   "1899 Hoffenheim": "호펜하임",
   "Austria Vienna": "아우스트리아 빈",
+  "Austria Lustenau": "SC 오스트리아 루스테나우",
   "Bayer Leverkusen": "바이어 레버쿠젠",
   "Bayern München": "바이에른 뮌헨",
   "Borussia Dortmund": "보루시아 도르트문트",
