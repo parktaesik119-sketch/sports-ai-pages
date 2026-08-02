@@ -28,4 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
+homeLineup: "[\"선발투수 A. Nola (3-9, 5.61) ERA 5.61|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
+awayLineup: "[\"선발투수 Z. Littell (7-8, 4.94) ERA 4.94|https://a.espncdn.com/i/headshots/mlb/players/full/36052.png\"]"
 ---
