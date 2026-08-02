@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "9.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 K. Bradish (7-9, 3.74) ERA 3.74|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
+homeLineup: "[\"선발투수 K. Bradish (7-9, 3.74) ERA 3.74|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\",\"1번 D. Beavers (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4959037.png\",\"2번 P. Alonso (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/37498.png\",\"3번 G. Henderson (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42507.png\",\"4번 T. Ward (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/34923.png\",\"5번 J. Holliday (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080633.png\",\"6번 C. Encarnacion-Strand (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5012106.png\",\"7번 L. Taveras (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34951.png\",\"8번 C. Cowser (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4416990.png\",\"9번 J. Rogers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39900.png\"]"
 awayLineup: "[\"선발투수 Z. Wheeler (10-2, 2.53) ERA 2.53|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
 ---
