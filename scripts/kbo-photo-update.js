@@ -15,13 +15,20 @@
 //   https://sports-phinf.pstatic.net/player/kbo/default/{playerCode}.png?type=w150
 //
 // 네이버 프리뷰 API:
-//   GET https://api-gw.sports.naver.com/schedule/games/{gameId}/preview
+//   GET https://api-gw.sports.naver.com/schedule/games/{naverGameId}/preview
+//   naverGameId = (KBO 공식 gameId) + (연도 4자리)  예: 20260802LGOB0 + 2026 → 20260802LGOB02026
 //   응답 → result.previewData.homeTeamLineUp.fullLineUp / awayTeamLineUp.fullLineUp
 //   fullLineUp의 각 항목: { playerName, playerCode, batorder, positionName, ... }
 //   (선발투수 항목은 batorder가 없음 — 타자만 batorder 있는 항목으로 구분)
 //
 // gameId는 kbo-lineup-update.js와 동일하게 findKboGame()이 반환하는 matched.gameId를
-// 그대로 재사용한다(KBO 공식 stats gameId와 네이버 gameId 포맷이 동일함, 실사용 확인).
+// 기반으로 만들되, 네이버 preview 엔드포인트는 KBO 공식 gameId 뒤에 "연도(4자리)"가
+// 그대로 덧붙는 형식을 쓴다(실사용 확인, 2026-08 기준).
+//   KBO 공식 gameId : 20260802LGOB0   (YYYYMMDD + 원정팀코드 + 홈팀코드 + 경기번호)
+//   네이버 preview   : 20260802LGOB02026   (위 값 + 연도 4자리)
+// → naverGameId = matched.gameId + dateStr.slice(0, 4) 로 변환해서 호출한다.
+// (참고: NPB 등 해외야구는 gameId 규칙 자체가 달라서 이 변환이 적용되지 않는다.
+//  이 스크립트는 league === 'KBO'만 처리하므로 무관함.)
 
 import fs from 'fs';
 import path from 'path';
@@ -262,11 +269,15 @@ async function main() {
       continue;
     }
 
+    // KBO 공식 gameId 뒤에 연도(4자리)를 붙여야 네이버 preview API가 인식한다.
+    const naverGameId = matched.gameId + dateStr.slice(0, 4);
+    console.log(`   🔗 네이버 gameId: ${naverGameId} (KBO: ${matched.gameId})`);
+
     let previewData;
     try {
-      previewData = await fetchNaverPreview(matched.gameId);
+      previewData = await fetchNaverPreview(naverGameId);
     } catch (err) {
-      console.error(`   ❌ 네이버 프리뷰 조회 실패 (${matched.gameId}):`, err.message);
+      console.error(`   ❌ 네이버 프리뷰 조회 실패 (${naverGameId}):`, err.message);
       skipCount++;
       continue;
     }
