@@ -75,9 +75,9 @@ function getModifiedMdFiles(beforeHash) {
 }
 
 // 알림 대상에서 제외할 frontmatter 필드.
-// espn-boxscore-update.js가 최근전적/상대전적을 갱신하는 것만으로도
+// espn-boxscore-update.js가 최근전적/상대전적/부상·결장자 정보를 갱신하는 것만으로도
 // 파일이 "수정됨"으로 잡히는데, 이건 라인업 업데이트가 아니므로 알림 트리거에서 제외한다.
-const IGNORED_FIELDS = new Set(['h2h', 'homeRecent', 'awayRecent']);
+const IGNORED_FIELDS = new Set(['h2h', 'homeRecent', 'awayRecent', 'injuryHome', 'injuryAway']);
 
 // 해당 파일의 diff에서 실제로 바뀐 frontmatter 필드 이름들을 뽑아온다.
 // (+/- 로 시작하는 "필드명: 값" 형태의 라인만 매칭)
