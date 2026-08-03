@@ -1342,6 +1342,34 @@ const fotmobHomeInjuryText = fotmobInfo ? formatInjuries(fotmobInfo.injuries?.ho
 const fotmobAwayInjuryText = fotmobInfo ? formatInjuries(fotmobInfo.injuries?.away) : null;
 const hasFotmobInjuryData = !!(fotmobHomeInjuryText || fotmobAwayInjuryText);
 
+// fotmob 라인업/포메이션/감독 (축구 전용). 킥오프 2~3일 전부터도 미리 나오는 경우가
+// 많아서(실사용 확인, 2026-07) 글 작성 시점에 이미 있으면 활용한다.
+// ⚠️ 구조화 필드(homeLineup/homeFormation/homeCoach)는 AI가 아니라 이 데이터를
+// 그대로 frontmatter에 박아넣는다 — AI가 선수명을 잘못 옮기거나 지어내는 걸 막기 위함.
+// 프롬프트에는 "참고용 텍스트"로만 넣어서 분석 내용을 더 구체적으로 쓰도록 유도한다.
+function formatFotmobLineupTextForPrompt(players, formation, coach) {
+  if (!players || players.length === 0) return null;
+  const names = players.map(p => p.split('|')[0].trim()).join(', ');
+  const formationText = formation ? `(예상 포메이션 ${formation})` : '';
+  const coachText = coach ? `감독 ${coach}. ` : '';
+  return `${coachText}${formationText} 예상 선발: ${names}`;
+}
+const fotmobHomeLineupText = fotmobInfo?.lineup
+  ? formatFotmobLineupTextForPrompt(fotmobInfo.lineup.home, fotmobInfo.formation?.home, fotmobInfo.coach?.home)
+  : null;
+const fotmobAwayLineupText = fotmobInfo?.lineup
+  ? formatFotmobLineupTextForPrompt(fotmobInfo.lineup.away, fotmobInfo.formation?.away, fotmobInfo.coach?.away)
+  : null;
+const hasFotmobLineupData = !!(fotmobHomeLineupText || fotmobAwayLineupText);
+
+// frontmatter에 직접 써넣을 구조화 값 (AI 프롬프트와 무관, 데이터 그대로)
+const fotmobHomeLineupJson = fotmobInfo?.lineup?.home?.length ? JSON.stringify(fotmobInfo.lineup.home) : '';
+const fotmobAwayLineupJson = fotmobInfo?.lineup?.away?.length ? JSON.stringify(fotmobInfo.lineup.away) : '';
+const fotmobHomeFormationVal = fotmobInfo?.formation?.home || '';
+const fotmobAwayFormationVal = fotmobInfo?.formation?.away || '';
+const fotmobHomeCoachVal = fotmobInfo?.coach?.home || '';
+const fotmobAwayCoachVal = fotmobInfo?.coach?.away || '';
+
 // ─────────────────────────────────────────────
 // KBO 전용 데이터 포맷 (fetch-kbo-context.js가 수집한 선발투수분석/구종분석/라인업)
 // ESPN이 KBO를 커버하지 않으므로 별도 데이터 블록으로 구성한다.
@@ -1396,8 +1424,8 @@ const searchOrEspnInstruction = hasEspnAnyData
   ? `아래 [KBO 공식 데이터]를 선발투수/구종/라인업/순위/결장자 정보의 근거로 그대로 사용하라. 이 경기는 KBO 공식 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [KBO 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
   : hasNpbData
   ? `아래 [NPB 공식 데이터]의 예고선발투수 정보를 그대로 사용하라. 이 경기는 NPB 공식 예고선발 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. 단, NPB 데이터는 선발투수 이름만 제공하므로 결장자/부상자 정보(INJURY_HOME/INJURY_AWAY)와 선발투수의 상세 기록(ERA 등)은 web_search로 "${match.home} ${match.away} starting pitcher injury 2026"를 검색해서 보강하라.`
-  : hasFotmobInjuryData
-  ? `아래 [fotmob 데이터]를 결장자 정보의 근거로 그대로 사용하라. INJURY_HOME/INJURY_AWAY는 반드시 [fotmob 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라. 단, fotmob 데이터는 결장자 정보만 제공하므로 그 외 정보(순위, 최근 이슈 등)가 분석에 필요하면 web_search로 "${match.home} ${match.away} 2026" 등을 검색해서 보강해도 된다.`
+  : (hasFotmobInjuryData || hasFotmobLineupData)
+  ? `아래 [fotmob 데이터]를 결장자/예상 라인업 정보의 근거로 그대로 사용하라. INJURY_HOME/INJURY_AWAY는 반드시 [fotmob 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라. 단, fotmob 데이터는 결장자/라인업 정보만 제공하므로 그 외 정보(순위, 최근 이슈 등)가 분석에 필요하면 web_search로 "${match.home} ${match.away} 2026" 등을 검색해서 보강해도 된다.`
   : `지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.\n\n검색 1: "${match.home} ${match.away} injury report 2026"\n\n검색 완료 후 아래 정보를 참고하여 분석을 작성하라.`;
 
 // 월드컵/올림픽 등 조별리그 방식 대회는 ESPN standings의 rank가 "전체 리그 순위"가 아니라
@@ -1449,14 +1477,18 @@ const npbDataBlock = hasNpbData ? `
 - 예고선발은 부상 등 예외 상황이 아니면 변경되지 않으므로, 신뢰도 높은 정보로 취급해 분석 본문에 단정적으로 서술하라.
 ` : '';
 
-const fotmobDataBlock = hasFotmobInjuryData ? `
-[fotmob 데이터 - 결장자. ESPN 미커버 리그를 보강하는 1차 데이터이므로 우선 사용하라]
+const fotmobDataBlock = (hasFotmobInjuryData || hasFotmobLineupData) ? `
+[fotmob 데이터 - 결장자/예상 라인업. ESPN 미커버 리그를 보강하는 1차 데이터이므로 우선 사용하라]
 - 홈팀(${aiHomeName}) 결장자: ${fotmobHomeInjuryText || '없음'}
 - 원정팀(${aiAwayName}) 결장자: ${fotmobAwayInjuryText || '없음'}
+${hasFotmobLineupData ? `- 홈팀(${aiHomeName}) 예상 라인업: ${fotmobHomeLineupText || '정보 없음'}
+- 원정팀(${aiAwayName}) 예상 라인업: ${fotmobAwayLineupText || '정보 없음'}` : ''}
 
 [fotmob 데이터 활용 가이드]
 - 결장자 이름 옆 [주요] 태그가 있으면 전력분석에서 비중 있게 다루되, 태그 표기 자체는 분석 본문에 노출하지 마라.
-- fotmob은 결장자 외 정보(순위, 폼 등)는 제공하지 않으므로, 필요하면 web_search로 추가 보강하라.
+${hasFotmobLineupData ? `- 예상 라인업이 있으면 실제 선발 가능성이 높은 핵심 선수 이름을 분석 본문(homeAnalysis/awayAnalysis, homePower/awayPower)에 구체적으로 언급해서 분석을 더 풍성하게 써라. 예: "구자욱-최형우 중심 타선"처럼 특정 선수명+역할을 엮어서 서술하라. 다만 이 라인업은 아직 "예상"일 수 있으므로("경기 직전 변경될 수 있다" 같은 문구는 굳이 넣지 말고) 확정된 것처럼 단정적으로 서술하되, 라인업 자체를 목록으로 나열하지는 마라(그건 별도 필드로 이미 관리됨).
+- 감독명이 있으면 필요시 자연스럽게 언급해도 좋다(예: "OOO 감독 체제에서").` : ''}
+- fotmob은 이 두 가지 외 정보(순위 등)는 제공하지 않으므로, 필요하면 web_search로 추가 보강하라.
 ` : '';
 
 
@@ -1995,7 +2027,7 @@ const winnerIsHome = homeNames.some(n =>
     "EUROPEAN LEAGUE WOMEN": "유럽", "EUROPEAN LEAGUE": "유럽",
     "WORLD CUP - WOMEN - QUALIFICATION EUROPE": "국제",
     "FRIENDLIES": "국제", "ASEAN CHAMPIONSHIP": "국제",
-    "LPL": "중국", "KESPA CUP": "대한민국"
+    "LPL": "중국",
   };
   const upperLeagueName = (match.league || "").toUpperCase();
   let country = leagueCountryOverrides[upperLeagueName]
@@ -2009,7 +2041,7 @@ const winnerIsHome = homeNames.some(n =>
   const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;
   const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName;
   const extractedDesc = `${descHomeName} vs ${descAwayName} 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요.`;
-  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석·승부예측·라인업·결장자·추천픽 (${displayDate}) | ${leagueName} - 픽천국`;
+  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석·라인업·결장자·통계·승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
   const safeHomeNameForSlug = getSafeLogoName(match.home);
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
@@ -2063,6 +2095,12 @@ homeRecent: '${homeRecentJson.replace(/'/g, "\u2019")}'
 awayRecent: '${awayRecentJson.replace(/'/g, "\u2019")}'
 injuryHome: "${injuryHome.replace(/"/g, "'")}"
 injuryAway: "${injuryAway.replace(/"/g, "'")}"
+homeLineup: '${fotmobHomeLineupJson.replace(/'/g, "\u2019")}'
+awayLineup: '${fotmobAwayLineupJson.replace(/'/g, "\u2019")}'
+homeFormation: "${fotmobHomeFormationVal}"
+awayFormation: "${fotmobAwayFormationVal}"
+homeCoach: "${fotmobHomeCoachVal.replace(/"/g, "'")}"
+awayCoach: "${fotmobAwayCoachVal.replace(/"/g, "'")}"
 pickWinTeam: "${finalPickWinTeamKor}"
 pickWinResult: "${finalPickWinResult}"
 pickHandicapTeam: "${finalPickHandicapTeamKor}"

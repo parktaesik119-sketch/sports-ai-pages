@@ -170,6 +170,11 @@ export function formatFotmobLineup(teamLineup) {
   });
 }
 
+// lineup.{home,away}Team.coach.name → 감독명 (실사용 데이터로 구조 확인, 2026-07)
+export function extractFotmobCoach(teamLineup) {
+  return teamLineup?.coach?.name || null;
+}
+
 export function toDisplayDateStr(utcTimeLike) {
   const d = new Date(utcTimeLike);
   if (Number.isNaN(d.getTime())) return '';

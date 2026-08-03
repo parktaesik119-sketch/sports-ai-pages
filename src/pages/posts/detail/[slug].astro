@@ -184,6 +184,10 @@ const homeFormation = homePitchView.formation || item.data.homeFormation?.trim()
 const awayFormation = awayPitchView.formation || item.data.awayFormation?.trim() || '';
 const hasFormation  = !!(homeFormation && awayFormation && homeLineupItems.length > 0 && awayLineupItems.length > 0);
 
+// 감독
+const homeCoach = item.data.homeCoach?.trim() || '';
+const awayCoach = item.data.awayCoach?.trim() || '';
+
 const W_SVG = 700, H_SVG = 360;
 function calcPos(formation: string, side: 'home' | 'away') {
   const lines = formation.split('-').map(Number).filter((n: number) => !isNaN(n) && n > 0);
@@ -453,6 +457,20 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
             <tspan fill="rgba(255,255,255,0.8)"> {translateTeam(awayTeam)}</tspan>
           </text>
         </svg>
+      </div>
+    </div>
+  )}
+
+  <!-- 감독 -->
+  {(homeCoach || awayCoach) && (
+    <div style="display:flex;align-items:center;justify-content:space-around;background:#fff;border-top:1px solid #e9ecef;padding:14px 16px;flex-wrap:wrap;gap:8px;">
+      <div style="display:flex;align-items:center;gap:8px;">
+        <span style="font-size:0.8rem;color:#868e96;">감독</span>
+        <span style="font-weight:700;font-size:0.9rem;color:#1a1a2e;">{homeCoach || '-'}</span>
+      </div>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <span style="font-weight:700;font-size:0.9rem;color:#1a1a2e;">{awayCoach || '-'}</span>
+        <span style="font-size:0.8rem;color:#868e96;">감독</span>
       </div>
     </div>
   )}
