@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.03","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.08.03","home":"뉴욕 메츠","away":"마이애미 말린스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179690-2026-08-03-new-york-mets/"},{"date":"26.08.02","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179675-2026-08-02-new-york-mets/"},{"date":"26.08.01","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179661-2026-08-01-new-york-mets/"},{"date":"26.07.31","home":"뉴욕 메츠","away":"마이애미 말린스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179646-2026-07-31-new-york-mets/"},{"date":"26.07.30","home":"뉴욕 메츠","away":"애틀랜타 브레이브스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179616-2026-07-30-new-york-mets/"}]'
 injuryHome: "Shawn Armstrong (염좌)"
 injuryAway: "Dedniel Nunez (수술)|Justin Hagenman (골절)|Clay Holmes (골절)|Cionel Perez (염좌)|Juan Soto (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Cantillo (8-6, 3.88) ERA 3.88|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\"]"
+awayLineup: "[\"선발투수 S. Manaea (2-5, 4.42) ERA 4.42|https://a.espncdn.com/i/headshots/mlb/players/full/33244.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

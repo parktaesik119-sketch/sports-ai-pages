@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.03","home":"볼티모어 오리올스","away":"필�
 awayRecent: '[{"date":"26.08.03","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179699-2026-08-03-atlanta-braves/"},{"date":"26.08.02","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179683-2026-08-02-atlanta-braves/"},{"date":"26.08.01","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179669-2026-08-01-atlanta-braves/"},{"date":"26.07.31","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179654-2026-07-31-atlanta-braves/"},{"date":"26.07.30","home":"워싱턴 내셔널스","away":"토론토 블루제이즈","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179632-2026-07-30-washington-nationals/"}]'
 injuryHome: "Lou Trivino (경련)|Rafael Marchan (건염)|Tanner Banks (염좌)|Johan Rojas (수술)|Adolis Garcia (수술)"
 injuryAway: "Andres Chaparro (미지정)|Brad Lord (통증)|Drew Millas (골절)|Josiah Gray (염좌)|DJ Herz (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Luzardo (9-5, 3.57) ERA 3.57|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
+awayLineup: "[\"선발투수 Z. Littell (7-8, 4.94) ERA 4.94|https://a.espncdn.com/i/headshots/mlb/players/full/36052.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

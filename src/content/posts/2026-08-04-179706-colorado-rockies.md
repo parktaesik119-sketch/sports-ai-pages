@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자�
 awayRecent: '[{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"},{"date":"26.08.02","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179673-2026-08-02-tampa-bay-rays/"},{"date":"26.08.01","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179658-2026-08-01-tampa-bay-rays/"},{"date":"26.07.31","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179647-2026-07-31-tampa-bay-rays/"},{"date":"26.07.30","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179633-2026-07-30-tampa-bay-rays/"}]'
 injuryHome: "Blas Castano (염좌)|Jaden Hill (건염)|Jeff Criswell (염좌)|McCade Brown (염증)|Jose Quintana (염좌)"
 injuryAway: "Gavin Lux (염증)|Steven Wilson (염증)|Cole Sulser (경련)|Jonathan Heasley (골절)|Jake Fraley (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 G. Hughes (0-3, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

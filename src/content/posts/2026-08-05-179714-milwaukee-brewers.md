@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.03","home":"LA 에인절스","away":"밀워키 브�
 awayRecent: '[{"date":"26.08.03","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"10-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179696-2026-08-03-cincinnati-reds/"},{"date":"26.08.02","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179680-2026-08-02-cincinnati-reds/"},{"date":"26.08.01","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179666-2026-08-01-cincinnati-reds/"},{"date":"26.07.31","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179652-2026-07-31-cincinnati-reds/"},{"date":"26.07.30","home":"피츠버그 파이러츠","away":"애리조나 다이아몬드백스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179637-2026-07-30-pittsburgh-pirates/"}]'
 injuryHome: "Kyle Harrison (통증)|Rob Zastryzny (좌상)|Sal Frelick (좌상)|Joel Kuhnel (건염)|Quinn Priester (수술)"
 injuryAway: "Evan Sisk (염증)|Chris Devenski (기타 미지정)|Oneil Cruz (골절)|Konnor Griffin (좌상)|Ryan O'Hearn (좌상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Henderson (5-1, 2.66) ERA 2.66|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
+awayLineup: "[\"선발투수 J. Jones (2-2, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
