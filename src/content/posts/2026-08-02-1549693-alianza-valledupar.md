@@ -32,4 +32,6 @@ homeLineup: "[\"Johan Wallens (GK)|https://images.fotmob.com/image_resources/pla
 awayLineup: "[\"Miguel Ortega (GK)|https://images.fotmob.com/image_resources/playerimages/797357.png\",\"Jherson Mosquera (DF)|https://images.fotmob.com/image_resources/playerimages/1362307.png\",\"Jan Angulo (DF)|https://images.fotmob.com/image_resources/playerimages/1438665.png\",\"Anderson Angulo (DF)|https://images.fotmob.com/image_resources/playerimages/1106037.png\",\"Junior Hernández (DF)|https://images.fotmob.com/image_resources/playerimages/1200384.png\",\"Jorge Hurtado (MF)|https://images.fotmob.com/image_resources/playerimages/1341010.png\",\"Cristian Trujillo (MF)|https://images.fotmob.com/image_resources/playerimages/1248700.png\",\"Sebastián Guzmán (MF)|https://images.fotmob.com/image_resources/playerimages/1020112.png\",\"Kelvin Flórez (MF)|https://images.fotmob.com/image_resources/playerimages/1634837.png\",\"Ever Valencia (FW)|https://images.fotmob.com/image_resources/playerimages/840964.png\",\"Luis Sandoval (FW)|https://images.fotmob.com/image_resources/playerimages/950571.png\"]"
 homeFormation: "4-1-4-1"
 awayFormation: "4-4-2"
+homeCoach: "Camilo Ayala"
+awayCoach: "Sebastián Oliveros"
 ---

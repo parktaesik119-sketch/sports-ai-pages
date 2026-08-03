@@ -32,4 +32,6 @@ homeLineup: "[\"Hao Li (GK)|https://images.fotmob.com/image_resources/playerimag
 awayLineup: "[\"Pengfei Mu (GK)|https://images.fotmob.com/image_resources/playerimages/258150.png\",\"Zixian Wei (DF)|https://images.fotmob.com/image_resources/playerimages/1907649.png\",\"Yangyang Jin (DF)|https://images.fotmob.com/image_resources/playerimages/558930.png\",\"Nemanja Andjelkovic (DF)|https://images.fotmob.com/image_resources/playerimages/1173766.png\",\"Suda Li (DF)|https://images.fotmob.com/image_resources/playerimages/1529485.png\",\"Cong Yang (MF)|https://images.fotmob.com/image_resources/playerimages/1776393.png\",\"Senwen Luo (MF)|https://images.fotmob.com/image_resources/playerimages/432732.png\",\"Malcom Edjouma (MF)|https://images.fotmob.com/image_resources/playerimages/900576.png\",\"Yonghao Jin (FW)|https://images.fotmob.com/image_resources/playerimages/1661152.png\",\"Wenjie Song (FW)|https://images.fotmob.com/image_resources/playerimages/257679.png\",\"Carlos Strandberg (FW)|https://images.fotmob.com/image_resources/playerimages/455620.png\"]"
 homeFormation: "4-4-1-1"
 awayFormation: "4-4-2"
+homeCoach: "Zhi Zheng"
+awayCoach: "Milan Ristic"
 ---

@@ -32,4 +32,6 @@ homeLineup: "[\"Andre Blake (GK)|https://images.fotmob.com/image_resources/playe
 awayLineup: "[\"Lucas Hoyos (GK)|https://images.fotmob.com/image_resources/playerimages/113620.png\",\"Matthew Edwards (DF)|https://images.fotmob.com/image_resources/playerimages/1170745.png\",\"Stian Gregersen (DF)|https://images.fotmob.com/image_resources/playerimages/462527.png\",\"Júnior Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/466214.png\",\"Elías Báez (DF)|https://images.fotmob.com/image_resources/playerimages/1513339.png\",\"Will Reilly (MF)|https://images.fotmob.com/image_resources/playerimages/1077994.png\",\"Tristan Muyumba (MF)|https://images.fotmob.com/image_resources/playerimages/769928.png\",\"Aleksey Miranchuk (FW)|https://images.fotmob.com/image_resources/playerimages/442581.png\",\"Cooper Sanchez (MF)|https://images.fotmob.com/image_resources/playerimages/1732500.png\",\"Miguel Almirón (FW)|https://images.fotmob.com/image_resources/playerimages/442277.png\",\"Fabrice Picault (FW)|https://images.fotmob.com/image_resources/playerimages/580600.png\"]"
 homeFormation: "4-4-2"
 awayFormation: "4-2-3-1"
+homeCoach: "Ryan Richter"
+awayCoach: "Gerardo Martino"
 ---

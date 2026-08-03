@@ -32,4 +32,6 @@ homeLineup: "[\"Eder Chaux (GK)|https://images.fotmob.com/image_resources/player
 awayLineup: "[\"Pedro Gallese (GK)|https://images.fotmob.com/image_resources/playerimages/116920.png\",\"Keimer Sandoval (DF)|https://images.fotmob.com/image_resources/playerimages/1640741.png\",\"José Caldera (DF)|https://images.fotmob.com/image_resources/playerimages/1302803.png\",\"Fernando Álvarez (DF)|https://images.fotmob.com/image_resources/playerimages/1280284.png\",\"Fabián Viáfara (DF)|https://images.fotmob.com/image_resources/playerimages/630859.png\",\"Kalazan Suárez (DF)|https://images.fotmob.com/image_resources/playerimages/1335180.png\",\"Daniel Giraldo (MF)|https://images.fotmob.com/image_resources/playerimages/282156.png\",\"Gustavo Cuéllar (MF)|https://images.fotmob.com/image_resources/playerimages/207520.png\",\"Steven Rodríguez (MF)|https://images.fotmob.com/image_resources/playerimages/1105327.png\",\"Emanuel Reynoso (FW)|https://images.fotmob.com/image_resources/playerimages/797871.png\",\"Juan Dinenno (FW)|https://images.fotmob.com/image_resources/playerimages/486453.png\"]"
 homeFormation: "4-2-3-1"
 awayFormation: "5-3-2"
+homeCoach: "Luis Perea"
+awayCoach: "Rafael Dudamel"
 ---

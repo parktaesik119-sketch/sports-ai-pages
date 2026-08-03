@@ -32,4 +32,6 @@ homeLineup: "[\"Yohei Takaoka (GK)|https://images.fotmob.com/image_resources/pla
 awayLineup: "[\"Hugo Lloris (GK)|https://images.fotmob.com/image_resources/playerimages/26295.png\",\"Ryan Hollingshead (DF)|https://images.fotmob.com/image_resources/playerimages/525623.png\",\"Ryan Porteous (DF)|https://images.fotmob.com/image_resources/playerimages/770998.png\",\"Aaron Long (DF)|https://images.fotmob.com/image_resources/playerimages/525136.png\",\"Evgen Cheberko (DF)|https://images.fotmob.com/image_resources/playerimages/769349.png\",\"Timothy Tillman (MF)|https://images.fotmob.com/image_resources/playerimages/767793.png\",\"Mathieu Choinière (MF)|https://images.fotmob.com/image_resources/playerimages/943428.png\",\"Marco Delgado (MF)|https://images.fotmob.com/image_resources/playerimages/388536.png\",\"David Martínez (FW)|https://images.fotmob.com/image_resources/playerimages/1354997.png\",\"Heung-Min Son (FW)|https://images.fotmob.com/image_resources/playerimages/212867.png\",\"Denis Bouanga (FW)|https://images.fotmob.com/image_resources/playerimages/664962.png\"]"
 homeFormation: "4-2-3-1"
 awayFormation: "4-3-3"
+homeCoach: "Jesper Sørensen"
+awayCoach: "Marc Dos Santos"
 ---
