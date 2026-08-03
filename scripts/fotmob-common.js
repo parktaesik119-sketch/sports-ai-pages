@@ -171,8 +171,14 @@ export function formatFotmobLineup(teamLineup) {
 }
 
 // lineup.{home,away}Team.coach.name → 감독명 (실사용 데이터로 구조 확인, 2026-07)
+// lineup.{home,away}Team.coach → "이름|사진url" 형식 (라인업 항목과 동일한 표기 규칙).
+// 코치 사진도 선수와 같은 image_resources/playerimages 엔드포인트를 쓰는지는
+// 아직 100% 검증 전이라, 사진이 안 뜨면 URL 패턴 자체를 재확인해야 함.
 export function extractFotmobCoach(teamLineup) {
-  return teamLineup?.coach?.name || null;
+  const coach = teamLineup?.coach;
+  if (!coach?.name) return null;
+  const photo = coach.id ? `https://images.fotmob.com/image_resources/playerimages/${coach.id}.png` : '';
+  return photo ? `${coach.name}|${photo}` : coach.name;
 }
 
 export function toDisplayDateStr(utcTimeLike) {

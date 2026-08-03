@@ -185,8 +185,16 @@ const awayFormation = awayPitchView.formation || item.data.awayFormation?.trim()
 const hasFormation  = !!(homeFormation && awayFormation && homeLineupItems.length > 0 && awayLineupItems.length > 0);
 
 // 감독
-const homeCoach = item.data.homeCoach?.trim() || '';
-const awayCoach = item.data.awayCoach?.trim() || '';
+// 감독: "이름|사진url" 형식 (사진 없으면 이름만 오는 경우도 방어)
+function parseCoach(raw: string): { name: string; photo: string } {
+  if (!raw) return { name: '', photo: '' };
+  const [name, photo] = raw.split('|');
+  return { name: (name || '').trim(), photo: (photo || '').trim() };
+}
+const homeCoachRaw = item.data.homeCoach?.trim() || '';
+const awayCoachRaw = item.data.awayCoach?.trim() || '';
+const homeCoach = parseCoach(homeCoachRaw);
+const awayCoach = parseCoach(awayCoachRaw);
 
 const W_SVG = 700, H_SVG = 360;
 function calcPos(formation: string, side: 'home' | 'away') {
@@ -462,15 +470,26 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
   )}
 
   <!-- 감독 -->
-  {(homeCoach || awayCoach) && (
-    <div style="display:flex;align-items:center;justify-content:space-around;background:#fff;border-top:1px solid #e9ecef;padding:14px 16px;flex-wrap:wrap;gap:8px;">
-      <div style="display:flex;align-items:center;gap:8px;">
-        <span style="font-size:0.8rem;color:#868e96;">감독</span>
-        <span style="font-weight:700;font-size:0.9rem;color:#1a1a2e;">{homeCoach || '-'}</span>
+  {(homeCoach.name || awayCoach.name) && (
+    <div style="display:flex;align-items:center;justify-content:space-between;background:#fff;border-top:1px solid #e9ecef;padding:14px 16px;gap:12px;">
+      <div style="display:flex;align-items:center;gap:8px;flex:1;min-width:0;">
+        {homeCoach.photo && (
+          <img src={homeCoach.photo} alt={homeCoach.name} loading="lazy"
+               style="width:32px;height:32px;border-radius:50%;object-fit:cover;background:#f1f3f5;flex-shrink:0;"
+               onerror="this.style.display='none'" />
+        )}
+        <span style="font-weight:700;font-size:0.9rem;color:#1a1a2e;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">{homeCoach.name || '-'}</span>
       </div>
-      <div style="display:flex;align-items:center;gap:8px;">
-        <span style="font-weight:700;font-size:0.9rem;color:#1a1a2e;">{awayCoach || '-'}</span>
+      <div style="flex:0 0 auto;">
         <span style="font-size:0.8rem;color:#868e96;">감독</span>
+      </div>
+      <div style="display:flex;align-items:center;justify-content:flex-end;gap:8px;flex:1;min-width:0;">
+        <span style="font-weight:700;font-size:0.9rem;color:#1a1a2e;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">{awayCoach.name || '-'}</span>
+        {awayCoach.photo && (
+          <img src={awayCoach.photo} alt={awayCoach.name} loading="lazy"
+               style="width:32px;height:32px;border-radius:50%;object-fit:cover;background:#f1f3f5;flex-shrink:0;"
+               onerror="this.style.display='none'" />
+        )}
       </div>
     </div>
   )}
