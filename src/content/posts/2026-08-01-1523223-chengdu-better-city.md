@@ -32,6 +32,6 @@ homeLineup: "[\"Dianzuo Liu (GK)|https://images.fotmob.com/image_resources/playe
 awayLineup: "[\"Jingqi Fang (GK)|https://images.fotmob.com/image_resources/playerimages/467590.png\",\"Tian Ming (DF)|https://images.fotmob.com/image_resources/playerimages/1026521.png\",\"Guan He (DF)|https://images.fotmob.com/image_resources/playerimages/536591.png\",\"Ang Li (DF)|https://images.fotmob.com/image_resources/playerimages/526201.png\",\"Haofeng Xu (DF)|https://images.fotmob.com/image_resources/playerimages/1171149.png\",\"Jinxian Wang (FW)|https://images.fotmob.com/image_resources/playerimages/536586.png\",\"Chengjian Liao (MF)|https://images.fotmob.com/image_resources/playerimages/467926.png\",\"Adriano (MF)|https://images.fotmob.com/image_resources/playerimages/1071102.png\",\"Gustavo Sauer (FW)|https://images.fotmob.com/image_resources/playerimages/676447.png\",\"Jhonder Cádiz (FW)|https://images.fotmob.com/image_resources/playerimages/523414.png\",\"Kilian Bevis (FW)|https://images.fotmob.com/image_resources/playerimages/1553642.png\"]"
 homeFormation: "4-4-2"
 awayFormation: "4-3-3"
-homeCoach: "John Aloisi"
-awayCoach: "Zhuoxiang Deng"
+homeCoach: "John Aloisi|https://images.fotmob.com/image_resources/playerimages/30634.png"
+awayCoach: "Zhuoxiang Deng|https://images.fotmob.com/image_resources/playerimages/79251.png"
 ---

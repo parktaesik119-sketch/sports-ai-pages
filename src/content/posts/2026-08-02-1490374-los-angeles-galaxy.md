@@ -32,6 +32,6 @@ homeLineup: "[\"James Marcinkowski (GK)|https://images.fotmob.com/image_resource
 awayLineup: "[\"Daniel (GK)|https://images.fotmob.com/image_resources/playerimages/789791.png\",\"Shaq Moore (DF)|https://images.fotmob.com/image_resources/playerimages/643583.png\",\"Osaze Urhoghide (DF)|https://images.fotmob.com/image_resources/playerimages/906085.png\",\"Sebastien Ibeagha (DF)|https://images.fotmob.com/image_resources/playerimages/520795.png\",\"Nolan Norris (DF)|https://images.fotmob.com/image_resources/playerimages/1440042.png\",\"Kaick Ferreira (MF)|https://images.fotmob.com/image_resources/playerimages/1732589.png\",\"Christian Cappis (MF)|https://images.fotmob.com/image_resources/playerimages/978875.png\",\"Joaquín Valiente (MF)|https://images.fotmob.com/image_resources/playerimages/1391242.png\",\"Patrickson Delgado (MF)|https://images.fotmob.com/image_resources/playerimages/1344245.png\",\"Ran Binyamin (MF)|https://images.fotmob.com/image_resources/playerimages/1477917.png\",\"Petar Musa (FW)|https://images.fotmob.com/image_resources/playerimages/709796.png\"]"
 homeFormation: "4-4-2"
 awayFormation: "4-2-3-1"
-homeCoach: "Greg Vanney"
-awayCoach: "Eric Quill"
+homeCoach: "Greg Vanney|https://images.fotmob.com/image_resources/playerimages/30387.png"
+awayCoach: "Eric Quill|https://images.fotmob.com/image_resources/playerimages/1499293.png"
 ---

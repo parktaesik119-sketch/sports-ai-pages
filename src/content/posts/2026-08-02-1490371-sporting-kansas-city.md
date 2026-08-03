@@ -32,6 +32,6 @@ homeLineup: "[\"Stefan Cleveland (GK)|https://images.fotmob.com/image_resources/
 awayLineup: "[\"Jonathan Bond (GK)|https://images.fotmob.com/image_resources/playerimages/186882.png\",\"Lucas Halter (DF)|https://images.fotmob.com/image_resources/playerimages/1043762.png\",\"Agustin Resch (DF)|https://images.fotmob.com/image_resources/playerimages/1910398.png\",\"Diadie Samassékou (MF)|https://images.fotmob.com/image_resources/playerimages/643646.png\",\"Felipe Andrade (DF)|https://images.fotmob.com/image_resources/playerimages/1501511.png\",\"Lawrence Ennali (MF)|https://images.fotmob.com/image_resources/playerimages/1274604.png\",\"Mateusz Bogusz (FW)|https://images.fotmob.com/image_resources/playerimages/954194.png\",\"Agustín Bouzat (MF)|https://images.fotmob.com/image_resources/playerimages/723682.png\",\"Héctor Herrera (MF)|https://images.fotmob.com/image_resources/playerimages/274623.png\",\"Guilherme Augusto (FW)|https://images.fotmob.com/image_resources/playerimages/763151.png\",\"Ezequiel Ponce (FW)|https://images.fotmob.com/image_resources/playerimages/493216.png\"]"
 homeFormation: "4-2-3-1"
 awayFormation: "5-3-2"
-homeCoach: "Raphael Wicky"
-awayCoach: "Ben Olsen"
+homeCoach: "Raphael Wicky|https://images.fotmob.com/image_resources/playerimages/30705.png"
+awayCoach: "Ben Olsen|https://images.fotmob.com/image_resources/playerimages/31050.png"
 ---

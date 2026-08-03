@@ -32,6 +32,6 @@ homeLineup: "[\"Drake Callender (GK)|https://images.fotmob.com/image_resources/p
 awayLineup: "[\"Carlos Dos Santos (GK)|https://images.fotmob.com/image_resources/playerimages/1054027.png\",\"Oscar Verhoeven (DF)|https://images.fotmob.com/image_resources/playerimages/1510858.png\",\"Christopher McVey (DF)|https://images.fotmob.com/image_resources/playerimages/885504.png\",\"Manu Duah (DF)|https://images.fotmob.com/image_resources/playerimages/1729741.png\",\"Kieran Sargeant (DF)|https://images.fotmob.com/image_resources/playerimages/1613512.png\",\"Alejandro Alvarado (MF)|https://images.fotmob.com/image_resources/playerimages/1188588.png\",\"Jeppe Tverskov (MF)|https://images.fotmob.com/image_resources/playerimages/435493.png\",\"Onni Valakari (MF)|https://images.fotmob.com/image_resources/playerimages/835948.png\",\"Anders Dreyer (FW)|https://images.fotmob.com/image_resources/playerimages/641344.png\",\"Marcus Ingvartsen (FW)|https://images.fotmob.com/image_resources/playerimages/443733.png\",\"Alex Mighten (FW)|https://images.fotmob.com/image_resources/playerimages/1081174.png\"]"
 homeFormation: "4-4-2"
 awayFormation: "4-3-3"
-homeCoach: "Cameron Knowles"
-awayCoach: "Mikey Varas"
+homeCoach: "Cameron Knowles|https://images.fotmob.com/image_resources/playerimages/1601894.png"
+awayCoach: "Mikey Varas|https://images.fotmob.com/image_resources/playerimages/1481472.png"
 ---
