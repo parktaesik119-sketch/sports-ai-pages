@@ -32,14 +32,21 @@ jobs:
       - name: Run UEFA lineup update script
         run: node scripts/uefa-lineup-update.js
 
-      - name: Run footystats update script
-        run: node scripts/footystats/footystats-lineup-update.js
+      # footystats는 Cloudflare Turnstile 챌린지 도입 이후 프록시+쿠키 수동 갱신이
+      # 필요해져서 fotmob(프록시/쿠키 불필요, 완전 공개 API)으로 이관함 (2026-07).
+      # 문제 생기면 아래 주석 해제하고 fotmob 스텝을 지우면 원상복구 가능.
+      # - name: Run footystats update script
+      #   run: node scripts/footystats/footystats-lineup-update.js
+      #   continue-on-error: true
+      #   env:
+      #     HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
+      #     HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
+      #     CF_SESSION_COOKIE: ${{ secrets.CF_SESSION_COOKIE }}
+      #     CF_SESSION_USER_AGENT: ${{ secrets.CF_SESSION_USER_AGENT }}
+
+      - name: Run fotmob lineup update script
+        run: node scripts/fotmob-lineup-update.js
         continue-on-error: true
-        env:
-          HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
-          HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
-          CF_SESSION_COOKIE: ${{ secrets.CF_SESSION_COOKIE }}
-          CF_SESSION_USER_AGENT: ${{ secrets.CF_SESSION_USER_AGENT }}
 
       - name: Run ESPN lineup update script
         run: node scripts/espn-boxscore-update.js
@@ -59,6 +66,7 @@ jobs:
       - name: Run KBO photo update
         run: node scripts/kbo-photo-update.js
 
+
       - name: Commit and push lineup updates
         id: push
         run: |
@@ -66,6 +74,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/content/posts/
           git add scripts/footystats/team-map-cache.json
+          git add scripts/fotmob-unmatched-log.json
           if git diff --staged --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "변경 없음"
