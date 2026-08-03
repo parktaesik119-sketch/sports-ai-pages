@@ -173,6 +173,15 @@ function isEmptyField(raw) {
   return raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
 }
 
+// 감독 필드는 "이름만 저장된 상태"(fotmob이 coach.id를 아직 안 줘서 사진을 못 만들었던
+// 시점에 저장됨)일 수 있다. 이 경우 isEmptyField()로는 "이미 채워짐"으로 보여서
+// 영원히 재조회 안 되므로, "|"(이름|사진URL) 구분자가 없는 경우를 별도로 잡아낸다.
+function coachNeedsPhoto(raw) {
+  if (isEmptyField(raw)) return true;
+  const stripped = raw.trim().replace(/^['"]|['"]$/g, '').trim();
+  return !stripped.includes('|');
+}
+
 // fotmob의 unavailable[] → {name, status, detail} 배열을 사람이 읽는 텍스트로 변환.
 // analyze-router-one-git.js의 formatInjuries()와 같은 표기 스타일을 맞춘다.
 // i.status는 extractFotmobInjuries()가 injuryId 매핑표로 알아낸 구체적 부상명
@@ -220,13 +229,16 @@ async function main() {
     const awayFormationEmpty = isEmptyField(fm.awayFormation);
     const homeCoachEmpty     = isEmptyField(fm.homeCoach);
     const awayCoachEmpty     = isEmptyField(fm.awayCoach);
+    // "이름만 있고 사진 없음" 상태도 재확인 대상 — coach.id가 뒤늦게 채워지면 사진을 붙여준다.
+    const homeCoachNeedsPhoto = coachNeedsPhoto(fm.homeCoach);
+    const awayCoachNeedsPhoto = coachNeedsPhoto(fm.awayCoach);
 
     const needH2h        = existingH2h.items !== null && existingH2h.items.length < TARGET_COUNT;
     const needHomeRecent = existingHomeRecent.items !== null && existingHomeRecent.items.length < TARGET_COUNT;
     const needAwayRecent = existingAwayRecent.items !== null && existingAwayRecent.items.length < TARGET_COUNT;
     // 감독은 라인업과 같은 시점(content.lineup)에 나오는 정보라 needLineup에 합류시킨다
     const needLineup = homeLineupEmpty || awayLineupEmpty || homeFormationEmpty || awayFormationEmpty
-      || homeCoachEmpty || awayCoachEmpty;
+      || homeCoachNeedsPhoto || awayCoachNeedsPhoto;
     // ⚠️ 부상자는 라인업과 달리 "한 번 확정되면 안 바뀌는 정보"가 아니라 경기 직전까지
     // 계속 바뀐다(회복/신규 부상 등). 그래서 라인업처럼 "비어있을 때만 채움"이 아니라
     // fotmob 데이터가 있을 때마다 항상 최신 상태로 덮어써야 한다(2026-07 실사용 버그로
@@ -276,12 +288,20 @@ async function main() {
         }
 
         if (homeCoachEmpty) {
+          // 아예 없던 상태 — 사진이 아직 없어도(이름만이라도) 우선 저장
           const coach = extractFotmobCoach(fotmobHomeLineup);
           if (coach) updates.homeCoach = coach;
+        } else if (homeCoachNeedsPhoto) {
+          // 이름만 저장된 상태 — 사진(coach.id)이 이번에 확보됐을 때만 업그레이드
+          const coach = extractFotmobCoach(fotmobHomeLineup);
+          if (coach && coach.includes('|')) updates.homeCoach = coach;
         }
         if (awayCoachEmpty) {
           const coach = extractFotmobCoach(fotmobAwayLineup);
           if (coach) updates.awayCoach = coach;
+        } else if (awayCoachNeedsPhoto) {
+          const coach = extractFotmobCoach(fotmobAwayLineup);
+          if (coach && coach.includes('|')) updates.awayCoach = coach;
         }
 
         if (homeFormationEmpty) {
