@@ -28,6 +28,6 @@ pickExpectedHome: ""
 pickExpectedAway: ""
 pickOuValue: "10.5"
 pickOuDirection: "언더"
-homeLineup: "[\"선발투수 A. Nola (3-9, 5.61) ERA 5.61|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
+homeLineup: "[\"선발투수 A. Nola (3-9, 5.61) ERA 5.61|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\",\"1번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"2번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"3번 B. Harper (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 A. Bohm (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"5번 B. De La Cruz (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40787.png\",\"6번 B. Stott (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"7번 E. Sosa (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33809.png\",\"8번 D. Hill (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/33721.png\",\"9번 G. Stubbs (C)|https://a.espncdn.com/i/headshots/mlb/players/full/35760.png\"]"
 awayLineup: "[\"선발투수 A. Alvarez (2-3, 4.06) ERA 4.06|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
 ---
