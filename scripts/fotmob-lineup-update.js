@@ -25,6 +25,7 @@ import {
   findFotmobMatch,
   fetchMatchDetails,
   formatFotmobLineup,
+  extractFotmobCoach,
   toFotmobH2hDisplay,
   toFotmobRecentDisplay,
   getFormOwnerId,
@@ -217,11 +218,15 @@ async function main() {
     const awayLineupEmpty    = isEmptyField(fm.awayLineup);
     const homeFormationEmpty = isEmptyField(fm.homeFormation);
     const awayFormationEmpty = isEmptyField(fm.awayFormation);
+    const homeCoachEmpty     = isEmptyField(fm.homeCoach);
+    const awayCoachEmpty     = isEmptyField(fm.awayCoach);
 
     const needH2h        = existingH2h.items !== null && existingH2h.items.length < TARGET_COUNT;
     const needHomeRecent = existingHomeRecent.items !== null && existingHomeRecent.items.length < TARGET_COUNT;
     const needAwayRecent = existingAwayRecent.items !== null && existingAwayRecent.items.length < TARGET_COUNT;
-    const needLineup = homeLineupEmpty || awayLineupEmpty || homeFormationEmpty || awayFormationEmpty;
+    // 감독은 라인업과 같은 시점(content.lineup)에 나오는 정보라 needLineup에 합류시킨다
+    const needLineup = homeLineupEmpty || awayLineupEmpty || homeFormationEmpty || awayFormationEmpty
+      || homeCoachEmpty || awayCoachEmpty;
     // ⚠️ 부상자는 라인업과 달리 "한 번 확정되면 안 바뀌는 정보"가 아니라 경기 직전까지
     // 계속 바뀐다(회복/신규 부상 등). 그래서 라인업처럼 "비어있을 때만 채움"이 아니라
     // fotmob 데이터가 있을 때마다 항상 최신 상태로 덮어써야 한다(2026-07 실사용 버그로
@@ -268,6 +273,15 @@ async function main() {
         if (awayLineupEmpty) {
           const items = formatFotmobLineup(fotmobAwayLineup);
           if (items.length > 0) updates.awayLineup = JSON.stringify(items);
+        }
+
+        if (homeCoachEmpty) {
+          const coach = extractFotmobCoach(fotmobHomeLineup);
+          if (coach) updates.homeCoach = coach;
+        }
+        if (awayCoachEmpty) {
+          const coach = extractFotmobCoach(fotmobAwayLineup);
+          if (coach) updates.awayCoach = coach;
         }
 
         if (homeFormationEmpty) {

@@ -1,15 +1,19 @@
 // scripts/fetch-fotmob-context.js
 // api-sports/네이버 등으로 만든 오늘자 database/{date}.json을 읽어서, 축구 경기 중
 // match-filter.js를 통과한(=실제로 분석글이 나갈) 경기에 한해 fotmob에서
-// 결장자/H2H/최근폼 정보를 미리 수집해 database/fotmob-context-{date}.json 으로 저장한다.
+// 결장자/H2H/최근폼/(가능하면)라인업·포메이션·감독 정보를 미리 수집해
+// database/fotmob-context-{date}.json 으로 저장한다.
 //
 // fetch-espn-context.js와 같은 역할이지만 축구 전용이다 — ESPN이 커버 못 하는 하위
 // 리그(구 footystats 담당 영역)의 정보를 분석글 "작성 시점"에 이미 확보해두기 위한
 // 것으로, analyze-router-one-git.js보다 먼저 실행되어야 한다.
 //
-// 라인업(선발 명단)은 여기서 다루지 않는다 — 경기 임박 전엔 대부분 비어있어서
-// 글 작성 시점엔 의미가 없고(analyze-router-one-git.js 자체가 라인업을 프롬프트에
-// 아예 안 씀), 그건 fotmob-lineup-update.js가 사후에 채운다.
+// ⚠️ 라인업: fotmob은 예상 라인업을 킥오프 2~3일 전부터도 미리 공개하는 경우가 많다
+// (실사용 확인, 2026-07). 그래서 이제 여기서도 있으면 같이 수집한다 — analyze-router가
+// 이걸 AI 프롬프트에 넣어 더 구체적인 분석을 쓰게 하고, homeLineup/homeFormation/
+// homeCoach 등 구조화된 필드는 AI가 아니라 이 데이터를 그대로 frontmatter에 박아넣는다
+// (AI가 선수명을 잘못 옮겨적거나 지어내는 걸 원천 차단하기 위함). 다만 그래도 이 시점에
+// 없는 경우가 많으므로, 못 채운 부분은 기존처럼 fotmob-lineup-update.js가 사후에 채운다.
 //
 // ⚠️ h2h/recent는 mergeSoccerMatchSources()가 new Date(row.date)로 직접 파싱하고
 // homeScore/awayScore 숫자 필드를 기대하기 때문에, fotmob-lineup-update.js가 쓰는
@@ -27,8 +31,12 @@ import {
   toFotmobH2hRaw,
   toFotmobRecentRaw,
   getFormOwnerId,
+  formatFotmobLineup,
+  extractFotmobCoach,
+  POS_LABEL,
 } from './fotmob-common.js';
 import { isMatchApproved } from './match-filter.js';
+import { deriveFormationFromLineup } from './formation-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
@@ -84,6 +92,33 @@ async function main() {
         injuries = isHomeFirst ? rawInjuries : { home: rawInjuries.away, away: rawInjuries.home };
       }
 
+      // 라인업/포메이션/감독 (있을 때만 — 이 시점엔 아직 없는 경우가 더 많음)
+      const fotmobHomeTeamLineup = lineup ? (isHomeFirst ? lineup.homeTeam : lineup.awayTeam) : null;
+      const fotmobAwayTeamLineup = lineup ? (isHomeFirst ? lineup.awayTeam : lineup.homeTeam) : null;
+
+      const lineupPlayers = {
+        home: formatFotmobLineup(fotmobHomeTeamLineup),
+        away: formatFotmobLineup(fotmobAwayTeamLineup),
+      };
+
+      function resolveFormation(teamLineup, players) {
+        if (teamLineup?.formation) return teamLineup.formation;
+        if (teamLineup?.starters?.length) {
+          const positions = teamLineup.starters.map(p => ({ position: POS_LABEL[p.usualPlayingPositionId] || '' }));
+          return deriveFormationFromLineup(positions) || null;
+        }
+        return null;
+      }
+      const formation = {
+        home: resolveFormation(fotmobHomeTeamLineup, lineupPlayers.home),
+        away: resolveFormation(fotmobAwayTeamLineup, lineupPlayers.away),
+      };
+
+      const coach = {
+        home: extractFotmobCoach(fotmobHomeTeamLineup),
+        away: extractFotmobCoach(fotmobAwayTeamLineup),
+      };
+
       // H2H (원본 ISO 날짜 + 숫자 스코어)
       const h2h = toFotmobH2hRaw(details.content?.h2h, match.date);
 
@@ -106,9 +141,11 @@ async function main() {
         away: toFotmobRecentRaw(ourAwayFormArr, match.date),
       };
 
+      const hasLineup = lineupPlayers.home.length > 0 || lineupPlayers.away.length > 0;
       const hasAnyData =
         injuries.home.length > 0 || injuries.away.length > 0
-        || h2h.length > 0 || recent.home.length > 0 || recent.away.length > 0;
+        || h2h.length > 0 || recent.home.length > 0 || recent.away.length > 0
+        || hasLineup;
 
       if (!hasAnyData) { skipCount++; continue; }
 
@@ -120,9 +157,12 @@ async function main() {
         injuries,
         h2h,
         recent,
+        lineup: hasLineup ? lineupPlayers : null,
+        formation: hasLineup ? formation : null,
+        coach: hasLineup ? coach : null,
       });
       okCount++;
-      console.log(`✅ [수집] ${match.home} vs ${match.away} | 결장 홈${injuries.home.length}/원정${injuries.away.length} | h2h ${h2h.length}건 | 최근폼 홈${recent.home.length}·원정${recent.away.length}건`);
+      console.log(`✅ [수집] ${match.home} vs ${match.away} | 결장 홈${injuries.home.length}/원정${injuries.away.length} | h2h ${h2h.length}건 | 최근폼 홈${recent.home.length}·원정${recent.away.length}건 | 라인업${hasLineup ? 'O' : 'X'}`);
     } catch (err) {
       console.error(`❌ [실패] ${match.home} vs ${match.away}:`, err.message);
       skipCount++;
