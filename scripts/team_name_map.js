@@ -204,6 +204,7 @@ const TEAM_NAME_MAP = {
   // ===== 🇳🇴 엘리테세리엔 (Eliteserien) =====
   "Aalesund": "올레순",
   "Bodo/Glimt": "보되/글림트",
+  "Bodø/Glimt": "보되/글림트",
   "Brann": "브란",
   "Fredrikstad": "프레드릭스타드",
   "Ham-Kam": "함캄",
