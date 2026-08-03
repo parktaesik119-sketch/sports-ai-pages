@@ -1,141 +1,12 @@
 {
-  "analyze-1492745-2026-08-02-waterford": {
-    "kickoff": "2026-08-02T14:00:00+00:00"
-  },
-  "analyze-1507019-2026-08-02-daejeon-citizen": {
-    "kickoff": "2026-08-02T10:30:00+00:00"
-  },
-  "analyze-1507020-2026-08-02-jeju-united-fc": {
-    "kickoff": "2026-08-02T10:30:00+00:00"
-  },
-  "analyze-1507021-2026-08-02-ulsan-hyundai-fc": {
-    "kickoff": "2026-08-02T10:30:00+00:00"
-  },
-  "analyze-1510399-2026-08-02-ansan-greeners": {
-    "kickoff": "2026-08-02T10:30:00+00:00"
-  },
-  "analyze-1510400-2026-08-02-busan-i-park": {
-    "kickoff": "2026-08-02T10:30:00+00:00"
-  },
-  "analyze-1510401-2026-08-02-gimpo-citizen": {
-    "kickoff": "2026-08-02T10:30:00+00:00"
-  },
-  "analyze-1510402-2026-08-02-jeonnam-dragons": {
-    "kickoff": "2026-08-02T10:30:00+00:00"
-  },
-  "analyze-1523224-2026-08-02-sichuan-jiuniu": {
-    "kickoff": "2026-08-02T12:00:00+00:00"
-  },
-  "analyze-1523225-2026-08-02-qingdao-youth-island": {
-    "kickoff": "2026-08-02T10:00:00+00:00"
-  },
-  "analyze-1523226-2026-08-02-shenyang-urban": {
-    "kickoff": "2026-08-02T11:35:00+00:00"
-  },
-  "analyze-1555356-2026-08-02-fc-vaduz": {
-    "kickoff": "2026-08-02T12:00:00+00:00"
-  },
-  "analyze-1555357-2026-08-02-grasshoppers": {
-    "kickoff": "2026-08-02T14:30:00+00:00"
-  },
-  "analyze-1555358-2026-08-02-fc-sion": {
-    "kickoff": "2026-08-02T14:30:00+00:00"
-  },
-  "analyze-181928-2026-08-02-nc-dinos": {
-    "kickoff": "2026-08-02T09:00:00+00:00"
-  },
-  "analyze-181929-2026-08-02-kt-wiz-suwon": {
-    "kickoff": "2026-08-02T09:00:00+00:00"
-  },
-  "analyze-181930-2026-08-02-lotte-giants": {
-    "kickoff": "2026-08-02T09:00:00+00:00"
-  },
-  "analyze-181931-2026-08-02-doosan-bears": {
-    "kickoff": "2026-08-02T09:00:00+00:00"
-  },
-  "analyze-1492741-2026-08-03-bohemians": {
-    "kickoff": "2026-08-02T18:00:00+00:00"
-  },
-  "analyze-1492744-2026-08-03-st-patricks-athl": {
-    "kickoff": "2026-08-02T16:00:00+00:00"
-  },
-  "analyze-1549700-2026-08-03-jaguares": {
-    "kickoff": "2026-08-02T20:45:00+00:00"
-  },
-  "analyze-1556632-2026-08-03-hibernian": {
-    "kickoff": "2026-08-02T15:30:00+00:00"
-  },
-  "analyze-1561899-2026-08-03-rapid-vienna": {
-    "kickoff": "2026-08-02T17:00:00+00:00"
-  },
-  "analyze-179686-2026-08-03-los-angeles-angels": {
-    "kickoff": "2026-08-02T19:15:00+00:00"
-  },
-  "analyze-179687-2026-08-03-toronto-blue-jays": {
-    "kickoff": "2026-08-02T17:37:00+00:00"
-  },
-  "analyze-179688-2026-08-03-tampa-bay-rays": {
-    "kickoff": "2026-08-02T17:40:00+00:00"
-  },
-  "analyze-179689-2026-08-03-seattle-mariners": {
-    "kickoff": "2026-08-02T20:10:00+00:00"
-  },
-  "analyze-179690-2026-08-03-new-york-mets": {
-    "kickoff": "2026-08-02T17:40:00+00:00"
-  },
-  "analyze-179691-2026-08-03-los-angeles-dodgers": {
-    "kickoff": "2026-08-02T23:20:00+00:00"
-  },
-  "analyze-179692-2026-08-03-san-diego-padres": {
-    "kickoff": "2026-08-02T20:10:00+00:00"
-  },
-  "analyze-179693-2026-08-03-houston-astros": {
-    "kickoff": "2026-08-02T18:10:00+00:00"
-  },
-  "analyze-179694-2026-08-03-colorado-rockies": {
-    "kickoff": "2026-08-02T19:10:00+00:00"
-  },
-  "analyze-179695-2026-08-03-cleveland-guardians": {
-    "kickoff": "2026-08-02T17:40:00+00:00"
-  },
-  "analyze-179696-2026-08-03-cincinnati-reds": {
-    "kickoff": "2026-08-02T17:40:00+00:00"
-  },
-  "analyze-179697-2026-08-03-chicago-cubs": {
-    "kickoff": "2026-08-02T18:20:00+00:00"
-  },
-  "analyze-179698-2026-08-03-baltimore-orioles": {
-    "kickoff": "2026-08-02T17:35:00+00:00"
-  },
-  "analyze-179699-2026-08-03-atlanta-braves": {
-    "kickoff": "2026-08-02T17:35:00+00:00"
-  },
-  "analyze-179700-2026-08-03-athletics": {
-    "kickoff": "2026-08-02T20:05:00+00:00"
-  },
-  "analyze-181197-2026-08-02-hiroshima-carp": {
-    "kickoff": "2026-08-02T09:00:00+00:00"
-  },
-  "analyze-181201-2026-08-02-yakult-swallows": {
-    "kickoff": "2026-08-02T09:00:00+00:00"
-  },
-  "analyze-1556631-2026-08-02-st-johnstone": {
-    "kickoff": "2026-08-02T13:00:00+00:00"
-  },
   "analyze-1548097-2026-08-03-indonesia": {
     "kickoff": "2026-08-03T13:30:00+00:00"
-  },
-  "analyze-1549702-2026-08-03-santa-fe": {
-    "kickoff": "2026-08-03T01:00:00+00:00"
   },
   "analyze-1567783-2026-08-03-cambodia": {
     "kickoff": "2026-08-03T10:30:00+00:00"
   },
   "analyze-1556633-2026-08-04-celtic": {
     "kickoff": "2026-08-03T18:30:00+00:00"
-  },
-  "analyze-1561897-2026-08-03-austria-lustenau": {
-    "kickoff": "2026-08-02T15:00:00+00:00"
   },
   "analyze-181203-2026-08-03-orix-buffaloes": {
     "kickoff": "2026-08-03T09:00:00+00:00"
@@ -148,5 +19,77 @@
   },
   "analyze-179705-2026-08-04-milwaukee-brewers": {
     "kickoff": "2026-08-03T23:40:00+00:00"
+  },
+  "analyze-179701-2026-08-04-texas-rangers": {
+    "kickoff": "2026-08-04T00:05:00+00:00"
+  },
+  "analyze-179704-2026-08-04-houston-astros": {
+    "kickoff": "2026-08-04T00:10:00+00:00"
+  },
+  "analyze-179706-2026-08-04-colorado-rockies": {
+    "kickoff": "2026-08-04T00:40:00+00:00"
+  },
+  "analyze-179707-2026-08-04-chicago-cubs": {
+    "kickoff": "2026-08-04T00:05:00+00:00"
+  },
+  "analyze-179708-2026-08-04-arizona-diamondbacks": {
+    "kickoff": "2026-08-04T01:40:00+00:00"
+  },
+  "analyze-181204-2026-08-04-hiroshima-carp": {
+    "kickoff": "2026-08-04T09:00:00+00:00"
+  },
+  "analyze-181205-2026-08-04-yokohama-baystars": {
+    "kickoff": "2026-08-04T08:45:00+00:00"
+  },
+  "analyze-181206-2026-08-04-fukuoka-s-hawks": {
+    "kickoff": "2026-08-04T09:00:00+00:00"
+  },
+  "analyze-181207-2026-08-04-chiba-lotte-marines": {
+    "kickoff": "2026-08-04T09:00:00+00:00"
+  },
+  "analyze-181208-2026-08-04-chunichi-dragons": {
+    "kickoff": "2026-08-04T09:00:00+00:00"
+  },
+  "analyze-181932-2026-08-04-doosan-bears": {
+    "kickoff": "2026-08-04T09:30:00+00:00"
+  },
+  "analyze-181933-2026-08-04-kia-tigers": {
+    "kickoff": "2026-08-04T09:30:00+00:00"
+  },
+  "analyze-181934-2026-08-04-lotte-giants": {
+    "kickoff": "2026-08-04T09:30:00+00:00"
+  },
+  "analyze-181935-2026-08-04-samsung-lions": {
+    "kickoff": "2026-08-04T09:30:00+00:00"
+  },
+  "analyze-181936-2026-08-04-ssg-landers": {
+    "kickoff": "2026-08-04T09:30:00+00:00"
+  },
+  "analyze-179712-2026-08-05-philadelphia-phillies": {
+    "kickoff": "2026-08-04T22:40:00+00:00"
+  },
+  "analyze-179713-2026-08-05-new-york-yankees": {
+    "kickoff": "2026-08-04T23:05:00+00:00"
+  },
+  "analyze-179714-2026-08-05-milwaukee-brewers": {
+    "kickoff": "2026-08-04T23:40:00+00:00"
+  },
+  "analyze-179715-2026-08-05-kansas-city-royals": {
+    "kickoff": "2026-08-04T23:40:00+00:00"
+  },
+  "analyze-179716-2026-08-05-cleveland-guardians": {
+    "kickoff": "2026-08-04T22:40:00+00:00"
+  },
+  "analyze-179718-2026-08-05-cincinnati-reds": {
+    "kickoff": "2026-08-04T22:40:00+00:00"
+  },
+  "analyze-179720-2026-08-05-boston-red-sox": {
+    "kickoff": "2026-08-04T23:10:00+00:00"
+  },
+  "analyze-179721-2026-08-05-baltimore-orioles": {
+    "kickoff": "2026-08-04T22:35:00+00:00"
+  },
+  "analyze-179722-2026-08-05-atlanta-braves": {
+    "kickoff": "2026-08-04T23:15:00+00:00"
   }
 }
