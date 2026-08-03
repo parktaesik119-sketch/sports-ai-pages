@@ -199,6 +199,7 @@ const TEAM_NAME_MAP = {
   "St. Truiden": "생트뤼던",
   "Standard Liege": "스탕다르 리에주",
   "Union St. Gilloise": "위니옹 생질루아즈",
+  "Union St.Gilloise": "위니옹 생질루아즈",
   "Zulte Waregem": "쥘터 바레험",
 
   // ===== 🇳🇴 엘리테세리엔 (Eliteserien) =====
