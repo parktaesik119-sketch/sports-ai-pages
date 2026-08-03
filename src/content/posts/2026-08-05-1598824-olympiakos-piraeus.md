@@ -1,0 +1,37 @@
+---
+title: "Olympiakos Piraeus vs NEC 네이메헌 경기분석·라인업·결장자·통계·승부예측 (8월 5일) | UEFA 챔피언스리그 - 픽천국"
+date: 2026-08-04T18:00:00+00:00
+description: "Olympiakos Piraeus vs NEC 네이메헌 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1598824-2026-08-05-olympiakos-piraeus"
+category: "soccer"
+country: "유럽"
+league: "UEFA 챔피언스리그"
+homeTeam: "Olympiakos Piraeus"
+awayTeam: "NEC 네이메헌"
+homeLogo: "https://media.api-sports.io/football/teams/553.png"
+awayLogo: "https://media.api-sports.io/football/teams/413.png"
+homeAnalysis: "올림피아코스 피레아스는 2026시즌 최근 9경기에서 2승 3무 4패, 평균 득점 1.2로 공격 효율이 들쭉날쭉한 흐름을 보이고 있습니다. 최근에는 원정에서 실점이 크게 늘며 결과를 지키지 못한 경기가 이어졌고, 홈에서는 포르투나 시타르트전 3득점처럼 화력이 살아난 장면도 있었습니다. 다만 1득점권에 머무는 경기들이 적지 않아 주도권을 잡아도 마무리에서 답답함이 남는 모습입니다. 수비 쪽에서는 1실점 내외로 버틴 경기보다 2실점 이상을 허용한 경기가 더 눈에 띄어 안정감이 완전히 올라오지는 않았습니다. 그래도 홈에서는 템포를 끌어올릴 수 있는 기반이 있고, 전방에서 한 번 흐름을 타면 경기를 밀어붙이는 힘은 분명히 갖추고 있습니다."
+awayAnalysis: "NEC 네이메헌은 2026시즌 최근 9경기에서 3승 1무 5패, 평균 득점 2.1로 홈과 원정을 가리지 않고 득점 생산력 자체는 더 선명한 편입니다. 세비야전과 엘버스베르크전처럼 결과는 좋지 않았지만, 알파이하전 7득점과 V파렌 나가사키전 3득점에서 보이듯 한 번 리듬을 타면 공격 전개가 매우 날카로워집니다. 다만 실점도 함께 늘어나는 패턴이 뚜렷해서, 공격이 살아나는 날일수록 뒷문 리스크도 같이 커지고 있습니다. 최근 경기들에서는 상대 압박에 흔들릴 때 수비 간격이 벌어지는 장면이 있었고, 그 부분이 경기 결과를 좌우하는 모습입니다. 그럼에도 전체 전력만 놓고 보면 올림피아코스보다 전방 완성도가 더 높아 보이며, 선제권을 잡을 경우 경기 운영에서 우위를 점할 가능성이 있습니다."
+homePower: "홈 경기에서 템포를 끌어올릴 때 위력이 커짐|다득점보다 한두 차례 집중력에 경기 좌우됨|실점이 늘면 주도권 회복이 쉽지 않은 구조임|압박 강도는 살아 있으나 마무리 효율은 기복 있음|홈에서 전환 속도는 좋지만 안정성은 과제임"
+awayPower: "공격 전개가 터지면 대량 득점도 가능한 팀임|득점력은 높지만 수비 균형이 흔들리는 편임|강한 상대를 만나도 직선적인 전진은 유지됨|한 번 밀리면 실점 연쇄가 생기기 쉬운 구조임|원정에서도 공격 응집력은 충분히 검증됨"
+h2h: '[]'
+summary: "올림피아코스 피레아스와 NEC 네이메헌의 2026시즌 전력을 비교하면, 최근 득점 생산력은 NEC 네이메헌이 더 뚜렷하고 올림피아코스 피레아스는 홈에서 버티는 힘을 살려야 하는 구도입니다. 올림피아코스 피레아스는 수비 흔들림이 누적되는 반면, NEC 네이메헌은 실점 변동은 있지만 전방 마무리의 폭이 더 넓어 경기 흐름을 바꾸는 힘이 있습니다. 다만 양 팀 모두 최근 경기에서 수비 안정감이 완전하지 않았던 만큼, 한쪽이 일방적으로 눌러 이기기보다는 팽팽한 전개 속에서 원정팀이 조금 더 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.07.25","home":"AZ 알크마르","away":"Olympiakos Piraeus","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1563012-2026-07-25-az-alkmaar/"},{"date":"26.07.25","home":"안트베르펜","away":"Olympiakos Piraeus","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1567714-2026-07-25-antwerp/"},{"date":"26.07.18","home":"아약스","away":"Olympiakos Piraeus","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1567678-2026-07-18-ajax/"},{"date":"26.07.18","home":"Olympiakos Piraeus","away":"포르투나 시타르트","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554994-2026-07-18-olympiakos-piraeus/"},{"date":"26.07.11","home":"Olympiakos Piraeus","away":"OH 뢰번","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1567600-2026-07-11-olympiakos-piraeus/"}]'
+awayRecent: '[{"date":"26.08.01","home":"NEC 네이메헌","away":"세비야","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1583504-2026-08-01-nec-nijmegen/"},{"date":"26.07.25","home":"NEC 네이메헌","away":"엘버스베르크","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1563001-2026-07-25-nec-nijmegen/"},{"date":"26.07.18","home":"NEC 네이메헌","away":"알파이하","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1560680-2026-07-18-nec-nijmegen/"},{"date":"26.07.15","home":"NEC 네이메헌","away":"V파렌 나가사키","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1560608-2026-07-15-nec-nijmegen/"},{"date":"26.07.11","home":"안데를레흐트","away":"NEC 네이메헌","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1560568-2026-07-11-anderlecht/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

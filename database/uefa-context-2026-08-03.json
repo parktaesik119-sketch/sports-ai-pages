@@ -164,11 +164,7 @@
     },
     "referees": [
       {
-        "role": "ASSISTANT_REFEREE_ONE",
-        "name": null
-      },
-      {
-        "role": "VIDEO_ASSISTANT_REFEREE",
+        "role": "FOURTH_OFFICIAL",
         "name": null
       },
       {
@@ -180,11 +176,7 @@
         "name": null
       },
       {
-        "role": "REFEREE_OBSERVER",
-        "name": null
-      },
-      {
-        "role": "REFEREE",
+        "role": "VIDEO_ASSISTANT_REFEREE",
         "name": null
       },
       {
@@ -192,7 +184,15 @@
         "name": null
       },
       {
-        "role": "FOURTH_OFFICIAL",
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
         "name": null
       }
     ],
@@ -583,7 +583,7 @@
         "name": null
       },
       {
-        "role": "VIDEO_ASSISTANT_REFEREE",
+        "role": "FOURTH_OFFICIAL",
         "name": null
       },
       {
@@ -595,11 +595,11 @@
         "name": null
       },
       {
-        "role": "FOURTH_OFFICIAL",
+        "role": "ASSISTANT_REFEREE_ONE",
         "name": null
       },
       {
-        "role": "ASSISTANT_REFEREE_ONE",
+        "role": "ASSISTANT_REFEREE_TWO",
         "name": null
       },
       {
@@ -607,7 +607,7 @@
         "name": null
       },
       {
-        "role": "ASSISTANT_REFEREE_TWO",
+        "role": "VIDEO_ASSISTANT_REFEREE",
         "name": null
       }
     ],
@@ -646,11 +646,27 @@
     },
     "referees": [
       {
-        "role": "UEFA_DELEGATE",
+        "role": "FOURTH_OFFICIAL",
         "name": null
       },
       {
         "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
         "name": null
       },
       {
@@ -659,22 +675,6 @@
       },
       {
         "role": "VIDEO_ASSISTANT_REFEREE",
-        "name": null
-      },
-      {
-        "role": "REFEREE_OBSERVER",
-        "name": null
-      },
-      {
-        "role": "ASSISTANT_REFEREE_ONE",
-        "name": null
-      },
-      {
-        "role": "FOURTH_OFFICIAL",
-        "name": null
-      },
-      {
-        "role": "ASSISTANT_REFEREE_TWO",
         "name": null
       }
     ],

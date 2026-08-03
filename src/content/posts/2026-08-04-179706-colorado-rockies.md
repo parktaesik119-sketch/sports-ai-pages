@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (8월 4일) | MLB - 픽천국"
+date: 2026-08-04T00:40:00+00:00
+description: "콜로라도 로키스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179706-2026-08-04-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://media.api-sports.io/baseball/teams/10.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/34.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 최근 61경기 26승 35패 승률 .426, 평균 득점 5.3으로 득점 생산 자체는 꾸준한 편이며 최근 흐름에서도 공격이 살아 있는 모습입니다. 최근 10경기에서는 4승 6패, 평균 득점 4.3으로 전체 시즌 평균보다는 다소 내려왔지만, 홈에서는 초반부터 점수를 뽑아내며 경기 주도권을 잡는 장면이 자주 보입니다. 다만 실점 억제가 완전히 안정적이지 않아 큰 점수 차로 흔들리는 경기도 있었고, 최근에는 강한 상대로는 수비 부담이 커지는 흐름이 확인됩니다. 그래도 최근 2연승에서 보이듯 타선의 집중력이 올라올 때는 홈에서 확실히 분위기를 끌어올릴 수 있는 팀입니다. 특히 홈 이점을 바탕으로 초반 득점에 성공하면 경기 운영이 훨씬 편해지는 구조가 강점으로 평가됩니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 최근 79경기 45승 30패 승률 .600, 평균 득점 4.1로 시즌 전반의 안정감이 매우 좋은 편입니다. 최근 10경기에서는 6승 4패, 평균 득점 2.6으로, 결과는 나쁘지 않지만 공격 생산이 급격히 줄어든 점이 눈에 띕니다. 특히 최근 몇 경기에서는 낮은 득점으로도 승리를 끌어내는 대신, 타선이 막히면 경기가 답답하게 흘러가는 모습이 반복되고 있습니다. 수비와 경기 관리 능력은 여전히 강점이지만, 장기 결장자가 적지 않아 공격 쪽의 유연성은 다소 제한되어 보입니다. 원정에서도 기본 전력은 탄탄하지만, 최근 타격감만 놓고 보면 예전만큼의 여유는 덜한 편입니다."
+homePower: "홈에서 초반 득점 시 흐름 장악이 빠름|최근 득점력은 높지만 실점 변동폭 큼|큰 점수 승리와 대량 실점이 공존함|장기 결장으로 마운드 깊이 부담 가중됨|홈 득점 기대치가 경기 운영의 핵심임"
+awayPower: "시즌 승률은 높지만 최근 타격감 둔화됨|적은 득점으로도 버티는 운영이 강점임|실점 억제력은 유지되나 공격 답답함 보임|장기 결장자가 많아 전력 운용 폭이 좁음|원정에서도 경기 관리 능력은 검증됨"
+h2h: '[]'
+summary: "콜로라도 로키스는 시즌 전체 기준으로는 승률이 높지 않지만 평균 득점이 높고, 홈에서는 초반 흐름을 가져오는 힘이 분명한 팀입니다. 탬파베이 레이스는 리그순위 1위에 걸맞은 안정된 시즌 전력을 보여주고 있으나, 최근 10경기에서는 득점 생산이 줄어들며 공격 쪽 무게감이 다소 약해진 모습입니다. 전체적인 전력의 균형과 최근 타선 흐름을 함께 보면 콜로라도 로키스가 홈에서 조금 더 능동적으로 경기를 풀 가능성이 높고, 탬파베이 레이스는 수비로 버티며 접전을 만들 수 있는 구도가 예상됩니다. 다만 최근 득점 흐름과 홈에서의 공격성을 감안하면 콜로라도 로키스 쪽이 한 발 앞선 우세를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"},{"date":"26.07.30","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179636-2026-07-30-san-diego-padres/"},{"date":"26.07.27","home":"밀워키 브루어스","away":"콜로라도 로키스","score":"11-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179598-2026-07-27-milwaukee-brewers/"},{"date":"26.07.26","home":"밀워키 브루어스","away":"콜로라도 로키스","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179582-2026-07-26-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"},{"date":"26.08.02","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179673-2026-08-02-tampa-bay-rays/"},{"date":"26.08.01","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179658-2026-08-01-tampa-bay-rays/"},{"date":"26.07.31","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179647-2026-07-31-tampa-bay-rays/"},{"date":"26.07.30","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179633-2026-07-30-tampa-bay-rays/"}]'
+injuryHome: "Blas Castano (염좌)|Jaden Hill (건염)|Jeff Criswell (염좌)|McCade Brown (염증)|Jose Quintana (염좌)"
+injuryAway: "Gavin Lux (염증)|Steven Wilson (염증)|Cole Sulser (경련)|Jonathan Heasley (골절)|Jake Fraley (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "콜로라도 로키스"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 로키스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

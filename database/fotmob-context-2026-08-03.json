@@ -10,25 +10,9 @@
           "name": "Christopher Cupps",
           "status": "부상",
           "detail": "Early August 2026"
-        },
-        {
-          "name": "Mbekezeli Mbokazi",
-          "status": "충돌 부상",
-          "detail": "Mid August 2026"
-        },
-        {
-          "name": "André Franco",
-          "status": "십자 인대 부상",
-          "detail": "Late August 2026"
         }
       ],
-      "away": [
-        {
-          "name": "Aron John",
-          "status": "충돌 부상",
-          "detail": "Late August 2026"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -13245,7 +13229,7 @@
         "Seksan Ratree (MF)|https://images.fotmob.com/image_resources/playerimages/1544541.png",
         "Sarach Yooyen (MF)|https://images.fotmob.com/image_resources/playerimages/533216.png",
         "Chaiyaphon Otton (MF)|https://images.fotmob.com/image_resources/playerimages/1698952.png",
-        "Yotsakorn Burapha (MF)|https://images.fotmob.com/image_resources/playerimages/1474192.png",
+        "Yotsakorn Burapha (FW)|https://images.fotmob.com/image_resources/playerimages/1474192.png",
         "Kakana Khamyok (MF)|https://images.fotmob.com/image_resources/playerimages/1640875.png",
         "Teerasak Poeiphimai (FW)|https://images.fotmob.com/image_resources/playerimages/1348000.png"
       ]
@@ -13512,7 +13496,7 @@
         "Manasse Kianga (FW)|https://images.fotmob.com/image_resources/playerimages/1959190.png",
         "Daiki Matsuoka (MF)|https://images.fotmob.com/image_resources/playerimages/1023982.png",
         "Rahim Ibrahim (MF)|https://images.fotmob.com/image_resources/playerimages/1239580.png",
-        "Alexej Maros (MF)|https://images.fotmob.com/image_resources/playerimages/1557209.png",
+        "Alexej Maros (FW)|https://images.fotmob.com/image_resources/playerimages/1557209.png",
         "Adam Griger (FW)|https://images.fotmob.com/image_resources/playerimages/1174724.png"
       ]
     },
@@ -14009,7 +13993,7 @@
         "Niko Galesic (DF)|https://images.fotmob.com/image_resources/playerimages/1190350.png",
         "Stjepan Radeljic (DF)|https://images.fotmob.com/image_resources/playerimages/653982.png",
         "Matteo Perez Vinlöf (DF)|https://images.fotmob.com/image_resources/playerimages/1628516.png",
-        "Lukas Kacavenda (MF)|https://images.fotmob.com/image_resources/playerimages/1254292.png",
+        "Lukas Kacavenda (FW)|https://images.fotmob.com/image_resources/playerimages/1254292.png",
         "Josip Misic (MF)|https://images.fotmob.com/image_resources/playerimages/344093.png",
         "Luka Stojkovic (MF)|https://images.fotmob.com/image_resources/playerimages/1358149.png",
         "Fran Topic (FW)|https://images.fotmob.com/image_resources/playerimages/1402931.png",
@@ -14312,7 +14296,13 @@
     "date": "2026-08-04T21:10:00+00:00",
     "league": "Primera A",
     "injuries": {
-      "home": [],
+      "home": [
+        {
+          "name": "Daniel Mantilla",
+          "status": "발 부상",
+          "detail": "Early September 2026"
+        }
+      ],
       "away": []
     },
     "h2h": [

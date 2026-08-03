@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 가디언스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (8월 5일) | MLB - 픽천국"
+date: 2026-08-04T22:40:00+00:00
+description: "클리블랜드 가디언스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179716-2026-08-05-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://media.api-sports.io/baseball/teams/9.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/24.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 최근 77경기에서 36승 2무 39패, 평균 득점 3.8로 승패가 크게 벌어지지 않은 채 버티는 전력을 보여주고 있습니다. 최근 흐름은 다소 흔들리고 있지만 직전 경기에서 대승을 거두며 반등의 실마리를 만들었고, 홈에서 경기 운영이 살아날 때는 득점 생산도 함께 올라오는 편입니다. 반대로 연속 실점이 길어질 때는 타선 지원이 충분하지 않아 경기가 쉽게 기울어지는 모습도 확인됩니다. 현재 리그순위 6위라는 위치는 중위권 상단의 경쟁력은 갖췄다는 뜻이지만, 득실 차가 크지 않아 매 경기 집중력이 중요해 보입니다. 홈에서 안정적으로 불펜을 이어 가고 초반 득점으로 압박을 넣는다면 이번 경기에서도 주도권을 잡을 가능성이 있습니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 최근 73경기에서 31승 1무 41패, 평균 득점 4.2로 공격은 나쁘지 않지만 결과로 연결되지 않는 구간이 길게 이어지고 있습니다. 최근 경기 흐름을 보면 득점이 완전히 막히진 않지만 상대를 압도하지 못하는 장면이 잦고, 실점 억제가 흔들리면서 승부를 놓치는 경우가 많습니다. 원정에서는 특히 경기 후반 집중력 저하가 드러나기 쉬워 보이며, 한 번 흐름을 내주면 타선이 추격의 발판을 충분히 만들지 못하고 있습니다. 현재 리그순위 14위와 득실 차 마이너스 58은 전반적인 전력 균형이 흔들리고 있음을 보여줍니다. 핵심 자원들의 이탈까지 겹친 상황이라, 상대의 초반 공세를 얼마나 버티느냐가 관건으로 보입니다."
+homePower: "홈에서 초반 실점 억제 시 경기 주도권 확보가 쉬움|최근 대량 실점 뒤 무실점 승리로 반등 가능성 확인됨|득점이 꾸준히 붙을 때 승리 확률이 높아지는 구조임|중위권 유지 중이나 득실 관리가 승부의 핵심으로 보임|클리블랜드 가디언스의 홈 운영 완성도가 승부 포인트임"
+awayPower: "뉴욕 메츠는 타선 잠재력은 남아 있으나 기복이 큼|최근 접전보다 일방적 실점 패턴이 더 자주 나타남|원정에서 후반 추격 동력이 약해지는 점이 부담임|주요 전력 이탈로 마운드 운용 안정성이 떨어짐|클리블랜드 가디언스를 상대로 버티는 경기 설계가 필요함"
+h2h: '[]'
+summary: "클리블랜드 가디언스는 현재 리그순위 6위로 중위권 상단의 경쟁력을 유지하고 있고, 뉴욕 메츠는 리그순위 14위로 격차가 분명합니다. 득실 흐름만 보더라도 클리블랜드 가디언스는 비교적 균형을 유지하는 반면, 뉴욕 메츠는 실점 부담이 더 크게 쌓여 있어 경기 운영의 안정감에서 차이가 느껴집니다. 여기에 뉴욕 메츠는 주요 결장자 공백까지 겹쳐 있어, 전반적인 전력 균형과 후반 대응력에서 클리블랜드 가디언스 쪽이 한 수 앞서 보입니다. 홈에서 초반 분위기를 잡는다면 클리블랜드 가디언스가 우세를 지킬 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.03","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179695-2026-08-03-cleveland-guardians/"},{"date":"26.08.02","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"8-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179679-2026-08-02-cleveland-guardians/"},{"date":"26.08.01","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179665-2026-08-01-cleveland-guardians/"},{"date":"26.07.30","home":"신시내티 레즈","away":"클리블랜드 가디언스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179643-2026-07-30-cincinnati-reds/"},{"date":"26.07.29","home":"신시내티 레즈","away":"클리블랜드 가디언스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179627-2026-07-29-cincinnati-reds/"}]'
+awayRecent: '[{"date":"26.08.03","home":"뉴욕 메츠","away":"마이애미 말린스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179690-2026-08-03-new-york-mets/"},{"date":"26.08.02","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179675-2026-08-02-new-york-mets/"},{"date":"26.08.01","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179661-2026-08-01-new-york-mets/"},{"date":"26.07.31","home":"뉴욕 메츠","away":"마이애미 말린스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179646-2026-07-31-new-york-mets/"},{"date":"26.07.30","home":"뉴욕 메츠","away":"애틀랜타 브레이브스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179616-2026-07-30-new-york-mets/"}]'
+injuryHome: "Shawn Armstrong (염좌)"
+injuryAway: "Dedniel Nunez (수술)|Justin Hagenman (골절)|Clay Holmes (골절)|Cionel Perez (염좌)|Juan Soto (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

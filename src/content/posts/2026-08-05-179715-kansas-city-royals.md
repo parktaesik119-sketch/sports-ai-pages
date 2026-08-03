@@ -1,0 +1,37 @@
+---
+title: "캔자스시티 로열스 vs 미네소타 트윈스 경기분석·라인업·결장자·통계·승부예측 (8월 5일) | MLB - 픽천국"
+date: 2026-08-04T23:40:00+00:00
+description: "캔자스시티 로열스 vs 미네소타 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179715-2026-08-05-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://media.api-sports.io/baseball/teams/16.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/22.png"
+homeAnalysis: "캔자스시티 로열스는 2026시즌 최근 74경기에서 34승 4무 36패, 평균 득점 4.3으로 시즌 전력 자체는 크게 밀리지 않지만, 최근 10경기 4승 6패와 평균 득점 2.8로 흐름이 뚜렷하게 꺾여 있습니다. 직전 경기들에서 연패가 길어지며 타선 응집력이 떨어진 모습이 보이고, 특히 득점 생산이 한 경기씩 끊기는 장면이 많아졌습니다. 다만 홈에서는 한 번 리듬을 타면 여러 득점을 묶어내는 경기력이 나와, 초반 흐름을 잡으면 반등 여지도 있습니다. 수비 쪽에서는 대량 실점이 나온 경기와 한 점 차 승부가 섞여 있어 안정감이 완전히 고정되었다고 보기는 어렵습니다. 핵심 전력 공백으로는 보비 위트 주니어와 비니 파스콴티노의 이탈이 타선의 중심축을 가볍게 만들고 있어, 장타와 출루 연결이 이전보다 무거워진 점이 주목됩니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 최근 75경기에서 36승 0무 39패, 평균 득점 4.2로 승패 균형은 완전히 맞추지 못했지만, 현재 리그순위 7위와 득실 차 -29가 보여주듯 경쟁력은 홈팀보다 한 단계 앞서 있습니다. 최근 10경기 6승 4패와 평균 득점 4.4로 흐름도 비교적 살아 있고, 강한 상대를 만나서도 득점 생산이 유지되는 점이 눈에 띕니다. 직전 시애틀 원정에서는 연패가 있었지만, 그 전까지는 여러 경기에서 꾸준히 득점을 쌓아 올리며 공격 흐름을 회복해 왔습니다. 다만 실점 억제가 완전히 단단한 편은 아니라서, 공격이 잠시 식으면 접전으로 끌려갈 가능성은 남아 있습니다. 바이런 벅스턴의 이탈은 상위 타선의 폭발력을 낮추는 요소지만, 전체적으로는 최근 전력 흐름이 홈팀보다 안정적으로 보입니다."
+homePower: "보비 위트 주니어 공백으로 중심타선 응집력 저하가 뚜렷함|최근 저득점 흐름, 득점 생산의 연속성 부족함|한 점 차 승부가 많아 마무리 집중력은 변수임|홈에서 반등하면 장타보다 출루 연결이 중요해 보임|부상 공백 누적으로 후반 추격전 부담이 커진 상태임"
+awayPower: "최근 득점 흐름이 살아 있어 원정 타선 부담이 적음|리그순위 7위로 시즌 경쟁력이 홈팀보다 앞섬|득실 차 우위로 실점 관리가 홈팀보다 나음|바이런 벅스턴 이탈에도 타선 폭발력 유지됨|접전에서도 한 번씩 흐름을 바꾸는 응집력 검증됨"
+h2h: '[{"date":"26.07.31","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-179651-2026-07-31-minnesota-twins/"},{"date":"26.07.30","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"0-4","link":"https://pick79.com/posts/detail/analyze-179639-2026-07-30-minnesota-twins/"},{"date":"26.07.29","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179623-2026-07-29-minnesota-twins/"},{"date":"26.06.08","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-178980-2026-06-08-minnesota-twins/"},{"date":"26.06.07","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-178965-2026-06-07-minnesota-twins/"}]'
+summary: "미네소타 트윈스는 현재 리그순위 7위와 득실 차 -29를 감안해도, 캔자스시티 로열스보다 시즌 전력의 바탕이 더 단단하게 보입니다. 캔자스시티 로열스는 최근 득점 흐름이 둔해졌고, 미네소타 트윈스는 최근 득점 생산이 더 안정적이라 경기 운영에서 앞설 가능성이 높습니다. 상대전적도 접전이 많았지만, 최근 맞대결에서는 미네소타 트윈스가 필요한 순간마다 흐름을 가져오는 장면이 보였고, 이번 경기도 원정팀이 조금 더 우세한 그림이 자연스럽습니다."
+homeRecent: '[{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"},{"date":"26.07.31","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179651-2026-07-31-minnesota-twins/"},{"date":"26.07.30","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179639-2026-07-30-minnesota-twins/"},{"date":"26.07.29","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179623-2026-07-29-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.08.03","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179689-2026-08-03-seattle-mariners/"},{"date":"26.08.02","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179677-2026-08-02-seattle-mariners/"},{"date":"26.07.31","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179651-2026-07-31-minnesota-twins/"},{"date":"26.07.30","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179639-2026-07-30-minnesota-twins/"},{"date":"26.07.29","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179623-2026-07-29-minnesota-twins/"}]'
+injuryHome: "Bobby Witt Jr. (통증)|Connor Seabold (긴장)|Vinnie Pasquantino (통증)|Beck Way (경련)|Nick Mears (신경 압박)"
+injuryAway: "Byron Buxton (신경 압박)|Mike Paredes (긴장)|Mick Abel (수술)|Cole Sands (수술)|David Festa (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
