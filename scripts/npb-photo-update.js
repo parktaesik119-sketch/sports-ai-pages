@@ -30,6 +30,13 @@
 // 네이버 팀코드(실사용 캡처로 12팀 전체 확인, 2026-08):
 //   오릭스=OX, 세이부=SE, 닛폰햄=NH, 지바롯데=JL, 요미우리=YO, 요코하마(DeNA)=YK,
 //   야쿠르트=YA, 한신=HS, 라쿠텐=RT, 소프트뱅크=SF, 히로시마=HI, 주니치=JN
+//
+// [선발투수 이름 교체] 기존 선발투수 줄의 이름은 npb.jp 예고선발 페이지에서 온 것인데,
+// 타자 이름(네이버, 한글)과 표기가 안 맞을 수 있어서(로마자/한자 등) 같은 game-polling
+// 응답의 result.game.homeStarterName/awayStarterName(한글)로 이름만 바꿔치기한다.
+// ERA/승패 괄호와 사진 URL은 그대로 유지 — 이름 텍스트만 교체.
+// ⚠️ 이거 때문에 "타자 줄이 이미 다 있는 경기"도 더 이상 완전히 스킵하지 않고,
+//    매번 이름이 최신인지 확인한다(달라진 게 없으면 그냥 스킵 로그만 찍고 파일은 안 건드림).
 
 import fs from 'fs';
 import path from 'path';
@@ -147,6 +154,24 @@ function buildNaverPhotoUrl(pCode) {
   return `https://sports-phinf.pstatic.net/player/npb/default/${pCode}.png`;
 }
 
+// "선발투수 다케우치 (10-5, 3.20)|https://..." 같은 줄에서 이름 부분만 newName으로 교체.
+// ERA/승패 괄호, 사진 URL은 그대로 유지. newName이 없거나 줄 형식이 안 맞으면 원본 그대로 반환.
+function replacePitcherName(line, newName) {
+  const str = String(line);
+  const m = str.match(/^선발투수\s+(.+)$/);
+  if (!m || !newName) return str;
+
+  const rest = m[1]; // 예: "다케우치 (10-5, 3.20)|https://..." 또는 "다케우치"
+  const barIdx = rest.indexOf('|');
+  const withoutPhoto = barIdx === -1 ? rest : rest.slice(0, barIdx);
+  const photoSuffix = barIdx === -1 ? '' : rest.slice(barIdx); // "|https://..." 또는 ""
+
+  const statsMatch = withoutPhoto.match(/^(.+?)\s(\([^)]*\))\s*$/);
+  const statsSuffix = statsMatch ? ` ${statsMatch[2]}` : ''; // " (10-5, 3.20)" 또는 ""
+
+  return `선발투수 ${newName}${statsSuffix}${photoSuffix}`;
+}
+
 // game-polling 응답의 batterLineup.home/away 배열(타순 순서대로 옴) → "N번 이름 (포지션)|사진" 배열
 function buildBatterLines(batterLineup) {
   if (!Array.isArray(batterLineup) || batterLineup.length === 0) return [];
@@ -174,7 +199,7 @@ async function fetchNaverGamePolling(gameId) {
 }
 
 async function main() {
-  console.log('📸 NPB 타자 라인업+사진 보강 시작\n');
+  console.log('📸 NPB 타자 라인업+사진 / 선발투수 이름 보강 시작\n');
 
   const args = process.argv.slice(2);
   const postFiles = args.length > 0
@@ -221,13 +246,10 @@ async function main() {
       continue;
     }
 
-    // 타자 줄("N번 ")이 이미 있으면 완료 — NPB는 한 번에 통째로 확정되므로 부분 병합 불필요
+    // 타자 줄("N번 ")이 이미 있으면 타자 쪽은 완료 — NPB는 한 번에 통째로 확정되므로 부분 병합 불필요.
+    // (단, 투수 이름 교체는 타자 완료 여부와 무관하게 매번 확인해야 하므로 여기서 스킵하지 않음)
     const homeHasBatters = homeStored.some(l => /^\d+번\s/.test(String(l)));
     const awayHasBatters = awayStored.some(l => /^\d+번\s/.test(String(l)));
-    if (homeHasBatters && awayHasBatters) {
-      skipCount++;
-      continue;
-    }
 
     if (!fm.date) {
       skipCount++;
@@ -251,33 +273,45 @@ async function main() {
     const batterLineup = result?.textRelayData?.baseInfo?.batterLineup;
     const homeBatters = batterLineup?.home;
     const awayBatters = batterLineup?.away;
+    const homeStarterName = result?.game?.homeStarterName || null;
+    const awayStarterName = result?.game?.awayStarterName || null;
 
-    if ((!homeBatters || homeBatters.length === 0) && (!awayBatters || awayBatters.length === 0)) {
-      console.log(`   ⚠️ 타자 라인업 아직 없음 (다음 실행에서 재시도)`);
-      skipCount++;
-      continue;
+    // 각 사이드: 선발투수 이름 교체(있으면) + 타자 줄 추가(아직 없으면)를 함께 계산
+    function rebuildSide(storedLines, hasBatters, batters, starterName) {
+      let changed = false;
+      let lines = storedLines.map(l => {
+        if (!String(l).startsWith('선발투수')) return l;
+        const replaced = replacePitcherName(l, starterName);
+        if (replaced !== l) changed = true;
+        return replaced;
+      });
+      let addedBatters = 0;
+      if (!hasBatters && batters?.length > 0) {
+        lines = [...lines, ...buildBatterLines(batters)];
+        addedBatters = batters.length;
+        changed = true;
+      }
+      return { lines, changed, addedBatters };
     }
+
+    const homeResult = rebuildSide(homeStored, homeHasBatters, homeBatters, homeStarterName);
+    const awayResult = rebuildSide(awayStored, awayHasBatters, awayBatters, awayStarterName);
 
     const updates = {};
-
-    if (!homeHasBatters && homeBatters?.length > 0) {
-      const lines = [...homeStored, ...buildBatterLines(homeBatters)];
-      updates.homeLineup = JSON.stringify(lines);
-    }
-    if (!awayHasBatters && awayBatters?.length > 0) {
-      const lines = [...awayStored, ...buildBatterLines(awayBatters)];
-      updates.awayLineup = JSON.stringify(lines);
-    }
+    if (homeResult.changed) updates.homeLineup = JSON.stringify(homeResult.lines);
+    if (awayResult.changed) updates.awayLineup = JSON.stringify(awayResult.lines);
 
     if (Object.keys(updates).length === 0) {
-      console.log(`   ⚠️ 아직 발표 안 됨 (다음 실행에서 재시도)`);
+      console.log(`   ℹ️ 변경 없음 (타자 라인업 미발표 또는 이미 최신 상태 — 다음 실행에서 재시도)`);
       skipCount++;
       continue;
     }
 
     const ok = updateMdFrontmatter(filePath, updates);
     if (ok) {
-      console.log(`   🔄 타자 라인업 추가 완료 | 홈 ${updates.homeLineup ? homeBatters.length : '기존유지'}명 / 원정 ${updates.awayLineup ? awayBatters.length : '기존유지'}명`);
+      const homeNote = homeResult.addedBatters > 0 ? `타자 ${homeResult.addedBatters}명 추가` : (updates.homeLineup ? '투수명 교체' : '변경없음');
+      const awayNote = awayResult.addedBatters > 0 ? `타자 ${awayResult.addedBatters}명 추가` : (updates.awayLineup ? '투수명 교체' : '변경없음');
+      console.log(`   🔄 업데이트 완료 | 홈: ${homeNote} / 원정: ${awayNote}`);
       updatedCount++;
     }
   }
