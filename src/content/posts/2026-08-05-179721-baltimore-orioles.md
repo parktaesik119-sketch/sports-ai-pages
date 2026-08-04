@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.03","home":"볼티모어 오리올스","away":"필�
 awayRecent: '[{"date":"26.08.03","home":"LA 에인절스","away":"밀워키 브루어스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179686-2026-08-03-los-angeles-angels/"},{"date":"26.08.01","home":"LA 에인절스","away":"밀워키 브루어스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179662-2026-08-01-los-angeles-angels/"},{"date":"26.07.30","home":"LA 에인절스","away":"휴스턴 애스트로스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179641-2026-07-30-los-angeles-angels/"},{"date":"26.07.29","home":"LA 에인절스","away":"휴스턴 애스트로스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179625-2026-07-29-los-angeles-angels/"},{"date":"26.07.28","home":"LA 에인절스","away":"휴스턴 애스트로스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179615-2026-07-28-los-angeles-angels/"}]'
 injuryHome: "Chris Bassitt (수술)|Adley Rutschman (염증)|Samuel Basallo (염증)|Blaze Alexander (골절)|Ryan Helsley (염증)"
 injuryAway: "Sam Bachman (일상적 관리)|Adam Frazier (염증)|Sebastian Rivero (수술)|Ben Joyce (수술)|Yusei Kikuchi (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 G. Rodriguez (3-3, 7.98) ERA 7.98|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
 awayLineup: "[\"선발투수 R. Detmers (3-7, 4.03) ERA 4.03|https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png\"]"
 homeFormation: ""
 awayFormation: ""

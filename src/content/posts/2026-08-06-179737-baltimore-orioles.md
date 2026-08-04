@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.03","home":"LA 에인절스","away":"밀워키 브�
 injuryHome: "Chris Bassitt (수술)|Samuel Basallo (염증)|Blaze Alexander (골절)|Ryan Helsley (염증)|Felix Bautista (수술)"
 injuryAway: "Sam Bachman (일일 상태)|Adam Frazier (염증)|Sebastian Rivero (수술)|Ben Joyce (수술)|Yusei Kikuchi (염증)"
 homeLineup: "[\"선발투수 T. Rogers (6-7, 4.27) ERA 4.27|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
-awayLineup: "[\"선발투수 G. Rodriguez (3-3, 7.98) ERA 7.98|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
+awayLineup: "[\"선발투수 R. Detmers (3-7, 4.03) ERA 4.03|https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
