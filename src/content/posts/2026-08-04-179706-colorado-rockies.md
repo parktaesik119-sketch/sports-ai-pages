@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.03","home":"탬파베이 레이스","away":"시카�
 injuryHome: "Blas Castano (염좌)|Jaden Hill (건염)|Jeff Criswell (염좌)|McCade Brown (염증)|Jose Quintana (염좌)"
 injuryAway: "Gavin Lux (염증)|Steven Wilson (염증)|Cole Sulser (경련)|Jonathan Heasley (골절)|Jake Fraley (수술)"
 homeLineup: "[\"선발투수 G. Hughes (0-3, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 F. Peralta (5-9, 4.99) ERA 4.99|https://a.espncdn.com/i/headshots/mlb/players/full/39825.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
