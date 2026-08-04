@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.07.25","home":"AZ 알크마르","away":"Olympiakos Pir
 awayRecent: '[{"date":"26.08.01","home":"NEC 네이메헌","away":"세비야","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1583504-2026-08-01-nec-nijmegen/"},{"date":"26.07.25","home":"NEC 네이메헌","away":"엘버스베르크","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1563001-2026-07-25-nec-nijmegen/"},{"date":"26.07.18","home":"NEC 네이메헌","away":"알파이하","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1560680-2026-07-18-nec-nijmegen/"},{"date":"26.07.15","home":"NEC 네이메헌","away":"V파렌 나가사키","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1560608-2026-07-15-nec-nijmegen/"},{"date":"26.07.11","home":"안데를레흐트","away":"NEC 네이메헌","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1560568-2026-07-11-anderlecht/"}]'
 injuryHome: "Yusuf Yazici[주요](십자 인대 부상 - 복귀예정 Late January 2027)"
 injuryAway: "Freek Entius[주요](무릎 부상 - 복귀예정 A few days)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Balsa Popovic (GK)|https://images.fotmob.com/image_resources/playerimages/1683553.png\",\"Manolis Saliakas (MF)|https://images.fotmob.com/image_resources/playerimages/530197.png\",\"Panagiotis Retsos (DF)|https://images.fotmob.com/image_resources/playerimages/719055.png\",\"David Carmo (DF)|https://images.fotmob.com/image_resources/playerimages/954962.png\",\"Bruno Onyemaechi (DF)|https://images.fotmob.com/image_resources/playerimages/1287837.png\",\"Christos Mouzakitis (MF)|https://images.fotmob.com/image_resources/playerimages/1574198.png\",\"Dani García (MF)|https://images.fotmob.com/image_resources/playerimages/433311.png\",\"Rodinei (DF)|https://images.fotmob.com/image_resources/playerimages/400256.png\",\"Chiquinho (MF)|https://images.fotmob.com/image_resources/playerimages/566644.png\",\"Joel Roca (FW)|https://images.fotmob.com/image_resources/playerimages/1326043.png\",\"Ayoub El Kaabi (FW)|https://images.fotmob.com/image_resources/playerimages/884382.png\"]"
+awayLineup: "[\"Gonzalo Crettaz (GK)|https://images.fotmob.com/image_resources/playerimages/1082954.png\",\"Tobias Storm (DF)|https://images.fotmob.com/image_resources/playerimages/1386070.png\",\"Philippe Sandler (DF)|https://images.fotmob.com/image_resources/playerimages/773831.png\",\"Deveron Fonville (DF)|https://images.fotmob.com/image_resources/playerimages/1335315.png\",\"Sami Ouaissa (MF)|https://images.fotmob.com/image_resources/playerimages/1393117.png\",\"Jamiro Monteiro (MF)|https://images.fotmob.com/image_resources/playerimages/680905.png\",\"Darko Nejasmic (MF)|https://images.fotmob.com/image_resources/playerimages/1052861.png\",\"Noé Lebreton (MF)|https://images.fotmob.com/image_resources/playerimages/1366049.png\",\"Tjaronn Chery (MF)|https://images.fotmob.com/image_resources/playerimages/117541.png\",\"Clement Bischoff (FW)|https://images.fotmob.com/image_resources/playerimages/1436850.png\",\"Bryan Linssen (FW)|https://images.fotmob.com/image_resources/playerimages/147594.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "3-4-2-1"
+homeCoach: "José Luis Mendilibar|https://images.fotmob.com/image_resources/playerimages/96943.png"
+awayCoach: "Dick Schreuder|https://images.fotmob.com/image_resources/playerimages/1315527.png"
 pickWinTeam: ""
 pickWinResult: "무승부"
 pickHandicapTeam: ""
