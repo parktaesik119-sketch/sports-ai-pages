@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.02","home":"요미우리 자이언츠","away":"요�
 awayRecent: '[{"date":"26.08.02","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181201-2026-08-02-yakult-swallows/"},{"date":"26.08.01","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181192-2026-08-01-yakult-swallows/"},{"date":"26.07.26","home":"한신 타이거스","away":"요미우리 자이언츠","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181183-2026-07-26-hanshin-tigers/"},{"date":"26.07.25","home":"한신 타이거스","away":"요미우리 자이언츠","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181174-2026-07-25-hanshin-tigers/"},{"date":"26.07.24","home":"한신 타이거스","away":"요미우리 자이언츠","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181170-2026-07-24-hanshin-tigers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Katsuki Azuma (7-5, 2.65)|https://p.npb.jp/players_photo/2026/180/db/011_51155136.jpg\"]"
+awayLineup: "[\"선발투수 Haruto Takahashi (11-1, 1.70)|https://p.npb.jp/players_photo/2026/180/t/029_91095136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
