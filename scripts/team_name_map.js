@@ -1340,6 +1340,7 @@ const TEAM_NAME_MAP = {
   "Estudiantes L.P.": "에스투디안테스",
   "Tigre": "티그레",
   "Jaguares": "하우가레스 코르도바",
+  "CD Jaguares": "하우가레스 코르도바",
   "Popayan": "우니베르시타리오 포파얀",
 
   // 프리미어 디비전 (아일랜드)
