@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.03","home":"뉴욕 메츠","away":"마이애미 말
 injuryHome: "Shawn Armstrong (근육 염좌)"
 injuryAway: "Austin Warren (근육 염좌)|Dedniel Nunez (수술)|Justin Hagenman (골절)|Cionel Perez (근육 염좌)|Juan Soto (근육 염좌)"
 homeLineup: "[\"선발투수 S. Cecconi (4-7, 4.78) ERA 4.78|https://a.espncdn.com/i/headshots/mlb/players/full/41462.png\"]"
-awayLineup: "[\"선발투수 N. McLean (7-7, 3.29) ERA 3.29|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
+awayLineup: "[\"선발투수 C. Scott (3-3, 2.99) ERA 2.99|https://a.espncdn.com/i/headshots/mlb/players/full/4414215.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
