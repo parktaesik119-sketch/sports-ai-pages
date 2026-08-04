@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.03","home":"샌디에이고 파드리스","away":"�
 injuryHome: "Tommy Troy (염좌)|Michael Soroka (긴장)|Jordan Lawlar (긴장)|Drey Jameson (염증)|Lourdes Gurriel Jr. (긴장)"
 injuryAway: "Samad Taylor (긴장)|David Morgan (염증)|Lucas Giolito (염증)|Jason Adam (긴장)|Nick Pivetta (긴장)"
 homeLineup: "[\"선발투수 E. Rodriguez (10-3, 2.48) ERA 2.48|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 R. Vasquez (6-6, 4.45) ERA 4.45|https://a.espncdn.com/i/headshots/mlb/players/full/4722847.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
