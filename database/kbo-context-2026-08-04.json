@@ -476,6 +476,13 @@
           "note": "15일"
         },
         {
+          "date": "2026-07-30",
+          "category": "치료·재활명단",
+          "team": "KIA",
+          "player": "김기훈(투수)",
+          "note": "94일"
+        },
+        {
           "date": "2026-07-26",
           "category": "부상자 명단",
           "team": "KIA",
@@ -1969,6 +1976,13 @@
           "note": "15일"
         },
         {
+          "date": "2026-07-30",
+          "category": "치료·재활명단",
+          "team": "KIA",
+          "player": "김기훈(투수)",
+          "note": "94일"
+        },
+        {
           "date": "2026-07-26",
           "category": "부상자 명단",
           "team": "KIA",
@@ -2027,11 +2041,90 @@
       "away": 7
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "최민석",
+      "away": "라일리"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "라일리",
+        "era": "3.09",
+        "war": "2.25",
+        "games": "13",
+        "inningsPerStart": "5.2",
+        "qs": "7",
+        "whip": "1.11"
+      },
+      "home": {
+        "name": "최민석",
+        "era": "2.64",
+        "war": "2.62",
+        "games": "19",
+        "inningsPerStart": "5.2",
+        "qs": "12",
+        "whip": "1.30"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "라일리",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "38.3%",
+            "avgSpeed": "147.7km/h"
+          },
+          {
+            "type": "포크",
+            "usageRate": "22.8%",
+            "avgSpeed": "132.8km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "20.4%",
+            "avgSpeed": "136.4km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "18.6%",
+            "avgSpeed": "130.8km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "최민석",
+        "pitches": [
+          {
+            "type": "투심",
+            "usageRate": "46.9%",
+            "avgSpeed": "142.4km/h"
+          },
+          {
+            "type": "커터",
+            "usageRate": "27.3%",
+            "avgSpeed": "138.5km/h"
+          },
+          {
+            "type": "스위퍼",
+            "usageRate": "12.1%",
+            "avgSpeed": "126.1km/h"
+          },
+          {
+            "type": "포크",
+            "usageRate": "11.5%",
+            "avgSpeed": "135.9km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {

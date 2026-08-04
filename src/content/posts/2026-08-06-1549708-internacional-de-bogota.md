@@ -1,0 +1,37 @@
+---
+title: "Internacional de Bogota vs 하우가레스 코르도바 경기분석·라인업·결장자·통계·승부예측 (8월 6일) | Primera A - 픽천국"
+date: 2026-08-05T23:15:00+00:00
+description: "Internacional de Bogota vs 하우가레스 코르도바 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-1549708-2026-08-06-internacional-de-bogota"
+category: "soccer"
+country: "콜롬비아"
+league: "Primera A"
+homeTeam: "Internacional de Bogota"
+awayTeam: "하우가레스 코르도바"
+homeLogo: "https://media.api-sports.io/football/teams/1134.png"
+awayLogo: "https://media.api-sports.io/football/teams/1133.png"
+homeAnalysis: "인테르나시오나우 de Bogota는 2026시즌 전체 DB 기준 3승 0무 2패, 평균 득점 1.6으로 공격 전개가 비교적 분명한 편이며, 흐름도 승리와 패배가 번갈아 나오면서 경기별 기복은 있으나 홈에서의 응집력은 나쁘지 않습니다. 최근에는 아메리카 데 칼리전 패배가 있었지만 그 이전과 이후로 득점 장면을 만들며 반등하는 모습도 보여 주고 있습니다. 특히 홈 경기에서는 보야카 치코전 4득점처럼 한 번 흐름을 타면 화력이 살아나는 장면이 돋보입니다. 다만 실점이 많은 경기에서는 수비 간격이 흔들리는 모습도 있어, 공격 우위만큼이나 후방 안정이 중요해 보입니다. 이번 일정에서는 홈 이점과 상대전적 우세가 함께 맞물리면서 주도권을 잡을 가능성이 높아 보입니다."
+awayAnalysis: "하우가레스 코르도바는 2026시즌 전체 DB 기준 1승 1무 4패, 평균 득점 0.7로 공격 전개가 무겁고 득점 생산이 충분히 이어지지 못하는 모습입니다. 최근에도 무득점 패배가 반복되며, 한 경기에 수비적으로 버티지 못하면 경기 흐름이 쉽게 기울어지는 경향이 있습니다. 다만 홈에서는 한 차례 3득점 승리를 만들기도 했던 만큼 아예 답답한 팀이라기보다는, 상대 압박을 받는 구간에서 전개가 끊기는 장면이 더 문제로 보입니다. 원정에서는 득점 기대치가 낮아지고 수비 부담이 커지는 흐름이 이어지고 있어, 초반 실점 관리가 특히 중요해 보입니다. 상대전적에서도 밀리는 구도가 분명해서 이번 경기 역시 버티는 운영이 쉽지 않아 보입니다."
+homePower: "홈 경기에서 공격 완성도가 크게 살아나는 편임|상대전에서 실점 억제 패턴이 반복됨|득점이 터질 때 경기 운영이 안정적으로 바뀜|수비 흔들림만 줄이면 주도권 유지 가능함|상대의 낮은 득점력과 상성이 좋은 편임"
+awayPower: "원정에서 득점 생산이 크게 떨어짐|실점 후 추격 전개가 매끄럽지 못함|한 골 싸움에서 마무리 집중력이 약함|수비적으로 버텨도 흐름 반전이 쉽지 않음|상대전 열세가 심리적 부담으로 작용함"
+h2h: '[{"date":"26.01.30","home":"하우가레스 코르도바","away":"Internacional de Bogota","score":"2-3"},{"date":"24.07.24","home":"Internacional de Bogota","away":"하우가레스 코르도바","score":"1-0"},{"date":"24.01.28","home":"하우가레스 코르도바","away":"Internacional de Bogota","score":"0-0"},{"date":"23.09.26","home":"Internacional de Bogota","away":"하우가레스 코르도바","score":"2-0"},{"date":"23.04.19","home":"하우가레스 코르도바","away":"Internacional de Bogota","score":"1-1"}]'
+summary: "인테르나시오나우 de Bogota는 2026시즌 전체 DB에서 3승 0무 2패로 하우가레스 코르도바의 1승 1무 4패보다 분명히 앞서 있으며, 득점 흐름도 더 안정적으로 이어지고 있습니다. 하우가레스 코르도바는 최근 경기에서 공격 완성도가 떨어지고 실점 관리도 흔들리는 모습이어서, 전력 차가 경기 내용으로 드러날 가능성이 높아 보입니다. 상대전적에서도 인테르나시오나우 de Bogota가 최근 우세를 이어가고 있어, 전체적인 흐름은 홈팀이 주도권을 잡는 방향으로 읽힙니다."
+homeRecent: '[{"date":"26.07.30","home":"인테르","away":"인테르","score":"1-2","result":"🟢승"},{"date":"26.07.27","home":"인테르","away":"아메리카 데 칼리","score":"0-2","result":"🟢승"},{"date":"26.07.22","home":"인테르","away":"인테르","score":"1-0","result":"🔴패"},{"date":"26.05.13","home":"아틀레티코 나시오날","away":"인테르","score":"7-1","result":"🔴패"},{"date":"26.05.10","home":"인테르","away":"아틀레티코 나시오날","score":"1-2","result":"🟢승"}]'
+awayRecent: '[{"date":"26.08.03","home":"하우가레스 코르도바","away":"아틀레티코 나시오날","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1549700-2026-08-03-jaguares/"},{"date":"26.07.25","home":"데포르티보 칼리","away":"하우가레스 코르도바","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1549686-2026-07-25-deportivo-cali/"},{"date":"26.05.27","home":"데포르티보 페레이라","away":"하우가레스 코르도바","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544288-2026-05-27-deportivo-pereira/"},{"date":"26.05.22","home":"하우가레스 코르도바","away":"Ind. Yumbo","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544280-2026-05-22-jaguares/"},{"date":"26.05.11","home":"Águilas Doradas","away":"하우가레스 코르도바","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544261-2026-05-11-guilas-doradas/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "인테르나시오나우 de Bogota"
+pickWinResult: "승"
+pickHandicapTeam: "인테르나시오나우 de Bogota"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

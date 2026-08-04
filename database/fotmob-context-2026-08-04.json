@@ -1628,10 +1628,10 @@
         "José García (DF)|https://images.fotmob.com/image_resources/playerimages/1562699.png",
         "Aldair Gutiérrez (DF)|https://images.fotmob.com/image_resources/playerimages/1319785.png",
         "Fredy Hinestroza (DF)|https://images.fotmob.com/image_resources/playerimages/323438.png",
-        "Emerson Batalla (MF)|https://images.fotmob.com/image_resources/playerimages/1190851.png",
+        "Fabry Castro (MF)|https://images.fotmob.com/image_resources/playerimages/466633.png",
         "Leonardo Flores (MF)|https://images.fotmob.com/image_resources/playerimages/921607.png",
         "Fabián Sambueza (MF)|https://images.fotmob.com/image_resources/playerimages/615929.png",
-        "Fabry Castro (MF)|https://images.fotmob.com/image_resources/playerimages/466633.png",
+        "Emerson Batalla (MF)|https://images.fotmob.com/image_resources/playerimages/1190851.png",
         "Luciano Pons (FW)|https://images.fotmob.com/image_resources/playerimages/412815.png"
       ],
       "away": [
@@ -4120,5 +4120,1319 @@
       "home": "Sebastián Oliveros|https://images.fotmob.com/image_resources/playerimages/1601929.png",
       "away": "Luis Perea|https://images.fotmob.com/image_resources/playerimages/33636.png"
     }
+  },
+  {
+    "home": "Millonarios",
+    "away": "Deportivo Pasto",
+    "date": "2026-08-05T01:20:00+00:00",
+    "league": "Primera A",
+    "injuries": {
+      "home": [
+        {
+          "name": "James Aguirre",
+          "status": "근육 부상",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Radamel Falcao",
+          "status": "부상",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Matías Pisano",
+          "status": "부상",
+          "detail": "Early August 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-01-29T01:30:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-09-11T00:30:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-02-01T22:10:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-12-09T00:00:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-11-20T23:30:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-11-03T23:20:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-04-14T23:20:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2023-07-16T01:20:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-03-23T01:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-07-09T23:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-01-22T01:05:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-07-19T01:00:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2021-02-18T23:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2020-01-27T00:30:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-09-15T22:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-05-25T22:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-05-18T19:00:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-03-23T20:15:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-10-15T23:00:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-04-11T01:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-09-24T22:15:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-04-16T00:45:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-09-06T00:00:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-02-13T22:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-07-12T22:30:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-03-26T01:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-08-17T01:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-02-15T22:00:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-11-30T22:45:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-11-23T22:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-08-25T22:30:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-03-24T22:30:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-12-02T22:30:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-11-25T22:30:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-10-28T22:30:00.000Z",
+        "home": "Deportivo Pasto",
+        "away": "Millonarios",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-05-13T01:00:00.000Z",
+        "home": "Millonarios",
+        "away": "Deportivo Pasto",
+        "homeScore": 1,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-23T20:00:00.000Z",
+          "home": "Millonarios",
+          "away": "Chico FC",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-26T22:00:00.000Z",
+          "home": "Millonarios",
+          "away": "O'Higgins",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-30T01:10:00.000Z",
+          "home": "Atletico FC",
+          "away": "Millonarios",
+          "homeScore": 1,
+          "awayScore": 8
+        },
+        {
+          "date": "2026-07-25T23:10:00.000Z",
+          "home": "Millonarios",
+          "away": "Bucaramanga",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-02T01:15:00.000Z",
+          "home": "Junior FC",
+          "away": "Millonarios",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-13T23:00:00.000Z",
+          "home": "Deportivo Pasto",
+          "away": "Tolima",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-22T00:00:00.000Z",
+          "home": "Deportivo Pasto",
+          "away": "Bogota FC",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-25T21:05:00.000Z",
+          "home": "Independiente Medellin",
+          "away": "Deportivo Pasto",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-29T00:00:00.000Z",
+          "home": "Bogota FC",
+          "away": "Deportivo Pasto",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-01T19:00:00.000Z",
+          "home": "Deportivo Pasto",
+          "away": "Aguilas Doradas",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Javier Burrai (GK)|https://images.fotmob.com/image_resources/playerimages/262597.png",
+        "Andrés Llinás (DF)|https://images.fotmob.com/image_resources/playerimages/1130853.png",
+        "Sergio Mosquera (DF)|https://images.fotmob.com/image_resources/playerimages/496937.png",
+        "Jorge Arias (DF)|https://images.fotmob.com/image_resources/playerimages/344139.png",
+        "Jhomier Guerrero (DF)|https://images.fotmob.com/image_resources/playerimages/1353655.png",
+        "Sebastián Valencia (DF)|https://images.fotmob.com/image_resources/playerimages/1772540.png",
+        "Francisco Chaverra (MF)|https://images.fotmob.com/image_resources/playerimages/1310086.png",
+        "Mateo García (MF)|https://images.fotmob.com/image_resources/playerimages/1403320.png",
+        "Rodrigo Ureña (MF)|https://images.fotmob.com/image_resources/playerimages/304875.png",
+        "Daniel Ruiz (MF)|https://images.fotmob.com/image_resources/playerimages/1266136.png",
+        "Rodrigo Contreras (FW)|https://images.fotmob.com/image_resources/playerimages/410434.png"
+      ],
+      "away": [
+        "Ederson Cabezas (GK)|https://images.fotmob.com/image_resources/playerimages/1513184.png",
+        "Mateo Garavito (DF)|https://images.fotmob.com/image_resources/playerimages/1330783.png",
+        "Enrique Serje (DF)|https://images.fotmob.com/image_resources/playerimages/860916.png",
+        "Julián Quiñónes (DF)|https://images.fotmob.com/image_resources/playerimages/341597.png",
+        "Joyce Ossa (DF)|https://images.fotmob.com/image_resources/playerimages/1308328.png",
+        "Joider Micolta (MF)|https://images.fotmob.com/image_resources/playerimages/1348510.png",
+        "Yéiler Góez (MF)|https://images.fotmob.com/image_resources/playerimages/1130929.png",
+        "Diego Chávez (MF)|https://images.fotmob.com/image_resources/playerimages/988175.png",
+        "Matías Pisano (MF)|https://images.fotmob.com/image_resources/playerimages/193928.png",
+        "Jorge Obregón (FW)|https://images.fotmob.com/image_resources/playerimages/830159.png",
+        "Santiago Córdoba (FW)|https://images.fotmob.com/image_resources/playerimages/1334882.png"
+      ]
+    },
+    "formation": {
+      "home": "5-4-1",
+      "away": "4-4-2"
+    },
+    "coach": {
+      "home": "Fabián Bustos|https://images.fotmob.com/image_resources/playerimages/497155.png",
+      "away": "Wilson Morelo|https://images.fotmob.com/image_resources/playerimages/166863.png"
+    }
+  },
+  {
+    "home": "Aarhus",
+    "away": "Sabah FA",
+    "date": "2026-08-05T16:30:00+00:00",
+    "league": "UEFA Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jacob Andersen",
+          "status": "부상",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Kevin Yakob",
+          "status": "부상",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Tobias Mølgaard",
+          "status": "부상",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Markus Solbakken",
+          "status": "부상",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Nicolai Poulsen",
+          "status": "부상",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-15T12:00:00.000Z",
+          "home": "AGF",
+          "away": "AC Horsens",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-21T17:00:00.000Z",
+          "home": "AGF",
+          "away": "Lech Poznań",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-07-25T16:00:00.000Z",
+          "home": "AGF",
+          "away": "Brøndby IF",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-29T17:00:00.000Z",
+          "home": "Lech Poznań",
+          "away": "AGF",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-08-01T16:00:00.000Z",
+          "home": "Lyngby",
+          "away": "AGF",
+          "homeScore": 2,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-22T13:00:00.000Z",
+          "home": "Turan Tovuz",
+          "away": "Sabah FK",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-07T16:00:00.000Z",
+          "home": "Sabah FK",
+          "away": "TNS",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-14T17:30:00.000Z",
+          "home": "TNS",
+          "away": "Sabah FK",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-21T16:00:00.000Z",
+          "home": "Sabah FK",
+          "away": "KuPS",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-28T15:00:00.000Z",
+          "home": "KuPS",
+          "away": "Sabah FK",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Mads Hedenstad Christiansen (GK)|https://images.fotmob.com/image_resources/playerimages/855890.png",
+        "Christian Storch (DF)|https://images.fotmob.com/image_resources/playerimages/1752363.png",
+        "Frederik Tingager (DF)|https://images.fotmob.com/image_resources/playerimages/371728.png",
+        "Mouhammade Camara (DF)|https://images.fotmob.com/image_resources/playerimages/2093305.png",
+        "Mikael Anderson (MF)|https://images.fotmob.com/image_resources/playerimages/723695.png",
+        "Oskar Haugstrup (MF)|https://images.fotmob.com/image_resources/playerimages/1735790.png",
+        "Jens Jønsson (MF)|https://images.fotmob.com/image_resources/playerimages/274334.png",
+        "Frederik Emmery (MF)|https://images.fotmob.com/image_resources/playerimages/1645317.png",
+        "Tobias Bech (FW)|https://images.fotmob.com/image_resources/playerimages/981047.png",
+        "James Bogere (FW)|https://images.fotmob.com/image_resources/playerimages/1843410.png",
+        "Kristian Arnstad (FW)|https://images.fotmob.com/image_resources/playerimages/1053293.png"
+      ],
+      "away": [
+        "Stas Pokatilov (GK)|https://images.fotmob.com/image_resources/playerimages/489507.png",
+        "Akim Zedadka (DF)|https://images.fotmob.com/image_resources/playerimages/542777.png",
+        "Steve Solvet (DF)|https://images.fotmob.com/image_resources/playerimages/764834.png",
+        "Rahman Dasdamirov (DF)|https://images.fotmob.com/image_resources/playerimages/1441450.png",
+        "Tymoteusz Puchacz (DF)|https://images.fotmob.com/image_resources/playerimages/823121.png",
+        "Umarali Rakhmonaliev (MF)|https://images.fotmob.com/image_resources/playerimages/1429286.png",
+        "Ivan Lepinjica (MF)|https://images.fotmob.com/image_resources/playerimages/906920.png",
+        "Kaheem Parris (FW)|https://images.fotmob.com/image_resources/playerimages/876149.png",
+        "Aleksey Isaev (MF)|https://images.fotmob.com/image_resources/playerimages/688887.png",
+        "Veljko Simic (FW)|https://images.fotmob.com/image_resources/playerimages/458807.png",
+        "Joy-Lance Mickels (FW)|https://images.fotmob.com/image_resources/playerimages/617465.png"
+      ]
+    },
+    "formation": {
+      "home": "3-4-3",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Jakob Poulsen|https://images.fotmob.com/image_resources/playerimages/26479.png",
+      "away": "Valdas Dambrauskas|https://images.fotmob.com/image_resources/playerimages/551679.png"
+    }
+  },
+  {
+    "home": "Brann",
+    "away": "Apollon Limassol",
+    "date": "2026-08-05T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jonas Torsvik",
+          "status": "발목 부상",
+          "detail": "Mid August 2026"
+        },
+        {
+          "name": "Nana Boakye",
+          "status": "무릎 부상",
+          "detail": "Out for season"
+        },
+        {
+          "name": "Sakarias Opsahl",
+          "status": "발 부상",
+          "detail": "Mid August 2026"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-18T16:00:00.000Z",
+          "home": "Molde",
+          "away": "Brann",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-23T17:00:00.000Z",
+          "home": "Universitatea Cluj",
+          "away": "Brann",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-26T12:30:00.000Z",
+          "home": "Brann",
+          "away": "Vålerenga",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-30T17:00:00.000Z",
+          "home": "Brann",
+          "away": "Universitatea Cluj",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-02T17:15:00.000Z",
+          "home": "Brann",
+          "away": "Rosenborg",
+          "homeScore": 3,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-22T14:30:00.000Z",
+          "home": "Omonia Nicosia",
+          "away": "Apollon Limassol",
+          "homeScore": 5,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-29T16:00:00.000Z",
+          "home": "Apollon Limassol",
+          "away": "Pafos FC",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-11T11:00:00.000Z",
+          "home": "Go Ahead Eagles",
+          "away": "Apollon Limassol",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-23T16:00:00.000Z",
+          "home": "Dila Gori",
+          "away": "Apollon Limassol",
+          "homeScore": 0,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-07-28T17:00:00.000Z",
+          "home": "Apollon Limassol",
+          "away": "Dila Gori",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Mathias Dyngeland (GK)|https://images.fotmob.com/image_resources/playerimages/354136.png",
+        "Denzel De Roeve (DF)|https://images.fotmob.com/image_resources/playerimages/1232229.png",
+        "Fredrik Pallesen Knudsen (DF)|https://images.fotmob.com/image_resources/playerimages/601990.png",
+        "Thore Pedersen (DF)|https://images.fotmob.com/image_resources/playerimages/444485.png",
+        "Joachim Soltvedt (DF)|https://images.fotmob.com/image_resources/playerimages/538644.png",
+        "Niklas Jensen Wassberg (MF)|https://images.fotmob.com/image_resources/playerimages/1233201.png",
+        "Jacob Lungi Sørensen (MF)|https://images.fotmob.com/image_resources/playerimages/738046.png",
+        "Felix Horn Myhre (MF)|https://images.fotmob.com/image_resources/playerimages/632885.png",
+        "Eggert Gudmundsson (MF)|https://images.fotmob.com/image_resources/playerimages/1088860.png",
+        "Noah Holm (FW)|https://images.fotmob.com/image_resources/playerimages/1186576.png",
+        "Niklas Castro (FW)|https://images.fotmob.com/image_resources/playerimages/630366.png"
+      ],
+      "away": [
+        "Peter Leeuwenburgh (GK)|https://images.fotmob.com/image_resources/playerimages/467475.png",
+        "Bruno Gaspar (DF)|https://images.fotmob.com/image_resources/playerimages/361763.png",
+        "Leonidas Konomis (DF)|https://images.fotmob.com/image_resources/playerimages/1602136.png",
+        "Josef Kvida (DF)|https://images.fotmob.com/image_resources/playerimages/651113.png",
+        "Giorgios Malekkides (DF)|https://images.fotmob.com/image_resources/playerimages/680791.png",
+        "Morgan Brown (MF)|https://images.fotmob.com/image_resources/playerimages/1290350.png",
+        "Gaétan Weissbeck (MF)|https://images.fotmob.com/image_resources/playerimages/764836.png",
+        "Ivan Ljubic (MF)|https://images.fotmob.com/image_resources/playerimages/768321.png",
+        "Daniel Escriche (FW)|https://images.fotmob.com/image_resources/playerimages/850006.png",
+        "Alen Ozbolt (FW)|https://images.fotmob.com/image_resources/playerimages/512017.png",
+        "Brandon (FW)|https://images.fotmob.com/image_resources/playerimages/407978.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "4-3-3"
+    },
+    "coach": {
+      "home": "Eirik Horneland|https://images.fotmob.com/image_resources/playerimages/28181.png",
+      "away": "Hernán Losada|https://images.fotmob.com/image_resources/playerimages/36863.png"
+    }
+  },
+  {
+    "home": "Fenerbahçe",
+    "away": "Sturm Graz",
+    "date": "2026-08-05T18:00:00+00:00",
+    "league": "UEFA Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Mert Hakan Yandas",
+          "status": "부상",
+          "detail": "Early May 2027"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2017-08-03T17:30:00.000Z",
+        "home": "Fenerbahçe",
+        "away": "Sturm Graz",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-07-27T17:00:00.000Z",
+        "home": "Sturm Graz",
+        "away": "Fenerbahçe",
+        "homeScore": 1,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-08T17:30:00.000Z",
+          "home": "Admira Wacker",
+          "away": "Fenerbahçe",
+          "homeScore": 0,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-07-11T17:30:00.000Z",
+          "home": "Fenerbahçe",
+          "away": "Pogoń Szczecin",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-14T17:30:00.000Z",
+          "home": "LASK",
+          "away": "Fenerbahçe",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-21T18:00:00.000Z",
+          "home": "Fenerbahçe",
+          "away": "Górnik Zabrze",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-29T18:00:00.000Z",
+          "home": "Górnik Zabrze",
+          "away": "Fenerbahçe",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-17T12:30:00.000Z",
+          "home": "Sturm Graz",
+          "away": "Rapid Wien",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-21T18:30:00.000Z",
+          "home": "Sturm Graz",
+          "away": "Heart of Midlothian",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-24T18:30:00.000Z",
+          "home": "Seekirchen",
+          "away": "Sturm Graz",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-07-28T18:45:00.000Z",
+          "home": "Heart of Midlothian",
+          "away": "Sturm Graz",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-01T15:00:00.000Z",
+          "home": "WSG Tirol",
+          "away": "Sturm Graz",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Mert Günok (GK)|https://images.fotmob.com/image_resources/playerimages/150372.png",
+        "Nélson Semedo (DF)|https://images.fotmob.com/image_resources/playerimages/470834.png",
+        "Milan Skriniar (DF)|https://images.fotmob.com/image_resources/playerimages/309328.png",
+        "Nathan Aké (DF)|https://images.fotmob.com/image_resources/playerimages/417068.png",
+        "Jayden Oosterwolde (DF)|https://images.fotmob.com/image_resources/playerimages/1174351.png",
+        "Mattéo Guendouzi (MF)|https://images.fotmob.com/image_resources/playerimages/800609.png",
+        "Fred (MF)|https://images.fotmob.com/image_resources/playerimages/322049.png",
+        "Irfan Kahveci (FW)|https://images.fotmob.com/image_resources/playerimages/316544.png",
+        "Marco Asensio (MF)|https://images.fotmob.com/image_resources/playerimages/498033.png",
+        "Kerem Aktürkoglu (FW)|https://images.fotmob.com/image_resources/playerimages/1117570.png",
+        "Talisca (MF)|https://images.fotmob.com/image_resources/playerimages/450011.png"
+      ],
+      "away": [
+        "Daniil Khudyakov (GK)|https://images.fotmob.com/image_resources/playerimages/1248004.png",
+        "Albert Vallci (DF)|https://images.fotmob.com/image_resources/playerimages/539087.png",
+        "Jürgen Heil (DF)|https://images.fotmob.com/image_resources/playerimages/861777.png",
+        "Paul-Friedrich Koller (DF)|https://images.fotmob.com/image_resources/playerimages/1002670.png",
+        "Jacob Hödl (MF)|https://images.fotmob.com/image_resources/playerimages/1587610.png",
+        "Jon Gorenc Stankovic (MF)|https://images.fotmob.com/image_resources/playerimages/446392.png",
+        "Ryan Fosso (MF)|https://images.fotmob.com/image_resources/playerimages/1384426.png",
+        "Emran Soglo (MF)|https://images.fotmob.com/image_resources/playerimages/1525418.png",
+        "Belmin Beganovic (MF)|https://images.fotmob.com/image_resources/playerimages/1385185.png",
+        "Szymon Wlodarczyk (FW)|https://images.fotmob.com/image_resources/playerimages/1116778.png",
+        "Simon Seidl (MF)|https://images.fotmob.com/image_resources/playerimages/1385123.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "3-4-3"
+    },
+    "coach": {
+      "home": "Ismail Kartal|https://images.fotmob.com/image_resources/playerimages/574952.png",
+      "away": "Fabio Ingolitsch|https://images.fotmob.com/image_resources/playerimages/1381501.png"
+    }
+  },
+  {
+    "home": "Ferencvarosi TC",
+    "away": "Gornik Zabrze",
+    "date": "2026-08-05T18:15:00+00:00",
+    "league": "UEFA Europa League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Daniel Arzani",
+          "status": "햄스트링 부상",
+          "detail": "A few days"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jaroslaw Kubicki",
+          "status": "부상",
+          "detail": "Mid September 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-16T18:15:00.000Z",
+          "home": "Ferencvaros",
+          "away": "Vojvodina",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-23T18:00:00.000Z",
+          "home": "FC Twente",
+          "away": "Ferencvaros",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-26T18:00:00.000Z",
+          "home": "Paksi SE",
+          "away": "Ferencvaros",
+          "homeScore": 4,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-30T18:30:00.000Z",
+          "home": "Ferencvaros",
+          "away": "FC Twente",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-02T15:30:00.000Z",
+          "home": "Ferencvaros",
+          "away": "Vasas Budapest",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-10T15:00:00.000Z",
+          "home": "Nordsjælland",
+          "away": "Górnik Zabrze",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-16T17:00:00.000Z",
+          "home": "Lech Poznań",
+          "away": "Górnik Zabrze",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-21T18:00:00.000Z",
+          "home": "Fenerbahçe",
+          "away": "Górnik Zabrze",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-25T15:30:00.000Z",
+          "home": "Górnik Zabrze",
+          "away": "Śląsk Wrocław",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-29T18:00:00.000Z",
+          "home": "Górnik Zabrze",
+          "away": "Fenerbahçe",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Dénes Dibusz (GK)|https://images.fotmob.com/image_resources/playerimages/274023.png",
+        "Attila Osváth (DF)|https://images.fotmob.com/image_resources/playerimages/643975.png",
+        "Toon Raemaekers (DF)|https://images.fotmob.com/image_resources/playerimages/1112499.png",
+        "Nathan Zohoré (DF)|https://images.fotmob.com/image_resources/playerimages/1073858.png",
+        "Cadu (MF)|https://images.fotmob.com/image_resources/playerimages/1165547.png",
+        "Philippe Rommens (MF)|https://images.fotmob.com/image_resources/playerimages/583138.png",
+        "Márius Corbu (MF)|https://images.fotmob.com/image_resources/playerimages/1094989.png",
+        "Edgar Sevikyan (FW)|https://images.fotmob.com/image_resources/playerimages/1128940.png",
+        "Bamidele Yusuf (FW)|https://images.fotmob.com/image_resources/playerimages/1133802.png",
+        "Krisztián Lisztes (FW)|https://images.fotmob.com/image_resources/playerimages/1364056.png",
+        "Ádám Bagi (FW)|https://images.fotmob.com/image_resources/playerimages/1418927.png"
+      ],
+      "away": [
+        "Philipp Schulze (GK)|https://images.fotmob.com/image_resources/playerimages/1286191.png",
+        "Michal Sácek (DF)|https://images.fotmob.com/image_resources/playerimages/737375.png",
+        "Rafal Janicki (DF)|https://images.fotmob.com/image_resources/playerimages/237620.png",
+        "Josema (DF)|https://images.fotmob.com/image_resources/playerimages/751190.png",
+        "Erik Janza (DF)|https://images.fotmob.com/image_resources/playerimages/274073.png",
+        "Lukás Sadílek (MF)|https://images.fotmob.com/image_resources/playerimages/541565.png",
+        "Maximilian Dietz (MF)|https://images.fotmob.com/image_resources/playerimages/1281103.png",
+        "Kacper Urbanski (MF)|https://images.fotmob.com/image_resources/playerimages/1121295.png",
+        "Yvan Ikia Dimi (FW)|https://images.fotmob.com/image_resources/playerimages/1562396.png",
+        "Erik Prekop (FW)|https://images.fotmob.com/image_resources/playerimages/766606.png",
+        "Taofeek Ismaheel (FW)|https://images.fotmob.com/image_resources/playerimages/1035291.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-3-3"
+    },
+    "coach": {
+      "home": "Balázs Borbély|https://images.fotmob.com/image_resources/playerimages/27525.png",
+      "away": "Michal Gasparík|https://images.fotmob.com/image_resources/playerimages/69915.png"
+    }
+  },
+  {
+    "home": "Panathinaikos",
+    "away": "CSKA 1948",
+    "date": "2026-08-05T18:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-04T15:00:00.000Z",
+          "home": "Panathinaikos",
+          "away": "Ajax",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-11T18:00:00.000Z",
+          "home": "Panathinaikos",
+          "away": "Grasshopper",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-15T16:00:00.000Z",
+          "home": "Rapid Wien",
+          "away": "Panathinaikos",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-23T18:00:00.000Z",
+          "home": "Paksi SE",
+          "away": "Panathinaikos",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-30T18:30:00.000Z",
+          "home": "Panathinaikos",
+          "away": "Paksi SE",
+          "homeScore": 2,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-17T16:00:00.000Z",
+          "home": "Spartak Varna",
+          "away": "CSKA 1948",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-22T18:30:00.000Z",
+          "home": "Spartak Trnava",
+          "away": "CSKA 1948",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-25T16:00:00.000Z",
+          "home": "CSKA 1948",
+          "away": "Botev Vratsa",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-28T17:30:00.000Z",
+          "home": "CSKA 1948",
+          "away": "Spartak Trnava",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-31T18:15:00.000Z",
+          "home": "CSKA 1948",
+          "away": "Arda Kardzhali",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Iñaki Peña (GK)|https://images.fotmob.com/image_resources/playerimages/990996.png",
+        "Triantafyllos Tsapras (DF)|https://images.fotmob.com/image_resources/playerimages/1318666.png",
+        "Stefan de Vrij (DF)|https://images.fotmob.com/image_resources/playerimages/188555.png",
+        "Ahmed Touba (DF)|https://images.fotmob.com/image_resources/playerimages/792653.png",
+        "Giorgos Kyriakopoulos (DF)|https://images.fotmob.com/image_resources/playerimages/518633.png",
+        "Adriano Jagusic (MF)|https://images.fotmob.com/image_resources/playerimages/1515990.png",
+        "Étienne Camara (MF)|https://images.fotmob.com/image_resources/playerimages/1222191.png",
+        "Adam Gnezda Cerin (MF)|https://images.fotmob.com/image_resources/playerimages/863156.png",
+        "Anass Zaroury (FW)|https://images.fotmob.com/image_resources/playerimages/1069536.png",
+        "Andrews Tetteh (FW)|https://images.fotmob.com/image_resources/playerimages/1318701.png",
+        "Santino Andino Valencia (FW)|https://images.fotmob.com/image_resources/playerimages/1680164.png"
+      ],
+      "away": [
+        "Petar Marinov (GK)|https://images.fotmob.com/image_resources/playerimages/1617666.png",
+        "Dragan Grivic (DF)|https://images.fotmob.com/image_resources/playerimages/623062.png",
+        "Andre Hoffmann (DF)|https://images.fotmob.com/image_resources/playerimages/212915.png",
+        "Kostadin Iliev (DF)|https://images.fotmob.com/image_resources/playerimages/1159221.png",
+        "Fourat Soltani (DF)|https://images.fotmob.com/image_resources/playerimages/1235689.png",
+        "Florian Krebs (MF)|https://images.fotmob.com/image_resources/playerimages/952917.png",
+        "Petar Vitanov (MF)|https://images.fotmob.com/image_resources/playerimages/519950.png",
+        "Danylo Tarasenko (FW)|https://images.fotmob.com/image_resources/playerimages/1813461.png",
+        "Borislav Tsonev (MF)|https://images.fotmob.com/image_resources/playerimages/361707.png",
+        "Georgi Rusev (FW)|https://images.fotmob.com/image_resources/playerimages/861657.png",
+        "Mamadou Diallo (FW)|https://images.fotmob.com/image_resources/playerimages/1669446.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Jacob Neestrup|https://images.fotmob.com/image_resources/playerimages/31233.png",
+      "away": "Sasho Aleksandrov|https://images.fotmob.com/image_resources/playerimages/196408.png"
+    }
+  },
+  {
+    "home": "Internacional de Bogota",
+    "away": "Jaguares",
+    "date": "2026-08-05T23:15:00+00:00",
+    "league": "Primera A",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-01-29T23:10:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2024-07-23T23:10:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-01-27T23:10:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-09-25T21:15:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-04-19T01:10:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-10-08T00:45:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-04-16T23:10:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-09-04T23:05:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-02-18T21:00:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2020-09-25T23:00:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-10-24T20:30:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-05-01T23:00:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-07-27T23:00:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-02-11T21:00:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-07-19T21:00:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-02-12T20:15:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-09-11T22:30:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-04-03T15:00:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-09-13T19:00:00.000Z",
+        "home": "Internacional de Bogota",
+        "away": "CD Jaguares",
+        "homeScore": 4,
+        "awayScore": 3
+      },
+      {
+        "date": "2015-03-28T21:00:00.000Z",
+        "home": "CD Jaguares",
+        "away": "Internacional de Bogota",
+        "homeScore": 1,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-09T21:00:00.000Z",
+          "home": "Internacional de Bogota",
+          "away": "Atletico Nacional",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-12T23:20:00.000Z",
+          "home": "Atletico Nacional",
+          "away": "Internacional de Bogota",
+          "homeScore": 7,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-21T22:00:00.000Z",
+          "home": "Internacional de Bogota",
+          "away": "Internacional FC de Palmira",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-26T19:00:00.000Z",
+          "home": "Internacional de Bogota",
+          "away": "America de Cali",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-29T22:00:00.000Z",
+          "home": "Internacional FC de Palmira",
+          "away": "Internacional de Bogota",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-05-10T20:00:00.000Z",
+          "home": "Aguilas Doradas",
+          "away": "CD Jaguares",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-21T21:00:00.000Z",
+          "home": "CD Jaguares",
+          "away": "Independiente Valle del Cauca",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-26T20:30:00.000Z",
+          "home": "Deportivo Pereira",
+          "away": "CD Jaguares",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-25T01:15:00.000Z",
+          "home": "Deportivo Cali",
+          "away": "CD Jaguares",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-02T20:45:00.000Z",
+          "home": "CD Jaguares",
+          "away": "Atletico Nacional",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
   }
 ]
