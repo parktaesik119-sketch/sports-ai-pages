@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.04","home":"밀워키 브루어스","away":"피츠�
 awayRecent: '[{"date":"26.08.04","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179705-2026-08-04-milwaukee-brewers/"},{"date":"26.08.03","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"10-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179696-2026-08-03-cincinnati-reds/"},{"date":"26.08.02","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179680-2026-08-02-cincinnati-reds/"},{"date":"26.08.01","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179666-2026-08-01-cincinnati-reds/"},{"date":"26.07.31","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179652-2026-07-31-cincinnati-reds/"}]'
 injuryHome: "Kyle Harrison (근육통)|Rob Zastryzny (근육 염좌)|Sal Frelick (근육 염좌)|Joel Kuhnel (건염)|JoJo Romero (사유 없음)"
 injuryAway: "Evan Sisk (염증)|Chris Devenski (사유 확인 안 됨)|Oneil Cruz (골절)|Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)"
-homeLineup: ''
+homeLineup: "[\"선발투수 K. Harrison (8-2, 3.01) ERA 3.01|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 awayLineup: "[\"선발투수 P. Skenes (9-9, 3.90) ERA 3.90|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
 homeFormation: ""
 awayFormation: ""
