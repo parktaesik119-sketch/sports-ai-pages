@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.04","home":"필라델피아 필리스","away":"워�
 awayRecent: '[{"date":"26.08.04","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179702-2026-08-04-philadelphia-phillies/"},{"date":"26.08.03","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179699-2026-08-03-atlanta-braves/"},{"date":"26.08.02","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179683-2026-08-02-atlanta-braves/"},{"date":"26.08.01","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179669-2026-08-01-atlanta-braves/"},{"date":"26.07.31","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179654-2026-07-31-atlanta-braves/"}]'
 injuryHome: "Rafael Marchan (건염)|Tanner Banks (근육 염좌)|Johan Rojas (수술)|Adolis Garcia (수술)|Brad Keller (수술)"
 injuryAway: "Andres Chaparro (상태 불명 단기 결장)|Brad Lord (통증)|Drew Millas (골절)|Josiah Gray (근육 염좌)|DJ Herz (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Painter (1-8, 6.72) ERA 6.72|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
+awayLineup: "[\"선발투수 J. Irvin (2-5, 5.56) ERA 5.56|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

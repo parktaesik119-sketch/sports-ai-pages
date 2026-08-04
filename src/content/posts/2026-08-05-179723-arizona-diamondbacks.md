@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.03","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.08.03","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179692-2026-08-03-san-diego-padres/"},{"date":"26.08.01","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179660-2026-08-01-san-diego-padres/"},{"date":"26.07.31","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179649-2026-07-31-san-diego-padres/"},{"date":"26.07.30","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179636-2026-07-30-san-diego-padres/"},{"date":"26.07.27","home":"마이애미 말린스","away":"샌디에이고 파드리스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179599-2026-07-27-miami-marlins/"}]'
 injuryHome: "Gabriel Moreno (사유 미상 단기 결장)|Tommy Troy (염좌로 10일 부상자 명단)|Michael Soroka (근육 긴장으로 15일 부상자 명단)|Jordan Lawlar (근육 긴장으로 10일 부상자 명단)|Drey Jameson (염증으로 15일 부상자 명단)"
 injuryAway: "Samad Taylor (근육 긴장으로 10일 부상자 명단)|David Morgan (염증으로 15일 부상자 명단)|Lucas Giolito (염증으로 15일 부상자 명단)|Nick Pivetta (근육 긴장으로 60일 부상자 명단)|Miguel Andujar (골절로 10일 부상자 명단)"
-homeLineup: ''
+homeLineup: "[\"선발투수 M. Bratt (0-1, 5.23) ERA 5.23|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

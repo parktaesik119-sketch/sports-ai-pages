@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.04","home":"밀워키 브루어스","away":"피츠�
 injuryHome: "Kyle Harrison (근육통)|Rob Zastryzny (근육 염좌)|Sal Frelick (근육 염좌)|Joel Kuhnel (건염)|JoJo Romero (사유 없음)"
 injuryAway: "Evan Sisk (염증)|Chris Devenski (사유 확인 안 됨)|Oneil Cruz (골절)|Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 P. Skenes (9-9, 3.90) ERA 3.90|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
