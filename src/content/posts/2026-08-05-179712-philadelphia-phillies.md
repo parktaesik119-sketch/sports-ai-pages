@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.03","home":"애틀랜타 브레이브스","away":"�
 injuryHome: "Lou Trivino (경련)|Rafael Marchan (건염)|Tanner Banks (염좌)|Johan Rojas (수술)|Adolis Garcia (수술)"
 injuryAway: "Andres Chaparro (미지정)|Brad Lord (통증)|Drew Millas (골절)|Josiah Gray (염좌)|DJ Herz (염좌)"
 homeLineup: "[\"선발투수 J. Luzardo (9-5, 3.57) ERA 3.57|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
-awayLineup: "[\"선발투수 Z. Littell (7-8, 4.94) ERA 4.94|https://a.espncdn.com/i/headshots/mlb/players/full/36052.png\"]"
+awayLineup: "[\"선발투수 C. Palmquist (0-1, 7.31) ERA 7.31|https://a.espncdn.com/i/headshots/mlb/players/full/4621424.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
