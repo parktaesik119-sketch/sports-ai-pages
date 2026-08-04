@@ -1,0 +1,37 @@
+---
+title: "지바 롯데 마린스 vs 세이부 라이온즈 경기분석·라인업·결장자·통계·승부예측 (8월 5일) | NPB - 픽천국"
+date: 2026-08-05T09:00:00+00:00
+description: "지바 롯데 마린스 vs 세이부 라이온즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-181209-2026-08-05-chiba-lotte-marines"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "지바 롯데 마린스"
+awayTeam: "세이부 라이온즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/55.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/63.png"
+homeAnalysis: "지바 롯데 마린스는 2026시즌 67경기에서 32승 3무 32패, 평균 득점 3.6으로 승패 균형을 맞추고 있습니다. 다만 최근 10경기에서는 3승 7패로 흐름이 다소 꺾였고, 평균 득점도 3.1로 내려가 공격의 안정감이 예전보다 떨어져 보입니다. 그래도 홈에서는 라쿠텐 골든이글스를 상대로 10득점 경기를 만드는 등 한 번 터질 때 폭발력이 분명하고, 주중 경기에서도 초반 득점만 나와 주면 경기 운영이 나아지는 모습입니다. 반대로 0득점 패배도 자주 보여서, 타선이 초반부터 출루를 이어가느냐가 매우 중요합니다. 선발 Kazuya Ojima는 시즌 3.31의 평균자책점으로 완전히 무너지지 않는 흐름을 보여 주고 있어, 홈 마운드에서 긴 이닝을 버텨 주면 경기 균형을 끌고 갈 여지는 있습니다."
+awayAnalysis: "세이부 라이온즈는 2026시즌 72경기에서 42승 2무 28패, 평균 득점 3.8로 홈팀보다 시즌 전력이 한 단계 위에 있습니다. 최근 10경기에서도 6승 4패, 평균 득점 4.1로 공격 흐름이 더 살아 있고, 하위 타선까지 이어지는 생산력이 돋보입니다. 특히 오릭스 버팔로스를 상대로 연승을 만들며 실점 억제와 득점 효율을 함께 보여 준 점이 인상적입니다. 다만 소프트뱅크 호크스전과 니혼햄 파이터즈전에서는 실점이 크게 늘어난 장면도 있어, 상대 투수 유형에 따라 기복이 생길 수 있습니다. 선발 Kaima Taira는 시즌 1.16의 매우 낮은 평균자책점과 7승 2패를 기록하고 있어, 초반부터 마운드 주도권을 가져올 가능성이 높아 보입니다."
+homePower: "최근 홈에서 대량 득점과 침묵이 번갈아 나타나는 기복함|지바 롯데 마린스, 출루가 열리면 장타 연결력은 충분함|낮은 득점 경기에서도 접전 유지 능력은 크게 무너지지 않음|Kazuya Ojima의 3점대 초반 관리력은 긴 이닝 버팀목임|세이부 라이온즈 상대로는 한 번 흐름 잡으면 강한 상성 보임"
+awayPower: "세이부 라이온즈, 시즌 승률이 말해 주는 상위 전력임|최근 득점 상승으로 타선 응집력이 살아나는 모습임|Kaima Taira의 압도적 억제력으로 경기 초반 우위 가능함|실점이 늘어나는 상대를 만나면 빠르게 점수 차를 벌리는 힘 보임|원정에서도 공격 템포를 유지하는 운영 완성도가 검증됨"
+h2h: '[{"date":"26.07.16","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-181130-2026-07-16-seibu-lions/"},{"date":"26.07.15","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-3","link":"https://pick79.com/posts/detail/analyze-181127-2026-07-15-seibu-lions/"},{"date":"26.07.14","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-181118-2026-07-14-seibu-lions/"},{"date":"26.05.20","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-180867-2026-05-20-seibu-lions/"},{"date":"26.05.19","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-180865-2026-05-19-seibu-lions/"}]'
+summary: "세이부 라이온즈는 2026시즌 전체 전력과 최근 득점 흐름에서 지바 롯데 마린스보다 한 단계 앞서 있습니다. 지바 롯데 마린스가 홈에서 버티는 힘은 분명하지만, 최근에는 타선 기복이 커서 경기 내내 안정적으로 점수를 쌓는 그림이 자주 나오지 않고 있습니다. 반면 세이부 라이온즈는 최근 흐름이 더 안정적이고, 선발 Kaima Taira의 억제력이 매우 뛰어나 초반 주도권을 잡을 가능성이 높습니다. 상대전적도 팽팽한 장면이 있지만, 이번에는 마운드 안정감과 타선 효율에서 세이부 라이온즈가 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.02","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181198-2026-08-02-nippon-ham-fighters/"},{"date":"26.08.01","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181195-2026-08-01-nippon-ham-fighters/"},{"date":"26.07.31","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181186-2026-07-31-nippon-ham-fighters/"},{"date":"26.07.26","home":"오릭스 버팔로스","away":"지바 롯데 마린스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181182-2026-07-26-orix-buffaloes/"},{"date":"26.07.25","home":"오릭스 버팔로스","away":"지바 롯데 마린스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181176-2026-07-25-orix-buffaloes/"}]'
+awayRecent: '[{"date":"26.08.02","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181200-2026-08-02-seibu-lions/"},{"date":"26.08.01","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181194-2026-08-01-seibu-lions/"},{"date":"26.07.31","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181188-2026-07-31-seibu-lions/"},{"date":"26.07.26","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181180-2026-07-26-seibu-lions/"},{"date":"26.07.25","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181177-2026-07-25-seibu-lions/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세이부 라이온즈"
+pickWinResult: "승"
+pickHandicapTeam: "세이부 라이온즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

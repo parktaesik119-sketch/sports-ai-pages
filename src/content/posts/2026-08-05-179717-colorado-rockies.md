@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (8월 5일) | MLB - 픽천국"
+date: 2026-08-05T00:40:00+00:00
+description: "콜로라도 로키스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179717-2026-08-05-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://media.api-sports.io/baseball/teams/10.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/34.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 최근 62경기에서 26승 36패, 평균 득점 5.2를 기록하고 있어 공격 생산 자체는 나쁘지 않지만 결과로 이어지는 안정감은 다소 아쉬운 편입니다. 최근 흐름을 보면 평균 득점이 3.3으로 떨어지면서 득점 기복이 분명해졌고, 강하게 점수를 낸 경기와 함께 무득점에 가까운 경기들이 섞이며 전력이 흔들리는 모습이 보입니다. 다만 홈에서는 타선이 한 번 살아나면 대량 득점으로 분위기를 바꾸는 장면이 나와, 짧은 구간에서는 충분히 반등 여지를 보여주고 있습니다. 수비 쪽에서는 실점 억제가 흔들리는 날이 많아 접전에서 버티는 힘이 약해 보이지만, 홈에서는 경기 운영이 조금 더 편해지는 경향이 있습니다. 장기 결장자에 Jose Quintana, McCade Brown, Jaden Hill, Jeff Criswell, Blas Castano가 포함되어 있어 마운드 깊이와 운영 폭에는 분명 부담이 따르고 있습니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 최근 80경기에서 46승 30패, 평균 득점 4.1로 리그순위 1위답게 전반적인 전력 균형이 매우 안정적입니다. 최근 10경기에서도 7승 3패로 흐름이 좋고, 평균 득점은 2.9로 높지 않지만 필요한 순간에 점수를 지키는 경기 운영이 돋보입니다. 특히 최근에는 1점 차 승부와 저득점 경기를 잘 정리하면서 수비 집중력이 강점으로 평가되고 있습니다. 원정에서도 큰 흔들림 없이 경기를 풀어가는 모습이 이어지고 있어, 상대가 흐름을 가져가더라도 쉽게 무너지지 않는 전력입니다. 다만 Steven Wilson, Cole Sulser, Jonathan Heasley, Gavin Lux, Jake Fraley의 결장은 투수 운용과 야수 뎁스에 부담을 줄 수 있어, 장기 일정에서는 세밀한 로테이션 관리가 중요해 보입니다."
+homePower: "홈에서 한 번 살아나면 대량 득점으로 흐름 전환 가능함|득점 기복은 크지만 폭발력 자체는 분명한 편임|장기 결장 누적으로 마운드 뎁스 부담이 큰 상황임|홈 경기에서는 타선 응집력이 더 잘 드러나는 흐름임|상대전 0-4 패배로도 반격 동력은 남아 있는 모습임"
+awayPower: "리그순위 1위답게 경기 운영 완성도가 높음|저득점 승부를 지키는 수비 집중력이 강점임|최근 10경기 7승으로 흐름 관리가 잘 이뤄짐|장기 결장에도 전력 균형이 크게 흔들리지 않음|원정에서도 흔들림 적은 실리형 전개가 돋보임"
+h2h: '[{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"}]'
+summary: "콜로라도 로키스는 공격 잠재력은 분명하지만 실점 억제와 경기 마무리에서 흔들림이 있어, 최근 흐름만 놓고 보면 기복이 적지 않은 전력입니다. 반면 탬파베이 레이스는 리그순위 1위에 걸맞게 시즌 내내 균형이 좋고, 최근에도 승부처를 정리하는 힘이 이어지고 있어 전체적인 안정감에서 한 발 앞서 있습니다. 다만 콜로라도 로키스는 홈에서 타선이 살아나는 구간이 있고, 이번 경기에서는 양 팀 모두 저득점 흐름 속에서 팽팽한 접전 양상이 예상되며, 전력상으로는 탬파베이 레이스가 조금 더 우세해 보입니다."
+homeRecent: '[{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"},{"date":"26.07.30","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179636-2026-07-30-san-diego-padres/"},{"date":"26.07.27","home":"밀워키 브루어스","away":"콜로라도 로키스","score":"11-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179598-2026-07-27-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"},{"date":"26.08.02","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179673-2026-08-02-tampa-bay-rays/"},{"date":"26.08.01","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179658-2026-08-01-tampa-bay-rays/"},{"date":"26.07.31","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179647-2026-07-31-tampa-bay-rays/"}]'
+injuryHome: "Blas Castano (염좌)|Jaden Hill (건염)|Jeff Criswell (염좌)|McCade Brown (염증)|Jose Quintana (염좌)"
+injuryAway: "Steven Wilson (염증)|Cole Sulser (경련)|Jonathan Heasley (골절)|Gavin Lux (염증)|Jake Fraley (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "콜로라도 로키스"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 로키스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

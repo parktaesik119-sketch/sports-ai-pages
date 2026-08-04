@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 가디언스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (8월 6일) | MLB - 픽천국"
+date: 2026-08-05T22:40:00+00:00
+description: "클리블랜드 가디언스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179732-2026-08-06-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://media.api-sports.io/baseball/teams/9.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/24.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 전체 36승 2무 39패, 승률 .504, 경기당 3.8득점을 기록하며 리그순위 6위에 올라 있습니다. 최근 10경기에서는 2승 8패로 주춤했지만 직전 애리조나 다이아몬드백스전 승리로 반등의 계기를 마련했습니다. 시즌 득실은 446득점과 462실점으로 큰 격차는 아니지만 수비 안정성이 경기 결과를 좌우하는 흐름입니다. 최근 공격에서는 한 경기 8득점과 5득점을 기록한 점처럼 폭발력은 확인되지만 득점 기복이 함께 나타나고 있습니다. 홈 경기에서는 미네소타 트윈스전과 시카고 화이트삭스전처럼 집중력이 살아날 때 경기 중반 이후 흐름을 가져오는 모습이 돋보입니다. Shawn Armstrong의 결장은 불펜 운용에 부담이 될 수 있으나 팀 전체 전력과 리그순위에서는 원정팀보다 우위가 분명해 보입니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 전체 31승 1무 41패, 승률 .416, 경기당 4.2득점을 기록하며 리그순위 14위에 머물러 있습니다. 최근 10경기에서는 3승 7패로 고전했지만 애틀랜타 브레이브스와 로스앤젤레스 다저스전에서 보여준 공격 집중력은 반등 가능성을 보여주었습니다. 시즌 득실은 457득점과 515실점으로 실점 부담이 크며, 공격력이 살아나도 경기 전체의 안정성으로 연결되지 못하는 경우가 많았습니다. 최근 마이애미 말린스전 3연패에서는 4득점에 그친 뒤 2득점 이하 경기가 이어져 타선의 지속성이 중요한 변수입니다. Juan Soto의 결장은 중심 타선의 장타력과 출루 능력에 부담을 더하며, 여러 투수진의 장기 이탈도 후반 운영을 어렵게 만들 수 있습니다. 원정에서도 공격이 빠르게 살아난다면 접전 구도는 가능하지만 현재 시즌 전력과 수비 흐름에서는 홈팀보다 불리해 보입니다."
+homePower: "클리블랜드 가디언스는 득실 격차가 작아 접전 대응력이 돋보임|직전 승리로 침체된 타선의 반등 신호가 나타남|홈에서 초반 실점을 줄이면 운영 우위 확보 가능함|상대 불펜 공략 시 후반 역전력이 살아날 수 있음|리그순위와 시즌 안정성에서 우위가 검증됨"
+awayPower: "뉴욕 메츠는 시즌 득점력 대비 실점 관리가 약점으로 보임|강팀 상대 승리 경험은 있으나 지속성이 부족함|Juan Soto 이탈로 중심 타선의 연결력이 약화됨|최근 연패 구간에서 저득점 경기가 반복되는 흐름임|투수진 장기 이탈로 후반 승부가 불안정함"
+h2h: '[]'
+summary: "클리블랜드 가디언스는 2026시즌 승률 .504와 리그순위 6위로, 승률 .416의 뉴욕 메츠와 리그 전반 전력에서 앞서 있습니다. 클리블랜드 가디언스는 득실 차이가 -16으로 비교적 관리되고 있는 반면 뉴욕 메츠는 -58을 기록해 수비와 경기 후반 안정성에서 부담이 더 크게 나타납니다. 최근 흐름은 두 팀 모두 패배가 많지만 클리블랜드 가디언스가 직전 승리로 분위기 전환의 계기를 잡았고, 뉴욕 메츠는 중심 타선과 투수진의 주요 결장으로 대응력이 떨어질 수 있습니다. 공격력만 놓고 보면 뉴욕 메츠도 한 번에 흐름을 바꿀 수 있으나, 전체적인 경기 운영과 수비 안정성을 고려하면 클리블랜드 가디언스가 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.03","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179695-2026-08-03-cleveland-guardians/"},{"date":"26.08.02","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"8-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179679-2026-08-02-cleveland-guardians/"},{"date":"26.08.01","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179665-2026-08-01-cleveland-guardians/"},{"date":"26.07.30","home":"신시내티 레즈","away":"클리블랜드 가디언스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179643-2026-07-30-cincinnati-reds/"},{"date":"26.07.29","home":"신시내티 레즈","away":"클리블랜드 가디언스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179627-2026-07-29-cincinnati-reds/"}]'
+awayRecent: '[{"date":"26.08.03","home":"뉴욕 메츠","away":"마이애미 말린스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179690-2026-08-03-new-york-mets/"},{"date":"26.08.02","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179675-2026-08-02-new-york-mets/"},{"date":"26.08.01","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179661-2026-08-01-new-york-mets/"},{"date":"26.07.31","home":"뉴욕 메츠","away":"마이애미 말린스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179646-2026-07-31-new-york-mets/"},{"date":"26.07.30","home":"뉴욕 메츠","away":"애틀랜타 브레이브스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179616-2026-07-30-new-york-mets/"}]'
+injuryHome: "Shawn Armstrong (근육 염좌)"
+injuryAway: "Austin Warren (근육 염좌)|Dedniel Nunez (수술)|Justin Hagenman (골절)|Cionel Perez (근육 염좌)|Juan Soto (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

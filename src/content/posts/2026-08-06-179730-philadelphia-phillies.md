@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 워싱턴 내셔널스 경기분석·라인업·결장자·통계·승부예측 (8월 6일) | MLB - 픽천국"
+date: 2026-08-05T22:40:00+00:00
+description: "필라델피아 필리스 vs 워싱턴 내셔널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179730-2026-08-06-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://media.api-sports.io/baseball/teams/27.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/37.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 전체 79경기에서 42승 35패, 승률 .527, 경기당 평균 4.5득점을 기록했습니다. 리그순위 6위이며 득실은 490득점과 494실점으로 큰 차이는 없지만, 최근 10경기에서는 4승 6패로 고점 대비 다소 주춤했습니다. 다만 최근에는 필라델피아 필리스가 워싱턴 내셔널스를 상대로 승리한 뒤 볼티모어 오리올스전에서도 연승을 거두며 반등 조짐을 보여주고 있습니다. 최근 10경기 평균 득점은 4.8점으로 시즌 평균보다 높아 타선의 회복세가 주목됩니다. 최근 워싱턴 내셔널스전과 볼티모어 오리올스전에서 실점을 억제한 점은 경기 후반 운영에도 긍정적입니다. Rafael Marchan, Tanner Banks, Johan Rojas, Adolis Garcia, Brad Keller의 결장은 선수층에 부담이지만, 최근 연승 흐름과 상대전적 우위가 이를 상쇄할 수 있는 강점으로 평가됩니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 전체 79경기에서 40승 37패, 승률 .487, 경기당 평균 5.0득점을 기록했습니다. 리그순위 11위이며 득실은 607득점과 591실점으로 공격 생산력은 확인되지만, 최근 10경기에서는 3승 7패로 순위에 걸맞은 불안정한 흐름이 이어지고 있습니다. 특히 최근 애틀랜타 브레이브스전 4연패와 필라델피아 필리스전 패배로 원정 경기에서 전력 회복이 늦어지는 모습입니다. 최근 10경기 평균 득점도 4.1점으로 시즌 전체 평균보다 낮아 타선의 집중력이 떨어져 있습니다. 시즌 전체 득실 격차는 플러스지만 최근에는 연속 실점이 늘어나며 공격 강점을 충분히 살리지 못하고 있습니다. Andres Chaparro의 출전 여부와 함께 Brad Lord, Drew Millas, Josiah Gray, DJ Herz의 결장은 투타 운용에 부담으로 작용할 가능성이 높습니다."
+homePower: "최근 연승으로 침체 뒤 반등 신호가 뚜렷함|상대전적 우위로 타선의 자신감이 확인됨|최근 득점 상승세가 중심 타선 회복을 시사함|직전 맞대결 승리로 경기 초반 집중력 검증됨|주요 결장에도 불펜 운용 안정성이 관건임"
+awayPower: "시즌 득실 플러스가 공격 잠재력을 보여줌|최근 원정 연패로 마운드 안정감이 약화됨|최근 10경기 득점 하락으로 타선 기복이 변수임|필라델피아 필리스전 연속 실점이 상성 부담임|주요 투수 이탈로 긴 이닝 대응력이 떨어져 보임"
+h2h: '[{"date":"26.08.04","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"6-3","link":"https://pick79.com/posts/detail/analyze-179702-2026-08-04-philadelphia-phillies/"},{"date":"26.06.26","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"5-10","link":"https://pick79.com/posts/detail/analyze-179221-2026-06-26-washington-nationals/"},{"date":"26.06.25","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-179206-2026-06-25-washington-nationals/"},{"date":"26.06.24","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"9-14","link":"https://pick79.com/posts/detail/analyze-179191-2026-06-24-washington-nationals/"},{"date":"26.06.23","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-179176-2026-06-23-washington-nationals/"}]'
+summary: "2026시즌 전력에서는 필라델피아 필리스가 리그순위와 승률에서 앞서며 워싱턴 내셔널스보다 안정적인 기반을 보여주고 있습니다. 워싱턴 내셔널스는 시즌 전체 득실 격차와 평균 득점에서는 경쟁력이 있지만, 최근 10경기에서 득점력이 낮아지고 7패를 기록해 경기 운영의 불안정성이 커졌습니다. 반면 필라델피아 필리스는 최근 연승으로 타선과 수비가 함께 회복되는 흐름을 만들었고, 이번 시즌 상대전적에서도 우위를 확보했습니다. 주요 결장자 규모는 양 팀 모두 부담이지만 워싱턴 내셔널스의 투수진 이탈과 최근 연패가 더 크게 작용할 가능성이 있어 필라델피아 필리스가 홈에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.04","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179702-2026-08-04-philadelphia-phillies/"},{"date":"26.08.03","home":"볼티모어 오리올스","away":"필라델피아 필리스","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179698-2026-08-03-baltimore-orioles/"},{"date":"26.08.02","home":"볼티모어 오리올스","away":"필라델피아 필리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179682-2026-08-02-baltimore-orioles/"},{"date":"26.08.01","home":"볼티모어 오리올스","away":"필라델피아 필리스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179668-2026-08-01-baltimore-orioles/"},{"date":"26.07.30","home":"마이애미 말린스","away":"필라델피아 필리스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179640-2026-07-30-miami-marlins/"}]'
+awayRecent: '[{"date":"26.08.04","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179702-2026-08-04-philadelphia-phillies/"},{"date":"26.08.03","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179699-2026-08-03-atlanta-braves/"},{"date":"26.08.02","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179683-2026-08-02-atlanta-braves/"},{"date":"26.08.01","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179669-2026-08-01-atlanta-braves/"},{"date":"26.07.31","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179654-2026-07-31-atlanta-braves/"}]'
+injuryHome: "Rafael Marchan (건염)|Tanner Banks (근육 염좌)|Johan Rojas (수술)|Adolis Garcia (수술)|Brad Keller (수술)"
+injuryAway: "Andres Chaparro (상태 불명 단기 결장)|Brad Lord (통증)|Drew Millas (골절)|Josiah Gray (근육 염좌)|DJ Herz (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (8월 6일) | MLB - 픽천국"
+date: 2026-08-05T19:10:00+00:00
+description: "콜로라도 로키스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179731-2026-08-06-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://media.api-sports.io/baseball/teams/10.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/34.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 최근 62경기에서 26승 36패, 승률 .419, 평균 득점 5.2를 기록하며 공격에서는 제법 힘을 내고 있지만, 수비와 경기 운영의 흔들림이 전력 전체의 발목을 잡고 있습니다. 최근 흐름도 3승 7패로 좋지 않아, 초반 득점이 나오지 않으면 경기 주도권을 오래 가져가기 어려운 모습입니다. 홈에서는 타선이 한 번 살아날 때 대량 득점이 가능하다는 점이 분명한 강점입니다. 다만 실점 억제가 잘 되지 않아, 공격이 주춤한 날에는 경기 후반까지 버티는 힘이 약해 보입니다. 중심 타선이 장타로 흐름을 바꾸는 힘은 갖고 있지만, 장기 결장자까지 겹치면서 안정감은 떨어지는 편입니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 최근 80경기에서 46승 30패, 승률 .605, 평균 득점 4.1로 리그순위 1위에 걸맞은 안정적인 전력을 보여주고 있습니다. 최근 10경기에서도 7승 3패를 기록하며, 큰 부침 없이 상위권 흐름을 유지하고 있습니다. 득점은 폭발적이기보다는 효율적으로 쌓는 편이지만, 실점을 잘 억제하면서 승부를 자기 쪽으로 끌고 가는 장점이 뚜렷합니다. 원정에서도 경기 운영이 크게 흔들리지 않아, 접전 상황에서 비교적 침착한 모습이 돋보입니다. 다만 최근에는 한 번씩 저득점 경기에서 공격이 잠시 묶이는 장면이 있어, 초반 득점 여부가 중요하게 작용할 가능성이 있습니다."
+homePower: "홈에서 장타 한 번에 흐름을 뒤집는 힘이 있음|득점 기복은 있으나 몰아치는 구간은 위협적임|실점 억제가 약해 선발 안정감이 중요해 보임|장기 결장자 영향으로 마운드 뎁스가 얕아 보임|상위권 상대에도 초반 득점 시 경쟁력은 확인됨"
+awayPower: "리그순위 1위답게 운영 완성도가 높음|저득점 접전도 끝내는 힘이 꾸준히 검증됨|실점 억제력이 좋아 경기 흔들림이 작음|원정에서도 전력 저하가 크지 않은 편임|공격 폭발보다 효율과 응집력이 강점으로 보임"
+h2h: '[{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"}]'
+summary: "콜로라도 로키스는 공격에서 순간 화력을 보여줄 수 있지만, 시즌 전반의 실점 억제 불안이 누적되면서 전력의 균형이 흔들리고 있습니다. 탬파베이 레이스는 리그순위 1위에 걸맞게 수비와 경기 운영이 안정적이고, 최근 흐름도 더 단단하게 이어지고 있어 전체적인 우위가 분명해 보입니다. 다만 직전 맞대결에서는 탬파베이 레이스가 앞섰고, 콜로라도 로키스는 홈에서 반등 가능성을 보여줄 자리는 남아 있어서 초반 득점 흐름이 경기의 핵심이 될 것으로 보입니다."
+homeRecent: '[{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"},{"date":"26.07.30","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179636-2026-07-30-san-diego-padres/"},{"date":"26.07.27","home":"밀워키 브루어스","away":"콜로라도 로키스","score":"11-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179598-2026-07-27-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"},{"date":"26.08.02","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179673-2026-08-02-tampa-bay-rays/"},{"date":"26.08.01","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179658-2026-08-01-tampa-bay-rays/"},{"date":"26.07.31","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179647-2026-07-31-tampa-bay-rays/"}]'
+injuryHome: "Blas Castano (긴장)|Jaden Hill (건염)|Jeff Criswell (긴장)|McCade Brown (염증)|Jose Quintana (염좌)"
+injuryAway: "Steven Wilson (염증)|Cole Sulser (경련)|Jonathan Heasley (골절)|Gavin Lux (염증)|Jake Fraley (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "콜로라도 로키스"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 로키스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

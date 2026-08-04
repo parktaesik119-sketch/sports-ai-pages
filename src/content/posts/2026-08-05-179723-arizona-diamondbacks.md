@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 샌디에이고 파드리스 경기분석·라인업·결장자·통계·승부예측 (8월 5일) | MLB - 픽천국"
+date: 2026-08-05T01:40:00+00:00
+description: "애리조나 다이아몬드백스 vs 샌디에이고 파드리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179723-2026-08-05-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://media.api-sports.io/baseball/teams/2.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/30.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 59승 53패, 승률 .527로 현재 리그순위 5위이며 득실도 508-506으로 근소한 우위를 기록하고 있습니다. 최근 10경기에서는 6승 4패를 거두며 리그순위에 걸맞은 경쟁력을 이어가고 있고, 직전 경기 패배 전까지는 4연승으로 상승 흐름을 만들었습니다. 최근 경기에서 두 자릿수 득점을 기록하는 등 타선이 폭발력을 보여주는 경기가 있고, 여러 경기에서 상대 득점을 낮게 묶으며 공격과 수비의 균형도 돋보입니다. 샌디에이고 파드리스와의 최근 맞대결에서도 7월 10일 3-1 승리와 7월 7일 8-0 승리를 거두며 상대 타선을 효과적으로 제어한 경험이 있습니다. 다만 최근 10경기에서 실점이 크게 늘어난 경기도 있어 경기 초반 투수진의 안정적인 운영이 중요합니다. Tommy Troy, Michael Soroka, 요르단 Lawlar, Drey Jameson의 결장은 선수층 운용에 부담이지만, 홈에서 타선이 빠르게 흐름을 잡으면 우세를 이어갈 가능성이 높아 보입니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 58승 54패, 승률 .518로 현재 리그순위 7위이며 득실은 472-484로 실점 관리에서 개선 여지를 보이고 있습니다. 최근 10경기에서는 7승 3패를 기록하며 리그순위보다 좋은 최근 전력을 보여 반등 조짐이 뚜렷합니다. 최근 샌프란시스코 자이언츠를 상대로 연승을 거두고 마이애미 말린스 원정에서도 연속 승리를 챙기며 타선의 응집력이 살아났습니다. 애리조나 다이아몬드백스와의 맞대결에서는 7월 9일 10-4, 7월 8일 4-1 승리처럼 장타와 집중력을 앞세워 상대 투수진을 흔든 경기도 있었습니다. 그러나 7월 10일과 7월 7일에는 득점이 제한되며 애리조나 다이아몬드백스의 수비와 투수 운영에 고전했습니다. Lucas Giolito와 Nick Pivetta를 포함한 주요 투수 자원의 이탈은 원정 경기 후반 운영에 부담이 될 수 있으며, 최근 상승세를 유지하려면 초반 득점 기회를 놓치지 않아야 합니다."
+homePower: "애리조나 다이아몬드백스의 득실 균형은 접전 대응력이 강점임을 보여줌|최근 연승 구간에서 타선의 폭발력이 빠르게 살아나는 모습임|샌디에이고 파드리스 상대 영봉승 경험으로 상성 우위가 확인됨|주요 투수 이탈로 후반 불펜 운용이 핵심 변수로 보임|홈 경기에서는 공격 주도권을 먼저 잡을 가능성이 높음"
+awayPower: "샌디에이고 파드리스는 최근 상승세로 리그순위 이상의 반등 조짐을 보임|최근 연속 승리에서 초반 타선 집중력이 강점으로 작용함|애리조나 다이아몬드백스 상대 대량 득점 경험이 위협 요소임|득실 열세는 강팀 상대 수비 지속력의 약점으로 해석됨|주요 선발 자원 이탈로 원정 후반 안정감이 변수임"
+h2h: '[{"date":"26.07.10","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-179410-2026-07-10-san-diego-padres/"},{"date":"26.07.09","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"10-4","link":"https://pick79.com/posts/detail/analyze-179396-2026-07-09-san-diego-padres/"},{"date":"26.07.08","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-179381-2026-07-08-san-diego-padres/"},{"date":"26.07.07","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"0-8","link":"https://pick79.com/posts/detail/analyze-179371-2026-07-07-san-diego-padres/"},{"date":"26.04.27","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"12-7","link":"https://pick79.com/posts/detail/analyze-178427-2026-04-27-arizona-diamondbacks/"}]'
+summary: "애리조나 다이아몬드백스는 2026시즌 59승 53패와 승률 .527로 샌디에이고 파드리스보다 리그순위와 득실 균형에서 앞서며 전체 전력의 안정감이 조금 더 돋보입니다. 샌디에이고 파드리스는 최근 10경기 7승 3패로 애리조나 다이아몬드백스의 6승 4패보다 좋은 흐름을 보이고 있어 타선의 반등세는 분명한 위협 요소입니다. 양 팀의 맞대결은 3승 3패로 팽팽했지만, 애리조나 다이아몬드백스는 상대를 무득점에 가깝게 묶은 경기와 대량 득점 경기를 모두 보여 공수 대응 폭이 넓었습니다. 샌디에이고 파드리스는 주요 투수 자원 이탈로 후반 수비와 마운드 운영에 부담이 있어, 홈 이점을 가진 애리조나 다이아몬드백스가 근소한 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.03","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179695-2026-08-03-cleveland-guardians/"},{"date":"26.08.02","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"8-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179679-2026-08-02-cleveland-guardians/"},{"date":"26.08.01","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179665-2026-08-01-cleveland-guardians/"},{"date":"26.07.30","home":"피츠버그 파이러츠","away":"애리조나 다이아몬드백스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179637-2026-07-30-pittsburgh-pirates/"},{"date":"26.07.29","home":"피츠버그 파이러츠","away":"애리조나 다이아몬드백스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179621-2026-07-29-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.08.03","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179692-2026-08-03-san-diego-padres/"},{"date":"26.08.01","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179660-2026-08-01-san-diego-padres/"},{"date":"26.07.31","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179649-2026-07-31-san-diego-padres/"},{"date":"26.07.30","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179636-2026-07-30-san-diego-padres/"},{"date":"26.07.27","home":"마이애미 말린스","away":"샌디에이고 파드리스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179599-2026-07-27-miami-marlins/"}]'
+injuryHome: "Gabriel Moreno (사유 미상 단기 결장)|Tommy Troy (염좌로 10일 부상자 명단)|Michael Soroka (근육 긴장으로 15일 부상자 명단)|Jordan Lawlar (근육 긴장으로 10일 부상자 명단)|Drey Jameson (염증으로 15일 부상자 명단)"
+injuryAway: "Samad Taylor (근육 긴장으로 10일 부상자 명단)|David Morgan (염증으로 15일 부상자 명단)|Lucas Giolito (염증으로 15일 부상자 명단)|Nick Pivetta (근육 긴장으로 60일 부상자 명단)|Miguel Andujar (골절로 10일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
