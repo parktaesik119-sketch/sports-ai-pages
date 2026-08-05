@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.05","home":"볼티모어 오리올스","away":"LA �
 injuryHome: "Blaze Alexander (골절)|Chris Bassitt (수술)|Samuel Basallo (염증)|Ryan Helsley (염증)|Felix Bautista (수술)"
 injuryAway: "Sam Bachman (일간 상태)|Sebastian Rivero (수술)|Yusei Kikuchi (염증)|Yoan Moncada (수술)|Robert Stephenson (수술)"
 homeLineup: "[\"선발투수 B. Young (8-2, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 R. Johnson (2-6, 7.63) ERA 7.63|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
