@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.05","home":"필라델피아 필리스","away":"워�
 injuryHome: "Rafael Marchan (건염)|Tanner Banks (염좌)|Johan Rojas (수술)|Adolis Garcia (수술)|Brad Keller (수술)"
 injuryAway: "Brad Lord (통증)|Drew Millas (골절)|James Wood (염좌)|Josiah Gray (염좌)|DJ Herz (염좌)"
 homeLineup: "[\"선발투수 C. Sanchez (14-4, 2.61) ERA 2.61|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 M. Mikolas (3-8, 5.67) ERA 5.67|https://a.espncdn.com/i/headshots/mlb/players/full/32116.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
