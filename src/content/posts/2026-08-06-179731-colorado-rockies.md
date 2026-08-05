@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파�
 injuryHome: "Blas Castano (긴장)|Jaden Hill (건염)|Jeff Criswell (긴장)|McCade Brown (염증)|Jose Quintana (염좌)"
 injuryAway: "Steven Wilson (염증)|Cole Sulser (경련)|Jonathan Heasley (골절)|Gavin Lux (염증)|Jake Fraley (수술)"
 homeLineup: "[\"선발투수 T. Sugano (11-4, 4.47) ERA 4.47|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
-awayLineup: "[\"선발투수 N. Martinez (10-3, 2.77) ERA 2.77|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
+awayLineup: "[\"선발투수 N. Martinez (10-3, 2.77) ERA 2.77|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\",\"1번 V. Mesa Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917849.png\",\"2번 J. Aranda (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/40810.png\",\"3번 J. Caminero (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4905921.png\",\"4번 L. Hicks (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4725251.png\",\"5번 C. Simpson (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4679983.png\",\"6번 C. Mullins (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/35578.png\",\"7번 R. Palacios (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41359.png\",\"8번 T. Walls (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/40576.png\",\"9번 N. Fortes (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41674.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
