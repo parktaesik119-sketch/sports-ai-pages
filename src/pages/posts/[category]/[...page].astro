@@ -24,7 +24,12 @@ export async function getStaticPaths() {
 const { category } = Astro.params;
 
 // 전체 포스트 가져오기
-const allPosts = await getCollection('posts');
+// 전체 포스트 가져오기 (archive 포함 — 리스트는 가벼워서 항상 합쳐서 보여줌)
+const [recentPosts, archivedPosts] = await Promise.all([
+  getCollection('posts'),
+  getCollection('archive'),
+]);
+const allPosts = [...recentPosts, ...archivedPosts];
 
 // 한국 시간(KST) 기준 오늘 날짜 구하기 (YYYY-MM-DD)
 const now = new Date();

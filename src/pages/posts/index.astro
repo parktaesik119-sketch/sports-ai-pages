@@ -3,7 +3,13 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 
-const allPosts = await getCollection('posts');
+// archive(7일 지난 글)도 리스트에 같이 노출 — 상세페이지와 달리 카드 몇 줄만
+// 렌더링하는 거라 무겁지 않으므로 BUILD_ARCHIVE 분기 없이 항상 합쳐서 보여준다.
+const [recentPosts, archivedPosts] = await Promise.all([
+  getCollection('posts'),
+  getCollection('archive'),
+]);
+const allPosts = [...recentPosts, ...archivedPosts];
 const sortedPosts = allPosts.sort(
   (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
 );
