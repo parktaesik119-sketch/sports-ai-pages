@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.03","home":"시애틀 매리너스","away":"미네�
 awayRecent: '[{"date":"26.08.03","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179700-2026-08-03-athletics/"},{"date":"26.08.01","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179670-2026-08-01-athletics/"},{"date":"26.07.30","home":"디트로이트 타이거즈","away":"볼티모어 오리올스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179642-2026-07-30-detroit-tigers/"},{"date":"26.07.29","home":"디트로이트 타이거즈","away":"볼티모어 오리올스","score":"14-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179626-2026-07-29-detroit-tigers/"},{"date":"26.07.28","home":"디트로이트 타이거즈","away":"볼티모어 오리올스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179611-2026-07-28-detroit-tigers/"}]'
 injuryHome: "Matt Brash (염좌)|Will Wilson (골절)|Cooper Criswell (염좌)|J.P. Crawford (염증)|Luke Raley (통증)"
 injuryAway: "Kerry Carpenter (족저근막염)|Jackson Jobe (수술)|Burch Smith (염증)|Matt Vierling (통증)|Brant Hurter (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Miller (4-5, 2.80) ERA 2.80|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\"]"
+awayLineup: "[\"선발투수 F. Valdez (6-7, 4.41) ERA 4.41|https://a.espncdn.com/i/headshots/mlb/players/full/36581.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

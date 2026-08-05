@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.05","home":"캔자스시티 로열스","away":"미�
 awayRecent: '[{"date":"26.08.05","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179715-2026-08-05-kansas-city-royals/"},{"date":"26.08.03","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179689-2026-08-03-seattle-mariners/"},{"date":"26.08.02","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179677-2026-08-02-seattle-mariners/"},{"date":"26.07.31","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179651-2026-07-31-minnesota-twins/"},{"date":"26.07.30","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179639-2026-07-30-minnesota-twins/"}]'
 injuryHome: "Vinnie Pasquantino (통증)|Beck Way (경련)|Nick Mears (신경 압박)|Maikel Garcia (염좌)|Carlos Estevez (염좌)"
 injuryAway: "Byron Buxton (신경 압박)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)|David Festa (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Wacha (5-8, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\"]"
+awayLineup: "[\"선발투수 B. Ober (7-3, 4.45) ERA 4.45|https://a.espncdn.com/i/headshots/mlb/players/full/3107919.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

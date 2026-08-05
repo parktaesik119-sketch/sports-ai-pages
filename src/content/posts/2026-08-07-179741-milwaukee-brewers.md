@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.05","home":"밀워키 브루어스","away":"피츠�
 awayRecent: '[{"date":"26.08.05","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179714-2026-08-05-milwaukee-brewers/"},{"date":"26.08.04","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179705-2026-08-04-milwaukee-brewers/"},{"date":"26.08.03","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"10-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179696-2026-08-03-cincinnati-reds/"},{"date":"26.08.02","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179680-2026-08-02-cincinnati-reds/"},{"date":"26.08.01","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179666-2026-08-01-cincinnati-reds/"}]'
 injuryHome: "Jake Bauers (통증)|Kyle Harrison (통증)|Rob Zastryzny (염좌)|Joel Kuhnel (건염)|Sal Frelick (염좌)"
 injuryAway: "Evan Sisk (염증)|Chris Devenski (미지정)|Oneil Cruz (골절)|Konnor Griffin (염좌)|Ryan O'Hearn (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. May (5-7, 4.38) ERA 4.38|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\"]"
+awayLineup: "[\"선발투수 B. Ashcraft (11-4, 3.96) ERA 3.96|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

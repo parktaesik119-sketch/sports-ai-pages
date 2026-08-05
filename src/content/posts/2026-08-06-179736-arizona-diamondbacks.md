@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.04","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.08.04","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179708-2026-08-04-arizona-diamondbacks/"},{"date":"26.08.03","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179692-2026-08-03-san-diego-padres/"},{"date":"26.08.01","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179660-2026-08-01-san-diego-padres/"},{"date":"26.07.31","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179649-2026-07-31-san-diego-padres/"},{"date":"26.07.30","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179636-2026-07-30-san-diego-padres/"}]'
 injuryHome: "Gabriel Moreno (출산)|Jordan Lawlar (염좌)|Michael Soroka (염좌)|Drey Jameson (염증)|Lourdes Gurriel Jr. (염좌)"
 injuryAway: "David Morgan (염증)|Samad Taylor (염좌)|Lucas Giolito (염증)|Nick Pivetta (염좌)|Miguel Andujar (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Drake (0-0, 4.85) ERA 4.85|https://a.espncdn.com/i/headshots/mlb/players/full/5264737.png\"]"
+awayLineup: "[\"선발투수 W. Buehler (6-5, 5.18) ERA 5.18|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.05","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.08.05","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179716-2026-08-05-cleveland-guardians/"},{"date":"26.08.03","home":"뉴욕 메츠","away":"마이애미 말린스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179690-2026-08-03-new-york-mets/"},{"date":"26.08.02","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179675-2026-08-02-new-york-mets/"},{"date":"26.08.01","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179661-2026-08-01-new-york-mets/"},{"date":"26.07.31","home":"뉴욕 메츠","away":"마이애미 말린스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179646-2026-07-31-new-york-mets/"}]'
 injuryHome: "Jose Ramirez (염좌로 인한 경미한 통증)|Shawn Armstrong (근육 손상)"
 injuryAway: "Austin Warren (근육 손상)|Justin Hagenman (골절)|Mark Vientos (골절)|Cionel Perez (근육 손상)|Juan Soto (근육 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 F. Griffin (12-3, 3.06) ERA 3.06|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
+awayLineup: "[\"선발투수 N. McLean (7-7, 3.29) ERA 3.29|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

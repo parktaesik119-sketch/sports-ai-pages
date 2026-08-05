@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.05","home":"볼티모어 오리올스","away":"LA �
 awayRecent: '[{"date":"26.08.05","home":"볼티모어 오리올스","away":"LA 에인절스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179721-2026-08-05-baltimore-orioles/"},{"date":"26.08.03","home":"LA 에인절스","away":"밀워키 브루어스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179686-2026-08-03-los-angeles-angels/"},{"date":"26.08.01","home":"LA 에인절스","away":"밀워키 브루어스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179662-2026-08-01-los-angeles-angels/"},{"date":"26.07.30","home":"LA 에인절스","away":"휴스턴 애스트로스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179641-2026-07-30-los-angeles-angels/"},{"date":"26.07.29","home":"LA 에인절스","away":"휴스턴 애스트로스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179625-2026-07-29-los-angeles-angels/"}]'
 injuryHome: "Blaze Alexander (골절)|Chris Bassitt (수술)|Samuel Basallo (염증)|Ryan Helsley (염증)|Felix Bautista (수술)"
 injuryAway: "Sam Bachman (일간 상태)|Sebastian Rivero (수술)|Yusei Kikuchi (염증)|Yoan Moncada (수술)|Robert Stephenson (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 B. Young (8-2, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""
