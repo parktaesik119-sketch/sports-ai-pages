@@ -15,10 +15,13 @@ import AdGrid from '../../../components/AdGrid.astro';
 import TEAM_NAME_MAP from '../../../../scripts/team_name_map.js';
 import { sortLineupForPitchView } from '../../../../scripts/formation-common.js';
 
-const COLLECTION_NAME = process.env.BUILD_ARCHIVE === 'true' ? 'archive' : 'posts';
+// ⚠️ getStaticPaths()는 빌드 시점에 별도 청크로 분리되어 실행되기 때문에,
+// 파일 최상단의 const를 공유해서 쓸 수 없다(ReferenceError 발생 확인됨, 2026-08).
+// 그래서 아래처럼 필요한 곳마다 각자 인라인으로 계산한다 — 중복돼 보여도
+// 이게 정상이다.
 
 export async function getStaticPaths() {
-  const items = await getCollection(COLLECTION_NAME);
+  const items = await getCollection(process.env.BUILD_ARCHIVE === 'true' ? 'archive' : 'posts');
 
   if (!items || items.length === 0) return [];
 
@@ -31,7 +34,7 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 
-const allPosts = await getCollection(COLLECTION_NAME);
+const allPosts = await getCollection(process.env.BUILD_ARCHIVE === 'true' ? 'archive' : 'posts');
 
 /* 🔥 slug로 직접 찾기 */
 const item = allPosts.find(
