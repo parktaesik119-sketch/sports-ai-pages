@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.07.30","home":"인테르","away":"인테르","score":"
 awayRecent: '[{"date":"26.08.03","home":"하우가레스 코르도바","away":"아틀레티코 나시오날","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1549700-2026-08-03-jaguares/"},{"date":"26.07.25","home":"데포르티보 칼리","away":"하우가레스 코르도바","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1549686-2026-07-25-deportivo-cali/"},{"date":"26.05.27","home":"데포르티보 페레이라","away":"하우가레스 코르도바","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544288-2026-05-27-deportivo-pereira/"},{"date":"26.05.22","home":"하우가레스 코르도바","away":"Ind. Yumbo","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544280-2026-05-22-jaguares/"},{"date":"26.05.11","home":"Águilas Doradas","away":"하우가레스 코르도바","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1544261-2026-05-11-guilas-doradas/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Kevin Cataño (GK)|https://images.fotmob.com/image_resources/playerimages/1886618.png\",\"Ronaldo Julio (DF)|https://images.fotmob.com/image_resources/playerimages/1742599.png\",\"Carlos Vivas (DF)|https://images.fotmob.com/image_resources/playerimages/1209406.png\",\"Agustín Irazoque (DF)|https://images.fotmob.com/image_resources/playerimages/1328559.png\",\"Yulián Gómez (DF)|https://images.fotmob.com/image_resources/playerimages/863939.png\",\"Larry Vásquez (MF)|https://images.fotmob.com/image_resources/playerimages/496854.png\",\"Dannovi Quiñones (MF)|https://images.fotmob.com/image_resources/playerimages/1238233.png\",\"Cristian Dájome (FW)|https://images.fotmob.com/image_resources/playerimages/681635.png\",\"Facundo Boné (MF)|https://images.fotmob.com/image_resources/playerimages/574842.png\",\"Fabricio Sanguinetti (FW)|https://images.fotmob.com/image_resources/playerimages/1606730.png\",\"Diego Duarte (FW)|https://images.fotmob.com/image_resources/playerimages/1108882.png\"]"
+awayLineup: "[\"Franklin Mosquera (GK)|https://images.fotmob.com/image_resources/playerimages/1433009.png\",\"Juan Franco (DF)|https://images.fotmob.com/image_resources/playerimages/1356526.png\",\"Jerson Malagón (DF)|https://images.fotmob.com/image_resources/playerimages/978132.png\",\"Carlos Henao (DF)|https://images.fotmob.com/image_resources/playerimages/280230.png\",\"Edwin Martinez (DF)|https://images.fotmob.com/image_resources/playerimages/1433010.png\",\"Royscer Colpa (MF)|https://images.fotmob.com/image_resources/playerimages/1348856.png\",\"Johan Hinestroza (MF)|https://images.fotmob.com/image_resources/playerimages/1604063.png\",\"Wilfrido De La Rosa (FW)|https://images.fotmob.com/image_resources/playerimages/496863.png\",\"Rafael Bustamante (MF)|https://images.fotmob.com/image_resources/playerimages/950973.png\",\"Jáder Maza (FW)|https://images.fotmob.com/image_resources/playerimages/1028700.png\",\"Johar Mejía (FW)|https://images.fotmob.com/image_resources/playerimages/1331593.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Ricardo Valiño|https://images.fotmob.com/image_resources/playerimages/760332.png"
+awayCoach: "Hubert Bodhert|https://images.fotmob.com/image_resources/playerimages/1432970.png"
 pickWinTeam: "인테르나시오나우 de Bogota"
 pickWinResult: "승"
 pickHandicapTeam: "인테르나시오나우 de Bogota"
