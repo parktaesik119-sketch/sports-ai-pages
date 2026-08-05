@@ -1,0 +1,337 @@
+[
+  {
+    "home": "Aarhus",
+    "away": "Sabah FA",
+    "date": "2026-08-05T16:30:00+00:00",
+    "league": "UEFA Champions League",
+    "matchId": "2049102",
+    "kickOffTime": "2026-08-05T16:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "DEN",
+        "id": "2590",
+        "translations": {
+          "name": {
+            "EN": "Randers",
+            "FR": "Randers",
+            "DE": "Randers",
+            "ES": "Randers",
+            "PT": "Randers",
+            "IT": "Randers",
+            "RU": "Раннерс",
+            "ZH": "兰德斯",
+            "AR": "رانديرز"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Brann",
+    "away": "Apollon Limassol",
+    "date": "2026-08-05T17:00:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2049163",
+    "kickOffTime": "2026-08-05T17:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "NOR",
+        "id": "1224",
+        "translations": {
+          "name": {
+            "EN": "Bergen",
+            "FR": "Bergen",
+            "DE": "Bergen",
+            "ES": "Bergen",
+            "PT": "Bergen",
+            "IT": "Bergen",
+            "RU": "Берген",
+            "ZH": "卑尔根",
+            "AR": "بيرجن"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Fenerbahçe",
+    "away": "Sturm Graz",
+    "date": "2026-08-05T18:00:00+00:00",
+    "league": "UEFA Champions League",
+    "matchId": "2049107",
+    "kickOffTime": "2026-08-05T18:00:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "TUR",
+        "id": "1859",
+        "translations": {
+          "name": {
+            "EN": "Istanbul",
+            "FR": "Istanbul",
+            "DE": "Istanbul",
+            "ES": "Estambul",
+            "PT": "Istambul",
+            "IT": "Istanbul",
+            "RU": "Стамбул",
+            "ZH": "伊斯坦布尔",
+            "AR": "إسطنبول"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Ferencvarosi TC",
+    "away": "Gornik Zabrze",
+    "date": "2026-08-05T18:15:00+00:00",
+    "league": "UEFA Europa League",
+    "matchId": "2049143",
+    "kickOffTime": "2026-08-05T18:15:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "HUN",
+        "id": "1327",
+        "translations": {
+          "name": {
+            "EN": "Budapest",
+            "FR": "Budapest",
+            "DE": "Budapest",
+            "ES": "Budapest",
+            "PT": "Budapeste",
+            "IT": "Budapest",
+            "RU": "Будапешт",
+            "ZH": "布达佩斯",
+            "AR": "بودابست"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  },
+  {
+    "home": "Panathinaikos",
+    "away": "CSKA 1948",
+    "date": "2026-08-05T18:30:00+00:00",
+    "league": "UEFA Europa Conference League",
+    "matchId": "2049152",
+    "kickOffTime": "2026-08-05T18:30:00Z",
+    "round": null,
+    "phase": null,
+    "stadium": {
+      "name": null,
+      "city": {
+        "countryCode": "GRE",
+        "id": "1116",
+        "translations": {
+          "name": {
+            "EN": "Athens",
+            "FR": "Athènes",
+            "DE": "Athen",
+            "ES": "Atenas",
+            "PT": "Atenas",
+            "IT": "Atene",
+            "RU": "Афины",
+            "ZH": "雅典",
+            "AR": "أثينا"
+          }
+        }
+      }
+    },
+    "referees": [
+      {
+        "role": "REFEREE",
+        "name": null
+      },
+      {
+        "role": "UEFA_DELEGATE",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_TWO",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_REFEREE_ONE",
+        "name": null
+      },
+      {
+        "role": "VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      },
+      {
+        "role": "REFEREE_OBSERVER",
+        "name": null
+      },
+      {
+        "role": "FOURTH_OFFICIAL",
+        "name": null
+      },
+      {
+        "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+        "name": null
+      }
+    ],
+    "lineupStatus": "NOT_AVAILABLE",
+    "lineup": null,
+    "h2h": []
+  }
+]

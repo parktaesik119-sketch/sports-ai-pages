@@ -1,0 +1,37 @@
+---
+title: "요코하마 DeNA 베이스타스 vs 한신 타이거스 경기분석·라인업·결장자·통계·승부예측 (8월 6일) | NPB - 픽천국"
+date: 2026-08-06T08:45:00+00:00
+description: "요코하마 DeNA 베이스타스 vs 한신 타이거스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-181216-2026-08-06-yokohama-baystars"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "요코하마 DeNA 베이스타스"
+awayTeam: "한신 타이거스"
+homeLogo: "https://media.api-sports.io/baseball/teams/65.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/58.png"
+homeAnalysis: "요코하마 DeNA 베이스타스는 2026시즌 최근 72경기에서 29승 2무 41패, 평균 득점 3.9로 나타나고 있습니다. 최근에는 승패가 빠르게 엇갈리는 흐름 속에서도 직전 한신 타이거스전 1실점 승리를 포함해, 마운드가 버틸 때 경기 주도권을 가져오는 모습이 분명합니다. 공격에서는 짧고 굵게 득점하는 장면과 함께 한 번 크게 터지는 장면도 보여 주었고, 요미우리 자이언츠전 8득점 경기처럼 타선이 살아날 때는 상대를 압박하는 힘이 있습니다. 다만 최근 10경기 평균 득점이 3.1로 시즌 평균보다 낮아, 꾸준한 화력 면에서는 기복이 남아 있는 편입니다. 홈에서는 전반적으로 경기 운영이 안정되고, 카츠키 아즈마가 버텨 주는 경기에서 수비와 불펜의 힘이 더 또렷하게 드러나는 점이 주목할 만합니다."
+awayAnalysis: "한신 타이거스는 2026시즌 최근 70경기에서 38승 1무 31패, 평균 득점 3.4로 더 단단한 전력을 보여 주고 있습니다. 최근 경기에서는 경기당 득점이 아주 높지는 않지만, 필요한 순간에 실점을 억제하면서 승부를 가져오는 흐름이 이어지고 있습니다. 직전 맞대결에서 0점으로 묶인 뒤에도 곧바로 승리를 챙긴 점을 보면, 전체적으로 마운드 중심의 경기 운영이 잘 잡혀 있습니다. 최근 9경기 평균 득점이 2.4로 내려와 있어 타선 폭발력은 크지 않지만, 대신 접전에서 버티는 힘은 분명합니다. 하루토 다카하시는 2026시즌 11승 1패, 평균자책점 1.70으로 압도적인 안정감을 보여 주고 있어, 원정에서도 초반 흐름을 잡아 줄 핵심 자원으로 보입니다."
+homePower: "카츠키 아즈마 선발 경기의 실점 억제력 검증됨|홈에서는 접전 운영이 비교적 안정적임|요미우리전 장타 폭발로 반등 여지 확인됨|최근 타선 기복은 있지만 응집력은 유지됨|직전 한신전 1실점 승리로 상성 자신감 보임"
+awayPower: "하루토 다카하시의 압도적 저실점 운영 강점임|2026시즌 패배가 적어 이닝 소화 기대됨|최근 원정서도 경기 흐름 끊는 능력 돋보임|득점은 많지 않아도 승부처 집중력이 높음|한신 타이거스의 마운드 중심 경기 운영 검증됨"
+h2h: '[{"date":"26.08.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-181205-2026-08-04-yokohama-baystars/"},{"date":"26.07.22","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-181161-2026-07-22-hanshin-tigers/"},{"date":"26.07.21","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-181156-2026-07-21-hanshin-tigers/"},{"date":"26.07.20","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-7","link":"https://pick79.com/posts/detail/analyze-181150-2026-07-20-hanshin-tigers/"},{"date":"26.06.21","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-181012-2026-06-21-yokohama-baystars/"}]'
+summary: "요코하마 DeNA 베이스타스는 시즌 전체 성적이 다소 흔들리지만, 홈에서는 경기 흐름을 살리며 상대를 묶어 내는 장면이 자주 보이고 있습니다. 한신 타이거스는 시즌 전력과 최근 안정감이 더 좋고, 특히 하루토 다카하시의 존재가 경기 초반 균형을 한쪽으로 끌어갈 가능성을 높여 주고 있습니다. 다만 최근 맞대결에서는 작은 점수 차의 승부가 반복되었고, 양 팀 모두 마운드와 수비가 받쳐 줄 때는 쉽게 무너지지 않는 모습입니다. 전반적으로는 한신 타이거스가 근소한 우세를 점하기 쉬운 구도이지만, 요코하마 DeNA 베이스타스도 홈에서 버티는 힘이 있어 팽팽한 승부로 이어질 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181205-2026-08-04-yokohama-baystars/"},{"date":"26.08.02","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181202-2026-08-02-yomiuri-giants/"},{"date":"26.08.01","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181191-2026-08-01-yomiuri-giants/"},{"date":"26.07.31","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181190-2026-07-31-yomiuri-giants/"},{"date":"26.07.26","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181184-2026-07-26-chunichi-dragons/"}]'
+awayRecent: '[{"date":"26.08.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181205-2026-08-04-yokohama-baystars/"},{"date":"26.08.02","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181201-2026-08-02-yakult-swallows/"},{"date":"26.08.01","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181192-2026-08-01-yakult-swallows/"},{"date":"26.07.26","home":"한신 타이거스","away":"요미우리 자이언츠","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181183-2026-07-26-hanshin-tigers/"},{"date":"26.07.25","home":"한신 타이거스","away":"요미우리 자이언츠","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181174-2026-07-25-hanshin-tigers/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "요코하마 DeNA 베이스타스"
+pickWinResult: "승"
+pickHandicapTeam: "요코하마 DeNA 베이스타스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

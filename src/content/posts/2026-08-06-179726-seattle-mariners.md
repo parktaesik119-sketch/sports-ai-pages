@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 디트로이트 타이거즈 경기분석·라인업·결장자·통계·승부예측 (8월 6일) | MLB - 픽천국"
+date: 2026-08-06T01:40:00+00:00
+description: "시애틀 매리너스 vs 디트로이트 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179726-2026-08-06-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/32.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/12.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 최근 66경기에서 33승 1무 32패, 승률 .508, 평균 득점 4.0으로 균형은 맞지만 폭발력은 크지 않은 흐름입니다. 최근 경기에서는 강팀인 로스앤젤레스 다저스와 텍사스 레인저스를 상대로도 승패가 엇갈렸고, 직전에는 미네소타 트윈스를 연달아 잡아내며 홈에서 버티는 힘을 보여주셨습니다. 다만 경기별 득점 편차가 있는 편이라, 공격이 한 번 막히면 흐름이 급격히 둔해지는 모습도 함께 보입니다. 수비 쪽에서는 큰 붕괴보다 접전 관리 능력이 돋보이지만, 핵심 내야 자원들의 이탈이 누적되면서 안정감이 완전하지는 않습니다. 특히 J.P. 크로퍼드와 루크 레일리의 공백은 출루와 타선 연결에 영향을 줄 수 있어, 홈에서는 초반 득점 여부가 중요한 변수가 될 가능성이 높습니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 최근 77경기에서 38승 1무 38패, 승률 .500, 평균 득점 4.4로 전체 성적은 평이하지만 공격 생산성은 조금 더 나은 편입니다. 최근 경기에서는 애슬레틱스를 상대로 연승을 거두며 타선 감각을 크게 끌어올렸고, 직전 흐름만 보면 상위권 화력을 길게 이어갈 힘도 보여주고 있습니다. 다만 볼티모어 오리올스전에서 실점이 크게 늘어난 장면처럼, 수비와 불펜 쪽 흔들림이 나오면 경기 양상이 빠르게 무너질 수 있습니다. 리그순위는 11위이지만 최근 득점 흐름이 살아나면서 순위보다 나은 반등 조짐이 보이는 점은 주목할 만합니다. 케리 카펜터와 맷 비얼링의 이탈은 장타와 중간 타선 운영에 부담이 될 수 있으나, 최근 타선 전체의 응집력은 원정에서도 충분히 위협적으로 평가됩니다."
+homePower: "시애틀 매리너스는 접전에서 버티는 운영이 강점임|홈에서는 낮은 실점으로 경기 균형을 맞추는 편임|대량 득점보다 필요할 때 점수를 내는 구조가 보임|핵심 타자 이탈로 장타 기대치는 다소 낮아짐|초반 리드 확보 시 승부 관리 능력이 살아남"
+awayPower: "디트로이트 타이거즈는 최근 득점 상승세가 뚜렷함|한 번 터지면 연속 대량 득점도 가능한 화력임|리그순위보다 타선 응집력이 더 높게 평가됨|실점 변동이 있어도 공격으로 상쇄하는 그림이 강함|원정에서도 초반 압박을 주는 전개가 검증됨"
+h2h: '[{"date":"26.06.08","home":"디트로이트 타이거즈","away":"시애틀 매리너스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-178990-2026-06-08-detroit-tigers/"},{"date":"26.06.07","home":"디트로이트 타이거즈","away":"시애틀 매리너스","score":"0-4","link":"https://pick79.com/posts/detail/analyze-178975-2026-06-07-detroit-tigers/"},{"date":"26.06.06","home":"디트로이트 타이거즈","away":"시애틀 매리너스","score":"7-3","link":"https://pick79.com/posts/detail/analyze-178961-2026-06-06-detroit-tigers/"}]'
+summary: "시애틀 매리너스는 홈에서 버티는 힘이 있지만, 시즌 전체 흐름과 핵심 전력 공백을 함께 보면 공격 쪽 마무리 힘이 충분히 안정적이라고 보기는 어렵습니다. 디트로이트 타이거즈는 리그순위는 더 낮지만 최근 타선이 뚜렷하게 살아나 있고, 득실 차이에서도 상대보다 더 강한 공격 잠재력을 보여주고 있습니다. 세 경기 상대전적에서도 디트로이트 타이거즈가 2승 1패로 앞서 있으며, 접전과 화력전 모두에서 한 발 더 적극적인 전개를 기대할 수 있습니다. 전체적으로는 디트로이트 타이거즈가 전력 우위와 최근 상승세를 바탕으로 경기를 주도할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.03","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179689-2026-08-03-seattle-mariners/"},{"date":"26.08.02","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179677-2026-08-02-seattle-mariners/"},{"date":"26.07.31","home":"LA 다저스","away":"시애틀 매리너스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179655-2026-07-31-los-angeles-dodgers/"},{"date":"26.07.30","home":"LA 다저스","away":"시애틀 매리너스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179638-2026-07-30-los-angeles-dodgers/"},{"date":"26.07.29","home":"LA 다저스","away":"시애틀 매리너스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179624-2026-07-29-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.08.03","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179700-2026-08-03-athletics/"},{"date":"26.08.01","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179670-2026-08-01-athletics/"},{"date":"26.07.30","home":"디트로이트 타이거즈","away":"볼티모어 오리올스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179642-2026-07-30-detroit-tigers/"},{"date":"26.07.29","home":"디트로이트 타이거즈","away":"볼티모어 오리올스","score":"14-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179626-2026-07-29-detroit-tigers/"},{"date":"26.07.28","home":"디트로이트 타이거즈","away":"볼티모어 오리올스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179611-2026-07-28-detroit-tigers/"}]'
+injuryHome: "Matt Brash (염좌)|Will Wilson (골절)|Cooper Criswell (염좌)|J.P. Crawford (염증)|Luke Raley (통증)"
+injuryAway: "Kerry Carpenter (족저근막염)|Jackson Jobe (수술)|Burch Smith (염증)|Matt Vierling (통증)|Brant Hurter (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---
