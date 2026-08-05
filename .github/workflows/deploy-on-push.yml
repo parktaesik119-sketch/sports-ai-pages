@@ -26,6 +26,25 @@ jobs:
       - name: 사이트 빌드
         run: npx astro sync && npm run build
 
+      # archive-build.yml(주 1회)이 미리 만들어둔 "완성된 예전 글 HTML"을 dist에
+      # 그대로 붙여넣는다 — 다시 빌드하는 게 아니라 복사만 하는 거라 시간이 거의
+      # 안 걸린다. 이게 없으면 archive로 옮긴 글들이 이번 배포에서 통째로 빠져서
+      # URL이 죽어버리므로 반드시 배포 직전에 실행해야 한다.
+      # (lineup-update.yml의 동일 스텝과 반드시 같이 유지 — 배포하는 워크플로우라면
+      # 어느 쪽이든 이 스텝이 빠지면 archive 페이지가 사라짐)
+      - name: Archive 페이지 병합
+        run: |
+          if git ls-remote --exit-code --heads origin archive-dist > /dev/null 2>&1; then
+            git fetch origin archive-dist --depth=1
+            git worktree add /tmp/archive-dist origin/archive-dist
+            mkdir -p dist/posts/detail
+            cp -rn /tmp/archive-dist/posts/detail/. dist/posts/detail/ 2>/dev/null || true
+            git worktree remove /tmp/archive-dist --force
+            echo "✅ archive 페이지 병합 완료"
+          else
+            echo "ℹ️ archive-dist 브랜치 아직 없음 (archive-build.yml 첫 실행 전) — 스킵"
+          fi
+
       - name: Cloudflare Pages 배포
         run: npx wrangler pages deploy dist --project-name=sports-ai-pages --branch=main
         env:
