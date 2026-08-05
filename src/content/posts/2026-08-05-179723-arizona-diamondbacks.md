@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.03","home":"샌디에이고 파드리스","away":"�
 injuryHome: "Gabriel Moreno (사유 미상 단기 결장)|Tommy Troy (염좌로 10일 부상자 명단)|Michael Soroka (근육 긴장으로 15일 부상자 명단)|Jordan Lawlar (근육 긴장으로 10일 부상자 명단)|Drey Jameson (염증으로 15일 부상자 명단)"
 injuryAway: "Samad Taylor (근육 긴장으로 10일 부상자 명단)|David Morgan (염증으로 15일 부상자 명단)|Lucas Giolito (염증으로 15일 부상자 명단)|Nick Pivetta (근육 긴장으로 60일 부상자 명단)|Miguel Andujar (골절로 10일 부상자 명단)"
 homeLineup: "[\"선발투수 M. Bratt (0-1, 5.23) ERA 5.23|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 C. Mize (4-6, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/41167.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
