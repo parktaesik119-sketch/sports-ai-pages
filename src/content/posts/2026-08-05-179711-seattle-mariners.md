@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.03","home":"애슬레틱스","away":"디트로이�
 injuryHome: "Matt Brash (긴장)|Brendan Donovan (긴장)|Will Wilson (골절)|Cooper Criswell (긴장)|J.P. Crawford (염증)"
 injuryAway: "Kerry Carpenter (족저근막염)|Jackson Jobe (수술)|Burch Smith (염증)|Matt Vierling (통증)|Brant Hurter (염증)"
 homeLineup: "[\"선발투수 B. Woo (7-8, 4.56) ERA 4.56|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
-awayLineup: "[\"선발투수 T. Melton (6-1, 1.75) ERA 1.75|https://a.espncdn.com/i/headshots/mlb/players/full/5294127.png\"]"
+awayLineup: "[\"선발투수 D. Anderson (4-4, 4.24) ERA 4.24|https://a.espncdn.com/i/headshots/mlb/players/full/41125.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
