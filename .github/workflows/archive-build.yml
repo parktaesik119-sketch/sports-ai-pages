@@ -1,0 +1,78 @@
+name: Archive Build
+
+on:
+  schedule:
+    - cron: '0 18 * * 0'   # 매주 일요일 UTC 18:00 = KST 월요일 03:00 (트래픽 적은 새벽)
+  workflow_dispatch:        # 수동 실행 가능
+
+jobs:
+  archive-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # archive-dist 브랜치를 나중에 orphan으로 새로 만들어야 해서 전체 히스토리 필요
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      # 7일 지난 글을 posts → archive로 이동 (파일 위치만 옮김, 내용은 안 건드림)
+      - name: 오래된 글 archive로 이동
+        run: node scripts/archive-old-posts.js
+        env:
+          ARCHIVE_THRESHOLD_DAYS: 7
+
+      - name: 이동 결과 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content/posts/ src/content/archive/
+          if git diff --staged --quiet; then
+            echo "이동할 글 없음"
+          else
+            git commit -m "chore: archive posts older than 7 days"
+            git push
+          fi
+
+      # archive 컬렉션 전체를 다시 빌드. lineup-update.yml(평소 빌드)은 posts만
+      # 빌드해서 빠르지만, 여기서는 BUILD_ARCHIVE=true로 archive 전체를 만든다 —
+      # 느려도 주 1회라 괜찮음.
+      - name: Archive 전체 빌드
+        run: npx astro sync && npm run build
+        env:
+          BUILD_ARCHIVE: 'true'
+
+      # 빌드된 archive 페이지들(dist/posts/detail/*)을 archive-dist 브랜치에 저장한다.
+      # 이 브랜치는 순수하게 "완성된 HTML 캐시" 저장용이라 매번 히스토리를 새로
+      # 만드는(orphan) 방식으로 관리한다 — 계속 쌓이면 저장소 용량이 무한정
+      # 커지므로, 항상 최신 결과 1개 커밋만 남긴다.
+      - name: archive-dist 브랜치에 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p /tmp/archive-out/posts
+          cp -r dist/posts/detail /tmp/archive-out/posts/detail
+
+          git checkout --orphan archive-dist-new
+          git rm -rf . > /dev/null 2>&1 || true
+          git clean -fdx -e /tmp > /dev/null 2>&1 || true
+
+          mkdir -p posts
+          cp -r /tmp/archive-out/posts/detail posts/detail
+          git add posts/detail
+          git commit -m "archive-dist: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
+          git push origin archive-dist-new:archive-dist --force
+
+      - name: 결과 요약
+        run: |
+          echo "✅ archive-dist 브랜치 갱신 완료"
+          echo "다음 lineup-update.yml 실행부터 이 결과가 배포에 자동으로 병합됩니다."

@@ -32,21 +32,14 @@ jobs:
       - name: Run UEFA lineup update script
         run: node scripts/uefa-lineup-update.js
 
-      # footystats는 Cloudflare Turnstile 챌린지 도입 이후 프록시+쿠키 수동 갱신이
-      # 필요해져서 fotmob(프록시/쿠키 불필요, 완전 공개 API)으로 이관함 (2026-07).
-      # 문제 생기면 아래 주석 해제하고 fotmob 스텝을 지우면 원상복구 가능.
-      # - name: Run footystats update script
-      #   run: node scripts/footystats/footystats-lineup-update.js
-      #   continue-on-error: true
-      #   env:
-      #     HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
-      #     HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
-      #     CF_SESSION_COOKIE: ${{ secrets.CF_SESSION_COOKIE }}
-      #     CF_SESSION_USER_AGENT: ${{ secrets.CF_SESSION_USER_AGENT }}
-
-      - name: Run fotmob lineup update script
-        run: node scripts/fotmob-lineup-update.js
+      - name: Run footystats update script
+        run: node scripts/footystats/footystats-lineup-update.js
         continue-on-error: true
+        env:
+          HOME_PROXY_URL: ${{ secrets.HOME_PROXY_URL }}
+          HOME_PROXY_SECRET: ${{ secrets.HOME_PROXY_SECRET }}
+          CF_SESSION_COOKIE: ${{ secrets.CF_SESSION_COOKIE }}
+          CF_SESSION_USER_AGENT: ${{ secrets.CF_SESSION_USER_AGENT }}
 
       - name: Run ESPN lineup update script
         run: node scripts/espn-boxscore-update.js
@@ -57,15 +50,8 @@ jobs:
       - name: Run NPB lineup update script
         run: node scripts/npb-lineup-update.js
 
-      - name: Run NPB photo update
-        run: node scripts/npb-photo-update.js
-
       - name: Run KBL lineup update script
         run: node scripts/kbl-lineup-update.js
-
-      - name: Run KBO photo update
-        run: node scripts/kbo-photo-update.js
-
 
       - name: Commit and push lineup updates
         id: push
@@ -74,7 +60,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/content/posts/
           git add scripts/footystats/team-map-cache.json
-          git add scripts/fotmob-unmatched-log.json
           if git diff --staged --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "변경 없음"
@@ -110,6 +95,24 @@ jobs:
       - name: 사이트 빌드
         if: steps.push.outputs.changed == 'true'
         run: npx astro sync && npm run build
+
+      # archive-build.yml(주 1회)이 미리 만들어둔 "완성된 예전 글 HTML"을 dist에
+      # 그대로 붙여넣는다 — 다시 빌드하는 게 아니라 복사만 하는 거라 시간이 거의
+      # 안 걸린다. 이게 없으면 archive로 옮긴 글들이 이번 배포에서 통째로 빠져서
+      # URL이 죽어버리므로 반드시 배포 직전에 실행해야 한다.
+      - name: Archive 페이지 병합
+        if: steps.push.outputs.changed == 'true'
+        run: |
+          if git ls-remote --exit-code --heads origin archive-dist > /dev/null 2>&1; then
+            git fetch origin archive-dist --depth=1
+            git worktree add /tmp/archive-dist origin/archive-dist
+            mkdir -p dist/posts/detail
+            cp -rn /tmp/archive-dist/posts/detail/. dist/posts/detail/ 2>/dev/null || true
+            git worktree remove /tmp/archive-dist --force
+            echo "✅ archive 페이지 병합 완료"
+          else
+            echo "ℹ️ archive-dist 브랜치 아직 없음 (archive-build.yml 첫 실행 전) — 스킵"
+          fi
 
       # Cloudflare Pages에 Direct Upload로 배포 (빌드 횟수 500회 한도 대상 아님)
       - name: Cloudflare Pages 배포
