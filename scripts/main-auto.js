@@ -18,9 +18,9 @@ async function runAutomation() {
     console.log("✅ DB 정리 완료.");
 
     // 1단계: 데이터 수집 
-    console.log("\n[1단계] 전 종목 경기 데이터 수집 중...");
-    execSync('node fetch-all.js', { stdio: 'inherit', cwd: __dirname });
-    console.log("✅ 데이터 수집 및 마스터 DB 업데이트 완료.");
+    //console.log("\n[1단계] 전 종목 경기 데이터 수집 중...");
+    //execSync('node fetch-all.js', { stdio: 'inherit', cwd: __dirname });
+    //console.log("✅ 데이터 수집 및 마스터 DB 업데이트 완료.");
 
     // 1.5단계: 배구 스코어 업데이트
     console.log("\n[1.5단계] 배구 스코어 업데이트 중...");
@@ -51,11 +51,6 @@ async function runAutomation() {
     console.log("\n[1.96단계] UEFA 챔스/컨퍼런스리그 데이터 수집 중...");
     execSync('node fetch-uefa-context.js', { stdio: 'inherit', cwd: __dirname });
     console.log("✅ UEFA 컨텍스트 수집 완료.");
-
-    // 1.97단계: fotmob 결장자 컨텍스트 수집 (ESPN 미커버 축구 하위리그 보강)
-    console.log("\n[1.97단계] fotmob 결장자 데이터 수집 중...");
-    execSync('node fetch-fotmob-context.js', { stdio: 'inherit', cwd: __dirname });
-    console.log("✅ fotmob 컨텍스트 수집 완료.");
 
     // 2~5단계: 분석 및 마크다운 생성
     console.log("\n[2-5단계] 신규 경기 필터링 및 AI 분석 시작...");
