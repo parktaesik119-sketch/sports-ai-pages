@@ -5,9 +5,14 @@ import { getCollection } from 'astro:content';
 const { category, title } = Astro.props;
 
 // [수정] 실제 'posts' 컬렉션에서 해당 카테고리의 글만 가져오기
-const allPosts = await getCollection('posts', ({ data }) => {
-  return data.category === category; // 'soccer' 등 카테고리 필터링
-});
+// archive(7일 지난 글)도 합쳐서 봐야, 비시즌이라 최근 글이 4개가 안 되는 종목도
+// 예전 글로 채워서 보여줄 수 있다. 카드 4개만 뽑는 가벼운 작업이라 성능엔 문제없음.
+const filterFn = ({ data }) => data.category === category;
+const [recentMatched, archivedMatched] = await Promise.all([
+  getCollection('posts', filterFn),
+  getCollection('archive', filterFn),
+]);
+const allPosts = [...recentMatched, ...archivedMatched];
 
 // [수정] 최신순 정렬 후 상위 4개만 추출
 const ONE_DAY_MS = 24 * 60 * 60 * 1000;
