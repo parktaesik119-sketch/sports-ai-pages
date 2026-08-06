@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.04","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.08.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181205-2026-08-04-yokohama-baystars/"},{"date":"26.08.02","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181201-2026-08-02-yakult-swallows/"},{"date":"26.08.01","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181192-2026-08-01-yakult-swallows/"},{"date":"26.07.26","home":"한신 타이거스","away":"요미우리 자이언츠","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181183-2026-07-26-hanshin-tigers/"},{"date":"26.07.25","home":"한신 타이거스","away":"요미우리 자이언츠","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181174-2026-07-25-hanshin-tigers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"선발투수 Osvaldo Bido (1-0, 0.00)|https://p.npb.jp/players_photo/2026/180/db/042_13015152.jpg\"]"
-awayLineup: "[\"선발투수 Koutaro Ohtake (3-7, 2.67)|https://p.npb.jp/players_photo/2026/180/t/021_41345136.jpg\"]"
+homeLineup: "[\"선발투수 비도 (1-0, 0.00)|https://p.npb.jp/players_photo/2026/180/db/042_13015152.jpg\"]"
+awayLineup: "[\"선발투수 오타케 (3-7, 2.67)|https://p.npb.jp/players_photo/2026/180/t/021_41345136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

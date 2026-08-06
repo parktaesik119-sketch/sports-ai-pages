@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.04","home":"주니치 드래곤스","away":"야쿠�
 awayRecent: '[{"date":"26.08.04","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181208-2026-08-04-chunichi-dragons/"},{"date":"26.08.02","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181201-2026-08-02-yakult-swallows/"},{"date":"26.08.01","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181192-2026-08-01-yakult-swallows/"},{"date":"26.07.26","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181179-2026-07-26-yakult-swallows/"},{"date":"26.07.25","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181178-2026-07-25-yakult-swallows/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"선발투수 Yumeto Kanemaru (5-8, 2.66)|https://p.npb.jp/players_photo/2026/180/d/021_61565150.jpg\"]"
-awayLineup: "[\"선발투수 Shohta Masui (1-0, 0.82)|https://p.npb.jp/players_photo/2026/180/s/043_01805152.jpg\"]"
+homeLineup: "[\"선발투수 카네마루 (5-8, 2.66)|https://p.npb.jp/players_photo/2026/180/d/021_61565150.jpg\"]"
+awayLineup: "[\"선발투수 마츠이 (1-0, 0.82)|https://p.npb.jp/players_photo/2026/180/s/043_01805152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
