@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.07.15","home":"인터 클럽 드 에스칼데스","awa
 awayRecent: '[{"date":"26.08.03","home":"플로라 탈린","away":"하르주JK","score":"1-0","result":"🟢승"},{"date":"26.07.31","home":"더 뉴 세인츠 FC","away":"플로라 탈린","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1589433-2026-07-31-the-new-saints/"},{"date":"26.07.24","home":"플로라 탈린","away":"더 뉴 세인츠 FC","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1589427-2026-07-24-flora-tallinn/"},{"date":"26.07.18","home":"플로라 탈린","away":"Nomme United","score":"1-2","result":"🔴패"},{"date":"26.07.15","home":"사부르탈로","away":"플로라 탈린","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554379-2026-07-15-saburtalo/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Javi Díaz (GK)|https://images.fotmob.com/image_resources/playerimages/942424.png\",\"Maurizio Pochettino (DF)|https://images.fotmob.com/image_resources/playerimages/1101127.png\",\"Anwar Hernandez (DF)|https://images.fotmob.com/image_resources/playerimages/2068264.png\",\"Álex Sánchez (DF)|https://images.fotmob.com/image_resources/playerimages/1177531.png\",\"Jilmar Torres (DF)|https://images.fotmob.com/image_resources/playerimages/724755.png\",\"Otegui (MF)|https://images.fotmob.com/image_resources/playerimages/640688.png\",\"Pablo Molina (MF)|https://images.fotmob.com/image_resources/playerimages/1657704.png\",\"David López (MF)|https://images.fotmob.com/image_resources/playerimages/1322865.png\",\"Sol Sidibe (FW)|https://images.fotmob.com/image_resources/playerimages/2127328.png\",\"Faysal Chouaib (FW)|https://images.fotmob.com/image_resources/playerimages/1382308.png\",\"Domi Berlanga (FW)|https://images.fotmob.com/image_resources/playerimages/1231842.png\"]"
+awayLineup: "[\"Evert Grünvald (GK)|https://images.fotmob.com/image_resources/playerimages/1270366.png\",\"Danil Kuraksin (DF)|https://images.fotmob.com/image_resources/playerimages/1177438.png\",\"Mihhail Kolobov (DF)|https://images.fotmob.com/image_resources/playerimages/1507078.png\",\"Robert Veering (DF)|https://images.fotmob.com/image_resources/playerimages/1511245.png\",\"Airon Kollo (DF)|https://images.fotmob.com/image_resources/playerimages/1764319.png\",\"Maksim Kalimullin (MF)|https://images.fotmob.com/image_resources/playerimages/1635714.png\",\"Vladislav Kreida (MF)|https://images.fotmob.com/image_resources/playerimages/948077.png\",\"Remo Valdmets (MF)|https://images.fotmob.com/image_resources/playerimages/1657529.png\",\"Sergei Zenjov (FW)|https://images.fotmob.com/image_resources/playerimages/77872.png\",\"Rauno Sappinen (FW)|https://images.fotmob.com/image_resources/playerimages/431841.png\",\"Sander Alamaa (FW)|https://images.fotmob.com/image_resources/playerimages/1657530.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Felip Ortiz|https://images.fotmob.com/image_resources/playerimages/75312.png"
+awayCoach: "Konstantin Vassiljev|https://images.fotmob.com/image_resources/playerimages/16511.png"
 pickWinTeam: "인터 클럽 드 에스칼데스"
 pickWinResult: "승"
 pickHandicapTeam: "인터 클럽 드 에스칼데스"
