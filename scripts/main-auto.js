@@ -52,6 +52,11 @@ async function runAutomation() {
     execSync('node fetch-uefa-context.js', { stdio: 'inherit', cwd: __dirname });
     console.log("✅ UEFA 컨텍스트 수집 완료.");
 
+    // 1.97단계: fotmob 결장자 컨텍스트 수집 (ESPN 미커버 축구 하위리그 보강)
+    console.log("\n[1.97단계] fotmob 결장자 데이터 수집 중...");
+    execSync('node fetch-fotmob-context.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ fotmob 컨텍스트 수집 완료.");
+
     // 2~5단계: 분석 및 마크다운 생성
     console.log("\n[2-5단계] 신규 경기 필터링 및 AI 분석 시작...");
     console.log("💡 이미 생성된 분석글은 자동으로 건너뜁니다.");
