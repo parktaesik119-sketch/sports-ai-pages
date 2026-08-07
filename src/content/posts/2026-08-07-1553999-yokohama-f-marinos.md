@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.07.19","home":"요코하마 F마리노스","away":"Roa
 awayRecent: '[{"date":"26.07.15","home":"가시마 앤틀러스","away":"센다이 89ers","score":"5-0","result":"🟢승"},{"date":"26.06.06","home":"가시마 앤틀러스","away":"비셀 고베","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546317-2026-06-06-kashima/"},{"date":"26.05.30","home":"비셀 고베","away":"가시마 앤틀러스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1546315-2026-05-30-vissel-kobe/"},{"date":"26.05.23","home":"가시마 앤틀러스","away":"FC 도쿄","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1504822-2026-05-23-kashima/"},{"date":"26.05.17","home":"JEF 유나이티드 지바","away":"가시마 앤틀러스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1504813-2026-05-17-jef-united-chiba/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Rubén Blanco (GK)|https://images.fotmob.com/image_resources/playerimages/396526.png\",\"Taisei Inoue (DF)|https://images.fotmob.com/image_resources/playerimages/1611216.png\",\"Jeison Quiñónes (DF)|https://images.fotmob.com/image_resources/playerimages/1022346.png\",\"Kosei Suwama (DF)|https://images.fotmob.com/image_resources/playerimages/1714755.png\",\"Ryotaro Tsunoda (DF)|https://images.fotmob.com/image_resources/playerimages/1194458.png\",\"Kei Chinen (MF)|https://images.fotmob.com/image_resources/playerimages/831831.png\",\"Kosuke Matsumura (MF)|https://images.fotmob.com/image_resources/playerimages/1477971.png\",\"Tomoki Kondo (FW)|https://images.fotmob.com/image_resources/playerimages/1266580.png\",\"Jun Amano (MF)|https://images.fotmob.com/image_resources/playerimages/523739.png\",\"Shin Miidera (MF)|https://images.fotmob.com/image_resources/playerimages/2120233.png\",\"Kaina Tanimura (FW)|https://images.fotmob.com/image_resources/playerimages/1380687.png\"]"
+awayLineup: "[\"Tomoki Hayakawa (GK)|https://images.fotmob.com/image_resources/playerimages/1232143.png\",\"Rikuto Hirose (DF)|https://images.fotmob.com/image_resources/playerimages/648262.png\",\"Naomichi Ueda (DF)|https://images.fotmob.com/image_resources/playerimages/430831.png\",\"Ikuma Sekigawa (DF)|https://images.fotmob.com/image_resources/playerimages/1028353.png\",\"Ryoya Ogawa (DF)|https://images.fotmob.com/image_resources/playerimages/727419.png\",\"Yan (FW)|https://images.fotmob.com/image_resources/playerimages/758460.png\",\"Kento Misao (MF)|https://images.fotmob.com/image_resources/playerimages/648364.png\",\"Matheus Bueno (MF)|https://images.fotmob.com/image_resources/playerimages/1173576.png\",\"Minato Yoshida (FW)|https://images.fotmob.com/image_resources/playerimages/1748953.png\",\"Léo (FW)|https://images.fotmob.com/image_resources/playerimages/558007.png\",\"Yuma Suzuki (FW)|https://images.fotmob.com/image_resources/playerimages/619621.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "Steve Corica|https://images.fotmob.com/image_resources/playerimages/23803.png"
+awayCoach: "Toru Oniki|https://images.fotmob.com/image_resources/playerimages/20266.png"
 pickWinTeam: "요코하마 F마리노스"
 pickWinResult: "승"
 pickHandicapTeam: "요코하마 F마리노스"
