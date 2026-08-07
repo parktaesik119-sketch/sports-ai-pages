@@ -1721,6 +1721,13 @@ const TEAM_NAME_MAP = {
   "Slavia Praha": "슬라비아 프라하",
   "Sigma Olomouc": "SK 시그마 올로모우츠",
   "Raith Rovers": "레이스 로버스",
+  "Carrick Rangers": "C.레인저스",
+  "Portadown": "포터다운",
+  "Ballymena United": "밸리미나 유나이티드",
+  "Ballinamallard United": "발리나말라드",
+  "Glenavon": "글레나본",
+  "Warrenpoint Town": "워렌포인트 타운",
+  "Maritimo": "마리타무",
   
   //중국축구
   "Changchun Yatai": "창춘 야타이",
