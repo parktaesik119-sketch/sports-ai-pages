@@ -19,13 +19,13 @@ summary: "이번 경기는 시즌 초반 전력과 최근 득점 감각을 함�
 homeRecent: '[{"date":"26.07.25","home":"함부르크","away":"하이덴하임","score":"3-1","result":"🔴패"},{"date":"26.07.22","home":"볼로냐","away":"하이덴하임","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1560778-2026-07-22-bologna/"},{"date":"26.05.16","home":"하이덴하임","away":"마인츠 05","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1388610-2026-05-16-1-fc-heidenheim/"},{"date":"26.05.11","home":"쾰른","away":"하이덴하임","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1388598-2026-05-11-1-fc-kln/"},{"date":"26.05.02","home":"바이에른 뮌헨","away":"하이덴하임","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1388588-2026-05-02-bayern-mnchen/"}]'
 awayRecent: '[{"date":"26.08.01","home":"VfL Osnabrück","away":"파더보른","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1583547-2026-08-01-vfl-osnabrck/"},{"date":"26.07.25","home":"Nordhorn","away":"VfL Osnabrück","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1598516-2026-07-25-nordhorn/"},{"date":"26.07.12","home":"야블로네츠","away":"VfL Osnabrück","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1567615-2026-07-12-fk-jablonec/"},{"date":"26.05.16","home":"Stuttgart II","away":"VfL Osnabrück","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1394429-2026-05-16-stuttgart-ii/"},{"date":"26.05.09","home":"VfL Osnabrück","away":"Ulm","score":"1-1","result":"🟡무"}]'
 injuryHome: "없음"
-injuryAway: "Robin Fabinski (발목 부상)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+injuryAway: "없음"
+homeLineup: "[\"Frank Feller (GK)|https://images.fotmob.com/image_resources/playerimages/1330848.png\",\"Oualid Mhamdi (DF)|https://images.fotmob.com/image_resources/playerimages/1352636.png\",\"Patrick Mainka (DF)|https://images.fotmob.com/image_resources/playerimages/423624.png\",\"Tim Siersleben (DF)|https://images.fotmob.com/image_resources/playerimages/1173779.png\",\"Jonas Föhrenbach (DF)|https://images.fotmob.com/image_resources/playerimages/642534.png\",\"Marcel Costly (FW)|https://images.fotmob.com/image_resources/playerimages/556540.png\",\"Adrian Beck (MF)|https://images.fotmob.com/image_resources/playerimages/794393.png\",\"Jan Schöppner (MF)|https://images.fotmob.com/image_resources/playerimages/1002673.png\",\"Mathias Honsak (FW)|https://images.fotmob.com/image_resources/playerimages/557805.png\",\"Marvin Pieringer (FW)|https://images.fotmob.com/image_resources/playerimages/956913.png\",\"Budu Zivzivadze (FW)|https://images.fotmob.com/image_resources/playerimages/674242.png\"]"
+awayLineup: "[\"Jonas Krumrey (GK)|https://images.fotmob.com/image_resources/playerimages/1199140.png\",\"Robin Fabinski (DF)|https://images.fotmob.com/image_resources/playerimages/1515922.png\",\"Jannik Müller (DF)|https://images.fotmob.com/image_resources/playerimages/458620.png\",\"Niklas Wiemann (DF)|https://images.fotmob.com/image_resources/playerimages/1052358.png\",\"Konrad Faber (DF)|https://images.fotmob.com/image_resources/playerimages/1002652.png\",\"Bjarke Jacobsen (MF)|https://images.fotmob.com/image_resources/playerimages/391679.png\",\"Fridolin Wagner (MF)|https://images.fotmob.com/image_resources/playerimages/673292.png\",\"Patrick Kammerbauer (MF)|https://images.fotmob.com/image_resources/playerimages/775691.png\",\"David Kopacz (MF)|https://images.fotmob.com/image_resources/playerimages/860597.png\",\"Ismail Badjie (MF)|https://images.fotmob.com/image_resources/playerimages/1663016.png\",\"Robin Meißner (FW)|https://images.fotmob.com/image_resources/playerimages/964599.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "3-4-2-1"
+homeCoach: "Frank Schmidt|https://images.fotmob.com/image_resources/playerimages/704382.png"
+awayCoach: "Timo Schultz|https://images.fotmob.com/image_resources/playerimages/26963.png"
 pickWinTeam: "VfL Osnabrück"
 pickWinResult: "승"
 pickHandicapTeam: "VfL Osnabrück"
