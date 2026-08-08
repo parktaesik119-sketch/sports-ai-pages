@@ -150,8 +150,8 @@ function parseStoredLineupArray(raw) {
   }
 }
 
-function buildNaverPhotoUrl(pCode) {
-  return `https://sports-phinf.pstatic.net/player/npb/default/${pCode}.png`;
+function buildNaverPhotoUrl(playerId) {
+  return `https://sports-phinf.pstatic.net/player/npb/default/${playerId}.png`;
 }
 
 // "선발투수 다케우치 (10-5, 3.20)|https://..." 같은 줄에서 이름 부분만 newName으로 교체.
@@ -172,19 +172,45 @@ function replacePitcherName(line, newName) {
   return `선발투수 ${newName}${statsSuffix}${photoSuffix}`;
 }
 
-// game-polling 응답의 batterLineup.home/away 배열(타순 순서대로 옴) → "N번 이름 (포지션)|사진" 배열
-function buildBatterLines(batterLineup) {
-  if (!Array.isArray(batterLineup) || batterLineup.length === 0) return [];
-  return batterLineup.map((p, idx) => {
-    const posKo = POSITION_KO_MAP[p.position] || p.position || '';
-    let line = `${idx + 1}번 ${p.name} (${posKo})`;
-    if (p.pCode) line += `|${buildNaverPhotoUrl(p.pCode)}`;
-    return line;
-  });
+// /record 엔드포인트의 homeBatter/awayBatter 배열(각 항목: name, posName(이미 한글),
+// playerId, batOrder) → "N번 이름 (포지션)|사진" 배열.
+// ⚠️ 2026-08 실사용 캡처로 구조 확정: 예전에 가정했던 game-polling의
+// textRelayData.baseInfo.batterLineup 경로는 존재하지 않는 필드였음(버그 원인).
+// posName은 네이버가 이미 한글로 내려주므로 POSITION_KO_MAP 변환이 필요 없음.
+// 배열 순서를 신뢰하지 않고 batOrder 필드로 명시적으로 정렬한다.
+function buildBatterLines(batterArr) {
+  if (!Array.isArray(batterArr) || batterArr.length === 0) return [];
+  return [...batterArr]
+    .sort((a, b) => (a.batOrder ?? 0) - (b.batOrder ?? 0))
+    .map((p) => {
+      const posKo = p.posName || POSITION_KO_MAP[p.pos] || '';
+      let line = `${p.batOrder}번 ${p.name} (${posKo})`;
+      if (p.playerId) line += `|${buildNaverPhotoUrl(p.playerId)}`;
+      return line;
+    });
 }
 
 async function fetchNaverGamePolling(gameId) {
   const url = `https://api-gw.sports.naver.com/schedule/games/${gameId}/game-polling`;
+  const res = await fetch(url, {
+    headers: {
+      'accept': 'application/json, text/plain, */*',
+      'origin': 'https://m.sports.naver.com',
+      'referer': 'https://m.sports.naver.com/',
+    },
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  if (!data?.success || !data?.result) throw new Error('응답 구조 이상');
+  return data.result;
+}
+
+// ⚠️ 타자 라인업(batOrder/posName/playerId)은 game-polling이 아니라 이 /record
+// 엔드포인트에만 존재한다(2026-08 실사용 캡처로 확인, 이전엔 game-polling 응답 안에
+// 있다고 잘못 가정해서 항상 빈 배열만 나오던 버그였음). 선발투수 이름은 기존대로
+// game-polling 쪽(result.game.homeStarterName)이 이미 정상 동작하므로 그대로 둔다.
+async function fetchNaverRecord(gameId) {
+  const url = `https://api-gw.sports.naver.com/schedule/games/${gameId}/record`;
   const res = await fetch(url, {
     headers: {
       'accept': 'application/json, text/plain, */*',
@@ -270,9 +296,18 @@ async function main() {
       continue;
     }
 
-    const batterLineup = result?.textRelayData?.baseInfo?.batterLineup;
-    const homeBatters = batterLineup?.home;
-    const awayBatters = batterLineup?.away;
+    // 타자 라인업은 game-polling이 아니라 별도의 /record 엔드포인트에서 온다.
+    // 이 호출이 실패해도(예: 아직 타순 미확정) 투수명 교체는 계속 진행할 수 있어야
+    // 하므로, 여기서는 continue하지 않고 homeBatters/awayBatters를 빈 배열로 둔다.
+    let recordResult = null;
+    try {
+      recordResult = await fetchNaverRecord(gameId);
+    } catch (err) {
+      console.error(`   ⚠️ 네이버 record 조회 실패 (${gameId}):`, err.message, '(아직 타순 미확정일 수 있음 — 다음 실행에서 재시도)');
+    }
+
+    const homeBatters = recordResult?.recordData?.homeBatter || [];
+    const awayBatters = recordResult?.recordData?.awayBatter || [];
     const homeStarterName = result?.game?.homeStarterName || null;
     const awayStarterName = result?.game?.awayStarterName || null;
 
