@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.08","home":"밀워키 브루어스","away":"미네�
 injuryHome: "Rob Zastryzny (좌상)|Joel Kuhnel (건염)|Kyle Harrison (경련)|JoJo Romero (부상)|Sal Frelick (좌상)"
 injuryAway: "Zebby Matthews (찰과상)|Byron Buxton (신경 압박)|Joe Ryan (좌상)|Mike Paredes (좌상)|Mick Abel (수술)"
 homeLineup: "[\"선발투수 R. Gasser (3-4, 4.48) ERA 4.48|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
-awayLineup: "[\"선발투수 T. Bradley (9-4, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (9-4, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\",\"1번 A. Martin (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4297998.png\",\"2번 R. Jeffers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41587.png\",\"3번 R. Lewis (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40635.png\",\"4번 J. Bell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"5번 K. Clemens (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"6번 L. Keaschall (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4977664.png\",\"7번 K. Culpepper (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4935268.png\",\"8번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"9번 R. Kreidler (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42701.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
