@@ -864,6 +864,7 @@ const TEAM_NAME_MAP = {
   "SV Elversberg": "엘버스베르크",
   "SpVgg Greuther Fürth": "그로이터 퓌르트",
   "VfL Bochum": "보훔",
+  "Bochum": "보훔",
 
   // 세리에B (이탈리아)
   "Bari": "바리",
