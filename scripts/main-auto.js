@@ -18,9 +18,9 @@ async function runAutomation() {
     console.log("✅ DB 정리 완료.");
 
     // 1단계: 데이터 수집 
-    //console.log("\n[1단계] 전 종목 경기 데이터 수집 중...");
-    //execSync('node fetch-all.js', { stdio: 'inherit', cwd: __dirname });
-    //console.log("✅ 데이터 수집 및 마스터 DB 업데이트 완료.");
+    console.log("\n[1단계] 전 종목 경기 데이터 수집 중...");
+    execSync('node fetch-all.js', { stdio: 'inherit', cwd: __dirname });
+    console.log("✅ 데이터 수집 및 마스터 DB 업데이트 완료.");
 
     // 1.5단계: 배구 스코어 업데이트
     console.log("\n[1.5단계] 배구 스코어 업데이트 중...");
