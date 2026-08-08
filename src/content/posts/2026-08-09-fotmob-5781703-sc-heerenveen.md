@@ -1,0 +1,37 @@
+---
+title: "SC Heerenveen vs FC Twente 경기분석·라인업·결장자·통계·승부예측 (8월 9일) | Eredivisie - 픽천국"
+date: 2026-08-09T14:45:00.000Z
+description: "SC Heerenveen vs FC Twente 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781703-2026-08-09-sc-heerenveen"
+category: "soccer"
+country: "네덜란드"
+league: "Eredivisie"
+homeTeam: "SC Heerenveen"
+awayTeam: "FC Twente"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10228.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8611.png"
+homeAnalysis: "SC 헤렌베인은 2026시즌 전체 DB 기준 최근 경기 데이터가 제공되지 않아 시즌 성적 자체는 확인되지 않지만, 최근 경기 흐름에서는 경기당 2.2득점으로 공격 전개가 꽤 활발하게 이어지고 있습니다. 다만 실점이 함께 늘어나는 구간이 보이고 있어, 득점력을 살리면서도 수비 균형을 얼마나 잡느냐가 핵심입니다. 홈에서는 득점 페이스를 끌어올리는 장면이 자주 보이지만, 상대 압박이 강해지면 수비 라인이 흔들릴 수 있습니다. 특히 최근 들어 대량 득점과 무득점이 함께 섞여 있어, 전방 마무리의 기복이 경기 흐름을 좌우할 가능성이 있습니다. Levi Smans의 이탈은 중원과 전진 연결에서 부담으로 작용할 수 있어, 홈에서의 주도권 유지가 더 까다로워 보입니다."
+awayAnalysis: "FC 트벤터는 2026시즌 전체 DB 기준 최근 1경기에서 1승 0패, 평균 득점 6.0으로 출발이 매우 강하게 나타나고 있습니다. 최근 경기 흐름을 봐도 경기당 1.6득점 수준으로 기본적인 공격 생산력이 유지되고 있어, 원정에서도 득점 기대치를 쉽게 낮추기 어렵습니다. 수비 쪽은 경기별 편차가 있지만, 강한 압박과 빠른 전환이 살아날 때는 상대를 몰아붙이는 힘이 분명합니다. 특히 공격 템포가 올라갈 때는 한 번에 흐름을 가져오는 장면이 자주 보입니다. Lars Unnerstall과 Mees Hilgers의 결장은 후방 안정감에 부담이 될 수 있으나, 전체적인 전력 우위는 여전히 유지되고 있습니다."
+homePower: "최근 득점 생산은 좋지만 실점 동반으로 난타전 가능성 높음|홈에서 공격 템포가 살아날 때 경기 주도력 상승함|마무리 효율 기복이 있어 한 방 집중도가 중요함|Levi Smans 이탈로 중원 연결의 안정성은 다소 약화됨|수비 균형만 잡히면 홈 강세를 끌어올릴 여지 있음"
+awayPower: "초반 화력 집중도가 높아 경기 선점 능력 보임|원정에서도 전환 속도로 상대 라인 흔들 수 있음|공격 생산은 꾸준해 득점 기대치가 쉽게 꺾이지 않음|주전 골키퍼 공백으로 후방 안정성은 변수임|중앙 수비 결장으로 세컨드볼 대응이 흔들릴 수 있음"
+h2h: '[{"date":"26.02.08","home":"FC Twente","away":"SC Heerenveen","score":"5-0"},{"date":"25.08.24","home":"SC Heerenveen","away":"FC Twente","score":"1-2"},{"date":"25.02.10","home":"SC Heerenveen","away":"FC Twente","score":"3-3"},{"date":"24.09.18","home":"FC Twente","away":"SC Heerenveen","score":"2-0"},{"date":"24.04.04","home":"SC Heerenveen","away":"FC Twente","score":"3-3"}]'
+summary: "SC 헤렌베인은 최근 경기에서 공격 전개 자체는 나쁘지 않지만, 실점 억제가 따라주지 않으면 경기 흐름을 끝까지 지키기 어려운 모습입니다. FC 트벤터는 최근 득점 생산과 전력 안정감에서 조금 더 앞서 있고, 맞대결에서도 최근 우세가 뚜렷하게 이어지고 있습니다. 특히 최근 상대전적에서 FC 트벤터가 큰 점수 차 승리까지 만들어낸 흐름이 있어, 전체적인 전력 비교에서는 원정팀이 한 발 앞선다고 보는 편이 자연스럽습니다. 다만 양 팀의 최근 득점 흐름과 수비 흔들림을 함께 보면 이번 경기는 접전 양상으로 이어질 가능성이 높고, 전반적인 균형은 무승부 쪽으로도 충분히 열려 있습니다."
+homeRecent: '[{"date":"26.07.25","home":"헤렌베인","away":"OH 뢰번","score":"4-4","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1584955-2026-07-25-heerenveen/"},{"date":"26.07.18","home":"클뤼프 브뤼허","away":"헤렌베인","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1550575-2026-07-18-club-brugge-kv/"},{"date":"26.07.04","home":"헤렌베인","away":"더 흐라프스하프","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1554637-2026-07-04-heerenveen/"},{"date":"26.05.22","home":"위트레흐트","away":"헤렌베인","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1545412-2026-05-22-utrecht/"},{"date":"26.05.17","home":"헤렌베인","away":"아약스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1381166-2026-05-17-heerenveen/"}]'
+awayRecent: '[{"date":"26.08.07","home":"트벤터","away":"DAC 1904 Dunajska Streda","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5955348-2026-08-07-fc-twente/"},{"date":"26.08.03","home":"헹크","away":"트벤터","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1583611-2026-08-03-genk/"},{"date":"26.07.31","home":"페렌츠바로시","away":"트벤터","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1593525-2026-07-31-ferencvarosi-tc/"},{"date":"26.07.24","home":"트벤터","away":"페렌츠바로시","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1593523-2026-07-24-twente/"},{"date":"26.07.11","home":"PAOK Thessaloniki","away":"트벤터","score":"2-3","result":"🟢승"}]'
+injuryHome: "Levi Smans (무릎 부상)"
+injuryAway: "Lars Unnerstall (복부 부상)|Mees Hilgers (십자 인대 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "2"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (8월 10일) | MLB - 픽천국"
+date: 2026-08-10T00:20:00.000Z
+description: "샌디에이고 파드리스 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260810HOSD0-2026-08-10-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 최근 71경기에서 33승 1무 37패, 평균 득점 4.2를 기록하며 전체적으로는 승패가 엇비슷하지만 득점 생산이 아주 낮지는 않은 흐름입니다. 최근 10경기에서도 6승 4패로 버티는 힘을 보여 주었고, 애리조나 원정 4연전에서는 기복이 있었지만 직전 경기에서 휴스턴 애스트로스를 상대로 3점에 그치며 아쉬움을 남겼습니다. 홈에서는 샌프란시스코 자이언츠전 연승처럼 묶어서 잡아내는 경기력이 돋보였고, 타선이 살아나는 날에는 다득점으로 흐름을 가져오는 모습이 보입니다. 다만 2026시즌 리그순위 7위, 득실 494-510으로 실점 억제는 여전히 과제이며, 주요 결장자들이 겹치면서 마운드와 타선의 깊이가 얇아진 점도 부담입니다. 결국 홈에서는 공격이 먼저 풀려야 경기 주도권을 잡을 수 있는 팀으로 보이며, 초반 득점 여부가 흐름을 크게 좌우할 가능성이 높습니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 최근 71경기에서 41승 1무 29패, 평균 득점 4.6으로 더 안정적인 승률과 득점력을 보여 주고 있습니다. 최근 10경기에서도 7승 3패로 좋은 흐름을 이어가고 있고, 텍사스 레인저스전 연승처럼 필요한 경기에서 타선이 꾸준히 점수를 내는 점이 인상적입니다. 2026시즌 리그순위 4위에 올라 있으면서도 득실 546-568로 실점 관리가 완전히 매끈한 편은 아니지만, 경기당 득점 기대치가 높아 접전에서 앞서기 쉬운 구조입니다. 특히 원정에서도 에인절스, 화이트삭스, 토론토를 상대로 득점을 이어간 점은 타선 응집력이 살아 있음을 보여 줍니다. 다만 카를로스 코레아와 브랜던 월터 같은 장기 결장 공백은 전력 밸런스에 영향을 주고 있어, 타선이 평소처럼 점수를 내는지가 중요하게 보입니다."
+homePower: "홈 최근 10경기 6승 4패, 버티는 힘은 검증됨|득점 기복이 있어도 홈 타선은 한 번 터지면 큼|실점 억제보다 득점 선취가 흐름의 핵심임|주요 결장자 여파로 마운드 깊이 부담 보임|단기 경기에서는 초반 집중력이 승부처임"
+awayPower: "원정에서도 7승 3패, 상승 기조 유지됨|팀 평균 득점이 높아 응집력 있는 타선 보임|리그순위 4위, 상위권 운영 능력은 검증됨|실점 허용은 있어도 득점으로 상쇄하는 구조임|장기 결장 공백 속에서도 타선 중심축은 견고함"
+h2h: '[{"date":"26.08.08","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-6"}]'
+summary: "휴스턴 애스트로스는 2026시즌 리그순위와 최근 흐름을 함께 보면 샌디에이고 파드리스보다 한 발 앞선 전력으로 평가됩니다. 샌디에이고 파드리스도 최근 10경기에서 반등의 끈을 놓지 않고 있지만, 시즌 전체 득실과 타선의 꾸준함에서는 휴스턴 애스트로스가 더 안정적입니다. 특히 직전 맞대결에서 휴스턴 애스트로스가 6득점으로 앞서며 경기 주도권을 가져간 점은 이번 경기에서도 원정 쪽 우세를 지지하는 흐름으로 보입니다. 전반적으로는 휴스턴 애스트로스가 득점 흐름과 경기 운영에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.07","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807SDAZ0-2026-08-07-arizona-diamondbacks/"},{"date":"26.08.06","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179736-2026-08-06-arizona-diamondbacks/"},{"date":"26.08.05","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179723-2026-08-05-arizona-diamondbacks/"},{"date":"26.08.04","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179708-2026-08-04-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.06","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179724-2026-08-06-houston-astros/"},{"date":"26.08.04","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179704-2026-08-04-houston-astros/"},{"date":"26.08.03","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179693-2026-08-03-houston-astros/"},{"date":"26.08.02","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179678-2026-08-02-houston-astros/"}]'
+injuryHome: "David Morgan (염증)|Samad Taylor (근육 염좌)|Lucas Giolito (염증)|Miguel Andujar (골절)|Nick Pivetta (근육 염좌)"
+injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 애스트로스"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 애스트로스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---
