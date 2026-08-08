@@ -325,6 +325,73 @@ const pickOuDirection   = item.data.pickOuDirection?.trim()    || '';
 const pickOuValue       = item.data.pickOuValue?.trim()        || '';
 const hasExpectedScore  = !!(pickExpectedHome && pickExpectedAway);
 const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickOuValue);
+
+// ─────────────────────────────────────────────
+// Schema.org 구조화 데이터(JSON-LD) — 구글에게 "이건 실제 스포츠 경기 분석
+// 콘텐츠"임을 명시적으로 알림. BreadcrumbList + Article은 항상, SportsEvent는
+// 팀명이 정상 파싱됐을 때만 추가한다(기본값 '홈팀'/'원정팀'이면 의미 없는 데이터라 스킵).
+// ─────────────────────────────────────────────
+const pageUrl = `https://pick79.com/posts/detail/${slug}/`;
+
+const SPORT_MAP: Record<string, string> = {
+  soccer: 'Soccer',
+  baseball: 'Baseball',
+  basketball: 'Basketball',
+  volleyball: 'Volleyball',
+  hockey: 'IceHockey',
+};
+const sportName = SPORT_MAP[category];
+
+const eventDateObj = new Date(item.data.date);
+const eventDateISO = !isNaN(eventDateObj.getTime()) ? eventDateObj.toISOString() : undefined;
+
+const structuredData: any = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: '홈', item: 'https://pick79.com/' },
+        { '@type': 'ListItem', position: 2, name: categoryName, item: `https://pick79.com/posts/${category}/` },
+        { '@type': 'ListItem', position: 3, name: translatedTitle, item: pageUrl },
+      ],
+    },
+    {
+      '@type': 'Article',
+      headline: translatedTitle,
+      description: summary || `${translatedTitle} 스포츠경기 분석글입니다.`,
+      ...(eventDateISO ? { datePublished: eventDateISO } : {}),
+      author: { '@type': 'Organization', name: '픽천국' },
+      publisher: {
+        '@type': 'Organization',
+        name: '픽천국',
+        logo: { '@type': 'ImageObject', url: 'https://i.imgur.com/GgcZzZo.png' },
+      },
+      mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+      ...(homeLogo && homeLogo !== '/images/wing-home.png' ? { image: [homeLogo] } : {}),
+    },
+  ],
+};
+
+if (homeTeam !== '홈팀' && awayTeam !== '원정팀') {
+  structuredData['@graph'].push({
+    '@type': 'SportsEvent',
+    name: `${homeTeam} vs ${awayTeam}`,
+    ...(eventDateISO ? { startDate: eventDateISO } : {}),
+    ...(sportName ? { sport: sportName } : {}),
+    homeTeam: { '@type': 'SportsTeam', name: homeTeam },
+    awayTeam: { '@type': 'SportsTeam', name: awayTeam },
+    ...(league && league !== '리그' ? { superEvent: { '@type': 'SportsOrganization', name: league } } : {}),
+    location: { '@type': 'Place', name: country && country !== '국가' ? country : '미정' },
+    url: pageUrl,
+    eventStatus: 'https://schema.org/EventScheduled',
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+  });
+}
+
+// "</script>" 같은 시퀀스가 팀명/제목에 우연히 섞여 스크립트 태그가 조기 종료되는
+// 사고를 방지하기 위한 안전장치
+const structuredDataJson = JSON.stringify(structuredData).replace(/</g, '\\u003c');
 ---
 
 <BaseLayout 
@@ -332,6 +399,7 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
     description={`${translatedTitle} 스포츠경기 분석글입니다. 최신 스포츠분석 및 추천 스포츠픽 제공`}
     currentCategory={category}
 >
+  <script type="application/ld+json" set:html={structuredDataJson} />
   <div class="main-layout-container">
     <div class="sidebar-area">
       <Sidebar />
@@ -893,6 +961,12 @@ const hasPick = !!(pickWinTeam || pickHandicapValue || pickExpectedHome || pickO
       </div>
     </div>
   )}
+
+  <!-- 과도한 베팅/도박 자제 안내 (모든 분석글 하단 공통 노출) -->
+  <div style="margin-top:18px;padding:14px 18px;background:#fafafa;border:1px solid #eee;border-radius:8px;font-size:0.8rem;line-height:1.6;color:#868e96;">
+    ⚠️ 본 콘텐츠는 스포츠 경기에 대한 정보 제공 및 참고용으로 제작되었으며, 실제 베팅/도박 행위를 권유하거나 결과를 보장하지 않습니다.
+    과도한 베팅은 개인의 재정적·정신적 건강에 심각한 피해를 줄 수 있습니다. 도박 문제로 어려움을 겪고 계시다면 한국도박문제예방치유원(1336)에 상담하실 수 있습니다.
+  </div>
 
           <div style="margin-top: 30px; padding-top: 20px; border-top: 1px dashed #eee;">
     <AdGrid type="bottom" />
