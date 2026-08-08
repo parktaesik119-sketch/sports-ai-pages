@@ -82,7 +82,7 @@ const isExtraFiltered = leaguesWithExtraFilter.some(el => el === upperLg) && (
   upperHome.includes('U20') || upperAway.includes('U20') ||
   upperHome.includes('U21') || upperAway.includes('U21') ||
   upperHome.includes('U23') || upperAway.includes('U23') ||
-  upperHome.includes('YOUTH') || upperAway.includes('YOUTH') ||
+  upperHome.includes('YOUTH') || upperAway.includes('YOUTH') || upperAway.includes('Youth') ||
   upperHome.includes('WOMEN') || upperAway.includes('WOMEN') ||
   upperHome.includes('RESERVE') || upperAway.includes('RESERVE')
 );
@@ -120,7 +120,6 @@ if (isExtraFiltered) {
     "Belgium": ["PRO LEAGUE"],
     "Libya": ["PREMIER LEAGUE"],
     "Russia": ["PREMIER LEAGUE"],
-    "Canada": ["PREMIER LEAGUE"],
     "Romania": ["LIGA I"],
   };
 

@@ -750,6 +750,10 @@ const TEAM_NAME_MAP = {
   "Lokomotiv Yaroslavl": "로코모티프 야로슬라블",
   "Magnitogorsk": "마그니토고르스크",
   "Minnesota Wild": "미네소타 와일드",
+
+  //캐나다 축구팀
+  "Atlético Ottawa": "아틀레티코 오타와",
+
   // 국가대표팀
   "Canada": "캐나다",
   "Finland": "핀란드",
@@ -1754,6 +1758,7 @@ const TEAM_NAME_MAP = {
   "Rapperswil": "FC 라퍼스필-요나",
   "SC Kriens": "SC 크린스",
   "FC Zurich": "FC 취리히",
+  "FC Zürich": "FC 취리히",
   "HB Torshavn": "HB 토르스하운",
   "Paks": "퍽시 FC",
   "Valletta FC": "발레타 FC",
