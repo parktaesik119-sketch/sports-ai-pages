@@ -51,6 +51,7 @@ const TEAM_NAME_MAP = {
 
   // ===== 🇩🇪 분데스리가 (Bundesliga) =====
   "1. FC Heidenheim": "하이덴하임",
+  "FC Heidenheim": "하이덴하임",
   "1. FC Köln": "쾰른",
   "1899 Hoffenheim": "호펜하임",
   "Austria Vienna": "아우스트리아 빈",
@@ -63,6 +64,7 @@ const TEAM_NAME_MAP = {
   "FC Augsburg": "아우크스부르크",
   "FC BW Linz": "BW 린츠",
   "FC St. Pauli": "장크트 파울리",
+  "St. Pauli": "장크트 파울리",
   "FSV Mainz 05": "마인츠 05",
   "Grazer AK": "그라처 AK",
   "Hamburger SV": "함부르크",
@@ -79,6 +81,7 @@ const TEAM_NAME_MAP = {
   "Union Berlin": "우니온 베를린",
   "VfB Stuttgart": "슈투트가르트",
   "VfL Wolfsburg": "볼프스부르크",
+  "Wolfsburg": "볼프스부르크",
   "WSG Wattens": "WSG 티롤",
   "WSG Tirol": "WSG 티롤",
   "Werder Bremen": "베르더 브레멘",
@@ -876,7 +879,9 @@ const TEAM_NAME_MAP = {
   // ===== ⚽ 축구 추가 (실제 분석 대상 리그) =====
   // 2. 분데스리가
   "1. FC Kaiserslautern": "카이저슬라우테른",
+  "Kaiserslautern": "카이저슬라우테른",
   "1. FC Magdeburg": "마그데부르크",
+  "Magdeburg": "마그데부르크",
   "1. FC Nürnberg": "뉘른베르크",
   "Arminia Bielefeld": "아르미니아 빌레펠트",
   "Dynamo Dresden": "디나모 드레스덴",
@@ -892,8 +897,10 @@ const TEAM_NAME_MAP = {
   "Rot-Weiß Essen": "로트바이스 에센",
   "SC Paderborn 07": "파더보른",
   "SV Darmstadt 98": "다름슈타트 98",
+  "Darmstadt": "다름슈타트 98",
   "SV Elversberg": "엘버스베르크",
   "SpVgg Greuther Fürth": "그로이터 퓌르트",
+  "Greuther Fürth": "그로이터 퓌르트",
   "VfL Bochum": "보훔",
   "Bochum": "보훔",
 
@@ -922,6 +929,7 @@ const TEAM_NAME_MAP = {
   // 리그2 (프랑스)
   "Amiens": "아미앵",
   "Annecy": "안시",
+  "pau": "PAU",
   "Bastia": "바스티아",
   "Boulogne": "불로뉴",
   "Clermont Foot": "클레르몽",
@@ -933,7 +941,8 @@ const TEAM_NAME_MAP = {
   "Le Mans": "르망",
   "Montpellier": "몽펠리에",
   "Nancy": "낭시",
-  "RED Star FC 93": "레드 스타 FC",
+  "RED Star FC 93": "레드 스타",
+  "RED Star": "레드 스타",
   "Reims": "랭스",
   "Rodez": "로데스",
   "Rouen": "루앙",
@@ -1039,6 +1048,7 @@ const TEAM_NAME_MAP = {
   "Alianza Atletico": "알리안자 아틀레티코",
   "Macara": "마카라",  
   "Chico": "보야카 치코",
+  "Chico FC": "보야카 치코",
   "Deportivo Pasto": "데포르티보 파스토",
   "Bucaramanga": "부카라망가",
   "Club Tijuana": "클럽 티후아나",
@@ -1055,6 +1065,7 @@ const TEAM_NAME_MAP = {
   "Dundee": "던디 유나이티드",
   "Dundee Utd": "던디 유나이티드",
   "Dundee United": "던디 유나이티드",
+  "Dundee FC": "던디 유나이티드", 
   "Dunfermline": "던퍼믈린",
   "Falkirk": "팰커크",
   "Heart Of Midlothian": "하트 오브 미들로디언",
@@ -1067,7 +1078,9 @@ const TEAM_NAME_MAP = {
   "Rangers": "레인저스",
   "Ross County": "로스 카운티",
   "ST Johnstone": "세인트 존스턴",
+  "St. Johnstone": "세인트 존스턴",
   "ST Mirren": "세인트 미렌",
+  "St. Mirren": "세인트 미렌",
 
   // 챔피언십 (잉글랜드 2부)
   "Birmingham": "버밍엄 시티",
@@ -1360,6 +1373,7 @@ const TEAM_NAME_MAP = {
   "Flamengo": "플라멩고",
   "Fluminense": "플루미넨세",
   "Botafogo": "보타포고",
+  "Botafogo RJ": "보타포고",
   "Gremio": "그레미우",
   "Internacional": "인테르나시오나우",
   "Vasco DA Gama": "바스코 다 가마",
@@ -1501,6 +1515,7 @@ const TEAM_NAME_MAP = {
   //스위스
   "Lausanne": "로잔 스포르",
   "Grasshoppers": "그라스호퍼",
+  "Grasshopper": "그라스호퍼",
   "FC Aarau": "FC 아라우",
   "Servette FC": "세르베트",
   "Servette": "세르베트",
@@ -1508,6 +1523,7 @@ const TEAM_NAME_MAP = {
   "Basel": "FC 바젤 1893",
   "Stade Nyonnais": "스타드 니옹",
   "FC Luzern": "FC 루체른",
+  "Luzern": "FC 루체른",
 
   //UEFA
   "Ararat-Armenia": "아라라트 아르메니아",
@@ -1692,7 +1708,9 @@ const TEAM_NAME_MAP = {
   "Kalsdorf": "칼스도르프",
   "Waldhof Mannheim": "SV 발트호프 만하임",
   "FC ST. Gallen": "FC 장트 갈렌",
+  "St. Gallen": "FC 장트 갈렌",
   "FC Sion": "FC 시옹",
+  "Sion": "FC 시옹",
   "Cork City": "코크 시티",
   "Pafos": "파포스",
   "Puskas Academy": "푸슈카시 아카데미",
@@ -1758,6 +1776,7 @@ const TEAM_NAME_MAP = {
   "Ballymena United": "밸리미나 유나이티드",
   "Ballinamallard United": "발리나말라드",
   "Glenavon": "글레나본",
+  "Glenavon FC": "글레나본",
   "Warrenpoint Town": "워렌포인트 타운",
   "Maritimo": "마리타무",
   
@@ -1780,6 +1799,7 @@ const TEAM_NAME_MAP = {
   "Henan Jianye": "허난 FC",
   "Henan FC": "허난 FC",
   "SHANGHAI SIPG": "상하이 하이강",
+  "Shanghai Port": "상하이 하이강",
   "Tianjin Teda": "텐진 진먼후",
   "Tianjin Jinmen Tiger": "텐진 진먼후",
   "Hangzhou Greentown": "저장 뤼청",
