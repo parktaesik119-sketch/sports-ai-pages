@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠�
 awayRecent: '[{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181222-2026-08-07-nippon-ham-fighters/"},{"date":"26.08.06","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181215-2026-08-06-orix-buffaloes/"},{"date":"26.08.05","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181213-2026-08-05-orix-buffaloes/"},{"date":"26.08.03","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181203-2026-08-03-orix-buffaloes/"},{"date":"26.08.02","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"6-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181199-2026-08-02-rakuten-gold-eagles/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Takayuki Katoh (10-1, 2.70)|https://p.npb.jp/players_photo/2026/180/f/014_41545132.jpg\"]"
+awayLineup: "[\"선발투수 Takahisa Hayakawa (4-5, 3.03)|https://p.npb.jp/players_photo/2026/180/e/021_31835153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

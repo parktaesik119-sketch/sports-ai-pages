@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프�
 awayRecent: '[{"date":"26.08.07","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179739-2026-08-07-seattle-mariners/"},{"date":"26.08.05","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179711-2026-08-05-seattle-mariners/"},{"date":"26.08.03","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179700-2026-08-03-athletics/"},{"date":"26.08.01","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179670-2026-08-01-athletics/"},{"date":"26.07.30","home":"디트로이트 타이거즈","away":"볼티모어 오리올스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179642-2026-07-30-detroit-tigers/"}]'
 injuryHome: "Victor Bericoto (염좌)|Jesus Rodriguez (신경 압박)|Joel Peguero (염좌)|Marcelo Mayer (골절)|Matt Gage (염좌)"
 injuryAway: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Matt Vierling (통증)|Brant Hurter (염증)|Wenceel Perez (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Roupp (7-10, 4.34) ERA 4.34|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
+awayLineup: "[\"선발투수 J. Jobe|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

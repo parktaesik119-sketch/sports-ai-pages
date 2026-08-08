@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.07","home":"캔자스시티 로열스","away":"미�
 awayRecent: '[{"date":"26.08.07","home":"시카고 컵스","away":"토론토 블루제이즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179173-2026-08-07-chicago-cubs/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"},{"date":"26.08.04","home":"시카고 컵스","away":"LA 다저스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179707-2026-08-04-chicago-cubs/"},{"date":"26.08.03","home":"시카고 컵스","away":"뉴욕 양키즈","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179697-2026-08-03-chicago-cubs/"},{"date":"26.08.02","home":"시카고 컵스","away":"뉴욕 양키즈","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179681-2026-08-02-chicago-cubs/"}]'
 injuryHome: "Vinnie Pasquantino (통증)|Beck Way (경련)|Maikel Garcia (좌상)|Nick Mears (신경 압박)|James McArthur (수술)"
 injuryAway: "Hoby Milner (수술)|Ethan Roberts (염증)|Clay Holmes (골절)|Daniel Palencia (좌상)|Gavin Hollowell (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Lugo (4-7, 4.41) ERA 4.41|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
+awayLineup: "[\"선발투수 C. Holmes (4-4, 2.39) ERA 2.39|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

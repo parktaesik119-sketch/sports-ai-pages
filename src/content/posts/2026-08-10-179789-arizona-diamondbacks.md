@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179762-2026-08-08-arizona-diamondbacks/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"},{"date":"26.08.04","home":"시카고 컵스","away":"LA 다저스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179707-2026-08-04-chicago-cubs/"},{"date":"26.08.03","home":"LA 다저스","away":"보스턴 레드삭스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179691-2026-08-03-los-angeles-dodgers/"},{"date":"26.08.01","home":"LA 다저스","away":"보스턴 레드삭스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179656-2026-08-01-los-angeles-dodgers/"}]'
 injuryHome: "Jordan Lawlar (좌상)|Merrill Kelly (일일 관찰)|Michael Soroka (좌상)|Ryan Thompson (좌상)|Justin Martinez (수술)"
 injuryAway: "Blake Snell (수술)|Brock Stewart (건염)|Blake Treinen (염증)|Jake Cousins (수술)|Will Klein (통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Rodriguez (10-4, 2.71) ERA 2.71|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 J. Wrobleski (11-3, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

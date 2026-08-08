@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴�
 awayRecent: '[{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179749-2026-08-08-pittsburgh-pirates/"},{"date":"26.08.07","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"6-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179744-2026-08-07-cleveland-guardians/"},{"date":"26.08.06","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179732-2026-08-06-cleveland-guardians/"},{"date":"26.08.05","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179716-2026-08-05-cleveland-guardians/"},{"date":"26.08.03","home":"뉴욕 메츠","away":"마이애미 말린스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179690-2026-08-03-new-york-mets/"}]'
 injuryHome: "Oneil Cruz (골절)|Konnor Griffin (염좌)|Ryan O'Hearn (염좌)|Mitch Keller (기타 미지정)"
 injuryAway: "Austin Warren (염좌)|Justin Hagenman (골절)|Carson Benge (통증)|Mark Vientos (골절)|Cionel Perez (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Chandler (4-8, 4.49) ERA 4.49|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
+awayLineup: "[\"선발투수 R. Stock (0-1, 1.80) ERA 1.80|https://a.espncdn.com/i/headshots/mlb/players/full/30577.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

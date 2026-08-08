@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179766-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"}]'
 injuryHome: "Ramon Urias (건염)|Max Rajcic (수술)"
 injuryAway: "Blas Castano (근육 긴장)|Jaden Hill (건염)|Jeff Criswell (근육 긴장)|McCade Brown (염증)|Jose Quintana (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. McGreevy (4-9, 3.59) ERA 3.59|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 M. Lorenzen (3-10, 6.94) ERA 6.94|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

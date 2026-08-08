@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"필라델피아 필리스","away":"토�
 awayRecent: '[{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179757-2026-08-08-philadelphia-phillies/"},{"date":"26.08.07","home":"시카고 컵스","away":"토론토 블루제이즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179173-2026-08-07-chicago-cubs/"},{"date":"26.08.06","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179724-2026-08-06-houston-astros/"},{"date":"26.08.04","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179704-2026-08-04-houston-astros/"},{"date":"26.08.03","home":"토론토 블루제이즈","away":"세인트루이스 카디널스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179687-2026-08-03-toronto-blue-jays/"}]'
 injuryHome: "Derek Hill (타박상)|Andrew Painter (통증)|Rafael Marchan (건염)|Tanner Banks (염좌)|Johan Rojas (수술)"
 injuryAway: "Jonatan Clase (족저근막염)|Vladimir Guerrero Jr. (통증)|Lenyn Sosa (멍)|Luis Urias (염좌)|Joe Mantiply (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Nola (3-9, 5.55) ERA 5.55|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
+awayLineup: "[\"선발투수 M. Scherzer (1-4, 7.92) ERA 7.92|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

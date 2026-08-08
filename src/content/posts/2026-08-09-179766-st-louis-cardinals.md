@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.06","home":"뉴욕 양키즈","away":"세인트루�
 awayRecent: '[{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"},{"date":"26.07.30","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179636-2026-07-30-san-diego-padres/"}]'
 injuryHome: "Ramon Urias (건염)|Max Rajcic (수술)"
 injuryAway: "Blas Castano (염좌)|Jaden Hill (건염)|Jeff Criswell (염좌)|McCade Brown (염증)|Jose Quintana (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Liberatore (5-8, 4.97) ERA 4.97|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
+awayLineup: "[\"선발투수 K. Freeland (3-10, 6.81) ERA 6.81|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"시카고 화이트삭스","away":"클�
 awayRecent: '[{"date":"26.08.08","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179756-2026-08-08-chicago-white-sox/"},{"date":"26.08.07","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"6-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179744-2026-08-07-cleveland-guardians/"},{"date":"26.08.06","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179732-2026-08-06-cleveland-guardians/"},{"date":"26.08.05","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179716-2026-08-05-cleveland-guardians/"},{"date":"26.08.03","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179695-2026-08-03-cleveland-guardians/"}]'
 injuryHome: "Jordan Leasure (염좌)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (염좌)|Ky Bush (수술)"
 injuryAway: "Slade Cecconi (통증)|Shawn Armstrong (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Martin (9-6, 4.13) ERA 4.13|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
+awayLineup: "[\"선발투수 J. Cantillo (8-7, 3.87) ERA 3.87|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시�
 injuryHome: "James Wood (염좌)|Drew Millas (골절)|Josiah Gray (염좌)|Richard Lovelady (염좌)|DJ Herz (염좌)"
 injuryAway: "Tony Santillan (염좌)|Nick Lodolo (찰과상)|Brandon Williamson (통증)|Graham Ashcraft (염좌)|Spencer Steer (염좌)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 B. Singer (5-10, 4.67) ERA 4.67|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

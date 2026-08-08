@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파�
 awayRecent: '[{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179753-2026-08-08-seattle-mariners/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"},{"date":"26.08.02","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179673-2026-08-02-tampa-bay-rays/"}]'
 injuryHome: "Will Wilson (골절)|Cooper Criswell (좌상)|J.P. Crawford (염증)|Carlos Vargas (좌상)|Matt Brash (좌상)"
 injuryAway: "Cole Sulser (경련)|Jonathan Heasley (골절)|Gavin Lux (염증)|Jake Fraley (수술)|Manuel Rodriguez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Hancock (6-6, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\"]"
+awayLineup: "[\"선발투수 I. Seymour (8-3, 4.27) ERA 4.27|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

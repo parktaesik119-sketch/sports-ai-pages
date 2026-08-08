@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"밀워키 브루어스","away":"미네�
 awayRecent: '[{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179759-2026-08-08-milwaukee-brewers/"},{"date":"26.08.07","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179742-2026-08-07-kansas-city-royals/"},{"date":"26.08.06","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179729-2026-08-06-kansas-city-royals/"},{"date":"26.08.03","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179689-2026-08-03-seattle-mariners/"},{"date":"26.08.02","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179677-2026-08-02-seattle-mariners/"}]'
 injuryHome: "Rob Zastryzny (좌상)|Joel Kuhnel (건염)|Kyle Harrison (경련)|JoJo Romero (부상)|Sal Frelick (좌상)"
 injuryAway: "Zebby Matthews (찰과상)|Byron Buxton (신경 압박)|Joe Ryan (좌상)|Mike Paredes (좌상)|Mick Abel (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Gasser (3-4, 4.48) ERA 4.48|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (9-4, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
