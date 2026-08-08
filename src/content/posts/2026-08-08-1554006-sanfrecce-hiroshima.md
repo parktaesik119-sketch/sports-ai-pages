@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.07.28","home":"산프레체 히로시마","away":"Vers
 awayRecent: '[{"date":"26.08.01","home":"JEF 유나이티드 지바","away":"가시와 레이솔","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1585014-2026-08-01-jef-united-chiba/"},{"date":"26.06.06","home":"JEF 유나이티드 지바","away":"아비스파 후쿠오카","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1546316-2026-06-06-jef-united-chiba/"},{"date":"26.05.30","home":"아비스파 후쿠오카","away":"JEF 유나이티드 지바","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1546314-2026-05-30-avispa-fukuoka/"},{"date":"26.05.23","home":"가시와 레이솔","away":"JEF 유나이티드 지바","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1504823-2026-05-23-kashiwa-reysol/"},{"date":"26.05.17","home":"JEF 유나이티드 지바","away":"가시마 앤틀러스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1504813-2026-05-17-jef-united-chiba/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Issei Ouchi (GK)|https://images.fotmob.com/image_resources/playerimages/747927.png\",\"Tsukasa Shiotani (DF)|https://images.fotmob.com/image_resources/playerimages/310090.png\",\"Hayato Araki (DF)|https://images.fotmob.com/image_resources/playerimages/1024041.png\",\"Sho Sasaki (DF)|https://images.fotmob.com/image_resources/playerimages/427814.png\",\"Shuto Nakano (MF)|https://images.fotmob.com/image_resources/playerimages/1337750.png\",\"Hayao Kawabe (MF)|https://images.fotmob.com/image_resources/playerimages/435151.png\",\"Yotaro Nakajima (MF)|https://images.fotmob.com/image_resources/playerimages/1508589.png\",\"Shunki Higashi (MF)|https://images.fotmob.com/image_resources/playerimages/922817.png\",\"Naoki Maeda (MF)|https://images.fotmob.com/image_resources/playerimages/431926.png\",\"Mutsuki Kato (MF)|https://images.fotmob.com/image_resources/playerimages/1134711.png\",\"Akito Suzuki (FW)|https://images.fotmob.com/image_resources/playerimages/1337764.png\"]"
+awayLineup: "[\"José Suárez (GK)|https://images.fotmob.com/image_resources/playerimages/573761.png\",\"Takahiro Iida (DF)|https://images.fotmob.com/image_resources/playerimages/824570.png\",\"Daniel Hall (DF)|https://images.fotmob.com/image_resources/playerimages/1217244.png\",\"Koji Toriumi (DF)|https://images.fotmob.com/image_resources/playerimages/924267.png\",\"Kazuki Tanaka (MF)|https://images.fotmob.com/image_resources/playerimages/1337004.png\",\"Yusuke Kobayashi (MF)|https://images.fotmob.com/image_resources/playerimages/396751.png\",\"Takayuki Mae (MF)|https://images.fotmob.com/image_resources/playerimages/310334.png\",\"Takumi Tsukui (MF)|https://images.fotmob.com/image_resources/playerimages/1232543.png\",\"Takumi Matsumura (FW)|https://images.fotmob.com/image_resources/playerimages/1899980.png\",\"Daichi Ishikawa (FW)|https://images.fotmob.com/image_resources/playerimages/923824.png\",\"Erison (FW)|https://images.fotmob.com/image_resources/playerimages/1227341.png\"]"
+homeFormation: "3-4-2-1"
+awayFormation: "3-4-2-1"
+homeCoach: "Bartosch Gaul|https://images.fotmob.com/image_resources/playerimages/1381539.png"
+awayCoach: "Yoshiyuki Kobayashi|https://images.fotmob.com/image_resources/playerimages/20258.png"
 pickWinTeam: "JEF 유나이티드 지바"
 pickWinResult: "승"
 pickHandicapTeam: "JEF 유나이티드 지바"
