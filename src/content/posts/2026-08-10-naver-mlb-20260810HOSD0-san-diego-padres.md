@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.09","home":"샌디에이고 파드리스","away":"�
 injuryHome: "David Morgan (염증)|Samad Taylor (근육 염좌)|Lucas Giolito (염증)|Miguel Andujar (골절)|Nick Pivetta (근육 염좌)"
 injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 C. Javier (1-2, 6.59) ERA 6.59|https://a.espncdn.com/i/headshots/mlb/players/full/41261.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
