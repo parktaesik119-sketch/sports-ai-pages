@@ -108,6 +108,7 @@ if (isExtraFiltered) {
     "Cyprus": ["2. DIVISION"],
     "Scotland": ["CHAMPIONSHIP", "LEAGUE ONE"],
     "Northern-Ireland": ["CHAMPIONSHIP"],
+    "Northern Ireland": ["CHAMPIONSHIP"],
     "Brazil": ["SERIE B"],
     "Saudi-Arabia": ["DIVISION 1"],    
     "Egypt": ["CUP"],
