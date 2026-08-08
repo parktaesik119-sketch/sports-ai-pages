@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (8월 10일) | MLB - 픽천국"
+date: 2026-08-09T20:10:00+00:00
+description: "시애틀 매리너스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179783-2026-08-10-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://media.api-sports.io/baseball/teams/32.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/34.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 최근 69경기 33승 1무 35패, 평균 득점 3.8로 시즌 전반의 균형은 나쁘지 않지만, 최근에는 10경기 4승 6패와 평균 득점 3.1로 공격 흐름이 다소 꺾인 모습입니다. 특히 최근 경기에서 무득점 패배가 연이어 나오며 타선의 응집력이 떨어진 점이 아쉽습니다. 다만 홈에서는 비교적 자기 페이스를 찾는 장면이 자주 나와, 경기 초반 실점만 억제하면 흐름을 되돌릴 여지는 있습니다. 수비 쪽은 큰 점수 차 패배가 섞여 있어 불안 요소가 보이지만, 장기적으로는 접전 운영 능력이 완전히 무너진 상태는 아닙니다. 부상자 이슈로 핵심 전력이 빠져 있는 만큼, 상위 타선의 출루와 중간 이닝 실점 관리가 매우 중요하게 보입니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 최근 82경기 48승 4무 30패, 평균 득점 4.2로 시즌 전체 전력에서 확실한 우위를 보여주고 있습니다. 최근 10경기에서도 7승 3패, 평균 득점 3.0으로 결과 관리가 꾸준하고, 대량 득점이 아니어도 필요한 순간에 점수를 내는 힘이 돋보입니다. 원정에서도 경기 운영이 크게 흔들리지 않아, 상대 수비가 흔들리는 구간을 빠르게 파고드는 장점이 있습니다. 다만 직전 맞대결에서 시애틀 매리너스를 상대로 2점차 승리를 거둔 뒤에도 타선이 아주 폭발적이기만 한 흐름은 아니어서, 득점 효율이 관건으로 보입니다. 그래도 시즌 득실 차가 플러스인 점을 보면 투타 균형이 잘 잡혀 있고, 접전에서도 안정감을 기대할 수 있습니다."
+homePower: "최근 무득점 패배가 겹치며 타선 출발이 무거움|핵심 결장자 누적으로 중심타선 연결성 저하됨|홈에서는 접전 운영 여지는 남아 있는 상태임|실점이 커지는 경기에서 마운드 부담이 빠르게 커짐|상대 강타선 상대로 초반 실점 억제가 핵심임"
+awayPower: "시즌 득실 차 플러스가 전력 안정성 보여줌|최근 원정에서도 결과 관리 능력이 꾸준함|필요한 순간 점수 내는 응집력이 강점으로 평가됨|결장자 많아도 경기 운영 흔들림이 크지 않음|시애틀 매리너스 상대로 상성 우위 흐름이 검증됨"
+h2h: '[{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"0-2","link":"https://pick79.com/posts/detail/analyze-179753-2026-08-08-seattle-mariners/"},{"date":"26.07.13","home":"탬파베이 레이스","away":"시애틀 매리너스","score":"2-8","link":"https://pick79.com/posts/detail/analyze-179452-2026-07-13-tampa-bay-rays/"},{"date":"26.07.12","home":"탬파베이 레이스","away":"시애틀 매리너스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-179436-2026-07-12-tampa-bay-rays/"},{"date":"26.07.11","home":"탬파베이 레이스","away":"시애틀 매리너스","score":"7-2","link":"https://pick79.com/posts/detail/analyze-179422-2026-07-11-tampa-bay-rays/"}]'
+summary: "탬파베이 레이스는 시즌 전체 전력과 득실 차에서 시애틀 매리너스보다 분명히 앞서 있고, 최근 경기 흐름도 더 안정적입니다. 시애틀 매리너스는 홈 경기임에도 타선 침체가 이어지고 있어 공격에서 반등 신호를 확실하게 보여주지 못하고 있습니다. 반면 탬파베이 레이스는 결장 이슈가 있어도 전력의 무게감이 유지되고 있고, 직전 맞대결에서도 흐름을 주도한 장면이 분명했습니다. 전체적으로는 탬파베이 레이스가 경기 운영과 득점 연결에서 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179753-2026-08-08-seattle-mariners/"},{"date":"26.08.07","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179739-2026-08-07-seattle-mariners/"},{"date":"26.08.05","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179711-2026-08-05-seattle-mariners/"},{"date":"26.08.03","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179689-2026-08-03-seattle-mariners/"},{"date":"26.08.02","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179677-2026-08-02-seattle-mariners/"}]'
+awayRecent: '[{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179753-2026-08-08-seattle-mariners/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"},{"date":"26.08.02","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179673-2026-08-02-tampa-bay-rays/"}]'
+injuryHome: "Will Wilson (골절)|Cooper Criswell (근육 염좌)|J.P. Crawford (염증)|Carlos Vargas (근육 염좌)|Matt Brash (근육 염좌)"
+injuryAway: "Cole Sulser (경련)|Jonathan Heasley (골절)|Gavin Lux (염증)|Jake Fraley (수술)|Manuel Rodriguez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

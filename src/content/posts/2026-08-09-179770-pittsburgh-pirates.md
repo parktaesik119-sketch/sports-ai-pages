@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (8월 9일) | MLB - 픽천국"
+date: 2026-08-08T22:40:00+00:00
+description: "피츠버그 파이러츠 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179770-2026-08-09-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://media.api-sports.io/baseball/teams/28.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/24.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 35승 46패, 승률 .483과 평균 득점 4.9를 기록하고 있어 전체적으로는 버티는 힘이 있는 편입니다. 다만 최근 10경기에서는 2승 8패로 흐름이 크게 꺾였고, 평균 득점도 2.9로 떨어지면서 공격 생산이 많이 둔화된 모습입니다. 홈에서는 비교적 힘을 내는 구간이 있었지만, 최근에는 실점 억제보다 타선 침묵이 더 크게 드러나고 있습니다. 특히 장기 결장자가 여러 명 포함되어 있어 전력의 깊이가 얇아진 점이 부담으로 보입니다. 그래도 한 번 흐름을 타면 장타와 연결타로 점수를 만드는 장면은 살아 있어서, 초반 득점 여부가 경기 운영에 큰 영향을 줄 것으로 보입니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 35승 41패, 승률 .436과 평균 득점 4.3을 기록하고 있어 순위만 보면 아쉬움이 남지만, 최근 10경기에서는 6승 4패로 반등 흐름이 분명합니다. 최근 평균 득점도 5.3으로 올라와 타선이 살아났고, 원정에서도 점수를 꾸준히 만들어내는 점이 강점입니다. 특히 최근에는 득점 폭이 큰 경기와 접전 승리를 함께 만들어내며 공격의 응집력이 좋아진 모습입니다. 다만 득실 차가 마이너스인 만큼 수비 쪽 흔들림은 여전히 경계할 부분입니다. 주요 결장자들이 전력의 일부를 비우고 있지만, 최근 타격감 자체는 그런 공백을 어느 정도 상쇄하고 있습니다."
+homePower: "최근 10경기 2승 8패로 상승 동력 약화됨|득점 2.9 하락, 타선 응집력 저하가 뚜렷함|장기 결장자 많아 중심 타순 부담 가중됨|홈 경기에서도 실점 억제보다 반격 지연이 문제임|한 번 밀리면 추격 동선이 길어지는 구조로 보임"
+awayPower: "최근 10경기 6승 4패, 상승세가 분명함|최근 득점 5.3, 상위 타선 활발함이 확인됨|장타와 다득점 경기가 함께 나오는 중임|마이너스 득실 차로 수비 변수는 남아 있음|중심 전력 공백에도 공격 리듬은 유지되는 편임"
+h2h: '[{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"4-6","link":"https://pick79.com/posts/detail/analyze-179749-2026-08-08-pittsburgh-pirates/"},{"date":"26.03.30","home":"뉴욕 메츠","away":"피츠버그 파이러츠","score":"3-4"},{"date":"26.03.29","home":"뉴욕 메츠","away":"피츠버그 파이러츠","score":"4-2"},{"date":"26.03.27","home":"뉴욕 메츠","away":"피츠버그 파이러츠","score":"11-7"}]'
+summary: "뉴욕 메츠는 시즌 전체 성적만 보면 아쉬움이 남지만, 최근 흐름이 살아나면서 현재 전력의 체감치는 피츠버그 파이러츠보다 한 단계 위로 보입니다. 피츠버그 파이러츠는 시즌 득점력이 나쁘지 않았던 팀이지만 최근 들어 공격 흐름이 크게 떨어졌고, 결장자 공백까지 겹치며 전력 유지가 쉽지 않은 모습입니다. 반면 뉴욕 메츠는 최근 득점이 다시 올라오고 상대전적에서도 우위를 잡아 왔기 때문에, 이번 경기에서는 뉴욕 메츠가 더 안정적으로 경기 주도권을 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179749-2026-08-08-pittsburgh-pirates/"},{"date":"26.08.07","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179741-2026-08-07-milwaukee-brewers/"},{"date":"26.08.06","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179728-2026-08-06-milwaukee-brewers/"},{"date":"26.08.05","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179714-2026-08-05-milwaukee-brewers/"},{"date":"26.08.04","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179705-2026-08-04-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179749-2026-08-08-pittsburgh-pirates/"},{"date":"26.08.07","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"6-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179744-2026-08-07-cleveland-guardians/"},{"date":"26.08.06","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179732-2026-08-06-cleveland-guardians/"},{"date":"26.08.05","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179716-2026-08-05-cleveland-guardians/"},{"date":"26.08.03","home":"뉴욕 메츠","away":"마이애미 말린스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179690-2026-08-03-new-york-mets/"}]'
+injuryHome: "Oneil Cruz (골절)|Konnor Griffin (염좌)|Ryan O'Hearn (염좌)|Mitch Keller (기타 미지정)"
+injuryAway: "Austin Warren (염좌)|Justin Hagenman (골절)|Carson Benge (통증)|Mark Vientos (골절)|Cionel Perez (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

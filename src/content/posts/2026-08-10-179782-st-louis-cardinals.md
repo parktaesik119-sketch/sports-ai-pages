@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 콜로라도 로키스 경기분석·라인업·결장자·통계·승부예측 (8월 10일) | MLB - 픽천국"
+date: 2026-08-09T18:15:00+00:00
+description: "세인트루이스 카디널스 vs 콜로라도 로키스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179782-2026-08-10-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://media.api-sports.io/baseball/teams/33.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/10.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 74경기에서 32승 1무 41패, 평균 득점 4.0을 기록하며 승패가 엇갈리는 흐름 속에서도 중위권 경쟁력을 유지하고 있습니다. 최근 10경기에서는 5승 5패, 평균 득점 3.3으로 기복이 다소 보이지만, 강한 상대를 상대로도 득점이 폭발하는 구간이 있어 공격 잠재력은 분명합니다. 홈에서는 경기 운영이 비교적 안정적이고, 팽팽한 승부에서 마운드와 수비가 버티는 장면이 자주 보입니다. 특히 최근 콜로라도 로키스를 상대로 3대2 승리를 거두며 접전 대응력도 확인되었습니다. 다만 장기 결장자가 있는 만큼 전력의 깊이에서는 약간의 부담이 남아 있고, 타선이 초반에 흐름을 잡느냐가 중요해 보입니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 최근 64경기에서 26승 38패, 평균 득점 5.2를 기록하며 공격 생산성은 높지만 결과로 잘 이어지지 않는 전력이 이어지고 있습니다. 최근 10경기에서는 3승 7패, 평균 득점 3.5로 득점력도 출렁이고 있어 고점 대비 주춤한 흐름이 읽힙니다. 원정에서는 실점 억제에 어려움을 겪는 편이라, 타선이 득점을 내더라도 마운드가 이를 지키지 못하는 장면이 자주 나옵니다. 다만 타격 자체는 한 번 터지면 여러 점을 묶어내는 힘이 있어 반등 가능성은 남아 있습니다. 세인트루이스 카디널스전에서도 한 점 차 승부로 이어졌던 만큼, 초반 흐름을 잡으면 충분히 맞붙을 수 있는 전력입니다."
+homePower: "세인트루이스 카디널스는 접전 운영에서 버티는 힘이 살아 있음|최근 득점 기복은 있으나 중요한 순간 응집력이 돋보임|콜로라도 로키스전 한 점 차 승리로 상성 우세 확인됨|장기 결장 여파로 타선 두께는 다소 얇아 보임|홈 경기에서는 수비 집중력으로 승부를 끌고 가는 흐름임"
+awayPower: "콜로라도 로키스는 장타 생산이 살아날 때 득점 폭이 커짐|평균 득점은 높지만 안정적으로 이어지지 못함|원정 실점 관리가 약해 공격 우위가 결과로 번지기 어려움|최근 10경기 승률이 떨어지며 흐름이 흔들리는 모습임|세인트루이스 카디널스와 접전 가능성은 있으나 마감력이 변수임"
+h2h: '[{"date":"26.08.08","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"3-2"}]'
+summary: "세인트루이스 카디널스는 시즌 승률이 5할에 걸쳐 있고, 최근 흐름도 크게 무너지지 않으면서 홈 경기에서 버티는 전력이 이어지고 있습니다. 콜로라도 로키스는 득점 자체는 나쁘지 않지만 실점이 더 크게 누적되는 흐름이라, 전력의 균형에서는 세인트루이스 카디널스가 한 걸음 앞서 보입니다. 최근 맞대결에서도 세인트루이스 카디널스가 3대2로 승리한 만큼, 접전으로 가더라도 홈팀이 운영과 마무리에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179766-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179727-2026-08-06-new-york-yankees/"},{"date":"26.08.05","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179713-2026-08-05-new-york-yankees/"},{"date":"26.08.04","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"7-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179703-2026-08-04-new-york-yankees/"},{"date":"26.08.03","home":"토론토 블루제이즈","away":"세인트루이스 카디널스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179687-2026-08-03-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179766-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"}]'
+injuryHome: "Ramon Urias (건염)|Max Rajcic (수술)"
+injuryAway: "Blas Castano (근육 긴장)|Jaden Hill (건염)|Jeff Criswell (근육 긴장)|McCade Brown (염증)|Jose Quintana (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "콜로라도 로키스"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 로키스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

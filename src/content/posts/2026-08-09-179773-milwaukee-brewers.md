@@ -1,0 +1,37 @@
+---
+title: "밀워키 브루어스 vs 미네소타 트윈스 경기분석·라인업·결장자·통계·승부예측 (8월 9일) | MLB - 픽천국"
+date: 2026-08-08T23:10:00+00:00
+description: "밀워키 브루어스 vs 미네소타 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179773-2026-08-09-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://media.api-sports.io/baseball/teams/20.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/22.png"
+homeAnalysis: "밀워키 브루어스는 2026시즌 최근 79경기에서 48승 30패, 승률 .621, 평균 득점 4.6으로 리그순위 1위를 지키며 안정적인 전력을 보여주고 있습니다. 최근에는 승패가 엇갈리지만, 직전 미네소타 트윈스전에서 6실점 8득점 패배를 당한 뒤에도 피츠버그 파이리츠전에서 연승을 만들며 타선의 응답력은 이어지고 있습니다. 홈에서는 긴 일정 속에서도 득점이 크게 꺼지지 않고 있어, 경기 후반까지 공격 흐름을 이어가는 힘이 돋보입니다. 다만 최근 실점이 크게 늘어난 경기들이 보이면서, 마운드 쪽이 평소보다 흔들릴 때 경기 전체 균형이 무너질 수 있습니다. 부상 이탈이 적지 않은 편이라 전력의 두께가 예전만큼 단단하다고 보긴 어렵지만, 리그순위 1위답게 기본적인 운영 안정감은 여전히 확실합니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 최근 79경기에서 38승 41패, 승률 .496으로 리그순위 7위에 머물고 있으나 평균 득점 4.2로 공격 자체는 완전히 무너지지 않은 모습입니다. 최근에는 시애틀 매리너스 원정에서 연패를 당한 뒤 캔자스시티 로열스 상대에서 반등하며 흐름을 되찾고 있어, 하위권 순위에 비해 반등 조짐은 분명히 보입니다. 특히 직전 밀워키 브루어스전에서 8득점을 기록한 점은 상위권 팀 상대로도 타선이 한 번 살아나면 충분히 맞붙을 수 있다는 신호입니다. 다만 시즌 내내 실점이 득점보다 많았던 흐름이 이어지고 있어, 수비와 불펜 쪽 불안이 경기 후반 변수가 되기 쉽습니다. 바이런 벅스턴과 조 라이언의 이탈이 전력 상징성 측면에서 크게 작용하고 있어, 현재는 중심축이 빠진 상태에서 공격 집중력으로 버티는 양상에 가깝습니다."
+homePower: "리그순위 1위답게 큰 흐름은 유지됨|홈 득실 우위가 경기 운영 안정감으로 연결됨|실점이 늘면 흔들리나 반격 속도는 빠름|상대전적에서 홈 타선은 충분히 응답했음|주전 이탈 속에서도 기본 전력 두께는 검증됨"
+awayPower: "리그순위 7위지만 최근 반등 조짐은 확인됨|원정에서도 타선이 완전히 식지 않는 편임|상위권 상대로도 한 방으로 흐름을 흔듦|실점 관리가 되면 접전까지 끌고 갈 힘이 있음|핵심 부상 공백이 전력 상한을 낮추고 있음"
+h2h: '[{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","link":"https://pick79.com/posts/detail/analyze-179759-2026-08-08-milwaukee-brewers/"},{"date":"26.05.18","home":"미네소타 트윈스","away":"밀워키 브루어스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-178697-2026-05-18-minnesota-twins/"},{"date":"26.05.17","home":"미네소타 트윈스","away":"밀워키 브루어스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-178682-2026-05-17-minnesota-twins/"},{"date":"26.05.16","home":"미네소타 트윈스","away":"밀워키 브루어스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-178670-2026-05-16-minnesota-twins/"}]'
+summary: "밀워키 브루어스는 시즌 전체 전적과 득실 차에서 확실한 우위를 보이고 있어 기본 전력은 여전히 더 높게 평가됩니다. 미네소타 트윈스는 리그순위가 낮지만 최근 원정에서 반등 흐름을 만들었고, 직전 맞대결에서도 8득점을 기록하며 공격 감각을 보여주었습니다. 다만 시즌 전체 기준으로는 밀워키 브루어스의 안정감과 전력 두께가 더 낫고, 미네소타 트윈스는 주요 전력 이탈까지 겹쳐 후반 응집력이 흔들릴 가능성이 있습니다. 상대전적이 2대2로 팽팽한 만큼 접전 양상은 가능하지만, 전체 시즌 흐름을 놓고 보면 미네소타 트윈스 쪽이 조금 더 우세한 그림으로 보는 편이 자연스럽습니다."
+homeRecent: '[{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179759-2026-08-08-milwaukee-brewers/"},{"date":"26.08.07","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179741-2026-08-07-milwaukee-brewers/"},{"date":"26.08.06","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179728-2026-08-06-milwaukee-brewers/"},{"date":"26.08.05","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179714-2026-08-05-milwaukee-brewers/"},{"date":"26.08.04","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179705-2026-08-04-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179759-2026-08-08-milwaukee-brewers/"},{"date":"26.08.07","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179742-2026-08-07-kansas-city-royals/"},{"date":"26.08.06","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179729-2026-08-06-kansas-city-royals/"},{"date":"26.08.03","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179689-2026-08-03-seattle-mariners/"},{"date":"26.08.02","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179677-2026-08-02-seattle-mariners/"}]'
+injuryHome: "Rob Zastryzny (좌상)|Joel Kuhnel (건염)|Kyle Harrison (경련)|JoJo Romero (부상)|Sal Frelick (좌상)"
+injuryAway: "Zebby Matthews (찰과상)|Byron Buxton (신경 압박)|Joe Ryan (좌상)|Mike Paredes (좌상)|Mick Abel (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

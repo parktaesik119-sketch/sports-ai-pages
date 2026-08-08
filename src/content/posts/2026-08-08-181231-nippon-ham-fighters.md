@@ -1,0 +1,37 @@
+---
+title: "니혼햄 파이터즈 vs 라쿠텐 골든이글스 경기분석·라인업·결장자·통계·승부예측 (8월 8일) | NPB - 픽천국"
+date: 2026-08-08T06:00:00+00:00
+description: "니혼햄 파이터즈 vs 라쿠텐 골든이글스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-181231-2026-08-08-nippon-ham-fighters"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "니혼햄 파이터즈"
+awayTeam: "라쿠텐 골든이글스"
+homeLogo: "https://media.api-sports.io/baseball/teams/60.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/62.png"
+homeAnalysis: "니혼햄 파이터즈는 2026시즌 최근 76경기 44승 0무 32패, 평균 득점 3.9로 안정적인 상위 전력을 유지하고 있습니다. 최근 경기에서는 득점 생산이 다시 살아나며 흐름이 좋아졌고, 특히 홈에서 경기 운영이 더 단단하게 이어지고 있습니다. 3점 안팎의 실점 관리가 가능한 구간이 자주 보이고, 공격에서는 한 번에 크게 터지기보다 꾸준히 점수를 쌓는 모습이 돋보입니다. 직전 라쿠텐 골든이글스전 승리처럼 상대전에서 자신감이 이어지고 있어, 초반부터 주도권을 잡는 운영이 기대됩니다. 타카유키 카토가 마운드에 서는 만큼 선발 안정감까지 더해져 홈에서는 전력 우위가 분명하게 보입니다."
+awayAnalysis: "라쿠텐 골든이글스는 2026시즌 최근 71경기 24승 0무 47패, 평균 득점 3.2로 전반적인 전력이 다소 무거운 편입니다. 최근 경기 흐름도 흔들림이 크고, 공격에서는 득점이 묶이는 구간이 길어지며 경기 후반 추격력이 약해 보입니다. 원정에서는 실점 억제가 쉽지 않아 한두 점 차 승부로 끌고 가는 힘이 부족한 모습이 자주 나타납니다. 다만 타카히사 하야카와가 나서는 경기에서는 초반 버티는 힘이 살아날 수 있어, 선발이 얼마나 길게 버티느냐가 중요합니다. 중심 타선이 한 번에 분위기를 바꾸는 힘은 있지만, 현재 흐름상 이를 반복적으로 기대하기는 쉽지 않아 보입니다."
+homePower: "홈에서 경기 운영 완성도가 더 높음|득점이 끊기지 않는 꾸준함이 강점임|실점 억제가 되어 접전에도 강한 편임|라쿠텐 골든이글스전 상성 우위가 확인됨|타카유키 카토 선발로 초반 주도 기대됨"
+awayPower: "최근 득점 기복이 커 공격 신뢰도 낮음|원정 실점 관리가 흔들려 수세가 잦음|타카히사 하야카와의 초반 버티기가 핵심임|한 번에 흐름을 뒤집는 장타 의존도 높음|상대전에서 반복된 열세가 부담으로 보임"
+h2h: '[{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-181222-2026-08-07-nippon-ham-fighters/"},{"date":"26.07.26","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-181181-2026-07-26-nippon-ham-fighters/"},{"date":"26.07.25","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-181175-2026-07-25-nippon-ham-fighters/"},{"date":"26.07.05","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"3-6","link":"https://pick79.com/posts/detail/analyze-181079-2026-07-05-rakuten-gold-eagles/"},{"date":"26.07.04","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"4-1","link":"https://pick79.com/posts/detail/analyze-181076-2026-07-04-rakuten-gold-eagles/"}]'
+summary: "니혼햄 파이터즈는 2026시즌 전체 성적과 최근 흐름 모두에서 라쿠텐 골든이글스보다 한 단계 위의 전력을 보여주고 있습니다. 평균 득점과 승률의 차이도 분명하고, 최근 경기에서도 공격의 꾸준함과 수비의 안정감이 함께 유지되고 있어 홈에서 더 믿을 만한 모습입니다. 라쿠텐 골든이글스는 득점 생산이 들쭉날쭉하고 원정에서 버티는 힘도 약해 보이지만, 선발이 초반을 잘 넘기면 접전 양상은 만들 수 있습니다. 다만 최근 맞대결 흐름까지 함께 보면 니혼햄 파이터즈 쪽이 주도권을 잡을 가능성이 더 높게 보입니다."
+homeRecent: '[{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181222-2026-08-07-nippon-ham-fighters/"},{"date":"26.08.06","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181219-2026-08-06-fukuoka-s-hawks/"},{"date":"26.08.05","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181211-2026-08-05-fukuoka-s-hawks/"},{"date":"26.08.04","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181206-2026-08-04-fukuoka-s-hawks/"},{"date":"26.08.02","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181198-2026-08-02-nippon-ham-fighters/"}]'
+awayRecent: '[{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181222-2026-08-07-nippon-ham-fighters/"},{"date":"26.08.06","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181215-2026-08-06-orix-buffaloes/"},{"date":"26.08.05","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181213-2026-08-05-orix-buffaloes/"},{"date":"26.08.03","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181203-2026-08-03-orix-buffaloes/"},{"date":"26.08.02","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"6-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181199-2026-08-02-rakuten-gold-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "니혼햄 파이터즈"
+pickWinResult: "승"
+pickHandicapTeam: "니혼햄 파이터즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

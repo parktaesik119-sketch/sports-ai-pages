@@ -1,0 +1,37 @@
+---
+title: "캔자스시티 로열스 vs 시카고 컵스 경기분석·라인업·결장자·통계·승부예측 (8월 9일) | MLB - 픽천국"
+date: 2026-08-08T23:10:00+00:00
+description: "캔자스시티 로열스 vs 시카고 컵스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179775-2026-08-09-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://media.api-sports.io/baseball/teams/16.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/6.png"
+homeAnalysis: "캔자스시티 로열스는 2026시즌 최근 77경기에서 36승 4무 37패, 평균 득점 4.2를 기록하며 전체적으로는 중위권 흐름을 보이고 있습니다. 다만 최근 흐름에서는 득점이 2.7점으로 떨어지면서 공격 전개가 다소 답답해 보이고, 득실 격차도 크지 않아 한 방에 흐름이 흔들릴 여지가 있습니다. 홈에서는 비교적 버티는 힘이 있지만, 최근에는 접전에서 마무리 효율이 흔들리며 실점 억제가 완전히 안정적이지는 않은 모습입니다. 그래도 짧은 간격으로 승리를 다시 끊어내는 장면이 있어, 타선이 초반에 먼저 점수를 내면 경기 운영이 한층 편해질 수 있습니다. Vinnie Pasquantino의 공백은 중심 타선의 무게감을 낮추고, Maikel Garcia의 이탈도 내야 공격 전개에 영향을 주고 있습니다."
+awayAnalysis: "시카고 컵스는 2026시즌 최근 76경기에서 42승 2무 32패, 평균 득점 4.9로 상위권 전력을 유지하고 있습니다. 최근 10경기에서도 7승 3패 흐름을 이어가며 타선 생산력이 다시 살아났고, 득점과 실점의 균형도 좋은 편이라 경기 후반 운영이 안정적으로 보입니다. 원정에서도 공격 템포가 크게 꺾이지 않아, 상대 마운드가 흔들리는 구간을 놓치지 않는 장점이 돋보입니다. 다만 직전 맞대결에서 4실점을 허용한 점은 완전히 압도적인 수비 안정감보다는, 상대에 따라 한 차례 흔들릴 수 있는 여지를 보여줍니다. Clay Holmes와 Daniel Palencia의 장기 결장은 불펜 운용의 폭을 줄일 수 있지만, 전체적인 전력 우위는 여전히 유지되고 있습니다."
+homePower: "홈 최근 득점 하락으로 초반 선취점 의존도 높아짐|Vinnie Pasquantino 이탈로 중심 장타 기대치 낮아짐|Maikel Garcia 공백이 출루와 주루 압박 약화시킴|접전에서 실점 억제력은 유지되나 흔들림도 존재함|상위권 타선 상대로는 장기전보다 선제 공세 필요함"
+awayPower: "시카고 컵스 타선은 최근 10경기 상승세가 뚜렷함|평균 4.9점 생산으로 상위권 공격 안정감 확인됨|원정에서도 득점 템포가 크게 꺾이지 않는 편임|Clay Holmes 공백은 변수지만 전체 전력 우위는 견고함|후반 추가 득점으로 승부를 굳히는 힘이 돋보임"
+h2h: '[{"date":"26.08.08","home":"캔자스시티 로열스","away":"시카고 컵스","score":"4-6"}]'
+summary: "시카고 컵스는 2026시즌 전체 전력에서 캔자스시티 로열스보다 득점 생산과 득실 격차 모두 앞서 있으며, 최근 흐름에서도 더 안정적인 공격 전개를 보여주고 있습니다. 캔자스시티 로열스는 시즌 전체 성적만 보면 버티는 힘이 있지만, 최근 득점력이 낮아진 흐름과 주요 결장자 부담이 겹치면서 상위 전력을 상대로는 한 발 밀리는 그림이 보입니다. 직전 맞대결에서도 시카고 컵스가 6득점으로 앞서며 경기 주도권을 잡았던 만큼, 이번 경기 역시 시카고 컵스가 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.07","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179742-2026-08-07-kansas-city-royals/"},{"date":"26.08.06","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179729-2026-08-06-kansas-city-royals/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"},{"date":"26.07.31","home":"미네소타 트윈스","away":"캔자스시티 로열스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179651-2026-07-31-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.08.07","home":"시카고 컵스","away":"토론토 블루제이즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179173-2026-08-07-chicago-cubs/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"},{"date":"26.08.04","home":"시카고 컵스","away":"LA 다저스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179707-2026-08-04-chicago-cubs/"},{"date":"26.08.03","home":"시카고 컵스","away":"뉴욕 양키즈","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179697-2026-08-03-chicago-cubs/"},{"date":"26.08.02","home":"시카고 컵스","away":"뉴욕 양키즈","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179681-2026-08-02-chicago-cubs/"}]'
+injuryHome: "Vinnie Pasquantino (통증)|Beck Way (경련)|Maikel Garcia (좌상)|Nick Mears (신경 압박)|James McArthur (수술)"
+injuryAway: "Hoby Milner (수술)|Ethan Roberts (염증)|Clay Holmes (골절)|Daniel Palencia (좌상)|Gavin Hollowell (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

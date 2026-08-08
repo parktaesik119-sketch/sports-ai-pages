@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 토론토 블루제이즈 경기분석·라인업·결장자·통계·승부예측 (8월 10일) | MLB - 픽천국"
+date: 2026-08-09T17:35:00+00:00
+description: "필라델피아 필리스 vs 토론토 블루제이즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179787-2026-08-10-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "토론토 블루제이즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/27.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/36.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 최근 83경기에서 44승 2무 37패, 승률 .534를 기록하며 득점 평균 4.5로 공격 흐름을 유지하고 있습니다. 최근에는 승패가 엇갈리지만, 홈에서 워싱턴 내셔널스를 상대로 7득점과 5득점 경기를 묶어내며 타선이 살아나는 장면을 보여주었습니다. 다만 같은 구간에서 10실점 경기도 나와 수비 안정감은 들쭉날쭉한 편이며, 경기 흐름에 따라 마운드 부담이 커지는 모습도 보입니다. 리그순위 5위답게 시즌 전체 경쟁력은 분명하지만, 최근 흐름과 함께 보면 강한 상대를 상대로는 집중력 유지가 관건입니다. 라파엘 마르찬과 요한 로하스의 이탈은 타선과 수비 운영 모두에 부담이 될 수 있으나, 홈에서는 여전히 연결 타격과 장타가 동시에 살아날 때 강점이 크게 드러납니다."
+awayAnalysis: "토론토 블루제이즈는 2026시즌 최근 83경기에서 38승 1무 44패, 승률 .466에 득점 평균 3.5로 다소 답답한 공격 전개가 이어지고 있습니다. 최근 10경기에서는 7승 3패로 반등 기류가 분명하고, 휴스턴 애스트로스를 상대로 연승을 거두는 등 원정에서도 응집력이 좋아진 모습입니다. 다만 시즌 전체로 보면 실점 억제력이 완전히 안정적이지 못해 큰 점수 차로 흔들리는 경기도 적지 않았습니다. 리그순위 12위라는 위치를 생각하면 최근 상승세는 분명 주목할 만하지만, 상위권 팀을 상대로는 득점 생산이 끊기는 순간 경기 주도권을 내줄 가능성이 있습니다. 블라디미르 게레로 주니어와 루이스 우리아스의 결장은 타선의 중심축과 뎁스 모두에 부담으로 작용할 수 있습니다."
+homePower: "필라델피아 필리스, 홈 타격이 살아나면 경기 주도권이 빠르게 기울어짐|필라델피아 필리스, 장타와 출루가 함께 붙을 때 득점 효율이 높아짐|필라델피아 필리스, 최근 대형 실점 경기로 마운드 변동성은 확인됨|필라델피아 필리스, 토론토 블루제이즈 상대로 상성 우위가 이어지는 흐름임|필라델피아 필리스, 홈에서 접전 운영보다 중반 이후 분산 득점이 강점임"
+awayPower: "토론토 블루제이즈, 최근 상승세는 있으나 시즌 누적 전력은 아직 열세임|토론토 블루제이즈, 낮은 득점 평균이 접전에서 부담으로 작용함|토론토 블루제이즈, 원정에서도 연승을 묶는 응집력은 살아 있음|토론토 블루제이즈, 핵심 결장으로 중심 타선 완성도는 다소 약화됨|토론토 블루제이즈, 실점 억제가 흔들리면 후반 승부가 불리해짐"
+h2h: '[{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"2-4","link":"https://pick79.com/posts/detail/analyze-179757-2026-08-08-philadelphia-phillies/"},{"date":"26.06.11","home":"토론토 블루제이즈","away":"필라델피아 필리스","score":"4-7","link":"https://pick79.com/posts/detail/analyze-179019-2026-06-11-toronto-blue-jays/"},{"date":"26.06.10","home":"토론토 블루제이즈","away":"필라델피아 필리스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179004-2026-06-10-toronto-blue-jays/"},{"date":"26.06.09","home":"토론토 블루제이즈","away":"필라델피아 필리스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-178995-2026-06-09-toronto-blue-jays/"}]'
+summary: "필라델피아 필리스는 2026시즌 리그순위 5위와 승률 .534가 보여주듯 시즌 전력의 바탕이 더 단단하고, 토론토 블루제이즈는 리그순위 12위와 승률 .466으로 아직 격차가 있습니다. 득점 평균도 필라델피아 필리스가 4.5, 토론토 블루제이즈가 3.5로 차이가 나서, 경기 내내 홈팀이 더 많은 득점 기회를 만들 가능성이 높아 보입니다. 최근 맞대결에서도 필라델피아 필리스가 시리즈를 앞서고 있고, 토론토 블루제이즈는 최근 흐름이 좋아도 중심 타선 결장과 시즌 누적 실점 부담이 함께 걸려 있어, 전체적인 균형은 홈팀 쪽으로 기울어 있습니다. 이런 흐름을 종합하면 필라델피아 필리스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179757-2026-08-08-philadelphia-phillies/"},{"date":"26.08.07","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179740-2026-08-07-philadelphia-phillies/"},{"date":"26.08.06","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179730-2026-08-06-philadelphia-phillies/"},{"date":"26.08.05","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179712-2026-08-05-philadelphia-phillies/"},{"date":"26.08.04","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179702-2026-08-04-philadelphia-phillies/"}]'
+awayRecent: '[{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179757-2026-08-08-philadelphia-phillies/"},{"date":"26.08.07","home":"시카고 컵스","away":"토론토 블루제이즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179173-2026-08-07-chicago-cubs/"},{"date":"26.08.06","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179724-2026-08-06-houston-astros/"},{"date":"26.08.04","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179704-2026-08-04-houston-astros/"},{"date":"26.08.03","home":"토론토 블루제이즈","away":"세인트루이스 카디널스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179687-2026-08-03-toronto-blue-jays/"}]'
+injuryHome: "Derek Hill (타박상)|Andrew Painter (통증)|Rafael Marchan (건염)|Tanner Banks (염좌)|Johan Rojas (수술)"
+injuryAway: "Jonatan Clase (족저근막염)|Vladimir Guerrero Jr. (통증)|Lenyn Sosa (타박상)|Luis Urias (염좌)|Joe Mantiply (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

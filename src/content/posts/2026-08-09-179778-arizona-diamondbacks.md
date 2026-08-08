@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs LA 다저스 경기분석·라인업·결장자·통계·승부예측 (8월 9일) | MLB - 픽천국"
+date: 2026-08-09T00:10:00+00:00
+description: "애리조나 다이아몬드백스 vs LA 다저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179778-2026-08-09-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "LA 다저스"
+homeLogo: "https://media.api-sports.io/baseball/teams/2.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/18.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 73경기에서 39승 34패, 승률 .535 수준을 유지하며 평균 득점 4.7을 기록하고 있습니다. 최근 10경기에서도 7승 3패로 흐름이 더 좋아졌고, 직전 경기에서 LA 다저스를 상대로 2-1 승리를 거두며 상승세를 이어가고 있습니다. 득점력이 한 경기에서 폭발하기보다 여러 경기에서 고르게 이어지는 편이라, 공격의 끈질김이 강점으로 보입니다. 다만 실점이 크게 무너지지 않는 대신 경기마다 기복이 섞여 있어, 안정적인 선발 운영과 불펜 뒷받침이 중요합니다. 홈에서는 상대를 압박하는 흐름을 자주 만들고 있고, 최근 맞대결에서도 LA 다저스를 상대로 주도권을 잡는 장면이 뚜렷해 보입니다."
+awayAnalysis: "LA 다저스는 2026시즌 최근 71경기에서 44승 27패, 승률 .620으로 상위 전력을 유지하며 평균 득점 5.1을 기록하고 있습니다. 다만 최근 10경기에서는 3승 7패로 주춤했고, 원정 경기와 강한 상대를 만났을 때 흐름이 흔들리는 모습이 나타나고 있습니다. 시즌 전체 득실 차가 크게 앞서 있어 기본 전력은 매우 탄탄하지만, 최근에는 마운드 안정감이 예전만 못해 보입니다. 특히 장기 결장자가 불펜과 선발 쪽에 몰려 있어, 경기 후반 운영에서 부담이 커진 상태입니다. 그래도 타선의 생산성은 여전히 높고, 한 번 흐름을 타면 대량 득점으로 이어갈 수 있는 힘은 분명합니다. 다만 최근 흐름과 맞물려 보면, 상위 순위의 고점 대비 다소 주춤한 전력으로 읽힙니다."
+homePower: "최근 맞대결에서 LA 다저스 상대로 밀리지 않는 상성임|최근 10경기 7승으로 반등 기세가 뚜렷함|홈에서 승부 집중력이 살아나는 흐름임|득점 편차보다 경기 후반 버티는 힘이 돋보임|중위권 순위지만 상위권 상대 압박이 검증됨"
+awayPower: "리그순위 3위에 걸맞은 시즌 누적 경쟁력 유지함|득실 차 +140으로 전력 우위의 기반이 확실함|최근 부진은 마운드 공백이 드러난 결과로 보임|공격 생산력은 여전해 초반 주도권 장악 가능함|원정 흔들림이 변수지만 기본 화력은 매우 강함"
+h2h: '[{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-179762-2026-08-08-arizona-diamondbacks/"},{"date":"26.07.13","home":"LA 다저스","away":"애리조나 다이아몬드백스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-179462-2026-07-13-los-angeles-dodgers/"},{"date":"26.07.12","home":"LA 다저스","away":"애리조나 다이아몬드백스","score":"2-9","link":"https://pick79.com/posts/detail/analyze-179430-2026-07-11-los-angeles-dodgers/"},{"date":"26.07.11","home":"LA 다저스","away":"애리조나 다이아몬드백스","score":"3-9","link":"https://pick79.com/posts/detail/analyze-179430-2026-07-11-los-angeles-dodgers/"},{"date":"26.06.05","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-178949-2026-06-05-arizona-diamondbacks/"}]'
+summary: "애리조나 다이아몬드백스는 시즌 승률과 최근 10경기 흐름이 함께 올라오면서 경기 감각이 살아 있는 편이고, LA 다저스는 시즌 전체 전력은 더 앞서지만 최근 10경기 흐름이 크게 흔들리고 있습니다. 특히 애리조나 다이아몬드백스는 홈에서 상대를 상대로 끈질긴 승부를 이어가고 있고, LA 다저스는 장기 결장자가 마운드 쪽에 몰리면서 후반 운영의 안정감이 예전만 못해 보입니다. 상대전적도 팽팽하지만 최근에는 애리조나 다이아몬드백스가 맞대결에서 더 날카로운 장면을 만들고 있어, 이번 경기에서는 홈팀이 조금 더 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179762-2026-08-08-arizona-diamondbacks/"},{"date":"26.08.07","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179748-2026-08-07-arizona-diamondbacks/"},{"date":"26.08.06","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"10-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179736-2026-08-06-arizona-diamondbacks/"},{"date":"26.08.05","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179723-2026-08-05-arizona-diamondbacks/"},{"date":"26.08.04","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179708-2026-08-04-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179762-2026-08-08-arizona-diamondbacks/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"},{"date":"26.08.04","home":"시카고 컵스","away":"LA 다저스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179707-2026-08-04-chicago-cubs/"},{"date":"26.08.03","home":"LA 다저스","away":"보스턴 레드삭스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179691-2026-08-03-los-angeles-dodgers/"},{"date":"26.08.01","home":"LA 다저스","away":"보스턴 레드삭스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179656-2026-08-01-los-angeles-dodgers/"}]'
+injuryHome: "Jordan Lawlar (염좌)|Merrill Kelly (날마다 상태를 지켜봐야 함)|Michael Soroka (염좌)|Ryan Thompson (염좌)|Justin Martinez (수술)"
+injuryAway: "Blake Snell (수술)|Brock Stewart (건염)|Blake Treinen (염증)|Jake Cousins (수술)|Will Klein (통증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "워싱턴 내셔널스 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (8월 9일) | MLB - 픽천국"
+date: 2026-08-08T22:45:00+00:00
+description: "워싱턴 내셔널스 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179764-2026-08-09-washington-nationals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "워싱턴 내셔널스"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/37.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/8.png"
+homeAnalysis: "워싱턴 내셔널스는 2026시즌 57승 61패 0무, 승률 .483에 득실 628-616으로 근소한 플러스 흐름을 만들고 있습니다. 다만 최근 10경기에서는 2승 8패로 흔들리고 있어, 시즌 전체 전력 대비 최근 안정감은 분명히 떨어져 보입니다. 평균 득점 5.0은 공격 재능이 살아 있음을 보여주지만, 최근에는 그 생산력이 일정하게 이어지지 못하고 있습니다. 홈에서는 비교적 득점이 붙을 때 경기 운영이 살아나는 편이라, 타선이 초반부터 연결되면 강한 압박을 줄 수 있습니다. 반대로 실점 관리가 느슨해지는 구간이 길어지면 경기 흐름을 쉽게 내주는 모습도 확인되고 있습니다. 특히 제임스 우드의 결장은 중심 타선의 장타 기대치를 낮추는 요소로 보이며, 최근 부진한 흐름을 끊기 위해서는 상위 타선의 출루와 중간 타선의 결정력이 함께 살아나야 합니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 56승 59패 0무, 승률 .487로 워싱턴 내셔널스보다 승률은 소폭 앞서지만 득실 479-541로 실점 부담이 더 큰 편입니다. 최근 10경기 7승 3패로 흐름은 확실히 올라와 있고, 평균 득점 4.0도 최근 경기에서는 더 끈끈하게 살아나는 모습입니다. 시즌 전체 수치만 보면 수비와 실점 억제에서 약점이 드러나지만, 최근에는 접전 운영이 좋아지며 반등 조짐이 보이고 있습니다. 특히 원정에서 한 번 흐름을 잡으면 타선 응집력이 좋아져 경기를 길게 끌고 가는 힘이 있습니다. 다만 주요 결장자가 여러 명이라 전력의 두께는 다소 얇아진 상태로 보입니다. 스펜서 스티어와 닉 로돌로, 그레이엄 애시크래프트의 이탈은 타선과 마운드 안정성 모두에 부담이 될 수 있습니다."
+homePower: "최근 10경기 2승 8패로 흐름 저하가 뚜렷함|득실 플러스이나 최근 실점 억제가 흔들림|제임스 우드 이탈로 장타 기대치 하락함|홈에서는 초반 득점 시 경기 주도력 살아남|상위 타선 출루가 따라와야 반등 가능함"
+awayPower: "최근 10경기 7승으로 상승세가 분명함|득실 마이너스여도 최근 응집력은 좋아짐|스펜서 스티어 이탈로 타선 깊이 약화됨|불펜 공백이 길어져 접전 부담이 큼|원정에서도 초반 득점 시 운영력 보임"
+h2h: '[{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"5-3","link":"https://pick79.com/posts/detail/analyze-179750-2026-08-08-washington-nationals/"},{"date":"26.05.15","home":"신시내티 레즈","away":"워싱턴 내셔널스","score":"15-1"},{"date":"26.05.14","home":"신시내티 레즈","away":"워싱턴 내셔널스","score":"7-8","link":"https://pick79.com/posts/detail/analyze-178635-2026-05-13-cincinnati-reds/"},{"date":"26.05.13","home":"신시내티 레즈","away":"워싱턴 내셔널스","score":"4-10","link":"https://pick79.com/posts/detail/analyze-178635-2026-05-13-cincinnati-reds/"}]'
+summary: "신시내티 레즈는 시즌 전체 수치에서 워싱턴 내셔널스보다 승률은 근소하게 앞서고, 최근 흐름은 더 강하게 올라와 있습니다. 워싱턴 내셔널스는 득실이 플러스이고 평균 득점도 높지만, 최근 10경기 전력 흐름이 꺾이면서 안정감이 떨어져 보입니다. 반면 신시내티 레즈는 실점 부담이 남아 있어도 최근 타선 응집과 경기 운영이 좋아서, 이번 경기는 원정팀이 전력 우위를 바탕으로 우세를 점할 가능성이 높습니다. 상대전적에서도 워싱턴 내셔널스가 앞서 있지만 최근 맞대결 결과를 보면 양 팀의 공격 폭발력 차이가 뚜렷하게 드러나고 있어, 종합적으로는 신시내티 레즈 쪽 판단이 더 자연스럽습니다."
+homeRecent: '[{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179750-2026-08-08-washington-nationals/"},{"date":"26.08.07","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179740-2026-08-07-philadelphia-phillies/"},{"date":"26.08.06","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179730-2026-08-06-philadelphia-phillies/"},{"date":"26.08.05","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179712-2026-08-05-philadelphia-phillies/"},{"date":"26.08.04","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179702-2026-08-04-philadelphia-phillies/"}]'
+awayRecent: '[{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179750-2026-08-08-washington-nationals/"},{"date":"26.08.07","home":"신시내티 레즈","away":"애슬레틱스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179743-2026-08-07-cincinnati-reds/"},{"date":"26.08.06","home":"신시내티 레즈","away":"애슬레틱스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179733-2026-08-06-cincinnati-reds/"},{"date":"26.08.05","home":"신시내티 레즈","away":"애슬레틱스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179718-2026-08-05-cincinnati-reds/"},{"date":"26.08.03","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"10-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179696-2026-08-03-cincinnati-reds/"}]'
+injuryHome: "James Wood (염좌)|Drew Millas (골절)|Josiah Gray (염좌)|Richard Lovelady (염좌)|DJ Herz (염좌)"
+injuryAway: "Tony Santillan (염좌)|Nick Lodolo (찰과상)|Brandon Williamson (근육통)|Graham Ashcraft (염좌)|Spencer Steer (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "신시내티 레즈"
+pickWinResult: "승"
+pickHandicapTeam: "신시내티 레즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

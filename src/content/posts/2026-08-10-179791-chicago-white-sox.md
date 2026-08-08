@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 클리블랜드 가디언스 경기분석·라인업·결장자·통계·승부예측 (8월 10일) | MLB - 픽천국"
+date: 2026-08-09T18:10:00+00:00
+description: "시카고 화이트삭스 vs 클리블랜드 가디언스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179791-2026-08-10-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "클리블랜드 가디언스"
+homeLogo: "https://media.api-sports.io/baseball/teams/7.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/9.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 최근 80경기 39승 1무 40패, 평균 득점 4.3으로 승패 균형은 맞지만 득점 효율에서 들쭉날쭉한 흐름이 보입니다. 최근에는 리그순위 4위라는 숫자에 비해 연패가 길게 이어지며 고점 대비 주춤한 모습이 나타났고, 특히 실점이 크게 늘어나는 경기에서 버티는 힘이 떨어졌습니다. 그래도 홈에서는 타선이 살아나는 구간이 분명해서 한 번 흐름을 타면 여러 이닝에 걸쳐 점수를 쌓는 장면이 돋보입니다. 다만 최근 경기들에서 상대 강한 타선에 흔들린 장면이 반복되었기 때문에, 초반 실점 억제가 가장 중요한 과제로 보입니다. 공격 쪽에서는 중하위 타선까지 연결될 때 경기 흐름을 바꾸는 힘이 있고, 수비와 불펜이 이를 받쳐 주면 홈 이점을 살릴 여지가 있습니다."
+awayAnalysis: "클리블랜드 가디언스는 2026시즌 최근 81경기 37승 2무 42패, 평균 득점 3.9로 전반적인 득점력은 크지 않지만 경기 운영의 밀도는 나쁘지 않습니다. 현재 리그순위 8위지만 최근에는 기복이 크고 실점이 늘어나는 경기가 겹치면서 순위 대비 흐름이 다소 불안하게 이어지고 있습니다. 그럼에도 원정에서 접전으로 끌고 가는 힘은 살아 있어, 상대 실책이나 한 번의 집중타를 살리면 경기 균형을 흔들 수 있는 팀입니다. 다만 최근 흐름상 타선이 길게 잠기는 구간이 잦아, 득점이 늦어질수록 부담이 커지는 모습입니다. 불펜이 버텨 주는 날에는 경기를 끝까지 가져가는 힘이 있지만, 실점이 먼저 쌓이면 반전이 쉽지 않은 전력으로 보입니다."
+homePower: "리그순위 4위에도 연패 구간이 길어 반등 신호가 절실함|홈에서 득점이 살아날 때 경기 주도력이 크게 올라감|실점이 커지는 경기에서는 불펜 부담이 빠르게 누적됨|상대와 접전이 많아 초반 흐름 확보가 승부처임|중심 타선이 연결되면 한 번에 분위기를 바꾸는 힘이 있음"
+awayPower: "리그순위 8위지만 접전 운영 능력은 완전히 무너지지 않음|원정에서 한 번에 흐름을 잡는 집중타가 강점임|최근 실점 증가로 수비 안정성이 흔들리는 모습임|득점이 늦어질수록 공격 효율이 급격히 떨어지는 편임|불펜이 버티면 하위권 전력 이상으로 끈질김이 보임"
+h2h: '[{"date":"26.08.08","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-8","link":"https://pick79.com/posts/detail/analyze-179756-2026-08-08-chicago-white-sox/"},{"date":"26.07.06","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-7","link":"https://pick79.com/posts/detail/analyze-179362-2026-07-06-cleveland-guardians/"},{"date":"26.07.05","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-179346-2026-07-05-cleveland-guardians/"},{"date":"26.07.04","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-179332-2026-07-04-cleveland-guardians/"},{"date":"26.07.03","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-179323-2026-07-03-cleveland-guardians/"}]'
+summary: "시카고 화이트삭스는 리그순위 4위로 겉보기에는 앞서 있지만, 최근 흐름이 흔들리면서 안정감은 크게 떨어져 있습니다. 클리블랜드 가디언스는 리그순위 8위로 더 낮지만, 맞붙는 양상에서는 접전 처리와 한 번의 집중력에서 조금 더 날카로운 모습이 보입니다. 양 팀의 시즌 득실 차이와 최근 흐름을 함께 보면, 화이트삭스가 홈에서 버티려 해도 가디언스가 수비 쪽 불안보다 응집력에서 한 발 앞설 가능성이 높습니다. 상대전적도 팽팽하지만 최근 맞대결의 흐름과 전력 균형을 함께 고려하면, 이번 경기는 클리블랜드 가디언스 쪽 우세로 보는 것이 자연스럽습니다."
+homeRecent: '[{"date":"26.08.08","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179756-2026-08-08-chicago-white-sox/"},{"date":"26.08.07","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"12-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179745-2026-08-07-boston-red-sox/"},{"date":"26.08.06","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179735-2026-08-06-boston-red-sox/"},{"date":"26.08.05","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179720-2026-08-05-boston-red-sox/"},{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.08.08","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179756-2026-08-08-chicago-white-sox/"},{"date":"26.08.07","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"6-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179744-2026-08-07-cleveland-guardians/"},{"date":"26.08.06","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179732-2026-08-06-cleveland-guardians/"},{"date":"26.08.05","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179716-2026-08-05-cleveland-guardians/"},{"date":"26.08.03","home":"클리블랜드 가디언스","away":"애리조나 다이아몬드백스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179695-2026-08-03-cleveland-guardians/"}]'
+injuryHome: "Jordan Leasure (염좌)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (염좌)|Ky Bush (수술)"
+injuryAway: "Slade Cecconi (통증)|Shawn Armstrong (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

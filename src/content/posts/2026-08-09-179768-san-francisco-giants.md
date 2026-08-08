@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 디트로이트 타이거즈 경기분석·라인업·결장자·통계·승부예측 (8월 9일) | MLB - 픽천국"
+date: 2026-08-08T23:15:00+00:00
+description: "샌프란시스코 자이언츠 vs 디트로이트 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179768-2026-08-09-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/31.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/12.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 65경기에서 29승 1무 35패, 평균 득점 4.5를 기록하며 전체적으로는 승부처에서 기복이 있는 흐름입니다. 최근 10경기에서도 5승 5패로 반반에 가깝고, 득점은 유지하고 있지만 실점 억제에서 흔들리는 장면이 적지 않아 보입니다. 홈에서는 대량 득점으로 분위기를 끌어올린 경기들이 있었지만, 강한 상대를 만나면 득점이 한 번 꺾일 때 경기 전체가 무거워지는 모습도 함께 드러납니다. 리그순위 14위라는 점을 감안하면 반등 여지는 있지만, 최근 흐름이 완전히 안정된 단계는 아니어서 경기 운영의 일관성이 중요해 보입니다. 다만 홈에서 타격이 살아나는 날에는 초반 흐름을 빠르게 가져갈 수 있는 힘은 분명히 갖추고 있습니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 최근 79경기에서 40승 1무 38패, 평균 득점 4.5를 기록하며 전체 전력은 자이언츠보다 한 단계 안정적으로 보입니다. 최근 10경기에서도 6승 4패로 우세 흐름을 이어가고 있고, 특히 최근에는 득점 폭발이 이어지면서 공격 쪽 자신감이 크게 올라와 있습니다. 리그순위 9위에 더해 득실이 크게 앞서 있어, 단순 승패보다 경기 내용의 우위가 분명하게 읽힙니다. 원정에서도 타선이 살아날 때는 초반부터 상대 마운드를 강하게 압박하는 장면이 자주 보입니다. 다만 최근 좋은 흐름 속에서도 장기 결장자가 적지 않아, 전체 운영에서는 불필요한 실점만 줄이면 더 안정적으로 우위를 이어갈 수 있습니다."
+homePower: "최근 흐름은 반반이지만 홈 타격 폭발력은 검증됨|득점 기복은 있으나 홈에서 한 번 터지면 큼|리그순위 낮지만 반등 신호는 일부 보임|실점 관리 흔들릴 때 경기 주도권 내주는 편임|주전 공백 속에서도 초반 집중력은 변수임"
+awayPower: "최근 득점 폭이 크게 살아난 공격 흐름임|리그순위와 득실 모두 상위권 경기력 보임|원정에서도 초반 압박으로 흐름 가져오는 힘 있음|장기 결장자 있어도 타선 응집력은 유지됨|고득점 경기 이후에도 공격 템포가 이어짐"
+h2h: '[]'
+summary: "디트로이트 타이거즈는 리그순위와 득실에서 샌프란시스코 자이언츠보다 분명한 우위를 보이고 있습니다. 자이언츠는 홈에서 반등 가능성은 있지만 최근 전력의 흔들림이 남아 있어, 경기 내내 안정적으로 밀어붙이기에는 아쉬움이 있습니다. 반면 타이거즈는 최근 득점 흐름이 뚜렷하고 팀 전체의 내용도 더 단단해서, 초반부터 주도권을 잡을 가능성이 높아 보입니다. 결장자가 양 팀 모두 적지 않지만, 현재 전력 비교에서는 타이거즈 쪽이 한 수 앞선 흐름으로 판단됩니다."
+homeRecent: '[{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"},{"date":"26.08.04","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179701-2026-08-04-texas-rangers/"},{"date":"26.08.03","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179692-2026-08-03-san-diego-padres/"},{"date":"26.08.01","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179660-2026-08-01-san-diego-padres/"},{"date":"26.07.31","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179649-2026-07-31-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.08.07","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179739-2026-08-07-seattle-mariners/"},{"date":"26.08.05","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179711-2026-08-05-seattle-mariners/"},{"date":"26.08.03","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179700-2026-08-03-athletics/"},{"date":"26.08.01","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179670-2026-08-01-athletics/"},{"date":"26.07.30","home":"디트로이트 타이거즈","away":"볼티모어 오리올스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179642-2026-07-30-detroit-tigers/"}]'
+injuryHome: "Victor Bericoto (염좌)|Jesus Rodriguez (신경 압박)|Joel Peguero (염좌)|Marcelo Mayer (골절)|Matt Gage (염좌)"
+injuryAway: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Matt Vierling (통증)|Brant Hurter (염증)|Wenceel Perez (골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

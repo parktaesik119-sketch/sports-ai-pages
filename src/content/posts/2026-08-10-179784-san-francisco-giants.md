@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 디트로이트 타이거즈 경기분석·라인업·결장자·통계·승부예측 (8월 10일) | MLB - 픽천국"
+date: 2026-08-09T20:05:00+00:00
+description: "샌프란시스코 자이언츠 vs 디트로이트 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-179784-2026-08-10-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://media.api-sports.io/baseball/teams/31.png"
+awayLogo: "https://media.api-sports.io/baseball/teams/12.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 66경기에서 30승 1무 35패, 평균 득점 4.5로 시즌 전체 전력은 다소 기복이 있지만, 최근 10경기에서는 6승 4패로 흐름을 끌어올리고 있습니다. 특히 직전 디트로이트 타이거즈전에서 4득점 2실점으로 승리하며 홈에서의 응집력이 살아난 모습입니다. 다만 최근 들어 0득점 패배와 대량 실점 경기가 함께 나와 타선의 상하 폭이 큰 편으로 보입니다. 홈에서는 장타가 터질 때 경기 주도권을 잡는 장점이 뚜렷하지만, 상대가 강한 득점력을 앞세우면 실점 억제에서 흔들릴 가능성도 있습니다. 최근 경기들을 보면 선발과 불펜이 모두 안정적으로 맞물릴 때는 충분히 경쟁력이 있지만, 득점이 묶이는 순간 흐름이 급격히 무거워지는 점이 주목됩니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 최근 80경기에서 40승 1무 39패, 평균 득점 4.5로 시즌 전체 전력 자체는 비교적 균형이 잘 잡혀 있고, 현재 리그순위 9위답게 중위권 경쟁력을 보여주고 있습니다. 최근 10경기에서는 5승 5패지만 평균 득점이 7.9로 매우 높아 타선 폭발력이 강하게 살아난 상태입니다. 직전 샌프란시스코 자이언츠전은 2득점에 그치며 패했지만, 그 이전 원정 연전에서는 두 자릿수 득점을 연달아 기록해 공격 잠재력이 분명히 확인됩니다. 다만 최근 흐름이 좋을 때도 실점이 함께 커지는 장면이 있어, 공격이 선전하더라도 수비 안정감이 경기 결과를 좌우할 가능성이 있습니다. 장기 결장자도 적지 않아 전력의 결속력은 조금 떨어질 수 있지만, 한 번 타격감이 붙으면 상대를 크게 흔드는 힘이 있는 팀으로 보입니다."
+homePower: "홈 경기에서 타선 기복이 승부를 가름하는 구조임|실점 억제 실패 시 급격히 무너지는 경향이 있음|최근 홈 승리 때는 장타와 득점 분산이 동시에 살아남|강한 상대를 만나면 초반 흐름 관리가 핵심 과제임|직전 맞대결 승리로 상성 부담은 다소 낮아졌음"
+awayPower: "최근 원정 타선 폭발력이 경기 지배력으로 이어짐|다득점 뒤에도 실점 억제가 흔들리는 점이 변수임|장기 결장자 누적에도 공격 전개는 여전히 날카로움|초반부터 점수를 벌면 후반 운영이 한결 수월해짐|최근 흐름상 장타 한 번에 경기 양상이 크게 기울어짐"
+h2h: '[{"date":"26.08.09","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"4-2","link":"https://pick79.com/posts/detail/analyze-179768-2026-08-09-san-francisco-giants/"}]'
+summary: "샌프란시스코 자이언츠는 시즌 전체 전력만 놓고 보면 기복이 적지 않지만, 최근 들어 홈에서 버티는 힘을 조금씩 되찾고 있습니다. 디트로이트 타이거즈는 시즌 승률과 득실 차에서 더 나은 모습을 보여주고 있고, 최근에는 폭발적인 득점력까지 살아나 있어 전력 균형에서 한발 앞서 있습니다. 다만 직전 맞대결에서는 샌프란시스코 자이언츠가 승리를 거두며 상대 압박을 보여준 만큼, 초반 흐름이 홈팀 쪽으로 기울면 경기 양상이 쉽게 단정되지는 않을 것으로 보입니다. 전체적으로는 디트로이트 타이거즈가 더 안정적인 공격 우위를 바탕으로 주도권을 잡을 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.09","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179768-2026-08-09-san-francisco-giants/"},{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"},{"date":"26.08.04","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179701-2026-08-04-texas-rangers/"},{"date":"26.08.03","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179692-2026-08-03-san-diego-padres/"},{"date":"26.08.01","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179660-2026-08-01-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.08.09","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179768-2026-08-09-san-francisco-giants/"},{"date":"26.08.07","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179739-2026-08-07-seattle-mariners/"},{"date":"26.08.05","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179711-2026-08-05-seattle-mariners/"},{"date":"26.08.03","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179700-2026-08-03-athletics/"},{"date":"26.08.01","home":"애슬레틱스","away":"디트로이트 타이거즈","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179670-2026-08-01-athletics/"}]'
+injuryHome: "Victor Bericoto (염좌)|Jesus Rodriguez (신경 압박)|Joel Peguero (염좌)|Marcelo Mayer (골절)|Matt Gage (염좌)"
+injuryAway: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Matt Vierling (통증)|Brant Hurter (염증)|Wenceel Perez (골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---
