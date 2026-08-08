@@ -1,0 +1,54 @@
+{
+  "_설명": "fotmob이 쓰는 국가/협회 코드(ccode, 3글자)를 country 필드에 쓸 영문 국가명으로 변환하는 표입니다. 순수 ISO-3166이 아니라 FIFA/UEFA식 '축구협회' 기준 코드라(예: 영국을 ENG/SCO/WAL/NIR로 4등분) 표준표를 그대로 못 씁니다. 코드가 이 표에 없으면 코드 자체를 country 값으로 그냥 씁니다 — fetch-fotmob-fixtures.js 실행 로그에 '⚠️ 매핑 안 된 국가코드'로 찍히니, 그걸 보고 하나씩 추가하면 됩니다.",
+
+  "INT": "International",
+
+  "ENG": "England", "SCO": "Scotland", "WAL": "Wales", "NIR": "Northern Ireland", "IRL": "Republic of Ireland",
+  "GER": "Germany", "FRA": "France", "ESP": "Spain", "ITA": "Italy", "POR": "Portugal",
+  "NED": "Netherlands", "BEL": "Belgium", "SUI": "Switzerland", "AUT": "Austria", "LUX": "Luxembourg",
+  "TUR": "Turkey", "GRE": "Greece", "CYP": "Cyprus", "MLT": "Malta", "ISL": "Iceland",
+  "DEN": "Denmark", "SWE": "Sweden", "NOR": "Norway", "FIN": "Finland", "FRO": "Faroe Islands",
+
+  "RUS": "Russia", "UKR": "Ukraine", "BLR": "Belarus", "POL": "Poland", "CZE": "Czech Republic",
+  "SVK": "Slovakia", "HUN": "Hungary", "ROU": "Romania", "BUL": "Bulgaria", "MDA": "Moldova",
+  "SRB": "Serbia", "CRO": "Croatia", "SVN": "Slovenia", "BIH": "Bosnia and Herzegovina",
+  "MKD": "North Macedonia", "MNE": "Montenegro", "ALB": "Albania", "KOS": "Kosovo",
+  "LTU": "Lithuania", "LVA": "Latvia", "EST": "Estonia",
+
+  "ARM": "Armenia", "AZE": "Azerbaijan", "GEO": "Georgia", "KAZ": "Kazakhstan", "UZB": "Uzbekistan",
+  "TKM": "Turkmenistan", "TJK": "Tajikistan", "KGZ": "Kyrgyzstan",
+
+  "USA": "United States", "CAN": "Canada", "MEX": "Mexico",
+  "GUA": "Guatemala", "HON": "Honduras", "SLV": "El Salvador", "PAN": "Panama", "CRC": "Costa Rica",
+  "NCA": "Nicaragua", "BLZ": "Belize", "JAM": "Jamaica", "TRI": "Trinidad and Tobago",
+  "HAI": "Haiti", "CUB": "Cuba", "DOM": "Dominican Republic", "PUR": "Puerto Rico",
+
+  "BRA": "Brazil", "ARG": "Argentina", "URU": "Uruguay", "PAR": "Paraguay", "CHI": "Chile",
+  "BOL": "Bolivia", "PER": "Peru", "ECU": "Ecuador", "COL": "Colombia", "VEN": "Venezuela",
+  "GUY": "Guyana", "SUR": "Suriname",
+
+  "KOR": "South Korea", "PRK": "North Korea", "JPN": "Japan", "CHN": "China", "HKG": "Hong Kong",
+  "TPE": "Chinese Taipei", "MAC": "Macau", "MNG": "Mongolia",
+  "IND": "India", "PAK": "Pakistan", "BAN": "Bangladesh", "SRI": "Sri Lanka", "NEP": "Nepal", "BHU": "Bhutan",
+  "THA": "Thailand", "VIE": "Vietnam", "MAS": "Malaysia", "SIN": "Singapore", "INA": "Indonesia",
+  "PHI": "Philippines", "MYA": "Myanmar", "CAM": "Cambodia", "LAO": "Laos", "BRU": "Brunei", "TLS": "Timor-Leste",
+
+  "KSA": "Saudi Arabia", "UAE": "United Arab Emirates", "QAT": "Qatar", "BHR": "Bahrain", "KUW": "Kuwait",
+  "OMA": "Oman", "YEM": "Yemen", "IRQ": "Iraq", "IRN": "Iran", "JOR": "Jordan", "LIB": "Lebanon",
+  "SYR": "Syria", "PLE": "Palestine", "ISR": "Israel",
+
+  "EGY": "Egypt", "LBY": "Libya", "TUN": "Tunisia", "ALG": "Algeria", "MAR": "Morocco",
+  "RSA": "South Africa", "NGA": "Nigeria", "GHA": "Ghana", "CIV": "Ivory Coast", "SEN": "Senegal",
+  "CMR": "Cameroon", "MLI": "Mali", "BFA": "Burkina Faso", "GUI": "Guinea", "ZAM": "Zambia",
+  "ZIM": "Zimbabwe", "KEN": "Kenya", "UGA": "Uganda", "TAN": "Tanzania", "ETH": "Ethiopia",
+  "COD": "DR Congo", "CGO": "Congo", "ANG": "Angola", "MOZ": "Mozambique", "BEN": "Benin",
+  "TOG": "Togo", "NIG": "Niger", "CHA": "Chad", "CAF": "Central African Republic", "GAB": "Gabon",
+  "GAM": "Gambia", "SLE": "Sierra Leone", "LBR": "Liberia", "MTN": "Mauritania", "SUD": "Sudan",
+  "RWA": "Rwanda", "BDI": "Burundi", "NAM": "Namibia", "BOT": "Botswana", "MWI": "Malawi",
+  "SWZ": "Eswatini", "LES": "Lesotho", "MAD": "Madagascar", "COM": "Comoros",
+
+  "AUS": "Australia", "NZL": "New Zealand", "FIJ": "Fiji", "PNG": "Papua New Guinea",
+
+  "AND": "Andorra", "SMR": "San Marino", "MON": "Monaco", "LIE": "Liechtenstein", "GIB": "Gibraltar",
+  "VAT": "Vatican City"
+}

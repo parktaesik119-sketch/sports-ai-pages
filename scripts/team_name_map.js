@@ -588,6 +588,32 @@ const TEAM_NAME_MAP = {
   "Wonju DB": "DB",
   "DB Promy": "DB",
 
+  // ===== 🏀 WKBL =====
+  "Samsung Blue Minx": "삼성생명",      
+  "KB Stars": "KB스타즈",               
+  "Shinhan Bank S-Birds": "신한은행",   
+  "Woori Bank WON": "우리은행",         
+  "Hana Bank": "하나은행",              
+  "BNK Sum": "부산 BNK 썸",             
+
+  // ===== 🏐 V-리그 남자부 (KOVO) =====
+  "Korean Air Jumbos": "대한항공",
+  "Samsung Fire Bluefangs": "삼성화재",
+  "KB Insurance Stars": "KB손해보험",
+  "Hyundai Capital Skywalkers": "현대캐피탈",
+  "KEPCO Vixtorm": "한국전력",
+  "OK Savings Bank OKman": "OK저축은행",
+  "Woori Card WON": "우리카드",
+
+  // ===== 🏐 V-리그 여자부 (WKOVO) =====
+  "Hyundai E&C Hillstate": "현대건설",
+  "Korea Expressway Hi-pass": "한국도로공사",
+ "Jungkwanjang Red Sparks": "정관장",
+  "Heungkuk Life Pink Spiders": "흥국생명",
+  "GS Caltex Seoul KIXX": "GS칼텍스",
+  "IBK Altos": "IBK기업은행",
+  "SOOP Supers": "페퍼저축은행",
+
   // ===== 🏒 NHL =====
   "Anaheim Ducks": "애너하임 덕스",
   "Boston Bruins": "보스턴 브루인스",

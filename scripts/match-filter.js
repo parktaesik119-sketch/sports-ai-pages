@@ -143,7 +143,9 @@ if (isExtraFiltered) {
   // 1. 축구 주요 리그 
   const top5 = ['PREMIER LEAGUE', 'CHAMPIONSHIP', 'LA LIGA', 'SEGUNDA DIVISIÓN', 'BUNDESLIGA', '2. BUNDESLIGA', 'PRIMEIRA LIGA', 'SERIE A', 'SERIE B', 'LIGUE 1', 'LIGUE 2', 'EREDIVISIE'].some(el => el === upperLg);
   const korea = ['KLEAGUE1', 'KLEAGUE2'].some(el => {
-  const cleanLg = upperLg.replace(/\s+/g, ''); // 데이터의 모든 공백 제거
+  // ⚠️ fotmob은 "K-League 1"처럼 하이픈을 쓴다(api-sports는 "K League1"). 공백뿐 아니라
+  // 하이픈도 같이 지워야 두 표기 방식 다 매칭된다 (실사용 확인, 2026-08).
+  const cleanLg = upperLg.replace(/[\s-]+/g, ''); // 데이터의 모든 공백/하이픈 제거
   return el === cleanLg;
 });
   const mls = ['MAJOR LEAGUE SOCCER', 'MLS'].some(el => el === upperLg); // NEXT PRO는 이름이 다르므로 자동 차단됨
