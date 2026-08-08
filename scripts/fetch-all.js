@@ -28,7 +28,11 @@ const API_SPORTS_BASE = {
   volleyball: "https://v1.volleyball.api-sports.io"
 };
 const RAPID_LOL_HOST = "esportapi1.p.rapidapi.com";
-const RAPID_SOCCER_HOST = "free-api-live-football-data.p.rapidapi.com";
+// ⚠️ RAPID_SOCCER_HOST(축구 보조, free-api-live-football-data)는 2026-08 제거함.
+// fotmob으로 축구를 완전히 대체한 뒤 확인해보니, 이 API의 엔드포인트
+// (/api/v1/football/fixtures)는 이미 존재하지 않는 상태(404)라 매번 조용히
+// 빈 배열만 반환하고 있었음(catch로 삼켜져서 티가 안 났음) — 실질 기여 0건,
+// 순수 낭비 호출이었음이 실사용 데이터로 확인됨.
 
 // ─────────────────────────────────────────────
 // fotmob 국가/협회 코드(ccode) → 영문 국가명 매핑
@@ -85,36 +89,6 @@ function getTargetDates() {
   }
 
   return [...new Set(dates)];
-}
-
-function getDateRange() {
-  const now = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
-  
-  // 1. 한국 시간대 포맷터 정의 (서버/로컬 타임존 무력화)
-  const formatter = new Intl.DateTimeFormat("ko-KR", {
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-    timeZone: "Asia/Seoul"
-  });
-
-  const formatKst = (dateObj) => {
-    const parts = formatter.formatToParts(dateObj);
-    const year = parts.find(p => p.type === 'year').value;
-    const month = parts.find(p => p.type === 'month').value;
-    const day = parts.find(p => p.type === 'day').value;
-    return `${year}-${month}-${day}`;
-  };
-
-  // 2. 현재 시점을 기반으로 정확하게 -1일과 +3일 시점을 계산
-  const fromDate = new Date(now.getTime() - (24 * 60 * 60 * 1000));
-  const toDate = new Date(now.getTime() + (72 * 60 * 60 * 1000));
-
-  // 3. toISOString 대신 한국 시간대 포맷터를 거친 문자열 반환
-  return {
-    from: formatKst(fromDate),
-    to: formatKst(toDate)
-  };
 }
 
 // ==========================
@@ -501,40 +475,6 @@ async function fetchFlashscoreCPBL(date) {
   }
 }
 
-async function fetchRapidSoccerRange() {
-  const { from, to } = getDateRange();
-
-  const url = `https://${RAPID_SOCCER_HOST}/api/v1/football/fixtures?from=${from}&to=${to}`;
-
-  try {
-    const res = await fetch(url, {
-      headers: {
-        'x-rapidapi-key': RAPID_KEY,
-        'x-rapidapi-host': RAPID_SOCCER_HOST
-      }
-    });
-
-    const data = await res.json();
-    if (!data?.data) return [];
-
-    return data.data.map(item => ({
-      id: `rapid-soc-${item.fixture_id}`,
-      sport: "soccer",
-      country: item.league.country || "Unknown",
-      league: item.league_name,
-      date: item.fixture_date,
-      home: item.home_team_name,
-      away: item.away_team_name,
-      homeLogo: item.home_team_logo,
-      awayLogo: item.away_team_logo,
-      homeScore: item.home_team_score ?? null,
-      awayScore: item.away_team_score ?? null
-    }));
-  } catch (err) {
-    return [];
-  }
-}
-
 async function fetchLckRapid(date) {
   const [y, m, d] = date.split('-');
   const dateParam = `${d}/${m}/${y}`;
@@ -657,8 +597,6 @@ async function main() {
       scheduleTasks.push(fetchFlashscoreCPBL(date));
     });
 
-// ✅ 날짜 루프 밖에서 1번만 호출 (RapidAPI 보조 소스, 기존과 동일하게 유지)
-scheduleTasks.push(fetchRapidSoccerRange());
 
     // ⚾🏀 네이버스포츠(야구/농구)가 공유하는 날짜 범위 — api-sports 대체, 범위 방식으로 각 1번만 호출
     const naverRangeFrom = targetDates[0];
