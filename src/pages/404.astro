@@ -1,0 +1,135 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// ⚠️ 이 페이지는 검색엔진에 색인되면 안 됨 (에러 페이지이므로 noindex 필수)
+// ⚠️ Cloudflare Pages는 dist/404.html이 존재해야 SPA fallback(모든 미매칭 경로를
+//    200 + index.html로 응답) 대신 진짜 404 상태코드를 반환함.
+//    (참고: https://developers.cloudflare.com/pages/configuration/serving-pages/)
+---
+
+<BaseLayout
+  title="페이지를 찾을 수 없습니다 | 픽천국"
+  description="요청하신 페이지를 찾을 수 없습니다. 픽천국에서 최신 스포츠분석과 무료 스포츠픽을 확인해보세요."
+  noindex={true}
+>
+  <div class="notfound-wrap">
+    <div class="notfound-icon">🔍</div>
+    <h1 class="notfound-title">404</h1>
+    <p class="notfound-desc">
+      요청하신 페이지를 찾을 수 없습니다.<br />
+      주소가 변경되었거나 삭제된 페이지일 수 있습니다.
+    </p>
+
+    <a href="/" class="notfound-home-btn">홈으로 돌아가기</a>
+
+    <div class="notfound-categories">
+      <p class="notfound-categories-label">이런 페이지는 어떠세요?</p>
+      <div class="notfound-category-links">
+        <a href="/posts/soccer/">축구분석</a>
+        <a href="/posts/baseball/">야구분석</a>
+        <a href="/posts/basketball/">농구분석</a>
+        <a href="/posts/volleyball/">배구분석</a>
+        <a href="/posts/hockey/">하키분석</a>
+        <a href="/posts/lol/">LoL분석</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .notfound-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 80px 20px 100px;
+    max-width: 560px;
+    margin: 0 auto;
+  }
+
+  .notfound-icon {
+    font-size: 48px;
+    margin-bottom: 8px;
+    opacity: 0.7;
+  }
+
+  .notfound-title {
+    font-size: 4rem;
+    font-weight: 800;
+    color: #3b82f6;
+    margin: 0 0 12px 0;
+    letter-spacing: -2px;
+  }
+
+  .notfound-desc {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.7;
+    margin: 0 0 32px 0;
+  }
+
+  .notfound-home-btn {
+    display: inline-block;
+    background: #3b82f6;
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.95rem;
+    text-decoration: none;
+    padding: 12px 28px;
+    border-radius: 8px;
+    transition: background 0.15s ease;
+    margin-bottom: 48px;
+  }
+
+  .notfound-home-btn:hover {
+    background: #2563eb;
+  }
+
+  .notfound-categories {
+    width: 100%;
+    border-top: 1px dashed #e5e7eb;
+    padding-top: 28px;
+  }
+
+  .notfound-categories-label {
+    font-size: 0.85rem;
+    color: #888;
+    margin: 0 0 14px 0;
+  }
+
+  .notfound-category-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .notfound-category-links a {
+    display: inline-block;
+    background: #f5f7fa;
+    color: #333;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: 1px solid #eaecef;
+    transition: all 0.15s ease;
+  }
+
+  .notfound-category-links a:hover {
+    background: #3b82f6;
+    color: #fff;
+    border-color: #3b82f6;
+  }
+
+  @media (max-width: 768px) {
+    .notfound-wrap {
+      padding: 60px 20px 80px;
+    }
+    .notfound-title {
+      font-size: 3rem;
+    }
+  }
+</style>
