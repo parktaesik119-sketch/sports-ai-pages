@@ -31,8 +31,9 @@ slug: "notice-05"
 <a href="https://t.me/pickheaven_official">
   <img src="https://i.imgur.com/SMtSihU.png" style="max-width:450px; width:100%; display:block; margin:20px auto;">
 </a><br><br>
-
+<div style="text-align:center;">
 방문은 픽천국에 많은 힘이 됩니다.<br>
 
 많은 관심과 이용 부탁드립니다.<br><br><br>
 </b>
+</div>
