@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809COSL0-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"}]'
 injuryHome: "Michael Soroka (염좌)|Merrill Kelly (경련)|Jordan Lawlar (염좌)|Ryan Thompson (염좌)|Justin Martinez (수술)"
 injuryAway: "Jaden Hill (건염)|Jeff Criswell (염좌)|McCade Brown (염증)|Jose Quintana (염좌)|Kris Bryant (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Bratt (1-1, 3.90) ERA 3.90|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
+awayLineup: "[\"선발투수 T. Sugano (11-5, 4.51) ERA 4.51|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

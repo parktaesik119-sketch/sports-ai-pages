@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.09","home":"보스턴 레드삭스","away":"애슬�
 injuryHome: "Jonatan Clase (족저근막염)|George Springer (일상대처)|Lenyn Sosa (멍)|Luis Urias (근육 손상)|Joe Mantiply (수술)"
 injuryAway: "Wilyer Abreu (일상대처)|Kutter Crawford (통증)|Johan Oviedo (근육 손상)|Adley Rutschman (염증)|Isiah Kiner-Falefa (염증)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Gray (14-2, 2.78) ERA 2.78|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

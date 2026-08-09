@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"마이애미 말린스","away":"LA 에�
 awayRecent: '[{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809BATE0-2026-08-09-texas-rangers/"},{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"},{"date":"26.08.04","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179701-2026-08-04-texas-rangers/"},{"date":"26.08.03","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179693-2026-08-03-houston-astros/"},{"date":"26.08.02","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179678-2026-08-02-houston-astros/"}]'
 injuryHome: "Sebastian Rivero (수술)|Yusei Kikuchi (염증)|Sam Bachman (염증)|Yoan Moncada (수술)|Robert Stephenson (수술)"
 injuryAway: "Kyle Higashioka (염좌)|Jakob Junis (염좌)|Michael Helman (골절)|Carter Baumler (염좌)|Josh Jung (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Johnson (2-6, 7.11) ERA 7.11|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
+awayLineup: "[\"선발투수 M. Gore (6-9, 4.55) ERA 4.55|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

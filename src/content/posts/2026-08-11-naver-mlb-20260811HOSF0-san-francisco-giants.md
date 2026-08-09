@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.06","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179724-2026-08-06-houston-astros/"},{"date":"26.08.04","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179704-2026-08-04-houston-astros/"},{"date":"26.08.03","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179693-2026-08-03-houston-astros/"},{"date":"26.08.02","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179678-2026-08-02-houston-astros/"}]'
 injuryHome: "Victor Bericoto (염좌)|Jesus Rodriguez (눌린 신경)|Joel Peguero (염좌)|Marcelo Mayer (골절)|Matt Gage (염좌)"
 injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Whisenhunt (2-3, 7.25) ERA 7.25|https://a.espncdn.com/i/headshots/mlb/players/full/4626232.png\"]"
+awayLineup: "[\"선발투수 H. Brown (3-1, 3.53) ERA 3.53|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

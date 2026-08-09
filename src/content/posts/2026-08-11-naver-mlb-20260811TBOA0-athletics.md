@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"보스턴 레드삭스","away":"애슬�
 awayRecent: '[{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TBSE0-2026-08-08-seattle-mariners/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"},{"date":"26.08.02","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179673-2026-08-02-tampa-bay-rays/"}]'
 injuryHome: "Zack Gelof (열상)|Justin Sterner (통증)|Nick Kurtz (염좌)|Denzel Clarke (염좌)|Brooks Kriske (신경 압박)"
 injuryAway: "Taylor Walls (미정)|Griffin Jax (통증)|Cole Sulser (경련)|Jonathan Heasley (골절)|Gavin Lux (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Barnett (1-2, 5.56) ERA 5.56|https://a.espncdn.com/i/headshots/mlb/players/full/4620704.png\"]"
+awayLineup: "[\"선발투수 N. Martinez (11-3, 2.65) ERA 2.65|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

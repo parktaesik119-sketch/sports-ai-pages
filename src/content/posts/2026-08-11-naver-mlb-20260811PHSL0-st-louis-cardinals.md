@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TOPH0-2026-08-08-philadelphia-phillies/"},{"date":"26.08.07","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MOPH0-2026-08-07-philadelphia-phillies/"},{"date":"26.08.06","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179730-2026-08-06-philadelphia-phillies/"},{"date":"26.08.05","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179712-2026-08-05-philadelphia-phillies/"},{"date":"26.08.04","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179702-2026-08-04-philadelphia-phillies/"}]'
 injuryHome: "Ramon Urias (건염)|Max Rajcic (수술)"
 injuryAway: "Derek Hill (타박상)|Aaron Nola (타박상)|Andrew Painter (통증)|Rafael Marchan (건염)|Tanner Banks (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 H. Dobbins (2-2, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/4415836.png\"]"
+awayLineup: "[\"선발투수 A. Painter (1-8, 6.48) ERA 6.48|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

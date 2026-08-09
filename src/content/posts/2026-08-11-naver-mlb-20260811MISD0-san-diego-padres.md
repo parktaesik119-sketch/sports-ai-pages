@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"샌디에이고 파드리스","away":"�
 awayRecent: '[{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808MNMI0-2026-08-08-milwaukee-brewers/"},{"date":"26.08.07","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807PIMI0-2026-08-07-milwaukee-brewers/"},{"date":"26.08.06","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179728-2026-08-06-milwaukee-brewers/"},{"date":"26.08.05","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179714-2026-08-05-milwaukee-brewers/"},{"date":"26.08.04","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179705-2026-08-04-milwaukee-brewers/"}]'
 injuryHome: "David Morgan (염증)|Samad Taylor (근육 손상)|Miguel Andujar (골절)|Lucas Giolito (염증)|Joe Musgrove (염증)"
 injuryAway: "Rob Zastryzny (근육 손상)|Joey Ortiz (사유 미상)|Joel Kuhnel (힘줄염)|Kyle Harrison (경련)|JoJo Romero (사유 미상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 W. Buehler (6-5, 5.07) ERA 5.07|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
+awayLineup: "[\"선발투수 K. Harrison (9-2, 2.84) ERA 2.84|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
