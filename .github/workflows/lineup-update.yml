@@ -111,20 +111,26 @@ jobs:
         if: steps.push.outputs.changed == 'true'
         run: npx astro sync && npm run build
 
-      # archive-build.yml(주 1회)이 미리 만들어둔 "완성된 예전 글 HTML"을 dist에
-      # 그대로 붙여넣는다 — 다시 빌드하는 게 아니라 복사만 하는 거라 시간이 거의
-      # 안 걸린다. 이게 없으면 archive로 옮긴 글들이 이번 배포에서 통째로 빠져서
-      # URL이 죽어버리므로 반드시 배포 직전에 실행해야 한다.
+      # archive-build.yml(주 1회)이 미리 만들어둔 "완성된 예전 글 HTML + 그 시점의
+      # CSS/JS 에셋"을 dist에 그대로 붙여넣는다 — 다시 빌드하는 게 아니라 복사만
+      # 하는 거라 시간이 거의 안 걸린다.
+      # ⚠️ HTML만 복사하고 에셋(_astro/*)을 빠뜨리면, 오늘 빌드가 만든 새 해시
+      # CSS/JS만 dist에 남고 archive HTML이 참조하는 예전 해시 파일은 사라져서
+      # 과거 글 레이아웃이 통째로 깨진다 (2026-08 실제 발생 확인). 그래서 HTML과
+      # 에셋을 항상 같이 병합해야 한다.
+      # cp -rn(no-clobber)이라 오늘 빌드가 만든 최신 에셋 파일은 덮어쓰지 않고,
+      # 거기 없는 "예전에만 존재했던" 에셋 파일만 추가로 채워 넣는 방식이다.
       - name: Archive 페이지 병합
         if: steps.push.outputs.changed == 'true'
         run: |
           if git ls-remote --exit-code --heads origin archive-dist > /dev/null 2>&1; then
             git fetch origin archive-dist --depth=1
             git worktree add /tmp/archive-dist origin/archive-dist
-            mkdir -p dist/posts/detail
+            mkdir -p dist/posts/detail dist/_astro
             cp -rn /tmp/archive-dist/posts/detail/. dist/posts/detail/ 2>/dev/null || true
+            cp -rn /tmp/archive-dist/_astro/. dist/_astro/ 2>/dev/null || true
             git worktree remove /tmp/archive-dist --force
-            echo "✅ archive 페이지 병합 완료"
+            echo "✅ archive 페이지 및 에셋 병합 완료"
           else
             echo "ℹ️ archive-dist 브랜치 아직 없음 (archive-build.yml 첫 실행 전) — 스킵"
           fi
