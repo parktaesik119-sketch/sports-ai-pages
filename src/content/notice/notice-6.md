@@ -59,8 +59,7 @@ slug: "notice-06"
   <img src="https://i.imgur.com/SMtSihU.png" style="max-width:450px; width:100%; display:block; margin:20px auto;">
 </a><br><br>
 <hr style="border:none; border-top:1px dashed #ddd; margin:24px 0;">
-<div style="text-align:center;">
+
 모든 스포츠분석 및 스포츠픽은 베팅이나 도박 행위를 권유하는 목적이 아니며, 스포츠 경기를 더 재미있게 즐기기 위한 참고 정보로 제공됩니다.<br>
 
 과도한 베팅은 개인의 재정적·정신적 건강에 심각한 영향을 줄 수 있습니다.<br> 도박 문제로 어려움을 겪고 계시다면 <b>한국도박문제예방치유원 헬프라인(국번없이 1336, 무료, 24시간 연중무휴)</b>에서 상담받으실 수 있습니다.<br><br>
-</div>
