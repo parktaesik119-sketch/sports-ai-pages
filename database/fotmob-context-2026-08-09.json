@@ -13307,6 +13307,16 @@
     "injuries": {
       "home": [
         {
+          "name": "Fabian Rossdorfer",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Dominik Stöger",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
           "name": "Philipp Pomer",
           "status": "근육 부상",
           "detail": "A few weeks"
@@ -21212,7 +21222,7 @@
         "Liridon Berisha (DF)|https://images.fotmob.com/image_resources/playerimages/1026769.png",
         "Dominik Schwizer (DF)|https://images.fotmob.com/image_resources/playerimages/867147.png",
         "Julian Stark (MF)|https://images.fotmob.com/image_resources/playerimages/1140914.png",
-        "Luca Mack (MF)|https://images.fotmob.com/image_resources/playerimages/1080770.png",
+        "Luca Mack (DF)|https://images.fotmob.com/image_resources/playerimages/1080770.png",
         "Juan Cabrera (MF)|https://images.fotmob.com/image_resources/playerimages/1576553.png",
         "Lutfi Dalipi (MF)|https://images.fotmob.com/image_resources/playerimages/1738032.png",
         "Marcel Monsberger (FW)|https://images.fotmob.com/image_resources/playerimages/856035.png",
@@ -24466,11 +24476,11 @@
     "lineup": {
       "home": [
         "Ederson Cabezas (GK)|https://images.fotmob.com/image_resources/playerimages/1513184.png",
-        "Santiago Jiménez (DF)|https://images.fotmob.com/image_resources/playerimages/1103949.png",
+        "Mateo Garavito (DF)|https://images.fotmob.com/image_resources/playerimages/1330783.png",
         "Julián Quiñónes (DF)|https://images.fotmob.com/image_resources/playerimages/341597.png",
         "Nicolás Gil (DF)|https://images.fotmob.com/image_resources/playerimages/857745.png",
         "Hervin Goyes (DF)|https://images.fotmob.com/image_resources/playerimages/1789709.png",
-        "Mateo Garavito (MF)|https://images.fotmob.com/image_resources/playerimages/1330783.png",
+        "Santiago Jiménez (MF)|https://images.fotmob.com/image_resources/playerimages/1103949.png",
         "Enrique Serje (MF)|https://images.fotmob.com/image_resources/playerimages/860916.png",
         "Yéiler Góez (MF)|https://images.fotmob.com/image_resources/playerimages/1130929.png",
         "Mayer Gil (MF)|https://images.fotmob.com/image_resources/playerimages/1377890.png",
@@ -24484,16 +24494,16 @@
         "Fernando Álvarez (DF)|https://images.fotmob.com/image_resources/playerimages/1280284.png",
         "Fabián Viáfara (DF)|https://images.fotmob.com/image_resources/playerimages/630859.png",
         "Edwin Velasco (DF)|https://images.fotmob.com/image_resources/playerimages/496855.png",
-        "Daniel Giraldo (MF)|https://images.fotmob.com/image_resources/playerimages/282156.png",
+        "Johan Martínez (MF)|https://images.fotmob.com/image_resources/playerimages/1433044.png",
         "Gustavo Cuéllar (MF)|https://images.fotmob.com/image_resources/playerimages/207520.png",
+        "Daniel Giraldo (MF)|https://images.fotmob.com/image_resources/playerimages/282156.png",
         "Steven Rodríguez (MF)|https://images.fotmob.com/image_resources/playerimages/1105327.png",
-        "Juan Dinenno (FW)|https://images.fotmob.com/image_resources/playerimages/486453.png",
-        "Johan Martínez (FW)|https://images.fotmob.com/image_resources/playerimages/1433044.png"
+        "Juan Dinenno (FW)|https://images.fotmob.com/image_resources/playerimages/486453.png"
       ]
     },
     "formation": {
       "home": "4-4-1-1",
-      "away": "5-3-2"
+      "away": "5-4-1"
     },
     "coach": {
       "home": "Wilson Morelo|https://images.fotmob.com/image_resources/playerimages/166863.png",
@@ -26695,6 +26705,16 @@
     "league": "Bundesliga",
     "injuries": {
       "home": [
+        {
+          "name": "Fabian Rossdorfer",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Dominik Stöger",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
         {
           "name": "Philipp Pomer",
           "status": "근육 부상",
@@ -32815,7 +32835,7 @@
         "Aaron Donnelly (DF)|https://images.fotmob.com/image_resources/playerimages/885793.png",
         "Tomas Cosgrove (DF)|https://images.fotmob.com/image_resources/playerimages/503059.png",
         "Sean Graham (MF)|https://images.fotmob.com/image_resources/playerimages/1075182.png",
-        "Dylan Sloan (MF)|https://images.fotmob.com/image_resources/playerimages/1379448.png",
+        "Dylan Sloan (FW)|https://images.fotmob.com/image_resources/playerimages/1379448.png",
         "Christopher Gallagher (MF)|https://images.fotmob.com/image_resources/playerimages/896064.png",
         "Ronan Doherty (MF)|https://images.fotmob.com/image_resources/playerimages/1041087.png",
         "Montel Gibson (FW)|https://images.fotmob.com/image_resources/playerimages/740186.png",
