@@ -8,7 +8,9 @@ slug: "notice-02"
 <b>
 픽천국 URL 변경시 텔레그램 '픽천국 공식채널'을 통해 안내드립니다.<br><br>
 
-<a href="https://t.me/pickheaven_official">'픽천국 공식채널'로 이동하기</a><br><br>
+<a href="https://t.me/pickheaven_official">
+  <img src="https://i.imgur.com/SMtSihU.png" style="max-width:450px; width:100%; display:block; margin:20px auto;">
+</a><br><br>
 
 방문은 픽천국에 많은 힘이 됩니다.<br>
 

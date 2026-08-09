@@ -28,7 +28,9 @@ slug: "notice-05"
 
 앞으로도 픽천국은 데이터 기반의 정밀한 스포츠분석과 함께, 더 편리하고 빠른 정보를 제공하기 위해 계속 업데이트해 나가겠습니다.<br><br>
 
-<a href="https://t.me/pickheaven_official">'픽천국 공식채널'로 이동하기</a><br><br>
+<a href="https://t.me/pickheaven_official">
+  <img src="https://i.imgur.com/SMtSihU.png" style="max-width:450px; width:100%; display:block; margin:20px auto;">
+</a><br><br>
 
 방문은 픽천국에 많은 힘이 됩니다.<br>
 

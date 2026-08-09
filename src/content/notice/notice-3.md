@@ -14,7 +14,9 @@ slug: "notice-03"
 <img src="https://i.imgur.com/FeCJbyt.png" style="width:100%; display:block; margin:20px auto;">
 
 
-<a href="https://t.me/pickheaven_official">'픽천국 공식채널'로 이동하기</a><br><br>
+<a href="https://t.me/pickheaven_official">
+  <img src="https://i.imgur.com/SMtSihU.png" style="max-width:450px; width:100%; display:block; margin:20px auto;">
+</a><br><br>
 
 방문은 픽천국에 많은 힘이 됩니다.<br>
 
