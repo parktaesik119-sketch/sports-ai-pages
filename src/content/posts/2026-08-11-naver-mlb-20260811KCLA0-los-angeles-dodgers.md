@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 캔자스시티 로열스 경기분석·라인업·결장자·통계·승부예측 (8월 11일) | MLB - 픽천국"
+date: 2026-08-11T02:10:00.000Z
+description: "LA 다저스 vs 캔자스시티 로열스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260811KCLA0-2026-08-11-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "LA 다저스는 2026시즌 최근 71경기에서 44승 27패, 평균 득점 5.2를 기록하며 시즌 전체 전력은 상위권을 유지하고 있습니다. 다만 최근 흐름은 최근 10경기 3승 7패, 평균 득점 4.5로 다소 주춤한 모습이라, 리그순위 3위의 위치에 비해 경기력의 기복이 눈에 띕니다. 홈에서는 공격 전개가 비교적 살아나지만, 최근에는 실점이 늘어나며 접전에서 흐름을 지키지 못한 장면이 많았습니다. 그래도 시즌 득실 차가 크게 플러스인 만큼 기본적인 화력과 장타 생산 능력은 여전히 강점으로 평가됩니다. 결장자가 적지 않지만 전체 전력의 두께가 있는 팀이라, 경기 중반 이후 타선 응집력이 살아나면 다시 우세를 잡을 가능성이 높아 보입니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 최근 78경기에서 36승 38패 4무, 평균 득점 4.2를 기록하며 중하위권 전력을 보이고 있습니다. 최근 9경기에서는 3승 6패, 평균 득점 2.8로 타선 흐름이 더 떨어져 있어 리그순위 13위의 위치와 최근 경기력이 함께 부담으로 작용하고 있습니다. 원정에서는 득점 생산이 특히 더 답답한 편이라, 상대 선발이나 불펜이 안정적일 경우 따라가는 경기가 쉽게 많아지고 있습니다. 시즌 득실 차도 마이너스로 벌어져 있어 마운드와 수비에서 버티는 힘이 충분히 강하지 않은 점이 약점입니다. 핵심 전력 공백도 적지 않아 장타 한 방보다 짜내기 득점에 의존하는 경향이 강해 보입니다. 이런 흐름에서는 초반 실점을 줄이지 못하면 경기 운영이 더 어려워질 가능성이 높습니다."
+homePower: "LA 다저스는 시즌 득실 차가 큰 폭의 플러스임이 강점으로 보임|홈과 원정이 섞인 최근 흐름에서도 득점 저하는 크지 않음|최근 실점 증가가 있어도 기본 공격 기대치는 유지되는 편임|장기 결장자가 있어도 전력층이 두꺼운 점이 돋보임|상위권 전력답게 접전 재정비 능력은 여전히 검증됨"
+awayPower: "캔자스시티 로열스는 마이너스 득실이 공격과 수비 불균형을 보여줌|최근 득점 저하로 한 이닝 반격이 잘 이어지지 않음|원정에서 점수 생산이 더 둔해지는 패턴이 뚜렷함|핵심 결장 누적이 타선 짜임새를 더 약화시키는 상황임|접전 유지보다 추격 부담이 먼저 커지는 전력으로 보임"
+h2h: '[]'
+summary: "LA 다저스는 시즌 전체 전력과 득실 차에서 캔자스시티 로열스보다 분명히 앞서 있으며, 현재 리그순위 3위라는 위치도 그 강세를 잘 보여주고 있습니다. 최근에는 다소 흔들렸지만 평균 득점 흐름 자체는 여전히 상대보다 낫고, 경기 운영의 바탕이 되는 공격 자원도 더 두텁습니다. 캔자스시티 로열스는 최근 득점력이 눈에 띄게 내려와 있고 시즌 전체 흐름에서도 실점 억제가 충분하지 않아, 원정에서는 버티는 시간이 길어질수록 불리해 보입니다. 전체적으로는 홈팀이 초반부터 주도권을 잡고 끝까지 우위를 유지할 가능성이 더 높게 보입니다."
+homeRecent: '[{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808LAAZ0-2026-08-08-arizona-diamondbacks/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"},{"date":"26.08.04","home":"시카고 컵스","away":"LA 다저스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179707-2026-08-04-chicago-cubs/"},{"date":"26.08.03","home":"LA 다저스","away":"보스턴 레드삭스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179691-2026-08-03-los-angeles-dodgers/"},{"date":"26.08.01","home":"LA 다저스","away":"보스턴 레드삭스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179656-2026-08-01-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.08.09","home":"캔자스시티 로열스","away":"시카고 컵스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CCKC0-2026-08-09-kansas-city-royals/"},{"date":"26.08.07","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MNKC0-2026-08-07-kansas-city-royals/"},{"date":"26.08.06","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179729-2026-08-06-kansas-city-royals/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"},{"date":"26.08.01","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179664-2026-08-01-colorado-rockies/"}]'
+injuryHome: "Blake Snell (수술)|Brock Stewart (건염)|Blake Treinen (염증)|Jake Cousins (수술)|Will Klein (통증)"
+injuryAway: "Beck Way (경련)|Vinnie Pasquantino (통증)|Maikel Garcia (염좌)|Nick Mears (신경 압박)|James McArthur (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

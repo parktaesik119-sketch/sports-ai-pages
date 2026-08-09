@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (8월 11일) | MLB - 픽천국"
+date: 2026-08-10T23:45:00.000Z
+description: "세인트루이스 카디널스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 74경기에서 32승 41패 1무, 평균 득점 4.0을 기록하며 승률이 정확히 5할 아래에서 출렁이고 있습니다. 다만 최근 10경기에서는 5승 5패, 평균 득점 3.3으로 버티는 힘은 보이지만 득점 효율이 다소 떨어진 흐름입니다. 홈에서는 꾸준히 점수를 만들려는 시도가 이어지고 있으나, 실점 억제가 완전히 안정되지 않아 박빙 경기에서 흔들리는 장면이 적지 않습니다. 특히 최근에는 강한 상대를 만나도 한 번씩 큰 이변을 만들고 있지만, 공격의 기복이 남아 있어 경기 초반 흐름을 잡는 능력이 중요해 보입니다. 이번 경기에서는 중심 타선의 연결과 마운드 운영이 맞물려야 원정 강팀을 상대로 경쟁력을 유지할 수 있을 것으로 보입니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 최근 83경기에서 44승 37패 2무, 평균 득점 4.5로 홈과 원정을 가리지 않고 상위권 전력을 유지하고 있습니다. 최근 10경기에서도 5승 5패, 평균 득점 4.9로 득점 생산은 충분하지만, 실점이 늘어나는 경기에서는 흐름이 흔들리는 모습도 함께 나타나고 있습니다. 리그순위 6위와 득실 +1은 순위에 비해 아주 큰 격차는 아니지만, 시즌 전반의 공격 안정감은 분명히 돋보입니다. 다만 최근에는 대량 득점과 저득점 패배가 교차하면서 경기별 편차가 있어, 초반 선발 싸움이 중요하게 작용할 가능성이 높습니다. 그럼에도 전반적인 타선 응집력과 상위권 상대를 상대로도 점수를 뽑아내는 능력은 이번 일정에서도 강점으로 평가됩니다."
+homePower: "최근 10경기 5승 5패, 반등과 흔들림이 공존함|평균 3.3득점, 타선 폭발력보다 연결성이 관건임|리그순위 9위지만 접전 대응은 나쁘지 않음|득실 -9로 실점 관리가 승부처로 보임|홈에서 흐름 잡으면 상위권 상대로도 버팀목 됨"
+awayPower: "최근 10경기 5승 5패, 득점 상한은 높음|평균 4.9득점, 한 번 터지면 흐름 장악이 빠름|리그순위 6위, 시즌 내내 공격 우위가 유지됨|득실 +1로 화력은 강하나 안정성은 숙제임|원정에서도 점수 생산력은 쉽게 꺾이지 않음"
+h2h: '[]'
+summary: "세인트루이스 카디널스는 시즌 전력에서 버티는 힘은 보여주고 있지만, 리그순위 9위와 득실 -9가 말해주듯 전체적인 안정감은 필라델피아 필리스보다 한 단계 아래로 평가됩니다. 필라델피아 필리스는 리그순위 6위와 평균 득점 4.5를 바탕으로 공격에서 더 분명한 우위를 갖고 있고, 최근 흐름에서도 득점 생산이 세인트루이스 카디널스보다 한결 매끄럽습니다. 다만 원정팀도 최근 실점이 늘어나는 장면이 있어 방심할 수는 없지만, 전력의 무게와 타선의 응집력을 감안하면 필라델피아 필리스 쪽 우세가 더 자연스럽게 보입니다."
+homeRecent: '[{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809COSL0-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179727-2026-08-06-new-york-yankees/"},{"date":"26.08.05","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179713-2026-08-05-new-york-yankees/"},{"date":"26.08.04","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"7-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179703-2026-08-04-new-york-yankees/"},{"date":"26.08.03","home":"토론토 블루제이즈","away":"세인트루이스 카디널스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179687-2026-08-03-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TOPH0-2026-08-08-philadelphia-phillies/"},{"date":"26.08.07","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MOPH0-2026-08-07-philadelphia-phillies/"},{"date":"26.08.06","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179730-2026-08-06-philadelphia-phillies/"},{"date":"26.08.05","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179712-2026-08-05-philadelphia-phillies/"},{"date":"26.08.04","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179702-2026-08-04-philadelphia-phillies/"}]'
+injuryHome: "Ramon Urias (건염)|Max Rajcic (수술)"
+injuryAway: "Derek Hill (타박상)|Aaron Nola (타박상)|Andrew Painter (통증)|Rafael Marchan (건염)|Tanner Banks (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

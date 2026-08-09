@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (8월 11일) | MLB - 픽천국"
+date: 2026-08-11T01:45:00.000Z
+description: "샌프란시스코 자이언츠 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260811HOSF0-2026-08-11-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 66경기에서 30승 35패 승률 .462를 기록하며 평균 득점 4.5로 버티고 있습니다. 최근 흐름만 보면 10경기에서 6승 4패로 반등 기미가 뚜렷하고, 특히 홈에서는 장타가 터질 때 경기 주도권을 빠르게 가져오는 모습이 보입니다. 다만 최근 시즌 전체 흐름과 비교하면 기복이 남아 있어, 공격이 잠잠해지는 구간에서는 실점 관리가 흔들리는 편입니다. 그래도 평균 득점이 크게 떨어지지 않고 있어 타선 자체의 생산성은 유지되고 있으며, 홈에서의 응집력은 강점으로 평가됩니다. 결장자도 적지 않아 전력 손실이 완전히 가볍지는 않지만, 최근 들어서는 중하위권 팀답지 않게 공격 집중력이 살아나고 있습니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 최근 71경기에서 41승 29패 승률 .585를 기록하며 평균 득점 4.6으로 안정적인 득점 흐름을 이어가고 있습니다. 최근 10경기에서도 7승 3패로 여전히 상위권 전력을 유지하고 있고, 원정에서도 초반부터 점수를 쌓아가는 운영이 잘 살아 있습니다. 시즌 전체 리그순위 4위에 걸맞게 경기 운영의 완성도가 높고, 득실 격차가 크지 않은 편이어서 불필요한 대량 실점을 줄이는 힘도 보입니다. 특히 타선이 특정 구간에서 한번 흐름을 타면 연속 득점으로 경기를 굳히는 장면이 자주 나옵니다. 다만 핵심 자원의 이탈이 이어지고 있어, 경기 후반에는 득점 연결이 끊기는 장면이 변수로 남아 있습니다."
+homePower: "홈에서 장타가 붙으면 경기 흐름을 빠르게 가져오는 편임|득점 기복은 있으나 홈 응집력은 뚜렷하게 살아 있음|수비 실책 최소화 시 접전 운영력이 개선되는 팀임|상위권 상대에도 한 번 흐름 타면 득점 폭발이 가능함|결장자 부담 속에서도 최근 반등 조짐이 확인됨"
+awayPower: "휴스턴 애스트로스는 원정에서도 초반 득점 설계가 안정적임|리그순위 4위답게 경기 운영 완성도가 높음|득실 격차가 크지 않아 큰 실점 없이 버티는 힘이 있음|연속 안타로 흐름을 묶는 타선 응집력이 강점임|주축 이탈에도 상위권 전력 유지가 검증됨"
+h2h: '[]'
+summary: "휴스턴 애스트로스는 시즌 전체 전력에서 샌프란시스코 자이언츠보다 한 단계 앞선 흐름을 보여주고 있습니다. 자이언츠는 최근 반등 조짐이 보이지만 시즌 누적 성적과 리그순위에서 아직 불안정한 면이 남아 있고, 애스트로스는 득점과 운영 밸런스가 더 안정적입니다. 두 팀 모두 최근 득점 흐름이 크게 꺾이지는 않았지만, 경기 전체의 무게감은 휴스턴 애스트로스 쪽이 더 좋아 보이며 근소하게 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.09","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809DESF0-2026-08-09-san-francisco-giants/"},{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"},{"date":"26.08.04","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179701-2026-08-04-texas-rangers/"},{"date":"26.08.03","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179692-2026-08-03-san-diego-padres/"},{"date":"26.08.01","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179660-2026-08-01-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.06","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179724-2026-08-06-houston-astros/"},{"date":"26.08.04","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179704-2026-08-04-houston-astros/"},{"date":"26.08.03","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179693-2026-08-03-houston-astros/"},{"date":"26.08.02","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179678-2026-08-02-houston-astros/"}]'
+injuryHome: "Victor Bericoto (염좌)|Jesus Rodriguez (눌린 신경)|Joel Peguero (염좌)|Marcelo Mayer (골절)|Matt Gage (염좌)"
+injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 애스트로스"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 애스트로스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

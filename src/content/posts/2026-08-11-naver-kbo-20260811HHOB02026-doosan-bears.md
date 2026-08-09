@@ -1,0 +1,37 @@
+---
+title: "두산 베어스 vs 한화 이글스 경기분석·라인업·결장자·통계·승부예측 (8월 11일) | KBO - 픽천국"
+date: 2026-08-11T10:00:00.000Z
+description: "두산 베어스 vs 한화 이글스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260811HHOB02026-2026-08-11-doosan-bears"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "두산 베어스"
+awayTeam: "한화 이글스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HH.png"
+homeAnalysis: "두산 베어스는 2026시즌 최근 75경기에서 41승 3무 31패, 평균 득점 4.6을 기록하며 상위권 전력을 유지하고 있습니다. 최근에도 10경기 5승 2무 3패로 버티는 힘이 좋았고, LG 트윈스를 상대로 연승과 다득점을 함께 보여주며 흐름을 끌어올렸습니다. 득점이 크게 폭발하지 않아도 필요한 순간에 점수를 내는 응집력이 돋보이고, 실점 관리가 잘 될 때 승리로 연결되는 모습이 뚜렷합니다. 홈에서는 경기 운영이 더 안정적으로 나타나는 편이라 수비 집중력과 접전 대응력이 강점으로 평가됩니다. 양의지와 박준순, 김민석처럼 타선의 중심을 잡아주는 자원들이 살아나면 경기 후반에도 득점 기대치를 유지할 수 있습니다."
+awayAnalysis: "한화 이글스는 2026시즌 최근 74경기에서 35승 3무 36패, 평균 득점 5.7을 기록하며 공격 생산력은 충분히 갖춘 전력입니다. 최근 10경기에서는 5승 5패로 기복이 있었지만, 삼성 라이온즈전 승리처럼 타선이 한 번 터질 때는 흐름을 단숨에 가져오는 힘이 있습니다. 다만 실점이 많아지는 날에는 경기 전체가 흔들리는 모습이 있어, 득점력에 비해 수비 안정감이 아쉬운 편입니다. 원정에서는 초반 실점만 줄이면 장타력과 중심타선의 무게감으로 충분히 승부를 걸 수 있는 팀입니다. 페라자와 강백호, 노시환이 연결되는 구간이 살아나면 한화 이글스의 공격 압박은 매우 강하게 형성될 수 있습니다."
+homePower: "경기 후반 접전 대응력이 안정적임|상위 타선 출루가 득점 연결로 이어짐|홈에서 수비 집중력 유지가 잘 됨|양의지 중심의 경기 운영이 강점임|큰 점수차보다 관리형 승부에 적합함"
+awayPower: "평균 득점이 높아 공격 상한이 큼|페라자 중심 장타 압박이 뚜렷함|중심타선이 터지면 대량 득점 가능함|실점이 늘면 흐름이 급격히 흔들림|공격 우위로 경기 주도권을 노릴 전력임"
+h2h: '[{"date":"26.06.25","home":"한화 이글스","away":"두산 베어스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-181789-2026-06-25-hanwha-eagles/"},{"date":"26.06.24","home":"한화 이글스","away":"두산 베어스","score":"2-7","link":"https://pick79.com/posts/detail/analyze-181782-2026-06-24-hanwha-eagles/"},{"date":"26.06.23","home":"한화 이글스","away":"두산 베어스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-181781-2026-06-23-hanwha-eagles/"},{"date":"26.06.04","home":"두산 베어스","away":"한화 이글스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-181697-2026-06-04-doosan-bears/"},{"date":"26.06.03","home":"두산 베어스","away":"한화 이글스","score":"3-3","link":"https://pick79.com/posts/detail/analyze-181696-2026-06-03-doosan-bears/"}]'
+summary: "두산 베어스는 2026시즌 전체 성적과 최근 흐름에서 모두 안정감을 보여주고 있고, 한화 이글스는 공격 생산력은 높지만 실점 변동폭이 큰 편입니다. 최근 맞대결에서는 두산 베어스가 더 좋은 결과를 남겼고, 특히 점수가 크게 벌어지는 구간보다 접전에서 경기 운영을 잘 풀어가는 모습이 돋보입니다. 한화 이글스도 타선 폭발력이 분명한 만큼 쉽게 밀릴 전력은 아니지만, 전반적인 균형과 마무리 안정감에서는 두산 베어스가 조금 더 우세해 보입니다. 이번 경기는 두산 베어스가 흐름을 주도할 가능성이 높고, 한화 이글스는 타선이 살아나야만 승부를 걸 수 있는 구도입니다."
+homeRecent: '[{"date":"26.08.02","home":"두산 베어스","away":"LG 트윈스","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181931-2026-08-02-doosan-bears/"},{"date":"26.08.01","home":"두산 베어스","away":"LG 트윈스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-181922-2026-08-01-doosan-bears/"},{"date":"26.07.31","home":"두산 베어스","away":"LG 트윈스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181917-2026-07-31-doosan-bears/"},{"date":"26.07.30","home":"SSG 랜더스","away":"두산 베어스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181912-2026-07-30-ssg-landers/"},{"date":"26.07.29","home":"SSG 랜더스","away":"두산 베어스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181911-2026-07-29-ssg-landers/"}]'
+awayRecent: '[{"date":"26.08.04","home":"삼성 라이온스","away":"한화 이글스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181935-2026-08-04-samsung-lions/"},{"date":"26.08.02","home":"KT 위즈","away":"한화 이글스","score":"12-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181929-2026-08-02-kt-wiz-suwon/"},{"date":"26.08.01","home":"KT 위즈","away":"한화 이글스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181924-2026-08-01-kt-wiz-suwon/"},{"date":"26.07.31","home":"KT 위즈","away":"한화 이글스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181921-2026-07-31-kt-wiz-suwon/"},{"date":"26.07.30","home":"한화 이글스","away":"롯데 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181916-2026-07-30-hanwha-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "오재원 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "두산 베어스"
+pickWinResult: "승"
+pickHandicapTeam: "두산 베어스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

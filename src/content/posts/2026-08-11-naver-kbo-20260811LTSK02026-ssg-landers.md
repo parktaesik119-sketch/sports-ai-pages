@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs 롯데 자이언츠 경기분석·라인업·결장자·통계·승부예측 (8월 11일) | KBO - 픽천국"
+date: 2026-08-11T10:00:00.000Z
+description: "SSG 랜더스 vs 롯데 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260811LTSK02026-2026-08-11-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "롯데 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 최근 78경기에서 24승 50패에 평균 득점 4.7점으로, 결과와 생산력의 균형이 아직 아쉬운 편입니다. 다만 최근 흐름에서는 평균 득점이 6점대까지 올라와 타선의 반등이 분명하게 보이고 있습니다. 예상 라인업 기준으로 정준재와 박성한이 상위 타순에서 출루와 연결을 이끌고, 김재환과 전의산이 중심에서 득점 기회를 이어가는 구조입니다. 특히 박성한의 높은 승리기여도와 최지훈의 활동량이 살아나면 공격 전개가 한층 매끄러워질 수 있습니다. 반면 오태곤과 임근우 구간은 생산성 편차가 있어, 장타가 이어지지 않으면 득점 흐름이 쉽게 끊길 수 있습니다."
+awayAnalysis: "롯데 자이언츠는 2026시즌 최근 75경기에서 36승 37패에 평균 득점 4.9점으로, 승패가 팽팽한 가운데도 전체 전력의 안정감은 더 나은 편입니다. 최근 흐름에서도 평균 득점이 5점대 중반까지 유지되며 공격 리듬이 크게 흔들리지 않고 있습니다. 예상 라인업을 보면 황성빈이 앞에서 흐름을 열고, 레이예스와 한동희, 고승민이 중심에서 생산력을 받치는 구성이어서 타순의 무게감이 있습니다. 특히 레이예스의 장타 압박과 전민재의 하위 연결이 맞물리면 한 번의 공격으로 점수를 쌓는 장면이 자주 나올 수 있습니다. 다만 원정에서는 득점 기복이 남아 있어 초반에 흐름을 놓치면 경기가 다소 답답해질 가능성도 있습니다."
+homePower: "박성한-정준재 축의 출루 연결성 강함|김재환 중심보다 상위 출루가 핵심임|중하위 타순은 생산성 편차가 큼|최지훈 활동량이 공격 흐름을 살림|큰 이닝은 만들지만 지속성은 보완 필요함"
+awayPower: "레이예스 중심 장타 압박이 가장 큼|황성빈-나승엽 출루로 초반 흐름 형성|한동희·고승민 구간 생산력 안정적임|전민재 하위 연결로 공격 끊김이 적음|상하위 타선 균형이 더 나아 보임"
+h2h: '[{"date":"26.07.23","home":"롯데 자이언츠","away":"SSG 랜더스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-181886-2026-07-23-lotte-giants/"},{"date":"26.07.22","home":"롯데 자이언츠","away":"SSG 랜더스","score":"3-7","link":"https://pick79.com/posts/detail/analyze-181877-2026-07-22-lotte-giants/"},{"date":"26.07.21","home":"롯데 자이언츠","away":"SSG 랜더스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-181876-2026-07-21-lotte-giants/"},{"date":"26.06.18","home":"SSG 랜더스","away":"롯데 자이언츠","score":"2-2","link":"https://pick79.com/posts/detail/analyze-181758-2026-06-18-ssg-landers/"},{"date":"26.06.17","home":"SSG 랜더스","away":"롯데 자이언츠","score":"1-2","link":"https://pick79.com/posts/detail/analyze-181756-2026-06-17-ssg-landers/"}]'
+summary: "SSG 랜더스는 평균 득점 4.7점에 비해 결과가 뒤처져 있어, 공격이 살아나더라도 경기 전체를 안정적으로 묶는 힘은 아직 부족해 보입니다. 롯데 자이언츠는 평균 득점 4.9점과 더 나은 승패 균형을 바탕으로, 전체 전력에서 한 걸음 앞선 모습입니다. 타선의 무게감과 상하위 연결을 함께 보면 롯데 자이언츠가 좀 더 자연스럽게 주도권을 잡을 가능성이 높고, SSG 랜더스는 상위 타순의 출루가 얼마나 이어지느냐가 중요해 보입니다."
+homeRecent: '[{"date":"26.08.04","home":"SSG 랜더스","away":"LG 트윈스","score":"10-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181936-2026-08-04-ssg-landers/"},{"date":"26.08.02","home":"키움 히어로즈","away":"SSG 랜더스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181927-2026-08-02-kiwoom-heroes/"},{"date":"26.08.01","home":"키움 히어로즈","away":"SSG 랜더스","score":"2-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181923-2026-08-01-kiwoom-heroes/"},{"date":"26.07.31","home":"키움 히어로즈","away":"SSG 랜더스","score":"12-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181919-2026-07-31-kiwoom-heroes/"},{"date":"26.07.30","home":"SSG 랜더스","away":"두산 베어스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181912-2026-07-30-ssg-landers/"}]'
+awayRecent: '[{"date":"26.08.04","home":"롯데 자이언츠","away":"키움 히어로즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181934-2026-08-04-lotte-giants/"},{"date":"26.08.02","home":"롯데 자이언츠","away":"삼성 라이온스","score":"10-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181930-2026-08-02-lotte-giants/"},{"date":"26.07.31","home":"롯데 자이언츠","away":"삼성 라이온스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181920-2026-07-31-lotte-giants/"},{"date":"26.07.30","home":"한화 이글스","away":"롯데 자이언츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181916-2026-07-30-hanwha-eagles/"},{"date":"26.07.29","home":"한화 이글스","away":"롯데 자이언츠","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181907-2026-07-29-hanwha-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "롯데 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "롯데 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
