@@ -10,7 +10,7 @@ slug: "notice-06"
 
 픽천국의 분석글이 어떤 과정을 거쳐 만들어지는지, 안내드리고자 합니다.<br><br>
 </b>
-
+<hr style="border:none; border-top:1px dashed #ddd; margin:24px 0;">
 <h3>데이터는 어디서 가져오나요</h3>
 
 <b>
@@ -27,6 +27,7 @@ slug: "notice-06"
 
 <img src="https://i.imgur.com/m0y9tFA.png" style="width:100%; display:block; margin:20px auto;">
 <br>
+<hr style="border:none; border-top:1px dashed #ddd; margin:24px 0;">
 <h3>픽천국의 스포츠분석은 어떻게 만들어지나요</h3>
 
 <b>
@@ -37,6 +38,7 @@ slug: "notice-06"
 
 - 다만 스포츠 경기는 변수가 많은 만큼, 모든 분석과 추천픽은 <b>참고 자료</b>이며 실제 결과를 보장하지 않습니다.<br><br>
 </b>
+<hr style="border:none; border-top:1px dashed #ddd; margin:24px 0;">
 
 <h3>추천픽은 무엇을 근거로 예측을 하나요</h3>
 
@@ -54,6 +56,7 @@ slug: "notice-06"
   <img src="https://i.imgur.com/SMtSihU.png" style="max-width:640px; width:100%; display:block; margin:20px auto;">
 </a><br><br>
 
+<hr style="border:none; border-top:1px dashed #ddd; margin:24px 0;">
 앞으로도 픽천국은 데이터 기반의 정밀한 스포츠분석과 함께, 더 투명하고 신뢰할 수 있는 정보를 제공하기 위해 계속 노력하겠습니다.<br>
 많은 관심과 이용 부탁드립니다.<br><br>
 <hr style="border:none; border-top:1px dashed #ddd; margin:24px 0;">
