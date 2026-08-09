@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.08","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Jordan Lawlar (염좌)|Merrill Kelly (날마다 상태를 지켜봐야 함)|Michael Soroka (염좌)|Ryan Thompson (염좌)|Justin Martinez (수술)"
 injuryAway: "Blake Snell (수술)|Brock Stewart (건염)|Blake Treinen (염증)|Jake Cousins (수술)|Will Klein (통증)"
 homeLineup: "[\"선발투수 E. Rodriguez (10-4, 2.71) ERA 2.71|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
-awayLineup: "[\"선발투수 J. Wrobleski (11-3, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\"]"
+awayLineup: "[\"선발투수 J. Wrobleski (11-3, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\",\"1번 S. Ohtani (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\",\"2번 A. Pages (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42468.png\",\"3번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"4번 T. Edman (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39907.png\",\"5번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"6번 K. Tucker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34967.png\",\"7번 T. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"8번 E. Hernandez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31358.png\",\"9번 B. Rortvedt (C)|https://a.espncdn.com/i/headshots/mlb/players/full/40869.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
