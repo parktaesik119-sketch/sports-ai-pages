@@ -91,6 +91,30 @@ function getTargetDates() {
   return [...new Set(dates)];
 }
 
+/**
+ * ⚾🏒 야구/하키 전용 호출 기간: 현재 기준 -1일 ~ +1일 (총 3일)
+ * 야구(KBO/MLB/NPB/CPBL)는 같은 두 팀이 연전을 붙는 게 기본 포맷이고,
+ * 하키(NHL/KHL)도 백투백 일정에서 드물게 같은 팀과 연속 편성되는 경우가 있어서,
+ * 전날 경기 결과가 다음 경기 분석에 반영되려면 D+2까지 미리 긁어오면 안 되고
+ * D+1까지만 수집해야 함. (다른 종목들은 기존 getTargetDates()의 D-1~D+2 범위를 그대로 사용)
+ */
+function getShortRangeTargetDates() {
+  const dates = [];
+  const nowUtc = Date.now();
+
+  for (let i = -1; i <= 1; i++) {
+    const target = new Date(nowUtc + i * 24 * 60 * 60 * 1000);
+    const kstOffset = 9 * 60 * 60 * 1000;
+    const kst = new Date(target.getTime() + kstOffset);
+    const y = kst.getUTCFullYear();
+    const m = String(kst.getUTCMonth() + 1).padStart(2, '0');
+    const d = String(kst.getUTCDate()).padStart(2, '0');
+    dates.push(`${y}-${m}-${d}`);
+  }
+
+  return [...new Set(dates)];
+}
+
 // ==========================
 // 📡 데이터 호출 함수
 // ==========================
@@ -591,18 +615,27 @@ async function main() {
       scheduleTasks.push(fetchLckRapid(date));
       // ⚽ 축구: fotmob으로 날짜별 호출 (api-sports 대체, 2026-08)
       scheduleTasks.push(fetchFotmobSoccerFixtures(date));
-      // 🏒 하키: Highlightly로 날짜별 호출 (NHL+KHL, api-sports 대체, 2026-08)
-      scheduleTasks.push(fetchHighlightlyHockey(date));
-      // ⚾ CPBL: FlashScore로 날짜별 호출 (네이버가 커버 안 하는 리그 보강, 2026-08)
-      scheduleTasks.push(fetchFlashscoreCPBL(date));
     });
 
 
-    // ⚾🏀 네이버스포츠(야구/농구)가 공유하는 날짜 범위 — api-sports 대체, 범위 방식으로 각 1번만 호출
+    // ⚾🏒 야구 + 하키 — 다른 종목과 별도로 D-1~D+1 범위만 사용
+    // (연전/백투백으로 같은 두 팀이 연속 편성되는 경우가 있어서, 전날 결과가
+    //  반영되기 전인 D+2 일정까지 미리 긁어오면 분석 시점에 결과 누락이 생길 수 있음)
+    const shortRangeDates = getShortRangeTargetDates();
+    const shortRangeFrom = shortRangeDates[0];
+    const shortRangeTo = shortRangeDates[shortRangeDates.length - 1];
+    scheduleTasks.push(fetchNaverBaseball("kbaseball", shortRangeFrom, shortRangeTo)); // KBO
+    scheduleTasks.push(fetchNaverBaseball("wbaseball", shortRangeFrom, shortRangeTo)); // MLB + NPB
+
+    // ⚾ CPBL / 🏒 하키(NHL+KHL): 날짜별 호출 — 야구와 동일하게 D-1~D+1 범위만 사용
+    shortRangeDates.forEach(date => {
+      scheduleTasks.push(fetchFlashscoreCPBL(date));
+      scheduleTasks.push(fetchHighlightlyHockey(date));
+    });
+
+    // 🏀🏐 네이버스포츠(농구/배구)가 공유하는 날짜 범위 — api-sports 대체, 범위 방식으로 호출
     const naverRangeFrom = targetDates[0];
     const naverRangeTo = targetDates[targetDates.length - 1];
-    scheduleTasks.push(fetchNaverBaseball("kbaseball", naverRangeFrom, naverRangeTo)); // KBO
-    scheduleTasks.push(fetchNaverBaseball("wbaseball", naverRangeFrom, naverRangeTo)); // MLB + NPB
 
     // 🏀 농구: 네이버스포츠 (NBA / KBL / WKBL) — api-sports 대체, 범위 방식으로 1번만 호출
     scheduleTasks.push(fetchNaverBasketball(naverRangeFrom, naverRangeTo));
