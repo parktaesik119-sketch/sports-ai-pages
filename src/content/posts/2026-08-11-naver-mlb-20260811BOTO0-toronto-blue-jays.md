@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.08","home":"필라델피아 필리스","away":"토�
 awayRecent: '[{"date":"26.08.09","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809OABO0-2026-08-09-boston-red-sox/"},{"date":"26.08.08","home":"보스턴 레드삭스","away":"애슬레틱스","score":"13-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808OABO0-2026-08-08-boston-red-sox/"},{"date":"26.08.07","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"12-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807CWBO0-2026-08-07-boston-red-sox/"},{"date":"26.08.06","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179735-2026-08-06-boston-red-sox/"},{"date":"26.08.05","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179720-2026-08-05-boston-red-sox/"}]'
 injuryHome: "Jonatan Clase (족저근막염)|George Springer (일상대처)|Lenyn Sosa (멍)|Luis Urias (근육 손상)|Joe Mantiply (수술)"
 injuryAway: "Wilyer Abreu (일상대처)|Kutter Crawford (통증)|Johan Oviedo (근육 손상)|Adley Rutschman (염증)|Isiah Kiner-Falefa (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 J. Taillon (2-6, 5.96) ERA 5.96|https://a.espncdn.com/i/headshots/mlb/players/full/31258.png\"]"
 awayLineup: "[\"선발투수 S. Gray (14-2, 2.78) ERA 2.78|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
