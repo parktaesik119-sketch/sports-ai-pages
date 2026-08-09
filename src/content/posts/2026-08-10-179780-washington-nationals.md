@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시�
 injuryHome: "James Wood (염좌)|Drew Millas (골절)|Josiah Gray (염좌)|Richard Lovelady (염좌)|DJ Herz (염좌)"
 injuryAway: "Tony Santillan (염좌)|Nick Lodolo (찰과상)|Brandon Williamson (통증)|Graham Ashcraft (염좌)|Spencer Steer (염좌)"
 homeLineup: "[\"선발투수 B. Lord (5-2, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4866810.png\"]"
-awayLineup: "[\"선발투수 B. Singer (5-10, 4.67) ERA 4.67|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
+awayLineup: "[\"선발투수 B. Singer (5-10, 4.67) ERA 4.67|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\",\"1번 E. De La Cruz (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"2번 S. Stewart (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"3번 J. Bleday (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"4번 T. Stephenson (C)|https://a.espncdn.com/i/headshots/mlb/players/full/34975.png\",\"5번 E. Suarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32367.png\",\"6번 H. Rodriguez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5122878.png\",\"7번 D. Myers (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40048.png\",\"8번 M. McLain (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4422899.png\",\"9번 K. Hayes (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/35020.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
