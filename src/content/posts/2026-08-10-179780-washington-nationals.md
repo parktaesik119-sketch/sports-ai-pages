@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시�
 awayRecent: '[{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179750-2026-08-08-washington-nationals/"},{"date":"26.08.07","home":"신시내티 레즈","away":"애슬레틱스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179743-2026-08-07-cincinnati-reds/"},{"date":"26.08.06","home":"신시내티 레즈","away":"애슬레틱스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179733-2026-08-06-cincinnati-reds/"},{"date":"26.08.05","home":"신시내티 레즈","away":"애슬레틱스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179718-2026-08-05-cincinnati-reds/"},{"date":"26.08.03","home":"신시내티 레즈","away":"피츠버그 파이러츠","score":"10-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179696-2026-08-03-cincinnati-reds/"}]'
 injuryHome: "James Wood (염좌)|Drew Millas (골절)|Josiah Gray (염좌)|Richard Lovelady (염좌)|DJ Herz (염좌)"
 injuryAway: "Tony Santillan (염좌)|Nick Lodolo (찰과상)|Brandon Williamson (통증)|Graham Ashcraft (염좌)|Spencer Steer (염좌)"
-homeLineup: ''
+homeLineup: "[\"선발투수 B. Lord (5-2, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4866810.png\"]"
 awayLineup: "[\"선발투수 B. Singer (5-10, 4.67) ERA 4.67|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
 homeFormation: ""
 awayFormation: ""
