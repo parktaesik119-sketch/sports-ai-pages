@@ -98,9 +98,16 @@ export const EXACT_LEAGUE_MAP = {
   // 공통
   "World Cup": "월드컵",
   "Champions League": "챔피언스리그",
+  "Champions League Qualification": "챔피언스리그 예선",
+  "UEFA Champions League": "UEFA 챔피언스리그",
+  "UEFA Champions League Qualification": "UEFA 챔피언스리그 예선",
   "Europa Conference League": "UEFA 컨퍼런스리그",
+  "Europa Conference League Qualification": "UEFA 컨퍼런스리그 예선",
   "UEFA Europa Conference League": "UEFA 컨퍼런스리그",
+  "UEFA Europa Conference League Qualification": "UEFA 컨퍼런스리그 예선",
   "UEFA Europa League": "UEFA 유로파리그",
+  "UEFA Europa League Qualification": "유로파리그 예선",
+  "Europa League Qualification": "유로파리그 예선",
   "Friendly International": "국가대표 친선경기",
   "Friendly International Women": "국가대표 친선경기 여자부",
 };
