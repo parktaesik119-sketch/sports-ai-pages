@@ -382,3 +382,18 @@ function displayUrl(sponsor: (typeof sponsors)[number]) {
     }
   }
 </style>
+
+<script>
+  // 페이지 진입/새로고침마다 제휴업체 카드 순서를 랜덤으로 섞는다.
+  // 서버(정적 빌드)는 order 필드 기준으로 렌더링하고, 브라우저 로드 시 이 스크립트가
+  // Fisher–Yates 셔플로 DOM 순서만 재배치한다 (데이터 자체는 안 건드림).
+  const grid = document.querySelector('.sponsor-grid');
+  if (grid) {
+    const cards = Array.from(grid.children);
+    for (let i = cards.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [cards[i], cards[j]] = [cards[j], cards[i]];
+    }
+    cards.forEach((card) => grid.appendChild(card));
+  }
+</script>
