@@ -72,33 +72,8 @@ const notice = defineCollection({
   }),
 });
 
-// 🟢 제휴업체 (스폰서)
-// src/pages/sponsors/index.astro(목록) + src/pages/sponsors/[...slug].astro(상세)
-// 두 곳에서 사용하는 필드를 전부 스키마에 반영했다.
-const sponsors = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/sponsors" }),
-  schema: z.object({
-    name: z.string(),
-    url: z.string(),
-    urlLabel: z.string().optional(),
-    logo: z.string(),
-    banner: z.string(),
-    slug: z.string().optional(),
-
-    eventName: z.string().optional(),
-    eventAmount: z.number().optional(),
-    eventProducts: z.array(z.string()).optional(),
-    ongoingEvent: z.string().optional(),
-    adImage: z.string().optional(),
-
-    order: z.number(),
-    active: z.boolean(),
-  }),
-});
-
 export const collections = {
   posts,
   archive,
   notice,
-  sponsors,
 };
