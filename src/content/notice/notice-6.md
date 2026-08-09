@@ -53,7 +53,7 @@ slug: "notice-06"
 
 
 <a href="https://t.me/pickheaven_official">
-  <img src="https://i.imgur.com/SMtSihU.png" style="max-width:640px; width:100%; display:block; margin:20px auto;">
+  <img src="https://i.imgur.com/SMtSihU.png" style="max-width:450px; width:100%; display:block; margin:20px auto;">
 </a><br><br>
 
 <hr style="border:none; border-top:1px dashed #ddd; margin:24px 0;">
