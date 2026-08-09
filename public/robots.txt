@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 Disallow: /search
 Disallow: /search/
+Disallow: /sponsors/
 
 Sitemap: https://pick79.com/sitemap.xml
