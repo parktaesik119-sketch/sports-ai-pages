@@ -154,6 +154,13 @@
     "injuries": {
       "home": [
         {
+          "date": "2026-08-03",
+          "category": "부상자 명단",
+          "team": "LG",
+          "player": "김윤식(투수)",
+          "note": "10일"
+        },
+        {
           "date": "2026-08-02",
           "category": "부상자 명단",
           "team": "LG",
@@ -369,7 +376,15 @@
           "note": "30일"
         }
       ],
-      "away": []
+      "away": [
+        {
+          "date": "2026-08-03",
+          "category": "부상자 명단",
+          "team": "롯데",
+          "player": "김진욱(투수)",
+          "note": "10일"
+        }
+      ]
     }
   },
   {
@@ -893,11 +908,90 @@
       "away": 6
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "곽빈",
+      "away": "왕옌청"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "왕옌청",
+        "era": "3.34",
+        "war": "1.83",
+        "games": "21",
+        "inningsPerStart": "5.1",
+        "qs": "7",
+        "whip": "1.41"
+      },
+      "home": {
+        "name": "곽빈",
+        "era": "2.66",
+        "war": "3.89",
+        "games": "20",
+        "inningsPerStart": "5.2",
+        "qs": "13",
+        "whip": "1.15"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "왕옌청",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "43.7%",
+            "avgSpeed": "144.7km/h"
+          },
+          {
+            "type": "투심",
+            "usageRate": "19.6%",
+            "avgSpeed": "144.0km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "15.8%",
+            "avgSpeed": "124.5km/h"
+          },
+          {
+            "type": "스위퍼",
+            "usageRate": "10.4%",
+            "avgSpeed": "123.4km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "곽빈",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "42.3%",
+            "avgSpeed": "151.6km/h"
+          },
+          {
+            "type": "커터",
+            "usageRate": "19.8%",
+            "avgSpeed": "146.2km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "13.9%",
+            "avgSpeed": "136.2km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "12.2%",
+            "avgSpeed": "133.7km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {
@@ -1058,11 +1152,90 @@
       "away": 1
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "라일리",
+      "away": "로건"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "로건",
+        "era": "3.08",
+        "war": "0.94",
+        "games": "7",
+        "inningsPerStart": "5.1",
+        "qs": "3",
+        "whip": "1.34"
+      },
+      "home": {
+        "name": "라일리",
+        "era": "3.09",
+        "war": "2.25",
+        "games": "13",
+        "inningsPerStart": "5.2",
+        "qs": "7",
+        "whip": "1.11"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "로건",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "49.9%",
+            "avgSpeed": "146.8km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "21.6%",
+            "avgSpeed": "131.2km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "13.8%",
+            "avgSpeed": "134.0km/h"
+          },
+          {
+            "type": "커터",
+            "usageRate": "10.8%",
+            "avgSpeed": "138.5km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "라일리",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "38.3%",
+            "avgSpeed": "147.7km/h"
+          },
+          {
+            "type": "포크",
+            "usageRate": "22.8%",
+            "avgSpeed": "132.8km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "20.4%",
+            "avgSpeed": "136.4km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "18.6%",
+            "avgSpeed": "130.8km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {
@@ -1223,11 +1396,90 @@
       "away": 3
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "안우진",
+      "away": "카라스코"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "카라스코",
+        "era": "0.00",
+        "war": "0.44",
+        "games": "1",
+        "inningsPerStart": "7.0",
+        "qs": "1",
+        "whip": "0.00"
+      },
+      "home": {
+        "name": "안우진",
+        "era": "3.70",
+        "war": "1.88",
+        "games": "16",
+        "inningsPerStart": "4.2",
+        "qs": "4",
+        "whip": "1.27"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "카라스코",
+        "pitches": [
+          {
+            "type": "투심",
+            "usageRate": "23.0%",
+            "avgSpeed": "144.2km/h"
+          },
+          {
+            "type": "커터",
+            "usageRate": "23.0%",
+            "avgSpeed": "141.7km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "20.3%",
+            "avgSpeed": "136.3km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "16.2%",
+            "avgSpeed": "136.0km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "안우진",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "43.3%",
+            "avgSpeed": "151.7km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "27.9%",
+            "avgSpeed": "140.8km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "17.9%",
+            "avgSpeed": "126.6km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "8.4%",
+            "avgSpeed": "134.0km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {
@@ -1382,6 +1634,13 @@
       ],
       "away": [
         {
+          "date": "2026-08-03",
+          "category": "부상자 명단",
+          "team": "LG",
+          "player": "김윤식(투수)",
+          "note": "10일"
+        },
+        {
           "date": "2026-08-02",
           "category": "부상자 명단",
           "team": "LG",
@@ -1403,11 +1662,90 @@
       "away": 8
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "아빌라",
+      "away": "비슬리"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "비슬리",
+        "era": "4.09",
+        "war": "2.52",
+        "games": "19",
+        "inningsPerStart": "5.1",
+        "qs": "9",
+        "whip": "1.37"
+      },
+      "home": {
+        "name": "아빌라",
+        "era": "2.45",
+        "war": "0.88",
+        "games": "4",
+        "inningsPerStart": "5.2",
+        "qs": "3",
+        "whip": "1.32"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "비슬리",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "33.9%",
+            "avgSpeed": "149.4km/h"
+          },
+          {
+            "type": "스위퍼",
+            "usageRate": "33.6%",
+            "avgSpeed": "132.5km/h"
+          },
+          {
+            "type": "커터",
+            "usageRate": "18.8%",
+            "avgSpeed": "142.3km/h"
+          },
+          {
+            "type": "포크",
+            "usageRate": "10.6%",
+            "avgSpeed": "138.9km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "아빌라",
+        "pitches": [
+          {
+            "type": "투심",
+            "usageRate": "34.6%",
+            "avgSpeed": "151.1km/h"
+          },
+          {
+            "type": "커터",
+            "usageRate": "22.9%",
+            "avgSpeed": "145.7km/h"
+          },
+          {
+            "type": "직구",
+            "usageRate": "17.2%",
+            "avgSpeed": "152.1km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "10.9%",
+            "avgSpeed": "136.6km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {
@@ -1545,7 +1883,15 @@
     },
     "injuries": {
       "home": [],
-      "away": []
+      "away": [
+        {
+          "date": "2026-08-03",
+          "category": "부상자 명단",
+          "team": "롯데",
+          "player": "김진욱(투수)",
+          "note": "10일"
+        }
+      ]
     }
   },
   {
@@ -1560,11 +1906,90 @@
       "away": 2
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "올러",
+      "away": "페덱"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "페덱",
+        "era": "4.24",
+        "war": "0.41",
+        "games": "3",
+        "inningsPerStart": "5.2",
+        "qs": "2",
+        "whip": "0.82"
+      },
+      "home": {
+        "name": "올러",
+        "era": "3.36",
+        "war": "2.55",
+        "games": "19",
+        "inningsPerStart": "5.2",
+        "qs": "11",
+        "whip": "1.14"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "페덱",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "32.2%",
+            "avgSpeed": "147.2km/h"
+          },
+          {
+            "type": "커터",
+            "usageRate": "22.5%",
+            "avgSpeed": "139.1km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "19.5%",
+            "avgSpeed": "134.3km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "18.0%",
+            "avgSpeed": "121.2km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "올러",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "40.8%",
+            "avgSpeed": "148.1km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "30.9%",
+            "avgSpeed": "132.9km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "12.4%",
+            "avgSpeed": "136.7km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "7.1%",
+            "avgSpeed": "128.5km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {

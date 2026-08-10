@@ -1247,11 +1247,6 @@
           "detail": "Bruise"
         },
         {
-          "name": "Andrew Painter",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
-        },
-        {
           "name": "Rafael Marchan",
           "status": "10-Day-IL",
           "detail": "Tendinitis"
@@ -1262,9 +1257,14 @@
           "detail": "Not Specified"
         },
         {
-          "name": "Aaron Nola",
-          "status": "Day-To-Day",
-          "detail": "Bruise"
+          "name": "Tanner Banks",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Johan Rojas",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         }
       ],
       "away": [
@@ -2357,23 +2357,23 @@
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "61",
+        "wins": "62",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".517",
-        "gamesBehind": "13",
-        "pointsFor": "497",
-        "pointsAgainst": "512"
+        "winPercent": ".521",
+        "gamesBehind": "12.5",
+        "pointsFor": "504",
+        "pointsAgainst": "514"
       },
       "away": {
         "rank": "5",
         "wins": "60",
-        "losses": "58",
+        "losses": "59",
         "ties": "0",
-        "winPercent": ".508",
-        "gamesBehind": "11.5",
-        "pointsFor": "548",
-        "pointsAgainst": "571"
+        "winPercent": ".504",
+        "gamesBehind": "12",
+        "pointsFor": "550",
+        "pointsAgainst": "578"
       }
     },
     "h2h": {
@@ -2418,14 +2418,14 @@
           "detail": "Strain"
         },
         {
-          "name": "Justin Martinez",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
+          "name": "Lourdes Gurriel Jr.",
+          "status": "10-Day-IL",
+          "detail": "Strain"
         },
         {
-          "name": "Ryan Thompson",
+          "name": "Drey Jameson",
           "status": "15-Day-IL",
-          "detail": "Strain"
+          "detail": "Inflammation"
         }
       ],
       "away": [
@@ -3236,11 +3236,6 @@
           "detail": "Bruise"
         },
         {
-          "name": "Andrew Painter",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
-        },
-        {
           "name": "Rafael Marchan",
           "status": "10-Day-IL",
           "detail": "Tendinitis"
@@ -3251,9 +3246,14 @@
           "detail": "Not Specified"
         },
         {
-          "name": "Aaron Nola",
-          "status": "Day-To-Day",
-          "detail": "Bruise"
+          "name": "Tanner Banks",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Johan Rojas",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         }
       ],
       "away": [
@@ -4224,14 +4224,14 @@
           "detail": "Strain"
         },
         {
-          "name": "Justin Martinez",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
+          "name": "Lourdes Gurriel Jr.",
+          "status": "10-Day-IL",
+          "detail": "Strain"
         },
         {
-          "name": "Ryan Thompson",
+          "name": "Drey Jameson",
           "status": "15-Day-IL",
-          "detail": "Strain"
+          "detail": "Inflammation"
         }
       ],
       "away": [
@@ -4584,28 +4584,28 @@
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "61",
+        "wins": "62",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".517",
-        "gamesBehind": "13",
-        "pointsFor": "497",
-        "pointsAgainst": "512"
+        "winPercent": ".521",
+        "gamesBehind": "12.5",
+        "pointsFor": "504",
+        "pointsAgainst": "514"
       },
       "away": {
         "rank": "5",
         "wins": "60",
-        "losses": "58",
+        "losses": "59",
         "ties": "0",
-        "winPercent": ".508",
-        "gamesBehind": "11.5",
-        "pointsFor": "548",
-        "pointsAgainst": "571"
+        "winPercent": ".504",
+        "gamesBehind": "12",
+        "pointsFor": "550",
+        "pointsAgainst": "578"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 1-1",
+      "text": "SD wins series 2-1",
       "totalGames": 2,
       "games": [
         {
@@ -5121,11 +5121,6 @@
           "detail": "Bruise"
         },
         {
-          "name": "Andrew Painter",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
-        },
-        {
           "name": "Rafael Marchan",
           "status": "10-Day-IL",
           "detail": "Tendinitis"
@@ -5136,9 +5131,14 @@
           "detail": "Not Specified"
         },
         {
-          "name": "Aaron Nola",
-          "status": "Day-To-Day",
-          "detail": "Bruise"
+          "name": "Tanner Banks",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Johan Rojas",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         }
       ]
     },
@@ -5334,14 +5334,14 @@
           "detail": "Strain"
         },
         {
-          "name": "Justin Martinez",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
+          "name": "Lourdes Gurriel Jr.",
+          "status": "10-Day-IL",
+          "detail": "Strain"
         },
         {
-          "name": "Ryan Thompson",
+          "name": "Drey Jameson",
           "status": "15-Day-IL",
-          "detail": "Strain"
+          "detail": "Inflammation"
         }
       ],
       "away": [
@@ -5525,13 +5525,13 @@
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "61",
+        "wins": "62",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".517",
-        "gamesBehind": "13",
-        "pointsFor": "497",
-        "pointsAgainst": "512"
+        "winPercent": ".521",
+        "gamesBehind": "12.5",
+        "pointsFor": "504",
+        "pointsAgainst": "514"
       },
       "away": {
         "rank": "1",
@@ -5737,12 +5737,12 @@
       "away": {
         "rank": "5",
         "wins": "60",
-        "losses": "58",
+        "losses": "59",
         "ties": "0",
-        "winPercent": ".508",
-        "gamesBehind": "11.5",
-        "pointsFor": "548",
-        "pointsAgainst": "571"
+        "winPercent": ".504",
+        "gamesBehind": "12",
+        "pointsFor": "550",
+        "pointsAgainst": "578"
       }
     },
     "h2h": null
