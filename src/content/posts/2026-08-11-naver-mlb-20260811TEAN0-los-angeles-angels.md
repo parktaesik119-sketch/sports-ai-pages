@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티�
 injuryHome: "Sebastian Rivero (수술)|Yusei Kikuchi (염증)|Sam Bachman (염증)|Yoan Moncada (수술)|Robert Stephenson (수술)"
 injuryAway: "Kyle Higashioka (염좌)|Jakob Junis (염좌)|Michael Helman (골절)|Carter Baumler (염좌)|Josh Jung (염좌)"
 homeLineup: "[\"선발투수 R. Johnson (2-6, 7.11) ERA 7.11|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
-awayLineup: "[\"선발투수 M. Gore (6-9, 4.55) ERA 4.55|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
+awayLineup: "[\"선발투수 C. Bradford (0-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/4142539.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
