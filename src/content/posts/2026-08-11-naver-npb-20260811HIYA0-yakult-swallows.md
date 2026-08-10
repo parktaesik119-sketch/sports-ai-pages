@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"요미우리 자이언츠","away":"야�
 awayRecent: '[{"date":"26.08.08","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808HIYK0-2026-08-08-yokohama-baystars/"},{"date":"26.08.07","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807HIYK0-2026-08-07-yokohama-baystars/"},{"date":"26.08.06","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"7-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181217-2026-08-06-hiroshima-carp/"},{"date":"26.08.05","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181212-2026-08-05-hiroshima-carp/"},{"date":"26.08.04","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181204-2026-08-04-hiroshima-carp/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kojiro Yoshimura (4-8, 4.27)|https://p.npb.jp/players_photo/2026/180/s/021_53555157.jpg\"]"
+awayLineup: "[\"선발투수 Ryoji Kuribayashi (5-3, 1.38)|https://p.npb.jp/players_photo/2026/180/c/020_91995153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

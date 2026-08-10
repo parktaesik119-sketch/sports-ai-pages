@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"니혼햄 파이터즈","away":"라쿠�
 awayRecent: '[{"date":"26.08.08","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808SFSE0-2026-08-08-seibu-lions/"},{"date":"26.08.07","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807SFSE0-2026-08-07-seibu-lions/"},{"date":"26.08.05","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"8-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181209-2026-08-05-chiba-lotte-marines/"},{"date":"26.08.04","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181207-2026-08-04-chiba-lotte-marines/"},{"date":"26.08.02","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181200-2026-08-02-seibu-lions/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Hiromi Itoh (8-6, 3.18)|https://p.npb.jp/players_photo/2026/180/f/017_51355153.jpg\"]"
+awayLineup: "[\"선발투수 Kaima Taira (7-3, 1.59)|https://p.npb.jp/players_photo/2026/180/l/061_31035136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

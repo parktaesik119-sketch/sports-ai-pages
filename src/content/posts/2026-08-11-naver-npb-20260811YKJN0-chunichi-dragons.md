@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.08","home":"한신 타이거스","away":"주니치 
 awayRecent: '[{"date":"26.08.08","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808HIYK0-2026-08-08-yokohama-baystars/"},{"date":"26.08.07","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807HIYK0-2026-08-07-yokohama-baystars/"},{"date":"26.08.06","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181216-2026-08-06-yokohama-baystars/"},{"date":"26.08.05","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181214-2026-08-05-yokohama-baystars/"},{"date":"26.08.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181205-2026-08-04-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yudai Ohno (7-4, 1.96)|https://p.npb.jp/players_photo/2026/180/d/022_11515133.jpg\"]"
+awayLineup: "[\"선발투수 Shuto Ogata (0-2, 3.00)|https://p.npb.jp/players_photo/2026/180/db/036_61365136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
