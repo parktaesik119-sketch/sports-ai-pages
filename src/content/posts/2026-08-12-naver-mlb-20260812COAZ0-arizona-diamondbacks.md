@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 콜로라도 로키스 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | MLB - 픽천국"
+date: 2026-08-12T01:40:00.000Z
+description: "애리조나 다이아몬드백스 vs 콜로라도 로키스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260812COAZ0-2026-08-12-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 리그순위 5위로 63승 56패, 승률 .529와 경기당 득점 4.7점을 기록하며 안정적인 경쟁력을 보여주고 있습니다. 최근 10경기에서도 7승 3패로 좋은 전력을 이어가며 로스앤젤레스 다저스전 연승을 통해 상위권다운 집중력을 확인했습니다. 타선은 경기별 기복은 있지만 한 번 흐름을 타면 여러 이닝에 걸쳐 득점을 만들어내는 힘이 돋보입니다. 득실 격차가 플러스로 유지되고 있어 공격력뿐 아니라 실점 관리에서도 콜로라도 로키스보다 균형이 좋습니다. 상대전적에서도 우세를 확보하고 있어 매치업 자신감이 충분해 보입니다. 다만 Lourdes Gurriel Jr.와 요르단 Lawlar의 이탈은 타선과 수비 운용에 부담이 될 수 있으며, Justin Martinez까지 빠진 불펜 운영이 변수로 작용할 수 있습니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 리그순위 15위로 46승 72패, 승률 .390과 경기당 득점 5.3점을 기록하고 있어 공격 잠재력에 비해 전체적인 경기 완성도가 낮습니다. 최근 10경기에서는 4승 6패로 반등이 제한적이며, 캔자스시티 로열스전 연승 뒤 다시 탬파베이 레이스와 세인트루이스 카디널스에게 흔들렸습니다. 타선은 한 경기에서 폭발적인 장타력을 보여줄 수 있지만 득점 흐름이 꾸준하지 않아 경기 후반 추격력이 약해지는 모습입니다. 득실 격차가 크게 마이너스인 만큼 수비와 투수진이 공격에서 만든 이점을 자주 지키지 못하고 있습니다. Jose Quintana를 비롯한 선발 자원 이탈로 마운드의 깊이도 떨어져 있어 애리조나 다이아몬드백스의 꾸준한 공격을 견디기 쉽지 않아 보입니다. 장타가 초반부터 터지지 않는다면 원정 경기에서 주도권을 잡기 어려울 가능성이 높습니다."
+homePower: "애리조나 다이아몬드백스는 득실 균형이 플러스로 경기 관리력이 안정적임|강팀 상대에서도 연속 승리로 집중력 유지가 검증됨|콜로라도 로키스전 우세 상성으로 심리적 여유가 있음|중심 타선 이탈로 좌우 공격 조합 변화가 변수임|불펜 핵심 공백으로 리드 후반 관리가 관건임"
+awayPower: "콜로라도 로키스는 한 번 폭발하면 단숨에 흐름을 바꾸는 장타력이 있음|큰 실점이 반복돼 접전 유지 능력은 불안해 보임|최근 원정에서 타선 연결성이 끊기는 장면이 잦음|Jose Quintana 이탈로 선발진 깊이가 낮아진 상태임|상위권 상대 열세를 뒤집으려면 초반 장타가 필요함"
+h2h: '[{"date":"26.05.25","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-1","link":"https://pick79.com/posts/detail/analyze-178807-2026-05-25-arizona-diamondbacks/"},{"date":"26.05.24","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-178777-2026-05-23-arizona-diamondbacks/"},{"date":"26.05.23","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-178777-2026-05-23-arizona-diamondbacks/"},{"date":"26.05.22","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-178762-2026-05-22-arizona-diamondbacks/"},{"date":"26.05.18","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"6-8","link":"https://pick79.com/posts/detail/analyze-178707-2026-05-18-colorado-rockies/"}]'
+summary: "2026시즌 리그순위와 승률, 득실 격차를 종합하면 애리조나 다이아몬드백스가 콜로라도 로키스보다 안정적인 전력을 갖추고 있습니다. 애리조나 다이아몬드백스는 최근 10경기에서 7승을 거두며 상위권 경쟁력을 이어간 반면, 콜로라도 로키스는 4승 6패로 경기력의 기복이 더 크게 나타났습니다. 공격력만 보면 콜로라도 로키스도 충분한 한 방을 갖췄지만, 큰 실점이 반복되고 선발진 공백까지 겹쳐 수비 안정감에서 열세입니다. 상대전적에서도 애리조나 다이아몬드백스가 5승 2패로 앞서 있어 타선과 마운드의 상성이 홈팀에 유리하게 형성되어 있습니다. 핵심 결장자 규모를 고려하면 애리조나 다이아몬드백스의 후반 불펜 운영이 변수지만, 전체적인 경기 주도권은 홈팀이 가져갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.10","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810LAAZ0-2026-08-10-arizona-diamondbacks/"},{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808LAAZ0-2026-08-08-arizona-diamondbacks/"},{"date":"26.08.07","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807SDAZ0-2026-08-07-arizona-diamondbacks/"},{"date":"26.08.06","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"10-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179736-2026-08-06-arizona-diamondbacks/"},{"date":"26.08.05","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179723-2026-08-05-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.08.10","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810COSL0-2026-08-10-st-louis-cardinals/"},{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809COSL0-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"}]'
+injuryHome: "Merrill Kelly (경련으로 경기 출전 여부 불확실)|Jordan Lawlar (염좌로 10일 부상자 명단)|Lourdes Gurriel Jr. (염좌로 10일 부상자 명단)|Drey Jameson (염증으로 15일 부상자 명단)|Justin Martinez (수술로 60일 부상자 명단)"
+injuryAway: "Jaden Hill (건염으로 15일 부상자 명단)|Tyler Freeman (10일 부상자 명단)|McCade Brown (염증으로 60일 부상자 명단)|Jeff Criswell (염좌로 15일 부상자 명단)|Jose Quintana (염좌로 60일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

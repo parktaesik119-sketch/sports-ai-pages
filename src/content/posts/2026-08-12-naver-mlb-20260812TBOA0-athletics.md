@@ -1,0 +1,37 @@
+---
+title: "애슬레틱스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | MLB - 픽천국"
+date: 2026-08-12T01:40:00.000Z
+description: "애슬레틱스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260812TBOA0-2026-08-12-athletics"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애슬레틱스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "애슬레틱스는 2026시즌 26승 45패, 승률 .365에 평균 득점 4.3으로 시즌 전체 흐름이 하위권에 머물러 있습니다. 최근 경기에서는 보스턴 레드삭스를 상대로 연승을 거두며 잠시 반등 기미를 보였지만, 그 이전 구간에서 대량 실점과 연패가 이어져 전반적인 안정감은 여전히 부족합니다. 홈에서는 득점이 완전히 막히는 경기보다 한 번 터질 때는 점수가 나는 편이지만, 실점 억제가 되지 않아 접전에서 밀리는 모습이 자주 보입니다. 제프리 스프링스와 니커트츠, 덴젤 클라크가 빠진 상태라 타선과 마운드 모두에서 버티는 힘이 약해진 점도 부담입니다. 그래도 일부 경기에서는 중하위 타선이 한 번씩 응답하며 흐름을 끊어내고 있어, 초반 실점만 줄이면 경기 중반 이후까지는 따라붙을 여지가 있습니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 71승 46패, 승률 .607에 평균 득점 4.2로 리그순위 1위답게 시즌 내내 높은 완성도를 유지하고 있습니다. 최근 경기에서도 시애틀 매리너스 원정에서 연승을 챙기며 상위권 팀다운 응집력을 다시 보여주고 있습니다. 원정에서도 득점 생산이 크게 흔들리지 않고, 필요한 순간에는 적은 점수 차를 끝까지 지켜내는 운영이 강점으로 평가됩니다. 가빈 럭스, 제이크 프랠리, 셰인 매클래너핸이 이탈한 상황이지만, 팀 전체의 투수진 운용과 경기 운영이 안정적이라 전력 손실을 상당 부분 상쇄하고 있습니다. 특히 최근에는 실점 억제력이 살아나면서 접전에서도 주도권을 놓치지 않는 장면이 많아 보입니다."
+homePower: "애슬레틱스 타선은 한 번 흐름을 타면 득점이 이어지는 편임|대량 실점 뒤에도 다음 경기에서 반등한 흔적이 있음|다만 수비와 투수진 부담이 커 접전 유지가 어려움|제프리 스프링스 이탈로 마운드 깊이 약화가 보임|홈에서 초반 실점 억제가 승부의 핵심 변수임"
+awayPower: "탬파베이 레이스는 상위권 운영 완성도가 높은 팀임|원정에서도 경기 후반까지 흐름 관리가 안정적임|짧은 침체 뒤 곧바로 반등하는 응집력이 돋보임|주요 전력 이탈에도 대체 자원 운용이 검증됨|저실점 접전으로 끌고 가는 능력이 강점임"
+h2h: '[]'
+summary: "탬파베이 레이스는 시즌 전체 성적과 득실 차에서 애슬레틱스보다 한 단계 위 전력을 보여주고 있습니다. 애슬레틱스는 최근 보스턴 레드삭스전에서 반등 조짐을 보였지만, 시즌 내내 누적된 실점 부담과 결장자 이슈가 여전히 무겁게 작용하고 있습니다. 반면 탬파베이 레이스는 최근 흐름이 좋고, 원정에서도 경기 운영이 흔들리지 않아 전력 우위가 분명해 보입니다. 전체적으로는 탬파베이 레이스가 마운드 안정감과 경기 마무리에서 앞서며 승부를 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.10","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810OABO0-2026-08-10-boston-red-sox/"},{"date":"26.08.09","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809OABO0-2026-08-09-boston-red-sox/"},{"date":"26.08.08","home":"보스턴 레드삭스","away":"애슬레틱스","score":"13-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808OABO0-2026-08-08-boston-red-sox/"},{"date":"26.08.07","home":"신시내티 레즈","away":"애슬레틱스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807OACI0-2026-08-07-cincinnati-reds/"},{"date":"26.08.06","home":"신시내티 레즈","away":"애슬레틱스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179733-2026-08-06-cincinnati-reds/"}]'
+awayRecent: '[{"date":"26.08.10","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TBSE0-2026-08-10-seattle-mariners/"},{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TBSE0-2026-08-08-seattle-mariners/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"},{"date":"26.08.03","home":"탬파베이 레이스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179688-2026-08-03-tampa-bay-rays/"}]'
+injuryHome: "Nick Kurtz (염좌)|Denzel Clarke (염좌)|Justin Sterner (근육통)|Brooks Kriske (신경 압박)|Jeffrey Springs (근육통)"
+injuryAway: "Gavin Lux (염증)|Jake Fraley (수술)|Manuel Rodriguez (수술)|Edwin Uceta (염좌)|Shane McClanahan (미상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

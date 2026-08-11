@@ -1,0 +1,37 @@
+---
+title: "키움 히어로즈 vs LG 트윈스 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | KBO - 픽천국"
+date: 2026-08-12T10:00:00.000Z
+description: "키움 히어로즈 vs LG 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260812LGWO02026-2026-08-12-kiwoom-heroes"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "키움 히어로즈"
+awayTeam: "LG 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LG.png"
+homeAnalysis: "키움 히어로즈는 2026시즌 전체 DB 기준 30승 1무 48패, 평균 득점 4.0으로 다소 열세의 전력을 보여주고 있습니다. 다만 최근 흐름에서는 득점이 크게 살아나며 공격 쪽 자신감이 분명히 올라온 모습입니다. 직전 LG 트윈스전에서도 한 번은 18득점을 기록했고, SSG 랜더스전에서도 12득점을 올리며 타선 폭발력이 분명하게 확인되었습니다. 홈에서는 공격이 붙을 때 경기 흐름을 크게 흔들 수 있고, 서건창과 데이비슨, 안치홍, 김웅빈으로 이어지는 상위 타선의 연결도 강점으로 보입니다. 선발 안우진은 시즌 성적과 구위 모두 팀 내에서 가장 믿을 만한 축에 가깝고, 직구와 슬라이더 중심의 공격적인 운영이 돋보여 초반 주도권을 잡을 가능성이 있습니다. 다만 최근 경기 흐름상 실점이 함께 늘어나는 장면도 있어, 타선 지원이 따라붙을 때 경기 운영이 더 안정적으로 보입니다."
+awayAnalysis: "LG 트윈스는 2026시즌 전체 DB 기준 40승 2무 35패, 평균 득점 5.2로 홈팀보다 시즌 전력상 우위에 있는 모습입니다. 최근 흐름은 다소 흔들리고 있지만, 타선 자체의 생산력은 여전히 충분히 유지되고 있습니다. 홍창기와 박해민이 상위 타선에서 출루와 주루 흐름을 만들고, 오스틴이 중심에서 장타와 해결력을 맡는 구조가 분명합니다. 예상 라인업의 상위 타순은 WAR 합이 높아 초반 득점 전개가 매끄럽게 이어질 가능성이 있습니다. 선발 카라스코는 표본은 적지만 ERA 0.00, WHIP 0.00으로 매우 인상적이며, 투심과 커터를 섞는 유형이라 맞춰 잡는 운영이 강점으로 보입니다. 다만 최근 팀 전체 흐름에서는 실점이 늘어난 경기들이 이어져, 초반부터 수비 집중력이 받쳐주어야 안정적으로 경기를 풀 수 있습니다."
+homePower: "안우진의 직구·슬라이더 축이 초반 주도권 확보에 유리함|키움 히어로즈 타선은 상위타선 연결 시 폭발력 큼|최근 LG 트윈스전에서 장타 생산력 검증됨|홈 경기에서 득점 변동폭이 커 경기 흐름 흔듦|수비 실점 관리가 되면 승부 주도 가능성 높음"
+awayPower: "LG 트윈스는 상위타선 출루와 해결력이 함께 살아있음|오스틴 중심의 중심 타선 무게감이 뚜렷함|카라스코의 투심·커터 조합이 맞춰 잡기에 적합함|최근 부진 속에서도 득점 생산은 완전히 꺼지지 않음|경기 초반 선취점 확보 시 운영 우위가 커짐"
+h2h: '[{"date":"26.07.30","home":"LG 트윈스","away":"키움 히어로즈","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181914-2026-07-30-lg-twins/"},{"date":"26.07.29","home":"LG 트윈스","away":"키움 히어로즈","score":"11-18","link":"https://pick79.com/posts/detail/analyze-181908-2026-07-29-lg-twins/"},{"date":"26.07.02","home":"키움 히어로즈","away":"LG 트윈스","score":"5-7","link":"https://pick79.com/posts/detail/analyze-181818-2026-07-02-kiwoom-heroes/"},{"date":"26.07.01","home":"키움 히어로즈","away":"LG 트윈스","score":"4-10","link":"https://pick79.com/posts/detail/analyze-181815-2026-07-01-kiwoom-heroes/"},{"date":"26.06.30","home":"키움 히어로즈","away":"LG 트윈스","score":"6-0","link":"https://pick79.com/posts/detail/analyze-181808-2026-06-30-kiwoom-heroes/"}]'
+summary: "키움 히어로즈는 시즌 전체 성적은 열세지만 최근 득점 폭발력이 살아나며 공격 쪽 기대감이 높아졌고, LG 트윈스는 시즌 전력과 상위 타선의 짜임새에서 여전히 한 단계 앞선 모습입니다. 다만 최근 맞대결에서는 키움 히어로즈가 큰 점수 차 승리를 한 적도 있어, 공격이 붙는 날에는 LG 트윈스 상대로도 충분히 버틸 힘을 보여주고 있습니다. 선발 맞대결에서는 안우진의 검증된 구위와 카라스코의 효율적인 운영이 부딪히는 구도라 초반 흐름이 중요하게 작용할 가능성이 높습니다. 전체적으로는 LG 트윈스가 시즌 전력에서는 우세하지만, 키움 히어로즈가 홈에서 타선 응집력을 살리면 접전 양상으로 끌고 갈 여지도 충분해 보입니다."
+homeRecent: '[{"date":"26.08.04","home":"롯데 자이언츠","away":"키움 히어로즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181934-2026-08-04-lotte-giants/"},{"date":"26.08.02","home":"키움 히어로즈","away":"SSG 랜더스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181927-2026-08-02-kiwoom-heroes/"},{"date":"26.08.01","home":"키움 히어로즈","away":"SSG 랜더스","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181923-2026-08-01-kiwoom-heroes/"},{"date":"26.07.31","home":"키움 히어로즈","away":"SSG 랜더스","score":"12-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181919-2026-07-31-kiwoom-heroes/"},{"date":"26.07.30","home":"LG 트윈스","away":"키움 히어로즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181914-2026-07-30-lg-twins/"}]'
+awayRecent: '[{"date":"26.08.04","home":"SSG 랜더스","away":"LG 트윈스","score":"10-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181936-2026-08-04-ssg-landers/"},{"date":"26.08.02","home":"두산 베어스","away":"LG 트윈스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181931-2026-08-02-doosan-bears/"},{"date":"26.08.01","home":"두산 베어스","away":"LG 트윈스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-181922-2026-08-01-doosan-bears/"},{"date":"26.07.31","home":"두산 베어스","away":"LG 트윈스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181917-2026-07-31-doosan-bears/"},{"date":"26.07.30","home":"LG 트윈스","away":"키움 히어로즈","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181914-2026-07-30-lg-twins/"}]'
+injuryHome: "하영민 (치료·재활중)|김재웅 (부상)"
+injuryAway: "김윤식 (부상)|장현식 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "키움 히어로즈"
+pickWinResult: "승"
+pickHandicapTeam: "키움 히어로즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

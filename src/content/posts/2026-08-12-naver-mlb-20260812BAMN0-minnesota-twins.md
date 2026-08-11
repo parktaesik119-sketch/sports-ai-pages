@@ -1,0 +1,37 @@
+---
+title: "미네소타 트윈스 vs 볼티모어 오리올스 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | MLB - 픽천국"
+date: 2026-08-11T23:40:00.000Z
+description: "미네소타 트윈스 vs 볼티모어 오리올스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260812BAMN0-2026-08-12-minnesota-twins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "미네소타 트윈스"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "미네소타 트윈스는 2026시즌 최근 81경기에서 38승 43패, 평균 득점 4.1을 기록하며 승률은 5할에 조금 못 미치고 있습니다. 최근 흐름만 보면 8경기에서 3승 5패로 다소 흔들리고 있지만, 강한 상대로도 끈질기게 점수를 주고받는 장면이 자주 나와 공격 응집력은 완전히 꺾이지 않은 모습입니다. 홈에서는 캔자스시티와 휴스턴을 상대로도 승리를 챙기며, 경기 후반까지 접전을 끌고 가는 운영이 돋보입니다. 다만 실점 관리가 매끄럽지 않아 접전에서 밀리는 경우가 잦고, 최근에는 3득점 안팎에서 멈추는 경기가 늘어나며 타선 기복이 보입니다. 바이런 벅스턴과 조 라이언의 이탈은 장타와 선발 안정감 측면에서 부담이 크지만, 홈 경기에서는 여전히 최소한의 득점 생산과 접전 대응력을 기대할 수 있습니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 최근 80경기에서 38승 39패, 평균 득점 4.4를 기록하며 미세한 열세 속에서도 경쟁력을 유지하고 있습니다. 최근 10경기에서 5승 5패로 흐름이 들쭉날쭉하지만, 텍사스 원정에서 10득점을 올린 장면처럼 공격은 한 번 터지면 폭발력이 분명합니다. 다만 필라델피아전과 애너하임전에서 무득점에 가까운 흐름이 나왔고, 실점이 늘어나는 경기에서는 수비 균형이 쉽게 무너지는 모습도 보입니다. 현재 리그순위 10위로 순위는 낮지만 득실 차가 크지 않아, 최근 경기력만 놓고 보면 완전히 가라앉은 팀은 아니고 반등 여지도 있습니다. 다만 크리스 배싯과 펠릭스 바우티스타의 결장은 마운드 운영의 중심축을 흔드는 요소라서, 원정에서는 후반 안정감이 약해질 가능성이 있습니다."
+homePower: "미네소타 트윈스는 접전 운영에서 버티는 힘이 살아 있음|홈에서 강팀 상대로도 한 방씩 응수하는 응집력 확인됨|바이런 벅스턴 공백으로 장타 축은 약해진 상태임|실점 관리가 흔들리며 한 점 차 승부 부담이 큼|저득점 경기에서도 끝까지 따라붙는 끈질김이 보임"
+awayPower: "볼티모어 오리올스는 공격 폭발력과 기복이 함께 나타남|원정에서도 한 번 흐르면 대량 득점 가능성 보임|크리스 배싯 공백으로 선발 안정감 약화가 큼|펠릭스 바우티스타 이탈로 마무리 신뢰도 하락함|득실 차가 작아도 경기별 편차는 크게 나타남"
+h2h: '[{"date":"26.03.30","home":"볼티모어 오리올스","away":"미네소타 트윈스","score":"8-6"},{"date":"26.03.29","home":"볼티모어 오리올스","away":"미네소타 트윈스","score":"1-4"},{"date":"26.03.27","home":"볼티모어 오리올스","away":"미네소타 트윈스","score":"2-1"}]'
+summary: "미네소타 트윈스는 시즌 성적과 최근 흐름을 함께 보면 완전히 우세한 팀은 아니지만, 홈에서 접전을 버티는 힘과 필요할 때 점수를 내는 능력이 안정적으로 유지되고 있습니다. 볼티모어 오리올스는 평균 득점이 조금 더 높고 반등 장면도 있었지만, 최근에는 무득점 경기와 대량 실점 경기가 함께 나오며 전력 편차가 크게 보입니다. 상대전적에서도 초반 3경기 기준으로 볼티모어 오리올스가 앞서 있으나, 미네소타 트윈스는 홈에서 경기를 팽팽하게 끌고 갈 수 있는 바탕이 있고 결장자 영향까지 감안하면 이번에는 미네소타 트윈스가 근소한 우위를 점할 가능성이 높아 보입니다. 종합적으로는 미네소타 트윈스가 실점 억제와 경기 후반 운영에서 조금 더 나은 흐름을 만들 가능성이 있습니다."
+homeRecent: '[{"date":"26.08.10","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810MNMI0-2026-08-10-milwaukee-brewers/"},{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808MNMI0-2026-08-08-milwaukee-brewers/"},{"date":"26.08.07","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MNKC0-2026-08-07-kansas-city-royals/"},{"date":"26.08.06","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179729-2026-08-06-kansas-city-royals/"},{"date":"26.08.03","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179689-2026-08-03-seattle-mariners/"}]'
+awayRecent: '[{"date":"26.08.10","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810BATE0-2026-08-10-texas-rangers/"},{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809BATE0-2026-08-09-texas-rangers/"},{"date":"26.08.07","home":"볼티모어 오리올스","away":"LA 에인절스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807ANBA0-2026-08-07-baltimore-orioles/"},{"date":"26.08.06","home":"볼티모어 오리올스","away":"LA 에인절스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179737-2026-08-06-baltimore-orioles/"},{"date":"26.08.05","home":"볼티모어 오리올스","away":"LA 에인절스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179721-2026-08-05-baltimore-orioles/"}]'
+injuryHome: "Zebby Matthews (찰과상)|Byron Buxton (신경 압박)|Joe Ryan (근육 손상)|Mike Paredes (근육 손상)|Mick Abel (수술)"
+injuryAway: "Chris Bassitt (수술)|Blaze Alexander (골절)|Samuel Basallo (염증)|Ryan Helsley (염증)|Felix Bautista (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

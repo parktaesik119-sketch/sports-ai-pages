@@ -1,0 +1,37 @@
+---
+title: "토론토 블루제이즈 vs 보스턴 레드삭스 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | MLB - 픽천국"
+date: 2026-08-11T23:07:00.000Z
+description: "토론토 블루제이즈 vs 보스턴 레드삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260812BOTO0-2026-08-12-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 최근 85경기에서 39승 1무 45패, 평균 득점 3.6으로 시즌 전반의 득점 안정감이 다소 부족한 편입니다. 다만 최근 10경기에서는 7승 3패, 평균 득점 4.2로 공격 흐름이 살아나며 반등 조짐을 보이고 있습니다. 홈에서는 경기 운영이 비교적 정돈되는 모습이 있고, 접전에서도 점수를 꾸준히 만들어 내는 장면이 늘고 있습니다. 다만 실점 억제력은 여전히 흔들리는 구간이 있어, 한 번 흐름이 끊기면 경기 후반에 밀릴 수 있는 전력으로 보입니다. 중심 타선의 연속 안타와 득점권 처리 능력이 살아날 때는 충분히 맞서지만, 장기 결장자 부담이 있는 점은 시즌 흐름을 받치는 힘을 약하게 만들고 있습니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 최근 83경기에서 47승 2무 34패, 평균 득점 4.5로 시즌 전체 전력이 더 안정적입니다. 최근 10경기에서는 8승 2패, 평균 득점 6.8로 타선 폭발력이 매우 돋보이고 있습니다. 원정에서도 대량 득점이 이어지면서 경기 초반부터 주도권을 잡는 힘이 강하게 나타납니다. 현재 리그순위 3위에 걸맞게 득실 차도 크게 플러스라서, 공수 균형이 홈팀보다 한 단계 위에 있는 모습입니다. 다만 최근 두 경기 연패처럼 실점이 한 번 늘어나면 경기 양상이 급격히 흔들릴 수 있어, 마운드 안정성이 관건으로 보입니다."
+homePower: "최근 득점 흐름이 살아나며 타선 응집력 회복됨|시즌 평균 득점은 낮아 장타 의존도 큼|실점 억제 흔들려 선발 초반 안정이 중요함|장기 결장자 부담으로 뎁스 약화가 보임|상대전서 홈에서는 끈질긴 대응력 확인됨"
+awayPower: "시즌 득실 격차가 커 전력 우위가 뚜렷함|최근 타선 폭발로 초반 기세 장악 능력 뛰어남|원정에서도 장타와 집중타가 동시에 살아있음|실점이 늘면 경기 흔들림 폭이 커지는 편임|토론토 블루제이즈 상대로 공격 상성 우세함"
+h2h: '[{"date":"26.07.27","home":"보스턴 레드삭스","away":"토론토 블루제이즈","score":"6-1","link":"https://pick79.com/posts/detail/analyze-179602-2026-07-27-boston-red-sox/"},{"date":"26.07.26","home":"보스턴 레드삭스","away":"토론토 블루제이즈","score":"0-6","link":"https://pick79.com/posts/detail/analyze-179586-2026-07-26-boston-red-sox/"},{"date":"26.07.25","home":"보스턴 레드삭스","away":"토론토 블루제이즈","score":"6-4","link":"https://pick79.com/posts/detail/analyze-179572-2026-07-25-boston-red-sox/"},{"date":"26.06.19","home":"보스턴 레드삭스","away":"토론토 블루제이즈","score":"3-4","link":"https://pick79.com/posts/detail/analyze-179131-2026-06-19-boston-red-sox/"},{"date":"26.06.18","home":"보스턴 레드삭스","away":"토론토 블루제이즈","score":"0-3","link":"https://pick79.com/posts/detail/analyze-179121-2026-06-18-boston-red-sox/"}]'
+summary: "보스턴 레드삭스는 2026시즌 전체 성적과 득실 차에서 토론토 블루제이즈보다 앞서 있으며, 최근 득점 흐름까지 더해지면서 경기 주도권을 잡을 가능성이 높아 보입니다. 토론토 블루제이즈도 최근 타선이 살아나고 있지만 시즌 전체의 득점 안정감과 수비 완성도에서는 아직 보스턴 레드삭스 쪽이 한 수 위입니다. 상대전적에서는 토론토 블루제이즈가 앞선 흐름도 있었지만, 최근 맞대결에서 보스턴 레드삭스가 다시 힘을 내고 있어 이번 경기는 보스턴 레드삭스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.10","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TOPH0-2026-08-10-philadelphia-phillies/"},{"date":"26.08.09","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809TOPH0-2026-08-09-philadelphia-phillies/"},{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TOPH0-2026-08-08-philadelphia-phillies/"},{"date":"26.08.07","home":"시카고 컵스","away":"토론토 블루제이즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807TOCC0-2026-08-07-chicago-cubs/"},{"date":"26.08.06","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179724-2026-08-06-houston-astros/"}]'
+awayRecent: '[{"date":"26.08.10","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810OABO0-2026-08-10-boston-red-sox/"},{"date":"26.08.09","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809OABO0-2026-08-09-boston-red-sox/"},{"date":"26.08.08","home":"보스턴 레드삭스","away":"애슬레틱스","score":"13-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808OABO0-2026-08-08-boston-red-sox/"},{"date":"26.08.07","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"12-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807CWBO0-2026-08-07-boston-red-sox/"},{"date":"26.08.06","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179735-2026-08-06-boston-red-sox/"}]'
+injuryHome: "Kazuma Okamoto (멍)|Jameson Taillon (특정되지 않음)|Lenyn Sosa (멍)|Joe Mantiply (수술)|Spencer Arrighetti (통증)"
+injuryAway: "Adley Rutschman (염증)|Johan Oviedo (근육 손상)|Isiah Kiner-Falefa (염증)|Trevor Story (수술)|Roman Anthony (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

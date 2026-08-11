@@ -1,0 +1,37 @@
+---
+title: "마이애미 말린스 vs 피츠버그 파이러츠 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | MLB - 픽천국"
+date: 2026-08-11T22:40:00.000Z
+description: "마이애미 말린스 vs 피츠버그 파이러츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260812PIFL0-2026-08-12-miami-marlins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "마이애미 말린스"
+awayTeam: "피츠버그 파이러츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+homeAnalysis: "마이애미 말린스는 2026시즌 리그순위 8위로 60승 59패, 승률 .504를 기록했으며 득실도 524-509로 플러스 흐름입니다. 최근 10경기에서는 5승 5패로 기복이 있었지만 직전 두 경기에서 연속 완승을 거두며 반등 분위기를 만들었습니다. 시즌 전체 득점력은 경기 정보 기준 평균 4.2점으로 안정적인 편이며, 최근에도 로스앤젤레스 에인절스를 상대로 12점과 7점을 뽑아내며 타선의 집중력을 보여주었습니다. 반면 애틀랜타 브레이브스 원정에서는 연속으로 공격이 막히며 원정 경기 수비와 경기 운영에서 약점이 드러났습니다. 홈에서는 필라델피아 필리스와 샌프란시스코 자이언츠를 상대로 연속 위닝 흐름을 만든 경험이 있어 경기 주도권을 잡는 능력이 강점으로 평가됩니다. Andrew Nardi와 Max Meyer 등 주요 투수 자원의 이탈은 부담이지만, 최근 타선 회복세와 상대전적 우위가 이를 일부 상쇄할 가능성이 높아 보입니다."
+awayAnalysis: "피츠버그 파이러츠는 2026시즌 리그순위 11위로 58승 62패, 승률 .483을 기록했으며 득실은 602-581로 플러스지만 순위 대비 경기 기복이 큰 편입니다. 최근 10경기에서는 3승 7패에 그치며 최근 전력이 크게 흔들렸고, 밀워키 브루어스와 신시내티 레즈를 상대로 연속 열세를 보였습니다. 시즌 전체 득점력은 경기 정보 기준 평균 4.9점으로 마이애미 말린스보다 높지만, 최근 평균 득점은 3.7점까지 떨어져 타선의 지속성이 약해졌습니다. 뉴욕 메츠전에서 한 차례 9점을 기록했지만 다음 경기에서는 1점에 그치는 등 공격 효율의 편차가 크게 나타났습니다. Oneil Cruz와 Konnor Griffin, Ryan O'Hearn의 결장은 타선의 장타력과 선수층에 부담을 주며, Mitch Keller의 이탈은 마운드 운영에도 영향을 줄 수 있습니다. 원정에서 반등하려면 초반 득점 생산과 불펜 안정이 함께 살아나야 하며 현재 흐름만으로는 마이애미 말린스보다 불리해 보입니다."
+homePower: "최근 대량 득점 경기로 타선 회복 신호가 뚜렷함|상대전적에서 공격과 수비 모두 우세 흐름을 보임|플러스 득실이 경기 후반 운영 안정으로 연결되는 편|주요 투수 이탈로 선발 이후 운용이 변수로 남음|홈 경기에서 강팀 상대 집중력이 검증됨"
+awayPower: "시즌 득실은 플러스지만 최근 공격 연결성이 약해짐|Oneil Cruz 이탈로 중심 타선의 파괴력 저하가 우려됨|Mitch Keller 공백으로 선발 매치업 부담이 커짐|대량 득점과 저득점 경기의 편차가 크게 나타남|최근 원정 수비 집중력 저하가 반복되는 모습"
+h2h: '[{"date":"26.06.15","home":"피츠버그 파이러츠","away":"마이애미 말린스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-179074-2026-06-15-pittsburgh-pirates/"},{"date":"26.06.14","home":"피츠버그 파이러츠","away":"마이애미 말린스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179059-2026-06-14-pittsburgh-pirates/"},{"date":"26.06.13","home":"피츠버그 파이러츠","away":"마이애미 말린스","score":"3-8","link":"https://pick79.com/posts/detail/analyze-179045-2026-06-13-pittsburgh-pirates/"}]'
+summary: "마이애미 말린스는 2026시즌 리그순위와 승률에서 피츠버그 파이러츠보다 앞서며, 득실 균형도 안정적인 우위를 보여주고 있습니다. 최근 흐름에서는 마이애미 말린스가 연속 완승으로 타선의 회복세를 보인 반면, 피츠버그 파이러츠는 최근 10경기 3승 7패로 공격과 경기 운영 모두 주춤한 모습입니다. 피츠버그 파이러츠가 시즌 전체 득점력은 더 높지만 최근 득점력이 크게 낮아졌고, 주요 타자와 선발 자원의 공백까지 겹쳐 전력 유지가 쉽지 않아 보입니다. 이번 시즌 상대전적에서도 마이애미 말린스가 2승 1패로 앞서 있어 상성 면에서도 자신감을 가질 수 있습니다. 홈 이점과 최근 타선 반등, 상대전적 우위를 종합하면 마이애미 말린스가 경기 주도권을 잡을 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.10","home":"마이애미 말린스","away":"LA 에인절스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ANFL0-2026-08-10-miami-marlins/"},{"date":"26.08.09","home":"마이애미 말린스","away":"LA 에인절스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809ANFL0-2026-08-09-miami-marlins/"},{"date":"26.08.08","home":"마이애미 말린스","away":"LA 에인절스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808ANFL0-2026-08-08-miami-marlins/"},{"date":"26.08.07","home":"애틀랜타 브레이브스","away":"마이애미 말린스","score":"11-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807FLAT0-2026-08-07-atlanta-braves/"},{"date":"26.08.06","home":"애틀랜타 브레이브스","away":"마이애미 말린스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179738-2026-08-06-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.08.10","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"1-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810NMPI0-2026-08-10-pittsburgh-pirates/"},{"date":"26.08.09","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809NMPI0-2026-08-09-pittsburgh-pirates/"},{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808NMPI0-2026-08-08-pittsburgh-pirates/"},{"date":"26.08.07","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807PIMI0-2026-08-07-milwaukee-brewers/"},{"date":"26.08.06","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179728-2026-08-06-milwaukee-brewers/"}]'
+injuryHome: "Kyle Stowers (경미한 통증)|William Kempner (염좌로 15일 부상자 명단)|Anthony Bender (15일 부상자 명단)|Max Meyer (염좌로 15일 부상자 명단)|Andrew Nardi (골절로 60일 부상자 명단)"
+injuryAway: "Endy Rodriguez (경미한 통증)|Oneil Cruz (골절로 60일 부상자 명단)|Konnor Griffin (부상으로 60일 부상자 명단)|Ryan O'Hearn (염좌로 10일 부상자 명단)|Mitch Keller (사유 미상으로 60일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "마이애미 말린스"
+pickWinResult: "승"
+pickHandicapTeam: "마이애미 말린스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

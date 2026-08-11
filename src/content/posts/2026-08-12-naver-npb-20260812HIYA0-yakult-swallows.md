@@ -1,0 +1,37 @@
+---
+title: "야쿠르트 스왈로우스 vs 히로시마 도요 카프 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | NPB - 픽천국"
+date: 2026-08-12T09:00:00.000Z
+description: "야쿠르트 스왈로우스 vs 히로시마 도요 카프 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260812HIYA0-2026-08-12-yakult-swallows"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "야쿠르트 스왈로우스"
+awayTeam: "히로시마 도요 카프"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/YA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/HI.png"
+homeAnalysis: "야쿠르트 스왈로우스는 2026시즌 27승 1무 48패, 평균 득점 3.0으로 시즌 전체 흐름이 다소 무거운 편이지만 홈에서는 경기 중반까지 버티는 힘을 보여주고 있습니다. 최근 9경기에서도 1승 8패로 흐름이 좋지 않았고, 득점도 2.1점에 머물러 타선의 응집력이 떨어지는 모습이 이어지고 있습니다. 다만 히로시마 도요 카프 상대로는 7월 말과 7월 초 맞대결에서 접전 양상이 자주 나와, 큰 점수 차로 밀리는 경기보다 한 끗 차 승부에 더 가까운 흐름이 자주 보였습니다. 홈에서 수비적으로 버티는 구간은 있지만, 득점 전환이 늦어지면 경기 주도권을 잡기 어려운 편입니다. 그래도 최근 한 번씩 보여준 저득점 승부 대응력은 오늘처럼 팽팽한 경기에서 의미가 있을 수 있습니다."
+awayAnalysis: "히로시마 도요 카프는 2026시즌 31승 4무 40패, 평균 득점 3.1로 홈팀보다 시즌 전력의 균형이 조금 더 안정적으로 보입니다. 최근 10경기에서는 4승 6패로 기복이 있었지만, 전체적으로는 실점 억제와 필요할 때 점수를 내는 운영이 살아 있는 편입니다. 최근 원정 경기에서는 연속 실점이 늘며 흐름이 꺾였지만, 야쿠르트 스왈로우스와의 맞대결에서는 4-3, 1-2, 8-6 같은 접전도 있어 쉽게 무너지지 않는 상성이 확인됩니다. 특히 경기 후반 승부처에서 끈질기게 따라가는 힘이 있어, 초반만 버티면 흐름을 가져올 가능성이 있습니다. 다만 최근에는 타선 폭발보다 한 점씩 쌓는 쪽에 더 가까워 보이며, 선발이 초반을 안정적으로 이끌어야 유리합니다."
+homePower: "홈에서 실점 억제는 되지만 득점 전환이 늦어짐|최근 타선 침묵이 길어져 초반 주도권이 약함|히로시마 도요 카프와 접전 상성은 유지됨|한 점 차 경기 대응은 나쁘지 않은 편임|선발이 버티면 후반 승부로 끌고 갈 여지 있음"
+awayPower: "시즌 전력은 홈팀보다 한 단계 안정적임|최근 원정 실점 누적이 변수로 남아 있음|야쿠르트 스왈로우스 상대로 접전 운영이 가능함|한 이닝 집중 득점보다 분산 득점 성향이 강함|선발이 초반만 잡으면 승부 주도 가능성 있음"
+h2h: '[{"date":"26.07.26","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"3-4","link":"https://pick79.com/posts/detail/analyze-181179-2026-07-26-yakult-swallows/"},{"date":"26.07.25","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"2-1","link":"https://pick79.com/posts/detail/analyze-181178-2026-07-25-yakult-swallows/"},{"date":"26.07.24","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181169-2026-07-24-yakult-swallows/"},{"date":"26.07.09","home":"히로시마 도요 카프","away":"야쿠르트 스왈로우스","score":"0-1","link":"https://pick79.com/posts/detail/analyze-181096-2026-07-09-hiroshima-carp/"},{"date":"26.07.08","home":"히로시마 도요 카프","away":"야쿠르트 스왈로우스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-181094-2026-07-08-hiroshima-carp/"}]'
+summary: "야쿠르트 스왈로우스는 시즌 전체 전력과 최근 흐름 모두에서 공격 쪽 답답함이 남아 있어, 긴 이닝을 주도하기보다는 버티는 경기에 가까워 보입니다. 히로시마 도요 카프는 시즌 전력 기준으로 조금 더 안정적이고, 맞대결에서도 접전 상황을 자기 쪽으로 끌어오는 장면이 반복되고 있습니다. 두 팀 모두 최근에는 큰 점수 차보다 팽팽한 흐름이 자주 나왔기 때문에, 승부처 운영과 후반 집중력이 경기 방향을 가를 가능성이 높습니다. 전체적으로는 히로시마 도요 카프가 조금 더 우세한 전력으로 보이며, 흐름상 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.09","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809YAYO0-2026-08-09-yomiuri-giants/"},{"date":"26.08.08","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808YAYO0-2026-08-08-yomiuri-giants/"},{"date":"26.08.07","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807YAYO0-2026-08-07-yomiuri-giants/"},{"date":"26.08.06","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181218-2026-08-06-chunichi-dragons/"},{"date":"26.08.05","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181210-2026-08-05-chunichi-dragons/"}]'
+awayRecent: '[{"date":"26.08.09","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809HIYK0-2026-08-09-yokohama-baystars/"},{"date":"26.08.08","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808HIYK0-2026-08-08-yokohama-baystars/"},{"date":"26.08.07","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807HIYK0-2026-08-07-yokohama-baystars/"},{"date":"26.08.06","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"7-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181217-2026-08-06-hiroshima-carp/"},{"date":"26.08.05","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181212-2026-08-05-hiroshima-carp/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "히로시마 도요 카프"
+pickWinResult: "승"
+pickHandicapTeam: "히로시마 도요 카프"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "LA 에인절스 vs 텍사스 레인저스 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | MLB - 픽천국"
+date: 2026-08-12T01:38:00.000Z
+description: "LA 에인절스 vs 텍사스 레인저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260812TEAN0-2026-08-12-los-angeles-angels"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 에인절스"
+awayTeam: "텍사스 레인저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+homeAnalysis: "2026시즌 전체 성적은 45승 73패, 승률 .381, 득실 484점과 575점으로 리그순위 15위에 머물러 있습니다. 최근 10경기에서도 3승 7패로 부진이 이어졌고, 최근 두 경기에서는 연속 대량 실점과 무득점이 겹치며 공격과 수비 모두 불안한 모습입니다. 다만 볼티모어 오리올스전과 밀워키 브루어스전에서는 안정적인 실점 관리로 승리를 거두며 반등 가능성을 보여주었습니다. 텍사스 레인저스와의 2026시즌 맞대결에서는 4승 2패로 우위를 점했고, 특히 홈에서 연속 승리를 거둔 점은 긍정적입니다. 최근 공격 기복은 뚜렷하지만 상대전적에서 확인된 장타력과 집중력이 다시 살아난다면 홈 경기 운영에서 경쟁력을 발휘할 수 있습니다. Sebastian Rivero, Yusei Kikuchi, Sam Bachman, Shaun Anderson, Yoan Moncada의 장기 결장은 선수층과 마운드 운용에 부담으로 작용하고 있습니다."
+awayAnalysis: "2026시즌 전체 성적은 59승 59패, 승률 .500, 득실 489점과 522점으로 리그순위 6위에 위치해 있습니다. 최근 10경기는 4승 6패로 고점 대비 주춤한 흐름이며, 최근 두 경기에서도 승리와 대량 실점 패배가 엇갈려 경기력의 일관성이 부족합니다. 샌프란시스코 자이언츠전과 시애틀 매리너스전에서는 타선이 빠르게 점수를 만들며 승리했지만, 휴스턴 애스트로스와 탬파베이 레이스를 상대로는 득점 생산이 제한되었습니다. 시즌 전체 전력은 홈팀보다 안정적이지만 득실 격차가 마이너스이고 최근 원정 경기에서 실점 부담이 커진 점은 변수입니다. 텍사스 레인저스는 LA 에인절스와의 맞대결에서 일부 대량 득점 경기를 만들었지만 시리즈 전체에서는 열세를 보였습니다. Jakob Junis, Michael Helman, Carter Baumler, Josh Jung, Kyle Higashioka의 결장은 투수진과 야수진의 깊이를 동시에 약화시키는 요소입니다."
+homePower: "텍사스 레인저스 상대 최근 시리즈 주도권 확보|홈 맞대결 연속 승리로 상성 우위가 뚜렷함|대량 실점 뒤 반등하는 경기 집중력 보유|장기 결장 누적으로 불펜 운용 부담 커짐|최근 타선 침체가 승부처 최대 변수로 보임"
+awayPower: "리그순위 우위로 시즌 기본 전력은 안정적임|최근 원정에서 득점 기복이 크게 나타남|대량 득점과 빈공이 번갈아 나오는 불안정성|맞대결 열세로 경기 후반 압박 대응이 변수임|주요 야수 결장으로 타선 연결성이 약화됨"
+h2h: '[{"date":"26.07.10","home":"텍사스 레인저스","away":"LA 에인절스","score":"7-6","link":"https://pick79.com/posts/detail/analyze-179406-2026-07-10-texas-rangers/"},{"date":"26.07.09","home":"텍사스 레인저스","away":"LA 에인절스","score":"1-13","link":"https://pick79.com/posts/detail/analyze-179397-2026-07-09-texas-rangers/"},{"date":"26.07.08","home":"텍사스 레인저스","away":"LA 에인절스","score":"8-3","link":"https://pick79.com/posts/detail/analyze-179378-2026-07-08-texas-rangers/"},{"date":"26.05.25","home":"LA 에인절스","away":"텍사스 레인저스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-178800-2026-05-25-los-angeles-angels/"},{"date":"26.05.24","home":"LA 에인절스","away":"텍사스 레인저스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-178771-2026-05-23-los-angeles-angels/"}]'
+summary: "시즌 전체 전력과 리그순위에서는 텍사스 레인저스가 앞서지만, 양 팀 모두 최근 흐름이 안정적이지 않아 절대적인 우세를 단정하기는 어렵습니다. LA 에인절스는 최근 공격력이 크게 흔들리고 있으나 텍사스 레인저스와의 2026시즌 맞대결에서 4승 2패를 기록하며 상대 수비를 공략하는 해법을 보여주었습니다. 텍사스 레인저스는 시즌 득실 격차와 기본 전력에서 우위가 있지만 주요 야수와 투수진의 결장, 최근 원정 경기의 실점 기복이 부담입니다. 홈에서 치르는 이번 경기에서는 LA 에인절스가 맞대결 상성과 경기 장소의 이점을 바탕으로 접전 끝에 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.10","home":"마이애미 말린스","away":"LA 에인절스","score":"12-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ANFL0-2026-08-10-miami-marlins/"},{"date":"26.08.09","home":"마이애미 말린스","away":"LA 에인절스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809ANFL0-2026-08-09-miami-marlins/"},{"date":"26.08.08","home":"마이애미 말린스","away":"LA 에인절스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808ANFL0-2026-08-08-miami-marlins/"},{"date":"26.08.07","home":"볼티모어 오리올스","away":"LA 에인절스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807ANBA0-2026-08-07-baltimore-orioles/"},{"date":"26.08.06","home":"볼티모어 오리올스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179737-2026-08-06-baltimore-orioles/"}]'
+awayRecent: '[{"date":"26.08.10","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810BATE0-2026-08-10-texas-rangers/"},{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809BATE0-2026-08-09-texas-rangers/"},{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"},{"date":"26.08.04","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179701-2026-08-04-texas-rangers/"},{"date":"26.08.03","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179693-2026-08-03-houston-astros/"}]'
+injuryHome: "Sebastian Rivero (수술로 인한 10일 부상자 명단)|Yusei Kikuchi (염증으로 인한 60일 부상자 명단)|Sam Bachman (염증으로 인한 15일 부상자 명단)|Shaun Anderson (염증으로 인한 15일 부상자 명단)|Yoan Moncada (수술로 인한 60일 부상자 명단)"
+injuryAway: "Jakob Junis (근육 긴장으로 인한 15일 부상자 명단)|Michael Helman (골절로 인한 60일 부상자 명단)|Carter Baumler (근육 긴장으로 인한 60일 부상자 명단)|Josh Jung (근육 긴장으로 인한 10일 부상자 명단)|Kyle Higashioka (근육 긴장으로 인한 10일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 에인절스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 에인절스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

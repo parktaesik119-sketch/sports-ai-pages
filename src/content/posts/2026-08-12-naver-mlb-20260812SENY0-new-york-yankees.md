@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 시애틀 매리너스 경기분석·라인업·결장자·통계·승부예측 (8월 12일) | MLB - 픽천국"
+date: 2026-08-11T23:05:00.000Z
+description: "뉴욕 양키즈 vs 시애틀 매리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 최근 83경기에서 45승 4무 34패, 평균 득점 4.3으로 리그순위 2위에 올라 있으며, 시즌 전반의 경쟁력은 충분히 높은 편입니다. 다만 최근 10경기에서는 5승 0무 5패, 평균 득점 2.6으로 공격 흐름이 다소 가라앉아 있어 득점 생산의 들쭉날쭉함이 보입니다. 최근 홈 경기에서도 긴 이닝을 끌고 가는 경기보다 한두 점 차 접전이 많아, 타선이 초반부터 힘을 내느냐가 매우 중요해 보입니다. 그래도 시즌 전체 득실과 리그순위를 보면 수비와 경기 운영의 기본기는 여전히 탄탄한 편입니다. 애런 저지와 지안카를로 스탠튼의 결장은 장타 축의 무게감을 줄이지만, 홈에서는 여전히 마운드와 운영으로 버틸 수 있는 전력이 유지되고 있습니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 최근 70경기에서 33승 1무 36패, 평균 득점 3.8로 리그순위 11위에 머물러 있으며, 시즌 전체 흐름은 다소 처진 모습입니다. 최근 10경기에서는 3승 0무 7패, 평균 득점 2.7로 타선이 다시 침체되어 있고, 실점이 크게 늘어난 경기들도 겹치면서 흐름이 좋지 않습니다. 특히 최근 원정과 맞물린 경기들에서 공격 연결이 매끄럽지 않아 득점 기대치가 높지 않게 보입니다. 시즌 득실도 마이너스권이라 수비 안정감에서 강한 인상을 주지 못하고 있습니다. J.P. 크로포드의 결장은 공격 전개와 출루 흐름에 부담을 더하는 요소로 평가됩니다."
+homePower: "리그순위 2위의 저력은 유지됨|홈에서는 접전 운영 능력이 살아 있음|장타 공백은 있지만 마운드로 버팀|최근 득점 기복은 초반 선취점이 관건임|시애틀 매리너스 상대로 상성 우위가 확인됨"
+awayPower: "리그순위 11위답게 시즌 전체 안정감이 부족함|최근 대량 실점이 수비 불안의 약점임|타선 침체로 선취점 기대가 낮아짐|원정 부담이 커질수록 경기 주도권이 흔들림|뉴욕 양키즈 상대로 득점 생산 난도가 높음"
+h2h: '[{"date":"26.04.02","home":"시애틀 매리너스","away":"뉴욕 양키즈","score":"3-5"},{"date":"26.04.01","home":"시애틀 매리너스","away":"뉴욕 양키즈","score":"0-5"},{"date":"26.03.31","home":"시애틀 매리너스","away":"뉴욕 양키즈","score":"2-1"}]'
+summary: "뉴욕 양키즈는 리그순위 2위와 +82 득실이 보여주듯 시즌 전체 전력이 분명히 앞서 있고, 시애틀 매리너스는 리그순위 11위와 -19 득실에서 드러나듯 기복이 큰 편입니다. 최근 흐름만 보더라도 양키즈는 평균 득점이 완전히 폭발적이지는 않아도 홈에서 경기 운영이 안정적이고, 매리너스는 최근 실점이 크게 늘면서 버티는 힘이 떨어져 있습니다. 상대전적에서도 양키즈가 앞서 있는 만큼, 경기의 중심은 양키즈의 마운드와 시애틀 타선의 침묵 여부에 놓일 가능성이 높습니다. 전체적으로는 뉴욕 양키즈가 우세를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.10","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ATNY0-2026-08-10-new-york-yankees/"},{"date":"26.08.09","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809ATNY0-2026-08-09-new-york-yankees/"},{"date":"26.08.08","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808ATNY0-2026-08-08-new-york-yankees/"},{"date":"26.08.06","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179727-2026-08-06-new-york-yankees/"},{"date":"26.08.05","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179713-2026-08-05-new-york-yankees/"}]'
+awayRecent: '[{"date":"26.08.10","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TBSE0-2026-08-10-seattle-mariners/"},{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TBSE0-2026-08-08-seattle-mariners/"},{"date":"26.08.07","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807DESE0-2026-08-07-seattle-mariners/"},{"date":"26.08.05","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179711-2026-08-05-seattle-mariners/"},{"date":"26.08.03","home":"시애틀 매리너스","away":"미네소타 트윈스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179689-2026-08-03-seattle-mariners/"}]'
+injuryHome: "Giancarlo Stanton (좌상)|Carlos Rodon (염증)|Aaron Judge (골절)|Cody Bellinger (좌상)|Clarke Schmidt (수술)"
+injuryAway: "J.P. Crawford (염증)|Carlos Vargas (좌상)|Will Wilson (골절)|Cole Wilcox (좌상)|Matt Brash (좌상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---
