@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.09","home":"캔자스시티 로열스","away":"시�
 injuryHome: "Blake Snell (수술)|Brock Stewart (건염)|Blake Treinen (염증)|Jake Cousins (수술)|Will Klein (통증)"
 injuryAway: "Beck Way (경련)|Vinnie Pasquantino (통증)|Maikel Garcia (염좌)|Nick Mears (신경 압박)|James McArthur (수술)"
 homeLineup: "[\"선발투수 B. Snell (0-1, 12.00) ERA 12.00|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
-awayLineup: "[\"선발투수 M. Wacha (5-8, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\"]"
+awayLineup: "[\"선발투수 M. Wacha (5-8, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\",\"1번 N. Loftin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4314013.png\",\"2번 B. Witt Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42403.png\",\"3번 J. Caglianone (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4926296.png\",\"4번 S. Perez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31127.png\",\"5번 C. Jensen (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png\",\"6번 M. Massey (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109223.png\",\"7번 T. Tolbert (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4151063.png\",\"8번 J. Rave (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4418140.png\",\"9번 K. Isbel (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41263.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
