@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.04","home":"SSG 랜더스","away":"LG 트윈스","s
 awayRecent: '[{"date":"26.08.04","home":"롯데 자이언츠","away":"키움 히어로즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181934-2026-08-04-lotte-giants/"},{"date":"26.08.02","home":"롯데 자이언츠","away":"삼성 라이온스","score":"10-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181930-2026-08-02-lotte-giants/"},{"date":"26.07.31","home":"롯데 자이언츠","away":"삼성 라이온스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181920-2026-07-31-lotte-giants/"},{"date":"26.07.30","home":"한화 이글스","away":"롯데 자이언츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181916-2026-07-30-hanwha-eagles/"},{"date":"26.07.29","home":"한화 이글스","away":"롯데 자이언츠","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181907-2026-07-29-hanwha-eagles/"}]'
 injuryHome: "없음"
 injuryAway: "김진욱 (부상)"
-homeLineup: "[\"1번 정준재 (2루수)\",\"2번 박성한 (유격수)\",\"3번 김재환 (지명타자)\",\"4번 전의산 (1루수)\",\"5번 오태곤 (좌익수)\",\"6번 조형우 (포수)\",\"7번 최지훈 (중견수)\",\"8번 안상현 (3루수)\",\"9번 임근우 (우익수)\"]"
+homeLineup: "[\"1번 정준재 (2루수)\",\"2번 박성한 (유격수)\",\"3번 김재환 (지명타자)\",\"4번 전의산 (1루수)\",\"5번 마드리스 (좌익수)\",\"6번 최지훈 (중견수)\",\"7번 한유섬 (우익수)\",\"8번 조형우 (포수)\",\"9번 안상현 (3루수)\"]"
 awayLineup: "[\"1번 황성빈 (중견수)\",\"2번 나승엽 (1루수)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (지명타자)\",\"5번 고승민 (2루수)\",\"6번 윤동희 (우익수)\",\"7번 노진혁 (3루수)\",\"8번 전민재 (유격수)\",\"9번 손성빈 (포수)\"]"
 homeFormation: ""
 awayFormation: ""
