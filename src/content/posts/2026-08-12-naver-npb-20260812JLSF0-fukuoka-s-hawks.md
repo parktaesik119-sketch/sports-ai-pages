@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"세이부 라이온즈","away":"소프�
 awayRecent: '[{"date":"26.08.09","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809OXJL0-2026-08-09-chiba-lotte-marines/"},{"date":"26.08.08","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808OXJL0-2026-08-08-chiba-lotte-marines/"},{"date":"26.08.07","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807OXJL0-2026-08-07-chiba-lotte-marines/"},{"date":"26.08.05","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"8-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181209-2026-08-05-chiba-lotte-marines/"},{"date":"26.08.04","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181207-2026-08-04-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Naoyuki Uwasawa (6-4, 2.21)|https://p.npb.jp/players_photo/2026/180/h/010_51355135.jpg\"]"
+awayLineup: "[\"선발투수 Sam Long (1-4, 4.12)|https://p.npb.jp/players_photo/2026/180/m/073_03905152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

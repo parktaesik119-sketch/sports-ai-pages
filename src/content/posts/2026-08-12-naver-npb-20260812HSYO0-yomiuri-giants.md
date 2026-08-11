@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"요미우리 자이언츠","away":"야�
 awayRecent: '[{"date":"26.08.09","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809JNHS0-2026-08-09-hanshin-tigers/"},{"date":"26.08.08","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808JNHS0-2026-08-08-hanshin-tigers/"},{"date":"26.08.07","home":"한신 타이거스","away":"주니치 드래곤스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807JNHS0-2026-08-07-hanshin-tigers/"},{"date":"26.08.06","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181216-2026-08-06-yokohama-baystars/"},{"date":"26.08.05","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181214-2026-08-05-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Haruto Inoue (10-5, 1.96)|https://p.npb.jp/players_photo/2026/180/g/097_51355151.jpg\"]"
+awayLineup: "[\"선발투수 Haruto Takahashi (11-2, 1.95)|https://p.npb.jp/players_photo/2026/180/t/029_91095136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
