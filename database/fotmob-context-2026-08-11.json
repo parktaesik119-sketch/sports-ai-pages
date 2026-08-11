@@ -6198,16 +6198,6 @@
     "injuries": {
       "home": [
         {
-          "name": "Leon Bailey",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "John McGinn",
-          "status": "무릎 부상",
-          "detail": "Doubtful"
-        },
-        {
           "name": "Amadou Onana",
           "status": "십자 인대 부상",
           "detail": "Late March 2027"
@@ -6215,6 +6205,11 @@
         {
           "name": "Johan Manzambi",
           "status": "무릎 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Leon Bailey",
+          "status": "근육 부상",
           "detail": "Doubtful"
         }
       ],
@@ -6319,34 +6314,34 @@
         "Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png",
         "Pau Torres (DF)|https://images.fotmob.com/image_resources/playerimages/792645.png",
         "Ian Maatsen (DF)|https://images.fotmob.com/image_resources/playerimages/966026.png",
-        "George Hemmings (MF)|https://images.fotmob.com/image_resources/playerimages/1607333.png",
-        "Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png",
         "João Gomes (MF)|https://images.fotmob.com/image_resources/playerimages/1174672.png",
+        "Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png",
+        "John McGinn (FW)|https://images.fotmob.com/image_resources/playerimages/356406.png",
         "Emiliano Buendía (FW)|https://images.fotmob.com/image_resources/playerimages/610184.png",
-        "Evann Guessand (FW)|https://images.fotmob.com/image_resources/playerimages/1087966.png",
-        "Brian Madjo (FW)|https://images.fotmob.com/image_resources/playerimages/1729841.png"
+        "Alejandro Garnacho (FW)|https://images.fotmob.com/image_resources/playerimages/1203665.png",
+        "Tammy Abraham (FW)|https://images.fotmob.com/image_resources/playerimages/749661.png"
       ],
       "away": [
         "Matvey Safonov (GK)|https://images.fotmob.com/image_resources/playerimages/800880.png",
-        "David Boly (DF)|https://images.fotmob.com/image_resources/playerimages/1830689.png",
         "Ilya Zabarnyi (DF)|https://images.fotmob.com/image_resources/playerimages/1140003.png",
+        "Marquinhos (DF)|https://images.fotmob.com/image_resources/playerimages/267365.png",
         "Willian Pacho (DF)|https://images.fotmob.com/image_resources/playerimages/1137670.png",
-        "Axel Koukaba (DF)|https://images.fotmob.com/image_resources/playerimages/2124812.png",
-        "Senny Mayulu (MF)|https://images.fotmob.com/image_resources/playerimages/1574189.png",
-        "Lucas Beraldo (DF)|https://images.fotmob.com/image_resources/playerimages/1255209.png",
+        "Nuno Mendes (DF)|https://images.fotmob.com/image_resources/playerimages/1158945.png",
+        "João Neves (MF)|https://images.fotmob.com/image_resources/playerimages/1342757.png",
+        "Vitinha (MF)|https://images.fotmob.com/image_resources/playerimages/1061249.png",
         "Dro Fernández (MF)|https://images.fotmob.com/image_resources/playerimages/1682313.png",
         "Ibrahim Mbaye (FW)|https://images.fotmob.com/image_resources/playerimages/1593857.png",
-        "Adam Ayari (FW)|https://images.fotmob.com/image_resources/playerimages/1830690.png",
+        "Senny Mayulu (MF)|https://images.fotmob.com/image_resources/playerimages/1574189.png",
         "Khvicha Kvaratskhelia (FW)|https://images.fotmob.com/image_resources/playerimages/900433.png"
       ]
     },
     "formation": {
-      "home": "4-4-2",
+      "home": "4-2-3-1",
       "away": "4-3-3"
     },
     "coach": {
-      "home": null,
-      "away": null
+      "home": "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png",
+      "away": "Luis Enrique|https://images.fotmob.com/image_resources/playerimages/11532.png"
     }
   },
   {
@@ -6357,16 +6352,6 @@
     "injuries": {
       "home": [
         {
-          "name": "Leon Bailey",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "John McGinn",
-          "status": "무릎 부상",
-          "detail": "Doubtful"
-        },
-        {
           "name": "Amadou Onana",
           "status": "십자 인대 부상",
           "detail": "Late March 2027"
@@ -6374,6 +6359,11 @@
         {
           "name": "Johan Manzambi",
           "status": "무릎 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Leon Bailey",
+          "status": "근육 부상",
           "detail": "Doubtful"
         }
       ],
@@ -6478,34 +6468,34 @@
         "Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png",
         "Pau Torres (DF)|https://images.fotmob.com/image_resources/playerimages/792645.png",
         "Ian Maatsen (DF)|https://images.fotmob.com/image_resources/playerimages/966026.png",
-        "George Hemmings (MF)|https://images.fotmob.com/image_resources/playerimages/1607333.png",
-        "Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png",
         "João Gomes (MF)|https://images.fotmob.com/image_resources/playerimages/1174672.png",
+        "Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png",
+        "John McGinn (FW)|https://images.fotmob.com/image_resources/playerimages/356406.png",
         "Emiliano Buendía (FW)|https://images.fotmob.com/image_resources/playerimages/610184.png",
-        "Evann Guessand (FW)|https://images.fotmob.com/image_resources/playerimages/1087966.png",
-        "Brian Madjo (FW)|https://images.fotmob.com/image_resources/playerimages/1729841.png"
+        "Alejandro Garnacho (FW)|https://images.fotmob.com/image_resources/playerimages/1203665.png",
+        "Tammy Abraham (FW)|https://images.fotmob.com/image_resources/playerimages/749661.png"
       ],
       "away": [
         "Matvey Safonov (GK)|https://images.fotmob.com/image_resources/playerimages/800880.png",
-        "David Boly (DF)|https://images.fotmob.com/image_resources/playerimages/1830689.png",
         "Ilya Zabarnyi (DF)|https://images.fotmob.com/image_resources/playerimages/1140003.png",
+        "Marquinhos (DF)|https://images.fotmob.com/image_resources/playerimages/267365.png",
         "Willian Pacho (DF)|https://images.fotmob.com/image_resources/playerimages/1137670.png",
-        "Axel Koukaba (DF)|https://images.fotmob.com/image_resources/playerimages/2124812.png",
-        "Senny Mayulu (MF)|https://images.fotmob.com/image_resources/playerimages/1574189.png",
-        "Lucas Beraldo (DF)|https://images.fotmob.com/image_resources/playerimages/1255209.png",
+        "Nuno Mendes (DF)|https://images.fotmob.com/image_resources/playerimages/1158945.png",
+        "João Neves (MF)|https://images.fotmob.com/image_resources/playerimages/1342757.png",
+        "Vitinha (MF)|https://images.fotmob.com/image_resources/playerimages/1061249.png",
         "Dro Fernández (MF)|https://images.fotmob.com/image_resources/playerimages/1682313.png",
         "Ibrahim Mbaye (FW)|https://images.fotmob.com/image_resources/playerimages/1593857.png",
-        "Adam Ayari (FW)|https://images.fotmob.com/image_resources/playerimages/1830690.png",
+        "Senny Mayulu (MF)|https://images.fotmob.com/image_resources/playerimages/1574189.png",
         "Khvicha Kvaratskhelia (FW)|https://images.fotmob.com/image_resources/playerimages/900433.png"
       ]
     },
     "formation": {
-      "home": "4-4-2",
+      "home": "4-2-3-1",
       "away": "4-3-3"
     },
     "coach": {
-      "home": null,
-      "away": null
+      "home": "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png",
+      "away": "Luis Enrique|https://images.fotmob.com/image_resources/playerimages/11532.png"
     }
   },
   {
@@ -7210,7 +7200,7 @@
         "Saku Savolainen (DF)|https://images.fotmob.com/image_resources/playerimages/447421.png",
         "Taneli Hämäläinen (DF)|https://images.fotmob.com/image_resources/playerimages/1099926.png",
         "Arttu Lötjönen (DF)|https://images.fotmob.com/image_resources/playerimages/1400535.png",
-        "Saku Heiskanen (FW)|https://images.fotmob.com/image_resources/playerimages/1030625.png",
+        "Saku Heiskanen (DF)|https://images.fotmob.com/image_resources/playerimages/1030625.png",
         "Arttu Heinonen (MF)|https://images.fotmob.com/image_resources/playerimages/1031426.png",
         "Niilo Kujasalo (MF)|https://images.fotmob.com/image_resources/playerimages/1383478.png",
         "Saikou Touray (MF)|https://images.fotmob.com/image_resources/playerimages/1068855.png",
