@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.09","home":"니혼햄 파이터즈","away":"라쿠�
 awayRecent: '[{"date":"26.08.09","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809OXJL0-2026-08-09-chiba-lotte-marines/"},{"date":"26.08.08","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808OXJL0-2026-08-08-chiba-lotte-marines/"},{"date":"26.08.07","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807OXJL0-2026-08-07-chiba-lotte-marines/"},{"date":"26.08.06","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181215-2026-08-06-orix-buffaloes/"},{"date":"26.08.05","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181213-2026-08-05-orix-buffaloes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kenta Maeda (2-3, 2.91)|https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg\"]"
+awayLineup: "[\"선발투수 Anderson Espinoza (10-3, 2.25)|https://p.npb.jp/players_photo/2026/180/b/000_43545159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
