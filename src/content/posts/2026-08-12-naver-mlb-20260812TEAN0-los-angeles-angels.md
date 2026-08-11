@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.10","home":"마이애미 말린스","away":"LA 에�
 awayRecent: '[{"date":"26.08.10","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810BATE0-2026-08-10-texas-rangers/"},{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809BATE0-2026-08-09-texas-rangers/"},{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"},{"date":"26.08.04","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179701-2026-08-04-texas-rangers/"},{"date":"26.08.03","home":"휴스턴 애스트로스","away":"텍사스 레인저스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179693-2026-08-03-houston-astros/"}]'
 injuryHome: "Sebastian Rivero (수술로 인한 10일 부상자 명단)|Yusei Kikuchi (염증으로 인한 60일 부상자 명단)|Sam Bachman (염증으로 인한 15일 부상자 명단)|Shaun Anderson (염증으로 인한 15일 부상자 명단)|Yoan Moncada (수술로 인한 60일 부상자 명단)"
 injuryAway: "Jakob Junis (근육 긴장으로 인한 15일 부상자 명단)|Michael Helman (골절로 인한 60일 부상자 명단)|Carter Baumler (근육 긴장으로 인한 60일 부상자 명단)|Josh Jung (근육 긴장으로 인한 10일 부상자 명단)|Kyle Higashioka (근육 긴장으로 인한 10일 부상자 명단)"
-homeLineup: ''
+homeLineup: "[\"선발투수 G. Klassen (0-1, 7.27) ERA 7.27|https://a.espncdn.com/i/headshots/mlb/players/full/5134517.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

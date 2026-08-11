@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.10","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.08.10","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CLCW0-2026-08-10-chicago-white-sox/"},{"date":"26.08.09","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CLCW0-2026-08-09-chicago-white-sox/"},{"date":"26.08.08","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808CLCW0-2026-08-08-chicago-white-sox/"},{"date":"26.08.07","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"6-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807NMCL0-2026-08-07-cleveland-guardians/"},{"date":"26.08.06","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179732-2026-08-06-cleveland-guardians/"}]'
 injuryHome: "Kerry Carpenter (족저근막염)|Brant Hurter (염증)|Wenceel Perez (골절)|Parker Meadows (수술)|Matt Vierling (염좌)"
 injuryAway: "Slade Cecconi (통증)|Shawn Armstrong (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Anderson (4-4, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/41125.png\"]"
+awayLineup: "[\"선발투수 T. Bibee (4-11, 3.85) ERA 3.85|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

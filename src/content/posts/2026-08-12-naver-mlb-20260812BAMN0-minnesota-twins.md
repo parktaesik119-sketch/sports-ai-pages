@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.10","home":"밀워키 브루어스","away":"미네�
 awayRecent: '[{"date":"26.08.10","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810BATE0-2026-08-10-texas-rangers/"},{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809BATE0-2026-08-09-texas-rangers/"},{"date":"26.08.07","home":"볼티모어 오리올스","away":"LA 에인절스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807ANBA0-2026-08-07-baltimore-orioles/"},{"date":"26.08.06","home":"볼티모어 오리올스","away":"LA 에인절스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179737-2026-08-06-baltimore-orioles/"},{"date":"26.08.05","home":"볼티모어 오리올스","away":"LA 에인절스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179721-2026-08-05-baltimore-orioles/"}]'
 injuryHome: "Zebby Matthews (찰과상)|Byron Buxton (신경 압박)|Joe Ryan (근육 손상)|Mike Paredes (근육 손상)|Mick Abel (수술)"
 injuryAway: "Chris Bassitt (수술)|Blaze Alexander (골절)|Samuel Basallo (염증)|Ryan Helsley (염증)|Felix Bautista (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Ober (7-3, 4.45) ERA 4.45|https://a.espncdn.com/i/headshots/mlb/players/full/3107919.png\"]"
+awayLineup: "[\"선발투수 B. Young (8-3, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

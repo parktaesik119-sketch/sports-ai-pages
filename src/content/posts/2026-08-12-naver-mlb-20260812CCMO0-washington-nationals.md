@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.10","home":"워싱턴 내셔널스","away":"신시�
 awayRecent: '[{"date":"26.08.10","home":"캔자스시티 로열스","away":"시카고 컵스","score":"2-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CCKC0-2026-08-10-kansas-city-royals/"},{"date":"26.08.09","home":"캔자스시티 로열스","away":"시카고 컵스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CCKC0-2026-08-09-kansas-city-royals/"},{"date":"26.08.07","home":"시카고 컵스","away":"토론토 블루제이즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807TOCC0-2026-08-07-chicago-cubs/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"},{"date":"26.08.04","home":"시카고 컵스","away":"LA 다저스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179707-2026-08-04-chicago-cubs/"}]'
 injuryHome: "James Wood (10일 부상자 명단, 근육 염좌)|Drew Millas (10일 부상자 명단, 골절)|Richard Lovelady (60일 부상자 명단, 근육 염좌)|DJ Herz (60일 부상자 명단, 근육 염좌)|Josiah Gray (60일 부상자 명단, 근육 염좌)"
 injuryAway: "Daniel Palencia (15일 부상자 명단, 근육 염좌)|Hoby Milner (15일 부상자 명단, 수술)|Gavin Hollowell (15일 부상자 명단, 염증)|Edward Cabrera (15일 부상자 명단, 근육 염좌)|Matt Shaw (10일 부상자 명단, 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Irvin (2-5, 5.37) ERA 5.37|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
+awayLineup: "[\"선발투수 S. Imanaga (8-9, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

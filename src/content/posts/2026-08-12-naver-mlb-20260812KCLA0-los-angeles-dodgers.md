@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.10","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.08.10","home":"캔자스시티 로열스","away":"시카고 컵스","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CCKC0-2026-08-10-kansas-city-royals/"},{"date":"26.08.09","home":"캔자스시티 로열스","away":"시카고 컵스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CCKC0-2026-08-09-kansas-city-royals/"},{"date":"26.08.07","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MNKC0-2026-08-07-kansas-city-royals/"},{"date":"26.08.06","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179729-2026-08-06-kansas-city-royals/"},{"date":"26.08.03","home":"콜로라도 로키스","away":"캔자스시티 로열스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179694-2026-08-03-colorado-rockies/"}]'
 injuryHome: "Blake Snell (수술)|Brock Stewart (염증)|Blake Treinen (염증)|Jake Cousins (수술)|Ben Casparius (염증)"
 injuryAway: "Beck Way (경련)|Vinnie Pasquantino (통증)|Maikel Garcia (염좌)|Nick Mears (신경 압박)|James McArthur (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Lauer (6-6, 4.89) ERA 4.89|https://a.espncdn.com/i/headshots/mlb/players/full/39915.png\"]"
+awayLineup: "[\"선발투수 D. Lynch IV (4-3, 2.45) ERA 2.45|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

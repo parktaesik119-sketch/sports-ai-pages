@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.10","home":"필라델피아 필리스","away":"토�
 awayRecent: '[{"date":"26.08.10","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810OABO0-2026-08-10-boston-red-sox/"},{"date":"26.08.09","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809OABO0-2026-08-09-boston-red-sox/"},{"date":"26.08.08","home":"보스턴 레드삭스","away":"애슬레틱스","score":"13-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808OABO0-2026-08-08-boston-red-sox/"},{"date":"26.08.07","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"12-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807CWBO0-2026-08-07-boston-red-sox/"},{"date":"26.08.06","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179735-2026-08-06-boston-red-sox/"}]'
 injuryHome: "Kazuma Okamoto (멍)|Jameson Taillon (특정되지 않음)|Lenyn Sosa (멍)|Joe Mantiply (수술)|Spencer Arrighetti (통증)"
 injuryAway: "Adley Rutschman (염증)|Johan Oviedo (근육 손상)|Isiah Kiner-Falefa (염증)|Trevor Story (수술)|Roman Anthony (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Cease (7-5, 2.28) ERA 2.28|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
+awayLineup: "[\"선발투수 P. Sandoval (1-0, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
