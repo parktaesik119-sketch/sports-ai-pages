@@ -4,6 +4,7 @@ import { fileURLToPath } from 'url';
 import OpenAI from "openai";
 import TEAM_NAME_MAP from './team_name_map.js';
 import COUNTRY_MAP from './country_map.js';
+import { EXACT_LEAGUE_MAP } from '../data/i18n/league-name-map.js';
 import { matchTeam } from './espn-common.js';
 import { formatKboInjuries } from './kbo-common.js';
 import { isMatchApproved } from './match-filter.js';
@@ -37,54 +38,14 @@ function getSafeLogoName(teamName) {
     .replace(/^-+|-+$/g, '');       // 앞뒤 하이픈 제거
 }
 
+// 🔥 리그명 한글 변환: 예전엔 이 함수 안에 45줄짜리 자체 정규식 테이블이 따로 있었는데,
+// team_name_map.js/country_map.js와 마찬가지로 league-name-map.js(EXACT_LEAGUE_MAP)를
+// 단일 소스로 통합했다. 여기서 못 찾은 리그는 원문 그대로 반환하고, 나중에
+// league-name-map.js에 그 리그를 추가하면 — 이 함수를 다시 안 고쳐도 —
+// slug.astro가 렌더링 시점에 기존 글까지 소급 번역해준다(translateLeague와 동일 로직).
 function convertLeagueName(rawLeague) {
-  let name = rawLeague || "스포츠";
-  const leagueReplacements = [
-    { target: /^(Premier Soccer League|PRO LEAGUE|Football Premier League|Premier League)$/i, replace: "프리미어리그" },
-    { target: /^Challengers League$/i, replace: "CL" },
-    { target: /^LCK CHALLENGERS LEAGUE$/i, replace: "LCK CL" },
-    { target: /^Friendly International$/i, replace: "국제친선" },
-    { target: /^Major League Soccer$/i, replace: "MLS" },
-    { target: /^African Club Championship$/i, replace: "CAF" },
-    { target: /^K League 1$/i, replace: "K1" },
-    { target: /^K League 2$/i, replace: "K2" },
-    { target: /^UEFA Champions League$/i, replace: "UEFA 챔피언스리그" },
-    { target: /^UEFA Champions League Qualification$/i, replace: "UEFA 챔피언스리그 예선" },
-    { target: /^UEFA Europa League$/i, replace: "UEFA 유로파리그" },
-    { target: /^Europa League Qualification$/i, replace: "유로파리그 예선" },
-    { target: /^AFC ASIAN CUP$/i, replace: "AFC 아시안컵" },
-    { target: /^LCK CHALLENGERS LEAGUE ROUNDS 1-2$/i, replace: "LCK CL" },
-    { target: /^LCK ROUNDS 1-2$/i, replace: "LCK" },
-    { target: /^JUPILER PRO LEAGUE$/i, replace: "D1" },
-    { target: /^Premier Division$/i, replace: "D1" },
-    { target: /^Division 1$/i, replace: "D1" },
-    { target: /^2. Bundesliga$/i, replace: "분데스리가2" },
-    { target: /^Beijer Hockey Games$/i, replace: "유로 하키 투어" },
-    { target: /^B League$/i, replace: "B리그" },
-    { target: /^Serie A$/i, replace: "세리에 A" },
-    { target: /^Bundesliga$/i, replace: "분데스리가" },
-    { target: /^Primeira Liga$/i, replace: "프리메라리가" },
-    { target: /^Esports World Cup Playoffs$/i, replace: "EWC 플레이오프" },
-    { target: /^Primera División - Apertura$/i, replace: "프리메라디비전" },
-    { target: /^LA LIGA$/i, replace: "라리가" },
-    { target: /^Segunda División$/i, replace: "라리가2" },
-    { target: /^UEFA Europa Conference League$/i, replace: "UEFA 컨퍼런스리그" },
-    { target: /^CONMEBOL Sudamericana$/i, replace: "코파 수다메리카나" },
-    { target: /^IL$/i, replace: "트리플A-IL" },
-    { target: /^CONMEBOL Libertadores$/i, replace: "코파 리베르타도레스" },
-    { target: /^NBA W$/i, replace: "WNBA" },
-    { target: /^Nations League Women$/i, replace: "네이션스리그(W)" },
-    { target: /^Nations League$/i, replace: "네이션스리그" },
-    { target: /^World Cup - Women - Qualification Europe$/i, replace: "월드컵 예선(W)" },
-    { target: /^World Cup - Women$/i, replace: "월드컵 (W)" },
-    { target: /^Friendlies$/i, replace: "국제친선" },
-    { target: /^World Cup$/i, replace: "월드컵" },
-    { target: /^NBA\s*-?\s*(Salt Lake City|Las Vegas|Orlando|Sacramento) Summer League$/i, replace: "NBA 썸머리그" },
-    { target: /^California Classic$/i, replace: "NBA 썸머리그" },
-    { target: /^Copa Libertadores$/i, replace: "코파 리베르타도레스" },
-  ];
-  leagueReplacements.forEach(rule => { name = name.replace(rule.target, rule.replace); });
-  return name;
+  if (!rawLeague) return "스포츠";
+  return EXACT_LEAGUE_MAP[rawLeague] || rawLeague;
 }
 
 // 공통 유틸: 팀 득점 배열 추출
@@ -2035,9 +1996,13 @@ const winnerIsHome = homeNames.some(n =>
   let country = leagueCountryOverrides[upperLeagueName]
     || (["WORLD","INTERNATIONAL"].includes(match.country?.toUpperCase()) ? "국제" : null)
     || COUNTRY_MAP[match.country] || match.country;
-  if (['MLB','NBA','NHL','MLS'].some(lg => leagueName.toUpperCase().includes(lg))) country = "미국";
-  if (['KBO','KBL','V-LEAGUE','LCK'].some(lg => leagueName.toUpperCase().includes(lg))) country = "대한민국";
-  if (['NPB'].some(lg => leagueName.toUpperCase().includes(lg))) country = "일본"; // 네이버 NPB 소스가 country를 영문 "Japan"으로 주는데 KBO/MLB처럼 별도 보정이 없어 누락되던 부분
+  // 🔥 leagueName(번역된 값)이 아니라 원문 match.league를 기준으로 체크한다.
+  // leagueName은 이제 EXACT_LEAGUE_MAP을 거치므로, 나중에 맵에 "MLB" 같은 키가 추가되면
+  // 번역된 문자열에 더 이상 "MLB"라는 영문 약어가 안 남을 수 있어 아래 체크가 깨질 수 있다.
+  // 원문은 번역 여부와 무관하게 항상 영문 그대로이므로 이걸 기준으로 삼는 게 안전하다.
+  if (['MLB','NBA','NHL','MLS'].some(lg => upperLeagueName.includes(lg))) country = "미국";
+  if (['KBO','KBL','V-LEAGUE','LCK'].some(lg => upperLeagueName.includes(lg))) country = "대한민국";
+  if (['NPB'].some(lg => upperLeagueName.includes(lg))) country = "일본"; // 네이버 NPB 소스가 country를 영문 "Japan"으로 주는데 KBO/MLB처럼 별도 보정이 없어 누락되던 부분
 
   // 9. 메타 정보
   const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;
