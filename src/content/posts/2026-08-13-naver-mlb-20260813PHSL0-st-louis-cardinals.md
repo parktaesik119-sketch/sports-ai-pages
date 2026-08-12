@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"},{"date":"26.08.10","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TOPH0-2026-08-10-philadelphia-phillies/"},{"date":"26.08.09","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809TOPH0-2026-08-09-philadelphia-phillies/"},{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TOPH0-2026-08-08-philadelphia-phillies/"},{"date":"26.08.07","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MOPH0-2026-08-07-philadelphia-phillies/"}]'
 injuryHome: "Ramon Urias (건염)|Max Rajcic (수술)"
 injuryAway: "Rafael Marchan (건염)|Caleb Kilian (긴장)|Tanner Banks (긴장)|Johan Rojas (수술)|Adolis Garcia (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Leahy (8-4, 3.45) ERA 3.45|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
+awayLineup: "[\"선발투수 Z. Wheeler (10-3, 2.69) ERA 2.69|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

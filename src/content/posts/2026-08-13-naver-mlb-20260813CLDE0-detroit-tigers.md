@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.12","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.08.12","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CLDE0-2026-08-12-detroit-tigers/"},{"date":"26.08.10","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CLCW0-2026-08-10-chicago-white-sox/"},{"date":"26.08.09","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CLCW0-2026-08-09-chicago-white-sox/"},{"date":"26.08.08","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808CLCW0-2026-08-08-chicago-white-sox/"},{"date":"26.08.07","home":"클리블랜드 가디언스","away":"뉴욕 메츠","score":"6-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807NMCL0-2026-08-07-cleveland-guardians/"}]'
 injuryHome: "Riley Greene (경미한 통증)|Kerry Carpenter (족저근막염)|Brant Hurter (염증)|Enmanuel De Jesus (미상)|Parker Meadows (수술)"
 injuryAway: "Slade Cecconi (통증)|Shawn Armstrong (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 F. Valdez (7-7, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/36581.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (12-4, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

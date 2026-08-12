@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"키움 히어로즈","away":"LG 트윈�
 awayRecent: '[{"date":"26.08.11","home":"키움 히어로즈","away":"LG 트윈스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811LGWO02026-2026-08-11-kiwoom-heroes/"},{"date":"26.08.04","home":"SSG 랜더스","away":"LG 트윈스","score":"10-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181936-2026-08-04-ssg-landers/"},{"date":"26.08.02","home":"두산 베어스","away":"LG 트윈스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181931-2026-08-02-doosan-bears/"},{"date":"26.08.01","home":"두산 베어스","away":"LG 트윈스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-181922-2026-08-01-doosan-bears/"},{"date":"26.07.31","home":"두산 베어스","away":"LG 트윈스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181917-2026-07-31-doosan-bears/"}]'
 injuryHome: "하영민 (치료·재활중)|김재웅 (부상)"
 injuryAway: "김윤식 (부상)|장현식 (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 서건창 (2루수)\",\"2번 추재현 (좌익수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (지명타자)\",\"5번 김웅빈 (3루수)\",\"6번 김건희 (포수)\",\"7번 임병욱 (중견수)\",\"8번 박찬혁 (우익수)\",\"9번 권혁빈 (유격수)\"]"
+awayLineup: "[\"1번 홍창기 (우익수)\",\"2번 박해민 (중견수)\",\"3번 오스틴 (1루수)\",\"4번 문보경 (3루수)\",\"5번 문정빈 (지명타자)\",\"6번 송찬의 (좌익수)\",\"7번 오지환 (유격수)\",\"8번 박동원 (포수)\",\"9번 구본혁 (2루수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

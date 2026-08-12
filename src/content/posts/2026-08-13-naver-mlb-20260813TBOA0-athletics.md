@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 �
 awayRecent: '[{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 레이스","score":"6-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"},{"date":"26.08.10","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TBSE0-2026-08-10-seattle-mariners/"},{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TBSE0-2026-08-08-seattle-mariners/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"}]'
 injuryHome: "Denzel Clarke (염좌)|Justin Sterner (통증)|Brooks Kriske (눌린 신경)|Jeffrey Springs (통증)|Joshua Kuroda-Grauer (수술)"
 injuryAway: "Jake Fraley (수술)|Manuel Rodriguez (수술)|Edwin Uceta (염좌)|Cole Sulser (경련)|Shane McClanahan (미상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Perkins (2-8, 7.04) ERA 7.04|https://a.espncdn.com/i/headshots/mlb/players/full/4418686.png\"]"
+awayLineup: "[\"선발투수 D. Rasmussen (11-5, 2.75) ERA 2.75|https://a.espncdn.com/i/headshots/mlb/players/full/42584.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

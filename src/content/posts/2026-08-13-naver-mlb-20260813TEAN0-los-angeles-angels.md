@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"LA 에인절스","away":"텍사스 레�
 awayRecent: '[{"date":"26.08.11","home":"LA 에인절스","away":"텍사스 레인저스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TEAN0-2026-08-11-los-angeles-angels/"},{"date":"26.08.10","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810BATE0-2026-08-10-texas-rangers/"},{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809BATE0-2026-08-09-texas-rangers/"},{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"},{"date":"26.08.04","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179701-2026-08-04-texas-rangers/"}]'
 injuryHome: "Sebastian Rivero (수술)|Yusei Kikuchi (염증)|Sam Bachman (염증)|Shaun Anderson (염증)|Yoan Moncada (수술)"
 injuryAway: "Michael Helman (골절)|Carter Baumler (염좌)|Josh Jung (염좌)|Kyle Higashioka (염좌)|Robert Garcia (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 W. Urena (7-8, 2.83) ERA 2.83|https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png\"]"
+awayLineup: "[\"선발투수 J. deGrom (8-7, 3.87) ERA 3.87|https://a.espncdn.com/i/headshots/mlb/players/full/32796.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

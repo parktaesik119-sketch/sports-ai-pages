@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"},{"date":"26.08.11","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811NMAT0-2026-08-11-atlanta-braves/"},{"date":"26.08.10","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"1-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810NMPI0-2026-08-10-pittsburgh-pirates/"},{"date":"26.08.09","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809NMPI0-2026-08-09-pittsburgh-pirates/"},{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808NMPI0-2026-08-08-pittsburgh-pirates/"}]'
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Schwellenbach (수술)|Spencer Strider (염증)"
 injuryAway: "Austin Warren (근육 손상)|Justin Hagenman (골절)|Devin Williams (근육 손상)|Mark Vientos (골절)|Cionel Perez (근육 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Mahle (3-9, 4.83) ERA 4.83|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
+awayLineup: "[\"선발투수 Z. Thornton (3-2, 2.52) ERA 2.52|https://a.espncdn.com/i/headshots/mlb/players/full/5129576.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"토론토 블루제이즈","away":"보�
 awayRecent: '[{"date":"26.08.11","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811BOTO0-2026-08-11-toronto-blue-jays/"},{"date":"26.08.10","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810OABO0-2026-08-10-boston-red-sox/"},{"date":"26.08.09","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809OABO0-2026-08-09-boston-red-sox/"},{"date":"26.08.08","home":"보스턴 레드삭스","away":"애슬레틱스","score":"13-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808OABO0-2026-08-08-boston-red-sox/"},{"date":"26.08.07","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"12-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807CWBO0-2026-08-07-boston-red-sox/"}]'
 injuryHome: "Kazuma Okamoto (경미한 부상)|Lenyn Sosa (타박상)|Joe Mantiply (수술)|Spencer Arrighetti (통증)|Jonatan Clase (족저근막염)"
 injuryAway: "Johan Oviedo (염좌)|Trevor Story (수술)|Isiah Kiner-Falefa (염증)|Roman Anthony (염좌)|Tanner Houck (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Soriano (9-6, 3.24) ERA 3.24|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
+awayLineup: "[\"선발투수 R. Suarez (4-3, 3.32) ERA 3.32|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

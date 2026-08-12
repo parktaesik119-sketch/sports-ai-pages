@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.10","home":"시카고 화이트삭스","away":"클�
 awayRecent: '[{"date":"26.08.10","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CIMO0-2026-08-10-washington-nationals/"},{"date":"26.08.09","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CIMO0-2026-08-09-washington-nationals/"},{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808CIMO0-2026-08-08-washington-nationals/"},{"date":"26.08.07","home":"신시내티 레즈","away":"애슬레틱스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807OACI0-2026-08-07-cincinnati-reds/"},{"date":"26.08.06","home":"신시내티 레즈","away":"애슬레틱스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179733-2026-08-06-cincinnati-reds/"}]'
 injuryHome: "Chase Meidroth (통증)|Jordan Leasure (좌상)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (좌상)"
 injuryAway: "Brandon Williamson (통증)|Graham Ashcraft (염좌)|Tony Santillan (좌상)|Spencer Steer (염좌)|Blake Dunn (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Castillo (3-9, 5.30) ERA 5.30|https://a.espncdn.com/i/headshots/mlb/players/full/35124.png\"]"
+awayLineup: "[\"선발투수 R. Lowder (4-7, 5.26) ERA 5.26|https://a.espncdn.com/i/headshots/mlb/players/full/4758873.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
