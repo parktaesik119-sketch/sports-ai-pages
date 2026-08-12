@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"두산 베어스","away":"한화 이글
 awayRecent: '[{"date":"26.08.11","home":"두산 베어스","away":"한화 이글스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811HHOB02026-2026-08-11-doosan-bears/"},{"date":"26.08.04","home":"삼성 라이온스","away":"한화 이글스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181935-2026-08-04-samsung-lions/"},{"date":"26.08.02","home":"KT 위즈","away":"한화 이글스","score":"12-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181929-2026-08-02-kt-wiz-suwon/"},{"date":"26.08.01","home":"KT 위즈","away":"한화 이글스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181924-2026-08-01-kt-wiz-suwon/"},{"date":"26.07.31","home":"KT 위즈","away":"한화 이글스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181921-2026-07-31-kt-wiz-suwon/"}]'
 injuryHome: "없음"
 injuryAway: "오재원 (부상)"
-homeLineup: "[\"1번 김대한 (우익수)\",\"2번 박지훈 (1루수)\",\"3번 박준순 (2루수)\",\"4번 양의지 (지명타자)\",\"5번 김민석 (좌익수)\",\"6번 안재석 (3루수)\",\"7번 박찬호 (유격수)\",\"8번 윤준호 (포수)\",\"9번 조수행 (중견수)\"]"
-awayLineup: "[\"1번 이원석 (중견수)\",\"2번 페라자 (우익수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 채은성 (1루수)\",\"7번 허인서 (포수)\",\"8번 이도윤 (2루수)\",\"9번 심우준 (유격수)\"]"
+homeLineup: "[\"1번 김대한 (우익수)\",\"2번 안재석 (3루수)\",\"3번 박준순 (2루수)\",\"4번 양의지 (포수)\",\"5번 김민석 (좌익수)\",\"6번 박지훈 (1루수)\",\"7번 세베리노 (지명타자)\",\"8번 박찬호 (유격수)\",\"9번 정수빈 (중견수)\"]"
+awayLineup: "[\"1번 이진영 (중견수)\",\"2번 페라자 (우익수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 채은성 (1루수)\",\"7번 허인서 (포수)\",\"8번 이도윤 (2루수)\",\"9번 심우준 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
