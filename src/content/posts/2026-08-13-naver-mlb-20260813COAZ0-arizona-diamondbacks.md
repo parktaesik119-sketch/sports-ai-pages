@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.11","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Geraldo Perdomo (타박상)|Merrill Kelly (경련)|Jordan Lawlar (염좌)|Justin Martinez (수술)|Lourdes Gurriel Jr. (염좌)"
 injuryAway: "Jaden Hill (건염)|Tyler Freeman (없음)|McCade Brown (염증)|Jeff Criswell (염좌)|Jose Quintana (염좌)"
 homeLineup: "[\"선발투수 M. Kelly (8-9, 4.88) ERA 4.88|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
-awayLineup: "[\"선발투수 R. Feltner (4-6, 5.71) ERA 5.71|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
+awayLineup: "[\"선발투수 R. Feltner (4-6, 5.71) ERA 5.71|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\",\"1번 J. McCarthy (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 C. Carrigg (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"3번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"4번 H. Goodman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"5번 M. Moniak (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"6번 W. Castro (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"7번 Z. Veen (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717903.png\",\"8번 C. Norby (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4417606.png\",\"9번 B. Sullivan (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39913.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
