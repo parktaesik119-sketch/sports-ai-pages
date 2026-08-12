@@ -853,6 +853,7 @@ const TEAM_NAME_MAP = {
   "Hapoel Tel Aviv": "하포엘 텔아비브",
   "Olympiacos": "올림피아코스",
   "Iberia 1999": "사부르탈로",
+  "PAOK Thessaloniki": "PAOK",
 
   //네덜란드
   "Telstar": "텔스타",
