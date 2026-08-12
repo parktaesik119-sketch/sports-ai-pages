@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.12","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Riley Greene (경미한 통증)|Kerry Carpenter (족저근막염)|Brant Hurter (염증)|Enmanuel De Jesus (미상)|Parker Meadows (수술)"
 injuryAway: "Slade Cecconi (통증)|Shawn Armstrong (염좌)"
 homeLineup: "[\"선발투수 F. Valdez (7-7, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/36581.png\"]"
-awayLineup: "[\"선발투수 F. Griffin (12-4, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (12-4, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\",\"1번 S. Kwan (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\",\"2번 C. DeLauter (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png\",\"3번 J. Ramirez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/32801.png\",\"4번 J. Adell (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"5번 A. Martinez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42497.png\",\"6번 R. Hoskins (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35291.png\",\"7번 A. Genao (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5204351.png\",\"8번 A. Hedges (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32168.png\",\"9번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
