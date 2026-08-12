@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | MLB - 픽천국"
+date: 2026-08-12T19:45:00.000Z
+description: "샌프란시스코 자이언츠 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260813HOSF0-2026-08-13-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 68경기에서 29승 38패 1무, 평균 득점 4.4를 기록하고 있어 전반적인 흐름이 기대에 못 미치고 있습니다. 최근에는 득점 기복이 커졌고, 특히 대량 실점이 겹친 경기가 이어지며 수비 안정감이 흔들리는 모습이 보입니다. 홈에서는 일정한 생산력을 보일 때도 있지만, 공격이 막히는 경기에서는 흐름이 급격히 꺾이는 편이라 득점 편차가 큽니다. 다만 특정 경기에서는 타선이 한 번에 살아나는 장면도 있어, 초반에 점수를 내면 경기 운영이 훨씬 수월해지는 특징이 있습니다. 제임스 로드리게스와 마르셀로 메이어의 이탈은 포지션 운용과 공격 연결성에 부담으로 작용하고 있습니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 최근 73경기에서 41승 31패 1무, 평균 득점 4.5로 홈팀보다 안정적인 시즌 전력을 보여주고 있습니다. 최근에는 패배가 몇 차례 있었지만, 그 사이에도 장타와 응집력이 살아 있는 경기들이 이어지며 반등 여지를 충분히 유지하고 있습니다. 원정에서도 득점 흐름이 크게 꺾이지 않는 편이라, 경기 중반 이후 점수를 따라가거나 앞서 나가는 운영에 강점이 있습니다. 현재 리그순위 5위에 걸맞게 전반적인 균형이 좋고, 득실 차도 홈팀보다 덜 불안해 전력 우위가 분명합니다. 카를로스 코레아와 브라이스 매튜스의 공백은 아쉽지만, 팀 전체 흐름을 뒤흔들 정도로는 보이지 않습니다."
+homePower: "최근 실점 확대가 경기 주도권 상실로 이어짐|득점 편차 커서 선취점 중요도 높음|상위권 상대에서 타선 응집력 저하가 확인됨|홈 이점보다 경기 초반 안정감이 더 큰 변수임|장기 결장자 누적으로 전력 깊이 얕아짐"
+awayPower: "최근 원정 득점 유지력은 비교적 안정적임|패배 뒤에도 빠르게 반등하는 응집력 보임|득실 차가 덜 나빠 경기 운영 완성도 높음|주축 이탈 있어도 대체 자원 활용이 가능함|상위 리그순위에 맞는 균형 잡힌 전력으로 평가됨"
+h2h: '[{"date":"26.08.11","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"3-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811HOSF0-2026-08-11-san-francisco-giants/"}]'
+summary: "휴스턴 애스트로스는 2026시즌 리그순위 5위, 61승 59패 1무의 전력으로 샌프란시스코 자이언츠보다 한 단계 분명한 우위를 보이고 있습니다. 자이언츠는 49승 70패 1무, 득실도 더 불리해 최근 흐름과 시즌 전체 흐름이 함께 무거운 편입니다. 최근 맞대결에서도 휴스턴 애스트로스가 먼저 우세를 잡았고, 득점과 실점 균형에서도 더 안정적인 모습이라 이번 경기에서도 원정팀이 흐름을 이어갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.11","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811HOSF0-2026-08-11-san-francisco-giants/"},{"date":"26.08.10","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810DESF0-2026-08-10-san-francisco-giants/"},{"date":"26.08.09","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809DESF0-2026-08-09-san-francisco-giants/"},{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"},{"date":"26.08.04","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179701-2026-08-04-texas-rangers/"}]'
+awayRecent: '[{"date":"26.08.11","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811HOSF0-2026-08-11-san-francisco-giants/"},{"date":"26.08.10","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810HOSD0-2026-08-10-san-diego-padres/"},{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.06","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179724-2026-08-06-houston-astros/"},{"date":"26.08.04","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179704-2026-08-04-houston-astros/"}]'
+injuryHome: "Jesus Rodriguez (핀치드 신경)|Joel Peguero (염좌)|Marcelo Mayer (골절)|Matt Gage (염좌)|Daniel Susac (골절)"
+injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 애스트로스"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 애스트로스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

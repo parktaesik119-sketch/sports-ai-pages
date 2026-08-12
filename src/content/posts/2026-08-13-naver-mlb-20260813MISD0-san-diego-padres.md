@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 밀워키 브루어스 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | MLB - 픽천국"
+date: 2026-08-12T20:10:00.000Z
+description: "샌디에이고 파드리스 vs 밀워키 브루어스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 최근 73경기에서 36승 36패 1무, 승률 .500에 가까운 균형 속에서도 평균 득점 4.2를 기록하며 전체 전력은 중상위권 흐름을 보이고 있습니다. 최근 10경기에서는 7승 3패로 상승세가 뚜렷하고, 평균 득점도 4.5로 올라가면서 타선의 응집력이 살아난 모습입니다. 특히 홈에서는 밀워키 브루어스를 상대로 3-2 승리를 포함해 상위권 팀을 연이어 잡아내며 중요한 경기에서 집중력이 돋보입니다. 다만 시즌 전체 기준 득실이 -9.0으로 아주 안정적인 수비 운영까지는 아니어서, 실점 억제력은 경기별 편차가 남아 있습니다. 그럼에도 최근 흐름에서 장타와 득점 연결이 좋아졌고, 홈에서의 경기 운영이 살아나고 있어 주도권을 잡을 가능성이 충분히 보입니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 최근 82경기에서 50승 31패 1무, 승률 .622로 리그순위 1위에 올라 있으며 평균 득점 4.5를 유지해 온 전력입니다. 최근 9경기에서는 5승 4패로 완만하게 흔들리는 구간이 있었지만, 강한 시즌 누적 전력 자체는 여전히 상위권답습니다. 다만 최근 경기에서는 득점이 3점대 중반으로 내려오는 날이 늘어 공격의 폭발력이 다소 둔화된 모습입니다. 시즌 득실이 +140.0으로 매우 크다는 점은 마운드와 타선의 균형이 뛰어났음을 보여주지만, 최근에는 원정에서 수비 안정감과 결정력이 예전만 못한 장면도 있습니다. 일부 주전 결장까지 겹치면서 전체적인 강세는 유지하되, 경기 후반 접전에서는 예전만큼의 압도감이 덜해 보입니다."
+homePower: "최근 상위권 상대를 연달아 제압하며 집중력 상승이 확인됨|홈 경기에서 타선 연결이 좋아져 초반 주도권 확보에 강점 있음|시즌 득실은 마이너스지만 최근에는 실점 관리가 나아짐|결장 공백이 있어도 대체 자원이 흐름을 끊지 않고 있음|접전에서도 마무리 집중력이 살아나며 상승세가 이어지는 중임"
+awayPower: "리그순위 1위다운 누적 완성도는 여전히 검증됨|득실 우위가 매우 커 경기 전반 설계가 안정적임|최근 득점 하락으로 폭발력은 다소 둔화된 상태임|주요 결장으로 외야와 불펜 운용의 여유가 줄어든 모습임|원정 접전에서는 압도보다 관리형 운영이 필요해 보임"
+h2h: '[{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.05.15","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"7-1"},{"date":"26.05.14","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-178632-2026-05-13-milwaukee-brewers/"},{"date":"26.05.13","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"6-4","link":"https://pick79.com/posts/detail/analyze-178632-2026-05-13-milwaukee-brewers/"}]'
+summary: "샌디에이고 파드리스는 최근 흐름이 뚜렷하게 올라와 있고, 홈에서는 상위권 상대로도 경기 후반 집중력이 잘 유지되고 있습니다. 밀워키 브루어스는 리그순위 1위에 걸맞은 누적 전력을 갖추고 있지만, 최근에는 득점 생산이 조금 둔해졌고 주요 결장 여파도 함께 보입니다. 상대전적에서도 두 팀은 2승 2패로 팽팽하게 맞서고 있어 한쪽이 일방적으로 밀어붙이는 구도는 아닙니다. 전체 전력의 무게는 밀워키 브루어스가 앞서지만, 최근 상승세와 홈 이점까지 더하면 샌디에이고 파드리스가 근소 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.08.10","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810HOSD0-2026-08-10-san-diego-padres/"},{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.07","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807SDAZ0-2026-08-07-arizona-diamondbacks/"},{"date":"26.08.06","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179736-2026-08-06-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.08.10","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810MNMI0-2026-08-10-milwaukee-brewers/"},{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808MNMI0-2026-08-08-milwaukee-brewers/"},{"date":"26.08.07","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807PIMI0-2026-08-07-milwaukee-brewers/"},{"date":"26.08.06","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179728-2026-08-06-milwaukee-brewers/"}]'
+injuryHome: "David Morgan (염증)|Samad Taylor (염좌)|Joe Musgrove (염증)|Miguel Andujar (골절)|Lucas Giolito (염증)"
+injuryAway: "Joel Kuhnel (건염)|Joey Ortiz (명시되지 않음)|Sal Frelick (염좌)|Rob Zastryzny (염좌)|Cooper Pratt (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

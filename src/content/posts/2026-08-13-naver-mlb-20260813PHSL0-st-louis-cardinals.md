@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | MLB - 픽천국"
+date: 2026-08-12T18:15:00.000Z
+description: "세인트루이스 카디널스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 76경기에서 32승 1무 43패, 승률 .427에 평균 득점 4.1로 시즌 전반의 기복이 분명한 편입니다. 최근에는 홈과 원정을 오가며 승패가 번갈아 나오는 흐름이 이어지고 있어, 공격은 완전히 막히지는 않지만 경기마다 득점 편차가 큰 모습이 보입니다. 특히 최근 10경기에서도 4승 6패로 밀리며, 수비 쪽에서 실점 관리가 흔들릴 때 경기 흐름을 놓치는 장면이 적지 않습니다. 그래도 뉴욕 양키스전과 토론토 블루제이스전에서 보여준 것처럼 한 번 타선이 터지면 강한 상대에게도 반격할 수 있는 응집력은 분명합니다. 홈에서는 상대 압박을 버티며 반등을 노릴 수 있는 팀이지만, 안정적인 마무리와 실점 억제가 함께 따라와야 경쟁력이 살아날 것으로 보입니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 최근 86경기에서 46승 2무 38패, 승률 .548에 평균 득점 4.6으로 세인트루이스 카디널스보다 한 단계 위의 전력을 보여주고 있습니다. 최근 10경기에서도 7승 3패, 평균 득점 5.7로 타선 흐름이 뚜렷하게 살아나 있으며, 득점 생산이 안정적으로 이어지는 점이 강점입니다. 다만 워싱턴 내셔널스전과 토론토 블루제이스전에서 실점이 크게 늘어난 경기도 있어, 공격은 좋지만 수비 집중력이 흔들릴 때 변수가 생기는 모습입니다. 원정에서도 대량 득점과 다득점 승부를 만들 수 있는 힘이 있어서, 경기 주도권을 잡는 능력은 충분히 검증되어 있습니다. 현재 리그순위 6위라는 위치에 비해 최근 흐름은 상당히 좋고, 상승세를 이어가려는 동력이 분명한 팀으로 보입니다."
+homePower: "타선이 폭발할 때는 상위권 상대도 흔들 수 있는 잠재력 보임|경기별 득점 편차가 커서 안정감은 과제로 남아 있음|실점이 늘어나는 이닝에서 흐름을 내주는 장면이 잦음|홈에서는 초반 득점 시 경기 운영이 훨씬 수월해지는 편임|주요 결장 공백이 장기전 뎁스에 부담으로 작용할 가능성 있음"
+awayPower: "최근 득점 생산이 살아나며 공격 템포가 매끄러움|상대 수비가 흔들릴 때 장타와 연결타로 확실히 벌림|원정에서도 득점 기대치가 크게 떨어지지 않는 편임|실점이 많아지는 경기에서도 화력으로 만회하는 힘이 있음|장기 결장 여파에도 상위권 전력 유지가 검증됨"
+h2h: '[{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"}]'
+summary: "필라델피아 필리스는 2026시즌 성적과 최근 흐름을 함께 보면 세인트루이스 카디널스보다 한 수 위의 전력을 보여주고 있습니다. 세인트루이스 카디널스는 시즌 승률과 득실에서 밀려 있고 최근에도 실점 억제가 흔들리는 반면, 필라델피아 필리스는 더 높은 승률과 플러스 득실을 바탕으로 공격 흐름까지 살아나 있습니다. 최근 맞대결에서도 필라델피아 필리스가 한 점 차 승리를 가져가며 상성 면에서도 우위를 확인한 만큼, 경기 운영과 득점 응집력에서 원정팀 쪽 기대가 더 큽니다. 세인트루이스 카디널스가 홈에서 반등 여지를 보일 수는 있지만, 전체적인 전력 균형과 최근 타선 흐름을 감안하면 필라델피아 필리스가 우세를 이어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"},{"date":"26.08.10","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810COSL0-2026-08-10-st-louis-cardinals/"},{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809COSL0-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179727-2026-08-06-new-york-yankees/"},{"date":"26.08.05","home":"뉴욕 양키즈","away":"세인트루이스 카디널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179713-2026-08-05-new-york-yankees/"}]'
+awayRecent: '[{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"},{"date":"26.08.10","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TOPH0-2026-08-10-philadelphia-phillies/"},{"date":"26.08.09","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809TOPH0-2026-08-09-philadelphia-phillies/"},{"date":"26.08.08","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TOPH0-2026-08-08-philadelphia-phillies/"},{"date":"26.08.07","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MOPH0-2026-08-07-philadelphia-phillies/"}]'
+injuryHome: "Ramon Urias (건염)|Max Rajcic (수술)"
+injuryAway: "Rafael Marchan (건염)|Caleb Kilian (긴장)|Tanner Banks (긴장)|Johan Rojas (수술)|Adolis Garcia (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

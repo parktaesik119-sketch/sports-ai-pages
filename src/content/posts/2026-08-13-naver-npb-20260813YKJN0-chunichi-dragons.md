@@ -1,0 +1,37 @@
+---
+title: "주니치 드래곤스 vs 요코하마 DeNA 베이스타스 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | NPB - 픽천국"
+date: 2026-08-13T09:00:00.000Z
+description: "주니치 드래곤스 vs 요코하마 DeNA 베이스타스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260813YKJN0-2026-08-13-chunichi-dragons"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "주니치 드래곤스"
+awayTeam: "요코하마 DeNA 베이스타스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/JN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/YK.png"
+homeAnalysis: "주니치 드래곤스는 2026시즌 최근 79경기에서 40승 39패, 평균 득점 3.6으로 승패 균형을 맞추며 버티는 전력이 돋보입니다. 최근 흐름을 보면 10경기에서 7승 3패, 평균 득점 3.9로 타선의 응집력이 조금 더 살아났고, 특히 홈에서는 실점 관리가 잘 되면서 접전 운영이 안정적으로 이어지고 있습니다. 직전 요코하마 DeNA 베이스타스전 5득점도 흐름 면에서 긍정적이며, 강한 상대를 상대로도 필요한 순간 점수를 내는 힘이 확인되고 있습니다. 다만 득점이 폭발적으로 이어지는 팀은 아니어서, 마운드와 수비가 흔들리지 않는 날에 승부가 더 선명해지는 편입니다. Hideaki Wakui가 선발로 나서는 점도 경기 초반 안정감 측면에서 주목할 만합니다."
+awayAnalysis: "요코하마 DeNA 베이스타스는 2026시즌 최근 78경기에서 33승 2무 43패, 평균 득점 3.9로 공격 생산성은 나쁘지 않지만 전반 전력의 기복이 남아 있습니다. 최근 10경기에서는 7승 3패로 상승 흐름을 만들었고, 특히 다득점 경기와 저실점 경기를 번갈아 만들어내며 경기 내용의 폭은 넓은 편입니다. 다만 원정에서는 실점이 늘어나는 구간이 종종 보여, 타선이 먼저 풀리지 않으면 흐름이 쉽게 기울 수 있습니다. 최근 주니치 드래곤스와의 맞대결에서도 주고받는 양상이 반복되어 상성 자체는 팽팽하지만, 마무리 단계에서 흔들리는 장면이 눈에 띕니다. Katsuki Azuma가 버텨 주면 경쟁력이 높아지겠지만, 초반 제구와 장타 허용 억제가 관건으로 보입니다."
+homePower: "주니치 드래곤스|접전에서 흔들림 적은 운영력 보임|홈에서 실점 억제 흐름이 안정적임|상대전에서 한 점 승부 적응력 검증됨|Wakui 선발 시 초반 실점 관리 기대됨|타선은 폭발형보다 집중형으로 보임"
+awayPower: "요코하마 DeNA 베이스타스|득점력은 유지되나 기복이 함께 존재함|상위권 타선 응답력은 분명히 확인됨|다득점 뒤 실점 급증하는 장면이 변수임|원정에서 경기 흐름 급변 가능성 보임|Azuma가 길게 버티면 경쟁력 커짐"
+h2h: '[{"date":"26.08.11","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811YKJN0-2026-08-11-chunichi-dragons/"},{"date":"26.07.26","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"5-1","link":"https://pick79.com/posts/detail/analyze-181184-2026-07-26-chunichi-dragons/"},{"date":"26.07.25","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"0-5","link":"https://pick79.com/posts/detail/analyze-181173-2026-07-25-chunichi-dragons/"},{"date":"26.07.24","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-181172-2026-07-24-chunichi-dragons/"},{"date":"26.07.09","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-181097-2026-07-09-yokohama-baystars/"}]'
+summary: "주니치 드래곤스는 시즌 전체 전력에서 승패 균형이 좋고, 최근 흐름까지 더하면 경기 운영의 안정감이 한층 살아난 모습입니다. 요코하마 DeNA 베이스타스는 득점력 자체는 갖추고 있지만, 원정에서 실점 관리가 흔들릴 때가 있어 주도권을 끝까지 지키는 힘에서는 아쉬움이 남습니다. 상대전적에서도 주니치 드래곤스가 최근 우세 흐름을 이어가고 있어, 선발과 초반 수비가 맞물리면 홈팀 쪽이 한 박자 더 앞설 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.11","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811YKJN0-2026-08-11-chunichi-dragons/"},{"date":"26.08.09","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809JNHS0-2026-08-09-hanshin-tigers/"},{"date":"26.08.08","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808JNHS0-2026-08-08-hanshin-tigers/"},{"date":"26.08.07","home":"한신 타이거스","away":"주니치 드래곤스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807JNHS0-2026-08-07-hanshin-tigers/"},{"date":"26.08.06","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181218-2026-08-06-chunichi-dragons/"}]'
+awayRecent: '[{"date":"26.08.11","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811YKJN0-2026-08-11-chunichi-dragons/"},{"date":"26.08.09","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809HIYK0-2026-08-09-yokohama-baystars/"},{"date":"26.08.08","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808HIYK0-2026-08-08-yokohama-baystars/"},{"date":"26.08.07","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807HIYK0-2026-08-07-yokohama-baystars/"},{"date":"26.08.06","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181216-2026-08-06-yokohama-baystars/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "주니치 드래곤스"
+pickWinResult: "승"
+pickHandicapTeam: "주니치 드래곤스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "6.5"
+pickOuDirection: "오버"
+---

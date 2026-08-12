@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 브레이브스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | MLB - 픽천국"
+date: 2026-08-12T23:15:00.000Z
+description: "애틀랜타 브레이브스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260813NMAT0-2026-08-13-atlanta-braves"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애틀랜타 브레이브스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 83경기 46승 2무 35패, 평균 득점 4.5를 기록하며 상위권 전력을 유지하고 있습니다. 최근에는 뉴욕 메츠전 승리와 함께 뉴욕 양키스 원정에서도 승리를 챙기며 흐름을 빠르게 되살렸고, 홈에서의 집중력도 안정적으로 이어지고 있습니다. 다만 2026시즌 결장자에 스펜서 스트라이더와 스펜서 슐렌바흐 같은 핵심 투수들이 포함되어 있어 마운드 운영은 분명 부담이 있습니다. 그럼에도 최근 득점 흐름이 살아 있고, 홈에서는 초반부터 공격적으로 점수를 쌓는 장면이 자주 보여 타선의 응집력이 돋보입니다. 수비 쪽에서는 실점을 완전히 억제하는 유형은 아니지만, 경기 후반 접전에서 버티는 힘이 있는 편이라 최근처럼 공격이 받쳐주면 충분히 우세를 기대할 수 있습니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 최근 81경기 37승 1무 43패, 평균 득점 4.4로 시즌 전반의 손실을 안고 출발한 전력입니다. 다만 최근 10경기에서는 평균 득점 5.2를 기록하며 공격 감각이 분명히 올라와 있고, 피츠버그와 클리블랜드를 상대로도 득점 폭발을 보여 반등 조짐이 나타나고 있습니다. 대신 시즌 전체 기준으로는 리그순위 13위, 득실이 마이너스 44로 수비와 마운드에서 불안이 남아 있습니다. 여기에 데빈 윌리엄스와 마크 비엔토스 같은 주요 결장자가 겹쳐 중심축이 다소 약해진 점도 부담스럽습니다. 최근 타선은 힘이 있지만, 실점 억제력은 아직 기복이 있어 강한 상대를 상대로는 흐름이 쉽게 흔들릴 수 있습니다."
+homePower: "스펜서 스트라이더 이탈로 선발층 깊이 약화됨|홈에서는 초반 득점으로 경기 주도권 잡는 경향 뚜렷함|메츠전 상성은 팽팽하지만 홈 우세로 균형 기울 수 있음|타선 응집력은 좋으나 마운드 공백이 변수로 남음|상위권 유지에도 결장 누적이 후반 운영 부담으로 작용함"
+awayPower: "최근 타선 폭발력은 살아나며 득점 상한이 높아짐|데빈 윌리엄스 이탈로 불펜 안정감 저하가 보임|마크 비엔토스 공백으로 중심 타선 압박 분산됨|득실 마이너스 구조로 실점 관리가 핵심 약점임|강한 공격전 상대에선 장타 의존도가 높아지는 흐름임"
+h2h: '[{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"},{"date":"26.08.11","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"5-8","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811NMAT0-2026-08-11-atlanta-braves/"},{"date":"26.07.30","home":"뉴욕 메츠","away":"애틀랜타 브레이브스","score":"0-1","link":"https://pick79.com/posts/detail/analyze-179616-2026-07-30-new-york-mets/"},{"date":"26.07.30","home":"뉴욕 메츠","away":"애틀랜타 브레이브스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179616-2026-07-30-new-york-mets/"},{"date":"26.07.29","home":"뉴욕 메츠","away":"애틀랜타 브레이브스","score":"0-0","link":"https://pick79.com/posts/detail/analyze-179616-2026-07-29-new-york-mets/"}]'
+summary: "애틀랜타 브레이브스는 시즌 전체 전력과 리그순위에서 분명한 우위를 보이고 있고, 뉴욕 메츠는 순위는 낮지만 최근 타격감이 살아나며 쉽게 눌리지 않는 흐름을 만들고 있습니다. 다만 시즌 전체 득실과 결장자 구성을 함께 보면 브레이브스는 마운드 공백이 부담이고, 메츠는 공격은 올라오지만 수비와 불펜의 불안이 여전히 남아 있습니다. 상대전적에서는 메츠가 근소하게 앞서는 흐름이지만, 이번 경기는 브레이브스의 홈 강점과 메츠의 최근 공격 상승세가 맞부딪히는 구도라서 접전 양상 속에서도 원정팀 쪽이 조금 더 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"},{"date":"26.08.11","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811NMAT0-2026-08-11-atlanta-braves/"},{"date":"26.08.10","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ATNY0-2026-08-10-new-york-yankees/"},{"date":"26.08.09","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809ATNY0-2026-08-09-new-york-yankees/"},{"date":"26.08.08","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808ATNY0-2026-08-08-new-york-yankees/"}]'
+awayRecent: '[{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"},{"date":"26.08.11","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811NMAT0-2026-08-11-atlanta-braves/"},{"date":"26.08.10","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"1-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810NMPI0-2026-08-10-pittsburgh-pirates/"},{"date":"26.08.09","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809NMPI0-2026-08-09-pittsburgh-pirates/"},{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808NMPI0-2026-08-08-pittsburgh-pirates/"}]'
+injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Schwellenbach (수술)|Spencer Strider (염증)"
+injuryAway: "Austin Warren (근육 손상)|Justin Hagenman (골절)|Devin Williams (근육 손상)|Mark Vientos (골절)|Cionel Perez (근육 손상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

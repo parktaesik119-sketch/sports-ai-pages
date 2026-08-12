@@ -1,0 +1,37 @@
+---
+title: "애슬레틱스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | MLB - 픽천국"
+date: 2026-08-12T19:05:00.000Z
+description: "애슬레틱스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260813TBOA0-2026-08-13-athletics"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애슬레틱스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "애슬레틱스는 2026시즌 최근 73경기에서 26승 1무 46패, 평균 득점 4.3을 기록하고 있어 전체적으로는 하위권 전력입니다. 최근 10경기에서도 2승 8패로 흐름이 무겁고, 득점 기복이 커서 경기 초반에 밀리면 따라붙는 힘이 떨어지는 모습입니다. 다만 보스턴 원정에서 7득점과 4득점을 기록한 경기도 있어 타선이 완전히 침묵하는 편은 아니며, 한 번 살아나면 득점 생산이 가능하다는 점은 보입니다. 반면 실점 억제력은 흔들림이 큰 편이라 큰 점수 차 패배가 반복되고 있고, 홈에서도 안정감이 충분하지 않습니다. 제프리 스프링스와 덴젤 클라크의 공백은 전력 운영에 부담이 될 수 있어서, 공격에서 먼저 흐름을 잡아야만 승부를 풀어갈 가능성이 높아 보입니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 최근 84경기에서 50승 4무 30패, 평균 득점 4.3으로 리그순위 1위에 올라 있는 탄탄한 전력입니다. 최근 10경기 역시 8승 2패로 매우 좋고, 시애틀 원정과 콜로라도 원정에서 연이어 승리를 쌓으면서 원정 운영 능력도 분명하게 보여주고 있습니다. 득점은 꾸준하고 실점은 비교적 잘 억제되는 흐름이라, 화려한 폭발력보다도 경기 전체를 안정적으로 관리하는 장점이 돋보입니다. 다만 장기 결장자가 여러 명이라 마운드 뎁스는 완전하지 않지만, 최근에는 그 공백을 결과로 크게 드러내지 않고 있습니다. 현재 흐름을 보면 경기 주도권을 먼저 잡고 상대 실수를 압박하는 방식이 특히 잘 맞고 있습니다."
+homePower: "최근 실점 폭이 커져 접전 유지가 어려움|상위권 상대에도 타선이 한 번씩 살아남|홈 이점보다 마운드 불안이 더 크게 작용함|제프리 스프링스 공백이 선발 운영에 부담임|길게 끌면 불리한 구조가 반복되는 모습임"
+awayPower: "최근 10경기 8승으로 상승 흐름이 뚜렷함|원정에서도 득점이 끊기지 않는 안정감임|실점 관리가 좋아 경기 운영 완성도가 높음|장기 결장자에도 흔들림이 적은 전력임|상대 약점을 오래 기다리지 않고 공략하는 힘이 검증됨"
+h2h: '[{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 레이스","score":"6-10","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"}]'
+summary: "탬파베이 레이스는 현재 리그순위 1위답게 시즌 내내 안정적인 득실 관리와 꾸준한 득점을 이어가고 있고, 애슬레틱스는 하위권 순위와 마이너스 득실 격차가 보여주듯 경기 전체의 균형이 불안한 편입니다. 최근 흐름만 봐도 레이스는 상승세를 이어가고 있는 반면 애슬레틱스는 실점 억제가 흔들리며 반등의 폭이 크지 않아 보입니다. 상대전적에서도 레이스가 앞서 있는 만큼, 경기 주도권과 마무리 완성도에서 원정팀이 한층 우세할 가능성이 높습니다. 이번 경기는 애슬레틱스가 타선에서 한 번 저항하더라도, 전체적인 전력 차와 최근 흐름을 감안하면 탬파베이 레이스 쪽으로 무게가 실리는 구도입니다."
+homeRecent: '[{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 레이스","score":"6-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"},{"date":"26.08.10","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810OABO0-2026-08-10-boston-red-sox/"},{"date":"26.08.09","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809OABO0-2026-08-09-boston-red-sox/"},{"date":"26.08.08","home":"보스턴 레드삭스","away":"애슬레틱스","score":"13-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808OABO0-2026-08-08-boston-red-sox/"},{"date":"26.08.07","home":"신시내티 레즈","away":"애슬레틱스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807OACI0-2026-08-07-cincinnati-reds/"}]'
+awayRecent: '[{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 레이스","score":"6-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"},{"date":"26.08.10","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TBSE0-2026-08-10-seattle-mariners/"},{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TBSE0-2026-08-08-seattle-mariners/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"},{"date":"26.08.04","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"9-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179706-2026-08-04-colorado-rockies/"}]'
+injuryHome: "Denzel Clarke (염좌)|Justin Sterner (통증)|Brooks Kriske (눌린 신경)|Jeffrey Springs (통증)|Joshua Kuroda-Grauer (수술)"
+injuryAway: "Jake Fraley (수술)|Manuel Rodriguez (수술)|Edwin Uceta (염좌)|Cole Sulser (경련)|Shane McClanahan (미상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

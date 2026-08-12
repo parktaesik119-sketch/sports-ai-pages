@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 캔자스시티 로열스 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | MLB - 픽천국"
+date: 2026-08-13T02:10:00.000Z
+description: "LA 다저스 vs 캔자스시티 로열스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260813KCLA0-2026-08-13-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "LA 다저스는 2026시즌 최근 73경기에서 45승 28패 승률 .597, 평균 득점 5.1을 기록하고 있어 상위권 전력을 유지하고 있습니다. 다만 최근 10경기에서는 3승 7패로 흐름이 다소 흔들렸고, 직전 10경기 평균 득점도 4.6으로 시즌 평균보다 내려와 있습니다. 그래도 홈에서 공격 전개가 살아날 때는 빠르게 점수를 쌓는 힘이 분명하고, 최근 캔자스시티 로열스전에서도 6득점을 올리며 타선의 응집력을 보여주었습니다. 리그순위 3위에 걸맞게 기본 전력은 높지만, 최근에는 실점 억제보다 타격 기복이 더 크게 보이는 구간입니다. 브록 스튜어트와 블레이크 트레이넨 같은 주요 불펜 자원 이탈은 경기 후반 운영의 무게감을 낮출 수 있어, 초반 득점과 선발 안정감이 특히 중요해 보입니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 최근 80경기에서 37승 39패 승률 .408, 평균 득점 4.3으로 중하위권 흐름을 이어가고 있습니다. 최근 9경기에서도 3승 6패에 그쳤고, 평균 득점은 3.0까지 내려와 있어 타선의 반등 폭이 크지 않은 모습입니다. 그래도 세인트루이스 카디널스와 샌프란시스코 자이언츠를 상대로는 집중력이 살아나는 장면이 있었고, 한 번 흐름을 타면 접전 운영을 버텨내는 힘도 있습니다. 다만 현재 리그순위 13위와 득실 -111은 수비와 실점 억제에서 약점이 뚜렷하다는 점을 보여주고 있습니다. 비니 파스콴티노와 마이켈 가르시아의 이탈은 중심 타선과 연결 고리에 부담을 주는 요소로 보이며, 강한 상대를 만나면 득점 생산이 더 답답해질 수 있습니다."
+homePower: "리그순위 3위답게 기본 전력 우위가 분명함|평균 득점 5.1로 타선 상한선이 높음|최근 흔들림은 불펜 공백의 영향이 큼|홈에서 장타 연결되면 경기 주도권 빠름|상대전 6-5 승리로 접전 마무리 감각 보임"
+awayPower: "리그순위 13위로 전력 격차가 뚜렷함|평균 득점 4.3, 기복 큰 타선 구조임|최근 9경기 3.0득점으로 화력 저하 뚜렷함|득실 -111로 실점 관리 불안이 누적됨|주요 결장자 공백으로 중심 타선 무게감 약함"
+h2h: '[{"date":"26.08.11","home":"LA 다저스","away":"캔자스시티 로열스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811KCLA0-2026-08-11-los-angeles-dodgers/"}]'
+summary: "LA 다저스는 리그순위 3위와 45승 28패의 시즌 전력이 분명한 팀으로, 캔자스시티 로열스의 13위, 37승 39패 전력보다 한 단계 위에 있습니다. 다만 최근 흐름만 보면 다저스는 타격 기복이 있었고, 로열스도 득점 생산이 둔화되어 있어 양 팀 모두 공격의 날카로움이 일정하지는 않습니다. 그래도 다저스는 시즌 평균 득점과 득실에서 우위가 뚜렷하고, 최근 맞대결에서도 한 점 차 승리를 가져가며 접전 대응 능력을 보여주었습니다. 전체적으로는 다저스가 전력과 경기 운영에서 앞서 있고, 로열스는 주요 결장자 공백까지 겹쳐 다시 밀릴 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.11","home":"LA 다저스","away":"캔자스시티 로열스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811KCLA0-2026-08-11-los-angeles-dodgers/"},{"date":"26.08.10","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810LAAZ0-2026-08-10-arizona-diamondbacks/"},{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808LAAZ0-2026-08-08-arizona-diamondbacks/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"},{"date":"26.08.04","home":"시카고 컵스","away":"LA 다저스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179707-2026-08-04-chicago-cubs/"}]'
+awayRecent: '[{"date":"26.08.11","home":"LA 다저스","away":"캔자스시티 로열스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811KCLA0-2026-08-11-los-angeles-dodgers/"},{"date":"26.08.10","home":"캔자스시티 로열스","away":"시카고 컵스","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CCKC0-2026-08-10-kansas-city-royals/"},{"date":"26.08.09","home":"캔자스시티 로열스","away":"시카고 컵스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CCKC0-2026-08-09-kansas-city-royals/"},{"date":"26.08.07","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MNKC0-2026-08-07-kansas-city-royals/"},{"date":"26.08.06","home":"캔자스시티 로열스","away":"미네소타 트윈스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179729-2026-08-06-kansas-city-royals/"}]'
+injuryHome: "Brock Stewart (건염)|Jake Cousins (수술)|Ben Casparius (염증)|Blake Treinen (염증)|Gavin Stone (염증)"
+injuryAway: "Beck Way (경련)|Vinnie Pasquantino (통증)|Maikel Garcia (부상)|Nick Mears (신경 압박)|James McArthur (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

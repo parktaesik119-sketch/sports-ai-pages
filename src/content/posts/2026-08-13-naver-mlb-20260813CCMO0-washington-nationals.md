@@ -1,0 +1,37 @@
+---
+title: "워싱턴 내셔널스 vs 시카고 컵스 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | MLB - 픽천국"
+date: 2026-08-12T22:45:00.000Z
+description: "워싱턴 내셔널스 vs 시카고 컵스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260813CCMO0-2026-08-13-washington-nationals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "워싱턴 내셔널스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+homeAnalysis: "워싱턴 내셔널스는 2026시즌 최근 85경기 44승 2무 39패, 승률 .531에 평균 득점 5.0을 기록하며 전체적으로는 안정적인 공격 전개를 보여주고 있습니다. 최근 10경기에서는 4승 6패로 다소 흔들렸지만, 직전 신시내티 레즈전에서 연속으로 두 자릿수에 가까운 득점을 포함해 7득점, 8득점, 5득점으로 반등 흐름을 만들고 있습니다. 홈에서든 원정에서든 점수를 꾸준히 내는 편이라 타선의 응집력이 강점으로 평가됩니다. 다만 필라델피아 필리스, 애틀랜타 브레이브스처럼 상위 전력 상대로는 실점이 크게 늘어나는 장면도 보여 수비 쪽 안정감은 보완이 필요해 보입니다. 현재 리그순위 10위이지만 득실이 플러스인 점은 전반적인 전력 잠재력이 살아 있다는 뜻으로 읽히며, 홈에서는 이런 공격 생산력을 앞세워 흐름을 다시 끌어올릴 가능성이 있습니다. 제임스 우드의 결장은 타선의 폭발력에 영향을 줄 수 있지만, 최근에는 여러 타자가 고르게 득점을 분담하며 공백을 메우는 모습도 확인되고 있습니다."
+awayAnalysis: "시카고 컵스는 2026시즌 최근 78경기 43승 2무 33패, 승률 .566에 평균 득점 4.9를 기록하며 상위권답게 꾸준한 전력을 유지하고 있습니다. 최근 10경기에서도 6승 4패로 흐름이 나쁘지 않고, 캔자스시티 로열스전 대승처럼 한 번 타선이 풀리면 경기를 넓게 가져가는 힘이 돋보입니다. 득점력은 안정적인 편이지만, 뉴욕 양키스전처럼 팽팽한 경기에서는 한 점 차 승부가 반복되며 타선의 집중력이 승부를 가르는 모습이 보입니다. 현재 리그순위 4위와 +107 득실은 마운드와 타선의 균형이 우수하다는 뜻이며, 특히 실점 억제력이 상위권 경쟁력의 핵심으로 평가됩니다. 다만 최근에는 대량 득점 뒤 바로 접전으로 내려오는 장면도 있어 경기별 편차가 남아 있고, 불펜 결장 이슈는 후반 운영의 변수가 될 수 있습니다. 그래도 전반적으로는 공격과 수비의 균형이 잘 잡힌 팀으로 보입니다."
+homePower: "최근 85경기 플러스 득실로 공격 효율이 검증됨|상위권 팀 상대 실점 증가, 수비 압박은 변수임|최근 연속 득점 경기로 초반 흐름 장악 능력 보임|제임스 우드 공백에도 타선 분산 생산력 유지 중임|홈에서 공격 템포 살리면 접전도 밀리지 않는 구조임"
+awayPower: "최근 78경기 기준 승률이 뒷받침하는 안정감임|득실 차이 크고 실점 억제력이 강점으로 보임|대승과 접전 승리를 함께 만드는 운영력 검증됨|불펜 결장은 후반 리드 관리에 부담 요소임|한 점 차 경기에서도 버티는 집중력이 돋보임"
+h2h: '[{"date":"26.03.30","home":"시카고 컵스","away":"워싱턴 내셔널스","score":"3-6"},{"date":"26.03.29","home":"시카고 컵스","away":"워싱턴 내셔널스","score":"10-2"},{"date":"26.03.27","home":"시카고 컵스","away":"워싱턴 내셔널스","score":"4-10"}]'
+summary: "워싱턴 내셔널스는 시즌 전체 전력에서 득점 생산이 꾸준하고, 최근에도 연속 다득점 경기를 통해 타선의 살아난 흐름을 보여주고 있습니다. 시카고 컵스는 리그순위와 득실 면에서 더 안정적인 상위 전력을 갖고 있지만, 최근 맞대결에서는 워싱턴 내셔널스가 우세를 점하며 상성상 밀리지 않는 모습을 확인했습니다. 두 팀을 비교하면 컵스가 전체 균형에서는 앞서지만, 워싱턴 내셔널스가 홈에서 공격 리듬을 살릴 경우 충분히 주도권을 가져올 수 있는 경기로 보입니다. 결국 이번 경기는 워싱턴 내셔널스가 초반 타격 흐름을 이어가며 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.10","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CIMO0-2026-08-10-washington-nationals/"},{"date":"26.08.09","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CIMO0-2026-08-09-washington-nationals/"},{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808CIMO0-2026-08-08-washington-nationals/"},{"date":"26.08.07","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807MOPH0-2026-08-07-philadelphia-phillies/"},{"date":"26.08.06","home":"필라델피아 필리스","away":"워싱턴 내셔널스","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179730-2026-08-06-philadelphia-phillies/"}]'
+awayRecent: '[{"date":"26.08.10","home":"캔자스시티 로열스","away":"시카고 컵스","score":"2-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CCKC0-2026-08-10-kansas-city-royals/"},{"date":"26.08.09","home":"캔자스시티 로열스","away":"시카고 컵스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CCKC0-2026-08-09-kansas-city-royals/"},{"date":"26.08.07","home":"시카고 컵스","away":"토론토 블루제이즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807TOCC0-2026-08-07-chicago-cubs/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"},{"date":"26.08.04","home":"시카고 컵스","away":"LA 다저스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179707-2026-08-04-chicago-cubs/"}]'
+injuryHome: "Drew Millas (골절)|James Wood (염좌)|Richard Lovelady (염좌)|DJ Herz (염좌)|Josiah Gray (염좌)"
+injuryAway: "Daniel Palencia (염좌)|Hoby Milner (수술)|Gavin Hollowell (염증)|Edward Cabrera (염좌)|Matt Shaw (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs 롯데 자이언츠 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | KBO - 픽천국"
+date: 2026-08-13T10:00:00.000Z
+description: "SSG 랜더스 vs 롯데 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260813LTSK02026-2026-08-13-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "롯데 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 25승 4무 50패, 평균 득점 4.7로 시즌 전체 성적은 아쉽지만 최근 10경기에서는 5승 1무 4패, 평균 득점 6.3으로 타선 흐름이 분명히 살아나고 있습니다. 최근에는 롯데 자이언츠를 상대로 8득점과 10득점을 올리며 공격 응집력이 좋아진 장면이 돋보였고, 경기마다 득점 기복은 있어도 한 번 터질 때는 폭발력이 있습니다. 홈에서는 점수가 잘 나는 편이고, 박성한과 정준재가 상위 타선에서 출루와 연결 역할을 맡아 공격의 첫 단추를 잘 끼우고 있습니다. 김재환과 최지훈, 조형우까지 이어지는 중하위 타선도 최근에는 득점 지원에 힘을 보태며 타선의 길이가 살아나는 모습입니다. 다만 시즌 전체로 보면 4위권 팀들과 비교해 안정적인 수비 완성도는 아직 부족한 편이라, 실점 관리가 경기 흐름을 좌우할 가능성이 큽니다."
+awayAnalysis: "롯데 자이언츠는 2026시즌 36승 2무 38패, 평균 득점 4.9로 홈팀보다 시즌 전체 전력은 조금 더 균형 잡혀 있지만, 최근 10경기에서는 4승 0무 6패, 평균 득점 5.8로 들쭉날쭉한 흐름이 이어지고 있습니다. 직전 맞대결에서 4실점을 허용하며 패했고, 최근 시리즈에서는 큰 점수 차 승리와 아쉬운 패배가 함께 나와 경기 운영의 기복이 보입니다. 그래도 레이예스와 한동희가 중심을 잡는 상위 타선은 한 번 흐름을 타면 장타와 연결 능력이 살아나는 편이라 공격 잠재력은 분명합니다. 황성빈의 출루와 나승엽, 윤동희의 지원이 더해지면 초반 득점 기대치는 충분히 만들 수 있습니다. 다만 원정에서는 수비 쪽 흔들림이 나올 때 흐름이 쉽게 넘어가는 편이라, 선발이 버텨주는 구간의 중요도가 높아 보입니다."
+homePower: "최근 득점 상승이 타선 응집력 회복을 보여줌|박성한 중심의 상위 타선 출루 연결이 핵심임|김재환 포함 중축이 살아나면 대량 득점 가능함|홈에서는 공격 템포가 빨라지는 경향이 뚜렷함|실점 억제만 되면 경기 주도권 확보가 가능함"
+awayPower: "시즌 균형은 나쁘지 않으나 기복 관리가 관건임|레이예스 의존도 높아 중심 타선 집중 견제가 중요함|상위 타선 출루가 흔들리면 득점 루트가 좁아짐|원정에서는 수비 흔들림이 실점 확대 요인으로 보임|선발이 초반을 버텨야 후반 승부가 살아남음"
+h2h: '[{"date":"26.08.11","home":"SSG 랜더스","away":"롯데 자이언츠","score":"8-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811LTSK02026-2026-08-11-ssg-landers/"},{"date":"26.07.23","home":"롯데 자이언츠","away":"SSG 랜더스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-181886-2026-07-23-lotte-giants/"},{"date":"26.07.22","home":"롯데 자이언츠","away":"SSG 랜더스","score":"3-7","link":"https://pick79.com/posts/detail/analyze-181877-2026-07-22-lotte-giants/"},{"date":"26.07.21","home":"롯데 자이언츠","away":"SSG 랜더스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-181876-2026-07-21-lotte-giants/"},{"date":"26.06.18","home":"SSG 랜더스","away":"롯데 자이언츠","score":"2-2","link":"https://pick79.com/posts/detail/analyze-181758-2026-06-18-ssg-landers/"}]'
+summary: "SSG 랜더스는 시즌 전체 성적에서는 아쉬움이 남지만, 최근 타격 흐름이 뚜렷하게 올라오면서 경기당 득점 기대치가 높아진 상태입니다. 롯데 자이언츠는 시즌 전체 전력에서 조금 더 안정적인 편이지만, 최근 원정 흐름과 맞대결 내용을 함께 보면 수비와 운영의 흔들림이 쉽게 드러나고 있습니다. 양 팀의 맞대결에서는 SSG 랜더스가 최근 흐름에서 더 나은 장면을 만들고 있고, 홈 이점까지 감안하면 SSG 랜더스가 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.11","home":"SSG 랜더스","away":"롯데 자이언츠","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811LTSK02026-2026-08-11-ssg-landers/"},{"date":"26.08.04","home":"SSG 랜더스","away":"LG 트윈스","score":"10-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181936-2026-08-04-ssg-landers/"},{"date":"26.08.02","home":"키움 히어로즈","away":"SSG 랜더스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181927-2026-08-02-kiwoom-heroes/"},{"date":"26.08.01","home":"키움 히어로즈","away":"SSG 랜더스","score":"2-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181923-2026-08-01-kiwoom-heroes/"},{"date":"26.07.31","home":"키움 히어로즈","away":"SSG 랜더스","score":"12-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181919-2026-07-31-kiwoom-heroes/"}]'
+awayRecent: '[{"date":"26.08.11","home":"SSG 랜더스","away":"롯데 자이언츠","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811LTSK02026-2026-08-11-ssg-landers/"},{"date":"26.08.04","home":"롯데 자이언츠","away":"키움 히어로즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181934-2026-08-04-lotte-giants/"},{"date":"26.08.02","home":"롯데 자이언츠","away":"삼성 라이온스","score":"10-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181930-2026-08-02-lotte-giants/"},{"date":"26.07.31","home":"롯데 자이언츠","away":"삼성 라이온스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181920-2026-07-31-lotte-giants/"},{"date":"26.07.30","home":"한화 이글스","away":"롯데 자이언츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181916-2026-07-30-hanwha-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "김진욱 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "SSG 랜더스"
+pickWinResult: "승"
+pickHandicapTeam: "SSG 랜더스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

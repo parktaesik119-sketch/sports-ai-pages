@@ -1,0 +1,37 @@
+---
+title: "니혼햄 파이터즈 vs 세이부 라이온즈 경기분석·라인업·결장자·통계·승부예측 (8월 13일) | NPB - 픽천국"
+date: 2026-08-13T09:00:00.000Z
+description: "니혼햄 파이터즈 vs 세이부 라이온즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260813SENH0-2026-08-13-nippon-ham-fighters"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "니혼햄 파이터즈"
+awayTeam: "세이부 라이온즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/NH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/SE.png"
+homeAnalysis: "니혼햄 파이터즈는 2026시즌 최근 79경기에서 45승 34패, 평균 득점 3.8을 기록하며 전체적으로 탄탄한 전력을 보여주고 있습니다. 최근 흐름만 보면 기복이 조금 있지만, 강한 상대를 만나도 최소 실점으로 버티는 장면이 자주 보이고 있습니다. 특히 홈에서는 경기 운영이 안정적이며, 상대 타선을 묶는 수비 집중력이 좋은 편입니다. 다만 최근에는 득점이 한 번에 크게 터지기보다 접전 양상으로 이어지는 경우가 많아 공격의 효율이 중요해 보입니다. Koki Kitayama가 선발로 나서는 만큼 초반 실점 억제가 잘 되면 홈 이점과 함께 경기 주도권을 잡을 가능성이 높습니다."
+awayAnalysis: "세이부 라이온즈는 2026시즌 최근 78경기에서 44승 32패, 평균 득점 3.6으로 시즌 내내 안정적인 전력을 유지하고 있습니다. 최근 10경기에서는 득점이 다소 낮아지는 흐름이 보이지만, 수비 쪽에서 버티는 힘은 여전히 살아 있습니다. 원정에서도 쉽게 무너지지 않는 편이라 접전으로 끌고 가는 운영이 가능한 팀입니다. 다만 최근에는 공격 연결이 매끄럽지 않아 득점 기회를 충분히 살리지 못하는 장면이 아쉽습니다. Yutaro Watanabe가 선발로 나서는 경기에서는 초반 제구와 장타 억제가 중요하며, 이를 해내면 팽팽한 흐름을 만들 수 있습니다."
+homePower: "홈에서 실점 억제력이 좋아 접전 대응이 안정적임|상대전에서 크게 무너진 뒤 곧바로 반등한 이력 보임|평균 득점 3.8은 공격 폭발보다 효율형 전력임|최근 승패 교차는 불펜 소모 관리가 관건임|Koki Kitayama 선발 시 초반 리듬이 핵심 변수임"
+awayPower: "시즌 평균 3.6득점은 꾸준한 생산력의 신호임|원정에서도 큰 점수 차 붕괴가 적은 편임|최근 저득점 흐름은 한 방 의존도 낮아진 모습임|세이부 라이온즈는 수비 주도 접전 운영이 강점임|Yutaro Watanabe 초반 안정감이 경기 균형 좌우함"
+h2h: '[{"date":"26.08.11","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"0-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811SENH0-2026-08-11-nippon-ham-fighters/"},{"date":"26.07.23","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"2-11","link":"https://pick79.com/posts/detail/analyze-181167-2026-07-23-seibu-lions/"},{"date":"26.07.22","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"4-3","link":"https://pick79.com/posts/detail/analyze-181162-2026-07-22-seibu-lions/"},{"date":"26.07.12","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"1-12","link":"https://pick79.com/posts/detail/analyze-181115-2026-07-12-nippon-ham-fighters/"},{"date":"26.07.11","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"8-2","link":"https://pick79.com/posts/detail/analyze-181106-2026-07-11-nippon-ham-fighters/"}]'
+summary: "니혼햄 파이터즈는 시즌 전체 득점과 승률에서 조금 더 안정적인 흐름을 보여주고 있어, 전체 전력의 균형감에서는 한 발 앞서 있습니다. 세이부 라이온즈 역시 시즌 성적이 크게 뒤처지지 않지만, 최근에는 공격 생산이 다소 둔해지며 경기 흐름을 스스로 끌어오기 어려운 장면이 있습니다. 맞대결에서는 큰 점수 차 승부가 여러 차례 나왔기 때문에 초반 실점 여부가 매우 중요하고, 선발 싸움에서 니혼햄 파이터즈가 조금 더 유리하게 보입니다. 전반적인 수비 안정감과 홈 이점을 함께 고려하면 니혼햄 파이터즈 쪽 우세가 더 자연스럽게 읽힙니다."
+homeRecent: '[{"date":"26.08.11","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811SENH0-2026-08-11-nippon-ham-fighters/"},{"date":"26.08.09","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809RTNH0-2026-08-09-nippon-ham-fighters/"},{"date":"26.08.08","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808RTNH0-2026-08-08-nippon-ham-fighters/"},{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807RTNH0-2026-08-07-nippon-ham-fighters/"},{"date":"26.08.06","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181219-2026-08-06-fukuoka-s-hawks/"}]'
+awayRecent: '[{"date":"26.08.11","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811SENH0-2026-08-11-nippon-ham-fighters/"},{"date":"26.08.09","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"0-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809SFSE0-2026-08-09-seibu-lions/"},{"date":"26.08.08","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808SFSE0-2026-08-08-seibu-lions/"},{"date":"26.08.07","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807SFSE0-2026-08-07-seibu-lions/"},{"date":"26.08.05","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"8-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181209-2026-08-05-chiba-lotte-marines/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "니혼햄 파이터즈"
+pickWinResult: "승"
+pickHandicapTeam: "니혼햄 파이터즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---
