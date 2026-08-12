@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.11","home":"샌프란시스코 자이언츠","away"
 injuryHome: "Jesus Rodriguez (핀치드 신경)|Joel Peguero (염좌)|Marcelo Mayer (골절)|Matt Gage (염좌)|Daniel Susac (골절)"
 injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 B. King (2-3, 3.83) ERA 3.83|https://a.espncdn.com/i/headshots/mlb/players/full/5201821.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

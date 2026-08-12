@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.12","home":"마이애미 말린스","away":"피츠�
 injuryHome: "William Kempner (염좌)|Kyle Stowers (근육 긴장)|Anthony Bender (부상)|Max Meyer (근육 긴장)|Andrew Nardi (골절)"
 injuryAway: "Endy Rodriguez (통증)|Oneil Cruz (골절)|Konnor Griffin (근육 긴장)|Ryan O'Hearn (근육 긴장)|Mitch Keller (지정되지 않음)"
 homeLineup: "[\"선발투수 J. Junk (5-7, 4.63) ERA 4.63|https://a.espncdn.com/i/headshots/mlb/players/full/4881980.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 C. Mlodzinski (6-4, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/4298378.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

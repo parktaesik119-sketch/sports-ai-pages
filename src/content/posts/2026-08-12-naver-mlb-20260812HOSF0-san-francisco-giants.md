@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.10","home":"샌디에이고 파드리스","away":"�
 injuryHome: "Victor Bericoto (10일 부상자 명단 근육 손상)|Jesus Rodriguez (10일 부상자 명단 신경 압박)|Joel Peguero (60일 부상자 명단 근육 손상)|Marcelo Mayer (10일 부상자 명단 골절)|Matt Gage (60일 부상자 명단 근육 손상)"
 injuryAway: "Mike Burrows (15일 부상자 명단 염증)|Brice Matthews (10일 부상자 명단 염좌)|Carlos Correa (60일 부상자 명단 수술)|Brandon Walter (60일 부상자 명단 수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 B. King (2-3, 3.83) ERA 3.83|https://a.espncdn.com/i/headshots/mlb/players/full/5201821.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
