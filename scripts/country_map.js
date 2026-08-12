@@ -58,7 +58,9 @@ const COUNTRY_MAP = {
   'Scotland': '스코틀랜드',
   'Wales': '웨일스',
   'Northern-Ireland': '북아일랜드',
+  'Northern Ireland': '북아일랜드',
   'Ireland': '아일랜드',
+  'Republic of Ireland': '아일랜드',
   'United Kingdom': '영국',
   'United-Kingdom': '영국',
   'France': '프랑스',
@@ -76,6 +78,7 @@ const COUNTRY_MAP = {
   'Finland': '핀란드',
   'Iceland': '아이슬란드',
   'Faroe-Islands': '페로 제도',
+  'Faroe Islands': '페로 제도',
   'Poland': '폴란드',
   'Czech Republic': '체코',
   'Czech-Republic': '체코',
@@ -89,6 +92,7 @@ const COUNTRY_MAP = {
   'Slovenia': '슬로베니아',
   'Bosnia': '보스니아',
   'Bosnia-and-Herzegovina': '보스니아 헤르체고비나',
+  'Bosnia and Herzegovina': '보스니아 헤르체고비나',
   'Montenegro': '몬테네그로',
   'Kosovo': '코소보',
   'Albania': '알바니아',
@@ -107,6 +111,7 @@ const COUNTRY_MAP = {
   'Malta': '몰타',
   'Cyprus': '키프로스',
   'Turkey': '튀르키예',
+  'United Arab Emirates': 'UAE',
 
   // ===== 아메리카 =====
   'USA': '미국',
