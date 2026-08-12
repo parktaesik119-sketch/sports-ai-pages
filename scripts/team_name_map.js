@@ -849,6 +849,9 @@ const TEAM_NAME_MAP = {
   "Hapoel Tel Aviv": "하포엘 텔아비브",
   "Olympiacos": "올림피아코스",
 
+  //네덜란드
+  "Telstar": "텔스타",
+
   //웨일스
   "Barry Town": "배리 타운",
   "Cambrian & Clydach": "캠브리언 & 클리다치",
@@ -856,7 +859,14 @@ const TEAM_NAME_MAP = {
   "Ammanford AFC": "아만포드 AFC",
   "Colwyn Bay": "콜윈베이 FC",
   "Llandudno": "란디드노",
+  "Llandudno FC": "란디드노 FC",
   "Llaneros": "야네로스",
+  "Airbus UK Broughton": "에어버스 UK 브로튼",
+  "Ammanford": "아만포드",
+  "Cardiff Met University": "카디프 메트",
+  "Flint Town United": "플린트 타운",
+  "Connah's Quay Nomads": "코나스 퀘이",
+  "Haverfordwest": "하버포드웨스트",
 
   // WNBA
   "Atlanta Dream W": "애틀랜타 드림",
@@ -1407,6 +1417,7 @@ const TEAM_NAME_MAP = {
   "Sligo Rovers": "슬라이고 로버스",
   "St Patrick's Athl.": "세인트 패트릭스 애슬레틱",
   "Waterford": "워터퍼드",
+ 
 
   // OFC Pro League (오세아니아)
   "Auckland FC 2": "오클랜드 FC 2",
@@ -1496,6 +1507,8 @@ const TEAM_NAME_MAP = {
   "Sharjah FC": "샤르자 FC",
   "Al Ain": "알아인",
   "Al Wahda FC": "알와흐다",
+  "Al-Wahda": "알와흐다",
+  "Ajman": "아지만",
   "Al Jazira": "알자지라",
   "Al-Jazira": "알자지라",
   "Al-Dhafra": "알다프라",
