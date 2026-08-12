@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"소프트뱅크 호크스","away":"지�
 awayRecent: '[{"date":"26.08.11","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"16-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811JLSF0-2026-08-11-fukuoka-s-hawks/"},{"date":"26.08.09","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809OXJL0-2026-08-09-chiba-lotte-marines/"},{"date":"26.08.08","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808OXJL0-2026-08-08-chiba-lotte-marines/"},{"date":"26.08.07","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807OXJL0-2026-08-07-chiba-lotte-marines/"},{"date":"26.08.05","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"8-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181209-2026-08-05-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Jr. Stewart (6-4, 5.05)|https://p.npb.jp/players_photo/2026/180/h/002_53755138.jpg\"]"
+awayLineup: "[\"선발투수 Haruya Tanaka (1-5, 4.83)|https://p.npb.jp/players_photo/2026/180/m/035_01005157.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

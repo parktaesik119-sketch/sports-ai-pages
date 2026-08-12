@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"라쿠텐 골든이글스","away":"오�
 awayRecent: '[{"date":"26.08.11","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811OXRT0-2026-08-11-rakuten-gold-eagles/"},{"date":"26.08.09","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809OXJL0-2026-08-09-chiba-lotte-marines/"},{"date":"26.08.08","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808OXJL0-2026-08-08-chiba-lotte-marines/"},{"date":"26.08.07","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807OXJL0-2026-08-07-chiba-lotte-marines/"},{"date":"26.08.06","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181215-2026-08-06-orix-buffaloes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Ryota Takinaka (5-5, 2.63)|https://p.npb.jp/players_photo/2026/180/e/057_31235151.jpg\"]"
+awayLineup: "[\"선발투수 Daiki Tajima (2-5, 6.88)|https://p.npb.jp/players_photo/2026/180/b/029_41045136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

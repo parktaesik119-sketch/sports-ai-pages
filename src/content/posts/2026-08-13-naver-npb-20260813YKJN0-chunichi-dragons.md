@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"주니치 드래곤스","away":"요코�
 awayRecent: '[{"date":"26.08.11","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811YKJN0-2026-08-11-chunichi-dragons/"},{"date":"26.08.09","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809HIYK0-2026-08-09-yokohama-baystars/"},{"date":"26.08.08","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808HIYK0-2026-08-08-yokohama-baystars/"},{"date":"26.08.07","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807HIYK0-2026-08-07-yokohama-baystars/"},{"date":"26.08.06","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181216-2026-08-06-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yumeto Kanemaru (5-8, 2.50)|https://p.npb.jp/players_photo/2026/180/d/021_61565150.jpg\"]"
+awayLineup: "[\"선발투수 Osuke Fukazawa (3-1, 2.78)|https://p.npb.jp/players_photo/2026/180/db/043_61665155.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

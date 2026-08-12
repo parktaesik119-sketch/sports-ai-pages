@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.11","home":"요미우리 자이언츠","away":"한�
 awayRecent: '[{"date":"26.08.11","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811HSYO0-2026-08-11-yomiuri-giants/"},{"date":"26.08.09","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809JNHS0-2026-08-09-hanshin-tigers/"},{"date":"26.08.08","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808JNHS0-2026-08-08-hanshin-tigers/"},{"date":"26.08.07","home":"한신 타이거스","away":"주니치 드래곤스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807JNHS0-2026-08-07-hanshin-tigers/"},{"date":"26.08.06","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181216-2026-08-06-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yuhi Nishidate (2-2, 2.30)|https://p.npb.jp/players_photo/2026/180/g/017_31635159.jpg\"]"
+awayLineup: "[\"선발투수 Kaito Shimomura (0-1, 2.05)|https://p.npb.jp/players_photo/2026/180/t/019_61965159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
