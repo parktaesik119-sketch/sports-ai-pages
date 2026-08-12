@@ -17,7 +17,7 @@ awayPower: "공격 전개가 매끄럽고 마무리 기대치가 높음|최근 �
 h2h: '[]'
 summary: "Ammanford는 시즌 초반부터 득점 기대치가 높게 나타나고 있고, Airbus UK Broughton은 같은 시기 공격 효율이 떨어지며 흐름이 다소 가라앉아 있습니다. 득점력에서는 원정팀이 앞서고, 수비 안정감에서는 양 팀 모두 완성도가 더 필요하지만 현재까지는 Ammanford 쪽이 공격에서 더 확실한 장점을 보이고 있습니다. 경기 전체로 보면 Airbus UK Broughton이 홈에서 버티려 하겠지만, 전반적인 전력 균형과 최근 득점 흐름을 함께 고려하면 Ammanford가 우위를 점할 가능성이 높아 보입니다."
 homeRecent: '[{"date":"26.08.08","home":"Airbus UK Broughton","away":"카디프 시티","score":"0-2","result":"🔴패"},{"date":"26.08.01","home":"Haverfordwest","away":"Airbus UK Broughton","score":"0-1","result":"🟢승"},{"date":"23.04.22","home":"Airbus UK Broughton","away":"Haverfordwest","score":"1-4","result":"🔴패"},{"date":"23.04.15","home":"Airbus UK Broughton","away":"Flint Town United","score":"1-3","result":"🔴패"},{"date":"23.04.08","home":"Aberystwyth","away":"Airbus UK Broughton","score":"1-1","result":"🟡무"}]'
-awayRecent: '[{"date":"26.08.08","home":"아만포드 AFC","away":"콜윈베이 FC","score":"2-2","result":"🟡무"},{"date":"26.08.01","home":"Briton Ferry","away":"아만포드 AFC","score":"2-1","result":"🔴패"}]'
+awayRecent: "[{\"date\":\"26.08.08\",\"home\":\"Ammanford\",\"away\":\"Colwyn Bay\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.08.08\",\"home\":\"아만포드 AFC\",\"away\":\"콜윈베이 FC\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.08.01\",\"home\":\"Briton Ferry\",\"away\":\"아만포드 AFC\",\"score\":\"2-1\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
 injuryAway: "없음"
 homeLineup: ''
