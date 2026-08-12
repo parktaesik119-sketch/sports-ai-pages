@@ -70,6 +70,51 @@ const todaySchedulePath = `/schedule/${nowKST.toISOString().slice(0, 10)}/`;
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
+    <!-- 🌐 외국어 브라우저 방문자용 번역 안내 배너 (한국어 사용자에게는 표시되지 않음) -->
+    <div id="ph-translate-banner" style="display:none; align-items:center; justify-content:center; gap:14px; flex-wrap:wrap; background:#1d61cf; color:#fff; padding:10px 16px; font-size:14px; text-align:center;">
+      <span id="ph-translate-text"></span>
+      <a id="ph-translate-link" href="#" target="_blank" rel="noopener" style="background:#fff; color:#1d61cf; font-weight:700; padding:4px 12px; border-radius:6px; text-decoration:none; white-space:nowrap;"></a>
+      <button id="ph-translate-close" aria-label="close" style="background:none; border:none; color:#fff; font-size:16px; cursor:pointer; line-height:1; padding:0 4px;">✕</button>
+    </div>
+    <script is:inline>
+    (function () {
+      try {
+        var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+        if (lang.indexOf('ko') === 0) return; // 한국어 사용자는 표시 안 함
+        if (localStorage.getItem('ph_translate_dismissed') === '1') return;
+
+        var prefix = lang.split('-')[0];
+        var messages = {
+          en: { text: 'This page is written in Korean.', btn: 'Translate' },
+          ja: { text: 'このページは韓国語で書かれています。', btn: '翻訳する' },
+          zh: { text: '本页面为韩语内容。', btn: '翻译' },
+          vi: { text: 'Trang này được viết bằng tiếng Hàn.', btn: 'Dịch trang' },
+          id: { text: 'Halaman ini ditulis dalam bahasa Korea.', btn: 'Terjemahkan' },
+          pt: { text: 'Esta página está em coreano.', btn: 'Traduzir' },
+          es: { text: 'Esta página está en coreano.', btn: 'Traducir' }
+        };
+        var msg = messages[prefix] || messages.en;
+
+        var banner = document.getElementById('ph-translate-banner');
+        var text = document.getElementById('ph-translate-text');
+        var link = document.getElementById('ph-translate-link');
+        var closeBtn = document.getElementById('ph-translate-close');
+        if (!banner || !text || !link || !closeBtn) return;
+
+        text.textContent = msg.text;
+        link.textContent = msg.btn;
+        link.href = 'https://translate.google.com/translate?sl=ko&tl=' + encodeURIComponent(prefix) + '&u=' + encodeURIComponent(location.href);
+
+        banner.style.display = 'flex';
+
+        closeBtn.addEventListener('click', function () {
+          banner.style.display = 'none';
+          localStorage.setItem('ph_translate_dismissed', '1');
+        });
+      } catch (e) {}
+    })();
+    </script>
+
     <!-- 페이지 이동 로딩 스피너 -->
     <div id="ph-spinner" style="display:flex; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(255,255,255,0.85); z-index:99999; flex-direction:column; align-items:center; justify-content:center; opacity:0; visibility:hidden; pointer-events:none; transition:opacity .15s ease;">
       <div class="ph-ring-loader-wrap">
