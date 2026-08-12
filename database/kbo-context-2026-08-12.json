@@ -766,17 +766,17 @@
     },
     "starters": {
       "home": "김민준",
-      "away": "나균안"
+      "away": "김한결"
     },
     "pitcherRecord": {
       "away": {
-        "name": "나균안",
-        "era": "4.14",
-        "war": "1.68",
-        "games": "19",
-        "inningsPerStart": "5.2",
-        "qs": "7",
-        "whip": "1.43"
+        "name": "김한결",
+        "era": "-",
+        "war": "-",
+        "games": "-",
+        "inningsPerStart": "-",
+        "qs": "-",
+        "whip": "-"
       },
       "home": {
         "name": "김민준",
@@ -799,27 +799,27 @@
     },
     "pitKind": {
       "away": {
-        "name": "나균안",
+        "name": "김한결",
         "pitches": [
           {
-            "type": "직구",
-            "usageRate": "34.4%",
-            "avgSpeed": "143.2km/h"
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
           },
           {
-            "type": "포크",
-            "usageRate": "29.8%",
-            "avgSpeed": "130.8km/h"
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
           },
           {
-            "type": "커터",
-            "usageRate": "16.1%",
-            "avgSpeed": "138.2km/h"
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
           },
           {
-            "type": "슬라이더",
-            "usageRate": "12.8%",
-            "avgSpeed": "127.2km/h"
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
           }
         ]
       },
