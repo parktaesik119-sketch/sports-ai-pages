@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.10","home":"텍사스 레인저스","away":"볼티�
 injuryHome: "Sebastian Rivero (수술로 인한 10일 부상자 명단)|Yusei Kikuchi (염증으로 인한 60일 부상자 명단)|Sam Bachman (염증으로 인한 15일 부상자 명단)|Shaun Anderson (염증으로 인한 15일 부상자 명단)|Yoan Moncada (수술로 인한 60일 부상자 명단)"
 injuryAway: "Jakob Junis (근육 긴장으로 인한 15일 부상자 명단)|Michael Helman (골절로 인한 60일 부상자 명단)|Carter Baumler (근육 긴장으로 인한 60일 부상자 명단)|Josh Jung (근육 긴장으로 인한 10일 부상자 명단)|Kyle Higashioka (근육 긴장으로 인한 10일 부상자 명단)"
 homeLineup: "[\"선발투수 G. Klassen (0-1, 7.27) ERA 7.27|https://a.espncdn.com/i/headshots/mlb/players/full/5134517.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 C. Quantrill (4-4, 3.56) ERA 3.56|https://a.espncdn.com/i/headshots/mlb/players/full/39875.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
