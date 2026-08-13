@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs NC 다이노스 경기분석·라인업·결장자·통계·승부예측 (8월 14일) | KBO - 픽천국"
+date: 2026-08-14T10:00:00.000Z
+description: "롯데 자이언츠 vs NC 다이노스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260814NCLT02026-2026-08-14-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "NC 다이노스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/NC.png"
+homeAnalysis: "롯데 자이언츠는 2026시즌 최근 77경기에서 36승 2무 39패, 평균 득점 4.9를 기록하고 있어 전체적으로는 팽팽한 전력을 보여주고 있습니다. 최근 흐름만 보면 득점 기복이 조금 있지만, 10경기 평균 득점이 5.5로 올라와 있어 공격 쪽은 분명히 살아나는 모습입니다. 다만 최근 2경기에서 실점이 크게 늘어난 점은 수비와 불펜 운영에서 부담으로 이어질 수 있습니다. 홈에서는 장타와 연결 플레이가 함께 나올 때 득점 생산이 좋아지는 편이라, 황성빈과 레이예스를 중심으로 상위 타선이 얼마나 출루를 이어가느냐가 중요합니다. 한동희와 고승민처럼 중간 타선의 장타 포인트가 살아나면 경기 흐름을 가져올 가능성도 있습니다."
+awayAnalysis: "NC 다이노스는 2026시즌 최근 73경기에서 33승 3무 37패, 평균 득점 5.1을 기록하며 홈팀보다 조금 더 안정적인 득점 흐름을 보이고 있습니다. 최근 10경기 평균 득점은 4.0으로 다소 내려왔지만, 직전 경기에서 무실점 승리를 거두며 투수진이 다시 힘을 내는 모습이 보입니다. 최근에는 대량 실점 경기도 있었지만, 한 번 흐름을 타면 경기 운영이 단단해지는 장점이 있습니다. 김주원과 박민우가 타선의 축을 잡고 있어서 상위 타선이 출루와 연결을 해주면 득점 확장성이 좋습니다. 박건우와 이우성까지 이어지는 중심 구간이 살아나면 원정에서도 충분히 주도권을 잡을 수 있는 전력입니다."
+homePower: "홈 득점 변동폭이 커서 경기별 편차가 큼|상위 타선 출루가 살아야 장타도 동반됨|최근 실점 증가로 접전 운영 부담이 보임|레이예스 중심 중심타선 의존도 높음|홈에서 공격 폭발 시 경기 지배력 확인됨"
+awayPower: "평균 득점이 더 높아 기본 화력은 우세함|상위 타선 출루율이 경기 흐름을 좌우함|김주원 박민우 축으로 연결력 좋은 편임|최근 실점 편차는 크지만 반등 여지도 있음|중심타선 응집력 살아나면 원정 주도 가능함"
+h2h: '[{"date":"26.06.25","home":"롯데 자이언츠","away":"NC 다이노스","score":"2-8","link":"https://pick79.com/posts/detail/analyze-181788-2026-06-25-lotte-giants/"},{"date":"26.06.24","home":"롯데 자이언츠","away":"NC 다이노스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181786-2026-06-24-lotte-giants/"},{"date":"26.06.23","home":"롯데 자이언츠","away":"NC 다이노스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-181778-2026-06-23-lotte-giants/"},{"date":"26.05.31","home":"NC 다이노스","away":"롯데 자이언츠","score":"8-2","link":"https://pick79.com/posts/detail/analyze-181682-2026-05-31-nc-dinos/"},{"date":"26.05.30","home":"NC 다이노스","away":"롯데 자이언츠","score":"6-2","link":"https://pick79.com/posts/detail/analyze-181680-2026-05-30-nc-dinos/"}]'
+summary: "두 팀은 시즌 전체 전력만 놓고 보면 큰 차이는 아니지만, NC 다이노스가 평균 득점과 최근 승리 흐름에서 조금 더 안정적인 모습을 보이고 있습니다. 롯데 자이언츠는 홈에서 공격이 폭발할 때 강한 면이 있지만, 최근 실점이 늘어난 점이 부담으로 작용하고 있습니다. 반면 NC 다이노스는 중심 타선의 연결과 경기 후반 운영에서 조금 더 균형이 좋아 보이며, 상대전적에서도 최근 맞대결 우세가 확인되고 있습니다. 이런 흐름을 종합하면 접전 양상 속에서도 NC 다이노스가 한 발 앞설 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.12","home":"SSG 랜더스","away":"롯데 자이언츠","score":"9-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812LTSK02026-2026-08-12-ssg-landers/"},{"date":"26.08.11","home":"SSG 랜더스","away":"롯데 자이언츠","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811LTSK02026-2026-08-11-ssg-landers/"},{"date":"26.08.04","home":"롯데 자이언츠","away":"키움 히어로즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181934-2026-08-04-lotte-giants/"},{"date":"26.08.02","home":"롯데 자이언츠","away":"삼성 라이온스","score":"10-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181930-2026-08-02-lotte-giants/"},{"date":"26.07.31","home":"롯데 자이언츠","away":"삼성 라이온스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181920-2026-07-31-lotte-giants/"}]'
+awayRecent: '[{"date":"26.08.12","home":"NC 다이노스","away":"KT 위즈","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812KTNC02026-2026-08-12-nc-dinos/"},{"date":"26.08.11","home":"NC 다이노스","away":"KT 위즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811KTNC02026-2026-08-11-nc-dinos/"},{"date":"26.07.31","home":"NC 다이노스","away":"KIA 타이거즈","score":"10-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181918-2026-07-31-nc-dinos/"},{"date":"26.07.30","home":"NC 다이노스","away":"KT 위즈","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181915-2026-07-30-nc-dinos/"},{"date":"26.07.29","home":"NC 다이노스","away":"KT 위즈","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181909-2026-07-29-nc-dinos/"}]'
+injuryHome: "김진욱 (부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "NC 다이노스"
+pickWinResult: "승"
+pickHandicapTeam: "NC 다이노스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

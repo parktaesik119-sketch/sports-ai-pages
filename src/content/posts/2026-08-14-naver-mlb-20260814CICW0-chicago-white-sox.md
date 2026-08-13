@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (8월 14일) | MLB - 픽천국"
+date: 2026-08-13T18:10:00.000Z
+description: "시카고 화이트삭스 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260814CICW0-2026-08-14-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 최근 83경기에서 41승 41패 1무, 평균 득점 4.3으로 균형을 유지하며 시즌을 치르고 있습니다. 최근 흐름은 10경기 4승 6패로 다소 흔들렸지만, 클리블랜드 가디언스를 상대로 연승을 챙기며 타선이 완전히 가라앉지는 않았다는 점이 보입니다. 다만 보스턴 레드삭스전에서 대량 실점을 허용한 흐름을 보면 마운드 안정감은 여전히 기복이 있습니다. 홈에서는 템파베이 레이스와 뉴욕 양키스 같은 상대로도 접전과 폭발력을 함께 보여주며, 경기를 끌고 가는 힘 자체는 충분히 갖추고 있습니다. 주요 결장자가 적지 않아 세부 전력 운영에는 부담이 있지만, 득점 생산이 완전히 끊기지 않고 홈 경기에서 반등 여지를 만들고 있습니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 최근 79경기에서 33승 44패 2무, 평균 득점 4.0으로 시즌 전반의 득실 격차가 크게 벌어진 상태입니다. 최근 10경기에서는 6승 4패로 나쁘지 않은 결과를 냈고, 애슬레틱스와 피츠버그 파이리츠를 상대로는 득점 응집력을 보여주며 반등 조짐도 보입니다. 그러나 워싱턴 내셔널스 원정에서 연패와 함께 실점이 크게 늘어난 부분은 원정 전력의 불안 요소로 읽힙니다. 시즌 득실이 마이너스 73점이라는 점도 수비와 투수진의 부담이 적지 않음을 보여줍니다. 스펜서 스티어를 포함한 주요 결장자 공백까지 겹치면서, 경기 후반 운영에서는 흔들릴 가능성이 남아 있습니다."
+homePower: "홈 경기에서 접전 대응력이 살아 있음|평균 득점 4.3으로 공격 하한선은 확보됨|대량 실점 뒤에도 곧바로 반등한 적 있음|주요 결장자 속에서도 타선 연결은 유지됨|홈에서 강팀 상대로도 한 방은 보임"
+awayPower: "최근 10경기 6승으로 반등 흐름 확인됨|득실 -73이 수비 불안의 핵심으로 보임|원정에서 연패 구간이 길어질 위험 존재함|스펜서 스티어 공백이 중심 타선에 부담임|득점 4.0 수준으로 장타 의존도 높음"
+h2h: '[{"date":"26.08.12","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"4-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CICW0-2026-08-12-chicago-white-sox/"}]'
+summary: "시카고 화이트삭스는 시즌 성적과 홈 경기 운영을 보면 기본 전력이 더 단단하게 느껴집니다. 신시내티 레즈는 최근 흐름 자체는 나쁘지 않지만, 시즌 전체 득실이 크게 벌어져 있어 경기 전체를 안정적으로 끌고 가는 힘에서는 아쉬움이 있습니다. 다만 직전 맞대결이 한 점 차 접전이었다는 점을 보면 레즈도 쉽게 무너지지는 않겠지만, 전체적인 균형과 홈 이점을 감안하면 화이트삭스가 좀 더 우위를 점할 가능성이 높아 보입니다. 결장자 상황까지 함께 보면 경기 후반으로 갈수록 화이트삭스 쪽의 기대치가 조금 더 높게 잡힙니다."
+homeRecent: '[{"date":"26.08.12","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CICW0-2026-08-12-chicago-white-sox/"},{"date":"26.08.10","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CLCW0-2026-08-10-chicago-white-sox/"},{"date":"26.08.09","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CLCW0-2026-08-09-chicago-white-sox/"},{"date":"26.08.08","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808CLCW0-2026-08-08-chicago-white-sox/"},{"date":"26.08.07","home":"보스턴 레드삭스","away":"시카고 화이트삭스","score":"12-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807CWBO0-2026-08-07-boston-red-sox/"}]'
+awayRecent: '[{"date":"26.08.12","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CICW0-2026-08-12-chicago-white-sox/"},{"date":"26.08.10","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CIMO0-2026-08-10-washington-nationals/"},{"date":"26.08.09","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CIMO0-2026-08-09-washington-nationals/"},{"date":"26.08.08","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808CIMO0-2026-08-08-washington-nationals/"},{"date":"26.08.07","home":"신시내티 레즈","away":"애슬레틱스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807OACI0-2026-08-07-cincinnati-reds/"}]'
+injuryHome: "Jordan Leasure (염좌)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (염좌)|Ky Bush (수술)"
+injuryAway: "Brandon Williamson (통증)|Graham Ashcraft (염좌)|Tony Santillan (염좌)|Spencer Steer (염좌)|Blake Dunn (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

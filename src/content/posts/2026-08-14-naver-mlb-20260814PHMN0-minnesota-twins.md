@@ -1,0 +1,37 @@
+---
+title: "미네소타 트윈스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (8월 14일) | MLB - 픽천국"
+date: 2026-08-13T23:30:00.000Z
+description: "미네소타 트윈스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260814PHMN0-2026-08-14-minnesota-twins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "미네소타 트윈스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "미네소타 트윈스는 2026시즌 최근 84경기 40승 44패, 평균 득점 4.2를 기록하며 승패 균형이 무너진 상태지만, 최근 경기에서는 평균 득점 5.0으로 타선이 한층 살아난 모습입니다. 직전 8경기에서 4승 4패로 버티고 있고, 볼티모어 오리올스를 상대로는 장타와 연결 타격이 동시에 터지며 공격의 상한을 보여주었습니다. 다만 밀워키 브루어스전과 시애틀 매리너스전에서는 한 점 차 승부와 실점 관리에서 흔들리며 경기 운영의 기복도 함께 드러났습니다. 홈에서는 상대를 압박하는 득점 흐름이 자주 나오고 있어 공격 주도권을 잡을 때 경기 전체 분위기를 가져오는 힘이 있습니다. 반면 바이런 벅스턴과 조 라이언의 이탈은 중심 타선과 선발 운용의 무게를 동시에 덜어내지 못하게 만드는 요소로 보입니다. 이런 점을 감안하면 미네소타 트윈스는 화력은 충분하지만, 초반 실점만 억제하면 승부를 끝까지 끌고 갈 수 있는 전력으로 평가됩니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 최근 88경기 46승 40패 2무, 평균 득점 4.5로 미네소타 트윈스보다 시즌 전체 전력은 한 단계 위에 있습니다. 다만 최근 10경기에서는 5승 5패로 흐름이 다소 출렁이고 있고, 세인트루이스 카디널스 원정에서는 연패를 당하며 타선 응집력이 잠시 떨어진 모습이었습니다. 그래도 워싱턴 내셔널스전과 볼티모어 오리올스전에서는 다득점과 영봉에 가까운 경기 운영이 나와, 한 번 리듬을 타면 공격과 마운드가 함께 살아나는 장점이 분명합니다. 원정 성적에서도 기복은 있지만, 시즌 전체로는 득실 차가 -7에 그쳐 미네소타 트윈스보다 실점 억제력이 훨씬 안정적으로 보입니다. 라파엘 마찬과 도안 선수들의 이탈은 포수진과 뎁스에 부담을 주지만, 팀의 기본 체급을 크게 흔들 정도로 보이진 않습니다. 특히 최근 흐름이 완전히 꺾인 것은 아니라서, 초반 실점을 최소화하면 다시 경기 균형을 되찾을 가능성이 있습니다."
+homePower: "홈에서 득점 폭발력 살아나는 흐름이 보임|한 점 차 승부 경험 많아 접전 대응 가능함|조 라이언 이탈로 선발 안정감은 약화됨|바이런 벅스턴 공백이 중심 타선 무게 낮춤|상승 타이밍 잡으면 공격 전개가 빠름"
+awayPower: "시즌 득실차 우세로 기본 체급은 높음|원정에서도 대량 실점 없이 버티는 힘 있음|최근 연패 뒤 반등 여지 남아 있음|세인트루이스전 침묵은 타선 기복 경고음임|결장자 공백에도 마운드 운영은 비교적 견고함"
+h2h: '[]'
+summary: "미네소타 트윈스는 시즌 전력과 최근 타격 흐름을 함께 보면 홈에서 충분히 승부를 걸 수 있는 모습입니다. 필라델피아 필리스가 시즌 전체 성적과 득실 면에서는 조금 더 나아 보이지만, 최근에는 연패와 기복이 섞이면서 압도적인 우위까지는 만들지 못하고 있습니다. 그래도 미네소타 트윈스가 홈에서 타선 흐름을 유지하고 초반 실점을 억제한다면, 경기 주도권은 홈팀 쪽으로 기울 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.13","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BAMN0-2026-08-13-minnesota-twins/"},{"date":"26.08.12","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BAMN0-2026-08-12-minnesota-twins/"},{"date":"26.08.11","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811BAMN0-2026-08-11-minnesota-twins/"},{"date":"26.08.10","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810MNMI0-2026-08-10-milwaukee-brewers/"},{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808MNMI0-2026-08-08-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"},{"date":"26.08.12","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PHSL0-2026-08-12-st-louis-cardinals/"},{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"},{"date":"26.08.10","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TOPH0-2026-08-10-philadelphia-phillies/"},{"date":"26.08.09","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809TOPH0-2026-08-09-philadelphia-phillies/"}]'
+injuryHome: "Byron Buxton (신경 압박)|Joe Ryan (염좌)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)"
+injuryAway: "Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Johan Rojas (수술)|Adolis Garcia (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

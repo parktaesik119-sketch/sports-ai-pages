@@ -16,8 +16,8 @@ homePower: "최근 원정 득점까지 이어진 공격 흐름이 인상적임|H
 awayPower: "최근 2경기 연속 무득점, 전방 생산성 저하가 뚜렷함|원정에서 먼저 실점하면 반전 동력이 급격히 줄어듦|수비가 버티지 못하면 경기 후반 격차가 벌어질 가능성 큼|공격 전개 속도보다 마무리 부재가 더 큰 약점으로 보임|상대 압박을 이겨낼 연결 플레이 복원 필요성 큼"
 h2h: '[]'
 summary: "Connah's Quay Nomads는 2026시즌 최근 1경기에서 3득점을 기록하며 공격 쪽 감각이 먼저 살아나 있고, Trefelin BGC는 최근 1경기와 최근 2경기 흐름 모두에서 득점이 막혀 있습니다. 두 팀의 시즌 전력 차이는 공격 생산성과 실점 억제에서 분명하게 갈리고 있으며, 홈팀이 경기 흐름을 먼저 잡을 가능성이 높아 보입니다. 최근 흐름과 전력 구조를 함께 보면 Connah's Quay Nomads가 더 안정적으로 우세를 점할 가능성이 크고, Trefelin BGC는 수비로 버티더라도 전방에서 응답을 만들기 어려워 보입니다."
-homeRecent: '[{"date":"26.08.08","home":"Holywell Town","away":"Connah’s Quay Nomads","score":"1-3","result":"🟢승"},{"date":"26.08.02","home":"Connah’s Quay Nomads","away":"케르나폰 타운","score":"1-2","result":"🔴패"},{"date":"26.07.17","home":"발카니","away":"Connah’s Quay Nomads","score":"3-2","result":"🔴패"},{"date":"26.07.09","home":"Connah’s Quay Nomads","away":"발카니","score":"0-0","result":"🟡무"},{"date":"26.04.19","home":"Connah’s Quay Nomads","away":"콜윈베이 FC","score":"1-1","result":"🟡무"}]'
-awayRecent: '[{"date":"26.08.08","home":"Trefelin BGC","away":"란디드노","score":"0-4","result":"🔴패"},{"date":"26.08.01","home":"콜윈베이 FC","away":"Trefelin BGC","score":"2-0","result":"🔴패"}]'
+homeRecent: '[{"date":"26.08.08","home":"Holywell Town","away":"Connah’s Quay Nomads","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5882037-2026-08-08-holywell-town/"},{"date":"26.08.02","home":"Connah’s Quay Nomads","away":"케르나폰 타운","score":"1-2","result":"🔴패"},{"date":"26.07.17","home":"발카니","away":"Connah’s Quay Nomads","score":"3-2","result":"🔴패"},{"date":"26.07.09","home":"Connah’s Quay Nomads","away":"발카니","score":"0-0","result":"🟡무"},{"date":"26.04.19","home":"Connah’s Quay Nomads","away":"콜윈베이 FC","score":"1-1","result":"🟡무"}]'
+awayRecent: '[{"date":"26.08.08","home":"Trefelin BGC","away":"란디드노","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5882039-2026-08-08-trefelin-bgc/"},{"date":"26.08.01","home":"콜윈베이 FC","away":"Trefelin BGC","score":"2-0","result":"🔴패"}]'
 injuryHome: "없음"
 injuryAway: "없음"
 homeLineup: ''
