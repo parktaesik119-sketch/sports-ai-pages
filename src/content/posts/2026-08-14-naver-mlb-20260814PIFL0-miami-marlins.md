@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"마이애미 말린스","away":"피츠�
 awayRecent: '[{"date":"26.08.13","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PIFL0-2026-08-13-miami-marlins/"},{"date":"26.08.12","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PIFL0-2026-08-12-miami-marlins/"},{"date":"26.08.10","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"1-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810NMPI0-2026-08-10-pittsburgh-pirates/"},{"date":"26.08.09","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809NMPI0-2026-08-09-pittsburgh-pirates/"},{"date":"26.08.08","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808NMPI0-2026-08-08-pittsburgh-pirates/"}]'
 injuryHome: "Kyle Stowers (좌상)|Anthony Bender (골절)|Andrew Nardi (골절)|Max Meyer (좌상)|Ronny Henriquez (수술)"
 injuryAway: "Endy Rodriguez (통증)|Oneil Cruz (골절)|Konnor Griffin (좌상)|Ryan O'Hearn (좌상)|Mitch Keller (명시되지 않음)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Phillips (3-5, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/41247.png\"]"
+awayLineup: "[\"선발투수 B. Ashcraft (11-5, 4.08) ERA 4.08|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"미네소타 트윈스","away":"볼티�
 awayRecent: '[{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"},{"date":"26.08.12","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PHSL0-2026-08-12-st-louis-cardinals/"},{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"},{"date":"26.08.10","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TOPH0-2026-08-10-philadelphia-phillies/"},{"date":"26.08.09","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809TOPH0-2026-08-09-philadelphia-phillies/"}]'
 injuryHome: "Byron Buxton (신경 압박)|Joe Ryan (염좌)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)"
 injuryAway: "Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Johan Rojas (수술)|Adolis Garcia (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Bradley (9-4, 3.76) ERA 3.76|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
+awayLineup: "[\"선발투수 A. Nola (3-9, 5.47) ERA 5.47|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

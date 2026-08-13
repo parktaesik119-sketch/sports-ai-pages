@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매
 awayRecent: '[{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees/"},{"date":"26.08.10","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TBSE0-2026-08-10-seattle-mariners/"},{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TBSE0-2026-08-08-seattle-mariners/"},{"date":"26.08.07","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807DESE0-2026-08-07-seattle-mariners/"},{"date":"26.08.05","home":"시애틀 매리너스","away":"디트로이트 타이거즈","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179711-2026-08-05-seattle-mariners/"}]'
 injuryHome: "Cody Bellinger (근육 염좌)|Kervin Castro (염증)|Carlos Rodon (염증)|Giancarlo Stanton (근육 염좌)|Aaron Judge (골절)"
 injuryAway: "Gabe Speier (통증)|J.P. Crawford (염증)|Carlos Vargas (근육 염좌)|Will Wilson (골절)|Cole Wilcox (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Fried (4-3, 2.88) ERA 2.88|https://a.espncdn.com/i/headshots/mlb/players/full/32685.png\"]"
+awayLineup: "[\"선발투수 L. Gilbert (8-7, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

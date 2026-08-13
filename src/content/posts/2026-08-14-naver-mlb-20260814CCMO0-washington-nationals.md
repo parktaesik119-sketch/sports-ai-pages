@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.12","home":"워싱턴 내셔널스","away":"시카�
 awayRecent: '[{"date":"26.08.12","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CCMO0-2026-08-12-washington-nationals/"},{"date":"26.08.10","home":"캔자스시티 로열스","away":"시카고 컵스","score":"2-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CCKC0-2026-08-10-kansas-city-royals/"},{"date":"26.08.09","home":"캔자스시티 로열스","away":"시카고 컵스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CCKC0-2026-08-09-kansas-city-royals/"},{"date":"26.08.07","home":"시카고 컵스","away":"토론토 블루제이즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807TOCC0-2026-08-07-chicago-cubs/"},{"date":"26.08.06","home":"시카고 컵스","away":"LA 다저스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-179734-2026-08-06-chicago-cubs/"}]'
 injuryHome: "Drew Millas (골절)|James Wood (긴장)|Richard Lovelady (긴장)|DJ Herz (긴장)|Josiah Gray (긴장)"
 injuryAway: "Daniel Palencia (긴장)|Hoby Milner (수술)|Gavin Hollowell (염증)|Edward Cabrera (긴장)|Matt Shaw (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Cavalli (9-5, 3.57) ERA 3.57|https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png\"]"
+awayLineup: "[\"선발투수 K. Gausman (6-10, 4.29) ERA 4.29|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
