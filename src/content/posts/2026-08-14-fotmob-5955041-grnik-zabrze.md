@@ -25,7 +25,7 @@ awayLineup: '["Dénes Dibusz (GK)|https://images.fotmob.com/image_resources/play
 homeFormation: "4-3-3"
 awayFormation: "4-2-3-1"
 homeCoach: "Michal Gasparík|https://images.fotmob.com/image_resources/playerimages/69915.png"
-awayCoach: ""
+awayCoach: "Balázs Borbély|https://images.fotmob.com/image_resources/playerimages/27525.png"
 pickWinTeam: "Górnik Zabrze"
 pickWinResult: "승"
 pickHandicapTeam: "Górnik Zabrze"
