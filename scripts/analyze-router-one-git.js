@@ -803,7 +803,11 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
 
   let h2hForAvg = []; // 평균 계산 전용 (표시용 h2hHistory와 별개, 최대 10개까지 사용)
   let h2hHistory = masterData.filter(m => {
-    const isMatch = ((m.home === match.home && m.away === match.away) || (m.home === match.away && m.away === match.home));
+    // ⚠️ masterData(all-fixtures.json)엔 같은 팀이 소스마다 다른 영문 표기로 저장돼
+    // 있을 수 있어서(예: "PSG" / "Paris Saint Germain") 정확 일치(===)로는 진짜 상대전적을
+    // 놓칠 수 있다. team_name_map.js 동의어까지 확인하는 matchTeam()으로 비교한다
+    // (실사용 확인, 2026-08 — PSG 분석글에서 masterData 기반 상대전적이 빈약했던 원인).
+    const isMatch = ((matchTeam(m.home, match.home) && matchTeam(m.away, match.away)) || (matchTeam(m.home, match.away) && matchTeam(m.away, match.home)));
     const matchDate = new Date(m.date);
     const isRecentEnough = matchDate >= strictlyRecentDate;
     const isPast = matchDate < currentMatchDate;
@@ -915,7 +919,8 @@ return `${d} - ${h.home} (${scoreStr}) ${h.away}`;
   };
 
   let homeRecentMatches = masterData.filter(m => {
-    const isHomeTeam = m.home === match.home || m.away === match.home;
+    // ⚠️ h2hHistory와 동일한 이유로 matchTeam() 사용 (masterData 표기 불일치 대응, 2026-08)
+    const isHomeTeam = matchTeam(m.home, match.home) || matchTeam(m.away, match.home);
     const matchDate = new Date(m.date);
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= strictlyRecentDate;
@@ -929,7 +934,8 @@ return isHomeTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
   let awayRecentMatches = masterData.filter(m => {
-    const isAwayTeam = m.home === match.away || m.away === match.away;
+    // ⚠️ h2hHistory와 동일한 이유로 matchTeam() 사용 (masterData 표기 불일치 대응, 2026-08)
+    const isAwayTeam = matchTeam(m.home, match.away) || matchTeam(m.away, match.away);
     const matchDate = new Date(m.date);
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= strictlyRecentDate;
@@ -1153,7 +1159,8 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   const currentYear = new Date().getFullYear();
   const seasonStartDate = new Date(`${currentYear}-01-01`);
   const homeAllMatches = masterData.filter(m => {
-    const isHomeTeam = m.home === match.home || m.away === match.home;
+    // ⚠️ h2hHistory와 동일한 이유로 matchTeam() 사용 (masterData 표기 불일치 대응, 2026-08)
+    const isHomeTeam = matchTeam(m.home, match.home) || matchTeam(m.away, match.home);
     const matchDate = new Date(m.date);
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= seasonStartDate;
@@ -1163,7 +1170,8 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   }).sort((a, b) => new Date(b.date) - new Date(a.date));
 
   const awayAllMatches = masterData.filter(m => {
-    const isAwayTeam = m.home === match.away || m.away === match.away;
+    // ⚠️ h2hHistory와 동일한 이유로 matchTeam() 사용 (masterData 표기 불일치 대응, 2026-08)
+    const isAwayTeam = matchTeam(m.home, match.away) || matchTeam(m.away, match.away);
     const matchDate = new Date(m.date);
     const isPast = matchDate < currentMatchDate;
     const isRecentEnough = matchDate >= seasonStartDate;

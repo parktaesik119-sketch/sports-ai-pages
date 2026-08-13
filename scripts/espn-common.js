@@ -220,9 +220,15 @@ export function normalizeTeamForMatch(str) {
 // /matchDetails는 "Paris Saint-Germain"), 이런 짧은 약칭↔정식명 케이스는 문자열
 // 유사도(부분 포함) 비교만으로는 절대 안 잡힌다. team_name_map.js에 이미 동의어로
 // 등록돼 있는 경우가 많으므로, 이걸 matchTeam()의 1차 판단 기준으로 삼는다.
+// ⚠️ 여기서는 normalizeTeamForMatch()가 아니라 W 접미사를 벗기지 않는 순수 normalize()로
+// 키를 인덱싱한다. PSG처럼 남녀부가 같은 베이스명("Paris Saint Germain")을 공유하는
+// 클럽이 있는데, team_name_map.js엔 이 클럽의 여자팀 전용 키가 따로 없다 — 그 상태에서
+// W-스트립된 이름으로 비교하면 "Paris Saint Germain W"(여자팀)가 "Paris Saint Germain"
+// (남자팀=PSG)과 같은 팀으로 오인되는 사고가 난다(실사용 확인, 2026-08). 순수 normalize()는
+// "W"를 안 벗기므로 이 오인식이 안 생긴다.
 const NORMALIZED_KEY_TO_KOREAN = {};
 for (const [enKey, koValue] of Object.entries(TEAM_NAME_MAP)) {
-  const nk = normalizeTeamForMatch(enKey);
+  const nk = normalize(enKey);
   if (nk) NORMALIZED_KEY_TO_KOREAN[nk] = koValue;
 }
 
@@ -233,9 +239,10 @@ export function matchTeam(espnName, dbName) {
   if (en === dn || en.includes(dn) || dn.includes(en)) return true;
 
   // team_name_map.js에서 같은 한글 표시명으로 묶이는 동의어인지 확인
-  // (짧은 약칭 ↔ 공식 전체명처럼 문자열 유사도로는 안 잡히는 케이스를 커버)
-  const koA = NORMALIZED_KEY_TO_KOREAN[en];
-  const koB = NORMALIZED_KEY_TO_KOREAN[dn];
+  // (짧은 약칭 ↔ 공식 전체명처럼 문자열 유사도로는 안 잡히는 케이스를 커버).
+  // W 접미사 유무를 그대로 보존한 순수 normalize()로 비교해서 남녀부 혼동을 막는다.
+  const koA = NORMALIZED_KEY_TO_KOREAN[normalize(espnName)];
+  const koB = NORMALIZED_KEY_TO_KOREAN[normalize(dbName)];
   if (koA && koB && koA === koB) return true;
 
   // 일반 매칭 실패 시, 별칭 테이블로 한 번 더 시도 (스폰서명 생략 등 예외 케이스 대응)
