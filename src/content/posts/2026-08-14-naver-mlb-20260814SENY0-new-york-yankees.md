@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매
 injuryHome: "Cody Bellinger (근육 염좌)|Kervin Castro (염증)|Carlos Rodon (염증)|Giancarlo Stanton (근육 염좌)|Aaron Judge (골절)"
 injuryAway: "Gabe Speier (통증)|J.P. Crawford (염증)|Carlos Vargas (근육 염좌)|Will Wilson (골절)|Cole Wilcox (근육 염좌)"
 homeLineup: "[\"선발투수 M. Fried (4-3, 2.88) ERA 2.88|https://a.espncdn.com/i/headshots/mlb/players/full/32685.png\"]"
-awayLineup: "[\"선발투수 L. Gilbert (8-7, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+awayLineup: "[\"선발투수 L. Gilbert (8-7, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\",\"1번 R. Arozarena (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36488.png\",\"2번 J. Rodriguez (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41044.png\",\"3번 D. Canzone (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4345621.png\",\"4번 C. Raleigh (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41292.png\",\"5번 J. Naylor (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35066.png\",\"6번 B. Donovan (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41773.png\",\"7번 W. Wilson (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/38682.png\",\"8번 J. Pereda (C)|https://a.espncdn.com/i/headshots/mlb/players/full/40702.png\",\"9번 L. Rivas (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/40858.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
