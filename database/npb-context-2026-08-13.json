@@ -1,27 +1,5 @@
 [
   {
-    "home": "Yakult Swallows",
-    "away": "Hiroshima Carp",
-    "date": "2026-08-13T09:00:00.000Z",
-    "league": "NPB",
-    "venue": "神　宮",
-    "gameTime": "18:00",
-    "starters": {
-      "home": {
-        "name": "Keiji Takahashi",
-        "nameJa": "高橋　奎二",
-        "playerId": "51055132",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/s/047_51055132.jpg"
-      },
-      "away": {
-        "name": "Shohei Mori",
-        "nameJa": "森　翔平",
-        "playerId": "93395155",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/c/016_93395155.jpg"
-      }
-    }
-  },
-  {
     "home": "Yomiuri Giants",
     "away": "Hanshin Tigers",
     "date": "2026-08-13T09:00:00.000Z",
@@ -128,6 +106,28 @@
         "nameJa": "深沢　鳳介",
         "playerId": "61665155",
         "photoUrl": "https://p.npb.jp/players_photo/2026/180/db/043_61665155.jpg"
+      }
+    }
+  },
+  {
+    "home": "Yakult Swallows",
+    "away": "Hiroshima Carp",
+    "date": "2026-08-13T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "神　宮",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Keiji Takahashi",
+        "nameJa": "高橋　奎二",
+        "playerId": "51055132",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/s/047_51055132.jpg"
+      },
+      "away": {
+        "name": "Shohei Mori",
+        "nameJa": "森　翔平",
+        "playerId": "93395155",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/c/016_93395155.jpg"
       }
     }
   }
