@@ -190,6 +190,7 @@ const COUNTRY_MAP = {
 
   // ===== 국제 =====
   'World': '국제',
+  'International': '국제',
 
 };
 

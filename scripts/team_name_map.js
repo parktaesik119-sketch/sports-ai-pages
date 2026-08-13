@@ -1785,6 +1785,7 @@ const TEAM_NAME_MAP = {
   "Beitar Jerusalem": "베이타르 예루살렘",
   "AEK Larnaca": "라르니카",
   "FK Tobol Kostanay": "FK 토볼",
+  "Tobol Kostanay": "FK 토볼",
   "Ludogorets": "루도고레츠",
   "Coleraine FC": "콜레인 FC",
   "Coleraine": "콜레인 FC",

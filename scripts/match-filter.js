@@ -122,6 +122,9 @@ if (isExtraFiltered) {
     "Russia": ["PREMIER LEAGUE"],
     "Romania": ["LIGA I"],
     "Tanzania": ["PREMIER LEAGUE"],
+    "Wales": ["PREMIER LEAGUE"],
+    "Northern-Ireland": ["PREMIERSHIP"],
+    "Northern Ireland": ["PREMIERSHIP"]
   };
 
   if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
@@ -156,7 +159,7 @@ if (isExtraFiltered) {
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
   // ⚠️ 'FA CUP'은 여기서 제외했습니다 — FA Cup은 국가 상관없이 전부 통과되면 안 되고,
   // 위 countryLeagueWhitelist에 등록된 국가의 경기만 통과시켜야 해서 별도 처리합니다.
-  const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'TAIWAN FOOTBALL PREMIER LEAGUE','DFB POKAL', 'COPA LIBERTADORES','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP', 'LIGA I'].some(el => el === upperLg);
+  const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'TAIWAN FOOTBALL PREMIER LEAGUE','DFB POKAL', 'COPA LIBERTADORES','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP', 'LIGA I','EUROPA LEAGUE QUALIFICATION','EUROPA LEAGUE','CONFERENCE LEAGUE QUALIFICATION','CONFERENCE LEAGUE'].some(el => el === upperLg);
 
   // 축구 통합 필터 (국가+리그 화이트리스트 항목도 포함)
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision || isCountryLeagueWhitelisted);
