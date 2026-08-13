@@ -36,6 +36,7 @@ const COUNTRY_MAP = {
   'Qatar': '카타르',
   'Oman': '오만',
   'Saudi-Arabia': '사우디아라비아',
+  'Saudi Arabia': '사우디아라비아',
   'United-Arab-Emirates': '아랍에미리트',
   'Lebanon': '레바논',
   'Syria': '시리아',
