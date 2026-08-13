@@ -759,6 +759,9 @@ const TEAM_NAME_MAP = {
 
   //캐나다 축구팀
   "Atlético Ottawa": "아틀레티코 오타와",
+  "Vancouver FC": "밴쿠버 FC",
+  "Pacific FC": "퍼시픽 FC",
+  "Forge FC": "포지 FC",
 
   // 국가대표팀
   "Canada": "캐나다",
@@ -1425,6 +1428,7 @@ const TEAM_NAME_MAP = {
   "Sligo Rovers": "슬라이고 로버스",
   "St Patrick's Athl.": "세인트 패트릭스 애슬레틱",
   "Waterford": "워터퍼드",
+  "Cliftonville": "클리프턴빌",
  
 
   // OFC Pro League (오세아니아)
@@ -1512,6 +1516,7 @@ const TEAM_NAME_MAP = {
   "Al Okhdood": "알오크후드",
   "Al Riyadh": "알리야드",
   "Al Shabab": "알샤밥",
+  "Sharjah Cultural Club": "알샤르자",
   "Al Taawon": "알타아운",
   "Shabab Al Ahli Dubai": "샤밥 알아흘리 두바이",
   "Sharjah FC": "샤르자 FC",
@@ -1779,8 +1784,10 @@ const TEAM_NAME_MAP = {
   "FK Tobol Kostanay": "FK 토볼",
   "Ludogorets": "루도고레츠",
   "Coleraine FC": "콜레인 FC",
+  "Coleraine": "콜레인 FC",
   "FC Lugano": "FC 루가노",
   "Lugano": "FC 루가노",
+  "Limavady": "리마바디",
   "FC Vaduz": "FC 바두츠",
   "Memmingen": "FC 메밍겐",
   "Rapperswil": "FC 라퍼스필-요나",

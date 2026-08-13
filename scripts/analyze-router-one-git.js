@@ -49,9 +49,17 @@ function convertLeagueName(rawLeague) {
 }
 
 // 공통 유틸: 팀 득점 배열 추출
+// ⚠️ teamName이 이 경기에 실제로 home/away로 등장하는지 먼저 확인한다. 예전엔
+// "home이 아니면 무조건 away"로 가정해서, 다른 팀 경기가 리스트에 잘못 섞여
+// 들어와도(예: 외부 소스 매칭 오류로 엉뚱한 팀의 최근폼이 들어옴) 그 팀의
+// 점수가 teamName의 득점으로 둔갑해 평균 계산이 조용히 오염됐다(실사용 확인,
+// 2026-08 — PSG 분석글에 아스톤 빌라 경기가 섞여 들어간 사고). 이 경기에
+// teamName이 아예 없으면 평균 계산에서 제외한다.
 function getTeamScores(matches, teamName) {
   return matches.map(m => {
     const isHome = m.home === teamName;
+    const isAway = m.away === teamName;
+    if (!isHome && !isAway) return null;
     const score = isHome ? Number(m.homeScore) : Number(m.awayScore);
     return isNaN(score) ? null : score;
   }).filter(s => s !== null);
@@ -91,9 +99,12 @@ function trimmedAvg(scores, isBball = false) {
 }
 
 // H2H 평균 득점 계산 (홈팀/원정팀 각각 양쪽 포지션 모두 포함)
+// ⚠️ getTeamScores와 동일한 이유로, teamName이 실제로 등장하지 않는 행은 제외한다.
 function getH2hAvgScore(h2hMatches, teamName) {
   const scores = h2hMatches.map(m => {
     const isHome = m.home === teamName;
+    const isAway = m.away === teamName;
+    if (!isHome && !isAway) return null;
     const score = isHome ? Number(m.homeScore) : Number(m.awayScore);
     return isNaN(score) ? null : score;
   }).filter(s => s !== null && s >= 0);  // null 제거는 동일
@@ -997,6 +1008,13 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     h2hForAvg  = prioritizedH2h.slice(0, 10);
     h2hHistory = prioritizedH2h.slice(0, 5);
 
+    // ⚠️ 방어 필터: 외부 소스(fotmob/footystats/espn) 쪽에서 홈/원정 판별이 잘못돼
+    // 엉뚱한 팀의 최근폼이 섞여 들어오더라도(실사용 확인, 2026-08 — fetch-fotmob-context.js
+    // isHomeFirst 오판으로 PSG 분석글에 아스톤 빌라 경기가 섞인 사고), 이 팀(subject)이
+    // 실제로 home/away 어느 쪽으로도 등장하지 않는 행은 여기서 최종적으로 걸러낸다.
+    // 업스트림을 고쳐도(resolveHomeFirst 등) 남아있을 수 있는 다른 소스발 오염까지 잡는
+    // 마지막 안전장치다.
+    const homeSubject = resolveToKoreanName(match.home);
     const prioritizedHomeRecent = mergeSoccerMatchSources(
       [
         { label: 'fotmob', list: fotmobInfo?.recent?.home },
@@ -1004,10 +1022,11 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
         { label: 'espn', list: espnInfo?.recent?.home },
         { label: 'masterData', list: homeRecentMatches },
       ],
-      null, null, resolveToKoreanName(match.home)
-    );
+      null, null, homeSubject
+    ).filter(m => matchTeam(m.home, homeSubject) || matchTeam(m.away, homeSubject));
     homeRecentMatches = prioritizedHomeRecent.slice(0, 10);
 
+    const awaySubject = resolveToKoreanName(match.away);
     const prioritizedAwayRecent = mergeSoccerMatchSources(
       [
         { label: 'fotmob', list: fotmobInfo?.recent?.away },
@@ -1015,8 +1034,8 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
         { label: 'espn', list: espnInfo?.recent?.away },
         { label: 'masterData', list: awayRecentMatches },
       ],
-      null, null, resolveToKoreanName(match.away)
-    );
+      null, null, awaySubject
+    ).filter(m => matchTeam(m.home, awaySubject) || matchTeam(m.away, awaySubject));
     awayRecentMatches = prioritizedAwayRecent.slice(0, 10);
 
     const sourceLabel = fotmobInfo?.h2h?.length > 0 ? 'fotmob'

@@ -24,7 +24,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import {
-  matchTeamWithAlias,
+  resolveHomeFirst,
   findFotmobMatch,
   fetchMatchDetails,
   extractFotmobInjuries,
@@ -82,7 +82,19 @@ async function main() {
       if (!details) { skipCount++; continue; }
 
       // fotmob의 general.homeTeam/awayTeam 순서가 우리 DB 기준 홈/원정과 같은지 확인
-      const isHomeFirst = matchTeamWithAlias(details.general?.homeTeam?.name || '', match.home);
+      // (home↔home, away↔away 두 방향을 모두 봐서 판단 — 자세한 이유는 fotmob-common.js
+      // resolveHomeFirst() 주석 참고. 둘 다 애매하면 null이 오므로 이 경기는 건너뛴다.)
+      const isHomeFirst = resolveHomeFirst(
+        details.general?.homeTeam?.name || '',
+        details.general?.awayTeam?.name || '',
+        match.home,
+        match.away
+      );
+      if (isHomeFirst === null) {
+        console.warn(`⚠️ [홈/원정 판별 불가] ${match.home} vs ${match.away} ↔ fotmob(${details.general?.homeTeam?.name || '?'} vs ${details.general?.awayTeam?.name || '?'}) — 스킵`);
+        skipCount++;
+        continue;
+      }
 
       // 결장자
       const lineup = details.content?.lineup;

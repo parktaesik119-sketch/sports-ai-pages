@@ -61,6 +61,31 @@ export function matchTeamWithAlias(fotmobName, dbNameEn) {
 }
 
 // ─────────────────────────────────────────────
+// 우리 DB 기준 홈/원정이 fotmob 응답에서 어느 쪽인지 판별.
+// fetch-fotmob-context.js와 fotmob-lineup-update.js가 각자 따로
+// `matchTeamWithAlias(homeTeam↔homeTeam)` 한 방향만 비교해서 isHomeFirst를
+// 정하고 있었는데, 같은 클럽이라도 fotmob API마다 표기가 다른 경우(예: UEFA
+// Super Cup처럼 /matches 목록엔 "PSG", /matchDetails엔 "Paris Saint-Germain")
+// 그 한 방향 비교가 실패하면 무조건 "반대쪽"으로 확정해버려서, 결장자·라인업·
+// 포메이션·감독·최근폼이 통째로 뒤바뀌는 사고가 났다(실사용 확인, 2026-08 —
+// PSG vs 아스톤 빌라 UEFA 슈퍼컵 경기).
+// home↔home, away↔away 두 방향을 모두 확인해서 "확실히 맞는 신호"가 하나라도
+// 있으면 그걸로 판단한다(위 사례처럼 한쪽 팀 표기만 어긋나도 다른 쪽 신호로
+// 정답을 찾을 수 있다). 두 신호가 서로 모순되거나(둘 다 true) 둘 다 매칭이
+// 안 되면(둘 다 false) 판별 불가로 보고 null을 반환 — 호출부는 null이면 해당
+// 경기를 건너뛰고 로그를 남겨서, 필요하면 fotmob-team-aliases.json에 별칭을
+// 수동으로 추가할 수 있게 한다.
+export function resolveHomeFirst(fotmobHomeName, fotmobAwayName, dbHomeName, dbAwayName) {
+  const looksHomeFirst =
+    matchTeamWithAlias(fotmobHomeName, dbHomeName) || matchTeamWithAlias(fotmobAwayName, dbAwayName);
+  const looksAwayFirst =
+    matchTeamWithAlias(fotmobHomeName, dbAwayName) || matchTeamWithAlias(fotmobAwayName, dbHomeName);
+
+  if (looksHomeFirst === looksAwayFirst) return null; // 모순(둘 다 true) 또는 판별 불가(둘 다 false)
+  return looksHomeFirst;
+}
+
+// ─────────────────────────────────────────────
 // 경기 목록 / 상세 조회
 // ─────────────────────────────────────────────
 

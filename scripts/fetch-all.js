@@ -70,6 +70,23 @@ function normalizeName(name) {
 }
 
 /**
+ * UTC ISO 문자열 → KST(Asia/Seoul) 기준 'YYYY-MM-DD' 날짜 문자열
+ * 외부 API가 옵션(예: fotmob의 includeNextDayLateNight)으로 요청 범위 밖
+ * 날짜의 경기까지 끼워 보낼 때, 응답을 KST 기준으로 다시 걸러내기 위한 유틸.
+ */
+function toKstDateStr(isoStr) {
+  if (!isoStr) return null;
+  const d = new Date(isoStr);
+  if (isNaN(d.getTime())) return null;
+  const kstOffset = 9 * 60 * 60 * 1000;
+  const kst = new Date(d.getTime() + kstOffset);
+  const y = kst.getUTCFullYear();
+  const m = String(kst.getUTCMonth() + 1).padStart(2, '0');
+  const dd = String(kst.getUTCDate()).padStart(2, '0');
+  return `${y}-${m}-${dd}`;
+}
+
+/**
  * 호출 기간 설정: 현재 기준 -1일 ~ +2일 (총 4일)
  */
 function getTargetDates() {
@@ -176,7 +193,12 @@ async function fetchFotmobSoccerFixtures(dateStr /* YYYY-MM-DD */) {
         });
       }
     }
-    return results.filter(m => m.date); // 날짜 없는 항목은 이후 병합 로직에서 그냥 버려지므로 미리 제외
+    // includeNextDayLateNight=true 옵션 때문에 요청한 날짜(dateStr) 다음날 새벽 경기까지
+    // 응답에 섞여 들어올 수 있다. utcTime을 KST 날짜로 환산해 요청한 날짜와 정확히
+    // 일치하는 것만 남긴다 — 분석 시점 기준 너무 먼 미래 경기가 섞이는 것을 막기 위함.
+    // (해당 다음날 경기는 사라지는 게 아니라, 그 날짜가 실제로 D+2 범위에 들어오는
+    //  다음 실행 때 정상적으로 다시 수집된다.)
+    return results.filter(m => m.date && toKstDateStr(m.date) === dateStr);
   } catch (err) {
     console.error(`❌ fotmob 축구 일정 조회 실패 (${dateStr}):`, err.message);
     return [];

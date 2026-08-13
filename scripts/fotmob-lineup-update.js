@@ -22,6 +22,7 @@ import { fileURLToPath } from 'url';
 import { deriveFormationFromLineup } from './formation-common.js';
 import {
   matchTeamWithAlias,
+  resolveHomeFirst,
   findFotmobMatch,
   fetchMatchDetails,
   formatFotmobLineup,
@@ -149,8 +150,19 @@ function isProbablySameMatch(a, b) {
     && partsA[0] === partsB[1] && partsA[1] === partsB[0];
   if (!sameScoreDirect && !sameScoreSwapped) return false;
 
-  const homeMatches = matchTeamWithAlias(a.home, b.home) || matchTeamWithAlias(a.home, b.away);
-  const awayMatches = matchTeamWithAlias(a.away, b.home) || matchTeamWithAlias(a.away, b.away);
+  // ⚠️ a(이미 글에 저장된 기존 항목)는 최초 글 생성 시 TEAM_NAME_MAP으로 한글
+  // 번역된 상태("아스톤 빌라")일 수 있고, b(이번에 fotmob에서 새로 가져온 항목)는
+  // toFotmobH2hDisplay/toFotmobRecentDisplay가 번역 없이 fotmob 원문 그대로
+  // ("Aston Villa") 준다. 번역 없이 바로 비교하면 같은 팀을 다른 팀으로 오인해서
+  // dedup이 실패하고 같은 경기가 중복으로 쌓이는 사고가 났다(실사용 확인, 2026-08).
+  // 비교 전에 양쪽 다 영문으로 정규화해서 언어가 섞여도 같은 경기로 인식되게 한다.
+  const aHome = toEnglishTeamName(a.home);
+  const aAway = toEnglishTeamName(a.away);
+  const bHome = toEnglishTeamName(b.home);
+  const bAway = toEnglishTeamName(b.away);
+
+  const homeMatches = matchTeamWithAlias(aHome, bHome) || matchTeamWithAlias(aHome, bAway);
+  const awayMatches = matchTeamWithAlias(aAway, bHome) || matchTeamWithAlias(aAway, bAway);
   return homeMatches || awayMatches;
 }
 
@@ -270,8 +282,21 @@ async function main() {
       const updates = {};
 
       // fotmob의 general.homeTeam/awayTeam 순서가 우리 DB 기준 홈/원정과 같은지 확인
-      // (반대로 올 수 있어서 반드시 한 번 더 대조 후 좌우를 맞춰야 함)
-      const isHomeFirst = matchTeamWithAlias(details.general?.homeTeam?.name || '', homeTeamEn);
+      // (반대로 올 수 있어서 반드시 한 번 더 대조 후 좌우를 맞춰야 함. home↔home
+      // 한 방향만 보면 표기가 다른 팀(예: "PSG" vs "Paris Saint-Germain")에서
+      // 실패해 결장자/라인업/최근폼이 통째로 뒤바뀌는 사고가 났다 — fotmob-common.js
+      // resolveHomeFirst() 주석 참고. 판별 불가면 이 파일은 건너뛴다.)
+      const isHomeFirst = resolveHomeFirst(
+        details.general?.homeTeam?.name || '',
+        details.general?.awayTeam?.name || '',
+        homeTeamEn,
+        awayTeamEn
+      );
+      if (isHomeFirst === null) {
+        console.log(`   ⚠️ 홈/원정 판별 불가 (fotmob: ${details.general?.homeTeam?.name || '?'} vs ${details.general?.awayTeam?.name || '?'}) — 스킵`);
+        skipCount++;
+        continue;
+      }
 
       const lineup = details.content?.lineup;
       const fotmobHomeLineup = isHomeFirst ? lineup?.homeTeam : lineup?.awayTeam;
