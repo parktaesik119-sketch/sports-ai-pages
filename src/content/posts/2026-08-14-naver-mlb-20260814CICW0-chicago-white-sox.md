@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.12","home":"시카고 화이트삭스","away":"신�
 injuryHome: "Jordan Leasure (염좌)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (염좌)|Ky Bush (수술)"
 injuryAway: "Brandon Williamson (통증)|Graham Ashcraft (염좌)|Tony Santillan (염좌)|Spencer Steer (염좌)|Blake Dunn (수술)"
 homeLineup: "[\"선발투수 D. Martin (9-6, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
-awayLineup: "[\"선발투수 A. Abbott (6-7, 3.92) ERA 3.92|https://a.espncdn.com/i/headshots/mlb/players/full/4414528.png\"]"
+awayLineup: "[\"선발투수 A. Abbott (6-7, 3.92) ERA 3.92|https://a.espncdn.com/i/headshots/mlb/players/full/4414528.png\",\"1번 E. De La Cruz (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"2번 S. Stewart (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"3번 J. Bleday (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"4번 T. Stephenson (C)|https://a.espncdn.com/i/headshots/mlb/players/full/34975.png\",\"5번 E. Suarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32367.png\",\"6번 D. Myers (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40048.png\",\"7번 H. Rodriguez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5122878.png\",\"8번 M. McLain (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4422899.png\",\"9번 K. Hayes (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/35020.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
