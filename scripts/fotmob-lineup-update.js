@@ -60,6 +60,29 @@ function toEnglishTeamName(koName) {
   return KO_TO_EN[koName] || koName;
 }
 
+// ⚠️ team_name_map.js는 남녀 국가대표팀(핀란드/스웨덴 등 69개, 실사용 확인 2026-08)이
+// 같은 한글값을 공유한다(번역 편의 목적 — espn-common.js hasWomenSuffix 주석 참고).
+// 그래서 위 KO_TO_EN 역방향 조회는 한글명만으로는 성별을 복구 못 하고, 파일에 먼저
+// 등장한 영문키 하나로 뭉개버린다(예: "핀란드" → 항상 "Finland", 실제로 여자 경기여도
+// W가 안 붙음). 이 상태로 findFotmobMatch에 넘기면 근처 날짜에 같은 나라 남자
+// 국가대표 경기가 있을 때 그 경기 데이터가 여자팀 글에 잘못 섞여 들어갈 수 있다.
+// 글 frontmatter의 league 값(예: "네이션스리그(W)", "국제친선(W)")엔 이미 성별이
+// 드러나 있으므로, 이걸 근거로 KO_TO_EN이 놓친 W를 다시 붙이거나(또는 잘못 붙은 W를
+// 떼어내서) 이 글과 관련된 모든 팀명 비교에 일관되게 적용한다.
+function isWomensLeagueLabel(leagueLabel) {
+  return /\(w\)|여자부/i.test(String(leagueLabel || ''));
+}
+function hasWomenSuffixLocal(str) {
+  return /\s+\(?w\)?$/i.test(String(str || '').trim());
+}
+function toEnglishTeamNameGendered(koOrEnName, isWomens) {
+  const base = toEnglishTeamName(koOrEnName);
+  const hasW = hasWomenSuffixLocal(base);
+  if (isWomens && !hasW) return `${base} W`;
+  if (!isWomens && hasW) return String(base).trim().replace(/\s+\(?w\)?$/i, '');
+  return base;
+}
+
 // ─────────────────────────────────────────────
 // frontmatter 읽기/쓰기 (espn-boxscore-update.js / footystats-lineup-update.js와 동일)
 // ─────────────────────────────────────────────
@@ -134,7 +157,7 @@ function parseDisplayDate(d) {
   return new Date(`20${m[1]}-${m[2]}-${m[3]}T00:00:00Z`).getTime();
 }
 
-function isProbablySameMatch(a, b) {
+function isProbablySameMatch(a, b, isWomens = false) {
   const aTime = parseDisplayDate(a.date);
   const bTime = parseDisplayDate(b.date);
   if (Number.isNaN(aTime) || Number.isNaN(bTime)) return false;
@@ -156,8 +179,17 @@ function isProbablySameMatch(a, b) {
   // ("Aston Villa") 준다. 번역 없이 바로 비교하면 같은 팀을 다른 팀으로 오인해서
   // dedup이 실패하고 같은 경기가 중복으로 쌓이는 사고가 났다(실사용 확인, 2026-08).
   // 비교 전에 양쪽 다 영문으로 정규화해서 언어가 섞여도 같은 경기로 인식되게 한다.
-  const aHome = toEnglishTeamName(a.home);
-  const aAway = toEnglishTeamName(a.away);
+  // isWomens는 이 글(post) 전체의 성별 맥락(fm.league 기준) — a는 한글이라 KO_TO_EN
+  // 역변환 중 성별 정보가 소실될 수 있어(예: "핀란드"→"Finland", W 소실) 반드시
+  // 다시 강제로 맞춰준다. matchTeam()의 성별 가드가 이 단계 이후에 작동하므로,
+  // 여기서 잘못된 성별인 채로 넘기면 가드를 무력화하고 남녀 경기가 섞일 수 있다.
+  // ⚠️ b(fotmob 원문 영문)는 절대 강제 보정하면 안 된다 — 이미 올바르게 매칭된
+  // candidate에서 나온 진짜 성별 그대로다. 여기에도 isWomens를 강제로 씌우면
+  // 오히려 진짜 남자팀 경기("Finland")를 여자부처럼("Finland W") 둔갑시켜서
+  // 원래는 서로 다른 경기인데 같은 경기로 오인하게 되는 새 버그가 생긴다
+  // (실제로 이 테스트를 돌려보다가 발견해서 여기만 plain toEnglishTeamName으로 되돌림).
+  const aHome = toEnglishTeamNameGendered(a.home, isWomens);
+  const aAway = toEnglishTeamNameGendered(a.away, isWomens);
   const bHome = toEnglishTeamName(b.home);
   const bAway = toEnglishTeamName(b.away);
 
@@ -166,11 +198,17 @@ function isProbablySameMatch(a, b) {
   return homeMatches || awayMatches;
 }
 
-function supplementMatchList(existingItems, additionalItems, targetCount) {
+function supplementMatchList(existingItems, additionalItems, targetCount, isWomens = false) {
   const need = targetCount - existingItems.length;
   if (need <= 0) return null;
-  const candidates = additionalItems.filter(m =>
-    !existingItems.some(e => isProbablySameMatch(e, m))
+  // 🛡️ 안전장치: additionalItems는 정상적으로는 이미 성별이 올바르게 매칭된 candidate의
+  // h2h/teamForm이라 섞일 일이 없어야 하지만, 혹시라도(예: findFotmobMatch가 잘못된
+  // candidate를 골랐거나 fotmob 쪽 데이터 자체가 섞여 오는 경우) 대비해서 이 글의
+  // 성별 맥락(isWomens)과 다른 항목은 애초에 후보에서 제외한다 — dedup 로직(위
+  // isProbablySameMatch)이 놓치더라도 여기서 한 번 더 막는다.
+  const genderOk = m => hasWomenSuffixLocal(m.home) === isWomens && hasWomenSuffixLocal(m.away) === isWomens;
+  const candidates = additionalItems.filter(genderOk).filter(m =>
+    !existingItems.some(e => isProbablySameMatch(e, m, isWomens))
   );
   candidates.sort((a, b) => (a.date < b.date ? 1 : -1));
   const toAdd = candidates.slice(0, need);
@@ -259,8 +297,12 @@ async function main() {
 
     if (!needH2h && !needHomeRecent && !needAwayRecent && !needLineup && !needInjury) { skipCount++; continue; }
 
-    const homeTeamEn = toEnglishTeamName(fm.homeTeam || '');
-    const awayTeamEn = toEnglishTeamName(fm.awayTeam || '');
+    // league-name-map.js가 여자부 리그를 "네이션스리그(W)"/"국제친선(W)"처럼 "(W)"로,
+    // 그 외엔 공통 토큰 치환으로 "...여자부"로 번역해서 저장한다 — 이 라벨을 근거로
+    // KO_TO_EN 역변환에서 소실될 수 있는 성별 정보를 다시 강제해준다(위 주석 참고).
+    const isWomens = isWomensLeagueLabel(fm.league);
+    const homeTeamEn = toEnglishTeamNameGendered(fm.homeTeam || '', isWomens);
+    const awayTeamEn = toEnglishTeamNameGendered(fm.awayTeam || '', isWomens);
 
     console.log(`\n🔍 ${path.basename(filePath)}`);
     console.log(`   홈: ${fm.homeTeam} → ${homeTeamEn} / 원정: ${fm.awayTeam} → ${awayTeamEn}`);
@@ -369,7 +411,7 @@ async function main() {
 
       if (needH2h) {
         const items = toFotmobH2hDisplay(details.content?.h2h, fm.date);
-        const merged = supplementMatchList(existingH2h.items, items, TARGET_COUNT);
+        const merged = supplementMatchList(existingH2h.items, items, TARGET_COUNT, isWomens);
         if (merged) updates.h2h = JSON.stringify(merged);
       }
 
@@ -390,12 +432,12 @@ async function main() {
 
         if (needHomeRecent) {
           const items = toFotmobRecentDisplay(ourHomeFormArr, fm.date);
-          const merged = supplementMatchList(existingHomeRecent.items, items, TARGET_COUNT);
+          const merged = supplementMatchList(existingHomeRecent.items, items, TARGET_COUNT, isWomens);
           if (merged) updates.homeRecent = JSON.stringify(merged);
         }
         if (needAwayRecent) {
           const items = toFotmobRecentDisplay(ourAwayFormArr, fm.date);
-          const merged = supplementMatchList(existingAwayRecent.items, items, TARGET_COUNT);
+          const merged = supplementMatchList(existingAwayRecent.items, items, TARGET_COUNT, isWomens);
           if (merged) updates.awayRecent = JSON.stringify(merged);
         }
       }
