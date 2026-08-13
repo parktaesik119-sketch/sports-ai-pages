@@ -125,7 +125,10 @@ const TEAM_NAME_MAP = {
   "Nantes": "낭트",
   "Nice": "니스",
   "Paris FC": "파리 FC",
-  "Paris Saint Germain": "파리 생제르맹",
+  "Paris Saint Germain": "PSG",
+  "Paris Saint-Germain": "PSG",
+  "PSG": "PSG", // fotmob이 UEFA Super Cup 등 일부 대회의 /matches 목록 API에서 정식명 대신
+  // 이 줄임 표기를 그대로 쓰는 경우가 있어서(실사용 확인, 2026-08) 별도 키로 등록.
   "Rennes": "렌",
   "Rodez": "로데스",
   "Saint Etienne": "생테티엔",

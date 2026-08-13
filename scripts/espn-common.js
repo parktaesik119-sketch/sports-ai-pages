@@ -1,6 +1,10 @@
 // scripts/espn-common.js
 // ESPN site API 호출 관련 공통 로직.
 // espn-boxscore-update.js(라인업)와 espn-context-fetch.js(순위/결장자)가 공유합니다.
+// matchTeam()은 이 파일뿐 아니라 fotmob-common.js, analyze-router-one-git.js 등
+// 팀명 비교가 필요한 거의 모든 곳에서 공용으로 쓰인다.
+
+import TEAM_NAME_MAP from './team_name_map.js';
 
 // ─────────────────────────────────────────────
 // 종목별 ESPN API 설정
@@ -204,11 +208,36 @@ export function normalizeTeamForMatch(str) {
   const n = normalize(String(str).replace(/\s+W$/i, ''));
   return NATION_ALIASES[n] || n;
 }
+
+// ─────────────────────────────────────────────
+// team_name_map.js 기반 동의어 판별.
+// team_name_map.js는 원래 "영문 표기 → 한글 표시명" 변환용 파일이지만, 실제로는 같은
+// 클럽의 여러 영문 표기가 이미 같은 한글 값으로 묶여 있는 경우가 많다
+// (예: "1. FC Heidenheim"/"FC Heidenheim" → 둘 다 "하이덴하임",
+//      "Paris Saint Germain"/"Paris Saint-Germain"/"PSG" → 셋 다 "PSG").
+// 경기 일정을 이제 fotmob에서 직접 받아오면서(2026-08) fotmob API 엔드포인트마다
+// 같은 클럽을 다른 영문 표기로 주는 사고가 늘었는데(예: /matches 목록은 "PSG",
+// /matchDetails는 "Paris Saint-Germain"), 이런 짧은 약칭↔정식명 케이스는 문자열
+// 유사도(부분 포함) 비교만으로는 절대 안 잡힌다. team_name_map.js에 이미 동의어로
+// 등록돼 있는 경우가 많으므로, 이걸 matchTeam()의 1차 판단 기준으로 삼는다.
+const NORMALIZED_KEY_TO_KOREAN = {};
+for (const [enKey, koValue] of Object.entries(TEAM_NAME_MAP)) {
+  const nk = normalizeTeamForMatch(enKey);
+  if (nk) NORMALIZED_KEY_TO_KOREAN[nk] = koValue;
+}
+
 export function matchTeam(espnName, dbName) {
   const en = normalizeTeamForMatch(espnName);
   const dn = normalizeTeamForMatch(dbName);
   if (!en || !dn) return false;
   if (en === dn || en.includes(dn) || dn.includes(en)) return true;
+
+  // team_name_map.js에서 같은 한글 표시명으로 묶이는 동의어인지 확인
+  // (짧은 약칭 ↔ 공식 전체명처럼 문자열 유사도로는 안 잡히는 케이스를 커버)
+  const koA = NORMALIZED_KEY_TO_KOREAN[en];
+  const koB = NORMALIZED_KEY_TO_KOREAN[dn];
+  if (koA && koB && koA === koB) return true;
+
   // 일반 매칭 실패 시, 별칭 테이블로 한 번 더 시도 (스폰서명 생략 등 예외 케이스 대응)
   const enAlias = resolveTeamAlias(en);
   const dnAlias = resolveTeamAlias(dn);
