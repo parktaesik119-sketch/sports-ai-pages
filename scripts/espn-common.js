@@ -209,6 +209,21 @@ export function normalizeTeamForMatch(str) {
   return NATION_ALIASES[n] || n;
 }
 
+// 여자팀 표기는 항상 팀명 끝에 " W"(또는 소스에 따라 " (W)")가 붙는다(리그명 쪽에
+// 이미 "여자부"가 드러나서 team_name_map.js는 남녀 팀에 같은 한글 표시명을 재사용하도록
+// 만들어져 있다 — 팀명 자체로 성별을 구분해야 한다는 뜻). normalizeTeamForMatch()가
+// 매칭 목적으로 이 " W"를 벗겨버려서, 벗긴 이름끼리는 이름이 같아 보이면 성별이 달라도
+// 같은 팀으로 오인될 수 있었다(실사용 확인, 2026-08 — PSG 남자팀과
+// "Paris Saint Germain W" 여자팀 혼동). 두 이름 중 한쪽에만 여자팀 표기가 붙어있으면
+// 무조건 다른 팀으로 취급해서 원천 차단한다.
+// 실데이터(all-fixtures.json) 확인 결과 " (W)" 괄호 표기도 쓰이는 걸 확인해서
+// (예: "Kolding IF (W)") 같이 잡아준다. 앞에 공백이 없는 "UNSW"/"HCAW"/"Sparta KW"
+// 같은 팀명이나 "Znicz Pruszkow"처럼 자연히 w로 끝나는 팀명은 오탐 방지를 위해
+// 반드시 공백(\s+)이 선행할 때만 여자팀 표기로 인식한다.
+function hasWomenSuffix(str) {
+  return /\s+\(?w\)?$/i.test(String(str || '').trim());
+}
+
 // ─────────────────────────────────────────────
 // team_name_map.js 기반 동의어 판별.
 // team_name_map.js는 원래 "영문 표기 → 한글 표시명" 변환용 파일이지만, 실제로는 같은
@@ -233,6 +248,8 @@ for (const [enKey, koValue] of Object.entries(TEAM_NAME_MAP)) {
 }
 
 export function matchTeam(espnName, dbName) {
+  if (hasWomenSuffix(espnName) !== hasWomenSuffix(dbName)) return false; // 성별 표기 불일치 — 무조건 다른 팀
+
   const en = normalizeTeamForMatch(espnName);
   const dn = normalizeTeamForMatch(dbName);
   if (!en || !dn) return false;
