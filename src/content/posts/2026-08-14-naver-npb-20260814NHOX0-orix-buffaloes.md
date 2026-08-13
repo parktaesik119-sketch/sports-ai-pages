@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.12","home":"라쿠텐 골든이글스","away":"오�
 awayRecent: '[{"date":"26.08.12","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812SENH0-2026-08-12-nippon-ham-fighters/"},{"date":"26.08.11","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811SENH0-2026-08-11-nippon-ham-fighters/"},{"date":"26.08.09","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809RTNH0-2026-08-09-nippon-ham-fighters/"},{"date":"26.08.08","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808RTNH0-2026-08-08-nippon-ham-fighters/"},{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807RTNH0-2026-08-07-nippon-ham-fighters/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Taito Takashima (4-3, 3.95)|https://p.npb.jp/players_photo/2026/180/b/096_61065159.jpg\"]"
+awayLineup: "[\"선발투수 Kota Tatsu (3-6, 3.16)|https://p.npb.jp/players_photo/2026/180/f/016_01205155.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

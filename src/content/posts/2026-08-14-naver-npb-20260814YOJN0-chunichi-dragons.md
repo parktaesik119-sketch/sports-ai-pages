@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.12","home":"주니치 드래곤스","away":"요코�
 awayRecent: '[{"date":"26.08.12","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812HSYO0-2026-08-12-yomiuri-giants/"},{"date":"26.08.11","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811HSYO0-2026-08-11-yomiuri-giants/"},{"date":"26.08.09","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809YAYO0-2026-08-09-yomiuri-giants/"},{"date":"26.08.08","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808YAYO0-2026-08-08-yomiuri-giants/"},{"date":"26.08.07","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807YAYO0-2026-08-07-yomiuri-giants/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Hiroto Takahashi (2-6, 3.91)|https://p.npb.jp/players_photo/2026/180/d/019_61265153.jpg\"]"
+awayLineup: "[\"선발투수 Spencer Howard (1-2, 1.93)|https://p.npb.jp/players_photo/2026/180/g/028_23725150.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.12","home":"소프트뱅크 호크스","away":"지�
 awayRecent: '[{"date":"26.08.12","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812OXRT0-2026-08-12-rakuten-gold-eagles/"},{"date":"26.08.11","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811OXRT0-2026-08-11-rakuten-gold-eagles/"},{"date":"26.08.09","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809RTNH0-2026-08-09-nippon-ham-fighters/"},{"date":"26.08.08","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808RTNH0-2026-08-08-nippon-ham-fighters/"},{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807RTNH0-2026-08-07-nippon-ham-fighters/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Ryosuke Ohtsu (9-2, 2.56)|https://p.npb.jp/players_photo/2026/180/h/019_01305157.jpg\"]"
+awayLineup: "[\"선발투수 Masaru Fujii (1-3, 3.69)|https://p.npb.jp/players_photo/2026/180/e/047_71875153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
