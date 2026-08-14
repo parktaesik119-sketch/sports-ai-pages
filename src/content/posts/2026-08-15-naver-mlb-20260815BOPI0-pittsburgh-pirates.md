@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.14","home":"마이애미 말린스","away":"피츠�
 awayRecent: '[{"date":"26.08.14","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814BOTO0-2026-08-14-toronto-blue-jays/"},{"date":"26.08.13","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BOTO0-2026-08-13-toronto-blue-jays/"},{"date":"26.08.12","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BOTO0-2026-08-12-toronto-blue-jays/"},{"date":"26.08.11","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811BOTO0-2026-08-11-toronto-blue-jays/"},{"date":"26.08.10","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810OABO0-2026-08-10-boston-red-sox/"}]'
 injuryHome: "Oneil Cruz (골절)|Endy Rodriguez (염증)|Konnor Griffin (근육 부상)|Ryan O'Hearn (근육 부상)|Mitch Keller (기재되지 않음)"
 injuryAway: "Trevor Story (수술)|Isiah Kiner-Falefa (염증)|Roman Anthony (염좌)|Garrett Whitlock (염증)|Johan Oviedo (근육 부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Chandler (5-8, 4.26) ERA 4.26|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
+awayLineup: "[\"선발투수 J. Bennett (7-5, 3.17) ERA 3.17|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

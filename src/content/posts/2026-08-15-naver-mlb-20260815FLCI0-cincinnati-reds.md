@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.14","home":"시카고 화이트삭스","away":"신�
 awayRecent: '[{"date":"26.08.14","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PIFL0-2026-08-14-miami-marlins/"},{"date":"26.08.13","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PIFL0-2026-08-13-miami-marlins/"},{"date":"26.08.12","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PIFL0-2026-08-12-miami-marlins/"},{"date":"26.08.10","home":"마이애미 말린스","away":"LA 에인절스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ANFL0-2026-08-10-miami-marlins/"},{"date":"26.08.09","home":"마이애미 말린스","away":"LA 에인절스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809ANFL0-2026-08-09-miami-marlins/"}]'
 injuryHome: "Graham Ashcraft (염좌)|Tony Santillan (긴장)|Brandon Williamson (통증)|Spencer Steer (염좌)|Blake Dunn (수술)"
 injuryAway: "Kyle Stowers (긴장)|Anthony Bender (골절)|Andrew Nardi (골절)|Max Meyer (긴장)|Ronny Henriquez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Burns (13-2, 2.61) ERA 2.61|https://a.espncdn.com/i/headshots/mlb/players/full/4927516.png\"]"
+awayLineup: "[\"선발투수 S. Alcantara (13-6, 3.52) ERA 3.52|https://a.espncdn.com/i/headshots/mlb/players/full/35241.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

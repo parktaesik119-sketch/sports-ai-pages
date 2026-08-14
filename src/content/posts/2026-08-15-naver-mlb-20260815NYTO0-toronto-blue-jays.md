@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.14","home":"토론토 블루제이즈","away":"보�
 awayRecent: '[{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"},{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees/"},{"date":"26.08.10","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ATNY0-2026-08-10-new-york-yankees/"},{"date":"26.08.09","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809ATNY0-2026-08-09-new-york-yankees/"}]'
 injuryHome: "Brendon Little (친자 관련 휴가)|Lenyn Sosa (타박상)|Joe Mantiply (수술)|Spencer Arrighetti (통증)|Jonatan Clase (족저근막염)"
 injuryAway: "Carlos Rodon (염증)|Cody Bellinger (근육통)|Kervin Castro (염증)|Giancarlo Stanton (근육통)|Aaron Judge (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Bieber (3-2, 5.48) ERA 5.48|https://a.espncdn.com/i/headshots/mlb/players/full/40912.png\"]"
+awayLineup: "[\"선발투수 G. Cole (6-5, 3.35) ERA 3.35|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

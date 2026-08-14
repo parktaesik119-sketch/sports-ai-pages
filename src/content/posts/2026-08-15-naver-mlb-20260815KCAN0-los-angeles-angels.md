@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"LA 에인절스","away":"텍사스 레�
 awayRecent: '[{"date":"26.08.13","home":"LA 다저스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813KCLA0-2026-08-13-los-angeles-dodgers/"},{"date":"26.08.12","home":"LA 다저스","away":"캔자스시티 로열스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812KCLA0-2026-08-12-los-angeles-dodgers/"},{"date":"26.08.11","home":"LA 다저스","away":"캔자스시티 로열스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811KCLA0-2026-08-11-los-angeles-dodgers/"},{"date":"26.08.10","home":"캔자스시티 로열스","away":"시카고 컵스","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CCKC0-2026-08-10-kansas-city-royals/"},{"date":"26.08.09","home":"캔자스시티 로열스","away":"시카고 컵스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CCKC0-2026-08-09-kansas-city-royals/"}]'
 injuryHome: "Oswald Peraza (멍)|Yusei Kikuchi (염증)|Sam Bachman (염증)|Sebastian Rivero (수술)|Shaun Anderson (염증)"
 injuryAway: "Salvador Perez (통증)|Beck Way (경련)|Vinnie Pasquantino (통증)|Maikel Garcia (근육 부상)|Nick Mears (신경 압박)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Detmers (3-8, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png\"]"
+awayLineup: "[\"선발투수 R. Dobnak (2-1, 2.00) ERA 2.00|https://a.espncdn.com/i/headshots/mlb/players/full/42214.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

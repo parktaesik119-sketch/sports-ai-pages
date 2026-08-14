@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"애슬레틱스","away":"탬파베이 �
 awayRecent: '[{"date":"26.08.13","home":"LA 에인절스","away":"텍사스 레인저스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TEAN0-2026-08-13-los-angeles-angels/"},{"date":"26.08.12","home":"LA 에인절스","away":"텍사스 레인저스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812TEAN0-2026-08-12-los-angeles-angels/"},{"date":"26.08.11","home":"LA 에인절스","away":"텍사스 레인저스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TEAN0-2026-08-11-los-angeles-angels/"},{"date":"26.08.10","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810BATE0-2026-08-10-texas-rangers/"},{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809BATE0-2026-08-09-texas-rangers/"}]'
 injuryHome: "Brooks Kriske (신경 압박)|Jeffrey Springs (통증)|Justin Sterner (통증)|Joshua Kuroda-Grauer (수술)|Denzel Clarke (염좌)"
 injuryAway: "Carter Baumler (염좌)|Josh Jung (염좌)|Danny Jansen (염좌)|Kyle Higashioka (염좌)|Robert Garcia (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J.T. Ginn (8-6, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png\"]"
+awayLineup: "[\"선발투수 M. Gore (6-9, 4.43) ERA 4.43|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

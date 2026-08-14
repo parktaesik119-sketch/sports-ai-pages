@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카�
 awayRecent: '[{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"},{"date":"26.08.12","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PHSL0-2026-08-12-st-louis-cardinals/"},{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"},{"date":"26.08.10","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810COSL0-2026-08-10-st-louis-cardinals/"},{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809COSL0-2026-08-09-st-louis-cardinals/"}]'
 injuryHome: "Daniel Palencia (스트레인)|Hoby Milner (수술)|Gavin Hollowell (염증)|Edward Cabrera (스트레인)|Matt Shaw (염좌)"
 injuryAway: "Ramon Urias (건염)|Max Rajcic (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Holmes (4-5, 2.86) ERA 2.86|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
+awayLineup: "[\"선발투수 M. Liberatore (5-9, 5.15) ERA 5.15|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

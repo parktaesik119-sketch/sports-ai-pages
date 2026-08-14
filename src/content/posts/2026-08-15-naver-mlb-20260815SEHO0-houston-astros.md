@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"},{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees/"},{"date":"26.08.10","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TBSE0-2026-08-10-seattle-mariners/"},{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TBSE0-2026-08-08-seattle-mariners/"}]'
 injuryHome: "Jose Altuve (멍)|Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Taylor Ward (일일 상태)|Cole Young (일일 상태)|J.P. Crawford (염증)|Carlos Vargas (긴장)|Will Wilson (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 H. Wesneski (2-0, 3.86) ERA 3.86|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
+awayLineup: "[\"선발투수 E. Hancock (6-7, 3.35) ERA 3.35|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
