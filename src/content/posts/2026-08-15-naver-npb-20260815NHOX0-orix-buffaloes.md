@@ -1,0 +1,37 @@
+---
+title: "오릭스 버팔로스 vs 니혼햄 파이터즈 경기분석·라인업·결장자·통계·승부예측 (8월 15일) | NPB - 픽천국"
+date: 2026-08-15T05:00:00.000Z
+description: "오릭스 버팔로스 vs 니혼햄 파이터즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260815NHOX0-2026-08-15-orix-buffaloes"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "오릭스 버팔로스"
+awayTeam: "니혼햄 파이터즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/OX.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/NH.png"
+homeAnalysis: "오릭스 버팔로스는 2026시즌 최근 94경기에서 41승 6무 47패, 평균 득점 3.2를 기록하며 전체적으로는 다소 기복이 있는 전력입니다. 최근 흐름을 보면 득점 폭발이 나온 경기와 함께 실점이 크게 늘어나는 경기도 섞여 있어, 공격은 순간 집중력이 살아날 때 위력이 커지는 모습입니다. 홈에서는 비교적 자기 리듬을 찾는 편이지만, 상대 타선이 강하게 몰아칠 때는 마운드가 흔들리며 경기 흐름을 내주는 장면도 보입니다. 다만 최근 맞대결에서 니혼햄 파이터즈를 상대로 3-0 승리를 거둔 바 있어, 상성상 완전히 밀리는 모습은 아닙니다. 공격 쪽에서는 한 번 흐름을 타면 여러 득점으로 이어지는 힘이 있지만, 초반에 선취점을 내주면 운영이 거칠어지는 점이 주목됩니다."
+awayAnalysis: "니혼햄 파이터즈는 2026시즌 최근 84경기에서 46승 3무 35패, 평균 득점 3.7로 오릭스 버팔로스보다 한 단계 안정된 시즌 전력을 보여주고 있습니다. 최근 경기 흐름도 득점이 크게 막히지 않으면서, 필요할 때는 1점 차 승부를 끝까지 가져가는 힘이 돋보입니다. 특히 마운드 쪽에서 실점 억제력이 좋고, 타선도 대량 득점과 저득점 승부를 모두 소화할 수 있어 경기 운영 폭이 넓습니다. 원정에서도 큰 흔들림 없이 자기 강점을 이어가는 편이라, 상대가 흔들릴 때 빠르게 주도권을 잡는 장면이 자주 나옵니다. 오릭스 버팔로스와의 최근 맞대결에서도 연속 완승을 포함해 우세 흐름을 만든 적이 있어 자신감 측면에서도 앞서 있습니다."
+homePower: "최근 맞대결 승리 경험으로 상성 균형은 유지됨|득점 기복은 있으나 몰아치는 구간의 파괴력 있음|실점이 커질 때 경기 운영이 급격히 흔들리는 편임|선취점 확보 시 홈에서 흐름 고정 능력 살아남|상대 강한 마운드 상대로는 초반 집중력 검증 필요함"
+awayPower: "시즌 승률 우위로 전반 전력 완성도 높음|저득점 경기에서도 끝내는 운영 능력 검증됨|실점 억제와 득점 생산의 균형이 좋음|오릭스 버팔로스 상대 최근 우세 흐름 이어짐|원정에서도 타선 기복이 크게 늘지 않는 점이 강점임"
+h2h: '[{"date":"26.07.20","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"3-0","link":"https://pick79.com/posts/detail/analyze-181151-2026-07-20-orix-buffaloes/"},{"date":"26.07.19","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"1-5","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260719NHOX0-2026-07-19-orix-buffaloes/"},{"date":"26.07.18","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"0-7","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260718NHOX0-2026-07-18-orix-buffaloes/"},{"date":"26.07.02","home":"니혼햄 파이터즈","away":"오릭스 버팔로스","score":"9-1","link":"https://pick79.com/posts/detail/analyze-181064-2026-07-02-nippon-ham-fighters/"},{"date":"26.07.01","home":"니혼햄 파이터즈","away":"오릭스 버팔로스","score":"6-0","link":"https://pick79.com/posts/detail/analyze-181059-2026-07-01-nippon-ham-fighters/"}]'
+summary: "니혼햄 파이터즈는 2026시즌 전체 전력과 평균 득점에서 오릭스 버팔로스보다 앞서 있으며, 경기 운영의 안정감도 조금 더 좋아 보입니다. 오릭스 버팔로스는 홈에서 반등 여지는 있지만 최근 흐름이 들쭉날쭉해, 상대의 안정된 마운드와 맞붙을 때는 득점 생산이 관건입니다. 최근 맞대결에서도 니혼햄 파이터즈가 더 강한 흐름을 만든 적이 있어, 전체적으로는 원정팀이 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.13","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813OXRT0-2026-08-13-rakuten-gold-eagles/"},{"date":"26.08.12","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812OXRT0-2026-08-12-rakuten-gold-eagles/"},{"date":"26.08.11","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811OXRT0-2026-08-11-rakuten-gold-eagles/"},{"date":"26.08.09","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809OXJL0-2026-08-09-chiba-lotte-marines/"},{"date":"26.08.08","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808OXJL0-2026-08-08-chiba-lotte-marines/"}]'
+awayRecent: '[{"date":"26.08.13","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813SENH0-2026-08-13-nippon-ham-fighters/"},{"date":"26.08.12","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812SENH0-2026-08-12-nippon-ham-fighters/"},{"date":"26.08.11","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811SENH0-2026-08-11-nippon-ham-fighters/"},{"date":"26.08.09","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809RTNH0-2026-08-09-nippon-ham-fighters/"},{"date":"26.08.08","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808RTNH0-2026-08-08-nippon-ham-fighters/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "니혼햄 파이터즈"
+pickWinResult: "승"
+pickHandicapTeam: "니혼햄 파이터즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "6.5"
+pickOuDirection: "오버"
+---

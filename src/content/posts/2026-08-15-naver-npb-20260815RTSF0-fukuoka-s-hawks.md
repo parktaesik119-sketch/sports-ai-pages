@@ -1,0 +1,37 @@
+---
+title: "소프트뱅크 호크스 vs 라쿠텐 골든이글스 경기분석·라인업·결장자·통계·승부예측 (8월 15일) | NPB - 픽천국"
+date: 2026-08-15T05:00:00.000Z
+description: "소프트뱅크 호크스 vs 라쿠텐 골든이글스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260815RTSF0-2026-08-15-fukuoka-s-hawks"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "소프트뱅크 호크스"
+awayTeam: "라쿠텐 골든이글스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/RT.png"
+homeAnalysis: "소프트뱅크 호크스는 2026시즌 89경기에서 55승 5무 29패, 평균 득점 6.0으로 매우 안정적인 상위 전력을 보여주고 있습니다. 최근 흐름도 10경기 7승 3패로 좋고, 득점 생산이 꾸준하게 이어지면서 경기 초반부터 주도권을 잡는 장면이 자주 보입니다. 특히 홈에서는 공격이 더 살아나는 편이라 상대 마운드를 압박하는 힘이 강합니다. 최근 라쿠텐 골든이글스를 상대로도 큰 점수 차 승리가 이어지며 상성 우위가 분명하게 드러났습니다. 타선의 폭발력과 함께 실점 억제까지 받쳐주고 있어, 이번 경기에서도 운영 면에서 우세한 흐름이 기대됩니다."
+awayAnalysis: "라쿠텐 골든이글스는 2026시즌 77경기에서 26승 51패, 평균 득점 3.2로 득점 생산이 다소 부족한 전력을 보이고 있습니다. 최근 10경기에서도 3승 7패로 기복이 이어지고 있어, 경기 내내 흐름을 끝까지 붙잡는 힘이 아쉬운 편입니다. 원정에서는 공격이 더욱 무뎌지는 경향이 뚜렷해, 득점이 막히면 반등이 쉽지 않아 보입니다. 반면 마운드가 버티는 날에는 낮은 실점으로 접전을 만들 여지는 있습니다. 다만 최근 소프트뱅크 호크스를 상대로는 실점이 크게 늘어난 경기들이 있었고, 이번에도 타선 응집력이 핵심 변수가 될 것으로 보입니다."
+homePower: "평균 6득점대가 말해주듯 공격 템포가 빠름|상대전 상위 득점 차로 심리적 우위 확보됨|홈에서 초반부터 흐름 잡는 운영이 강점임|실점 억제와 타선 폭발이 함께 살아나는 편임|라쿠텐 상대로는 맞대응보다 주도권 싸움에 강함"
+awayPower: "평균 3득점대라 장타 의존도가 높아 보임|최근 승리도 저득점 접전에서만 살아남는 흐름임|원정 타격 하락으로 득점 기대치가 낮은 편임|실점이 늘면 추격 구조가 쉽게 무너지는 모습임|소프트뱅크 상대로는 초반 실점 억제가 핵심임"
+h2h: '[{"date":"26.08.02","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"6-10","link":"https://pick79.com/posts/detail/analyze-181199-2026-08-02-rakuten-gold-eagles/"},{"date":"26.08.01","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"0-5","link":"https://pick79.com/posts/detail/analyze-181193-2026-08-01-rakuten-gold-eagles/"},{"date":"26.07.12","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-181113-2026-07-12-fukuoka-s-hawks/"},{"date":"26.07.11","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"9-2","link":"https://pick79.com/posts/detail/analyze-181108-2026-07-11-fukuoka-s-hawks/"},{"date":"26.07.10","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-181101-2026-07-10-fukuoka-s-hawks/"}]'
+summary: "소프트뱅크 호크스는 2026시즌 55승 29패, 평균 득점 6.0으로 공격과 경기 운영 모두에서 확실한 우위를 보이고 있습니다. 라쿠텐 골든이글스는 26승 51패, 평균 득점 3.2로 득점 효율이 떨어지는 편이라, 전력 차가 분명하게 드러나고 있습니다. 최근 맞대결에서도 소프트뱅크 호크스가 대승을 포함해 우세한 흐름을 이어가고 있어, 이번 경기 역시 홈팀이 타선 우위와 안정적인 마운드 운영을 앞세워 주도권을 잡을 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.13","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813JLSF0-2026-08-13-fukuoka-s-hawks/"},{"date":"26.08.12","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"10-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812JLSF0-2026-08-12-fukuoka-s-hawks/"},{"date":"26.08.11","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"16-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811JLSF0-2026-08-11-fukuoka-s-hawks/"},{"date":"26.08.09","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809SFSE0-2026-08-09-seibu-lions/"},{"date":"26.08.08","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808SFSE0-2026-08-08-seibu-lions/"}]'
+awayRecent: '[{"date":"26.08.13","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813OXRT0-2026-08-13-rakuten-gold-eagles/"},{"date":"26.08.12","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812OXRT0-2026-08-12-rakuten-gold-eagles/"},{"date":"26.08.11","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811OXRT0-2026-08-11-rakuten-gold-eagles/"},{"date":"26.08.09","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809RTNH0-2026-08-09-nippon-ham-fighters/"},{"date":"26.08.08","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808RTNH0-2026-08-08-nippon-ham-fighters/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "소프트뱅크 호크스"
+pickWinResult: "승"
+pickHandicapTeam: "소프트뱅크 호크스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

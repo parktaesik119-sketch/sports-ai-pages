@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 가디언스 vs 샌디에이고 파드리스 경기분석·라인업·결장자·통계·승부예측 (8월 15일) | MLB - 픽천국"
+date: 2026-08-14T23:10:00.000Z
+description: "클리블랜드 가디언스 vs 샌디에이고 파드리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260815SDCL0-2026-08-15-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 최근 86경기 38승 2무 46패, 평균 득점 3.9로 시즌 전체 성적이 승률 5할 아래에 머물러 있습니다. 최근 흐름도 10경기 3승 7패로 흔들리고 있어, 득점 생산은 꾸준하지 않은 반면 실점 억제가 잘 풀리지 않는 모습이 함께 보입니다. 홈에서는 비교적 버티는 장면이 나오기도 하지만, 강한 상대를 만났을 때 경기 후반 집중력이 떨어지는 장면이 반복되고 있습니다. 특히 상위권 팀을 상대로는 득점이 묶이는 구간이 길어져 공격 전개가 답답해지는 편입니다. 다만 중심 타선이 한 번 살아나면 한 경기 흐름을 바꿀 수 있는 힘은 있어서, 초반에 따라붙는 장면을 만들면 접전 가능성은 남아 있습니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 최근 84경기 39승 6무 39패, 평균 득점 3.9로 승패가 균형을 이루는 가운데도 리그순위 5위까지 올라와 있습니다. 최근 10경기 8승 2패로 흐름이 매우 좋고, 평균 득점도 4.8로 올라오며 공격 쪽 자신감이 뚜렷하게 살아난 상태입니다. 득실도 +1.0으로 버티는 힘이 확인되고 있어, 필요한 순간에 실점을 최소화하면서 득점을 이어가는 전력이 돋보입니다. 다만 주요 결장자가 여러 명인 점은 마운드 운용과 타선 운영에 변수가 될 수 있어, 장기 레이스 속 세밀한 전력 소모는 주목할 만합니다. 그럼에도 최근 경기력만 놓고 보면 상위권다운 응집력이 유지되고 있어, 접전에서도 주도권을 잡을 가능성이 높아 보입니다."
+homePower: "최근 10경기 득실 기복이 커 경기 운영 안정감이 흔들림|평균 득점 3.9로 장타 의존보다 연결 타격이 관건임|상위권 상대 실점 억제가 흔들려 수비 집중도 보완 필요함|홈에서 버티는 힘은 있으나 초반 실점 시 반전 폭이 좁음|중심 타선이 터질 때만 경기 균형을 바꾸는 구조가 뚜렷함"
+awayPower: "최근 10경기 8승으로 상승 탄력이 매우 강함|평균 득점 4.8로 타선 응집력이 뚜렷하게 올라옴|득실 +1.0으로 공격과 마운드 균형이 안정적임|주요 결장자 다수에도 경기 흐름 관리가 유지됨|접전 후반에도 리드를 지키는 운영력이 강점임"
+h2h: '[]'
+summary: "샌디에이고 파드리스는 현재 리그순위 5위로, 클리블랜드 가디언스의 리그순위 9위보다 시즌 전력과 최근 흐름이 모두 한 단계 앞서 있습니다. 클리블랜드 가디언스는 시즌 전체 성적과 최근 흐름 모두에서 기복이 남아 있어, 득점이 끊기는 구간이 길어질 경우 경기를 끝까지 끌고 가는 힘이 약해 보입니다. 반면 샌디에이고 파드리스는 최근 득점 흐름이 살아 있고 실점 관리도 비교적 안정적이어서, 경기 후반으로 갈수록 우위를 넓힐 가능성이 높습니다. 전체적으로는 샌디에이고 파드리스가 전력, 최근 상승세, 득실 흐름에서 더 좋은 모습을 보이고 있습니다."
+homeRecent: '[{"date":"26.08.14","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CLDE0-2026-08-14-detroit-tigers/"},{"date":"26.08.13","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CLDE0-2026-08-13-detroit-tigers/"},{"date":"26.08.12","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CLDE0-2026-08-12-detroit-tigers/"},{"date":"26.08.10","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CLCW0-2026-08-10-chicago-white-sox/"},{"date":"26.08.09","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CLCW0-2026-08-09-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.08.10","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810HOSD0-2026-08-10-san-diego-padres/"},{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.07","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807SDAZ0-2026-08-07-arizona-diamondbacks/"}]'
+injuryHome: "Slade Cecconi (부상으로 인한 15일 부상자 명단)|Shawn Armstrong (부상으로 인한 60일 부상자 명단)"
+injuryAway: "Samad Taylor (부상으로 인한 10일 부상자 명단)|Joe Musgrove (염증으로 인한 60일 부상자 명단)|Miguel Andujar (골절로 인한 10일 부상자 명단)|Lucas Giolito (염증으로 인한 15일 부상자 명단)|Nick Pivetta (부상으로 인한 60일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

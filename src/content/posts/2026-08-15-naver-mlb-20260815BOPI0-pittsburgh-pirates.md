@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 보스턴 레드삭스 경기분석·라인업·결장자·통계·승부예측 (8월 15일) | MLB - 픽천국"
+date: 2026-08-14T22:40:00.000Z
+description: "피츠버그 파이러츠 vs 보스턴 레드삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260815BOPI0-2026-08-15-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 87경기에서 37승 1무 49패, 평균 득점 4.9를 기록하고 있어 전반적으로는 승률이 5할 아래인 가운데 득점 생산은 나쁘지 않은 편입니다. 최근 흐름은 10경기 3승 7패로 흔들리고 있지만, 직전 마이애미전 13득점 승리처럼 한 번 터질 때는 공격력이 크게 살아나는 모습도 보이고 있습니다. 다만 그 직전 흐름에서 대량 실점이 이어졌고, 뉴욕 메츠전 1득점 패배처럼 공격과 수비의 기복이 함께 나타나고 있어 안정감은 떨어져 보입니다. 리그순위 12위라는 현재 위치를 감안하면, 시즌 전체 전력은 중하위권이지만 득실 617-592처럼 완전히 무너진 팀은 아니어서 접전 운영의 여지는 있습니다. 홈에서는 보다 공격적으로 풀어갈 수 있는 장면이 있지만, 핵심 결장자가 적지 않아 경기 후반 집중력 유지가 가장 중요한 변수로 보입니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 96경기에서 50승 3무 43패, 평균 득점 4.2를 기록하며 리그순위 3위에 올라 있어 상위권 전력을 유지하고 있습니다. 최근 10경기 5승 5패로 흐름이 완전히 매끄럽지는 않지만, 토론토전 7득점 승리와 같은 경기에서 공격 응집력이 다시 살아나는 점은 분명한 강점입니다. 득실 538-452가 보여주듯 실점 억제력이 시즌 전체적으로 안정적이라, 타선이 평균 이상만 해주면 경기 주도권을 잡기 쉬운 구조입니다. 다만 최근에는 대량 득점 경기와 저득점 패배가 번갈아 나오고 있어, 상위권 전력답게 장타 흐름이 이어질 때와 그렇지 않을 때의 차이가 있습니다. 부상 이탈도 적지 않지만, 전체적인 전력 밀도와 시즌 누적 성과를 보면 원정에서도 우세를 기대할 만한 팀으로 보입니다."
+homePower: "마이애미전 대폭발 후에도 기복이 커 연속성은 과제임|득점은 가능하지만 실점 관리가 흔들려 경기 주도권 변동이 큼|리그순위 12위답게 하위권 압박 속 반등 동력은 공격에 있음|핵심 결장자 누적으로 중심 타선 연결성이 약해짐|한 경기 폭발력은 있으나 안정적 운영은 검증 부족함"
+awayPower: "리그순위 3위답게 시즌 누적 안정감이 높음|최근 타선은 저득점과 폭발을 오가며 변동성 존재함|득실 차 우위로 실점 억제 기반이 확실함|장기 결장자에도 팀 전체 밸런스는 크게 무너지지 않음|상위권 운영력으로 접전에서도 흐름 회복이 빠름"
+h2h: '[]'
+summary: "보스턴 레드삭스는 2026시즌 리그순위 3위와 득실 +86이 보여주듯 시즌 전체 전력에서 피츠버그 파이러츠보다 한 단계 위에 있습니다. 피츠버그 파이러츠는 최근 득점이 한 번 크게 터지기도 하지만, 10경기 흐름이 흔들리고 있어 경기 내내 안정적으로 버티는 힘은 보스턴 레드삭스에 비해 떨어져 보입니다. 양 팀 모두 결장 변수가 적지 않지만, 보스턴 레드삭스는 상위권 전력과 실점 억제력이 여전히 살아 있어 후반 운영에서 우위를 점할 가능성이 높습니다. 이런 흐름을 종합하면 보스턴 레드삭스 쪽이 경기 전체의 균형을 더 잘 잡을 것으로 보입니다."
+homeRecent: '[{"date":"26.08.14","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PIFL0-2026-08-14-miami-marlins/"},{"date":"26.08.13","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PIFL0-2026-08-13-miami-marlins/"},{"date":"26.08.12","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PIFL0-2026-08-12-miami-marlins/"},{"date":"26.08.10","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"1-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810NMPI0-2026-08-10-pittsburgh-pirates/"},{"date":"26.08.09","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809NMPI0-2026-08-09-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.08.14","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814BOTO0-2026-08-14-toronto-blue-jays/"},{"date":"26.08.13","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BOTO0-2026-08-13-toronto-blue-jays/"},{"date":"26.08.12","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BOTO0-2026-08-12-toronto-blue-jays/"},{"date":"26.08.11","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811BOTO0-2026-08-11-toronto-blue-jays/"},{"date":"26.08.10","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810OABO0-2026-08-10-boston-red-sox/"}]'
+injuryHome: "Oneil Cruz (골절)|Endy Rodriguez (염증)|Konnor Griffin (근육 부상)|Ryan O'Hearn (근육 부상)|Mitch Keller (기재되지 않음)"
+injuryAway: "Trevor Story (수술)|Isiah Kiner-Falefa (염증)|Roman Anthony (염좌)|Garrett Whitlock (염증)|Johan Oviedo (근육 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

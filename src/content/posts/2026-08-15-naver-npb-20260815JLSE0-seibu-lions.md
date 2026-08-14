@@ -1,0 +1,37 @@
+---
+title: "세이부 라이온즈 vs 지바 롯데 마린스 경기분석·라인업·결장자·통계·승부예측 (8월 15일) | NPB - 픽천국"
+date: 2026-08-15T08:00:00.000Z
+description: "세이부 라이온즈 vs 지바 롯데 마린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260815JLSE0-2026-08-15-seibu-lions"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "세이부 라이온즈"
+awayTeam: "지바 롯데 마린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/JL.png"
+homeAnalysis: "세이부 라이온즈는 2026시즌 최근 97경기에서 51승 5무 41패로 승률이 안정적이고, 평균 득점 3.2를 기록하며 수비와 경기 운영의 균형을 보여주고 있습니다. 최근 흐름을 보면 득점 생산이 크게 폭발하진 않지만, 접전에서 버티는 힘이 살아 있고 홈에서 필요한 순간에 실점을 억제하는 모습이 돋보입니다. 다만 최근 10경기 평균 득점 2.4에서 보이듯 공격 전개가 일정하지 않아 한 번 끊기면 득점 루트가 답답해질 수 있습니다. 최근 지바 롯데 마린스전에서는 실점이 크게 늘어난 경기와 잘 막아낸 경기가 함께 있었기 때문에, 초반 선취점 여부가 경기 전반의 흐름을 크게 좌우할 가능성이 높습니다. 홈에서는 안정적인 투수 운용과 낮은 실점 관리가 강점으로 평가되며, 중심 타선이 한 번만 살아나도 충분히 균형을 맞출 수 있는 전력입니다."
+awayAnalysis: "지바 롯데 마린스는 2026시즌 최근 112경기에서 45승 12무 55패로 기복은 있지만, 평균 득점 8.4를 바탕으로 공격 쪽 확실한 폭발력을 보여주고 있습니다. 최근 흐름에서도 점수가 크게 나는 경기와 강한 팀을 상대로도 득점을 뽑아내는 장면이 이어지며, 타선이 살아날 때 경기 주도권을 빠르게 가져오는 힘이 있습니다. 최근 10경기 평균 득점 4.1 역시 화력의 바닥이 낮지 않다는 점을 보여주고 있습니다. 다만 실점이 커지는 구간이 함께 나타나 수비와 불펜의 안정감은 일정하지 않은 편입니다. 세이부 라이온즈를 상대로는 최근 맞대결에서 강한 장면이 이어졌고, 이런 상성 우위가 원정에서도 자신감으로 연결될 가능성이 높습니다."
+homePower: "홈에서 실점 관리가 경기 운영의 핵심임이 보임|접전에서 버티는 힘이 꾸준히 유지됨|공격 기복은 있지만 한 방으로 흐름 전환 가능함|지바 롯데 마린스 상대로 상성 열세 경계됨|초반 선취점 확보 시 승부 주도력 커짐"
+awayPower: "지바 롯데 마린스는 타선 폭발 시 경기 지배력이 큼|최근 맞대결에서 세이부 라이온즈 상대로 우세 확인됨|득점 상승과 함께 흐름을 빠르게 가져오는 힘이 있음|실점 변동폭이 커 투타 균형이 관건임|공격 주도권이 서면 원정에서도 우세 가능성 높음"
+h2h: '[{"date":"26.08.05","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"8-0","link":"https://pick79.com/posts/detail/analyze-181209-2026-08-05-chiba-lotte-marines/"},{"date":"26.08.04","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181207-2026-08-04-chiba-lotte-marines/"},{"date":"26.07.16","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-181130-2026-07-16-seibu-lions/"},{"date":"26.07.15","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-3","link":"https://pick79.com/posts/detail/analyze-181127-2026-07-15-seibu-lions/"},{"date":"26.07.14","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-181118-2026-07-14-seibu-lions/"}]'
+summary: "세이부 라이온즈는 시즌 전체 흐름에서 안정적인 승률을 유지하고 있지만, 최근 공격 생산이 다소 들쑥날쑥한 편이라 경기 주도권을 길게 이어가기는 쉽지 않아 보입니다. 지바 롯데 마린스는 시즌 전반의 기복에도 불구하고 득점력에서 더 강한 인상을 남기고 있고, 최근 맞대결에서도 공격과 결과 양쪽에서 우위를 보여주었습니다. 특히 두 팀의 최근 맞대결 흐름을 보면 지바 롯데 마린스가 세이부 라이온즈의 수비 부담을 계속 자극하고 있어, 이번 경기에서도 원정팀이 한발 앞서 나갈 가능성이 높습니다. 전반적인 전력과 최근 상성을 함께 보면 지바 롯데 마린스 쪽 기대감이 더 높습니다."
+homeRecent: '[{"date":"26.08.13","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813SENH0-2026-08-13-nippon-ham-fighters/"},{"date":"26.08.12","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812SENH0-2026-08-12-nippon-ham-fighters/"},{"date":"26.08.11","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811SENH0-2026-08-11-nippon-ham-fighters/"},{"date":"26.08.09","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"0-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809SFSE0-2026-08-09-seibu-lions/"},{"date":"26.08.08","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808SFSE0-2026-08-08-seibu-lions/"}]'
+awayRecent: '[{"date":"26.08.13","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813JLSF0-2026-08-13-fukuoka-s-hawks/"},{"date":"26.08.12","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812JLSF0-2026-08-12-fukuoka-s-hawks/"},{"date":"26.08.11","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"16-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811JLSF0-2026-08-11-fukuoka-s-hawks/"},{"date":"26.08.09","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809OXJL0-2026-08-09-chiba-lotte-marines/"},{"date":"26.08.08","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808OXJL0-2026-08-08-chiba-lotte-marines/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "지바 롯데 마린스"
+pickWinResult: "승"
+pickHandicapTeam: "지바 롯데 마린스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---
