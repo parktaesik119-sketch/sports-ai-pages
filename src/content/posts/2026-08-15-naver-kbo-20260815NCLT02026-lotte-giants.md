@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"SSG 랜더스","away":"롯데 자이언
 awayRecent: '[{"date":"26.08.13","home":"NC 다이노스","away":"KT 위즈","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813KTNC02026-2026-08-13-nc-dinos/"},{"date":"26.08.12","home":"NC 다이노스","away":"KT 위즈","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812KTNC02026-2026-08-12-nc-dinos/"},{"date":"26.08.11","home":"NC 다이노스","away":"KT 위즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811KTNC02026-2026-08-11-nc-dinos/"},{"date":"26.07.31","home":"NC 다이노스","away":"KIA 타이거즈","score":"10-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181918-2026-07-31-nc-dinos/"},{"date":"26.07.30","home":"NC 다이노스","away":"KT 위즈","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181915-2026-07-30-nc-dinos/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 황성빈 (중견수)\",\"2번 나승엽 (1루수)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (지명타자)\",\"5번 고승민 (2루수)\",\"6번 윤동희 (우익수)\",\"7번 한태양 (3루수)\",\"8번 전민재 (유격수)\",\"9번 손성빈 (포수)\"]"
-awayLineup: "[\"1번 김주원 (유격수)\",\"2번 최정원 (중견수)\",\"3번 박민우 (2루수)\",\"4번 김휘집 (3루수)\",\"5번 박건우 (지명타자)\",\"6번 블레인 (1루수)\",\"7번 권희동 (좌익수)\",\"8번 김형준 (포수)\",\"9번 천재환 (우익수)\"]"
+homeLineup: "[\"선발투수 박세웅 (ERA 4.92)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64021.jpg\",\"1번 황성빈 (중견수)\",\"2번 나승엽 (1루수)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (지명타자)\",\"5번 고승민 (2루수)\",\"6번 윤동희 (우익수)\",\"7번 한태양 (3루수)\",\"8번 전민재 (유격수)\",\"9번 손성빈 (포수)\"]"
+awayLineup: "[\"선발투수 원종해 (ERA 5.32)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54906.jpg\",\"1번 김주원 (유격수)\",\"2번 최정원 (중견수)\",\"3번 박민우 (2루수)\",\"4번 김휘집 (3루수)\",\"5번 박건우 (지명타자)\",\"6번 블레인 (1루수)\",\"7번 권희동 (좌익수)\",\"8번 김형준 (포수)\",\"9번 천재환 (우익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
