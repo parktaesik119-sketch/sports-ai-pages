@@ -247,13 +247,25 @@ for (const [enKey, koValue] of Object.entries(TEAM_NAME_MAP)) {
   if (nk) NORMALIZED_KEY_TO_KOREAN[nk] = koValue;
 }
 
+// ⚠️ 예전엔 여기서 en.includes(dn)/dn.includes(en) 식의 "부분 문자열 포함" 매칭을
+// 폴백으로 썼는데, 공백을 다 지운 문자열끼리 글자 단위로 비교하다 보니 단어 경계를
+// 넘나드는 우연의 일치를 못 걸러내는 사고가 반복됐다(실사용 확인, 2026-08):
+//  - "LA FC"(→"lafc")가 "Atletico Avila FC"(→"atleticoavilafc")의 부분 문자열로
+//    오매칭("avila"+"fc"="avilafc" 안에 "lafc"가 우연히 끼어있음)
+//  - "Sporting KC"가 그 2군 팀인 "Sporting KC II"의 접두어라서(둘 다 정식으로 다른
+//    팀인데도) 같은 팀으로 오매칭
+// 2군/유스팀은 거의 항상 본팀 이름을 접두어로 그대로 쓰기 때문에, 이런 부분일치는
+// 아무리 "단어 경계"를 지켜도 근본적으로 안전하지 않다고 판단해서 완전히 제거했다.
+// 이제 같은 팀으로 인정하는 경로는 딱 둘뿐이다: (1) 정규화 후 완전히 동일한 문자열,
+// (2) team_name_map.js에서 서로 다른 영문 키가 같은 한글 표시명으로 묶여 있는 경우
+// (이 동의어 묶음 자체도 위험해 보이는 항목은 감사 후 사용자 확인을 받는다).
 export function matchTeam(espnName, dbName) {
   if (hasWomenSuffix(espnName) !== hasWomenSuffix(dbName)) return false; // 성별 표기 불일치 — 무조건 다른 팀
 
   const en = normalizeTeamForMatch(espnName);
   const dn = normalizeTeamForMatch(dbName);
   if (!en || !dn) return false;
-  if (en === dn || en.includes(dn) || dn.includes(en)) return true;
+  if (en === dn) return true;
 
   // team_name_map.js에서 같은 한글 표시명으로 묶이는 동의어인지 확인
   // (짧은 약칭 ↔ 공식 전체명처럼 문자열 유사도로는 안 잡히는 케이스를 커버).
@@ -262,10 +274,11 @@ export function matchTeam(espnName, dbName) {
   const koB = NORMALIZED_KEY_TO_KOREAN[normalize(dbName)];
   if (koA && koB && koA === koB) return true;
 
-  // 일반 매칭 실패 시, 별칭 테이블로 한 번 더 시도 (스폰서명 생략 등 예외 케이스 대응)
+  // 일반 매칭 실패 시, 별칭 테이블로 한 번 더 시도 (스폰서명 생략 등 예외 케이스 대응) —
+  // 이 테이블도 완전일치만 인정한다(부분일치 제거, 위와 같은 이유).
   const enAlias = resolveTeamAlias(en);
   const dnAlias = resolveTeamAlias(dn);
-  return enAlias === dnAlias || enAlias.includes(dnAlias) || dnAlias.includes(enAlias);
+  return enAlias === dnAlias;
 }
 
 // ─────────────────────────────────────────────
