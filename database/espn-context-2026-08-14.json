@@ -1,12 +1,12 @@
 [
   {
-    "home": "Eintracht Braunschweig",
-    "away": "Bochum",
-    "date": "2026-08-14T16:30:00.000Z",
-    "league": "2. Bundesliga",
+    "home": "Boston River",
+    "away": "Danubio",
+    "date": "2026-08-14T22:00:00.000Z",
+    "league": "Liga AUF Uruguaya Clausura",
     "sport": "soccer",
-    "espnSport": "soccer_bundesliga2",
-    "gameId": "401885140",
+    "espnSport": "soccer_uruguay",
+    "gameId": "401906399",
     "injuries": {
       "home": [],
       "away": []
@@ -19,11 +19,11 @@
         "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "6",
+        "pointsFor": "2",
         "pointsAgainst": "1"
       },
       "away": {
-        "rank": "15",
+        "rank": "13",
         "wins": "0",
         "losses": "1",
         "ties": "0",
@@ -35,45 +35,45 @@
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "BOC leads series 4-1",
+      "text": "DAN leads series 2-1-2",
       "totalGames": 5,
       "games": [
         {
-          "date": "2026-04-12T11:30:00Z",
-          "home": "VfL Bochum",
-          "away": "TSV Eintracht Braunschweig",
-          "homeScore": 4,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-11-09T12:30:00Z",
-          "home": "TSV Eintracht Braunschweig",
-          "away": "VfL Bochum",
-          "homeScore": 0,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2021-02-14T12:30:00Z",
-          "home": "VfL Bochum",
-          "away": "TSV Eintracht Braunschweig",
+          "date": "2026-02-15T20:00:00Z",
+          "home": "Danubio",
+          "away": "Boston River",
           "homeScore": 2,
           "awayScore": 0,
           "isCompleted": true
         },
         {
-          "date": "2020-10-17T11:00:00Z",
-          "home": "TSV Eintracht Braunschweig",
-          "away": "VfL Bochum",
-          "homeScore": 2,
+          "date": "2025-10-17T23:00:00Z",
+          "home": "Boston River",
+          "away": "Danubio",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-06-14T17:30:00Z",
+          "home": "Boston River",
+          "away": "Danubio",
+          "homeScore": 1,
           "awayScore": 1,
           "isCompleted": true
         },
         {
-          "date": "2018-04-01T11:30:00Z",
-          "home": "VfL Bochum",
-          "away": "TSV Eintracht Braunschweig",
+          "date": "2025-04-18T17:00:00Z",
+          "home": "Danubio",
+          "away": "Boston River",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-08T18:00:00Z",
+          "home": "Danubio",
+          "away": "Boston River",
           "homeScore": 2,
           "awayScore": 0,
           "isCompleted": true
@@ -246,252 +246,6 @@
     }
   },
   {
-    "home": "Boston River",
-    "away": "Danubio",
-    "date": "2026-08-14T22:00:00.000Z",
-    "league": "Liga AUF Uruguaya Clausura",
-    "sport": "soccer",
-    "espnSport": "soccer_uruguay",
-    "gameId": "401906399",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "1",
-        "wins": "1",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "2",
-        "pointsAgainst": "1"
-      },
-      "away": {
-        "rank": "13",
-        "wins": "0",
-        "losses": "1",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "1"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "DAN leads series 2-1-2",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-02-15T20:00:00Z",
-          "home": "Danubio",
-          "away": "Boston River",
-          "homeScore": 2,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-10-17T23:00:00Z",
-          "home": "Boston River",
-          "away": "Danubio",
-          "homeScore": 0,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-06-14T17:30:00Z",
-          "home": "Boston River",
-          "away": "Danubio",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-04-18T17:00:00Z",
-          "home": "Danubio",
-          "away": "Boston River",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-09-08T18:00:00Z",
-          "home": "Danubio",
-          "away": "Boston River",
-          "homeScore": 2,
-          "awayScore": 0,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Juventud de las Piedras",
-    "away": "Torque",
-    "date": "2026-08-15T16:00:00.000Z",
-    "league": "Liga AUF Uruguaya Clausura",
-    "sport": "soccer",
-    "espnSport": "soccer_uruguay",
-    "gameId": "401906398",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "8",
-        "wins": "0",
-        "losses": "0",
-        "ties": "1",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "1",
-        "pointsAgainst": "1"
-      },
-      "away": {
-        "rank": "10",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "Series tied 2-2-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-07-11T13:00:00Z",
-          "home": "Juventud",
-          "away": "Montevideo City Torque",
-          "homeScore": 1,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-02-17T00:30:00Z",
-          "home": "Montevideo City Torque",
-          "away": "Juventud",
-          "homeScore": 2,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-09-14T16:00:00Z",
-          "home": "Juventud",
-          "away": "Montevideo City Torque",
-          "homeScore": 0,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-05-24T18:00:00Z",
-          "home": "Juventud",
-          "away": "Montevideo City Torque",
-          "homeScore": 3,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-03-20T20:00:00Z",
-          "home": "Montevideo City Torque",
-          "away": "Juventud",
-          "homeScore": 2,
-          "awayScore": 4,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Racing",
-    "away": "Nacional",
-    "date": "2026-08-15T19:30:00.000Z",
-    "league": "Liga AUF Uruguaya Clausura",
-    "sport": "soccer",
-    "espnSport": "soccer_uruguay",
-    "gameId": "401906396",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "7",
-        "wins": "0",
-        "losses": "0",
-        "ties": "1",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "2",
-        "pointsAgainst": "2"
-      },
-      "away": {
-        "rank": "12",
-        "wins": "0",
-        "losses": "1",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "1",
-        "pointsAgainst": "2"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "NAC leads series 4-0-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-02-14T23:30:00Z",
-          "home": "Nacional",
-          "away": "Racing (Montevideo)",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-09-07T21:00:00Z",
-          "home": "Nacional",
-          "away": "Racing (Montevideo)",
-          "homeScore": 3,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-06-14T20:30:00Z",
-          "home": "Racing (Montevideo)",
-          "away": "Nacional",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-03-16T22:30:00Z",
-          "home": "Racing (Montevideo)",
-          "away": "Nacional",
-          "homeScore": 0,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-11-08T23:30:00Z",
-          "home": "Racing (Montevideo)",
-          "away": "Nacional",
-          "homeScore": 0,
-          "awayScore": 2,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "Montevideo Wanderers",
     "away": "Cerro Largo",
     "date": "2026-08-15T22:30:00.000Z",
@@ -515,14 +269,14 @@
         "pointsAgainst": "0"
       },
       "away": {
-        "rank": "3",
-        "wins": "1",
+        "rank": "9",
+        "wins": "0",
         "losses": "0",
-        "ties": "0",
+        "ties": "1",
         "winPercent": null,
         "gamesBehind": null,
         "pointsFor": "1",
-        "pointsAgainst": "0"
+        "pointsAgainst": "1"
       }
     },
     "h2h": {
@@ -566,6 +320,88 @@
           "date": "2024-11-19T00:30:00Z",
           "home": "Cerro Largo",
           "away": "Montevideo Wanderers",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Atlanta United",
+    "away": "NY Red Bulls",
+    "date": "2026-08-15T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761712",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "3",
+        "losses": "12",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "19",
+        "pointsAgainst": "33"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "7",
+        "losses": "7",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "29",
+        "pointsAgainst": "39"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "RBNY leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-05-31T23:30:00Z",
+          "home": "Red Bull New York",
+          "away": "Atlanta United FC",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-09T00:30:00Z",
+          "home": "Atlanta United FC",
+          "away": "Red Bull New York",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-05T23:30:00Z",
+          "home": "Atlanta United FC",
+          "away": "Red Bull New York",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-21T23:30:00Z",
+          "home": "Red Bull New York",
+          "away": "Atlanta United FC",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-06-24T23:30:00Z",
+          "home": "Red Bull New York",
+          "away": "Atlanta United FC",
           "homeScore": 4,
           "awayScore": 0,
           "isCompleted": true
@@ -902,88 +738,6 @@
     }
   },
   {
-    "home": "Houston",
-    "away": "LA Galaxy",
-    "date": "2026-08-16T00:30:00.000Z",
-    "league": "Major League Soccer",
-    "sport": "soccer",
-    "espnSport": "soccer_mls",
-    "gameId": "761715",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "4",
-        "wins": "10",
-        "losses": "6",
-        "ties": "2",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "27",
-        "pointsAgainst": "24"
-      },
-      "away": {
-        "rank": "12",
-        "wins": "5",
-        "losses": "7",
-        "ties": "7",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "24",
-        "pointsAgainst": "29"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "series tied 1-1-3",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-05-24T02:30:00Z",
-          "home": "LA Galaxy",
-          "away": "Houston Dynamo FC",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-09-07T00:30:00Z",
-          "home": "Houston Dynamo FC",
-          "away": "LA Galaxy",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-04-13T02:30:00Z",
-          "home": "LA Galaxy",
-          "away": "Houston Dynamo FC",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-10-20T01:00:00Z",
-          "home": "Houston Dynamo FC",
-          "away": "LA Galaxy",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-05-26T02:30:00Z",
-          "home": "LA Galaxy",
-          "away": "Houston Dynamo FC",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "Nashville SC",
     "away": "Inter Miami CF",
     "date": "2026-08-16T00:30:00.000Z",
@@ -1066,88 +820,6 @@
     }
   },
   {
-    "home": "Salt Lake",
-    "away": "Minnesota",
-    "date": "2026-08-16T01:30:00.000Z",
-    "league": "Major League Soccer",
-    "sport": "soccer",
-    "espnSport": "soccer_mls",
-    "gameId": "761719",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "5",
-        "wins": "8",
-        "losses": "6",
-        "ties": "3",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "29",
-        "pointsAgainst": "25"
-      },
-      "away": {
-        "rank": "10",
-        "wins": "6",
-        "losses": "6",
-        "ties": "6",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "20",
-        "pointsAgainst": "25"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "MIN leads series 4-0-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-05-23T20:30:00Z",
-          "home": "Minnesota United FC",
-          "away": "Real Salt Lake",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-08-24T01:30:00Z",
-          "home": "Real Salt Lake",
-          "away": "Minnesota United FC",
-          "homeScore": 1,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-03-30T00:30:00Z",
-          "home": "Minnesota United FC",
-          "away": "Real Salt Lake",
-          "homeScore": 2,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-11-03T01:00:00Z",
-          "home": "Minnesota United FC",
-          "away": "Real Salt Lake",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-10-30T00:50:00Z",
-          "home": "Real Salt Lake",
-          "away": "Minnesota United FC",
-          "homeScore": 0,
-          "awayScore": 0,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "LAFC",
     "away": "San Diego FC",
     "date": "2026-08-16T02:30:00.000Z",
@@ -1208,88 +880,6 @@
           "away": "LAFC",
           "homeScore": 3,
           "awayScore": 2,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "San Jose",
-    "away": "St. Louis City",
-    "date": "2026-08-16T02:30:00.000Z",
-    "league": "Major League Soccer",
-    "sport": "soccer",
-    "espnSport": "soccer_mls",
-    "gameId": "761721",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "3",
-        "wins": "10",
-        "losses": "5",
-        "ties": "3",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "37",
-        "pointsAgainst": "24"
-      },
-      "away": {
-        "rank": "7",
-        "wins": "7",
-        "losses": "6",
-        "ties": "5",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "24",
-        "pointsAgainst": "24"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "STL leads series 4-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-04-26T00:30:00Z",
-          "home": "St. Louis CITY SC",
-          "away": "San Jose Earthquakes",
-          "homeScore": 2,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-09-21T02:30:00Z",
-          "home": "San Jose Earthquakes",
-          "away": "St. Louis CITY SC",
-          "homeScore": 1,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-05-31T18:30:00Z",
-          "home": "St. Louis CITY SC",
-          "away": "San Jose Earthquakes",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-09-22T02:30:00Z",
-          "home": "San Jose Earthquakes",
-          "away": "St. Louis CITY SC",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-07-04T00:30:00Z",
-          "home": "St. Louis CITY SC",
-          "away": "San Jose Earthquakes",
-          "homeScore": 2,
-          "awayScore": 0,
           "isCompleted": true
         }
       ]
@@ -1542,88 +1132,6 @@
     }
   },
   {
-    "home": "Fortuna Sittard",
-    "away": "Cambuur",
-    "date": "2026-08-15T19:00:00.000Z",
-    "league": "Eredivisie",
-    "sport": "soccer",
-    "espnSport": "soccer_eredivisie",
-    "gameId": "401875642",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "9",
-        "wins": "0",
-        "losses": "0",
-        "ties": "1",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "2",
-        "pointsAgainst": "2"
-      },
-      "away": {
-        "rank": "18",
-        "wins": "0",
-        "losses": "1",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "4"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "FOR leads series 3-2",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2023-01-29T15:45:00Z",
-          "home": "SC Cambuur",
-          "away": "Fortuna Sittard",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2022-08-20T16:45:00Z",
-          "home": "Fortuna Sittard",
-          "away": "SC Cambuur",
-          "homeScore": 1,
-          "awayScore": 4,
-          "isCompleted": true
-        },
-        {
-          "date": "2022-02-26T20:00:00Z",
-          "home": "SC Cambuur",
-          "away": "Fortuna Sittard",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2021-10-16T19:00:00Z",
-          "home": "Fortuna Sittard",
-          "away": "SC Cambuur",
-          "homeScore": 1,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2018-12-19T18:45:00Z",
-          "home": "Fortuna Sittard",
-          "away": "SC Cambuur",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "Minnesota Twins",
     "away": "Baltimore Orioles",
     "date": "2026-08-12T17:40:00.000Z",
@@ -1691,12 +1199,12 @@
       "home": {
         "rank": "8",
         "wins": "60",
-        "losses": "62",
+        "losses": "63",
         "ties": "0",
-        "winPercent": ".492",
-        "gamesBehind": "15",
-        "pointsFor": "571",
-        "pointsAgainst": "603"
+        "winPercent": ".488",
+        "gamesBehind": "15.5",
+        "pointsFor": "572",
+        "pointsAgainst": "610"
       },
       "away": {
         "rank": "11",
@@ -1813,19 +1321,19 @@
         "losses": "60",
         "ties": "0",
         "winPercent": ".504",
-        "gamesBehind": "13",
+        "gamesBehind": "13.5",
         "pointsFor": "529",
         "pointsAgainst": "530"
       },
       "away": {
-        "rank": "7",
-        "wins": "64",
+        "rank": "6",
+        "wins": "65",
         "losses": "58",
         "ties": "0",
-        "winPercent": ".525",
+        "winPercent": ".528",
         "gamesBehind": "10.5",
-        "pointsFor": "535",
-        "pointsAgainst": "542"
+        "pointsFor": "542",
+        "pointsAgainst": "543"
       }
     },
     "h2h": {
@@ -1918,7 +1426,7 @@
     },
     "standings": {
       "home": {
-        "rank": "14",
+        "rank": "15",
         "wins": "47",
         "losses": "74",
         "ties": "0",
@@ -2028,12 +1536,12 @@
     },
     "standings": {
       "home": {
-        "rank": "6",
+        "rank": "7",
         "wins": "64",
         "losses": "58",
         "ties": "0",
         "winPercent": ".525",
-        "gamesBehind": "10.5",
+        "gamesBehind": "11",
         "pointsFor": "552",
         "pointsAgainst": "541"
       },
@@ -2043,7 +1551,7 @@
         "losses": "73",
         "ties": "0",
         "winPercent": ".397",
-        "gamesBehind": "26",
+        "gamesBehind": "26.5",
         "pointsFor": "577",
         "pointsAgainst": "693"
       }
@@ -2199,7 +1707,7 @@
         "losses": "71",
         "ties": "0",
         "winPercent": ".413",
-        "gamesBehind": "24",
+        "gamesBehind": "24.5",
         "pointsFor": "493",
         "pointsAgainst": "557"
       },
@@ -2276,14 +1784,14 @@
       ],
       "away": [
         {
-          "name": "Joel Kuhnel",
-          "status": "15-Day-IL",
-          "detail": "Tendinitis"
-        },
-        {
           "name": "Brice Turang",
           "status": "Day-To-Day",
           "detail": ""
+        },
+        {
+          "name": "Joel Kuhnel",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
         },
         {
           "name": "Sal Frelick",
@@ -2309,19 +1817,19 @@
         "losses": "57",
         "ties": "0",
         "winPercent": ".533",
-        "gamesBehind": "9.5",
+        "gamesBehind": "10",
         "pointsFor": "522",
         "pointsAgainst": "521"
       },
       "away": {
         "rank": "1",
-        "wins": "74",
+        "wins": "75",
         "losses": "47",
         "ties": "0",
-        "winPercent": ".612",
+        "winPercent": ".615",
         "gamesBehind": "-",
-        "pointsFor": "592",
-        "pointsAgainst": "462"
+        "pointsFor": "597",
+        "pointsAgainst": "466"
       }
     },
     "h2h": {
@@ -2586,7 +2094,7 @@
         "losses": "60",
         "ties": "0",
         "winPercent": ".508",
-        "gamesBehind": "12.5",
+        "gamesBehind": "13",
         "pointsFor": "535",
         "pointsAgainst": "524"
       },
@@ -2596,7 +2104,7 @@
         "losses": "64",
         "ties": "0",
         "winPercent": ".480",
-        "gamesBehind": "16",
+        "gamesBehind": "16.5",
         "pointsFor": "617",
         "pointsAgainst": "592"
       }
@@ -2712,7 +2220,7 @@
         "losses": "63",
         "ties": "0",
         "winPercent": ".488",
-        "gamesBehind": "15",
+        "gamesBehind": "15.5",
         "pointsFor": "662",
         "pointsAgainst": "639"
       },
@@ -2722,7 +2230,7 @@
         "losses": "51",
         "ties": "0",
         "winPercent": ".582",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "634",
         "pointsAgainst": "526"
       }
@@ -3154,7 +2662,7 @@
         "losses": "48",
         "ties": "0",
         "winPercent": ".603",
-        "gamesBehind": "1",
+        "gamesBehind": "1.5",
         "pointsFor": "591",
         "pointsAgainst": "467"
       },
@@ -3164,7 +2672,7 @@
         "losses": "69",
         "ties": "0",
         "winPercent": ".434",
-        "gamesBehind": "21.5",
+        "gamesBehind": "22",
         "pointsFor": "510",
         "pointsAgainst": "557"
       }
@@ -3362,7 +2870,7 @@
         "losses": "62",
         "ties": "0",
         "winPercent": ".483",
-        "gamesBehind": "15.5",
+        "gamesBehind": "16",
         "pointsFor": "496",
         "pointsAgainst": "573"
       }
@@ -3451,12 +2959,12 @@
       "home": {
         "rank": "3",
         "wins": "73",
-        "losses": "48",
+        "losses": "49",
         "ties": "0",
-        "winPercent": ".603",
-        "gamesBehind": "1",
-        "pointsFor": "606",
-        "pointsAgainst": "464"
+        "winPercent": ".598",
+        "gamesBehind": "2",
+        "pointsFor": "610",
+        "pointsAgainst": "469"
       },
       "away": {
         "rank": "13",
@@ -3551,32 +3059,32 @@
           "detail": "Strain"
         },
         {
-          "name": "Robert Garcia",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
+          "name": "Jacob deGrom",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
         }
       ]
     },
     "standings": {
       "home": {
-        "rank": "15",
-        "wins": "47",
+        "rank": "14",
+        "wins": "48",
         "losses": "74",
         "ties": "0",
-        "winPercent": ".388",
-        "gamesBehind": "27.5",
-        "pointsFor": "493",
+        "winPercent": ".393",
+        "gamesBehind": "27",
+        "pointsFor": "500",
         "pointsAgainst": "583"
       },
       "away": {
         "rank": "7",
         "wins": "60",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".496",
-        "gamesBehind": "14.5",
+        "winPercent": ".492",
+        "gamesBehind": "15",
         "pointsFor": "497",
-        "pointsAgainst": "531"
+        "pointsAgainst": "538"
       }
     },
     "h2h": {
@@ -3740,7 +3248,7 @@
         "losses": "62",
         "ties": "0",
         "winPercent": ".483",
-        "gamesBehind": "15.5",
+        "gamesBehind": "16",
         "pointsFor": "496",
         "pointsAgainst": "573"
       }
@@ -3991,7 +3499,7 @@
         "losses": "60",
         "ties": "0",
         "winPercent": ".508",
-        "gamesBehind": "12.5",
+        "gamesBehind": "13",
         "pointsFor": "535",
         "pointsAgainst": "524"
       },
@@ -4001,7 +3509,7 @@
         "losses": "64",
         "ties": "0",
         "winPercent": ".480",
-        "gamesBehind": "16",
+        "gamesBehind": "16.5",
         "pointsFor": "617",
         "pointsAgainst": "592"
       }
@@ -4449,7 +3957,7 @@
         "losses": "63",
         "ties": "0",
         "winPercent": ".488",
-        "gamesBehind": "15",
+        "gamesBehind": "15.5",
         "pointsFor": "662",
         "pointsAgainst": "639"
       },
@@ -4459,7 +3967,7 @@
         "losses": "51",
         "ties": "0",
         "winPercent": ".582",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "634",
         "pointsAgainst": "526"
       }
@@ -4580,22 +4088,22 @@
       "home": {
         "rank": "8",
         "wins": "60",
-        "losses": "62",
+        "losses": "63",
         "ties": "0",
-        "winPercent": ".492",
-        "gamesBehind": "15",
-        "pointsFor": "571",
-        "pointsAgainst": "603"
+        "winPercent": ".488",
+        "gamesBehind": "15.5",
+        "pointsFor": "572",
+        "pointsAgainst": "610"
       },
       "away": {
-        "rank": "7",
-        "wins": "64",
+        "rank": "6",
+        "wins": "65",
         "losses": "58",
         "ties": "0",
-        "winPercent": ".525",
+        "winPercent": ".528",
         "gamesBehind": "10.5",
-        "pointsFor": "535",
-        "pointsAgainst": "542"
+        "pointsFor": "542",
+        "pointsAgainst": "543"
       }
     },
     "h2h": null
@@ -4658,37 +4166,37 @@
           "detail": "Strain"
         },
         {
-          "name": "Robert Garcia",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
+          "name": "Jacob deGrom",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
         }
       ]
     },
     "standings": {
       "home": {
-        "rank": "15",
-        "wins": "47",
+        "rank": "14",
+        "wins": "48",
         "losses": "74",
         "ties": "0",
-        "winPercent": ".388",
-        "gamesBehind": "27.5",
-        "pointsFor": "493",
+        "winPercent": ".393",
+        "gamesBehind": "27",
+        "pointsFor": "500",
         "pointsAgainst": "583"
       },
       "away": {
         "rank": "7",
         "wins": "60",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".496",
-        "gamesBehind": "14.5",
+        "winPercent": ".492",
+        "gamesBehind": "15",
         "pointsFor": "497",
-        "pointsAgainst": "531"
+        "pointsAgainst": "538"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAA lead series 6-3",
+      "text": "LAA lead series 7-3",
       "totalGames": 9,
       "games": [
         {
@@ -4804,14 +4312,14 @@
       ],
       "away": [
         {
-          "name": "Joel Kuhnel",
-          "status": "15-Day-IL",
-          "detail": "Tendinitis"
-        },
-        {
           "name": "Brice Turang",
           "status": "Day-To-Day",
           "detail": ""
+        },
+        {
+          "name": "Joel Kuhnel",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
         },
         {
           "name": "Sal Frelick",
@@ -4834,27 +4342,27 @@
       "home": {
         "rank": "3",
         "wins": "73",
-        "losses": "48",
+        "losses": "49",
         "ties": "0",
-        "winPercent": ".603",
-        "gamesBehind": "1",
-        "pointsFor": "606",
-        "pointsAgainst": "464"
+        "winPercent": ".598",
+        "gamesBehind": "2",
+        "pointsFor": "610",
+        "pointsAgainst": "469"
       },
       "away": {
         "rank": "1",
-        "wins": "74",
+        "wins": "75",
         "losses": "47",
         "ties": "0",
-        "winPercent": ".612",
+        "winPercent": ".615",
         "gamesBehind": "-",
-        "pointsFor": "592",
-        "pointsAgainst": "462"
+        "pointsFor": "597",
+        "pointsAgainst": "466"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAD lead series 2-1",
+      "text": "Series tied 2-2",
       "totalGames": 3,
       "games": [
         {
@@ -4940,7 +4448,7 @@
         "losses": "51",
         "ties": "0",
         "winPercent": ".582",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "634",
         "pointsAgainst": "526"
       },
@@ -4950,7 +4458,7 @@
         "losses": "60",
         "ties": "0",
         "winPercent": ".504",
-        "gamesBehind": "13",
+        "gamesBehind": "13.5",
         "pointsFor": "529",
         "pointsAgainst": "530"
       }
@@ -5114,7 +4622,7 @@
         "losses": "62",
         "ties": "0",
         "winPercent": ".483",
-        "gamesBehind": "15.5",
+        "gamesBehind": "16",
         "pointsFor": "496",
         "pointsAgainst": "573"
       },
@@ -5124,7 +4632,7 @@
         "losses": "60",
         "ties": "0",
         "winPercent": ".508",
-        "gamesBehind": "12.5",
+        "gamesBehind": "13",
         "pointsFor": "535",
         "pointsAgainst": "524"
       }
@@ -5240,7 +4748,7 @@
         "losses": "64",
         "ties": "0",
         "winPercent": ".480",
-        "gamesBehind": "16",
+        "gamesBehind": "16.5",
         "pointsFor": "617",
         "pointsAgainst": "592"
       },
@@ -5612,7 +5120,7 @@
         "losses": "69",
         "ties": "0",
         "winPercent": ".434",
-        "gamesBehind": "21.5",
+        "gamesBehind": "22",
         "pointsFor": "510",
         "pointsAgainst": "557"
       },
@@ -5622,7 +5130,7 @@
         "losses": "63",
         "ties": "0",
         "winPercent": ".488",
-        "gamesBehind": "15",
+        "gamesBehind": "15.5",
         "pointsFor": "662",
         "pointsAgainst": "639"
       }
@@ -5757,7 +5265,7 @@
         "losses": "57",
         "ties": "0",
         "winPercent": ".533",
-        "gamesBehind": "9.5",
+        "gamesBehind": "10",
         "pointsFor": "522",
         "pointsAgainst": "521"
       }
@@ -5835,17 +5343,17 @@
         "losses": "48",
         "ties": "0",
         "winPercent": ".603",
-        "gamesBehind": "1",
+        "gamesBehind": "1.5",
         "pointsFor": "591",
         "pointsAgainst": "467"
       },
       "away": {
-        "rank": "6",
+        "rank": "7",
         "wins": "64",
         "losses": "58",
         "ties": "0",
         "winPercent": ".525",
-        "gamesBehind": "10.5",
+        "gamesBehind": "11",
         "pointsFor": "552",
         "pointsAgainst": "541"
       }
@@ -6264,13 +5772,13 @@
     },
     "standings": {
       "home": {
-        "rank": "15",
-        "wins": "47",
+        "rank": "14",
+        "wins": "48",
         "losses": "74",
         "ties": "0",
-        "winPercent": ".388",
-        "gamesBehind": "27.5",
-        "pointsFor": "493",
+        "winPercent": ".393",
+        "gamesBehind": "27",
+        "pointsFor": "500",
         "pointsAgainst": "583"
       },
       "away": {
@@ -6374,15 +5882,15 @@
           "detail": "Strain"
         },
         {
-          "name": "Robert Garcia",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
+          "name": "Jacob deGrom",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
         }
       ]
     },
     "standings": {
       "home": {
-        "rank": "14",
+        "rank": "15",
         "wins": "47",
         "losses": "74",
         "ties": "0",
@@ -6394,12 +5902,12 @@
       "away": {
         "rank": "7",
         "wins": "60",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".496",
-        "gamesBehind": "14.5",
+        "winPercent": ".492",
+        "gamesBehind": "15",
         "pointsFor": "497",
-        "pointsAgainst": "531"
+        "pointsAgainst": "538"
       }
     },
     "h2h": {
@@ -6504,14 +6012,14 @@
       ],
       "away": [
         {
-          "name": "Joel Kuhnel",
-          "status": "15-Day-IL",
-          "detail": "Tendinitis"
-        },
-        {
           "name": "Brice Turang",
           "status": "Day-To-Day",
           "detail": ""
+        },
+        {
+          "name": "Joel Kuhnel",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
         },
         {
           "name": "Sal Frelick",
@@ -6534,28 +6042,28 @@
       "home": {
         "rank": "3",
         "wins": "73",
-        "losses": "48",
+        "losses": "49",
         "ties": "0",
-        "winPercent": ".603",
-        "gamesBehind": "1",
-        "pointsFor": "606",
-        "pointsAgainst": "464"
+        "winPercent": ".598",
+        "gamesBehind": "2",
+        "pointsFor": "610",
+        "pointsAgainst": "469"
       },
       "away": {
         "rank": "1",
-        "wins": "74",
+        "wins": "75",
         "losses": "47",
         "ties": "0",
-        "winPercent": ".612",
+        "winPercent": ".615",
         "gamesBehind": "-",
-        "pointsFor": "592",
-        "pointsAgainst": "462"
+        "pointsFor": "597",
+        "pointsAgainst": "466"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAD lead series 2-1",
-      "totalGames": 3,
+      "text": "Series tied 2-2",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-05-22T23:40:00Z",
@@ -6578,6 +6086,14 @@
           "home": "Milwaukee Brewers",
           "away": "Los Angeles Dodgers",
           "homeScore": 1,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-14T02:10:00Z",
+          "home": "Los Angeles Dodgers",
+          "away": "Milwaukee Brewers",
+          "homeScore": 4,
           "awayScore": 5,
           "isCompleted": true
         }
@@ -6655,7 +6171,7 @@
         "losses": "71",
         "ties": "0",
         "winPercent": ".413",
-        "gamesBehind": "24",
+        "gamesBehind": "24.5",
         "pointsFor": "493",
         "pointsAgainst": "557"
       },
@@ -6665,7 +6181,7 @@
         "losses": "73",
         "ties": "0",
         "winPercent": ".397",
-        "gamesBehind": "26",
+        "gamesBehind": "26.5",
         "pointsFor": "577",
         "pointsAgainst": "693"
       }
