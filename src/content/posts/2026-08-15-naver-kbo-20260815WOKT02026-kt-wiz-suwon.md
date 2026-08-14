@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"NC 다이노스","away":"KT 위즈","sc
 awayRecent: '[{"date":"26.08.13","home":"키움 히어로즈","away":"LG 트윈스","score":"6-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813LGWO02026-2026-08-13-kiwoom-heroes/"},{"date":"26.08.12","home":"키움 히어로즈","away":"LG 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812LGWO02026-2026-08-12-kiwoom-heroes/"},{"date":"26.08.11","home":"키움 히어로즈","away":"LG 트윈스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811LGWO02026-2026-08-11-kiwoom-heroes/"},{"date":"26.08.04","home":"롯데 자이언츠","away":"키움 히어로즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181934-2026-08-04-lotte-giants/"},{"date":"26.08.02","home":"키움 히어로즈","away":"SSG 랜더스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181927-2026-08-02-kiwoom-heroes/"}]'
 injuryHome: "안치영 (부상)"
 injuryAway: "하영민 (치료·재활중)"
-homeLineup: "[\"1번 최원준 (중견수)\",\"2번 김현수 (지명타자)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (좌익수)\",\"5번 김상수 (2루수)\",\"6번 류현인 (1루수)\",\"7번 허경민 (3루수)\",\"8번 한승택 (포수)\",\"9번 장준원 (유격수)\"]"
-awayLineup: "[\"1번 서건창 (2루수)\",\"2번 추재현 (좌익수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (지명타자)\",\"5번 김웅빈 (3루수)\",\"6번 임병욱 (중견수)\",\"7번 권혁빈 (유격수)\",\"8번 김동헌 (포수)\",\"9번 박주홍 (우익수)\"]"
+homeLineup: "[\"선발투수 오원석 (ERA 5.59)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50859.jpg\",\"1번 최원준 (중견수)\",\"2번 김현수 (지명타자)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (좌익수)\",\"5번 김상수 (2루수)\",\"6번 류현인 (1루수)\",\"7번 허경민 (3루수)\",\"8번 한승택 (포수)\",\"9번 장준원 (유격수)\"]"
+awayLineup: "[\"선발투수 하영민 (ERA 4.60)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64350.jpg\",\"1번 서건창 (2루수)\",\"2번 추재현 (좌익수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (지명타자)\",\"5번 김웅빈 (3루수)\",\"6번 임병욱 (중견수)\",\"7번 권혁빈 (유격수)\",\"8번 김동헌 (포수)\",\"9번 박주홍 (우익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
