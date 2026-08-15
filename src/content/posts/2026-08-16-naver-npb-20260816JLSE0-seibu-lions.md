@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.14","home":"세이부 라이온즈","away":"지바 
 awayRecent: '[{"date":"26.08.14","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814JLSE0-2026-08-14-seibu-lions/"},{"date":"26.08.13","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813JLSF0-2026-08-13-fukuoka-s-hawks/"},{"date":"26.08.12","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812JLSF0-2026-08-12-fukuoka-s-hawks/"},{"date":"26.08.11","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"16-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811JLSF0-2026-08-11-fukuoka-s-hawks/"},{"date":"26.08.09","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809OXJL0-2026-08-09-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Natsuki Takeuchi (8-6, 3.06)|https://p.npb.jp/players_photo/2026/180/l/021_51255159.jpg\"]"
+awayLineup: "[\"선발투수 Kaito Mouri (3-3, 4.41)|https://p.npb.jp/players_photo/2026/180/m/013_73175152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
