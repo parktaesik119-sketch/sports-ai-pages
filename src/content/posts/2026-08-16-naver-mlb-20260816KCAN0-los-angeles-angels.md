@@ -1,0 +1,37 @@
+---
+title: "LA 에인절스 vs 캔자스시티 로열스 경기분석·라인업·결장자·통계·승부예측 (8월 16일) | MLB - 픽천국"
+date: 2026-08-16T01:38:00.000Z
+description: "LA 에인절스 vs 캔자스시티 로열스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260816KCAN0-2026-08-16-los-angeles-angels"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 에인절스"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "LA 에인절스는 2026시즌 최근 76경기에서 26승 1무 49패, 평균 득점 3.8을 기록하며 하위권에 머물고 있습니다. 다만 최근 흐름에서는 텍사스 레인저스를 상대로 홈 3연승을 만들며 타선이 다시 살아나는 모습이 보였고, 직전 10경기 기준으로도 기복 속 반등 조짐이 분명합니다. 홈에서는 득점이 크게 폭발하지 않아도 승부를 끌고 가는 힘이 있고, 수비 쪽에서는 대량 실점이 나오는 경기와 짠물처럼 버티는 경기가 번갈아 나타나는 편입니다. 특히 홈에서의 집중력이 살아날 때는 경기 초반 리드를 잡고 운영하는 장면이 자주 보입니다. 다만 캔자스시티 로열스를 상대로는 이번 시즌 상대전적에서 연달아 밀린 흐름이 있어, 공격이 초반부터 풀리지 않으면 다시 부담이 커질 수 있습니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 최근 82경기에서 37승 4무 41패, 평균 득점 4.2를 기록하며 승패 균형을 맞추는 중입니다. 최근 9경기에서는 2승 7패로 주춤하지만, 시즌 전체 흐름만 놓고 보면 홈보다 득점 생산력이 조금 더 안정적이고 경기마다 득점 창출의 폭도 더 넓습니다. 다만 최근에는 강한 상대를 만나면 실점 억제가 흔들리는 장면이 반복되고 있어, 현재 리그순위 13위라는 위치와 최근 하락세가 함께 겹쳐 보입니다. 주전급 결장자가 여럿 있는 상황이라 타선의 연결과 득점권 집중력에서 부담이 커진 상태입니다. 그래도 LA 에인절스를 상대로는 시즌 상대전적에서 이미 우위를 가져가고 있어, 맞대결 상성에서는 여전히 자신감을 보일 수 있습니다."
+homePower: "홈에서 반등 신호가 뚜렷해진 흐름임|득점 기복은 있으나 집중력은 살아남|상위권 상대가 아니면 운영력 발휘 가능함|실점이 커지는 경기와 버티는 경기 차이 큼|캔자스시티 상대로는 상성 열세가 뚜렷함"
+awayPower: "시즌 득점 생산은 홈보다 한 단계 안정적임|최근 하락세에도 장타 한 방은 살아 있음|주전 결장으로 타선 연결성은 흔들림이 있음|실점 억제 실패 시 경기 주도권이 급격히 무너짐|LA 에인절스 상대로는 맞대결 우위가 검증됨"
+h2h: '[{"date":"26.04.27","home":"캔자스시티 로열스","away":"LA 에인절스","score":"11-9","link":"https://pick79.com/posts/detail/analyze-178428-2026-04-27-kansas-city-royals/"},{"date":"26.04.26","home":"캔자스시티 로열스","away":"LA 에인절스","score":"12-1","link":"https://pick79.com/posts/detail/analyze-178410-2026-04-26-kansas-city-royals/"},{"date":"26.04.25","home":"캔자스시티 로열스","away":"LA 에인절스","score":"6-3","link":"https://pick79.com/posts/detail/analyze-178396-2026-04-25-kansas-city-royals/"}]'
+summary: "두 팀 모두 리그순위는 하위권이지만, 캔자스시티 로열스가 시즌 전체 전력과 득점 생산에서 LA 에인절스보다 조금 더 앞서 있습니다. LA 에인절스는 최근 홈에서 반등 흐름을 만들고 있어 쉽게 밀릴 분위기는 아니지만, 캔자스시티 로열스가 맞대결에서 이미 연속 우위를 가져간 점은 분명히 크게 작용합니다. 여기에 캔자스시티 로열스가 시즌 득실 차이에서도 상대적으로 덜 흔들린 편이라, 전체적인 전력 균형은 원정팀 쪽으로 기울어 있습니다. 결국 이번 경기는 캔자스시티 로열스가 조금 더 우세하게 끌고 갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.14","home":"LA 에인절스","away":"텍사스 레인저스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814TEAN0-2026-08-14-los-angeles-angels/"},{"date":"26.08.13","home":"LA 에인절스","away":"텍사스 레인저스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TEAN0-2026-08-13-los-angeles-angels/"},{"date":"26.08.12","home":"LA 에인절스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812TEAN0-2026-08-12-los-angeles-angels/"},{"date":"26.08.11","home":"LA 에인절스","away":"텍사스 레인저스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TEAN0-2026-08-11-los-angeles-angels/"},{"date":"26.08.10","home":"마이애미 말린스","away":"LA 에인절스","score":"12-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ANFL0-2026-08-10-miami-marlins/"}]'
+awayRecent: '[{"date":"26.08.13","home":"LA 다저스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813KCLA0-2026-08-13-los-angeles-dodgers/"},{"date":"26.08.12","home":"LA 다저스","away":"캔자스시티 로열스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812KCLA0-2026-08-12-los-angeles-dodgers/"},{"date":"26.08.11","home":"LA 다저스","away":"캔자스시티 로열스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811KCLA0-2026-08-11-los-angeles-dodgers/"},{"date":"26.08.10","home":"캔자스시티 로열스","away":"시카고 컵스","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CCKC0-2026-08-10-kansas-city-royals/"},{"date":"26.08.09","home":"캔자스시티 로열스","away":"시카고 컵스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CCKC0-2026-08-09-kansas-city-royals/"}]'
+injuryHome: "Oswald Peraza (타박상)|Yusei Kikuchi (염증)|Sam Bachman (염증)|Sebastian Rivero (수술)|Shaun Anderson (염증)"
+injuryAway: "Beck Way (경련)|Salvador Perez (통증)|Maikel Garcia (염좌)|Vinnie Pasquantino (통증)|Nick Mears (신경 압박)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "캔자스시티 로열스"
+pickWinResult: "승"
+pickHandicapTeam: "캔자스시티 로열스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "KT 위즈 vs 키움 히어로즈 경기분석·라인업·결장자·통계·승부예측 (8월 16일) | KBO - 픽천국"
+date: 2026-08-16T10:00:00.000Z
+description: "KT 위즈 vs 키움 히어로즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260816WOKT02026-2026-08-16-kt-wiz-suwon"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "KT 위즈"
+awayTeam: "키움 히어로즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+homeAnalysis: "KT 위즈는 2026시즌 최근 76경기에서 45승 1무 30패, 평균 득점 5.2를 기록하며 리그 1위다운 안정감을 보여주고 있습니다. 최근 흐름도 매우 좋고, 최근 10경기에서 평균 득점 7.4로 타선의 폭발력이 한층 살아난 모습입니다. 특히 홈에서는 강한 공격 전개와 함께 경기 초반부터 주도권을 잡는 장면이 자주 보이고 있습니다. 오원석은 시즌 성적이 완벽하진 않지만 선발 평균 5.0이닝을 버티며 경기 운영을 이어가고 있고, 최근 타선의 지원을 받으면 충분히 승부를 풀어갈 수 있는 흐름입니다. 최원준과 힐리어드 중심의 상위 타선이 출루와 장타를 함께 만들어내고 있어, 득점 루트가 다양하다는 점이 돋보입니다."
+awayAnalysis: "키움 히어로즈는 2026시즌 최근 83경기에서 31승 1무 51패, 평균 득점 4.0으로 전반적인 전력이 다소 무거운 편입니다. 최근 10경기에서도 4승 6패로 기복이 이어지고 있어, 한 번 흐름이 끊기면 득점 연결이 매끄럽지 않은 모습이 나타나고 있습니다. 원정에서는 상대 투수진을 길게 공략하지 못하는 경기가 적지 않아, 초반 실점이 누적되면 추격 동력이 약해지는 편입니다. 하영민은 선발 평균 5.1이닝을 소화하며 버티는 힘은 있지만, 높은 출루 허용이 이어지면 경기 후반 부담이 커질 수 있습니다. 서건창과 데이비슨이 공격의 중심을 잡고 있으나, 하위 타선까지 안정적으로 연결되지 못하면 전체 득점 생산이 제한될 가능성이 큽니다."
+homePower: "리그 1위 전력으로 경기 운영 완성도가 높음|최근 득점 상승세가 타선 전체로 확산됨|상위 타선 출루와 장타 연결이 매끄러움|오원석의 이닝 소화로 불펜 부담 분산 가능함|원정 약체 상대로 주도권 잡는 패턴이 뚜렷함"
+awayPower: "리그 하위권 전력으로 장기전 응집력이 약함|하영민의 버티는 투구가 초반 실점 억제 핵심임|서건창 중심의 출루가 살아야 득점 연결됨|하위 타선 생산성 한계가 추격 흐름을 끊음|원정에서 수비 흔들림이 실점 확대로 이어짐"
+h2h: '[{"date":"26.08.14","home":"KT 위즈","away":"키움 히어로즈","score":"8-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814WOKT02026-2026-08-14-kt-wiz-suwon/"},{"date":"26.07.09","home":"KT 위즈","away":"키움 히어로즈","score":"3-0","link":"https://pick79.com/posts/detail/analyze-181849-2026-07-09-kt-wiz-suwon/"},{"date":"26.07.08","home":"KT 위즈","away":"키움 히어로즈","score":"7-3","link":"https://pick79.com/posts/detail/analyze-181844-2026-07-08-kt-wiz-suwon/"},{"date":"26.05.31","home":"키움 히어로즈","away":"KT 위즈","score":"1-5","link":"https://pick79.com/posts/detail/analyze-181686-2026-05-31-kiwoom-heroes/"},{"date":"26.05.30","home":"키움 히어로즈","away":"KT 위즈","score":"7-8","link":"https://pick79.com/posts/detail/analyze-181678-2026-05-30-kiwoom-heroes/"}]'
+summary: "KT 위즈는 2026시즌 전체 전력에서 확실한 우위를 보이고 있고, 최근 득점 흐름도 매우 강하게 이어지고 있습니다. 키움 히어로즈는 시즌 득점 생산이 다소 낮고 원정에서 수비 부담이 커지는 흐름이어서, 경기 내내 따라가기가 쉽지 않아 보입니다. 선발 매치업에서도 KT 위즈가 홈 이점과 타선의 응집력을 앞세워 주도권을 잡을 가능성이 높고, 최근 맞대결 흐름까지 고려하면 KT 위즈 쪽으로 무게가 실립니다."
+homeRecent: '[{"date":"26.08.14","home":"KT 위즈","away":"키움 히어로즈","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814WOKT02026-2026-08-14-kt-wiz-suwon/"},{"date":"26.08.13","home":"NC 다이노스","away":"KT 위즈","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813KTNC02026-2026-08-13-nc-dinos/"},{"date":"26.08.12","home":"NC 다이노스","away":"KT 위즈","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812KTNC02026-2026-08-12-nc-dinos/"},{"date":"26.08.11","home":"NC 다이노스","away":"KT 위즈","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811KTNC02026-2026-08-11-nc-dinos/"},{"date":"26.08.02","home":"KT 위즈","away":"한화 이글스","score":"12-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-181929-2026-08-02-kt-wiz-suwon/"}]'
+awayRecent: '[{"date":"26.08.14","home":"KT 위즈","away":"키움 히어로즈","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814WOKT02026-2026-08-14-kt-wiz-suwon/"},{"date":"26.08.13","home":"키움 히어로즈","away":"LG 트윈스","score":"6-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813LGWO02026-2026-08-13-kiwoom-heroes/"},{"date":"26.08.12","home":"키움 히어로즈","away":"LG 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812LGWO02026-2026-08-12-kiwoom-heroes/"},{"date":"26.08.11","home":"키움 히어로즈","away":"LG 트윈스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811LGWO02026-2026-08-11-kiwoom-heroes/"},{"date":"26.08.04","home":"롯데 자이언츠","away":"키움 히어로즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-181934-2026-08-04-lotte-giants/"}]'
+injuryHome: "안치영 (부상)"
+injuryAway: "하영민 (치료·재활중)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KT 위즈"
+pickWinResult: "승"
+pickHandicapTeam: "KT 위즈"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

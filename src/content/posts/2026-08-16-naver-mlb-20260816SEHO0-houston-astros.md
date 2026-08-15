@@ -1,0 +1,37 @@
+---
+title: "휴스턴 애스트로스 vs 시애틀 매리너스 경기분석·라인업·결장자·통계·승부예측 (8월 16일) | MLB - 픽천국"
+date: 2026-08-15T23:10:00.000Z
+description: "휴스턴 애스트로스 vs 시애틀 매리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260816SEHO0-2026-08-16-houston-astros"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "휴스턴 애스트로스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "휴스턴 애스트로스는 2026시즌 전체 42승 31패, 승률 .508, 경기당 평균 4.5득점으로 리그순위 5위에 올라 있습니다. 최근 10경기에서는 6승 4패로 시즌 전체 흐름보다 안정적인 전력을 보여주며 직전 두 경기 연속 승리로 분위기도 회복했습니다. 득점력은 시애틀 매리너스보다 앞서 있고, 최근에도 한 점 차 승부를 포함해 접전에서 버티는 힘이 돋보입니다. 다만 시즌 득실이 559득점과 586실점으로 마이너스인 만큼 경기 후반 수비와 실점 관리에는 변수가 있습니다. Mike Burrows, Brice Matthews, Carlos Correa, Brandon Walter의 결장은 투수진과 야수진 운용 폭을 줄이는 요인입니다. 홈에서 공격 흐름을 초반부터 끌어올리고 선발진이 장타 허용을 줄인다면 우세한 경기 운영이 가능해 보입니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 전체 34승 38패, 승률 .467, 경기당 평균 3.8득점으로 리그순위 12위에 머물러 있습니다. 최근 10경기에서는 3승 7패로 고점 대비 주춤한 흐름이며, 최근 일곱 경기에서 연속으로 패한 뒤 직전 경기에서 무실점 승리를 거두며 반등의 실마리를 만들었습니다. 시즌 득점력은 휴스턴 애스트로스보다 낮고 최근 평균 득점도 크게 떨어져 타선의 지속성이 핵심 변수입니다. 시즌 득실은 469득점과 495실점으로 마이너스이며, 최근 대량 실점 경기가 이어져 투수진 안정감이 아쉽습니다. J.P. Crawford, Carlos Vargas, Will Wilson, Cole Wilcox의 장기 결장은 내야와 불펜 운용에 부담을 주고 Taylor Ward의 경기 당일 상태도 타선 구성에 영향을 줄 수 있습니다. 다만 이번 시즌 휴스턴 애스트로스를 상대로 강한 상성을 보였던 만큼 초반 실점을 억제하면 원정에서도 경쟁력을 발휘할 가능성이 있습니다."
+homePower: "휴스턴 애스트로스는 타선의 기본 화력이 상대보다 앞서는 구조임|접전에서 한 점을 지키는 운영 능력이 강점으로 보임|마이너스 득실은 수비 집중력이 승부 변수임|장기 결장 누적으로 선수층 깊이가 시험받는 상황임|최근 연승으로 침체 뒤 회복 탄력이 확인됨"
+awayPower: "시애틀 매리너스는 휴스턴 애스트로스 상대 상성이 뚜렷한 편임|직전 무실점 승리로 반등 가능성은 남아 있음|최근 타선 침묵이 가장 큰 원정 부담으로 작용함|대량 실점 빈도가 높아 선발 초반 대응이 중요함|장기 결장으로 후반 승부의 선택지가 줄어든 상태임"
+h2h: '[{"date":"26.05.15","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"3-8"},{"date":"26.05.14","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"4-3"},{"date":"26.05.13","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"2-10","link":"https://pick79.com/posts/detail/analyze-178622-2026-05-12-houston-astros/"},{"date":"26.05.12","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-178622-2026-05-12-houston-astros/"},{"date":"26.04.14","home":"시애틀 매리너스","away":"휴스턴 애스트로스","score":"6-2"}]'
+summary: "시즌 전체 전력만 비교하면 리그순위와 승률, 득점 생산성에서 휴스턴 애스트로스가 시애틀 매리너스보다 우위에 있습니다. 그러나 두 팀 모두 득실 마진이 마이너스이고, 시애틀 매리너스는 이번 시즌 맞대결에서 공격과 수비 모두 휴스턴 애스트로스를 효과적으로 공략한 모습이 강하게 나타났습니다. 휴스턴 애스트로스는 최근 흐름과 타선의 기본 화력이 강점이지만 장기 결장과 수비 불안이 부담이며, 시애틀 매리너스는 시즌 전반적인 지표는 열세여도 상대 상성이 뚜렷합니다. 최근 경기력만 보면 휴스턴 애스트로스가 더 안정적이지만, 맞대결에서 확인된 시애틀 매리너스의 공수 대응력과 원정 승부 집중력을 고려하면 시애틀 매리너스가 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.13","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813HOSF0-2026-08-13-san-francisco-giants/"},{"date":"26.08.11","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811HOSF0-2026-08-11-san-francisco-giants/"},{"date":"26.08.10","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810HOSD0-2026-08-10-san-diego-padres/"},{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.06","home":"휴스턴 애스트로스","away":"토론토 블루제이즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179724-2026-08-06-houston-astros/"}]'
+awayRecent: '[{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"},{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees/"},{"date":"26.08.10","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TBSE0-2026-08-10-seattle-mariners/"},{"date":"26.08.08","home":"시애틀 매리너스","away":"탬파베이 레이스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808TBSE0-2026-08-08-seattle-mariners/"}]'
+injuryHome: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+injuryAway: "Taylor Ward (경기 당일 상태)|J.P. Crawford (염증)|Carlos Vargas (근육 손상)|Will Wilson (골절)|Cole Wilcox (근육 손상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시애틀 매리너스"
+pickWinResult: "승"
+pickHandicapTeam: "시애틀 매리너스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

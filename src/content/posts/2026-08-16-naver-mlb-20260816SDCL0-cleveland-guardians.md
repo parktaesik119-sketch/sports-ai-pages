@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 가디언스 vs 샌디에이고 파드리스 경기분석·라인업·결장자·통계·승부예측 (8월 16일) | MLB - 픽천국"
+date: 2026-08-15T23:10:00.000Z
+description: "클리블랜드 가디언스 vs 샌디에이고 파드리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260816SDCL0-2026-08-16-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 최근 86경기에서 38승 2무 46패, 평균 득점 3.9로 시즌 전체 전력에서 다소 흔들림이 있는 흐름을 보이고 있습니다. 최근 경기에서는 득점 자체는 나쁘지 않은 편이지만, 실점 억제가 잘 되지 않으면서 승패가 크게 흔들리는 모습입니다. 홈에서의 경기 운영은 비교적 안정감을 찾을 여지가 있지만, 강한 타선 상대로는 경기 후반 버티는 힘이 아쉬워 보입니다. 타선에서는 꾸준히 점수를 내는 구간도 있으나, 한 번 흐름이 끊기면 반등이 빠르지 않은 점이 부담입니다. 다만 특정 경기에서는 홈 이점을 살려 상대 흐름을 끊는 장면도 있어, 초반부터 투타 균형을 잡는다면 충분히 버틸 수 있는 전력입니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 최근 74경기에서 37승 1무 36패, 평균 득점 4.2로 승률과 득점 균형이 잘 잡힌 전력을 보여주고 있습니다. 최근 흐름은 특히 인상적이며, 연승 구간에서 공격과 마운드의 안정감이 함께 살아난 모습입니다. 원정에서도 득점 생산이 꾸준하고, 접전에서도 흐름을 놓치지 않는 장면이 자주 확인됩니다. 수비 쪽은 시즌 득실이 거의 비슷하지만, 최근에는 실점을 크게 늘리지 않으면서 경기 운영이 한층 정돈된 느낌입니다. 장기 결장자가 여러 명 있어 전력 공백은 분명하지만, 현재 흐름만 놓고 보면 상위권 전력에 걸맞은 응집력이 돋보입니다."
+homePower: "실점 억제 실패가 이어져 경기 주도권 유지가 어려움|득점은 가능해도 마무리 완성도는 기복이 큼|홈 이점보다 초반 실점 관리가 더 중요한 과제임|주전급 결장으로 마운드 운영 폭이 좁아짐|접전에서는 수비 집중력이 승부를 가를 변수로 보임"
+awayPower: "최근 연승으로 공격 리듬이 확실히 살아남|원정에서도 득점 생산이 흔들리지 않음|득실이 팽팽해도 경기 운영 완성도가 높음|장기 결장 여파보다 대체 자원 흐름이 더 안정적임|접전에서 흐름을 지키는 마무리 힘이 검증됨"
+h2h: '[]'
+summary: "클리블랜드 가디언스는 시즌 전체 전력과 최근 흐름을 함께 보면 실점 관리에서 불안이 남아 있는 반면, 샌디에이고 파드리스는 득점과 마운드 균형이 더 잘 맞아 있습니다. 클리블랜드 가디언스가 홈에서 버티는 장면은 만들 수 있지만, 최근 경기력의 안정감은 샌디에이고 파드리스 쪽이 한 단계 더 위로 보입니다. 특히 샌디에이고 파드리스는 최근 흐름이 좋고 접전 대응도 안정적이어서, 경기 후반으로 갈수록 우위를 지켜낼 가능성이 높습니다. 결장자 공백을 감안하더라도 전체적인 전력 우세는 샌디에이고 파드리스 쪽으로 판단됩니다."
+homeRecent: '[{"date":"26.08.14","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CLDE0-2026-08-14-detroit-tigers/"},{"date":"26.08.13","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CLDE0-2026-08-13-detroit-tigers/"},{"date":"26.08.12","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CLDE0-2026-08-12-detroit-tigers/"},{"date":"26.08.10","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CLCW0-2026-08-10-chicago-white-sox/"},{"date":"26.08.09","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CLCW0-2026-08-09-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.08.10","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810HOSD0-2026-08-10-san-diego-padres/"},{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"},{"date":"26.08.07","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807SDAZ0-2026-08-07-arizona-diamondbacks/"}]'
+injuryHome: "Slade Cecconi (피로)|Shawn Armstrong (염좌)"
+injuryAway: "Samad Taylor (염좌)|Joe Musgrove (염증)|Miguel Andujar (골절)|Lucas Giolito (염증)|Nick Pivetta (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 콜로라도 로키스 경기분석·라인업·결장자·통계·승부예측 (8월 16일) | MLB - 픽천국"
+date: 2026-08-15T20:05:00.000Z
+description: "샌프란시스코 자이언츠 vs 콜로라도 로키스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260816COSF0-2026-08-16-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 69경기에서 29승 1무 39패, 평균 득점 4.3을 기록하며 전체적으로는 승률이 낮은 편이지만, 득점 자체는 완전히 무너지지 않은 흐름입니다. 다만 최근 10경기에서는 3승 7패, 평균 득점 3.4로 떨어지면서 공격 생산이 다소 둔해진 모습이 보입니다. 최근 홈경기에서도 대량 실점이 나온 경기가 이어졌고, 타선이 초반에 잠잠해지면 경기 주도권을 잡기 어려운 장면이 자주 나타나고 있습니다. 그래도 밀워키 브루어스전처럼 타선이 한 번 터질 때는 큰 점수 차를 만들 수 있어 공격의 폭발력은 남아 있습니다. 특히 최근 연속 실점 억제가 잘 되지 않는 만큼, 불펜 안정과 수비 집중력이 승부의 핵심으로 보입니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 최근 67경기에서 28승 0무 39패, 평균 득점 5.2로 득점 생산력만 놓고 보면 홈팀보다 분명히 더 활발한 전력을 보이고 있습니다. 최근 10경기에서도 4승 6패, 평균 득점 4.1로 기복은 있으나 득점 감각은 비교적 살아 있는 편입니다. 다만 리그순위 15위와 득실 마이너스 116이 말해주듯, 공격이 따라붙어도 수비와 마운드가 이를 받쳐주지 못해 승부가 흔들리는 경기가 많습니다. 최근 애리조나 다이아몬드백스전과 세인트루이스 카디널스전처럼 득점은 나와도 실점 억제가 되지 않는 흐름이 반복되고 있습니다. 크리스 브라이언트의 장기 결장까지 겹치면서 중심 타선의 무게감이 떨어져, 순간적인 화력은 있어도 경기 전체를 안정적으로 끌고 가는 힘은 약해 보입니다."
+homePower: "최근 10경기 실점 억제 실패가 뚜렷함|홈에서는 타선 기복이 경기 흐름을 좌우함|강한 상대전에서 초반 추격력은 살아 있음|마운드 붕괴 시 대량 실점 위험이 큼|불펜 안정 여부가 승부를 가를 핵심 변수임"
+awayPower: "평균 득점 5점대 유지로 공격 기대치 높음|장타보다 연속 출루가 득점으로 이어지는 편임|실점 관리가 흔들리면 강점이 바로 상쇄됨|중심 타선 결장으로 압박 강도는 다소 감소함|득점력은 있으나 경기 운영 완성도는 낮아 보임"
+h2h: '[{"date":"26.07.13","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-179454-2026-07-13-san-francisco-giants/"},{"date":"26.07.12","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-179438-2026-07-12-san-francisco-giants/"},{"date":"26.07.11","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-179409-2026-07-10-san-francisco-giants/"},{"date":"26.07.10","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"8-2","link":"https://pick79.com/posts/detail/analyze-179409-2026-07-10-san-francisco-giants/"},{"date":"26.07.06","home":"콜로라도 로키스","away":"샌프란시스코 자이언츠","score":"7-6","link":"https://pick79.com/posts/detail/analyze-179361-2026-07-06-colorado-rockies/"}]'
+summary: "콜로라도 로키스가 시즌 평균 득점과 최근 공격 흐름에서 샌프란시스코 자이언츠보다 한 발 앞서 있고, 특히 득실 격차에서도 상대보다 더 큰 기복을 드러내면서도 득점 자체는 더 꾸준합니다. 샌프란시스코 자이언츠는 리그순위와 최근 10경기 흐름이 모두 답답한 쪽으로 기울어 있어, 경기 초반에 버티지 못하면 흐름을 되돌리기 쉽지 않아 보입니다. 다만 상대전적은 5승 5패로 팽팽하고, 실제 맞대결에서는 한쪽이 일방적으로 눌렀다기보다 타선이 먼저 살아나는 팀이 우세를 잡는 양상이 자주 보였습니다. 이런 흐름을 함께 보면 이번 경기는 콜로라도 로키스가 화력 우위를 앞세워 조금 더 주도권을 잡을 가능성이 높게 보입니다."
+homeRecent: '[{"date":"26.08.13","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813HOSF0-2026-08-13-san-francisco-giants/"},{"date":"26.08.11","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811HOSF0-2026-08-11-san-francisco-giants/"},{"date":"26.08.10","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810DESF0-2026-08-10-san-francisco-giants/"},{"date":"26.08.09","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809DESF0-2026-08-09-san-francisco-giants/"},{"date":"26.08.06","home":"텍사스 레인저스","away":"샌프란시스코 자이언츠","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179725-2026-08-06-texas-rangers/"}]'
+awayRecent: '[{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"},{"date":"26.08.11","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"},{"date":"26.08.10","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810COSL0-2026-08-10-st-louis-cardinals/"},{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809COSL0-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"}]'
+injuryHome: "Willy Adames (염좌)|Marcelo Mayer (골절)|Jesus Rodriguez (신경 압박)|Joel Peguero (염좌)|Matt Gage (염좌)"
+injuryAway: "Jaden Hill (건염)|Kyle Karros (뇌진탕)|Tyler Freeman (결장)|McCade Brown (염증)|Kris Bryant (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "콜로라도 로키스"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 로키스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

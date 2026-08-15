@@ -1,0 +1,37 @@
+---
+title: "신시내티 레즈 vs 마이애미 말린스 경기분석·라인업·결장자·통계·승부예측 (8월 16일) | MLB - 픽천국"
+date: 2026-08-15T22:40:00.000Z
+description: "신시내티 레즈 vs 마이애미 말린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260816FLCI0-2026-08-16-cincinnati-reds"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "신시내티 레즈"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+homeAnalysis: "신시내티 레즈는 2026시즌 최근 82경기에서 35승 2무 45패, 평균 득점 4.0을 기록하며 승패 기복이 있는 흐름을 보이고 있습니다. 현재 리그순위 11위와 득실 마이너스 76이 보여주듯, 경기마다 득점 생산은 이어가도 실점 억제가 흔들리는 편입니다. 다만 최근 10경기에서는 6승 4패로 반등 기미가 보이고, 평균 득점 3.5를 바탕으로 접전 상황에서 버티는 힘은 살아 있습니다. 특히 홈에서는 초반부터 점수를 내고 흐름을 잡는 경기에서 강점이 드러나며, 최근 마이애미 말린스를 상대로도 1점 차 승리를 챙기며 상성을 끊어내는 모습이 있었습니다. 다만 스펜서 스티어와 그레이엄 애쉬크래프트 같은 주요 결장자가 이어지는 점은 타선의 깊이와 선발 운영 모두에 부담으로 작용하고 있습니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 최근 89경기에서 43승 2무 44패, 평균 득점 4.1로 시즌 전체 흐름이 신시내티 레즈보다 조금 더 안정적으로 보입니다. 현재 리그순위 8위와 득실 플러스 10이 말해주듯, 득점과 실점 균형이 비교적 잘 맞는 편입니다. 최근 10경기에서는 4승 6패로 주춤했지만 평균 득점 3.7을 유지하고 있어 공격 자체가 완전히 꺼진 흐름은 아닙니다. 특히 피츠버그 파이리츠와 로스앤젤레스 에인절스를 상대로는 한 번 크게 밀리더라도 다시 반등하는 장면이 있었고, 일정 구간에서 장타와 집중타가 살아나면 흐름을 빠르게 바꾸는 장점이 있습니다. 다만 카일 스토어스와 맥스 메이어를 포함한 주요 결장자가 많아, 현재 전력의 두께는 리그순위만큼 단단하게 유지되지 못하는 모습입니다."
+homePower: "최근 접전에서 버티는 힘이 살아난 흐름임|득점은 꾸준하나 실점 관리가 승패를 가름함|홈에서는 초반 선취점이 경기 주도권을 좌우함|마이애미 말린스 상대로 1점 차 운영 적응 확인됨|주요 결장 누적으로 벤치 활용 폭이 좁아짐"
+awayPower: "득실 플러스가 말하는 공수 균형 우위임|타선 폭발과 침묵이 공존해 변동성 큰 전력임|상위권 순위에 비해 최근 흐름은 다소 출렁임|장타가 터지면 단숨에 흐름 장악하는 힘 보임|주요 결장 누적이 마운드 안정감에 부담임"
+h2h: '[{"date":"26.08.15","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815FLCI0-2026-08-15-cincinnati-reds/"},{"date":"26.04.10","home":"마이애미 말린스","away":"신시내티 레즈","score":"8-1"},{"date":"26.04.09","home":"마이애미 말린스","away":"신시내티 레즈","score":"7-4"},{"date":"26.04.08","home":"마이애미 말린스","away":"신시내티 레즈","score":"3-6"},{"date":"26.04.07","home":"마이애미 말린스","away":"신시내티 레즈","score":"0-2"}]'
+summary: "신시내티 레즈는 최근 흐름이 나쁘지 않지만 시즌 전체 전력에서는 실점 관리의 흔들림이 계속 보이고 있습니다. 마이애미 말린스는 리그순위와 득실에서 더 좋은 균형을 보여주고 있어 전체적인 전력 비교에서는 조금 더 앞서 있는 모습입니다. 다만 최근 맞대결에서는 신시내티 레즈가 3승 2패로 앞서 있고, 직전 경기에서도 1점 차 승부가 나와 이번 만남 역시 팽팽한 접전 양상이 예상됩니다. 종합하면 마이애미 말린스가 전력상 우세를 점할 가능성이 높아 보이지만, 경기 흐름은 단단한 수비와 적은 점수 차가 결정하는 방향으로 흘러갈 가능성이 큽니다."
+homeRecent: '[{"date":"26.08.15","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815FLCI0-2026-08-15-cincinnati-reds/"},{"date":"26.08.14","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"8-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CICW0-2026-08-14-chicago-white-sox/"},{"date":"26.08.13","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CICW0-2026-08-13-chicago-white-sox/"},{"date":"26.08.12","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CICW0-2026-08-12-chicago-white-sox/"},{"date":"26.08.10","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CIMO0-2026-08-10-washington-nationals/"}]'
+awayRecent: '[{"date":"26.08.15","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815FLCI0-2026-08-15-cincinnati-reds/"},{"date":"26.08.14","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PIFL0-2026-08-14-miami-marlins/"},{"date":"26.08.13","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PIFL0-2026-08-13-miami-marlins/"},{"date":"26.08.12","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PIFL0-2026-08-12-miami-marlins/"},{"date":"26.08.10","home":"마이애미 말린스","away":"LA 에인절스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ANFL0-2026-08-10-miami-marlins/"}]'
+injuryHome: "Graham Ashcraft (염좌)|Tony Santillan (근육통)|Brandon Williamson (통증)|Spencer Steer (염좌)|Blake Dunn (수술)"
+injuryAway: "Kyle Stowers (근육통)|Anthony Bender (골절)|Andrew Nardi (골절)|Max Meyer (근육통)|Ronny Henriquez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "마이애미 말린스"
+pickWinResult: "승"
+pickHandicapTeam: "마이애미 말린스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

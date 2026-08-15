@@ -1,0 +1,37 @@
+---
+title: "미네소타 트윈스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (8월 16일) | MLB - 픽천국"
+date: 2026-08-15T23:10:00.000Z
+description: "미네소타 트윈스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260816PHMN0-2026-08-16-minnesota-twins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "미네소타 트윈스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "미네소타 트윈스는 2026시즌 전체 40승 45패, 승률 0.471, 경기당 평균 4.2득점을 기록하며 리그순위 8위에 자리하고 있습니다. 득실이 572득점과 610실점으로 마이너스인 만큼 공격력보다 실점 관리에서 부담이 드러나는 시즌입니다. 최근에는 강팀을 상대로 승리를 거두는 경기와 다득점 경기가 함께 나오며 반등 조짐을 보였지만, 직전 필라델피아 필리스전에서는 1-7로 패하며 수비 집중력이 흔들렸습니다. 홈에서는 타선이 살아날 때 경기 중반까지 흐름을 끌고 갈 수 있다는 점이 강점입니다. 다만 Joe Ryan을 비롯해 주요 투수 자원의 이탈이 이어지고 있어 선발과 불펜 운용의 안정성이 중요한 변수입니다. 상대와의 최근 맞대결에서 크게 밀린 만큼 초반 실점을 줄이고 장타 생산력을 회복하는 것이 필요해 보입니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 전체 47승 40패, 승률 0.540, 경기당 평균 4.5득점을 기록하며 리그순위 6위에 올라 있습니다. 득실은 542득점과 543실점으로 큰 차이가 없지만, 미네소타 트윈스보다 높은 승률과 안정적인 경기 운영이 돋보입니다. 최근에는 기복이 나타나고 있으나 직전 맞대결에서 7-1 승리를 거두며 공격과 수비 모두 우위를 확인했습니다. 원정에서도 타선이 한 번 폭발하면 경기 흐름을 빠르게 가져오는 능력이 강점으로 평가됩니다. Rafael Marchan과 Johan Rojas 등 주요 결장자가 있지만, 전체 전력의 균형과 시즌 승률은 여전히 원정팀 쪽이 앞서 있습니다. 미네소타 트윈스의 투수진 공백을 지속적으로 압박할 수 있다면 경기 후반까지 우세를 유지할 가능성이 높아 보입니다."
+homePower: "득실 마이너스 구조로 선제 실점 시 추격 부담이 커지는 편임|홈 타선은 득점 흐름이 살아나면 경기 양상을 바꿀 수 있음|최근 다득점 승리와 저득점 패배가 교차해 공격 기복이 변수임|Joe Ryan 공백으로 선발 운용 안정성이 낮아진 모습임|직전 맞대결 대패로 필라델피아 필리스 상대 열세가 확인됨"
+awayPower: "시즌 승률 우위로 접전 운영에서 신뢰도가 높은 편임|직전 맞대결 7득점으로 미네소타 트윈스 공략법이 확인됨|공격 폭발력이 살아나면 원정에서도 주도권 확보가 가능함|득실 균형이 좋아 일방적 실점 위험은 상대적으로 낮은 편임|주요 야수 이탈에도 전반적인 전력 우위가 유지되는 모습임"
+h2h: '[{"date":"26.08.14","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PHMN0-2026-08-14-minnesota-twins/"}]'
+summary: "2026시즌 전체 전력은 필라델피아 필리스가 우세합니다. 미네소타 트윈스는 40승 45패와 마이너스 득실로 공격과 수비 모두 불안 요소가 남아 있는 반면, 필라델피아 필리스는 47승 40패와 더 높은 승률을 바탕으로 상대적으로 안정적인 균형을 보여주고 있습니다. 특히 양 팀의 최근 맞대결에서 필라델피아 필리스가 7-1로 승리하며 타선의 공략력과 수비 집중력에서 뚜렷한 차이를 만들었습니다. 미네소타 트윈스의 주요 투수진 공백까지 고려하면 경기 후반으로 갈수록 필라델피아 필리스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.14","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PHMN0-2026-08-14-minnesota-twins/"},{"date":"26.08.13","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BAMN0-2026-08-13-minnesota-twins/"},{"date":"26.08.12","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BAMN0-2026-08-12-minnesota-twins/"},{"date":"26.08.11","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811BAMN0-2026-08-11-minnesota-twins/"},{"date":"26.08.10","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810MNMI0-2026-08-10-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.14","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PHMN0-2026-08-14-minnesota-twins/"},{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"},{"date":"26.08.12","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PHSL0-2026-08-12-st-louis-cardinals/"},{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"},{"date":"26.08.10","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TOPH0-2026-08-10-philadelphia-phillies/"}]'
+injuryHome: "Joe Ryan (근육 염좌)|Mike Paredes (근육 염좌)|Mick Abel (수술)|Cole Sands (수술)|David Festa (수술)"
+injuryAway: "Rafael Marchan (건염)|Caleb Kilian (근육 염좌)|Tanner Banks (근육 염좌)|Johan Rojas (수술)|Adolis Garcia (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
