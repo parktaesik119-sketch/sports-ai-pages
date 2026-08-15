@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.14","home":"LA 다저스","away":"밀워키 브루�
 awayRecent: '[{"date":"26.08.14","home":"LA 다저스","away":"밀워키 브루어스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814MILA0-2026-08-14-los-angeles-dodgers/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.08.10","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810MNMI0-2026-08-10-milwaukee-brewers/"},{"date":"26.08.08","home":"밀워키 브루어스","away":"미네소타 트윈스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808MNMI0-2026-08-08-milwaukee-brewers/"}]'
 injuryHome: "Brock Stewart (건염)|Jake Cousins (수술)|Ben Casparius (염증)|Gavin Stone (염증)|Blake Treinen (염증)"
 injuryAway: "Joel Kuhnel (건염)|Brice Turang (매일 상태 점검)|Sal Frelick (근육통)|Cooper Pratt (근육통)|Rob Zastryzny (근육통)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Wrobleski (11-4, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\"]"
+awayLineup: "[\"선발투수 J. Misiorowski (11-5, 1.76) ERA 1.76|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.15","home":"신시내티 레즈","away":"마이애�
 awayRecent: '[{"date":"26.08.15","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815FLCI0-2026-08-15-cincinnati-reds/"},{"date":"26.08.14","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PIFL0-2026-08-14-miami-marlins/"},{"date":"26.08.13","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PIFL0-2026-08-13-miami-marlins/"},{"date":"26.08.12","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PIFL0-2026-08-12-miami-marlins/"},{"date":"26.08.10","home":"마이애미 말린스","away":"LA 에인절스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ANFL0-2026-08-10-miami-marlins/"}]'
 injuryHome: "Graham Ashcraft (염좌)|Tony Santillan (근육통)|Brandon Williamson (통증)|Spencer Steer (염좌)|Blake Dunn (수술)"
 injuryAway: "Kyle Stowers (근육통)|Anthony Bender (골절)|Andrew Nardi (골절)|Max Meyer (근육통)|Ronny Henriquez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Singer (5-11, 4.66) ERA 4.66|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
+awayLineup: "[\"선발투수 R. Gusto (0-3, 4.78) ERA 4.78|https://a.espncdn.com/i/headshots/mlb/players/full/5131986.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

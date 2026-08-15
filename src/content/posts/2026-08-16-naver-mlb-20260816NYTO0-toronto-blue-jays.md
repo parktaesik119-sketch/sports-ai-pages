@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매
 injuryHome: "Vladimir Guerrero Jr. (경미한 통증)|Brendon Little (출산 휴가)|Lenyn Sosa (부상으로 인한 60일 부상자 명단)|Joe Mantiply (수술로 인한 60일 부상자 명단)|Spencer Arrighetti (통증으로 인한 15일 부상자 명단)"
 injuryAway: "Carlos Rodon (염증으로 인한 15일 부상자 명단)|Cody Bellinger (염좌로 인한 10일 부상자 명단)|Kervin Castro (염증으로 인한 15일 부상자 명단)|Giancarlo Stanton (염좌로 인한 10일 부상자 명단)|Aaron Judge (골절로 인한 60일 부상자 명단)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 C. Schlittler (10-6, 2.21) ERA 2.21|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

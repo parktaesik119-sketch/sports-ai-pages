@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"},{"date":"26.08.11","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"},{"date":"26.08.10","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810COSL0-2026-08-10-st-louis-cardinals/"},{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809COSL0-2026-08-09-st-louis-cardinals/"},{"date":"26.08.06","home":"콜로라도 로키스","away":"탬파베이 레이스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-179731-2026-08-06-colorado-rockies/"}]'
 injuryHome: "Willy Adames (염좌)|Marcelo Mayer (골절)|Jesus Rodriguez (신경 압박)|Joel Peguero (염좌)|Matt Gage (염좌)"
 injuryAway: "Jaden Hill (건염)|Kyle Karros (뇌진탕)|Tyler Freeman (결장)|McCade Brown (염증)|Kris Bryant (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Webb (7-7, 3.59) ERA 3.59|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\"]"
+awayLineup: "[\"선발투수 M. Lorenzen (3-10, 6.83) ERA 6.83|https://a.espncdn.com/i/headshots/mlb/players/full/33252.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"},{"date":"26.08.11","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"},{"date":"26.08.10","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810LAAZ0-2026-08-10-arizona-diamondbacks/"},{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808LAAZ0-2026-08-08-arizona-diamondbacks/"},{"date":"26.08.07","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807SDAZ0-2026-08-07-arizona-diamondbacks/"}]'
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 injuryAway: "Ketel Marte (통증)|Justin Martinez (수술)|Ryan Thompson (긴장)|Jordan Lawlar (긴장)|Lourdes Gurriel Jr. (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Holmes (7-4, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
+awayLineup: "[\"선발투수 E. Rodriguez (11-4, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

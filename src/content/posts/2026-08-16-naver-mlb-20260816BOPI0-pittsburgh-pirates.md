@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보�
 awayRecent: '[{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BOPI0-2026-08-15-pittsburgh-pirates/"},{"date":"26.08.14","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814BOTO0-2026-08-14-toronto-blue-jays/"},{"date":"26.08.13","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BOTO0-2026-08-13-toronto-blue-jays/"},{"date":"26.08.12","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BOTO0-2026-08-12-toronto-blue-jays/"},{"date":"26.08.11","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811BOTO0-2026-08-11-toronto-blue-jays/"}]'
 injuryHome: "Nick Gonzales (멍)|Yohan Ramirez (출산 휴가)|Oneil Cruz (골절)|Endy Rodriguez (염증)|Konnor Griffin (염좌)"
 injuryAway: "Isiah Kiner-Falefa (염증)|Roman Anthony (염좌)|Garrett Whitlock (염증)|Johan Oviedo (염좌)|Trevor Story (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Jones (2-4, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
+awayLineup: "[\"선발투수 S. Gray (14-3, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

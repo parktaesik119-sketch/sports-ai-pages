@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CCMO0-2026-08-14-washington-nationals/"},{"date":"26.08.13","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CCMO0-2026-08-13-washington-nationals/"},{"date":"26.08.12","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CCMO0-2026-08-12-washington-nationals/"},{"date":"26.08.10","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810CIMO0-2026-08-10-washington-nationals/"},{"date":"26.08.09","home":"워싱턴 내셔널스","away":"신시내티 레즈","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809CIMO0-2026-08-09-washington-nationals/"}]'
 injuryHome: "Austin Warren (염좌)|Justin Hagenman (골절)|Devin Williams (염좌)|Cionel Perez (염좌)|Juan Soto (염좌)"
 injuryAway: "Drew Millas (골절)|James Wood (염좌)|Richard Lovelady (염좌)|DJ Herz (염좌)|Josiah Gray (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Manaea (4-5, 4.13) ERA 4.13|https://a.espncdn.com/i/headshots/mlb/players/full/33244.png\"]"
+awayLineup: "[\"선발투수 B. Lord (5-2, 3.79) ERA 3.79|https://a.espncdn.com/i/headshots/mlb/players/full/4866810.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

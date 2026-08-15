@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.13","home":"애슬레틱스","away":"탬파베이 �
 awayRecent: '[{"date":"26.08.13","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BAMN0-2026-08-13-minnesota-twins/"},{"date":"26.08.12","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BAMN0-2026-08-12-minnesota-twins/"},{"date":"26.08.11","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811BAMN0-2026-08-11-minnesota-twins/"},{"date":"26.08.10","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810BATE0-2026-08-10-texas-rangers/"},{"date":"26.08.09","home":"텍사스 레인저스","away":"볼티모어 오리올스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809BATE0-2026-08-09-texas-rangers/"}]'
 injuryHome: "Manuel Rodriguez (수술)|Edwin Uceta (긴장)|Cole Sulser (경련)|Shane McClanahan (미기재)|Jonathan Heasley (골절)"
 injuryAway: "Samuel Basallo (염증)|Blaze Alexander (골절)|Ryan Helsley (염증)|Felix Bautista (수술)|Ryan Mountcastle (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 I. Seymour (9-3, 4.08) ERA 4.08|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
+awayLineup: "[\"선발투수 T. Rogers (7-8, 4.21) ERA 4.21|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
