@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.15","home":"시카고 컵스","away":"세인트루�
 injuryHome: "Daniel Palencia (팔 부상)|Hoby Milner (수술)|Gavin Hollowell (염증)|Edward Cabrera (팔 부상)|Matt Shaw (염좌)"
 injuryAway: "Ramon Urias (건염)|Max Rajcik (수술)"
 homeLineup: "[\"선발투수 M. Boyd (8-1, 3.50) ERA 3.50|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
-awayLineup: "[\"선발투수 M. McGreevy (4-9, 3.64) ERA 3.64|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 M. McGreevy (4-9, 3.64) ERA 3.64|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"4번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"5번 J. Baez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4920835.png\",\"6번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"7번 B. Jordan (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722953.png\",\"8번 E. Pereira (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41252.png\",\"9번 P. Pages (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42608.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
