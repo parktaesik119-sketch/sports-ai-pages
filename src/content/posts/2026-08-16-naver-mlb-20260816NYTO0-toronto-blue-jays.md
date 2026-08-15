@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.14","home":"토론토 블루제이즈","away":"보�
 awayRecent: '[{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"},{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees/"},{"date":"26.08.10","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ATNY0-2026-08-10-new-york-yankees/"},{"date":"26.08.09","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809ATNY0-2026-08-09-new-york-yankees/"}]'
 injuryHome: "Vladimir Guerrero Jr. (경미한 통증)|Brendon Little (출산 휴가)|Lenyn Sosa (부상으로 인한 60일 부상자 명단)|Joe Mantiply (수술로 인한 60일 부상자 명단)|Spencer Arrighetti (통증으로 인한 15일 부상자 명단)"
 injuryAway: "Carlos Rodon (염증으로 인한 15일 부상자 명단)|Cody Bellinger (염좌로 인한 10일 부상자 명단)|Kervin Castro (염증으로 인한 15일 부상자 명단)|Giancarlo Stanton (염좌로 인한 10일 부상자 명단)|Aaron Judge (골절로 인한 60일 부상자 명단)"
-homeLineup: ''
+homeLineup: "[\"선발투수 B. Fisher (3-3, 3.54) ERA 3.54|https://a.espncdn.com/i/headshots/mlb/players/full/41318.png\"]"
 awayLineup: "[\"선발투수 C. Schlittler (10-6, 2.21) ERA 2.21|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
 homeFormation: ""
 awayFormation: ""
