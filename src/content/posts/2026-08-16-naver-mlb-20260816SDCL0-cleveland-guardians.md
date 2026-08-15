@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.13","home":"샌디에이고 파드리스","away":"�
 injuryHome: "Slade Cecconi (피로)|Shawn Armstrong (염좌)"
 injuryAway: "Samad Taylor (염좌)|Joe Musgrove (염증)|Miguel Andujar (골절)|Lucas Giolito (염증)|Nick Pivetta (염좌)"
 homeLineup: "[\"선발투수 J. Cantillo (8-7, 3.91) ERA 3.91|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\"]"
-awayLineup: "[\"선발투수 R. Vasquez (8-6, 4.16) ERA 4.16|https://a.espncdn.com/i/headshots/mlb/players/full/4722847.png\"]"
+awayLineup: "[\"선발투수 W. Peralta (2-2, 3.39) ERA 3.39|https://a.espncdn.com/i/headshots/mlb/players/full/36036.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
