@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카�
 injuryHome: "Austin Warren (염좌)|Justin Hagenman (골절)|Devin Williams (염좌)|Cionel Perez (염좌)|Juan Soto (염좌)"
 injuryAway: "Drew Millas (골절)|James Wood (염좌)|Richard Lovelady (염좌)|DJ Herz (염좌)|Josiah Gray (염좌)"
 homeLineup: "[\"선발투수 S. Manaea (4-5, 4.13) ERA 4.13|https://a.espncdn.com/i/headshots/mlb/players/full/33244.png\"]"
-awayLineup: "[\"선발투수 B. Lord (5-2, 3.79) ERA 3.79|https://a.espncdn.com/i/headshots/mlb/players/full/4866810.png\"]"
+awayLineup: "[\"선발투수 B. Lord (5-2, 3.79) ERA 3.79|https://a.espncdn.com/i/headshots/mlb/players/full/4866810.png\",\"1번 D. Crews (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4719511.png\",\"2번 A. Chaparro (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42949.png\",\"3번 B. House (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872681.png\",\"4번 C. Abrams (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42402.png\",\"5번 H. Ford (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4872682.png\",\"6번 J. Young (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4414210.png\",\"7번 D. Lile (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4917889.png\",\"8번 N. Nunez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4728688.png\",\"9번 A. Pinckney (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5201571.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
