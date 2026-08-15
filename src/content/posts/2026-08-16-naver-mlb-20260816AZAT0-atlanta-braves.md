@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.13","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 injuryAway: "Ketel Marte (통증)|Justin Martinez (수술)|Ryan Thompson (긴장)|Jordan Lawlar (긴장)|Lourdes Gurriel Jr. (긴장)"
 homeLineup: "[\"선발투수 G. Holmes (7-4, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
-awayLineup: "[\"선발투수 E. Rodriguez (11-4, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 E. Rodriguez (11-4, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\",\"1번 L. Nootbaar (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4448736.png\",\"2번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"3번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"4번 G. Moreno (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"5번 M. Kepler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31870.png\",\"6번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"7번 T. Tawa (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\",\"8번 I. Vargas (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32985.png\",\"9번 R. Waldschmidt (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5129344.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
