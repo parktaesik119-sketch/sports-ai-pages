@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.14","home":"히로시마 도요 카프","away":"한
 awayRecent: '[{"date":"26.08.14","home":"히로시마 도요 카프","away":"한신 타이거스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814HSHI0-2026-08-14-hiroshima-carp/"},{"date":"26.08.13","home":"요미우리 자이언츠","away":"한신 타이거스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813HSYO0-2026-08-13-yomiuri-giants/"},{"date":"26.08.12","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812HSYO0-2026-08-12-yomiuri-giants/"},{"date":"26.08.11","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811HSYO0-2026-08-11-yomiuri-giants/"},{"date":"26.08.09","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809JNHS0-2026-08-09-hanshin-tigers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shohei Mori (1-2, 2.98)|https://p.npb.jp/players_photo/2026/180/c/016_93395155.jpg\"]"
+awayLineup: "[\"선발투수 Takato Ihara (3-2, 3.48)|https://p.npb.jp/players_photo/2026/180/t/018_71375150.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
