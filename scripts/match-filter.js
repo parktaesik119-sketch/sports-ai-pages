@@ -74,7 +74,7 @@
     'Elche', 'Alaves', 'Levante', 'Racing Santander', 'Deportivo La Coruna', 'Deportivo A Coruña','Malaga',
 
     // ⚽ 분데스리가 (독일 1부 — 오스트리아 분데스리가는 별개 리그라 제외)
-    'Bayern München', 'Borussia Dortmund', 'RB Leipzig', 'VfB Stuttgart', '1899 Hoffenheim', 'Hoffenheim',
+    'Bayern München', 'Borussia Dortmund', 'Dortmund', 'RB Leipzig', 'VfB Stuttgart', '1899 Hoffenheim', 'Hoffenheim',
     'Bayer Leverkusen', 'Leverkusen', 'Freiburg', 'SC Freiburg', 'Eintracht Frankfurt', 'FC Augsburg',
     'FSV Mainz 05', 'Union Berlin', '1. FC Köln', 'Borussia Mönchengladbach', "M'gladbach", 'Werder Bremen',
     'Hamburger SV', 'SV Elversberg', 'FC Schalke 04', 'Schalke 04', 'SC Paderborn 07',

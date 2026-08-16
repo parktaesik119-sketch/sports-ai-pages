@@ -74,6 +74,7 @@ const TEAM_NAME_MAP = {
   "Leverkusen": "바이어 레버쿠젠",
   "Bayern München": "바이에른 뮌헨",
   "Borussia Dortmund": "보루시아 도르트문트",
+  "Dortmund": "보루시아 도르트문트",
   "Borussia Mönchengladbach": "보루시아 묀헨글라트바흐",
   "M'gladbach": "보루시아 묀헨글라트바흐",
   "Eintracht Frankfurt": "아인트라흐트 프랑크푸르트",
