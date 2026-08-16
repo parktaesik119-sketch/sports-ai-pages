@@ -63,7 +63,7 @@
     'BNK FEARX YOUTH',
 
     // ⚽ 프리미어리그 (EPL)
-    'Arsenal', 'Manchester City', 'Manchester United', 'Man United', 'Aston Villa', 'Liverpool',
+    'Arsenal', 'Manchester City','Man City', 'Manchester United', 'Man United', 'Aston Villa', 'Liverpool',
     'Bournemouth', 'Sunderland', 'Brighton', 'Brentford', 'Chelsea', 'Fulham', 'Newcastle', 'Everton',
     'Crystal Palace', 'Nottingham Forest', 'Nottm Forest', 'Tottenham', 'Leeds', 'Coventry', 'Ipswich',
     'Hull', 'Hull City',
@@ -71,13 +71,13 @@
     // ⚽ 라리가
     'Barcelona', 'Real Madrid', 'Villarreal', 'Atletico Madrid', 'Real Betis', 'Celta Vigo', 'Getafe',
     'Real Sociedad', 'Athletic Club', 'Osasuna', 'Rayo Vallecano', 'Valencia', 'Sevilla', 'Espanyol',
-    'Elche', 'Alaves', 'Levante', 'Racing Santander', 'Deportivo La Coruna', 'Malaga',
+    'Elche', 'Alaves', 'Levante', 'Racing Santander', 'Deportivo La Coruna', 'Deportivo A Coruña','Malaga',
 
     // ⚽ 분데스리가 (독일 1부 — 오스트리아 분데스리가는 별개 리그라 제외)
     'Bayern München', 'Borussia Dortmund', 'RB Leipzig', 'VfB Stuttgart', '1899 Hoffenheim', 'Hoffenheim',
     'Bayer Leverkusen', 'Leverkusen', 'Freiburg', 'SC Freiburg', 'Eintracht Frankfurt', 'FC Augsburg',
     'FSV Mainz 05', 'Union Berlin', '1. FC Köln', 'Borussia Mönchengladbach', "M'gladbach", 'Werder Bremen',
-    'Hamburger SV', 'SV Elversberg', 'FC Schalke 04', 'SC Paderborn 07',
+    'Hamburger SV', 'SV Elversberg', 'FC Schalke 04', 'Schalke 04', 'SC Paderborn 07',
 
     // ⚽ 세리에A
     'Inter', 'AC Milan', 'Milan', 'Napoli', 'AS Roma', 'Roma', 'Como', 'Juventus', 'Atalanta', 'Sassuolo',

@@ -23,6 +23,7 @@ const TEAM_NAME_MAP = {
   "Fulham": "풀럼",
   "Liverpool": "리버풀",
   "Manchester City": "맨시티",
+  "Man City": "맨시티",
   "Manchester United": "맨체스터 유나이티드",
   "Man United": "맨체스터 유나이티드",
   "Newcastle": "뉴캐슬",
@@ -36,6 +37,7 @@ const TEAM_NAME_MAP = {
   // ===== 🇪🇸 라리가 (La Liga) =====
   "Racing Santander": "레이싱 산탄데르",
   "Deportivo La Coruna": "데포르티보 라코루냐",
+  "Deportivo A Coruña": "데포르티보 라코루냐",
   "Malaga": "말라가",
   "Alaves": "알라베스",
   "Athletic Club": "아틀레틱 클럽",
@@ -61,6 +63,7 @@ const TEAM_NAME_MAP = {
   "Hamburger SV": "함부르크",
   "SV Elversberg": "엘버스베르크",
   "FC Schalke 04": "샬케 04",
+  "Schalke 04": "샬케 04",
   "SC Paderborn 07": "파더보른",
   "1. FC Heidenheim": "하이덴하임",
   "FC Heidenheim": "하이덴하임",
