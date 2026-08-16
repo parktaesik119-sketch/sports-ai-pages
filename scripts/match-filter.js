@@ -55,9 +55,44 @@
   const upperCountry = country.toUpperCase();
 
   // 프리패스 팀->여성+청소년차단->국가차단->프리패스 리그->차단리그->차단팀 순서
-  // 프리패스 팀 리스트 (유스/여성 키워드가 있어도 분석하고 싶은 팀명 입력)
-  const essentialTeams = ['BNK FEARX YOUTH']; 
-  const isEssentialTeam = essentialTeams.some(t => upperHome.includes(t) || upperAway.includes(t));
+  // 프리패스 팀 리스트 (완전일치 — team_name_map.js 영문 키 표기를 그대로 가져옴)
+  // ⚠️ 반드시 완전일치(===)로 비교합니다. includes()로 바꾸면 "Real Madrid"가
+  // "Real Madrid W"(여자팀)/"Real Madrid II"(2군)/"Real Madrid U19"(유스팀)까지
+  // 전부 걸려서 프리패스 되어 버립니다 (2026-08 확인).
+  const essentialTeams = [
+    'BNK FEARX YOUTH',
+
+    // ⚽ 프리미어리그 (EPL)
+    'Arsenal', 'Manchester City', 'Manchester United', 'Man United', 'Aston Villa', 'Liverpool',
+    'Bournemouth', 'Sunderland', 'Brighton', 'Brentford', 'Chelsea', 'Fulham', 'Newcastle', 'Everton',
+    'Crystal Palace', 'Nottingham Forest', 'Nottm Forest', 'Tottenham', 'Leeds', 'Coventry', 'Ipswich',
+    'Hull', 'Hull City',
+
+    // ⚽ 라리가
+    'Barcelona', 'Real Madrid', 'Villarreal', 'Atletico Madrid', 'Real Betis', 'Celta Vigo', 'Getafe',
+    'Real Sociedad', 'Athletic Club', 'Osasuna', 'Rayo Vallecano', 'Valencia', 'Sevilla', 'Espanyol',
+    'Elche', 'Alaves', 'Levante', 'Racing Santander', 'Deportivo La Coruna', 'Malaga',
+
+    // ⚽ 분데스리가 (독일 1부 — 오스트리아 분데스리가는 별개 리그라 제외)
+    'Bayern München', 'Borussia Dortmund', 'RB Leipzig', 'VfB Stuttgart', '1899 Hoffenheim', 'Hoffenheim',
+    'Bayer Leverkusen', 'Leverkusen', 'Freiburg', 'SC Freiburg', 'Eintracht Frankfurt', 'FC Augsburg',
+    'FSV Mainz 05', 'Union Berlin', '1. FC Köln', 'Borussia Mönchengladbach', "M'gladbach", 'Werder Bremen',
+    'Hamburger SV', 'SV Elversberg', 'FC Schalke 04', 'SC Paderborn 07',
+
+    // ⚽ 세리에A
+    'Inter', 'AC Milan', 'Milan', 'Napoli', 'AS Roma', 'Roma', 'Como', 'Juventus', 'Atalanta', 'Sassuolo',
+    'Bologna', 'Lazio', 'Parma', 'Udinese', 'Cagliari', 'Torino', 'Genoa', 'Fiorentina', 'Cremonese',
+    'Venezia', 'Frosinone', 'Monza',
+
+    // ⚽ 리그1
+    'PSG', 'Paris Saint Germain', 'Paris Saint-Germain', 'Lens', 'Lille', 'Lyon', 'Rennes', 'Marseille',
+    'Monaco', 'Strasbourg', 'Lorient', 'Toulouse', 'Paris FC', 'Brest', 'Stade Brestois 29', 'Angers',
+    'Le Havre', 'Auxerre', 'Nice', 'Estac Troyes', 'Le Mans',
+  ];
+  const isEssentialTeam = essentialTeams.some(t => {
+    const target = t.toUpperCase().trim();
+    return upperHome === target || upperAway === target;
+  });
 
   // 1. 여기에 예외로 허용하고 싶은 여성/청소년 리그명을 대문자로 등록합니다.
 const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE','NATIONS LEAGUE WOMEN','WORLD CUP - WOMEN - QUALIFICATION EUROPE'];
