@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.16","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.08.14","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"8-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CICW0-2026-08-14-chicago-white-sox/"},{"date":"26.08.13","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CICW0-2026-08-13-chicago-white-sox/"},{"date":"26.08.12","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CICW0-2026-08-12-chicago-white-sox/"}]'
 injuryHome: "Kerry Carpenter (족저근막염)|Brant Hurter (염증)|Parker Meadows (수술)|James Outman (뇌진탕)|Matt Vierling (부상)"
 injuryAway: "Jordan Leasure (부상)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (부상)|Ky Bush (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Anderson (4-4, 3.91) ERA 3.91|https://a.espncdn.com/i/headshots/mlb/players/full/41125.png\"]"
+awayLineup: "[\"선발투수 S. Burke (7-6, 2.99) ERA 2.99|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔
 awayRecent: '[{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"},{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CCMO0-2026-08-14-washington-nationals/"},{"date":"26.08.13","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CCMO0-2026-08-13-washington-nationals/"},{"date":"26.08.12","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CCMO0-2026-08-12-washington-nationals/"}]'
 injuryHome: "Austin Warren (염좌)|Justin Hagenman (골절)|Devin Williams (염좌)|Juan Soto (염좌)|Cionel Perez (염좌)"
 injuryAway: "James Wood (염좌)|Drew Millas (골절)|Richard Lovelady (염좌)|DJ Herz (염좌)|Josiah Gray (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Scott (3-3, 3.45) ERA 3.45|https://a.espncdn.com/i/headshots/mlb/players/full/4414215.png\"]"
+awayLineup: "[\"선발투수 J. Irvin (2-6, 5.79) ERA 5.79|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

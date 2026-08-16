@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.15","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.08.15","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SDCL0-2026-08-15-cleveland-guardians/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.08.10","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810HOSD0-2026-08-10-san-diego-padres/"},{"date":"26.08.09","home":"샌디에이고 파드리스","away":"휴스턴 애스트로스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809HOSD0-2026-08-09-san-diego-padres/"}]'
 injuryHome: "Slade Cecconi (통증) | Shawn Armstrong (염좌)"
 injuryAway: "Samad Taylor (염좌) | Joe Musgrove (염증) | Miguel Andujar (골절) | Lucas Giolito (염증) | Nick Pivetta (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Bibee (4-12, 3.99) ERA 3.99|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
+awayLineup: "[\"선발투수 C. Mize (4-7, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/41167.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

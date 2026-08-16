@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.14","home":"미네소타 트윈스","away":"필라�
 awayRecent: '[{"date":"26.08.14","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PHMN0-2026-08-14-minnesota-twins/"},{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"},{"date":"26.08.12","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PHSL0-2026-08-12-st-louis-cardinals/"},{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"},{"date":"26.08.10","home":"필라델피아 필리스","away":"토론토 블루제이즈","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810TOPH0-2026-08-10-philadelphia-phillies/"}]'
 injuryHome: "Joe Ryan (긴장)|Mike Paredes (긴장)|Mick Abel (수술)|Cole Sands (수술)|David Festa (수술)"
 injuryAway: "Rafael Marchan (건염)|Caleb Kilian (긴장)|Tanner Banks (긴장)|Johan Rojas (수술)|Adolis Garcia (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Kremer (2-4, 5.25) ERA 5.25|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
+awayLineup: "[\"선발투수 A. Painter (2-8, 6.27) ERA 6.27|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

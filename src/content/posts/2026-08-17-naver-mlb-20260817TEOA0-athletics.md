@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레�
 awayRecent: '[{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레인저스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.08.14","home":"LA 에인절스","away":"텍사스 레인저스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814TEAN0-2026-08-14-los-angeles-angels/"},{"date":"26.08.13","home":"LA 에인절스","away":"텍사스 레인저스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TEAN0-2026-08-13-los-angeles-angels/"},{"date":"26.08.12","home":"LA 에인절스","away":"텍사스 레인저스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812TEAN0-2026-08-12-los-angeles-angels/"},{"date":"26.08.11","home":"LA 에인절스","away":"텍사스 레인저스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TEAN0-2026-08-11-los-angeles-angels/"}]'
 injuryHome: "Jacob Wilson (타박상)|Brooks Kriske (신경 압박)|Jeffrey Springs (통증)|Joshua Kuroda-Grauer (수술)|Denzel Clarke (근육 부상)"
 injuryAway: "Carter Baumler (근육 부상)|Josh Jung (근육 부상)|Danny Jansen (근육 부상)|Kyle Higashioka (근육 부상)|Jacob deGrom (통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Lopez (5-4, 5.38) ERA 5.38|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\"]"
+awayLineup: "[\"선발투수 C. Bradford (0-1, 2.38) ERA 2.38|https://a.espncdn.com/i/headshots/mlb/players/full/4142539.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

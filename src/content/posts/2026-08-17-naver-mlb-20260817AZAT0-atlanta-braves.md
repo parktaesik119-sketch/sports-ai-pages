@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"},{"date":"26.08.11","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"},{"date":"26.08.10","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810LAAZ0-2026-08-10-arizona-diamondbacks/"},{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808LAAZ0-2026-08-08-arizona-diamondbacks/"}]'
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 injuryAway: "Justin Martinez (수술)|Ketel Marte (통증)|Ryan Thompson (근육 손상)|Jordan Lawlar (근육 손상)|Lourdes Gurriel Jr. (근육 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Elder (8-7, 4.03) ERA 4.03|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\"]"
+awayLineup: "[\"선발투수 M. Soroka (8-3, 2.92) ERA 2.92|https://a.espncdn.com/i/headshots/mlb/players/full/34984.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

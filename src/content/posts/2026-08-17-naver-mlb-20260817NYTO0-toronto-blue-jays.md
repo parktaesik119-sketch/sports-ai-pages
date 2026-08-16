@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.16","home":"토론토 블루제이즈","away":"뉴�
 awayRecent: '[{"date":"26.08.16","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816NYTO0-2026-08-16-toronto-blue-jays/"},{"date":"26.08.15","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815NYTO0-2026-08-15-toronto-blue-jays/"},{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"},{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees/"}]'
 injuryHome: "Brendon Little (출산)|Lenyn Sosa (타박상)|Joe Mantiply (수술)|Vladimir Guerrero Jr. (뇌진탕)|Spencer Arrighetti (통증)"
 injuryAway: "Carlos Rodon (염증)|Cody Bellinger (염좌)|Kervin Castro (염증)|Giancarlo Stanton (염좌)|Clarke Schmidt (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Cease (7-5, 2.40) ERA 2.40|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
+awayLineup: "[\"선발투수 R. Weathers (5-7, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
