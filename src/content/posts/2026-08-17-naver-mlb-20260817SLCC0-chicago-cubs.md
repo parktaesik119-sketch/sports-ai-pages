@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.16","home":"시카고 컵스","away":"세인트루�
 injuryHome: "Daniel Palencia (염좌)|Gavin Hollowell (염증)|Hoby Milner (수술)|Edward Cabrera (염좌)|Matt Shaw (염좌)"
 injuryAway: "Ramon Urias (건염)|Max Rajcic (수술)"
 homeLineup: "[\"선발투수 E. Cabrera (5-4, 5.10) ERA 5.10|https://a.espncdn.com/i/headshots/mlb/players/full/40944.png\"]"
-awayLineup: "[\"선발투수 H. Dobbins (2-3, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/4415836.png\"]"
+awayLineup: "[\"선발투수 H. Dobbins (2-3, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/4415836.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"4번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"5번 J. Baez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4920835.png\",\"6번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\",\"7번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"8번 J. Crooks (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4749675.png\",\"9번 B. Jordan (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722953.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

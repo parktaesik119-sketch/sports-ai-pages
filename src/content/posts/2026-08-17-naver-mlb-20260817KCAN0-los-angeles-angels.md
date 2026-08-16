@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.15","home":"LA 에인절스","away":"캔자스시�
 injuryHome: "Oswald Peraza (멍)|Yusei Kikuchi (염증)|Sam Bachman (염증)|Sebastian Rivero (수술)|Shaun Anderson (염증)"
 injuryAway: "Beck Way (경련)|Maikel Garcia (근육 긴장)|Vinnie Pasquantino (통증)|Nick Mears (신경 압박)|James McArthur (수술)"
 homeLineup: "[\"선발투수 R. Johnson (2-6, 6.71) ERA 6.71|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
-awayLineup: "[\"선발투수 N. Cameron (6-8, 4.45) ERA 4.45|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\"]"
+awayLineup: "[\"선발투수 N. Cameron (6-8, 4.45) ERA 4.45|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\",\"1번 C. Jensen (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png\",\"2번 B. Witt Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42403.png\",\"3번 J. Caglianone (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4926296.png\",\"4번 S. Perez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31127.png\",\"5번 M. Massey (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109223.png\",\"6번 N. Loftin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4314013.png\",\"7번 I. Collins (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42959.png\",\"8번 J. Rave (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4418140.png\",\"9번 K. Isbel (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41263.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
