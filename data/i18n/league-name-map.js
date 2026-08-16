@@ -16,10 +16,12 @@
 export const EXACT_LEAGUE_MAP = {
   // ⚽ 축구 — 5대 리그 및 주요 대회
   "Premier Soccer League": "프리미어리그",
-  "PRO LEAGUE": "프리미어리그",
+  "PRO LEAGUE": "프로리그",
+  "Pro League": "프로리그",
   "Football Premier League": "프리미어리그",
   "Premier League": "프리미어리그",
   "LA LIGA": "라리가",
+  "LaLiga": "라리가",
   "Segunda División": "라리가2",
   "Serie A": "세리에 A",
   "Bundesliga": "분데스리가",
@@ -74,6 +76,8 @@ export const EXACT_LEAGUE_MAP = {
   "World Cup": "월드컵",
   "World Cup - Women": "월드컵 (W)",
   "World Cup - Women - Qualification Europe": "월드컵 예선(W)",
+  "Community Shield": "커뮤니티 실드",
+  "Coppa Italia": "코파 이탈리아",
 
   // 🎮 e스포츠
   "Esports World Cup Playoffs": "EWC 플레이오프",

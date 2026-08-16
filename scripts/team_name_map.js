@@ -1011,6 +1011,7 @@ const TEAM_NAME_MAP = {
   "Sudtirol": "수드티롤",
   "Virtus Entella": "비르투스 엔텔라",
   "Avellino": "아벨리노",
+  "Ascoli": "아스콜리 피키오",
 
   // 리그2 (프랑스)
   "Amiens": "아미앵",
