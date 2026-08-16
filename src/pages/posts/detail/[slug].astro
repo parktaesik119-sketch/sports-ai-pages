@@ -140,12 +140,28 @@ function translateCountry(name: string) {
   return (COUNTRY_MAP as Record<string, string>)[name] || name;
 }
 
-// country_map.js와 동일한 원문 키로 flag-icons 클래스 코드를 찾는다.
-// 매핑에 없는 값(Asia/World 같은 대륙·기타 값, 국가명 파싱 실패 등)은 null →
-// 국기 대신 지구본 폴백 아이콘으로 대체한다.
+// ⚠️ analyze-router가 글 작성 시점에 COUNTRY_MAP으로 이미 한글로 번역해서
+// frontmatter에 박아넣기 때문에, 대부분의 글(과거 글 포함)은 country 값이
+// "South Korea"가 아니라 이미 "대한민국"으로 들어있다. country-flag-map.js는
+// 영문 원문 키로만 찾을 수 있어서, 한글값 → 영문 원문 역매핑을 만들어 둔다.
+const KOREAN_TO_ENGLISH_COUNTRY: Record<string, string> = {};
+for (const [en, ko] of Object.entries(COUNTRY_MAP as Record<string, string>)) {
+  if (!(ko in KOREAN_TO_ENGLISH_COUNTRY)) {
+    KOREAN_TO_ENGLISH_COUNTRY[ko] = en;
+  }
+}
+
+// country_map.js와 동일한 원문(영문) 키로 flag-icons 클래스 코드를 찾는다.
+// 1) country 값이 아직 영문 원문이면 바로 조회
+// 2) 이미 한글로 박제돼 있으면(대부분의 글) 위 역매핑으로 영문 원문을 복원해서 재조회
+// 그래도 못 찾으면(Asia/World 같은 대륙·기타 값 등) null → 지구본 폴백 아이콘으로 대체.
 function getFlagCode(name: string): string | null {
   if (!name) return null;
-  return (COUNTRY_FLAG_MAP as Record<string, string>)[name] || null;
+  const flagMap = COUNTRY_FLAG_MAP as Record<string, string>;
+  if (flagMap[name]) return flagMap[name];
+  const englishName = KOREAN_TO_ENGLISH_COUNTRY[name];
+  if (englishName && flagMap[englishName]) return flagMap[englishName];
+  return null;
 }
 
 // title/description/summary/homeAnalysis 등 "문장 안에 팀명·리그명·국가명이 섞여있는" 필드용.
