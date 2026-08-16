@@ -38,6 +38,8 @@ export default {
   "Oman": "om",
   "Saudi-Arabia": "sa",
   "United-Arab-Emirates": "ae",
+  "United Arab Emirates": "ae",
+  "UAE": "ae",
   "Lebanon": "lb",
   "Syria": "sy",
   "Israel": "il",
