@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보�
 injuryHome: "Nick Gonzales (멍)|Yohan Ramirez (출산 휴가)|Oneil Cruz (골절)|Endy Rodriguez (염증)|Konnor Griffin (근육 부상)"
 injuryAway: "Masataka Yoshida (근육 부상)|Isiah Kiner-Falefa (염증)|Roman Anthony (염좌)|Garrett Whitlock (염증)|Johan Oviedo (근육 부상)"
 homeLineup: "[\"선발투수 L. Bachar (1-2, 3.97) ERA 3.97|https://a.espncdn.com/i/headshots/mlb/players/full/42592.png\"]"
-awayLineup: "[\"선발투수 P. Sandoval (1-1, 3.30) ERA 3.30|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\"]"
+awayLineup: "[\"선발투수 P. Sandoval (1-1, 3.30) ERA 3.30|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\",\"1번 N. Sogard (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42979.png\",\"2번 C. Rafaela (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4987382.png\",\"3번 W. Abreu (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4990055.png\",\"4번 A. Rutschman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42178.png\",\"5번 C. Durbin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007615.png\",\"6번 A. Monasterio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/36950.png\",\"7번 J. Duran (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41610.png\",\"8번 A. Seigler (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41194.png\",\"9번 C. Wong (C)|https://a.espncdn.com/i/headshots/mlb/players/full/40086.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
