@@ -1,0 +1,37 @@
+---
+title: "디트로이트 타이거즈 vs 시카고 화이트삭스 경기분석·라인업·결장자·통계·승부예측 (8월 17일) | MLB - 픽천국"
+date: 2026-08-16T17:40:00.000Z
+description: "디트로이트 타이거즈 vs 시카고 화이트삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "디트로이트 타이거즈"
+awayTeam: "시카고 화이트삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+homeAnalysis: "디트로이트 타이거즈는 2026시즌 최근 86경기에서 44승 41패, 승률 .488, 평균 득점 4.5를 기록하며 경쟁력을 유지하고 있습니다. 최근 흐름도 나쁘지 않아 최근 10경기에서 7승 3패, 평균 득점 6.2로 타선의 폭발력이 살아난 모습입니다. 특히 홈에서는 공격 전개가 한층 매끄럽고, 빅이닝을 만들어내는 장면이 자주 보이면서 경기 초반 흐름을 잡는 데 강점이 있습니다. 다만 직전 시카고 화이트삭스전 2경기에서는 연속으로 실점이 늘어나며 마운드와 수비의 안정감이 다소 흔들렸습니다. 케리 카펜터와 파커 메도우스 같은 주요 전력 이탈이 이어지고 있어, 득점력은 유지하더라도 장기적으로는 중심 타선의 응집력이 시험대에 오를 수 있습니다."
+awayAnalysis: "시카고 화이트삭스는 2026시즌 최근 87경기에서 44승 42패, 승률 .525, 평균 득점 4.4를 기록하며 시즌 전반의 균형을 잘 유지하고 있습니다. 최근 10경기에서는 5승 5패, 평균 득점 5.4로 득점 생산은 올라왔지만 경기별 편차가 커서 안정감은 다소 아쉽습니다. 원정에서도 한 방보다는 출루와 연결 플레이로 점수를 쌓는 흐름이 돋보이며, 상대 실책이나 불펜 흔들림을 놓치지 않는 운영이 강점입니다. 다만 결장자가 적지 않아 장기 결장 공백이 마운드 운영과 불펜 뎁스에 부담으로 이어지고 있습니다. 최근 디트로이트 타이거즈를 상대로는 맞붙는 방식이 분명하고 결과도 좋았기 때문에, 상성 측면에서는 자신감을 이어갈 가능성이 있어 보입니다."
+homePower: "최근 홈 경기 타선 응집력 회복이 뚜렷함|득점 상승세에 비해 마운드 안정감은 과제임|주요 전력 공백에도 중하위 타선 연결이 살아남|초반 리드 잡을 때 경기 주도력이 높아짐|시카고 화이트삭스 상대로 상성 열세가 반복됨"
+awayPower: "최근 원정 득점 생산이 살아난 흐름임|승패 편차는 크지만 공격 전개는 끊기지 않음|디트로이트 타이거즈 상대로 자신감이 축적됨|장기 결장 여파로 불펜 운용 부담이 큼|접전에서 후반 집중력이 승부를 가르는 팀임"
+h2h: '[{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.06.22","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-179171-2026-06-22-detroit-tigers/"},{"date":"26.06.21","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-179156-2026-06-21-detroit-tigers/"},{"date":"26.06.20","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-179141-2026-06-20-detroit-tigers/"}]'
+summary: "디트로이트 타이거즈는 시즌 전체 흐름에서 공격 경쟁력을 보여주고 있지만, 최근 맞대결에서는 시카고 화이트삭스에게 밀린 장면이 더 선명하게 남아 있습니다. 시카고 화이트삭스는 시즌 전력의 완성도와 최근 맞대결 우위를 함께 갖추고 있어, 접전으로 가더라도 경기 운영에서 한발 앞설 가능성이 높습니다. 특히 양 팀 모두 최근 득점 흐름은 나쁘지 않지만, 상대전적에서 확인되는 시카고 화이트삭스의 우세와 디트로이트 타이거즈의 주요 전력 공백을 함께 보면 원정팀 쪽 기대값이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.08.14","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CLDE0-2026-08-14-detroit-tigers/"},{"date":"26.08.13","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CLDE0-2026-08-13-detroit-tigers/"},{"date":"26.08.12","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CLDE0-2026-08-12-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.08.14","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"8-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CICW0-2026-08-14-chicago-white-sox/"},{"date":"26.08.13","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CICW0-2026-08-13-chicago-white-sox/"},{"date":"26.08.12","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CICW0-2026-08-12-chicago-white-sox/"}]'
+injuryHome: "Kerry Carpenter (족저근막염)|Brant Hurter (염증)|Parker Meadows (수술)|James Outman (뇌진탕)|Matt Vierling (부상)"
+injuryAway: "Jordan Leasure (부상)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (부상)|Ky Bush (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

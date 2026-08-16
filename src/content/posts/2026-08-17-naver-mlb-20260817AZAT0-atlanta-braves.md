@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 브레이브스 vs 애리조나 다이아몬드백스 경기분석·라인업·결장자·통계·승부예측 (8월 17일) | MLB - 픽천국"
+date: 2026-08-16T17:35:00.000Z
+description: "애틀랜타 브레이브스 vs 애리조나 다이아몬드백스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애틀랜타 브레이브스"
+awayTeam: "애리조나 다이아몬드백스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+homeAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 85경기 47승 2무 36패, 평균 득점 4.5로 상위권 전력을 유지하고 있으며 현재 리그순위 3위답게 시즌 내내 안정적인 흐름을 보여주고 있습니다. 최근 경기에서는 득점 생산이 한 번씩 막히는 장면도 있었지만, 홈에서 뉴욕 메츠와 마이애미 말린스를 상대로는 공격과 수비의 균형을 살리며 다시 힘을 끌어올렸습니다. 평균 득점이 꾸준한 편이라 한 번 타선이 살아나면 경기 주도권을 잡는 힘이 분명하고, 홈 경기에서는 실점 억제도 비교적 잘 이뤄지고 있습니다. 다만 레이날도 로페스와 스펜서 스트라이더를 비롯한 주요 전력 이탈이 이어지고 있어, 선발과 불펜 운용에서 깊이는 다소 얇아진 모습입니다. 그럼에도 최근 홈 경기에서 보여준 응집력과 상위권다운 경기 운영은 여전히 강점으로 평가됩니다."
+awayAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 77경기 42승 35패, 평균 득점 4.7로 공격 생산력은 준수하고 있으며 현재 리그순위 6위에 올라 있습니다. 최근 흐름은 다소 들쭉날쭉하지만, 로스앤젤레스 다저스와 샌디에이고 파드리스를 상대로도 승리를 챙기며 상위 전력 상대에게도 반등할 수 있는 힘을 보여주고 있습니다. 득점력은 홈과 원정을 가리지 않고 살아나는 구간이 분명하고, 한 번 타선이 터질 때는 대량 득점도 가능한 팀입니다. 다만 최근 실점이 함께 늘어나는 경기들이 있었고, 저스틴 마르티네스를 포함한 주요 결장자들이 불펜과 내야 쪽 균형에 부담을 주고 있습니다. 케텔 마르테의 상태도 변수로 남아 있어, 공격의 중심축이 흔들릴 경우 경기 전체 리듬이 무거워질 수 있습니다."
+homePower: "평균 득실 격차가 커서 경기 지배력이 분명함|홈에서 실점 억제가 잘 이뤄지는 편임|주축 투수 결장으로 마운드 깊이는 시험대임|상위권답게 접전 운영에서 흔들림이 적음|타선이 초반에 풀리면 경기 주도권 확보가 빠름"
+awayPower: "평균 득점은 괜찮지만 실점 관리가 관건임|상위 팀 상대로도 장타 한 방은 살아 있음|핵심 결장으로 불펜 마감력이 약해짐|원정에서도 타선 기복이 크지 않은 편임|득점과 실점이 함께 흔들릴 때 승부가 길어짐"
+h2h: '[{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.04.06","home":"애리조나 다이아몬드백스","away":"애틀랜타 브레이브스","score":"6-5"},{"date":"26.04.05","home":"애리조나 다이아몬드백스","away":"애틀랜타 브레이브스","score":"2-1"},{"date":"26.04.04","home":"애리조나 다이아몬드백스","away":"애틀랜타 브레이브스","score":"0-2"},{"date":"26.04.03","home":"애리조나 다이아몬드백스","away":"애틀랜타 브레이브스","score":"2-17"}]'
+summary: "애틀랜타 브레이브스는 현재 리그순위 3위와 득실 +122가 보여주듯 시즌 전체 전력의 완성도가 높고, 애리조나 다이아몬드백스는 리그순위 6위지만 득실 +13으로 공격력 자체는 쉽게 무시하기 어려운 팀입니다. 다만 애틀랜타 브레이브스는 최근 홈 경기에서 공격 흐름을 다시 살리고 있고, 애리조나 다이아몬드백스는 주요 결장자 여파로 경기 후반 안정감에서 다소 불안한 부분이 보입니다. 상대전적에서는 애리조나 다이아몬드백스가 시리즈를 앞서고 있지만, 최근 맞대결 결과와 시즌 전력 차이를 함께 보면 애틀랜타 브레이브스가 홈에서 우세를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813NMAT0-2026-08-13-atlanta-braves/"},{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"},{"date":"26.08.11","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811NMAT0-2026-08-11-atlanta-braves/"},{"date":"26.08.10","home":"뉴욕 양키즈","away":"애틀랜타 브레이브스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810ATNY0-2026-08-10-new-york-yankees/"}]'
+awayRecent: '[{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"},{"date":"26.08.11","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"},{"date":"26.08.10","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810LAAZ0-2026-08-10-arizona-diamondbacks/"},{"date":"26.08.08","home":"애리조나 다이아몬드백스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260808LAAZ0-2026-08-08-arizona-diamondbacks/"}]'
+injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
+injuryAway: "Justin Martinez (수술)|Ketel Marte (통증)|Ryan Thompson (근육 손상)|Jordan Lawlar (근육 손상)|Lourdes Gurriel Jr. (근육 손상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 브레이브스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 브레이브스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

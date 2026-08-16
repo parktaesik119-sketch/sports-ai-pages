@@ -1,0 +1,37 @@
+---
+title: "시카고 컵스 vs 세인트루이스 카디널스 경기분석·라인업·결장자·통계·승부예측 (8월 17일) | MLB - 픽천국"
+date: 2026-08-16T19:15:00.000Z
+description: "시카고 컵스 vs 세인트루이스 카디널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 컵스"
+awayTeam: "세인트루이스 카디널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+homeAnalysis: "시카고 컵스는 2026시즌 최근 83경기에서 46승 2무 35패, 평균 득점 4.9를 기록하며 리그순위 4위에 올라 있습니다. 시즌 전체 흐름만 보면 공격 생산이 안정적이고, 득실 차도 플러스 107로 수비까지 함께 받쳐주고 있어 전반적인 전력이 탄탄합니다. 최근에는 10경기에서 7승 3패로 흐름이 좋고 평균 득점도 6.0까지 올라와 타선의 응집력이 특히 돋보입니다. 다만 직전 세인트루이스 카디널스전에서는 패배가 있었기 때문에, 같은 상대를 연달아 만나는 일정에서는 초반 흐름 관리가 중요해 보입니다. 홈에서는 장타와 빠른 득점 전개가 살아날 때 경기 주도권을 잡는 모습이 뚜렷하고, 최근 분위기상 그 강점이 다시 기대됩니다."
+awayAnalysis: "세인트루이스 카디널스는 2026시즌 최근 80경기에서 35승 1무 44패, 평균 득점 4.1로 리그순위 9위에 자리하고 있습니다. 득실이 정확히 0에 머물러 있어 경기 내용의 기복이 적지 않지만, 최근 10경기에서는 6승 4패와 평균 득점 5.1로 반등 조짐도 확인되고 있습니다. 특히 강한 상대를 상대로도 득점을 꾸준히 만들어내는 점은 분명한 장점이며, 최근 원정 포함 연승 흐름을 길게 가져간 장면도 보였습니다. 다만 시즌 전체 기준으로는 수비 안정감이 완전히 고정되지 않았고, 접전에서 흐름이 흔들리는 구간이 남아 있습니다. 원정에서는 공격이 먼저 살아나야 경기 균형을 만들 수 있는 팀으로 보이며, 최근 상승세를 얼마나 이어가느냐가 관건입니다."
+homePower: "리그순위 4위답게 상위권 경기 운영이 검증됨|평균 득실 우위가 수비 안정감으로 연결됨|최근 득점 상승이 타선 응집력 회복을 시사함|홈 경기에서 초반 기세를 잡을 때 강세가 뚜렷함|직전 맞대결 패배 뒤 응수 심리가 동력으로 작용함"
+awayPower: "리그순위 9위지만 최근 반등 흐름은 뚜렷함|득실 균형은 유지했으나 시즌 누적 안정성은 아쉬움|최근 원정 득점 상승이 공격 회복 신호로 보임|강팀 상대로도 장타 생산이 살아나는 편임|접전 구간 수비 집중력이 결과를 좌우함"
+h2h: '[{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"},{"date":"26.08.15","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SLCC0-2026-08-15-chicago-cubs/"},{"date":"26.07.31","home":"세인트루이스 카디널스","away":"시카고 컵스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-179648-2026-07-31-st-louis-cardinals/"},{"date":"26.07.30","home":"세인트루이스 카디널스","away":"시카고 컵스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179634-2026-07-30-st-louis-cardinals/"},{"date":"26.07.29","home":"세인트루이스 카디널스","away":"시카고 컵스","score":"2-10","link":"https://pick79.com/posts/detail/analyze-179618-2026-07-29-st-louis-cardinals/"}]'
+summary: "시카고 컵스는 시즌 전체 성적과 득실 흐름이 모두 안정적이어서 기본 전력 면에서 분명한 강점을 보여주고 있습니다. 세인트루이스 카디널스는 리그순위는 낮지만 최근 들어 득점력이 살아나고 있어 쉽게 물러서지 않는 흐름이 이어지고 있습니다. 다만 맞대결 흐름에서는 시카고 컵스가 홈에서 강한 타격 전개를 보여준 장면이 많고, 시즌 전체 전력의 안정감까지 감안하면 경기 전체의 우위는 세인트루이스 카디널스보다 시카고 컵스 쪽에 조금 더 가까워 보입니다. 그럼에도 최근 흐름이 살아난 세인트루이스 카디널스의 공격 감각은 충분히 변수로 작용할 수 있어, 초반 실점 억제와 중후반 운영이 결과를 가를 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"},{"date":"26.08.15","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SLCC0-2026-08-15-chicago-cubs/"},{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CCMO0-2026-08-14-washington-nationals/"},{"date":"26.08.13","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CCMO0-2026-08-13-washington-nationals/"},{"date":"26.08.12","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CCMO0-2026-08-12-washington-nationals/"}]'
+awayRecent: '[{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"},{"date":"26.08.15","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SLCC0-2026-08-15-chicago-cubs/"},{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"},{"date":"26.08.12","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PHSL0-2026-08-12-st-louis-cardinals/"},{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"}]'
+injuryHome: "Daniel Palencia (염좌)|Gavin Hollowell (염증)|Hoby Milner (수술)|Edward Cabrera (염좌)|Matt Shaw (염좌)"
+injuryAway: "Ramon Urias (건염)|Max Rajcic (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

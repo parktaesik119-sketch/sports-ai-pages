@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 보스턴 레드삭스 경기분석·라인업·결장자·통계·승부예측 (8월 17일) | MLB - 픽천국"
+date: 2026-08-16T17:35:00.000Z
+description: "피츠버그 파이러츠 vs 보스턴 레드삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260817BOPI0-2026-08-17-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 최근 88경기 38승 49패, 승률 .484, 평균 득점 4.9를 기록하며 리그순위 11위에 올라 있습니다. 최근 10경기에서도 3승 7패로 기복이 있지만, 직전 보스턴 레드삭스전 8득점 승리와 마이애미 말린스전 13득점 승리가 보여주듯 타선 폭발력이 살아날 때는 경기 흐름을 단숨에 바꿀 수 있습니다. 다만 10경기 평균 득점 4.3으로 시즌 평균보다 조금 낮아, 득점 기대치는 유지되더라도 꾸준함은 더 보완이 필요해 보입니다. 홈에서는 강한 장타 흐름이 나올 때 상대를 크게 흔들 수 있지만, 실점이 늘어나는 날에는 한 번에 주도권을 내주는 모습도 보이고 있습니다. 오닐 크루즈와 엔디 로드리게스의 공백은 중심 타선과 경기 운영에 부담으로 이어질 수 있으나, 최근 경기에서 보이듯 홈에서 공격 템포를 살리면 충분히 반등 여지는 있습니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 최근 88경기 48승 38패, 승률 .533, 평균 득점 4.4를 기록하며 리그순위 3위를 유지하고 있습니다. 최근 10경기에서는 4승 6패로 순위에 비해 흐름이 다소 주춤하지만, 시즌 전체로는 득실 542-460으로 수비 안정감이 확실한 팀입니다. 최근 경기들에서 득점이 한 번에 크게 터지는 장면도 있었지만, 토론토 블루제이스 원정 4연전과 애슬레틱스전 연패 구간처럼 타선이 묶이면 경기 운영이 급격히 어려워지는 모습도 확인됩니다. 특히 가렛 휘틀록, 로만 앤서니, 이시아 키너 팔레파의 결장은 전력 뎁스에 적지 않은 부담으로 이어질 수 있어, 최근의 기복을 더 키울 가능성이 있습니다. 다만 장타와 출루가 동시에 살아나는 날에는 원정에서도 공격 템포를 빠르게 끌어올릴 수 있는 팀으로 보입니다."
+homePower: "피츠버그 파이러츠의 홈 득점 폭발력은 상위권 상대도 흔드는 수준임|최근 대승과 대패가 공존해 경기 편차가 큰 전력임|홈에서는 초반 다득점 흐름이 나오면 승부를 빠르게 잠그는 편임|오닐 크루즈 공백으로 중심 장타 의존도는 다소 높아 보임|리그순위 11위지만 홈 승부 집중력은 반등 여지가 확인됨"
+awayPower: "보스턴 레드삭스는 리그순위 3위답게 시즌 총체력은 안정적임|득실 차가 크게 남아 투수진 기반의 우위가 분명함|다만 최근 원정 구간에서 타선 기복이 다시 드러남|가렛 휘틀록 이탈로 불펜 운영의 여유가 줄어든 모습임|득점이 이어질 때는 흐름을 장악하지만 지속성은 변수로 보임"
+h2h: '[{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BOPI0-2026-08-15-pittsburgh-pirates/"}]'
+summary: "피츠버그 파이러츠는 리그순위 11위지만 홈에서 공격이 살아날 때는 경기 흐름을 크게 바꾸는 힘이 있고, 보스턴 레드삭스는 리그순위 3위답게 시즌 전체 균형은 더 좋습니다. 다만 최근 흐름과 직전 맞대결 결과를 함께 보면, 피츠버그 파이러츠가 홈에서 타격감을 이어가며 우위를 만들 가능성이 높아 보입니다. 보스턴 레드삭스는 득실 차에서 분명한 장점을 갖고 있지만, 최근 원정 기복과 주요 이탈자가 겹치면서 안정감이 조금 떨어진 모습입니다. 전체적으로는 피츠버그 파이러츠 쪽이 최근 타격 흐름과 홈 강세를 앞세워 한 발 앞설 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BOPI0-2026-08-15-pittsburgh-pirates/"},{"date":"26.08.14","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PIFL0-2026-08-14-miami-marlins/"},{"date":"26.08.13","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PIFL0-2026-08-13-miami-marlins/"},{"date":"26.08.12","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PIFL0-2026-08-12-miami-marlins/"},{"date":"26.08.10","home":"피츠버그 파이러츠","away":"뉴욕 메츠","score":"1-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810NMPI0-2026-08-10-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BOPI0-2026-08-15-pittsburgh-pirates/"},{"date":"26.08.14","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814BOTO0-2026-08-14-toronto-blue-jays/"},{"date":"26.08.13","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BOTO0-2026-08-13-toronto-blue-jays/"},{"date":"26.08.12","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BOTO0-2026-08-12-toronto-blue-jays/"},{"date":"26.08.11","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811BOTO0-2026-08-11-toronto-blue-jays/"}]'
+injuryHome: "Nick Gonzales (멍)|Yohan Ramirez (출산 휴가)|Oneil Cruz (골절)|Endy Rodriguez (염증)|Konnor Griffin (근육 부상)"
+injuryAway: "Masataka Yoshida (근육 부상)|Isiah Kiner-Falefa (염증)|Roman Anthony (염좌)|Garrett Whitlock (염증)|Johan Oviedo (근육 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

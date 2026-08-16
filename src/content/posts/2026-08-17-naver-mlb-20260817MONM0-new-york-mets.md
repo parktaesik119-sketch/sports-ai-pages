@@ -1,0 +1,37 @@
+---
+title: "뉴욕 메츠 vs 워싱턴 내셔널스 경기분석·라인업·결장자·통계·승부예측 (8월 17일) | MLB - 픽천국"
+date: 2026-08-16T17:40:00.000Z
+description: "뉴욕 메츠 vs 워싱턴 내셔널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 메츠"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "뉴욕 메츠는 2026시즌 최근 84경기에서 39승 1무 44패, 평균 득점 4.3으로 시즌 내내 기복이 있었지만, 최근 10경기에서는 7승 3패, 평균 득점 5.6으로 공격 흐름이 확실히 살아나고 있습니다. 특히 워싱턴 내셔널스와의 맞대결에서 연승을 이어가며 타선 응집력이 좋아진 모습이 돋보입니다. 다만 시즌 전체 기준으로는 득실 격차가 크지 않아, 화끈한 득점력보다 한 번 분위기를 잡았을 때 몰아치는 전개가 더 강점으로 보입니다. 홈에서 최근 경기력을 끌어올린 흐름이 분명하고, 상위 타선이 초반부터 점수를 내면 경기 운영이 한결 편해지는 팀입니다. 부상 전력에서는 후안 소토의 이탈이 특히 눈에 띄어 중심 타선의 무게감에는 아쉬움이 남지만, 최근 결과만 보면 대체 자원들이 일정 부분 역할을 해주고 있습니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 최근 90경기에서 45승 2무 43패, 평균 득점 5.0으로 시즌 전체 전력은 메츠보다 안정적인 편이고, 득실도 플러스라서 기본적인 공격 생산력은 분명히 확인됩니다. 최근 10경기에서는 5승 5패, 평균 득점 5.7로 득점 자체는 나쁘지 않지만, 실점이 함께 늘어나며 경기마다 흔들리는 모습이 있습니다. 최근 흐름만 놓고 보면 타선은 충분히 점수를 내고 있지만 마운드 쪽 버티기가 약해져 고점 대비 주춤한 인상이 강합니다. 특히 상위 팀들과의 경기에서 수비 집중력이 흔들리는 장면이 반복되며, 한 번 흐름을 내주면 만회가 쉽지 않은 편입니다. 제임스 우드의 이탈은 장타와 중심 타선 연결에 부담을 줄 수 있어, 경기 후반으로 갈수록 득점 생산이 끊기는 구간이 생길 가능성이 있습니다."
+homePower: "최근 열세를 끊고 맞대결 주도권을 되찾은 흐름임|최근 10경기 5.6득점으로 타선 폭발력이 살아남|홈 경기에서 초반 득점 시 승부 운영이 안정적임|후안 소토 공백에도 상위 타선 응집력은 유지되는 편임|득실 격차 부담이 적어 접전에서 집중력이 강점임"
+awayPower: "시즌 득실 플러스가 말해주는 기본 화력은 검증됨|최근 10경기 5.7득점으로 타선 생산성은 유지됨|실점 동반 상승으로 경기 후반 안정감이 흔들림|제임스 우드 이탈로 중심 타선 파괴력 저하가 보임|상위권 상대에서 수비 집중력 편차가 변수로 남음"
+h2h: '[{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"},{"date":"26.05.22","home":"워싱턴 내셔널스","away":"뉴욕 메츠","score":"1-2","link":"https://pick79.com/posts/detail/analyze-178756-2026-05-22-washington-nationals/"},{"date":"26.05.21","home":"워싱턴 내셔널스","away":"뉴욕 메츠","score":"8-4","link":"https://pick79.com/posts/detail/analyze-178742-2026-05-21-washington-nationals/"},{"date":"26.05.20","home":"워싱턴 내셔널스","away":"뉴욕 메츠","score":"9-6","link":"https://pick79.com/posts/detail/analyze-178727-2026-05-20-washington-nationals/"}]'
+summary: "뉴욕 메츠는 시즌 전체 전적과 득점 흐름이 워싱턴 내셔널스보다 다소 아래였지만, 최근 흐름에서는 타선이 뚜렷하게 살아나면서 우세를 만들고 있습니다. 워싱턴 내셔널스는 시즌 전체 전력과 득실에서 더 탄탄한 밑바닥을 보여주고 있으나, 최근 경기에서는 실점 관리가 흔들리며 안정감이 떨어지는 모습입니다. 맞대결 흐름까지 함께 보면 뉴욕 메츠가 최근에는 상성을 잘 살리고 있고, 홈 이점과 최근 상승세를 더해 이번 경기에서도 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"},{"date":"26.08.13","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813NMAT0-2026-08-13-atlanta-braves/"},{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"},{"date":"26.08.11","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811NMAT0-2026-08-11-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"},{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CCMO0-2026-08-14-washington-nationals/"},{"date":"26.08.13","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CCMO0-2026-08-13-washington-nationals/"},{"date":"26.08.12","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CCMO0-2026-08-12-washington-nationals/"}]'
+injuryHome: "Austin Warren (염좌)|Justin Hagenman (골절)|Devin Williams (염좌)|Juan Soto (염좌)|Cionel Perez (염좌)"
+injuryAway: "James Wood (염좌)|Drew Millas (골절)|Richard Lovelady (염좌)|DJ Herz (염좌)|Josiah Gray (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---
