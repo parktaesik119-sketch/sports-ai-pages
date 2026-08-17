@@ -128,6 +128,7 @@ export default {
   "Paraguay": "py",
   "Bolivia": "bo",
   "Costa-Rica": "cr",
+  "Costa Rica": "cr",
   "Guatemala": "gt",
   "Honduras": "hn",
   "El-Salvador": "sv",
