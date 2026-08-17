@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.17","home":"피츠버그 파이러츠","away":"보�
 awayRecent: '[{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.08.14","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CLDE0-2026-08-14-detroit-tigers/"},{"date":"26.08.13","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CLDE0-2026-08-13-detroit-tigers/"}]'
 injuryHome: "Nick Gonzales (타박상)|Yohan Ramirez (부성휴가)|Oneil Cruz (골절)|Endy Rodriguez (염증)|Konnor Griffin (염좌)"
 injuryAway: "Brant Hurter (염증)|Parker Meadows (수술)|James Outman (뇌진탕)|Kerry Carpenter (족저근막염)|Matt Vierling (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Mlodzinski (6-5, 3.79) ERA 3.79|https://a.espncdn.com/i/headshots/mlb/players/full/4298378.png\"]"
+awayLineup: "[\"선발투수 F. Valdez (7-8, 4.26) ERA 4.26|https://a.espncdn.com/i/headshots/mlb/players/full/36581.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔
 awayRecent: '[{"date":"26.08.17","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SDCL0-2026-08-17-cleveland-guardians/"},{"date":"26.08.16","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SDCL0-2026-08-16-cleveland-guardians/"},{"date":"26.08.15","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SDCL0-2026-08-15-cleveland-guardians/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"}]'
 injuryHome: "Austin Warren (염좌)|Justin Hagenman (골절)|Devin Williams (염좌)|Juan Soto (염좌)|Cionel Perez (염좌)"
 injuryAway: "Joe Musgrove (염증)|Samad Taylor (염좌)|Miguel Andujar (골절)|Lucas Giolito (염증)|Nick Pivetta (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. McLean (8-8, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
+awayLineup: "[\"선발투수 W. Buehler (7-5, 4.88) ERA 4.88|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

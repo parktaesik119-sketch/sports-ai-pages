@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.15","home":"롯데 자이언츠","away":"NC 다이�
 awayRecent: '[{"date":"26.08.16","home":"KT 위즈","away":"키움 히어로즈","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816WOKT02026-2026-08-16-kt-wiz-suwon/"},{"date":"26.08.15","home":"KT 위즈","away":"키움 히어로즈","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815WOKT02026-2026-08-15-kt-wiz-suwon/"},{"date":"26.08.14","home":"KT 위즈","away":"키움 히어로즈","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814WOKT02026-2026-08-14-kt-wiz-suwon/"},{"date":"26.08.13","home":"키움 히어로즈","away":"LG 트윈스","score":"6-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813LGWO02026-2026-08-13-kiwoom-heroes/"},{"date":"26.08.12","home":"키움 히어로즈","away":"LG 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812LGWO02026-2026-08-12-kiwoom-heroes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 황성빈 (중견수)\",\"2번 나승엽 (1루수)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (지명타자)\",\"5번 고승민 (2루수)\",\"6번 윤동희 (우익수)\",\"7번 한태양 (3루수)\",\"8번 전민재 (유격수)\",\"9번 손성빈 (포수)\"]"
+awayLineup: "[\"1번 서건창 (지명타자)\",\"2번 박찬혁 (우익수)\",\"3번 데이비슨 (1루수)\",\"4번 안치홍 (2루수)\",\"5번 추재현 (좌익수)\",\"6번 김건희 (포수)\",\"7번 권혁빈 (유격수)\",\"8번 여동욱 (3루수)\",\"9번 박채울 (중견수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

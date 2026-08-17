@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.15","home":"삼성 라이온스","away":"한화 이
 awayRecent: '[{"date":"26.08.16","home":"KIA 타이거즈","away":"두산 베어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816OBHT02026-2026-08-16-kia-tigers/"},{"date":"26.08.15","home":"KIA 타이거즈","away":"두산 베어스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815OBHT02026-2026-08-15-kia-tigers/"},{"date":"26.08.14","home":"KIA 타이거즈","away":"두산 베어스","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814OBHT02026-2026-08-14-kia-tigers/"},{"date":"26.08.13","home":"KIA 타이거즈","away":"삼성 라이온스","score":"8-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813SSHT02026-2026-08-13-kia-tigers/"},{"date":"26.08.12","home":"KIA 타이거즈","away":"삼성 라이온스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812SSHT02026-2026-08-12-kia-tigers/"}]'
 injuryHome: "없음"
 injuryAway: "김기훈 (치료·재활중)|곽도규 (부상)|김석환 (치료·재활중)|이준영 (치료·재활중)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 이원석 (중견수)\",\"2번 페라자 (우익수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 채은성 (1루수)\",\"7번 허인서 (포수)\",\"8번 이도윤 (2루수)\",\"9번 박정현 (유격수)\"]"
+awayLineup: "[\"1번 박재현 (좌익수)\",\"2번 김선빈 (2루수)\",\"3번 김도영 (3루수)\",\"4번 카스트로 (1루수)\",\"5번 나성범 (지명타자)\",\"6번 하주석 (유격수)\",\"7번 김호령 (중견수)\",\"8번 김태군 (포수)\",\"9번 박정우 (우익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

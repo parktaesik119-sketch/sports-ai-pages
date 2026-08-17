@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.17","home":"시카고 컵스","away":"세인트루�
 awayRecent: '[{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.08.14","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"8-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CICW0-2026-08-14-chicago-white-sox/"},{"date":"26.08.13","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CICW0-2026-08-13-chicago-white-sox/"}]'
 injuryHome: "Matt Shaw (염좌)|Daniel Palencia (긴장)|Hoby Milner (수술)|Gavin Hollowell (염증)|Edward Cabrera (일상적 관리)"
 injuryAway: "Jordan Leasure (긴장)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (긴장)|Ky Bush (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 K. Gausman (6-11, 4.53) ERA 4.53|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

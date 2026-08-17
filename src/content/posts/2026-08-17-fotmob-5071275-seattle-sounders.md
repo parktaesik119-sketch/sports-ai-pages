@@ -20,10 +20,10 @@ homeRecent: '[{"date":"26.08.13","home":"시애틀 사운더스","away":"Chivas"
 awayRecent: '[{"date":"26.08.12","home":"Tigres","away":"Vancouver","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5844863-2026-08-12-tigres/"},{"date":"26.08.08","home":"Vancouver","away":"Juárez","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5844844-2026-08-08-vancouver/"},{"date":"26.04.26","home":"Vancouver","away":"콜로라도","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-5071134-2026-04-26-vancouver/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
+homeLineup: "[\"A. Thomas (G)|https://a.espncdn.com/i/headshots/soccer/players/full/268173.png\",\"N. Tolo (D)|https://a.espncdn.com/i/headshots/soccer/players/full/252474.png\",\"J. Ragen (D)|https://a.espncdn.com/i/headshots/soccer/players/full/254383.png\",\"K. Kossa-Rienzi (D)|https://a.espncdn.com/i/headshots/soccer/players/full/319045.png\",\"A. Roldan (D)|https://a.espncdn.com/i/headshots/soccer/players/full/256514.png\",\"J. Ferreira (M)|https://a.espncdn.com/i/headshots/soccer/players/full/251571.png\",\"P. Rothrock (M)|https://a.espncdn.com/i/headshots/soccer/players/full/254382.png\",\"A. Rusnák (M)|https://a.espncdn.com/i/headshots/soccer/players/full/171573.png\",\"P. Kingston (M)|https://a.espncdn.com/i/headshots/soccer/players/full/272039.png\",\"S. Brunell (M)|https://a.espncdn.com/i/headshots/soccer/players/full/384356.png\",\"D. Musovski (F)|https://a.espncdn.com/i/headshots/soccer/players/full/256450.png\"]"
+awayLineup: "[\"Y. Takaoka (G)|https://a.espncdn.com/i/headshots/soccer/players/full/272338.png\",\"É. Ocampo (D)|https://a.espncdn.com/i/headshots/soccer/players/full/341727.png\",\"M. Laborda (D)|https://a.espncdn.com/i/headshots/soccer/players/full/286523.png\",\"R. Priso-Mbongue (D)|https://a.espncdn.com/i/headshots/soccer/players/full/297118.png\",\"T. Johnson (D)|https://a.espncdn.com/i/headshots/soccer/players/full/338836.png\",\"O. Larraz (M)|https://a.espncdn.com/i/headshots/soccer/players/full/315920.png\",\"T. Müller (M)|https://a.espncdn.com/i/headshots/soccer/players/full/123465.png\",\"A. Cubas (M)|https://a.espncdn.com/i/headshots/soccer/players/full/202501.png\",\"J. Badwal (M)|https://a.espncdn.com/i/headshots/soccer/players/full/371482.png\",\"C. Sabaly (M)|https://a.espncdn.com/i/headshots/soccer/players/full/276451.png\",\"E. Sabbi (F)|https://a.espncdn.com/i/headshots/soccer/players/full/256209.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
 homeCoach: ""
 awayCoach: ""
 pickWinTeam: "시애틀 사운더스"
