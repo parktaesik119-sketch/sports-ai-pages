@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 디트로이트 타이거즈 경기분석·라인업·결장자·통계·승부예측 (8월 18일) | MLB - 픽천국"
+date: 2026-08-17T23:05:00.000Z
+description: "피츠버그 파이러츠 vs 디트로이트 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 61승 65패 0무, 승률 .484에 득실 633-603을 기록하며 시즌 전체로는 득점력과 실점 관리가 크게 무너지지 않은 흐름입니다. 최근에는 10경기에서 4승 6패로 들쑥날쑥한 전력이 이어지고 있지만, 보스턴전과 마이애미전에서 타선이 크게 살아난 장면도 확인되고 있습니다. 평균 득점 4.9점은 꾸준한 공격 생산을 보여주지만, 경기마다 기복이 있어 초반 흐름을 잡는지가 중요해 보입니다. 홈에서는 긴 이닝을 끌어가는 운영이 가능하고, 최근 홈 경기에서 대량 득점이 나온 점도 강점으로 평가됩니다. 다만 원정 약세 팀을 상대로도 흐름이 쉽게 끊기는 장면이 있어 마무리 집중력이 승부를 가를 가능성이 있습니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 60승 64패 0무, 승률 .484에 득실 565-482를 기록하며 순위와 승률은 비슷하지만 실점 억제가 매우 돋보이는 전력입니다. 최근 10경기에서는 6승 4패로, 직전 3연패가 있었음에도 그 전 구간에서는 시애틀과 샌프란시스코를 상대로 강한 경기력을 보였습니다. 평균 득점 4.6점은 폭발적이기보다는 효율적인 득점 운영에 가깝고, 한 번 리듬을 타면 다득점 흐름으로 이어지는 장점이 있습니다. 다만 최근에는 타선이 잠시 식으면서 실점이 늘어나는 장면이 나왔고, 이런 기복은 원정 경기에서 부담으로 작용할 수 있습니다. 특히 핵심 전력의 이탈이 적지 않아 중후반 경기 운영에서 무게감이 다소 떨어져 보입니다."
+homePower: "파이러츠, 홈에서 대량 득점이 터질 때 흐름이 크게 살아남|최근 타선 기복은 크지만 폭발 구간의 임팩트는 분명함|실점 허용은 많아도 홈에서는 공격으로 상쇄하는 구조임|상위권 상대에도 한 방이 있어 경기 중반 뒤집기 여지 보임|근소한 승률보다 공격 리듬 회복 여부가 핵심 변수임"
+awayPower: "타이거즈, 득실 격차가 좋아 경기 내용은 탄탄함|최근 원정 연속 득점은 타선 응집력이 살아 있음을 보임|실점 억제력이 강해 접전에서 버티는 힘이 있음|핵심 결장자 누적으로 후반 대체 자원 부담이 큼|타이밍만 맞으면 강하지만 최근 연패 구간이 변수임"
+h2h: '[]'
+summary: "피츠버그 파이러츠와 디트로이트 타이거즈는 승률이 같지만, 시즌 전체 득실과 최근 득점 흐름을 함께 보면 전력의 색깔은 다르게 읽힙니다. 피츠버그 파이러츠는 홈에서 공격이 크게 살아나는 장면이 있고, 디트로이트 타이거즈는 실점 억제가 안정적이지만 최근에는 타선의 기복이 조금 더 두드러져 보입니다. 전체 흐름을 놓고 보면 두 팀 모두 경쟁력은 충분하지만, 홈에서 분위기를 끌어올릴 수 있는 피츠버그 파이러츠가 조금 더 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.17","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BOPI0-2026-08-17-pittsburgh-pirates/"},{"date":"26.08.16","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816BOPI0-2026-08-16-pittsburgh-pirates/"},{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BOPI0-2026-08-15-pittsburgh-pirates/"},{"date":"26.08.14","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PIFL0-2026-08-14-miami-marlins/"},{"date":"26.08.13","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PIFL0-2026-08-13-miami-marlins/"}]'
+awayRecent: '[{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.08.14","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CLDE0-2026-08-14-detroit-tigers/"},{"date":"26.08.13","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CLDE0-2026-08-13-detroit-tigers/"}]'
+injuryHome: "Nick Gonzales (타박상)|Yohan Ramirez (부성휴가)|Oneil Cruz (골절)|Endy Rodriguez (염증)|Konnor Griffin (염좌)"
+injuryAway: "Brant Hurter (염증)|Parker Meadows (수술)|James Outman (뇌진탕)|Kerry Carpenter (족저근막염)|Matt Vierling (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

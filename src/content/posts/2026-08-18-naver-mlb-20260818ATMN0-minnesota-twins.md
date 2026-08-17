@@ -1,0 +1,37 @@
+---
+title: "미네소타 트윈스 vs 애틀랜타 브레이브스 경기분석·라인업·결장자·통계·승부예측 (8월 18일) | MLB - 픽천국"
+date: 2026-08-17T23:40:00.000Z
+description: "미네소타 트윈스 vs 애틀랜타 브레이브스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "미네소타 트윈스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "미네소타 트윈스는 2026시즌 최근 87경기 40승 47패, 평균 득점 4.1로 승패 균형이 다소 무너진 가운데도 공격 생산은 일정한 편입니다. 최근 흐름에서는 9경기 4승 5패로 기복이 보이지만, 홈에서는 볼넷과 장타 연결이 살아날 때 경기 주도권을 잡는 장면이 자주 보입니다. 다만 실점 억제 쪽에서는 경기 후반 흔들림이 반복되어 접전에서 마무리 안정감이 아쉽습니다. 홈에서의 득점 응집력은 나쁘지 않지만, 최근 상위권 팀들을 상대로는 수비 부담이 커지는 모습이 나타나고 있습니다. 특히 주전급 전력 공백이 겹치면서 중심 타선의 한 방과 불펜 운용이 함께 시험대에 오른 상황으로 보입니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 87경기 48승 37패, 평균 득점 4.5로 안정적인 승률과 더 나은 득실 흐름을 함께 유지하고 있습니다. 최근 10경기 5승 5패로 절반씩 나뉘었지만, 강한 상대를 만나도 한 번 흐름을 타면 연속 득점이 나오는 공격력이 돋보입니다. 다만 원정에서는 경기 중반에 실점이 몰리는 장면이 있어 완전히 흔들림이 없다고 보기는 어렵습니다. 그래도 시즌 전체 기준으로는 미네소타 트윈스보다 공격과 수비 균형이 한 단계 위에 있고, 상위권답게 경기 운영의 완성도도 더 높아 보입니다. 핵심 투수들의 이탈이 길어지며 불펜 깊이는 부담이 있지만, 타선의 생산력으로 이를 상쇄하는 구도가 이어지고 있습니다."
+homePower: "홈에서 실점이 늘어나는 구간이 승부 변곡점임|상위권 상대에선 후반 불펜 안정이 관건임|평균 득점 4점대 초반, 타선 응집은 유지됨|장기 결장 누적이 전력 바닥을 낮추는 흐름임|접전에서는 수비 집중도에 따라 결과 편차 큼"
+awayPower: "애틀랜타 브레이브스는 득실 격차가 큰 팀임|타선이 살아날 때 연속 득점 폭발력이 큼|원정에서도 장타로 흐름을 뒤집는 힘이 있음|선발 이탈은 크지만 공격이 불안을 상쇄함|상위권 전력 유지가 시즌 전체로 검증됨"
+h2h: '[]'
+summary: "미네소타 트윈스는 시즌 전체 흐름에서 40승 47패, 평균 득점 4.1로 버티는 전력은 갖췄지만 경기 후반 안정감에서 아쉬움이 남는 편입니다. 애틀랜타 브레이브스는 48승 37패, 평균 득점 4.5와 더 나은 득실 흐름을 바탕으로 전체적인 완성도가 한 단계 높게 읽힙니다. 다만 최근 흐름만 놓고 보면 미네소타 트윈스도 홈에서 득점이 완전히 꺼진 모습은 아니어서, 초반부터 팽팽한 흐름을 만들 가능성은 있습니다. 전체 전력과 시즌 흐름을 함께 보면 애틀랜타 브레이브스가 약간의 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.17","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817PHMN0-2026-08-17-minnesota-twins/"},{"date":"26.08.16","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816PHMN0-2026-08-16-minnesota-twins/"},{"date":"26.08.14","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PHMN0-2026-08-14-minnesota-twins/"},{"date":"26.08.13","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BAMN0-2026-08-13-minnesota-twins/"},{"date":"26.08.12","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BAMN0-2026-08-12-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"},{"date":"26.08.16","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816AZAT0-2026-08-16-atlanta-braves/"},{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813NMAT0-2026-08-13-atlanta-braves/"},{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"}]'
+injuryHome: "Austin Martin (염좌)|Joe Ryan (염좌)|Mike Paredes (수술)|Mick Abel (수술)|Cole Sands (수술)"
+injuryAway: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

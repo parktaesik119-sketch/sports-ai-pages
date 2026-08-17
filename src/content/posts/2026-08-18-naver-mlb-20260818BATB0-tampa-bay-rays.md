@@ -1,0 +1,37 @@
+---
+title: "탬파베이 레이스 vs 볼티모어 오리올스 경기분석·라인업·결장자·통계·승부예측 (8월 18일) | MLB - 픽천국"
+date: 2026-08-17T22:05:00.000Z
+description: "탬파베이 레이스 vs 볼티모어 오리올스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260818BATB0-2026-08-18-tampa-bay-rays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "탬파베이 레이스"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "탬파베이 레이스는 2026시즌 최근 88경기에서 51승 33패, 승률 .602, 평균 득점 4.3으로 상위권 전력을 유지하고 있습니다. 최근 흐름만 보면 10경기에서 6승 4패, 평균 득점 5.2로 타선의 상승세가 분명하게 살아나 있었지만, 볼티모어 오리올스와의 맞대결 3연패로 흐름이 한 번 꺾인 모습입니다. 홈에서는 공격 전개가 비교적 안정적이고, 장타와 연결 타선이 함께 살아날 때 득점이 크게 불어나는 편이라 초반 득점력이 특히 중요해 보입니다. 다만 최근 결장자 부담이 적지 않아 마운드 운영과 후반 실점 관리가 예전만큼 단단하게 이어지지 않을 가능성도 있습니다. 그래도 시즌 전체로 보면 홈에서의 운영 완성도와 득점 생산력은 여전히 강점으로 평가됩니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 최근 86경기에서 42승 41패, 승률 .492, 평균 득점 4.5로 중위권 전력에 머물고 있습니다. 최근 10경기에서는 6승 4패, 평균 득점 5.2로 공격 쪽 반등 조짐이 뚜렷하고, 최근 탬파베이 레이스 3연전까지 모두 잡아내며 기세를 끌어올렸습니다. 시즌 순위는 홈팀보다 낮지만 최근 타격감은 오히려 더 날카롭게 보이며, 실점이 적게 이어질 때는 경기 주도권을 길게 가져가는 힘도 있습니다. 다만 시즌 득실이 마이너스인 점은 수비와 투수진이 흔들릴 때 흐름이 급격히 무너질 수 있음을 보여줍니다. 결장자 공백까지 감안하면 공격의 탄력은 좋지만 경기 내내 안정감을 유지하는 부분은 여전히 과제로 보입니다."
+homePower: "최근 맞대결 3연패로 상성 열세가 확인됨|득점은 살아도 실점 억제가 흔들리는 구간 있음|홈에서는 초반 주도권 확보 시 경기 운영이 수월함|장타 연결이 막히면 득점 편차가 커지는 편임|핵심 결장 누적으로 마운드 뎁스 부담이 커짐"
+awayPower: "최근 탬파베이 원정 3연승으로 상성 우위 확인됨|최근 타선 집중력이 살아나며 큰 이닝 생산 가능함|득실 마이너스는 수비 불안이 남아 있음을 의미함|결장 공백에도 득점 리듬 유지한 점이 고무적임|흐름이 맞을 때는 경기 초반부터 압박 강한 편임"
+h2h: '[{"date":"26.08.17","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"2-10","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BATB0-2026-08-17-tampa-bay-rays/"},{"date":"26.08.16","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816BATB0-2026-08-16-tampa-bay-rays/"},{"date":"26.08.15","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BATB0-2026-08-15-tampa-bay-rays/"},{"date":"26.05.28","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"11-2","link":"https://pick79.com/posts/detail/analyze-178849-2026-05-28-baltimore-orioles/"},{"date":"26.05.27","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-178834-2026-05-27-baltimore-orioles/"}]'
+summary: "볼티모어 오리올스는 시즌 전력과 최근 흐름이 함께 올라오며 탬파베이 레이스보다 조금 더 안정적인 경기 흐름을 보여주고 있습니다. 탬파베이 레이스도 시즌 전체 성적은 좋지만, 최근 맞대결에서 연달아 밀리며 상성 부담이 뚜렷하게 드러났습니다. 양 팀 모두 최근 득점 감각은 나쁘지 않지만, 볼티모어 오리올스가 더 단단한 마무리와 흐름 유지력을 보여주고 있어서 경기 후반 주도권에서도 앞설 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.17","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BATB0-2026-08-17-tampa-bay-rays/"},{"date":"26.08.16","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816BATB0-2026-08-16-tampa-bay-rays/"},{"date":"26.08.15","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BATB0-2026-08-15-tampa-bay-rays/"},{"date":"26.08.13","home":"애슬레틱스","away":"탬파베이 레이스","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TBOA0-2026-08-13-athletics/"},{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 레이스","score":"6-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"}]'
+awayRecent: '[{"date":"26.08.17","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"2-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BATB0-2026-08-17-tampa-bay-rays/"},{"date":"26.08.16","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816BATB0-2026-08-16-tampa-bay-rays/"},{"date":"26.08.15","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BATB0-2026-08-15-tampa-bay-rays/"},{"date":"26.08.13","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BAMN0-2026-08-13-minnesota-twins/"},{"date":"26.08.12","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812BAMN0-2026-08-12-minnesota-twins/"}]'
+injuryHome: "Shane McClanahan (통증)|Manuel Rodriguez (수술)|Jonathan Heasley (골절)|Griffin Jax (통증)|Cole Sulser (경련)"
+injuryAway: "Samuel Basallo (염증)|Blaze Alexander (골절)|Ryan Helsley (염증)|Felix Bautista (수술)|Ryan Mountcastle (근육 손상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "볼티모어 오리올스"
+pickWinResult: "승"
+pickHandicapTeam: "볼티모어 오리올스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

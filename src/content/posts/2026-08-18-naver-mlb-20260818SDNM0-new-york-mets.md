@@ -1,0 +1,37 @@
+---
+title: "뉴욕 메츠 vs 샌디에이고 파드리스 경기분석·라인업·결장자·통계·승부예측 (8월 18일) | MLB - 픽천국"
+date: 2026-08-17T23:10:00.000Z
+description: "뉴욕 메츠 vs 샌디에이고 파드리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260818SDNM0-2026-08-18-new-york-mets"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 메츠"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "뉴욕 메츠는 2026시즌 최근 85경기에서 40승 44패, 평균 득점 4.3으로 시즌 전력은 완전히 무너지지 않았고, 최근 10경기 7승 3패에 평균 득점 5.4까지 올라오며 상승세가 분명합니다. 특히 홈에서 점수를 꾸준히 쌓는 흐름이 살아나고 있어, 타선의 응집력이 최근 경기들에서 더 또렷하게 드러나고 있습니다. 직전 워싱턴 내셔널스전 3연승처럼 공격이 끊기지 않을 때는 경기 주도권을 잡는 모습이 좋습니다. 다만 시즌 전체로 보면 기복이 남아 있어, 초반 흐름을 놓치면 흔들릴 여지는 있습니다. 그래도 최근에는 득점 생산과 경기 운영이 함께 안정되며 홈에서 강점을 보이고 있습니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 최근 77경기에서 39승 37패, 평균 득점 4.2로 상위권 경쟁력을 유지하고 있고, 최근 10경기 8승 2패에 평균 득점 4.8까지 올라오며 반등 흐름이 뚜렷합니다. 리그순위 6위라는 위치에 맞게 시즌 누적 전력은 안정적이지만, 득실 +3이 말해주듯 큰 격차로 압도하는 팀이라기보다 접전에서 힘을 내는 성격이 강합니다. 최근에는 클리블랜드와 밀워키를 상대로도 경기 후반까지 집중력을 유지하며 승리를 이어간 점이 인상적입니다. 다만 원정 경기에서는 득점이 크게 터지기보다 필요한 점수를 효율적으로 가져가는 흐름이 자주 보입니다. 장기 결장자가 여러 명이라 전력 유지력은 중요하지만, 최근 경기력 자체는 충분히 경쟁적으로 보입니다."
+homePower: "홈 타선 응집력이 살아나며 득점 분산이 좋아짐|최근 홈 경기에서 초반 리드 잡는 흐름이 뚜렷함|최근 상승세가 순위보다 강하게 드러나는 구간임|장타보다 연결 타격으로 경기 흐름을 끌어감|접전에서도 불펜 부담을 줄이는 운영이 보임"
+awayPower: "최근 승리 흐름이 길어지며 자신감이 높아진 상태임|득실 +3 수준으로 접전 대응력이 핵심 강점임|원정에서도 필요한 득점을 꾸준히 만드는 편임|장기 결장자 여럿 속에서도 운영 완성도가 유지됨|낮은 실점 구간을 만들면 경기 주도권 확보가 쉬움"
+h2h: '[{"date":"26.06.08","home":"샌디에이고 파드리스","away":"뉴욕 메츠","score":"3-7","link":"https://pick79.com/posts/detail/analyze-178984-2026-06-08-san-diego-padres/"},{"date":"26.06.07","home":"샌디에이고 파드리스","away":"뉴욕 메츠","score":"3-2","link":"https://pick79.com/posts/detail/analyze-178954-2026-06-06-san-diego-padres/"},{"date":"26.06.06","home":"샌디에이고 파드리스","away":"뉴욕 메츠","score":"0-5","link":"https://pick79.com/posts/detail/analyze-178954-2026-06-06-san-diego-padres/"}]'
+summary: "뉴욕 메츠는 시즌 전체 기준으로는 승패 균형이 완전히 안정적이지는 않지만, 최근 들어 득점이 살아나면서 홈 경기에서 한 단계 올라선 흐름을 보이고 있습니다. 샌디에이고 파드리스는 리그순위 6위답게 시즌 전력의 완성도가 높고 최근 흐름도 좋지만, 득실 차가 크지 않아 압도적인 우세보다는 접전 대응력이 핵심으로 보입니다. 맞대결에서는 뉴욕 메츠가 이미 우위를 잡아두고 있어, 최근 상승세와 홈 이점을 함께 고려하면 뉴욕 메츠가 조금 더 유리한 그림으로 판단됩니다."
+homeRecent: '[{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"},{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"},{"date":"26.08.13","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813NMAT0-2026-08-13-atlanta-braves/"},{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.08.17","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SDCL0-2026-08-17-cleveland-guardians/"},{"date":"26.08.16","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SDCL0-2026-08-16-cleveland-guardians/"},{"date":"26.08.15","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SDCL0-2026-08-15-cleveland-guardians/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"}]'
+injuryHome: "Austin Warren (염좌)|Justin Hagenman (골절)|Devin Williams (염좌)|Juan Soto (염좌)|Cionel Perez (염좌)"
+injuryAway: "Joe Musgrove (염증)|Samad Taylor (염좌)|Miguel Andujar (골절)|Lucas Giolito (염증)|Nick Pivetta (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "시카고 컵스 vs 시카고 화이트삭스 경기분석·라인업·결장자·통계·승부예측 (8월 18일) | MLB - 픽천국"
+date: 2026-08-18T00:05:00.000Z
+description: "시카고 컵스 vs 시카고 화이트삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 컵스"
+awayTeam: "시카고 화이트삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+homeAnalysis: "시카고 컵스는 2026시즌 46승 2무 36패, 평균 득점 4.9로 시즌 전체 전력에서 안정적인 상위권 흐름을 유지하고 있습니다. 최근에는 10경기 6승 4패로 나쁘지 않은 흐름이지만, 강한 상대를 상대로는 실점이 크게 늘어나는 장면도 있어 전력의 출렁임이 함께 보입니다. 홈에서는 공격 생산이 살아날 때 득점 폭이 꽤 커지는 편이라 타선의 한 번 터짐이 경기 양상을 바꾸는 경우가 많습니다. 다만 최근 일정에서는 마운드가 흔들리는 구간이 있었고, 이 부분이 원정 화이트삭스의 장타 흐름과 맞물리면 부담이 생길 수 있습니다. 주목할 만한 점은 홈에서 경기 초반 분위기를 잡을 때 승부를 끝까지 끌고 가는 운영이 꽤 탄탄하다는 점입니다."
+awayAnalysis: "시카고 화이트삭스는 2026시즌 45승 1무 42패, 평균 득점 4.4로 시즌 전력은 중상위권이지만 득실 차가 크지 않아 경기별 편차가 있는 모습입니다. 최근 10경기에서 6승 4패를 기록하며 흐름은 분명 올라와 있고, 특히 최근 원정 연전에서 득점 감각이 살아나고 있습니다. 원정에서도 타선이 초반부터 점수를 내기 시작하면 경기 전체의 주도권을 가져오는 힘이 있습니다. 반면 장기 결장자가 여러 명 이어지고 있어 마운드 운용의 깊이는 분명한 변수로 남아 있습니다. 최근 흐름만 놓고 보면 공격 쪽 응집력이 좋아져 반등 조짐이 뚜렷한 편이며, 이 점이 컵스보다 더 날카롭게 보입니다."
+homePower: "홈 타선은 초반부터 점수 생산이 가능한 구조임|최근 실점 변동폭이 커 마운드 안정이 관건임|강한 상대 상대로도 장타로 흐름 전환 가능함|홈에서 경기 주도권을 잡을 때 승률이 높아보임|마무리 구간 집중력은 경기별 편차가 확인됨"
+awayPower: "원정 타선은 최근 득점 감각이 뚜렷하게 살아있음|득실 차가 크지 않아 접전 운영 능력이 중요함|장기 결장 여파로 불펜 깊이는 약점으로 보임|원정에서도 초반 장타로 흐름을 바꾸는 힘이 있음|최근 상승세가 시즌 평균 전력보다 더 돋보임"
+h2h: '[{"date":"26.05.18","home":"시카고 화이트삭스","away":"시카고 컵스","score":"9-8","link":"https://pick79.com/posts/detail/analyze-178709-2026-05-18-chicago-white-sox/"},{"date":"26.05.17","home":"시카고 화이트삭스","away":"시카고 컵스","score":"8-3","link":"https://pick79.com/posts/detail/analyze-178694-2026-05-17-chicago-white-sox/"},{"date":"26.05.16","home":"시카고 화이트삭스","away":"시카고 컵스","score":"5-10","link":"https://pick79.com/posts/detail/analyze-178678-2026-05-16-chicago-white-sox/"}]'
+summary: "시카고 컵스는 시즌 전체 성적에서 앞서 있지만, 최근 경기에서는 실점이 커지는 구간이 보이며 전력 안정감이 조금 흔들리고 있습니다. 반대로 시카고 화이트삭스는 시즌 성적 자체는 아주 두드러지지 않지만 최근 득점 흐름이 살아나면서 경기 내용이 더 선명해졌습니다. 상대전적에서도 화이트삭스가 우세를 가져간 흐름이 확인되고 있어, 이번 경기는 화이트삭스가 전력과 상성 양쪽에서 조금 더 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.17","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs/"},{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"},{"date":"26.08.15","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SLCC0-2026-08-15-chicago-cubs/"},{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CCMO0-2026-08-14-washington-nationals/"},{"date":"26.08.13","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CCMO0-2026-08-13-washington-nationals/"}]'
+awayRecent: '[{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.08.14","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"8-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CICW0-2026-08-14-chicago-white-sox/"},{"date":"26.08.13","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CICW0-2026-08-13-chicago-white-sox/"}]'
+injuryHome: "Matt Shaw (염좌)|Daniel Palencia (긴장)|Hoby Milner (수술)|Gavin Hollowell (염증)|Edward Cabrera (일상적 관리)"
+injuryAway: "Jordan Leasure (긴장)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (긴장)|Ky Bush (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

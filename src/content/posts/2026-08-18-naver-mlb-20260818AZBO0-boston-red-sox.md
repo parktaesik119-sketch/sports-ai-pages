@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs 애리조나 다이아몬드백스 경기분석·라인업·결장자·통계·승부예측 (8월 18일) | MLB - 픽천국"
+date: 2026-08-17T23:10:00.000Z
+description: "보스턴 레드삭스 vs 애리조나 다이아몬드백스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260818AZBO0-2026-08-18-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "애리조나 다이아몬드백스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 최근 90경기 49승 2무 39패, 평균 득점 4.4로 시즌 전체에서는 충분히 경쟁력 있는 전력을 보여주고 있습니다. 다만 최근 10경기에서는 3승 7패로 흐름이 크게 꺾였고, 득점이 나오는 경기와 그렇지 않은 경기의 편차가 커진 모습입니다. 최근에는 피츠버그 파이리츠전과 토론토 블루제이스전에서 승리를 챙기기도 했지만, 같은 기간 실점이 빠르게 늘어난 경기들이 겹치며 안정감이 떨어지고 있습니다. 홈에서는 한 번 흐름을 타면 화력으로 밀어붙이는 장점이 분명하지만, 수비 쪽에서 흔들리는 장면이 늘어나 접전 운영이 쉽지 않아 보입니다. 그래도 팀 전체 득점 감각 자체는 크게 꺼지지 않았고, 상위 타선이 초반에 출루만 만들어 주면 경기 주도권을 잡을 여지는 있습니다."
+awayAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 79경기 43승 0무 36패, 평균 득점 4.7로 시즌 전반의 공격 생산성이 좋은 편입니다. 최근 10경기에서도 6승 4패로 버티는 힘을 보여주고 있어, 리그순위 7위라는 표면적 위치보다 최근 전력의 질감은 나쁘지 않습니다. 특히 애틀랜타 브레이브스전과 로스앤젤레스 다저스전에서 승리를 가져온 점은 강팀 상대로도 한 방이 있는 전력임을 보여줍니다. 다만 실점이 크게 흔들린 경기와 안정적으로 막아낸 경기가 번갈아 나와, 마운드 쪽 기복은 아직 남아 있습니다. 결장자가 적지 않은 상황에서도 타선의 응집력은 유지되고 있어, 경기 후반까지 공격 압박을 이어가는 흐름이 주목됩니다."
+homePower: "최근 10경기 3승7패로 반등 신호가 약함|홈에서 타선 폭발력은 있으나 유지력은 흔들림|보스턴 레드삭스 수비 불안이 접전 변수로 작용함|장기 결장자 누적로 전력 깊이 얕아진 모습|초반 득점 선점 시 경기 운영 안정감은 살아남"
+awayPower: "최근 10경기 6승4패로 상승 흐름 유지됨|애리조나 다이아몬드백스 타선 응집력은 꾸준함|강팀 상대로도 장타로 흐름 바꾸는 힘 확인됨|장기 결장자 여파로 마운드 안정성은 과제임|득점 상한이 높아 원정에서도 주도권 가능성 보임"
+h2h: '[]'
+summary: "보스턴 레드삭스는 시즌 전체 성적만 놓고 보면 경쟁력이 분명하지만, 최근 흐름이 그 기준을 밑돌면서 기세가 다소 꺾여 있습니다. 반면 애리조나 다이아몬드백스는 리그순위가 더 낮아도 최근 전력이 더 단단하게 움직이고 있고, 득점 생산과 경기 마무리의 균형이 상대적으로 낫습니다. 두 팀 모두 결장 공백이 적지 않지만, 현재 흐름과 시즌 득실 차를 함께 보면 애리조나 다이아몬드백스가 한 발 앞선 전력으로 평가됩니다. 경기 전체 그림도 원정팀이 타선의 꾸준함을 바탕으로 우위를 가져갈 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.17","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BOPI0-2026-08-17-pittsburgh-pirates/"},{"date":"26.08.16","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816BOPI0-2026-08-16-pittsburgh-pirates/"},{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BOPI0-2026-08-15-pittsburgh-pirates/"},{"date":"26.08.14","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814BOTO0-2026-08-14-toronto-blue-jays/"},{"date":"26.08.13","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BOTO0-2026-08-13-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"},{"date":"26.08.16","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"3-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816AZAT0-2026-08-16-atlanta-braves/"},{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"},{"date":"26.08.11","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"}]'
+injuryHome: "Isiah Kiner-Falefa (염증)|Roman Anthony (염좌)|Trevor Story (수술)|Garrett Whitlock (염증)|Johan Oviedo (좌상)"
+injuryAway: "Nolan Arenado (통증)|Justin Martinez (수술)|Jordan Lawlar (좌상)|Ryan Thompson (좌상)|Lourdes Gurriel Jr. (좌상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
