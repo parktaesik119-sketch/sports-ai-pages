@@ -479,7 +479,7 @@ const structuredDataJson = JSON.stringify(structuredData).replace(/</g, '\\u003c
         ) : (
           <img src="/assets/fallback/flag.svg" class="flag-icon flag-icon--fallback" alt="" aria-hidden="true" />
         )}
-        {translateCountry(country)} [ {translateLeague(league)} ]
+        {translateCountry(country)} <span class="league-bracket">[ {translateLeague(league)} ]</span>
       </span>
       <span class="match-time-text">
         {(() => {
@@ -1228,6 +1228,10 @@ const structuredDataJson = JSON.stringify(structuredData).replace(/</g, '\\u003c
 }
 .match-info-card .league-info .flag-icon--fallback {
   object-fit: contain;
+}
+.match-info-card .league-info .league-bracket {
+  white-space: nowrap;
+  display: inline-block;
 }
 .match-info-card .match-time-text {
   font-size: 0.8rem;
