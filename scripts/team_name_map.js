@@ -1441,6 +1441,7 @@ const TEAM_NAME_MAP = {
   "Gremio": "그레미우",
   "Internacional": "인테르나시오나우",
   "Vasco DA Gama": "바스코 다 가마",
+  "Vasco da Gama": "바스코 다 가마",
   "RB Bragantino": "RB 브라간치누",
   "Corinthians": "코린치안스",
   "Atletico Paranaense": "아틀레티코 파라나엔세",
