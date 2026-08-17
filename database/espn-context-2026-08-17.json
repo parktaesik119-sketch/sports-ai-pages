@@ -983,22 +983,22 @@
       "home": {
         "rank": "14",
         "wins": "4",
-        "losses": "9",
+        "losses": "10",
         "ties": "5",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "22",
-        "pointsAgainst": "36"
+        "pointsFor": "23",
+        "pointsAgainst": "38"
       },
       "away": {
-        "rank": "7",
-        "wins": "7",
+        "rank": "5",
+        "wins": "8",
         "losses": "5",
         "ties": "6",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "32",
-        "pointsAgainst": "25"
+        "pointsFor": "34",
+        "pointsAgainst": "26"
       }
     },
     "h2h": {
@@ -1547,7 +1547,7 @@
         {
           "name": "Logan Webb",
           "status": "Day-To-Day",
-          "detail": ""
+          "detail": "Soreness"
         },
         {
           "name": "Jesus Rodriguez",
@@ -1875,14 +1875,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Shane McClanahan",
-          "status": "15-Day-IL",
-          "detail": "Soreness"
-        },
-        {
           "name": "Manuel Rodriguez",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Shane McClanahan",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
         },
         {
           "name": "Jonathan Heasley",
@@ -2030,14 +2030,14 @@
           "detail": "Sprain"
         },
         {
-          "name": "Tony Santillan",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Brandon Williamson",
           "status": "60-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Tony Santillan",
+          "status": "15-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Spencer Steer",
@@ -2410,22 +2410,22 @@
       "home": {
         "rank": "5",
         "wins": "63",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".508",
-        "gamesBehind": "11.5",
-        "pointsFor": "574",
-        "pointsAgainst": "603"
+        "winPercent": ".504",
+        "gamesBehind": "12",
+        "pointsFor": "576",
+        "pointsAgainst": "606"
       },
       "away": {
         "rank": "12",
-        "wins": "58",
+        "wins": "59",
         "losses": "66",
         "ties": "0",
-        "winPercent": ".468",
-        "gamesBehind": "16.5",
-        "pointsFor": "486",
-        "pointsAgainst": "510"
+        "winPercent": ".472",
+        "gamesBehind": "16",
+        "pointsFor": "489",
+        "pointsAgainst": "512"
       }
     },
     "h2h": {
@@ -2760,6 +2760,11 @@
           "detail": "Inflammation"
         },
         {
+          "name": "Brock Stewart",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
+        },
+        {
           "name": "Gavin Stone",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -2773,11 +2778,6 @@
           "name": "Tyler Glasnow",
           "status": "60-Day-IL",
           "detail": "Spasms"
-        },
-        {
-          "name": "Bobby Miller",
-          "status": "60-Day-IL",
-          "detail": "Soreness"
         }
       ],
       "away": [
@@ -3173,14 +3173,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Shane McClanahan",
-          "status": "15-Day-IL",
-          "detail": "Soreness"
-        },
-        {
           "name": "Manuel Rodriguez",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Shane McClanahan",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
         },
         {
           "name": "Jonathan Heasley",
@@ -3912,14 +3912,14 @@
           "detail": "Sprain"
         },
         {
-          "name": "Tony Santillan",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Brandon Williamson",
           "status": "60-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Tony Santillan",
+          "status": "15-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Spencer Steer",
@@ -4625,7 +4625,7 @@
         {
           "name": "Logan Webb",
           "status": "Day-To-Day",
-          "detail": ""
+          "detail": "Soreness"
         },
         {
           "name": "Jesus Rodriguez",
@@ -5108,6 +5108,11 @@
           "detail": "Inflammation"
         },
         {
+          "name": "Brock Stewart",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
+        },
+        {
           "name": "Gavin Stone",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -5121,11 +5126,6 @@
           "name": "Tyler Glasnow",
           "status": "60-Day-IL",
           "detail": "Spasms"
-        },
-        {
-          "name": "Bobby Miller",
-          "status": "60-Day-IL",
-          "detail": "Soreness"
         }
       ],
       "away": [
@@ -5297,27 +5297,27 @@
       "home": {
         "rank": "5",
         "wins": "63",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".508",
-        "gamesBehind": "11.5",
-        "pointsFor": "574",
-        "pointsAgainst": "603"
+        "winPercent": ".504",
+        "gamesBehind": "12",
+        "pointsFor": "576",
+        "pointsAgainst": "606"
       },
       "away": {
         "rank": "12",
-        "wins": "58",
+        "wins": "59",
         "losses": "66",
         "ties": "0",
-        "winPercent": ".468",
-        "gamesBehind": "16.5",
-        "pointsFor": "486",
-        "pointsAgainst": "510"
+        "winPercent": ".472",
+        "gamesBehind": "16",
+        "pointsFor": "489",
+        "pointsAgainst": "512"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SEA leads series 8-2",
+      "text": "SEA leads series 9-2",
       "totalGames": 10,
       "games": [
         {
@@ -5419,14 +5419,14 @@
           "detail": "Sprain"
         },
         {
-          "name": "Tony Santillan",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Brandon Williamson",
           "status": "60-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Tony Santillan",
+          "status": "15-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Spencer Steer",
@@ -5573,14 +5573,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Shane McClanahan",
-          "status": "15-Day-IL",
-          "detail": "Soreness"
-        },
-        {
           "name": "Manuel Rodriguez",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Shane McClanahan",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
         },
         {
           "name": "Jonathan Heasley",
@@ -5918,14 +5918,14 @@
           "detail": "Sprain"
         },
         {
-          "name": "Tony Santillan",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Brandon Williamson",
           "status": "60-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Tony Santillan",
+          "status": "15-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Spencer Steer",
@@ -6722,6 +6722,11 @@
           "detail": "Inflammation"
         },
         {
+          "name": "Brock Stewart",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
+        },
+        {
           "name": "Gavin Stone",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -6735,11 +6740,6 @@
           "name": "Tyler Glasnow",
           "status": "60-Day-IL",
           "detail": "Spasms"
-        },
-        {
-          "name": "Bobby Miller",
-          "status": "60-Day-IL",
-          "detail": "Soreness"
         }
       ]
     },

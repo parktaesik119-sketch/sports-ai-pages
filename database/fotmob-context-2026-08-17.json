@@ -427,7 +427,7 @@
         "Bruno Guimarães (MF)|https://images.fotmob.com/image_resources/playerimages/850354.png",
         "Myles Lewis-Skelly (DF)|https://images.fotmob.com/image_resources/playerimages/1406436.png",
         "Noni Madueke (FW)|https://images.fotmob.com/image_resources/playerimages/1084981.png",
-        "Kai Havertz (MF)|https://images.fotmob.com/image_resources/playerimages/749736.png",
+        "Kai Havertz (FW)|https://images.fotmob.com/image_resources/playerimages/749736.png",
         "Christos Tzolis (FW)|https://images.fotmob.com/image_resources/playerimages/1157237.png"
       ],
       "away": [
@@ -1014,30 +1014,9 @@
           "name": "Enea Mihaj",
           "status": "부상",
           "detail": "Mid August 2026"
-        },
-        {
-          "name": "Will Reilly",
-          "status": "발목 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Ajani Fortune",
-          "status": "햄스트링 부상",
-          "detail": "Early September 2026"
         }
       ],
-      "away": [
-        {
-          "name": "Rafael Mosquera",
-          "status": "허벅지 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "AJ Marcucci",
-          "status": "십자 인대 부상",
-          "detail": "Unknown"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -4160,10 +4139,10 @@
         "Ubaidullah Shamsul (DF)|https://images.fotmob.com/image_resources/playerimages/1471226.png",
         "Faris Danish (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Ezequiel Agüero (MF)|https://images.fotmob.com/image_resources/playerimages/1254756.png",
-        "Muhammad Syafiq (FW)|https://images.fotmob.com/image_resources/playerimages/827150.png",
+        "Muhammad Syafiq (MF)|https://images.fotmob.com/image_resources/playerimages/827150.png",
         "Mohamadou Sumareh (FW)|https://images.fotmob.com/image_resources/playerimages/823372.png",
         "Daryl Sham (FW)|https://images.fotmob.com/image_resources/playerimages/1544653.png",
-        "Pavithran Gunalan (MF)|https://images.fotmob.com/image_resources/playerimages/1683966.png",
+        "Pavithran Gunalan (FW)|https://images.fotmob.com/image_resources/playerimages/1683966.png",
         "Paulo Josué (FW)|https://images.fotmob.com/image_resources/playerimages/922725.png"
       ],
       "away": [
@@ -4177,7 +4156,7 @@
         "Nguyen Van Vi (MF)|https://images.fotmob.com/image_resources/playerimages/1513640.png",
         "Geovane Magno Cândido Silveira ()|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Nguyen Xuân Son (FW)|https://images.fotmob.com/image_resources/playerimages/690317.png",
-        "Nguyen Dình Bac (MF)|https://images.fotmob.com/image_resources/playerimages/1543684.png"
+        "Nguyen Dình Bac (FW)|https://images.fotmob.com/image_resources/playerimages/1543684.png"
       ]
     },
     "formation": {
@@ -16517,7 +16496,7 @@
         "Marc Striednig (MF)|https://images.fotmob.com/image_resources/playerimages/1663336.png",
         "Raphael Gschösser (MF)|https://images.fotmob.com/image_resources/playerimages/1798656.png",
         "Thomas Goiginger (MF)|https://images.fotmob.com/image_resources/playerimages/557330.png",
-        "Michael Olakigbe (FW)|https://images.fotmob.com/image_resources/playerimages/1130797.png",
+        "Michael Olakigbe (MF)|https://images.fotmob.com/image_resources/playerimages/1130797.png",
         "Lukas Hinterseer (FW)|https://images.fotmob.com/image_resources/playerimages/176831.png"
       ],
       "away": [
@@ -17315,16 +17294,17 @@
         }
       ]
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2026-08-16T10:30:00.000Z",
+        "home": "Liverpool",
+        "away": "Como",
+        "homeScore": 0,
+        "awayScore": 0
+      }
+    ],
     "recent": {
       "home": [
-        {
-          "date": "2026-05-24T15:00:00.000Z",
-          "home": "Liverpool",
-          "away": "Brentford",
-          "homeScore": 1,
-          "awayScore": 1
-        },
         {
           "date": "2026-07-25T22:00:00.000Z",
           "home": "Liverpool",
@@ -17352,16 +17332,16 @@
           "away": "Monaco",
           "homeScore": 2,
           "awayScore": 3
+        },
+        {
+          "date": "2026-08-16T10:30:00.000Z",
+          "home": "Liverpool",
+          "away": "Como",
+          "homeScore": 0,
+          "awayScore": 0
         }
       ],
       "away": [
-        {
-          "date": "2026-05-10T10:30:00.000Z",
-          "home": "Hellas Verona",
-          "away": "Como",
-          "homeScore": 0,
-          "awayScore": 1
-        },
         {
           "date": "2026-05-17T10:00:00.000Z",
           "home": "Como",
@@ -17389,6 +17369,13 @@
           "away": "Como",
           "homeScore": 1,
           "awayScore": 1
+        },
+        {
+          "date": "2026-08-16T10:30:00.000Z",
+          "home": "Liverpool",
+          "away": "Como",
+          "homeScore": 0,
+          "awayScore": 0
         }
       ]
     },
@@ -23659,10 +23646,10 @@
         "Truong Tien Anh (MF)|https://images.fotmob.com/image_resources/playerimages/1106266.png",
         "Lê Pham Thành Long (MF)|https://images.fotmob.com/image_resources/playerimages/890872.png",
         "Nguyen Hoàng Duc (MF)|https://images.fotmob.com/image_resources/playerimages/848581.png",
-        "Nguyen Hai Long (MF)|https://images.fotmob.com/image_resources/playerimages/1162356.png",
-        "Nguyen Quang Hai (MF)|https://images.fotmob.com/image_resources/playerimages/819727.png",
-        "Nguyen Dình Bac (MF)|https://images.fotmob.com/image_resources/playerimages/1543684.png",
-        "Nguyen Van Vi (DF)|https://images.fotmob.com/image_resources/playerimages/1513640.png"
+        "Nguyen Van Vi (MF)|https://images.fotmob.com/image_resources/playerimages/1513640.png",
+        "Geovane Magno Cândido Silveira ()|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Nguyen Xuân Son (FW)|https://images.fotmob.com/image_resources/playerimages/690317.png",
+        "Nguyen Dình Bac (MF)|https://images.fotmob.com/image_resources/playerimages/1543684.png"
       ],
       "away": [
         "Azri Ghani (GK)|https://images.fotmob.com/image_resources/playerimages/1580880.png",
@@ -23670,17 +23657,17 @@
         "Rodney Celvin Akwensivie (DF)|https://images.fotmob.com/image_resources/playerimages/1055964.png",
         "Ubaidullah Shamsul (DF)|https://images.fotmob.com/image_resources/playerimages/1471226.png",
         "Faris Danish (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
-        "Wan Kuzain (MF)|https://images.fotmob.com/image_resources/playerimages/941737.png",
         "Ezequiel Agüero (MF)|https://images.fotmob.com/image_resources/playerimages/1254756.png",
-        "Aliff Haiqal (MF)|https://images.fotmob.com/image_resources/playerimages/1376051.png",
+        "Muhammad Syafiq (FW)|https://images.fotmob.com/image_resources/playerimages/827150.png",
         "Mohamadou Sumareh (FW)|https://images.fotmob.com/image_resources/playerimages/823372.png",
-        "Paulo Josué (FW)|https://images.fotmob.com/image_resources/playerimages/922725.png",
-        "Pavithran Gunalan (MF)|https://images.fotmob.com/image_resources/playerimages/1683966.png"
+        "Daryl Sham (FW)|https://images.fotmob.com/image_resources/playerimages/1544653.png",
+        "Pavithran Gunalan (MF)|https://images.fotmob.com/image_resources/playerimages/1683966.png",
+        "Paulo Josué (FW)|https://images.fotmob.com/image_resources/playerimages/922725.png"
       ]
     },
     "formation": {
       "home": "3-4-3",
-      "away": "4-3-3"
+      "away": "4-2-3-1"
     },
     "coach": {
       "home": null,
@@ -24224,6 +24211,21 @@
       "home": [],
       "away": [
         {
+          "name": "Jefferson Savarino",
+          "status": "종아리 부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Riquelme Felipe",
+          "status": "사타구니 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Igor Rabello",
+          "status": "어깨 부상",
+          "detail": "Early September 2026"
+        },
+        {
           "name": "John Kennedy",
           "status": "십자 인대 부상",
           "detail": "Out for season"
@@ -24341,7 +24343,7 @@
         "Iván Villalba (DF)|https://images.fotmob.com/image_resources/playerimages/805771.png",
         "Alejo Osella (DF)|https://images.fotmob.com/image_resources/playerimages/1624107.png",
         "Diego Crego (MF)|https://images.fotmob.com/image_resources/playerimages/1096613.png",
-        "Kevin Vázquez (DF)|https://images.fotmob.com/image_resources/playerimages/1435121.png",
+        "Kevin Vázquez (MF)|https://images.fotmob.com/image_resources/playerimages/1435121.png",
         "Tomás Bottari (MF)|https://images.fotmob.com/image_resources/playerimages/1435009.png",
         "José Florentín (MF)|https://images.fotmob.com/image_resources/playerimages/1129078.png",
         "Rodrigo Atencio (MF)|https://images.fotmob.com/image_resources/playerimages/1362517.png",
@@ -24686,6 +24688,21 @@
     "injuries": {
       "home": [],
       "away": [
+        {
+          "name": "Leandro Paredes",
+          "status": "다리 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Leandro Lozano",
+          "status": "다리 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Marco Pellegrino",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
         {
           "name": "Adam Bareiro",
           "status": "등 부상",
