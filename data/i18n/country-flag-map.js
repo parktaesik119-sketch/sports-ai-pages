@@ -109,6 +109,7 @@ export default {
 
   // 아메리카
   "USA": "us",
+  "United States": "us",
   "Canada": "ca",
   "Mexico": "mx",
   "Brazil": "br",
