@@ -1606,6 +1606,7 @@ const TEAM_NAME_MAP = {
   "Racing Montevideo": "라싱 몬테비데오",
   "Racing": "라싱 몬테비데오",
   "Hatta": "하타",
+  "Hatta SC": "하타",
 
   //스위스
   "Lausanne": "로잔 스포르",
