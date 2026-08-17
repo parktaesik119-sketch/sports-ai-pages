@@ -241,44 +241,35 @@ function calcExpectedScores(homeMatches, awayMatches, homeTeam, awayTeam, cat, h
 // "최종 보정된 스코어" 기준으로 계산해야 해서 별도로 만들어졌고, 이 함수는 그 이후로
 // 아무 데서도 호출되지 않는 죽은 코드였다. 혼동 방지를 위해 제거함(2026-07 정리).
 // 최근 경기 → AI 컨텍스트 + 가로 한줄 형식
-// ⚠️ h2h/최근폼 데이터가 masterData(all-fixtures) · ESPN · KBL · footystats 등 여러
+// ⚠️ h2h/최근폼 데이터가 masterData(all-fixtures) · ESPN · KBL · fotmob 등 여러
 // 소스에서 각각 수집돼서 여러 단계에 걸쳐 병합되다 보니, 같은 경기가 두 번 들어가는
-// 사고가 실사용에서 확인됨(예: ESPN도 특정 경기를 찾고 footystats도 같은 경기를 찾아서
+// 사고가 실사용에서 확인됨(예: ESPN도 특정 경기를 찾고 fotmob도 같은 경기를 찾아서
 // 병합 단계의 개별 dedup 체크를 뚫고 같이 살아남는 경우). 개별 병합 단계마다 따로
 // 막기보다, "이 데이터를 실제로 쓰기 직전"에 한 번 더 무조건 걸러내는 최종 안전장치를
 // 둔다. 날짜(연-월-일)+홈팀+원정팀이 같으면 같은 경기로 보고, 먼저 나온 것만 남긴다.
 // ⚠️ 처음엔 날짜 문자열(연-월-일)만 비교했는데, 실사용 데이터로 확인해보니 같은 경기를
-// footystats는 "2025-05-25"로, ESPN은 "2025-05-24T23:00Z"로 — 하루 차이로 기록하고
-// 있었다(자정 근처 경기라 소스마다 시간대 처리 방식이 달라서 날짜가 하루씩 밀림).
-// 그래서 날짜 문자열 정확 일치 대신 "같은 두 팀 + 같은 스코어 + 날짜 이틀 이내"를
-// 같은 경기로 판단한다 — 이 조건을 우연히 만족하는 서로 다른 두 경기는 사실상 없다고
-// 봐도 된다.
-// ⚠️ 축구 전용: recent/H2H를 footystats → ESPN → api-sports(masterData) 순서로
-// 우선순위 병합한다. api-sports(all-fixtures 기반 masterData)는 데이터 품질이
-// 떨어질 때가 종종 있고(스코어가 실제와 다르게 들어오는 경우 확인됨), 반대로 축구에
-// 한해서는 footystats가 가장 정확한 걸로 확인돼서(사용자 실사용 검증) 최우선으로 삼는다.
-// 앞쪽 소스가 이미 커버한 경기(같은 팀 + 날짜 이틀 이내)는 뒤 소스에서 다시 안 가져온다.
-// 날짜 문자열에 실제 킥오프 "시각"까지 있는지 확인. footystats는 "YYYY-MM-DD"만 주고
-// (시간이 통째로 없어서 항상 UTC 자정으로 파싱됨), ESPN/api-sports는
-// "YYYY-MM-DDTHH:MM:SSZ"처럼 실제 킥오프 시각을 준다 — 이 차이로 구분한다.
+// 소스마다 하루 차이로 기록하는 경우가 있었다(자정 근처 경기라 소스마다 시간대 처리
+// 방식이 달라서 날짜가 하루씩 밀림). 그래서 날짜 문자열 정확 일치 대신 "같은 두 팀 +
+// 같은 스코어 + 날짜 이틀 이내"를 같은 경기로 판단한다 — 이 조건을 우연히 만족하는
+// 서로 다른 두 경기는 사실상 없다고 봐도 된다.
+// ⚠️ 축구 전용: recent/H2H는 masterData(all-fixtures)를 최우선으로 참조하고, masterData가
+// 목표 개수를 못 채울 때만 라이브 fotmob 재호출/ESPN을 보충용으로 병합한다. masterData는
+// 2026-08부터 fotmob 데이터를 그대로 누적 저장해온 소스라 품질이 낮지 않고, 이미 끝난
+// 경기의 확정된 값이라 오히려 라이브 재호출보다 안정적이기 때문(사용자 명시 지시, 2026-08).
+// 날짜 문자열에 실제 킥오프 "시각"까지 있는지 확인해서 우선순위 판단에 쓴다.
 function hasRealTime(dateStr) {
   return /T\d{2}:\d{2}/.test(String(dateStr));
 }
 
 // ⚠️ 축구 전용 하이브리드 병합: "날짜(킥오프 시각)"와 "스코어"를 서로 다른 우선순위로
-// 따로 결정한다.
-// - 날짜: 실제 시각 정보가 있는 소스(ESPN/api-sports)를 우선 사용한다. footystats는
-//   시간을 아예 안 줘서(항상 자정으로 가정) 실제 킥오프 시각에 따라 KST 변환 시
-//   하루 이르거나 늦게 표시될 수 있기 때문(사용자 실사용 지적으로 확인, 2026-07).
-// - 스코어: footystats → ESPN → api-sports 순서(footystats가 축구 스코어 데이터
-//   품질이 가장 정확한 걸로 검증됨).
-// 같은 실제 경기인지 판별(그룹화)은 기존과 동일하게 팀+날짜 근접성(±2일)으로 한다 —
-// footystats 날짜가 ±1일 오차가 있어도 이 범위 안에서 충분히 같은 경기로 인식된다.
-// ⚠️ team_name_map.js에 정확히 일치하는 키가 없으면(footystats 표기가 team_name_map.js
-// 키와 철자가 미묘하게 다른 경우 등, 예: "St Patricks Athletic" vs "St Patrick's Athl.")
-// matchTeam()으로 가장 비슷한 키를 찾아서 한글로 변환한다. 매칭되는 키가 없으면(진짜로
-// team_name_map.js에 없는 팀) 원문 그대로 둔다 — 깨지는 것보단 원문 표기가 낫다.
-// 이미 한글인 값이 들어와도 안전하다(한글은 어차피 영문 키와 안 겹치니 그대로 통과).
+// 따로 결정한다(자세한 우선순위는 아래 SCORE_PRIORITY/DATE_PRIORITY 참고 — 둘 다
+// masterData 최우선, 라이브 fotmob은 최후 수단).
+// 같은 실제 경기인지 판별(그룹화)은 팀+날짜 근접성(±2일)으로 한다.
+// ⚠️ team_name_map.js에 정확히 일치하는 키가 없으면(외부 소스 표기가 team_name_map.js
+// 키와 철자가 미묘하게 다른 경우 등) matchTeam()으로 가장 비슷한 키를 찾아서 한글로
+// 변환한다. 매칭되는 키가 없으면(진짜로 team_name_map.js에 없는 팀) 원문 그대로 둔다 —
+// 깨지는 것보단 원문 표기가 낫다. 이미 한글인 값이 들어와도 안전하다(한글은 어차피
+// 영문 키와 안 겹치니 그대로 통과).
 const ALL_TEAM_NAME_MAP_KEYS = Object.keys(TEAM_NAME_MAP);
 function resolveToKoreanName(name) {
   if (!name) return name;
@@ -291,7 +282,7 @@ function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam, subje
   function normalizeRow(m) {
     if (!awayTeam) {
       // ⚠️ 최근폼(상대 매번 다름)은 소스마다 언어가 다를 수 있다(masterData/AI가 이미
-      // 한글로 써둔 것도 있고, footystats가 방금 영문 그대로 준 것도 있음) — 이걸
+      // 한글로 써둔 것도 있고, fotmob이 방금 영문 그대로 준 것도 있음) — 이걸
       // 정규화 안 하고 그냥 두면 "플로라 탈린"과 "Tallinna FC Flora"가 전혀 다른
       // 문자열이라 아래 그룹핑에서 같은 경기로 인식을 못 하고 중복이 발생한다
       // (실사용 지적으로 확인, 2026-07). 홈/원정 둘 다 한글로 통일해서 언어와
@@ -350,12 +341,26 @@ function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam, subje
       && !Number.isNaN(row.homeScore) && !Number.isNaN(row.awayScore);
   }
 
-  const SCORE_PRIORITY = ['footystats', 'espn', 'masterData'];
+  // ⚠️ 우선순위 재정의(2026-08): all-fixtures(masterData)는 2026-08부터 축구 경기 일정을
+  // api-sports가 아니라 fotmob 자체에서 받아와 매일 누적 저장한 데이터다(fetch-all.js의
+  // fetchFotmobSoccerFixtures() 참고, soccer는 api-sports를 완전히 대체함). 즉 masterData가
+  // "예전에 쌓아둔 fotmob 데이터"이므로 더 이상 품질이 낮은 소스가 아니고, 이미 경기가 끝난
+  // 뒤 확정된 값이라 오히려 분석글 작성 시점에 다시 라이브로 호출하는 fotmob-context보다
+  // 안정적이다. 그래서 날짜/스코어 모두 masterData를 최우선으로 두고, 라이브 fotmob 호출은
+  // masterData에 아예 없는 경기(누락분)를 보충할 때만 최후 수단으로 쓴다(사용자 명시 지시).
+  const SCORE_PRIORITY = ['masterData', 'espn'];
+  const DATE_PRIORITY  = ['masterData', 'espn', 'fotmob'];
   return groups.map(g => {
-    // 날짜: 실제 시각 있는 후보 우선, 없으면 아무거나(첫 후보)
-    const dateSource = g.candidates.find(c => hasRealTime(c.row.date)) || g.candidates[0];
-    // 스코어: footystats에 없거나(이 경기 자체를 못 찾음) 스코어가 비정상이면 ESPN,
-    // 그것도 없으면 api-sports(masterData) 그대로 사용.
+    // 날짜: masterData(실제 시각 있음) 우선, 없으면 ESPN → fotmob 순으로 실제 시각 있는
+    // 후보, 그래도 없으면 아무거나(첫 후보).
+    let dateSource = null;
+    for (const label of DATE_PRIORITY) {
+      dateSource = g.candidates.find(c => c.label === label && hasRealTime(c.row.date));
+      if (dateSource) break;
+    }
+    dateSource = dateSource || g.candidates.find(c => hasRealTime(c.row.date)) || g.candidates[0];
+    // 스코어: masterData 우선, 없으면 ESPN, 그마저 없으면 아무 소스나
+    // (fotmob 포함 — fotmob은 SCORE_PRIORITY에 없으므로 여기서만 최후 수단으로 쓰인다).
     let scoreSource = null;
     for (const label of SCORE_PRIORITY) {
       scoreSource = g.candidates.find(c => c.label === label && hasValidScore(c.row));
@@ -535,24 +540,9 @@ async function analyzeMatches() {
       return kblContextList.find(k => k.home === match.home && k.away === match.away) || null;
     }
 
-    // footystats 컨텍스트 로드 (fetch-footystats-context.js가 미리 생성) — 축구 전용,
-    // ESPN/자체 DB가 얕은 소규모 리그 위주로 H2H/최근폼을 보충하는 용도.
-    // KBO/NPB/KBL과 마찬가지로 match.home/away를 원문(영문) 그대로 저장하므로 정확 일치로 매칭 가능.
-    const footystatsContextPath = path.resolve(__dirname, `../database/footystats-context-${today}.json`);
-    const footystatsContextList = fs.existsSync(footystatsContextPath)
-      ? JSON.parse(fs.readFileSync(footystatsContextPath, 'utf8'))
-      : [];
-    if (footystatsContextList.length > 0) {
-      console.log(`⚽ [footystats 컨텍스트] ${footystatsContextList.length}건 로드됨`);
-    }
-
-    function findFootystatsContext(match) {
-      return footystatsContextList.find(f => f.home === match.home && f.away === match.away) || null;
-    }
-
     // fotmob 컨텍스트 로드 (fetch-fotmob-context.js가 미리 생성) — 축구 전용, ESPN이
     // 커버 못 하는 하위 리그의 결장자(부상/출장정지) 정보를 글 작성 시점에 미리 확보.
-    // footystats/KBO/NPB/KBL과 마찬가지로 match.home/away를 원문(영문) 그대로 저장하므로
+    // KBO/NPB/KBL과 마찬가지로 match.home/away를 원문(영문) 그대로 저장하므로
     // 정확 일치로 매칭 가능.
     const fotmobContextPath = path.resolve(__dirname, `../database/fotmob-context-${today}.json`);
     const fotmobContextList = fs.existsSync(fotmobContextPath)
@@ -564,28 +554,6 @@ async function analyzeMatches() {
 
     function findFotmobContext(match) {
       return fotmobContextList.find(f => f.home === match.home && f.away === match.away) || null;
-    }
-
-    // footystats가 준 경기 행(row)의 팀명은 footystats 자체 표기(영문, api-sports와 미묘하게
-    // 다를 수 있음 — 예: "St Patricks Athletic" vs api-sports의 다른 표기)라서, buildRecentForm의
-    // `m.home === teamName` 같은 정확 일치 비교가 깨지지 않도록 우리 팀 이름을 match.home/away
-    // 원문으로 강제 치환해서 정규화한다.
-    //
-    // ⚠️ 상대팀 이름도 그냥 두면 안 된다 — 최종 프론트매터 직렬화 단계(TEAM_NAME_MAP[m.home] ||
-    // (resolveToKnownTeamName은 모듈 최상단으로 이동됨 — mergeSoccerMatchSources에서도
-    // 재사용하기 위함, 2026-07)
-
-    // 최근폼용: 우리 팀은 match.home/away 원문으로, 상대팀은 team_name_map.js 키로 해석.
-    function normalizeFootystatsRow(row, teamName) {
-      const isHomeInRow = matchTeam(row.home, teamName);
-      const opponentResolved = resolveToKnownTeamName(isHomeInRow ? row.away : row.home);
-      return {
-        date: row.date,
-        home: isHomeInRow ? teamName : opponentResolved,
-        away: isHomeInRow ? opponentResolved : teamName,
-        homeScore: row.homeScore,
-        awayScore: row.awayScore,
-      };
     }
 
     // H2H용: 두 팀 다 이미 알고 있으므로(match.home/away 고정) 양쪽 다 원문으로 정규화
@@ -995,57 +963,72 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   }
 
   if (cat === 'soccer') {
-    // 축구 전용: 날짜(킥오프 시각)와 스코어를 서로 다른 우선순위로 하이브리드 병합한다.
-    // - 날짜: ESPN/api-sports(실제 시각 정보 있음)를 우선 — footystats는 시간이 없어서
-    //   자정으로 가정되므로, 실제 킥오프 시각에 따라 KST 변환 시 하루 어긋날 수 있음
-    //   (사용자 실사용 지적으로 확인, 2026-07).
-    // - 스코어: fotmob(현재 활성 소스) → footystats(레거시, 현재 미가동) → ESPN → api-sports.
-    const footystatsInfo = findFootystatsContext(match);
+    // 축구 전용: all-fixtures(masterData)를 1차 소스로 우선 참조하고, masterData 혼자로
+    // 목표 개수(H2H_TARGET/RECENT_TARGET)를 못 채울 때만 fotmob(라이브 재호출)/espn을
+    // 보충용으로 병합한다. masterData가 2026-08부터 fotmob 데이터를 그대로 누적 저장해온
+    // 소스라 더 이상 "품질 낮은 api-sports"가 아니기 때문(사용자 명시 지시, 2026-08).
+    // footystats는 더 이상 사용하지 않는다(사용자 명시 지시, 2026-08 — fetch-footystats-context.js
+    // 자체도 파이프라인에서 제거해야 함).
+    // 날짜/스코어 우선순위 자체는 mergeSoccerMatchSources() 안의 DATE_PRIORITY/SCORE_PRIORITY
+    // 참고(둘 다 masterData 최우선).
+    const H2H_TARGET = 10;    // h2hForAvg 버퍼 기준(표시용 h2hHistory는 이 중 5개만 사용)
+    const RECENT_TARGET = 10;
 
-    const prioritizedH2h = mergeSoccerMatchSources(
-      [
-        { label: 'fotmob', list: fotmobInfo?.h2h },
-        { label: 'footystats', list: footystatsInfo?.h2h },
-        { label: 'espn', list: espnInfo?.h2h?.games },
-        { label: 'masterData', list: h2hHistory },
-      ],
-      match.home, match.away
-    );
+    // masterData(h2hHistory) 자체가 이미 충분하면 다른 소스는 아예 섞지 않는다.
+    const masterHadEnoughH2h = h2hHistory.length >= H2H_TARGET;
+    const prioritizedH2h = masterHadEnoughH2h
+      ? h2hHistory
+      : mergeSoccerMatchSources(
+          [
+            { label: 'masterData', list: h2hHistory },
+            { label: 'fotmob', list: fotmobInfo?.h2h },
+            { label: 'espn', list: espnInfo?.h2h?.games },
+          ],
+          match.home, match.away
+        );
     h2hForAvg  = prioritizedH2h.slice(0, 10);
     h2hHistory = prioritizedH2h.slice(0, 5);
 
-    // ⚠️ 방어 필터: 외부 소스(fotmob/footystats/espn) 쪽에서 홈/원정 판별이 잘못돼
-    // 엉뚱한 팀의 최근폼이 섞여 들어오더라도(실사용 확인, 2026-08 — fetch-fotmob-context.js
+    // ⚠️ 방어 필터: 외부 소스(fotmob/espn) 쪽에서 홈/원정 판별이 잘못돼 엉뚱한 팀의
+    // 최근폼이 섞여 들어오더라도(실사용 확인, 2026-08 — fetch-fotmob-context.js
     // isHomeFirst 오판으로 PSG 분석글에 아스톤 빌라 경기가 섞인 사고), 이 팀(subject)이
     // 실제로 home/away 어느 쪽으로도 등장하지 않는 행은 여기서 최종적으로 걸러낸다.
     // 업스트림을 고쳐도(resolveHomeFirst 등) 남아있을 수 있는 다른 소스발 오염까지 잡는
-    // 마지막 안전장치다.
+    // 마지막 안전장치다. masterData만 쓰는 분기에서도 동일하게 한 번 더 걸러 안전하게 둔다.
     const homeSubject = resolveToKoreanName(match.home);
-    const prioritizedHomeRecent = mergeSoccerMatchSources(
-      [
-        { label: 'fotmob', list: fotmobInfo?.recent?.home },
-        { label: 'footystats', list: footystatsInfo?.recent?.home },
-        { label: 'espn', list: espnInfo?.recent?.home },
-        { label: 'masterData', list: homeRecentMatches },
-      ],
-      null, null, homeSubject
-    ).filter(m => matchTeam(m.home, homeSubject) || matchTeam(m.away, homeSubject));
-    homeRecentMatches = prioritizedHomeRecent.slice(0, 10);
+    const homeRecentMerged = homeRecentMatches.length >= RECENT_TARGET
+      ? homeRecentMatches
+      : mergeSoccerMatchSources(
+          [
+            { label: 'masterData', list: homeRecentMatches },
+            { label: 'fotmob', list: fotmobInfo?.recent?.home },
+            { label: 'espn', list: espnInfo?.recent?.home },
+          ],
+          null, null, homeSubject
+        );
+    homeRecentMatches = homeRecentMerged
+      .filter(m => matchTeam(m.home, homeSubject) || matchTeam(m.away, homeSubject))
+      .slice(0, 10);
 
     const awaySubject = resolveToKoreanName(match.away);
-    const prioritizedAwayRecent = mergeSoccerMatchSources(
-      [
-        { label: 'fotmob', list: fotmobInfo?.recent?.away },
-        { label: 'footystats', list: footystatsInfo?.recent?.away },
-        { label: 'espn', list: espnInfo?.recent?.away },
-        { label: 'masterData', list: awayRecentMatches },
-      ],
-      null, null, awaySubject
-    ).filter(m => matchTeam(m.home, awaySubject) || matchTeam(m.away, awaySubject));
-    awayRecentMatches = prioritizedAwayRecent.slice(0, 10);
+    const awayRecentMerged = awayRecentMatches.length >= RECENT_TARGET
+      ? awayRecentMatches
+      : mergeSoccerMatchSources(
+          [
+            { label: 'masterData', list: awayRecentMatches },
+            { label: 'fotmob', list: fotmobInfo?.recent?.away },
+            { label: 'espn', list: espnInfo?.recent?.away },
+          ],
+          null, null, awaySubject
+        );
+    awayRecentMatches = awayRecentMerged
+      .filter(m => matchTeam(m.home, awaySubject) || matchTeam(m.away, awaySubject))
+      .slice(0, 10);
 
-    const sourceLabel = fotmobInfo?.h2h?.length > 0 ? 'fotmob'
-      : footystatsInfo?.h2h?.length > 0 ? 'footystats'
+    // 표시용 라벨도 실제 우선순위(masterData 최우선)에 맞춰 판단한다 — masterData만으로
+    // 충분했으면 fotmob에 데이터가 있어도 실제로는 안 쓰였으므로 '내부 DB'로 표기.
+    const sourceLabel = masterHadEnoughH2h ? '내부 DB'
+      : fotmobInfo?.h2h?.length > 0 ? 'fotmob'
       : (espnInfo?.h2h?.games?.length > 0 ? 'ESPN 공식' : '내부 DB');
 
     if (h2hHistory.length > 0) {
@@ -1134,7 +1117,7 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     h2hForAvg  = dedupedH2hBuffer.slice(0, 10);
     h2hHistory = dedupedH2hBuffer.slice(0, 5);
 
-    // footystats로 보충된 경기가 있으면(위 772번째 줄쯤에서 h2hHistory에 이미 반영됨),
+    // masterData/fotmob으로 보충된 경기가 있으면(위쪽 soccer 분기에서 h2hHistory에 이미 반영됨),
     // AI 프롬프트용 텍스트도 그 최신 h2hHistory 기준으로 다시 만들어서 화면 표시·평균 계산·
     // AI 서술이 전부 같은 데이터를 보게 한다(ESPN/KBL 있는 두 경로는 이미 자체적으로
     // h2hContextForAI를 새로 만들므로 이 처리가 필요 없음 — 이 else 경로만 빠져있었음).
@@ -1149,7 +1132,7 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     }
   }
 
-  // ⚠️ 최종 안전장치: ESPN/KBL/footystats/masterData 중 어디서 왔든, 병합이 다 끝난
+  // ⚠️ 최종 안전장치: ESPN/KBL/fotmob/masterData 중 어디서 왔든, 병합이 다 끝난
   // 이 시점에 한 번 더 중복을 걸러낸다. 평균 계산(h2hForAvg)과 화면 표시(h2hHistory)
   // 둘 다 이 시점 이후에 쓰이므로, 여기서 걸러내면 두 곳 다 안전하다.
   h2hForAvg  = dedupeMatchList(h2hForAvg);
@@ -1181,7 +1164,7 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
   }).sort((a, b) => new Date(b.date) - new Date(a.date));
 
   // ⚠️ H2H와 동일한 이유로 최근폼도 최종 중복제거를 한 번 더 거친다(masterData/KBL/
-  // footystats 등 여러 소스가 병합되면서 같은 경기가 중복될 수 있음).
+  // fotmob 등 여러 소스가 병합되면서 같은 경기가 중복될 수 있음).
   homeRecentMatches = dedupeMatchList(homeRecentMatches);
   awayRecentMatches = dedupeMatchList(awayRecentMatches);
 
