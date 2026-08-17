@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"시카고 컵스","away":"세인트루�
 injuryHome: "Graham Ashcraft (삠)|Tony Santillan (긴장)|Brandon Williamson (통증)|Spencer Steer (삠)|Blake Dunn (수술)"
 injuryAway: "Ramon Urias (건염)|Max Rajcic (수술)"
 homeLineup: ''
-awayLineup: "[\"선발투수 A. Pallante (12-6, 3.46) ERA 3.46|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
+awayLineup: "[\"선발투수 Q. Mathews (0-1, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/4837405.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
