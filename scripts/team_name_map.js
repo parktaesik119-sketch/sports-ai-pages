@@ -1582,6 +1582,7 @@ const TEAM_NAME_MAP = {
   "Al Taawon": "알타아원",
   "Al-Taawoun": "알타아원",
   "Shabab Al Ahli Dubai": "샤밥 알아흘리 두바이",
+  "Shabab Al-Ahli Dubai FC": "샤밥 알아흘리 두바이",
   "Sharjah FC": "샤르자 FC",
   "Al Ain": "알아인",
   "Al-Ain": "알아인",
