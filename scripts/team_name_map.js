@@ -320,7 +320,7 @@ const TEAM_NAME_MAP = {
 "HJK": "HJK 헬싱키",
 "HJK Helsinki": "HJK 헬싱키",
 "HJK W": "HJK 헬싱키",
-"FC Inter Turku": "FC 인터 투르쿠",
+"FC Inter Turku": "인터 투르쿠", // ⚠️ "Inter Turku"와 같은 팀인데 한글 표기가 달라서(FC 접두 유무) matchTeam()이 다른 팀으로 오판하던 것 통일함(2026-08 감사)
 "Inter Turku": "인터 투르쿠",
 "Inter Turku II": "인터 투르쿠 II",
 "Ilves": "일베스",
@@ -826,8 +826,8 @@ const TEAM_NAME_MAP = {
 
   //캐나다 축구팀
   "Atlético Ottawa": "아틀레티코 오타와",
-  "Vancouver FC": "밴쿠버 FC",
-  "Vancouver": "밴쿠버",
+  "Vancouver FC": "밴쿠버 FC", // ⚠️ "Vancouver"와 같은 CPL 클럽인데 한글 표기가 달라서 통일함(MLS "Vancouver Whitecaps"와는 다른 팀, 혼동 주의, 2026-08 감사)
+  "Vancouver": "밴쿠버 FC",
   "Pacific FC": "퍼시픽 FC",
   "Forge FC": "포지 FC",
   "Inter Toronto FC": "요크 유니티드 FC",
@@ -934,10 +934,10 @@ const TEAM_NAME_MAP = {
   "Barry Town": "배리 타운",
   "Cambrian & Clydach": "캠브리언 & 클리다치",
   "Cambrian United": "캠브리언 & 클리다치",
-  "Ammanford AFC": "아만포드 AFC",
+  "Ammanford AFC": "아만포드", // ⚠️ "Ammanford"와 같은 팀인데 한글 표기가 달라서 통일함(2026-08 감사)
   "Colwyn Bay": "콜윈베이 FC",
   "Llandudno": "란디드노",
-  "Llandudno FC": "란디드노 FC",
+  "Llandudno FC": "란디드노", // ⚠️ "Llandudno"와 같은 팀인데 한글 표기가 달라서 통일함(2026-08 감사)
   "Llaneros": "야네로스",
   "Llaneros FC": "야네로스",
   "Airbus UK Broughton": "에어버스 UK 브로튼",
@@ -1805,7 +1805,7 @@ const TEAM_NAME_MAP = {
   "Slovan Bratislava": "슬로반 브라티슬라바",
   "FK Crvena Zvezda": "츠르베나 즈베즈다",
   "Hapoel Beer Sheva": "하포엘 베르셰바",
-  "Horsens": "호르센스",
+  "Horsens": "호르센스", // ⚠️ "AC Horsens"와 같은 팀인데 한글 표기가 달라서 통일함(2026-08 감사)
   "Viborg": "비보르",
   "Podbrezová": "포드브레조바",
   "Admira Wacker": "FC 아드미라 바커",
@@ -1838,7 +1838,7 @@ const TEAM_NAME_MAP = {
   "Šiauliai": "FA 샤울랴이",
   "Velazerimi 77": "벨라제리미 77",
   "Labunishta": "FK 라부니슈타",
-  "AC Horsens": "AC 호르센스",
+  "AC Horsens": "호르센스",
   "Spartak Trnava": "스파르타크 트르나바",
   "CSKA 1948": "CSKA 1948 소피아",
   "Beşiktaş": "베식타스 JK",
