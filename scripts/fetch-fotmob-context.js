@@ -19,11 +19,18 @@
 // homeScore/awayScore 숫자 필드를 기대하기 때문에, fotmob-lineup-update.js가 쓰는
 // "26.07.09" 축약 포맷이 아니라 toFotmobH2hRaw/toFotmobRecentRaw(ISO 날짜 + 숫자
 // 스코어)를 써야 한다. 절대 Display 버전과 헷갈리면 안 됨.
+//
+// ⚠️ teamForm 배열 오염 방지: fotmob이 getFormOwnerId()의 팀 ID 태깅과 무관하게
+// 배열 "안의" 개별 경기 항목에 무관한 팀의 경기를 섞어 내려주는 사고가 확인됐다
+// ("Hatta" 사례, 2026-08 — 홈팀 최근폼에 전혀 다른 나라의 하위리그 팀 경기가 섞여
+// 들어감). ID 태깅만 믿지 말고, 배열 안 각 항목이 실제로 이 팀(match.home/away)
+// 이름을 포함하는지 matchTeamWithAlias()로 한 번 더 검증해서 걸러낸다.
 
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import {
+  matchTeamWithAlias,
   resolveHomeFirst,
   findFotmobMatch,
   fetchMatchDetails,
@@ -148,6 +155,18 @@ async function main() {
         if (ownerId === ourHomeId) ourHomeFormArr = arr;
         else if (ownerId === ourAwayId) ourAwayFormArr = arr;
       }
+
+      // 🛡️ 방어 필터: getFormOwnerId()의 ID 태깅만 믿지 말고, 배열 안 각 경기 항목이
+      // 실제로 이 팀(match.home/away) 이름을 포함하는지 한 번 더 확인한다. fotmob이
+      // ID는 맞게 태깅해도 배열 내용물 자체에 무관한 팀 경기를 섞어 내려주는 경우를
+      // 방어하기 위함 ("Hatta" 사례, 2026-08).
+      ourHomeFormArr = ourHomeFormArr.filter(item =>
+        matchTeamWithAlias(item.home?.name || '', match.home) || matchTeamWithAlias(item.away?.name || '', match.home)
+      );
+      ourAwayFormArr = ourAwayFormArr.filter(item =>
+        matchTeamWithAlias(item.home?.name || '', match.away) || matchTeamWithAlias(item.away?.name || '', match.away)
+      );
+
       const recent = {
         home: toFotmobRecentRaw(ourHomeFormArr, match.date),
         away: toFotmobRecentRaw(ourAwayFormArr, match.date),

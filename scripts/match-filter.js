@@ -65,7 +65,7 @@
     // ⚽ 프리미어리그 (EPL)
     'Arsenal', 'Manchester City','Man City', 'Manchester United', 'Man United', 'Aston Villa', 'Liverpool',
     'Bournemouth', 'Sunderland', 'Brighton', 'Brentford', 'Chelsea', 'Fulham', 'Newcastle', 'Everton',
-    'Crystal Palace', 'Nottingham Forest', 'Nottm Forest', 'Tottenham', 'Leeds', 'Coventry', 'Ipswich',
+    'Crystal Palace', 'Nottingham Forest', 'Nottm Forest', 'Tottenham', 'Leeds', 'Leeds United', 'Coventry', 'Ipswich',
     'Hull', 'Hull City',
 
     // ⚽ 라리가

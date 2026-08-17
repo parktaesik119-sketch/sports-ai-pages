@@ -430,6 +430,13 @@ async function main() {
           else if (ownerId === ourAwayId) ourAwayFormArr = arr;
         }
 
+        ourHomeFormArr = ourHomeFormArr.filter(item =>
+        matchTeamWithAlias(item.home?.name || '', homeTeamEn) || matchTeamWithAlias(item.away?.name || '', homeTeamEn)
+        );
+        ourAwayFormArr = ourAwayFormArr.filter(item =>
+        matchTeamWithAlias(item.home?.name || '', awayTeamEn) || matchTeamWithAlias(item.away?.name || '', awayTeamEn)
+        );
+
         if (needHomeRecent) {
           const items = toFotmobRecentDisplay(ourHomeFormArr, fm.date);
           const merged = supplementMatchList(existingHomeRecent.items, items, TARGET_COUNT, isWomens);

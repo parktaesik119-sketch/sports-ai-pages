@@ -7,6 +7,7 @@ const TEAM_NAME_MAP = {
 
   // ===== ⚽ 프리미어리그 (Premier League) =====
   "Leeds": "리즈 유나이티드",
+  "Leeds United": "리즈 유나이티드",
   "Coventry": "코번트리 시티",
   "Ipswich": "입스위치 타운",
   "Hull City": "헐 시티",
