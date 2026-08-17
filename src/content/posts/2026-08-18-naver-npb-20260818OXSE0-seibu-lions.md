@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.16","home":"세이부 라이온즈","away":"지바 
 awayRecent: '[{"date":"26.08.16","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"7-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816NHOX0-2026-08-16-orix-buffaloes/"},{"date":"26.08.15","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815NHOX0-2026-08-15-orix-buffaloes/"},{"date":"26.08.14","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814NHOX0-2026-08-14-orix-buffaloes/"},{"date":"26.08.13","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813OXRT0-2026-08-13-rakuten-gold-eagles/"},{"date":"26.08.12","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812OXRT0-2026-08-12-rakuten-gold-eagles/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kaima Taira (8-3, 1.49)|https://p.npb.jp/players_photo/2026/180/l/061_31035136.jpg\"]"
+awayLineup: "[\"선발투수 Allen Kuri (8-7, 2.83)|https://p.npb.jp/players_photo/2026/180/b/022_71775139.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
