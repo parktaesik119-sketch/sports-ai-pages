@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"신시내티 레즈","away":"마이애�
 injuryHome: "Derek Hill (부상 상태 미기재)|Rafael Marchan (건염)|Caleb Kilian (근육 염좌)|Tanner Banks (근육 염좌)|Johan Rojas (수술)"
 injuryAway: "Joe Mack (부상 상태 미기재)|Anthony Bender (골절)|Kyle Stowers (근육 염좌)|Max Meyer (근육 염좌)|Ronny Henriquez (수술)"
 homeLineup: "[\"선발투수 Z. Wheeler (10-4, 2.89) ERA 2.89|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 C. Gibson (2-0, 5.61) ERA 5.61|https://a.espncdn.com/i/headshots/mlb/players/full/5273591.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
