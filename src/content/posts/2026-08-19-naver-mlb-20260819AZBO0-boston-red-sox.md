@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"�
 injuryHome: "Jahmai Jones (경미한 상태)|Isiah Kiner-Falefa (염증)|Trevor Story (수술)|Roman Anthony (염좌)|Garrett Whitlock (염증)"
 injuryAway: "Ketel Marte (결장)|Nolan Arenado (통증)|Ryan Thompson (근육 부상)|Lourdes Gurriel Jr. (근육 부상)|Drey Jameson (염증)"
 homeLineup: "[\"선발투수 R. Suarez (4-3, 3.25) ERA 3.25|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
-awayLineup: "[\"선발투수 M. Kelly (8-10, 5.11) ERA 5.11|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
+awayLineup: "[\"선발투수 M. Kelly (8-10, 5.11) ERA 5.11|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\",\"1번 I. Vargas (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32985.png\",\"2번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"3번 G. Moreno (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"4번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"5번 T. Tawa (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\",\"6번 J. Lawlar (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4872649.png\",\"7번 J. McCann (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32046.png\",\"8번 J. Fernandez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5010500.png\",\"9번 R. Waldschmidt (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5129344.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
