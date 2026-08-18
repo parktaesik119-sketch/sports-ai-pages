@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Endy Rodriguez (염증)|Konnor Griffin (염좌)|Ryan O'Hearn (염좌)|Mitch Keller (명시되지 않음)"
 injuryAway: "Brant Hurter (염증)|Parker Meadows (수술)|Kerry Carpenter (족저근막염)|James Outman (뇌진탕)|Matt Vierling (염좌)"
 homeLineup: "[\"선발투수 B. Ashcraft (12-5, 3.82) ERA 3.82|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
-awayLineup: "[\"선발투수 K. Montero (9-7, 3.22) ERA 3.22|https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png\"]"
+awayLineup: "[\"선발투수 K. Montero (9-7, 3.22) ERA 3.22|https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png\",\"1번 G. Torres (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33804.png\",\"2번 K. McGonigle (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5149072.png\",\"3번 C. Keith (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4683384.png\",\"4번 E. Valencia (C)|https://a.espncdn.com/i/headshots/mlb/players/full/5133392.png\",\"5번 Z. McKinstry (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/38420.png\",\"6번 S. Torkelson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4424286.png\",\"7번 B. Callahan (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5273840.png\",\"8번 M. Clark (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5148964.png\",\"9번 J. Baez (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/32127.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
