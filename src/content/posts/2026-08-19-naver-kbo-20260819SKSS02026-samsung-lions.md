@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.15","home":"삼성 라이온스","away":"한화 이
 awayRecent: '[{"date":"26.08.16","home":"LG 트윈스","away":"SSG 랜더스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816SKLG02026-2026-08-16-lg-twins/"},{"date":"26.08.15","home":"LG 트윈스","away":"SSG 랜더스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815SKLG02026-2026-08-15-lg-twins/"},{"date":"26.08.14","home":"LG 트윈스","away":"SSG 랜더스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814SKLG02026-2026-08-14-lg-twins/"},{"date":"26.08.13","home":"SSG 랜더스","away":"롯데 자이언츠","score":"0-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813LTSK02026-2026-08-13-ssg-landers/"},{"date":"26.08.12","home":"SSG 랜더스","away":"롯데 자이언츠","score":"9-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812LTSK02026-2026-08-12-ssg-landers/"}]'
 injuryHome: "이재희 (부상)"
 injuryAway: "없음"
-homeLineup: "[\"1번 김지찬 (중견수)\",\"2번 박승규 (우익수)\",\"3번 구자욱 (좌익수)\",\"4번 최형우 (지명타자)\",\"5번 디아즈 (1루수)\",\"6번 류지혁 (2루수)\",\"7번 강민호 (포수)\",\"8번 전병우 (3루수)\",\"9번 이재현 (유격수)\"]"
-awayLineup: "[\"1번 정준재 (2루수)\",\"2번 최지훈 (중견수)\",\"3번 박성한 (유격수)\",\"4번 김재환 (지명타자)\",\"5번 전의산 (1루수)\",\"6번 한유섬 (우익수)\",\"7번 김성욱 (좌익수)\",\"8번 조형우 (포수)\",\"9번 안상현 (3루수)\"]"
+homeLineup: "[\"선발투수 보스 (ERA 9.00)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56402.jpg\",\"1번 김지찬 (중견수)\",\"2번 박승규 (우익수)\",\"3번 구자욱 (좌익수)\",\"4번 최형우 (지명타자)\",\"5번 디아즈 (1루수)\",\"6번 류지혁 (2루수)\",\"7번 강민호 (포수)\",\"8번 전병우 (3루수)\",\"9번 이재현 (유격수)\"]"
+awayLineup: "[\"선발투수 타케다 (ERA 7.42)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56823.jpg\",\"1번 정준재 (2루수)\",\"2번 최지훈 (중견수)\",\"3번 박성한 (유격수)\",\"4번 김재환 (지명타자)\",\"5번 전의산 (1루수)\",\"6번 한유섬 (우익수)\",\"7번 김성욱 (좌익수)\",\"8번 조형우 (포수)\",\"9번 안상현 (3루수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
