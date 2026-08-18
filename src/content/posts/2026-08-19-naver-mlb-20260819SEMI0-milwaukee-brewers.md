@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"휴스턴 애스트로스","away":"시�
 injuryHome: "Brice Turang (통증)|Sal Frelick (염좌)|Joel Kuhnel (건염)|Cooper Pratt (염좌)|Rob Zastryzny (염좌)"
 injuryAway: "Victor Robles (통증)|Taylor Ward (통증)|J.P. Crawford (염증)|Carlos Vargas (염좌)|Will Wilson (골절)"
 homeLineup: "[\"선발투수 K. Harrison (9-3, 2.99) ERA 2.99|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
-awayLineup: "[\"선발투수 B. Miller (4-6, 3.39) ERA 3.39|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\"]"
+awayLineup: "[\"선발투수 B. Miller (4-6, 3.39) ERA 3.39|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\",\"1번 B. Donovan (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41773.png\",\"2번 R. Arozarena (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36488.png\",\"3번 D. Canzone (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4345621.png\",\"4번 J. Rodriguez (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41044.png\",\"5번 J. Naylor (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35066.png\",\"6번 C. Young (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080641.png\",\"7번 C. Raleigh (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41292.png\",\"8번 V. Robles (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/35042.png\",\"9번 B. Rodden (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5197107.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
