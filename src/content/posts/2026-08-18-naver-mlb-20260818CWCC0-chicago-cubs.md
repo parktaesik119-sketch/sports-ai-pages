@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Matt Shaw (염좌)|Daniel Palencia (긴장)|Hoby Milner (수술)|Gavin Hollowell (염증)|Edward Cabrera (일상적 관리)"
 injuryAway: "Jordan Leasure (긴장)|Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (긴장)|Ky Bush (수술)"
 homeLineup: "[\"선발투수 K. Gausman (6-11, 4.53) ERA 4.53|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 B. Hudson (3-4, 3.14) ERA 3.14|https://a.espncdn.com/i/headshots/mlb/players/full/4991171.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
