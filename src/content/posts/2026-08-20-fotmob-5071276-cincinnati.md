@@ -1,0 +1,37 @@
+---
+title: "FC 신시내티 vs 뉴욕 시티 FC 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLS - 픽천국"
+date: 2026-08-19T23:30:00.000Z
+description: "FC 신시내티 vs 뉴욕 시티 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071276-2026-08-20-cincinnati"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "FC 신시내티"
+awayTeam: "뉴욕 시티 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/546238.png"
+homeAnalysis: "FC 신시내티는 2026시즌 최근 13경기에서 2승 3무 8패, 평균 득점 1.5로 기록되어 있고, 리그순위 6위라는 자리와 비교하면 최근 흐름은 기대치보다 다소 처진 모습입니다. 다만 득점 감각 자체는 완전히 무너진 편은 아니어서, 오비나 은워보다와 에반데르 페레이라를 중심으로 전방 전개가 살아날 때는 충분히 공격적인 장면을 만들고 있습니다. 반면 실점 억제가 흔들린 구간이 길어 경기 운영이 안정적이지 않았고, 홈에서는 이를 만회하려는 의지가 분명하게 드러나는 편입니다. 로만 셀렌타노가 버티는 골문 앞과 마일스 로빈슨, 맷 미아즈가가 버티는 수비 축이 중심을 잘 잡아주면 경기의 균형이 달라질 수 있습니다. 특히 이번에는 상대보다 순위는 앞서 있지만 최근 전력 흐름이 무겁기 때문에, 초반 주도권을 잡고 실수를 줄이는 운영이 중요하게 보입니다."
+awayAnalysis: "뉴욕 시티 FC는 2026시즌 최근 15경기에서 4승 3무 8패, 평균 득점 1.1로 기록되어 있고, 리그순위 7위라는 수치에 비해 최근 흐름이 고점 대비 주춤한 모습입니다. 특히 최근 들어 패배가 이어지면서 공격 전개의 날카로움이 떨어졌고, 알론소 마르티네스와 막시 모랄레스의 이탈이 전력의 균형을 흔드는 흐름으로 읽힙니다. 그럼에도 케턴 파크스와 안드레스 페레아를 중심으로 중원은 버티는 힘이 있고, 아기스틴 오헤다와 베니에 트라오레가 전방에서 한 번의 돌파로 분위기를 바꿀 가능성은 있습니다. 다만 원정에서는 수비 전환이 느려질 때 흔들림이 커지는 편이라, 실점 억제가 선행되지 않으면 경기 주도권을 잡기 쉽지 않아 보입니다. 최근 리그순위와 흐름을 함께 보면, 순위 자체보다 현재 경기력의 기복이 더 크게 보이는 팀입니다."
+homePower: "에반데르 중심 전개로 창의성 확보됨|마일스 로빈슨-맷 미아즈가 중심축 안정감 있음|3-5-2 구조로 중원 숫자 우위 기대됨|홈에서 강하게 몰아칠 때 득점 연결성 살아남|실점 억제만 되면 경기 주도권 장악 가능함"
+awayPower: "알론소 마르티네스 공백으로 마무리 부담 커짐|케턴 파크스 중심 중원 버티는 힘은 있음|아기스틴 오헤다 돌파가 변수로 작용함|원정에서 압박 회피되면 전개 속도 떨어짐|수비 전환 느려질 때 실점 위험 커짐"
+h2h: '[{"date":"26.04.23","home":"뉴욕 시티 FC","away":"FC 신시내티","score":"4-4"},{"date":"25.08.24","home":"FC 신시내티","away":"뉴욕 시티 FC","score":"0-1"},{"date":"25.05.05","home":"뉴욕 시티 FC","away":"FC 신시내티","score":"1-0"},{"date":"24.11.10","home":"FC 신시내티","away":"뉴욕 시티 FC","score":"0-0"},{"date":"24.11.03","home":"뉴욕 시티 FC","away":"FC 신시내티","score":"3-1"}]'
+summary: "FC 신시내티는 리그순위 6위로 뉴욕 시티 FC보다 한 계단 앞서 있고, 2026시즌 최근 13경기 2승 3무 8패라는 흐름을 감안하면 순위 대비 내용은 다소 흔들린 편입니다. 반대로 뉴욕 시티 FC는 리그순위 7위이지만 최근 15경기 4승 3무 8패에 평균 득점 1.1로 공격 완성도가 높지 않아, 전력의 안정감에서는 FC 신시내티 쪽이 조금 더 나아 보입니다. 맞대결에서는 득점이 크게 터진 경기도 있었지만 전반적으로 FC 신시내티가 홈에서 버티는 장면이 자주 확인되었고, 이번 경기에서도 중원 장악과 수비 집중력이 승부를 가를 가능성이 높습니다. 전반적인 전력 균형과 홈 이점을 함께 보면 FC 신시내티가 근소하게 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Roman Celentano (GK)|https://images.fotmob.com/image_resources/playerimages/1337962.png","Miles Robinson (DF)|https://images.fotmob.com/image_resources/playerimages/825623.png","Matt Miazga (DF)|https://images.fotmob.com/image_resources/playerimages/458324.png","Samuel Gidi (MF)|https://images.fotmob.com/image_resources/playerimages/1383071.png","Ender Echenique (MF)|https://images.fotmob.com/image_resources/playerimages/1248686.png","Pavel Bucha (MF)|https://images.fotmob.com/image_resources/playerimages/923247.png","Evander Ferreira (MF)|https://images.fotmob.com/image_resources/playerimages/787351.png","Obinna Nwobodo (MF)|https://images.fotmob.com/image_resources/playerimages/861112.png","Bryan Ramírez (MF)|https://images.fotmob.com/image_resources/playerimages/1458513.png","Kévin Denkey (FW)|https://images.fotmob.com/image_resources/playerimages/820477.png","Tom Barlow (FW)|https://images.fotmob.com/image_resources/playerimages/847753.png"]'
+awayLineup: '["Matt Freese (GK)|https://images.fotmob.com/image_resources/playerimages/1026065.png","Tayvon Gray (DF)|https://images.fotmob.com/image_resources/playerimages/1107250.png","Maxwell Murray (DF)|https://images.fotmob.com/image_resources/playerimages/1755977.png","James Sands (MF)|https://images.fotmob.com/image_resources/playerimages/880095.png","Nico Cavallo (DF)|https://images.fotmob.com/image_resources/playerimages/1720649.png","Jonathan Shore (MF)|https://images.fotmob.com/image_resources/playerimages/1513255.png","Keaton Parks (MF)|https://images.fotmob.com/image_resources/playerimages/782782.png","Andrés Perea (MF)|https://images.fotmob.com/image_resources/playerimages/1041997.png","Agustín Ojeda (FW)|https://images.fotmob.com/image_resources/playerimages/1345326.png","Luighi (FW)|https://images.fotmob.com/image_resources/playerimages/1580773.png","Bénie Traoré (FW)|https://images.fotmob.com/image_resources/playerimages/1231770.png"]'
+homeFormation: "3-5-2"
+awayFormation: "4-3-3"
+homeCoach: "Pat Noonan|https://images.fotmob.com/image_resources/playerimages/70286.png"
+awayCoach: "Pascal Jansen|https://images.fotmob.com/image_resources/playerimages/1213522.png"
+pickWinTeam: "FC 신시내티"
+pickWinResult: "승"
+pickHandicapTeam: "FC 신시내티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

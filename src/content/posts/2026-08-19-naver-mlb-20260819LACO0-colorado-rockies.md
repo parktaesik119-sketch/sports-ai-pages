@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs LA 다저스 경기분석·라인업·결장자·통계·승부예측 (8월 19일) | MLB - 픽천국"
+date: 2026-08-19T00:40:00.000Z
+description: "콜로라도 로키스 vs LA 다저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260819LACO0-2026-08-19-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "LA 다저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 최근 69경기에서 29승 40패, 승률 .403으로 시즌 흐름이 들쭉날쭉하지만 평균 득점 5.3점은 타선의 폭발력이 충분히 살아 있는 팀임을 보여드립니다. 최근에는 승패가 엇갈리고 있으나 한 번 점수가 터질 때는 대량 득점으로 분위기를 바꾸는 장면이 자주 보입니다. 다만 득실이 마이너스인 만큼 실점 관리에서 흔들리는 구간이 길고, 경기 후반 집중력이 떨어질 때 흐름을 내주는 모습도 적지 않습니다. 홈에서는 공격 생산력이 좀 더 살아나는 편이라 타선이 초반부터 출루를 이어가면 충분히 맞불을 놓을 수 있는 전력입니다. Hunter Goodman의 상태는 가볍게 지켜볼 만하지만, Jaden Hill과 Tyler Freeman, Kyle Karros, McCade Brown의 이탈은 전력 깊이에 부담을 주고 있습니다."
+awayAnalysis: "LA 다저스는 2026시즌 최근 78경기에서 47승 31패, 승률 .592로 상위권 전력을 유지하고 있으며 평균 득점 5.0점도 꾸준한 득점 기반을 보여줍니다. 최근 흐름만 보면 다소 주춤하지만, 시즌 전체로는 강한 경기 운영과 안정된 전력 차이가 분명하게 드러납니다. 득실이 크게 플러스라는 점에서 단순한 타격 의존형이 아니라 실점 억제까지 함께 갖춘 팀으로 평가됩니다. 다만 최근 원정 흐름이 흔들린 뒤라 타선의 집중도가 예전만 못한 구간은 분명히 보입니다. Ben Casparius, Brock Stewart, Gavin Stone, Blake Treinen, Tyler Glasnow의 결장은 마운드 운용 폭을 줄이는 요소이지만, 전체적인 전력 우위가 크게 흔들릴 정도는 아닙니다."
+homePower: "홈에서 득점 기복이 커도 한 번에 몰아치는 힘이 있음|실점이 늘어날 때 경기 주도권을 놓치기 쉬움|상위권 팀 상대로는 수비 집중력이 더 중요함|장타로 균형을 뒤집는 공격 색깔이 뚜렷함|결장 누적이 길어지며 벤치 깊이는 약해지는 흐름임"
+awayPower: "시즌 득실 차가 커서 경기 운영 안정감이 높음|최근 타선 침체가 있어도 기본 기대치는 유지됨|콜로라도 로키스 상대로 상성 우위가 검증됨|핵심 투수 이탈로 마운드 유연성은 다소 감소함|접전에서도 마무리 단계 우위가 기대되는 전력임"
+h2h: '[{"date":"26.07.09","home":"LA 다저스","away":"콜로라도 로키스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-179401-2026-07-09-los-angeles-dodgers/"},{"date":"26.07.08","home":"LA 다저스","away":"콜로라도 로키스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-179385-2026-07-08-los-angeles-dodgers/"},{"date":"26.07.07","home":"LA 다저스","away":"콜로라도 로키스","score":"8-7","link":"https://pick79.com/posts/detail/analyze-179373-2026-07-07-los-angeles-dodgers/"},{"date":"26.05.28","home":"LA 다저스","away":"콜로라도 로키스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-178843-2026-05-28-los-angeles-dodgers/"},{"date":"26.05.27","home":"LA 다저스","away":"콜로라도 로키스","score":"15-6","link":"https://pick79.com/posts/detail/analyze-178828-2026-05-27-los-angeles-dodgers/"}]'
+summary: "콜로라도 로키스는 시즌 전체 수치상 득점력은 나쁘지 않지만 실점 억제가 흔들리며 승률이 낮게 묶여 있고, LA 다저스는 같은 시즌 안에서도 득실 격차가 크게 플러스인 만큼 전력의 완성도가 한 단계 위로 보입니다. 최근 흐름에서는 두 팀 모두 완전히 매끄럽지는 않지만, 콜로라도 로키스는 공격이 살아나는 날에 반등 여지가 있고 LA 다저스는 최근 부진이 있어도 시즌 전체 우위가 쉽게 사라지지 않는 모습입니다. 맞대결에서도 LA 다저스가 시리즈 우위를 잡고 있어, 경기 양상은 콜로라도 로키스의 타선 저항을 LA 다저스가 전체 전력과 상성으로 눌러가는 흐름이 더 자연스럽습니다."
+homeRecent: '[{"date":"26.08.17","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817COSF0-2026-08-17-san-francisco-giants/"},{"date":"26.08.16","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816COSF0-2026-08-16-san-francisco-giants/"},{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"},{"date":"26.08.11","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"},{"date":"26.08.10","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810COSL0-2026-08-10-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.08.17","home":"LA 다저스","away":"밀워키 브루어스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MILA0-2026-08-17-los-angeles-dodgers/"},{"date":"26.08.16","home":"LA 다저스","away":"밀워키 브루어스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MILA0-2026-08-16-los-angeles-dodgers/"},{"date":"26.08.14","home":"LA 다저스","away":"밀워키 브루어스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814MILA0-2026-08-14-los-angeles-dodgers/"},{"date":"26.08.13","home":"LA 다저스","away":"캔자스시티 로열스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813KCLA0-2026-08-13-los-angeles-dodgers/"},{"date":"26.08.12","home":"LA 다저스","away":"캔자스시티 로열스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812KCLA0-2026-08-12-los-angeles-dodgers/"}]'
+injuryHome: "Hunter Goodman (염증)|Jaden Hill (건염)|Kyle Karros (뇌진탕)|Tyler Freeman (결장)|McCade Brown (염증)"
+injuryAway: "Ben Casparius (염증)|Brock Stewart (건염)|Gavin Stone (염증)|Blake Treinen (염증)|Tyler Glasnow (경련)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

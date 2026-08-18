@@ -1,0 +1,37 @@
+---
+title: "스포르팅 캔자스시티 vs 세인트루이스 시티 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLS - 픽천국"
+date: 2026-08-20T00:00:00.000Z
+description: "스포르팅 캔자스시티 vs 세인트루이스 시티 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071284-2026-08-20-sporting-kc"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "스포르팅 캔자스시티"
+awayTeam: "세인트루이스 시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6604.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1427963.png"
+homeAnalysis: "스포르팅 캔자스시티는 2026시즌 최근 10경기에서 3승 6패, 평균 득점 0.9로 득점 생산이 다소 아쉬운 흐름입니다. 최근 경기에서도 실점 억제가 흔들리면서 공격에서 한 번에 분위기를 바꾸지 못하는 장면이 자주 보였고, 전반적인 경기 운영의 안정감도 더 보완이 필요해 보입니다. 다만 홈에서는 뉴욕 레드불스를 상대로 승리를 챙긴 적이 있어, 짧은 간격의 압박과 빠른 전환이 살아날 때는 충분히 경쟁력을 보여주고 있습니다. 이번 경기에서는 라파엘 비키 감독 체제 아래 데얀 요벨리치와 칼빈 해리스의 마무리 감각이 중요하고, 마고메드-샤피 술레이마노프의 전개가 살아나야 공격이 한층 부드러워질 수 있습니다. 수비 쪽에서는 주전급 결장자가 이어지는 만큼 뒷공간 관리와 세트피스 대응이 핵심 변수가 될 전망입니다."
+awayAnalysis: "세인트루이스 시티는 2026시즌 최근 13경기에서 7승 2패, 평균 득점 1.7로 공격 효율과 결과를 함께 챙기는 전력이 돋보입니다. 최근에도 원정에서 산호세를 상대로 3골을 넣으며 승리했고, 홈과 원정을 가리지 않고 경기 주도권을 잡는 힘이 안정적으로 이어지고 있습니다. 특히 최근 일정에서 무실점 또는 한두 실점 안에서 경기를 정리하는 장면이 많아, 수비 균형이 비교적 잘 잡혀 있는 흐름입니다. 요안 다멧 감독 체제에서는 에두아르 로베른의 전진 패스와 싱빈 정, 사이먼 비허의 움직임이 공격의 활로를 열어주고 있습니다. 여기에 로만 뷔르키의 안정감까지 더해지면, 접전에서도 먼저 흐름을 가져갈 가능성이 높아 보입니다."
+homePower: "최근 결장자 공백으로 수비 조직 재편 부담 큼|데얀 요벨리치 중심 마무리 효율 회복이 관건임|마고메드-샤피 술레이마노프의 전개가 활로임|홈에서는 압박 강도 올라갈 때 경기력이 달라짐|실점이 잦아 선제 실점 시 반전 난도 높음"
+awayPower: "세인트루이스 시티, 공격 전개 속도와 침투가 강점임|에두아르 로베른 중심으로 중원 배급 완성도 높음|원정에서도 득점 생산이 흔들리지 않는 흐름임|로만 뷔르키 존재감으로 경기 후반 안정감 확보됨|결장자 있어도 전체 전력 균형은 유지되는 편임"
+h2h: '[{"date":"26.07.17","home":"세인트루이스 시티","away":"스포르팅 캔자스시티","score":"3-2","link":"https://pick79.com/posts/detail/analyze-1490327-2026-07-17-st-louis-city/"},{"date":"25.05.15","home":"세인트루이스 시티","away":"스포르팅 캔자스시티","score":"2-2"},{"date":"25.04.06","home":"스포르팅 캔자스시티","away":"세인트루이스 시티","score":"2-0"},{"date":"24.09.29","home":"세인트루이스 시티","away":"스포르팅 캔자스시티","score":"3-1"},{"date":"24.07.21","home":"스포르팅 캔자스시티","away":"세인트루이스 시티","score":"1-1"}]'
+summary: "스포르팅 캔자스시티는 시즌 전체 전력에서 득점 생산이 낮고 실점 부담이 함께 드러나고 있어, 안정적인 경기 운영이 필요한 상황입니다. 반면 세인트루이스 시티는 더 높은 득점력과 나은 결과 관리가 이어지고 있어서, 전력 균형에서는 한 발 앞선 모습입니다. 맞대결 흐름을 봐도 세인트루이스 시티가 최근 우세를 잡아가는 장면이 분명했고, 이번 경기에서도 세인트루이스 시티가 주도권을 가져갈 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Kwaku Agyabeng (부상)|Moisés Mosquera (부상)|Justin Reynolds (햄스트링 부상)"
+injuryAway: "Brendan McSorley (발목 부상)|Kyle Hiebert (엉덩이 부상)|Célio Pompeu (십자 인대 부상)"
+homeLineup: '["Stefan Cleveland (GK)|https://images.fotmob.com/image_resources/playerimages/846521.png","Jacob Davis (DF)|https://images.fotmob.com/image_resources/playerimages/1082905.png","Moisés Mosquera (DF)|https://images.fotmob.com/image_resources/playerimages/1187762.png","Or Blorian (DF)|https://images.fotmob.com/image_resources/playerimages/1091999.png","Emir Karic (DF)|https://images.fotmob.com/image_resources/playerimages/642153.png","Magomed-Shapi Suleymanov (MF)|https://images.fotmob.com/image_resources/playerimages/861720.png","Kwaku Agyabeng (MF)|https://images.fotmob.com/image_resources/playerimages/1907812.png","Zorhan Bassong (MF)|https://images.fotmob.com/image_resources/playerimages/1023070.png","Capita (FW)|https://images.fotmob.com/image_resources/playerimages/1187420.png","Dejan Joveljic (FW)|https://images.fotmob.com/image_resources/playerimages/749491.png","Calvin Harris (FW)|https://images.fotmob.com/image_resources/playerimages/1244938.png"]'
+awayLineup: '["Roman Bürki (GK)|https://images.fotmob.com/image_resources/playerimages/112978.png","Lukas MacNaughton (DF)|https://images.fotmob.com/image_resources/playerimages/1045804.png","Timo Baumgartl (DF)|https://images.fotmob.com/image_resources/playerimages/514301.png","Dante Polvara (DF)|https://images.fotmob.com/image_resources/playerimages/1327826.png","Conrad Wallem (MF)|https://images.fotmob.com/image_resources/playerimages/843710.png","Christopher Durkin (MF)|https://images.fotmob.com/image_resources/playerimages/848424.png","Daniel Edelman (MF)|https://images.fotmob.com/image_resources/playerimages/1170233.png","Tomas Totland (MF)|https://images.fotmob.com/image_resources/playerimages/633617.png","Sang-Bin Jeong (FW)|https://images.fotmob.com/image_resources/playerimages/1109166.png","Simon Becher (FW)|https://images.fotmob.com/image_resources/playerimages/1370582.png","Eduard Löwen (MF)|https://images.fotmob.com/image_resources/playerimages/794408.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "Raphael Wicky|https://images.fotmob.com/image_resources/playerimages/30705.png"
+awayCoach: "Yoann Damet|https://images.fotmob.com/image_resources/playerimages/1050340.png"
+pickWinTeam: "세인트루이스 시티"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 시티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

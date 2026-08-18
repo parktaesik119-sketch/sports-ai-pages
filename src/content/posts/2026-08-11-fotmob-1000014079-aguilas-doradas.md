@@ -1,6 +1,6 @@
 ---
 title: "Aguilas Doradas vs Llaneros FC 경기분석·라인업·결장자·통계·승부예측 (8월 11일) | Primera A - 픽천국"
-date: 2026-08-11T21:00:00.000Z
+date: 2026-08-19T21:00:00.000Z
 description: "Aguilas Doradas vs Llaneros FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
 slug: "analyze-fotmob-1000014079-2026-08-11-aguilas-doradas"
 category: "soccer"

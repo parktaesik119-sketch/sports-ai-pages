@@ -1,0 +1,37 @@
+---
+title: "밀워키 브루어스 vs 시애틀 매리너스 경기분석·라인업·결장자·통계·승부예측 (8월 19일) | MLB - 픽천국"
+date: 2026-08-18T23:40:00.000Z
+description: "밀워키 브루어스 vs 시애틀 매리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "밀워키 브루어스는 2026시즌 최근 86경기에서 53승 1무 32패, 평균 득점 4.5로 리그순위 1위를 지키며 안정적인 전력을 보여주고 있습니다. 최근 흐름도 6승 3패로 나쁘지 않고, 강한 상대였던 로스앤젤레스 다저스를 상대로 연승을 거두며 상위권 팀다운 집중력을 다시 확인했습니다. 홈에서는 미네소타 트윈스, 피츠버그 파이리츠를 상대로도 꾸준히 득점을 만들며 경기 운영이 매우 매끄럽게 이어지고 있습니다. 다만 샌디에이고 파드리스전처럼 득점이 막히는 날도 있어, 타선의 응집력이 경기 초반에 풀리느냐가 중요해 보입니다. 결장자 가운데 살 프렐릭과 조엘 쿠넬, 로브 자스트리즈니 같은 장기 결장은 전력의 깊이에 부담을 주지만, 팀 전체의 득실 차가 워낙 좋아 약점이 크게 드러나지는 않고 있습니다. 특히 홈에서의 안정된 마운드 운영과 필요한 순간에 점수를 쌓는 능력이 돋보입니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 최근 75경기에서 36승 1무 38패, 평균 득점 3.8로 리그순위 12위에 머물러 있어 전반적인 전력 기복이 적지 않습니다. 최근 흐름은 4승 6패로 반등의 실마리는 있지만, 휴스턴 애스트로스를 상대로 연승을 챙긴 뒤에도 중간에 타선이 다시 침묵하면서 상승세를 길게 잇지는 못하고 있습니다. 원정에서는 뉴욕 양키스, 로스앤젤레스 다저스 같은 강팀을 상대로도 경쟁력을 보였지만, 무득점과 저득점 경기가 반복되며 공격 효율이 흔들리는 모습이 보입니다. 특히 평균 득점이 낮은 편이라 한 번 밀리면 흐름을 되돌리기 어려운 점이 아쉽습니다. 제이피 크로포드의 이탈은 중심 타선과 연결 구간에 부담을 주고 있고, 장기 결장자가 여러 명이라 전력 유지가 쉽지 않아 보입니다. 그래도 최근 휴스턴 원정에서 보여준 집중력은 완전히 가라앉은 팀은 아니라는 점을 보여줍니다."
+homePower: "리그순위 1위답게 경기 운영의 완성도가 높음|득실 +136으로 공수 균형 우수함|홈에서도 원정에서도 득점 루트가 끊기지 않음|강한 상대를 상대로도 흔들림 적은 집중력 검증됨|장기 결장에도 대체 자원 활용 능력 돋보임"
+awayPower: "리그순위 12위지만 최근 원정 반등 조짐 보임|강팀 상대로도 한 방은 만드는 역습형 전개 가능함|저득점 경기가 많아 수비 부담을 줄이는 운영 필요함|중심타선 이탈로 득점 연결 효율 저하가 우려됨|흐름이 붙으면 연승도 가능하지만 지속성은 변수임"
+h2h: '[]'
+summary: "밀워키 브루어스는 2026시즌 리그순위 1위와 득실 +136이 보여주듯 공수 밸런스가 매우 안정적이고, 최근에도 강팀을 상대로 흐름을 이어가며 상위권다운 완성도를 유지하고 있습니다. 시애틀 매리너스는 리그순위 12위로 처져 있지만 최근 원정에서 잠깐씩 반등 장면을 만들고 있어 완전히 무기력한 모습은 아니며, 다만 평균 득점과 득실 흐름을 보면 경기 전체를 주도하기에는 아직 부족함이 있어 보입니다. 결장자 면에서도 밀워키 브루어스가 일부 전력 공백이 있더라도 전체 전력의 바탕이 더 단단하고, 시애틀 매리너스는 장기 이탈자가 겹치며 공격 흐름이 더 쉽게 흔들릴 가능성이 높아 보입니다. 홈에서 더 안정적으로 점수를 쌓는 밀워키 브루어스가 흐름과 전력 모두에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.17","home":"LA 다저스","away":"밀워키 브루어스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MILA0-2026-08-17-los-angeles-dodgers/"},{"date":"26.08.16","home":"LA 다저스","away":"밀워키 브루어스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MILA0-2026-08-16-los-angeles-dodgers/"},{"date":"26.08.14","home":"LA 다저스","away":"밀워키 브루어스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814MILA0-2026-08-14-los-angeles-dodgers/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.08.17","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SEHO0-2026-08-17-houston-astros/"},{"date":"26.08.16","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SEHO0-2026-08-16-houston-astros/"},{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"},{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees/"}]'
+injuryHome: "Brice Turang (통증)|Sal Frelick (염좌)|Joel Kuhnel (건염)|Cooper Pratt (염좌)|Rob Zastryzny (염좌)"
+injuryAway: "Victor Robles (통증)|Taylor Ward (통증)|J.P. Crawford (염증)|Carlos Vargas (염좌)|Will Wilson (골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

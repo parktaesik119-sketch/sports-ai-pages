@@ -1,0 +1,37 @@
+---
+title: "세이부 라이온즈 vs 오릭스 버팔로스 경기분석·라인업·결장자·통계·승부예측 (8월 19일) | NPB - 픽천국"
+date: 2026-08-19T09:00:00.000Z
+description: "세이부 라이온즈 vs 오릭스 버팔로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260819OXSE0-2026-08-19-seibu-lions"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "세이부 라이온즈"
+awayTeam: "오릭스 버팔로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/OX.png"
+homeAnalysis: "세이부 라이온즈는 2026시즌 최근 83경기에서 47승 2무 34패, 평균 득점 3.7로 안정적인 승률을 유지하고 있습니다. 최근 흐름만 보면 득점 기복은 다소 있으나, 필요할 때는 단단한 마운드 운영으로 흐름을 다시 가져오는 장면이 자주 보입니다. 홈에서는 비교적 짜임새 있는 경기 운영이 돋보이고, 실점 억제력이 살아날 때는 짧은 점수 차 승부에서도 힘을 내고 있습니다. 다만 최근에는 공격이 한 경기씩 크게 터졌다가도 다음 경기에서 잠잠해지는 편이라, 초반 득점 여부가 경기 전체 전개에 중요하게 작용할 가능성이 있습니다. 중심 타선이 연결되면 충분히 경기를 주도할 수 있지만, 상대 선발을 오래 끌고 가는 힘은 조금 더 지켜볼 필요가 있습니다."
+awayAnalysis: "오릭스 버팔로스는 2026시즌 최근 84경기에서 39승 2무 43패, 평균 득점 3.6으로 전체 전력은 세이부 라이온즈보다 다소 아래에 있습니다. 최근 흐름에서는 타선이 한 번 살아날 때 큰 점수 차로도 밀어붙이는 장면이 보이지만, 연속 경기에서는 수비와 불펜의 흔들림이 함께 드러나는 편입니다. 원정에서는 경기 흐름이 빨라질수록 실점 부담이 커지는 모습이 있어, 초반 실점 관리가 매우 중요해 보입니다. 그럼에도 불구하고 득점이 필요한 순간에는 장타와 집중타가 함께 나오며 한 번에 분위기를 바꾸는 힘이 있습니다. 선발진이 버텨 주는 경기에서는 충분히 승부를 끝까지 끌고 갈 수 있는 전력으로 평가됩니다."
+homePower: "홈에서 실점 억제될 때 승부 운영이 매우 단단함|득점 기복 있어도 마운드로 버티는 구조가 뚜렷함|오릭스 상대 최근 맞대결에서 우세한 흐름 확인됨|한 점 승부에서도 불펜 집중력이 살아나는 편임|초반 선취점 확보 시 경기 주도권이 커지는 유형임"
+awayPower: "최근 원정 득점 폭발력은 분명히 살아 있음|다만 실점 변동폭이 커 안정성은 아쉬움|세이부 라이온즈 상대로 한 번씩 반등하는 상성 보임|장타와 집중타가 맞물리면 단숨에 흐름을 바꿈|선발이 초반을 막아야 승산이 커지는 구조임"
+h2h: '[{"date":"26.08.02","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"5-1","link":"https://pick79.com/posts/detail/analyze-181200-2026-08-02-seibu-lions/"},{"date":"26.08.01","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-181194-2026-08-01-seibu-lions/"},{"date":"26.07.31","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-181188-2026-07-31-seibu-lions/"},{"date":"26.07.05","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"3-1","link":"https://pick79.com/posts/detail/analyze-181078-2026-07-05-orix-buffaloes/"},{"date":"26.07.03","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"4-4","link":"https://pick79.com/posts/detail/analyze-181066-2026-07-03-orix-buffaloes/"}]'
+summary: "세이부 라이온즈는 시즌 전체 흐름에서 오릭스 버팔로스보다 조금 더 안정적인 승률을 보여 주고 있고, 특히 홈에서 경기를 정교하게 풀어가는 힘이 있습니다. 오릭스 버팔로스는 최근 득점 폭은 나쁘지 않지만, 실점이 함께 커지는 구간이 있어 경기 전체의 안정감에서는 아쉬움이 남습니다. 맞대결 흐름을 보면 세이부 라이온즈가 최근 두 경기에서 분명한 우위를 보였고, 오릭스 버팔로스가 반격한 경기들도 있었지만 전체적으로는 세이부 라이온즈 쪽이 더 단단한 인상을 주고 있습니다. 선발과 초반 실점 관리가 변수가 되겠지만, 전력 균형과 최근 맞대결 흐름까지 함께 보면 세이부 라이온즈가 조금 더 나은 경기 운영을 보여 줄 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.16","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816JLSE0-2026-08-16-seibu-lions/"},{"date":"26.08.15","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815JLSE0-2026-08-15-seibu-lions/"},{"date":"26.08.14","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814JLSE0-2026-08-14-seibu-lions/"},{"date":"26.08.13","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813SENH0-2026-08-13-nippon-ham-fighters/"},{"date":"26.08.12","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812SENH0-2026-08-12-nippon-ham-fighters/"}]'
+awayRecent: '[{"date":"26.08.16","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"7-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816NHOX0-2026-08-16-orix-buffaloes/"},{"date":"26.08.15","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815NHOX0-2026-08-15-orix-buffaloes/"},{"date":"26.08.14","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814NHOX0-2026-08-14-orix-buffaloes/"},{"date":"26.08.13","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813OXRT0-2026-08-13-rakuten-gold-eagles/"},{"date":"26.08.12","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812OXRT0-2026-08-12-rakuten-gold-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "오릭스 버팔로스"
+pickWinResult: "승"
+pickHandicapTeam: "오릭스 버팔로스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---
