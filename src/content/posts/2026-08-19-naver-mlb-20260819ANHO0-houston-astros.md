@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"LA 에인절스","away":"캔자스시�
 injuryHome: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Sam Bachman (염증)|Yusei Kikuchi (염증)|Sebastian Rivero (수술)|Shaun Anderson (염증)|Yoan Moncada (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 W. Urena (8-8, 2.67) ERA 2.67|https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

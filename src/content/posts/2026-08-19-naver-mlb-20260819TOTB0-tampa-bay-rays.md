@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.18","home":"탬파베이 레이스","away":"볼티�
 awayRecent: '[{"date":"26.08.17","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817NYTO0-2026-08-17-toronto-blue-jays/"},{"date":"26.08.16","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816NYTO0-2026-08-16-toronto-blue-jays/"},{"date":"26.08.15","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815NYTO0-2026-08-15-toronto-blue-jays/"},{"date":"26.08.14","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814BOTO0-2026-08-14-toronto-blue-jays/"},{"date":"26.08.13","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BOTO0-2026-08-13-toronto-blue-jays/"}]'
 injuryHome: "Manuel Rodriguez (수술)|Jonathan Heasley (골절)|Griffin Jax (통증)|Cole Sulser (경련)|Jake Fraley (수술)"
 injuryAway: "Lenyn Sosa (타박상)|Joe Mantiply (수술)|Vladimir Guerrero Jr. (뇌진탕)|Jonatan Clase (족저근막염)|Spencer Arrighetti (신경 압박)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. Martinez (12-3, 2.74) ERA 2.74|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
+awayLineup: "[\"선발투수 J. Soriano (9-6, 3.16) ERA 3.16|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

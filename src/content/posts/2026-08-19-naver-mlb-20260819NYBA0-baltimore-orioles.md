@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.18","home":"탬파베이 레이스","away":"볼티�
 awayRecent: '[{"date":"26.08.17","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817NYTO0-2026-08-17-toronto-blue-jays/"},{"date":"26.08.16","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816NYTO0-2026-08-16-toronto-blue-jays/"},{"date":"26.08.15","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815NYTO0-2026-08-15-toronto-blue-jays/"},{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"}]'
 injuryHome: "Samuel Basallo (염증)|Blaze Alexander (골절)|Ryan Helsley (염증)|Felix Bautista (수술)|Ryan Mountcastle (긴장)"
 injuryAway: "Carlos Rodon (염증)|Cody Bellinger (긴장)|Kervin Castro (염증)|Giancarlo Stanton (긴장)|Max Fried (타박상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Baz (4-12, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+awayLineup: "[\"선발투수 C. Rodon (4-2, 3.30) ERA 3.30|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

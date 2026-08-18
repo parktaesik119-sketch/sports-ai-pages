@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.17","home":"LA 에인절스","away":"캔자스시�
 awayRecent: '[{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레인저스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817TEOA0-2026-08-17-athletics/"},{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레인저스","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.08.13","home":"애슬레틱스","away":"탬파베이 레이스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TBOA0-2026-08-13-athletics/"},{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 레이스","score":"6-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"},{"date":"26.08.10","home":"보스턴 레드삭스","away":"애슬레틱스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810OABO0-2026-08-10-boston-red-sox/"}]'
 injuryHome: "Beck Way (경련)|James McArthur (수술)|Nick Mears (신경 압박)|Tony Gonsolin (수술)|Connor Seabold (염좌)"
 injuryAway: "Jacob Wilson (일일 관찰)|Jeffrey Springs (통증)|Tyler Soderstrom (신경 압박)|Jose Suarez (염좌)|Brooks Kriske (신경 압박)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Lynch IV (4-4, 2.88) ERA 2.88|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
+awayLineup: "[\"선발투수 J. Perkins (2-9, 7.27) ERA 7.27|https://a.espncdn.com/i/headshots/mlb/players/full/4418686.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

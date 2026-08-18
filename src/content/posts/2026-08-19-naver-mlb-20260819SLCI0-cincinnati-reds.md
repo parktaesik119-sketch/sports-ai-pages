@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.18","home":"신시내티 레즈","away":"세인트�
 awayRecent: '[{"date":"26.08.18","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SLCI2-2026-08-18-cincinnati-reds/"},{"date":"26.08.17","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs/"},{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"},{"date":"26.08.15","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SLCC0-2026-08-15-chicago-cubs/"},{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"}]'
 injuryHome: "Tony Santillan (긴장)|Brandon Williamson (통증)|Graham Ashcraft (염좌)|Spencer Steer (염좌)|Blake Dunn (수술)"
 injuryAway: "Ramon Urias (건염)|Max Rajcic (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Abbott (6-7, 4.13) ERA 4.13|https://a.espncdn.com/i/headshots/mlb/players/full/4414528.png\"]"
+awayLineup: "[\"선발투수 K. Leahy (9-4, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

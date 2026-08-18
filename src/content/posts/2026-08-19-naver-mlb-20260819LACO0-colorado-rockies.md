@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.17","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.08.17","home":"LA 다저스","away":"밀워키 브루어스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MILA0-2026-08-17-los-angeles-dodgers/"},{"date":"26.08.16","home":"LA 다저스","away":"밀워키 브루어스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MILA0-2026-08-16-los-angeles-dodgers/"},{"date":"26.08.14","home":"LA 다저스","away":"밀워키 브루어스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814MILA0-2026-08-14-los-angeles-dodgers/"},{"date":"26.08.13","home":"LA 다저스","away":"캔자스시티 로열스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813KCLA0-2026-08-13-los-angeles-dodgers/"},{"date":"26.08.12","home":"LA 다저스","away":"캔자스시티 로열스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812KCLA0-2026-08-12-los-angeles-dodgers/"}]'
 injuryHome: "Hunter Goodman (염증)|Jaden Hill (건염)|Kyle Karros (뇌진탕)|Tyler Freeman (결장)|McCade Brown (염증)"
 injuryAway: "Ben Casparius (염증)|Brock Stewart (건염)|Gavin Stone (염증)|Blake Treinen (염증)|Tyler Glasnow (경련)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Freeland (4-10, 6.27) ERA 6.27|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
+awayLineup: "[\"선발투수 R. Sasaki (5-5, 4.46) ERA 4.46|https://a.espncdn.com/i/headshots/mlb/players/full/5134638.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

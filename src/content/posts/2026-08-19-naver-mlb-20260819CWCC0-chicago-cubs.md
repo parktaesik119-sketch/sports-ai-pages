@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.17","home":"시카고 컵스","away":"세인트루�
 awayRecent: '[{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"},{"date":"26.08.14","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"8-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CICW0-2026-08-14-chicago-white-sox/"},{"date":"26.08.13","home":"시카고 화이트삭스","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CICW0-2026-08-13-chicago-white-sox/"}]'
 injuryHome: "Hoby Milner (수술)|Gavin Hollowell (염증)|Matt Shaw (염좌)|Riley Martin (근육 손상)|Hunter Harvey (골절)"
 injuryAway: "Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (근육 손상)|Ky Bush (수술)|Davis Martin (15일 부상자 명단)"
-homeLineup: ''
+homeLineup: "[\"선발투수 C. Holmes (5-5, 2.56) ERA 2.56|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

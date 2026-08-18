@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.17","home":"미네소타 트윈스","away":"필라�
 awayRecent: '[{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"},{"date":"26.08.16","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816AZAT0-2026-08-16-atlanta-braves/"},{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813NMAT0-2026-08-13-atlanta-braves/"},{"date":"26.08.12","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812NMAT0-2026-08-12-atlanta-braves/"}]'
 injuryHome: "Joe Ryan (긴장)|Austin Martin (긴장)|Mike Paredes (긴장)|Mick Abel (수술)|Cole Sands (수술)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Z. Matthews (6-8, 5.34) ERA 5.34|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\"]"
+awayLineup: "[\"선발투수 T. Mahle (4-9, 4.64) ERA 4.64|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

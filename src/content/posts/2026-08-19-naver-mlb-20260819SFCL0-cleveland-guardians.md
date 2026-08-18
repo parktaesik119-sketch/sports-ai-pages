@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.17","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.08.17","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817COSF0-2026-08-17-san-francisco-giants/"},{"date":"26.08.16","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816COSF0-2026-08-16-san-francisco-giants/"},{"date":"26.08.13","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813HOSF0-2026-08-13-san-francisco-giants/"},{"date":"26.08.11","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811HOSF0-2026-08-11-san-francisco-giants/"},{"date":"26.08.10","home":"샌프란시스코 자이언츠","away":"디트로이트 타이거즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810DESF0-2026-08-10-san-francisco-giants/"}]'
 injuryHome: "Chase DeLauter (통증)|Colin Holderman (염증)|Slade Cecconi (통증)|Shawn Armstrong (염좌)"
 injuryAway: "Willy Adames (경련)|Marcelo Mayer (골절)|Logan Webb (통증)|Jesus Rodriguez (신경 압박)|Joel Peguero (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 F. Griffin (13-4, 3.25) ERA 3.25|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
+awayLineup: "[\"선발투수 C. Whisenhunt (3-3, 6.11) ERA 6.11|https://a.espncdn.com/i/headshots/mlb/players/full/4626232.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
