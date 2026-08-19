@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.19","home":"클리블랜드 가디언스","away":"�
 injuryHome: "Colin Holderman (염증)|Chase DeLauter (통증)|Slade Cecconi (근육통)|Shawn Armstrong (근육 긴장)"
 injuryAway: "Willy Adames (경련)|Marcelo Mayer (골절)|Logan Webb (통증)|Jesus Rodriguez (신경 압박)|Joel Peguero (근육 긴장)"
 homeLineup: "[\"선발투수 P. Messick (9-7, 2.59) ERA 2.59|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
-awayLineup: "[\"선발투수 A. Houser (3-7, 4.28) ERA 4.28|https://a.espncdn.com/i/headshots/mlb/players/full/32157.png\"]"
+awayLineup: "[\"선발투수 M. Wilkinson|https://a.espncdn.com/i/headshots/mlb/players/full/5339226.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
