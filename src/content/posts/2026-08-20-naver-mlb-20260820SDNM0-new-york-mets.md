@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.18","home":"뉴욕 메츠","away":"샌디에이고 
 injuryHome: "Juan Soto (긴장), Cionel Perez (긴장), Mark Vientos (골절), Justin Hagenman (골절), Devin Williams (긴장)"
 injuryAway: "Joe Musgrove (염증), Samad Taylor (긴장), Lucas Giolito (염증), Nick Pivetta (긴장), Jason Adam (긴장)"
 homeLineup: "[\"선발투수 R. Stock (0-2, 6.57) ERA 6.57|https://a.espncdn.com/i/headshots/mlb/players/full/30577.png\"]"
-awayLineup: "[\"선발투수 M. King (8-8, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
+awayLineup: "[\"선발투수 M. King (8-8, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\",\"1번 F. Tatis Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/35983.png\",\"2번 J. Cronenworth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/36364.png\",\"3번 M. Machado (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31097.png\",\"4번 T. France (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35591.png\",\"5번 J. Merrill (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4872691.png\",\"6번 L. Rengifo (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/37237.png\",\"7번 L. Campusano (C)|https://a.espncdn.com/i/headshots/mlb/players/full/40521.png\",\"8번 X. Bogaerts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/31606.png\",\"9번 S. Song (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5329585.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
