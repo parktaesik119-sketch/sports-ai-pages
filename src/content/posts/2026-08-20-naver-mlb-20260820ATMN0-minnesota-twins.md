@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀�
 injuryHome: "Joe Ryan (염좌)|Austin Martin (염좌)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 homeLineup: "[\"선발투수 T. Bradley (9-5, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
-awayLineup: "[\"선발투수 A. Smith-Shawver (0-0, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/4917640.png\"]"
+awayLineup: "[\"선발투수 A. Smith-Shawver (0-0, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/4917640.png\",\"1번 R. Acuna Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/36185.png\",\"2번 D. Baldwin (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"5번 D. Smith (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33218.png\",\"6번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"7번 M. Yastrzemski (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"8번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"9번 J. Jarvis (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5205951.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
