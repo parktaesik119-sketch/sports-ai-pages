@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Hoby Milner (수술)|Gavin Hollowell (염증)|Matt Shaw (염좌)|Riley Martin (근육 손상)|Hunter Harvey (골절)"
 injuryAway: "Drew Thorpe (수술)|Prelander Berroa (수술)|Chris Murphy (근육 손상)|Ky Bush (수술)|Davis Martin (15일 부상자 명단)"
 homeLineup: "[\"선발투수 C. Holmes (5-5, 2.56) ERA 2.56|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Newcomb (1-3, 2.51) ERA 2.51|https://a.espncdn.com/i/headshots/mlb/players/full/33856.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
