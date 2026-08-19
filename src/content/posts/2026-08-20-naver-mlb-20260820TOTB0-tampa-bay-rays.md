@@ -1,0 +1,37 @@
+---
+title: "탬파베이 레이스 vs 토론토 블루제이즈 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLB - 픽천국"
+date: 2026-08-19T22:40:00.000Z
+description: "탬파베이 레이스 vs 토론토 블루제이즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260820TOTB0-2026-08-20-tampa-bay-rays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "탬파베이 레이스"
+awayTeam: "토론토 블루제이즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+homeAnalysis: "탬파베이 레이스는 2026시즌 최근 90경기 52승 4무 34패, 평균 득점 4.3으로 리그순위 1위에 올라 있으며, 득실 571대523으로 공격과 수비의 균형이 매우 안정적입니다. 최근 경기 흐름을 보면 최근 10경기에서 평균 득점이 5.0까지 올라와 타선의 응집력이 더 살아나고 있습니다. 홈에서는 시애틀 매리너스와 콜로라도 로키스, 캔자스시티 로열스를 상대로 큰 득점 차 승리가 여러 차례 나와, 타격이 풀리는 날에는 경기 주도권을 빠르게 가져오는 모습이 돋보입니다. 다만 볼티모어 오리올스와의 최근 시리즈에서는 실점이 늘며 흔들린 장면도 있었고, 장기 결장자가 적지 않아 중간계투 운용은 부담이 있습니다. 그럼에도 홈에서는 초반부터 점수를 쌓아 상대를 압박하는 흐름이 강하고, 최근 상대전적에서도 토론토 블루제이즈를 상대로 우세를 이어가고 있어 전체 전력은 여전히 탄탄하게 보입니다."
+awayAnalysis: "토론토 블루제이즈는 2026시즌 최근 93경기 45승 1무 47패, 평균 득점 3.6으로 리그순위 7위이며, 득실 502대554로 실점 부담이 더 크게 드러나고 있습니다. 최근 10경기에서는 평균 득점이 4.6까지 올라 반등 조짐이 보이지만, 경기마다 기복이 남아 있어 흐름을 길게 끌고 가는 힘은 다소 아쉬운 편입니다. 뉴욕 양키스와 보스턴 레드삭스, 휴스턴 애스트로스를 상대로는 승리를 만들며 공격이 살아나는 장면도 있었지만, 무득점 패배가 섞여 있어 타선 안정감은 완전히 고정되지 않았습니다. 부상자 명단에는 블라디미르 게레로 주니어를 비롯해 전력 공백이 눈에 띄는 편이라 중심 타선의 무게감이 떨어질 수 있습니다. 원정에서는 실점 관리가 흔들릴 때가 많아, 최근 상승 흐름이 있더라도 탬파베이 레이스의 홈 압박을 버티는 과정이 쉽지 않아 보입니다."
+homePower: "리그순위 1위답게 경기 주도권 확보 능력이 검증됨|홈에서 다득점 승리가 잦아 초반 흐름이 중요함|실점 억제력은 있으나 시리즈마다 편차가 보임|장기 결장자 존재로 불펜 깊이는 일부 약화됨|토론토 블루제이즈 상대로 상성 우위가 이어짐"
+awayPower: "리그순위 7위지만 최근 득점은 살아나는 흐름임|무득점과 대량 실점이 번갈아 나와 변동성 큼|중심 타선 공백으로 장타 기대치가 낮아짐|원정에서 실점 억제가 흔들려 추격전 부담 큼|상승세는 있으나 상위권 상대로 지속성 검증 필요"
+h2h: '[{"date":"26.08.19","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"5-10","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819TOTB0-2026-08-19-tampa-bay-rays/"},{"date":"26.07.24","home":"토론토 블루제이즈","away":"탬파베이 레이스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-179555-2026-07-24-toronto-blue-jays/"},{"date":"26.07.23","home":"토론토 블루제이즈","away":"탬파베이 레이스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-179540-2026-07-23-toronto-blue-jays/"},{"date":"26.07.22","home":"토론토 블루제이즈","away":"탬파베이 레이스","score":"2-12","link":"https://pick79.com/posts/detail/analyze-179526-2026-07-22-toronto-blue-jays/"},{"date":"26.07.21","home":"토론토 블루제이즈","away":"탬파베이 레이스","score":"1-7","link":"https://pick79.com/posts/detail/analyze-179510-2026-07-21-toronto-blue-jays/"}]'
+summary: "탬파베이 레이스는 리그순위 1위와 득실 +48이 보여주듯 시즌 전체 전력이 더 단단하고, 최근 경기에서도 평균 득점이 5.0까지 올라 공격 흐름이 좋은 편입니다. 토론토 블루제이즈는 최근 득점이 살아나는 장면이 있지만 리그순위 7위와 득실 -52가 말해주듯 실점 부담이 크고, 전력의 기복도 아직 남아 있습니다. 상대전적에서도 탬파베이 레이스가 8승 3패로 앞서 있으며, 최근 맞대결 흐름까지 더하면 홈팀이 경기 운영과 후반 대응에서 우위를 점할 가능성이 높아 보입니다. 결장자 변수는 있으나 전력 차이와 상성, 홈 이점을 함께 놓고 보면 탬파베이 레이스 쪽 기대감이 더 높습니다."
+homeRecent: '[{"date":"26.08.19","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819TOTB0-2026-08-19-tampa-bay-rays/"},{"date":"26.08.18","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818BATB0-2026-08-18-tampa-bay-rays/"},{"date":"26.08.17","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BATB0-2026-08-17-tampa-bay-rays/"},{"date":"26.08.16","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816BATB0-2026-08-16-tampa-bay-rays/"},{"date":"26.08.15","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BATB0-2026-08-15-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.08.19","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819TOTB0-2026-08-19-tampa-bay-rays/"},{"date":"26.08.17","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817NYTO0-2026-08-17-toronto-blue-jays/"},{"date":"26.08.16","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816NYTO0-2026-08-16-toronto-blue-jays/"},{"date":"26.08.15","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815NYTO0-2026-08-15-toronto-blue-jays/"},{"date":"26.08.14","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814BOTO0-2026-08-14-toronto-blue-jays/"}]'
+injuryHome: "Manuel Rodriguez (수술)|Jonathan Heasley (골절)|Cole Sulser (경련)|Griffin Jax (통증)|Jake Fraley (수술)"
+injuryAway: "Joe Mantiply (수술)|Vladimir Guerrero Jr. (뇌진탕)|Jonatan Clase (족저근막염)|Spencer Arrighetti (신경 압박)|Jameson Taillon (건염)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

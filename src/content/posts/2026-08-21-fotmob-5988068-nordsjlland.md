@@ -1,0 +1,37 @@
+---
+title: "FC 노르셸란 vs FC 장트 갈렌 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-20T17:00:00.000Z
+description: "FC 노르셸란 vs FC 장트 갈렌 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988068-2026-08-21-nordsjlland"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "FC 노르셸란"
+awayTeam: "FC 장트 갈렌"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10202.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10190.png"
+homeAnalysis: "FC 노르셸란은 2026시즌 최근 22경기에서 9승 8무 5패, 평균 득점 1.6을 기록하며 전체적으로 안정적인 전력을 보여주고 있습니다. 최근 흐름을 보면 실리케보르전 1대0 승리와 발루르전 5대0 승리처럼 득점과 실점 관리가 함께 살아난 모습이 돋보입니다. 특히 홈에서는 짧은 기간 동안 강한 압박과 빠른 전환으로 주도권을 잡는 경기가 많았고, 안데르스 한센을 축으로 한 수비 안정감도 기대됩니다. 피터 앙커센과 스티븐 아콰가 버티는 후방은 대체로 단단하고, 마크 브링크와 니클라스 뢰이키에르가 중원을 정리해 주면서 전개가 매끄럽게 이어지고 있습니다. 전방에서는 위룸 베르텔센, 프린스 주니어, 핼테 보에 라스무센이 움직임과 침투를 반복해 상대 수비를 흔드는 장면이 잘 나오는 편입니다."
+awayAnalysis: "FC 장트 갈렌은 2026시즌 최근 19경기에서 11승 3무 5패, 평균 득점 2.2로 공격 효율이 높은 전력을 유지하고 있습니다. 최근에는 FC 탈빌전 3대0 승리와 셰리프전 5대1 승리처럼 득점이 한 번 열리면 흐름을 크게 가져오는 모습이 이어지고 있습니다. 다만 벤피카전 0대5 패배처럼 강한 압박과 빠른 역습을 받는 경기에서는 수비 간격이 크게 흔들리는 약점도 확인됩니다. 원정에서는 로렌스 아티지기 골키퍼를 중심으로 버티는 힘이 중요하고, 루카스 괴르틀러와 루카스 다슈너가 중원에서 템포를 잡아 줄 때 전개가 가장 안정적입니다. 공격에서는 디에고 베시오와 안드린 훈지커가 마무리를 맡으며, 여러 부상 공백 속에서도 순간적인 화력은 여전히 강점으로 평가됩니다."
+homePower: "홈에서 압박 강도 높아 초반 주도권 확보가 쉬움|안데르스 한센 중심으로 실점 억제 흐름이 보임|피터 앙커센-스티븐 아콰 조합으로 후방 안정감 있음|마크 브링크와 뢰이키에르의 중원 연결이 매끄러움|베르텔센-주니어-라스무센의 침투 다양성 검증됨"
+awayPower: "평균 득점 2점대, 마무리 효율이 매우 높음|셰리프전 대승처럼 한 번 터지면 연쇄 득점 가능함|루카스 괴르틀러 중심으로 중원 장악력이 살아 있음|여러 결장에도 전방 전개 속도는 크게 유지됨|강한 압박 상대엔 수비 간격 흔들림이 변수로 보임"
+h2h: '[]'
+summary: "FC 노르셸란은 2026시즌 22경기에서 9승 8무 5패로 꾸준한 흐름을 이어가고 있고, FC 장트 갈렌은 19경기 11승 3무 5패로 더 높은 승률과 강한 공격성을 보여주고 있습니다. 다만 노르셸란은 홈에서 수비 조직과 전환 속도가 안정적이고, 최근에도 무실점 승리를 여러 차례 만들어 내며 경기 운영이 단단해진 모습입니다. 장트 갈렌은 득점력 자체는 인상적이지만 결장자가 많아질수록 수비 밸런스가 흔들릴 여지가 있어, 전체 전력의 안정감에서는 홈팀 쪽이 조금 더 믿음직스럽습니다. 전반적인 전력 균형과 최근 흐름을 함께 보면 노르셸란이 홈 이점을 바탕으로 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Araphat Mohammed (십자 인대 부상)|Souleymane Alio (부상)"
+injuryAway: "Nevio Scherrer (근육 부상)|Cyrill May (충돌 부상)|Colin Kleine-Bekel (다리 부상)|Malamine Efekele (근육 부상)|Stephan Ambrosius (충돌 부상)|Tom Gaal (충돌 부상)|Nino Weibel (무릎 부상)|Behar Neziri (십자 인대 부상)"
+homeLineup: '["Andreas Hansen (GK)|https://images.fotmob.com/image_resources/playerimages/350528.png","Peter Ankersen (DF)|https://images.fotmob.com/image_resources/playerimages/180465.png","Stephen Acquah (DF)|https://images.fotmob.com/image_resources/playerimages/1713875.png","Noah Markmann (DF)|https://images.fotmob.com/image_resources/playerimages/1579475.png","Victor Gustafsen (DF)|https://images.fotmob.com/image_resources/playerimages/1819456.png","Mark Brink (MF)|https://images.fotmob.com/image_resources/playerimages/683894.png","Nicklas Røjkjær (MF)|https://images.fotmob.com/image_resources/playerimages/803342.png","Juho Lähteenmäki (DF)|https://images.fotmob.com/image_resources/playerimages/1717547.png","Hjalte Boe Rasmussen (FW)|https://images.fotmob.com/image_resources/playerimages/1735791.png","Villum Berthelsen (FW)|https://images.fotmob.com/image_resources/playerimages/1713876.png","Prince Junior (FW)|https://images.fotmob.com/image_resources/playerimages/1785785.png"]'
+awayLineup: '["Lawrence Ati-Zigi (GK)|https://images.fotmob.com/image_resources/playerimages/615411.png","Colin Kleine-Bekel (DF)|https://images.fotmob.com/image_resources/playerimages/1282581.png","Jozo Stanic (DF)|https://images.fotmob.com/image_resources/playerimages/957753.png","Chima Okoroji (DF)|https://images.fotmob.com/image_resources/playerimages/664528.png","Hugo Vandermersch (FW)|https://images.fotmob.com/image_resources/playerimages/1074444.png","Lukas Görtler (MF)|https://images.fotmob.com/image_resources/playerimages/627039.png","Lukas Daschner (MF)|https://images.fotmob.com/image_resources/playerimages/836786.png","Leon Frokaj (MF)|https://images.fotmob.com/image_resources/playerimages/1596350.png","Enoch Owusu (MF)|https://images.fotmob.com/image_resources/playerimages/1661192.png","Diego Besio (FW)|https://images.fotmob.com/image_resources/playerimages/1833214.png","Andrin Hunziker (FW)|https://images.fotmob.com/image_resources/playerimages/1233720.png"]'
+homeFormation: "3-4-3"
+awayFormation: "3-5-2"
+homeCoach: "Jens Olsen|https://images.fotmob.com/image_resources/playerimages/762679.png"
+awayCoach: "Enrico Maaßen|https://images.fotmob.com/image_resources/playerimages/94713.png"
+pickWinTeam: "FC 노르셸란"
+pickWinResult: "승"
+pickHandicapTeam: "FC 노르셸란"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

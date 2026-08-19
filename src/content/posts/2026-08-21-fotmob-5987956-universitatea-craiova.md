@@ -1,0 +1,37 @@
+---
+title: "Univ 크라이오바 vs 아라라트 아르메니아 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 유로파리그 예선 - 픽천국"
+date: 2026-08-20T17:00:00.000Z
+description: "Univ 크라이오바 vs 아라라트 아르메니아 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5987956-2026-08-21-universitatea-craiova"
+category: "soccer"
+country: "국제"
+league: "유로파리그 예선"
+homeTeam: "Univ 크라이오바"
+awayTeam: "아라라트 아르메니아"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/480286.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/866109.png"
+homeAnalysis: "이번 유로파리그 예선에서 유니버시타테아 크라이오바는 19경기 9승 7무 3패, 평균 득점 1.8로 안정적인 공격 생산력을 바탕으로 상위권 전력을 유지하고 있습니다. 최근 흐름은 다소 들쭉날쭉하지만 홈에서는 득점 장면을 꾸준히 만들어내며 상대를 압박하는 장면이 자주 보입니다. 특히 페트롤룰 플로이에슈티전 4득점, 우타 아라드전 4득점처럼 화력이 한 번 살아날 때는 경기 주도권을 빠르게 잡는 편입니다. 다만 레프스키 소피아전 무득점, FC 아르제슈 피테슈티전 0득점처럼 마무리 효율이 떨어지는 구간도 있어 경기 흐름에 따라 기복이 드러나고 있습니다. 홈에서 상대를 몰아붙일 수 있는 전개는 분명 강점이며, 중원과 전방에서의 연결이 매끄러울 때는 전체 전력을 한 단계 끌어올리는 모습이 돋보입니다."
+awayAnalysis: "이번 유로파리그 예선에서 아라라트 아르메니아는 16경기 6승 2무 8패, 평균 득점 1.4로 공격력은 나쁘지 않지만 경기 결과의 안정감은 부족한 편입니다. 최근에는 원정과 강팀 상대로 실점 부담이 커지면서 흐름이 흔들리고 있지만, 홈에서는 2득점 이상을 만들어내는 장면도 적지 않아 반격 능력은 남아 있습니다. 셀제전과 리가 FC전처럼 수비가 먼저 무너지면 경기 전체가 급격히 불리해지는 모습이 자주 보입니다. 반대로 간자사르전 4득점, 보이보디나전과 같은 장면에서는 전방 전환이 살아나며 공격 템포를 끌어올리는 힘도 확인됩니다. 다만 원정에서는 압박을 오래 버티는 힘이 부족해 보이고, 수비 조직이 흔들릴 때는 실점 억제가 쉽지 않은 점이 주목됩니다."
+homePower: "유니버시타테아 크라이오바의 홈 압박 강도는 상대 빌드업을 흔드는 데 유효함|득점이 터질 때 폭발력이 커져 경기 주도권 회복이 빠름|상대보다 안정적인 시즌 누적으로 큰 경기 대응력 검증됨|마무리 기복은 있으나 홈에서는 찬스 창출 빈도가 높음|중원 장악이 되면 수비 부담까지 줄어드는 구조임"
+awayPower: "아라라트 아르메니아는 역습 전환이 빠른 편이라 틈이 보이면 위협적임|득점 자체는 유지되지만 수비 흔들림이 결과를 가름함|원정에서는 압박 대응력이 떨어져 실점 리스크가 커짐|한 번 주도권을 잡으면 연속 공격으로 흐름을 타는 편임|강한 상대를 만나면 수비 라인 유지가 가장 큰 변수임"
+h2h: '[]'
+summary: "이번 유로파리그 예선에서의 시즌 전력만 놓고 보면 유니버시타테아 크라이오바가 더 안정적인 축을 보여주고 있습니다. 평균 득점에서도 크라이오바가 앞서고 있어 전방에서 경기를 흔드는 힘이 좀 더 뚜렷하며, 아라라트 아르메니아는 공격 장면을 만들 수는 있어도 수비 쪽 변동성이 더 크게 느껴집니다. 홈에서의 주도권과 경기 운영 면에서는 크라이오바가 우위에 있고, 아라라트 아르메니아는 원정에서 실점 관리가 관건이라 크라이오바 쪽 기대감이 더 높습니다."
+homeRecent: '[{"date":"26.08.17","home":"Otelul Galati","away":"Univ 크라이오바","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5853470-2026-08-17-otelul-galati/"},{"date":"26.08.14","home":"Univ 크라이오바","away":"쿠오피온 팔로세우라","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5955023-2026-08-14-universitatea-craiova/"},{"date":"26.08.10","home":"Univ 크라이오바","away":"FC 아르제슈 피테슈티","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5853462-2026-08-10-universitatea-craiova/"},{"date":"26.08.07","home":"쿠오피온 팔로세우라","away":"Univ 크라이오바","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5955022-2026-08-07-kups/"},{"date":"26.08.02","home":"Univ 크라이오바","away":"페트롤룰 플로이에슈티","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1565206-2026-08-02-universitatea-craiova/"}]'
+awayRecent: '[{"date":"26.08.15","home":"아라라트 아르메니아","away":"Van","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5973007-2026-08-15-ararat-armenia/"},{"date":"26.08.12","home":"NK Celje","away":"아라라트 아르메니아","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5954876-2026-08-12-nk-celje/"},{"date":"26.08.08","home":"아라라트 아르메니아","away":"Urartu FC","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5972935-2026-08-08-ararat-armenia/"},{"date":"26.08.05","home":"아라라트 아르메니아","away":"NK 첼레","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1605370-2026-08-05-ararat-armenia/"},{"date":"26.08.02","home":"간자사르","away":"아라라트 아르메니아","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1581487-2026-08-02-gandzasar/"}]'
+injuryHome: "Pavlo Isenko (무릎 부상)|Alexandru Iamandache (무릎 부상)|Silviu Lung Jr. (불명 부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "Univ 크라이오바"
+pickWinResult: "승"
+pickHandicapTeam: "Univ 크라이오바"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

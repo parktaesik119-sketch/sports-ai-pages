@@ -1,0 +1,37 @@
+---
+title: "인터 투르쿠 vs FC 코펜하겐 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-20T16:00:00.000Z
+description: "인터 투르쿠 vs FC 코펜하겐 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988058-2026-08-21-fc-inter-turku"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "인터 투르쿠"
+awayTeam: "FC 코펜하겐"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6550.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8391.png"
+homeAnalysis: "인터 투르쿠는 2026시즌 최근 25경기에서 9승 11무 5패, 평균 득점 1.4를 기록하며 쉽게 무너지지 않는 전력을 보여주고 있습니다. 최근에는 AC 오울루전 3득점 승리와 바두츠전 연속 무실점 흐름이 눈에 띄었고, 중원에서 프로스퍼 아히아부와 이리오 예르비넨이 버텨 주면서 경기 균형을 잘 잡고 있습니다. 다만 홈에서는 라하티전 무득점, 바두츠전 2실점처럼 공격 전개가 막히는 구간도 있어 마무리 효율이 경기별로 흔들리는 편입니다. 그래도 비올라 그라운드와 원정 모두에서 실점을 크게 허용하지 않는 모습이 반복되어 수비 조직력은 안정적으로 평가됩니다. 라우리 라이네와 루카스 프로코프의 움직임이 살아나면 홈에서 더 적극적인 압박과 전환 속도를 기대할 수 있습니다."
+awayAnalysis: "FC 코펜하겐은 2026시즌 최근 17경기에서 7승 3무 7패, 평균 득점 2.4로 득점 생산력은 분명한 강점으로 보입니다. 최근에는 란데르스 원정 4득점 승리와 데브레첸전 연속 대승이 이어지며 전방 화력이 확실하게 올라온 상태입니다. 모하메드 엘류누시, 안드레아스 코르넬리우스, 로베르트가 이끄는 공격 전개는 한 번 리듬을 타면 빠르게 득점으로 연결되는 장점이 있습니다. 다만 7월 구간에서는 실점이 늘어나며 경기 운영이 다소 흔들린 적이 있어, 수비 집중력은 여전히 점검이 필요한 부분입니다. 게다가 도미니크 코타르스키와 로드리고 우에스카스, 마그누스 마트손 등 주요 자원이 빠져 있어 전력의 완성도는 다소 낮아져 보입니다."
+homePower: "인터 투르쿠, 홈에서 실점 관리가 우선 과제임이 분명함|아히아부-예르비넨 축으로 중원 안정감 유지됨|라이네와 프로코프의 활동량이 전환 속도 좌우함|무실점 경기가 잦아 수비 집중력은 검증됨|득점 기복 줄이면 상위 전력과도 대등함을 보임"
+awayPower: "코펜하겐, 공격 전개 속도와 마무리 완성도 우수함|엘류누시-코르넬리우스 조합의 위협이 뚜렷함|최근 원정 대승이 이어져 원정 득점 기대치 높음|주요 결장으로 수비-조율 균형 흔들릴 수 있음|강한 압박 시 실점 관리가 변수로 남아 있음"
+h2h: '[]'
+summary: "인터 투르쿠는 2026시즌 기준으로 꾸준한 승점 확보 능력과 탄탄한 수비 안정감을 함께 보여주고 있어, 홈에서 쉽게 밀릴 전력은 아니어 보입니다. FC 코펜하겐은 최근 득점 흐름이 더 강하고 전방 압박도 날카롭지만, 주요 결장자가 적지 않아 전력의 매끄러움에서는 손실이 느껴집니다. 전체 흐름을 놓고 보면 인터 투르쿠의 안정감과 코펜하겐의 폭발력이 맞서는 그림이지만, 현재 전력 균형과 최근 득점 생산성을 함께 보면 원정팀 쪽 우세가 조금 더 선명합니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Dominik Kotarski (다리 부상)|Rodrigo Huescas (무릎 부상)|Dominik Sarapata (어깨 부상)|Hunor Németh (부상)|Magnus Mattsson (무릎 부상)"
+homeLineup: '["Eetu Huuhtanen (GK)|https://images.fotmob.com/image_resources/playerimages/1152752.png","Albin Granlund (DF)|https://images.fotmob.com/image_resources/playerimages/201433.png","Vilho Huovila (FW)|https://images.fotmob.com/image_resources/playerimages/1388206.png","Ilari Kangasniemi (DF)|https://images.fotmob.com/image_resources/playerimages/1817295.png","Julius Tauriainen (DF)|https://images.fotmob.com/image_resources/playerimages/949706.png","Prosper Ahiabu (MF)|https://images.fotmob.com/image_resources/playerimages/1352646.png","Eeli Kiiskilae (MF)|https://images.fotmob.com/image_resources/playerimages/1945982.png","Iiro Järvinen (MF)|https://images.fotmob.com/image_resources/playerimages/497667.png","Loic Essomba (FW)|https://images.fotmob.com/image_resources/playerimages/1439361.png","Lukás Prokop (FW)|https://images.fotmob.com/image_resources/playerimages/1549118.png","Lauri Laine (FW)|https://images.fotmob.com/image_resources/playerimages/1362109.png"]'
+awayLineup: '["Dominik Kotarski (GK)|https://images.fotmob.com/image_resources/playerimages/873557.png","Junnosuke Suzuki (DF)|https://images.fotmob.com/image_resources/playerimages/1337765.png","Gabriel Pereira (DF)|https://images.fotmob.com/image_resources/playerimages/1288187.png","Felix Beijmo (DF)|https://images.fotmob.com/image_resources/playerimages/628816.png","Birger Meling (DF)|https://images.fotmob.com/image_resources/playerimages/566681.png","Alex Král (MF)|https://images.fotmob.com/image_resources/playerimages/836797.png","Thomas Delaney (MF)|https://images.fotmob.com/image_resources/playerimages/170218.png","Mohamed Elyounoussi (FW)|https://images.fotmob.com/image_resources/playerimages/261936.png","Mads Emil Madsen (MF)|https://images.fotmob.com/image_resources/playerimages/775246.png","Robert (FW)|https://images.fotmob.com/image_resources/playerimages/1494913.png","Andreas Cornelius (FW)|https://images.fotmob.com/image_resources/playerimages/313981.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Vesa Vasara|https://images.fotmob.com/image_resources/playerimages/7185.png"
+awayCoach: "Bo Svensson|https://images.fotmob.com/image_resources/playerimages/27415.png"
+pickWinTeam: "FC 코펜하겐"
+pickWinResult: "승"
+pickHandicapTeam: "FC 코펜하겐"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "밀워키 브루어스 vs 시애틀 매리너스 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLB - 픽천국"
+date: 2026-08-19T23:40:00.000Z
+description: "밀워키 브루어스 vs 시애틀 매리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260820SEMI0-2026-08-20-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "밀워키 브루어스는 2026시즌 최근 86경기에서 53승 1무 32패, 평균 득점 4.5로 리그순위 1위에 올라 있으며, 득실 136점 차가 말해주듯 공수 균형이 매우 단단합니다. 최근 9경기에서도 6승 3패, 평균 득점 4.3으로 흐름을 잘 유지하고 있고, 특히 강호 로스앤젤레스 다저스를 상대로 연승을 거두며 상위권 경쟁력을 다시 보여주고 있습니다. 홈에서는 팽팽한 접전에서도 끝까지 버티는 힘이 좋고, 필요할 때는 장타보다 응집력 있는 공격으로 점수를 쌓는 장면이 자주 보입니다. 다만 산디에이고 파드리스전처럼 상대 투수진이 단단할 때는 득점이 잠시 묶이는 모습도 있어, 초반 선취점의 중요성이 커 보입니다. 전체적으로는 안정된 선발 운영과 경기 후반 집중력이 강점으로 평가되며, 주축 타선이 살아날 때 경기 흐름을 빠르게 가져오는 팀입니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 최근 75경기에서 36승 1무 38패, 평균 득점 3.8로 리그순위 12위에 머물러 있으며, 득실 -23점이 보여주듯 공격 효율과 실점 관리에서 기복이 있습니다. 최근 10경기에서는 4승 6패, 평균 득점 2.9로 주춤한 흐름이 이어졌지만, 휴스턴 애스트로스를 상대로 연승을 거두며 반등 조짐도 확인되고 있습니다. 문제는 그 흐름이 길게 이어지지 못하고, 뉴욕 양키스전과 탬파베이 레이스전에서 다시 득점 침묵이 나타났다는 점입니다. 원정에서는 한 번 리드가 흔들리면 타선이 따라붙는 힘이 약해지는 편이라, 경기 운영이 길어질수록 부담이 커 보입니다. 다만 짧은 폭발력은 분명히 있어, 초반에 흐름을 잡으면 상위권 팀 상대로도 의외성을 만들 수 있는 전력입니다."
+homePower: "리그 1위답게 큰 흐름에서 흔들림이 적음|득실 +136, 경기 지배력이 수치로 검증됨|접전에서도 후반 집중력이 살아 있음|상위권 상대 연승으로 큰 경기 대응력 보임|장타보다 응집력 있는 득점 구조가 강점임"
+awayPower: "리그 12위지만 최근 반등 시도는 확인됨|득실 -23, 공수 밸런스가 아직 불안정함|원정에서 득점 기복이 커 흐름 유지가 어려움|강한 상대를 만나면 공격 완성도가 흔들림|짧은 연승은 가능하나 지속성은 검증 부족임"
+h2h: '[]'
+summary: "밀워키 브루어스는 2026시즌 리그순위 1위와 득실 +136이 보여주듯 전력의 완성도가 높고, 최근 흐름도 안정적으로 이어지고 있습니다. 시애틀 매리너스는 리그순위 12위로 처져 있지만 최근 휴스턴 원정에서 반등의 장면을 만들며 저항력을 보였고, 쉽게 물러서지는 않는 모습입니다. 다만 시즌 전체의 득점력과 실점 억제력, 그리고 최근 경기의 꾸준함까지 함께 보면 밀워키 브루어스가 더 우세한 흐름을 이어갈 가능성이 높습니다. 결국 경기의 핵심은 밀워키 브루어스가 초반부터 주도권을 잡고, 시애틀 매리너스의 들쑥날쑥한 공격 흐름을 얼마나 빨리 끊어내느냐에 달려 있습니다."
+homeRecent: '[{"date":"26.08.17","home":"LA 다저스","away":"밀워키 브루어스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MILA0-2026-08-17-los-angeles-dodgers/"},{"date":"26.08.16","home":"LA 다저스","away":"밀워키 브루어스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MILA0-2026-08-16-los-angeles-dodgers/"},{"date":"26.08.14","home":"LA 다저스","away":"밀워키 브루어스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814MILA0-2026-08-14-los-angeles-dodgers/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.08.17","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SEHO0-2026-08-17-houston-astros/"},{"date":"26.08.16","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SEHO0-2026-08-16-houston-astros/"},{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"},{"date":"26.08.12","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812SENY0-2026-08-12-new-york-yankees/"}]'
+injuryHome: "Joel Kuhnel (힘줄염)|Cooper Pratt (염좌)|Rob Zastryzny (염좌)|Sal Frelick (염좌)|Abner Uribe (염좌)"
+injuryAway: "J.P. Crawford (염증)|Carlos Vargas (염좌)|Taylor Ward (통증)|Will Wilson (골절)|Bryan Woo (경미)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

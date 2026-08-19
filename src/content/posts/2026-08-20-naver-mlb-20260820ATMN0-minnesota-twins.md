@@ -1,0 +1,37 @@
+---
+title: "미네소타 트윈스 vs 애틀랜타 브레이브스 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLB - 픽천국"
+date: 2026-08-19T17:40:00.000Z
+description: "미네소타 트윈스 vs 애틀랜타 브레이브스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "미네소타 트윈스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "미네소타 트윈스는 2026시즌 최근 88경기에서 41승 47패, 승률 .484, 평균 득점 4.1을 기록하며 중하위권 전력으로 버티고 있습니다. 최근 흐름만 보면 최근 9경기에서 4승 5패로 완전히 꺾이지는 않았고, 득점력도 평균 4.4점으로 시즌 평균보다 조금 살아난 모습입니다. 다만 실점 억제는 여전히 아쉬워서, 강한 타선과 맞붙을 때 경기 후반이 흔들리는 장면이 자주 보입니다. 홈에서는 공격 리듬이 비교적 자연스럽게 이어지고 있고, 최근 애틀랜타 브레이브스를 상대로도 4득점을 만들어내며 타격 감각을 보여주었습니다. 다만 핵심 전력 공백이 적지 않아 선발과 불펜의 안정감이 함께 받쳐줘야 하는 경기로 보입니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 88경기에서 48승 38패 2무, 승률 .592, 평균 득점 4.5로 여전히 상위권 전력을 유지하고 있습니다. 최근 10경기에서는 4승 6패로 흐름이 다소 꺾였지만, 평균 득점이 3.3점까지 내려가면서 공격 쪽의 날카로움이 예전만 못한 모습입니다. 그럼에도 리그순위 3위와 득실 +115는 기본 체급이 높다는 뜻이고, 한 번 흐름을 잡으면 경기 내용을 주도할 힘은 충분합니다. 다만 최근 원정 경기에서는 득점 생산이 들쑥날쑥했고, 강한 마운드 압박을 받으면 타선이 길게 침묵하는 장면도 보입니다. 불펜 핵심 전력의 이탈까지 겹쳐 접전에서는 마무리 구간의 안정감이 변수로 작용할 수 있습니다."
+homePower: "홈에서 득점 리듬이 살아나면 경기 주도권을 잡기 쉬움|애틀랜타 브레이브스 상대로 초반부터 타격 템포를 올릴 여지 큼|시즌 평균보다 최근 득점이 올라와 반등 신호가 보임|핵심 결장으로 마운드 뎁스는 얇아졌음|실점 관리만 버티면 홈 이점 활용 가능성이 큼"
+awayPower: "리그순위 3위의 체급이 쉽게 꺾이지는 않음|득실 +115로 공수 균형이 기본 이상임|최근 득점 저하로 타선 폭발력은 다소 둔화됨|불펜 핵심 결장으로 접전 마감이 불안정함|원정에서도 초반 주도권을 잡아야 강점이 살아남"
+h2h: '[{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"}]'
+summary: "미네소타 트윈스는 시즌 전체 흐름이 더 기복적이지만, 홈에서는 최근 타격 감각이 살아나면서 상대를 흔들 수 있는 장면을 만들고 있습니다. 애틀랜타 브레이브스는 리그순위와 득실에서는 앞서 있지만 최근 득점이 내려가 있으며, 핵심 전력 이탈까지 겹쳐 예전만큼 단단한 모습은 아닙니다. 최근 맞대결에서도 미네소타 트윈스가 먼저 우위를 잡았고, 이번 경기 역시 홈팀이 경기 흐름을 더 유연하게 가져갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"},{"date":"26.08.17","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817PHMN0-2026-08-17-minnesota-twins/"},{"date":"26.08.16","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816PHMN0-2026-08-16-minnesota-twins/"},{"date":"26.08.14","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PHMN0-2026-08-14-minnesota-twins/"},{"date":"26.08.13","home":"미네소타 트윈스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813BAMN0-2026-08-13-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"},{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"},{"date":"26.08.16","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816AZAT0-2026-08-16-atlanta-braves/"},{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애틀랜타 브레이브스","away":"뉴욕 메츠","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813NMAT0-2026-08-13-atlanta-braves/"}]'
+injuryHome: "Joe Ryan (염좌)|Austin Martin (염좌)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)"
+injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

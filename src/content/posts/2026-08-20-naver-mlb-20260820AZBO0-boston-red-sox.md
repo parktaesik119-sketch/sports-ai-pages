@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs 애리조나 다이아몬드백스 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLB - 픽천국"
+date: 2026-08-19T20:10:00.000Z
+description: "보스턴 레드삭스 vs 애리조나 다이아몬드백스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "애리조나 다이아몬드백스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 현재 리그순위 3위에 올라 있으며 67승 58패 승률 .536, 득실 +91로 시즌 전체 전력이 탄탄하게 유지되고 있습니다. 최근 경기에서는 기복이 조금 보이지만, 강팀을 상대로도 큰 점수 차 승리를 만들어내는 장면이 나와 공격 전개의 폭발력은 여전히 살아 있습니다. 평균 득점 4.5를 바탕으로 꾸준히 점수를 쌓는 흐름이 이어지고 있고, 홈에서는 경기 운영이 더 안정적으로 보입니다. 다만 최근 10경기 흐름은 3승 7패로 흔들린 편이라, 타선이 초반부터 연결되지 않으면 경기가 답답해질 수 있습니다. 그래도 최근 애리조나 다이아몬드백스를 상대로 11득점을 올린 경기처럼 상위 타선의 집중력이 살아날 때는 공격 완성도가 크게 올라가는 모습입니다. 부상 공백이 적지 않지만, 홈에서의 응집력과 득실 차가 주는 안정감은 여전히 강점으로 평가됩니다."
+awayAnalysis: "애리조나 다이아몬드백스는 2026시즌 현재 리그순위 7위에 올라 있으며 66승 60패 승률 .524, 득실 +8로 순위 대비 전력 격차가 크지 않은 팀입니다. 최근에는 10경기 6승 4패로 반등 흐름이 살아 있고, 평균 득점 4.8을 바탕으로 공격 쪽에서는 보스턴 레드삭스보다 조금 더 높은 생산성을 보여주고 있습니다. 다만 실점 억제력이 시즌 전체 기준으로는 보스턴 레드삭스보다 떨어져서, 점수를 내더라도 수비 쪽 불안이 함께 드러나는 장면이 많습니다. 최근 원정 연전에서도 승리를 만들어내긴 했지만, 상위권 팀을 상대로는 경기 후반 흐름이 흔들릴 수 있다는 점이 눈에 띕니다. 핵심 전력 누수도 적지 않아 중심축이 약해진 상태이고, 최근의 공격 감각을 수비가 뒷받침하지 못하면 경기 흐름을 끝까지 끌고 가기 어렵습니다. 전반적으로는 반등 조짐이 분명하지만, 시즌 전체 균형에서는 아직 고점 대비 조금 더 다져야 하는 모습입니다."
+homePower: "리그순위 3위답게 경기 운영 안정감이 높음|득실 +91로 실점 억제 기반이 확실함|최근 기복에도 홈에서는 공격 폭발력 유지됨|상위 타선 터지면 단숨에 경기 기울이는 힘 있음|주요 결장에도 전체 전력 뼈대는 유지되는 편임"
+awayPower: "리그순위 7위지만 득실 +8로 저력은 유지됨|최근 10경기 6승으로 반등 흐름이 확인됨|평균 득점 4.8로 타선 응답 속도는 괜찮음|다만 실점 억제력 약해 접전에서 흔들리기 쉬움|주요 결장 누적으로 중심축 안정감이 떨어짐"
+h2h: '[{"date":"26.08.18","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"11-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818AZBO0-2026-08-18-boston-red-sox/"}]'
+summary: "보스턴 레드삭스는 리그순위 3위와 득실 +91이 말해주듯 시즌 전체 전력의 안정감이 분명하고, 애리조나 다이아몬드백스는 리그순위 7위지만 최근 공격 흐름은 나쁘지 않아 맞붙을 때마다 변수는 살아 있습니다. 다만 보스턴 레드삭스가 최근 맞대결에서 큰 점수 차로 우위를 보여 준 만큼, 공수 균형과 경기 지배력에서는 홈팀 쪽이 한 걸음 앞서 있습니다. 애리조나 다이아몬드백스도 최근 반등 기미가 보이지만, 중심 전력 공백과 누적된 실점 부담까지 함께 생각하면 경기 전체를 안정적으로 끌고 가기는 쉽지 않아 보입니다. 종합하면 보스턴 레드삭스가 초반 흐름을 잡고 주도권을 이어갈 가능성이 더 높습니다."
+homeRecent: '[{"date":"26.08.18","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"11-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818AZBO0-2026-08-18-boston-red-sox/"},{"date":"26.08.17","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BOPI0-2026-08-17-pittsburgh-pirates/"},{"date":"26.08.16","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816BOPI0-2026-08-16-pittsburgh-pirates/"},{"date":"26.08.15","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815BOPI0-2026-08-15-pittsburgh-pirates/"},{"date":"26.08.14","home":"토론토 블루제이즈","away":"보스턴 레드삭스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814BOTO0-2026-08-14-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.08.18","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818AZBO0-2026-08-18-boston-red-sox/"},{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"},{"date":"26.08.16","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"3-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816AZAT0-2026-08-16-atlanta-braves/"},{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"}]'
+injuryHome: "Jahmai Jones (경미한 통증)|Isiah Kiner-Falefa (염증)|Trevor Story (수술)|Roman Anthony (염좌)|Garrett Whitlock (염증)"
+injuryAway: "Nolan Arenado (경미한 통증)|Ketel Marte (결장)|Ryan Thompson (근육 긴장)|Drey Jameson (염증)|Tommy Troy (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

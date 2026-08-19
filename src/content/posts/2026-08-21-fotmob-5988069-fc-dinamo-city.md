@@ -1,0 +1,37 @@
+---
+title: "FC 디나모 시티 vs 파포스 FC 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-20T19:00:00.000Z
+description: "FC 디나모 시티 vs 파포스 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988069-2026-08-21-fc-dinamo-city"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "FC 디나모 시티"
+awayTeam: "파포스 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10027.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/2137.png"
+homeAnalysis: "FC 디나모 시티는 2026시즌 최근 13경기에서 5승 2무 6패, 평균 득점 1.4를 기록하며 승부를 쉽게 내지 못하는 흐름 속에서도 득점 생산력은 일정하게 유지하고 있습니다. 최근에는 FK 아우다를 4-0으로 완파하며 공격의 폭발력을 보여줬고, FC 아스타나전 원정 승리처럼 강한 상대를 상대로도 한 방이 있는 전개가 돋보입니다. 다만 알루미니와 플라므르타리전처럼 실점이 늘어나는 구간에서는 수비 집중력이 흔들리는 모습도 함께 보입니다. 홈과 원정을 가리지 않고 경기마다 기복이 있는 편이지만, 전방에서는 에리돈 큐다쿠와 로렌초 빌라, 말로모 타오피크 아요데지의 움직임이 살아날 때 공격 전개가 매끄럽습니다. 일리르 다야 감독 체제에서는 중원과 측면의 연결이 살아날수록 공격 효율이 올라가는 유형으로 보이며, 이번 경기에서도 선제 득점 여부가 흐름을 크게 좌우할 가능성이 있습니다."
+awayAnalysis: "파포스 FC는 2026시즌 최근 16경기에서 3승 4무 9패, 평균 득점 1.1로 득점보다 수비 부담이 더 크게 드러나는 전력입니다. 잘츠부르크와의 두 경기에서 모두 1실점 패배를 겪었고, 하이두크전에선 실점이 크게 늘어나는 등 강한 압박을 받으면 후방 안정감이 흔들리는 모습이 보입니다. 반면 크라코비아 원정 승리나 아폴론 리마솔전 승리처럼 전환 속도가 맞아떨어질 때는 충분히 찬스를 살리는 힘도 확인되고 있습니다. 예상 선발로 보이는 다비드 루이스, 다비드 골다르, 니콜라스 이아누, 이반 슈니치 조합은 빌드업과 중원 차단에서 중심 역할을 맡을 가능성이 큽니다. 리카르도 사 핀투 감독의 전술 아래에서는 안정적인 수비 블록을 먼저 세운 뒤 빠르게 전진하는 방식이 중요해 보이며, 초반 실점 억제가 관건으로 판단됩니다."
+homePower: "최근 대승과 대패가 반복되는 전개로 경기 편차가 큼|에리돈 큐다쿠와 로렌초 빌라의 전방 연계가 핵심임|상대 압박이 약할 때 마무리 완성도 상승세로 보임|실점이 늘면 경기 주도권이 급격히 흔들리는 구조임|홈에서는 선제골 시 경기 운영이 한결 수월해짐"
+awayPower: "강한 상대를 만나면 후방 조직력 부담이 커지는 편임|다비드 루이스 중심 수비 라인의 경험치는 충분함|이반 슈니치와 블라드 드라고미르의 중원 장악이 관건임|역습 전환이 맞아떨어질 때 득점 기대치가 올라감|최근 원정 경기에서 실점 관리가 승부 변수로 작용함"
+h2h: '[]'
+summary: "FC 디나모 시티는 2026시즌 13경기 기준으로 승률과 득점 감각이 함께 살아 있는 편이라, 홈에서 공격적으로 풀어갈 힘이 충분해 보입니다. 파포스 FC는 16경기 성적상 기복이 더 크고, 특히 강한 상대를 만났을 때 실점 관리가 흔들리는 장면이 적지 않아 수비 안정감에서 부담이 느껴집니다. 전반적으로는 FC 디나모 시티가 흐름과 전방 활력에서 조금 더 앞서 있고, 파포스 FC는 중원 압박과 역습 전환이 맞아떨어져야 균형을 만들 수 있을 것으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Aldo Teqja (GK)|https://images.fotmob.com/image_resources/playerimages/484082.png","Ysni Ismaili (DF)|https://images.fotmob.com/image_resources/playerimages/1785255.png","Bruno Dita (DF)|https://images.fotmob.com/image_resources/playerimages/761724.png","Naser Aliji (DF)|https://images.fotmob.com/image_resources/playerimages/458806.png","Lorran (DF)|https://images.fotmob.com/image_resources/playerimages/575383.png","Klevi Qefalija (MF)|https://images.fotmob.com/image_resources/playerimages/1379437.png","Eridon Qardaku (FW)|https://images.fotmob.com/image_resources/playerimages/1150333.png","Lorenco Vila (FW)|https://images.fotmob.com/image_resources/playerimages/1067062.png","Hekuran Berisha (FW)|https://images.fotmob.com/image_resources/playerimages/1785238.png","Malomo Taofeeq Ayodeji (FW)|https://images.fotmob.com/image_resources/playerimages/1334005.png","Ruben Richards (FW)|https://images.fotmob.com/image_resources/playerimages/1525504.png"]'
+awayLineup: '["Radoslaw Majecki (GK)|https://images.fotmob.com/image_resources/playerimages/724909.png","Bruno Felipe (DF)|https://images.fotmob.com/image_resources/playerimages/658539.png","David Goldar (DF)|https://images.fotmob.com/image_resources/playerimages/528873.png","David Luiz (DF)|https://images.fotmob.com/image_resources/playerimages/52133.png","Nikolas Ioannou (DF)|https://images.fotmob.com/image_resources/playerimages/545026.png","Ivan Sunjic (MF)|https://images.fotmob.com/image_resources/playerimages/541551.png","Vlad Dragomir (MF)|https://images.fotmob.com/image_resources/playerimages/759567.png","Guga (MF)|https://images.fotmob.com/image_resources/playerimages/767713.png","Pêpê (MF)|https://images.fotmob.com/image_resources/playerimages/672721.png","Biel (FW)|https://images.fotmob.com/image_resources/playerimages/1249719.png","Lelê (FW)|https://images.fotmob.com/image_resources/playerimages/1338320.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-1-4-1"
+homeCoach: "Ilir Daja|https://images.fotmob.com/image_resources/playerimages/857987.png"
+awayCoach: "Ricardo Sá Pinto|https://images.fotmob.com/image_resources/playerimages/39581.png"
+pickWinTeam: "FC 디나모 시티"
+pickWinResult: "승"
+pickHandicapTeam: "FC 디나모 시티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

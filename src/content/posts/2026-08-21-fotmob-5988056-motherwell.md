@@ -1,0 +1,37 @@
+---
+title: "마더웰 vs 프라이부르크 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-20T18:30:00.000Z
+description: "마더웰 vs 프라이부르크 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988056-2026-08-21-motherwell"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "마더웰"
+awayTeam: "프라이부르크"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9927.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png"
+homeAnalysis: "마더웰은 2026시즌 최근 15경기에서 7승 4무 4패, 평균 득점 1.4를 기록하며 전반적으로는 승수를 안정적으로 쌓아온 흐름입니다. 다만 최근 일정에서는 스텐하우스뮤어전 패배와 히버니언 전패가 겹치며 흔들림이 있었고, 그 이전에는 HJK 헬싱키전 승리와 포트던전스퍼전 무실점 경기처럼 수비 집중력이 살아난 장면도 확인됩니다. 홈 경기에서는 HJK 헬싱키를 2대0으로 잡아내는 등 경기 운영이 깔끔한 편이었고, 홈에서 점유를 가져갔을 때 득점 기회를 비교적 효율적으로 살리는 모습이 돋보입니다. 반면 주축 자원인 조던 맥기, 스티븐 오도널, 캘럼 헨드리, 아포스톨로스 스타마텔로풀로스, 폴 맥긴의 결장은 수비와 전방 마무리 모두에 부담을 줄 수 있습니다. 그럼에도 알프레드 요한손 감독 체제에서 4-2-3-1을 기반으로 이브라힘 사이드와 타완다 마스완히세 같은 공격 자원을 활용할 수 있어, 홈에서는 버티는 힘과 역습 전개가 함께 기대됩니다."
+awayAnalysis: "프라이부르크는 2026시즌 최근 11경기에서 3승 2무 6패, 평균 득점 1.4를 기록하며 결과의 기복이 다소 큰 편입니다. 다만 최근에는 크리스털 팰리스전과 스트라스부르전 연속 무실점 승리를 통해 압박 강도와 마무리 효율이 살아난 흐름을 보여주고 있습니다. 홈 기준 경기에서는 점유를 바탕으로 찬스를 누적하는 장면이 눈에 띄고, 빈첸초 그리포와 잔니클라스 베스테가 측면과 세트피스에서 위협을 더해주고 있습니다. 미오 백하우스가 골문을 지키고 마티아스 긴터, 막스 로젠펠더가 중심을 잡는 수비 구조는 안정감이 있으며, 유이토 스즈키와 이고르 마타노비치의 연계도 공격 전개의 핵심입니다. 다만 플로렌트 뮈슬리야의 이탈은 전진 패스와 2선 창의성에 공백을 남길 수 있어, 원정에서는 초반 흐름 관리가 중요해 보입니다."
+homePower: "최근 승패 균형보다 경기력 기복 관리가 관건임|홈에서 무실점 운영 시 경기 주도력 뚜렷함|조던 맥기 결장으로 수비 전환 부담 커짐|이브라힘 사이드, 타완다 마스완히세 역습 속도 강점임|알프레드 요한손 체제의 4-2-3-1 조직력 검증됨"
+awayPower: "연속 무실점 승리로 수비 압박 완성도 상승함|빈첸초 그리포 중심의 좌측 전개 위협적임|마티아스 긴터 축의 후방 안정감이 강점임|플로렌트 뮈슬리야 결장으로 2선 창의성 일부 감소됨|원정에서도 점유형 운영이 가능하다는 점이 보임"
+h2h: '[]'
+summary: "마더웰은 2026시즌 15경기에서 7승 4무 4패로 승수를 꾸준히 쌓아왔고, 프라이부르크는 11경기에서 3승 2무 6패로 결과의 흔들림이 더 크게 나타나고 있습니다. 득점 흐름만 보면 두 팀 모두 평균 1.4로 비슷하지만, 마더웰은 홈에서 무실점 경기와 승리 경험이 이어져 경기 운영의 안정감이 조금 더 좋아 보입니다. 프라이부르크는 최근 두 경기에서 좋은 수비 집중력을 보여주고 있어 만만한 상대는 아니지만, 결장 공백과 원정 변수까지 고려하면 전체적인 우위는 마더웰 쪽에 조금 더 실려 있습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Jordan McGhee (햄스트링 부상)|Stephen O'Donnell (무릎 부상)|Callum Hendry (무릎 부상)|Apostolos Stamatelopoulos (종아리 부상)|Paul McGinn (무릎 부상)"
+injuryAway: "Florent Muslija (십자 인대 부상)"
+homeLineup: '["Matty Connelly (GK)|https://images.fotmob.com/image_resources/playerimages/1195899.png","Luca Ross (FW)|https://images.fotmob.com/image_resources/playerimages/1401996.png","Jamie Knight-Lebel (DF)|https://images.fotmob.com/image_resources/playerimages/1524014.png","Jake Girdwood-Reich (DF)|https://images.fotmob.com/image_resources/playerimages/1409555.png","Ewan Wilson (DF)|https://images.fotmob.com/image_resources/playerimages/1393393.png","Olly Whyte (MF)|https://images.fotmob.com/image_resources/playerimages/1591937.png","Joe Hodge (MF)|https://images.fotmob.com/image_resources/playerimages/1070794.png","Willy Vogt (FW)|https://images.fotmob.com/image_resources/playerimages/1411514.png","Mikey Booth (MF)|https://images.fotmob.com/image_resources/playerimages/1600667.png","Ibrahim Said (FW)|https://images.fotmob.com/image_resources/playerimages/1109045.png","Tawanda Maswanhise (FW)|https://images.fotmob.com/image_resources/playerimages/1187314.png"]'
+awayLineup: '["Mio Backhaus (GK)|https://images.fotmob.com/image_resources/playerimages/1352996.png","Philipp Treu (DF)|https://images.fotmob.com/image_resources/playerimages/1281090.png","Matthias Ginter (DF)|https://images.fotmob.com/image_resources/playerimages/303912.png","Max Rosenfelder (DF)|https://images.fotmob.com/image_resources/playerimages/1281107.png","Jordy Makengo (DF)|https://images.fotmob.com/image_resources/playerimages/1281108.png","Maximilian Eggestein (MF)|https://images.fotmob.com/image_resources/playerimages/602523.png","Yannik Engelhardt (MF)|https://images.fotmob.com/image_resources/playerimages/1269497.png","Jan-Niklas Beste (FW)|https://images.fotmob.com/image_resources/playerimages/864157.png","Yuito Suzuki (MF)|https://images.fotmob.com/image_resources/playerimages/1134467.png","Vincenzo Grifo (FW)|https://images.fotmob.com/image_resources/playerimages/400625.png","Igor Matanovic (FW)|https://images.fotmob.com/image_resources/playerimages/1210893.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Alfred Johansson|https://images.fotmob.com/image_resources/playerimages/1601611.png"
+awayCoach: ""
+pickWinTeam: "마더웰"
+pickWinResult: "승"
+pickHandicapTeam: "마더웰"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

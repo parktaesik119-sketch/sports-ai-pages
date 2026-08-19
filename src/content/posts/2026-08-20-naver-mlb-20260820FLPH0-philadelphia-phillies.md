@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 마이애미 말린스 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLB - 픽천국"
+date: 2026-08-19T22:05:00.000Z
+description: "필라델피아 필리스 vs 마이애미 말린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 최근 92경기에서 50승 2무 40패, 평균 득점 4.6을 기록하며 안정적인 상위권 전력을 이어가고 있습니다. 최근 10경기에서도 6승 4패로 흐름이 좋고, 평균 득점이 5.2까지 올라가 있어 타선의 응집력이 살아난 모습입니다. 직전 마이애미 말린스전 6대5 승리처럼 접전에서도 끝까지 점수를 내는 힘이 돋보이고, 미네소타 트윈스 원정에서는 연달아 큰 점수 차 승리를 거두며 공격 폭발력도 확인되었습니다. 다만 세인트루이스 카디널스전 연패처럼 상대 선발과 경기 흐름이 꼬일 때는 득점 생산이 급격히 흔들릴 수 있어, 초반 주도권 확보가 중요합니다. 홈에서는 꾸준히 점수를 쌓는 경향이 뚜렷하고, 라인업 중심 타선이 살아날 때 경기 운영이 한층 편안해지는 팀입니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 최근 92경기에서 45승 2무 45패, 평균 득점 4.2를 기록하며 승패 균형 속에서 반등을 노리고 있습니다. 최근 10경기에서는 6승 4패로 나쁘지 않은 흐름을 만들고 있고, 평균 득점 5.3까지 올라오면서 최근 타격감은 분명히 살아나 보입니다. 신시내티 레즈 원정과 피츠버그 파이리츠전에서 연속으로 좋은 공격 장면을 보여주며 득점 루트가 다양해진 점이 강점입니다. 다만 시즌 전체 흐름에서는 접전에서 마무리 효율이 흔들리는 장면이 있었고, 원정에서 경기 후반 실점이 늘어나면 흐름이 쉽게 넘어갈 수 있습니다. 현재 리그순위 9위지만 최근 반등 조짐은 분명하며, 상위권 팀을 상대로도 초반 집중력이 유지되면 충분히 맞붙을 수 있는 전력입니다."
+homePower: "최근 접전 마무리 능력으로 한 끗 우위 확보함|미네소타 원정 대량 득점, 타선 폭발성 확인됨|홈에서 점수 생산이 비교적 안정적인 편임|강한 상대를 만나도 공격 템포가 쉽게 죽지 않음|장기 연패보다 연승 구간이 전력 체감에 긍정적임"
+awayPower: "최근 타선 상승세가 순위 대비 선명하게 나타남|원정에서도 장타와 집중타가 함께 살아남|상위권 상대에도 초반 득점으로 버티는 힘 있음|실점이 커지는 경기와 접전의 편차가 큰 편임|공격 흐름은 좋지만 수비 마무리 불안이 변수임"
+h2h: '[{"date":"26.08.18","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818FLPH0-2026-08-18-philadelphia-phillies/"},{"date":"26.07.30","home":"마이애미 말린스","away":"필라델피아 필리스","score":"8-6","link":"https://pick79.com/posts/detail/analyze-179640-2026-07-30-miami-marlins/"},{"date":"26.07.29","home":"마이애미 말린스","away":"필라델피아 필리스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-179630-2026-07-29-miami-marlins/"},{"date":"26.07.28","home":"마이애미 말린스","away":"필라델피아 필리스","score":"8-7","link":"https://pick79.com/posts/detail/analyze-179610-2026-07-28-miami-marlins/"},{"date":"26.06.18","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-12","link":"https://pick79.com/posts/detail/analyze-179115-2026-06-18-philadelphia-phillies/"}]'
+summary: "필라델피아 필리스는 시즌 승률과 득실 흐름에서 마이애미 말린스보다 한 단계 앞서 있고, 홈에서의 안정감까지 더해져 전체적인 전력 우위가 분명합니다. 마이애미 말린스도 최근 타격감이 살아나면서 쉽게 밀리지 않는 흐름을 만들고 있지만, 시즌 전체 기준으로 보면 경기 운영의 완성도와 접전 대응에서는 필라델피아 필리스 쪽이 더 믿음직합니다. 상대전적도 필라델피아 필리스가 앞서 있으면서 최근 맞대결이 접전 양상으로 이어지고 있어, 이번 경기도 중후반까지 팽팽한 흐름이 예상됩니다. 다만 전체 전력의 바탕은 여전히 필라델피아 필리스 쪽이 더 두텁기 때문에, 경기 후반 승부에서는 홈팀이 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.18","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818FLPH0-2026-08-18-philadelphia-phillies/"},{"date":"26.08.17","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817PHMN0-2026-08-17-minnesota-twins/"},{"date":"26.08.16","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816PHMN0-2026-08-16-minnesota-twins/"},{"date":"26.08.14","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PHMN0-2026-08-14-minnesota-twins/"},{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.08.18","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818FLPH0-2026-08-18-philadelphia-phillies/"},{"date":"26.08.17","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817FLCI0-2026-08-17-cincinnati-reds/"},{"date":"26.08.16","home":"신시내티 레즈","away":"마이애미 말린스","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816FLCI0-2026-08-16-cincinnati-reds/"},{"date":"26.08.15","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815FLCI0-2026-08-15-cincinnati-reds/"},{"date":"26.08.14","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PIFL0-2026-08-14-miami-marlins/"}]'
+injuryHome: "Derek Hill (부상)|Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Johan Rojas (수술)"
+injuryAway: "Joe Mack (부상)|Anthony Bender (골절)|Kyle Stowers (염좌)|Max Meyer (염좌)|Ronny Henriquez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs 키움 히어로즈 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | KBO - 픽천국"
+date: 2026-08-20T10:00:00.000Z
+description: "롯데 자이언츠 vs 키움 히어로즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260820WOLT02026-2026-08-20-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "키움 히어로즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+homeAnalysis: "롯데 자이언츠는 2026시즌 최근 81경기에서 39승 2무 40패, 평균 득점 5.2를 기록하며 근소하게 승률을 끌어올린 상태이고, 최근 경기에서는 득점력이 한층 살아나며 흐름이 더 좋아지고 있습니다. 특히 최근 10경기 평균 득점이 6.9점까지 올라와 있어 타선의 폭발력이 분명하게 보입니다. 홈에서는 공격 템포를 빠르게 끌어올리는 장면이 자주 나오고, 레이예스와 한동희, 고승민으로 이어지는 중심 타선의 무게감이 강점으로 평가됩니다. 다만 실점이 크게 흔들리는 경기들도 함께 나오고 있어, 선발 로드리게스가 초반 이닝을 안정적으로 버텨주는지가 중요합니다. 로드리게스는 평균 5.2이닝을 소화하는 타입으로 경기 운영형에 가깝고, 홈 타선이 초반부터 받쳐주면 주도권을 잡기 좋은 구도입니다."
+awayAnalysis: "키움 히어로즈는 2026시즌 최근 86경기에서 32승 1무 53패, 평균 득점 4.1로 시즌 내내 득점 생산이 다소 무거운 편이며, 최근 흐름도 안정적이라 보기 어렵습니다. 최근 10경기 평균 득점은 4.7점이지만 실점 관리가 흔들리는 장면이 많아 경기 후반 버티는 힘이 약해 보입니다. 그래도 서건창과 데이비슨이 타선의 축을 잡아주고 있어, 상위 타순이 출루를 만들면 한 번쯤은 공격이 살아나는 모습이 있습니다. 알칸타라는 평균 6.0이닝을 책임지는 선발로 이닝 소화력과 WHIP 1.11이 돋보여, 원정팀 입장에서는 가장 신뢰할 수 있는 카드입니다. 다만 팀 전체로는 득점 지원이 들쭉날쭉해 선발이 잘 던져도 흐름을 끝까지 이어가기에는 부담이 있는 편입니다."
+homePower: "최근 홈 타선이 장타와 집중타를 함께 보여줌|레이예스 중심으로 중심 타선 무게감이 뚜렷함|초반 득점이 나면 경기 주도권을 오래 가져감|로드리게스는 긴 이닝보다 효율 운영에 강점 있음|실점 변동폭은 크지만 공격으로 상쇄하는 구조임"
+awayPower: "알칸타라는 이닝 먹는 힘이 분명한 선발 자원임|WHIP 1점대 초반으로 출루 억제력이 안정적임|직구와 포크 조합으로 타자 타이밍을 흔드는 편임|상위 타순이 살아야 팀 공격이 버티는 구조임|원정에서는 득점 흐름이 짧아지는 약점이 보임"
+h2h: '[{"date":"26.08.18","home":"롯데 자이언츠","away":"키움 히어로즈","score":"15-10","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818WOLT02026-2026-08-18-lotte-giants/"},{"date":"26.08.04","home":"롯데 자이언츠","away":"키움 히어로즈","score":"3-2","link":"https://pick79.com/posts/detail/analyze-181934-2026-08-04-lotte-giants/"},{"date":"26.06.21","home":"키움 히어로즈","away":"롯데 자이언츠","score":"3-6","link":"https://pick79.com/posts/detail/analyze-181772-2026-06-21-kiwoom-heroes/"},{"date":"26.06.20","home":"키움 히어로즈","away":"롯데 자이언츠","score":"1-7","link":"https://pick79.com/posts/detail/analyze-181769-2026-06-20-kiwoom-heroes/"},{"date":"26.06.19","home":"키움 히어로즈","away":"롯데 자이언츠","score":"1-2","link":"https://pick79.com/posts/detail/analyze-181763-2026-06-19-kiwoom-heroes/"}]'
+summary: "롯데 자이언츠는 2026시즌 전체 득점력과 최근 10경기 공격 흐름에서 키움 히어로즈보다 한 단계 앞서 있습니다. 키움 히어로즈는 알칸타라의 이닝 소화와 WHIP가 분명한 강점이지만, 팀 전체 득점력이 4점대 초반에 머물러 있어 경기 주도권을 장시간 가져가기에는 부담이 있습니다. 상대전적에서도 롯데 자이언츠가 최근 맞대결 흐름을 꾸준히 잡아왔고, 최근 경기 내용까지 함께 보면 홈팀이 공격과 상성 모두에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.18","home":"롯데 자이언츠","away":"키움 히어로즈","score":"15-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818WOLT02026-2026-08-18-lotte-giants/"},{"date":"26.08.15","home":"롯데 자이언츠","away":"NC 다이노스","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815NCLT02026-2026-08-15-lotte-giants/"},{"date":"26.08.14","home":"롯데 자이언츠","away":"NC 다이노스","score":"8-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814NCLT02026-2026-08-14-lotte-giants/"},{"date":"26.08.13","home":"SSG 랜더스","away":"롯데 자이언츠","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813LTSK02026-2026-08-13-ssg-landers/"},{"date":"26.08.12","home":"SSG 랜더스","away":"롯데 자이언츠","score":"9-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812LTSK02026-2026-08-12-ssg-landers/"}]'
+awayRecent: '[{"date":"26.08.18","home":"롯데 자이언츠","away":"키움 히어로즈","score":"15-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818WOLT02026-2026-08-18-lotte-giants/"},{"date":"26.08.16","home":"KT 위즈","away":"키움 히어로즈","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816WOKT02026-2026-08-16-kt-wiz-suwon/"},{"date":"26.08.15","home":"KT 위즈","away":"키움 히어로즈","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815WOKT02026-2026-08-15-kt-wiz-suwon/"},{"date":"26.08.14","home":"KT 위즈","away":"키움 히어로즈","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814WOKT02026-2026-08-14-kt-wiz-suwon/"},{"date":"26.08.13","home":"키움 히어로즈","away":"LG 트윈스","score":"6-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813LGWO02026-2026-08-13-kiwoom-heroes/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "롯데 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "롯데 자이언츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

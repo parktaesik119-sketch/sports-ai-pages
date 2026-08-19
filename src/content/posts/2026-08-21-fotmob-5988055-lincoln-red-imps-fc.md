@@ -1,0 +1,37 @@
+---
+title: "링컨 레드임프스 vs 란 FC 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-20T16:00:00.000Z
+description: "링컨 레드임프스 vs 란 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988055-2026-08-21-lincoln-red-imps-fc"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "링컨 레드임프스"
+awayTeam: "란 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/545012.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/2206.png"
+homeAnalysis: "링컨 레드임프스는 2026시즌 전체 DB 기준 최근 6경기 1승 3무 2패, 평균 득점 0.8로 공격 전개가 아주 매끄럽지는 않지만, 경기당 실점을 크게 허용하지 않으며 버티는 힘은 유지하고 있습니다. 최근 흐름만 보면 0.5득점 수준으로 더 답답한 장면이 많았고, 오모니아 니코시아와의 두 경기에서도 한 골 차 접전과 무득점 경기를 오가며 마무리 효율이 아쉬웠습니다. 다만 홈에서는 무리하게 라인을 올리기보다 조직적으로 경기를 관리하는 모습이 보이고, 실점 억제에 성공할 때는 충분히 승부를 길게 끌고 갈 수 있습니다. 인터 클럽 드 에스칼데스전 3득점처럼 한 번 리듬을 타면 전방 마무리가 살아날 수 있어, 초반 선제 대응이 중요합니다. 이번 경기에서도 홈 이점을 바탕으로 수비 밸런스를 먼저 세운 뒤, 제한된 기회에서 효율을 끌어올리는 흐름이 핵심이 될 것으로 보입니다."
+awayAnalysis: "란 FC는 2026시즌 전체 DB 기준 최근 10경기 3승 4무 3패, 평균 득점 0.6으로 결과는 크게 흔들리지 않지만 득점 생산이 적은 편입니다. 최근 흐름에서도 골이 잘 터지지 않아 무득점 경기가 이어졌고, 강한 상대를 만났을 때는 대량 실점으로 무너질 때도 있어 수비 부담이 적지 않습니다. 그래도 트레 피오리전처럼 필요한 순간에는 경기를 정리하는 힘이 있고, 한 골 차 승부로 끌고 가는 운영은 어느 정도 갖추고 있습니다. 원정에서는 공격보다 실점 관리에 더 비중이 실리는 모습이며, 경기가 길어질수록 한 번의 기회 활용이 중요해집니다. 링컨 레드임프스보다 시즌 평균 득점이 낮아 전개 효율에서는 더 신중한 접근이 요구되는 팀으로 보입니다."
+homePower: "최근 득점 침묵이 잦아도 수비 조직은 쉽게 무너지지 않음|홈에서는 경기 템포를 낮추며 실점 관리에 강점 보임|선제 실점만 피하면 후반 승부로 끌고 갈 힘이 있음|한 번 열린 경기에서는 다득점도 가능한 변동성 존재함|압박보다 위치 선정으로 버티는 운영이 돋보임"
+awayPower: "최근 평균 득점이 낮아도 경기 관리 능력은 유지됨|강한 상대에겐 버티는 시간 확보가 먼저인 팀임|원정에서도 무리한 난타전보다 실리 추구가 뚜렷함|한 골 차 승부에서 끝내는 집중력은 검증됨|득점보다 실점 억제가 승부의 핵심 변수로 보임"
+h2h: '[{"date":"24.08.30","home":"란 FC","away":"링컨 레드임프스","score":"3-1"},{"date":"24.08.23","home":"링컨 레드임프스","away":"란 FC","score":"2-1"}]'
+summary: "링컨 레드임프스는 시즌 전체 기준으로 수비 안정감은 유지하고 있지만, 최근 득점 흐름이 떨어지면서 공격 쪽 답답함이 조금 더 크게 보이고 있습니다. 란 FC도 평균 득점이 낮은 편이라 화력전보다는 신중한 경기 운영이 이어질 가능성이 높고, 실점 관리가 경기의 방향을 크게 좌우할 것으로 보입니다. 상대전적에서는 두 팀이 한 번씩 주고받았고, 최근 맞대결 스코어 흐름상 한쪽이 쉽게 밀리는 구도는 아니었습니다. 다만 현재 시즌 흐름만 놓고 보면 홈에서 버티는 힘이 있는 링컨 레드임프스가 조금 더 우세한 흐름을 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.14","home":"오모니아 니코시아","away":"링컨 레드임프스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5955021-2026-08-14-omonia-nicosia/"},{"date":"26.08.07","home":"링컨 레드임프스","away":"오모니아 니코시아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5955020-2026-08-07-lincoln-red-imps-fc/"},{"date":"26.07.29","home":"링컨 레드임프스","away":"엘라비 AIF","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1589424-2026-07-29-lincoln-red-imps-fc/"},{"date":"26.07.22","home":"엘라비 AIF","away":"링컨 레드임프스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1589418-2026-07-22-mjallby-aif/"},{"date":"26.07.15","home":"인터 클럽 드 에스칼데스","away":"링컨 레드임프스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1554380-2026-07-15-inter-club-descaldes/"}]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "링컨 레드임프스"
+pickWinResult: "승"
+pickHandicapTeam: "링컨 레드임프스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

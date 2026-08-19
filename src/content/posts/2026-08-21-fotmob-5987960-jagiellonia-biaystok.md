@@ -1,0 +1,37 @@
+---
+title: "야기엘로니아 비아위스토크 vs 사부르탈로 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 유로파리그 예선 - 픽천국"
+date: 2026-08-20T16:00:00.000Z
+description: "야기엘로니아 비아위스토크 vs 사부르탈로 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5987960-2026-08-21-jagiellonia-biaystok"
+category: "soccer"
+country: "국제"
+league: "유로파리그 예선"
+homeTeam: "야기엘로니아 비아위스토크"
+awayTeam: "사부르탈로"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1957.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/480291.png"
+homeAnalysis: "야기엘로니아 비아위스토크는 이번 유로파리그 예선에서 1승 1무 1패, 평균 득점 1.0을 기록하며 경기마다 흐름이 크게 흔들리지 않는 전력을 보여주고 있습니다. 최근에는 레인저스 원정에서 비기고, 리그 경기에서 패한 뒤 다시 레인저스를 상대로 승리를 챙기며 기복 속에서도 중요한 순간에 반등하는 모습이 돋보입니다. 득점이 아주 폭발적이진 않지만, 수비에서는 강한 상대를 상대로도 버티는 힘이 확인되고 있습니다. 홈에서는 레인저스를 상대로 2골을 넣으며 경쟁력을 보였고, 경기 운영이 안정적으로 맞아떨어질 때는 주도권을 잡는 장면이 자주 나옵니다. 특히 홈 안에서 수비 집중력과 역습 전환이 잘 살아나는 편이라 이번 경기에서도 조직적인 대응이 기대됩니다."
+awayAnalysis: "사부르탈로는 이번 유로파리그 예선에서 6승 7무 8패, 평균 득점 1.3으로 승부처마다 쉽게 무너지지 않으면서도 확실한 우세를 오래 이어가진 못한 전력입니다. 최근 흐름을 보면 토르페도 쿠타이시 원정에서 3득점을 올렸지만 4실점으로 흔들렸고, 직전에는 란 FC를 상대로도 경기 내용이 완전히 안정적이지는 않았습니다. 득점력은 나쁘지 않지만 수비 쪽에서 실점이 겹치는 순간이 있어, 강한 압박을 받으면 경기 흐름이 흔들릴 가능성이 있습니다. 다만 원정에서도 골을 만들어내는 힘은 꾸준히 확인되고 있어, 쉽게 물러서지 않는 공격 전개는 주목할 만합니다. 전체적으로는 공격 장면은 살아 있으나 수비 균형이 관건인 전력으로 보입니다."
+homePower: "홈에서 강팀 상대로도 버티는 응집력 있음|레인저스전에서 반등한 회복탄력성 보임|저득점 경향 속 실리형 운영이 안정적임|수비 집중력 살아날 때 실점 억제력 높음|경기 흐름 끌어올리면 주도권 확보 가능함"
+awayPower: "원정에서도 득점 생산이 끊기지 않음|공격 전개는 살아 있으나 마무리 기복 있음|실점이 늘면 경기 주도권이 급격히 흔들림|무리하지 않는 운영에서 성과가 나는 편임|경기 템포가 빠를수록 수비 약점 노출됨"
+h2h: '[]'
+summary: "야기엘로니아 비아위스토크는 이번 유로파리그 예선에서 더 안정적인 수비 조직과 홈 이점을 바탕으로 경기를 버티고 가져오는 힘이 돋보입니다. 사부르탈로는 득점 생산력 자체는 나쁘지 않지만, 실점 관리에서 흔들리는 구간이 있어 강한 압박을 받으면 전력 차이가 드러날 수 있습니다. 전반적인 흐름과 최근 경기 내용을 함께 보면, 야기엘로니아 비아위스토크가 더 단단한 전력으로 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.14","home":"레인저스","away":"야기엘로니아 비아위스토크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5955033-2026-08-14-rangers/"},{"date":"26.08.10","home":"야기엘로니아 비아위스토크","away":"비드제브 로즈","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5803933-2026-08-10-jagiellonia-biaystok/"},{"date":"26.08.07","home":"야기엘로니아 비아위스토크","away":"레인저스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5955032-2026-08-07-jagiellonia-biaystok/"},{"date":"26.08.01","home":"모토르 루블린","away":"야기엘로니아 비아위스토크","score":"1-2","result":"🟢승"},{"date":"26.07.25","home":"야기엘로니아 비아위스토크","away":"코로나 키엘체","score":"1-0","result":"🟢승"}]'
+awayRecent: '[{"date":"26.08.16","home":"토르페도 쿠타이시","away":"사부르탈로","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5165345-2026-08-16-torpedo-kutaisi/"},{"date":"26.08.12","home":"사부르탈로","away":"란 FC","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5955019-2026-08-12-iberia-1999/"},{"date":"26.08.05","home":"란 FC","away":"사부르탈로","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1607176-2026-08-05-larne/"},{"date":"26.07.30","home":"슬로반 브라티슬라바","away":"사부르탈로","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1589426-2026-07-30-slovan-bratislava/"},{"date":"26.07.22","home":"사부르탈로","away":"슬로반 브라티슬라바","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1589416-2026-07-22-saburtalo/"}]'
+injuryHome: "Wojciech Łaski (종아리뼈 골절)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "야기엘로니아 비아위스토크"
+pickWinResult: "승"
+pickHandicapTeam: "야기엘로니아 비아위스토크"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

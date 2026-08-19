@@ -1,0 +1,37 @@
+---
+title: "섐록 로버스 vs 쿠오피온 팔로세우라 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-20T19:00:00.000Z
+description: "섐록 로버스 vs 쿠오피온 팔로세우라 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988052-2026-08-21-shamrock-rovers"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "섐록 로버스"
+awayTeam: "쿠오피온 팔로세우라"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4131.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1693.png"
+homeAnalysis: "섐록 로버스는 2026시즌 최근 23경기에서 13승 2무 8패, 평균 득점 1.7을 기록하며 공격 효율이 분명한 전력을 보여주고 있습니다. 최근에는 세인트 패트릭스 애슬레틱과 에그나티아를 상대로 연달아 실점이 많았지만, 홈에서는 던독과 에그나티아를 잡아내며 다시 반등하는 모습을 보였습니다. 특히 윌리엄 피츠제럴드, 그레이엄 버크, 에런 그린이 전방에서 버티는 3-5-2 구성이면 마무리 구간에서의 압박과 세컨드볼 대응이 살아날 수 있습니다. 다만 로베르토 로페스와 다니엘 클리어리, 나이 라지 등 주요 결장자가 적지 않아 수비 안정감은 평소보다 떨어질 가능성이 있습니다. 그래도 홈 경기 운영에서는 비교적 강한 흐름을 유지해 왔고, 초반 주도권을 잡으면 상대를 몰아붙일 힘은 충분해 보입니다."
+awayAnalysis: "쿠오피온 팔로세우라는 2026시즌 최근 24경기에서 11승 9무 4패, 평균 득점 1.5로 안정적인 승점 관리와 균형 잡힌 전력을 보여주고 있습니다. 최근에는 FC 라티를 상대로 원정 승리를 거두며 흐름을 살렸고, 우니베르시타테아 크라이오바전 패배 뒤에도 다시 집중력을 끌어올리는 모습이 확인되었습니다. 사익우 투라이와 토미 예리의 중원, 페테리 페난넨의 전진 패스, 그리고 지메 모레노의 마무리가 이어지면 원정에서도 득점 기대치를 유지할 수 있습니다. 원정팀은 결장자가 없는 점이 큰 장점으로 보이며, 4-2-3-1 형태에서 수비와 중원의 간격을 잘 유지하면 경기 운영이 꽤 단단해질 수 있습니다. 다만 최근 일정이 빡빡했던 만큼 초반 압박에 흔들리지 않는지가 중요한 관전 포인트입니다."
+homePower: "홈 득점 전개가 끊기지 않는 구조가 강점임|주요 결장으로 수비 중심축 흔들림이 보임|3-5-2에서 전방 압박 효율이 살아나는 편임|버크·그린 조합이 박스 안 위협을 키움|홈에서는 초반 기세로 경기를 여는 패턴이 뚜렷함"
+awayPower: "결장자 없어 전력 구성의 연속성 높음|원정에서도 득점 생산이 꾸준히 이어짐|중원 삼각형이 경기 템포 조절에 강점임|페난넨의 전진 연결이 공격 시작점임|4-2-3-1로 안정과 역습 균형이 잘 맞음"
+h2h: '[]'
+summary: "섐록 로버스는 시즌 전체 성적과 홈 경기 운영을 보면 공격적인 흐름이 분명한 팀이며, 홈에서 상대를 몰아붙일 수 있는 장점이 살아 있습니다. 다만 주요 수비 자원들의 이탈이 겹쳐 있어, 전방 생산력은 유지하더라도 뒤쪽 안정감에서는 다소 흔들릴 여지가 있습니다. 쿠오피온 팔로세우라는 더 고른 승점 흐름과 결장자 없음이라는 장점을 바탕으로 경기 전반의 균형을 잘 맞추는 전력으로 보입니다. 이런 흐름을 함께 놓고 보면, 경기 전체의 안정감과 운영 완성도에서는 쿠오피온 팔로세우라가 조금 더 우세를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Roberto Lopes (부상)|Naj Razi (근육 부상)|John McGovern (충돌 부상)|Daniel Cleary (근육 부상)|Danny Grant (근육 부상)|Victor Ozhianvuna (근육 부상)"
+injuryAway: "없음"
+homeLineup: '["Edward McGinty (GK)|https://images.fotmob.com/image_resources/playerimages/829101.png","Tunmise Sobowale (DF)|https://images.fotmob.com/image_resources/playerimages/949667.png","Roberto Lopes (DF)|https://images.fotmob.com/image_resources/playerimages/230134.png","Enda Stevens (DF)|https://images.fotmob.com/image_resources/playerimages/141576.png","Jake Mulraney (MF)|https://images.fotmob.com/image_resources/playerimages/685725.png","Dylan Watts (MF)|https://images.fotmob.com/image_resources/playerimages/641044.png","Matthew Healy (MF)|https://images.fotmob.com/image_resources/playerimages/1206281.png","Jack Byrne (MF)|https://images.fotmob.com/image_resources/playerimages/661902.png","William Fitzgerald (FW)|https://images.fotmob.com/image_resources/playerimages/889125.png","Graham Burke (FW)|https://images.fotmob.com/image_resources/playerimages/301367.png","Aaron Greene (FW)|https://images.fotmob.com/image_resources/playerimages/197116.png"]'
+awayLineup: '["Johannes Kreidl (GK)|https://images.fotmob.com/image_resources/playerimages/643731.png","Akseli Puukko (DF)|https://images.fotmob.com/image_resources/playerimages/1414862.png","Brahima Magassa (DF)|https://images.fotmob.com/image_resources/playerimages/1792391.png","Kasim Adams (DF)|https://images.fotmob.com/image_resources/playerimages/586691.png","Taneli Hämäläinen (DF)|https://images.fotmob.com/image_resources/playerimages/1099926.png","Valentín Gasc (MF)|https://images.fotmob.com/image_resources/playerimages/1260156.png","Saikou Touray (MF)|https://images.fotmob.com/image_resources/playerimages/1068855.png","Tommi Jyry (MF)|https://images.fotmob.com/image_resources/playerimages/835927.png","Petteri Pennanen (MF)|https://images.fotmob.com/image_resources/playerimages/104229.png","Bob Nii Armah (FW)|https://images.fotmob.com/image_resources/playerimages/1560019.png","Jaime Moreno (FW)|https://images.fotmob.com/image_resources/playerimages/495524.png"]'
+homeFormation: "3-5-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Stephen Bradley|https://images.fotmob.com/image_resources/playerimages/16191.png"
+awayCoach: "Miika Nuutinen|https://images.fotmob.com/image_resources/playerimages/1657792.png"
+pickWinTeam: "쿠오피온 팔로세우라"
+pickWinResult: "승"
+pickHandicapTeam: "쿠오피온 팔로세우라"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

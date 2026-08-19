@@ -1,0 +1,37 @@
+---
+title: "미트윌란 vs HNK 리예카 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-20T17:00:00.000Z
+description: "미트윌란 vs HNK 리예카 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988066-2026-08-21-fc-midtjylland"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "미트윌란"
+awayTeam: "HNK 리예카"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8113.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10162.png"
+homeAnalysis: "미트윌란은 2026시즌 최근 18경기에서 9승 6무 3패, 평균 득점 1.9를 기록하며 전체적으로 안정적인 전력을 보여주고 있습니다. 최근에도 리옹비와의 경기에서 비긴 뒤 보헤미안스와 오덴세, 카디프를 상대로 득점력을 이어가며 공격 흐름이 살아 있는 모습입니다. 홈에서는 비셰쉬크와의 경기처럼 실점이 늘어나는 장면도 있었지만, 대체로 주도권을 잡고 다득점 경기로 끌고 가는 힘이 돋보입니다. 특히 프란쿠리노와 다리오 오소리오, 필립 빌링이 버티는 전방과 중원 조합은 상대 수비를 흔드는 데 강점이 있습니다. 다만 오우스만 디아오, 미켈 고고르자, 주니오르 브루마도 등 주요 결장자가 있어 수비와 측면 운영의 완성도는 다소 변수로 보입니다."
+awayAnalysis: "HNK 리예카는 2026시즌 최근 16경기에서 6승 4무 6패, 평균 득점 0.9로 득점 생산이 다소 아쉬운 흐름입니다. 최근 바라즈딘 원정에서 득점 없이 패했고, 일프스와의 경기에서도 한 골 차 흐름에 묶이며 공격 전개가 매끄럽지 못한 장면이 이어지고 있습니다. 그래도 데리 시티, 라돔레, 브리네 구로플레 같은 상대를 상대로는 실리를 챙기며 원정에서 버티는 힘을 보여주고 있습니다. 원정에서는 티아고 단타스와 아메르 고약, 다니엘 아두아지에이 중심으로 전개를 풀어가지만, 마무리 단계에서 결정력이 더 필요해 보입니다. 수비 쪽은 비교적 결장 공백이 없어서 조직력 유지에는 도움이 되지만, 낮은 평균 득점이 결국 경기 주도권 확보를 어렵게 만들고 있습니다."
+homePower: "미트윌란 전방 압박 강도와 전환 속도 우위가 뚜렷함|프란쿠리노-오소리오 조합의 마무리 완성도 기대됨|평균 1.9득점은 홈 주도권 운영의 자신감으로 해석됨|주요 결장자 다수로 측면 수비 응집력은 변동성 있음|빌링 중심 중원 장악 시 경기 템포 주도 가능성 높음"
+awayPower: "리예카 평균 0.9득점은 공격 효율 과제가 분명함|티아고 단타스 중심 전개는 있으나 마무리 약점이 보임|원정에서 실리 우선 운영으로 버티는 패턴이 확인됨|결장자 없어 조직 완성도 유지 가능성은 높음|낮은 득점력 탓에 선제 실점 시 반전 동력 부족함"
+h2h: '[]'
+summary: "미트윌란은 2026시즌 전체 흐름에서 득점 생산이 안정적이고 경기 주도권을 잡는 힘이 분명한 편입니다. HNK 리예카는 시즌 평균 득점이 낮아 공격 전개가 매끄럽지 않은 장면이 자주 보이며, 원정에서는 특히 마무리 효율이 더 중요해 보입니다. 전력의 무게감과 최근 득점 흐름을 함께 보면 미트윌란이 한 수 위의 흐름을 가져갈 가능성이 높습니다. 다만 미트윌란은 주요 결장자가 있어 수비 쪽 균형이 완벽하지 않을 수 있어, 초반 흐름을 얼마나 빠르게 잡느냐가 중요해 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Edward Chilufya (병)|Ousmane Diao (부상)|Mikel Gogorza (엉덩이 부상)|Victor Bak (부상)|Júnior Brumado (무릎 부상)"
+injuryAway: "없음"
+homeLineup: '["Elías Ólafsson (GK)|https://images.fotmob.com/image_resources/playerimages/841966.png","Magnus Jensen (DF)|https://images.fotmob.com/image_resources/playerimages/768860.png","Martin Erlic (DF)|https://images.fotmob.com/image_resources/playerimages/616170.png","Mads Bech (DF)|https://images.fotmob.com/image_resources/playerimages/659018.png","Rasmus Kristensen (DF)|https://images.fotmob.com/image_resources/playerimages/722207.png","Philip Billing (MF)|https://images.fotmob.com/image_resources/playerimages/532743.png","Pedro Bravo (MF)|https://images.fotmob.com/image_resources/playerimages/1272272.png","Beni Junior (DF)|https://images.fotmob.com/image_resources/playerimages/1601931.png","Darío Osorio (MF)|https://images.fotmob.com/image_resources/playerimages/1329007.png","Valdemar Byskov (MF)|https://images.fotmob.com/image_resources/playerimages/1332217.png","Franculino (FW)|https://images.fotmob.com/image_resources/playerimages/1374500.png"]'
+awayLineup: '["Aleksa Todorovic (GK)|https://images.fotmob.com/image_resources/playerimages/1531103.png","Moreno Zivkovic (DF)|https://images.fotmob.com/image_resources/playerimages/1505885.png","Ante Majstorovic (DF)|https://images.fotmob.com/image_resources/playerimages/464334.png","Alfonso Barco (MF)|https://images.fotmob.com/image_resources/playerimages/1276864.png","Mladen Devetak (DF)|https://images.fotmob.com/image_resources/playerimages/1093756.png","Branko Pavic (MF)|https://images.fotmob.com/image_resources/playerimages/1645684.png","Tiago Dantas (MF)|https://images.fotmob.com/image_resources/playerimages/955554.png","Gabriel Rukavina (FW)|https://images.fotmob.com/image_resources/playerimages/1386766.png","Niko Jankovic (FW)|https://images.fotmob.com/image_resources/playerimages/1270116.png","Amer Gojak (FW)|https://images.fotmob.com/image_resources/playerimages/527683.png","Daniel Adu-Adjei (FW)|https://images.fotmob.com/image_resources/playerimages/1427857.png"]'
+homeFormation: "3-4-2-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Mike Tullberg|https://images.fotmob.com/image_resources/playerimages/34699.png"
+awayCoach: "Matjaz Kek|https://images.fotmob.com/image_resources/playerimages/98898.png"
+pickWinTeam: "미트윌란"
+pickWinResult: "승"
+pickHandicapTeam: "미트윌란"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "2"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

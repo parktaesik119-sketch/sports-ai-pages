@@ -1,0 +1,37 @@
+---
+title: "요코하마 DeNA 베이스타스 vs 요미우리 자이언츠 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | NPB - 픽천국"
+date: 2026-08-20T08:45:00.000Z
+description: "요코하마 DeNA 베이스타스 vs 요미우리 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260820YOYK0-2026-08-20-yokohama-baystars"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "요코하마 DeNA 베이스타스"
+awayTeam: "요미우리 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/YK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/YO.png"
+homeAnalysis: "요코하마 DeNA 베이스타스는 2026시즌 84경기에서 36승 2무 46패, 평균 득점 3.9로 시즌 전체 전력은 기복이 있지만 공격 흐름은 충분히 살아 있습니다. 최근 10경기에서도 6승 4패로 승패가 크게 엇갈렸지만, 직전 경기에서 요미우리 자이언츠를 4-3으로 잡아내며 접전 운영 능력을 다시 보여주었습니다. 홈에서는 한 번 흐름을 타면 3득점 안팎을 안정적으로 만들어내는 장면이 자주 나오고, 4득점 이상으로 상대를 흔드는 경기들도 적지 않습니다. 다만 실점 억제가 흔들리는 구간이 있어, 큰 점수 차로 밀어붙이기보다는 타선이 먼저 분위기를 여는 흐름이 더 자연스럽습니다. 특히 홈에서의 강한 응집력과 최근 요미우리 자이언츠 상대로 접전을 자주 만들고 있다는 점이 주목할 만합니다."
+awayAnalysis: "요미우리 자이언츠는 2026시즌 84경기에서 43승 2무 39패, 평균 득점 3.4로 시즌 전체 전력은 홈팀보다 조금 더 안정적으로 보입니다. 최근 10경기에서는 4승 6패로 흔들린 구간이 있었지만, 선발과 불펜이 맞아떨어질 때는 11득점 경기처럼 공격 폭발력도 분명히 확인되고 있습니다. 원정에서도 낮은 실점 경기와 대량 득점 경기를 모두 만들어내며, 경기 내용의 폭은 넓은 편입니다. 다만 최근에는 상위 전력 팀을 상대로 타선의 기복이 드러나는 장면이 있었고, 접전에서는 한 점 차 승부를 끝까지 가져가는 힘이 관건입니다. 요코하마 DeNA 베이스타스 상대로는 실점 관리가 승부의 핵심으로 보이며, 투수전 성격이 강해질수록 전력이 더 잘 드러날 가능성이 있습니다."
+homePower: "홈에서 접전 마무리 감각이 살아 있음|득점이 몰리는 구간과 잠잠한 구간의 차이 큼|상대전에서 한 방보다 연속 생산이 중요함|실점 억제만 되면 짧은 점수 차 승부에 강함|최근 자이언츠 상대 자신감이 심리적 강점임"
+awayPower: "시즌 승률이 앞서며 전력 안정감이 높음|대량 득점과 저득점 승부를 모두 소화함|원정에서도 선발이 버티면 경기 주도 가능함|최근 흔들림은 타선보다 마운드 쪽 변동성임|요코하마 상대로는 실점 관리가 승부 열쇠임"
+h2h: '[{"date":"26.08.18","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818YOYK0-2026-08-18-yokohama-baystars/"},{"date":"26.08.02","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-181202-2026-08-02-yomiuri-giants/"},{"date":"26.08.01","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"7-8","link":"https://pick79.com/posts/detail/analyze-181191-2026-08-01-yomiuri-giants/"},{"date":"26.07.31","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"6-0","link":"https://pick79.com/posts/detail/analyze-181190-2026-07-31-yomiuri-giants/"},{"date":"26.07.12","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"3-4","link":"https://pick79.com/posts/detail/analyze-181116-2026-07-12-yokohama-baystars/"}]'
+summary: "요미우리 자이언츠는 시즌 전체 성적에서 요코하마 DeNA 베이스타스를 앞서고 있어 전체 전력의 안정감이 조금 더 높아 보입니다. 다만 두 팀의 맞대결은 한 점 차 접전이 자주 나오고 있어, 단순한 순위 차이보다 경기 운영과 실점 억제가 더 중요하게 작용하는 흐름입니다. 요코하마 DeNA 베이스타스는 최근 홈과 맞대결에서 끈질긴 대응을 보여주고 있고, 요미우리 자이언츠는 시즌 전력 우위를 바탕으로도 흔들릴 때가 있어 팽팽한 흐름이 예상됩니다. 그래도 종합적으로는 시즌 전력의 안정감과 맞대결에서 드러난 응집력을 감안할 때 요미우리 자이언츠 쪽이 조금 더 우세하게 경기를 가져갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.18","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818YOYK0-2026-08-18-yokohama-baystars/"},{"date":"26.08.16","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816YKYA0-2026-08-16-yakult-swallows/"},{"date":"26.08.15","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815YKYA0-2026-08-15-yakult-swallows/"},{"date":"26.08.14","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814YKYA0-2026-08-14-yakult-swallows/"},{"date":"26.08.13","home":"주니치 드래곤스","away":"요코하마 DeNA 베이스타스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813YKJN0-2026-08-13-chunichi-dragons/"}]'
+awayRecent: '[{"date":"26.08.18","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818YOYK0-2026-08-18-yokohama-baystars/"},{"date":"26.08.16","home":"주니치 드래곤스","away":"요미우리 자이언츠","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816YOJN0-2026-08-16-chunichi-dragons/"},{"date":"26.08.15","home":"주니치 드래곤스","away":"요미우리 자이언츠","score":"11-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815YOJN0-2026-08-15-chunichi-dragons/"},{"date":"26.08.14","home":"주니치 드래곤스","away":"요미우리 자이언츠","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814YOJN0-2026-08-14-chunichi-dragons/"},{"date":"26.08.13","home":"요미우리 자이언츠","away":"한신 타이거스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813HSYO0-2026-08-13-yomiuri-giants/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "요미우리 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "요미우리 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "6.5"
+pickOuDirection: "오버"
+---

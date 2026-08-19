@@ -1,0 +1,37 @@
+---
+title: "텍사스 레인저스 vs 워싱턴 내셔널스 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLB - 픽천국"
+date: 2026-08-20T00:05:00.000Z
+description: "텍사스 레인저스 vs 워싱턴 내셔널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "텍사스 레인저스"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "텍사스 레인저스는 2026시즌 36승 45패, 승률 .444로 시즌 전체 흐름이 다소 뒤처져 있으며 평균 득점 3.8점에 그치고 있어 공격 생산성이 아쉬운 편입니다. 최근에는 10경기에서 3승 7패로 더 주춤한 모습이었고, 특히 연속 실점이 길어지며 경기 운영이 흔들리는 장면이 자주 보입니다. 홈에서는 비교적 버틸 힘이 있지만, 원정에서의 연패 여파가 돌아온 직후라 타선의 응집력이 다시 살아나는지가 중요합니다. 득점력은 폭발형이라기보다 산발적으로 이어지는 편이고, 실점 관리가 흔들릴 때는 경기 전체가 급격히 불리해지는 흐름입니다. 핵심 전력으로는 중심 타선의 한 방과 홈에서의 버티는 힘이 있지만, 최근 결장자가 많은 상황이라 마운드와 타선 모두 안정감이 떨어져 보입니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 45승 44패 2무, 승률 .506으로 시즌 전체에서는 근소하게 우위를 지키고 있으며 평균 득점 5.0점으로 화력이 분명한 팀입니다. 최근 10경기에서는 4승 6패로 흐름이 완전히 좋다고 보기는 어렵지만, 리그순위가 낮은 편임에도 득점력 자체는 꾸준해 반등 여지는 충분합니다. 다만 최근 원정 구간에서는 강한 타선을 앞세워도 실점이 따라붙는 장면이 있어, 공격과 수비의 균형이 완전히 맞아떨어지지는 않고 있습니다. 시즌 전체 득실이 플러스인 점은 상대보다 경기 내용이 더 나았음을 보여주며, 한 번 흐름을 타면 득점이 연쇄적으로 이어지는 장점이 있습니다. 특히 중심 타선의 장타 생산과 상위 타순의 출루가 살아나면 경기 주도권을 가져올 가능성이 높아 보입니다."
+homePower: "텍사스 레인저스 타선은 장타보다 연결이 중요해진 흐름임|홈 경기에서도 수비 흔들림이 실점 확대 요인으로 보임|주전 부상 공백이 커 중심 전력 무게감이 떨어져 있음|접전에서는 버티지만 한 번 밀리면 회복이 느린 편임|최근 흐름상 초반 실점 억제가 승부의 핵심임"
+awayPower: "워싱턴 내셔널스는 득점 생산력 자체가 분명한 팀임|출루와 장타가 함께 맞물릴 때 공격 폭발력이 큼|시즌 득실 우위가 경기 내용의 탄탄함을 보여줌|주축 결장에도 대체 자원의 연결 능력이 유지되는 편임|상대보다 타선 우위가 분명해 주도권 확보 기대됨"
+h2h: '[]'
+summary: "워싱턴 내셔널스는 시즌 전체 성적과 득점 생산력에서 텍사스 레인저스보다 한 발 앞서 있고, 득실 흐름도 더 안정적으로 유지하고 있습니다. 텍사스 레인저스는 홈 이점이 있더라도 최근 전력이 흔들리는 구간이 길어져 실점 부담이 크게 보이며, 결장자 공백까지 겹쳐 공격과 마운드의 균형이 약해졌습니다. 반면 워싱턴 내셔널스는 최근 흐름이 완벽하진 않아도 타선의 잠재력이 분명하고, 전체 시즌 기준으로는 우위를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레인저스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817TEOA0-2026-08-17-athletics/"},{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레인저스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.08.14","home":"LA 에인절스","away":"텍사스 레인저스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814TEAN0-2026-08-14-los-angeles-angels/"},{"date":"26.08.13","home":"LA 에인절스","away":"텍사스 레인저스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TEAN0-2026-08-13-los-angeles-angels/"},{"date":"26.08.12","home":"LA 에인절스","away":"텍사스 레인저스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812TEAN0-2026-08-12-los-angeles-angels/"}]'
+awayRecent: '[{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"},{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"},{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CCMO0-2026-08-14-washington-nationals/"},{"date":"26.08.13","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CCMO0-2026-08-13-washington-nationals/"}]'
+injuryHome: "Kyle Higashioka (긴장)|Jacob deGrom (통증)|Robert Garcia (염증)|Josh Jung (긴장)|Nathan Eovaldi (염증)"
+injuryAway: "Drew Millas (골절)|James Wood (긴장)|Richard Lovelady (긴장)|Josiah Gray (긴장)|DJ Herz (긴장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

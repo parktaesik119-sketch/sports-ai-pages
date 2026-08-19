@@ -1,0 +1,37 @@
+---
+title: "카이라트 vs 안데를레흐트 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 유로파리그 예선 - 픽천국"
+date: 2026-08-20T15:00:00.000Z
+description: "카이라트 vs 안데를레흐트 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5987962-2026-08-21-kairat-almaty"
+category: "soccer"
+country: "국제"
+league: "유로파리그 예선"
+homeTeam: "카이라트"
+awayTeam: "안데를레흐트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8037.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8635.png"
+homeAnalysis: "카이라트는 이번 유로파리그 예선에서 최근 21경기 11승 5무 5패, 평균 득점 1.6을 기록하며 전체적으로는 안정적인 전력을 보여주고 있습니다. 최근 흐름에서는 기복이 조금 보이지만, 홈에서는 초반 주도권을 잡았을 때 경기를 자기 리듬으로 끌고 가는 힘이 분명합니다. 득점력은 꾸준한 편이며, 특히 상대를 압박하는 구간에서 한 번 흐름을 타면 여러 골을 만들어내는 장면이 돋보입니다. 다만 최근 경기들에서는 득점이 막히는 순간 수비 부담이 커지는 모습도 있었고, 그럴 때는 경기 운영이 다소 무거워지는 편입니다. 그럼에도 홈에서의 에너지와 빠른 전환은 여전히 강점으로 평가되며, 주목 선수의 한 번의 결정력이 승부에 큰 영향을 줄 가능성이 있습니다."
+awayAnalysis: "안데를레흐트는 이번 유로파리그 예선에서 최근 15경기 7승 4무 4패, 평균 득점 1.5로 공격 생산성 자체는 준수한 전력을 유지하고 있습니다. 최근 흐름을 보면 원정에서도 골을 만드는 장면은 있지만, 경기마다 수비 집중도가 흔들릴 때 실점으로 이어지는 모습이 함께 나타나고 있습니다. 득점 면에서는 전방에서 다양한 경로가 열려 있는 점이 강점이며, 강한 압박을 받지 않을 때는 공격 템포를 잘 살리는 편입니다. 반면 수비에서는 결장자가 적지 않아 조직적인 안정감이 떨어질 여지가 보이고, 특히 측면과 후방 연결에서 공백이 생길 수 있습니다. 전체적으로는 공격 재능이 있는 팀이지만, 최근 경기 흐름상 원정에서 안정적으로 끝까지 버티는 힘은 다소 약해 보입니다."
+homePower: "홈에서 경기 주도권을 잡는 운영이 익숙함|강한 압박 뒤 빠른 마무리 전환이 장점임|득점이 터질 때는 연속 공격으로 밀어붙임|실점 후 흔들림은 있으나 홈 에너지로 보완됨|결정력 있는 마무리 한 번이 승부 분기점임"
+awayPower: "안데를레흐트는 전방 전개 폭이 넓은 팀임|득점 루트가 다양해 한 번 흐르면 연속 득점 가능함|최근 원정에서는 수비 집중력 저하가 변수임|주요 결장으로 측면과 후방 밸런스 흔들림 보임|공격 재능은 충분하나 안정성은 검증이 덜 됨"
+h2h: '[]'
+summary: "카이라트는 이번 유로파리그 예선 전체 성적이 더 안정적이고, 홈에서 경기를 자기 방식으로 끌고 가는 힘이 분명합니다. 안데를레흐트는 평균 득점 자체는 준수하지만, 최근 흐름과 결장 상황을 함께 보면 수비 조직의 안정감이 다소 떨어져 보입니다. 두 팀을 비교하면 카이라트가 홈 이점과 전력 응집력에서 조금 더 우위를 점할 가능성이 높아 보이며, 안데를레흐트는 공격 재능으로 맞서겠지만 경기 후반 흐름 관리에서 불리함이 생길 수 있습니다. 전체적으로는 카이라트가 더 단단한 전력으로 경기를 풀어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.15","home":"카이라트","away":"Ulytau","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5204108-2026-08-15-kairat-almaty/"},{"date":"26.08.12","home":"카이라트","away":"레프스키 소피아","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5954874-2026-08-12-kairat-almaty/"},{"date":"26.08.05","home":"레프스키 소피아","away":"카이라트","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1607167-2026-08-05-levski-sofia/"},{"date":"26.07.30","home":"카이라트","away":"오모니아 니코시아","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1591938-2026-07-30-kairat-almaty/"},{"date":"26.07.26","home":"카이라트","away":"Ordabasy Shymkent","score":"2-1","result":"🟢승"}]'
+awayRecent: '[{"date":"26.08.16","home":"SK Beveren","away":"안데를레흐트","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5811724-2026-08-16-sk-beveren/"},{"date":"26.08.14","home":"안데를레흐트","away":"PAOK","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5955035-2026-08-14-anderlecht/"},{"date":"26.08.10","home":"안데를레흐트","away":"라알 라 루비에르","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1558588-2026-08-10-anderlecht/"},{"date":"26.08.07","home":"PAOK","away":"안데를레흐트","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5955034-2026-08-07-paok-thessaloniki/"},{"date":"26.07.31","home":"안데를레흐트","away":"함마르뷔","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1556547-2026-07-31-anderlecht/"}]'
+injuryHome: "없음"
+injuryAway: "Killian Sardella (근육 부상)|Ilay Camara (발 부상)|Lucas Hey (부상)|Cedric Hatenboer (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "카이라트"
+pickWinResult: "승"
+pickHandicapTeam: "카이라트"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

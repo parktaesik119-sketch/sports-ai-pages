@@ -1,0 +1,37 @@
+---
+title: "캔자스시티 로열스 vs 애슬레틱스 경기분석·라인업·결장자·통계·승부예측 (8월 20일) | MLB - 픽천국"
+date: 2026-08-19T23:40:00.000Z
+description: "캔자스시티 로열스 vs 애슬레틱스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260820OAKC0-2026-08-20-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "애슬레틱스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+homeAnalysis: "캔자스시티 로열스는 2026시즌 최근 85경기에서 40승 4무 41패, 평균 득점 4.3으로 5할에 가까운 전력을 유지하고 있습니다. 최근에는 리그순위 13위라는 자리와 달리 직전 10경기에서 승패가 반반으로 나오며 반등의 실마리를 보여주고 있습니다. 특히 홈에서는 득점 응집력이 살아날 때 경기 흐름을 자기 쪽으로 끌고 오는 힘이 있습니다. 다만 강한 상대를 만나면 실점 억제가 흔들리는 장면도 적지 않아, 투수진의 안정감이 관건으로 보입니다. 가운데 타선이 한 번씩 긴 이닝을 만들어 주는 날에는 홈에서 충분히 주도권을 잡을 수 있는 팀입니다."
+awayAnalysis: "애슬레틱스는 2026시즌 최근 77경기에서 28승 1무 48패, 평균 득점 4.4로 리그순위 14위에 머물러 있습니다. 최근 10경기에서도 승패가 크게 흔들리며 상위권 반등보다는 기복이 먼저 드러나고 있습니다. 다만 득점 생산 자체는 완전히 막히지 않아, 한 번 타선이 붙으면 예상보다 공격적으로 경기를 끌고 가는 장면이 나옵니다. 반면 실점 억제는 불안이 뚜렷해, 리드 관리와 불펜 운영에서 흔들림이 자주 보입니다. 최근 원정에서도 대량 실점이 섞여 있어, 공격이 살아나도 수비가 받쳐주지 못하면 흐름을 이어가기 어려운 전력입니다."
+homePower: "홈에서 득점이 붙으면 경기 주도권을 빨리 잡는 구조임|강한 상대전에서 실점 억제가 흔들리는 점이 변수임|리그순위보다 최근 반등 기류가 더 선명하게 보임|중심 타선이 길게 연결될 때 공격 효율이 높아짐|홈 경기에서는 접전 운영보다 초반 득점이 중요해 보임"
+awayPower: "리그순위는 낮지만 타선 폭발력은 완전히 죽지 않음|실점이 많은 경기와 접전 승리가 섞여 기복이 큼|최근 원정에서 마운드 안정감이 약하게 드러남|한 번 흐름을 타면 장타로 빠르게 따라붙는 힘이 있음|리드 유지보다 추격 전개에 더 강점이 있는 전력임"
+h2h: '[{"date":"26.08.18","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818OAKC0-2026-08-18-kansas-city-royals/"},{"date":"26.05.01","home":"애슬레틱스","away":"캔자스시티 로열스","score":"6-3","link":"https://pick79.com/posts/detail/analyze-178478-2026-05-01-athletics/"},{"date":"26.04.30","home":"애슬레틱스","away":"캔자스시티 로열스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-178453-2026-04-29-athletics/"},{"date":"26.04.29","home":"애슬레틱스","away":"캔자스시티 로열스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-178453-2026-04-29-athletics/"}]'
+summary: "캔자스시티 로열스는 시즌 전체 성적이 애슬레틱스보다 조금 앞서 있고, 최근에는 홈에서 득점 흐름을 살리며 반등 조짐을 보이고 있습니다. 애슬레틱스는 평균 득점이 크게 뒤처지지는 않지만 실점 부담이 커서, 경기 후반으로 갈수록 운영 안정감에서 차이가 드러나는 편입니다. 두 팀 모두 타선이 완전히 막히는 유형은 아니지만, 현재 전력 균형과 최근 맞대결 흐름까지 함께 보면 애슬레틱스가 한끗 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.18","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818OAKC0-2026-08-18-kansas-city-royals/"},{"date":"26.08.17","home":"LA 에인절스","away":"캔자스시티 로열스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817KCAN0-2026-08-17-los-angeles-angels/"},{"date":"26.08.15","home":"LA 에인절스","away":"캔자스시티 로열스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815KCAN0-2026-08-15-los-angeles-angels/"},{"date":"26.08.13","home":"LA 다저스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813KCLA0-2026-08-13-los-angeles-dodgers/"},{"date":"26.08.12","home":"LA 다저스","away":"캔자스시티 로열스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812KCLA0-2026-08-12-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.08.18","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818OAKC0-2026-08-18-kansas-city-royals/"},{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레인저스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817TEOA0-2026-08-17-athletics/"},{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레인저스","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.08.13","home":"애슬레틱스","away":"탬파베이 레이스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TBOA0-2026-08-13-athletics/"},{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 레이스","score":"6-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"}]'
+injuryHome: "Beck Way (경련)|James McArthur (수술)|Nick Mears (신경 압박)|Tony Gonsolin (수술)|Connor Seabold (부상)"
+injuryAway: "Jacob Wilson (일일 관찰)|Jeffrey Springs (통증)|Jose Suarez (부상)|Brooks Kriske (신경 압박)|Denzel Clarke (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애슬레틱스"
+pickWinResult: "승"
+pickHandicapTeam: "애슬레틱스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

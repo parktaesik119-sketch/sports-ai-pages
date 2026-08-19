@@ -1,0 +1,37 @@
+---
+title: "파나티나이코스 vs 흐라덱 크라로베 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-20T18:30:00.000Z
+description: "파나티나이코스 vs 흐라덱 크라로베 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988062-2026-08-21-panathinaikos"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "파나티나이코스"
+awayTeam: "흐라덱 크라로베"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1712.png"
+homeAnalysis: "파나티나이코스는 2026시즌 최근 25경기에서 14승 4무 7패를 기록하며 승률과 경기 운영 완성도 모두 준수한 흐름을 보이고 있고, 평균 득점 51.4로 공격 전개에서도 꾸준함이 돋보입니다. 최근 경기에서도 CSKA 1948 소피아을 상대로 승리를 거두고, 프라크스와의 경기에서 득점 교환을 이어가며 공격 템포를 유지한 점이 인상적입니다. 홈에서는 그라스호퍼스전 3득점 승리, 발렌시아전 연속 승리처럼 경기 주도권을 잡았을 때 득점 생산이 크게 살아나는 모습입니다. 이나키 페냐가 골문을 지키고 스테판 데 브라이, 릭 판 드론겔런이 후방 중심을 잡는 구조라 수비 안정감도 기대할 만합니다. 전방에서는 리베 가르시아와 안아스 자리우리, 엘민 라스토데르의 움직임이 살아나면 상대 수비를 지속적으로 흔들 가능성이 높습니다."
+awayAnalysis: "흐라덱 크라로베는 2026시즌 최근 18경기에서 6승 4무 8패를 기록하며 기복이 있으나, 평균 득점 10.6을 유지하면서도 경기마다 수비 집중력이 승부를 좌우하는 흐름입니다. 최근에는 베식타스전에서 접전을 펼쳤고, 반익 오스트라바전에서는 승리를 따내며 강한 상대를 상대로도 한 방이 나오는 장면을 보여주고 있습니다. 다만 파르두비체전과 트롬쇠전처럼 흐름이 끊길 때는 득점 전환이 매끄럽지 않아 경기 주도권을 오래 가져가기 어려운 편입니다. 이번 경기에서는 골키퍼 아담 자드라질과 수비진의 압박 저항력이 중요하고, 블라디미르 다리다와 다니엘 호라크가 중원에서 버텨줘야 합니다. 전방의 믹 판 뷰런과 온드레이 미할리크가 빠르게 찬스를 연결하지 못하면 파나티나이코스의 압박에 고전할 가능성이 있습니다. 또한 토마스 비에슈너와 토마스 페트라세크의 이탈은 수비와 조직력 측면에서 부담으로 작용할 수 있습니다."
+homePower: "파나티나이코스 홈 주도권 확보 능력 우수함|전방 자원 다양해 득점 루트 분산됨|스테판 데 브라이 중심 수비 안정감 보임|리드 잡으면 경기 통제력 높아짐|중원 연결 완성도 높아 압박 대응 검증됨"
+awayPower: "흐라덱 크라로베 원정서 수비 우선 전개 뚜렷함|블라디미르 다리다 중심 전환이 핵심임|믹 판 뷰런의 직선 침투가 변수임|주요 결장으로 후방 조직 재편 필요함|강한 압박 상대엔 마무리 효율 기복 보임"
+h2h: '[]'
+summary: "파나티나이코스는 2026시즌 전체 흐름에서 승리 비중이 높고, 득점 생산과 경기 운영이 함께 살아 있는 모습이라 전력상 우위가 분명해 보입니다. 흐라덱 크라로베는 최근 결과 자체는 나쁘지 않지만, 원정에서 강한 압박을 받을 때 공격 완성도와 수비 집중력이 함께 흔들리는 장면이 있어 부담이 있습니다. 전체적으로는 파나티나이코스가 중원 장악과 전방 압박에서 앞서고 있고, 흐라덱 크라로베는 결장 공백까지 겹치며 경기 흐름을 오래 버티기 쉽지 않아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Tomás Wiesner (부상)|Tomás Petrásek (부상)"
+homeLineup: '["Iñaki Peña (GK)|https://images.fotmob.com/image_resources/playerimages/990996.png","Georgios Katris (DF)|https://images.fotmob.com/image_resources/playerimages/1613657.png","Stefan de Vrij (DF)|https://images.fotmob.com/image_resources/playerimages/188555.png","Rick van Drongelen (DF)|https://images.fotmob.com/image_resources/playerimages/690302.png","Giorgos Kyriakopoulos (DF)|https://images.fotmob.com/image_resources/playerimages/518633.png","Anass Zaroury (FW)|https://images.fotmob.com/image_resources/playerimages/1069536.png","Pedro Chirivella (MF)|https://images.fotmob.com/image_resources/playerimages/680031.png","Étienne Camara (MF)|https://images.fotmob.com/image_resources/playerimages/1222191.png","Levi García (FW)|https://images.fotmob.com/image_resources/playerimages/717557.png","Elmin Rastoder (FW)|https://images.fotmob.com/image_resources/playerimages/1347804.png","Santino Andino Valencia (MF)|https://images.fotmob.com/image_resources/playerimages/1680164.png"]'
+awayLineup: '["Adam Zadrazil (GK)|https://images.fotmob.com/image_resources/playerimages/1398355.png","Jakub Uhrincat (DF)|https://images.fotmob.com/image_resources/playerimages/1382975.png","Filip Cihák (DF)|https://images.fotmob.com/image_resources/playerimages/941552.png","Frantisek Cech (DF)|https://images.fotmob.com/image_resources/playerimages/846315.png","David Ludvícek (MF)|https://images.fotmob.com/image_resources/playerimages/1467030.png","Vladimír Darida (MF)|https://images.fotmob.com/image_resources/playerimages/196311.png","Samuel Dancák (MF)|https://images.fotmob.com/image_resources/playerimages/933789.png","Daniel Horák (MF)|https://images.fotmob.com/image_resources/playerimages/1132554.png","Mick van Buren (FW)|https://images.fotmob.com/image_resources/playerimages/279110.png","Tom Sloncík (MF)|https://images.fotmob.com/image_resources/playerimages/1435935.png","Ondrej Mihálik (FW)|https://images.fotmob.com/image_resources/playerimages/591775.png"]'
+homeFormation: "4-3-3"
+awayFormation: "3-4-2-1"
+homeCoach: "Jacob Neestrup|https://images.fotmob.com/image_resources/playerimages/31233.png"
+awayCoach: "David Horejs|https://images.fotmob.com/image_resources/playerimages/11107.png"
+pickWinTeam: "파나티나이코스"
+pickWinResult: "승"
+pickHandicapTeam: "파나티나이코스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "2"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---
