@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.19","home":"볼티모어 오리올스","away":"뉴�
 injuryHome: "Samuel Basallo (염증)|Blaze Alexander (골절)|Felix Bautista (수술)|Ryan Helsley (염증)|Ryan Mountcastle (근육 손상)"
 injuryAway: "Cody Bellinger (근육 손상)|Kervin Castro (염증)|Max Fried (타박상)|Giancarlo Stanton (근육 손상)|Clarke Schmidt (수술)"
 homeLineup: "[\"선발투수 C. Bassitt (4-4, 5.11) ERA 5.11|https://a.espncdn.com/i/headshots/mlb/players/full/33148.png\"]"
-awayLineup: "[\"선발투수 W. Warren (8-6, 4.42) ERA 4.42|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\"]"
+awayLineup: "[\"선발투수 W. Warren (8-6, 4.42) ERA 4.42|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\",\"1번 T. Grisham (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/34995.png\",\"2번 B. Rice (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5016968.png\",\"3번 L. Garcia Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40459.png\",\"4번 H. Ramos (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/39642.png\",\"5번 J. Chisholm Jr. (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41433.png\",\"6번 S. Jones (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4867424.png\",\"7번 R. McMahon (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33247.png\",\"8번 G. Lombard Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149070.png\",\"9번 A. Wells (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4683349.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
