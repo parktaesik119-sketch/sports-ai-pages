@@ -35,16 +35,16 @@
   // ⬇️ 제외하고 싶은 국가명을 정확히 입력하세요 //대소문자 구분없음
     const blockedCountries = [
   "Bahrain", "Kyrgyzstan", "Uzbekistan", "Uganda", "Eswatini", "Zambia", "India", "South-Africa", "South Africa", "Malaysia", "Malta", "Kenya", "Barbados", "Peru", "Bolivia", "Honduras", "Cambodia", "Ivory-Coast", "Cyprus", "Burkina-Faso", "Azerbaijan", "Belarus", "Kazakhstan", "Ukraine", "Zimbabwe", "Rwanda", "Congo", "Mongolia", "Armenia", "Indonesia", "Syria", "Ethiopia", "Chile", "Ecuador", "Lithuania", "Mauritania", "Latvia", "Estonia", "Balkans", "Puerto Rico", "Dominican Republic", "Aruba", "Philippines", 'PERU', 'ECUADOR', 'AZERBAIJAN', 'ARMENIA', 'BELARUS', 'KAZAKHSTAN', 'UKRAINE', 'ICELAND', 'LITHUANIA', 'LATVIA', 'ESTONIA', 'MALTA', 'CYPRUS', 'SYRIA', 'BARBADOS', 'Bangladesh', 'Tunisia', 'Malawi', 'Ghana', 'Lebanon', 'Botswana',
-  "Slovakia", "Faroe-Islands", "Faroe Islands",'Libya','Aruba', 'Panama', 'Bhutan', 'Ethiopia', 'Congo-DR', 'Israel', "El Salvador", 'El-Salvador', 'Jamaica', 'Rwanda', 'Mauritania', 'Zimbabwe','Ethiopia', 'Kenya', 'INDIA', 'UZBEKISTAN', 'KYRGYZSTAN', 'Bangladesh', 'Lesotho', 'Kuwait', 'Bosnia and Herzegovina', 
+  "Slovakia", "Faroe-Islands", "Faroe Islands",'Libya','Aruba', 'Panama', 'Bhutan', 'Ethiopia', 'Congo-DR', 'Israel', "El Salvador", 'El-Salvador', 'Jamaica', 'Rwanda', 'Mauritania', 'Zimbabwe','Ethiopia', 'Kenya', 'INDIA', 'UZBEKISTAN', 'KYRGYZSTAN', 'Bangladesh', 'Lesotho', 'Kuwait', 'Bosnia and Herzegovina', 'Egypt'
 ].filter(c => c !== "South-Korea");
 
     const blockedTeams = [
   // [나이,성별]
   'U21', 'U19', 'U18', 'U17', 'YOUTH', 'RESERVE', 'WOMEN', 'WOMAN', 'FEMALE', 'FRAUEN', 'FEMININE', 'FEMININE DIVISION 1', 'FEMENIL', 'BUBLIKI', 'ZEROZONE GAMING', 'RONALDO TEAM', 'THE OTTER SIDE', 'CRUSADERS', 'DREAM ESPORTS', 'GTZ ESPORTS', 'FLUXO W7M', 'PAIN GAMING', 'LOUD', 'VIVO KEYD STARS', 'RED CANIDS', 'LEVIATAN ESPORTS', 'FRITES ESPORTS CLUB', 'MCON ESPORTS', 'TBD','Central league','CENTRAL LEAGUE','Pacific league','PACIFIC LEAGUE','Nanum','NANUM','National League','American League','World'
   ];
-   
+
   export function isMatchApproved(m) {
-  const lg = (m.league || '').trim(); 
+  const lg = (m.league || '').trim();
   const upperLg = lg.toUpperCase(); // 비교를 위한 대문자 변환
   const sport = (m.sport || '').toLowerCase(); // 지적하신 sport 변수 유지
   const country = (m.country || '').trim();
@@ -89,9 +89,30 @@
     'Monaco', 'Strasbourg', 'Lorient', 'Toulouse', 'Paris FC', 'Brest', 'Stade Brestois 29', 'Angers',
     'Le Havre', 'Auxerre', 'Nice', 'Estac Troyes', 'Le Mans',
   ];
+
+  // ⚠️ 같은 팀명이 서로 다른 나라에 동시에 존재하는 경우가 있다.
+  // 예: 'Arsenal' → 잉글랜드 프리미어리그 아스널 외에 러시아 2부(퍼스트 리그)에도
+  // '아르세날 툴라'가 데이터상 그냥 "Arsenal"로 들어오는 경우가 있음 (2026-08 확인,
+  // Arsenal vs FC Rotor Volgograd가 러시아 2부 경기인데 프리패스로 통과된 사례).
+  // 여기 등록된 팀+국가 조합만 프리패스에서 제외하고, 나머지 국가의 동명 팀은
+  // essentialTeams 프리패스가 정상적으로 적용된다.
+  // key: essentialTeams 표기와 동일하게 대문자로. value: 프리패스 제외할 국가명(대문자) 배열.
+  const essentialTeamCountryExceptions = {
+    'ARSENAL': ['RUSSIA'],
+  };
+
   const isEssentialTeam = essentialTeams.some(t => {
     const target = t.toUpperCase().trim();
-    return upperHome === target || upperAway === target;
+    const isHomeMatch = upperHome === target;
+    const isAwayMatch = upperAway === target;
+    if (!isHomeMatch && !isAwayMatch) return false;
+
+    const excludedCountries = essentialTeamCountryExceptions[target];
+    if (excludedCountries && excludedCountries.includes(upperCountry)) {
+      // 이름만 같은 다른 나라 팀 → 프리패스 제외, 아래 일반 필터 로직을 그대로 태운다.
+      return false;
+    }
+    return true;
   });
 
   // 1. 여기에 예외로 허용하고 싶은 여성/청소년 리그명을 대문자로 등록합니다.
@@ -127,14 +148,14 @@ if (isExtraFiltered) {
   return false;
 }
 
-  /// 국가 차단 
+  /// 국가 차단
   if (sport === 'soccer' && blockedCountries.some(c => c.toUpperCase() === upperCountry)) {
     console.log(`🚫 [국가 차단] ${country} - ${m.home} vs ${m.away}`);
     return false;
   }
 
   const cleanUpperLg = upperLg.replace(/\s+/g, ''); // 데이터의 공백 제거
-    
+
   // [추가] 국가별 특정 리그 차단 사전 (리그명 대문자로 적어야 함)
   const countryLeagueBlacklist = {
     "Denmark": ["1. DIVISION"],
@@ -145,7 +166,7 @@ if (isExtraFiltered) {
     "Northern-Ireland": ["CHAMPIONSHIP"],
     "Northern Ireland": ["CHAMPIONSHIP"],
     "Brazil": ["SERIE B"],
-    "Saudi-Arabia": ["DIVISION 1"],    
+    "Saudi-Arabia": ["DIVISION 1"],
     "Egypt": ["CUP"],
     "Venezuela": ["SEGUNDA DIVISIÓN"],
     "Uruguay": ["SEGUNDA DIVISIÓN"],
@@ -179,8 +200,8 @@ if (isExtraFiltered) {
     !!countryLeagueWhitelist[country] &&
     countryLeagueWhitelist[country].some(el => el === upperLg);
 
-  // 프리패스 리그 작성 구간 (프리패스 리그는 전부 무조건 대문자로 적어야 함)  
-  // 1. 축구 주요 리그 
+  // 프리패스 리그 작성 구간 (프리패스 리그는 전부 무조건 대문자로 적어야 함)
+  // 1. 축구 주요 리그
   const top5 = ['PREMIER LEAGUE', 'CHAMPIONSHIP', 'LA LIGA', 'SEGUNDA DIVISIÓN', 'BUNDESLIGA','PRIMEIRA LIGA', 'SERIE A', 'LIGUE 1', 'EREDIVISIE'].some(el => el === upperLg);
   const korea = ['KLEAGUE1', 'KLEAGUE2'].some(el => {
   // ⚠️ fotmob은 "K-League 1"처럼 하이픈을 쓴다(api-sports는 "K League1"). 공백뿐 아니라
@@ -199,13 +220,13 @@ if (isExtraFiltered) {
   // 축구 통합 필터 (국가+리그 화이트리스트 항목도 포함)
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision || isCountryLeagueWhitelisted);
 
-  // 2. 농구 
+  // 2. 농구
   const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W', 'NBA SALT LAKE CITY SUMMER LEAGUE', 'CALIFORNIA CLASSIC', 'NBA - LAS VEGAS SUMMER LEAGUE'].some(el => el === upperLg);
-  // 3. 배구 
+  // 3. 배구
   const volleyball = ['V-LEAGUE', 'KOVO', 'KOREA V', 'V.LEAGUE', 'SUPER LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'FRIENDLY INTERNATIONAL', 'NATIONS LEAGUE WOMEN','NATIONS LEAGUE'].some(el => el === upperLg);
-  // 4. 야구 
+  // 4. 야구
   const baseball = ['KBO', 'MLB', 'NPB', 'CPBL', 'WORLD', 'WORLDS', 'INTERNATIONAL'].some(el => el === upperLg);
-  // 5. 하키 
+  // 5. 하키
   const hockey = ['NHL', 'KHL','WORLD CHAMPIONSHIP','FRIENDLY INTERNATIONAL', 'WCH IA','WCH IB' ].some(el => el === upperLg);
   // 6. 롤 //대문자로 띄어쓰기 없이 적을 것. Rounds 1-2 이런 글자는 자동 삭제니 적지 않아야 함
   // Playoffs가 붙은 EWC는 lol 판별 전에 먼저 차단
@@ -245,7 +266,7 @@ if (isExtraFiltered) {
 
   // [STEP 2] 프리패스 우선 실행
   if (isEssentialLeague) {
-    return true; 
+    return true;
   }
 
   // [STEP 3] 프리패스가 아닌 나머지 모든 경기는 차단 리스트 검사 후 종료
