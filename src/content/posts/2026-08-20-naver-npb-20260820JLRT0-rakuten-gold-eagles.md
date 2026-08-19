@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.18","home":"라쿠텐 골든이글스","away":"지�
 awayRecent: '[{"date":"26.08.18","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818JLRT0-2026-08-18-rakuten-gold-eagles/"},{"date":"26.08.16","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816JLSE0-2026-08-16-seibu-lions/"},{"date":"26.08.15","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815JLSE0-2026-08-15-seibu-lions/"},{"date":"26.08.14","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814JLSE0-2026-08-14-seibu-lions/"},{"date":"26.08.13","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813JLSF0-2026-08-13-fukuoka-s-hawks/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kenta Maeda (3-3, 2.87)|https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg\"]"
+awayLineup: "[\"선발투수 Kazuya Ojima (4-7, 3.38)|https://p.npb.jp/players_photo/2026/180/m/014_11515138.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
