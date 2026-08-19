@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.18","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.08.18","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818YOYK0-2026-08-18-yokohama-baystars/"},{"date":"26.08.16","home":"주니치 드래곤스","away":"요미우리 자이언츠","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816YOJN0-2026-08-16-chunichi-dragons/"},{"date":"26.08.15","home":"주니치 드래곤스","away":"요미우리 자이언츠","score":"11-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815YOJN0-2026-08-15-chunichi-dragons/"},{"date":"26.08.14","home":"주니치 드래곤스","away":"요미우리 자이언츠","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814YOJN0-2026-08-14-chunichi-dragons/"},{"date":"26.08.13","home":"요미우리 자이언츠","away":"한신 타이거스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813HSYO0-2026-08-13-yomiuri-giants/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shintaro Fujinami (0-0, 4.70)|https://p.npb.jp/players_photo/2026/180/db/027_41045137.jpg\"]"
+awayLineup: "[\"선발투수 Bryan Mata (0-1, 2.79)|https://p.npb.jp/players_photo/2026/180/g/042_53755152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
