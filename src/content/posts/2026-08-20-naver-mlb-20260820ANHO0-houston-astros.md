@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.17","home":"휴스턴 애스트로스","away":"시�
 awayRecent: '[{"date":"26.08.17","home":"LA 에인절스","away":"캔자스시티 로열스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817KCAN0-2026-08-17-los-angeles-angels/"},{"date":"26.08.15","home":"LA 에인절스","away":"캔자스시티 로열스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815KCAN0-2026-08-15-los-angeles-angels/"},{"date":"26.08.14","home":"LA 에인절스","away":"텍사스 레인저스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814TEAN0-2026-08-14-los-angeles-angels/"},{"date":"26.08.13","home":"LA 에인절스","away":"텍사스 레인저스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TEAN0-2026-08-13-los-angeles-angels/"},{"date":"26.08.12","home":"LA 에인절스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812TEAN0-2026-08-12-los-angeles-angels/"}]'
 injuryHome: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Sam Bachman (염증)|Yusei Kikuchi (염증)|Sebastian Rivero (수술)|Shaun Anderson (염증)|Yoan Moncada (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Lambert (8-6, 3.11) ERA 3.11|https://a.espncdn.com/i/headshots/mlb/players/full/39898.png\"]"
+awayLineup: "[\"선발투수 G. Rodriguez (3-5, 7.17) ERA 7.17|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

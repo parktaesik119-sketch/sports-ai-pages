@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.18","home":"필라델피아 필리스","away":"마�
 awayRecent: '[{"date":"26.08.18","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818FLPH0-2026-08-18-philadelphia-phillies/"},{"date":"26.08.17","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817FLCI0-2026-08-17-cincinnati-reds/"},{"date":"26.08.16","home":"신시내티 레즈","away":"마이애미 말린스","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816FLCI0-2026-08-16-cincinnati-reds/"},{"date":"26.08.15","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815FLCI0-2026-08-15-cincinnati-reds/"},{"date":"26.08.14","home":"마이애미 말린스","away":"피츠버그 파이러츠","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814PIFL0-2026-08-14-miami-marlins/"}]'
 injuryHome: "Derek Hill (부상)|Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Johan Rojas (수술)"
 injuryAway: "Joe Mack (부상)|Anthony Bender (골절)|Kyle Stowers (염좌)|Max Meyer (염좌)|Ronny Henriquez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Nola (4-9, 5.33) ERA 5.33|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
+awayLineup: "[\"선발투수 S. Alcantara (13-7, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/35241.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

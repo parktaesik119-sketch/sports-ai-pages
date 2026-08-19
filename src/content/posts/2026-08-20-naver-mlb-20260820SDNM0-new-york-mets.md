@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.18","home":"뉴욕 메츠","away":"샌디에이고 
 awayRecent: '[{"date":"26.08.18","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SDNM0-2026-08-18-new-york-mets/"},{"date":"26.08.17","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SDCL0-2026-08-17-cleveland-guardians/"},{"date":"26.08.16","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SDCL0-2026-08-16-cleveland-guardians/"},{"date":"26.08.15","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SDCL0-2026-08-15-cleveland-guardians/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"}]'
 injuryHome: "Juan Soto (긴장), Cionel Perez (긴장), Mark Vientos (골절), Justin Hagenman (골절), Devin Williams (긴장)"
 injuryAway: "Joe Musgrove (염증), Samad Taylor (긴장), Lucas Giolito (염증), Nick Pivetta (긴장), Jason Adam (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Stock (0-2, 6.57) ERA 6.57|https://a.espncdn.com/i/headshots/mlb/players/full/30577.png\"]"
+awayLineup: "[\"선발투수 M. King (8-8, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.18","home":"보스턴 레드삭스","away":"애리�
 awayRecent: '[{"date":"26.08.18","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818AZBO0-2026-08-18-boston-red-sox/"},{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"},{"date":"26.08.16","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"3-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816AZAT0-2026-08-16-atlanta-braves/"},{"date":"26.08.15","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815AZAT0-2026-08-15-atlanta-braves/"},{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"}]'
 injuryHome: "Jahmai Jones (경미한 통증)|Isiah Kiner-Falefa (염증)|Trevor Story (수술)|Roman Anthony (염좌)|Garrett Whitlock (염증)"
 injuryAway: "Nolan Arenado (경미한 통증)|Ketel Marte (결장)|Ryan Thompson (근육 긴장)|Drey Jameson (염증)|Tommy Troy (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Tolle (8-6, 2.97) ERA 2.97|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
+awayLineup: "[\"선발투수 B. Pfaadt (7-1, 3.11) ERA 3.11|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디�
 awayRecent: '[{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"},{"date":"26.08.18","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates/"},{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"}]'
 injuryHome: "Endy Rodriguez (염증)|Konnor Griffin (근육 손상)|Ryan O'Hearn (근육 손상)|Mitch Keller (미상)"
 injuryAway: "Brant Hurter (염증)|Parker Meadows (수술)|James Outman (뇌진탕)|Matt Vierling (근육 손상)|Riley Greene (근육 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Skenes (9-11, 3.88) ERA 3.88|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
+awayLineup: "[\"선발투수 J. Jobe (1-1, 6.23) ERA 6.23|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

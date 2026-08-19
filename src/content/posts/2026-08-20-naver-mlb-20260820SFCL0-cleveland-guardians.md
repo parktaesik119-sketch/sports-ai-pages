@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.19","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.08.19","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SFCL0-2026-08-19-cleveland-guardians/"},{"date":"26.08.17","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817COSF0-2026-08-17-san-francisco-giants/"},{"date":"26.08.16","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816COSF0-2026-08-16-san-francisco-giants/"},{"date":"26.08.13","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813HOSF0-2026-08-13-san-francisco-giants/"},{"date":"26.08.11","home":"샌프란시스코 자이언츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811HOSF0-2026-08-11-san-francisco-giants/"}]'
 injuryHome: "Colin Holderman (염증)|Chase DeLauter (통증)|Slade Cecconi (근육통)|Shawn Armstrong (근육 긴장)"
 injuryAway: "Willy Adames (경련)|Marcelo Mayer (골절)|Logan Webb (통증)|Jesus Rodriguez (신경 압박)|Joel Peguero (근육 긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Messick (9-7, 2.59) ERA 2.59|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
+awayLineup: "[\"선발투수 A. Houser (3-7, 4.28) ERA 4.28|https://a.espncdn.com/i/headshots/mlb/players/full/32157.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레�
 awayRecent: '[{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"},{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"},{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CCMO0-2026-08-14-washington-nationals/"},{"date":"26.08.13","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"6-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CCMO0-2026-08-13-washington-nationals/"}]'
 injuryHome: "Kyle Higashioka (긴장)|Jacob deGrom (통증)|Robert Garcia (염증)|Josh Jung (긴장)|Nathan Eovaldi (염증)"
 injuryAway: "Drew Millas (골절)|James Wood (긴장)|Richard Lovelady (긴장)|Josiah Gray (긴장)|DJ Herz (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Rocker (4-9, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/4414525.png\"]"
+awayLineup: "[\"선발투수 A. Alvarez (2-4, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
