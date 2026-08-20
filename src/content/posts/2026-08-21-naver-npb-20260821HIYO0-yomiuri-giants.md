@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.19","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.08.19","home":"히로시마 도요 카프","away":"주니치 드래곤스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260819JNHI0-2026-08-19-hiroshima-carp/"},{"date":"26.08.18","home":"히로시마 도요 카프","away":"주니치 드래곤스","score":"11-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818JNHI0-2026-08-18-hiroshima-carp/"},{"date":"26.08.16","home":"히로시마 도요 카프","away":"한신 타이거스","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816HSHI0-2026-08-16-hiroshima-carp/"},{"date":"26.08.15","home":"히로시마 도요 카프","away":"한신 타이거스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815HSHI0-2026-08-15-hiroshima-carp/"},{"date":"26.08.14","home":"히로시마 도요 카프","away":"한신 타이거스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814HSHI0-2026-08-14-hiroshima-carp/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Spencer Howard (2-2, 1.53)|https://p.npb.jp/players_photo/2026/180/g/028_23725150.jpg\"]"
+awayLineup: "[\"선발투수 Masato Morishita (6-7, 4.08)|https://p.npb.jp/players_photo/2026/180/c/018_53155151.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

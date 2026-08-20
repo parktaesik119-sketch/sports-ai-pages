@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.19","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.08.19","home":"한신 타이거스","away":"야쿠르트 스왈로우스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260819YAHS0-2026-08-19-hanshin-tigers/"},{"date":"26.08.18","home":"한신 타이거스","away":"야쿠르트 스왈로우스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818YAHS0-2026-08-18-hanshin-tigers/"},{"date":"26.08.16","home":"히로시마 도요 카프","away":"한신 타이거스","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816HSHI0-2026-08-16-hiroshima-carp/"},{"date":"26.08.15","home":"히로시마 도요 카프","away":"한신 타이거스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815HSHI0-2026-08-15-hiroshima-carp/"},{"date":"26.08.14","home":"히로시마 도요 카프","away":"한신 타이거스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814HSHI0-2026-08-14-hiroshima-carp/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kentaro Taira (4-7, 3.65)|https://p.npb.jp/players_photo/2026/180/db/059_01905139.jpg\"]"
+awayLineup: "[\"선발투수 Easton Lucas (0-2, 5.52)|https://p.npb.jp/players_photo/2026/180/t/042_73975152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
