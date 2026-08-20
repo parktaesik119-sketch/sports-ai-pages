@@ -1,0 +1,37 @@
+---
+title: "텍사스 레인저스 vs 워싱턴 내셔널스 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | MLB - 픽천국"
+date: 2026-08-21T00:05:00.000Z
+description: "텍사스 레인저스 vs 워싱턴 내셔널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260821MOTE0-2026-08-21-texas-rangers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "텍사스 레인저스"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "텍사스 레인저스는 2026시즌 최근 82경기에서 37승 45패, 평균 득점 3.8을 기록하며 시즌 내내 공격 생산성이 다소 들쭉날쭉한 흐름을 보이고 있습니다. 최근 10경기에서도 4승 6패, 평균 득점 3.4로 내려가 있어 타선의 응집력이 완전히 살아났다고 보기는 어렵습니다. 다만 직전 워싱턴 내셔널스전에서는 5점을 뽑아내며 필요한 순간 득점은 만들었고, 홈에서는 비교적 버티는 경기 운영이 가능합니다. 반면 실점 억제는 최근 경기들에서 흔들림이 있었고, 경기 후반으로 갈수록 마운드 부담이 커지는 모습이 보입니다. 다만 홈에서 분위기를 끌어올리면 수비와 연결된 안정감이 살아날 여지는 있으며, 핵심 선수 결장이 겹친 상황에서 타순의 하단까지 생산성을 얼마나 이어가느냐가 중요해 보입니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 최근 92경기에서 45승 45패, 평균 득점 4.9로 텍사스 레인저스보다 공격 쪽의 완성도가 더 높게 나타나고 있습니다. 최근 10경기에서는 4승 6패, 평균 득점 4.7로 결과는 흔들렸지만 득점 자체는 꾸준히 만들어 내고 있어 반등의 재료는 충분합니다. 특히 대량 득점이 나오는 경기와 묶어서 버티는 경기가 함께 보이고 있어, 타선의 폭발력이 살아날 때는 상대 투수진을 압박하는 힘이 있습니다. 다만 최근 원정 포함 연패 구간에서는 수비와 마운드가 동시에 흔들리며 실점 관리가 되지 않은 점이 아쉽습니다. 여기에 주력 자원 이탈까지 더해져 전력의 깊이가 얇아진 상태이지만, 기본적인 득점 기대치는 홈팀보다 높게 평가됩니다."
+homePower: "홈 타선 기복이 크지만 필요할 때는 득점 가능함|홈보다 원정에서 흔들리는 마운드 약점이 뚜렷함|핵심 결장으로 장타·수비 안정감 동시 저하됨|직전 맞대결 무실점은 특정 상성 반전 신호임|경기 초반 선취점 여부가 흐름 좌우할 가능성 큼"
+awayPower: "공격 기대치는 높아도 최근 결과가 불안정함|연패 구간에서 실점 관리가 급격히 흔들림|장기 결장 누적으로 전력 깊이 감소가 보임|타선이 터질 때 득점 폭은 크게 열리는 구조임|원정에서도 점수 생산은 가능해 상쇄력 갖춤"
+h2h: '[{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"}]'
+summary: "텍사스 레인저스는 시즌 성적과 최근 흐름을 함께 보면 공격이 크게 폭발하지 않는 가운데도 홈에서는 버틸 힘을 갖춘 팀으로 보입니다. 워싱턴 내셔널스는 시즌 전체 득점 흐름이 더 좋고 공격 잠재력도 높지만, 최근에는 결과 기복과 실점 관리 문제로 안정감이 떨어진 모습입니다. 다만 두 팀 모두 결장 이슈가 있는 만큼 경기 운영의 완성도가 중요해 보이고, 종합적으로는 워싱턴 내셔널스가 득점 면에서 조금 더 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"},{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레인저스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817TEOA0-2026-08-17-athletics/"},{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레인저스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.08.14","home":"LA 에인절스","away":"텍사스 레인저스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814TEAN0-2026-08-14-los-angeles-angels/"},{"date":"26.08.13","home":"LA 에인절스","away":"텍사스 레인저스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TEAN0-2026-08-13-los-angeles-angels/"}]'
+awayRecent: '[{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"},{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"},{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"},{"date":"26.08.14","home":"워싱턴 내셔널스","away":"시카고 컵스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CCMO0-2026-08-14-washington-nationals/"}]'
+injuryHome: "Robert Garcia (염증)|Josh Jung (염좌)|Nathan Eovaldi (염증)|Kyle Higashioka (염좌)|Jack Leiter (수술)"
+injuryAway: "Drew Millas (골절)|James Wood (염좌)|Richard Lovelady (염좌)|Josiah Gray (염좌)|DJ Herz (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

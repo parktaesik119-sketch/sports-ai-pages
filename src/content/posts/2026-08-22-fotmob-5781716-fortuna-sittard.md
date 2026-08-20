@@ -1,0 +1,37 @@
+---
+title: "포르투나 시타르트 vs AZ 알크마르 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | 에레디비지 - 픽천국"
+date: 2026-08-22T14:30:00.000Z
+description: "포르투나 시타르트 vs AZ 알크마르 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781716-2026-08-22-fortuna-sittard"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "포르투나 시타르트"
+awayTeam: "AZ 알크마르"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6422.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10229.png"
+homeAnalysis: "포르투나 시타르트는 2026시즌 최근 10경기에서 5승 1무 4패를 기록하며 평균 득점 1.6으로 공격에서 꾸준함을 보여주고 있습니다. 최근 경기에서는 캄뷔르를 3대1로 꺾고, 아포엘 니코시아와 헹크를 상대로도 승리를 챙기며 홈에서의 응집력이 살아 있는 흐름을 보였습니다. 다만 메스와 올림피아코스, 위트레흐트전에서는 실점 억제가 완벽하지 않아 수비 집중력은 경기마다 차이가 있습니다. 마티스 브란더호르스트 골키퍼를 중심으로 이보 핀투, 시브 반 오텔레, 저스틴 허브너가 버티는 수비진은 안정감을 찾을 수 있는 구성이며, 모하메드 이하타렌과 올레 로메니의 전진 전개가 살아나면 득점 생산도 한층 매끄러워질 수 있습니다. 홈에서는 빠르게 분위기를 타는 힘이 있고, 그 흐름이 앞서면 상대를 압박하는 경기 운영이 가능해 보입니다."
+awayAnalysis: "AZ 알크마르는 2026시즌 최근 11경기에서 6승 5무 0패를 기록하며 평균 득점 2.6으로 매우 강한 화력을 보여주고 있습니다. 최근 경기에서는 위트레흐트를 원정에서 4대1로 제압했고, PSV 에인트호번전과 헹크전에서도 대승을 거두며 경기 지배력이 뚜렷했습니다. 무패 흐름이 길게 이어지고 있어 경기 후반에도 흔들림이 적고, 공격 템포를 유지하는 능력이 돋보입니다. 다만 스티제 레신크, 덴소 카시우스, 요르디 클라시에, 지즈 호른캄프의 이탈은 중원과 측면 연결에서 변수가 될 수 있습니다. 그럼에도 제리 데 부서르 골키퍼와 Wouter Goes, Lewis Schouten이 지키는 라인은 안정적이고, Mexx Meerdink과 Ro-Zangelo Daal이 마무리를 책임지는 구조는 여전히 위협적입니다."
+homePower: "홈에서 득점 의지가 살아나는 구조임|모하메드 이하타렌의 전진 연결이 핵심임|이보 핀투 중심의 수비 밸런스가 중요함|실점 이후 반등 속도가 비교적 빠른 편임|홈 응집력은 강하지만 수비 기복은 변수임"
+awayPower: "무패 지속으로 경기 운영 자신감이 높음|평균 득점 2.6이 공격 다양성을 보여줌|원정에서도 압박 강도 유지가 돋보임|핵심 부상자 4명으로 중원 조합은 변동성 있음|메흐스 메르딘크 마무리 결정력이 강점임"
+h2h: '[{"date":"26.04.05","home":"AZ 알크마르","away":"포르투나 시타르트","score":"2-0"},{"date":"25.12.22","home":"포르투나 시타르트","away":"AZ 알크마르","score":"4-3"},{"date":"25.02.24","home":"AZ 알크마르","away":"포르투나 시타르트","score":"1-0"},{"date":"24.10.07","home":"포르투나 시타르트","away":"AZ 알크마르","score":"1-0"},{"date":"24.02.18","home":"포르투나 시타르트","away":"AZ 알크마르","score":"1-2"}]'
+summary: "AZ 알크마르는 2026시즌 11경기 무패와 평균 득점 2.6을 앞세워 전체 전력에서 더 강한 모습을 보이고 있습니다. 포르투나 시타르트도 최근 10경기에서 5승을 챙기며 홈에서 버티는 힘을 보여주고 있지만, 공격 생산성과 경기 지배력에서는 AZ 알크마르 쪽이 한 수 위로 평가됩니다. 상대전적에서도 AZ 알크마르가 최근 맞대결에서 우세한 흐름을 이어가고 있어, 이번 경기는 원정팀이 전력 우위를 바탕으로 주도권을 잡을 가능성이 높습니다. 다만 포르투나 시타르트가 홈에서 초반에 흐름을 끌어오면 접전 양상으로 이어질 여지도 있어, 초반 균형이 경기 전체의 방향을 좌우할 것으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Ramazan Bayram (무릎 부상)|Iván Márquez (부상)|Sven Simons (햄스트링 부상)"
+injuryAway: "Stije Resink (무릎 부상)|Denso Kasius (사타구니 부상)|Jordy Clasie (부상)|Jizz Hornkamp (발목 부상)"
+homeLineup: '["Mattijs Branderhorst (GK)|https://images.fotmob.com/image_resources/playerimages/245395.png","Ivo Pinto (DF)|https://images.fotmob.com/image_resources/playerimages/163815.png","Syb van Ottele (DF)|https://images.fotmob.com/image_resources/playerimages/1180218.png","Justin Hubner (DF)|https://images.fotmob.com/image_resources/playerimages/1213683.png","Siebe Wylin (DF)|https://images.fotmob.com/image_resources/playerimages/1301657.png","Philip Brittijn (MF)|https://images.fotmob.com/image_resources/playerimages/1285451.png","Yassin Oukili (MF)|https://images.fotmob.com/image_resources/playerimages/1119702.png","Jasper Dahlhaus (DF)|https://images.fotmob.com/image_resources/playerimages/1184695.png","Mohammed Ihattaren (FW)|https://images.fotmob.com/image_resources/playerimages/1015183.png","Ole Romeny (FW)|https://images.fotmob.com/image_resources/playerimages/915365.png","Lequincio Zeefuik (FW)|https://images.fotmob.com/image_resources/playerimages/1250495.png"]'
+awayLineup: '["Jari De Busser (GK)|https://images.fotmob.com/image_resources/playerimages/824747.png","Elijah Dijkstra (DF)|https://images.fotmob.com/image_resources/playerimages/1466557.png","Wouter Goes (DF)|https://images.fotmob.com/image_resources/playerimages/1307387.png","Lewis Schouten (DF)|https://images.fotmob.com/image_resources/playerimages/1329774.png","Mateo Chávez (DF)|https://images.fotmob.com/image_resources/playerimages/1432212.png","Dave Kwakman (MF)|https://images.fotmob.com/image_resources/playerimages/1389199.png","Peer Koopmeiners (MF)|https://images.fotmob.com/image_resources/playerimages/915415.png","Weslley Pinto (FW)|https://images.fotmob.com/image_resources/playerimages/1383534.png","Kees Smit (MF)|https://images.fotmob.com/image_resources/playerimages/1417581.png","Ro-Zangelo Daal (FW)|https://images.fotmob.com/image_resources/playerimages/1352213.png","Mexx Meerdink (FW)|https://images.fotmob.com/image_resources/playerimages/1321125.png"]'
+homeFormation: "3-4-2-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Danny Buijs|https://images.fotmob.com/image_resources/playerimages/38979.png"
+awayCoach: "Leeroy Echteld|https://images.fotmob.com/image_resources/playerimages/1233419.png"
+pickWinTeam: "AZ 알크마르"
+pickWinResult: "승"
+pickHandicapTeam: "AZ 알크마르"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

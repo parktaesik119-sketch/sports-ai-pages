@@ -1,0 +1,37 @@
+---
+title: "천안 시티 vs 수원 삼성 블루윙즈 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | K-League 2 - 픽천국"
+date: 2026-08-22T10:30:00.000Z
+description: "천안 시티 vs 수원 삼성 블루윙즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155881-2026-08-22-cheonan-city"
+category: "soccer"
+country: "대한민국"
+league: "K-League 2"
+homeTeam: "천안 시티"
+awayTeam: "수원 삼성 블루윙즈"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/187960.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/88517.png"
+homeAnalysis: "천안 시티는 2026시즌 최근 16경기에서 3승 5무 8패, 평균 득점 1.2를 기록하며 다소 어려운 흐름을 보이고 있습니다. 공격에서는 1.2득점 수준으로 완전히 무너지지는 않지만, 경기마다 득점 기복이 있어 흐름을 끝까지 끌고 가는 힘이 부족해 보입니다. 수비 쪽에서는 실점 억제가 흔들리는 장면이 잦아 접전에서 버티는 힘이 아쉬운 편입니다. 다만 홈에서는 가끔 경기 주도권을 잡아내며 버티는 장면이 나오고 있어, 브루노 라마스와 압바카르 툰가라, 그리고 규민 이 중심의 전개가 살아나면 반전 여지는 있습니다. 최근에는 무승부와 패배가 섞여 있지만, 경기 내용상 초반 집중력과 마무리 완성도를 끌어올리는 것이 가장 중요해 보입니다."
+awayAnalysis: "수원 삼성 블루윙즈는 2026시즌 최근 14경기에서 3승 4무 7패, 평균 득점 1.2를 기록하며 천안 시티와 비슷한 득점 흐름을 보이고 있습니다. 공격은 한 번 살아나면 멀티 득점도 가능하지만, 경기별 편차가 있어서 안정적으로 우위를 지키는 데는 한계가 보입니다. 수비는 대체로 버티는 힘은 있으나, 실점이 필요한 순간에 흔들리는 장면이 반복되어 아쉬움이 남습니다. 원정에서는 공격 전개가 더 거칠어질 수 있지만, 페신과 브루노 코스타, 리스가 연결 고리를 잘 만들면 상대 수비를 흔드는 장면은 충분히 기대됩니다. 전체적으로는 중원 장악과 전방 압박이 맞아떨어질 때 강점이 살아나는 팀으로 보입니다."
+homePower: "브루노 라마스 중심 전개가 핵심임|압바카르 툰가라 마무리 효율이 변수임|홈에서는 수비 집중력 회복이 관건임|3백 운영 시 측면 뒷공간 관리가 중요함|접전에서 세트피스 한 방이 승부처로 보임"
+awayPower: "페신-브루노 코스타 조합이 전개축임|리스의 결정력이 원정 득점 열쇠임|4백 유지로 안정감은 확보되는 편임|중원 압박 성공 시 역습 속도가 살아남|실점 이후 반격 집중력이 강점으로 검증됨"
+h2h: '[{"date":"26.05.25","home":"수원 삼성 블루윙즈","away":"천안 시티","score":"3-2","link":"https://pick79.com/posts/detail/analyze-1510346-2026-05-25-suwon-bluewings/"},{"date":"25.10.12","home":"수원 삼성 블루윙즈","away":"천안 시티","score":"5-0"},{"date":"25.08.02","home":"천안 시티","away":"수원 삼성 블루윙즈","score":"1-2"},{"date":"25.05.11","home":"수원 삼성 블루윙즈","away":"천안 시티","score":"2-0"},{"date":"24.09.14","home":"수원 삼성 블루윙즈","away":"천안 시티","score":"1-2"}]'
+summary: "두 팀 모두 2026시즌 기준 득점 평균이 1.2로 비슷하지만, 전체 전력의 안정감에서는 수원 삼성 블루윙즈가 조금 더 앞서는 흐름입니다. 천안 시티는 홈에서도 공격과 수비의 균형이 흔들리는 장면이 있었고, 수원 삼성 블루윙즈는 원정에서도 승부를 뒤집는 힘을 보여준 적이 있어 접전에서는 우세를 점할 가능성이 높습니다. 상대전적에서도 수원 삼성 블루윙즈가 최근 흐름에서 더 강한 인상을 남기고 있어, 이번 경기 역시 원정팀이 주도권을 잡을 가능성이 더 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Ju-Won Park (GK)|https://images.fotmob.com/image_resources/playerimages/0.png","Sang-Yong Lee (DF)|https://images.fotmob.com/image_resources/playerimages/828297.png","Tae-Won Ko (DF)|https://images.fotmob.com/image_resources/playerimages/730673.png","Yong-Seung Kwon (DF)|https://images.fotmob.com/image_resources/playerimages/1999276.png","Ji-Hoon Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1232406.png","Chang-Woo Park (MF)|https://images.fotmob.com/image_resources/playerimages/1337175.png","Ji-Seung Lee (MF)|https://images.fotmob.com/image_resources/playerimages/0.png","Seung-Hyeon Cha (MF)|https://images.fotmob.com/image_resources/playerimages/1343222.png","Bruno Lamas (MF)|https://images.fotmob.com/image_resources/playerimages/617023.png","Aboubacar Toungara (FW)|https://images.fotmob.com/image_resources/playerimages/897327.png","Kyu-Min Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1612385.png"]'
+awayLineup: '["Jun-Hong Kim (GK)|https://images.fotmob.com/image_resources/playerimages/1261735.png","Geon-Hee Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1759631.png","Jong-Hyun Ko (DF)|https://images.fotmob.com/image_resources/playerimages/1816702.png","Jeong-Ho Hong (DF)|https://images.fotmob.com/image_resources/playerimages/245526.png","Sang-Min Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1385649.png","Fessin (MF)|https://images.fotmob.com/image_resources/playerimages/892655.png","Ho-Yeon Jung (MF)|https://images.fotmob.com/image_resources/playerimages/1384003.png","Seung-Beom Ko (MF)|https://images.fotmob.com/image_resources/playerimages/730758.png","Bruno Costa (MF)|https://images.fotmob.com/image_resources/playerimages/934707.png","Gyeol Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1626136.png","Reis (FW)|https://images.fotmob.com/image_resources/playerimages/406542.png"]'
+homeFormation: "3-4-3"
+awayFormation: "4-4-2"
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "수원 삼성 블루윙즈"
+pickWinResult: "승"
+pickHandicapTeam: "수원 삼성 블루윙즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

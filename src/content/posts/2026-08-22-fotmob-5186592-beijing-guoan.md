@@ -1,0 +1,37 @@
+---
+title: "베이징 궈안 vs 윈난 유쿤 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | Super League - 픽천국"
+date: 2026-08-22T12:00:00.000Z
+description: "베이징 궈안 vs 윈난 유쿤 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186592-2026-08-22-beijing-guoan"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "베이징 궈안"
+awayTeam: "윈난 유쿤"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4177.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1477056.png"
+homeAnalysis: "베이징 궈안은 2026시즌 최근 18경기에서 12승 5무 1패를 기록하며 높은 승률과 평균 2.3득점으로 안정적인 공격 전개를 보여주고 있습니다. 최근에는 상하이 선화 원정과 톈진 진먼 타이거 원정에서 연속으로 다득점 승리를 거두며 원정에서도 주도권을 잃지 않는 모습이 돋보입니다. 특히 베이징 궈안은 홈에서는 빠른 점유와 전방 압박이 살아 있고, 파비우 아브레우와 장위닝이 마무리에서 확실한 존재감을 보여주고 있습니다. 4득점 경기를 여러 차례 만들 만큼 화력이 좋고, 실점 억제도 함께 이뤄져 경기 운영의 균형이 좋게 평가됩니다. 이번 경기에서도 닉 몽고메리 감독 체제의 안정된 전개와 홈 이점이 맞물리며 흐름을 이어갈 가능성이 높아 보입니다."
+awayAnalysis: "윈난 유쿤은 2026시즌 최근 18경기에서 8승 5무 5패, 평균 2.0득점으로 꾸준한 득점력을 바탕으로 경쟁력을 보여주고 있습니다. 최근에는 다롄 잉보와 청두 룽청을 상대로 연달아 승리를 거두며 홈에서의 응집력이 살아났고, 공격 전개에서도 여러 자원을 고르게 활용하는 모습이 인상적입니다. 다만 강한 상대를 만났을 때는 실점이 늘어나는 장면이 종종 나와 수비 집중력은 더 보완이 필요해 보입니다. 알렉산드루 이오니차와 오스카 타티 마리투를 앞세운 공격진은 한 번 흐름을 타면 득점 생산이 빠르지만, 원정에서는 수비 라인 관리가 결과를 좌우할 가능성이 큽니다. 조르디 비뇰스 감독이 전술적으로 균형을 잡아낸다면 충분히 맞설 수 있으나, 전체 전력의 안정감에서는 기복이 느껴집니다."
+homePower: "파비우 아브레우-장위닝 조합의 마무리 완성도 높음|홈에서 초반 압박으로 경기 주도권 확보 가능|다득점 승리 반복, 공격 전개 속도감 검증됨|실점 억제와 볼 점유가 함께 살아나는 흐름임|닉 몽고메리 체제의 운영 안정감이 강점임"
+awayPower: "알렉산드루 이오니차 중심 역습 전환 날카로움|오스카 타티 마리투의 침투로 공간 활용 가능함|홈에서는 강하지만 원정 수비 변동성 존재함|여러 득점 자원 분산으로 예측 어려움 보임|조르디 비뇰스 감독의 전술 조정력은 검증됨"
+h2h: '[{"date":"26.05.02","home":"윈난 유쿤","away":"베이징 궈안","score":"3-3","link":"https://pick79.com/posts/detail/analyze-1523130-2026-05-02-yunnan-yukun/"},{"date":"25.08.20","home":"베이징 궈안","away":"윈난 유쿤","score":"7-0"},{"date":"25.06.30","home":"베이징 궈안","away":"윈난 유쿤","score":"2-1"},{"date":"25.02.22","home":"윈난 유쿤","away":"베이징 궈안","score":"0-2"}]'
+summary: "베이징 궈안은 시즌 전반의 승리 누적과 높은 득점 생산력을 바탕으로 이번 경기에서도 한 단계 앞선 전력을 보여주고 있습니다. 윈난 유쿤도 최근 득점 흐름은 나쁘지 않지만, 강한 상대를 만났을 때 수비가 흔들리는 장면이 있어 전체적인 안정감에서는 베이징 궈안이 더 우세해 보입니다. 상대전적에서도 베이징 궈안이 뚜렷한 우위를 보였고, 특히 화력과 경기 운영 모두에서 홈팀 쪽 기대감이 더 높게 형성됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Sen Hou (GK)|https://images.fotmob.com/image_resources/playerimages/117465.png","Tze-Nam Yue (DF)|https://images.fotmob.com/image_resources/playerimages/1130091.png","Abduhamit Abdugheni (DF)|https://images.fotmob.com/image_resources/playerimages/854808.png","Guilherme Ramos (DF)|https://images.fotmob.com/image_resources/playerimages/711074.png","Yang Bai (DF)|https://images.fotmob.com/image_resources/playerimages/1249785.png","Liyu Yang (MF)|https://images.fotmob.com/image_resources/playerimages/816495.png","Dawhan (MF)|https://images.fotmob.com/image_resources/playerimages/961502.png","Sai Erjini’ao (MF)|https://images.fotmob.com/image_resources/playerimages/535906.png","Yongjing Cao (MF)|https://images.fotmob.com/image_resources/playerimages/623080.png","Fábio Abreu (FW)|https://images.fotmob.com/image_resources/playerimages/470523.png","Yuning Zhang (FW)|https://images.fotmob.com/image_resources/playerimages/623091.png"]'
+awayLineup: '["Zhifeng Wang (GK)|https://images.fotmob.com/image_resources/playerimages/1026523.png","Wang Kit Tsui (DF)|https://images.fotmob.com/image_resources/playerimages/899192.png","Teng Yi (DF)|https://images.fotmob.com/image_resources/playerimages/192324.png","Andrei Burca (DF)|https://images.fotmob.com/image_resources/playerimages/793506.png","Zihao Yang (DF)|https://images.fotmob.com/image_resources/playerimages/1248509.png","Alexandru Ionita (FW)|https://images.fotmob.com/image_resources/playerimages/275332.png","Xin Xu (MF)|https://images.fotmob.com/image_resources/playerimages/674469.png","Caio Vinícius (MF)|https://images.fotmob.com/image_resources/playerimages/933792.png","Bunyamin Abdusalam (FW)|https://images.fotmob.com/image_resources/playerimages/1913204.png","John Hou Sæther (MF)|https://images.fotmob.com/image_resources/playerimages/538270.png","Oscar Taty Maritu (FW)|https://images.fotmob.com/image_resources/playerimages/950411.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-3-3"
+homeCoach: "Nick Montgomery|https://images.fotmob.com/image_resources/playerimages/23274.png"
+awayCoach: "Jordi Vinyals|https://images.fotmob.com/image_resources/playerimages/301536.png"
+pickWinTeam: "베이징 궈안"
+pickWinResult: "승"
+pickHandicapTeam: "베이징 궈안"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

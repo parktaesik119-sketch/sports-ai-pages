@@ -1,0 +1,37 @@
+---
+title: "안산 그리너스 vs 성남 FC 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | K-League 2 - 픽천국"
+date: 2026-08-22T10:30:00.000Z
+description: "안산 그리너스 vs 성남 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155880-2026-08-22-ansan-greeners"
+category: "soccer"
+country: "대한민국"
+league: "K-League 2"
+homeTeam: "안산 그리너스"
+awayTeam: "성남 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/821875.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6614.png"
+homeAnalysis: "안산 그리너스는 2026시즌 최근 15경기에서 2승 4무 9패, 평균 득점 0.7로 득점 효율이 낮은 흐름입니다. 최근에는 무득점과 1득점 경기가 잦아 공격 전개가 매끄럽게 이어지지 못하고 있지만, 수비적으로는 버티는 장면이 남아 있어 쉽게 무너지기만 하는 전력은 아닙니다. 홈에서는 수원 삼성전 2득점, 천안시티전 1득점처럼 제한적이지만 한 번씩 찬스를 살리는 장면이 보입니다. 예상 선발을 보면 마초프 촐과 가브리엘 리마가 전방에서 마무리를 맡고, 이범진과 연윤빈이 뒤를 받치는 구성이어서 전방 압박과 직선적인 전개가 중요해 보입니다. 다만 최근 전반적인 결과 흐름을 보면 득점력이 상대를 꾸준히 흔들 정도는 아니어서, 경기 운영이 길어질수록 수비 집중력이 더 중요해질 가능성이 큽니다."
+awayAnalysis: "성남 FC는 2026시즌 최근 16경기에서 5승 6무 5패, 평균 득점 0.9로 안산 그리너스보다 안정적인 득점 흐름을 보여주고 있습니다. 최근 경기에서는 강원전 무득점, 천안시티전 3득점처럼 기복이 있었지만, 전체적으로는 실점 관리와 득점 균형을 함께 가져가는 편입니다. 원정에서도 파주 프런티어전과 아산 무궁화전처럼 고전한 장면이 있었으나, 김해시티전과 용인시티전에서 승리를 챙기며 원정 대응력도 완전히 흔들리지는 않았습니다. 예상 선발 기준으로 이정빈, 주앤 유, 엘리오나이가 중원에서 리듬을 만들고, 홍석현과 김민재가 전방에서 마무리를 노리는 구조라 공격 전개가 한 번만 풀려도 위협적입니다. 특히 수비진에 권병준, 이상민, 비니시우스, 정승용이 배치되는 구성이어서 기본적인 라인 유지와 세트플레이 대응에서 강점을 기대할 수 있습니다."
+homePower: "안산 그리너스 공격 전개가 단순해 상대가 읽기 쉬움|평균 득점 0.7로 마무리 완성도 부족이 뚜렷함|홈에서도 한 골 싸움에 강하게 끌려갈 가능성 높음|마초프 촐-가브리엘 리마 조합의 한 방 의존도 큼|실점 억제보다 득점 생산이 먼저 풀려야 하는 구조임"
+awayPower: "성남 FC는 실점 억제와 균형감이 살아 있음|평균 득점 0.9로 필요할 때 한 골을 만들 힘은 보유함|중원 조합이 살아나면 경기 주도권 확보가 쉬움|홍석현-김민재 전방 연계가 흐름을 가를 변수임|원정에서도 최소한의 운영 안정감은 검증됨"
+h2h: '[{"date":"26.04.12","home":"성남 FC","away":"안산 그리너스","score":"0-1"},{"date":"25.09.06","home":"성남 FC","away":"안산 그리너스","score":"4-0"},{"date":"25.05.31","home":"안산 그리너스","away":"성남 FC","score":"1-0"},{"date":"25.04.06","home":"성남 FC","away":"안산 그리너스","score":"1-0"},{"date":"24.11.09","home":"안산 그리너스","away":"성남 FC","score":"1-1"}]'
+summary: "안산 그리너스는 시즌 전체 흐름에서 득점 생산이 충분하지 않아 경기 주도권을 길게 가져가기 어려운 전력입니다. 성남 FC는 안산 그리너스보다 득점과 경기 운영의 균형이 조금 더 나아 보이며, 최근 결과 흐름도 크게 흔들리지 않고 있습니다. 맞대결 흐름만 봐도 두 팀은 접전과 저득점 양상이 자주 나왔고, 한 번의 집중력 차이가 결과를 가르는 경우가 많았습니다. 이번 경기는 성남 FC가 전력의 안정감에서 조금 더 앞서 보이며, 안산 그리너스는 홈에서 버티는 힘을 살려야 승부를 길게 끌고 갈 수 있어 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Seung-Bin Lee (GK)|https://images.fotmob.com/image_resources/playerimages/433077.png","Tim Hartzell (DF)|https://images.fotmob.com/image_resources/playerimages/1165208.png","Je-Min Yeon (DF)|https://images.fotmob.com/image_resources/playerimages/431324.png","Yeon Eung-Bin (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Ji-Min Im (MF)|https://images.fotmob.com/image_resources/playerimages/1613068.png","Ji-Hoon Cho (MF)|https://images.fotmob.com/image_resources/playerimages/255228.png","Jung-Hyun Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1544152.png","In-Sung Kim (MF)|https://images.fotmob.com/image_resources/playerimages/306233.png","Machop Chol (FW)|https://images.fotmob.com/image_resources/playerimages/1244639.png","Gabriel Lima (FW)|https://images.fotmob.com/image_resources/playerimages/1408130.png","Hyun-Soo Jang (DF)|https://images.fotmob.com/image_resources/playerimages/622139.png"]'
+awayLineup: '["Kwang-Yeon Lee (GK)|https://images.fotmob.com/image_resources/playerimages/1039705.png","Byeong-Jun Kwon (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Sang-Min Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1136199.png","Venício (DF)|https://images.fotmob.com/image_resources/playerimages/941712.png","Seung-Yong Jung (DF)|https://images.fotmob.com/image_resources/playerimages/307817.png","Jeong-Bin Lee (MF)|https://images.fotmob.com/image_resources/playerimages/828202.png","Jue-An Yoo (MF)|https://images.fotmob.com/image_resources/playerimages/828010.png","Elionay (MF)|https://images.fotmob.com/image_resources/playerimages/1508439.png","Jun-Sang Lee (MF)|https://images.fotmob.com/image_resources/playerimages/0.png","Seok-Hyun Hong ()|https://images.fotmob.com/image_resources/playerimages/0.png","Min-Jae Kim ()|https://images.fotmob.com/image_resources/playerimages/0.png"]'
+homeFormation: "3-4-3"
+awayFormation: "4-4-2"
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "성남 FC"
+pickWinResult: "승"
+pickHandicapTeam: "성남 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "섐록 로버스 vs 셸번 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | D1 - 픽천국"
+date: 2026-08-21T19:00:00.000Z
+description: "섐록 로버스 vs 셸번 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100950-2026-08-22-shamrock-rovers"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "섐록 로버스"
+awayTeam: "셸번"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4131.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/5751.png"
+homeAnalysis: "섐록 로버스는 2026시즌 최근 23경기에서 13승 2무 8패, 평균 득점 1.7을 기록하며 전반적으로 안정적인 승점을 쌓아가고 있습니다. 최근에는 강한 압박과 빠른 전환을 앞세워 득점 기회를 꾸준히 만들어냈고, 홈에서는 특히 공격 전개가 더 매끄럽게 이어지는 모습입니다. 다만 최근 원정 일정에서는 수비 집중력이 흔들리며 실점이 늘어난 장면도 보여, 경기 흐름을 길게 끌고 가는 운영이 중요해 보입니다. 그래도 홈에서는 득점 템포가 살아나는 편이라, 초반 주도권을 잡을 경우 상대를 몰아붙일 힘이 있습니다. 특히 주축 자원 이탈이 적지 않은 상황에서도 팀 전체의 공격 밸런스는 유지되고 있어, 경기당 득점 생산력은 여전히 강점으로 평가됩니다."
+awayAnalysis: "셸번은 2026시즌 최근 21경기에서 6승 9무 6패, 평균 득점 1.5로 나타나며 경기마다 접전 양상을 자주 만들고 있습니다. 최근에는 강팀과의 연전 속에서도 쉽게 무너지지 않는 모습이 있었고, 수비적으로 버티면서 역습 기회를 노리는 흐름이 자주 보입니다. 다만 득점이 한 번 막히면 흐름을 다시 되찾는 데 시간이 걸리는 편이라, 공격 완성도는 꾸준한 과제로 남아 있습니다. 원정에서는 안정감을 우선하는 운영이 자주 나오지만, 상대 압박이 강할 때 전진 패스가 끊기며 답답한 전개가 나올 수 있습니다. 그럼에도 접전 상황에서 집중력을 유지하는 힘은 분명하고, 한 번 흐름을 타면 생각보다 끈질긴 모습을 보여주는 팀입니다."
+homePower: "홈에서 공격 템포가 빨라지는 구조가 뚜렷함|주요 결장자 많아도 전개 틀은 유지되는 편임|실점 뒤 반등 속도가 빠른 편으로 보임|상대 압박이 약해지면 측면 활용이 살아남|최근 맞대결에서 득실 변동 큰 난타전 성향임"
+awayPower: "접전 관리 능력이 살아 있어 쉽게 무너지지 않음|득점 기대치가 높지 않아도 한 방은 있음|강팀 상대로 수비 블록 유지가 비교적 견고함|원정에서 속도전보다 버티기 운영이 어울림|섐록 로버스 상대로도 상성상 맞붙을 만함"
+h2h: '[{"date":"26.06.13","home":"셸번","away":"섐록 로버스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-1492713-2026-06-13-shelbourne/"},{"date":"26.04.07","home":"섐록 로버스","away":"셸번","score":"3-2"},{"date":"26.03.10","home":"셸번","away":"섐록 로버스","score":"2-2"},{"date":"25.10.11","home":"섐록 로버스","away":"셸번","score":"0-1"},{"date":"25.06.14","home":"셸번","away":"섐록 로버스","score":"1-2"}]'
+summary: "섐록 로버스는 시즌 전체 전력과 득점 생산력에서 조금 더 앞서는 흐름을 보이고 있고, 셸번은 승부를 길게 끌며 균형을 맞추는 힘이 강한 팀입니다. 다만 최근 맞대결에서는 서로 득점을 주고받는 장면이 많았고, 접전 끝에 한쪽이 간신히 우세를 잡는 양상이 반복되고 있습니다. 이번 경기는 홈에서 공격 템포를 끌어올릴 수 있는 섐록 로버스가 조금 더 주도권을 잡을 가능성이 높아 보이며, 셸번은 수비 집중력과 역습 완성도로 맞서는 그림이 예상됩니다. 전체적으로는 섐록 로버스가 근소한 우위를 점할 가능성이 높지만, 셸번의 끈질긴 저항 때문에 쉽게 벌어지지는 않을 흐름입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Roberto Lopes (부상)|Naj Razi (근육 부상)|John McGovern (충돌 부상)|Daniel Cleary (근육 부상)|Danny Grant (근육 부상)|Victor Ozhianvuna (근육 부상)"
+injuryAway: "Rodrigo Freitas (부상)|Ademipo Odubeko (충돌 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "섐록 로버스"
+pickWinResult: "승"
+pickHandicapTeam: "섐록 로버스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

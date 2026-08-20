@@ -1,0 +1,37 @@
+---
+title: "밀워키 브루어스 vs 시애틀 매리너스 경기분석·라인업·결장자·통계·승부예측 (8월 21일) | MLB - 픽천국"
+date: 2026-08-20T18:10:00.000Z
+description: "밀워키 브루어스 vs 시애틀 매리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "밀워키 브루어스는 2026시즌 최근 87경기에서 54승 32패로 승률 .619를 기록하며 리그순위 1위에 올라 있습니다. 시즌 득실차가 +158로 매우 탄탄하고, 최근 9경기에서도 6승 3패로 흐름을 잘 유지하고 있어 상위권다운 안정감이 돋보입니다. 특히 최근 평균 득점이 6.3점으로 올라와 있어 타선의 폭발력이 살아난 상태이며, 홈에서 경기 주도권을 잡는 힘도 분명하게 보입니다. 다만 시즌 전체 흐름 안에서는 무실점에 가까운 완승도 있었지만, 한 번 흔들릴 때 실점이 커지는 장면도 함께 보여서 세밀한 투수 운용이 중요해 보입니다. 결장자 중에서는 Sal Frelick, Abner Uribe, JoJo Romero, Joel Kuhnel 같은 주요 전력이 빠져 있어 불펜과 외야 운영에 부담이 생길 수 있습니다. 그럼에도 최근 경기 내용만 놓고 보면 득점 생산과 경기 운영 모두에서 홈팀의 완성도가 더 높게 평가됩니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 최근 76경기에서 36승 39패로 승률 .468을 기록하며 리그순위 12위에 머물러 있습니다. 시즌 득실차가 -45로, 득점보다 실점 억제가 더 아쉬운 흐름이 이어지고 있고 최근 10경기에서도 3승 7패로 반등이 길게 이어지지 못하고 있습니다. 최근 평균 득점이 2.2점에 그치고 있어 공격 전개가 매끄럽지 않으며, 강한 상대를 만나면 득점이 급격히 줄어드는 경향이 보입니다. 그래도 휴스턴 원정과 뉴욕 원정에서 승리를 챙긴 장면은 있어, 완전히 무너진 전력이라기보다 상대에 따라 반응 폭이 큰 팀으로 읽힙니다. 다만 Carlos Vargas, Cole Wilcox, J.P. Crawford, Colt Emerson의 이탈이 이어지고 있어 마운드와 타선의 핵심 축이 동시에 흔들리는 점은 분명한 부담입니다. 현재 흐름에서는 초반 실점을 억제하지 못하면 경기 전체가 급격히 불리해질 가능성이 높아 보입니다."
+homePower: "리그순위 1위의 압도적 득실차로 안정성 검증됨|최근 득점 상승세가 타선 응집력으로 이어짐|홈 경기 주도권 확보 능력이 매우 강함|주요 불펜 결장으로 후반 변수는 존재함|강팀 상대로도 대량 득점 전개가 가능함"
+awayPower: "리그순위 12위로 전력 격차가 뚜렷함|최근 득점 저하로 공격 연결성 약화됨|강한 상대로는 초반 흐름을 잃기 쉬움|핵심 내야 자원 이탈로 운영 폭이 좁음|원정에서 반등보다 실점 관리가 더 시급함"
+h2h: '[{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"}]'
+summary: "밀워키 브루어스는 리그순위 1위답게 시즌 전체 전력과 최근 득점 흐름이 모두 안정적으로 이어지고 있어 경기 주도권을 잡을 가능성이 높습니다. 시애틀 매리너스는 리그순위 12위에 더해 최근 득점 생산이 크게 떨어져 있어, 강한 상대를 상대로 버티는 힘이 충분하지 않아 보입니다. 특히 최근 맞대결에서 밀워키 브루어스가 큰 차이로 우위를 보인 점까지 감안하면, 이번 경기는 홈팀이 마운드와 타선 양쪽에서 앞서는 그림이 자연스럽게 이어질 것으로 보입니다."
+homeRecent: '[{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"},{"date":"26.08.17","home":"LA 다저스","away":"밀워키 브루어스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MILA0-2026-08-17-los-angeles-dodgers/"},{"date":"26.08.16","home":"LA 다저스","away":"밀워키 브루어스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MILA0-2026-08-16-los-angeles-dodgers/"},{"date":"26.08.14","home":"LA 다저스","away":"밀워키 브루어스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814MILA0-2026-08-14-los-angeles-dodgers/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"},{"date":"26.08.17","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SEHO0-2026-08-17-houston-astros/"},{"date":"26.08.16","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SEHO0-2026-08-16-houston-astros/"},{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"}]'
+injuryHome: "Garrett Mitchell (통증)|Joel Kuhnel (건염)|Sal Frelick (염좌)|Abner Uribe (염좌)|JoJo Romero (결장)"
+injuryAway: "Carlos Vargas (염좌)|Bryan Woo (결장)|Cole Wilcox (염좌)|J.P. Crawford (염증)|Colt Emerson (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

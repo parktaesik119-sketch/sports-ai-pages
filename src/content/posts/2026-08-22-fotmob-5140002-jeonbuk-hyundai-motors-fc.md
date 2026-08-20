@@ -1,0 +1,37 @@
+---
+title: "전북 현대 vs 울산 HD FC 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | K-League 1 - 픽천국"
+date: 2026-08-22T10:30:00.000Z
+description: "전북 현대 vs 울산 HD FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140002-2026-08-22-jeonbuk-hyundai-motors-fc"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "전북 현대"
+awayTeam: "울산 HD FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/46038.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133896.png"
+homeAnalysis: "전북 현대는 2026시즌 최근 14경기에서 3승 5무 6패, 평균 득점 1.1을 기록하며 득점 효율이 다소 아쉬운 흐름을 보이고 있습니다. 다만 홈에서는 상대를 눌러 세우는 경기 운영이 가능했고, 특히 울산 HD FC를 상대로는 최근 맞대결에서 안정적인 압박과 빠른 전환으로 강한 장면을 자주 만들어냈습니다. 최근 경기들에서도 무득점 경기가 반복되긴 했지만, 송범근 골키퍼를 축으로 수비 집중력을 유지하면 실점을 크게 줄일 수 있는 전력입니다. 김진규와 김동준이 중원과 전방 전개를 연결해 주고, 세이컨드 라인에서 이승우와 브루노 모타가 마무리 완성도를 끌어올릴 수 있다는 점이 주목됩니다. 전체적으로는 공격 폭발력보다도 조직적인 수비와 홈 경기의 압박 강도가 승부의 핵심으로 보입니다."
+awayAnalysis: "울산 HD FC는 2026시즌 최근 14경기에서 6승 3무 5패, 평균 득점 1.6으로 전북 현대보다 공격 전개가 한층 활발한 모습을 보이고 있습니다. 원정에서도 전개 속도를 유지하는 편이며, 특히 이동경과 강상우를 활용한 측면 침투가 살아날 때 득점 루트가 다양해집니다. 다만 최근에는 실점이 함께 늘어나는 장면이 보였고, 강한 압박을 받으면 후방 빌드업이 흔들리는 모습도 있었습니다. 김영권을 중심으로 한 수비진이 버텨 주어야 하고, 조현우의 선방이 더해질 때 경기 균형을 잡기 쉬운 전력입니다. 전반적으로는 전북보다 득점 기대치는 높지만, 수비 안정성이 흔들리면 우세를 끝까지 이어 가기 어려운 흐름입니다."
+homePower: "울산 상대로 최근 우세 상성 뚜렷함|홈 압박이 살아나면 실점 억제력 상승함|이승우 활용 시 전방 전개 속도 살아남|브루노 모타 결정력에 승부 무게 실림|득점 기복은 있지만 조직력은 검증됨"
+awayPower: "전북 상대로 공격 루트 다변화가 강점임|이동경-강상우 연계 시 위협도 높음|조현우 존재로 접전 대응력 보임|원정에서도 전개 속도 유지되는 편임|수비 흔들림만 줄이면 우세 지속 가능함"
+h2h: '[{"date":"26.07.11","home":"울산 HD FC","away":"전북 현대","score":"1-3","link":"https://pick79.com/posts/detail/analyze-1506994-2026-07-11-ulsan-hyundai-fc/"},{"date":"26.04.04","home":"전북 현대","away":"울산 HD FC","score":"2-0"},{"date":"25.08.30","home":"울산 HD FC","away":"전북 현대","score":"0-2"},{"date":"25.05.31","home":"전북 현대","away":"울산 HD FC","score":"3-1"},{"date":"25.03.01","home":"울산 HD FC","away":"전북 현대","score":"1-0"}]'
+summary: "전북 현대는 시즌 전체 기준으로는 득점이 다소 낮고 승부를 길게 끌어가는 경향이 있지만, 울산 HD FC를 상대로는 최근 맞대결에서 더 단단한 운영을 보여 왔습니다. 울산 HD FC는 시즌 전체 전력과 득점 기대치에서 앞서는 편이지만, 최근 실점 관리가 흔들린 장면이 있어 전북의 압박과 전환에 고전할 여지도 있습니다. 두 팀의 맞대결 흐름까지 함께 보면 전북 현대가 수비 집중력과 상성 면에서 조금 더 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Bum-Keun Song (GK)|https://images.fotmob.com/image_resources/playerimages/848068.png","Tae-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/252178.png","Wi-Je Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1326507.png","Young-Bin Kim (DF)|https://images.fotmob.com/image_resources/playerimages/623910.png","Woo-Jin Choi (DF)|https://images.fotmob.com/image_resources/playerimages/1440173.png","Seong-Ung Maeng (MF)|https://images.fotmob.com/image_resources/playerimages/1026783.png","Jin-Gyu Kim (MF)|https://images.fotmob.com/image_resources/playerimages/622980.png","Dong-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/828272.png","Ye-Geon Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1988738.png","Seung-Woo Lee (FW)|https://images.fotmob.com/image_resources/playerimages/848098.png","Bruno Mota (FW)|https://images.fotmob.com/image_resources/playerimages/1060635.png"]'
+awayLineup: '["Hyeon-Woo Jo (GK)|https://images.fotmob.com/image_resources/playerimages/433265.png","Myeong-Kwan Seo (DF)|https://images.fotmob.com/image_resources/playerimages/1543595.png","Seung-Hyeon Jung (DF)|https://images.fotmob.com/image_resources/playerimages/631622.png","Young-Gwon Kim (DF)|https://images.fotmob.com/image_resources/playerimages/196261.png","Si-Young Jang (MF)|https://images.fotmob.com/image_resources/playerimages/1430779.png","Gyu-Sung Lee (MF)|https://images.fotmob.com/image_resources/playerimages/622124.png","Thomas Kotte (MF)|https://images.fotmob.com/image_resources/playerimages/660154.png","Hyun-Taek Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1136082.png","Jin-Hyun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/848096.png","Dong-Gyeong Lee (FW)|https://images.fotmob.com/image_resources/playerimages/954131.png","Sang-Woo Kang (FW)|https://images.fotmob.com/image_resources/playerimages/528168.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "3-4-3"
+homeCoach: "Jeong-Yong Jung|https://images.fotmob.com/image_resources/playerimages/1136248.png"
+awayCoach: "Hyun-Seok Kim|https://images.fotmob.com/image_resources/playerimages/1696271.png"
+pickWinTeam: "전북 현대"
+pickWinResult: "승"
+pickHandicapTeam: "전북 현대"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "선전 신청펑 vs 저장 뤼청 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | Super League - 픽천국"
+date: 2026-08-22T11:35:00.000Z
+description: "선전 신청펑 vs 저장 뤼청 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186591-2026-08-22-shenzhen-peng-city"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "선전 신청펑"
+awayTeam: "저장 뤼청"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/930027.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/51443.png"
+homeAnalysis: "선전 신청펑은 2026시즌 최근 19경기 5승 4무 10패, 평균 득점 1.1로 전체적으로 기복이 있는 전력입니다. 최근 흐름에서도 승리와 패배가 크게 엇갈리고 있어, 공격에서 한 번 흐름을 타면 가능성을 보이지만 안정적인 득점 지속성은 아쉬운 편입니다. 다만 홈에서는 수비 밸런스를 앞세워 버티는 장면을 만들 수 있고, 전방에서는 알비온 아데미와 웨슬리의 움직임이 득점 기대를 키워주고 있습니다. 중원에서는 에덴 카르제프와 팀 차우가 템포를 잡아주느냐가 중요하고, 이 연결이 살아나면 공격 전개가 한층 매끄러워질 수 있습니다. 감독 로비 닐슨 체제에서는 홈에서 먼저 실점을 줄이면서 경기를 길게 가져가는 운영이 특히 주목할 만합니다."
+awayAnalysis: "저장 뤼청은 2026시즌 최근 15경기 3승 5무 7패, 평균 득점 1.7로 공격 생산성은 나쁘지 않지만 결과로 이어지는 힘은 부족한 편입니다. 최근 경기에서도 득점은 꾸준히 만들고 있으나 수비가 흔들리며 경기를 지키지 못하는 장면이 반복되고 있습니다. 원정에서는 경기 주도권을 잡아도 뒷공간 관리가 불안해 실점 위험이 커지고 있으며, 이런 부분이 전력의 가장 큰 약점으로 보입니다. 다만 알렉산드루 미트리차와 펠리페 카드소, 유동 왕이 전방에서 연계와 마무리를 동시에 맡을 수 있어 순간적인 화력은 분명히 있습니다. 로스 알로이시 감독 체제에서는 공격 전환은 날카롭지만, 수비 라인의 집중력이 받쳐줘야 승부를 끝까지 끌고 갈 수 있습니다."
+homePower: "홈에서 버티는 운영이 상대 흔들 때 강점으로 보임|알비온 아데미-웨슬리 조합의 전환 속도 기대됨|에덴 카르제프 중심 중원 장악 여부가 핵심임|득점 기복은 있으나 홈 실점 억제 시 승산 높음|로비 닐슨 감독의 실리적 운영이 변수로 작용함"
+awayPower: "저장 뤼청은 전방 자원은 풍부해 보임|알렉산드루 미트리차의 창의성이 공격 해법임|펠리페 카드소의 마무리 감각이 승부 가를 수 있음|득점력 대비 수비 불안이 성적 발목 잡는 구조임|로스 알로이시 감독의 공격 중심 운영이 확인됨"
+h2h: '[{"date":"26.05.02","home":"저장 뤼청","away":"선전 신청펑","score":"2-1","link":"https://pick79.com/posts/detail/analyze-1523129-2026-05-02-hangzhou-greentown/"},{"date":"25.08.03","home":"선전 신청펑","away":"저장 뤼청","score":"2-4"},{"date":"25.04.01","home":"저장 뤼청","away":"선전 신청펑","score":"3-0"},{"date":"24.06.25","home":"선전 신청펑","away":"저장 뤼청","score":"3-2"},{"date":"24.03.03","home":"저장 뤼청","away":"선전 신청펑","score":"1-0"}]'
+summary: "선전 신청펑은 시즌 전체 성적과 득점 흐름을 보면 안정감은 부족하지만, 홈에서는 수비를 먼저 세우며 승부를 길게 끌고 갈 여지가 있습니다. 저장 뤼청은 평균 득점이 더 높아 공격 전개는 나쁘지 않지만, 최근 결과 흐름을 보면 실점 관리가 약해 좋은 흐름을 끝까지 이어가기가 쉽지 않아 보입니다. 맞대결에서도 저장 뤼청이 우세한 구간이 더 자주 확인되고 있어, 전반적인 전력 균형은 원정팀 쪽에 조금 더 기울어 있습니다. 다만 선전 신청펑이 홈에서 초반 실점을 억제하면 접전 양상으로 이어질 가능성도 충분히 있습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Peng Peng (GK)|https://images.fotmob.com/image_resources/playerimages/19716.png","Miao Tang (DF)|https://images.fotmob.com/image_resources/playerimages/432356.png","Yiming Yang (DF)|https://images.fotmob.com/image_resources/playerimages/730983.png","Gabriel Xavier (DF)|https://images.fotmob.com/image_resources/playerimages/1384473.png","Zhijian Xuan (DF)|https://images.fotmob.com/image_resources/playerimages/1624755.png","Eden Karzev (MF)|https://images.fotmob.com/image_resources/playerimages/933534.png","Zhipeng Jiang (DF)|https://images.fotmob.com/image_resources/playerimages/259243.png","Yufeng Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/925237.png","Tim Chow (MF)|https://images.fotmob.com/image_resources/playerimages/425591.png","Albion Ademi (FW)|https://images.fotmob.com/image_resources/playerimages/648151.png","Wesley (FW)|https://images.fotmob.com/image_resources/playerimages/656562.png"]'
+awayLineup: '["Bo Zhao (GK)|https://images.fotmob.com/image_resources/playerimages/525775.png","Junchi Xu (DF)|https://images.fotmob.com/image_resources/playerimages/1485318.png","Aihui Zhang (DF)|https://images.fotmob.com/image_resources/playerimages/1785467.png","Lucas Possignolo (DF)|https://images.fotmob.com/image_resources/playerimages/522587.png","Haofan Liu (DF)|https://images.fotmob.com/image_resources/playerimages/1366784.png","Jin Cheng (MF)|https://images.fotmob.com/image_resources/playerimages/539074.png","Jin-Seob Park (MF)|https://images.fotmob.com/image_resources/playerimages/925647.png","Qianglong Tao (FW)|https://images.fotmob.com/image_resources/playerimages/1027306.png","Alexandru Mitrita (MF)|https://images.fotmob.com/image_resources/playerimages/445953.png","Yudong Wang (FW)|https://images.fotmob.com/image_resources/playerimages/1515735.png","Felippe Cardoso (FW)|https://images.fotmob.com/image_resources/playerimages/916351.png"]'
+homeFormation: "4-1-4-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Robbie Neilson|https://images.fotmob.com/image_resources/playerimages/32563.png"
+awayCoach: "Ross Aloisi|https://images.fotmob.com/image_resources/playerimages/70057.png"
+pickWinTeam: "저장 뤼청"
+pickWinResult: "승"
+pickHandicapTeam: "저장 뤼청"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

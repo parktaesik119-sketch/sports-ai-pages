@@ -1,0 +1,37 @@
+---
+title: "노팅엄 포레스트 vs 리즈 유나이티드 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | 프리미어리그 - 픽천국"
+date: 2026-08-22T14:00:00.000Z
+description: "노팅엄 포레스트 vs 리즈 유나이티드 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5795367-2026-08-22-nottm-forest"
+category: "soccer"
+country: "잉글랜드"
+league: "프리미어리그"
+homeTeam: "노팅엄 포레스트"
+awayTeam: "리즈 유나이티드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png"
+homeAnalysis: "노팅엄 포레스트는 2026시즌 최근 17경기 6승 4무 7패, 평균 득점 1.3으로 득점은 과하지 않지만 경기마다 버티는 힘이 살아 있는 팀입니다. 최근에는 브레스트전 2득점 무실점 승리와 레버쿠젠전 2대1 승리처럼 전방 완성도가 올라오는 장면이 보였고, 바르셀로나전과 우디네세전 패배처럼 상대 수준이 높아지면 실점 억제가 흔들리는 모습도 있었습니다. 홈에서는 울버햄프턴, 뉴캐슬, 애스턴 빌라전처럼 팽팽한 흐름을 자주 만들며, 수비 조직을 바탕으로 경기 템포를 조절하는 힘이 돋보입니다. 다만 공격에서는 모건 깁스 화이트와 단 요베가 연결될 때 효율이 올라가지만, 마무리 기복이 남아 있어 꾸준한 다득점보다는 한두 번의 찬스를 살리는 쪽에 가깝습니다. 니콜로 사보나의 결장은 측면 뎁스를 다소 줄일 수 있지만, 올리버 글라스너 감독 체제에서 미루뇨와 밀렌코비치, 셀스로 이어지는 수비 축은 여전히 안정감이 있습니다."
+awayAnalysis: "리즈 유나이티드는 2026시즌 최근 10경기 6승 1무 3패, 평균 득점 1.8로 더 높은 화력과 빠른 전환이 강점인 팀입니다. 최근에는 아우크스부르크전 4득점 무실점 승리와 리버풀전 4대2 승리처럼 강팀 상대로도 공격 효율을 크게 끌어올렸고, 맨체스터 유나이티드전 1대1 무승부에서도 쉽게 밀리지 않았습니다. 다만 원정에서는 웨스트햄전 0대3 패배와 첼시전 무득점 패배처럼 상대 압박이 강해지면 전개가 끊기는 장면이 있었고, 수비 집중력은 경기별 편차가 보입니다. 도미닉 칼버트 르윈과 해리 윌슨, 브렌던 애런슨의 움직임은 전방에서 위협적이지만, 일리아 그리고레프와 루카스 페리, 가브리엘 구드문드손, 마테오 요제프, 윌프리드 은곤토의 결장은 공격과 수비 균형 모두에 부담이 됩니다. 다니엘 파르케 감독은 미드필드 압박과 빠른 측면 전개를 살리고 있으나, 결장자가 많은 상황에서는 후반 운영의 안정감이 관건으로 보입니다."
+homePower: "홈에서 수비 간격 유지가 잘 되는 편임|깁스 화이트 중심의 전진 연결이 핵심임|미루뇨-밀렌코비치 축으로 버티는 힘 있음|사보나 이탈로 측면 교체 폭은 다소 축소됨|한 번 리드 잡으면 운영력이 살아나는 편임"
+awayPower: "리즈 유나이티드는 전환 속도로 찬스를 만드는 팀임|칼버트 르윈의 제공권 활용이 뚜렷함|애런슨과 윌슨의 침투로 뒷공간 공략 보임|주요 결장자 다수로 전력 유지가 변수임|원정에서도 득점 기대치가 높은 편으로 보임"
+h2h: '[{"date":"26.02.07","home":"리즈 유나이티드","away":"노팅엄 포레스트","score":"3-1"},{"date":"25.11.09","home":"노팅엄 포레스트","away":"리즈 유나이티드","score":"3-1"},{"date":"23.07.28","home":"노팅엄 포레스트","away":"리즈 유나이티드","score":"0-2"},{"date":"23.04.05","home":"리즈 유나이티드","away":"노팅엄 포레스트","score":"2-1"},{"date":"23.02.05","home":"노팅엄 포레스트","away":"리즈 유나이티드","score":"1-0"}]'
+summary: "노팅엄 포레스트는 시즌 전체 흐름상 득점이 폭발적이진 않지만 수비 조직과 홈 운영에서 안정감을 보여주는 팀입니다. 리즈 유나이티드는 더 높은 평균 득점과 공격 전개 속도를 바탕으로 최근 전력의 위력이 분명하고, 특히 강한 상대를 상대로도 득점 생산이 가능하다는 점이 돋보입니다. 다만 리즈 유나이티드는 주요 결장자가 많아 전방과 수비 모두 균형이 흔들릴 수 있고, 노팅엄 포레스트는 홈에서 버티는 힘이 있어 경기 흐름을 길게 가져갈 가능성이 높습니다. 맞대결 흐름까지 함께 보면 서로 득점이 오가는 장면이 자주 나왔던 편이라, 전체 전력과 결장 상황을 감안할 때는 노팅엄 포레스트가 조금 더 유리한 쪽으로 읽힙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Nicolò Savona (무릎 부상)"
+injuryAway: "Ilia Gruev (연골 파열)|Lucas Perri (충돌 부상)|Gabriel Gudmundsson (햄스트링 부상)|Mateo Joseph (무릎 부상)|Wilfried Gnonto (햄스트링 부상)"
+homeLineup: '["Matz Sels (GK)|https://images.fotmob.com/image_resources/playerimages/181069.png","Ousmane Diomande (DF)|https://images.fotmob.com/image_resources/playerimages/1425182.png","Nikola Milenkovic (DF)|https://images.fotmob.com/image_resources/playerimages/766611.png","Murillo (DF)|https://images.fotmob.com/image_resources/playerimages/1458711.png","Ola Aina (DF)|https://images.fotmob.com/image_resources/playerimages/682548.png","Xaver Schlager (MF)|https://images.fotmob.com/image_resources/playerimages/620027.png","Ibrahim Sangaré (MF)|https://images.fotmob.com/image_resources/playerimages/795371.png","Neco Williams (DF)|https://images.fotmob.com/image_resources/playerimages/1078788.png","Dan Ndoye (FW)|https://images.fotmob.com/image_resources/playerimages/1022649.png","Morgan Gibbs-White (MF)|https://images.fotmob.com/image_resources/playerimages/789502.png","Igor Jesus (FW)|https://images.fotmob.com/image_resources/playerimages/1082102.png"]'
+awayLineup: '["James Trafford (GK)|https://images.fotmob.com/image_resources/playerimages/1187213.png","Joe Rodon (DF)|https://images.fotmob.com/image_resources/playerimages/717174.png","Jaka Bijol (DF)|https://images.fotmob.com/image_resources/playerimages/861805.png","Tarik Muharemovic (DF)|https://images.fotmob.com/image_resources/playerimages/1250485.png","Jayden Bogle (MF)|https://images.fotmob.com/image_resources/playerimages/789646.png","Ethan Ampadu (MF)|https://images.fotmob.com/image_resources/playerimages/780432.png","Anton Stach (MF)|https://images.fotmob.com/image_resources/playerimages/881735.png","James Justin (DF)|https://images.fotmob.com/image_resources/playerimages/710158.png","Harry Wilson (FW)|https://images.fotmob.com/image_resources/playerimages/494417.png","Dominic Calvert-Lewin (FW)|https://images.fotmob.com/image_resources/playerimages/612150.png","Brenden Aaronson (MF)|https://images.fotmob.com/image_resources/playerimages/952322.png"]'
+homeFormation: "3-4-2-1"
+awayFormation: "3-4-3"
+homeCoach: "Oliver Glasner|https://images.fotmob.com/image_resources/playerimages/43009.png"
+awayCoach: "Daniel Farke|https://images.fotmob.com/image_resources/playerimages/849545.png"
+pickWinTeam: "노팅엄 포레스트"
+pickWinResult: "승"
+pickHandicapTeam: "노팅엄 포레스트"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

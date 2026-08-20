@@ -1,0 +1,37 @@
+---
+title: "청두 룽청 vs 상하이 선화 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | Super League - 픽천국"
+date: 2026-08-22T11:35:00.000Z
+description: "청두 룽청 vs 상하이 선화 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186590-2026-08-22-chengdu-rongcheng-fc"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "청두 룽청"
+awayTeam: "상하이 선화"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/737052.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6628.png"
+homeAnalysis: "청두 룽청은 2026시즌 최근 17경기 7승 7무 3패, 평균 득점 1.5로 안정적인 전력을 이어가고 있습니다. 최근에는 대체로 실점을 크게 늘리지 않으면서도 경기마다 득점을 만들어내는 흐름이 살아 있고, 특히 상위권 상대를 상대로도 버티는 힘이 돋보입니다. 홈에서는 경기 운영이 한층 더 단단해지는 편이라, 수비 조직을 바탕으로 주도권을 잡아가는 모습이 강점으로 평가됩니다. 공격에서는 웰링턴 실바와 펠리페가 전방에서 연결고리를 만들고, 왕즈밍과 시하오 웨이가 공간 활용에 힘을 보태는 구조가 기대됩니다. 존 소리가 있는 수비진과 디안주오 류 골키퍼의 안정감이 받쳐주면, 최근처럼 한 번의 기회를 살려 흐름을 가져오는 전개가 충분히 가능합니다."
+awayAnalysis: "상하이 선화는 2026시즌 최근 18경기 7승 3무 8패, 평균 득점 1.7로 공격력은 분명하지만 전력의 기복이 함께 드러나고 있습니다. 최근에는 대승과 완패가 함께 섞여 있어 흐름의 폭이 큰 편이며, 득점이 터질 때는 강하지만 수비가 흔들리면 경기 전체가 급격히 어려워집니다. 원정에서는 안정적으로 밀어붙이는 힘보다 상대 실수를 끌어내는 장면이 중요해 보이고, 경기 초반 실점 여부가 전반 흐름을 좌우할 가능성이 큽니다. 루이스 아수에와 라파엘 라타오의 투톱은 마무리 위협이 분명하고, 조아오 테이셰이라가 중원에서 연결을 살리면 공격 전개는 살아날 수 있습니다. 다만 윌슨 마나파와 진청 주가 버티는 수비선이 흔들릴 경우, 경기 후반으로 갈수록 부담이 커질 수 있습니다."
+homePower: "홈에서 실점 억제 후 반격 전개가 잘 맞음|상대전적 우세가 심리적 자신감으로 이어짐|펠리페-웰링턴 실바 연계가 공격 축임|수비진 집중력이 경기 운영의 핵심임|한 골 차 승부로 끌고 가는 힘이 검증됨"
+awayPower: "공격 전개는 빠르지만 기복이 큰 편임|루이스 아수에-라파엘 라타오 득점 의존도 높음|원정에서는 수비 흔들림이 변수로 작용함|조아오 테이셰이라의 연결이 살아야 힘이 남음|득점이 나와도 경기 관리가 불안정해 보임"
+h2h: '[{"date":"26.05.01","home":"상하이 선화","away":"청두 룽청","score":"2-3","link":"https://pick79.com/posts/detail/analyze-1523127-2026-05-01-shanghai-shenhua/"},{"date":"25.09.21","home":"상하이 선화","away":"청두 룽청","score":"1-1"},{"date":"25.05.02","home":"청두 룽청","away":"상하이 선화","score":"1-0"},{"date":"24.11.02","home":"청두 룽청","away":"상하이 선화","score":"1-2"},{"date":"24.06.16","home":"상하이 선화","away":"청두 룽청","score":"1-1"}]'
+summary: "청두 룽청은 시즌 전체 전력과 최근 흐름이 모두 안정적인 편이라, 경기 운영에서 한 박자 더 여유를 보일 가능성이 높습니다. 상하이 선화는 득점력 자체는 괜찮지만 전력의 출렁임이 커서, 초반부터 압박을 받으면 수비와 전개가 동시에 흔들릴 수 있습니다. 맞대결 흐름에서도 청두 룽청이 꾸준히 버티며 강한 모습을 보여왔기 때문에, 이번 경기 역시 홈팀이 더 우세한 흐름을 만들 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Dianzuo Liu (GK)|https://images.fotmob.com/image_resources/playerimages/259250.png","Yiran He (DF)|https://images.fotmob.com/image_resources/playerimages/1365941.png","Pengfei Han (DF)|https://images.fotmob.com/image_resources/playerimages/678682.png","Egor Sorokin (DF)|https://images.fotmob.com/image_resources/playerimages/581546.png","Hetao Hu (DF)|https://images.fotmob.com/image_resources/playerimages/1365942.png","Ming-Yang Yang (MF)|https://images.fotmob.com/image_resources/playerimages/462945.png","Jussa (MF)|https://images.fotmob.com/image_resources/playerimages/1173677.png","Wellington Silva (MF)|https://images.fotmob.com/image_resources/playerimages/202220.png","Ziming Wang (FW)|https://images.fotmob.com/image_resources/playerimages/915251.png","Shihao Wei (FW)|https://images.fotmob.com/image_resources/playerimages/570357.png","Felipe (FW)|https://images.fotmob.com/image_resources/playerimages/952015.png"]'
+awayLineup: '["Qinghao Xue (GK)|https://images.fotmob.com/image_resources/playerimages/1168703.png","Wilson Manafá (DF)|https://images.fotmob.com/image_resources/playerimages/522643.png","Songyi Li (DF)|https://images.fotmob.com/image_resources/playerimages/432729.png","Chenjie Zhu (DF)|https://images.fotmob.com/image_resources/playerimages/950198.png","Shinichi Chan (DF)|https://images.fotmob.com/image_resources/playerimages/1258644.png","Haijian Wang (MF)|https://images.fotmob.com/image_resources/playerimages/1060870.png","Tianyi Gao (MF)|https://images.fotmob.com/image_resources/playerimages/825224.png","Xi Wu (MF)|https://images.fotmob.com/image_resources/playerimages/252107.png","João Teixeira (MF)|https://images.fotmob.com/image_resources/playerimages/299258.png","Luis Asué (FW)|https://images.fotmob.com/image_resources/playerimages/1088749.png","Rafael Ratão (FW)|https://images.fotmob.com/image_resources/playerimages/490656.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "John Aloisi|https://images.fotmob.com/image_resources/playerimages/30634.png"
+awayCoach: "Leonid Slutsky|https://images.fotmob.com/image_resources/playerimages/180789.png"
+pickWinTeam: "청두 룽청"
+pickWinResult: "승"
+pickHandicapTeam: "청두 룽청"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
