@@ -16,9 +16,9 @@ homePower: "최근 맞대결 열세로 심리 부담이 큼|득점은 나오지�
 awayPower: "최근 경기에서 승부처 마무리 완성도 높음|실점 억제와 득점 균형이 안정적으로 유지됨|드로에다 유나이티드 상대로 상성 우위 확인됨|원정에서도 경기 운영 흔들림이 크지 않음|결장 공백 없어 전력 유지력 검증됨"
 h2h: '[{"date":"26.06.13","home":"St. Patrick’s Athletic","away":"드로에다 유나이티드","score":"2-0"},{"date":"26.04.18","home":"드로에다 유나이티드","away":"St. Patrick’s Athletic","score":"1-3"},{"date":"26.03.14","home":"St. Patrick’s Athletic","away":"드로에다 유나이티드","score":"4-1"},{"date":"25.08.23","home":"드로에다 유나이티드","away":"St. Patrick’s Athletic","score":"0-1"},{"date":"25.06.14","home":"St. Patrick’s Athletic","away":"드로에다 유나이티드","score":"0-0"}]'
 summary: "세인트 패트릭스 애슬레틱은 최근 흐름과 시즌 평균 득점에서 모두 한발 앞선 전력을 보여주고 있습니다. 드로에다 유나이티드도 시즌 전체 성적이 나쁘지 않고 홈에서 쉽게 무너지지 않는 면이 있지만, 맞대결 흐름에서는 세인트 패트릭스 애슬레틱이 꾸준히 우위를 잡아왔습니다. 득점과 실점의 균형, 그리고 상대전적에서 확인되는 안정감까지 고려하면 이번 경기는 원정팀이 더 주도권을 쥘 가능성이 높아 보입니다."
-homeRecent: '[]'
+homeRecent: "[{\"date\":\"26.08.16\",\"home\":\"College Corinthians\",\"away\":\"Drogheda United\",\"score\":\"0-3\",\"result\":\"🟢승\"},{\"date\":\"26.08.08\",\"home\":\"Galway United FC\",\"away\":\"Drogheda United\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.01\",\"home\":\"Drogheda United\",\"away\":\"Shamrock Rovers\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.07.26\",\"home\":\"Sligo Rovers\",\"away\":\"Drogheda United\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.07.18\",\"home\":\"Drogheda United\",\"away\":\"Lucan United\",\"score\":\"4-0\",\"result\":\"🟢승\"}]"
 awayRecent: '[{"date":"26.08.16","home":"St. Patrick’s Athletic","away":"섐록 로버스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5960278-2026-08-16-st-patricks-athletic/"},{"date":"26.08.10","home":"셸번","away":"St. Patrick’s Athletic","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100944-2026-08-10-shelbourne/"},{"date":"26.08.03","home":"St. Patrick’s Athletic","away":"데리 시티","score":"1-1","result":"🟡무"},{"date":"26.07.25","home":"St. Patrick’s Athletic","away":"던돌크","score":"1-1","result":"🟡무"},{"date":"26.07.18","home":"St. Patrick’s Athletic","away":"Wexford FC","score":"2-1","result":"🟢승"}]'
-injuryHome: "Ethan O'Brien (근육 부상)|Owen Lambe (다리 부상)"
+injuryHome: "Ethan O'Brien[주요](근육 부상 - 복귀예정 About 1-2 weeks) | Owen Lambe[주요](다리 부상 - 복귀예정 Unknown)"
 injuryAway: "없음"
 homeLineup: ''
 awayLineup: ''

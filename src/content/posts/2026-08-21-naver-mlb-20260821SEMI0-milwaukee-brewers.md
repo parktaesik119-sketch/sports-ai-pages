@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.19","home":"밀워키 브루어스","away":"시애�
 awayRecent: '[{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"},{"date":"26.08.17","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SEHO0-2026-08-17-houston-astros/"},{"date":"26.08.16","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SEHO0-2026-08-16-houston-astros/"},{"date":"26.08.14","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814SENY0-2026-08-14-new-york-yankees/"},{"date":"26.08.13","home":"뉴욕 양키즈","away":"시애틀 매리너스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813SENY0-2026-08-13-new-york-yankees/"}]'
 injuryHome: "Garrett Mitchell (통증)|Joel Kuhnel (건염)|Sal Frelick (염좌)|Abner Uribe (염좌)|JoJo Romero (결장)"
 injuryAway: "Carlos Vargas (염좌)|Bryan Woo (결장)|Cole Wilcox (염좌)|J.P. Crawford (염증)|Colt Emerson (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Gasser (3-5, 4.54) ERA 4.54|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
+awayLineup: "[\"선발투수 G. Kirby (8-9, 3.89) ERA 3.89|https://a.espncdn.com/i/headshots/mlb/players/full/42406.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -19,7 +19,7 @@ summary: "베르더 브레멘이 시즌 전력과 최근 득점 흐름에서 분
 homeRecent: '[{"date":"22.05.29","home":"FC Hansa Lüneburg","away":"1. FC Phönix Lübeck","score":"0-4","result":"🔴패"},{"date":"22.05.21","home":"Eintracht Norderstedt","away":"FC Hansa Lüneburg","score":"1-0","result":"🔴패"},{"date":"22.05.15","home":"FC Hansa Lüneburg","away":"St. Pauli II","score":"0-3","result":"🔴패"},{"date":"22.05.07","home":"SV Drochtersen/Assel","away":"FC Hansa Lüneburg","score":"0-1","result":"🟢승"},{"date":"22.05.01","home":"FC Hansa Lüneburg","away":"Altonaer FC 93","score":"1-1","result":"🟡무"}]'
 awayRecent: '[{"date":"26.08.01","home":"Energie Cottbus","away":"베르더 브레멘","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546748-2026-08-01-energie-cottbus/"},{"date":"26.07.25","home":"베르더 브레멘","away":"보훔","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1562987-2026-07-25-werder-bremen/"},{"date":"26.07.23","home":"베르더 브레멘","away":"파지아노 오카야마","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1562955-2026-07-23-werder-bremen/"},{"date":"26.07.18","home":"Verden 04","away":"베르더 브레멘","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546689-2026-07-18-verden-04/"},{"date":"26.05.16","home":"베르더 브레멘","away":"보루시아 도르트문트","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1388613-2026-05-16-werder-bremen/"}]'
 injuryHome: "없음"
-injuryAway: "Alexander Schlager (병)|Felix Agu (종아리 부상)|Keke Topp (십자 인대 부상)"
+injuryAway: "Alexander Schlager[주요](병 - 복귀예정 Doubtful) | Felix Agu[주요](종아리 부상 - 복귀예정 Early September 2026) | Keke Topp[주요](십자 인대 부상 - 복귀예정 Early January 2027)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

@@ -19,7 +19,7 @@ summary: "레알 사라고사는 최근 전력에서 득점력이 무겁고 흐�
 homeRecent: '[{"date":"26.06.01","home":"Real Zaragoza","away":"말라가","score":"0-2","result":"🔴패"},{"date":"26.05.25","home":"라스팔마스","away":"Real Zaragoza","score":"1-1","result":"🟡무"},{"date":"26.05.18","home":"Real Zaragoza","away":"Sporting Gijon","score":"1-3","result":"🔴패"},{"date":"26.05.10","home":"바야돌리드","away":"Real Zaragoza","score":"2-0","result":"🔴패"},{"date":"26.05.02","home":"Real Zaragoza","away":"Granada","score":"0-1","result":"🔴패"}]'
 awayRecent: '[{"date":"26.08.15","home":"아탈란타","away":"아틀레틱 클럽","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5997768-2026-08-15-atalanta/"},{"date":"26.08.10","home":"마르세유","away":"아틀레틱 클럽","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5973923-2026-08-10-marseille/"},{"date":"26.08.02","home":"부르고스","away":"아틀레틱 클럽","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1583588-2026-08-02-burgos/"},{"date":"26.07.30","home":"레이싱 산탄데르","away":"아틀레틱 클럽","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1583484-2026-07-30-racing-santander/"},{"date":"26.07.26","home":"아틀레틱 클럽","away":"에이바르","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1584977-2026-07-26-athletic-club/"}]'
 injuryHome: "없음"
-injuryAway: "Daniel Vivian (햄스트링 부상)|Unai Egiluz (십자인대 부상)"
+injuryAway: "Daniel Vivian[주요](햄스트링 부상 - 복귀예정 Early September 2026) | Unai Egiluz[주요](십자 인대 부상 - 복귀예정 Mid January 2027)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

@@ -19,7 +19,7 @@ summary: "DJK Teutonia St. Tönis는 시즌 전체 수치가 아직 드러나지
 homeRecent: '[]'
 awayRecent: '[{"date":"26.08.15","home":"브렌트퍼드","away":"Frankfurt","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5765428-2026-08-15-brentford/"},{"date":"26.08.13","home":"Frankfurt","away":"FSV Frankfurt","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5958628-2026-08-13-frankfurt/"},{"date":"26.08.08","home":"Frankfurt","away":"헐 시티","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5952840-2026-08-08-frankfurt/"},{"date":"26.04.25","home":"Augsburg","away":"Frankfurt","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-4829585-2026-04-25-augsburg/"}]'
 injuryHome: "없음"
-injuryAway: "Jessic Ngankam (허벅지 부상)|Nnamdi Collins (등 부상)"
+injuryAway: "Jessic Ngankam[주요](허벅지 부상 - 복귀예정 Mid September 2026) | Nnamdi Collins[주요](등 부상 - 복귀예정 About 1-2 weeks)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

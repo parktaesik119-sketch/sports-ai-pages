@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.19","home":"캔자스시티 로열스","away":"애�
 awayRecent: '[{"date":"26.08.19","home":"캔자스시티 로열스","away":"애슬레틱스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819OAKC0-2026-08-19-kansas-city-royals/"},{"date":"26.08.18","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818OAKC0-2026-08-18-kansas-city-royals/"},{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레인저스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817TEOA0-2026-08-17-athletics/"},{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레인저스","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.08.13","home":"애슬레틱스","away":"탬파베이 레이스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TBOA0-2026-08-13-athletics/"}]'
 injuryHome: "Jac Caglianone (타박상)|Beck Way (경련)|Tony Gonsolin (수술)|Connor Seabold (근육통)|Carlos Estevez (근육통)"
 injuryAway: "Jacob Wilson (타박상)|Jose Suarez (근육통)|Brooks Kriske (신경 압박)|Denzel Clarke (근육통)|Joshua Kuroda-Grauer (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Dobnak (2-1, 1.73) ERA 1.73|https://a.espncdn.com/i/headshots/mlb/players/full/42214.png\"]"
+awayLineup: "[\"선발투수 G. Jump (5-7, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -16,10 +16,10 @@ homePower: "홈에서 공격 템포가 빨라지는 구조가 뚜렷함|주요 �
 awayPower: "접전 관리 능력이 살아 있어 쉽게 무너지지 않음|득점 기대치가 높지 않아도 한 방은 있음|강팀 상대로 수비 블록 유지가 비교적 견고함|원정에서 속도전보다 버티기 운영이 어울림|섐록 로버스 상대로도 상성상 맞붙을 만함"
 h2h: '[{"date":"26.06.13","home":"셸번","away":"섐록 로버스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-1492713-2026-06-13-shelbourne/"},{"date":"26.04.07","home":"섐록 로버스","away":"셸번","score":"3-2"},{"date":"26.03.10","home":"셸번","away":"섐록 로버스","score":"2-2"},{"date":"25.10.11","home":"섐록 로버스","away":"셸번","score":"0-1"},{"date":"25.06.14","home":"셸번","away":"섐록 로버스","score":"1-2"}]'
 summary: "섐록 로버스는 시즌 전체 전력과 득점 생산력에서 조금 더 앞서는 흐름을 보이고 있고, 셸번은 승부를 길게 끌며 균형을 맞추는 힘이 강한 팀입니다. 다만 최근 맞대결에서는 서로 득점을 주고받는 장면이 많았고, 접전 끝에 한쪽이 간신히 우세를 잡는 양상이 반복되고 있습니다. 이번 경기는 홈에서 공격 템포를 끌어올릴 수 있는 섐록 로버스가 조금 더 주도권을 잡을 가능성이 높아 보이며, 셸번은 수비 집중력과 역습 완성도로 맞서는 그림이 예상됩니다. 전체적으로는 섐록 로버스가 근소한 우위를 점할 가능성이 높지만, 셸번의 끈질긴 저항 때문에 쉽게 벌어지지는 않을 흐름입니다."
-homeRecent: '[]'
-awayRecent: '[]'
-injuryHome: "Roberto Lopes (부상)|Naj Razi (근육 부상)|John McGovern (충돌 부상)|Daniel Cleary (근육 부상)|Danny Grant (근육 부상)|Victor Ozhianvuna (근육 부상)"
-injuryAway: "Rodrigo Freitas (부상)|Ademipo Odubeko (충돌 부상)"
+homeRecent: "[{\"date\":\"26.08.16\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Shamrock Rovers\",\"score\":\"3-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.14\",\"home\":\"Egnatia\",\"away\":\"Shamrock Rovers\",\"score\":\"5-1\",\"result\":\"🔴패\"},{\"date\":\"26.08.08\",\"home\":\"Shamrock Rovers\",\"away\":\"Dundalk\",\"score\":\"3-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.05\",\"home\":\"Shamrock Rovers\",\"away\":\"Egnatia\",\"score\":\"3-1\",\"result\":\"🟢승\"},{\"date\":\"26.08.01\",\"home\":\"Drogheda United\",\"away\":\"Shamrock Rovers\",\"score\":\"0-0\",\"result\":\"🟡무\"}]"
+awayRecent: "[{\"date\":\"26.08.14\",\"home\":\"Shelbourne\",\"away\":\"Ajax\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.08.10\",\"home\":\"Shelbourne\",\"away\":\"St. Patrick's Athletic\",\"score\":\"1-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.07\",\"home\":\"Ajax\",\"away\":\"Shelbourne\",\"score\":\"3-1\",\"result\":\"🔴패\"},{\"date\":\"26.08.02\",\"home\":\"Waterford FC\",\"away\":\"Shelbourne\",\"score\":\"1-0\",\"result\":\"🔴패\"},{\"date\":\"26.07.31\",\"home\":\"Nomme JK Kalju\",\"away\":\"Shelbourne\",\"score\":\"2-1\",\"result\":\"🔴패\"}]"
+injuryHome: "Roberto Lopes[주요](부상 - 복귀예정 Late August 2026) | Naj Razi[주요](근육 부상 - 복귀예정 A few weeks) | John McGovern[주요](충돌 부상 - 복귀예정 A few weeks) | Daniel Cleary[주요](근육 부상 - 복귀예정 About 1-2 weeks) | Danny Grant[주요](근육 부상 - 복귀예정 A few weeks) | Victor Ozhianvuna[주요](근육 부상 - 복귀예정 A few weeks)"
+injuryAway: "Rodrigo Freitas[주요](부상 - 복귀예정 Late August 2026) | Ademipo Odubeko[주요](충돌 부상 - 복귀예정 Unknown)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

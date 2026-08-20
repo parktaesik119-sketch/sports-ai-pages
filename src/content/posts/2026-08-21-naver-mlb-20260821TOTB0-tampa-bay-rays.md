@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"탬파베이 레이스","away":"토론�
 awayRecent: '[{"date":"26.08.20","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820TOTB0-2026-08-20-tampa-bay-rays/"},{"date":"26.08.19","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819TOTB0-2026-08-19-tampa-bay-rays/"},{"date":"26.08.17","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817NYTO0-2026-08-17-toronto-blue-jays/"},{"date":"26.08.16","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816NYTO0-2026-08-16-toronto-blue-jays/"},{"date":"26.08.15","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815NYTO0-2026-08-15-toronto-blue-jays/"}]'
 injuryHome: "Jonathan Heasley (골절)|Manuel Rodriguez (수술)|Cole Sulser (경련)|Griffin Jax (통증)|Jake Fraley (수술)"
 injuryAway: "Brett Bateman (통증)|Ernie Clement (미정)|Spencer Arrighetti (신경 압박)|Vladimir Guerrero Jr. (뇌진탕)|Jonatan Clase (족저근막염)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 I. Seymour (9-3, 4.11) ERA 4.11|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
+awayLineup: "[\"선발투수 S. Bieber (4-2, 4.99) ERA 4.99|https://a.espncdn.com/i/headshots/mlb/players/full/40912.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -16,10 +16,10 @@ homePower: "홈에서 경기 주도는 가능하지만 마무리 효율이 흔�
 awayPower: "최근 연승으로 자신감과 경기 운영 안정감이 높음|득점 분산이 좋아 특정 선수 의존도가 낮아 보임|실점 억제가 잘 되며 리드 상황 관리가 강점임|Finlay Armstrong 이탈에도 팀 전반의 흐름은 견조함|슬라이고 로버스 상대 최근 우세가 뚜렷함"
 h2h: '[{"date":"26.06.13","home":"Waterford FC","away":"슬라이고 로버스","score":"4-0","link":"https://pick79.com/posts/detail/analyze-1492715-2026-06-13-waterford/"},{"date":"26.04.19","home":"슬라이고 로버스","away":"Waterford FC","score":"2-0"},{"date":"26.02.21","home":"Waterford FC","away":"슬라이고 로버스","score":"0-0"},{"date":"25.08.23","home":"Waterford FC","away":"슬라이고 로버스","score":"1-2"},{"date":"25.06.15","home":"슬라이고 로버스","away":"Waterford FC","score":"1-0"}]'
 summary: "워터퍼드 FC가 2026시즌 흐름과 맞대결 우위에서 모두 더 나은 전력을 보이고 있습니다. 슬라이고 로버스는 최근 득점 자체는 만들어내고 있지만, 실점 억제와 경기 마무리에서 흔들리는 장면이 잦아 전체적인 안정감이 떨어집니다. 반대로 워터퍼드 FC는 최근 경기에서 공격 효율과 수비 균형이 함께 살아나고 있어, 흐름을 이어갈 가능성이 높아 보입니다. 맞대결에서도 워터퍼드 FC의 대승이 한 차례 확인된 만큼, 이번 경기는 원정팀이 전력 우세를 바탕으로 주도권을 잡을 가능성이 높게 보입니다."
-homeRecent: '[]'
+homeRecent: "[{\"date\":\"26.08.16\",\"home\":\"Sligo Rovers\",\"away\":\"Kerry FC\",\"score\":\"4-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.08\",\"home\":\"Derry City\",\"away\":\"Sligo Rovers\",\"score\":\"2-0\",\"result\":\"🔴패\"},{\"date\":\"26.08.01\",\"home\":\"Dundalk\",\"away\":\"Sligo Rovers\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.07.26\",\"home\":\"Sligo Rovers\",\"away\":\"Drogheda United\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.07.19\",\"home\":\"Janesboro\",\"away\":\"Sligo Rovers\",\"score\":\"0-4\",\"result\":\"🟢승\"}]"
 awayRecent: '[{"date":"26.08.15","home":"Waterford FC","away":"Athlone Town","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5960280-2026-08-15-waterford-fc/"},{"date":"26.08.09","home":"Waterford FC","away":"보헤미안스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1492749-2026-08-09-waterford/"},{"date":"26.08.02","home":"Waterford FC","away":"셸번","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1492745-2026-08-02-waterford/"},{"date":"26.07.26","home":"Galway United FC","away":"Waterford FC","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1492738-2026-07-26-galway-united/"},{"date":"26.07.18","home":"Waterford FC","away":"Cobh Ramblers","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1548973-2026-07-18-waterford/"}]'
-injuryHome: "Conor Reynolds (엉덩이 부상)"
-injuryAway: "Finlay Armstrong (근육 부상)"
+injuryHome: "Conor Reynolds[주요](엉덩이 부상 - 복귀예정 A few weeks)"
+injuryAway: "Finlay Armstrong[주요](근육 부상 - 복귀예정 Unknown)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

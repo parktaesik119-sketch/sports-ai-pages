@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화
 awayRecent: '[{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"},{"date":"26.08.19","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ATMN0-2026-08-19-minnesota-twins/"},{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"},{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"},{"date":"26.08.16","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816AZAT0-2026-08-16-atlanta-braves/"}]'
 injuryHome: "Drew Thorpe (수술)|Chris Murphy (염좌)|Ky Bush (수술)|Davis Martin (결장)|Jordan Leasure (염좌)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Kay (9-5, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (7-5, 3.82) ERA 3.82|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
