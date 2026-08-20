@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.19","home":"신시내티 레즈","away":"세인트�
 injuryHome: "Tony Santillan (근육 염좌)|Brandon Williamson (통증)|Graham Ashcraft (염좌)|Spencer Steer (염좌)|Blake Dunn (수술)"
 injuryAway: "Ramon Urias (건염)|Max Rajcic (수술)"
 homeLineup: "[\"선발투수 B. Singer (5-11, 4.66) ERA 4.66|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
-awayLineup: "[\"선발투수 M. McGreevy (5-9, 3.48) ERA 3.48|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 M. McGreevy (5-9, 3.48) ERA 3.48|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\",\"1번 J. Wetherholt (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"4번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"5번 J. Baez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4920835.png\",\"6번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\",\"7번 B. Torres (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5125653.png\",\"8번 B. Jordan (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722953.png\",\"9번 J. Crooks (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4749675.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

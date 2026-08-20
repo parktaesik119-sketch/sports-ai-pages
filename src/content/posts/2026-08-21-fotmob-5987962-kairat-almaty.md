@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.08.15","home":"카이라트","away":"Ulytau","score":"
 awayRecent: '[{"date":"26.08.16","home":"SK Beveren","away":"안데를레흐트","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5811724-2026-08-16-sk-beveren/"},{"date":"26.08.14","home":"안데를레흐트","away":"PAOK","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5955035-2026-08-14-anderlecht/"},{"date":"26.08.10","home":"안데를레흐트","away":"라알 라 루비에르","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1558588-2026-08-10-anderlecht/"},{"date":"26.08.07","home":"PAOK","away":"안데를레흐트","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5955034-2026-08-07-paok-thessaloniki/"},{"date":"26.07.31","home":"안데를레흐트","away":"함마르뷔","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1556547-2026-07-31-anderlecht/"}]'
 injuryHome: "없음"
 injuryAway: "Killian Sardella[주요](근육 부상 - 복귀예정 Day to day) | Ilay Camara[주요](발 부상 - 복귀예정 Early September 2026) | Lucas Hey[주요](부상 - 복귀예정 Early January 2027) | Cedric Hatenboer[주요](부상 - 복귀예정 Unknown)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Temirlan Anarbekov (GK)|https://images.fotmob.com/image_resources/playerimages/1270388.png\",\"Erkin Tapalov (DF)|https://images.fotmob.com/image_resources/playerimages/988184.png\",\"Aleksandr Shirobokov (DF)|https://images.fotmob.com/image_resources/playerimages/1269250.png\",\"Lucas Áfrico (DF)|https://images.fotmob.com/image_resources/playerimages/953960.png\",\"Luís Mata (DF)|https://images.fotmob.com/image_resources/playerimages/470550.png\",\"Aleksandr Mrynskiy (DF)|https://images.fotmob.com/image_resources/playerimages/1780058.png\",\"Jaakko Oksanen (MF)|https://images.fotmob.com/image_resources/playerimages/891963.png\",\"Gustavo Mendonça (MF)|https://images.fotmob.com/image_resources/playerimages/1437425.png\",\"Oiva Jukkola (FW)|https://images.fotmob.com/image_resources/playerimages/1159195.png\",\"Marc Gual (FW)|https://images.fotmob.com/image_resources/playerimages/715303.png\",\"Edmilson Filho (FW)|https://images.fotmob.com/image_resources/playerimages/1402626.png\"]"
+awayLineup: "[\"Colin Coosemans (GK)|https://images.fotmob.com/image_resources/playerimages/208699.png\",\"Ali Maamar (DF)|https://images.fotmob.com/image_resources/playerimages/1693008.png\",\"Léo Pétrot (DF)|https://images.fotmob.com/image_resources/playerimages/708457.png\",\"Giulian Biancone (DF)|https://images.fotmob.com/image_resources/playerimages/990989.png\",\"Ludwig Augustinsson (DF)|https://images.fotmob.com/image_resources/playerimages/281857.png\",\"Lukás Ambros (MF)|https://images.fotmob.com/image_resources/playerimages/1412656.png\",\"Marco Kana (DF)|https://images.fotmob.com/image_resources/playerimages/1076974.png\",\"Enric Llansana (MF)|https://images.fotmob.com/image_resources/playerimages/1033342.png\",\"Mihajlo Cvetkovic (FW)|https://images.fotmob.com/image_resources/playerimages/1480699.png\",\"Danylo Sikan (FW)|https://images.fotmob.com/image_resources/playerimages/955572.png\",\"Joshua Nga Kana (MF)|https://images.fotmob.com/image_resources/playerimages/1817363.png\"]"
+homeFormation: "4-4-1-1"
+awayFormation: "4-3-3"
+homeCoach: "Rafael Urazbakhtin|https://images.fotmob.com/image_resources/playerimages/79708.png"
+awayCoach: "Vítor Bruno|https://images.fotmob.com/image_resources/playerimages/1330084.png"
 pickWinTeam: "카이라트"
 pickWinResult: "승"
 pickHandicapTeam: "카이라트"

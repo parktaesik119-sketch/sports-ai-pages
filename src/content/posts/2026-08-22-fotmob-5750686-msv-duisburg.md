@@ -19,7 +19,7 @@ summary: "MSV Duisburg는 2026시즌 전체 전적과 최근 흐름을 합쳐 �
 homeRecent: '[{"date":"26.08.15","home":"SC Verl","away":"MSV Duisburg","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5905866-2026-08-15-sc-verl/"},{"date":"26.08.08","home":"MSV Duisburg","away":"Meppen","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5905850-2026-08-08-msv-duisburg/"},{"date":"26.08.01","home":"스파르타 로테르담","away":"MSV Duisburg","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1550616-2026-08-01-sparta-rotterdam/"},{"date":"26.07.25","home":"아르미니아 빌레펠트","away":"MSV Duisburg","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1563011-2026-07-25-arminia-bielefeld/"},{"date":"26.07.23","home":"MSV Duisburg","away":"베이르스호트","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1560784-2026-07-23-msv-duisburg/"}]'
 awayRecent: '[{"date":"26.08.05","home":"Elversberg","away":"스트라스부르","score":"5-2","result":"🟢승"},{"date":"26.07.11","home":"FC 툰","away":"Elversberg","score":"1-1","result":"🟡무"},{"date":"26.05.17","home":"Elversberg","away":"Preussen Münster","score":"3-0","result":"🟢승"},{"date":"26.05.10","home":"포르투나 뒤셀도르프","away":"Elversberg","score":"3-1","result":"🔴패"},{"date":"26.05.03","home":"Elversberg","away":"Paderborn","score":"5-1","result":"🟢승"}]'
 injuryHome: "없음"
-injuryAway: "없음"
+injuryAway: "Tom Zimmerschied[주요](등 부상 - 복귀예정 A few weeks)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
