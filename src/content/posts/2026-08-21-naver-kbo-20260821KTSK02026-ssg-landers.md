@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.19","home":"삼성 라이온스","away":"SSG 랜더
 awayRecent: '[{"date":"26.08.19","home":"LG 트윈스","away":"KT 위즈","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819KTLG02026-2026-08-19-lg-twins/"},{"date":"26.08.18","home":"LG 트윈스","away":"KT 위즈","score":"9-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818KTLG02026-2026-08-18-lg-twins/"},{"date":"26.08.16","home":"KT 위즈","away":"키움 히어로즈","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816WOKT02026-2026-08-16-kt-wiz-suwon/"},{"date":"26.08.15","home":"KT 위즈","away":"키움 히어로즈","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815WOKT02026-2026-08-15-kt-wiz-suwon/"},{"date":"26.08.14","home":"KT 위즈","away":"키움 히어로즈","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814WOKT02026-2026-08-14-kt-wiz-suwon/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 정준재 (2루수)\",\"2번 최지훈 (중견수)\",\"3번 박성한 (유격수)\",\"4번 김재환 (지명타자)\",\"5번 전의산 (1루수)\",\"6번 한유섬 (우익수)\",\"7번 조형우 (포수)\",\"8번 김성욱 (좌익수)\",\"9번 안상현 (3루수)\"]"
-awayLineup: "[\"1번 최원준 (중견수)\",\"2번 김현수 (1루수)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (좌익수)\",\"5번 김민혁 (지명타자)\",\"6번 허경민 (3루수)\",\"7번 김상수 (2루수)\",\"8번 한승택 (포수)\",\"9번 권동진 (유격수)\"]"
+homeLineup: "[\"1번 정준재 (2루수)\",\"2번 최지훈 (중견수)\",\"3번 박성한 (유격수)\",\"4번 전의산 (1루수)\",\"5번 한유섬 (우익수)\",\"6번 김재환 (지명타자)\",\"7번 조형우 (포수)\",\"8번 안상현 (3루수)\",\"9번 임근우 (좌익수)\"]"
+awayLineup: "[\"1번 최원준 (중견수)\",\"2번 김현수 (1루수)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (좌익수)\",\"5번 허경민 (3루수)\",\"6번 류현인 (2루수)\",\"7번 이정범 (지명타자)\",\"8번 한승택 (포수)\",\"9번 권동진 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
