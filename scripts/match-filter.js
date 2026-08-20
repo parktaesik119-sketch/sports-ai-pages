@@ -13,6 +13,10 @@
 // 따로 존재하며 서서히 어긋나는 걸 막았다)
 
     const blockedLeagues = [  //대소문자 구분없음
+   // 잉글랜드 2부 / 독일 컵대회 (2026-08 추가 — 유명 5대리그 소속팀이 아니면 분석 제외 요청에 따라 통째로 차단)
+   // ⚠️ 단, essentialTeams 프리패스는 이 블락리스트보다 먼저 검사되므로, 이 리그 소속이라도
+   // 홈/원정 중 하나가 essentialTeams에 등록된 유명팀(분데스리가 등)이면 그 경기는 여전히 통과된다.
+  'CHAMPIONSHIP', 'DFB POKAL',
    // 성별 및 연령대 (Youth & Gender)
   'U21', 'U19', 'U18', 'U17', 'YOUTH', 'RESERVE', 'WOMEN', 'WOMAN', 'FEMALE', 'FRAUEN', 'FEMININE', 'FEMININE DIVISION 1', 'Femenil',
     // 하부 리그 명칭 (Lower Divisions)
@@ -90,6 +94,31 @@
     'Le Havre', 'Auxerre', 'Nice', 'Estac Troyes', 'Le Mans',
   ];
 
+  // ⚠️ 2부 강등 유명팀 프리패스 (2026-08 추가)
+  // 정책: 전세계 축구 리그는 원칙적으로 "1부만 분석" (K리그2는 예외로 무조건 통과, korea 변수 참고).
+  // 단, 5대리그(EPL/라리가/분데스리가/세리에A/리그1)에서 뛰다가 2부로 강등된 팀은
+  // "다시 1부로 올라올 가능성이 있는 강팀"으로 보고 예외적으로 프리패스한다.
+  // essentialTeams와 분리해둔 이유: essentialTeams는 "현재 1부 소속" 팀 목록이라
+  // 시즌마다(승격/강등) 갱신되는데, 이 목록은 "강등된 팀"만 따로 관리해야 다음 시즌에
+  // 승격하면 essentialTeams 쪽으로 옮기고 여기서 지우는 식으로 깔끔하게 유지보수할 수 있다.
+  // ⬇️ 새로 강등되는 팀이 생기면 이 배열에 한 줄만 추가하면 된다 (국가별 섹션에 맞춰서).
+  const relegatedFamousTeams = [
+    // 잉글랜드: EPL → Championship (2025-26 시즌 강등, 2026-27 챔피언십 소속)
+    'Wolverhampton', 'Wolves', 'Burnley', 'West Ham', 'West Ham United',
+
+    // 스페인: 라리가 → 세군다 디비전 (2025-26 시즌 강등)
+    'Real Oviedo', 'Oviedo', 'Girona', 'Girona FC', 'Mallorca', 'RCD Mallorca',
+
+    // 독일: 분데스리가 → 2.분데스리가 (2025-26 시즌 강등, 볼프스부르크는 승강 PO 패배)
+    'St. Pauli', 'FC St. Pauli', 'Heidenheim', '1. FC Heidenheim', 'Wolfsburg', 'VfL Wolfsburg',
+
+    // 이탈리아: 세리에A → 세리에B (2025-26 시즌 강등)
+    'Lecce', 'Pisa', 'Hellas Verona', 'Verona',
+
+    // 프랑스: 리그1 → 리그2 (2025-26 시즌 강등)
+    'Metz', 'FC Metz', 'Nantes', 'FC Nantes',
+  ];
+
   // ⚠️ 같은 팀명이 서로 다른 나라에 동시에 존재하는 경우가 있다.
   // 예: 'Arsenal' → 잉글랜드 프리미어리그 아스널 외에 러시아 2부(퍼스트 리그)에도
   // '아르세날 툴라'가 데이터상 그냥 "Arsenal"로 들어오는 경우가 있음 (2026-08 확인,
@@ -115,12 +144,18 @@
     return true;
   });
 
+  // 2부 강등 유명팀 프리패스 체크 (완전일치, essentialTeams와 동일한 방식)
+  const isRelegatedFamousTeam = relegatedFamousTeams.some(t => {
+    const target = t.toUpperCase().trim();
+    return upperHome === target || upperAway === target;
+  });
+
   // 1. 여기에 예외로 허용하고 싶은 여성/청소년 리그명을 대문자로 등록합니다.
 const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE','NATIONS LEAGUE WOMEN','WORLD CUP - WOMEN - QUALIFICATION EUROPE'];
 const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
 
   // [단계 1] 가장 먼저 여성/청소년 경기인지 확인 (최우선순위) - 있으면 무조건 차단
-  const isRestricted = !isEssentialTeam && !isAllowedWomenLeague && (upperLg.includes('WOMEN') || upperLg.includes('FRAUEN') || upperLg.includes('YOUTH') || upperLg.includes('RESERVE') || upperLg.includes('U15') || upperLg.includes('U16') || upperLg.includes('U17') || upperLg.includes('U18') || upperLg.includes('U19') || upperLg.includes('U20') || upperLg.includes('U21') || upperLg.includes('U23'));
+  const isRestricted = !isEssentialTeam && !isRelegatedFamousTeam && !isAllowedWomenLeague && (upperLg.includes('WOMEN') || upperLg.includes('FRAUEN') || upperLg.includes('YOUTH') || upperLg.includes('RESERVE') || upperLg.includes('U15') || upperLg.includes('U16') || upperLg.includes('U17') || upperLg.includes('U18') || upperLg.includes('U19') || upperLg.includes('U20') || upperLg.includes('U21') || upperLg.includes('U23'));
 
   // [단계 2] 제한 대상이면 아래 조건은 보지도 말고 즉시 종료
   if (isRestricted) {
@@ -202,7 +237,10 @@ if (isExtraFiltered) {
 
   // 프리패스 리그 작성 구간 (프리패스 리그는 전부 무조건 대문자로 적어야 함)
   // 1. 축구 주요 리그
-  const top5 = ['PREMIER LEAGUE', 'CHAMPIONSHIP', 'LA LIGA', 'SEGUNDA DIVISIÓN', 'BUNDESLIGA','PRIMEIRA LIGA', 'SERIE A', 'LIGUE 1', 'EREDIVISIE'].some(el => el === upperLg);
+  // ⚠️ 'CHAMPIONSHIP'(잉글랜드 2부)은 2026-08부터 blockedLeagues로 이동 — top5 프리패스에서 제외.
+  // ⚠️ 'SEGUNDA DIVISIÓN'(스페인 2부)도 2026-08부터 제외 — "전세계 2부는 원칙적으로 차단"
+  // 정책에 따라 여기서 빼고, 강등 유명팀만 relegatedFamousTeams로 통과시킨다.
+  const top5 = ['PREMIER LEAGUE', 'LA LIGA', 'BUNDESLIGA','PRIMEIRA LIGA', 'SERIE A', 'LIGUE 1', 'EREDIVISIE'].some(el => el === upperLg);
   const korea = ['KLEAGUE1', 'KLEAGUE2'].some(el => {
   // ⚠️ fotmob은 "K-League 1"처럼 하이픈을 쓴다(api-sports는 "K League1"). 공백뿐 아니라
   // 하이픈도 같이 지워야 두 표기 방식 다 매칭된다 (실사용 확인, 2026-08).
@@ -215,7 +253,10 @@ if (isExtraFiltered) {
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
   // ⚠️ 'FA CUP'은 여기서 제외했습니다 — FA Cup은 국가 상관없이 전부 통과되면 안 되고,
   // 위 countryLeagueWhitelist에 등록된 국가의 경기만 통과시켜야 해서 별도 처리합니다.
-  const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'J2/J3 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'TAIWAN FOOTBALL PREMIER LEAGUE','DFB POKAL', 'COPA LIBERTADORES','COPA LIBERTADORES 32TH FINALS','COPA LIBERTADORES 16TH FINALS','COPA LIBERTADORES 8TH FINALS','COPA LIBERTADORES 4TH FINALS','COPA LIBERTADORES SEMI FINALS','COPA LIBERTADORES FINAL','COPA SUDAMERICANA 32TH FINALS','COPA SUDAMERICANA 16TH FINALS','COPA SUDAMERICANA 8TH FINALS','COPA SUDAMERICANA 4TH FINALS','COPA SUDAMERICANA SEMI FINALS','COPA SUDAMERICANA FINAL','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP', 'LIGA I','EUROPA LEAGUE QUALIFICATION','EUROPA LEAGUE','CONFERENCE LEAGUE QUALIFICATION','CONFERENCE LEAGUE','SAUDI PRO LEAGUE'].some(el => el === upperLg);
+  // ⚠️ 'DFB POKAL'도 2026-08부터 blockedLeagues로 이동 — 여기서 제외했습니다.
+  // ⚠️ 'J2/J3 LEAGUE'(일본 2부·3부)도 2026-08부터 제외 — 이름부터 2/3부인데 1부 취급되고
+  // 있었습니다. J1 LEAGUE(일본 1부)만 남기고, 2/3부는 "전세계 2부 원칙 차단" 정책을 따릅니다.
+  const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J1 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'TAIWAN FOOTBALL PREMIER LEAGUE', 'COPA LIBERTADORES','COPA LIBERTADORES 32TH FINALS','COPA LIBERTADORES 16TH FINALS','COPA LIBERTADORES 8TH FINALS','COPA LIBERTADORES 4TH FINALS','COPA LIBERTADORES SEMI FINALS','COPA LIBERTADORES FINAL','COPA SUDAMERICANA 32TH FINALS','COPA SUDAMERICANA 16TH FINALS','COPA SUDAMERICANA 8TH FINALS','COPA SUDAMERICANA 4TH FINALS','COPA SUDAMERICANA SEMI FINALS','COPA SUDAMERICANA FINAL','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP', 'LIGA I','EUROPA LEAGUE QUALIFICATION','EUROPA LEAGUE','CONFERENCE LEAGUE QUALIFICATION','CONFERENCE LEAGUE','SAUDI PRO LEAGUE'].some(el => el === upperLg);
 
   // 축구 통합 필터 (국가+리그 화이트리스트 항목도 포함)
   const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision || isCountryLeagueWhitelisted);
@@ -241,8 +282,8 @@ if (isExtraFiltered) {
   .replace(/ROUNDS?.*|WEEK.*|GROUP.*|STAGE.*|PLAYOFFS?.*/i, '');
   const lol = ['LCK','LCK CL','LPL', 'MSI','WORLD','WORLDS','INTERNATIONAL','LCKROADTOMSI','LCKCHALLENGERSLEAGUE','KESPACUP'].includes(normalizedLg);
 
-  // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam)'를 추가
-  const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam;
+  // 리그 프리패스 조건에 '팀 프리패스(isEssentialTeam / isRelegatedFamousTeam)'를 추가
+  const isEssentialLeague = soccerFilter || basketball || volleyball || baseball || hockey || lol || isEssentialTeam || isRelegatedFamousTeam;
 
   // [STEP 1.9] 프리패스 리그에 속해도 무조건 제외할 팀
   // (올스타전 등에서 팀명 자리에 리그명/구분값이 잘못 들어오는 케이스 방어)
@@ -254,7 +295,7 @@ if (isExtraFiltered) {
     'NATIONAL LEAGUE', 'AMERICAN LEAGUE', 'WORLD', 'Team Cooper W', 'Team Weatherspoon W'
   ];
 
-  const isForceBlocked = !isEssentialTeam && forceBlockTeams.some(t => {
+  const isForceBlocked = !isEssentialTeam && !isRelegatedFamousTeam && forceBlockTeams.some(t => {
     const target = t.toUpperCase().trim();
     return upperHome.includes(target) || upperAway.includes(target);
   });
