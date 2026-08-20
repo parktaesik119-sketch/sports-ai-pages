@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.17","home":"LA 에인절스","away":"캔자스시�
 injuryHome: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Sam Bachman (염증)|Yusei Kikuchi (염증)|Sebastian Rivero (수술)|Shaun Anderson (염증)|Yoan Moncada (수술)"
 homeLineup: "[\"선발투수 P. Lambert (8-6, 3.11) ERA 3.11|https://a.espncdn.com/i/headshots/mlb/players/full/39898.png\"]"
-awayLineup: "[\"선발투수 G. Rodriguez (3-5, 7.17) ERA 7.17|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
+awayLineup: "[\"선발투수 G. Rodriguez (3-5, 7.17) ERA 7.17|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\",\"1번 W. Meckler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4424090.png\",\"2번 M. Trout (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/30836.png\",\"3번 N. Schanuel (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4739755.png\",\"4번 Z. Neto (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png\",\"5번 M. Ballesteros (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4987418.png\",\"6번 V. Grissom (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42503.png\",\"7번 J. Lowe (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40557.png\",\"8번 T. Heineman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33142.png\",\"9번 A. Frazier (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33546.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
