@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.08.14","home":"오모니아 니코시아","away":"링�
 awayRecent: "[{\"date\":\"26.08.15\",\"home\":\"Coleraine\",\"away\":\"Larne\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.12\",\"home\":\"Iberia 1999\",\"away\":\"Larne\",\"score\":\"2-1\",\"result\":\"🔴패\"},{\"date\":\"26.08.05\",\"home\":\"Larne\",\"away\":\"Iberia 1999\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.07.30\",\"home\":\"FK Crvena Zvezda\",\"away\":\"Larne\",\"score\":\"5-0\",\"result\":\"🔴패\"},{\"date\":\"26.07.22\",\"home\":\"Larne\",\"away\":\"FK Crvena Zvezda\",\"score\":\"0-4\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Jaylan Hankins (GK)|https://images.fotmob.com/image_resources/playerimages/762381.png\",\"Christian Rutjens (DF)|https://images.fotmob.com/image_resources/playerimages/814898.png\",\"Bernardo Lopes (DF)|https://images.fotmob.com/image_resources/playerimages/581716.png\",\"Nano (DF)|https://images.fotmob.com/image_resources/playerimages/184598.png\",\"Julliani Eersteling (DF)|https://images.fotmob.com/image_resources/playerimages/1180655.png\",\"Yussef Flalhi Idrissi (FW)|https://images.fotmob.com/image_resources/playerimages/2068242.png\",\"Mandi (MF)|https://images.fotmob.com/image_resources/playerimages/282673.png\",\"Joe (MF)|https://images.fotmob.com/image_resources/playerimages/686499.png\",\"Mula (MF)|https://images.fotmob.com/image_resources/playerimages/814891.png\",\"Facundo Álvarez (MF)|https://images.fotmob.com/image_resources/playerimages/1418039.png\",\"Manu Toledano (FW)|https://images.fotmob.com/image_resources/playerimages/1403398.png\"]"
+awayLineup: "[\"Rohan Ferguson (GK)|https://images.fotmob.com/image_resources/playerimages/589132.png\",\"Tomas Cosgrove (DF)|https://images.fotmob.com/image_resources/playerimages/503059.png\",\"Dan Bent (DF)|https://images.fotmob.com/image_resources/playerimages/1379843.png\",\"Matt Ridley (DF)|https://images.fotmob.com/image_resources/playerimages/1395696.png\",\"Aaron Donnelly (DF)|https://images.fotmob.com/image_resources/playerimages/885793.png\",\"Ronan Doherty (MF)|https://images.fotmob.com/image_resources/playerimages/1041087.png\",\"Christopher Gallagher (MF)|https://images.fotmob.com/image_resources/playerimages/896064.png\",\"Sean Graham (MF)|https://images.fotmob.com/image_resources/playerimages/1075182.png\",\"Dylan Sloan (FW)|https://images.fotmob.com/image_resources/playerimages/1379448.png\",\"Montel Gibson (FW)|https://images.fotmob.com/image_resources/playerimages/740186.png\",\"Matthew Lusty (FW)|https://images.fotmob.com/image_resources/playerimages/1259948.png\"]"
+homeFormation: "3-5-2"
+awayFormation: "4-3-3"
+homeCoach: "Juanma Pavon|https://images.fotmob.com/image_resources/playerimages/2068244.png"
+awayCoach: "Gary Haveron|https://images.fotmob.com/image_resources/playerimages/13984.png"
 pickWinTeam: "링컨 레드임프스"
 pickWinResult: "승"
 pickHandicapTeam: "링컨 레드임프스"
