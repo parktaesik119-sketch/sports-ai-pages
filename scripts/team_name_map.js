@@ -144,6 +144,7 @@ const TEAM_NAME_MAP = {
 
   // ===== 🇫🇷 리그1 (Ligue 1) =====
   "Estac Troyes": "트루아",
+  "Troyes": "트루아",
   "Le Mans": "르망",
   "Angers": "앙제",
   "Auxerre": "옥세르",
