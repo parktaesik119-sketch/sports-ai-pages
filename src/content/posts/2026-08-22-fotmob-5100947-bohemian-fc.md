@@ -18,8 +18,8 @@ h2h: '[{"date":"26.06.13","home":"데리 시티","away":"보헤미안스","score
 summary: "보헤미안스는 2026시즌 23경기에서 9승 5무 9패를 기록하며 공격 전개가 비교적 안정적인 반면, 데리 시티는 20경기에서 5승 7무 8패로 득점 효율이 한 단계 낮게 나타나고 있습니다. 두 팀 모두 수비에서 흔들리는 구간이 있지만, 보헤미안스는 홈에서 더 높은 템포와 마무리 힘을 보여주고 있어 경기 주도권 면에서 조금 더 유리해 보입니다. 다만 맞대결에서는 득점이 자주 오가는 편이라 초반 흐름과 선제골이 매우 중요하며, 전체적인 균형에서는 보헤미안스가 근소한 우위를 점할 가능성이 높습니다."
 homeRecent: "[{\"date\":\"26.08.17\",\"home\":\"Bohemian FC\",\"away\":\"Longford Town\",\"score\":\"4-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.14\",\"home\":\"FC Midtjylland\",\"away\":\"Bohemian FC\",\"score\":\"3-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.09\",\"home\":\"Waterford FC\",\"away\":\"Bohemian FC\",\"score\":\"3-1\",\"result\":\"🔴패\"},{\"date\":\"26.08.07\",\"home\":\"Bohemian FC\",\"away\":\"FC Midtjylland\",\"score\":\"0-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.03\",\"home\":\"Bohemian FC\",\"away\":\"Galway United FC\",\"score\":\"1-1\",\"result\":\"🟡무\"}]"
 awayRecent: "[{\"date\":\"26.08.15\",\"home\":\"UCD\",\"away\":\"Derry City\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.08\",\"home\":\"Derry City\",\"away\":\"Sligo Rovers\",\"score\":\"2-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.03\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Derry City\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.07.31\",\"home\":\"Derry City\",\"away\":\"Rijeka\",\"score\":\"0-1\",\"result\":\"🔴패\"},{\"date\":\"26.07.24\",\"home\":\"Rijeka\",\"away\":\"Derry City\",\"score\":\"1-0\",\"result\":\"🔴패\"}]"
-injuryHome: "없음"
-injuryAway: "없음"
+injuryHome: "Sam Todd[주요](근육 부상 - 복귀예정 About 1-2 weeks)"
+injuryAway: "Brandon Fleming[주요](다리 부상 - 복귀예정 A few weeks)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
