@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.21","home":"탬파베이 레이스","away":"토론�
 injuryHome: "Ryan McMahon (경미한 통증)|Cody Bellinger (염좌)|Kervin Castro (염증)|Max Fried (타박상)|Giancarlo Stanton (염좌)"
 injuryAway: "Andres Gimenez (경미한 통증)|Spencer Arrighetti (신경 압박)|Brett Bateman (경미한 통증)|Vladimir Guerrero Jr. (뇌진탕)|Jonatan Clase (족저근막염)"
 homeLineup: "[\"선발투수 C. Schlittler (10-6, 2.19) ERA 2.19|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 M. Fluharty (5-1, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/4622501.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
