@@ -16,8 +16,8 @@ homePower: "실점 억제가 흔들릴 때 경기 전체가 급격히 어려워�
 awayPower: "경기당 득점 1점대 유지로 꾸준함이 돋보임|무리한 공세보다 효율적인 운영이 강점임|실점이 크게 늘지 않아 접전에서 유리함|원정에서도 경기 흐름을 크게 잃지 않는 편임|조급해지지 않으면 결과를 가져올 가능성 높음"
 h2h: '[{"date":"26.05.24","home":"용인 FC","away":"아산 무궁화","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1510342-2026-05-24-yongin-city/"}]'
 summary: "용인 FC가 2026시즌 전력과 득점 안정감에서 조금 더 앞서 있는 흐름입니다. 아산 무궁화는 최근 들어 실점 관리가 흔들리면서 결과를 지키지 못한 경기가 많았고, 용인 FC는 비교적 균형 잡힌 운영으로 경기 후반까지 버티는 힘이 좋습니다. 상대전적에서도 이전 맞대결이 무득점으로 끝났던 만큼, 이번 경기 역시 한쪽이 크게 흔들리기보다는 세밀한 운영 싸움이 될 가능성이 높아 보입니다. 전체적인 전력과 최근 흐름을 함께 보면 용인 FC 쪽 우세가 조금 더 자연스럽습니다."
-homeRecent: '[]'
-awayRecent: '[]'
+homeRecent: "[{\"date\":\"26.08.19\",\"home\":\"Chungnam Asan FC\",\"away\":\"Daejeon Hana Citizen\",\"score\":\"2-3\",\"result\":\"🔴패\"},{\"date\":\"26.08.16\",\"home\":\"Daegu FC\",\"away\":\"Chungnam Asan FC\",\"score\":\"2-0\",\"result\":\"🔴패\"},{\"date\":\"26.08.07\",\"home\":\"Chungnam Asan FC\",\"away\":\"Ansan Greeners\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.01\",\"home\":\"Chungnam Asan FC\",\"away\":\"Seongnam FC\",\"score\":\"2-0\",\"result\":\"🟢승\"},{\"date\":\"26.07.29\",\"home\":\"Chungnam Asan FC\",\"away\":\"Siheung Citizen\",\"score\":\"2-1\",\"result\":\"🟢승\"}]"
+awayRecent: "[{\"date\":\"26.08.07\",\"home\":\"Yongin FC\",\"away\":\"Busan I'Park\",\"score\":\"2-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.01\",\"home\":\"Cheonan City\",\"away\":\"Yongin FC\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.07.26\",\"home\":\"Gimpo FC\",\"away\":\"Yongin FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.07.19\",\"home\":\"Yongin FC\",\"away\":\"Hwaseong FC\",\"score\":\"0-3\",\"result\":\"🔴패\"},{\"date\":\"26.07.15\",\"home\":\"Yongin FC\",\"away\":\"Dangjin Citizen\",\"score\":\"0-2\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
 injuryAway: "없음"
 homeLineup: ''

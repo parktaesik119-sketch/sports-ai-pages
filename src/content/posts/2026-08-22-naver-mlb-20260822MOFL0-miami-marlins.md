@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"필라델피아 필리스","away":"마�
 awayRecent: '[{"date":"26.08.20","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers/"},{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"},{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"},{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"},{"date":"26.08.15","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815MONM0-2026-08-15-new-york-mets/"}]'
 injuryHome: "Anthony Bender (골절)|Kyle Stowers (근육 염좌)|Max Meyer (근육 염좌)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 injuryAway: "Drew Millas (골절)|James Wood (근육 염좌)|Richard Lovelady (근육 염좌)|Josiah Gray (근육 염좌)|DJ Herz (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Gusto (0-3, 4.70) ERA 4.70|https://a.espncdn.com/i/headshots/mlb/players/full/5131986.png\"]"
+awayLineup: "[\"선발투수 B. Lord (5-2, 4.04) ERA 4.04|https://a.espncdn.com/i/headshots/mlb/players/full/4866810.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

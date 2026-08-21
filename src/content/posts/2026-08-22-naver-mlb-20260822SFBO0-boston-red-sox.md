@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리�
 awayRecent: '[{"date":"26.08.21","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SFCL0-2026-08-21-cleveland-guardians/"},{"date":"26.08.20","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SFCL0-2026-08-20-cleveland-guardians/"},{"date":"26.08.19","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SFCL0-2026-08-19-cleveland-guardians/"},{"date":"26.08.17","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817COSF0-2026-08-17-san-francisco-giants/"},{"date":"26.08.16","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816COSF0-2026-08-16-san-francisco-giants/"}]'
 injuryHome: "Trevor Story (수술)|Roman Anthony (염좌)|Isiah Kiner-Falefa (염증)|Garrett Whitlock (염증)|Johan Oviedo (긴장)"
 injuryAway: "Logan Webb (통증)|Marcelo Mayer (골절)|Jesus Rodriguez (신경 압박)|Joel Peguero (긴장)|Matt Gage (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Gray (15-3, 2.65) ERA 2.65|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
+awayLineup: "[\"선발투수 L. Webb (8-7, 3.50) ERA 3.50|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

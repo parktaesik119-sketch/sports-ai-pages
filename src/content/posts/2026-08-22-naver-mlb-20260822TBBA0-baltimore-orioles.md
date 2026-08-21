@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"볼티모어 오리올스","away":"뉴�
 awayRecent: '[{"date":"26.08.21","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821TOTB0-2026-08-21-tampa-bay-rays/"},{"date":"26.08.20","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820TOTB0-2026-08-20-tampa-bay-rays/"},{"date":"26.08.19","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819TOTB0-2026-08-19-tampa-bay-rays/"},{"date":"26.08.18","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818BATB0-2026-08-18-tampa-bay-rays/"},{"date":"26.08.17","home":"탬파베이 레이스","away":"볼티모어 오리올스","score":"2-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BATB0-2026-08-17-tampa-bay-rays/"}]'
 injuryHome: "Blaze Alexander (골절)|Felix Bautista (수술)|Ryan Helsley (염증)|Ryan Mountcastle (근육 염좌)|Jordan Westburg (수술)"
 injuryAway: "Jonathan Heasley (골절)|Manuel Rodriguez (수술)|Cole Sulser (근육 경련)|Griffin Jax (통증)|Jake Fraley (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Rogers (8-8, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
+awayLineup: "[\"선발투수 F. Peralta (5-10, 5.27) ERA 5.27|https://a.espncdn.com/i/headshots/mlb/players/full/39825.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

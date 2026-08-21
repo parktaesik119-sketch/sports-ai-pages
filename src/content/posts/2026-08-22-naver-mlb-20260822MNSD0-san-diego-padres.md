@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"뉴욕 메츠","away":"샌디에이고 
 awayRecent: '[{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"},{"date":"26.08.19","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ATMN0-2026-08-19-minnesota-twins/"},{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"},{"date":"26.08.17","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817PHMN0-2026-08-17-minnesota-twins/"},{"date":"26.08.16","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816PHMN0-2026-08-16-minnesota-twins/"}]'
 injuryHome: "Xander Bogaerts (경미한 상태)|Joe Musgrove (염증)|Samad Taylor (염좌)|Lucas Giolito (염증)|Nick Pivetta (염좌)"
 injuryAway: "Joe Ryan (염좌)|Austin Martin (염좌)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Mize (5-7, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/41167.png\"]"
+awayLineup: "[\"선발투수 D. Kremer (2-4, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

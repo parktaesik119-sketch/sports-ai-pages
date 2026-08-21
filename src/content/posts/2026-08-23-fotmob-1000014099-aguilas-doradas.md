@@ -17,9 +17,9 @@ awayPower: "공격 생산량이 높아 선제권 확보 가능성이 큼|원정�
 h2h: '[{"date":"26.02.12","home":"미요나리오스","away":"아귈라스 페레이라","score":"1-0"},{"date":"25.08.30","home":"아귈라스 페레이라","away":"미요나리오스","score":"1-2"},{"date":"25.03.17","home":"미요나리오스","away":"아귈라스 페레이라","score":"1-0"},{"date":"24.08.26","home":"아귈라스 페레이라","away":"미요나리오스","score":"2-1"},{"date":"24.02.17","home":"미요나리오스","away":"아귈라스 페레이라","score":"0-1"}]'
 summary: "아귈라스 페레이라는 시즌 전체 흐름에서 실점 관리와 경기 운영이 비교적 안정적이라 홈에서 쉽게 무너지지 않는 전력입니다. 반면 미요나리오스는 시즌 득점 생산력이 더 좋고, 경기 주도권을 잡았을 때는 상대보다 한 단계 위의 공격 압박을 보여주고 있습니다. 맞대결 흐름만 보아도 미요나리오스가 최근 우세를 이어가고 있어, 전체 전력과 상성을 함께 놓고 보면 원정팀이 조금 더 앞서는 그림이 자연스럽습니다. 다만 아귈라스 페레이라가 홈에서 끈질기게 버티는 힘이 있어, 경기 초반 균형이 길어질 가능성은 충분합니다."
 homeRecent: '[{"date":"26.08.20","home":"아귈라스 페레이라","away":"야네로스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000014079-2026-08-20-aguilas-doradas/"},{"date":"26.08.02","home":"데포르티보 파스토","away":"아귈라스 페레이라","score":"1-2","result":"🟢승"},{"date":"26.07.27","home":"아귈라스 페레이라","away":"산타페","score":"2-1","result":"🟢승"},{"date":"26.05.27","home":"Real Soacha","away":"아귈라스 페레이라","score":"2-2","result":"🟡무"},{"date":"26.05.22","home":"아귈라스 페레이라","away":"데포르티보 페레이라","score":"1-1","result":"🟡무"}]'
-awayRecent: '[]'
+awayRecent: "[{\"date\":\"26.08.05\",\"home\":\"Millonarios\",\"away\":\"Deportivo Pasto\",\"score\":\"2-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.02\",\"home\":\"Junior FC\",\"away\":\"Millonarios\",\"score\":\"0-1\",\"result\":\"🟢승\"},{\"date\":\"26.07.26\",\"home\":\"Millonarios\",\"away\":\"Bucaramanga\",\"score\":\"0-1\",\"result\":\"🔴패\"},{\"date\":\"26.05.30\",\"home\":\"Atletico FC\",\"away\":\"Millonarios\",\"score\":\"1-8\",\"result\":\"🟢승\"},{\"date\":\"26.05.27\",\"home\":\"Millonarios\",\"away\":\"O'Higgins\",\"score\":\"1-2\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
-injuryAway: "James Aguirre (근육 부상)"
+injuryAway: "James Aguirre[주요](근육 부상 - 복귀예정 Late August 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

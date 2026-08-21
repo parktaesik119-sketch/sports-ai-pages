@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.21","home":"밀워키 브루어스","away":"시애�
 awayRecent: '[{"date":"26.08.21","home":"시카고 화이트삭스","away":"애틀랜타 브레이브스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ATCW0-2026-08-21-chicago-white-sox/"},{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"},{"date":"26.08.19","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ATMN0-2026-08-19-minnesota-twins/"},{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"},{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"}]'
 injuryHome: "Sal Frelick (엉덩이 통증)|Joel Kuhnel (건염)|Abner Uribe (염좌)|JoJo Romero (결장)|Rob Zastryzny (염좌)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Misiorowski (12-5, 1.75) ERA 1.75|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
+awayLineup: "[\"선발투수 C. Sale (12-8, 2.16) ERA 2.16|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

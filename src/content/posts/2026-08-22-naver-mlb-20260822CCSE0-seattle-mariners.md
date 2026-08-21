@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.21","home":"밀워키 브루어스","away":"시애�
 awayRecent: '[{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"},{"date":"26.08.18","home":"시카고 컵스","away":"시카고 화이트삭스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs/"},{"date":"26.08.17","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs/"},{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"},{"date":"26.08.15","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SLCC0-2026-08-15-chicago-cubs/"}]'
 injuryHome: "Carlos Vargas (염좌)|Bryan Woo (일일 상태)|Cole Wilcox (염좌)|J.P. Crawford (염증)|Colt Emerson (염증)"
 injuryAway: "Daniel Palencia (염좌)|Hoby Milner (수술)|Kevin Gausman (경련)|Matt Shaw (염좌)|Tyler Austin (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Anderson|https://a.espncdn.com/i/headshots/mlb/players/full/5198748.png\"]"
+awayLineup: "[\"선발투수 D. Peterson (7-7, 5.29) ERA 5.29|https://a.espncdn.com/i/headshots/mlb/players/full/40921.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

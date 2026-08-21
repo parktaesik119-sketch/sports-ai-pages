@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"휴스턴 애스트로스","away":"LA �
 awayRecent: '[{"date":"26.08.21","home":"캔자스시티 로열스","away":"애슬레틱스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821OAKC0-2026-08-21-kansas-city-royals/"},{"date":"26.08.20","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820OAKC0-2026-08-20-kansas-city-royals/"},{"date":"26.08.19","home":"캔자스시티 로열스","away":"애슬레틱스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819OAKC0-2026-08-19-kansas-city-royals/"},{"date":"26.08.18","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818OAKC0-2026-08-18-kansas-city-royals/"},{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레인저스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817TEOA0-2026-08-17-athletics/"}]'
 injuryHome: "Jeremy Pena (멍)|Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Jose Suarez (부상)|Brooks Kriske (신경 압박)|Denzel Clarke (부상)|Joshua Kuroda-Grauer (수술)|Nick Kurtz (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 H. Brown (3-3, 3.67) ERA 3.67|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
+awayLineup: "[\"선발투수 J. Lopez (5-4, 5.22) ERA 5.22|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
