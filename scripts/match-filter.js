@@ -187,7 +187,8 @@ if (isExtraFiltered) {
     "Northern Ireland": ["PREMIERSHIP"],
     // 2026-08 추가: 비인기 리그 전체 차단 요청
     "Greece": ["SUPER LEAGUE"], // "Super League"/"Super League 1" 둘 다 매칭됨 (includes 비교라 뒤에 숫자 붙어도 걸림)
-    "Colombia": ["PRIMERA A"]
+    "Colombia": ["PRIMERA A"],
+    "Austria": ["BUNDESLIGA"] // 오스트리아 분데스리가는 독일 분데스리가와 리그명이 겹쳐서 country로 구분해서 차단
   };
 
   if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
@@ -211,7 +212,10 @@ if (isExtraFiltered) {
   // 1. 축구 주요 리그
   // ⚠️ 'CHAMPIONSHIP'(잉글랜드 2부)은 2026-08부터 blockedLeagues로 이동 — top5 프리패스에서 제외.
   // ⚠️ 'SEGUNDA DIVISIÓN'(스페인 2부)도 2026-08부터 제외 — "전세계 2부는 원칙적으로 차단"
-  // 정책에 따라 여기서 빼고, 강등 유명팀만 relegatedFamousTeams로 통과시킨다.
+  // 정책에 따라 여기서 빼고, 팀 상관없이 전부 차단한다(강등 유명팀 예외 없음, 2026-08 확정).
+  // ⚠️ 'BUNDESLIGA'는 독일 1부만 프리패스하려는 의도지만, 오스트리아 리그도 데이터상
+  // 이름이 같이 "Bundesliga"로 들어올 수 있어 country="Austria"는 countryLeagueBlacklist에서
+  // 별도로 차단한다 (독일은 country="Germany"라 여기 top5는 그대로 통과됨).
   const top5 = ['PREMIER LEAGUE', 'LA LIGA', 'BUNDESLIGA','PRIMEIRA LIGA', 'SERIE A', 'LIGUE 1', 'EREDIVISIE'].some(el => el === upperLg);
   const korea = ['KLEAGUE1', 'KLEAGUE2'].some(el => {
   // ⚠️ fotmob은 "K-League 1"처럼 하이픈을 쓴다(api-sports는 "K League1"). 공백뿐 아니라
