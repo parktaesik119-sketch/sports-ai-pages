@@ -20,12 +20,12 @@ homeRecent: "[{\"date\":\"26.08.16\",\"home\":\"Sligo Rovers\",\"away\":\"Kerry 
 awayRecent: '[{"date":"26.08.15","home":"Waterford FC","away":"Athlone Town","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5960280-2026-08-15-waterford-fc/"},{"date":"26.08.09","home":"Waterford FC","away":"보헤미안스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1492749-2026-08-09-waterford/"},{"date":"26.08.02","home":"Waterford FC","away":"셸번","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1492745-2026-08-02-waterford/"},{"date":"26.07.26","home":"Galway United FC","away":"Waterford FC","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1492738-2026-07-26-galway-united/"},{"date":"26.07.18","home":"Waterford FC","away":"Cobh Ramblers","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1548973-2026-07-18-waterford/"}]'
 injuryHome: "Daire Patton[주요](병 - 복귀예정 About 1-2 weeks) | Jad Hakiki[주요](근육 경련 - 복귀예정 About 1-2 weeks) | Conor Reynolds[주요](엉덩이 부상 - 복귀예정 A few weeks)"
 injuryAway: "Finlay Armstrong[주요](근육 부상 - 복귀예정 Unknown)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Sam Sargeant (GK)|https://images.fotmob.com/image_resources/playerimages/631496.png\",\"Oliver Denham (DF)|https://images.fotmob.com/image_resources/playerimages/1291175.png\",\"Cian Kavanagh (FW)|https://images.fotmob.com/image_resources/playerimages/1069598.png\",\"Gareth McElroy (DF)|https://images.fotmob.com/image_resources/playerimages/1502145.png\",\"Carl McHugh (MF)|https://images.fotmob.com/image_resources/playerimages/275470.png\",\"Alex Nolan (FW)|https://images.fotmob.com/image_resources/playerimages/1336954.png\",\"Luke Pearce (FW)|https://images.fotmob.com/image_resources/playerimages/1116911.png\",\"Sebastian Quirk (MF)|https://images.fotmob.com/image_resources/playerimages/1113752.png\",\"Jack Shorrock (MF)|https://images.fotmob.com/image_resources/playerimages/1473815.png\",\"Sean Stewart (DF)|https://images.fotmob.com/image_resources/playerimages/1113713.png\",\"Luke Young (MF)|https://images.fotmob.com/image_resources/playerimages/244034.png\"]"
+awayLineup: "[\"Stephen McMullan (GK)|https://images.fotmob.com/image_resources/playerimages/1420165.png\",\"Pádraig Amond (FW)|https://images.fotmob.com/image_resources/playerimages/116084.png\",\"Hayden Cann (DF)|https://images.fotmob.com/image_resources/playerimages/1194048.png\",\"Benny Couto (DF)|https://images.fotmob.com/image_resources/playerimages/1293901.png\",\"Jordan Houston (DF)|https://images.fotmob.com/image_resources/playerimages/824943.png\",\"Tom Lonergan (FW)|https://images.fotmob.com/image_resources/playerimages/1263510.png\",\"Kevin Long (DF)|https://images.fotmob.com/image_resources/playerimages/172323.png\",\"John Mahon (DF)|https://images.fotmob.com/image_resources/playerimages/825846.png\",\"Noah Mawene (MF)|https://images.fotmob.com/image_resources/playerimages/1388067.png\",\"Evan McLaughlin (MF)|https://images.fotmob.com/image_resources/playerimages/1269330.png\",\"Conan Noonan (MF)|https://images.fotmob.com/image_resources/playerimages/1239299.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "3-5-2"
+homeCoach: "Darren Purse|https://images.fotmob.com/image_resources/playerimages/22926.png"
+awayCoach: "Graham Coughlan|https://images.fotmob.com/image_resources/playerimages/23252.png"
 pickWinTeam: "워터퍼드 FC"
 pickWinResult: "승"
 pickHandicapTeam: "워터퍼드 FC"
