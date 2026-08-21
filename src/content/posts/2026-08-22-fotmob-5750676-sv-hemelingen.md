@@ -19,7 +19,7 @@ summary: "하노버 96은 2026시즌 최근 8경기에서 3승 3무 2패, 평균
 homeRecent: '[{"date":"25.08.16","home":"SV Hemelingen","away":"볼프스부르크","score":"0-9","result":"🔴패"}]'
 awayRecent: '[{"date":"26.08.16","home":"하노버 96","away":"볼프스부르크","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5881639-2026-08-16-hannover-96/"},{"date":"26.08.09","home":"Energie Cottbus","away":"하노버 96","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5881628-2026-08-09-energie-cottbus/"},{"date":"26.08.01","home":"하노버 96","away":"PEC 즈볼러","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1604729-2026-08-01-hannover-96/"},{"date":"26.07.07","home":"하노버 96","away":"Phönix Lübeck","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554758-2026-07-07-hannover-96/"},{"date":"26.07.04","home":"Ramlingen / Ehlershausen","away":"하노버 96","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554712-2026-07-04-ramlingen-ehlershausen/"}]'
 injuryHome: "없음"
-injuryAway: "Virgil Ghita[주요](근육 부상 - 복귀예정 Late August 2026)"
+injuryAway: "Virgil Ghita[주요](근육 부상 - 복귀예정 Doubtful)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
