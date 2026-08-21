@@ -19,7 +19,7 @@ summary: "아귈라스 페레이라는 시즌 전체 흐름에서 실점 관리�
 homeRecent: '[{"date":"26.08.20","home":"아귈라스 페레이라","away":"야네로스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000014079-2026-08-20-aguilas-doradas/"},{"date":"26.08.02","home":"데포르티보 파스토","away":"아귈라스 페레이라","score":"1-2","result":"🟢승"},{"date":"26.07.27","home":"아귈라스 페레이라","away":"산타페","score":"2-1","result":"🟢승"},{"date":"26.05.27","home":"Real Soacha","away":"아귈라스 페레이라","score":"2-2","result":"🟡무"},{"date":"26.05.22","home":"아귈라스 페레이라","away":"데포르티보 페레이라","score":"1-1","result":"🟡무"}]'
 awayRecent: "[{\"date\":\"26.08.05\",\"home\":\"Millonarios\",\"away\":\"Deportivo Pasto\",\"score\":\"2-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.02\",\"home\":\"Junior FC\",\"away\":\"Millonarios\",\"score\":\"0-1\",\"result\":\"🟢승\"},{\"date\":\"26.07.26\",\"home\":\"Millonarios\",\"away\":\"Bucaramanga\",\"score\":\"0-1\",\"result\":\"🔴패\"},{\"date\":\"26.05.30\",\"home\":\"Atletico FC\",\"away\":\"Millonarios\",\"score\":\"1-8\",\"result\":\"🟢승\"},{\"date\":\"26.05.27\",\"home\":\"Millonarios\",\"away\":\"O'Higgins\",\"score\":\"1-2\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
-injuryAway: "James Aguirre[주요](근육 부상 - 복귀예정 Early September 2026)"
+injuryAway: "James Aguirre[주요](근육 부상 - 복귀예정 Late August 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
