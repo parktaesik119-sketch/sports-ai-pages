@@ -1,0 +1,37 @@
+---
+title: "랴오닝 선양 vs 허난 FC 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | Super League - 픽천국"
+date: 2026-08-23T11:00:00.000Z
+description: "랴오닝 선양 vs 허난 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186594-2026-08-23-liaoning-tieren"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "랴오닝 선양"
+awayTeam: "허난 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/737054.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/51442.png"
+homeAnalysis: "랴오닝 선양은 2026시즌 최근 17경기에서 5승 3무 9패, 평균 득점 1.4를 기록하고 있어 공격은 꾸준함이 보이지만 결과로 이어지는 힘은 다소 흔들리고 있습니다. 최근 경기들을 보면 실점 억제에 어려움을 겪는 흐름이 이어지고 있고, 특히 접전에서도 끝까지 버티는 안정감이 부족해 보입니다. 다만 홈에서 주도권을 잡을 때는 득점 생산이 살아나는 장면이 있어, 안방에서는 전개 속도를 높이는 방식이 중요해 보입니다. 예측 선발로 보이는 안제 쿠아메와 제피뇨, 그리고 이펑 장 조합은 전방 압박과 침투에서 변화를 만들 수 있는 자원으로 평가됩니다. 세오 정원 감독 체제에서는 중원에서 타카히로 쿠니모토와 티시앙 리가 경기를 묶어 주며, 수비 전환을 얼마나 매끄럽게 가져가느냐가 승부의 관건으로 보입니다."
+awayAnalysis: "허난 FC는 2026시즌 최근 17경기에서 7승 5무 5패, 평균 득점 1.2를 기록하며 전체적으로는 랴오닝 선양보다 더 안정된 전력을 보여주고 있습니다. 최근 흐름에서는 원정에서 강팀을 상대로도 버티는 장면이 있었고, 수비 조직을 바탕으로 경기 균형을 유지하는 힘이 돋보입니다. 다만 득점 폭발력 자체는 아주 높지 않아, 선제 득점 여부가 경기 운영의 방향을 크게 좌우할 가능성이 큽니다. 예측 선발의 주축인 브루노 나자로와 고스타부, 그리고 페드로 마라냥은 전방에서 마무리와 연계를 동시에 맡을 수 있어 공격의 핵심 축으로 보입니다. 다니엘 라모스 감독 체제에서는 이아고 마이다나와 루카스 마이아가 이끄는 수비 라인이 흔들리지 않는다면 원정에서도 충분히 주도권을 가져갈 수 있습니다."
+homePower: "안제 쿠아메-제피뇨 조합의 직선적 위협이 큼|타카히로 쿠니모토 중심 중원 장악이 핵심임|홈에서 득점 늘지만 실점 관리가 변수로 남음|접전 마무리에서 집중력 차이가 결과를 가름함|세오 정원 체제의 전환 속도에 승부 걸림"
+awayPower: "브루노 나자로-페드로 마라냥 연계가 핵심임|허난 FC의 수비 블록 완성도가 원정 경쟁력임|실점 억제 시 저득점 운영에 강점이 드러남|고스타부의 마무리 효율이 승부 변수로 보임|다니엘 라모스식 조직력이 경기 흐름을 지배함"
+h2h: '[{"date":"26.05.01","home":"허난 FC","away":"랴오닝 선양","score":"4-0","link":"https://pick79.com/posts/detail/analyze-1523124-2026-05-01-henan-jianye/"},{"date":"18.04.24","home":"랴오닝 선양","away":"허난 FC","score":"2-1"}]'
+summary: "허난 FC가 2026시즌 전체 전력과 최근 안정감에서 랴오닝 선양보다 한 발 앞서 있습니다. 랴오닝 선양은 평균 득점은 나쁘지 않지만 실점 관리가 흔들리면서 경기 후반 흐름을 지키는 데 어려움이 보이고 있습니다. 반면 허난 FC는 큰 득점 폭발은 아니더라도 조직적인 수비와 원정 대응력으로 경기를 정리하는 힘이 더 뚜렷합니다. 상대전적에서도 허난 FC가 최근 맞대결에서 강한 장면을 남긴 만큼, 전체적으로는 허난 FC 쪽 우세가 더 자연스럽게 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Yan Zhang (GK)|https://images.fotmob.com/image_resources/playerimages/730899.png","Hongfu Zhang (DF)|https://images.fotmob.com/image_resources/playerimages/1919190.png","Mincheng Yuan (DF)|https://images.fotmob.com/image_resources/playerimages/843117.png","Felipe (DF)|https://images.fotmob.com/image_resources/playerimages/789847.png","Dilmurat Mawlanyaz (DF)|https://images.fotmob.com/image_resources/playerimages/979356.png","Tixiang Li (MF)|https://images.fotmob.com/image_resources/playerimages/178054.png","Takahiro Kunimoto (MF)|https://images.fotmob.com/image_resources/playerimages/648371.png","Binbin Chen (DF)|https://images.fotmob.com/image_resources/playerimages/860171.png","Ange Kouamé (FW)|https://images.fotmob.com/image_resources/playerimages/1380215.png","Jeffinho (FW)|https://images.fotmob.com/image_resources/playerimages/1163634.png","Yifeng Zang (MF)|https://images.fotmob.com/image_resources/playerimages/432406.png"]'
+awayLineup: '["Guoming Wang (GK)|https://images.fotmob.com/image_resources/playerimages/156469.png","Oliver Gerbig (DF)|https://images.fotmob.com/image_resources/playerimages/1396632.png","Iago Maidana (DF)|https://images.fotmob.com/image_resources/playerimages/579791.png","Lucas Maia (DF)|https://images.fotmob.com/image_resources/playerimages/782189.png","Ruifeng Huang (DF)|https://images.fotmob.com/image_resources/playerimages/1074928.png","Chao He (MF)|https://images.fotmob.com/image_resources/playerimages/527988.png","Shangyuan Wang (MF)|https://images.fotmob.com/image_resources/playerimages/465720.png","Pedro Maranhão (FW)|https://images.fotmob.com/image_resources/playerimages/1174640.png","Bruno Nazário (MF)|https://images.fotmob.com/image_resources/playerimages/406330.png","Yihao Zhong (FW)|https://images.fotmob.com/image_resources/playerimages/938373.png","Gustavo (FW)|https://images.fotmob.com/image_resources/playerimages/535701.png"]'
+homeFormation: "3-4-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Jung-Won Seo|https://images.fotmob.com/image_resources/playerimages/43016.png"
+awayCoach: "Daniel Ramos|https://images.fotmob.com/image_resources/playerimages/282534.png"
+pickWinTeam: "허난 FC"
+pickWinResult: "승"
+pickHandicapTeam: "허난 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

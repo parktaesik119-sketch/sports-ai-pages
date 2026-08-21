@@ -1,0 +1,37 @@
+---
+title: "전남 드래곤즈 vs 화성 FC 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | K2 - 픽천국"
+date: 2026-08-23T10:30:00.000Z
+description: "전남 드래곤즈 vs 화성 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155886-2026-08-23-jeonnam-dragons"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "전남 드래곤즈"
+awayTeam: "화성 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/109377.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/739800.png"
+homeAnalysis: "전남 드래곤즈는 2026시즌 최근 13경기에서 1승 6무 6패, 평균 득점 1.1을 기록하며 득점 생산이 다소 답답한 흐름을 보이고 있습니다. 최근에는 패배가 잦았지만, 경기 내용 자체가 크게 무너지기보다 한두 장면에서 승부가 갈리는 경우가 많아 보입니다. 홈에서는 버티는 힘이 완전히 사라진 모습은 아니며, 최전방의 미란딘하와 지영정, 중원에서 발디비아를 중심으로 찬스를 만드는 구도가 핵심입니다. 다만 득점이 안정적으로 이어지지 않아, 초반에 주도권을 잡지 못하면 경기가 답답하게 흘러갈 가능성이 있습니다. 수비에서는 실점 억제보다도 경기 후반 집중력이 중요하게 작용하고 있으며, 홈에서의 운영 완성도가 승부의 열쇠로 보입니다."
+awayAnalysis: "화성 FC는 2026시즌 최근 14경기에서 5승 3무 6패, 평균 득점 1.6을 기록하며 전남 드래곤즈보다 공격 전개 면에서 조금 더 선명한 모습을 보여주고 있습니다. 최근 흐름은 무승부가 이어지면서도 큰 점수 차로 무너지는 장면이 적지 않아, 경기 운영의 안정감은 더 보완이 필요한 상황입니다. 그래도 레오나르드 플라나와 병오 김, 재민 제갈로 이어지는 전방 조합은 한 번 흐름을 타면 득점 연결이 빠른 편입니다. 원정에서는 역습 전환이 살아날 때 위협적이고, 수비 라인이 낮게 정리되면 상대를 불편하게 만들 수 있습니다. 다만 전반부터 압박이 끊기면 실점 리스크가 커질 수 있어, 중원에서의 볼 관리가 특히 중요해 보입니다."
+homePower: "미란딘하-발디비아 축의 전개 완성도가 관건임|홈에서 버티는 힘은 있으나 마무리 효율이 변수임|전남 드래곤즈는 선제 실점 시 뒤집기 부담이 큼|후반 승부처에서 집중력 유지가 중요해 보임|측면과 중원 연결이 살아야 득점 기대치가 높아짐"
+awayPower: "화성 FC는 전방 압박 이후 전환 속도가 장점임|레오나르드 플라나의 마무리 감각이 핵심 축임|병오 김과 재민 제갈의 연계가 공격 활로를 만듦|원정에서도 찬스 창출은 꾸준한 편으로 보임|수비 간격만 안정되면 실점 억제력 향상 가능함"
+h2h: '[{"date":"26.04.11","home":"화성 FC","away":"전남 드래곤즈","score":"1-0"},{"date":"25.09.14","home":"전남 드래곤즈","away":"화성 FC","score":"1-2"},{"date":"25.05.31","home":"전남 드래곤즈","away":"화성 FC","score":"3-2"},{"date":"25.04.12","home":"화성 FC","away":"전남 드래곤즈","score":"1-2"}]'
+summary: "전남 드래곤즈는 시즌 흐름상 득점 생산이 둔한 편이고, 화성 FC는 그보다 공격 전개가 조금 더 살아 있는 모습입니다. 두 팀 모두 수비에서 완전히 안정적이라고 보기는 어렵지만, 최근 맞대결에서는 화성 FC가 한 골 차 승부를 가져간 장면이 더 돋보이며 상성상 밀리지 않는 흐름을 만들고 있습니다. 전남 드래곤즈가 홈에서 버티는 힘을 앞세울 수는 있겠지만, 전체 전력의 선명도와 최근 공격 효율을 함께 보면 화성 FC가 우위를 점할 가능성이 조금 더 높아 보입니다. 경기 초반에 화성 FC가 전방 압박과 마무리 감각을 살린다면, 승부의 흐름을 먼저 잡을 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Bong Jin Choi (GK)|https://images.fotmob.com/image_resources/playerimages/0.png","Han-Sol Choi (DF)|https://images.fotmob.com/image_resources/playerimages/926618.png","Gyeong-Jae Kim (DF)|https://images.fotmob.com/image_resources/playerimages/730677.png","Hyun-Jun Ku (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Young-Kwang Cho (MF)|https://images.fotmob.com/image_resources/playerimages/0.png","Tae-Yong Park (MF)|https://images.fotmob.com/image_resources/playerimages/1462064.png","Min-Ho Yoon (MF)|https://images.fotmob.com/image_resources/playerimages/1326677.png","Gun-Ho Son (MF)|https://images.fotmob.com/image_resources/playerimages/0.png","Mirandinha (FW)|https://images.fotmob.com/image_resources/playerimages/1381730.png","Valdívia (MF)|https://images.fotmob.com/image_resources/playerimages/493595.png","Ji-Yong Jeong (FW)|https://images.fotmob.com/image_resources/playerimages/1104176.png"]'
+awayLineup: '["Kim Seung-Gun (GK)|https://images.fotmob.com/image_resources/playerimages/0.png","Jun-Seo Park (DF)|https://images.fotmob.com/image_resources/playerimages/1437331.png","Aleksandar Vojnovic (DF)|https://images.fotmob.com/image_resources/playerimages/1051094.png","Min-Jun Jang (DF)|https://images.fotmob.com/image_resources/playerimages/1233064.png","Dae-Hwan Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1375562.png","Jae-Seong Park (MF)|https://images.fotmob.com/image_resources/playerimages/1836776.png","Jung-Min Kim (MF)|https://images.fotmob.com/image_resources/playerimages/926408.png","Kyeong-Min Park (MF)|https://images.fotmob.com/image_resources/playerimages/1026759.png","Leonard Pllana (FW)|https://images.fotmob.com/image_resources/playerimages/726274.png","Byeong-Oh Kim (FW)|https://images.fotmob.com/image_resources/playerimages/637922.png","Jae-Min Jegal (FW)|https://images.fotmob.com/image_resources/playerimages/1232214.png"]'
+homeFormation: "3-4-3"
+awayFormation: "3-4-3"
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "화성 FC"
+pickWinResult: "승"
+pickHandicapTeam: "화성 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

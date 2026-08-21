@@ -1,0 +1,37 @@
+---
+title: "아틀레틱 클럽 vs 세비야 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | 라리가 - 픽천국"
+date: 2026-08-22T15:00:00.000Z
+description: "아틀레틱 클럽 vs 세비야 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868021-2026-08-23-athletic-club"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "아틀레틱 클럽"
+awayTeam: "세비야"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png"
+homeAnalysis: "아틀레틱 클럽은 2026시즌 최근 29경기에서 11승 10무 8패, 평균 득점 1.5로 꾸준한 득점 기반을 유지하고 있습니다. 최근 흐름을 보면 강한 상대를 상대로도 한 번씩 확실한 승리를 만들었지만, 실점이 함께 늘어날 때는 경기 주도권이 흔들리는 모습도 보였습니다. 홈 경기에서는 조직적인 압박과 빠른 전환이 살아날 때 공격 효율이 올라가며, 이냐키 윌리엄스와 오이안 산세트, 고르카 구루세타의 연계가 특히 중요하게 작용할 수 있습니다. 다만 우나이 에길루스와 다니 비비안의 이탈은 수비 안정감과 라인 조정에 부담을 줄 수 있어 보입니다. 그래도 홈에서의 활동량과 측면 전개는 충분히 위협적이며, 최근 경기들에서 보여준 경기력 기복만 줄이면 주도권을 잡을 가능성이 있습니다."
+awayAnalysis: "세비야는 2026시즌 최근 12경기에서 6승 1무 5패, 평균 득점 0.9로 결과는 나쁘지 않지만 공격 완성도는 다소 낮은 편입니다. 최근에는 승리를 챙길 때도 한 골 차 흐름이 자주 나타나고 있어, 경기 운영은 가능하지만 득점 폭발력은 제한적으로 보입니다. 루벤 바르가스와 페케 페르난데스가 전방에서 힘을 보태고 있으나, 전체적으로는 수비 안정 후 역습에 기대는 성향이 더 강합니다. 키케 살라스의 결장은 뒷문 조직에 부담을 줄 수 있고, 알폰 곤살레스의 상태도 변수가 될 수 있습니다. 원정에서는 실점 억제에 성공하더라도 득점이 길게 막히는 구간이 생길 수 있어, 초반 한두 장면의 효율이 중요해 보입니다."
+homePower: "이냐키 윌리엄스의 직선 침투가 경기 흐름을 흔들 잠재력 있음|오이안 산세트의 2선 연계로 점유 안정감 확보 가능함|홈 압박이 살아나면 세비야의 빌드업을 압박할 여지 큼|다니 비비안 공백으로 세트피스 수비는 불안 요소임|측면 전개가 열리면 고르카 구루세타의 마무리 기대됨"
+awayPower: "루벤 바르가스 중심의 역습 전개가 가장 위협적임|저득점 흐름 속 한 골 관리 능력은 검증된 편임|원정 수비 집중력이 올라가면 승부를 길게 끌 수 있음|키케 살라스 이탈로 후방 제공권 부담이 커짐|공격 완성도 기복이 커서 선제 실점 시 반전이 어려움"
+h2h: '[{"date":"26.01.25","home":"세비야","away":"아틀레틱 클럽","score":"2-1"},{"date":"25.08.18","home":"아틀레틱 클럽","away":"세비야","score":"3-2"},{"date":"25.03.17","home":"세비야","away":"아틀레틱 클럽","score":"0-1"},{"date":"24.09.29","home":"아틀레틱 클럽","away":"세비야","score":"1-1"},{"date":"24.05.20","home":"아틀레틱 클럽","away":"세비야","score":"2-0"}]'
+summary: "아틀레틱 클럽은 시즌 전체 흐름에서 득점 생산이 더 안정적이고, 세비야는 평균 득점이 낮아 경기 내내 공격 효율이 큰 차이를 만들 가능성이 있습니다. 다만 맞대결에서는 서로 쉽게 밀리지 않는 흐름이 반복되어 왔고, 최근 교차된 승부 결과를 보면 초반 주도권과 선제 득점이 경기의 방향을 크게 좌우할 수 있습니다. 전반적인 전력 균형과 홈 이점을 함께 보면 아틀레틱 클럽이 조금 더 우세하게 경기를 풀어갈 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Unai Egiluz (십자 인대 부상)|Daniel Vivian (햄스트링 부상)"
+injuryAway: "Kike Salas (부상)|Alfon González (근육 부상)"
+homeLineup: '["Unai Simón (GK)|https://images.fotmob.com/image_resources/playerimages/660625.png","Jesús Areso (DF)|https://images.fotmob.com/image_resources/playerimages/1037537.png","Yeray Álvarez (DF)|https://images.fotmob.com/image_resources/playerimages/639450.png","Aitor Paredes (DF)|https://images.fotmob.com/image_resources/playerimages/1191407.png","Yuri Berchiche (DF)|https://images.fotmob.com/image_resources/playerimages/80295.png","Mikel Jauregizar (MF)|https://images.fotmob.com/image_resources/playerimages/1553099.png","Íñigo Ruiz de Galarreta (MF)|https://images.fotmob.com/image_resources/playerimages/282462.png","Iñaki Williams (FW)|https://images.fotmob.com/image_resources/playerimages/604105.png","Oihan Sancet (MF)|https://images.fotmob.com/image_resources/playerimages/950545.png","Alex Berenguer (FW)|https://images.fotmob.com/image_resources/playerimages/574629.png","Gorka Guruzeta (FW)|https://images.fotmob.com/image_resources/playerimages/711231.png"]'
+awayLineup: '["Odysseas Vlachodimos (GK)|https://images.fotmob.com/image_resources/playerimages/304355.png","Juan Iglesias (DF)|https://images.fotmob.com/image_resources/playerimages/1102289.png","Arouna Sangante (DF)|https://images.fotmob.com/image_resources/playerimages/1244272.png","Andrés Lopez (DF)|https://images.fotmob.com/image_resources/playerimages/1334767.png","Gabriel Suazo (DF)|https://images.fotmob.com/image_resources/playerimages/659490.png","Lucien Agoumé (MF)|https://images.fotmob.com/image_resources/playerimages/971790.png","Nico Guillen (MF)|https://images.fotmob.com/image_resources/playerimages/1783498.png","Rubén Vargas (FW)|https://images.fotmob.com/image_resources/playerimages/860752.png","Peque Fernández (MF)|https://images.fotmob.com/image_resources/playerimages/1132607.png","Oso (DF)|https://images.fotmob.com/image_resources/playerimages/1575945.png","Robbie Ure (FW)|https://images.fotmob.com/image_resources/playerimages/1399218.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Edin Terzic|https://images.fotmob.com/image_resources/playerimages/1216045.png"
+awayCoach: "Luis García|https://images.fotmob.com/image_resources/playerimages/242474.png"
+pickWinTeam: "아틀레틱 클럽"
+pickWinResult: "승"
+pickHandicapTeam: "아틀레틱 클럽"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

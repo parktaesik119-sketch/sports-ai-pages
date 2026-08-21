@@ -1,0 +1,37 @@
+---
+title: "텍사스 레인저스 vs LA 에인절스 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | MLB - 픽천국"
+date: 2026-08-22T00:15:00.000Z
+description: "텍사스 레인저스 vs LA 에인절스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260822ANTE0-2026-08-22-texas-rangers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "텍사스 레인저스"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "텍사스 레인저스는 2026시즌 최근 83경기 37승 46패, 승률 .488, 평균 득점 3.8로 시즌 전체 전력은 중상위권과 중하위권 사이에 걸쳐 있습니다. 최근 10경기에서는 3승 7패, 평균 득점 2.8로 흐름이 다소 둔화되어 있고, 득점 생산이 시즌 평균보다 더 떨어진 점이 눈에 띕니다. 다만 홈에서는 비교적 공격 리듬을 살릴 때가 있어 장타가 붙으면 경기를 끌고 갈 힘은 갖추고 있습니다. 반대로 최근에는 실점 억제력이 흔들리는 장면이 많아, 초반에 리드를 내주면 따라가는 운영이 쉽지 않아 보입니다. 주전급 결장자도 이어지고 있어, 타선과 마운드의 핵심 축이 동시에 약해진 상태라는 점이 부담으로 작용하고 있습니다."
+awayAnalysis: "LA 에인절스는 2026시즌 최근 80경기 27승 52패, 승률 .394, 평균 득점 3.8로 시즌 전체 성적은 하위권에 머물러 있습니다. 최근 10경기에서는 4승 6패, 평균 득점 3.0으로 흐름이 아주 좋지는 않지만, 직전 텍사스 레인저스와의 맞대결에서는 강한 우위를 보이며 반등 조짐을 보여주고 있습니다. 특히 같은 구간에서 원정 경기에서도 필요한 순간 득점을 만들어내며, 공격이 완전히 끊기지 않는 점은 긍정적으로 평가됩니다. 다만 전체적으로는 실점 억제가 안정적이지 않아 한 번 흔들리면 경기 흐름이 급격히 넘어가는 모습이 있습니다. 핵심 전력 이탈이 이어지는 상황이라도, 최근 상성에서는 텍사스 레인저스보다 더 날카로운 장면을 만들어내고 있습니다."
+homePower: "텍사스 레인저스 타선은 순간 폭발력은 있으나 기복이 큼|최근 득점 하락으로 초반 주도권 확보가 중요함|결장자 누적으로 중심타선 연결성 약화가 보임|홈에서는 장타 한 방으로 흐름을 바꾸는 힘이 남아 있음|실점 관리가 흔들리면 후반 추격전으로 가기 어려움"
+awayPower: "LA 에인절스는 최근 맞대결 상성 우위가 뚜렷함|낮은 시즌 승률 대비 텍사스 상대로는 자신감이 살아 있음|득점은 많지 않아도 필요한 장면에서 집중력이 보임|불펜 변수는 크지만 선취점 시 경기 운영이 쉬워짐|핵심 이탈에도 텍사스보다 전개 속도가 빠른 편임"
+h2h: '[{"date":"26.08.14","home":"LA 에인절스","away":"텍사스 레인저스","score":"7-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814TEAN0-2026-08-14-los-angeles-angels/"},{"date":"26.08.13","home":"LA 에인절스","away":"텍사스 레인저스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TEAN0-2026-08-13-los-angeles-angels/"},{"date":"26.08.12","home":"LA 에인절스","away":"텍사스 레인저스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812TEAN0-2026-08-12-los-angeles-angels/"},{"date":"26.08.11","home":"LA 에인절스","away":"텍사스 레인저스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TEAN0-2026-08-11-los-angeles-angels/"},{"date":"26.07.10","home":"텍사스 레인저스","away":"LA 에인절스","score":"7-6","link":"https://pick79.com/posts/detail/analyze-179406-2026-07-10-texas-rangers/"}]'
+summary: "텍사스 레인저스는 시즌 전체 성적과 최근 흐름을 함께 보면 기복이 분명한 편이고, LA 에인절스는 시즌 성적만 보면 하위권이지만 최근 텍사스 레인저스를 상대로는 분명한 우위를 보여주고 있습니다. 양 팀 모두 평균 득점은 비슷하게 형성되어 있으나, 최근 맞대결에서는 LA 에인절스가 더 효율적으로 점수를 내고 흐름을 잡는 모습이 반복되고 있습니다. 텍사스 레인저스는 결장 이슈와 함께 수비 부담이 커진 상태라 경기 후반으로 갈수록 힘이 빠질 가능성이 보이고, LA 에인절스는 상성상 우세를 앞세워 필요한 득점을 먼저 가져갈 가능성이 높습니다. 전체적으로는 LA 에인절스가 우위를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.20","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers/"},{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"},{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레인저스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817TEOA0-2026-08-17-athletics/"},{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레인저스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.08.14","home":"LA 에인절스","away":"텍사스 레인저스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814TEAN0-2026-08-14-los-angeles-angels/"}]'
+awayRecent: '[{"date":"26.08.20","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ANHO0-2026-08-20-houston-astros/"},{"date":"26.08.19","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ANHO0-2026-08-19-houston-astros/"},{"date":"26.08.17","home":"LA 에인절스","away":"캔자스시티 로열스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817KCAN0-2026-08-17-los-angeles-angels/"},{"date":"26.08.15","home":"LA 에인절스","away":"캔자스시티 로열스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815KCAN0-2026-08-15-los-angeles-angels/"},{"date":"26.08.14","home":"LA 에인절스","away":"텍사스 레인저스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814TEAN0-2026-08-14-los-angeles-angels/"}]'
+injuryHome: "Robert Garcia (염증)|Josh Jung (염좌)|Nathan Eovaldi (염증)|Kyle Higashioka (염좌)|Jack Leiter (수술)"
+injuryAway: "Yusei Kikuchi (염증)|Sebastian Rivero (수술)|Shaun Anderson (염증)|Sam Bachman (염증)|Samy Natera Jr. (경련)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 에인절스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 에인절스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

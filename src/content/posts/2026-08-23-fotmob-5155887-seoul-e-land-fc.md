@@ -1,0 +1,37 @@
+---
+title: "서울 이랜드 FC vs 파주 시티즌 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | K2 - 픽천국"
+date: 2026-08-23T10:30:00.000Z
+description: "서울 이랜드 FC vs 파주 시티즌 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155887-2026-08-23-seoul-e-land-fc"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "서울 이랜드 FC"
+awayTeam: "파주 시티즌"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/616212.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/739803.png"
+homeAnalysis: "서울 이랜드 FC는 2026시즌 최근 13경기에서 7승 3무 3패를 기록하며 평균 득점 2.0으로 공격 흐름이 꽤 안정적입니다. 최근에도 안산 그리너스전 3득점, 부산 아이파크전 2득점, 천안시티전 4득점으로 득점 생산력이 살아 있고, 무실점 경기도 한 차례 보여주며 경기 운영의 균형도 나쁘지 않습니다. 특히 홈에서는 득점을 꾸준히 만들어내는 장면이 많아 초반 주도권을 잡는 흐름이 자주 나옵니다. 오스마르와 알란이 중원에서 버텨주고, 에울러와 현민이 전방에서 마무리를 책임지는 구조가 잘 맞아떨어지고 있습니다. 다만 실점이 전혀 없는 팀은 아니어서, 공격적으로 나설 때 수비 전환의 집중력은 끝까지 유지하셔야 합니다."
+awayAnalysis: "파주 시티즌은 2026시즌 최근 15경기에서 6승 4무 5패를 기록했지만 평균 득점 0.8로 공격 완성도는 다소 아쉬운 편입니다. 최근 성남 FC전 승리처럼 결과를 만들어내는 힘은 있지만, 수원 FC전 무득점 패배와 부천 FC 1995전 무득점 패배에서 보이듯 공격 흐름이 일정하지 않습니다. 그래도 수비적으로 쉽게 무너지는 팀은 아니고, 무승부를 만들어내는 경기력도 적지 않아 버티는 힘은 분명합니다. 보르하 바스톤이 전방에서 버팀목 역할을 하고, 훌리오 바에즈와 정운홍이 중원에서 연결 고리를 만들어주는 구성이 핵심입니다. 다만 득점이 적은 흐름이 이어지고 있어, 상대 압박을 받는 순간 전개가 끊길 가능성은 여전히 있습니다."
+homePower: "서울 이랜드 FC|홈에서 득점 템포가 살아나는 구조가 강점임|오스마르-알란 축이 중원 안정감 높임|에울러·현민 조합으로 마무리 선택지 다양함|득점은 꾸준하나 수비 전환 집중력은 변수임|상대 수비를 흔드는 전진 패스 완성도 높아 보임"
+awayPower: "파주 시티즌|보르하 바스톤 중심의 전방 버팀은 확인됨|수비 라인 유지로 접전 운영 능력은 있음|다만 득점 생산이 낮아 주도권 장악엔 약함|중원 연결이 끊기면 공격 지속성이 떨어짐|버티는 경기엔 강하나 뒤집는 힘은 제한적임"
+h2h: '[{"date":"26.04.11","home":"파주 시티즌","away":"서울 이랜드 FC","score":"1-3"}]'
+summary: "서울 이랜드 FC는 2026시즌 최근 13경기에서 더 높은 승률과 평균 득점을 바탕으로 전반적인 전력이 한층 앞서 있습니다. 파주 시티즌은 같은 시즌 흐름에서 결과를 쌓아가고는 있지만, 평균 득점이 낮아 공격에서 답답함이 남아 있습니다. 지난 맞대결에서도 서울 이랜드 FC가 3골을 넣으며 우위를 보였던 만큼, 이번 경기에서도 서울 이랜드 FC가 경기 주도권을 잡을 가능성이 높아 보입니다. 파주 시티즌이 수비적으로 버티는 장면은 기대할 수 있지만, 전체적인 득점 흐름과 전력의 안정감에서는 서울 이랜드 FC 쪽이 더 우세합니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Seong-Jun Min (GK)|https://images.fotmob.com/image_resources/playerimages/1338861.png","In-Pyo Oh (DF)|https://images.fotmob.com/image_resources/playerimages/925343.png","Ji-Ung Baek (DF)|https://images.fotmob.com/image_resources/playerimages/1652191.png","Oh-Kyu Kim (DF)|https://images.fotmob.com/image_resources/playerimages/253605.png","Seo-Joon Bae (DF)|https://images.fotmob.com/image_resources/playerimages/1328492.png","Chang-Hwan Park (MF)|https://images.fotmob.com/image_resources/playerimages/1232529.png","Osmar (MF)|https://images.fotmob.com/image_resources/playerimages/188531.png","Alan (MF)|https://images.fotmob.com/image_resources/playerimages/862029.png","Euller (FW)|https://images.fotmob.com/image_resources/playerimages/477362.png","Hyun Kim (FW)|https://images.fotmob.com/image_resources/playerimages/308938.png","Ahn Joo-Wan ()|https://images.fotmob.com/image_resources/playerimages/0.png"]'
+awayLineup: '["Won-Woo Ryu (GK)|https://images.fotmob.com/image_resources/playerimages/307920.png","Noh Seung-Ik (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Hyeon-Byung Jeon (DF)|https://images.fotmob.com/image_resources/playerimages/1440148.png","Julián Bonilla (DF)|https://images.fotmob.com/image_resources/playerimages/1356325.png","Min-Ki Lee (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Jea-Ho Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1067161.png","Jung-Woon Hong (MF)|https://images.fotmob.com/image_resources/playerimages/734953.png","Beom-Kyung Choi (MF)|https://images.fotmob.com/image_resources/playerimages/940691.png","Julio Báez (MF)|https://images.fotmob.com/image_resources/playerimages/1609606.png","Borja Bastón (FW)|https://images.fotmob.com/image_resources/playerimages/200917.png","Jun-Seok Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1042269.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "서울 이랜드 FC"
+pickWinResult: "승"
+pickHandicapTeam: "서울 이랜드 FC"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "2"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

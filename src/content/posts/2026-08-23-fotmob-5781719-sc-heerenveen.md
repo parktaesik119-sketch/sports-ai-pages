@@ -1,0 +1,37 @@
+---
+title: "헤이렌베인 vs PEC 즈볼러 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | 에레디비지 - 픽천국"
+date: 2026-08-22T19:00:00.000Z
+description: "헤이렌베인 vs PEC 즈볼러 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781719-2026-08-23-sc-heerenveen"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "헤이렌베인"
+awayTeam: "PEC 즈볼러"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10228.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6413.png"
+homeAnalysis: "헤이렌베인은 2026시즌 최근 10경기에서 3승 4무 3패로 버티는 힘이 있고, 평균 득점 1.8을 기록하며 공격 전개 자체는 꾸준한 편입니다. 리그순위 8위에 올라 있는 만큼 초반 흐름은 나쁘지 않고, 득실 3-2로 실점 억제도 함께 보여주고 있습니다. 특히 아약스 원정에서 2-2로 버틴 뒤 FC 트벤테를 1-0으로 잡아낸 흐름은 상위권 상대를 상대로도 경기 운영이 흔들리지 않는다는 점을 보여줍니다. 다만 최근에도 무승부와 접전이 적지 않아, 화끈한 득점 폭발보다는 균형 잡힌 운영 속에서 한두 번의 결정력이 승부를 가르는 모습이 강합니다. 상위권 순위와 비교적 안정적인 득실 흐름을 감안하면, 홈에서는 초반부터 경기 주도권을 잡으려는 색채가 분명하게 살아날 것으로 보입니다."
+awayAnalysis: "PEC 즈볼러는 2026시즌 최근 10경기에서 2승 0무 8패, 평균 득점 1.0으로 공격 생산성과 경기 마무리에서 모두 답답함이 드러나고 있습니다. 리그순위 15위에 머물고 있고 득실 1-5로 실점 부담도 큰 편이라, 현재 전력의 균형이 많이 흔들리고 있습니다. FC 트벤테 원정 1-3 패배와 아약스전 0-2 패배처럼 강한 상대를 만나면 수비 간격이 쉽게 벌어지는 모습이 반복되고 있습니다. 반대로 세르클 브뤼허를 3-2로 잡은 경기에서는 한 번 흐름을 타면 공격적으로 반응할 수 있다는 점도 확인됩니다. 다만 야운데스 남리와 셰렐 플로라누스의 결장은 측면과 전환 국면에 부담을 더할 수 있어, 이번 경기에서도 수비 안정이 먼저 관건이 될 전망입니다."
+homePower: "아약스전과 트벤테전에서 버틴 경기 운영이 신뢰감 있음|평균 득점 1.8로 공격 전개는 끊기지 않음|득실 3-2가 말해주듯 실점 관리가 비교적 안정적임|자코브 트렌스코프와 딜런 벤테의 마무리 기대감이 큼|홈에서 강팀 상대로도 쉽게 무너지지 않는 구조가 보임"
+awayPower: "리그순위 15위가 드러내듯 전력 균형이 아직 불안함|평균 득점 1.0으로 득점 기대치가 낮은 편임|득실 1-5로 수비 붕괴가 반복되는 흐름임|유네스 남리 결장으로 전개와 창의성 공백이 큼|원정에서 강한 압박을 받으면 공격 응집력이 급격히 떨어짐"
+h2h: '[{"date":"26.02.15","home":"헤이렌베인","away":"PEC 즈볼러","score":"4-2"},{"date":"25.11.29","home":"PEC 즈볼러","away":"헤이렌베인","score":"2-1"},{"date":"25.02.16","home":"PEC 즈볼러","away":"헤이렌베인","score":"1-1"},{"date":"24.10.06","home":"헤이렌베인","away":"PEC 즈볼러","score":"1-1"},{"date":"24.07.19","home":"헤이렌베인","away":"PEC 즈볼러","score":"5-2"}]'
+summary: "헤이렌베인은 리그순위 8위에 걸맞게 시즌 초반 흐름이 비교적 안정적이고, 득실 3-2로 경기를 통제하는 힘도 확인되고 있습니다. 반면 PEC 즈볼러는 리그순위 15위에 머물며 득실 1-5로 수비 쪽 부담이 크고, 최근 흐름도 공격과 수비 양쪽에서 흔들림이 이어지고 있습니다. 맞대결 흐름에서도 헤이렌베인이 홈에서 특히 강한 모습을 자주 보여왔기 때문에, 전력 균형과 상성까지 함께 보면 홈팀 쪽 우세가 자연스럽게 읽힙니다. 다만 PEC 즈볼러도 한 번 흐름을 타면 득점 자체는 만들 수 있어, 헤이렌베인이 초반부터 압박 강도를 유지하면서 경기 리듬을 끝까지 끌고 가는지가 핵심으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Mats Egbring (발목 부상)"
+injuryAway: "Younes Namli (무릎 부상)|Sherel Floranus (부상)"
+homeLineup: '["Bernt Klaverboer (GK)|https://images.fotmob.com/image_resources/playerimages/1435849.png","Oliver Braude (DF)|https://images.fotmob.com/image_resources/playerimages/1526603.png","Sam Kersten (DF)|https://images.fotmob.com/image_resources/playerimages/782557.png","Maas Willemsen (DF)|https://images.fotmob.com/image_resources/playerimages/1389300.png","Vasilios Zagaritis (DF)|https://images.fotmob.com/image_resources/playerimages/1085390.png","Marcus Linday (MF)|https://images.fotmob.com/image_resources/playerimages/1608454.png","Dirk Proper (MF)|https://images.fotmob.com/image_resources/playerimages/1097467.png","Jacob Trenskow (FW)|https://images.fotmob.com/image_resources/playerimages/1188247.png","Ringo Meerveld (MF)|https://images.fotmob.com/image_resources/playerimages/1080660.png","Luca Oyen (FW)|https://images.fotmob.com/image_resources/playerimages/1067741.png","Dylan Vente (FW)|https://images.fotmob.com/image_resources/playerimages/750026.png"]'
+awayLineup: '["Jasper Schendelaar (GK)|https://images.fotmob.com/image_resources/playerimages/873529.png","Olivier Aertssen (DF)|https://images.fotmob.com/image_resources/playerimages/1327791.png","Simon Graves (DF)|https://images.fotmob.com/image_resources/playerimages/923488.png","Nick Viergever (DF)|https://images.fotmob.com/image_resources/playerimages/164246.png","Damian van der Haar (DF)|https://images.fotmob.com/image_resources/playerimages/1328885.png","Tobias Sommer (MF)|https://images.fotmob.com/image_resources/playerimages/1129028.png","Ryan Thomas (MF)|https://images.fotmob.com/image_resources/playerimages/496356.png","Dylan Mbayo (FW)|https://images.fotmob.com/image_resources/playerimages/1022702.png","Thijs Oosting (MF)|https://images.fotmob.com/image_resources/playerimages/932541.png","Elias Sørensen (FW)|https://images.fotmob.com/image_resources/playerimages/961340.png","Koen Kostons (FW)|https://images.fotmob.com/image_resources/playerimages/782561.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Robin Veldman|https://images.fotmob.com/image_resources/playerimages/1416735.png"
+awayCoach: "Henry van der Vegt|https://images.fotmob.com/image_resources/playerimages/22362.png"
+pickWinTeam: "헤이렌베인"
+pickWinResult: "승"
+pickHandicapTeam: "헤이렌베인"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

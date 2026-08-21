@@ -1,0 +1,37 @@
+---
+title: "한화 이글스 vs LG 트윈스 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | KBO - 픽천국"
+date: 2026-08-22T10:00:00.000Z
+description: "한화 이글스 vs LG 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260822LGHH02026-2026-08-22-hanwha-eagles"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "한화 이글스"
+awayTeam: "LG 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LG.png"
+homeAnalysis: "한화 이글스는 2026시즌 최근 82경기에서 36승 3무 43패, 평균 득점 5.6을 기록하며 시즌 전체 전력은 중하위권에 머물고 있습니다. 최근 흐름은 10경기 2승 8패로 좋지 않지만, 경기마다 득점 자체는 완전히 끊기지 않아 공격에서 한 방은 유지되는 모습입니다. 다만 실점이 많은 경기들이 이어지면서 마운드와 수비의 안정감이 흔들리는 점이 아쉽습니다. 홈에서는 상대를 크게 흔드는 경기력도 보여 왔기 때문에, 타선이 초반부터 살아나면 분위기를 바꿀 여지는 있습니다. 강백호와 노시환처럼 장타 기대치가 높은 타자들이 중심을 잡아주고 있어, 득점 생산의 핵심 축은 분명합니다."
+awayAnalysis: "LG 트윈스는 2026시즌 최근 86경기에서 45승 2무 39패, 평균 득점 5.2로 홈팀보다 시즌 전체 전력이 한 단계 앞선 편입니다. 최근 10경기에서는 5승 5패로 기복이 보이지만, 대량 실점 직후에도 곧바로 반등하는 흐름이 있어 경기 복원력은 나쁘지 않습니다. 타선은 상위와 중심 타순에서 꾸준히 출루와 장타가 함께 나오는 편이라, 한 번 흐름을 잡으면 점수를 이어가는 힘이 있습니다. 다만 최근에는 실점 억제력이 완전히 고정되지 않아, 투수진이 초반에 흔들릴 경우 경기 운영이 급격히 어려워질 수 있습니다. 오스틴을 중심으로 한 중심 타선의 장타 생산력이 여전히 강점으로 평가됩니다."
+homePower: "짐머맨의 높은 실점률, 초반 주도권 허용 위험 큼|강백호-노시환 중심 중장타 축은 분명히 살아 있음|하위 타순 생산성 낮아 득점 연결은 변동성 큼|최근 실점이 많아도 홈 타격 반등 여지는 보임|상대전 3연전에서 장타로 흔든 경험은 긍정적임"
+awayPower: "송승기의 긴 이닝 소화는 어렵지만 경기 유지력은 보임|오스틴 중심의 중심 타선은 득점 기대치가 높음|상위 타순 출루 후 중간 타순 연결이 강점임|최근 승패 교차에도 한 번 터지면 득점 폭이 큼|한화 이글스 상대로 장타 상성은 충분히 검증됨"
+h2h: '[{"date":"26.07.26","home":"한화 이글스","away":"LG 트윈스","score":"14-4","link":"https://pick79.com/posts/detail/analyze-181900-2026-07-26-hanwha-eagles/"},{"date":"26.07.25","home":"한화 이글스","away":"LG 트윈스","score":"11-15","link":"https://pick79.com/posts/detail/analyze-181893-2026-07-25-hanwha-eagles/"},{"date":"26.07.24","home":"한화 이글스","away":"LG 트윈스","score":"8-4","link":"https://pick79.com/posts/detail/analyze-181891-2026-07-24-hanwha-eagles/"},{"date":"26.07.04","home":"LG 트윈스","away":"한화 이글스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181828-2026-07-04-lg-twins/"},{"date":"26.07.03","home":"LG 트윈스","away":"한화 이글스","score":"1-8","link":"https://pick79.com/posts/detail/analyze-181825-2026-07-03-lg-twins/"}]'
+summary: "한화 이글스는 시즌 전체 득점력은 나쁘지 않지만 최근 실점 관리가 흔들리며 전력의 기복이 큰 편입니다. LG 트윈스는 시즌 전체 성적에서 우위를 보이고 중심 타선의 완성도도 높아, 공격의 응집력에서는 더 안정적으로 평가됩니다. 다만 최근 맞대결에서는 한화 이글스가 크게 밀리지 않았고, 큰 점수 차 승부도 오가고 있어 초반 선발 대응과 장타 허용 여부가 경기 흐름을 좌우할 가능성이 높습니다. 전체적으로는 LG 트윈스가 전력상 조금 더 앞서 보이지만, 한화 이글스가 홈에서 초반 득점에 성공하면 경기 양상은 충분히 팽팽하게 전개될 수 있습니다."
+homeRecent: '[{"date":"26.08.20","home":"한화 이글스","away":"KIA 타이거즈","score":"6-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820HTHH02026-2026-08-20-hanwha-eagles/"},{"date":"26.08.19","home":"한화 이글스","away":"KIA 타이거즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819HTHH02026-2026-08-19-hanwha-eagles/"},{"date":"26.08.18","home":"한화 이글스","away":"KIA 타이거즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818HTHH02026-2026-08-18-hanwha-eagles/"},{"date":"26.08.15","home":"삼성 라이온스","away":"한화 이글스","score":"11-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815HHSS02026-2026-08-15-samsung-lions/"},{"date":"26.08.14","home":"삼성 라이온스","away":"한화 이글스","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814HHSS02026-2026-08-14-samsung-lions/"}]'
+awayRecent: '[{"date":"26.08.20","home":"LG 트윈스","away":"KT 위즈","score":"4-16","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820KTLG02026-2026-08-20-lg-twins/"},{"date":"26.08.19","home":"LG 트윈스","away":"KT 위즈","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819KTLG02026-2026-08-19-lg-twins/"},{"date":"26.08.18","home":"LG 트윈스","away":"KT 위즈","score":"9-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818KTLG02026-2026-08-18-lg-twins/"},{"date":"26.08.16","home":"LG 트윈스","away":"SSG 랜더스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816SKLG02026-2026-08-16-lg-twins/"},{"date":"26.08.15","home":"LG 트윈스","away":"SSG 랜더스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815SKLG02026-2026-08-15-lg-twins/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "한화 이글스"
+pickWinResult: "승"
+pickHandicapTeam: "한화 이글스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

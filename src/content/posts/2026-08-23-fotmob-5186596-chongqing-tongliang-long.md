@@ -1,0 +1,37 @@
+---
+title: "충칭 통량룽 vs 다롄 잉보 FC 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | Super League - 픽천국"
+date: 2026-08-23T12:00:00.000Z
+description: "충칭 통량룽 vs 다롄 잉보 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186596-2026-08-23-chongqing-tongliang-long"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "충칭 통량룽"
+awayTeam: "다롄 잉보 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1477050.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1477043.png"
+homeAnalysis: "충칭 통량룽은 2026시즌 18경기에서 4승 7무 7패, 평균 득점 0.9로 공격 생산이 낮은 편이지만 경기 운영 자체는 쉽게 무너지지 않는 흐름입니다. 최근에도 무득점과 저득점 경기가 이어지며 전방 마무리의 기복이 드러났고, 홈에서는 청두 더 시티와의 1-1, 톈진 텐다전 1-0 승리처럼 버티는 힘이 보였습니다. 다만 상하이 포트전 2-3, 우한 쓰리 타운즈전 0-1처럼 강한 압박을 받는 경기에서는 실점 억제가 흔들리는 모습도 있습니다. 루카오, 미하엘 은가데우 은가주이, 조지 킴파누가 포함된 라인업은 수비 안정과 중원 전개에서 균형을 기대하게 합니다. 다만 전체적으로는 득점보다 실점 관리에 더 초점이 맞춰진 전력으로 보이며, 홈에서 경기 리듬을 오래 가져가야 힘이 살아나는 팀입니다."
+awayAnalysis: "다롄 잉보 FC는 2026시즌 19경기에서 4승 6무 9패, 평균 득점 1.2로 홈팀보다 공격 수치는 조금 낫지만 결과의 안정감은 부족한 편입니다. 최근에도 상하이 포트 원정에서 1-1로 버티는 장면이 있었지만, 윈난 위쿤전 1-3처럼 수비 조직이 흔들릴 때는 실점이 빠르게 늘어나는 모습이 나타났습니다. 그럼에도 프랭크 아체암퐁, 니콜라에 스탄추, 페드로 델가도가 전방과 2선에서 연결되면 순간적인 공격 완성도는 충분히 올라갈 수 있습니다. 원정에서는 수비 블록을 먼저 세우고 역습 효율을 노리는 색채가 뚜렷하며, 이런 구조가 맞아떨어질 때는 예상보다 단단한 경기 운영이 가능합니다. 다만 전체적인 전력 흐름은 득점보다 실점 관리가 더 큰 과제로 보이고, 경기 후반으로 갈수록 버티는 힘이 중요한 팀입니다."
+homePower: "5백 기반으로 실점 억제에 초점이 맞춰짐|조지 킴파누·야오하오양 전개축이 중요함|낮은 득점력이라도 홈에서는 끈질김이 살아있음|강한 상대 상대로는 수비 집중력 유지가 관건임|세트플레이와 세컨드볼이 득점 열쇠로 보임"
+awayPower: "스탄추·아체암퐁·델가도 조합의 창의성이 핵심임|원정에서도 짧은 시간에 흐름 바꾸는 힘이 있음|4백 수비가 정리되면 실점 폭이 줄어드는 팀임|중원 압박 성공 시 역습 전환 속도는 검증됨|경기 운영이 길어질수록 집중력 유지가 관건임"
+h2h: '[{"date":"26.05.01","home":"다롄 잉보 FC","away":"충칭 통량룽","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1523123-2026-05-01-dalian-zhixing/"},{"date":"24.10.06","home":"충칭 통량룽","away":"다롄 잉보 FC","score":"3-0"},{"date":"24.05.26","home":"다롄 잉보 FC","away":"충칭 통량룽","score":"2-2"}]'
+summary: "두 팀 모두 시즌 전체 흐름에서 득점 생산이 아주 높지는 않지만, 다롄 잉보 FC가 평균 득점 1.2로 충칭 통량룽의 0.9보다 한 발 앞선 공격 수치를 보이고 있습니다. 반면 충칭 통량룽은 홈에서 버티는 힘과 수비 집중력이 비교적 잘 드러나고, 다롄 잉보 FC는 원정에서도 전방 자원들이 살아날 때 경기 주도권을 가져오는 장면이 있습니다. 상대전적에서도 최근에는 다롄 잉보 FC가 한 번 앞섰지만, 충칭 통량룽이 홈에서 강하게 반격한 기록도 있어 한쪽으로 완전히 기울어진 구도는 아닙니다. 전체 전력을 놓고 보면 다롄 잉보 FC가 조금 더 공격적인 해법을 갖고 있어 우세를 점할 가능성이 높지만, 충칭 통량룽의 홈 수비가 단단하게 작동하면 경기 흐름은 충분히 팽팽해질 수 있습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Haoyang Yao (GK)|https://images.fotmob.com/image_resources/playerimages/1624684.png","Lucão (DF)|https://images.fotmob.com/image_resources/playerimages/493725.png","Michael Ngadeu-Ngadjui (DF)|https://images.fotmob.com/image_resources/playerimages/560772.png","Ruijie Yue (DF)|https://images.fotmob.com/image_resources/playerimages/1711643.png","Mingshi Liu (DF)|https://images.fotmob.com/image_resources/playerimages/1625068.png","Xiaoqiang He (DF)|https://images.fotmob.com/image_resources/playerimages/1267721.png","George Cîmpanu (MF)|https://images.fotmob.com/image_resources/playerimages/1068922.png","Zhixiong Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/1624800.png","Zhenquan Li (MF)|https://images.fotmob.com/image_resources/playerimages/1480802.png","Weipeng Liang (MF)|https://images.fotmob.com/image_resources/playerimages/1624872.png","Yuezheng Du (FW)|https://images.fotmob.com/image_resources/playerimages/1366725.png"]'
+awayLineup: '["Weiguo Liu (GK)|https://images.fotmob.com/image_resources/playerimages/431879.png","Zhuoyi Lyu (DF)|https://images.fotmob.com/image_resources/playerimages/1370283.png","Jinhao Bi (DF)|https://images.fotmob.com/image_resources/playerimages/154733.png","Yue Song (DF)|https://images.fotmob.com/image_resources/playerimages/1052768.png","Boxuan Feng (DF)|https://images.fotmob.com/image_resources/playerimages/816224.png","Jintao Liao (MF)|https://images.fotmob.com/image_resources/playerimages/1266929.png","Huachen Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/825202.png","Mingrui Yang (FW)|https://images.fotmob.com/image_resources/playerimages/1660335.png","Nicolae Stanciu (MF)|https://images.fotmob.com/image_resources/playerimages/308516.png","Frank Acheampong (FW)|https://images.fotmob.com/image_resources/playerimages/309083.png","Pedro Delgado (MF)|https://images.fotmob.com/image_resources/playerimages/793253.png"]'
+homeFormation: "5-4-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Jianye Liu|https://images.fotmob.com/image_resources/playerimages/21021.png"
+awayCoach: "Guoxu Li|https://images.fotmob.com/image_resources/playerimages/1628058.png"
+pickWinTeam: "다롄 잉보 FC"
+pickWinResult: "승"
+pickHandicapTeam: "다롄 잉보 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

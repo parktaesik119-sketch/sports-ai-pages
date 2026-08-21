@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | MLB - 픽천국"
+date: 2026-08-21T23:40:00.000Z
+description: "시카고 화이트삭스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260822NMCW0-2026-08-22-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 최근 91경기에서 46승 1무 44패, 평균 득점 4.4를 기록하며 시즌 전체 전력이 준수하게 유지되고 있습니다. 최근 10경기에서도 6승 4패, 평균 득점 5.0으로 공격 생산성이 더 살아나면서 흐름이 한층 좋아졌습니다. 특히 홈과 원정을 가리지 않고 득점권에서 응집력이 보이고, 장타와 빠른 득점 연결이 동시에 나타나는 점이 돋보입니다. 다만 실점 억제는 경기별 편차가 남아 있어, 초반에 리드를 잡는 전개가 중요해 보입니다. 결장자 중에는 Drew Thorpe, Ky Bush, Davis Martin처럼 선발 자원과 요르단 Leasure, Chris Murphy 같은 투수진 공백이 이어져 마운드 운영의 깊이는 완전히 넉넉하지는 않습니다. 그럼에도 최근에는 타선이 이를 상쇄하는 장면이 많았고, 홈 경기에서는 경기 주도권을 잡는 힘이 분명하게 확인되고 있습니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 최근 88경기에서 42승 1무 45패, 평균 득점 4.3으로 시즌 전력의 기복이 다소 있는 편입니다. 최근 10경기에서는 7승 3패, 평균 득점 4.3으로 반등 조짐이 분명하고, 경기 내용도 팽팽한 승부를 자주 만들어내고 있습니다. 다만 리그순위 13위와 득실 -42는 순위 대비 실점 관리가 흔들렸음을 보여주며, 좋은 흐름을 오래 유지하기에는 여전히 불안 요소가 남아 있습니다. 특히 Juan Soto, Mark Vientos의 결장은 타선의 중심 압력을 약화시킬 수 있어, 득점이 한 번 막히면 전개가 답답해질 가능성이 있습니다. 여기에 Justin Hagenman, Devin Williams, Cionel Perez 같은 투수진 공백도 겹쳐 경기 후반 안정감이 떨어질 수 있습니다. 최근에는 접전 승부를 잘 버티고 있지만, 강한 상대를 상대로는 득점 효율과 마운드 마무리에서 한 단계 더 필요해 보입니다."
+homePower: "최근 10경기 득점 상승으로 타선 응집력 회복됨|홈 경기에서 초반 선취점 잡는 전개 강점임|투수진 결장 여파로 장기 안정감은 과제임|강팀 상대로도 득점 압박 유지한 점이 긍정적임|경기별 실점 편차 줄이면 상위권 경쟁력 보임"
+awayPower: "최근 10경기 반등은 있지만 지속성은 검증 필요함|중심 타선 결장으로 장타 압박 약화 가능성 큼|접전 대응력은 살아 있으나 후반 안정감은 흔들림|득실 마이너스가 말해주듯 실점 관리가 숙제임|원정에서도 득점은 만들지만 폭발력은 제한적임"
+h2h: '[]'
+summary: "시카고 화이트삭스는 2026시즌 리그순위 4위와 득실 +45가 보여주듯 시즌 전체 전력이 안정적이고, 최근 10경기에서도 득점 흐름이 더 살아나면서 상승 곡선을 그리고 있습니다. 뉴욕 메츠는 최근 10경기에서 반등이 분명하지만 리그순위 13위와 득실 -42가 함께 보여주듯 시즌 전체 균형에서는 아직 흔들림이 남아 있습니다. 두 팀 모두 결장 이슈가 있지만, 시카고 화이트삭스는 홈에서의 공격 리듬과 전체적인 전력 균형이 조금 더 좋아 보이며, 뉴욕 메츠는 최근 흐름은 괜찮아도 마운드와 중심 타선 공백이 겹쳐 한 끗 차이에서 밀릴 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.21","home":"시카고 화이트삭스","away":"애틀랜타 브레이브스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ATCW0-2026-08-21-chicago-white-sox/"},{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"},{"date":"26.08.18","home":"시카고 컵스","away":"시카고 화이트삭스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs/"},{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.08.20","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SDNM0-2026-08-20-new-york-mets/"},{"date":"26.08.19","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SDNM0-2026-08-19-new-york-mets/"},{"date":"26.08.18","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SDNM0-2026-08-18-new-york-mets/"},{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"},{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"}]'
+injuryHome: "Drew Thorpe (어깨 수술)|Chris Murphy (근육 염좌)|Ky Bush (어깨 수술)|Davis Martin (결장)|Jordan Leasure (근육 염좌)"
+injuryAway: "Juan Soto (근육 염좌)|Cionel Perez (근육 염좌)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

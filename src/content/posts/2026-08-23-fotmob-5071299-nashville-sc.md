@@ -1,0 +1,37 @@
+---
+title: "내슈빌 SC vs 콜럼버스 크루 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | MLS - 픽천국"
+date: 2026-08-23T00:30:00.000Z
+description: "내슈빌 SC vs 콜럼버스 크루 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071299-2026-08-23-nashville-sc"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "내슈빌 SC"
+awayTeam: "콜럼버스 크루"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/915807.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6001.png"
+homeAnalysis: "내슈빌 SC는 2026시즌 리그순위 1위에 올라 있으며 14승 2패 4무, 득실 40-15(+25.0)로 매우 탄탄한 전력을 보여주고 있습니다. 최근 15경기에서도 8승 2무 5패, 평균 득점 1.7로 공격 흐름이 안정적이고, 홈에서 4골을 넣은 경기들이 나오는 등 득점 폭발력도 충분히 확인되고 있습니다. 다만 직전 일정에서는 패배와 무승부가 섞이며 고점 대비 다소 주춤한 모습도 있었지만, 곧바로 4득점 승리로 반등한 점이 인상적입니다. Hany Mukhtar와 Sam Surridge를 중심으로 한 마무리 힘이 살아 있고, Daniel Lovitz와 Jack Maher가 버티는 후방도 실점 억제에 강점이 있습니다. 홈에서는 경기 주도권을 잡고 상대를 압박하는 운영이 잘 맞는 편이라, 이번 경기에서도 전반적인 우세를 이어갈 가능성이 높아 보입니다."
+awayAnalysis: "콜럼버스 크루는 2026시즌 리그순위 12위, 5승 10패 5무, 득실 28-33(-5.0)으로 시즌 전반의 안정감이 부족한 편입니다. 최근 16경기에서도 2승 5무 9패, 평균 득점 0.9에 그치고 있어 득점 생산이 매끄럽지 못하고, 경기마다 흐름이 쉽게 끊기는 모습이 이어지고 있습니다. 특히 최근에는 연패가 이어지며 수비 부담까지 커졌고, 실점 억제와 공격 전개가 동시에 흔들리는 양상입니다. Brais Méndez와 André Gomes가 중원을 잡아주고 있지만, 전방에서 확실하게 마무리해 줄 장면이 적어 답답함이 남아 있습니다. Rudy Camacho를 포함한 결장 공백까지 겹치면서 원정에서는 버티는 힘보다 흔들림이 더 크게 보이는 전력입니다."
+homePower: "리그순위 1위답게 경기 운영의 완성도가 높음|Hany Mukhtar 중심으로 찬스 창출 축이 분명함|Sam Surridge 마무리력으로 낮은 득점 경기에도 강함|홈에서 초반 주도권 잡으면 실점 억제까지 이어짐|후방 안정감이 좋아 상대 반격 허용이 적음"
+awayPower: "리그순위 12위로 전개 완성도가 떨어짐|평균 득점이 낮아 선제 실점 시 추격이 힘듦|Brais Méndez 의존도가 높아 공격 패턴이 단조로움|원정에서 수비 라인 흔들림이 자주 드러남|결장 공백까지 겹쳐 후반 버티는 힘이 약함"
+h2h: '[{"date":"26.03.15","home":"콜럼버스 크루","away":"내슈빌 SC","score":"0-1"},{"date":"25.07.17","home":"내슈빌 SC","away":"콜럼버스 크루","score":"3-0"},{"date":"25.05.29","home":"콜럼버스 크루","away":"내슈빌 SC","score":"2-2"},{"date":"24.07.04","home":"콜럼버스 크루","away":"내슈빌 SC","score":"2-0"},{"date":"24.03.31","home":"내슈빌 SC","away":"콜럼버스 크루","score":"2-2"}]'
+summary: "내슈빌 SC는 2026시즌 리그순위 1위답게 시즌 전체 전력의 균형이 매우 좋고, 득실 차이에서도 상대를 크게 앞서고 있습니다. 반면 콜럼버스 크루는 2026시즌 리그순위 12위에 머물러 있으며, 최근 경기에서도 공격 효율과 수비 안정감이 함께 흔들리고 있습니다. 두 팀의 맞대결 흐름을 봐도 내슈빌 SC가 최근 우세를 잡아온 장면이 적지 않아, 이번 경기 역시 내슈빌 SC가 전력과 흐름 양쪽에서 우위를 점할 가능성이 높아 보입니다. 특히 내슈빌 SC는 홈에서의 안정감과 결정력이 돋보이고, 콜럼버스 크루는 원정에서 버티는 힘이 약해 전반적인 경기 그림이 내슈빌 SC 쪽으로 기울어질 가능성이 큽니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Brian Schwake (GK)|https://images.fotmob.com/image_resources/playerimages/1169991.png","Reed Baker-Whiting (DF)|https://images.fotmob.com/image_resources/playerimages/1190765.png","Jack Maher (DF)|https://images.fotmob.com/image_resources/playerimages/1124868.png","Maxwell Woledzi (DF)|https://images.fotmob.com/image_resources/playerimages/1069403.png","Daniel Lovitz (DF)|https://images.fotmob.com/image_resources/playerimages/525617.png","Matthew Corcoran (MF)|https://images.fotmob.com/image_resources/playerimages/1341159.png","Edvard Tagseth (MF)|https://images.fotmob.com/image_resources/playerimages/1083998.png","Shak Mohammed (FW)|https://images.fotmob.com/image_resources/playerimages/1448714.png","Hany Mukhtar (FW)|https://images.fotmob.com/image_resources/playerimages/394462.png","Elias Saad (FW)|https://images.fotmob.com/image_resources/playerimages/1285773.png","Sam Surridge (FW)|https://images.fotmob.com/image_resources/playerimages/796747.png"]'
+awayLineup: '["Patrick Schulte (GK)|https://images.fotmob.com/image_resources/playerimages/1083292.png","Steven Moreira (DF)|https://images.fotmob.com/image_resources/playerimages/444000.png","Rudy Camacho (DF)|https://images.fotmob.com/image_resources/playerimages/294253.png","Sean Zawadzki (DF)|https://images.fotmob.com/image_resources/playerimages/1338763.png","Malte Amundsen (DF)|https://images.fotmob.com/image_resources/playerimages/623145.png","Mohamed Farsi (DF)|https://images.fotmob.com/image_resources/playerimages/1194635.png","Dylan Chambost (MF)|https://images.fotmob.com/image_resources/playerimages/770306.png","André Gomes (MF)|https://images.fotmob.com/image_resources/playerimages/361770.png","Taha Habroune (MF)|https://images.fotmob.com/image_resources/playerimages/1482266.png","Chase Adams (FW)|https://images.fotmob.com/image_resources/playerimages/1626999.png","Brais Méndez (MF)|https://images.fotmob.com/image_resources/playerimages/640122.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "BJ Callaghan|https://images.fotmob.com/image_resources/playerimages/1494306.png"
+awayCoach: "Laurent Courtois|https://images.fotmob.com/image_resources/playerimages/33619.png"
+pickWinTeam: "내슈빌 SC"
+pickWinResult: "승"
+pickHandicapTeam: "내슈빌 SC"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "2"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

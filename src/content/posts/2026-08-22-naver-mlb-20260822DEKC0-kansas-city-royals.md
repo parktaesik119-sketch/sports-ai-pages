@@ -1,0 +1,37 @@
+---
+title: "캔자스시티 로열스 vs 디트로이트 타이거즈 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | MLB - 픽천국"
+date: 2026-08-22T00:10:00.000Z
+description: "캔자스시티 로열스 vs 디트로이트 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260822DEKC0-2026-08-22-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+homeAnalysis: "캔자스시티 로열스는 2026시즌 최근 88경기 43승 41패, 승률 .494와 평균 득점 4.4를 기록하고 있어 시즌 전체 전력은 중위권 수준입니다. 최근에는 10경기에서 6승 4패, 평균 득점 5.1로 타선의 응집력이 살아나며 상승 흐름을 만들고 있습니다. 특히 홈에서 점수를 꾸준히 쌓는 장면이 많아졌고, 강한 상대를 상대로도 접전 승부를 버티는 힘이 보입니다. 다만 시즌 전체 기준으로는 실점 억제력이 완전히 안정적이지 않아 경기 후반 변수가 남아 있습니다. 마이켈 가르시아의 공백은 중심 내야 운영과 찬스 연결에서 아쉬움을 남길 수 있지만, 최근 타격감이 이를 어느 정도 상쇄해 주고 있습니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 최근 90경기 45승 44패, 승률 .506과 평균 득점 4.5로 홈팀보다 시즌 전체 전력은 조금 앞서 있습니다. 다만 최근 10경기에서는 4승 6패, 평균 득점 4.1로 흐름이 다소 꺾이며 고점 대비 주춤한 모습이 나타나고 있습니다. 원정에서는 강타선이 폭발하는 경기와 함께 득점이 급격히 줄어드는 경기의 차이가 있어 안정감이 떨어져 보입니다. 시즌 득실이 플러스인 점은 분명한 강점이지만, 최근에는 실점 억제와 득점 재현성이 함께 흔들리는 흐름입니다. 특히 라일리 그린, 맷 비얼링의 이탈은 중심 타선과 외야 생산성에 부담을 주고 있습니다."
+homePower: "최근 홈 타선 응집력 상승이 뚜렷함|강팀 상대로도 접전 운영이 가능함|마이켈 가르시아 공백은 연결력 변수임|후반 접전에서 한 방 집중력이 살아있음|홈 득점 흐름은 최근 전력 상승을 뒷받침함"
+awayPower: "시즌 득실 플러스는 기본 체급 우위임|최근 원정 득점 기복이 승부 변수가 됨|주요 결장자 공백으로 타선 완성도 저하됨|대량 득점 뒤 곧바로 침체하는 폭이 큼|상위 전력과 맞설 때 수비 압박이 커짐"
+h2h: '[{"date":"26.07.27","home":"디트로이트 타이거즈","away":"캔자스시티 로열스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-179600-2026-07-27-detroit-tigers/"},{"date":"26.07.26","home":"디트로이트 타이거즈","away":"캔자스시티 로열스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-179584-2026-07-26-detroit-tigers/"},{"date":"26.07.25","home":"디트로이트 타이거즈","away":"캔자스시티 로열스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-179570-2026-07-25-detroit-tigers/"},{"date":"26.07.24","home":"디트로이트 타이거즈","away":"캔자스시티 로열스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-179558-2026-07-24-detroit-tigers/"},{"date":"26.05.11","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"3-6","link":"https://pick79.com/posts/detail/analyze-178614-2026-05-11-kansas-city-royals/"}]'
+summary: "캔자스시티 로열스는 최근 흐름이 살아나며 공격 쪽에서 확실한 상승 곡선을 그리고 있고, 디트로이트 타이거즈는 시즌 전체 전력은 조금 앞서지만 최근에는 득점과 실점 모두에서 흔들림이 보입니다. 상대전적에서도 접전이 많았지만, 최근 맞대결에서는 캔자스시티 로열스가 한 점 차 승부를 여러 번 가져오며 상성을 쉽게 내주지 않았습니다. 여기에 홈 이점과 최근 타선 흐름까지 더해지면, 전체적인 균형은 캔자스시티 로열스 쪽으로 조금 더 기울어 보입니다."
+homeRecent: '[{"date":"26.08.21","home":"캔자스시티 로열스","away":"애슬레틱스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821OAKC0-2026-08-21-kansas-city-royals/"},{"date":"26.08.20","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820OAKC0-2026-08-20-kansas-city-royals/"},{"date":"26.08.19","home":"캔자스시티 로열스","away":"애슬레틱스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819OAKC0-2026-08-19-kansas-city-royals/"},{"date":"26.08.18","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818OAKC0-2026-08-18-kansas-city-royals/"},{"date":"26.08.17","home":"LA 에인절스","away":"캔자스시티 로열스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817KCAN0-2026-08-17-los-angeles-angels/"}]'
+awayRecent: '[{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"},{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"},{"date":"26.08.18","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates/"},{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"}]'
+injuryHome: "Jac Caglianone (통증)|Beck Way (경련)|Tony Gonsolin (수술)|Connor Seabold (염좌)|Maikel Garcia (염좌)"
+injuryAway: "Parker Meadows (수술)|James Outman (뇌진탕)|Brant Hurter (염증)|Matt Vierling (염좌)|Riley Greene (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "캔자스시티 로열스"
+pickWinResult: "승"
+pickHandicapTeam: "캔자스시티 로열스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

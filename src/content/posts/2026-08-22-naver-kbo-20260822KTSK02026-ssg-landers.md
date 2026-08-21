@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs KT 위즈 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | KBO - 픽천국"
+date: 2026-08-22T10:00:00.000Z
+description: "SSG 랜더스 vs KT 위즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260822KTSK02026-2026-08-22-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "KT 위즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 최근 87경기에서 30승 4무 53패, 평균 득점 4.7을 기록하며 다소 기복이 있는 전력을 보여주고 있습니다. 다만 최근 10경기에서는 7승 3패, 평균 득점 5.4로 공격 흐름이 분명히 살아나면서 타선 응집력이 좋아진 모습입니다. 홈 경기에서는 긴 이닝을 끌고 가는 힘보다는 득점이 한 번에 몰릴 때 경기 분위기를 바꾸는 장면이 자주 보이고, 최근 경기들에서도 LG 트윈스와 삼성 라이온즈를 상대로 득점 생산이 꾸준했습니다. 박성한, 정준재, 최지훈이 상위 타선에서 출루와 연결 고리를 만들어 주고 있어 공격의 출발점은 나쁘지 않습니다. 다만 김건우가 시즌 내내 안정감에서는 아쉬움이 남는 편이라, 초반 실점 관리가 되지 않으면 경기 운영이 다시 흔들릴 가능성이 있습니다. 수비와 불펜 부담을 줄이기 위해서는 홈에서 먼저 점수를 만들어 내는 흐름이 중요해 보입니다."
+awayAnalysis: "KT 위즈는 2026시즌 최근 81경기에서 47승 1무 33패, 평균 득점 5.2를 기록하며 리그 정상권 전력을 유지하고 있습니다. 최근 10경기에서는 5승 5패, 평균 득점 6.0으로 타선의 폭발력은 여전하지만 경기별 편차도 함께 드러나고 있습니다. 원정에서도 대량 득점을 만들어 낼 수 있는 힘이 있고, 최근 LG 트윈스를 상대로 16득점을 올린 경기처럼 상위 타선이 한 번 풀리면 경기 전체를 지배하는 장면이 있습니다. 최원준, 김현수, 안현민, 힐리어드로 이어지는 중심 구간이 탄탄하고, 하위 타선도 완전히 끊기지 않아 득점 루트가 여러 갈래로 열려 있습니다. 선발 배제성은 시즌 지표가 아주 압도적이진 않지만, 경기 운영을 크게 무너뜨리지 않는 안정감은 갖추고 있어 팀 전력의 장점을 살리는 데 도움이 됩니다. 전체적으로는 타선 깊이와 리그 1위라는 시즌 전력의 무게감이 분명한 팀으로 보입니다."
+homePower: "박성한 중심의 상위 타선 완성도가 높은 편임|정준재·최지훈으로 출루 동력은 분명함|김건우의 장타 억제력은 변수 관리가 필요함|홈에서 득점이 몰릴 때 경기 흐름을 바꾸는 힘 있음|최근 공격 상승세는 있지만 지속성 검증은 더 필요함"
+awayPower: "최원준-김현수 선두·중심 연결이 매끄러움|안현민·힐리어드가 장타 기대치를 끌어올림|배제성은 길게 끌기보다 버티는 운영에 적합함|상하위 타선 간 단절이 적어 득점 루트 다양함|리그 1위 전력의 안정감이 원정에서도 유지됨"
+h2h: '[{"date":"26.06.25","home":"KT 위즈","away":"SSG 랜더스","score":"12-7","link":"https://pick79.com/posts/detail/analyze-181790-2026-06-25-kt-wiz-suwon/"},{"date":"26.06.24","home":"KT 위즈","away":"SSG 랜더스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-181784-2026-06-24-kt-wiz-suwon/"},{"date":"26.06.23","home":"KT 위즈","away":"SSG 랜더스","score":"13-2","link":"https://pick79.com/posts/detail/analyze-181779-2026-06-23-kt-wiz-suwon/"},{"date":"26.06.07","home":"SSG 랜더스","away":"KT 위즈","score":"7-0","link":"https://pick79.com/posts/detail/analyze-181712-2026-06-07-ssg-landers/"},{"date":"26.06.06","home":"SSG 랜더스","away":"KT 위즈","score":"3-7","link":"https://pick79.com/posts/detail/analyze-181711-2026-06-06-ssg-landers/"}]'
+summary: "KT 위즈는 2026시즌 전체 전력에서 승수와 승률 모두 SSG 랜더스보다 앞서 있고, 평균 득점에서도 조금 더 안정적인 공격 흐름을 보여주고 있습니다. SSG 랜더스도 최근에는 득점 감각이 살아나며 홈에서 반등의 장면을 만들고 있지만, 마운드와 경기 운영의 안정감까지 함께 놓고 보면 KT 위즈 쪽이 더 단단하게 보입니다. 상대전적에서도 큰 점수 차 경기와 접전이 함께 나왔지만, 중심 타선의 무게와 시즌 전체의 지속성까지 감안하면 이번 경기는 KT 위즈가 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.20","home":"삼성 라이온스","away":"SSG 랜더스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820SKSS02026-2026-08-20-samsung-lions/"},{"date":"26.08.19","home":"삼성 라이온스","away":"SSG 랜더스","score":"18-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819SKSS02026-2026-08-19-samsung-lions/"},{"date":"26.08.18","home":"삼성 라이온스","away":"SSG 랜더스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818SKSS02026-2026-08-18-samsung-lions/"},{"date":"26.08.16","home":"LG 트윈스","away":"SSG 랜더스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816SKLG02026-2026-08-16-lg-twins/"},{"date":"26.08.15","home":"LG 트윈스","away":"SSG 랜더스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815SKLG02026-2026-08-15-lg-twins/"}]'
+awayRecent: '[{"date":"26.08.20","home":"LG 트윈스","away":"KT 위즈","score":"4-16","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820KTLG02026-2026-08-20-lg-twins/"},{"date":"26.08.19","home":"LG 트윈스","away":"KT 위즈","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819KTLG02026-2026-08-19-lg-twins/"},{"date":"26.08.18","home":"LG 트윈스","away":"KT 위즈","score":"9-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818KTLG02026-2026-08-18-lg-twins/"},{"date":"26.08.16","home":"KT 위즈","away":"키움 히어로즈","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816WOKT02026-2026-08-16-kt-wiz-suwon/"},{"date":"26.08.15","home":"KT 위즈","away":"키움 히어로즈","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815WOKT02026-2026-08-15-kt-wiz-suwon/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KT 위즈"
+pickWinResult: "승"
+pickHandicapTeam: "KT 위즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "상하이 하이강 vs 칭다오 하이뉴 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | Super League - 픽천국"
+date: 2026-08-23T11:35:00.000Z
+description: "상하이 하이강 vs 칭다오 하이뉴 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186595-2026-08-23-shanghai-port"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "상하이 하이강"
+awayTeam: "칭다오 하이뉴"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/198616.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4183.png"
+homeAnalysis: "상하이 하이강은 2026시즌 17경기에서 6승 8무 3패, 평균 득점 1.5를 기록하며 공격과 안정감의 균형이 비교적 잘 잡힌 흐름을 보여주고 있습니다. 최근에도 무승부와 승리를 번갈아 만들며 쉽게 무너지지 않는 전력을 유지하고 있고, 특히 우한 산전, 충칭 통량룽, 허난 젠예전처럼 원정에서도 득점을 이어간 점이 돋보입니다. 리우 우, 레오나르두, 프린스 암팸, 오스카 멜렌도 조합이 앞선에서 움직이면 마무리 완성도가 살아나는 편이고, 케빈 머스캇 감독 체제에서 4-1-3-2 형태의 전개도 공격 자원 활용에 잘 맞아 보입니다. 다만 시즌 내내 무승부가 적지 않았던 만큼, 경기 주도권을 잡아도 마무리 한 방이 늦어지면 흐름이 길어질 수 있습니다. 홈에서는 실점을 완전히 통제하는 방식보다는, 득점 응답이 빠를 때 훨씬 강한 전력을 보이고 있습니다."
+awayAnalysis: "칭다오 하이뉴는 2026시즌 18경기에서 3승 3무 12패, 평균 득점 1.3으로 전반적인 전력 기복이 큰 편입니다. 최근에도 상위권 전력과의 경기에서 실점이 이어지며 버티는 힘이 약하게 드러났고, 한 번 흔들리면 수비 간격이 쉽게 벌어지는 모습이 보입니다. 야오 예보아, 말콤 에드주마, 용하오 진, 웬지에 송이 전방과 중원을 함께 맡고 있지만, 공격 전개가 매끄럽게 이어지지 않으면 득점 생산이 자주 막히는 편입니다. 밀란 리스틱 감독의 4-4-2는 수비 정렬에는 도움이 되지만, 강한 압박을 받는 경기에서는 역습 전환 속도가 관건이 됩니다. 원정에서는 특히 선제 실점 이후 경기 운영이 답답해지는 장면이 잦아, 초반 실점 관리가 매우 중요해 보입니다."
+homePower: "상하이 하이강, 공격 자원 다양성으로 득점 루트가 넓음|리우 우-레오나르두 조합의 마무리 기대치 높음|무승부 많은 흐름 속에서도 경기 지배력은 유지됨|4-1-3-2 구조로 전방 숫자 활용이 안정적임|상대전적상 다득점 상성이 꾸준히 확인됨"
+awayPower: "칭다오 하이뉴, 수비 블록은 갖추지만 압박 대응이 약함|야오 예보아 중심 역습 의존도가 높은 편임|원정 실점 누적이 경기 운영 부담으로 이어짐|4-4-2 배치로 중원 밀도는 확보되는 모습임|강한 상대와의 맞대결에서 버티는 시간이 짧음"
+h2h: '[{"date":"26.05.02","home":"칭다오 하이뉴","away":"상하이 하이강","score":"3-1","link":"https://pick79.com/posts/detail/analyze-1523128-2026-05-02-qingdao-jonoon/"},{"date":"25.10.17","home":"칭다오 하이뉴","away":"상하이 하이강","score":"3-4"},{"date":"25.05.09","home":"상하이 하이강","away":"칭다오 하이뉴","score":"3-1"},{"date":"24.07.21","home":"상하이 하이강","away":"칭다오 하이뉴","score":"5-0"},{"date":"24.05.01","home":"칭다오 하이뉴","away":"상하이 하이강","score":"0-5"}]'
+summary: "상하이 하이강은 시즌 전체 흐름에서 득점과 경기 운영의 균형이 비교적 안정적이고, 칭다오 하이뉴는 시즌 전반에 걸쳐 실점 부담이 큰 전력을 보이고 있습니다. 특히 상하이 하이강은 상대전적에서도 공격적으로 우위를 점한 경기가 많아, 이번 맞대결에서도 주도권을 잡을 가능성이 높아 보입니다. 칭다오 하이뉴가 초반 수비 집중력을 유지하지 못하면 흐름이 빠르게 기울 수 있고, 반대로 상하이 하이강은 전방 자원들의 마무리가 살아나는 순간 경기를 편하게 가져갈 가능성이 큽니다. 전력 차이와 맞대결 흐름을 함께 보면 상하이 하이강 쪽 기대가 더 높게 형성됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Junling Yan (GK)|https://images.fotmob.com/image_resources/playerimages/432795.png","Alex Yang (DF)|https://images.fotmob.com/image_resources/playerimages/1717071.png","Tyias Browning (DF)|https://images.fotmob.com/image_resources/playerimages/419196.png","Zhen Wei (DF)|https://images.fotmob.com/image_resources/playerimages/768631.png","Zhenao Wang (DF)|https://images.fotmob.com/image_resources/playerimages/949269.png","Jean Claude (MF)|https://images.fotmob.com/image_resources/playerimages/1324726.png","Mateus Vital (MF)|https://images.fotmob.com/image_resources/playerimages/688992.png","Óscar Melendo (MF)|https://images.fotmob.com/image_resources/playerimages/802987.png","Prince Ampem (FW)|https://images.fotmob.com/image_resources/playerimages/1187260.png","Lei Wu (FW)|https://images.fotmob.com/image_resources/playerimages/432819.png","Leonardo (FW)|https://images.fotmob.com/image_resources/playerimages/1025609.png"]'
+awayLineup: '["Pengfei Mu (GK)|https://images.fotmob.com/image_resources/playerimages/258150.png","Hailong Li (DF)|https://images.fotmob.com/image_resources/playerimages/768633.png","Yangyang Jin (DF)|https://images.fotmob.com/image_resources/playerimages/558930.png","Long Song (DF)|https://images.fotmob.com/image_resources/playerimages/143815.png","Suda Li (DF)|https://images.fotmob.com/image_resources/playerimages/1529485.png","Yaw Yeboah (FW)|https://images.fotmob.com/image_resources/playerimages/644001.png","Malcom Edjouma (MF)|https://images.fotmob.com/image_resources/playerimages/900576.png","Senwen Luo (MF)|https://images.fotmob.com/image_resources/playerimages/432732.png","Yonghao Jin (FW)|https://images.fotmob.com/image_resources/playerimages/1661152.png","Chuangyi Lin (MF)|https://images.fotmob.com/image_resources/playerimages/433035.png","Wenjie Song (FW)|https://images.fotmob.com/image_resources/playerimages/257679.png"]'
+homeFormation: "4-1-3-2"
+awayFormation: "4-4-2"
+homeCoach: "Kevin Muscat|https://images.fotmob.com/image_resources/playerimages/30514.png"
+awayCoach: "Milan Ristic|https://images.fotmob.com/image_resources/playerimages/1357107.png"
+pickWinTeam: "상하이 하이강"
+pickWinResult: "승"
+pickHandicapTeam: "상하이 하이강"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "3"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

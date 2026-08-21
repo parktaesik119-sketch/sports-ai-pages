@@ -1,0 +1,37 @@
+---
+title: "PSV 에인트호번 vs 흐로닝언 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | 에레디비지 - 픽천국"
+date: 2026-08-23T12:30:00.000Z
+description: "PSV 에인트호번 vs 흐로닝언 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781714-2026-08-23-psv-eindhoven"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "PSV 에인트호번"
+awayTeam: "흐로닝언"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8640.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8674.png"
+homeAnalysis: "PSV 에인트호번은 2026시즌 최근 10경기에서 7승 1무 2패로 안정적인 승률을 보여주고 있고, 경기당 평균 3.3득점으로 공격 전개가 매우 매끄럽습니다. 최근에는 에익스셀시오르전 승리와 포르투나 시타르트전 무승부, AZ전 패배가 이어지며 상위권 팀을 상대로는 흔들릴 수 있지만, 전반적인 득점 생산력은 여전히 강하게 유지되고 있습니다. 특히 홈에서 강한 흐름이 뚜렷하고, 비센트 페르시치와 리카르도 페피, 루벤 판 봄멜을 앞세운 마무리 선택지가 다양해 보입니다. 조이 페르만과 파울 바너가 중원을 잡아주면 템포 유지와 2선 연계가 더 살아날 수 있습니다. 다만 알라산 플레아와 예르디 스하우턴의 이탈은 전방 압박과 중원 안정감에 부담으로 작용할 수 있어, 초반 주도권을 얼마나 빠르게 잡느냐가 중요해 보입니다."
+awayAnalysis: "흐로닝언은 2026시즌 최근 11경기에서 5승 1무 5패를 기록하며 기복은 있지만, 경기당 평균 1.6득점으로는 필요한 순간에 득점을 만들어내는 힘을 보여주고 있습니다. 최근 아도 덴하흐전 대승과 위트레흐트전 승리처럼 반등 장면이 있었고, 원정에서도 한 번 흐름을 타면 득점과 결과를 함께 챙기는 모습이 있습니다. 다만 그 이전에는 바야돌리드전과 아약스전, 헤라클레스전 등에서 흔들린 장면이 있어 수비 집중력의 유지가 관건입니다. 오스카르 자와다와 말콤 옌그의 공백은 전방과 후방 모두에 부담을 줄 수 있고, 마르코 렌테의 상태도 변수로 보입니다. 브리뇨울푸르 빌룸손과 토마 판 바르헌이 전방에서 버텨주더라도, PSV 에인트호번의 빠른 전환을 오래 막아내기는 쉽지 않아 보입니다."
+homePower: "PSV 에인트호번의 높은 득점 지속성은 홈 압박 강도와 직결됨|비센트 페르시치-리카르도 페피 조합의 마무리 완성도 기대됨|조이 페르만 중심의 중원 장악이 경기 흐름을 좌우함|알라산 플레아 공백으로 공격 루트 분산은 더 중요해짐|홈에서는 초반 주도권을 잡으면 대량 득점 그림이 자주 보임"
+awayPower: "흐로닝언은 한 번 리듬을 타면 원정에서도 전환 속도가 살아남|브리뇰푸르 빌룸손의 전방 버팀이 반격 시작점으로 유효함|토마 판 바르헌과 펠레 클레멘트의 연계가 핵심 축임|마르코 렌테 공백으로 수비 뒷공간 관리가 더 중요해짐|득점 기복은 있으나 역습 효율은 분명히 검증된 편임"
+h2h: '[{"date":"26.02.09","home":"흐로닝언","away":"PSV 에인트호번","score":"1-2"},{"date":"25.08.24","home":"PSV 에인트호번","away":"흐로닝언","score":"4-2"},{"date":"25.04.06","home":"흐로닝언","away":"PSV 에인트호번","score":"1-3"},{"date":"24.11.24","home":"PSV 에인트호번","away":"흐로닝언","score":"5-0"},{"date":"23.02.12","home":"PSV 에인트호번","away":"흐로닝언","score":"6-0"}]'
+summary: "PSV 에인트호번은 2026시즌 들어 득점 생산력이 매우 높고, 경기 주도권을 길게 가져가는 힘이 뚜렷합니다. 흐로닝언은 최근 전력 기복이 있지만 원정에서 반전 장면을 만들 수 있는 팀이며, 일정한 득점 루트가 살아날 때는 충분히 맞설 수 있습니다. 다만 맞대결 흐름에서는 PSV 에인트호번이 대체로 우위를 이어왔고, 최근 흐름과 공격 효율까지 함께 놓고 보면 이번 경기에서도 PSV 에인트호번 쪽이 더 유리하게 전개될 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Alassane Pléa (부상)|Jerdy Schouten (부상)|Couhaib Driouech (충돌 부상)"
+injuryAway: "Malcolm Jeng (아킬레스건 부상)|Marco Rente (햄스트링 부상)|Oskar Zawada (충돌 부상)"
+homeLineup: '["Matej Kovár (GK)|https://images.fotmob.com/image_resources/playerimages/1077903.png","Sergiño Dest (DF)|https://images.fotmob.com/image_resources/playerimages/892816.png","Ryan Flamingo (DF)|https://images.fotmob.com/image_resources/playerimages/1386551.png","Armando Obispo (DF)|https://images.fotmob.com/image_resources/playerimages/794244.png","Mauro Júnior (DF)|https://images.fotmob.com/image_resources/playerimages/873556.png","Paul Wanner (MF)|https://images.fotmob.com/image_resources/playerimages/1327149.png","Joey Veerman (MF)|https://images.fotmob.com/image_resources/playerimages/792429.png","Ivan Perisic (FW)|https://images.fotmob.com/image_resources/playerimages/163670.png","Guus Til (FW)|https://images.fotmob.com/image_resources/playerimages/774947.png","Ruben van Bommel (FW)|https://images.fotmob.com/image_resources/playerimages/1359970.png","Ricardo Pepi (FW)|https://images.fotmob.com/image_resources/playerimages/1036401.png"]'
+awayLineup: '["Etienne Vaessen (GK)|https://images.fotmob.com/image_resources/playerimages/665170.png","Jorg Schreuders (FW)|https://images.fotmob.com/image_resources/playerimages/1419385.png","Thijmen Blokzijl (DF)|https://images.fotmob.com/image_resources/playerimages/1256173.png","Elvis van der Laan (DF)|https://images.fotmob.com/image_resources/playerimages/1720296.png","Wouter Prins (DF)|https://images.fotmob.com/image_resources/playerimages/1552425.png","Tika de Jonge (MF)|https://images.fotmob.com/image_resources/playerimages/1256176.png","Tygo Land (MF)|https://images.fotmob.com/image_resources/playerimages/1426704.png","David van der Werff (FW)|https://images.fotmob.com/image_resources/playerimages/1695991.png","Thom van Bergen (FW)|https://images.fotmob.com/image_resources/playerimages/1412105.png","Pelle Clement (MF)|https://images.fotmob.com/image_resources/playerimages/637741.png","Brynjólfur Willumsson (FW)|https://images.fotmob.com/image_resources/playerimages/937032.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Peter Bosz|https://images.fotmob.com/image_resources/playerimages/243556.png"
+awayCoach: "Dick Lukkien|https://images.fotmob.com/image_resources/playerimages/846372.png"
+pickWinTeam: "PSV 에인트호번"
+pickWinResult: "승"
+pickHandicapTeam: "PSV 에인트호번"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "3"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | MLB - 픽천국"
+date: 2026-08-22T01:40:00.000Z
+description: "애리조나 다이아몬드백스 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 82경기 44승 38패, 승률 .523, 평균 득점 4.7로 안정적인 경쟁력을 보여주고 있습니다. 최근 10경기에서도 6승 4패, 평균 득점 4.8로 타선의 생산성이 시즌 평균을 유지하고 있어 흐름이 나쁘지 않습니다. 다만 최근 원정 연전에서는 실점이 늘어나는 장면도 보였고, 홈에서는 비교적 득점 응집력이 살아나면서 경기 주도권을 잡는 모습이 돋보입니다. 득점력 자체는 꾸준한 편이며, 상위권 팀들을 상대로도 한 번씩 크게 터지는 공격 흐름이 강점으로 평가됩니다. 반면 최근 몇 경기에서는 수비 쪽 변동성이 드러나고 있어, 경기 초반 실점을 얼마나 줄이느냐가 중요해 보입니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 최근 88경기 37승 49패 2무, 승률 .477, 평균 득점 4.0으로 공격 효율이 다소 아쉬운 흐름입니다. 최근 10경기 역시 5승 5패, 평균 득점 4.0에 머물러 있어 반등의 힘은 보이지만, 경기마다 기복이 큰 편입니다. 특히 대량 실점이 나온 경기와 한 점 차 접전이 번갈아 나오고 있어 마운드 안정감이 흔들리는 모습이 보입니다. 원정 성적에서 득점이 크게 오르지 못하면 경기 운영이 답답해지는 경향이 있으며, 이는 상위 전력 상대에서 약점으로 이어질 수 있습니다. 다만 접전에서는 끝까지 추격하는 힘이 있어서 초반 실점을 억제하면 분위기를 바꿀 여지는 있습니다."
+homePower: "홈에서 공격 응집력이 살아나는 편임|상위권 상대에도 한 번씩 장타가 터짐|최근 실점 변동성은 불안 요소로 보임|경기 후반 접전 운영은 비교적 안정적임|주요 결장자 공백에도 타선 뎁스 유지됨"
+awayPower: "평균 득점 4.0의 제한적 생산력임|대량 실점과 접전이 교차하는 기복 큼|원정에서 초반 흐름 놓치면 회복이 어려움|접전 추격력은 있으나 마무리 효율은 들쭉날쭉임|주요 결장자 여파로 전력 균형이 약해 보임"
+h2h: '[{"date":"26.06.15","home":"신시내티 레즈","away":"애리조나 다이아몬드백스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-179081-2026-06-15-cincinnati-reds/"},{"date":"26.06.14","home":"신시내티 레즈","away":"애리조나 다이아몬드백스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-179065-2026-06-14-cincinnati-reds/"},{"date":"26.06.13","home":"신시내티 레즈","away":"애리조나 다이아몬드백스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-179052-2026-06-13-cincinnati-reds/"}]'
+summary: "애리조나 다이아몬드백스는 2026시즌 승률과 득실 모두 신시내티 레즈보다 앞서 있으며, 전반적인 전력 균형에서도 한 수 위로 보입니다. 두 팀의 최근 흐름을 함께 보면 애리조나 다이아몬드백스는 득점 생산이 꾸준하고, 신시내티 레즈는 공격 기복과 실점 관리의 불안이 함께 나타나고 있습니다. 상대전적에서도 애리조나 다이아몬드백스가 우세를 잡고 있어, 이번 경기는 홈팀이 더 안정적으로 주도권을 가져갈 가능성이 높습니다. 결장자 규모까지 고려하면 애리조나 다이아몬드백스 쪽 전력 우위가 더 선명하게 읽힙니다."
+homeRecent: '[{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"},{"date":"26.08.19","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"9-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819AZBO0-2026-08-19-boston-red-sox/"},{"date":"26.08.18","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818AZBO0-2026-08-18-boston-red-sox/"},{"date":"26.08.17","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817AZAT0-2026-08-17-atlanta-braves/"},{"date":"26.08.16","home":"애틀랜타 브레이브스","away":"애리조나 다이아몬드백스","score":"3-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816AZAT0-2026-08-16-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"},{"date":"26.08.20","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SLCI0-2026-08-20-cincinnati-reds/"},{"date":"26.08.19","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SLCI0-2026-08-19-cincinnati-reds/"},{"date":"26.08.18","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SLCI2-2026-08-18-cincinnati-reds/"},{"date":"26.08.17","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817FLCI0-2026-08-17-cincinnati-reds/"}]'
+injuryHome: "Ryan Thompson (긴급 결장)|Drey Jameson (염증)|Tommy Troy (염좌)|Lourdes Gurriel Jr. (긴급 결장)|Blake Walston (수술)"
+injuryAway: "Tony Santillan (긴급 결장)|Brandon Williamson (통증)|Graham Ashcraft (염좌)|Spencer Steer (염좌)|Blake Dunn (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 클리블랜드 가디언스 경기분석·라인업·결장자·통계·승부예측 (8월 22일) | MLB - 픽천국"
+date: 2026-08-22T00:40:00.000Z
+description: "콜로라도 로키스 vs 클리블랜드 가디언스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260822CLCO0-2026-08-22-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "클리블랜드 가디언스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 최근 72경기에서 29승 43패, 평균 득점 5.3을 기록하며 공격 생산성은 꽤 살아 있는 편입니다. 다만 최근 10경기에서 3승 7패로 흔들리고 있어, 득점은 유지되더라도 실점 억제가 되지 않으면 경기를 끝까지 가져가기 어려운 흐름입니다. 홈에서는 타선이 한 번 터지면 득점 폭이 커지는 장면이 자주 보이지만, 수비 쪽 안정감이 떨어져 접전에서 리드를 지키는 힘은 아쉬워 보입니다. 특히 주요 결장자가 여러 명 발생해 전력의 두께가 얇아진 점은 경기 후반 운영에 부담으로 이어질 수 있습니다. 그럼에도 홈에서는 공격 템포를 끌어올리며 상대 불펜을 압박하는 장면을 기대해 볼 수 있고, 이런 점이 이번 경기에서도 중요한 변수가 될 전망입니다."
+awayAnalysis: "클리블랜드 가디언스는 2026시즌 최근 92경기에서 41승 49패, 평균 득점 3.9를 기록하며 전체적으로는 득점 효율이 낮고 실점 억제에 의존하는 전력입니다. 최근 10경기에서 4승 6패로 완전히 무너지지는 않았지만, 경기마다 득점 기복이 있어 흐름이 길게 이어지지 않는 모습입니다. 현재 리그순위 9위이고 득실도 크지 않아, 순위만 보면 중상위권 추격 여지는 있지만 최근 경기 내용에서는 고점 대비 주춤한 인상이 있습니다. 원정에서는 타선이 한 번 막히면 반전이 쉽지 않기 때문에, 초반 득점 여부가 경기 전체의 방향을 크게 좌우할 가능성이 높습니다. 주요 결장자가 있는 상황이라 마운드와 중심 타선의 안정감이 동시에 흔들릴 수 있다는 점도 부담으로 보입니다."
+homePower: "홈에서 타선 폭발 시 경기 주도력 확실함|득실 마이너스로 수비 불안이 계속 드러남|주요 결장자 다수로 전력 공백이 큼|최근 원정형 강팀 상대로도 득점력 유지됨|접전보다 난타전에서 강점이 더 두드러짐"
+awayPower: "실점 억제는 되지만 공격 응집력은 약함|최근 승패 교차로 안정적 흐름은 아님|원정 경기에서 득점 생산 변동성 큼|중요 결장자 영향으로 마운드 운용 부담 큼|낮은 득실 격차로 접전 지속 능력은 제한적"
+h2h: '[]'
+summary: "콜로라도 로키스는 2026시즌 평균 득점 5.3으로 공격 잠재력이 분명하고, 홈에서 득점 템포를 끌어올릴 때 경기 흐름을 가져오는 힘이 있습니다. 반면 클리블랜드 가디언스는 평균 득점 3.9에 그쳐 공격 쪽 기복이 더 크고, 최근 흐름도 승패가 자주 갈리며 안정감이 완전하지는 않습니다. 리그순위는 클리블랜드 가디언스가 더 앞서 있지만 득실 차와 최근 경기 내용을 함께 보면, 이번 경기는 콜로라도 로키스가 초반부터 공격에서 우위를 잡고 끝까지 밀어붙일 가능성이 높아 보입니다. 결장자 부담까지 고려하면 전체적인 전력 균형은 홈팀 쪽으로 조금 더 기울어져 있습니다."
+homeRecent: '[{"date":"26.08.20","home":"콜로라도 로키스","away":"LA 다저스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820LACO0-2026-08-20-colorado-rockies/"},{"date":"26.08.19","home":"콜로라도 로키스","away":"LA 다저스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819LACO0-2026-08-19-colorado-rockies/"},{"date":"26.08.18","home":"콜로라도 로키스","away":"LA 다저스","score":"5-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818LACO0-2026-08-18-colorado-rockies/"},{"date":"26.08.17","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817COSF0-2026-08-17-san-francisco-giants/"},{"date":"26.08.16","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816COSF0-2026-08-16-san-francisco-giants/"}]'
+awayRecent: '[{"date":"26.08.21","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SFCL0-2026-08-21-cleveland-guardians/"},{"date":"26.08.20","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SFCL0-2026-08-20-cleveland-guardians/"},{"date":"26.08.19","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SFCL0-2026-08-19-cleveland-guardians/"},{"date":"26.08.17","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"0-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SDCL0-2026-08-17-cleveland-guardians/"},{"date":"26.08.16","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SDCL0-2026-08-16-cleveland-guardians/"}]'
+injuryHome: "Kyle Karros (뇌진탕)|McCade Brown (염증)|Tyler Freeman (통증)|Kyle Freeland (출전 여부 미정)|Hunter Goodman (근육 염좌)"
+injuryAway: "Chase DeLauter (통증)|Jo Adell (통증)|Colin Holderman (염증)|Slade Cecconi (통증)|Rhys Hoskins (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "콜로라도 로키스"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 로키스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

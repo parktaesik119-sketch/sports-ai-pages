@@ -1,0 +1,37 @@
+---
+title: "올림피아코스 vs Atromitos 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | Super League - 픽천국"
+date: 2026-08-22T18:30:00.000Z
+description: "올림피아코스 vs Atromitos 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5943228-2026-08-23-olympiacos"
+category: "soccer"
+country: "그리스"
+league: "Super League"
+homeTeam: "올림피아코스"
+awayTeam: "Atromitos"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8638.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10187.png"
+homeAnalysis: "올림피아코스는 2026시즌 최근 15경기에서 12승 3패, 평균 득점 83.9을 기록하며 전체적인 전력 자체는 매우 탄탄하게 유지하고 있습니다. 다만 최근 5경기 흐름은 0승 1무 4패, 평균 득점 0.8로 급격히 흔들리고 있어 경기 운영의 안정감이 예전 같지 않습니다. 특히 공격 마무리에서 답답함이 드러나고 있고, 실점 억제보다 득점 생산 쪽의 체감 하락이 더 크게 보입니다. 그래도 홈에서는 강한 압박과 점유 기반 전개로 주도권을 잡는 힘이 있으며, 상대가 수비적으로 내려앉을 때도 찬스를 만들어내는 능력은 여전히 기대할 만합니다. 유수프 야지치의 결장은 중원 창의성과 세밀한 패스 연결에 분명한 아쉬움을 남기지만, 팀 전체의 조직력과 홈에서의 경기 장악력은 여전히 우세하게 평가됩니다."
+awayAnalysis: "아트로미토스는 2026시즌 최근 5경기에서 4승 1패, 평균 득점 2.6을 기록하며 상승세가 뚜렷합니다. 최근 7경기 기준으로도 5승 2패, 평균 득점 2.4로 공격 전개가 상당히 활발하게 이어지고 있습니다. 특히 짧은 기간 동안 여러 경기에서 득점력을 유지하고 있어, 전방 전개가 한 번 살아나면 흐름을 길게 가져가는 모습이 인상적입니다. 수비 쪽에서는 무실점 경기가 섞여 있지만, 실점이 아예 없는 구조는 아니어서 강한 압박을 오래 버티는 상황에서는 흔들릴 여지가 있습니다. 이번 경기에서는 원정이라는 변수 속에서도 빠른 전환과 효율적인 마무리가 살아난다면 충분히 맞붙을 힘이 있어 보입니다."
+homePower: "홈에서 주도권 회복 시 득점 흐름 빠르게 살아남|야지치 공백으로 중앙 창의성 저하 가능성 보임|상대전적 우세가 심리적 안정으로 이어짐|최근 부진은 마무리 효율 문제로 해석됨|홈 압박과 점유 유지 능력은 여전히 강점임"
+awayPower: "최근 다득점 흐름으로 공격 효율 매우 높음|짧은 패스로 전개 속도 끌어올리는 모습임|원정에서도 흔들리지 않는 자신감이 보임|실점 허용은 있어 장기 수비는 과제로 남음|상대 수비가 무거우면 역습 위협 커짐"
+h2h: '[{"date":"26.01.11","home":"Atromitos","away":"올림피아코스","score":"0-2"},{"date":"25.11.23","home":"올림피아코스","away":"Atromitos","score":"3-0"},{"date":"25.01.19","home":"Atromitos","away":"올림피아코스","score":"1-2"},{"date":"24.09.30","home":"올림피아코스","away":"Atromitos","score":"2-0"},{"date":"23.12.22","home":"Atromitos","away":"올림피아코스","score":"0-0"}]'
+summary: "올림피아코스는 시즌 전체 전력만 놓고 보면 여전히 탄탄한 상위권 경쟁력과 홈에서의 장악력을 갖춘 팀으로 보입니다. 다만 최근 흐름이 크게 꺾이면서 공격 마무리의 날카로움이 떨어진 점은 분명한 변수입니다. 아트로미토스는 최근 득점 흐름이 살아 있고 전방 효율도 좋아서 쉽게 물러서지 않을 가능성이 높지만, 상대전적에서는 올림피아코스가 꾸준히 우세를 이어왔습니다. 이런 점을 종합하면 경기의 큰 축은 홈팀이 잡되, 원정팀의 공격 기세가 변수를 만들 수 있는 구도로 보는 편이 자연스럽습니다."
+homeRecent: '[{"date":"26.08.12","home":"NEC 네이메헌","away":"올림피아코스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5954878-2026-08-12-nec-nijmegen/"},{"date":"26.08.05","home":"올림피아코스","away":"NEC 네이메헌","score":"0-0","result":"🟡무"},{"date":"26.07.25","home":"AZ 알크마르","away":"올림피아코스","score":"3-2","result":"🔴패"},{"date":"26.07.18","home":"아약스","away":"올림피아코스","score":"1-0","result":"🔴패"},{"date":"26.07.18","home":"올림피아코스","away":"포르투나 시타르트","score":"3-1","result":"🟢승"}]'
+awayRecent: '[{"date":"26.08.19","home":"Atromitos","away":"Pyrgos AFC","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6030439-2026-08-19-atromitos/"},{"date":"26.07.31","home":"Atromitos","away":"Aris","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1607242-2026-07-31-atromitos/"},{"date":"26.05.22","home":"Atromitos","away":"Panserraikos","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1537108-2026-05-22-atromitos/"},{"date":"26.05.17","home":"Larisa","away":"Atromitos","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1537103-2026-05-17-larisa/"},{"date":"26.05.13","home":"Kifisia FC","away":"Atromitos","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1537100-2026-05-13-kifisia/"}]'
+injuryHome: "Yusuf Yazici (십자 인대 부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "올림피아코스"
+pickWinResult: "승"
+pickHandicapTeam: "올림피아코스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
