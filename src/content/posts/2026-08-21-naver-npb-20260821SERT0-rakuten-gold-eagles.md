@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.19","home":"라쿠텐 골든이글스","away":"지�
 awayRecent: '[{"date":"26.08.19","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260819OXSE0-2026-08-19-seibu-lions/"},{"date":"26.08.18","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818OXSE0-2026-08-18-seibu-lions/"},{"date":"26.08.16","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816JLSE0-2026-08-16-seibu-lions/"},{"date":"26.08.15","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815JLSE0-2026-08-15-seibu-lions/"},{"date":"26.08.14","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814JLSE0-2026-08-14-seibu-lions/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"선발투수 Ryota Takinaka (5-6, 3.01)|https://p.npb.jp/players_photo/2026/180/e/057_31235151.jpg\"]"
-awayLineup: "[\"선발투수 Kona Takahashi (8-5, 2.45)|https://p.npb.jp/players_photo/2026/180/l/013_71075130.jpg\"]"
+homeLineup: "[\"선발투수 다키나카 (5-6, 3.01)|https://p.npb.jp/players_photo/2026/180/e/057_31235151.jpg\"]"
+awayLineup: "[\"선발투수 다카하시 (8-5, 2.45)|https://p.npb.jp/players_photo/2026/180/l/013_71075130.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
