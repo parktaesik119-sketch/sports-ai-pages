@@ -391,7 +391,8 @@ const TEAM_NAME_MAP = {
   "Tokyo Verdy": "도쿄 베르디",
   "Urawa": "우라와 레드 다이아몬즈",
   "Urawa Red Diamonds": "우라와 레드 다이아몬즈",
-  "V-varen Nagasaki": "V파렌 나가사키",
+  "V-varen Nagasaki": "나가사키",
+  "V-Varen Nagasaki": "나가사키",
   "Vissel Kobe": "비셀 고베",
   "Yokohama F. Marinos": "요코하마 F마리노스",
 
