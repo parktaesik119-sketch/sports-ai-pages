@@ -24,8 +24,8 @@ homeLineup: '["Sultan Al Mantheri (GK)|https://images.fotmob.com/image_resources
 awayLineup: '["Mohamed Ali (GK)|https://images.fotmob.com/image_resources/playerimages/1295451.png","Pedro Malheiro (DF)|https://images.fotmob.com/image_resources/playerimages/1282144.png","Soufian Bouftiny (DF)|https://images.fotmob.com/image_resources/playerimages/884198.png","Adryelson (DF)|https://images.fotmob.com/image_resources/playerimages/638746.png","Hugo (DF)|https://images.fotmob.com/image_resources/playerimages/1182091.png","Brahian Palacios (MF)|https://images.fotmob.com/image_resources/playerimages/1353470.png","Siaka Sidibe (MF)|https://images.fotmob.com/image_resources/playerimages/1399222.png","Ridwan Popoola (MF)|https://images.fotmob.com/image_resources/playerimages/1744765.png","Ali Saleh (MF)|https://images.fotmob.com/image_resources/playerimages/721345.png","Renato Júnior (FW)|https://images.fotmob.com/image_resources/playerimages/1282441.png","Leandro Spadacio (FW)|https://images.fotmob.com/image_resources/playerimages/1138138.png"]'
 homeFormation: "4-4-2"
 awayFormation: "4-4-2"
-homeCoach: ""
-awayCoach: ""
+homeCoach: "Víctor Sánchez del Amo|https://images.fotmob.com/image_resources/playerimages/37869.png"
+awayCoach: "Rui Vitória|https://images.fotmob.com/image_resources/playerimages/280562.png"
 pickWinTeam: "Al-Wasl"
 pickWinResult: "승"
 pickHandicapTeam: "Al-Wasl"
