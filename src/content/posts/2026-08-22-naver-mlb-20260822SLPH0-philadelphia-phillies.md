@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.21","home":"신시내티 레즈","away":"세인트�
 injuryHome: "Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Felix Reyes (골절)|Johan Rojas (수술)"
 injuryAway: "Ramon Urias (건염)|Max Rajcic (수술)"
 homeLineup: "[\"선발투수 J. Luzardo (11-5, 3.23) ERA 3.23|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
-awayLineup: "[\"선발투수 H. Dobbins (3-3, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/4415836.png\"]"
+awayLineup: "[\"선발투수 H. Dobbins (3-3, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/4415836.png\",\"1번 J. Wetherholt (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"4번 J. Baez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4920835.png\",\"5번 B. Jordan (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4722953.png\",\"6번 J. Fermin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/38851.png\",\"7번 E. Pereira (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41252.png\",\"8번 B. Torres (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5125653.png\",\"9번 P. Pages (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42608.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
