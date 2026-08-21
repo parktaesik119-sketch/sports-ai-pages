@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.06.08","home":"ZED FC","away":"Wadi Degla FC","score":
 awayRecent: '[{"date":"26.06.08","home":"ZED FC","away":"Wadi Degla FC","score":"0-2","result":"🔴패"},{"date":"26.06.01","home":"Al Masry SC","away":"ZED FC","score":"1-0","result":"🔴패"},{"date":"26.05.29","home":"ZED FC","away":"Kahrbaa Ismailia","score":"1-1","result":"🟡무"},{"date":"26.05.26","home":"ZED FC","away":"Al Masry SC","score":"1-0","result":"🟢승"},{"date":"26.05.22","home":"Wadi Degla FC","away":"ZED FC","score":"2-2","result":"🟡무"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Amr Hossam (GK)|https://images.fotmob.com/image_resources/playerimages/1445639.png\",\"Ahmed Ayman (DF)|https://images.fotmob.com/image_resources/playerimages/1688856.png\",\"Mohamed Ragab (DF)|https://images.fotmob.com/image_resources/playerimages/1201031.png\",\"Seif Teka (DF)|https://images.fotmob.com/image_resources/playerimages/715314.png\",\"Shady Maher (DF)|https://images.fotmob.com/image_resources/playerimages/1797042.png\",\"Ahmed Scholes (MF)|https://images.fotmob.com/image_resources/playerimages/1797038.png\",\"Ibrahim El Bahnasi (MF)|https://images.fotmob.com/image_resources/playerimages/1797044.png\",\"Mohamed Abdelaati (MF)|https://images.fotmob.com/image_resources/playerimages/1332382.png\",\"Franck Boli (FW)|https://images.fotmob.com/image_resources/playerimages/306994.png\",\"Mahmoud Diasty (FW)|https://images.fotmob.com/image_resources/playerimages/1797045.png\",\"Youssef Oya (FW)|https://images.fotmob.com/image_resources/playerimages/1797039.png\"]"
+awayLineup: "[\"Aly Lotfi (GK)|https://images.fotmob.com/image_resources/playerimages/351187.png\",\"Abdallah Bakri (DF)|https://images.fotmob.com/image_resources/playerimages/1118917.png\",\"Mohamed Hussein (DF)|https://images.fotmob.com/image_resources/playerimages/1798075.png\",\"Mohamed Rabia (DF)|https://images.fotmob.com/image_resources/playerimages/1689085.png\",\"Ahmed El-Saghiri (MF)|https://images.fotmob.com/image_resources/playerimages/1260383.png\",\"Hamdy Alaa (MF)|https://images.fotmob.com/image_resources/playerimages/1366799.png\",\"Mahmoud Ouka (MF)|https://images.fotmob.com/image_resources/playerimages/1658198.png\",\"Mohamed Ezz (MF)|https://images.fotmob.com/image_resources/playerimages/1649144.png\",\"Abdelrahman El Banouby (FW)|https://images.fotmob.com/image_resources/playerimages/1448420.png\",\"Ahmed Adel Messi (FW)|https://images.fotmob.com/image_resources/playerimages/1131947.png\",\"Mostafa Saad (FW)|https://images.fotmob.com/image_resources/playerimages/1292839.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "3-4-3"
+homeCoach: "Mohamed El Sheikh|https://images.fotmob.com/image_resources/playerimages/1793540.png"
+awayCoach: "Mohamed Shawky|https://images.fotmob.com/image_resources/playerimages/97932.png"
 pickWinTeam: "Wadi Degla FC"
 pickWinResult: "승"
 pickHandicapTeam: "Wadi Degla FC"
