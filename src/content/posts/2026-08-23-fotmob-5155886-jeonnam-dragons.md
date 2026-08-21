@@ -24,8 +24,8 @@ homeLineup: '["Bong Jin Choi (GK)|https://images.fotmob.com/image_resources/play
 awayLineup: '["Kim Seung-Gun (GK)|https://images.fotmob.com/image_resources/playerimages/0.png","Jun-Seo Park (DF)|https://images.fotmob.com/image_resources/playerimages/1437331.png","Aleksandar Vojnovic (DF)|https://images.fotmob.com/image_resources/playerimages/1051094.png","Min-Jun Jang (DF)|https://images.fotmob.com/image_resources/playerimages/1233064.png","Dae-Hwan Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1375562.png","Jae-Seong Park (MF)|https://images.fotmob.com/image_resources/playerimages/1836776.png","Jung-Min Kim (MF)|https://images.fotmob.com/image_resources/playerimages/926408.png","Kyeong-Min Park (MF)|https://images.fotmob.com/image_resources/playerimages/1026759.png","Leonard Pllana (FW)|https://images.fotmob.com/image_resources/playerimages/726274.png","Byeong-Oh Kim (FW)|https://images.fotmob.com/image_resources/playerimages/637922.png","Jae-Min Jegal (FW)|https://images.fotmob.com/image_resources/playerimages/1232214.png"]'
 homeFormation: "3-4-3"
 awayFormation: "3-4-3"
-homeCoach: ""
-awayCoach: ""
+homeCoach: "Lim Kwan-Sik|https://images.fotmob.com/image_resources/playerimages/117386.png"
+awayCoach: "Cha Du-Ri|https://images.fotmob.com/image_resources/playerimages/36034.png"
 pickWinTeam: "화성 FC"
 pickWinResult: "승"
 pickHandicapTeam: "화성 FC"
