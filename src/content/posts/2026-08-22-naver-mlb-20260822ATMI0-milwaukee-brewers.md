@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.21","home":"시카고 화이트삭스","away":"애�
 injuryHome: "Sal Frelick (엉덩이 통증)|Joel Kuhnel (건염)|Abner Uribe (염좌)|JoJo Romero (결장)|Rob Zastryzny (염좌)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 homeLineup: "[\"선발투수 J. Misiorowski (12-5, 1.75) ERA 1.75|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
-awayLineup: "[\"선발투수 C. Sale (12-8, 2.16) ERA 2.16|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\"]"
+awayLineup: "[\"선발투수 C. Sale (12-8, 2.16) ERA 2.16|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\",\"1번 R. Acuna Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/36185.png\",\"2번 D. Baldwin (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"5번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"6번 M. Dubon (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"7번 D. Smith (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33218.png\",\"8번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"9번 M. Yastrzemski (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
