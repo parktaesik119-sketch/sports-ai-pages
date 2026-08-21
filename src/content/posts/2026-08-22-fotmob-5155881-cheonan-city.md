@@ -24,8 +24,8 @@ homeLineup: '["Ju-Won Park (GK)|https://images.fotmob.com/image_resources/player
 awayLineup: '["Jun-Hong Kim (GK)|https://images.fotmob.com/image_resources/playerimages/1261735.png","Geon-Hee Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1759631.png","Jong-Hyun Ko (DF)|https://images.fotmob.com/image_resources/playerimages/1816702.png","Jeong-Ho Hong (DF)|https://images.fotmob.com/image_resources/playerimages/245526.png","Sang-Min Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1385649.png","Fessin (MF)|https://images.fotmob.com/image_resources/playerimages/892655.png","Ho-Yeon Jung (MF)|https://images.fotmob.com/image_resources/playerimages/1384003.png","Seung-Beom Ko (MF)|https://images.fotmob.com/image_resources/playerimages/730758.png","Bruno Costa (MF)|https://images.fotmob.com/image_resources/playerimages/934707.png","Gyeol Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1626136.png","Reis (FW)|https://images.fotmob.com/image_resources/playerimages/406542.png"]'
 homeFormation: "3-4-3"
 awayFormation: "4-4-2"
-homeCoach: ""
-awayCoach: ""
+homeCoach: "Park Jin-Sub|https://images.fotmob.com/image_resources/playerimages/1135961.png"
+awayCoach: "Lee Jung-Hyo|https://images.fotmob.com/image_resources/playerimages/1437716.png"
 pickWinTeam: "수원 삼성 블루윙즈"
 pickWinResult: "승"
 pickHandicapTeam: "수원 삼성 블루윙즈"

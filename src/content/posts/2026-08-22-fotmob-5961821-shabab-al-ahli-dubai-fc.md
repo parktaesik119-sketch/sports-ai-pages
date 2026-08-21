@@ -24,8 +24,8 @@ homeLineup: '["Hamad Abdulla (GK)|https://images.fotmob.com/image_resources/play
 awayLineup: '["Eisa Houti (GK)|https://images.fotmob.com/image_resources/playerimages/1041838.png","Yousif Almarzooqi (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Serafim (DF)|https://images.fotmob.com/image_resources/playerimages/1708009.png","Ezeckiel Noumonvi (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Abdulla Al Karbi (DF)|https://images.fotmob.com/image_resources/playerimages/794049.png","Mohamed El Khaloui (MF)|https://images.fotmob.com/image_resources/playerimages/1236334.png","Marcelinho (MF)|https://images.fotmob.com/image_resources/playerimages/1192191.png","Dominique Mendy (MF)|https://images.fotmob.com/image_resources/playerimages/1354185.png","Rostand Djooh (MF)|https://images.fotmob.com/image_resources/playerimages/1826659.png","Regi Lushkja (MF)|https://images.fotmob.com/image_resources/playerimages/948252.png","Sory Kaba (FW)|https://images.fotmob.com/image_resources/playerimages/822026.png"]'
 homeFormation: "4-2-3-1"
 awayFormation: "5-4-1"
-homeCoach: ""
-awayCoach: ""
+homeCoach: "André Jardine|https://images.fotmob.com/image_resources/playerimages/1271663.png"
+awayCoach: "Alen Horvat|https://images.fotmob.com/image_resources/playerimages/1229635.png"
 pickWinTeam: "샤밥 알아흘리 두바이"
 pickWinResult: "승"
 pickHandicapTeam: "샤밥 알아흘리 두바이"

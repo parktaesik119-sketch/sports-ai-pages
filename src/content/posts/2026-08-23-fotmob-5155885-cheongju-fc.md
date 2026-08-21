@@ -24,8 +24,8 @@ homeLineup: '["Seung-Hwan Lee (GK)|https://images.fotmob.com/image_resources/pla
 awayLineup: '["Gi-Hyeon Lee (GK)|https://images.fotmob.com/image_resources/playerimages/654172.png","Ho-Jun Son (DF)|https://images.fotmob.com/image_resources/playerimages/1232294.png","Lucão (DF)|https://images.fotmob.com/image_resources/playerimages/1311921.png","Jung-Won Choi (DF)|https://images.fotmob.com/image_resources/playerimages/924309.png","Il-Lok Yun (DF)|https://images.fotmob.com/image_resources/playerimages/252614.png","Hyun-Seo Bae (MF)|https://images.fotmob.com/image_resources/playerimages/1613219.png","Chan-Dong Lee (MF)|https://images.fotmob.com/image_resources/playerimages/622042.png","Sang-Jun Cho (FW)|https://images.fotmob.com/image_resources/playerimages/1232265.png","Jeong-Hyun Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1329017.png","Ki-Pyo Kwon (MF)|https://images.fotmob.com/image_resources/playerimages/925538.png","Hyeon-Oh Kim (FW)|https://images.fotmob.com/image_resources/playerimages/1751268.png"]'
 homeFormation: "4-3-3"
 awayFormation: "4-2-3-1"
-homeCoach: ""
-awayCoach: ""
+homeCoach: "Rui Quinta|https://images.fotmob.com/image_resources/playerimages/586702.png"
+awayCoach: "Bae Sung-Jae|https://images.fotmob.com/image_resources/playerimages/1805161.png"
 pickWinTeam: "경남 FC"
 pickWinResult: "승"
 pickHandicapTeam: "경남 FC"

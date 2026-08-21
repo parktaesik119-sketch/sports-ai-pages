@@ -24,8 +24,8 @@ homeLineup: '["Seong-Jun Min (GK)|https://images.fotmob.com/image_resources/play
 awayLineup: '["Won-Woo Ryu (GK)|https://images.fotmob.com/image_resources/playerimages/307920.png","Noh Seung-Ik (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Hyeon-Byung Jeon (DF)|https://images.fotmob.com/image_resources/playerimages/1440148.png","Julián Bonilla (DF)|https://images.fotmob.com/image_resources/playerimages/1356325.png","Min-Ki Lee (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Jea-Ho Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1067161.png","Jung-Woon Hong (MF)|https://images.fotmob.com/image_resources/playerimages/734953.png","Beom-Kyung Choi (MF)|https://images.fotmob.com/image_resources/playerimages/940691.png","Julio Báez (MF)|https://images.fotmob.com/image_resources/playerimages/1609606.png","Borja Bastón (FW)|https://images.fotmob.com/image_resources/playerimages/200917.png","Jun-Seok Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1042269.png"]'
 homeFormation: "4-3-3"
 awayFormation: "4-3-3"
-homeCoach: ""
-awayCoach: ""
+homeCoach: "Kim Do-Kyun|https://images.fotmob.com/image_resources/playerimages/1136259.png"
+awayCoach: "Gerard Nus|https://images.fotmob.com/image_resources/playerimages/1207584.png"
 pickWinTeam: "서울 이랜드 FC"
 pickWinResult: "승"
 pickHandicapTeam: "서울 이랜드 FC"
