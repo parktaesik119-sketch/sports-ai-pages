@@ -82,281 +82,163 @@
     }
   },
   {
-    "home": "Le Mans",
-    "away": "Brest",
-    "date": "2026-08-22T18:45:00.000Z",
-    "league": "Ligue 1",
+    "home": "Cerro Largo",
+    "away": "Defensor Sporting",
+    "date": "2026-08-22T18:00:00.000Z",
+    "league": "Liga AUF Uruguaya Clausura",
     "sport": "soccer",
-    "espnSport": "soccer_ligue1",
-    "gameId": "401876491",
+    "espnSport": "soccer_uruguay",
+    "gameId": "401909201",
     "injuries": {
       "home": [],
       "away": []
     },
     "standings": {
       "home": {
-        "rank": "6",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      },
-      "away": {
-        "rank": "4",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Nice",
-    "away": "Lorient",
-    "date": "2026-08-22T18:45:00.000Z",
-    "league": "Ligue 1",
-    "sport": "soccer",
-    "espnSport": "soccer_ligue1",
-    "gameId": "401876488",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "12",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      },
-      "away": {
-        "rank": "9",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "NICE leads series 2-1-2",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-03-04T19:30:00Z",
-          "home": "Lorient",
-          "away": "Nice",
-          "homeScore": 0,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-02-22T16:15:00Z",
-          "home": "Nice",
-          "away": "Lorient",
-          "homeScore": 3,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-11-30T16:15:00Z",
-          "home": "Lorient",
-          "away": "Nice",
-          "homeScore": 3,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-04-19T19:00:00Z",
-          "home": "Nice",
-          "away": "Lorient",
-          "homeScore": 3,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2023-08-20T13:00:00Z",
-          "home": "Lorient",
-          "away": "Nice",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Toulouse",
-    "away": "Lyon",
-    "date": "2026-08-22T18:45:00.000Z",
-    "league": "Ligue 1",
-    "sport": "soccer",
-    "espnSport": "soccer_ligue1",
-    "gameId": "401876486",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "16",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      },
-      "away": {
         "rank": "10",
         "wins": "0",
         "losses": "0",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "2",
+        "pointsAgainst": "2"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "0",
+        "losses": "2",
         "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
         "pointsFor": "0",
-        "pointsAgainst": "0"
+        "pointsAgainst": "5"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 2-2-1",
+      "text": "DSC leads series 2-1-2",
       "totalGames": 5,
       "games": [
         {
-          "date": "2026-05-10T19:00:00Z",
-          "home": "Toulouse",
-          "away": "Lyon",
-          "homeScore": 2,
+          "date": "2026-07-13T22:00:00Z",
+          "home": "Cerro Largo",
+          "away": "Defensor Sporting",
+          "homeScore": 1,
           "awayScore": 1,
           "isCompleted": true
         },
         {
-          "date": "2025-10-05T13:00:00Z",
-          "home": "Lyon",
-          "away": "Toulouse",
+          "date": "2026-02-21T00:30:00Z",
+          "home": "Defensor Sporting",
+          "away": "Cerro Largo",
           "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-01-18T20:05:00Z",
-          "home": "Lyon",
-          "away": "Toulouse",
-          "homeScore": 0,
           "awayScore": 0,
           "isCompleted": true
         },
         {
-          "date": "2024-09-29T13:00:00Z",
-          "home": "Toulouse",
-          "away": "Lyon",
+          "date": "2025-09-13T21:00:00Z",
+          "home": "Cerro Largo",
+          "away": "Defensor Sporting",
           "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-24T23:00:00Z",
+          "home": "Defensor Sporting",
+          "away": "Cerro Largo",
+          "homeScore": 3,
           "awayScore": 2,
           "isCompleted": true
         },
         {
-          "date": "2024-03-15T20:00:00Z",
-          "home": "Toulouse",
-          "away": "Lyon",
-          "homeScore": 2,
-          "awayScore": 3,
+          "date": "2025-03-23T00:15:00Z",
+          "home": "Defensor Sporting",
+          "away": "Cerro Largo",
+          "homeScore": 0,
+          "awayScore": 0,
           "isCompleted": true
         }
       ]
     }
   },
   {
-    "home": "Troyes",
-    "away": "Paris FC",
-    "date": "2026-08-22T18:45:00.000Z",
-    "league": "Ligue 1",
+    "home": "Deportivo Maldonado",
+    "away": "Peñarol",
+    "date": "2026-08-22T21:30:00.000Z",
+    "league": "Liga AUF Uruguaya Clausura",
     "sport": "soccer",
-    "espnSport": "soccer_ligue1",
-    "gameId": "401876485",
+    "espnSport": "soccer_uruguay",
+    "gameId": "401909160",
     "injuries": {
       "home": [],
       "away": []
     },
     "standings": {
       "home": {
-        "rank": "17",
-        "wins": "0",
+        "rank": "4",
+        "wins": "1",
         "losses": "0",
-        "ties": "0",
+        "ties": "1",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "pointsFor": "4",
+        "pointsAgainst": "2"
       },
       "away": {
-        "rank": "13",
-        "wins": "0",
+        "rank": "7",
+        "wins": "1",
         "losses": "0",
         "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "pointsFor": "2",
+        "pointsAgainst": "1"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "PAR leads series 3-0-2",
+      "text": "PEN leads series 4-0-1",
       "totalGames": 5,
       "games": [
         {
-          "date": "2025-02-21T19:00:00Z",
-          "home": "Paris FC",
-          "away": "Troyes",
-          "homeScore": 1,
+          "date": "2026-02-22T23:30:00Z",
+          "home": "Peñarol",
+          "away": "Deportivo Maldonado",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-11T22:00:00Z",
+          "home": "Peñarol",
+          "away": "Deportivo Maldonado",
+          "homeScore": 2,
           "awayScore": 0,
           "isCompleted": true
         },
         {
-          "date": "2024-10-21T18:45:00Z",
-          "home": "Troyes",
-          "away": "Paris FC",
+          "date": "2024-07-06T18:30:00Z",
+          "home": "Peñarol",
+          "away": "Deportivo Maldonado",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-07T21:00:00Z",
+          "home": "Deportivo Maldonado",
+          "away": "Peñarol",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-10-14T00:00:00Z",
+          "home": "Deportivo Maldonado",
+          "away": "Peñarol",
           "homeScore": 0,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-04-13T17:00:00Z",
-          "home": "Troyes",
-          "away": "Paris FC",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2023-10-28T17:00:00Z",
-          "home": "Paris FC",
-          "away": "Troyes",
-          "homeScore": 2,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2021-04-10T13:00:00Z",
-          "home": "Paris FC",
-          "away": "Troyes",
-          "homeScore": 1,
           "awayScore": 1,
           "isCompleted": true
         }
@@ -692,252 +574,6 @@
     }
   },
   {
-    "home": "Udinese",
-    "away": "Como",
-    "date": "2026-08-22T16:30:00.000Z",
-    "league": "Serie A",
-    "sport": "soccer",
-    "espnSport": "soccer_seriea",
-    "gameId": "401874745",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "19",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      },
-      "away": {
-        "rank": "5",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "Series tied 2-2-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-04-06T10:30:00Z",
-          "home": "Udinese",
-          "away": "Como",
-          "homeScore": 0,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-01-03T11:30:00Z",
-          "home": "Como",
-          "away": "Udinese",
-          "homeScore": 1,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-01-20T19:45:00Z",
-          "home": "Como",
-          "away": "Udinese",
-          "homeScore": 4,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-09-01T18:45:00Z",
-          "home": "Udinese",
-          "away": "Como",
-          "homeScore": 1,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2003-04-19T13:00:00Z",
-          "home": "Udinese",
-          "away": "Como",
-          "homeScore": 3,
-          "awayScore": 2,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Genoa",
-    "away": "Napoli",
-    "date": "2026-08-22T18:45:00.000Z",
-    "league": "Serie A",
-    "sport": "soccer",
-    "espnSport": "soccer_seriea",
-    "gameId": "401874929",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "8",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      },
-      "away": {
-        "rank": "14",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "NAP leads series 3-0-2",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-02-07T17:00:00Z",
-          "home": "Genoa",
-          "away": "Napoli",
-          "homeScore": 2,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-10-05T16:00:00Z",
-          "home": "Napoli",
-          "away": "Genoa",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-05-11T18:45:00Z",
-          "home": "Napoli",
-          "away": "Genoa",
-          "homeScore": 2,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-12-21T17:00:00Z",
-          "home": "Genoa",
-          "away": "Napoli",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-02-17T14:00:00Z",
-          "home": "Napoli",
-          "away": "Genoa",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Parma",
-    "away": "Cagliari",
-    "date": "2026-08-22T18:45:00.000Z",
-    "league": "Serie A",
-    "sport": "soccer",
-    "espnSport": "soccer_seriea",
-    "gameId": "401874747",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "15",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      },
-      "away": {
-        "rank": "4",
-        "wins": "0",
-        "losses": "0",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "CAG leads series 3-0-2",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-02-27T19:45:00Z",
-          "home": "Parma",
-          "away": "Cagliari",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-09-13T13:00:00Z",
-          "home": "Cagliari",
-          "away": "Parma",
-          "homeScore": 2,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-02-09T14:00:00Z",
-          "home": "Cagliari",
-          "away": "Parma",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-09-30T18:45:00Z",
-          "home": "Parma",
-          "away": "Cagliari",
-          "homeScore": 2,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2023-06-03T18:30:00Z",
-          "home": "Parma",
-          "away": "Cagliari",
-          "homeScore": 0,
-          "awayScore": 0,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "Sparta Rotterdam",
     "away": "FC Utrecht",
     "date": "2026-08-22T16:45:00.000Z",
@@ -1184,80 +820,526 @@
     }
   },
   {
-    "home": "Cerro Largo",
-    "away": "Defensor Sporting",
-    "date": "2026-08-22T18:00:00.000Z",
-    "league": "Liga AUF Uruguaya Clausura",
+    "home": "Le Mans",
+    "away": "Brest",
+    "date": "2026-08-22T18:45:00.000Z",
+    "league": "Ligue 1",
     "sport": "soccer",
-    "espnSport": "soccer_uruguay",
-    "gameId": "401909201",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876491",
     "injuries": {
       "home": [],
       "away": []
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "6",
         "wins": "0",
         "losses": "0",
-        "ties": "2",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "2",
-        "pointsAgainst": "2"
-      },
-      "away": {
-        "rank": "16",
-        "wins": "0",
-        "losses": "2",
         "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
         "pointsFor": "0",
-        "pointsAgainst": "5"
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Nice",
+    "away": "Lorient",
+    "date": "2026-08-22T18:45:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876488",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "DSC leads series 2-1-2",
+      "text": "NICE leads series 2-1-2",
       "totalGames": 5,
       "games": [
         {
-          "date": "2026-07-13T22:00:00Z",
-          "home": "Cerro Largo",
-          "away": "Defensor Sporting",
+          "date": "2026-03-04T19:30:00Z",
+          "home": "Lorient",
+          "away": "Nice",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-02-22T16:15:00Z",
+          "home": "Nice",
+          "away": "Lorient",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-30T16:15:00Z",
+          "home": "Lorient",
+          "away": "Nice",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-19T19:00:00Z",
+          "home": "Nice",
+          "away": "Lorient",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-08-20T13:00:00Z",
+          "home": "Lorient",
+          "away": "Nice",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Toulouse",
+    "away": "Lyon",
+    "date": "2026-08-22T18:45:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876486",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "16",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "home": "Toulouse",
+          "away": "Lyon",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-05T13:00:00Z",
+          "home": "Lyon",
+          "away": "Toulouse",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-01-18T20:05:00Z",
+          "home": "Lyon",
+          "away": "Toulouse",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-29T13:00:00Z",
+          "home": "Toulouse",
+          "away": "Lyon",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-03-15T20:00:00Z",
+          "home": "Toulouse",
+          "away": "Lyon",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Troyes",
+    "away": "Paris FC",
+    "date": "2026-08-22T18:45:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876485",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "17",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PAR leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-02-21T19:00:00Z",
+          "home": "Paris FC",
+          "away": "Troyes",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-21T18:45:00Z",
+          "home": "Troyes",
+          "away": "Paris FC",
+          "homeScore": 0,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-13T17:00:00Z",
+          "home": "Troyes",
+          "away": "Paris FC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-10-28T17:00:00Z",
+          "home": "Paris FC",
+          "away": "Troyes",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-04-10T13:00:00Z",
+          "home": "Paris FC",
+          "away": "Troyes",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Udinese",
+    "away": "Como",
+    "date": "2026-08-22T16:30:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874745",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "19",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-06T10:30:00Z",
+          "home": "Udinese",
+          "away": "Como",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-01-03T11:30:00Z",
+          "home": "Como",
+          "away": "Udinese",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-01-20T19:45:00Z",
+          "home": "Como",
+          "away": "Udinese",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-01T18:45:00Z",
+          "home": "Udinese",
+          "away": "Como",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2003-04-19T13:00:00Z",
+          "home": "Udinese",
+          "away": "Como",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Genoa",
+    "away": "Napoli",
+    "date": "2026-08-22T18:45:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874929",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NAP leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-02-07T17:00:00Z",
+          "home": "Genoa",
+          "away": "Napoli",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-05T16:00:00Z",
+          "home": "Napoli",
+          "away": "Genoa",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-11T18:45:00Z",
+          "home": "Napoli",
+          "away": "Genoa",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-12-21T17:00:00Z",
+          "home": "Genoa",
+          "away": "Napoli",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-02-17T14:00:00Z",
+          "home": "Napoli",
+          "away": "Genoa",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Parma",
+    "away": "Cagliari",
+    "date": "2026-08-22T18:45:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874747",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CAG leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-02-27T19:45:00Z",
+          "home": "Parma",
+          "away": "Cagliari",
           "homeScore": 1,
           "awayScore": 1,
           "isCompleted": true
         },
         {
-          "date": "2026-02-21T00:30:00Z",
-          "home": "Defensor Sporting",
-          "away": "Cerro Largo",
-          "homeScore": 1,
+          "date": "2025-09-13T13:00:00Z",
+          "home": "Cagliari",
+          "away": "Parma",
+          "homeScore": 2,
           "awayScore": 0,
           "isCompleted": true
         },
         {
-          "date": "2025-09-13T21:00:00Z",
-          "home": "Cerro Largo",
-          "away": "Defensor Sporting",
-          "homeScore": 1,
-          "awayScore": 0,
+          "date": "2025-02-09T14:00:00Z",
+          "home": "Cagliari",
+          "away": "Parma",
+          "homeScore": 2,
+          "awayScore": 1,
           "isCompleted": true
         },
         {
-          "date": "2025-05-24T23:00:00Z",
-          "home": "Defensor Sporting",
-          "away": "Cerro Largo",
-          "homeScore": 3,
-          "awayScore": 2,
+          "date": "2024-09-30T18:45:00Z",
+          "home": "Parma",
+          "away": "Cagliari",
+          "homeScore": 2,
+          "awayScore": 3,
           "isCompleted": true
         },
         {
-          "date": "2025-03-23T00:15:00Z",
-          "home": "Defensor Sporting",
-          "away": "Cerro Largo",
+          "date": "2023-06-03T18:30:00Z",
+          "home": "Parma",
+          "away": "Cagliari",
           "homeScore": 0,
           "awayScore": 0,
           "isCompleted": true
@@ -1266,82 +1348,82 @@
     }
   },
   {
-    "home": "Deportivo Maldonado",
-    "away": "Peñarol",
-    "date": "2026-08-22T21:30:00.000Z",
+    "home": "Nacional",
+    "away": "Progreso",
+    "date": "2026-08-23T21:30:00.000Z",
     "league": "Liga AUF Uruguaya Clausura",
     "sport": "soccer",
     "espnSport": "soccer_uruguay",
-    "gameId": "401909160",
+    "gameId": "401909199",
     "injuries": {
       "home": [],
       "away": []
     },
     "standings": {
       "home": {
-        "rank": "4",
-        "wins": "1",
-        "losses": "0",
-        "ties": "1",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "4",
-        "pointsAgainst": "2"
-      },
-      "away": {
-        "rank": "7",
-        "wins": "1",
-        "losses": "0",
+        "rank": "14",
+        "wins": "0",
+        "losses": "2",
         "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "2",
-        "pointsAgainst": "1"
+        "pointsFor": "1",
+        "pointsAgainst": "4"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "0",
+        "losses": "2",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "3"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "PEN leads series 4-0-1",
+      "text": "NAC leads series 5-0",
       "totalGames": 5,
       "games": [
         {
-          "date": "2026-02-22T23:30:00Z",
-          "home": "Peñarol",
-          "away": "Deportivo Maldonado",
+          "date": "2026-08-02T21:30:00Z",
+          "home": "Nacional",
+          "away": "Progreso",
           "homeScore": 2,
           "awayScore": 1,
           "isCompleted": true
         },
         {
-          "date": "2024-10-11T22:00:00Z",
-          "home": "Peñarol",
-          "away": "Deportivo Maldonado",
-          "homeScore": 2,
+          "date": "2026-02-21T23:30:00Z",
+          "home": "Progreso",
+          "away": "Nacional",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-16T21:00:00Z",
+          "home": "Nacional",
+          "away": "Progreso",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-23T23:30:00Z",
+          "home": "Nacional",
+          "away": "Progreso",
+          "homeScore": 1,
           "awayScore": 0,
           "isCompleted": true
         },
         {
-          "date": "2024-07-06T18:30:00Z",
-          "home": "Peñarol",
-          "away": "Deportivo Maldonado",
+          "date": "2025-02-16T20:00:00Z",
+          "home": "Progreso",
+          "away": "Nacional",
           "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-04-07T21:00:00Z",
-          "home": "Deportivo Maldonado",
-          "away": "Peñarol",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2023-10-14T00:00:00Z",
-          "home": "Deportivo Maldonado",
-          "away": "Peñarol",
-          "homeScore": 0,
-          "awayScore": 1,
+          "awayScore": 5,
           "isCompleted": true
         }
       ]
@@ -1832,88 +1914,6 @@
     }
   },
   {
-    "home": "Nacional",
-    "away": "Progreso",
-    "date": "2026-08-23T21:30:00.000Z",
-    "league": "Liga AUF Uruguaya Clausura",
-    "sport": "soccer",
-    "espnSport": "soccer_uruguay",
-    "gameId": "401909199",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "14",
-        "wins": "0",
-        "losses": "2",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "1",
-        "pointsAgainst": "4"
-      },
-      "away": {
-        "rank": "15",
-        "wins": "0",
-        "losses": "2",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "0",
-        "pointsAgainst": "3"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "NAC leads series 5-0",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-08-02T21:30:00Z",
-          "home": "Nacional",
-          "away": "Progreso",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-02-21T23:30:00Z",
-          "home": "Progreso",
-          "away": "Nacional",
-          "homeScore": 0,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-08-16T21:00:00Z",
-          "home": "Nacional",
-          "away": "Progreso",
-          "homeScore": 3,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-05-23T23:30:00Z",
-          "home": "Nacional",
-          "away": "Progreso",
-          "homeScore": 1,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-02-16T20:00:00Z",
-          "home": "Progreso",
-          "away": "Nacional",
-          "homeScore": 1,
-          "awayScore": 5,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "Cincinnati Reds",
     "away": "St.Louis Cardinals",
     "date": "2026-08-20T16:40:00.000Z",
@@ -1934,17 +1934,17 @@
           "detail": "Sprain"
         },
         {
+          "name": "Michael Toglia",
+          "status": "Out",
+          "detail": "Dislocated"
+        },
+        {
           "name": "Spencer Steer",
           "status": "10-Day-IL",
           "detail": "Sprain"
         },
         {
           "name": "Blake Dunn",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Hunter Greene",
           "status": "60-Day-IL",
           "detail": "Surgery"
         }
@@ -1954,6 +1954,11 @@
           "name": "Ramon Urias",
           "status": "60-Day-IL",
           "detail": "Tendinitis"
+        },
+        {
+          "name": "Hunter Dobbins",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
         },
         {
           "name": "Andre Pallante",
@@ -1971,22 +1976,22 @@
       "home": {
         "rank": "11",
         "wins": "61",
-        "losses": "67",
+        "losses": "68",
         "ties": "0",
-        "winPercent": ".477",
-        "gamesBehind": "18.5",
+        "winPercent": ".473",
+        "gamesBehind": "19",
         "pointsFor": "523",
-        "pointsAgainst": "612"
+        "pointsAgainst": "621"
       },
       "away": {
         "rank": "8",
         "wins": "66",
-        "losses": "63",
+        "losses": "64",
         "ties": "0",
-        "winPercent": ".512",
-        "gamesBehind": "14",
-        "pointsFor": "572",
-        "pointsAgainst": "562"
+        "winPercent": ".508",
+        "gamesBehind": "14.5",
+        "pointsFor": "578",
+        "pointsAgainst": "569"
       }
     },
     "h2h": {
@@ -2170,24 +2175,24 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
-        "wins": "62",
+        "rank": "8",
+        "wins": "63",
         "losses": "66",
         "ties": "0",
-        "winPercent": ".484",
-        "gamesBehind": "14",
-        "pointsFor": "507",
-        "pointsAgainst": "530"
+        "winPercent": ".488",
+        "gamesBehind": "13.5",
+        "pointsFor": "516",
+        "pointsAgainst": "531"
       },
       "away": {
         "rank": "14",
         "wins": "52",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".409",
-        "gamesBehind": "27",
-        "pointsFor": "513",
-        "pointsAgainst": "589"
+        "winPercent": ".406",
+        "gamesBehind": "27.5",
+        "pointsFor": "517",
+        "pointsAgainst": "595"
       }
     },
     "h2h": {
@@ -2230,11 +2235,6 @@
           "detail": "Surgery"
         },
         {
-          "name": "Jonathan Heasley",
-          "status": "60-Day-IL",
-          "detail": "Fracture"
-        },
-        {
           "name": "Cole Sulser",
           "status": "15-Day-IL",
           "detail": "Spasms"
@@ -2248,6 +2248,11 @@
           "name": "Jake Fraley",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Jonathan Heasley",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
         }
       ],
       "away": [
@@ -2290,14 +2295,14 @@
         "pointsAgainst": "539"
       },
       "away": {
-        "rank": "8",
+        "rank": "9",
         "wins": "63",
-        "losses": "66",
+        "losses": "67",
         "ties": "0",
-        "winPercent": ".488",
-        "gamesBehind": "13.5",
-        "pointsFor": "513",
-        "pointsAgainst": "562"
+        "winPercent": ".485",
+        "gamesBehind": "14",
+        "pointsFor": "514",
+        "pointsAgainst": "565"
       }
     },
     "h2h": {
@@ -2471,13 +2476,13 @@
     "standings": {
       "home": {
         "rank": "4",
-        "wins": "66",
+        "wins": "67",
         "losses": "61",
         "ties": "0",
-        "winPercent": ".520",
-        "gamesBehind": "9.5",
-        "pointsFor": "605",
-        "pointsAgainst": "560"
+        "winPercent": ".523",
+        "gamesBehind": "9",
+        "pointsFor": "611",
+        "pointsAgainst": "564"
       },
       "away": {
         "rank": "3",
@@ -2589,23 +2594,23 @@
     "standings": {
       "home": {
         "rank": "13",
-        "wins": "55",
+        "wins": "56",
         "losses": "74",
         "ties": "0",
-        "winPercent": ".426",
-        "gamesBehind": "21.5",
-        "pointsFor": "541",
-        "pointsAgainst": "641"
+        "winPercent": ".431",
+        "gamesBehind": "21",
+        "pointsFor": "546",
+        "pointsAgainst": "643"
       },
       "away": {
         "rank": "15",
         "wins": "49",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".383",
-        "gamesBehind": "27",
+        "winPercent": ".380",
+        "gamesBehind": "27.5",
         "pointsFor": "557",
-        "pointsAgainst": "742"
+        "pointsAgainst": "746"
       }
     },
     "h2h": {
@@ -2741,13 +2746,13 @@
       },
       "away": {
         "rank": "12",
-        "wins": "60",
+        "wins": "61",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".469",
-        "gamesBehind": "16",
-        "pointsFor": "500",
-        "pointsAgainst": "546"
+        "winPercent": ".473",
+        "gamesBehind": "15.5",
+        "pointsFor": "506",
+        "pointsAgainst": "551"
       }
     },
     "h2h": {
@@ -2851,13 +2856,13 @@
       },
       "away": {
         "rank": "2",
-        "wins": "72",
+        "wins": "73",
         "losses": "55",
         "ties": "0",
-        "winPercent": ".567",
-        "gamesBehind": "3.5",
-        "pointsFor": "565",
-        "pointsAgainst": "471"
+        "winPercent": ".570",
+        "gamesBehind": "3",
+        "pointsFor": "568",
+        "pointsAgainst": "472"
       }
     },
     "h2h": {
@@ -3006,24 +3011,24 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
-        "wins": "63",
+        "rank": "6",
+        "wins": "64",
         "losses": "65",
         "ties": "0",
-        "winPercent": ".492",
-        "gamesBehind": "13",
-        "pointsFor": "514",
-        "pointsAgainst": "560"
+        "winPercent": ".496",
+        "gamesBehind": "12.5",
+        "pointsFor": "516",
+        "pointsAgainst": "561"
       },
       "away": {
         "rank": "12",
         "wins": "61",
-        "losses": "68",
+        "losses": "69",
         "ties": "0",
-        "winPercent": ".473",
-        "gamesBehind": "19",
-        "pointsFor": "676",
-        "pointsAgainst": "659"
+        "winPercent": ".469",
+        "gamesBehind": "19.5",
+        "pointsFor": "678",
+        "pointsAgainst": "662"
       }
     },
     "h2h": {
@@ -3117,23 +3122,23 @@
     "standings": {
       "home": {
         "rank": "5",
-        "wins": "64",
+        "wins": "65",
         "losses": "64",
         "ties": "0",
-        "winPercent": ".500",
-        "gamesBehind": "12",
-        "pointsFor": "583",
+        "winPercent": ".504",
+        "gamesBehind": "11.5",
+        "pointsFor": "587",
         "pointsAgainst": "629"
       },
       "away": {
         "rank": "14",
         "wins": "51",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".398",
-        "gamesBehind": "25",
-        "pointsFor": "530",
-        "pointsAgainst": "600"
+        "winPercent": ".395",
+        "gamesBehind": "25.5",
+        "pointsFor": "531",
+        "pointsAgainst": "602"
       }
     },
     "h2h": {
@@ -3401,6 +3406,11 @@
           "detail": "Tendinitis"
         },
         {
+          "name": "Hunter Dobbins",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
           "name": "Andre Pallante",
           "status": "15-Day-IL",
           "detail": "Inflammation"
@@ -3415,28 +3425,28 @@
     "standings": {
       "home": {
         "rank": "5",
-        "wins": "70",
+        "wins": "71",
         "losses": "58",
         "ties": "0",
-        "winPercent": ".547",
-        "gamesBehind": "9.5",
-        "pointsFor": "574",
-        "pointsAgainst": "559"
+        "winPercent": ".550",
+        "gamesBehind": "9",
+        "pointsFor": "581",
+        "pointsAgainst": "565"
       },
       "away": {
         "rank": "8",
         "wins": "66",
-        "losses": "63",
+        "losses": "64",
         "ties": "0",
-        "winPercent": ".512",
-        "gamesBehind": "14",
-        "pointsFor": "572",
-        "pointsAgainst": "562"
+        "winPercent": ".508",
+        "gamesBehind": "14.5",
+        "pointsFor": "578",
+        "pointsAgainst": "569"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "STL leads series 2-1",
+      "text": "Series tied 2-2",
       "totalGames": 3,
       "games": [
         {
@@ -3533,28 +3543,28 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "72",
+        "wins": "73",
         "losses": "55",
         "ties": "0",
-        "winPercent": ".567",
-        "gamesBehind": "3.5",
-        "pointsFor": "565",
-        "pointsAgainst": "471"
+        "winPercent": ".570",
+        "gamesBehind": "3",
+        "pointsFor": "568",
+        "pointsAgainst": "472"
       },
       "away": {
-        "rank": "8",
+        "rank": "9",
         "wins": "63",
-        "losses": "66",
+        "losses": "67",
         "ties": "0",
-        "winPercent": ".488",
-        "gamesBehind": "13.5",
-        "pointsFor": "513",
-        "pointsAgainst": "562"
+        "winPercent": ".485",
+        "gamesBehind": "14",
+        "pointsFor": "514",
+        "pointsAgainst": "565"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 5-5",
+      "text": "NYY lead series 6-5",
       "totalGames": 10,
       "games": [
         {
@@ -3707,28 +3717,28 @@
     "standings": {
       "home": {
         "rank": "9",
-        "wins": "64",
+        "wins": "65",
         "losses": "64",
         "ties": "0",
-        "winPercent": ".500",
-        "gamesBehind": "15.5",
-        "pointsFor": "560",
-        "pointsAgainst": "546"
+        "winPercent": ".504",
+        "gamesBehind": "15",
+        "pointsFor": "563",
+        "pointsAgainst": "548"
       },
       "away": {
         "rank": "12",
         "wins": "61",
-        "losses": "68",
+        "losses": "69",
         "ties": "0",
-        "winPercent": ".473",
-        "gamesBehind": "19",
-        "pointsFor": "676",
-        "pointsAgainst": "659"
+        "winPercent": ".469",
+        "gamesBehind": "19.5",
+        "pointsFor": "678",
+        "pointsAgainst": "662"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MIA leads series 5-1",
+      "text": "MIA leads series 6-1",
       "totalGames": 6,
       "games": [
         {
@@ -3849,23 +3859,23 @@
     "standings": {
       "home": {
         "rank": "3",
-        "wins": "68",
+        "wins": "69",
         "losses": "59",
         "ties": "0",
-        "winPercent": ".535",
-        "gamesBehind": "7.5",
-        "pointsFor": "575",
-        "pointsAgainst": "480"
+        "winPercent": ".539",
+        "gamesBehind": "7",
+        "pointsFor": "581",
+        "pointsAgainst": "484"
       },
       "away": {
         "rank": "14",
         "wins": "52",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".409",
-        "gamesBehind": "27",
-        "pointsFor": "513",
-        "pointsAgainst": "589"
+        "winPercent": ".406",
+        "gamesBehind": "27.5",
+        "pointsFor": "517",
+        "pointsAgainst": "595"
       }
     },
     "h2h": null
@@ -3913,11 +3923,6 @@
           "detail": "Surgery"
         },
         {
-          "name": "Jonathan Heasley",
-          "status": "60-Day-IL",
-          "detail": "Fracture"
-        },
-        {
           "name": "Cole Sulser",
           "status": "15-Day-IL",
           "detail": "Spasms"
@@ -3931,6 +3936,11 @@
           "name": "Jake Fraley",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Jonathan Heasley",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
         }
       ]
     },
@@ -4111,23 +4121,23 @@
     "standings": {
       "home": {
         "rank": "4",
-        "wins": "66",
+        "wins": "67",
         "losses": "61",
         "ties": "0",
-        "winPercent": ".520",
-        "gamesBehind": "9.5",
-        "pointsFor": "605",
-        "pointsAgainst": "560"
+        "winPercent": ".523",
+        "gamesBehind": "9",
+        "pointsFor": "611",
+        "pointsAgainst": "564"
       },
       "away": {
         "rank": "13",
         "wins": "58",
-        "losses": "70",
+        "losses": "71",
         "ties": "0",
-        "winPercent": ".453",
-        "gamesBehind": "21.5",
-        "pointsFor": "531",
-        "pointsAgainst": "573"
+        "winPercent": ".450",
+        "gamesBehind": "22",
+        "pointsFor": "535",
+        "pointsAgainst": "579"
       }
     },
     "h2h": null
@@ -4170,16 +4180,6 @@
       ],
       "away": [
         {
-          "name": "Matt Vierling",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Parker Meadows",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
-        },
-        {
           "name": "James Outman",
           "status": "7-Day IL",
           "detail": "Concussion"
@@ -4188,6 +4188,16 @@
           "name": "Riley Greene",
           "status": "10-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Matt Vierling",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Parker Meadows",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         },
         {
           "name": "Kerry Carpenter",
@@ -4199,28 +4209,28 @@
     "standings": {
       "home": {
         "rank": "13",
-        "wins": "55",
+        "wins": "56",
         "losses": "74",
         "ties": "0",
-        "winPercent": ".426",
-        "gamesBehind": "21.5",
-        "pointsFor": "541",
-        "pointsAgainst": "641"
+        "winPercent": ".431",
+        "gamesBehind": "21",
+        "pointsFor": "546",
+        "pointsAgainst": "643"
       },
       "away": {
         "rank": "11",
         "wins": "61",
-        "losses": "66",
+        "losses": "67",
         "ties": "0",
-        "winPercent": ".480",
-        "gamesBehind": "14.5",
-        "pointsFor": "577",
-        "pointsAgainst": "495"
+        "winPercent": ".477",
+        "gamesBehind": "15",
+        "pointsFor": "579",
+        "pointsAgainst": "500"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "DET leads series 6-4",
+      "text": "DET leads series 6-5",
       "totalGames": 10,
       "games": [
         {
@@ -4373,28 +4383,28 @@
     "standings": {
       "home": {
         "rank": "5",
-        "wins": "64",
+        "wins": "65",
         "losses": "64",
         "ties": "0",
-        "winPercent": ".500",
-        "gamesBehind": "12",
-        "pointsFor": "583",
+        "winPercent": ".504",
+        "gamesBehind": "11.5",
+        "pointsFor": "587",
         "pointsAgainst": "629"
       },
       "away": {
         "rank": "15",
         "wins": "49",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".383",
-        "gamesBehind": "27",
+        "winPercent": ".380",
+        "gamesBehind": "27.5",
         "pointsFor": "557",
-        "pointsAgainst": "742"
+        "pointsAgainst": "746"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 3-3",
+      "text": "HOU leads series 4-3",
       "totalGames": 6,
       "games": [
         {
@@ -4514,29 +4524,29 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
-        "wins": "63",
+        "rank": "6",
+        "wins": "64",
         "losses": "65",
         "ties": "0",
-        "winPercent": ".492",
-        "gamesBehind": "13",
-        "pointsFor": "514",
-        "pointsAgainst": "560"
+        "winPercent": ".496",
+        "gamesBehind": "12.5",
+        "pointsFor": "516",
+        "pointsAgainst": "561"
       },
       "away": {
         "rank": "14",
         "wins": "51",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".398",
-        "gamesBehind": "25",
-        "pointsFor": "530",
-        "pointsAgainst": "600"
+        "winPercent": ".395",
+        "gamesBehind": "25.5",
+        "pointsFor": "531",
+        "pointsAgainst": "602"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAA lead series 7-3",
+      "text": "LAA lead series 7-4",
       "totalGames": 10,
       "games": [
         {
@@ -4685,22 +4695,22 @@
       "home": {
         "rank": "15",
         "wins": "50",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".394",
-        "gamesBehind": "29",
-        "pointsFor": "611",
-        "pointsAgainst": "733"
+        "winPercent": ".391",
+        "gamesBehind": "29.5",
+        "pointsFor": "612",
+        "pointsAgainst": "742"
       },
       "away": {
-        "rank": "9",
-        "wins": "62",
+        "rank": "8",
+        "wins": "63",
         "losses": "66",
         "ties": "0",
-        "winPercent": ".484",
-        "gamesBehind": "14",
-        "pointsFor": "507",
-        "pointsAgainst": "530"
+        "winPercent": ".488",
+        "gamesBehind": "13.5",
+        "pointsFor": "516",
+        "pointsAgainst": "531"
       }
     },
     "h2h": null
@@ -4753,6 +4763,11 @@
           "detail": "Sprain"
         },
         {
+          "name": "Michael Toglia",
+          "status": "Out",
+          "detail": "Dislocated"
+        },
+        {
           "name": "Spencer Steer",
           "status": "10-Day-IL",
           "detail": "Sprain"
@@ -4761,39 +4776,34 @@
           "name": "Blake Dunn",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Hunter Greene",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "67",
+        "wins": "68",
         "losses": "61",
         "ties": "0",
-        "winPercent": ".523",
-        "gamesBehind": "12.5",
-        "pointsFor": "579",
+        "winPercent": ".527",
+        "gamesBehind": "12",
+        "pointsFor": "588",
         "pointsAgainst": "575"
       },
       "away": {
         "rank": "11",
         "wins": "61",
-        "losses": "67",
+        "losses": "68",
         "ties": "0",
-        "winPercent": ".477",
-        "gamesBehind": "18.5",
+        "winPercent": ".473",
+        "gamesBehind": "19",
         "pointsFor": "523",
-        "pointsAgainst": "612"
+        "pointsAgainst": "621"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "ARI leads series 2-1",
+      "text": "ARI leads series 3-1",
       "totalGames": 3,
       "games": [
         {
@@ -4834,14 +4844,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Joe Musgrove",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Samad Taylor",
           "status": "10-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Joe Musgrove",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
         },
         {
           "name": "Lucas Giolito",
@@ -4890,23 +4900,23 @@
     "standings": {
       "home": {
         "rank": "6",
-        "wins": "68",
+        "wins": "69",
         "losses": "60",
         "ties": "0",
-        "winPercent": ".531",
-        "gamesBehind": "11.5",
-        "pointsFor": "543",
-        "pointsAgainst": "540"
+        "winPercent": ".535",
+        "gamesBehind": "11",
+        "pointsFor": "549",
+        "pointsAgainst": "542"
       },
       "away": {
-        "rank": "6",
+        "rank": "7",
         "wins": "63",
-        "losses": "65",
+        "losses": "66",
         "ties": "0",
-        "winPercent": ".492",
-        "gamesBehind": "13",
-        "pointsFor": "592",
-        "pointsAgainst": "633"
+        "winPercent": ".488",
+        "gamesBehind": "13.5",
+        "pointsFor": "594",
+        "pointsAgainst": "639"
       }
     },
     "h2h": null
@@ -4978,23 +4988,23 @@
     "standings": {
       "home": {
         "rank": "12",
-        "wins": "60",
+        "wins": "61",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".469",
-        "gamesBehind": "16",
-        "pointsFor": "500",
-        "pointsAgainst": "546"
+        "winPercent": ".473",
+        "gamesBehind": "15.5",
+        "pointsFor": "506",
+        "pointsAgainst": "551"
       },
       "away": {
         "rank": "4",
         "wins": "74",
-        "losses": "54",
+        "losses": "55",
         "ties": "0",
-        "winPercent": ".578",
-        "gamesBehind": "5.5",
-        "pointsFor": "656",
-        "pointsAgainst": "556"
+        "winPercent": ".574",
+        "gamesBehind": "6",
+        "pointsFor": "661",
+        "pointsAgainst": "562"
       }
     },
     "h2h": null
@@ -5010,14 +5020,14 @@
     "injuries": {
       "home": [
         {
+          "name": "Andy Pages",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Ben Casparius",
           "status": "60-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Tyler Glasnow",
-          "status": "60-Day-IL",
-          "detail": "Spasms"
         },
         {
           "name": "Bobby Miller",
@@ -5030,9 +5040,9 @@
           "detail": "Inflammation"
         },
         {
-          "name": "Will Klein",
-          "status": "15-Day-IL",
-          "detail": "Soreness"
+          "name": "Tyler Glasnow",
+          "status": "60-Day-IL",
+          "detail": "Spasms"
         }
       ],
       "away": [
@@ -5061,28 +5071,28 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "77",
+        "wins": "78",
         "losses": "51",
         "ties": "0",
-        "winPercent": ".602",
-        "gamesBehind": "2.5",
-        "pointsFor": "640",
-        "pointsAgainst": "495"
+        "winPercent": ".605",
+        "gamesBehind": "2",
+        "pointsFor": "645",
+        "pointsAgainst": "499"
       },
       "away": {
         "rank": "10",
         "wins": "63",
-        "losses": "66",
+        "losses": "67",
         "ties": "0",
-        "winPercent": ".488",
-        "gamesBehind": "17",
-        "pointsFor": "646",
-        "pointsAgainst": "615"
+        "winPercent": ".485",
+        "gamesBehind": "17.5",
+        "pointsFor": "650",
+        "pointsAgainst": "620"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAD lead series 2-1",
+      "text": "LAD lead series 3-1",
       "totalGames": 3,
       "games": [
         {
@@ -5179,29 +5189,29 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "72",
+        "wins": "73",
         "losses": "55",
         "ties": "0",
-        "winPercent": ".567",
-        "gamesBehind": "3.5",
-        "pointsFor": "565",
-        "pointsAgainst": "471"
+        "winPercent": ".570",
+        "gamesBehind": "3",
+        "pointsFor": "568",
+        "pointsAgainst": "472"
       },
       "away": {
-        "rank": "8",
+        "rank": "9",
         "wins": "63",
-        "losses": "66",
+        "losses": "67",
         "ties": "0",
-        "winPercent": ".488",
-        "gamesBehind": "13.5",
-        "pointsFor": "513",
-        "pointsAgainst": "562"
+        "winPercent": ".485",
+        "gamesBehind": "14",
+        "pointsFor": "514",
+        "pointsAgainst": "565"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 5-5",
-      "totalGames": 10,
+      "text": "NYY lead series 6-5",
+      "totalGames": 11,
       "games": [
         {
           "date": "2026-05-18T23:05:00Z",
@@ -5281,6 +5291,14 @@
           "away": "New York Yankees",
           "homeScore": 3,
           "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-21T23:05:00Z",
+          "home": "New York Yankees",
+          "away": "Toronto Blue Jays",
+          "homeScore": 3,
+          "awayScore": 1,
           "isCompleted": true
         }
       ]
@@ -5479,29 +5497,29 @@
     "standings": {
       "home": {
         "rank": "9",
-        "wins": "64",
+        "wins": "65",
         "losses": "64",
         "ties": "0",
-        "winPercent": ".500",
-        "gamesBehind": "15.5",
-        "pointsFor": "560",
-        "pointsAgainst": "546"
+        "winPercent": ".504",
+        "gamesBehind": "15",
+        "pointsFor": "563",
+        "pointsAgainst": "548"
       },
       "away": {
         "rank": "12",
         "wins": "61",
-        "losses": "68",
+        "losses": "69",
         "ties": "0",
-        "winPercent": ".473",
-        "gamesBehind": "19",
-        "pointsFor": "676",
-        "pointsAgainst": "659"
+        "winPercent": ".469",
+        "gamesBehind": "19.5",
+        "pointsFor": "678",
+        "pointsAgainst": "662"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MIA leads series 5-1",
-      "totalGames": 6,
+      "text": "MIA leads series 6-1",
+      "totalGames": 7,
       "games": [
         {
           "date": "2026-05-08T23:10:00Z",
@@ -5550,6 +5568,14 @@
           "homeScore": 1,
           "awayScore": 4,
           "isCompleted": true
+        },
+        {
+          "date": "2026-08-21T23:10:00Z",
+          "home": "Miami Marlins",
+          "away": "Washington Nationals",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
         }
       ]
     }
@@ -5597,6 +5623,11 @@
           "detail": "Tendinitis"
         },
         {
+          "name": "Hunter Dobbins",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
           "name": "Andre Pallante",
           "status": "15-Day-IL",
           "detail": "Inflammation"
@@ -5611,29 +5642,29 @@
     "standings": {
       "home": {
         "rank": "5",
-        "wins": "70",
+        "wins": "71",
         "losses": "58",
         "ties": "0",
-        "winPercent": ".547",
-        "gamesBehind": "9.5",
-        "pointsFor": "574",
-        "pointsAgainst": "559"
+        "winPercent": ".550",
+        "gamesBehind": "9",
+        "pointsFor": "581",
+        "pointsAgainst": "565"
       },
       "away": {
         "rank": "8",
         "wins": "66",
-        "losses": "63",
+        "losses": "64",
         "ties": "0",
-        "winPercent": ".512",
-        "gamesBehind": "14",
-        "pointsFor": "572",
-        "pointsAgainst": "562"
+        "winPercent": ".508",
+        "gamesBehind": "14.5",
+        "pointsFor": "578",
+        "pointsAgainst": "569"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "STL leads series 2-1",
-      "totalGames": 3,
+      "text": "Series tied 2-2",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-08-10T23:45:00Z",
@@ -5657,6 +5688,14 @@
           "away": "Philadelphia Phillies",
           "homeScore": 7,
           "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-21T22:40:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "St. Louis Cardinals",
+          "homeScore": 7,
+          "awayScore": 6,
           "isCompleted": true
         }
       ]
@@ -5728,30 +5767,30 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
-        "wins": "63",
+        "rank": "6",
+        "wins": "64",
         "losses": "65",
         "ties": "0",
-        "winPercent": ".492",
-        "gamesBehind": "13",
-        "pointsFor": "514",
-        "pointsAgainst": "560"
+        "winPercent": ".496",
+        "gamesBehind": "12.5",
+        "pointsFor": "516",
+        "pointsAgainst": "561"
       },
       "away": {
         "rank": "14",
         "wins": "51",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".398",
-        "gamesBehind": "25",
-        "pointsFor": "530",
-        "pointsAgainst": "600"
+        "winPercent": ".395",
+        "gamesBehind": "25.5",
+        "pointsFor": "531",
+        "pointsAgainst": "602"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAA lead series 7-3",
-      "totalGames": 10,
+      "text": "LAA lead series 7-4",
+      "totalGames": 11,
       "games": [
         {
           "date": "2026-05-23T01:38:00Z",
@@ -5832,6 +5871,14 @@
           "homeScore": 7,
           "awayScore": 0,
           "isCompleted": true
+        },
+        {
+          "date": "2026-08-22T00:15:00Z",
+          "home": "Texas Rangers",
+          "away": "Los Angeles Angels",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
         }
       ]
     }
@@ -5879,11 +5926,6 @@
           "detail": "Surgery"
         },
         {
-          "name": "Jonathan Heasley",
-          "status": "60-Day-IL",
-          "detail": "Fracture"
-        },
-        {
           "name": "Cole Sulser",
           "status": "15-Day-IL",
           "detail": "Spasms"
@@ -5897,6 +5939,11 @@
           "name": "Jake Fraley",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Jonathan Heasley",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
         }
       ]
     },
@@ -6085,26 +6132,40 @@
     "standings": {
       "home": {
         "rank": "4",
-        "wins": "66",
+        "wins": "67",
         "losses": "61",
         "ties": "0",
-        "winPercent": ".520",
-        "gamesBehind": "9.5",
-        "pointsFor": "605",
-        "pointsAgainst": "560"
+        "winPercent": ".523",
+        "gamesBehind": "9",
+        "pointsFor": "611",
+        "pointsAgainst": "564"
       },
       "away": {
         "rank": "13",
         "wins": "58",
-        "losses": "70",
+        "losses": "71",
         "ties": "0",
-        "winPercent": ".453",
-        "gamesBehind": "21.5",
-        "pointsFor": "531",
-        "pointsAgainst": "573"
+        "winPercent": ".450",
+        "gamesBehind": "22",
+        "pointsFor": "535",
+        "pointsAgainst": "579"
       }
     },
-    "h2h": null
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CHW lead series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-08-21T23:40:00Z",
+          "home": "Chicago White Sox",
+          "away": "New York Mets",
+          "homeScore": 6,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
   },
   {
     "home": "Houston Astros",
@@ -6173,29 +6234,29 @@
     "standings": {
       "home": {
         "rank": "5",
-        "wins": "64",
+        "wins": "65",
         "losses": "64",
         "ties": "0",
-        "winPercent": ".500",
-        "gamesBehind": "12",
-        "pointsFor": "583",
+        "winPercent": ".504",
+        "gamesBehind": "11.5",
+        "pointsFor": "587",
         "pointsAgainst": "629"
       },
       "away": {
         "rank": "15",
         "wins": "49",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".383",
-        "gamesBehind": "27",
+        "winPercent": ".380",
+        "gamesBehind": "27.5",
         "pointsFor": "557",
-        "pointsAgainst": "742"
+        "pointsAgainst": "746"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 3-3",
-      "totalGames": 6,
+      "text": "HOU leads series 4-3",
+      "totalGames": 7,
       "games": [
         {
           "date": "2026-04-04T01:40:00Z",
@@ -6243,6 +6304,14 @@
           "away": "Athletics",
           "homeScore": 0,
           "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-22T00:10:00Z",
+          "home": "Houston Astros",
+          "away": "Athletics",
+          "homeScore": 4,
+          "awayScore": 0,
           "isCompleted": true
         }
       ]
@@ -6315,26 +6384,40 @@
     "standings": {
       "home": {
         "rank": "12",
-        "wins": "60",
+        "wins": "61",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".469",
-        "gamesBehind": "16",
-        "pointsFor": "500",
-        "pointsAgainst": "546"
+        "winPercent": ".473",
+        "gamesBehind": "15.5",
+        "pointsFor": "506",
+        "pointsAgainst": "551"
       },
       "away": {
         "rank": "4",
         "wins": "74",
-        "losses": "54",
+        "losses": "55",
         "ties": "0",
-        "winPercent": ".578",
-        "gamesBehind": "5.5",
-        "pointsFor": "656",
-        "pointsAgainst": "556"
+        "winPercent": ".574",
+        "gamesBehind": "6",
+        "pointsFor": "661",
+        "pointsAgainst": "562"
       }
     },
-    "h2h": null
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SEA leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-08-22T02:10:00Z",
+          "home": "Seattle Mariners",
+          "away": "Chicago Cubs",
+          "homeScore": 6,
+          "awayScore": 5,
+          "isCompleted": true
+        }
+      ]
+    }
   },
   {
     "home": "Kansas City Royals",
@@ -6374,16 +6457,6 @@
       ],
       "away": [
         {
-          "name": "Matt Vierling",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Parker Meadows",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
-        },
-        {
           "name": "James Outman",
           "status": "7-Day IL",
           "detail": "Concussion"
@@ -6392,6 +6465,16 @@
           "name": "Riley Greene",
           "status": "10-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Matt Vierling",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Parker Meadows",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         },
         {
           "name": "Kerry Carpenter",
@@ -6403,29 +6486,29 @@
     "standings": {
       "home": {
         "rank": "13",
-        "wins": "55",
+        "wins": "56",
         "losses": "74",
         "ties": "0",
-        "winPercent": ".426",
-        "gamesBehind": "21.5",
-        "pointsFor": "541",
-        "pointsAgainst": "641"
+        "winPercent": ".431",
+        "gamesBehind": "21",
+        "pointsFor": "546",
+        "pointsAgainst": "643"
       },
       "away": {
         "rank": "11",
         "wins": "61",
-        "losses": "66",
+        "losses": "67",
         "ties": "0",
-        "winPercent": ".480",
-        "gamesBehind": "14.5",
-        "pointsFor": "577",
-        "pointsAgainst": "495"
+        "winPercent": ".477",
+        "gamesBehind": "15",
+        "pointsFor": "579",
+        "pointsAgainst": "500"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "DET leads series 6-4",
-      "totalGames": 10,
+      "text": "DET leads series 6-5",
+      "totalGames": 11,
       "games": [
         {
           "date": "2026-04-14T22:40:00Z",
@@ -6506,6 +6589,14 @@
           "homeScore": 4,
           "awayScore": 5,
           "isCompleted": true
+        },
+        {
+          "date": "2026-08-22T00:10:00Z",
+          "home": "Kansas City Royals",
+          "away": "Detroit Tigers",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
         }
       ]
     }
@@ -6521,14 +6612,14 @@
     "injuries": {
       "home": [
         {
+          "name": "Andy Pages",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Ben Casparius",
           "status": "60-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Tyler Glasnow",
-          "status": "60-Day-IL",
-          "detail": "Spasms"
         },
         {
           "name": "Bobby Miller",
@@ -6541,9 +6632,9 @@
           "detail": "Inflammation"
         },
         {
-          "name": "Will Klein",
-          "status": "15-Day-IL",
-          "detail": "Soreness"
+          "name": "Tyler Glasnow",
+          "status": "60-Day-IL",
+          "detail": "Spasms"
         }
       ],
       "away": [
@@ -6572,29 +6663,29 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "77",
+        "wins": "78",
         "losses": "51",
         "ties": "0",
-        "winPercent": ".602",
-        "gamesBehind": "2.5",
-        "pointsFor": "640",
-        "pointsAgainst": "495"
+        "winPercent": ".605",
+        "gamesBehind": "2",
+        "pointsFor": "645",
+        "pointsAgainst": "499"
       },
       "away": {
         "rank": "10",
         "wins": "63",
-        "losses": "66",
+        "losses": "67",
         "ties": "0",
-        "winPercent": ".488",
-        "gamesBehind": "17",
-        "pointsFor": "646",
-        "pointsAgainst": "615"
+        "winPercent": ".485",
+        "gamesBehind": "17.5",
+        "pointsFor": "650",
+        "pointsAgainst": "620"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAD lead series 2-1",
-      "totalGames": 3,
+      "text": "LAD lead series 3-1",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-06-09T22:40:00Z",
@@ -6618,6 +6709,14 @@
           "away": "Los Angeles Dodgers",
           "homeScore": 6,
           "awayScore": 8,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-22T02:10:00Z",
+          "home": "Los Angeles Dodgers",
+          "away": "Pittsburgh Pirates",
+          "homeScore": 5,
+          "awayScore": 4,
           "isCompleted": true
         }
       ]
@@ -6690,26 +6789,40 @@
     "standings": {
       "home": {
         "rank": "3",
-        "wins": "68",
+        "wins": "69",
         "losses": "59",
         "ties": "0",
-        "winPercent": ".535",
-        "gamesBehind": "7.5",
-        "pointsFor": "575",
-        "pointsAgainst": "480"
+        "winPercent": ".539",
+        "gamesBehind": "7",
+        "pointsFor": "581",
+        "pointsAgainst": "484"
       },
       "away": {
         "rank": "14",
         "wins": "52",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".409",
-        "gamesBehind": "27",
-        "pointsFor": "513",
-        "pointsAgainst": "589"
+        "winPercent": ".406",
+        "gamesBehind": "27.5",
+        "pointsFor": "517",
+        "pointsAgainst": "595"
       }
     },
-    "h2h": null
+    "h2h": {
+      "source": "seasonseries",
+      "text": "BOS leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-08-21T23:10:00Z",
+          "home": "Boston Red Sox",
+          "away": "San Francisco Giants",
+          "homeScore": 6,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
   },
   {
     "home": "Arizona Diamondbacks",
@@ -6759,6 +6872,11 @@
           "detail": "Sprain"
         },
         {
+          "name": "Michael Toglia",
+          "status": "Out",
+          "detail": "Dislocated"
+        },
+        {
           "name": "Spencer Steer",
           "status": "10-Day-IL",
           "detail": "Sprain"
@@ -6767,40 +6885,35 @@
           "name": "Blake Dunn",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Hunter Greene",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "67",
+        "wins": "68",
         "losses": "61",
         "ties": "0",
-        "winPercent": ".523",
-        "gamesBehind": "12.5",
-        "pointsFor": "579",
+        "winPercent": ".527",
+        "gamesBehind": "12",
+        "pointsFor": "588",
         "pointsAgainst": "575"
       },
       "away": {
         "rank": "11",
         "wins": "61",
-        "losses": "67",
+        "losses": "68",
         "ties": "0",
-        "winPercent": ".477",
-        "gamesBehind": "18.5",
+        "winPercent": ".473",
+        "gamesBehind": "19",
         "pointsFor": "523",
-        "pointsAgainst": "612"
+        "pointsAgainst": "621"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "ARI leads series 2-1",
-      "totalGames": 3,
+      "text": "ARI leads series 3-1",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-06-12T23:15:00Z",
@@ -6824,6 +6937,14 @@
           "away": "Arizona Diamondbacks",
           "homeScore": 3,
           "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-22T01:40:00Z",
+          "home": "Arizona Diamondbacks",
+          "away": "Cincinnati Reds",
+          "homeScore": 9,
+          "awayScore": 0,
           "isCompleted": true
         }
       ]
@@ -6892,25 +7013,39 @@
       "home": {
         "rank": "15",
         "wins": "50",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".394",
-        "gamesBehind": "29",
-        "pointsFor": "611",
-        "pointsAgainst": "733"
+        "winPercent": ".391",
+        "gamesBehind": "29.5",
+        "pointsFor": "612",
+        "pointsAgainst": "742"
       },
       "away": {
-        "rank": "9",
-        "wins": "62",
+        "rank": "8",
+        "wins": "63",
         "losses": "66",
         "ties": "0",
-        "winPercent": ".484",
-        "gamesBehind": "14",
-        "pointsFor": "507",
-        "pointsAgainst": "530"
+        "winPercent": ".488",
+        "gamesBehind": "13.5",
+        "pointsFor": "516",
+        "pointsAgainst": "531"
       }
     },
-    "h2h": null
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CLE leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-08-22T00:40:00Z",
+          "home": "Colorado Rockies",
+          "away": "Cleveland Guardians",
+          "homeScore": 1,
+          "awayScore": 9,
+          "isCompleted": true
+        }
+      ]
+    }
   },
   {
     "home": "San Diego Padres",
@@ -6923,14 +7058,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Joe Musgrove",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Samad Taylor",
           "status": "10-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Joe Musgrove",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
         },
         {
           "name": "Lucas Giolito",
@@ -6979,25 +7114,39 @@
     "standings": {
       "home": {
         "rank": "6",
-        "wins": "68",
+        "wins": "69",
         "losses": "60",
         "ties": "0",
-        "winPercent": ".531",
-        "gamesBehind": "11.5",
-        "pointsFor": "543",
-        "pointsAgainst": "540"
+        "winPercent": ".535",
+        "gamesBehind": "11",
+        "pointsFor": "549",
+        "pointsAgainst": "542"
       },
       "away": {
-        "rank": "6",
+        "rank": "7",
         "wins": "63",
-        "losses": "65",
+        "losses": "66",
         "ties": "0",
-        "winPercent": ".492",
-        "gamesBehind": "13",
-        "pointsFor": "592",
-        "pointsAgainst": "633"
+        "winPercent": ".488",
+        "gamesBehind": "13.5",
+        "pointsFor": "594",
+        "pointsAgainst": "639"
       }
     },
-    "h2h": null
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SD leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-08-22T01:40:00Z",
+          "home": "San Diego Padres",
+          "away": "Minnesota Twins",
+          "homeScore": 6,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
   }
 ]
