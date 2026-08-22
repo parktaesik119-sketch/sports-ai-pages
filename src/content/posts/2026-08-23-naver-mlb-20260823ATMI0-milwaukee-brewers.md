@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.22","home":"밀워키 브루어스","away":"애틀�
 injuryHome: "Joel Kuhnel (건염)|Sal Frelick (염좌)|Abner Uribe (염좌)|JoJo Romero (결장)|Rob Zastryzny (염좌)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 homeLineup: "[\"선발투수 L. Henderson (7-2, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
-awayLineup: "[\"선발투수 B. Elder (8-7, 3.92) ERA 3.92|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\"]"
+awayLineup: "[\"선발투수 B. Elder (8-7, 3.92) ERA 3.92|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\",\"1번 D. Baldwin (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"2번 R. Acuna Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/36185.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"5번 O. Albies (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"6번 M. Dubon (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"7번 M. Yastrzemski (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"8번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"9번 J. Jarvis (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5205951.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
