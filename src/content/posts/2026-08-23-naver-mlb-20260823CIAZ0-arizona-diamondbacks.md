@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리�
 awayRecent: '[{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"},{"date":"26.08.20","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SLCI0-2026-08-20-cincinnati-reds/"},{"date":"26.08.19","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SLCI0-2026-08-19-cincinnati-reds/"},{"date":"26.08.18","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SLCI2-2026-08-18-cincinnati-reds/"},{"date":"26.08.17","home":"신시내티 레즈","away":"마이애미 말린스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817FLCI0-2026-08-17-cincinnati-reds/"}]'
 injuryHome: "Ryan Thompson (긴장)|Drey Jameson (염증)|Tommy Troy (염좌)|Lourdes Gurriel Jr. (긴장)|Blake Walston (수술)"
 injuryAway: "Brandon Williamson (통증)|Graham Ashcraft (염좌)|Spencer Steer (염좌)|Blake Dunn (수술)|Hunter Greene (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Bratt (1-2, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/5123768.png\"]"
+awayLineup: "[\"선발투수 A. Abbott (6-8, 4.07) ERA 4.07|https://a.espncdn.com/i/headshots/mlb/players/full/4414528.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

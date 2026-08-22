@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.20","home":"필라델피아 필리스","away":"마�
 awayRecent: '[{"date":"26.08.21","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821MOTE0-2026-08-21-texas-rangers/"},{"date":"26.08.20","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers/"},{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"},{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"},{"date":"26.08.16","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MONM0-2026-08-16-new-york-mets/"}]'
 injuryHome: "Kyle Stowers (스트레인)|Anthony Bender (골절)|Max Meyer (스트레인)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 injuryAway: "CJ Abrams (통증)|Drew Millas (골절)|James Wood (스트레인)|Richard Lovelady (스트레인)|Josiah Gray (스트레인)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Perez (6-9, 3.23) ERA 3.23|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
+awayLineup: "[\"선발투수 J. Irvin (2-7, 5.80) ERA 5.80|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

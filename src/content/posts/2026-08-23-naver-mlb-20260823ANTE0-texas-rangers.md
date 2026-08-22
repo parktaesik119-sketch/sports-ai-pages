@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.21","home":"텍사스 레인저스","away":"워싱�
 awayRecent: '[{"date":"26.08.21","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"3-18","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ANHO0-2026-08-21-houston-astros/"},{"date":"26.08.20","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ANHO0-2026-08-20-houston-astros/"},{"date":"26.08.19","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ANHO0-2026-08-19-houston-astros/"},{"date":"26.08.17","home":"LA 에인절스","away":"캔자스시티 로열스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817KCAN0-2026-08-17-los-angeles-angels/"},{"date":"26.08.15","home":"LA 에인절스","away":"캔자스시티 로열스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815KCAN0-2026-08-15-los-angeles-angels/"}]'
 injuryHome: "Robert Garcia (염증)|Josh Jung (염좌)|Nathan Eovaldi (염증)|Kyle Higashioka (염좌)|Jack Leiter (수술)"
 injuryAway: "Wade Meckler (매일 상태 점검)|Nolan Schanuel (통증)|Yusei Kikuchi (염증)|Shaun Anderson (염증)|Sebastian Rivero (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Bradford (0-1, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/4142539.png\"]"
+awayLineup: "[\"선발투수 R. Johnson (2-7, 6.41) ERA 6.41|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

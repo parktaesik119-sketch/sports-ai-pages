@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.21","home":"볼티모어 오리올스","away":"뉴�
 awayRecent: '[{"date":"26.08.21","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821TOTB0-2026-08-21-tampa-bay-rays/"},{"date":"26.08.20","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820TOTB0-2026-08-20-tampa-bay-rays/"},{"date":"26.08.19","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819TOTB0-2026-08-19-tampa-bay-rays/"},{"date":"26.08.17","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817NYTO0-2026-08-17-toronto-blue-jays/"},{"date":"26.08.16","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816NYTO0-2026-08-16-toronto-blue-jays/"}]'
 injuryHome: "Cody Bellinger (좌상)|Kervin Castro (염증)|Max Fried (타박상)|Ryan McMahon (염좌)|Giancarlo Stanton (좌상)"
 injuryAway: "Andres Gimenez (일상적 관리)|Vladimir Guerrero Jr. (뇌진탕)|Jonatan Clase (족저근막염)|Jameson Taillon (건염)|Joe Mantiply (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Weathers (5-7, 3.56) ERA 3.56|https://a.espncdn.com/i/headshots/mlb/players/full/41178.png\"]"
+awayLineup: "[\"선발투수 D. Cease (7-5, 2.42) ERA 2.42|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
