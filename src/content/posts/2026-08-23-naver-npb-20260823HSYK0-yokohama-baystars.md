@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.21","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.08.21","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821HSYK0-2026-08-21-yokohama-baystars/"},{"date":"26.08.20","home":"한신 타이거스","away":"야쿠르트 스왈로우스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260820YAHS0-2026-08-20-hanshin-tigers/"},{"date":"26.08.19","home":"한신 타이거스","away":"야쿠르트 스왈로우스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260819YAHS0-2026-08-19-hanshin-tigers/"},{"date":"26.08.18","home":"한신 타이거스","away":"야쿠르트 스왈로우스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818YAHS0-2026-08-18-hanshin-tigers/"},{"date":"26.08.16","home":"히로시마 도요 카프","away":"한신 타이거스","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816HSHI0-2026-08-16-hiroshima-carp/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yutaro Ishida (4-8, 2.97)|https://p.npb.jp/players_photo/2026/180/db/054_21125159.jpg\"]"
+awayLineup: "[\"선발투수 Haruto Takahashi (12-2, 1.93)|https://p.npb.jp/players_photo/2026/180/t/029_91095136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

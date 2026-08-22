@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.21","home":"키움 히어로즈","away":"KIA 타이
 awayRecent: '[{"date":"26.08.21","home":"키움 히어로즈","away":"KIA 타이거즈","score":"1-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821HTWO02026-2026-08-21-kiwoom-heroes/"},{"date":"26.08.20","home":"한화 이글스","away":"KIA 타이거즈","score":"6-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820HTHH02026-2026-08-20-hanwha-eagles/"},{"date":"26.08.19","home":"한화 이글스","away":"KIA 타이거즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819HTHH02026-2026-08-19-hanwha-eagles/"},{"date":"26.08.18","home":"한화 이글스","away":"KIA 타이거즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818HTHH02026-2026-08-18-hanwha-eagles/"},{"date":"26.08.16","home":"KIA 타이거즈","away":"두산 베어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816OBHT02026-2026-08-16-kia-tigers/"}]'
 injuryHome: "김재웅 (부상)|임지열 (부상)|안우진 (부상)"
 injuryAway: "김규성 (부상)|김기훈 (치료·재활중)|곽도규 (부상)|김석환 (치료·재활중)"
-homeLineup: "[\"1번 서건창 (2루수)\",\"2번 추재현 (중견수)\",\"3번 데이비슨 (1루수)\",\"4번 박찬혁 (우익수)\",\"5번 김웅빈 (지명타자)\",\"6번 김건희 (포수)\",\"7번 이형종 (좌익수)\",\"8번 권혁빈 (유격수)\",\"9번 여동욱 (3루수)\"]"
-awayLineup: "[\"1번 박재현 (좌익수)\",\"2번 하주석 (유격수)\",\"3번 김도영 (3루수)\",\"4번 카스트로 (지명타자)\",\"5번 나성범 (우익수)\",\"6번 김선빈 (2루수)\",\"7번 오선우 (1루수)\",\"8번 한준수 (포수)\",\"9번 김호령 (중견수)\"]"
+homeLineup: "[\"1번 서건창 (2루수)\",\"2번 추재현 (좌익수)\",\"3번 데이비슨 (지명타자)\",\"4번 안치홍 (1루수)\",\"5번 박찬혁 (우익수)\",\"6번 김건희 (포수)\",\"7번 권혁빈 (유격수)\",\"8번 어준서 (3루수)\",\"9번 박주홍 (중견수)\"]"
+awayLineup: "[\"1번 박재현 (좌익수)\",\"2번 박정우 (우익수)\",\"3번 김도영 (3루수)\",\"4번 카스트로 (1루수)\",\"5번 나성범 (지명타자)\",\"6번 김선빈 (2루수)\",\"7번 하주석 (유격수)\",\"8번 김태군 (포수)\",\"9번 김호령 (중견수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
