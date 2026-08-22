@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀�
 injuryHome: "Xander Bogaerts (경미한 상태)|Joe Musgrove (염증)|Samad Taylor (염좌)|Lucas Giolito (염증)|Nick Pivetta (염좌)"
 injuryAway: "Joe Ryan (염좌)|Austin Martin (염좌)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)"
 homeLineup: "[\"선발투수 C. Mize (5-7, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/41167.png\"]"
-awayLineup: "[\"선발투수 D. Kremer (2-4, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
+awayLineup: "[\"선발투수 D. Kremer (2-4, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\",\"1번 L. Keaschall (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4977664.png\",\"2번 B. Buxton (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/32655.png\",\"3번 J. Bell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"4번 R. Jeffers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41587.png\",\"5번 K. Clemens (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"6번 R. Lewis (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40635.png\",\"7번 T. Larnach (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41205.png\",\"8번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"9번 K. Culpepper (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4935268.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
