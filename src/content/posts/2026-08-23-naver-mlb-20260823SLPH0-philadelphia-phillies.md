@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.21","home":"신시내티 레즈","away":"세인트�
 injuryHome: "Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Felix Reyes (골절)|Johan Rojas (수술)"
 injuryAway: "Ramon Urias (건염)|Andre Pallante (염증)|Max Rajcic (수술)"
 homeLineup: "[\"선발투수 A. Painter (2-8, 6.43) ERA 6.43|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
-awayLineup: "[\"선발투수 A. Pallante (12-6, 3.57) ERA 3.57|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
+awayLineup: "[\"선발투수 Q. Mathews (0-1, 3.00) ERA 3.00|https://a.espncdn.com/i/headshots/mlb/players/full/4837405.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
