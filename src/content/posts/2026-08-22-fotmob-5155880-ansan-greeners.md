@@ -24,8 +24,8 @@ homeLineup: '["Seung-Bin Lee (GK)|https://images.fotmob.com/image_resources/play
 awayLineup: '["Kwang-Yeon Lee (GK)|https://images.fotmob.com/image_resources/playerimages/1039705.png","Byeong-Jun Kwon (DF)|https://images.fotmob.com/image_resources/playerimages/0.png","Sang-Min Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1136199.png","Venício (DF)|https://images.fotmob.com/image_resources/playerimages/941712.png","Seung-Yong Jung (DF)|https://images.fotmob.com/image_resources/playerimages/307817.png","Jeong-Bin Lee (MF)|https://images.fotmob.com/image_resources/playerimages/828202.png","Jue-An Yoo (MF)|https://images.fotmob.com/image_resources/playerimages/828010.png","Elionay (MF)|https://images.fotmob.com/image_resources/playerimages/1508439.png","Jun-Sang Lee (MF)|https://images.fotmob.com/image_resources/playerimages/0.png","Seok-Hyun Hong ()|https://images.fotmob.com/image_resources/playerimages/0.png","Min-Jae Kim ()|https://images.fotmob.com/image_resources/playerimages/0.png"]'
 homeFormation: "3-4-3"
 awayFormation: "4-4-2"
-homeCoach: ""
-awayCoach: ""
+homeCoach: "Choi Moon-Shik"
+awayCoach: "Kim Hae-Woon"
 pickWinTeam: "성남 FC"
 pickWinResult: "승"
 pickHandicapTeam: "성남 FC"
