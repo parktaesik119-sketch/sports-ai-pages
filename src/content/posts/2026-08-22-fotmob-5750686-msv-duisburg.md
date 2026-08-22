@@ -20,10 +20,10 @@ homeRecent: '[{"date":"26.08.15","home":"SC Verl","away":"MSV Duisburg","score":
 awayRecent: '[{"date":"26.08.05","home":"Elversberg","away":"스트라스부르","score":"5-2","result":"🟢승"},{"date":"26.07.11","home":"FC 툰","away":"Elversberg","score":"1-1","result":"🟡무"},{"date":"26.05.17","home":"Elversberg","away":"Preussen Münster","score":"3-0","result":"🟢승"},{"date":"26.05.10","home":"포르투나 뒤셀도르프","away":"Elversberg","score":"3-1","result":"🔴패"},{"date":"26.05.03","home":"Elversberg","away":"Paderborn","score":"5-1","result":"🟢승"}]'
 injuryHome: "없음"
 injuryAway: "Tom Zimmerschied[주요](등 부상 - 복귀예정 A few weeks)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
+homeLineup: "[\"Maximilian Braune (GK)|https://images.fotmob.com/image_resources/playerimages/1315815.png\",\"Joshua Bitter (DF)|https://images.fotmob.com/image_resources/playerimages/763975.png\",\"Tobias Fleckstein (DF)|https://images.fotmob.com/image_resources/playerimages/951925.png\",\"Martin Ens (DF)|https://images.fotmob.com/image_resources/playerimages/1532853.png\",\"Can Coskun (DF)|https://images.fotmob.com/image_resources/playerimages/988143.png\",\"Rasim Bulic (MF)|https://images.fotmob.com/image_resources/playerimages/1080482.png\",\"Christian Viet (MF)|https://images.fotmob.com/image_resources/playerimages/848670.png\",\"Aljaz Casar (MF)|https://images.fotmob.com/image_resources/playerimages/1073303.png\",\"Patrick Sussek (FW)|https://images.fotmob.com/image_resources/playerimages/840926.png\",\"Conor Noss (FW)|https://images.fotmob.com/image_resources/playerimages/1099298.png\",\"Lex-Tyger Lobinger (FW)|https://images.fotmob.com/image_resources/playerimages/979511.png\"]"
+awayLineup: "[\"Nicolas Kristof (GK)|https://images.fotmob.com/image_resources/playerimages/1285926.png\",\"Jan Gyamerah (DF)|https://images.fotmob.com/image_resources/playerimages/458602.png\",\"Maximilian Rohr (DF)|https://images.fotmob.com/image_resources/playerimages/1077911.png\",\"Florian Le Joncour (DF)|https://images.fotmob.com/image_resources/playerimages/594886.png\",\"Lasse Günther (DF)|https://images.fotmob.com/image_resources/playerimages/1245692.png\",\"Felix Keidel (DF)|https://images.fotmob.com/image_resources/playerimages/1366338.png\",\"Lukasz Poreba (MF)|https://images.fotmob.com/image_resources/playerimages/962113.png\",\"Lukas Petkov (FW)|https://images.fotmob.com/image_resources/playerimages/1093782.png\",\"Noah Darvich (FW)|https://images.fotmob.com/image_resources/playerimages/1479921.png\",\"Cole Campbell (FW)|https://images.fotmob.com/image_resources/playerimages/1288195.png\",\"Luca Schnellbacher (FW)|https://images.fotmob.com/image_resources/playerimages/459010.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
 homeCoach: ""
 awayCoach: ""
 pickWinTeam: "Elversberg"
