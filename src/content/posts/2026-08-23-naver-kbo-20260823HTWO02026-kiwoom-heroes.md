@@ -1,0 +1,37 @@
+---
+title: "키움 히어로즈 vs KIA 타이거즈 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | KBO - 픽천국"
+date: 2026-08-23T05:00:00.000Z
+description: "키움 히어로즈 vs KIA 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260823HTWO02026-2026-08-23-kiwoom-heroes"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "키움 히어로즈"
+awayTeam: "KIA 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HT.png"
+homeAnalysis: "키움 히어로즈는 2026시즌 최근 89경기에서 32승 1무 56패, 평균 득점 4.0으로 하위권 전력이 이어지고 있습니다. 최근 흐름도 10경기 2승 8패로 좋지 않아 득점 기복이 크고, 상대에게 실점이 불어나면 경기 주도권을 되찾기 어려운 모습입니다. 홈에서는 버티는 힘보다 수비 흔들림이 더 먼저 드러나는 편이라, 초반에 선취점을 내주면 흐름이 급격히 불리해지는 경우가 많습니다. 다만 서건창과 데이비슨처럼 중심에서 타선을 받치는 자원이 있어, 한 번 분위기를 타면 중간 득점 연결은 기대할 수 있습니다. 하지만 최근에는 타선 전체의 응집력보다 단발성 득점에 그치는 경향이 강해 보입니다."
+awayAnalysis: "KIA 타이거즈는 2026시즌 최근 84경기에서 47승 2무 35패, 평균 득점 5.6으로 상위권에 걸맞은 생산력을 보여주고 있습니다. 최근 10경기에서도 8승 2패로 흐름이 매우 좋고, 득점과 마운드 안정감이 함께 살아나면서 경기 운영이 한결 단단해졌습니다. 원정에서도 장타와 연결 타격이 크게 흔들리지 않아 상대 실책이나 선발 난조를 놓치지 않는 점이 돋보입니다. 김도영과 나성범을 앞세운 상위 타선의 파괴력이 강하고, 하위 타선도 김호령처럼 출루와 주루로 흐름을 이어갈 수 있습니다. 선발 올러가 긴 이닝을 책임질 수 있는 점까지 더해져, 초반부터 경기 전체를 자기 페이스로 끌고 갈 가능성이 높아 보입니다."
+homePower: "최근 실점 확대 시 추격 구조가 약해짐|중심 타선 의존도가 높아 변동성 큼|홈에서도 수비 안정감이 과제로 남아 있음|안우진의 짧은 이닝 운영이 불펜 부담으로 이어짐|선취 득점 때는 경기 흐름을 붙잡을 여지는 있음"
+awayPower: "올러의 긴 이닝 소화로 경기 설계가 안정됨|상위 타선의 장타 압박이 초반부터 큼|하위 타선까지 연결돼 득점 루트가 다양함|최근 원정 득점력도 크게 꺾이지 않았음|수비와 마운드가 함께 받쳐 주는 구조가 강점임"
+h2h: '[{"date":"26.08.21","home":"키움 히어로즈","away":"KIA 타이거즈","score":"1-11","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821HTWO02026-2026-08-21-kiwoom-heroes/"},{"date":"26.07.26","home":"KIA 타이거즈","away":"키움 히어로즈","score":"3-8","link":"https://pick79.com/posts/detail/analyze-181899-2026-07-26-kia-tigers/"},{"date":"26.07.25","home":"KIA 타이거즈","away":"키움 히어로즈","score":"9-5","link":"https://pick79.com/posts/detail/analyze-181894-2026-07-25-kia-tigers/"},{"date":"26.07.24","home":"KIA 타이거즈","away":"키움 히어로즈","score":"5-8","link":"https://pick79.com/posts/detail/analyze-181889-2026-07-24-kia-tigers/"},{"date":"26.06.25","home":"키움 히어로즈","away":"KIA 타이거즈","score":"4-9","link":"https://pick79.com/posts/detail/analyze-181791-2026-06-25-kiwoom-heroes/"}]'
+summary: "KIA 타이거즈는 2026시즌 전체 흐름에서 승수와 득점 생산력 모두 키움 히어로즈를 분명하게 앞서고 있습니다. 키움 히어로즈는 최근 실점이 커지는 경기들이 이어지며 버티는 힘이 약해진 반면, KIA 타이거즈는 최근 흐름이 좋아 공격과 마운드의 균형이 더 안정적으로 보입니다. 선발 매치업에서도 긴 이닝을 소화하는 올러 쪽이 더 유리하고, 중심 타선의 무게감과 최근 맞대결 흐름까지 감안하면 KIA 타이거즈가 경기 주도권을 잡을 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.21","home":"키움 히어로즈","away":"KIA 타이거즈","score":"1-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821HTWO02026-2026-08-21-kiwoom-heroes/"},{"date":"26.08.20","home":"롯데 자이언츠","away":"키움 히어로즈","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820WOLT02026-2026-08-20-lotte-giants/"},{"date":"26.08.19","home":"롯데 자이언츠","away":"키움 히어로즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819WOLT02026-2026-08-19-lotte-giants/"},{"date":"26.08.18","home":"롯데 자이언츠","away":"키움 히어로즈","score":"15-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818WOLT02026-2026-08-18-lotte-giants/"},{"date":"26.08.16","home":"KT 위즈","away":"키움 히어로즈","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816WOKT02026-2026-08-16-kt-wiz-suwon/"}]'
+awayRecent: '[{"date":"26.08.21","home":"키움 히어로즈","away":"KIA 타이거즈","score":"1-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821HTWO02026-2026-08-21-kiwoom-heroes/"},{"date":"26.08.20","home":"한화 이글스","away":"KIA 타이거즈","score":"6-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820HTHH02026-2026-08-20-hanwha-eagles/"},{"date":"26.08.19","home":"한화 이글스","away":"KIA 타이거즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819HTHH02026-2026-08-19-hanwha-eagles/"},{"date":"26.08.18","home":"한화 이글스","away":"KIA 타이거즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818HTHH02026-2026-08-18-hanwha-eagles/"},{"date":"26.08.16","home":"KIA 타이거즈","away":"두산 베어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816OBHT02026-2026-08-16-kia-tigers/"}]'
+injuryHome: "김재웅 (부상)|임지열 (부상)|안우진 (부상)"
+injuryAway: "김규성 (부상)|김기훈 (치료·재활중)|곽도규 (부상)|김석환 (치료·재활중)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KIA 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "KIA 타이거즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

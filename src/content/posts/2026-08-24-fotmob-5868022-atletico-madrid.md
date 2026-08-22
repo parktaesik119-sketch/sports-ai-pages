@@ -1,0 +1,37 @@
+---
+title: "아틀레티코 마드리드 vs 비야레알 경기분석·라인업·결장자·통계·승부예측 (8월 24일) | 라리가 - 픽천국"
+date: 2026-08-23T15:00:00.000Z
+description: "아틀레티코 마드리드 vs 비야레알 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868022-2026-08-24-atletico-madrid"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "아틀레티코 마드리드"
+awayTeam: "비야레알"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png"
+homeAnalysis: "아틀레티코 마드리드는 2026시즌 최근 10경기 4승 2무 4패, 평균 득점 1.3으로 균형은 잡혀 있으나 득점 폭발력보다는 실리적인 전개가 돋보이는 팀입니다. 최근에는 말라가전 2대0 승리와 마르세유전 2대1 승리처럼 경기 운영이 살아났고, 맨체스터 시티전과 맨체스터 유나이티드전에서는 강한 상대를 상대로도 버티는 장면을 보여주었습니다. 디에고 시메오네 감독 체제답게 수비 조직이 단단하고, 얀 오블락을 중심으로 한 후방 안정감이 경기의 기준을 세우고 있습니다. 다만 알렉산더 쇠를로트의 이탈은 박스 안 마무리와 제공권 활용에서 분명한 공백으로 이어질 수 있어, 아데몰라 루크먼과 강인 이강인의 2선 연결이 더 중요해 보입니다. 홈에서는 템포를 급하게 올리기보다 상대를 묶어두고 한 번의 기회를 살리는 흐름이 강점으로 평가됩니다."
+awayAnalysis: "비야레알은 2026시즌 최근 11경기 5승 3무 3패, 평균 득점 1.6으로 홈팀보다 공격 생산성이 조금 더 안정적인 모습입니다. 최근 레이싱 산탄데르전 2대2 무승부와 갈라타사라이전 2대1 승리, 레반테전 1대0 승리로 이어진 흐름을 보면 득점 루트가 여러 방향으로 열려 있습니다. 아요세 페레스와 조르주 미카우타제의 전방 조합은 박스 안 움직임이 좋고, 니콜라스 페페와 알베르토 몰레이로가 2선에서 전진성을 더해주고 있습니다. 다만 세르지 카르도나와 제라르 모레노가 결장 후보로 묶여 있어 측면 안정감과 마무리 선택지에서 변수가 생길 수 있습니다. 원정에서는 기동력과 전환 속도를 앞세우지만, 강한 압박을 받는 구간에서 수비 라인이 흔들리는 장면이 종종 나타나고 있습니다."
+homePower: "오블락 중심으로 실점 억제력은 여전히 강함|시메오네식 저득점 운영이 경기 안정성 높임|쇠를로트 이탈로 마무리보다 연계 비중 커짐|루크먼, 이강인 활용 시 전진 전개 날카로움|홈에서는 선제 득점 시 흐름 잠그는 힘이 큼"
+awayPower: "평균 1.6득점이 말해주는 공격 분산 구조임|아요세 페레스-미카우타제 조합의 침투력 보임|페페와 몰레이로의 전진 패스가 활로임|모레노 결장 변수로 마무리 완성도 흔들림|원정에서도 득점 시도 자체는 꾸준한 편임"
+h2h: '[{"date":"26.05.25","home":"비야레알","away":"아틀레티코 마드리드","score":"5-1","link":"https://pick79.com/posts/detail/analyze-1391198-2026-05-25-villarreal/"},{"date":"25.09.14","home":"아틀레티코 마드리드","away":"비야레알","score":"2-0"},{"date":"25.01.26","home":"아틀레티코 마드리드","away":"비야레알","score":"1-1"},{"date":"24.08.20","home":"비야레알","away":"아틀레티코 마드리드","score":"2-2"},{"date":"24.04.02","home":"비야레알","away":"아틀레티코 마드리드","score":"1-2"}]'
+summary: "아틀레티코 마드리드는 시즌 전체 성적과 최근 흐름을 함께 보면 수비 안정감은 분명하지만 득점 효율에서는 다소 아쉬움이 남는 전력입니다. 비야레알은 평균 득점이 더 높고 최근 원정에서도 득점을 이어가고 있어 공격 쪽에서는 조금 더 매끄러운 흐름을 보여주고 있습니다. 다만 맞대결에서는 홈팀이 앞서 나간 경기들도 있었고, 서로 득점이 오가는 구도가 자주 나와서 한쪽이 쉽게 밀어붙이기보다는 전력 균형 속에서 세밀한 마무리가 승부를 가를 가능성이 높습니다. 전체적으로는 비야레알의 공격 전개가 조금 더 날카롭지만, 아틀레티코 마드리드의 홈 운영과 수비 집중력을 감안하면 접전 양상으로 이어질 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Alexander Sørloth (근육 부상)"
+injuryAway: "Alassane Diatta (부상)|Sergi Cardona (출전 불투명)|Gerard Moreno (출전 불투명)"
+homeLineup: '["Jan Oblak (GK)|https://images.fotmob.com/image_resources/playerimages/177126.png","Marc Pubill (DF)|https://images.fotmob.com/image_resources/playerimages/1323897.png","Robin Le Normand (DF)|https://images.fotmob.com/image_resources/playerimages/609516.png","Dávid Hancko (DF)|https://images.fotmob.com/image_resources/playerimages/727897.png","Carlos Martín (FW)|https://images.fotmob.com/image_resources/playerimages/1282015.png","Alejandro Grimaldo (MF)|https://images.fotmob.com/image_resources/playerimages/288406.png","Rodrigo Mendoza (MF)|https://images.fotmob.com/image_resources/playerimages/1419969.png","Pablo Barrios (MF)|https://images.fotmob.com/image_resources/playerimages/1338192.png","Koke (MF)|https://images.fotmob.com/image_resources/playerimages/184533.png","Kang-In Lee (MF)|https://images.fotmob.com/image_resources/playerimages/940976.png","Ademola Lookman (MF)|https://images.fotmob.com/image_resources/playerimages/690516.png"]'
+awayLineup: '["Luiz Júnior (GK)|https://images.fotmob.com/image_resources/playerimages/1187044.png","Santiago Mouriño (DF)|https://images.fotmob.com/image_resources/playerimages/1407468.png","Juan Foyth (DF)|https://images.fotmob.com/image_resources/playerimages/833219.png","Renato Veiga (DF)|https://images.fotmob.com/image_resources/playerimages/1343750.png","Carlos Romero (DF)|https://images.fotmob.com/image_resources/playerimages/1395964.png","Nicolas Pépé (MF)|https://images.fotmob.com/image_resources/playerimages/575735.png","Santi Comesaña (MF)|https://images.fotmob.com/image_resources/playerimages/671865.png","Pape Gueye (MF)|https://images.fotmob.com/image_resources/playerimages/844544.png","Alberto Moleiro (MF)|https://images.fotmob.com/image_resources/playerimages/1184694.png","Ayoze Pérez (FW)|https://images.fotmob.com/image_resources/playerimages/479020.png","Georges Mikautadze (FW)|https://images.fotmob.com/image_resources/playerimages/1117069.png"]'
+homeFormation: "5-4-1"
+awayFormation: "4-4-2"
+homeCoach: "Diego Simeone|https://images.fotmob.com/image_resources/playerimages/2642.png"
+awayCoach: "Inigo Pérez|https://images.fotmob.com/image_resources/playerimages/188060.png"
+pickWinTeam: "비야레알"
+pickWinResult: "승"
+pickHandicapTeam: "비야레알"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

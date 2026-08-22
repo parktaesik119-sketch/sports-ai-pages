@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 시카고 컵스 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | MLB - 픽천국"
+date: 2026-08-22T23:15:00.000Z
+description: "시애틀 매리너스 vs 시카고 컵스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 최근 78경기에서 37승 40패, 승률 .469, 평균 득점 3.8로 시즌 내내 기복이 이어지고 있습니다. 최근 흐름도 10경기 4승 6패, 평균 득점 3.3으로 떨어지며 공격 생산성이 다소 둔화된 모습입니다. 다만 휴스턴 원정과 뉴욕 양키스 원정에서 연달아 승리를 챙긴 장면은 하위권 분위기 속에서도 한 번 리듬을 타면 득점이 살아나는 팀이라는 점을 보여줍니다. 반대로 홈에서는 탬파베이 레이스전 연패와 디트로이트 타이거스전 대패처럼 실점이 급격히 늘어나는 구간이 있어 수비 안정감은 분명한 과제로 보입니다. J.P. 크로퍼드와 콜 윌콕스, 쿠퍼 크리스웰의 공백이 이어지고 있어 타선과 투수 운용의 폭도 좁아진 상태입니다."
+awayAnalysis: "시카고 컵스는 2026시즌 최근 86경기에서 47승 37패, 승률 .578, 평균 득점 4.9로 홈보다 원정에서도 높은 생산성을 유지하며 상위권 전력을 보여주고 있습니다. 최근 10경기에서는 5승 5패, 평균 득점 5.1로 타선의 힘은 살아 있지만, 세인트루이스 카디널스와 시카고 화이트삭스전에서 실점이 크게 늘며 경기별 편차가 컸습니다. 그럼에도 캔자스시티 로열스 원정에서 큰 점수 차 승리를 만든 흐름은 상위권 팀답게 공격이 한 번 터질 때 경기 전체를 주도하는 능력이 있다는 점을 보여줍니다. 다만 마트 쇼와 하비 밀너, 에드워드 카브레라의 결장은 전력 운용의 깊이를 조금 깎아먹는 요소이며, 마무리 구간에서의 안정감은 더 살필 만합니다. 득실 차가 크게 앞서 있는 만큼 기본 전력 우위는 분명하고, 원정에서도 공격 리듬을 유지하면 경기 주도권을 가져가기 쉬운 구조입니다."
+homePower: "최근 하위권 순위와 달리 반등 시도는 이어짐|득점 기복이 커 초반 실점 억제가 핵심임|홈에서 수비 붕괴 시 경기 흐름 급격히 악화됨|주축 결장으로 상위 타선 응집력 약화 보임|한 번 리듬을 타면 원정 강팀 상대로도 득점 가능함"
+awayPower: "리그순위 4위답게 득실 우위가 뚜렷함|타선 생산성이 꾸준해 큰 점수 차 승리 가능함|원정에서도 공격 주도권을 잡는 힘이 확인됨|실점이 늘 때는 연패로 이어지는 흔들림 있음|결장자 속에서도 전력 우위 유지가 검증됨"
+h2h: '[]'
+summary: "시카고 컵스는 리그순위 4위와 +100의 득실 차가 말해주듯 시즌 전체 전력이 안정적으로 앞서 있고, 시애틀 매리너스는 리그순위 12위와 -46의 득실 차처럼 공수 균형이 흔들리는 구간이 더 길었습니다. 최근 흐름만 봐도 시카고 컵스는 득점 생산력이 높게 유지되고 있고, 시애틀 매리너스는 경기별 편차가 커서 상위 전력과 맞붙을 때 버티는 힘이 부족해 보입니다. 결장자 상황까지 감안하면 시카고 컵스가 더 많은 선택지를 가진 쪽으로 보이며, 이번 경기는 전력 우위와 공격 응집력에서 앞선 시카고 컵스 쪽으로 무게가 실립니다."
+homeRecent: '[{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"},{"date":"26.08.20","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SEMI0-2026-08-20-milwaukee-brewers/"},{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"},{"date":"26.08.17","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SEHO0-2026-08-17-houston-astros/"},{"date":"26.08.16","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SEHO0-2026-08-16-houston-astros/"}]'
+awayRecent: '[{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"},{"date":"26.08.18","home":"시카고 컵스","away":"시카고 화이트삭스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs/"},{"date":"26.08.17","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs/"},{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"},{"date":"26.08.15","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815SLCC0-2026-08-15-chicago-cubs/"}]'
+injuryHome: "Cole Wilcox (염좌)|Bryan Woo (일상적 결장)|J.P. Crawford (염증)|Colt Emerson (염증)|Cooper Criswell (염좌)"
+injuryAway: "Hoby Milner (수술)|Kevin Gausman (경련)|Matt Shaw (염좌)|Tyler Austin (수술)|Edward Cabrera (찰과상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

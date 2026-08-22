@@ -1,0 +1,37 @@
+---
+title: "뉴잉글랜드 레볼루션 vs 뉴욕 시티 FC 경기분석·라인업·결장자·통계·승부예측 (8월 24일) | MLS - 픽천국"
+date: 2026-08-23T20:30:00.000Z
+description: "뉴잉글랜드 레볼루션 vs 뉴욕 시티 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071305-2026-08-24-new-england"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "뉴잉글랜드 레볼루션"
+awayTeam: "뉴욕 시티 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6580.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/546238.png"
+homeAnalysis: "뉴잉글랜드 레볼루션은 2026시즌 전체 DB 기준으로 2승 3무 5패, 평균 득점 1.2를 기록하며 다소 흔들린 흐름을 보이고 있습니다. 다만 최근 공식 경기에서 DC 유나이티드를 3대0으로 꺾은 뒤 원정과 홈을 오가며 득점과 실점의 편차가 크게 갈린 모습이라, 순위 4위의 위치에 비해 전력 기복이 느껴집니다. 홈에서는 토론토전 무득점과 휴스턴전 0대2 패배처럼 공격 마무리가 막히는 장면이 있었지만, 동시에 카를레스 힐과 도르 투르헤만을 활용한 전개가 살아날 때는 한 번에 경기 흐름을 바꿀 수 있습니다. 특히 루카 랑고니와 레오나르도 캄파나의 이탈은 측면과 전방 압박의 날카로움을 떨어뜨릴 수 있어 보이지만, 맷 터너가 버티는 골문과 맘마두 포파나 중심의 수비는 홈에서는 비교적 안정감을 줄 수 있습니다. 최근 흐름이 완전히 좋다고 보기는 어렵지만, 리그순위 4위답게 경기 운영의 기본기는 유지되고 있어 홈에서 반등의 실마리를 만들 가능성은 충분합니다."
+awayAnalysis: "뉴욕 시티 FC는 2026시즌 전체 DB 기준으로 4승 3무 9패, 평균 득점 1.1로 승리보다 패배가 많아 전반적인 전력 안정감이 떨어져 있습니다. 최근에는 신시내티와 필라델피아, 네카사전에서 연달아 실점하며 주춤했는데, 리그순위 7위라는 자리와 비교하면 고점 대비 흐름이 가라앉은 편입니다. 다만 산토스 라구나를 상대로 2대0 승리를 만든 장면처럼 수비가 먼저 정리되면 경기 주도권을 잡는 힘은 분명히 있습니다. 그러나 알론소 마르티네스, 아이든 오닐, 카이 트레윈의 이탈은 중원 압박과 전환 속도에 부담을 줄 수 있고, 아그스틴 오헤다와 베니에 트라오레, 루히기 중심의 공격이 좀 더 효율적으로 마무리되어야 합니다. 원정에서는 버티는 힘은 보여도 실점 관리가 흔들리는 모습이 반복되고 있어, 최근 전력만 놓고 보면 신뢰를 높게 두기는 어려운 상태입니다."
+homePower: "리그순위 4위의 기본 체급은 유지됨|맷 터너 중심으로 실점 억제축 형성됨|카를레스 힐 전개가 풀리면 공격 완성도 상승함|랑고니, 캄파나 이탈로 측면 속도 저하 우려됨|홈에서 버틸 때는 경기 운영 응집력 살아남"
+awayPower: "리그순위 7위이나 전력 기복이 큼|알론소 마르티네스 공백으로 마무리 약화됨|오헤다, 트라오레 전환 속도가 변수임|원정 실점 관리 흔들리면 경기 전체가 무너짐|수비 먼저 정리될 때만 승부력 살아남"
+h2h: '[{"date":"25.04.20","home":"뉴잉글랜드 레볼루션","away":"뉴욕 시티 FC","score":"2-0"},{"date":"25.03.16","home":"뉴욕 시티 FC","away":"뉴잉글랜드 레볼루션","score":"2-1"},{"date":"24.08.10","home":"뉴잉글랜드 레볼루션","away":"뉴욕 시티 FC","score":"1-1"},{"date":"24.05.26","home":"뉴잉글랜드 레볼루션","away":"뉴욕 시티 FC","score":"0-1"},{"date":"24.04.14","home":"뉴욕 시티 FC","away":"뉴잉글랜드 레볼루션","score":"2-0"}]'
+summary: "뉴잉글랜드 레볼루션은 리그순위 4위지만 최근 전력 흐름이 매끄럽지 않아, 순위에 비해 경기 내용의 안정감은 조금 떨어져 보입니다. 뉴욕 시티 FC는 리그순위 7위에 평균 득점도 비슷한 수준이지만, 최근 패배가 이어지며 수비 밸런스가 흔들리는 모습이 더 뚜렷합니다. 맞대결에서는 뉴잉글랜드 레볼루션이 홈에서 강하게 맞서온 장면이 있고, 최근 맞대결 결과도 홈팀이 우세를 잡을 수 있는 구도가 자주 보였습니다. 그래서 이번 경기는 뉴잉글랜드 레볼루션이 홈 이점을 바탕으로 조금 더 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Matt Turner (GK)|https://images.fotmob.com/image_resources/playerimages/729988.png","Matt Polster (MF)|https://images.fotmob.com/image_resources/playerimages/621511.png","Ethan Kohler (DF)|https://images.fotmob.com/image_resources/playerimages/1448104.png","Mamadou Fofana (DF)|https://images.fotmob.com/image_resources/playerimages/785536.png","Will Sands (DF)|https://images.fotmob.com/image_resources/playerimages/1338765.png","Carles Gil (MF)|https://images.fotmob.com/image_resources/playerimages/358289.png","Brooklyn Raines (MF)|https://images.fotmob.com/image_resources/playerimages/1303876.png","Alhassan Yusuf (MF)|https://images.fotmob.com/image_resources/playerimages/955195.png","Jack Harrison (FW)|https://images.fotmob.com/image_resources/playerimages/751649.png","Dor Turgeman (FW)|https://images.fotmob.com/image_resources/playerimages/1177306.png","Peyton Miller (FW)|https://images.fotmob.com/image_resources/playerimages/1473789.png"]'
+awayLineup: '["Matt Freese (GK)|https://images.fotmob.com/image_resources/playerimages/1026065.png","Tayvon Gray (DF)|https://images.fotmob.com/image_resources/playerimages/1107250.png","James Sands (MF)|https://images.fotmob.com/image_resources/playerimages/880095.png","Raul (DF)|https://images.fotmob.com/image_resources/playerimages/1202678.png","Kevin O’Toole (DF)|https://images.fotmob.com/image_resources/playerimages/769648.png","Keaton Parks (MF)|https://images.fotmob.com/image_resources/playerimages/782782.png","Andrés Perea (MF)|https://images.fotmob.com/image_resources/playerimages/1041997.png","Agustín Ojeda (FW)|https://images.fotmob.com/image_resources/playerimages/1345326.png","Nicolás Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/976705.png","Bénie Traoré (FW)|https://images.fotmob.com/image_resources/playerimages/1231770.png","Luighi (FW)|https://images.fotmob.com/image_resources/playerimages/1580773.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Marko Mitrovic|https://images.fotmob.com/image_resources/playerimages/142232.png"
+awayCoach: "Pascal Jansen|https://images.fotmob.com/image_resources/playerimages/1213522.png"
+pickWinTeam: "뉴잉글랜드 레볼루션"
+pickWinResult: "승"
+pickHandicapTeam: "뉴잉글랜드 레볼루션"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

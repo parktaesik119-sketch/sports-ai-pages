@@ -1,0 +1,37 @@
+---
+title: "지바 롯데 마린스 vs 니혼햄 파이터즈 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | NPB - 픽천국"
+date: 2026-08-23T08:00:00.000Z
+description: "지바 롯데 마린스 vs 니혼햄 파이터즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260823NHJL0-2026-08-23-chiba-lotte-marines"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "지바 롯데 마린스"
+awayTeam: "니혼햄 파이터즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/JL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/NH.png"
+homeAnalysis: "지바 롯데 마린스는 2026시즌 최근 82경기 40승 3무 39패, 평균 득점 3.6으로 승패 균형을 잘 맞추며 경기를 풀어가고 있습니다. 최근 들어서는 득점이 완전히 폭발하는 흐름은 아니지만, 필요할 때 점수를 내며 승부를 가져오는 장면이 이어지고 있습니다. 홈에서는 비교적 안정적으로 버티는 편이고, 실점이 크게 흔들릴 때와 단단하게 잠그는 날의 차이가 분명하게 나타나고 있습니다. 특히 Andre Jackson은 2026시즌 20경기 8승 7패, 평균자책점 3.12로 버팀목 역할을 하고 있어 선발 경쟁력은 충분해 보입니다. 타선에서는 최근 경기들에서 3점대 초반 득점 흐름을 자주 보여주고 있어, 초반에 상대를 압박하는 전개가 나오면 홈에서도 충분히 승산이 있습니다."
+awayAnalysis: "니혼햄 파이터즈는 2026시즌 최근 88경기 49승 1무 38패, 평균 득점 4.0으로 홈팀보다 더 높은 생산력을 보여주고 있습니다. 최근 10경기에서도 평균 득점 5.4로 화력이 다시 살아나는 모습이 뚜렷하며, 한 번 흐름을 타면 연속 득점으로 경기를 넓히는 힘이 있습니다. 다만 득점이 잘 나오는 날과 그렇지 않은 날의 차이도 존재해, 상대 선발을 빨리 공략하지 못하면 답답해질 수 있습니다. Kota Tatsu는 2026시즌 22경기 3승 6패, 평균자책점 3.11로 내용이 나쁘지 않아, 긴 이닝을 버티며 승부를 이어갈 기반은 갖추고 있습니다. 최근 원정 경기에서도 강한 타선 연결이 살아 있고, 이 타격감이 이어진다면 경기 주도권을 가져올 가능성이 높아 보입니다."
+homePower: "Andre Jackson의 장타 억제력이 안정감으로 이어짐|최근 접전 승부에서 마운드 운영이 흔들리지 않음|3점대 득점 패턴이 선발전에서 실리로 연결됨|홈에서 실점 폭이 커질 때와 달리 제어력은 보임|상대 강타선 상대로도 초반 흐름 관리가 핵심임"
+awayPower: "니혼햄 파이터즈 타선의 폭발력이 가장 뚜렷함|최근 고득점 경기로 장타 흐름이 살아 있음|Kota Tatsu의 3점대 ERA가 경기 균형을 지탱함|득점권 집중력이 살아날 때 경기 장악력이 커짐|마운드와 타선의 동반 상승세가 우세 요인임"
+h2h: '[{"date":"26.08.21","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821NHJL0-2026-08-21-chiba-lotte-marines/"},{"date":"26.08.02","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-181198-2026-08-02-nippon-ham-fighters/"},{"date":"26.08.01","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-181195-2026-08-01-nippon-ham-fighters/"},{"date":"26.07.31","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-181186-2026-07-31-nippon-ham-fighters/"},{"date":"26.07.08","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"2-7","link":"https://pick79.com/posts/detail/analyze-181095-2026-07-08-chiba-lotte-marines/"}]'
+summary: "니혼햄 파이터즈는 2026시즌 전체 흐름에서 지바 롯데 마린스보다 득점 생산력이 한 단계 앞서 있고, 최근 경기에서도 더 큰 화력을 보여주고 있습니다. 지바 롯데 마린스는 홈에서 버티는 힘과 Andre Jackson의 안정감이 있지만, 최근 맞대결 흐름을 보면 니혼햄 파이터즈가 공격에서 더 다양한 득점 루트를 만들어내고 있습니다. 선발 맞대결 자체는 팽팽하게 흘러갈 수 있으나, 전체적인 전력과 최근 타선의 무게감을 고려하면 니혼햄 파이터즈가 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.21","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821NHJL0-2026-08-21-chiba-lotte-marines/"},{"date":"26.08.20","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260820JLRT0-2026-08-20-rakuten-gold-eagles/"},{"date":"26.08.19","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260819JLRT0-2026-08-19-rakuten-gold-eagles/"},{"date":"26.08.18","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818JLRT0-2026-08-18-rakuten-gold-eagles/"},{"date":"26.08.16","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816JLSE0-2026-08-16-seibu-lions/"}]'
+awayRecent: '[{"date":"26.08.21","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821NHJL0-2026-08-21-chiba-lotte-marines/"},{"date":"26.08.20","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"5-5","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260820SFNH0-2026-08-20-nippon-ham-fighters/"},{"date":"26.08.19","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260819SFNH0-2026-08-19-nippon-ham-fighters/"},{"date":"26.08.18","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818SFNH0-2026-08-18-nippon-ham-fighters/"},{"date":"26.08.16","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"7-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816NHOX0-2026-08-16-orix-buffaloes/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "니혼햄 파이터즈"
+pickWinResult: "승"
+pickHandicapTeam: "니혼햄 파이터즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

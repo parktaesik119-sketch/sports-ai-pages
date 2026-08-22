@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 유나이티드 vs 스포르팅 캔자스시티 경기분석·라인업·결장자·통계·승부예측 (8월 24일) | MLS - 픽천국"
+date: 2026-08-23T23:00:00.000Z
+description: "애틀랜타 유나이티드 vs 스포르팅 캔자스시티 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071304-2026-08-24-atlanta-united"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "애틀랜타 유나이티드"
+awayTeam: "스포르팅 캔자스시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/773958.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6604.png"
+homeAnalysis: "애틀랜타 유나이티드는 2026시즌 전체 DB 기준 3승 2무 5패, 평균 득점 1.3으로 들쑥날쑥한 흐름 속에서도 공격에서 최소한의 생산력은 유지하고 있습니다. 최근에는 원정에서 미네소타 유나이티드를 잡고 뉴욕 레드불스를 꺾는 반등 흐름이 보였고, 순위만 보면 리그순위 15위지만 최근 경기력은 완전히 가라앉았다고 보기는 어렵습니다. 다만 실점이 많은 경기에서 쉽게 흔들리는 장면이 반복되어 수비 안정감은 여전히 아쉬운 편입니다. 홈에서는 상대 압박을 받아도 미겔 알미론과 알레크세이 미란추크를 축으로 전진 전개를 만들 수 있어, 공격 전개 자체는 충분히 살아날 여지가 있습니다. 윌 라이리와 아자니 포춘의 공백은 중원 균형과 활동량 측면에서 부담이 될 수 있으나, 전반적인 흐름상 홈에서 먼저 주도권을 잡으려는 색채는 분명해 보입니다."
+awayAnalysis: "스포르팅 캔자스시티는 2026시즌 전체 DB 기준 3승 2무 6패, 평균 득점 0.9로 공격 생산이 꽤 답답한 편입니다. 리그순위 15위에 득실도 크게 밀려 있어, 경기마다 버티는 힘이 부족하고 한 번 흔들리면 실점이 이어지는 모습이 뚜렷합니다. 최근에는 무승부와 패배가 이어지며 반등의 실마리를 쉽게 만들지 못했고, 득점력보다 수비 부담이 더 크게 드러나고 있습니다. 대체로 데얀 요벨리치를 앞세운 직선적인 마무리에는 기대를 걸 수 있지만, 그 과정에서 중원과 측면 지원이 약하면 고립되기 쉽습니다. 원정에서는 경기 운영이 더 보수적으로 흐를 가능성이 높고, 현재 전력만 놓고 보면 상대의 압박을 오래 견디기에는 무게감이 부족해 보입니다."
+homePower: "미겔 알미론-미란추크 조합의 전진성 살아있음|최근 반등 흐름으로 공격 자신감 회복됨|홈에서 초반 압박 걸면 경기 주도 가능성 큼|실점 억제가 안 되면 후반 운영이 흔들림|윌 라이리 공백으로 중원 균형은 다소 약화됨"
+awayPower: "데얀 요벨리치 중심의 마무리 의존도 높음|리그순위 대비 득실 격차가 매우 좋지 않음|원정에서는 수비 블록 유지 시간이 길어짐|중원 지원이 약하면 공격 연결이 끊어짐|실리보다 버티기에 가까운 경기 운영으로 보임"
+h2h: '[{"date":"22.02.28","home":"애틀랜타 유나이티드","away":"스포르팅 캔자스시티","score":"3-1"},{"date":"19.05.06","home":"스포르팅 캔자스시티","away":"애틀랜타 유나이티드","score":"0-3"},{"date":"18.05.10","home":"애틀랜타 유나이티드","away":"스포르팅 캔자스시티","score":"0-2"},{"date":"17.08.07","home":"스포르팅 캔자스시티","away":"애틀랜타 유나이티드","score":"1-1"}]'
+summary: "애틀랜타 유나이티드는 리그순위 15위이지만 최근 흐름에서 다시 힘을 내는 장면이 나오고 있어, 순위만큼 답답한 경기로만 보기는 어렵습니다. 반면 스포르팅 캔자스시티는 리그순위 15위에 득실 차이도 크게 밀려 있어, 공격 전개와 수비 안정감 모두에서 부담이 더 커 보입니다. 상대전적에서는 애틀랜타 유나이티드가 최근 맞대결에서 우위를 보인 적이 있고, 전체적인 전력 흐름까지 합치면 홈팀이 한 발 앞선 경기 내용을 만들 가능성이 높습니다. 결국 이번 경기는 애틀랜타 유나이티드가 전개 속도와 마무리에서 조금 더 나은 모습을 보여줄 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Will Reilly (발목 부상)|Ajani Fortune (햄스트링 부상)"
+injuryAway: "없음"
+homeLineup: '["Lucas Hoyos (GK)|https://images.fotmob.com/image_resources/playerimages/113620.png","Tomás Jacob (DF)|https://images.fotmob.com/image_resources/playerimages/1308412.png","Stian Gregersen (DF)|https://images.fotmob.com/image_resources/playerimages/462527.png","Júnior Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/466214.png","Elías Báez (DF)|https://images.fotmob.com/image_resources/playerimages/1513339.png","Adrian Gill (MF)|https://images.fotmob.com/image_resources/playerimages/1830234.png","Aleksey Miranchuk (FW)|https://images.fotmob.com/image_resources/playerimages/442581.png","Cooper Sanchez (MF)|https://images.fotmob.com/image_resources/playerimages/1732500.png","Tristan Muyumba (MF)|https://images.fotmob.com/image_resources/playerimages/769928.png","Fabrice Picault (FW)|https://images.fotmob.com/image_resources/playerimages/580600.png","Miguel Almirón (FW)|https://images.fotmob.com/image_resources/playerimages/442277.png"]'
+awayLineup: '["Stefan Cleveland (GK)|https://images.fotmob.com/image_resources/playerimages/846521.png","Jacob Davis (DF)|https://images.fotmob.com/image_resources/playerimages/1082905.png","Jansen Miller (DF)|https://images.fotmob.com/image_resources/playerimages/1083287.png","Wyatt Meyer (DF)|https://images.fotmob.com/image_resources/playerimages/1600922.png","Emir Karic (DF)|https://images.fotmob.com/image_resources/playerimages/642153.png","Capita (FW)|https://images.fotmob.com/image_resources/playerimages/1187420.png","Lasse Berg Johnsen (MF)|https://images.fotmob.com/image_resources/playerimages/1035206.png","Zorhan Bassong (MF)|https://images.fotmob.com/image_resources/playerimages/1023070.png","Calvin Harris (FW)|https://images.fotmob.com/image_resources/playerimages/1244938.png","Taylor Calheira (FW)|https://images.fotmob.com/image_resources/playerimages/1625713.png","Dejan Joveljic (FW)|https://images.fotmob.com/image_resources/playerimages/749491.png"]'
+homeFormation: "4-1-4-1"
+awayFormation: "4-4-2"
+homeCoach: "Gerardo Martino|https://images.fotmob.com/image_resources/playerimages/80651.png"
+awayCoach: "Raphael Wicky|https://images.fotmob.com/image_resources/playerimages/30705.png"
+pickWinTeam: "애틀랜타 유나이티드"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 유나이티드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

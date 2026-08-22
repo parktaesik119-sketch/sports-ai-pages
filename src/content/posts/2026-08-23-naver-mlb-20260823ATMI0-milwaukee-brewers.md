@@ -1,0 +1,37 @@
+---
+title: "밀워키 브루어스 vs 애틀랜타 브레이브스 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | MLB - 픽천국"
+date: 2026-08-22T18:10:00.000Z
+description: "밀워키 브루어스 vs 애틀랜타 브레이브스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260823ATMI0-2026-08-23-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "밀워키 브루어스는 2026시즌 최근 90경기에서 56승 33패, 승률 .620을 기록하며 리그순위 1위에 올라 있고, 득실 644-484로 공수 균형이 매우 좋습니다. 최근 흐름도 최근 10경기 7승 3패, 평균 득점 6.0으로 살아나 있으며, 직전 애틀랜타 브레이브스전 승리까지 포함해 타선의 응집력이 잘 이어지고 있습니다. 특히 홈에서의 강한 운영과 함께 장타가 터질 때 경기 흐름을 빠르게 가져오는 모습이 돋보입니다. 다만 최근에도 실점이 완전히 억제된 것은 아니어서, 불펜이 흔들리는 구간에서는 접전 양상이 나올 수 있습니다. 핵심 전력 누수가 적지 않은 상황이지만, 시즌 전체 흐름과 최근 화력을 함께 보면 여전히 주도권을 잡는 힘이 분명한 팀입니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 92경기에서 49승 41패, 승률 .581로 리그순위 3위에 올라 있으며, 득실 609-498로 전반적인 힘은 갖추고 있습니다. 다만 최근 10경기 4승 6패, 평균 득점 2.8로 타선이 뚜렷하게 식어 있는 점이 아쉽습니다. 원정에서도 득점 생산이 매끄럽지 않아, 초반에 흐름을 잡지 못하면 경기 전체가 답답하게 흘러가는 경우가 많습니다. 선발과 불펜 쪽 핵심 결장자가 겹쳐 있어 마운드 운용의 안정감도 예전보다 떨어져 보입니다. 시즌 순위만 보면 상위권 전력이나, 최근 흐름까지 함께 보면 고점 대비 주춤한 모습이 분명합니다."
+homePower: "최근 득점 폭발력이 경기 초반 주도권으로 이어지는 흐름임|홈에서 강한 타격 리듬이 불펜 부담을 줄이는 구조임|애틀랜타 브레이브스전 상성에서 최근 우위가 확인됨|실점 억제보다 득점으로 밀어붙이는 색채가 선명함|핵심 결장에도 타선 응집력은 여전히 유지되는 편임"
+awayPower: "최근 타선 침묵이 길어져 반전 동력 약화됨|원정 득점 생산이 낮아 초반 실점 시 추격이 어려움|선발 결장 누적으로 마운드 운영의 폭이 줄어든 상태임|시즌 득실은 괜찮지만 최근 흐름과 괴리가 큼|상위권 순위 대비 경기력 기복이 크게 드러나는 구간임"
+h2h: '[{"date":"26.08.22","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822ATMI0-2026-08-22-milwaukee-brewers/"},{"date":"26.06.22","home":"애틀랜타 브레이브스","away":"밀워키 브루어스","score":"4-9","link":"https://pick79.com/posts/detail/analyze-179168-2026-06-22-atlanta-braves/"},{"date":"26.06.21","home":"애틀랜타 브레이브스","away":"밀워키 브루어스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-179159-2026-06-21-atlanta-braves/"},{"date":"26.06.20","home":"애틀랜타 브레이브스","away":"밀워키 브루어스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179144-2026-06-20-atlanta-braves/"}]'
+summary: "밀워키 브루어스는 리그순위 1위답게 시즌 전체 전력의 완성도가 높고, 득실 차이에서도 안정적인 우위를 보여주고 있습니다. 애틀랜타 브레이브스는 리그순위 3위로 기본 체급은 좋지만, 최근 10경기에서 득점력이 크게 떨어지며 흐름이 둔해진 모습입니다. 맞대결에서는 밀워키 브루어스가 최근 한 차례 흐름을 되찾았고, 직전 결과까지 감안하면 홈팀이 전력과 분위기 모두에서 조금 더 앞서 보입니다. 결국 이번 경기는 밀워키 브루어스가 초반 타격감과 홈 이점을 살려 우세를 이어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.22","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822ATMI0-2026-08-22-milwaukee-brewers/"},{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"},{"date":"26.08.20","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SEMI0-2026-08-20-milwaukee-brewers/"},{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"},{"date":"26.08.17","home":"LA 다저스","away":"밀워키 브루어스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MILA0-2026-08-17-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.08.22","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822ATMI0-2026-08-22-milwaukee-brewers/"},{"date":"26.08.21","home":"시카고 화이트삭스","away":"애틀랜타 브레이브스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ATCW0-2026-08-21-chicago-white-sox/"},{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"},{"date":"26.08.19","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ATMN0-2026-08-19-minnesota-twins/"},{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"}]'
+injuryHome: "Joel Kuhnel (건염)|Sal Frelick (염좌)|Abner Uribe (염좌)|JoJo Romero (결장)|Rob Zastryzny (염좌)"
+injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

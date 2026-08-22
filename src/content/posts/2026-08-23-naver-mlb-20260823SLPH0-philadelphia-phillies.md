@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 세인트루이스 카디널스 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | MLB - 픽천국"
+date: 2026-08-22T22:05:00.000Z
+description: "필라델피아 필리스 vs 세인트루이스 카디널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "세인트루이스 카디널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 최근 94경기에서 52승 2무 40패, 평균 득점 4.6으로 상위권 전력을 유지하고 있습니다. 최근 10경기에서도 8승 2패로 흐름이 매우 좋고, 평균 득점이 5.3까지 올라가면서 타선의 응집력이 한층 살아난 모습입니다. 특히 홈에서는 안정적인 득점 생산이 이어지고 있고, 원정에서도 크게 흔들리지 않는 점이 강점으로 보입니다. 다만 세인트루이스 카디널스와의 맞대결에서는 직전 두 경기에서 연이어 득점이 묶였던 흔적이 있어, 공격이 막히는 구간이 다시 나오느냐가 관건입니다. 최근에는 마이애미 말린스전과 미네소타 트윈스전에서 고른 득점이 나왔기 때문에, 출루와 장타가 함께 이어질 경우 경기 주도권을 잡을 가능성이 높습니다."
+awayAnalysis: "세인트루이스 카디널스는 2026시즌 최근 85경기에서 38승 1무 46패, 평균 득점 4.3으로 다소 기복이 있는 흐름을 보이고 있습니다. 최근 10경기에서는 6승 4패에 평균 득점 5.5를 기록하며 타격감은 확실히 올라와 있고, 특히 강팀을 상대로도 득점 생산이 살아난 점이 눈에 띕니다. 리그순위 8위지만 최근 경기력은 순위보다 나은 반등 조짐으로 해석할 수 있고, 득점력은 그 흐름을 뒷받침하고 있습니다. 반면 실점 억제는 아직 완전히 안정되지 않아 접전에서 흔들릴 여지가 남아 있습니다. 필라델피아 필리스를 상대로 직전 맞대결 두 경기에서 연승을 거둔 만큼 상성 면의 자신감도 갖고 있고, 장타가 이어지면 원정에서도 충분히 흐름을 가져갈 수 있습니다."
+homePower: "최근 홈 타격 응집력이 살아난 모습임|강팀 상대에서도 득점 폭발 구간이 있음|직전 맞대결 무득점 패배는 경계 포인트임|홈과 원정 구분 없이 출루 연결성이 좋음|상위권 유지에도 타선 상승세가 뚜렷함"
+awayPower: "최근 득점 상승세가 뚜렷하게 확인됨|강팀 원정에서도 장타 생산이 이어짐|실점 억제 불안이 접전 변수로 남음|필라델피아 상대로 자신감 있는 상성 보임|하위권 순위보다 현재 공격 흐름이 앞섬"
+h2h: '[{"date":"26.08.13","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"7-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813PHSL0-2026-08-13-st-louis-cardinals/"},{"date":"26.08.12","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"2-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812PHSL0-2026-08-12-st-louis-cardinals/"},{"date":"26.08.11","home":"세인트루이스 카디널스","away":"필라델피아 필리스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811PHSL0-2026-08-11-st-louis-cardinals/"}]'
+summary: "필라델피아 필리스는 2026시즌 전반적으로 높은 승률과 안정적인 득점력을 바탕으로 상위권 전력을 유지하고 있고, 세인트루이스 카디널스는 시즌 전체 흐름에서는 다소 뒤처지지만 최근에는 공격 생산이 뚜렷하게 살아나고 있습니다. 두 팀 모두 최근 경기에서 타격감이 좋지만, 필라델피아 필리스는 꾸준한 전력 유지가 강점이고 세인트루이스 카디널스는 직전 맞대결에서 이미 우위를 보여준 상성이 돋보입니다. 여기에 세인트루이스 카디널스가 최근 실전 감각과 득점 흐름에서 조금 더 날카로운 모습이라, 전체적인 균형은 원정팀 쪽으로 기울어 보입니다. 홈팀의 저력도 무시하기 어렵지만, 현재 흐름과 맞대결 흐름을 함께 보면 세인트루이스 카디널스가 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.20","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies/"},{"date":"26.08.19","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819FLPH0-2026-08-19-philadelphia-phillies/"},{"date":"26.08.18","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818FLPH0-2026-08-18-philadelphia-phillies/"},{"date":"26.08.17","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817PHMN0-2026-08-17-minnesota-twins/"},{"date":"26.08.16","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816PHMN0-2026-08-16-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"},{"date":"26.08.20","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SLCI0-2026-08-20-cincinnati-reds/"},{"date":"26.08.19","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SLCI0-2026-08-19-cincinnati-reds/"},{"date":"26.08.18","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SLCI2-2026-08-18-cincinnati-reds/"},{"date":"26.08.17","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs/"}]'
+injuryHome: "Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Felix Reyes (골절)|Johan Rojas (수술)"
+injuryAway: "Ramon Urias (건염)|Andre Pallante (염증)|Max Rajcic (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

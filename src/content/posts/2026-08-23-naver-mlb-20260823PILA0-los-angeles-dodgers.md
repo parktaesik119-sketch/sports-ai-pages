@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 피츠버그 파이러츠 경기분석·라인업·결장자·통계·승부예측 (8월 23일) | MLB - 픽천국"
+date: 2026-08-22T23:15:00.000Z
+description: "LA 다저스 vs 피츠버그 파이러츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "피츠버그 파이러츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+homeAnalysis: "LA 다저스는 2026시즌 최근 81경기에서 50승 31패, 승률 .602, 평균 득점 5.1을 기록하며 높은 생산력을 유지하고 있습니다. 최근 흐름도 10경기 6승 4패로 나쁘지 않고, 직전 콜로라도 원정 3연전에서는 연속 승리를 거두며 타선의 응집력이 다시 살아나는 모습이었습니다. 다만 밀워키전 3연패처럼 강한 상대를 만나면 실점이 늘어나는 장면도 있어, 경기 운영의 안정감이 완전히 고정된 상태는 아닙니다. 홈에서는 공격 전개가 더 자연스럽고 득점 기대치도 높게 형성되는 편이라, 초반부터 주도권을 잡는 장면이 자주 보입니다. 부상 이탈이 적지 않지만 전체 전력의 두께가 좋아서, 핵심 타선이 제 역할을 하면 충분히 상대를 압박할 수 있는 흐름입니다."
+awayAnalysis: "피츠버그 파이러츠는 2026시즌 최근 93경기에서 41승 51패, 승률 .488, 평균 득점 4.9를 남기며 전반적으로는 하위권 전력에 머물고 있습니다. 최근 10경기에서는 5승 5패로 반등과 흔들림이 함께 나타나고 있고, 디트로이트와 보스턴을 상대로는 힘 있는 경기력을 보여주기도 했습니다. 반대로 뉴욕 메츠전이나 밀워키전처럼 상위권 타선을 상대할 때는 실점이 빠르게 늘어나는 장면이 반복되어, 수비 안정감이 약점으로 읽힙니다. 원정에서도 득점은 어느 정도 유지하지만, 상대가 강할수록 마운드가 버티지 못하는 흐름이 뚜렷합니다. 결장자 영향까지 감안하면 중심축이 조금 가벼워져서, 장기전보다는 한두 번의 집중력으로 흐름을 바꿔야 하는 경기로 보입니다."
+homePower: "홈에서 타선 응집력이 더 살아나는 구조임|강한 상대 만나면 실점 확대가 반복됨|최근 연승 구간서 초반 득점 개시가 빠름|장기 결장 여파 속에도 전력 두께는 우위임|홈 주도권 잡으면 경기 운영 안정감 높아짐"
+awayPower: "상위권 상대에선 마운드 버팀이 약해짐|최근 반등은 있으나 연속성은 부족함|득점은 유지되나 수비 흔들림이 변수임|핵심 결장으로 중심타선 무게감이 줄어듦|단기 집중력은 있으나 장기 흐름은 불안정함"
+h2h: '[{"date":"26.06.12","home":"피츠버그 파이러츠","away":"LA 다저스","score":"6-8","link":"https://pick79.com/posts/detail/analyze-179034-2026-06-12-pittsburgh-pirates/"},{"date":"26.06.11","home":"피츠버그 파이러츠","away":"LA 다저스","score":"9-8","link":"https://pick79.com/posts/detail/analyze-179022-2026-06-11-pittsburgh-pirates/"},{"date":"26.06.10","home":"피츠버그 파이러츠","away":"LA 다저스","score":"3-12","link":"https://pick79.com/posts/detail/analyze-179008-2026-06-10-pittsburgh-pirates/"}]'
+summary: "LA 다저스는 2026시즌 승률과 득실에서 피츠버그 파이러츠보다 분명한 우위를 보이고 있고, 최근 흐름도 연승과 연패가 섞였지만 전체적인 공격 완성도는 더 높게 유지되고 있습니다. 피츠버그 파이러츠는 최근 몇 경기에서 반등 장면을 만들었지만, 상위권 전력과 맞붙을 때 실점 관리가 흔들리는 모습이 자주 보여서 경기 후반으로 갈수록 부담이 커질 수 있습니다. 여기에 최근 맞대결에서도 다저스가 시리즈 우세를 잡고 있어, 전력 차이와 상성까지 합치면 홈팀이 경기를 주도할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.20","home":"콜로라도 로키스","away":"LA 다저스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820LACO0-2026-08-20-colorado-rockies/"},{"date":"26.08.19","home":"콜로라도 로키스","away":"LA 다저스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819LACO0-2026-08-19-colorado-rockies/"},{"date":"26.08.18","home":"콜로라도 로키스","away":"LA 다저스","score":"5-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818LACO0-2026-08-18-colorado-rockies/"},{"date":"26.08.17","home":"LA 다저스","away":"밀워키 브루어스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MILA0-2026-08-17-los-angeles-dodgers/"},{"date":"26.08.16","home":"LA 다저스","away":"밀워키 브루어스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MILA0-2026-08-16-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"},{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"},{"date":"26.08.18","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates/"},{"date":"26.08.17","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BOPI0-2026-08-17-pittsburgh-pirates/"},{"date":"26.08.16","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816BOPI0-2026-08-16-pittsburgh-pirates/"}]'
+injuryHome: "Ben Casparius (염증)|Tyler Glasnow (경련)|Bobby Miller (통증)|Blake Treinen (염증)|Will Klein (통증)"
+injuryAway: "Endy Rodriguez (염증)|Konnor Griffin (근육 손상)|Ryan O'Hearn (근육 손상)|Mitch Keller (기재되지 않음)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---
