@@ -19,11 +19,11 @@ summary: "하노버 96은 2026시즌 최근 8경기에서 3승 3무 2패, 평균
 homeRecent: '[{"date":"25.08.16","home":"SV Hemelingen","away":"볼프스부르크","score":"0-9","result":"🔴패"}]'
 awayRecent: '[{"date":"26.08.16","home":"하노버 96","away":"볼프스부르크","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5881639-2026-08-16-hannover-96/"},{"date":"26.08.09","home":"Energie Cottbus","away":"하노버 96","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5881628-2026-08-09-energie-cottbus/"},{"date":"26.08.01","home":"하노버 96","away":"PEC 즈볼러","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1604729-2026-08-01-hannover-96/"},{"date":"26.07.07","home":"하노버 96","away":"Phönix Lübeck","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554758-2026-07-07-hannover-96/"},{"date":"26.07.04","home":"Ramlingen / Ehlershausen","away":"하노버 96","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1554712-2026-07-04-ramlingen-ehlershausen/"}]'
 injuryHome: "없음"
-injuryAway: "Virgil Ghita[주요](근육 부상 - 복귀예정 Doubtful)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
+injuryAway: "없음"
+homeLineup: "[\"Marcel Pfaar (GK)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Karem Sahan (DF)|https://images.fotmob.com/image_resources/playerimages/664563.png\",\"Emirhan Çiftçi (DF)|https://images.fotmob.com/image_resources/playerimages/1484575.png\",\"Florent Berisha (DF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Salem Nouwame ()|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Tyron Leon Haake ()|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Alvaro Sanchez (MF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Onur Uzun (MF)|https://images.fotmob.com/image_resources/playerimages/1080538.png\",\"Berkay Isik (MF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Diyar Saka ()|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Ledjon Fikaj ()|https://images.fotmob.com/image_resources/playerimages/0.png\"]"
+awayLineup: "[\"Leo Weinkauf (GK)|https://images.fotmob.com/image_resources/playerimages/782704.png\",\"Ime Okon (DF)|https://images.fotmob.com/image_resources/playerimages/1600334.png\",\"Boris Tomiak (DF)|https://images.fotmob.com/image_resources/playerimages/860609.png\",\"Jean Hugonet (DF)|https://images.fotmob.com/image_resources/playerimages/1081230.png\",\"Maurice Neubauer (MF)|https://images.fotmob.com/image_resources/playerimages/673045.png\",\"Stefán Thórdarson (MF)|https://images.fotmob.com/image_resources/playerimages/745912.png\",\"Waniss Taïbi (MF)|https://images.fotmob.com/image_resources/playerimages/1178262.png\",\"Kolja Oudenne (MF)|https://images.fotmob.com/image_resources/playerimages/1436271.png\",\"Lars Gindorf (MF)|https://images.fotmob.com/image_resources/playerimages/1263675.png\",\"Benedikt Pichler (FW)|https://images.fotmob.com/image_resources/playerimages/803163.png\",\"Marcel Hartel (MF)|https://images.fotmob.com/image_resources/playerimages/726692.png\"]"
+homeFormation: "5-3-2"
+awayFormation: "3-4-3"
 homeCoach: ""
 awayCoach: ""
 pickWinTeam: "하노버 96"
