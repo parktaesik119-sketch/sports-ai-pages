@@ -1,49 +1,5 @@
 [
   {
-    "home": "Fukuoka S. Hawks",
-    "away": "Orix Buffaloes",
-    "date": "2026-08-23T04:00:00.000Z",
-    "league": "NPB",
-    "venue": "みずほPayPay",
-    "gameTime": "13:00",
-    "starters": {
-      "home": {
-        "name": "Haru Matsumoto",
-        "nameJa": "松本　晴",
-        "playerId": "41845157",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/h/049_41845157.jpg"
-      },
-      "away": {
-        "name": "Ryuhei Sotani",
-        "nameJa": "曽谷　龍平",
-        "playerId": "81985157",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/b/017_81985157.jpg"
-      }
-    }
-  },
-  {
-    "home": "Chunichi Dragons",
-    "away": "Yakult Swallows",
-    "date": "2026-08-23T04:30:00.000Z",
-    "league": "NPB",
-    "venue": "バンテリンドーム",
-    "gameTime": "13:30",
-    "starters": {
-      "home": {
-        "name": "Yuya Yanagi",
-        "nameJa": "柳　裕也",
-        "playerId": "63165134",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/d/017_63165134.jpg"
-      },
-      "away": {
-        "name": "Kengo Matsumoto",
-        "nameJa": "松本　健吾",
-        "playerId": "03105159",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/s/028_03105159.jpg"
-      }
-    }
-  },
-  {
     "home": "Yomiuri Giants",
     "away": "Hiroshima Carp",
     "date": "2026-08-23T05:00:00.000Z",
@@ -80,10 +36,10 @@
         "photoUrl": "https://p.npb.jp/players_photo/2026/180/e/017_21725159.jpg"
       },
       "away": {
-        "name": "Natsuki Takeuchi",
-        "nameJa": "武内　夏暉",
-        "playerId": "51255159",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/l/021_51255159.jpg"
+        "name": "Sou Satoh",
+        "nameJa": "佐藤　爽",
+        "playerId": "31035150",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/l/075_31035150.jpg"
       }
     }
   },
