@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.23","home":"휴스턴 애스트로스","away":"애�
 injuryHome: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Jose Suarez (근육 긴장)|Brooks Kriske (신경 압박)|Denzel Clarke (근육 긴장)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)"
 homeLineup: "[\"선발투수 C. Javier (1-4, 6.44) ERA 6.44|https://a.espncdn.com/i/headshots/mlb/players/full/41261.png\"]"
-awayLineup: "[\"선발투수 J. Perkins (2-9, 6.96) ERA 6.96|https://a.espncdn.com/i/headshots/mlb/players/full/4418686.png\"]"
+awayLineup: "[\"선발투수 B. Basso (0-0, 3.91) ERA 3.91|https://a.espncdn.com/i/headshots/mlb/players/full/4179551.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

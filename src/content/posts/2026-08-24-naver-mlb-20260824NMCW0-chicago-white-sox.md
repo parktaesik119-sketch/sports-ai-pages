@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴�
 awayRecent: '[{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822NMCW0-2026-08-22-chicago-white-sox/"},{"date":"26.08.20","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SDNM0-2026-08-20-new-york-mets/"},{"date":"26.08.19","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SDNM0-2026-08-19-new-york-mets/"},{"date":"26.08.18","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SDNM0-2026-08-18-new-york-mets/"},{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"}]'
 injuryHome: "Drew Thorpe (수술)|Chris Murphy (근육 염좌)|Ky Bush (수술)|Jordan Leasure (근육 염좌)|Davis Martin (찰과상)"
 injuryAway: "Juan Soto (근육 염좌)|Cionel Perez (근육 염좌)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (근육 염좌)"
-homeLineup: ''
+homeLineup: "[\"선발투수 S. Newcomb (1-3, 2.44) ERA 2.44|https://a.espncdn.com/i/headshots/mlb/players/full/33856.png\"]"
 awayLineup: "[\"선발투수 N. McLean (9-8, 3.34) ERA 3.34|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
 homeFormation: ""
 awayFormation: ""

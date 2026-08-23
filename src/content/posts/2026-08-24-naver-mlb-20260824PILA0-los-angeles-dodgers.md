@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파�
 injuryHome: "Ben Casparius (염증)|Tyler Glasnow (근육 경련)|Bobby Miller (통증)|Blake Treinen (염증)|Will Klein (통증)"
 injuryAway: "Endy Rodriguez (염증)|Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)|Mitch Keller (기재되지 않음)"
 homeLineup: "[\"선발투수 B. Snell (1-1, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 L. Bachar (1-2, 3.75) ERA 3.75|https://a.espncdn.com/i/headshots/mlb/players/full/42592.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
