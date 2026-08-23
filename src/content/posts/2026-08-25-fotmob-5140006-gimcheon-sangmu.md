@@ -20,12 +20,12 @@ homeRecent: "[{\"date\":\"26.08.22\",\"home\":\"Jeju SK\",\"away\":\"Gimcheon Sa
 awayRecent: "[{\"date\":\"26.08.22\",\"home\":\"Jeonbuk Hyundai Motors FC\",\"away\":\"Ulsan HD FC\",\"score\":\"1-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.19\",\"home\":\"Jeonbuk Hyundai Motors FC\",\"away\":\"Dangjin Citizen\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.08.16\",\"home\":\"Bucheon FC 1995\",\"away\":\"Jeonbuk Hyundai Motors FC\",\"score\":\"3-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.08\",\"home\":\"Jeonbuk Hyundai Motors FC\",\"away\":\"Jeju SK\",\"score\":\"1-3\",\"result\":\"🔴패\"},{\"date\":\"26.08.01\",\"home\":\"Jeonbuk Hyundai Motors FC\",\"away\":\"FC Seoul\",\"score\":\"0-0\",\"result\":\"🟡무\"}]"
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Jong-Beom Baek (GK)|https://images.fotmob.com/image_resources/playerimages/1135919.png\",\"Tae-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1026835.png\",\"Jun-Soo Byeon (DF)|https://images.fotmob.com/image_resources/playerimages/1232943.png\",\"Jung-Taek Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1457033.png\",\"Cheol-Woo Park (DF)|https://images.fotmob.com/image_resources/playerimages/1326687.png\",\"Kang-Hyeon Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1232526.png\",\"Jae-Hyun Go (MF)|https://images.fotmob.com/image_resources/playerimages/925265.png\",\"Se-Jin Park (FW)|https://images.fotmob.com/image_resources/playerimages/1437915.png\",\"Tae-Joon Park (MF)|https://images.fotmob.com/image_resources/playerimages/925867.png\",\"Yun-Sang Hong (MF)|https://images.fotmob.com/image_resources/playerimages/1272121.png\",\"Kun-Hee Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1136249.png\"]"
+awayLineup: "[\"Bum-Keun Song (GK)|https://images.fotmob.com/image_resources/playerimages/848068.png\",\"Tae-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/252178.png\",\"Wi-Je Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1326507.png\",\"Young-Bin Kim (DF)|https://images.fotmob.com/image_resources/playerimages/623910.png\",\"Woo-Jin Choi (DF)|https://images.fotmob.com/image_resources/playerimages/1440173.png\",\"Seong-Ung Maeng (MF)|https://images.fotmob.com/image_resources/playerimages/1026783.png\",\"Jin-Gyu Kim (MF)|https://images.fotmob.com/image_resources/playerimages/622980.png\",\"Dong-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/828272.png\",\"Sang-Yun Kang (MF)|https://images.fotmob.com/image_resources/playerimages/1364202.png\",\"Seung-Woo Lee (FW)|https://images.fotmob.com/image_resources/playerimages/848098.png\",\"Bruno Mota (FW)|https://images.fotmob.com/image_resources/playerimages/1060635.png\"]"
+homeFormation: "4-1-4-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Seung-Jin Ju|https://images.fotmob.com/image_resources/playerimages/1169325.png"
+awayCoach: "Jeong-Yong Jung|https://images.fotmob.com/image_resources/playerimages/1136248.png"
 pickWinTeam: "김천 상무 FC"
 pickWinResult: "승"
 pickHandicapTeam: "김천 상무 FC"
