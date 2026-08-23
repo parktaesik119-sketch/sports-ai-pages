@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.23","home":"캔자스시티 로열스","away":"디�
 injuryHome: "Beck Way (경련)|Tony Gonsolin (수술)|Connor Seabold (염좌)|Maikel Garcia (염좌)|Carlos Estevez (염좌)"
 injuryAway: "James Outman (뇌진탕)|Riley Greene (염좌)|Matt Vierling (염좌)|Parker Meadows (수술)|Kerry Carpenter (족저근막염)"
 homeLineup: "[\"선발투수 D. Lynch IV (4-4, 2.83) ERA 2.83|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 J. Waguespack (1-1, 1.95) ERA 1.95|https://a.espncdn.com/i/headshots/mlb/players/full/37726.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
