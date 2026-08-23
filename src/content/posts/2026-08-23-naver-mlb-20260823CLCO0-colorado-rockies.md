@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.21","home":"클리블랜드 가디언스","away":"�
 injuryHome: "McCade Brown (염증)|Tyler Freeman (통증)|Kyle Freeland (부상)|Hunter Goodman (근육 손상)|Kris Bryant (수술)"
 injuryAway: "Colin Holderman (염증)|Slade Cecconi (통증)|Rhys Hoskins (염증)|Shawn Armstrong (근육 손상)"
 homeLineup: "[\"선발투수 T. Sugano (12-6, 4.70) ERA 4.70|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
-awayLineup: "[\"선발투수 F. Griffin (14-4, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (14-4, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\",\"1번 S. Kwan (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\",\"2번 C. DeLauter (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png\",\"3번 J. Adell (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"4번 N. Lowe (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40538.png\",\"5번 A. Genao (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5204351.png\",\"6번 T. Bazzana (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png\",\"7번 A. Martinez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42497.png\",\"8번 A. Hedges (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32168.png\",\"9번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -24,7 +24,7 @@ homeLineup: '["Adel Al Hosani (GK)|https://images.fotmob.com/image_resources/pla
 awayLineup: '["Ersin Destanoglu (GK)|https://images.fotmob.com/image_resources/playerimages/903133.png","Igor Serrote (DF)|https://images.fotmob.com/image_resources/playerimages/1634624.png","Willyan Rocha (DF)|https://images.fotmob.com/image_resources/playerimages/866406.png","Ravil Tagir (DF)|https://images.fotmob.com/image_resources/playerimages/1107547.png","Rúben Canedo (DF)|https://images.fotmob.com/image_resources/playerimages/1201280.png","Bruno Conceição (MF)|https://images.fotmob.com/image_resources/playerimages/1104099.png","Marcus Meloni (MF)|https://images.fotmob.com/image_resources/playerimages/1094243.png","Mamadou Coulibaly (MF)|https://images.fotmob.com/image_resources/playerimages/1334346.png","Milson (MF)|https://images.fotmob.com/image_resources/playerimages/1158225.png","Vinicius Mello (FW)|https://images.fotmob.com/image_resources/playerimages/1258850.png","Simon Banza (FW)|https://images.fotmob.com/image_resources/playerimages/696932.png"]'
 homeFormation: "4-2-3-1"
 awayFormation: "4-4-2"
-homeCoach: "Miguel Teixeira"
+homeCoach: "José Morais|https://images.fotmob.com/image_resources/playerimages/718308.png"
 awayCoach: "Cosmin Olaroiu|https://images.fotmob.com/image_resources/playerimages/78656.png"
 pickWinTeam: "알자지라"
 pickWinResult: "승"
