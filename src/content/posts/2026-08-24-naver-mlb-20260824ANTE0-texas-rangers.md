@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에�
 injuryHome: "Robert Garcia (염증)|Jake Burger (타박상)|Josh Jung (근육 부상)|Nathan Eovaldi (염증)|Kyle Higashioka (근육 부상)"
 injuryAway: "Yusei Kikuchi (염증)|Shaun Anderson (염증)|Wade Meckler (일일 부상)|Sebastian Rivero (수술)|Sam Bachman (염증)"
 homeLineup: "[\"선발투수 C. Quantrill (5-4, 3.13) ERA 3.13|https://a.espncdn.com/i/headshots/mlb/players/full/39875.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 Y. Kikuchi (0-3, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
