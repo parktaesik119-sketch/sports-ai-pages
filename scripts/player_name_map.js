@@ -117,6 +117,7 @@ const PLAYER_NAME_MAP = {
   "Seong-Ung Maeng": "맹성웅",
   "Yeong-Jae Lee": "이영재",
   "Sang-Yoon Kang": "강상윤",
+  "Sang-Yun Kang": "강상윤",
   "Dong-Jun Lee": "이동준",
   "Seung-Woo Lee": "이승우",
   "Seung-Sub Kim": "김승섭",
@@ -173,11 +174,13 @@ const PLAYER_NAME_MAP = {
   "Ki-Min Kwon": "권기민",
   "Jae-Woo Kim": "김재우",
   "Woon Chung": "정운",
+  "Woon Jeong": "정운",
   "Ryun-Seong Kim": "김륜성",
   "In-Jung Jo": "조인정",
   "Su-Bin Park": "박수빈", // 제주 소속 (파주 소속 동명이인과 별개)
   "Chang-Min Lee": "이창민",
   "Min-gyu Jang": "장민규",
+  "Min-Kyu Jang": "장민규",
   "Seung-Jae Yoo": "유승재",
   "Byung-Wook Choi": "최병욱",
   "Chang-Jun Park": "박창준",
@@ -190,9 +193,11 @@ const PLAYER_NAME_MAP = {
   "Pyung-Guk Yoon": "윤평국",
   "In-Jae Hwang": "황인재",
   "Seong-Min Hong": "홍성민",
+  "Sung-Min Hong": "홍성민",
   "Neung Kwon": "권능",
   "Sung-Wook Jo": "조성욱",
   "Min-Gwang Jeon": "전민광",
+  "Min-Kwang Jeon": "전민광",
   "Si-Woo Jin": "진시우",
   "Kwang-Hoon Shin": "신광훈",
   "Chan-Yong Park": "박찬용",
@@ -210,6 +215,7 @@ const PLAYER_NAME_MAP = {
   "Chang-Woo Lee": "이창우",
   "Jeong-Won Eo": "어정원",
   "Seo-Ung Hwang": "황서웅",
+  "Seo-Woong Hwang": "황서웅",
   "Jae-Jun An": "안재준",
   "Yong-Hak Kim": "김용학",
   "Jae-Hwan Hwang": "황재환",
@@ -368,7 +374,9 @@ const PLAYER_NAME_MAP = {
   "Ma-Ho Chung": "정마호",
   "Kyung-Ho Roh": "노경호",
   "Tae-Jun Park": "박태준",
+  "Tae-Joon Park": "박태준",
   "Kang-Hyun Lee": "이강현",
+  "Kang-Hyeon Lee": "이강현",
   "Gyeong-Hyeon Min": "민경현",
   "Jun-Ha Kim": "김준하",
   "Jae-Hyun Go": "고재현",
@@ -942,6 +950,7 @@ const PLAYER_NAME_MAP = {
   "Gi-Dong Kim": "김기동", // FC 서울
   "Hyun-Seok Kim": "김현석", // 울산 HD — fotmob 스쿼드 페이지에서 이 항목만 이미 GivenName Surname 순서였음
   "Jung-Yong Chung": "정정용", // 전북 현대
+  "Jung-Yong Jung": "정정용", // 전북 현대
   "Kyeong-Ho Chung": "정경호", // 강원 FC
   "Tae-Ha Park": "박태하", // 포항 스틸러스
   "Byeong-Hoon Ryu": "류병훈", // FC 안양
@@ -949,6 +958,7 @@ const PLAYER_NAME_MAP = {
   "Young-Min Lee": "이영민", // 부천 FC 1995
   "Sun-Hong Hwang": "황선홍", // 대전 하나 시티즌
   "Seung-jin Joo": "주승진", // 김천 상무
+  "Seung-Jin Ju": "주승진", // 김천 상무
   "Jeong-Gyu Lee": "이정규", // 광주 FC
   "Jung-Hyo Lee": "이정효", // 수원 삼성 블루윙즈
   "Kun-Ha Park": "박건하", // 수원 FC
