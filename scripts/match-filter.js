@@ -103,6 +103,7 @@
   // key: essentialTeams 표기와 동일하게 대문자로. value: 프리패스 제외할 국가명(대문자) 배열.
   const essentialTeamCountryExceptions = {
     'ARSENAL': ['RUSSIA'],
+    'ATHLETIC CLUB': ['BRAZIL'],
   };
 
   const isEssentialTeam = essentialTeams.some(t => {
