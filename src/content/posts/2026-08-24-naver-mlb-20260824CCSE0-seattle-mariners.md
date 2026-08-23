@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 시카고 컵스 경기분석·라인업·결장자·통계·승부예측 (8월 24일) | MLB - 픽천국"
+date: 2026-08-23T20:10:00.000Z
+description: "시애틀 매리너스 vs 시카고 컵스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 최근 79경기에서 38승 1무 40패, 평균 득점 3.8로 시즌 전체 전력이 아쉽게 끌려가고 있습니다. 다만 최근에는 강한 상대를 상대로도 득점 기회를 만들어내며 흐름을 조금씩 회복하는 모습이 보이고 있습니다. 특히 홈에서의 운영보다 원정에서 더 들쭉날쭉한 결과가 반복되지만, 최근 경기에서는 장타 한 방보다는 연결 타선으로 점수를 내는 장면이 살아나고 있습니다. 수비 쪽에서는 대량 실점 경기가 섞여 있어 안정감이 완전히 자리 잡았다고 보기는 어렵지만, 접전으로 끌고 가는 힘은 유지되고 있습니다. J.P. Crawford와 Bryan Woo의 결장 이슈는 전력의 중심축과 투수 운용에 부담을 줄 수 있어, 경기 후반 집중력이 핵심 변수가 될 가능성이 높습니다. 최근 리그순위 12위지만, 직전 시카고 컵스전에서 승리를 거두며 반등의 실마리를 만든 점은 분명 주목할 만합니다."
+awayAnalysis: "시카고 컵스는 2026시즌 최근 87경기에서 47승 2무 38패, 평균 득점 4.9로 홈팀보다 더 짜임새 있는 시즌 전력을 보여주고 있습니다. 리그순위 4위답게 공격 생산력이 꾸준하고, 최근 경기에서도 두 자릿수 득점이 나오는 날이 있어 타선의 폭발력이 돋보이고 있습니다. 다만 직전 흐름만 보면 고점 대비 흔들리는 구간이 섞여 있어, 원정에서도 공격은 유지되지만 실점 억제가 따라주지 않는 장면이 있었습니다. 수비 쪽 득실 차가 플러스권이어서 기본 체급은 확실하지만, 최근에는 강한 타선을 만났을 때 실점이 크게 늘어나는 점이 부담입니다. Matt Shaw와 Hoby Milner의 결장은 전력의 깊이를 조금 약하게 만들 수 있고, 단기 이슈보다 장기 결장자가 겹친 점이 후반 운영에 영향을 줄 수 있습니다. 그래도 상위권다운 공격 밸런스는 분명하며, 경기 초반부터 득점 압박을 걸어가는 힘은 충분해 보입니다."
+homePower: "시애틀 매리너스는 접전에서 버티는 경기 운영력이 살아 있음|최근 맞대결 승리로 상성 불안이 다소 완화된 모습임|장타 폭발보다 연결 타선으로 점수 내는 색채가 강함|J.P. 크로포드 공백으로 중심 타선 응집력 점검 필요함|대량 실점 경기는 있으나 단기 반등 기류는 확인됨"
+awayPower: "시카고 컵스는 상위권다운 공격 지속성이 뚜렷함|득실 우위가 보여주듯 공수 균형이 시즌 내내 안정적임|원정에서도 득점 생산이 크게 꺾이지 않는 편임|최근 실점 변동폭은 커서 경기 흐름 관리가 변수임|주축 결장 속에서도 타선 저점이 높게 유지됨"
+h2h: '[{"date":"26.08.22","home":"시애틀 매리너스","away":"시카고 컵스","score":"6-5"}]'
+summary: "시카고 컵스가 시즌 전체 전력과 득실 균형에서는 앞서 있지만, 시애틀 매리너스가 최근 맞대결에서 접전을 승리로 가져가며 상성 면에서는 쉽게 밀리지 않는 흐름이 형성되어 있습니다. 시애틀 매리너스는 리그순위가 낮고 시즌 득점력도 높지 않지만, 최근에는 강팀을 상대로도 버티는 장면이 늘어나며 반등 가능성을 보여주고 있습니다. 시카고 컵스는 공격 생산력이 더 안정적이지만 최근 실점이 흔들리는 구간이 있어서, 이번 경기는 시애틀 매리너스가 홈에서 초반 실점을 억제하면 충분히 우세를 점할 가능성이 높아 보입니다. 전반적인 흐름은 시애틀 매리너스의 근소한 우세 쪽으로 읽히며, 접전 양상에서도 홈팀 쪽 집중력이 더 기대됩니다."
+homeRecent: '[{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"},{"date":"26.08.20","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SEMI0-2026-08-20-milwaukee-brewers/"},{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"},{"date":"26.08.17","home":"휴스턴 애스트로스","away":"시애틀 매리너스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SEHO0-2026-08-17-houston-astros/"}]'
+awayRecent: '[{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"},{"date":"26.08.18","home":"시카고 컵스","away":"시카고 화이트삭스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs/"},{"date":"26.08.17","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs/"},{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"}]'
+injuryHome: "Cole Wilcox (염좌)|Brendan Donovan (일일 상태)|J.P. Crawford (염증)|Colt Emerson (염증)|Bryan Woo (일일 상태)"
+injuryAway: "Hoby Milner (수술)|Kevin Gausman (일일 상태)|Matt Shaw (염좌)|Tyler Austin (수술)|Edward Cabrera (찰과상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시애틀 매리너스"
+pickWinResult: "승"
+pickHandicapTeam: "시애틀 매리너스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

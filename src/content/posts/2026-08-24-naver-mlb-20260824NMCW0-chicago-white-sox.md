@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (8월 24일) | MLB - 픽천국"
+date: 2026-08-23T18:10:00.000Z
+description: "시카고 화이트삭스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260824NMCW0-2026-08-24-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 최근 92경기에서 47승 44패 1무, 승률 .523, 평균 득점 4.4를 기록하며 시즌 전체 기준으로는 안정적인 흐름을 이어가고 있습니다. 최근 경기에서는 득점 생산이 한층 살아나 평균 득점 5.1까지 올라왔고, 원정 경기에서도 꾸준히 점수를 내며 공격 리듬을 잘 유지하고 있습니다. 특히 강팀과의 맞대결에서도 홈에서 점수를 만들어내는 장면이 잦아, 경기 초반부터 주도권을 잡는 운영이 돋보입니다. 다만 실점 억제에서는 기복이 남아 있어, 타선이 초반에 풀리지 않으면 접전 양상으로 흘러갈 여지도 있습니다. 현재 리그순위 4위답게 상위권 흐름을 지키고 있으며, 주축 결장자가 적지 않은 상황에서도 최근 전력 집중도가 좋게 유지되고 있습니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 최근 89경기에서 42승 46패 1무, 승률 .450, 평균 득점 4.3으로 시즌 전체 기준에서는 다소 처진 흐름입니다. 최근 경기에서는 평균 득점 3.6으로 공격 효율이 떨어진 편이라, 좋은 순간과 침체가 번갈아 나타나는 점이 아쉽습니다. 그래도 강한 상대를 상대로도 한 번씩 폭발력을 보여주고 있어, 타선의 잠재력 자체는 완전히 죽지 않은 상태입니다. 다만 수비 쪽 실점 관리가 흔들릴 때가 있어, 접전에서는 흐름을 놓치기 쉬운 모습이 보입니다. 현재 리그순위 13위로 위치는 낮지만, 최근 몇 경기에서는 반등의 실마리를 만들고 있어 분위기 전환 가능성은 남아 있습니다."
+homePower: "최근 홈 경기에서 득점 연결이 매끄러움|강팀 상대로도 초반 주도권 확보 능력 보임|타선 응집력은 좋으나 마운드 변동성 존재함|결장자 부담 속에도 경기 운영 집중도 유지됨|상위권 유지에는 실점 억제 개선이 필요함"
+awayPower: "최근 득점 기복이 커 공격 안정감 부족함|한 방은 있으나 꾸준한 생산성은 약함|실점 관리 흔들리면 흐름이 급격히 무너짐|리그순위보다 반등 여지는 타선 잠재력에서 보임|장기 결장 누적이 전력 완성도에 부담됨"
+h2h: '[{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"6-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822NMCW0-2026-08-22-chicago-white-sox/"}]'
+summary: "시카고 화이트삭스는 현재 리그순위와 최근 득점 흐름을 함께 보면 전력 우위가 분명하게 읽히는 팀입니다. 뉴욕 메츠는 순위가 낮고 최근 공격 생산도 들쑥날쑥해서, 장기전으로 갈수록 화이트삭스 쪽이 더 안정적으로 경기를 풀 가능성이 높습니다. 다만 메츠도 한 번씩 득점을 몰아치는 힘은 있어서 초반 흐름이 흔들리면 접전 양상은 충분히 나올 수 있으며, 결국은 화이트삭스가 더 나은 응집력으로 우세를 가져갈 그림이 자연스럽습니다."
+homeRecent: '[{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822NMCW0-2026-08-22-chicago-white-sox/"},{"date":"26.08.21","home":"시카고 화이트삭스","away":"애틀랜타 브레이브스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ATCW0-2026-08-21-chicago-white-sox/"},{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"},{"date":"26.08.18","home":"시카고 컵스","away":"시카고 화이트삭스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs/"},{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822NMCW0-2026-08-22-chicago-white-sox/"},{"date":"26.08.20","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SDNM0-2026-08-20-new-york-mets/"},{"date":"26.08.19","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SDNM0-2026-08-19-new-york-mets/"},{"date":"26.08.18","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SDNM0-2026-08-18-new-york-mets/"},{"date":"26.08.17","home":"뉴욕 메츠","away":"워싱턴 내셔널스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MONM0-2026-08-17-new-york-mets/"}]'
+injuryHome: "Drew Thorpe (수술)|Chris Murphy (근육 염좌)|Ky Bush (수술)|Jordan Leasure (근육 염좌)|Davis Martin (찰과상)"
+injuryAway: "Juan Soto (근육 염좌)|Cionel Perez (근육 염좌)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

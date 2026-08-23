@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 미네소타 트윈스 경기분석·라인업·결장자·통계·승부예측 (8월 24일) | MLB - 픽천국"
+date: 2026-08-23T20:10:00.000Z
+description: "샌디에이고 파드리스 vs 미네소타 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260824MNSD0-2026-08-24-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 최근 81경기에서 41승 39패, 평균 득점 4.2로 안정적인 득점 흐름을 유지하고 있습니다. 최근 10경기에서도 7승 3패로 흐름이 좋고, 특히 홈에서 밀어붙이는 힘과 실점 억제력이 함께 살아나는 모습이 보입니다. 직전 경기에서 미네소타 트윈스를 6-2로 눌렀고, 그 이전에도 휴식 없이 이어진 원정 구간에서 승리를 꾸준히 챙기며 전력의 탄력을 보여주었습니다. 다만 조 머스그로브와 제이슨 아담 같은 핵심 전력 이탈이 있어 마운드 운영은 예전보다 얇아진 상태입니다. 그럼에도 홈에서는 타선의 응집력이 살아 있고, 강한 팀을 상대로도 경기 후반을 버티는 힘이 돋보입니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 최근 91경기에서 43승 48패, 평균 득점 4.1로 공격은 버텨주고 있지만 실점 관리에서 흔들리는 흐름입니다. 최근 10경기에서는 5승 5패로 균형은 맞지만, 강한 상대를 만나면 수비 쪽 부담이 커지는 모습이 반복되고 있습니다. 직전 샌디에이고 파드리스전에서 2점에 그치며 공격 연결이 끊겼고, 그 전에는 애틀랜타 브레이브스를 상대로 연승을 만들며 반등 가능성도 보였습니다. 다만 조 라이언을 포함한 선발 자원 이탈이 있어 경기 초반 안정감이 떨어질 수 있습니다. 원정에서는 실점 억제가 흔들릴 때 경기 전체가 급격히 불리해지는 점이 가장 아쉽습니다."
+homePower: "홈에서 경기 주도권을 잡으면 타선 응집력이 살아남|미네소타 원정 마운드 약세를 압박할 구조가 뚜렷함|최근 승리 경기들에서 실점 억제 흐름이 함께 확인됨|핵심 불펜 이탈이 있어도 초반 우위 확보 시 부담 완화됨|직전 맞대결 6득점으로 상성 우세가 재확인됨"
+awayPower: "최근 승리 때는 장타보다 연결 타선이 살아나는 편임|강한 상위 전력 상대로는 실점 관리가 가장 큰 변수임|조 라이언 이탈로 선발 초반 안정감 저하가 우려됨|원정에서 수비 흔들리면 추격 흐름이 길어지는 편임|공격은 가능하지만 경기 지배력은 다소 제한적임"
+h2h: '[{"date":"26.08.22","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MNSD0-2026-08-22-san-diego-padres/"}]'
+summary: "샌디에이고 파드리스는 현재 리그순위 6위로 미네소타 트윈스의 리그순위 8위보다 앞서 있고, 득실 면에서도 더 단단한 흐름을 보여주고 있습니다. 파드리스는 최근 흐름이 좋고 홈에서 경기 운영이 안정적이며, 트윈스는 최근 전력은 나쁘지 않지만 원정에서 실점 관리가 흔들릴 때가 많습니다. 특히 직전 맞대결에서 파드리스가 먼저 주도권을 잡아 승리한 흐름까지 이어지고 있어, 이번에도 경기 흐름을 더 안정적으로 끌고 갈 쪽은 샌디에이고 파드리스로 보입니다. 홈팀의 마운드 이탈이 적지 않지만 전체적인 전력 균형과 최근 경기 내용까지 함께 보면, 파드리스가 한 박자 앞선 전력을 바탕으로 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.22","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MNSD0-2026-08-22-san-diego-padres/"},{"date":"26.08.20","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SDNM0-2026-08-20-new-york-mets/"},{"date":"26.08.19","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SDNM0-2026-08-19-new-york-mets/"},{"date":"26.08.18","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818SDNM0-2026-08-18-new-york-mets/"},{"date":"26.08.17","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SDCL0-2026-08-17-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.08.22","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MNSD0-2026-08-22-san-diego-padres/"},{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"},{"date":"26.08.19","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ATMN0-2026-08-19-minnesota-twins/"},{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"},{"date":"26.08.17","home":"미네소타 트윈스","away":"필라델피아 필리스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817PHMN0-2026-08-17-minnesota-twins/"}]'
+injuryHome: "Samad Taylor (염좌)|Casey Mize (매일 점검)|Lucas Giolito (염증)|Joe Musgrove (염증)|Jason Adam (염좌)"
+injuryAway: "Joe Ryan (염좌)|Austin Martin (염좌)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

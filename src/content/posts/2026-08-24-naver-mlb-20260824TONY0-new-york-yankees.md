@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 토론토 블루제이즈 경기분석·라인업·결장자·통계·승부예측 (8월 24일) | MLB - 픽천국"
+date: 2026-08-23T17:35:00.000Z
+description: "뉴욕 양키즈 vs 토론토 블루제이즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260824TONY0-2026-08-24-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "토론토 블루제이즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 최근 94경기에서 52승 4무 38패로 리그순위 2위를 지키고 있고, 경기당 평균 4.2득점을 기록하며 상위권 전력을 유지하고 있습니다. 최근 흐름도 10경기 6승 4패로 나쁘지 않아서, 순위와 흐름이 함께 받쳐주는 모습입니다. 다만 토론토 블루제이즈를 상대로는 직전 경기에서 3실점 이상을 허용한 장면이 이어져 있어, 득점은 나와도 마운드 쪽 안정감이 조금 흔들릴 수 있습니다. 홈에서는 공격 전개가 비교적 매끄럽고, 중심 타선이 한 번 터지면 경기 흐름을 빠르게 가져오는 장점이 있습니다. 반면 핵심 전력 이탈이 적지 않아 경기 후반 운영에서는 세밀함이 중요해 보입니다."
+awayAnalysis: "토론토 블루제이즈는 2026시즌 최근 97경기에서 47승 1무 49패로 리그순위 7위이며, 평균 3.6득점으로 시즌 전체 공격 생산성은 다소 아쉬운 편입니다. 그럼에도 최근 10경기 6승 4패로 반등 흐름을 만들고 있어, 순위보다 최근 전력은 조금 더 단단하게 보입니다. 특히 뉴욕 양키즈전에서 직전 맞대결 승리를 포함해 상성을 살리는 장면이 있었고, 상대 득점을 묶는 운영이 돋보였습니다. 다만 시즌 득실 차가 마이너스인 만큼, 공격이 막히는 날에는 경기 주도권을 오래 유지하지 못하는 약점도 함께 보입니다. 결장자도 적지 않아 전력층이 얇아진 상태지만, 최근에는 원정에서도 필요한 만큼 득점을 만들어내고 있습니다."
+homePower: "리그순위 2위답게 경기 운영 완성도는 상위권임|평균 득실 차가 커 투타 균형이 안정적임|홈에서 초반 득점 후 리드 관리 능력이 강점임|토론토전 다득점보다 실점 억제가 관건으로 보임|핵심 결장 속에도 중심 타선 파괴력은 유지됨"
+awayPower: "리그순위 7위지만 최근 반등 조짐이 뚜렷함|시즌 득실 마이너스라도 경기당 경쟁력은 살아 있음|뉴욕 양키즈전에서 상성상 버티는 힘이 확인됨|폭발력보다는 상대 실수 공략형 전개가 어울림|장기 결장 변수 속에서도 원정 득점은 꾸준함"
+h2h: '[{"date":"26.08.23","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TONY0-2026-08-23-new-york-yankees/"},{"date":"26.08.22","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TONY0-2026-08-22-new-york-yankees/"},{"date":"26.08.17","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817NYTO0-2026-08-17-toronto-blue-jays/"},{"date":"26.08.16","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"4-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816NYTO0-2026-08-16-toronto-blue-jays/"},{"date":"26.08.15","home":"토론토 블루제이즈","away":"뉴욕 양키즈","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815NYTO0-2026-08-15-toronto-blue-jays/"}]'
+summary: "뉴욕 양키즈는 리그순위 2위에 걸맞게 시즌 전반의 힘이 좋고, 토론토 블루제이즈는 리그순위 7위지만 최근 흐름이 살아나며 쉽게 밀리지 않는 전력을 보여주고 있습니다. 다만 시즌 득실과 전체 생산성을 함께 보면 뉴욕 양키즈 쪽이 기본 전력에서는 한 단계 위에 있고, 토론토 블루제이즈는 최근 맞대결에서 상대를 흔드는 장면을 만들어 균형을 맞추고 있습니다. 결국 이 경기는 뉴욕 양키즈의 안정된 상위권 전력과 토론토 블루제이즈의 최근 반등 흐름이 맞붙는 구도이며, 세밀한 마운드 운영과 중후반 집중력이 승부를 가를 가능성이 높습니다. 종합적으로는 전력의 바탕은 뉴욕 양키즈가 우위지만, 최근 상성과 흐름을 감안하면 토론토 블루제이즈가 한 끗 차이의 우세를 가져갈 여지가 더 있어 보입니다."
+homeRecent: '[{"date":"26.08.23","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TONY0-2026-08-23-new-york-yankees/"},{"date":"26.08.22","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TONY0-2026-08-22-new-york-yankees/"},{"date":"26.08.21","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821NYBA0-2026-08-21-baltimore-orioles/"},{"date":"26.08.20","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820NYBA0-2026-08-20-baltimore-orioles/"},{"date":"26.08.19","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819NYBA0-2026-08-19-baltimore-orioles/"}]'
+awayRecent: '[{"date":"26.08.23","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TONY0-2026-08-23-new-york-yankees/"},{"date":"26.08.22","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TONY0-2026-08-22-new-york-yankees/"},{"date":"26.08.21","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821TOTB0-2026-08-21-tampa-bay-rays/"},{"date":"26.08.20","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820TOTB0-2026-08-20-tampa-bay-rays/"},{"date":"26.08.19","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819TOTB0-2026-08-19-tampa-bay-rays/"}]'
+injuryHome: "Cody Bellinger (근육 통증)|Ryan Weathers (근육 통증)|Kervin Castro (염증)|Max Fried (타박상)|Ryan McMahon (염좌)"
+injuryAway: "Andres Gimenez (일일 상태 점검)|Jonatan Clase (족저근막염)|Jameson Taillon (건염)|Joe Mantiply (수술)|Josh Smith (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "토론토 블루제이즈"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 블루제이즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

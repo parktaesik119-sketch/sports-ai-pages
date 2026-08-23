@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs 샌프란시스코 자이언츠 경기분석·라인업·결장자·통계·승부예측 (8월 24일) | MLB - 픽천국"
+date: 2026-08-23T19:15:00.000Z
+description: "보스턴 레드삭스 vs 샌프란시스코 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "샌프란시스코 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 최근 94경기에서 52승 2무 40패, 승률 .539로 안정적인 상위권 전력을 유지하고 있으며 평균 득점 4.6으로 공격 생산력도 준수합니다. 최근 10경기에서는 5승 5패로 다소 기복이 보이지만, 샌프란시스코 자이언츠전 6득점 승리처럼 타선이 터질 때는 경기 흐름을 빠르게 가져오는 힘이 있습니다. 특히 홈에서는 상대적으로 득점 기대치가 높고, 최근 시리즈에서 장타와 집중타가 함께 살아나며 공격 템포를 끌어올리고 있습니다. 다만 실점이 따라오는 경기에서는 흐름이 흔들리는 장면도 있어, 초반 마운드 안정감이 중요하게 보입니다. 결장자도 적지 않은 편이라 완전한 전력은 아니지만, 현재 리그순위 3위답게 전체적인 경기 운영과 응집력은 여전히 강점으로 평가됩니다."
+awayAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 75경기에서 31승 1무 43패, 승률 .406으로 하위권에 머물러 있으며 평균 득점 4.3도 기대치를 크게 웃돌지 못하고 있습니다. 최근 10경기에서는 2승 8패로 흐름이 좋지 않고, 특히 득점이 2점대에 머무는 경기들이 많아 타선 침묵이 길어지는 모습입니다. 최근 원정 경기에서도 실점 억제가 잘 되지 않으면서 경기 후반에 격차가 벌어지는 경우가 잦아졌습니다. 현재 리그순위 14위라는 성적은 최근 흐름과도 맞물려 있으며, 반등을 만들려면 초반 실점 관리가 먼저 정리되어야 합니다. 부상자 공백도 이어지고 있어, 한두 타자의 활약만으로 경기 전체를 뒤집기에는 전력 균형이 다소 무거워 보입니다."
+homePower: "홈에서 공격 템포가 살아나면 초반 주도권 확보가 빠름|상위권 순위에 비해 최근 기복은 있어도 상한선 높음|장타와 집중타가 함께 나올 때 경기 지배력 커짐|결장자 부담은 있으나 대체 자원 활용은 비교적 안정적임|실점만 줄이면 홈 강세가 결과로 이어질 가능성 큼"
+awayPower: "최근 득점 저하가 길어져 타선 연결성이 떨어져 보임|하위권 순위가 최근 부진과 맞물려 반등 동력 약함|원정에서 실점 확대 시 추격 흐름이 쉽게 끊어짐|주요 결장 공백이 전력 깊이를 더 얇게 만드는 중임|단기 승리보다 경기 내내 버티는 힘이 과제로 보임"
+h2h: '[{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"}]'
+summary: "보스턴 레드삭스는 현재 리그순위 3위와 +97의 득실이 보여주듯, 시즌 내내 공격과 운영의 균형이 잘 잡혀 있는 편입니다. 샌프란시스코 자이언츠는 현재 리그순위 14위에 더해 득실이 음수로 크게 벌어져 있어, 최근 득점 침체와 실점 부담이 함께 드러나고 있습니다. 최근 맞대결에서도 보스턴 레드삭스가 먼저 우위를 가져가며 흐름을 이어가고 있어서, 이번 경기 역시 보스턴 레드삭스 쪽 전력이 더 안정적으로 보입니다."
+homeRecent: '[{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"},{"date":"26.08.19","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819AZBO0-2026-08-19-boston-red-sox/"},{"date":"26.08.18","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"11-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818AZBO0-2026-08-18-boston-red-sox/"},{"date":"26.08.17","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BOPI0-2026-08-17-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"},{"date":"26.08.21","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SFCL0-2026-08-21-cleveland-guardians/"},{"date":"26.08.20","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SFCL0-2026-08-20-cleveland-guardians/"},{"date":"26.08.19","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SFCL0-2026-08-19-cleveland-guardians/"},{"date":"26.08.17","home":"샌프란시스코 자이언츠","away":"콜로라도 로키스","score":"7-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817COSF0-2026-08-17-san-francisco-giants/"}]'
+injuryHome: "Trevor Story (수술)|Isiah Kiner-Falefa (염증)|Garrett Whitlock (염증)|Roman Anthony (염좌)|Justin Slaten (염증)"
+injuryAway: "Jesus Rodriguez (신경 압박)|Marcelo Mayer (골절)|Matt Gage (근육 염좌)|Keaton Winn (신경 압박)|Joel Peguero (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
