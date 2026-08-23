@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파�
 awayRecent: '[{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파이러츠","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers/"},{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"},{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"},{"date":"26.08.18","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates/"},{"date":"26.08.17","home":"피츠버그 파이러츠","away":"보스턴 레드삭스","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817BOPI0-2026-08-17-pittsburgh-pirates/"}]'
 injuryHome: "Ben Casparius (염증)|Tyler Glasnow (근육 경련)|Bobby Miller (통증)|Blake Treinen (염증)|Will Klein (통증)"
 injuryAway: "Endy Rodriguez (염증)|Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)|Mitch Keller (기재되지 않음)"
-homeLineup: ''
+homeLineup: "[\"선발투수 B. Snell (1-1, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

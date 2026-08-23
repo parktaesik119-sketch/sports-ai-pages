@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.22","home":"콜로라도 로키스","away":"클리�
 awayRecent: '[{"date":"26.08.22","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CLCO0-2026-08-22-colorado-rockies/"},{"date":"26.08.21","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SFCL0-2026-08-21-cleveland-guardians/"},{"date":"26.08.20","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SFCL0-2026-08-20-cleveland-guardians/"},{"date":"26.08.19","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SFCL0-2026-08-19-cleveland-guardians/"},{"date":"26.08.17","home":"클리블랜드 가디언스","away":"샌디에이고 파드리스","score":"0-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SDCL0-2026-08-17-cleveland-guardians/"}]'
 injuryHome: "McCade Brown (염증)|Tyler Freeman (통증)|Kyle Freeland (명시되지 않음)|Hunter Goodman (염좌)|Kris Bryant (수술)"
 injuryAway: "Colin Holderman (염증)|Rhys Hoskins (염증)|Slade Cecconi (통증)|Shawn Armstrong (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Sugano (12-6, 4.70) ERA 4.70|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (14-4, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

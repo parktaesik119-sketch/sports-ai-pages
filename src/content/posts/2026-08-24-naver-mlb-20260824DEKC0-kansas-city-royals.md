@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.23","home":"캔자스시티 로열스","away":"디�
 awayRecent: '[{"date":"26.08.23","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823DEKC0-2026-08-23-kansas-city-royals/"},{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"},{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"},{"date":"26.08.18","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates/"},{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"}]'
 injuryHome: "Beck Way (경련)|Tony Gonsolin (수술)|Connor Seabold (염좌)|Maikel Garcia (염좌)|Carlos Estevez (염좌)"
 injuryAway: "James Outman (뇌진탕)|Riley Greene (염좌)|Matt Vierling (염좌)|Parker Meadows (수술)|Kerry Carpenter (족저근막염)"
-homeLineup: ''
+homeLineup: "[\"선발투수 D. Lynch IV (4-4, 2.83) ERA 2.83|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

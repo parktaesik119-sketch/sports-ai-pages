@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.23","home":"시애틀 매리너스","away":"시카�
 awayRecent: '[{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"},{"date":"26.08.18","home":"시카고 컵스","away":"시카고 화이트삭스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs/"},{"date":"26.08.17","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs/"},{"date":"26.08.16","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816SLCC0-2026-08-16-chicago-cubs/"}]'
 injuryHome: "Cole Wilcox (염좌)|Brendan Donovan (일일 상태)|J.P. Crawford (염증)|Colt Emerson (염증)|Bryan Woo (일일 상태)"
 injuryAway: "Hoby Milner (수술)|Kevin Gausman (일일 상태)|Matt Shaw (염좌)|Tyler Austin (수술)|Edward Cabrera (찰과상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Miller (4-7, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\"]"
+awayLineup: "[\"선발투수 S. Imanaga (8-9, 3.77) ERA 3.77|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

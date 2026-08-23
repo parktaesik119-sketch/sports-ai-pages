@@ -16,10 +16,10 @@ homePower: "끈끈한 수비로 접전 유지 능력이 있음|득점 폭보다 
 awayPower: "평균 득점은 나쁘지 않으나 기복이 큼|강팀 상대로 수비 흔들림이 뚜렷하게 드러남|주요 결장으로 공격 완성도 저하가 우려됨|원정에서는 전환 속도가 성패를 가름함|득점이 나올 때와 무너질 때 차이가 큼"
 h2h: '[]'
 summary: "할레셔 FC는 시즌 성적이 완전히 안정적이지는 않지만, 경기 흐름을 버티는 힘과 실리적인 운영이 살아 있는 편입니다. 샬케 04는 평균 득점 자체는 더 높지만, 강한 상대를 만났을 때 수비 균형이 흔들리는 장면이 적지 않아 경기 안정감에서는 아쉬움이 있습니다. 여기에 샬케 04는 주요 결장자 공백까지 겹쳐 전방과 측면의 완성도가 낮아질 가능성이 있어 보이며, 전체적으로는 할레셔 FC가 더 응집력 있게 맞설 수 있는 구도입니다. 종합하면 득실 흐름과 전력 안정성에서 홈팀 쪽이 조금 더 유리하게 읽히며, 경기 운영의 밀도에서 차이가 날 가능성이 높습니다."
-homeRecent: '[]'
-awayRecent: '[]'
+homeRecent: "[{\"date\":\"26.08.16\",\"home\":\"VSG Altglienicke\",\"away\":\"Hallescher FC\",\"score\":\"2-1\",\"result\":\"🔴패\"},{\"date\":\"26.08.09\",\"home\":\"Hallescher FC\",\"away\":\"Chemnitzer FC\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.06\",\"home\":\"BSG Chemie Leipzig\",\"away\":\"Hallescher FC\",\"score\":\"0-1\",\"result\":\"🟢승\"},{\"date\":\"26.08.02\",\"home\":\"Hallescher FC\",\"away\":\"RW Erfurt\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.07.26\",\"home\":\"Greifswalder FC\",\"away\":\"Hallescher FC\",\"score\":\"2-2\",\"result\":\"🟡무\"}]"
+awayRecent: "[{\"date\":\"26.08.17\",\"home\":\"Schalke 04\",\"away\":\"Real Madrid\",\"score\":\"0-3\",\"result\":\"🔴패\"},{\"date\":\"26.08.09\",\"home\":\"Schalke 04\",\"away\":\"Atalanta\",\"score\":\"0-3\",\"result\":\"🔴패\"},{\"date\":\"26.08.01\",\"home\":\"Hessen Kassel\",\"away\":\"Schalke 04\",\"score\":\"0-5\",\"result\":\"🟢승\"},{\"date\":\"26.07.25\",\"home\":\"Schalke 04\",\"away\":\"Fagiano Okayama FC\",\"score\":\"3-1\",\"result\":\"🟢승\"},{\"date\":\"26.07.22\",\"home\":\"Schalke 04\",\"away\":\"FC Kharkiv\",\"score\":\"2-0\",\"result\":\"🟢승\"}]"
 injuryHome: "없음"
-injuryAway: "Bryan Lasme (종아리 부상)|Kenan Karaman (엉덩이 부상)|Adrian Gantenbein (발목 부상)"
+injuryAway: "Bryan Lasme[주요](종아리 부상 - 복귀예정 Early September 2026) | Kenan Karaman[주요](엉덩이 부상 - 복귀예정 Early September 2026) | Adrian Gantenbein[주요](발목 부상 - 복귀예정 Mid September 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

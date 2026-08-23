@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.23","home":"마이애미 말린스","away":"워싱�
 awayRecent: '[{"date":"26.08.23","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823MOFL0-2026-08-23-miami-marlins/"},{"date":"26.08.22","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MOFL0-2026-08-22-miami-marlins/"},{"date":"26.08.21","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821MOTE0-2026-08-21-texas-rangers/"},{"date":"26.08.20","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers/"},{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"}]'
 injuryHome: "Kyle Stowers (염좌)|Anthony Bender (골절)|Max Meyer (염좌)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 injuryAway: "CJ Abrams (통증)|Drew Millas (골절)|James Wood (염좌)|Richard Lovelady (염좌)|Josiah Gray (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Junk (6-8, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/4881980.png\"]"
+awayLineup: "[\"선발투수 J. Kent (0-1, 9.39) ERA 9.39|https://a.espncdn.com/i/headshots/mlb/players/full/5007807.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

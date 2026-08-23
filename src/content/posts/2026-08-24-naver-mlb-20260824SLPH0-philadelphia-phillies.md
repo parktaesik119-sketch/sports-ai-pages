@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.23","home":"필라델피아 필리스","away":"세�
 awayRecent: '[{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"},{"date":"26.08.20","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SLCI0-2026-08-20-cincinnati-reds/"},{"date":"26.08.19","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SLCI0-2026-08-19-cincinnati-reds/"}]'
 injuryHome: "Rafael Marchan (건염)|Derek Hill (통증)|Luis Arraez (경련)|Caleb Kilian (근육 손상)|Tanner Banks (근육 손상)"
 injuryAway: "Masyn Winn (통증)|Ramon Urias (건염)|Andre Pallante (염증)|Hunter Dobbins (통증)|Everson Pereira (통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Sanchez (16-4, 2.51) ERA 2.51|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+awayLineup: "[\"선발투수 K. Leahy (10-4, 3.24) ERA 3.24|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

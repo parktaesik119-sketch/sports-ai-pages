@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.23","home":"뉴욕 양키즈","away":"토론토 블
 awayRecent: '[{"date":"26.08.23","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TONY0-2026-08-23-new-york-yankees/"},{"date":"26.08.22","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TONY0-2026-08-22-new-york-yankees/"},{"date":"26.08.21","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821TOTB0-2026-08-21-tampa-bay-rays/"},{"date":"26.08.20","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820TOTB0-2026-08-20-tampa-bay-rays/"},{"date":"26.08.19","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819TOTB0-2026-08-19-tampa-bay-rays/"}]'
 injuryHome: "Cody Bellinger (근육 통증)|Ryan Weathers (근육 통증)|Kervin Castro (염증)|Max Fried (타박상)|Ryan McMahon (염좌)"
 injuryAway: "Andres Gimenez (일일 상태 점검)|Jonatan Clase (족저근막염)|Jameson Taillon (건염)|Joe Mantiply (수술)|Josh Smith (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Rodon (4-2, 3.22) ERA 3.22|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\"]"
+awayLineup: "[\"선발투수 J. Soriano (10-6, 3.23) ERA 3.23|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

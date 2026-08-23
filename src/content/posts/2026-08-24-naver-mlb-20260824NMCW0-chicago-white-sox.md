@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴�
 injuryHome: "Drew Thorpe (수술)|Chris Murphy (근육 염좌)|Ky Bush (수술)|Jordan Leasure (근육 염좌)|Davis Martin (찰과상)"
 injuryAway: "Juan Soto (근육 염좌)|Cionel Perez (근육 염좌)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (근육 염좌)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 N. McLean (9-8, 3.34) ERA 3.34|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

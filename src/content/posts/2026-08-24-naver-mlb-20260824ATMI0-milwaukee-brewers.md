@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.23","home":"밀워키 브루어스","away":"애틀�
 awayRecent: '[{"date":"26.08.23","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ATMI0-2026-08-23-milwaukee-brewers/"},{"date":"26.08.22","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822ATMI0-2026-08-22-milwaukee-brewers/"},{"date":"26.08.21","home":"시카고 화이트삭스","away":"애틀랜타 브레이브스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ATCW0-2026-08-21-chicago-white-sox/"},{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"},{"date":"26.08.19","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ATMN0-2026-08-19-minnesota-twins/"}]'
 injuryHome: "Joel Kuhnel (건염)|Sal Frelick (긴장)|Abner Uribe (긴장)|JoJo Romero (결장)|Rob Zastryzny (긴장)"
 injuryAway: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Drohan (6-4, 3.86) ERA 3.86|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
+awayLineup: "[\"선발투수 T. Mahle (4-10, 4.53) ERA 4.53|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
