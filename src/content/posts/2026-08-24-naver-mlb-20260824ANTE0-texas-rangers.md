@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에�
 injuryHome: "Robert Garcia (염증)|Jake Burger (타박상)|Josh Jung (근육 부상)|Nathan Eovaldi (염증)|Kyle Higashioka (근육 부상)"
 injuryAway: "Yusei Kikuchi (염증)|Shaun Anderson (염증)|Wade Meckler (일일 부상)|Sebastian Rivero (수술)|Sam Bachman (염증)"
 homeLineup: "[\"선발투수 C. Quantrill (5-4, 3.13) ERA 3.13|https://a.espncdn.com/i/headshots/mlb/players/full/39875.png\"]"
-awayLineup: "[\"선발투수 Y. Kikuchi (0-3, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\"]"
+awayLineup: "[\"선발투수 Y. Kikuchi (0-3, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\",\"1번 Z. Neto (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png\",\"2번 M. Trout (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/30836.png\",\"3번 M. Ballesteros (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4987418.png\",\"4번 V. Grissom (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42503.png\",\"5번 J. Lowe (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40557.png\",\"6번 G. Campero (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5125630.png\",\"7번 J. Siri (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/33954.png\",\"8번 C. Moore (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4927523.png\",\"9번 T. Heineman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33142.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
