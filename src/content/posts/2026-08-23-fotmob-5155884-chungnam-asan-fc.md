@@ -20,12 +20,12 @@ homeRecent: "[{\"date\":\"26.08.19\",\"home\":\"Chungnam Asan FC\",\"away\":\"Da
 awayRecent: "[{\"date\":\"26.08.07\",\"home\":\"Yongin FC\",\"away\":\"Busan I'Park\",\"score\":\"2-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.01\",\"home\":\"Cheonan City\",\"away\":\"Yongin FC\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.07.26\",\"home\":\"Gimpo FC\",\"away\":\"Yongin FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.07.19\",\"home\":\"Yongin FC\",\"away\":\"Hwaseong FC\",\"score\":\"0-3\",\"result\":\"🔴패\"},{\"date\":\"26.07.15\",\"home\":\"Yongin FC\",\"away\":\"Dangjin Citizen\",\"score\":\"0-2\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Shin Song-Hoon (GK)|https://images.fotmob.com/image_resources/playerimages/1232539.png\",\"Byun Jun-Young (DF)|https://images.fotmob.com/image_resources/playerimages/1638998.png\",\"Kim Hye-Seong (DF)|https://images.fotmob.com/image_resources/playerimages/925842.png\",\"Jang Jun-Young (DF)|https://images.fotmob.com/image_resources/playerimages/735012.png\",\"Park Seong-Woo (MF)|https://images.fotmob.com/image_resources/playerimages/925678.png\",\"Jung Se-Jun (MF)|https://images.fotmob.com/image_resources/playerimages/1663928.png\",\"Son Jun-Ho (MF)|https://images.fotmob.com/image_resources/playerimages/523720.png\",\"Kim Ju-Sung (MF)|https://images.fotmob.com/image_resources/playerimages/1337110.png\",\"Han Kyo-Won (FW)|https://images.fotmob.com/image_resources/playerimages/254292.png\",\"Charles Lokolingoy (FW)|https://images.fotmob.com/image_resources/playerimages/849365.png\",\"Park Ju-Young (FW)|https://images.fotmob.com/image_resources/playerimages/2100358.png\"]"
+awayLineup: "[\"Hwang Sung-Min (GK)|https://images.fotmob.com/image_resources/playerimages/654194.png\",\"Yu Dong-Gyu (DF)|https://images.fotmob.com/image_resources/playerimages/1232524.png\",\"Choi Young-Jun (DF)|https://images.fotmob.com/image_resources/playerimages/252615.png\",\"Kim Hyeon-Jun (DF)|https://images.fotmob.com/image_resources/playerimages/1613071.png\",\"Kang Sin-Myeong (MF)|https://images.fotmob.com/image_resources/playerimages/1136254.png\",\"Kim Han-Gil (MF)|https://images.fotmob.com/image_resources/playerimages/827266.png\",\"Kim Han-Seo (MF)|https://images.fotmob.com/image_resources/playerimages/1616667.png\",\"Kwak Yun-Ho (MF)|https://images.fotmob.com/image_resources/playerimages/1232252.png\",\"Gabriel Tigrão (FW)|https://images.fotmob.com/image_resources/playerimages/1350400.png\",\"Jardel (FW)|https://images.fotmob.com/image_resources/playerimages/890844.png\",\"Kim Jin-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/1714796.png\"]"
+homeFormation: "3-4-3"
+awayFormation: "3-4-3"
+homeCoach: "André|https://images.fotmob.com/image_resources/playerimages/1135629.png"
+awayCoach: "Choi Yun-Kyum|https://images.fotmob.com/image_resources/playerimages/504112.png"
 pickWinTeam: "용인 FC"
 pickWinResult: "승"
 pickHandicapTeam: "용인 FC"
