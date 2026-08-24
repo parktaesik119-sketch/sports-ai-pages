@@ -1,0 +1,37 @@
+---
+title: "대전 시티즌 vs 울산 HD FC 경기분석·라인업·결장자·통계·승부예측 (8월 26일) | K-League 1 - 픽천국"
+date: 2026-08-26T10:30:00.000Z
+description: "대전 시티즌 vs 울산 HD FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140010-2026-08-26-daejeon-hana-citizen"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "대전 시티즌"
+awayTeam: "울산 HD FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133900.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133896.png"
+homeAnalysis: "대전 시티즌은 2026시즌 최근 14경기에서 5승 6무 3패, 평균 득점 1.6을 기록하며 쉽게 무너지지 않는 전력을 보여주고 있습니다. 최근 흐름을 보면 대량 득점보다는 경기별 기복을 줄이면서도 필요한 순간에 득점을 만들어내는 모습이 돋보입니다. 특히 홈에서는 수비 밸런스를 바탕으로 실점을 억제하는 운영이 잘 드러나고 있고, 원정에서도 승점을 챙기는 장면이 이어져 전반적인 경기 관리가 안정적입니다. 다만 경기 후반까지 접전이 이어질 때는 마무리 효율이 흔들리는 구간이 있어, 득점 찬스를 얼마나 깔끔하게 살리느냐가 중요해 보입니다. 핵심 자원들이 전방에서 움직임을 잘 이어가고 있는 만큼, 울산 HD FC를 상대로도 쉽게 밀리지 않는 흐름을 기대할 수 있습니다."
+awayAnalysis: "울산 HD FC는 2026시즌 최근 15경기에서 6승 3무 6패, 평균 득점 1.5를 기록하며 기복은 있으나 전체적인 공격 생산력은 유지하고 있습니다. 최근에는 승리와 패배가 번갈아 나오는 흐름이 나타나고 있어, 경기 내용에 따라 전력이 크게 달라지는 편입니다. 특히 원정에서는 강한 압박으로 흐름을 잡아내는 장면이 있으나, 실점이 늘어나는 경기에서는 수비 집중력이 흔들리는 모습도 보입니다. 득점 면에서는 한 번 기세를 타면 충분히 위협적이지만, 상대가 라인을 잘 정리하면 마무리 단계에서 답답함이 나타날 수 있습니다. 이런 점을 고려하면 경기 초반 주도권 확보가 매우 중요하고, 전방 핵심 자원의 활용도가 승부의 분수령이 될 가능성이 높습니다."
+homePower: "홈에서 실점 억제력이 살아 있는 전력임|접전에서도 승점을 챙기는 운영이 안정적임|전방 마무리보다 찬스 관리가 강점으로 보임|울산 상대로 홈 경기 상성이 나쁘지 않음|후반 집중력만 유지되면 흐름을 지키기 쉬움"
+awayPower: "득점 생산은 유지되나 경기별 편차가 큼|원정에서 압박 강도에 따라 경기력 차이 큼|실점 허용 시 반전이 어려운 흐름이 보임|전방 핵심 자원 활용도가 승부를 좌우함|초반 선제 압박이 먹히면 주도권 확보 가능함"
+h2h: '[{"date":"26.07.18","home":"대전 시티즌","away":"울산 HD FC","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1506998-2026-07-18-daejeon-citizen/"},{"date":"26.04.26","home":"울산 HD FC","away":"대전 시티즌","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1506955-2026-04-26-ulsan-hyundai-fc/"},{"date":"25.07.23","home":"울산 HD FC","away":"대전 시티즌","score":"1-2"},{"date":"25.04.01","home":"울산 HD FC","away":"대전 시티즌","score":"2-3"},{"date":"25.02.23","home":"대전 시티즌","away":"울산 HD FC","score":"0-2"}]'
+summary: "대전 시티즌은 최근 14경기에서 5승 6무 3패로 버티는 힘이 좋고, 울산 HD FC는 최근 15경기에서 6승 3무 6패로 기복이 더 크게 드러나고 있습니다. 득점 흐름만 놓고 보면 두 팀 모두 비슷한 생산력을 보이지만, 대전 시티즌이 경기 운영의 안정감에서는 조금 더 단단하게 보입니다. 상대전적에서도 대전 시티즌이 최근 맞대결에서 우세한 결과를 여러 차례 만들어냈고, 울산 HD FC가 강하게 밀어붙이는 구간을 대전 시티즌이 잘 견뎌낸 장면이 적지 않습니다. 전력의 안정감과 맞대결 흐름을 함께 보면 대전 시티즌이 조금 더 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Thomas Kotte (부상)|Erik Farias (아킬레스건 수술 후 장기 이탈)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "대전 시티즌"
+pickWinResult: "승"
+pickHandicapTeam: "대전 시티즌"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (8월 25일) | MLB - 픽천국"
+date: 2026-08-25T01:40:00.000Z
+description: "시애틀 매리너스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 최근 80경기 38승 1무 41패, 평균 득점 3.8로 승패가 엇갈리는 가운데도 홈에서 버티는 힘을 보여주고 있습니다. 최근 흐름을 보면 강한 상대를 만나면 실점이 크게 늘어나는 장면이 있었지만, 이틀 간격으로 승리를 끌어내는 응집력도 함께 확인되고 있습니다. 특히 3점대 득점력은 꾸준함이 완전히 자리 잡았다고 보기는 어렵지만, 경기 중반 이후 흐름을 바꾸는 힘은 살아 있습니다. 다만 15일 이상 장기 결장자가 여럿 포함되어 있어 공격과 마운드 운용의 깊이가 얇아진 점은 분명한 부담입니다. 현재 리그순위 11위라는 위치를 감안하면, 상위권 상대를 상대로는 안정적인 실점 관리가 더욱 중요해 보입니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 최근 97경기 55승 2무 40패, 평균 득점 4.7로 승률과 생산성 모두에서 상위권 전력을 유지하고 있습니다. 최근 흐름도 매우 좋고, 원정에서도 꾸준히 득점을 이어가며 경기 초반부터 주도권을 잡는 장면이 많습니다. 특히 실점 억제와 장타 생산이 함께 받쳐주고 있어, 경기 전체를 안정적으로 끌고 가는 모습이 돋보입니다. 다만 단기 결장자가 몇 명 있어 세부 운영에서는 조금의 변동 가능성이 보입니다. 현재 리그순위 5위에 걸맞게 고점 대비 흔들림이 크지 않고, 최근의 상승 흐름까지 더해져 전력 우위가 분명합니다."
+homePower: "장기 결장자 누적으로 타선 연결성 저하 우려 큼|3점대 득점력은 경기별 편차가 큰 편임|상위권 상대 실점 급증, 수비 안정성 과제임|홈에서는 접전 운영 능력은 아직 유지되는 편임|순위 대비 반등 여지보다 전력 공백이 더 크게 보임"
+awayPower: "4점대 후반 득점 생산으로 공격 완성도 높음|최근 대량 득점이 이어져 타선 응집력 검증됨|상위 리그순위와 최근 흐름이 서로 맞물림|단기 결장자 있어도 경기 전체 균형은 유지됨|원정에서도 초반부터 흐름 잡는 운영이 강점임"
+h2h: '[]'
+summary: "시애틀 매리너스는 시즌 전력상 리그순위 11위와 득실 -61.0이 말해주듯, 현재 전력의 기복이 적지 않은 편입니다. 반면 필라델피아 필리스는 리그순위 5위와 득실 +27.0을 바탕으로 공격과 실점 관리에서 더 균형 잡힌 모습을 보여주고 있습니다. 최근 흐름까지 더해 보면 원정팀이 더 높은 완성도를 유지하고 있고, 홈팀은 결장 공백을 메우지 못하면 경기 내내 밀릴 가능성이 높아 보입니다. 전체적으로는 필라델피아 필리스가 전력과 최근 상승세 모두에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.24","home":"시애틀 매리너스","away":"시카고 컵스","score":"2-19","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners/"},{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"},{"date":"26.08.20","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SEMI0-2026-08-20-milwaukee-brewers/"},{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.20","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies/"},{"date":"26.08.19","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819FLPH0-2026-08-19-philadelphia-phillies/"}]'
+injuryHome: "Cole Wilcox (좌상)|J.P. Crawford (염증)|Colt Emerson (염증)|Bryan Woo (일시적 상태)|Cooper Criswell (좌상)"
+injuryAway: "Rafael Marchan (건염)|Alec Bohm (통증)|Luis Arraez (경련)|Derek Hill (통증)|Caleb Kilian (좌상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

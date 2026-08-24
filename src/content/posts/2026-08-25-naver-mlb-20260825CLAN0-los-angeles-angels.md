@@ -1,0 +1,37 @@
+---
+title: "LA 에인절스 vs 클리블랜드 가디언스 경기분석·라인업·결장자·통계·승부예측 (8월 25일) | MLB - 픽천국"
+date: 2026-08-25T01:38:00.000Z
+description: "LA 에인절스 vs 클리블랜드 가디언스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260825CLAN0-2026-08-25-los-angeles-angels"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 에인절스"
+awayTeam: "클리블랜드 가디언스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+homeAnalysis: "LA 에인절스는 2026시즌 최근 83경기에서 29승 53패, 승률 .397, 평균 득점 3.9를 기록하며 전반적으로 하위권 전력을 보이고 있습니다. 다만 최근 10경기에서는 6승 4패, 평균 득점 5.0으로 반등 흐름이 뚜렷해졌고, 타선이 한 번 터질 때는 큰 점수 차로 경기를 가져가는 장면도 보입니다. 반면 실점 억제는 여전히 불안해서, 득점이 따라오지 않으면 쉽게 주도권을 내주는 모습이 이어지고 있습니다. 홈 경기에서도 강하게 밀어붙이는 구간과 급격히 흔들리는 구간의 차이가 커서 안정감은 아쉽습니다. 핵심 타선과 중심 운영이 살아날 때는 충분히 공격적으로 맞설 수 있지만, 전체적인 시즌 수치만 보면 수비와 경기 운영의 기복이 분명합니다."
+awayAnalysis: "클리블랜드 가디언스는 2026시즌 최근 94경기에서 43승 49패, 승률 .496, 평균 득점 4.0을 기록하며 리그순위 7위에 올라 있습니다. 최근 10경기에서는 6승 4패, 평균 득점 4.6으로 타선의 응집력이 살아나고 있고, 직전 원정에서도 연승을 이어가며 반등 조짐이 분명합니다. 득실이 -9로 버틸 수 있는 수준을 유지하고 있어, 대량 실점으로 무너지는 경기보다 접전에서 힘을 내는 구도가 잘 보입니다. 원정에서도 최근 흐름이 가벼워 보이지 않고, 선발과 불펜이 초반 실점을 억제하면 경기 주도권을 잡을 가능성이 높습니다. 장기 결장자 이슈가 있더라도 현재 전력의 균형은 홈팀보다 한 단계 앞서 있다고 평가됩니다."
+homePower: "최근 10경기 6승으로 반등세가 뚜렷함|평균 득점 3.9보다 최근 화력이 확실히 상승함|실점 관리 흔들릴 때 경기 흐름이 급격히 무너짐|큰 점수차 승리와 완봉 승리가 공존해 기복 큼|상위권 상대보다 접전에서 집중력 유지가 관건임"
+awayPower: "최근 10경기 6승으로 상승 흐름 유지함|평균 득점 4.0보다 최근 공격 응집력 강화됨|득실 -9로 쉽게 무너지지 않는 균형감 보임|원정 연승이 이어지며 경기 초반 안정감 검증됨|장기 결장자에도 중심 전력의 버팀목은 유지됨"
+h2h: '[{"date":"26.05.14","home":"클리블랜드 가디언스","away":"LA 에인절스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-178634-2026-05-13-cleveland-guardians/"},{"date":"26.05.13","home":"클리블랜드 가디언스","away":"LA 에인절스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-178634-2026-05-13-cleveland-guardians/"},{"date":"26.05.12","home":"클리블랜드 가디언스","away":"LA 에인절스","score":"7-2","link":"https://pick79.com/posts/detail/analyze-178625-2026-05-12-cleveland-guardians/"}]'
+summary: "클리블랜드 가디언스는 2026시즌 리그순위 7위로, LA 에인절스의 리그순위 14위보다 확실히 앞서 있습니다. 최근 흐름에서도 클리블랜드 가디언스가 더 안정적인 득점 응집력을 보이고 있고, 득실 격차 역시 홈팀보다 훨씬 단단해서 경기 전체의 균형이 좋아 보입니다. 특히 맞대결에서도 클리블랜드 가디언스가 먼저 주도권을 잡는 장면이 반복되었기 때문에, 이번 경기 역시 원정팀이 초반부터 우위를 점할 가능성이 높습니다. 홈팀이 최근 타격감으로 맞설 여지는 있지만, 시즌 전체 전력과 맞대결 상성을 함께 보면 클리블랜드 가디언스 쪽 기대가 더 자연스럽습니다."
+homeRecent: '[{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"},{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에인절스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ANTE0-2026-08-23-texas-rangers/"},{"date":"26.08.21","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"3-18","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ANHO0-2026-08-21-houston-astros/"},{"date":"26.08.20","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ANHO0-2026-08-20-houston-astros/"},{"date":"26.08.19","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ANHO0-2026-08-19-houston-astros/"}]'
+awayRecent: '[{"date":"26.08.24","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CLCO0-2026-08-24-colorado-rockies/"},{"date":"26.08.22","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CLCO0-2026-08-22-colorado-rockies/"},{"date":"26.08.21","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SFCL0-2026-08-21-cleveland-guardians/"},{"date":"26.08.20","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SFCL0-2026-08-20-cleveland-guardians/"},{"date":"26.08.19","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SFCL0-2026-08-19-cleveland-guardians/"}]'
+injuryHome: "Shaun Anderson (염증)|Wade Meckler (7일 부상자 명단)|Sebastian Rivero (수술)|Sam Bachman (염증)|Nolan Schanuel (염좌)"
+injuryAway: "Colin Holderman (염증)|Rhys Hoskins (염증)|Slade Cecconi (통증)|Shawn Armstrong (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

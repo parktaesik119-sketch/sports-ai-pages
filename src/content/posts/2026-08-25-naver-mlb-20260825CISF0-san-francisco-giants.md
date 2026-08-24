@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (8월 25일) | MLB - 픽천국"
+date: 2026-08-25T01:45:00.000Z
+description: "샌프란시스코 자이언츠 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 77경기 31승 1무 45패, 평균 득점 4.2를 기록하며 기대치보다 흔들리는 흐름이 이어지고 있습니다. 최근 10경기에서도 2승 8패로 고전하고 있어, 전체 시즌 흐름보다도 현재 전력이 더 무겁게 가라앉아 보입니다. 다만 홈에서는 장타와 한 번에 점수를 쌓는 장면이 살아날 때가 있어, 공격이 붙는 날에는 상대를 압박하는 힘은 있습니다. 반면 실점 억제가 흔들리는 구간이 길어, 접전에서 후반 운영이 불안해지는 모습이 자주 보입니다. 현재 리그순위 14위라는 점까지 감안하면, 반등의 실마리는 홈 타선의 응집력과 초반 실점 억제에서 찾아야 하며, 핵심 자원 이탈도 적지 않아 안정감은 떨어져 보입니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 최근 90경기 37승 2무 51패, 평균 득점 3.9로 버티는 힘은 있으나 완성도에서는 아쉬움이 남는 흐름입니다. 최근 10경기 4승 6패로 완전히 무너지지는 않았고, 위닝 흐름을 이어가지는 못해도 승부를 끝까지 끌고 가는 힘은 보여주고 있습니다. 현재 리그순위 11위이며 득실이 좋지 않은 편이라, 순위상 우위보다도 실제 경기 내용에서 더 강한 변동성을 드러내고 있습니다. 그래도 원정에서도 최소한의 득점 생산은 이어지고 있어, 상대 수비가 흔들리는 구간을 잘 공략하면 흐름을 가져올 여지는 있습니다. 다만 주요 전력 이탈이 적지 않아 마운드와 중심 타선의 무게감이 떨어질 수 있다는 점은 분명한 부담입니다."
+homePower: "홈 경기 후반 실점 억제 흔들림이 반복됨|공격은 터질 때 크지만 지속성은 부족함|리그순위 14위, 반등엔 수비 안정이 우선임|중심 전력 이탈로 경기 운영 깊이 약화됨|접전에서 마무리 효율이 승부처 변수로 보임"
+awayPower: "원정 득점은 유지되지만 폭발력은 제한적임|최근 승패 교차로 경기 기복이 큰 편임|리그순위 11위이나 실점 격차는 개선 필요함|주요 이탈로 투타 중심축이 약해진 상태임|접전에서는 버티지만 장기전 체력전은 부담임"
+h2h: '[{"date":"26.04.17","home":"신시내티 레즈","away":"샌프란시스코 자이언츠","score":"0-3"},{"date":"26.04.16","home":"신시내티 레즈","away":"샌프란시스코 자이언츠","score":"8-3"},{"date":"26.04.15","home":"신시내티 레즈","away":"샌프란시스코 자이언츠","score":"2-1"}]'
+summary: "샌프란시스코 자이언츠는 시즌 전체 흐름이 31승 1무 45패로 내려와 있고, 최근 10경기 2승 8패로 주춤한 모습이 이어지고 있습니다. 신시내티 레즈는 37승 2무 51패에 최근 10경기 4승 6패로 완벽하지는 않지만, 자이언츠보다 경기 내용을 버티는 힘은 조금 더 나아 보입니다. 양 팀 모두 실점 관리에서 불안이 남아 있지만, 상대전적에서는 신시내티 레즈가 이미 우세를 잡고 있어 이번 경기에서도 원정팀이 조금 더 주도권을 잡을 가능성이 높아 보입니다. 다만 자이언츠도 홈에서 한 번 흐름을 타면 득점 응집력을 보여줄 수 있어, 경기 초반의 실점 여부가 전체 흐름을 좌우할 가능성이 큽니다."
+homeRecent: '[{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox/"},{"date":"26.08.23","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SFBO0-2026-08-23-boston-red-sox/"},{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"},{"date":"26.08.21","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SFCL0-2026-08-21-cleveland-guardians/"},{"date":"26.08.20","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SFCL0-2026-08-20-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"},{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"},{"date":"26.08.20","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SLCI0-2026-08-20-cincinnati-reds/"},{"date":"26.08.19","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SLCI0-2026-08-19-cincinnati-reds/"}]'
+injuryHome: "Victor Bericoto (경미한 통증)|Willy Adames (경미한 통증)|Jesus Rodriguez (신경 눌림)|Marcelo Mayer (골절)|Matt Gage (근육 손상)"
+injuryAway: "Brandon Williamson (통증)|Graham Ashcraft (염좌)|Michael Toglia (탈구)|Spencer Steer (염좌)|Blake Dunn (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "신시내티 레즈"
+pickWinResult: "승"
+pickHandicapTeam: "신시내티 레즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

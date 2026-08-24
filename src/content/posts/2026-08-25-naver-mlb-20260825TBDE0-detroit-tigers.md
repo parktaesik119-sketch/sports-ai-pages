@@ -1,0 +1,37 @@
+---
+title: "디트로이트 타이거즈 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (8월 25일) | MLB - 픽천국"
+date: 2026-08-24T22:40:00.000Z
+description: "디트로이트 타이거즈 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260825TBDE0-2026-08-25-detroit-tigers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "디트로이트 타이거즈"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "디트로이트 타이거즈는 2026시즌 최근 92경기에서 45승 1무 46패, 평균 득점 4.5를 기록하며 전력의 바탕은 충분히 유지하고 있습니다. 다만 최근 10경기에서는 2승 8패로 흐름이 크게 꺾였고, 공격은 경기당 4점 수준으로 버티고 있지만 실점 관리가 흔들리면서 승부가 길게 유지되지 못하고 있습니다. 홈 경기에서는 한 번 터질 때는 크게 터지는 폭발력이 보이지만, 최근에는 득점 기복이 커져 초반 실점 뒤 반전하는 장면이 줄어든 모습입니다. 그럼에도 시즌 전체 득실 차가 플러스권인 점은 타선의 잠재력과 선발진의 기본 경쟁력이 살아 있음을 보여줍니다. 중심 타선의 장타와 홈에서의 공격 전환 능력이 살아난다면, 최근 부진 속에서도 반등 여지는 충분히 남아 있습니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 최근 95경기에서 54승 4무 37패, 평균 득점 4.3으로 리그순위 1위답게 시즌 전체 전력은 매우 탄탄합니다. 최근 10경기에서는 3승 7패로 다소 흔들리고 있지만, 원정에서도 짧은 이닝 단위로 흐름을 되찾는 장면이 종종 보여 경기 운영의 완성도는 여전히 높은 편입니다. 다만 최근에는 득점이 3점대 후반에 머무는 경기들이 늘면서 타선의 폭발감이 예전보다 약해진 모습입니다. 특히 핵심 불펜 자원 이탈이 겹쳐 접전 상황에서 후반 안정감이 떨어질 수 있다는 점은 부담으로 보입니다. 시즌 전체로는 상위권 경쟁력을 유지하고 있으나, 최근 흐름만 놓고 보면 공격과 마운드 모두에서 미세한 흔들림이 확인되고 있습니다."
+homePower: "홈에서 분위기 한 번 잡으면 대량 득점으로 흐름 전환이 빠름|최근 부진에도 시즌 득실 플러스, 기본 화력은 살아 있음|주축 결장 많아도 대체 자원의 응집력은 검증됨|상대전에서 단기간 3연승, 상성 우위가 분명함|접전보다 선취점 경기에서 훨씬 강한 구조임"
+awayPower: "리그순위 1위답게 시즌 누적 완성도는 높음|원정에서도 경기 운영이 안정적이라는 점이 강점임|최근 득점 저하로 초반 리드 확보력이 다소 둔해짐|핵심 불펜 이탈로 후반 잠금 능력 약화가 보임|상대전 3연패, 상성 면에서는 부담이 큰 편임"
+h2h: '[{"date":"26.06.04","home":"탬파베이 레이스","away":"디트로이트 타이거즈","score":"2-7","link":"https://pick79.com/posts/detail/analyze-178928-2026-06-04-tampa-bay-rays/"},{"date":"26.06.03","home":"탬파베이 레이스","away":"디트로이트 타이거즈","score":"0-8","link":"https://pick79.com/posts/detail/analyze-178912-2026-06-03-tampa-bay-rays/"},{"date":"26.06.02","home":"탬파베이 레이스","away":"디트로이트 타이거즈","score":"9-10","link":"https://pick79.com/posts/detail/analyze-178904-2026-06-02-tampa-bay-rays/"}]'
+summary: "디트로이트 타이거즈는 시즌 전체 흐름이 들쑥날쑥해도 홈에서 공격이 한 번 살아날 때 경기 주도권을 빠르게 가져오는 힘이 있습니다. 탬파베이 레이스는 리그순위 1위로 시즌 전력은 분명 우위에 있지만, 최근에는 득점과 불펜 안정감이 동시에 흔들리면서 예전만큼 단단한 인상을 주지 못하고 있습니다. 여기에 상대전적에서도 디트로이트 타이거즈가 앞서 있고, 최근 맞대결 결과까지 고려하면 이번 경기는 홈팀이 더 자연스럽게 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.24","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824DEKC0-2026-08-24-kansas-city-royals/"},{"date":"26.08.23","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823DEKC0-2026-08-23-kansas-city-royals/"},{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"},{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"},{"date":"26.08.18","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.08.24","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TBBA0-2026-08-24-baltimore-orioles/"},{"date":"26.08.23","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TBBA0-2026-08-23-baltimore-orioles/"},{"date":"26.08.22","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TBBA0-2026-08-22-baltimore-orioles/"},{"date":"26.08.21","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821TOTB0-2026-08-21-tampa-bay-rays/"},{"date":"26.08.20","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820TOTB0-2026-08-20-tampa-bay-rays/"}]'
+injuryHome: "Riley Greene (염좌)|Matt Vierling (염좌)|Parker Meadows (수술)|Kerry Carpenter (족저근막염)|Burch Smith (염증)"
+injuryAway: "Cole Sulser (경련)|Griffin Jax (통증)|Jake Fraley (수술)|Jonathan Heasley (골절)|Edwin Uceta (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---
