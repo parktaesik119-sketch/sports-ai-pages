@@ -132,6 +132,7 @@ export default {
   "Guatemala": "gt",
   "Honduras": "hn",
   "El-Salvador": "sv",
+  "El Salvador": "sv",
   "Nicaragua": "ni",
   "Panama": "pa",
   "Cuba": "cu",
