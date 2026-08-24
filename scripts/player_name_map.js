@@ -1002,6 +1002,7 @@ const PLAYER_NAME_MAP = {
   "Hyun-Seok Kim": "김현석", // 울산 HD — fotmob 스쿼드 페이지에서 이 항목만 이미 GivenName Surname 순서였음
   "Jung-Yong Chung": "정정용", // 전북 현대
   "Jung-Yong Jung": "정정용", // 전북 현대
+  "Jeong-Yong Jung": "정정용", // 전북 현대
   "Kyeong-Ho Chung": "정경호", // 강원 FC
   "Kyung-Ho Chung": "정경호", // 강원 FC
   "Tae-Ha Park": "박태하", // 포항 스틸러스
