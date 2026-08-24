@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"시애틀 매리너스","away":"시카�
 awayRecent: '[{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.20","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies/"},{"date":"26.08.19","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819FLPH0-2026-08-19-philadelphia-phillies/"}]'
 injuryHome: "Cole Wilcox (좌상)|J.P. Crawford (염증)|Colt Emerson (염증)|Bryan Woo (일시적 상태)|Cooper Criswell (좌상)"
 injuryAway: "Rafael Marchan (건염)|Alec Bohm (통증)|Luis Arraez (경련)|Derek Hill (통증)|Caleb Kilian (좌상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Gilbert (10-7, 3.35) ERA 3.35|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+awayLineup: "[\"선발투수 A. Nola (5-9, 5.12) ERA 5.12|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

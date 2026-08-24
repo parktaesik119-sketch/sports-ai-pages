@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"시카고 화이트삭스","away":"뉴�
 awayRecent: '[{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"},{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에인절스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ANTE0-2026-08-23-texas-rangers/"},{"date":"26.08.21","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821MOTE0-2026-08-21-texas-rangers/"},{"date":"26.08.20","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers/"},{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"}]'
 injuryHome: "Drew Thorpe (수술)|Chris Murphy (염좌)|Ky Bush (수술)|Kyle Teel (염좌)|Jordan Leasure (염좌)"
 injuryAway: "Robert Garcia (염증)|Josh Jung (염좌)|Nathan Eovaldi (염증)|Kyle Higashioka (염좌)|Jack Leiter (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Urquidy (2-1, 5.06) ERA 5.06|https://a.espncdn.com/i/headshots/mlb/players/full/35759.png\"]"
+awayLineup: "[\"선발투수 K. Rocker (4-10, 4.46) ERA 4.46|https://a.espncdn.com/i/headshots/mlb/players/full/4414525.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

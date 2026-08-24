@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"마이애미 말린스","away":"워싱�
 awayRecent: '[{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox/"},{"date":"26.08.23","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SFBO0-2026-08-23-boston-red-sox/"},{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"},{"date":"26.08.19","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819AZBO0-2026-08-19-boston-red-sox/"}]'
 injuryHome: "Kyle Stowers (염좌)|Anthony Bender (골절)|Max Meyer (염좌)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 injuryAway: "Trevor Story (수술)|Isiah Kiner-Falefa (염증)|Garrett Whitlock (염증)|Roman Anthony (염좌)|Justin Slaten (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Alcantara (13-8, 3.46) ERA 3.46|https://a.espncdn.com/i/headshots/mlb/players/full/35241.png\"]"
+awayLineup: "[\"선발투수 R. Suarez (5-3, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

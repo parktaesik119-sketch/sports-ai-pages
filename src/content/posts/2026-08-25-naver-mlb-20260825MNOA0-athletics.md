@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애�
 awayRecent: '[{"date":"26.08.24","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MNSD0-2026-08-24-san-diego-padres/"},{"date":"26.08.22","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MNSD0-2026-08-22-san-diego-padres/"},{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"},{"date":"26.08.19","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ATMN0-2026-08-19-minnesota-twins/"},{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"}]'
 injuryHome: "Jose Suarez (긴장) | Brooks Kriske (신경 압박) | Denzel Clarke (긴장) | Joshua Kuroda-Grauer (수술) | Shea Langeliers (수술)"
 injuryAway: "Joe Ryan (긴장) | Austin Martin (긴장) | Mike Paredes (긴장) | Mick Abel (수술) | Cole Sands (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Jump (5-8, 4.83) ERA 4.83|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (9-5, 3.90) ERA 3.90|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
