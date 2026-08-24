@@ -990,6 +990,7 @@ const TEAM_NAME_MAP = {
   "Dynamo Dresden": "디나모 드레스덴",
   "Eintracht Braunschweig": "아인트라흐트 브라운슈바이크",
   "Fortuna Düsseldorf": "포르투나 뒤셀도르프",
+  "Düsseldorf": "포르투나 뒤셀도르프",
   "Hannover 96": "하노버 96",
   "Hertha BSC": "헤르타 베를린",
   "Holstein Kiel": "홀슈타인 킬",
