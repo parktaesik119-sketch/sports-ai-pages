@@ -10,6 +10,7 @@ const TEAM_NAME_MAP = {
   "Leeds United": "리즈 유나이티드",
   "Coventry": "코번트리 시티",
   "Ipswich": "입스위치 타운",
+  "Ipswich Town": "입스위치 타운",
   "Hull City": "헐 시티",
   "Hull": "헐 시티",
   "Arsenal": "아스널",
@@ -28,12 +29,15 @@ const TEAM_NAME_MAP = {
   "Manchester United": "맨체스터 유나이티드",
   "Man United": "맨체스터 유나이티드",
   "Newcastle": "뉴캐슬",
+  "Newcastle United": "뉴캐슬",
   "Nottingham Forest": "노팅엄 포레스트",
   "Nottm Forest": "노팅엄 포레스트",
   "Sunderland": "선덜랜드",
   "Tottenham": "토트넘",
+  "Tottenham Hotspur": "토트넘",
   "West Ham": "웨스트햄",
   "Wolves": "울버햄튼",
+  "Wolverhampton Wanderers": "울버햄튼",
 
   // ===== 🇪🇸 라리가 (La Liga) =====
   "Racing Santander": "레이싱 산탄데르",
@@ -1163,6 +1167,7 @@ const TEAM_NAME_MAP = {
   "Cardiff": "카디프 시티",
   "Charlton": "찰튼 애슬레틱",
   "Derby": "더비 카운티",
+  "Derby County": "더비 카운티",
   "Leicester": "레스터 시티",
   "Middlesbrough": "미들즈브러",
   "Millwall": "밀월",
@@ -1559,9 +1564,7 @@ const TEAM_NAME_MAP = {
   "Al Diriyah": "알 드라이흐",
   "Al-Diriyah": "알 드라이흐",
   "Al Ittihad Kalba": "알이티하드 칼바",
-
   "Al-Ittihad Kalba": "알이티하드 칼바",
-
   "Al Ahli": "알아흘리",
   "Al Ahly SC": "알아흘리",
   "Al-Ahli Jeddah": "알아흘리 제다",
