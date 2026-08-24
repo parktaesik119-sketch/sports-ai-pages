@@ -692,7 +692,7 @@ const structuredDataJson = JSON.stringify(structuredData).replace(/</g, '\\u003c
   }
   function stripPos(player: string) {
     const base = player.split('|')[0];
-    return base.replace(/\s*\([^)]+\)$/, '');
+    return base.replace(/\s*\([^)]*\)$/, '');
   }
   // 야구 포지션(한글)을 색상 배지로 분류 - 기존 축구용 색상 팔레트 재사용
   // 포수=GK색(노랑), 내야수=DF색(초록), 외야수=MF색(파랑), 지명타자=FW색(빨강)

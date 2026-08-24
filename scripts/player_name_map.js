@@ -124,11 +124,13 @@ const PLAYER_NAME_MAP = {
 
   // --- Gangwon FC (강원 FC) ---
   "Cheong-Hyo Park": "박청효",
+  "Chung-Hyo Park": "박청효",
   "Jin-Hyeok Hong": "홍진혁",
   "Min-Kyu Cho": "조민규",
   "Jung-Hun Kim": "김정훈",
   "Do-Hyun Kim": "김도현",
   "Joon-Hyuck Kang": "강준혁",
+  "Joon-hyuck Kang": "강준혁",
   "Seong-Yun Kang": "강성윤",
   "Seok-Joo Kwon": "권석주",
   "Gi-Hyuk Lee": "이기혁",
@@ -159,9 +161,11 @@ const PLAYER_NAME_MAP = {
   "Won-Woo Cho": "조원우",
   "Gun-Hee Kim": "김건희",
   "Young-Jun Goh": "고영준",
+  "Young-Joon Goh": "고영준",
   "Sang-Hyeok Park": "박상혁", // 강원 소속 (성남 소속 동명이인과 별개)
   "Ji-Ho Lee": "이지호",
   "Byeong-Chan Choe": "최병찬",
+  "Byeong-Chan Choi": "최병찬",
 
   // --- Jeju SK (제주 SK) ---
   "Dong-Jun Kim": "김동준",
@@ -259,7 +263,8 @@ const PLAYER_NAME_MAP = {
   "Min-Jun Wang": "왕민준",
   "Sang-Gi Lee": "이상기",
   "Seung-Gu Choi": "최승구",
-  "Myung-Sun Kim": "김명순", // 확인 필요
+  "Myung-Sun Kim": "김명순",
+  "Myung-Soon Kim": "김명순",
   "Yeon-Soo Kim": "김연수", // 인천 소속 (경남 소속 동명이인과 별개)
   "Geon-Hui Kim": "김건희",
   "Kyung-Sub Park": "박경섭",
@@ -270,6 +275,7 @@ const PLAYER_NAME_MAP = {
   "Yong-Hwan Kim": "김용환",
   "Min-Hyeok Lee": "이민혁",
   "Myung-Joo Lee": "이명주",
+  "Myeong-Ju Lee": "이명주",
   "Ji-Hwan Mun": "문지환",
   "Jae-Min Seo": "서재민", // 인천 소속 (수원FC 소속 동명이인과 별개)
   "Young-Whan Kim": "김영환",
@@ -322,6 +328,7 @@ const PLAYER_NAME_MAP = {
   "Moon-Hwan Kim": "김문환",
   "Min-Duk Kim": "김민덕",
   "Seong-Gwon Cho": "조성권",
+  "Sung-Kwon Jo": "조성권",
   "Jong-Eun Lim": "임종은",
   "Chang-Rae Ha": "하창래",
   "Kyu-Hyun Park": "박규현",
@@ -402,6 +409,7 @@ const PLAYER_NAME_MAP = {
   "Yoon-Sung Lee": "이윤성",
   "Seung-Un Ha": "하승운",
   "Sung-Yun Kwon": "권성윤",
+  "Seong-Yun Kwon": "권성윤",
   "Jin-Woo Bae": "배진우",
   "Seok-Hwan Jang": "장석환",
   "Young-Kyu Ahn": "안영규",
@@ -419,6 +427,7 @@ const PLAYER_NAME_MAP = {
   "Gyu-Min Jung": "정규민",
   "Min-Seo Moon": "문민서",
   "Chang-Moo Shin": "신창무",
+  "Chang-Moo Sin": "신창무",
   "Yong-Jun Hong": "홍용준",
   "Ji-Hun Jung": "정지훈",
   "Sung-Hyun Park": "박성현",
@@ -426,6 +435,7 @@ const PLAYER_NAME_MAP = {
   "Hyeok-Joo Ahn": "안혁주",
   "Yun-Ho Kim": "김윤호",
   "Yong-Jick Lee": "이용직",
+  "Yong-Jik Ri": "이용직",
 
   // ===== ⚽ K리그2 =====
 
@@ -518,6 +528,7 @@ const PLAYER_NAME_MAP = {
   "Sun-Woo Park": "박선우",
   "Joo-Hyuk Lee": "이주혁",
   "Joo-Wan Ahn": "안주완",
+  "Ahn Joo-Wan": "안주완",
   "Woo-Bin Kim": "김우빈",
   "Hyun Kim": "김현",
   "Hyeon-Je Kang": "강현제",
@@ -581,6 +592,7 @@ const PLAYER_NAME_MAP = {
 
   // --- Hwaseong FC (화성 FC) ---
   "Seung-Gun Kim": "김승근",
+  "Kim Seung-Gun": "김승근",
   "Ki-Hun Kim": "김기훈",
   "Tae-Jun Kim": "김태준",
   "Eui-Jeong Park": "박의정",
@@ -600,6 +612,7 @@ const PLAYER_NAME_MAP = {
   "Dae-Hwan Kim": "김대환",
   "Yong-hee Jeong": "정용희",
   "Kyung-Min Park": "박경민",
+  "Kyeong-Min Park": "박경민",
   "Ye-Hoon Choi": "최예훈",
   "Seung-Beom Son": "손승범",
   "Byeong-Hun Lim": "임병훈",
@@ -673,6 +686,7 @@ const PLAYER_NAME_MAP = {
   // --- Gyeongnam FC (경남 FC) ---
   "Jun-Seo Shin": "신준서",
   "Ki-Hyun Lee": "이기현",
+  "Gi-Hyeon Lee": "이기현",
   "Ho-Jin An": "안호진",
   "Bum-Soo Lee": "이범수",
   "Tae-Hoon Kim": "김태훈",
@@ -693,8 +707,10 @@ const PLAYER_NAME_MAP = {
   "Hyun-Seo Bae": "배현서",
   "Hyun-Sub Lim": "임현섭",
   "Gi-Pyo Kwon": "권기표",
+  "Ki-Pyo Kwon": "권기표",
   "Jun-Ho Kim": "김준호",
   "Jung-Hyeon Kim": "김정현",
+  "Jeong-Hyun Kim": "김정현",
   "Ha-Min Kim": "김하민",
   "Min-Su Jeon": "전민수",
   "Il-Lok Yun": "윤일록",
@@ -734,6 +750,7 @@ const PLAYER_NAME_MAP = {
   "Jun-Mo Hwang": "황준모",
   "Kyung-Min Yeom": "염경민",
   "Seung-Ik Noh": "노승익",
+  "Noh Seung-Ik": "노승익",
   "Hyun-Tae Kim": "김현태",
   "Min-Yong Sim": "심민용",
   "Hyeon-Byung Jeon": "전현병", // 확인 필요
@@ -745,8 +762,11 @@ const PLAYER_NAME_MAP = {
   "Min-Ki Lee": "이민기", // 파주 소속 (광주 소속 동명이인과 별개)
   "Taek-Geun Lee": "이택근",
   "Bum-Kyung Choi": "최범경",
+  "Beom-Kyung Choi": "최범경",
   "Jeong-Woon Hong": "홍정운",
+  "Jung-Woon Hong": "홍정운",
   "Je-Ho Lee": "이제호",
+  "Jea-Ho Lee": "이제호",
   "Sang-Yoon Choi": "최상윤",
   "Chan-Ho Lee": "이찬호",
   "Dong-Yeol Lee": "이동열",
@@ -755,6 +775,7 @@ const PLAYER_NAME_MAP = {
   "Su-Bin Park": "박수빈", // 파주 소속 (제주 소속 동명이인과 별개)
   "Jae-Jun Yu": "유재준",
   "Joon-Suk Lee": "이준석",
+  "Jun-Seok Lee": "이준석",
   "Won-Rok Choi": "최원록",
   "Jin-Young Sung": "성진영",
   "June-Hyuk Ahn": "안준혁", // 확인 필요 - fotmob 표기 순서 반대
@@ -796,12 +817,15 @@ const PLAYER_NAME_MAP = {
   "Kang-Han Lee": "이강한",
   "Yun-Seong Jo": "조윤성",
   "Ju-Yeong Jo": "조주영",
+  "Ju-Young Jo": "조주영",
   "Suk-Young Yun": "윤석영",
   "Yun-Hwan Kim": "김윤환",
   "Eui-Bin Kang": "강의빈",
   "Chang-Hoon Lee": "이창훈",
   "Keon-Woo Bak": "박건우",
+  "Geon-Woo Park": "박건우",
   "Seon-Min Kim": "김선민",
+  "Sun-Min Kim": "김선민",
   "Seung-Chan Heo": "허승찬",
   "Jin-Woo Jeong": "정진우",
   "Na-Moo Ju": "주나무",
@@ -880,6 +904,7 @@ const PLAYER_NAME_MAP = {
 
   // --- Jeonnam Dragons (전남 드래곤즈) ---
   "Bong-Jin Choi": "최봉진",
+  "Bong Jin Choi": "최봉진",
   "Min-Hyeop Jo": "조민협",
   "Jun-Hee Lee": "이준희",
   "Ju-Yeop Kim": "김주엽",
@@ -941,6 +966,31 @@ const PLAYER_NAME_MAP = {
   "Seung-Jae Lee": "이승재",
   "Je-Wook Woo": "우제욱",
 
+  // ===== 🔄 Surname GivenName 순서 표기 (통합 라인업 위젯, 2026-08 확인) =====
+  // 아산 무궁화 vs 용인 FC 라인업 위젯에서 이름이 "Surname GivenName" 순서로
+  // 나온 게 확인됨(기존 key들은 전부 "GivenName Surname" 순서). 아산 무궁화 쪽
+  // 선수 8명은 충남아산 FC 기존 등록 선수와 이름이 동일함(같은 팀의 다른 표기로 추정).
+  // 외국인 선수(Charles Lokolingoy, Gabriel Tigrão, Jardel)는 매핑 대상 아님.
+  "Shin Song-Hoon": "신송훈", // 아산 무궁화(충남아산FC) — 신규
+  "Byun Jun-Young": "변준영", // 충남아산FC 기존 "Jun-Young Byun"과 동일 인물
+  "Kim Hye-Seong": "김혜성", // 충남아산FC 기존 "Hye-Seong Kim"과 동일 인물 // 확인 필요
+  "Jang Jun-Young": "장준영", // 충남아산FC 기존 "Jun-Young Jang"과 동일 인물
+  "Park Seong-Woo": "박성우", // 충남아산FC 기존 "Seong-Woo Park"과 동일 인물
+  "Jung Se-Jun": "정세준", // 충남아산FC 기존 "Se-Jun Jung"과 동일 인물
+  "Son Jun-Ho": "손준호", // 충남아산FC 기존 "Jun-Ho Son"과 동일 인물
+  "Kim Ju-Sung": "김주성", // 충남아산FC 기존 "Ju-Sung Kim"과 동일 인물
+  "Han Kyo-Won": "한교원", // 충남아산FC 기존 "Kyo-Won Han"과 동일 인물
+  "Park Ju-Young": "박주영", // 충남아산FC 기존 "Ju-Young Park"과 동일 인물 // 확인 필요
+  "Hwang Sung-Min": "황성민", // 용인FC 기존 "Sung-Min Hwang"과 동일 인물
+  "Yu Dong-Gyu": "유동규", // 용인FC 기존 "Dong-Gyu Yu"과 동일 인물
+  "Choi Young-Jun": "최영준", // 용인FC 기존 "Young-Jun Choi"과 동일 인물
+  "Kim Hyeon-Jun": "김현준", // 용인FC 기존 "Hyeon-Jun Kim"과 동일 인물
+  "Kang Sin-Myeong": "강신명", // 용인FC 기존 "Sin-Myeong Kang"과 동일 인물
+  "Kim Han-Gil": "김한길", // 용인FC 기존 "Han-Gil Kim"과 동일 인물
+  "Kim Han-Seo": "김한서", // 용인FC 기존 "Han-Seo Kim"과 동일 인물
+  "Kwak Yun-Ho": "곽윤호", // 용인FC 기존 "Yun-Ho Kwak"과 동일 인물
+  "Kim Jin-Ho": "김진호", // 용인 소속 (김천 소속 동명이인과 별개) — 기존 "Jin-Ho Kim"과 동일 인물
+
   // ===== 🎽 감독 (한국 국적만, K리그1+K리그2) =====
   // 외국인 감독(Jeju SK: Sergio Costa, Chungnam Asan: André, Paju Frontier:
   // Gerard Nus, Cheongju FC: Rui Quinta)은 제외. Seongnam FC, Ansan Greeners는
@@ -952,6 +1002,7 @@ const PLAYER_NAME_MAP = {
   "Jung-Yong Chung": "정정용", // 전북 현대
   "Jung-Yong Jung": "정정용", // 전북 현대
   "Kyeong-Ho Chung": "정경호", // 강원 FC
+  "Kyung-Ho Chung": "정경호", // 강원 FC
   "Tae-Ha Park": "박태하", // 포항 스틸러스
   "Byeong-Hoon Ryu": "류병훈", // FC 안양
   "Jong-Hwan Yoon": "윤정환", // 인천 유나이티드
@@ -960,17 +1011,23 @@ const PLAYER_NAME_MAP = {
   "Seung-jin Joo": "주승진", // 김천 상무
   "Seung-Jin Ju": "주승진", // 김천 상무
   "Jeong-Gyu Lee": "이정규", // 광주 FC
+  "Jeong-Kyu Lee": "이정규", // 광주 FC
   "Jung-Hyo Lee": "이정효", // 수원 삼성 블루윙즈
   "Kun-Ha Park": "박건하", // 수원 FC
   "Do-Kyun Kim": "김도균", // 서울 이랜드 FC
+  "Kim Do-Kyun": "김도균", // 서울 이랜드 FC
   "Sung-Yong Choi": "최성용", // 대구 FC
   "Sung-Hwan Jo": "조성환", // 부산 아이파크
   "Du-Ri Cha": "차두리", // 화성 FC
+  "Cha Du-Ri": "차두리", // 화성 FC
   "Jeong-Woon Ko": "고정운", // 김포 FC
   "Sung-Jae Bae": "배성재", // 경남 FC
+  "Bae Sung-Jae": "배성재", // 경남 FC
   "Yun-Kyum Choi": "최윤겸", // 용인 FC
+  "Choi Yun-Kyum": "최윤겸", // 용인 FC
   "Jin-Sub Park": "박진섭", // 천안 시티 FC
   "Kwan-Sik Lim": "임관식", // 전남 드래곤즈
+  "Lim Kwan-Sik": "임관식", // 전남 드래곤즈
   "Hyun-Joon Son": "손현준", // 김해 FC 2008
 
 };
