@@ -3397,28 +3397,8 @@
     "injuries": {
       "home": [
         {
-          "name": "Efraín Morales",
-          "status": "충돌 부상",
-          "detail": "Early September 2026"
-        },
-        {
           "name": "Frankie Amaya",
           "status": "충돌 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Josh-Duc Nteziryayo",
-          "status": "충돌 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Bode Hidalgo",
-          "status": "근육 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Wiki Carmona",
-          "status": "무릎 부상",
           "detail": "Early September 2026"
         }
       ],
@@ -3427,21 +3407,6 @@
           "name": "Lucas Sanabria",
           "status": "부상",
           "detail": "Late August 2026"
-        },
-        {
-          "name": "Elijah Wynder",
-          "status": "발목 부상",
-          "detail": "Mid September 2026"
-        },
-        {
-          "name": "Riqui Puig",
-          "status": "무릎 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "João Klauss",
-          "status": "발 부상",
-          "detail": "Early September 2026"
         }
       ]
     },
@@ -4793,40 +4758,8 @@
     "date": "2026-08-23T00:30:00.000Z",
     "league": "Major League Soccer",
     "injuries": {
-      "home": [
-        {
-          "name": "Christopher Applewhite",
-          "status": "부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Warren Madrigal",
-          "status": "충돌 부상",
-          "detail": "Early September 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Rudy Camacho",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Jamal Thiaré",
-          "status": "충돌 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Sékou Bangoura",
-          "status": "발목 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Wessam Abou Ali",
-          "status": "무릎 부상",
-          "detail": "Early September 2026"
-        }
-      ]
+      "home": [],
+      "away": []
     },
     "h2h": [
       {
@@ -5206,13 +5139,7 @@
     "date": "2026-08-23T01:00:00.000Z",
     "league": "Major League Soccer",
     "injuries": {
-      "home": [
-        {
-          "name": "Owen Wolff",
-          "status": "발목 부상",
-          "detail": "Unknown"
-        }
-      ],
+      "home": [],
       "away": []
     },
     "h2h": [
@@ -8213,33 +8140,7 @@
     "league": "Eredivisie",
     "injuries": {
       "home": [],
-      "away": [
-        {
-          "name": "Alonzo Engwanda",
-          "status": "햄스트링 부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Oualid Agougil",
-          "status": "무릎 부상",
-          "detail": "A few days"
-        },
-        {
-          "name": "Victor Jensen",
-          "status": "무릎 부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Miliano Jonathans",
-          "status": "무릎 부상",
-          "detail": "A few days"
-        },
-        {
-          "name": "Noah Ohio",
-          "status": "십자 인대 부상",
-          "detail": "Early January 2027"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -15345,355 +15246,709 @@
     }
   },
   {
-    "home": "Newcastle",
-    "away": "Liverpool",
-    "date": "2026-08-23T15:30:00.000Z",
-    "league": "Premier League",
+    "home": "New England",
+    "away": "NYCFC",
+    "date": "2026-08-23T20:30:00.000Z",
+    "league": "Major League Soccer",
     "injuries": {
       "home": [
         {
-          "name": "Dan Burn",
-          "status": "부상",
-          "detail": "Doubtful"
+          "name": "Luca Langoni",
+          "status": "충돌 부상",
+          "detail": "Early September 2026"
         },
         {
-          "name": "Valentino Livramento",
-          "status": "종아리 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Joelinton",
+          "name": "Leonardo Campana",
           "status": "근육 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Ilay Feingold",
+          "status": "충돌 부상",
           "detail": "Early September 2026"
         }
       ],
       "away": [
         {
-          "name": "Vítezslav Jaros",
-          "status": "무릎 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Conor Bradley",
-          "status": "무릎 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Giovanni Leoni",
-          "status": "십자 인대 부상",
+          "name": "Arnau Farnós",
+          "status": "다리 부상",
           "detail": "Early September 2026"
         },
         {
-          "name": "Joseph Gomez",
-          "status": "부상",
-          "detail": "About a week"
+          "name": "Kai Trewin",
+          "status": "다리 부상",
+          "detail": "Mid September 2026"
         },
         {
-          "name": "Stefan Bajcetic",
-          "status": "햄스트링 부상",
-          "detail": "Doubtful"
+          "name": "Aiden O'Neill",
+          "status": "다리 부상",
+          "detail": "Early September 2026"
         },
         {
-          "name": "Hugo Ekitiké",
-          "status": "아킬레스건 부상",
-          "detail": "Early January 2027"
+          "name": "Drew Baiera",
+          "status": "다리 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Alonso Martínez",
+          "status": "다리 부상",
+          "detail": "Mid September 2026"
         }
       ]
     },
     "h2h": [
       {
-        "date": "2026-01-31T20:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
+        "date": "2025-04-19T23:30:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-03-15T23:30:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-08-09T23:30:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-05-25T23:30:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-04-13T23:30:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-06-03T19:30:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-04-01T23:30:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-09-05T00:00:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-07-09T17:00:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
         "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-05-25T23:30:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-12-01T00:30:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-09-11T23:00:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 2,
         "awayScore": 1
       },
       {
-        "date": "2025-08-25T19:00:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
+        "date": "2021-08-28T23:30:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-06-19T23:30:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
         "homeScore": 2,
         "awayScore": 3
       },
       {
-        "date": "2025-03-16T16:30:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
+        "date": "2020-10-11T20:30:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
         "homeScore": 1,
         "awayScore": 2
       },
       {
-        "date": "2025-02-26T20:15:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
+        "date": "2020-09-19T20:30:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-09-03T00:00:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-09-29T21:25:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
         "homeScore": 2,
         "awayScore": 0
       },
       {
-        "date": "2024-12-04T19:30:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
+        "date": "2019-09-07T19:55:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-09-05T23:10:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-03-24T17:40:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-10-15T21:20:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-08-20T22:10:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-05-31T23:35:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-09-11T00:10:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
         "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-07-06T23:40:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-03-26T19:05:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-10-25T21:10:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
+        "homeScore": 1,
         "awayScore": 3
       },
       {
-        "date": "2024-01-01T20:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 4,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-08-27T15:30:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
+        "date": "2015-07-18T23:40:00.000Z",
+        "home": "New England Revolution",
+        "away": "New York City FC",
         "homeScore": 1,
-        "awayScore": 2
+        "awayScore": 0
       },
       {
-        "date": "2023-02-18T17:30:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2022-08-31T19:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
+        "date": "2015-03-15T21:10:00.000Z",
+        "home": "New York City FC",
+        "away": "New England Revolution",
         "homeScore": 2,
-        "awayScore": 1
-      },
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-25T23:30:00.000Z",
+          "home": "New England Revolution",
+          "away": "Atlanta United",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-01T23:30:00.000Z",
+          "home": "CF Montreal",
+          "away": "New England Revolution",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-08T20:30:00.000Z",
+          "home": "New England Revolution",
+          "away": "Houston Dynamo FC",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-15T23:30:00.000Z",
+          "home": "Toronto FC",
+          "away": "New England Revolution",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-19T23:30:00.000Z",
+          "home": "DC United",
+          "away": "New England Revolution",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-06T23:30:00.000Z",
+          "home": "New York City FC",
+          "away": "Santos Laguna",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-09T23:30:00.000Z",
+          "home": "Cruz Azul",
+          "away": "New York City FC",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-13T23:30:00.000Z",
+          "home": "New York City FC",
+          "away": "Necaxa",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-16T22:00:00.000Z",
+          "home": "New York City FC",
+          "away": "Philadelphia Union",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-19T23:30:00.000Z",
+          "home": "FC Cincinnati",
+          "away": "New York City FC",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Matt Turner (GK)|https://images.fotmob.com/image_resources/playerimages/729988.png",
+        "Matt Polster (MF)|https://images.fotmob.com/image_resources/playerimages/621511.png",
+        "Ethan Kohler (DF)|https://images.fotmob.com/image_resources/playerimages/1448104.png",
+        "Mamadou Fofana (DF)|https://images.fotmob.com/image_resources/playerimages/785536.png",
+        "Will Sands (DF)|https://images.fotmob.com/image_resources/playerimages/1338765.png",
+        "Carles Gil (MF)|https://images.fotmob.com/image_resources/playerimages/358289.png",
+        "Jackson Yueill (MF)|https://images.fotmob.com/image_resources/playerimages/825712.png",
+        "Alhassan Yusuf (MF)|https://images.fotmob.com/image_resources/playerimages/955195.png",
+        "Jack Harrison (FW)|https://images.fotmob.com/image_resources/playerimages/751649.png",
+        "Dor Turgeman (FW)|https://images.fotmob.com/image_resources/playerimages/1177306.png",
+        "Peyton Miller (FW)|https://images.fotmob.com/image_resources/playerimages/1473789.png"
+      ],
+      "away": [
+        "Matt Freese (GK)|https://images.fotmob.com/image_resources/playerimages/1026065.png",
+        "Tayvon Gray (DF)|https://images.fotmob.com/image_resources/playerimages/1107250.png",
+        "Maxwell Murray (DF)|https://images.fotmob.com/image_resources/playerimages/1755977.png",
+        "James Sands (MF)|https://images.fotmob.com/image_resources/playerimages/880095.png",
+        "Nico Cavallo (DF)|https://images.fotmob.com/image_resources/playerimages/1720649.png",
+        "Agustín Ojeda (FW)|https://images.fotmob.com/image_resources/playerimages/1345326.png",
+        "Jonathan Shore (MF)|https://images.fotmob.com/image_resources/playerimages/1513255.png",
+        "Andrés Perea (MF)|https://images.fotmob.com/image_resources/playerimages/1041997.png",
+        "Bénie Traoré (FW)|https://images.fotmob.com/image_resources/playerimages/1231770.png",
+        "Nicolás Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/976705.png",
+        "Talles Magno (FW)|https://images.fotmob.com/image_resources/playerimages/1057583.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "4-4-2"
+    },
+    "coach": {
+      "home": "Marko Mitrovic|https://images.fotmob.com/image_resources/playerimages/142232.png",
+      "away": "Pascal Jansen|https://images.fotmob.com/image_resources/playerimages/1213522.png"
+    }
+  },
+  {
+    "home": "Atlanta United",
+    "away": "Sporting KC",
+    "date": "2026-08-23T23:00:00.000Z",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Ajani Fortune",
+          "status": "햄스트링 부상",
+          "detail": "Early September 2026"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
       {
-        "date": "2022-04-30T11:30:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-12-16T20:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
+        "date": "2022-02-27T20:00:00.000Z",
+        "home": "Atlanta United",
+        "away": "Sporting Kansas City",
         "homeScore": 3,
         "awayScore": 1
       },
       {
-        "date": "2021-04-24T11:30:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
+        "date": "2019-05-06T01:20:00.000Z",
+        "home": "Sporting Kansas City",
+        "away": "Atlanta United",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2018-05-09T23:35:00.000Z",
+        "home": "Atlanta United",
+        "away": "Sporting Kansas City",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-08-07T00:20:00.000Z",
+        "home": "Sporting Kansas City",
+        "away": "Atlanta United",
         "homeScore": 1,
         "awayScore": 1
-      },
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-23T00:15:00.000Z",
+          "home": "Charlotte FC",
+          "away": "Atlanta United",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-07-25T23:30:00.000Z",
+          "home": "New England Revolution",
+          "away": "Atlanta United",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-01T23:30:00.000Z",
+          "home": "Philadelphia Union",
+          "away": "Atlanta United",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-15T23:30:00.000Z",
+          "home": "Atlanta United",
+          "away": "Red Bull New York",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-20T00:30:00.000Z",
+          "home": "Minnesota United",
+          "away": "Atlanta United",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-23T00:30:00.000Z",
+          "home": "Sporting Kansas City",
+          "away": "Minnesota United",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-26T02:30:00.000Z",
+          "home": "Los Angeles FC",
+          "away": "Sporting Kansas City",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-02T00:30:00.000Z",
+          "home": "Sporting Kansas City",
+          "away": "Houston Dynamo FC",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-16T01:30:00.000Z",
+          "home": "Colorado Rapids",
+          "away": "Sporting Kansas City",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-20T00:25:00.000Z",
+          "home": "Sporting Kansas City",
+          "away": "St. Louis City",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Lucas Hoyos (GK)|https://images.fotmob.com/image_resources/playerimages/113620.png",
+        "Tomás Jacob (DF)|https://images.fotmob.com/image_resources/playerimages/1308412.png",
+        "Paulo Díaz (DF)|https://images.fotmob.com/image_resources/playerimages/447556.png",
+        "Júnior Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/466214.png",
+        "Elías Báez (DF)|https://images.fotmob.com/image_resources/playerimages/1513339.png",
+        "Cooper Sanchez (MF)|https://images.fotmob.com/image_resources/playerimages/1732500.png",
+        "Adrian Gill (MF)|https://images.fotmob.com/image_resources/playerimages/1830234.png",
+        "Aleksey Miranchuk (FW)|https://images.fotmob.com/image_resources/playerimages/442581.png",
+        "Tristan Muyumba (MF)|https://images.fotmob.com/image_resources/playerimages/769928.png",
+        "Miguel Almirón (FW)|https://images.fotmob.com/image_resources/playerimages/442277.png",
+        "Fabrice Picault (FW)|https://images.fotmob.com/image_resources/playerimages/580600.png"
+      ],
+      "away": [
+        "Stefan Cleveland (GK)|https://images.fotmob.com/image_resources/playerimages/846521.png",
+        "Jacob Davis (DF)|https://images.fotmob.com/image_resources/playerimages/1082905.png",
+        "Moisés Mosquera (DF)|https://images.fotmob.com/image_resources/playerimages/1187762.png",
+        "Wyatt Meyer (DF)|https://images.fotmob.com/image_resources/playerimages/1600922.png",
+        "Emir Karic (DF)|https://images.fotmob.com/image_resources/playerimages/642153.png",
+        "Capita (FW)|https://images.fotmob.com/image_resources/playerimages/1187420.png",
+        "Lasse Berg Johnsen (MF)|https://images.fotmob.com/image_resources/playerimages/1035206.png",
+        "Zorhan Bassong (MF)|https://images.fotmob.com/image_resources/playerimages/1023070.png",
+        "Calvin Harris (FW)|https://images.fotmob.com/image_resources/playerimages/1244938.png",
+        "Magomed-Shapi Suleymanov (MF)|https://images.fotmob.com/image_resources/playerimages/861720.png",
+        "Taylor Calheira (FW)|https://images.fotmob.com/image_resources/playerimages/1625713.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-4-2"
+    },
+    "coach": {
+      "home": "Gerardo Martino|https://images.fotmob.com/image_resources/playerimages/80651.png",
+      "away": "Raphael Wicky|https://images.fotmob.com/image_resources/playerimages/30705.png"
+    }
+  },
+  {
+    "home": "Düsseldorf",
+    "away": "Freiburg",
+    "date": "2026-08-23T16:00:00.000Z",
+    "league": "DFB Pokal",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Rihito Yamamoto",
+          "status": "부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Berkay Yilmaz",
+          "status": "병",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Karl Steinmann",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Florent Muslija",
+          "status": "십자 인대 부상",
+          "detail": "Late December 2026"
+        }
+      ]
+    },
+    "h2h": [
       {
-        "date": "2020-12-30T20:00:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-07-26T15:00:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
+        "date": "2025-10-29T19:45:00.000Z",
+        "home": "Fortuna Düsseldorf",
+        "away": "Freiburg",
         "homeScore": 1,
         "awayScore": 3
       },
       {
-        "date": "2019-09-14T11:30:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-05-04T18:45:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2018-12-26T15:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-03-03T17:30:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-10-01T15:30:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-04-23T14:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-12-06T16:00:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-04-13T19:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-11-01T12:45:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-05-11T14:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-10-19T11:45:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-04-27T16:30:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
+        "date": "2020-02-22T14:30:00.000Z",
+        "home": "Freiburg",
+        "away": "Fortuna Düsseldorf",
         "homeScore": 0,
-        "awayScore": 6
+        "awayScore": 2
       },
       {
-        "date": "2012-11-04T16:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
+        "date": "2019-09-29T13:30:00.000Z",
+        "home": "Fortuna Düsseldorf",
+        "away": "Freiburg",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-05-05T13:30:00.000Z",
+        "home": "Freiburg",
+        "away": "Fortuna Düsseldorf",
         "homeScore": 1,
         "awayScore": 1
       },
       {
-        "date": "2012-04-01T12:30:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
+        "date": "2018-12-15T14:30:00.000Z",
+        "home": "Fortuna Düsseldorf",
+        "away": "Freiburg",
         "homeScore": 2,
         "awayScore": 0
       },
       {
-        "date": "2011-12-30T19:45:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 3,
-        "awayScore": 1
+        "date": "2016-02-14T12:30:00.000Z",
+        "home": "Freiburg",
+        "away": "Fortuna Düsseldorf",
+        "homeScore": 1,
+        "awayScore": 2
       },
       {
-        "date": "2011-05-01T11:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Newcastle United",
-        "homeScore": 3,
+        "date": "2015-08-22T11:05:00.000Z",
+        "home": "Fortuna Düsseldorf",
+        "away": "Freiburg",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-02-10T16:30:00.000Z",
+        "home": "Freiburg",
+        "away": "Fortuna Düsseldorf",
+        "homeScore": 1,
         "awayScore": 0
       },
       {
-        "date": "2010-12-11T17:30:00.000Z",
-        "home": "Newcastle United",
-        "away": "Liverpool",
-        "homeScore": 3,
-        "awayScore": 1
+        "date": "2012-09-22T13:30:00.000Z",
+        "home": "Fortuna Düsseldorf",
+        "away": "Freiburg",
+        "homeScore": 0,
+        "awayScore": 0
       }
     ],
     "recent": {
       "home": [],
       "away": [
         {
-          "date": "2026-07-29T23:30:00.000Z",
-          "home": "Liverpool",
-          "away": "Wrexham",
-          "homeScore": 1,
-          "awayScore": 0
+          "date": "2026-05-16T13:30:00.000Z",
+          "home": "Freiburg",
+          "away": "RB Leipzig",
+          "homeScore": 4,
+          "awayScore": 1
         },
         {
-          "date": "2026-08-02T20:00:00.000Z",
-          "home": "Liverpool",
-          "away": "Leeds United",
-          "homeScore": 2,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-08-09T13:30:00.000Z",
-          "home": "Liverpool",
-          "away": "Monaco",
-          "homeScore": 2,
+          "date": "2026-05-20T19:00:00.000Z",
+          "home": "Freiburg",
+          "away": "Aston Villa",
+          "homeScore": 0,
           "awayScore": 3
         },
         {
-          "date": "2026-08-16T10:30:00.000Z",
-          "home": "Liverpool",
-          "away": "Como",
-          "homeScore": 0,
+          "date": "2026-08-08T13:30:00.000Z",
+          "home": "Freiburg",
+          "away": "Strasbourg",
+          "homeScore": 2,
           "awayScore": 0
         },
         {
-          "date": "2026-08-16T17:00:00.000Z",
-          "home": "Liverpool",
-          "away": "Como",
-          "homeScore": 2,
+          "date": "2026-08-15T12:00:00.000Z",
+          "home": "Freiburg",
+          "away": "Crystal Palace",
+          "homeScore": 3,
           "awayScore": 0
+        },
+        {
+          "date": "2026-08-20T18:30:00.000Z",
+          "home": "Motherwell",
+          "away": "Freiburg",
+          "homeScore": 1,
+          "awayScore": 3
         }
       ]
     },
     "lineup": {
       "home": [
-        "Lukás Hornícek (GK)|https://images.fotmob.com/image_resources/playerimages/1186978.png",
-        "Amar Dedic (DF)|https://images.fotmob.com/image_resources/playerimages/958010.png",
-        "Malick Thiaw (DF)|https://images.fotmob.com/image_resources/playerimages/1137407.png",
-        "Sven Botman (DF)|https://images.fotmob.com/image_resources/playerimages/956682.png",
-        "Lewis Hall (DF)|https://images.fotmob.com/image_resources/playerimages/1197655.png",
-        "Sean Steur (MF)|https://images.fotmob.com/image_resources/playerimages/1643770.png",
-        "Lewis Miley (MF)|https://images.fotmob.com/image_resources/playerimages/1296763.png",
-        "Anthony Elanga (FW)|https://images.fotmob.com/image_resources/playerimages/1050166.png",
-        "Yoane Wissa (FW)|https://images.fotmob.com/image_resources/playerimages/666857.png",
-        "Harvey Barnes (FW)|https://images.fotmob.com/image_resources/playerimages/760359.png",
-        "William Osula (FW)|https://images.fotmob.com/image_resources/playerimages/1258092.png"
+        "Louis Lord (GK)|https://images.fotmob.com/image_resources/playerimages/1390245.png",
+        "Tim Oberdorf (DF)|https://images.fotmob.com/image_resources/playerimages/1083322.png",
+        "Marcel Benger (DF)|https://images.fotmob.com/image_resources/playerimages/865970.png",
+        "Dominique Heintz (DF)|https://images.fotmob.com/image_resources/playerimages/303800.png",
+        "Matthias Zimmermann (DF)|https://images.fotmob.com/image_resources/playerimages/182893.png",
+        "Sascha Risch (DF)|https://images.fotmob.com/image_resources/playerimages/1263671.png",
+        "Yassine Bouchama (MF)|https://images.fotmob.com/image_resources/playerimages/1292582.png",
+        "Andreas Müller (MF)|https://images.fotmob.com/image_resources/playerimages/1185509.png",
+        "Jorrit Hendrix (MF)|https://images.fotmob.com/image_resources/playerimages/467495.png",
+        "Fabian Schleusener (FW)|https://images.fotmob.com/image_resources/playerimages/686112.png",
+        "Eric Hottmann (FW)|https://images.fotmob.com/image_resources/playerimages/846014.png"
       ],
       "away": [
-        "Alisson Becker (GK)|https://images.fotmob.com/image_resources/playerimages/319784.png",
-        "Jeremie Frimpong (DF)|https://images.fotmob.com/image_resources/playerimages/966018.png",
-        "Jérémy Jacquet (DF)|https://images.fotmob.com/image_resources/playerimages/1473534.png",
-        "Virgil van Dijk (DF)|https://images.fotmob.com/image_resources/playerimages/209405.png",
-        "Milos Kerkez (DF)|https://images.fotmob.com/image_resources/playerimages/1195281.png",
-        "Ryan Gravenberch (MF)|https://images.fotmob.com/image_resources/playerimages/956683.png",
-        "Dominik Szoboszlai (MF)|https://images.fotmob.com/image_resources/playerimages/846005.png",
-        "Rio Ngumoha (FW)|https://images.fotmob.com/image_resources/playerimages/1597668.png",
-        "Florian Wirtz (FW)|https://images.fotmob.com/image_resources/playerimages/1152455.png",
-        "Cody Gakpo (FW)|https://images.fotmob.com/image_resources/playerimages/806552.png",
-        "Alexander Isak (FW)|https://images.fotmob.com/image_resources/playerimages/690107.png"
+        "Mio Backhaus (GK)|https://images.fotmob.com/image_resources/playerimages/1352996.png",
+        "Lukas Kübler (DF)|https://images.fotmob.com/image_resources/playerimages/307209.png",
+        "Matthias Ginter (DF)|https://images.fotmob.com/image_resources/playerimages/303912.png",
+        "Philipp Lienhart (DF)|https://images.fotmob.com/image_resources/playerimages/643724.png",
+        "Jordy Makengo (DF)|https://images.fotmob.com/image_resources/playerimages/1281108.png",
+        "Patrick Osterhage (MF)|https://images.fotmob.com/image_resources/playerimages/1075815.png",
+        "Maximilian Eggestein (MF)|https://images.fotmob.com/image_resources/playerimages/602523.png",
+        "Jan-Niklas Beste (FW)|https://images.fotmob.com/image_resources/playerimages/864157.png",
+        "Yuito Suzuki (MF)|https://images.fotmob.com/image_resources/playerimages/1134467.png",
+        "Vincenzo Grifo (FW)|https://images.fotmob.com/image_resources/playerimages/400625.png",
+        "Lucas Höler (FW)|https://images.fotmob.com/image_resources/playerimages/556524.png"
       ]
     },
     "formation": {
-      "home": "4-2-3-1",
+      "home": "5-3-2",
       "away": "4-2-3-1"
     },
     "coach": {
-      "home": "Matthias Jaissle|https://images.fotmob.com/image_resources/playerimages/59582.png",
-      "away": "Andoni Iraola|https://images.fotmob.com/image_resources/playerimages/33025.png"
+      "home": null,
+      "away": null
     }
   },
   {
@@ -17119,537 +17374,355 @@
     }
   },
   {
-    "home": "New England",
-    "away": "NYCFC",
-    "date": "2026-08-23T20:30:00.000Z",
-    "league": "Major League Soccer",
+    "home": "Newcastle",
+    "away": "Liverpool",
+    "date": "2026-08-23T15:30:00.000Z",
+    "league": "Premier League",
     "injuries": {
       "home": [
         {
-          "name": "Luca Langoni",
-          "status": "충돌 부상",
-          "detail": "Early September 2026"
+          "name": "Dan Burn",
+          "status": "부상",
+          "detail": "Doubtful"
         },
         {
-          "name": "Leonardo Campana",
+          "name": "Valentino Livramento",
+          "status": "종아리 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Joelinton",
           "status": "근육 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Ilay Feingold",
-          "status": "충돌 부상",
           "detail": "Early September 2026"
         }
       ],
       "away": [
         {
-          "name": "Arnau Farnós",
-          "status": "다리 부상",
+          "name": "Vítezslav Jaros",
+          "status": "무릎 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Conor Bradley",
+          "status": "무릎 부상",
+          "detail": "Late September 2026"
+        },
+        {
+          "name": "Giovanni Leoni",
+          "status": "십자 인대 부상",
           "detail": "Early September 2026"
         },
         {
-          "name": "Kai Trewin",
-          "status": "다리 부상",
-          "detail": "Mid September 2026"
+          "name": "Joseph Gomez",
+          "status": "부상",
+          "detail": "About a week"
         },
         {
-          "name": "Aiden O'Neill",
-          "status": "다리 부상",
-          "detail": "Early September 2026"
+          "name": "Stefan Bajcetic",
+          "status": "햄스트링 부상",
+          "detail": "Doubtful"
         },
         {
-          "name": "Drew Baiera",
-          "status": "다리 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Alonso Martínez",
-          "status": "다리 부상",
-          "detail": "Mid September 2026"
+          "name": "Hugo Ekitiké",
+          "status": "아킬레스건 부상",
+          "detail": "Early January 2027"
         }
       ]
     },
     "h2h": [
       {
-        "date": "2025-04-19T23:30:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-03-15T23:30:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
-        "homeScore": 2,
+        "date": "2026-01-31T20:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 4,
         "awayScore": 1
       },
       {
-        "date": "2024-08-09T23:30:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
+        "date": "2025-08-25T19:00:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2025-03-16T16:30:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
         "homeScore": 1,
-        "awayScore": 1
+        "awayScore": 2
       },
       {
-        "date": "2024-05-25T23:30:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-04-13T23:30:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
+        "date": "2025-02-26T20:15:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
         "homeScore": 2,
         "awayScore": 0
       },
       {
-        "date": "2023-06-03T19:30:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2023-04-01T23:30:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-09-05T00:00:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
+        "date": "2024-12-04T19:30:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
         "homeScore": 3,
-        "awayScore": 0
+        "awayScore": 3
       },
       {
-        "date": "2022-07-09T17:00:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
+        "date": "2024-01-01T20:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
         "homeScore": 4,
         "awayScore": 2
       },
       {
-        "date": "2022-05-25T23:30:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-12-01T00:30:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2021-09-11T23:00:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-08-28T23:30:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-06-19T23:30:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2020-10-11T20:30:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
+        "date": "2023-08-27T15:30:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
         "homeScore": 1,
         "awayScore": 2
       },
       {
-        "date": "2020-09-19T20:30:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-09-03T00:00:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
+        "date": "2023-02-18T17:30:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
         "homeScore": 0,
         "awayScore": 2
       },
       {
-        "date": "2019-09-29T21:25:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-09-07T19:55:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
+        "date": "2022-08-31T19:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
         "homeScore": 2,
         "awayScore": 1
       },
       {
-        "date": "2018-09-05T23:10:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
+        "date": "2022-04-30T11:30:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
         "homeScore": 0,
         "awayScore": 1
       },
       {
-        "date": "2018-03-24T17:40:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-10-15T21:20:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-08-20T22:10:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-05-31T23:35:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-09-11T00:10:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
+        "date": "2021-12-16T20:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
         "homeScore": 3,
         "awayScore": 1
       },
       {
-        "date": "2016-07-06T23:40:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-03-26T19:05:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
+        "date": "2021-04-24T11:30:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
         "homeScore": 1,
         "awayScore": 1
       },
       {
-        "date": "2015-10-25T21:10:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
+        "date": "2020-12-30T20:00:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-07-26T15:00:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
         "homeScore": 1,
         "awayScore": 3
       },
       {
-        "date": "2015-07-18T23:40:00.000Z",
-        "home": "New England Revolution",
-        "away": "New York City FC",
+        "date": "2019-09-14T11:30:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-05-04T18:45:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2018-12-26T15:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-03-03T17:30:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-10-01T15:30:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-04-23T14:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-12-06T16:00:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-04-13T19:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-11-01T12:45:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
         "homeScore": 1,
         "awayScore": 0
       },
       {
-        "date": "2015-03-15T21:10:00.000Z",
-        "home": "New York City FC",
-        "away": "New England Revolution",
+        "date": "2014-05-11T14:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-10-19T11:45:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-04-27T16:30:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
+        "homeScore": 0,
+        "awayScore": 6
+      },
+      {
+        "date": "2012-11-04T16:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-04-01T12:30:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
         "homeScore": 2,
         "awayScore": 0
+      },
+      {
+        "date": "2011-12-30T19:45:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2011-05-01T11:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Newcastle United",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2010-12-11T17:30:00.000Z",
+        "home": "Newcastle United",
+        "away": "Liverpool",
+        "homeScore": 3,
+        "awayScore": 1
       }
     ],
     "recent": {
-      "home": [
-        {
-          "date": "2026-07-25T23:30:00.000Z",
-          "home": "New England Revolution",
-          "away": "Atlanta United",
-          "homeScore": 4,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-01T23:30:00.000Z",
-          "home": "CF Montreal",
-          "away": "New England Revolution",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-08T20:30:00.000Z",
-          "home": "New England Revolution",
-          "away": "Houston Dynamo FC",
-          "homeScore": 0,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-15T23:30:00.000Z",
-          "home": "Toronto FC",
-          "away": "New England Revolution",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-19T23:30:00.000Z",
-          "home": "DC United",
-          "away": "New England Revolution",
-          "homeScore": 0,
-          "awayScore": 3
-        }
-      ],
+      "home": [],
       "away": [
         {
-          "date": "2026-08-06T23:30:00.000Z",
-          "home": "New York City FC",
-          "away": "Santos Laguna",
-          "homeScore": 2,
+          "date": "2026-07-29T23:30:00.000Z",
+          "home": "Liverpool",
+          "away": "Wrexham",
+          "homeScore": 1,
           "awayScore": 0
         },
         {
-          "date": "2026-08-09T23:30:00.000Z",
-          "home": "Cruz Azul",
-          "away": "New York City FC",
+          "date": "2026-08-02T20:00:00.000Z",
+          "home": "Liverpool",
+          "away": "Leeds United",
           "homeScore": 2,
-          "awayScore": 1
+          "awayScore": 4
         },
         {
-          "date": "2026-08-13T23:30:00.000Z",
-          "home": "New York City FC",
-          "away": "Necaxa",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-16T22:00:00.000Z",
-          "home": "New York City FC",
-          "away": "Philadelphia Union",
+          "date": "2026-08-09T13:30:00.000Z",
+          "home": "Liverpool",
+          "away": "Monaco",
           "homeScore": 2,
           "awayScore": 3
         },
         {
-          "date": "2026-08-19T23:30:00.000Z",
-          "home": "FC Cincinnati",
-          "away": "New York City FC",
+          "date": "2026-08-16T10:30:00.000Z",
+          "home": "Liverpool",
+          "away": "Como",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-16T17:00:00.000Z",
+          "home": "Liverpool",
+          "away": "Como",
           "homeScore": 2,
-          "awayScore": 1
+          "awayScore": 0
         }
       ]
     },
     "lineup": {
       "home": [
-        "Matt Turner (GK)|https://images.fotmob.com/image_resources/playerimages/729988.png",
-        "Matt Polster (MF)|https://images.fotmob.com/image_resources/playerimages/621511.png",
-        "Ethan Kohler (DF)|https://images.fotmob.com/image_resources/playerimages/1448104.png",
-        "Mamadou Fofana (DF)|https://images.fotmob.com/image_resources/playerimages/785536.png",
-        "Will Sands (DF)|https://images.fotmob.com/image_resources/playerimages/1338765.png",
-        "Carles Gil (MF)|https://images.fotmob.com/image_resources/playerimages/358289.png",
-        "Jackson Yueill (MF)|https://images.fotmob.com/image_resources/playerimages/825712.png",
-        "Alhassan Yusuf (MF)|https://images.fotmob.com/image_resources/playerimages/955195.png",
-        "Jack Harrison (FW)|https://images.fotmob.com/image_resources/playerimages/751649.png",
-        "Dor Turgeman (FW)|https://images.fotmob.com/image_resources/playerimages/1177306.png",
-        "Peyton Miller (FW)|https://images.fotmob.com/image_resources/playerimages/1473789.png"
+        "Lukás Hornícek (GK)|https://images.fotmob.com/image_resources/playerimages/1186978.png",
+        "Amar Dedic (DF)|https://images.fotmob.com/image_resources/playerimages/958010.png",
+        "Malick Thiaw (DF)|https://images.fotmob.com/image_resources/playerimages/1137407.png",
+        "Sven Botman (DF)|https://images.fotmob.com/image_resources/playerimages/956682.png",
+        "Lewis Hall (DF)|https://images.fotmob.com/image_resources/playerimages/1197655.png",
+        "Sean Steur (MF)|https://images.fotmob.com/image_resources/playerimages/1643770.png",
+        "Lewis Miley (MF)|https://images.fotmob.com/image_resources/playerimages/1296763.png",
+        "Anthony Elanga (FW)|https://images.fotmob.com/image_resources/playerimages/1050166.png",
+        "Yoane Wissa (FW)|https://images.fotmob.com/image_resources/playerimages/666857.png",
+        "Harvey Barnes (FW)|https://images.fotmob.com/image_resources/playerimages/760359.png",
+        "William Osula (FW)|https://images.fotmob.com/image_resources/playerimages/1258092.png"
       ],
       "away": [
-        "Matt Freese (GK)|https://images.fotmob.com/image_resources/playerimages/1026065.png",
-        "Tayvon Gray (DF)|https://images.fotmob.com/image_resources/playerimages/1107250.png",
-        "Maxwell Murray (DF)|https://images.fotmob.com/image_resources/playerimages/1755977.png",
-        "James Sands (MF)|https://images.fotmob.com/image_resources/playerimages/880095.png",
-        "Nico Cavallo (DF)|https://images.fotmob.com/image_resources/playerimages/1720649.png",
-        "Agustín Ojeda (FW)|https://images.fotmob.com/image_resources/playerimages/1345326.png",
-        "Jonathan Shore (MF)|https://images.fotmob.com/image_resources/playerimages/1513255.png",
-        "Andrés Perea (MF)|https://images.fotmob.com/image_resources/playerimages/1041997.png",
-        "Bénie Traoré (FW)|https://images.fotmob.com/image_resources/playerimages/1231770.png",
-        "Nicolás Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/976705.png",
-        "Talles Magno (FW)|https://images.fotmob.com/image_resources/playerimages/1057583.png"
-      ]
-    },
-    "formation": {
-      "home": "4-3-3",
-      "away": "4-4-2"
-    },
-    "coach": {
-      "home": "Marko Mitrovic|https://images.fotmob.com/image_resources/playerimages/142232.png",
-      "away": "Pascal Jansen|https://images.fotmob.com/image_resources/playerimages/1213522.png"
-    }
-  },
-  {
-    "home": "Atlanta United",
-    "away": "Sporting KC",
-    "date": "2026-08-23T23:00:00.000Z",
-    "league": "Major League Soccer",
-    "injuries": {
-      "home": [
-        {
-          "name": "Ajani Fortune",
-          "status": "햄스트링 부상",
-          "detail": "Early September 2026"
-        }
-      ],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2022-02-27T20:00:00.000Z",
-        "home": "Atlanta United",
-        "away": "Sporting Kansas City",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-05-06T01:20:00.000Z",
-        "home": "Sporting Kansas City",
-        "away": "Atlanta United",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2018-05-09T23:35:00.000Z",
-        "home": "Atlanta United",
-        "away": "Sporting Kansas City",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-08-07T00:20:00.000Z",
-        "home": "Sporting Kansas City",
-        "away": "Atlanta United",
-        "homeScore": 1,
-        "awayScore": 1
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-07-23T00:15:00.000Z",
-          "home": "Charlotte FC",
-          "away": "Atlanta United",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-07-25T23:30:00.000Z",
-          "home": "New England Revolution",
-          "away": "Atlanta United",
-          "homeScore": 4,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-01T23:30:00.000Z",
-          "home": "Philadelphia Union",
-          "away": "Atlanta United",
-          "homeScore": 3,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-15T23:30:00.000Z",
-          "home": "Atlanta United",
-          "away": "Red Bull New York",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-20T00:30:00.000Z",
-          "home": "Minnesota United",
-          "away": "Atlanta United",
-          "homeScore": 1,
-          "awayScore": 2
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-07-23T00:30:00.000Z",
-          "home": "Sporting Kansas City",
-          "away": "Minnesota United",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-07-26T02:30:00.000Z",
-          "home": "Los Angeles FC",
-          "away": "Sporting Kansas City",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-02T00:30:00.000Z",
-          "home": "Sporting Kansas City",
-          "away": "Houston Dynamo FC",
-          "homeScore": 0,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-16T01:30:00.000Z",
-          "home": "Colorado Rapids",
-          "away": "Sporting Kansas City",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-20T00:25:00.000Z",
-          "home": "Sporting Kansas City",
-          "away": "St. Louis City",
-          "homeScore": 1,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Lucas Hoyos (GK)|https://images.fotmob.com/image_resources/playerimages/113620.png",
-        "Tomás Jacob (DF)|https://images.fotmob.com/image_resources/playerimages/1308412.png",
-        "Paulo Díaz (DF)|https://images.fotmob.com/image_resources/playerimages/447556.png",
-        "Júnior Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/466214.png",
-        "Elías Báez (DF)|https://images.fotmob.com/image_resources/playerimages/1513339.png",
-        "Cooper Sanchez (MF)|https://images.fotmob.com/image_resources/playerimages/1732500.png",
-        "Adrian Gill (MF)|https://images.fotmob.com/image_resources/playerimages/1830234.png",
-        "Aleksey Miranchuk (FW)|https://images.fotmob.com/image_resources/playerimages/442581.png",
-        "Tristan Muyumba (MF)|https://images.fotmob.com/image_resources/playerimages/769928.png",
-        "Miguel Almirón (FW)|https://images.fotmob.com/image_resources/playerimages/442277.png",
-        "Fabrice Picault (FW)|https://images.fotmob.com/image_resources/playerimages/580600.png"
-      ],
-      "away": [
-        "Stefan Cleveland (GK)|https://images.fotmob.com/image_resources/playerimages/846521.png",
-        "Jacob Davis (DF)|https://images.fotmob.com/image_resources/playerimages/1082905.png",
-        "Moisés Mosquera (DF)|https://images.fotmob.com/image_resources/playerimages/1187762.png",
-        "Wyatt Meyer (DF)|https://images.fotmob.com/image_resources/playerimages/1600922.png",
-        "Emir Karic (DF)|https://images.fotmob.com/image_resources/playerimages/642153.png",
-        "Capita (FW)|https://images.fotmob.com/image_resources/playerimages/1187420.png",
-        "Lasse Berg Johnsen (MF)|https://images.fotmob.com/image_resources/playerimages/1035206.png",
-        "Zorhan Bassong (MF)|https://images.fotmob.com/image_resources/playerimages/1023070.png",
-        "Calvin Harris (FW)|https://images.fotmob.com/image_resources/playerimages/1244938.png",
-        "Magomed-Shapi Suleymanov (MF)|https://images.fotmob.com/image_resources/playerimages/861720.png",
-        "Taylor Calheira (FW)|https://images.fotmob.com/image_resources/playerimages/1625713.png"
+        "Alisson Becker (GK)|https://images.fotmob.com/image_resources/playerimages/319784.png",
+        "Jeremie Frimpong (DF)|https://images.fotmob.com/image_resources/playerimages/966018.png",
+        "Jérémy Jacquet (DF)|https://images.fotmob.com/image_resources/playerimages/1473534.png",
+        "Virgil van Dijk (DF)|https://images.fotmob.com/image_resources/playerimages/209405.png",
+        "Milos Kerkez (DF)|https://images.fotmob.com/image_resources/playerimages/1195281.png",
+        "Ryan Gravenberch (MF)|https://images.fotmob.com/image_resources/playerimages/956683.png",
+        "Dominik Szoboszlai (MF)|https://images.fotmob.com/image_resources/playerimages/846005.png",
+        "Rio Ngumoha (FW)|https://images.fotmob.com/image_resources/playerimages/1597668.png",
+        "Florian Wirtz (FW)|https://images.fotmob.com/image_resources/playerimages/1152455.png",
+        "Cody Gakpo (FW)|https://images.fotmob.com/image_resources/playerimages/806552.png",
+        "Alexander Isak (FW)|https://images.fotmob.com/image_resources/playerimages/690107.png"
       ]
     },
     "formation": {
       "home": "4-2-3-1",
-      "away": "4-4-2"
+      "away": "4-2-3-1"
     },
     "coach": {
-      "home": "Gerardo Martino|https://images.fotmob.com/image_resources/playerimages/80651.png",
-      "away": "Raphael Wicky|https://images.fotmob.com/image_resources/playerimages/30705.png"
+      "home": "Matthias Jaissle|https://images.fotmob.com/image_resources/playerimages/59582.png",
+      "away": "Andoni Iraola|https://images.fotmob.com/image_resources/playerimages/33025.png"
     }
   },
   {
@@ -18776,178 +18849,6 @@
     "coach": {
       "home": "Ignazio Abate|https://images.fotmob.com/image_resources/playerimages/39555.png",
       "away": "Ruben Amorim|https://images.fotmob.com/image_resources/playerimages/11754.png"
-    }
-  },
-  {
-    "home": "Düsseldorf",
-    "away": "Freiburg",
-    "date": "2026-08-23T16:00:00.000Z",
-    "league": "DFB Pokal",
-    "injuries": {
-      "home": [],
-      "away": [
-        {
-          "name": "Rihito Yamamoto",
-          "status": "부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Berkay Yilmaz",
-          "status": "병",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Karl Steinmann",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Florent Muslija",
-          "status": "십자 인대 부상",
-          "detail": "Late December 2026"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2025-10-29T19:45:00.000Z",
-        "home": "Fortuna Düsseldorf",
-        "away": "Freiburg",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2020-02-22T14:30:00.000Z",
-        "home": "Freiburg",
-        "away": "Fortuna Düsseldorf",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2019-09-29T13:30:00.000Z",
-        "home": "Fortuna Düsseldorf",
-        "away": "Freiburg",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2019-05-05T13:30:00.000Z",
-        "home": "Freiburg",
-        "away": "Fortuna Düsseldorf",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-12-15T14:30:00.000Z",
-        "home": "Fortuna Düsseldorf",
-        "away": "Freiburg",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-02-14T12:30:00.000Z",
-        "home": "Freiburg",
-        "away": "Fortuna Düsseldorf",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-08-22T11:05:00.000Z",
-        "home": "Fortuna Düsseldorf",
-        "away": "Freiburg",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-02-10T16:30:00.000Z",
-        "home": "Freiburg",
-        "away": "Fortuna Düsseldorf",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-09-22T13:30:00.000Z",
-        "home": "Fortuna Düsseldorf",
-        "away": "Freiburg",
-        "homeScore": 0,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [],
-      "away": [
-        {
-          "date": "2026-05-16T13:30:00.000Z",
-          "home": "Freiburg",
-          "away": "RB Leipzig",
-          "homeScore": 4,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-20T19:00:00.000Z",
-          "home": "Freiburg",
-          "away": "Aston Villa",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-08T13:30:00.000Z",
-          "home": "Freiburg",
-          "away": "Strasbourg",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-15T12:00:00.000Z",
-          "home": "Freiburg",
-          "away": "Crystal Palace",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-20T18:30:00.000Z",
-          "home": "Motherwell",
-          "away": "Freiburg",
-          "homeScore": 1,
-          "awayScore": 3
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Louis Lord (GK)|https://images.fotmob.com/image_resources/playerimages/1390245.png",
-        "Tim Oberdorf (DF)|https://images.fotmob.com/image_resources/playerimages/1083322.png",
-        "Marcel Benger (DF)|https://images.fotmob.com/image_resources/playerimages/865970.png",
-        "Dominique Heintz (DF)|https://images.fotmob.com/image_resources/playerimages/303800.png",
-        "Matthias Zimmermann (DF)|https://images.fotmob.com/image_resources/playerimages/182893.png",
-        "Sascha Risch (DF)|https://images.fotmob.com/image_resources/playerimages/1263671.png",
-        "Yassine Bouchama (MF)|https://images.fotmob.com/image_resources/playerimages/1292582.png",
-        "Andreas Müller (MF)|https://images.fotmob.com/image_resources/playerimages/1185509.png",
-        "Jorrit Hendrix (MF)|https://images.fotmob.com/image_resources/playerimages/467495.png",
-        "Fabian Schleusener (FW)|https://images.fotmob.com/image_resources/playerimages/686112.png",
-        "Eric Hottmann (FW)|https://images.fotmob.com/image_resources/playerimages/846014.png"
-      ],
-      "away": [
-        "Mio Backhaus (GK)|https://images.fotmob.com/image_resources/playerimages/1352996.png",
-        "Lukas Kübler (DF)|https://images.fotmob.com/image_resources/playerimages/307209.png",
-        "Matthias Ginter (DF)|https://images.fotmob.com/image_resources/playerimages/303912.png",
-        "Philipp Lienhart (DF)|https://images.fotmob.com/image_resources/playerimages/643724.png",
-        "Jordy Makengo (DF)|https://images.fotmob.com/image_resources/playerimages/1281108.png",
-        "Patrick Osterhage (MF)|https://images.fotmob.com/image_resources/playerimages/1075815.png",
-        "Maximilian Eggestein (MF)|https://images.fotmob.com/image_resources/playerimages/602523.png",
-        "Jan-Niklas Beste (FW)|https://images.fotmob.com/image_resources/playerimages/864157.png",
-        "Yuito Suzuki (MF)|https://images.fotmob.com/image_resources/playerimages/1134467.png",
-        "Vincenzo Grifo (FW)|https://images.fotmob.com/image_resources/playerimages/400625.png",
-        "Lucas Höler (FW)|https://images.fotmob.com/image_resources/playerimages/556524.png"
-      ]
-    },
-    "formation": {
-      "home": "5-3-2",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": null,
-      "away": null
     }
   },
   {
@@ -22474,7 +22375,7 @@
     "lineup": {
       "home": [
         "Dong-Jun Kim (GK)|https://images.fotmob.com/image_resources/playerimages/533182.png",
-        "Min-Jae Park (FW)|https://images.fotmob.com/image_resources/playerimages/1910260.png",
+        "Min-Jae Park (DF)|https://images.fotmob.com/image_resources/playerimages/1910260.png",
         "Tobias Figueiredo (DF)|https://images.fotmob.com/image_resources/playerimages/361326.png",
         "Julien Célestine (DF)|https://images.fotmob.com/image_resources/playerimages/862643.png",
         "Woon Jeong (DF)|https://images.fotmob.com/image_resources/playerimages/430453.png",
@@ -22487,7 +22388,7 @@
       ],
       "away": [
         "Sung-Min Hong (GK)|https://images.fotmob.com/image_resources/playerimages/1711635.png",
-        "Min-Jun Kang (MF)|https://images.fotmob.com/image_resources/playerimages/1711630.png",
+        "Min-Jun Kang (DF)|https://images.fotmob.com/image_resources/playerimages/1711630.png",
         "Chan-Yong Park (DF)|https://images.fotmob.com/image_resources/playerimages/648405.png",
         "Min-Kwang Jeon (DF)|https://images.fotmob.com/image_resources/playerimages/654164.png",
         "Jeong-Won Eo (MF)|https://images.fotmob.com/image_resources/playerimages/1232940.png",
@@ -24343,7 +24244,7 @@
         "Nguyen Thành Chung (DF)|https://images.fotmob.com/image_resources/playerimages/833606.png",
         "Doàn Van Hau (DF)|https://images.fotmob.com/image_resources/playerimages/848567.png",
         "Truong Tien Anh (MF)|https://images.fotmob.com/image_resources/playerimages/1106266.png",
-        "Nguyen Van Vi (FW)|https://images.fotmob.com/image_resources/playerimages/1513640.png",
+        "Nguyen Van Vi (DF)|https://images.fotmob.com/image_resources/playerimages/1513640.png",
         "Do Hoàng Hên (MF)|https://images.fotmob.com/image_resources/playerimages/863137.png",
         "Lê Pham Thành Long (MF)|https://images.fotmob.com/image_resources/playerimages/890872.png",
         "Nguyen Hoàng Duc (MF)|https://images.fotmob.com/image_resources/playerimages/848581.png",
@@ -24359,7 +24260,7 @@
         "Sarach Yooyen (MF)|https://images.fotmob.com/image_resources/playerimages/533216.png",
         "Kakana Khamyok (MF)|https://images.fotmob.com/image_resources/playerimages/1640875.png",
         "Chaiyaphon Otton (MF)|https://images.fotmob.com/image_resources/playerimages/1698952.png",
-        "Yotsakorn Burapha (MF)|https://images.fotmob.com/image_resources/playerimages/1474192.png",
+        "Yotsakorn Burapha (FW)|https://images.fotmob.com/image_resources/playerimages/1474192.png",
         "Teerasak Poeiphimai (FW)|https://images.fotmob.com/image_resources/playerimages/1348000.png",
         "Seksan Ratree (MF)|https://images.fotmob.com/image_resources/playerimages/1544541.png"
       ]
@@ -24628,9 +24529,42 @@
         }
       ]
     },
-    "lineup": null,
-    "formation": null,
-    "coach": null
+    "lineup": {
+      "home": [
+        "Chang-Geun Lee (GK)|https://images.fotmob.com/image_resources/playerimages/433499.png",
+        "Moon-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/828273.png",
+        "Sung-Kwon Jo (DF)|https://images.fotmob.com/image_resources/playerimages/1440163.png",
+        "Anton Krivotsyuk (DF)|https://images.fotmob.com/image_resources/playerimages/887135.png",
+        "Myung-Jae Lee (DF)|https://images.fotmob.com/image_resources/playerimages/523732.png",
+        "Bong-Soo Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1232490.png",
+        "Soon-Min Lee (MF)|https://images.fotmob.com/image_resources/playerimages/828048.png",
+        "Won-Sang Um (MF)|https://images.fotmob.com/image_resources/playerimages/1027084.png",
+        "Jun-Beom Kim (MF)|https://images.fotmob.com/image_resources/playerimages/926617.png",
+        "Gustav Ludwigson (MF)|https://images.fotmob.com/image_resources/playerimages/932282.png",
+        "Min-Kyu Joo (FW)|https://images.fotmob.com/image_resources/playerimages/631626.png"
+      ],
+      "away": [
+        "Hyeon-Woo Jo (GK)|https://images.fotmob.com/image_resources/playerimages/433265.png",
+        "Myeong-Kwan Seo (DF)|https://images.fotmob.com/image_resources/playerimages/1543595.png",
+        "Seung-Hyeon Jung (DF)|https://images.fotmob.com/image_resources/playerimages/631622.png",
+        "Young-Gwon Kim (DF)|https://images.fotmob.com/image_resources/playerimages/196261.png",
+        "Sang-Min Sim (DF)|https://images.fotmob.com/image_resources/playerimages/527548.png",
+        "Gyu-Sung Lee (MF)|https://images.fotmob.com/image_resources/playerimages/622124.png",
+        "Thomas Kotte (MF)|https://images.fotmob.com/image_resources/playerimages/660154.png",
+        "Hyun-Taek Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1136082.png",
+        "Jin-Hyun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/848096.png",
+        "Dong-Gyeong Lee (FW)|https://images.fotmob.com/image_resources/playerimages/954131.png",
+        "Heui-Kyun Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1027460.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "3-4-3"
+    },
+    "coach": {
+      "home": "Sun-Hong Hwang|https://images.fotmob.com/image_resources/playerimages/29430.png",
+      "away": "Hyun-Seok Kim|https://images.fotmob.com/image_resources/playerimages/1696271.png"
+    }
   },
   {
     "home": "FC Anyang",
@@ -24760,7 +24694,7 @@
         "Gun-Hee Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1440167.png",
         "Juan Ibiza (DF)|https://images.fotmob.com/image_resources/playerimages/675084.png",
         "Ju-Yong Lee (DF)|https://images.fotmob.com/image_resources/playerimages/523746.png",
-        "Dong-Ryul Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1067481.png",
+        "Seong-Min Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1337152.png",
         "Jae-Min Seo (MF)|https://images.fotmob.com/image_resources/playerimages/1440137.png",
         "Myeong-Ju Lee (MF)|https://images.fotmob.com/image_resources/playerimages/308676.png",
         "Gerso Fernandes (MF)|https://images.fotmob.com/image_resources/playerimages/362711.png",
@@ -25088,9 +25022,42 @@
         }
       ]
     },
-    "lineup": null,
-    "formation": null,
-    "coach": null
+    "lineup": {
+      "home": [
+        "Chung-Hyo Park (GK)|https://images.fotmob.com/image_resources/playerimages/468156.png",
+        "Joon-hyuck Kang (DF)|https://images.fotmob.com/image_resources/playerimages/1636734.png",
+        "Marko Tuci (DF)|https://images.fotmob.com/image_resources/playerimages/860427.png",
+        "Min-Ha Shin (DF)|https://images.fotmob.com/image_resources/playerimages/1613224.png",
+        "Chul Hong (DF)|https://images.fotmob.com/image_resources/playerimages/195840.png",
+        "Young-Joon Goh (FW)|https://images.fotmob.com/image_resources/playerimages/1136002.png",
+        "Min-Woo Seo (MF)|https://images.fotmob.com/image_resources/playerimages/1135942.png",
+        "You-Hyeon Lee (MF)|https://images.fotmob.com/image_resources/playerimages/828059.png",
+        "Jesse Sekidika (MF)|https://images.fotmob.com/image_resources/playerimages/881709.png",
+        "Byeong-Chan Choi (FW)|https://images.fotmob.com/image_resources/playerimages/925873.png",
+        "Dae-Won Kim (MF)|https://images.fotmob.com/image_resources/playerimages/734964.png"
+      ],
+      "away": [
+        "Kyeong-Min Kim (GK)|https://images.fotmob.com/image_resources/playerimages/526462.png",
+        "Seong-Yun Kwon (DF)|https://images.fotmob.com/image_resources/playerimages/1135926.png",
+        "Teun van Grunsven (DF)|https://images.fotmob.com/image_resources/playerimages/1074934.png",
+        "Young-Kyu Ahn (DF)|https://images.fotmob.com/image_resources/playerimages/431508.png",
+        "João Pedro (DF)|https://images.fotmob.com/image_resources/playerimages/1320963.png",
+        "Chang-Moo Sin (MF)|https://images.fotmob.com/image_resources/playerimages/623019.png",
+        "Kyoung-Rok Choi (MF)|https://images.fotmob.com/image_resources/playerimages/520978.png",
+        "Yong-Jik Ri (MF)|https://images.fotmob.com/image_resources/playerimages/431899.png",
+        "Min-Seo Moon (MF)|https://images.fotmob.com/image_resources/playerimages/1613276.png",
+        "Hólmbert Fridjónsson (FW)|https://images.fotmob.com/image_resources/playerimages/275997.png",
+        "John Iredale (FW)|https://images.fotmob.com/image_resources/playerimages/860921.png"
+      ]
+    },
+    "formation": {
+      "home": "4-4-2",
+      "away": "4-4-2"
+    },
+    "coach": {
+      "home": "Kyung-Ho Chung|https://images.fotmob.com/image_resources/playerimages/31093.png",
+      "away": "Jeong-Kyu Lee|https://images.fotmob.com/image_resources/playerimages/1881711.png"
+    }
   },
   {
     "home": "Abha",
