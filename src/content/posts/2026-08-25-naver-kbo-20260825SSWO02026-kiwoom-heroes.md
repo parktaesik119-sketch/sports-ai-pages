@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.23","home":"키움 히어로즈","away":"KIA 타이
 awayRecent: '[{"date":"26.08.23","home":"NC 다이노스","away":"삼성 라이온스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823SSNC02026-2026-08-23-nc-dinos/"},{"date":"26.08.22","home":"NC 다이노스","away":"삼성 라이온스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260822SSNC02026-2026-08-22-nc-dinos/"},{"date":"26.08.21","home":"NC 다이노스","away":"삼성 라이온스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821SSNC02026-2026-08-21-nc-dinos/"},{"date":"26.08.20","home":"삼성 라이온스","away":"SSG 랜더스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820SKSS02026-2026-08-20-samsung-lions/"},{"date":"26.08.19","home":"삼성 라이온스","away":"SSG 랜더스","score":"18-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819SKSS02026-2026-08-19-samsung-lions/"}]'
 injuryHome: "없음"
 injuryAway: "이재희 (부상)"
-homeLineup: "[\"1번 서건창 (지명타자)\",\"2번 추재현 (좌익수)\",\"3번 데이비슨 (1루수)\",\"4번 안치홍 (2루수)\",\"5번 김웅빈 (3루수)\",\"6번 김건희 (포수)\",\"7번 박찬혁 (우익수)\",\"8번 권혁빈 (유격수)\",\"9번 박주홍 (중견수)\"]"
-awayLineup: "[\"1번 김지찬 (중견수)\",\"2번 구자욱 (좌익수)\",\"3번 최형우 (지명타자)\",\"4번 디아즈 (1루수)\",\"5번 류지혁 (2루수)\",\"6번 김영웅 (3루수)\",\"7번 김태훈 (우익수)\",\"8번 강민호 (포수)\",\"9번 박계범 (유격수)\"]"
+homeLineup: "[\"선발투수 알칸타라 (ERA 3.85)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69045.jpg\",\"1번 서건창 (지명타자)\",\"2번 추재현 (좌익수)\",\"3번 데이비슨 (1루수)\",\"4번 안치홍 (2루수)\",\"5번 김웅빈 (3루수)\",\"6번 김건희 (포수)\",\"7번 박찬혁 (우익수)\",\"8번 권혁빈 (유격수)\",\"9번 박주홍 (중견수)\"]"
+awayLineup: "[\"선발투수 보스 (ERA 7.41)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56402.jpg\",\"1번 김지찬 (중견수)\",\"2번 구자욱 (좌익수)\",\"3번 최형우 (지명타자)\",\"4번 디아즈 (1루수)\",\"5번 류지혁 (2루수)\",\"6번 김영웅 (3루수)\",\"7번 김태훈 (우익수)\",\"8번 강민호 (포수)\",\"9번 박계범 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
