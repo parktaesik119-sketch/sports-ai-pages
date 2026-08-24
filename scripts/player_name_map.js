@@ -622,6 +622,7 @@ const PLAYER_NAME_MAP = {
   "Ji-Han Lee": "이지한",
   "Beom-Hwan Kim": "김범환",
   "Byong-Oh Kim": "김병오",
+  "Byeong-Oh Kim": "김병오",
 
   // --- Gimpo FC (김포 FC) ---
   "Sang-Min Lee": "이상민", // 김포 소속 (서울/성남 소속 동명이인과 별개)
