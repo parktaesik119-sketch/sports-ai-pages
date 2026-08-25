@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.23","home":"주니치 드래곤스","away":"야쿠�
 awayRecent: '[{"date":"26.08.23","home":"요미우리 자이언츠","away":"히로시마 도요 카프","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823HIYO0-2026-08-23-yomiuri-giants/"},{"date":"26.08.22","home":"요미우리 자이언츠","away":"히로시마 도요 카프","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260822HIYO0-2026-08-22-yomiuri-giants/"},{"date":"26.08.21","home":"요미우리 자이언츠","away":"히로시마 도요 카프","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821HIYO0-2026-08-21-yomiuri-giants/"},{"date":"26.08.20","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260820YOYK0-2026-08-20-yokohama-baystars/"},{"date":"26.08.19","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260819YOYK0-2026-08-19-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Taichi Yamano (9-3, 2.15)|https://p.npb.jp/players_photo/2026/180/s/026_63365153.jpg\"]"
+awayLineup: "[\"선발투수 Haruto Inoue (10-7, 2.15)|https://p.npb.jp/players_photo/2026/180/g/097_51355151.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
