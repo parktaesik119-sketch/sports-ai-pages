@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프�
 awayRecent: '[{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"},{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"},{"date":"26.08.20","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SLCI0-2026-08-20-cincinnati-reds/"},{"date":"26.08.19","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SLCI0-2026-08-19-cincinnati-reds/"}]'
 injuryHome: "Jesus Rodriguez (신경 압박으로 10일 부상자 명단)|Bryce Eldridge (사별 관련 결장)|Marcelo Mayer (골절로 10일 부상자 명단)|Victor Bericoto (타박상으로 10일 부상자 명단)|Matt Gage (염좌로 60일 부상자 명단)"
 injuryAway: "Brandon Williamson (통증으로 60일 부상자 명단)|Graham Ashcraft (염좌로 60일 부상자 명단)|Spencer Steer (염좌로 10일 부상자 명단)|Michael Toglia (수술로 결장)|Blake Dunn (수술로 60일 부상자 명단)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Roupp (7-13, 4.34) ERA 4.34|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
+awayLineup: "[\"선발투수 N. Lodolo (3-3, 5.04) ERA 5.04|https://a.espncdn.com/i/headshots/mlb/players/full/42433.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

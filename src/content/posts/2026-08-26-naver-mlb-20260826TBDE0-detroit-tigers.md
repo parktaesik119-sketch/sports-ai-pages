@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.25","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.08.25","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TBDE0-2026-08-25-detroit-tigers/"},{"date":"26.08.24","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TBBA0-2026-08-24-baltimore-orioles/"},{"date":"26.08.23","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TBBA0-2026-08-23-baltimore-orioles/"},{"date":"26.08.22","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TBBA0-2026-08-22-baltimore-orioles/"},{"date":"26.08.21","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821TOTB0-2026-08-21-tampa-bay-rays/"}]'
 injuryHome: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Riley Greene (근육 염좌)|Matt Vierling (근육 염좌)|Brant Hurter (염증)"
 injuryAway: "Cole Sulser (경련)|Jake Fraley (수술)|Griffin Jax (통증)|Jonathan Heasley (골절)|Edwin Uceta (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Jobe (1-1, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\"]"
+awayLineup: "[\"선발투수 I. Seymour (9-4, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.08.24","home":"시애틀 매리너스","away":"시카고 컵스","score":"2-19","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners/"},{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"},{"date":"26.08.18","home":"시카고 컵스","away":"시카고 화이트삭스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs/"},{"date":"26.08.17","home":"시카고 컵스","away":"세인트루이스 카디널스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817SLCC0-2026-08-17-chicago-cubs/"}]'
 injuryHome: "Lourdes Gurriel Jr. (긴장)|Blake Walston (수술)|Ryan Thompson (긴장)|Tommy Troy (염좌)|Ketel Marte (명시되지 않음)"
 injuryAway: "Matt Shaw (염좌)|Tyler Austin (수술)|Hoby Milner (수술)|Edward Cabrera (찰과상)|Shelby Miller (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Rodriguez (13-4, 2.61) ERA 2.61|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (8-2, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

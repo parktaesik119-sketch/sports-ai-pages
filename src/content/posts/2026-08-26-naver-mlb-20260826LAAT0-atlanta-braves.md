@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"밀워키 브루어스","away":"애틀�
 awayRecent: '[{"date":"26.08.24","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824PILA0-2026-08-24-los-angeles-dodgers/"},{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers/"},{"date":"26.08.20","home":"콜로라도 로키스","away":"LA 다저스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820LACO0-2026-08-20-colorado-rockies/"},{"date":"26.08.19","home":"콜로라도 로키스","away":"LA 다저스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819LACO0-2026-08-19-colorado-rockies/"},{"date":"26.08.18","home":"콜로라도 로키스","away":"LA 다저스","score":"5-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818LACO0-2026-08-18-colorado-rockies/"}]'
 injuryHome: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Spencer Strider (염증)|Joe Jimenez (수술)|Spencer Schwellenbach (수술)"
 injuryAway: "Tyler Glasnow (경련)|Bobby Miller (통증)|Blake Treinen (염증)|Ben Casparius (염증)|Will Klein (통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Elder (8-7, 3.92) ERA 3.92|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\"]"
+awayLineup: "[\"선발투수 T. Glasnow (3-0, 2.72) ERA 2.72|https://a.espncdn.com/i/headshots/mlb/players/full/33190.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"마이애미 말린스","away":"워싱�
 awayRecent: '[{"date":"26.08.24","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CLCO0-2026-08-24-colorado-rockies/"},{"date":"26.08.22","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CLCO0-2026-08-22-colorado-rockies/"},{"date":"26.08.20","home":"콜로라도 로키스","away":"LA 다저스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820LACO0-2026-08-20-colorado-rockies/"},{"date":"26.08.19","home":"콜로라도 로키스","away":"LA 다저스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819LACO0-2026-08-19-colorado-rockies/"},{"date":"26.08.18","home":"콜로라도 로키스","away":"LA 다저스","score":"5-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818LACO0-2026-08-18-colorado-rockies/"}]'
 injuryHome: "Drew Millas (골절)|Richard Lovelady (좌상)|James Wood (좌상)|Josiah Gray (좌상)|DJ Herz (좌상)"
 injuryAway: "Hunter Goodman (좌상)|Kyle Karros (뇌진탕)|Kris Bryant (수술)|McCade Brown (염증)|Kyle Freeland (신경 압박)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Alvarez (2-5, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
+awayLineup: "[\"선발투수 M. Adams|https://a.espncdn.com/i/headshots/mlb/players/full/4758424.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

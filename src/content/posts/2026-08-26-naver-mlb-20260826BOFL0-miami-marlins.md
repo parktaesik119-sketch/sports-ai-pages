@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프�
 injuryHome: "Pete Fairbanks (특정되지 않음)|Anthony Bender (골절)|Max Meyer (근육 부상)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 injuryAway: "Garrett Whitlock (염증)|Isiah Kiner-Falefa (염증)|Trevor Story (수술)|Roman Anthony (염좌)|Justin Slaten (염증)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 P. Tolle (8-6, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

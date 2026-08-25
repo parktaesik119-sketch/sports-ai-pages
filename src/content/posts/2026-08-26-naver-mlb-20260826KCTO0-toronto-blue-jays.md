@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"뉴욕 양키즈","away":"토론토 블
 awayRecent: '[{"date":"26.08.24","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824DEKC0-2026-08-24-kansas-city-royals/"},{"date":"26.08.23","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823DEKC0-2026-08-23-kansas-city-royals/"},{"date":"26.08.21","home":"캔자스시티 로열스","away":"애슬레틱스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821OAKC0-2026-08-21-kansas-city-royals/"},{"date":"26.08.20","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820OAKC0-2026-08-20-kansas-city-royals/"},{"date":"26.08.19","home":"캔자스시티 로열스","away":"애슬레틱스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819OAKC0-2026-08-19-kansas-city-royals/"}]'
 injuryHome: "Andres Gimenez (근육통)|Jonatan Clase (족저근막염)|Joe Mantiply (수술)|Josh Smith (염증)|Jameson Taillon (건염)"
 injuryAway: "Jac Caglianone (근육통)|Beck Way (경련)|Connor Seabold (근육 손상)|Maikel Garcia (근육 손상)|Nick Mears (신경 압박)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Scherzer (1-6, 7.40) ERA 7.40|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
+awayLineup: "[\"선발투수 S. Lugo (5-7, 4.71) ERA 4.71|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

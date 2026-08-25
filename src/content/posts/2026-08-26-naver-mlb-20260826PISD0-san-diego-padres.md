@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"샌디에이고 파드리스","away":"�
 awayRecent: '[{"date":"26.08.24","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824PILA0-2026-08-24-los-angeles-dodgers/"},{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers/"},{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"},{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"},{"date":"26.08.18","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates/"}]'
 injuryHome: "Samad Taylor (근육 염좌)|Casey Mize (염좌)|Joe Musgrove (염증)|Lucas Giolito (염증)|Jason Adam (근육 염좌)"
 injuryAway: "Endy Rodriguez (염증)|Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)|Mitch Keller (지정되지 않음)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Vasquez (9-6, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/4722847.png\"]"
+awayLineup: "[\"선발투수 B. Chandler (6-8, 4.38) ERA 4.38|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
