@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.25","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Riley Greene (근육 염좌)|Matt Vierling (근육 염좌)|Brant Hurter (염증)"
 injuryAway: "Cole Sulser (경련)|Jake Fraley (수술)|Griffin Jax (통증)|Jonathan Heasley (골절)|Edwin Uceta (근육 염좌)"
 homeLineup: "[\"선발투수 J. Jobe (1-1, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\"]"
-awayLineup: "[\"선발투수 I. Seymour (9-4, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
+awayLineup: "[\"선발투수 C. Legumina (2-2, 3.99) ERA 3.99|https://a.espncdn.com/i/headshots/mlb/players/full/4346117.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
