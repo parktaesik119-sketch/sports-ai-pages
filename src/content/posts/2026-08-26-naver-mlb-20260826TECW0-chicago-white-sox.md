@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 텍사스 레인저스 경기분석·라인업·결장자·통계·승부예측 (8월 26일) | MLB - 픽천국"
+date: 2026-08-25T23:40:00.000Z
+description: "시카고 화이트삭스 vs 텍사스 레인저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260826TECW0-2026-08-26-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "텍사스 레인저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 최근 94경기에서 48승 1무 45패, 평균 득점 4.4를 기록하며 리그순위 4위에 올라 있습니다. 최근 10경기에서도 6승 4패로 버티고 있고 평균 득점이 4.9까지 올라가 있어, 타선의 응집력이 시즌 흐름보다 한층 살아난 모습입니다. 특히 홈에서 공격이 먼저 풀릴 때 경기 주도권을 잘 잡고 있고, 실점이 적은 경기에서는 승부를 빠르게 자신들 쪽으로 가져오는 경향이 보입니다. 다만 득점이 끊기는 구간에서는 접전으로 흐르기 쉬워서, 초반 장타나 출루 연결이 중요하게 작용할 가능성이 큽니다. 최근 시카고 컵스전과 뉴욕 메츠전에서 보여준 결과를 보면, 상위권과의 맞대결에서도 충분히 버티는 힘이 확인되고 있습니다."
+awayAnalysis: "텍사스 레인저스는 2026시즌 최근 86경기에서 39승 47패, 평균 득점 3.7을 기록하며 리그순위 6위에 머물러 있습니다. 최근 10경기에서는 3승 7패로 흔들리고 있고 평균 득점도 2.1에 그쳐, 타선 침체가 전력 전체의 부담으로 이어지고 있습니다. 특히 최근 경기들에서 득점이 2점 안팎으로 묶인 흐름이 많아, 초반에 먼저 실점하면 따라가는 힘이 크게 떨어지는 편입니다. 장기 결장자가 적지 않아 마운드와 타선의 연결 고리가 약해진 점도 부담으로 보입니다. 다만 간간이 무실점 승리를 만들어내는 경기력은 남아 있어서, 수비와 불펜이 버텨주면 접전으로 끌고 갈 여지는 있습니다."
+homePower: "최근 10경기 득점 상승세로 타선 응집력 회복됨|홈에서 실점 관리가 되면 승부를 지배하는 유형임|상위권 상대에도 한 방으로 흐름 바꾸는 힘이 보임|접전에서는 득점 공백이 변수로 남아 있음|리그순위 4위답게 전체 균형이 원정보다 안정적임"
+awayPower: "최근 득점 급감으로 공격 전개가 답답함|리그순위 6위지만 최근 흐름은 고점 대비 주춤함|장기 결장 누적로 중심축 운용이 불안정함|실점이 늘면 반전 동력이 급격히 약해짐|낮은 득점 환경에서는 수비 선전이 필수임"
+h2h: '[{"date":"26.07.23","home":"텍사스 레인저스","away":"시카고 화이트삭스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-179541-2026-07-23-texas-rangers/"},{"date":"26.07.22","home":"텍사스 레인저스","away":"시카고 화이트삭스","score":"10-0","link":"https://pick79.com/posts/detail/analyze-179527-2026-07-22-texas-rangers/"},{"date":"26.07.21","home":"텍사스 레인저스","away":"시카고 화이트삭스","score":"3-10","link":"https://pick79.com/posts/detail/analyze-179511-2026-07-21-texas-rangers/"}]'
+summary: "시카고 화이트삭스는 리그순위와 최근 흐름을 함께 보면 원정팀보다 한 단계 더 안정적인 전력을 보이고 있습니다. 득점 생산이 최근 들어 살아나고 있고, 홈에서 경기를 운영하는 힘도 분명해서 초반 주도권을 잡을 가능성이 높습니다. 텍사스 레인저스는 리그순위가 더 낮은 데다 최근 득점 침체가 뚜렷해 공격에서 답답함이 이어지고 있어, 경기 후반으로 갈수록 부담이 커질 수 있습니다. 맞대결에서도 시카고 화이트삭스가 우세를 잡아낸 경기가 있었고, 전체적인 흐름상 홈팀이 조금 더 앞서는 그림이 자연스럽습니다."
+homeRecent: '[{"date":"26.08.24","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824NMCW0-2026-08-24-chicago-white-sox/"},{"date":"26.08.23","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"5-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823NMCW0-2026-08-23-chicago-white-sox/"},{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822NMCW0-2026-08-22-chicago-white-sox/"},{"date":"26.08.21","home":"시카고 화이트삭스","away":"애틀랜타 브레이브스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ATCW0-2026-08-21-chicago-white-sox/"},{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"}]'
+awayRecent: '[{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"},{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에인절스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ANTE0-2026-08-23-texas-rangers/"},{"date":"26.08.21","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821MOTE0-2026-08-21-texas-rangers/"},{"date":"26.08.20","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers/"},{"date":"26.08.19","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819MOTE0-2026-08-19-texas-rangers/"}]'
+injuryHome: "Kyle Teel (염좌)|Chris Murphy (긴장)|Jordan Leasure (긴장)|Davis Martin (찰과상)|Drew Thorpe (수술)"
+injuryAway: "Michael Helman (골절)|Carter Baumler (긴장)|Nathan Eovaldi (염증)|Jack Leiter (수술)|Josh Jung (긴장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

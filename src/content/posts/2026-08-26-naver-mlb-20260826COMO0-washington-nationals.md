@@ -1,0 +1,37 @@
+---
+title: "워싱턴 내셔널스 vs 콜로라도 로키스 경기분석·라인업·결장자·통계·승부예측 (8월 26일) | MLB - 픽천국"
+date: 2026-08-25T22:45:00.000Z
+description: "워싱턴 내셔널스 vs 콜로라도 로키스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260826COMO0-2026-08-26-washington-nationals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "워싱턴 내셔널스"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "워싱턴 내셔널스는 2026시즌 최근 97경기에서 46승 2무 49패, 평균 득점 4.8을 기록하며 승패 균형을 거의 맞춘 흐름을 보여주고 있습니다. 다만 최근 10경기에서는 2승 8패, 평균 득점 2.7로 떨어지며 타선의 응집력이 다소 약해진 모습입니다. 그래도 최근 경기들에서 간헐적으로 큰 점수 차 승리를 만들었고, 홈에서는 공격이 살아날 때 경기 주도권을 잡는 장면이 분명했습니다. 리그순위 12위지만 득실이 +10으로 버티고 있어, 시즌 전체 전력은 순위보다 조금 더 단단하게 읽힙니다. 다만 핵심 타선과 선발 자원 결장이 겹쳐 있어, 초반 실점 관리와 득점권 집중력이 이번 경기의 핵심이 될 것으로 보입니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 최근 74경기에서 29승 45패, 평균 득점 5.2를 기록하며 득점 자체는 유지하고 있지만 승리로 연결하는 힘이 부족한 흐름입니다. 최근 10경기에서도 2승 8패, 평균 득점 4.2로 공격은 나쁘지 않지만 수비 쪽 흔들림이 더 크게 드러나고 있습니다. 특히 원정에서는 대량 실점이 반복되며 경기를 끝까지 끌고 가는 안정감이 떨어지는 편입니다. 리그순위 15위에 득실이 -136으로 크게 처져 있어, 시즌 전반의 불안한 수비력이 최근 흐름과도 맞물려 있습니다. 다만 장타 한 번으로 흐름을 바꾸는 장면은 살아 있어, 선취점을 내면 일시적으로 경기를 흔들 여지는 있습니다."
+homePower: "워싱턴 내셔널스|리그순위 12위지만 득실 +10으로 버팀|최근 침체 속에서도 홈 반등 여지 있음|콜로라도 로키스 상대로 상성 우위 확인됨|주요 타선 결장으로 집중력 유지가 관건|저득점 흐름에서 불펜 운영이 핵심임"
+awayPower: "콜로라도 로키스|리그순위 15위, 득실 -136으로 수비 불안 뚜렷함|득점은 나와도 실점 억제가 따라주지 않음|원정 대량실점 패턴이 반복되는 흐름임|워싱턴 내셔널스전에서 타선 응집력 약화됨|장타 의존도가 높아 경기 기복이 큼"
+h2h: '[{"date":"26.07.23","home":"콜로라도 로키스","away":"워싱턴 내셔널스","score":"0-8","link":"https://pick79.com/posts/detail/analyze-179548-2026-07-23-colorado-rockies/"},{"date":"26.07.22","home":"콜로라도 로키스","away":"워싱턴 내셔널스","score":"8-7","link":"https://pick79.com/posts/detail/analyze-179518-2026-07-21-colorado-rockies/"},{"date":"26.07.21","home":"콜로라도 로키스","away":"워싱턴 내셔널스","score":"3-7","link":"https://pick79.com/posts/detail/analyze-179518-2026-07-21-colorado-rockies/"}]'
+summary: "워싱턴 내셔널스는 리그순위 12위로 중하위권에 머물러 있지만, 콜로라도 로키스의 리그순위 15위와 비교하면 시즌 전력의 균형감은 더 낫습니다. 최근 흐름만 보면 두 팀 모두 주춤한 구간이 있으나, 워싱턴 내셔널스는 득실이 플러스이고 콜로라도 로키스는 큰 마이너스라서 경기 운영의 안정감 차이가 분명합니다. 맞대결에서도 워싱턴 내셔널스가 앞선 흐름을 이어가고 있어, 이번 경기는 워싱턴 내셔널스가 마운드와 수비 집중력을 바탕으로 우위를 지킬 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.24","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MOFL0-2026-08-24-miami-marlins/"},{"date":"26.08.23","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823MOFL0-2026-08-23-miami-marlins/"},{"date":"26.08.22","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MOFL0-2026-08-22-miami-marlins/"},{"date":"26.08.21","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821MOTE0-2026-08-21-texas-rangers/"},{"date":"26.08.20","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers/"}]'
+awayRecent: '[{"date":"26.08.24","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CLCO0-2026-08-24-colorado-rockies/"},{"date":"26.08.22","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CLCO0-2026-08-22-colorado-rockies/"},{"date":"26.08.20","home":"콜로라도 로키스","away":"LA 다저스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820LACO0-2026-08-20-colorado-rockies/"},{"date":"26.08.19","home":"콜로라도 로키스","away":"LA 다저스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819LACO0-2026-08-19-colorado-rockies/"},{"date":"26.08.18","home":"콜로라도 로키스","away":"LA 다저스","score":"5-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818LACO0-2026-08-18-colorado-rockies/"}]'
+injuryHome: "Drew Millas (골절)|Richard Lovelady (좌상)|James Wood (좌상)|Josiah Gray (좌상)|DJ Herz (좌상)"
+injuryAway: "Hunter Goodman (좌상)|Kyle Karros (뇌진탕)|Kris Bryant (수술)|McCade Brown (염증)|Kyle Freeland (신경 압박)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

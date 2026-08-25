@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (8월 26일) | MLB - 픽천국"
+date: 2026-08-26T01:40:00.000Z
+description: "시애틀 매리너스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260826PHSE0-2026-08-26-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 전체 38승 41패, 승률 .473, 경기당 평균 득점 3.8점을 기록하며 리그순위 11위에 자리하고 있습니다. 최근 10경기에서는 5승 5패로 균형을 맞췄지만, 시카고 컵스전 대패와 밀워키 브루어스전 대량 실점처럼 경기별 수비 기복이 크게 나타났습니다. 뉴욕 양키스와 휴스턴 애스트로스를 상대로는 저실점 승리를 만들며 선발진과 불펜이 안정될 때 경쟁력이 살아나는 모습입니다. 반면 시즌 득실이 513득점 574실점으로 마이너스를 기록해 공격보다 실점 억제가 더 큰 과제로 보입니다. J.P. Crawford와 Cole Wilcox의 결장은 내야 안정감과 투수 운용에 부담을 줄 수 있으며, Cooper Criswell의 장기 결장도 마운드 깊이를 약화시키는 요인입니다. 홈 경기에서는 초반에 주도권을 잡지 못하면 타선의 추격 부담이 커질 가능성이 있어 선발 투수의 경기 운영이 특히 중요해 보입니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 전체 55승 40패, 승률 .557, 경기당 평균 득점 4.7점을 기록하며 리그순위 5위에 올라 있습니다. 최근 10경기에서 9승 1패를 거두며 시즌 전체 성적보다도 더욱 강한 전력을 보여주고 있어 상승세가 뚜렷합니다. 세인트루이스 카디널스와 마이애미 말린스를 상대로 연속 승리를 이어갔고, 최근에는 득점 생산과 경기 후반 집중력이 함께 살아난 모습입니다. 시즌 득실도 599득점 572실점으로 플러스여서 시애틀 매리너스보다 공격과 수비의 균형이 안정적입니다. Rafael Marchan, Caleb Kilian, Tanner Banks, Felix Reyes의 결장은 선수층 운용에 부담이지만 최근 연승 흐름이 이를 어느 정도 상쇄하고 있습니다. 원정에서도 미네소타 트윈스를 상대로 연속해서 우세한 결과를 만들었던 만큼, 이동 경기에서도 타선의 압박과 경기 관리 능력이 기대됩니다."
+homePower: "시애틀 매리너스는 저실점 경기에서 승리 확률이 높아지는 구조임|상위권 상대에도 한 점 차 승부를 만들 수 있는 집중력 보유함|대량 실점이 나오면 경기 전체 균형이 빠르게 무너지는 경향 보임|장기 결장 누적으로 투수 운용의 여유가 줄어든 상태임|홈에서는 초반 선취점 확보가 경기 전개의 핵심 변수임"
+awayPower: "필라델피아 필리스는 최근 연승으로 공격 자신감이 최고조에 오른 상태임|상하위 타선 연결이 좋아 추격 상황에서도 반전 능력 보유함|득점과 실점 격차가 플러스라 경기 안정성이 상대보다 높음|원정에서도 강팀다운 경기 관리력이 검증됨|핵심 결장보다 현재 타선 상승세가 더 크게 작용하는 흐름임"
+h2h: '[]'
+summary: "2026시즌 전력은 필라델피아 필리스가 시애틀 매리너스보다 뚜렷하게 앞서 있습니다. 리그순위와 승률, 득실 모두 원정팀이 우세하고 최근 10경기에서도 필라델피아 필리스의 공격 흐름과 경기 운영이 훨씬 안정적입니다. 시애틀 매리너스는 홈에서 수비가 버티고 선취점을 얻을 경우 접전을 만들 수 있지만, 장기 결장으로 인한 투수진 부담과 대량 실점 기복이 변수입니다. 전체적인 득점 생산력과 최근 전력까지 고려하면 필라델피아 필리스가 경기 주도권을 가져갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.24","home":"시애틀 매리너스","away":"시카고 컵스","score":"2-19","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners/"},{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"},{"date":"26.08.20","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SEMI0-2026-08-20-milwaukee-brewers/"},{"date":"26.08.19","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"22-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SEMI0-2026-08-19-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.20","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies/"},{"date":"26.08.19","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819FLPH0-2026-08-19-philadelphia-phillies/"}]'
+injuryHome: "Cole Wilcox (근육 긴장으로 15일 부상자 명단)|J.P. Crawford (염증으로 10일 부상자 명단)|Bryan Woo (통증으로 출전 여부 불투명)|Cooper Criswell (근육 긴장으로 60일 부상자 명단)|Brendan Donovan (7일 부상자 명단)"
+injuryAway: "Derek Hill (통증으로 출전 여부 불투명)|Rafael Marchan (힘줄염으로 10일 부상자 명단)|Caleb Kilian (근육 긴장으로 15일 부상자 명단)|Tanner Banks (근육 긴장으로 60일 부상자 명단)|Felix Reyes (골절로 60일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

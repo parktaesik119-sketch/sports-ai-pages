@@ -1,0 +1,37 @@
+---
+title: "레알 마드리드 vs 레알 소시에다드 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | 라리가 - 픽천국"
+date: 2026-08-26T19:00:00.000Z
+description: "레알 마드리드 vs 레알 소시에다드 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868018-2026-08-27-real-madrid"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "레알 마드리드"
+awayTeam: "레알 소시에다드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png"
+homeAnalysis: "레알 마드리드는 2026시즌 최근 26경기에서 15승 2무 9패, 평균 득점 55.4로 안정적인 상위 전력을 유지하고 있습니다. 최근에는 에스파뇰전, 샬케 04전, 데포르티보 아코루냐전, 페렌츠바로시전까지 연승 흐름을 이어가며 공격 전개와 마무리의 완성도가 잘 살아난 모습입니다. 특히 비니시우스 주니오르와 킬리안 음바페가 전방에서 속도와 결정력을 동시에 책임지고 있고, 주드 벨링엄과 페데리코 발베르데가 중원에서 경기 템포를 단단하게 잡아주고 있습니다. 다만 에데르 밀리탕, 페를랑 멘디, 라울 아센시오, 로드리고의 이탈은 수비 밸런스와 측면 전개에 변수를 만들 수 있습니다. 그래도 홈에서는 경기 주도권을 오래 가져가는 힘이 분명하고, 공수 전환 속도까지 감안하면 이번 경기에서도 우세한 흐름을 기대할 수 있습니다."
+awayAnalysis: "레알 소시에다드는 2026시즌 최근 12경기에서 2승 3무 7패, 평균 득점 1.4로 전체적으로 어려운 흐름을 보이고 있습니다. 최근에는 레알 베티스전, 첼시전, 쾰른전, 툴루즈전에서 연달아 밀리며 수비 부담이 커졌고, 원정에서 실점 관리가 특히 아쉬운 장면이 이어지고 있습니다. 다만 이강인 역할과 비슷하게 경기 흐름을 바꿀 수 있는 다케후사 쿠보, 루카 수치치, 안데르 바레네체아가 전방에서 변화를 만들어낼 수 있는 자원으로 보입니다. 문제는 이 공격 자원들이 버텨줘도 전체 전력의 안정감이 낮아, 중원 압박이 강한 상대를 만나면 빌드업이 쉽게 흔들린다는 점입니다. 알바로 오드리오솔라, 존 고로차테기, 파블로 마린, 곤살로 게데스의 결장은 전개와 뎁스 측면에서 부담으로 작용할 가능성이 큽니다."
+homePower: "비니시우스-음바페 조합의 전환 속도 매우 위협적임|벨링엄-발베르데 중원 장악력으로 경기 흐름 통제함|홈에서는 선제 득점 후 운영 능력이 특히 안정적임|멤버 이탈에도 전방 압박 완성도는 크게 유지됨|소시에다드 상대로 최근 상성 우위가 뚜렷하게 검증됨"
+awayPower: "쿠보 중심 역습은 순간 파괴력은 있으나 지속성 약함|원정 수비가 먼저 흔들리면 전개 전술도 같이 무너짐|수치치-바레네체아의 연계가 반전 열쇠로 보임|핵심 결장자 공백이 측면 수비와 압박 균형을 약화함|강팀 상대로 실점 억제보다 버티기 전술이 우선됨"
+h2h: '[{"date":"26.02.15","home":"레알 마드리드","away":"레알 소시에다드","score":"4-1"},{"date":"25.09.13","home":"레알 소시에다드","away":"레알 마드리드","score":"1-2"},{"date":"25.05.24","home":"레알 마드리드","away":"레알 소시에다드","score":"2-0"},{"date":"25.04.02","home":"레알 마드리드","away":"레알 소시에다드","score":"4-4"},{"date":"25.02.27","home":"레알 소시에다드","away":"레알 마드리드","score":"0-1"}]'
+summary: "레알 마드리드는 시즌 전체 흐름에서 높은 득점 생산과 함께 승수를 꾸준히 쌓아가고 있어 전력의 바닥과 천장이 모두 높은 편입니다. 반면 레알 소시에다드는 최근 시즌 전적과 원정 흐름이 모두 무겁고, 실점 억제에 어려움을 겪는 모습이 반복되고 있습니다. 상대전적에서도 레알 마드리드가 최근 맞대결 다수에서 우위를 보여 왔고, 특히 홈에서는 경기 초반부터 주도권을 잡는 장면이 자주 이어졌습니다. 이런 흐름을 함께 보면 이번 경기는 레알 마드리드가 전체적인 전력 우위를 바탕으로 경기 리듬을 장악할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Éder Militao (허벅지 부상)|Ferland Mendy (부상)|Raúl Asencio (정강이 부상)|Aurélien Tchouaméni (근육 부상)|Thiago Pitarch (무릎 부상)|Endrick (근육 부상)|Rodrygo (십자 인대 부상)"
+injuryAway: "Álvaro Odriozola (십자 인대 부상)|Jon Gorrotxategi (근육 부상)|Pablo Marín (근육 부상)|Gonçalo Guedes (부상)"
+homeLineup: '["Thibaut Courtois (GK)|https://images.fotmob.com/image_resources/playerimages/170323.png","Denzel Dumfries (MF)|https://images.fotmob.com/image_resources/playerimages/593118.png","Ibrahima Konaté (DF)|https://images.fotmob.com/image_resources/playerimages/820140.png","Dean Huijsen (DF)|https://images.fotmob.com/image_resources/playerimages/1367619.png","Alvaro Carreras (DF)|https://images.fotmob.com/image_resources/playerimages/1190025.png","Bernardo Silva (MF)|https://images.fotmob.com/image_resources/playerimages/488139.png","Federico Valverde (MF)|https://images.fotmob.com/image_resources/playerimages/743533.png","Arda Güler (MF)|https://images.fotmob.com/image_resources/playerimages/1253890.png","Jude Bellingham (MF)|https://images.fotmob.com/image_resources/playerimages/1077894.png","Vinícius Júnior (FW)|https://images.fotmob.com/image_resources/playerimages/846033.png","Kylian Mbappé (FW)|https://images.fotmob.com/image_resources/playerimages/701154.png"]'
+awayLineup: '["Alex Remiro (GK)|https://images.fotmob.com/image_resources/playerimages/616539.png","Jon Aramburu (DF)|https://images.fotmob.com/image_resources/playerimages/1249284.png","Igor Zubeldia (DF)|https://images.fotmob.com/image_resources/playerimages/698653.png","Jon Martín (DF)|https://images.fotmob.com/image_resources/playerimages/1523234.png","Sergio Gómez (DF)|https://images.fotmob.com/image_resources/playerimages/844477.png","Yangel Herrera (MF)|https://images.fotmob.com/image_resources/playerimages/730901.png","Carlos Soler (MF)|https://images.fotmob.com/image_resources/playerimages/708890.png","Takefusa Kubo (FW)|https://images.fotmob.com/image_resources/playerimages/848289.png","Luka Sucic (MF)|https://images.fotmob.com/image_resources/playerimages/959597.png","Ander Barrenetxea (FW)|https://images.fotmob.com/image_resources/playerimages/1002618.png","Orri Óskarsson (FW)|https://images.fotmob.com/image_resources/playerimages/1097229.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "José Mourinho|https://images.fotmob.com/image_resources/playerimages/78719.png"
+awayCoach: "Pellegrino Matarazzo|https://images.fotmob.com/image_resources/playerimages/27204.png"
+pickWinTeam: "레알 마드리드"
+pickWinResult: "승"
+pickHandicapTeam: "레알 마드리드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

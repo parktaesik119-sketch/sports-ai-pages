@@ -1,0 +1,37 @@
+---
+title: "KT 위즈 vs 두산 베어스 경기분석·라인업·결장자·통계·승부예측 (8월 26일) | KBO - 픽천국"
+date: 2026-08-26T09:30:00.000Z
+description: "KT 위즈 vs 두산 베어스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260826OBKT02026-2026-08-26-kt-wiz-suwon"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "KT 위즈"
+awayTeam: "두산 베어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+homeAnalysis: "KT 위즈는 2026시즌 최근 83경기에서 48승 2무 33패, 평균 득점 5.1로 리그 상위권 전력을 유지하고 있습니다. 최근 10경기 흐름은 4승 1무 5패로 다소 출렁이지만, SSG 랜더스를 상대로 3득점 승리를 거두고 LG 트윈스를 상대로 16득점을 기록하는 등 타선 폭발력이 여전히 분명하게 살아 있습니다. 홈 경기에서는 한화 이글스와 키움 히어로즈를 상대로도 큰 점수 차 승리를 자주 만들어냈고, 득점이 붙는 날에는 경기 흐름을 빠르게 가져오는 힘이 돋보입니다. 다만 최근에는 저득점 패배도 섞여 있어 초반 득점이 막히면 흐름이 답답해질 수 있습니다. 소형준은 선발 평균 5.2이닝을 책임지며 안정적인 이닝 소화가 가능하고, 투심과 커터를 앞세운 운영형 스타일이어서 홈에서의 경기 조율에 강점이 있습니다. 예상 라인업에서도 최원준, 안현민, 힐리어드가 상위 타선의 생산성을 이끌 가능성이 커 보입니다."
+awayAnalysis: "두산 베어스는 2026시즌 최근 86경기에서 47승 3무 36패, 평균 득점 4.7로 충분히 경쟁력 있는 전력을 보여주고 있습니다. 최근 10경기에서는 5승 5패로 흐름이 반반이지만, 롯데 자이언츠를 상대로 3득점 승리를 만든 뒤에도 NC 다이노스를 상대로 8득점 승리를 거두는 등 공격 쪽에서 반등 여지는 분명합니다. 원정 경기에서도 KIA 타이거즈를 상대로 10득점을 올린 경기가 있어 타선의 한 방이 살아날 때는 경기 양상이 크게 달라집니다. 다만 최근 패배 경기에서는 득점이 1점대에 묶인 경우도 보여, 상대 선발이 안정적일 때는 타선 연결이 끊길 수 있습니다. 최민석은 ERA 2.72와 QS 12개로 안정감이 좋고, 커터와 투심에 더해 스위퍼와 포크까지 활용해 타자 유형을 가리지 않는 편입니다. 예상 라인업에서는 양의지와 박준순이 중심축을 맡고 있어 중심 타선의 응집력이 핵심으로 보입니다."
+homePower: "최근 홈 다득점 구간이 길게 이어진 점이 강점임|최원준과 힐리어드의 상위 타선 파괴력 뚜렷함|소형준의 5이닝대 운영력으로 경기 초반 안정감 확보됨|득점이 붙을 때 대량 득점으로 연결되는 구조 보임|저득점 접전에서는 타선 응답 속도가 변수로 남음"
+awayPower: "최민석의 이닝 효율과 QS 누적이 선발 우위로 읽힘|커터·포크 조합으로 타자 타이밍 빼는 힘이 있음|양의지 중심의 중축이 한 번 붙으면 득점 전개 빠름|최근 원정 승리에서 장타보다 연결 타선이 돋보임|저득점 경기에서는 초반 실점 관리가 승부 분수령임"
+h2h: '[{"date":"26.07.21","home":"KT 위즈","away":"두산 베어스","score":"2-2","link":"https://pick79.com/posts/detail/analyze-181874-2026-07-21-kt-wiz-suwon/"},{"date":"26.06.18","home":"두산 베어스","away":"KT 위즈","score":"2-1","link":"https://pick79.com/posts/detail/analyze-181761-2026-06-18-doosan-bears/"},{"date":"26.06.17","home":"두산 베어스","away":"KT 위즈","score":"1-8","link":"https://pick79.com/posts/detail/analyze-181752-2026-06-17-doosan-bears/"},{"date":"26.06.16","home":"두산 베어스","away":"KT 위즈","score":"2-6","link":"https://pick79.com/posts/detail/analyze-181747-2026-06-16-doosan-bears/"},{"date":"26.05.28","home":"두산 베어스","away":"KT 위즈","score":"3-11","link":"https://pick79.com/posts/detail/analyze-181667-2026-05-28-doosan-bears/"}]'
+summary: "KT 위즈는 시즌 전체 성적과 득점 생산력에서 여전히 상위권 흐름을 유지하고 있고, 홈에서 경기 운영이 붙을 때는 공격 전개가 한층 매끄럽게 살아나는 모습입니다. 두산 베어스도 시즌 성적 자체는 탄탄하지만, 최근 흐름과 상대전적을 함께 보면 KT 위즈가 득점 확장성과 상성 면에서 조금 더 우세해 보입니다. 선발 매치업에서는 두 팀 모두 안정감이 있으나, KT 위즈가 상위 타선의 폭발력과 홈 이점을 앞세워 경기를 더 주도할 가능성이 높습니다. 전반적으로는 KT 위즈가 한 박자 더 빠르게 흐름을 잡고 우위를 지켜갈 그림이 자연스럽습니다."
+homeRecent: '[{"date":"26.08.23","home":"SSG 랜더스","away":"KT 위즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823KTSK02026-2026-08-23-ssg-landers/"},{"date":"26.08.21","home":"SSG 랜더스","away":"KT 위즈","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821KTSK02026-2026-08-21-ssg-landers/"},{"date":"26.08.20","home":"LG 트윈스","away":"KT 위즈","score":"4-16","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820KTLG02026-2026-08-20-lg-twins/"},{"date":"26.08.19","home":"LG 트윈스","away":"KT 위즈","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819KTLG02026-2026-08-19-lg-twins/"},{"date":"26.08.18","home":"LG 트윈스","away":"KT 위즈","score":"9-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818KTLG02026-2026-08-18-lg-twins/"}]'
+awayRecent: '[{"date":"26.08.23","home":"두산 베어스","away":"롯데 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LTOB02026-2026-08-23-doosan-bears/"},{"date":"26.08.21","home":"두산 베어스","away":"롯데 자이언츠","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821LTOB02026-2026-08-21-doosan-bears/"},{"date":"26.08.20","home":"NC 다이노스","away":"두산 베어스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820OBNC02026-2026-08-20-nc-dinos/"},{"date":"26.08.19","home":"NC 다이노스","away":"두산 베어스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819OBNC02026-2026-08-19-nc-dinos/"},{"date":"26.08.18","home":"NC 다이노스","away":"두산 베어스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818OBNC02026-2026-08-18-nc-dinos/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KT 위즈"
+pickWinResult: "승"
+pickHandicapTeam: "KT 위즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "애슬레틱스 vs 미네소타 트윈스 경기분석·라인업·결장자·통계·승부예측 (8월 26일) | MLB - 픽천국"
+date: 2026-08-26T01:40:00.000Z
+description: "애슬레틱스 vs 미네소타 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260826MNOA0-2026-08-26-athletics"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애슬레틱스"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+homeAnalysis: "애슬레틱스는 2026시즌 최근 82경기 30승 1무 51패, 승률 .389, 평균 득점 4.4로 시즌 전체 전력은 하위권이지만 최근 10경기에서는 4승 6패, 평균 득점 5.1로 타선 응집력이 살아난 흐름입니다. 득점 생산이 시즌 평균보다 높아진 점이 특히 눈에 띄며, 강한 상대를 만나도 한 번에 무너지는 경기보다는 득점 경쟁으로 끌고 가는 장면이 늘고 있습니다. 다만 실점 억제는 여전히 불안해 보이고, 접전에서는 수비 집중력과 불펜 운용이 승부를 가를 가능성이 큽니다. 홈에서는 공격 템포를 끌어올리며 상대에게 압박을 주는 장면이 나오지만, 큰 점수차로 버티기보다는 주고받는 흐름이 많아 보입니다. 주전 결장자가 적지 않은 상황이라도 최근에는 대체 자원들이 공격 쪽에서 최소한의 생산을 이어가고 있어, 홈에서 반등 기미를 더해가고 있습니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 최근 92경기 43승 0무 49패, 승률 .481, 평균 득점 4.1로 애슬레틱스보다 시즌 전력은 한 단계 위에 있습니다. 다만 최근 10경기에서는 4승 6패, 평균 득점 3.3으로 공격 흐름이 꺾여 있고, 원정에서는 득점이 더 떨어지는 모습이어서 고점 대비 주춤한 인상이 강합니다. 특히 최근 원정 연전에서 실점 부담이 커진 점은 수비와 투수 운용 모두에 압박으로 작용하고 있습니다. 시즌 득실도 애슬레틱스보다 나쁘지 않지만, 최근 경기에서는 타선이 길게 침묵하는 구간이 반복되며 경기 주도권을 놓치는 장면이 늘고 있습니다. 주축 전력의 공백도 겹쳐 있어, 초반에 흐름을 잡지 못하면 후반 추격이 쉽지 않은 구도입니다."
+homePower: "최근 타선이 시즌 평균을 웃돌며 상향 곡선임|장기 결장 속에서도 득점 루트가 완전히 끊기지 않음|홈에서는 상대에게 압박을 주는 경기 운영이 가능함|수비 불안은 남아 있어 다득점 접전이 자주 형성됨|미네소타 트윈스 상대로는 상성 압박을 되돌릴 여지 보임"
+awayPower: "시즌 승률은 우위지만 최근 타격 효율이 급감했음|원정에서 득점 기복이 커져 공격 설계가 무거워 보임|연패 구간에 실점이 늘며 경기 후반 안정감이 흔들림|주축 결장으로 중심 타선의 연결성이 약해진 상태임|애슬레틱스의 홈 득점 흐름과 맞물려 접전 부담이 큼"
+h2h: '[{"date":"26.07.27","home":"미네소타 트윈스","away":"애슬레틱스","score":"11-8","link":"https://pick79.com/posts/detail/analyze-179596-2026-07-27-minnesota-twins/"},{"date":"26.07.26","home":"미네소타 트윈스","away":"애슬레틱스","score":"2-0","link":"https://pick79.com/posts/detail/analyze-179588-2026-07-26-minnesota-twins/"},{"date":"26.07.25","home":"미네소타 트윈스","away":"애슬레틱스","score":"0-2"}]'
+summary: "미네소타 트윈스가 시즌 전력에서는 조금 앞서 있지만, 최근 흐름만 놓고 보면 애슬레틱스의 타선 상승세가 더 또렷하게 보입니다. 애슬레틱스는 시즌 전체 성적은 낮지만 최근에는 득점력이 살아나며 홈에서 버틸 힘을 보여주고 있고, 미네소타 트윈스는 시즌 승률 우위에도 최근 원정 득점이 떨어지면서 공격 완성도가 흔들리고 있습니다. 두 팀 모두 결장 이슈가 적지 않지만, 최근 경기 내용과 맞대결 흐름까지 함께 보면 애슬레틱스가 주도권을 잡을 가능성이 조금 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824OAHO0-2026-08-24-houston-astros/"},{"date":"26.08.23","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823OAHO0-2026-08-23-houston-astros/"},{"date":"26.08.21","home":"캔자스시티 로열스","away":"애슬레틱스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821OAKC0-2026-08-21-kansas-city-royals/"},{"date":"26.08.20","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820OAKC0-2026-08-20-kansas-city-royals/"},{"date":"26.08.19","home":"캔자스시티 로열스","away":"애슬레틱스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819OAKC0-2026-08-19-kansas-city-royals/"}]'
+awayRecent: '[{"date":"26.08.24","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MNSD0-2026-08-24-san-diego-padres/"},{"date":"26.08.22","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MNSD0-2026-08-22-san-diego-padres/"},{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"},{"date":"26.08.19","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819ATMN0-2026-08-19-minnesota-twins/"},{"date":"26.08.18","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818ATMN0-2026-08-18-minnesota-twins/"}]'
+injuryHome: "Jose Suarez (긴장)|Brooks Kriske (신경 압박)|Denzel Clarke (긴장)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)"
+injuryAway: "Austin Martin (긴장)|Joe Ryan (긴장)|Mike Paredes (긴장)|Mick Abel (수술)|Cole Sands (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애슬레틱스"
+pickWinResult: "승"
+pickHandicapTeam: "애슬레틱스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
