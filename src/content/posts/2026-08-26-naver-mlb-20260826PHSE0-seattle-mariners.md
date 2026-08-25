@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.24","home":"시애틀 매리너스","away":"시카�
 awayRecent: '[{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.20","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies/"},{"date":"26.08.19","home":"필라델피아 필리스","away":"마이애미 말린스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819FLPH0-2026-08-19-philadelphia-phillies/"}]'
 injuryHome: "Cole Wilcox (근육 긴장으로 15일 부상자 명단)|J.P. Crawford (염증으로 10일 부상자 명단)|Bryan Woo (통증으로 출전 여부 불투명)|Cooper Criswell (근육 긴장으로 60일 부상자 명단)|Brendan Donovan (7일 부상자 명단)"
 injuryAway: "Derek Hill (통증으로 출전 여부 불투명)|Rafael Marchan (힘줄염으로 10일 부상자 명단)|Caleb Kilian (근육 긴장으로 15일 부상자 명단)|Tanner Banks (근육 긴장으로 60일 부상자 명단)|Felix Reyes (골절로 60일 부상자 명단)"
-homeLineup: ''
+homeLineup: "[\"선발투수 B. Woo (9-8, 4.10) ERA 4.10|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
 awayLineup: "[\"선발투수 J. Luzardo (11-5, 3.35) ERA 3.35|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
 homeFormation: ""
 awayFormation: ""
