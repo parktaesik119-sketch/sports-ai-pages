@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.24","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Victor Bericoto (경미한 통증)|Willy Adames (경미한 통증)|Jesus Rodriguez (신경 눌림)|Marcelo Mayer (골절)|Matt Gage (근육 손상)"
 injuryAway: "Brandon Williamson (통증)|Graham Ashcraft (염좌)|Michael Toglia (탈구)|Spencer Steer (염좌)|Blake Dunn (수술)"
 homeLineup: "[\"선발투수 A. Houser (4-7, 4.08) ERA 4.08|https://a.espncdn.com/i/headshots/mlb/players/full/32157.png\"]"
-awayLineup: "[\"선발투수 B. Singer (5-11, 4.72) ERA 4.72|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
+awayLineup: "[\"선발투수 B. Singer (5-11, 4.72) ERA 4.72|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\",\"1번 E. De La Cruz (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"2번 S. Stewart (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"3번 J. Bleday (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"4번 T. Stephenson (C)|https://a.espncdn.com/i/headshots/mlb/players/full/34975.png\",\"5번 E. Suarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32367.png\",\"6번 M. McLain (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4422899.png\",\"7번 H. Rodriguez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5122878.png\",\"8번 K. Hayes (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/35020.png\",\"9번 T. Friedl (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/36020.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
