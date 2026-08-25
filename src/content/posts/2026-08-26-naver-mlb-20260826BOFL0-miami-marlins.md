@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.24","home":"마이애미 말린스","away":"워싱�
 awayRecent: '[{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox/"},{"date":"26.08.23","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SFBO0-2026-08-23-boston-red-sox/"},{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"},{"date":"26.08.19","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819AZBO0-2026-08-19-boston-red-sox/"}]'
 injuryHome: "Pete Fairbanks (특정되지 않음)|Anthony Bender (골절)|Max Meyer (근육 부상)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 injuryAway: "Garrett Whitlock (염증)|Isiah Kiner-Falefa (염증)|Trevor Story (수술)|Roman Anthony (염좌)|Justin Slaten (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 T. Phillips (3-6, 3.67) ERA 3.67|https://a.espncdn.com/i/headshots/mlb/players/full/41247.png\"]"
 awayLineup: "[\"선발투수 P. Tolle (8-6, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
 homeFormation: ""
 awayFormation: ""
