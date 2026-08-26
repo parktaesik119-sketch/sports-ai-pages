@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.25","home":"LA 에인절스","away":"클리블랜�
 injuryHome: "Shaun Anderson (염증)|Wade Meckler (비공개)|Sebastian Rivero (수술)|Nolan Schanuel (근육 긴장)|Samy Natera Jr. (경련)"
 injuryAway: "Chase DeLauter (비공개)|Rhys Hoskins (염증)|Slade Cecconi (통증)|Shawn Armstrong (근육 긴장)"
 homeLineup: "[\"선발투수 G. Rodriguez (4-5, 6.41) ERA 6.41|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
-awayLineup: "[\"선발투수 J. Cantillo (9-7, 3.73) ERA 3.73|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\"]"
+awayLineup: "[\"선발투수 J. Cantillo (9-7, 3.73) ERA 3.73|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\",\"1번 S. Kwan (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\",\"2번 T. Bazzana (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png\",\"3번 J. Ramirez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32801.png\",\"4번 J. Adell (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"5번 N. Lowe (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40538.png\",\"6번 A. Martinez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42497.png\",\"7번 A. Genao (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5204351.png\",\"8번 A. Hedges (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32168.png\",\"9번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

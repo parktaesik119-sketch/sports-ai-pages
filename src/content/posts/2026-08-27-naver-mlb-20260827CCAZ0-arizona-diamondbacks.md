@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.25","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Lourdes Gurriel Jr. (긴장)|Blake Walston (수술)|Ryan Thompson (긴장)|Tommy Troy (염좌)|Ketel Marte (염증)"
 injuryAway: "Matt Shaw (염좌)|Hoby Milner (수술)|Tyler Austin (수술)|Edward Cabrera (찰과상)|Shelby Miller (수술)"
 homeLineup: "[\"선발투수 E. Rodriguez (13-4, 2.61) ERA 2.61|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
-awayLineup: "[\"선발투수 M. Boyd (8-2, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (8-2, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\",\"1번 P. Crow-Armstrong (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png\",\"2번 S. Suzuki (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png\",\"3번 A. Bregman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/34886.png\",\"4번 M. Busch (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42415.png\",\"5번 N. Hoerner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41219.png\",\"6번 T. Taylor (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/32783.png\",\"7번 P. Ramirez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5012995.png\",\"8번 C. Kelly (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32797.png\",\"9번 G. Arias (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/40344.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
