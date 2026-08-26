@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.25","home":"오릭스 버팔로스","away":"라쿠�
 awayRecent: '[{"date":"26.08.25","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825RTOX0-2026-08-25-orix-buffaloes/"},{"date":"26.08.23","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823SERT0-2026-08-23-rakuten-gold-eagles/"},{"date":"26.08.22","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260822SERT0-2026-08-22-rakuten-gold-eagles/"},{"date":"26.08.21","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821SERT0-2026-08-21-rakuten-gold-eagles/"},{"date":"26.08.20","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260820JLRT0-2026-08-20-rakuten-gold-eagles/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Sean Hjelle (3-7, 2.63)|https://p.npb.jp/players_photo/2026/180/b/069_03505152.jpg\"]"
+awayLineup: "[\"선발투수 Kenta Maeda (3-4, 2.73)|https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
