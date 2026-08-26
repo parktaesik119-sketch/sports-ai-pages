@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.25","home":"애슬레틱스","away":"미네소타 �
 injuryHome: "Jose Suarez (염좌)|Denzel Clarke (염좌)|Brooks Kriske (신경 압박)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)"
 injuryAway: "Austin Martin (염좌)|Joe Ryan (염좌)|Mike Paredes (염좌)|Mick Abel (수술)|Cole Sands (수술)"
 homeLineup: "[\"선발투수 J.T. Ginn (8-8, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png\"]"
-awayLineup: "[\"선발투수 C. Prielipp (3-7, 5.57) ERA 5.57|https://a.espncdn.com/i/headshots/mlb/players/full/4620001.png\"]"
+awayLineup: "[\"선발투수 C. Prielipp (3-7, 5.57) ERA 5.57|https://a.espncdn.com/i/headshots/mlb/players/full/4620001.png\",\"1번 L. Keaschall (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4977664.png\",\"2번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"3번 J. Bell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"4번 R. Jeffers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41587.png\",\"5번 K. Clemens (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"6번 R. Lewis (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40635.png\",\"7번 T. Larnach (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41205.png\",\"8번 K. Culpepper (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4935268.png\",\"9번 A. Roden (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4424368.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
