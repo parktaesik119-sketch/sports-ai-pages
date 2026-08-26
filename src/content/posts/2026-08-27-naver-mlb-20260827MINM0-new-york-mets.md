@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.24","home":"밀워키 브루어스","away":"애틀�
 injuryHome: "Juan Soto (염좌)|Cionel Perez (염좌)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (염좌)"
 injuryAway: "Joel Kuhnel (건염)|Jake Bauers (근육통)|JoJo Romero (수술)|Abner Uribe (염좌)|Rob Zastryzny (염좌)"
 homeLineup: "[\"선발투수 R. Stock (0-2, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/30577.png\"]"
-awayLineup: "[\"선발투수 D. May (6-8, 4.57) ERA 4.57|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\"]"
+awayLineup: "[\"선발투수 D. May (6-8, 4.57) ERA 4.57|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\",\"1번 S. Frelick (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4417795.png\",\"2번 G. Mitchell (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4313442.png\",\"3번 B. Turang (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41179.png\",\"4번 C. Yelich (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31283.png\",\"5번 W. Contreras (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39895.png\",\"6번 L. Lara (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5138536.png\",\"7번 A. Vaughn (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42394.png\",\"8번 D. Hamilton (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42987.png\",\"9번 C. Pratt (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149101.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
