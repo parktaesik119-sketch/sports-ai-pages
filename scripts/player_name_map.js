@@ -1034,6 +1034,9 @@ const PLAYER_NAME_MAP = {
   "Lim Kwan-Sik": "임관식", // 전남 드래곤즈
   "Hyun-Joon Son": "손현준", // 김해 FC 2008
 
+  //버밍엄시티
+  "Seung-Ho Paik": "백승호",
+
 };
 
 export default PLAYER_NAME_MAP;
