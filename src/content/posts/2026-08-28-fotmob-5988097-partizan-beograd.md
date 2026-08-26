@@ -1,0 +1,37 @@
+---
+title: "FK 파르티잔 vs 헤타페 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-27T19:00:00.000Z
+description: "FK 파르티잔 vs 헤타페 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988097-2026-08-28-partizan-beograd"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "FK 파르티잔"
+awayTeam: "헤타페"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/7998.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png"
+homeAnalysis: "FK 파르티잔은 2026시즌 최근 20경기에서 7승 4무 9패, 평균 득점 1.1을 기록하며 기복이 적지 않은 전력을 보여주고 있습니다. 최근에는 헤타페전 1득점 패배와 Mladost Lucani전 패배, FK Radnicki 1923전 무득점 패배가 이어지며 공격 마무리와 경기 운영이 흔들리는 모습입니다. 다만 FK 토볼전과 여러 원정 경기에서는 승리를 만들어내며, 기본적으로는 상대에 따라 득점 기회를 찾는 힘이 살아 있는 편입니다. 홈에서는 강하게 밀어붙이는 흐름이 가능하지만, 실점 억제가 흔들리면 경기 주도권을 오래 가져가기 어렵습니다. 이번 경기에서는 밀란 알렉시치와 이고르 밀라디노비치의 중원 연결, 차카 트라오레와 에릭 코이젝의 전방 움직임이 공격의 활로를 여는 열쇠가 될 것으로 보입니다."
+awayAnalysis: "헤타페는 2026시즌 최근 13경기에서 5승 3무 5패, 평균 득점 0.7로 수비 안정감을 바탕으로 승부를 가져오는 전력이 돋보입니다. 최근에는 레이싱 산탄데르전과 파르티잔전에서 연속 득점 승리를 챙기며, 필요할 때 한 골 차 승부를 관리하는 힘을 보여주고 있습니다. 다만 알라베스전과 모나코전, 아틀레티코 마드리드전에서는 공격 전개가 막히며 득점 생산이 크게 줄어든 모습도 확인됩니다. 원정에서는 실리적인 운영이 강점이지만, 득점이 적은 팀 특성상 먼저 실점을 허용하면 추격의 폭이 좁아질 수 있습니다. 이번 경기에서는 다비드 소리아의 안정감, 데네와 사바 사조노프를 중심으로 한 수비 축, 그리고 엔네스 우날과 마르틴 사트리아노의 결정력이 핵심으로 보입니다."
+homePower: "홈 경기에서 상대 압박을 버티는 힘이 비교적 있음|득점 기복은 있으나 한 번 살아나면 폭발력도 확인됨|밀란 알렉시치-이고르 밀라디노비치 연결이 관건임|차카 트라오레의 측면 돌파가 활로가 될 가능성 있음|실점 관리가 흔들리면 주도권 유지가 어려운 편임"
+awayPower: "헤타페는 적은 득점으로도 승부를 정리하는 실리형 전력임|다비드 소리아 중심의 수비 안정감이 큰 축임|데네-사바 사조노프 축이 실점 억제에 강점임|엔네스 우날의 한 방이 경기 흐름을 바꾸는 변수임|원정에서도 템포 조절이 가능한 운영력은 검증됨"
+h2h: '[{"date":"26.08.21","home":"헤타페","away":"FK 파르티잔","score":"3-1","link":"https://pick79.com/posts/detail/analyze-fotmob-5988073-2026-08-21-getafe/"}]'
+summary: "헤타페가 시즌 전력과 최근 흐름에서 조금 더 안정적인 우위를 보이고 있습니다. 파르티잔은 홈과 원정을 가리지 않고 득점 기회를 만들 수는 있지만, 실점이 따라붙는 경기에서는 흐름을 다시 가져오는 힘이 다소 약하게 드러나고 있습니다. 반면 헤타페는 득점 수가 많지 않아도 수비 밸런스와 경기 관리가 좋아서, 이번 경기에서도 먼저 균형을 잡는 쪽으로 전개를 유리하게 끌 가능성이 높아 보입니다. 최근 맞대결에서도 헤타페가 3-1로 앞섰던 만큼, 전체 전력과 상성 모두를 놓고 보면 헤타페 쪽 기대감이 더 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Francho Serrano (연골 파열)|Christantus Uche (십자인대 부상)|Juanmi (무릎 부상)"
+homeLineup: '["Milos Krunic (GK)|https://images.fotmob.com/image_resources/playerimages/1661188.png","Samson Nwulu (DF)|https://images.fotmob.com/image_resources/playerimages/1826789.png","Stefan Milic (DF)|https://images.fotmob.com/image_resources/playerimages/862194.png","Stefan Mitrovic (DF)|https://images.fotmob.com/image_resources/playerimages/196203.png","Mateja Milovanovic (DF)|https://images.fotmob.com/image_resources/playerimages/1389244.png","Ognjen Ugresic (MF)|https://images.fotmob.com/image_resources/playerimages/1574188.png","Milan Aleksic (MF)|https://images.fotmob.com/image_resources/playerimages/1631610.png","Nikola Cumic (FW)|https://images.fotmob.com/image_resources/playerimages/827669.png","Igor Miladinovic (MF)|https://images.fotmob.com/image_resources/playerimages/1392758.png","Chaka Traorè (FW)|https://images.fotmob.com/image_resources/playerimages/1224408.png","Erik Kojzek (FW)|https://images.fotmob.com/image_resources/playerimages/1664568.png"]'
+awayLineup: '["David Soria (GK)|https://images.fotmob.com/image_resources/playerimages/581919.png","Saba Sazonov (DF)|https://images.fotmob.com/image_resources/playerimages/1179368.png","Djené (DF)|https://images.fotmob.com/image_resources/playerimages/421365.png","Zaid Abner Romero (DF)|https://images.fotmob.com/image_resources/playerimages/1118199.png","Andrés García (DF)|https://images.fotmob.com/image_resources/playerimages/1430406.png","Ramón Terrats (MF)|https://images.fotmob.com/image_resources/playerimages/1202587.png","Orel Mangala (MF)|https://images.fotmob.com/image_resources/playerimages/765693.png","Francho Serrano (MF)|https://images.fotmob.com/image_resources/playerimages/1183650.png","Johan Mojica (DF)|https://images.fotmob.com/image_resources/playerimages/474673.png","Enes Ünal (FW)|https://images.fotmob.com/image_resources/playerimages/464486.png","Martín Satriano (FW)|https://images.fotmob.com/image_resources/playerimages/1197039.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "3-5-2"
+homeCoach: "Sasa Ilic|https://images.fotmob.com/image_resources/playerimages/30982.png"
+awayCoach: "José Bordalás|https://images.fotmob.com/image_resources/playerimages/862633.png"
+pickWinTeam: "헤타페"
+pickWinResult: "승"
+pickHandicapTeam: "헤타페"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "아우스트리아 빈 vs 스포르팅 브라가 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-27T18:30:00.000Z
+description: "아우스트리아 빈 vs 스포르팅 브라가 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988095-2026-08-28-austria-wien"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "아우스트리아 빈"
+awayTeam: "스포르팅 브라가"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10011.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png"
+homeAnalysis: "아우스트리아 빈은 2026시즌 최근 18경기에서 7승 4무 7패, 평균 득점 1.3을 기록하며 승패 균형이 비교적 비슷한 전력으로 보입니다. 최근에는 브라가전 0득점 패배가 있었지만, 하르트베르크전 2-0 승리와 베이트르 예루살렘전 2득점 경기가 함께 나와 공격이 완전히 막혀 있는 흐름은 아닙니다. 다만 LASK전 0득점 패배와 울프스베르거전 0-3 패배처럼 득점이 끊길 때 경기 주도권을 잃는 장면도 보여 수비 부담이 커지는 편입니다. 홈에서는 강한 압박과 전진 배치가 돋보이지만, 마무리에서 기복이 있어 사무엘 사힌-라들링거 골키퍼의 안정적인 대응과 알렉산다르 드라고비치의 수비 조율이 중요하게 작용할 것으로 보입니다. 요하네스 에게슈타인과 율리안 헤트베르가 전방에서 연결 고리를 잘 만들어 주면, 홈에서 한 번에 분위기를 바꿀 가능성도 충분합니다."
+awayAnalysis: "스포르팅 브라가는 2026시즌 최근 17경기에서 6승 5무 6패, 평균 득점 9.1을 기록하며 경기마다 득점 생산력의 폭이 비교적 크게 드러나는 전력입니다. 최근에는 아우스트리아 빈전 2-0 승리와 디나모 민스크전 무실점 경기가 이어지며 수비 안정감이 살아났고, 모레이렌스전 2득점처럼 공격 전개도 끊기지 않고 있습니다. 원정에서도 스토크 시티전과 부엑스턴전에서 연달아 좋은 결과를 냈던 만큼, 전방 압박과 빠른 전환이 잘 맞는 흐름입니다. 다만 브라가 역시 수비진의 결장 변수가 있어, 빅토르 고메스와 조앙 무티뉴 중심으로 중원 점유를 얼마나 안정적으로 이어가느냐가 핵심입니다. 프란 나바로와 가브리엘 실바가 박스 안에서 마무리를 살려 준다면 원정에서도 경기를 자기 쪽으로 끌어올 힘이 충분합니다."
+homePower: "브라가전 패배로 상성 열세가 확인됨|홈에서도 실점 뒤 흔들림이 커지는 편임|사힌-라들링거의 반사 신경이 버팀목임|드라고비치 중심 수비 정리가 중요함|에게슈타인-헤트베르 연계가 반전 열쇠임"
+awayPower: "아우스트리아 빈 상대로 상성 우위가 확인됨|원정에서도 무실점 운영이 자주 드러남|조앙 무티뉴 중심 경기 조율이 안정적임|프란 나바로의 박스 안 결정력 기대됨|수비 결장에도 전환 속도는 여전히 강점임"
+h2h: '[{"date":"26.08.21","home":"스포르팅 브라가","away":"아우스트리아 빈","score":"2-0","link":"https://pick79.com/posts/detail/analyze-fotmob-5988071-2026-08-21-braga/"}]'
+summary: "아우스트리아 빈은 2026시즌 18경기에서 승패가 비슷하게 갈리며 기복이 있는 편이지만, 평균 득점 1.3으로 홈에서 한 번 흐름을 타면 공격이 살아날 여지도 있습니다. 스포르팅 브라가는 17경기에서 6승 5무 6패로 전체 균형이 나쁘지 않고, 최근에는 무실점과 다득점 경기를 번갈아 보여 주며 경기 운영 폭이 더 넓어 보입니다. 특히 맞대결에서도 브라가가 앞선 결과를 가져갔기 때문에, 이번 경기는 브라가가 중원 장악과 전방 마무리에서 조금 더 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Noah Botic (부상)|Manprit Sarkaria (십자인대 부상)"
+injuryAway: "Bright Arrey-Mbi (허벅지 부상)|Sikou Niakaté (아킬레스건 부상)"
+homeLineup: '["Samuel Sahin-Radlinger (GK)|https://images.fotmob.com/image_resources/playerimages/176431.png","Johannes Handl (DF)|https://images.fotmob.com/image_resources/playerimages/951272.png","Aleksandar Dragovic (DF)|https://images.fotmob.com/image_resources/playerimages/128106.png","Ibrahim Buhari (DF)|https://images.fotmob.com/image_resources/playerimages/1262823.png","Reinhold Ranftl (MF)|https://images.fotmob.com/image_resources/playerimages/447085.png","Philipp Maybach (MF)|https://images.fotmob.com/image_resources/playerimages/1670148.png","Vasilije Markovic (MF)|https://images.fotmob.com/image_resources/playerimages/1838767.png","Tae-Seok Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1107251.png","Manfred Fischer (MF)|https://images.fotmob.com/image_resources/playerimages/658636.png","Johannes Eggestein (FW)|https://images.fotmob.com/image_resources/playerimages/638127.png","Julian Hettwer (FW)|https://images.fotmob.com/image_resources/playerimages/1206523.png"]'
+awayLineup: '["Bernardo Fontes (GK)|https://images.fotmob.com/image_resources/playerimages/1362439.png","Víctor Gómez (MF)|https://images.fotmob.com/image_resources/playerimages/927647.png","Gustaf Lagerbielke (DF)|https://images.fotmob.com/image_resources/playerimages/919848.png","Carvalho (DF)|https://images.fotmob.com/image_resources/playerimages/816001.png","Adrian Bajrami (DF)|https://images.fotmob.com/image_resources/playerimages/1348741.png","João Moutinho (MF)|https://images.fotmob.com/image_resources/playerimages/37549.png","Demir Tiknaz (MF)|https://images.fotmob.com/image_resources/playerimages/1300653.png","Denis Huseinbasic (MF)|https://images.fotmob.com/image_resources/playerimages/1235068.png","Pau Víctor (FW)|https://images.fotmob.com/image_resources/playerimages/1159237.png","Fran Navarro (FW)|https://images.fotmob.com/image_resources/playerimages/671855.png","Gabriel Silva (FW)|https://images.fotmob.com/image_resources/playerimages/1173684.png"]'
+homeFormation: "3-4-3"
+awayFormation: "4-3-3"
+homeCoach: "Stephan Helm|https://images.fotmob.com/image_resources/playerimages/268979.png"
+awayCoach: "Carlos Vicens|https://images.fotmob.com/image_resources/playerimages/1782707.png"
+pickWinTeam: "스포르팅 브라가"
+pickWinResult: "승"
+pickHandicapTeam: "스포르팅 브라가"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

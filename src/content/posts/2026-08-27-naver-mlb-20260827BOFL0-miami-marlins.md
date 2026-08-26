@@ -1,0 +1,37 @@
+---
+title: "마이애미 말린스 vs 보스턴 레드삭스 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | MLB - 픽천국"
+date: 2026-08-26T22:40:00.000Z
+description: "마이애미 말린스 vs 보스턴 레드삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260827BOFL0-2026-08-27-miami-marlins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "마이애미 말린스"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+homeAnalysis: "마이애미 말린스는 2026시즌 최근 98경기에서 48승 48패 0무, 승률 .500에 평균 득점 4.1을 기록하며 중위권 전력을 유지하고 있습니다. 최근 흐름을 보면 한 번 길게 흔들린 뒤에도 다시 승리를 묶어내는 장면이 나와 반등과 기복이 함께 보입니다. 특히 홈에서는 득점이 한 번 살아나면 연속으로 경기 주도권을 잡는 장면이 인상적이며, 반대로 초반 실점이 길어지면 추격 흐름이 무거워지는 편입니다. 득실 차가 크지 않다는 점은 수비가 완전히 무너지지는 않지만, 강한 상대를 상대로는 타선의 응집력이 더 중요해진다는 뜻으로 해석됩니다. 이번 맞대결에서는 상대의 장타와 선발 공략 압박을 얼마나 줄이느냐가 핵심이며, 홈에서의 버티는 힘이 관건이 될 것으로 보입니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 최근 97경기에서 55승 40패 0무, 승률 .579에 평균 득점 4.5를 기록하며 홈과 원정을 가리지 않고 안정적인 전력을 보여주고 있습니다. 최근 흐름도 상위권다운 힘이 이어지고 있어, 공격에서 꾸준히 점수를 쌓고 마운드가 이를 받쳐주는 전개가 자주 나타나고 있습니다. 원정에서도 득점 생산이 크게 떨어지지 않아 경기 초반부터 상대를 압박하는 모습이 돋보입니다. 다만 장기 결장자가 적지 않아 세밀한 수비 운영과 타선의 연결에서는 조금씩 공백이 느껴질 수 있습니다. 그럼에도 전체적인 전력 균형과 최근 경기 내용만 놓고 보면, 원정에서도 우위를 가져갈 가능성이 높아 보입니다."
+homePower: "홈에서 반등과 흔들림이 함께 나타나는 전력임|득점이 붙는 날엔 연속 득점 흐름이 살아남|득실 차가 작아 접전 대응력은 나쁘지 않음|초반 실점 시 추격 부담이 커지는 편임|상위권 상대로는 타선 응집력이 승부처임"
+awayPower: "최근 원정에서도 공격 효율이 크게 꺾이지 않음|상위권 답게 점수 생산과 승리 연결이 안정적임|장기 결장 공백 속에서도 전력 균형이 유지됨|다득점 경기와 저득점 승부를 모두 소화함|경기 운영이 단단해 접전에서도 우세가 보임"
+h2h: '[{"date":"26.08.25","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825BOFL0-2026-08-25-miami-marlins/"}]'
+summary: "마이애미 말린스는 2026시즌 승률 .500, 득실 +19로 버티는 힘은 있지만, 최근 흐름이 일정하게 이어지지 않아 상위 전력을 상대로는 안정감이 다소 아쉬워 보입니다. 보스턴 레드삭스는 2026시즌 승률 .579, 득실 +101로 공격과 수비의 균형이 더 좋고, 최근에도 높은 득점력을 유지하며 경기 주도권을 가져오는 모습이 뚜렷합니다. 여기에 상대전적에서도 보스턴 레드삭스가 앞서고 있어, 전력 차와 최근 흐름을 함께 보면 보스턴 레드삭스가 우세를 점할 가능성이 높습니다. 마이애미 말린스가 홈에서 끈질기게 버티더라도, 전체적인 안정감과 완성도에서는 보스턴 레드삭스 쪽이 한 걸음 앞서 있는 경기로 보입니다."
+homeRecent: '[{"date":"26.08.25","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825BOFL0-2026-08-25-miami-marlins/"},{"date":"26.08.24","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MOFL0-2026-08-24-miami-marlins/"},{"date":"26.08.23","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823MOFL0-2026-08-23-miami-marlins/"},{"date":"26.08.22","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MOFL0-2026-08-22-miami-marlins/"},{"date":"26.08.20","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies/"}]'
+awayRecent: '[{"date":"26.08.25","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825BOFL0-2026-08-25-miami-marlins/"},{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox/"},{"date":"26.08.23","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SFBO0-2026-08-23-boston-red-sox/"},{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"}]'
+injuryHome: "Anthony Bender (골절)|Pete Fairbanks (목 신경 압박)|Max Meyer (근육 손상)|Ronny Henriquez (수술)|Adam Mazur (수술)"
+injuryAway: "Adley Rutschman (통증)|Roman Anthony (염좌)|Trevor Story (수술)|Garrett Whitlock (염증)|Isiah Kiner-Falefa (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

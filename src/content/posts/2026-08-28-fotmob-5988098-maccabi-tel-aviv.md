@@ -1,0 +1,37 @@
+---
+title: "마카비 텔아비브 vs FC 루가노 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-27T16:00:00.000Z
+description: "마카비 텔아비브 vs FC 루가노 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988098-2026-08-28-maccabi-tel-aviv"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "마카비 텔아비브"
+awayTeam: "FC 루가노"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/7855.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/7896.png"
+homeAnalysis: "마카비 텔아비브는 2026시즌 최근 30경기에서 21승 2무 7패, 평균 득점 47.8을 기록하며 전체 전력의 무게감이 뚜렷합니다. 최근에도 하포엘 예루살렘전 5득점, 마카비 네타냐전과 셰리프 티라스폴전 연승처럼 득점 흐름이 꾸준하게 이어지고 있습니다. 반면 CSKA 소피아전 홈 패배처럼 수비 집중력이 흔들리는 장면도 있어, 경기 운영의 완성도를 얼마나 안정적으로 유지하느냐가 중요해 보입니다. 도르 페레츠와 이도 샤하르를 축으로 중원이 살아 있고, 오셰르 다비다와 헬리오 바렐라의 측면 침투도 위협적입니다. 다만 이온 니콜라에스쿠의 결장은 마무리 쪽 무게를 조금 덜어낼 수 있어, 초반부터 압박과 결정력의 균형을 잘 맞추는 흐름이 필요해 보입니다. 홈에서 주도권을 잡는 전개가 이어지면 충분히 좋은 경기를 기대할 수 있습니다."
+awayAnalysis: "FC 루가노는 2026시즌 최근 30경기에서 16승 6무 8패, 평균 득점 1.9를 기록하며 최근 전반적인 공격 효율이 안정적으로 유지되고 있습니다. 직전 마카비 텔아비브전 2-1 승리와 베데지오 칼초전 10득점 승리에서 보이듯, 한 번 흐름을 타면 득점이 크게 열리는 장면이 분명합니다. NSI 루나빅전과 FC 취리히전에서도 공격 템포가 잘 살아 있었고, 3-5-2 구조 안에서 전방과 중원의 간격이 잘 맞아 보입니다. 다만 에즈그얀 알리오스키, 다니엘 도스 산토스, 마르팀 마르케스, 클라우디오 카사노의 결장은 측면과 2선의 두께를 크게 약화시키는 변수입니다. 케빈 베렌스와 레나토 스테펜이 버티는 전방은 여전히 날카롭지만, 결장 공백이 길어질수록 수비 전환 부담이 커질 수 있습니다. 원정에서도 공격은 가능하지만, 전력의 균형은 다소 흔들려 보입니다."
+homePower: "도르 페레츠 중심 중원 장악력 강점임|오셰르 다비다 측면 침투 위협 뚜렷함|헬리오 바렐라로 마무리 폭 넓어짐|이온 니콜라에스쿠 결장으로 종결력 변수음|홈 주도권 잡으면 실점 억제 가능성 높음"
+awayPower: "3-5-2로 폭 넓힌 전개가 장점임|케빈 베렌스-레나토 스테펜 연계 주목됨|한 번 터지면 대량 득점도 가능한 팀임|주전 4명 결장으로 측면 두께 약화됨|원정에서도 템포 유지력은 검증됨"
+h2h: '[{"date":"26.08.21","home":"FC 루가노","away":"마카비 텔아비브","score":"2-1","link":"https://pick79.com/posts/detail/analyze-fotmob-5988074-2026-08-21-lugano/"}]'
+summary: "마카비 텔아비브는 2026시즌 21승 2무 7패로 더 높은 승수와 강한 경기 지배력을 보여주고 있고, FC 루가노는 16승 6무 8패로 꾸준한 흐름을 유지하고 있습니다. 득점 흐름만 보면 두 팀 모두 위협적이지만, 마카비 텔아비브가 전체적인 공격 전개와 경기 주도 면에서 조금 더 안정적으로 보입니다. 다만 직전 맞대결에서는 FC 루가노가 2-1로 이겼고, 이번에도 원정팀의 전방 화력은 충분히 경계할 만합니다. 그럼에도 결장자 부담과 시즌 전체 전력을 함께 보면 마카비 텔아비브 쪽이 조금 더 우세하게 경기를 풀어갈 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Ion Nicolaescu (십자 인대 부상)"
+injuryAway: "Ezgjan Alioski (충돌 부상)|Daniel Dos Santos (충돌 부상)|Martim Marques (근육 부상)|Claudio Cassano (십자 인대 부상)"
+homeLineup: '["Ofek Melika (GK)|https://images.fotmob.com/image_resources/playerimages/1477918.png","Noam Ben Harush (DF)|https://images.fotmob.com/image_resources/playerimages/1477915.png","Itay Ben Hamo (DF)|https://images.fotmob.com/image_resources/playerimages/1358125.png","Raz Shlomo (DF)|https://images.fotmob.com/image_resources/playerimages/940461.png","Roy Revivo (DF)|https://images.fotmob.com/image_resources/playerimages/1337914.png","Dor Peretz (MF)|https://images.fotmob.com/image_resources/playerimages/580694.png","Itamar Noy (MF)|https://images.fotmob.com/image_resources/playerimages/1298551.png","Ido Shahar (MF)|https://images.fotmob.com/image_resources/playerimages/1116740.png","Osher Davida (FW)|https://images.fotmob.com/image_resources/playerimages/1155249.png","Ester Sokler (FW)|https://images.fotmob.com/image_resources/playerimages/813621.png","Hélio Varela (FW)|https://images.fotmob.com/image_resources/playerimages/1524518.png"]'
+awayLineup: '["David von Ballmoos (GK)|https://images.fotmob.com/image_resources/playerimages/338299.png","Antonios Papadopoulos (DF)|https://images.fotmob.com/image_resources/playerimages/892068.png","Lars Lukas Mai (DF)|https://images.fotmob.com/image_resources/playerimages/844430.png","Hannes Delcroix (DF)|https://images.fotmob.com/image_resources/playerimages/822716.png","Mattia Zanotti (DF)|https://images.fotmob.com/image_resources/playerimages/1276510.png","Uran Bislimi (MF)|https://images.fotmob.com/image_resources/playerimages/1189687.png","Anto Grgic (MF)|https://images.fotmob.com/image_resources/playerimages/656668.png","Daniel Dos Santos (MF)|https://images.fotmob.com/image_resources/playerimages/1244384.png","Yanis Cimignani (MF)|https://images.fotmob.com/image_resources/playerimages/1177753.png","Kevin Behrens (FW)|https://images.fotmob.com/image_resources/playerimages/614923.png","Renato Steffen (MF)|https://images.fotmob.com/image_resources/playerimages/384376.png"]'
+homeFormation: "4-3-3"
+awayFormation: "3-5-2"
+homeCoach: "Kenny Miller|https://images.fotmob.com/image_resources/playerimages/34177.png"
+awayCoach: "Mattia Croci-Torti|https://images.fotmob.com/image_resources/playerimages/7692.png"
+pickWinTeam: "마카비 텔아비브"
+pickWinResult: "승"
+pickHandicapTeam: "마카비 텔아비브"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

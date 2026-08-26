@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | MLB - 픽천국"
+date: 2026-08-26T20:10:00.000Z
+description: "시애틀 매리너스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 최근 81경기 39승 41패, 승률 .477, 평균 득점 3.9로 승패가 엇갈리는 흐름 속에서도 경기력의 끈을 놓지 않고 있습니다. 최근 10경기에서는 평균 득점이 4.6으로 올라오며 공격 흐름이 조금씩 살아나는 모습이 보이고, 특히 강한 상대를 상대로도 득점을 꾸준히 만들어내는 점이 돋보입니다. 홈에서는 안정적인 득점 지원이 붙을 때 경기 운영이 한층 부드러워지는 편이고, 최근 필라델피아 필리스를 상대로 9득점을 기록한 점도 자신감을 더해 주고 있습니다. 다만 시즌 전체 기준으로는 실점 억제력이 들쭉날쭉해 대량 실점 경기가 섞여 있는 점이 부담으로 남아 있습니다. 그럼에도 최근 흐름에서 공격 템포가 좋아졌고, 홈에서 상대 타선을 압박할 수 있는 장면이 늘어나고 있어 반등 기대감은 충분해 보입니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 최근 98경기 55승 41패, 승률 .553, 평균 득점 4.7로 리그순위 5위에 걸맞은 안정적인 시즌 전력을 보여주고 있습니다. 최근 10경기에서는 평균 득점이 6.6까지 올라와 타선의 폭발력이 매우 뚜렷하고, 연승 흐름을 길게 이어 가는 점이 강점입니다. 원정에서도 득점 생산력이 크게 떨어지지 않아 경기 초반부터 상대 마운드를 흔들 수 있는 장점이 있습니다. 다만 직전 시애틀 매리너스전에서 2득점에 그친 부분은 강한 상대 투수진을 만났을 때 마무리 효율이 흔들릴 수 있음을 보여줍니다. 시즌 전체 득실도 플러스지만, 최근처럼 공격 의존도가 높아질수록 상대 수비에 묶일 경우 경기 흐름이 급격히 무거워질 가능성은 남아 있습니다."
+homePower: "최근 강타선 상대에도 득점 생산이 유지됨이 확인됨|시즌 평균 득점보다 최근 공격 효율 상승세가 뚜렷함|대량 실점 경기와 저실점 경기의 편차가 큰 점은 변수임|필라델피아 필리스전 9득점으로 상성 자신감이 살아남|홈에서 흐름을 타면 경기 주도권을 빠르게 잡는 유형임"
+awayPower: "시즌 승률과 득실 플러스가 뒷받침하는 상위권 안정감임|최근 타선 폭발로 장타와 출루 연결이 동시에 살아남|연승 구간의 길이가 길어 집중력 유지력이 검증됨|직전 시애틀전 저득점은 강한 선발 상대로 제약 가능성 보임|원정에서도 공격 리듬이 유지되면 초반 주도권 확보가 유력함"
+h2h: '[{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"}]'
+summary: "시애틀 매리너스는 시즌 전체 전력에서 다소 기복이 보이지만, 최근 득점 흐름이 살아나면서 홈에서 충분히 경쟁력을 보여 주고 있습니다. 필라델피아 필리스는 리그순위 5위와 플러스 득실이 말해 주듯 시즌 전력 자체는 더 탄탄하지만, 직전 맞대결에서 시애틀 매리너스가 크게 앞선 결과를 만들며 상성을 흔들어 놓았습니다. 최근 공격 생산력과 맞대결 흐름을 함께 보면, 이번 경기는 시애틀 매리너스가 초반부터 주도권을 잡아 우위를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"시애틀 매리너스","away":"시카고 컵스","score":"2-19","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners/"},{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"},{"date":"26.08.20","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SEMI0-2026-08-20-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.20","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies/"}]'
+injuryHome: "Cole Wilcox (긴장)|Cooper Criswell (긴장)|Brendan Donovan (뇌진탕)|Will Wilson (골절)|Matt Brash (긴장)"
+injuryAway: "Derek Hill (통증)|Rafael Marchan (건염)|Caleb Kilian (긴장)|Tanner Banks (긴장)|Felix Reyes (골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시애틀 매리너스"
+pickWinResult: "승"
+pickHandicapTeam: "시애틀 매리너스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

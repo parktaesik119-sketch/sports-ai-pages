@@ -1,0 +1,37 @@
+---
+title: "전남 드래곤즈 vs 천안 시티 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | K2 - 픽천국"
+date: 2026-08-28T10:30:00.000Z
+description: "전남 드래곤즈 vs 천안 시티 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155889-2026-08-28-jeonnam-dragons"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "전남 드래곤즈"
+awayTeam: "천안 시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/109377.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/187960.png"
+homeAnalysis: "전남 드래곤즈는 2026시즌 최근 14경기에서 2승 6무 6패, 평균 득점 1.1을 기록하며 전체적으로 답답한 흐름을 이어가고 있습니다. 다만 홈에서는 무승부를 바탕으로 쉽게 무너지지 않는 모습이 있고, 최근에는 화성전 1대0 승리처럼 수비 집중력이 살아나는 장면도 보였습니다. 반대로 한 경기에서 여러 실점을 허용하는 날도 있어 수비 안정감의 편차가 크다는 점은 아쉬움으로 남아 있습니다. 발디비아와 윤민호가 전방에서 활로를 열어줘야 하고, 김용환과 홍석현 중심의 수비 라인이 얼마나 흔들림을 줄이느냐가 중요해 보입니다. 전체적으로는 공격이 폭발적이라기보다 한 골 싸움에 가깝고, 홈에서의 세밀한 운영이 결과를 좌우할 가능성이 높습니다."
+awayAnalysis: "천안 시티는 2026시즌 최근 17경기에서 3승 5무 9패, 평균 득점 1.1로 전반적인 전력 하락이 뚜렷합니다. 원정에서는 실점 부담이 커지는 흐름이 자주 나타나고 있어, 경기마다 버티는 힘이 얼마나 유지되느냐가 핵심입니다. 다만 안산전 3대1 승리나 목포전 승리처럼 공격 전개가 맞아떨어질 때는 분명히 승점을 만들 수 있는 장면도 있습니다. 이재성의 전진 배급과 이준호, 이상준의 마무리가 살아나야 하고, 박주원 골키퍼를 중심으로 한 수비진이 초반 흔들림을 줄여야 합니다. 전체적으로는 강하게 밀어붙이기보다 조직적으로 버티면서 역습 효율을 살려야 하는 전력으로 보입니다."
+homePower: "홈에서 쉽게 무너지지 않는 끈질긴 운영이 강점임|최근 무득점보다 한 골 경기 비중이 높아 균형형 전개 보임|발디비아-윤민호 조합이 결정력 해법으로 기능할 여지 큼|김용환-홍석현 축의 수비 집중도가 경기 흐름 좌우함|실점 폭이 커지는 날만 줄이면 승점 확보력 높아짐"
+awayPower: "원정에서 버티는 시간보다 실점 관리가 더 중요한 전력임|이재성의 전개가 살아야 공격 전환 속도 올라감|이준호-이상준 마무리 효율이 승부처에서 핵심 변수임|수비 라인 간격이 벌어지면 급격히 흔들리는 패턴 보임|한 골 차 접전에서는 역습 한 방이 가장 현실적 무기임"
+h2h: '[{"date":"26.03.28","home":"천안 시티","away":"전남 드래곤즈","score":"1-0"},{"date":"25.10.05","home":"전남 드래곤즈","away":"천안 시티","score":"4-1"},{"date":"25.08.10","home":"전남 드래곤즈","away":"천안 시티","score":"3-4"},{"date":"25.02.22","home":"천안 시티","away":"전남 드래곤즈","score":"0-2"},{"date":"24.10.26","home":"전남 드래곤즈","away":"천안 시티","score":"0-2"}]'
+summary: "전남 드래곤즈는 2026시즌 14경기에서 2승 6무 6패로 쉽게 무너지지 않으면서도 확실한 우위를 끝까지 굳히는 힘은 다소 약한 모습입니다. 천안 시티는 17경기에서 3승 5무 9패로 더 어려운 흐름을 보이고 있어, 최근 전력의 안정감에서는 전남 드래곤즈가 조금 더 앞서는 편입니다. 다만 두 팀 모두 평균 득점이 1.1에 머물러 있어 큰 점수 차보다는 세밀한 수비와 한두 번의 결정적 장면이 승부를 가를 가능성이 높습니다. 상대전적에서도 전남 드래곤즈가 강하게 밀어붙인 경기와 천안 시티가 흐름을 가져간 경기가 번갈아 나와, 이번에도 초반 주도권을 누가 잡느냐가 매우 중요해 보입니다. 종합하면 홈의 버티는 힘과 상대적으로 나은 시즌 안정감을 앞세운 전남 드래곤즈 쪽이 조금 더 우세한 흐름으로 평가됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Choi Bong-Jin (GK)|https://images.fotmob.com/image_resources/playerimages/654186.png","Kim Yong-Hwan (DF)|https://images.fotmob.com/image_resources/playerimages/533180.png","Hong Seok-Hyeon (DF)|https://images.fotmob.com/image_resources/playerimages/1351103.png","Kim Gyeong-Jae (DF)|https://images.fotmob.com/image_resources/playerimages/730677.png","Son Gun-Ho (DF)|https://images.fotmob.com/image_resources/playerimages/1836781.png","Kim Beom-Su (MF)|https://images.fotmob.com/image_resources/playerimages/1376886.png","Choi Han-Sol (MF)|https://images.fotmob.com/image_resources/playerimages/926618.png","Park Tae-Yong (MF)|https://images.fotmob.com/image_resources/playerimages/1462064.png","Jeong Ji-Yong (MF)|https://images.fotmob.com/image_resources/playerimages/1104176.png","Valdívia (FW)|https://images.fotmob.com/image_resources/playerimages/493595.png","Yoon Min-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/1326677.png"]'
+awayLineup: '["Park Ju-Won (GK)|https://images.fotmob.com/image_resources/playerimages/433492.png","Lee Sang-Yong (DF)|https://images.fotmob.com/image_resources/playerimages/828297.png","Go Tae-Won (DF)|https://images.fotmob.com/image_resources/playerimages/730673.png","Kwon Yong-Seung (DF)|https://images.fotmob.com/image_resources/playerimages/1999276.png","Park Chang-Woo (MF)|https://images.fotmob.com/image_resources/playerimages/1337175.png","Lee Ji-Seung (MF)|https://images.fotmob.com/image_resources/playerimages/1135878.png","Choi Jun-Hyeok (MF)|https://images.fotmob.com/image_resources/playerimages/925335.png","Cha Seung-Hyeon (MF)|https://images.fotmob.com/image_resources/playerimages/1343222.png","Lee Gyu-Min (FW)|https://images.fotmob.com/image_resources/playerimages/1612385.png","Lee Jun-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/1337171.png","Lee Sang-Jun (FW)|https://images.fotmob.com/image_resources/playerimages/980601.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "Lim Kwan-Sik|https://images.fotmob.com/image_resources/playerimages/117386.png"
+awayCoach: "Park Jin-Sub|https://images.fotmob.com/image_resources/playerimages/1135961.png"
+pickWinTeam: "전남 드래곤즈"
+pickWinResult: "승"
+pickHandicapTeam: "전남 드래곤즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "토론토 블루제이즈 vs 캔자스시티 로열스 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | MLB - 픽천국"
+date: 2026-08-26T23:07:00.000Z
+description: "토론토 블루제이즈 vs 캔자스시티 로열스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 최근 98경기에서 47승 1무 50패, 승률 .485, 평균 득점 3.6으로 승패 균형이 다소 흔들리는 흐름입니다. 최근 흐름만 보면 최근 10경기 5승 5패로 기복이 남아 있지만, 평균 득점 3.9를 유지하며 타선이 완전히 식지는 않은 모습입니다. 다만 최근 경기들에서 득점이 1점대와 6점대 사이로 크게 출렁였고, 실점이 함께 늘어나는 장면도 보여 안정감은 다소 아쉽습니다. 홈 경기에서는 강한 상대를 상대로도 한 번씩 흐름을 끌어올리는 힘이 있으나, 수비 쪽 흔들림이 이어지면 주도권을 오래 잡기 어려워 보입니다. 현재 리그순위 9위라는 점을 감안하면 중위권 추격을 위해서는 타선의 집중력과 불펜 운영이 함께 살아나야 할 것으로 보입니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 최근 90경기에서 45승 4무 41패, 승률 .524, 평균 득점 4.4로 토론토 블루제이즈보다 시즌 전력의 완성도가 한 단계 더 높아 보입니다. 최근 10경기에서는 8승 2패, 평균 득점 5.8로 타선의 폭발력이 뚜렷하게 살아나 있으며, 연승 구간에서 경기 초반부터 주도권을 잡는 모습이 인상적입니다. 최근 경기 흐름을 보면 2점 차 승부를 여러 차례 잡아내면서도 대량 득점 경기를 곁들이고 있어 공격의 다양성이 돋보입니다. 다만 원정에서는 일정 구간 수비 실점이 늘어나는 장면이 있었기 때문에, 타선이 침묵하면 흐름이 급격히 흔들릴 가능성도 있습니다. 그럼에도 현재 리그순위 13위라는 수치보다 최근 반등 폭이 분명해, 고점이 다시 올라온 상태로 평가됩니다."
+homePower: "토론토 블루제이즈 타선은 경기별 편차가 커서 안정적 득점 루트 정착이 필요함|최근 실점 동반 경기 다수, 마운드 운영 흔들림이 변수로 보임|강팀 상대로도 한 번씩 강한 반등을 보여주는 저력은 확인됨|홈에서는 초반 흐름을 잡을 때 경기 운영이 한결 편안해짐|중위권 추격을 위해 불펜의 마무리 안정감이 핵심임"
+awayPower: "캔자스시티 로열스 타선은 최근 집중력과 장타 효율이 모두 좋음|연승 구간에서 초반 득점 생산이 경기 흐름을 단단히 고정함|원정에서도 공격 리듬이 크게 꺾이지 않는 점이 강점임|다득점 뒤에도 끝까지 몰아붙이는 압박감이 유지되고 있음|상승 흐름이 전력보다 더 강하게 체감되는 상태임"
+h2h: '[]'
+summary: "토론토 블루제이즈는 시즌 전체 전력에서 승률 .485와 평균 득점 3.6이 보여주듯, 공격과 수비 모두에서 큰 우위를 만들지 못한 채 흐름이 오르내리고 있습니다. 반면 캔자스시티 로열스는 시즌 승률 .524와 평균 득점 4.4에 더해 최근 10경기 8승 2패, 평균 득점 5.8까지 이어지며 상승세가 분명합니다. 특히 최근 흐름과 리그순위를 함께 보면 토론토 블루제이즈는 반등이 필요한 구간이고, 캔자스시티 로열스는 득점 생산이 살아난 상태라 전체적인 우세가 원정팀 쪽으로 기울어 보입니다."
+homeRecent: '[{"date":"26.08.24","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TONY0-2026-08-24-new-york-yankees/"},{"date":"26.08.23","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TONY0-2026-08-23-new-york-yankees/"},{"date":"26.08.22","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TONY0-2026-08-22-new-york-yankees/"},{"date":"26.08.21","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821TOTB0-2026-08-21-tampa-bay-rays/"},{"date":"26.08.20","home":"탬파베이 레이스","away":"토론토 블루제이즈","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820TOTB0-2026-08-20-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.08.24","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824DEKC0-2026-08-24-kansas-city-royals/"},{"date":"26.08.23","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823DEKC0-2026-08-23-kansas-city-royals/"},{"date":"26.08.21","home":"캔자스시티 로열스","away":"애슬레틱스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821OAKC0-2026-08-21-kansas-city-royals/"},{"date":"26.08.20","home":"캔자스시티 로열스","away":"애슬레틱스","score":"9-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820OAKC0-2026-08-20-kansas-city-royals/"},{"date":"26.08.19","home":"캔자스시티 로열스","away":"애슬레틱스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819OAKC0-2026-08-19-kansas-city-royals/"}]'
+injuryHome: "Jonatan Clase (족저근막염)|Joe Mantiply (수술)|Josh Smith (염증)|Patrick Corbin (근육 부상)|Jameson Taillon (건염)"
+injuryAway: "Beck Way (경련)|Michael Massey (일간성 상태)|Jac Caglianone (통증)|Connor Seabold (근육 부상)|Maikel Garcia (근육 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "캔자스시티 로열스"
+pickWinResult: "승"
+pickHandicapTeam: "캔자스시티 로열스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

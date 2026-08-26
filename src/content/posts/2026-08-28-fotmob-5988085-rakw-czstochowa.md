@@ -1,0 +1,37 @@
+---
+title: "라쿠프 첸스토호바 vs 하이두크 스플리트 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-27T17:00:00.000Z
+description: "라쿠프 첸스토호바 vs 하이두크 스플리트 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988085-2026-08-28-rakw-czstochowa"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "라쿠프 첸스토호바"
+awayTeam: "하이두크 스플리트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4024.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10154.png"
+homeAnalysis: "라쿠프 첸스토호바는 2026시즌 최근 19경기 7승 5무 7패, 평균 득점 1.6의 전력으로 공격과 결과가 비교적 균형을 이루고 있습니다. 최근에는 하이두크 스플리트전 무승부와 크라코비아전 패배가 이어지며 흐름이 아주 매끄럽지는 않았지만, 하마르비 원정 승리와 발레타전 다득점 승리처럼 한 번 흐름을 타면 공격이 살아나는 장면도 보였습니다. 프란 투도르, 보그단 라코비탄, 스트라토스 스바르나스로 이어지는 3백은 수비의 뼈대를 지키고 있고, 미하우 아메야우와 블라디슬라프 코체르긴이 중원을 받치면서 전방 전개를 연결하고 있습니다. 마히르 에메를리와 올리비에르 크비아트콥스키가 앞선에서 버텨 주면 홈에서 찬스 생산은 충분히 기대할 만합니다. 다만 마무리의 기복이 남아 있어, 선제 실점만 피하면 훨씬 안정적인 흐름으로 갈 수 있습니다."
+awayAnalysis: "하이두크 스플리트는 2026시즌 최근 35경기 14승 11무 10패, 평균 득점 1.5로 시즌 전체 전력에서 한 단계 더 단단한 모습을 보이고 있습니다. 최근에는 오시예크전 4득점 승리와 자그레브 질라티스전 대승, 그리고 고리차 원정 승리까지 이어지며 공격 리듬이 매우 좋습니다. 마르코 리바야가 최전방에서 중심을 잡고, 알베르토 델 모랄과 안드젤로 수탈로가 중원과 2선을 연결하면 전개가 빠르게 살아나는 구조입니다. 다만 니코 시구르와 마티외 아카팡디에, 로코 브라코비치의 이탈은 측면과 로테이션에 부담이 될 수 있습니다. 그럼에도 최근 원정 득점력이 꾸준하고 전방 압박도 살아 있어, 경기 운영에서는 여전히 높은 신뢰를 주는 편입니다."
+homePower: "홈 전개와 압박 회복 속도 빠름|프란 투도르-스바르나스 축 안정감 높음|마히르 에메를리 마무리 비중 큼|중원 연결이 살아날 때 찬스 다수 보임|홈에서는 실점 관리가 관건임"
+awayPower: "마르코 리바야 마무리 의존도 높음|원정 득점 루트가 끊기지 않음|알베르토 델 모랄 조율 안정감|측면 결장에도 전환 속도 유지됨|다득점 흐름으로 자신감 상승세임"
+h2h: '[{"date":"26.08.21","home":"하이두크 스플리트","away":"라쿠프 첸스토호바","score":"2-2","link":"https://pick79.com/posts/detail/analyze-fotmob-5988061-2026-08-21-hajduk-split/"}]'
+summary: "하이두크 스플리트는 최근 35경기 14승 11무 10패, 평균 득점 1.5로 시즌 전체 전력에서 조금 더 앞서 있습니다. 라쿠프 첸스토호바는 최근 19경기 7승 5무 7패, 평균 득점 1.6으로 공격 재료는 충분하지만 결과의 안정감은 상대보다 다소 떨어져 보입니다. 최근 맞대결이 2-2로 끝난 만큼 상성은 팽팽하지만, 최근 득점 흐름과 결장 상황까지 함께 보면 하이두크 스플리트 쪽 우세가 더 자연스럽게 읽힙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Niko Sigur (부상)|Mathieu Acapandié (충돌 부상)|Roko Brajkovic (시즌 아웃)"
+homeLineup: '["Kacper Trelowski (GK)|https://images.fotmob.com/image_resources/playerimages/1132116.png","Fran Tudor (DF)|https://images.fotmob.com/image_resources/playerimages/625528.png","Bogdan Racovitan (DF)|https://images.fotmob.com/image_resources/playerimages/1178266.png","Stratos Svarnas (DF)|https://images.fotmob.com/image_resources/playerimages/611991.png","Michael Ameyaw (MF)|https://images.fotmob.com/image_resources/playerimages/1160496.png","Vladyslav Kochergin (MF)|https://images.fotmob.com/image_resources/playerimages/769350.png","Oskar Repka (MF)|https://images.fotmob.com/image_resources/playerimages/948371.png","Erick Otieno (MF)|https://images.fotmob.com/image_resources/playerimages/726498.png","Lamine Diaby-Fadiga (MF)|https://images.fotmob.com/image_resources/playerimages/906950.png","Mahir Emreli (FW)|https://images.fotmob.com/image_resources/playerimages/464251.png","Oliwier Kwiatkowski (FW)|https://images.fotmob.com/image_resources/playerimages/1735915.png"]'
+awayLineup: '["Toni Silic (GK)|https://images.fotmob.com/image_resources/playerimages/1510855.png","Luka Hodak (DF)|https://images.fotmob.com/image_resources/playerimages/1644097.png","Roko Gabric (DF)|https://images.fotmob.com/image_resources/playerimages/1876648.png","Alec Van Hoorenbeeck (DF)|https://images.fotmob.com/image_resources/playerimages/1020776.png","Dario Melnjak (DF)|https://images.fotmob.com/image_resources/playerimages/460004.png","Alberto del Moral (MF)|https://images.fotmob.com/image_resources/playerimages/1202029.png","Adrion Pajaziti (MF)|https://images.fotmob.com/image_resources/playerimages/1130562.png","Andjelo Sutalo (FW)|https://images.fotmob.com/image_resources/playerimages/1699550.png","Ethnik Brruti (MF)|https://images.fotmob.com/image_resources/playerimages/1657862.png","Adam Guram (FW)|https://images.fotmob.com/image_resources/playerimages/1950758.png","Marko Livaja (FW)|https://images.fotmob.com/image_resources/playerimages/206242.png"]'
+homeFormation: "3-4-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Dawid Kroczek|https://images.fotmob.com/image_resources/playerimages/1636971.png"
+awayCoach: "Gonzalo García|https://images.fotmob.com/image_resources/playerimages/42534.png"
+pickWinTeam: "하이두크 스플리트"
+pickWinResult: "승"
+pickHandicapTeam: "하이두크 스플리트"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 볼티모어 오리올스 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | MLB - 픽천국"
+date: 2026-08-26T23:45:00.000Z
+description: "세인트루이스 카디널스 vs 볼티모어 오리올스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260827BASL0-2026-08-27-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 88경기에서 38승 49패 1무, 평균 득점 4.3점을 기록하며 중하위권에서 반등을 모색하고 있습니다. 최근에는 득점력이 살아나는 장면이 자주 보이지만, 실점 억제가 흔들리면서 승패가 반복되는 흐름입니다. 특히 홈에서는 한 번 흐름을 타면 타선이 길게 이어지는 장점이 돋보이고 있습니다. 다만 최근 경기들에서 강팀 상대로는 수비 집중력이 흔들리는 장면도 적지 않아, 안정감은 더 필요한 모습입니다. 중심 타선이 초반에 점수를 내주면 경기 주도권을 잡을 가능성이 높아 보입니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 최근 93경기에서 44승 46패 3무, 평균 득점 4.4점으로 세인트루이스 카디널스보다 근소하게 앞선 전력을 보여주고 있습니다. 최근 흐름은 승패가 번갈아 나타나는 편이지만, 원정에서도 장타 한 방으로 흐름을 바꾸는 능력은 유지되고 있습니다. 다만 실점이 늘어나는 경기에서는 수비와 불펜의 버티는 힘이 떨어지는 모습이 이어지고 있습니다. 리그순위는 세인트루이스 카디널스보다 뒤지만 전력 격차가 크지 않아, 초반 선취점 여부가 중요하게 작용할 가능성이 높습니다. 부상 공백이 적지 않아 경기 후반 운영에서는 다소 불안한 그림이 보입니다."
+homePower: "세인트루이스 카디널스 타선은 경기 중반 이후 응집력이 살아나는 흐름이 강점임|볼티모어 오리올스보다 실점 관리가 더 안정적일 때 승률이 올라감|홈 경기에서는 타선 폭발 시 경기 장악력이 빠르게 커지는 편임|주축 결장 속에서도 하위 타선까지 연결되면 공격 지속성이 높아짐|수비 흔들림만 줄이면 리그순위보다 더 높은 경쟁력도 기대됨"
+awayPower: "볼티모어 오리올스는 한 번 흐름을 잡으면 장타로 경기를 뒤집는 힘이 있음|원정에서도 득점 생산은 가능하나 꾸준함은 다소 기복이 보임|실점이 늘어나는 구간에서 불펜 부담이 커지는 편임|주요 결장으로 후반 접전 유지력이 약해질 가능성이 있음|세인트루이스 카디널스 상대로 초반 주도권이 핵심 변수임"
+h2h: '[]'
+summary: "세인트루이스 카디널스는 2026시즌 38승 49패 1무, 볼티모어 오리올스는 44승 46패 3무로 수치상 큰 차이는 아니지만, 최근 흐름에서는 세인트루이스 카디널스가 조금 더 공격적인 색깔을 보여주고 있습니다. 두 팀 모두 평균 득점은 비슷한 편이지만, 세인트루이스 카디널스가 홈에서 타선이 살아날 때 경기 주도권을 잡는 장면이 더 분명하게 보입니다. 반면 볼티모어 오리올스는 결장자 부담이 크고 실점 억제의 흔들림도 보여서, 접전으로 갈수록 세인트루이스 카디널스 쪽 우세가 조금 더 자연스럽게 읽힙니다."
+homeRecent: '[{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"},{"date":"26.08.20","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SLCI0-2026-08-20-cincinnati-reds/"}]'
+awayRecent: '[{"date":"26.08.24","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TBBA0-2026-08-24-baltimore-orioles/"},{"date":"26.08.23","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TBBA0-2026-08-23-baltimore-orioles/"},{"date":"26.08.22","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TBBA0-2026-08-22-baltimore-orioles/"},{"date":"26.08.21","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821NYBA0-2026-08-21-baltimore-orioles/"},{"date":"26.08.20","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820NYBA0-2026-08-20-baltimore-orioles/"}]'
+injuryHome: "Masyn Winn (골절)|Everson Pereira (멍)|Andre Pallante (염증)|Hunter Dobbins (통증)|Max Rajcic (수술)"
+injuryAway: "Tyler O'Neill (통증)|Blaze Alexander (골절)|Felix Bautista (수술)|Ryan Helsley (염증)|Ryan Mountcastle (근육 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 피츠버그 파이러츠 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | MLB - 픽천국"
+date: 2026-08-26T20:10:00.000Z
+description: "샌디에이고 파드리스 vs 피츠버그 파이러츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "피츠버그 파이러츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 현재 42승 1무 40패, 평균 득점 4.2로 승패 균형을 조금 넘는 흐름을 이어가고 있으며, 최근에도 득점과 실점의 출렁임 속에서 경기력의 탄력은 유지하고 있습니다. 최근 경기에서는 강한 타선을 앞세워 다득점 승리를 만들 때가 있는 반면, 접전에서는 실점 한두 개에 결과가 갈리는 모습도 함께 보입니다. 홈에서는 비교적 안정적으로 경기를 풀어가는 편이라 경기 운영 면에서 장점이 드러나고 있습니다. 특히 4점 안팎의 득점력을 꾸준히 유지하면서도 필요할 때는 1~2점 차 승부를 지켜내는 장면이 자주 보입니다. 다만 결장자 영향이 적지 않아 마운드와 수비 집중력이 흔들리면 흐름이 급격히 바뀔 수 있는 점은 주목하셔야 합니다."
+awayAnalysis: "피츠버그 파이러츠는 2026시즌 현재 42승 1무 53패, 평균 득점 4.8로 공격 생산성은 나쁘지 않지만 승리로 연결하는 완성도에서 아쉬움이 남고 있습니다. 최근에는 대량 득점으로 크게 이기는 경기와 한 번 무너지면 연속 실점으로 끌려가는 경기가 함께 나타나고 있어 경기 편차가 큰 편입니다. 원정에서는 초반 실점 허용 뒤 추격하는 흐름이 잦아 경기 운영이 다소 무거워 보입니다. 그래도 타선이 한 번 터지면 점수를 꾸준히 쌓는 힘은 분명해서 상대 투수진이 흔들릴 경우 반전 여지는 있습니다. 다만 핵심 전력 이탈이 겹치면서 마무리 힘과 중후반 안정감은 떨어져 보이는 상황입니다."
+homePower: "샌디에이고 파드리스는 접전 대응력이 살아 있음|홈에서 경기 운영이 한층 안정적임|득점 기복은 있어도 필요할 때 터뜨리는 힘이 있음|결장자 여파에도 마운드 뎁스가 승부처 변수임|상대 상성상 수비 집중력이 승부를 가를 가능성 높음"
+awayPower: "피츠버그 파이러츠는 타선 폭발력은 확인됨|그러나 실점이 늘면 흐름 회복이 더딤|원정에서 선취점 의존도가 높아 보임|핵심 전력 이탈로 후반 버티기 약화됨|한 경기 대량 득점 뒤 다음 경기 하락폭이 큼"
+h2h: '[{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"},{"date":"26.04.09","home":"피츠버그 파이러츠","away":"샌디에이고 파드리스","score":"2-8"},{"date":"26.04.08","home":"피츠버그 파이러츠","away":"샌디에이고 파드리스","score":"7-1"},{"date":"26.04.07","home":"피츠버그 파이러츠","away":"샌디에이고 파드리스","score":"0-5"}]'
+summary: "샌디에이고 파드리스는 시즌 전력과 홈 운영에서 조금 더 안정된 모습을 보이고 있어 경기 흐름을 주도할 가능성이 높습니다. 피츠버그 파이러츠는 득점력 자체는 유지하고 있지만 실점 관리가 흔들릴 때 결과가 급격히 나빠지는 편이라, 전체적인 안정감에서는 홈팀이 앞서 보입니다. 상대전적도 한쪽이 일방적으로 밀리지 않는 구도이지만, 최근 맞대결 흐름과 결장자 상황을 함께 보면 샌디에이고 파드리스가 좀 더 주도권을 잡고 경기를 풀어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"},{"date":"26.08.24","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MNSD0-2026-08-24-san-diego-padres/"},{"date":"26.08.22","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MNSD0-2026-08-22-san-diego-padres/"},{"date":"26.08.20","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SDNM0-2026-08-20-new-york-mets/"},{"date":"26.08.19","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819SDNM0-2026-08-19-new-york-mets/"}]'
+awayRecent: '[{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"},{"date":"26.08.24","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824PILA0-2026-08-24-los-angeles-dodgers/"},{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers/"},{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"},{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"}]'
+injuryHome: "Samad Taylor (근육 긴장)|Casey Mize (염좌)|Joe Musgrove (염증)|Jason Adam (근육 긴장)|Miguel Andujar (골절)"
+injuryAway: "Endy Rodriguez (염증)|Konnor Griffin (근육 긴장)|Ryan O'Hearn (근육 긴장)|Mitch Keller (명시되지 않음)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "보라츠 vs Víkingur Reykjavík 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-27T18:30:00.000Z
+description: "보라츠 vs Víkingur Reykjavík 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988075-2026-08-28-borac-banja-luka"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "보라츠"
+awayTeam: "Víkingur Reykjavík"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10116.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6017.png"
+homeAnalysis: "보라츠는 2026시즌 최근 22경기에서 13승 3무 6패를 기록하며 안정적인 승률과 함께 평균 득점 17.7의 공격 흐름을 보여주고 있습니다. 최근에는 승리 흐름을 잘 이어가면서도 한 번씩 원정에서 흔들리는 장면이 있었지만, 홈에서는 다시 득점과 결과를 함께 챙기며 전력을 정돈하고 있습니다. 특히 최근 비킹구르 레이캬비크를 상대로 3득점을 기록한 점은 공격 전개의 완성도가 살아 있음을 보여줍니다. 문전에서 마무리 역할을 맡는 루카 유리치치와 스테판 사비치, 그리고 중원에서 템포를 조율하는 밀로시 요이치의 연결이 강점으로 보입니다. 홈에서 4-3-3을 바탕으로 압박과 점유를 함께 가져가는 흐름이 잘 맞아 떨어질 때, 경기 운영에서 주도권을 잡는 모습이 기대됩니다."
+awayAnalysis: "비킹구르 레이캬비크는 2026시즌 최근 27경기에서 9승 3무 15패를 기록하며 기복이 적지 않은 전력을 보이고 있습니다. 평균 득점 1.7로 공격 자체는 나쁘지 않지만, 실점이 따라붙는 장면이 많아 경기마다 흐름이 크게 흔들리는 편입니다. 최근에도 득점은 꾸준히 만들고 있으나 수비 집중력이 떨어질 때 결과를 지키지 못하는 모습이 반복되고 있습니다. 전방에서는 아르만 피녹가손, 아론 엘리스 트란다르손, 니콜라이 한센이 마무리를 책임지고 있고, 중원에서는 기욀피 시구르드손의 경험이 경기의 균형을 잡아줄 핵심입니다. 다만 원정 환경에서는 수비 간격이 벌어질 가능성이 있어, 초반부터 안정적인 전개를 가져가지 못하면 부담이 커질 수 있습니다."
+homePower: "보라츠는 홈에서 경기 주도권을 잡는 구조가 잘 살아 있음|루카 유리치치·스테판 사비치 마무리 감각이 뚜렷함|밀로시 요이치 중심의 중원 운영이 공격 효율을 높임|비킹구르 레이캬비크 상대로 다득점 경험이 상성 우위로 보임|4-3-3 전개가 홈 압박과 맞물릴 때 안정감이 커짐"
+awayPower: "비킹구르 레이캬비크는 전방 자원이 다양해 득점 루트가 넓음|기욀피 시구르드손의 조율로 중원 연결이 살아남|아론 엘리스 트란다르손·니콜라이 한센의 결정력이 변수임|원정에서도 공격 시도는 이어지지만 수비 부담이 커 보임|실점 관리가 흔들리면 좋은 공격 흐름도 결과로 못 잇는 편임"
+h2h: '[{"date":"26.08.21","home":"Víkingur Reykjavík","away":"보라츠","score":"1-3"},{"date":"24.11.07","home":"Víkingur Reykjavík","away":"보라츠","score":"2-0"}]'
+summary: "보라츠는 2026시즌 22경기에서 13승 3무 6패로 더 안정적인 성적을 보여주고 있고, 비킹구르 레이캬비크는 27경기에서 9승 3무 15패로 기복이 더 큰 전력입니다. 득점 흐름만 놓고 봐도 보라츠는 홈에서 더욱 탄탄한 마무리를 보여주고 있으며, 비킹구르 레이캬비크는 공격 재능은 있으나 실점 억제에서 아쉬움이 남습니다. 상대전적에서도 최근 맞대결을 보라츠가 가져갔기 때문에, 전체적인 전력 균형과 흐름을 함께 보면 보라츠가 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Mladen Jurkas (GK)|https://images.fotmob.com/image_resources/playerimages/1726288.png","Nemanja Jaksic (DF)|https://images.fotmob.com/image_resources/playerimages/630017.png","Jurich Carolina (DF)|https://images.fotmob.com/image_resources/playerimages/665192.png","Bart Meijers (DF)|https://images.fotmob.com/image_resources/playerimages/662534.png","Sebastián Herrera (DF)|https://images.fotmob.com/image_resources/playerimages/653453.png","Anderson Esiti (MF)|https://images.fotmob.com/image_resources/playerimages/470305.png","Amer Hiros (MF)|https://images.fotmob.com/image_resources/playerimages/553775.png","Milos Jojic (MF)|https://images.fotmob.com/image_resources/playerimages/387727.png","Damir Hrelja (FW)|https://images.fotmob.com/image_resources/playerimages/1396466.png","Luka Juricic (FW)|https://images.fotmob.com/image_resources/playerimages/1108600.png","Stefan Savic (FW)|https://images.fotmob.com/image_resources/playerimages/259299.png"]'
+awayLineup: '["Aron Snær Fridriksson (GK)|https://images.fotmob.com/image_resources/playerimages/559095.png","Karl Gunnarsson (DF)|https://images.fotmob.com/image_resources/playerimages/937028.png","Oliver Ekroth (DF)|https://images.fotmob.com/image_resources/playerimages/825007.png","Gunnar Vatnhamar (DF)|https://images.fotmob.com/image_resources/playerimages/551281.png","Helgi Gudjónsson (DF)|https://images.fotmob.com/image_resources/playerimages/757316.png","Viktor Örlygur Andrason (MF)|https://images.fotmob.com/image_resources/playerimages/757652.png","Gylfi Sigurdsson (MF)|https://images.fotmob.com/image_resources/playerimages/157729.png","Stígur Thórdarson (FW)|https://images.fotmob.com/image_resources/playerimages/1280823.png","Ármann Finnbogason (FW)|https://images.fotmob.com/image_resources/playerimages/1288910.png","Aron Elis Thrándarson (FW)|https://images.fotmob.com/image_resources/playerimages/262912.png","Nikolaj Hansen (FW)|https://images.fotmob.com/image_resources/playerimages/281629.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Vinko Marinovic|https://images.fotmob.com/image_resources/playerimages/277040.png"
+awayCoach: "Sölvi Ottesen|https://images.fotmob.com/image_resources/playerimages/39924.png"
+pickWinTeam: "보라츠"
+pickWinResult: "승"
+pickHandicapTeam: "보라츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

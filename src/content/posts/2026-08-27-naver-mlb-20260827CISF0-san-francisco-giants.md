@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | MLB - 픽천국"
+date: 2026-08-26T19:45:00.000Z
+description: "샌프란시스코 자이언츠 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260827CISF0-2026-08-27-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 32승 45패 1무, 승률 .405, 평균 득점 4.2로 시즌 전체 흐름이 다소 처진 편이지만, 홈에서는 상대적으로 버티는 힘을 보여주고 있습니다. 최근 흐름은 10경기 3승 7패로 기복이 분명하며, 득점력도 3.4점으로 내려와 공격의 꾸준함이 아쉬운 모습입니다. 다만 최근 신시내티 레즈를 상대로는 5-0 완승을 거두며 경기 초반부터 주도권을 잡는 운영이 가능하다는 점을 보여주었습니다. 실점 억제력이 흔들리는 구간이 있지만, 홈에서는 투수진이 안정될 때 경기 흐름을 다시 가져오는 힘이 있습니다. 특히 최근 몇 경기에서 장타 한 방보다도 연결 타선이 살아날 때 득점 생산이 더 매끄럽게 이어지는 점이 주목할 만합니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 37승 52패 2무, 승률 .470, 평균 득점 3.9로 홈팀보다 승수는 조금 더 많지만, 실점이 크게 늘며 전력 균형이 흔들리고 있습니다. 최근 10경기 역시 3승 7패, 평균 득점 2.9점으로 공격 흐름이 떨어져 있고, 경기 후반까지 득점을 이어가는 힘이 약해 보입니다. 최근 원정 3연패 구간에서 한 경기 무득점이 나왔고, 실점도 크게 불어나면서 투타 동반 하락세가 뚜렷했습니다. 결장자도 적지 않아 전력 공백이 쉽게 메워지지 않는 모습이며, 상위 타선이 막히면 전체 공격이 답답해지는 흐름이 반복되고 있습니다. 다만 장타보다 출루와 기동력으로 흐름을 바꾸는 장면은 있어, 초반에 리드를 잡는다면 경기 양상은 달라질 여지도 있습니다."
+homePower: "홈에서 경기 초반 주도권을 잡는 운영이 가능함|최근 실점 변동폭은 크지만 반등 여지는 남아 있음|연결 타선 살아날 때 득점 분산 효과가 뚜렷함|신시내티 레즈 상대로 완봉급 흐름을 재현한 바 있음|고전 구간에도 홈 경기 집중력은 비교적 유지됨"
+awayPower: "원정에서 득점 생산이 급격히 떨어지는 구간이 있음|주전 결장 누적으로 타선 완성도가 낮아짐|실점이 많아도 경기 중반 이후 반전이 어려움|상위 타선 침묵 시 득점 루트가 단조로워짐|초반 선취점 확보 때만 경기 운영이 살아나는 편임"
+h2h: '[{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"},{"date":"26.04.17","home":"신시내티 레즈","away":"샌프란시스코 자이언츠","score":"0-3"},{"date":"26.04.16","home":"신시내티 레즈","away":"샌프란시스코 자이언츠","score":"8-3"},{"date":"26.04.15","home":"신시내티 레즈","away":"샌프란시스코 자이언츠","score":"2-1"}]'
+summary: "샌프란시스코 자이언츠는 시즌 전체 성적과 최근 흐름이 완벽하게 맞아떨어지지는 않지만, 신시내티 레즈보다 실점 관리와 경기 운영에서 더 나은 장면을 보여주고 있습니다. 신시내티 레즈는 시즌 승수는 조금 더 많아도 최근 득점이 크게 줄었고, 실점 부담도 커져 전력 균형이 흔들리는 모습입니다. 상대전적도 서로 팽팽하지만 직전 맞대결에서 샌프란시스코 자이언츠가 5-0으로 완승을 거둔 만큼, 이번 경기에서도 홈팀이 조금 더 안정적으로 우위를 잡을 가능성이 높습니다. 경기 자체는 타선이 크게 터지기보다는 흐름 싸움으로 이어질 가능성이 높고, 샌프란시스코 자이언츠 쪽 기대가 더 자연스럽습니다."
+homeRecent: '[{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"},{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox/"},{"date":"26.08.23","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SFBO0-2026-08-23-boston-red-sox/"},{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"},{"date":"26.08.21","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SFCL0-2026-08-21-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"},{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"},{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"},{"date":"26.08.20","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SLCI0-2026-08-20-cincinnati-reds/"}]'
+injuryHome: "Jesus Rodriguez (핀치 신경)|Bryce Eldridge (조문)|Marcelo Mayer (골절)|Matt Gage (근육 긴장)|Victor Bericoto (타박상)"
+injuryAway: "Graham Ashcraft (염좌)|Brandon Williamson (통증)|Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌프란시스코 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "샌프란시스코 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

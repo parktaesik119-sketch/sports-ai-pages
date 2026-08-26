@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 시카고 컵스 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | MLB - 픽천국"
+date: 2026-08-26T19:40:00.000Z
+description: "애리조나 다이아몬드백스 vs 시카고 컵스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260827CCAZ0-2026-08-27-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 85경기에서 46승 39패, 승률 .523, 평균 득점 4.7을 기록하며 중상위권 경쟁을 이어가고 있습니다. 다만 최근 10경기에서는 5승 5패로 흐름이 다소 갈렸고, 강한 타선으로 점수를 뽑는 날과 득점이 급격히 막히는 날의 차이가 분명하게 보입니다. 홈에서는 경기당 득점 생산이 살아나는 편이라 공격 전개 자체는 나쁘지 않지만, 실점이 늘어나는 구간에서는 경기 운영이 흔들리는 모습도 확인됩니다. 특히 최근 시카고 컵스전에서 득점이 끊기며 상성 부담이 드러났고, 케텔 마르테와 루르데스 구리엘 주니어의 공백은 타선의 중심축과 연결감에 영향을 주고 있습니다. 그래도 상위권 팀들을 상대로도 한 방이 나오는 구간이 있어서, 초반 흐름을 잘 잡으면 홈 이점으로 반등 여지는 남아 있습니다."
+awayAnalysis: "시카고 컵스는 2026시즌 최근 89경기에서 49승 38패, 승률 .576, 평균 득점 5.1로 애리조나 다이아몬드백스보다 한 단계 더 안정적인 전력을 보여주고 있습니다. 최근 10경기에서도 5승 5패로 기복은 있었지만, 대량 득점이 가능한 경기들이 이어지며 공격 쪽 폭발력은 분명하게 확인되고 있습니다. 특히 최근 원정에서 장타와 집중타가 함께 살아나며 한 번 흐름을 타면 점수 차를 크게 벌리는 장면이 많았습니다. 수비 쪽에서는 실점이 크게 흔들리는 경기와 단단하게 막는 경기가 함께 나오지만, 전체 득실 차가 크게 앞서 있어 경기 전체 균형은 비교적 좋습니다. 맷 쇼와 호비 밀너 등 결장 공백은 부담이지만, 최근 애리조나 다이아몬드백스와의 맞대결에서 우위를 이어온 만큼 상성 면에서도 자신감을 가질 만합니다."
+homePower: "케텔 마르테 공백으로 중심 타선 연결성 저하가 보임|루르데스 구리엘 주니어 이탈로 좌타 장타 위협 감소함|홈에서는 득점 기복 속에서도 반격 속도는 살아있음|최근 컵스전 침묵으로 상성 대응력 점검 필요함|실점이 늘면 추격 부담 커지는 구조가 뚜렷함"
+awayPower: "최근 원정 타격이 폭발하며 장타 흐름이 살아있음|대량 득점 가능성이 높아 경기 주도권 확보에 유리함|애리조나 다이아몬드백스 상대로 상성 우위가 확인됨|결장자 공백에도 대체 자원으로 공격 템포 유지됨|득실 격차가 커 안정감과 한 방이 함께 검증됨"
+h2h: '[{"date":"26.08.25","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"0-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CCAZ0-2026-08-25-arizona-diamondbacks/"},{"date":"26.05.04","home":"시카고 컵스","away":"애리조나 다이아몬드백스","score":"8-4","link":"https://pick79.com/posts/detail/analyze-178519-2026-05-04-chicago-cubs/"},{"date":"26.05.03","home":"시카고 컵스","away":"애리조나 다이아몬드백스","score":"2-0","link":"https://pick79.com/posts/detail/analyze-178507-2026-05-03-chicago-cubs/"},{"date":"26.05.02","home":"시카고 컵스","away":"애리조나 다이아몬드백스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-178491-2026-05-02-chicago-cubs/"}]'
+summary: "시카고 컵스는 2026시즌 승률과 득실 차에서 애리조나 다이아몬드백스보다 한층 앞서 있으며, 공격 생산력도 더 안정적으로 이어지고 있습니다. 애리조나 다이아몬드백스는 홈에서 반등 여지는 있지만, 최근 흐름이 들쭉날쭉하고 중심 타선의 결장 영향까지 겹치면서 전력 완성도가 다소 떨어져 보입니다. 반면 시카고 컵스는 최근 대승을 포함해 공격 폭발력이 뚜렷하고, 맞대결에서도 흐름을 계속 가져오고 있어 이번 경기에서도 우위를 점할 가능성이 높습니다. 결국 전반적인 전력 균형과 상성, 최근 득점 흐름까지 감안하면 시카고 컵스 쪽 기대가 더 자연스럽습니다."
+homeRecent: '[{"date":"26.08.25","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CCAZ0-2026-08-25-arizona-diamondbacks/"},{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"},{"date":"26.08.19","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"9-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819AZBO0-2026-08-19-boston-red-sox/"}]'
+awayRecent: '[{"date":"26.08.25","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CCAZ0-2026-08-25-arizona-diamondbacks/"},{"date":"26.08.24","home":"시애틀 매리너스","away":"시카고 컵스","score":"2-19","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners/"},{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.20","home":"시카고 컵스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820CWCC0-2026-08-20-chicago-cubs/"},{"date":"26.08.18","home":"시카고 컵스","away":"시카고 화이트삭스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818CWCC0-2026-08-18-chicago-cubs/"}]'
+injuryHome: "Lourdes Gurriel Jr. (긴장)|Blake Walston (수술)|Ryan Thompson (긴장)|Tommy Troy (염좌)|Ketel Marte (염증)"
+injuryAway: "Matt Shaw (염좌)|Hoby Milner (수술)|Tyler Austin (수술)|Edward Cabrera (찰과상)|Shelby Miller (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

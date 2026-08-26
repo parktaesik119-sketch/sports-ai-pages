@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 브레이브스 vs LA 다저스 경기분석·라인업·결장자·통계·승부예측 (8월 27일) | MLB - 픽천국"
+date: 2026-08-26T23:15:00.000Z
+description: "애틀랜타 브레이브스 vs LA 다저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260827LAAT0-2026-08-27-atlanta-braves"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애틀랜타 브레이브스"
+awayTeam: "LA 다저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+homeAnalysis: "애틀랜타 브레이브스는 2026시즌 50승 2무 42패, 승률 .580에 평균 득점 4.3을 기록하며 전체적으로는 경쟁력을 유지하고 있습니다. 다만 최근 10경기에서는 3승 7패로 흐름이 다소 꺾였고, 평균 득점도 2.3으로 내려가 공격의 날카로움이 약해진 모습입니다. 특히 원정에서 이어진 실점 부담과 득점 기복이 함께 나타나고 있어, 초반에 점수를 내지 못하면 경기 운영이 어려워질 가능성이 있습니다. 홈에서는 어느 정도 반등의 바탕이 남아 있지만, 최근 경기 내용만 보면 타선이 길게 이어지는 힘은 예전만 못해 보입니다. 그래도 중요한 구간에서 한 방을 만들 수 있는 전개는 여전히 살아 있어, 수비가 버텨주면 접전으로 끌고 갈 여지는 있습니다."
+awayAnalysis: "LA 다저스는 2026시즌 52승 0무 31패, 승률 .611에 평균 득점 5.1로 리그순위 2위답게 안정적인 상위권 전력을 보여주고 있습니다. 최근 10경기에서도 7승 3패, 평균 득점 4.8로 흐름이 좋고, 특히 장타와 연속 득점이 살아나며 공격 템포가 다시 올라온 모습입니다. 원정에서도 득점 생산이 크게 흔들리지 않아 이동 부담이 비교적 적고, 실점 억제까지 함께 맞물리면 경기 주도권을 잡기 쉽습니다. 다만 연달아 실점이 늘어난 구간에서는 불펜 부담이 커질 수 있어, 초반 리드를 지키는 운영이 중요해 보입니다. 전반적으로는 타선의 지속성과 전력 균형이 강점으로 평가됩니다."
+homePower: "최근 득점 하락이 보여주는 타선 기복이 분명함|홈에서 버틸 때와 무너질 때 차이가 큰 편임|장기 결장자 다수로 마운드 운용 폭이 좁아짐|수비가 흔들리면 저득점 경기에서도 불리함|상위권과의 맞대결에서 초반 실점 억제가 관건임"
+awayPower: "평균 득점이 높아 공격 전개가 꾸준함|최근 원정 연승 흐름으로 이동 부담이 적음|주요 불펜 결장에도 득점력으로 상쇄 가능함|장타와 연결타가 함께 살아 있어 득점 루트 다양함|리그순위 2위답게 경기 후반 운영 안정감이 있음"
+h2h: '[{"date":"26.05.11","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"2-7","link":"https://pick79.com/posts/detail/analyze-178613-2026-05-11-los-angeles-dodgers/"},{"date":"26.05.09","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-178575-2026-05-09-los-angeles-dodgers/"}]'
+summary: "애틀랜타 브레이브스는 시즌 전체 성적은 준수하지만 최근 득점 흐름이 눈에 띄게 낮아져서, 상위권 전력과 맞붙을 때 공격이 먼저 풀려야 하는 과제를 안고 있습니다. 반면 LA 다저스는 리그순위 2위와 높은 득실 격차가 보여주듯 전력의 균형이 좋고, 최근에도 득점 생산이 안정적으로 이어지고 있어 경기 주도권을 잡기 유리해 보입니다. 상대전적에서는 애틀랜타 브레이브스가 앞서 있지만, 최근 내용과 현재 전력의 무게를 함께 보면 LA 다저스가 한 끗 우위를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.24","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ATMI0-2026-08-24-milwaukee-brewers/"},{"date":"26.08.23","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ATMI0-2026-08-23-milwaukee-brewers/"},{"date":"26.08.22","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822ATMI0-2026-08-22-milwaukee-brewers/"},{"date":"26.08.21","home":"시카고 화이트삭스","away":"애틀랜타 브레이브스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ATCW0-2026-08-21-chicago-white-sox/"},{"date":"26.08.20","home":"미네소타 트윈스","away":"애틀랜타 브레이브스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820ATMN0-2026-08-20-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.08.24","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824PILA0-2026-08-24-los-angeles-dodgers/"},{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers/"},{"date":"26.08.20","home":"콜로라도 로키스","away":"LA 다저스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820LACO0-2026-08-20-colorado-rockies/"},{"date":"26.08.19","home":"콜로라도 로키스","away":"LA 다저스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819LACO0-2026-08-19-colorado-rockies/"},{"date":"26.08.18","home":"콜로라도 로키스","away":"LA 다저스","score":"5-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818LACO0-2026-08-18-colorado-rockies/"}]'
+injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
+injuryAway: "Bobby Miller (통증)|Blake Treinen (염증)|Ben Casparius (염증)|Will Klein (통증)|Will Smith (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "FC 코펜하겐 vs 인터 투르쿠 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | 컨퍼런스리그 예선 - 픽천국"
+date: 2026-08-27T17:00:00.000Z
+description: "FC 코펜하겐 vs 인터 투르쿠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5988082-2026-08-28-fc-kbenhavn"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그 예선"
+homeTeam: "FC 코펜하겐"
+awayTeam: "인터 투르쿠"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8391.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6550.png"
+homeAnalysis: "FC 코펜하겐은 2026시즌 전체 19경기에서 7승 4무 8패, 승률 36.8%, 평균 득점 2.2골을 기록하며 공격력은 강하지만 경기별 기복이 함께 나타나고 있습니다. 최근에는 라ანდერს FC와 데브레첸을 상대로 연속 대승을 거두며 전방 화력이 살아났지만, 직전 비보르전에서는 0-4로 크게 패하며 수비 집중력에 아쉬움을 남겼습니다. 로베르트와 모하메드 엘유누시를 중심으로 한 공격 전개는 상대 수비를 흔들 수 있는 강점으로 평가됩니다. 알렉스 크랄과 토마스 딜레이니가 중원에서 경기 템포를 조절하면 인터 투르쿠의 밀집 수비를 상대로 주도권을 확보할 가능성이 높습니다. 다만 안드레아스 코르넬리우스와 도미니크 코타르스키를 비롯한 주요 결장자가 있어 최전방 결정력과 골문 안정성은 변수입니다. 최근 맞대결에서 득점 없이 비긴 만큼 초반에는 신중한 운영이 예상되지만, 홈에서 공격적인 전개가 살아난다면 우세를 만들 수 있어 보입니다."
+awayAnalysis: "인터 투르쿠는 2026시즌 전체 27경기에서 9승 13무 5패, 승률 33.3%, 평균 득점 1.3골을 기록하며 패배를 쉽게 허용하지 않는 안정적인 전력을 보여주고 있습니다. 최근에는 TPS와 0-0으로 비기며 수비적인 균형을 유지했고, 그 이전에는 AC 오울루를 상대로 3골을 넣으며 역습의 효율도 확인했습니다. 라우리 라인이과 루카스 프로코프가 전방에서 기회를 만들고 요하네스 윌리코코가 2선 연결을 맡으면 전환 상황에서 위협적인 장면을 만들 수 있습니다. 수비진은 최근 여러 경기에서 상대 득점을 제한하며 단단한 조직력을 보였고, 이번 경기에서도 낮은 위치에서 공간을 줄이는 운영이 핵심이 될 전망입니다. 다만 득점 생산성이 FC 코펜하겐보다 낮아 주도권을 내줄 경우 공격 전개가 단조로워질 가능성이 있습니다. 결장자가 없다는 점은 분명한 장점이며, 팽팽한 흐름을 길게 유지하는 능력은 원정 경기에서 중요한 경쟁력으로 보입니다."
+homePower: "최근 대승 경험으로 공격 전환 자신감이 높아진 흐름임|로베르트 중심의 전방 침투가 수비 균열을 만들 변수임|엘유누시와 마센의 2선 조합이 공격 폭을 넓혀줄 수 있음|주요 골키퍼 결장으로 실점 억제력은 불안 요소로 남음|중원 경험을 앞세운 경기 주도권 확보가 기대됨"
+awayPower: "27경기에서 패배가 적어 경기 유지력이 강점으로 검증됨|무실점 경기가 많아 촘촘한 수비 블록이 돋보임|라인이와 프로코프의 빠른 전환이 원정 승부처임|득점 의존도가 낮아 선제 실점 시 대응력이 변수임|결장자 없이 정상 전력 가동이 가능한 점이 유리함"
+h2h: '[{"date":"26.08.21","home":"인터 투르쿠","away":"FC 코펜하겐","score":"0-0","link":"https://pick79.com/posts/detail/analyze-fotmob-5988058-2026-08-21-fc-inter-turku/"}]'
+summary: "2026시즌 전체 전력에서는 인터 투르쿠가 더 많은 승리와 적은 패배를 기록했지만, 공격 생산성과 경기의 폭발력은 FC 코펜하겐이 앞서 있습니다. FC 코펜하겐은 최근 대승을 통해 공격 흐름을 회복한 반면 직전 대패와 주요 수비 관련 결장자는 불안 요소로 남아 있습니다. 인터 투르쿠는 무실점과 무패에 가까운 안정적인 경기 운영이 강점이지만, 원정에서 공격 주도권을 내주면 득점 기회를 충분히 만들기 어려울 수 있습니다. 최근 맞대결이 0-0으로 끝났던 만큼 팽팽한 수비전 가능성도 있지만, 홈에서 더 높은 공격 강도를 보여줄 FC 코펜하겐이 근소한 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Andreas Cornelius (부상)|Dominik Kotarski (다리 부상)|Rodrigo Huescas (무릎 부상)|Dominik Sarapata (어깨 부상)|Hunor Németh (부상)|Magnus Mattsson (무릎 부상)"
+injuryAway: "없음"
+homeLineup: '["Rúnar Rúnarsson (GK)|https://images.fotmob.com/image_resources/playerimages/316847.png","Felix Beijmo (DF)|https://images.fotmob.com/image_resources/playerimages/628816.png","Gabriel Pereira (DF)|https://images.fotmob.com/image_resources/playerimages/1288187.png","Asger Sørensen (DF)|https://images.fotmob.com/image_resources/playerimages/509349.png","Birger Meling (DF)|https://images.fotmob.com/image_resources/playerimages/566681.png","Alex Král (MF)|https://images.fotmob.com/image_resources/playerimages/836797.png","Thomas Delaney (MF)|https://images.fotmob.com/image_resources/playerimages/170218.png","Mohamed Elyounoussi (FW)|https://images.fotmob.com/image_resources/playerimages/261936.png","Mads Emil Madsen (MF)|https://images.fotmob.com/image_resources/playerimages/775246.png","Robert (FW)|https://images.fotmob.com/image_resources/playerimages/1494913.png","Geovanni Vianney (FW)|https://images.fotmob.com/image_resources/playerimages/1901848.png"]'
+awayLineup: '["Eetu Huuhtanen (GK)|https://images.fotmob.com/image_resources/playerimages/1152752.png","Albin Granlund (DF)|https://images.fotmob.com/image_resources/playerimages/201433.png","Luka Kuittinen (DF)|https://images.fotmob.com/image_resources/playerimages/1203621.png","Yeboah Amankwah (DF)|https://images.fotmob.com/image_resources/playerimages/1091906.png","Julius Tauriainen (DF)|https://images.fotmob.com/image_resources/playerimages/949706.png","Prosper Ahiabu (MF)|https://images.fotmob.com/image_resources/playerimages/1352646.png","Eeli Kiiskilae (MF)|https://images.fotmob.com/image_resources/playerimages/1945982.png","Loic Essomba (FW)|https://images.fotmob.com/image_resources/playerimages/1439361.png","Johannes Yli-Kokko (MF)|https://images.fotmob.com/image_resources/playerimages/1060806.png","Lauri Laine (FW)|https://images.fotmob.com/image_resources/playerimages/1362109.png","Lukás Prokop (FW)|https://images.fotmob.com/image_resources/playerimages/1549118.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Bo Svensson|https://images.fotmob.com/image_resources/playerimages/27415.png"
+awayCoach: "Vesa Vasara|https://images.fotmob.com/image_resources/playerimages/7185.png"
+pickWinTeam: "FC 코펜하겐"
+pickWinResult: "승"
+pickHandicapTeam: "FC 코펜하겐"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---
