@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"시카고 화이트삭스","away":"뉴�
 awayRecent: '[{"date":"26.08.24","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ATMI0-2026-08-24-milwaukee-brewers/"},{"date":"26.08.23","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ATMI0-2026-08-23-milwaukee-brewers/"},{"date":"26.08.22","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822ATMI0-2026-08-22-milwaukee-brewers/"},{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"},{"date":"26.08.20","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SEMI0-2026-08-20-milwaukee-brewers/"}]'
 injuryHome: "Juan Soto (염좌)|Cionel Perez (염좌)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (염좌)"
 injuryAway: "Joel Kuhnel (건염)|Jake Bauers (근육통)|JoJo Romero (수술)|Abner Uribe (염좌)|Rob Zastryzny (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Stock (0-2, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/30577.png\"]"
+awayLineup: "[\"선발투수 D. May (6-8, 4.57) ERA 4.57|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

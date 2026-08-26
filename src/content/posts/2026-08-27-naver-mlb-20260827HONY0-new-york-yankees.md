@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애�
 injuryHome: "Kervin Castro (염증)|Max Fried (멍)|Ryan McMahon (염좌)|Clarke Schmidt (수술)|Aaron Judge (골절)"
 injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 P. Lambert (8-7, 3.68) ERA 3.68|https://a.espncdn.com/i/headshots/mlb/players/full/39898.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

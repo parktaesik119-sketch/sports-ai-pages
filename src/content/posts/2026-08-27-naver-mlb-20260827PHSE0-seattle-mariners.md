@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.25","home":"시애틀 매리너스","away":"필라�
 awayRecent: '[{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.20","home":"필라델피아 필리스","away":"마이애미 말린스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820FLPH0-2026-08-20-philadelphia-phillies/"}]'
 injuryHome: "Cole Wilcox (긴장)|Cooper Criswell (긴장)|Brendan Donovan (뇌진탕)|Will Wilson (골절)|Matt Brash (긴장)"
 injuryAway: "Derek Hill (통증)|Rafael Marchan (건염)|Caleb Kilian (긴장)|Tanner Banks (긴장)|Felix Reyes (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Woo (9-8, 4.10) ERA 4.10|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
+awayLineup: "[\"선발투수 J. Luzardo (11-5, 3.35) ERA 3.35|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

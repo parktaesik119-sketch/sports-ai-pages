@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.24","home":"캔자스시티 로열스","away":"디�
 injuryHome: "Jonatan Clase (족저근막염)|Joe Mantiply (수술)|Josh Smith (염증)|Patrick Corbin (근육 부상)|Jameson Taillon (건염)"
 injuryAway: "Beck Way (경련)|Michael Massey (일간성 상태)|Jac Caglianone (통증)|Connor Seabold (근육 부상)|Maikel Garcia (근육 부상)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 R. Dobnak (2-1, 1.58) ERA 1.58|https://a.espncdn.com/i/headshots/mlb/players/full/42214.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

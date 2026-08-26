@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.24","home":"필라델피아 필리스","away":"세�
 awayRecent: '[{"date":"26.08.24","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TBBA0-2026-08-24-baltimore-orioles/"},{"date":"26.08.23","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TBBA0-2026-08-23-baltimore-orioles/"},{"date":"26.08.22","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TBBA0-2026-08-22-baltimore-orioles/"},{"date":"26.08.21","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821NYBA0-2026-08-21-baltimore-orioles/"},{"date":"26.08.20","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820NYBA0-2026-08-20-baltimore-orioles/"}]'
 injuryHome: "Masyn Winn (골절)|Everson Pereira (멍)|Andre Pallante (염증)|Hunter Dobbins (통증)|Max Rajcic (수술)"
 injuryAway: "Tyler O'Neill (통증)|Blaze Alexander (골절)|Felix Bautista (수술)|Ryan Helsley (염증)|Ryan Mountcastle (근육 부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. McGreevy (5-9, 3.54) ERA 3.54|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 K. Bradish (7-12, 3.70) ERA 3.70|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

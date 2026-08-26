@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.25","home":"마이애미 말린스","away":"보스�
 awayRecent: '[{"date":"26.08.25","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825BOFL0-2026-08-25-miami-marlins/"},{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox/"},{"date":"26.08.23","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SFBO0-2026-08-23-boston-red-sox/"},{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"}]'
 injuryHome: "Anthony Bender (골절)|Pete Fairbanks (목 신경 압박)|Max Meyer (근육 손상)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 injuryAway: "Adley Rutschman (통증)|Roman Anthony (염좌)|Trevor Story (수술)|Garrett Whitlock (염증)|Isiah Kiner-Falefa (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Gusto (0-3, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/5131986.png\"]"
+awayLineup: "[\"선발투수 S. Gray (16-3, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

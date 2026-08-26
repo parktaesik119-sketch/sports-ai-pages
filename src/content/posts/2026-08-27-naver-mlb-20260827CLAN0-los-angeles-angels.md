@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.25","home":"LA 에인절스","away":"클리블랜�
 awayRecent: '[{"date":"26.08.25","home":"LA 에인절스","away":"클리블랜드 가디언스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CLAN0-2026-08-25-los-angeles-angels/"},{"date":"26.08.24","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CLCO0-2026-08-24-colorado-rockies/"},{"date":"26.08.22","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CLCO0-2026-08-22-colorado-rockies/"},{"date":"26.08.21","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SFCL0-2026-08-21-cleveland-guardians/"},{"date":"26.08.20","home":"클리블랜드 가디언스","away":"샌프란시스코 자이언츠","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SFCL0-2026-08-20-cleveland-guardians/"}]'
 injuryHome: "Shaun Anderson (염증)|Wade Meckler (비공개)|Sebastian Rivero (수술)|Nolan Schanuel (근육 긴장)|Samy Natera Jr. (경련)"
 injuryAway: "Chase DeLauter (비공개)|Rhys Hoskins (염증)|Slade Cecconi (통증)|Shawn Armstrong (근육 긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Rodriguez (4-5, 6.41) ERA 6.41|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
+awayLineup: "[\"선발투수 J. Cantillo (9-7, 3.73) ERA 3.73|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

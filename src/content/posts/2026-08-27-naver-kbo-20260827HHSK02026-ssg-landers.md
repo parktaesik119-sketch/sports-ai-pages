@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.25","home":"SSG 랜더스","away":"한화 이글스
 awayRecent: '[{"date":"26.08.25","home":"SSG 랜더스","away":"한화 이글스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825HHSK02026-2026-08-25-ssg-landers/"},{"date":"26.08.23","home":"한화 이글스","away":"LG 트윈스","score":"3-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LGHH02026-2026-08-23-hanwha-eagles/"},{"date":"26.08.21","home":"한화 이글스","away":"LG 트윈스","score":"15-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821LGHH02026-2026-08-21-hanwha-eagles/"},{"date":"26.08.20","home":"한화 이글스","away":"KIA 타이거즈","score":"6-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820HTHH02026-2026-08-20-hanwha-eagles/"},{"date":"26.08.19","home":"한화 이글스","away":"KIA 타이거즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819HTHH02026-2026-08-19-hanwha-eagles/"}]'
 injuryHome: "없음"
 injuryAway: "왕옌청 (부상)|오재원 (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 정준재 (2루수)\",\"2번 박성한 (유격수)\",\"3번 에레디아 (좌익수)\",\"4번 전의산 (1루수)\",\"5번 김재환 (지명타자)\",\"6번 최지훈 (중견수)\",\"7번 조형우 (포수)\",\"8번 안상현 (3루수)\",\"9번 임근우 (우익수)\"]"
+awayLineup: "[\"1번 김태연 (우익수)\",\"2번 문현빈 (중견수)\",\"3번 한지윤 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 채은성 (1루수)\",\"7번 허인서 (포수)\",\"8번 이도윤 (2루수)\",\"9번 심우준 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.25","home":"시카고 화이트삭스","away":"텍�
 awayRecent: '[{"date":"26.08.25","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"2-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TECW0-2026-08-25-chicago-white-sox/"},{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"},{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에인절스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ANTE0-2026-08-23-texas-rangers/"},{"date":"26.08.21","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821MOTE0-2026-08-21-texas-rangers/"},{"date":"26.08.20","home":"텍사스 레인저스","away":"워싱턴 내셔널스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820MOTE0-2026-08-20-texas-rangers/"}]'
 injuryHome: "Andrew Benintendi (장례 사유)|Kyle Teel (염좌)|Chris Murphy (긴장)|Jordan Leasure (긴장)|Davis Martin (찰과상)"
 injuryAway: "Michael Helman (골절)|Carter Baumler (긴장)|Nathan Eovaldi (염증)|Jack Leiter (수술)|Josh Jung (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Burke (7-6, 3.27) ERA 3.27|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
+awayLineup: "[\"선발투수 M. Gore (7-9, 4.26) ERA 4.26|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

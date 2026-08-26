@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.25","home":"워싱턴 내셔널스","away":"콜로�
 injuryHome: "Drew Millas (골절)|Richard Lovelady (근육 염좌)|James Wood (근육 염좌)|Josiah Gray (근육 염좌)|DJ Herz (근육 염좌)"
 injuryAway: "Ezequiel Tovar (근육 염좌)|Kyle Karros (뇌진탕)|Kris Bryant (수술)|McCade Brown (염증)|Kyle Freeland (신경 압박)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 T. Gordon (0-4, 5.75) ERA 5.75|https://a.espncdn.com/i/headshots/mlb/players/full/4415658.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
