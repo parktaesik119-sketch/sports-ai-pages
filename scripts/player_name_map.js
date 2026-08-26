@@ -994,11 +994,13 @@ const PLAYER_NAME_MAP = {
 
   // ===== 🎽 감독 (한국 국적만, K리그1+K리그2) =====
   // 외국인 감독(Jeju SK: Sergio Costa, Chungnam Asan: André, Paju Frontier:
-  // Gerard Nus, Cheongju FC: Rui Quinta)은 제외. Seongnam FC, Ansan Greeners는
-  // 조회 시점에 fotmob 스쿼드 페이지에 감독 항목 자체가 없어서 비워둠 — 나중에
-  // 뜨면 같은 방식(GivenName Surname)으로 추가하면 됨.
+  // Gerard Nus, Cheongju FC: Rui Quinta)은 제외. Seongnam FC는 조회 시점에 fotmob
+  // 스쿼드 페이지에 감독 항목 자체가 없어서 비워둠 — 나중에 뜨면 같은 방식
+  // (GivenName Surname)으로 추가하면 됨.
 
   "Gi-Dong Kim": "김기동", // FC 서울
+  "Moon-Shik Choi": "최문식", // 안산 그리너스
+  "Choi Moon-Shik": "최문식", // 안산 그리너스
   "Hyun-Seok Kim": "김현석", // 울산 HD — fotmob 스쿼드 페이지에서 이 항목만 이미 GivenName Surname 순서였음
   "Jung-Yong Chung": "정정용", // 전북 현대
   "Jung-Yong Jung": "정정용", // 전북 현대

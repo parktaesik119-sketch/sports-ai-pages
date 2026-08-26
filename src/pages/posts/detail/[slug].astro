@@ -125,13 +125,21 @@ function translateTeam(name: string) {
 }
 
 // 선수명(+ 감독명)도 팀명과 동일한 방식: player_name_map.js(PLAYER_NAME_MAP)에 등록된
-// 한국 국적 선수·감독만 한글로 치환한다. 키는 실제 라인업 표시 순서인
-// "GivenName-Hyphenated Surname"(예: "Sung-Yun Gu") 형식이어야 매칭된다 — fotmob 스쿼드
-// 페이지 표기(성이 앞) 순서가 아니니 주의. 등록 안 된 선수(외국인 선수 등)나 매칭 안 되는
-// 값은 원문 그대로 통과한다(안전).
+// 한국 국적 선수·감독만 한글로 치환한다. 기본 키는 실제 라인업 표시 순서인
+// "GivenName-Hyphenated Surname"(예: "Sung-Yun Gu") 형식이지만, fotmob이 위젯/경기에 따라
+// 가끔 "Surname GivenName-Hyphenated"(예: "Gu Sung-Yun") 순서로 주는 경우가 있어 — 원래
+// 순서로 못 찾으면 두 토큰을 뒤집어서 한 번 더 찾아본다. 그래도 등록 안 된 선수(외국인
+// 선수 등)나 매칭 안 되는 값은 원문 그대로 통과한다(안전).
 function translatePlayer(name: string) {
   if (!name) return name;
-  return (PLAYER_NAME_MAP as Record<string, string>)[name] || name;
+  const map = PLAYER_NAME_MAP as Record<string, string>;
+  if (map[name]) return map[name];
+  const parts = name.trim().split(/\s+/);
+  if (parts.length === 2) {
+    const reversed = `${parts[1]} ${parts[0]}`;
+    if (map[reversed]) return map[reversed];
+  }
+  return name;
 }
 
 // 리그명도 팀명과 똑같은 방식: league-name-map.js(EXACT_LEAGUE_MAP)에 없는 값(주로
@@ -692,7 +700,7 @@ const structuredDataJson = JSON.stringify(structuredData).replace(/</g, '\\u003c
   }
   function stripPos(player: string) {
     const base = player.split('|')[0];
-    return base.replace(/\s*\([^)]*\)$/, '');
+    return base.replace(/\s*\([^)]+\)$/, '');
   }
   // 야구 포지션(한글)을 색상 배지로 분류 - 기존 축구용 색상 팔레트 재사용
   // 포수=GK색(노랑), 내야수=DF색(초록), 외야수=MF색(파랑), 지명타자=FW색(빨강)
