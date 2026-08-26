@@ -856,38 +856,12 @@
     "date": "2026-08-24T16:30:00.000Z",
     "league": "Serie A",
     "injuries": {
-      "home": [
-        {
-          "name": "Nicolò Casale",
-          "status": "발목 부상",
-          "detail": "Early September 2026"
-        }
-      ],
+      "home": [],
       "away": [
-        {
-          "name": "Samuel Gigot",
-          "status": "등 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Luca Pellegrini",
-          "status": "허벅지 부상",
-          "detail": "Doubtful"
-        },
         {
           "name": "Josip Sutalo",
           "status": "부상",
           "detail": "Day to day"
-        },
-        {
-          "name": "Danilo Cataldi",
-          "status": "근육 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Patric",
-          "status": "허벅지 부상",
-          "detail": "Early September 2026"
         }
       ]
     },
@@ -3280,1482 +3254,6 @@
     }
   },
   {
-    "home": "Ipswich",
-    "away": "Leicester",
-    "date": "2026-08-25T18:45:00.000Z",
-    "league": "EFL Cup",
-    "injuries": {
-      "home": [
-        {
-          "name": "Florentino",
-          "status": "부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Azor Matusiwa",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        }
-      ],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2026-03-07T15:00:00.000Z",
-        "home": "Ipswich Town",
-        "away": "Leicester City",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-12-13T15:00:00.000Z",
-        "home": "Leicester City",
-        "away": "Ipswich Town",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-05-18T14:00:00.000Z",
-        "home": "Leicester City",
-        "away": "Ipswich Town",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-11-02T15:00:00.000Z",
-        "home": "Ipswich Town",
-        "away": "Leicester City",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-01-22T20:00:00.000Z",
-        "home": "Leicester City",
-        "away": "Ipswich Town",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-12-26T19:45:00.000Z",
-        "home": "Ipswich Town",
-        "away": "Leicester City",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-02-22T15:00:00.000Z",
-        "home": "Leicester City",
-        "away": "Ipswich Town",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2013-11-23T15:00:00.000Z",
-        "home": "Ipswich Town",
-        "away": "Leicester City",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-03-02T15:00:00.000Z",
-        "home": "Ipswich Town",
-        "away": "Leicester City",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-11-17T15:00:00.000Z",
-        "home": "Leicester City",
-        "away": "Ipswich Town",
-        "homeScore": 6,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-04-09T14:00:00.000Z",
-        "home": "Ipswich Town",
-        "away": "Leicester City",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-12-26T15:00:00.000Z",
-        "home": "Leicester City",
-        "away": "Ipswich Town",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2011-05-07T11:45:00.000Z",
-        "home": "Leicester City",
-        "away": "Ipswich Town",
-        "homeScore": 4,
-        "awayScore": 2
-      },
-      {
-        "date": "2010-12-18T17:20:00.000Z",
-        "home": "Ipswich Town",
-        "away": "Leicester City",
-        "homeScore": 3,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-01T15:00:00.000Z",
-          "home": "Wycombe Wanderers",
-          "away": "Ipswich Town",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-04T18:45:00.000Z",
-          "home": "Ipswich Town",
-          "away": "Le Havre",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-08T14:00:00.000Z",
-          "home": "Ipswich Town",
-          "away": "Rayo Vallecano",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-15T13:30:00.000Z",
-          "home": "Union Berlin",
-          "away": "Ipswich Town",
-          "homeScore": 2,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-08-22T14:00:00.000Z",
-          "home": "Ipswich Town",
-          "away": "Sunderland",
-          "homeScore": 2,
-          "awayScore": 1
-        }
-      ],
-      "away": []
-    },
-    "lineup": {
-      "home": [
-        "Christian Walton (GK)|https://images.fotmob.com/image_resources/playerimages/512013.png",
-        "Darnell Furlong (DF)|https://images.fotmob.com/image_resources/playerimages/609733.png",
-        "Dara O'Shea (DF)|https://images.fotmob.com/image_resources/playerimages/789578.png",
-        "Cédric Kipré (DF)|https://images.fotmob.com/image_resources/playerimages/760398.png",
-        "Abdoul Ouattara (DF)|https://images.fotmob.com/image_resources/playerimages/1343053.png",
-        "Cameron Humphreys (MF)|https://images.fotmob.com/image_resources/playerimages/1287056.png",
-        "Sindre Walle Egeli (FW)|https://images.fotmob.com/image_resources/playerimages/1307961.png",
-        "Kasey McAteer (FW)|https://images.fotmob.com/image_resources/playerimages/1113915.png",
-        "Marcelino Núñez (MF)|https://images.fotmob.com/image_resources/playerimages/1129081.png",
-        "Jack Clarke (FW)|https://images.fotmob.com/image_resources/playerimages/914402.png",
-        "Chuba Akpom (MF)|https://images.fotmob.com/image_resources/playerimages/413158.png"
-      ],
-      "away": [
-        "Jakub Stolarczyk (GK)|https://images.fotmob.com/image_resources/playerimages/1096327.png",
-        "Woyo Coulibaly (DF)|https://images.fotmob.com/image_resources/playerimages/1074476.png",
-        "Olabade Aluko (DF)|https://images.fotmob.com/image_resources/playerimages/1580249.png",
-        "Luke Thomas (DF)|https://images.fotmob.com/image_resources/playerimages/916332.png",
-        "Christian McFarlane (DF)|https://images.fotmob.com/image_resources/playerimages/1339595.png",
-        "Conor Chaplin (MF)|https://images.fotmob.com/image_resources/playerimages/605647.png",
-        "Harry Howell (MF)|https://images.fotmob.com/image_resources/playerimages/1446616.png",
-        "Sammy Braybrooke (MF)|https://images.fotmob.com/image_resources/playerimages/1353551.png",
-        "Louis Page (MF)|https://images.fotmob.com/image_resources/playerimages/1692116.png",
-        "Tom Watson (FW)|https://images.fotmob.com/image_resources/playerimages/1310131.png",
-        "Admir Bristric (FW)|https://images.fotmob.com/image_resources/playerimages/1336528.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-1-4-1"
-    },
-    "coach": {
-      "home": "Gary O'Neil|https://images.fotmob.com/image_resources/playerimages/24393.png",
-      "away": "Russell Martin|https://images.fotmob.com/image_resources/playerimages/24903.png"
-    }
-  },
-  {
-    "home": "Stoke",
-    "away": "Hull",
-    "date": "2026-08-25T18:45:00.000Z",
-    "league": "EFL Cup",
-    "injuries": {
-      "home": [
-        {
-          "name": "Lamine Cissé",
-          "status": "근육 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Junior Tchamadeu",
-          "status": "근육 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Ato Ampah",
-          "status": "근육 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Aaron Cresswell",
-          "status": "무릎 부상",
-          "detail": "Mid September 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Lewie Coyle",
-          "status": "발목 부상",
-          "detail": "Unknown"
-        },
-        {
-          "name": "Joe Gelhardt",
-          "status": "발목 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Matty Jacob",
-          "status": "엉덩이 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Jack Butland",
-          "status": "부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Darko Gyabi",
-          "status": "사타구니 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Charlie Hughes",
-          "status": "사타구니 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Óscar Zambrano",
-          "status": "햄스트링 부상",
-          "detail": "Mid September 2026"
-        },
-        {
-          "name": "Eliot Matazo",
-          "status": "십자 인대 부상",
-          "detail": "Mid January 2027"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-01-01T15:00:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-11-29T12:30:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2025-02-01T15:00:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-09-20T19:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2024-03-29T15:00:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-09-24T11:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2023-02-11T15:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-09-13T18:45:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2022-01-16T12:00:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2021-09-25T14:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-03-07T15:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-12-07T15:00:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-02-02T15:00:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-08-25T14:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-04-15T14:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-10-22T14:00:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-09-21T19:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-02-28T15:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-08-24T12:30:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-03-29T15:00:00.000Z",
-        "home": "Stoke City",
-        "away": "Hull City",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2013-12-14T17:30:00.000Z",
-        "home": "Hull City",
-        "away": "Stoke City",
-        "homeScore": 0,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-07-28T18:45:00.000Z",
-          "home": "Stoke City",
-          "away": "Everton",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-01T17:30:00.000Z",
-          "home": "Stoke City",
-          "away": "Valencia",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-08T14:00:00.000Z",
-          "home": "Stoke City",
-          "away": "Oldham Athletic",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-15T14:00:00.000Z",
-          "home": "Stoke City",
-          "away": "Swansea City",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-22T14:00:00.000Z",
-          "home": "Southampton",
-          "away": "Stoke City",
-          "homeScore": 3,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-07-28T16:00:00.000Z",
-          "home": "Rizespor",
-          "away": "Hull City",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-01T16:00:00.000Z",
-          "home": "Kasımpaşa",
-          "away": "Hull City",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-08T13:00:00.000Z",
-          "home": "Eintracht Frankfurt",
-          "away": "Hull City",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-15T14:00:00.000Z",
-          "home": "Hull City",
-          "away": "Nice",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-22T11:30:00.000Z",
-          "home": "Hull City",
-          "away": "Manchester United",
-          "homeScore": 2,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Joshua Griffiths (GK)|https://images.fotmob.com/image_resources/playerimages/969252.png",
-        "Ben Johnson (DF)|https://images.fotmob.com/image_resources/playerimages/770267.png",
-        "Ben Wilmot (DF)|https://images.fotmob.com/image_resources/playerimages/798603.png",
-        "Luke Graham (DF)|https://images.fotmob.com/image_resources/playerimages/1410414.png",
-        "Laurence Giani (DF)|https://images.fotmob.com/image_resources/playerimages/1640989.png",
-        "Ethan Galbraith (MF)|https://images.fotmob.com/image_resources/playerimages/1077926.png",
-        "Ben Pearson (MF)|https://images.fotmob.com/image_resources/playerimages/610267.png",
-        "Million Manhoef (FW)|https://images.fotmob.com/image_resources/playerimages/1183512.png",
-        "Tomás Rigo (MF)|https://images.fotmob.com/image_resources/playerimages/1152435.png",
-        "Sorba Thomas (FW)|https://images.fotmob.com/image_resources/playerimages/812982.png",
-        "Róbert Bozeník (FW)|https://images.fotmob.com/image_resources/playerimages/922622.png"
-      ],
-      "away": [
-        "Dillon Phillips (GK)|https://images.fotmob.com/image_resources/playerimages/518500.png",
-        "Cody Drameh (DF)|https://images.fotmob.com/image_resources/playerimages/962046.png",
-        "Lucas Herrington (DF)|https://images.fotmob.com/image_resources/playerimages/1686118.png",
-        "Paddy McNair (DF)|https://images.fotmob.com/image_resources/playerimages/575780.png",
-        "Matt Targett (DF)|https://images.fotmob.com/image_resources/playerimages/538112.png",
-        "Lucas Gourna-Douath (MF)|https://images.fotmob.com/image_resources/playerimages/1137106.png",
-        "Abdülkadir Ömür (FW)|https://images.fotmob.com/image_resources/playerimages/704138.png",
-        "Kieran Dowell (MF)|https://images.fotmob.com/image_resources/playerimages/605262.png",
-        "Jens Hjertø-Dahl (MF)|https://images.fotmob.com/image_resources/playerimages/1377949.png",
-        "Liam Millar (FW)|https://images.fotmob.com/image_resources/playerimages/932308.png",
-        "David Akintola (FW)|https://images.fotmob.com/image_resources/playerimages/656495.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-1-4-1"
-    },
-    "coach": {
-      "home": "Mark Robins|https://images.fotmob.com/image_resources/playerimages/25269.png",
-      "away": "Sergej Jakirovic|https://images.fotmob.com/image_resources/playerimages/9012.png"
-    }
-  },
-  {
-    "home": "Birmingham",
-    "away": "Brentford",
-    "date": "2026-08-25T19:00:00.000Z",
-    "league": "EFL Cup",
-    "injuries": {
-      "home": [
-        {
-          "name": "Marc Leonard",
-          "status": "햄스트링 부상",
-          "detail": "Early September 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Sepp van den Berg",
-          "status": "충돌 부상",
-          "detail": "Mid October 2026"
-        },
-        {
-          "name": "Antoni Milambo",
-          "status": "십자 인대 부상",
-          "detail": "About a week"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2021-04-06T18:00:00.000Z",
-        "home": "Brentford",
-        "away": "Birmingham City",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-09-12T11:30:00.000Z",
-        "home": "Birmingham City",
-        "away": "Brentford",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-02-15T15:00:00.000Z",
-        "home": "Birmingham City",
-        "away": "Brentford",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-08-03T14:00:00.000Z",
-        "home": "Brentford",
-        "away": "Birmingham City",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-12-29T15:00:00.000Z",
-        "home": "Birmingham City",
-        "away": "Brentford",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-10-02T18:45:00.000Z",
-        "home": "Brentford",
-        "away": "Birmingham City",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-02-20T19:45:00.000Z",
-        "home": "Brentford",
-        "away": "Birmingham City",
-        "homeScore": 5,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-11-01T19:50:00.000Z",
-        "home": "Birmingham City",
-        "away": "Brentford",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-01-02T15:00:00.000Z",
-        "home": "Birmingham City",
-        "away": "Brentford",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2016-11-26T15:00:00.000Z",
-        "home": "Brentford",
-        "away": "Birmingham City",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-01-02T15:00:00.000Z",
-        "home": "Birmingham City",
-        "away": "Brentford",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-09-29T18:45:00.000Z",
-        "home": "Brentford",
-        "away": "Birmingham City",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-02-28T15:00:00.000Z",
-        "home": "Birmingham City",
-        "away": "Brentford",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-08-23T14:00:00.000Z",
-        "home": "Brentford",
-        "away": "Birmingham City",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2010-10-26T18:45:00.000Z",
-        "home": "Birmingham City",
-        "away": "Brentford",
-        "homeScore": 1,
-        "awayScore": 1
-      }
-    ],
-    "recent": {
-      "home": [],
-      "away": [
-        {
-          "date": "2026-05-17T14:00:00.000Z",
-          "home": "Brentford",
-          "away": "Crystal Palace",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-05-24T15:00:00.000Z",
-          "home": "Liverpool",
-          "away": "Brentford",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-08T15:00:00.000Z",
-          "home": "Rennes",
-          "away": "Brentford",
-          "homeScore": 2,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-08-15T14:00:00.000Z",
-          "home": "Brentford",
-          "away": "Eintracht Frankfurt",
-          "homeScore": 7,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-22T16:30:00.000Z",
-          "home": "Brentford",
-          "away": "Tottenham Hotspur",
-          "homeScore": 3,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Ryan Allsop (GK)|https://images.fotmob.com/image_resources/playerimages/172284.png",
-        "Bright Osayi-Samuel (DF)|https://images.fotmob.com/image_resources/playerimages/618718.png",
-        "Dael Fry (DF)|https://images.fotmob.com/image_resources/playerimages/664826.png",
-        "Christoph Klarer (DF)|https://images.fotmob.com/image_resources/playerimages/877701.png",
-        "Kristoffer Lund Hansen (DF)|https://images.fotmob.com/image_resources/playerimages/1235086.png",
-        "Jhon Solís (MF)|https://images.fotmob.com/image_resources/playerimages/1433032.png",
-        "Seung-Ho Paik (MF)|https://images.fotmob.com/image_resources/playerimages/848102.png",
-        "Carlos Vicente (FW)|https://images.fotmob.com/image_resources/playerimages/1229177.png",
-        "Kanya Fujimoto (MF)|https://images.fotmob.com/image_resources/playerimages/924315.png",
-        "Demarai Gray (FW)|https://images.fotmob.com/image_resources/playerimages/492586.png",
-        "Luis Vázquez (FW)|https://images.fotmob.com/image_resources/playerimages/1215735.png"
-      ],
-      "away": [
-        "Hákon Rafn Valdimarsson (GK)|https://images.fotmob.com/image_resources/playerimages/850962.png",
-        "Aaron Hickey (DF)|https://images.fotmob.com/image_resources/playerimages/1002039.png",
-        "Jannik Schuster (DF)|https://images.fotmob.com/image_resources/playerimages/1572340.png",
-        "Nathan Collins (DF)|https://images.fotmob.com/image_resources/playerimages/961306.png",
-        "Rico Henry (DF)|https://images.fotmob.com/image_resources/playerimages/562892.png",
-        "Yehor Yarmoliuk (MF)|https://images.fotmob.com/image_resources/playerimages/1157236.png",
-        "Vitaly Janelt (MF)|https://images.fotmob.com/image_resources/playerimages/688273.png",
-        "Dango Ouattara (FW)|https://images.fotmob.com/image_resources/playerimages/1250253.png",
-        "Mikkel Damsgaard (MF)|https://images.fotmob.com/image_resources/playerimages/888912.png",
-        "Jaidon Anthony (FW)|https://images.fotmob.com/image_resources/playerimages/1171140.png",
-        "Callum Wilson (FW)|https://images.fotmob.com/image_resources/playerimages/184321.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "Chris Davies|https://images.fotmob.com/image_resources/playerimages/1650429.png",
-      "away": "Keith Andrews|https://images.fotmob.com/image_resources/playerimages/38711.png"
-    }
-  },
-  {
-    "home": "Nottm Forest",
-    "away": "Leeds",
-    "date": "2026-08-25T19:00:00.000Z",
-    "league": "EFL Cup",
-    "injuries": {
-      "home": [
-        {
-          "name": "Ryan Yates",
-          "status": "부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Nicolò Savona",
-          "status": "무릎 부상",
-          "detail": "Mid September 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Wilfried Gnonto",
-          "status": "햄스트링 부상",
-          "detail": "Mid September 2026"
-        },
-        {
-          "name": "Mateo Joseph",
-          "status": "무릎 부상",
-          "detail": "Early January 2027"
-        },
-        {
-          "name": "Gabriel Gudmundsson",
-          "status": "햄스트링 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Ilia Gruev",
-          "status": "연골 파열",
-          "detail": "Doubtful"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-08-22T14:00:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2026-02-06T20:00:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-11-09T14:00:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-07-27T18:45:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-04-04T18:45:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-02-05T14:00:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-02-08T17:30:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-08-10T11:35:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-01-01T15:00:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 4,
-        "awayScore": 2
-      },
-      {
-        "date": "2018-10-27T16:30:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-01-01T15:00:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-08-26T16:30:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-01-25T19:45:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-08-27T14:00:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-02-06T15:00:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-12-27T16:30:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-03-14T15:00:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-12-20T17:15:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-04-21T16:15:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-12-29T15:00:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-12-26T12:15:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 4,
-        "awayScore": 2
-      },
-      {
-        "date": "2012-09-22T14:00:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-03-20T19:45:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 3,
-        "awayScore": 7
-      },
-      {
-        "date": "2011-11-29T19:45:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 0,
-        "awayScore": 4
-      },
-      {
-        "date": "2011-04-02T11:45:00.000Z",
-        "home": "Leeds United",
-        "away": "Nottingham Forest",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2010-08-15T12:15:00.000Z",
-        "home": "Nottingham Forest",
-        "away": "Leeds United",
-        "homeScore": 1,
-        "awayScore": 1
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-08T18:00:00.000Z",
-          "home": "Udinese",
-          "away": "Nottingham Forest",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-08T19:00:00.000Z",
-          "home": "Nottingham Forest",
-          "away": "Barcelona",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-12T18:45:00.000Z",
-          "home": "Nottingham Forest",
-          "away": "Bayer Leverkusen",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-16T13:00:00.000Z",
-          "home": "Nottingham Forest",
-          "away": "Brest",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-22T14:00:00.000Z",
-          "home": "Nottingham Forest",
-          "away": "Leeds United",
-          "homeScore": 0,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-02T20:00:00.000Z",
-          "home": "Liverpool",
-          "away": "Leeds United",
-          "homeScore": 2,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-08-08T13:00:00.000Z",
-          "home": "Leeds United",
-          "away": "RB Leipzig",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-12T18:30:00.000Z",
-          "home": "Manchester United",
-          "away": "Leeds United",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-15T14:00:00.000Z",
-          "home": "Leeds United",
-          "away": "Augsburg",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-22T14:00:00.000Z",
-          "home": "Nottingham Forest",
-          "away": "Leeds United",
-          "homeScore": 0,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Matz Sels (GK)|https://images.fotmob.com/image_resources/playerimages/181069.png",
-        "Ousmane Diomande (DF)|https://images.fotmob.com/image_resources/playerimages/1425182.png",
-        "Nikola Milenkovic (DF)|https://images.fotmob.com/image_resources/playerimages/766611.png",
-        "Jair Cunha (DF)|https://images.fotmob.com/image_resources/playerimages/1391209.png",
-        "Ola Aina (DF)|https://images.fotmob.com/image_resources/playerimages/682548.png",
-        "Xaver Schlager (MF)|https://images.fotmob.com/image_resources/playerimages/620027.png",
-        "Nicolás Dominguez (MF)|https://images.fotmob.com/image_resources/playerimages/827315.png",
-        "Neco Williams (DF)|https://images.fotmob.com/image_resources/playerimages/1078788.png",
-        "Igor Jesus (FW)|https://images.fotmob.com/image_resources/playerimages/1082102.png",
-        "Arnaud Kalimuendo-Muinga (FW)|https://images.fotmob.com/image_resources/playerimages/1095445.png",
-        "Chris Wood (FW)|https://images.fotmob.com/image_resources/playerimages/169719.png"
-      ],
-      "away": [
-        "James Trafford (GK)|https://images.fotmob.com/image_resources/playerimages/1187213.png",
-        "Joe Rodon (DF)|https://images.fotmob.com/image_resources/playerimages/717174.png",
-        "Nico Elvedi (DF)|https://images.fotmob.com/image_resources/playerimages/517346.png",
-        "Tarik Muharemovic (DF)|https://images.fotmob.com/image_resources/playerimages/1250485.png",
-        "Daniel James (FW)|https://images.fotmob.com/image_resources/playerimages/717176.png",
-        "Ethan Ampadu (MF)|https://images.fotmob.com/image_resources/playerimages/780432.png",
-        "Ao Tanaka (MF)|https://images.fotmob.com/image_resources/playerimages/935728.png",
-        "James Justin (DF)|https://images.fotmob.com/image_resources/playerimages/710158.png",
-        "Sean Longstaff (MF)|https://images.fotmob.com/image_resources/playerimages/820024.png",
-        "Noah Okafor (FW)|https://images.fotmob.com/image_resources/playerimages/915797.png",
-        "Lukas Nmecha (FW)|https://images.fotmob.com/image_resources/playerimages/861197.png"
-      ]
-    },
-    "formation": {
-      "home": "3-4-2-1",
-      "away": "3-4-2-1"
-    },
-    "coach": {
-      "home": "Oliver Glasner|https://images.fotmob.com/image_resources/playerimages/43009.png",
-      "away": "Daniel Farke|https://images.fotmob.com/image_resources/playerimages/849545.png"
-    }
-  },
-  {
-    "home": "Valencia",
-    "away": "Real Betis",
-    "date": "2026-08-25T19:00:00.000Z",
-    "league": "LaLiga",
-    "injuries": {
-      "home": [
-        {
-          "name": "José Copete",
-          "status": "연골 파열",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Justin De Haas",
-          "status": "발목 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Diego López",
-          "status": "십자 인대 부상",
-          "detail": "Early January 2027"
-        },
-        {
-          "name": "Alberto Marí",
-          "status": "근육 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Sergi Canós",
-          "status": "십자 인대 부상",
-          "detail": "Early December 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Gonzalo Petit",
-          "status": "허벅지 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Ismael Barea",
-          "status": "십자 인대 부상",
-          "detail": "Early December 2026"
-        },
-        {
-          "name": "Diego Conde",
-          "status": "어깨 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Aitor Ruibal",
-          "status": "연골 파열",
-          "detail": "Mid September 2026"
-        },
-        {
-          "name": "Giovani Lo Celso",
-          "status": "근육 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Abdessamad Ezzalzouli",
-          "status": "무릎 부상",
-          "detail": "Early September 2026"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-02-01T15:15:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-11-09T17:30:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-05-23T19:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-11-23T13:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 4,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-04-20T16:30:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-10-01T19:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2023-06-04T19:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-11-10T19:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-05-10T17:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2022-04-23T20:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-10-27T18:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-04-18T16:30:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2020-10-03T19:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2020-02-29T15:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-11-23T15:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-04-21T18:45:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2019-02-28T20:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-02-07T20:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2018-09-15T16:30:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-03-04T19:45:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-10-15T18:45:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 3,
-        "awayScore": 6
-      },
-      {
-        "date": "2017-02-11T12:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-09-11T14:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2016-02-07T15:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-09-19T16:15:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-02-08T15:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 5,
-        "awayScore": 0
-      },
-      {
-        "date": "2013-09-15T19:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-03-16T21:00:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-10-27T16:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-04-22T19:30:00.000Z",
-        "home": "Valencia",
-        "away": "Real Betis",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2011-12-10T19:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Valencia",
-        "homeScore": 2,
-        "awayScore": 1
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-07-22T18:00:00.000Z",
-          "home": "Valencia",
-          "away": "Eldense",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-07-25T18:00:00.000Z",
-          "home": "Valencia",
-          "away": "Castellon",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-01T17:30:00.000Z",
-          "home": "Stoke City",
-          "away": "Valencia",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-08T19:00:00.000Z",
-          "home": "Valencia",
-          "away": "Newcastle United",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-22T17:30:00.000Z",
-          "home": "Valencia",
-          "away": "Celta Vigo",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-07-29T18:00:00.000Z",
-          "home": "Real Betis",
-          "away": "Lyon",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-05T18:45:00.000Z",
-          "home": "Arsenal",
-          "away": "Real Betis",
-          "homeScore": 1,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-08T19:00:00.000Z",
-          "home": "Real Betis",
-          "away": "AFC Bournemouth",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-15T17:30:00.000Z",
-          "home": "Inter",
-          "away": "Real Betis",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-21T19:00:00.000Z",
-          "home": "Real Betis",
-          "away": "Real Sociedad",
-          "homeScore": 1,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Stole Dimitrievski (GK)|https://images.fotmob.com/image_resources/playerimages/254241.png",
-        "César Tárrega (DF)|https://images.fotmob.com/image_resources/playerimages/1311985.png",
-        "Pepelu (MF)|https://images.fotmob.com/image_resources/playerimages/673689.png",
-        "Mouctar Diakhaby (DF)|https://images.fotmob.com/image_resources/playerimages/561198.png",
-        "Pablo Maffeo (DF)|https://images.fotmob.com/image_resources/playerimages/673356.png",
-        "Jesus Vázquez (DF)|https://images.fotmob.com/image_resources/playerimages/1220187.png",
-        "Ryunosuke Sato (MF)|https://images.fotmob.com/image_resources/playerimages/1611149.png",
-        "Javier Guerra (MF)|https://images.fotmob.com/image_resources/playerimages/1284429.png",
-        "Guido Rodríguez (MF)|https://images.fotmob.com/image_resources/playerimages/586768.png",
-        "Arnaut Danjuma (FW)|https://images.fotmob.com/image_resources/playerimages/704151.png",
-        "Hugo Duro (FW)|https://images.fotmob.com/image_resources/playerimages/929838.png"
-      ],
-      "away": [
-        "Álvaro Vallés (GK)|https://images.fotmob.com/image_resources/playerimages/999171.png",
-        "Ángel Ortiz (DF)|https://images.fotmob.com/image_resources/playerimages/1580522.png",
-        "Diego Llorente (DF)|https://images.fotmob.com/image_resources/playerimages/420568.png",
-        "Valentín Gómez (DF)|https://images.fotmob.com/image_resources/playerimages/1338016.png",
-        "Júnior Firpo (DF)|https://images.fotmob.com/image_resources/playerimages/743192.png",
-        "Pablo Fornals (MF)|https://images.fotmob.com/image_resources/playerimages/683450.png",
-        "Facundo Bernal (MF)|https://images.fotmob.com/image_resources/playerimages/1436133.png",
-        "Antony (FW)|https://images.fotmob.com/image_resources/playerimages/967622.png",
-        "Nelson Deossa (MF)|https://images.fotmob.com/image_resources/playerimages/1315711.png",
-        "Rodrigo Riquelme (FW)|https://images.fotmob.com/image_resources/playerimages/1072200.png",
-        "Juan Hernández (FW)|https://images.fotmob.com/image_resources/playerimages/852071.png"
-      ]
-    },
-    "formation": {
-      "home": "5-4-1",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "Carlos Corberán|https://images.fotmob.com/image_resources/playerimages/819528.png",
-      "away": "Manuel Pellegrini|https://images.fotmob.com/image_resources/playerimages/78591.png"
-    }
-  },
-  {
     "home": "Vietnam",
     "away": "Thailand",
     "date": "2026-08-26T13:00:00.000Z",
@@ -6306,7 +4804,7 @@
         "Tin Jedvaj (DF)|https://images.fotmob.com/image_resources/playerimages/427062.png",
         "Mamadou Barry (DF)|https://images.fotmob.com/image_resources/playerimages/1640990.png",
         "Dhari Sayyar Al-Anazi (DF)|https://images.fotmob.com/image_resources/playerimages/1368083.png",
-        "Hammam Al-Hammami (FW)|https://images.fotmob.com/image_resources/playerimages/1633691.png",
+        "Hammam Al-Hammami (MF)|https://images.fotmob.com/image_resources/playerimages/1633691.png",
         "Thomas Partey (MF)|https://images.fotmob.com/image_resources/playerimages/434325.png",
         "Yacine Adli (MF)|https://images.fotmob.com/image_resources/playerimages/846002.png",
         "Josh Brownhill (MF)|https://images.fotmob.com/image_resources/playerimages/494597.png",
@@ -6611,6 +5109,1482 @@
     "coach": {
       "home": "Arthur Papas|https://images.fotmob.com/image_resources/playerimages/1313052.png",
       "away": "Ange Postecoglou|https://images.fotmob.com/image_resources/playerimages/292198.png"
+    }
+  },
+  {
+    "home": "Ipswich",
+    "away": "Leicester",
+    "date": "2026-08-25T18:45:00.000Z",
+    "league": "EFL Cup",
+    "injuries": {
+      "home": [
+        {
+          "name": "Florentino",
+          "status": "부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Azor Matusiwa",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-03-07T15:00:00.000Z",
+        "home": "Ipswich Town",
+        "away": "Leicester City",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-12-13T15:00:00.000Z",
+        "home": "Leicester City",
+        "away": "Ipswich Town",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-05-18T14:00:00.000Z",
+        "home": "Leicester City",
+        "away": "Ipswich Town",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-11-02T15:00:00.000Z",
+        "home": "Ipswich Town",
+        "away": "Leicester City",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-01-22T20:00:00.000Z",
+        "home": "Leicester City",
+        "away": "Ipswich Town",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-12-26T19:45:00.000Z",
+        "home": "Ipswich Town",
+        "away": "Leicester City",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-02-22T15:00:00.000Z",
+        "home": "Leicester City",
+        "away": "Ipswich Town",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-11-23T15:00:00.000Z",
+        "home": "Ipswich Town",
+        "away": "Leicester City",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-03-02T15:00:00.000Z",
+        "home": "Ipswich Town",
+        "away": "Leicester City",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-11-17T15:00:00.000Z",
+        "home": "Leicester City",
+        "away": "Ipswich Town",
+        "homeScore": 6,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-04-09T14:00:00.000Z",
+        "home": "Ipswich Town",
+        "away": "Leicester City",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2011-12-26T15:00:00.000Z",
+        "home": "Leicester City",
+        "away": "Ipswich Town",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2011-05-07T11:45:00.000Z",
+        "home": "Leicester City",
+        "away": "Ipswich Town",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2010-12-18T17:20:00.000Z",
+        "home": "Ipswich Town",
+        "away": "Leicester City",
+        "homeScore": 3,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-01T15:00:00.000Z",
+          "home": "Wycombe Wanderers",
+          "away": "Ipswich Town",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-04T18:45:00.000Z",
+          "home": "Ipswich Town",
+          "away": "Le Havre",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-08T14:00:00.000Z",
+          "home": "Ipswich Town",
+          "away": "Rayo Vallecano",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-15T13:30:00.000Z",
+          "home": "Union Berlin",
+          "away": "Ipswich Town",
+          "homeScore": 2,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-08-22T14:00:00.000Z",
+          "home": "Ipswich Town",
+          "away": "Sunderland",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ],
+      "away": []
+    },
+    "lineup": {
+      "home": [
+        "Christian Walton (GK)|https://images.fotmob.com/image_resources/playerimages/512013.png",
+        "Darnell Furlong (DF)|https://images.fotmob.com/image_resources/playerimages/609733.png",
+        "Dara O'Shea (DF)|https://images.fotmob.com/image_resources/playerimages/789578.png",
+        "Cédric Kipré (DF)|https://images.fotmob.com/image_resources/playerimages/760398.png",
+        "Abdoul Ouattara (DF)|https://images.fotmob.com/image_resources/playerimages/1343053.png",
+        "Cameron Humphreys (MF)|https://images.fotmob.com/image_resources/playerimages/1287056.png",
+        "Sindre Walle Egeli (FW)|https://images.fotmob.com/image_resources/playerimages/1307961.png",
+        "Kasey McAteer (FW)|https://images.fotmob.com/image_resources/playerimages/1113915.png",
+        "Marcelino Núñez (MF)|https://images.fotmob.com/image_resources/playerimages/1129081.png",
+        "Jack Clarke (FW)|https://images.fotmob.com/image_resources/playerimages/914402.png",
+        "Chuba Akpom (MF)|https://images.fotmob.com/image_resources/playerimages/413158.png"
+      ],
+      "away": [
+        "Jakub Stolarczyk (GK)|https://images.fotmob.com/image_resources/playerimages/1096327.png",
+        "Woyo Coulibaly (DF)|https://images.fotmob.com/image_resources/playerimages/1074476.png",
+        "Olabade Aluko (DF)|https://images.fotmob.com/image_resources/playerimages/1580249.png",
+        "Luke Thomas (DF)|https://images.fotmob.com/image_resources/playerimages/916332.png",
+        "Christian McFarlane (DF)|https://images.fotmob.com/image_resources/playerimages/1339595.png",
+        "Conor Chaplin (MF)|https://images.fotmob.com/image_resources/playerimages/605647.png",
+        "Harry Howell (MF)|https://images.fotmob.com/image_resources/playerimages/1446616.png",
+        "Sammy Braybrooke (MF)|https://images.fotmob.com/image_resources/playerimages/1353551.png",
+        "Louis Page (MF)|https://images.fotmob.com/image_resources/playerimages/1692116.png",
+        "Tom Watson (FW)|https://images.fotmob.com/image_resources/playerimages/1310131.png",
+        "Admir Bristric (FW)|https://images.fotmob.com/image_resources/playerimages/1336528.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-1-4-1"
+    },
+    "coach": {
+      "home": "Gary O'Neil|https://images.fotmob.com/image_resources/playerimages/24393.png",
+      "away": "Russell Martin|https://images.fotmob.com/image_resources/playerimages/24903.png"
+    }
+  },
+  {
+    "home": "Stoke",
+    "away": "Hull",
+    "date": "2026-08-25T18:45:00.000Z",
+    "league": "EFL Cup",
+    "injuries": {
+      "home": [
+        {
+          "name": "Lamine Cissé",
+          "status": "근육 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Junior Tchamadeu",
+          "status": "근육 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Ato Ampah",
+          "status": "근육 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Aaron Cresswell",
+          "status": "무릎 부상",
+          "detail": "Mid September 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Lewie Coyle",
+          "status": "발목 부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Joe Gelhardt",
+          "status": "발목 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Matty Jacob",
+          "status": "엉덩이 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Jack Butland",
+          "status": "부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Darko Gyabi",
+          "status": "사타구니 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Charlie Hughes",
+          "status": "사타구니 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Óscar Zambrano",
+          "status": "햄스트링 부상",
+          "detail": "Mid September 2026"
+        },
+        {
+          "name": "Eliot Matazo",
+          "status": "십자 인대 부상",
+          "detail": "Mid January 2027"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-01-01T15:00:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-11-29T12:30:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-02-01T15:00:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-09-20T19:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2024-03-29T15:00:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-09-24T11:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2023-02-11T15:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-09-13T18:45:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2022-01-16T12:00:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-09-25T14:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-03-07T15:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-12-07T15:00:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-02-02T15:00:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-08-25T14:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-04-15T14:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-10-22T14:00:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-09-21T19:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-02-28T15:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-08-24T12:30:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-03-29T15:00:00.000Z",
+        "home": "Stoke City",
+        "away": "Hull City",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-12-14T17:30:00.000Z",
+        "home": "Hull City",
+        "away": "Stoke City",
+        "homeScore": 0,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-28T18:45:00.000Z",
+          "home": "Stoke City",
+          "away": "Everton",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-01T17:30:00.000Z",
+          "home": "Stoke City",
+          "away": "Valencia",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-08T14:00:00.000Z",
+          "home": "Stoke City",
+          "away": "Oldham Athletic",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-15T14:00:00.000Z",
+          "home": "Stoke City",
+          "away": "Swansea City",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-22T14:00:00.000Z",
+          "home": "Southampton",
+          "away": "Stoke City",
+          "homeScore": 3,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-28T16:00:00.000Z",
+          "home": "Rizespor",
+          "away": "Hull City",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-01T16:00:00.000Z",
+          "home": "Kasımpaşa",
+          "away": "Hull City",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-08T13:00:00.000Z",
+          "home": "Eintracht Frankfurt",
+          "away": "Hull City",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-15T14:00:00.000Z",
+          "home": "Hull City",
+          "away": "Nice",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-22T11:30:00.000Z",
+          "home": "Hull City",
+          "away": "Manchester United",
+          "homeScore": 2,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Joshua Griffiths (GK)|https://images.fotmob.com/image_resources/playerimages/969252.png",
+        "Ben Johnson (DF)|https://images.fotmob.com/image_resources/playerimages/770267.png",
+        "Ben Wilmot (DF)|https://images.fotmob.com/image_resources/playerimages/798603.png",
+        "Luke Graham (DF)|https://images.fotmob.com/image_resources/playerimages/1410414.png",
+        "Laurence Giani (DF)|https://images.fotmob.com/image_resources/playerimages/1640989.png",
+        "Ethan Galbraith (MF)|https://images.fotmob.com/image_resources/playerimages/1077926.png",
+        "Ben Pearson (MF)|https://images.fotmob.com/image_resources/playerimages/610267.png",
+        "Million Manhoef (FW)|https://images.fotmob.com/image_resources/playerimages/1183512.png",
+        "Tomás Rigo (MF)|https://images.fotmob.com/image_resources/playerimages/1152435.png",
+        "Sorba Thomas (FW)|https://images.fotmob.com/image_resources/playerimages/812982.png",
+        "Róbert Bozeník (FW)|https://images.fotmob.com/image_resources/playerimages/922622.png"
+      ],
+      "away": [
+        "Dillon Phillips (GK)|https://images.fotmob.com/image_resources/playerimages/518500.png",
+        "Cody Drameh (DF)|https://images.fotmob.com/image_resources/playerimages/962046.png",
+        "Lucas Herrington (DF)|https://images.fotmob.com/image_resources/playerimages/1686118.png",
+        "Paddy McNair (DF)|https://images.fotmob.com/image_resources/playerimages/575780.png",
+        "Matt Targett (DF)|https://images.fotmob.com/image_resources/playerimages/538112.png",
+        "Lucas Gourna-Douath (MF)|https://images.fotmob.com/image_resources/playerimages/1137106.png",
+        "Abdülkadir Ömür (FW)|https://images.fotmob.com/image_resources/playerimages/704138.png",
+        "Kieran Dowell (MF)|https://images.fotmob.com/image_resources/playerimages/605262.png",
+        "Jens Hjertø-Dahl (MF)|https://images.fotmob.com/image_resources/playerimages/1377949.png",
+        "Liam Millar (FW)|https://images.fotmob.com/image_resources/playerimages/932308.png",
+        "David Akintola (FW)|https://images.fotmob.com/image_resources/playerimages/656495.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-1-4-1"
+    },
+    "coach": {
+      "home": "Mark Robins|https://images.fotmob.com/image_resources/playerimages/25269.png",
+      "away": "Sergej Jakirovic|https://images.fotmob.com/image_resources/playerimages/9012.png"
+    }
+  },
+  {
+    "home": "Birmingham",
+    "away": "Brentford",
+    "date": "2026-08-25T19:00:00.000Z",
+    "league": "EFL Cup",
+    "injuries": {
+      "home": [
+        {
+          "name": "Marc Leonard",
+          "status": "햄스트링 부상",
+          "detail": "Early September 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Sepp van den Berg",
+          "status": "충돌 부상",
+          "detail": "Mid October 2026"
+        },
+        {
+          "name": "Antoni Milambo",
+          "status": "십자 인대 부상",
+          "detail": "About a week"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2021-04-06T18:00:00.000Z",
+        "home": "Brentford",
+        "away": "Birmingham City",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-09-12T11:30:00.000Z",
+        "home": "Birmingham City",
+        "away": "Brentford",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-02-15T15:00:00.000Z",
+        "home": "Birmingham City",
+        "away": "Brentford",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-08-03T14:00:00.000Z",
+        "home": "Brentford",
+        "away": "Birmingham City",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-12-29T15:00:00.000Z",
+        "home": "Birmingham City",
+        "away": "Brentford",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-10-02T18:45:00.000Z",
+        "home": "Brentford",
+        "away": "Birmingham City",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-02-20T19:45:00.000Z",
+        "home": "Brentford",
+        "away": "Birmingham City",
+        "homeScore": 5,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-11-01T19:50:00.000Z",
+        "home": "Birmingham City",
+        "away": "Brentford",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-01-02T15:00:00.000Z",
+        "home": "Birmingham City",
+        "away": "Brentford",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2016-11-26T15:00:00.000Z",
+        "home": "Brentford",
+        "away": "Birmingham City",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-01-02T15:00:00.000Z",
+        "home": "Birmingham City",
+        "away": "Brentford",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-09-29T18:45:00.000Z",
+        "home": "Brentford",
+        "away": "Birmingham City",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-02-28T15:00:00.000Z",
+        "home": "Birmingham City",
+        "away": "Brentford",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-08-23T14:00:00.000Z",
+        "home": "Brentford",
+        "away": "Birmingham City",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2010-10-26T18:45:00.000Z",
+        "home": "Birmingham City",
+        "away": "Brentford",
+        "homeScore": 1,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [],
+      "away": [
+        {
+          "date": "2026-05-17T14:00:00.000Z",
+          "home": "Brentford",
+          "away": "Crystal Palace",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-05-24T15:00:00.000Z",
+          "home": "Liverpool",
+          "away": "Brentford",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-08T15:00:00.000Z",
+          "home": "Rennes",
+          "away": "Brentford",
+          "homeScore": 2,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-08-15T14:00:00.000Z",
+          "home": "Brentford",
+          "away": "Eintracht Frankfurt",
+          "homeScore": 7,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-22T16:30:00.000Z",
+          "home": "Brentford",
+          "away": "Tottenham Hotspur",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Ryan Allsop (GK)|https://images.fotmob.com/image_resources/playerimages/172284.png",
+        "Bright Osayi-Samuel (DF)|https://images.fotmob.com/image_resources/playerimages/618718.png",
+        "Dael Fry (DF)|https://images.fotmob.com/image_resources/playerimages/664826.png",
+        "Christoph Klarer (DF)|https://images.fotmob.com/image_resources/playerimages/877701.png",
+        "Kristoffer Lund Hansen (DF)|https://images.fotmob.com/image_resources/playerimages/1235086.png",
+        "Jhon Solís (MF)|https://images.fotmob.com/image_resources/playerimages/1433032.png",
+        "Seung-Ho Paik (MF)|https://images.fotmob.com/image_resources/playerimages/848102.png",
+        "Carlos Vicente (FW)|https://images.fotmob.com/image_resources/playerimages/1229177.png",
+        "Kanya Fujimoto (MF)|https://images.fotmob.com/image_resources/playerimages/924315.png",
+        "Demarai Gray (FW)|https://images.fotmob.com/image_resources/playerimages/492586.png",
+        "Luis Vázquez (FW)|https://images.fotmob.com/image_resources/playerimages/1215735.png"
+      ],
+      "away": [
+        "Hákon Rafn Valdimarsson (GK)|https://images.fotmob.com/image_resources/playerimages/850962.png",
+        "Aaron Hickey (DF)|https://images.fotmob.com/image_resources/playerimages/1002039.png",
+        "Jannik Schuster (DF)|https://images.fotmob.com/image_resources/playerimages/1572340.png",
+        "Nathan Collins (DF)|https://images.fotmob.com/image_resources/playerimages/961306.png",
+        "Rico Henry (DF)|https://images.fotmob.com/image_resources/playerimages/562892.png",
+        "Yehor Yarmoliuk (MF)|https://images.fotmob.com/image_resources/playerimages/1157236.png",
+        "Vitaly Janelt (MF)|https://images.fotmob.com/image_resources/playerimages/688273.png",
+        "Dango Ouattara (FW)|https://images.fotmob.com/image_resources/playerimages/1250253.png",
+        "Mikkel Damsgaard (MF)|https://images.fotmob.com/image_resources/playerimages/888912.png",
+        "Jaidon Anthony (FW)|https://images.fotmob.com/image_resources/playerimages/1171140.png",
+        "Callum Wilson (FW)|https://images.fotmob.com/image_resources/playerimages/184321.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Chris Davies|https://images.fotmob.com/image_resources/playerimages/1650429.png",
+      "away": "Keith Andrews|https://images.fotmob.com/image_resources/playerimages/38711.png"
+    }
+  },
+  {
+    "home": "Nottm Forest",
+    "away": "Leeds",
+    "date": "2026-08-25T19:00:00.000Z",
+    "league": "EFL Cup",
+    "injuries": {
+      "home": [
+        {
+          "name": "Ryan Yates",
+          "status": "부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Nicolò Savona",
+          "status": "무릎 부상",
+          "detail": "Mid September 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Wilfried Gnonto",
+          "status": "햄스트링 부상",
+          "detail": "Mid September 2026"
+        },
+        {
+          "name": "Mateo Joseph",
+          "status": "무릎 부상",
+          "detail": "Early January 2027"
+        },
+        {
+          "name": "Gabriel Gudmundsson",
+          "status": "햄스트링 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Ilia Gruev",
+          "status": "연골 파열",
+          "detail": "Doubtful"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-08-22T14:00:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2026-02-06T20:00:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-11-09T14:00:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-07-27T18:45:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-04-04T18:45:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-02-05T14:00:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-02-08T17:30:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-08-10T11:35:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-01-01T15:00:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2018-10-27T16:30:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-01-01T15:00:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-08-26T16:30:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-01-25T19:45:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-08-27T14:00:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-02-06T15:00:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-12-27T16:30:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-03-14T15:00:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-12-20T17:15:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-04-21T16:15:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-12-29T15:00:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-12-26T12:15:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2012-09-22T14:00:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-03-20T19:45:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 3,
+        "awayScore": 7
+      },
+      {
+        "date": "2011-11-29T19:45:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 0,
+        "awayScore": 4
+      },
+      {
+        "date": "2011-04-02T11:45:00.000Z",
+        "home": "Leeds United",
+        "away": "Nottingham Forest",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2010-08-15T12:15:00.000Z",
+        "home": "Nottingham Forest",
+        "away": "Leeds United",
+        "homeScore": 1,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-08T18:00:00.000Z",
+          "home": "Udinese",
+          "away": "Nottingham Forest",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-08T19:00:00.000Z",
+          "home": "Nottingham Forest",
+          "away": "Barcelona",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-12T18:45:00.000Z",
+          "home": "Nottingham Forest",
+          "away": "Bayer Leverkusen",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-16T13:00:00.000Z",
+          "home": "Nottingham Forest",
+          "away": "Brest",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-22T14:00:00.000Z",
+          "home": "Nottingham Forest",
+          "away": "Leeds United",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-02T20:00:00.000Z",
+          "home": "Liverpool",
+          "away": "Leeds United",
+          "homeScore": 2,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-08-08T13:00:00.000Z",
+          "home": "Leeds United",
+          "away": "RB Leipzig",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-12T18:30:00.000Z",
+          "home": "Manchester United",
+          "away": "Leeds United",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-15T14:00:00.000Z",
+          "home": "Leeds United",
+          "away": "Augsburg",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-22T14:00:00.000Z",
+          "home": "Nottingham Forest",
+          "away": "Leeds United",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Matz Sels (GK)|https://images.fotmob.com/image_resources/playerimages/181069.png",
+        "Ousmane Diomande (DF)|https://images.fotmob.com/image_resources/playerimages/1425182.png",
+        "Nikola Milenkovic (DF)|https://images.fotmob.com/image_resources/playerimages/766611.png",
+        "Jair Cunha (DF)|https://images.fotmob.com/image_resources/playerimages/1391209.png",
+        "Ola Aina (DF)|https://images.fotmob.com/image_resources/playerimages/682548.png",
+        "Xaver Schlager (MF)|https://images.fotmob.com/image_resources/playerimages/620027.png",
+        "Nicolás Dominguez (MF)|https://images.fotmob.com/image_resources/playerimages/827315.png",
+        "Neco Williams (DF)|https://images.fotmob.com/image_resources/playerimages/1078788.png",
+        "Igor Jesus (FW)|https://images.fotmob.com/image_resources/playerimages/1082102.png",
+        "Arnaud Kalimuendo-Muinga (FW)|https://images.fotmob.com/image_resources/playerimages/1095445.png",
+        "Chris Wood (FW)|https://images.fotmob.com/image_resources/playerimages/169719.png"
+      ],
+      "away": [
+        "James Trafford (GK)|https://images.fotmob.com/image_resources/playerimages/1187213.png",
+        "Joe Rodon (DF)|https://images.fotmob.com/image_resources/playerimages/717174.png",
+        "Nico Elvedi (DF)|https://images.fotmob.com/image_resources/playerimages/517346.png",
+        "Tarik Muharemovic (DF)|https://images.fotmob.com/image_resources/playerimages/1250485.png",
+        "Daniel James (FW)|https://images.fotmob.com/image_resources/playerimages/717176.png",
+        "Ethan Ampadu (MF)|https://images.fotmob.com/image_resources/playerimages/780432.png",
+        "Ao Tanaka (MF)|https://images.fotmob.com/image_resources/playerimages/935728.png",
+        "James Justin (DF)|https://images.fotmob.com/image_resources/playerimages/710158.png",
+        "Sean Longstaff (MF)|https://images.fotmob.com/image_resources/playerimages/820024.png",
+        "Noah Okafor (FW)|https://images.fotmob.com/image_resources/playerimages/915797.png",
+        "Lukas Nmecha (FW)|https://images.fotmob.com/image_resources/playerimages/861197.png"
+      ]
+    },
+    "formation": {
+      "home": "3-4-2-1",
+      "away": "3-4-2-1"
+    },
+    "coach": {
+      "home": "Oliver Glasner|https://images.fotmob.com/image_resources/playerimages/43009.png",
+      "away": "Daniel Farke|https://images.fotmob.com/image_resources/playerimages/849545.png"
+    }
+  },
+  {
+    "home": "Valencia",
+    "away": "Real Betis",
+    "date": "2026-08-25T19:00:00.000Z",
+    "league": "LaLiga",
+    "injuries": {
+      "home": [
+        {
+          "name": "José Copete",
+          "status": "연골 파열",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Justin De Haas",
+          "status": "발목 부상",
+          "detail": "Late September 2026"
+        },
+        {
+          "name": "Diego López",
+          "status": "십자 인대 부상",
+          "detail": "Early January 2027"
+        },
+        {
+          "name": "Alberto Marí",
+          "status": "근육 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Sergi Canós",
+          "status": "십자 인대 부상",
+          "detail": "Early December 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Gonzalo Petit",
+          "status": "허벅지 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Ismael Barea",
+          "status": "십자 인대 부상",
+          "detail": "Early December 2026"
+        },
+        {
+          "name": "Diego Conde",
+          "status": "어깨 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Aitor Ruibal",
+          "status": "연골 파열",
+          "detail": "Mid September 2026"
+        },
+        {
+          "name": "Giovani Lo Celso",
+          "status": "근육 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Abdessamad Ezzalzouli",
+          "status": "무릎 부상",
+          "detail": "Early September 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-02-01T15:15:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-11-09T17:30:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-05-23T19:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-11-23T13:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-04-20T16:30:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-10-01T19:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-06-04T19:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-11-10T19:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-05-10T17:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2022-04-23T20:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-10-27T18:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-04-18T16:30:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2020-10-03T19:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2020-02-29T15:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-11-23T15:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-04-21T18:45:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-02-28T20:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-02-07T20:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2018-09-15T16:30:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-03-04T19:45:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-10-15T18:45:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 3,
+        "awayScore": 6
+      },
+      {
+        "date": "2017-02-11T12:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-09-11T14:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2016-02-07T15:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-09-19T16:15:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-02-08T15:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 5,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-09-15T19:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-03-16T21:00:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-10-27T16:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-04-22T19:30:00.000Z",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-12-10T19:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Valencia",
+        "homeScore": 2,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-22T18:00:00.000Z",
+          "home": "Valencia",
+          "away": "Eldense",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-25T18:00:00.000Z",
+          "home": "Valencia",
+          "away": "Castellón",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-01T17:30:00.000Z",
+          "home": "Stoke City",
+          "away": "Valencia",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-08T19:00:00.000Z",
+          "home": "Valencia",
+          "away": "Newcastle United",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-22T17:30:00.000Z",
+          "home": "Valencia",
+          "away": "Celta Vigo",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-29T18:00:00.000Z",
+          "home": "Real Betis",
+          "away": "Lyon",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-05T18:45:00.000Z",
+          "home": "Arsenal",
+          "away": "Real Betis",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-08T19:00:00.000Z",
+          "home": "Real Betis",
+          "away": "AFC Bournemouth",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-15T17:30:00.000Z",
+          "home": "Inter",
+          "away": "Real Betis",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-21T19:00:00.000Z",
+          "home": "Real Betis",
+          "away": "Real Sociedad",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Stole Dimitrievski (GK)|https://images.fotmob.com/image_resources/playerimages/254241.png",
+        "César Tárrega (DF)|https://images.fotmob.com/image_resources/playerimages/1311985.png",
+        "Pepelu (MF)|https://images.fotmob.com/image_resources/playerimages/673689.png",
+        "Mouctar Diakhaby (DF)|https://images.fotmob.com/image_resources/playerimages/561198.png",
+        "Pablo Maffeo (DF)|https://images.fotmob.com/image_resources/playerimages/673356.png",
+        "Jesus Vázquez (DF)|https://images.fotmob.com/image_resources/playerimages/1220187.png",
+        "Ryunosuke Sato (MF)|https://images.fotmob.com/image_resources/playerimages/1611149.png",
+        "Javier Guerra (MF)|https://images.fotmob.com/image_resources/playerimages/1284429.png",
+        "Guido Rodríguez (MF)|https://images.fotmob.com/image_resources/playerimages/586768.png",
+        "Arnaut Danjuma (FW)|https://images.fotmob.com/image_resources/playerimages/704151.png",
+        "Hugo Duro (FW)|https://images.fotmob.com/image_resources/playerimages/929838.png"
+      ],
+      "away": [
+        "Álvaro Vallés (GK)|https://images.fotmob.com/image_resources/playerimages/999171.png",
+        "Ángel Ortiz (DF)|https://images.fotmob.com/image_resources/playerimages/1580522.png",
+        "Diego Llorente (DF)|https://images.fotmob.com/image_resources/playerimages/420568.png",
+        "Valentín Gómez (DF)|https://images.fotmob.com/image_resources/playerimages/1338016.png",
+        "Júnior Firpo (DF)|https://images.fotmob.com/image_resources/playerimages/743192.png",
+        "Pablo Fornals (MF)|https://images.fotmob.com/image_resources/playerimages/683450.png",
+        "Facundo Bernal (MF)|https://images.fotmob.com/image_resources/playerimages/1436133.png",
+        "Antony (FW)|https://images.fotmob.com/image_resources/playerimages/967622.png",
+        "Nelson Deossa (MF)|https://images.fotmob.com/image_resources/playerimages/1315711.png",
+        "Rodrigo Riquelme (FW)|https://images.fotmob.com/image_resources/playerimages/1072200.png",
+        "Juan Hernández (FW)|https://images.fotmob.com/image_resources/playerimages/852071.png"
+      ]
+    },
+    "formation": {
+      "home": "5-4-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Carlos Corberán|https://images.fotmob.com/image_resources/playerimages/819528.png",
+      "away": "Manuel Pellegrini|https://images.fotmob.com/image_resources/playerimages/78591.png"
     }
   },
   {
@@ -8567,1031 +8541,6 @@
     "coach": {
       "home": "Eduardo Coudet|https://images.fotmob.com/image_resources/playerimages/18738.png",
       "away": "Pablo Repetto|https://images.fotmob.com/image_resources/playerimages/458897.png"
-    }
-  },
-  {
-    "home": "Chelsea",
-    "away": "Luton",
-    "date": "2026-08-27T18:30:00.000Z",
-    "league": "EFL Cup",
-    "injuries": {
-      "home": [
-        {
-          "name": "Cole Palmer",
-          "status": "충돌 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Mamadou Sarr",
-          "status": "충돌 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Jordan Henderson",
-          "status": "부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Caleb Wiley",
-          "status": "사타구니 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Aaron Anselmino",
-          "status": "충돌 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Wesley Fofana",
-          "status": "부상",
-          "detail": "Late August 2026"
-        },
-        {
-          "name": "Emanuel Emegha",
-          "status": "햄스트링 부상",
-          "detail": "Doubtful"
-        }
-      ],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2023-12-30T12:30:00.000Z",
-        "home": "Luton Town",
-        "away": "Chelsea",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2023-08-25T19:00:00.000Z",
-        "home": "Chelsea",
-        "away": "Luton Town",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-03-02T19:15:00.000Z",
-        "home": "Luton Town",
-        "away": "Chelsea",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2021-01-24T12:05:00.000Z",
-        "home": "Chelsea",
-        "away": "Luton Town",
-        "homeScore": 3,
-        "awayScore": 1
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-05T11:30:00.000Z",
-          "home": "Chelsea",
-          "away": "Juventus",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-08T12:00:00.000Z",
-          "home": "Chelsea",
-          "away": "Milan",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-09T12:00:00.000Z",
-          "home": "Johor Darul Ta'zim",
-          "away": "Chelsea",
-          "homeScore": 3,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-15T13:00:00.000Z",
-          "home": "Chelsea",
-          "away": "Real Sociedad",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-24T19:00:00.000Z",
-          "home": "Fulham",
-          "away": "Chelsea",
-          "homeScore": 2,
-          "awayScore": 3
-        }
-      ],
-      "away": []
-    },
-    "lineup": {
-      "home": [
-        "Robert Sánchez (GK)|https://images.fotmob.com/image_resources/playerimages/789571.png",
-        "Josh Acheampong (DF)|https://images.fotmob.com/image_resources/playerimages/1400216.png",
-        "Maxence Lacroix (DF)|https://images.fotmob.com/image_resources/playerimages/950485.png",
-        "Levi Colwill (DF)|https://images.fotmob.com/image_resources/playerimages/1096400.png",
-        "Malo Gusto (DF)|https://images.fotmob.com/image_resources/playerimages/1197250.png",
-        "Reece James (DF)|https://images.fotmob.com/image_resources/playerimages/807729.png",
-        "Roméo Lavia (MF)|https://images.fotmob.com/image_resources/playerimages/1190867.png",
-        "Jorrel Hato (DF)|https://images.fotmob.com/image_resources/playerimages/1413846.png",
-        "Cole Palmer (MF)|https://images.fotmob.com/image_resources/playerimages/1096353.png",
-        "Morgan Rogers (MF)|https://images.fotmob.com/image_resources/playerimages/883080.png",
-        "João Pedro (FW)|https://images.fotmob.com/image_resources/playerimages/1021382.png"
-      ],
-      "away": [
-        "Josh Keeley (GK)|https://images.fotmob.com/image_resources/playerimages/1204776.png",
-        "Isaiah Jones (DF)|https://images.fotmob.com/image_resources/playerimages/1118697.png",
-        "Mads Juel Andersen (DF)|https://images.fotmob.com/image_resources/playerimages/630953.png",
-        "George Johnston (DF)|https://images.fotmob.com/image_resources/playerimages/954622.png",
-        "Kal Naismith (DF)|https://images.fotmob.com/image_resources/playerimages/289138.png",
-        "Liam Walsh (MF)|https://images.fotmob.com/image_resources/playerimages/716230.png",
-        "Jake Richards (FW)|https://images.fotmob.com/image_resources/playerimages/1533539.png",
-        "Jordan Clark (MF)|https://images.fotmob.com/image_resources/playerimages/259301.png",
-        "Kasey Palmer (MF)|https://images.fotmob.com/image_resources/playerimages/740171.png",
-        "Emilio Lawrence (FW)|https://images.fotmob.com/image_resources/playerimages/1254229.png",
-        "Nahki Wells (FW)|https://images.fotmob.com/image_resources/playerimages/243132.png"
-      ]
-    },
-    "formation": {
-      "home": "3-4-2-1",
-      "away": "4-1-4-1"
-    },
-    "coach": {
-      "home": "Xabi Alonso|https://images.fotmob.com/image_resources/playerimages/30889.png",
-      "away": "Jack Wilshere|https://images.fotmob.com/image_resources/playerimages/143793.png"
-    }
-  },
-  {
-    "home": "Fulham",
-    "away": "Wimbledon",
-    "date": "2026-08-27T19:00:00.000Z",
-    "league": "EFL Cup",
-    "injuries": {
-      "home": [
-        {
-          "name": "Tom Cairney",
-          "status": "무릎 부상",
-          "detail": "Mid October 2026"
-        }
-      ],
-      "away": []
-    },
-    "h2h": [],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-05-24T15:00:00.000Z",
-          "home": "Fulham",
-          "away": "Newcastle United",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-01T09:00:00.000Z",
-          "home": "Farense",
-          "away": "Fulham",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-12T19:00:00.000Z",
-          "home": "Málaga",
-          "away": "Fulham",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-15T15:00:00.000Z",
-          "home": "Fulham",
-          "away": "VfB Stuttgart",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-24T19:00:00.000Z",
-          "home": "Fulham",
-          "away": "Chelsea",
-          "homeScore": 2,
-          "awayScore": 3
-        }
-      ],
-      "away": []
-    },
-    "lineup": {
-      "home": [
-        "Bernd Leno (GK)|https://images.fotmob.com/image_resources/playerimages/215168.png",
-        "Timothy Castagne (DF)|https://images.fotmob.com/image_resources/playerimages/465750.png",
-        "Calvin Bassey (DF)|https://images.fotmob.com/image_resources/playerimages/877401.png",
-        "Jorge Cuenca (DF)|https://images.fotmob.com/image_resources/playerimages/821728.png",
-        "Antonee Robinson (DF)|https://images.fotmob.com/image_resources/playerimages/662428.png",
-        "Sander Berge (MF)|https://images.fotmob.com/image_resources/playerimages/540963.png",
-        "Alex Iwobi (MF)|https://images.fotmob.com/image_resources/playerimages/604785.png",
-        "Oscar Bobb (FW)|https://images.fotmob.com/image_resources/playerimages/1113790.png",
-        "Joshua King (MF)|https://images.fotmob.com/image_resources/playerimages/1422593.png",
-        "César Palacios (FW)|https://images.fotmob.com/image_resources/playerimages/1403691.png",
-        "Gonzalo García (FW)|https://images.fotmob.com/image_resources/playerimages/1413847.png"
-      ],
-      "away": [
-        "Joe McDonnell (GK)|https://images.fotmob.com/image_resources/playerimages/577611.png",
-        "Isaac Ogundere (DF)|https://images.fotmob.com/image_resources/playerimages/1283236.png",
-        "Dan Sweeney (DF)|https://images.fotmob.com/image_resources/playerimages/717173.png",
-        "Ryan Johnson (DF)|https://images.fotmob.com/image_resources/playerimages/507303.png",
-        "James Tilley (MF)|https://images.fotmob.com/image_resources/playerimages/636392.png",
-        "Zack Nelson (MF)|https://images.fotmob.com/image_resources/playerimages/1411552.png",
-        "Alistair Smith (MF)|https://images.fotmob.com/image_resources/playerimages/395130.png",
-        "Myles Hippolyte (MF)|https://images.fotmob.com/image_resources/playerimages/564531.png",
-        "Steve Seddon (DF)|https://images.fotmob.com/image_resources/playerimages/918332.png",
-        "Marcus Browne (FW)|https://images.fotmob.com/image_resources/playerimages/654089.png",
-        "Jayden Stockley (FW)|https://images.fotmob.com/image_resources/playerimages/186498.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "3-5-2"
-    },
-    "coach": {
-      "home": "Álvaro Arbeloa|https://images.fotmob.com/image_resources/playerimages/37442.png",
-      "away": "Johnnie Jackson|https://images.fotmob.com/image_resources/playerimages/33691.png"
-    }
-  },
-  {
-    "home": "Celta Vigo",
-    "away": "Osasuna",
-    "date": "2026-08-27T18:30:00.000Z",
-    "league": "LaLiga",
-    "injuries": {
-      "home": [
-        {
-          "name": "Borja Iglesias",
-          "status": "근육 부상",
-          "detail": "Mid September 2026"
-        },
-        {
-          "name": "Couhaib Driouech",
-          "status": "충돌 부상",
-          "detail": "Day to day"
-        }
-      ],
-      "away": [
-        {
-          "name": "Raúl Moro",
-          "status": "무릎 부상",
-          "detail": "Early September 2026"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-02-06T20:00:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2025-10-26T17:30:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2025-02-21T20:00:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-09-01T15:00:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 3,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-02-04T15:15:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2023-08-13T15:00:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-03-06T20:00:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-11-05T17:30:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2022-01-19T18:00:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-08-23T20:00:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-04-25T16:30:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2020-10-04T10:00:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-07-11T15:00:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2020-01-05T20:00:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-02-19T17:30:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-09-18T10:00:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-05-03T18:00:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-12-22T20:00:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-02-02T15:00:00.000Z",
-        "home": "Osasuna",
-        "away": "Celta Vigo",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-09-01T14:00:00.000Z",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "homeScore": 2,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-07-18T18:30:00.000Z",
-          "home": "Braga",
-          "away": "Celta Vigo",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-07-25T17:00:00.000Z",
-          "home": "Celta Vigo",
-          "away": "Sporting Gijón",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-05T18:00:00.000Z",
-          "home": "Sassuolo",
-          "away": "Celta Vigo",
-          "homeScore": 1,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-08-08T19:00:00.000Z",
-          "home": "Napoli",
-          "away": "Celta Vigo",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-22T17:30:00.000Z",
-          "home": "Valencia",
-          "away": "Celta Vigo",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-07-24T17:30:00.000Z",
-          "home": "Osasuna",
-          "away": "Racing Santander",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-07-29T18:45:00.000Z",
-          "home": "Ipswich Town",
-          "away": "Osasuna",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-01T14:00:00.000Z",
-          "home": "Norwich City",
-          "away": "Osasuna",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-05T16:30:00.000Z",
-          "home": "Napoli",
-          "away": "Osasuna",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-24T17:30:00.000Z",
-          "home": "Osasuna",
-          "away": "Levante",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Ionut Radu (GK)|https://images.fotmob.com/image_resources/playerimages/681213.png",
-        "Javi Rodríguez (DF)|https://images.fotmob.com/image_resources/playerimages/1435439.png",
-        "Yoel Lago (DF)|https://images.fotmob.com/image_resources/playerimages/1578176.png",
-        "Marcos Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/196169.png",
-        "Sergio Carreira (MF)|https://images.fotmob.com/image_resources/playerimages/1106742.png",
-        "Miguel Román (MF)|https://images.fotmob.com/image_resources/playerimages/1359911.png",
-        "Aleix Febas (MF)|https://images.fotmob.com/image_resources/playerimages/671686.png",
-        "Javi Galán (DF)|https://images.fotmob.com/image_resources/playerimages/695062.png",
-        "Jones El-Abdellaoui (MF)|https://images.fotmob.com/image_resources/playerimages/1379196.png",
-        "Ferrán Jutglà (FW)|https://images.fotmob.com/image_resources/playerimages/1102732.png",
-        "Hugo Álvarez (FW)|https://images.fotmob.com/image_resources/playerimages/1308414.png"
-      ],
-      "away": [
-        "Sergio Herrera (GK)|https://images.fotmob.com/image_resources/playerimages/683762.png",
-        "Iñigo Arguibide (DF)|https://images.fotmob.com/image_resources/playerimages/1614872.png",
-        "Alejandro Catena (DF)|https://images.fotmob.com/image_resources/playerimages/814663.png",
-        "Jorge Herrando (DF)|https://images.fotmob.com/image_resources/playerimages/1098365.png",
-        "Abel Bretones (DF)|https://images.fotmob.com/image_resources/playerimages/1323398.png",
-        "Rubén Garcia (FW)|https://images.fotmob.com/image_resources/playerimages/384413.png",
-        "Jon Moncayola (MF)|https://images.fotmob.com/image_resources/playerimages/921825.png",
-        "Iker Muñoz (MF)|https://images.fotmob.com/image_resources/playerimages/1323863.png",
-        "Moi Gómez (MF)|https://images.fotmob.com/image_resources/playerimages/262592.png",
-        "Ante Budimir (FW)|https://images.fotmob.com/image_resources/playerimages/251269.png",
-        "Aimar Oroz (MF)|https://images.fotmob.com/image_resources/playerimages/1054786.png"
-      ]
-    },
-    "formation": {
-      "home": "3-4-3",
-      "away": "4-4-2"
-    },
-    "coach": {
-      "home": "Claudio Giráldez|https://images.fotmob.com/image_resources/playerimages/1622886.png",
-      "away": "Luis Ramis|https://images.fotmob.com/image_resources/playerimages/11549.png"
-    }
-  },
-  {
-    "home": "Barcelona",
-    "away": "Athletic Club",
-    "date": "2026-08-27T19:00:00.000Z",
-    "league": "LaLiga",
-    "injuries": {
-      "home": [
-        {
-          "name": "Frenkie de Jong",
-          "status": "연골 파열",
-          "detail": "Early October 2026"
-        },
-        {
-          "name": "Gavi",
-          "status": "무릎 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Roony Bardghji",
-          "status": "십자 인대 부상",
-          "detail": "Late February 2027"
-        }
-      ],
-      "away": [
-        {
-          "name": "Daniel Vivian",
-          "status": "사타구니 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Unai Eguiluz",
-          "status": "십자 인대 부상",
-          "detail": "Mid January 2027"
-        },
-        {
-          "name": "Yuri Berchiche",
-          "status": "부상",
-          "detail": "Late August 2026"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-03-07T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2026-01-07T19:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 5,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-11-22T15:20:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-05-25T19:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2025-01-08T19:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-08-24T17:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-03-03T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-01-24T20:30:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 4,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-10-22T19:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2023-03-12T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-10-23T19:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-02-27T20:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-01-20T20:30:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 3,
-        "awayScore": 2
-      },
-      {
-        "date": "2021-08-21T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-04-17T19:30:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 4
-      },
-      {
-        "date": "2021-01-31T20:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-01-17T20:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2021-01-06T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2020-06-23T20:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-02-06T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-08-16T19:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-02-10T19:45:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-09-29T14:15:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-03-18T15:15:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-10-28T18:45:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-02-04T15:15:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-01-11T20:15:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-01-05T20:15:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-08-28T18:15:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-01-27T20:30:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-01-20T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-01-17T19:30:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 6,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-08-23T16:30:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-08-17T20:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-08-14T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-05-30T19:30:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2015-02-08T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 2,
-        "awayScore": 5
-      },
-      {
-        "date": "2014-09-13T14:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-04-20T19:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-12-01T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2013-04-27T16:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2012-12-01T19:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-05-25T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2012-03-31T20:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2011-11-06T19:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-02-20T20:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2011-01-05T21:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2010-12-21T19:00:00.000Z",
-        "home": "Barcelona",
-        "away": "Athletic Club",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2010-09-25T20:00:00.000Z",
-        "home": "Athletic Club",
-        "away": "Barcelona",
-        "homeScore": 1,
-        "awayScore": 3
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-08T19:00:00.000Z",
-          "home": "Nottingham Forest",
-          "away": "Barcelona",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-08T20:00:00.000Z",
-          "home": "Udinese",
-          "away": "Barcelona",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-16T14:30:00.000Z",
-          "home": "Basel",
-          "away": "Barcelona",
-          "homeScore": 2,
-          "awayScore": 5
-        },
-        {
-          "date": "2026-08-19T18:00:00.000Z",
-          "home": "Barcelona",
-          "away": "Al Ahly SC",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-23T19:30:00.000Z",
-          "home": "Elche",
-          "away": "Barcelona",
-          "homeScore": 0,
-          "awayScore": 5
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-01T17:00:00.000Z",
-          "home": "Burgos CF",
-          "away": "Athletic Club",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-09T15:30:00.000Z",
-          "home": "Marseille",
-          "away": "Athletic Club",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-14T18:45:00.000Z",
-          "home": "Atalanta",
-          "away": "Athletic Club",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-21T17:30:00.000Z",
-          "home": "Real Zaragoza",
-          "away": "Athletic Club",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-22T15:00:00.000Z",
-          "home": "Athletic Club",
-          "away": "Sevilla",
-          "homeScore": 1,
-          "awayScore": 3
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Joan García (GK)|https://images.fotmob.com/image_resources/playerimages/1167220.png",
-        "Eric García (DF)|https://images.fotmob.com/image_resources/playerimages/940573.png",
-        "Andreas Christensen (DF)|https://images.fotmob.com/image_resources/playerimages/449232.png",
-        "Gerard Martín (DF)|https://images.fotmob.com/image_resources/playerimages/1598982.png",
-        "Xavi Espart (MF)|https://images.fotmob.com/image_resources/playerimages/1815149.png",
-        "Marc Bernal (MF)|https://images.fotmob.com/image_resources/playerimages/1573126.png",
-        "Pedri (MF)|https://images.fotmob.com/image_resources/playerimages/1083323.png",
-        "Lamine Yamal (FW)|https://images.fotmob.com/image_resources/playerimages/1467236.png",
-        "Fermín López (MF)|https://images.fotmob.com/image_resources/playerimages/1404415.png",
-        "Karim Adeyemi (MF)|https://images.fotmob.com/image_resources/playerimages/959594.png",
-        "Raphinha (FW)|https://images.fotmob.com/image_resources/playerimages/696679.png"
-      ],
-      "away": [
-        "Unai Simón (GK)|https://images.fotmob.com/image_resources/playerimages/660625.png",
-        "Jesús Areso (DF)|https://images.fotmob.com/image_resources/playerimages/1037537.png",
-        "Yeray Álvarez (DF)|https://images.fotmob.com/image_resources/playerimages/639450.png",
-        "Aitor Paredes (DF)|https://images.fotmob.com/image_resources/playerimages/1191407.png",
-        "Adama Boiro (DF)|https://images.fotmob.com/image_resources/playerimages/1331249.png",
-        "Beñat Gerenabarrena (MF)|https://images.fotmob.com/image_resources/playerimages/1425173.png",
-        "Peio Canales (MF)|https://images.fotmob.com/image_resources/playerimages/1585726.png",
-        "Iñaki Williams (FW)|https://images.fotmob.com/image_resources/playerimages/604105.png",
-        "Oihan Sancet (MF)|https://images.fotmob.com/image_resources/playerimages/950545.png",
-        "Alex Berenguer (FW)|https://images.fotmob.com/image_resources/playerimages/574629.png",
-        "Gorka Guruzeta (FW)|https://images.fotmob.com/image_resources/playerimages/711231.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "Hans-Dieter Flick|https://images.fotmob.com/image_resources/playerimages/131509.png",
-      "away": "Edin Terzic|https://images.fotmob.com/image_resources/playerimages/1216045.png"
     }
   },
   {
@@ -11899,7 +10848,7 @@
         "Éderson (MF)|https://images.fotmob.com/image_resources/playerimages/957203.png",
         "Nicola Zalewski (MF)|https://images.fotmob.com/image_resources/playerimages/1053714.png",
         "Gianluca Scamacca (FW)|https://images.fotmob.com/image_resources/playerimages/721089.png",
-        "Giacomo Raspadori (FW)|https://images.fotmob.com/image_resources/playerimages/951743.png"
+        "Giacomo Raspadori (MF)|https://images.fotmob.com/image_resources/playerimages/951743.png"
       ]
     },
     "formation": {
@@ -13043,7 +11992,7 @@
         "Saba Sazonov (DF)|https://images.fotmob.com/image_resources/playerimages/1179368.png",
         "Djené (DF)|https://images.fotmob.com/image_resources/playerimages/421365.png",
         "Zaid Abner Romero (DF)|https://images.fotmob.com/image_resources/playerimages/1118199.png",
-        "Andrés García (DF)|https://images.fotmob.com/image_resources/playerimages/1430406.png",
+        "Andrés García (MF)|https://images.fotmob.com/image_resources/playerimages/1430406.png",
         "Ramón Terrats (MF)|https://images.fotmob.com/image_resources/playerimages/1202587.png",
         "Orel Mangala (MF)|https://images.fotmob.com/image_resources/playerimages/765693.png",
         "Francho Serrano (MF)|https://images.fotmob.com/image_resources/playerimages/1183650.png",
@@ -14179,7 +13128,7 @@
         "Magnus Knudsen (MF)|https://images.fotmob.com/image_resources/playerimages/1025560.png",
         "Markus Solbakken (MF)|https://images.fotmob.com/image_resources/playerimages/742410.png",
         "Frederik Emmery (MF)|https://images.fotmob.com/image_resources/playerimages/1645317.png",
-        "Sebastian Jørgensen (FW)|https://images.fotmob.com/image_resources/playerimages/954929.png",
+        "Sebastian Jørgensen (MF)|https://images.fotmob.com/image_resources/playerimages/954929.png",
         "Tobias Bech (FW)|https://images.fotmob.com/image_resources/playerimages/981047.png",
         "James Bogere (FW)|https://images.fotmob.com/image_resources/playerimages/1843410.png"
       ],
@@ -14826,438 +13775,1029 @@
     }
   },
   {
-    "home": "ES Sétif",
-    "away": "ES Ben Aknoun",
-    "date": "2026-08-27T18:00:00.000Z",
-    "league": "Ligue 1",
+    "home": "Chelsea",
+    "away": "Luton",
+    "date": "2026-08-27T18:30:00.000Z",
+    "league": "EFL Cup",
     "injuries": {
-      "home": [],
+      "home": [
+        {
+          "name": "Cole Palmer",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Mamadou Sarr",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Jordan Henderson",
+          "status": "부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Caleb Wiley",
+          "status": "사타구니 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Aaron Anselmino",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Wesley Fofana",
+          "status": "부상",
+          "detail": "Late August 2026"
+        },
+        {
+          "name": "Emanuel Emegha",
+          "status": "햄스트링 부상",
+          "detail": "Doubtful"
+        }
+      ],
       "away": []
     },
     "h2h": [
       {
-        "date": "2026-04-05T16:45:00.000Z",
-        "home": "ES Sétif",
-        "away": "ES Ben Aknoun",
-        "homeScore": 1,
-        "awayScore": 1
+        "date": "2023-12-30T12:30:00.000Z",
+        "home": "Luton Town",
+        "away": "Chelsea",
+        "homeScore": 2,
+        "awayScore": 3
       },
       {
-        "date": "2025-11-02T13:30:00.000Z",
-        "home": "ES Ben Aknoun",
-        "away": "ES Sétif",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-06-07T15:45:00.000Z",
-        "home": "ES Ben Aknoun",
-        "away": "ES Sétif",
-        "homeScore": 1,
+        "date": "2023-08-25T19:00:00.000Z",
+        "home": "Chelsea",
+        "away": "Luton Town",
+        "homeScore": 3,
         "awayScore": 0
       },
       {
-        "date": "2024-01-13T17:00:00.000Z",
-        "home": "ES Sétif",
-        "away": "ES Ben Aknoun",
-        "homeScore": 1,
+        "date": "2022-03-02T19:15:00.000Z",
+        "home": "Luton Town",
+        "away": "Chelsea",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2021-01-24T12:05:00.000Z",
+        "home": "Chelsea",
+        "away": "Luton Town",
+        "homeScore": 3,
         "awayScore": 1
       }
     ],
     "recent": {
       "home": [
         {
-          "date": "2026-04-17T16:45:00.000Z",
-          "home": "ES Sétif",
-          "away": "MC Oran",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-05-08T16:45:00.000Z",
-          "home": "JS Kabylie",
-          "away": "ES Sétif",
-          "homeScore": 5,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-16T17:00:00.000Z",
-          "home": "ES Sétif",
-          "away": "CR Bélouizdad",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-20T16:45:00.000Z",
-          "home": "ES Sétif",
-          "away": "MC Alger",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-06-05T16:00:00.000Z",
-          "home": "Paradou AC",
-          "away": "ES Sétif",
+          "date": "2026-08-05T11:30:00.000Z",
+          "home": "Chelsea",
+          "away": "Juventus",
           "homeScore": 0,
-          "awayScore": 2
-        }
-      ],
-      "away": [
+          "awayScore": 1
+        },
         {
-          "date": "2026-04-21T15:00:00.000Z",
-          "home": "ES Ben Aknoun",
-          "away": "MC Alger",
-          "homeScore": 2,
+          "date": "2026-08-08T12:00:00.000Z",
+          "home": "Chelsea",
+          "away": "Milan",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-09T12:00:00.000Z",
+          "home": "Johor Darul Ta'zim",
+          "away": "Chelsea",
+          "homeScore": 3,
           "awayScore": 3
         },
         {
-          "date": "2026-05-19T15:00:00.000Z",
-          "home": "ES Ben Aknoun",
-          "away": "ES Mostaganem",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-05-24T19:00:00.000Z",
-          "home": "CR Bélouizdad",
-          "away": "ES Ben Aknoun",
+          "date": "2026-08-15T13:00:00.000Z",
+          "home": "Chelsea",
+          "away": "Real Sociedad",
           "homeScore": 3,
           "awayScore": 1
         },
         {
-          "date": "2026-06-04T16:00:00.000Z",
-          "home": "ES Ben Aknoun",
-          "away": "USM Alger",
+          "date": "2026-08-24T19:00:00.000Z",
+          "home": "Fulham",
+          "away": "Chelsea",
           "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-06-06T16:00:00.000Z",
-          "home": "Olympique Akbou",
-          "away": "ES Ben Aknoun",
-          "homeScore": 1,
-          "awayScore": 1
+          "awayScore": 3
         }
+      ],
+      "away": []
+    },
+    "lineup": {
+      "home": [
+        "Robert Sánchez (GK)|https://images.fotmob.com/image_resources/playerimages/789571.png",
+        "Josh Acheampong (DF)|https://images.fotmob.com/image_resources/playerimages/1400216.png",
+        "Maxence Lacroix (DF)|https://images.fotmob.com/image_resources/playerimages/950485.png",
+        "Levi Colwill (DF)|https://images.fotmob.com/image_resources/playerimages/1096400.png",
+        "Malo Gusto (DF)|https://images.fotmob.com/image_resources/playerimages/1197250.png",
+        "Reece James (DF)|https://images.fotmob.com/image_resources/playerimages/807729.png",
+        "Roméo Lavia (MF)|https://images.fotmob.com/image_resources/playerimages/1190867.png",
+        "Jorrel Hato (DF)|https://images.fotmob.com/image_resources/playerimages/1413846.png",
+        "Cole Palmer (MF)|https://images.fotmob.com/image_resources/playerimages/1096353.png",
+        "Morgan Rogers (MF)|https://images.fotmob.com/image_resources/playerimages/883080.png",
+        "João Pedro (FW)|https://images.fotmob.com/image_resources/playerimages/1021382.png"
+      ],
+      "away": [
+        "Josh Keeley (GK)|https://images.fotmob.com/image_resources/playerimages/1204776.png",
+        "Isaiah Jones (DF)|https://images.fotmob.com/image_resources/playerimages/1118697.png",
+        "Mads Juel Andersen (DF)|https://images.fotmob.com/image_resources/playerimages/630953.png",
+        "George Johnston (DF)|https://images.fotmob.com/image_resources/playerimages/954622.png",
+        "Kal Naismith (DF)|https://images.fotmob.com/image_resources/playerimages/289138.png",
+        "Liam Walsh (MF)|https://images.fotmob.com/image_resources/playerimages/716230.png",
+        "Jake Richards (FW)|https://images.fotmob.com/image_resources/playerimages/1533539.png",
+        "Jordan Clark (MF)|https://images.fotmob.com/image_resources/playerimages/259301.png",
+        "Kasey Palmer (MF)|https://images.fotmob.com/image_resources/playerimages/740171.png",
+        "Emilio Lawrence (FW)|https://images.fotmob.com/image_resources/playerimages/1254229.png",
+        "Nahki Wells (FW)|https://images.fotmob.com/image_resources/playerimages/243132.png"
       ]
     },
-    "lineup": null,
-    "formation": null,
-    "coach": null
+    "formation": {
+      "home": "3-4-2-1",
+      "away": "4-1-4-1"
+    },
+    "coach": {
+      "home": "Xabi Alonso|https://images.fotmob.com/image_resources/playerimages/30889.png",
+      "away": "Jack Wilshere|https://images.fotmob.com/image_resources/playerimages/143793.png"
+    }
   },
   {
-    "home": "MC Alger",
-    "away": "MC Oran",
-    "date": "2026-08-27T20:00:00.000Z",
-    "league": "Ligue 1",
+    "home": "Fulham",
+    "away": "Wimbledon",
+    "date": "2026-08-27T19:00:00.000Z",
+    "league": "EFL Cup",
     "injuries": {
-      "home": [],
+      "home": [
+        {
+          "name": "Tom Cairney",
+          "status": "무릎 부상",
+          "detail": "Mid October 2026"
+        }
+      ],
       "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-24T15:00:00.000Z",
+          "home": "Fulham",
+          "away": "Newcastle United",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-01T09:00:00.000Z",
+          "home": "Farense",
+          "away": "Fulham",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-12T19:00:00.000Z",
+          "home": "Málaga",
+          "away": "Fulham",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-15T15:00:00.000Z",
+          "home": "Fulham",
+          "away": "VfB Stuttgart",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-24T19:00:00.000Z",
+          "home": "Fulham",
+          "away": "Chelsea",
+          "homeScore": 2,
+          "awayScore": 3
+        }
+      ],
+      "away": []
+    },
+    "lineup": {
+      "home": [
+        "Bernd Leno (GK)|https://images.fotmob.com/image_resources/playerimages/215168.png",
+        "Timothy Castagne (DF)|https://images.fotmob.com/image_resources/playerimages/465750.png",
+        "Calvin Bassey (DF)|https://images.fotmob.com/image_resources/playerimages/877401.png",
+        "Jorge Cuenca (DF)|https://images.fotmob.com/image_resources/playerimages/821728.png",
+        "Antonee Robinson (DF)|https://images.fotmob.com/image_resources/playerimages/662428.png",
+        "Sander Berge (MF)|https://images.fotmob.com/image_resources/playerimages/540963.png",
+        "Alex Iwobi (MF)|https://images.fotmob.com/image_resources/playerimages/604785.png",
+        "Oscar Bobb (FW)|https://images.fotmob.com/image_resources/playerimages/1113790.png",
+        "Joshua King (MF)|https://images.fotmob.com/image_resources/playerimages/1422593.png",
+        "César Palacios (FW)|https://images.fotmob.com/image_resources/playerimages/1403691.png",
+        "Gonzalo García (FW)|https://images.fotmob.com/image_resources/playerimages/1413847.png"
+      ],
+      "away": [
+        "Joe McDonnell (GK)|https://images.fotmob.com/image_resources/playerimages/577611.png",
+        "Isaac Ogundere (DF)|https://images.fotmob.com/image_resources/playerimages/1283236.png",
+        "Dan Sweeney (DF)|https://images.fotmob.com/image_resources/playerimages/717173.png",
+        "Ryan Johnson (DF)|https://images.fotmob.com/image_resources/playerimages/507303.png",
+        "James Tilley (MF)|https://images.fotmob.com/image_resources/playerimages/636392.png",
+        "Zack Nelson (MF)|https://images.fotmob.com/image_resources/playerimages/1411552.png",
+        "Alistair Smith (MF)|https://images.fotmob.com/image_resources/playerimages/395130.png",
+        "Myles Hippolyte (MF)|https://images.fotmob.com/image_resources/playerimages/564531.png",
+        "Steve Seddon (DF)|https://images.fotmob.com/image_resources/playerimages/918332.png",
+        "Marcus Browne (FW)|https://images.fotmob.com/image_resources/playerimages/654089.png",
+        "Jayden Stockley (FW)|https://images.fotmob.com/image_resources/playerimages/186498.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "3-5-2"
+    },
+    "coach": {
+      "home": "Álvaro Arbeloa|https://images.fotmob.com/image_resources/playerimages/37442.png",
+      "away": "Johnnie Jackson|https://images.fotmob.com/image_resources/playerimages/33691.png"
+    }
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Osasuna",
+    "date": "2026-08-27T18:30:00.000Z",
+    "league": "LaLiga",
+    "injuries": {
+      "home": [
+        {
+          "name": "Borja Iglesias",
+          "status": "근육 부상",
+          "detail": "Mid September 2026"
+        },
+        {
+          "name": "Couhaib Driouech",
+          "status": "충돌 부상",
+          "detail": "Day to day"
+        }
+      ],
+      "away": [
+        {
+          "name": "Raúl Moro",
+          "status": "무릎 부상",
+          "detail": "Early September 2026"
+        }
+      ]
     },
     "h2h": [
       {
-        "date": "2026-02-20T21:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-09-16T18:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 3,
+        "date": "2026-02-06T20:00:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "homeScore": 1,
         "awayScore": 2
       },
       {
-        "date": "2025-03-06T21:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-10-11T19:30:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-06-14T17:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 3,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-01-26T16:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-07-07T16:15:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-12-07T17:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-06-10T15:45:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-02-05T16:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-06-19T16:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-01-11T14:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2020-02-29T16:45:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-09-15T20:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
+        "date": "2025-10-26T17:30:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
         "homeScore": 2,
         "awayScore": 3
       },
       {
-        "date": "2019-04-09T16:45:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
+        "date": "2025-02-21T20:00:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
         "homeScore": 1,
         "awayScore": 0
       },
       {
-        "date": "2018-09-22T18:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 4,
-        "awayScore": 3
-      },
-      {
-        "date": "2018-03-12T17:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-10-17T15:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-04-21T16:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-09-23T18:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-04-26T16:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-11-21T15:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-05-23T16:05:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-12-20T15:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-02-08T15:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2013-09-03T17:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-03-19T17:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-11-03T17:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
-        "homeScore": 2,
+        "date": "2024-09-01T15:00:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
+        "homeScore": 3,
         "awayScore": 2
       },
       {
-        "date": "2012-05-15T16:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
-        "homeScore": 1,
-        "awayScore": 1
+        "date": "2024-02-04T15:15:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
+        "homeScore": 0,
+        "awayScore": 3
       },
       {
-        "date": "2011-12-17T14:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
+        "date": "2023-08-13T15:00:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-03-06T20:00:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
         "homeScore": 0,
         "awayScore": 0
       },
       {
-        "date": "2011-04-30T15:00:00.000Z",
-        "home": "MC Oran",
-        "away": "MC Alger",
+        "date": "2022-11-05T17:30:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-01-19T18:00:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-08-23T20:00:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-04-25T16:30:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2020-10-04T10:00:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-07-11T15:00:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2020-01-05T20:00:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
         "homeScore": 1,
         "awayScore": 1
       },
       {
-        "date": "2010-10-16T15:00:00.000Z",
-        "home": "MC Alger",
-        "away": "MC Oran",
+        "date": "2017-02-19T17:30:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-09-18T10:00:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
         "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-05-03T18:00:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-12-22T20:00:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "homeScore": 1,
         "awayScore": 1
+      },
+      {
+        "date": "2013-02-02T15:00:00.000Z",
+        "home": "Osasuna",
+        "away": "Celta Vigo",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-09-01T14:00:00.000Z",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "homeScore": 2,
+        "awayScore": 0
       }
     ],
     "recent": {
       "home": [
         {
-          "date": "2026-04-21T15:00:00.000Z",
-          "home": "ES Ben Aknoun",
-          "away": "MC Alger",
+          "date": "2026-07-18T18:30:00.000Z",
+          "home": "Braga",
+          "away": "Celta Vigo",
           "homeScore": 2,
-          "awayScore": 3
+          "awayScore": 2
         },
         {
-          "date": "2026-04-28T19:00:00.000Z",
-          "home": "MC Alger",
-          "away": "Olympique Akbou",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-08T17:00:00.000Z",
-          "home": "MC Alger",
-          "away": "MB Rouissat",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-05-20T16:45:00.000Z",
-          "home": "ES Sétif",
-          "away": "MC Alger",
+          "date": "2026-07-25T17:00:00.000Z",
+          "home": "Celta Vigo",
+          "away": "Sporting Gijón",
           "homeScore": 1,
           "awayScore": 0
         },
         {
-          "date": "2026-06-05T17:30:00.000Z",
-          "home": "MC Alger",
-          "away": "ASO Chlef",
-          "homeScore": 2,
+          "date": "2026-08-05T18:00:00.000Z",
+          "home": "Sassuolo",
+          "away": "Celta Vigo",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-08-08T19:00:00.000Z",
+          "home": "Napoli",
+          "away": "Celta Vigo",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-22T17:30:00.000Z",
+          "home": "Valencia",
+          "away": "Celta Vigo",
+          "homeScore": 0,
           "awayScore": 0
         }
       ],
       "away": [
         {
-          "date": "2026-04-17T16:45:00.000Z",
-          "home": "ES Sétif",
-          "away": "MC Oran",
-          "homeScore": 3,
+          "date": "2026-07-24T17:30:00.000Z",
+          "home": "Osasuna",
+          "away": "Racing Santander",
+          "homeScore": 2,
           "awayScore": 0
         },
         {
-          "date": "2026-04-29T16:45:00.000Z",
-          "home": "JS Kabylie",
-          "away": "MC Oran",
+          "date": "2026-07-29T18:45:00.000Z",
+          "home": "Ipswich Town",
+          "away": "Osasuna",
           "homeScore": 1,
           "awayScore": 2
         },
         {
-          "date": "2026-05-07T19:00:00.000Z",
-          "home": "MC Oran",
-          "away": "ASO Chlef",
+          "date": "2026-08-01T14:00:00.000Z",
+          "home": "Norwich City",
+          "away": "Osasuna",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-05T16:30:00.000Z",
+          "home": "Napoli",
+          "away": "Osasuna",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-24T17:30:00.000Z",
+          "home": "Osasuna",
+          "away": "Levante",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Ionut Radu (GK)|https://images.fotmob.com/image_resources/playerimages/681213.png",
+        "Javi Rodríguez (DF)|https://images.fotmob.com/image_resources/playerimages/1435439.png",
+        "Yoel Lago (DF)|https://images.fotmob.com/image_resources/playerimages/1578176.png",
+        "Marcos Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/196169.png",
+        "Sergio Carreira (MF)|https://images.fotmob.com/image_resources/playerimages/1106742.png",
+        "Miguel Román (MF)|https://images.fotmob.com/image_resources/playerimages/1359911.png",
+        "Aleix Febas (MF)|https://images.fotmob.com/image_resources/playerimages/671686.png",
+        "Javi Galán (DF)|https://images.fotmob.com/image_resources/playerimages/695062.png",
+        "Jones El-Abdellaoui (MF)|https://images.fotmob.com/image_resources/playerimages/1379196.png",
+        "Ferrán Jutglà (FW)|https://images.fotmob.com/image_resources/playerimages/1102732.png",
+        "Hugo Álvarez (FW)|https://images.fotmob.com/image_resources/playerimages/1308414.png"
+      ],
+      "away": [
+        "Sergio Herrera (GK)|https://images.fotmob.com/image_resources/playerimages/683762.png",
+        "Iñigo Arguibide (DF)|https://images.fotmob.com/image_resources/playerimages/1614872.png",
+        "Alejandro Catena (DF)|https://images.fotmob.com/image_resources/playerimages/814663.png",
+        "Jorge Herrando (DF)|https://images.fotmob.com/image_resources/playerimages/1098365.png",
+        "Abel Bretones (DF)|https://images.fotmob.com/image_resources/playerimages/1323398.png",
+        "Rubén Garcia (FW)|https://images.fotmob.com/image_resources/playerimages/384413.png",
+        "Jon Moncayola (MF)|https://images.fotmob.com/image_resources/playerimages/921825.png",
+        "Iker Muñoz (MF)|https://images.fotmob.com/image_resources/playerimages/1323863.png",
+        "Moi Gómez (MF)|https://images.fotmob.com/image_resources/playerimages/262592.png",
+        "Ante Budimir (FW)|https://images.fotmob.com/image_resources/playerimages/251269.png",
+        "Aimar Oroz (MF)|https://images.fotmob.com/image_resources/playerimages/1054786.png"
+      ]
+    },
+    "formation": {
+      "home": "3-4-3",
+      "away": "4-4-2"
+    },
+    "coach": {
+      "home": "Claudio Giráldez|https://images.fotmob.com/image_resources/playerimages/1622886.png",
+      "away": "Luis Ramis|https://images.fotmob.com/image_resources/playerimages/11549.png"
+    }
+  },
+  {
+    "home": "Barcelona",
+    "away": "Athletic Club",
+    "date": "2026-08-27T19:00:00.000Z",
+    "league": "LaLiga",
+    "injuries": {
+      "home": [
+        {
+          "name": "Frenkie de Jong",
+          "status": "연골 파열",
+          "detail": "Early October 2026"
+        },
+        {
+          "name": "Gavi",
+          "status": "무릎 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Roony Bardghji",
+          "status": "십자 인대 부상",
+          "detail": "Late February 2027"
+        }
+      ],
+      "away": [
+        {
+          "name": "Daniel Vivian",
+          "status": "사타구니 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Unai Eguiluz",
+          "status": "십자 인대 부상",
+          "detail": "Mid January 2027"
+        },
+        {
+          "name": "Yuri Berchiche",
+          "status": "부상",
+          "detail": "Late August 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-03-07T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2026-01-07T19:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 5,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-11-22T15:20:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-05-25T19:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2025-01-08T19:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-08-24T17:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-03-03T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-01-24T20:30:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-10-22T19:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-03-12T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-10-23T19:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-02-27T20:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-01-20T20:30:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-08-21T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-04-17T19:30:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 4
+      },
+      {
+        "date": "2021-01-31T20:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-01-17T20:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2021-01-06T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2020-06-23T20:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-02-06T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-08-16T19:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-02-10T19:45:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-09-29T14:15:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-03-18T15:15:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-10-28T18:45:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-02-04T15:15:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-01-11T20:15:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-01-05T20:15:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-08-28T18:15:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-01-27T20:30:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-01-20T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-01-17T19:30:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 6,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-08-23T16:30:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-08-17T20:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-08-14T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-05-30T19:30:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2015-02-08T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 2,
+        "awayScore": 5
+      },
+      {
+        "date": "2014-09-13T14:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-04-20T19:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-12-01T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-04-27T16:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2012-12-01T19:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-05-25T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2012-03-31T20:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-11-06T19:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2011-02-20T20:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2011-01-05T21:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2010-12-21T19:00:00.000Z",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2010-09-25T20:00:00.000Z",
+        "home": "Athletic Club",
+        "away": "Barcelona",
+        "homeScore": 1,
+        "awayScore": 3
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-08T19:00:00.000Z",
+          "home": "Nottingham Forest",
+          "away": "Barcelona",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-08T20:00:00.000Z",
+          "home": "Udinese",
+          "away": "Barcelona",
           "homeScore": 1,
           "awayScore": 0
         },
         {
-          "date": "2026-05-20T19:00:00.000Z",
-          "home": "CR Bélouizdad",
-          "away": "MC Oran",
+          "date": "2026-08-16T14:30:00.000Z",
+          "home": "Basel",
+          "away": "Barcelona",
+          "homeScore": 2,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-08-19T18:00:00.000Z",
+          "home": "Barcelona",
+          "away": "Al Ahly SC",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-23T19:30:00.000Z",
+          "home": "Elche",
+          "away": "Barcelona",
+          "homeScore": 0,
+          "awayScore": 5
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-01T17:00:00.000Z",
+          "home": "Burgos CF",
+          "away": "Athletic Club",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-09T15:30:00.000Z",
+          "home": "Marseille",
+          "away": "Athletic Club",
           "homeScore": 3,
           "awayScore": 1
         },
         {
-          "date": "2026-06-06T17:00:00.000Z",
-          "home": "MC Oran",
-          "away": "USM Alger",
-          "homeScore": 2,
-          "awayScore": 2
+          "date": "2026-08-14T18:45:00.000Z",
+          "home": "Atalanta",
+          "away": "Athletic Club",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-21T17:30:00.000Z",
+          "home": "Real Zaragoza",
+          "away": "Athletic Club",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-22T15:00:00.000Z",
+          "home": "Athletic Club",
+          "away": "Sevilla",
+          "homeScore": 1,
+          "awayScore": 3
         }
       ]
     },
-    "lineup": null,
-    "formation": null,
-    "coach": null
+    "lineup": {
+      "home": [
+        "Joan García (GK)|https://images.fotmob.com/image_resources/playerimages/1167220.png",
+        "Eric García (DF)|https://images.fotmob.com/image_resources/playerimages/940573.png",
+        "Andreas Christensen (DF)|https://images.fotmob.com/image_resources/playerimages/449232.png",
+        "Gerard Martín (DF)|https://images.fotmob.com/image_resources/playerimages/1598982.png",
+        "Xavi Espart (MF)|https://images.fotmob.com/image_resources/playerimages/1815149.png",
+        "Marc Bernal (MF)|https://images.fotmob.com/image_resources/playerimages/1573126.png",
+        "Pedri (MF)|https://images.fotmob.com/image_resources/playerimages/1083323.png",
+        "Lamine Yamal (FW)|https://images.fotmob.com/image_resources/playerimages/1467236.png",
+        "Fermín López (MF)|https://images.fotmob.com/image_resources/playerimages/1404415.png",
+        "Karim Adeyemi (MF)|https://images.fotmob.com/image_resources/playerimages/959594.png",
+        "Raphinha (FW)|https://images.fotmob.com/image_resources/playerimages/696679.png"
+      ],
+      "away": [
+        "Unai Simón (GK)|https://images.fotmob.com/image_resources/playerimages/660625.png",
+        "Jesús Areso (DF)|https://images.fotmob.com/image_resources/playerimages/1037537.png",
+        "Yeray Álvarez (DF)|https://images.fotmob.com/image_resources/playerimages/639450.png",
+        "Aitor Paredes (DF)|https://images.fotmob.com/image_resources/playerimages/1191407.png",
+        "Adama Boiro (DF)|https://images.fotmob.com/image_resources/playerimages/1331249.png",
+        "Beñat Gerenabarrena (MF)|https://images.fotmob.com/image_resources/playerimages/1425173.png",
+        "Peio Canales (MF)|https://images.fotmob.com/image_resources/playerimages/1585726.png",
+        "Iñaki Williams (FW)|https://images.fotmob.com/image_resources/playerimages/604105.png",
+        "Oihan Sancet (MF)|https://images.fotmob.com/image_resources/playerimages/950545.png",
+        "Alex Berenguer (FW)|https://images.fotmob.com/image_resources/playerimages/574629.png",
+        "Gorka Guruzeta (FW)|https://images.fotmob.com/image_resources/playerimages/711231.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Hans-Dieter Flick|https://images.fotmob.com/image_resources/playerimages/131509.png",
+      "away": "Edin Terzic|https://images.fotmob.com/image_resources/playerimages/1216045.png"
+    }
   },
   {
     "home": "Dalian Yingbo",
@@ -15873,8 +15413,8 @@
         "Kim Gyeong-Jae (DF)|https://images.fotmob.com/image_resources/playerimages/730677.png",
         "Son Gun-Ho (DF)|https://images.fotmob.com/image_resources/playerimages/1836781.png",
         "Kim Beom-Su (MF)|https://images.fotmob.com/image_resources/playerimages/1376886.png",
-        "Choi Han-Sol (MF)|https://images.fotmob.com/image_resources/playerimages/926618.png",
         "Park Tae-Yong (MF)|https://images.fotmob.com/image_resources/playerimages/1462064.png",
+        "Choi Han-Sol (MF)|https://images.fotmob.com/image_resources/playerimages/926618.png",
         "Jeong Ji-Yong (MF)|https://images.fotmob.com/image_resources/playerimages/1104176.png",
         "Valdívia (FW)|https://images.fotmob.com/image_resources/playerimages/493595.png",
         "Yoon Min-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/1326677.png"
