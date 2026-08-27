@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 애리조나 다이아몬드백스 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | MLB - 픽천국"
+date: 2026-08-28T01:45:00.000Z
+description: "샌프란시스코 자이언츠 vs 애리조나 다이아몬드백스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260828AZSF0-2026-08-28-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "애리조나 다이아몬드백스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 79경기 32승 1무 46패, 승률 .406, 평균 득점 4.3으로 시즌 내내 흔들림이 있었고, 최근 흐름도 10경기 3승 7패로 다시 주춤한 모습입니다. 다만 홈에서 치른 경기에서는 한 번씩 폭발력을 보여 주며 점수를 크게 올리는 경기가 있어, 타선의 잠재력 자체는 완전히 꺼지지 않은 상태로 보입니다. 최근에는 실점이 먼저 늘어나는 경기들이 잦아 수비 안정감이 떨어져 있고, 접전 상황에서 버티는 힘이 약해진 점이 아쉽습니다. 특히 애리조나 다이아몬드백스를 상대로는 올 시즌 맞대결에서 고전한 흐름이 반복되어, 상대 강타선에 대한 대응이 중요해 보입니다. 주전 이탈이 적지 않은 상황이라 경기 중반 이후 전력 유지가 관건이며, 초반 실점을 줄여야만 홈 이점이 살아날 수 있습니다."
+awayAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 86경기 47승 39패, 승률 .530, 평균 득점 4.7로 샌프란시스코 자이언츠보다 분명히 높은 시즌 전력을 보여주고 있습니다. 최근 10경기에서도 6승 4패로 흐름이 나쁘지 않고, 원정에서도 득점을 꾸준히 뽑아내며 경기 운영의 탄력이 유지되고 있습니다. 다만 몇 차례 큰 실점이 나온 경기에서는 수비 집중력이 흔들렸고, 핵심 전력 이탈이 겹친 구간에서는 경기 후반의 안정감이 다소 떨어져 보입니다. 그럼에도 시즌 득실이 플러스로 유지되고 있어, 공격에서의 응집력과 결정력이 현재 팀의 가장 큰 장점으로 평가됩니다. 샌프란시스코 자이언츠를 상대로는 시즌 내내 강한 상성을 이어 왔기 때문에, 이번 경기에서도 심리적 우위가 이어질 가능성이 높습니다."
+homePower: "홈에서 대량 실점 허용 빈도가 높아 안정감이 흔들림|공격은 한 번 터지면 길게 이어지는 폭발력 보임|후반 집중력 저하로 접전 운영이 약한 편임|애리조나 다이아몬드백스 상대로 상성 열세가 뚜렷함|주전 이탈 속 대체 자원의 버팀목이 필요함"
+awayPower: "시즌 득실 플러스가 공격 응집력의 안정성 보여줌|최근 흐름 유지하며 원정 득점 생산력도 살아 있음|샌프란시스코 자이언츠 상대 상성 우위가 확인됨|주요 결장 속에서도 승부처 마무리 힘은 유지됨|대량 실점만 줄이면 경기 주도권 확보 가능함"
+h2h: '[{"date":"26.07.02","home":"애리조나 다이아몬드백스","away":"샌프란시스코 자이언츠","score":"4-6","link":"https://pick79.com/posts/detail/analyze-179315-2026-07-02-arizona-diamondbacks/"},{"date":"26.07.01","home":"애리조나 다이아몬드백스","away":"샌프란시스코 자이언츠","score":"8-2","link":"https://pick79.com/posts/detail/analyze-179300-2026-07-01-arizona-diamondbacks/"},{"date":"26.06.30","home":"애리조나 다이아몬드백스","away":"샌프란시스코 자이언츠","score":"5-4","link":"https://pick79.com/posts/detail/analyze-179285-2026-06-30-arizona-diamondbacks/"},{"date":"26.05.28","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-178839-2026-05-28-san-francisco-giants/"},{"date":"26.05.27","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"5-7","link":"https://pick79.com/posts/detail/analyze-178811-2026-05-26-san-francisco-giants/"}]'
+summary: "샌프란시스코 자이언츠는 시즌 승률과 득실 모두에서 열세가 뚜렷하고, 최근 흐름도 흔들리면서 경기 후반의 버티는 힘이 약해진 모습입니다. 반면 애리조나 다이아몬드백스는 시즌 전력과 최근 흐름이 더 안정적이고, 득점 생산과 경기 운영의 균형도 더 나아 보입니다. 맞대결에서도 애리조나 다이아몬드백스가 강한 우위를 이어 온 만큼, 이번 경기 역시 원정팀이 더 주도권을 잡을 가능성이 높게 평가됩니다."
+homeRecent: '[{"date":"26.08.27","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CISF0-2026-08-27-san-francisco-giants/"},{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"},{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox/"},{"date":"26.08.23","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SFBO0-2026-08-23-boston-red-sox/"},{"date":"26.08.22","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SFBO0-2026-08-22-boston-red-sox/"}]'
+awayRecent: '[{"date":"26.08.27","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CCAZ0-2026-08-27-arizona-diamondbacks/"},{"date":"26.08.25","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CCAZ0-2026-08-25-arizona-diamondbacks/"},{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"}]'
+injuryHome: "Jung Hoo Lee (멍)|Jesus Rodriguez (목 신경 눌림)|Bryce Eldridge (조문 휴가)|Marcelo Mayer (골절)|Matt Gage (근육 염좌)"
+injuryAway: "Lourdes Gurriel Jr. (근육 염좌)|Tommy Troy (염좌)|Blake Walston (수술)|Ketel Marte (염증)|Zac Gallen (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "흐로닝언 vs 포르투나 시타르트 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | 에레디비지 - 픽천국"
+date: 2026-08-28T18:00:00.000Z
+description: "흐로닝언 vs 포르투나 시타르트 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781729-2026-08-29-fc-groningen"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "흐로닝언"
+awayTeam: "포르투나 시타르트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8674.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6422.png"
+homeAnalysis: "흐로닝언은 2026시즌 최근 12경기 5승 1무 6패, 평균 득점 1.6으로 공격에서 꾸준히 기회를 만들면서도 결과 기복이 함께 보이는 흐름입니다. 최근 경기에서는 PSV 에인트호번 원정에서 크게 흔들렸지만, ADO 덴 하흐 원정과 FC 위트레흐트전에서는 득점 생산력이 다시 살아나며 반등 조짐을 보였습니다. 리그순위 5위라는 점을 감안하면 시즌 출발 자체는 나쁘지 않지만, 득실 7-7이 말해주듯 전력의 무게감이 아주 안정적이라고 보기는 어렵습니다. 다만 홈에서 FC 위트레흐트전 2골, 볼로스전 무실점처럼 템포를 잡았을 때는 경기 운영이 깔끔하게 이어지고 있습니다. 티름엔 블로키질, 마르크 칭거르, 오트 프린스가 버티는 수비진과 브뇨르 윌룸손, 페르레 클레멘트 쪽의 전개가 맞물리면 주도권을 잡을 여지는 충분합니다."
+awayAnalysis: "포르투나 시타르트는 2026시즌 최근 11경기 5승 1무 5패, 평균 득점 1.5로 경기력 자체는 무난하지만 결과를 길게 이어 가는 힘은 다소 아쉬운 흐름입니다. 최근에는 AZ 알크마르전 패배로 주춤했지만, 캄뷔르전 승리와 PSV 에인트호번 원정의 득점 교환 장면에서 공격 전환은 충분히 위협적으로 확인되었습니다. 리그순위 8위에 득실 5-5를 기록하고 있어, 순위 대비 공격과 수비의 균형은 맞지만 한 끗 차이를 끝까지 밀어붙이는 힘은 조금 부족해 보입니다. 특히 올레 로메니가 빠진 상황에서는 최전방 마무리의 무게가 줄어들 수 있어, 앤서니 데스코테와 르퀸시오 제휘크의 연계가 더 중요해집니다. 이반 마르케스와 라마잔 바이람의 이탈까지 겹치면서 수비 전환의 단단함도 시험대에 오를 가능성이 큽니다."
+homePower: "리그순위 5위로 출발은 준수함|득실 7-7, 공수 균형은 아직 불안정함|홈에서 점유 후 압박 전개가 살아남|브뇨르 윌룸손 중심 마무리 기대감 있음|상대전 2연승 흐름이 심리적 우위로 보임"
+awayPower: "리그순위 8위지만 득실 5-5로 실속형 전력임|원정에서 한 방 있는 전환이 장점으로 보임|올레 로메니 이탈로 마무리 무게는 감소함|앤서니 데스코테-르퀸시오 제휘크 연계가 핵심임|수비 결장 여파로 라인 간격 관리가 중요해짐"
+h2h: '[{"date":"26.01.25","home":"흐로닝언","away":"포르투나 시타르트","score":"1-2"},{"date":"25.10.25","home":"포르투나 시타르트","away":"흐로닝언","score":"1-2"},{"date":"25.03.16","home":"흐로닝언","away":"포르투나 시타르트","score":"1-0"},{"date":"24.10.26","home":"포르투나 시타르트","away":"흐로닝언","score":"1-0"},{"date":"24.02.09","home":"흐로닝언","away":"포르투나 시타르트","score":"0-0"}]'
+summary: "흐로닝언은 리그순위 5위로 출발이 나쁘지 않고, 포르투나 시타르트는 리그순위 8위지만 득실이 비슷해 쉽게 밀리지 않는 전력입니다. 다만 흐로닝언은 최근 득점 흐름이 살아나는 장면이 있고, 포르투나 시타르트는 원정에서도 버티는 힘은 있지만 핵심 결장 여파로 공격의 완성도가 다소 떨어질 수 있습니다. 상대전적 흐름까지 더하면 흐로닝언이 홈에서 경기 주도권을 잡을 가능성이 조금 더 높아 보이며, 전반적인 전력 균형은 팽팽하더라도 세밀한 마무리에서 홈팀 쪽 기대값이 더 높게 읽힙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Malcolm Jeng (아킬레스건 부상)|Tyrique Mercera (부상)|Ryan Metu (부상)"
+injuryAway: "Ole Romeny (부상)|Iván Márquez (부상)|Ramazan Bayram (무릎 부상)|Sven Simons (햄스트링 부상)"
+homeLineup: '["Etienne Vaessen (GK)|https://images.fotmob.com/image_resources/playerimages/665170.png","Jorg Schreuders (FW)|https://images.fotmob.com/image_resources/playerimages/1419385.png","Thijmen Blokzijl (DF)|https://images.fotmob.com/image_resources/playerimages/1256173.png","Márk Csinger (DF)|https://images.fotmob.com/image_resources/playerimages/1436365.png","Wouter Prins (DF)|https://images.fotmob.com/image_resources/playerimages/1552425.png","Tika de Jonge (MF)|https://images.fotmob.com/image_resources/playerimages/1256176.png","Tygo Land (MF)|https://images.fotmob.com/image_resources/playerimages/1426704.png","David van der Werff (FW)|https://images.fotmob.com/image_resources/playerimages/1695991.png","Thom van Bergen (FW)|https://images.fotmob.com/image_resources/playerimages/1412105.png","Pelle Clement (MF)|https://images.fotmob.com/image_resources/playerimages/637741.png","Brynjólfur Willumsson (FW)|https://images.fotmob.com/image_resources/playerimages/937032.png"]'
+awayLineup: '["Mattijs Branderhorst (GK)|https://images.fotmob.com/image_resources/playerimages/245395.png","Philip Brittijn (MF)|https://images.fotmob.com/image_resources/playerimages/1285451.png","Syb van Ottele (DF)|https://images.fotmob.com/image_resources/playerimages/1180218.png","Justin Hubner (DF)|https://images.fotmob.com/image_resources/playerimages/1213683.png","Siebe Wylin (DF)|https://images.fotmob.com/image_resources/playerimages/1301657.png","Shiloh Zand (MF)|https://images.fotmob.com/image_resources/playerimages/1522438.png","Édouard Michut (MF)|https://images.fotmob.com/image_resources/playerimages/1173785.png","Nick de Groot (DF)|https://images.fotmob.com/image_resources/playerimages/1285136.png","Anthony Descotte (MF)|https://images.fotmob.com/image_resources/playerimages/1116199.png","Ole Romeny (FW)|https://images.fotmob.com/image_resources/playerimages/915365.png","Lequincio Zeefuik (FW)|https://images.fotmob.com/image_resources/playerimages/1250495.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "3-4-2-1"
+homeCoach: "Dick Lukkien|https://images.fotmob.com/image_resources/playerimages/846372.png"
+awayCoach: "Danny Buijs|https://images.fotmob.com/image_resources/playerimages/38979.png"
+pickWinTeam: "흐로닝언"
+pickWinResult: "승"
+pickHandicapTeam: "흐로닝언"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

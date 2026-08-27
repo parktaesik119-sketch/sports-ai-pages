@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 볼티모어 오리올스 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | MLB - 픽천국"
+date: 2026-08-27T18:15:00.000Z
+description: "세인트루이스 카디널스 vs 볼티모어 오리올스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 89경기 기준 38승 1무 50패, 승률 .432, 평균 득점 4.2로 시즌 내내 기복이 있는 흐름을 보여주고 있습니다. 최근 경기에서는 타선이 한때 힘을 내며 득점 폭이 커졌지만, 동시에 실점도 크게 늘어 안정감은 떨어진 모습입니다. 특히 직전 경기에서 볼티모어 오리올스에게 1득점에 그치며 크게 밀렸고, 최근 리그순위 9위라는 점까지 함께 보면 상승세를 굳히지 못한 상태로 보입니다. 홈에서는 한 번 분위기를 잡으면 공격적으로 점수를 내는 장면이 있었지만, 수비 쪽 흔들림이 커서 경기 중반 이후 흐름을 내주는 경우가 적지 않습니다. Masyn Winn과 Andre Pallante 같은 핵심 전력의 이탈도 내야 안정감과 경기 운영 측면에 부담으로 작용하고 있습니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 94경기 기준 45승 3무 46패, 승률 .495, 평균 득점 4.5로 세인트루이스 카디널스보다 시즌 전체 전력이 조금 더 앞서 있습니다. 최근에는 대량 득점이 터지는 경기와 득점 침묵이 섞여 있지만, 전반적으로 공격 생산력은 원정보다 홈에서의 흔들림을 보완하며 버티고 있습니다. 직전 맞대결에서 13득점을 올리며 상대 마운드를 강하게 공략했고, 최근 리그순위 9위라는 점을 감안해도 반등 조짐이 더 분명하게 읽힙니다. 수비 쪽에서는 무실점 흐름을 오래 이어가지는 못하지만, 필요할 때 장타와 집중타로 경기 균형을 바꾸는 힘이 있습니다. Felix Bautista와 Ryan Mountcastle의 이탈은 분명 아쉽지만, 팀 전체 타선의 득점 압축력은 여전히 세인트루이스 카디널스보다 나아 보입니다."
+homePower: "상대전에서 대량 실점 허용, 마운드 부담이 큼|최근 득점은 늘었지만 실점 억제가 더 큰 변수임|홈에서 공격 폭발력은 있으나 지속성은 떨어짐|주전 결장으로 내야 안정감 저하가 우려됨|초반 실점 시 경기 주도권 회복이 쉽지 않음"
+awayPower: "직전 맞대결 대승으로 상성 우위가 확인됨|평균 득점이 더 높아 장타 연결 기대감이 큼|최근 기복은 있으나 폭발 구간의 위력은 분명함|핵심 결장에도 타선 전체 응집력은 유지되는 편임|상대 약한 수비를 빠르게 공략할 여지가 큼"
+h2h: '[{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"}]'
+summary: "볼티모어 오리올스는 시즌 전체 전력과 득점 생산력에서 세인트루이스 카디널스보다 한발 앞서 있고, 최근 맞대결에서도 확실한 우위를 보여주고 있습니다. 세인트루이스 카디널스는 최근 공격이 살아나는 장면이 있더라도 수비와 실점 억제가 따라주지 못해 경기 흐름이 쉽게 흔들리고 있습니다. 반면 볼티모어 오리올스는 결장 이슈가 있어도 상대보다 공격의 밀도가 더 좋고, 최근 대승 흐름까지 더해져 경기 주도권을 잡을 가능성이 높아 보입니다. 전체적으로는 볼티모어 오리올스가 전력, 흐름, 상성에서 앞서는 구도입니다."
+homeRecent: '[{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"},{"date":"26.08.21","home":"신시내티 레즈","away":"세인트루이스 카디널스","score":"9-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SLCI0-2026-08-21-cincinnati-reds/"}]'
+awayRecent: '[{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"},{"date":"26.08.24","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TBBA0-2026-08-24-baltimore-orioles/"},{"date":"26.08.23","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TBBA0-2026-08-23-baltimore-orioles/"},{"date":"26.08.22","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TBBA0-2026-08-22-baltimore-orioles/"},{"date":"26.08.21","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821NYBA0-2026-08-21-baltimore-orioles/"}]'
+injuryHome: "Masyn Winn (골절)|Everson Pereira (타박상)|Andre Pallante (염증)|Hunter Dobbins (통증)|Max Rajcic (수술)"
+injuryAway: "Blaze Alexander (골절)|Tyler O'Neill (통증)|Felix Bautista (수술)|Ryan Helsley (염증)|Ryan Mountcastle (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "볼티모어 오리올스"
+pickWinResult: "승"
+pickHandicapTeam: "볼티모어 오리올스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

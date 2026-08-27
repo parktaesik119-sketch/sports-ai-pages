@@ -1,0 +1,37 @@
+---
+title: "뉴욕 메츠 vs 밀워키 브루어스 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | MLB - 픽천국"
+date: 2026-08-27T23:10:00.000Z
+description: "뉴욕 메츠 vs 밀워키 브루어스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260828MINM0-2026-08-28-new-york-mets"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 메츠"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+homeAnalysis: "뉴욕 메츠는 2026시즌 최근 92경기에서 44승 47패, 승률 .455를 기록하고 있으며 평균 득점은 4.3점입니다. 시즌 전체 흐름만 보면 승패가 크게 벌어지지 않은 가운데, 최근에는 득점이 완전히 막히기보다는 경기마다 기복을 줄이며 버티는 모습이 이어지고 있습니다. 다만 홈에서 안정감을 보여주는 경기와 실점이 함께 늘어나는 경기가 섞여 있어, 타선이 초반에 점수를 내 주는지가 매우 중요하게 보입니다. 최근 10경기에서도 7승 3패로 반등 흐름은 확인되지만, 같은 구간에서도 접전 승부가 많아 마운드 운영의 힘이 그대로 드러나고 있습니다. 주전급 전력 이탈이 적지 않은 상황이라 득점 생산의 폭은 다소 좁아졌지만, 홈에서는 상대 흐름을 끊는 운영 능력이 여전히 살아 있습니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 최근 93경기에서 57승 35패, 승률 .614를 기록하고 있으며 평균 득점은 4.7점입니다. 시즌 전체 성적이 매우 단단하고, 득실 차도 크게 앞서 있어 공수 균형이 좋은 팀으로 평가됩니다. 최근 10경기에서도 7승 3패를 유지하면서, 대량 득점과 저실점 경기를 번갈아 만들어내는 점이 돋보입니다. 특히 원정에서도 공격 흐름이 크게 꺾이지 않아 상대 마운드가 흔들릴 때 빠르게 점수 차를 벌리는 힘이 있습니다. 다만 불펜 쪽 결장자가 적지 않아 경기 후반 운영에서는 세밀함이 필요해 보이며, 초반 우세를 얼마나 확실히 굳히느냐가 관건입니다."
+homePower: "홈에서 접전 대응력이 살아 있음|최근 승리 경기에서 실점 억제력이 확인됨|주전 이탈 속에서도 장타 한 방은 보임|리그순위보다 최근 반등 흐름이 더 뚜렷함|초반 득점 성공 시 경기 운영이 안정됨"
+awayPower: "리그순위 1위답게 전력 완성도가 높음|득실 격차가 커 공수 밸런스 우수함|원정에서도 장타와 응집력이 유지됨|최근 대량득점 경기로 타선 신뢰도 상승|불펜 결장 변수는 있으나 우세 구조는 유지됨"
+h2h: '[{"date":"26.08.26","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MINM0-2026-08-26-new-york-mets/"},{"date":"26.07.23","home":"밀워키 브루어스","away":"뉴욕 메츠","score":"4-3","link":"https://pick79.com/posts/detail/analyze-179545-2026-07-23-milwaukee-brewers/"},{"date":"26.07.22","home":"밀워키 브루어스","away":"뉴욕 메츠","score":"0-4","link":"https://pick79.com/posts/detail/analyze-179531-2026-07-22-milwaukee-brewers/"},{"date":"26.07.21","home":"밀워키 브루어스","away":"뉴욕 메츠","score":"8-3","link":"https://pick79.com/posts/detail/analyze-179516-2026-07-21-milwaukee-brewers/"}]'
+summary: "뉴욕 메츠는 리그순위 13위로 시즌 전체 성적이 밀워키 브루어스보다 뒤처져 있지만, 최근에는 승리를 이어가며 반등 흐름을 만들고 있습니다. 반면 밀워키 브루어스는 리그순위 1위에 걸맞게 시즌 전력과 득실 격차가 모두 우수하고, 최근 흐름도 공격 화력이 살아 있는 편입니다. 다만 맞대결에서는 한쪽이 일방적으로 밀리지 않았고, 최근 경기에서도 접전이 반복되어 경기 후반까지 팽팽한 흐름이 이어질 가능성이 높습니다. 종합하면 전체 전력 우위는 밀워키 브루어스 쪽에 조금 더 기울어 보이지만, 뉴욕 메츠의 최근 저항감도 분명해서 쉽게 벌어지는 경기보다는 세밀한 운영이 승부를 가를 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.26","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MINM0-2026-08-26-new-york-mets/"},{"date":"26.08.24","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824NMCW0-2026-08-24-chicago-white-sox/"},{"date":"26.08.23","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823NMCW0-2026-08-23-chicago-white-sox/"},{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822NMCW0-2026-08-22-chicago-white-sox/"},{"date":"26.08.20","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SDNM0-2026-08-20-new-york-mets/"}]'
+awayRecent: '[{"date":"26.08.26","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MINM0-2026-08-26-new-york-mets/"},{"date":"26.08.24","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ATMI0-2026-08-24-milwaukee-brewers/"},{"date":"26.08.23","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ATMI0-2026-08-23-milwaukee-brewers/"},{"date":"26.08.22","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822ATMI0-2026-08-22-milwaukee-brewers/"},{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"}]'
+injuryHome: "Bo Bichette (멍)|Juan Soto (염좌)|Cionel Perez (염좌)|Mark Vientos (골절)|Justin Hagenman (골절)"
+injuryAway: "Jake Bauers (염증)|JoJo Romero (수술)|Abner Uribe (염좌)|Joel Kuhnel (건염)|Dustin May (타박상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

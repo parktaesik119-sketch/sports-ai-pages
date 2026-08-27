@@ -1,0 +1,37 @@
+---
+title: "토론토 블루제이즈 vs 캔자스시티 로열스 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | MLB - 픽천국"
+date: 2026-08-27T23:07:00.000Z
+description: "토론토 블루제이즈 vs 캔자스시티 로열스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260828KCTO0-2026-08-28-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 최근 100경기에서 48승 1무 51패, 평균 득점 3.6으로 시즌 전체 전력이 승패 균형에서 크게 벗어나지 못한 모습입니다. 최근에는 10경기 5승 5패, 평균 득점 4.2로 타선이 시즌 평균보다 조금 살아나며 반등의 실마리를 보이고 있습니다. 다만 경기마다 득점 기복이 남아 있어 공격 흐름이 길게 이어지지 않는 점은 아쉬움으로 보입니다. 수비 쪽에서도 실점 억제에 확실한 안정감이 완전히 자리 잡았다고 보기는 어려우나, 최근 맞대결에서 캔자스시티 로열스를 3점 이하로 묶은 경기는 분명한 긍정 신호입니다. 홈에서는 접전 운영에 강점을 보이지만, 결장자가 적지 않아 중심축이 흔들릴 경우 득점 생산이 다시 둔해질 가능성도 있습니다. 조지즈 스프링어와 보 비솃 같은 상위 타선 자원들의 출루와 장타 연결이 살아나면 홈에서 충분히 버틸 수 있는 전력으로 평가됩니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 최근 92경기에서 46승 4무 42패, 평균 득점 4.4로 시즌 전체 성적이 토론토 블루제이즈보다 한 단계 안정적으로 보입니다. 최근 10경기에서는 9승 1패, 평균 득점 5.7까지 올라오며 타격감이 매우 뚜렷하게 올라온 흐름입니다. 특히 최근 원정 포함 연승 구간에서 다득점을 꾸준히 만들고 있어 공격 쪽 자신감이 높은 상태입니다. 반면 득실이 마이너스 92로 남아 있는 점은 수비와 투수진의 전체 균형이 아직 완전히 안정적이지 않다는 뜻으로 읽힙니다. 그럼에도 최근에는 상대를 압박하는 득점 생산이 확실히 살아났고, 주루와 하위 타선까지 고르게 연결되는 점이 돋보입니다. 마이클 가르시아와 카를로스 에스테베스의 결장은 부담이지만, 최근 전력 흐름만 놓고 보면 원정에서도 우세를 점할 만한 힘이 있습니다."
+homePower: "토론토 블루제이즈 상위 타선 반등으로 초반 흐름은 살아있음|홈 접전 운영은 가능하나 폭발력 지속성은 제한적임|결장자 누적으로 중심 타선 완성도 저하 우려됨|최근 맞대결 무실점 승리는 수비 집중력 회복 신호임|다득점 경기와 저득점 경기 편차가 커 변동성 높음"
+awayPower: "캔자스시티 로열스 최근 타격 상승세가 매우 뚜렷함|장기 결장자에도 득점 연결 고리가 흔들리지 않음|원정에서도 초반부터 압박하는 공격 패턴이 강점임|실점 관리 편차는 남아 있으나 최근 흐름이 보완 중임|토론토 블루제이즈 상대로 상성 우위 흐름 재확인됨"
+h2h: '[{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays/"},{"date":"26.08.26","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826KCTO0-2026-08-26-toronto-blue-jays/"}]'
+summary: "캔자스시티 로열스는 2026시즌 최근 흐름에서 토론토 블루제이즈보다 한결 강한 타격감과 추진력을 보여주고 있습니다. 토론토 블루제이즈는 시즌 전체 전력과 최근 득점 흐름이 완전히 무너진 상태는 아니지만, 결장자 부담과 득점 기복이 남아 있어 경기 내내 안정적으로 밀어붙이기에는 한계가 보입니다. 반면 캔자스시티 로열스는 최근 다득점 흐름과 맞대결 우위를 함께 가져가고 있어, 전체 전력과 현재 상승세를 감안하면 원정팀이 한 발 앞설 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays/"},{"date":"26.08.26","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826KCTO0-2026-08-26-toronto-blue-jays/"},{"date":"26.08.24","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TONY0-2026-08-24-new-york-yankees/"},{"date":"26.08.23","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TONY0-2026-08-23-new-york-yankees/"},{"date":"26.08.22","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TONY0-2026-08-22-new-york-yankees/"}]'
+awayRecent: '[{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays/"},{"date":"26.08.26","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826KCTO0-2026-08-26-toronto-blue-jays/"},{"date":"26.08.24","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824DEKC0-2026-08-24-kansas-city-royals/"},{"date":"26.08.23","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823DEKC0-2026-08-23-kansas-city-royals/"},{"date":"26.08.21","home":"캔자스시티 로열스","away":"애슬레틱스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821OAKC0-2026-08-21-kansas-city-royals/"}]'
+injuryHome: "Joe Mantiply (수술)|Josh Smith (염증)|Patrick Corbin (근육 손상)|Jameson Taillon (건염)|Jonatan Clase (족저근막염)"
+injuryAway: "Michael Massey (기타 미상)|Beck Way (경련)|Connor Seabold (근육 손상)|Maikel Garcia (근육 손상)|Carlos Estevez (근육 손상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "캔자스시티 로열스"
+pickWinResult: "승"
+pickHandicapTeam: "캔자스시티 로열스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

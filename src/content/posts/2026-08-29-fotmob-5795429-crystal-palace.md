@@ -1,0 +1,37 @@
+---
+title: "크리스탈 팰리스 vs 맨시티 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | 프리미어리그 - 픽천국"
+date: 2026-08-28T19:00:00.000Z
+description: "크리스탈 팰리스 vs 맨시티 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5795429-2026-08-29-crystal-palace"
+category: "soccer"
+country: "잉글랜드"
+league: "프리미어리그"
+homeTeam: "크리스탈 팰리스"
+awayTeam: "맨시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png"
+homeAnalysis: "크리스탈 팰리스는 2026시즌 전체 DB에서 최근 15경기 6승 4무 5패, 평균 득점 1.4를 기록하며 공격과 수비의 균형을 꾸준히 맞춰가고 있습니다. 시즌 초반 리그순위는 16위로 다소 낮지만, 득실이 0-2로 크게 무너지지 않아 반등의 여지는 충분해 보입니다. 최근 결과를 보면 에버턴과 프라이부르크전 연패로 흔들렸지만, 풀럼 원정 승리와 알 울라, 스윈던전 승리처럼 득점이 열릴 때는 경기를 주도하는 힘도 보여주고 있습니다. 홈에서는 3백 기반의 안정적인 구조 속에서 딘 헨더슨의 선방과 장 필리프 마테타의 마무리가 경기 흐름을 바꾸는 축으로 작용하고 있습니다. 특히 드와이트 맥닐과 다이치 가마다가 2선에서 연결을 잘 만들어주면, 수비 부담이 큰 상위권 팀 상대로도 충분히 맞설 수 있는 전력이 보입니다."
+awayAnalysis: "맨시티는 2026시즌 전체 DB에서 최근 10경기 5승 4무 1패, 평균 득점 1.6으로 여전히 높은 완성도를 유지하고 있습니다. 현재 리그순위 8위이며 득실 2-1로 출발은 나쁘지 않지만, 아스널 원정 패배처럼 강한 상대를 만나면 흐름이 잠시 끊길 수 있는 모습도 확인됩니다. 그럼에도 보루시아 도르트문트전이 아닌 최근 일정에서도 연속 득점을 이어가며, 경기당 1.6득점 수준의 화력이 쉽게 꺼지지 않는 점이 돋보입니다. 제레미 도쿠의 이탈은 측면 폭발력을 조금 덜어내지만, 엘링 홀란과 필 포든이 중심을 잡는 구조는 여전히 상대 수비를 강하게 압박할 수 있습니다. 수비 쪽에서도 루벤 디아스와 요슈코 그바르디올이 버티는 축이 분명해서, 원정에서도 경기 장악력을 이어갈 가능성이 높아 보입니다."
+homePower: "리그순위보다 전력 응집력이 더 빨리 살아날 여지 있음|마테타 중심의 마무리 효율이 승부 변수로 작용함|3백 구조가 강한 상대에도 공간 관리에 도움됨|맥닐-가마다 2선 연결 시 전개 속도 살아남|홈에서 초반 실점만 막으면 반격 구도 만들기 쉬움"
+awayPower: "리그순위 대비 공격 전개 완성도가 빠르게 회복되는 중임|홀란 중심의 박스 장악력이 가장 큰 무기임|포든 가세로 2선 마무리 패턴 다양성 높아짐|도쿠 공백에도 측면 압박 강도는 충분히 유지됨|디아스-그바르디올 축으로 후방 안정감 검증됨"
+h2h: '[{"date":"26.05.14","home":"맨시티","away":"크리스탈 팰리스","score":"3-0"},{"date":"25.12.14","home":"크리스탈 팰리스","away":"맨시티","score":"0-3"},{"date":"25.05.18","home":"크리스탈 팰리스","away":"맨시티","score":"1-0"},{"date":"25.04.12","home":"맨시티","away":"크리스탈 팰리스","score":"5-2"},{"date":"24.12.08","home":"크리스탈 팰리스","away":"맨시티","score":"2-2"}]'
+summary: "맨시티는 리그순위 8위와 득실 2-1에서 보이듯 전력의 기준점이 분명하고, 최근 10경기 5승 4무 1패 흐름까지 더해져 전체적인 안정감이 더 높아 보입니다. 크리스탈 팰리스도 최근 15경기 6승 4무 5패와 평균 득점 1.4로 쉽게 무너지지 않는 흐름을 갖고 있지만, 리그순위 16위라는 출발점이 보여주듯 상위권 전력과의 간격은 아직 남아 있습니다. 맞대결 흐름에서도 맨시티가 대체로 우세를 이어왔고, 팰리스가 한 차례 승리를 거둔 적은 있어도 전체적인 상성은 원정 쪽이 더 유리하게 읽힙니다. 그래서 경기 주도권은 맨시티가 쥘 가능성이 높고, 팰리스는 홈에서 수비 집중력과 역습 완성도를 얼마나 끌어올리느냐가 관건으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Chadi Riad (무릎 부상)"
+injuryAway: "Jérémy Doku (종아리 부상)"
+homeLineup: '["Dean Henderson (GK)|https://images.fotmob.com/image_resources/playerimages/719330.png","Jaydee Canvot (DF)|https://images.fotmob.com/image_resources/playerimages/1664722.png","Chris Richards (DF)|https://images.fotmob.com/image_resources/playerimages/950829.png","Óscar Mingueza (MF)|https://images.fotmob.com/image_resources/playerimages/952095.png","Daniel Muñoz (MF)|https://images.fotmob.com/image_resources/playerimages/859282.png","Adam Wharton (MF)|https://images.fotmob.com/image_resources/playerimages/1296650.png","Daichi Kamada (MF)|https://images.fotmob.com/image_resources/playerimages/621515.png","Tyrick Mitchell (MF)|https://images.fotmob.com/image_resources/playerimages/1120224.png","Dwight McNeil (FW)|https://images.fotmob.com/image_resources/playerimages/939542.png","Edward Nketiah (MF)|https://images.fotmob.com/image_resources/playerimages/860920.png","Jean-Philippe Mateta (FW)|https://images.fotmob.com/image_resources/playerimages/706297.png"]'
+awayLineup: '["Gianluigi Donnarumma (GK)|https://images.fotmob.com/image_resources/playerimages/618878.png","Rico Lewis (DF)|https://images.fotmob.com/image_resources/playerimages/1288450.png","Abdukodir Khusanov (DF)|https://images.fotmob.com/image_resources/playerimages/1362998.png","Rúben Dias (DF)|https://images.fotmob.com/image_resources/playerimages/614006.png","Josko Gvardiol (DF)|https://images.fotmob.com/image_resources/playerimages/1070712.png","Mateo Kovacic (MF)|https://images.fotmob.com/image_resources/playerimages/239219.png","Marc Guéhi (DF)|https://images.fotmob.com/image_resources/playerimages/844425.png","Phil Foden (MF)|https://images.fotmob.com/image_resources/playerimages/815006.png","Nico O’Reilly (DF)|https://images.fotmob.com/image_resources/playerimages/1300526.png","Antoine Semenyo (FW)|https://images.fotmob.com/image_resources/playerimages/933576.png","Erling Haaland (FW)|https://images.fotmob.com/image_resources/playerimages/737066.png"]'
+homeFormation: "3-4-2-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Pierre Sage|https://images.fotmob.com/image_resources/playerimages/1586853.png"
+awayCoach: "Enzo Maresca|https://images.fotmob.com/image_resources/playerimages/34000.png"
+pickWinTeam: "맨시티"
+pickWinResult: "승"
+pickHandicapTeam: "맨시티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

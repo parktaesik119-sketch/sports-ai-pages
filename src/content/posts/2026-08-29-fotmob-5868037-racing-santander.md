@@ -1,0 +1,37 @@
+---
+title: "레이싱 산탄데르 vs 엘체 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | 라리가 - 픽천국"
+date: 2026-08-28T17:00:00.000Z
+description: "레이싱 산탄데르 vs 엘체 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868037-2026-08-29-racing-santander"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "레이싱 산탄데르"
+awayTeam: "엘체"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8696.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png"
+homeAnalysis: "레이싱 산탄데르는 2026시즌 최근 14경기에서 5승 5무 4패, 평균 득점 1.6으로 안정적인 득점 흐름을 보여주고 있습니다. 최근에는 헤타페전 패배와 비야레알전 무승부처럼 강한 상대로 버티는 장면도 있었고, 스포르팅 히혼전 4득점 승리처럼 공격이 터질 때 확실히 분위기를 가져오는 모습도 보였습니다. 홈에서는 알라베스전, 비야레알전처럼 실점을 허용하면서도 득점으로 응수하는 장면이 많아 전방 압박과 빠른 전개가 잘 살아납니다. 이냐키 비센테와 아시에르 빌리브레, 세르히오 카날레스가 함께 움직이는 구조는 찬스 생산에서 분명한 강점으로 평가됩니다. 다만 최근 일정에서는 수비 집중력이 흔들릴 때가 있어, 홈에서 주도권을 잡더라도 실점 관리가 승부의 핵심이 될 가능성이 높습니다."
+awayAnalysis: "엘체는 2026시즌 최근 10경기에서 3승 5무 2패, 평균 득점 1.2로 큰 폭의 패배는 적지만 마무리에서 다소 아쉬운 흐름이 이어지고 있습니다. 최근 바르셀로나전 0득점 대패와 데포르티보전 무승부를 보면, 강한 압박을 받는 경기에서는 전진 패스의 질이 떨어지는 편입니다. 그래도 이 경기에서는 마티아스 디투로가 버티는 골문 앞 안정감과 함께, 페르 니뇨와 테테 모렌테가 전방에서 버팀목 역할을 해 줄 수 있습니다. 원정에서는 점유를 길게 가져가기보다 중원 숫자를 활용해 흐름을 끊고 버티는 양상이 더 자연스럽게 보입니다. 다만 최근 득점 생산이 매끄럽지 않아, 초반에 실점하면 경기를 다시 뒤집는 힘은 다소 제한적으로 평가됩니다."
+homePower: "홈 득점 루트가 다양한 편이라 예측이 어려움|이냐키 비센테 중심 측면 전개가 활발함|아시에르 빌리브레 제공권 활용도가 높음|세르히오 카날레스가 중원 완급을 조절함|실점 억제보다 득점 상쇄 능력이 더 두드러짐"
+awayPower: "마티아스 디투로의 선방 의존도가 높음|페르 니뇨 중심 역습 전개가 핵심임|테테 모렌테가 전환 속도에 힘을 보탬|중원 숫자로 템포를 끊는 운영이 가능함|득점 효율은 낮지만 버티는 힘은 확인됨"
+h2h: '[{"date":"25.03.03","home":"레이싱 산탄데르","away":"엘체","score":"2-0"},{"date":"24.12.20","home":"엘체","away":"레이싱 산탄데르","score":"3-0"},{"date":"24.05.05","home":"레이싱 산탄데르","away":"엘체","score":"3-1"},{"date":"23.09.03","home":"엘체","away":"레이싱 산탄데르","score":"1-1"},{"date":"20.07.05","home":"레이싱 산탄데르","away":"엘체","score":"1-2"}]'
+summary: "레이싱 산탄데르는 최근 14경기에서 더 높은 득점 생산력을 바탕으로 공격 주도권을 잡을 가능성이 크고, 엘체는 최근 10경기에서 버티는 힘은 보여도 화력 면에서는 한 단계 약해 보입니다. 레이싱 산탄데르가 홈에서 공격 전개를 살릴 경우 엘체의 수비 부담이 커질 수 있고, 특히 최근 맞대결에서도 레이싱 산탄데르가 홈에서 강세를 보인 장면이 확인됩니다. 다만 엘체도 원정에서 쉽게 무너지지 않는 흐름을 갖고 있어 초반 실점만 피하면 경기 균형을 상당 부분 유지할 수 있습니다. 전체적으로는 레이싱 산탄데르가 전력과 최근 흐름에서 조금 더 앞서 있으며, 경기 운영의 안정감까지 감안하면 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Pedro Felipe (허벅지 부상)"
+injuryAway: "Yago Santiago (무릎 부상)|Adam Boayar (근육 부상)"
+homeLineup: '["Julen Agirrezabala (GK)|https://images.fotmob.com/image_resources/playerimages/1280020.png","Álvaro Mantilla (DF)|https://images.fotmob.com/image_resources/playerimages/1199649.png","Manu (DF)|https://images.fotmob.com/image_resources/playerimages/863169.png","Pablo Ramón (DF)|https://images.fotmob.com/image_resources/playerimages/982734.png","Jorge Salinas (DF)|https://images.fotmob.com/image_resources/playerimages/1670161.png","Sergio Martínez (MF)|https://images.fotmob.com/image_resources/playerimages/1791769.png","Gustavo Puerta (MF)|https://images.fotmob.com/image_resources/playerimages/1331597.png","Andrés Martin (FW)|https://images.fotmob.com/image_resources/playerimages/899195.png","Sergio Canales (MF)|https://images.fotmob.com/image_resources/playerimages/150649.png","Iñigo Vicente (FW)|https://images.fotmob.com/image_resources/playerimages/889229.png","Asier Villalibre (FW)|https://images.fotmob.com/image_resources/playerimages/670031.png"]'
+awayLineup: '["Matías Dituro (GK)|https://images.fotmob.com/image_resources/playerimages/592412.png","David Affengruber (DF)|https://images.fotmob.com/image_resources/playerimages/1073980.png","Federico Redondo (MF)|https://images.fotmob.com/image_resources/playerimages/1277343.png","Víctor Chust (DF)|https://images.fotmob.com/image_resources/playerimages/1192393.png","Buba Sangaré (DF)|https://images.fotmob.com/image_resources/playerimages/1583872.png","Tete Morente (FW)|https://images.fotmob.com/image_resources/playerimages/801213.png","Gonzalo Villar (MF)|https://images.fotmob.com/image_resources/playerimages/881773.png","Marc Aguado (MF)|https://images.fotmob.com/image_resources/playerimages/1392232.png","Germán Valera (MF)|https://images.fotmob.com/image_resources/playerimages/1102708.png","Ali Houary (MF)|https://images.fotmob.com/image_resources/playerimages/1670281.png","Fer Niño (FW)|https://images.fotmob.com/image_resources/playerimages/1127224.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "3-5-2"
+homeCoach: "José López|https://images.fotmob.com/image_resources/playerimages/1145162.png"
+awayCoach: "Martín Anselmi|https://images.fotmob.com/image_resources/playerimages/1327712.png"
+pickWinTeam: "레이싱 산탄데르"
+pickWinResult: "승"
+pickHandicapTeam: "레이싱 산탄데르"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

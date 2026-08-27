@@ -1,0 +1,37 @@
+---
+title: "두산 베어스 vs 키움 히어로즈 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | KBO - 픽천국"
+date: 2026-08-28T09:30:00.000Z
+description: "두산 베어스 vs 키움 히어로즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260828WOOB02026-2026-08-28-doosan-bears"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "두산 베어스"
+awayTeam: "키움 히어로즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+homeAnalysis: "두산 베어스는 2026시즌 최근 88경기에서 48승 3무 37패로 승률이 안정적이고, 평균 득점 4.7점을 기록하며 시즌 전체 흐름이 탄탄한 편입니다. 최근에도 10경기 기준 5승 5패로 기복은 있으나, KT 위즈전과 롯데 자이언츠전에서 승리를 거두며 공격 생산력은 꾸준히 유지되고 있습니다. 특히 양의지와 김민석, 박찬호로 이어지는 중심 타선의 무게감이 살아 있고, 상위 타선에서 출루와 연결이 잘 이뤄질 때 득점이 자연스럽게 쌓이는 모습입니다. 홈 경기에서는 강한 타격을 바탕으로 경기 주도권을 잡는 장면이 자주 보이며, 수비에서도 큰 흔들림 없이 실점을 관리하는 편입니다. 다만 최근 경기에서는 한 번 흐름이 끊기면 실점이 함께 늘어나는 장면도 보여서, 초반부터 집중력을 유지하는 것이 중요해 보입니다."
+awayAnalysis: "키움 히어로즈는 2026시즌 최근 93경기에서 34승 2무 57패로 전반적인 전력이 열세이며, 평균 득점 4.0점으로 공격 쪽의 폭발력이 다소 제한적입니다. 최근 10경기에서도 3승 1무 6패로 흐름이 무겁고, 실점이 커지는 경기와 접전에서 버티지 못하는 경향이 함께 나타나고 있습니다. 다만 서건창, 데이비슨, 김건희가 포함된 상위 타선은 한 번 몰아칠 때 득점 연결이 가능해, 초반에 기세를 잡으면 의외성을 만들 여지는 있습니다. 반대로 하위 타선은 무게감이 떨어져 공격 흐름이 끊기는 경우가 잦고, 원정에서는 이 약점이 더 두드러져 보입니다. 부상자 공백까지 겹쳐 타선의 연속성이 흔들릴 가능성이 있어, 초반 투수전으로 버티는 전개가 아니면 부담이 커질 수 있습니다."
+homePower: "상위 타선 출루 뒤 중심타선 장타 연결이 강점임|양의지 중심의 타점 생산력, 결정력 우위가 뚜렷함|홈에서 공격 템포가 살아나면 대량 득점 가능성 높음|최근 실점 변동성은 있으나 득실 균형은 양호함|키움 상대로 최근 상성 우위가 반복 확인됨"
+awayPower: "상위 타선 의존도가 높아 흐름 차단 시 급격히 약화됨|서건창과 데이비슨이 공격의 출발점으로 중요함|하위 타선 생산력 저하로 장기 이닝 공략이 부담됨|부상자 공백으로 외야 뎁스와 마무리 응집력 약화됨|접전보다 선취점 확보 시도가 더 필요한 구조임"
+h2h: '[{"date":"26.07.05","home":"키움 히어로즈","away":"두산 베어스","score":"1-8","link":"https://pick79.com/posts/detail/analyze-181832-2026-07-05-kiwoom-heroes/"},{"date":"26.07.04","home":"키움 히어로즈","away":"두산 베어스","score":"5-8","link":"https://pick79.com/posts/detail/analyze-181830-2026-07-04-kiwoom-heroes/"},{"date":"26.07.03","home":"키움 히어로즈","away":"두산 베어스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-181823-2026-07-03-kiwoom-heroes/"},{"date":"26.06.07","home":"두산 베어스","away":"키움 히어로즈","score":"1-4","link":"https://pick79.com/posts/detail/analyze-181716-2026-06-07-doosan-bears/"},{"date":"26.06.06","home":"두산 베어스","away":"키움 히어로즈","score":"9-1","link":"https://pick79.com/posts/detail/analyze-181707-2026-06-06-doosan-bears/"}]'
+summary: "두산 베어스는 2026시즌 전체 성적과 최근 흐름 모두에서 키움 히어로즈보다 한 단계 위의 전력을 보여주고 있습니다. 특히 득점 생산력과 중심 타선의 무게감, 그리고 키움전 상대전적에서 확인된 우세가 함께 맞물리면서 경기 운영에서 더 안정적인 쪽은 두산 베어스로 보입니다. 키움 히어로즈는 최근 득점 변동이 크고 결장자 공백까지 겹쳐 장기적으로 버티는 힘이 떨어지는 편이라, 전체적인 균형에서는 두산 베어스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.26","home":"KT 위즈","away":"두산 베어스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826OBKT02026-2026-08-26-kt-wiz-suwon/"},{"date":"26.08.25","home":"KT 위즈","away":"두산 베어스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825OBKT02026-2026-08-25-kt-wiz-suwon/"},{"date":"26.08.23","home":"두산 베어스","away":"롯데 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LTOB02026-2026-08-23-doosan-bears/"},{"date":"26.08.21","home":"두산 베어스","away":"롯데 자이언츠","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821LTOB02026-2026-08-21-doosan-bears/"},{"date":"26.08.20","home":"NC 다이노스","away":"두산 베어스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820OBNC02026-2026-08-20-nc-dinos/"}]'
+awayRecent: '[{"date":"26.08.26","home":"키움 히어로즈","away":"삼성 라이온스","score":"2-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826SSWO02026-2026-08-26-kiwoom-heroes/"},{"date":"26.08.25","home":"키움 히어로즈","away":"삼성 라이온스","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825SSWO02026-2026-08-25-kiwoom-heroes/"},{"date":"26.08.23","home":"키움 히어로즈","away":"KIA 타이거즈","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823HTWO02026-2026-08-23-kiwoom-heroes/"},{"date":"26.08.22","home":"키움 히어로즈","away":"KIA 타이거즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260822HTWO02026-2026-08-22-kiwoom-heroes/"},{"date":"26.08.21","home":"키움 히어로즈","away":"KIA 타이거즈","score":"1-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821HTWO02026-2026-08-21-kiwoom-heroes/"}]'
+injuryHome: "없음"
+injuryAway: "임병욱 (부상)|임지열 (부상)|김성민 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "두산 베어스"
+pickWinResult: "승"
+pickHandicapTeam: "두산 베어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

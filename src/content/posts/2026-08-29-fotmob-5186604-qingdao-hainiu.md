@@ -1,0 +1,37 @@
+---
+title: "칭다오 하이뉴 vs 우한 쓰리 타운즈 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | Super League - 픽천국"
+date: 2026-08-29T09:00:00.000Z
+description: "칭다오 하이뉴 vs 우한 쓰리 타운즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186604-2026-08-29-qingdao-hainiu"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "칭다오 하이뉴"
+awayTeam: "우한 쓰리 타운즈"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4183.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1029687.png"
+homeAnalysis: "칭다오 하이뉴는 2026시즌 최근 19경기에서 3승 3무 13패로 어려움을 겪고 있고, 평균 득점 1.3의 흐름도 공격 쪽 폭발력이 크지 않음을 보여주고 있습니다. 최근 경기에서도 상위권 팀들을 상대로 실점이 이어지며 수비 안정감이 흔들리는 모습이 뚜렷했고, 홈에서도 쉽게 경기를 잠그지 못하는 장면이 자주 나왔습니다. 다만 우한 쓰리 타운즈를 상대로는 강하게 맞서는 상성이 분명하게 드러난 편이라, 빠른 전환과 직선적인 공격이 살아나면 충분히 기회를 만들 수 있습니다. 야야 예보아, 카를로스 스트란드베리, 신위 류가 앞선에서 마무리를 책임지는 구조라서 초반 한 번의 흐름을 잡는 것이 중요해 보입니다. 밀란 리스티치 감독 체제에서는 수비 라인을 얼마나 정돈하느냐가 승부의 핵심으로 읽힙니다."
+awayAnalysis: "우한 쓰리 타운즈는 2026시즌 최근 17경기에서 2승 11무 4패를 기록하며, 쉽게 무너지지는 않지만 승부를 끝내는 힘이 다소 부족한 흐름입니다. 평균 득점 1.3 수준에서 버티는 경기가 많았고, 최근에도 무실점이나 한 골 차 접전이 자주 나와 경기 운영은 안정적이지만 결정력에서는 아쉬움이 남습니다. 다만 원정에서도 수비 조직이 크게 흔들리지는 않아서, 상대가 먼저 몰아칠 때 버티고 역습으로 응수하는 장면은 충분히 기대할 수 있습니다. 지혼더 카디스와 킬리안 베비스, 구스타보 사우어가 전방에서 연결 고리를 잘 만들어 주면 득점 기대값은 올라갈 수 있습니다. 주오샹 덩 감독이 짜는 4-4-2 구조 안에서 중원 압박과 전방 효율이 결과를 가를 가능성이 높습니다."
+homePower: "우한 쓰리 타운즈 상대로 최근 상성 우위가 선명함|직선적인 전개가 상대 수비를 흔드는 구조임|야야 예보아 측면 돌파가 반격의 핵심임|카를로스 스트란드베리 마무리 존재감이 큼|실점 억제가 되면 홈 승부 가능성 높아짐"
+awayPower: "칭다오 하이뉴 상대로 최근 상성 열세가 뚜렷함|무승부가 많아 경기 장악보다 버티는 힘이 강점임|지혼더 카디스의 결정력이 승부 변수임|중원 안정은 있으나 마무리 효율이 아쉬움|한 골 싸움으로 끌고 가야 가능성 살아남"
+h2h: '[{"date":"26.05.06","home":"우한 쓰리 타운즈","away":"칭다오 하이뉴","score":"1-3","link":"https://pick79.com/posts/detail/analyze-1523135-2026-05-06-wuhan-three-towns/"},{"date":"25.11.02","home":"칭다오 하이뉴","away":"우한 쓰리 타운즈","score":"1-0"},{"date":"25.06.13","home":"우한 쓰리 타운즈","away":"칭다오 하이뉴","score":"2-0"},{"date":"24.09.15","home":"칭다오 하이뉴","away":"우한 쓰리 타운즈","score":"1-1"},{"date":"24.05.05","home":"우한 쓰리 타운즈","away":"칭다오 하이뉴","score":"1-0"}]'
+summary: "칭다오 하이뉴는 시즌 전체 흐름이 좋지 않지만, 우한 쓰리 타운즈를 상대로는 맞대결에서 분명한 우위를 보여 왔습니다. 우한 쓰리 타운즈는 전체 전력에서 더 안정적인 편이지만, 득점 마무리가 매끄럽지 않아 경기를 쉽게 끝내지 못하는 모습이 이어지고 있습니다. 그래서 이번 경기는 홈팀의 상성 우위와 원정팀의 답답한 마무리가 맞물리면서 칭다오 하이뉴 쪽 기대감이 조금 더 높게 형성됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Pengfei Mu (GK)|https://images.fotmob.com/image_resources/playerimages/258150.png","Hailong Li (DF)|https://images.fotmob.com/image_resources/playerimages/768633.png","Nemanja Andjelkovic (DF)|https://images.fotmob.com/image_resources/playerimages/1173766.png","Junshuai Liu (DF)|https://images.fotmob.com/image_resources/playerimages/825229.png","Suda Li (DF)|https://images.fotmob.com/image_resources/playerimages/1529485.png","Yaw Yeboah (FW)|https://images.fotmob.com/image_resources/playerimages/644001.png","Chuangyi Lin (MF)|https://images.fotmob.com/image_resources/playerimages/433035.png","Malcom Edjouma (MF)|https://images.fotmob.com/image_resources/playerimages/900576.png","Yonghao Jin (MF)|https://images.fotmob.com/image_resources/playerimages/1661152.png","Carlos Strandberg (FW)|https://images.fotmob.com/image_resources/playerimages/455620.png","Xinyu Liu (FW)|https://images.fotmob.com/image_resources/playerimages/892859.png"]'
+awayLineup: '["Jingqi Fang (GK)|https://images.fotmob.com/image_resources/playerimages/467590.png","Tian Ming (DF)|https://images.fotmob.com/image_resources/playerimages/1026521.png","Guan He (DF)|https://images.fotmob.com/image_resources/playerimages/536591.png","Ang Li (DF)|https://images.fotmob.com/image_resources/playerimages/526201.png","Haofeng Xu (DF)|https://images.fotmob.com/image_resources/playerimages/1171149.png","Antoine Léautey (MF)|https://images.fotmob.com/image_resources/playerimages/795285.png","Xiaobin Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/530922.png","Adriano (MF)|https://images.fotmob.com/image_resources/playerimages/1071102.png","Kilian Bevis (FW)|https://images.fotmob.com/image_resources/playerimages/1553642.png","Gustavo Sauer (MF)|https://images.fotmob.com/image_resources/playerimages/676447.png","Jhonder Cádiz (FW)|https://images.fotmob.com/image_resources/playerimages/523414.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-4-2"
+homeCoach: "Milan Ristic|https://images.fotmob.com/image_resources/playerimages/1357107.png"
+awayCoach: "Zhuoxiang Deng|https://images.fotmob.com/image_resources/playerimages/79251.png"
+pickWinTeam: "칭다오 하이뉴"
+pickWinResult: "승"
+pickHandicapTeam: "칭다오 하이뉴"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

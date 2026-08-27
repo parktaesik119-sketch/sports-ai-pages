@@ -1,0 +1,37 @@
+---
+title: "화성 FC vs 청주 FC 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | K2 - 픽천국"
+date: 2026-08-29T10:30:00.000Z
+description: "화성 FC vs 청주 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155892-2026-08-29-hwaseong-fc"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "화성 FC"
+awayTeam: "청주 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/739800.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/833651.png"
+homeAnalysis: "화성 FC는 2026시즌 최근 15경기에서 5승 3무 7패를 기록하며 평균 득점 1.5를 올리고 있어, 공격에서 한 번 흐름을 타면 득점 생산력이 분명히 살아나는 모습입니다. 다만 최근에는 득점이 나지 않은 경기와 다득점 경기가 함께 섞여 있어, 전방 완성도는 좋지만 경기별 기복이 함께 보입니다. 홈에서는 공격적으로 나서는 장면이 많고, 레오나르드 플라나와 김병오, 제갈재민으로 이어지는 전방 조합이 박스 안에서 힘을 보태는 구성이 돋보입니다. 차두리 감독 체제에서는 3-4-3 전형을 바탕으로 측면 전개와 전방 압박을 함께 활용하는 흐름이 읽히며, 이런 구조가 잡히면 득점 기대치가 높아집니다. 다만 실점도 적지 않아 수비 집중력이 유지되지 않으면 경기 운영이 흔들릴 수 있는 점은 주의가 필요합니다."
+awayAnalysis: "청주 FC는 2026시즌 최근 17경기에서 5승 8무 4패를 기록하며 평균 득점 1.3을 남기고 있어, 쉽게 무너지지 않는 전력과 함께 득점 효율을 꾸준히 찾는 흐름이 보입니다. 최근에는 무실점이나 저득점 경기보다 접전 양상이 더 자주 나타나면서, 경기마다 수비 밸런스를 먼저 세운 뒤 공격을 풀어가는 모습이 드러납니다. 원정에서는 라파엘 반데이라와 조유성, 조윤성이 뒤를 받치고, 전방의 메더르 가르시아와 이종언이 마무리를 책임지는 구조가 눈에 띕니다. 루이 퀸타 감독의 4-3-3은 중원 숫자를 안정적으로 가져가며 측면 자원을 활용하기 좋고, 상대 흐름을 끊는 데 강점이 있습니다. 다만 득점이 폭발적으로 터지는 타입은 아니어서, 앞선 압박이 늦어지면 공격 전환이 답답해질 수 있습니다."
+homePower: "레오나르드 플라나 중심의 전방 파괴력 보임|3-4-3 구조로 측면 압박 효율 높음|김병오-제갈재민 조합, 박스 안 마무리 기대됨|실점 관리가 흔들리면 흐름 급변 가능성 있음|홈에서 전개 속도 살아나면 주도권 확보 가능함"
+awayPower: "메더르 가르시아, 결정력 변수의 핵심임|4-3-3으로 중원 균형 유지가 쉬운 편임|라파엘 반데이라 중심 후방 안정감 보임|원정에서도 버티는 힘이 꾸준히 확인됨|저득점 접전에서 운영 능력 돋보임"
+h2h: '[{"date":"26.05.23","home":"청주 FC","away":"화성 FC","score":"2-3","link":"https://pick79.com/posts/detail/analyze-1510341-2026-05-23-cheongju/"},{"date":"25.10.11","home":"화성 FC","away":"청주 FC","score":"1-0"},{"date":"25.08.16","home":"청주 FC","away":"화성 FC","score":"1-1"},{"date":"25.03.15","home":"화성 FC","away":"청주 FC","score":"2-1"},{"date":"22.09.25","home":"화성 FC","away":"청주 FC","score":"1-0"}]'
+summary: "화성 FC는 최근 15경기에서 5승 3무 7패로 기복은 있지만 평균 득점 1.5를 바탕으로 공격적인 장면을 꾸준히 만들고 있습니다. 청주 FC는 최근 17경기에서 5승 8무 4패, 평균 득점 1.3으로 더 안정적인 흐름을 보이지만, 득점 폭발력에서는 화성 FC보다 한 걸음 덜 강합니다. 맞대결에서는 화성 FC가 최근 우위를 이어온 흐름이 분명하고, 이번 경기도 화성 FC가 전방 압박과 마무리에서 조금 더 앞설 가능성이 높습니다. 전체 전력과 상성을 함께 보면 화성 FC 쪽 기대감이 더 높게 잡힙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Kim Seung-Gun (GK)|https://images.fotmob.com/image_resources/playerimages/1836775.png","Park Jun-Seo (DF)|https://images.fotmob.com/image_resources/playerimages/1437331.png","Aleksandar Vojnovic (DF)|https://images.fotmob.com/image_resources/playerimages/1051094.png","Jang Min-Jun (DF)|https://images.fotmob.com/image_resources/playerimages/1233064.png","Kim Dae-Hwan (MF)|https://images.fotmob.com/image_resources/playerimages/1375562.png","Park Jae-Seong (MF)|https://images.fotmob.com/image_resources/playerimages/1836776.png","Kim Jung-Min (MF)|https://images.fotmob.com/image_resources/playerimages/926408.png","Park Kyung-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1026759.png","Leonard Pllana (FW)|https://images.fotmob.com/image_resources/playerimages/726274.png","Kim Byong-Oh (FW)|https://images.fotmob.com/image_resources/playerimages/637922.png","Jegal Jae-Min (FW)|https://images.fotmob.com/image_resources/playerimages/1232214.png"]'
+awayLineup: '["Lee Seung-Hwan (GK)|https://images.fotmob.com/image_resources/playerimages/1337180.png","Rafael Bandeira (DF)|https://images.fotmob.com/image_resources/playerimages/1177746.png","Jo Ju-Yeong (DF)|https://images.fotmob.com/image_resources/playerimages/730786.png","Jo Yun-Seong (DF)|https://images.fotmob.com/image_resources/playerimages/1135941.png","Bak Keon-Woo (DF)|https://images.fotmob.com/image_resources/playerimages/1337179.png","Heo Seung-Chan (MF)|https://images.fotmob.com/image_resources/playerimages/1245841.png","Kim Seon-Min (MF)|https://images.fotmob.com/image_resources/playerimages/523742.png","Jeong Jin-Woo (MF)|https://images.fotmob.com/image_resources/playerimages/1439994.png","Seo Jae-Won (FW)|https://images.fotmob.com/image_resources/playerimages/1326550.png","Ménder García (FW)|https://images.fotmob.com/image_resources/playerimages/1024479.png","Lee Jong-Eon (FW)|https://images.fotmob.com/image_resources/playerimages/1562975.png"]'
+homeFormation: "3-4-3"
+awayFormation: "4-3-3"
+homeCoach: "Cha Du-Ri|https://images.fotmob.com/image_resources/playerimages/36034.png"
+awayCoach: "Rui Quinta|https://images.fotmob.com/image_resources/playerimages/586702.png"
+pickWinTeam: "화성 FC"
+pickWinResult: "승"
+pickHandicapTeam: "화성 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

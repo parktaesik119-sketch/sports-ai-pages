@@ -1,0 +1,37 @@
+---
+title: "드로에다 유나이티드 vs 던돌크 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | D1 - 픽천국"
+date: 2026-08-28T19:00:00.000Z
+description: "드로에다 유나이티드 vs 던돌크 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100954-2026-08-29-drogheda-united"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "드로에다 유나이티드"
+awayTeam: "던돌크"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8339.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1853.png"
+homeAnalysis: "드로에다 유나이티드는 2026시즌 최근 18경기에서 6승 6무 6패, 평균 득점 1.4로 균형 잡힌 흐름을 보여주고 있습니다. 최근에는 스탠더드한 실리축구가 살아나면서 강한 상대를 상대로도 쉽게 무너지지 않는 모습이 이어지고 있습니다. 특히 홈에서는 실점 억제력이 비교적 안정적으로 유지되고 있어, 경기 초반부터 버티는 힘이 돋보입니다. 다만 득점 면에서는 폭발력보다 효율성이 더 중요한 팀으로 보이며, 한 번 리드를 잡으면 운영이 단단해지는 편입니다. 제임스 볼저, 라이언 브레넌, 워런 데이비스가 중심축을 이루는 가운데, 크고 작은 결장 공백을 감안해도 전반적인 조직력은 크게 흔들리지 않는 편입니다."
+awayAnalysis: "던돌크는 2026시즌 최근 17경기에서 6승 5무 6패, 평균 득점 1.8로 공격 쪽 생산성이 드로에다 유나이티드보다 한층 더 선명합니다. 최근 흐름에서도 득점 기회를 만드는 힘은 유지되고 있어, 전방 압박과 빠른 전환에서 장점이 드러나고 있습니다. 다만 수비 쪽에서는 경기마다 흔들림이 섞여 있어, 한 번 리듬이 끊기면 실점으로 이어지는 장면이 적지 않습니다. 원정에서는 공격 템포를 유지하는 것이 중요하며, 다릴 호건과 트레버 클라크, 시안 딜런이 전개를 얼마나 매끄럽게 풀어주느냐가 관건입니다. 결장자가 많은 상황이라도 전체적인 공격 자원은 남아 있어, 초반 기세를 잡으면 충분히 득점 흐름을 만들 수 있는 전력입니다."
+homePower: "홈에서 실점 관리가 안정적인 편임|제임스 볼저 중심의 수비 조직력이 버팀목임|라이언 브레넌의 중원 연결이 경기 균형을 살림|워런 데이비스의 마무리 효율이 승부 변수임|득점 폭발보다 운영 완성도가 강점으로 보임"
+awayPower: "평균 득점 1.8의 공격 전개가 분명함|다릴 호건 활용 시 전방 압박이 살아남|트레버 클라크의 속도감이 반격의 핵심임|실점 변동이 있어도 득점 생산은 꾸준함|원정에서도 템포 유지 시 주도권 가능함"
+h2h: '[{"date":"26.07.11","home":"던돌크","away":"드로에다 유나이티드","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1492733-2026-07-11-dundalk/"},{"date":"26.05.23","home":"드로에다 유나이티드","away":"던돌크","score":"1-1","link":"https://pick79.com/posts/detail/analyze-1492702-2026-05-23-drogheda-united/"},{"date":"26.02.21","home":"던돌크","away":"드로에다 유나이티드","score":"1-1"},{"date":"24.11.02","home":"드로에다 유나이티드","away":"던돌크","score":"0-0"},{"date":"24.07.20","home":"드로에다 유나이티드","away":"던돌크","score":"2-1"}]'
+summary: "드로에다 유나이티드는 시즌 전력의 균형감이 좋고, 던돌크는 상대적으로 득점 생산력이 더 선명한 팀으로 보입니다. 다만 두 팀의 최근 맞대결에서는 드로에다 유나이티드가 한층 더 버티는 힘을 보여준 흐름이 확인되고 있어, 상성 면에서는 홈팀 쪽이 조금 더 편안합니다. 던돌크는 공격 전개에서 장점이 있지만 결장자가 많은 상황이 수비 안정감에 부담으로 이어질 가능성이 있고, 드로에다 유나이티드는 홈에서 실점 억제력을 바탕으로 경기 운영을 가져갈 가능성이 높습니다. 전체적으로는 박빙 양상이 예상되지만, 전력의 균형과 맞대결 흐름을 함께 보면 드로에다 유나이티드가 조금 더 우세한 경기로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Ethan O'Brien (근육 부상)|Owen Lambe (다리 부상)"
+injuryAway: "John Ross Wilson (근육 부상)|Tyreke Wilson (충돌 부상)|Harvey Warren (충돌 부상)|Danny Mullen (근육 부상)|Connor O'Keeffe (충돌 부상)|Conor Kearns (무릎 부상)|Norman Garbett (햄스트링 부상)"
+homeLineup: '["Luke Dennison (GK)|https://images.fotmob.com/image_resources/playerimages/1206824.png","Edwin Agbaje (DF)|https://images.fotmob.com/image_resources/playerimages/1420125.png","Conor Keeley (DF)|https://images.fotmob.com/image_resources/playerimages/747264.png","James Bolger (DF)|https://images.fotmob.com/image_resources/playerimages/1661270.png","Jason Bucknor (MF)|https://images.fotmob.com/image_resources/playerimages/1730862.png","Shane Farrell (MF)|https://images.fotmob.com/image_resources/playerimages/936722.png","Ryan Brennan (MF)|https://images.fotmob.com/image_resources/playerimages/197572.png","Alfie Bates (MF)|https://images.fotmob.com/image_resources/playerimages/968919.png","Conor Kane (DF)|https://images.fotmob.com/image_resources/playerimages/825812.png","Thomas Oluwa (FW)|https://images.fotmob.com/image_resources/playerimages/1032781.png","Warren Davis (FW)|https://images.fotmob.com/image_resources/playerimages/1441589.png"]'
+awayLineup: '["Enda Minogue (GK)|https://images.fotmob.com/image_resources/playerimages/952037.png","Tom Grivosti (DF)|https://images.fotmob.com/image_resources/playerimages/972031.png","Robert Cornwall (DF)|https://images.fotmob.com/image_resources/playerimages/433825.png","Mayowa Animasahun (DF)|https://images.fotmob.com/image_resources/playerimages/1250503.png","Ronan Teahan (MF)|https://images.fotmob.com/image_resources/playerimages/1664590.png","Keith Buckley (MF)|https://images.fotmob.com/image_resources/playerimages/253259.png","Aodh Dervin (MF)|https://images.fotmob.com/image_resources/playerimages/843941.png","Bobby Burns (DF)|https://images.fotmob.com/image_resources/playerimages/873002.png","Daryl Horgan (FW)|https://images.fotmob.com/image_resources/playerimages/253356.png","Cian Dillon (FW)|https://images.fotmob.com/image_resources/playerimages/1612455.png","Trevor Clarke (FW)|https://images.fotmob.com/image_resources/playerimages/730242.png"]'
+homeFormation: "3-5-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Kevin Doherty|https://images.fotmob.com/image_resources/playerimages/13895.png"
+awayCoach: "Ciarán Kilduff|https://images.fotmob.com/image_resources/playerimages/179457.png"
+pickWinTeam: "드로에다 유나이티드"
+pickWinResult: "승"
+pickHandicapTeam: "드로에다 유나이티드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
