@@ -1,0 +1,37 @@
+---
+title: "바이에른 뮌헨 vs 슈투트가르트 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | 분데스리가 - 픽천국"
+date: 2026-08-28T18:30:00.000Z
+description: "바이에른 뮌헨 vs 슈투트가르트 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5881143-2026-08-29-bayern-mnchen"
+category: "soccer"
+country: "독일"
+league: "분데스리가"
+homeTeam: "바이에른 뮌헨"
+awayTeam: "슈투트가르트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png"
+homeAnalysis: "바이에른 뮌헨은 2026시즌 최근 12경기에서 8승 2무 2패를 기록하며 평균 2.5득점을 올리고 있어, 전방 생산성과 경기 운영이 모두 안정적인 흐름입니다. 최근 들어 도르트문트 원정과 하이덴하임 원정에서도 승리를 챙기며 경기 주도권을 잃지 않는 모습이 이어지고 있습니다. 해리 케인, 마이클 올리세, 루이스 디아스가 버티는 공격 조합은 마무리 완성도가 높고, 조슈아 키미히와 알렉산다르 파블로비치가 중원을 정리해 주는 구조도 탄탄합니다. 다만 자말 무시알라와 세르주 그나브리의 이탈은 창의적인 전개와 측면 변속에서 아쉬움을 만들 수 있어 보입니다. 그럼에도 홈에서는 실점 억제와 점유 기반 압박이 잘 살아나고 있어, 이번 경기에서도 주도적인 전개가 이어질 가능성이 높습니다."
+awayAnalysis: "슈투트가르트는 2026시즌 최근 10경기에서 6승 2무 2패를 기록하며 평균 3.2득점을 올리고 있어, 공격 화력만 놓고 보면 상당히 위협적인 전력입니다. 최근 한사 로스토크 원정에서 4골 차 승리를 거두며 전방 압박과 속공 전환이 살아 있다는 점을 보여주었습니다. 티아고 토마스, 데니스 운다프, 빌랄 엘 카눈스 중심의 공격 조합은 득점 루트가 다양하고, 앙젤로 슈틸러가 중원에서 템포를 조절해 주는 점도 돋보입니다. 다만 크리스 퓌리히를 포함해 여러 주전급 전력이 빠져 있어, 공격의 섬세함과 후반 유지력이 다소 흔들릴 여지가 있습니다. 최근 원정에서 기복이 완전히 사라진 것은 아니지만, 빠른 전환과 세컨드볼 대응이 맞아떨어질 때는 충분히 위협적인 전력입니다."
+homePower: "해리 케인 중심의 박스 장악력이 매우 강함|키미히-파블로비치로 중원 안정감이 높음|홈에서 실점 억제와 점유 유지가 함께 살아 있음|무시알라 공백은 창의성 저하로 이어질 수 있음|최근 맞대결 우세가 심리적 자신감으로 연결됨"
+awayPower: "최근 공격 전개 속도와 마무리 감각이 좋음|운다프-토마스 조합의 직선적 위협이 큼|슈틸러 중심으로 중원 전진 패스가 살아 있음|주전 결장 누적으로 측면 완성도는 흔들릴 수 있음|원정에서도 다득점 가능성을 계속 보여줌"
+h2h: '[{"date":"26.05.24","home":"바이에른 뮌헨","away":"슈투트가르트","score":"3-0","link":"https://pick79.com/posts/detail/analyze-1542721-2026-05-24-bayern-mnchen/"},{"date":"26.04.20","home":"바이에른 뮌헨","away":"슈투트가르트","score":"4-2"},{"date":"25.12.06","home":"슈투트가르트","away":"바이에른 뮌헨","score":"0-5"},{"date":"25.08.17","home":"슈투트가르트","away":"바이에른 뮌헨","score":"1-2"},{"date":"25.03.01","home":"슈투트가르트","away":"바이에른 뮌헨","score":"1-3"}]'
+summary: "바이에른 뮌헨은 2026시즌 12경기 8승 2무 2패와 평균 2.5득점을 바탕으로 안정적인 우세 흐름을 이어가고 있습니다. 슈투트가르트도 10경기 6승 2무 2패, 평균 3.2득점으로 공격적인 힘이 분명하지만, 결장자 규모와 최근 맞대결 흐름을 함께 보면 바이에른 뮌헨 쪽 전력이 더 단단하게 보입니다. 특히 바이에른 뮌헨은 최근 맞대결에서 득점 우위를 자주 만들며 경기 흐름을 빠르게 가져가는 장면이 많았고, 이번에도 중원 장악과 전방 마무리에서 앞설 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Jamal Musiala (병)|Lennart Karl (근육 부상)|Serge Gnabry (허벅지 부상)"
+injuryAway: "Chris Führich (근육 부상)|Dennis Seimen (햄스트링 부상)|Dan-Axel Zagadou (햄스트링 부상)|Lorenz Assignon (어깨 부상)|Luca Jaquez (근육 부상)|Nikolas Nartey (근육 부상)|Jeremy Arévalo (등 부상)|Justin Diehl (허벅지 부상)|Leo Sauer (햄스트링 부상)"
+homeLineup: '["Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png","Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png","Jonathan Tah (DF)|https://images.fotmob.com/image_resources/playerimages/469700.png","Min-Jae Kim (DF)|https://images.fotmob.com/image_resources/playerimages/828159.png","Josip Stanisic (DF)|https://images.fotmob.com/image_resources/playerimages/950824.png","Joshua Kimmich (MF)|https://images.fotmob.com/image_resources/playerimages/460632.png","Aleksandar Pavlovic (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png","Michael Olise (FW)|https://images.fotmob.com/image_resources/playerimages/1029063.png","Nathaniel Brown (DF)|https://images.fotmob.com/image_resources/playerimages/1395447.png","Luis Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/860914.png","Harry Kane (FW)|https://images.fotmob.com/image_resources/playerimages/194165.png"]'
+awayLineup: '["Fabian Bredlow (GK)|https://images.fotmob.com/image_resources/playerimages/522236.png","Josha Vagnoman (DF)|https://images.fotmob.com/image_resources/playerimages/928454.png","Finn Jeltsch (DF)|https://images.fotmob.com/image_resources/playerimages/1487877.png","Jeff Chabot (DF)|https://images.fotmob.com/image_resources/playerimages/867080.png","Maximilian Mittelstädt (DF)|https://images.fotmob.com/image_resources/playerimages/614384.png","Grischa Prömel (MF)|https://images.fotmob.com/image_resources/playerimages/625175.png","Angelo Stiller (MF)|https://images.fotmob.com/image_resources/playerimages/1071186.png","Tiago Tomás (FW)|https://images.fotmob.com/image_resources/playerimages/1164506.png","Deniz Undav (FW)|https://images.fotmob.com/image_resources/playerimages/661519.png","Bilal El Khannouss (MF)|https://images.fotmob.com/image_resources/playerimages/1340895.png","Dzenan Pejcinovic (FW)|https://images.fotmob.com/image_resources/playerimages/1366602.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Vincent Kompany|https://images.fotmob.com/image_resources/playerimages/39027.png"
+awayCoach: "Sebastian Hoeneß|https://images.fotmob.com/image_resources/playerimages/36490.png"
+pickWinTeam: "바이에른 뮌헨"
+pickWinResult: "승"
+pickHandicapTeam: "바이에른 뮌헨"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "3"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

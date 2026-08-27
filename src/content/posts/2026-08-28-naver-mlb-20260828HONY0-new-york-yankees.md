@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (8월 28일) | MLB - 픽천국"
+date: 2026-08-27T23:05:00.000Z
+description: "뉴욕 양키즈 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260828HONY0-2026-08-28-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 최근 97경기에서 54승 4무 39패, 평균 득점 4.3으로 안정적인 상위권 전력을 보여주고 있습니다. 최근 10경기에서도 7승 3패, 평균 득점 4.9로 타선 흐름이 시즌 평균보다 한층 살아난 모습입니다. 직전 휴스턴 애스트로스전 9득점처럼 장타 생산이 터질 때 경기 주도권을 빠르게 잡는 힘이 돋보입니다. 다만 시즌 전체 흐름을 보면 득점은 꾸준하지만 실점 관리에서 완전히 여유로운 편은 아니어서, 수비 집중도가 경기 후반까지 유지되는지가 중요합니다. 홈에서는 전반적으로 공격 템포를 끌어올리기 쉽고, 상위 타선의 생산력이 맞물리면 경기 흐름을 안정적으로 가져가는 편입니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 최근 83경기에서 44승 1무 38패, 평균 득점 4.4를 기록하고 있어 시즌 전력 자체는 완전히 무너지지 않은 상태입니다. 그러나 최근 10경기에서는 3승 7패, 평균 득점 3.7로 흐름이 뚜렷하게 꺾여 있습니다. 최근 연패 구간에서는 득점이 묶이면서 수비 부담까지 커지는 장면이 이어졌고, 3득점 안팎에 머무는 경기들이 많아졌습니다. 리그순위 6위라는 위치를 생각하면 고점 대비 주춤한 흐름으로 보는 편이 자연스럽습니다. 다만 원정에서도 한 번 흐름을 타면 상위 타선을 앞세워 경기 초반부터 변수를 만들 수 있는 점은 여전히 강점입니다."
+homePower: "뉴욕 양키즈 타선은 최근 득점 변동폭이 크지만 상한선이 높음|휴스턴 애스트로스보다 결정적 한 방 생산력이 앞서는 흐름임|홈 경기에서 초반부터 점수 압박을 가하는 운영이 강점임|주요 결장자 영향에도 타선 응집력은 비교적 유지되는 모습임|후반 실점만 관리되면 주도권 유지 가능성이 높은 편임"
+awayPower: "휴스턴 애스트로스는 시즌 득점력은 유지되지만 최근 하락세가 뚜렷함|원정에서도 공격이 살아나면 접전으로 끌고 갈 수 있는 팀임|다만 최근 수비 흔들림이 커져 실점 억제가 과제로 보임|장기 결장자 공백으로 중심 타선 안정감이 약해진 상태임|초반 득점 실패 시 경기 운영이 급격히 무거워지는 편임"
+h2h: '[{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"},{"date":"26.08.26","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"7-9","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826HONY0-2026-08-26-new-york-yankees/"},{"date":"26.04.27","home":"휴스턴 애스트로스","away":"뉴욕 양키즈","score":"7-4","link":"https://pick79.com/posts/detail/analyze-178424-2026-04-27-houston-astros/"},{"date":"26.04.26","home":"휴스턴 애스트로스","away":"뉴욕 양키즈","score":"3-8","link":"https://pick79.com/posts/detail/analyze-178411-2026-04-26-houston-astros/"},{"date":"26.04.25","home":"휴스턴 애스트로스","away":"뉴욕 양키즈","score":"4-12"}]'
+summary: "뉴욕 양키즈는 시즌 전체 전력과 최근 상승 흐름이 함께 살아 있는 편이라, 현재 리그순위와 득실 차이까지 감안하면 한 수 위의 안정감을 보여주고 있습니다. 휴스턴 애스트로스는 시즌 성적 자체가 완전히 나쁜 것은 아니지만, 최근에는 득점력이 떨어지고 실점 부담이 커지면서 흐름이 무거워졌습니다. 상대전적에서도 뉴욕 양키즈가 앞서 있는 만큼, 경기 운영의 완성도와 타선 응집력에서 뉴욕 양키즈 쪽 우세가 더 분명하게 보입니다."
+homeRecent: '[{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"},{"date":"26.08.26","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826HONY0-2026-08-26-new-york-yankees/"},{"date":"26.08.24","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"8-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TONY0-2026-08-24-new-york-yankees/"},{"date":"26.08.23","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TONY0-2026-08-23-new-york-yankees/"},{"date":"26.08.22","home":"뉴욕 양키즈","away":"토론토 블루제이즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822TONY0-2026-08-22-new-york-yankees/"}]'
+awayRecent: '[{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"},{"date":"26.08.26","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"7-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826HONY0-2026-08-26-new-york-yankees/"},{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824OAHO0-2026-08-24-houston-astros/"},{"date":"26.08.23","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823OAHO0-2026-08-23-houston-astros/"},{"date":"26.08.21","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"3-18","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ANHO0-2026-08-21-houston-astros/"}]'
+injuryHome: "Max Fried (멍)|Ryan McMahon (염좌)|Clarke Schmidt (수술)|Aaron Judge (골절)|Giancarlo Stanton (근육 염좌)"
+injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
