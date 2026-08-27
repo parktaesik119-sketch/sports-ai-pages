@@ -85,7 +85,9 @@ const PLAYER_NAME_MAP = {
   "Seong-Bin Jung": "정성빈",
   "Yong-Woo Park": "박용우",
   "Myong-Gwan Seo": "서명관",
+  "Myeong-Kwan Seo": "서명관",
   "Seung-Hyun Jung": "정승현",
+  "Seung-Hyeon Jung": "정승현",
   "Young-Gwon Kim": "김영권",
   "Jae-Ik Lee": "이재익",
   "Hyun-Taek Cho": "조현택",
@@ -97,6 +99,7 @@ const PLAYER_NAME_MAP = {
   "Si-Young Jang": "장시영",
   "Jin-Hyun Lee": "이진현",
   "Hui-Gyun Lee": "이희균",
+  "Heui-Kyun Lee": "이희균",
   "In-Woo Back": "백인우",
   "Sang-Woo Kang": "강상우",
   "Dong-Gyeong Lee": "이동경",
@@ -256,6 +259,7 @@ const PLAYER_NAME_MAP = {
   "Kang Kim": "김강",
   "Hyeong-Jun Oh": "오형준",
   "Un Kim": "김운",
+  "Woon Kim": "김운",
 
   // --- Incheon United (인천 유나이티드) ---
   "Dong-Heon Kim": "김동헌",
@@ -1033,6 +1037,7 @@ const PLAYER_NAME_MAP = {
   "Kwan-Sik Lim": "임관식", // 전남 드래곤즈
   "Lim Kwan-Sik": "임관식", // 전남 드래곤즈
   "Hyun-Joon Son": "손현준", // 김해 FC 2008
+  "Kim Hae-Woon": "김해운", //성남 FC
 
   // ===== 🌍 해외파 (유럽/북미 등 해외 리그 진출 선수, 2026-08 조사 기준) =====
   // 국가대표 경기, 전력분석 본문 등에 이름이 등장할 때 매핑됨.
