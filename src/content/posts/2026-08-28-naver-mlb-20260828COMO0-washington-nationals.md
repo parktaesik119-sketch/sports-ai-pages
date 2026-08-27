@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.27","home":"워싱턴 내셔널스","away":"콜로�
 injuryHome: "Richard Lovelady (엿새짜리 부상자 명단 등재, 근육 염좌)|James Wood (열흘짜리 부상자 명단 등재, 근육 염좌)|Drew Millas (열흘짜리 부상자 명단 등재, 골절)|Josiah Gray (예순짜리 부상자 명단 등재, 근육 염좌)|DJ Herz (예순짜리 부상자 명단 등재, 근육 염좌)"
 injuryAway: "Kyle Karros (일주일짜리 부상자 명단 등재, 뇌진탕)|Kris Bryant (예순짜리 부상자 명단 등재, 수술)|McCade Brown (예순짜리 부상자 명단 등재, 염증)|Kyle Freeland (열닷새짜리 부상자 명단 등재, 신경 압박)|Jose Quintana (예순짜리 부상자 명단 등재, 염좌)"
 homeLineup: "[\"선발투수 J. Irvin (2-8, 5.82) ERA 5.82|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
-awayLineup: "[\"선발투수 G. Hughes (0-5, 6.54) ERA 6.54|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
+awayLineup: "[\"선발투수 G. Hughes (0-5, 6.54) ERA 6.54|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\",\"1번 J. McCarthy (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 C. Carrigg (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"3번 W. Castro (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"4번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"5번 C. Norby (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4417606.png\",\"6번 T. Johnston (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4346111.png\",\"7번 B. Sullivan (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39913.png\",\"8번 Z. Veen (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717903.png\",\"9번 E. Tovar (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
