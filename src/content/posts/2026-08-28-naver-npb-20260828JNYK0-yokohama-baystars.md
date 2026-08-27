@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.26","home":"히로시마 도요 카프","away":"요
 awayRecent: '[{"date":"26.08.26","home":"주니치 드래곤스","away":"한신 타이거스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826HSJN0-2026-08-26-chunichi-dragons/"},{"date":"26.08.25","home":"주니치 드래곤스","away":"한신 타이거스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825HSJN0-2026-08-25-chunichi-dragons/"},{"date":"26.08.23","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823YAJN0-2026-08-23-chunichi-dragons/"},{"date":"26.08.22","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260822YAJN0-2026-08-22-chunichi-dragons/"},{"date":"26.08.21","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821YAJN0-2026-08-21-chunichi-dragons/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shuto Ogata (0-2, 3.00)|https://p.npb.jp/players_photo/2026/180/db/036_61365136.jpg\"]"
+awayLineup: "[\"선발투수 Hiroto Takahashi (3-7, 3.39)|https://p.npb.jp/players_photo/2026/180/d/019_61265153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

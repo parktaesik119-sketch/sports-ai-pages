@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.26","home":"SSG 랜더스","away":"한화 이글스
 awayRecent: '[{"date":"26.08.26","home":"LG 트윈스","away":"NC 다이노스","score":"8-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826NCLG02026-2026-08-26-lg-twins/"},{"date":"26.08.25","home":"LG 트윈스","away":"NC 다이노스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825NCLG02026-2026-08-25-lg-twins/"},{"date":"26.08.23","home":"NC 다이노스","away":"삼성 라이온스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823SSNC02026-2026-08-23-nc-dinos/"},{"date":"26.08.22","home":"NC 다이노스","away":"삼성 라이온스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260822SSNC02026-2026-08-22-nc-dinos/"},{"date":"26.08.21","home":"NC 다이노스","away":"삼성 라이온스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821SSNC02026-2026-08-21-nc-dinos/"}]'
 injuryHome: "왕옌청 (부상)|오재원 (부상)"
 injuryAway: "임지민 (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 김태연 (우익수)\",\"2번 문현빈 (중견수)\",\"3번 한지윤 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 채은성 (1루수)\",\"7번 황영묵 (2루수)\",\"8번 최재훈 (포수)\",\"9번 심우준 (유격수)\"]"
+awayLineup: "[\"1번 김주원 (유격수)\",\"2번 권희동 (우익수)\",\"3번 박민우 (2루수)\",\"4번 블레인 (1루수)\",\"5번 박건우 (지명타자)\",\"6번 이우성 (좌익수)\",\"7번 김휘집 (3루수)\",\"8번 김형준 (포수)\",\"9번 천재환 (중견수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

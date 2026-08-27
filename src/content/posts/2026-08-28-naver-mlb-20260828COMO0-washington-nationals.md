@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.27","home":"워싱턴 내셔널스","away":"콜로�
 awayRecent: '[{"date":"26.08.27","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827COMO0-2026-08-27-washington-nationals/"},{"date":"26.08.26","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826COMO0-2026-08-26-washington-nationals/"},{"date":"26.08.25","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"13-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825COMO0-2026-08-25-washington-nationals/"},{"date":"26.08.24","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CLCO0-2026-08-24-colorado-rockies/"},{"date":"26.08.22","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CLCO0-2026-08-22-colorado-rockies/"}]'
 injuryHome: "Richard Lovelady (엿새짜리 부상자 명단 등재, 근육 염좌)|James Wood (열흘짜리 부상자 명단 등재, 근육 염좌)|Drew Millas (열흘짜리 부상자 명단 등재, 골절)|Josiah Gray (예순짜리 부상자 명단 등재, 근육 염좌)|DJ Herz (예순짜리 부상자 명단 등재, 근육 염좌)"
 injuryAway: "Kyle Karros (일주일짜리 부상자 명단 등재, 뇌진탕)|Kris Bryant (예순짜리 부상자 명단 등재, 수술)|McCade Brown (예순짜리 부상자 명단 등재, 염증)|Kyle Freeland (열닷새짜리 부상자 명단 등재, 신경 압박)|Jose Quintana (예순짜리 부상자 명단 등재, 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Irvin (2-8, 5.82) ERA 5.82|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
+awayLineup: "[\"선발투수 G. Hughes (0-5, 6.54) ERA 6.54|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

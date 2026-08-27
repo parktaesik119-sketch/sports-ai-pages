@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.26","home":"오릭스 버팔로스","away":"라쿠�
 awayRecent: '[{"date":"26.08.26","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826SFJL0-2026-08-26-chiba-lotte-marines/"},{"date":"26.08.25","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825SFJL0-2026-08-25-chiba-lotte-marines/"},{"date":"26.08.23","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823OXSF0-2026-08-23-fukuoka-s-hawks/"},{"date":"26.08.22","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260822OXSF0-2026-08-22-fukuoka-s-hawks/"},{"date":"26.08.20","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"5-5","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260820SFNH0-2026-08-20-nippon-ham-fighters/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Anderson Espinoza (11-4, 2.46)|https://p.npb.jp/players_photo/2026/180/b/000_43545159.jpg\"]"
+awayLineup: "[\"선발투수 Yugo Maeda (10-0, 1.98)|https://p.npb.jp/players_photo/2026/180/h/041_13115159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

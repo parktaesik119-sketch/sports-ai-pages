@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.26","home":"세이부 라이온즈","away":"니혼�
 awayRecent: '[{"date":"26.08.26","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826SFJL0-2026-08-26-chiba-lotte-marines/"},{"date":"26.08.25","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825SFJL0-2026-08-25-chiba-lotte-marines/"},{"date":"26.08.23","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823NHJL0-2026-08-23-chiba-lotte-marines/"},{"date":"26.08.21","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821NHJL0-2026-08-21-chiba-lotte-marines/"},{"date":"26.08.20","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260820JLRT0-2026-08-20-rakuten-gold-eagles/"}]'
 injuryHome: "Chusei Mannami (무릎 부상)"
 injuryAway: "Yuto Kimura (오른쪽 팔꿈치 인대 파열 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Koki Kitayama (9-3, 2.22)|https://p.npb.jp/players_photo/2026/180/f/015_51755155.jpg\"]"
+awayLineup: "[\"선발투수 Kazuya Ojima (5-7, 3.24)|https://p.npb.jp/players_photo/2026/180/m/014_11515138.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

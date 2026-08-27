@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애
 awayRecent: '[{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"},{"date":"26.08.26","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"7-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826HONY0-2026-08-26-new-york-yankees/"},{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824OAHO0-2026-08-24-houston-astros/"},{"date":"26.08.23","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823OAHO0-2026-08-23-houston-astros/"},{"date":"26.08.21","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"3-18","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ANHO0-2026-08-21-houston-astros/"}]'
 injuryHome: "Max Fried (멍)|Ryan McMahon (염좌)|Clarke Schmidt (수술)|Aaron Judge (골절)|Giancarlo Stanton (근육 염좌)"
 injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Cole (7-6, 3.11) ERA 3.11|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
+awayLineup: "[\"선발투수 H. Wesneski (3-1, 4.23) ERA 4.23|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
