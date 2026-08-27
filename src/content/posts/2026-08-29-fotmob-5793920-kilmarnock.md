@@ -16,10 +16,10 @@ homePower: "홈 경기에서 경기 주도권 유지력이 강점임|평균 득�
 awayPower: "최근 25경기 15패가 방어 안정성 약화를 보여줌|평균 1.0득점은 공격 전개 효율이 낮다는 뜻임|원정에서 후반 실점 관리가 특히 불안정함|주요 결장으로 측면 전개 완성도 저하 우려됨|한 골로 버티는 운영보다 추격전 성향이 강함"
 h2h: '[{"date":"26.05.02","home":"킬마녹","away":"던디 유나이티드","score":"3-0","link":"https://pick79.com/posts/detail/analyze-1540010-2026-05-02-kilmarnock/"},{"date":"26.02.22","home":"던디 유나이티드","away":"킬마녹","score":"1-1"},{"date":"25.11.30","home":"킬마녹","away":"던디 유나이티드","score":"1-1"},{"date":"25.09.27","home":"던디 유나이티드","away":"킬마녹","score":"0-2"},{"date":"25.08.17","home":"킬마녹","away":"던디 유나이티드","score":"2-1"}]'
 summary: "킬마녹은 2026시즌 전력과 득점 흐름에서 던디 유나이티드보다 한 단계 앞서 있는 모습입니다. 던디 유나이티드는 시즌 전반의 득점 효율과 수비 안정성이 모두 흔들리고 있어, 경기 운영의 중심을 잡는 데 부담이 커 보입니다. 상대전적에서도 킬마녹이 꾸준히 우위를 보여 왔고, 특히 맞대결에서 실점 억제와 마무리 완성도가 더 안정적으로 확인되고 있습니다. 이런 흐름을 종합하면 이번 경기는 킬마녹이 주도권을 잡고 우세를 이어갈 가능성이 높습니다."
-homeRecent: '[]'
-awayRecent: '[]'
+homeRecent: "[{\"date\":\"26.08.15\",\"home\":\"Kilmarnock\",\"away\":\"Ayr United\",\"score\":\"3-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.09\",\"home\":\"Kilmarnock\",\"away\":\"Celtic\",\"score\":\"1-5\",\"result\":\"🔴패\"},{\"date\":\"26.08.02\",\"home\":\"St. Johnstone\",\"away\":\"Kilmarnock\",\"score\":\"4-3\",\"result\":\"🔴패\"},{\"date\":\"26.07.25\",\"home\":\"Peterhead\",\"away\":\"Kilmarnock\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.07.22\",\"home\":\"Kilmarnock\",\"away\":\"Hamilton Academical\",\"score\":\"1-0\",\"result\":\"🟢승\"}]"
+awayRecent: "[{\"date\":\"26.08.23\",\"home\":\"Dundee United\",\"away\":\"Dundee FC\",\"score\":\"0-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.16\",\"home\":\"Dundee United\",\"away\":\"Celtic\",\"score\":\"0-4\",\"result\":\"🔴패\"},{\"date\":\"26.08.09\",\"home\":\"Heart of Midlothian\",\"away\":\"Dundee United\",\"score\":\"4-0\",\"result\":\"🔴패\"},{\"date\":\"26.08.01\",\"home\":\"Dundee United\",\"away\":\"Rangers\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.07.25\",\"home\":\"Salford City\",\"away\":\"Dundee United\",\"score\":\"3-2\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
-injuryAway: "Dario Naamo (사타구니 부상)|Miller Thomson (발목 부상)"
+injuryAway: "Dario Naamo[주요](사타구니 부상 - 복귀예정 Early September 2026) | Miller Thomson[주요](발목 부상 - 복귀예정 Early September 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

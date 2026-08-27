@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.27","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.08.27","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CCAZ0-2026-08-27-arizona-diamondbacks/"},{"date":"26.08.25","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CCAZ0-2026-08-25-arizona-diamondbacks/"},{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"}]'
 injuryHome: "Jung Hoo Lee (멍)|Jesus Rodriguez (목 신경 눌림)|Bryce Eldridge (조문 휴가)|Marcelo Mayer (골절)|Matt Gage (근육 염좌)"
 injuryAway: "Lourdes Gurriel Jr. (근육 염좌)|Tommy Troy (염좌)|Blake Walston (수술)|Ketel Marte (염증)|Zac Gallen (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 B. Tidwell (0-0, 3.58) ERA 3.58|https://a.espncdn.com/i/headshots/mlb/players/full/4719088.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

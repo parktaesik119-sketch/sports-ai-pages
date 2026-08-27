@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.26","home":"KIA 타이거즈","away":"롯데 자이
 awayRecent: '[{"date":"26.08.26","home":"LG 트윈스","away":"NC 다이노스","score":"8-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826NCLG02026-2026-08-26-lg-twins/"},{"date":"26.08.25","home":"LG 트윈스","away":"NC 다이노스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825NCLG02026-2026-08-25-lg-twins/"},{"date":"26.08.23","home":"한화 이글스","away":"LG 트윈스","score":"3-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LGHH02026-2026-08-23-hanwha-eagles/"},{"date":"26.08.21","home":"한화 이글스","away":"LG 트윈스","score":"15-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821LGHH02026-2026-08-21-hanwha-eagles/"},{"date":"26.08.20","home":"LG 트윈스","away":"KT 위즈","score":"4-16","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820KTLG02026-2026-08-20-lg-twins/"}]'
 injuryHome: "없음"
 injuryAway: "이재원 (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 황성빈 (중견수)\",\"2번 나승엽 (지명타자)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (3루수)\",\"5번 고승민 (1루수)\",\"6번 한태양 (2루수)\",\"7번 전민재 (유격수)\",\"8번 손성빈 (포수)\",\"9번 장두성 (우익수)\"]"
+awayLineup: "[\"1번 신민재 (2루수)\",\"2번 박해민 (중견수)\",\"3번 오스틴 (지명타자)\",\"4번 문보경 (3루수)\",\"5번 송찬의 (좌익수)\",\"6번 문정빈 (1루수)\",\"7번 구본혁 (유격수)\",\"8번 박동원 (포수)\",\"9번 홍창기 (우익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.26","home":"세인트루이스 카디널스","away"
 injuryHome: "Masyn Winn (골절)|Everson Pereira (타박상)|Andre Pallante (염증)|Hunter Dobbins (통증)|Max Rajcic (수술)"
 injuryAway: "Blaze Alexander (골절)|Tyler O'Neill (통증)|Felix Bautista (수술)|Ryan Helsley (염증)|Ryan Mountcastle (근육 염좌)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 T. Rogers (9-8, 4.14) ERA 4.14|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
