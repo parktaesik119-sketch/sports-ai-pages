@@ -85,9 +85,8 @@
 
     // ⚽ 세리에A
     'Inter', 'AC Milan', 'Milan', 'Napoli', 'AS Roma', 'Roma', 'Como', 'Juventus', 'Atalanta', 'Sassuolo',
-    'Bologna', 'Lazio', 'Parma', 'Udinese', 'Cagliari', 'Torino', 'Genoa', 'Fiorentina', 'Cremonese',
-    'Venezia', 'Frosinone', 'Monza',
-
+    'Bologna', 'Lazio', 'Parma', 'Udinese', 'Cagliari', 'Torino', 'Genoa', 'Fiorentina','Venezia', 'Frosinone', 'Monza',
+    
     // ⚽ 리그1
     'PSG', 'Paris Saint Germain', 'Paris Saint-Germain', 'Lens', 'Lille', 'Lyon', 'Rennes', 'Marseille',
     'Monaco', 'Strasbourg', 'Lorient', 'Toulouse', 'Paris FC', 'Brest', 'Stade Brestois 29', 'Angers',
