@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애
 injuryHome: "Max Fried (멍)|Ryan McMahon (염좌)|Clarke Schmidt (수술)|Aaron Judge (골절)|Giancarlo Stanton (근육 염좌)"
 injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
 homeLineup: "[\"선발투수 G. Cole (7-6, 3.11) ERA 3.11|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
-awayLineup: "[\"선발투수 H. Wesneski (3-1, 4.23) ERA 4.23|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
+awayLineup: "[\"선발투수 H. Wesneski (3-1, 4.23) ERA 4.23|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\",\"1번 J. Pena (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41273.png\",\"2번 Y. Alvarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36018.png\",\"3번 I. Paredes (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/39706.png\",\"4번 J. Altuve (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/31662.png\",\"5번 D. Varsho (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40963.png\",\"6번 C. Walker (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32758.png\",\"7번 Y. Diaz (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4781491.png\",\"8번 T. Trammell (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/37773.png\",\"9번 C. Smith (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080766.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
