@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.26","home":"애틀랜타 브레이브스","away":"L
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 injuryAway: "Will Klein (통증)|Bobby Miller (통증)|Blake Treinen (염증)|Ben Casparius (염증)|Roki Sasaki (찰과상)"
 homeLineup: "[\"선발투수 C. Sale (12-9, 2.20) ERA 2.20|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\"]"
-awayLineup: "[\"선발투수 Y. Yamamoto (12-7, 2.61) ERA 2.61|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
+awayLineup: "[\"선발투수 Y. Yamamoto (12-7, 2.61) ERA 2.61|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\",\"1번 S. Ohtani (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\",\"2번 T. Edman (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/39907.png\",\"3번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"4번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"5번 T. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"6번 M. Rojas (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/30791.png\",\"7번 A. Call (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/38994.png\",\"8번 E. Hernandez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31358.png\",\"9번 B. Rortvedt (C)|https://a.espncdn.com/i/headshots/mlb/players/full/40869.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
