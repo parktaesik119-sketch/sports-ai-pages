@@ -850,6 +850,7 @@ const TEAM_NAME_MAP = {
   "Pacific FC": "퍼시픽 FC",
   "Forge FC": "포지 FC",
   "Inter Toronto FC": "요크 유니티드 FC",
+  "York United": "요크 유니티드 FC",
 
   // 국가대표팀
   "Canada": "캐나다",
