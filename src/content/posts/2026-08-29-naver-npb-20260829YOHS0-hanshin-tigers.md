@@ -1,0 +1,37 @@
+---
+title: "한신 타이거스 vs 요미우리 자이언츠 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | NPB - 픽천국"
+date: 2026-08-29T09:00:00.000Z
+description: "한신 타이거스 vs 요미우리 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260829YOHS0-2026-08-29-hanshin-tigers"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "한신 타이거스"
+awayTeam: "요미우리 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/HS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/YO.png"
+homeAnalysis: "한신 타이거스는 2026시즌 최근 89경기에서 49승 1무 39패, 평균 득점 3.5를 기록하며 안정적인 상위 전력을 유지하고 있습니다. 최근 흐름도 10경기 6승 4패로 나쁘지 않으며, 득점 기복은 있으나 필요할 때 점수를 내는 힘이 살아 있습니다. 홈에서는 끈질긴 운영과 낮은 실점 억제가 돋보이고, 특히 접전에서 경기를 끝까지 가져가는 힘이 강점으로 평가됩니다. 최근 맞대결에서도 요미우리 자이언츠를 상대로 연승 흐름을 만들며 상성상 우위를 보여주고 있습니다. 다만 폭발적인 화력보다는 한 점 차 승부를 자주 만드는 유형이라, 초반 득점이 경기 흐름을 좌우할 가능성이 높아 보입니다."
+awayAnalysis: "요미우리 자이언츠는 2026시즌 최근 92경기에서 49승 2무 41패, 평균 득점 3.5로 전반적인 경쟁력을 유지하고 있습니다. 최근 10경기 7승 3패로 흐름은 더 좋아졌고, 특히 다득점 경기가 늘면서 타선의 응집력이 살아난 모습입니다. 원정에서도 장타와 집중타가 동시에 나오는 구간이 있어 공격 전개가 매끄럽고, 선발과 불펜이 버텨줄 때 경기 주도권을 가져오는 힘이 있습니다. 다만 한신 타이거스를 상대로는 최근 연속 패배가 이어지며 타선이 상대 투수진에 묶이는 장면이 적지 않았습니다. 수비 쪽에서는 큰 실점만 줄이면 충분히 버틸 수 있지만, 최근 맞대결 흐름을 고려하면 초반 실점 관리가 매우 중요해 보입니다."
+homePower: "한신 타이거스의 저실점 운영은 접전에서 가치가 큼|요미우리 자이언츠 상대로 투수전 적응력이 뛰어남|홈에서는 한 점 싸움으로 끌고 가는 힘이 강함|폭발력보다 실점 억제로 승률을 쌓는 구조임|초반 선취 시 경기 통제력이 크게 살아남"
+awayPower: "요미우리 자이언츠는 최근 타선 응집력이 크게 올라옴|다득점 흐름이 이어져 초반 기세가 중요함|원정에서도 공격 템포를 잃지 않는 점이 강점임|한신 타이거스 상대에선 마운드 대응이 관건임|실점만 억제되면 후반 뒤집기 여지도 충분함"
+h2h: '[{"date":"26.08.13","home":"요미우리 자이언츠","away":"한신 타이거스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260813HSYO0-2026-08-13-yomiuri-giants/"},{"date":"26.08.12","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-5","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260812HSYO0-2026-08-12-yomiuri-giants/"},{"date":"26.08.11","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-9","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260811HSYO0-2026-08-11-yomiuri-giants/"},{"date":"26.07.26","home":"한신 타이거스","away":"요미우리 자이언츠","score":"1-0","link":"https://pick79.com/posts/detail/analyze-181183-2026-07-26-hanshin-tigers/"},{"date":"26.07.25","home":"한신 타이거스","away":"요미우리 자이언츠","score":"1-5","link":"https://pick79.com/posts/detail/analyze-181174-2026-07-25-hanshin-tigers/"}]'
+summary: "한신 타이거스는 시즌 전체 흐름에서 49승 1무 39패로 안정적인 우위를 지키고 있고, 평균 득점 3.5의 효율적인 운영이 돋보입니다. 요미우리 자이언츠도 49승 2무 41패에 평균 득점 3.5로 전력 자체는 탄탄하지만, 최근 맞대결에서는 한신 타이거스가 연속으로 우세를 점하며 상성이 더 좋아 보입니다. 특히 한신 타이거스는 저득점 접전에서 버티는 힘이 강하고, 요미우리 자이언츠는 최근 공격 흐름이 좋더라도 한신 타이거스 마운드를 상대로는 득점 효율이 떨어졌던 점이 눈에 띕니다. 이런 흐름을 종합하면 경기 전체의 균형은 팽팽하더라도, 최종 흐름은 한신 타이거스 쪽이 조금 더 유리하게 전개될 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.27","home":"주니치 드래곤스","away":"한신 타이거스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827HSJN0-2026-08-27-chunichi-dragons/"},{"date":"26.08.26","home":"주니치 드래곤스","away":"한신 타이거스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826HSJN0-2026-08-26-chunichi-dragons/"},{"date":"26.08.25","home":"주니치 드래곤스","away":"한신 타이거스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825HSJN0-2026-08-25-chunichi-dragons/"},{"date":"26.08.23","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823HSYK0-2026-08-23-yokohama-baystars/"},{"date":"26.08.21","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821HSYK0-2026-08-21-yokohama-baystars/"}]'
+awayRecent: '[{"date":"26.08.27","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827YOYA0-2026-08-27-yakult-swallows/"},{"date":"26.08.26","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826YOYA0-2026-08-26-yakult-swallows/"},{"date":"26.08.25","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825YOYA0-2026-08-25-yakult-swallows/"},{"date":"26.08.23","home":"요미우리 자이언츠","away":"히로시마 도요 카프","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823HIYO0-2026-08-23-yomiuri-giants/"},{"date":"26.08.22","home":"요미우리 자이언츠","away":"히로시마 도요 카프","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260822HIYO0-2026-08-22-yomiuri-giants/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "한신 타이거스"
+pickWinResult: "승"
+pickHandicapTeam: "한신 타이거스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

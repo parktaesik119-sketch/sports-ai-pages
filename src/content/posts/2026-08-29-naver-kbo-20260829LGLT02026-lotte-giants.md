@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs LG 트윈스 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | KBO - 픽천국"
+date: 2026-08-29T09:00:00.000Z
+description: "롯데 자이언츠 vs LG 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260829LGLT02026-2026-08-29-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "LG 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LG.png"
+homeAnalysis: "롯데 자이언츠는 2026시즌 최근 87경기에서 42승 2무 43패, 평균 득점 5.3으로 승패 균형에 가까운 전력을 보이고 있습니다. 최근에는 공격 흐름이 크게 살아나며 평균 득점이 8점대까지 올라왔고, 득점 생산 자체는 확실히 강점으로 읽힙니다. 다만 직전 3경기에서는 연속으로 실점이 크게 늘어나는 장면이 나와 수비 안정감은 흔들린 모습입니다. 홈에서는 대량 득점과 빠른 분위기 전환이 자주 나오고, 레이예스와 고승민 같은 중심 타선의 존재감이 특히 돋보입니다. 예상 라인업도 상위 타순과 중심 타순의 연결이 살아 있어, 타격전으로 가면 충분히 주도권을 잡을 가능성이 보입니다."
+awayAnalysis: "LG 트윈스는 2026시즌 최근 91경기에서 48승 2무 41패, 평균 득점 5.3으로 상위권 경쟁력을 유지하고 있습니다. 최근 흐름은 승패가 엇갈리지만, 한 경기에서 폭발력을 보였다가 다음 경기에서 실점이 급증하는 식의 기복이 함께 나타나고 있습니다. 원정에서도 타선 자체는 쉽게 꺼지지 않으며, 특히 오스틴을 축으로 한 중심 타선의 한 방은 여전히 강점입니다. 다만 최근 경기들에서는 장타 억제와 마운드 버티기에서 흔들리는 장면이 보여, 실점 관리가 중요해 보입니다. 예상 라인업 기준으로는 상위 타순이 출루와 연결을 만들 수 있지만, 하위 타순은 상대가 압박을 주면 득점 확장력이 다소 제한될 수 있습니다."
+homePower: "나균안의 긴 이닝 소화로 불펜 부담 완화가 기대됨|포크볼 비중 높아 타이밍 흔들기 유리해 보임|레이예스 중심의 중심 타선 응집력 강점임|최근 대량 득점으로 타선 자신감 상승 확인됨|상대 선발이 짧게 버티는 흐름이면 초반 우세 가능성 큼"
+awayPower: "오스틴 중심의 장타 생산력은 여전히 위협적임|직구 비중 높아 초구 승부 성향이 분명함|상위 타순 출루와 장타 연결 가능성은 충분함|최근 실점 변동폭이 커 마운드 안정성은 과제임|원정에서도 득점력 유지되는 점은 강점으로 평가됨"
+h2h: '[{"date":"26.06.28","home":"롯데 자이언츠","away":"LG 트윈스","score":"11-9","link":"https://pick79.com/posts/detail/analyze-181803-2026-06-28-lotte-giants/"},{"date":"26.06.27","home":"롯데 자이언츠","away":"LG 트윈스","score":"7-8","link":"https://pick79.com/posts/detail/analyze-181800-2026-06-27-lotte-giants/"},{"date":"26.06.26","home":"롯데 자이언츠","away":"LG 트윈스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-181793-2026-06-26-lotte-giants/"},{"date":"26.06.14","home":"LG 트윈스","away":"롯데 자이언츠","score":"6-1","link":"https://pick79.com/posts/detail/analyze-181745-2026-06-14-lg-twins/"},{"date":"26.06.13","home":"LG 트윈스","away":"롯데 자이언츠","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181740-2026-06-13-lg-twins/"}]'
+summary: "롯데 자이언츠는 최근 득점 흐름이 매우 살아나 있으면서도 홈에서 공격 응집력이 잘 드러나는 팀이라, 경기 주도권을 먼저 잡을 힘이 있습니다. LG 트윈스는 시즌 승수와 순위 면에서 충분히 경쟁력이 있지만, 최근에는 큰 점수 차 승패가 반복되며 마운드 안정감의 편차가 보이고 있습니다. 상대전적에서도 접전이 이어지고 있어 쉽게 한쪽으로 기울기보다는, 타선이 먼저 살아나는 팀이 유리한 흐름입니다. 이번 경기는 롯데 자이언츠가 조금 더 공격적으로 경기를 풀어가며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.26","home":"KIA 타이거즈","away":"롯데 자이언츠","score":"16-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826LTHT02026-2026-08-26-kia-tigers/"},{"date":"26.08.25","home":"KIA 타이거즈","away":"롯데 자이언츠","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825LTHT02026-2026-08-25-kia-tigers/"},{"date":"26.08.23","home":"두산 베어스","away":"롯데 자이언츠","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LTOB02026-2026-08-23-doosan-bears/"},{"date":"26.08.21","home":"두산 베어스","away":"롯데 자이언츠","score":"4-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821LTOB02026-2026-08-21-doosan-bears/"},{"date":"26.08.20","home":"롯데 자이언츠","away":"키움 히어로즈","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820WOLT02026-2026-08-20-lotte-giants/"}]'
+awayRecent: '[{"date":"26.08.27","home":"LG 트윈스","away":"NC 다이노스","score":"3-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827NCLG02026-2026-08-27-lg-twins/"},{"date":"26.08.26","home":"LG 트윈스","away":"NC 다이노스","score":"8-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826NCLG02026-2026-08-26-lg-twins/"},{"date":"26.08.25","home":"LG 트윈스","away":"NC 다이노스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825NCLG02026-2026-08-25-lg-twins/"},{"date":"26.08.23","home":"한화 이글스","away":"LG 트윈스","score":"3-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LGHH02026-2026-08-23-hanwha-eagles/"},{"date":"26.08.21","home":"한화 이글스","away":"LG 트윈스","score":"15-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821LGHH02026-2026-08-21-hanwha-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "이재원 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "롯데 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "롯데 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

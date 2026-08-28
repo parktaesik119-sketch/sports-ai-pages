@@ -1,0 +1,37 @@
+---
+title: "인천 유나이티드 vs 전북 현대 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | K-League 1 - 픽천국"
+date: 2026-08-30T10:30:00.000Z
+description: "인천 유나이티드 vs 전북 현대 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140015-2026-08-30-incheon-united"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "인천 유나이티드"
+awayTeam: "전북 현대"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133895.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/46038.png"
+homeAnalysis: "인천 유나이티드는 2026시즌 최근 13경기에서 4승 5무 4패를 기록하며 평균 득점 1.1을 남기고 있어, 큰 기복 속에서도 경기마다 버티는 힘이 분명한 팀입니다. 최근에는 광주 원정 승리와 울산 원정 승리처럼 강팀 상대로도 필요한 순간에 득점을 만들어내는 모습이 있었고, 제주 원정 3득점처럼 공격의 폭발력도 가끔 확인되고 있습니다. 다만 무실점보다 실점 관리가 더 중요하게 보이는 구간이 이어지고 있어, 경기 흐름이 한 번 흔들리면 수비 쪽 부담이 커지는 편입니다. 홈에서는 전북 현대를 상대로 1-0 승리를 포함해 최근 맞대결에서 좋은 장면을 여러 차례 만들었고, 이 점은 자신감으로 연결될 수 있습니다. 김동헌과 주앙 이비자, 제르소 페르난데스, 모건 페리어를 중심으로 한 전개가 살아나면 홈에서는 충분히 주도권을 잡을 가능성이 있습니다."
+awayAnalysis: "전북 현대는 2026시즌 최근 16경기에서 4승 6무 6패를 기록하며 평균 득점 1.0에 머물고 있어, 공격 효율이 다소 아쉬운 흐름입니다. 울산전 승리와 포항 원정 승리처럼 힘 있는 경기 운영도 보여주고 있지만, 무득점 경기와 실점이 함께 나오는 장면이 적지 않아 안정감은 더 필요해 보입니다. 특히 홈에서조차 득점이 끊기는 경우가 있었고, 한 골 싸움에서 흐름을 끝까지 가져가는 힘이 들쭉날쭉한 편입니다. 다만 수비적으로는 대량 실점만 피하면 경기를 길게 끌고 갈 수 있는 구조가 있어, 전반적인 균형은 유지되고 있습니다. 송범근과 박진섭, 이탈로, 브루노 모타를 중심으로 마무리의 날카로움이 살아나면 원정에서도 반전을 기대할 수 있습니다."
+homePower: "인천 유나이티드, 전북 상대로 최근 상성 우위가 확인됨|홈에서 주도권 잡을 때 경기 운영이 더 단단함|제르소와 모건 페리어의 전환 속도 위협적임|실점 억제되면 한 골 차 승부로 기울 가능성 높음|강팀 상대로도 흔들림 덜한 하위권 아닌 전력임"
+awayPower: "전북 현대, 한 골 싸움에서 수비 버티기 능력 검증됨|송범근 중심으로 후방 안정감은 기본기 수준임|브루노 모타와 이탈로 조합의 마무리 기대감 있음|득점 기복이 있어 선제 실점 시 답답해질 수 있음|원정에서는 점유보다 효율이 더 중요한 구조임"
+h2h: '[{"date":"26.07.18","home":"인천 유나이티드","away":"전북 현대","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1507000-2026-07-18-incheon-united/"},{"date":"26.04.21","home":"전북 현대","away":"인천 유나이티드","score":"1-2"},{"date":"24.11.02","home":"전북 현대","away":"인천 유나이티드","score":"0-0"},{"date":"24.08.24","home":"인천 유나이티드","away":"전북 현대","score":"0-1"},{"date":"24.06.16","home":"전북 현대","away":"인천 유나이티드","score":"2-2"}]'
+summary: "인천 유나이티드는 2026시즌 흐름에서 득점과 수비가 완전히 안정되지는 않았지만, 전북 현대를 상대로는 최근 맞대결에서 분명한 강점을 보여주고 있습니다. 전북 현대는 시즌 전체 전력 자체는 나쁘지 않지만, 득점 효율이 일정하지 않아 경기 주도권을 오래 유지하는 데 어려움이 보입니다. 이런 흐름을 함께 보면, 홈에서 더 날카로운 장면을 만들 수 있는 인천 유나이티드가 근소하게 우세를 점할 가능성이 높아 보입니다. 특히 인천 유나이티드가 초반 실점을 피하고 제르소 페르난데스와 모건 페리어 쪽 연결이 살아나면, 경기 전체의 무게중심은 홈팀 쪽으로 기울 가능성이 큽니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Dong-Heon Kim (GK)|https://images.fotmob.com/image_resources/playerimages/1035983.png","Seung-Gu Choi (DF)|https://images.fotmob.com/image_resources/playerimages/1613288.png","Gun-Hee Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1440167.png","Juan Ibiza (DF)|https://images.fotmob.com/image_resources/playerimages/675084.png","Ju-Yong Lee (DF)|https://images.fotmob.com/image_resources/playerimages/523746.png","Dong-Ryul Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1067481.png","Jae-Min Seo (MF)|https://images.fotmob.com/image_resources/playerimages/1440137.png","Min-Hyuk Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1440076.png","Gerso Fernandes (MF)|https://images.fotmob.com/image_resources/playerimages/362711.png","Young-Whan Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1693371.png","Morgan Ferrier (FW)|https://images.fotmob.com/image_resources/playerimages/693177.png"]'
+awayLineup: '["Bum-Keun Song (GK)|https://images.fotmob.com/image_resources/playerimages/848068.png","Tae-Hyun Kim (DF)|https://images.fotmob.com/image_resources/playerimages/947492.png","Wi-Je Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1326507.png","Ji-Soo Park (DF)|https://images.fotmob.com/image_resources/playerimages/468826.png","Woo-Jin Choi (DF)|https://images.fotmob.com/image_resources/playerimages/1440173.png","Seong-Ung Maeng (MF)|https://images.fotmob.com/image_resources/playerimages/1026783.png","Jin-Gyu Kim (MF)|https://images.fotmob.com/image_resources/playerimages/622980.png","Dong-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/828272.png","Sang-Yun Kang (MF)|https://images.fotmob.com/image_resources/playerimages/1364202.png","Italo (FW)|https://images.fotmob.com/image_resources/playerimages/1669646.png","Bruno Mota (FW)|https://images.fotmob.com/image_resources/playerimages/1060635.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Jong-Hwan Yoon|https://images.fotmob.com/image_resources/playerimages/29410.png"
+awayCoach: "Jeong-Yong Jung|https://images.fotmob.com/image_resources/playerimages/1136248.png"
+pickWinTeam: "인천 유나이티드"
+pickWinResult: "승"
+pickHandicapTeam: "인천 유나이티드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

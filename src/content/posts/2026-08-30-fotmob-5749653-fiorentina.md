@@ -1,0 +1,37 @@
+---
+title: "피오렌티나 vs 프로시노네 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | 세리에 A - 픽천국"
+date: 2026-08-29T16:30:00.000Z
+description: "피오렌티나 vs 프로시노네 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5749653-2026-08-30-fiorentina"
+category: "soccer"
+country: "이탈리아"
+league: "세리에 A"
+homeTeam: "피오렌티나"
+awayTeam: "프로시노네"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png"
+homeAnalysis: "피오렌티나는 2026시즌 최근 14경기 5승 6무 3패, 평균 득점 1.6으로 공격 밸런스는 유지하면서도 승부를 끝내는 힘에서는 다소 기복이 보입니다. 최근 경기에서 AS 로마 원정 0대4 패배가 있었지만, 유벤투스 원정 2대0 승리와 베네벤토전 4대1 승리처럼 강한 상대를 상대로도 득점력을 보여준 점은 분명한 장점입니다. 리그순위는 20위이고 득실이 0-4로 출발이 무거운 편이지만, 시즌 전체 흐름만 놓고 보면 홈에서 경기 주도권을 잡아 반등을 모색할 여지는 있습니다. 다비드 데 헤아가 골문을 지키고, 도도와 루카 라니에리, 니콜로 파졸리가 중심축을 맡는 구성이어서 수비 안정과 중원 조율이 함께 살아나면 전개가 한층 매끄러워질 수 있습니다. 특히 파비아노 파리시의 결장은 측면 전개와 왕복 활동량에 공백을 남길 수 있어, 결국 홈팀은 선제 득점과 초반 압박 강도가 경기의 관건이 될 것으로 보입니다."
+awayAnalysis: "프로시노네는 2026시즌 최근 10경기 5승 3무 2패, 평균 득점 1.6으로 결과와 내용이 함께 받쳐주는 흐름을 유지하고 있습니다. 최근 유벤투스전 0대1 패배가 있었지만, 유벤투스 스타비아전 4대1 승리와 베네벤토전 2대2, 삼베네데테세전 1대1처럼 공격 전개가 끊기지 않는 점이 인상적입니다. 현재 리그순위는 15위이고 득실이 0-1로 출발은 비교적 안정적이어서, 순위와 최근 전력이 서로 크게 어긋나지 않는 편입니다. 로렌초 팔미사니를 비롯해 이탈리아노 몬테리시, 지아코모 칼로, 로마노 슈미트, 지오르지 크베르나제 중심의 구성은 중원 연결과 전방 마무리의 연속성을 기대하게 합니다. 다만 원정 무대에서는 상대 압박을 얼마나 빠르게 벗겨내느냐가 중요하고, 초반에 흐름을 내주면 공격 효율이 흔들릴 가능성도 있습니다."
+homePower: "피오렌티나, 강팀 상대로도 득점 가능성 확인됨|다비드 데 헤아 중심으로 후방 안정감 기대됨|니콜로 파졸리의 중원 조율 비중이 큼|파비아노 파리시 결장으로 측면 전개 약화 우려|홈에서 주도권 잡을 때 공격 완성도 높아짐"
+awayPower: "프로시노네, 최근 득점 연결이 끊기지 않음|로마노 슈미트 중심의 중원 전개가 안정적임|지오르지 크베르나제의 마무리 감각이 보임|원정 부담에도 실점 억제 흐름은 유지됨|강한 압박을 넘기면 역습 효율이 살아남"
+h2h: '[{"date":"24.02.11","home":"피오렌티나","away":"프로시노네","score":"5-1"},{"date":"23.09.29","home":"프로시노네","away":"피오렌티나","score":"1-1"},{"date":"19.04.07","home":"피오렌티나","away":"프로시노네","score":"0-1"},{"date":"18.11.10","home":"프로시노네","away":"피오렌티나","score":"1-1"},{"date":"16.03.20","home":"프로시노네","away":"피오렌티나","score":"0-0"}]'
+summary: "피오렌티나는 리그순위 20위와 득실 0-4가 보여주듯 출발은 무거웠지만, 시즌 전체 흐름에서는 득점력을 완전히 잃지 않고 버티는 모습이 함께 보입니다. 프로시노네는 리그순위 15위에 득실 0-1로 비교적 안정적인 바탕을 갖고 있고, 최근 경기에서도 득점 연결이 이어져 전력의 균형감이 더 나아 보입니다. 상대전적에서는 피오렌티나가 홈에서 크게 앞선 기록이 뚜렷해, 이번 경기도 홈팀이 경기 흐름을 잡을 가능성이 높아 보입니다. 다만 프로시노네도 최근 전개가 나쁘지 않아 쉽게 무너질 그림보다는, 피오렌티나의 홈 우세와 프로시노네의 최근 안정감이 맞부딪히는 경기가 될 것으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Fabiano Parisi (십자 인대 부상)"
+injuryAway: "없음"
+homeLineup: '["David de Gea (GK)|https://images.fotmob.com/image_resources/playerimages/182917.png","Dodô (DF)|https://images.fotmob.com/image_resources/playerimages/750734.png","Radu Dragusin (DF)|https://images.fotmob.com/image_resources/playerimages/1203661.png","Luca Ranieri (DF)|https://images.fotmob.com/image_resources/playerimages/935406.png","João Mário (DF)|https://images.fotmob.com/image_resources/playerimages/958421.png","Cher Ndour (MF)|https://images.fotmob.com/image_resources/playerimages/1246009.png","Nicolò Fagioli (MF)|https://images.fotmob.com/image_resources/playerimages/951712.png","Marco Brescianini (MF)|https://images.fotmob.com/image_resources/playerimages/950596.png","Franco Mastantuono (FW)|https://images.fotmob.com/image_resources/playerimages/1607566.png","Arthur Atta (MF)|https://images.fotmob.com/image_resources/playerimages/1428426.png","Mateo Pellegrino (FW)|https://images.fotmob.com/image_resources/playerimages/1224237.png"]'
+awayLineup: '["Lorenzo Palmisani (GK)|https://images.fotmob.com/image_resources/playerimages/1289655.png","Ilario Monterisi (DF)|https://images.fotmob.com/image_resources/playerimages/1117058.png","Gabriele Calvani (DF)|https://images.fotmob.com/image_resources/playerimages/1415326.png","Giorgio Cittadini ()|https://images.fotmob.com/image_resources/playerimages/1327513.png","Gabriele Bracaglia (DF)|https://images.fotmob.com/image_resources/playerimages/1396091.png","Matteo Cichella (MF)|https://images.fotmob.com/image_resources/playerimages/1670272.png","Giacomo Calò (MF)|https://images.fotmob.com/image_resources/playerimages/746829.png","Romano Schmid (MF)|https://images.fotmob.com/image_resources/playerimages/749488.png","Seydou Fini (FW)|https://images.fotmob.com/image_resources/playerimages/1445163.png","Antonio Raimondo (FW)|https://images.fotmob.com/image_resources/playerimages/1256534.png","Giorgi Kvernadze (FW)|https://images.fotmob.com/image_resources/playerimages/1342748.png"]'
+homeFormation: "4-3-2-1"
+awayFormation: "4-3-3"
+homeCoach: "Fabio Grosso|https://images.fotmob.com/image_resources/playerimages/34320.png"
+awayCoach: "Massimiliano Alvini|https://images.fotmob.com/image_resources/playerimages/1188285.png"
+pickWinTeam: "피오렌티나"
+pickWinResult: "승"
+pickHandicapTeam: "피오렌티나"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "삼성 라이온스 vs KT 위즈 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | KBO - 픽천국"
+date: 2026-08-29T09:00:00.000Z
+description: "삼성 라이온스 vs KT 위즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260829KTSS02026-2026-08-29-samsung-lions"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "삼성 라이온스"
+awayTeam: "KT 위즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+homeAnalysis: "삼성 라이온스는 2026시즌 최근 89경기 52승 2무 35패, 평균 득점 5.9로 상위권 전력을 유지하고 있으며, 최근 경기 흐름도 6승 1무 3패로 안정적입니다. 최근에는 키움과 NC를 상대로 대량 득점과 함께 승리를 이어가며 타선의 응집력이 특히 돋보이고 있습니다. 홈과 원정을 가리지 않고 득점 생산이 꾸준하지만, 수비에서는 실점이 다소 늘어나는 경기와 단단하게 막아내는 경기가 함께 나타나 변동성이 있습니다. 다만 구자욱, 최형우, 디아즈로 이어지는 중심 타선의 무게감은 분명하고, 김지찬과 김성윤이 앞에서 출루 흐름을 잘 만들어 주고 있습니다. 선발 김백산은 시즌 전체 표본은 크지 않지만 안정적인 이닝 소화 흐름을 보이고 있어, 타선 지원을 받는다면 경기 초반 주도권을 잡을 가능성이 높아 보입니다."
+awayAnalysis: "KT 위즈는 2026시즌 최근 86경기 50승 2무 34패, 평균 득점 5.1로 리그 최상위권 경쟁력을 유지하고 있으며, 최근 경기 흐름도 4승 1무 4패로 크게 무너지지 않고 있습니다. 최근에는 두산과 SSG를 상대로 필요한 승리를 챙기면서도, 득점이 막히는 날에는 공격 전개가 다소 답답해지는 모습도 함께 보이고 있습니다. 전체적으로 투수진이 버티는 힘은 분명하지만, 타선이 경기마다 폭발력과 효율성에서 차이를 보이는 점은 아쉬운 부분입니다. 최원준, 안현민, 김현수 중심의 상위 타선은 출루와 연결 능력이 괜찮지만, 하위 타선에서 흐름이 끊기면 공격의 깊이가 얕아질 수 있습니다. 선발 오원석은 많은 경기 경험을 쌓았지만 평균 실점 억제에서는 기복이 보여서, 강한 삼성 타선을 상대로는 초반 실점 관리가 중요해 보입니다."
+homePower: "삼성 라이온스 중심 타선 파괴력 우위가 뚜렷함|김지찬-김성윤 상위 출루 흐름이 살아 있음|김백산, 짧은 이닝 안에서 리듬 잡는 유형으로 보임|구자욱-최형우-디아즈 연결이 장타 기대치 높임|김영웅 수비 기복은 변수지만 득점력은 충분히 감당됨"
+awayPower: "KT 위즈 상위 타선은 출루와 연결 능력 보임|오원석, QS는 있으나 실점 억제는 흔들림 있음|최원준-김현수 축이 초반 득점 출발점임|중하위 타선 생산성 편차가 공격 완성도에 영향 줌|강한 상대를 만나면 한 방보다 누적 압박이 필요함"
+h2h: '[{"date":"26.06.28","home":"삼성 라이온스","away":"KT 위즈","score":"7-4","link":"https://pick79.com/posts/detail/analyze-181805-2026-06-28-samsung-lions/"},{"date":"26.06.27","home":"삼성 라이온스","away":"KT 위즈","score":"4-3","link":"https://pick79.com/posts/detail/analyze-181798-2026-06-27-samsung-lions/"},{"date":"26.06.26","home":"삼성 라이온스","away":"KT 위즈","score":"9-1","link":"https://pick79.com/posts/detail/analyze-181795-2026-06-26-samsung-lions/"},{"date":"26.06.11","home":"KT 위즈","away":"삼성 라이온스","score":"1-8","link":"https://pick79.com/posts/detail/analyze-181729-2026-06-11-kt-wiz-suwon/"},{"date":"26.06.10","home":"KT 위즈","away":"삼성 라이온스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-181724-2026-06-10-kt-wiz-suwon/"}]'
+summary: "삼성 라이온스는 2026시즌 전체 흐름에서 득점 생산이 더 강하고, 최근 경기에서도 타선이 폭발하는 장면이 자주 나오고 있습니다. KT 위즈도 시즌 전반 전력은 탄탄하지만, 최근 공격 흐름은 삼성보다 한 박자 덜 매끄럽게 보이며 강한 타선을 만났을 때 실점 관리가 관건이었습니다. 최근 맞대결에서도 삼성 라이온스가 우세한 결과를 이어가고 있어, 이번 경기도 삼성 라이온스가 전력과 상성 모두에서 앞설 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.27","home":"키움 히어로즈","away":"삼성 라이온스","score":"2-15","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827SSWO02026-2026-08-27-kiwoom-heroes/"},{"date":"26.08.26","home":"키움 히어로즈","away":"삼성 라이온스","score":"2-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826SSWO02026-2026-08-26-kiwoom-heroes/"},{"date":"26.08.25","home":"키움 히어로즈","away":"삼성 라이온스","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825SSWO02026-2026-08-25-kiwoom-heroes/"},{"date":"26.08.23","home":"NC 다이노스","away":"삼성 라이온스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823SSNC02026-2026-08-23-nc-dinos/"},{"date":"26.08.22","home":"NC 다이노스","away":"삼성 라이온스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260822SSNC02026-2026-08-22-nc-dinos/"}]'
+awayRecent: '[{"date":"26.08.27","home":"KT 위즈","away":"두산 베어스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827OBKT02026-2026-08-27-kt-wiz-suwon/"},{"date":"26.08.25","home":"KT 위즈","away":"두산 베어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825OBKT02026-2026-08-25-kt-wiz-suwon/"},{"date":"26.08.23","home":"SSG 랜더스","away":"KT 위즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823KTSK02026-2026-08-23-ssg-landers/"},{"date":"26.08.21","home":"SSG 랜더스","away":"KT 위즈","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821KTSK02026-2026-08-21-ssg-landers/"},{"date":"26.08.20","home":"LG 트윈스","away":"KT 위즈","score":"4-16","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820KTLG02026-2026-08-20-lg-twins/"}]'
+injuryHome: "이재희 (부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성 라이온스"
+pickWinResult: "승"
+pickHandicapTeam: "삼성 라이온스"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

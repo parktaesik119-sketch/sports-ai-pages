@@ -1,0 +1,37 @@
+---
+title: "시애틀 사운더스 vs 시카고 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLS - 픽천국"
+date: 2026-08-29T20:30:00.000Z
+description: "시애틀 사운더스 vs 시카고 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071311-2026-08-30-seattle-sounders"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "시애틀 사운더스"
+awayTeam: "시카고"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/130394.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6397.png"
+homeAnalysis: "시애틀 사운더스는 2026시즌 최근 14경기에서 2승 2무 10패, 평균 득점 0.9로 공격 생산성이 낮고 결과 기복도 큰 흐름을 보이고 있습니다. 최근에는 실점 억제가 흔들리면서 한 골 차 승부에서도 버티지 못하는 장면이 늘었고, 홈에서도 주도권을 끝까지 유지하지 못한 경우가 많았습니다. 다만 퀘레타로전 3득점처럼 한 번 흐름이 붙으면 득점이 터질 여지는 있어, 초반 압박과 세트피스 활용이 살아나면 경기 내용은 달라질 수 있습니다. 최근 경기들에서는 포인트를 만든 뒤 마무리에서 흔들리는 모습이 반복되어, 공격 전개보다 최종 패스와 결정력이 더 중요하게 보입니다. 홈 이점을 안고 치르는 만큼 수비 집중도를 먼저 세우면 경기 운영은 한층 안정될 가능성이 있습니다."
+awayAnalysis: "시카고는 2026시즌 최근 8경기에서 5승 2무 1패, 평균 득점 1.6으로 상승 흐름이 분명하고 공격 효율도 좋은 편입니다. 최근 원정에서도 실리 있게 점수를 쌓아가며 경기마다 득점 루트를 만들어내고 있어, 전방 연결과 마무리의 완성도가 돋보입니다. 특히 실점이 아주 적지는 않더라도, 필요한 순간에 다시 득점으로 응답하는 힘이 있어 접전에서 쉽게 무너지지 않는 모습입니다. 최근에는 공격 자원들이 고르게 관여하면서 특정 선수 한 명에만 의존하지 않는 점도 강점으로 평가됩니다. 원정 부담이 있더라도 현재 전력 흐름만 놓고 보면 자신감 있게 경기를 풀어갈 가능성이 있습니다."
+homePower: "최근 실점 억제 흔들림이 승부 지속력 저하로 이어짐|득점이 낮아 선제골 의존도가 매우 큰 구조임|홈에서 주도권을 잡아도 마무리 효율이 관건임|상대 압박이 강할 때 후방 전개가 쉽게 끊어짐|세트피스 한 방이 흐름 전환의 핵심 변수임"
+awayPower: "최근 득점 루트가 다양해 공격 예측이 어려움|원정에서도 공격 템포가 크게 떨어지지 않음|짧은 기간 내 결과 회복력이 좋은 편임|접전 상황에서 추가 득점으로 균형을 깨는 힘이 있음|전방 자원들의 동시 기여가 상승세를 받침"
+h2h: '[]'
+summary: "시애틀 사운더스는 2026시즌 전체 흐름상 득점 생산이 낮고 실점 관리도 흔들리는 편이라, 경기 운영에서 안정감이 부족해 보입니다. 반면 시카고는 최근 8경기 기준으로 공격 효율과 결과 흐름이 모두 더 좋고, 원정에서도 득점 루트를 유지하고 있어 전력 균형에서 우위가 느껴집니다. 다만 시애틀 사운더스가 홈에서 초반 압박과 세트피스를 잘 살리면 경기 양상은 팽팽해질 수 있으나, 현재 흐름만 놓고 보면 시카고가 한 발 앞설 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[{"date":"26.08.26","home":"Monterrey","away":"시카고","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6028326-2026-08-26-monterrey/"},{"date":"26.08.23","home":"뉴욕 레드불스","away":"시카고","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5071295-2026-08-23-ny-red-bulls/"},{"date":"26.08.20","home":"올랜도 시티","away":"시카고","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5071280-2026-08-20-orlando/"},{"date":"26.08.17","home":"시카고","away":"포틀랜드","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5071273-2026-08-17-chicago/"},{"date":"26.08.14","home":"Cruz Azul","away":"시카고","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5844874-2026-08-14-cruz-azul/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고"
+pickWinResult: "승"
+pickHandicapTeam: "시카고"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

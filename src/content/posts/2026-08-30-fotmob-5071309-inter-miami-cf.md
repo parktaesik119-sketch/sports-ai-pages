@@ -1,0 +1,37 @@
+---
+title: "인터 마이애미 vs CF 몽레알 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLS - 픽천국"
+date: 2026-08-29T23:30:00.000Z
+description: "인터 마이애미 vs CF 몽레알 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071309-2026-08-30-inter-miami-cf"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "인터 마이애미"
+awayTeam: "CF 몽레알"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/161195.png"
+homeAnalysis: "인터 마이애미는 2026시즌 전체 DB 기준 1승 3무 8패, 평균 득점 1.5로 시즌 흐름이 좋지 않지만 리그순위 2위와 득실 49-40이 보여주듯 공격 생산 자체는 상위권 수준을 유지하고 있습니다. 최근 12경기 흐름에서는 승리를 길게 이어가지 못하고 실점 관리가 흔들리는 모습이 뚜렷하지만, 홈에서는 리오넬 메시와 루이스 수아레스의 결정력이 여전히 위협적으로 작용할 수 있습니다. 특히 로드리고 데 파울과 카세미루가 중원에서 템포를 정리해 주면, 전방의 질은 충분히 높은 편으로 평가됩니다. 다만 최근에는 후방 라인이 흔들리는 장면이 잦아 세 경기 운영보다 경기 초반 집중력이 더 중요해 보입니다. 전반적으로 홈 이점과 개별 기량은 분명하지만, 수비 안정성이 따라주느냐가 경기의 핵심입니다."
+awayAnalysis: "CF 몽레알은 2026시즌 전체 DB 기준 4승 6무 3패, 평균 득점 1.3으로 리그순위 14위지만 최근 경기에서는 패배를 줄이고 승점을 꾸준히 쌓으며 반등 조짐을 보이고 있습니다. 득실 29-39가 말해주듯 공격 폭발력보다는 실점 억제와 버티는 전개가 더 눈에 띄는 편입니다. 최근에는 원정에서도 콜럼버스 원정 승리처럼 한 번 흐름을 타면 쉽게 무너지지 않는 모습이 확인되고 있습니다. 다만 공격 전개는 다니엘 리오스와 프린스 오세이 오우수 중심으로 나쁘지 않지만, 마무리에서 기복이 남아 있어 큰 득점 기대를 두기에는 다소 제한적입니다. 수비 쪽도 결장자가 적지 않아, 상위권 팀을 상대로는 압박을 오래 견디는 운영이 중요해 보입니다."
+homePower: "리오넬 메시-루이스 수아레스 동시 기용으로 마무리 질감 우위임|로드리고 데 파울-카세미루 조합으로 중원 장악력 기대됨|득점력은 유지되나 실점 억제가 더 큰 과제임|홈에서 전개 속도 올라가면 상대 수비 흔들 가능성 높음|상위권 리그순위에도 흔들린 수비가 변수로 남아 있음"
+awayPower: "최근 승점을 꾸준히 챙기며 버티는 전력임|다니엘 리오스-프린스 오세이 오우수 전방 연계가 핵심임|원정에서도 쉽게 무너지지 않는 응집력 보임|득점은 많지 않지만 실점 관리가 승부 변수임|결장 공백이 수비 안정성에 직접 영향 줄 가능성 큼"
+h2h: '[{"date":"26.07.26","home":"CF 몽레알","away":"인터 마이애미","score":"0-1","link":"https://pick79.com/posts/detail/analyze-1490347-2026-07-26-cf-montreal/"},{"date":"25.07.06","home":"CF 몽레알","away":"인터 마이애미","score":"1-4"},{"date":"25.05.29","home":"인터 마이애미","away":"CF 몽레알","score":"4-2"},{"date":"24.05.12","home":"CF 몽레알","away":"인터 마이애미","score":"2-3"},{"date":"24.03.11","home":"인터 마이애미","away":"CF 몽레알","score":"2-3"}]'
+summary: "인터 마이애미는 리그순위 2위와 득실 49-40이 보여주듯 기본 전력의 상한이 높고, CF 몽레알은 리그순위 14위지만 최근 경기에서 승점 누적을 이어가며 쉽게 물러서지 않는 모습을 보이고 있습니다. 다만 최근 흐름과 시즌 전체 전력을 함께 보면 인터 마이애미의 공격 자원과 중원 조합이 더 강하게 작동할 가능성이 높고, 몽레알은 수비 응집력으로 버티는 쪽에 가깝습니다. 상대전적에서도 인터 마이애미가 최근 맞대결에서 우세한 흐름을 이어가고 있어, 전체적인 무게추는 홈팀 쪽으로 기울어져 있습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Dayne St. Clair (GK)|https://images.fotmob.com/image_resources/playerimages/1026105.png","Ian Fray (DF)|https://images.fotmob.com/image_resources/playerimages/1171135.png","Gonzalo Luján (DF)|https://images.fotmob.com/image_resources/playerimages/1257342.png","Maximiliano Falcón (DF)|https://images.fotmob.com/image_resources/playerimages/1134104.png","Sergio Reguilón (DF)|https://images.fotmob.com/image_resources/playerimages/724436.png","Rodrigo De Paul (MF)|https://images.fotmob.com/image_resources/playerimages/324578.png","Casemiro (MF)|https://images.fotmob.com/image_resources/playerimages/208494.png","Telasco Segovia (MF)|https://images.fotmob.com/image_resources/playerimages/1253904.png","Lionel Messi (FW)|https://images.fotmob.com/image_resources/playerimages/30981.png","Luis Suárez (FW)|https://images.fotmob.com/image_resources/playerimages/40636.png","Germán Berterame (FW)|https://images.fotmob.com/image_resources/playerimages/743536.png"]'
+awayLineup: '["Thomas Gillier (GK)|https://images.fotmob.com/image_resources/playerimages/1432807.png","Dawid Bugaj (DF)|https://images.fotmob.com/image_resources/playerimages/1639641.png","Jalen Neal (DF)|https://images.fotmob.com/image_resources/playerimages/1171825.png","Brayan Vera (DF)|https://images.fotmob.com/image_resources/playerimages/1053724.png","Luca Petrasso (DF)|https://images.fotmob.com/image_resources/playerimages/1037553.png","Matthew Longstaff (MF)|https://images.fotmob.com/image_resources/playerimages/961343.png","Daniel Pereira (MF)|https://images.fotmob.com/image_resources/playerimages/1246736.png","Victor Loturi (MF)|https://images.fotmob.com/image_resources/playerimages/1268808.png","Noah Streit (FW)|https://images.fotmob.com/image_resources/playerimages/1481891.png","Prince Osei Owusu (FW)|https://images.fotmob.com/image_resources/playerimages/659094.png","Daniel Ríos (FW)|https://images.fotmob.com/image_resources/playerimages/723480.png"]'
+homeFormation: "4-3-2-1"
+awayFormation: "4-3-3"
+homeCoach: "Angel Guillermo Hoyos|https://images.fotmob.com/image_resources/playerimages/789362.png"
+awayCoach: "Philippe Eullaffroy|https://images.fotmob.com/image_resources/playerimages/1963838.png"
+pickWinTeam: "인터 마이애미"
+pickWinResult: "승"
+pickHandicapTeam: "인터 마이애미"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

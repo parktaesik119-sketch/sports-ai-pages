@@ -1,0 +1,37 @@
+---
+title: "뉴욕 메츠 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (8월 29일) | MLB - 픽천국"
+date: 2026-08-28T23:10:00.000Z
+description: "뉴욕 메츠 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 메츠"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "뉴욕 메츠는 2026시즌 최근 93경기에서 44승 1무 48패, 평균 득점 4.3을 기록하며 시즌 전체 전력은 승패가 크게 벌어지지 않은 모습입니다. 최근 흐름도 10경기 6승 4패로 완전히 꺾이진 않았고, 공격에서는 꾸준히 득점을 만들어내는 장면이 이어지고 있습니다. 다만 직전 경기에서 1득점에 그친 점처럼 타선의 기복이 나타날 때는 경기 운영이 급격히 무거워지는 편입니다. 홈에서는 승부를 접전으로 끌고 가는 힘이 있고, 중반 이후 한 방을 만들어낼 자원도 갖추고 있습니다. 다만 장기 결장자가 적지 않아 중심 타선의 응집력과 마무리 효율은 다소 약해진 상태로 보입니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 최근 83경기에서 44승 1무 38패, 평균 득점 4.4를 기록하며 홈팀보다 시즌 전력 균형이 조금 더 나은 흐름입니다. 최근 10경기에서는 3승 7패로 주춤했지만, 시즌 전체 순위와 득실 차를 보면 완전히 무너진 팀은 아니고 반등 여지는 남아 있습니다. 특히 원정에서도 장타와 연결타가 살아나는 날에는 득점 생산이 빠르게 올라가는 편입니다. 다만 최근에는 실점이 크게 늘어나는 경기들이 반복되며 불펜과 수비 쪽 불안이 드러나고 있습니다. 장기 결장자 공백까지 겹쳐 중심 전력의 무게감은 떨어졌지만, 여전히 한두 번의 찬스를 점수로 바꾸는 능력은 기대할 만합니다."
+homePower: "홈에서는 접전 운영이 가능한 전개력 보임|중심 전력 공백으로 장타 응집력은 약화됨|최근 타선 기복으로 초반 흐름 좌우됨|수비 불안은 실점 확대 변수로 작용함|경기 후반 한 점 싸움에서는 버틸 힘 있음"
+awayPower: "시즌 전력 균형은 홈팀보다 한층 안정적임|최근 실점 증가로 투수진 부담이 커짐|원정에서도 득점 연결 능력은 살아 있음|장기 결장자 공백이 중심 타선에 부담임|접전에서는 마무리 집중력이 관건임"
+h2h: '[]'
+summary: "뉴욕 메츠는 시즌 전체에서는 비슷한 승패 균형을 유지하고 있지만, 최근에는 득점 기복과 핵심 전력 공백이 겹치며 안정감이 조금 떨어져 보입니다. 휴스턴 애스트로스는 최근 흐름이 흔들리고는 있어도 시즌 전체 전력과 득실 면에서 한 단계 더 나은 기반을 보여주고 있습니다. 두 팀 모두 실점 관리가 완벽하지는 않지만, 경기 전체를 넓게 보면 휴스턴 애스트로스 쪽이 공격의 연결성과 전력 균형에서 조금 더 우세하게 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.27","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MINM0-2026-08-27-new-york-mets/"},{"date":"26.08.26","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MINM0-2026-08-26-new-york-mets/"},{"date":"26.08.24","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824NMCW0-2026-08-24-chicago-white-sox/"},{"date":"26.08.23","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"5-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823NMCW0-2026-08-23-chicago-white-sox/"},{"date":"26.08.22","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822NMCW0-2026-08-22-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"},{"date":"26.08.26","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"7-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826HONY0-2026-08-26-new-york-yankees/"},{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824OAHO0-2026-08-24-houston-astros/"},{"date":"26.08.23","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823OAHO0-2026-08-23-houston-astros/"},{"date":"26.08.21","home":"휴스턴 애스트로스","away":"LA 에인절스","score":"3-18","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821ANHO0-2026-08-21-houston-astros/"}]'
+injuryHome: "Bo Bichette (타박상)|Juan Soto (근육 염좌)|Cionel Perez (근육 염좌)|Mark Vientos (골절)|Justin Hagenman (골절)"
+injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 애스트로스"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 애스트로스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

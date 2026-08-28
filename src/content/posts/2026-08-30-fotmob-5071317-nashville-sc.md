@@ -1,0 +1,37 @@
+---
+title: "내슈빌 SC vs FC 신시내티 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLS - 픽천국"
+date: 2026-08-30T00:30:00.000Z
+description: "내슈빌 SC vs FC 신시내티 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071317-2026-08-30-nashville-sc"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "내슈빌 SC"
+awayTeam: "FC 신시내티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/915807.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png"
+homeAnalysis: "내슈빌 SC는 2026시즌 최근 16경기에서 9승 2무 5패, 평균 득점 1.8로 리그순위 1위에 올라 있으며 득실도 43-17로 매우 안정적인 흐름입니다. 시즌 내내 홈에서 경기 운영이 단단했고, 최근에도 콜럼버스전과 뉴욕 레드불스전, 인터 마이애미전에서 연달아 좋은 결과를 내며 상위권 전력을 그대로 보여주고 있습니다. 특히 한니 무크타르와 샘 서리지가 전방에서 결정력을 책임지고 있고, 크리스티안 에스피노사까지 더해지면서 공격 전개가 한층 다채로워 보입니다. 수비에서는 다니엘 로비츠와 맥스웰 월레드지, 저이송 팔라시우스 중심의 라인이 실점을 잘 억제해 주고 있어, 강한 상대를 만나도 쉽게 무너지지 않는 점이 돋보입니다. 다만 크리스토퍼 애플화이트와 워런 매드리갈의 이탈은 뎁스 측면에서 약간의 부담이 될 수 있지만, 현재 흐름 자체가 워낙 좋아 홈 우세를 이어갈 가능성이 높아 보입니다."
+awayAnalysis: "FC 신시내티는 2026시즌 최근 15경기에서 3승 4무 8패, 평균 득점 1.5로 리그순위 6위에 머물고 있으며 득실도 49-47로 상하 격차가 크지 않은 편입니다. 공격에서 에반더 페레이라와 켄지 음보마 뎀, 톰 바를로우가 나서는 구조는 득점 가능성을 열어두지만, 경기마다 마무리 효율이 흔들리면서 전력의 안정감이 떨어져 보입니다. 최근에도 시애틀전과 올랜도전처럼 버티는 흐름은 만들었지만, 아틀라스전과 파추카전처럼 실점이 이어지는 경기에서는 수비 조직이 쉽게 흔들리는 모습이 나타났습니다. 브라이언 아눈가와 브라이언 라미레즈가 중원에서 버팀목 역할을 해 주고 있으나, 전반적인 경기 지배력은 리그순위에 비해 더 끌어올려야 하는 상황입니다. 결장자가 없다는 점은 긍정적이지만, 원정에서 상대 압박을 견디며 흐름을 가져오는 능력은 아직 불안하게 보입니다."
+homePower: "한니 무크타르 중심의 전개 완성도가 높음|샘 서리지의 박스 안 마무리 힘이 뚜렷함|홈에서 실점 억제력과 압박 완성도 우수함|다니엘 로비츠-팔라시우스 축의 수비 안정감 있음|결장자 공백보다 주전 조직력 유지가 더 중요함"
+awayPower: "에반더 페레이라의 전진 패스가 핵심임|브라이언 라미레즈의 왕복 활동량이 강점임|톰 바를로우 활용 시 세컨드볼 경쟁력 있음|실점 뒤 추격력은 있으나 유지력은 기복 있음|원정에서는 라인 간격 관리가 관건으로 보임"
+h2h: '[{"date":"25.09.14","home":"FC 신시내티","away":"내슈빌 SC","score":"2-1"},{"date":"25.03.30","home":"내슈빌 SC","away":"FC 신시내티","score":"1-2"},{"date":"24.09.22","home":"내슈빌 SC","away":"FC 신시내티","score":"2-2"},{"date":"24.05.30","home":"FC 신시내티","away":"내슈빌 SC","score":"0-2"},{"date":"23.08.05","home":"FC 신시내티","away":"내슈빌 SC","score":"1-1"}]'
+summary: "내슈빌 SC는 리그순위 1위답게 시즌 전반의 안정감이 매우 높고, 최근 흐름까지 더해 보면 전력 우위가 분명하게 느껴집니다. FC 신시내티는 리그순위 6위로 공격 재능은 충분하지만, 득실 격차와 최근 전개를 함께 보면 경기마다 흔들림이 있어 상위권 팀을 상대로는 부담이 커 보입니다. 상대전적에서도 접전이 적지 않았지만, 내슈빌 SC가 홈에서 보여 준 압박 강도와 마무리 효율을 감안하면 이번에는 홈팀이 더 주도권을 잡을 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Christopher Applewhite (부상)|Warren Madrigal (충돌 부상)"
+injuryAway: "없음"
+homeLineup: '["Brian Schwake (GK)|https://images.fotmob.com/image_resources/playerimages/1169991.png","Andy Nájar (DF)|https://images.fotmob.com/image_resources/playerimages/198453.png","Jeisson Palacios (DF)|https://images.fotmob.com/image_resources/playerimages/641306.png","Maxwell Woledzi (DF)|https://images.fotmob.com/image_resources/playerimages/1069403.png","Daniel Lovitz (DF)|https://images.fotmob.com/image_resources/playerimages/525617.png","Cristian Espinoza (FW)|https://images.fotmob.com/image_resources/playerimages/589897.png","Patrick Yazbek (MF)|https://images.fotmob.com/image_resources/playerimages/1235411.png","Matthew Corcoran (MF)|https://images.fotmob.com/image_resources/playerimages/1341159.png","Alex Muyl (MF)|https://images.fotmob.com/image_resources/playerimages/729772.png","Hany Mukhtar (FW)|https://images.fotmob.com/image_resources/playerimages/394462.png","Sam Surridge (FW)|https://images.fotmob.com/image_resources/playerimages/796747.png"]'
+awayLineup: '["Roman Celentano (GK)|https://images.fotmob.com/image_resources/playerimages/1337962.png","Samuel Gidi (MF)|https://images.fotmob.com/image_resources/playerimages/1383071.png","Miles Robinson (DF)|https://images.fotmob.com/image_resources/playerimages/825623.png","Andrei Chirila (DF)|https://images.fotmob.com/image_resources/playerimages/1742250.png","Ender Echenique (MF)|https://images.fotmob.com/image_resources/playerimages/1248686.png","Gerardo Valenzuela (MF)|https://images.fotmob.com/image_resources/playerimages/1362857.png","Brian Anunga (MF)|https://images.fotmob.com/image_resources/playerimages/841458.png","Bryan Ramírez (MF)|https://images.fotmob.com/image_resources/playerimages/1458513.png","Evander Ferreira (MF)|https://images.fotmob.com/image_resources/playerimages/787351.png","Kenji Mboma Dem (FW)|https://images.fotmob.com/image_resources/playerimages/1650499.png","Tom Barlow (FW)|https://images.fotmob.com/image_resources/playerimages/847753.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-4-1-2"
+homeCoach: "BJ Callaghan|https://images.fotmob.com/image_resources/playerimages/1494306.png"
+awayCoach: "Pat Noonan|https://images.fotmob.com/image_resources/playerimages/70286.png"
+pickWinTeam: "내슈빌 SC"
+pickWinResult: "승"
+pickHandicapTeam: "내슈빌 SC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

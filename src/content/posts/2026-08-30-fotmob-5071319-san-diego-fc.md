@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 FC vs LA 갤럭시 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLS - 픽천국"
+date: 2026-08-30T02:30:00.000Z
+description: "샌디에이고 FC vs LA 갤럭시 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071319-2026-08-30-san-diego-fc"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "샌디에이고 FC"
+awayTeam: "LA 갤럭시"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1701119.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6637.png"
+homeAnalysis: "샌디에이고 FC는 2026시즌 전체 DB에서 6승 5무 5패, 평균 득점 1.5를 기록하며 리그순위 11위에 올라 있습니다. 최근에는 멕시코 지역 팀들과의 일정까지 포함해 기복이 있었지만, LA FC와 콜로라도를 상대로 승리를 거두며 한 번 흐름을 끌어올린 장면이 보였습니다. 특히 홈에서는 공격 전개가 한층 과감해지고 있어 3득점 경기도 만들 수 있는 점이 강점으로 평가됩니다. 다만 포틀랜드 원정과 같이 압박이 강한 상대를 만났을 때는 실점 관리가 흔들리는 모습도 확인됩니다. 제펜 티버스코브와 가브리엘 피라니를 중심으로 중원 연결이 안정되면, 안드레스 드레이어와 엘리아스 아추오리가 전방에서 마무리 효율을 높일 가능성이 있습니다."
+awayAnalysis: "LA 갤럭시는 2026시즌 전체 DB에서 4승 5무 3패, 평균 득점 1.3을 기록하며 리그순위 12위에 자리하고 있습니다. 득실이 마이너스인 만큼 공격과 수비의 균형이 아직 완전히 맞아떨어지지 않았고, 최근에도 무실점과 다득점이 번갈아 나오는 편차가 보입니다. 몬트리올전과 샌호세전에서 흐름을 되살렸지만, 휴스턴전처럼 득점이 막히면 경기 운영이 답답해지는 점이 있습니다. 리키 푸이그와 호아오 클라우스의 이탈은 전방 창의성과 결정력에서 부담으로 이어질 수 있어 보입니다. 다만 조셉 페인실과 교코 후루하시, 로버트 테일러가 전방에서 연계와 침투를 함께 살리면 반등 여지는 분명히 있습니다."
+homePower: "홈에서 공격 템포가 살아나는 구조가 분명함|안드레스 드레이어 중심 마무리 의존도 높음|제펜 티버스코브 축 중원 안정감이 강점임|실점 억제보다 득점 교환전이 더 잘 맞음|리그순위 대비 홈 에너지로 반등 여지 보임"
+awayPower: "리키 푸이그 공백으로 창의성 저하 우려됨|조셉 페인실-교코 후루하시 연계가 핵심임|평균 득점 1.3, 한 골 싸움에 강한 편임|원정에서 버티는 힘은 있으나 폭발력 제한됨|득실 마이너스라 수비 집중력 유지가 관건임"
+h2h: '[{"date":"25.05.25","home":"샌디에이고 FC","away":"LA 갤럭시","score":"2-1"},{"date":"25.02.24","home":"LA 갤럭시","away":"샌디에이고 FC","score":"0-2"}]'
+summary: "샌디에이고 FC는 리그순위 11위지만 최근 홈 경기에서 공격적인 색채가 살아나며 한 번 분위기를 끌어올린 흐름이 보입니다. LA 갤럭시는 리그순위 12위로 순위는 더 낮지만, 득점이 전혀 막히지 않는 편은 아니라서 쉽게 무너지는 그림만 있는 팀은 아닙니다. 다만 두 팀의 시즌 흐름을 함께 보면 샌디에이고 FC가 홈에서 더 능동적으로 경기를 풀 가능성이 높고, 상대전적에서도 이미 우위를 확인한 만큼 전체적인 주도권은 홈팀 쪽에 더 가깝습니다. 이런 점을 감안하면 샌디에이고 FC가 전력상 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Marcus Alstrup (근육 부상)"
+injuryAway: "JT Marcinkowski (부상)|Lucas Sanabria (부상)|Elijah Wynder (발목 부상)|Riqui Puig (무릎 부상)|João Klauss (발 부상)"
+homeLineup: '["Carlos Dos Santos (GK)|https://images.fotmob.com/image_resources/playerimages/1054027.png","Oscar Verhoeven (DF)|https://images.fotmob.com/image_resources/playerimages/1510858.png","Manu Duah (DF)|https://images.fotmob.com/image_resources/playerimages/1729741.png","Ian Murphy (DF)|https://images.fotmob.com/image_resources/playerimages/1337964.png","Luca Bombino (DF)|https://images.fotmob.com/image_resources/playerimages/1617160.png","Aníbal Godoy (MF)|https://images.fotmob.com/image_resources/playerimages/308131.png","Jeppe Tverskov (MF)|https://images.fotmob.com/image_resources/playerimages/435493.png","Gabriel Pirani (MF)|https://images.fotmob.com/image_resources/playerimages/1202616.png","Anders Dreyer (FW)|https://images.fotmob.com/image_resources/playerimages/641344.png","Onni Valakari (MF)|https://images.fotmob.com/image_resources/playerimages/835948.png","Elias Achouri (MF)|https://images.fotmob.com/image_resources/playerimages/1015128.png"]'
+awayLineup: '["James Marcinkowski (GK)|https://images.fotmob.com/image_resources/playerimages/847987.png","Harbor Miller (FW)|https://images.fotmob.com/image_resources/playerimages/1683714.png","Jakob Glesnes (DF)|https://images.fotmob.com/image_resources/playerimages/259484.png","Maya Yoshida (DF)|https://images.fotmob.com/image_resources/playerimages/72665.png","John Nelson (DF)|https://images.fotmob.com/image_resources/playerimages/1026048.png","Rubén Ramos (FW)|https://images.fotmob.com/image_resources/playerimages/1478368.png","Isaiah Parente (MF)|https://images.fotmob.com/image_resources/playerimages/1245255.png","Justin Haak (DF)|https://images.fotmob.com/image_resources/playerimages/1026144.png","Joseph Paintsil (FW)|https://images.fotmob.com/image_resources/playerimages/850924.png","Kyogo Furuhashi (FW)|https://images.fotmob.com/image_resources/playerimages/826089.png","Robert Taylor (FW)|https://images.fotmob.com/image_resources/playerimages/448543.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Mikey Varas|https://images.fotmob.com/image_resources/playerimages/1481472.png"
+awayCoach: "Greg Vanney|https://images.fotmob.com/image_resources/playerimages/30387.png"
+pickWinTeam: "샌디에이고 FC"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

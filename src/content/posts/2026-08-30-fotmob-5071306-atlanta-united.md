@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 유나이티드 vs 샬럿 FC 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLS - 픽천국"
+date: 2026-08-29T23:30:00.000Z
+description: "애틀랜타 유나이티드 vs 샬럿 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071306-2026-08-30-atlanta-united"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "애틀랜타 유나이티드"
+awayTeam: "샬럿 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/773958.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1323940.png"
+homeAnalysis: "애틀랜타 유나이티드는 2026시즌 전체 DB 기준 4승 2무 5패, 평균 득점 1.4로 승부를 길게 끌기보다 흐름을 탄 구간에서 힘을 내는 전력입니다. 최근 3경기 연속 승리로 반등 기류가 뚜렷하고, 리그순위 12위라는 현재 위치에 비해 경기 내용은 분명히 살아나는 모습입니다. 다만 시즌 전체적으로는 실점이 더 많은 흐름이어서, 공격에서 먼저 득점하지 못하면 경기 운영이 다소 거칠어질 수 있습니다. 홈에서는 공격 전개가 비교적 매끄럽게 이어질 가능성이 있고, 미구엘 알미론과 알렉세이 미란추크를 축으로 한 2선 창의성이 득점 기대를 끌어올릴 여지가 있습니다. 상대전적에서도 샬럿 FC를 상대로 원정과 홈을 가리지 않고 득점 장면을 만들어 온 편이라, 이번에도 초반 주도권 싸움에서 밀리지 않으려는 모습이 기대됩니다."
+awayAnalysis: "샬럿 FC는 2026시즌 전체 DB 기준 5승 2무 6패, 평균 득점 1.6으로 애틀랜타 유나이티드보다 한 단계 앞선 생산성을 보여주고 있습니다. 현재 리그순위 5위에 올라 있는 만큼 시즌 전체 전력은 분명 안정적이지만, 최근 흐름에서는 승패가 반복되며 고점 대비 다소 주춤한 모습도 함께 보입니다. 그래도 최근 경기에서 다득점 장면이 자주 나왔고, 공격 전개가 살아 있을 때는 상대를 강하게 몰아붙이는 힘이 있습니다. 앨런 생 막시망과 페페 비엘이 전방과 2선에서 리듬을 만들고 있어, 공격의 완성도가 올라가면 원정에서도 주도권을 가져갈 가능성이 있습니다. 다만 수비 쪽에서는 완전히 단단한 흐름으로 보기는 어려워, 실점 억제가 따라주지 않으면 경기 양상이 쉽게 열릴 수 있습니다."
+homePower: "최근 3연승으로 상승세 전환이 분명함|리그순위 12위 대비 반등 속도 빠름|알미론-미란추크 조합이 전개 핵심임|홈에서는 초반 압박 강도가 살아남|실점 관리만 되면 접전 끝 우위 가능성 있음"
+awayPower: "리그순위 5위답게 시즌 안정감은 검증됨|평균 득점 1.6으로 마무리 효율 우세함|생 막시망 활용 시 측면 파괴력 커짐|다득점 경기와 저득점 경기 편차가 있음|수비 흔들리면 우세를 지키기 어려움"
+h2h: '[{"date":"26.07.23","home":"샬럿 FC","away":"애틀랜타 유나이티드","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1490336-2026-07-23-charlotte/"},{"date":"26.04.29","home":"샬럿 FC","away":"애틀랜타 유나이티드","score":"0-2","link":"https://pick79.com/posts/detail/analyze-1540849-2026-04-29-charlotte/"},{"date":"25.07.20","home":"애틀랜타 유나이티드","away":"샬럿 FC","score":"2-3"},{"date":"25.03.02","home":"샬럿 FC","away":"애틀랜타 유나이티드","score":"2-0"},{"date":"24.09.01","home":"샬럿 FC","away":"애틀랜타 유나이티드","score":"0-1"}]'
+summary: "샬럿 FC는 리그순위 5위와 38득점 32실점의 균형 잡힌 수치가 보여주듯 시즌 전체 전력에서 한층 안정적인 편입니다. 애틀랜타 유나이티드는 리그순위 12위에 머물러 있지만, 최근 3연승으로 흐름을 크게 끌어올리며 순위와 다른 반등 기류를 만들고 있습니다. 두 팀 모두 공격 쪽에서는 장점이 분명하고, 상대전적에서도 접전이 반복되어 왔기 때문에 이번 경기도 중원 싸움과 결정력에서 우열이 갈릴 가능성이 높습니다. 전체적인 전력 안정감과 시즌 누적 생산성은 샬럿 FC 쪽이 조금 더 앞서 보이지만, 애틀랜타 유나이티드의 최근 상승세가 이어진다면 홈에서 충분히 균형을 흔들 수 있습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Ajani Fortune (햄스트링 부상)"
+injuryAway: "Harry Toffolo (충돌 부상)|Nimfasha Berchimas (부상)|Aron John (어깨 부상)"
+homeLineup: '["Lucas Hoyos (GK)|https://images.fotmob.com/image_resources/playerimages/113620.png","Tomás Jacob (DF)|https://images.fotmob.com/image_resources/playerimages/1308412.png","Paulo Díaz (DF)|https://images.fotmob.com/image_resources/playerimages/447556.png","Júnior Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/466214.png","Elías Báez (DF)|https://images.fotmob.com/image_resources/playerimages/1513339.png","Cooper Sanchez (MF)|https://images.fotmob.com/image_resources/playerimages/1732500.png","Adrian Gill (MF)|https://images.fotmob.com/image_resources/playerimages/1830234.png","Aleksey Miranchuk (FW)|https://images.fotmob.com/image_resources/playerimages/442581.png","Tristan Muyumba (MF)|https://images.fotmob.com/image_resources/playerimages/769928.png","Miguel Almirón (FW)|https://images.fotmob.com/image_resources/playerimages/442277.png","Fabrice Picault (FW)|https://images.fotmob.com/image_resources/playerimages/580600.png"]'
+awayLineup: '["Kristijan Kahlina (GK)|https://images.fotmob.com/image_resources/playerimages/653737.png","Will Cleary (DF)|https://images.fotmob.com/image_resources/playerimages/1909094.png","Morrison Agyemang (DF)|https://images.fotmob.com/image_resources/playerimages/1663548.png","Henry Kessler (DF)|https://images.fotmob.com/image_resources/playerimages/1136410.png","David Schnegg (DF)|https://images.fotmob.com/image_resources/playerimages/923240.png","Ashley Westwood (MF)|https://images.fotmob.com/image_resources/playerimages/182223.png","Luca de la Torre (MF)|https://images.fotmob.com/image_resources/playerimages/780418.png","Rodolfo Aloko (FW)|https://images.fotmob.com/image_resources/playerimages/1807287.png","Pep Biel (MF)|https://images.fotmob.com/image_resources/playerimages/897569.png","Allan Saint-Maximin (FW)|https://images.fotmob.com/image_resources/playerimages/466482.png","Idan Toklomati (FW)|https://images.fotmob.com/image_resources/playerimages/1404547.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Gerardo Martino|https://images.fotmob.com/image_resources/playerimages/80651.png"
+awayCoach: "Dean Smith|https://images.fotmob.com/image_resources/playerimages/23646.png"
+pickWinTeam: "샬럿 FC"
+pickWinResult: "승"
+pickHandicapTeam: "샬럿 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
