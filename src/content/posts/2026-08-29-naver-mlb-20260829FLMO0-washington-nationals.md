@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.27","home":"마이애미 말린스","away":"보스�
 injuryHome: "Richard Lovelady (종아리 염좌)|James Wood (종아리 염좌)|Drew Millas (골절)|Josiah Gray (종아리 염좌)|DJ Herz (종아리 염좌)"
 injuryAway: "Anthony Bender (골절)|Pete Fairbanks (신경 압박)|Max Meyer (종아리 염좌)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 homeLineup: "[\"선발투수 J. Kent (0-2, 8.03) ERA 8.03|https://a.espncdn.com/i/headshots/mlb/players/full/5007807.png\"]"
-awayLineup: "[\"선발투수 E. Perez (7-9, 3.17) ERA 3.17|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
+awayLineup: "[\"선발투수 E. Perez (7-9, 3.17) ERA 3.17|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\",\"1번 H. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42455.png\",\"2번 A. Ramirez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5132014.png\",\"3번 O. Lopez (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41917.png\",\"4번 J. Sanoja (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5073992.png\",\"5번 X. Edwards (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41326.png\",\"6번 K. Stowers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42796.png\",\"7번 L. Jimenez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41397.png\",\"8번 E. Ruiz (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/39680.png\",\"9번 J. Mack (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4872695.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
