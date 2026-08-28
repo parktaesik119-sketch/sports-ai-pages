@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.26","home":"세이부 라이온즈","away":"니혼�
 awayRecent: '[{"date":"26.08.27","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827SFJL0-2026-08-27-chiba-lotte-marines/"},{"date":"26.08.26","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826SFJL0-2026-08-26-chiba-lotte-marines/"},{"date":"26.08.25","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825SFJL0-2026-08-25-chiba-lotte-marines/"},{"date":"26.08.23","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823NHJL0-2026-08-23-chiba-lotte-marines/"},{"date":"26.08.21","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821NHJL0-2026-08-21-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Jay Ohkawa (0-0, 27.00)|https://p.npb.jp/players_photo/2026/180/f/027_61365152.jpg\"]"
+awayLineup: "[\"선발투수 Andre Jackson (9-7, 3.12)|https://p.npb.jp/players_photo/2026/180/m/042_43745159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
