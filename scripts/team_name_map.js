@@ -49,6 +49,7 @@ const TEAM_NAME_MAP = {
   "Deportivo Alaves": "알라베스",
   "Athletic Club": "아틀레틱 클럽",
   "Atletico Madrid": "아틀레티코 마드리드",
+  "Atlético Madrid": "아틀레티코 마드리드",
   "Barcelona": "바르셀로나",
   "Celta Vigo": "셀타 비고",
   "Elche": "엘체",
