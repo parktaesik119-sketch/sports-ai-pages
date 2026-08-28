@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.27","home":"애틀랜타 브레이브스","away":"L
 awayRecent: '[{"date":"26.08.28","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828COMO0-2026-08-28-washington-nationals/"},{"date":"26.08.27","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827COMO0-2026-08-27-washington-nationals/"},{"date":"26.08.26","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826COMO0-2026-08-26-washington-nationals/"},{"date":"26.08.25","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"13-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825COMO0-2026-08-25-washington-nationals/"},{"date":"26.08.24","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CLCO0-2026-08-24-colorado-rockies/"}]'
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 injuryAway: "Kyle Karros (뇌진탕)|Kris Bryant (수술)|McCade Brown (염증)|Kyle Freeland (끼인 신경)|Jose Quintana (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Holmes (8-5, 3.64) ERA 3.64|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
+awayLineup: "[\"선발투수 T. Sugano (12-7, 4.96) ERA 4.96|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

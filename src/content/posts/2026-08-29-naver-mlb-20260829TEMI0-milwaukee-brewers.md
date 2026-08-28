@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.27","home":"뉴욕 메츠","away":"밀워키 브루
 awayRecent: '[{"date":"26.08.27","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TECW0-2026-08-27-chicago-white-sox/"},{"date":"26.08.26","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TECW0-2026-08-26-chicago-white-sox/"},{"date":"26.08.25","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"2-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TECW0-2026-08-25-chicago-white-sox/"},{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"},{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에인절스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ANTE0-2026-08-23-texas-rangers/"}]'
 injuryHome: "Jake Bauers (염증)|JoJo Romero (수술)|Abner Uribe (부상)|Joel Kuhnel (건염)|Dustin May (타박상)"
 injuryAway: "Jack Leiter (수술)|Josh Jung (부상)|Michael Helman (골절)|Carter Baumler (부상)|Robert Garcia (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Henderson (8-2, 2.60) ERA 2.60|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
+awayLineup: "[\"선발투수 C. Bradford (0-2, 3.05) ERA 3.05|https://a.espncdn.com/i/headshots/mlb/players/full/4142539.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

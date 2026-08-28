@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.28","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"},{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"},{"date":"26.08.24","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824PILA0-2026-08-24-los-angeles-dodgers/"},{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers/"},{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"}]'
 injuryHome: "Blaze Jordan (경미한 부상)|Masyn Winn (골절)|Everson Pereira (타박상)|Andre Pallante (염증)|Peter Strzelecki (염증)"
 injuryAway: "Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)|Mitch Keller (상세 미기재)|Endy Rodriguez (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 K. Leahy (10-4, 3.13) ERA 3.13|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

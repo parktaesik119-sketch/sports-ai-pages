@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.28","home":"워싱턴 내셔널스","away":"콜로�
 awayRecent: '[{"date":"26.08.27","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BOFL0-2026-08-27-miami-marlins/"},{"date":"26.08.26","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BOFL0-2026-08-26-miami-marlins/"},{"date":"26.08.25","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825BOFL0-2026-08-25-miami-marlins/"},{"date":"26.08.24","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MOFL0-2026-08-24-miami-marlins/"},{"date":"26.08.23","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823MOFL0-2026-08-23-miami-marlins/"}]'
 injuryHome: "Richard Lovelady (종아리 염좌)|James Wood (종아리 염좌)|Drew Millas (골절)|Josiah Gray (종아리 염좌)|DJ Herz (종아리 염좌)"
 injuryAway: "Anthony Bender (골절)|Pete Fairbanks (신경 압박)|Max Meyer (종아리 염좌)|Ronny Henriquez (수술)|Adam Mazur (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Kent (0-2, 8.03) ERA 8.03|https://a.espncdn.com/i/headshots/mlb/players/full/5007807.png\"]"
+awayLineup: "[\"선발투수 E. Perez (7-9, 3.17) ERA 3.17|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

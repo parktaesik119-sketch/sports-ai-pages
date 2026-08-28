@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.27","home":"LA 에인절스","away":"클리블랜�
 awayRecent: '[{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"},{"date":"26.08.22","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822SLPH0-2026-08-22-philadelphia-phillies/"}]'
 injuryHome: "Wade Meckler (7일 부상자 명단)|Sebastian Rivero (60일 부상자 명단, 수술)|Shaun Anderson (15일 부상자 명단, 염증)|Samy Natera Jr. (15일 부상자 명단, 경련)|Yoan Moncada (60일 부상자 명단, 수술)"
 injuryAway: "Derek Hill (일일 상태, 통증)|Rafael Marchan (10일 부상자 명단, 건염)|Caleb Kilian (15일 부상자 명단, 염좌)|Tanner Banks (60일 부상자 명단, 염좌)|Felix Reyes (60일 부상자 명단, 골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Johnson (3-7, 5.75) ERA 5.75|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
+awayLineup: "[\"선발투수 C. Sanchez (16-4, 2.62) ERA 2.62|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

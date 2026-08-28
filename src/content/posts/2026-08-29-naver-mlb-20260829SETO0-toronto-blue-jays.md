@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔�
 awayRecent: '[{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"시애틀 매리너스","away":"시카고 컵스","score":"2-19","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners/"},{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"},{"date":"26.08.21","home":"밀워키 브루어스","away":"시애틀 매리너스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821SEMI0-2026-08-21-milwaukee-brewers/"}]'
 injuryHome: "Joe Mantiply (수술)|Josh Smith (염증)|Patrick Corbin (근육 손상)|Jameson Taillon (건염)|Trey Yesavage (수술)"
 injuryAway: "Cooper Criswell (근육 손상)|Brendan Donovan (뇌진탕)|Will Wilson (골절)|Cole Wilcox (근육 손상)|Matt Brash (근육 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Cease (8-5, 2.37) ERA 2.37|https://a.espncdn.com/i/headshots/mlb/players/full/34943.png\"]"
+awayLineup: "[\"선발투수 E. Hancock (7-7, 3.37) ERA 3.37|https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
