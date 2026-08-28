@@ -1683,11 +1683,90 @@
       "away": 4
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "김진욱",
+      "away": "카라스코"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "카라스코",
+        "era": "3.33",
+        "war": "0.58",
+        "games": "4",
+        "inningsPerStart": "6.0",
+        "qs": "3",
+        "whip": "0.78"
+      },
+      "home": {
+        "name": "김진욱",
+        "era": "3.37",
+        "war": "2.10",
+        "games": "21",
+        "inningsPerStart": "5.2",
+        "qs": "10",
+        "whip": "1.25"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "카라스코",
+        "pitches": [
+          {
+            "type": "커터",
+            "usageRate": "24.1%",
+            "avgSpeed": "141.4km/h"
+          },
+          {
+            "type": "투심",
+            "usageRate": "19.9%",
+            "avgSpeed": "144.0km/h"
+          },
+          {
+            "type": "포크",
+            "usageRate": "15.2%",
+            "avgSpeed": "135.8km/h"
+          },
+          {
+            "type": "직구",
+            "usageRate": "13.4%",
+            "avgSpeed": "146.0km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "김진욱",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "49.3%",
+            "avgSpeed": "145.2km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "29.5%",
+            "avgSpeed": "133.5km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "13.1%",
+            "avgSpeed": "124.7km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "8.2%",
+            "avgSpeed": "131.2km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {
@@ -1848,11 +1927,90 @@
       "away": 6
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "박준영",
+      "away": "라일리"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "라일리",
+        "era": "2.92",
+        "war": "2.89",
+        "games": "16",
+        "inningsPerStart": "6.0",
+        "qs": "10",
+        "whip": "1.05"
+      },
+      "home": {
+        "name": "박준영",
+        "era": "5.66",
+        "war": "-0.04",
+        "games": "33",
+        "inningsPerStart": "4.0",
+        "qs": "0",
+        "whip": "1.53"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "라일리",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "37.5%",
+            "avgSpeed": "147.7km/h"
+          },
+          {
+            "type": "포크",
+            "usageRate": "22.7%",
+            "avgSpeed": "133.0km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "21.5%",
+            "avgSpeed": "136.5km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "18.4%",
+            "avgSpeed": "130.9km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "박준영",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "49.5%",
+            "avgSpeed": "144.0km/h"
+          },
+          {
+            "type": "포크",
+            "usageRate": "33.1%",
+            "avgSpeed": "133.6km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "12.5%",
+            "avgSpeed": "132.1km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "4.8%",
+            "avgSpeed": "120.2km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {
@@ -2021,11 +2179,90 @@
       "away": 9
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "올러",
+      "away": "아빌라"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "아빌라",
+        "era": "1.93",
+        "war": "1.70",
+        "games": "7",
+        "inningsPerStart": "6.0",
+        "qs": "6",
+        "whip": "1.21"
+      },
+      "home": {
+        "name": "올러",
+        "era": "3.08",
+        "war": "3.50",
+        "games": "22",
+        "inningsPerStart": "6.0",
+        "qs": "14",
+        "whip": "1.08"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "아빌라",
+        "pitches": [
+          {
+            "type": "투심",
+            "usageRate": "34.7%",
+            "avgSpeed": "151.6km/h"
+          },
+          {
+            "type": "커터",
+            "usageRate": "24.1%",
+            "avgSpeed": "146.8km/h"
+          },
+          {
+            "type": "직구",
+            "usageRate": "15.7%",
+            "avgSpeed": "152.0km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "12.8%",
+            "avgSpeed": "136.4km/h"
+          }
+        ]
+      },
+      "home": {
+        "name": "올러",
+        "pitches": [
+          {
+            "type": "직구",
+            "usageRate": "43.5%",
+            "avgSpeed": "148.3km/h"
+          },
+          {
+            "type": "슬라이더",
+            "usageRate": "30.4%",
+            "avgSpeed": "133.0km/h"
+          },
+          {
+            "type": "체인지업",
+            "usageRate": "11.4%",
+            "avgSpeed": "136.8km/h"
+          },
+          {
+            "type": "커브",
+            "usageRate": "6.7%",
+            "avgSpeed": "128.5km/h"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {
