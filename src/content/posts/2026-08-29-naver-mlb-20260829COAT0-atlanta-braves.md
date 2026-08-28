@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.28","home":"워싱턴 내셔널스","away":"콜로�
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Robert Suarez (통증)|Spencer Strider (염증)|Spencer Schwellenbach (수술)"
 injuryAway: "Kyle Karros (뇌진탕)|Kris Bryant (수술)|McCade Brown (염증)|Kyle Freeland (끼인 신경)|Jose Quintana (염좌)"
 homeLineup: "[\"선발투수 G. Holmes (8-5, 3.64) ERA 3.64|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
-awayLineup: "[\"선발투수 T. Sugano (12-7, 4.96) ERA 4.96|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
+awayLineup: "[\"선발투수 T. Sugano (12-7, 4.96) ERA 4.96|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\",\"1번 J. McCarthy (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 C. Carrigg (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"3번 H. Goodman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"4번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"5번 W. Castro (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"6번 M. Moniak (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"7번 C. Norby (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4417606.png\",\"8번 Z. Veen (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717903.png\",\"9번 E. Tovar (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
