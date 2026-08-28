@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.27","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Jung Hoo Lee (멍)|Jesus Rodriguez (목 신경 눌림)|Bryce Eldridge (조문 휴가)|Marcelo Mayer (골절)|Matt Gage (근육 염좌)"
 injuryAway: "Lourdes Gurriel Jr. (근육 염좌)|Tommy Troy (염좌)|Blake Walston (수술)|Ketel Marte (염증)|Zac Gallen (염증)"
 homeLineup: "[\"선발투수 B. Tidwell (0-0, 3.58) ERA 3.58|https://a.espncdn.com/i/headshots/mlb/players/full/4719088.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 K. Drake (0-1, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/5264737.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
