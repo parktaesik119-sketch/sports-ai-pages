@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.28","home":"뉴욕 양키즈","away":"휴스턴 애
 awayRecent: '[{"date":"26.08.27","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BOFL0-2026-08-27-miami-marlins/"},{"date":"26.08.26","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BOFL0-2026-08-26-miami-marlins/"},{"date":"26.08.25","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825BOFL0-2026-08-25-miami-marlins/"},{"date":"26.08.24","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SFBO0-2026-08-24-boston-red-sox/"},{"date":"26.08.23","home":"보스턴 레드삭스","away":"샌프란시스코 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SFBO0-2026-08-23-boston-red-sox/"}]'
 injuryHome: "Max Fried (멍)|Ryan McMahon (염좌)|Clarke Schmidt (수술)|Aaron Judge (골절)|Giancarlo Stanton (근육 손상)"
 injuryAway: "Isiah Kiner-Falefa (염증)|Justin Slaten (염증)|Garrett Whitlock (염증)|Trevor Story (수술)|Roman Anthony (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Rodon (4-2, 3.15) ERA 3.15|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\"]"
+awayLineup: "[\"선발투수 J. Bennett (8-6, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

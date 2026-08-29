@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.27","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"},{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"},{"date":"26.08.24","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MNSD0-2026-08-24-san-diego-padres/"},{"date":"26.08.22","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822MNSD0-2026-08-22-san-diego-padres/"},{"date":"26.08.20","home":"뉴욕 메츠","away":"샌디에이고 파드리스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820SDNM0-2026-08-20-new-york-mets/"}]'
 injuryHome: "Cole Sulser (경련)|Jake Fraley (수술)|Jonathan Heasley (골절)|Edwin Uceta (근육 손상)|Griffin Jax (통증)"
 injuryAway: "Samad Taylor (근육 손상)|Joe Musgrove (염증)|Jason Adam (근육 손상)|Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. Martinez (13-4, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
+awayLineup: "[\"선발투수 W. Buehler (8-6, 4.63) ERA 4.63|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

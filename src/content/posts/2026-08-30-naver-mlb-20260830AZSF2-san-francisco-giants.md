@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.28","home":"샌프란시스코 자이언츠","away"
 injuryHome: "Marcelo Mayer (골절)|Matt Gage (염좌)|Victor Bericoto (타박상)|Jesus Rodriguez (신경 압박)|JT Brubaker (타박상)"
 injuryAway: "Lourdes Gurriel Jr. (염좌)|Blake Walston (수술)|Ketel Marte (염증)|Tommy Troy (염좌)|Ryne Nelson (염좌)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 M. Kelly (8-12, 5.35) ERA 5.35|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

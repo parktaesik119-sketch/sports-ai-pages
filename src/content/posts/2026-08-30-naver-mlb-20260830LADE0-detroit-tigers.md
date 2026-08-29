@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.29","home":"디트로이트 타이거즈","away":"L
 awayRecent: '[{"date":"26.08.29","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829LADE0-2026-08-29-detroit-tigers/"},{"date":"26.08.28","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828LAAT0-2026-08-28-atlanta-braves/"},{"date":"26.08.27","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827LAAT0-2026-08-27-atlanta-braves/"},{"date":"26.08.26","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826LAAT0-2026-08-26-atlanta-braves/"},{"date":"26.08.24","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824PILA0-2026-08-24-los-angeles-dodgers/"}]'
 injuryHome: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Riley Greene (부상)|Brant Hurter (염증)|Wenceel Perez (골절)"
 injuryAway: "Will Klein (통증)|Bobby Miller (통증)|Blake Treinen (염증)|Ben Casparius (염증)|Justin Wrobleski (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Montero (9-8, 3.30) ERA 3.30|https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png\"]"
+awayLineup: "[\"선발투수 B. Snell (2-1, 2.57) ERA 2.57|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

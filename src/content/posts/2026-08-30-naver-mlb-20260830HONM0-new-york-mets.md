@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.28","home":"뉴욕 메츠","away":"밀워키 브루
 awayRecent: '[{"date":"26.08.28","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828HONY0-2026-08-28-new-york-yankees/"},{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"},{"date":"26.08.26","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"7-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826HONY0-2026-08-26-new-york-yankees/"},{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824OAHO0-2026-08-24-houston-astros/"},{"date":"26.08.23","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823OAHO0-2026-08-23-houston-astros/"}]'
 injuryHome: "Juan Soto (긴장) | Cionel Perez (긴장) | Mark Vientos (골절) | Justin Hagenman (골절) | Devin Williams (긴장)"
 injuryAway: "Mike Burrows (염증) | Brice Matthews (염좌) | Carlos Correa (수술) | Brandon Walter (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. McLean (9-8, 3.21) ERA 3.21|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
+awayLineup: "[\"선발투수 C. Javier (1-4, 6.47) ERA 6.47|https://a.espncdn.com/i/headshots/mlb/players/full/41261.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

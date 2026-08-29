@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.29","home":"시카고 컵스","away":"신시내티 
 awayRecent: '[{"date":"26.08.29","home":"시카고 컵스","away":"신시내티 레즈","score":"8-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829CICC0-2026-08-29-chicago-cubs/"},{"date":"26.08.27","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"9-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CISF0-2026-08-27-san-francisco-giants/"},{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"},{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"}]'
 injuryHome: "Edward Cabrera (찰과상)|Shelby Miller (수술)|Gavin Hollowell (염증)|Tyler Austin (수술)|Hunter Harvey (골절)"
 injuryAway: "Brady Singer (통증)|Graham Ashcraft (염좌)|Brandon Williamson (통증)|Ke'Bryan Hayes (근육 염좌)|Spencer Steer (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Gausman (7-11, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
+awayLineup: "[\"선발투수 A. Abbott (6-9, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/4414528.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

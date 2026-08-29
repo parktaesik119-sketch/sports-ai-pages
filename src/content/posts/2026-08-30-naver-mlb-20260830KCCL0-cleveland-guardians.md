@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.27","home":"LA 에인절스","away":"클리블랜�
 awayRecent: '[{"date":"26.08.28","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"2-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828KCTO0-2026-08-28-toronto-blue-jays/"},{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays/"},{"date":"26.08.26","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826KCTO0-2026-08-26-toronto-blue-jays/"},{"date":"26.08.24","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824DEKC0-2026-08-24-kansas-city-royals/"},{"date":"26.08.23","home":"캔자스시티 로열스","away":"디트로이트 타이거즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823DEKC0-2026-08-23-kansas-city-royals/"}]'
 injuryHome: "Rhys Hoskins (염증)|Slade Cecconi (통증)|Shawn Armstrong (긴장)"
 injuryAway: "Connor Seabold (긴장)|Maikel Garcia (긴장)|Michael Massey (지정되지 않음)|Beck Way (경련)|Carlos Estevez (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 F. Griffin (15-4, 3.19) ERA 3.19|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
+awayLineup: "[\"선발투수 D. Lynch IV (4-4, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
