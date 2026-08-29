@@ -44,6 +44,7 @@ const TEAM_NAME_MAP = {
   "Deportivo La Coruna": "데포르티보 라코루냐",
   "Deportivo A Coruña": "데포르티보 라코루냐",
   "Malaga": "말라가",
+  "Málaga": "말라가",
   "Alaves": "알라베스",
   "Deportivo Alavés": "알라베스",
   "Deportivo Alaves": "알라베스",
@@ -890,6 +891,7 @@ const TEAM_NAME_MAP = {
   "Forge FC": "포지 FC",
   "Inter Toronto FC": "요크 유니티드 FC",
   "York United": "요크 유니티드 FC",
+  "HFX Wanderers FC": "HFX 원더러스 FC",
 
   // 국가대표팀
   "Canada": "캐나다",
