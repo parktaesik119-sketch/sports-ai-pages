@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.28","home":"세이부 라이온즈","away":"라쿠�
 awayRecent: '[{"date":"26.08.28","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828RTSE0-2026-08-28-seibu-lions/"},{"date":"26.08.27","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"4-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827RTOX0-2026-08-27-orix-buffaloes/"},{"date":"26.08.26","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826RTOX0-2026-08-26-orix-buffaloes/"},{"date":"26.08.25","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825RTOX0-2026-08-25-orix-buffaloes/"},{"date":"26.08.23","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823SERT0-2026-08-23-rakuten-gold-eagles/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Natsuki Takeuchi (9-6, 2.88)|https://p.npb.jp/players_photo/2026/180/l/021_51255159.jpg\"]"
+awayLineup: "[\"선발투수 Takayuki Kishi (4-3, 2.39)|https://p.npb.jp/players_photo/2026/180/e/011_91795114.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
