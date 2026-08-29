@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.27","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.08.27","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CCAZ0-2026-08-27-arizona-diamondbacks/"},{"date":"26.08.25","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CCAZ0-2026-08-25-arizona-diamondbacks/"},{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"},{"date":"26.08.20","home":"보스턴 레드삭스","away":"애리조나 다이아몬드백스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820AZBO0-2026-08-20-boston-red-sox/"}]'
 injuryHome: "Jung Hoo Lee (타박상)|Marcelo Mayer (골절)|Matt Gage (근육 염좌)|Victor Bericoto (타박상)|Jesus Rodriguez (신경 압박)"
 injuryAway: "Lourdes Gurriel Jr. (근육 염좌)|Nolan Arenado (일일 관찰)|Blake Walston (수술)|Ketel Marte (염증)|Tommy Troy (염좌)"
-homeLineup: ''
+homeLineup: "[\"선발투수 M. Wilkinson (0-1, 6.35) ERA 6.35|https://a.espncdn.com/i/headshots/mlb/players/full/5339226.png\"]"
 awayLineup: "[\"선발투수 M. Kelly (8-12, 5.35) ERA 5.35|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
 homeFormation: ""
 awayFormation: ""

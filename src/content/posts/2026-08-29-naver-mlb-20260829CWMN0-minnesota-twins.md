@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.27","home":"시카고 화이트삭스","away":"텍�
 injuryHome: "Byron Buxton (통증)|Austin Martin (부상)|Joe Ryan (부상)|Mike Paredes (수술)|Mick Abel (수술)"
 injuryAway: "Chris Murphy (부상)|Andrew Benintendi (사별)|Kyle Teel (삠)|Jordan Leasure (부상)|Drew Thorpe (수술)"
 homeLineup: "[\"선발투수 B. Ober (7-4, 4.49) ERA 4.49|https://a.espncdn.com/i/headshots/mlb/players/full/3107919.png\"]"
-awayLineup: "[\"선발투수 E. Fedde (6-8, 4.18) ERA 4.18|https://a.espncdn.com/i/headshots/mlb/players/full/33793.png\"]"
+awayLineup: "[\"선발투수 E. Fedde (6-8, 4.18) ERA 4.18|https://a.espncdn.com/i/headshots/mlb/players/full/33793.png\",\"1번 S. Antonacci (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5207167.png\",\"2번 M. Murakami (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872595.png\",\"3번 M. Vargas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"4번 A. Benintendi (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/34986.png\",\"5번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"6번 C. Montgomery (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\",\"7번 C. Meidroth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5136929.png\",\"8번 T. Peters (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5085893.png\",\"9번 J. Rogers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39900.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
