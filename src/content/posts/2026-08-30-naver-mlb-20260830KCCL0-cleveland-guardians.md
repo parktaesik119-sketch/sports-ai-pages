@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.28","home":"토론토 블루제이즈","away":"캔�
 injuryHome: "Rhys Hoskins (염증)|Slade Cecconi (통증)|Shawn Armstrong (긴장)"
 injuryAway: "Connor Seabold (긴장)|Maikel Garcia (긴장)|Michael Massey (지정되지 않음)|Beck Way (경련)|Carlos Estevez (긴장)"
 homeLineup: "[\"선발투수 F. Griffin (15-4, 3.19) ERA 3.19|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
-awayLineup: "[\"선발투수 D. Lynch IV (4-4, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
+awayLineup: "[\"선발투수 D. Lynch IV (4-4, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\",\"1번 C. Jensen (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png\",\"2번 B. Witt Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42403.png\",\"3번 J. Caglianone (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4926296.png\",\"4번 S. Perez (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/31127.png\",\"5번 N. Loftin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4314013.png\",\"6번 T. Tolbert (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4151063.png\",\"7번 I. Collins (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42959.png\",\"8번 M. Lugo (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42486.png\",\"9번 L. Maile (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33271.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
