@@ -20,10 +20,10 @@ homeRecent: '[]'
 awayRecent: '[{"date":"26.08.26","home":"Monterrey","away":"시카고","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6028326-2026-08-26-monterrey/"},{"date":"26.08.23","home":"뉴욕 레드불스","away":"시카고","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5071295-2026-08-23-ny-red-bulls/"},{"date":"26.08.20","home":"올랜도 시티","away":"시카고","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5071280-2026-08-20-orlando/"},{"date":"26.08.17","home":"시카고","away":"포틀랜드","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5071273-2026-08-17-chicago/"},{"date":"26.08.14","home":"Cruz Azul","away":"시카고","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5844874-2026-08-14-cruz-azul/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
+homeLineup: "[\"A. Thomas (G)|https://a.espncdn.com/i/headshots/soccer/players/full/268173.png\",\"S. Hawkins (CD-L)|https://a.espncdn.com/i/headshots/soccer/players/full/371080.png\",\"K. Kee-Hee (CD-R)|https://a.espncdn.com/i/headshots/soccer/players/full/175922.png\",\"N. Tolo (LB)|https://a.espncdn.com/i/headshots/soccer/players/full/252474.png\",\"K. Kossa-Rienzi (RB)|https://a.espncdn.com/i/headshots/soccer/players/full/319045.png\",\"A. Rusnák (AM)|https://a.espncdn.com/i/headshots/soccer/players/full/171573.png\",\"S. Brunell (LM)|https://a.espncdn.com/i/headshots/soccer/players/full/384356.png\",\"A. Roldan (RM)|https://a.espncdn.com/i/headshots/soccer/players/full/256514.png\",\"D. Joveljic (F)|https://a.espncdn.com/i/headshots/soccer/players/full/240110.png\",\"P. Rothrock (AM-L)|https://a.espncdn.com/i/headshots/soccer/players/full/254382.png\",\"S. Gomez (AM-R)|https://a.espncdn.com/i/headshots/soccer/players/full/399948.png\"]"
+awayLineup: "[\"C. Brady (G)|https://a.espncdn.com/i/headshots/soccer/players/full/303693.png\",\"J. Elliott (CD-L)|https://a.espncdn.com/i/headshots/soccer/players/full/233813.png\",\"S. Rogers (CD-R)|https://a.espncdn.com/i/headshots/soccer/players/full/254300.png\",\"A. Gutman (LB)|https://a.espncdn.com/i/headshots/soccer/players/full/245068.png\",\"J. Dean (RB)|https://a.espncdn.com/i/headshots/soccer/players/full/293671.png\",\"D. Dje Tah (CM)|https://a.espncdn.com/i/headshots/soccer/players/full/335605.png\",\"R. Lod (LM)|https://a.espncdn.com/i/headshots/soccer/players/full/195992.png\",\"A. Saletros (RM)|https://a.espncdn.com/i/headshots/soccer/players/full/193105.png\",\"R. Lewandowski (F)|https://a.espncdn.com/i/headshots/soccer/players/full/125824.png\",\"M. Haile-Selassie (LF)|https://a.espncdn.com/i/headshots/soccer/players/full/259951.png\",\"P. Zinckernagel (RF)|https://a.espncdn.com/i/headshots/soccer/players/full/186466.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-3-3"
 homeCoach: ""
 awayCoach: ""
 pickWinTeam: "시카고"
