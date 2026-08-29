@@ -91,6 +91,7 @@ const TEAM_NAME_MAP = {
   "Eintracht Frankfurt": "아인트라흐트 프랑크푸르트",
   "Frankfurt": "아인트라흐트 프랑크푸르트",
   "FC Augsburg": "아우크스부르크",
+  "Augsburg": "아우크스부르크",
   "FC St. Pauli": "장크트 파울리",
   "St. Pauli": "장크트 파울리",
   "FSV Mainz 05": "마인츠 05",
