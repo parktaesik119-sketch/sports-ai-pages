@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.27","home":"샌디에이고 파드리스","away":"�
 injuryHome: "Blaze Jordan (경미한 부상)|Masyn Winn (골절)|Everson Pereira (타박상)|Andre Pallante (염증)|Peter Strzelecki (염증)"
 injuryAway: "Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)|Mitch Keller (상세 미기재)|Endy Rodriguez (수술)"
 homeLineup: "[\"선발투수 K. Leahy (10-4, 3.13) ERA 3.13|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 L. Bachar (1-3, 3.70) ERA 3.70|https://a.espncdn.com/i/headshots/mlb/players/full/42592.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
