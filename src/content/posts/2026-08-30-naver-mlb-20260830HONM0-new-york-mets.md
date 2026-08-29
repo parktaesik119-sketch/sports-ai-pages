@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.28","home":"뉴욕 양키즈","away":"휴스턴 애
 injuryHome: "Juan Soto (긴장) | Cionel Perez (긴장) | Mark Vientos (골절) | Justin Hagenman (골절) | Devin Williams (긴장)"
 injuryAway: "Mike Burrows (염증) | Brice Matthews (염좌) | Carlos Correa (수술) | Brandon Walter (수술)"
 homeLineup: "[\"선발투수 N. McLean (9-8, 3.21) ERA 3.21|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
-awayLineup: "[\"선발투수 C. Javier (1-4, 6.47) ERA 6.47|https://a.espncdn.com/i/headshots/mlb/players/full/41261.png\"]"
+awayLineup: "[\"선발투수 B. Sousa (1-3, 6.27) ERA 6.27|https://a.espncdn.com/i/headshots/mlb/players/full/41776.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
