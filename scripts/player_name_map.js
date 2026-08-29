@@ -179,6 +179,7 @@ const PLAYER_NAME_MAP = {
   "Min-Jae Park": "박민재",
   "Kang-Jun Heo": "허강준",
   "Ki-Min Kwon": "권기민",
+  "Gi-Min Kwon": "권기민",
   "Jae-Woo Kim": "김재우",
   "Woon Chung": "정운",
   "Woon Jeong": "정운",
@@ -194,7 +195,9 @@ const PLAYER_NAME_MAP = {
   "Jae-Min Kim": "김재민",
   "Sang-Eun Shin": "신상은",
   "Sin-Jin Kim": "김신진",
+  "Shin-Jin Kim": "김신진",
   "Dong-Hui Kang": "강동휘",
+  "Seung-Ro Lee": "이승로",
 
   // --- Pohang Steelers (포항 스틸러스) ---
   "Pyung-Guk Yoon": "윤평국",
@@ -236,6 +239,7 @@ const PLAYER_NAME_MAP = {
   "Da-Sol Kim": "김다솔",
   "Sung-Dong Kim": "김성동",
   "Ji-Hoon Kang": "강지훈",
+  "Ji-Hun Kang": "강지훈",
   "Tae-Hee Lee": "이태희",
   "Hyun-Woo Joo": "주현우",
   "Ji-Hoon Kim": "김지훈", // 안양 소속 (수원FC 소속 동명이인과 별개)
@@ -278,6 +282,7 @@ const PLAYER_NAME_MAP = {
   "Ju-Yong Lee": "이주용",
   "Yong-Hwan Kim": "김용환",
   "Min-Hyeok Lee": "이민혁",
+  "Min-Hyuk Lee": "이민혁",
   "Myung-Joo Lee": "이명주",
   "Myeong-Ju Lee": "이명주",
   "Ji-Hwan Mun": "문지환",
@@ -419,6 +424,7 @@ const PLAYER_NAME_MAP = {
   "Young-Kyu Ahn": "안영규",
   "Seung-Kyum Lim": "임승겸",
   "Yong-Hyeok Kim": "김용혁",
+  "Yong-Hyuk Kim": "김용혁",
   "Bae-Hyeon Gong": "공배현", // 확인 필요
   "Sang-Gi Min": "민상기",
   "Min-Ki Lee": "이민기", // 광주 소속 (파주 소속 동명이인과 별개)
@@ -434,6 +440,7 @@ const PLAYER_NAME_MAP = {
   "Chang-Moo Sin": "신창무",
   "Yong-Jun Hong": "홍용준",
   "Ji-Hun Jung": "정지훈",
+  "Ji-Hoon Jeong": "정지훈",
   "Sung-Hyun Park": "박성현",
   "Woo-Jin Kim": "김우진", // 광주 소속 (화성 소속 동명이인과 별개)
   "Hyeok-Joo Ahn": "안혁주",
