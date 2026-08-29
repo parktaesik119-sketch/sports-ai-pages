@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.28","home":"히로시마 도요 카프","away":"야
 awayRecent: '[{"date":"26.08.28","home":"히로시마 도요 카프","away":"야쿠르트 스왈로우스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828YAHI0-2026-08-28-hiroshima-carp/"},{"date":"26.08.27","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827YOYA0-2026-08-27-yakult-swallows/"},{"date":"26.08.26","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826YOYA0-2026-08-26-yakult-swallows/"},{"date":"26.08.25","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825YOYA0-2026-08-25-yakult-swallows/"},{"date":"26.08.23","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823YAJN0-2026-08-23-chunichi-dragons/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shohei Mori (1-3, 3.16)|https://p.npb.jp/players_photo/2026/180/c/016_93395155.jpg\"]"
+awayLineup: "[\"선발투수 Yasuhiro Ogawa (1-4, 5.45)|https://p.npb.jp/players_photo/2026/180/s/029_11515137.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

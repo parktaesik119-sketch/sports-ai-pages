@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.28","home":"오릭스 버팔로스","away":"소프�
 awayRecent: '[{"date":"26.08.28","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828SFOX0-2026-08-28-orix-buffaloes/"},{"date":"26.08.27","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827SFJL0-2026-08-27-chiba-lotte-marines/"},{"date":"26.08.26","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826SFJL0-2026-08-26-chiba-lotte-marines/"},{"date":"26.08.25","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825SFJL0-2026-08-25-chiba-lotte-marines/"},{"date":"26.08.23","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823OXSF0-2026-08-23-fukuoka-s-hawks/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Ryuhei Sotani (5-5, 3.58)|https://p.npb.jp/players_photo/2026/180/b/017_81985157.jpg\"]"
+awayLineup: "[\"선발투수 Haru Matsumoto (8-3, 3.02)|https://p.npb.jp/players_photo/2026/180/h/049_41845157.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

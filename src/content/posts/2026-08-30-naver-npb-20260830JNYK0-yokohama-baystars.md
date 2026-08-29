@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.28","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.08.28","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828JNYK0-2026-08-28-yokohama-baystars/"},{"date":"26.08.27","home":"주니치 드래곤스","away":"한신 타이거스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827HSJN0-2026-08-27-chunichi-dragons/"},{"date":"26.08.26","home":"주니치 드래곤스","away":"한신 타이거스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826HSJN0-2026-08-26-chunichi-dragons/"},{"date":"26.08.25","home":"주니치 드래곤스","away":"한신 타이거스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825HSJN0-2026-08-25-chunichi-dragons/"},{"date":"26.08.23","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823YAJN0-2026-08-23-chunichi-dragons/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kentaro Shinogi (5-2, 4.57)|https://p.npb.jp/players_photo/2026/180/db/030_41045150.jpg\"]"
+awayLineup: "[\"선발투수 Yuya Yanagi (5-5, 2.47)|https://p.npb.jp/players_photo/2026/180/d/017_63165134.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

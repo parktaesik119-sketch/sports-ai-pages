@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.28","home":"한신 타이거스","away":"요미우�
 awayRecent: '[{"date":"26.08.28","home":"한신 타이거스","away":"요미우리 자이언츠","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828YOHS0-2026-08-28-hanshin-tigers/"},{"date":"26.08.27","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827YOYA0-2026-08-27-yakult-swallows/"},{"date":"26.08.26","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826YOYA0-2026-08-26-yakult-swallows/"},{"date":"26.08.25","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825YOYA0-2026-08-25-yakult-swallows/"},{"date":"26.08.23","home":"요미우리 자이언츠","away":"히로시마 도요 카프","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823HIYO0-2026-08-23-yomiuri-giants/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Hiroto Saiki (7-5, 2.76)|https://p.npb.jp/players_photo/2026/180/t/035_41745134.jpg\"]"
+awayLineup: "[\"선발투수 Shinnosuke Ogasawara (3-2, 1.85)|https://p.npb.jp/players_photo/2026/180/g/098_71575132.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
