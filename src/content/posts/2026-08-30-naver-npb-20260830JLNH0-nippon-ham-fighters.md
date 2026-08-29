@@ -1,0 +1,37 @@
+---
+title: "니혼햄 파이터즈 vs 지바 롯데 마린스 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | NPB - 픽천국"
+date: 2026-08-30T04:00:00.000Z
+description: "니혼햄 파이터즈 vs 지바 롯데 마린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260830JLNH0-2026-08-30-nippon-ham-fighters"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "니혼햄 파이터즈"
+awayTeam: "지바 롯데 마린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/NH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/JL.png"
+homeAnalysis: "니혼햄 파이터즈는 2026시즌 최근 92경기에서 51승 1무 40패, 평균 득점 4.0으로 안정적인 승률을 유지하고 있으며, 최근 경기 흐름에서는 득점 폭발과 접전 대응이 함께 살아나고 있습니다. 직전 지바 롯데 마린스전 승리와 세이부전 대승에서 보이듯 타선이 한 번 터지면 경기 흐름을 빠르게 가져오는 힘이 있습니다. 홈에서는 공격 전개가 더 매끄럽게 이어지는 모습이 자주 보이고, 불펜이 리드를 지키는 운영도 비교적 탄탄합니다. 다만 같은 지바 롯데 마린스를 상대로는 3득점 안팎의 팽팽한 경기들이 반복되어, 상대의 투수 운영에 따라 득점 효율이 흔들릴 여지도 있습니다. 그래도 최근 들어 장타와 집중타가 함께 나오는 장면이 늘고 있어, 홈에서의 상승 흐름은 충분히 주목할 만합니다."
+awayAnalysis: "지바 롯데 마린스는 2026시즌 최근 87경기에서 42승 3무 42패, 평균 득점 3.6으로 전반적으로 균형은 맞지만 화력 면에서는 다소 절제된 전력을 보이고 있습니다. 최근 경기에서는 승패가 빠르게 엇갈리며 흐름이 다소 흔들렸고, 한 번 끊기면 득점이 묶이는 모습도 나타나고 있습니다. 원정에서는 특히 타선의 응집력이 경기마다 차이를 보이기 때문에, 초반에 점수를 내지 못하면 후반 추격의 부담이 커지는 편입니다. 반면 같은 니혼햄 파이터즈를 상대로는 낮은 점수 차의 승부를 여러 차례 만들어내며 상성상 쉽게 밀리지 않는 면도 있습니다. 다만 최근에는 실점 억제가 완전히 안정되었다고 보기는 어려워, 투수진이 버텨 주지 못하면 경기 주도권을 놓치기 쉽습니다."
+homePower: "홈에서 타선 응집력이 살아날 때 경기 지배력 상승함|니혼햄 파이터즈, 초반 득점 후 운영 안정감 돋보임|접전에서도 불펜이 리드를 지키는 장면 검증됨|상대전 단기 우세 흐름으로 심리적 자신감 확보됨|득점 폭발과 저득점 승리 모두 가능한 균형형 전력임"
+awayPower: "지바 롯데 마린스, 저득점 승부 적응력은 보임|한 번 흐름 타면 연속 득점으로 반전 가능함|원정에서 실점 흔들림 커질 때 경기 주도권 약화됨|니혼햄 파이터즈 상대로는 접전 운영 능력 확인됨|타선 기복이 커서 초반 침묵 시 부담 가중됨"
+h2h: '[{"date":"26.08.28","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"6-4","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828JLNH0-2026-08-28-nippon-ham-fighters/"},{"date":"26.08.23","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823NHJL0-2026-08-23-chiba-lotte-marines/"},{"date":"26.08.21","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821NHJL0-2026-08-21-chiba-lotte-marines/"},{"date":"26.08.02","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-181198-2026-08-02-nippon-ham-fighters/"},{"date":"26.08.01","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-181195-2026-08-01-nippon-ham-fighters/"}]'
+summary: "니혼햄 파이터즈는 2026시즌 51승 1무 40패와 평균 득점 4.0으로 한 시즌 내내 우위를 만들어 온 전력이며, 지바 롯데 마린스는 42승 3무 42패와 평균 득점 3.6으로 균형은 갖췄지만 공격 밀도에서는 한 단계 아쉬움이 보입니다. 최근 맞대결에서도 니혼햄 파이터즈가 6-4 승리로 분위기를 되찾았고, 지바 롯데 마린스가 연승을 만든 구간도 있었지만 전체적으로는 니혼햄 파이터즈 쪽이 더 강한 타격 전개와 경기 운영을 보여 주고 있습니다. 이번 경기는 홈에서의 응집력, 더 높은 득점 기대치, 그리고 최근 상성 흐름까지 더해져 니혼햄 파이터즈가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.28","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828JLNH0-2026-08-28-nippon-ham-fighters/"},{"date":"26.08.26","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826NHSE0-2026-08-26-seibu-lions/"},{"date":"26.08.25","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825NHSE0-2026-08-25-seibu-lions/"},{"date":"26.08.23","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823NHJL0-2026-08-23-chiba-lotte-marines/"},{"date":"26.08.21","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260821NHJL0-2026-08-21-chiba-lotte-marines/"}]'
+awayRecent: '[{"date":"26.08.28","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828JLNH0-2026-08-28-nippon-ham-fighters/"},{"date":"26.08.27","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827SFJL0-2026-08-27-chiba-lotte-marines/"},{"date":"26.08.26","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826SFJL0-2026-08-26-chiba-lotte-marines/"},{"date":"26.08.25","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825SFJL0-2026-08-25-chiba-lotte-marines/"},{"date":"26.08.23","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823NHJL0-2026-08-23-chiba-lotte-marines/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "니혼햄 파이터즈"
+pickWinResult: "승"
+pickHandicapTeam: "니혼햄 파이터즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

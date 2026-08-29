@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 브레이브스 vs 콜로라도 로키스 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLB - 픽천국"
+date: 2026-08-29T20:10:00.000Z
+description: "애틀랜타 브레이브스 vs 콜로라도 로키스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260830COAT0-2026-08-30-atlanta-braves"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애틀랜타 브레이브스"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 97경기에서 53승 42패, 승률 .590, 평균 득점 4.3을 기록하며 상위권 전력을 유지하고 있습니다. 최근에는 3연승과 연승 뒤 흔들림이 교차했지만, 홈에서는 경기 운영이 안정적이고 필요한 순간에 점수를 뽑아내는 힘이 돋보입니다. 특히 최근 10경기 평균 득점이 2.6으로 다소 낮게 잡혀 있어도, 강한 상대를 상대로도 실점 억제와 접전 관리가 잘 이루어지고 있습니다. 리그순위 3위답게 시즌 전체 균형이 좋고, 득실 차도 플러스 폭이 커서 수비와 마운드 안정감이 뒷받침되고 있습니다. 다만 주요 결장자가 여러 명이라 타선의 폭발력은 일부 제한될 수 있으나, 홈 경기에서는 전력의 응집도가 살아나는 편입니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 최근 78경기에서 31승 47패, 승률 .388, 평균 득점 5.2를 기록하고 있어 득점 자체는 나쁘지 않지만 결과로 연결되는 힘이 부족합니다. 최근 10경기에서는 3승 7패로 흔들림이 이어지고 있으며, 원정에서 실점이 크게 불어나는 장면이 자주 나타나고 있습니다. 리그순위 15위에 더해 득실 차가 크게 마이너스라서, 공격이 살아나는 날에도 수비와 투수진이 이를 지키지 못하는 흐름이 반복되고 있습니다. 특히 최근 경기들에서 대량 실점이 겹치며 경기 후반 운영의 불안이 뚜렷하게 드러나고 있습니다. 주요 결장자도 적지 않아 전반적인 전력 안정감이 떨어지는 점이 부담으로 보입니다."
+homePower: "홈에서는 실점 억제가 먼저 살아나는 구조가 보임|강한 상대를 만나도 접전 관리 능력이 검증됨|주요 결장 속에서도 홈 경기 응집력은 유지됨|득점 폭발보다 필요한 점수만 뽑는 운영이 강점임|상위권 승률이 말해주듯 경기 완성도가 높음"
+awayPower: "득점은 나오지만 실점 억제가 따라주지 못함|원정에서 수비 불안이 더 크게 드러나는 편임|상위권 상대를 만나면 경기 후반 버티기 어려움|주요 전력 이탈로 마운드 깊이가 약해 보임|대량 득점보다 대량 실점이 결과를 흔드는 팀임"
+h2h: '[{"date":"26.05.04","home":"콜로라도 로키스","away":"애틀랜타 브레이브스","score":"6-11","link":"https://pick79.com/posts/detail/analyze-178521-2026-05-04-colorado-rockies/"},{"date":"26.05.03","home":"콜로라도 로키스","away":"애틀랜타 브레이브스","score":"1-9","link":"https://pick79.com/posts/detail/analyze-178490-2026-05-02-colorado-rockies/"},{"date":"26.05.02","home":"콜로라도 로키스","away":"애틀랜타 브레이브스","score":"6-8","link":"https://pick79.com/posts/detail/analyze-178490-2026-05-02-colorado-rockies/"}]'
+summary: "애틀랜타 브레이브스는 리그순위 3위와 .590의 승률이 보여주듯 시즌 전력의 안정감이 분명하고, 콜로라도 로키스는 리그순위 15위에 득실 차도 크게 뒤처져 있어 전체적인 무게감에서 차이가 큽니다. 최근 흐름만 봐도 애틀랜타 브레이브스는 강한 상대를 상대로도 실점을 잘 억제하며 경기 운영이 살아 있고, 콜로라도 로키스는 득점이 나오더라도 수비 불안 때문에 흐름을 지키지 못하는 모습이 이어지고 있습니다. 상대전적에서도 애틀랜타 브레이브스가 우세한 흐름을 이어가고 있어, 이번 경기는 홈팀이 전력과 상성 모두에서 한발 앞선 흐름으로 보는 편이 자연스럽습니다."
+homeRecent: '[{"date":"26.08.28","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828LAAT0-2026-08-28-atlanta-braves/"},{"date":"26.08.27","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827LAAT0-2026-08-27-atlanta-braves/"},{"date":"26.08.26","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826LAAT0-2026-08-26-atlanta-braves/"},{"date":"26.08.24","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ATMI0-2026-08-24-milwaukee-brewers/"},{"date":"26.08.23","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ATMI0-2026-08-23-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.28","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828COMO0-2026-08-28-washington-nationals/"},{"date":"26.08.27","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827COMO0-2026-08-27-washington-nationals/"},{"date":"26.08.26","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826COMO0-2026-08-26-washington-nationals/"},{"date":"26.08.25","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"13-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825COMO0-2026-08-25-washington-nationals/"},{"date":"26.08.24","home":"콜로라도 로키스","away":"클리블랜드 가디언스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CLCO0-2026-08-24-colorado-rockies/"}]'
+injuryHome: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (징계)"
+injuryAway: "Kyle Karros (뇌진탕)|Kris Bryant (수술)|McCade Brown (염증)|Kyle Freeland (신경 압박)|Jose Quintana (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 브레이브스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 브레이브스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

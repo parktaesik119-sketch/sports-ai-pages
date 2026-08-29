@@ -1,0 +1,37 @@
+---
+title: "밀워키 브루어스 vs 텍사스 레인저스 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLB - 픽천국"
+date: 2026-08-29T23:15:00.000Z
+description: "밀워키 브루어스 vs 텍사스 레인저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260830TEMI0-2026-08-30-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "텍사스 레인저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+homeAnalysis: "밀워키 브루어스는 2026시즌 최근 95경기에서 59승 1무 35패, 평균 득점 4.7을 기록하며 리그순위 1위를 지키고 있습니다. 최근 경기 흐름을 보면 평균 득점이 6.6까지 올라와 있어 타선의 응집력이 크게 살아난 모습이며, 특히 강팀을 상대로도 득점 생산이 흔들리지 않고 있습니다. 홈에서는 안정적인 득점 전개와 함께 실점 억제력도 잘 유지되고 있어 경기 운영의 완성도가 높습니다. 다만 최근에도 패배가 섞여 있어 장타 의존 구간에서 흐름이 끊길 수 있는 점은 살펴볼 만합니다. 그럼에도 현재 전력은 리그 1위다운 균형이 분명하고, 선발과 불펜이 버텨주는 구간에서는 경기 주도권을 길게 가져갈 가능성이 높아 보입니다."
+awayAnalysis: "텍사스 레인저스는 2026시즌 최근 89경기에서 40승 0패 49패, 평균 득점 3.8로 리그순위 7위에 머물고 있습니다. 최근 10경기에서도 평균 득점이 3.9에 그치며 공격 전개가 매끄럽지 않고, 득점이 나오는 날과 그렇지 않은 날의 차이도 큰 편입니다. 원정에서는 실점 부담이 커지기 쉬운 전력이라 경기 중반 이후 추격 흐름을 만들기가 쉽지 않아 보입니다. 다만 일부 경기에서는 한 번에 득점을 몰아내는 장면이 있어, 초반 흐름을 잡으면 의외의 반격 가능성은 남아 있습니다. 그러나 전체적으로는 리그순위와 최근 흐름이 함께 무거운 편이라, 안정적인 수비 운영이 받쳐주지 않으면 경기 전체를 끌고 가기 어렵습니다."
+homePower: "리그 1위답게 경기 운영의 안정감이 높음|최근 득점 상승세로 타선 응집력이 살아남|홈에서 실점 억제가 잘 되는 구조임|강팀 상대에서도 흐름을 잘 끊지 않음|불펜이 버티면 후반 우세가 굳어짐"
+awayPower: "리그순위 7위와 최근 저득점 흐름이 맞물림|원정에서 실점 부담이 커지는 전력임|공격 기복이 커서 추격전이 불리함|장타가 나와도 연결이 끊기는 장면이 잦음|초반 선취점이 없으면 흐름 회복이 어려움"
+h2h: '[]'
+summary: "밀워키 브루어스는 리그순위 1위에 걸맞게 시즌 전체 전력과 최근 흐름이 모두 안정적으로 이어지고 있습니다. 평균 득점과 득실 차를 함께 보면 공수 균형이 잘 잡혀 있고, 최근에는 공격 생산까지 더 살아나면서 홈 우세가 분명하게 드러납니다. 텍사스 레인저스는 리그순위 7위에 더해 최근 득점 흐름도 가볍지 않아, 경기 후반으로 갈수록 밀워키 브루어스 쪽이 주도권을 잡을 가능성이 높아 보입니다. 결장자 규모도 밀워키 브루어스와 텍사스 레인저스 모두 적지 않지만, 전체 전력의 균형과 최근 흐름을 함께 보면 밀워키 브루어스가 한 수 위로 평가됩니다."
+homeRecent: '[{"date":"26.08.28","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828MINM0-2026-08-28-new-york-mets/"},{"date":"26.08.27","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MINM0-2026-08-27-new-york-mets/"},{"date":"26.08.26","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MINM0-2026-08-26-new-york-mets/"},{"date":"26.08.24","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ATMI0-2026-08-24-milwaukee-brewers/"},{"date":"26.08.23","home":"밀워키 브루어스","away":"애틀랜타 브레이브스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ATMI0-2026-08-23-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.08.27","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TECW0-2026-08-27-chicago-white-sox/"},{"date":"26.08.26","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TECW0-2026-08-26-chicago-white-sox/"},{"date":"26.08.25","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"2-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TECW0-2026-08-25-chicago-white-sox/"},{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"},{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에인절스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ANTE0-2026-08-23-texas-rangers/"}]'
+injuryHome: "JoJo Romero (수술)|Abner Uribe (염좌)|Joel Kuhnel (힘줄염)|Dustin May (타박상)|Rob Zastryzny (염좌)"
+injuryAway: "Josh Jung (염좌)|Michael Helman (골절)|Carter Baumler (염좌)|Robert Garcia (염증)|Kyle Higashioka (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

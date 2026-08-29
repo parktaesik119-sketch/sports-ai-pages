@@ -1,0 +1,37 @@
+---
+title: "데포르티보 라코루냐 vs 발렌시아 경기분석·라인업·결장자·통계·승부예측 (8월 31일) | 라리가 - 픽천국"
+date: 2026-08-30T17:30:00.000Z
+description: "데포르티보 라코루냐 vs 발렌시아 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868033-2026-08-31-deportivo-a-corua"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "데포르티보 라코루냐"
+awayTeam: "발렌시아"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9783.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png"
+homeAnalysis: "데포르티보 라코루냐는 2026시즌 최근 15경기에서 4승 7무 4패, 평균 득점 1.0을 기록하고 있어 공격에서 큰 폭발력보다는 끈끈한 경기 운영이 먼저 보입니다. 최근 들어서는 비기거나 한 점 차로 갈리는 흐름이 자주 나타나고 있어서, 실점 억제는 어느 정도 유지되지만 승부를 끝내는 마무리에서는 아쉬움이 남아 있습니다. 홈에서는 실점 관리가 비교적 안정적으로 이어지고 있고, 루이스미 크루스와 마리오 소리아노가 전개를 끌어주면서 피에르에메릭 오바메양의 결정력에 기대를 거는 구조입니다. 특히 이번 경기에서는 4-4-2 운영 속에서 측면과 전방 압박이 살아나면 득점 기회가 더 자주 만들어질 가능성이 있습니다. 다만 노에의 이탈로 수비 밸런스와 후방 대응에서 세밀함이 필요해 보이며, 이런 점이 경기 내내 중요한 변수가 될 것으로 보입니다."
+awayAnalysis: "발렌시아는 2026시즌 최근 33경기에서 19승 3무 11패, 평균 득점 60.5를 기록하며 전체 전력의 무게감이 분명한 편입니다. 최근 경기 흐름만 보면 패배와 접전이 섞여 있지만, 큰 틀에서는 공격 전개가 살아 있고 경기 후반까지 주도권을 유지하는 장면이 자주 보입니다. 원정에서는 5-4-1 형태로 수비 숫자를 두텁게 두면서도 아르나우트 단주마와 휴고 두로를 활용해 전환 속도를 살리는 점이 강점으로 평가됩니다. 다만 호세 코페테, 디에고 로페스, 세르히 카노스 등 주요 전력 공백이 겹쳐 있어 조직력의 완성도는 다소 흔들릴 수 있습니다. 그래도 펩엘루와 하비에르 게라가 중원을 정리해 주면 경기의 중심은 발렌시아 쪽으로 더 기울 가능성이 있습니다."
+homePower: "홈에서는 실점 억제 흐름이 이어져 경기 끌고 가는 힘이 보임|오바메양 활용 시 적은 기회도 득점으로 바꿀 가능성 있음|소리아노와 크루스의 연계가 전진 속도 핵심임|4-4-2 구조라 측면 전환이 살아나면 위협도 높아짐|노에 이탈로 후방 압박 대응은 세밀함이 필요함"
+awayPower: "시즌 전력 수치가 길게 쌓인 팀답게 경기 운영의 무게감이 큼|단주마와 두로 중심 전환 공격이 가장 날카로움|펩엘루가 중원 균형을 잡으면 수비 블록 완성도 높아짐|5-4-1 구조로 원정 실점 억제에 강점이 있음|주요 결장 누적으로 마무리 조합은 다소 단순해질 수 있음"
+h2h: '[{"date":"18.05.20","home":"발렌시아","away":"데포르티보 라코루냐","score":"2-1"},{"date":"18.01.14","home":"데포르티보 라코루냐","away":"발렌시아","score":"1-2"},{"date":"17.04.03","home":"발렌시아","away":"데포르티보 라코루냐","score":"3-0"},{"date":"16.11.01","home":"데포르티보 라코루냐","away":"발렌시아","score":"1-1"},{"date":"16.01.25","home":"데포르티보 라코루냐","away":"발렌시아","score":"1-1"}]'
+summary: "데포르티보 라코루냐는 최근 시즌 흐름에서 실점 억제는 괜찮지만 공격의 폭발력은 제한적이라 경기 양상이 쉽게 길어지는 편입니다. 발렌시아는 시즌 전체 전력 기준으로 더 높은 생산성과 운영 안정감을 보여주고 있고, 중원과 전환 속도에서 한 단계 앞서는 모습이 뚜렷합니다. 상대전적에서도 발렌시아가 우위를 가져간 경기가 더 많아 전력과 상성 두 축 모두에서 원정팀이 조금 더 유리해 보입니다. 다만 데포르티보 라코루냐가 홈에서 수비 집중력을 유지하면 접전 가능성은 충분히 남아 있어, 전체적으로는 발렌시아 쪽 우세가 조금 더 설득력 있게 읽힙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Noé (근육 부상)"
+injuryAway: "José Copete (연골 파열)|Justin De Haas (발목 부상)|Diego López (십자 인대 부상)|Alberto Marí (근육 부상)|Sergi Canós (십자 인대 부상)"
+homeLineup: '["Leo Román (GK)|https://images.fotmob.com/image_resources/playerimages/1187702.png","Ximo Navarro (DF)|https://images.fotmob.com/image_resources/playerimages/260659.png","Lucas Noubi (DF)|https://images.fotmob.com/image_resources/playerimages/1332025.png","Miguel Loureiro (DF)|https://images.fotmob.com/image_resources/playerimages/800891.png","Giacomo Quagliata (DF)|https://images.fotmob.com/image_resources/playerimages/1077977.png","Adrià Altimira (DF)|https://images.fotmob.com/image_resources/playerimages/1256478.png","Mario Soriano (MF)|https://images.fotmob.com/image_resources/playerimages/1050828.png","Lorenzo Amatucci (MF)|https://images.fotmob.com/image_resources/playerimages/1425989.png","Jonathan Asp (FW)|https://images.fotmob.com/image_resources/playerimages/1621150.png","Luismi Cruz (MF)|https://images.fotmob.com/image_resources/playerimages/1204447.png","Pierre-Emerick Aubameyang (FW)|https://images.fotmob.com/image_resources/playerimages/150565.png"]'
+awayLineup: '["Stole Dimitrievski (GK)|https://images.fotmob.com/image_resources/playerimages/254241.png","César Tárrega (DF)|https://images.fotmob.com/image_resources/playerimages/1311985.png","Pepelu (MF)|https://images.fotmob.com/image_resources/playerimages/673689.png","Mouctar Diakhaby (DF)|https://images.fotmob.com/image_resources/playerimages/561198.png","Pablo Maffeo (DF)|https://images.fotmob.com/image_resources/playerimages/673356.png","Jesus Vázquez (DF)|https://images.fotmob.com/image_resources/playerimages/1220187.png","Ryunosuke Sato (MF)|https://images.fotmob.com/image_resources/playerimages/1611149.png","Javier Guerra (MF)|https://images.fotmob.com/image_resources/playerimages/1284429.png","Aliou Dieng (MF)|https://images.fotmob.com/image_resources/playerimages/723148.png","Arnaut Danjuma (MF)|https://images.fotmob.com/image_resources/playerimages/704151.png","Hugo Duro (FW)|https://images.fotmob.com/image_resources/playerimages/929838.png"]'
+homeFormation: "4-4-2"
+awayFormation: "5-4-1"
+homeCoach: "Antonio Hidalgo|https://images.fotmob.com/image_resources/playerimages/33832.png"
+awayCoach: "Carlos Corberán|https://images.fotmob.com/image_resources/playerimages/819528.png"
+pickWinTeam: "발렌시아"
+pickWinResult: "승"
+pickHandicapTeam: "발렌시아"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

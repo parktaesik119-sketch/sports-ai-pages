@@ -1,0 +1,37 @@
+---
+title: "애슬레틱스 vs 볼티모어 오리올스 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLB - 픽천국"
+date: 2026-08-30T02:05:00.000Z
+description: "애슬레틱스 vs 볼티모어 오리올스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260830BAOA0-2026-08-30-athletics"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애슬레틱스"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "애슬레틱스는 2026시즌 최근 85경기 32승 52패, 승률 .381 수준의 전력으로 시즌 평균 득점 4.4점을 기록하고 있습니다. 최근에는 평균 득점이 5.0점까지 올라오며 공격 흐름이 분명히 살아났고, 미네소타 트윈스를 상대로 연승을 거두는 등 타선의 응집력이 좋아진 모습입니다. 다만 시즌 전체로 보면 실점 억제가 충분하지 않아 큰 점수 차로 흔들린 경기가 적지 않았고, 이런 부분이 여전히 전력의 가장 큰 과제로 보입니다. 홈에서는 공격이 좀 더 안정적으로 이어지는 편이라 중후반 득점 생산력이 강점으로 평가됩니다. 부상자 이탈도 적지 않아 전력의 깊이는 제한적이지만, 최근 흐름만 놓고 보면 홈에서 반등 기세를 이어갈 여지는 충분합니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 최근 96경기 46승 47패, 승률 .495 수준으로 시즌 평균 득점 4.5점을 기록하고 있습니다. 최근 10경기 평균 득점은 4.6점으로 나쁘지 않지만, 직전 일정에서는 기복이 드러나며 안정적인 마무리가 부족한 모습도 함께 보이고 있습니다. 시즌 전체 득실 격차가 크지 않아 공격과 수비의 균형은 완전히 무너지지 않았지만, 상위권으로 치고 올라가기에는 경기별 편차가 다소 큰 편입니다. 원정에서도 득점 자체는 유지하고 있으나, 실점 관리가 흔들릴 때 흐름이 급격히 꺾이는 점이 아쉽습니다. 주요 결장자들이 많아 중심축이 빠진 상태라는 점까지 더해지면서, 최근의 반등 흐름을 길게 이어가기는 쉽지 않아 보입니다."
+homePower: "최근 홈 타선 응집력이 살아나며 경기 후반 추격력 강화됨|시즌 실점 편차가 커도 홈에서는 득점 압박이 더 선명함|볼티모어 오리올스 핵심 이탈로 중후반 승부에서 우위 가능함|최근 연승 구간에서 상위권 팀 상대로도 득점 유지가 확인됨|수비 불안은 남아 있으나 홈 공격 템포는 충분히 위협적임"
+awayPower: "시즌 득실이 크지 않아 한 끗 차 경기 대응력은 검증됨|최근 원정 득점은 유지되나 승부처 집중력은 흔들림이 보임|핵심 타선과 불펜 이탈로 경기 후반 안정감 저하됨|애슬레틱스 상대 최근 결과상 초반 주도권 확보가 쉽지 않음|장타보다 연결 타격이 살아야만 흐름 반전 가능함"
+h2h: '[{"date":"26.05.11","home":"볼티모어 오리올스","away":"애슬레틱스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-178618-2026-05-11-baltimore-orioles/"},{"date":"26.05.10","home":"볼티모어 오리올스","away":"애슬레틱스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-178602-2026-05-10-baltimore-orioles/"},{"date":"26.05.09","home":"볼티모어 오리올스","away":"애슬레틱스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-178587-2026-05-09-baltimore-orioles/"}]'
+summary: "애슬레틱스는 시즌 전체 전력에서 수비 불안이 분명하지만, 최근에는 평균 득점이 올라오며 홈에서 공격 흐름을 되찾고 있습니다. 볼티모어 오리올스는 시즌 성적이 더 낫고 득실도 비교적 안정적이지만, 최근 일정에서는 기복이 보이고 주요 결장자 공백까지 겹치며 마무리 안정감이 약해진 모습입니다. 상대전적에서도 애슬레틱스가 시리즈 우위를 잡고 있어, 전체 전력 차이와 최근 흐름을 함께 보면 홈팀이 한발 앞선 경기 운영을 할 가능성이 높아 보입니다. 결국 타선의 응집력과 결장 공백의 영향이 승부를 가를 전망이며, 애슬레틱스 쪽 기대가 조금 더 높습니다."
+homeRecent: '[{"date":"26.08.27","home":"애슬레틱스","away":"미네소타 트윈스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MNOA0-2026-08-27-athletics/"},{"date":"26.08.26","home":"애슬레틱스","away":"미네소타 트윈스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MNOA0-2026-08-26-athletics/"},{"date":"26.08.25","home":"애슬레틱스","away":"미네소타 트윈스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825MNOA0-2026-08-25-athletics/"},{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824OAHO0-2026-08-24-houston-astros/"},{"date":"26.08.23","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823OAHO0-2026-08-23-houston-astros/"}]'
+awayRecent: '[{"date":"26.08.28","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals/"},{"date":"26.08.27","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BASL0-2026-08-27-st-louis-cardinals/"},{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"},{"date":"26.08.24","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824TBBA0-2026-08-24-baltimore-orioles/"},{"date":"26.08.23","home":"볼티모어 오리올스","away":"탬파베이 레이스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823TBBA0-2026-08-23-baltimore-orioles/"}]'
+injuryHome: "Denzel Clarke (근육 염좌)|Brooks Kriske (눌린 신경)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)|Nick Kurtz (근육 염좌)"
+injuryAway: "Tyler O'Neill (통증)|Felix Bautista (수술)|Ryan Helsley (염증)|Ryan Mountcastle (근육 염좌)|Jordan Westburg (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애슬레틱스"
+pickWinResult: "승"
+pickHandicapTeam: "애슬레틱스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "시카고 컵스 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (8월 30일) | MLB - 픽천국"
+date: 2026-08-29T18:20:00.000Z
+description: "시카고 컵스 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260830CICC0-2026-08-30-chicago-cubs"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 컵스"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "시카고 컵스는 2026시즌 최근 91경기에서 49승 2무 40패, 평균 득점 5.0으로 안정적인 공격 생산을 이어가고 있습니다. 리그순위 4위답게 시즌 전체 전력의 완성도가 높고, 최근 경기에서는 10경기 4승 6패로 다소 흔들렸지만 폭발적인 득점이 나올 때는 흐름을 단번에 바꾸는 힘이 보입니다. 특히 홈에서는 큰 득점 차로 경기를 풀어내는 장면이 자주 나오며, 실점이 늘어나는 날에도 타선이 한 번에 분위기를 되돌리는 능력이 돋보입니다. 다만 직전 경기에서 신시내티 레즈에게 8실점 패배를 당한 뒤라 수비 쪽에서는 세밀한 정리가 필요해 보입니다. 부상 이탈이 적지 않지만, 시즌 내내 보여준 득점 응집력과 홈 운영 강점은 여전히 홈팀 쪽 기대를 높여 주고 있습니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 최근 93경기에서 39승 2무 52패, 평균 득점 4.0으로 공격 생산이 다소 무거운 편입니다. 리그순위 11위로 시즌 전반의 기복이 적지 않지만, 최근 10경기 4승 6패 흐름에서는 상위권 팀을 상대로도 접전으로 끌고 가는 장면이 있어 반등 조짐이 완전히 사라진 상태는 아닙니다. 다만 실점 억제가 흔들리는 날이 많아 득실 격차가 크게 벌어져 있고, 원정에서는 흐름이 더 쉽게 끊기는 모습이 보입니다. 핵심 결장자들이 여러 명 겹쳐 있어 타선과 수비 모두에서 안정감이 떨어질 수밖에 없는 구간입니다. 그래도 최근 맞대결에서는 한 경기 승리를 따내며 한 방은 보여준 만큼, 초반 흐름을 잡으면 쉽게 무너지지만은 않는 팀으로 평가됩니다."
+homePower: "시카고 컵스 타선은 홈에서 경기 흐름을 크게 흔드는 폭발력이 있음|득점 기복은 있으나 한 경기 몰아치기 능력이 뚜렷함|상위권 리그순위 대비 최근 흔들림은 수비 쪽 보완 신호임|부상 공백에도 홈 운영 완성도가 상대보다 높아 보임|신시내티 레즈 상대로 누적 우위가 상성 강점으로 작용함"
+awayPower: "신시내티 레즈는 원정에서도 초반 집중력이 살아날 때가 있음|득점 평균은 낮지만 접전으로 버티는 경기력이 확인됨|리그순위 11위와 최근 기복이 맞물려 안정성은 떨어짐|장기 결장 누적으로 마운드와 수비 불안이 커진 상태임|시카고 컵스 상대로는 변칙 흐름이 나와야 승산이 보임"
+h2h: '[{"date":"26.08.29","home":"시카고 컵스","away":"신시내티 레즈","score":"8-10","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829CICC0-2026-08-29-chicago-cubs/"},{"date":"26.07.13","home":"신시내티 레즈","away":"시카고 컵스","score":"4-8","link":"https://pick79.com/posts/detail/analyze-179458-2026-07-13-cincinnati-reds/"},{"date":"26.07.12","home":"신시내티 레즈","away":"시카고 컵스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-179446-2026-07-12-cincinnati-reds/"},{"date":"26.07.11","home":"신시내티 레즈","away":"시카고 컵스","score":"4-0","link":"https://pick79.com/posts/detail/analyze-179432-2026-07-11-cincinnati-reds/"},{"date":"26.05.08","home":"시카고 컵스","away":"신시내티 레즈","score":"8-3","link":"https://pick79.com/posts/detail/analyze-178573-2026-05-08-chicago-cubs/"}]'
+summary: "시카고 컵스는 리그순위 4위와 49승 2무 40패, 평균 득점 5.0이라는 시즌 전력이 받쳐 주고 있어 전체적인 안정감이 분명합니다. 신시내티 레즈는 리그순위 11위, 39승 2무 52패, 평균 득점 4.0으로 공격과 실점 관리에서 모두 더 무거운 흐름을 보여 주고 있습니다. 최근 흐름과 맞대결 성적까지 함께 보면 시카고 컵스가 전력 우위를 점할 가능성이 높고, 타선의 응집력과 홈 운영에서 한 발 앞선 모습이 기대됩니다. 신시내티 레즈도 최근 맞대결에서 한 차례 힘을 보였지만, 시즌 전력 차이와 부상 공백을 감안하면 장기적으로는 홈팀 쪽이 더 유리하게 전개될 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.29","home":"시카고 컵스","away":"신시내티 레즈","score":"8-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829CICC0-2026-08-29-chicago-cubs/"},{"date":"26.08.27","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CCAZ0-2026-08-27-arizona-diamondbacks/"},{"date":"26.08.25","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CCAZ0-2026-08-25-arizona-diamondbacks/"},{"date":"26.08.24","home":"시애틀 매리너스","away":"시카고 컵스","score":"2-19","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners/"},{"date":"26.08.23","home":"시애틀 매리너스","away":"시카고 컵스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823CCSE0-2026-08-23-seattle-mariners/"}]'
+awayRecent: '[{"date":"26.08.29","home":"시카고 컵스","away":"신시내티 레즈","score":"8-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829CICC0-2026-08-29-chicago-cubs/"},{"date":"26.08.27","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"9-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CISF0-2026-08-27-san-francisco-giants/"},{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"},{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"},{"date":"26.08.22","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260822CIAZ0-2026-08-22-arizona-diamondbacks/"}]'
+injuryHome: "Edward Cabrera (찰과상)|Shelby Miller (수술)|Gavin Hollowell (염증)|Tyler Austin (수술)|Hunter Harvey (골절)"
+injuryAway: "Brady Singer (통증)|Graham Ashcraft (염좌)|Brandon Williamson (통증)|Ke'Bryan Hayes (근육 염좌)|Spencer Steer (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

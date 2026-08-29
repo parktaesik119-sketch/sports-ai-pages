@@ -1,0 +1,37 @@
+---
+title: "레알 마드리드 vs Málaga 경기분석·라인업·결장자·통계·승부예측 (8월 31일) | 라리가 - 픽천국"
+date: 2026-08-30T15:00:00.000Z
+description: "레알 마드리드 vs Málaga 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868038-2026-08-31-real-madrid"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "레알 마드리드"
+awayTeam: "Málaga"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9864.png"
+homeAnalysis: "레알 마드리드는 2026시즌 최근 27경기에서 16승 2무 9패를 기록했고 평균 득점 53.5로 공격 생산성이 높은 흐름을 보여주고 있습니다. 최근에는 실점 억제와 득점 효율이 함께 살아나면서 연속 승리 흐름이 이어지고 있어 경기 주도권을 잡는 힘이 뚜렷합니다. 비니시우스 주니오르와 킬리안 음바페를 전면에 두고 아르다 귈러, 주드 벨링엄이 2선에서 연결해 주는 구조라 전개 속도와 마무리의 완성도가 모두 높아 보입니다. 다만 에데르 밀리탕, 페를랑 멘디, 라울 아센시오, 오렐리앵 추아메니의 결장은 수비 안정성과 중원 균형에 부담이 될 수 있습니다. 그래도 티보 쿠르투아가 골문을 지키고 있어 전반적인 경기 운영은 홈에서 더욱 안정적으로 이어질 가능성이 큽니다."
+awayAnalysis: "말라가는 2026시즌 최근 16경기에서 4승 9무 3패를 기록했고 평균 득점 1.4로 저득점 성향이 강하게 나타나고 있습니다. 최근에는 승부를 길게 끌고 가는 힘은 있지만, 마무리에서 한 번에 흐름을 바꾸는 장면이 많지 않아 득점 기복이 보입니다. 알폰소 에레로를 중심으로 수비 블록을 세우고 카를로스 도토르, 호아킨 무뇨스, 추페가 전방에서 버티는 구조라 안정성은 있으나 화력 면에서는 한계가 분명합니다. 아드리안 니노, 디에고 무릴로, 페르난도 칼레로, 무사 디아라, 아론 오초아의 이탈은 수비와 중원 뎁스를 더 얇게 만들고 있습니다. 상대적으로 실리 있는 운영은 가능하지만, 강한 압박을 받는 구간에서는 공격 전환 속도가 떨어질 가능성이 있습니다."
+homePower: "비니시우스-음바페 조합으로 전방 파괴력 압도적임|벨링엄-귈러 연계로 2선 침투각 다양함|쿠르투아 중심으로 실점 최소화 흐름 보임|추아메니 공백에도 압박 강도 유지가 핵심임|말라가 상대로 상성 우위가 오래 검증됨"
+awayPower: "저득점 전개 속 버티는 경기 운영이 강점임|카를로스 도토르 중심 중원 연결은 안정적임|무뎌지기 쉬운 마무리, 득점 전환 효율 아쉬움|수비 결장 누적으로 후반 집중력 저하 우려됨|강팀 상대로는 역습 한 방 의존도 높아짐"
+h2h: '[{"date":"18.04.16","home":"Málaga","away":"레알 마드리드","score":"1-2"},{"date":"17.11.26","home":"레알 마드리드","away":"Málaga","score":"3-2"},{"date":"17.05.22","home":"Málaga","away":"레알 마드리드","score":"0-2"},{"date":"17.01.22","home":"레알 마드리드","away":"Málaga","score":"2-1"},{"date":"16.02.22","home":"Málaga","away":"레알 마드리드","score":"1-1"}]'
+summary: "레알 마드리드는 시즌 전체 흐름에서 득점 생산과 승리 전환 능력이 분명하게 앞서 있고, 말라가는 저득점 중심의 운영 속에서 승부를 길게 가져가는 쪽에 가깝습니다. 특히 레알 마드리드는 비니시우스 주니오르와 킬리안 음바페를 앞세운 전방의 폭발력이 강하고, 말라가는 수비 결장 여파까지 겹치며 강한 압박을 버티는 데 어려움이 있어 보입니다. 상대전적에서도 레알 마드리드가 꾸준히 우세를 이어 왔기 때문에, 전체 전력 차이와 상성까지 함께 놓고 보면 홈팀이 주도권을 잡을 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Éder Militao (허벅지 부상)|Ferland Mendy (부상)|Raúl Asencio (정강이 부상)|Aurélien Tchouaméni (근육 부상)|Thiago Pitarch (무릎 부상)|Endrick (근육 부상)|Rodrygo (십자 인대 부상)"
+injuryAway: "Adrián Nino (허벅지 부상)|Diego Murillo (십자 인대 부상)|Fernando Calero (부상)|Moussa Diarra (근육 부상)|Aarón Ochoa (연골 파열)"
+homeLineup: '["Thibaut Courtois (GK)|https://images.fotmob.com/image_resources/playerimages/170323.png","Denzel Dumfries (MF)|https://images.fotmob.com/image_resources/playerimages/593118.png","Ibrahima Konaté (DF)|https://images.fotmob.com/image_resources/playerimages/820140.png","Dean Huijsen (DF)|https://images.fotmob.com/image_resources/playerimages/1367619.png","Alvaro Carreras (DF)|https://images.fotmob.com/image_resources/playerimages/1190025.png","Bernardo Silva (MF)|https://images.fotmob.com/image_resources/playerimages/488139.png","Federico Valverde (MF)|https://images.fotmob.com/image_resources/playerimages/743533.png","Arda Güler (MF)|https://images.fotmob.com/image_resources/playerimages/1253890.png","Jude Bellingham (MF)|https://images.fotmob.com/image_resources/playerimages/1077894.png","Vinícius Júnior (FW)|https://images.fotmob.com/image_resources/playerimages/846033.png","Kylian Mbappé (FW)|https://images.fotmob.com/image_resources/playerimages/701154.png"]'
+awayLineup: '["Alfonso Herrero (GK)|https://images.fotmob.com/image_resources/playerimages/616538.png","Carlos Puga (DF)|https://images.fotmob.com/image_resources/playerimages/1668274.png","Ángel Recio (DF)|https://images.fotmob.com/image_resources/playerimages/1260010.png","Einar Galilea (DF)|https://images.fotmob.com/image_resources/playerimages/516803.png","Rafita (DF)|https://images.fotmob.com/image_resources/playerimages/1717331.png","Dani Lorenzo (MF)|https://images.fotmob.com/image_resources/playerimages/1317624.png","Izan Merino (MF)|https://images.fotmob.com/image_resources/playerimages/1669619.png","Juan Cruz (FW)|https://images.fotmob.com/image_resources/playerimages/940608.png","Carlos Dotor (MF)|https://images.fotmob.com/image_resources/playerimages/1209421.png","Joaquín Muñoz (MF)|https://images.fotmob.com/image_resources/playerimages/951739.png","Chupe (FW)|https://images.fotmob.com/image_resources/playerimages/1669622.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "José Mourinho|https://images.fotmob.com/image_resources/playerimages/78719.png"
+awayCoach: "Juan Funes|https://images.fotmob.com/image_resources/playerimages/1856996.png"
+pickWinTeam: "레알 마드리드"
+pickWinResult: "승"
+pickHandicapTeam: "레알 마드리드"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "2"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---
