@@ -1581,15 +1581,15 @@
       }
     },
     "lineup": {
-      "lineupConfirmed": false,
+      "lineupConfirmed": true,
       "home": {
         "teamId": "LT",
         "teamName": "롯데",
-        "gameId": "20260826LTHT0",
+        "gameId": "20260829LGLT0",
         "warByOrderRange": {
           "1-2": "1.94",
           "3-5": "8.85",
-          "6-9": "3.69"
+          "6-9": "3.87"
         },
         "lineup": [
           {
@@ -1624,15 +1624,15 @@
           },
           {
             "order": "6",
-            "position": "2루수",
-            "name": "한태양",
-            "war": "0.56"
-          },
-          {
-            "order": "7",
             "position": "유격수",
             "name": "전민재",
             "war": "1.99"
+          },
+          {
+            "order": "7",
+            "position": "우익수",
+            "name": "윤동희",
+            "war": "0.45"
           },
           {
             "order": "8",
@@ -1642,20 +1642,20 @@
           },
           {
             "order": "9",
-            "position": "우익수",
-            "name": "장두성",
-            "war": "0.28"
+            "position": "2루수",
+            "name": "한태양",
+            "war": "0.56"
           }
         ]
       },
       "away": {
         "teamId": "LG",
         "teamName": "LG",
-        "gameId": "20260827NCLG0",
+        "gameId": "20260829LGLT0",
         "warByOrderRange": {
           "1-2": "3.34",
-          "3-5": "11.80",
-          "6-9": "5.19"
+          "3-5": "12.72",
+          "6-9": "1.89"
         },
         "lineup": [
           {
@@ -1672,7 +1672,7 @@
           },
           {
             "order": "3",
-            "position": "지명타자",
+            "position": "1루수",
             "name": "오스틴",
             "war": "7.35"
           },
@@ -1684,27 +1684,27 @@
           },
           {
             "order": "5",
-            "position": "3루수",
-            "name": "문보경",
-            "war": "1.27"
-          },
-          {
-            "order": "6",
-            "position": "1루수",
+            "position": "지명타자",
             "name": "문정빈",
             "war": "2.19"
           },
           {
+            "order": "6",
+            "position": "3루수",
+            "name": "손용준",
+            "war": "0.20"
+          },
+          {
             "order": "7",
             "position": "유격수",
-            "name": "오지환",
-            "war": "0.57"
+            "name": "구본혁",
+            "war": "0.46"
           },
           {
             "order": "8",
             "position": "포수",
-            "name": "박동원",
-            "war": "1.12"
+            "name": "이주헌",
+            "war": "-0.08"
           },
           {
             "order": "9",
@@ -2069,28 +2069,28 @@
       }
     },
     "lineup": {
-      "lineupConfirmed": false,
+      "lineupConfirmed": true,
       "home": {
         "teamId": "HT",
         "teamName": "KIA",
-        "gameId": "20260826LTHT0",
+        "gameId": "20260829SKHT0",
         "warByOrderRange": {
-          "1-2": "1.23",
+          "1-2": "2.59",
           "3-5": "12.81",
-          "6-9": "4.46"
+          "6-9": "6.98"
         },
         "lineup": [
           {
             "order": "1",
-            "position": "2루수",
-            "name": "이호연",
-            "war": "0.35"
+            "position": "좌익수",
+            "name": "박재현",
+            "war": "2.24"
           },
           {
             "order": "2",
-            "position": "1루수",
-            "name": "박상준",
-            "war": "0.88"
+            "position": "2루수",
+            "name": "이호연",
+            "war": "0.35"
           },
           {
             "order": "3",
@@ -2100,46 +2100,46 @@
           },
           {
             "order": "4",
-            "position": "좌익수",
+            "position": "1루수",
             "name": "카스트로",
             "war": "2.91"
           },
           {
             "order": "5",
-            "position": "지명타자",
+            "position": "우익수",
             "name": "나성범",
             "war": "3.88"
           },
           {
             "order": "6",
+            "position": "지명타자",
+            "name": "김선빈",
+            "war": "1.66"
+          },
+          {
+            "order": "7",
             "position": "유격수",
             "name": "하주석",
             "war": "0.41"
           },
           {
-            "order": "7",
-            "position": "중견수",
-            "name": "김호령",
-            "war": "2.96"
-          },
-          {
             "order": "8",
             "position": "포수",
-            "name": "김태군",
-            "war": "0.98"
+            "name": "한준수",
+            "war": "1.95"
           },
           {
             "order": "9",
-            "position": "우익수",
-            "name": "박정우",
-            "war": "0.12"
+            "position": "중견수",
+            "name": "김호령",
+            "war": "2.96"
           }
         ]
       },
       "away": {
         "teamId": "SK",
         "teamName": "SSG",
-        "gameId": "20260827HHSK0",
+        "gameId": "20260829SKHT0",
         "warByOrderRange": {
           "1-2": "7.82",
           "3-5": "3.68",
@@ -2166,15 +2166,15 @@
           },
           {
             "order": "4",
-            "position": "지명타자",
-            "name": "김재환",
-            "war": "1.44"
-          },
-          {
-            "order": "5",
             "position": "1루수",
             "name": "전의산",
             "war": "1.13"
+          },
+          {
+            "order": "5",
+            "position": "지명타자",
+            "name": "김재환",
+            "war": "1.44"
           },
           {
             "order": "6",
@@ -2327,22 +2327,22 @@
       }
     },
     "lineup": {
-      "lineupConfirmed": false,
+      "lineupConfirmed": true,
       "home": {
         "teamId": "OB",
         "teamName": "두산",
-        "gameId": "20260827OBKT0",
+        "gameId": "20260829WOOB0",
         "warByOrderRange": {
-          "1-2": "1.90",
+          "1-2": "2.86",
           "3-5": "8.73",
-          "6-9": "3.69"
+          "6-9": "1.47"
         },
         "lineup": [
           {
             "order": "1",
-            "position": "중견수",
-            "name": "정수빈",
-            "war": "1.41"
+            "position": "유격수",
+            "name": "박찬호",
+            "war": "2.37"
           },
           {
             "order": "2",
@@ -2376,15 +2376,15 @@
           },
           {
             "order": "7",
-            "position": "유격수",
-            "name": "박찬호",
-            "war": "2.37"
+            "position": "중견수",
+            "name": "정수빈",
+            "war": "1.41"
           },
           {
             "order": "8",
             "position": "우익수",
-            "name": "조수행",
-            "war": "1.23"
+            "name": "김대한",
+            "war": "-0.04"
           },
           {
             "order": "9",
@@ -2397,11 +2397,11 @@
       "away": {
         "teamId": "WO",
         "teamName": "키움",
-        "gameId": "20260827SSWO0",
+        "gameId": "20260829WOOB0",
         "warByOrderRange": {
-          "1-2": "3.61",
-          "3-5": "4.57",
-          "6-9": "0.02"
+          "1-2": "3.67",
+          "3-5": "3.92",
+          "6-9": "2.29"
         },
         "lineup": [
           {
@@ -2412,9 +2412,9 @@
           },
           {
             "order": "2",
-            "position": "3루수",
-            "name": "김웅빈",
-            "war": "0.97"
+            "position": "중견수",
+            "name": "추재현",
+            "war": "1.03"
           },
           {
             "order": "3",
@@ -2424,39 +2424,39 @@
           },
           {
             "order": "4",
-            "position": "지명타자",
+            "position": "좌익수",
             "name": "히우라",
             "war": "0.75"
           },
           {
             "order": "5",
+            "position": "3루수",
+            "name": "김웅빈",
+            "war": "0.97"
+          },
+          {
+            "order": "6",
+            "position": "지명타자",
+            "name": "안치홍",
+            "war": "1.33"
+          },
+          {
+            "order": "7",
             "position": "포수",
             "name": "김건희",
             "war": "1.62"
           },
           {
-            "order": "6",
-            "position": "좌익수",
-            "name": "이형종",
-            "war": "-0.05"
-          },
-          {
-            "order": "7",
-            "position": "중견수",
+            "order": "8",
+            "position": "우익수",
             "name": "원성준",
             "war": "-0.12"
           },
           {
-            "order": "8",
-            "position": "우익수",
-            "name": "박찬혁",
-            "war": "0.55"
-          },
-          {
             "order": "9",
             "position": "유격수",
-            "name": "최재영",
-            "war": "-0.36"
+            "name": "권혁빈",
+            "war": "-0.54"
           }
         ]
       }
@@ -2668,11 +2668,11 @@
       "home": {
         "teamId": "LT",
         "teamName": "롯데",
-        "gameId": "20260826LTHT0",
+        "gameId": "20260829LGLT0",
         "warByOrderRange": {
           "1-2": "1.94",
           "3-5": "8.85",
-          "6-9": "3.69"
+          "6-9": "3.87"
         },
         "lineup": [
           {
@@ -2707,15 +2707,15 @@
           },
           {
             "order": "6",
-            "position": "2루수",
-            "name": "한태양",
-            "war": "0.56"
-          },
-          {
-            "order": "7",
             "position": "유격수",
             "name": "전민재",
             "war": "1.99"
+          },
+          {
+            "order": "7",
+            "position": "우익수",
+            "name": "윤동희",
+            "war": "0.45"
           },
           {
             "order": "8",
@@ -2725,20 +2725,20 @@
           },
           {
             "order": "9",
-            "position": "우익수",
-            "name": "장두성",
-            "war": "0.28"
+            "position": "2루수",
+            "name": "한태양",
+            "war": "0.56"
           }
         ]
       },
       "away": {
         "teamId": "LG",
         "teamName": "LG",
-        "gameId": "20260827NCLG0",
+        "gameId": "20260829LGLT0",
         "warByOrderRange": {
           "1-2": "3.34",
-          "3-5": "11.80",
-          "6-9": "5.19"
+          "3-5": "12.72",
+          "6-9": "1.89"
         },
         "lineup": [
           {
@@ -2755,7 +2755,7 @@
           },
           {
             "order": "3",
-            "position": "지명타자",
+            "position": "1루수",
             "name": "오스틴",
             "war": "7.35"
           },
@@ -2767,27 +2767,27 @@
           },
           {
             "order": "5",
-            "position": "3루수",
-            "name": "문보경",
-            "war": "1.27"
-          },
-          {
-            "order": "6",
-            "position": "1루수",
+            "position": "지명타자",
             "name": "문정빈",
             "war": "2.19"
           },
           {
+            "order": "6",
+            "position": "3루수",
+            "name": "손용준",
+            "war": "0.20"
+          },
+          {
             "order": "7",
             "position": "유격수",
-            "name": "오지환",
-            "war": "0.57"
+            "name": "구본혁",
+            "war": "0.46"
           },
           {
             "order": "8",
             "position": "포수",
-            "name": "박동원",
-            "war": "1.12"
+            "name": "이주헌",
+            "war": "-0.08"
           },
           {
             "order": "9",
@@ -2998,24 +2998,24 @@
       "home": {
         "teamId": "HT",
         "teamName": "KIA",
-        "gameId": "20260826LTHT0",
+        "gameId": "20260829SKHT0",
         "warByOrderRange": {
-          "1-2": "1.23",
+          "1-2": "2.59",
           "3-5": "12.81",
-          "6-9": "4.46"
+          "6-9": "6.98"
         },
         "lineup": [
           {
             "order": "1",
-            "position": "2루수",
-            "name": "이호연",
-            "war": "0.35"
+            "position": "좌익수",
+            "name": "박재현",
+            "war": "2.24"
           },
           {
             "order": "2",
-            "position": "1루수",
-            "name": "박상준",
-            "war": "0.88"
+            "position": "2루수",
+            "name": "이호연",
+            "war": "0.35"
           },
           {
             "order": "3",
@@ -3025,46 +3025,46 @@
           },
           {
             "order": "4",
-            "position": "좌익수",
+            "position": "1루수",
             "name": "카스트로",
             "war": "2.91"
           },
           {
             "order": "5",
-            "position": "지명타자",
+            "position": "우익수",
             "name": "나성범",
             "war": "3.88"
           },
           {
             "order": "6",
+            "position": "지명타자",
+            "name": "김선빈",
+            "war": "1.66"
+          },
+          {
+            "order": "7",
             "position": "유격수",
             "name": "하주석",
             "war": "0.41"
           },
           {
-            "order": "7",
-            "position": "중견수",
-            "name": "김호령",
-            "war": "2.96"
-          },
-          {
             "order": "8",
             "position": "포수",
-            "name": "김태군",
-            "war": "0.98"
+            "name": "한준수",
+            "war": "1.95"
           },
           {
             "order": "9",
-            "position": "우익수",
-            "name": "박정우",
-            "war": "0.12"
+            "position": "중견수",
+            "name": "김호령",
+            "war": "2.96"
           }
         ]
       },
       "away": {
         "teamId": "SK",
         "teamName": "SSG",
-        "gameId": "20260827HHSK0",
+        "gameId": "20260829SKHT0",
         "warByOrderRange": {
           "1-2": "7.82",
           "3-5": "3.68",
@@ -3091,15 +3091,15 @@
           },
           {
             "order": "4",
-            "position": "지명타자",
-            "name": "김재환",
-            "war": "1.44"
-          },
-          {
-            "order": "5",
             "position": "1루수",
             "name": "전의산",
             "war": "1.13"
+          },
+          {
+            "order": "5",
+            "position": "지명타자",
+            "name": "김재환",
+            "war": "1.44"
           },
           {
             "order": "6",
@@ -3177,18 +3177,18 @@
       "home": {
         "teamId": "OB",
         "teamName": "두산",
-        "gameId": "20260827OBKT0",
+        "gameId": "20260829WOOB0",
         "warByOrderRange": {
-          "1-2": "1.90",
+          "1-2": "2.86",
           "3-5": "8.73",
-          "6-9": "3.69"
+          "6-9": "1.47"
         },
         "lineup": [
           {
             "order": "1",
-            "position": "중견수",
-            "name": "정수빈",
-            "war": "1.41"
+            "position": "유격수",
+            "name": "박찬호",
+            "war": "2.37"
           },
           {
             "order": "2",
@@ -3222,15 +3222,15 @@
           },
           {
             "order": "7",
-            "position": "유격수",
-            "name": "박찬호",
-            "war": "2.37"
+            "position": "중견수",
+            "name": "정수빈",
+            "war": "1.41"
           },
           {
             "order": "8",
             "position": "우익수",
-            "name": "조수행",
-            "war": "1.23"
+            "name": "김대한",
+            "war": "-0.04"
           },
           {
             "order": "9",
@@ -3243,11 +3243,11 @@
       "away": {
         "teamId": "WO",
         "teamName": "키움",
-        "gameId": "20260827SSWO0",
+        "gameId": "20260829WOOB0",
         "warByOrderRange": {
-          "1-2": "3.61",
-          "3-5": "4.57",
-          "6-9": "0.02"
+          "1-2": "3.67",
+          "3-5": "3.92",
+          "6-9": "2.29"
         },
         "lineup": [
           {
@@ -3258,9 +3258,9 @@
           },
           {
             "order": "2",
-            "position": "3루수",
-            "name": "김웅빈",
-            "war": "0.97"
+            "position": "중견수",
+            "name": "추재현",
+            "war": "1.03"
           },
           {
             "order": "3",
@@ -3270,39 +3270,39 @@
           },
           {
             "order": "4",
-            "position": "지명타자",
+            "position": "좌익수",
             "name": "히우라",
             "war": "0.75"
           },
           {
             "order": "5",
+            "position": "3루수",
+            "name": "김웅빈",
+            "war": "0.97"
+          },
+          {
+            "order": "6",
+            "position": "지명타자",
+            "name": "안치홍",
+            "war": "1.33"
+          },
+          {
+            "order": "7",
             "position": "포수",
             "name": "김건희",
             "war": "1.62"
           },
           {
-            "order": "6",
-            "position": "좌익수",
-            "name": "이형종",
-            "war": "-0.05"
-          },
-          {
-            "order": "7",
-            "position": "중견수",
+            "order": "8",
+            "position": "우익수",
             "name": "원성준",
             "war": "-0.12"
           },
           {
-            "order": "8",
-            "position": "우익수",
-            "name": "박찬혁",
-            "war": "0.55"
-          },
-          {
             "order": "9",
             "position": "유격수",
-            "name": "최재영",
-            "war": "-0.36"
+            "name": "권혁빈",
+            "war": "-0.54"
           }
         ]
       }
