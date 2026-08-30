@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.30","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.08.30","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830KCCL0-2026-08-30-cleveland-guardians/"},{"date":"26.08.29","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829KCCL0-2026-08-29-cleveland-guardians/"},{"date":"26.08.28","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"2-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828KCTO0-2026-08-28-toronto-blue-jays/"},{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays/"},{"date":"26.08.26","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826KCTO0-2026-08-26-toronto-blue-jays/"}]'
 injuryHome: "Rhys Hoskins (염증)|Slade Cecconi (통증)|Shawn Armstrong (긴장)"
 injuryAway: "Connor Seabold (긴장)|Maikel Garcia (긴장)|Michael Massey (지정되지 않음)|Beck Way (경련)|Carlos Estevez (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Messick (10-8, 2.50) ERA 2.50|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
+awayLineup: "[\"선발투수 S. Lugo (6-7, 4.61) ERA 4.61|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

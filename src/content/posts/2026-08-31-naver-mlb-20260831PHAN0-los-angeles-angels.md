@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.29","home":"LA 에인절스","away":"필라델피�
 awayRecent: '[{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"}]'
 injuryHome: "Samy Natera Jr. (근육 경련)|Yoan Moncada (수술)|Nolan Schanuel (근육 손상)|Sam Bachman (염증)|Gustavo Campero (근육 손상)"
 injuryAway: "Rafael Marchan (건염)|Caleb Kilian (근육 손상)|Tanner Banks (근육 손상)|Felix Reyes (골절)|Johan Rojas (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Y. Kikuchi (0-4, 6.25) ERA 6.25|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\"]"
+awayLineup: "[\"선발투수 Z. Wheeler (10-5, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

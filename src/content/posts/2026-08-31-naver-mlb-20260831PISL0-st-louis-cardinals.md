@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.30","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"},{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"},{"date":"26.08.24","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824PILA0-2026-08-24-los-angeles-dodgers/"},{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers/"}]'
 injuryHome: "Everson Pereira (멍)|Masyn Winn (골절)|Andre Pallante (염증)|Peter Strzelecki (염증)|Blaze Jordan (염좌)"
 injuryAway: "Konnor Griffin (염좌)|Ryan O'Hearn (염좌)|Mitch Keller (명시되지 않음)|Endy Rodriguez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Liberatore (5-12, 5.44) ERA 5.44|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
+awayLineup: "[\"선발투수 B. Ashcraft (13-5, 3.59) ERA 3.59|https://a.espncdn.com/i/headshots/mlb/players/full/41282.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

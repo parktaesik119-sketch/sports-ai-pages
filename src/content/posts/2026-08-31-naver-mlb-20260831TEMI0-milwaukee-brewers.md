@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.29","home":"밀워키 브루어스","away":"텍사�
 awayRecent: '[{"date":"26.08.29","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829TEMI0-2026-08-29-milwaukee-brewers/"},{"date":"26.08.27","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TECW0-2026-08-27-chicago-white-sox/"},{"date":"26.08.26","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TECW0-2026-08-26-chicago-white-sox/"},{"date":"26.08.25","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"2-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TECW0-2026-08-25-chicago-white-sox/"},{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"}]'
 injuryHome: "Joel Kuhnel (건염)|Dustin May (타박상)|Abner Uribe (근육 손상)|JoJo Romero (수술)|Rob Zastryzny (근육 손상)"
 injuryAway: "Josh Jung (근육 손상)|Michael Helman (골절)|Carter Baumler (근육 손상)|Robert Garcia (염증)|Kyle Higashioka (근육 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. May (6-8, 4.56) ERA 4.56|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\"]"
+awayLineup: "[\"선발투수 K. Rocker (5-10, 4.41) ERA 4.41|https://a.espncdn.com/i/headshots/mlb/players/full/4414525.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

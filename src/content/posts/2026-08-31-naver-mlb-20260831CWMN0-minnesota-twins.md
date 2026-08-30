@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.30","home":"미네소타 트윈스","away":"시카�
 awayRecent: '[{"date":"26.08.30","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830CWMN0-2026-08-30-minnesota-twins/"},{"date":"26.08.27","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"10-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TECW0-2026-08-27-chicago-white-sox/"},{"date":"26.08.26","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TECW0-2026-08-26-chicago-white-sox/"},{"date":"26.08.25","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"2-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TECW0-2026-08-25-chicago-white-sox/"},{"date":"26.08.24","home":"시카고 화이트삭스","away":"뉴욕 메츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824NMCW0-2026-08-24-chicago-white-sox/"}]'
 injuryHome: "Austin Martin (염좌)|Byron Buxton (통증)|Joe Ryan (염좌)|Mike Paredes (염좌)|Mick Abel (수술)"
 injuryAway: "Chris Murphy (염좌)|Kyle Teel (염좌)|Jordan Leasure (염좌)|Tyler Schweitzer (특정되지 않음)|Drew Thorpe (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Z. Matthews (8-8, 4.86) ERA 4.86|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\"]"
+awayLineup: "[\"선발투수 J. Hicks (2-1, 3.83) ERA 3.83|https://a.espncdn.com/i/headshots/mlb/players/full/37909.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
