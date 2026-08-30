@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.30","home":"클리블랜드 가디언스","away":"�
 injuryHome: "Rhys Hoskins (염증)|Slade Cecconi (통증)|Shawn Armstrong (긴장)"
 injuryAway: "Connor Seabold (긴장)|Maikel Garcia (긴장)|Michael Massey (지정되지 않음)|Beck Way (경련)|Carlos Estevez (긴장)"
 homeLineup: "[\"선발투수 P. Messick (10-8, 2.50) ERA 2.50|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
-awayLineup: "[\"선발투수 S. Lugo (6-7, 4.61) ERA 4.61|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
+awayLineup: "[\"선발투수 S. Lugo (6-7, 4.61) ERA 4.61|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\",\"1번 C. Jensen (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png\",\"2번 B. Witt Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42403.png\",\"3번 J. Caglianone (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4926296.png\",\"4번 S. Perez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31127.png\",\"5번 V. Pasquantino (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4109109.png\",\"6번 N. Loftin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4314013.png\",\"7번 J. Rave (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4418140.png\",\"8번 T. Tolbert (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4151063.png\",\"9번 K. Isbel (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41263.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
