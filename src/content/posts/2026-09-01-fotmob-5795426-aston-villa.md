@@ -1,0 +1,37 @@
+---
+title: "아스톤 빌라 vs 아스널 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | 프리미어리그 - 픽천국"
+date: 2026-08-31T19:00:00.000Z
+description: "아스톤 빌라 vs 아스널 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5795426-2026-09-01-aston-villa"
+category: "soccer"
+country: "잉글랜드"
+league: "프리미어리그"
+homeTeam: "아스톤 빌라"
+awayTeam: "아스널"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png"
+homeAnalysis: "아스톤 빌라는 2026시즌 최근 17경기 6승 3무 8패, 평균 득점 1.8을 기록하며 기복은 있었지만 공격에서는 꾸준히 득점을 만들어내고 있습니다. 다만 직전 흐름에서는 강팀과의 연전 속 실점이 늘어나며 안정감이 흔들렸고, 현재 리그순위 17위에 득실 0-4로 나타난 것처럼 출발은 다소 무거운 편입니다. 그럼에도 홈에서는 경기 운영이 한결 나아지는 편이라 중원에서 제어권을 잡아야 반등 가능성이 커 보입니다. 특히 존 맥긴과 에밀리아노 부엔디아가 전방 연결과 마무리의 중심을 잡아주면 공격 전개가 훨씬 부드러워집니다. 아마두 오나나의 이탈은 수비 보호와 압박 회복에서 부담이 크지만, 파우 토레스와 비토르 린델뢰프가 후방을 안정시키면 실점 억제의 실마리는 보입니다."
+awayAnalysis: "아스널은 2026시즌 최근 34경기 12승 12무 10패, 평균 득점 1.3으로 기록상은 안정적이지만 득점 효율이 아주 날카롭다고 보기는 어렵습니다. 현재 리그순위 6위에 득실 3-0으로 출발은 좋았지만, 최근에는 무실점 승리 뒤에도 득점 기복이 함께 보이며 고점 대비 주춤한 모습이 있습니다. 그래도 경기 지배력 자체는 여전히 살아 있고, 미켈 아르테타 감독 체제에서 점유와 압박의 완성도는 확실한 강점입니다. 부카요 사카와 마르틴 외데고르가 전진 패스와 측면 전개를 주도하면 상대 수비를 흔드는 힘은 충분합니다. 윌리엄 살리바와 유리엔 팀버의 공백은 후방 밸런스에 변수가 되지만, 기본적인 전력 우위는 유지되고 있습니다."
+homePower: "홈에서 경기 흐름을 끌어올리는 운영력은 확인됨|존 맥긴 중심으로 전방 연결축이 살아 있음|에밀리아노 부엔디아의 마무리 선택지가 중요함|아마두 오나나 부재로 수비 보호 강도는 약화됨|강팀 상대로도 초반 압박 대응은 비교적 나쁘지 않음"
+awayPower: "아스널의 점유 기반 전개 완성도는 여전히 높음|부카요 사카의 측면 돌파가 가장 뚜렷한 무기임|마르틴 외데고르의 전진 패스가 공격 질을 좌우함|윌리엄 살리바 공백은 후방 안정성 변수로 보임|기본 전력 우위와 압박 회수 능력은 검증됨"
+h2h: '[{"date":"25.12.31","home":"아스널","away":"아스톤 빌라","score":"4-1"},{"date":"25.12.06","home":"아스톤 빌라","away":"아스널","score":"2-1"},{"date":"25.01.19","home":"아스널","away":"아스톤 빌라","score":"2-2"},{"date":"24.08.25","home":"아스톤 빌라","away":"아스널","score":"0-2"},{"date":"24.04.15","home":"아스널","away":"아스톤 빌라","score":"0-2"}]'
+summary: "아스널은 현재 리그순위와 득실에서 앞서 있고, 아스톤 빌라는 순위는 낮지만 홈에서 경기 흐름을 되찾을 여지는 있는 팀입니다. 다만 시즌 전체 득점 흐름과 상대전적을 함께 보면 아스널이 전반적인 전력 우세를 점하고 있으며, 아스톤 빌라는 수비 부담이 커질수록 버티는 힘이 떨어질 가능성이 있습니다. 최근 맞대결에서도 두 팀은 득점이 오가는 경기들이 적지 않았지만, 아스널이 전력의 무게감과 점유 능력에서 한 발 앞서는 모습이 더 뚜렷합니다. 전체적으로는 아스널이 주도권을 잡고, 아스톤 빌라는 홈 에너지로 맞서는 구도가 예상됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Marco Bizot (GK)|https://images.fotmob.com/image_resources/playerimages/195782.png","Matty Cash (DF)|https://images.fotmob.com/image_resources/playerimages/729731.png","Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png","Pau Torres (DF)|https://images.fotmob.com/image_resources/playerimages/792645.png","Ian Maatsen (DF)|https://images.fotmob.com/image_resources/playerimages/966026.png","Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png","Lamare Bogarde (MF)|https://images.fotmob.com/image_resources/playerimages/1190033.png","John McGinn (FW)|https://images.fotmob.com/image_resources/playerimages/356406.png","Ross Barkley (MF)|https://images.fotmob.com/image_resources/playerimages/215384.png","George Hemmings (MF)|https://images.fotmob.com/image_resources/playerimages/1607333.png","Emiliano Buendía (FW)|https://images.fotmob.com/image_resources/playerimages/610184.png"]'
+awayLineup: '["David Raya (GK)|https://images.fotmob.com/image_resources/playerimages/562727.png","Ben White (DF)|https://images.fotmob.com/image_resources/playerimages/776151.png","Cristhian Mosquera (DF)|https://images.fotmob.com/image_resources/playerimages/1298907.png","Gabriel (DF)|https://images.fotmob.com/image_resources/playerimages/795179.png","Riccardo Calafiori (DF)|https://images.fotmob.com/image_resources/playerimages/1105912.png","Martin Ødegaard (MF)|https://images.fotmob.com/image_resources/playerimages/534670.png","Myles Lewis-Skelly (DF)|https://images.fotmob.com/image_resources/playerimages/1406436.png","Declan Rice (MF)|https://images.fotmob.com/image_resources/playerimages/654096.png","Bukayo Saka (FW)|https://images.fotmob.com/image_resources/playerimages/961995.png","Kai Havertz (FW)|https://images.fotmob.com/image_resources/playerimages/749736.png","Christos Tzolis (FW)|https://images.fotmob.com/image_resources/playerimages/1157237.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-3-3"
+homeCoach: "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png"
+awayCoach: "Mikel Arteta|https://images.fotmob.com/image_resources/playerimages/24011.png"
+pickWinTeam: "아스널"
+pickWinResult: "승"
+pickHandicapTeam: "아스널"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

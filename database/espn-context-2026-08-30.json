@@ -745,21 +745,21 @@
       "home": {
         "rank": "13",
         "wins": "6",
-        "losses": "12",
+        "losses": "13",
         "ties": "3",
         "winPercent": null,
         "gamesBehind": null,
         "pointsFor": "25",
-        "pointsAgainst": "36"
+        "pointsAgainst": "38"
       },
       "away": {
-        "rank": "5",
-        "wins": "9",
+        "rank": "4",
+        "wins": "10",
         "losses": "7",
         "ties": "5",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "38",
+        "pointsFor": "40",
         "pointsAgainst": "32"
       }
     },
@@ -825,7 +825,7 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "11",
         "wins": "5",
         "losses": "7",
         "ties": "10",
@@ -973,7 +973,7 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "10",
         "wins": "5",
         "losses": "7",
         "ties": "10",
@@ -1056,23 +1056,23 @@
     "standings": {
       "home": {
         "rank": "1",
-        "wins": "15",
+        "wins": "16",
         "losses": "2",
         "ties": "4",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "43",
+        "pointsFor": "47",
         "pointsAgainst": "17"
       },
       "away": {
         "rank": "6",
         "wins": "8",
-        "losses": "6",
+        "losses": "7",
         "ties": "7",
         "winPercent": null,
         "gamesBehind": null,
         "pointsFor": "49",
-        "pointsAgainst": "47"
+        "pointsAgainst": "51"
       }
     },
     "h2h": {
@@ -1137,24 +1137,24 @@
     },
     "standings": {
       "home": {
-        "rank": "11",
-        "wins": "7",
+        "rank": "8",
+        "wins": "8",
         "losses": "8",
         "ties": "6",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "37",
-        "pointsAgainst": "32"
+        "pointsFor": "40",
+        "pointsAgainst": "33"
       },
       "away": {
         "rank": "13",
         "wins": "6",
-        "losses": "8",
+        "losses": "9",
         "ties": "8",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "27",
-        "pointsAgainst": "32"
+        "pointsFor": "28",
+        "pointsAgainst": "35"
       }
     },
     "h2h": {
@@ -2025,7 +2025,7 @@
         "pointsAgainst": "36"
       },
       "away": {
-        "rank": "4",
+        "rank": "5",
         "wins": "10",
         "losses": "7",
         "ties": "4",
@@ -2646,7 +2646,7 @@
         "losses": "59",
         "ties": "0",
         "winPercent": ".566",
-        "gamesBehind": "7.5",
+        "gamesBehind": "8",
         "pointsFor": "720",
         "pointsAgainst": "591"
       },
@@ -2656,7 +2656,7 @@
         "losses": "72",
         "ties": "0",
         "winPercent": ".471",
-        "gamesBehind": "20.5",
+        "gamesBehind": "21",
         "pointsFor": "563",
         "pointsAgainst": "673"
       }
@@ -2806,7 +2806,7 @@
         "losses": "55",
         "ties": "0",
         "winPercent": ".596",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "664",
         "pointsAgainst": "516"
       }
@@ -2884,7 +2884,7 @@
         "losses": "73",
         "ties": "0",
         "winPercent": ".471",
-        "gamesBehind": "20.5",
+        "gamesBehind": "21",
         "pointsFor": "718",
         "pointsAgainst": "698"
       },
@@ -2894,7 +2894,7 @@
         "losses": "68",
         "ties": "0",
         "winPercent": ".500",
-        "gamesBehind": "16.5",
+        "gamesBehind": "17",
         "pointsFor": "588",
         "pointsAgainst": "577"
       }
@@ -3045,7 +3045,7 @@
         "losses": "75",
         "ties": "0",
         "winPercent": ".449",
-        "gamesBehind": "23.5",
+        "gamesBehind": "24",
         "pointsFor": "559",
         "pointsAgainst": "609"
       },
@@ -3240,14 +3240,14 @@
       ],
       "away": [
         {
-          "name": "Samad Taylor",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Luis Rengifo",
           "status": "Day-To-Day",
           "detail": "Sprain"
+        },
+        {
+          "name": "Samad Taylor",
+          "status": "10-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Joe Musgrove",
@@ -3283,7 +3283,7 @@
         "losses": "64",
         "ties": "0",
         "winPercent": ".529",
-        "gamesBehind": "12.5",
+        "gamesBehind": "13",
         "pointsFor": "579",
         "pointsAgainst": "568"
       }
@@ -3328,6 +3328,16 @@
       ],
       "away": [
         {
+          "name": "Trevor Story",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Roman Anthony",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
           "name": "Isiah Kiner-Falefa",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -3336,16 +3346,6 @@
           "name": "Justin Slaten",
           "status": "15-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Roman Anthony",
-          "status": "60-Day-IL",
-          "detail": "Sprain"
-        },
-        {
-          "name": "Trevor Story",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         },
         {
           "name": "Johan Oviedo",
@@ -3357,23 +3357,23 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "76",
+        "wins": "77",
         "losses": "59",
         "ties": "0",
-        "winPercent": ".563",
-        "gamesBehind": "5",
-        "pointsFor": "597",
-        "pointsAgainst": "502"
+        "winPercent": ".566",
+        "gamesBehind": "4.5",
+        "pointsFor": "606",
+        "pointsAgainst": "504"
       },
       "away": {
         "rank": "3",
         "wins": "74",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".548",
-        "gamesBehind": "7",
-        "pointsFor": "606",
-        "pointsAgainst": "500"
+        "winPercent": ".544",
+        "gamesBehind": "7.5",
+        "pointsFor": "608",
+        "pointsAgainst": "509"
       }
     },
     "h2h": {
@@ -3535,7 +3535,7 @@
         "losses": "55",
         "ties": "0",
         "winPercent": ".596",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "633",
         "pointsAgainst": "517"
       },
@@ -3545,7 +3545,7 @@
         "losses": "84",
         "ties": "0",
         "winPercent": ".382",
-        "gamesBehind": "32.5",
+        "gamesBehind": "33",
         "pointsFor": "642",
         "pointsAgainst": "783"
       }
@@ -3620,14 +3620,14 @@
       ],
       "away": [
         {
-          "name": "Cooper Criswell",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Brendan Donovan",
           "status": "7-Day IL",
           "detail": "Concussion"
+        },
+        {
+          "name": "Cooper Criswell",
+          "status": "60-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Will Wilson",
@@ -3767,23 +3767,23 @@
     "standings": {
       "home": {
         "rank": "1",
-        "wins": "84",
+        "wins": "85",
         "losses": "51",
         "ties": "0",
-        "winPercent": ".622",
+        "winPercent": ".625",
         "gamesBehind": "-",
-        "pointsFor": "674",
-        "pointsAgainst": "496"
+        "pointsFor": "679",
+        "pointsAgainst": "499"
       },
       "away": {
-        "rank": "7",
+        "rank": "9",
         "wins": "66",
-        "losses": "69",
+        "losses": "70",
         "ties": "0",
-        "winPercent": ".489",
-        "gamesBehind": "15",
-        "pointsFor": "544",
-        "pointsAgainst": "596"
+        "winPercent": ".485",
+        "gamesBehind": "15.5",
+        "pointsFor": "547",
+        "pointsAgainst": "601"
       }
     },
     "h2h": null
@@ -4004,7 +4004,7 @@
         "losses": "69",
         "ties": "0",
         "winPercent": ".496",
-        "gamesBehind": "17",
+        "gamesBehind": "17.5",
         "pointsFor": "606",
         "pointsAgainst": "620"
       },
@@ -4014,7 +4014,7 @@
         "losses": "71",
         "ties": "0",
         "winPercent": ".482",
-        "gamesBehind": "19",
+        "gamesBehind": "19.5",
         "pointsFor": "664",
         "pointsAgainst": "639"
       }
@@ -4151,22 +4151,22 @@
       "home": {
         "rank": "15",
         "wins": "52",
-        "losses": "83",
+        "losses": "84",
         "ties": "0",
-        "winPercent": ".385",
-        "gamesBehind": "29",
-        "pointsFor": "551",
-        "pointsAgainst": "628"
+        "winPercent": ".382",
+        "gamesBehind": "29.5",
+        "pointsFor": "553",
+        "pointsAgainst": "632"
       },
       "away": {
         "rank": "5",
-        "wins": "75",
+        "wins": "76",
         "losses": "60",
         "ties": "0",
-        "winPercent": ".556",
+        "winPercent": ".559",
         "gamesBehind": "9",
-        "pointsFor": "613",
-        "pointsAgainst": "588"
+        "pointsFor": "617",
+        "pointsAgainst": "590"
       }
     },
     "h2h": null
@@ -4209,6 +4209,11 @@
       ],
       "away": [
         {
+          "name": "Samuel Basallo",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Tyler O'Neill",
           "status": "10-Day-IL",
           "detail": "Soreness"
@@ -4227,11 +4232,6 @@
           "name": "Ryan Mountcastle",
           "status": "60-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Jordan Westburg",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
@@ -4239,22 +4239,22 @@
       "home": {
         "rank": "14",
         "wins": "53",
-        "losses": "82",
+        "losses": "83",
         "ties": "0",
-        "winPercent": ".393",
-        "gamesBehind": "28",
-        "pointsFor": "588",
-        "pointsAgainst": "774"
+        "winPercent": ".390",
+        "gamesBehind": "28.5",
+        "pointsFor": "591",
+        "pointsAgainst": "779"
       },
       "away": {
-        "rank": "9",
-        "wins": "66",
+        "rank": "7",
+        "wins": "67",
         "losses": "69",
         "ties": "0",
-        "winPercent": ".489",
-        "gamesBehind": "15",
-        "pointsFor": "613",
-        "pointsAgainst": "636"
+        "winPercent": ".493",
+        "gamesBehind": "14.5",
+        "pointsFor": "618",
+        "pointsAgainst": "639"
       }
     },
     "h2h": {
@@ -4327,6 +4327,11 @@
       ],
       "away": [
         {
+          "name": "Ketel Marte",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
           "name": "Lourdes Gurriel Jr.",
           "status": "10-Day-IL",
           "detail": "Strain"
@@ -4335,11 +4340,6 @@
           "name": "Blake Walston",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Ketel Marte",
-          "status": "10-Day-IL",
-          "detail": "Inflammation"
         },
         {
           "name": "Tommy Troy",
@@ -4356,23 +4356,23 @@
     "standings": {
       "home": {
         "rank": "14",
-        "wins": "55",
+        "wins": "56",
         "losses": "81",
         "ties": "0",
-        "winPercent": ".404",
+        "winPercent": ".409",
         "gamesBehind": "29.5",
-        "pointsFor": "553",
-        "pointsAgainst": "632"
+        "pointsFor": "560",
+        "pointsAgainst": "634"
       },
       "away": {
         "rank": "6",
         "wins": "73",
-        "losses": "64",
+        "losses": "65",
         "ties": "0",
-        "winPercent": ".533",
-        "gamesBehind": "12",
-        "pointsFor": "623",
-        "pointsAgainst": "613"
+        "winPercent": ".529",
+        "gamesBehind": "13",
+        "pointsFor": "625",
+        "pointsAgainst": "620"
       }
     },
     "h2h": {
@@ -4501,6 +4501,16 @@
       ],
       "away": [
         {
+          "name": "Trevor Story",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Roman Anthony",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
           "name": "Isiah Kiner-Falefa",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -4509,16 +4519,6 @@
           "name": "Justin Slaten",
           "status": "15-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Roman Anthony",
-          "status": "60-Day-IL",
-          "detail": "Sprain"
-        },
-        {
-          "name": "Trevor Story",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         },
         {
           "name": "Johan Oviedo",
@@ -4530,23 +4530,23 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "76",
+        "wins": "77",
         "losses": "59",
         "ties": "0",
-        "winPercent": ".563",
-        "gamesBehind": "5",
-        "pointsFor": "597",
-        "pointsAgainst": "502"
+        "winPercent": ".566",
+        "gamesBehind": "4.5",
+        "pointsFor": "606",
+        "pointsAgainst": "504"
       },
       "away": {
         "rank": "3",
         "wins": "74",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".548",
-        "gamesBehind": "7",
-        "pointsFor": "606",
-        "pointsAgainst": "500"
+        "winPercent": ".544",
+        "gamesBehind": "7.5",
+        "pointsFor": "608",
+        "pointsAgainst": "509"
       }
     },
     "h2h": {
@@ -4726,7 +4726,7 @@
         "losses": "55",
         "ties": "0",
         "winPercent": ".596",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "664",
         "pointsAgainst": "516"
       }
@@ -4971,7 +4971,7 @@
         "losses": "69",
         "ties": "0",
         "winPercent": ".496",
-        "gamesBehind": "17",
+        "gamesBehind": "17.5",
         "pointsFor": "606",
         "pointsAgainst": "620"
       },
@@ -4981,7 +4981,7 @@
         "losses": "71",
         "ties": "0",
         "winPercent": ".482",
-        "gamesBehind": "19",
+        "gamesBehind": "19.5",
         "pointsFor": "664",
         "pointsAgainst": "639"
       }
@@ -5129,7 +5129,7 @@
         "losses": "59",
         "ties": "0",
         "winPercent": ".566",
-        "gamesBehind": "7.5",
+        "gamesBehind": "8",
         "pointsFor": "720",
         "pointsAgainst": "591"
       },
@@ -5139,7 +5139,7 @@
         "losses": "72",
         "ties": "0",
         "winPercent": ".471",
-        "gamesBehind": "20.5",
+        "gamesBehind": "21",
         "pointsFor": "563",
         "pointsAgainst": "673"
       }
@@ -5254,14 +5254,14 @@
       ],
       "away": [
         {
-          "name": "Cooper Criswell",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Brendan Donovan",
           "status": "7-Day IL",
           "detail": "Concussion"
+        },
+        {
+          "name": "Cooper Criswell",
+          "status": "60-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Will Wilson",
@@ -5380,6 +5380,11 @@
       ],
       "away": [
         {
+          "name": "Ketel Marte",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
           "name": "Lourdes Gurriel Jr.",
           "status": "10-Day-IL",
           "detail": "Strain"
@@ -5388,11 +5393,6 @@
           "name": "Blake Walston",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Ketel Marte",
-          "status": "10-Day-IL",
-          "detail": "Inflammation"
         },
         {
           "name": "Tommy Troy",
@@ -5409,23 +5409,23 @@
     "standings": {
       "home": {
         "rank": "14",
-        "wins": "55",
+        "wins": "56",
         "losses": "81",
         "ties": "0",
-        "winPercent": ".404",
+        "winPercent": ".409",
         "gamesBehind": "29.5",
-        "pointsFor": "553",
-        "pointsAgainst": "632"
+        "pointsFor": "560",
+        "pointsAgainst": "634"
       },
       "away": {
         "rank": "6",
         "wins": "73",
-        "losses": "64",
+        "losses": "65",
         "ties": "0",
-        "winPercent": ".533",
-        "gamesBehind": "12",
-        "pointsFor": "623",
-        "pointsAgainst": "613"
+        "winPercent": ".529",
+        "gamesBehind": "13",
+        "pointsFor": "625",
+        "pointsAgainst": "620"
       }
     },
     "h2h": {
@@ -5595,7 +5595,7 @@
         "losses": "73",
         "ties": "0",
         "winPercent": ".471",
-        "gamesBehind": "20.5",
+        "gamesBehind": "21",
         "pointsFor": "718",
         "pointsAgainst": "698"
       },
@@ -5605,7 +5605,7 @@
         "losses": "68",
         "ties": "0",
         "winPercent": ".500",
-        "gamesBehind": "16.5",
+        "gamesBehind": "17",
         "pointsFor": "588",
         "pointsAgainst": "577"
       }
@@ -5769,7 +5769,7 @@
         "losses": "55",
         "ties": "0",
         "winPercent": ".596",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "633",
         "pointsAgainst": "517"
       },
@@ -5779,7 +5779,7 @@
         "losses": "84",
         "ties": "0",
         "winPercent": ".382",
-        "gamesBehind": "32.5",
+        "gamesBehind": "33",
         "pointsFor": "642",
         "pointsAgainst": "783"
       }
@@ -5890,7 +5890,7 @@
         "losses": "75",
         "ties": "0",
         "winPercent": ".449",
-        "gamesBehind": "23.5",
+        "gamesBehind": "24",
         "pointsFor": "559",
         "pointsAgainst": "609"
       },
@@ -6107,14 +6107,14 @@
       ],
       "away": [
         {
-          "name": "Samad Taylor",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Luis Rengifo",
           "status": "Day-To-Day",
           "detail": "Sprain"
+        },
+        {
+          "name": "Samad Taylor",
+          "status": "10-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Joe Musgrove",
@@ -6150,7 +6150,7 @@
         "losses": "64",
         "ties": "0",
         "winPercent": ".529",
-        "gamesBehind": "12.5",
+        "gamesBehind": "13",
         "pointsFor": "579",
         "pointsAgainst": "568"
       }
@@ -6209,6 +6209,16 @@
       ],
       "away": [
         {
+          "name": "Trevor Story",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Roman Anthony",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
           "name": "Isiah Kiner-Falefa",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -6217,16 +6227,6 @@
           "name": "Justin Slaten",
           "status": "15-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Roman Anthony",
-          "status": "60-Day-IL",
-          "detail": "Sprain"
-        },
-        {
-          "name": "Trevor Story",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         },
         {
           "name": "Johan Oviedo",
@@ -6238,23 +6238,23 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "76",
+        "wins": "77",
         "losses": "59",
         "ties": "0",
-        "winPercent": ".563",
-        "gamesBehind": "5",
-        "pointsFor": "597",
-        "pointsAgainst": "502"
+        "winPercent": ".566",
+        "gamesBehind": "4.5",
+        "pointsFor": "606",
+        "pointsAgainst": "504"
       },
       "away": {
         "rank": "3",
         "wins": "74",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".548",
-        "gamesBehind": "7",
-        "pointsFor": "606",
-        "pointsAgainst": "500"
+        "winPercent": ".544",
+        "gamesBehind": "7.5",
+        "pointsFor": "608",
+        "pointsAgainst": "509"
       }
     },
     "h2h": {
@@ -6428,28 +6428,28 @@
     "standings": {
       "home": {
         "rank": "1",
-        "wins": "84",
+        "wins": "85",
         "losses": "51",
         "ties": "0",
-        "winPercent": ".622",
+        "winPercent": ".625",
         "gamesBehind": "-",
-        "pointsFor": "674",
-        "pointsAgainst": "496"
+        "pointsFor": "679",
+        "pointsAgainst": "499"
       },
       "away": {
-        "rank": "7",
+        "rank": "9",
         "wins": "66",
-        "losses": "69",
+        "losses": "70",
         "ties": "0",
-        "winPercent": ".489",
-        "gamesBehind": "15",
-        "pointsFor": "544",
-        "pointsAgainst": "596"
+        "winPercent": ".485",
+        "gamesBehind": "15.5",
+        "pointsFor": "547",
+        "pointsAgainst": "601"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MIL leads series 1-0",
+      "text": "MIL leads series 2-0",
       "totalGames": 1,
       "games": [
         {
@@ -6501,6 +6501,11 @@
       ],
       "away": [
         {
+          "name": "Ketel Marte",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
           "name": "Lourdes Gurriel Jr.",
           "status": "10-Day-IL",
           "detail": "Strain"
@@ -6509,11 +6514,6 @@
           "name": "Blake Walston",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Ketel Marte",
-          "status": "10-Day-IL",
-          "detail": "Inflammation"
         },
         {
           "name": "Tommy Troy",
@@ -6530,23 +6530,23 @@
     "standings": {
       "home": {
         "rank": "14",
-        "wins": "55",
+        "wins": "56",
         "losses": "81",
         "ties": "0",
-        "winPercent": ".404",
+        "winPercent": ".409",
         "gamesBehind": "29.5",
-        "pointsFor": "553",
-        "pointsAgainst": "632"
+        "pointsFor": "560",
+        "pointsAgainst": "634"
       },
       "away": {
         "rank": "6",
         "wins": "73",
-        "losses": "64",
+        "losses": "65",
         "ties": "0",
-        "winPercent": ".533",
-        "gamesBehind": "12",
-        "pointsFor": "623",
-        "pointsAgainst": "613"
+        "winPercent": ".529",
+        "gamesBehind": "13",
+        "pointsFor": "625",
+        "pointsAgainst": "620"
       }
     },
     "h2h": {
@@ -6691,6 +6691,11 @@
       ],
       "away": [
         {
+          "name": "Samuel Basallo",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Tyler O'Neill",
           "status": "10-Day-IL",
           "detail": "Soreness"
@@ -6709,11 +6714,6 @@
           "name": "Ryan Mountcastle",
           "status": "60-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Jordan Westburg",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
@@ -6721,27 +6721,27 @@
       "home": {
         "rank": "14",
         "wins": "53",
-        "losses": "82",
+        "losses": "83",
         "ties": "0",
-        "winPercent": ".393",
-        "gamesBehind": "28",
-        "pointsFor": "588",
-        "pointsAgainst": "774"
+        "winPercent": ".390",
+        "gamesBehind": "28.5",
+        "pointsFor": "591",
+        "pointsAgainst": "779"
       },
       "away": {
-        "rank": "9",
-        "wins": "66",
+        "rank": "7",
+        "wins": "67",
         "losses": "69",
         "ties": "0",
-        "winPercent": ".489",
-        "gamesBehind": "15",
-        "pointsFor": "613",
-        "pointsAgainst": "636"
+        "winPercent": ".493",
+        "gamesBehind": "14.5",
+        "pointsFor": "618",
+        "pointsAgainst": "639"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 2-2",
+      "text": "BAL leads series 3-2",
       "totalGames": 4,
       "games": [
         {
@@ -6847,27 +6847,27 @@
       "home": {
         "rank": "15",
         "wins": "52",
-        "losses": "83",
+        "losses": "84",
         "ties": "0",
-        "winPercent": ".385",
-        "gamesBehind": "29",
-        "pointsFor": "551",
-        "pointsAgainst": "628"
+        "winPercent": ".382",
+        "gamesBehind": "29.5",
+        "pointsFor": "553",
+        "pointsAgainst": "632"
       },
       "away": {
         "rank": "5",
-        "wins": "75",
+        "wins": "76",
         "losses": "60",
         "ties": "0",
-        "winPercent": ".556",
+        "winPercent": ".559",
         "gamesBehind": "9",
-        "pointsFor": "613",
-        "pointsAgainst": "588"
+        "pointsFor": "617",
+        "pointsAgainst": "590"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "PHI leads series 1-0",
+      "text": "PHI leads series 2-0",
       "totalGames": 1,
       "games": [
         {
@@ -6952,7 +6952,7 @@
         "losses": "73",
         "ties": "0",
         "winPercent": ".471",
-        "gamesBehind": "20.5",
+        "gamesBehind": "21",
         "pointsFor": "718",
         "pointsAgainst": "698"
       },
@@ -6962,7 +6962,7 @@
         "losses": "68",
         "ties": "0",
         "winPercent": ".500",
-        "gamesBehind": "16.5",
+        "gamesBehind": "17",
         "pointsFor": "588",
         "pointsAgainst": "577"
       }
@@ -7101,6 +7101,16 @@
       ],
       "away": [
         {
+          "name": "Trevor Story",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Roman Anthony",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
           "name": "Isiah Kiner-Falefa",
           "status": "60-Day-IL",
           "detail": "Inflammation"
@@ -7109,16 +7119,6 @@
           "name": "Justin Slaten",
           "status": "15-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Roman Anthony",
-          "status": "60-Day-IL",
-          "detail": "Sprain"
-        },
-        {
-          "name": "Trevor Story",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         },
         {
           "name": "Johan Oviedo",
@@ -7130,29 +7130,29 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "76",
+        "wins": "77",
         "losses": "59",
         "ties": "0",
-        "winPercent": ".563",
-        "gamesBehind": "5",
-        "pointsFor": "597",
-        "pointsAgainst": "502"
+        "winPercent": ".566",
+        "gamesBehind": "4.5",
+        "pointsFor": "606",
+        "pointsAgainst": "504"
       },
       "away": {
         "rank": "3",
         "wins": "74",
-        "losses": "61",
+        "losses": "62",
         "ties": "0",
-        "winPercent": ".548",
-        "gamesBehind": "7",
-        "pointsFor": "606",
-        "pointsAgainst": "500"
+        "winPercent": ".544",
+        "gamesBehind": "7.5",
+        "pointsFor": "608",
+        "pointsAgainst": "509"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "BOS leads series 6-5",
-      "totalGames": 12,
+      "text": "Series tied 6-6",
+      "totalGames": 13,
       "games": [
         {
           "date": "2026-04-21T22:45:00Z",
@@ -7249,6 +7249,14 @@
           "homeScore": 0,
           "awayScore": 6,
           "isCompleted": true
+        },
+        {
+          "date": "2026-08-29T23:15:00Z",
+          "home": "New York Yankees",
+          "away": "Boston Red Sox",
+          "homeScore": 9,
+          "awayScore": 2,
+          "isCompleted": true
         }
       ]
     }
@@ -7324,7 +7332,7 @@
         "losses": "55",
         "ties": "0",
         "winPercent": ".596",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "633",
         "pointsAgainst": "517"
       },
@@ -7334,7 +7342,7 @@
         "losses": "84",
         "ties": "0",
         "winPercent": ".382",
-        "gamesBehind": "32.5",
+        "gamesBehind": "33",
         "pointsFor": "642",
         "pointsAgainst": "783"
       }
@@ -7425,14 +7433,14 @@
       ],
       "away": [
         {
-          "name": "Cooper Criswell",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Brendan Donovan",
           "status": "7-Day IL",
           "detail": "Concussion"
+        },
+        {
+          "name": "Cooper Criswell",
+          "status": "60-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Will Wilson",
@@ -7758,7 +7766,7 @@
         "losses": "55",
         "ties": "0",
         "winPercent": ".596",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "664",
         "pointsAgainst": "516"
       }
@@ -7825,14 +7833,14 @@
       ],
       "away": [
         {
-          "name": "Samad Taylor",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Luis Rengifo",
           "status": "Day-To-Day",
           "detail": "Sprain"
+        },
+        {
+          "name": "Samad Taylor",
+          "status": "10-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Joe Musgrove",
@@ -7868,7 +7876,7 @@
         "losses": "64",
         "ties": "0",
         "winPercent": ".529",
-        "gamesBehind": "12.5",
+        "gamesBehind": "13",
         "pointsFor": "579",
         "pointsAgainst": "568"
       }
@@ -8130,29 +8138,29 @@
     "standings": {
       "home": {
         "rank": "1",
-        "wins": "84",
+        "wins": "85",
         "losses": "51",
         "ties": "0",
-        "winPercent": ".622",
+        "winPercent": ".625",
         "gamesBehind": "-",
-        "pointsFor": "674",
-        "pointsAgainst": "496"
+        "pointsFor": "679",
+        "pointsAgainst": "499"
       },
       "away": {
-        "rank": "7",
+        "rank": "9",
         "wins": "66",
-        "losses": "69",
+        "losses": "70",
         "ties": "0",
-        "winPercent": ".489",
-        "gamesBehind": "15",
-        "pointsFor": "544",
-        "pointsAgainst": "596"
+        "winPercent": ".485",
+        "gamesBehind": "15.5",
+        "pointsFor": "547",
+        "pointsAgainst": "601"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MIL leads series 1-0",
-      "totalGames": 1,
+      "text": "MIL leads series 2-0",
+      "totalGames": 2,
       "games": [
         {
           "date": "2026-08-28T23:40:00Z",
@@ -8160,6 +8168,14 @@
           "away": "Texas Rangers",
           "homeScore": 6,
           "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-29T23:15:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Texas Rangers",
+          "homeScore": 5,
+          "awayScore": 3,
           "isCompleted": true
         }
       ]
@@ -8231,7 +8247,7 @@
         "losses": "69",
         "ties": "0",
         "winPercent": ".496",
-        "gamesBehind": "17",
+        "gamesBehind": "17.5",
         "pointsFor": "606",
         "pointsAgainst": "620"
       },
@@ -8241,7 +8257,7 @@
         "losses": "71",
         "ties": "0",
         "winPercent": ".482",
-        "gamesBehind": "19",
+        "gamesBehind": "19.5",
         "pointsFor": "664",
         "pointsAgainst": "639"
       }
@@ -8392,7 +8408,7 @@
         "losses": "75",
         "ties": "0",
         "winPercent": ".449",
-        "gamesBehind": "23.5",
+        "gamesBehind": "24",
         "pointsFor": "559",
         "pointsAgainst": "609"
       },
@@ -8469,6 +8485,11 @@
       ],
       "away": [
         {
+          "name": "Samuel Basallo",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Tyler O'Neill",
           "status": "10-Day-IL",
           "detail": "Soreness"
@@ -8487,11 +8508,6 @@
           "name": "Ryan Mountcastle",
           "status": "60-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Jordan Westburg",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
@@ -8499,28 +8515,28 @@
       "home": {
         "rank": "14",
         "wins": "53",
-        "losses": "82",
+        "losses": "83",
         "ties": "0",
-        "winPercent": ".393",
-        "gamesBehind": "28",
-        "pointsFor": "588",
-        "pointsAgainst": "774"
+        "winPercent": ".390",
+        "gamesBehind": "28.5",
+        "pointsFor": "591",
+        "pointsAgainst": "779"
       },
       "away": {
-        "rank": "9",
-        "wins": "66",
+        "rank": "7",
+        "wins": "67",
         "losses": "69",
         "ties": "0",
-        "winPercent": ".489",
-        "gamesBehind": "15",
-        "pointsFor": "613",
-        "pointsAgainst": "636"
+        "winPercent": ".493",
+        "gamesBehind": "14.5",
+        "pointsFor": "618",
+        "pointsAgainst": "639"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "Series tied 2-2",
-      "totalGames": 4,
+      "text": "BAL leads series 3-2",
+      "totalGames": 5,
       "games": [
         {
           "date": "2026-05-08T23:05:00Z",
@@ -8552,6 +8568,14 @@
           "away": "Baltimore Orioles",
           "homeScore": 3,
           "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-30T02:05:00Z",
+          "home": "Athletics",
+          "away": "Baltimore Orioles",
+          "homeScore": 3,
+          "awayScore": 5,
           "isCompleted": true
         }
       ]
@@ -8625,28 +8649,28 @@
       "home": {
         "rank": "15",
         "wins": "52",
-        "losses": "83",
+        "losses": "84",
         "ties": "0",
-        "winPercent": ".385",
-        "gamesBehind": "29",
-        "pointsFor": "551",
-        "pointsAgainst": "628"
+        "winPercent": ".382",
+        "gamesBehind": "29.5",
+        "pointsFor": "553",
+        "pointsAgainst": "632"
       },
       "away": {
         "rank": "5",
-        "wins": "75",
+        "wins": "76",
         "losses": "60",
         "ties": "0",
-        "winPercent": ".556",
+        "winPercent": ".559",
         "gamesBehind": "9",
-        "pointsFor": "613",
-        "pointsAgainst": "588"
+        "pointsFor": "617",
+        "pointsAgainst": "590"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "PHI leads series 1-0",
-      "totalGames": 1,
+      "text": "PHI leads series 2-0",
+      "totalGames": 2,
       "games": [
         {
           "date": "2026-08-29T01:38:00Z",
@@ -8654,6 +8678,14 @@
           "away": "Philadelphia Phillies",
           "homeScore": 3,
           "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-30T02:07:00Z",
+          "home": "Los Angeles Angels",
+          "away": "Philadelphia Phillies",
+          "homeScore": 2,
+          "awayScore": 4,
           "isCompleted": true
         }
       ]
@@ -8730,7 +8762,7 @@
         "losses": "59",
         "ties": "0",
         "winPercent": ".566",
-        "gamesBehind": "7.5",
+        "gamesBehind": "8",
         "pointsFor": "720",
         "pointsAgainst": "591"
       },
@@ -8740,7 +8772,7 @@
         "losses": "72",
         "ties": "0",
         "winPercent": ".471",
-        "gamesBehind": "20.5",
+        "gamesBehind": "21",
         "pointsFor": "563",
         "pointsAgainst": "673"
       }
