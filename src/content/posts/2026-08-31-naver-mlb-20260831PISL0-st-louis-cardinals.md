@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 피츠버그 파이러츠 경기분석·라인업·결장자·통계·승부예측 (8월 31일) | MLB - 픽천국"
+date: 2026-08-30T18:15:00.000Z
+description: "세인트루이스 카디널스 vs 피츠버그 파이러츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "피츠버그 파이러츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 최근 92경기에서 39승 52패, 평균 득점 4.3을 기록하며 리그순위 9위에 올라 있고, 최근에는 기복이 이어지면서도 홈에서는 득점 응집력이 살아날 때 경쟁력을 보여주고 있습니다. 직전 경기에서는 피츠버그 파이러츠에 패했지만, 그 이전에는 볼티모어 오리올스를 상대로 승리를 챙기며 타선이 한 번 터지면 경기 흐름을 빠르게 가져오는 모습도 보였습니다. 다만 최근 10경기 3승 7패 흐름과 시즌 득실 마진 -14는 안정감보다 흔들림이 더 크게 드러난다는 뜻으로 읽힙니다. 마스린 윈과 안드레 팔란테의 결장 공백은 내야 운영과 마운드 뎁스에 부담을 주고 있어서, 접전에서는 후반 집중력이 중요해 보입니다. 그럼에도 홈에서 상대를 압박할 때는 장타와 연속 안타가 함께 나오는 편이라, 초반 득점으로 분위기를 잡는 경기 운영이 핵심으로 보입니다."
+awayAnalysis: "피츠버그 파이러츠는 2026시즌 최근 98경기에서 43승 54패, 평균 득점 4.8을 기록하며 리그순위 10위에 자리하고 있고, 시즌 전체 득실 마진은 +25로 나타나 공격 생산성은 나쁘지 않지만 결과 연결이 들쑥날쑥한 편입니다. 최근 10경기 5승 5패 흐름은 완전히 무너진 상태는 아니지만, 득점이 넓게 퍼지기보다 특정 경기에서만 살아나는 모습이어서 연속성은 아쉽습니다. 특히 원정에서는 강팀 상대로 득점이 급격히 줄어드는 장면이 반복되어, 경기 초반에 밀리면 따라잡는 힘이 제한적으로 보입니다. 미치 켈러와 라이언 오헌의 이탈은 마운드 운용과 타선 폭에 동시에 영향을 줄 수 있어, 경기 중반 이후 전개에서 부담이 커질 수 있습니다. 다만 최근에는 세인트루이스 카디널스를 상대로도 한 번 크게 이기며 상성상 완전히 밀리는 그림만은 아니어서, 한 번 분위기를 타면 예상 밖 저항력은 충분히 보입니다."
+homePower: "최근 홈 타선은 한 경기 폭발과 침묵이 교차하는 편임|세인트루이스 카디널스 불펜 공백이 접전 변수로 작용함|득실 -14는 마무리 단계 흔들림을 드러내는 지표임|상대전 6승 3패로 심리적 우위가 확인됨|홈에서 초반 득점 시 경기 주도권 확보 가능성 높음"
+awayPower: "피츠버그 파이러츠는 득실 +25로 공격 효율의 흔적이 남아 있음|최근 승패가 번갈아 나와 흐름 유지력은 아쉬움|원정 득점이 줄 때 경기 전체가 급격히 답답해짐|미치 켈러 결장은 마운드 안정감 저하로 이어짐|세인트루이스 상대로도 한 방 있는 상성은 유지됨"
+h2h: '[{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.29","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-1"},{"date":"26.05.22","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","link":"https://pick79.com/posts/detail/analyze-178757-2026-05-22-st-louis-cardinals/"},{"date":"26.05.21","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"0-7","link":"https://pick79.com/posts/detail/analyze-178744-2026-05-21-st-louis-cardinals/"},{"date":"26.05.20","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"9-6","link":"https://pick79.com/posts/detail/analyze-178729-2026-05-20-st-louis-cardinals/"}]'
+summary: "세인트루이스 카디널스는 리그순위 9위지만 최근 흐름이 흔들리는 가운데서도 홈에서 득점이 살아날 때는 충분히 주도권을 잡을 수 있는 전력입니다. 피츠버그 파이러츠는 리그순위 10위임에도 시즌 득실이 더 좋게 남아 있어 공격 잠재력은 보이지만, 최근 원정 흐름과 결장 공백을 함께 보면 안정감은 세인트루이스 카디널스 쪽이 조금 더 낫습니다. 맞대결에서도 세인트루이스 카디널스가 시리즈 우위를 가져가고 있어 상성 면의 무게감이 분명하며, 전반적인 공수 균형까지 감안하면 세인트루이스 카디널스가 근소하게 앞설 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.28","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals/"},{"date":"26.08.27","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BASL0-2026-08-27-st-louis-cardinals/"},{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"}]'
+awayRecent: '[{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"},{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"},{"date":"26.08.24","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824PILA0-2026-08-24-los-angeles-dodgers/"},{"date":"26.08.23","home":"LA 다저스","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823PILA0-2026-08-23-los-angeles-dodgers/"}]'
+injuryHome: "Everson Pereira (멍)|Masyn Winn (골절)|Andre Pallante (염증)|Peter Strzelecki (염증)|Blaze Jordan (염좌)"
+injuryAway: "Konnor Griffin (염좌)|Ryan O'Hearn (염좌)|Mitch Keller (명시되지 않음)|Endy Rodriguez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

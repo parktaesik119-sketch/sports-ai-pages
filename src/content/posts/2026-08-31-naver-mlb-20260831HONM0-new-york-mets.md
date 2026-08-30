@@ -1,0 +1,37 @@
+---
+title: "뉴욕 메츠 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (8월 31일) | MLB - 픽천국"
+date: 2026-08-30T19:10:00.000Z
+description: "뉴욕 메츠 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260831HONM0-2026-08-31-new-york-mets"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 메츠"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "뉴욕 메츠는 2026시즌 45승 50패, 승률 .449, 평균 득점 4.2점으로 리그순위 13위에 자리하고 있습니다. 최근 10경기에서는 4승 6패로 다소 주춤했지만 휴스턴 애스트로스를 상대로 직전 경기에서 6-2 승리를 거두며 반등 가능성을 보여주었습니다. 시즌 전체 득실은 559득점과 609실점으로 수비 안정감이 과제로 남아 있으며, 최근에도 득점 기복이 나타나고 있습니다. 다만 워싱턴 내셔널스와 샌디에이고 파드리스전에서 연속 승리를 거둔 구간처럼 타선이 집중력을 발휘하면 경기 흐름을 빠르게 바꿀 수 있습니다. 홈 경기에서는 공격력이 살아나는 순간이 분명해 초반 출루와 중심 타선의 연결이 중요합니다. 주요 결장자가 여러 명 포함되어 있어 불펜과 내야 운영의 부담은 있지만, 최근 상대전적에서 확인된 공격 집중력을 이어간다면 홈에서 우위를 점할 가능성이 있습니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 46승 39패, 승률 .500, 평균 득점 4.4점으로 리그순위 5위에 올라 있습니다. 최근 10경기에서는 4승 6패로 리그순위에 비해 고점 대비 주춤한 전력을 보이고 있으며, 뉴욕 메츠와의 직전 맞대결에서는 2-6으로 패했습니다. 시즌 전체 득점은 618점으로 뉴욕 메츠보다 앞서지만 실점도 664점에 달해 공수 균형이 완전히 안정적이라고 보기는 어렵습니다. 최근에는 뉴욕 양키스전 승리처럼 타선이 폭발하는 경기도 있었지만, 로스앤젤레스 에인절스전 대량 실점과 오클랜드전 연속 패배처럼 경기별 편차가 크게 나타났습니다. 원정에서는 공격 전개가 살아날 경우 경쟁력이 있지만, 수비 집중력이 흔들리면 리드를 지키는 과정에서 부담이 커질 수 있습니다. 주요 내야와 투수 자원의 결장도 변수로 작용해 안정적인 경기 운영이 필요한 상황입니다."
+homePower: "직전 휴스턴 애스트로스전 대량 득점으로 상성 반전 조짐|홈 타선은 출루가 연결되면 흐름 전환이 빠른 편임|시즌 득실 열세로 수비 집중력이 최대 변수로 작용함|주요 불펜 이탈로 후반 리드 관리 부담이 커진 상황임|상대전적에서 공격 응집력이 이미 검증됨"
+awayPower: "시즌 득점 우위에도 실점 관리가 불안정한 구조임|상위 리그순위 대비 최근 전력은 고점 대비 주춤해 보임|원정 타선은 폭발력과 침묵의 편차가 큰 편임|주요 내야 결장으로 수비 연결성 저하 가능성이 있음|직전 맞대결 완패로 경기 초반 대응력이 중요함"
+h2h: '[{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"},{"date":"26.08.29","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets/"}]'
+summary: "뉴욕 메츠는 리그순위에서 뒤처져 있지만 휴스턴 애스트로스보다 최근 상대전적과 직전 경기의 공격 집중력에서 더 긍정적인 흐름을 보여주고 있습니다. 휴스턴 애스트로스는 2026시즌 득점력에서는 앞서지만 실점 규모가 더 커 공수 균형에서 불안 요소가 있으며, 최근 경기에서도 수비 집중력의 기복이 나타났습니다. 뉴욕 메츠 역시 시즌 전체 수비 지표는 열세지만 홈에서 타선이 살아나면 경기 흐름을 바꿀 수 있고, 직전 맞대결에서 6-2로 승리하며 자신감을 확보했습니다. 주요 결장자 상황까지 고려하면 양 팀 모두 완전한 전력은 아니지만, 최근 맞대결의 공격 응집력과 홈 이점을 앞세운 뉴욕 메츠가 근소한 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"},{"date":"26.08.29","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets/"},{"date":"26.08.28","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828MINM0-2026-08-28-new-york-mets/"},{"date":"26.08.27","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MINM0-2026-08-27-new-york-mets/"},{"date":"26.08.26","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MINM0-2026-08-26-new-york-mets/"}]'
+awayRecent: '[{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"},{"date":"26.08.29","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets/"},{"date":"26.08.28","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828HONY0-2026-08-28-new-york-yankees/"},{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"},{"date":"26.08.26","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"7-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826HONY0-2026-08-26-new-york-yankees/"}]'
+injuryHome: "Cionel Perez (근육 긴장)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (근육 긴장)|Jorge Polanco (수술)"
+injuryAway: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

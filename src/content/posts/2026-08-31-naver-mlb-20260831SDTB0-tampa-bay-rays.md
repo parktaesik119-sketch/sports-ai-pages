@@ -1,0 +1,37 @@
+---
+title: "탬파베이 레이스 vs 샌디에이고 파드리스 경기분석·라인업·결장자·통계·승부예측 (8월 31일) | MLB - 픽천국"
+date: 2026-08-30T17:40:00.000Z
+description: "탬파베이 레이스 vs 샌디에이고 파드리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "탬파베이 레이스"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "탬파베이 레이스는 2026시즌 리그순위 1위로 81승 54패, 승률 .600, 득실차 +53을 기록하며 안정적인 시즌 성적을 보여주고 있습니다. 최근 10경기에서도 6승 4패로 우위를 유지했고, 샌디에이고 파드리스를 상대로 연속 승리를 거두며 최근 전력이 다시 살아나는 모습입니다. 경기 정보 기준 시즌 평균 득점은 4.3점이며, 최근 10경기 평균 득점도 4.0점으로 공격 흐름이 크게 흔들리지 않고 있습니다. 특히 최근 맞대결에서 7-6, 9-4로 승리하며 상대 투수진을 상대로 꾸준히 득점 기회를 만들어냈습니다. 득실차가 크게 앞서는 만큼 공격과 수비의 균형이 원정팀보다 안정적이라는 점이 돋보입니다. Cole Sulser, Jake Fraley, Jonathan Heasley, Edwin Uceta, Griffin Jax의 결장은 불펜과 선수층 운용에 부담이 될 수 있지만, 현재의 리그순위와 홈 경기 흐름을 고려하면 전체 전력은 여전히 우세해 보입니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 리그순위 7위로 72승 64패, 승률 .529, 득실차 +11을 기록하며 경쟁력은 갖췄지만 상위권과는 차이가 있습니다. 최근 10경기는 5승 5패로 균형을 이루고 있어 중반까지의 상승세가 최근 맞대결에서 다소 주춤한 모습입니다. 경기 정보 기준 시즌 평균 득점은 4.2점으로 공격력 자체는 홈팀과 비슷한 수준을 유지하고 있습니다. 다만 탬파베이 레이스와의 최근 두 경기에서 4점과 6점을 내주며 실점 억제력이 흔들렸고, 두 경기 모두 패배한 점이 부담입니다. Joe Musgrove와 Jason Adam의 장기 결장은 선발과 불펜 양쪽에 영향을 줄 수 있으며, Miguel Andujar와 Samad Taylor의 이탈도 선수층 운용을 어렵게 만들 수 있습니다. Luis Rengifo의 출전 여부까지 불확실한 상황이어서 원정에서 경기 후반 대응력과 수비 집중력이 중요한 변수가 될 것으로 보입니다."
+homePower: "상위권 득실 균형이 접전 관리에 강점으로 작용함|최근 맞대결에서 상대 불펜 공략이 검증됨|홈에서 선취점 이후 경기 운영이 안정적으로 보임|장기 결장자가 있어도 선수층 대응력이 돋보임|최근 연승으로 경기 초반 집중력이 회복된 모습임"
+awayPower: "공격 생산성은 유지되지만 득점 기복이 변수로 남음|최근 원정 경기에서 접전 대응력이 시험받는 흐름임|탬파베이 레이스 상대 실점 억제가 과제로 보임|핵심 투수 이탈로 후반 승부처가 불안정할 수 있음|상위권 팀과의 재대결에서 반등 의지가 주목됨"
+h2h: '[{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"},{"date":"26.08.29","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"9-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SDTB0-2026-08-29-tampa-bay-rays/"}]'
+summary: "탬파베이 레이스는 2026시즌 리그순위 1위와 +53의 득실차를 바탕으로 샌디에이고 파드리스보다 전반적인 전력 균형에서 앞서 있습니다. 양 팀의 시즌 평균 득점은 4점대 초반으로 비슷하지만, 최근 맞대결에서는 탬파베이 레이스가 두 경기 연속 승리하며 공격 효율과 경기 후반 운영에서 우위를 보였습니다. 샌디에이고 파드리스도 최근 10경기에서 5승을 거두며 반등 가능성을 보여주었지만, 핵심 투수진의 결장이 겹쳐 실점 관리가 쉽지 않아 보입니다. 홈팀 역시 결장자 부담은 있으나 리그순위와 득실차, 최근 상성에서 모두 앞서 있어 이번 경기에서도 탬파베이 레이스가 근소한 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"},{"date":"26.08.29","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SDTB0-2026-08-29-tampa-bay-rays/"},{"date":"26.08.27","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TBDE0-2026-08-27-detroit-tigers/"},{"date":"26.08.26","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TBDE0-2026-08-26-detroit-tigers/"},{"date":"26.08.25","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TBDE0-2026-08-25-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"},{"date":"26.08.29","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"9-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SDTB0-2026-08-29-tampa-bay-rays/"},{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"},{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"},{"date":"26.08.24","home":"샌디에이고 파드리스","away":"미네소타 트윈스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MNSD0-2026-08-24-san-diego-padres/"}]'
+injuryHome: "Cole Sulser (경련으로 15일 부상자 명단)|Jake Fraley (수술로 60일 부상자 명단)|Jonathan Heasley (골절로 60일 부상자 명단)|Edwin Uceta (염좌로 60일 부상자 명단)|Griffin Jax (통증으로 15일 부상자 명단)"
+injuryAway: "Samad Taylor (염좌로 10일 부상자 명단)|Luis Rengifo (염좌로 출전 불투명)|Joe Musgrove (염증으로 60일 부상자 명단)|Jason Adam (염좌로 60일 부상자 명단)|Miguel Andujar (골절로 10일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

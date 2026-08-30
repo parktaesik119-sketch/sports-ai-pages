@@ -1,0 +1,37 @@
+---
+title: "디트로이트 타이거즈 vs LA 다저스 경기분석·라인업·결장자·통계·승부예측 (8월 31일) | MLB - 픽천국"
+date: 2026-08-30T17:40:00.000Z
+description: "디트로이트 타이거즈 vs LA 다저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260831LADE0-2026-08-31-detroit-tigers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "디트로이트 타이거즈"
+awayTeam: "LA 다저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+homeAnalysis: "디트로이트 타이거즈는 2026시즌 최근 97경기에서 47승 1무 49패를 기록하며 승률 .467, 평균 득점 4.4를 남기고 있습니다. 전체 전력만 보면 버티는 힘은 있지만, 최근 흐름에서는 득점이 2.8점대로 내려가면서 공격 리듬이 다소 무거워진 모습입니다. 다만 직전 LA 다저스전에서 2-1로 승리하며 접전 운영에서는 여전히 경쟁력을 보여주었습니다. 홈에서는 비교적 점수를 만들어내는 날이 분명하지만, 실점이 늘어나는 구간이 겹치면 경기 주도권이 쉽게 흔들리는 편입니다. 특히 상위 타선의 연결이 살아나야 하며, 최근처럼 한두 점 차 승부로 끌고 가는 운영이 가장 현실적인 강점으로 보입니다."
+awayAnalysis: "LA 다저스는 2026시즌 최근 88경기에서 53승 0무 35패, 평균 득점 4.9로 리그순위 3위에 올라 있습니다. 664득점과 516실점의 득실 차가 보여주듯 공격과 투수진 균형이 좋은 편이며, 시즌 전체 전력은 분명 상위권입니다. 최근 10경기에서는 6승 4패로 흐름이 완전히 매끄럽지는 않지만, 경기당 4.3점 생산력은 여전히 유지되고 있습니다. 다만 직전 시리즈에서 디트로이트 타이거즈에 연속으로 엇갈린 결과가 나와, 강팀답게 밀어붙이던 흐름이 잠시 흔들린 점은 주목할 만합니다. 그래도 원정에서도 장타와 득점 응집력이 살아 있는 팀이라, 초반 실점만 최소화되면 경기 전체를 다시 가져올 힘이 충분합니다."
+homePower: "최근 득점 하락이 보이나 접전 대응은 유지됨|홈 경기에서 한 점 승부 설계가 가능한 구조임|실점 관리 흔들릴 때 경기 흐름 급격히 기울 수 있음|상위 타선 연결 살아나면 단숨에 경기 균형 회복 가능함|직전 맞대결 승리로 상성상 완전 열세는 아님임"
+awayPower: "리그순위 3위가 보여주는 상위권 완성도 검증됨|득실 격차가 커서 공수 균형 우위가 뚜렷함|최근 원정 득점 유지로 이동 부담을 잘 견디는 편임|연패 구간에도 장타 한 방으로 흐름 반전 가능함|디트로이트 타이거즈 상대 타선 응집력 우세 보임"
+h2h: '[{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"},{"date":"26.08.29","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829LADE0-2026-08-29-detroit-tigers/"}]'
+summary: "LA 다저스는 시즌 전체 전력과 리그순위, 득실 차 모두에서 디트로이트 타이거즈보다 한 단계 위에 있는 모습입니다. 디트로이트 타이거즈는 최근 흐름이 다소 처졌지만, 직전 맞대결 승리와 접전 대응 능력은 분명히 보여주고 있습니다. 반면 LA 다저스는 최근 원정 구간에서 흔들린 장면이 있었어도, 시즌 내내 쌓아온 공격 생산력과 공수 균형이 더 안정적으로 평가됩니다. 전체적으로는 LA 다저스가 우위를 점할 가능성이 높고, 디트로이트 타이거즈는 초반 실점을 얼마나 줄이느냐에 따라 버티는 흐름을 만들 수 있습니다."
+homeRecent: '[{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"},{"date":"26.08.29","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829LADE0-2026-08-29-detroit-tigers/"},{"date":"26.08.27","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TBDE0-2026-08-27-detroit-tigers/"},{"date":"26.08.26","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TBDE0-2026-08-26-detroit-tigers/"},{"date":"26.08.25","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TBDE0-2026-08-25-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"},{"date":"26.08.29","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829LADE0-2026-08-29-detroit-tigers/"},{"date":"26.08.28","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828LAAT0-2026-08-28-atlanta-braves/"},{"date":"26.08.27","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827LAAT0-2026-08-27-atlanta-braves/"},{"date":"26.08.26","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826LAAT0-2026-08-26-atlanta-braves/"}]'
+injuryHome: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Riley Greene (근육 손상)|Brant Hurter (염증)|Wenceel Perez (골절)"
+injuryAway: "Will Klein (통증)|Bobby Miller (통증)|Blake Treinen (염증)|Ben Casparius (염증)|Justin Wrobleski (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

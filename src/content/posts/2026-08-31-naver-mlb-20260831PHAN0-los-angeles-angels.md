@@ -1,0 +1,37 @@
+---
+title: "LA 에인절스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (8월 31일) | MLB - 픽천국"
+date: 2026-08-30T20:07:00.000Z
+description: "LA 에인절스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260831PHAN0-2026-08-31-los-angeles-angels"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 에인절스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "LA 에인절스는 2026시즌 리그순위 15위로 52승 83패, 승률 .385, 평균 득점 3.9를 기록하며 전체적으로 고전하고 있습니다. 최근 10경기에서도 3승 7패에 그쳐 반등 흐름이 뚜렷하지 않으며, 직전 경기 역시 필라델피아 필리스에 3-5로 패했습니다. 최근 득점력은 평균 4.3점으로 시즌 전체보다 나아졌지만, 클리블랜드 가디언스전과 텍사스 레인저스전에서 연속으로 3점 이하에 머무는 등 마무리 기복이 나타났습니다. 수비에서는 대량 실점을 허용한 경기가 있었고, 시즌 득실이 551-628로 마이너스 77점인 만큼 경기 후반 안정성이 약점으로 보입니다. Yoan Moncada와 Nolan Schanuel 등 주요 야수들의 결장은 타선의 연결성과 선수층에 부담을 줄 수 있습니다. 다만 휴스턴 애스트로스전 18득점처럼 타선이 한 번 살아날 때 폭발력을 보여주는 점은 홈 경기에서 기대할 수 있는 변수입니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 리그순위 5위로 75승 60패, 승률 .556, 평균 득점 4.7을 기록하며 상위권 전력을 유지하고 있습니다. 최근 10경기에서는 9승 1패로 고점의 전력을 이어가고 있으며, 직전에도 LA 에인절스를 상대로 5-3 승리를 거뒀습니다. 최근 평균 득점은 6.1점까지 올라와 타선의 생산성과 집중력이 모두 돋보입니다. 시즌 득실도 613-588로 플러스 25점을 기록해 공격력뿐 아니라 실점 관리에서도 LA 에인절스보다 안정적인 균형을 보여주고 있습니다. 세인트루이스 카디널스와 마이애미 말린스전에서 연속으로 중후반 득점을 만들어낸 점은 경기 운영 능력의 강점으로 평가됩니다. Johan Rojas와 Tanner Banks 등 주요 결장자가 있지만, 최근 상승세와 넓은 선수층을 고려하면 전력 공백을 상쇄할 가능성이 높아 보입니다."
+homePower: "초반보다 중후반 득점 집중력이 중요한 변수임|장타가 터질 때 경기 흐름을 바꾸는 폭발력 보유함|주요 야수 이탈로 타선 연결성 저하 우려됨|실점 격차가 커 접전 유지력이 약점으로 보임|최근 홈 경기에서 반등 발판 마련 가능성 있음"
+awayPower: "상위권 리그순위에 걸맞은 안정적 경기 운영력 보임|최근 타선이 여러 이닝에서 꾸준히 압박함|선발 이후 불펜 운용까지 전력 우위가 뚜렷함|원정에서도 득점 생산성이 쉽게 꺾이지 않음|직전 맞대결 승리로 심리적 우위 확보됨"
+h2h: '[{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"}]'
+summary: "2026시즌 전력에서는 필라델피아 필리스가 리그순위, 승률, 득실 균형에서 모두 앞서며 LA 에인절스보다 우세합니다. LA 에인절스는 최근 평균 득점이 시즌 전체보다 개선되었지만 연속 패배 구간과 주요 야수 결장이 겹쳐 안정적인 공격 흐름을 유지하기가 쉽지 않아 보입니다. 반면 필라델피아 필리스는 최근 10경기 9승으로 상승세가 뚜렷하고 평균 득점도 높아 경기 초중반부터 주도권을 잡을 가능성이 큽니다. 직전 맞대결에서도 필라델피아 필리스가 5-3으로 승리한 만큼 현재의 타선 집중력과 수비 균형을 고려하면 원정팀의 우위가 이어질 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"},{"date":"26.08.27","home":"LA 에인절스","away":"클리블랜드 가디언스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CLAN0-2026-08-27-los-angeles-angels/"},{"date":"26.08.25","home":"LA 에인절스","away":"클리블랜드 가디언스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CLAN0-2026-08-25-los-angeles-angels/"},{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"},{"date":"26.08.23","home":"텍사스 레인저스","away":"LA 에인절스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823ANTE0-2026-08-23-texas-rangers/"}]'
+awayRecent: '[{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"},{"date":"26.08.23","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"12-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823SLPH0-2026-08-23-philadelphia-phillies/"}]'
+injuryHome: "Samy Natera Jr. (근육 경련)|Yoan Moncada (수술)|Nolan Schanuel (근육 손상)|Sam Bachman (염증)|Gustavo Campero (근육 손상)"
+injuryAway: "Rafael Marchan (건염)|Caleb Kilian (근육 손상)|Tanner Banks (근육 손상)|Felix Reyes (골절)|Johan Rojas (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

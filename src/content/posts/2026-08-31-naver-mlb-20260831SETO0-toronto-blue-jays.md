@@ -1,0 +1,37 @@
+---
+title: "토론토 블루제이즈 vs 시애틀 매리너스 경기분석·라인업·결장자·통계·승부예측 (8월 31일) | MLB - 픽천국"
+date: 2026-08-30T17:37:00.000Z
+description: "토론토 블루제이즈 vs 시애틀 매리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 최근 103경기에서 50승 1무 52패, 승률 .490 수준과 평균 득점 3.6을 기록하며 팽팽한 전력을 보여주고 있습니다. 최근 흐름을 보면 직전 시애틀 매리너스전 연승으로 반등 신호를 만들었고, 그 이전에는 강한 상대를 만나 기복이 있었지만 홈에서는 타선 응집력이 살아나는 장면이 자주 보입니다. 특히 홈 경기에서 3득점 안팎을 꾸준히 쌓으면서도 필요할 때는 한 번에 흐름을 가져오는 공격이 돋보입니다. 수비 쪽에서는 대량 실점이 나오는 경기와 단단하게 잠그는 경기가 함께 나타나는데, 최근에는 불펜 안정감이 결과를 가르는 모습이었습니다. 현재 리그순위 8위로 순위는 아주 높지 않지만, 최근 흐름이 다시 올라오고 있어 하위권 분위기보다는 반등 가능성이 더 분명하게 느껴집니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 최근 84경기에서 39승 1무 44패, 승률 .470 수준과 평균 득점 3.8을 기록하고 있어 득점력은 나쁘지 않지만 전반적인 결과는 다소 아쉬운 편입니다. 최근 흐름에서는 강한 상대를 상대로 한 경기 집중력은 보였지만, 실점이 크게 흔들리는 날이 잦아 안정감이 떨어지는 모습입니다. 원정에서는 타선이 폭발하는 날과 묶이는 날의 차이가 크고, 이 흐름 때문에 경기 주도권을 끝까지 이어가지 못하는 장면이 적지 않습니다. 수비력 측면에서는 짧은 이닝에 흐름을 잃는 사례가 보여, 접전으로 가더라도 후반 운영이 부담으로 작용하고 있습니다. 현재 리그순위 10위로 토론토보다 더 아래에 있지만, 최근 들어 반등과 주춤이 반복되면서 상승세를 굳히지 못한 점이 눈에 띕니다."
+homePower: "홈에서 타선 응집력이 살아나는 구간이 분명함|직전 시애틀전 연승으로 상성 우위 확인됨|대량 실점 뒤 빠르게 회복하는 반응력 보임|순위보다 최근 흐름 개선 폭이 더 두드러짐|접전에서 불펜 운영이 승부를 가를 변수임"
+awayPower: "원정 득점은 유지되지만 기복이 큰 편임|강한 상대 만나면 실점 관리가 급격히 흔들림|한 번 무너지면 대량 실점으로 이어지는 경향임|순위 하락에도 타선 폭발력은 완전히 꺼지지 않음|후반 접전에서 마무리 안정감이 과제로 보임"
+h2h: '[{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"},{"date":"26.08.29","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"8-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SETO0-2026-08-29-toronto-blue-jays/"},{"date":"26.07.06","home":"시애틀 매리너스","away":"토론토 블루제이즈","score":"4-0","link":"https://pick79.com/posts/detail/analyze-179356-2026-07-06-seattle-mariners/"},{"date":"26.07.05","home":"시애틀 매리너스","away":"토론토 블루제이즈","score":"11-0","link":"https://pick79.com/posts/detail/analyze-179340-2026-07-05-seattle-mariners/"},{"date":"26.07.04","home":"시애틀 매리너스","away":"토론토 블루제이즈","score":"0-2"}]'
+summary: "토론토 블루제이즈는 시즌 전력과 최근 흐름이 함께 올라오는 모습이라 이번 경기에서도 조금 더 앞선 경기 운영이 기대됩니다. 시애틀 매리너스는 득점 자체는 유지하고 있지만 실점이 커지는 구간이 잦아, 접전으로 가더라도 끝까지 버티는 힘에서 토론토보다 불리해 보입니다. 상대전적에서도 토론토가 최근 흐름을 되찾으며 우위를 넓히고 있어, 경기 전체의 무게중심은 홈팀 쪽으로 기울 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"},{"date":"26.08.29","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SETO0-2026-08-29-toronto-blue-jays/"},{"date":"26.08.28","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"2-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828KCTO0-2026-08-28-toronto-blue-jays/"},{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays/"},{"date":"26.08.26","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826KCTO0-2026-08-26-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"},{"date":"26.08.29","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SETO0-2026-08-29-toronto-blue-jays/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"시애틀 매리너스","away":"시카고 컵스","score":"2-19","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CCSE0-2026-08-24-seattle-mariners/"}]'
+injuryHome: "Joe Mantiply (수술)|Josh Smith (염증)|Patrick Corbin (근육 손상)|Jameson Taillon (힘줄염)|Trey Yesavage (수술)"
+injuryAway: "Cooper Criswell (근육 손상)|Brendan Donovan (뇌진탕)|Will Wilson (골절)|Cole Wilcox (근육 손상)|Emerson Hancock (일상 대기)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "토론토 블루제이즈"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 블루제이즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---
