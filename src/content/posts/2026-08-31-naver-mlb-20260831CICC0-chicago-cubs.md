@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.30","home":"시카고 컵스","away":"신시내티 
 injuryHome: "Edward Cabrera (찰과상)|Shelby Miller (수술)|Gavin Hollowell (염증)|Tyler Austin (수술)|Hunter Harvey (골절)"
 injuryAway: "Brady Singer (통증)|Graham Ashcraft (염좌)|Brandon Williamson (통증)|Ke'Bryan Hayes (염좌)|Spencer Steer (염좌)"
 homeLineup: "[\"선발투수 S. Imanaga (8-9, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
-awayLineup: "[\"선발투수 C. Burns (14-3, 2.77) ERA 2.77|https://a.espncdn.com/i/headshots/mlb/players/full/4927516.png\"]"
+awayLineup: "[\"선발투수 C. Burns (14-3, 2.77) ERA 2.77|https://a.espncdn.com/i/headshots/mlb/players/full/4927516.png\",\"1번 D. Myers (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40048.png\",\"2번 E. De La Cruz (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"3번 S. Stewart (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"4번 T. Stephenson (C)|https://a.espncdn.com/i/headshots/mlb/players/full/34975.png\",\"5번 E. Suarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32367.png\",\"6번 J. Bleday (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"7번 M. McLain (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4422899.png\",\"8번 H. Rodriguez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5122878.png\",\"9번 E. Arroyo (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4919919.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
