@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.30","home":"애틀랜타 브레이브스","away":"�
 injuryHome: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (징계)"
 injuryAway: "Kris Bryant (수술)|Ryan Feltner (일일 관찰)|Kyle Karros (뇌진탕)|McCade Brown (염증)|Kyle Freeland (신경 압박)"
 homeLineup: "[\"선발투수 T. Mahle (5-10, 4.41) ERA 4.41|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
-awayLineup: "[\"선발투수 M. Adams (0-0, 2.25) ERA 2.25|https://a.espncdn.com/i/headshots/mlb/players/full/4758424.png\"]"
+awayLineup: "[\"선발투수 M. Adams (0-0, 2.25) ERA 2.25|https://a.espncdn.com/i/headshots/mlb/players/full/4758424.png\",\"1번 J. McCarthy (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 C. Norby (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4417606.png\",\"3번 H. Goodman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"4번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"5번 W. Castro (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34230.png\",\"6번 M. Moniak (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"7번 T. Johnston (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4346111.png\",\"8번 B. Sullivan (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39913.png\",\"9번 R. Ritter (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5196606.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
