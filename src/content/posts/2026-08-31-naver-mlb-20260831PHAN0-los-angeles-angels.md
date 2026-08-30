@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.29","home":"LA 에인절스","away":"필라델피�
 injuryHome: "Samy Natera Jr. (근육 경련)|Yoan Moncada (수술)|Nolan Schanuel (근육 손상)|Sam Bachman (염증)|Gustavo Campero (근육 손상)"
 injuryAway: "Rafael Marchan (건염)|Caleb Kilian (근육 손상)|Tanner Banks (근육 손상)|Felix Reyes (골절)|Johan Rojas (수술)"
 homeLineup: "[\"선발투수 Y. Kikuchi (0-4, 6.25) ERA 6.25|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\"]"
-awayLineup: "[\"선발투수 Z. Wheeler (10-5, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
+awayLineup: "[\"선발투수 Z. Wheeler (10-5, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\",\"1번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"2번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"3번 B. Harper (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 A. Bohm (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"5번 E. Sosa (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33809.png\",\"6번 B. De La Cruz (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40787.png\",\"7번 B. Stott (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"8번 J.T. Realmuto (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32177.png\",\"9번 D. Hill (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/33721.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

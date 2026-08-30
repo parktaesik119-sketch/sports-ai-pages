@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.27","home":"시애틀 매리너스","away":"필라�
 injuryHome: "Sebastian Rivero (60일 부상자 명단 수술)|Shaun Anderson (15일 부상자 명단 염증)|Samy Natera Jr. (15일 부상자 명단 근육 경련)|Yoan Moncada (60일 부상자 명단 수술)|Nolan Schanuel (10일 부상자 명단 근육 긴장)"
 injuryAway: "Rafael Marchan (10일 부상자 명단 건염)|Caleb Kilian (15일 부상자 명단 근육 긴장)|Tanner Banks (60일 부상자 명단 근육 긴장)|Felix Reyes (60일 부상자 명단 골절)|Johan Rojas (60일 부상자 명단 수술)"
 homeLineup: "[\"선발투수 Y. Kikuchi (0-4, 6.25) ERA 6.25|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\"]"
-awayLineup: "[\"선발투수 Z. Wheeler (10-5, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
+awayLineup: "[\"선발투수 Z. Wheeler (10-5, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\",\"1번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"2번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"3번 B. Harper (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 A. Bohm (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"5번 E. Sosa (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33809.png\",\"6번 B. De La Cruz (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40787.png\",\"7번 B. Stott (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"8번 J.T. Realmuto (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32177.png\",\"9번 D. Hill (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/33721.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
