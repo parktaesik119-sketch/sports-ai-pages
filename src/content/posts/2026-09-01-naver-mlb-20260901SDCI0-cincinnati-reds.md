@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.30","home":"시카고 컵스","away":"신시내티 
 awayRecent: '[{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays/"},{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"},{"date":"26.08.29","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"9-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SDTB0-2026-08-29-tampa-bay-rays/"},{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"},{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"}]'
 injuryHome: "Graham Ashcraft (삐끗함)|Brandon Williamson (통증)|Ke'Bryan Hayes (근육 염좌)|Spencer Steer (삐끗함)|Michael Toglia (수술)"
 injuryAway: "Joe Musgrove (염증)|Jason Adam (근육 염좌)|Miguel Andujar (골절)|Gavin Sheets (삐끗함)|Luis Rengifo (삐끗함)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Singer (5-12, 4.72) ERA 4.72|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
+awayLineup: "[\"선발투수 M. King (8-9, 3.23) ERA 3.23|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

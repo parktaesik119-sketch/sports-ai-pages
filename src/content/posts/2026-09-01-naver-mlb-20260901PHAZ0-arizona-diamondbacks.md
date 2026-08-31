@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.30","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.08.31","home":"LA 에인절스","away":"필라델피아 필리스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PHAN0-2026-08-31-los-angeles-angels/"},{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"}]'
 injuryHome: "Ketel Marte (염증)|Lourdes Gurriel Jr. (염좌)|Blake Walston (수술)|Tommy Troy (염좌)|Ryne Nelson (염좌)"
 injuryAway: "Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Felix Reyes (골절)|Johan Rojas (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Rodriguez (14-4, 2.50) ERA 2.50|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 J. Luzardo (12-5, 3.09) ERA 3.09|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

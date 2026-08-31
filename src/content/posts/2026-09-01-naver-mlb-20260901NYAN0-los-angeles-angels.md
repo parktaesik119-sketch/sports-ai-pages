@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"LA 에인절스","away":"필라델피�
 awayRecent: '[{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"16-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BONY0-2026-08-31-new-york-yankees/"},{"date":"26.08.30","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830BONY2-2026-08-30-new-york-yankees/"},{"date":"26.08.29","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BONY0-2026-08-29-new-york-yankees/"},{"date":"26.08.28","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828HONY0-2026-08-28-new-york-yankees/"},{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"}]'
 injuryHome: "Samy Natera Jr. (경련)|Yoan Moncada (수술)|Nolan Schanuel (근육 염좌)|Sam Bachman (염증)|Gustavo Campero (근육 염좌)"
 injuryAway: "George Lombard Jr. (염증)|Ryan McMahon (염좌)|Clarke Schmidt (수술)|Aaron Judge (골절)|Giancarlo Stanton (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Rodriguez (4-5, 6.03) ERA 6.03|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
+awayLineup: "[\"선발투수 G. Cole (7-7, 3.19) ERA 3.19|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

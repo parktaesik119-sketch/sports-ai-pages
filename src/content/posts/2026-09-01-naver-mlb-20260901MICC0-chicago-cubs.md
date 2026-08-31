@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.30","home":"시카고 컵스","away":"신시내티 
 awayRecent: '[{"date":"26.08.31","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831TEMI0-2026-08-31-milwaukee-brewers/"},{"date":"26.08.30","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830TEMI0-2026-08-30-milwaukee-brewers/"},{"date":"26.08.29","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829TEMI0-2026-08-29-milwaukee-brewers/"},{"date":"26.08.28","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828MINM0-2026-08-28-new-york-mets/"},{"date":"26.08.27","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MINM0-2026-08-27-new-york-mets/"}]'
 injuryHome: "Edward Cabrera (찰과상)|Shelby Miller (수술)|Gavin Hollowell (염증)|Tyler Austin (수술)|Hunter Harvey (골절)"
 injuryAway: "Joel Kuhnel (건염)|Abner Uribe (염좌)|JoJo Romero (수술)|Rob Zastryzny (염좌)|Brandon Woodruff (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Holmes (5-6, 2.26) ERA 2.26|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
+awayLineup: "[\"선발투수 K. Harrison (10-3, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

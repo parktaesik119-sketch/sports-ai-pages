@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디�
 awayRecent: '[{"date":"26.08.31","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831HONM0-2026-08-31-new-york-mets/"},{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"},{"date":"26.08.29","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets/"},{"date":"26.08.28","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828MINM0-2026-08-28-new-york-mets/"},{"date":"26.08.27","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MINM0-2026-08-27-new-york-mets/"}]'
 injuryHome: "Cole Sulser (경련)|Jake Fraley (수술)|Jonathan Heasley (골절)|Edwin Uceta (염좌)|Griffin Jax (통증)"
 injuryAway: "Cionel Perez (염좌)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (염좌)|Jorge Polanco (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 I. Seymour (9-5, 4.21) ERA 4.21|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
+awayLineup: "[\"선발투수 R. Stock (0-3, 7.40) ERA 7.40|https://a.espncdn.com/i/headshots/mlb/players/full/30577.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

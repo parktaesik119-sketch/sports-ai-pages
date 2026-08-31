@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"밀워키 브루어스","away":"텍사�
 awayRecent: '[{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 오리올스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BAOA0-2026-08-31-athletics/"},{"date":"26.08.29","home":"애슬레틱스","away":"볼티모어 오리올스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BAOA0-2026-08-29-athletics/"},{"date":"26.08.27","home":"애슬레틱스","away":"미네소타 트윈스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MNOA0-2026-08-27-athletics/"},{"date":"26.08.26","home":"애슬레틱스","away":"미네소타 트윈스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MNOA0-2026-08-26-athletics/"},{"date":"26.08.25","home":"애슬레틱스","away":"미네소타 트윈스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825MNOA0-2026-08-25-athletics/"}]'
 injuryHome: "Josh Jung (염좌)|Michael Helman (골절)|Carter Baumler (염좌)|Robert Garcia (염증)|Kyle Higashioka (염좌)"
 injuryAway: "Denzel Clarke (염좌)|Brooks Kriske (신경 압박)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)|Nick Kurtz (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Gore (7-10, 4.40) ERA 4.40|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
+awayLineup: "[\"선발투수 J.T. Ginn (9-8, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

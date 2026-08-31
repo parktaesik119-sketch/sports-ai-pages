@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이�
 awayRecent: '[{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"},{"date":"26.08.29","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829FLMO0-2026-08-29-washington-nationals/"},{"date":"26.08.27","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BOFL0-2026-08-27-miami-marlins/"},{"date":"26.08.26","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BOFL0-2026-08-26-miami-marlins/"}]'
 injuryHome: "Richard Lovelady (허벅지 근육 염좌)|James Wood (허벅지 근육 염좌)|Drew Millas (골절)|Cade Cavalli (경기 출전 여부 불확실)|Josiah Gray (허벅지 근육 염좌)"
 injuryAway: "Xavier Edwards (경기 출전 여부 불확실, 사유 미상)|Anthony Bender (골절)|Pete Fairbanks (신경 압박)|Max Meyer (근육 염좌)|Ronny Henriquez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 W. Dion (1-1, 3.67) ERA 3.67|https://a.espncdn.com/i/headshots/mlb/players/full/4420174.png\"]"
+awayLineup: "[\"선발투수 R. Gusto (1-3, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/5131986.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"미네소타 트윈스","away":"시카�
 awayRecent: '[{"date":"26.08.31","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831LADE0-2026-08-31-detroit-tigers/"},{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"},{"date":"26.08.29","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829LADE0-2026-08-29-detroit-tigers/"},{"date":"26.08.27","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TBDE0-2026-08-27-detroit-tigers/"},{"date":"26.08.26","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TBDE0-2026-08-26-detroit-tigers/"}]'
 injuryHome: "Austin Martin (근육 긴장)|Byron Buxton (신경 눌림)|Joe Ryan (근육 긴장)|Mike Paredes (근육 긴장)|Mick Abel (수술)"
 injuryAway: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Riley Greene (근육 긴장)|Brant Hurter (염증)|Wenceel Perez (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Bradley (9-6, 3.97) ERA 3.97|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
+awayLineup: "[\"선발투수 J. Jobe (1-1, 3.93) ERA 3.93|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

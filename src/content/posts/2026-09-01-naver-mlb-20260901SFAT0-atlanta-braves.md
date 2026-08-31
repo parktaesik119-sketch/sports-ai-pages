@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.28","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828AZSF0-2026-08-28-san-francisco-giants/"},{"date":"26.08.27","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CISF0-2026-08-27-san-francisco-giants/"},{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"}]'
 injuryHome: "Reynaldo Lopez (염증으로 15일 부상자 명단)|Robert Suarez (통증으로 15일 부상자 명단)|Joe Jimenez (수술로 60일 부상자 명단)|Spencer Strider (염증으로 60일 부상자 명단)|Jurickson Profar (사유 미상의 출장정지)"
 injuryAway: "Marcelo Mayer (골절로 10일 부상자 명단)|Matt Gage (근육 긴장으로 60일 부상자 명단)|Victor Bericoto (타박상으로 10일 부상자 명단)|Jesus Rodriguez (신경 압박으로 10일 부상자 명단)|JT Brubaker (타박상으로 15일 부상자 명단)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Elder (8-7, 3.95) ERA 3.95|https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png\"]"
+awayLineup: "[\"선발투수 A. Molina (1-0, 2.89) ERA 2.89|https://a.espncdn.com/i/headshots/mlb/players/full/5016983.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

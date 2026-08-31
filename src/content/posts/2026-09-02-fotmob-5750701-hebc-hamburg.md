@@ -17,9 +17,9 @@ awayPower: "평균 득점 1.4로 공격 생산은 유지됨|승패 편차가 크
 h2h: '[]'
 summary: "보루시아 도르트문트는 2026시즌 최근 32경기에서 7승 2무 23패, 평균 득점 1.4로 공격 생산은 유지하고 있습니다. 다만 실점 관리가 흔들린 구간이 길어 전력의 안정감에서는 아쉬움이 남습니다. HEBC Hamburg는 시즌 전체와 최근 경기 데이터가 비어 있어 세부 지표를 단정하기는 어렵지만, 상대 전력과 현재 흐름을 함께 보면 보루시아 도르트문트가 우세를 점할 가능성이 더 높아 보입니다."
 homeRecent: '[]'
-awayRecent: '[]'
+awayRecent: "[{\"date\":\"26.08.30\",\"home\":\"Borussia Dortmund\",\"away\":\"Hamburger SV\",\"score\":\"2-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.23\",\"home\":\"Borussia Dortmund\",\"away\":\"Bayern München\",\"score\":\"1-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.16\",\"home\":\"Borussia Dortmund\",\"away\":\"Roma\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.08.09\",\"home\":\"Arsenal\",\"away\":\"Borussia Dortmund\",\"score\":\"2-3\",\"result\":\"🟢승\"},{\"date\":\"26.08.01\",\"home\":\"FC Tokyo\",\"away\":\"Borussia Dortmund\",\"score\":\"0-1\",\"result\":\"🟢승\"}]"
 injuryHome: "없음"
-injuryAway: "Justin Lerma (근육 부상)|Giannis Konstantelias (십자 인대 부상)|Ramy Bensebaini (부상)|Carney Chukwuemeka (근육 부상)|Nico Schlotterbeck (발목 부상)|Emre Can (십자 인대 부상)"
+injuryAway: "Justin Lerma[주요](근육 부상 - 복귀예정 About 1-2 weeks) | Giannis Konstantelias[주요](십자 인대 부상 - 복귀예정 Late May 2027) | Ramy Bensebaini[주요](부상 - 복귀예정 About a week) | Carney Chukwuemeka[주요](근육 부상 - 복귀예정 About 1-2 weeks) | Nico Schlotterbeck[주요](발목 부상 - 복귀예정 Mid September 2026) | Emre Can[주요](십자 인대 부상 - 복귀예정 Mid November 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

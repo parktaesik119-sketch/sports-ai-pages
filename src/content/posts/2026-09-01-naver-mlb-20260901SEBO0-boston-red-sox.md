@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레
 awayRecent: '[{"date":"26.08.31","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays/"},{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"},{"date":"26.08.29","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SETO0-2026-08-29-toronto-blue-jays/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"}]'
 injuryHome: "Justin Slaten (염증으로 15일 부상자 명단)|Willson Contreras (경미한 상태로 경기 출전 여부 불투명)|Isiah Kiner-Falefa (염증으로 60일 부상자 명단)|Johan Oviedo (근육 긴장으로 60일 부상자 명단)|Kutter Crawford (통증으로 60일 부상자 명단)"
 injuryAway: "Brendan Donovan (뇌진탕으로 7일 부상자 명단)|Cooper Criswell (근육 긴장으로 60일 부상자 명단)|Will Wilson (골절로 60일 부상자 명단)|Cole Wilcox (근육 긴장으로 15일 부상자 명단)|Matt Brash (근육 긴장으로 60일 부상자 명단)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Tolle (8-6, 3.09) ERA 3.09|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
+awayLineup: "[\"선발투수 G. Kirby (9-10, 4.02) ERA 4.02|https://a.espncdn.com/i/headshots/mlb/players/full/42406.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

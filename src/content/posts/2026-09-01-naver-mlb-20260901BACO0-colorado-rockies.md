@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 오리올스","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BAOA0-2026-08-31-athletics/"},{"date":"26.08.29","home":"애슬레틱스","away":"볼티모어 오리올스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BAOA0-2026-08-29-athletics/"},{"date":"26.08.28","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals/"},{"date":"26.08.27","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BASL0-2026-08-27-st-louis-cardinals/"},{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"}]'
 injuryHome: "Kris Bryant (수술)|Ryan Feltner (일일 관찰)|Kyle Karros (뇌진탕)|McCade Brown (염증)|Kyle Freeland (신경 압박)"
 injuryAway: "Pete Alonso (일일 관찰)|Samuel Basallo (일일 관찰)|Tyler O'Neill (근육통)|Felix Bautista (수술)|Ryan Helsley (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Hughes (0-6, 6.61) ERA 6.61|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
+awayLineup: "[\"선발투수 T. Rogers (9-9, 4.38) ERA 4.38|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
