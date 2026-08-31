@@ -1436,82 +1436,164 @@
     }
   },
   {
-    "home": "Man United",
-    "away": "Ipswich",
-    "date": "2026-08-30T15:30:00.000Z",
-    "league": "Premier League",
+    "home": "Peñarol",
+    "away": "Nacional",
+    "date": "2026-08-30T18:30:00.000Z",
+    "league": "Liga AUF Uruguaya Clausura",
     "sport": "soccer",
-    "espnSport": "soccer_epl",
-    "gameId": "401879293",
+    "espnSport": "soccer_uruguay",
+    "gameId": "401912467",
     "injuries": {
       "home": [],
       "away": []
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "11",
         "wins": "1",
         "losses": "1",
-        "ties": "0",
+        "ties": "1",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "5",
-        "pointsAgainst": "4"
+        "pointsFor": "2",
+        "pointsAgainst": "2"
       },
       "away": {
-        "rank": "12",
-        "wins": "1",
-        "losses": "1",
+        "rank": "7",
+        "wins": "2",
+        "losses": "2",
         "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "4",
-        "pointsAgainst": "6"
+        "pointsFor": "3",
+        "pointsAgainst": "4"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MAN leads series 4-0-1",
+      "text": "PEN leads series 3-1-1",
       "totalGames": 5,
       "games": [
         {
-          "date": "2025-02-26T19:30:00Z",
-          "home": "Manchester United",
-          "away": "Ipswich Town",
-          "homeScore": 3,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-11-24T16:30:00Z",
-          "home": "Ipswich Town",
-          "away": "Manchester United",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2015-09-23T19:00:00Z",
-          "home": "Manchester United",
-          "away": "Ipswich Town",
-          "homeScore": 3,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2002-04-27T16:35:00Z",
-          "home": "Ipswich Town",
-          "away": "Manchester United",
+          "date": "2026-03-01T22:30:00Z",
+          "home": "Nacional",
+          "away": "Peñarol",
           "homeScore": 0,
           "awayScore": 1,
           "isCompleted": true
         },
         {
-          "date": "2001-09-22T14:00:00Z",
-          "home": "Manchester United",
-          "away": "Ipswich Town",
+          "date": "2025-11-30T19:30:00Z",
+          "home": "Nacional",
+          "away": "Peñarol",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-23T19:30:00Z",
+          "home": "Peñarol",
+          "away": "Nacional",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-09T18:00:00Z",
+          "home": "Peñarol",
+          "away": "Nacional",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-07-06T18:00:00Z",
+          "home": "Peñarol",
+          "away": "Nacional",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Columbus",
+    "away": "New England",
+    "date": "2026-08-30T20:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761758",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "5",
+        "losses": "12",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "31",
+        "pointsAgainst": "39"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "11",
+        "losses": "7",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "36",
+        "pointsAgainst": "27"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CLB leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-18T23:30:00Z",
+          "home": "New England Revolution",
+          "away": "Columbus Crew",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-23T23:30:00Z",
+          "home": "Columbus Crew",
+          "away": "New England Revolution",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-02T00:30:00Z",
+          "home": "New England Revolution",
+          "away": "Columbus Crew",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-12T23:30:00Z",
+          "home": "Columbus Crew",
+          "away": "New England Revolution",
           "homeScore": 4,
           "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-29T23:30:00Z",
+          "home": "New England Revolution",
+          "away": "Columbus Crew",
+          "homeScore": 1,
+          "awayScore": 5,
           "isCompleted": true
         }
       ]
@@ -1600,82 +1682,82 @@
     }
   },
   {
-    "home": "Columbus",
-    "away": "New England",
-    "date": "2026-08-30T20:30:00.000Z",
-    "league": "Major League Soccer",
+    "home": "Man United",
+    "away": "Ipswich",
+    "date": "2026-08-30T15:30:00.000Z",
+    "league": "Premier League",
     "sport": "soccer",
-    "espnSport": "soccer_mls",
-    "gameId": "761758",
+    "espnSport": "soccer_epl",
+    "gameId": "401879293",
     "injuries": {
       "home": [],
       "away": []
     },
     "standings": {
       "home": {
-        "rank": "15",
-        "wins": "5",
-        "losses": "12",
-        "ties": "5",
+        "rank": "10",
+        "wins": "1",
+        "losses": "1",
+        "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "31",
-        "pointsAgainst": "39"
+        "pointsFor": "5",
+        "pointsAgainst": "4"
       },
       "away": {
-        "rank": "4",
-        "wins": "11",
-        "losses": "7",
-        "ties": "4",
+        "rank": "12",
+        "wins": "1",
+        "losses": "1",
+        "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "36",
-        "pointsAgainst": "27"
+        "pointsFor": "4",
+        "pointsAgainst": "6"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "CLB leads series 3-2",
+      "text": "MAN leads series 4-0-1",
       "totalGames": 5,
       "games": [
         {
-          "date": "2026-04-18T23:30:00Z",
-          "home": "New England Revolution",
-          "away": "Columbus Crew",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-08-23T23:30:00Z",
-          "home": "Columbus Crew",
-          "away": "New England Revolution",
-          "homeScore": 1,
+          "date": "2025-02-26T19:30:00Z",
+          "home": "Manchester United",
+          "away": "Ipswich Town",
+          "homeScore": 3,
           "awayScore": 2,
           "isCompleted": true
         },
         {
-          "date": "2025-03-02T00:30:00Z",
-          "home": "New England Revolution",
-          "away": "Columbus Crew",
+          "date": "2024-11-24T16:30:00Z",
+          "home": "Ipswich Town",
+          "away": "Manchester United",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2015-09-23T19:00:00Z",
+          "home": "Manchester United",
+          "away": "Ipswich Town",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2002-04-27T16:35:00Z",
+          "home": "Ipswich Town",
+          "away": "Manchester United",
           "homeScore": 0,
           "awayScore": 1,
           "isCompleted": true
         },
         {
-          "date": "2024-10-12T23:30:00Z",
-          "home": "Columbus Crew",
-          "away": "New England Revolution",
+          "date": "2001-09-22T14:00:00Z",
+          "home": "Manchester United",
+          "away": "Ipswich Town",
           "homeScore": 4,
           "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-06-29T23:30:00Z",
-          "home": "New England Revolution",
-          "away": "Columbus Crew",
-          "homeScore": 1,
-          "awayScore": 5,
           "isCompleted": true
         }
       ]
@@ -1840,88 +1922,6 @@
           "away": "Lazio",
           "homeScore": 0,
           "awayScore": 1,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Peñarol",
-    "away": "Nacional",
-    "date": "2026-08-30T18:30:00.000Z",
-    "league": "Liga AUF Uruguaya Clausura",
-    "sport": "soccer",
-    "espnSport": "soccer_uruguay",
-    "gameId": "401912467",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "11",
-        "wins": "1",
-        "losses": "1",
-        "ties": "1",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "2",
-        "pointsAgainst": "2"
-      },
-      "away": {
-        "rank": "7",
-        "wins": "2",
-        "losses": "2",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "3",
-        "pointsAgainst": "4"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "PEN leads series 3-1-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-03-01T22:30:00Z",
-          "home": "Nacional",
-          "away": "Peñarol",
-          "homeScore": 0,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-11-30T19:30:00Z",
-          "home": "Nacional",
-          "away": "Peñarol",
-          "homeScore": 1,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-11-23T19:30:00Z",
-          "home": "Peñarol",
-          "away": "Nacional",
-          "homeScore": 2,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-08-09T18:00:00Z",
-          "home": "Peñarol",
-          "away": "Nacional",
-          "homeScore": 3,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-07-06T18:00:00Z",
-          "home": "Peñarol",
-          "away": "Nacional",
-          "homeScore": 0,
-          "awayScore": 0,
           "isCompleted": true
         }
       ]
@@ -2211,11 +2211,6 @@
       ],
       "away": [
         {
-          "name": "Justin Slaten",
-          "status": "15-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Willson Contreras",
           "status": "Day-To-Day",
           "detail": ""
@@ -2223,6 +2218,11 @@
         {
           "name": "Isiah Kiner-Falefa",
           "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Justin Slaten",
+          "status": "15-Day-IL",
           "detail": "Inflammation"
         },
         {
@@ -2366,6 +2366,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Riley Greene",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
           "name": "Kerry Carpenter",
           "status": "10-Day-IL",
           "detail": "Plantar Fasciitis"
@@ -2374,11 +2379,6 @@
           "name": "Burch Smith",
           "status": "60-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Riley Greene",
-          "status": "10-Day-IL",
-          "detail": "Strain"
         },
         {
           "name": "Brant Hurter",
@@ -2393,6 +2393,21 @@
       ],
       "away": [
         {
+          "name": "Will Smith",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Justin Wrobleski",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Gavin Stone",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
           "name": "Will Klein",
           "status": "15-Day-IL",
           "detail": "Soreness"
@@ -2401,21 +2416,6 @@
           "name": "Bobby Miller",
           "status": "60-Day-IL",
           "detail": "Soreness"
-        },
-        {
-          "name": "Blake Treinen",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
-          "name": "Ben Casparius",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
-          "name": "Will Smith",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
         }
       ]
     },
@@ -2495,9 +2495,19 @@
       ],
       "away": [
         {
+          "name": "Tyler Schweitzer",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Chris Murphy",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Drew Thorpe",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         },
         {
           "name": "Kyle Teel",
@@ -2508,16 +2518,6 @@
           "name": "Jordan Leasure",
           "status": "60-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Tyler Schweitzer",
-          "status": "Out",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Drew Thorpe",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
@@ -2806,6 +2806,11 @@
       ],
       "away": [
         {
+          "name": "Elly De La Cruz",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Graham Ashcraft",
           "status": "60-Day-IL",
           "detail": "Sprain"
@@ -2824,11 +2829,6 @@
           "name": "Spencer Steer",
           "status": "10-Day-IL",
           "detail": "Sprain"
-        },
-        {
-          "name": "Michael Toglia",
-          "status": "10-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
@@ -2836,22 +2836,22 @@
       "home": {
         "rank": "4",
         "wins": "77",
-        "losses": "59",
+        "losses": "60",
         "ties": "0",
-        "winPercent": ".566",
-        "gamesBehind": "7.5",
-        "pointsFor": "720",
-        "pointsAgainst": "591"
+        "winPercent": ".562",
+        "gamesBehind": "8",
+        "pointsFor": "725",
+        "pointsAgainst": "598"
       },
       "away": {
         "rank": "11",
-        "wins": "64",
+        "wins": "65",
         "losses": "72",
         "ties": "0",
-        "winPercent": ".471",
-        "gamesBehind": "20.5",
-        "pointsFor": "563",
-        "pointsAgainst": "673"
+        "winPercent": ".474",
+        "gamesBehind": "20",
+        "pointsFor": "570",
+        "pointsAgainst": "678"
       }
     },
     "h2h": {
@@ -2974,14 +2974,14 @@
           "detail": "Strain"
         },
         {
-          "name": "Will Wilson",
-          "status": "60-Day-IL",
-          "detail": "Fracture"
-        },
-        {
           "name": "Cole Wilcox",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Will Wilson",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
         },
         {
           "name": "Matt Brash",
@@ -3642,14 +3642,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Rhys Hoskins",
-          "status": "10-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Slade Cecconi",
           "status": "15-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Rhys Hoskins",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
         },
         {
           "name": "Shawn Armstrong",
@@ -3659,13 +3659,13 @@
       ],
       "away": [
         {
-          "name": "Connor Seabold",
-          "status": "60-Day-IL",
+          "name": "Maikel Garcia",
+          "status": "10-Day-IL",
           "detail": "Strain"
         },
         {
-          "name": "Maikel Garcia",
-          "status": "10-Day-IL",
+          "name": "Connor Seabold",
+          "status": "60-Day-IL",
           "detail": "Strain"
         },
         {
@@ -3919,11 +3919,6 @@
       ],
       "away": [
         {
-          "name": "Justin Slaten",
-          "status": "15-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Willson Contreras",
           "status": "Day-To-Day",
           "detail": ""
@@ -3931,6 +3926,11 @@
         {
           "name": "Isiah Kiner-Falefa",
           "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Justin Slaten",
+          "status": "15-Day-IL",
           "detail": "Inflammation"
         },
         {
@@ -4082,14 +4082,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Joel Kuhnel",
-          "status": "15-Day-IL",
-          "detail": "Tendinitis"
-        },
-        {
           "name": "Abner Uribe",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Joel Kuhnel",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
         },
         {
           "name": "JoJo Romero",
@@ -4374,14 +4374,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Denzel Clarke",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Brooks Kriske",
           "status": "60-Day-IL",
           "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Denzel Clarke",
+          "status": "60-Day-IL",
+          "detail": "Strain"
         },
         {
           "name": "Joshua Kuroda-Grauer",
@@ -4811,11 +4811,6 @@
       ],
       "away": [
         {
-          "name": "Justin Slaten",
-          "status": "15-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Willson Contreras",
           "status": "Day-To-Day",
           "detail": ""
@@ -4823,6 +4818,11 @@
         {
           "name": "Isiah Kiner-Falefa",
           "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Justin Slaten",
+          "status": "15-Day-IL",
           "detail": "Inflammation"
         },
         {
@@ -5153,14 +5153,14 @@
           "detail": "Strain"
         },
         {
-          "name": "Will Wilson",
-          "status": "60-Day-IL",
-          "detail": "Fracture"
-        },
-        {
           "name": "Cole Wilcox",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Will Wilson",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
         },
         {
           "name": "Matt Brash",
@@ -5250,14 +5250,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Rhys Hoskins",
-          "status": "10-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Slade Cecconi",
           "status": "15-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Rhys Hoskins",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
         },
         {
           "name": "Shawn Armstrong",
@@ -5267,13 +5267,13 @@
       ],
       "away": [
         {
-          "name": "Connor Seabold",
-          "status": "60-Day-IL",
+          "name": "Maikel Garcia",
+          "status": "10-Day-IL",
           "detail": "Strain"
         },
         {
-          "name": "Maikel Garcia",
-          "status": "10-Day-IL",
+          "name": "Connor Seabold",
+          "status": "60-Day-IL",
           "detail": "Strain"
         },
         {
@@ -5406,6 +5406,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Riley Greene",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
           "name": "Kerry Carpenter",
           "status": "10-Day-IL",
           "detail": "Plantar Fasciitis"
@@ -5414,11 +5419,6 @@
           "name": "Burch Smith",
           "status": "60-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Riley Greene",
-          "status": "10-Day-IL",
-          "detail": "Strain"
         },
         {
           "name": "Brant Hurter",
@@ -5433,6 +5433,21 @@
       ],
       "away": [
         {
+          "name": "Will Smith",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Justin Wrobleski",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Gavin Stone",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
           "name": "Will Klein",
           "status": "15-Day-IL",
           "detail": "Soreness"
@@ -5441,21 +5456,6 @@
           "name": "Bobby Miller",
           "status": "60-Day-IL",
           "detail": "Soreness"
-        },
-        {
-          "name": "Blake Treinen",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
-          "name": "Ben Casparius",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
-          "name": "Will Smith",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
         }
       ]
     },
@@ -5653,9 +5653,19 @@
       ],
       "away": [
         {
+          "name": "Tyler Schweitzer",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Chris Murphy",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Drew Thorpe",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         },
         {
           "name": "Kyle Teel",
@@ -5666,16 +5676,6 @@
           "name": "Jordan Leasure",
           "status": "60-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Tyler Schweitzer",
-          "status": "Out",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Drew Thorpe",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
@@ -5792,14 +5792,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Joel Kuhnel",
-          "status": "15-Day-IL",
-          "detail": "Tendinitis"
-        },
-        {
           "name": "Abner Uribe",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Joel Kuhnel",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
         },
         {
           "name": "JoJo Romero",
@@ -6439,6 +6439,11 @@
       ],
       "away": [
         {
+          "name": "Elly De La Cruz",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Graham Ashcraft",
           "status": "60-Day-IL",
           "detail": "Sprain"
@@ -6457,11 +6462,6 @@
           "name": "Spencer Steer",
           "status": "10-Day-IL",
           "detail": "Sprain"
-        },
-        {
-          "name": "Michael Toglia",
-          "status": "10-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
@@ -6469,27 +6469,27 @@
       "home": {
         "rank": "4",
         "wins": "77",
-        "losses": "59",
+        "losses": "60",
         "ties": "0",
-        "winPercent": ".566",
-        "gamesBehind": "7.5",
-        "pointsFor": "720",
-        "pointsAgainst": "591"
+        "winPercent": ".562",
+        "gamesBehind": "8",
+        "pointsFor": "725",
+        "pointsAgainst": "598"
       },
       "away": {
         "rank": "11",
-        "wins": "64",
+        "wins": "65",
         "losses": "72",
         "ties": "0",
-        "winPercent": ".471",
-        "gamesBehind": "20.5",
-        "pointsFor": "563",
-        "pointsAgainst": "673"
+        "winPercent": ".474",
+        "gamesBehind": "20",
+        "pointsFor": "570",
+        "pointsAgainst": "678"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "CHC lead series 7-2",
+      "text": "CHC lead series 7-3",
       "totalGames": 9,
       "games": [
         {
@@ -6808,6 +6808,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Elly De La Cruz",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Graham Ashcraft",
           "status": "60-Day-IL",
           "detail": "Sprain"
@@ -6826,11 +6831,6 @@
           "name": "Spencer Steer",
           "status": "10-Day-IL",
           "detail": "Sprain"
-        },
-        {
-          "name": "Michael Toglia",
-          "status": "10-Day-IL",
-          "detail": "Surgery"
         }
       ],
       "away": [
@@ -6864,13 +6864,13 @@
     "standings": {
       "home": {
         "rank": "11",
-        "wins": "64",
+        "wins": "65",
         "losses": "72",
         "ties": "0",
-        "winPercent": ".471",
-        "gamesBehind": "20.5",
-        "pointsFor": "563",
-        "pointsAgainst": "673"
+        "winPercent": ".474",
+        "gamesBehind": "20",
+        "pointsFor": "570",
+        "pointsAgainst": "678"
       },
       "away": {
         "rank": "7",
@@ -7116,11 +7116,6 @@
     "injuries": {
       "home": [
         {
-          "name": "Justin Slaten",
-          "status": "15-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Willson Contreras",
           "status": "Day-To-Day",
           "detail": ""
@@ -7128,6 +7123,11 @@
         {
           "name": "Isiah Kiner-Falefa",
           "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Justin Slaten",
+          "status": "15-Day-IL",
           "detail": "Inflammation"
         },
         {
@@ -7153,14 +7153,14 @@
           "detail": "Strain"
         },
         {
-          "name": "Will Wilson",
-          "status": "60-Day-IL",
-          "detail": "Fracture"
-        },
-        {
           "name": "Cole Wilcox",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Will Wilson",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
         },
         {
           "name": "Matt Brash",
@@ -7261,6 +7261,11 @@
       ],
       "away": [
         {
+          "name": "Riley Greene",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
           "name": "Kerry Carpenter",
           "status": "10-Day-IL",
           "detail": "Plantar Fasciitis"
@@ -7269,11 +7274,6 @@
           "name": "Burch Smith",
           "status": "60-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Riley Greene",
-          "status": "10-Day-IL",
-          "detail": "Strain"
         },
         {
           "name": "Brant Hurter",
@@ -7411,14 +7411,14 @@
       ],
       "away": [
         {
-          "name": "Joel Kuhnel",
-          "status": "15-Day-IL",
-          "detail": "Tendinitis"
-        },
-        {
           "name": "Abner Uribe",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Joel Kuhnel",
+          "status": "15-Day-IL",
+          "detail": "Tendinitis"
         },
         {
           "name": "JoJo Romero",
@@ -7441,12 +7441,12 @@
       "home": {
         "rank": "4",
         "wins": "77",
-        "losses": "59",
+        "losses": "60",
         "ties": "0",
-        "winPercent": ".566",
-        "gamesBehind": "7.5",
-        "pointsFor": "720",
-        "pointsAgainst": "591"
+        "winPercent": ".562",
+        "gamesBehind": "8",
+        "pointsFor": "725",
+        "pointsAgainst": "598"
       },
       "away": {
         "rank": "1",
@@ -7722,9 +7722,19 @@
       ],
       "away": [
         {
+          "name": "Tyler Schweitzer",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Chris Murphy",
           "status": "15-Day-IL",
           "detail": "Strain"
+        },
+        {
+          "name": "Drew Thorpe",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         },
         {
           "name": "Kyle Teel",
@@ -7735,16 +7745,6 @@
           "name": "Jordan Leasure",
           "status": "60-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Tyler Schweitzer",
-          "status": "Out",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Drew Thorpe",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
