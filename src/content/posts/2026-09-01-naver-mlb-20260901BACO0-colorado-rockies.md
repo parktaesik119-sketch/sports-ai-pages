@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 �
 injuryHome: "Kris Bryant (수술)|Ryan Feltner (일일 관찰)|Kyle Karros (뇌진탕)|McCade Brown (염증)|Kyle Freeland (신경 압박)"
 injuryAway: "Pete Alonso (일일 관찰)|Samuel Basallo (일일 관찰)|Tyler O'Neill (근육통)|Felix Bautista (수술)|Ryan Helsley (염증)"
 homeLineup: "[\"선발투수 G. Hughes (0-6, 6.61) ERA 6.61|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
-awayLineup: "[\"선발투수 T. Rogers (9-9, 4.38) ERA 4.38|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
+awayLineup: "[\"선발투수 K. Bradish (7-12, 4.03) ERA 4.03|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

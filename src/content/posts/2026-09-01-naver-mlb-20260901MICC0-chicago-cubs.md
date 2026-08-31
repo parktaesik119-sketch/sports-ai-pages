@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.31","home":"밀워키 브루어스","away":"텍사�
 injuryHome: "Edward Cabrera (찰과상)|Shelby Miller (수술)|Gavin Hollowell (염증)|Tyler Austin (수술)|Hunter Harvey (골절)"
 injuryAway: "Joel Kuhnel (건염)|Abner Uribe (염좌)|JoJo Romero (수술)|Rob Zastryzny (염좌)|Brandon Woodruff (염증)"
 homeLineup: "[\"선발투수 C. Holmes (5-6, 2.26) ERA 2.26|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
-awayLineup: "[\"선발투수 K. Harrison (10-3, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
+awayLineup: "[\"선발투수 K. Harrison (10-3, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\",\"1번 B. Turang (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41179.png\",\"2번 J. Chourio (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917869.png\",\"3번 J. Bauers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35013.png\",\"4번 W. Contreras (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39895.png\",\"5번 C. Yelich (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31283.png\",\"6번 G. Mitchell (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4313442.png\",\"7번 S. Frelick (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4417795.png\",\"8번 D. Hamilton (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42987.png\",\"9번 C. Pratt (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149101.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
