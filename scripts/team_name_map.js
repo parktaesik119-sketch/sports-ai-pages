@@ -16,7 +16,9 @@ const TEAM_NAME_MAP = {
   "Arsenal": "아스널",
   "Aston Villa": "아스톤 빌라",
   "Bournemouth": "본머스",
+  "AFC Bournemouth Academy": "본머스 아카데미",
   "Brentford": "브렌트퍼드",
+  "Brentford Academy": "브렌트퍼드 아카데미",
   "Brighton": "브라이튼",
   "Burnley": "번리",
   "Chelsea": "첼시",
@@ -36,6 +38,7 @@ const TEAM_NAME_MAP = {
   "Tottenham": "토트넘",
   "Tottenham Hotspur": "토트넘",
   "West Ham": "웨스트햄",
+  "West Ham United": "웨스트햄",
   "Wolves": "울버햄튼",
   "Wolverhampton Wanderers": "울버햄튼",
 
@@ -1220,6 +1223,7 @@ const TEAM_NAME_MAP = {
   "Derby": "더비 카운티",
   "Derby County": "더비 카운티",
   "Leicester": "레스터 시티",
+  "Leicester City": "레스터 시티",
   "Middlesbrough": "미들즈브러",
   "Millwall": "밀월",
   "Norwich": "노리치 시티",
@@ -1237,6 +1241,7 @@ const TEAM_NAME_MAP = {
   "Swansea": "스완지 시티",
   "Watford": "왓퍼드",
   "West Brom": "웨스트 브롬위치 알비온",
+  "West Bromwich Albion": "웨스트 브롬위치 알비온",
   "Wrexham": "렉섬",
 
   // 리그원 (잉글랜드 3부)
