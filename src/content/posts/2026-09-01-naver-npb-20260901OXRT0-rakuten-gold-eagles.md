@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.30","home":"세이부 라이온즈","away":"라쿠�
 awayRecent: '[{"date":"26.08.30","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830SFOX0-2026-08-30-orix-buffaloes/"},{"date":"26.08.29","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829SFOX0-2026-08-29-orix-buffaloes/"},{"date":"26.08.28","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828SFOX0-2026-08-28-orix-buffaloes/"},{"date":"26.08.27","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827RTOX0-2026-08-27-orix-buffaloes/"},{"date":"26.08.26","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826RTOX0-2026-08-26-orix-buffaloes/"}]'
 injuryHome: "없음"
 injuryAway: "Ren Mukunoki (상체 불편함)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Tatsuki Itoh (1-0, 6.43)|https://p.npb.jp/players_photo/2026/180/e/020_31335152.jpg\"]"
+awayLineup: "[\"선발투수 Allen Kuri (8-9, 3.12)|https://p.npb.jp/players_photo/2026/180/b/022_71775139.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

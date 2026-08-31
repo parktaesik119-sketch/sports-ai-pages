@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.30","home":"니혼햄 파이터즈","away":"지바 
 awayRecent: '[{"date":"26.08.30","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830RTSE0-2026-08-30-seibu-lions/"},{"date":"26.08.29","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829RTSE0-2026-08-29-seibu-lions/"},{"date":"26.08.28","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828RTSE0-2026-08-28-seibu-lions/"},{"date":"26.08.26","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826NHSE0-2026-08-26-seibu-lions/"},{"date":"26.08.25","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825NHSE0-2026-08-25-seibu-lions/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shuta Takano (1-3, 3.75)|https://p.npb.jp/players_photo/2026/180/m/034_31035157.jpg\"]"
+awayLineup: "[\"선발투수 Kaima Taira (10-3, 1.46)|https://p.npb.jp/players_photo/2026/180/l/061_31035136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
