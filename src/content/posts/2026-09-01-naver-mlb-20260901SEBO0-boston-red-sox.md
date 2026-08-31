@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs 시애틀 매리너스 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-08-31T22:45:00.000Z
+description: "보스턴 레드삭스 vs 시애틀 매리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901SEBO0-2026-09-01-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 전체 56승 44패와 승률 약 54.9%, 평균 득점 4.4점을 기록하며 안정적인 경쟁력을 보여주고 있습니다. 최근 10경기에서는 5승 5패로 주춤했지만, 샌프란시스코 자이언츠를 상대로 3연승을 거두며 반등하는 흐름도 확인되었습니다. 다만 최근 뉴욕 양키스전 3연패 동안 3경기 연속 득점력이 크게 떨어져 타선의 기복은 변수로 남아 있습니다. 시즌 전체 득실이 609득점 525실점으로 플러스 격차를 유지하고 있어, 공격과 수비의 균형은 시애틀 매리너스보다 우위에 있습니다. 저스틴 슬레이튼과 이사이아 키너팔레파, 요한 오비에도, 커터 크로퍼드의 결장은 투수 운용에 부담이지만, 홈 경기에서 주도권을 잡을 수 있는 전력과 최근 맞대결 우세가 강점으로 평가됩니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 전체 39승 45패와 승률 약 46.4%, 평균 득점 3.7점을 기록하며 기복이 큰 전력을 보이고 있습니다. 최근 10경기에서는 3승 7패에 그쳤고 평균 득점도 3.1점으로 낮아 타선의 지속성이 떨어지는 모습입니다. 토론토 블루제이스전 3연패에서 3경기 동안 4득점에 그쳤고, 필라델피아 필리스와 시카고 컵스전에서도 대량 실점을 허용하며 수비 불안이 드러났습니다. 시즌 전체 득실도 530득점 602실점으로 마이너스 격차여서 경기 후반으로 갈수록 불리한 흐름이 나타날 가능성이 있습니다. 브렌던 도노번과 쿠퍼 크리스웰, 윌 윌슨, 콜 윌콕스, 맷 브래시의 결장은 공수 양쪽의 뎁스를 약화시키며, 보스턴 레드삭스와의 최근 맞대결에서도 시리즈 주도권을 내준 점이 부담입니다."
+homePower: "초반보다 후반 집중력이 강한 공격 구조로 평가됨|플러스 득실이 꾸준한 경기 운영의 기반으로 작용함|최근 홈 연승 구간에서 불펜 안정감이 돋보임|장기 결장 투수 공백에도 선발층 대응력이 남아 있음|시애틀 매리너스 상대로 타선 상성이 우세한 편임"
+awayPower: "대량 득점과 무득점의 편차가 매우 큰 타선임|원정에서 실점이 늘면 경기 회복력이 떨어지는 경향임|최근 연패 구간에서 중심 타선 생산성이 약화됨|불펜 핵심 결장으로 접전 후반 운용이 불안함|보스턴 레드삭스전 수비 압박 대응력이 부족해 보임"
+h2h: '[{"date":"26.06.22","home":"시애틀 매리너스","away":"보스턴 레드삭스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-179180-2026-06-22-seattle-mariners/"},{"date":"26.06.21","home":"시애틀 매리너스","away":"보스턴 레드삭스","score":"1-5","link":"https://pick79.com/posts/detail/analyze-179150-2026-06-20-seattle-mariners/"},{"date":"26.06.20","home":"시애틀 매리너스","away":"보스턴 레드삭스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-179150-2026-06-20-seattle-mariners/"}]'
+summary: "보스턴 레드삭스는 2026시즌 전체 승률과 득실 격차에서 시애틀 매리너스보다 앞서며, 리그순위 3위에 해당하는 안정적인 전력을 보유하고 있습니다. 반면 시애틀 매리너스는 리그순위 11위에 머물고 있으며 최근 10경기에서도 열세가 이어져, 시즌 전체의 마이너스 득실과 최근 수비 불안이 함께 부담으로 작용하고 있습니다. 양 팀의 최근 맞대결에서는 보스턴 레드삭스가 5-1과 6-2로 승리하며 공격 효율과 경기 운영에서 우위를 보였고, 시애틀 매리너스는 한 차례 3-1 승리를 거뒀지만 시리즈 전체 주도권을 지키지는 못했습니다. 장기 결장자 규모까지 고려하면 보스턴 레드삭스가 홈에서 타선의 회복력과 수비 안정성을 앞세워 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"16-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BONY0-2026-08-31-new-york-yankees/"},{"date":"26.08.30","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830BONY2-2026-08-30-new-york-yankees/"},{"date":"26.08.29","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BONY0-2026-08-29-new-york-yankees/"},{"date":"26.08.27","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BOFL0-2026-08-27-miami-marlins/"},{"date":"26.08.26","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BOFL0-2026-08-26-miami-marlins/"}]'
+awayRecent: '[{"date":"26.08.31","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays/"},{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"},{"date":"26.08.29","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SETO0-2026-08-29-toronto-blue-jays/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"}]'
+injuryHome: "Justin Slaten (염증으로 15일 부상자 명단)|Willson Contreras (경미한 상태로 경기 출전 여부 불투명)|Isiah Kiner-Falefa (염증으로 60일 부상자 명단)|Johan Oviedo (근육 긴장으로 60일 부상자 명단)|Kutter Crawford (통증으로 60일 부상자 명단)"
+injuryAway: "Brendan Donovan (뇌진탕으로 7일 부상자 명단)|Cooper Criswell (근육 긴장으로 60일 부상자 명단)|Will Wilson (골절로 60일 부상자 명단)|Cole Wilcox (근육 긴장으로 15일 부상자 명단)|Matt Brash (근육 긴장으로 60일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

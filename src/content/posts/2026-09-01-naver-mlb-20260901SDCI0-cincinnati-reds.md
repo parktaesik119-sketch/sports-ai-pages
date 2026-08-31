@@ -1,0 +1,37 @@
+---
+title: "신시내티 레즈 vs 샌디에이고 파드리스 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-08-31T22:40:00.000Z
+description: "신시내티 레즈 vs 샌디에이고 파드리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901SDCI0-2026-09-01-cincinnati-reds"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "신시내티 레즈"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "신시내티 레즈는 2026시즌 최근 94경기에서 39승 53패로 승률 .471을 기록했고, 평균 득점 4.0을 바탕으로 공격이 완전히 무너지지는 않았지만 기복이 분명한 흐름입니다. 최근 흐름도 10경기 4승 6패로 크게 반등했다고 보기는 어렵지만, 10경기 평균 득점이 4.8까지 올라와 타선 자체는 일정한 생산력을 보여주고 있습니다. 다만 실점 억제 쪽에서는 최근 대량 실점 경기가 반복되면서 수비 안정감이 흔들리는 모습이 보입니다. 홈 경기에서는 득점이 살아나는 장면이 종종 있지만, 경기 후반 마운드 운영이 흔들릴 때 흐름을 지키지 못하는 점이 아쉽습니다. 케브라이언 헤이스와 스펜서 스티어의 이탈은 중심 타선과 수비 밸런스에 부담을 주고 있어, 신시내티 레즈는 출루가 이어질 때 득점으로 연결하는 집중력이 특히 중요해 보입니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 최근 87경기에서 43승 43패로 승률 .500에 가깝게 버티며, 평균 득점 4.2를 유지하고 있어 전체적인 전력 균형은 나쁘지 않은 편입니다. 최근 10경기에서는 4승 6패로 흐름이 매끈하지 않지만, 직전까지 강팀과의 접전에서도 접점을 만들며 경기력을 유지한 점은 긍정적입니다. 최근에는 득점이 꾸준히 나오는 경기와 함께 실점이 한꺼번에 늘어나는 경기가 섞여 있어 마운드 안정감이 관건으로 보입니다. 특히 원정에서는 타선이 초반에 풀리지 않으면 경기 전체가 답답해지는 장면이 나오고 있어, 선취점의 가치가 더욱 커 보입니다. 조 머스그로브와 제이슨 애덤의 결장은 선발 운용과 불펜 뒷문에 부담을 더하고 있어, 샌디에이고 파드리스는 경기 후반 접전에서 예전만큼 단단한 인상을 주지 못하고 있습니다."
+homePower: "신시내티 레즈 홈 득점 기대치가 살아날 여지는 있음|최근 10경기 득점 상승세로 타격 감각 유지됨|주요 결장자 다수로 중장타 연결은 약화됨|실점 편차가 커서 불펜 안정이 승부 변수임|상대전 연패 흐름 끊으려면 초반 주도권 필요함"
+awayPower: "샌디에이고 파드리스는 전체 승률이 균형형임|평균 득점 대비 실점 관리가 비교적 정돈된 편임|주요 불펜 이탈로 접전 마무리 신뢰도 저하됨|원정 최근 경기에서 초반 득점 여부가 중요함|선발-불펜 연결이 유지되면 우세 유지 가능함"
+h2h: '[{"date":"26.06.11","home":"샌디에이고 파드리스","away":"신시내티 레즈","score":"5-4","link":"https://pick79.com/posts/detail/analyze-179021-2026-06-11-san-diego-padres/"},{"date":"26.06.10","home":"샌디에이고 파드리스","away":"신시내티 레즈","score":"3-5","link":"https://pick79.com/posts/detail/analyze-178999-2026-06-09-san-diego-padres/"},{"date":"26.06.09","home":"샌디에이고 파드리스","away":"신시내티 레즈","score":"6-2","link":"https://pick79.com/posts/detail/analyze-178999-2026-06-09-san-diego-padres/"}]'
+summary: "신시내티 레즈는 시즌 성적이 샌디에이고 파드리스보다 낮지만, 최근 득점 흐름이 살아나면서 홈에서는 반등의 기미를 보여주고 있습니다. 반면 샌디에이고 파드리스는 시즌 전력 자체는 더 안정적이지만 최근 원정 경기에서 실점이 늘어나며 고점 대비 다소 주춤한 모습입니다. 상대전적에서는 샌디에이고 파드리스가 앞서 있지만, 현재 결장자 부담과 최근 흐름을 함께 보면 이번 경기는 신시내티 레즈가 근소하게 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.30","home":"시카고 컵스","away":"신시내티 레즈","score":"17-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830CICC0-2026-08-30-chicago-cubs/"},{"date":"26.08.29","home":"시카고 컵스","away":"신시내티 레즈","score":"8-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829CICC0-2026-08-29-chicago-cubs/"},{"date":"26.08.27","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"9-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CISF0-2026-08-27-san-francisco-giants/"},{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"},{"date":"26.08.24","home":"애리조나 다이아몬드백스","away":"신시내티 레즈","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824CIAZ0-2026-08-24-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays/"},{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"},{"date":"26.08.29","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"9-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SDTB0-2026-08-29-tampa-bay-rays/"},{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"},{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"}]'
+injuryHome: "Graham Ashcraft (삐끗함)|Brandon Williamson (통증)|Ke'Bryan Hayes (근육 염좌)|Spencer Steer (삐끗함)|Michael Toglia (수술)"
+injuryAway: "Joe Musgrove (염증)|Jason Adam (근육 염좌)|Miguel Andujar (골절)|Gavin Sheets (삐끗함)|Luis Rengifo (삐끗함)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "신시내티 레즈"
+pickWinResult: "승"
+pickHandicapTeam: "신시내티 레즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

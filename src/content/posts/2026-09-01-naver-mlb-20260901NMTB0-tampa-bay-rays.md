@@ -1,0 +1,37 @@
+---
+title: "탬파베이 레이스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-08-31T22:40:00.000Z
+description: "탬파베이 레이스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901NMTB0-2026-09-01-tampa-bay-rays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "탬파베이 레이스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "탬파베이 레이스는 2026시즌 최근 101경기에서 59승 4무 38패, 승률 .607 수준의 안정적인 전력을 보여주고 있고 평균 득점 4.3점으로 공격 흐름도 꾸준합니다. 최근 10경기에서도 6승 4패를 기록하며 흐름을 다시 끌어올렸고, 특히 샌디에이고 파드리스전과 디트로이트 타이거스전에서 집중력 있는 경기 운영이 돋보였습니다. 홈에서는 득점 폭이 비교적 안정적으로 유지되고 있어 초반부터 점수를 쌓는 장면이 자주 보입니다. 다만 시즌 내내 실점 억제력이 완전히 흔들리지 않는 편은 아니어서, 상대 타선이 길게 이어질 때는 접전 양상이 나올 수 있습니다. 그럼에도 현재 리그순위 1위에 걸맞게 전력 균형이 좋고, 홈 이점까지 더해지면 경기 주도권을 잡는 모습이 자연스럽게 기대됩니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 최근 97경기에서 45승 1무 51패, 승률 .469로 승패 균형이 무너진 상태이며 평균 득점 4.2점에 비해 실점 억제가 따라주지 못하고 있습니다. 최근 10경기에서도 4승 6패로 주춤했고, 휴스턴 애스트로스와 밀워키 브루어스전에서 실점이 크게 늘며 전력 기복이 드러났습니다. 공격은 순간적으로 폭발할 때가 있지만 경기 내내 이어지는 응집력은 다소 떨어져 보입니다. 원정에서는 수비 부담이 더 커지는 편이라 초반 실점이 나면 따라가기 어려운 흐름이 자주 나타납니다. 현재 리그순위 13위라는 위치를 고려하면 반등의 실마리는 보이지만, 상위권 팀을 상대로는 마운드 운영과 타선 연결이 동시에 살아나야 하는 과제가 분명합니다."
+homePower: "탬파베이 레이스|상위권 유지가 전력 균형의 증거임|홈 주도권 잡으면 경기 운영이 단단해짐|장타보다 연속 출루로 득점 기대감 높음|실점 억제 흔들림 적어 접전서 우위 보임|부상 공백 있어도 전력 하방이 높음"
+awayPower: "뉴욕 메츠|득점력은 유지되나 안정감이 부족함|대량 실점 뒤 흔들림이 길어지는 편임|원정에서는 마운드 부담이 크게 커짐|순위 대비 득실 격차가 아쉬운 구조임|상위권 상대로 흐름 반전 증거는 제한적임"
+h2h: '[]'
+summary: "탬파베이 레이스는 현재 리그순위 1위와 +54의 득실 차가 보여주듯 시즌 전력의 균형이 좋고, 최근 흐름도 6승 4패로 다시 상승 곡선을 타고 있습니다. 뉴욕 메츠는 평균 득점 자체는 크게 밀리지 않지만, 13위와 -53의 득실 차가 말해주듯 실점 관리에서 흔들림이 커서 경기 전체의 안정감이 떨어집니다. 양 팀의 최근 흐름을 함께 보면 홈팀이 초반부터 주도권을 잡을 가능성이 높고, 메츠는 공격이 한 번 살아나더라도 수비 쪽 부담을 끝까지 안고 가는 그림이 더 강합니다. 그래서 전력 비교와 흐름을 종합하면 탬파베이 레이스 쪽 우위가 분명하게 읽힙니다."
+homeRecent: '[{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays/"},{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"},{"date":"26.08.29","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SDTB0-2026-08-29-tampa-bay-rays/"},{"date":"26.08.27","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TBDE0-2026-08-27-detroit-tigers/"},{"date":"26.08.26","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TBDE0-2026-08-26-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.08.31","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831HONM0-2026-08-31-new-york-mets/"},{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"},{"date":"26.08.29","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets/"},{"date":"26.08.28","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828MINM0-2026-08-28-new-york-mets/"},{"date":"26.08.27","home":"뉴욕 메츠","away":"밀워키 브루어스","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MINM0-2026-08-27-new-york-mets/"}]'
+injuryHome: "Cole Sulser (경련)|Jake Fraley (수술)|Jonathan Heasley (골절)|Edwin Uceta (염좌)|Griffin Jax (통증)"
+injuryAway: "Cionel Perez (염좌)|Mark Vientos (골절)|Justin Hagenman (골절)|Devin Williams (염좌)|Jorge Polanco (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "미네소타 트윈스 vs 디트로이트 타이거즈 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-08-31T23:40:00.000Z
+description: "미네소타 트윈스 vs 디트로이트 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901DEMN0-2026-09-01-minnesota-twins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "미네소타 트윈스"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+homeAnalysis: "미네소타 트윈스는 2026시즌 전체 45승 52패, 승률 .474, 경기당 평균 득점 4.1점을 기록하며 리그순위 10위에 자리하고 있습니다. 득실은 626득점과 682실점으로 공격보다 수비에서 보완할 부분이 드러나지만, 최근 10경기에서는 5승 5패로 균형을 맞추며 반등 가능성을 보여주고 있습니다. 최근 시카고 화이트삭스전 승리와 애틀랜타 브레이브스전 연승처럼 홈 경기에서는 타선 집중력이 살아나는 구간이 있었습니다. 반면 샌디에이고 파드리스전과 애슬레틱스전에서는 실점이 빠르게 늘어나며 경기 후반 운영에 부담이 나타났습니다. 오스틴 FC Martin, Byron Buxton, Joe Ryan을 비롯한 주요 결장자는 타선의 기동력과 선발진 안정성에 영향을 줄 수 있는 변수입니다. 그래도 디트로이트 타이거즈와의 2026시즌 맞대결에서는 여러 차례 우위를 확인했고, 홈 이점과 최근 공격 회복세를 살리는 운영이 중요해 보입니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 전체 47승 50패, 승률 .463, 경기당 평균 득점 4.3점을 기록하며 리그순위 12위에 머물고 있습니다. 득실은 596득점과 531실점으로 시즌 전체 수비 효율은 긍정적이지만, 최근 10경기에서는 2승 8패에 그치며 전력 하락세가 뚜렷합니다. 특히 최근 경기에서 평균 득점이 2.1점에 머물러 타선의 연결과 마무리 능력이 크게 둔화되었습니다. 로스앤젤레스 다저스전과 탬파베이 레이스전에서 접전 승리를 만들기도 했지만, 캔자스시티 로열스와 피츠버그 파이리츠를 상대로는 공격력이 쉽게 살아나지 않았습니다. Kerry Carpenter, Riley Greene 등 주요 타자들의 결장은 최근 득점력 저하와 맞물려 타선의 선택지를 줄이는 요인입니다. 수비 안정감은 기대할 만하지만, 미네소타 트윈스와의 맞대결에서 실점 폭이 커졌던 경기들이 있어 원정에서 초반 흐름을 빼앗기면 회복이 쉽지 않아 보입니다."
+homePower: "홈 경기에서 초반 타선 집중력이 살아나는 흐름|상대전적 우위로 심리적 자신감이 확인됨|수비 불안에도 접전 승부 대응력은 남아 있음|중심 타선 결장 공백을 활용할 매치업임|미네소타 트윈스의 홈 운영 안정감이 강점으로 보임"
+awayPower: "시즌 수비 지표가 공격 약점을 일부 상쇄함|최근 타선 침묵으로 추격 동력 약화가 뚜렷함|주요 외야 자원 공백으로 장타 위력 감소 가능성|대량 득점 경기와 무득점 경기 편차가 큼|디트로이트 타이거즈의 원정 반등 부담이 커 보임"
+h2h: '[{"date":"26.06.12","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"11-0","link":"https://pick79.com/posts/detail/analyze-179036-2026-06-12-detroit-tigers/"},{"date":"26.06.11","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"4-6","link":"https://pick79.com/posts/detail/analyze-179026-2026-06-11-detroit-tigers/"},{"date":"26.06.10","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"10-4","link":"https://pick79.com/posts/detail/analyze-179012-2026-06-10-detroit-tigers/"},{"date":"26.04.10","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"3-1"},{"date":"26.04.09","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"8-6"}]'
+summary: "미네소타 트윈스는 2026시즌 승률과 리그순위에서 디트로이트 타이거즈보다 앞서며, 최근 흐름에서도 상대보다 안정적인 경쟁력을 보여주고 있습니다. 시즌 전체 득실에서는 디트로이트 타이거즈의 수비 효율이 더 돋보이지만, 최근에는 타선이 크게 위축되면서 득점 생산력이 약점으로 나타났습니다. 미네소타 트윈스는 홈 경기에서 공격 집중력을 되찾을 여지가 있고, 디트로이트 타이거즈는 주요 타자들의 결장과 최근 연속된 패배 흐름을 함께 극복해야 합니다. 2026시즌 맞대결에서도 미네소타 트윈스가 우세한 결과를 더 많이 쌓아 상대 상성이 긍정적이며, 이번 경기 역시 홈팀이 근소한 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.08.31","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CWMN0-2026-08-31-minnesota-twins/"},{"date":"26.08.30","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830CWMN0-2026-08-30-minnesota-twins/"},{"date":"26.08.27","home":"애슬레틱스","away":"미네소타 트윈스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MNOA0-2026-08-27-athletics/"},{"date":"26.08.26","home":"애슬레틱스","away":"미네소타 트윈스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MNOA0-2026-08-26-athletics/"},{"date":"26.08.25","home":"애슬레틱스","away":"미네소타 트윈스","score":"6-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825MNOA0-2026-08-25-athletics/"}]'
+awayRecent: '[{"date":"26.08.31","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831LADE0-2026-08-31-detroit-tigers/"},{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"},{"date":"26.08.29","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829LADE0-2026-08-29-detroit-tigers/"},{"date":"26.08.27","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TBDE0-2026-08-27-detroit-tigers/"},{"date":"26.08.26","home":"디트로이트 타이거즈","away":"탬파베이 레이스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TBDE0-2026-08-26-detroit-tigers/"}]'
+injuryHome: "Austin Martin (근육 긴장)|Byron Buxton (신경 눌림)|Joe Ryan (근육 긴장)|Mike Paredes (근육 긴장)|Mick Abel (수술)"
+injuryAway: "Kerry Carpenter (족저근막염)|Burch Smith (염증)|Riley Greene (근육 긴장)|Brant Hurter (염증)|Wenceel Perez (골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

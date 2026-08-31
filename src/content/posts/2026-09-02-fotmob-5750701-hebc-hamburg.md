@@ -1,0 +1,37 @@
+---
+title: "HEBC Hamburg vs 보루시아 도르트문트 경기분석·라인업·결장자·통계·승부예측 (9월 2일) | DFB Pokal - 픽천국"
+date: 2026-09-01T18:45:00.000Z
+description: "HEBC Hamburg vs 보루시아 도르트문트 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5750701-2026-09-02-hebc-hamburg"
+category: "soccer"
+country: "독일"
+league: "DFB Pokal"
+homeTeam: "HEBC Hamburg"
+awayTeam: "보루시아 도르트문트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/946303.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png"
+homeAnalysis: "HEBC Hamburg는 2026시즌 전체 DB에서 최근 경기 데이터가 없어 승패 흐름과 평균 득점, 홈·원정 성적을 수치로 단정하기는 어렵습니다. 다만 시즌 전체 기록이 비어 있는 만큼 전력 검증 폭이 제한적이고, 최근 경기 DB도 제공되지 않아 현재 흐름을 읽기는 쉽지 않습니다. 이런 상황에서는 수비 조직과 경기 운영에서 흔들림이 적은지가 중요하게 작용할 가능성이 높습니다. 홈 경기라는 이점은 분명하지만, 상대의 전력 차가 크면 버티는 시간이 길수록 부담이 커질 수 있습니다. 따라서 HEBC Hamburg는 초반 실점 관리와 역습 한 방의 효율이 특히 주목됩니다."
+awayAnalysis: "보루시아 도르트문트는 2026시즌 최근 32경기에서 7승 2무 23패, 평균 득점 1.4를 기록하고 있습니다. 최근 경기 흐름을 보면 승리와 패배가 크게 엇갈리지만, 득점은 꾸준히 만들어내는 편이라 공격 전개 자체는 완전히 막혀 있지 않습니다. 다만 실점이 많은 경기들이 섞여 있어 수비 안정성은 분명한 과제로 보입니다. 원정 성적에서 흔들리는 구간이 길게 이어진 점도 부담이지만, 강한 상대를 상대로도 득점을 만들어낸 경기는 분명히 있습니다. 특히 공격에서 마무리만 정리되면 전력 우위로 경기를 주도할 가능성은 충분합니다."
+homePower: "시즌 전력 검증 자료 부족으로 변수 관리가 핵심임|상대 강세 구간에서 버티기 운영이 중요함|홈 이점은 있으나 주도권 장악력은 미지수임|실점 억제가 되면 접전으로 끌고 갈 가능성 있음|한 방 역습 효율이 승부처로 보임"
+awayPower: "평균 득점 1.4로 공격 생산은 유지됨|승패 편차가 크나 득점 루트는 살아 있음|수비 불안이 크지만 공격 화력으로 상쇄 시도함|강팀 상대로도 득점 저항력이 확인됨|공세 유지 시 경기 흐름을 잡을 가능성 높음"
+h2h: '[]'
+summary: "보루시아 도르트문트는 2026시즌 최근 32경기에서 7승 2무 23패, 평균 득점 1.4로 공격 생산은 유지하고 있습니다. 다만 실점 관리가 흔들린 구간이 길어 전력의 안정감에서는 아쉬움이 남습니다. HEBC Hamburg는 시즌 전체와 최근 경기 데이터가 비어 있어 세부 지표를 단정하기는 어렵지만, 상대 전력과 현재 흐름을 함께 보면 보루시아 도르트문트가 우세를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Justin Lerma (근육 부상)|Giannis Konstantelias (십자 인대 부상)|Ramy Bensebaini (부상)|Carney Chukwuemeka (근육 부상)|Nico Schlotterbeck (발목 부상)|Emre Can (십자 인대 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보루시아 도르트문트"
+pickWinResult: "승"
+pickHandicapTeam: "보루시아 도르트문트"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "0"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 브레이브스 vs 샌프란시스코 자이언츠 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-08-31T22:05:00.000Z
+description: "애틀랜타 브레이브스 vs 샌프란시스코 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901SFAT0-2026-09-01-atlanta-braves"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애틀랜타 브레이브스"
+awayTeam: "샌프란시스코 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+homeAnalysis: "애틀랜타 브레이브스는 2026시즌 전체 DB에서 56승 42패, 승률 .599를 기록하며 리그순위 2위에 올라 있고 636득점과 519실점으로 득실 균형도 탄탄합니다. 최근에는 강팀인 로스앤젤레스 다저스와 콜로라도 로키스를 상대로 연이어 승리하며 고점의 전력을 다시 보여주고 있습니다. 최근 10경기에서 8승을 거둔 흐름은 안정적이지만, 최근 경기 평균 득점이 시즌 전체 흐름보다 낮아 타선의 폭발력은 다소 제한적으로 나타나고 있습니다. 홈 경기에서는 선취점 이후 리드를 지키는 운영과 불펜 집중력이 강점으로 보입니다. 다만 레이날도 로페즈, 조 히메네스, 스펜서 스트라이더의 이탈로 투수진의 깊이가 약해졌고, 주리크슨 프로파르의 출장정지도 타선 운용에 부담이 됩니다. 샌프란시스코 자이언츠와의 최근 맞대결에서 실점 억제가 흔들린 점은 이번 경기의 주요 변수입니다."
+awayAnalysis: "샌프란시스코 자이언츠는 2026시즌 전체 DB에서 34승 47패, 승률 .409로 리그순위 14위에 머물러 있으며 560득점과 634실점으로 공수 격차가 뚜렷합니다. 최근 10경기에서도 4승에 그쳤지만 애리조나 다이아몬드백스를 상대로 두 차례 승리하고 신시내티 레즈전에서도 대량 득점을 만드는 등 반등 조짐은 확인됩니다. 최근 경기 평균 득점은 시즌 전체 수준을 유지하고 있어 타선의 생산력 자체는 애틀랜타 브레이브스보다 꾸준한 편입니다. 특히 애틀랜타 브레이브스를 상대로 최근 시리즈에서 4승 1패를 기록하며 상대 투수진을 공략한 경험이 강점으로 작용합니다. 수비와 불펜의 기복은 여전히 불안 요소이며, 마르셀로 메이어와 맷 게이지를 비롯한 주요 선수들의 이탈로 선수층 운용에도 제약이 있습니다. 원정 경기에서 초반 실점을 줄인다면 상대전적에서 확인된 상성을 바탕으로 접전 우위를 가져갈 가능성이 높아 보입니다."
+homePower: "강팀 상대 연승으로 상위권 경쟁력 재확인됨|저득점 경기에서도 리드를 지키는 운영력 돋보임|불펜 핵심 이탈로 후반 접전 관리가 변수로 남음|샌프란시스코 자이언츠전 실점 억제가 최대 과제임|홈에서 선취점 확보 시 승리 확률을 높이는 구조임"
+awayPower: "애틀랜타 브레이브스전 상성 우위가 뚜렷하게 검증됨|최근 원정 타선이 꾸준해 추격력이 살아 있음|대량 득점과 빈공이 교차해 공격 기복은 변수임|마운드 불안으로 초반 리드 확보가 중요함|주요 선수 이탈에도 반등 조짐은 확인됨"
+h2h: '[{"date":"26.06.29","home":"샌프란시스코 자이언츠","away":"애틀랜타 브레이브스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179263-2026-06-29-san-francisco-giants/"},{"date":"26.06.28","home":"샌프란시스코 자이언츠","away":"애틀랜타 브레이브스","score":"5-0","link":"https://pick79.com/posts/detail/analyze-179233-2026-06-27-san-francisco-giants/"},{"date":"26.06.27","home":"샌프란시스코 자이언츠","away":"애틀랜타 브레이브스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-179233-2026-06-27-san-francisco-giants/"},{"date":"26.06.19","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"0-0","link":"https://pick79.com/posts/detail/analyze-179132-2026-06-19-atlanta-braves/"},{"date":"26.06.18","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"5-7","link":"https://pick79.com/posts/detail/analyze-179122-2026-06-18-atlanta-braves/"}]'
+summary: "애틀랜타 브레이브스는 2026시즌 리그순위 2위와 +117의 득실 우위를 바탕으로 시즌 전체 전력에서는 확실한 우세를 보이고 있습니다. 그러나 샌프란시스코 자이언츠는 최근 경기에서 애틀랜타 브레이브스보다 높은 득점 흐름을 유지하고 있으며, 양 팀의 최근 맞대결에서도 공격과 불펜 운영에서 앞선 장면이 많았습니다. 애틀랜타 브레이브스의 최근 상승세와 홈 이점은 분명하지만 주요 투수진 이탈이 부담으로 남아 있어, 이번 경기는 샌프란시스코 자이언츠가 상대전적과 타선의 꾸준함을 앞세워 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831COAT0-2026-08-31-atlanta-braves/"},{"date":"26.08.30","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830COAT0-2026-08-30-atlanta-braves/"},{"date":"26.08.29","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829COAT0-2026-08-29-atlanta-braves/"},{"date":"26.08.28","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828LAAT0-2026-08-28-atlanta-braves/"},{"date":"26.08.27","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827LAAT0-2026-08-27-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.28","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828AZSF0-2026-08-28-san-francisco-giants/"},{"date":"26.08.27","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CISF0-2026-08-27-san-francisco-giants/"},{"date":"26.08.25","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CISF0-2026-08-25-san-francisco-giants/"}]'
+injuryHome: "Reynaldo Lopez (염증으로 15일 부상자 명단)|Robert Suarez (통증으로 15일 부상자 명단)|Joe Jimenez (수술로 60일 부상자 명단)|Spencer Strider (염증으로 60일 부상자 명단)|Jurickson Profar (사유 미상의 출장정지)"
+injuryAway: "Marcelo Mayer (골절로 10일 부상자 명단)|Matt Gage (근육 긴장으로 60일 부상자 명단)|Victor Bericoto (타박상으로 10일 부상자 명단)|Jesus Rodriguez (신경 압박으로 10일 부상자 명단)|JT Brubaker (타박상으로 15일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌프란시스코 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "샌프란시스코 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

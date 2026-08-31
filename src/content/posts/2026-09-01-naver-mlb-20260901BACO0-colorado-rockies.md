@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 볼티모어 오리올스 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-09-01T00:40:00.000Z
+description: "콜로라도 로키스 vs 볼티모어 오리올스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901BACO0-2026-09-01-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 최근 81경기에서 31승 50패, 승률 .380을 기록하며 평균 득점 5.0을 남기고 있어 공격 생산성은 완전히 꺾이지 않았지만 경기 운영의 균형이 흔들리는 흐름입니다. 최근 10경기에서도 2승 8패, 평균 득점 3.4로 내려앉아 있어 초반에 점수를 내지 못하면 흐름을 되돌리기 어려운 모습이 뚜렷합니다. 홈에서는 버티는 힘이 아주 강하다고 보기는 어렵지만, 한 번 타선이 연결되면 짧은 이닝에 큰 점수를 내는 장면이 나와 득점 폭발 가능성은 남아 있습니다. 다만 장기 결장자가 많은 상황이라 마운드와 타선 모두 안정감이 떨어지고, 특히 실점 억제에서 약점이 반복되고 있습니다. 최근 경기 흐름을 보면 접전에서 끝까지 버티는 힘이 부족해 보이며, 분위기 반전을 만들려면 투타가 동시에 올라와야 하는 시점입니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 최근 98경기에서 48승 47패, 승률 .496을 기록하며 평균 득점 4.6으로 리그순위 7위다운 경쟁력을 유지하고 있습니다. 최근 10경기에서도 6승 4패, 평균 득점 5.1로 타선의 응집력이 살아나고 있어 흐름 자체는 분명히 나쁘지 않습니다. 원정에서도 점수를 꾸준히 뽑아내는 편이라 상대가 흔들릴 때 빠르게 격차를 벌릴 수 있는 전개가 자주 보입니다. 다만 실점 억제는 완전히 단단하지 않아, 득점전으로 가면 장타 허용이나 중후반 변수가 남아 있는 편입니다. 주전 전력 일부가 빠져 있지만 최근 흐름이 이를 어느 정도 상쇄하고 있어, 현재 전력은 콜로라도 로키스보다 한 단계 위로 평가됩니다."
+homePower: "장기 결장자 누적으로 마운드 안정성 저하가 뚜렷함|최근 10경기 2승 8패, 하락 압력 강함|평균 득점은 유지돼도 경기 후반 응집력 부족함|대량 실점이 잦아 수비 집중력 흔들림이 보임|상위권 상대에 끌려가는 전개가 반복되는 패턴임"
+awayPower: "최근 10경기 6승, 상승 흐름이 분명함|평균 득점 5점대, 타선 연결감이 살아있음|원정에서도 초반 득점으로 주도권 잡는 힘 보임|주요 결장에도 공격 균형 유지되는 점이 강점임|실점 변동성은 있지만 경기 우세 운영은 검증됨"
+h2h: '[]'
+summary: "볼티모어 오리올스는 시즌 전력과 최근 흐름이 함께 받쳐 주고 있어 콜로라도 로키스보다 우위를 점하고 있습니다. 콜로라도 로키스는 시즌 평균 득점 자체는 완전히 무너지지 않았지만 최근 경기에서는 실점 억제가 흔들리며 승부를 끝까지 끌고 가는 힘이 약해 보입니다. 반면 볼티모어 오리올스는 리그순위 7위답게 득점과 승부 운영이 비교적 안정적이고, 최근 흐름도 좋아서 경기 주도권을 잡을 가능성이 높습니다. 전체적으로는 볼티모어 오리올스가 타선 우위와 현재 전력 안정감을 바탕으로 더 유리한 경기를 만들 것으로 보입니다."
+homeRecent: '[{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831COAT0-2026-08-31-atlanta-braves/"},{"date":"26.08.30","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830COAT0-2026-08-30-atlanta-braves/"},{"date":"26.08.29","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829COAT0-2026-08-29-atlanta-braves/"},{"date":"26.08.28","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828COMO0-2026-08-28-washington-nationals/"},{"date":"26.08.27","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827COMO0-2026-08-27-washington-nationals/"}]'
+awayRecent: '[{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 오리올스","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BAOA0-2026-08-31-athletics/"},{"date":"26.08.29","home":"애슬레틱스","away":"볼티모어 오리올스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BAOA0-2026-08-29-athletics/"},{"date":"26.08.28","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals/"},{"date":"26.08.27","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BASL0-2026-08-27-st-louis-cardinals/"},{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"}]'
+injuryHome: "Kris Bryant (수술)|Ryan Feltner (일일 관찰)|Kyle Karros (뇌진탕)|McCade Brown (염증)|Kyle Freeland (신경 압박)"
+injuryAway: "Pete Alonso (일일 관찰)|Samuel Basallo (일일 관찰)|Tyler O'Neill (근육통)|Felix Bautista (수술)|Ryan Helsley (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "볼티모어 오리올스"
+pickWinResult: "승"
+pickHandicapTeam: "볼티모어 오리올스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

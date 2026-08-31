@@ -1,0 +1,37 @@
+---
+title: "워싱턴 내셔널스 vs 마이애미 말린스 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-08-31T22:45:00.000Z
+description: "워싱턴 내셔널스 vs 마이애미 말린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "워싱턴 내셔널스"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+homeAnalysis: "워싱턴 내셔널스는 2026시즌 전체 50승 52패, 승률 .468, 득실 720-704로 리그순위 12위에 자리하고 있습니다. 시즌 전체 득점력은 평균 4.8점으로 원정팀보다 앞서 있어 공격 잠재력은 분명합니다. 최근 10경기에서는 4승 6패로 기복이 있었지만 콜로라도 로키스와 마이애미 말린스를 상대로 연속해서 득점력을 보여주며 반등 조짐을 만들었습니다. 특히 최근 마이애미 말린스와의 경기에서 9득점과 5득점을 기록한 점은 상대 투수진을 공략할 수 있다는 신호입니다. 다만 직전 경기에서는 2득점에 그쳤고, 같은 상대에게 대량 실점을 허용한 만큼 경기별 수비 집중력과 마무리 안정성이 중요한 변수입니다. 주요 결장자가 여러 명 포함되어 있어 투수 운용과 야수진의 경기 후반 대응력에는 부담이 있습니다. 홈에서 공격이 살아날 경우 접전 구도를 만들 가능성은 충분하지만, 시즌 리그순위와 최근 수비 기복을 함께 고려하면 안정감은 다소 부족해 보입니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 전체 50승 51패, 승률 .504, 득실 594-579로 리그순위 8위에 올라 있습니다. 시즌 평균 득점은 4.1점으로 워싱턴 내셔널스보다 낮지만, 득실에서 플러스 격차를 유지하며 경기 운영의 안정성을 보여주고 있습니다. 최근 10경기에서는 5승 5패로 완전히 압도적인 흐름은 아니지만 워싱턴 내셔널스를 상대로 최근 세 차례 경기에서 두 번 승리하며 상성에서 우위를 확인했습니다. 최근 맞대결에서는 6득점과 3득점을 기록하는 등 상대 수비를 꾸준히 흔들었고, 실점이 커진 경기에서도 공격으로 반격하는 힘을 보여주었습니다. 반면 보스턴 레드삭스와의 경기에서는 득점 생산이 제한되는 모습이 있어 원정 타선의 집중력은 경기 초반부터 확인할 필요가 있습니다. 주요 투수 결장자가 포함되어 있어 불펜 운용에는 부담이 있지만, 시즌 리그순위와 상대전적 우세가 전체적인 신뢰도를 높여주고 있습니다. 마이애미 말린스는 큰 폭의 화력보다 실점 관리와 상대 공략 능력으로 접전에서 우위를 점할 가능성이 높아 보입니다."
+homePower: "워싱턴 내셔널스의 공격 상한선은 상대 마운드에 위협적임|최근 홈 맞대결에서 초반 득점 생산력이 돋보임|득실 플러스가 공격 대비 수비 균형을 뒷받침함|후반 불펜 운용이 승부처의 핵심 변수로 보임|주요 결장 누적으로 선수층 깊이가 시험받는 상황임"
+awayPower: "마이애미 말린스는 상대 상성에서 확실한 우위를 보임|낮은 득점 평균에도 승부처 집중력이 강점임|리그순위 우위가 시즌 운영 안정성을 반영함|주요 불펜 결장으로 후반 수비 부담이 커질 수 있음|최근 원정 맞대결에서 워싱턴 내셔널스를 효과적으로 공략함"
+h2h: '[{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"},{"date":"26.08.29","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"9-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829FLMO0-2026-08-29-washington-nationals/"},{"date":"26.08.24","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824MOFL0-2026-08-24-miami-marlins/"},{"date":"26.08.23","home":"마이애미 말린스","away":"워싱턴 내셔널스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823MOFL0-2026-08-23-miami-marlins/"}]'
+summary: "2026시즌 전체 전력에서는 마이애미 말린스가 리그순위와 승률에서 워싱턴 내셔널스보다 앞서며 보다 안정적인 흐름을 보여주고 있습니다. 워싱턴 내셔널스는 평균 득점과 최근 일부 경기의 폭발력에서 강점이 있지만, 최근 10경기 수비 기복과 주요 결장자의 공백이 부담으로 작용할 수 있습니다. 마이애미 말린스는 시즌 평균 득점은 낮지만 득실 격차와 상대전적에서 우위를 보이며 접전 운영 능력을 입증했습니다. 양 팀 모두 최근 흐름이 완전히 일방적이지는 않지만, 시즌 안정성과 상성을 함께 고려하면 마이애미 말린스가 승부처에서 우위를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"},{"date":"26.08.29","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829FLMO0-2026-08-29-washington-nationals/"},{"date":"26.08.28","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828COMO0-2026-08-28-washington-nationals/"},{"date":"26.08.27","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827COMO0-2026-08-27-washington-nationals/"}]'
+awayRecent: '[{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"},{"date":"26.08.29","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829FLMO0-2026-08-29-washington-nationals/"},{"date":"26.08.27","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BOFL0-2026-08-27-miami-marlins/"},{"date":"26.08.26","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BOFL0-2026-08-26-miami-marlins/"}]'
+injuryHome: "Richard Lovelady (허벅지 근육 염좌)|James Wood (허벅지 근육 염좌)|Drew Millas (골절)|Cade Cavalli (경기 출전 여부 불확실)|Josiah Gray (허벅지 근육 염좌)"
+injuryAway: "Xavier Edwards (경기 출전 여부 불확실, 사유 미상)|Anthony Bender (골절)|Pete Fairbanks (신경 압박)|Max Meyer (근육 염좌)|Ronny Henriquez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "마이애미 말린스"
+pickWinResult: "승"
+pickHandicapTeam: "마이애미 말린스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "두산 베어스 vs LG 트윈스 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | KBO - 픽천국"
+date: 2026-09-01T09:30:00.000Z
+description: "두산 베어스 vs LG 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260901LGOB02026-2026-09-01-doosan-bears"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "두산 베어스"
+awayTeam: "LG 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LG.png"
+homeAnalysis: "두산 베어스는 2026시즌 최근 91경기에서 50승 3무 38패, 평균 득점 4.8을 기록하며 시즌 전체 전력에서 안정적인 상위권 흐름을 보여주고 있습니다. 최근에는 평균 득점이 6.0까지 올라오면서 공격 생산성이 더 살아난 모습이고, 키움 히어로즈전에서 연속 대승을 거두며 타선의 응집력이 돋보였습니다. 예상 라인업을 보면 양의지와 박준순이 중심 축을 잡고 있어 중장타와 연결 능력 모두 기대할 수 있으며, 박찬호와 정수빈의 출루와 주루도 공격 전개의 흐름을 좋게 만들고 있습니다. 다만 세베리노와 김대한 쪽에서는 생산성의 기복이 보일 수 있어, 상위 타선이 초반에 흐름을 잡아주는지가 중요합니다. 수비와 운영 면에서는 홈에서 비교적 안정적인 경기 운영이 가능한 팀으로 보이며, 최근처럼 초반 득점이 나올 경우 경기 전체를 주도할 가능성이 높습니다."
+awayAnalysis: "LG 트윈스는 2026시즌 최근 92경기에서 49승 2무 41패, 평균 득점 5.4를 기록하며 꾸준히 상위권 경쟁을 이어가고 있습니다. 최근에는 평균 득점이 6.1로 올라오면서 공격 흐름이 살아 있는 편이고, 한화 이글스전 대승처럼 한 번 타선이 붙으면 득점 폭이 크게 열리는 장면이 나옵니다. 예상 라인업에서는 오스틴을 중심으로 송찬의와 문정빈이 뒤를 받쳐 장타 압박이 분명하고, 홍창기와 박해민이 상위 타선에서 출루와 주루 변수를 만들어 주고 있습니다. 반면 이주헌과 손용준 구간은 상대적으로 무게감이 떨어져, 중심 타선이 끊기지 않고 이어 가는지가 관건입니다. 결장자가 없는 점은 전력 운용에 도움이 되며, 최근 타격 감각을 이어 간다면 원정에서도 충분히 득점 기대치를 유지할 수 있는 팀입니다."
+homePower: "양의지 중심의 한 방과 연결력 공존함|박찬호·정수빈 출루로 초반 압박 가능함|최근 다득점 경향, 타선 탄력 살아 있음|하위 타선 약점은 득점 편차 변수로 남음|홈에서 주도권 잡는 운영 능력 검증됨"
+awayPower: "오스틴 중심 장타 기대치 가장 높음|박해민·홍창기 출루로 상위 압박 가능함|최근 대량 득점, 타선 폭발력 확인됨|중하위 타선 무게 차로 응집력은 변수임|결장자 없이 주전 구성이 안정적임"
+h2h: '[{"date":"26.08.02","home":"두산 베어스","away":"LG 트윈스","score":"8-3","link":"https://pick79.com/posts/detail/analyze-181931-2026-08-02-doosan-bears/"},{"date":"26.08.01","home":"두산 베어스","away":"LG 트윈스","score":"2-2","link":"https://pick79.com/posts/detail/analyze-181922-2026-08-01-doosan-bears/"},{"date":"26.07.31","home":"두산 베어스","away":"LG 트윈스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-181917-2026-07-31-doosan-bears/"},{"date":"26.06.21","home":"LG 트윈스","away":"두산 베어스","score":"9-3","link":"https://pick79.com/posts/detail/analyze-181775-2026-06-21-lg-twins/"},{"date":"26.06.20","home":"LG 트윈스","away":"두산 베어스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-181767-2026-06-20-lg-twins/"}]'
+summary: "두산 베어스는 시즌 전체 성적과 최근 득점 흐름을 함께 보면 홈에서 충분히 경쟁력을 보여주는 팀입니다. 다만 LG 트윈스는 시즌 전체 전력의 안정감과 최근 공격 생산성에서 조금 더 선명한 우위를 보이고 있어, 경기 주도권 싸움에서는 한 단계 더 앞선 모습입니다. 두 팀 모두 최근 맞대결에서는 팽팽한 장면이 많았지만, LG 트윈스는 중심 타선의 파괴력과 출루 기반이 더 뚜렷해 중요한 순간에 점수를 만들어낼 가능성이 높습니다. 전체적으로는 LG 트윈스가 근소 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.30","home":"두산 베어스","away":"키움 히어로즈","score":"15-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260830WOOB02026-2026-08-30-doosan-bears/"},{"date":"26.08.29","home":"두산 베어스","away":"키움 히어로즈","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829WOOB02026-2026-08-29-doosan-bears/"},{"date":"26.08.27","home":"KT 위즈","away":"두산 베어스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827OBKT02026-2026-08-27-kt-wiz-suwon/"},{"date":"26.08.25","home":"KT 위즈","away":"두산 베어스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825OBKT02026-2026-08-25-kt-wiz-suwon/"},{"date":"26.08.23","home":"두산 베어스","away":"롯데 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LTOB02026-2026-08-23-doosan-bears/"}]'
+awayRecent: '[{"date":"26.08.29","home":"롯데 자이언츠","away":"LG 트윈스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829LGLT02026-2026-08-29-lotte-giants/"},{"date":"26.08.27","home":"LG 트윈스","away":"NC 다이노스","score":"3-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827NCLG02026-2026-08-27-lg-twins/"},{"date":"26.08.26","home":"LG 트윈스","away":"NC 다이노스","score":"8-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826NCLG02026-2026-08-26-lg-twins/"},{"date":"26.08.25","home":"LG 트윈스","away":"NC 다이노스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825NCLG02026-2026-08-25-lg-twins/"},{"date":"26.08.23","home":"한화 이글스","away":"LG 트윈스","score":"3-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LGHH02026-2026-08-23-hanwha-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LG 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "LG 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

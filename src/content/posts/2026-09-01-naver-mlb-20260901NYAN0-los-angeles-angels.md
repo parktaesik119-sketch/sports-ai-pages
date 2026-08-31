@@ -1,0 +1,37 @@
+---
+title: "LA 에인절스 vs 뉴욕 양키즈 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-09-01T01:38:00.000Z
+description: "LA 에인절스 vs 뉴욕 양키즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 에인절스"
+awayTeam: "뉴욕 양키즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+homeAnalysis: "LA 에인절스는 2026시즌 최근 87경기에서 29승 1무 57패, 승률 .338과 평균 득점 3.9를 기록하며 하위권 전력으로 시즌을 이어가고 있습니다. 최근 흐름도 10경기 3승 7패로 흔들리고 있어, 리그순위 15위라는 성적과 맞물려 반등의 무게가 아직은 크지 않은 모습입니다. 득점 생산이 경기마다 들쭉날쭉한 편이라 초반에 흐름을 잡지 못하면 경기를 길게 끌고 가는 데 어려움이 있습니다. 수비에서도 실점 억제가 충분히 안정적이지 않아 접전으로 가면 부담이 커지는 편입니다. 다만 홈에서는 템포를 살려 한 번에 분위기를 올리는 장면이 나오고 있고, 특정 경기에서는 장타와 집중타가 동시에 터지며 의외성을 보여주고 있습니다. 오늘은 결장자 비중도 적지 않아 전체적으로는 버티는 운영보다 실점 억제와 한두 차례의 득점 기회를 얼마나 살리느냐가 중요해 보입니다."
+awayAnalysis: "뉴욕 양키즈는 2026시즌 최근 101경기에서 57승 4무 40패, 승률 .588과 평균 득점 4.4를 기록하며 상위권 전력을 유지하고 있습니다. 최근 10경기에서도 7승 3패로 흐름이 좋고, 리그순위 2위답게 고점 대비 주춤했던 구간을 지나 다시 타격감이 살아나는 모습입니다. 득점력이 꾸준하고 최근에는 대량 득점 경기까지 이어지면서 경기 초반부터 상대 마운드를 압박하는 힘이 분명합니다. 반면 실점도 완전히 억제되는 전력은 아니어서, 장타 허용이나 중반 이닝의 흔들림이 생기면 경기 양상이 예상보다 열릴 수 있습니다. 주요 결장자가 적지 않다는 점은 분명 변수이지만, 전체 시즌 전력과 최근 공격 흐름만 놓고 보면 여전히 주도권을 잡을 가능성이 높습니다. 원정에서도 출루와 장타 연결이 잘 이어지는 편이라 오늘도 공격 템포를 먼저 끌어올릴 것으로 보입니다."
+homePower: "시즌 하위권 성적이지만 홈에서 순간 폭발력은 확인됨|실점 관리가 흔들려도 초반 득점 시 경합력 살아남|장타 의존보다 한 이닝 집중 생산이 변수로 작용함|주요 결장자 다수로 라인업 깊이 약화가 보임|리그순위와 달리 홈 반등 여지는 있으나 지속성은 검증 부족임"
+awayPower: "리그순위 2위답게 전력의 바닥이 높음|최근 공격 폭발로 원정 득점 기대치가 더 높아짐|주요 결장에도 타선 응집력 유지가 보임|실점 변동성은 있어도 득점 우위로 상쇄 가능함|상대전에서 대량 득점과 저득점 모두 소화해봄"
+h2h: '[{"date":"26.04.17","home":"뉴욕 양키즈","away":"LA 에인절스","score":"4-11"},{"date":"26.04.16","home":"뉴욕 양키즈","away":"LA 에인절스","score":"5-4"},{"date":"26.04.15","home":"뉴욕 양키즈","away":"LA 에인절스","score":"1-7"},{"date":"26.04.14","home":"뉴욕 양키즈","away":"LA 에인절스","score":"11-10"}]'
+summary: "뉴욕 양키즈는 시즌 전체 전력과 최근 공격 흐름에서 모두 우위를 보이고 있어 경기 주도권을 잡을 가능성이 높습니다. LA 에인절스는 리그순위 15위와 낮은 승률이 말해주듯 시즌 전반의 안정감이 부족하지만, 최근 맞대결에서는 큰 점수차 승리도 만들어낸 바 있어 특정 구간에서 반격 여지는 있습니다. 다만 양키즈는 리그순위 2위의 꾸준함과 높은 득점 생산력을 바탕으로 실점이 나와도 다시 따라붙는 힘이 더 분명하고, 결장자 이슈가 있어도 전력 우위가 쉽게 흔들릴 정도는 아닙니다. 전체 흐름을 종합하면 공격에서 더 안정적인 쪽이 앞서 있으며, 상대 상성까지 감안해도 뉴욕 양키즈 쪽 우세가 자연스럽게 이어집니다."
+homeRecent: '[{"date":"26.08.31","home":"LA 에인절스","away":"필라델피아 필리스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PHAN0-2026-08-31-los-angeles-angels/"},{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"},{"date":"26.08.27","home":"LA 에인절스","away":"클리블랜드 가디언스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CLAN0-2026-08-27-los-angeles-angels/"},{"date":"26.08.25","home":"LA 에인절스","away":"클리블랜드 가디언스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CLAN0-2026-08-25-los-angeles-angels/"},{"date":"26.08.24","home":"텍사스 레인저스","away":"LA 에인절스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824ANTE0-2026-08-24-texas-rangers/"}]'
+awayRecent: '[{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"16-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BONY0-2026-08-31-new-york-yankees/"},{"date":"26.08.30","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830BONY2-2026-08-30-new-york-yankees/"},{"date":"26.08.29","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BONY0-2026-08-29-new-york-yankees/"},{"date":"26.08.28","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828HONY0-2026-08-28-new-york-yankees/"},{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"}]'
+injuryHome: "Samy Natera Jr. (경련)|Yoan Moncada (수술)|Nolan Schanuel (근육 염좌)|Sam Bachman (염증)|Gustavo Campero (근육 염좌)"
+injuryAway: "George Lombard Jr. (염증)|Ryan McMahon (염좌)|Clarke Schmidt (수술)|Aaron Judge (골절)|Giancarlo Stanton (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

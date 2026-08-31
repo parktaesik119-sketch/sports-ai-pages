@@ -1,0 +1,37 @@
+---
+title: "휴스턴 애스트로스 vs 시카고 화이트삭스 경기분석·라인업·결장자·통계·승부예측 (9월 1일) | MLB - 픽천국"
+date: 2026-09-01T00:10:00.000Z
+description: "휴스턴 애스트로스 vs 시카고 화이트삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260901CWHO0-2026-09-01-houston-astros"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "휴스턴 애스트로스"
+awayTeam: "시카고 화이트삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+homeAnalysis: "휴스턴 애스트로스는 2026시즌 최근 87경기에서 47승 1무 39패, 평균 득점 4.4를 기록하며 시즌 전체 전력은 안정적인 흐름을 보이고 있습니다. 최근 경기에서는 강팀인 뉴욕 메츠와 뉴욕 양키스를 상대로도 승부를 주고받으며 경쟁력을 보여주었고, 홈에서는 한 번 흐트러지더라도 다시 반등하는 힘이 있습니다. 다만 최근 흐름만 놓고 보면 득점은 유지되고 있으나 실점 관리가 흔들리는 장면이 섞여 있어 경기 내 기복은 남아 있습니다. 특히 좌우를 가리지 않고 득점을 만들어내는 공격은 여전히 강점이지만, 장기 결장자가 여러 명이라 마운드와 내야 쪽 깊이는 다소 얇아 보입니다. 홈에서의 운영 능력은 분명하지만, 수비 집중력이 흔들릴 때 대량 실점으로 이어질 수 있는 점은 주목하실 만합니다."
+awayAnalysis: "시카고 화이트삭스는 2026시즌 최근 99경기에서 51승 1무 47패, 평균 득점 4.4를 기록하며 휴스턴과 비슷한 공격 생산력을 유지하고 있습니다. 최근 경기에서는 텍사스 레인저스를 상대로 강한 타격을 보여주며 승리를 쌓았고, 미네소타 원정에서도 바로 반등하는 모습을 보여 전력의 탄력이 살아 있습니다. 리그순위가 더 높고 득실도 +44로 뚜렷한 우위를 만들고 있어, 단순한 승패보다 공수 균형이 더 잘 잡힌 팀으로 평가됩니다. 다만 핵심 전력 일부가 장기 결장 중이라 경기 후반 불펜 운용에는 부담이 남아 있습니다. 그래도 최근 흐름과 시즌 전체 지표를 함께 보면, 원정에서도 공격 흐름을 이어가며 경기 주도권을 가져올 가능성이 충분합니다."
+homePower: "최근 4경기에서 3승 1패 흐름으로 반등세가 확인됨|메츠전과 양키스전 모두 장타 대응력은 살아 있음|장기 결장자 누적으로 마운드 깊이는 다소 얇아짐|득점력은 유지되지만 실점 억제는 기복이 보임|홈에서 재정비하면 중반 이후 승부력은 남아 있음"
+awayPower: "최근 10경기 6승으로 흐름이 더 안정적임|득실 +44가 공수 균형의 우위를 뒷받침함|강한 타선이 원정에서도 초반 압박을 만드는 편임|장기 결장자 속에서도 대체 자원 활용이 살아 있음|후반 접전에서는 불펜 소모가 변수로 남아 있음"
+h2h: '[{"date":"26.07.27","home":"시카고 화이트삭스","away":"휴스턴 애스트로스","score":"12-3","link":"https://pick79.com/posts/detail/analyze-179601-2026-07-27-chicago-white-sox/"},{"date":"26.07.26","home":"시카고 화이트삭스","away":"휴스턴 애스트로스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-179585-2026-07-26-chicago-white-sox/"},{"date":"26.07.25","home":"시카고 화이트삭스","away":"휴스턴 애스트로스","score":"5-9","link":"https://pick79.com/posts/detail/analyze-179571-2026-07-25-chicago-white-sox/"}]'
+summary: "두 팀 모두 2026시즌 평균 득점이 4.4로 비슷하지만, 시즌 전체 지표에서는 시카고 화이트삭스가 더 높은 리그순위와 더 좋은 득실 차를 바탕으로 한 걸음 앞서 있습니다. 휴스턴 애스트로스는 최근에도 강팀을 상대로 경쟁력을 보여주며 쉽게 무너지지 않는 모습이지만, 실점 관리가 들쭉날쭉해 경기 흐름이 길어질수록 부담이 커질 수 있습니다. 시카고 화이트삭스는 최근 흐름과 공수 균형이 더 매끄럽고, 상대전적에서도 대량 득점 경기가 한 차례 있었던 만큼 공격 쪽 기대치가 높습니다. 전반적으로는 시카고 화이트삭스가 우위를 점할 가능성이 높고, 접전으로 가더라도 쪽수와 균형 면에서 더 나은 선택으로 보입니다."
+homeRecent: '[{"date":"26.08.31","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831HONM0-2026-08-31-new-york-mets/"},{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"},{"date":"26.08.29","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets/"},{"date":"26.08.28","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828HONY0-2026-08-28-new-york-yankees/"},{"date":"26.08.27","home":"뉴욕 양키즈","away":"휴스턴 애스트로스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827HONY0-2026-08-27-new-york-yankees/"}]'
+awayRecent: '[{"date":"26.08.31","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CWMN0-2026-08-31-minnesota-twins/"},{"date":"26.08.30","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830CWMN0-2026-08-30-minnesota-twins/"},{"date":"26.08.27","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"10-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TECW0-2026-08-27-chicago-white-sox/"},{"date":"26.08.26","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826TECW0-2026-08-26-chicago-white-sox/"},{"date":"26.08.25","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"2-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825TECW0-2026-08-25-chicago-white-sox/"}]'
+injuryHome: "Mike Burrows (염증)|Brice Matthews (염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+injuryAway: "Chris Murphy (근육 손상)|Kyle Teel (염좌)|Jordan Leasure (근육 손상)|Tyler Schweitzer (구체적 미기재)|Drew Thorpe (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
