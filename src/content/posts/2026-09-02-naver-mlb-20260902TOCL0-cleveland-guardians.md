@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.31","home":"토론토 블루제이즈","away":"시�
 injuryHome: "Slade Cecconi (통증)|Rhys Hoskins (염증)|Shawn Armstrong (근육 염좌)"
 injuryAway: "Josh Smith (염증)|Joe Mantiply (수술)|Patrick Corbin (근육 염좌)|Jameson Taillon (힘줄염)|Luis Urias (근육 염좌)"
 homeLineup: "[\"선발투수 G. Williams (12-7, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
-awayLineup: "[\"선발투수 S. Arrighetti (7-7, 4.81) ERA 4.81|https://a.espncdn.com/i/headshots/mlb/players/full/4726080.png\"]"
+awayLineup: "[\"선발투수 S. Miles (5-2, 2.92) ERA 2.92|https://a.espncdn.com/i/headshots/mlb/players/full/4833671.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
