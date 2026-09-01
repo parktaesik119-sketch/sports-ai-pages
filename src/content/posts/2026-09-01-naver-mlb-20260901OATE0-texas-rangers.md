@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 �
 injuryHome: "Josh Jung (염좌)|Michael Helman (골절)|Carter Baumler (염좌)|Robert Garcia (염증)|Kyle Higashioka (염좌)"
 injuryAway: "Denzel Clarke (염좌)|Brooks Kriske (신경 압박)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)|Nick Kurtz (염좌)"
 homeLineup: "[\"선발투수 M. Gore (7-10, 4.40) ERA 4.40|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
-awayLineup: "[\"선발투수 J.T. Ginn (9-8, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png\"]"
+awayLineup: "[\"선발투수 B. Basso (0-1, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/4179551.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
