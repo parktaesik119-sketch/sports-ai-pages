@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.01","home":"신시내티 레즈","away":"샌디에�
 awayRecent: '[{"date":"26.09.01","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SDCI0-2026-09-01-cincinnati-reds/"},{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays/"},{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"},{"date":"26.08.29","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"9-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SDTB0-2026-08-29-tampa-bay-rays/"},{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"}]'
 injuryHome: "Graham Ashcraft (염좌)|Brandon Williamson (통증)|Ke'Bryan Hayes (근육 긴장)|Spencer Steer (염좌)|Michael Toglia (수술)"
 injuryAway: "Jason Adam (근육 긴장)|Miguel Andujar (골절)|Joe Musgrove (염증)|Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. Lodolo (3-3, 5.24) ERA 5.24|https://a.espncdn.com/i/headshots/mlb/players/full/42433.png\"]"
+awayLineup: "[\"선발투수 R. Vasquez (10-6, 4.02) ERA 4.02|https://a.espncdn.com/i/headshots/mlb/players/full/4722847.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

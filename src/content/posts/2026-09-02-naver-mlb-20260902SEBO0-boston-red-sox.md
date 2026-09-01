@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.31","home":"토론토 블루제이즈","away":"시�
 injuryHome: "Isiah Kiner-Falefa (염증)|Johan Oviedo (부상)|Kutter Crawford (통증)|Zack Kelly (염증)|Justin Slaten (염증)"
 injuryAway: "Brendan Donovan (뇌진탕)|Cole Wilcox (부상)|Matt Brash (부상)|Will Wilson (골절)|Emerson Hancock (부상)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 B. Woo (9-9, 4.36) ERA 4.36|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

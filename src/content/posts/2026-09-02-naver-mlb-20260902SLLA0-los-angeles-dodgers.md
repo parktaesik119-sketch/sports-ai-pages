@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.31","home":"디트로이트 타이거즈","away":"L
 awayRecent: '[{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"},{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.28","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals/"},{"date":"26.08.27","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BASL0-2026-08-27-st-louis-cardinals/"},{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"}]'
 injuryHome: "Will Smith (염증)|Justin Wrobleski (염증)|Gavin Stone (염증)|Will Klein (통증)|Bobby Miller (통증)"
 injuryAway: "Masyn Winn (골절)|Everson Pereira (타박상)|Andre Pallante (염증)|JJ Wetherholt (건염)|Peter Strzelecki (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 Y. Yamamoto (12-8, 2.56) ERA 2.56|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

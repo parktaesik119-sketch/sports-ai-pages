@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.09.01","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SFAT0-2026-09-01-atlanta-braves/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.28","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828AZSF0-2026-08-28-san-francisco-giants/"},{"date":"26.08.27","home":"샌프란시스코 자이언츠","away":"신시내티 레즈","score":"9-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CISF0-2026-08-27-san-francisco-giants/"}]'
 injuryHome: "Konnor Griffin (스트레인)|Ryan O'Hearn (스트레인)|Mitch Keller (명시되지 않음)|Endy Rodriguez (수술)"
 injuryAway: "Matt Gage (스트레인)|Victor Bericoto (타박상)|Jesus Rodriguez (신경 압박)|Marcelo Mayer (골절)|JT Brubaker (타박상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Skenes (9-11, 3.79) ERA 3.79|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
+awayLineup: "[\"선발투수 L. Webb (8-8, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/41216.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.08.31","home":"LA 에인절스","away":"필라델피�
 injuryHome: "Lourdes Gurriel Jr. (염좌)|Tommy Troy (염좌)|Ryne Nelson (염좌)|Blake Walston (수술)|Ryan Thompson (염좌)"
 injuryAway: "Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Felix Reyes (골절)|Johan Rojas (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 A. Painter (3-8, 5.95) ERA 5.95|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

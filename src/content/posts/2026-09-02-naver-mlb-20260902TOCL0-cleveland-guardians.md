@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.08.31","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays/"},{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"},{"date":"26.08.29","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SETO0-2026-08-29-toronto-blue-jays/"},{"date":"26.08.28","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"2-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828KCTO0-2026-08-28-toronto-blue-jays/"},{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays/"}]'
 injuryHome: "Slade Cecconi (통증)|Rhys Hoskins (염증)|Shawn Armstrong (근육 염좌)"
 injuryAway: "Josh Smith (염증)|Joe Mantiply (수술)|Patrick Corbin (근육 염좌)|Jameson Taillon (힘줄염)|Luis Urias (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Williams (12-7, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 S. Arrighetti (7-7, 4.81) ERA 4.81|https://a.espncdn.com/i/headshots/mlb/players/full/4726080.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
