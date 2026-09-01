@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레
 awayRecent: '[{"date":"26.08.31","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays/"},{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"},{"date":"26.08.29","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SETO0-2026-08-29-toronto-blue-jays/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"}]'
 injuryHome: "Isiah Kiner-Falefa (염증)|Johan Oviedo (부상)|Kutter Crawford (통증)|Zack Kelly (염증)|Justin Slaten (염증)"
 injuryAway: "Brendan Donovan (뇌진탕)|Cole Wilcox (부상)|Matt Brash (부상)|Will Wilson (골절)|Emerson Hancock (부상)"
-homeLineup: ''
+homeLineup: "[\"선발투수 J. Paez (0-0, 18.00) ERA 18.00|https://a.espncdn.com/i/headshots/mlb/players/full/5332994.png\"]"
 awayLineup: "[\"선발투수 B. Woo (9-9, 4.36) ERA 4.36|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
 homeFormation: ""
 awayFormation: ""
