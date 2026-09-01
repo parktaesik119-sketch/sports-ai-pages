@@ -1,0 +1,37 @@
+---
+title: "그라스호퍼 vs FC 장트 갈렌 경기분석·라인업·결장자·통계·승부예측 (9월 3일) | Super League - 픽천국"
+date: 2026-09-02T18:30:00.000Z
+description: "그라스호퍼 vs FC 장트 갈렌 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5804251-2026-09-03-grasshopper"
+category: "soccer"
+country: "스위스"
+league: "Super League"
+homeTeam: "그라스호퍼"
+awayTeam: "FC 장트 갈렌"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9956.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10190.png"
+homeAnalysis: "그라스호퍼는 2026시즌 최근 14경기 6승 3무 5패, 평균 득점 1.9로 공격에서 일정한 생산력은 보여주고 있습니다. 다만 최근 흐름에서는 대량 실점이 섞이며 경기 기복이 드러나고 있어, 공격은 살아 있어도 수비 안정감이 흔들리는 모습입니다. 홈에서는 경기 주도권을 잡으려는 성향이 강하고, 마누스 게이블랄데와 세밀한 전개를 맡는 미드필더진이 초반 흐름을 잡아주는 편입니다. 최전방의 영준 이와 니콜라스 무치 조합은 결정력 면에서 기대를 걸 만하지만, 팀 전체적으로는 마무리보다 수비 전환이 더 중요한 과제로 보입니다. 특히 팀 메이어의 결장은 중원 연결과 압박 강도에 영향을 줄 수 있어, 홈에서 버티는 힘이 관건입니다."
+awayAnalysis: "FC 장트 갈렌은 2026시즌 최근 22경기 11승 3무 8패, 평균 득점 2.1로 화력 면에서 한 단계 위의 전력을 보여주고 있습니다. 최근에는 연속 실점 경기가 있었지만, 그 이전에는 득점 폭발과 빠른 전환으로 상대를 강하게 몰아붙이는 장면이 많았습니다. 원정에서도 공격 템포를 유지하는 편이며, 루카스 고르트러와 루카스 다슈너가 중원을 장악하면 경기 운영이 상당히 매끄러워집니다. 전방에서는 크리스티안 비츠히, 디에고 베시오, 알리우 발데가 폭넓게 움직이며 수비 간격을 흔드는 점이 강점입니다. 다만 카를로 부칼파와 스테판 암브로시우스 등 여러 결장자가 있어, 수비 조직의 완성도는 이전보다 다소 떨어질 수 있습니다."
+homePower: "최근 득점 생산은 유지되지만 수비 흔들림이 큼|팀 메이어 공백으로 중원 압박 약화 우려됨|영준 이 중심의 직선적 침투는 위협적임|홈에서는 전환 속도보다 실점 억제가 핵심임|상대 강한 공격을 버티는 운영 능력 시험대임"
+awayPower: "평균 득점 2.1이 말하듯 공격 효율이 높음|루카스 고르트러 중심의 경기 조율이 안정적임|전방 압박이 살아날 때 득실 차를 크게 벌림|수비 결장 여파로 뒷공간 관리가 변수로 보임|원정에서도 템포를 유지하는 응집력이 검증됨"
+h2h: '[{"date":"26.02.15","home":"FC 장트 갈렌","away":"그라스호퍼","score":"0-0"},{"date":"25.12.22","home":"그라스호퍼","away":"FC 장트 갈렌","score":"1-2"},{"date":"25.10.26","home":"FC 장트 갈렌","away":"그라스호퍼","score":"5-0"},{"date":"25.05.23","home":"그라스호퍼","away":"FC 장트 갈렌","score":"2-0"},{"date":"25.03.09","home":"FC 장트 갈렌","away":"그라스호퍼","score":"3-1"}]'
+summary: "FC 장트 갈렌이 시즌 전체 전력과 공격 생산성에서 한발 앞선 흐름입니다. 그라스호퍼도 득점 자체는 만들 수 있는 팀이지만, 최근 경기들에서 수비 흔들림이 반복되며 경기 후반 안정감이 떨어지는 모습이 보입니다. 맞대결 흐름을 봐도 FC 장트 갈렌이 더 자주 주도권을 잡아왔고, 그라스호퍼는 홈에서 버티는 힘을 앞세워 반격을 노리는 구도가 자연스럽습니다. 전력 균형과 최근 상성을 함께 보면 FC 장트 갈렌 쪽 우세가 조금 더 뚜렷하게 읽힙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Tim Meyer (충돌 부상)|Pantaleo Creti (다리 부상)|Saulo Decarli (근육 부상)"
+injuryAway: "Carlo Boukhalfa (근육 부상)|Cyrill May (충돌 부상)|Malamine Efekele (근육 부상)|Stephan Ambrosius (충돌 부상)|Tom Gaal (충돌 부상)|Nino Weibel (무릎 부상)|Behar Neziri (십자 인대 부상)"
+homeLineup: '["Justin Hammel (GK)|https://images.fotmob.com/image_resources/playerimages/1308464.png","Simone Stroscio (DF)|https://images.fotmob.com/image_resources/playerimages/1305752.png","Bujar Pllana (DF)|https://images.fotmob.com/image_resources/playerimages/1510878.png","Luka Mikulic (DF)|https://images.fotmob.com/image_resources/playerimages/1819492.png","Nico Rissi (DF)|https://images.fotmob.com/image_resources/playerimages/1859293.png","Manex Guibelalde (MF)|https://images.fotmob.com/image_resources/playerimages/1455604.png","Tim Meyer (MF)|https://images.fotmob.com/image_resources/playerimages/1515927.png","Samuel Krasniqi (MF)|https://images.fotmob.com/image_resources/playerimages/1833130.png","Amir Abrashi (MF)|https://images.fotmob.com/image_resources/playerimages/127224.png","Young-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1238478.png","Nikolas Muci (FW)|https://images.fotmob.com/image_resources/playerimages/1257646.png"]'
+awayLineup: '["Lawrence Ati-Zigi (GK)|https://images.fotmob.com/image_resources/playerimages/615411.png","Joel Ruiz (DF)|https://images.fotmob.com/image_resources/playerimages/1833207.png","Jozo Stanic (DF)|https://images.fotmob.com/image_resources/playerimages/957753.png","Chima Okoroji (DF)|https://images.fotmob.com/image_resources/playerimages/664528.png","Mihailo Stevanovic (MF)|https://images.fotmob.com/image_resources/playerimages/1161214.png","Hugo Vandermersch (FW)|https://images.fotmob.com/image_resources/playerimages/1074444.png","Lukas Görtler (MF)|https://images.fotmob.com/image_resources/playerimages/627039.png","Lukas Daschner (MF)|https://images.fotmob.com/image_resources/playerimages/836786.png","Christian Witzig (FW)|https://images.fotmob.com/image_resources/playerimages/1273733.png","Diego Besio (FW)|https://images.fotmob.com/image_resources/playerimages/1833214.png","Aliou Baldé (FW)|https://images.fotmob.com/image_resources/playerimages/1107289.png"]'
+homeFormation: "4-1-2-1-2"
+awayFormation: "3-1-4-2"
+homeCoach: "Peter Zeidler|https://images.fotmob.com/image_resources/playerimages/658445.png"
+awayCoach: "Enrico Maaßen|https://images.fotmob.com/image_resources/playerimages/94713.png"
+pickWinTeam: "FC 장트 갈렌"
+pickWinResult: "승"
+pickHandicapTeam: "FC 장트 갈렌"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

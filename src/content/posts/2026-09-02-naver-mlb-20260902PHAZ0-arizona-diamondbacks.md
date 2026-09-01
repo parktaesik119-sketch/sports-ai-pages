@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 필라델피아 필리스 경기분석·라인업·결장자·통계·승부예측 (9월 2일) | MLB - 픽천국"
+date: 2026-09-02T01:40:00.000Z
+description: "애리조나 다이아몬드백스 vs 필라델피아 필리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260902PHAZ0-2026-09-02-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "필라델피아 필리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 89경기에서 48승 41패, 승률 .529, 평균 득점 4.6을 기록하며 중상위권 전력을 유지하고 있습니다. 최근 흐름을 보면 기복은 있지만 강팀 상대로도 한 경기씩 끊어내는 힘이 살아 있어 반등 여지는 충분해 보입니다. 다만 최근 10경기 평균 득점이 3.8로 시즌 평균보다 낮아졌고, 공격이 한 번 막히면 경기 전체가 답답해지는 장면이 보입니다. 홈에서는 비교적 득점 생산이 이어지는 편이라 초반에 분위기를 잡으면 경기를 끌고 갈 수 있는 힘이 있습니다. 반면 실점 억제는 상대 타선이 길게 이어질 때 흔들리는 모습이 있어, 선발과 불펜의 안정감이 중요하게 작용할 경기입니다."
+awayAnalysis: "필라델피아 필리스는 2026시즌 최근 101경기에서 58승 41패, 승률 .562, 평균 득점 4.7로 홈팀보다 한 단계 더 안정적인 성적을 쌓고 있습니다. 최근 10경기에서도 평균 득점이 5.9까지 올라가면서 공격 흐름이 확실히 살아난 모습입니다. 고점 대비 주춤하던 구간도 있었지만, 최근에는 장타와 출루가 함께 맞물리며 연승 흐름을 만들고 있습니다. 리그순위 5위에 걸맞게 경기 운영이 깔끔하고, 실점 관리도 +30 득실에서 드러나듯 상대보다 한 수 위의 균형감이 있습니다. 결장자 중 일부 전력 공백은 있지만, 전체적으로는 타선의 응집력과 마운드 안정감이 함께 받쳐 주는 편이라 원정에서도 우세를 기대할 만합니다."
+homePower: "홈 타선은 최근 기복이 있으나 폭발력은 유지됨|상위권 상대에도 장타로 판을 흔드는 힘이 있음|홈에서는 초반 득점 시 경기 주도권이 커짐|실점 억제는 선발 안정감에 크게 좌우됨|결장 공백 속에서도 한 방은 살아 있는 편임"
+awayPower: "최근 타선 응집력이 리그순위보다 더 강하게 보임|원정에서도 득점 생산이 쉽게 꺼지지 않음|득실 우위가 경기 후반 운영 자신감으로 이어짐|장기 결장 공백에도 핵심 전력의 균형이 유지됨|다이아몬드백스 상대로 상성상 밀리지 않음"
+h2h: '[{"date":"26.04.13","home":"필라델피아 필리스","away":"애리조나 다이아몬드백스","score":"3-4"},{"date":"26.04.12","home":"필라델피아 필리스","away":"애리조나 다이아몬드백스","score":"4-3"},{"date":"26.04.11","home":"필라델피아 필리스","away":"애리조나 다이아몬드백스","score":"4-5"}]'
+summary: "애리조나 다이아몬드백스는 시즌 승률은 준수하지만 최근 득점 흐름이 시즌 평균보다 낮아져 공격 면에서 다소 흔들리는 모습이 보입니다. 필라델피아 필리스는 시즌 승률과 득실 모두에서 더 안정적이고, 최근 10경기 득점 흐름도 훨씬 강하게 올라와 있어 전력 우위가 분명합니다. 맞대결에서는 애리조나 다이아몬드백스가 앞서 있지만, 필라델피아 필리스가 최근 흐름과 전체 전력의 균형에서 더 나은 모습을 보여 주고 있어 이번 경기도 원정팀 쪽 기대가 더 높습니다."
+homeRecent: '[{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.28","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828AZSF0-2026-08-28-san-francisco-giants/"},{"date":"26.08.27","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827CCAZ0-2026-08-27-arizona-diamondbacks/"},{"date":"26.08.25","home":"애리조나 다이아몬드백스","away":"시카고 컵스","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825CCAZ0-2026-08-25-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.08.31","home":"LA 에인절스","away":"필라델피아 필리스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PHAN0-2026-08-31-los-angeles-angels/"},{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"},{"date":"26.08.24","home":"필라델피아 필리스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824SLPH0-2026-08-24-philadelphia-phillies/"}]'
+injuryHome: "Lourdes Gurriel Jr. (염좌)|Tommy Troy (염좌)|Ryne Nelson (염좌)|Blake Walston (수술)|Ryan Thompson (염좌)"
+injuryAway: "Rafael Marchan (건염)|Caleb Kilian (염좌)|Tanner Banks (염좌)|Felix Reyes (골절)|Johan Rojas (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 필리스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 필리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

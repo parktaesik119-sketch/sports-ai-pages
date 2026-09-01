@@ -1,0 +1,37 @@
+---
+title: "마더웰 vs 던디 유나이티드 경기분석·라인업·결장자·통계·승부예측 (9월 3일) | Premiership - 픽천국"
+date: 2026-09-02T18:45:00.000Z
+description: "마더웰 vs 던디 유나이티드 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5793927-2026-09-03-motherwell"
+category: "soccer"
+country: "스코틀랜드"
+league: "Premiership"
+homeTeam: "마더웰"
+awayTeam: "던디 유나이티드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9927.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9938.png"
+homeAnalysis: "마더웰은 2026시즌 최근 20경기에서 8승 5무 7패, 평균 득점 1.4를 기록하며 전체적으로는 균형 잡힌 전력을 보여주고 있습니다. 다만 최근 흐름에서는 득점이 나오는 경기와 실점이 크게 늘어나는 경기가 함께 나타나며 기복이 적지 않은 모습입니다. 홈에서는 공격 전개가 살아날 때 경기 주도권을 잡는 장면이 보이지만, 수비 전환이 흔들리면 한 번에 흐름을 내주는 경우도 있습니다. 이번에는 알프레드 요한손 감독 체제에서 에마뉘엘 롱엘로와 레그런 찰스쿡, 아이브라힘 사이드가 전방과 측면에서 활로를 만들어야 하며, 부상으로 빠진 조던 맥기와 캘럼 헨드리의 공백도 적지 않게 느껴질 수 있습니다. 전체적으로는 홈 이점과 상대전에서의 강한 면모를 바탕으로 자신감을 가질 수 있는 구도입니다."
+awayAnalysis: "던디 유나이티드는 2026시즌 최근 27경기에서 5승 7무 15패, 평균 득점 1.2로 시즌 전체 전력에서 다소 밀리는 흐름을 보이고 있습니다. 최근 경기에서는 짜임새 있는 승리도 있었지만, 강한 압박을 받는 경기에서는 실점이 빠르게 늘어나는 모습이 반복되고 있습니다. 원정에서는 공격 전개가 단조로워질 때가 있어, 메흐디 메르검과 다니엘 베니, 자카리 삽스포드의 움직임이 얼마나 날카롭게 살아나느냐가 중요합니다. 짐 구드윈 감독이 이끄는 팀답게 전방 압박과 빠른 전환을 시도하겠지만, 수비 안정감이 흔들리면 경기를 길게 끌고 가기 쉽지 않아 보입니다. 특히 최근 흐름상 경기 초반 버티는 힘이 중요하며, 미러 톰슨의 결장도 측면 운영에 부담이 될 수 있습니다."
+homePower: "홈에서 상대를 압박하는 구도에 강점이 있음|전방 자원 조합이 흔들리면 득점 편차가 커짐|에마뉘엘 롱엘로 측면 전진이 공격 출발점임|조던 맥기 공백으로 수비 밸런스 조정이 필요함|상대전에서 홈 주도권을 가져온 경험이 뚜렷함"
+awayPower: "시즌 전체 전력 대비 경기 내 기복이 큰 편임|원정에서는 선제 실점 시 반전 동력이 약해짐|메흐디 메르검의 전개가 공격 완성도의 핵심임|수비 라인이 흔들리면 실점 폭이 커지는 양상임|마더웰 상대로는 접전보다 밀리는 흐름이 잦았음"
+h2h: '[{"date":"26.03.01","home":"마더웰","away":"던디 유나이티드","score":"2-0"},{"date":"25.12.14","home":"던디 유나이티드","away":"마더웰","score":"0-0"},{"date":"25.10.30","home":"마더웰","away":"던디 유나이티드","score":"2-0"},{"date":"25.02.23","home":"던디 유나이티드","away":"마더웰","score":"1-0"},{"date":"24.12.15","home":"마더웰","away":"던디 유나이티드","score":"4-3"}]'
+summary: "마더웰은 시즌 전체 전력에서 던디 유나이티드보다 안정감이 조금 더 돋보이며, 특히 홈에서 경기를 주도할 때 힘을 내는 모습이 잘 나타나고 있습니다. 던디 유나이티드는 시즌 전체 성적과 최근 흐름 모두에서 들쭉날쭉한 편이라, 경기 운영이 길어질수록 마더웰 쪽이 더 편안하게 경기를 풀 가능성이 높아 보입니다. 상대전에서도 마더웰이 앞서 있는 흐름이 분명하고, 최근 맞대결에서 수비적으로도 더 단단한 모습을 보여준 점이 이번 경기의 핵심으로 읽힙니다. 전체적으로는 마더웰이 전력과 상성에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Jordan McGhee (햄스트링 부상)|Callum Hendry (무릎 부상)|Paul McGinn (무릎 부상)"
+injuryAway: "Miller Thomson (발목 부상)"
+homeLineup: '["Alex Paulsen (GK)|https://images.fotmob.com/image_resources/playerimages/1272118.png","Tom Sparrow (DF)|https://images.fotmob.com/image_resources/playerimages/1130768.png","Jamie Knight-Lebel (DF)|https://images.fotmob.com/image_resources/playerimages/1524014.png","Martin Moormann (DF)|https://images.fotmob.com/image_resources/playerimages/1199118.png","Emmanuel Longelo (DF)|https://images.fotmob.com/image_resources/playerimages/963949.png","Tawanda Maswanhise (FW)|https://images.fotmob.com/image_resources/playerimages/1187314.png","Lukas Fadinger (MF)|https://images.fotmob.com/image_resources/playerimages/940801.png","Joe Hodge (MF)|https://images.fotmob.com/image_resources/playerimages/1070794.png","Ibrahim Said (FW)|https://images.fotmob.com/image_resources/playerimages/1109045.png","Alex Lowry (MF)|https://images.fotmob.com/image_resources/playerimages/1284069.png","Regan Charles-Cook (FW)|https://images.fotmob.com/image_resources/playerimages/662834.png"]'
+awayLineup: '["Jack Walton (GK)|https://images.fotmob.com/image_resources/playerimages/627016.png","Joshua Rawlins (DF)|https://images.fotmob.com/image_resources/playerimages/1069828.png","Bert Esselink (DF)|https://images.fotmob.com/image_resources/playerimages/1295678.png","Michael Forbes (DF)|https://images.fotmob.com/image_resources/playerimages/1186459.png","Will Ferry (MF)|https://images.fotmob.com/image_resources/playerimages/843138.png","Abdoulaye Yoro (DF)|https://images.fotmob.com/image_resources/playerimages/1714783.png","Emmanuel Agyei (MF)|https://images.fotmob.com/image_resources/playerimages/1422565.png","Panutche Camará (MF)|https://images.fotmob.com/image_resources/playerimages/826063.png","Mehdi Merghem (FW)|https://images.fotmob.com/image_resources/playerimages/780589.png","Zachary Sapsford (FW)|https://images.fotmob.com/image_resources/playerimages/1409171.png","Daniel Bennie (FW)|https://images.fotmob.com/image_resources/playerimages/1565859.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-3-3"
+homeCoach: "Alfred Johansson|https://images.fotmob.com/image_resources/playerimages/1601611.png"
+awayCoach: "Jim Goodwin|https://images.fotmob.com/image_resources/playerimages/23660.png"
+pickWinTeam: "마더웰"
+pickWinResult: "승"
+pickHandicapTeam: "마더웰"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

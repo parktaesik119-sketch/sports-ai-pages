@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 세인트루이스 카디널스 경기분석·라인업·결장자·통계·승부예측 (9월 2일) | MLB - 픽천국"
+date: 2026-09-02T02:10:00.000Z
+description: "LA 다저스 vs 세인트루이스 카디널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260902SLLA0-2026-09-02-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "세인트루이스 카디널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+homeAnalysis: "LA 다저스는 2026시즌 최근 89경기 54승 35패, 승률 .599로 리그순위 2위를 유지하고 있고 평균 득점 4.9로 꾸준한 공격 생산력을 보여주고 있습니다. 최근 10경기에서는 6승 4패로 버티고 있으나, 강한 상대를 만나면 득점 기복이 조금 드러나는 흐름도 함께 보입니다. 그래도 홈에서는 장타와 연결 타격이 살아날 때 경기 주도권을 빠르게 가져오는 모습이 분명합니다. 특히 최근 경기들에서 6득점과 2득점 승리가 섞여 있어, 득점 상한은 높지만 흐름이 매끈하게 이어지지는 않는 편입니다. 수비 쪽에서는 실점 억제력이 기본은 갖춰져 있으나, 연패 구간에서는 한 번 무너질 때 점수가 크게 벌어지는 장면도 있었습니다. 결장자 중 윌 스미스와 개빈 스톤 같은 핵심 자원의 공백은 타선 완성도와 마운드 안정감에 부담으로 작용하고 있습니다."
+awayAnalysis: "세인트루이스 카디널스는 2026시즌 최근 93경기 39승 1무 53패, 승률 .493으로 리그순위 9위에 머물고 있으며 평균 득점 4.3을 기록하고 있습니다. 최근 10경기에서는 2승 8패로 흐름이 좋지 않아, 순위와 최근 전력이 함께 가라앉아 있는 모습입니다. 다만 경기마다 7득점과 10득점이 나오는 장면도 있어 공격 잠재력 자체는 완전히 사라지지 않았습니다. 문제는 그만큼 실점 억제가 따라오지 못해, 득점이 나와도 승부를 끝내지 못하는 경우가 많다는 점입니다. 원정에서는 흐름이 더 불안해지는 편이고, 최근 대량 실점이 반복되면서 경기 운영의 안정감이 흔들리고 있습니다. 마신 윈과 안드레 팔란테의 결장은 수비와 마운드 축 모두에 부담을 주고 있어, 전반적으로 반등 조짐이 있어도 완성도는 아직 낮아 보입니다."
+homePower: "리그순위 2위지만 최근 전력은 들쭉날쭉함|장타 생산은 유지, 경기별 편차가 변수임|핵심 결장으로 타선 응집력은 다소 약화됨|홈에서는 초반 주도권 잡을 때 강세가 뚜렷함|실점 억제는 가능하나 연쇄 실점 위험도 보임"
+awayPower: "리그순위 9위지만 최근 공격은 반등 기미 있음|다득점 가능성은 있으나 수비 흔들림이 더 큼|마운드 공백이 커서 경기 후반 안정감 저하됨|원정에서 실점 관리 실패가 반복되는 모습임|상위권 상대로는 버티기보다 맞불 양상에 취약함"
+h2h: '[{"date":"26.05.04","home":"세인트루이스 카디널스","away":"LA 다저스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-178515-2026-05-04-st-louis-cardinals/"},{"date":"26.05.03","home":"세인트루이스 카디널스","away":"LA 다저스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-178497-2026-05-03-st-louis-cardinals/"},{"date":"26.05.02","home":"세인트루이스 카디널스","away":"LA 다저스","score":"7-2"}]'
+summary: "LA 다저스는 리그순위 2위답게 시즌 전체 전력에서는 분명히 상위권의 무게감을 갖고 있지만, 최근 흐름이 완전히 매끄럽지는 않아 안정적인 우세로만 보기는 어렵습니다. 반면 세인트루이스 카디널스는 리그순위 9위와 최근 10경기 2승 8패가 보여주듯 전반적인 하락세가 뚜렷하지만, 직전 맞대결에서 한 차례 강하게 밀어붙인 이력이 있어 상성상 완전히 눌리는 그림은 아닙니다. 다만 시즌 득실과 최근 실점 흐름을 함께 보면 LA 다저스가 타선 회복만 해내면 경기 주도권을 가져갈 가능성이 높고, 세인트루이스 카디널스는 공격보다 마운드 버팀목이 더 중요한 흐름으로 보입니다. 전체적으로는 원정팀이 상대전적의 기세를 일부 이어가며 근소한 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.08.31","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831LADE0-2026-08-31-detroit-tigers/"},{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"},{"date":"26.08.29","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829LADE0-2026-08-29-detroit-tigers/"},{"date":"26.08.28","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828LAAT0-2026-08-28-atlanta-braves/"},{"date":"26.08.27","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827LAAT0-2026-08-27-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"},{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.28","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals/"},{"date":"26.08.27","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BASL0-2026-08-27-st-louis-cardinals/"},{"date":"26.08.26","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"1-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826BASL0-2026-08-26-st-louis-cardinals/"}]'
+injuryHome: "Will Smith (염증)|Justin Wrobleski (염증)|Gavin Stone (염증)|Will Klein (통증)|Bobby Miller (통증)"
+injuryAway: "Masyn Winn (골절)|Everson Pereira (타박상)|Andre Pallante (염증)|JJ Wetherholt (건염)|Peter Strzelecki (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---
