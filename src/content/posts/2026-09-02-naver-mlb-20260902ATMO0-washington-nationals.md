@@ -1,0 +1,37 @@
+---
+title: "워싱턴 내셔널스 vs 애틀랜타 브레이브스 경기분석·라인업·결장자·통계·승부예측 (9월 2일) | MLB - 픽천국"
+date: 2026-09-01T22:45:00.000Z
+description: "워싱턴 내셔널스 vs 애틀랜타 브레이브스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "워싱턴 내셔널스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "워싱턴 내셔널스는 2026시즌 최근 105경기에서 51승 52패 2무, 승률 .490, 평균 득점 4.8을 기록하고 있어 시즌 흐름이 완전히 무너지지 않은 상태입니다. 최근 10경기에서도 5승 5패로 버티고 있으며, 직전 마이애미 말린스전과 콜로라도 로키스전에서 공격 폭발력이 살아난 장면이 확인됩니다. 다만 같은 구간에서 대량 실점 경기와 접전 패배가 함께 나와 수비 안정감은 흔들리는 편입니다. 홈에서는 득점이 비교적 잘 나오는 흐름이어서 초반에 타선이 풀리면 경기를 끌고 갈 힘은 있습니다. CJ Abrams와 James Wood의 공백은 출루와 장타 연결에서 부담이 될 수 있지만, 그래도 홈에서는 중하위 타선까지 득점에 가담하는 장면이 보이고 있습니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 101경기에서 56승 43패 2무, 승률 .566, 평균 득점 4.3으로 시즌 전반의 완성도가 높은 편입니다. 최근 10경기에서도 7승 3패를 기록하며 강팀다운 안정감을 유지하고 있고, 강한 상대를 상대로도 접전 운영이 이어지고 있습니다. 다만 직전 경기에서 샌프란시스코 자이언츠에 패했고, 그 이전 구간에서는 저득점 승부가 많아 타선 폭발력보다는 투수진 중심의 경기 운영이 돋보입니다. 리그순위 3위와 득실격차 +113은 여전히 상위권 전력임을 보여주지만, 최근 흐름은 고점 대비 다소 주춤한 모습도 함께 보입니다. Spencer Strider와 Reynaldo Lopez 같은 핵심 전력 이탈은 마운드 깊이에 부담이 되고, Jurickson Profar의 결장까지 겹쳐 공격 전개도 조금은 무거워질 수 있습니다."
+homePower: "홈에서 득점 생산이 흔들리지 않는 편임|접전과 대량실점이 섞여 변동성은 큼|최근 강팀 상대로도 한 방은 유지됨|상위권 상성보다 중하위권 상대에 강점 보임|주요 타선 결장으로 상단 파괴력은 약화됨"
+awayPower: "리그순위 3위답게 시즌 누적 완성도 높음|저득점 승부를 지키는 마운드 운영이 강점임|강한 상대 상대로도 접전 대응력 검증됨|핵심 불펜 결장으로 후반 잠금은 약해질 수 있음|최근 득점 저하로 폭발력보다 효율이 중요함"
+h2h: '[{"date":"26.08.03","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-179699-2026-08-03-atlanta-braves/"},{"date":"26.08.02","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"8-3","link":"https://pick79.com/posts/detail/analyze-179683-2026-08-02-atlanta-braves/"},{"date":"26.08.01","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-179669-2026-08-01-atlanta-braves/"},{"date":"26.07.31","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-179654-2026-07-31-atlanta-braves/"},{"date":"26.05.25","home":"애틀랜타 브레이브스","away":"워싱턴 내셔널스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-178806-2026-05-25-atlanta-braves/"}]'
+summary: "워싱턴 내셔널스는 2026시즌 리그순위 11위지만 최근 10경기 5승 5패와 평균 득점 4.8을 바탕으로 홈에서 반등 기류를 이어가고 있습니다. 애틀랜타 브레이브스는 리그순위 3위와 득실격차 +113이 말해주듯 시즌 전체 전력은 더 단단하지만, 최근 10경기 평균 득점 3.1로 타선의 무게감은 다소 줄어든 모습입니다. 상대전적에서는 애틀랜타 브레이브스가 우세를 지키고 있으나, 워싱턴 내셔널스도 홈에서 공격 흐름을 살릴 여지가 있어 전력 차이가 생각보다 크게 벌어지지는 않아 보입니다. 다만 핵심 결장자 규모와 최근 경기 내용까지 함께 보면, 전체적인 안정감과 마무리 힘에서는 애틀랜타 브레이브스 쪽이 조금 더 앞서 있다고 보는 편이 자연스럽습니다."
+homeRecent: '[{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"},{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"},{"date":"26.08.29","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829FLMO0-2026-08-29-washington-nationals/"},{"date":"26.08.28","home":"워싱턴 내셔널스","away":"콜로라도 로키스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828COMO0-2026-08-28-washington-nationals/"}]'
+awayRecent: '[{"date":"26.09.01","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SFAT0-2026-09-01-atlanta-braves/"},{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831COAT0-2026-08-31-atlanta-braves/"},{"date":"26.08.30","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830COAT0-2026-08-30-atlanta-braves/"},{"date":"26.08.29","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829COAT0-2026-08-29-atlanta-braves/"},{"date":"26.08.28","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828LAAT0-2026-08-28-atlanta-braves/"}]'
+injuryHome: "CJ Abrams (통증)|Drew Millas (골절)|James Wood (염좌)|Richard Lovelady (염좌)|Cade Cavalli (통증)"
+injuryAway: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (출장 정지)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

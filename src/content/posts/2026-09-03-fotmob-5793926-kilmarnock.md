@@ -1,0 +1,37 @@
+---
+title: "킬마녹 vs 세인트 미렌 경기분석·라인업·결장자·통계·승부예측 (9월 3일) | Premiership - 픽천국"
+date: 2026-09-02T18:45:00.000Z
+description: "킬마녹 vs 세인트 미렌 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5793926-2026-09-03-kilmarnock"
+category: "soccer"
+country: "스코틀랜드"
+league: "Premiership"
+homeTeam: "킬마녹"
+awayTeam: "세인트 미렌"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8597.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9800.png"
+homeAnalysis: "킬마녹은 2026시즌 최근 12경기에서 6승 3무 3패, 평균 득점 1.7을 기록하며 승리와 실점을 함께 관리하는 흐름이 보입니다. 다만 최근에는 던디 유나이티드전 0대4 패배와 셀틱전 1대5 패배처럼 수비가 크게 흔들린 장면도 있어, 경기 내 집중력 유지가 중요해 보입니다. 그럼에도 에어 유나이티드전 3대2 승리와 해밀턴 아카데미컬전 1대0 승리처럼 홈에서는 필요한 순간 득점을 만들며 흐름을 잡는 장면이 있습니다. 로비 디어스의 결장은 수비진 운용에 부담이 될 수 있지만, 마크 오하라와 그렉 킬티가 중원을 정리해 주면 전개 안정감은 어느 정도 유지될 수 있습니다. 조 허길과 티리스 존-쥘스가 전방에서 움직임을 가져가면, 홈에서 상대 뒷공간을 공략하는 장면이 충분히 기대됩니다."
+awayAnalysis: "세인트 미렌은 2026시즌 최근 12경기에서 6승 3무 3패, 평균 득점 2.1로 공격 쪽 완성도가 한층 돋보입니다. 최근 레인저스전 1대5 패배는 수비 부담을 드러냈지만, 모턴전과 퍼틀릭전, 포커스가 필요한 경기들에서 이어진 득점 흐름은 꾸준함을 보여주고 있습니다. 특히 번뜩이는 장면이 나올 때는 여러 득점 루트가 함께 작동하고 있어, 한 명에게만 의존하지 않는 전개가 강점으로 평가됩니다. 다만 리암 도넬리, 말릭 디크스틸, 요나 아웅가, 키아누 바커스의 결장은 중원과 전방의 연결, 그리고 수비 밸런스에 모두 영향을 줄 수 있습니다. 크리스 모크리와 니콜라스 아그라피오티스가 전방에서 활로를 만들고, 파울 은시오와 사무엘 라모스가 중간 지점을 잘 받쳐 주면 원정에서도 공격 주도권을 가져갈 가능성이 있습니다."
+homePower: "홈에서 필요한 순간 득점 생산은 가능한 구조임|수비 흔들림은 크지만 홈 반응 속도는 빠름|마크 오하라 중심 중원 정리가 핵심임|조 허길-티리스 존-쥘스 연계가 변수임|로비 디어스 결장으로 뒷공간 관리 과제 있음"
+awayPower: "세인트 미렌은 득점 루트가 비교적 다양함|원정에서도 공격 템포를 유지하는 편임|크리스 모크리 중심 전방 전개가 살아 있음|핵심 결장자 다수로 중원 균형은 약화됨|레인저스전 흔들림 뒤 반등 응답이 중요함"
+h2h: '[{"date":"26.05.09","home":"세인트 미렌","away":"킬마녹","score":"0-3","link":"https://pick79.com/posts/detail/analyze-1540013-2026-05-09-st-mirren/"},{"date":"26.02.12","home":"킬마녹","away":"세인트 미렌","score":"4-3"},{"date":"25.12.28","home":"세인트 미렌","away":"킬마녹","score":"0-0"},{"date":"25.10.04","home":"킬마녹","away":"세인트 미렌","score":"2-0"},{"date":"25.09.20","home":"킬마녹","away":"세인트 미렌","score":"2-2"}]'
+summary: "두 팀 모두 2026시즌 최근 12경기에서 6승 3무 3패를 기록하고 있지만, 평균 득점은 세인트 미렌이 2.1로 킬마녹의 1.7보다 앞서 있어 공격 전개에서는 원정팀 쪽이 조금 더 날카롭게 보입니다. 반면 킬마녹은 홈 경기에서 필요한 순간에는 결과를 만들 수 있는 힘이 있고, 세인트 미렌은 여러 핵심 결장자가 겹치면서 전방과 중원 균형이 다소 약해진 모습입니다. 상대전적에서는 킬마녹이 최근 맞대결에서 우세한 흐름을 이어가고 있어, 이번 경기도 전체적인 상성과 홈 이점을 감안하면 킬마녹이 조금 더 좋은 위치에 있는 경기로 판단됩니다. 다만 세인트 미렌의 공격 전개가 살아나는 순간은 충분히 위협적이어서, 초반 실점 관리가 승부의 핵심이 될 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Robbie Deas (발 부상)"
+injuryAway: "Liam Donnelly (사타구니 부상)|Malik Dijksteel (햄스트링 부상)|Jonah Ayunga (십자 인대 부상)|Keanu Baccus (아킬레스건 부상)"
+homeLineup: '["Maksymilian Stryjek (GK)|https://images.fotmob.com/image_resources/playerimages/609751.png","Jonathan Meier (DF)|https://images.fotmob.com/image_resources/playerimages/939399.png","Cathal McCarthy (DF)|https://images.fotmob.com/image_resources/playerimages/1683723.png","Robbie Deas (DF)|https://images.fotmob.com/image_resources/playerimages/959609.png","Michael Schjønning-Larsen (DF)|https://images.fotmob.com/image_resources/playerimages/1215622.png","Nicky Clescenco (FW)|https://images.fotmob.com/image_resources/playerimages/1293151.png","Mark O’Hara (MF)|https://images.fotmob.com/image_resources/playerimages/384144.png","Tom Lowery (MF)|https://images.fotmob.com/image_resources/playerimages/798596.png","Greg Kiltie (MF)|https://images.fotmob.com/image_resources/playerimages/448812.png","Joe Hugill (FW)|https://images.fotmob.com/image_resources/playerimages/1113699.png","Tyreece John-Jules (FW)|https://images.fotmob.com/image_resources/playerimages/961993.png"]'
+awayLineup: '["Jacob Chapman (GK)|https://images.fotmob.com/image_resources/playerimages/1130329.png","Calvin Ramsay (DF)|https://images.fotmob.com/image_resources/playerimages/1076952.png","Alex Gogic (DF)|https://images.fotmob.com/image_resources/playerimages/684738.png","Henry Fieldson (DF)|https://images.fotmob.com/image_resources/playerimages/1245746.png","Declan John (MF)|https://images.fotmob.com/image_resources/playerimages/410359.png","Ryan Carr (MF)|https://images.fotmob.com/image_resources/playerimages/1364021.png","Paul Nsio (MF)|https://images.fotmob.com/image_resources/playerimages/1709059.png","Samuel Ramos (MF)|https://images.fotmob.com/image_resources/playerimages/1610893.png","Chris Mochrie (FW)|https://images.fotmob.com/image_resources/playerimages/1047227.png","Ismeal Kabia (MF)|https://images.fotmob.com/image_resources/playerimages/1473063.png","Nikolas Agrafiotis (FW)|https://images.fotmob.com/image_resources/playerimages/1180316.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Neil McCann|https://images.fotmob.com/image_resources/playerimages/25434.png"
+awayCoach: "Craig McLeish|https://images.fotmob.com/image_resources/playerimages/229982.png"
+pickWinTeam: "킬마녹"
+pickWinResult: "승"
+pickHandicapTeam: "킬마녹"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

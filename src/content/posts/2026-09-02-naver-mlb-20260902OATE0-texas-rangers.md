@@ -1,0 +1,37 @@
+---
+title: "텍사스 레인저스 vs 애슬레틱스 경기분석·라인업·결장자·통계·승부예측 (9월 2일) | MLB - 픽천국"
+date: 2026-09-02T00:05:00.000Z
+description: "텍사스 레인저스 vs 애슬레틱스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260902OATE0-2026-09-02-texas-rangers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "텍사스 레인저스"
+awayTeam: "애슬레틱스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+homeAnalysis: "텍사스 레인저스는 2026시즌 42승 51패 승률 .493에 평균 3.9득점을 기록하고 있으며, 리그순위 8위로 중위권 경쟁을 이어가고 있습니다. 최근에는 득점이 4.8점대로 올라오면서 공격 흐름이 분명히 살아나는 모습이 보입니다. 다만 시즌 전체 득실이 -44로 나타나듯, 경기 운영은 가능하지만 수비 쪽에서 흔들리는 장면이 적지 않았습니다. 홈에서는 강한 타선으로 흐름을 끌어올릴 때가 있고, 최근 애슬레틱스를 상대로 8득점 승리를 거둔 점도 긍정적으로 보입니다. 다만 중요한 내야 자원인 조시 정과 주전 포수 카일 히가시오카의 이탈은 중심 타선과 배터리 운영에 부담이 될 수 있어, 선발 이후 불펜 안정감이 승부의 관건으로 보입니다."
+awayAnalysis: "애슬레틱스는 2026시즌 32승 55패 승률 .384에 평균 4.4득점을 기록하고 있으며, 리그순위 14위로 하위권에 머물고 있습니다. 최근에는 4.6득점 수준을 유지하면서도 승패가 자주 갈리는 편이라, 공격은 어느 정도 버티지만 마운드 쪽 불안이 더 크게 드러나고 있습니다. 시즌 득실이 -198로 크게 벌어져 있어, 경기 후반으로 갈수록 상대에게 흐름을 내주는 장면이 많았던 점이 눈에 띕니다. 원정에서도 큰 점수차 패배와 접전 승리가 섞여 있어 기복이 분명하고, 특히 최근 텍사스 레인저스 원정에서는 초반부터 실점이 늘어나는 모습이 있었습니다. 셰이 랭글리어스와 닉 커츠의 결장은 중심 전력 손실로 이어질 수 있어, 타선의 연결성과 장타 기대치가 동시에 떨어질 가능성이 있습니다."
+homePower: "최근 득점 상승으로 타선 응집력 회복 조짐임|득실 -44는 장기적 수비 불안 신호임|조시 정 공백으로 중심 내야 완성도 저하음|홈에서 강한 경기와 무너진 경기가 공존함|애슬레틱스 상대로 최근 화력 우위 재확인됨"
+awayPower: "평균 득점은 유지되나 마운드 붕괴가 더 큼|득실 -198은 경기 후반 대응력 약함을 보여줌|주전 결장으로 장타와 출루 연결성 약화됨|원정 기복이 커서 흐름 타면 길게 이어지지 않음|최근 텍사스 레인저스전 실점 관리 실패가 반복됨"
+h2h: '[{"date":"26.09.01","home":"텍사스 레인저스","away":"애슬레틱스","score":"8-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901OATE0-2026-09-01-texas-rangers/"},{"date":"26.08.17","home":"애슬레틱스","away":"텍사스 레인저스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817TEOA0-2026-08-17-athletics/"},{"date":"26.08.16","home":"애슬레틱스","away":"텍사스 레인저스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.08.15","home":"애슬레틱스","away":"텍사스 레인저스","score":"8-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815TEOA0-2026-08-15-athletics/"},{"date":"26.04.27","home":"텍사스 레인저스","away":"애슬레틱스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-178418-2026-04-27-texas-rangers/"}]'
+summary: "텍사스 레인저스는 시즌 성적과 최근 공격 흐름에서 애슬레틱스보다 한 단계 나은 전력을 보여주고 있습니다. 애슬레틱스는 평균 득점이 나쁘지 않아도 시즌 득실 격차가 크게 벌어져 있어, 안정적인 경기 운영에서는 분명한 약점이 드러나고 있습니다. 맞대결에서는 애슬레틱스가 시리즈 우세를 잡고 있지만, 최근 8월과 9월 흐름에서는 텍사스 레인저스가 타선 집중력을 끌어올리며 반격의 실마리를 만든 모습입니다. 그래서 전체적인 전력 균형과 최근 흐름을 함께 보면 텍사스 레인저스가 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.01","home":"텍사스 레인저스","away":"애슬레틱스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901OATE0-2026-09-01-texas-rangers/"},{"date":"26.08.31","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831TEMI0-2026-08-31-milwaukee-brewers/"},{"date":"26.08.30","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830TEMI0-2026-08-30-milwaukee-brewers/"},{"date":"26.08.29","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829TEMI0-2026-08-29-milwaukee-brewers/"},{"date":"26.08.27","home":"시카고 화이트삭스","away":"텍사스 레인저스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827TECW0-2026-08-27-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.09.01","home":"텍사스 레인저스","away":"애슬레틱스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901OATE0-2026-09-01-texas-rangers/"},{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 오리올스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BAOA0-2026-08-31-athletics/"},{"date":"26.08.29","home":"애슬레틱스","away":"볼티모어 오리올스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BAOA0-2026-08-29-athletics/"},{"date":"26.08.27","home":"애슬레틱스","away":"미네소타 트윈스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MNOA0-2026-08-27-athletics/"},{"date":"26.08.26","home":"애슬레틱스","away":"미네소타 트윈스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826MNOA0-2026-08-26-athletics/"}]'
+injuryHome: "Michael Helman (골절)|Josh Jung (부상)|Robert Garcia (염증)|Kyle Higashioka (부상)|Carter Baumler (부상)"
+injuryAway: "Denzel Clarke (부상)|Joshua Kuroda-Grauer (수술)|Brooks Kriske (신경 압박)|Shea Langeliers (수술)|Nick Kurtz (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "텍사스 레인저스"
+pickWinResult: "승"
+pickHandicapTeam: "텍사스 레인저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

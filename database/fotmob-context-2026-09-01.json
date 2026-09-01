@@ -2521,30 +2521,9 @@
           "name": "Benoît Badiashile",
           "status": "부상",
           "detail": "About a week"
-        },
-        {
-          "name": "Pasquale Mazzocchi",
-          "status": "무릎 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Alessandro Buongiorno",
-          "status": "연골 파열",
-          "detail": "Early October 2026"
-        },
-        {
-          "name": "Luca Marianucci",
-          "status": "부상",
-          "detail": "Mid October 2026"
         }
       ],
-      "away": [
-        {
-          "name": "Jayden Addai",
-          "status": "아킬레스건 부상",
-          "detail": "Early September 2026"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -4219,13 +4198,7 @@
     "league": "Saudi Pro League",
     "injuries": {
       "home": [],
-      "away": [
-        {
-          "name": "Mohammed Harbush",
-          "status": "십자 인대 부상",
-          "detail": "Early September 2026"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -5225,363 +5198,6 @@
     }
   },
   {
-    "home": "Aston Villa",
-    "away": "Arsenal",
-    "date": "2026-08-31T19:00:00.000Z",
-    "league": "Premier League",
-    "injuries": {
-      "home": [
-        {
-          "name": "Amadou Onana",
-          "status": "십자 인대 부상",
-          "detail": "Mid April 2027"
-        },
-        {
-          "name": "João Gomes",
-          "status": "부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Johan Manzambi",
-          "status": "무릎 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Brian Madjo",
-          "status": "충돌 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Leon Bailey",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        }
-      ],
-      "away": [
-        {
-          "name": "Jurriën Timber",
-          "status": "발목 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "William Saliba",
-          "status": "등 부상",
-          "detail": "Mid October 2026"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2025-12-30T20:15:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-12-06T12:30:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-01-18T17:30:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-08-24T16:30:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-04-14T15:30:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-12-09T17:30:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2023-02-18T12:30:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 2,
-        "awayScore": 4
-      },
-      {
-        "date": "2022-08-31T18:30:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-03-19T12:30:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-10-22T19:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-02-06T12:30:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-11-08T19:15:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2020-07-21T19:15:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-09-22T15:30:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 3,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-05-15T14:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-12-13T13:30:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-05-30T16:30:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-02-01T13:30:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 5,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-09-20T14:00:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2014-01-13T20:00:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-08-17T14:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2013-02-23T15:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-11-24T17:30:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-03-24T15:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-01-29T16:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 3,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-12-21T19:45:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-05-15T15:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2010-11-27T12:45:00.000Z",
-        "home": "Aston Villa",
-        "away": "Arsenal",
-        "homeScore": 2,
-        "awayScore": 4
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-04T13:00:00.000Z",
-          "home": "BG Pathum United",
-          "away": "Aston Villa",
-          "homeScore": 1,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-07T12:00:00.000Z",
-          "home": "Bayern München",
-          "away": "Aston Villa",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-12T19:00:00.000Z",
-          "home": "Paris Saint-Germain",
-          "away": "Aston Villa",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-15T13:30:00.000Z",
-          "home": "Borussia Mönchengladbach",
-          "away": "Aston Villa",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-23T13:00:00.000Z",
-          "home": "Brighton & Hove Albion",
-          "away": "Aston Villa",
-          "homeScore": 4,
-          "awayScore": 0
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-05T18:45:00.000Z",
-          "home": "Arsenal",
-          "away": "Real Betis",
-          "homeScore": 1,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-09T13:00:00.000Z",
-          "home": "Arsenal",
-          "away": "Borussia Dortmund",
-          "homeScore": 2,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-12T18:30:00.000Z",
-          "home": "Arsenal",
-          "away": "Como",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-16T14:00:00.000Z",
-          "home": "Arsenal",
-          "away": "Manchester City",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-21T19:00:00.000Z",
-          "home": "Arsenal",
-          "away": "Coventry City",
-          "homeScore": 3,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Zion Suzuki (GK)|https://images.fotmob.com/image_resources/playerimages/1053679.png",
-        "Matty Cash (DF)|https://images.fotmob.com/image_resources/playerimages/729731.png",
-        "Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png",
-        "Pau Torres (DF)|https://images.fotmob.com/image_resources/playerimages/792645.png",
-        "Ian Maatsen (DF)|https://images.fotmob.com/image_resources/playerimages/966026.png",
-        "Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png",
-        "Ross Barkley (MF)|https://images.fotmob.com/image_resources/playerimages/215384.png",
-        "John McGinn (FW)|https://images.fotmob.com/image_resources/playerimages/356406.png",
-        "Emiliano Buendía (FW)|https://images.fotmob.com/image_resources/playerimages/610184.png",
-        "George Hemmings (MF)|https://images.fotmob.com/image_resources/playerimages/1607333.png",
-        "Nicolas Jackson (FW)|https://images.fotmob.com/image_resources/playerimages/1197347.png"
-      ],
-      "away": [
-        "David Raya (GK)|https://images.fotmob.com/image_resources/playerimages/562727.png",
-        "Ben White (DF)|https://images.fotmob.com/image_resources/playerimages/776151.png",
-        "Cristhian Mosquera (DF)|https://images.fotmob.com/image_resources/playerimages/1298907.png",
-        "Gabriel (DF)|https://images.fotmob.com/image_resources/playerimages/795179.png",
-        "Riccardo Calafiori (DF)|https://images.fotmob.com/image_resources/playerimages/1105912.png",
-        "Declan Rice (MF)|https://images.fotmob.com/image_resources/playerimages/654096.png",
-        "Myles Lewis-Skelly (DF)|https://images.fotmob.com/image_resources/playerimages/1406436.png",
-        "Bukayo Saka (FW)|https://images.fotmob.com/image_resources/playerimages/961995.png",
-        "Martin Ødegaard (MF)|https://images.fotmob.com/image_resources/playerimages/534670.png",
-        "Christos Tzolis (FW)|https://images.fotmob.com/image_resources/playerimages/1157237.png",
-        "Kai Havertz (FW)|https://images.fotmob.com/image_resources/playerimages/749736.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png",
-      "away": "Mikel Arteta|https://images.fotmob.com/image_resources/playerimages/24011.png"
-    }
-  },
-  {
     "home": "Osasuna",
     "away": "Getafe",
     "date": "2026-08-31T17:30:00.000Z",
@@ -6209,6 +5825,363 @@
     }
   },
   {
+    "home": "Aston Villa",
+    "away": "Arsenal",
+    "date": "2026-08-31T19:00:00.000Z",
+    "league": "Premier League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Amadou Onana",
+          "status": "십자 인대 부상",
+          "detail": "Mid April 2027"
+        },
+        {
+          "name": "João Gomes",
+          "status": "부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Johan Manzambi",
+          "status": "무릎 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Brian Madjo",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Leon Bailey",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jurriën Timber",
+          "status": "발목 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "William Saliba",
+          "status": "등 부상",
+          "detail": "Mid October 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2025-12-30T20:15:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-12-06T12:30:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-01-18T17:30:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-08-24T16:30:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-04-14T15:30:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-12-09T17:30:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-02-18T12:30:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 2,
+        "awayScore": 4
+      },
+      {
+        "date": "2022-08-31T18:30:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-03-19T12:30:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-10-22T19:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-02-06T12:30:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-11-08T19:15:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2020-07-21T19:15:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-09-22T15:30:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-05-15T14:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-12-13T13:30:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-05-30T16:30:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-02-01T13:30:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 5,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-09-20T14:00:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2014-01-13T20:00:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-08-17T14:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2013-02-23T15:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-11-24T17:30:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-03-24T15:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-01-29T16:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2011-12-21T19:45:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2011-05-15T15:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Aston Villa",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2010-11-27T12:45:00.000Z",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "homeScore": 2,
+        "awayScore": 4
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-04T13:00:00.000Z",
+          "home": "BG Pathum United",
+          "away": "Aston Villa",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-07T12:00:00.000Z",
+          "home": "Bayern München",
+          "away": "Aston Villa",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-12T19:00:00.000Z",
+          "home": "Paris Saint-Germain",
+          "away": "Aston Villa",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-15T13:30:00.000Z",
+          "home": "Borussia Mönchengladbach",
+          "away": "Aston Villa",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-23T13:00:00.000Z",
+          "home": "Brighton & Hove Albion",
+          "away": "Aston Villa",
+          "homeScore": 4,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-05T18:45:00.000Z",
+          "home": "Arsenal",
+          "away": "Real Betis",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-09T13:00:00.000Z",
+          "home": "Arsenal",
+          "away": "Borussia Dortmund",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-12T18:30:00.000Z",
+          "home": "Arsenal",
+          "away": "Como",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-16T14:00:00.000Z",
+          "home": "Arsenal",
+          "away": "Manchester City",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-21T19:00:00.000Z",
+          "home": "Arsenal",
+          "away": "Coventry City",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Zion Suzuki (GK)|https://images.fotmob.com/image_resources/playerimages/1053679.png",
+        "Matty Cash (DF)|https://images.fotmob.com/image_resources/playerimages/729731.png",
+        "Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png",
+        "Pau Torres (DF)|https://images.fotmob.com/image_resources/playerimages/792645.png",
+        "Ian Maatsen (DF)|https://images.fotmob.com/image_resources/playerimages/966026.png",
+        "Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png",
+        "Ross Barkley (MF)|https://images.fotmob.com/image_resources/playerimages/215384.png",
+        "John McGinn (FW)|https://images.fotmob.com/image_resources/playerimages/356406.png",
+        "Emiliano Buendía (FW)|https://images.fotmob.com/image_resources/playerimages/610184.png",
+        "George Hemmings (MF)|https://images.fotmob.com/image_resources/playerimages/1607333.png",
+        "Nicolas Jackson (FW)|https://images.fotmob.com/image_resources/playerimages/1197347.png"
+      ],
+      "away": [
+        "David Raya (GK)|https://images.fotmob.com/image_resources/playerimages/562727.png",
+        "Ben White (DF)|https://images.fotmob.com/image_resources/playerimages/776151.png",
+        "Cristhian Mosquera (DF)|https://images.fotmob.com/image_resources/playerimages/1298907.png",
+        "Gabriel (DF)|https://images.fotmob.com/image_resources/playerimages/795179.png",
+        "Riccardo Calafiori (DF)|https://images.fotmob.com/image_resources/playerimages/1105912.png",
+        "Declan Rice (MF)|https://images.fotmob.com/image_resources/playerimages/654096.png",
+        "Myles Lewis-Skelly (DF)|https://images.fotmob.com/image_resources/playerimages/1406436.png",
+        "Bukayo Saka (FW)|https://images.fotmob.com/image_resources/playerimages/961995.png",
+        "Martin Ødegaard (MF)|https://images.fotmob.com/image_resources/playerimages/534670.png",
+        "Christos Tzolis (FW)|https://images.fotmob.com/image_resources/playerimages/1157237.png",
+        "Kai Havertz (FW)|https://images.fotmob.com/image_resources/playerimages/749736.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png",
+      "away": "Mikel Arteta|https://images.fotmob.com/image_resources/playerimages/24011.png"
+    }
+  },
+  {
     "home": "Lecce",
     "away": "Roma",
     "date": "2026-08-31T16:30:00.000Z",
@@ -6801,6 +6774,410 @@
       "home": "Maurizio Sarri|https://images.fotmob.com/image_resources/playerimages/557567.png",
       "away": "Domenico Tedesco|https://images.fotmob.com/image_resources/playerimages/853795.png"
     }
+  },
+  {
+    "home": "Al Hilal",
+    "away": "Al Ahli",
+    "date": "2026-09-01T18:00:00.000Z",
+    "league": "Saudi Pro League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Salem Al-Dawsari",
+          "status": "부상",
+          "detail": "Early September 2026"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-03-18T19:00:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2026-02-02T17:30:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-09-19T18:00:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 3,
+        "awayScore": 3
+      },
+      {
+        "date": "2025-04-29T16:30:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2025-02-28T19:00:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2024-10-05T18:00:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-08-13T16:15:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-05-06T18:00:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-10-27T18:00:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-03-18T17:50:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-10-29T16:50:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-05-19T18:00:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-01-15T17:10:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-08-20T17:55:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2020-01-07T17:00:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-08-13T17:30:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-08-06T16:45:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 2,
+        "awayScore": 4
+      },
+      {
+        "date": "2019-04-12T17:45:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-12-21T12:15:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 4,
+        "awayScore": 3
+      },
+      {
+        "date": "2018-04-07T17:40:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-12-01T17:00:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-04-15T17:45:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-11-25T17:00:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-04-24T18:15:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-12-10T17:15:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-02-21T17:45:00.000Z",
+        "home": "Al Ahli",
+        "away": "Al Hilal",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-08-31T17:45:00.000Z",
+        "home": "Al Hilal",
+        "away": "Al Ahli",
+        "homeScore": 0,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-21T18:00:00.000Z",
+          "home": "Al-Fayha",
+          "away": "Al Hilal",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-14T18:00:00.000Z",
+          "home": "Al Hilal",
+          "away": "Al-Faisaly",
+          "homeScore": 4,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-17T18:00:00.000Z",
+          "home": "Al-Raed",
+          "away": "Al Hilal",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-20T18:00:00.000Z",
+          "home": "Al-Fayha",
+          "away": "Al Hilal",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-28T18:00:00.000Z",
+          "home": "Al Khaleej",
+          "away": "Al Hilal",
+          "homeScore": 1,
+          "awayScore": 5
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-13T18:00:00.000Z",
+          "home": "Al Diriyah",
+          "away": "Al Ahli",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-17T16:00:00.000Z",
+          "home": "Al Anwar",
+          "away": "Al Ahli",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-22T18:00:00.000Z",
+          "home": "Al Ahli",
+          "away": "Abha",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-26T18:00:00.000Z",
+          "home": "Al Ahli",
+          "away": "Auckland FC",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-29T16:05:00.000Z",
+          "home": "Al Kholood",
+          "away": "Al Ahli",
+          "homeScore": 3,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Yassine Bounou (GK)|https://images.fotmob.com/image_resources/playerimages/340020.png",
+        "Mohammed Mahzari (DF)|https://images.fotmob.com/image_resources/playerimages/1527135.png",
+        "Ali Lajami (DF)|https://images.fotmob.com/image_resources/playerimages/640284.png",
+        "Kalidou Koulibaly (DF)|https://images.fotmob.com/image_resources/playerimages/210428.png",
+        "Theo Hernández (DF)|https://images.fotmob.com/image_resources/playerimages/724371.png",
+        "Mohamed Kanno (MF)|https://images.fotmob.com/image_resources/playerimages/866373.png",
+        "Rúben Neves (MF)|https://images.fotmob.com/image_resources/playerimages/534684.png",
+        "Sergej Milinkovic-Savic (MF)|https://images.fotmob.com/image_resources/playerimages/463301.png",
+        "Sultan Mandash (FW)|https://images.fotmob.com/image_resources/playerimages/619824.png",
+        "Mohamed Meïté (FW)|https://images.fotmob.com/image_resources/playerimages/1693546.png",
+        "Crysencio Summerville (FW)|https://images.fotmob.com/image_resources/playerimages/941213.png"
+      ],
+      "away": [
+        "Édouard Mendy (GK)|https://images.fotmob.com/image_resources/playerimages/773229.png",
+        "Rayan Hamed (DF)|https://images.fotmob.com/image_resources/playerimages/1287535.png",
+        "Merih Demiral (DF)|https://images.fotmob.com/image_resources/playerimages/823078.png",
+        "Roger Ibañez (DF)|https://images.fotmob.com/image_resources/playerimages/862538.png",
+        "Saad Balobaid (DF)|https://images.fotmob.com/image_resources/playerimages/1188101.png",
+        "Valentin Atangana Edoa (MF)|https://images.fotmob.com/image_resources/playerimages/1439625.png",
+        "Artem Bondarenko (MF)|https://images.fotmob.com/image_resources/playerimages/1116325.png",
+        "Eduard Spertsyan (MF)|https://images.fotmob.com/image_resources/playerimages/938297.png",
+        "Trincão (MF)|https://images.fotmob.com/image_resources/playerimages/732282.png",
+        "Ivan Toney (FW)|https://images.fotmob.com/image_resources/playerimages/408987.png",
+        "Firas Al-Buraikan (FW)|https://images.fotmob.com/image_resources/playerimages/844226.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "4-3-3"
+    },
+    "coach": {
+      "home": "Simone Inzaghi|https://images.fotmob.com/image_resources/playerimages/25590.png",
+      "away": "Marino Pusic|https://images.fotmob.com/image_resources/playerimages/890130.png"
+    }
+  },
+  {
+    "home": "HEBC Hamburg",
+    "away": "Dortmund",
+    "date": "2026-09-01T18:45:00.000Z",
+    "league": "DFB Pokal",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Justin Lerma",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Giannis Konstantelias",
+          "status": "십자 인대 부상",
+          "detail": "Late May 2027"
+        },
+        {
+          "name": "Ramy Bensebaini",
+          "status": "부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Carney Chukwuemeka",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "status": "발목 부상",
+          "detail": "Mid September 2026"
+        },
+        {
+          "name": "Emre Can",
+          "status": "십자 인대 부상",
+          "detail": "Mid November 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [],
+      "away": [
+        {
+          "date": "2026-08-01T10:00:00.000Z",
+          "home": "FC Tokyo",
+          "away": "Borussia Dortmund",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-09T13:00:00.000Z",
+          "home": "Arsenal",
+          "away": "Borussia Dortmund",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-15T15:30:00.000Z",
+          "home": "Borussia Dortmund",
+          "away": "Roma",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-22T18:30:00.000Z",
+          "home": "Borussia Dortmund",
+          "away": "Bayern München",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-29T16:30:00.000Z",
+          "home": "Borussia Dortmund",
+          "away": "Hamburger SV",
+          "homeScore": 2,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
   },
   {
     "home": "Parma",
@@ -7448,410 +7825,6 @@
     }
   },
   {
-    "home": "HEBC Hamburg",
-    "away": "Dortmund",
-    "date": "2026-09-01T18:45:00.000Z",
-    "league": "DFB Pokal",
-    "injuries": {
-      "home": [],
-      "away": [
-        {
-          "name": "Justin Lerma",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Giannis Konstantelias",
-          "status": "십자 인대 부상",
-          "detail": "Late May 2027"
-        },
-        {
-          "name": "Ramy Bensebaini",
-          "status": "부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Carney Chukwuemeka",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Nico Schlotterbeck",
-          "status": "발목 부상",
-          "detail": "Mid September 2026"
-        },
-        {
-          "name": "Emre Can",
-          "status": "십자 인대 부상",
-          "detail": "Mid November 2026"
-        }
-      ]
-    },
-    "h2h": [],
-    "recent": {
-      "home": [],
-      "away": [
-        {
-          "date": "2026-08-01T10:00:00.000Z",
-          "home": "FC Tokyo",
-          "away": "Borussia Dortmund",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-09T13:00:00.000Z",
-          "home": "Arsenal",
-          "away": "Borussia Dortmund",
-          "homeScore": 2,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-15T15:30:00.000Z",
-          "home": "Borussia Dortmund",
-          "away": "Roma",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-22T18:30:00.000Z",
-          "home": "Borussia Dortmund",
-          "away": "Bayern München",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-29T16:30:00.000Z",
-          "home": "Borussia Dortmund",
-          "away": "Hamburger SV",
-          "homeScore": 2,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": null,
-    "formation": null,
-    "coach": null
-  },
-  {
-    "home": "Al Hilal",
-    "away": "Al Ahli",
-    "date": "2026-09-01T18:00:00.000Z",
-    "league": "Saudi Pro League",
-    "injuries": {
-      "home": [
-        {
-          "name": "Salem Al-Dawsari",
-          "status": "부상",
-          "detail": "Early September 2026"
-        }
-      ],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2026-03-18T19:00:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2026-02-02T17:30:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-09-19T18:00:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 3,
-        "awayScore": 3
-      },
-      {
-        "date": "2025-04-29T16:30:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2025-02-28T19:00:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2024-10-05T18:00:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-08-13T16:15:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-05-06T18:00:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-10-27T18:00:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-03-18T17:50:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 4,
-        "awayScore": 2
-      },
-      {
-        "date": "2021-10-29T16:50:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-05-19T18:00:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-01-15T17:10:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-08-20T17:55:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2020-01-07T17:00:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-08-13T17:30:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-08-06T16:45:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 2,
-        "awayScore": 4
-      },
-      {
-        "date": "2019-04-12T17:45:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-12-21T12:15:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 4,
-        "awayScore": 3
-      },
-      {
-        "date": "2018-04-07T17:40:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-12-01T17:00:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-04-15T17:45:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-11-25T17:00:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-04-24T18:15:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-12-10T17:15:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-02-21T17:45:00.000Z",
-        "home": "Al Ahli",
-        "away": "Al Hilal",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-08-31T17:45:00.000Z",
-        "home": "Al Hilal",
-        "away": "Al Ahli",
-        "homeScore": 0,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-05-21T18:00:00.000Z",
-          "home": "Al-Fayha",
-          "away": "Al Hilal",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-14T18:00:00.000Z",
-          "home": "Al Hilal",
-          "away": "Al-Faisaly",
-          "homeScore": 4,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-17T18:00:00.000Z",
-          "home": "Al-Raed",
-          "away": "Al Hilal",
-          "homeScore": 0,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-20T18:00:00.000Z",
-          "home": "Al-Fayha",
-          "away": "Al Hilal",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-28T18:00:00.000Z",
-          "home": "Al Khaleej",
-          "away": "Al Hilal",
-          "homeScore": 1,
-          "awayScore": 5
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-13T18:00:00.000Z",
-          "home": "Al Diriyah",
-          "away": "Al Ahli",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-17T16:00:00.000Z",
-          "home": "Al Anwar",
-          "away": "Al Ahli",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-22T18:00:00.000Z",
-          "home": "Al Ahli",
-          "away": "Abha",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-26T18:00:00.000Z",
-          "home": "Al Ahli",
-          "away": "Auckland FC",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-29T16:05:00.000Z",
-          "home": "Al Kholood",
-          "away": "Al Ahli",
-          "homeScore": 3,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Yassine Bounou (GK)|https://images.fotmob.com/image_resources/playerimages/340020.png",
-        "Mohammed Mahzari (DF)|https://images.fotmob.com/image_resources/playerimages/1527135.png",
-        "Ali Lajami (DF)|https://images.fotmob.com/image_resources/playerimages/640284.png",
-        "Kalidou Koulibaly (DF)|https://images.fotmob.com/image_resources/playerimages/210428.png",
-        "Theo Hernández (DF)|https://images.fotmob.com/image_resources/playerimages/724371.png",
-        "Mohamed Kanno (MF)|https://images.fotmob.com/image_resources/playerimages/866373.png",
-        "Rúben Neves (MF)|https://images.fotmob.com/image_resources/playerimages/534684.png",
-        "Sergej Milinkovic-Savic (MF)|https://images.fotmob.com/image_resources/playerimages/463301.png",
-        "Sultan Mandash (FW)|https://images.fotmob.com/image_resources/playerimages/619824.png",
-        "Mohamed Meïté (FW)|https://images.fotmob.com/image_resources/playerimages/1693546.png",
-        "Crysencio Summerville (FW)|https://images.fotmob.com/image_resources/playerimages/941213.png"
-      ],
-      "away": [
-        "Édouard Mendy (GK)|https://images.fotmob.com/image_resources/playerimages/773229.png",
-        "Rayan Hamed (DF)|https://images.fotmob.com/image_resources/playerimages/1287535.png",
-        "Merih Demiral (DF)|https://images.fotmob.com/image_resources/playerimages/823078.png",
-        "Roger Ibañez (DF)|https://images.fotmob.com/image_resources/playerimages/862538.png",
-        "Saad Balobaid (DF)|https://images.fotmob.com/image_resources/playerimages/1188101.png",
-        "Valentin Atangana Edoa (MF)|https://images.fotmob.com/image_resources/playerimages/1439625.png",
-        "Artem Bondarenko (MF)|https://images.fotmob.com/image_resources/playerimages/1116325.png",
-        "Eduard Spertsyan (MF)|https://images.fotmob.com/image_resources/playerimages/938297.png",
-        "Trincão (MF)|https://images.fotmob.com/image_resources/playerimages/732282.png",
-        "Ivan Toney (FW)|https://images.fotmob.com/image_resources/playerimages/408987.png",
-        "Firas Al-Buraikan (FW)|https://images.fotmob.com/image_resources/playerimages/844226.png"
-      ]
-    },
-    "formation": {
-      "home": "4-3-3",
-      "away": "4-3-3"
-    },
-    "coach": {
-      "home": "Simone Inzaghi|https://images.fotmob.com/image_resources/playerimages/25590.png",
-      "away": "Marino Pusic|https://images.fotmob.com/image_resources/playerimages/890130.png"
-    }
-  },
-  {
     "home": "FC Zürich",
     "away": "Young Boys",
     "date": "2026-09-01T18:30:00.000Z",
@@ -8461,6 +8434,146 @@
     }
   },
   {
+    "home": "VfL Osnabrück",
+    "away": "Bayern München",
+    "date": "2026-09-02T18:45:00.000Z",
+    "league": "DFB Pokal",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jonathan Wensing",
+          "status": "부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jamal Musiala",
+          "status": "병",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Serge Gnabry",
+          "status": "허벅지 부상",
+          "detail": "About 1-2 weeks"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-05-09T12:00:00.000Z",
+          "home": "VfL Osnabrück",
+          "away": "Ulm",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-16T11:30:00.000Z",
+          "home": "VfB Stuttgart II",
+          "away": "VfL Osnabrück",
+          "homeScore": 3,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-08-08T11:00:00.000Z",
+          "home": "FC Heidenheim",
+          "away": "VfL Osnabrück",
+          "homeScore": 4,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-15T11:00:00.000Z",
+          "home": "VfL Osnabrück",
+          "away": "Magdeburg",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-28T16:30:00.000Z",
+          "home": "Bochum",
+          "away": "VfL Osnabrück",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-07T12:00:00.000Z",
+          "home": "Bayern München",
+          "away": "Aston Villa",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-15T13:30:00.000Z",
+          "home": "Bayern München",
+          "away": "RB Leipzig",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-18T16:00:00.000Z",
+          "home": "FC Heidenheim",
+          "away": "Bayern München",
+          "homeScore": 2,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-08-22T18:30:00.000Z",
+          "home": "Borussia Dortmund",
+          "away": "Bayern München",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-28T18:30:00.000Z",
+          "home": "Bayern München",
+          "away": "VfB Stuttgart",
+          "homeScore": 5,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Jonas Krumrey (GK)|https://images.fotmob.com/image_resources/playerimages/1199140.png",
+        "Robin Fabinski (DF)|https://images.fotmob.com/image_resources/playerimages/1515922.png",
+        "Jannik Müller (DF)|https://images.fotmob.com/image_resources/playerimages/458620.png",
+        "Niklas Wiemann (DF)|https://images.fotmob.com/image_resources/playerimages/1052358.png",
+        "Patrick Kammerbauer (MF)|https://images.fotmob.com/image_resources/playerimages/775691.png",
+        "Fridolin Wagner (MF)|https://images.fotmob.com/image_resources/playerimages/673292.png",
+        "Bjarke Jacobsen (MF)|https://images.fotmob.com/image_resources/playerimages/391679.png",
+        "Ismail Badjie (MF)|https://images.fotmob.com/image_resources/playerimages/1663016.png",
+        "Adrian Beck (MF)|https://images.fotmob.com/image_resources/playerimages/794393.png",
+        "Leonhard Münst (MF)|https://images.fotmob.com/image_resources/playerimages/1250794.png",
+        "Robin Meißner (FW)|https://images.fotmob.com/image_resources/playerimages/964599.png"
+      ],
+      "away": [
+        "Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png",
+        "Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png",
+        "Dayot Upamecano (DF)|https://images.fotmob.com/image_resources/playerimages/658554.png",
+        "Min-Jae Kim (DF)|https://images.fotmob.com/image_resources/playerimages/828159.png",
+        "Alphonso Davies (DF)|https://images.fotmob.com/image_resources/playerimages/751202.png",
+        "Joshua Kimmich (MF)|https://images.fotmob.com/image_resources/playerimages/460632.png",
+        "Aleksandar Pavlovic (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png",
+        "Michael Olise (FW)|https://images.fotmob.com/image_resources/playerimages/1029063.png",
+        "Nathaniel Brown (DF)|https://images.fotmob.com/image_resources/playerimages/1395447.png",
+        "Luis Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/860914.png",
+        "Harry Kane (FW)|https://images.fotmob.com/image_resources/playerimages/194165.png"
+      ]
+    },
+    "formation": {
+      "home": "3-4-2-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Timo Schultz|https://images.fotmob.com/image_resources/playerimages/26963.png",
+      "away": "Vincent Kompany|https://images.fotmob.com/image_resources/playerimages/39027.png"
+    }
+  },
+  {
     "home": "Udinese",
     "away": "Venezia",
     "date": "2026-09-02T16:00:00.000Z",
@@ -8664,143 +8777,1219 @@
     }
   },
   {
-    "home": "VfL Osnabrück",
-    "away": "Bayern München",
-    "date": "2026-09-02T18:45:00.000Z",
-    "league": "DFB Pokal",
+    "home": "Grasshopper",
+    "away": "St. Gallen",
+    "date": "2026-09-02T18:30:00.000Z",
+    "league": "Super League",
     "injuries": {
       "home": [
         {
-          "name": "Jonathan Wensing",
-          "status": "부상",
-          "detail": "Doubtful"
+          "name": "Tim Meyer",
+          "status": "충돌 부상",
+          "detail": "A few days"
+        },
+        {
+          "name": "Pantaleo Creti",
+          "status": "다리 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Saulo Decarli",
+          "status": "근육 부상",
+          "detail": "Unknown"
         }
       ],
       "away": [
         {
-          "name": "Jamal Musiala",
-          "status": "병",
+          "name": "Carlo Boukhalfa",
+          "status": "근육 부상",
           "detail": "About 1-2 weeks"
         },
         {
-          "name": "Serge Gnabry",
-          "status": "허벅지 부상",
-          "detail": "About 1-2 weeks"
+          "name": "Cyrill May",
+          "status": "충돌 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Malamine Efekele",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Stephan Ambrosius",
+          "status": "충돌 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Tom Gaal",
+          "status": "충돌 부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Nino Weibel",
+          "status": "무릎 부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Behar Neziri",
+          "status": "십자 인대 부상",
+          "detail": "Early September 2026"
         }
       ]
     },
-    "h2h": [],
+    "h2h": [
+      {
+        "date": "2026-02-14T17:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-12-21T15:30:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-10-25T16:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 5,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-05-22T18:30:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-03-08T19:30:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-11-10T15:30:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-08-11T12:15:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-03-16T17:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-10-28T16:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-09-23T18:30:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-05-25T18:30:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-03-05T13:15:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-11-05T17:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-08-06T18:30:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-05-19T18:30:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-02-27T13:15:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-12-05T15:30:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 0,
+        "awayScore": 4
+      },
+      {
+        "date": "2021-10-02T16:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 5,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-04-14T16:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-05-04T17:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-04-03T18:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-11-25T15:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-09-29T17:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-04-14T17:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2018-03-17T18:10:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-10-29T15:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-08-20T14:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-05-21T11:45:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-04-08T18:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-11-26T19:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-08-07T14:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-04-23T18:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-03-07T19:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-09-26T15:45:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-08-23T11:45:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-05-17T11:45:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-03-01T12:45:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-11-08T19:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-09-24T17:45:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-05-07T17:45:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-02-16T12:45:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 1,
+        "awayScore": 5
+      },
+      {
+        "date": "2013-09-28T17:45:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-07-14T14:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-05-29T18:30:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-03-09T18:45:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-10-01T17:45:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-08-04T17:45:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2011-07-02T15:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2011-04-20T17:45:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2011-02-06T15:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 1,
+        "awayScore": 4
+      },
+      {
+        "date": "2010-11-07T15:00:00.000Z",
+        "home": "Grasshopper",
+        "away": "St. Gallen",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2010-08-15T14:00:00.000Z",
+        "home": "St. Gallen",
+        "away": "Grasshopper",
+        "homeScore": 1,
+        "awayScore": 2
+      }
+    ],
     "recent": {
       "home": [
         {
-          "date": "2026-05-09T12:00:00.000Z",
-          "home": "VfL Osnabrück",
-          "away": "Ulm",
+          "date": "2026-07-25T16:00:00.000Z",
+          "home": "Lausanne",
+          "away": "Grasshopper",
           "homeScore": 1,
           "awayScore": 1
         },
         {
-          "date": "2026-05-16T11:30:00.000Z",
-          "home": "VfB Stuttgart II",
-          "away": "VfL Osnabrück",
-          "homeScore": 3,
+          "date": "2026-08-02T14:30:00.000Z",
+          "home": "Grasshopper",
+          "away": "Lugano",
+          "homeScore": 1,
           "awayScore": 4
         },
         {
-          "date": "2026-08-08T11:00:00.000Z",
-          "home": "FC Heidenheim",
-          "away": "VfL Osnabrück",
-          "homeScore": 4,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-15T11:00:00.000Z",
-          "home": "VfL Osnabrück",
-          "away": "Magdeburg",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-28T16:30:00.000Z",
-          "home": "Bochum",
-          "away": "VfL Osnabrück",
-          "homeScore": 0,
+          "date": "2026-08-08T18:30:00.000Z",
+          "home": "Servette",
+          "away": "Grasshopper",
+          "homeScore": 2,
           "awayScore": 1
+        },
+        {
+          "date": "2026-08-15T16:00:00.000Z",
+          "home": "Regensdorf",
+          "away": "Grasshopper",
+          "homeScore": 0,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-08-30T14:30:00.000Z",
+          "home": "FC Vaduz",
+          "away": "Grasshopper",
+          "homeScore": 5,
+          "awayScore": 2
         }
       ],
       "away": [
         {
-          "date": "2026-08-07T12:00:00.000Z",
-          "home": "Bayern München",
-          "away": "Aston Villa",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-15T13:30:00.000Z",
-          "home": "Bayern München",
-          "away": "RB Leipzig",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-18T16:00:00.000Z",
-          "home": "FC Heidenheim",
-          "away": "Bayern München",
-          "homeScore": 2,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-08-22T18:30:00.000Z",
-          "home": "Borussia Dortmund",
-          "away": "Bayern München",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-28T18:30:00.000Z",
-          "home": "Bayern München",
-          "away": "VfB Stuttgart",
+          "date": "2026-08-13T18:00:00.000Z",
+          "home": "St. Gallen",
+          "away": "FC Sheriff",
           "homeScore": 5,
           "awayScore": 1
+        },
+        {
+          "date": "2026-08-16T13:00:00.000Z",
+          "home": "FC Thalwil",
+          "away": "St. Gallen",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-20T17:00:00.000Z",
+          "home": "Nordsjælland",
+          "away": "St. Gallen",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-27T18:00:00.000Z",
+          "home": "St. Gallen",
+          "away": "Nordsjælland",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-30T14:30:00.000Z",
+          "home": "St. Gallen",
+          "away": "Thun",
+          "homeScore": 3,
+          "awayScore": 4
         }
       ]
     },
     "lineup": {
       "home": [
-        "Jonas Krumrey (GK)|https://images.fotmob.com/image_resources/playerimages/1199140.png",
-        "Robin Fabinski (DF)|https://images.fotmob.com/image_resources/playerimages/1515922.png",
-        "Jannik Müller (DF)|https://images.fotmob.com/image_resources/playerimages/458620.png",
-        "Niklas Wiemann (DF)|https://images.fotmob.com/image_resources/playerimages/1052358.png",
-        "Patrick Kammerbauer (MF)|https://images.fotmob.com/image_resources/playerimages/775691.png",
-        "Fridolin Wagner (MF)|https://images.fotmob.com/image_resources/playerimages/673292.png",
-        "Bjarke Jacobsen (MF)|https://images.fotmob.com/image_resources/playerimages/391679.png",
-        "Ismail Badjie (MF)|https://images.fotmob.com/image_resources/playerimages/1663016.png",
-        "Adrian Beck (MF)|https://images.fotmob.com/image_resources/playerimages/794393.png",
-        "Leonhard Münst (MF)|https://images.fotmob.com/image_resources/playerimages/1250794.png",
-        "Robin Meißner (FW)|https://images.fotmob.com/image_resources/playerimages/964599.png"
+        "Justin Hammel (GK)|https://images.fotmob.com/image_resources/playerimages/1308464.png",
+        "Simone Stroscio (DF)|https://images.fotmob.com/image_resources/playerimages/1305752.png",
+        "Bujar Pllana (DF)|https://images.fotmob.com/image_resources/playerimages/1510878.png",
+        "Luka Mikulic (DF)|https://images.fotmob.com/image_resources/playerimages/1819492.png",
+        "Nico Rissi (DF)|https://images.fotmob.com/image_resources/playerimages/1859293.png",
+        "Manex Guibelalde (MF)|https://images.fotmob.com/image_resources/playerimages/1455604.png",
+        "Tim Meyer (MF)|https://images.fotmob.com/image_resources/playerimages/1515927.png",
+        "Samuel Krasniqi (MF)|https://images.fotmob.com/image_resources/playerimages/1833130.png",
+        "Amir Abrashi (MF)|https://images.fotmob.com/image_resources/playerimages/127224.png",
+        "Young-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1238478.png",
+        "Nikolas Muci (FW)|https://images.fotmob.com/image_resources/playerimages/1257646.png"
       ],
       "away": [
-        "Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png",
-        "Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png",
-        "Dayot Upamecano (DF)|https://images.fotmob.com/image_resources/playerimages/658554.png",
-        "Min-Jae Kim (DF)|https://images.fotmob.com/image_resources/playerimages/828159.png",
-        "Alphonso Davies (DF)|https://images.fotmob.com/image_resources/playerimages/751202.png",
-        "Joshua Kimmich (MF)|https://images.fotmob.com/image_resources/playerimages/460632.png",
-        "Aleksandar Pavlovic (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png",
-        "Michael Olise (FW)|https://images.fotmob.com/image_resources/playerimages/1029063.png",
-        "Nathaniel Brown (DF)|https://images.fotmob.com/image_resources/playerimages/1395447.png",
-        "Luis Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/860914.png",
-        "Harry Kane (FW)|https://images.fotmob.com/image_resources/playerimages/194165.png"
+        "Lawrence Ati-Zigi (GK)|https://images.fotmob.com/image_resources/playerimages/615411.png",
+        "Joel Ruiz (DF)|https://images.fotmob.com/image_resources/playerimages/1833207.png",
+        "Jozo Stanic (DF)|https://images.fotmob.com/image_resources/playerimages/957753.png",
+        "Chima Okoroji (DF)|https://images.fotmob.com/image_resources/playerimages/664528.png",
+        "Mihailo Stevanovic (MF)|https://images.fotmob.com/image_resources/playerimages/1161214.png",
+        "Hugo Vandermersch (FW)|https://images.fotmob.com/image_resources/playerimages/1074444.png",
+        "Lukas Görtler (MF)|https://images.fotmob.com/image_resources/playerimages/627039.png",
+        "Lukas Daschner (MF)|https://images.fotmob.com/image_resources/playerimages/836786.png",
+        "Christian Witzig (FW)|https://images.fotmob.com/image_resources/playerimages/1273733.png",
+        "Diego Besio (FW)|https://images.fotmob.com/image_resources/playerimages/1833214.png",
+        "Aliou Baldé (FW)|https://images.fotmob.com/image_resources/playerimages/1107289.png"
       ]
     },
     "formation": {
-      "home": "3-4-2-1",
-      "away": "4-2-3-1"
+      "home": "4-1-2-1-2",
+      "away": "3-1-4-2"
     },
     "coach": {
-      "home": "Timo Schultz|https://images.fotmob.com/image_resources/playerimages/26963.png",
-      "away": "Vincent Kompany|https://images.fotmob.com/image_resources/playerimages/39027.png"
+      "home": "Peter Zeidler|https://images.fotmob.com/image_resources/playerimages/658445.png",
+      "away": "Enrico Maaßen|https://images.fotmob.com/image_resources/playerimages/94713.png"
+    }
+  },
+  {
+    "home": "Luzern",
+    "away": "FC Vaduz",
+    "date": "2026-09-02T18:30:00.000Z",
+    "league": "Super League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Oscar Kabwit Tshikomb",
+          "status": "부상",
+          "detail": "Early September 2026"
+        },
+        {
+          "name": "Jérôme Bieler",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ranjan Neelakandan",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Dejan Sorgic",
+          "status": "충돌 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Stephan Seiler",
+          "status": "다리 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Tim-Tiado Öhri",
+          "status": "충돌 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Lado Akhalaia",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2021-05-01T16:15:00.000Z",
+        "home": "FC Vaduz",
+        "away": "Luzern",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-02-24T17:15:00.000Z",
+        "home": "FC Vaduz",
+        "away": "Luzern",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-02-14T15:00:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-11-21T17:15:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-05-28T14:00:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-04-09T11:45:00.000Z",
+        "home": "FC Vaduz",
+        "away": "Luzern",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-12-03T16:45:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-08-10T17:45:00.000Z",
+        "home": "FC Vaduz",
+        "away": "Luzern",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2016-05-08T11:45:00.000Z",
+        "home": "FC Vaduz",
+        "away": "Luzern",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-04-02T15:45:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-10-24T15:45:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-09-23T17:45:00.000Z",
+        "home": "FC Vaduz",
+        "away": "Luzern",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-05-16T15:45:00.000Z",
+        "home": "FC Vaduz",
+        "away": "Luzern",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-03-14T16:45:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-10-19T11:45:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-08-13T17:45:00.000Z",
+        "home": "FC Vaduz",
+        "away": "Luzern",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2011-06-28T17:00:00.000Z",
+        "home": "Luzern",
+        "away": "FC Vaduz",
+        "homeScore": 1,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-02T14:30:00.000Z",
+          "home": "Sion",
+          "away": "Luzern",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-09T14:30:00.000Z",
+          "home": "St. Gallen",
+          "away": "Luzern",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-16T13:00:00.000Z",
+          "home": "Buochs",
+          "away": "Luzern",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-22T16:00:00.000Z",
+          "home": "Luzern",
+          "away": "Lausanne",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-29T16:00:00.000Z",
+          "home": "Servette",
+          "away": "Luzern",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-06T15:00:00.000Z",
+          "home": "FC Inter Turku",
+          "away": "FC Vaduz",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-09T14:30:00.000Z",
+          "home": "Sion",
+          "away": "FC Vaduz",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-13T17:30:00.000Z",
+          "home": "FC Vaduz",
+          "away": "FC Inter Turku",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-23T12:00:00.000Z",
+          "home": "Young Boys",
+          "away": "FC Vaduz",
+          "homeScore": 4,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-30T14:30:00.000Z",
+          "home": "FC Vaduz",
+          "away": "Grasshopper",
+          "homeScore": 5,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Karlo Letica (GK)|https://images.fotmob.com/image_resources/playerimages/539198.png",
+        "Pius Dorn (DF)|https://images.fotmob.com/image_resources/playerimages/664866.png",
+        "Bung Hua Freimann (DF)|https://images.fotmob.com/image_resources/playerimages/1664713.png",
+        "Bung Meng Freimann (DF)|https://images.fotmob.com/image_resources/playerimages/1662707.png",
+        "Andrejs Ciganiks (DF)|https://images.fotmob.com/image_resources/playerimages/839642.png",
+        "Tyron Owusu (MF)|https://images.fotmob.com/image_resources/playerimages/1168529.png",
+        "Mio Zimmermann (MF)|https://images.fotmob.com/image_resources/playerimages/1788653.png",
+        "Leonardo Bertone (MF)|https://images.fotmob.com/image_resources/playerimages/320184.png",
+        "Matteo Di Giusto (MF)|https://images.fotmob.com/image_resources/playerimages/1085706.png",
+        "Oscar Kabwit (FW)|https://images.fotmob.com/image_resources/playerimages/1680399.png",
+        "Daniel Mikolajewski (FW)|https://images.fotmob.com/image_resources/playerimages/1485180.png"
+      ],
+      "away": [
+        "Leon Schaffran (GK)|https://images.fotmob.com/image_resources/playerimages/951906.png",
+        "Nicolas Hasler (DF)|https://images.fotmob.com/image_resources/playerimages/214344.png",
+        "Denis Simani (DF)|https://images.fotmob.com/image_resources/playerimages/189980.png",
+        "Liridon Berisha (DF)|https://images.fotmob.com/image_resources/playerimages/1026769.png",
+        "Dominik Schwizer (DF)|https://images.fotmob.com/image_resources/playerimages/867147.png",
+        "Luca Mack (DF)|https://images.fotmob.com/image_resources/playerimages/1080770.png",
+        "Julian Stark (MF)|https://images.fotmob.com/image_resources/playerimages/1140914.png",
+        "Juan Cabrera (MF)|https://images.fotmob.com/image_resources/playerimages/1576553.png",
+        "Milos Cocic (MF)|https://images.fotmob.com/image_resources/playerimages/1295918.png",
+        "Marcel Monsberger (FW)|https://images.fotmob.com/image_resources/playerimages/856035.png",
+        "Lutfi Dalipi (MF)|https://images.fotmob.com/image_resources/playerimages/1738032.png"
+      ]
+    },
+    "formation": {
+      "home": "4-4-2",
+      "away": "4-1-2-1-2"
+    },
+    "coach": {
+      "home": "Joerg Portmann|https://images.fotmob.com/image_resources/playerimages/2092823.png",
+      "away": "Marc Schneider|https://images.fotmob.com/image_resources/playerimages/25812.png"
+    }
+  },
+  {
+    "home": "Thun",
+    "away": "Lausanne",
+    "date": "2026-09-02T18:30:00.000Z",
+    "league": "Super League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Genís Montolio",
+          "status": "십자 인대 부상",
+          "detail": "Early January 2027"
+        }
+      ],
+      "away": [
+        {
+          "name": "Tyler Fredricson",
+          "status": "충돌 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Nicky Beloko",
+          "status": "다리 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Beyatt Lekoueiry",
+          "status": "십자 인대 부상",
+          "detail": "Out for season"
+        },
+        {
+          "name": "Ibrahim Bah Mendes Mayala",
+          "status": "부상",
+          "detail": "A few weeks"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-02-12T19:30:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-11-30T15:30:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-08-03T12:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-05-19T18:15:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 3,
+        "awayScore": 3
+      },
+      {
+        "date": "2023-03-19T15:30:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2022-10-21T18:15:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-09-02T18:15:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-05-13T14:00:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2018-03-18T15:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-01-27T14:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-10-28T17:00:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2017-08-19T17:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 5,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-05-20T15:45:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-04-08T15:45:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 2,
+        "awayScore": 4
+      },
+      {
+        "date": "2016-10-15T15:45:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-07-31T11:45:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 4,
+        "awayScore": 4
+      },
+      {
+        "date": "2016-01-15T14:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 5,
+        "awayScore": 2
+      },
+      {
+        "date": "2015-09-18T17:00:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-01-30T14:30:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2014-09-19T17:30:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-06-17T15:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-05-08T17:45:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2014-03-15T18:45:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-12-01T12:45:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-09-01T11:45:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-05-12T11:45:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-04-07T11:45:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 2,
+        "awayScore": 4
+      },
+      {
+        "date": "2012-11-17T18:45:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-07-14T17:45:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-04-14T15:45:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2012-03-18T15:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-10-22T15:45:00.000Z",
+        "home": "Lausanne",
+        "away": "Thun",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-08-14T14:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 5,
+        "awayScore": 2
+      },
+      {
+        "date": "2011-06-25T16:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-01-26T14:00:00.000Z",
+        "home": "Thun",
+        "away": "Lausanne",
+        "homeScore": 1,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-13T17:30:00.000Z",
+          "home": "Víkingur Reykjavík",
+          "away": "Thun",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-16T14:00:00.000Z",
+          "home": "FC Saxon Sports",
+          "away": "Thun",
+          "homeScore": 0,
+          "awayScore": 6
+        },
+        {
+          "date": "2026-08-20T17:00:00.000Z",
+          "home": "Lech Poznań",
+          "away": "Thun",
+          "homeScore": 7,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-27T18:00:00.000Z",
+          "home": "Thun",
+          "away": "Lech Poznań",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-30T14:30:00.000Z",
+          "home": "St. Gallen",
+          "away": "Thun",
+          "homeScore": 3,
+          "awayScore": 4
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-01T16:00:00.000Z",
+          "home": "Basel",
+          "away": "Lausanne",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-08T16:00:00.000Z",
+          "home": "Lausanne",
+          "away": "Young Boys",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-14T18:15:00.000Z",
+          "home": "Kosova Neuchâtel",
+          "away": "Lausanne",
+          "homeScore": 0,
+          "awayScore": 6
+        },
+        {
+          "date": "2026-08-22T16:00:00.000Z",
+          "home": "Luzern",
+          "away": "Lausanne",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-08-29T16:00:00.000Z",
+          "home": "Lausanne",
+          "away": "FC Zürich",
+          "homeScore": 2,
+          "awayScore": 3
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Niklas Steffen (GK)|https://images.fotmob.com/image_resources/playerimages/1161221.png",
+        "Fabio Fehr (DF)|https://images.fotmob.com/image_resources/playerimages/1166048.png",
+        "Jan Bamert (DF)|https://images.fotmob.com/image_resources/playerimages/696435.png",
+        "Nicolas Bürgy (DF)|https://images.fotmob.com/image_resources/playerimages/558707.png",
+        "Marco Bürki (DF)|https://images.fotmob.com/image_resources/playerimages/320183.png",
+        "Nils Reichmuth (MF)|https://images.fotmob.com/image_resources/playerimages/1159063.png",
+        "Fabio Saiz (MF)|https://images.fotmob.com/image_resources/playerimages/1173382.png",
+        "Justin Roth (MF)|https://images.fotmob.com/image_resources/playerimages/924878.png",
+        "Tom Strannegård (MF)|https://images.fotmob.com/image_resources/playerimages/1104342.png",
+        "Brighton Labeau (FW)|https://images.fotmob.com/image_resources/playerimages/769932.png",
+        "Furkan Dursun (FW)|https://images.fotmob.com/image_resources/playerimages/1444456.png"
+      ],
+      "away": [
+        "Melvin Mastil (GK)|https://images.fotmob.com/image_resources/playerimages/1285492.png",
+        "Brandon Soppy (DF)|https://images.fotmob.com/image_resources/playerimages/1178363.png",
+        "Tyler Fredricson (DF)|https://images.fotmob.com/image_resources/playerimages/1403351.png",
+        "Karim Sow (DF)|https://images.fotmob.com/image_resources/playerimages/1285493.png",
+        "Morgan Poaty (DF)|https://images.fotmob.com/image_resources/playerimages/792754.png",
+        "Sekou Koné (MF)|https://images.fotmob.com/image_resources/playerimages/1710742.png",
+        "Olivier Custodio (MF)|https://images.fotmob.com/image_resources/playerimages/462949.png",
+        "Nicky Beloko (MF)|https://images.fotmob.com/image_resources/playerimages/892410.png",
+        "Enzo Molebe (FW)|https://images.fotmob.com/image_resources/playerimages/1647188.png",
+        "Omar Janneh (FW)|https://images.fotmob.com/image_resources/playerimages/1664734.png",
+        "Florent Mollet (MF)|https://images.fotmob.com/image_resources/playerimages/319824.png"
+      ]
+    },
+    "formation": {
+      "home": "4-4-2",
+      "away": "4-3-3"
+    },
+    "coach": {
+      "home": "Gian-Luca Privitelli|https://images.fotmob.com/image_resources/playerimages/2068220.png",
+      "away": "Luka Elsner|https://images.fotmob.com/image_resources/playerimages/12565.png"
     }
   },
   {
@@ -11071,1237 +12260,6 @@
     "coach": {
       "home": "John McGlynn|https://images.fotmob.com/image_resources/playerimages/325048.png",
       "away": "Derek McInnes|https://images.fotmob.com/image_resources/playerimages/34204.png"
-    }
-  },
-  {
-    "home": "Grasshopper",
-    "away": "St. Gallen",
-    "date": "2026-09-02T18:30:00.000Z",
-    "league": "Super League",
-    "injuries": {
-      "home": [
-        {
-          "name": "Tim Meyer",
-          "status": "충돌 부상",
-          "detail": "A few days"
-        },
-        {
-          "name": "Pantaleo Creti",
-          "status": "다리 부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Saulo Decarli",
-          "status": "근육 부상",
-          "detail": "Unknown"
-        }
-      ],
-      "away": [
-        {
-          "name": "Carlo Boukhalfa",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Cyrill May",
-          "status": "충돌 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Malamine Efekele",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Stephan Ambrosius",
-          "status": "충돌 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Tom Gaal",
-          "status": "충돌 부상",
-          "detail": "Unknown"
-        },
-        {
-          "name": "Nino Weibel",
-          "status": "무릎 부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Behar Neziri",
-          "status": "십자 인대 부상",
-          "detail": "Early September 2026"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-02-14T17:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-12-21T15:30:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2025-10-25T16:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 5,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-05-22T18:30:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-03-08T19:30:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-11-10T15:30:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2024-08-11T12:15:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-03-16T17:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-10-28T16:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-09-23T18:30:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-05-25T18:30:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-03-05T13:15:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-11-05T17:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-08-06T18:30:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 3,
-        "awayScore": 2
-      },
-      {
-        "date": "2022-05-19T18:30:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 3,
-        "awayScore": 2
-      },
-      {
-        "date": "2022-02-27T13:15:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-12-05T15:30:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 0,
-        "awayScore": 4
-      },
-      {
-        "date": "2021-10-02T16:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 5,
-        "awayScore": 2
-      },
-      {
-        "date": "2021-04-14T16:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2019-05-04T17:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-04-03T18:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-11-25T15:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-09-29T17:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-04-14T17:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2018-03-17T18:10:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-10-29T15:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-08-20T14:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-05-21T11:45:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-04-08T18:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-11-26T19:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-08-07T14:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-04-23T18:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-03-07T19:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-09-26T15:45:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-08-23T11:45:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-05-17T11:45:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-03-01T12:45:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-11-08T19:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-09-24T17:45:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-05-07T17:45:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-02-16T12:45:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 1,
-        "awayScore": 5
-      },
-      {
-        "date": "2013-09-28T17:45:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-07-14T14:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-05-29T18:30:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-03-09T18:45:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-10-01T17:45:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-08-04T17:45:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2011-07-02T15:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-04-20T17:45:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2011-02-06T15:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 1,
-        "awayScore": 4
-      },
-      {
-        "date": "2010-11-07T15:00:00.000Z",
-        "home": "Grasshopper",
-        "away": "St. Gallen",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2010-08-15T14:00:00.000Z",
-        "home": "St. Gallen",
-        "away": "Grasshopper",
-        "homeScore": 1,
-        "awayScore": 2
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-07-25T16:00:00.000Z",
-          "home": "Lausanne",
-          "away": "Grasshopper",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-02T14:30:00.000Z",
-          "home": "Grasshopper",
-          "away": "Lugano",
-          "homeScore": 1,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-08-08T18:30:00.000Z",
-          "home": "Servette",
-          "away": "Grasshopper",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-15T16:00:00.000Z",
-          "home": "Regensdorf",
-          "away": "Grasshopper",
-          "homeScore": 0,
-          "awayScore": 5
-        },
-        {
-          "date": "2026-08-30T14:30:00.000Z",
-          "home": "FC Vaduz",
-          "away": "Grasshopper",
-          "homeScore": 5,
-          "awayScore": 2
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-13T18:00:00.000Z",
-          "home": "St. Gallen",
-          "away": "FC Sheriff",
-          "homeScore": 5,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-16T13:00:00.000Z",
-          "home": "FC Thalwil",
-          "away": "St. Gallen",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-20T17:00:00.000Z",
-          "home": "Nordsjælland",
-          "away": "St. Gallen",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-27T18:00:00.000Z",
-          "home": "St. Gallen",
-          "away": "Nordsjælland",
-          "homeScore": 2,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-30T14:30:00.000Z",
-          "home": "St. Gallen",
-          "away": "Thun",
-          "homeScore": 3,
-          "awayScore": 4
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Justin Hammel (GK)|https://images.fotmob.com/image_resources/playerimages/1308464.png",
-        "Simone Stroscio (DF)|https://images.fotmob.com/image_resources/playerimages/1305752.png",
-        "Bujar Pllana (DF)|https://images.fotmob.com/image_resources/playerimages/1510878.png",
-        "Luka Mikulic (DF)|https://images.fotmob.com/image_resources/playerimages/1819492.png",
-        "Nico Rissi (DF)|https://images.fotmob.com/image_resources/playerimages/1859293.png",
-        "Manex Guibelalde (MF)|https://images.fotmob.com/image_resources/playerimages/1455604.png",
-        "Tim Meyer (MF)|https://images.fotmob.com/image_resources/playerimages/1515927.png",
-        "Samuel Krasniqi (MF)|https://images.fotmob.com/image_resources/playerimages/1833130.png",
-        "Amir Abrashi (MF)|https://images.fotmob.com/image_resources/playerimages/127224.png",
-        "Young-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1238478.png",
-        "Nikolas Muci (FW)|https://images.fotmob.com/image_resources/playerimages/1257646.png"
-      ],
-      "away": [
-        "Lawrence Ati-Zigi (GK)|https://images.fotmob.com/image_resources/playerimages/615411.png",
-        "Joel Ruiz (DF)|https://images.fotmob.com/image_resources/playerimages/1833207.png",
-        "Jozo Stanic (DF)|https://images.fotmob.com/image_resources/playerimages/957753.png",
-        "Chima Okoroji (DF)|https://images.fotmob.com/image_resources/playerimages/664528.png",
-        "Mihailo Stevanovic (MF)|https://images.fotmob.com/image_resources/playerimages/1161214.png",
-        "Hugo Vandermersch (FW)|https://images.fotmob.com/image_resources/playerimages/1074444.png",
-        "Lukas Görtler (MF)|https://images.fotmob.com/image_resources/playerimages/627039.png",
-        "Lukas Daschner (MF)|https://images.fotmob.com/image_resources/playerimages/836786.png",
-        "Christian Witzig (FW)|https://images.fotmob.com/image_resources/playerimages/1273733.png",
-        "Diego Besio (FW)|https://images.fotmob.com/image_resources/playerimages/1833214.png",
-        "Aliou Baldé (FW)|https://images.fotmob.com/image_resources/playerimages/1107289.png"
-      ]
-    },
-    "formation": {
-      "home": "4-1-2-1-2",
-      "away": "3-1-4-2"
-    },
-    "coach": {
-      "home": "Peter Zeidler|https://images.fotmob.com/image_resources/playerimages/658445.png",
-      "away": "Enrico Maaßen|https://images.fotmob.com/image_resources/playerimages/94713.png"
-    }
-  },
-  {
-    "home": "Luzern",
-    "away": "FC Vaduz",
-    "date": "2026-09-02T18:30:00.000Z",
-    "league": "Super League",
-    "injuries": {
-      "home": [
-        {
-          "name": "Oscar Kabwit Tshikomb",
-          "status": "부상",
-          "detail": "Early September 2026"
-        },
-        {
-          "name": "Jérôme Bieler",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Demir Xhemalija",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Mio Zimmermann",
-          "status": "근육 부상",
-          "detail": "Out for season"
-        },
-        {
-          "name": "Bung Hua Freimann",
-          "status": "아킬레스건 부상",
-          "detail": "Out for season"
-        }
-      ],
-      "away": [
-        {
-          "name": "Ranjan Neelakandan",
-          "status": "근육 부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Dejan Sorgic",
-          "status": "충돌 부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Stephan Seiler",
-          "status": "다리 부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Tim-Tiado Öhri",
-          "status": "충돌 부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Lado Akhalaia",
-          "status": "근육 부상",
-          "detail": "A few weeks"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2021-05-01T16:15:00.000Z",
-        "home": "FC Vaduz",
-        "away": "Luzern",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2021-02-24T17:15:00.000Z",
-        "home": "FC Vaduz",
-        "away": "Luzern",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-02-14T15:00:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-11-21T17:15:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-05-28T14:00:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-04-09T11:45:00.000Z",
-        "home": "FC Vaduz",
-        "away": "Luzern",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-12-03T16:45:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-08-10T17:45:00.000Z",
-        "home": "FC Vaduz",
-        "away": "Luzern",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2016-05-08T11:45:00.000Z",
-        "home": "FC Vaduz",
-        "away": "Luzern",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2016-04-02T15:45:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-10-24T15:45:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-09-23T17:45:00.000Z",
-        "home": "FC Vaduz",
-        "away": "Luzern",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-05-16T15:45:00.000Z",
-        "home": "FC Vaduz",
-        "away": "Luzern",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-03-14T16:45:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-10-19T11:45:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-08-13T17:45:00.000Z",
-        "home": "FC Vaduz",
-        "away": "Luzern",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2011-06-28T17:00:00.000Z",
-        "home": "Luzern",
-        "away": "FC Vaduz",
-        "homeScore": 1,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-02T14:30:00.000Z",
-          "home": "Sion",
-          "away": "Luzern",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-09T14:30:00.000Z",
-          "home": "St. Gallen",
-          "away": "Luzern",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-16T13:00:00.000Z",
-          "home": "Buochs",
-          "away": "Luzern",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-22T16:00:00.000Z",
-          "home": "Luzern",
-          "away": "Lausanne",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-29T16:00:00.000Z",
-          "home": "Servette",
-          "away": "Luzern",
-          "homeScore": 1,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-06T15:00:00.000Z",
-          "home": "FC Inter Turku",
-          "away": "FC Vaduz",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-09T14:30:00.000Z",
-          "home": "Sion",
-          "away": "FC Vaduz",
-          "homeScore": 3,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-13T17:30:00.000Z",
-          "home": "FC Vaduz",
-          "away": "FC Inter Turku",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-23T12:00:00.000Z",
-          "home": "Young Boys",
-          "away": "FC Vaduz",
-          "homeScore": 4,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-30T14:30:00.000Z",
-          "home": "FC Vaduz",
-          "away": "Grasshopper",
-          "homeScore": 5,
-          "awayScore": 2
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Karlo Letica (GK)|https://images.fotmob.com/image_resources/playerimages/539198.png",
-        "Pius Dorn (DF)|https://images.fotmob.com/image_resources/playerimages/664866.png",
-        "Bung Hua Freimann (DF)|https://images.fotmob.com/image_resources/playerimages/1664713.png",
-        "Bung Meng Freimann (DF)|https://images.fotmob.com/image_resources/playerimages/1662707.png",
-        "Andrejs Ciganiks (DF)|https://images.fotmob.com/image_resources/playerimages/839642.png",
-        "Tyron Owusu (MF)|https://images.fotmob.com/image_resources/playerimages/1168529.png",
-        "Mio Zimmermann (MF)|https://images.fotmob.com/image_resources/playerimages/1788653.png",
-        "Leonardo Bertone (MF)|https://images.fotmob.com/image_resources/playerimages/320184.png",
-        "Matteo Di Giusto (MF)|https://images.fotmob.com/image_resources/playerimages/1085706.png",
-        "Oscar Kabwit (FW)|https://images.fotmob.com/image_resources/playerimages/1680399.png",
-        "Daniel Mikolajewski (FW)|https://images.fotmob.com/image_resources/playerimages/1485180.png"
-      ],
-      "away": [
-        "Leon Schaffran (GK)|https://images.fotmob.com/image_resources/playerimages/951906.png",
-        "Nicolas Hasler (DF)|https://images.fotmob.com/image_resources/playerimages/214344.png",
-        "Denis Simani (DF)|https://images.fotmob.com/image_resources/playerimages/189980.png",
-        "Liridon Berisha (DF)|https://images.fotmob.com/image_resources/playerimages/1026769.png",
-        "Dominik Schwizer (DF)|https://images.fotmob.com/image_resources/playerimages/867147.png",
-        "Luca Mack (DF)|https://images.fotmob.com/image_resources/playerimages/1080770.png",
-        "Julian Stark (MF)|https://images.fotmob.com/image_resources/playerimages/1140914.png",
-        "Juan Cabrera (MF)|https://images.fotmob.com/image_resources/playerimages/1576553.png",
-        "Milos Cocic (MF)|https://images.fotmob.com/image_resources/playerimages/1295918.png",
-        "Marcel Monsberger (FW)|https://images.fotmob.com/image_resources/playerimages/856035.png",
-        "Lutfi Dalipi (MF)|https://images.fotmob.com/image_resources/playerimages/1738032.png"
-      ]
-    },
-    "formation": {
-      "home": "4-4-2",
-      "away": "4-1-2-1-2"
-    },
-    "coach": {
-      "home": "Joerg Portmann|https://images.fotmob.com/image_resources/playerimages/2092823.png",
-      "away": "Marc Schneider|https://images.fotmob.com/image_resources/playerimages/25812.png"
-    }
-  },
-  {
-    "home": "Thun",
-    "away": "Lausanne",
-    "date": "2026-09-02T18:30:00.000Z",
-    "league": "Super League",
-    "injuries": {
-      "home": [
-        {
-          "name": "Genís Montolio",
-          "status": "십자 인대 부상",
-          "detail": "Early January 2027"
-        }
-      ],
-      "away": [
-        {
-          "name": "Tyler Fredricson",
-          "status": "충돌 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Nicky Beloko",
-          "status": "다리 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Beyatt Lekoueiry",
-          "status": "십자 인대 부상",
-          "detail": "Out for season"
-        },
-        {
-          "name": "Ibrahim Bah Mendes Mayala",
-          "status": "부상",
-          "detail": "A few weeks"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-02-12T19:30:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-11-30T15:30:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-08-03T12:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-05-19T18:15:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 3,
-        "awayScore": 3
-      },
-      {
-        "date": "2023-03-19T15:30:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2022-10-21T18:15:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-09-02T18:15:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-05-13T14:00:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2018-03-18T15:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-01-27T14:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-10-28T17:00:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2017-08-19T17:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 5,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-05-20T15:45:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-04-08T15:45:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 2,
-        "awayScore": 4
-      },
-      {
-        "date": "2016-10-15T15:45:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-07-31T11:45:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 4,
-        "awayScore": 4
-      },
-      {
-        "date": "2016-01-15T14:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 5,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-09-18T17:00:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-01-30T14:30:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2014-09-19T17:30:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-06-17T15:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-05-08T17:45:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2014-03-15T18:45:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-12-01T12:45:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-09-01T11:45:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-05-12T11:45:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2013-04-07T11:45:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 2,
-        "awayScore": 4
-      },
-      {
-        "date": "2012-11-17T18:45:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-07-14T17:45:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-04-14T15:45:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-03-18T15:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2011-10-22T15:45:00.000Z",
-        "home": "Lausanne",
-        "away": "Thun",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2011-08-14T14:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 5,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-06-25T16:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2011-01-26T14:00:00.000Z",
-        "home": "Thun",
-        "away": "Lausanne",
-        "homeScore": 1,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-13T17:30:00.000Z",
-          "home": "Víkingur Reykjavík",
-          "away": "Thun",
-          "homeScore": 3,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-16T14:00:00.000Z",
-          "home": "FC Saxon Sports",
-          "away": "Thun",
-          "homeScore": 0,
-          "awayScore": 6
-        },
-        {
-          "date": "2026-08-20T17:00:00.000Z",
-          "home": "Lech Poznań",
-          "away": "Thun",
-          "homeScore": 7,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-27T18:00:00.000Z",
-          "home": "Thun",
-          "away": "Lech Poznań",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-30T14:30:00.000Z",
-          "home": "St. Gallen",
-          "away": "Thun",
-          "homeScore": 3,
-          "awayScore": 4
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-01T16:00:00.000Z",
-          "home": "Basel",
-          "away": "Lausanne",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-08T16:00:00.000Z",
-          "home": "Lausanne",
-          "away": "Young Boys",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-14T18:15:00.000Z",
-          "home": "Kosova Neuchâtel",
-          "away": "Lausanne",
-          "homeScore": 0,
-          "awayScore": 6
-        },
-        {
-          "date": "2026-08-22T16:00:00.000Z",
-          "home": "Luzern",
-          "away": "Lausanne",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-29T16:00:00.000Z",
-          "home": "Lausanne",
-          "away": "FC Zürich",
-          "homeScore": 2,
-          "awayScore": 3
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Niklas Steffen (GK)|https://images.fotmob.com/image_resources/playerimages/1161221.png",
-        "Fabio Fehr (DF)|https://images.fotmob.com/image_resources/playerimages/1166048.png",
-        "Jan Bamert (DF)|https://images.fotmob.com/image_resources/playerimages/696435.png",
-        "Nicolas Bürgy (DF)|https://images.fotmob.com/image_resources/playerimages/558707.png",
-        "Marco Bürki (DF)|https://images.fotmob.com/image_resources/playerimages/320183.png",
-        "Nils Reichmuth (MF)|https://images.fotmob.com/image_resources/playerimages/1159063.png",
-        "Fabio Saiz (MF)|https://images.fotmob.com/image_resources/playerimages/1173382.png",
-        "Justin Roth (MF)|https://images.fotmob.com/image_resources/playerimages/924878.png",
-        "Tom Strannegård (MF)|https://images.fotmob.com/image_resources/playerimages/1104342.png",
-        "Brighton Labeau (FW)|https://images.fotmob.com/image_resources/playerimages/769932.png",
-        "Furkan Dursun (FW)|https://images.fotmob.com/image_resources/playerimages/1444456.png"
-      ],
-      "away": [
-        "Melvin Mastil (GK)|https://images.fotmob.com/image_resources/playerimages/1285492.png",
-        "Brandon Soppy (DF)|https://images.fotmob.com/image_resources/playerimages/1178363.png",
-        "Tyler Fredricson (DF)|https://images.fotmob.com/image_resources/playerimages/1403351.png",
-        "Karim Sow (DF)|https://images.fotmob.com/image_resources/playerimages/1285493.png",
-        "Morgan Poaty (DF)|https://images.fotmob.com/image_resources/playerimages/792754.png",
-        "Sekou Koné (MF)|https://images.fotmob.com/image_resources/playerimages/1710742.png",
-        "Olivier Custodio (MF)|https://images.fotmob.com/image_resources/playerimages/462949.png",
-        "Nicky Beloko (MF)|https://images.fotmob.com/image_resources/playerimages/892410.png",
-        "Enzo Molebe (FW)|https://images.fotmob.com/image_resources/playerimages/1647188.png",
-        "Omar Janneh (FW)|https://images.fotmob.com/image_resources/playerimages/1664734.png",
-        "Florent Mollet (MF)|https://images.fotmob.com/image_resources/playerimages/319824.png"
-      ]
-    },
-    "formation": {
-      "home": "4-4-2",
-      "away": "4-3-3"
-    },
-    "coach": {
-      "home": "Gian-Luca Privitelli|https://images.fotmob.com/image_resources/playerimages/2068220.png",
-      "away": "Luka Elsner|https://images.fotmob.com/image_resources/playerimages/12565.png"
     }
   }
 ]
