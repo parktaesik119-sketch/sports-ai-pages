@@ -108,6 +108,7 @@ const TEAM_NAME_MAP = {
   "VfL Wolfsburg": "볼프스부르크",
   "Wolfsburg": "볼프스부르크",
   "Werder Bremen": "베르더 브레멘",
+  "VfL Osnabrück": "VfL 오스나브뤼크",
 
   // ===== 🇦🇹 오스트리아 분데스리가 (Austrian Bundesliga) =====
   // ⚠️ 오스트리아 분데스리가는 독일 분데스리가와 이름만 같을 뿐 별개 리그입니다.
