@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.01","home":"애틀랜타 브레이브스","away":"�
 injuryHome: "CJ Abrams (통증)|Drew Millas (골절)|James Wood (염좌)|Richard Lovelady (염좌)|Cade Cavalli (통증)"
 injuryAway: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (출장 정지)"
 homeLineup: "[\"선발투수 J. Irvin (2-8, 5.62) ERA 5.62|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
-awayLineup: "[\"선발투수 A. Smith-Shawver (0-0, 5.93) ERA 5.93|https://a.espncdn.com/i/headshots/mlb/players/full/4917640.png\"]"
+awayLineup: "[\"선발투수 A. Smith-Shawver (0-0, 5.93) ERA 5.93|https://a.espncdn.com/i/headshots/mlb/players/full/4917640.png\",\"1번 D. Baldwin (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"2번 R. Acuna Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/36185.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"5번 M. Dubon (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"6번 O. Albies (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"7번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"8번 B. Hicklen (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41378.png\",\"9번 H. Kim (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4089862.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
