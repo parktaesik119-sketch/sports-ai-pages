@@ -20,6 +20,7 @@ const COUNTRY_MAP = {
   'Thailand': '태국',
   'Vietnam': '베트남',
   'Indonesia': '인도네시아',
+  'IDN': '인도네시아',
   'Malaysia': '말레이시아',
   'Philippines': '필리핀',
   'Singapore': '싱가포르',
