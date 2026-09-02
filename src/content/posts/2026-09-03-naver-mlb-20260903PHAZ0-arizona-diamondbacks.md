@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.01","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.09.01","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901PHAZ0-2026-09-01-arizona-diamondbacks/"},{"date":"26.08.31","home":"LA 에인절스","away":"필라델피아 필리스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PHAN0-2026-08-31-los-angeles-angels/"},{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"},{"date":"26.08.27","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PHSE0-2026-08-27-seattle-mariners/"},{"date":"26.08.25","home":"시애틀 매리너스","away":"필라델피아 필리스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PHSE0-2026-08-25-seattle-mariners/"}]'
 injuryHome: "Ryne Nelson (염좌)|Tommy Troy (염좌)|Ryan Thompson (염좌)|Michael Soroka (염증)|Zac Gallen (염증)"
 injuryAway: "Caleb Kilian (염좌)|Tanner Banks (염좌)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 T. Clarke (2-3, 2.60) ERA 2.60|https://a.espncdn.com/i/headshots/mlb/players/full/35277.png\"]"
 awayLineup: "[\"선발투수 A. Painter (3-8, 5.95) ERA 5.95|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
 homeFormation: ""
 awayFormation: ""
