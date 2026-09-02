@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.01","home":"주니치 드래곤스","away":"히로�
 awayRecent: '[{"date":"26.09.01","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901HIJN0-2026-09-01-chunichi-dragons/"},{"date":"26.08.30","home":"히로시마 도요 카프","away":"야쿠르트 스왈로우스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830YAHI0-2026-08-30-hiroshima-carp/"},{"date":"26.08.29","home":"히로시마 도요 카프","away":"야쿠르트 스왈로우스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829YAHI0-2026-08-29-hiroshima-carp/"},{"date":"26.08.28","home":"히로시마 도요 카프","away":"야쿠르트 스왈로우스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828YAHI0-2026-08-28-hiroshima-carp/"},{"date":"26.08.27","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827YKHI0-2026-08-27-hiroshima-carp/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yumeto Kanemaru (5-9, 2.59)|https://p.npb.jp/players_photo/2026/180/d/021_61565150.jpg\"]"
+awayLineup: "[\"선발투수 Ryoji Kuribayashi (5-5, 2.48)|https://p.npb.jp/players_photo/2026/180/c/020_91995153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

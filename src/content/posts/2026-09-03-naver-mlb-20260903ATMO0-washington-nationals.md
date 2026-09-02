@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀�
 awayRecent: '[{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals/"},{"date":"26.09.01","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SFAT0-2026-09-01-atlanta-braves/"},{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831COAT0-2026-08-31-atlanta-braves/"},{"date":"26.08.30","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830COAT0-2026-08-30-atlanta-braves/"},{"date":"26.08.29","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829COAT0-2026-08-29-atlanta-braves/"}]'
 injuryHome: "James Wood (근육 염좌)|Richard Lovelady (근육 염좌)|Cade Cavalli (경미한 상태)|Josiah Gray (근육 염좌)|DJ Herz (근육 염좌)"
 injuryAway: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (출전 정지)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Kent (1-2, 5.59) ERA 5.59|https://a.espncdn.com/i/headshots/mlb/players/full/5007807.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (9-5, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

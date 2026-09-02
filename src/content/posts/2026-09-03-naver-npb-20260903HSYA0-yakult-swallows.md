@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.01","home":"야쿠르트 스왈로우스","away":"�
 awayRecent: '[{"date":"26.09.01","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901HSYA0-2026-09-01-yakult-swallows/"},{"date":"26.08.30","home":"한신 타이거스","away":"요미우리 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830YOHS0-2026-08-30-hanshin-tigers/"},{"date":"26.08.29","home":"한신 타이거스","away":"요미우리 자이언츠","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829YOHS0-2026-08-29-hanshin-tigers/"},{"date":"26.08.27","home":"주니치 드래곤스","away":"한신 타이거스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827HSJN0-2026-08-27-chunichi-dragons/"},{"date":"26.08.26","home":"주니치 드래곤스","away":"한신 타이거스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826HSJN0-2026-08-26-chunichi-dragons/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shohta Masui (1-0, 2.10)|https://p.npb.jp/players_photo/2026/180/s/043_01805152.jpg\"]"
+awayLineup: "[\"선발투수 Masashi Itoh (1-2, 2.63)|https://p.npb.jp/players_photo/2026/180/t/027_71375153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
