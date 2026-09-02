@@ -1,0 +1,37 @@
+---
+title: "Trường Tươi Đồng Nai vs 비엣텔 경기분석·라인업·결장자·통계·승부예측 (9월 4일) | V-League - 픽천국"
+date: 2026-09-04T11:00:00.000Z
+description: "Trường Tươi Đồng Nai vs 비엣텔 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6059507-2026-09-04-trng-ti-ng-nai"
+category: "soccer"
+country: "대한민국"
+league: "V-League"
+homeTeam: "Trường Tươi Đồng Nai"
+awayTeam: "비엣텔"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/614353.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/743070.png"
+homeAnalysis: "Trường Tươi Đồng Nai는 2026시즌 전체 DB 기준 최근 경기 데이터가 없어 시즌 전체 흐름을 직접 길게 쌓기에는 제한이 있지만, 최근 2경기에서 승리 없이 1무 1패, 평균 득점 0.5로 공격 마무리가 다소 무거운 모습입니다. 직전 경기에서도 득점 없이 패하며 전방 전개가 매끄럽지 않았고, 앞선 경기에서는 한 골에 그치며 흐름을 바꾸지 못했습니다. 수비 쪽에서는 큰 점수 차로 흔들린 장면은 없지만, 실점 이후 경기 운영을 되돌리는 힘이 충분하지 않아 보입니다. 홈에서 치르는 경기라는 점은 분명한 힘이 되겠지만, 최근 흐름만 놓고 보면 먼저 실점을 막아내는 것이 중요해 보입니다. 특히 공격의 시작과 마무리를 맡는 핵심 자원의 활약이 살아나야 경기 내용이 한결 안정될 것으로 보입니다."
+awayAnalysis: "비엣텔은 2026시즌 전체 DB 기준 최근 8경기에서 3승 4무 1패, 평균 득점 1.5를 기록하며 전체적으로 흔들림이 적은 전력을 보여주고 있습니다. 최근 흐름을 보면 한 경기에서 크게 무너진 뒤에도 곧바로 경기력을 추스르며, 꾸준히 득점 기회를 만들고 있다는 점이 돋보입니다. 다만 연속으로 경기 후반 집중력이 흔들리는 장면이 있어, 승부를 확실히 닫는 힘은 조금 더 보완이 필요해 보입니다. 원정에서도 득점 생산력이 크게 떨어지지 않고, 접전 양상에서도 쉽게 무너지지 않는 점은 분명한 강점입니다. 수비와 압박 강도가 살아나는 구간에서는 상대를 오래 묶어둘 수 있는 전력으로 평가됩니다."
+homePower: "최근 득점 침묵이 길어져 마무리 효율 보완이 급선무임|홈에서 반전 동력은 있지만 실점 뒤 추격력이 약해 보임|짧은 전개보다 안정적 점유가 더 필요한 흐름임|선제 실점 시 경기 운영이 급격히 무거워지는 편임|공격 핵심 자원 가동 여부가 승부의 열쇠로 보임"
+awayPower: "비엣텔은 경기당 득점 감각이 일정하게 유지됨|원정에서도 공격 템포가 크게 꺾이지 않는 점이 강점임|접전에서 쉽게 무너지지 않는 구조가 확인됨|후반 집중력 기복은 있지만 전체 균형은 양호함|상대 수비 불안이 보이면 빠르게 주도권을 잡는 힘이 있음"
+h2h: '[]'
+summary: "비엣텔이 시즌 전체 흐름에서 한 단계 더 안정적인 전력을 보여주고 있습니다. Trường Tươi Đồng Nai는 최근 득점 흐름이 무겁고 경기 주도권을 오래 유지하는 힘이 부족해 보이는 반면, 비엣텔은 득점 생산과 경기 운영이 모두 비교적 고르게 이어지고 있습니다. 홈 이점은 Trường Tươi Đồng Nai에 있지만, 전체적인 전력 차이와 최근 흐름을 함께 보면 비엣텔 쪽 우세 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"25.06.27","home":"다낭","away":"Trường Tươi Đồng Nai","score":"2-0","result":"🔴패"},{"date":"25.01.12","home":"황아잉지아라이","away":"Trường Tươi Đồng Nai","score":"1-1","result":"🟡무"}]'
+awayRecent: '[{"date":"26.06.11","home":"푸동","away":"비엣텔","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1536092-2026-06-11-phu-dong/"},{"date":"26.06.07","home":"비엣텔","away":"하노이 폴리스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1518109-2026-06-07-viettel/"},{"date":"26.05.31","home":"호치민 시티","away":"비엣텔","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1518098-2026-05-31-ho-chi-minh/"},{"date":"26.05.22","home":"비엣텔","away":"포히엔","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1518089-2026-05-22-viettel/"},{"date":"26.05.17","home":"남딘","away":"비엣텔","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1518086-2026-05-17-nam-dinh/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "비엣텔"
+pickWinResult: "승"
+pickHandicapTeam: "비엣텔"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

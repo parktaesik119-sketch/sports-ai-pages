@@ -1,0 +1,37 @@
+---
+title: "탬파베이 레이스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (9월 3일) | MLB - 픽천국"
+date: 2026-09-02T22:40:00.000Z
+description: "탬파베이 레이스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260903NMTB0-2026-09-03-tampa-bay-rays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "탬파베이 레이스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "탬파베이 레이스는 2026시즌 최근 103경기에서 60승 39패 승률 .601, 평균 득점 4.3을 기록하며 리그순위 1위를 지키고 있습니다. 최근 흐름도 10경기 7승 3패로 좋고, 평균 득점 4.2가 유지되면서 공격 생산성이 안정적으로 이어지고 있습니다. 직전 뉴욕 메츠전에서 6점을 올리며 승리한 뒤 다음 경기에서는 2점에 그쳤지만, 전체적으로는 장타와 기동력이 함께 살아나는 모습이 돋보입니다. 홈에서는 득점이 끊기지 않는 편이고, 강한 팀들을 상대로도 경기 후반까지 주도권을 놓치지 않는 운영이 강점입니다. 다만 불펜 핵심 일부 이탈이 있어 세밀한 경기 마무리에서는 변수가 남아 있지만, 전체 전력의 균형은 여전히 매우 탄탄해 보입니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 최근 99경기에서 46승 52패 승률 .446, 평균 득점 4.2를 기록하며 리그순위 13위에 머물고 있습니다. 최근 10경기에서는 4승 6패에 평균 득점 3.2로 내려가 공격 흐름이 다소 둔해진 모습입니다. 직전 탬파베이 레이스전에서 2점에 묶인 경기와 이어진 3득점 경기까지 보면, 상위권 투수진을 상대로 장타 연결이 매끄럽지 않은 편입니다. 원정에서는 실점 억제가 흔들릴 때 경기 흐름이 급격히 무너지는 경향이 있고, 수비와 불펜의 부담도 커지고 있습니다. 특히 장기 결장자가 여러 명이라 경기 후반 응집력에서 아쉬움이 남는 전력으로 보입니다."
+homePower: "리그 1위답게 경기 운영의 안정감이 큼|평균 득점 4점대 초반, 꾸준한 생산력임|최근 10경기 7승, 상승 흐름이 선명함|메츠전 첫 경기 6득점, 타선 상성 우세함|불펜 이탈 있어도 초반 주도권 유지가 핵심임"
+awayPower: "리그순위 13위, 전력 기복이 큰 편임|최근 10경기 4승 6패, 하락 신호가 뚜렷함|평균 득점 3점대, 타선 응집력 저하 보임|원정 실점 관리 흔들리며 추격전 부담 큼|장기 결장 여파로 후반 승부 약화가 우려됨"
+h2h: '[{"date":"26.09.02","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"6-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NMTB0-2026-09-02-tampa-bay-rays/"},{"date":"26.09.01","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"2-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NMTB0-2026-09-01-tampa-bay-rays/"}]'
+summary: "탬파베이 레이스는 리그순위 1위답게 시즌 내내 꾸준한 득점력과 안정적인 경기 운영을 보여주고 있고, 뉴욕 메츠는 리그순위 13위로 내려앉은 흐름 속에서 공격 완성도가 다소 떨어져 있습니다. 두 팀 모두 시즌 평균 득점은 비슷하게 보일 수 있지만, 최근 흐름에서는 탬파베이 레이스가 더 선명한 우위에 있고 뉴욕 메츠는 실점 관리와 타선 연결에서 아쉬움이 커지고 있습니다. 특히 상대전적에서도 탬파베이 레이스가 직전 맞대결에서 먼저 힘을 보여 주었기 때문에, 이번 경기는 홈팀이 전반적인 전력 우세를 바탕으로 주도권을 잡을 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.02","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NMTB0-2026-09-02-tampa-bay-rays/"},{"date":"26.09.01","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NMTB0-2026-09-01-tampa-bay-rays/"},{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays/"},{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"},{"date":"26.08.29","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SDTB0-2026-08-29-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.09.02","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NMTB0-2026-09-02-tampa-bay-rays/"},{"date":"26.09.01","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NMTB0-2026-09-01-tampa-bay-rays/"},{"date":"26.08.31","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831HONM0-2026-08-31-new-york-mets/"},{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"},{"date":"26.08.29","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets/"}]'
+injuryHome: "Jake Fraley (수술)|Cole Sulser (경련)|Jonathan Heasley (골절)|Edwin Uceta (염좌)|Griffin Jax (통증)"
+injuryAway: "Cionel Perez (염좌)|Justin Hagenman (골절)|Devin Williams (염좌)|Jorge Polanco (수술)|Reed Garrett (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

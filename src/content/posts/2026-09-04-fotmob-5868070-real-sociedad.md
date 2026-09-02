@@ -1,0 +1,37 @@
+---
+title: "레알 소시에다드 vs 셀타 비고 경기분석·라인업·결장자·통계·승부예측 (9월 4일) | 라리가 - 픽천국"
+date: 2026-09-03T19:00:00.000Z
+description: "레알 소시에다드 vs 셀타 비고 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868070-2026-09-04-real-sociedad"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "레알 소시에다드"
+awayTeam: "셀타 비고"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png"
+homeAnalysis: "레알 소시에다드는 2026시즌 최근 14경기에서 3승 3무 8패를 기록하며 평균 득점 1.4를 남기고 있습니다. 최근에는 에스파뇰전 승리로 반등을 만들었지만, 레알 마드리드전과 레알 베티스전처럼 강한 압박과 전환 속도에 흔들리는 장면도 적지 않았습니다. 다만 안방에서는 경기를 주도하려는 성향이 분명하고, 미켈 오야르사발을 중심으로 안드레 바레네체아와 오리 오스카르손이 전방에서 마무리 책임을 나누는 구조는 여전히 위협적입니다. 카를로스 솔레르와 루카 수치치가 중원을 받쳐줄 때는 볼 배급과 세컨드볼 대응이 좋아지며, 홈 경기에서 공격 전개가 좀 더 매끄럽게 이어질 가능성이 있습니다. 다만 알렉스 레미로와 파블로 마린, 알바로 오드리오솔라의 이탈은 수비 조직과 측면 운영의 안정감을 떨어뜨릴 수 있어, 실점 억제가 승부의 핵심으로 보입니다."
+awayAnalysis: "셀타 비고는 2026시즌 최근 12경기에서 4승 5무 3패를 기록하며 평균 득점 1.4를 유지하고 있습니다. 최근에는 아틀레틱 클럽과 오사수나에게 연달아 고전했지만, 발렌시아전 무실점과 나폴리전 무승부처럼 수비 집중력은 쉽게 무너지지 않는 모습도 보여주고 있습니다. 클라우디오 히랄데스 감독 체제에서는 3-4-3 형태를 바탕으로 윌리오트 스베드베리, 휴고 곤살레스, 페란 주글라가 전방 압박과 침투를 함께 맡는 구조가 돋보입니다. 중원에서는 일라이시 모리바와 세르히오 카레이라가 템포를 조절하며, 알바로 누녜스와 아브두라예 파예가 버티는 수비선이 버틸 수 있느냐가 중요합니다. 보르하 이글레시아스의 결장은 제공되는 화력 면에서 아쉬움이 크기 때문에, 원정에서는 한 번의 기회를 얼마나 효율적으로 살리느냐가 관건입니다."
+homePower: "미켈 오야르사발 중심의 마무리 완성도 기대됨|카를로스 솔레르 합류로 중원 전개 다양성 확보됨|안방 주도권은 강하지만 실점 억제 불안이 남아있음|알렉스 레미로 공백으로 골문 안정감 저하 우려됨|상대 맞춤 압박보다 전환 수비가 승부 변수로 보임"
+awayPower: "클라우디오 히랄데스 체제의 전술 응집력 검증됨|윌리오트 스베드베리의 측면 돌파가 활로가 됨|일라이시 모리바 중심으로 중원 수싸움 강점임|보르하 이글레시아스 공백으로 마무리 무게감 감소함|원정에서도 수비 블록 유지 시 버티는 힘이 있음"
+h2h: '[{"date":"26.01.26","home":"레알 소시에다드","away":"셀타 비고","score":"3-1"},{"date":"25.10.19","home":"셀타 비고","away":"레알 소시에다드","score":"1-1"},{"date":"25.05.14","home":"레알 소시에다드","away":"셀타 비고","score":"0-1"},{"date":"24.12.22","home":"셀타 비고","away":"레알 소시에다드","score":"2-0"},{"date":"24.01.24","home":"셀타 비고","away":"레알 소시에다드","score":"1-2"}]'
+summary: "레알 소시에다드는 시즌 전력만 놓고 보면 기복이 크지만, 안방에서는 주도권을 잡으려는 색채가 분명하고 미켈 오야르사발을 앞세운 공격 완성도도 충분히 살아날 여지가 있습니다. 셀타 비고는 시즌 성적이 더 안정적이고, 중원 압박과 수비 응집력에서 강점을 보이지만, 보르하 이글레시아스의 이탈로 최전방의 무게가 가벼워진 점이 아쉽습니다. 상대전적에서는 레알 소시에다드가 홈에서 한 발 앞선 흐름을 보여왔고, 최근 맞대결 양상도 팽팽하면서도 레알 소시에다드 쪽의 공격 전개가 조금 더 매끄럽게 이어지는 편이었습니다. 전체적으로는 레알 소시에다드가 홈 이점을 바탕으로 우위를 점할 가능성이 조금 더 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Pellegrino Matarazzo (부상)|Alex Remiro (어깨 부상)|Álvaro Odriozola (십자 인대 부상)|Pablo Marín (근육 부상)"
+injuryAway: "Borja Iglesias (근육 부상)"
+homeLineup: '["Unai Marrero (GK)|https://images.fotmob.com/image_resources/playerimages/1217043.png","Jon Aramburu (DF)|https://images.fotmob.com/image_resources/playerimages/1249284.png","Igor Zubeldia (DF)|https://images.fotmob.com/image_resources/playerimages/698653.png","Jon Martín (DF)|https://images.fotmob.com/image_resources/playerimages/1523234.png","Sergio Gómez (DF)|https://images.fotmob.com/image_resources/playerimages/844477.png","Luka Sucic (MF)|https://images.fotmob.com/image_resources/playerimages/959597.png","Beñat Turrientes (MF)|https://images.fotmob.com/image_resources/playerimages/1210647.png","Carlos Soler (MF)|https://images.fotmob.com/image_resources/playerimages/708890.png","Ander Barrenetxea (FW)|https://images.fotmob.com/image_resources/playerimages/1002618.png","Orri Óskarsson (FW)|https://images.fotmob.com/image_resources/playerimages/1097229.png","Mikel Oyarzabal (FW)|https://images.fotmob.com/image_resources/playerimages/678234.png"]'
+awayLineup: '["Ionut Radu (GK)|https://images.fotmob.com/image_resources/playerimages/681213.png","Javi Rodríguez (DF)|https://images.fotmob.com/image_resources/playerimages/1435439.png","Carl Starfelt (DF)|https://images.fotmob.com/image_resources/playerimages/497662.png","Abdoulaye Faye (DF)|https://images.fotmob.com/image_resources/playerimages/1555492.png","Álvaro Núñez (DF)|https://images.fotmob.com/image_resources/playerimages/1132355.png","Aleix Febas (MF)|https://images.fotmob.com/image_resources/playerimages/671686.png","Ilaix Moriba (MF)|https://images.fotmob.com/image_resources/playerimages/1109046.png","Sergio Carreira (MF)|https://images.fotmob.com/image_resources/playerimages/1106742.png","Williot Swedberg (FW)|https://images.fotmob.com/image_resources/playerimages/1272740.png","Hugo González (FW)|https://images.fotmob.com/image_resources/playerimages/1226783.png","Ferrán Jutglà (FW)|https://images.fotmob.com/image_resources/playerimages/1102732.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: ""
+awayCoach: "Claudio Giráldez|https://images.fotmob.com/image_resources/playerimages/1622886.png"
+pickWinTeam: "레알 소시에다드"
+pickWinResult: "승"
+pickHandicapTeam: "레알 소시에다드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

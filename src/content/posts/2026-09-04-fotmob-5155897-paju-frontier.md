@@ -1,0 +1,37 @@
+---
+title: "파주 시티즌 vs 대구 FC 경기분석·라인업·결장자·통계·승부예측 (9월 4일) | K2 - 픽천국"
+date: 2026-09-04T10:30:00.000Z
+description: "파주 시티즌 vs 대구 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155897-2026-09-04-paju-frontier"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "파주 시티즌"
+awayTeam: "대구 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/739803.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133897.png"
+homeAnalysis: "파주 시티즌은 2026시즌 최근 17경기에서 6승 5무 6패, 평균 득점 0.8을 기록하며 득점 생산이 다소 제한적인 흐름을 보이고 있습니다. 최근에는 실점 관리가 크게 무너지지는 않지만, 한 골 차 승부에서 마무리 효율이 흔들리며 결과를 끝까지 지키지 못하는 장면도 보입니다. 홈에서는 수비 밸런스를 먼저 세우는 운영이 자연스럽고, 한 번 흐름을 타면 성남 FC전처럼 버티면서 승점을 만드는 힘도 있습니다. 다만 공격 쪽에서는 보르하 바스톤과 이재호, 이준석의 연계가 살아나야 더 안정적으로 상대를 흔들 수 있습니다. 제라르 누스 감독 체제에서는 빠른 전환보다 조직적인 압박과 간결한 전개가 강점으로 보입니다."
+awayAnalysis: "대구 FC는 2026시즌 최근 15경기에서 9승 3무 3패, 평균 득점 1.9로 훨씬 높은 화력과 완성도를 보여주고 있습니다. 최근에도 원정에서 안산 그리너스를 잡아내며 전방 압박과 마무리의 효율이 여전히 살아 있음을 증명했습니다. 다만 화성전처럼 수비가 흔들릴 때는 대량 실점으로 이어질 수 있어, 경기 흐름이 길어질수록 뒷공간 관리가 중요해 보입니다. 세징야와 마테우스 세라핌, 박인혁이 함께 움직이는 전방은 한 번 리듬을 타면 득점 루트가 다양하게 열립니다. 최성용 감독 체제에서는 중원 장악과 빠른 측면 전환이 잘 살아나는 편이라, 공격 주도권을 잡을 가능성이 높습니다."
+homePower: "평균 득점 0.8로 한 방 의존도 높음|파이널 서드에서 세밀한 완성도 과제임|홈에선 버티는 운영이 승점으로 연결됨|보르하 바스톤 활용 시 제공권 변수 생김|실점 최소화가 곧 경기 운영의 핵심임"
+awayPower: "평균 득점 1.9가 말하듯 마무리 안정감 높음|세징야 중심 전개가 공격의 기준점임|원정에서도 전방 압박 강도 유지됨|마테우스 세라핌, 박인혁의 침투 위협 큼|다만 실점 급증 구간은 관리 필요함"
+h2h: '[{"date":"26.06.05","home":"대구 FC","away":"파주 시티즌","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1510356-2026-06-05-daegu-fc/"}]'
+summary: "대구 FC가 시즌 전체 전력에서는 더 강한 우위를 점하고 있습니다. 파주 시티즌은 수비 집중력으로 버티는 힘은 있지만, 시즌 전체 득점 흐름이 낮아 주도권을 길게 잡기에는 다소 아쉬움이 있습니다. 반면 대구 FC는 득점 생산이 꾸준하고 전방 선택지도 넓어서 경기 운영의 무게감이 분명합니다. 최근 맞대결에서도 대구 FC가 한 골 차 승리를 가져간 만큼, 이번 경기 역시 대구 FC 쪽이 더 안정적으로 우세를 이어갈 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Ryu Won-Woo (GK)|https://images.fotmob.com/image_resources/playerimages/307920.png","Kim Min-Ho (DF)|https://images.fotmob.com/image_resources/playerimages/848103.png","Hong Jeong-Woon (DF)|https://images.fotmob.com/image_resources/playerimages/734953.png","Julián Bonilla (DF)|https://images.fotmob.com/image_resources/playerimages/1356325.png","Lee Min-Ki (DF)|https://images.fotmob.com/image_resources/playerimages/1836920.png","June-Hyuk Ahn (MF)|https://images.fotmob.com/image_resources/playerimages/1132901.png","Choi Bum-Kyung (MF)|https://images.fotmob.com/image_resources/playerimages/940691.png","Yu Jae-Jun (MF)|https://images.fotmob.com/image_resources/playerimages/1958671.png","Lee Je-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/1067161.png","Borja Bastón (FW)|https://images.fotmob.com/image_resources/playerimages/200917.png","Lee Joon-Suk (FW)|https://images.fotmob.com/image_resources/playerimages/1042269.png"]'
+awayLineup: '["Han Tae-Hee (GK)|https://images.fotmob.com/image_resources/playerimages/1437918.png","Hong Jae-Seok (DF)|https://images.fotmob.com/image_resources/playerimages/1612440.png","Kim Kang-San (DF)|https://images.fotmob.com/image_resources/playerimages/1136190.png","Hwang In-Taek (DF)|https://images.fotmob.com/image_resources/playerimages/1478038.png","Hwang Jae-Won (MF)|https://images.fotmob.com/image_resources/playerimages/1337083.png","Kim Dae-Woo (MF)|https://images.fotmob.com/image_resources/playerimages/1232561.png","Ryu Jae-Moon (MF)|https://images.fotmob.com/image_resources/playerimages/623042.png","Choi Kang-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1612422.png","Matheus Serafim (FW)|https://images.fotmob.com/image_resources/playerimages/964937.png","Park In-Hyeok (FW)|https://images.fotmob.com/image_resources/playerimages/658415.png","Cesinha (FW)|https://images.fotmob.com/image_resources/playerimages/500597.png"]'
+homeFormation: "4-3-3"
+awayFormation: "3-4-3"
+homeCoach: "Gerard Nus|https://images.fotmob.com/image_resources/playerimages/1207584.png"
+awayCoach: "Choi Sung-Yong|https://images.fotmob.com/image_resources/playerimages/29431.png"
+pickWinTeam: "대구 FC"
+pickWinResult: "승"
+pickHandicapTeam: "대구 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
