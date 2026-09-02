@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.01","home":"KT 위즈","away":"한화 이글스","s
 awayRecent: '[{"date":"26.09.01","home":"KT 위즈","away":"한화 이글스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901HHKT02026-2026-09-01-kt-wiz-suwon/"},{"date":"26.08.30","home":"한화 이글스","away":"NC 다이노스","score":"7-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260830NCHH02026-2026-08-30-hanwha-eagles/"},{"date":"26.08.29","home":"한화 이글스","away":"NC 다이노스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829NCHH02026-2026-08-29-hanwha-eagles/"},{"date":"26.08.27","home":"SSG 랜더스","away":"한화 이글스","score":"13-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827HHSK02026-2026-08-27-ssg-landers/"},{"date":"26.08.26","home":"SSG 랜더스","away":"한화 이글스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826HHSK02026-2026-08-26-ssg-landers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 최원준 (중견수)\",\"2번 김현수 (1루수)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (좌익수)\",\"5번 김민혁 (지명타자)\",\"6번 김상수 (2루수)\",\"7번 허경민 (3루수)\",\"8번 조대현 (포수)\",\"9번 장준원 (유격수)\"]"
-awayLineup: "[\"1번 최인호 (중견수)\",\"2번 페라자 (우익수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 김태연 (1루수)\",\"7번 허인서 (포수)\",\"8번 황영묵 (2루수)\",\"9번 심우준 (유격수)\"]"
+homeLineup: "[\"선발투수 고영표 (ERA 3.61)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64001.jpg\",\"1번 최원준 (중견수)\",\"2번 김현수 (1루수)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (좌익수)\",\"5번 김민혁 (지명타자)\",\"6번 김상수 (2루수)\",\"7번 허경민 (3루수)\",\"8번 조대현 (포수)\",\"9번 장준원 (유격수)\"]"
+awayLineup: "[\"선발투수 왕옌청 (ERA 3.52)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56719.jpg\",\"1번 최인호 (중견수)\",\"2번 페라자 (우익수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 김태연 (1루수)\",\"7번 허인서 (포수)\",\"8번 황영묵 (2루수)\",\"9번 심우준 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
