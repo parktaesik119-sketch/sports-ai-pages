@@ -189,7 +189,9 @@ if (isExtraFiltered) {
     "Greece": ["SUPER LEAGUE"], // "Super League"/"Super League 1" 둘 다 매칭됨 (includes 비교라 뒤에 숫자 붙어도 걸림)
     "Colombia": ["PRIMERA A"],
     "Austria": ["BUNDESLIGA"], // 오스트리아 분데스리가는 독일 분데스리가와 리그명이 겹쳐서 country로 구분해서 차단
-    "Vietnam": ["V-LEAGUE"]
+    "Vietnam": ["V-LEAGUE"],
+    "IDN": ["SUPER LEAGUE"],
+    "IDN": ["SUPERLEAGUE"],
   };
 
   if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
