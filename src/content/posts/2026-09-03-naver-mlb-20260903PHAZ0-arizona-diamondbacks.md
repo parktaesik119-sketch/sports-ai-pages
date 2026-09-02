@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.01","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Ryne Nelson (염좌)|Tommy Troy (염좌)|Ryan Thompson (염좌)|Michael Soroka (염증)|Zac Gallen (염증)"
 injuryAway: "Caleb Kilian (염좌)|Tanner Banks (염좌)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 A. Painter (3-8, 5.95) ERA 5.95|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

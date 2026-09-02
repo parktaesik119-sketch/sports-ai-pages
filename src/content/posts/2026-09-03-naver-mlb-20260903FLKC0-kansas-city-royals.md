@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.08.31","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"},{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"},{"date":"26.08.29","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829FLMO0-2026-08-29-washington-nationals/"},{"date":"26.08.27","home":"마이애미 말린스","away":"보스턴 레드삭스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BOFL0-2026-08-27-miami-marlins/"}]'
 injuryHome: "Maikel Garcia (좌측 손목 염좌)|Connor Seabold (손목 염좌)|Michael Massey (명시되지 않음)|Beck Way (경련)|Carlos Estevez (손목 염좌)"
 injuryAway: "Anthony Bender (골절)|Pete Fairbanks (신경 압박)|Xavier Edwards (염좌)|Max Meyer (손목 염좌)|Ronny Henriquez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. Cameron (9-8, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\"]"
+awayLineup: "[\"선발투수 E. Perez (7-10, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
