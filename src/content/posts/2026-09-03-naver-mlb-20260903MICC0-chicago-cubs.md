@@ -1,0 +1,37 @@
+---
+title: "시카고 컵스 vs 밀워키 브루어스 경기분석·라인업·결장자·통계·승부예측 (9월 3일) | MLB - 픽천국"
+date: 2026-09-02T23:40:00.000Z
+description: "시카고 컵스 vs 밀워키 브루어스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260903MICC0-2026-09-03-chicago-cubs"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 컵스"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+homeAnalysis: "시카고 컵스는 2026시즌 최근 95경기에서 51승 42패 승률 .561을 기록하며 평균 득점 5.3점을 유지하고 있습니다. 현재 리그순위 5위이지만 최근 10경기에서는 4승 6패로 기복이 보이고 있어, 상위권 추격 흐름 속에서도 안정감은 조금 더 필요한 모습입니다. 다만 직전 밀워키 브루어스전 17득점 승리와 같은 폭발력이 살아 있는 날에는 타선을 한꺼번에 밀어붙이는 장면이 분명히 나타납니다. 홈에서는 공격 템포를 끌어올릴 때 강점이 뚜렷하고, 반대로 초반 흐름을 놓치면 실점 부담이 커지는 편으로 보입니다. 특히 최근 경기들에서 득점력은 충분히 확인되고 있어, 마운드만 버텨주면 홈에서 다시 주도권을 잡을 가능성이 있습니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 최근 100경기에서 62승 37패 승률 .619을 기록하며 평균 득점 4.8점으로 꾸준한 효율을 보여주고 있습니다. 현재 리그순위 1위에 올라 있고 득실도 크게 앞서 있어 시즌 내내 안정적인 전력 운영이 이어지고 있습니다. 최근 10경기 6승 4패 흐름은 고점만큼 압도적이지는 않지만, 큰 무너짐 없이 실속을 챙기는 전형이 유지되고 있습니다. 원정에서도 타선이 필요한 순간에 점수를 내는 장면이 많고, 특히 실점 억제력이 좋아 접전에서도 버티는 힘이 있습니다. 다만 최근 맞대결에서는 시카고 컵스 타선에 크게 흔들린 적이 있어, 초반 투수 운영이 매우 중요해 보입니다."
+homePower: "홈 타선의 폭발력이 경기 흐름을 단숨에 바꾸는 유형임|최근 득점 기복이 커서 초반 집중타가 중요해 보임|상위권 팀 상대에서도 장타 한 번에 분위기 전환됨|홈에서 공격 템포가 맞으면 대량 득점 가능성 높음|실점이 늘면 타선 부담도 커지는 구조가 뚜렷함"
+awayPower: "리그 1위 전력답게 승부처 관리 능력이 검증됨|평균 득점은 높지 않아도 필요한 점수는 챙기는 편임|실점 억제력이 좋아 장기전에서 우세를 만들기 쉬움|최근 원정에서도 흐름이 무너지지 않는 안정감이 보임|시카고 컵스 상대 대량 실점 뒤 반등 가능성도 충분함"
+h2h: '[{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"},{"date":"26.09.01","home":"시카고 컵스","away":"밀워키 브루어스","score":"17-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901MICC0-2026-09-01-chicago-cubs/"},{"date":"26.06.29","home":"밀워키 브루어스","away":"시카고 컵스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-179266-2026-06-29-milwaukee-brewers/"},{"date":"26.06.28","home":"밀워키 브루어스","away":"시카고 컵스","score":"2-8","link":"https://pick79.com/posts/detail/analyze-179258-2026-06-28-milwaukee-brewers/"},{"date":"26.06.27","home":"밀워키 브루어스","away":"시카고 컵스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-179236-2026-06-27-milwaukee-brewers/"}]'
+summary: "시카고 컵스는 현재 리그순위 5위로 시즌 승률은 안정권에 있지만, 최근 10경기 흐름이 들쑥날쑥해 경기별 편차가 큰 편입니다. 반면 밀워키 브루어스는 리그순위 1위에 걸맞게 시즌 전체 균형이 좋고, 득실에서도 우위를 유지하면서 한 경기 내 운영 완성도가 높아 보입니다. 다만 최근 상대전적에서는 시카고 컵스가 한 차례 크게 밀어붙인 장면도 있었고, 홈에서 타선이 살아날 경우 경기 주도권을 가져올 힘은 충분합니다. 전체적으로는 시카고 컵스의 공격 변동성과 밀워키 브루어스의 안정적인 전력 운영이 맞붙는 구도이며, 홈팀이 타선 흐름을 살리면 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"},{"date":"26.09.01","home":"시카고 컵스","away":"밀워키 브루어스","score":"17-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901MICC0-2026-09-01-chicago-cubs/"},{"date":"26.08.31","home":"시카고 컵스","away":"신시내티 레즈","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CICC0-2026-08-31-chicago-cubs/"},{"date":"26.08.30","home":"시카고 컵스","away":"신시내티 레즈","score":"17-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830CICC0-2026-08-30-chicago-cubs/"},{"date":"26.08.29","home":"시카고 컵스","away":"신시내티 레즈","score":"8-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829CICC0-2026-08-29-chicago-cubs/"}]'
+awayRecent: '[{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"},{"date":"26.09.01","home":"시카고 컵스","away":"밀워키 브루어스","score":"17-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901MICC0-2026-09-01-chicago-cubs/"},{"date":"26.08.31","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831TEMI0-2026-08-31-milwaukee-brewers/"},{"date":"26.08.30","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830TEMI0-2026-08-30-milwaukee-brewers/"},{"date":"26.08.29","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829TEMI0-2026-08-29-milwaukee-brewers/"}]'
+injuryHome: "Pedro Ramirez (경련)|Edward Cabrera (찰과상)|Shelby Miller (수술)|Gavin Hollowell (염증)|Tyler Austin (수술)"
+injuryAway: "Joel Kuhnel (건염)|Rob Zastryzny (염좌)|Bryse Wilson (염좌)|Brandon Woodruff (염증)|Quinn Priester (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
