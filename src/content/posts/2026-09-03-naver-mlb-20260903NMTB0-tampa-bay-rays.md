@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.02","home":"탬파베이 레이스","away":"뉴욕 
 awayRecent: '[{"date":"26.09.02","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NMTB0-2026-09-02-tampa-bay-rays/"},{"date":"26.09.01","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NMTB0-2026-09-01-tampa-bay-rays/"},{"date":"26.08.31","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831HONM0-2026-08-31-new-york-mets/"},{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"},{"date":"26.08.29","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829HONM0-2026-08-29-new-york-mets/"}]'
 injuryHome: "Jake Fraley (수술)|Cole Sulser (경련)|Jonathan Heasley (골절)|Edwin Uceta (염좌)|Griffin Jax (통증)"
 injuryAway: "Cionel Perez (염좌)|Justin Hagenman (골절)|Devin Williams (염좌)|Jorge Polanco (수술)|Reed Garrett (수술)"
-homeLineup: "[\"선발투수 S. McClanahan (10-6, 3.19) ERA 3.19|https://a.espncdn.com/i/headshots/mlb/players/full/41199.png\"]"
+homeLineup: "[\"선발투수 G. Jax (6-9, 3.63) ERA 3.63|https://a.espncdn.com/i/headshots/mlb/players/full/42604.png\"]"
 awayLineup: "[\"선발투수 J. Hagenman|https://a.espncdn.com/i/headshots/mlb/players/full/4991251.png\"]"
 homeFormation: ""
 awayFormation: ""
