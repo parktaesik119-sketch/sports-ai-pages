@@ -21,6 +21,7 @@ export default {
   "Thailand": "th",
   "Vietnam": "vn",
   "Indonesia": "id",
+  "IDN": "id",
   "Malaysia": "my",
   "Philippines": "ph",
   "Singapore": "sg",
