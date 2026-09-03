@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.03","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903TOCL0-2026-09-03-cleveland-guardians/"},{"date":"26.09.02","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902TOCL0-2026-09-02-cleveland-guardians/"},{"date":"26.08.31","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays/"},{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"},{"date":"26.08.29","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829SETO0-2026-08-29-toronto-blue-jays/"}]'
 injuryHome: "Slade Cecconi (몸상태 이상)|Rhys Hoskins (염증)|Shawn Armstrong (근육 부상)"
 injuryAway: "Patrick Corbin (근육 부상)|Jameson Taillon (건염)|Luis Urias (근육 부상)|Anthony Santander (수술)|Jonatan Clase (족저근막염)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Bibee (5-14, 3.88) ERA 3.88|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
+awayLineup: "[\"선발투수 J. Soriano (11-7, 3.45) ERA 3.45|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

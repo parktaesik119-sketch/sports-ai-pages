@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.02","home":"LA 다저스","away":"세인트루이�
 awayRecent: '[{"date":"26.09.02","home":"LA 다저스","away":"세인트루이스 카디널스","score":"8-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SLLA0-2026-09-02-los-angeles-dodgers/"},{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"},{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.28","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals/"},{"date":"26.08.27","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827BASL0-2026-08-27-st-louis-cardinals/"}]'
 injuryHome: "Gavin Stone (염증)|Bobby Miller (통증)|Brusdar Graterol (수술)|Jake Cousins (수술)|Edwin Diaz (염증)"
 injuryAway: "Everson Pereira (타박상)|Ramon Urias (일상 상태)|Masyn Winn (골절)|Andre Pallante (염증)|JJ Wetherholt (건염)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Skubal (8-7, 2.84) ERA 2.84|https://a.espncdn.com/i/headshots/mlb/players/full/42409.png\"]"
+awayLineup: "[\"선발투수 Q. Mathews (1-2, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/4837405.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

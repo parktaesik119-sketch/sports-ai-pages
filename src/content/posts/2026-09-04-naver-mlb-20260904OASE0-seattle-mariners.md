@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"보스턴 레드삭스","away":"시애�
 awayRecent: '[{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬레틱스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903OATE0-2026-09-03-texas-rangers/"},{"date":"26.09.01","home":"텍사스 레인저스","away":"애슬레틱스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901OATE0-2026-09-01-texas-rangers/"},{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 오리올스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BAOA0-2026-08-31-athletics/"},{"date":"26.08.29","home":"애슬레틱스","away":"볼티모어 오리올스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BAOA0-2026-08-29-athletics/"},{"date":"26.08.27","home":"애슬레틱스","away":"미네소타 트윈스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MNOA0-2026-08-27-athletics/"}]'
 injuryHome: "Brendan Donovan (뇌진탕)|Cole Wilcox (부상)|Matt Brash (부상)|Will Wilson (골절)|Emerson Hancock (부상)"
 injuryAway: "Tommy White (통증)|Joshua Kuroda-Grauer (수술)|Brooks Kriske (신경 압박)|Shea Langeliers (수술)|Nick Kurtz (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Gilbert (11-8, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+awayLineup: "[\"선발투수 J.T. Ginn (9-8, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

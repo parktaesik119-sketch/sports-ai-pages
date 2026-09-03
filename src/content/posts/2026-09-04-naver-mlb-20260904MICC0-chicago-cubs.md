@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브
 awayRecent: '[{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"},{"date":"26.09.01","home":"시카고 컵스","away":"밀워키 브루어스","score":"17-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901MICC0-2026-09-01-chicago-cubs/"},{"date":"26.08.31","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831TEMI0-2026-08-31-milwaukee-brewers/"},{"date":"26.08.30","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830TEMI0-2026-08-30-milwaukee-brewers/"},{"date":"26.08.29","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829TEMI0-2026-08-29-milwaukee-brewers/"}]'
 injuryHome: "Edward Cabrera (찰과상)|Shelby Miller (수술)|Pedro Ramirez (경련)|Gavin Hollowell (염증)|Tyler Austin (수술)"
 injuryAway: "Rob Zastryzny (근육 염좌)|Bryse Wilson (근육 염좌)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Gausman (8-11, 4.52) ERA 4.52|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
+awayLineup: "[\"선발투수 L. Henderson (9-2, 2.48) ERA 2.48|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.02","home":"캔자스시티 로열스","away":"마�
 awayRecent: '[{"date":"26.09.02","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902FLKC0-2026-09-02-kansas-city-royals/"},{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"},{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"},{"date":"26.08.29","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829FLMO0-2026-08-29-washington-nationals/"}]'
 injuryHome: "Maikel Garcia (긴장)|Connor Seabold (긴장)|Tony Gonsolin (수술)|James McArthur (수술)|Beck Way (없음)"
 injuryAway: "Anthony Bender (골절)|Pete Fairbanks (신경 압박)|Xavier Edwards (염좌)|Max Meyer (긴장)|Ronny Henriquez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Wacha (8-8, 3.32) ERA 3.32|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\"]"
+awayLineup: "[\"선발투수 S. Alcantara (13-8, 3.46) ERA 3.46|https://a.espncdn.com/i/headshots/mlb/players/full/35241.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
