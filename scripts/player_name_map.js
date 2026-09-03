@@ -344,6 +344,7 @@ const PLAYER_NAME_MAP = {
   "Myung-Jae Lee": "이명재",
   "Young-Jae Seo": "서영재",
   "Yun-Sung Kang": "강윤성",
+  "Yoon-Sung Kang": "강윤성",
   "Jun-Beom Kim": "김준범",
   "Hyun-Sik Lee": "이현식",
   "Bong-Soo Kim": "김봉수",
