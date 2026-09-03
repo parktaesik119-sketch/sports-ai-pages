@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.02","home":"라쿠텐 골든이글스","away":"오�
 awayRecent: '[{"date":"26.09.01","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SEJL0-2026-09-01-chiba-lotte-marines/"},{"date":"26.08.30","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830JLNH0-2026-08-30-nippon-ham-fighters/"},{"date":"26.08.29","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829JLNH0-2026-08-29-nippon-ham-fighters/"},{"date":"26.08.28","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828JLNH0-2026-08-28-nippon-ham-fighters/"},{"date":"26.08.27","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827SFJL0-2026-08-27-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Taito Takashima (5-4, 4.19)|https://p.npb.jp/players_photo/2026/180/b/096_61065159.jpg\"]"
+awayLineup: "[\"선발투수 Andre Jackson (9-7, 3.43)|https://p.npb.jp/players_photo/2026/180/m/042_43745159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
