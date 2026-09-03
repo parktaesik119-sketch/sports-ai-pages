@@ -1,0 +1,37 @@
+---
+title: "던디 유나이티드 vs 팰커크 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | Premiership - 픽천국"
+date: 2026-09-05T14:00:00.000Z
+description: "던디 유나이티드 vs 팰커크 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5793929-2026-09-05-dundee-united"
+category: "soccer"
+country: "스코틀랜드"
+league: "Premiership"
+homeTeam: "던디 유나이티드"
+awayTeam: "팰커크"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9938.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8596.png"
+homeAnalysis: "던디 유나이티드는 2026시즌 최근 29경기에서 5승 8무 16패, 평균 득점 1.1로 시즌 전체 흐름이 다소 무겁게 이어지고 있습니다. 최근에는 대량 실점이 섞인 패배가 자주 보였고, 반대로 킬마녹 원정 4득점처럼 공격이 살아나는 장면도 분명히 확인되고 있습니다. 홈에서는 셀틱전 0득점, 던디와의 맞대결에서 무득점 경기가 있었던 만큼 마무리의 안정감이 중요합니다. 다만 메헤디 메르헴, 자크리 사프스퍼드, 다니엘 베니로 이어질 전방 조합은 순간적인 압박 전환과 측면 침투에서 장점이 보입니다. 제이컵 월튼 골키퍼와 버트 에셀링크, 마이클 포브스 중심 수비가 흔들림을 줄이면 경기 운영의 균형은 조금 더 나아질 수 있습니다."
+awayAnalysis: "팰커크는 2026시즌 최근 13경기에서 4승 3무 6패, 평균 득점 1.2로 던디 유나이티드보다 경기당 생산력은 조금 더 나은 편입니다. 다만 최근에는 셀틱과 레인저스 같은 강한 상대를 만나 득점 효율이 떨어졌고, 실점 관리도 쉽게 안정되지 않는 모습이 있었습니다. 그럼에도 에단 로스, 시제이 포드리, 벤 파킨슨이 전방에서 버티는 구조는 한 번 흐름을 타면 위협적으로 바뀔 수 있습니다. 중원에서는 브래드 스펜서와 핀리 바브룩이 템포를 잡아 주어야 하고, 수비진은 부상 공백이 많은 만큼 조직적인 커버가 특히 중요합니다. 스콧 베인 골키퍼의 첫 선방과 라인 컨트롤이 초반 균형을 가르는 핵심으로 보입니다."
+homePower: "팰커크전 최근 맞대결 우세 흐름이 확인됨|메르헴-사프스퍼드 조합의 직선성 강점임|월튼 중심 수비 안정 시 실점 억제 가능성 보임|홈에서 무득점 반복은 마무리 효율 과제로 남음|부상 공백 적어 전방 압박 유지력은 비교적 나음"
+awayPower: "던디 유나이티드 상대 최근 우세 장면 다수 확인됨|에단 로스 중심 측면 전개가 반격 축으로 보임|브래드 스펜서의 중원 연결이 경기 균형 핵심임|부상자 다수로 수비 조합 재편 부담 큼|한 번 리드를 잡으면 수비적 운영 전환은 검증됨"
+h2h: '[{"date":"26.03.07","home":"팰커크","away":"던디 유나이티드","score":"2-1"},{"date":"26.02.15","home":"팰커크","away":"던디 유나이티드","score":"2-3"},{"date":"25.11.23","home":"던디 유나이티드","away":"팰커크","score":"0-3"},{"date":"25.08.03","home":"팰커크","away":"던디 유나이티드","score":"2-2"},{"date":"24.07.13","home":"팰커크","away":"던디 유나이티드","score":"2-0"}]'
+summary: "던디 유나이티드는 시즌 전체 전력만 놓고 보면 실점 부담과 기복이 함께 보이지만, 최근 특정 경기에서는 공격이 터지며 반전 가능성도 보여 주고 있습니다. 팰커크는 평균 득점이 조금 더 나은 편이지만, 최근 강한 상대를 상대로 득점이 막히는 장면이 있었고 부상 공백까지 겹쳐 안정감이 완전히 높다고 보기는 어렵습니다. 상대전적에서는 팰커크가 최근 우세 흐름을 만들었지만, 던디 유나이티드도 맞붙을 때마다 득점 장면을 만들어 내고 있어 접전 양상은 충분히 예상됩니다. 전체적인 전력 균형과 공격 전개 완성도를 함께 보면, 던디 유나이티드가 근소하게 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Miller Thomson (발목 부상)"
+injuryAway: "Conor McLeod (무릎 부상)|Finn Yeats (부상)|Joe Gardner (부상)|Craig Sibbald (부상)|Ethan Laidlaw (발목 부상)|Keelan Adams (발목 부상)|Aidan Nesbitt (발목 부상)"
+homeLineup: '["Jack Walton (GK)|https://images.fotmob.com/image_resources/playerimages/627016.png","Joshua Rawlins (DF)|https://images.fotmob.com/image_resources/playerimages/1069828.png","Bert Esselink (DF)|https://images.fotmob.com/image_resources/playerimages/1295678.png","Michael Forbes (DF)|https://images.fotmob.com/image_resources/playerimages/1186459.png","Will Ferry (MF)|https://images.fotmob.com/image_resources/playerimages/843138.png","Abdoulaye Yoro (DF)|https://images.fotmob.com/image_resources/playerimages/1714783.png","Emmanuel Agyei (MF)|https://images.fotmob.com/image_resources/playerimages/1422565.png","Panutche Camará (MF)|https://images.fotmob.com/image_resources/playerimages/826063.png","Mehdi Merghem (FW)|https://images.fotmob.com/image_resources/playerimages/780589.png","Zachary Sapsford (FW)|https://images.fotmob.com/image_resources/playerimages/1409171.png","Daniel Bennie (FW)|https://images.fotmob.com/image_resources/playerimages/1565859.png"]'
+awayLineup: '["Scott Bain (GK)|https://images.fotmob.com/image_resources/playerimages/186891.png","Ryan Strain (MF)|https://images.fotmob.com/image_resources/playerimages/896992.png","Lewis Neilson (DF)|https://images.fotmob.com/image_resources/playerimages/1128622.png","Liam Henderson (DF)|https://images.fotmob.com/image_resources/playerimages/661815.png","Leon McCann (DF)|https://images.fotmob.com/image_resources/playerimages/1085811.png","Finley Barbrook (MF)|https://images.fotmob.com/image_resources/playerimages/1599317.png","Brad Spencer (MF)|https://images.fotmob.com/image_resources/playerimages/873762.png","Ethan Ross (FW)|https://images.fotmob.com/image_resources/playerimages/967489.png","Ben Krauhaus (MF)|https://images.fotmob.com/image_resources/playerimages/1413887.png","CJ Fodrey (FW)|https://images.fotmob.com/image_resources/playerimages/1253499.png","Ben Parkinson (FW)|https://images.fotmob.com/image_resources/playerimages/1296765.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Jim Goodwin|https://images.fotmob.com/image_resources/playerimages/23660.png"
+awayCoach: "John McGlynn|https://images.fotmob.com/image_resources/playerimages/325048.png"
+pickWinTeam: "던디 유나이티드"
+pickWinResult: "승"
+pickHandicapTeam: "던디 유나이티드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

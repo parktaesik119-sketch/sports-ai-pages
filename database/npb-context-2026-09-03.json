@@ -1,0 +1,46 @@
+[
+  {
+    "home": "Chunichi Dragons",
+    "away": "Hiroshima Carp",
+    "date": "2026-09-03T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "バンテリンドーム",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Yumeto Kanemaru",
+        "nameJa": "金丸　夢斗",
+        "playerId": "61565150",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/d/021_61565150.jpg"
+      },
+      "away": {
+        "name": "Ryoji Kuribayashi",
+        "nameJa": "栗林　良吏",
+        "playerId": "91995153",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/c/020_91995153.jpg"
+      }
+    }
+  },
+  {
+    "home": "Yakult Swallows",
+    "away": "Hanshin Tigers",
+    "date": "2026-09-03T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "神　宮",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Shohta Masui",
+        "nameJa": "増居　翔太",
+        "playerId": "01805152",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/s/043_01805152.jpg"
+      },
+      "away": {
+        "name": "Masashi Itoh",
+        "nameJa": "伊藤　将司",
+        "playerId": "71375153",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/t/027_71375153.jpg"
+      }
+    }
+  }
+]

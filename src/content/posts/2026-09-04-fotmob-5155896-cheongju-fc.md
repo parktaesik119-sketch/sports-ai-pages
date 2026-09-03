@@ -1,0 +1,37 @@
+---
+title: "청주 FC vs 서울 이랜드 FC 경기분석·라인업·결장자·통계·승부예측 (9월 4일) | K2 - 픽천국"
+date: 2026-09-04T10:30:00.000Z
+description: "청주 FC vs 서울 이랜드 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155896-2026-09-04-cheongju-fc"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "청주 FC"
+awayTeam: "서울 이랜드 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/833651.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/616212.png"
+homeAnalysis: "청주 FC는 2026시즌 최근 18경기에서 5승 8무 5패를 기록하며 평균 득점 1.3으로 시즌을 치르고 있습니다. 최근 들어 승부를 길게 끌어가는 흐름이 자주 보이고, 득점은 완전히 막히지 않지만 경기마다 폭발력은 다소 들쭉날쭉한 편입니다. 특히 홈에서는 수비를 먼저 안정시키고 한두 번의 기회를 살리는 운영이 자주 나타나고 있습니다. 양영빈, 조주영, 조윤성, 박건우로 이어지는 수비 축과 김선민의 중원 장악이 경기의 바탕이 되고 있습니다. 전방에서는 라파엘 반데이라와 멘데르 가르시아의 연계가 살아날 때 공격 완성도가 올라가며, 이승환 골키퍼의 안정감도 버팀목으로 평가됩니다."
+awayAnalysis: "서울 이랜드 FC는 2026시즌 최근 15경기에서 7승 5무 3패를 기록하며 평균 득점 1.9로 더 강한 화력을 보여주고 있습니다. 최근에는 연속으로 점수를 만드는 흐름과 함께 원정에서도 경기 주도권을 잡는 장면이 적지 않아 전력의 안정감이 돋보입니다. 다만 실점이 전혀 없는 팀은 아니어서, 공격이 잘 풀리지 않는 날에는 흐름이 다소 흔들릴 수 있습니다. 오인표, 김오규, 카이오 마르셀루, 손혁찬으로 구성된 수비 라인이 기본 틀을 잡고 있고, 파크 창환과 오스마르, 윤석주가 중원에서 경기를 풀어주고 있습니다. 전방에서는 홍석준, 박재용, 이주혁이 마무리 속도를 끌어올릴 수 있어, 전체적으로는 청주 FC보다 공격 선택지가 더 풍부한 모습입니다."
+homePower: "홈에서 실점 관리가 비교적 먼저 잡히는 구조임|무승부가 많은 흐름은 경기 운영의 신중함을 보여줌|라파엘 반데이라-멘데르 가르시아 연계가 핵심임|김선민 중심 중원 압박이 전개 안정에 기여함|이승환의 안정적인 골문 수비가 변수가 적음"
+awayPower: "평균 득점 1.9가 공격 완성도 우위를 보여줌|원정에서도 득점 루트가 끊기지 않는 편임|오스마르 중심 중원 배급이 경기 템포를 만듦|박재용-이주혁 조합이 마무리 다양성을 높임|최근 원정 결과가 버텨주는 힘을 검증함"
+h2h: '[{"date":"26.06.07","home":"서울 이랜드 FC","away":"청주 FC","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1510362-2026-06-07-seoul-e-land-fc/"},{"date":"25.11.09","home":"청주 FC","away":"서울 이랜드 FC","score":"0-2"},{"date":"25.07.05","home":"청주 FC","away":"서울 이랜드 FC","score":"2-1"},{"date":"25.04.19","home":"서울 이랜드 FC","away":"청주 FC","score":"0-2"},{"date":"24.09.14","home":"청주 FC","away":"서울 이랜드 FC","score":"1-2"}]'
+summary: "서울 이랜드 FC가 2026시즌 전력과 득점 생산력에서 청주 FC보다 한발 앞선 흐름을 보이고 있습니다. 청주 FC는 실점을 크게 무너뜨리지는 않지만 득점이 꾸준히 폭발하는 유형은 아니어서, 공격 효율에서 차이가 나면 경기가 원정팀 쪽으로 기울 가능성이 있습니다. 다만 두 팀의 맞대결은 청주 FC가 쉽게 밀리지 않았고, 접전 양상 속에서 한 골 싸움으로 이어지는 장면이 자주 나타나고 있습니다. 전력의 상향세와 공격 다양성은 서울 이랜드 FC 쪽이 조금 더 뚜렷하지만, 청주 FC의 맞대결 상성과 수비 집중력도 분명히 경계할 만한 요소입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Lee Seung-Hwan (GK)|https://images.fotmob.com/image_resources/playerimages/1337180.png","Yang Young-Been (DF)|https://images.fotmob.com/image_resources/playerimages/1836695.png","Jo Ju-Yeong (DF)|https://images.fotmob.com/image_resources/playerimages/730786.png","Jo Yun-Seong (DF)|https://images.fotmob.com/image_resources/playerimages/1135941.png","Bak Keon-Woo (DF)|https://images.fotmob.com/image_resources/playerimages/1337179.png","Kim Seon-Min (MF)|https://images.fotmob.com/image_resources/playerimages/523742.png","Rafael Bandeira (FW)|https://images.fotmob.com/image_resources/playerimages/1177746.png","Lee Dong-Won (MF)|https://images.fotmob.com/image_resources/playerimages/1486606.png","Jeong Jin-Woo (MF)|https://images.fotmob.com/image_resources/playerimages/1439994.png","Lee Jong-Eon (FW)|https://images.fotmob.com/image_resources/playerimages/1562975.png","Ménder García (FW)|https://images.fotmob.com/image_resources/playerimages/1024479.png"]'
+awayLineup: '["Min Seong-Jun (GK)|https://images.fotmob.com/image_resources/playerimages/1338861.png","Oh In-Pyo (DF)|https://images.fotmob.com/image_resources/playerimages/925343.png","Kim Oh-Kyu (DF)|https://images.fotmob.com/image_resources/playerimages/253605.png","Caio Marcelo (DF)|https://images.fotmob.com/image_resources/playerimages/980462.png","Son Hyeok-Chan (DF)|https://images.fotmob.com/image_resources/playerimages/1836690.png","Park Chang-Hwan (MF)|https://images.fotmob.com/image_resources/playerimages/1232529.png","Osmar (MF)|https://images.fotmob.com/image_resources/playerimages/188531.png","Yoon Suk-Ju (MF)|https://images.fotmob.com/image_resources/playerimages/1232399.png","Hong Seok-Jun (FW)|https://images.fotmob.com/image_resources/playerimages/1779408.png","Bak Jae-Yong (FW)|https://images.fotmob.com/image_resources/playerimages/1398946.png","Lee Joo-Hyuk (FW)|https://images.fotmob.com/image_resources/playerimages/1783561.png"]'
+homeFormation: "4-1-4-1"
+awayFormation: "4-3-3"
+homeCoach: "Rui Quinta|https://images.fotmob.com/image_resources/playerimages/586702.png"
+awayCoach: "Kim Do-Kyun|https://images.fotmob.com/image_resources/playerimages/1136259.png"
+pickWinTeam: "서울 이랜드 FC"
+pickWinResult: "승"
+pickHandicapTeam: "서울 이랜드 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

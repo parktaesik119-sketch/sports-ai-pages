@@ -1,0 +1,37 @@
+---
+title: "산둥 타이산 vs 선전 신청펑 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | Super League - 픽천국"
+date: 2026-09-05T12:00:00.000Z
+description: "산둥 타이산 vs 선전 신청펑 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186608-2026-09-05-shandong-taishan"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "산둥 타이산"
+awayTeam: "선전 신청펑"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8623.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/930027.png"
+homeAnalysis: "산둥 타이산은 2026시즌 최근 22경기에서 8승 4무 10패, 평균 득점 1.7을 기록하며 공격 쪽에서는 꾸준히 기회를 만드는 전력이었습니다. 다만 최근 흐름에서는 강팀 상대로 실점이 늘어나는 장면이 보이고 있어, 득점력은 유지되더라도 수비 집중력이 승부를 가를 가능성이 큽니다. 홈에서는 경기 주도권을 잡으려는 성향이 뚜렷하고, 주젠용 골키퍼를 중심으로 페드로 아우구스토와 가오준이 수비 중심을 잡는 구조가 안정감을 더합니다. 중원에서는 구일레르메 마드루가와 정위황의 연결이 중요하고, 전방에서는 제카와 크리잔이 마무리 완성도를 끌어올릴 수 있는 조합입니다. 특히 선전 신청펑처럼 수비 블록을 낮추는 팀을 상대로는 측면과 2선의 연계가 잘 살아날 때 공격 효율이 더 좋아 보입니다."
+awayAnalysis: "선전 신청펑은 2026시즌 최근 21경기에서 5승 5무 11패, 평균 득점 1.0으로 공격 전개가 다소 무거운 편입니다. 최근에는 접전에서도 한 골 차 승부를 버티는 힘이 있지만, 실점 관리가 흔들리는 구간이 길어지면서 전반적인 전력이 완만하게 떨어지는 모습입니다. 원정에서는 먼저 라인을 정리한 뒤 역습으로 풀어가려는 흐름이 예상되며, 이것이 잘 맞아야 경기 운영이 편해집니다. 골키퍼 펑펑 앞에서 미아오탕, 가브리엘 자비에르, 루이위, 쥐즈옌 쉬안이 버티는 수비진은 조직력이 중요하고, 중원에서는 팀 초우와 에덴 카르제프의 압박 저항이 핵심입니다. 전방의 알비온 아데미와 웨이쑨 다이가 얼마나 적은 기회 속에서도 정확도를 보여 주는지가 득점력의 관건으로 보입니다."
+homePower: "홈에서 점유율 기반 운영이 가능한 전력임|제카-크리잔 조합으로 마무리 선택지 다양함|마드루가-정위황 축으로 중원 연결이 부드러움|강팀 상대로도 득점 생산은 유지되는 편임|수비 실점 억제가 경기 결과를 가르는 변수임"
+awayPower: "라인 내린 뒤 역습 전환이 분명한 전력임|알비온 아데미의 직선 침투가 핵심 무기임|팀 초우 중심 중원 압박 저항이 중요함|적은 득점 기회에서도 효율을 노리는 구조임|수비 집중력 흔들리면 급격히 무너질 수 있음"
+h2h: '[{"date":"26.05.10","home":"선전 신청펑","away":"산둥 타이산","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1523146-2026-05-10-sichuan-jiuniu/"},{"date":"25.08.16","home":"선전 신청펑","away":"산둥 타이산","score":"1-3"},{"date":"25.04.11","home":"산둥 타이산","away":"선전 신청펑","score":"4-0"},{"date":"24.09.28","home":"선전 신청펑","away":"산둥 타이산","score":"1-4"},{"date":"24.05.16","home":"산둥 타이산","away":"선전 신청펑","score":"3-2"}]'
+summary: "산둥 타이산은 2026시즌 전체 성적과 평균 득점 모두에서 선전 신청펑보다 한 단계 앞선 전력으로 보입니다. 특히 산둥 타이산은 꾸준한 득점 생산력에 비해 수비 흔들림만 줄이면 경기 주도권을 더 안정적으로 가져갈 수 있는 모습이고, 선전 신청펑은 득점 효율이 낮아 공격에서 한 번씩 끊기는 장면이 아쉽습니다. 상대전적에서도 산둥 타이산이 반복해서 우위를 보여 왔기 때문에, 이번 맞대결 역시 산둥 타이산이 전력과 상성에서 모두 앞서는 흐름으로 보는 편이 자연스럽습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Jinyong Yu (GK)|https://images.fotmob.com/image_resources/playerimages/1248507.png","Ruiqi Yang (DF)|https://images.fotmob.com/image_resources/playerimages/1357089.png","Pedro Álvaro (DF)|https://images.fotmob.com/image_resources/playerimages/822258.png","Zhunyi Gao (DF)|https://images.fotmob.com/image_resources/playerimages/648366.png","Wenneng Xie (MF)|https://images.fotmob.com/image_resources/playerimages/1248506.png","Yang Liu (DF)|https://images.fotmob.com/image_resources/playerimages/768634.png","Guilherme Madruga (MF)|https://images.fotmob.com/image_resources/playerimages/1460496.png","Zhengyu Huang (MF)|https://images.fotmob.com/image_resources/playerimages/730989.png","Imran Memet (MF)|https://images.fotmob.com/image_resources/playerimages/1711642.png","Zeca (FW)|https://images.fotmob.com/image_resources/playerimages/1175807.png","Cryzan (MF)|https://images.fotmob.com/image_resources/playerimages/637316.png"]'
+awayLineup: '["Peng Peng (GK)|https://images.fotmob.com/image_resources/playerimages/19716.png","Miao Tang (DF)|https://images.fotmob.com/image_resources/playerimages/432356.png","Gabriel Xavier (DF)|https://images.fotmob.com/image_resources/playerimages/1384473.png","Rui Yu (DF)|https://images.fotmob.com/image_resources/playerimages/431358.png","Zhijian Xuan (DF)|https://images.fotmob.com/image_resources/playerimages/1624755.png","Junsheng Yao (MF)|https://images.fotmob.com/image_resources/playerimages/860071.png","Yifan Tian (DF)|https://images.fotmob.com/image_resources/playerimages/1884192.png","Tim Chow (MF)|https://images.fotmob.com/image_resources/playerimages/425591.png","Eden Karzev (MF)|https://images.fotmob.com/image_resources/playerimages/933534.png","Albion Ademi (FW)|https://images.fotmob.com/image_resources/playerimages/648151.png","Wai-Tsun Dai (FW)|https://images.fotmob.com/image_resources/playerimages/865153.png"]'
+homeFormation: "5-3-2"
+awayFormation: "4-1-4-1"
+homeCoach: "Tian Tang|https://images.fotmob.com/image_resources/playerimages/120262.png"
+awayCoach: "Robbie Neilson|https://images.fotmob.com/image_resources/playerimages/32563.png"
+pickWinTeam: "산둥 타이산"
+pickWinResult: "승"
+pickHandicapTeam: "산둥 타이산"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

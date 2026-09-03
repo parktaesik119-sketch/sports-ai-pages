@@ -1,0 +1,37 @@
+---
+title: "피오렌티나 vs 토리노 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | 세리에 A - 픽천국"
+date: 2026-09-05T13:00:00.000Z
+description: "피오렌티나 vs 토리노 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5749663-2026-09-05-fiorentina"
+category: "soccer"
+country: "이탈리아"
+league: "세리에 A"
+homeTeam: "피오렌티나"
+awayTeam: "토리노"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png"
+homeAnalysis: "피오렌티나는 2026시즌 최근 15경기에서 5승 6무 4패, 평균 득점 1.5를 기록하며 경기당 한 골 이상은 꾸준히 만들어 내고 있습니다. 다만 최근에는 홈에서의 득점 기복과 원정 강팀 상대로의 수비 흔들림이 함께 드러나며, 전반적으로 흐름을 단단하게 다듬는 과정으로 보입니다. 홈 경기에서는 공격 전개가 살아날 때 결과도 따라오는 편이라, 프랑코 마스탄투오노와 알베르트 구드문드손의 연계가 특히 주목할 만합니다. 또 아틀레 탄탄한 중원 자원인 셰르 은두르, 크리스트 이나오 올라이가 버티는 구조는 점유와 압박 전환에서 강점으로 평가됩니다. 다만 파비아노 파리시의 이탈은 측면 전개와 수비 복귀 속도에 부담이 될 수 있어, 수비진의 간격 관리가 경기의 관건이 될 것으로 보입니다."
+awayAnalysis: "토리노는 2026시즌 최근 11경기에서 4승 2무 5패, 평균 득점 1.1로 나타나며, 득점 효율이 높지 않은 대신 경기 운영으로 버티는 색채가 강합니다. 최근 결과만 보면 한 골 차 승부와 실점 억제가 자주 교차하고 있어, 전방 마무리보다 실점 최소화가 경기 내용의 중심이 되고 있습니다. 원정에서는 지오바니 시메오네와 체 아담스의 움직임이 공격의 출구가 되겠지만, 찬스가 많지 않은 흐름에서는 결정력이 더 중요해질 것으로 보입니다. 중원에서는 니콜라 블라시치와 기바스 긴에이티스가 템포를 잡아야 하며, 이 구간이 흔들리면 공격 연결이 급격히 답답해질 수 있습니다. 체사레 카사데이와 피에트로 펠레그리의 이탈은 전방과 중원의 선택지를 줄여, 전체적으로는 버티는 힘은 있지만 화력은 제한적으로 평가됩니다."
+homePower: "홈에서 점유 기반 전개가 살아나면 경기 주도권을 잡기 쉬움|알베르트 구드문드손 중심의 마무리 완성도가 핵심 변수임|셰르 은두르와 크리스트 이나오 올라이의 중원 압박 강점이 보임|파비아노 파리시 공백으로 측면 균형 조정이 필요함|상대전적상 대량 득점보다 세밀한 한 방 싸움이 유리함"
+awayPower: "지오바니 시메오네-체 아담스 조합의 전방 압박이 살 길임|니콜라 블라시치가 버텨야 공격 전개가 매끄러워짐|실점 억제는 되지만 득점 폭발력은 제한적인 구조임|카사데이 이탈로 중원 전진성 약화가 검증됨|접전에서는 수비 집중력이 승부를 좌우하는 팀임"
+h2h: '[{"date":"26.02.08","home":"피오렌티나","away":"토리노","score":"2-2"},{"date":"25.09.01","home":"토리노","away":"피오렌티나","score":"0-0"},{"date":"25.01.19","home":"피오렌티나","away":"토리노","score":"1-1"},{"date":"24.11.03","home":"토리노","away":"피오렌티나","score":"0-1"},{"date":"24.03.03","home":"토리노","away":"피오렌티나","score":"0-0"}]'
+summary: "피오렌티나는 토리노보다 시즌 평균 득점에서 앞서 있고, 전체 전력 흐름에서도 공격 전개의 완성도가 조금 더 높게 보입니다. 토리노는 득점 수치가 낮아 한 번 앞서 가는 전개를 만들기 어렵지만, 수비적으로는 쉽게 무너지지 않는 색채가 분명합니다. 다만 맞대결 흐름을 보면 서로 큰 차이를 내기보다는 팽팽한 접전으로 흘러온 경우가 많아, 이번에도 세밀한 마무리와 중원 장악이 승부를 가를 가능성이 높습니다. 전반적인 흐름상 피오렌티나가 조금 더 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Fabiano Parisi (십자 인대 부상)"
+injuryAway: "Cesare Casadei (근육 부상)|Pietro Pellegri (십자 인대 부상)"
+homeLineup: '["David de Gea (GK)|https://images.fotmob.com/image_resources/playerimages/182917.png","Álex Jiménez (DF)|https://images.fotmob.com/image_resources/playerimages/1526689.png","Radu Dragusin (DF)|https://images.fotmob.com/image_resources/playerimages/1203661.png","Marin Pongracic (DF)|https://images.fotmob.com/image_resources/playerimages/831474.png","Valde (DF)|https://images.fotmob.com/image_resources/playerimages/1712399.png","Cher Ndour (MF)|https://images.fotmob.com/image_resources/playerimages/1246009.png","Christ Inao Oulaï (MF)|https://images.fotmob.com/image_resources/playerimages/1666494.png","Arthur Atta (MF)|https://images.fotmob.com/image_resources/playerimages/1428426.png","Franco Mastantuono (FW)|https://images.fotmob.com/image_resources/playerimages/1607566.png","Mateo Pellegrino (FW)|https://images.fotmob.com/image_resources/playerimages/1224237.png","Albert Gudmundsson (FW)|https://images.fotmob.com/image_resources/playerimages/665188.png"]'
+awayLineup: '["Diego Mascardi (GK)|https://images.fotmob.com/image_resources/playerimages/1577119.png","Pietro Comuzzo (DF)|https://images.fotmob.com/image_resources/playerimages/1529222.png","Saúl Coco (DF)|https://images.fotmob.com/image_resources/playerimages/941953.png","Eray Cömert (DF)|https://images.fotmob.com/image_resources/playerimages/705484.png","Niccolò Fortini (DF)|https://images.fotmob.com/image_resources/playerimages/1642351.png","Kian Fitz-Jim (MF)|https://images.fotmob.com/image_resources/playerimages/1218556.png","Gvidas Gineitis (MF)|https://images.fotmob.com/image_resources/playerimages/1421505.png","Alessio Cacciamani (MF)|https://images.fotmob.com/image_resources/playerimages/1746591.png","Nikola Vlasic (MF)|https://images.fotmob.com/image_resources/playerimages/557677.png","Ché Adams (FW)|https://images.fotmob.com/image_resources/playerimages/599353.png","Giovanni Simeone (FW)|https://images.fotmob.com/image_resources/playerimages/469615.png"]'
+homeFormation: "4-3-3"
+awayFormation: "3-4-2-1"
+homeCoach: "Fabio Grosso|https://images.fotmob.com/image_resources/playerimages/34320.png"
+awayCoach: "Ignazio Abate|https://images.fotmob.com/image_resources/playerimages/39555.png"
+pickWinTeam: "피오렌티나"
+pickWinResult: "승"
+pickHandicapTeam: "피오렌티나"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

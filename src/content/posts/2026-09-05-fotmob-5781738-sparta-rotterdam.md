@@ -1,0 +1,37 @@
+---
+title: "스파르타 로테르담 vs PEC 즈볼러 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | 에레디비지 - 픽천국"
+date: 2026-09-04T18:00:00.000Z
+description: "스파르타 로테르담 vs PEC 즈볼러 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781738-2026-09-05-sparta-rotterdam"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "스파르타 로테르담"
+awayTeam: "PEC 즈볼러"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8614.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6413.png"
+homeAnalysis: "스파르타 로테르담은 2026시즌 최근 13경기에서 3승 4무 6패, 평균 득점 1.6으로 기록되어 있고, 리그순위는 12위로 중위권 아래에서 반등을 노리는 흐름입니다. 최근에는 득점이 완전히 막히는 구간과 3득점까지 올리는 구간이 함께 나타나며, 공격 전개 자체는 가능하지만 마무리의 안정감이 들쭉날쭉한 모습입니다. 홈에서는 무득점 경기와 다득점 경기가 섞여 있어 경기 운영의 폭은 넓어 보이지만, 실점 억제력이 흔들리면 주도권을 오래 유지하기는 쉽지 않아 보입니다. 필립 베드나레크와 브루노 마르틴스 인디를 축으로 한 수비 라인, 그리고 젠스 툰스트라의 전개가 경기의 리듬을 잡아주는 장면이 중요합니다. 세드릭 하텐보어 결장은 중원 연결에서 아쉬움으로 이어질 수 있지만, 전체적으로는 홈에서 템포를 끌어올릴 여지는 남아 있습니다."
+awayAnalysis: "PEC 즈볼러는 2026시즌 최근 12경기에서 3승 0무 9패, 평균 득점 1.1로, 리그순위 14위답게 하위권에서 부담이 큰 흐름입니다. 최근 경기에서는 원정에서 승리를 만들기도 했지만, 실점이 한 번 흔들리면 경기 전체가 급격히 기울어지는 모습이 자주 드러납니다. 득점력 자체는 완전히 막혀 있지는 않지만, 2실점 이상을 허용하는 장면이 많아 전력 균형이 좋다고 보기는 어렵습니다. 야스퍼르 스헨델라르가 버티는 골문 앞에서 닉 피어헤버르, 셔렐 플라로누스의 수비 안정감이 핵심이지만, 얀 뷔르거와 유네스 남리의 결장은 공격과 연결 모두에 부담입니다. 공격에서는 코엔 코스턴스와 엘리아스 쇠렌센의 마무리가 살아나야 하며, 그렇지 않으면 원정에서 흐름을 뒤집기 쉽지 않아 보입니다."
+homePower: "홈에서 공격 템포가 살아날 때 득점 폭이 커짐|리그순위 12위, 반등 의지는 보이나 실수 억제 필요함|젠스 툰스트라 중심 전개가 경기 조율의 핵심임|브루노 마르틴스 인디 포함 수비 집중력 유지가 관건임|세드릭 하텐보어 결장으로 중원 운영 폭은 다소 축소됨"
+awayPower: "리그순위 14위지만 한 번의 원정 역습은 위협적임|실점이 늘면 경기 운영이 급격히 무너지는 편임|코엔 코스턴스-엘리아스 쇠렌센 마무리 의존도 높음|얀 뷔르거, 유네스 남리 결장으로 창의성 손실이 큼|수비 블록을 낮게 두면 접전 가능성은 살아있음"
+h2h: '[{"date":"26.03.08","home":"스파르타 로테르담","away":"PEC 즈볼러","score":"1-1"},{"date":"25.11.09","home":"PEC 즈볼러","away":"스파르타 로테르담","score":"1-0"},{"date":"25.03.16","home":"스파르타 로테르담","away":"PEC 즈볼러","score":"1-1"},{"date":"24.12.01","home":"PEC 즈볼러","away":"스파르타 로테르담","score":"1-0"},{"date":"24.02.05","home":"스파르타 로테르담","away":"PEC 즈볼러","score":"0-2"}]'
+summary: "스파르타 로테르담은 리그순위 12위이지만 홈에서 공격 전개가 살아나는 순간에는 충분히 경기를 주도할 힘이 있습니다. PEC 즈볼러는 리그순위 14위에 더해 실점 억제가 흔들리는 구간이 길어, 전반적인 전력 균형에서는 홈팀 쪽이 조금 더 안정적으로 보입니다. 다만 두 팀의 맞대결은 접전이 자주 이어졌고, 최근에도 한쪽이 일방적으로 밀어붙이는 흐름보다는 팽팽한 균형 속에서 세밀한 마무리가 승부를 가르는 양상이 반복되었습니다. 그래서 이번 경기는 스파르타 로테르담이 홈에서 우위를 점할 가능성이 조금 더 높지만, PEC 즈볼러가 초반 수비 집중력을 유지하면 쉽게 무너지는 흐름은 아닙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Cedric Hatenboer (부상)"
+injuryAway: "Jan Bürger (무릎 부상)|Younes Namli (무릎 부상)"
+homeLineup: '["Filip Bednarek (GK)|https://images.fotmob.com/image_resources/playerimages/243490.png","Lushendry Martes (DF)|https://images.fotmob.com/image_resources/playerimages/1804213.png","Marvin Young (DF)|https://images.fotmob.com/image_resources/playerimages/1668089.png","Bruno Martins Indi (DF)|https://images.fotmob.com/image_resources/playerimages/212511.png","Bas Kuipers (DF)|https://images.fotmob.com/image_resources/playerimages/467480.png","Julian Baas (MF)|https://images.fotmob.com/image_resources/playerimages/1180499.png","Jens Toornstra (MF)|https://images.fotmob.com/image_resources/playerimages/188557.png","Robin van Cruijsen (MF)|https://images.fotmob.com/image_resources/playerimages/1797591.png","Shunsuke Mito (FW)|https://images.fotmob.com/image_resources/playerimages/1227814.png","Mitchell van Bergen (FW)|https://images.fotmob.com/image_resources/playerimages/709734.png","Milan Zonneveld (FW)|https://images.fotmob.com/image_resources/playerimages/1291881.png"]'
+awayLineup: '["Jasper Schendelaar (GK)|https://images.fotmob.com/image_resources/playerimages/873529.png","Olivier Aertssen (DF)|https://images.fotmob.com/image_resources/playerimages/1327791.png","Simon Graves (DF)|https://images.fotmob.com/image_resources/playerimages/923488.png","Nick Viergever (DF)|https://images.fotmob.com/image_resources/playerimages/164246.png","Sherel Floranus (DF)|https://images.fotmob.com/image_resources/playerimages/671327.png","Ryan Thomas (MF)|https://images.fotmob.com/image_resources/playerimages/496356.png","Tobias Sommer (MF)|https://images.fotmob.com/image_resources/playerimages/1129028.png","Dylan Mbayo (FW)|https://images.fotmob.com/image_resources/playerimages/1022702.png","Thijs Oosting (MF)|https://images.fotmob.com/image_resources/playerimages/932541.png","Elias Sørensen (FW)|https://images.fotmob.com/image_resources/playerimages/961340.png","Koen Kostons (FW)|https://images.fotmob.com/image_resources/playerimages/782561.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Rogier Meijer|https://images.fotmob.com/image_resources/playerimages/45917.png"
+awayCoach: "Henry van der Vegt|https://images.fotmob.com/image_resources/playerimages/22362.png"
+pickWinTeam: "스파르타 로테르담"
+pickWinResult: "승"
+pickHandicapTeam: "스파르타 로테르담"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

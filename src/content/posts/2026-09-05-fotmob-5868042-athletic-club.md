@@ -1,0 +1,37 @@
+---
+title: "아틀레틱 클럽 vs 아틀레티코 마드리드 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | 라리가 - 픽천국"
+date: 2026-09-05T14:15:00.000Z
+description: "아틀레틱 클럽 vs 아틀레티코 마드리드 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868042-2026-09-05-athletic-club"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "아틀레틱 클럽"
+awayTeam: "아틀레티코 마드리드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png"
+homeAnalysis: "아틀레틱 클럽은 2026시즌 35경기 12승 10무 13패, 평균 득점 1.4의 흐름을 보이고 있습니다. 시즌 전체 성적만 놓고 보면 승패 균형이 크게 흔들리지 않는 편이지만, 최근 경기에서는 득점과 실점의 출렁임이 함께 나타나면서 안정감이 다소 흔들리고 있습니다. 그래도 이냐키 윌리엄스와 오이한 산세트, 알렉스 베렝게르가 버티는 공격진은 한 번 살아나면 전개 속도를 끌어올릴 수 있는 구성이며, 홈에서는 중원 압박과 빠른 전환이 강점으로 평가됩니다. 다만 다니엘 비비안과 우나이 에길루스의 이탈은 수비 조직과 로테이션에 부담을 주고 있어, 후방 안정성은 상대 압박을 얼마나 버티느냐에 따라 크게 달라질 수 있습니다. 이번 경기는 홈에서 주도권을 잡으려는 시도가 분명하겠지만, 수비 집중력과 마무리 효율이 함께 받쳐줘야 강한 상대를 상대로 우위를 만들 수 있는 전력으로 보입니다."
+awayAnalysis: "아틀레티코 마드리드는 2026시즌 12경기 2승 3무 7패, 평균 득점 1.0으로 득점 생산이 무겁게 이어지고 있습니다. 최근에는 세비야전 승리처럼 반등 장면이 나오고 있지만, 경기별 기복이 커서 안정된 우세를 길게 유지하는 데는 아쉬움이 있습니다. 그래도 얀 오블락이 버티는 골문과 다비드 한츠코, 마르코스 요렌테가 받치는 수비 라인은 쉽게 무너지지 않는 축이며, 아드레모라 루크먼과 이강인, 알렉스 바에나가 연결되는 공격 전개는 순간적인 창의성을 기대할 수 있습니다. 다만 알렉산데르 쇠를로트의 이탈은 문전 압박과 제공권 면에서 분명한 손실로, 세트피스와 박스 안 마무리의 밀도가 다소 떨어질 수 있습니다. 디에고 시메오네 감독 체제에서는 수비 조직력은 유지되지만, 최근 전력 흐름상 한 골 싸움에서 끝까지 버티는 힘이 승부를 가를 가능성이 높아 보입니다."
+homePower: "홈에서는 전환 속도와 압박 강도가 살아남|오이한 산세트가 중원 연결의 핵심축임|이냐키 윌리엄스의 직선 돌파가 변수임|다니엘 비비안 공백으로 후방 깊이가 얇음|상대 전진 수비를 흔들면 득점 기회가 커짐"
+awayPower: "얀 오블락 중심의 실점 억제력이 견고함|이강인과 알렉스 바에나의 창의성이 눈에 띔|아드레모라 루크먼의 1대1 돌파가 강점임|알렉산데르 쇠를로트 이탈로 마무리 무게 감소|한 골 차 승부에서 운영력은 검증된 편임"
+h2h: '[{"date":"26.04.26","home":"아틀레티코 마드리드","away":"아틀레틱 클럽","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1391130-2026-04-26-atletico-madrid/"},{"date":"25.12.07","home":"아틀레틱 클럽","away":"아틀레티코 마드리드","score":"1-0"},{"date":"25.03.02","home":"아틀레티코 마드리드","away":"아틀레틱 클럽","score":"1-0"},{"date":"24.09.01","home":"아틀레틱 클럽","away":"아틀레티코 마드리드","score":"0-1"},{"date":"24.04.28","home":"아틀레티코 마드리드","away":"아틀레틱 클럽","score":"3-1"}]'
+summary: "아틀레틱 클럽은 시즌 전력 수치상 크게 밀리지 않지만 최근 경기에서는 득실의 흔들림이 함께 나타나고 있고, 아틀레티코 마드리드는 시즌 전체 득점 생산이 낮은 편이라 공격 쪽의 답답함이 더 뚜렷합니다. 다만 두 팀의 맞대결은 최근 결과가 매우 팽팽하게 이어져 왔고, 한 골 차 승부나 낮은 득점 흐름이 자주 드러나고 있습니다. 이번 경기는 홈의 전환 속도와 원정의 수비 조직이 맞붙는 구도라서, 전체적인 우세는 아틀레틱 클럽이 약간 앞서는 모습으로 읽히지만, 아틀레티코 마드리드도 쉽게 흔들릴 전력은 아닙니다. 결국 중원 장악과 결정력에서 한 번 더 날카로운 쪽이 승부를 가져갈 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Peio Canales (근육 부상)|Daniel Vivian (사타구니 부상)|Unai Eguiluz (십자 인대 부상)|Beñat Prados (허벅지 부상)"
+injuryAway: "Alexander Sørloth (근육 부상)"
+homeLineup: '["Unai Simón (GK)|https://images.fotmob.com/image_resources/playerimages/660625.png","Jesús Areso (DF)|https://images.fotmob.com/image_resources/playerimages/1037537.png","Aitor Paredes (DF)|https://images.fotmob.com/image_resources/playerimages/1191407.png","Aymeric Laporte (DF)|https://images.fotmob.com/image_resources/playerimages/411617.png","Yuri Berchiche (DF)|https://images.fotmob.com/image_resources/playerimages/80295.png","Íñigo Ruiz de Galarreta (MF)|https://images.fotmob.com/image_resources/playerimages/282462.png","Beñat Gerenabarrena (MF)|https://images.fotmob.com/image_resources/playerimages/1425173.png","Robert Navarro (FW)|https://images.fotmob.com/image_resources/playerimages/1011117.png","Oihan Sancet (MF)|https://images.fotmob.com/image_resources/playerimages/950545.png","Alex Berenguer (FW)|https://images.fotmob.com/image_resources/playerimages/574629.png","Iñaki Williams (FW)|https://images.fotmob.com/image_resources/playerimages/604105.png"]'
+awayLineup: '["Jan Oblak (GK)|https://images.fotmob.com/image_resources/playerimages/177126.png","Marcos Llorente (DF)|https://images.fotmob.com/image_resources/playerimages/602563.png","Marc Pubill (DF)|https://images.fotmob.com/image_resources/playerimages/1323897.png","Dávid Hancko (DF)|https://images.fotmob.com/image_resources/playerimages/727897.png","Alejandro Grimaldo (MF)|https://images.fotmob.com/image_resources/playerimages/288406.png","Giuliano Simeone (MF)|https://images.fotmob.com/image_resources/playerimages/1226147.png","Pablo Barrios (MF)|https://images.fotmob.com/image_resources/playerimages/1338192.png","Morten Hjulmand (MF)|https://images.fotmob.com/image_resources/playerimages/950199.png","Ademola Lookman (MF)|https://images.fotmob.com/image_resources/playerimages/690516.png","Kang-In Lee (MF)|https://images.fotmob.com/image_resources/playerimages/940976.png","Álex Baena (MF)|https://images.fotmob.com/image_resources/playerimages/942372.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "Edin Terzic|https://images.fotmob.com/image_resources/playerimages/1216045.png"
+awayCoach: "Diego Simeone|https://images.fotmob.com/image_resources/playerimages/2642.png"
+pickWinTeam: "아틀레틱 클럽"
+pickWinResult: "승"
+pickHandicapTeam: "아틀레틱 클럽"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 샌프란시스코 자이언츠 경기분석·라인업·결장자·통계·승부예측 (9월 4일) | MLB - 픽천국"
+date: 2026-09-03T16:35:00.000Z
+description: "피츠버그 파이러츠 vs 샌프란시스코 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260904SFPI0-2026-09-04-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "샌프란시스코 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 최근 100경기에서 45승 54패, 평균 득점 4.9를 기록하며 전체적으로는 중상위권 전력을 유지하고 있습니다. 최근 10경기에서도 6승 4패로 흐름이 나쁘지 않고, 직전 샌프란시스코 자이언츠전 13득점은 타선의 폭발력이 살아날 때 경기 주도권을 충분히 잡을 수 있음을 보여줍니다. 홈에서는 장타와 연결 타격이 동시에 터질 때 득점 생산이 크게 올라가고, 대량 실점으로 흔들린 경기보다 접전 운영에서 더 안정적인 모습이 보입니다. 다만 마운드 쪽에서는 경기마다 기복이 있어 초반 실점 관리가 중요하고, 결장자 공백까지 겹치면 뒷심 싸움에서 부담이 생길 수 있습니다. 그래도 최근 흐름과 홈 경기에서의 응집력을 보면, 공격 밸런스를 앞세워 충분히 우위를 만들 수 있는 팀으로 보입니다."
+awayAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 84경기에서 35승 48패, 평균 득점 4.4로 나타나며 득점 생산과 실점 억제 모두에서 어려움이 있는 편입니다. 최근 10경기에서는 4승 6패로 반등과 흔들림이 교차하고 있는데, 직전 피츠버그 파이러츠전에서 12득점 13실점 패배를 당한 점은 공격은 살아 있어도 마운드가 버티지 못하는 약점을 드러냅니다. 원정에서는 타선이 한 번 터질 때는 화력으로 버티지만, 연속 실점 구간이 길어지면 경기 전체가 급격히 기울어지는 모습이 있습니다. 특히 장기 결장자가 여럿 포함되어 있어 전력 깊이에서 손실이 느껴지고, 수비와 불펜 운영의 안정감도 떨어져 보입니다. 다만 상위 타선이 초반에 출루를 만들면 상대 마운드를 압박할 힘은 갖고 있어, 초반 경기 흐름을 얼마나 잡느냐가 중요합니다."
+homePower: "최근 홈 타격 응집력이 살아나며 대량 득점 가능성 확인됨|접전에서 끝까지 따라가는 뒷심이 강점으로 보임|마운드 기복은 있으나 홈에서는 실점 억제력 회복 조짐|결장 공백 속에서도 중심 타선이 경기 흐름을 끌어줌|상대 마운드가 흔들릴 때 단숨에 승부를 여는 힘 있음"
+awayPower: "최근 원정 득점은 살아 있으나 안정성은 부족함|상위 타선 활약과 하위 타선 기복이 함께 드러남|장기 결장 누적으로 수비 밸런스 저하가 우려됨|실점이 늘면 공격 부담도 커지는 구조가 보임|한 번 밀리면 경기 회복 속도가 더딘 편임"
+h2h: '[{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"13-12","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SFPI0-2026-09-02-pittsburgh-pirates/"},{"date":"26.05.11","home":"샌프란시스코 자이언츠","away":"피츠버그 파이러츠","score":"7-6","link":"https://pick79.com/posts/detail/analyze-178608-2026-05-11-san-francisco-giants/"},{"date":"26.05.10","home":"샌프란시스코 자이언츠","away":"피츠버그 파이러츠","score":"3-13","link":"https://pick79.com/posts/detail/analyze-178578-2026-05-09-san-francisco-giants/"},{"date":"26.05.09","home":"샌프란시스코 자이언츠","away":"피츠버그 파이러츠","score":"5-2","link":"https://pick79.com/posts/detail/analyze-178578-2026-05-09-san-francisco-giants/"}]'
+summary: "피츠버그 파이러츠는 리그순위 10위, 샌프란시스코 자이언츠는 리그순위 14위로 시즌 전력 격차가 분명하고, 현재 득실 차이에서도 홈팀이 더 안정적인 균형을 보여주고 있습니다. 최근 경기 흐름만 봐도 피츠버그 파이러츠는 공격과 결과가 함께 따라오고 있고, 샌프란시스코 자이언츠는 득점력은 유지해도 실점 억제가 흔들리면서 고점 대비 주춤한 모습입니다. 상대전적도 팽팽하지만 직전 맞대결에서 피츠버그 파이러츠가 승리를 가져간 만큼, 이번 경기 역시 홈팀이 초반부터 흐름을 잡아 우위를 이어갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"13-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SFPI0-2026-09-02-pittsburgh-pirates/"},{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"},{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.27","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827PISD0-2026-08-27-san-diego-padres/"},{"date":"26.08.25","home":"샌디에이고 파드리스","away":"피츠버그 파이러츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260825PISD0-2026-08-25-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"13-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SFPI0-2026-09-02-pittsburgh-pirates/"},{"date":"26.09.01","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SFAT0-2026-09-01-atlanta-braves/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.28","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828AZSF0-2026-08-28-san-francisco-giants/"}]'
+injuryHome: "Konnor Griffin (좌상)|Ryan O'Hearn (좌상)|Mitch Keller (기타 미상)|Endy Rodriguez (수술)"
+injuryAway: "Victor Bericoto (타박상)|Marcelo Mayer (골절)|JT Brubaker (타박상)|Keaton Winn (신경 압박)|Matt Gage (좌상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

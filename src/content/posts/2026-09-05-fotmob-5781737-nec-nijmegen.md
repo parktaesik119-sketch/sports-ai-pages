@@ -1,0 +1,37 @@
+---
+title: "NEC 네이메헌 vs 페예노르트 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | 에레디비지 - 픽천국"
+date: 2026-09-05T14:30:00.000Z
+description: "NEC 네이메헌 vs 페예노르트 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781737-2026-09-05-nec-nijmegen"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "NEC 네이메헌"
+awayTeam: "페예노르트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8464.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png"
+homeAnalysis: "NEC 네이메헌은 2026시즌 최근 16경기에서 6승 2무 8패를 기록했고 평균 득점은 1.9입니다. 전반적으로 득점 기회는 꾸준히 만들고 있지만 실점 억제에서 흔들리는 구간이 길어, 경기마다 흐름이 크게 출렁이는 모습입니다. 특히 홈에서는 공격적으로 전개할 때 장점이 살아나지만, 수비 전환이 늦어지면 페이스를 잃는 경우가 적지 않습니다. 이번 경기에서는 디크 스헤르더르 감독 체제에서 두산 타디치와 티잔 크리, 브라이언 린센이 전방과 2선에서 연결 고리를 맡아 주도권을 끌어올릴 가능성이 있습니다. 다만 최근 상위권 팀과의 맞대결에서는 압박을 받을 때 수비 간격이 벌어지는 장면이 보였기 때문에, 페예노르트의 빠른 전개를 얼마나 버텨내느냐가 핵심이 될 것으로 보입니다."
+awayAnalysis: "페예노르트는 2026시즌 최근 14경기에서 10승 3무 1패를 기록했고 평균 득점은 2.5입니다. 시즌 전체 흐름만 놓고 보면 공격 완성도와 경기 지배력이 매우 안정적이며, 득점 생산이 한두 명에게 치우치지 않는 점도 강점으로 평가됩니다. 원정에서도 스파르타 로테르담과 캄뷔르를 상대로 꾸준히 주도권을 가져왔고, 접전에서도 결과를 만들어내는 힘이 돋보입니다. 지오바니 판 브롱크호르스트 감독 아래에서 아니스 하지 무사, 아야세 우에다, 가우소우 디아라의 전방 조합이 위협적이며, 중원에서도 경기 템포를 장악하는 흐름이 이어지고 있습니다. 결장자가 여러 명 있어도 기본적인 공격 리듬은 크게 흔들리지 않고, 수비적으로도 전체 밸런스가 좋은 편이라 원정에서도 우세한 그림이 기대됩니다."
+homePower: "두산 타디치 중심의 2선 연결이 핵심임|티잔 크리의 세트피스 활용도 높음|브라이언 린센의 움직임이 수비 흔듦|3백 구조로 전환 속도 보완이 관건임|강팀 상대로는 실점 관리가 승부처임"
+awayPower: "아야세 우에다의 마무리 효율이 강점임|아니스 하지 무사의 측면 돌파가 날카로움|중원 압박 후 빠른 전개가 잘 맞음|원정에서도 경기 지배력 유지되는 편임|결장자 많아도 전력 기복은 크지 않음"
+h2h: '[{"date":"26.04.12","home":"NEC 네이메헌","away":"페예노르트","score":"1-1"},{"date":"25.11.23","home":"페예노르트","away":"NEC 네이메헌","score":"2-4"},{"date":"25.03.02","home":"페예노르트","away":"NEC 네이메헌","score":"0-0"},{"date":"24.09.29","home":"NEC 네이메헌","away":"페예노르트","score":"1-1"},{"date":"24.05.12","home":"NEC 네이메헌","away":"페예노르트","score":"2-3"}]'
+summary: "페예노르트는 2026시즌 14경기 10승 3무 1패와 평균 득점 2.5로 전체 전력이 한 단계 위에 있습니다. NEC 네이메헌도 16경기 6승 2무 8패, 평균 득점 1.9로 공격에서 버틸 힘은 있지만, 수비 안정감에서는 상대에 비해 약점이 더 분명합니다. 맞대결 흐름을 봐도 여러 차례 접전이 있었지만, 최근에는 페예노르트가 더 꾸준하게 결과를 가져가는 모습이어서 이번 경기에서도 원정팀이 우세를 점할 가능성이 높아 보입니다. NEC 네이메헌은 두산 타디치와 티잔 크리, 브라이언 린센의 조합이 변수를 만들 수 있지만, 전체적인 균형과 마무리 완성도에서는 페예노르트 쪽 손이 더 올라가 있습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Ahmetcan Kaplan (무릎 부상)|Philippe Sandler (부상)|Yassin Moslih (부상)"
+injuryAway: "Jakub Moder (무릎 부상)|Bart Nieuwkoop (무릎 부상)|Thomas Beelen (부상)|Gijs Smal (발목 부상)|Jordan Bos (무릎 부상)"
+homeLineup: '["Gonzalo Crettaz (GK)|https://images.fotmob.com/image_resources/playerimages/1082954.png","Tobias Storm (DF)|https://images.fotmob.com/image_resources/playerimages/1386070.png","Bram Nuytinck (DF)|https://images.fotmob.com/image_resources/playerimages/178758.png","Deveron Fonville (DF)|https://images.fotmob.com/image_resources/playerimages/1335315.png","Adam Tahaui (MF)|https://images.fotmob.com/image_resources/playerimages/1667708.png","Jamiro Monteiro (MF)|https://images.fotmob.com/image_resources/playerimages/680905.png","Noé Lebreton (MF)|https://images.fotmob.com/image_resources/playerimages/1366049.png","Clement Bischoff (MF)|https://images.fotmob.com/image_resources/playerimages/1436850.png","Dusan Tadic (MF)|https://images.fotmob.com/image_resources/playerimages/94267.png","Tjaronn Chery (MF)|https://images.fotmob.com/image_resources/playerimages/117541.png","Bryan Linssen (FW)|https://images.fotmob.com/image_resources/playerimages/147594.png"]'
+awayLineup: '["Tjark Ernst (GK)|https://images.fotmob.com/image_resources/playerimages/1336731.png","Givairo Read (DF)|https://images.fotmob.com/image_resources/playerimages/1351133.png","Mika Mármol (DF)|https://images.fotmob.com/image_resources/playerimages/1225450.png","Tsuyoshi Watanabe (DF)|https://images.fotmob.com/image_resources/playerimages/1023887.png","Javi López (DF)|https://images.fotmob.com/image_resources/playerimages/1159181.png","Oussama Targhalline (MF)|https://images.fotmob.com/image_resources/playerimages/1228273.png","Gjivai Zechiël (MF)|https://images.fotmob.com/image_resources/playerimages/1523822.png","Luciano Valente (MF)|https://images.fotmob.com/image_resources/playerimages/1256180.png","Anis Hadj Moussa (FW)|https://images.fotmob.com/image_resources/playerimages/1576876.png","Ayase Ueda (FW)|https://images.fotmob.com/image_resources/playerimages/942393.png","Gaoussou Diarra (FW)|https://images.fotmob.com/image_resources/playerimages/1675966.png"]'
+homeFormation: "3-4-1-2"
+awayFormation: "4-3-3"
+homeCoach: "Dick Schreuder|https://images.fotmob.com/image_resources/playerimages/1315527.png"
+awayCoach: "Giovanni van Bronckhorst|https://images.fotmob.com/image_resources/playerimages/30654.png"
+pickWinTeam: "페예노르트"
+pickWinResult: "승"
+pickHandicapTeam: "페예노르트"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

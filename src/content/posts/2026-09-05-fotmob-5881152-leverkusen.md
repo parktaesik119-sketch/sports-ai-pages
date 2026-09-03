@@ -1,0 +1,37 @@
+---
+title: "바이어 레버쿠젠 vs 우니온 베를린 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | 분데스리가 - 픽천국"
+date: 2026-09-05T13:30:00.000Z
+description: "바이어 레버쿠젠 vs 우니온 베를린 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5881152-2026-09-05-leverkusen"
+category: "soccer"
+country: "독일"
+league: "분데스리가"
+homeTeam: "바이어 레버쿠젠"
+awayTeam: "우니온 베를린"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png"
+homeAnalysis: "바이어 레버쿠젠은 2026시즌 최근 13경기에서 6승 2무 5패, 평균 득점 13.6을 기록하며 전반적으로 기복은 있으나 공격 전개 자체는 꾸준함을 보여주고 있습니다. 최근 엘버스베르크전 패배처럼 수비 집중력이 흔들릴 때가 있지만, 베헨 비스바덴전 4득점, 뉴캐슬전 2득점, 세비야전 2득점으로 화력은 충분히 살아 있습니다. 홈에서는 세비야를 잡아내고 괜츠크 상대로도 득점을 올린 만큼, 바이어 레버쿠젠은 안방에서 전방 압박과 빠른 전환이 더 잘 살아나는 편입니다. 이번 경기에서는 팍리크 쉬크를 중심으로 한 마무리와 이브라힘 마자, 말리크 틸만의 2선 침투가 특히 주목할 만합니다. 다만 최근 실점이 완전히 억제되지는 않고 있어서, 경기 주도권을 잡더라도 후방 안정성을 얼마나 유지하느냐가 관건으로 보입니다."
+awayAnalysis: "우니온 베를린은 2026시즌 최근 13경기에서 4승 4무 5패, 평균 득점 2.7을 기록하며 승부처에서 버티는 힘은 있지만 전반적인 전력 완성도는 다소 들쭉날쭉한 흐름입니다. 프랑크푸르트전 3득점, 브라운슈바이크전 4득점처럼 공격이 터지는 날도 있으나, 입스비치전 4실점과 드레스덴전 패배처럼 수비 균형이 무너질 때 결과가 급격히 흔들리고 있습니다. 원정에서는 상대적으로 더 거칠고 실리적인 운영이 필요해 보이며, 수비진과 중원에서 버티는 시간이 길어질수록 공격 전개가 단절되는 모습이 나타납니다. 이번에는 마린 류비치치와 에마뉘엘 라트 라트를 앞세운 역습 마무리, 그리고 안드라스 셰페르와 라니 케디라의 중원 버팀이 핵심입니다. 다만 주요 결장자가 많아 경기 내내 라인 유지가 어려울 수 있다는 점이 부담으로 평가됩니다."
+homePower: "안방에서 공격 템포가 빨라지는 구조가 뚜렷함|팍리크 쉬크 중심 마무리 효율이 관건임|이브라힘 마자, 말리크 틸만 2선 침투가 강점임|전방 압박은 강하나 수비 전환은 흔들림 보임|홈에서 득점 루트가 다양해 주도권 잡기 쉬움"
+awayPower: "원정에서도 전환 속도로 기회를 만드는 팀임|마린 류비치치-에마뉘엘 라트 라트 연계가 핵심임|안드라스 셰페르, 라니 케디라의 중원 버팀 필요함|결장자 누적으로 수비 조직력 저하가 우려됨|득점 폭발과 수비 붕괴가 함께 나타나는 편임"
+h2h: '[{"date":"26.02.21","home":"우니온 베를린","away":"바이어 레버쿠젠","score":"1-0"},{"date":"25.10.04","home":"바이어 레버쿠젠","away":"우니온 베를린","score":"2-0"},{"date":"25.04.12","home":"바이어 레버쿠젠","away":"우니온 베를린","score":"0-0"},{"date":"24.11.30","home":"우니온 베를린","away":"바이어 레버쿠젠","score":"1-2"},{"date":"24.04.06","home":"우니온 베를린","away":"바이어 레버쿠젠","score":"0-1"}]'
+summary: "바이어 레버쿠젠은 2026시즌 6승 2무 5패로 우니온 베를린의 4승 4무 5패보다 시즌 전체 전력과 득점 흐름에서 한발 앞서 있는 모습입니다. 최근 경기에서도 바이어 레버쿠젠은 4득점 경기와 2득점 경기를 꾸준히 만들어 내며 공격의 상한선이 더 높게 보이고, 우니온 베를린은 득점 자체는 가능하지만 수비 쪽 흔들림이 더 자주 드러나고 있습니다. 상대전적에서도 바이어 레버쿠젠이 여러 차례 우세를 보여 왔고, 특히 홈에서는 경기 운영과 마무리에서 더 안정적인 장면이 많았습니다. 전체적으로는 바이어 레버쿠젠이 주도권을 잡을 가능성이 높고, 우니온 베를린은 결장 변수까지 고려하면 버티는 시간보다 흔들리는 구간이 더 길어질 수 있어 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Kennet Eichhorn (병)|Eliesse Ben Seghir (허벅지 부상)|Montrell Culbreath (발 부상)"
+injuryAway: "Robert Skov (근육 부상)|Andrej Ilic (병)|Frederik Rønnow (허벅지 부상)|Andrik Markgraf (십자 인대 부상)|Marvin Friedrich (부상)|Stanley N'Soki (종아리 부상)|Oliver Burke (아킬레스건 부상)"
+homeLineup: '["Mark Flekken (GK)|https://images.fotmob.com/image_resources/playerimages/330643.png","Lucas Vázquez (MF)|https://images.fotmob.com/image_resources/playerimages/359193.png","Loic Badé (DF)|https://images.fotmob.com/image_resources/playerimages/1119461.png","Edmond Tapsoba (DF)|https://images.fotmob.com/image_resources/playerimages/789914.png","Miguel Gutiérrez (MF)|https://images.fotmob.com/image_resources/playerimages/942379.png","Equi Fernández (MF)|https://images.fotmob.com/image_resources/playerimages/1199959.png","Aleix García (MF)|https://images.fotmob.com/image_resources/playerimages/642551.png","Ibrahim Maza (MF)|https://images.fotmob.com/image_resources/playerimages/1457626.png","Malik Tillman (MF)|https://images.fotmob.com/image_resources/playerimages/1126058.png","Afonso Moreira (FW)|https://images.fotmob.com/image_resources/playerimages/1367047.png","Patrik Schick (FW)|https://images.fotmob.com/image_resources/playerimages/540097.png"]'
+awayLineup: '["Matheo Raab (GK)|https://images.fotmob.com/image_resources/playerimages/1156148.png","Josip Juranovic (DF)|https://images.fotmob.com/image_resources/playerimages/622373.png","Zeno Van Den Bosch (DF)|https://images.fotmob.com/image_resources/playerimages/1231677.png","Leopold Querfeld (DF)|https://images.fotmob.com/image_resources/playerimages/1199947.png","Tom Rothe (DF)|https://images.fotmob.com/image_resources/playerimages/1282582.png","András Schäfer (MF)|https://images.fotmob.com/image_resources/playerimages/836726.png","Rani Khedira (MF)|https://images.fotmob.com/image_resources/playerimages/304348.png","Aljoscha Kemlein (MF)|https://images.fotmob.com/image_resources/playerimages/1403332.png","Michel Aebischer (MF)|https://images.fotmob.com/image_resources/playerimages/792756.png","Marin Ljubicic (FW)|https://images.fotmob.com/image_resources/playerimages/1242198.png","Emmanuel Latte Lath (FW)|https://images.fotmob.com/image_resources/playerimages/783585.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "Carles Martínez|https://images.fotmob.com/image_resources/playerimages/1515447.png"
+awayCoach: "Mauro Lustrinelli|https://images.fotmob.com/image_resources/playerimages/30939.png"
+pickWinTeam: "바이어 레버쿠젠"
+pickWinResult: "승"
+pickHandicapTeam: "바이어 레버쿠젠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

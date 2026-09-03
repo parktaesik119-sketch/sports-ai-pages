@@ -1,0 +1,37 @@
+---
+title: "캔자스시티 로열스 vs 마이애미 말린스 경기분석·라인업·결장자·통계·승부예측 (9월 4일) | MLB - 픽천국"
+date: 2026-09-03T23:40:00.000Z
+description: "캔자스시티 로열스 vs 마이애미 말린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260904FLKC0-2026-09-04-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+homeAnalysis: "캔자스시티 로열스는 2026시즌 최근 97경기에서 49승 44패 승률 .446, 평균 득점 4.4를 기록하고 있어 전력의 기복은 있으나 공격 생산성은 꾸준한 편입니다. 최근 흐름에서는 10경기 7승 3패로 반등 기세가 분명하고, 평균 득점 5.3까지 올라온 점이 특히 돋보입니다. 다만 직전 마이애미 말린스전에서 3득점에 그치며 패한 흐름은 상대 선발 대응에서 아쉬움이 남는 부분으로 보입니다. 홈 경기에서는 타선이 살아날 때 여러 이닝에 걸쳐 점수를 쌓는 모습이 강점으로 평가됩니다. 반면 실점이 크게 흔들리는 경기에서는 경기 운영이 급격히 어려워질 수 있어, 초반 실점 관리가 중요한 팀으로 보입니다. 결장자가 적지 않은 상황이라 중심 축이 빠진 공백을 어떻게 메우느냐가 관건입니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 최근 105경기에서 51승 52패 승률 .504, 평균 득점 4.1로 근소한 우세 속에 버티는 전력을 보여주고 있습니다. 최근 10경기에서는 5승 5패로 흐름이 일정하지 않지만, 원정에서 필요할 때 득점을 만들어내는 힘은 유지되고 있습니다. 직전 캔자스시티 로열스전 6득점 승리는 타선이 한 번 살아나면 경기 흐름을 가져올 수 있다는 점을 보여주었습니다. 다만 이후 경기들에서는 실점이 크게 늘어나는 구간도 있어, 마운드 안정성이 성적을 좌우하는 모습입니다. 원정에서는 공격의 응집력이 좋을 때 승부를 잡는 편이며, 주전급 결장자들이 이어지는 만큼 깊이 있는 전력 운영이 중요합니다. 현재 리그순위상으로도 캔자스시티 로열스보다 앞서 있어 전체 전력 균형은 조금 더 나아 보입니다."
+homePower: "최근 득점 상승세로 타선 연결감이 살아 있음|초반 실점만 막으면 경기 주도권 확보가 쉬움|홈에서 대량 득점이 나오는 폭발력 보유함|마이애미 말린스전 단기 상성은 다소 불안함|핵심 결장 공백 속 대체 자원 활용이 관건임"
+awayPower: "리그순위 우위가 전력 안정감으로 이어짐|원정에서도 필요 득점은 꾸준히 만들어내는 편임|실점 억제가 되면 접전 마무리 강점이 살아남|주요 결장자 여파로 마운드 운영 폭은 좁아짐|직전 맞대결 승리로 상성 우위는 확인된 상태임"
+h2h: '[{"date":"26.09.02","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"3-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902FLKC0-2026-09-02-kansas-city-royals/"}]'
+summary: "마이애미 말린스는 리그순위와 득실 차에서 캔자스시티 로열스보다 한 발 앞서 있어 전체 전력의 균형이 조금 더 좋아 보입니다. 캔자스시티 로열스는 최근 득점 흐름이 확실히 살아나며 홈에서 힘을 내고 있지만, 직전 맞대결에서 3실점 6실점 결과를 허용한 점은 상성 측면에서 가볍지 않습니다. 마이애미 말린스 역시 최근 흐름이 들쭉날쭉하긴 하지만, 필요할 때 득점을 올리는 힘과 선두권에 가까운 전력 안정감이 함께 보입니다. 전반적으로는 마이애미 말린스가 약간의 우위를 점할 가능성이 높고, 경기 양상은 양 팀 모두 득점은 가능하지만 마이애미 말린스 쪽 흐름이 조금 더 자연스럽게 이어질 것으로 보입니다."
+homeRecent: '[{"date":"26.09.02","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902FLKC0-2026-09-02-kansas-city-royals/"},{"date":"26.08.31","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831KCCL0-2026-08-31-cleveland-guardians/"},{"date":"26.08.30","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830KCCL0-2026-08-30-cleveland-guardians/"},{"date":"26.08.29","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829KCCL0-2026-08-29-cleveland-guardians/"},{"date":"26.08.28","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"2-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828KCTO0-2026-08-28-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.09.02","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902FLKC0-2026-09-02-kansas-city-royals/"},{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"},{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"},{"date":"26.08.29","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829FLMO0-2026-08-29-washington-nationals/"}]'
+injuryHome: "Maikel Garcia (긴장)|Connor Seabold (긴장)|Tony Gonsolin (수술)|James McArthur (수술)|Beck Way (없음)"
+injuryAway: "Anthony Bender (골절)|Pete Fairbanks (신경 압박)|Xavier Edwards (염좌)|Max Meyer (긴장)|Ronny Henriquez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "마이애미 말린스"
+pickWinResult: "승"
+pickHandicapTeam: "마이애미 말린스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

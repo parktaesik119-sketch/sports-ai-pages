@@ -1,0 +1,37 @@
+---
+title: "부산 아이파크 vs 안산 그리너스 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | K2 - 픽천국"
+date: 2026-09-05T10:00:00.000Z
+description: "부산 아이파크 vs 안산 그리너스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155898-2026-09-05-busan-ipark"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "부산 아이파크"
+awayTeam: "안산 그리너스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6092.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/821875.png"
+homeAnalysis: "부산 아이파크는 2026시즌 최근 19경기에서 3승 6무 10패, 평균 득점 0.9로 득점 생산이 무겁고 결과의 기복도 큰 편입니다. 다만 홈에서는 안산 그리너스를 상대로 강한 압박과 세밀한 전환을 자주 보여 주었고, 최근 맞대결에서도 다득점 경기를 만들어내는 흐름이 반복되고 있습니다. 최근 리그 흐름에서는 실점 억제보다 득점 마무리에서 답답함이 드러나고 있어, 선제 득점 여부가 경기 전체를 좌우할 가능성이 큽니다. 조성환 감독 체제에서는 구상민 골키퍼를 중심으로 한 수비 안정과 크리스티안 레나토, 김민혁의 마무리 효율이 특히 중요하게 보입니다. 안현범, 장호익, 김희승, 조동재가 버티는 수비 라인이 초반 흔들림만 줄인다면 홈에서 경기 주도권을 가져갈 여지는 분명히 있습니다."
+awayAnalysis: "안산 그리너스는 2026시즌 최근 17경기에서 2승 4무 11패, 평균 득점 0.8로 공격 전개가 길게 이어지지 못하고 결과가 쉽게 무너지는 흐름입니다. 최근 경기에서는 수비가 한 번 흔들리면 연속 실점으로 이어지는 장면이 많았고, 공격에서도 마를론 마라냥, 마촉 촐, 가브리엘 리마의 개인 돌파 의존도가 높아 보입니다. 특히 원정에서는 상대 압박을 벗겨내는 첫 패스가 매끄럽지 않아 전방까지 공을 운반하는 데 어려움이 드러납니다. 최문식 감독 아래에서는 중원 조합의 버팀목 역할이 중요하지만, 경기 후반으로 갈수록 라인 간격이 벌어지는 점이 부담입니다. 이승빈 골키퍼와 연예민, 연응빈 중심의 수비가 버티더라도, 공격에서 확실한 마무리가 따라주지 않으면 흐름을 뒤집기 쉽지 않아 보입니다."
+homePower: "안산 그리너스 상대로 상성 우위가 반복됨|홈 압박 후 전환이 상대에게 잘 통함|크리스티안 레나토 마무리 비중이 큼|안현범, 조동재 측면 가담이 공격 활로임|저득점 흐름 속 선제골 가치가 매우 큼"
+awayPower: "부산 아이파크 상대로 역습 효율이 검증됨|마를론 마라냥 개인 돌파가 핵심 변수임|중원 압박 성공 시 기회 창출 가능성 있음|가브리엘 리마 연계가 살아야 공격이 풀림|수비 집중력 유지가 승부의 최소 조건임"
+h2h: '[{"date":"26.03.08","home":"안산 그리너스","away":"부산 아이파크","score":"1-3"},{"date":"25.09.14","home":"안산 그리너스","away":"부산 아이파크","score":"2-3"},{"date":"25.06.07","home":"부산 아이파크","away":"안산 그리너스","score":"0-2"},{"date":"25.04.20","home":"안산 그리너스","away":"부산 아이파크","score":"1-3"},{"date":"24.09.29","home":"안산 그리너스","away":"부산 아이파크","score":"0-5"}]'
+summary: "부산 아이파크는 2026시즌 19경기 3승 6무 10패, 안산 그리너스는 17경기 2승 4무 11패로, 시즌 전력에서는 부산 아이파크가 근소하게 앞서 있습니다. 두 팀 모두 평균 득점이 1점에 미치지 못해 공격 완성도는 높지 않지만, 안산 그리너스는 실점 흐름이 더 쉽게 무너지는 편이라 수비 안정감에서 격차가 느껴집니다. 맞대결에서도 부산 아이파크가 최근 우세를 자주 가져갔고, 특히 홈에서 안산 그리너스를 상대로 주도권을 잡는 장면이 자주 확인되고 있습니다. 이번 경기는 부산 아이파크가 선제 득점만 만들면 흐름을 통제할 가능성이 높아 보이며, 전력의 균형과 상성을 함께 고려하면 홈팀 쪽 우위가 더 자연스럽게 읽힙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Koo Sang-Min (GK)|https://images.fotmob.com/image_resources/playerimages/734940.png","Ahn Hyun-Beom (DF)|https://images.fotmob.com/image_resources/playerimages/623892.png","Jang Ho-Ik (DF)|https://images.fotmob.com/image_resources/playerimages/730755.png","Kim Hee-Seung (DF)|https://images.fotmob.com/image_resources/playerimages/1232215.png","Cho Dong-Jae (DF)|https://images.fotmob.com/image_resources/playerimages/1326612.png","Gabriel Honório (MF)|https://images.fotmob.com/image_resources/playerimages/1187050.png","Xavier (MF)|https://images.fotmob.com/image_resources/playerimages/1653513.png","Park Hye-Seong (MF)|https://images.fotmob.com/image_resources/playerimages/1999292.png","Son Hwi (MF)|https://images.fotmob.com/image_resources/playerimages/1646663.png","Cristian Renato (FW)|https://images.fotmob.com/image_resources/playerimages/1362852.png","Kim Min-Hyeok (FW)|https://images.fotmob.com/image_resources/playerimages/619682.png"]'
+awayLineup: '["Lee Seung-Bin (GK)|https://images.fotmob.com/image_resources/playerimages/433077.png","Lee Hyo-Jun (DF)|https://images.fotmob.com/image_resources/playerimages/2001679.png","Yeon Jei-Min (DF)|https://images.fotmob.com/image_resources/playerimages/431324.png","Yeon Eung-Bin (DF)|https://images.fotmob.com/image_resources/playerimages/1836890.png","Kang Dong-Hyun (MF)|https://images.fotmob.com/image_resources/playerimages/1970966.png","Cho Ji-Hun (MF)|https://images.fotmob.com/image_resources/playerimages/255228.png","Kim Jung-Hyun (MF)|https://images.fotmob.com/image_resources/playerimages/1544152.png","Jang Hyun-Soo (MF)|https://images.fotmob.com/image_resources/playerimages/622139.png","Marlon Maranhão (FW)|https://images.fotmob.com/image_resources/playerimages/1533779.png","Machop Chol (FW)|https://images.fotmob.com/image_resources/playerimages/1244639.png","Gabriel Lima (FW)|https://images.fotmob.com/image_resources/playerimages/1408130.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "Jo Sung-Hwan|https://images.fotmob.com/image_resources/playerimages/1175328.png"
+awayCoach: "Choi Moon-Shik"
+pickWinTeam: "부산 아이파크"
+pickWinResult: "승"
+pickHandicapTeam: "부산 아이파크"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "섐록 로버스 vs 셸번 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | D1 - 픽천국"
+date: 2026-09-04T19:00:00.000Z
+description: "섐록 로버스 vs 셸번 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100950-2026-09-05-shamrock-rovers"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "섐록 로버스"
+awayTeam: "셸번"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4131.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/5751.png"
+homeAnalysis: "섐록 로버스는 2026시즌 최근 26경기에서 13승 4무 9패, 평균 득점 1.7을 기록하며 전체적으로는 승리 비중이 더 높은 전력을 보여주고 있습니다. 다만 최근 흐름만 보면 득점과 실점이 함께 늘어나는 장면이 많아 안정감은 다소 흔들리는 모습입니다. 홈에서는 득점 전개가 비교적 살아 있는 편이라 그래 Graham Burke와 Michael Noonan의 마무리 감각이 경기 흐름을 좌우할 가능성이 큽니다. Jack Byrne과 John O'Sullivan이 중원을 장악해 주면 전진 속도와 세컨드볼 회수에서 강점이 살아날 수 있습니다. 다만 Danny Grant, Victor Ozhianvuna, Daniel Mândroiu의 이탈은 공격 전개와 창의성 측면에서 부담으로 작용할 수 있어, 전방 효율을 얼마나 유지하느냐가 중요해 보입니다."
+awayAnalysis: "셸번은 2026시즌 최근 22경기에서 6승 10무 6패, 평균 득점 1.5를 기록하며 쉽게 무너지지 않는 대신 확실한 승부처 장악력은 아쉬운 전력으로 보입니다. 최근에는 승패를 길게 이어가기보다 접전 속에서 결과를 나누는 경기가 많았고, 수비적으로 버티는 힘은 있으나 결정력에서 조금씩 손해를 보는 흐름입니다. 원정에서는 Seán Boyd를 축으로 한 마무리와 Daniel Kelly, Evan Caffrey의 지원이 중요하지만, 공격이 길게 막히면 답답한 전개가 나올 수 있습니다. Jonathan Lunney와 Kerr McInroy의 중원 운영이 안정되면 실점을 줄이면서 경기 균형을 잡아갈 수 있습니다. 다만 Ademipo Odubeko의 결장은 전방 선택지를 좁히는 요소라서, 한 번의 기회를 살리는 집중력이 특히 주목됩니다."
+homePower: "홈에서 득점 템포가 살아나는 구간이 뚜렷함|잭 번 중심 전진 패스가 공격의 시동점임|수비 흔들림은 있으나 압박 전환은 빠른 편임|그레이엄 버크 마무리 의존도가 높은 구조임|핵심 결장으로 창의성 공백이 커질 수 있음"
+awayPower: "접전에서 쉽게 무너지지 않는 버티는 힘이 있음|세아인 보이드 전후 연계가 공격의 기준점임|중원은 안정적이나 한 방 생산력은 아쉬움이 있음|원정에서는 실리적 운영이 더 잘 맞아 보임|결장으로 전방 마무리 선택지가 줄어든 상태임"
+h2h: '[{"date":"26.06.13","home":"셸번","away":"섐록 로버스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-1492713-2026-06-13-shelbourne/"},{"date":"26.04.07","home":"섐록 로버스","away":"셸번","score":"3-2"},{"date":"26.03.10","home":"셸번","away":"섐록 로버스","score":"2-2"},{"date":"25.10.11","home":"섐록 로버스","away":"셸번","score":"0-1"},{"date":"25.06.14","home":"셸번","away":"섐록 로버스","score":"1-2"}]'
+summary: "섐록 로버스는 시즌 전체 성적과 공격 생산력에서 우위를 보이며, 특히 홈에서 경기를 주도하는 힘이 더 뚜렷하게 나타나고 있습니다. 셸번은 시즌 전체 기준으로는 끈질긴 경기 운영이 강점이지만, 최근 원정 흐름과 득점 효율을 함께 놓고 보면 공격 쪽에서 한 끗이 부족한 모습입니다. 맞대결에서도 서로 쉽게 물러서지 않는 양상이 이어졌지만, 이번에는 홈팀이 더 적극적으로 전진하며 경기의 중심을 잡을 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Danny Grant (근육 부상)|Victor Ozhianvuna (근육 부상)|Daniel Mândroiu (무릎 부상)"
+injuryAway: "Ademipo Odubeko (충돌 부상)"
+homeLineup: '["Edward McGinty (GK)|https://images.fotmob.com/image_resources/playerimages/829101.png","Tunmise Sobowale (DF)|https://images.fotmob.com/image_resources/playerimages/949667.png","Lee Grace (DF)|https://images.fotmob.com/image_resources/playerimages/648611.png","Cory O’Sullivan (DF)|https://images.fotmob.com/image_resources/playerimages/1378319.png","Matthew Healy (MF)|https://images.fotmob.com/image_resources/playerimages/1206281.png","Adam Matthews (DF)|https://images.fotmob.com/image_resources/playerimages/170593.png","John O’Sullivan (MF)|https://images.fotmob.com/image_resources/playerimages/1612456.png","Jack Byrne (MF)|https://images.fotmob.com/image_resources/playerimages/661902.png","Adam Brennan (MF)|https://images.fotmob.com/image_resources/playerimages/1681980.png","Michael Noonan (FW)|https://images.fotmob.com/image_resources/playerimages/1612239.png","Graham Burke (FW)|https://images.fotmob.com/image_resources/playerimages/301367.png"]'
+awayLineup: '["Eddie Beach (GK)|https://images.fotmob.com/image_resources/playerimages/1421811.png","Seán Gannon (DF)|https://images.fotmob.com/image_resources/playerimages/253344.png","Kameron Ledwidge (DF)|https://images.fotmob.com/image_resources/playerimages/1098797.png","Odhrán Casey (DF)|https://images.fotmob.com/image_resources/playerimages/1382384.png","James Norris (DF)|https://images.fotmob.com/image_resources/playerimages/1096696.png","Jonathan Lunney (MF)|https://images.fotmob.com/image_resources/playerimages/791835.png","Kerr McInroy (MF)|https://images.fotmob.com/image_resources/playerimages/923527.png","Milan Mbeng (DF)|https://images.fotmob.com/image_resources/playerimages/1710550.png","Evan Caffrey (MF)|https://images.fotmob.com/image_resources/playerimages/1271838.png","Daniel Kelly (MF)|https://images.fotmob.com/image_resources/playerimages/1106545.png","Seán Boyd (FW)|https://images.fotmob.com/image_resources/playerimages/652905.png"]'
+homeFormation: "3-1-4-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Stephen Bradley|https://images.fotmob.com/image_resources/playerimages/16191.png"
+awayCoach: "John Russell|https://images.fotmob.com/image_resources/playerimages/77657.png"
+pickWinTeam: "섐록 로버스"
+pickWinResult: "승"
+pickHandicapTeam: "섐록 로버스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

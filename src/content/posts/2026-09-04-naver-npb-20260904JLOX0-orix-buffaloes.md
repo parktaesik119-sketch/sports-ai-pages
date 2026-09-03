@@ -1,0 +1,37 @@
+---
+title: "오릭스 버팔로스 vs 지바 롯데 마린스 경기분석·라인업·결장자·통계·승부예측 (9월 4일) | NPB - 픽천국"
+date: 2026-09-04T09:00:00.000Z
+description: "오릭스 버팔로스 vs 지바 롯데 마린스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260904JLOX0-2026-09-04-orix-buffaloes"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "오릭스 버팔로스"
+awayTeam: "지바 롯데 마린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/OX.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/JL.png"
+homeAnalysis: "오릭스 버팔로스는 2026시즌 97경기에서 43승 2무 52패, 평균 득점 3.4를 기록하며 전체적으로는 기복이 있는 전력을 보여주고 있습니다. 최근 10경기에서도 3승 7패로 흐름이 좋지 않고, 득점이 2점대 초반으로 내려오면서 공격 연결이 매끄럽지 않은 모습이 보입니다. 다만 홈에서는 상대에 따라 한 번씩 강하게 반등하는 경기가 있어, 초반 실점만 억제되면 경기 운영을 버틸 여지는 있습니다. 특히 최근 맞대결에서는 지바 롯데 마린스 상대로도 승리한 경기가 있어 상성을 완전히 내준 것은 아니지만, 안정적인 득점 생산이 다시 살아나야 합니다. 결국 오릭스 버팔로스는 수비 부담을 줄이고 중반 이후 찬스를 살리는 흐름이 필요해 보입니다."
+awayAnalysis: "지바 롯데 마린스는 2026시즌 90경기에서 43승 3무 44패, 평균 득점 3.6으로 오릭스 버팔로스보다 조금 더 안정적인 득점 밸런스를 보여주고 있습니다. 최근 10경기는 5승 5패로 흐름이 완전히 치우치지는 않았지만, 직전 경기에서 무실점 승리를 거두며 마운드 쪽 리듬을 다시 끌어올린 점이 돋보입니다. 득점력은 폭발적이기보다는 필요한 순간에 점수를 쌓는 타입에 가깝고, 수비와 경기 후반 운영이 받쳐줄 때 경쟁력이 살아납니다. 오릭스 버팔로스와의 맞대결에서도 최근 다득점 승리가 이어진 구간이 있어 심리적으로도 나쁘지 않은 흐름입니다. 원정에서도 한 점 차 승부를 가져갈 수 있는 집중력이 강점으로 평가됩니다."
+homePower: "최근 10경기 2.4득점, 공격 응집력 저하가 뚜렷함|실점이 커질 때 추격 흐름이 쉽게 끊어짐|홈에서 반등은 가능하나 지속성은 약함|상대전 약세 구간이 길어 심리적 부담 큼|저득점 접전보다 선취점 확보가 관건임"
+awayPower: "시즌 평균 3.6득점, 오릭스보다 공격 효율 우위임|최근 무실점 승리로 마운드 안정감 회복 보임|접전에서 후반 집중력이 살아나는 팀컬러임|오릭스 상대로 다득점 경기 경험이 축적됨|원정에서도 실책 적을 때 승산이 커짐"
+h2h: '[{"date":"26.08.09","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"7-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809OXJL0-2026-08-09-chiba-lotte-marines/"},{"date":"26.08.08","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808OXJL0-2026-08-08-chiba-lotte-marines/"},{"date":"26.08.07","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807OXJL0-2026-08-07-chiba-lotte-marines/"},{"date":"26.07.26","home":"오릭스 버팔로스","away":"지바 롯데 마린스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-181182-2026-07-26-orix-buffaloes/"},{"date":"26.07.25","home":"오릭스 버팔로스","away":"지바 롯데 마린스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181176-2026-07-25-orix-buffaloes/"}]'
+summary: "지바 롯데 마린스는 2026시즌 90경기에서 43승 3무 44패, 평균 득점 3.6으로 오릭스 버팔로스의 43승 2무 52패, 평균 득점 3.4보다 전체 전력 균형이 조금 더 좋아 보입니다. 오릭스 버팔로스는 최근 10경기 3승 7패로 흐름이 처져 있고, 지바 롯데 마린스는 최근 10경기 5승 5패에 더해 최근 무실점 승리까지 더해져 마운드 쪽 탄력이 나아 보입니다. 맞대결 흐름에서도 지바 롯데 마린스가 최근 두 경기에서 확실히 앞선 결과를 만들었고, 전체적인 상성까지 감안하면 원정팀이 조금 더 우위를 점할 가능성이 높습니다. 다만 두 팀 모두 큰 점수 차보다 접전으로 흘러갈 여지가 있어, 초반 실점 관리와 불펜 안정감이 승부를 좌우할 것으로 보입니다."
+homeRecent: '[{"date":"26.09.02","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902OXRT0-2026-09-02-rakuten-gold-eagles/"},{"date":"26.09.01","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901OXRT0-2026-09-01-rakuten-gold-eagles/"},{"date":"26.08.30","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830SFOX0-2026-08-30-orix-buffaloes/"},{"date":"26.08.29","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829SFOX0-2026-08-29-orix-buffaloes/"},{"date":"26.08.28","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828SFOX0-2026-08-28-orix-buffaloes/"}]'
+awayRecent: '[{"date":"26.09.01","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SEJL0-2026-09-01-chiba-lotte-marines/"},{"date":"26.08.30","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830JLNH0-2026-08-30-nippon-ham-fighters/"},{"date":"26.08.29","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829JLNH0-2026-08-29-nippon-ham-fighters/"},{"date":"26.08.28","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828JLNH0-2026-08-28-nippon-ham-fighters/"},{"date":"26.08.27","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827SFJL0-2026-08-27-chiba-lotte-marines/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "지바 롯데 마린스"
+pickWinResult: "승"
+pickHandicapTeam: "지바 롯데 마린스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---
