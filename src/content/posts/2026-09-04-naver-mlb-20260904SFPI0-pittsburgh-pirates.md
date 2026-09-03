@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌�
 injuryHome: "Konnor Griffin (좌상)|Ryan O'Hearn (좌상)|Mitch Keller (기타 미상)|Endy Rodriguez (수술)"
 injuryAway: "Victor Bericoto (타박상)|Marcelo Mayer (골절)|JT Brubaker (타박상)|Keaton Winn (신경 압박)|Matt Gage (좌상)"
 homeLineup: "[\"선발투수 L. Bachar (1-3, 3.70) ERA 3.70|https://a.espncdn.com/i/headshots/mlb/players/full/42592.png\"]"
-awayLineup: "[\"선발투수 B. Tidwell (0-1, 4.54) ERA 4.54|https://a.espncdn.com/i/headshots/mlb/players/full/4719088.png\"]"
+awayLineup: "[\"선발투수 B. Tidwell (0-1, 4.54) ERA 4.54|https://a.espncdn.com/i/headshots/mlb/players/full/4719088.png\",\"1번 D. Gilbert (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4619467.png\",\"2번 R. Devers (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33859.png\",\"3번 B. Eldridge (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png\",\"4번 J. Cox (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5145886.png\",\"5번 T. Hill (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5207758.png\",\"6번 A. Knizner (C)|https://a.espncdn.com/i/headshots/mlb/players/full/36170.png\",\"7번 S. Whitcomb (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4683352.png\",\"8번 N. Furman (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4752203.png\",\"9번 C. Koss (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4109031.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
