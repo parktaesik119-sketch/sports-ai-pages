@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.03","home":"보스턴 레드삭스","away":"시애�
 injuryHome: "Tyler O'Neill (근육통)|Felix Bautista (수술)|Christian Franklin (염증)|Ryan Helsley (염증)|Ryan Mountcastle (염좌)"
 injuryAway: "Ceddanne Rafaela (날마다 상태 확인)|Adley Rutschman (날마다 상태 확인)|Johan Oviedo (염좌)|Kutter Crawford (근육통)|Zack Kelly (염증)"
 homeLineup: "[\"선발투수 B. Young (9-3, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
-awayLineup: "[\"선발투수 J. Bennett (9-6, 3.27) ERA 3.27|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\"]"
+awayLineup: "[\"선발투수 J. Bennett (9-6, 3.27) ERA 3.27|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\",\"1번 R. Anthony (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5080767.png\",\"2번 M. Gasper (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5132012.png\",\"3번 A. Rutschman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42178.png\",\"4번 W. Abreu (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4990055.png\",\"5번 N. Sogard (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42979.png\",\"6번 C. Durbin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007615.png\",\"7번 J. Duran (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41610.png\",\"8번 E. White (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/39963.png\",\"9번 I. Kiner-Falefa (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33572.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
