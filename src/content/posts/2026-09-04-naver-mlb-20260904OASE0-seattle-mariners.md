@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬�
 injuryHome: "Brendan Donovan (뇌진탕)|Cole Wilcox (부상)|Matt Brash (부상)|Will Wilson (골절)|Emerson Hancock (부상)"
 injuryAway: "Tommy White (통증)|Joshua Kuroda-Grauer (수술)|Brooks Kriske (신경 압박)|Shea Langeliers (수술)|Nick Kurtz (부상)"
 homeLineup: "[\"선발투수 L. Gilbert (11-8, 3.42) ERA 3.42|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
-awayLineup: "[\"선발투수 J.T. Ginn (9-8, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png\"]"
+awayLineup: "[\"선발투수 K. Morris (0-1, 9.82) ERA 9.82|https://a.espncdn.com/i/headshots/mlb/players/full/4865840.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
