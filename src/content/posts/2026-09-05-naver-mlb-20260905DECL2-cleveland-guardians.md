@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.04","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"},{"date":"26.09.02","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"15-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902DEMN0-2026-09-02-minnesota-twins/"},{"date":"26.09.01","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901DEMN0-2026-09-01-minnesota-twins/"},{"date":"26.08.31","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831LADE0-2026-08-31-detroit-tigers/"},{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"}]'
 injuryHome: "Slade Cecconi (근육통)|Rhys Hoskins (염증)|Shawn Armstrong (근육 염좌)"
 injuryAway: "Brant Hurter (염증)|Wenceel Perez (골절)|Burch Smith (염증)|Jack Flaherty (염증)|Justin Verlander (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Allen (0-0, 3.77) ERA 3.77|https://a.espncdn.com/i/headshots/mlb/players/full/4683350.png\"]"
+awayLineup: "[\"선발투수 K. Montero (9-8, 3.24) ERA 3.24|https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

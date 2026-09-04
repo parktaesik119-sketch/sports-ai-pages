@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.09.03","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903ATMO0-2026-09-03-washington-nationals/"},{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals/"},{"date":"26.09.01","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SFAT0-2026-09-01-atlanta-braves/"},{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831COAT0-2026-08-31-atlanta-braves/"},{"date":"26.08.30","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830COAT0-2026-08-30-atlanta-braves/"}]'
 injuryHome: "Tanner Banks (긴장)|Caleb Kilian (긴장)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
 injuryAway: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (징계)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Sanchez (16-4, 2.52) ERA 2.52|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+awayLineup: "[\"선발투수 C. Sale (13-9, 2.06) ERA 2.06|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

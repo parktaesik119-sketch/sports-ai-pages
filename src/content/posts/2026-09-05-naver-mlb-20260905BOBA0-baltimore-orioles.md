@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"콜로라도 로키스","away":"볼티�
 awayRecent: '[{"date":"26.09.03","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SEBO0-2026-09-03-boston-red-sox/"},{"date":"26.09.02","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SEBO0-2026-09-02-boston-red-sox/"},{"date":"26.09.01","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"9-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SEBO0-2026-09-01-boston-red-sox/"},{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"16-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BONY0-2026-08-31-new-york-yankees/"},{"date":"26.08.30","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830BONY2-2026-08-30-new-york-yankees/"}]'
 injuryHome: "Tyler O'Neill (통증)|Felix Bautista (수술)|Christian Franklin (염증)|Ryan Helsley (염증)|Ryan Mountcastle (근육 부상)"
 injuryAway: "Ceddanne Rafaela (통증)|Johan Oviedo (근육 부상)|Kutter Crawford (통증)|Zack Kelly (염증)|Justin Slaten (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Baz (5-14, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+awayLineup: "[\"선발투수 R. Suarez (5-4, 3.64) ERA 3.64|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

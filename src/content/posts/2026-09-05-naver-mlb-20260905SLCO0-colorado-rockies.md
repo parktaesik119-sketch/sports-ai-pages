@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"콜로라도 로키스","away":"볼티�
 awayRecent: '[{"date":"26.09.03","home":"LA 다저스","away":"세인트루이스 카디널스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SLLA0-2026-09-03-los-angeles-dodgers/"},{"date":"26.09.02","home":"LA 다저스","away":"세인트루이스 카디널스","score":"8-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SLLA0-2026-09-02-los-angeles-dodgers/"},{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"},{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"},{"date":"26.08.28","home":"세인트루이스 카디널스","away":"볼티모어 오리올스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828BASL0-2026-08-28-st-louis-cardinals/"}]'
 injuryHome: "Ryan Feltner (경미한 부상)|McCade Brown (염증)|Kris Bryant (수술)|Kyle Freeland (신경 압박)|Kyle Karros (뇌진탕)"
 injuryAway: "Masyn Winn (골절)|Everson Pereira (타박상)|Andre Pallante (염증)|JJ Wetherholt (건염)|Peter Strzelecki (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Adams (0-0, 3.00) ERA 3.00|https://a.espncdn.com/i/headshots/mlb/players/full/4758424.png\"]"
+awayLineup: "[\"선발투수 M. Liberatore (5-13, 5.41) ERA 5.41|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"캔자스시티 로열스","away":"마�
 awayRecent: '[{"date":"26.09.04","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TOCL0-2026-09-04-cleveland-guardians/"},{"date":"26.09.03","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903TOCL0-2026-09-03-cleveland-guardians/"},{"date":"26.09.02","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902TOCL0-2026-09-02-cleveland-guardians/"},{"date":"26.08.31","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays/"},{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"}]'
 injuryHome: "Maikel Garcia (염좌)|Connor Seabold (염좌)|Tony Gonsolin (수술)|James McArthur (수술)|Beck Way (결장)"
 injuryAway: "Jameson Taillon (건염)|Luis Urias (염좌)|Patrick Corbin (염좌)|Anthony Santander (수술)|Jonatan Clase (족저근막염)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Lugo (6-8, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
+awayLineup: "[\"선발투수 M. Scherzer (2-7, 6.16) ERA 6.16|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

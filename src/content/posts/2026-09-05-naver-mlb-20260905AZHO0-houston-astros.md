@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.04","home":"휴스턴 애스트로스","away":"시�
 awayRecent: '[{"date":"26.09.03","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903PHAZ0-2026-09-03-arizona-diamondbacks/"},{"date":"26.09.01","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901PHAZ0-2026-09-01-arizona-diamondbacks/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.28","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828AZSF0-2026-08-28-san-francisco-giants/"}]'
 injuryHome: "Brice Matthews (삠)|Mike Burrows (염증)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Tommy Troy (삠)|Ryne Nelson (근육 긴장)|Zac Gallen (염증)|Michael Soroka (염증)|Corbin Burnes (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 E. Pecko (1-0, 6.23) ERA 6.23|https://a.espncdn.com/i/headshots/mlb/players/full/4944276.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""
