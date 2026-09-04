@@ -886,6 +886,15 @@ const TEAM_NAME_MAP = {
   "Lokomotiv Yaroslavl": "로코모티프 야로슬라블",
   "Magnitogorsk": "마그니토고르스크",
   "Minnesota Wild": "미네소타 와일드",
+  "Novosibirsk": "노보시비르스크",
+  "Nizhny Novgorod": "니즈니 노브고로드",
+  "Yekaterinburg": "예카테린부르크",
+  "Dynamo Moscow": "디나모 모스크바",
+  "Cherepovets": "체레포베츠",
+  "Salavat Ufa": "살라바트 우파",
+  "SKA St. Petersburg": "SKA 상트페테르부르크",
+  "Lada": "라다",
+  "Tractor Chelyabinsk": "트락토르 첼랴빈스크",
 
   //캐나다 축구팀
   "Atlético Ottawa": "아틀레티코 오타와",
