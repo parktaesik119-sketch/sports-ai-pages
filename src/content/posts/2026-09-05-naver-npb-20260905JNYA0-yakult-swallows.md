@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"야쿠르트 스왈로우스","away":"�
 awayRecent: '[{"date":"26.09.03","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260903HIJN0-2026-09-03-chunichi-dragons/"},{"date":"26.09.02","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902HIJN0-2026-09-02-chunichi-dragons/"},{"date":"26.09.01","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901HIJN0-2026-09-01-chunichi-dragons/"},{"date":"26.08.30","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830JNYK0-2026-08-30-yokohama-baystars/"},{"date":"26.08.29","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829JNYK0-2026-08-29-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Keiji Takahashi (4-6, 4.29)|https://p.npb.jp/players_photo/2026/180/s/047_51055132.jpg\"]"
+awayLineup: "[\"선발투수 Kyle Muller (5-7, 2.46)|https://p.npb.jp/players_photo/2026/180/d/093_13915150.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
