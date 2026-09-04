@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 가디언스 vs 디트로이트 타이거즈 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | MLB - 픽천국"
+date: 2026-09-04T18:10:00.000Z
+description: "클리블랜드 가디언스 vs 디트로이트 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260905DECL1-2026-09-05-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 최근 102경기에서 47승 2무 53패, 승률 .500, 평균 득점 4.0을 기록하고 있어 시즌 전체 전력은 중위권에 가깝습니다. 최근 10경기에서는 6승 4패, 평균 득점 4.7로 상승 흐름이 보이며, 타선이 살아나면서 득점 생산이 시즌 평균보다 분명히 좋아진 모습입니다. 다만 직전 시리즈에서 토론토 블루제이스를 상대로 큰 점수 차 패배가 나왔다는 점은 공격의 기복과 함께 실점 관리의 흔들림도 함께 보여주고 있습니다. 홈에서는 비교적 득점 흐름이 안정적이고, 강한 선발 운영과 빠른 득점 전개가 붙을 때 경기 주도권을 가져오는 장면이 자주 나타납니다. 특히 디트로이트 타이거즈 상대로는 시즌 내내 상성이 좋았고, 접전 상황에서도 마무리 집중력이 돋보이는 편이라 이번 경기에서도 초반 흐름을 선점하는지가 중요해 보입니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 최근 101경기에서 48승 1무 52패, 승률 .460, 평균 득점 4.3을 기록하고 있어 시즌 성적은 홈팀보다 약간 낮지만 득점 자체는 나쁘지 않은 편입니다. 그러나 최근 10경기에서는 3승 7패, 평균 득점 3.0으로 공격 효율이 크게 떨어져 있으며, 시즌 전체 전력에 비해 최근 흐름이 분명히 가라앉아 있습니다. 특히 원정에서는 실점이 늘어나는 경기와 타선 침묵이 함께 나타나고 있어, 한 번 흐름이 꼬이면 반등이 쉽지 않은 모습입니다. 득실 차는 플러스이지만 최근 결과만 보면 그 장점이 안정적으로 이어지지 못하고 있어, 고점 대비 주춤한 전력으로 해석됩니다. 클리블랜드 가디언스 상대로도 최근 맞대결에서 밀리는 장면이 많았던 만큼, 이번 경기에서는 초반 실점을 얼마나 줄이느냐가 핵심이 될 것으로 보입니다."
+homePower: "최근 맞대결 우세로 심리적 우위 확보됨|최근 득점 상승세가 홈 타선 활력으로 연결됨|큰 점수차 승리와 완봉 패배가 공존해 변동성 있음|디트로이트 타이거즈 상대로 운영 완성도 우세함|접전에서 마무리 집중력이 강점으로 평가됨"
+awayPower: "시즌 득실 플러스지만 최근 침체가 뚜렷함|원정 실점 억제가 흔들리며 경기 기복이 커짐|최근 타선 침묵으로 득점 전개가 둔해짐|클리블랜드 가디언스 상대로 상성 열세가 확인됨|한 번 뒤지면 반전 동력이 약한 편으로 보임"
+h2h: '[{"date":"26.08.14","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814CLDE0-2026-08-14-detroit-tigers/"},{"date":"26.08.13","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"4-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813CLDE0-2026-08-13-detroit-tigers/"},{"date":"26.08.12","home":"디트로이트 타이거즈","away":"클리블랜드 가디언스","score":"6-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260812CLDE0-2026-08-12-detroit-tigers/"},{"date":"26.06.15","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"0-0","link":"https://pick79.com/posts/detail/analyze-179080-2026-06-15-cleveland-guardians/"},{"date":"26.06.14","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"3-1","link":"https://pick79.com/posts/detail/analyze-179070-2026-06-14-cleveland-guardians/"}]'
+summary: "클리블랜드 가디언스는 시즌 전체 전력에서 승률 .500, 평균 득점 4.0으로 안정적인 중위권 흐름을 유지하고 있고, 최근에는 평균 득점이 4.7까지 올라오며 타선 쪽 반등이 확인되고 있습니다. 디트로이트 타이거즈는 시즌 평균 득점 4.3으로 숫자상 공격 재료는 갖추고 있지만, 최근 10경기 3승 7패와 평균 득점 3.0이 겹치면서 현재 전력은 확실히 처져 보입니다. 상대전적에서도 클리블랜드 가디언스가 강한 우위를 이어가고 있어, 이번 경기는 홈팀이 초반부터 흐름을 잡고 경기 전체를 더 안정적으로 운영할 가능성이 높아 보입니다. 전력의 균형과 최근 흐름을 함께 보면 클리블랜드 가디언스 쪽 기대값이 더 높게 형성되어 있습니다."
+homeRecent: '[{"date":"26.09.04","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TOCL0-2026-09-04-cleveland-guardians/"},{"date":"26.09.03","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"0-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903TOCL0-2026-09-03-cleveland-guardians/"},{"date":"26.09.02","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902TOCL0-2026-09-02-cleveland-guardians/"},{"date":"26.08.31","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"11-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831KCCL0-2026-08-31-cleveland-guardians/"},{"date":"26.08.30","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830KCCL0-2026-08-30-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"},{"date":"26.09.02","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"15-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902DEMN0-2026-09-02-minnesota-twins/"},{"date":"26.09.01","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901DEMN0-2026-09-01-minnesota-twins/"},{"date":"26.08.31","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831LADE0-2026-08-31-detroit-tigers/"},{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"}]'
+injuryHome: "Slade Cecconi (통증)|Rhys Hoskins (염증)|Shawn Armstrong (염좌)"
+injuryAway: "Brant Hurter (염증)|Wenceel Perez (골절)|Burch Smith (염증)|Jack Flaherty (염증)|Justin Verlander (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

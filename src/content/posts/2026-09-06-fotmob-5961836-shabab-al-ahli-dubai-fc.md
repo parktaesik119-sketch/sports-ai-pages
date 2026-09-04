@@ -1,0 +1,37 @@
+---
+title: "샤밥 알아흘리 두바이 vs 알자지라 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | 프로리그 - 픽천국"
+date: 2026-09-05T16:15:00.000Z
+description: "샤밥 알아흘리 두바이 vs 알자지라 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5961836-2026-09-06-shabab-al-ahli-dubai-fc"
+category: "soccer"
+country: "UAE"
+league: "프로리그"
+homeTeam: "샤밥 알아흘리 두바이"
+awayTeam: "알자지라"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/102119.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/102101.png"
+homeAnalysis: "샤밥 알아흘리 두바이 FC는 2026시즌 최근 10경기에서 4승 3무 3패, 평균 득점 1.7을 기록하며 안정감과 득점 효율을 함께 보여주고 있습니다. 최근에는 알와슬 원정 1-0 승리와 알다프라전 2-0 승리로 흐름을 다시 끌어올렸고, 크호르파칸전 5득점처럼 한 번 리듬을 타면 공격 폭발력이 살아나는 모습이 뚜렷합니다. 다만 시즌 중반에는 마인츠, 시그마 올로무츠 같은 상대에게도 실점을 허용하며 경기 주도권이 흔들린 장면이 있었던 만큼, 수비 집중력은 여전히 점검 포인트입니다. 홈에서는 알나스르전, 크호르파칸전처럼 득점이 끊기지 않는 경기가 많아 경기 운영이 비교적 자연스럽게 풀리는 편으로 보입니다. 사르다르 아즈문과 페데리코 카르타비아, 유리 세사르가 공격 전개에 힘을 더하고 있어, 전방 마무리의 완성도가 높아지면 더 강한 우세를 기대할 수 있습니다."
+awayAnalysis: "알자지라는 2026시즌 최근 13경기에서 8승 2무 3패, 평균 득점 2.1로 공격 생산성과 결과 회수 능력이 모두 좋은 전력을 보여주고 있습니다. 최근에는 아즈만전 3-0 승리, 샤르자 문화 클럽전 2-0 승리, 하타전 2-0 승리로 연속 무실점 승리를 이어가며 수비 안정감까지 끌어올렸습니다. 다만 알이티하드전 1-4 패배, 알아인전 1-4 패배처럼 강한 압박을 받는 경기에서는 수비 라인이 크게 흔들린 장면도 있어, 상대 강도에 따라 기복이 드러날 수 있습니다. 원정에서도 비테세전 2-1 승리, 페예노르트 흐름과 비슷한 유럽 원정 경기에서도 득점을 이어간 점이 인상적이며, 전방의 시몬 반자와 비니시우스 멜로가 직선적인 마무리 옵션을 제공하고 있습니다. 코스민 올라로유 감독 체제에서 공격 전환 속도가 살아 있고, 중원에서 말콤과 마무두 콜리발리가 균형을 잡아주는 점이 강점으로 평가됩니다."
+homePower: "최근 홈 경기서 득점 흐름이 끊기지 않음|아즈문 중심 박스 안 마무리 위협이 큼|카르타비아의 전개 능력이 공격 리듬을 살림|홈에서는 실점 관리가 승부의 분기점임|연속 다득점 경기에서 자신감이 확실히 보임"
+awayPower: "2026시즌 원정 득점 지속성이 매우 높음|시몬 반자-비니시우스 멜로 조합이 직선적임|말콤의 전진성과 중원 장악력이 연결됨|무실점 승리 반복으로 수비 조직감이 살아있음|강한 압박 받는 경기에서 수비 균열은 변수임"
+h2h: '[{"date":"26.04.05","home":"샤밥 알아흘리 두바이","away":"알자지라","score":"2-1"},{"date":"26.03.21","home":"알자지라","away":"샤밥 알아흘리 두바이","score":"1-0"},{"date":"26.01.04","home":"알자지라","away":"샤밥 알아흘리 두바이","score":"0-3"},{"date":"25.05.26","home":"알자지라","away":"샤밥 알아흘리 두바이","score":"1-2"},{"date":"25.01.21","home":"샤밥 알아흘리 두바이","away":"알자지라","score":"2-1"}]'
+summary: "샤밥 알아흘리 두바이 FC는 시즌 평균 득점 1.7을 바탕으로 홈에서 안정적인 득점 흐름을 이어가고 있고, 알자지라는 평균 득점 2.1로 더 강한 공격 생산력을 보여주고 있습니다. 다만 최근 전력의 균형을 보면 샤밥 알아흘리 두바이 FC는 홈에서 꾸준히 득점을 만들면서도 승부처 대응이 안정적이고, 알자지라는 연속 무실점 승리를 통해 자신감을 높였지만 강한 압박을 받는 경기에서는 수비 흔들림이 드러난 적이 있습니다. 상대전적에서도 두 팀은 접전 양상이 반복되었지만, 샤밥 알아흘리 두바이 FC가 홈에서 강한 장면을 더 자주 만들고 있어 근소한 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Hamad Al Meqbaali (GK)|https://images.fotmob.com/image_resources/playerimages/1138507.png","Mateus Henrique (DF)|https://images.fotmob.com/image_resources/playerimages/1458813.png","Igor Gomes (DF)|https://images.fotmob.com/image_resources/playerimages/1279037.png","Renan (DF)|https://images.fotmob.com/image_resources/playerimages/1186365.png","Rikelme (DF)|https://images.fotmob.com/image_resources/playerimages/1257049.png","Saeid Ezatolahi (MF)|https://images.fotmob.com/image_resources/playerimages/505281.png","Nemanja Maksimovic (MF)|https://images.fotmob.com/image_resources/playerimages/495962.png","Federico Cartabia (FW)|https://images.fotmob.com/image_resources/playerimages/474680.png","Yuri César (MF)|https://images.fotmob.com/image_resources/playerimages/1173652.png","Guilherme Bala (FW)|https://images.fotmob.com/image_resources/playerimages/1174676.png","Sardar Azmoun (FW)|https://images.fotmob.com/image_resources/playerimages/441309.png"]'
+awayLineup: '["Ersin Destanoglu (GK)|https://images.fotmob.com/image_resources/playerimages/903133.png","Igor Serrote (DF)|https://images.fotmob.com/image_resources/playerimages/1634624.png","Willyan Rocha (DF)|https://images.fotmob.com/image_resources/playerimages/866406.png","Ravil Tagir (DF)|https://images.fotmob.com/image_resources/playerimages/1107547.png","Rúben Canedo (DF)|https://images.fotmob.com/image_resources/playerimages/1201280.png","Malcom (MF)|https://images.fotmob.com/image_resources/playerimages/535603.png","Mamadou Coulibaly (MF)|https://images.fotmob.com/image_resources/playerimages/1334346.png","Marcus Meloni (MF)|https://images.fotmob.com/image_resources/playerimages/1094243.png","Milson (MF)|https://images.fotmob.com/image_resources/playerimages/1158225.png","Simon Banza (FW)|https://images.fotmob.com/image_resources/playerimages/696932.png","Vinicius Mello (FW)|https://images.fotmob.com/image_resources/playerimages/1258850.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "André Jardine|https://images.fotmob.com/image_resources/playerimages/1271663.png"
+awayCoach: "Cosmin Olaroiu|https://images.fotmob.com/image_resources/playerimages/78656.png"
+pickWinTeam: "샤밥 알아흘리 두바이"
+pickWinResult: "승"
+pickHandicapTeam: "샤밥 알아흘리 두바이"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

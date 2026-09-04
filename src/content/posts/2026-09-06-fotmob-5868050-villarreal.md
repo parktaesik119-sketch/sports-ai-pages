@@ -1,0 +1,37 @@
+---
+title: "비야레알 vs 데포르티보 라코루냐 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | 라리가 - 픽천국"
+date: 2026-09-05T19:00:00.000Z
+description: "비야레알 vs 데포르티보 라코루냐 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868050-2026-09-06-villarreal"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "비야레알"
+awayTeam: "데포르티보 라코루냐"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9783.png"
+homeAnalysis: "비야레알은 2026시즌 최근 13경기에서 5승 4무 4패를 기록했고 평균 득점은 1.5입니다. 전체적으로 공격 전개가 완전히 끊기지 않고 꾸준히 득점을 만들고 있으며, 최근 흐름에서도 아틀레티코 마드리드전 2득점, 레반테전 1득점처럼 상대에 따라 득점 루트를 확보하는 모습이 보입니다. 다만 디펜스는 경기별 편차가 있어 실점 관리가 승부의 관건으로 보이며, 홈에서는 레반테를 1대0으로 잡아내는 등 운영 면에서 조금 더 안정적인 편입니다. 제라르 모레노와 조르주 미카우타제를 앞세운 마무리, 그리고 니콜라스 페페와 타존 뷰캐넌의 측면 전개가 살아나면 주도권을 쥘 가능성이 높습니다. 다만 최근 원정 경기들에서 실점이 완전히 줄지 않았던 만큼, 초반 템포를 안정적으로 가져가는지가 중요해 보입니다."
+awayAnalysis: "데포르티보 라코루냐는 2026시즌 최근 16경기에서 5승 7무 4패를 기록했고 평균 득점은 1.1입니다. 결과가 쉽게 무너지지는 않지만, 득점 생산이 낮아 접전에서 확실히 밀어붙이는 힘은 다소 아쉬운 편입니다. 최근에는 발렌시아전 3득점 승리처럼 한 번 터질 때는 효율이 좋았지만, 엘체전과 말라가전처럼 1골 안팎의 경기로 묶이는 흐름도 함께 나타나고 있습니다. 원정에서도 제노아전 1대0 승리, 피오렌티나전 1대1처럼 버티는 운영은 가능하지만, 공격 전개가 길어지면 답답해질 수 있습니다. 피에르-에메릭 오바메양의 결정력과 마리오 소리아노의 연결이 살아나야 비야레알의 압박을 넘길 수 있을 것으로 보입니다."
+homePower: "제라르 모레노-미카우타제 조합으로 마무리 무게감 있음|최근 득점 분산이 좋아 예측 가능성 낮아짐|측면에서 니콜라스 페페-타존 뷰캐넌 변수가 큼|홈에서는 1골 차 운영이 가능한 안정감 보임|실점 편차만 줄면 상위 전력과 맞설 기반 검증됨"
+awayPower: "오바메양 활용 시 단번에 마무리 전환 가능함|무승부가 많아 쉽게 무너지지 않는 버팀목 있음|루이스미 크루스-마리오 소리아노 연결이 핵심임|저득점 경기에서 수비 집중력은 비교적 유지됨|득점이 막히면 전개가 길어지는 약점 분명함"
+h2h: '[{"date":"18.05.13","home":"데포르티보 라코루냐","away":"비야레알","score":"2-4"},{"date":"18.01.08","home":"비야레알","away":"데포르티보 라코루냐","score":"1-1"},{"date":"17.05.15","home":"비야레알","away":"데포르티보 라코루냐","score":"0-0"},{"date":"17.01.15","home":"데포르티보 라코루냐","away":"비야레알","score":"0-0"},{"date":"16.08.10","home":"데포르티보 라코루냐","away":"비야레알","score":"2-0"}]'
+summary: "비야레알은 시즌 전체 전력에서 평균 득점과 최근 승리 장면이 더 선명해서, 공격 완성도 면에서 한발 앞선 흐름으로 보입니다. 데포르티보 라코루냐도 쉽게 무너지지는 않지만 평균 득점이 낮아, 비야레알의 전방 압박과 측면 전개를 오래 버티기는 쉽지 않아 보입니다. 상대전적을 봐도 비야레알이 대승을 거둔 경기들이 있었고, 최근 맞대결에서도 원정에서 골을 넣으며 우세한 장면을 자주 만들었습니다. 전체 흐름상 비야레알이 주도권을 잡고 경기를 끌어갈 가능성이 높고, 데포르티보 라코루냐는 수비 집중력을 얼마나 오래 유지하느냐가 관건으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Adama Traoré (부상)|Adrià Altimira (부상)|Noé (근육 부상)"
+homeLineup: '["Luiz Júnior (GK)|https://images.fotmob.com/image_resources/playerimages/1187044.png","Santiago Mouriño (DF)|https://images.fotmob.com/image_resources/playerimages/1407468.png","Juan Foyth (DF)|https://images.fotmob.com/image_resources/playerimages/833219.png","Renato Veiga (DF)|https://images.fotmob.com/image_resources/playerimages/1343750.png","Carlos Romero (DF)|https://images.fotmob.com/image_resources/playerimages/1395964.png","Nicolas Pépé (MF)|https://images.fotmob.com/image_resources/playerimages/575735.png","Santi Comesaña (MF)|https://images.fotmob.com/image_resources/playerimages/671865.png","Pape Gueye (MF)|https://images.fotmob.com/image_resources/playerimages/844544.png","Tajon Buchanan (MF)|https://images.fotmob.com/image_resources/playerimages/1026135.png","Gerard Moreno (FW)|https://images.fotmob.com/image_resources/playerimages/246438.png","Georges Mikautadze (FW)|https://images.fotmob.com/image_resources/playerimages/1117069.png"]'
+awayLineup: '["Leo Román (GK)|https://images.fotmob.com/image_resources/playerimages/1187702.png","Ximo Navarro (DF)|https://images.fotmob.com/image_resources/playerimages/260659.png","Lucas Noubi (DF)|https://images.fotmob.com/image_resources/playerimages/1332025.png","Bright Ede (DF)|https://images.fotmob.com/image_resources/playerimages/1711969.png","Giacomo Quagliata (DF)|https://images.fotmob.com/image_resources/playerimages/1077977.png","Luismi Cruz (MF)|https://images.fotmob.com/image_resources/playerimages/1204447.png","Riki Rodríguez (MF)|https://images.fotmob.com/image_resources/playerimages/970566.png","Lorenzo Amatucci (MF)|https://images.fotmob.com/image_resources/playerimages/1425989.png","Mario Soriano (MF)|https://images.fotmob.com/image_resources/playerimages/1050828.png","Pierre-Emerick Aubameyang (FW)|https://images.fotmob.com/image_resources/playerimages/150565.png","Bil Nsongo (FW)|https://images.fotmob.com/image_resources/playerimages/1690831.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-4-2"
+homeCoach: "Inigo Pérez|https://images.fotmob.com/image_resources/playerimages/188060.png"
+awayCoach: "Antonio Hidalgo|https://images.fotmob.com/image_resources/playerimages/33832.png"
+pickWinTeam: "비야레알"
+pickWinResult: "승"
+pickHandicapTeam: "비야레알"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

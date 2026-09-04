@@ -1,0 +1,37 @@
+---
+title: "텍사스 레인저스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | MLB - 픽천국"
+date: 2026-09-05T00:05:00.000Z
+description: "텍사스 레인저스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260905TBTE0-2026-09-05-texas-rangers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "텍사스 레인저스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "텍사스 레인저스는 2026시즌 전체 DB 기준 42승 52패, 승률 .493, 평균 득점 3.9로 승패 균형이 무너진 가운데 득실 마진도 음수라서 전반적인 경기 운영에 아쉬움이 남는 흐름입니다. 최근에는 10경기 4승 6패로 반등과 흔들림이 함께 보이지만, 직전 경기에서 2득점에 그친 뒤 바로 전 경기에서는 8득점을 기록하는 등 타선 기복이 꽤 뚜렷합니다. 홈에서 공격이 완전히 막히는 구간과 터지는 구간이 번갈아 나타나고 있어, 득점 지원이 안정적으로 이어지느냐가 큰 변수로 보입니다. 수비 쪽에서는 한 번 흐름이 흔들리면 대량 실점으로 이어지는 장면이 적지 않아 경기 후반 관리가 중요해 보입니다. 장기 결장자도 적지 않아 타선 연결과 내야 안정감에서 부담이 남고, 이런 부분이 최근 흐름의 들쭉날쭉함과 맞물려 있습니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 전체 DB 기준 60승 40패, 승률 .597, 평균 득점 4.3으로 리그순위 최상위권 전력에 걸맞은 안정감을 보여주고 있습니다. 최근 10경기에서도 7승 3패로 흐름이 좋고, 4득점 이상을 꾸준히 만들어내며 공격의 지속성이 살아 있는 모습입니다. 특히 접전에서도 마무리 능력이 좋고, 필요할 때는 6득점 이상으로 경기를 크게 벌리는 힘도 보여주고 있어 득점 폭이 넓습니다. 실점 억제 역시 전체 득실 수치가 플러스인 점에서 확인되며, 불필요한 대량 실점을 줄이는 운영이 돋보입니다. 다만 원정에서는 순간적인 타선 침묵이 나올 수 있어 초반 리드 확보 여부가 중요하게 작용할 가능성이 있습니다."
+homePower: "홈팀 타선은 득점 기복이 커서 흐름 유지가 과제임|홈에서 대량 실점 허용 시 버티는 힘이 약한 편임|장기 결장 여파로 중심 타순 연속성이 흔들림|이닝 후반 접전 운영에서 실점 관리가 관건임|짧은 반등 뒤 재하락이 잦아 안정성은 보완 필요함"
+awayPower: "원정팀은 득점 루트가 다양해 공격 재현성이 높음|접전과 화력전 모두 대응 가능한 균형이 강점임|최근 상승 흐름이 리그순위와 함께 설득력 있음|장기 결장에도 뎁스가 버티는 구조가 검증됨|실점 억제력이 좋아 주도권 관리에 강함"
+h2h: '[{"date":"26.07.31","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179647-2026-07-31-tampa-bay-rays/"},{"date":"26.07.30","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-179633-2026-07-30-tampa-bay-rays/"},{"date":"26.07.29","home":"탬파베이 레이스","away":"텍사스 레인저스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-179617-2026-07-29-tampa-bay-rays/"}]'
+summary: "텍사스 레인저스는 시즌 전력과 최근 흐름 모두에서 기복이 크게 나타나고 있어, 안정적으로 경기를 끌고 가는 데는 한계가 보입니다. 반면 탬파베이 레이스는 리그순위 상위권답게 득점력과 실점 억제의 균형이 좋고, 최근 흐름도 더 탄탄하게 이어지고 있습니다. 상대전적에서도 탬파베이 레이스가 우세를 가져가고 있어, 전체적인 전력 비교에서는 원정팀이 한발 앞선 경기로 읽힙니다."
+homeRecent: '[{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬레틱스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903OATE0-2026-09-03-texas-rangers/"},{"date":"26.09.01","home":"텍사스 레인저스","away":"애슬레틱스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901OATE0-2026-09-01-texas-rangers/"},{"date":"26.08.31","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831TEMI0-2026-08-31-milwaukee-brewers/"},{"date":"26.08.30","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830TEMI0-2026-08-30-milwaukee-brewers/"},{"date":"26.08.29","home":"밀워키 브루어스","away":"텍사스 레인저스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829TEMI0-2026-08-29-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.09.03","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NMTB0-2026-09-03-tampa-bay-rays/"},{"date":"26.09.02","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NMTB0-2026-09-02-tampa-bay-rays/"},{"date":"26.09.01","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NMTB0-2026-09-01-tampa-bay-rays/"},{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays/"},{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"}]'
+injuryHome: "Michael Helman (골절)|Josh Jung (염좌)|Kyle Higashioka (염좌)|Robert Garcia (염증)|Carter Baumler (염좌)"
+injuryAway: "Cole Sulser (경련)|Edwin Uceta (염좌)|Jake Fraley (수술)|Jonathan Heasley (골절)|Ben Williamson (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

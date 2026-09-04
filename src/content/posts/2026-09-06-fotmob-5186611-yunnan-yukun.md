@@ -1,0 +1,37 @@
+---
+title: "윈난 유쿤 vs 랴오닝 선양 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | Super League - 픽천국"
+date: 2026-09-06T11:35:00.000Z
+description: "윈난 유쿤 vs 랴오닝 선양 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186611-2026-09-06-yunnan-yukun"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "윈난 유쿤"
+awayTeam: "랴오닝 선양"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1477056.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/737054.png"
+homeAnalysis: "윈난 유쿤은 2026시즌 최근 21경기에서 9승 6무 6패, 평균 득점 1.9로 공격 효율이 꽤 안정적인 편이며, 특히 홈에서는 경기 주도권을 잡는 흐름이 자주 보입니다. 최근에도 충칭 통량 롱전, 다롄 잉보전, 청두 룽청전에서 연이어 득점을 만들며 승점을 챙겼고, 베이징 궈안전 3득점처럼 상대 수비가 흔들리는 경기에서는 화력이 더 살아나는 모습입니다. 다만 저장 프로페셔널전 0득점 패배나 톈진 진먼후전, 칭다오 청년섬전처럼 수비 간격이 벌어질 때는 실점이 늘어나는 점이 아쉽습니다. 안드레이 부르카와 오스카 타티 마리투, 존 호우 사더가 앞뒤를 잇는 구조가 분명해서, 전방 압박과 마무리 완성도가 맞아떨어지면 경기 흐름을 자기 쪽으로 가져오기 쉬워 보입니다. 전반적으로 홈에서의 운영 능력과 득점 기대치가 살아 있는 팀으로 평가됩니다."
+awayAnalysis: "랴오닝 선양은 2026시즌 최근 19경기에서 5승 4무 10패, 평균 득점 1.5로 공격 생산성이 홈팀보다 한 단계 낮은 편이며, 최근 흐름도 다소 흔들리고 있습니다. 청두 룽청 원정, 다롄 잉보 원정, 시안전, 허난전에서 연이어 실점하며 밀리는 장면이 많았고, 특히 접전에서 버티는 힘이 부족한 모습이 자주 드러납니다. 다만 항저우 그린타운전 5득점, 산둥 런넝전 1득점처럼 한 번 흐름이 열리면 득점 폭이 크게 살아나는 장면도 있어 완전히 단조로운 팀은 아닙니다. 타카히로 쿠니모토와 제핀요, 앙주 코아메가 앞선에서 활로를 만들 수는 있지만, 4-1-4-1 구조 특성상 중원과 수비의 연결이 흔들리면 압박을 견디는 시간이 길어지는 편입니다. 전반적으로 원정에서는 실점 억제가 쉽지 않은 팀으로 보입니다."
+homePower: "홈에서 경기 주도권을 잡는 운영이 안정적임|안드레이 부르카 중심으로 수비 리더십이 뚜렷함|오스카 타티 마리투의 마무리 비중이 큼|홈에서는 초반 득점 후 관리 능력이 살아남|강한 상대와도 득점 교환이 가능한 공격성 검증됨"
+awayPower: "타카히로 쿠니모토의 전개 능력이 중원 핵심임|제핀요와 앙주 코아메의 속도감이 변수임|4-1-4-1로 전환 수비는 갖췄으나 압박 지속은 약함|대량 득점 경기와 무득점 경기의 편차가 큼|원정에서 실점 뒤 추격 구조가 자주 흔들림"
+h2h: '[{"date":"26.05.10","home":"랴오닝 선양","away":"윈난 유쿤","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1523142-2026-05-10-shenyang-urban/"},{"date":"24.11.03","home":"랴오닝 선양","away":"윈난 유쿤","score":"2-1"},{"date":"24.06.30","home":"윈난 유쿤","away":"랴오닝 선양","score":"5-0"}]'
+summary: "윈난 유쿤은 시즌 전체 흐름에서 득점 안정감과 홈 경기 운영이 더 돋보이고, 랴오닝 선양은 같은 기간 실점 억제에서 아쉬움이 더 크게 드러나고 있습니다. 두 팀의 최근 맞대결도 윈난 유쿤이 두 번 앞섰고, 특히 한 번은 큰 점수 차로 승리한 기록이 있어 상성 면에서도 홈팀 쪽 기대가 더 높습니다. 랴오닝 선양이 중원 전개를 살려 초반에 버틴다면 접전 양상은 가능하겠지만, 전체 전력의 균형과 최근 흐름을 함께 보면 윈난 유쿤이 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Zhifeng Wang (GK)|https://images.fotmob.com/image_resources/playerimages/1026523.png","Zichang Huang (DF)|https://images.fotmob.com/image_resources/playerimages/832159.png","Teng Yi (DF)|https://images.fotmob.com/image_resources/playerimages/192324.png","Andrei Burca (DF)|https://images.fotmob.com/image_resources/playerimages/793506.png","Wang Kit Tsui (DF)|https://images.fotmob.com/image_resources/playerimages/899192.png","Bunyamin Abdusalam (FW)|https://images.fotmob.com/image_resources/playerimages/1913204.png","Xin Xu (MF)|https://images.fotmob.com/image_resources/playerimages/674469.png","Caio Vinícius (MF)|https://images.fotmob.com/image_resources/playerimages/933792.png","Alexandru Ionita (MF)|https://images.fotmob.com/image_resources/playerimages/275332.png","John Hou Sæther (MF)|https://images.fotmob.com/image_resources/playerimages/538270.png","Oscar Taty Maritu (FW)|https://images.fotmob.com/image_resources/playerimages/950411.png"]'
+awayLineup: '["Yan Zhang (GK)|https://images.fotmob.com/image_resources/playerimages/730899.png","Dilmurat Mawlanyaz (DF)|https://images.fotmob.com/image_resources/playerimages/979356.png","Mincheng Yuan (DF)|https://images.fotmob.com/image_resources/playerimages/843117.png","Hongfu Zhang (DF)|https://images.fotmob.com/image_resources/playerimages/1919190.png","Haoran Li (DF)|https://images.fotmob.com/image_resources/playerimages/1279261.png","Tixiang Li (MF)|https://images.fotmob.com/image_resources/playerimages/178054.png","Ange Kouamé (FW)|https://images.fotmob.com/image_resources/playerimages/1380215.png","Takahiro Kunimoto (MF)|https://images.fotmob.com/image_resources/playerimages/648371.png","Dinghao Yan (MF)|https://images.fotmob.com/image_resources/playerimages/874315.png","Felipe (DF)|https://images.fotmob.com/image_resources/playerimages/789847.png","Jeffinho (FW)|https://images.fotmob.com/image_resources/playerimages/1163634.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-1-4-1"
+homeCoach: "Jordi Vinyals|https://images.fotmob.com/image_resources/playerimages/301536.png"
+awayCoach: "Jung-Won Seo|https://images.fotmob.com/image_resources/playerimages/43016.png"
+pickWinTeam: "윈난 유쿤"
+pickWinResult: "승"
+pickHandicapTeam: "윈난 유쿤"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

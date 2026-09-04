@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs LA 에인절스 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | MLB - 픽천국"
+date: 2026-09-04T22:45:00.000Z
+description: "피츠버그 파이러츠 vs LA 에인절스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260905ANPI0-2026-09-05-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 최근 102경기에서 46승 55패, 승률 .489, 평균 득점 4.9를 기록하며 중위권 경쟁력을 유지하고 있습니다. 최근 흐름도 최근 10경기 6승 4패로 나쁘지 않아, 리그순위 10위라는 숫자보다 반등 기운이 더 또렷하게 보입니다. 공격에서는 한 경기 다득점을 만들어내는 힘과 함께, 접전에서도 점수를 끝까지 따라가는 끈기가 돋보입니다. 다만 실점 억제 면에서는 완전히 안정적이라고 보기는 어려워, 경기 중반 이후 흐름이 흔들릴 때가 있습니다. 그래도 홈에서는 상대 압박을 잘 버티며 필요한 순간 득점을 만드는 장면이 자주 나와, 이번 경기에서도 주도권을 잡을 여지가 있습니다."
+awayAnalysis: "LA 에인절스는 2026시즌 최근 90경기에서 30승 59패, 승률 .379, 평균 득점 3.9로 리그순위 15위에 머물러 있습니다. 최근 10경기 3승 7패 흐름까지 겹치면서, 순위와 최근 전력이 모두 하향 쪽으로 기울어 있는 모습입니다. 공격은 가끔 큰 점수를 내는 장면이 있지만, 꾸준함이 부족해 흐름이 이어지지 않는 점이 아쉽습니다. 수비 쪽에서도 실점 억제가 잘 되지 않아 접전에서 버티는 힘이 약하게 나타나고 있습니다. 부상자 공백까지 겹쳐 중심축이 자주 흔들리는 편이라, 원정에서는 경기 내내 안정감을 유지하기가 쉽지 않아 보입니다."
+homePower: "리그순위 10위지만 최근 반등 기세가 분명함|접전에서 득점 응집력이 살아 있는 편임|홈에서는 상대 압박을 견디는 운영이 보임|장기 결장자 다수에도 중심 전력은 유지 중임|실점 관리만 정리되면 우위 굳힐 여지 큼"
+awayPower: "리그순위 최하위권으로 전력 바닥이 낮음|간헐적 대량 득점은 있으나 재현성 떨어짐|장기 결장자 영향으로 전력 균형이 흔들림|원정에서 실점 억제보다 버티기가 우선임|한 번 밀리면 흐름 회복이 늦은 편임"
+h2h: '[]'
+summary: "피츠버그 파이러츠는 리그순위 10위에 올라 있고 최근 10경기에서도 6승을 챙기며 흐름이 올라와 있습니다. 반면 LA 에인절스는 리그순위 15위에 머물러 있으며 최근 10경기 3승으로 전력 기복이 더 크게 드러나고 있습니다. 두 팀 모두 부상 공백은 있지만, 득실 격차와 최근 안정감까지 함께 보면 피츠버그 파이러츠가 한 수 위의 전력을 보유한 경기로 판단됩니다."
+homeRecent: '[{"date":"26.09.04","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SFPI0-2026-09-04-pittsburgh-pirates/"},{"date":"26.09.03","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SFPI0-2026-09-03-pittsburgh-pirates/"},{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"13-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SFPI0-2026-09-02-pittsburgh-pirates/"},{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"},{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"},{"date":"26.08.31","home":"LA 에인절스","away":"필라델피아 필리스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PHAN0-2026-08-31-los-angeles-angels/"},{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"}]'
+injuryHome: "Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)|Kirby Yates (압박 신경통)|Mitch Keller (미상)|Endy Rodriguez (수술)"
+injuryAway: "Josh Lowe (통증)|Gustavo Campero (근육 염좌)|Nolan Schanuel (근육 염좌)|Sam Bachman (염증)|Yoan Moncada (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

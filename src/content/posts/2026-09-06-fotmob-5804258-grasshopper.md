@@ -1,0 +1,37 @@
+---
+title: "그라스호퍼 vs FC 취리히 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | Super League - 픽천국"
+date: 2026-09-05T18:30:00.000Z
+description: "그라스호퍼 vs FC 취리히 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5804258-2026-09-06-grasshopper"
+category: "soccer"
+country: "스위스"
+league: "Super League"
+homeTeam: "그라스호퍼"
+awayTeam: "FC 취리히"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9956.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10243.png"
+homeAnalysis: "그라스호퍼는 2026시즌 최근 15경기에서 7승 3무 5패를 기록하며 평균 득점 1.9로 공격 전개가 비교적 안정적인 편입니다. 득점 생산이 완전히 끊기지 않고 꾸준히 이어지고 있어서, 홈에서는 초반부터 주도권을 잡으려는 흐름이 잘 나타나고 있습니다. 다만 실점 억제에서는 기복이 보여 강한 압박을 받는 경기에서는 경기 운영이 흔들리는 모습도 있습니다. 이번 경기에서는 오스카르 클레멘테와 사무엘 크라스니키의 연결, 그리고 니콜라스 무치의 마무리 감각이 중요한 역할을 할 가능성이 높습니다. 홈에서는 상대를 밀어붙일 수 있는 장면이 있지만, 수비 전환이 늦어지면 FC 취리히의 빠른 역습에 흔들릴 여지도 있습니다."
+awayAnalysis: "FC 취리히는 2026시즌 최근 15경기에서 8승 1무 6패를 기록하며 평균 득점 2.0으로 화력이 더 선명하게 드러나고 있습니다. 공격 쪽에서는 한 번 흐름을 타면 득점이 연속적으로 이어지는 힘이 있고, 원정에서도 득점 자체는 잘 만들어내는 편입니다. 반면 실점 관리가 매끄럽지 못해 경기마다 수비 집중력의 편차가 보이는 점은 분명한 변수입니다. 이번 경기는 필리프 케니와 에마뉘엘 우메의 전방 마무리, 그리고 미겔 라이흐무트와 블레디안 크라스니키의 중원 전개가 핵심이 될 전망입니다. 전반적으로는 공격 전개 속도와 결정력에서 강점이 보이지만, 수비 라인이 흔들릴 경우 상대에게도 충분한 기회를 내줄 수 있습니다."
+homePower: "최근 맞대결에서 상성 열세가 뚜렷함|홈에서 템포를 올릴 때 공격 효율이 살아남|오스카르 클레멘테 중심 전개가 활로임|니콜라스 무치의 한 방이 변수로 작용함|수비 전환이 늦으면 실점 위험이 커짐"
+awayPower: "최근 맞대결에서 우세 흐름이 이어짐|공격 전개 속도와 득점 마무리가 강점임|필리프 케니-에마뉘엘 우메 조합이 위협적임|중원 압박이 살아나면 주도권 장악이 쉬움|수비 집중력 편차가 승부 변수로 남아있음"
+h2h: '[{"date":"26.05.10","home":"FC 취리히","away":"그라스호퍼","score":"2-1","link":"https://pick79.com/posts/detail/analyze-1538475-2026-05-10-fc-zurich/"},{"date":"26.02.22","home":"그라스호퍼","away":"FC 취리히","score":"1-2"},{"date":"25.11.30","home":"FC 취리히","away":"그라스호퍼","score":"1-0"},{"date":"25.10.05","home":"그라스호퍼","away":"FC 취리히","score":"3-0"},{"date":"25.05.11","home":"FC 취리히","away":"그라스호퍼","score":"3-0"}]'
+summary: "그라스호퍼는 시즌 전체 흐름에서 득점 감각이 살아 있고, FC 취리히보다 경기 운영의 폭이 크게 뒤처지지는 않습니다. 다만 FC 취리히는 평균 득점이 더 높고 최근 맞대결에서도 우위가 이어져, 전력의 무게감에서는 한 발 앞선 모습입니다. 두 팀 모두 공격 재능은 충분하지만, 이번 경기는 FC 취리히가 최근 상성과 결정력에서 더 좋은 흐름을 이어갈 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Julian Von Moos (다리 부상)|Tim Meyer (충돌 부상)|Pantaleo Creti (다리 부상)"
+injuryAway: "Selmin Hodza (근육 부상)|Chris Kablan (무릎 부상)|Yevhen Morozov (근육 부상)"
+homeLineup: '["Marvin Hübel (GK)|https://images.fotmob.com/image_resources/playerimages/1698176.png","Simone Stroscio (DF)|https://images.fotmob.com/image_resources/playerimages/1305752.png","Yannick Bettkober (DF)|https://images.fotmob.com/image_resources/playerimages/1687373.png","Bujar Pllana (DF)|https://images.fotmob.com/image_resources/playerimages/1510878.png","Nico Rissi (DF)|https://images.fotmob.com/image_resources/playerimages/1859293.png","Óscar Clemente (FW)|https://images.fotmob.com/image_resources/playerimages/973765.png","Manex Guibelalde (MF)|https://images.fotmob.com/image_resources/playerimages/1455604.png","Amir Abrashi (MF)|https://images.fotmob.com/image_resources/playerimages/127224.png","Samuele Bengondo (FW)|https://images.fotmob.com/image_resources/playerimages/1821486.png","Nikolas Muci (FW)|https://images.fotmob.com/image_resources/playerimages/1257646.png","Samuel Krasniqi (MF)|https://images.fotmob.com/image_resources/playerimages/1833130.png"]'
+awayLineup: '["Silas Huber (GK)|https://images.fotmob.com/image_resources/playerimages/1665800.png","Chris Kablan (DF)|https://images.fotmob.com/image_resources/playerimages/802450.png","Lindrit Kamberi (DF)|https://images.fotmob.com/image_resources/playerimages/929861.png","Alexander Hack (DF)|https://images.fotmob.com/image_resources/playerimages/459000.png","Sebastian Walker (DF)|https://images.fotmob.com/image_resources/playerimages/1639435.png","Emmanuel Umeh (FW)|https://images.fotmob.com/image_resources/playerimages/1413313.png","Leandro Schoedler (MF)|https://images.fotmob.com/image_resources/playerimages/1983240.png","Bledian Krasniqi (MF)|https://images.fotmob.com/image_resources/playerimages/976577.png","Kevin Spadanuda (MF)|https://images.fotmob.com/image_resources/playerimages/1086018.png","Miguel Reichmuth (MF)|https://images.fotmob.com/image_resources/playerimages/1367494.png","Philippe Kény (FW)|https://images.fotmob.com/image_resources/playerimages/1045039.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-4-2"
+homeCoach: "Peter Zeidler|https://images.fotmob.com/image_resources/playerimages/658445.png"
+awayCoach: "Marcel Koller|https://images.fotmob.com/image_resources/playerimages/78629.png"
+pickWinTeam: "FC 취리히"
+pickWinResult: "승"
+pickHandicapTeam: "FC 취리히"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

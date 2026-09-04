@@ -1,0 +1,37 @@
+---
+title: "인터 마이애미 vs 애틀랜타 유나이티드 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | MLS - 픽천국"
+date: 2026-09-05T23:30:00.000Z
+description: "인터 마이애미 vs 애틀랜타 유나이티드 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071325-2026-09-06-inter-miami-cf"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "인터 마이애미"
+awayTeam: "애틀랜타 유나이티드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/773958.png"
+homeAnalysis: "인터 마이애미는 2026시즌 전체 DB 기준 2승 3무 8패, 평균 득점 1.9로 기복이 큰 흐름을 보이고 있습니다. 최근에는 대량 득점으로 승리한 경기와 함께 실점이 크게 늘어난 경기들이 섞여 있어, 공격은 살아 있으나 수비 안정감이 흔들리는 모습입니다. 다만 홈에서 경기 주도권을 잡을 때는 리오넬 메시, 루이스 수아레스, 하늘에서 온 듯한 패스 연결을 만드는 로드리고 데 파울의 조합이 위력을 드러내고 있습니다. 리그순위 2위에 올라 있지만 최근 결과 흐름을 보면 고점 대비 주춤한 장면도 분명히 있어, 경기력의 출렁임을 얼마나 줄이느냐가 중요합니다. 결장자가 없는 점은 분명한 강점이며, 전방 화력 자체는 충분해 홈에서 다시 흐름을 되찾을 가능성이 높습니다."
+awayAnalysis: "애틀랜타 유나이티드는 2026시즌 전체 DB 기준 4승 2무 6패, 평균 득점 1.3으로 득점 효율이 아쉬운 편입니다. 최근에는 승리를 거둔 경기들도 있었지만 직전 경기 패배처럼 공격 전개가 매끄럽지 못한 장면이 이어지며, 흐름이 안정적으로 굳어지지 않고 있습니다. 리그순위 13위라는 위치와 득실 -13은 수비 쪽 부담이 적지 않다는 점을 보여주며, 원정에서는 그 약점이 더 도드라질 수 있습니다. 다만 미겔 알미론과 알렉세이 미란추크가 전방에서 연결 고리를 만들 수 있어, 한 번 리듬을 타면 예리한 역습은 충분히 기대할 수 있습니다. 부상 공백이 없는 점은 긍정적이지만, 최근 전력 흐름만 놓고 보면 상위권 상대를 상대로는 수비 집중력이 더 필요해 보입니다."
+homePower: "메시-수아레스 동시 기용으로 박스 안 완성도 높음|데파울 중심으로 중원 전개 속도 살아있음|홈에서는 공격 주도권 확보 시 득점 폭발력 큼|수비는 실점 변동폭 커 경기 관리가 관건임|결장 공백 없어 전방 조합 완성도는 유지됨"
+awayPower: "알미론-미란추크 연계로 역습 전개 가능성 있음|원정에서도 한 번 열리면 득점 생산력은 보임|최근 실점이 늘며 수비 라인 안정감은 약화됨|공격은 살아도 마무리 효율 기복이 변수로 남음|주요 결장 없으나 전력 균형은 아직 불안정함"
+h2h: '[{"date":"25.10.12","home":"인터 마이애미","away":"애틀랜타 유나이티드","score":"4-0"},{"date":"25.03.17","home":"애틀랜타 유나이티드","away":"인터 마이애미","score":"1-2"},{"date":"24.11.10","home":"인터 마이애미","away":"애틀랜타 유나이티드","score":"2-3"},{"date":"24.11.03","home":"애틀랜타 유나이티드","away":"인터 마이애미","score":"2-1"},{"date":"24.10.26","home":"인터 마이애미","away":"애틀랜타 유나이티드","score":"2-1"}]'
+summary: "인터 마이애미는 리그순위 2위답게 상위권 경쟁력은 분명하지만, 최근 흐름에서는 수비 기복이 드러나며 전력의 안정감이 완벽하지는 않습니다. 반면 애틀랜타 유나이티드는 리그순위 13위와 마이너스 득실이 보여주듯 전체적인 무게감이 떨어지지만, 최근 승리 경기에서 보였던 역습 효율은 무시하기 어렵습니다. 상대전적에서는 인터 마이애미가 홈에서 강한 장면을 여러 차례 만들었고, 애틀랜타 유나이티드도 몇 차례 반격에 성공했지만 전반적인 전력과 홈 이점을 감안하면 인터 마이애미 쪽이 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Dayne St. Clair (GK)|https://images.fotmob.com/image_resources/playerimages/1026105.png","Ian Fray (DF)|https://images.fotmob.com/image_resources/playerimages/1171135.png","Maximiliano Falcón (DF)|https://images.fotmob.com/image_resources/playerimages/1134104.png","Casemiro (MF)|https://images.fotmob.com/image_resources/playerimages/208494.png","Noah Allen (DF)|https://images.fotmob.com/image_resources/playerimages/1340790.png","Rodrigo De Paul (MF)|https://images.fotmob.com/image_resources/playerimages/324578.png","Yannick Bright (MF)|https://images.fotmob.com/image_resources/playerimages/1600844.png","Telasco Segovia (MF)|https://images.fotmob.com/image_resources/playerimages/1253904.png","Lionel Messi (FW)|https://images.fotmob.com/image_resources/playerimages/30981.png","Luis Suárez (FW)|https://images.fotmob.com/image_resources/playerimages/40636.png","Germán Berterame (FW)|https://images.fotmob.com/image_resources/playerimages/743536.png"]'
+awayLineup: '["Lucas Hoyos (GK)|https://images.fotmob.com/image_resources/playerimages/113620.png","Tomás Jacob (DF)|https://images.fotmob.com/image_resources/playerimages/1308412.png","Paulo Díaz (DF)|https://images.fotmob.com/image_resources/playerimages/447556.png","Júnior Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/466214.png","Matthew Edwards (DF)|https://images.fotmob.com/image_resources/playerimages/1170745.png","Cooper Sanchez (MF)|https://images.fotmob.com/image_resources/playerimages/1732500.png","Will Reilly (MF)|https://images.fotmob.com/image_resources/playerimages/1077994.png","Tristan Muyumba (MF)|https://images.fotmob.com/image_resources/playerimages/769928.png","Aleksey Miranchuk (FW)|https://images.fotmob.com/image_resources/playerimages/442581.png","Fabrice Picault (FW)|https://images.fotmob.com/image_resources/playerimages/580600.png","Miguel Almirón (FW)|https://images.fotmob.com/image_resources/playerimages/442277.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Angel Guillermo Hoyos|https://images.fotmob.com/image_resources/playerimages/789362.png"
+awayCoach: "Gerardo Martino|https://images.fotmob.com/image_resources/playerimages/80651.png"
+pickWinTeam: "인터 마이애미"
+pickWinResult: "승"
+pickHandicapTeam: "인터 마이애미"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

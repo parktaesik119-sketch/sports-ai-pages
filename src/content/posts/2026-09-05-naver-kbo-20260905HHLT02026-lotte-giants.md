@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs 한화 이글스 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | KBO - 픽천국"
+date: 2026-09-05T08:00:00.000Z
+description: "롯데 자이언츠 vs 한화 이글스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260905HHLT02026-2026-09-05-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "한화 이글스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HH.png"
+homeAnalysis: "롯데 자이언츠는 2026시즌 최근 91경기에서 43승 2무 46패, 평균 득점 5.2를 기록하며 중위권 경쟁을 이어가고 있습니다. 최근 흐름만 보면 기복이 다소 있지만, 직전 경기에서 삼성 라이온즈를 상대로 승리를 챙기며 타선 응집력을 다시 보여주었습니다. 홈에서는 한 번 터지면 득점이 크게 불어나는 편이라 공격의 폭발력이 강점으로 평가됩니다. 다만 최근에는 실점이 많아지는 경기가 적지 않아, 선발이 초반을 안정적으로 버텨주는지가 중요합니다. 선발 김진욱은 시즌 ERA 3.75와 WHIP 1.29, 선발 평균 5.2이닝으로 비교적 안정적인 흐름을 보여주고 있어 홈팀 입장에서는 초반 운영 기대치가 높습니다. 레이예스와 한동희, 고승민으로 이어지는 중심 타선의 생산력이 살아나면 홈에서 경기 주도권을 잡을 여지도 충분합니다."
+awayAnalysis: "한화 이글스는 2026시즌 최근 92경기에서 37승 3무 52패, 평균 득점 5.6을 기록했지만 순위는 9위로 처져 있습니다. 득점력 자체는 나쁘지 않은 편이지만, 최근 10경기에서는 1승 9패로 흐름이 급격히 가라앉아 있습니다. 특히 실점이 크게 늘어난 경기들이 이어지면서 마운드 안정감이 흔들리고 있는 점이 가장 아쉽습니다. 선발 박준영은 시즌 ERA 6.10과 WHIP 1.56, 선발 평균 4.0이닝에 QS 0으로 버티는 힘이 부족해 보입니다. 다만 페라자, 문현빈, 강백호, 노시환으로 이어지는 상위 타선은 한 번에 분위기를 바꿀 수 있는 장점이 있습니다. 타선이 초반부터 득점을 만들면 경기 양상을 바꿀 수 있지만, 현재 흐름상 마운드 부담이 매우 큰 편입니다."
+homePower: "김진욱의 이닝 소화가 선발 안정감으로 연결됨|레이예스 중심 장타 생산력이 공격 축임|홈에서는 대량 득점 구간이 자주 열리는 편임|상위 타선 출루가 되면 중심 타선 파괴력 상승함|불펜 부담만 줄이면 경기 운영 우위 가능성 보임"
+awayPower: "박준영의 짧은 이닝 소화가 불펜 부담으로 이어짐|한화 이글스 상위 타선은 단일 이닝 폭발력 보임|페라자와 강백호 축으로 득점 기대치는 유지됨|초반 실점 허용 시 추격 부담이 커지는 구조임|장타보다 연결 타격이 살아야 경쟁력 회복 가능함"
+h2h: '[{"date":"26.07.30","home":"한화 이글스","away":"롯데 자이언츠","score":"3-2","link":"https://pick79.com/posts/detail/analyze-181916-2026-07-30-hanwha-eagles/"},{"date":"26.07.29","home":"한화 이글스","away":"롯데 자이언츠","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181907-2026-07-29-hanwha-eagles/"},{"date":"26.07.28","home":"한화 이글스","away":"롯데 자이언츠","score":"3-9","link":"https://pick79.com/posts/detail/analyze-181902-2026-07-28-hanwha-eagles/"},{"date":"26.06.07","home":"롯데 자이언츠","away":"한화 이글스","score":"8-9","link":"https://pick79.com/posts/detail/analyze-181714-2026-06-07-lotte-giants/"},{"date":"26.06.06","home":"롯데 자이언츠","away":"한화 이글스","score":"2-7","link":"https://pick79.com/posts/detail/analyze-181709-2026-06-06-lotte-giants/"}]'
+summary: "롯데 자이언츠는 2026시즌 43승 2무 46패, 한화 이글스는 37승 3무 52패로 시즌 전체 전력에서는 롯데가 조금 더 안정적인 흐름을 보이고 있습니다. 다만 최근 10경기 흐름은 롯데가 4승 6패, 한화가 1승 9패로 갈리며, 현재 분위기에서는 롯데 쪽이 한층 더 나아 보입니다. 선발 매치업에서도 김진욱이 이닝 소화와 실점 억제에서 우위에 있고, 한화는 박준영의 긴 이닝 확보가 쉽지 않아 보이는 점이 부담입니다. 상위 타선의 힘은 한화도 분명하지만, 최근 맞대결 흐름과 선발 안정감을 함께 보면 롯데가 경기를 더 편하게 끌고 갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.03","home":"삼성 라이온스","away":"롯데 자이언츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903LTSS02026-2026-09-03-samsung-lions/"},{"date":"26.09.02","home":"삼성 라이온스","away":"롯데 자이언츠","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902LTSS02026-2026-09-02-samsung-lions/"},{"date":"26.09.01","home":"삼성 라이온스","away":"롯데 자이언츠","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901LTSS02026-2026-09-01-samsung-lions/"},{"date":"26.08.29","home":"롯데 자이언츠","away":"LG 트윈스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829LGLT02026-2026-08-29-lotte-giants/"},{"date":"26.08.26","home":"KIA 타이거즈","away":"롯데 자이언츠","score":"16-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826LTHT02026-2026-08-26-kia-tigers/"}]'
+awayRecent: '[{"date":"26.09.03","home":"KT 위즈","away":"한화 이글스","score":"13-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903HHKT02026-2026-09-03-kt-wiz-suwon/"},{"date":"26.09.02","home":"KT 위즈","away":"한화 이글스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902HHKT02026-2026-09-02-kt-wiz-suwon/"},{"date":"26.09.01","home":"KT 위즈","away":"한화 이글스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901HHKT02026-2026-09-01-kt-wiz-suwon/"},{"date":"26.08.30","home":"한화 이글스","away":"NC 다이노스","score":"7-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260830NCHH02026-2026-08-30-hanwha-eagles/"},{"date":"26.08.29","home":"한화 이글스","away":"NC 다이노스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829NCHH02026-2026-08-29-hanwha-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "한화 이글스"
+pickWinResult: "승"
+pickHandicapTeam: "한화 이글스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

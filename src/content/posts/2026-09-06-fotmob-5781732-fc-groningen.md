@@ -1,0 +1,37 @@
+---
+title: "흐로닝언 vs 트벤터 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | 에레디비지 - 픽천국"
+date: 2026-09-06T10:15:00.000Z
+description: "흐로닝언 vs 트벤터 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781732-2026-09-06-fc-groningen"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "흐로닝언"
+awayTeam: "트벤터"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8674.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8611.png"
+homeAnalysis: "흐로닝언은 2026시즌 최근 13경기 5승 1무 7패, 평균 득점 1.6을 기록하고 있어 공격과 수비의 기복이 함께 드러나고 있습니다. 최근에는 포르투나 시타르트전 2대3 패배, PSV 에인트호번전 1대5 패배처럼 수비 부담이 큰 경기가 있었지만, 아도 덴 하흐전 4대1 승리와 FC 위트레흐트전 2대1 승리처럼 전방에서 힘을 낼 때는 경기 양상을 바꾸는 모습도 보입니다. 홈에서는 득점이 나오는 경기와 잠잠한 경기가 함께 나타나고 있어, 초반 흐름을 잡느냐가 중요해 보입니다. 에티엔 바센 골키퍼를 중심으로 수비 라인을 정비하고, 티마흐 블로크질, 마르크 쟁커의 공백을 어떻게 메우느냐가 핵심입니다. 전방에서는 브리뇰푸르 빌룸손과 통합된 2선의 연계가 살아나면 홈에서 충분히 기회를 만들 수 있습니다. 전체적으로는 실점 억제에 성공할 때 승부를 가져올 가능성이 높아 보입니다."
+awayAnalysis: "트벤터는 2026시즌 최근 18경기 8승 3무 7패, 평균 득점 2.0으로 흐로닝언보다 공격 생산성이 조금 더 좋고 전력의 상한도 높게 보입니다. 최근에는 캄뷔르전 4대1 승리, 카라바흐전 4대1 승리처럼 화력이 확실히 터지는 경기가 있었고, 페예노르트보다 변칙적인 원정 일정 속에서도 득점 흐름을 유지한 점이 인상적입니다. 다만 실점이 늘어나는 경기에서는 경기 운영이 흔들리는 모습도 함께 보여서, 공격이 끊길 때는 균형이 다소 무너질 수 있습니다. 주엘 드롬멜 골키퍼 앞에서 로빈 프뢰퍼와 루드 니스타트가 중심을 잡아야 하고, 중원에서는 라미즈 제로우키의 조율이 매우 중요합니다. 전방에서는 마르코 피아차와 웁 베호르스트가 마무리를 책임질 가능성이 높아, 이 조합이 살아나면 원정에서도 주도권을 쥘 수 있습니다. 전체 흐름상 득점 기대치가 높고, 수비 안정만 받쳐주면 우세를 이어갈 가능성이 있습니다."
+homePower: "마르크 쟁커 공백이 수비 중심축 흔듦|에티엔 바센의 선방 의존도 높아짐|브리뇰푸르 빌룸손, 마무리 카드로 부각됨|홈에서는 전방 압박이 살아날 때 강세임|수비 흔들리면 대량 실점 위험도 동반됨"
+awayPower: "웁 베호르스트 마무리 존재감 뚜렷함|마르코 피아차의 2선 침투가 변수임|라미즈 제로우키, 중원 균형 핵심임|원정에서도 득점 루트가 비교적 다양함|실점 관리만 되면 경기 장악력 유지됨"
+h2h: '[{"date":"26.02.22","home":"트벤터","away":"흐로닝언","score":"2-1"},{"date":"25.11.02","home":"흐로닝언","away":"트벤터","score":"1-1"},{"date":"25.03.02","home":"흐로닝언","away":"트벤터","score":"1-1"},{"date":"24.12.15","home":"트벤터","away":"흐로닝언","score":"2-0"},{"date":"23.02.06","home":"흐로닝언","away":"트벤터","score":"1-1"}]'
+summary: "트벤터는 시즌 전체 흐름에서 평균 득점이 더 높고, 최근 경기에서도 득점 생산이 안정적으로 이어지고 있어 전력 면에서 한발 앞서 있습니다. 흐로닝언은 홈에서 반등 가능성을 보여주지만 수비 기복이 뚜렷해서, 강한 압박을 받는 구간에서는 경기를 길게 버티기 쉽지 않아 보입니다. 상대전적에서도 트벤터가 우위를 자주 보여 왔고, 최근 흐름까지 함께 보면 이번 경기 역시 트벤터 쪽이 더 주도권을 잡을 가능성이 높아 보입니다. 흐로닝언은 홈 이점을 살려 초반 실점을 막는 것이 중요하고, 트벤터는 마무리 효율만 유지하면 우세를 이어가기에 충분해 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Malcolm Jeng (아킬레스건 부상)|Marco Rente (부상)|Tyrique Mercera (부상)|Ryan Metu (부상)"
+injuryAway: "Stav Lemkin (부상)"
+homeLineup: '["Etienne Vaessen (GK)|https://images.fotmob.com/image_resources/playerimages/665170.png","Jorg Schreuders (FW)|https://images.fotmob.com/image_resources/playerimages/1419385.png","Thijmen Blokzijl (DF)|https://images.fotmob.com/image_resources/playerimages/1256173.png","Márk Csinger (DF)|https://images.fotmob.com/image_resources/playerimages/1436365.png","Wouter Prins (DF)|https://images.fotmob.com/image_resources/playerimages/1552425.png","Tika de Jonge (MF)|https://images.fotmob.com/image_resources/playerimages/1256176.png","Tygo Land (MF)|https://images.fotmob.com/image_resources/playerimages/1426704.png","David van der Werff (FW)|https://images.fotmob.com/image_resources/playerimages/1695991.png","Thom van Bergen (FW)|https://images.fotmob.com/image_resources/playerimages/1412105.png","Pelle Clement (MF)|https://images.fotmob.com/image_resources/playerimages/637741.png","Brynjólfur Willumsson (FW)|https://images.fotmob.com/image_resources/playerimages/937032.png"]'
+awayLineup: '["Joël Drommel (GK)|https://images.fotmob.com/image_resources/playerimages/588337.png","Bart van Rooij (DF)|https://images.fotmob.com/image_resources/playerimages/956726.png","Robin Pröpper (DF)|https://images.fotmob.com/image_resources/playerimages/298933.png","Ruud Nijstad (DF)|https://images.fotmob.com/image_resources/playerimages/1709029.png","Aske Adelgaard (DF)|https://images.fotmob.com/image_resources/playerimages/1391319.png","Ramiz Zerrouki (MF)|https://images.fotmob.com/image_resources/playerimages/1074967.png","Daouda Weidmann (MF)|https://images.fotmob.com/image_resources/playerimages/1382346.png","Sondre Ørjasæter (FW)|https://images.fotmob.com/image_resources/playerimages/1353293.png","Younes Taha (MF)|https://images.fotmob.com/image_resources/playerimages/1298600.png","Marko Pjaca (FW)|https://images.fotmob.com/image_resources/playerimages/307235.png","Wout Weghorst (FW)|https://images.fotmob.com/image_resources/playerimages/351999.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Dick Lukkien|https://images.fotmob.com/image_resources/playerimages/846372.png"
+awayCoach: "John van den Brom|https://images.fotmob.com/image_resources/playerimages/243552.png"
+pickWinTeam: "FC 트벤터"
+pickWinResult: "승"
+pickHandicapTeam: "FC 트벤터"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

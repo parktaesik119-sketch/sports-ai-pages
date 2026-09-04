@@ -1,0 +1,37 @@
+---
+title: "FC 신시내티 vs DC 유나이티드 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | MLS - 픽천국"
+date: 2026-09-05T23:30:00.000Z
+description: "FC 신시내티 vs DC 유나이티드 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071323-2026-09-06-cincinnati"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "FC 신시내티"
+awayTeam: "DC 유나이티드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6602.png"
+homeAnalysis: "FC 신시내티는 2026시즌 전체 DB 기준 최근 16경기 3승 4무 9패, 평균 득점 1.4를 기록하고 있어 전반적인 결과가 아쉬운 편입니다. 다만 리그순위 6위라는 위치는 시즌 초중반의 경쟁력은 아직 살아 있다는 뜻으로 읽히고, 최근에는 큰 점수 차 패배와 접전이 함께 나오며 기복이 분명한 흐름을 보이고 있습니다. 공격에서는 케빈 덴키와 에반데르 페레이라가 중심을 잡아 줄 가능성이 높고, 홈에서는 한 번 흐름을 타면 득점이 묶이지 않는 장면도 기대됩니다. 반면 수비 쪽은 실점 관리가 들쑥날쑥해서, 상대가 빠르게 전개를 가져갈 때 흔들리는 모습이 나타나고 있습니다. 이번에는 로만 셀렌타노를 축으로 한 후방 안정과 마르티아 미아즈가, 마일스 로빈슨의 제공권이 얼마나 버텨 주느냐가 중요한 관전 포인트입니다."
+awayAnalysis: "DC 유나이티드는 2026시즌 전체 DB 기준 최근 12경기 2승 8무 2패, 평균 득점 1.3으로 승리를 길게 이어 가지는 못하고 있습니다. 리그순위 11위에 득실 28-36이 말해 주듯, 경기당 버티는 힘은 있으나 마무리와 수비 안정감이 함께 부족한 흐름입니다. 최근에는 무승부가 많다가도 한 번씩 실점이 커지는 장면이 보여서, 경기 운영은 나쁘지 않아도 결과로 연결하는 힘이 약해 보입니다. 루이스 문테아누와 네이선 오르다스가 전방에서 마무리를 만들어야 하며, 중원에서는 매티 펠톨라와 브랜든 서바니아의 압박 대응이 중요합니다. 수비에서는 키미토 노노와 루카스 바틀렛이 버티는 구간이 길어질수록 부담이 커질 수 있어, 원정에서는 먼저 실점하지 않는 운영이 특히 필요해 보입니다."
+homePower: "케빈 덴키-에반데르 중심 전방 응집력 보임|리그순위 6위, 상승 여지 남아 있음|홈에서 득점 폭발과 침묵이 공존함|후방 실점 관리가 승패를 가르는 변수임|주요 결장 적어 전력 유지력은 양호함"
+awayPower: "루이스 문테아누 마무리 의존도 높음|리그순위 11위, 끈질김은 있으나 임팩트 부족함|무승부가 많아 경기 운영은 안정적임|원정에서도 득점은 만들지만 마감이 약함|키예 롤스 결장은 수비 밸런스에 부담임"
+h2h: '[{"date":"25.06.01","home":"FC 신시내티","away":"DC 유나이티드","score":"1-2"},{"date":"25.04.13","home":"DC 유나이티드","away":"FC 신시내티","score":"0-1"},{"date":"24.07.04","home":"DC 유나이티드","away":"FC 신시내티","score":"2-3"},{"date":"24.03.11","home":"FC 신시내티","away":"DC 유나이티드","score":"0-0"},{"date":"23.06.25","home":"DC 유나이티드","away":"FC 신시내티","score":"3-0"}]'
+summary: "FC 신시내티는 리그순위 6위지만 최근 16경기 3승 4무 9패로 흐름이 완만하지는 않아, 순위에 비해 경기 내용의 들쑥날쑥함이 눈에 띕니다. DC 유나이티드는 리그순위 11위에 머물러 있으나 최근 12경기에서 패배를 크게 쌓지 않으며 버티는 힘은 보여 주고 있어, 쉽게 무너지는 상대는 아닙니다. 다만 맞대결 흐름과 시즌 전체 전력을 함께 보면 신시내티 쪽이 공격 전개와 홈 활용에서 조금 더 앞서 있고, DC 유나이티드는 실점 억제가 따라붙지 않으면 주도권을 오래 잡기 어려워 보입니다. 전체적으로는 홈의 공격 응집력이 원정의 끈질김보다 한 단계 더 기대되는 구도라서, 신시내티가 우세를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "David Doudera (충돌 부상)"
+injuryAway: "Kye Rowles (허벅지 부상)"
+homeLineup: '["Roman Celentano (GK)|https://images.fotmob.com/image_resources/playerimages/1337962.png","Samuel Gidi (MF)|https://images.fotmob.com/image_resources/playerimages/1383071.png","Matt Miazga (DF)|https://images.fotmob.com/image_resources/playerimages/458324.png","Miles Robinson (DF)|https://images.fotmob.com/image_resources/playerimages/825623.png","Pavel Bucha (MF)|https://images.fotmob.com/image_resources/playerimages/923247.png","Obinna Nwobodo (MF)|https://images.fotmob.com/image_resources/playerimages/861112.png","Gerardo Valenzuela (MF)|https://images.fotmob.com/image_resources/playerimages/1362857.png","Ender Echenique (MF)|https://images.fotmob.com/image_resources/playerimages/1248686.png","Kenji Mboma Dem (FW)|https://images.fotmob.com/image_resources/playerimages/1650499.png","Kévin Denkey (FW)|https://images.fotmob.com/image_resources/playerimages/820477.png","Evander Ferreira (MF)|https://images.fotmob.com/image_resources/playerimages/787351.png"]'
+awayLineup: '["Sean Johnson (GK)|https://images.fotmob.com/image_resources/playerimages/198426.png","Kimito Nono (DF)|https://images.fotmob.com/image_resources/playerimages/1611171.png","Lucas Bartlett (DF)|https://images.fotmob.com/image_resources/playerimages/1338938.png","Andre Dozzell (MF)|https://images.fotmob.com/image_resources/playerimages/729733.png","Keisuke Kurokawa (DF)|https://images.fotmob.com/image_resources/playerimages/1023942.png","Brandon Servania (MF)|https://images.fotmob.com/image_resources/playerimages/924454.png","Matti Peltola (MF)|https://images.fotmob.com/image_resources/playerimages/1084535.png","Peglow (MF)|https://images.fotmob.com/image_resources/playerimages/1106871.png","Louis Munteanu (FW)|https://images.fotmob.com/image_resources/playerimages/1037813.png","Jackson Hopkins (MF)|https://images.fotmob.com/image_resources/playerimages/1280734.png","Nathan Ordaz (FW)|https://images.fotmob.com/image_resources/playerimages/1328863.png"]'
+homeFormation: "3-4-1-2"
+awayFormation: "4-3-3"
+homeCoach: "Pat Noonan|https://images.fotmob.com/image_resources/playerimages/70286.png"
+awayCoach: "René Weiler|https://images.fotmob.com/image_resources/playerimages/458569.png"
+pickWinTeam: "FC 신시내티"
+pickWinResult: "승"
+pickHandicapTeam: "FC 신시내티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

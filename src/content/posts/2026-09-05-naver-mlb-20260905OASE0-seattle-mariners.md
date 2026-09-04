@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 애슬레틱스 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | MLB - 픽천국"
+date: 2026-09-05T02:10:00.000Z
+description: "시애틀 매리너스 vs 애슬레틱스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260905OASE0-2026-09-05-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "애슬레틱스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 최근 88경기에서 41승 46패, 승률 .471, 평균 득점 3.9를 기록하며 리그순위 11위에 올라 있습니다. 최근에는 보스턴 레드삭스를 상대로 연승을 거두며 반등 기미를 보였고, 직전 구간에서는 득점 생산이 살아나면서 공격 흐름이 한층 나아진 모습입니다. 다만 토론토 원정처럼 타선이 묶일 때는 경기 전체가 급격히 어려워지는 편이라, 득점 기복을 얼마나 줄이느냐가 핵심입니다. 홈에서는 상대적으로 버티는 힘이 있고, 강한 선발이 나올 때는 실점 억제가 잘 되며 경기 운영이 안정적으로 이어집니다. 결장자도 적지 않아 전력 공백이 완전히 가볍지는 않지만, 최근 흐름과 홈 이점을 감안하면 경기 주도권을 잡을 가능성은 충분히 보입니다."
+awayAnalysis: "애슬레틱스는 2026시즌 최근 89경기에서 33승 55패, 승률 .386, 평균 득점 4.4로 리그순위 14위에 자리하고 있습니다. 최근에는 텍사스 레인저스를 상대로 큰 점수차 승리를 따내는 등 반등 장면이 있었지만, 그 이전에는 볼티모어와 캔자스시티를 상대로 실점이 크게 늘며 흐름이 흔들렸습니다. 득점 자체는 홈팀보다 조금 더 나오고 있으나, 실점 억제가 따라주지 않아 경기 후반에 무너지는 양상이 자주 보입니다. 특히 원정에서는 수비 집중력이 들쑥날쑥해 상대에게 연속 득점을 허용하는 장면이 문제로 이어지고 있습니다. 주전급 전력 공백도 적지 않아, 최근 공격 감각만으로 흐름을 뒤집기에는 부담이 큰 편입니다."
+homePower: "최근 보스턴전 연승으로 타선 회복세가 확인됨|홈에서는 경기 운영 안정감이 상대적으로 높음|실점 억제 시 승부를 끝까지 끌고 가는 힘 있음|장기 결장자 공백이 있어도 중심축은 유지됨|득점 기복만 줄면 상위 전력 상대로도 대응 가능함"
+awayPower: "최근 대량 득점과 대패가 교차해 기복이 큼|원정 실점 관리가 흔들리며 후반 불안이 큼|공격은 나쁘지 않지만 수비 붕괴를 상쇄 못함|주전급 결장 공백이 경기 운영에 부담을 줌|득점 상한은 있으나 안정성은 떨어지는 편임"
+h2h: '[{"date":"26.05.28","home":"애슬레틱스","away":"시애틀 매리너스","score":"1-9","link":"https://pick79.com/posts/detail/analyze-178850-2026-05-28-athletics/"},{"date":"26.05.27","home":"애슬레틱스","away":"시애틀 매리너스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-178820-2026-05-26-athletics/"},{"date":"26.05.26","home":"애슬레틱스","away":"시애틀 매리너스","score":"2-9","link":"https://pick79.com/posts/detail/analyze-178820-2026-05-26-athletics/"},{"date":"26.04.23","home":"시애틀 매리너스","away":"애슬레틱스","score":"5-4"},{"date":"26.04.22","home":"시애틀 매리너스","away":"애슬레틱스","score":"2-5"}]'
+summary: "시애틀 매리너스는 2026시즌 리그순위 11위지만, 최근 흐름이 살아나고 있고 홈에서 경기 운영이 한층 안정적으로 이어지는 점이 돋보입니다. 애슬레틱스는 2026시즌 리그순위 14위로 순위와 실점 격차가 모두 부담스럽지만, 최근에는 공격이 버티는 장면도 있어 쉽게 무기력한 흐름만 보이는 팀은 아닙니다. 다만 맞대결에서는 시애틀 매리너스가 앞서 있고, 최근 대결에서도 득점 생산과 실점 억제에서 더 단단한 모습을 보여 왔습니다. 전력 차이, 홈 이점, 그리고 상대전적 흐름까지 함께 보면 시애틀 매리너스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.03","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SEBO0-2026-09-03-boston-red-sox/"},{"date":"26.09.02","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"6-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SEBO0-2026-09-02-boston-red-sox/"},{"date":"26.09.01","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"9-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SEBO0-2026-09-01-boston-red-sox/"},{"date":"26.08.31","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays/"},{"date":"26.08.30","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SETO0-2026-08-30-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬레틱스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903OATE0-2026-09-03-texas-rangers/"},{"date":"26.09.01","home":"텍사스 레인저스","away":"애슬레틱스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901OATE0-2026-09-01-texas-rangers/"},{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 오리올스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BAOA0-2026-08-31-athletics/"},{"date":"26.08.29","home":"애슬레틱스","away":"볼티모어 오리올스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BAOA0-2026-08-29-athletics/"},{"date":"26.08.27","home":"애슬레틱스","away":"미네소타 트윈스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827MNOA0-2026-08-27-athletics/"}]'
+injuryHome: "Brendan Donovan (뇌진탕)|Victor Robles (사별)|Cole Wilcox (근육 염좌)|Matt Brash (근육 염좌)|Brennen Davis (근육 염좌)"
+injuryAway: "Tommy White (통증)|J.T. Ginn (결장 가능)|Joshua Kuroda-Grauer (수술)|Brooks Kriske (신경 압박)|Shea Langeliers (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시애틀 매리너스"
+pickWinResult: "승"
+pickHandicapTeam: "시애틀 매리너스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

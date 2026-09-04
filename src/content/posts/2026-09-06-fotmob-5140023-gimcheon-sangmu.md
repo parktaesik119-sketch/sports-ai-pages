@@ -1,0 +1,37 @@
+---
+title: "김천 상무 FC vs 광주 FC 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | K-League 1 - 픽천국"
+date: 2026-09-06T10:00:00.000Z
+description: "김천 상무 FC vs 광주 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140023-2026-09-06-gimcheon-sangmu"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "김천 상무 FC"
+awayTeam: "광주 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133901.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/245905.png"
+homeAnalysis: "김천 상무 FC는 2026시즌 최근 15경기에서 2승 7무 6패, 평균 득점 0.8로 시즌 전체 전개가 다소 답답하게 이어지고 있습니다. 득점 생산이 크게 폭발하지는 못하고 있지만, 실점 억제에 집중한 운영 속에서 경기를 쉽게 무너뜨리지 않는 모습은 분명히 보입니다. 최근에는 울산 HD FC전 패배와 더불어 제천, 제주, 인천, FC 서울전에서 연속으로 버티는 흐름이 이어졌고, 무실점 경기에서도 나온 것이 있어 수비 응집력은 나쁘지 않습니다. 홈에서는 전방 압박보다 안정적인 간격 유지가 돋보이며, 백종범 골키퍼와 변준수, 정택리 중심의 수비 라인이 버텨줄 때 경기의 균형을 만들 가능성이 큽니다. 다만 평균 득점이 낮은 편이라 세진 박, 윤상 홍, 이근희 쪽의 마무리 효율이 살아나야 승부를 가져갈 수 있는 전력으로 보입니다."
+awayAnalysis: "광주 FC는 2026시즌 최근 16경기에서 2승 5무 9패, 평균 득점 0.8로 결과와 내용이 모두 들쑥날쑥한 흐름입니다. 공격에서는 한 번 터지면 이어가는 힘보다, 득점 이후에도 수비 안정이 따라오지 않아 경기를 끝까지 편하게 끌고 가지 못하는 장면이 자주 보입니다. 최근에는 강원전 무승부와 울산 시민전 승리가 있었지만, 서울전 2실점 5실점 패배처럼 수비 흔들림이 크게 나타난 경기들도 있어 기복이 분명합니다. 원정에서는 김동화 골키퍼 앞에서 권성윤, 조앙 페드루, 안영규를 중심으로 한 수비 조직이 얼마나 단단하게 버티느냐가 핵심이며, 전방의 아드리엘 바 루아와 문민서가 빠르게 마무리해 주어야 합니다. 전력상 한 끗 차이를 만들 수 있는 순간은 있으나, 전체적으로는 실점 관리가 더 큰 숙제로 평가됩니다."
+homePower: "김천 상무 FC 수비 간격 유지가 비교적 안정적임|낮은 득점력 속에서도 경기 끊김이 적음|백종범 중심의 후방 안정감이 핵심임|세트플레이보다 조직적 압박 대응이 강점임|마무리만 살아나면 승부 가능성 커짐"
+awayPower: "광주 FC 전방은 순간 돌파보다 연계 완성도가 관건임|아드리엘 바 루아의 한 번에 바꾸는 힘이 있음|원정에서는 수비 집중력 유지가 성패 좌우함|실점 후 회복 속도가 느려 흐름이 흔들림|김동화 중심 선방 의존도가 높은 편임"
+h2h: '[{"date":"26.07.22","home":"광주 FC","away":"김천 상무 FC","score":"1-1","link":"https://pick79.com/posts/detail/analyze-1507008-2026-07-22-gwangju-fc/"},{"date":"26.03.17","home":"김천 상무 FC","away":"광주 FC","score":"1-1"},{"date":"25.07.22","home":"광주 FC","away":"김천 상무 FC","score":"1-1"},{"date":"25.05.05","home":"광주 FC","away":"김천 상무 FC","score":"1-0"},{"date":"25.03.16","home":"김천 상무 FC","away":"광주 FC","score":"0-0"}]'
+summary: "김천 상무 FC와 광주 FC는 모두 2026시즌 평균 득점 0.8로 공격 생산이 낮은 편이고, 시즌 전체 성적도 비슷하게 답답한 흐름을 보이고 있습니다. 다만 김천 상무 FC는 최근 15경기에서 2승 7무 6패로 버티는 장면이 비교적 꾸준하고, 광주 FC는 최근 16경기에서 2승 5무 9패로 패배가 더 자주 나와 전반적인 안정감에서 조금 밀리는 모습입니다. 맞대결에서는 최근 여러 차례 접전이 이어졌지만, 김천 상무 FC가 홈에서 수비를 정리해 두면 광주 FC의 기복 있는 원정 전력보다 조금 더 나은 균형을 가져갈 가능성이 높아 보입니다. 전체적으로는 두 팀 모두 득점 폭발형은 아니지만, 김천 상무 FC가 경기 운영의 안정감에서 근소한 우위를 점할 것으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Jong-Beom Baek (GK)|https://images.fotmob.com/image_resources/playerimages/1135919.png","Tae-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1026835.png","Jun-Soo Byeon (DF)|https://images.fotmob.com/image_resources/playerimages/1232943.png","Jung-Taek Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1457033.png","Cheol-Woo Park (DF)|https://images.fotmob.com/image_resources/playerimages/1326687.png","Kang-Hyeon Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1232526.png","Tae-Joon Park (MF)|https://images.fotmob.com/image_resources/playerimages/925867.png","Jae-Hyun Go (MF)|https://images.fotmob.com/image_resources/playerimages/925265.png","Se-Jin Park (FW)|https://images.fotmob.com/image_resources/playerimages/1437915.png","Yun-Sang Hong (FW)|https://images.fotmob.com/image_resources/playerimages/1272121.png","Kun-Hee Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1136249.png"]'
+awayLineup: '["Dong-Hwa Kim (GK)|https://images.fotmob.com/image_resources/playerimages/1711655.png","Seong-Yun Kwon (DF)|https://images.fotmob.com/image_resources/playerimages/1135926.png","Yong-Jik Ri (MF)|https://images.fotmob.com/image_resources/playerimages/431899.png","Young-Kyu Ahn (DF)|https://images.fotmob.com/image_resources/playerimages/431508.png","João Pedro (DF)|https://images.fotmob.com/image_resources/playerimages/1320963.png","Chang-Moo Sin (MF)|https://images.fotmob.com/image_resources/playerimages/623019.png","Je-Ho Yu (MF)|https://images.fotmob.com/image_resources/playerimages/1337196.png","Kyoung-Rok Choi (MF)|https://images.fotmob.com/image_resources/playerimages/520978.png","Woo-Jin Kim (MF)|https://images.fotmob.com/image_resources/playerimages/2076071.png","Adriel Ba Loua (FW)|https://images.fotmob.com/image_resources/playerimages/768613.png","Min-Seo Moon (MF)|https://images.fotmob.com/image_resources/playerimages/1613276.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "Seung-Jin Ju|https://images.fotmob.com/image_resources/playerimages/1169325.png"
+awayCoach: "Jeong-Kyu Lee|https://images.fotmob.com/image_resources/playerimages/1881711.png"
+pickWinTeam: "김천 상무 FC"
+pickWinResult: "승"
+pickHandicapTeam: "김천 상무 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

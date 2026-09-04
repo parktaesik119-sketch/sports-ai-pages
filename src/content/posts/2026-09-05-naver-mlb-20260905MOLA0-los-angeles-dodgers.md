@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 워싱턴 내셔널스 경기분석·라인업·결장자·통계·승부예측 (9월 5일) | MLB - 픽천국"
+date: 2026-09-05T02:10:00.000Z
+description: "LA 다저스 vs 워싱턴 내셔널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260905MOLA0-2026-09-05-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "LA 다저스는 2026시즌 최근 91경기 54승 37패 승률 .590, 평균 득점 5.0으로 상위권 전력을 유지하고 있습니다. 다만 최근 10경기에서는 4승 6패, 평균 득점 3.9로 다소 주춤한 흐름이 보이며, 최근에는 득점 기복이 함께 나타나고 있습니다. 그래도 홈에서는 장타와 집중력이 살아날 때 한 번에 흐름을 가져오는 힘이 있고, 실제로 중하위권 상대로는 실점 억제와 함께 경기를 빠르게 정리하는 장면이 자주 보입니다. 반면 최근 두 경기에서 연속으로 실점이 크게 늘어난 점은 불펜 안정감과 마운드 운용에서 점검이 필요한 부분입니다. 부상자 중에서는 오타니 쇼헤이의 단기 결장이 변수로 보이지만, 팀 전체 전력의 두께가 워낙 두터워 경기 운영의 주도권은 여전히 잡을 가능성이 높아 보입니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 최근 107경기 52승 53패 2무, 평균 득점 4.8로 승패 균형을 맞추며 버티고 있습니다. 최근 10경기에서는 6승 4패, 평균 득점 5.3으로 타선 흐름이 살아나 반등 조짐이 분명하게 나타나고 있습니다. 특히 최근 들어 5득점 이상 경기를 자주 만들어내며 공격 쪽에서 활로를 찾고 있고, 강팀을 상대로도 한 번씩 폭발력을 보여주는 점이 눈에 띕니다. 다만 순위는 현재 리그순위 12위로 낮고, 득실이 +14에 그쳐 화력은 있지만 경기 전체를 지배하는 안정감은 부족해 보입니다. 조시아 그레이와 DJ 헤르츠의 장기 결장은 선발 운용의 깊이를 얇게 만들고, 케이버트 루이스의 단기 이슈는 포수진 운영에 작은 부담으로 작용할 수 있습니다."
+homePower: "홈에서 경기 주도권을 되찾는 힘은 충분함|상위권 전력 대비 최근 득점 기복이 변수로 보임|장타가 터지면 단숨에 흐름을 잠그는 타입임|불펜 장기 결장 여파로 후반 운영은 점검 필요함|상대전 3연승으로 상성 우위가 뚜렷하게 확인됨"
+awayPower: "최근 타선 폭발력은 살아나 반등 신호가 뚜렷함|다득점 경기로 공격 전개 자신감이 높아진 모습임|다만 낮은 순위가 보여주듯 안정감은 부족함|선발진 장기 이탈로 경기 운영 깊이가 얇아짐|강팀 상대로도 한 방은 있으나 지속성은 검증 필요함"
+h2h: '[{"date":"26.04.06","home":"워싱턴 내셔널스","away":"LA 다저스","score":"6-8"},{"date":"26.04.05","home":"워싱턴 내셔널스","away":"LA 다저스","score":"5-10"},{"date":"26.04.04","home":"워싱턴 내셔널스","away":"LA 다저스","score":"6-13"}]'
+summary: "LA 다저스는 시즌 전체 전력에서 분명한 상위권 구성을 유지하고 있고, 워싱턴 내셔널스는 최근 공격 흐름이 좋아졌지만 순위와 누적 전력에서는 아직 차이가 있습니다. 다저스는 최근 득점 기복이 있으나 홈에서의 완성도와 상대전 3연승 흐름이 이어지고 있어서, 경기 전체의 주도권은 홈팀 쪽으로 기울어져 보입니다. 워싱턴 내셔널스는 최근 타격감이 살아 있어 초반에 버틸 여지는 있지만, 선발진 결장과 다저스 상성을 고려하면 후반으로 갈수록 홈팀 우세가 더 선명해질 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.03","home":"LA 다저스","away":"세인트루이스 카디널스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SLLA0-2026-09-03-los-angeles-dodgers/"},{"date":"26.09.02","home":"LA 다저스","away":"세인트루이스 카디널스","score":"8-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SLLA0-2026-09-02-los-angeles-dodgers/"},{"date":"26.08.31","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831LADE0-2026-08-31-detroit-tigers/"},{"date":"26.08.30","home":"디트로이트 타이거즈","away":"LA 다저스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830LADE0-2026-08-30-detroit-tigers/"},{"date":"26.08.29","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829LADE0-2026-08-29-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.09.03","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903ATMO0-2026-09-03-washington-nationals/"},{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals/"},{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"},{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"},{"date":"26.08.30","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830FLMO0-2026-08-30-washington-nationals/"}]'
+injuryHome: "Bobby Miller (어깨 통증)|Brusdar Graterol (수술)|Shohei Ohtani (통증)|Edwin Diaz (염증)|Gavin Stone (염증)"
+injuryAway: "Keibert Ruiz (당일 결정)|Richard Lovelady (근육 염좌)|Cade Cavalli (당일 결정)|Josiah Gray (근육 염좌)|DJ Herz (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

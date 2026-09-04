@@ -1,0 +1,37 @@
+---
+title: "세인트 존스턴 vs 하이버니언 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | Premiership - 픽천국"
+date: 2026-09-06T14:00:00.000Z
+description: "세인트 존스턴 vs 하이버니언 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5793932-2026-09-06-st-johnstone"
+category: "soccer"
+country: "스코틀랜드"
+league: "Premiership"
+homeTeam: "세인트 존스턴"
+awayTeam: "하이버니언"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8467.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10251.png"
+homeAnalysis: "세인트 존스턴은 2026시즌 최근 14경기에서 5승 2무 7패, 평균 득점 1.5를 기록하고 있어 공격 전개는 나쁘지 않지만 결과의 안정감은 다소 흔들리는 흐름입니다. 최근 경기에서는 득점이 아예 끊기기보다는 한 골 안팎은 꾸준히 만들어 내고 있어, 전방에서 루아리 파톤과 사무엘 스탠턴을 활용한 마무리 시도는 충분히 기대해 볼 만합니다. 다만 수비에서는 실점 관리가 매끄럽지 않아, 한 골 차 접전으로 흘러가더라도 경기를 끝까지 지키는 힘이 부족해 보입니다. 홈 경기에서의 응집력은 비교적 기대할 수 있지만, 최근 경기 결과들을 보면 홈 이점만으로 흐름을 완전히 바꾸기에는 아쉬움이 있습니다. 그래서 이번 경기도 초반 실점만 피한다면 버틸 수는 있겠지만, 전체 전력의 균형에서는 여전히 보완점이 더 크게 보입니다."
+awayAnalysis: "하이버니언은 2026시즌 최근 19경기에서 8승 3무 8패, 평균 득점 1.4를 기록하며 승패 기복은 있으나 전체 전력의 밀도는 세인트 존스턴보다 한 단계 안정적으로 보입니다. 최근 경기들에서는 강한 상대를 상대로도 득점을 만들어 내는 장면이 있었고, 특히 마틴 보일과 제이미 맥그라스가 전방과 2선에서 연계의 중심을 잡아 주는 모습이 돋보입니다. 다만 실점이 아예 억제되는 흐름은 아니어서, 공격적으로 나설 때 뒷공간 관리가 중요하게 작용할 가능성이 큽니다. 원정에서도 라파엘 살링거 골키퍼와 그랜트 핸리, 조던 오비타가 버티는 수비 라인이 중심을 잡아 준다면 경기 운영은 충분히 가능합니다. 전반적인 득실 균형과 상대 압박 대응을 감안하면, 하이버니언이 좀 더 주도권을 잡을 가능성이 높아 보입니다."
+homePower: "루아리 파톤 중심 마무리 기대감은 유지됨|세트피스보다 전개 속도에서 활로 필요함|한 골 승부에서 수비 흔들림이 변수로 작용함|홈에서는 초반 압박 강도가 성패를 가름함|결정력보다 경기 지배력 보강이 관건임"
+awayPower: "마틴 보일-제이미 맥그라스 연계가 핵심임|원정에서도 전방 압박이 공격 시발점임|그랜트 핸리 중심 수비 안정감이 강점임|득점과 실점이 공존해 경기 템포가 빠름|상대보다 전력 밀도는 한 단계 높아 보임"
+h2h: '[{"date":"25.03.30","home":"하이버니언","away":"세인트 존스턴","score":"3-0"},{"date":"25.01.03","home":"세인트 존스턴","away":"하이버니언","score":"1-1"},{"date":"24.09.14","home":"하이버니언","away":"세인트 존스턴","score":"2-0"},{"date":"24.04.27","home":"세인트 존스턴","away":"하이버니언","score":"1-3"},{"date":"24.04.06","home":"하이버니언","away":"세인트 존스턴","score":"1-2"}]'
+summary: "세인트 존스턴은 득점 흐름 자체는 유지하고 있지만, 승패가 자주 갈리며 경기 마무리에서 흔들리는 모습이 이어지고 있습니다. 하이버니언은 시즌 전체 전력에서 더 고른 경기력을 보여 주고 있고, 원정에서도 득점 생산이 끊기지 않는 점이 강점으로 평가됩니다. 상대전적에서도 하이버니언이 최근 우위를 더 자주 가져가고 있어, 이번 경기는 하이버니언이 경기 흐름을 주도할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Rocky Bushiri (아킬레스건 부상)"
+homeLineup: '["Toby Steward (GK)|https://images.fotmob.com/image_resources/playerimages/1313606.png","Matty Todd (MF)|https://images.fotmob.com/image_resources/playerimages/948961.png","Zach Mitchell (DF)|https://images.fotmob.com/image_resources/playerimages/1420196.png","Cheick Diabate (DF)|https://images.fotmob.com/image_resources/playerimages/1101057.png","Enes Alic (DF)|https://images.fotmob.com/image_resources/playerimages/1174845.png","Samuel Stanton (FW)|https://images.fotmob.com/image_resources/playerimages/302012.png","Jason Holt (MF)|https://images.fotmob.com/image_resources/playerimages/264837.png","Reece McAlear (MF)|https://images.fotmob.com/image_resources/playerimages/1089741.png","Taylor Steven (FW)|https://images.fotmob.com/image_resources/playerimages/1389992.png","Jamie Gullan (MF)|https://images.fotmob.com/image_resources/playerimages/865728.png","Ruari Paton (FW)|https://images.fotmob.com/image_resources/playerimages/1104042.png"]'
+awayLineup: '["Raphael Sallinger (GK)|https://images.fotmob.com/image_resources/playerimages/632793.png","Jason Kerr (DF)|https://images.fotmob.com/image_resources/playerimages/583435.png","Grant Hanley (DF)|https://images.fotmob.com/image_resources/playerimages/202180.png","Jordan Obita (DF)|https://images.fotmob.com/image_resources/playerimages/214619.png","Felix Passlack (MF)|https://images.fotmob.com/image_resources/playerimages/637753.png","Josh Mulligan (MF)|https://images.fotmob.com/image_resources/playerimages/1052343.png","Jacob Devaney (MF)|https://images.fotmob.com/image_resources/playerimages/1697819.png","Callum Wright (MF)|https://images.fotmob.com/image_resources/playerimages/961984.png","Martin Boyle (FW)|https://images.fotmob.com/image_resources/playerimages/192782.png","Nathan Lowe (FW)|https://images.fotmob.com/image_resources/playerimages/1334830.png","Jamie McGrath (MF)|https://images.fotmob.com/image_resources/playerimages/591987.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "Simo Valakari|https://images.fotmob.com/image_resources/playerimages/23005.png"
+awayCoach: "David Gray|https://images.fotmob.com/image_resources/playerimages/40760.png"
+pickWinTeam: "하이버니언"
+pickWinResult: "승"
+pickHandicapTeam: "하이버니언"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "라요 바예카노 vs 레이싱 산탄데르 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | 라리가 - 픽천국"
+date: 2026-09-05T16:30:00.000Z
+description: "라요 바예카노 vs 레이싱 산탄데르 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868048-2026-09-06-rayo-vallecano"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "라요 바예카노"
+awayTeam: "레이싱 산탄데르"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8696.png"
+homeAnalysis: "라요 바예카노는 2026시즌 최근 14경기에서 6승 2무 6패를 기록하며 승률과 기복이 함께 드러나고 있고, 경기당 평균 득점 1.4로 공격 전개는 꾸준하지만 마무리에서 들쑥날쑥한 모습이 보입니다. 최근에는 바르셀로나전 2득점, 알라베스전 1득점처럼 득점 자체는 만들고 있으나, 세비야전과 입스위치전에서 실점이 늘어나며 수비 안정감이 흔들린 장면도 있었습니다. 그래도 홈에서는 비야레알을 2대0으로 잡고 레알 소시에다드와 3대3을 만드는 등, 주도권을 잡을 때는 공격 템포가 살아나는 편입니다. 이번 경기에서는 조르지 데 프루토스, 알바로 가르시아, 세르히오 카멜로가 앞선에서 움직이면서, 유나이 로페스와 오스카르 발렌틴의 중원 연결이 얼마나 매끄럽게 이어지느냐가 중요해 보입니다. 다만 아우구스토 바탈라를 비롯해 주요 결장자가 적지 않아, 수비와 골문 쪽에서 버티는 힘은 평소보다 약해질 가능성이 있습니다."
+awayAnalysis: "레이싱 산탄데르는 2026시즌 최근 15경기에서 6승 5무 4패를 기록했고, 경기당 평균 득점 1.7로 화력 면에서는 홈팀보다 한층 더 날카로운 흐름을 보여주고 있습니다. 최근 엘체전 3득점 승리처럼 공격 전개가 한 번 풀리면 득점 생산이 크게 살아나고, 비야레알전과 알라베스전에서도 꾸준히 득점 기회를 만들고 있습니다. 다만 헤타페전 무득점 패배와 울버햄프턴전 3실점 패배처럼, 강한 압박을 받으면 수비 집중력이 흔들릴 수 있는 장면도 분명합니다. 이번 경기에서는 세르히오 카나레스와 이니고 비센테가 중심을 잡고, 이사르 자비리와 기오르기 굴리아슈빌리가 마무리를 책임지는 구도가 핵심으로 보입니다. 원정에서도 공격 흐름을 이어갈 수는 있지만, 결장자가 있는 가운데 라요 바예카노의 홈 압박을 얼마나 견디느냐가 승부의 관건으로 평가됩니다."
+homePower: "홈에서 주도권 잡을 때 공격 템포가 빠르게 살아남|조르지 데 프루토스-알바로 가르시아 측면 위협 큼|유나이 로페스의 전진 패스가 공격 완성도 좌우함|주요 수비 결장으로 뒷공간 관리 부담 커 보임|홈 강세 구간에서는 득점 기대치가 높아지는 흐름임"
+awayPower: "평균 득점 1.7로 공격 효율이 한 단계 높음|세르히오 카나레스 중심 전개로 마무리 질이 살아남|이니고 비센테-이사르 자비리 조합의 침투력 보임|원정 강팀 상대로는 수비 흔들림이 반복되는 편임|득점은 꾸준하나 실점 억제가 승부를 가르는 구조임"
+h2h: '[{"date":"20.07.21","home":"레이싱 산탄데르","away":"라요 바예카노","score":"1-2"},{"date":"19.09.14","home":"라요 바예카노","away":"레이싱 산탄데르","score":"2-0"},{"date":"12.03.04","home":"라요 바예카노","away":"레이싱 산탄데르","score":"4-2"},{"date":"11.12.22","home":"라요 바예카노","away":"레이싱 산탄데르","score":"4-3"},{"date":"11.12.14","home":"레이싱 산탄데르","away":"라요 바예카노","score":"3-2"}]'
+summary: "라요 바예카노는 시즌 전력상 득점 흐름이 완전히 막히지는 않지만, 수비 결장 여파가 겹치면서 안정감에서는 다소 흔들리는 모습이 보입니다. 레이싱 산탄데르는 평균 득점이 더 높고 최근 공격 전개도 살아 있어, 전체적인 흐름만 보면 원정팀이 좀 더 날카로운 전력을 갖춘 것으로 읽힙니다. 다만 상대전적에서는 라요 바예카노가 우세한 결과를 더 자주 만들었고, 특히 홈에서 강하게 맞붙는 경향이 보여 이번 경기 역시 홈팀이 버티면서 흐름을 되찾을 가능성도 충분합니다. 종합하면 공격의 꾸준함은 레이싱 산탄데르 쪽, 맞대결 상성과 홈 저항력은 라요 바예카노 쪽이 강점으로 보이며, 전체적인 우세는 원정팀 쪽에 조금 더 기울어 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Augusto Batalla (부상)|Jozhua Vertrouwd (햄스트링 부상)|Luiz Felipe (햄스트링 부상)|Marash Kumbulla (근육 부상)|Isi Palazón (근육 부상)"
+injuryAway: "Iker Luque (부상)|Simon Eriksson (어깨 부상)|Andrés Martin (무릎 부상)"
+homeLineup: '["Dani Cárdenas (GK)|https://images.fotmob.com/image_resources/playerimages/1041445.png","Iván Balliu (DF)|https://images.fotmob.com/image_resources/playerimages/264885.png","Florian Lejeune (DF)|https://images.fotmob.com/image_resources/playerimages/184521.png","Pathé Ciss (MF)|https://images.fotmob.com/image_resources/playerimages/872396.png","Pelayo Fernández (DF)|https://images.fotmob.com/image_resources/playerimages/1411818.png","Óscar Valentín (MF)|https://images.fotmob.com/image_resources/playerimages/956622.png","Gnangoro Bouare (MF)|https://images.fotmob.com/image_resources/playerimages/1889232.png","Jorge de Frutos (FW)|https://images.fotmob.com/image_resources/playerimages/797901.png","Unai López (MF)|https://images.fotmob.com/image_resources/playerimages/571615.png","Álvaro Garcia (FW)|https://images.fotmob.com/image_resources/playerimages/474658.png","Sergio Camello (FW)|https://images.fotmob.com/image_resources/playerimages/980422.png"]'
+awayLineup: '["Julen Agirrezabala (GK)|https://images.fotmob.com/image_resources/playerimages/1280020.png","Álvaro Mantilla (DF)|https://images.fotmob.com/image_resources/playerimages/1199649.png","Manu (DF)|https://images.fotmob.com/image_resources/playerimages/863169.png","Facundo González (DF)|https://images.fotmob.com/image_resources/playerimages/1212179.png","Jorge Salinas (DF)|https://images.fotmob.com/image_resources/playerimages/1670161.png","Iván Martin (MF)|https://images.fotmob.com/image_resources/playerimages/967871.png","Íñigo Sainz-Maza (MF)|https://images.fotmob.com/image_resources/playerimages/1168852.png","Giorgi Guliashvili (FW)|https://images.fotmob.com/image_resources/playerimages/1065640.png","Sergio Canales (MF)|https://images.fotmob.com/image_resources/playerimages/150649.png","Iñigo Vicente (FW)|https://images.fotmob.com/image_resources/playerimages/889229.png","Yassir Zabiri (FW)|https://images.fotmob.com/image_resources/playerimages/1640985.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Beñat San José|https://images.fotmob.com/image_resources/playerimages/1073489.png"
+awayCoach: "José López|https://images.fotmob.com/image_resources/playerimages/1145162.png"
+pickWinTeam: "레이싱 산탄데르"
+pickWinResult: "승"
+pickHandicapTeam: "레이싱 산탄데르"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

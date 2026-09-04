@@ -1,0 +1,37 @@
+---
+title: "헤이렌베인 vs AZ 알크마르 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | 에레디비지 - 픽천국"
+date: 2026-09-06T12:30:00.000Z
+description: "헤이렌베인 vs AZ 알크마르 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781736-2026-09-06-sc-heerenveen"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "헤이렌베인"
+awayTeam: "AZ 알크마르"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10228.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10229.png"
+homeAnalysis: "헤이렌베인은 2026시즌 최근 12경기에서 3승 5무 4패, 평균 득점 1.7을 기록하며 득점력은 일정하지만 승점으로 연결하는 힘이 다소 들쑥날쑥한 모습입니다. 최근 경기에서도 아약스 원정과 빌럼 2세 원정에서 무승부를 만들고, FC 트벤테전에서는 1골 차 승리를 거두는 등 쉽게 무너지지는 않지만 마무리에서 기복이 보입니다. 홈에서는 에인트호번전처럼 강한 상대를 상대로도 버티는 장면이 있었으나, PEC 즈볼러전 0득점 패배처럼 공격 전개가 막히는 순간이 분명히 나타납니다. 이번 경기에서는 베른트 클라버보르를 중심으로 한 수비 조직과 딜런 벤테, 야콥 트렌스코우의 전방 움직임이 중요해 보입니다. 다만 미스 힐거스와 마츠 에그브링 결장이 겹치면서 후방 안정감과 수비 로테이션이 약해질 수 있어, 상대의 강한 압박을 얼마나 버티느냐가 관건입니다."
+awayAnalysis: "AZ 알크마르는 2026시즌 최근 13경기에서 8승 5무 0패, 평균 득점 2.8로 매우 강한 전력을 유지하고 있습니다. 최근 경기에서도 고 어헤드 이글스전 5득점, 포르투나 시타르트 원정 2득점, 위트레흐트 원정 4득점처럼 공격 흐름이 꾸준히 이어지고 있습니다. 수비 쪽에서도 실점 억제력이 좋아 원정에서도 경기 주도권을 잡는 장면이 반복되고 있습니다. 이번에는 자리 더 부서르 골키퍼 앞에서 외야히아 디익스트라와 우터르 고스가 버티고, 케스 스밋과 메흐스 메드링크가 전방에서 마무리를 책임지는 구조가 돋보입니다. 단, 덴소 카시우스와 스티예 레신크 결장은 측면과 중원 운영의 폭을 좁힐 수 있어, 초반부터 강하게 몰아붙여 흐름을 잡는 것이 중요해 보입니다."
+homePower: "최근 홈 승부에서 득점은 나오지만 마무리 기복이 남아 있음|빌드업은 가능하나 강한 압박에 끊길 위험이 보임|딜런 벤테 중심 제공권 활용이 핵심임|수비 결장 여파로 측면 커버 부담이 커짐|버티는 경기에서는 한 방 역습 가능성도 있음"
+awayPower: "2026시즌 무패 흐름이 전력 안정감으로 이어짐|원정에서도 득점 생산이 끊기지 않는 공격 구조임|케스 스밋과 메흐스 메드링크 조합이 위협적임|수비 밸런스가 좋아 경기 운영 주도권이 강함|측면 결장에도 전체 완성도는 여전히 높음"
+h2h: '[{"date":"26.04.12","home":"AZ 알크마르","away":"헤이렌베인","score":"3-0"},{"date":"25.11.23","home":"헤이렌베인","away":"AZ 알크마르","score":"3-1"},{"date":"25.05.23","home":"AZ 알크마르","away":"헤이렌베인","score":"4-1"},{"date":"25.03.02","home":"헤이렌베인","away":"AZ 알크마르","score":"3-1"},{"date":"24.09.15","home":"AZ 알크마르","away":"헤이렌베인","score":"9-1"}]'
+summary: "AZ 알크마르는 2026시즌 13경기 무패와 평균 득점 2.8을 바탕으로 경기 전반의 주도권을 잡는 힘이 분명합니다. 헤이렌베인은 12경기에서 승점은 꾸준히 쌓고 있지만 평균 득점 1.7 수준에 머물러 있어, 공격 완성도 면에서는 상대보다 한 단계 아래로 보입니다. 맞대결 흐름에서도 AZ 알크마르가 대체로 우세를 이어왔고, 헤이렌베인이 간헐적으로 반격에 성공하더라도 전체 상성은 원정팀 쪽이 더 좋아 보입니다. 결국 이번 경기는 AZ 알크마르가 전력 우위와 공격 효율을 앞세워 유리한 흐름을 만들 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Mees Hilgers (십자 인대 부상)|Mats Egbring (발목 부상)"
+injuryAway: "Denso Kasius (사타구니 부상)|Stije Resink (무릎 부상)"
+homeLineup: '["Bernt Klaverboer (GK)|https://images.fotmob.com/image_resources/playerimages/1435849.png","Oliver Braude (DF)|https://images.fotmob.com/image_resources/playerimages/1526603.png","Sam Kersten (DF)|https://images.fotmob.com/image_resources/playerimages/782557.png","Maas Willemsen (DF)|https://images.fotmob.com/image_resources/playerimages/1389300.png","Vasilios Zagaritis (DF)|https://images.fotmob.com/image_resources/playerimages/1085390.png","Nolhan Courtens (MF)|https://images.fotmob.com/image_resources/playerimages/1553437.png","Dirk Proper (MF)|https://images.fotmob.com/image_resources/playerimages/1097467.png","Jacob Trenskow (FW)|https://images.fotmob.com/image_resources/playerimages/1188247.png","Ringo Meerveld (MF)|https://images.fotmob.com/image_resources/playerimages/1080660.png","Maxence Rivera (FW)|https://images.fotmob.com/image_resources/playerimages/1124454.png","Dylan Vente (FW)|https://images.fotmob.com/image_resources/playerimages/750026.png"]'
+awayLineup: '["Jari De Busser (GK)|https://images.fotmob.com/image_resources/playerimages/824747.png","Elijah Dijkstra (DF)|https://images.fotmob.com/image_resources/playerimages/1466557.png","Wouter Goes (DF)|https://images.fotmob.com/image_resources/playerimages/1307387.png","Lewis Schouten (DF)|https://images.fotmob.com/image_resources/playerimages/1329774.png","Mateo Chávez (DF)|https://images.fotmob.com/image_resources/playerimages/1432212.png","Dave Kwakman (MF)|https://images.fotmob.com/image_resources/playerimages/1389199.png","Peer Koopmeiners (MF)|https://images.fotmob.com/image_resources/playerimages/915415.png","Weslley Pinto (FW)|https://images.fotmob.com/image_resources/playerimages/1383534.png","Kees Smit (MF)|https://images.fotmob.com/image_resources/playerimages/1417581.png","Ro-Zangelo Daal (FW)|https://images.fotmob.com/image_resources/playerimages/1352213.png","Mexx Meerdink (FW)|https://images.fotmob.com/image_resources/playerimages/1321125.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Robin Veldman|https://images.fotmob.com/image_resources/playerimages/1416735.png"
+awayCoach: "Leeroy Echteld|https://images.fotmob.com/image_resources/playerimages/1233419.png"
+pickWinTeam: "AZ 알크마르"
+pickWinResult: "승"
+pickHandicapTeam: "AZ 알크마르"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
