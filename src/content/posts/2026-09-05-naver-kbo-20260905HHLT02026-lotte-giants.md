@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"삼성 라이온스","away":"롯데 자
 awayRecent: '[{"date":"26.09.03","home":"KT 위즈","away":"한화 이글스","score":"13-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903HHKT02026-2026-09-03-kt-wiz-suwon/"},{"date":"26.09.02","home":"KT 위즈","away":"한화 이글스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902HHKT02026-2026-09-02-kt-wiz-suwon/"},{"date":"26.09.01","home":"KT 위즈","away":"한화 이글스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901HHKT02026-2026-09-01-kt-wiz-suwon/"},{"date":"26.08.30","home":"한화 이글스","away":"NC 다이노스","score":"7-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260830NCHH02026-2026-08-30-hanwha-eagles/"},{"date":"26.08.29","home":"한화 이글스","away":"NC 다이노스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829NCHH02026-2026-08-29-hanwha-eagles/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 황성빈 (중견수)\",\"2번 나승엽 (1루수)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (지명타자)\",\"5번 고승민 (2루수)\",\"6번 전민재 (유격수)\",\"7번 노진혁 (3루수)\",\"8번 손성빈 (포수)\",\"9번 장두성 (우익수)\"]"
-awayLineup: "[\"1번 최인호 (중견수)\",\"2번 페라자 (우익수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 김태연 (1루수)\",\"7번 허인서 (포수)\",\"8번 황영묵 (2루수)\",\"9번 심우준 (유격수)\"]"
+homeLineup: "[\"1번 황성빈 (좌익수)\",\"2번 나승엽 (1루수)\",\"3번 레이예스 (지명타자)\",\"4번 한동희 (3루수)\",\"5번 고승민 (2루수)\",\"6번 전민재 (유격수)\",\"7번 손성빈 (포수)\",\"8번 손호영 (우익수)\",\"9번 장두성 (중견수)\"]"
+awayLineup: "[\"1번 심우준 (유격수)\",\"2번 페라자 (우익수)\",\"3번 문현빈 (중견수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 김태연 (1루수)\",\"7번 유민 (좌익수)\",\"8번 장규현 (포수)\",\"9번 이도윤 (2루수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
