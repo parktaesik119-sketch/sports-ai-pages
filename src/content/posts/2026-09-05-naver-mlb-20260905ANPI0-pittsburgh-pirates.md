@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키�
 injuryHome: "Konnor Griffin (근육 염좌)|Ryan O'Hearn (근육 염좌)|Kirby Yates (압박 신경통)|Mitch Keller (미상)|Endy Rodriguez (수술)"
 injuryAway: "Josh Lowe (통증)|Gustavo Campero (근육 염좌)|Nolan Schanuel (근육 염좌)|Sam Bachman (염증)|Yoan Moncada (수술)"
 homeLineup: "[\"선발투수 J. Jones (2-6, 4.83) ERA 4.83|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
-awayLineup: "[\"선발투수 R. Johnson (3-7, 5.47) ERA 5.47|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
+awayLineup: "[\"선발투수 R. Johnson (3-7, 5.47) ERA 5.47|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\",\"1번 Z. Neto (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png\",\"2번 M. Trout (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/30836.png\",\"3번 W. Meckler (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4424090.png\",\"4번 V. Grissom (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42503.png\",\"5번 M. Ballesteros (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4987418.png\",\"6번 C. Moore (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4927523.png\",\"7번 J. Siri (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33954.png\",\"8번 A. Frazier (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33546.png\",\"9번 O. Peraza (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42479.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
