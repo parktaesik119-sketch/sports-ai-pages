@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.03","home":"워싱턴 내셔널스","away":"애틀�
 injuryHome: "Tanner Banks (긴장)|Caleb Kilian (긴장)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
 injuryAway: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (징계)"
 homeLineup: "[\"선발투수 C. Sanchez (16-4, 2.52) ERA 2.52|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
-awayLineup: "[\"선발투수 C. Sale (13-9, 2.06) ERA 2.06|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\"]"
+awayLineup: "[\"선발투수 C. Sale (13-9, 2.06) ERA 2.06|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\",\"1번 R. Acuna Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/36185.png\",\"2번 D. Baldwin (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"3번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"4번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"5번 L. Thomas (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36409.png\",\"6번 M. Dubon (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"7번 S. Murphy (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33557.png\",\"8번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"9번 H. Kim (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4089862.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
