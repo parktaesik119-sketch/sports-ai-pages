@@ -20,12 +20,12 @@ homeRecent: '[{"date":"25.06.27","home":"다낭","away":"Trường Tươi Đồn
 awayRecent: '[{"date":"26.06.11","home":"푸동","away":"비엣텔","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1536092-2026-06-11-phu-dong/"},{"date":"26.06.07","home":"비엣텔","away":"하노이 폴리스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1518109-2026-06-07-viettel/"},{"date":"26.05.31","home":"호치민 시티","away":"비엣텔","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1518098-2026-05-31-ho-chi-minh/"},{"date":"26.05.22","home":"비엣텔","away":"포히엔","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1518089-2026-05-22-viettel/"},{"date":"26.05.17","home":"남딘","away":"비엣텔","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1518086-2026-05-17-nam-dinh/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Van Phong Pham (GK)|https://images.fotmob.com/image_resources/playerimages/1701233.png\",\"Filip Jovic (DF)|https://images.fotmob.com/image_resources/playerimages/1412904.png\",\"Nguyen Huu Tuan (DF)|https://images.fotmob.com/image_resources/playerimages/1039063.png\",\"Ngoc Duc Sam (DF)|https://images.fotmob.com/image_resources/playerimages/503988.png\",\"Tien Dung Bui (DF)|https://images.fotmob.com/image_resources/playerimages/902828.png\",\"Nguyen Van Duc (DF)|https://images.fotmob.com/image_resources/playerimages/1383145.png\",\"Van Khoa Duong (DF)|https://images.fotmob.com/image_resources/playerimages/1003376.png\",\"Milos Vulic (MF)|https://images.fotmob.com/image_resources/playerimages/872378.png\",\"Thanh Ngoc Lam Luong (MF)|https://images.fotmob.com/image_resources/playerimages/1735147.png\",\"Tu Nhan Luu (MF)|https://images.fotmob.com/image_resources/playerimages/1487370.png\",\"Andrei Ivan (FW)|https://images.fotmob.com/image_resources/playerimages/559955.png\"]"
+awayLineup: "[\"Nguyen Van Viet (GK)|https://images.fotmob.com/image_resources/playerimages/1580424.png\",\"Duc Hoang Minh Nguyen (DF)|https://images.fotmob.com/image_resources/playerimages/1267709.png\",\"Kyle Colonna (DF)|https://images.fotmob.com/image_resources/playerimages/1452757.png\",\"Lucas (DF)|https://images.fotmob.com/image_resources/playerimages/541582.png\",\"Phan Tuan Tài (DF)|https://images.fotmob.com/image_resources/playerimages/1543680.png\",\"Trieu Viet Hung (DF)|https://images.fotmob.com/image_resources/playerimages/941642.png\",\"Viết Tú Đinh (DF)|https://images.fotmob.com/image_resources/playerimages/979425.png\",\"André Luiz (MF)|https://images.fotmob.com/image_resources/playerimages/1180676.png\",\"Nhật Nam Lê Quốc (MF)|https://images.fotmob.com/image_resources/playerimages/1476991.png\",\"Wesley Natã (MF)|https://images.fotmob.com/image_resources/playerimages/750096.png\",\"Ribamar (FW)|https://images.fotmob.com/image_resources/playerimages/749376.png\"]"
+homeFormation: "6-3-1"
+awayFormation: "6-3-1"
+homeCoach: "Viet Thang Nguyen|https://images.fotmob.com/image_resources/playerimages/243673.png"
+awayCoach: "Velizar Popov|https://images.fotmob.com/image_resources/playerimages/648330.png"
 pickWinTeam: "비엣텔"
 pickWinResult: "승"
 pickHandicapTeam: "비엣텔"
