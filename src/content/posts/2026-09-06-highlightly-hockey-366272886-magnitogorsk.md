@@ -1,6 +1,6 @@
 ---
 title: "마그니토고르스크 vs Khabarovsk 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | KHL - 픽천국"
-date: 2026-09-06T11:00:00.000Z
+date: 2026-09-06T11:30:00.000Z
 description: "마그니토고르스크 vs Khabarovsk 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
 slug: "analyze-highlightly-hockey-366272886-2026-09-06-magnitogorsk"
 category: "hockey"
