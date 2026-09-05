@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브
 injuryHome: "Owen Caissie (경련)|Kyle Stowers (결장 여부 미정)|Anthony Bender (골절)|Xavier Edwards (염좌)|Pete Fairbanks (신경 압박)"
 injuryAway: "Shelby Miller (수술)|Jacob Webb (통증)|Edward Cabrera (찰과상)|Tyler Austin (수술)|Gavin Hollowell (염증)"
 homeLineup: "[\"선발투수 R. Gusto (1-3, 3.86) ERA 3.86|https://a.espncdn.com/i/headshots/mlb/players/full/5131986.png\"]"
-awayLineup: "[\"선발투수 C. Holmes (6-6, 2.09) ERA 2.09|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
+awayLineup: "[\"선발투수 J. Assad (6-1, 3.46) ERA 3.46|https://a.espncdn.com/i/headshots/mlb/players/full/5002950.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

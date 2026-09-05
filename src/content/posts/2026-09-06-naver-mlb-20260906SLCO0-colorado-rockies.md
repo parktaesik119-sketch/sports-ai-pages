@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.04","home":"LA 다저스","away":"세인트루이�
 injuryHome: "McCade Brown (염증)|Kris Bryant (수술)|Willi Castro (일상적인 상태 점검)|Kyle Karros (뇌진탕)|Kyle Freeland (신경 압박)"
 injuryAway: "Masyn Winn (골절)|Everson Pereira (멍)|JJ Wetherholt (건염)|Peter Strzelecki (염증)|Blaze Jordan (염좌)"
 homeLineup: "[\"선발투수 T. Gordon (1-4, 5.18) ERA 5.18|https://a.espncdn.com/i/headshots/mlb/players/full/4415658.png\"]"
-awayLineup: "[\"선발투수 M. McGreevy (6-9, 3.97) ERA 3.97|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 K. Leahy (10-4, 3.13) ERA 3.13|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
