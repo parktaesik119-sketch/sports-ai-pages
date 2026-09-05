@@ -895,6 +895,10 @@ const TEAM_NAME_MAP = {
   "SKA St. Petersburg": "SKA 상트페테르부르크",
   "Lada": "라다",
   "Tractor Chelyabinsk": "트락토르 첼랴빈스크",
+  "Khabarovsk": "아무르 하바롭스크",
+  "Nizhnekamsk": "니즈네캄스크",
+  "Kunlun": "쿤룬",
+
 
   //캐나다 축구팀
   "Atlético Ottawa": "아틀레티코 오타와",
