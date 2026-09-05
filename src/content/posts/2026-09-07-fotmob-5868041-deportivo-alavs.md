@@ -1,0 +1,37 @@
+---
+title: "알라베스 vs 오사수나 경기분석·라인업·결장자·통계·승부예측 (9월 7일) | 라리가 - 픽천국"
+date: 2026-09-06T16:30:00.000Z
+description: "알라베스 vs 오사수나 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868041-2026-09-07-deportivo-alavs"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "알라베스"
+awayTeam: "오사수나"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png"
+homeAnalysis: "알라베스는 2026시즌 최근 10경기에서 4승 4무 2패, 평균 득점 0.8을 기록하고 있어 전체적으로 실점을 잘 억제하는 대신 득점은 다소 아쉬운 흐름입니다. 최근에는 비야레알전 1대0 승리와 헤타페전 3대0 결과처럼 경기 운영이 맞아들어가면 단단한 수비를 바탕으로 승점을 챙기는 장면이 보입니다. 반면 공격 전개가 매끄럽지 않을 때는 무득점이나 한 골 차 승부로 묶이는 경우가 많아, 효율적인 마무리가 중요해 보입니다. 홈에서는 안정적인 수비 블록을 앞세워 버티는 힘이 돋보이며, 안토니오 시베라와 함께 나헬 테나글리아, 욘니 오토, 데니스 수아레스의 연결이 경기의 질을 좌우할 가능성이 큽니다. 토니 마르티네스의 결장 가능성은 전방의 마무리 옵션을 줄일 수 있어, 루카스 보예와 마리아노 디아스의 결정력이 특히 주목됩니다."
+awayAnalysis: "오사수나는 2026시즌 최근 11경기에서 6승 1무 4패, 평균 득점 1.4를 기록하며 알라베스보다 한층 공격적인 색채를 보여주고 있습니다. 최근에는 헤타페전 1대0 승리, 셀타 비고전 2대1 승리처럼 접전에서도 한 골 차로 끝내는 힘이 좋았습니다. 나폴리전 패배와 레반테전 0대0 흐름을 보면 경기 내용이 완전히 흔들리기보다는 상대 강도에 따라 득점 효율이 출렁이는 모습입니다. 원정에서도 득점 시도가 비교적 꾸준하고, 세르히오 에레라를 중심으로 뒤를 단단히 받치면서 루벤 가르시아, 모이 고메스, 라울 가르시아, 안테 부디미르의 전진 조합이 위협적입니다. 아임아르 오로스와 바렌틴 로시에르의 결장은 중원과 측면 전개에 영향을 줄 수 있어, 공격 전환의 날카로움이 승부의 관건으로 보입니다."
+homePower: "알라베스는 수비 우선 운영이 분명해 보임|홈에서 실점 억제력이 승점 기반임|데니스 수아레스의 연결이 공격 질 좌우함|루카스 보예 의존도 높아 마무리 변동성 있음|토니 마르티네스 공백 시 전방 선택지 축소됨"
+awayPower: "오사수나는 한 골 차 운영에 강점이 있음|평균 득점이 홈팀보다 높아 공격 리듬 우위임|안테 부디미르 중심 박스 안 위협이 뚜렷함|모이 고메스와 라울 가르시아의 연계가 핵심임|중원 결장 여파가 있어도 전개 완성도는 유지됨"
+h2h: '[{"date":"26.04.06","home":"알라베스","away":"오사수나","score":"2-2"},{"date":"25.12.21","home":"오사수나","away":"알라베스","score":"3-0"},{"date":"25.05.25","home":"알라베스","away":"오사수나","score":"1-1"},{"date":"24.12.09","home":"오사수나","away":"알라베스","score":"2-2"},{"date":"24.08.11","home":"오사수나","away":"알라베스","score":"1-2"}]'
+summary: "알라베스는 수비 안정감은 있으나 득점 생산이 낮아 경기 흐름을 길게 잡아도 마무리에서 답답함이 남는 편입니다. 오사수나는 평균 득점과 최근 승리 흐름에서 한 발 앞서 있고, 루벤 가르시아와 안테 부디미르를 앞세운 전방 압박과 마무리가 더 선명하게 보입니다. 상대전적에서도 오사수나가 큰 우위를 완전히 굳힌 것은 아니지만, 접전에서 먼저 흐름을 가져가는 장면이 더 자주 확인되고 있어 이번 경기도 오사수나 쪽 전력이 조금 더 유리하게 읽힙니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Facundo Garcés (부상)|Miguel Rodríguez (십자 인대 부상)|Mikel Rodríguez (십자 인대 부상)|Toni Martínez (종아리 부상)"
+injuryAway: "Jorge Herrando (근육 부상)|Valentin Rosier (근육 부상)|Aimar Oroz (햄스트링 부상)"
+homeLineup: '["Antonio Sivera (GK)|https://images.fotmob.com/image_resources/playerimages/530468.png","Nahuel Tenaglia (DF)|https://images.fotmob.com/image_resources/playerimages/860314.png","Ville Koski (DF)|https://images.fotmob.com/image_resources/playerimages/1056461.png","Jonny Otto (DF)|https://images.fotmob.com/image_resources/playerimages/360918.png","Ángel Pérez (DF)|https://images.fotmob.com/image_resources/playerimages/1563022.png","Abderrahman Rebbach (MF)|https://images.fotmob.com/image_resources/playerimages/1200941.png","Pablo Ibánez (MF)|https://images.fotmob.com/image_resources/playerimages/1238154.png","Antonio Blanco (MF)|https://images.fotmob.com/image_resources/playerimages/845998.png","Denis Suárez (MF)|https://images.fotmob.com/image_resources/playerimages/282281.png","Mariano Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/518525.png","Lucas Boyé (FW)|https://images.fotmob.com/image_resources/playerimages/561164.png"]'
+awayLineup: '["Sergio Herrera (GK)|https://images.fotmob.com/image_resources/playerimages/683762.png","Iñigo Arguibide (DF)|https://images.fotmob.com/image_resources/playerimages/1614872.png","Alejandro Catena (DF)|https://images.fotmob.com/image_resources/playerimages/814663.png","Flavien Boyomo (DF)|https://images.fotmob.com/image_resources/playerimages/1187734.png","Abel Bretones (DF)|https://images.fotmob.com/image_resources/playerimages/1323398.png","Rubén Garcia (FW)|https://images.fotmob.com/image_resources/playerimages/384413.png","Jon Moncayola (MF)|https://images.fotmob.com/image_resources/playerimages/921825.png","Iker Muñoz (MF)|https://images.fotmob.com/image_resources/playerimages/1323863.png","Moi Gómez (MF)|https://images.fotmob.com/image_resources/playerimages/262592.png","Raúl García (FW)|https://images.fotmob.com/image_resources/playerimages/1094778.png","Ante Budimir (FW)|https://images.fotmob.com/image_resources/playerimages/251269.png"]'
+homeFormation: "5-3-2"
+awayFormation: "4-4-2"
+homeCoach: "Quique Sánchez Flores|https://images.fotmob.com/image_resources/playerimages/78725.png"
+awayCoach: "Luis Ramis|https://images.fotmob.com/image_resources/playerimages/11549.png"
+pickWinTeam: "오사수나"
+pickWinResult: "승"
+pickHandicapTeam: "오사수나"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "뉴욕 메츠 vs 샌프란시스코 자이언츠 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | MLB - 픽천국"
+date: 2026-09-05T20:10:00.000Z
+description: "뉴욕 메츠 vs 샌프란시스코 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 메츠"
+awayTeam: "샌프란시스코 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+homeAnalysis: "뉴욕 메츠는 2026시즌 최근 100경기에서 47승 52패, 평균 득점 4.2를 기록하고 있어 전반적으로는 승패가 엇갈리는 흐름입니다. 최근 10경기에서도 4승 6패로 완전히 안정적이지는 않지만, 직전 경기에서 탬파베이 레이스를 상대로 10득점을 올리며 타선이 한 번 폭발하면 경기 주도권을 확실히 가져오는 모습이 보입니다. 다만 평균 득점이 높지 않은 편이라 공격의 꾸준함은 보완이 필요하고, 한 경기에 몰아치기와 침묵이 함께 나타나는 점이 특징적입니다. 리그순위 13위이지만 득실이 마이너스 50으로 크게 무너지지는 않았고, 홈에서는 접전 운영 능력을 바탕으로 버티는 힘이 있습니다. 특히 최근 상대전적에서도 샌프란시스코 자이언츠를 상대로 타선과 마운드가 함께 살아난 흐름이 이어지고 있어, 홈에서는 분위기를 이어갈 가능성이 있습니다."
+awayAnalysis: "샌프란시스코 자이언츠는 2026시즌 최근 86경기에서 36승 49패, 평균 득점 4.4를 기록하고 있어 공격은 나쁘지 않지만 결과로 연결되는 힘이 다소 부족합니다. 최근 10경기에서는 5승 5패로 반등과 흔들림이 함께 나타나고 있으며, 직전 경기에서 12득점 경기를 만들었음에도 다음 경기에서 다시 실점이 커지는 등 마운드 안정성이 관건입니다. 리그순위 14위에 득실도 마이너스 73으로 벌어져 있어, 단순한 공격력보다 실점 억제에서 어려움이 더 크게 드러나고 있습니다. 원정에서도 득점 자체는 어느 정도 기대할 수 있지만, 상대 타선이 흐름을 타는 순간 경기 전체가 흔들릴 가능성이 있습니다. 다만 최근 몇 경기에서 장타와 다득점 장면이 나왔다는 점은, 초반에 주도권을 잡으면 의외성 있는 경기 운영도 가능하게 보입니다."
+homePower: "최근 맞대결 우세로 상성 우위가 뚜렷함|홈에서 득점 상승 시 경기 주도력 커짐|마운드 흔들림은 있어도 접전 버티는 힘 있음|상대 장기 결장자 공백을 공략할 여지 큼|타선 폭발과 수비 집중이 같이 나오면 강함"
+awayPower: "최근 득점력은 살아 있으나 기복이 큼|실점 관리가 흔들리며 승부 유지가 어려움|원정에서도 공격 전개는 가능하나 마무리 약함|장기 결장 여파로 전력 균형이 떨어져 있음|한 번 밀리면 흐름 회복이 더딘 편임"
+h2h: '[{"date":"26.04.06","home":"샌프란시스코 자이언츠","away":"뉴욕 메츠","score":"2-5"},{"date":"26.04.05","home":"샌프란시스코 자이언츠","away":"뉴욕 메츠","score":"0-9"},{"date":"26.04.04","home":"샌프란시스코 자이언츠","away":"뉴욕 메츠","score":"3-10"},{"date":"26.04.03","home":"샌프란시스코 자이언츠","away":"뉴욕 메츠","score":"7-2"}]'
+summary: "뉴욕 메츠는 리그순위 13위지만 최근 10경기에서 4승 6패를 기록하면서도 직전 경기 대승처럼 타선이 살아나는 구간이 분명히 보이고 있습니다. 샌프란시스코 자이언츠는 리그순위 14위에 득실도 더 불리해 전체 전력의 균형이 떨어지며, 최근 10경기 5승 5패의 흐름도 득점과 실점이 함께 흔들리는 형태입니다. 맞대결에서는 뉴욕 메츠가 3승 1패로 앞서 있고, 최근 경기 내용에서도 뉴욕 메츠가 상대 타선을 더 강하게 압박한 흐름이 이어지고 있어 이번 경기 역시 홈팀 쪽 우세가 자연스럽게 읽힙니다."
+homeRecent: '[{"date":"26.09.03","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NMTB0-2026-09-03-tampa-bay-rays/"},{"date":"26.09.02","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NMTB0-2026-09-02-tampa-bay-rays/"},{"date":"26.09.01","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NMTB0-2026-09-01-tampa-bay-rays/"},{"date":"26.08.31","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831HONM0-2026-08-31-new-york-mets/"},{"date":"26.08.30","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830HONM0-2026-08-30-new-york-mets/"}]'
+awayRecent: '[{"date":"26.09.04","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SFPI0-2026-09-04-pittsburgh-pirates/"},{"date":"26.09.03","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SFPI0-2026-09-03-pittsburgh-pirates/"},{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"13-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SFPI0-2026-09-02-pittsburgh-pirates/"},{"date":"26.09.01","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SFAT0-2026-09-01-atlanta-braves/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"}]'
+injuryHome: "Cionel Perez (염좌)|Devin Williams (염좌)|Jorge Polanco (수술)|Reed Garrett (수술)|Tylor Megill (수술)"
+injuryAway: "Marcelo Mayer (골절)|JT Brubaker (타박상)|Victor Bericoto (타박상)|Matt Gage (염좌)|Willy Adames (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

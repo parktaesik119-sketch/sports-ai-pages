@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 뉴욕 양키즈 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | MLB - 픽천국"
+date: 2026-09-05T23:15:00.000Z
+description: "샌디에이고 파드리스 vs 뉴욕 양키즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "뉴욕 양키즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 44승 45패 1무, 승률 .489, 평균 득점 4.2를 기록하고 있어 시즌 전체 전력은 승패 균형이 다소 무너진 모습입니다. 최근 흐름도 10경기 4승 6패로 주춤한 편이지만, 득점은 꾸준히 만들어내는 장면이 이어지고 있어 공격의 완전한 침체로 보이진 않습니다. 다만 실점 억제력이 흔들리는 경기가 늘어나면서 접전에서 밀리는 흐름이 눈에 띄고 있습니다. 홈 경기에서는 비교적 버티는 힘이 있으나, 강한 상대로 갈수록 마무리 효율이 떨어지는 점이 아쉽습니다. 제이슨 아담, 미겔 아두하르, 개빈 시츠, 제레미아 에스트라다, 루카스 지올리토의 이탈은 불펜과 전력 운용에 적지 않은 부담으로 이어지고 있습니다."
+awayAnalysis: "뉴욕 양키즈는 2026시즌 80승 60패 4무, 승률 .571, 평균 득점 4.4로 리그순위 2위에 올라 있으며, 득실 636-521로 전력 균형이 매우 탄탄한 편입니다. 최근 10경기 7승 3패로 흐름도 좋고, 특히 득점 생산이 살아나면서 상위권다운 화력을 보여주고 있습니다. 원정에서도 공격의 기세가 크게 꺾이지 않아 경기 초반부터 주도권을 잡는 모습이 자주 나옵니다. 실점 관리 역시 안정적이라, 득점이 터지는 날에는 경기 양상이 빠르게 기울어지는 강점이 있습니다. 애런 저지, 지안카를로 스탠턴의 이탈은 타선 상징성을 낮추는 요소지만, 최근 경기력 자체는 그 공백을 충분히 메우는 흐름으로 보입니다."
+homePower: "최근 실점 억제력 흔들림이 접전 약점으로 이어짐|불펜 결장자 누적으로 후반 운영 폭이 좁아짐|홈에서 공격은 유지되나 폭발력은 들쭉날쭉함|상위권 상대로 마무리 한 끗이 부족해 보임|강한 타구 생산은 되지만 효율이 경기마다 갈림"
+awayPower: "상위권 득실 차로 공수 균형이 선명함|최근 원정 타선 집중력이 매우 안정적임|주력 공백에도 득점 분산이 잘 되는 구조임|실점 억제가 좋아 리드를 잡으면 강하게 굳힘|상대 불펜 약화 구간을 파고들 여지가 큼"
+h2h: '[]'
+summary: "뉴욕 양키즈는 2026시즌 리그순위 2위와 득실 +115이 보여주듯, 시즌 전체 전력에서 확실한 우위를 점하고 있습니다. 샌디에이고 파드리스도 홈에서는 버티는 힘과 득점 재생산 능력이 있으나, 최근 흐름과 불펜 운영 불안이 겹치면서 상위권 팀을 상대로는 밀릴 가능성이 더 커 보입니다. 반면 뉴욕 양키즈는 최근 득점 흐름이 살아 있고 실점 관리도 안정적이라, 경기 전반의 주도권을 가져가며 우세를 이어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.03","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SDCI0-2026-09-03-cincinnati-reds/"},{"date":"26.09.02","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SDCI0-2026-09-02-cincinnati-reds/"},{"date":"26.09.01","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SDCI0-2026-09-01-cincinnati-reds/"},{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays/"},{"date":"26.08.30","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830SDTB0-2026-08-30-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"},{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"16-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BONY0-2026-08-31-new-york-yankees/"},{"date":"26.08.30","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830BONY2-2026-08-30-new-york-yankees/"}]'
+injuryHome: "Jason Adam (염좌)|Miguel Andujar (골절)|Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)"
+injuryAway: "Aaron Judge (골절)|Clarke Schmidt (수술)|Ryan Weathers (염좌)|Giancarlo Stanton (염좌)|Fernando Cruz (통증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

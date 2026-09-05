@@ -1,0 +1,37 @@
+---
+title: "라쿠텐 골든이글스 vs 니혼햄 파이터즈 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | NPB - 픽천국"
+date: 2026-09-06T07:00:00.000Z
+description: "라쿠텐 골든이글스 vs 니혼햄 파이터즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260906NHRT0-2026-09-06-rakuten-gold-eagles"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "라쿠텐 골든이글스"
+awayTeam: "니혼햄 파이터즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/RT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/NH.png"
+homeAnalysis: "라쿠텐 골든이글스는 2026시즌 94경기에서 34승 60패, 평균 득점 3.3으로 공격 생산이 다소 무겁게 이어지고 있습니다. 최근 흐름을 보면 홈에서는 끈질기게 버티는 경기와 함께 한 번에 흐름이 흔들리는 경기도 함께 나타나고 있어 안정감이 완전히 잡힌 모습은 아닙니다. 다만 오릭스 버팔로스를 상대로는 득점이 살아나는 장면이 있었고, 홈에서 4득점 이상을 만든 경기에서는 경기 주도권을 잡는 힘도 보여주고 있습니다. 수비 쪽은 저득점 접전에서는 버티는 편이지만, 실점이 늘어날 때는 공격이 따라붙지 못해 경기가 쉽게 기울어지는 편입니다. 특히 타카하시 하야카와가 선발로 나서는 날에는 초반 실점 억제가 중요하며, 타선이 초반부터 출루를 이어가야 승부를 길게 끌고 갈 수 있습니다."
+awayAnalysis: "니혼햄 파이터즈는 2026시즌 97경기에서 55승 40패, 평균 득점 4.0으로 라쿠텐 골든이글스보다 전체 전력의 균형이 더 좋게 잡혀 있습니다. 최근 경기에서도 득점 생산이 꾸준하고, 한 점 차 승부와 다득점 승부를 모두 만들어내면서 경기 운영의 폭이 넓은 편입니다. 특히 원정에서도 공격 흐름이 크게 꺾이지 않아 상대 마운드가 흔들릴 때 확실하게 점수를 쌓는 장면이 자주 보입니다. 수비와 불펜도 비교적 안정적으로 이어지고 있어 접전에서 버티는 힘이 좋습니다. 선발로 나서는 이토 히로미는 시즌 내내 이닝을 길게 책임지며 경기를 정리해 주는 유형이라, 초반만 크게 흔들리지 않으면 원정에서도 주도권을 잡기 쉬워 보입니다."
+homePower: "평균 3점대 득점이 말해주듯 폭발력보다 연결 타격이 관건임|홈에서는 선취점 여부가 경기 흐름을 크게 가르는 편임|저득점 접전에서는 버티지만 추격전은 부담이 큰 구조임|오릭스전 다득점 사례는 상위 타선 맞물림이 살아날 때임|타카하시 하야카와의 초반 안정감이 경기 장기전 핵심임"
+awayPower: "4점 안팎 득점이 보여주듯 꾸준한 점수 생산이 강점임|원정에서도 타선 리듬이 크게 꺾이지 않는 점이 돋보임|한 점 차 승부와 다득점 승부 모두 소화 가능한 전력임|이토 히로미가 길게 끌어주면 불펜 부담이 줄어드는 구조임|접전에서 실점을 최소화하는 운영 완성도가 높음"
+h2h: '[{"date":"26.09.04","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"2-5","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904NHRT0-2026-09-04-rakuten-gold-eagles/"},{"date":"26.08.09","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809RTNH0-2026-08-09-nippon-ham-fighters/"},{"date":"26.08.08","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808RTNH0-2026-08-08-nippon-ham-fighters/"},{"date":"26.08.07","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260807RTNH0-2026-08-07-nippon-ham-fighters/"},{"date":"26.07.26","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-181181-2026-07-26-nippon-ham-fighters/"}]'
+summary: "니혼햄 파이터즈는 2026시즌 전체 전력과 최근 흐름에서 모두 라쿠텐 골든이글스보다 한 발 앞서 있는 모습입니다. 라쿠텐 골든이글스는 저득점 접전에서 버티는 힘은 있지만 평균 득점이 낮아 추격 구간에서 답답함이 드러나는 반면, 니혼햄 파이터즈는 꾸준한 득점과 안정적인 경기 운영으로 흐름을 이어가고 있습니다. 상대전적에서도 니혼햄 파이터즈가 최근 맞대결에서 우위를 보여 왔고, 이번 경기 역시 초반 실점을 줄이면서 타선이 먼저 응답하는 쪽이 유리해 보입니다. 전반적인 전력 균형과 상성까지 고려하면 니혼햄 파이터즈가 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.04","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904NHRT0-2026-09-04-rakuten-gold-eagles/"},{"date":"26.09.02","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902OXRT0-2026-09-02-rakuten-gold-eagles/"},{"date":"26.09.01","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901OXRT0-2026-09-01-rakuten-gold-eagles/"},{"date":"26.08.30","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830RTSE0-2026-08-30-seibu-lions/"},{"date":"26.08.29","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829RTSE0-2026-08-29-seibu-lions/"}]'
+awayRecent: '[{"date":"26.09.04","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904NHRT0-2026-09-04-rakuten-gold-eagles/"},{"date":"26.09.02","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902SFNH0-2026-09-02-nippon-ham-fighters/"},{"date":"26.09.01","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SFNH0-2026-09-01-nippon-ham-fighters/"},{"date":"26.08.30","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830JLNH0-2026-08-30-nippon-ham-fighters/"},{"date":"26.08.29","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"9-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829JLNH0-2026-08-29-nippon-ham-fighters/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "니혼햄 파이터즈"
+pickWinResult: "승"
+pickHandicapTeam: "니혼햄 파이터즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

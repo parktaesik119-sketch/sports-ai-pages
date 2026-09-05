@@ -1,0 +1,37 @@
+---
+title: "키움 히어로즈 vs NC 다이노스 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | KBO - 픽천국"
+date: 2026-09-06T05:00:00.000Z
+description: "키움 히어로즈 vs NC 다이노스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260906NCWO02026-2026-09-06-kiwoom-heroes"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "키움 히어로즈"
+awayTeam: "NC 다이노스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/NC.png"
+homeAnalysis: "키움 히어로즈는 2026시즌 최근 100경기에서 35승 2무 63패, 평균 득점 3.9을 기록하며 전반적으로 득점 생산이 아쉬운 흐름을 보이고 있습니다. 최근 경기 흐름도 10경기 2승 1무 7패로 좋지 않았고, 직전 경기에서도 NC 다이노스에 1실점 차 패배를 당해 타선의 응답이 충분하지 못했습니다. 다만 서건창과 데이비슨처럼 상위 타선에서 출루와 장타 연결고리를 만들 수 있는 자원은 갖추고 있어, 초반 흐름만 잡히면 공격의 실마리를 찾을 여지는 있습니다. 그러나 불펜과 수비 부담이 큰 경기들이 잦았고, 대량 실점이 반복된 점은 선발이 버텨주지 못할 때 급격히 흔들릴 수 있다는 신호로 보입니다. 홈에서 다시 반등을 노리겠지만, 전체 전력의 무게감은 아직 상대보다 낮게 평가됩니다."
+awayAnalysis: "NC 다이노스는 2026시즌 최근 90경기에서 43승 3무 44패, 평균 득점 5.2를 기록하며 공격 생산력에서 분명한 강점을 보여주고 있습니다. 최근 10경기 역시 6승 0무 4패로 나쁘지 않았고, 평균 득점 6.1까지 올라와 타선의 응집력이 살아 있는 모습입니다. 김주원, 박민우, 박건우로 이어지는 중심축이 출루와 연결 플레이를 안정적으로 만들고 있어, 득점 기대치가 높은 팀으로 평가됩니다. 다만 최근 패배 경기에서는 실점이 한 번에 늘어나는 장면도 있었기 때문에, 선발이 초반을 안정적으로 끌어주느냐가 중요합니다. 전반적으로 타선의 폭과 최근 공격 흐름을 감안하면 원정에서도 우세를 기대할 만한 전력입니다."
+homePower: "전준표는 이재학보다 시즌 지표가 또렷해 선발 기대치가 높음|직구 비중이 높아 초반 승부 의지가 강한 유형으로 보임|서건창과 데이비슨이 상위 타선 출구 역할을 맡음|예상 라인업에 일부 기복 자원이 섞여 득점 지속성은 과제임|홈 수비 부담이 커지면 실점 확대 가능성이 높음"
+awayPower: "최근 10경기 평균 6.1득점으로 타격 흐름이 좋음|김주원과 박민우 중심의 상위 타선 연결이 탄탄함|박건우 배치로 중심 타선의 득점 효율이 높아짐|선발 정보가 부족해도 타선 화력으로 경기 주도 가능함|원정에서도 다득점 압박을 유지할 수 있는 전력임"
+h2h: '[{"date":"26.09.04","home":"키움 히어로즈","away":"NC 다이노스","score":"1-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904NCWO02026-2026-09-04-kiwoom-heroes/"},{"date":"26.06.28","home":"NC 다이노스","away":"키움 히어로즈","score":"9-2","link":"https://pick79.com/posts/detail/analyze-181804-2026-06-28-nc-dinos/"},{"date":"26.06.27","home":"NC 다이노스","away":"키움 히어로즈","score":"1-3","link":"https://pick79.com/posts/detail/analyze-181799-2026-06-27-nc-dinos/"},{"date":"26.06.26","home":"NC 다이노스","away":"키움 히어로즈","score":"11-4","link":"https://pick79.com/posts/detail/analyze-181794-2026-06-26-nc-dinos/"},{"date":"26.06.11","home":"키움 히어로즈","away":"NC 다이노스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-181728-2026-06-11-kiwoom-heroes/"}]'
+summary: "NC 다이노스는 2026시즌 전체 득점 흐름이 더 좋고 최근 경기에서도 화력이 살아 있어, 키움 히어로즈보다 한 단계 위의 전력으로 보입니다. 키움 히어로즈는 시즌 전체와 최근 흐름 모두에서 득점이 낮아 공격 전개가 끊기는 장면이 잦았고, 선발과 불펜의 부담도 커 보입니다. 반면 NC 다이노스는 중심 타선의 응집력이 좋고 상대전적에서도 우위를 이어가고 있어, 경기 주도권을 잡을 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.04","home":"키움 히어로즈","away":"NC 다이노스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904NCWO02026-2026-09-04-kiwoom-heroes/"},{"date":"26.09.03","home":"키움 히어로즈","away":"SSG 랜더스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903SKWO02026-2026-09-03-kiwoom-heroes/"},{"date":"26.09.02","home":"키움 히어로즈","away":"SSG 랜더스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902SKWO02026-2026-09-02-kiwoom-heroes/"},{"date":"26.09.01","home":"키움 히어로즈","away":"SSG 랜더스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901SKWO02026-2026-09-01-kiwoom-heroes/"},{"date":"26.08.30","home":"두산 베어스","away":"키움 히어로즈","score":"15-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260830WOOB02026-2026-08-30-doosan-bears/"}]'
+awayRecent: '[{"date":"26.09.04","home":"키움 히어로즈","away":"NC 다이노스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904NCWO02026-2026-09-04-kiwoom-heroes/"},{"date":"26.09.02","home":"NC 다이노스","away":"KIA 타이거즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902HTNC02026-2026-09-02-nc-dinos/"},{"date":"26.09.01","home":"NC 다이노스","away":"KIA 타이거즈","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901HTNC02026-2026-09-01-nc-dinos/"},{"date":"26.08.30","home":"한화 이글스","away":"NC 다이노스","score":"7-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260830NCHH02026-2026-08-30-hanwha-eagles/"},{"date":"26.08.29","home":"한화 이글스","away":"NC 다이노스","score":"4-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829NCHH02026-2026-08-29-hanwha-eagles/"}]'
+injuryHome: "임지열 (부상)|김성민 (부상)|임병욱 (부상)"
+injuryAway: "임지민 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "NC 다이노스"
+pickWinResult: "승"
+pickHandicapTeam: "NC 다이노스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

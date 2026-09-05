@@ -1,0 +1,37 @@
+---
+title: "마이애미 말린스 vs 시카고 컵스 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | MLB - 픽천국"
+date: 2026-09-05T20:10:00.000Z
+description: "마이애미 말린스 vs 시카고 컵스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "마이애미 말린스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+homeAnalysis: "마이애미 말린스는 2026시즌 최근 107경기에서 52승 53패 2무, 평균 득점 4.2를 기록하며 승률이 .500을 조금 넘는 수준에서 버티고 있습니다. 최근 경기 흐름을 보면 기복은 있으나 공격이 완전히 끊기지 않고 있고, 다득점으로 분위기를 바꾸는 장면도 종종 보여주고 있습니다. 다만 실점 억제에서는 아쉬움이 남아, 접전에서는 흐름이 쉽게 흔들리는 모습이 있습니다. 홈에서는 비교적 버티는 힘이 있지만, 상대 타선이 강하게 몰아붙일 때는 수비 부담이 커지는 편입니다. 특히 출루와 연결 타격이 잘 이어지는 날에는 득점 생산이 살아나지만, 중심 타선이 침묵하면 답답함이 길어지는 점이 주목됩니다."
+awayAnalysis: "시카고 컵스는 2026시즌 최근 97경기에서 52승 43패 2무, 평균 득점 5.2를 기록하며 더 안정적인 승률과 득점력을 보여주고 있습니다. 최근 경기에서는 대량 득점이 가능한 폭발력과 함께, 득점이 끊겨도 한 번의 큰 이닝으로 경기를 뒤집는 힘이 돋보입니다. 실점도 완전히 적은 편은 아니지만, 득실 격차가 크게 플러스라는 점에서 경기 전체를 주도하는 능력이 분명합니다. 원정에서도 공격의 하한선이 높아 쉽게 침묵하지 않는 점이 강점으로 평가됩니다. 다만 최근에는 큰 점수차 승리와 실점 많은 경기들이 함께 나타나고 있어, 초반 흐름을 먼저 잡는지가 중요해 보입니다."
+homePower: "홈 타선은 한 번 살아나면 연쇄 득점으로 이어지는 구조가 보임|실점 억제가 흔들릴 때 경기 운영이 급격히 어려워짐|홈에서 버티는 경기와 대량 실점 경기가 함께 나타남|상위 타선 출루가 맞아떨어질 때 효율이 크게 올라감|접전에서는 불펜 부담이 커지는 양상으로 검증됨"
+awayPower: "시카고 컵스는 장타로 흐름을 바꾸는 힘이 큼|득점 상한이 높아 상대 불펜 압박이 지속됨|원정에서도 공격 생산이 쉽게 꺾이지 않음|득실 격차가 커 경기 주도권 확보 능력이 돋보임|실점 변동성은 있으나 화력으로 상쇄하는 구조임"
+h2h: '[]'
+summary: "마이애미 말린스는 시즌 승패 균형을 거의 맞추고 있지만, 최근 흐름과 실점 관리 면에서는 완전히 안정적이라고 보기는 어렵습니다. 반면 시카고 컵스는 더 높은 승률과 뚜렷한 득실 우위를 바탕으로 경기 주도력이 분명하게 드러나고 있습니다. 두 팀 모두 타선 기복은 있지만, 전반적인 전력과 득점 생산의 안정감에서는 시카고 컵스가 한 단계 앞서 있으며 이번 경기에서도 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.04","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904FLKC0-2026-09-04-kansas-city-royals/"},{"date":"26.09.03","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"6-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903FLKC0-2026-09-03-kansas-city-royals/"},{"date":"26.09.02","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902FLKC0-2026-09-02-kansas-city-royals/"},{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"},{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"}]'
+awayRecent: '[{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브루어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904MICC0-2026-09-04-chicago-cubs/"},{"date":"26.09.03","home":"시카고 컵스","away":"밀워키 브루어스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903MICC0-2026-09-03-chicago-cubs/"},{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"},{"date":"26.09.01","home":"시카고 컵스","away":"밀워키 브루어스","score":"17-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901MICC0-2026-09-01-chicago-cubs/"},{"date":"26.08.31","home":"시카고 컵스","away":"신시내티 레즈","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CICC0-2026-08-31-chicago-cubs/"}]'
+injuryHome: "Owen Caissie (경련)|Kyle Stowers (결장 여부 미정)|Anthony Bender (골절)|Xavier Edwards (염좌)|Pete Fairbanks (신경 압박)"
+injuryAway: "Shelby Miller (수술)|Jacob Webb (통증)|Edward Cabrera (찰과상)|Tyler Austin (수술)|Gavin Hollowell (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

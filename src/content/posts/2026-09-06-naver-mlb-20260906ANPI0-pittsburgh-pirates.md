@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs LA 에인절스 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | MLB - 픽천국"
+date: 2026-09-05T22:40:00.000Z
+description: "피츠버그 파이러츠 vs LA 에인절스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 최근 102경기에서 46승 55패, 평균 득점 4.9를 기록하며 승패 균형을 완전히 회복하지는 못했지만 공격 생산성은 준수한 편입니다. 최근 흐름을 보면 최근 10경기 6승 4패로 반등 기조가 분명하고, 샌프란시스코 자이언츠전과 세인트루이스 카디널스전에서 연속으로 힘 있는 득점 장면을 만들어내며 타선 감각이 살아난 모습입니다. 다만 강한 상대를 만났을 때는 득점이 묶이는 장면도 있어, 화력의 기복을 얼마나 줄이느냐가 관건입니다. 홈에서는 득점 압박을 어느 정도 유지하고 있어 경기 주도권을 잡는 장면이 자주 보이고, 수비 쪽도 대량 실점을 길게 허용하지 않는 편이라 전체 흐름이 나쁘지 않습니다. 특히 최근 상승세를 이끄는 타선의 집중력이 이어진다면 홈에서 더 안정적인 운영이 기대됩니다."
+awayAnalysis: "LA 에인절스는 2026시즌 최근 90경기에서 30승 59패, 평균 득점 3.9로 시즌 전력에서 어려움이 뚜렷한 편입니다. 최근 10경기 역시 3승 7패로 흐름이 좋지 않고, 뉴욕 양키스전과 필라델피아 필리스전에서 연속 실점이 이어지며 경기 후반까지 버티는 힘이 약해 보입니다. 다만 간헐적으로 대량 득점을 만들어내는 경기력이 있어 타선 자체가 완전히 침묵하는 팀은 아니고, 한 번 터질 때는 큰 점수 차도 만들 수 있습니다. 그럼에도 전체적인 전력 균형은 불안하고, 수비와 불펜 쪽에서 실점 억제가 잘 되지 않는 점이 계속 발목을 잡고 있습니다. 주요 결장자도 적지 않아 경기 운영의 안정감이 더 떨어져 보이며, 원정에서는 특히 흐름이 쉽게 흔들릴 가능성이 큽니다."
+homePower: "최근 10경기 6승으로 반등 기조 뚜렷함|평균 4.9득점, 타선 응집력은 유지됨|상위권 아님에도 홈 경기 주도력은 견고함|강한 상대에선 침묵, 상성 따라 편차 큼|결장 여파에도 전체 균형은 원정보다 안정적임"
+awayPower: "최근 10경기 3승 7패, 하락 흐름 뚜렷함|평균 3.9득점, 득점 기대치가 낮음|실점 억제보다 추격전 의존이 큰 전력임|주요 결장자 누적으로 전력 완성도 저하됨|원정에서 흐름 흔들리면 반전 동력 약함"
+h2h: '[]'
+summary: "피츠버그 파이러츠는 2026시즌 46승 55패, 평균 득점 4.9로 완전한 우위는 아니지만, 최근 10경기 6승 4패 흐름이 살아나면서 현재 전력이 점차 정돈되고 있습니다. LA 에인절스는 30승 59패, 평균 득점 3.9에 최근 10경기 3승 7패로 흐름이 더 무겁고, 특히 실점 억제 측면에서 불안이 이어지고 있습니다. 전체 전력의 균형과 최근 상승세를 함께 보면 피츠버그 파이러츠가 한 발 앞서는 구도이며, 홈에서의 운영 안정감까지 감안하면 경기 주도권을 잡을 가능성이 더 높아 보입니다. 따라서 피츠버그 파이러츠 쪽 기대감이 더 크고, 접전이 되더라도 홈팀 쪽으로 무게가 실리는 흐름입니다."
+homeRecent: '[{"date":"26.09.04","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SFPI0-2026-09-04-pittsburgh-pirates/"},{"date":"26.09.03","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SFPI0-2026-09-03-pittsburgh-pirates/"},{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"13-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SFPI0-2026-09-02-pittsburgh-pirates/"},{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"},{"date":"26.08.30","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830PISL0-2026-08-30-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"},{"date":"26.08.31","home":"LA 에인절스","away":"필라델피아 필리스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PHAN0-2026-08-31-los-angeles-angels/"},{"date":"26.08.29","home":"LA 에인절스","away":"필라델피아 필리스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829PHAN0-2026-08-29-los-angeles-angels/"}]'
+injuryHome: "Ryan O'Hearn (근육 염좌)|Kirby Yates (신경 압박)|Mitch Keller (사유 미상)|Endy Rodriguez (수술)"
+injuryAway: "Josh Lowe (통증)|Gustavo Campero (근육 염좌)|Nolan Schanuel (근육 염좌)|Sam Bachman (염증)|Yoan Moncada (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

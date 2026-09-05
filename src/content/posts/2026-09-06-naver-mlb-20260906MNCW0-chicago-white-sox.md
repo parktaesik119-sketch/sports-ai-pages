@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 미네소타 트윈스 경기분석·라인업·결장자·통계·승부예측 (9월 6일) | MLB - 픽천국"
+date: 2026-09-05T23:10:00.000Z
+description: "시카고 화이트삭스 vs 미네소타 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260906MNCW0-2026-09-06-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 최근 102경기에서 52승 49패 1무, 승률 .521, 평균 득점 4.4를 기록하며 중상위권 전력을 유지하고 있습니다. 최근에는 승패가 엇갈리면서 흐름이 완전히 한쪽으로 쏠리지는 않았지만, 직전 휴스턴 원정 3연전에서 한 경기씩 주고받는 모습으로 타선의 응집력은 여전히 살아 있습니다. 특히 홈에서는 텍사스 레인저스를 상대로 두 경기에서 21득점을 올렸고, 뉴욕 메츠와 애틀랜타를 상대로도 꾸준히 점수를 내며 공격 폭발력이 확인되고 있습니다. 다만 실점이 커지는 경기에서는 경기 주도권을 쉽게 내주는 장면도 보여서, 마운드 운영의 안정감이 관건입니다. 이번 상대인 미네소타 트윈스와의 최근 맞대결에서는 장타와 집중타를 함께 앞세워 우위를 만든 적이 있어, 홈에서의 득점 생산이 이어지면 충분히 경쟁력 있는 경기 운영이 가능합니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 최근 100경기에서 47승 53패, 승률 .479로 시즌 전반의 기복이 분명한 편입니다. 평균 득점은 4.3으로 나쁘지 않지만, 실점이 더 크게 늘어나는 경기가 잦아 득실 격차가 마이너스에 머물고 있습니다. 최근에는 디트로이트전에서 대승과 대패가 번갈아 나오며 타선의 파괴력은 보여줬지만, 경기마다 기복이 커 안정감은 떨어지는 흐름입니다. 특히 원정에서는 샌디에이고, 애슬레틱스전처럼 실점 억제가 되지 않으면 흐름을 길게 이어가기 어려운 모습이었습니다. 그럼에도 장타 생산력이 살아나는 날에는 단숨에 분위기를 바꿀 수 있는 팀이라, 초반부터 타격감이 살아나면 경기를 흔들 여지는 있습니다."
+homePower: "홈에서 장타와 응집력이 함께 살아나는 흐름임|득점이 끊기지 않아 중후반 추격력도 보임|실점이 늘면 경기 운영이 급격히 흔들리는 편임|미네소타 상대로는 득점권 집중력이 강점임|최근 맞대결서 상성상 밀리지 않는 흐름임"
+awayPower: "대량 득점이 가능한 타선 폭발력은 검증됨|경기별 편차가 커 안정적 압박은 약한 편임|실점 억제가 안 되면 흐름이 쉽게 무너짐|원정에서도 한 번 터지면 장타 생산이 빠름|시카고 화이트삭스전 상성은 대체로 팽팽함"
+h2h: '[{"date":"26.08.31","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"5-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CWMN0-2026-08-31-minnesota-twins/"},{"date":"26.08.30","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830CWMN0-2026-08-30-minnesota-twins/"},{"date":"26.08.29","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"4-7"},{"date":"26.06.04","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"0-8","link":"https://pick79.com/posts/detail/analyze-178926-2026-06-04-minnesota-twins/"},{"date":"26.06.03","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"6-4","link":"https://pick79.com/posts/detail/analyze-178911-2026-06-03-minnesota-twins/"}]'
+summary: "시카고 화이트삭스는 2026시즌 승률 .521로 미네소타 트윈스의 .479보다 앞서 있고, 득실도 +39로 -38의 미네소타보다 분명히 안정적인 흐름입니다. 최근 흐름만 놓고 봐도 두 팀 모두 들쭉날쭉하지만, 시카고 화이트삭스는 홈에서 공격 전개가 더 고르게 이어지고 있어 전력의 바닥이 조금 더 단단하게 보입니다. 미네소타 트윈스는 한 번 터지면 큰 점수도 만들 수 있지만, 실점 억제가 흔들리는 날이 많아 경기 후반까지 우세를 지키는 힘은 다소 약해 보입니다. 맞대결에서도 시카고 화이트삭스가 6승 4패로 앞서 있는 만큼, 전체 전력과 상성을 함께 보면 홈팀이 더 안정적인 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.04","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904CWHO0-2026-09-04-houston-astros/"},{"date":"26.09.02","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902CWHO0-2026-09-02-houston-astros/"},{"date":"26.09.01","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901CWHO0-2026-09-01-houston-astros/"},{"date":"26.08.31","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CWMN0-2026-08-31-minnesota-twins/"},{"date":"26.08.30","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830CWMN0-2026-08-30-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"},{"date":"26.09.02","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"15-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902DEMN0-2026-09-02-minnesota-twins/"},{"date":"26.09.01","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"11-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901DEMN0-2026-09-01-minnesota-twins/"},{"date":"26.08.31","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CWMN0-2026-08-31-minnesota-twins/"},{"date":"26.08.30","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830CWMN0-2026-08-30-minnesota-twins/"}]'
+injuryHome: "Chris Murphy (염좌)|Drew Thorpe (수술)|Huascar Brazoban (염좌)|Tanner Murray (수술)|Joey Bart (골절)"
+injuryAway: "Byron Buxton (신경 압박)|Austin Martin (염좌)|Joe Ryan (염좌)|Mike Paredes (염좌)|Mick Abel (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
