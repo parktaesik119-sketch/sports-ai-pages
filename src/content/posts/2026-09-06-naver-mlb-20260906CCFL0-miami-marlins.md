@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브
 injuryHome: "Owen Caissie (경련)|Kyle Stowers (결장 여부 미정)|Anthony Bender (골절)|Xavier Edwards (염좌)|Pete Fairbanks (신경 압박)"
 injuryAway: "Shelby Miller (수술)|Jacob Webb (통증)|Edward Cabrera (찰과상)|Tyler Austin (수술)|Gavin Hollowell (염증)"
 homeLineup: "[\"선발투수 R. Gusto (1-3, 3.86) ERA 3.86|https://a.espncdn.com/i/headshots/mlb/players/full/5131986.png\"]"
-awayLineup: "[\"선발투수 J. Assad (6-1, 3.46) ERA 3.46|https://a.espncdn.com/i/headshots/mlb/players/full/5002950.png\"]"
+awayLineup: "[\"선발투수 J. Assad (6-1, 3.46) ERA 3.46|https://a.espncdn.com/i/headshots/mlb/players/full/5002950.png\",\"1번 P. Crow-Armstrong (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png\",\"2번 S. Suzuki (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png\",\"3번 M. Busch (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42415.png\",\"4번 A. Bregman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34886.png\",\"5번 I. Happ (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/34945.png\",\"6번 N. Hoerner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41219.png\",\"7번 P. Ramirez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5012995.png\",\"8번 M. Conforto (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33711.png\",\"9번 M. Amaya (C)|https://a.espncdn.com/i/headshots/mlb/players/full/38905.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
