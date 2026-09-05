@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.04","home":"오릭스 버팔로스","away":"지바 
 awayRecent: '[{"date":"26.09.04","home":"오릭스 버팔로스","away":"지바 롯데 마린스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904JLOX0-2026-09-04-orix-buffaloes/"},{"date":"26.09.01","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SEJL0-2026-09-01-chiba-lotte-marines/"},{"date":"26.08.30","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830JLNH0-2026-08-30-nippon-ham-fighters/"},{"date":"26.08.29","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829JLNH0-2026-08-29-nippon-ham-fighters/"},{"date":"26.08.28","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828JLNH0-2026-08-28-nippon-ham-fighters/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Ryuhei Sotani (5-6, 3.95)|https://p.npb.jp/players_photo/2026/180/b/017_81985157.jpg\"]"
+awayLineup: "[\"선발투수 Joey Lucchesi (0-0, 4.50)|https://p.npb.jp/players_photo/2026/180/m/048_93095152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
