@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.04","home":"키움 히어로즈","away":"NC 다이�
 awayRecent: '[{"date":"26.09.04","home":"키움 히어로즈","away":"NC 다이노스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904NCWO02026-2026-09-04-kiwoom-heroes/"},{"date":"26.09.02","home":"NC 다이노스","away":"KIA 타이거즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902HTNC02026-2026-09-02-nc-dinos/"},{"date":"26.09.01","home":"NC 다이노스","away":"KIA 타이거즈","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901HTNC02026-2026-09-01-nc-dinos/"},{"date":"26.08.30","home":"한화 이글스","away":"NC 다이노스","score":"7-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260830NCHH02026-2026-08-30-hanwha-eagles/"},{"date":"26.08.29","home":"한화 이글스","away":"NC 다이노스","score":"4-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829NCHH02026-2026-08-29-hanwha-eagles/"}]'
 injuryHome: "임지열 (부상)|김성민 (부상)|임병욱 (부상)"
 injuryAway: "임지민 (부상)"
-homeLineup: "[\"1번 서건창 (2루수)\",\"2번 추재현 (중견수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (좌익수)\",\"5번 김웅빈 (지명타자)\",\"6번 박찬혁 (우익수)\",\"7번 여동욱 (3루수)\",\"8번 김동헌 (포수)\",\"9번 권혁빈 (유격수)\"]"
-awayLineup: "[\"1번 김주원 (유격수)\",\"2번 최정원 (중견수)\",\"3번 박민우 (2루수)\",\"4번 블레인 (1루수)\",\"5번 박건우 (우익수)\",\"6번 김휘집 (3루수)\",\"7번 이우성 (지명타자)\",\"8번 김형준 (포수)\",\"9번 천재환 (좌익수)\"]"
+homeLineup: "[\"선발투수 알칸타라 (ERA 3.84)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69045.jpg\",\"1번 서건창 (2루수)\",\"2번 추재현 (중견수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (좌익수)\",\"5번 김웅빈 (지명타자)\",\"6번 박찬혁 (우익수)\",\"7번 여동욱 (3루수)\",\"8번 김동헌 (포수)\",\"9번 권혁빈 (유격수)\"]"
+awayLineup: "[\"선발투수 구창모 (ERA 4.04)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65933.jpg\",\"1번 김주원 (유격수)\",\"2번 최정원 (중견수)\",\"3번 박민우 (2루수)\",\"4번 블레인 (1루수)\",\"5번 박건우 (우익수)\",\"6번 김휘집 (3루수)\",\"7번 이우성 (지명타자)\",\"8번 김형준 (포수)\",\"9번 천재환 (좌익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
