@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.03","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Brice Matthews (삠)|Mike Burrows (염증)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Tommy Troy (삠)|Ryne Nelson (근육 긴장)|Zac Gallen (염증)|Michael Soroka (염증)|Corbin Burnes (수술)"
 homeLineup: "[\"선발투수 E. Pecko (1-0, 6.23) ERA 6.23|https://a.espncdn.com/i/headshots/mlb/players/full/4944276.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 B. Pfaadt (7-2, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
