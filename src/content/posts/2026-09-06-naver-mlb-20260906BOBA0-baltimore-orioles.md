@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.05","home":"볼티모어 오리올스","away":"보�
 awayRecent: '[{"date":"26.09.05","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905BOBA0-2026-09-05-baltimore-orioles/"},{"date":"26.09.04","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904BOBA0-2026-09-04-baltimore-orioles/"},{"date":"26.09.03","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SEBO0-2026-09-03-boston-red-sox/"},{"date":"26.09.02","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SEBO0-2026-09-02-boston-red-sox/"},{"date":"26.09.01","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"9-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SEBO0-2026-09-01-boston-red-sox/"}]'
 injuryHome: "Tyler O'Neill (통증)|Felix Bautista (수술)|Christian Franklin (염증)|Ryan Helsley (염증)|Ryan Mountcastle (긴장)"
 injuryAway: "Ceddanne Rafaela (통증)|Kutter Crawford (통증)|Zack Kelly (염증)|Justin Slaten (염증)|Willson Contreras (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Bassitt (6-4, 4.97) ERA 4.97|https://a.espncdn.com/i/headshots/mlb/players/full/33148.png\"]"
+awayLineup: "[\"선발투수 S. Gray (16-4, 2.82) ERA 2.82|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
