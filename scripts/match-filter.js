@@ -105,7 +105,7 @@
     'ATHLETIC CLUB': ['BRAZIL'],
   };
 
-  const isEssentialTeam = essentialTeams.some(t => {
+  const isEssentialTeam = sport === 'soccer' && essentialTeams.some(t => {
     const target = t.toUpperCase().trim();
     const isHomeMatch = upperHome === target;
     const isAwayMatch = upperAway === target;
