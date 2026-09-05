@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.03","home":"미네소타 트윈스","away":"디트�
 injuryHome: "Chris Murphy (염좌)|Drew Thorpe (수술)|Huascar Brazoban (염좌)|Tanner Murray (수술)|Joey Bart (골절)"
 injuryAway: "Byron Buxton (신경 압박)|Austin Martin (염좌)|Joe Ryan (염좌)|Mike Paredes (염좌)|Mick Abel (수술)"
 homeLineup: "[\"선발투수 A. Kay (9-7, 4.28) ERA 4.28|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
-awayLineup: "[\"선발투수 T. Bradley (10-6, 3.85) ERA 3.85|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (10-6, 3.85) ERA 3.85|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\",\"1번 L. Keaschall (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4977664.png\",\"2번 K. Culpepper (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4935268.png\",\"3번 R. Jeffers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41587.png\",\"4번 J. Bell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"5번 R. Lewis (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40635.png\",\"6번 K. Clemens (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"7번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"8번 G. Gonzalez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4919918.png\",\"9번 R. Kreidler (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42701.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

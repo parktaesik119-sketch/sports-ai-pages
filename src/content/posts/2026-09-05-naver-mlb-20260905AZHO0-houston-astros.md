@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.03","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Brice Matthews (삠)|Mike Burrows (염증)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Tommy Troy (삠)|Ryne Nelson (근육 긴장)|Zac Gallen (염증)|Michael Soroka (염증)|Corbin Burnes (수술)"
 homeLineup: "[\"선발투수 E. Pecko (1-0, 6.23) ERA 6.23|https://a.espncdn.com/i/headshots/mlb/players/full/4944276.png\"]"
-awayLineup: "[\"선발투수 B. Pfaadt (7-2, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\"]"
+awayLineup: "[\"선발투수 B. Pfaadt (7-2, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\",\"1번 L. Nootbaar (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4448736.png\",\"2번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"3번 G. Moreno (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"4번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"5번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"6번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"7번 M. Kepler (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31870.png\",\"8번 T. Tawa (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\",\"9번 R. Waldschmidt (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5129344.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
