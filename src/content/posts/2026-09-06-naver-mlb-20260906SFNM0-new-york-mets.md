@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.03","home":"탬파베이 레이스","away":"뉴욕 
 awayRecent: '[{"date":"26.09.04","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SFPI0-2026-09-04-pittsburgh-pirates/"},{"date":"26.09.03","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SFPI0-2026-09-03-pittsburgh-pirates/"},{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"13-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SFPI0-2026-09-02-pittsburgh-pirates/"},{"date":"26.09.01","home":"애틀랜타 브레이브스","away":"샌프란시스코 자이언츠","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SFAT0-2026-09-01-atlanta-braves/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"}]'
 injuryHome: "Cionel Perez (염좌)|Devin Williams (염좌)|Jorge Polanco (수술)|Reed Garrett (수술)|Tylor Megill (수술)"
 injuryAway: "Marcelo Mayer (골절)|JT Brubaker (타박상)|Victor Bericoto (타박상)|Matt Gage (염좌)|Willy Adames (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Z. Thornton (3-4, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/5129576.png\"]"
+awayLineup: "[\"선발투수 A. Molina (2-0, 3.77) ERA 3.77|https://a.espncdn.com/i/headshots/mlb/players/full/5016983.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.04","home":"캔자스시티 로열스","away":"마�
 awayRecent: '[{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브루어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904MICC0-2026-09-04-chicago-cubs/"},{"date":"26.09.03","home":"시카고 컵스","away":"밀워키 브루어스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903MICC0-2026-09-03-chicago-cubs/"},{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"},{"date":"26.09.01","home":"시카고 컵스","away":"밀워키 브루어스","score":"17-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901MICC0-2026-09-01-chicago-cubs/"},{"date":"26.08.31","home":"시카고 컵스","away":"신시내티 레즈","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CICC0-2026-08-31-chicago-cubs/"}]'
 injuryHome: "Owen Caissie (경련)|Kyle Stowers (결장 여부 미정)|Anthony Bender (골절)|Xavier Edwards (염좌)|Pete Fairbanks (신경 압박)"
 injuryAway: "Shelby Miller (수술)|Jacob Webb (통증)|Edward Cabrera (찰과상)|Tyler Austin (수술)|Gavin Hollowell (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Gusto (1-3, 3.86) ERA 3.86|https://a.espncdn.com/i/headshots/mlb/players/full/5131986.png\"]"
+awayLineup: "[\"선발투수 C. Holmes (6-6, 2.09) ERA 2.09|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

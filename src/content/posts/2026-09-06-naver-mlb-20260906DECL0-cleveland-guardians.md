@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.05","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.05","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905DECL2-2026-09-05-cleveland-guardians/"},{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"},{"date":"26.09.02","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"15-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902DEMN0-2026-09-02-minnesota-twins/"},{"date":"26.09.01","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901DEMN0-2026-09-01-minnesota-twins/"},{"date":"26.08.31","home":"디트로이트 타이거즈","away":"LA 다저스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831LADE0-2026-08-31-detroit-tigers/"}]'
 injuryHome: "Angel Martinez (경미한 부상)|Rhys Hoskins (염증)|Colin Holderman (염증)|Shawn Armstrong (긴장)"
 injuryAway: "Brant Hurter (염증)|Wenceel Perez (골절)|Burch Smith (염증)|Hao-Yu Lee (경미한 부상)|Justin Verlander (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Messick (11-8, 2.46) ERA 2.46|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
+awayLineup: "[\"선발투수 F. Valdez (8-10, 4.36) ERA 4.36|https://a.espncdn.com/i/headshots/mlb/players/full/36581.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
