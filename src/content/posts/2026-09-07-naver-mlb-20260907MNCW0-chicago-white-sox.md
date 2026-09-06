@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.05","home":"시카고 화이트삭스","away":"미�
 awayRecent: '[{"date":"26.09.05","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MNCW0-2026-09-05-chicago-white-sox/"},{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"},{"date":"26.09.02","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"15-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902DEMN0-2026-09-02-minnesota-twins/"},{"date":"26.09.01","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"11-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901DEMN0-2026-09-01-minnesota-twins/"},{"date":"26.08.31","home":"미네소타 트윈스","away":"시카고 화이트삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831CWMN0-2026-08-31-minnesota-twins/"}]'
 injuryHome: "Chris Murphy (염좌)|Drew Thorpe (수술)|Huascar Brazoban (염좌)|Tanner Murray (수술)|Joey Bart (골절)"
 injuryAway: "Byron Buxton (눌린 신경)|Joe Ryan (염좌)|Austin Martin (염좌)|Mike Paredes (염좌)|Mick Abel (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 B. Hudson (4-4, 3.03) ERA 3.03|https://a.espncdn.com/i/headshots/mlb/players/full/4991171.png\"]"
 awayLineup: "[\"선발투수 B. Ober (7-4, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/3107919.png\"]"
 homeFormation: ""
 awayFormation: ""
