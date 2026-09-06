@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.06","home":"클리블랜드 가디언스","away":"�
 injuryHome: "Chase DeLauter (염좌)|Rhys Hoskins (염증)|Colin Holderman (염증)|Shawn Armstrong (근육 손상)"
 injuryAway: "Brant Hurter (염증)|Wenceel Perez (골절)|Burch Smith (염증)|Justin Verlander (근육 손상)|Kerry Carpenter (족저근막염)"
 homeLineup: "[\"선발투수 G. Williams (13-7, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
-awayLineup: "[\"선발투수 J. Jobe (1-2, 4.63) ERA 4.63|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\"]"
+awayLineup: "[\"선발투수 J. Jobe (1-2, 4.63) ERA 4.63|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\",\"1번 K. McGonigle (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5149072.png\",\"2번 H. Lee (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5124113.png\",\"3번 C. Keith (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4683384.png\",\"4번 R. Greene (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42179.png\",\"5번 D. Dingler (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4345620.png\",\"6번 B. Callahan (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5273840.png\",\"7번 B. Malgeri (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4867327.png\",\"8번 M. Clark (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5148964.png\",\"9번 J. Peck (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5207411.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

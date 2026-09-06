@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.05","home":"볼티모어 오리올스","away":"보�
 injuryHome: "Tyler O'Neill (근육통)|Felix Bautista (수술)|Christian Franklin (염증)|Ryan Helsley (염증)|Ryan Mountcastle (부상)"
 injuryAway: "Ceddanne Rafaela (근육통)|Zack Kelly (염증)|Justin Slaten (염증)|Willson Contreras (부상)|Johan Oviedo (부상)"
 homeLineup: "[\"선발투수 K. Bradish (7-12, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/4311625.png\"]"
-awayLineup: "[\"선발투수 P. Tolle (8-6, 3.23) ERA 3.23|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
+awayLineup: "[\"선발투수 P. Tolle (8-6, 3.23) ERA 3.23|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\",\"1번 R. Anthony (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080767.png\",\"2번 M. Gasper (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5132012.png\",\"3번 A. Rutschman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42178.png\",\"4번 T. Story (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/32150.png\",\"5번 N. Sogard (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42979.png\",\"6번 C. Durbin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007615.png\",\"7번 J. Duran (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41610.png\",\"8번 A. Monasterio (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36950.png\",\"9번 E. White (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/39963.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

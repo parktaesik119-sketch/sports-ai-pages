@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애�
 injuryHome: "Brice Matthews (염좌)|Mike Burrows (염증)|Steven Okert (근육 손상)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Corbin Burnes (수술)|Ryne Nelson (근육 손상)|Zac Gallen (염증)|Michael Soroka (염증)|Ryan Thompson (근육 손상)"
 homeLineup: "[\"선발투수 P. Lambert (8-7, 3.66) ERA 3.66|https://a.espncdn.com/i/headshots/mlb/players/full/39898.png\"]"
-awayLineup: "[\"선발투수 E. Rodriguez (14-5, 2.59) ERA 2.59|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 E. Rodriguez (14-5, 2.59) ERA 2.59|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\",\"1번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"2번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"3번 G. Moreno (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"4번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"5번 C. Carroll (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42404.png\",\"6번 T. Troy (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4837403.png\",\"7번 J. McCann (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32046.png\",\"8번 I. Vargas (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32985.png\",\"9번 J. Lawlar (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4872649.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
