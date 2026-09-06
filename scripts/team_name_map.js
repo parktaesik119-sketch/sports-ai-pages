@@ -898,6 +898,7 @@ const TEAM_NAME_MAP = {
   "Khabarovsk": "아무르 하바롭스크",
   "Nizhnekamsk": "니즈네캄스크",
   "Kunlun": "쿤룬",
+  "Vladivostok": "블라디보스토크",
 
 
   //캐나다 축구팀
