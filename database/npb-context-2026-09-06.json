@@ -1,49 +1,5 @@
 [
   {
-    "home": "Orix Buffaloes",
-    "away": "Chiba Lotte Marines",
-    "date": "2026-09-06T04:00:00.000Z",
-    "league": "NPB",
-    "venue": "京セラD大阪",
-    "gameTime": "13:00",
-    "starters": {
-      "home": {
-        "name": "Ryuhei Sotani",
-        "nameJa": "曽谷　龍平",
-        "playerId": "81985157",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/b/017_81985157.jpg"
-      },
-      "away": {
-        "name": "Joey Lucchesi",
-        "nameJa": "Ｊ．ルケーシー",
-        "playerId": "93095152",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/m/048_93095152.jpg"
-      }
-    }
-  },
-  {
-    "home": "Fukuoka S. Hawks",
-    "away": "Seibu Lions",
-    "date": "2026-09-06T04:00:00.000Z",
-    "league": "NPB",
-    "venue": "みずほPayPay",
-    "gameTime": "13:00",
-    "starters": {
-      "home": {
-        "name": "Taiga Kamichatani",
-        "nameJa": "上茶谷　大河",
-        "playerId": "81585138",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/h/064_81585138.jpg"
-      },
-      "away": {
-        "name": "Natsuki Takeuchi",
-        "nameJa": "武内　夏暉",
-        "playerId": "51255159",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/l/021_51255159.jpg"
-      }
-    }
-  },
-  {
     "home": "Rakuten Gold. Eagles",
     "away": "Nippon Ham Fighters",
     "date": "2026-09-06T07:00:00.000Z",
