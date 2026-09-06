@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.05","home":"신시내티 레즈","away":"밀워키 
 injuryHome: "Graham Ashcraft (염좌)|Ke'Bryan Hayes (긴장)|Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)"
 injuryAway: "Rob Zastryzny (긴장)|Bryse Wilson (긴장)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
 homeLineup: "[\"선발투수 B. Singer (5-13, 4.83) ERA 4.83|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
-awayLineup: "[\"선발투수 K. Harrison (10-4, 3.45) ERA 3.45|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
+awayLineup: "[\"선발투수 K. Harrison (10-4, 3.45) ERA 3.45|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\",\"1번 S. Frelick (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4417795.png\",\"2번 C. Yelich (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31283.png\",\"3번 J. Chourio (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917869.png\",\"4번 J. Bauers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35013.png\",\"5번 G. Mitchell (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4313442.png\",\"6번 B. Turang (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41179.png\",\"7번 C. Pratt (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149101.png\",\"8번 B. Naylor (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41183.png\",\"9번 D. Hamilton (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42987.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
