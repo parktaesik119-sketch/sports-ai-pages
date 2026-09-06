@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.04","home":"시애틀 매리너스","away":"애슬�
 injuryHome: "Victor Robles (사별 휴가)|Cole Wilcox (부상자 명단 등재)|Matt Brash (부상자 명단 등재)|Hoby Milner (사별 휴가)|Brendan Donovan (뇌진탕)"
 injuryAway: "Tommy White (근육통)|J.T. Ginn (근육통)|Joshua Kuroda-Grauer (부상자 명단 등재)|Brooks Kriske (부상자 명단 등재)|Shea Langeliers (수술)"
 homeLineup: "[\"선발투수 B. Woo (10-9, 4.25) ERA 4.25|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
-awayLineup: "[\"선발투수 G. Jump (6-9, 5.15) ERA 5.15|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\"]"
+awayLineup: "[\"선발투수 G. Jump (6-9, 5.15) ERA 5.15|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\",\"1번 H. Bolte (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080756.png\",\"2번 J. McNeil (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/33900.png\",\"3번 Z. Gelof (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4414531.png\",\"4번 L. Butler (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917919.png\",\"5번 C. Cortes (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41595.png\",\"6번 M. Muncy (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4872686.png\",\"7번 D. Walton (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/37232.png\",\"8번 A. Williams (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4424289.png\",\"9번 B. Serven (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41441.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
