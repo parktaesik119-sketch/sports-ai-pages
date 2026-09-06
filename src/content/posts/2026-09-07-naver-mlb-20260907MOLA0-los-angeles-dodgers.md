@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔�
 awayRecent: '[{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MOLA0-2026-09-05-los-angeles-dodgers/"},{"date":"26.09.03","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903ATMO0-2026-09-03-washington-nationals/"},{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals/"},{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"},{"date":"26.08.31","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831FLMO0-2026-08-31-washington-nationals/"}]'
 injuryHome: "Brusdar Graterol (수술)|Shohei Ohtani (통증)|Dalton Rushing (결장)|Max Muncy (결장)|Edwin Diaz (염증)"
 injuryAway: "Richard Lovelady (부상)|Drew Millas (골절)|DJ Herz (부상)|PJ Poulin (부상)|Connelly Early (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 J. Wrobleski (11-5, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\"]"
 awayLineup: "[\"선발투수 A. Alvarez (2-6, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
 homeFormation: ""
 awayFormation: ""
