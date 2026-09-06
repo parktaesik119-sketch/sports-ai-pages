@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애�
 awayRecent: '[{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.03","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903PHAZ0-2026-09-03-arizona-diamondbacks/"},{"date":"26.09.01","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901PHAZ0-2026-09-01-arizona-diamondbacks/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"}]'
 injuryHome: "Brice Matthews (염좌)|Mike Burrows (염증)|Steven Okert (근육 손상)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Corbin Burnes (수술)|Ryne Nelson (근육 손상)|Zac Gallen (염증)|Michael Soroka (염증)|Ryan Thompson (근육 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Lambert (8-7, 3.66) ERA 3.66|https://a.espncdn.com/i/headshots/mlb/players/full/39898.png\"]"
+awayLineup: "[\"선발투수 E. Rodriguez (14-5, 2.59) ERA 2.59|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파�
 awayRecent: '[{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"},{"date":"26.09.04","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TBTE0-2026-09-04-texas-rangers/"},{"date":"26.09.03","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NMTB0-2026-09-03-tampa-bay-rays/"},{"date":"26.09.02","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NMTB0-2026-09-02-tampa-bay-rays/"},{"date":"26.09.01","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NMTB0-2026-09-01-tampa-bay-rays/"}]'
 injuryHome: "Michael Helman (골절)|Kyle Higashioka (긴장)|Josh Jung (긴장)|Robert Garcia (염증)|Carter Baumler (긴장)"
 injuryAway: "Bryan Baker (경미한 통증)|Jake Fraley (수술)|Jonathan Heasley (골절)|Edwin Uceta (긴장)|Ben Williamson (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Gore (8-10, 4.31) ERA 4.31|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
+awayLineup: "[\"선발투수 I. Seymour (9-6, 4.21) ERA 4.21|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

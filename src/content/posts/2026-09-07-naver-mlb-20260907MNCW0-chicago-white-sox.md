@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.05","home":"시카고 화이트삭스","away":"미�
 injuryHome: "Chris Murphy (염좌)|Drew Thorpe (수술)|Huascar Brazoban (염좌)|Tanner Murray (수술)|Joey Bart (골절)"
 injuryAway: "Byron Buxton (눌린 신경)|Joe Ryan (염좌)|Austin Martin (염좌)|Mike Paredes (염좌)|Mick Abel (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 B. Ober (7-4, 4.37) ERA 4.37|https://a.espncdn.com/i/headshots/mlb/players/full/3107919.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

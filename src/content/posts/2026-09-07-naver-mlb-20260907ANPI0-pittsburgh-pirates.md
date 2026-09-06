@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA �
 awayRecent: '[{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.05","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ANPI0-2026-09-05-pittsburgh-pirates/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"}]'
 injuryHome: "Ryan O'Hearn (근육통)|Kirby Yates (신경 압박)|Mitch Keller (60일 부상자 명단)|Endy Rodriguez (수술)"
 injuryAway: "Gustavo Campero (근육통)|Nolan Schanuel (근육통)|Sam Bachman (염증)|Yoan Moncada (수술)|George Klassen (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Skenes (9-11, 3.97) ERA 3.97|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
+awayLineup: "[\"선발투수 W. Urena (9-9, 2.85) ERA 2.85|https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

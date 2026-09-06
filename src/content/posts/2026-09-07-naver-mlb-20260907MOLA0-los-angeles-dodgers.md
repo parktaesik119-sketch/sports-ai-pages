@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔�
 injuryHome: "Brusdar Graterol (수술)|Shohei Ohtani (통증)|Dalton Rushing (결장)|Max Muncy (결장)|Edwin Diaz (염증)"
 injuryAway: "Richard Lovelady (부상)|Drew Millas (골절)|DJ Herz (부상)|PJ Poulin (부상)|Connelly Early (염증)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 A. Alvarez (2-6, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

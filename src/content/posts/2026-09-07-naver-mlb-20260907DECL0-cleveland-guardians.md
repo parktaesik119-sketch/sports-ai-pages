@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.06","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906DECL0-2026-09-06-cleveland-guardians/"},{"date":"26.09.05","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905DECL2-2026-09-05-cleveland-guardians/"},{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"},{"date":"26.09.02","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"15-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902DEMN0-2026-09-02-minnesota-twins/"},{"date":"26.09.01","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901DEMN0-2026-09-01-minnesota-twins/"}]'
 injuryHome: "Chase DeLauter (염좌)|Rhys Hoskins (염증)|Colin Holderman (염증)|Shawn Armstrong (근육 손상)"
 injuryAway: "Brant Hurter (염증)|Wenceel Perez (골절)|Burch Smith (염증)|Justin Verlander (근육 손상)|Kerry Carpenter (족저근막염)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Williams (13-7, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 J. Jobe (1-2, 4.63) ERA 4.63|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

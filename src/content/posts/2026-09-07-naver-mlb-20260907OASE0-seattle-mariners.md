@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.05","home":"시애틀 매리너스","away":"애슬�
 awayRecent: '[{"date":"26.09.05","home":"시애틀 매리너스","away":"애슬레틱스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905OASE0-2026-09-05-seattle-mariners/"},{"date":"26.09.04","home":"시애틀 매리너스","away":"애슬레틱스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904OASE0-2026-09-04-seattle-mariners/"},{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬레틱스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903OATE0-2026-09-03-texas-rangers/"},{"date":"26.09.01","home":"텍사스 레인저스","away":"애슬레틱스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901OATE0-2026-09-01-texas-rangers/"},{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 오리올스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BAOA0-2026-08-31-athletics/"}]'
 injuryHome: "Lazaro Montes (통증)|Victor Robles (상중)|Cole Wilcox (근육 손상)|Hoby Milner (상중)|Brendan Donovan (뇌진탕)"
 injuryAway: "Tommy White (통증)|Joshua Kuroda-Grauer (수술)|Brooks Kriske (신경 압박)|J.T. Ginn (통증)|Shea Langeliers (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Woo (10-9, 4.25) ERA 4.25|https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png\"]"
+awayLineup: "[\"선발투수 G. Jump (6-9, 5.15) ERA 5.15|https://a.espncdn.com/i/headshots/mlb/players/full/5023852.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

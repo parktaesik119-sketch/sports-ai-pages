@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.05","home":"신시내티 레즈","away":"밀워키 
 awayRecent: '[{"date":"26.09.05","home":"신시내티 레즈","away":"밀워키 브루어스","score":"7-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MICI0-2026-09-05-cincinnati-reds/"},{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브루어스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904MICC0-2026-09-04-chicago-cubs/"},{"date":"26.09.03","home":"시카고 컵스","away":"밀워키 브루어스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903MICC0-2026-09-03-chicago-cubs/"},{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"},{"date":"26.09.01","home":"시카고 컵스","away":"밀워키 브루어스","score":"17-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901MICC0-2026-09-01-chicago-cubs/"}]'
 injuryHome: "Graham Ashcraft (염좌)|Ke'Bryan Hayes (긴장)|Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)"
 injuryAway: "Rob Zastryzny (긴장)|Bryse Wilson (긴장)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Singer (5-13, 4.83) ERA 4.83|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
+awayLineup: "[\"선발투수 K. Harrison (10-4, 3.45) ERA 3.45|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

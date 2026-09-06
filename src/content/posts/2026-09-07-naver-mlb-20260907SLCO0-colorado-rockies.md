@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.05","home":"콜로라도 로키스","away":"세인�
 awayRecent: '[{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.04","home":"LA 다저스","away":"세인트루이스 카디널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SLLA0-2026-09-04-los-angeles-dodgers/"},{"date":"26.09.03","home":"LA 다저스","away":"세인트루이스 카디널스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SLLA0-2026-09-03-los-angeles-dodgers/"},{"date":"26.09.02","home":"LA 다저스","away":"세인트루이스 카디널스","score":"8-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SLLA0-2026-09-02-los-angeles-dodgers/"},{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"}]'
 injuryHome: "McCade Brown (염증)|Kris Bryant (수술)|Kyle Karros (뇌진탕)|Willi Castro (족저근막염)|Kyle Freeland (신경 압박)"
 injuryAway: "Masyn Winn (골절)|Everson Pereira (타박상)|JJ Wetherholt (건염)|Peter Strzelecki (염증)|Blaze Jordan (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Gordon (1-4, 5.18) ERA 5.18|https://a.espncdn.com/i/headshots/mlb/players/full/4415658.png\"]"
+awayLineup: "[\"선발투수 K. Leahy (10-4, 3.13) ERA 3.13|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"마이애미 말린스","away":"시카�
 awayRecent: '[{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"},{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브루어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904MICC0-2026-09-04-chicago-cubs/"},{"date":"26.09.03","home":"시카고 컵스","away":"밀워키 브루어스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903MICC0-2026-09-03-chicago-cubs/"},{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"}]'
 injuryHome: "Anthony Bender (골절)|Xavier Edwards (염좌)|Pete Fairbanks (신경 압박)|Max Meyer (근육 염좌)|Ronny Henriquez (수술)"
 injuryAway: "Jacob Webb (통증)|Shelby Miller (수술)|Edward Cabrera (찰과상)|Tyler Austin (수술)|Gavin Hollowell (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Phillips (4-6, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/41247.png\"]"
+awayLineup: "[\"선발투수 C. Holmes (6-6, 2.09) ERA 2.09|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

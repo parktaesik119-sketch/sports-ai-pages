@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"샌디에이고 파드리스","away":"�
 awayRecent: '[{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"},{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"16-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BONY0-2026-08-31-new-york-yankees/"}]'
 injuryHome: "Jason Adam (염좌)|Miguel Andujar (골절)|Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)"
 injuryAway: "Aaron Judge (골절)|Clarke Schmidt (수술)|Trent Grisham (염좌)|Ryan Weathers (염좌)|Giancarlo Stanton (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. King (9-9, 3.11) ERA 3.11|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
+awayLineup: "[\"선발투수 G. Cole (8-7, 3.29) ERA 3.29|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
