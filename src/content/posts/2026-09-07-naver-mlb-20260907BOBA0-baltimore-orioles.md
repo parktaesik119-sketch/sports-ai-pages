@@ -1,0 +1,37 @@
+---
+title: "볼티모어 오리올스 vs 보스턴 레드삭스 경기분석·라인업·결장자·통계·승부예측 (9월 7일) | MLB - 픽천국"
+date: 2026-09-06T17:35:00.000Z
+description: "볼티모어 오리올스 vs 보스턴 레드삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260907BOBA0-2026-09-07-baltimore-orioles"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "볼티모어 오리올스"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+homeAnalysis: "볼티모어 오리올스는 2026시즌 최근 102경기에서 49승 3무 50패, 승률 .486, 평균 득점 4.5로 리그 중위권에 걸쳐 있으면서도 득점 생산은 꾸준한 편입니다. 다만 최근 10경기에서는 5승 5패로 균형이 맞아 있고, 직전 보스턴 레드삭스전 두 경기에서 모두 한 점 차 접전을 허용하며 마무리 집중력의 아쉬움이 드러났습니다. 홈에서는 큰 폭의 폭발력보다 경기 후반 운영과 연결 타선이 살아날 때 강점을 보이는 흐름이어서, 득점이 한 번에 크게 터지지 않더라도 흐름을 잡는 경기가 자주 나옵니다. 반면 실점 억제는 완전히 안정적이지 않아 접전으로 갈수록 불펜 부담이 커질 수 있습니다. Tyler O'Neill, Felix Bautista, Ryan Helsley, Ryan Mountcastle의 이탈은 중심 타선과 뒷문 안정성에 모두 영향을 주는 부분이라, 현재 전력의 균형을 유지하는 데 상당한 변수가 되고 있습니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 최근 107경기에서 59승 2무 46패, 승률 .542, 평균 득점 4.4로 더 높은 승률을 유지하면서도 득실 +79로 공수 균형이 분명한 편입니다. 최근 10경기에서는 4승 6패로 잠시 흔들렸지만, 강한 상대를 상대로도 득점 자체는 이어가며 공격의 기반이 완전히 무너지지는 않았습니다. 다만 최근 3연패 구간에서 대량 실점이 겹쳤고, 원정에서는 수비 집중력이 떨어질 때 경기 흐름이 급격히 기울어지는 모습이 보입니다. 최근 볼티모어 오리올스와의 맞대결에서는 서로 접전이 많았지만, 시리즈 전체 흐름은 보스턴 레드삭스가 우세를 지켜온 점도 주목할 만합니다. Zack Kelly, Justin Slaten, Willson Contreras, Johan 오비에도의 장기 이탈은 마운드 뎁스와 라인업 운용에 부담이 되고 있고, Ceddanne Rafaela의 단기 이슈도 수비와 출루 흐름에 가벼운 영향을 줄 수 있습니다."
+homePower: "홈 경기 접전 운영 능력이 비교적 살아 있음|중심 자원 이탈로 장타 기대치가 낮아짐|후반 불펜 안정성 흔들리면 급격히 약해짐|최근 맞대결에서 한 점 차 승부 적응력 보임|득점은 유지되나 마무리 효율이 관건임"
+awayPower: "승률과 득실 차에서 안정적 상위 전력임|원정에서는 대량 실점만 줄이면 강세 지속됨|최근 부진은 타선 침묵보다 마운드 붕괴가 큼|장기 결장자 누적으로 운영 폭이 좁아짐|맞대결 우세로 심리적 자신감은 유지됨"
+h2h: '[{"date":"26.09.05","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905BOBA0-2026-09-05-baltimore-orioles/"},{"date":"26.09.04","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904BOBA0-2026-09-04-baltimore-orioles/"},{"date":"26.07.23","home":"보스턴 레드삭스","away":"볼티모어 오리올스","score":"1-5","link":"https://pick79.com/posts/detail/analyze-179551-2026-07-23-boston-red-sox/"},{"date":"26.07.23","home":"보스턴 레드삭스","away":"볼티모어 오리올스","score":"6-3","link":"https://pick79.com/posts/detail/analyze-179551-2026-07-23-boston-red-sox/"},{"date":"26.07.22","home":"보스턴 레드삭스","away":"볼티모어 오리올스","score":"0-0","link":"https://pick79.com/posts/detail/analyze-179537-2026-07-22-boston-red-sox/"}]'
+summary: "볼티모어 오리올스는 리그순위 9위지만 최근 흐름이 크게 무너지지 않았고, 홈에서 접전 대응력은 여전히 경쟁력이 있습니다. 보스턴 레드삭스는 리그순위 3위와 +79의 득실에서 보이듯 시즌 전체 전력은 한 단계 위에 있지만, 최근 흐름은 다소 들쭉날쭉해서 원정 안정감이 완전히 단단하다고 보기는 어렵습니다. 다만 맞대결에서는 보스턴 레드삭스가 시즌 우세를 가져가고 있고, 양 팀 모두 결장자가 적지 않아 경기 운영의 세밀함이 중요해 보입니다. 전체적으로는 볼티모어 오리올스가 홈 이점을 바탕으로 버티는 그림이 가능하지만, 시즌 전력과 맞대결 흐름까지 함께 보면 보스턴 레드삭스가 근소한 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.05","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905BOBA0-2026-09-05-baltimore-orioles/"},{"date":"26.09.04","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904BOBA0-2026-09-04-baltimore-orioles/"},{"date":"26.09.03","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903BACO0-2026-09-03-colorado-rockies/"},{"date":"26.09.01","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901BACO0-2026-09-01-colorado-rockies/"},{"date":"26.08.31","home":"애슬레틱스","away":"볼티모어 오리올스","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BAOA0-2026-08-31-athletics/"}]'
+awayRecent: '[{"date":"26.09.05","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905BOBA0-2026-09-05-baltimore-orioles/"},{"date":"26.09.04","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904BOBA0-2026-09-04-baltimore-orioles/"},{"date":"26.09.03","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SEBO0-2026-09-03-boston-red-sox/"},{"date":"26.09.02","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SEBO0-2026-09-02-boston-red-sox/"},{"date":"26.09.01","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"9-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SEBO0-2026-09-01-boston-red-sox/"}]'
+injuryHome: "Tyler O'Neill (근육통)|Felix Bautista (수술)|Christian Franklin (염증)|Ryan Helsley (염증)|Ryan Mountcastle (부상)"
+injuryAway: "Ceddanne Rafaela (근육통)|Zack Kelly (염증)|Justin Slaten (염증)|Willson Contreras (부상)|Johan Oviedo (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "볼티모어 오리올스"
+pickWinResult: "승"
+pickHandicapTeam: "볼티모어 오리올스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

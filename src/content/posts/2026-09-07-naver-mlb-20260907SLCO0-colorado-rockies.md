@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 세인트루이스 카디널스 경기분석·라인업·결장자·통계·승부예측 (9월 7일) | MLB - 픽천국"
+date: 2026-09-06T19:10:00.000Z
+description: "콜로라도 로키스 vs 세인트루이스 카디널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "세인트루이스 카디널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 32승 52패, 승률 .383에 평균 득점 5.0을 기록하고 있어 전반적인 성적은 하위권이지만 공격 생산 자체는 완전히 막힌 흐름은 아닙니다. 다만 최근 흐름에서는 10경기 3승 7패로 흔들림이 이어지고 있고, 강한 상대를 만나면 실점 억제가 쉽지 않은 모습이 자주 보입니다. 홈 경기에서는 타선이 어느 정도 힘을 내는 편이지만, 수비 쪽 불안이 겹치면 접전에서도 버티는 힘이 떨어지는 장면이 많습니다. 특히 핵심 전력인 Kris Bryant와 Kyle Freeland의 이탈은 공격 연결과 마운드 운용 모두에 부담으로 작용하고 있습니다. 최근 세인트루이스 카디널스전에서도 한 점 차 접전 끝에 밀린 만큼, 경기 후반 집중력에서 아쉬움이 남는 흐름입니다."
+awayAnalysis: "세인트루이스 카디널스는 2026시즌 42승 54패 1무, 승률 .500에 평균 득점 4.4를 기록하며 중위권 경쟁력을 보여주고 있습니다. 최근 10경기에서는 4승 6패로 결과가 들쭉날쭉하지만, 강한 상대를 상대로도 득점이 이어지는 장면이 있어 타선의 폭발력은 충분히 확인되고 있습니다. 특히 원정에서도 점수를 꾸준히 만들어 내는 편이라, 경기 흐름이 열리면 득점 기대치가 쉽게 떨어지지 않는 점이 돋보입니다. 다만 실점 관리에서는 기복이 남아 있어, 리그순위에 비해 고점 대비 주춤한 구간이 나타나고 있습니다. Masyn Winn의 이탈은 수비와 주루, 공격 연결에서 부담이 될 수 있지만, 전반적인 팀 완성도는 여전히 콜로라도 로키스보다 안정적으로 보입니다."
+homePower: "홈 경기 실점 관리 불안이 승패를 가름함|주전 이탈로 타선 응집력 약화가 보임|접전 후반 집중력 저하가 반복됨|강타선 상대로 한 번 흔들리면 회복이 늦음|득점은 가능해도 마무리 효율이 과제임"
+awayPower: "최근 원정 득점 유지력은 분명히 확인됨|리그순위 대비 공격 기복이 크지 않음|접전에서 한 점 차 운영 능력이 보임|주요 결장 속에서도 타선 연결은 유지됨|콜로라도 로키스 상대로 상성 우위가 검증됨"
+h2h: '[{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.08.10","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"7-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260810COSL0-2026-08-10-st-louis-cardinals/"},{"date":"26.08.09","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"6-8","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260809COSL0-2026-08-09-st-louis-cardinals/"},{"date":"26.08.08","home":"세인트루이스 카디널스","away":"콜로라도 로키스","score":"3-2"}]'
+summary: "세인트루이스 카디널스는 리그순위 8위로 콜로라도 로키스의 15위보다 확실히 앞서 있고, 득실 차이에서도 더 안정적인 전력을 보여주고 있습니다. 콜로라도 로키스는 평균 득점은 나쁘지 않지만 실점 부담이 큰 편이라 경기 흐름이 길어질수록 불리해지는 모습이 뚜렷합니다. 반면 세인트루이스 카디널스는 최근 원정에서도 득점을 이어가며 접전 처리에서 더 나은 모습을 보이고 있고, 상대전적에서도 3승 1패로 우위를 점하고 있습니다. 전체 흐름을 함께 보면 세인트루이스 카디널스가 타선의 응집력과 상성에서 앞서 있어 경기 주도권을 잡을 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.03","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903BACO0-2026-09-03-colorado-rockies/"},{"date":"26.09.01","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901BACO0-2026-09-01-colorado-rockies/"},{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831COAT0-2026-08-31-atlanta-braves/"},{"date":"26.08.30","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830COAT0-2026-08-30-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.04","home":"LA 다저스","away":"세인트루이스 카디널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SLLA0-2026-09-04-los-angeles-dodgers/"},{"date":"26.09.03","home":"LA 다저스","away":"세인트루이스 카디널스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SLLA0-2026-09-03-los-angeles-dodgers/"},{"date":"26.09.02","home":"LA 다저스","away":"세인트루이스 카디널스","score":"8-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SLLA0-2026-09-02-los-angeles-dodgers/"},{"date":"26.08.31","home":"세인트루이스 카디널스","away":"피츠버그 파이러츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831PISL0-2026-08-31-st-louis-cardinals/"}]'
+injuryHome: "McCade Brown (염증)|Kris Bryant (수술)|Kyle Karros (뇌진탕)|Willi Castro (족저근막염)|Kyle Freeland (신경 압박)"
+injuryAway: "Masyn Winn (골절)|Everson Pereira (타박상)|JJ Wetherholt (건염)|Peter Strzelecki (염증)|Blaze Jordan (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

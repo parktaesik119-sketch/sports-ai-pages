@@ -1,0 +1,37 @@
+---
+title: "휴스턴 애스트로스 vs 애리조나 다이아몬드백스 경기분석·라인업·결장자·통계·승부예측 (9월 7일) | MLB - 픽천국"
+date: 2026-09-06T18:10:00.000Z
+description: "휴스턴 애스트로스 vs 애리조나 다이아몬드백스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "휴스턴 애스트로스"
+awayTeam: "애리조나 다이아몬드백스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+homeAnalysis: "휴스턴 애스트로스는 2026시즌 최근 91경기에서 50승 1무 40패, 평균 득점 4.4로 시즌 내내 안정적인 경쟁력을 유지하고 있습니다. 최근 흐름도 10경기 7승 3패로 나쁘지 않고, 직전 맞대결에서도 애리조나 다이아몬드백스를 상대로 3-1 승리를 거두며 상승세를 이어가고 있습니다. 득점은 크게 폭발하지 않더라도 꾸준히 나오고 있고, 홈에서도 경기 흐름을 잘 관리하는 모습이 돋보입니다. 다만 실점 억제 면에서는 경기별 편차가 있어, 초반 주도권을 잡지 못하면 접전으로 흐를 가능성도 있습니다. 결장자 공백이 적지 않지만, 최근 승리 흐름 속에서 타선의 응집력과 마운드 운영이 함께 살아나고 있어 홈 경기에서는 여전히 우세가 기대됩니다."
+awayAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 92경기에서 49승 0무 43패, 평균 득점 4.5로 승패 균형은 나쁘지 않지만 득실 격차가 거의 없는 전력입니다. 최근 10경기 5승 5패로 기복이 있고, 직전 경기에서는 휴스턴 애스트로스에 1-3으로 패하며 공격이 다소 막힌 모습이었습니다. 큰 점수 차로 밀리기보다 한 점 승부에서 버티는 경향은 있지만, 최근 득점이 2점대 중반 수준으로 내려오면서 화력 면의 불안이 보입니다. 원정에서도 수비 집중력으로 경기를 버티는 장면은 있으나, 장기 결장자가 많은 마운드 운영은 분명 부담으로 작용하고 있습니다. 특히 최근 흐름을 보면 경기 내내 꾸준히 득점을 쌓는 힘보다, 제한된 찬스를 얼마나 살리느냐가 더 중요해 보입니다."
+homePower: "최근 맞대결 승리로 상성 우위가 확인됨|홈에서는 경기 운영 완성도가 더 높아 보임|득점은 꾸준하고 한 방보다 연결이 강점임|실점 편차는 있으나 큰 흐름은 안정적임|주요 결장에도 최근 타선 응집력은 유지됨"
+awayPower: "득실이 거의 균형이라 경기마다 변동성 큼|최근 득점 저하로 원정 생산력 부담이 큼|한 점 차 승부 집중력은 여전히 살아 있음|장기 결장 누적으로 마운드 뎁스가 약화됨|버티는 전력은 있으나 폭발력은 제한적임"
+h2h: '[{"date":"26.09.05","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-1"}]'
+summary: "휴스턴 애스트로스는 시즌 전력과 최근 흐름이 함께 받쳐 주고 있어 이번 경기에서도 한 발 앞선 모습이 기대됩니다. 애리조나 다이아몬드백스는 승패 균형은 괜찮지만 최근 득점 흐름이 다소 낮아져 공격 전개에서 무게감이 떨어져 보입니다. 두 팀 모두 결장 변수가 있지만, 홈에서 경기 운영이 더 안정적인 휴스턴 애스트로스가 마운드와 타선의 균형에서 우위를 점할 가능성이 높습니다. 최근 맞대결에서도 휴스턴 애스트로스가 먼저 흐름을 잡은 만큼, 이번 경기 역시 홈팀 쪽 기대감이 더 높게 형성됩니다."
+homeRecent: '[{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.04","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904CWHO0-2026-09-04-houston-astros/"},{"date":"26.09.02","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902CWHO0-2026-09-02-houston-astros/"},{"date":"26.09.01","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901CWHO0-2026-09-01-houston-astros/"},{"date":"26.08.31","home":"뉴욕 메츠","away":"휴스턴 애스트로스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831HONM0-2026-08-31-new-york-mets/"}]'
+awayRecent: '[{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.03","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903PHAZ0-2026-09-03-arizona-diamondbacks/"},{"date":"26.09.01","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901PHAZ0-2026-09-01-arizona-diamondbacks/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"}]'
+injuryHome: "Brice Matthews (염좌)|Mike Burrows (염증)|Steven Okert (근육 손상)|Carlos Correa (수술)|Brandon Walter (수술)"
+injuryAway: "Corbin Burnes (수술)|Ryne Nelson (근육 손상)|Zac Gallen (염증)|Michael Soroka (염증)|Ryan Thompson (근육 손상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 애스트로스"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 애스트로스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

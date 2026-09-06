@@ -1,0 +1,37 @@
+---
+title: "마이애미 말린스 vs 시카고 컵스 경기분석·라인업·결장자·통계·승부예측 (9월 7일) | MLB - 픽천국"
+date: 2026-09-06T17:40:00.000Z
+description: "마이애미 말린스 vs 시카고 컵스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260907CCFL0-2026-09-07-miami-marlins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "마이애미 말린스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+homeAnalysis: "마이애미 말린스는 2026시즌 최근 109경기에서 52승 55패, 승률 .497, 평균 득점 4.1로 리그순위 9위에 머물러 있습니다. 최근 흐름을 보면 직전 시카고 컵스전 2연패를 포함해 흔들림이 이어지고 있지만, 중간중간 화끈한 득점력을 보여 반등 가능성도 함께 보입니다. 홈에서는 한 번 폭발하면 다득점으로 경기를 끌고 가는 힘이 있지만, 실점 억제가 흔들릴 때 경기 흐름이 쉽게 넘어가는 모습이 있습니다. 특히 시즌 득실이 근소하게 플러스인 점은 공격의 잠재력은 살아 있으나, 안정적인 경기 운영이 부족하다는 뜻으로 읽힙니다. 결장자도 Anthony Bender, Xavier Edwards, Pete Fairbanks, Max Meyer, Ronny Henriquez처럼 전력에 의미 있는 자원이 빠져 있어 마운드와 전후반 운영 모두에서 공백이 느껴집니다."
+awayAnalysis: "시카고 컵스는 2026시즌 최근 99경기에서 54승 43패, 승률 .566, 평균 득점 5.3으로 리그순위 4위를 지키고 있습니다. 최근 흐름은 승패가 엇갈리지만, 상대보다 득점 생산이 훨씬 안정적이고 큰 점수 차 경기에서도 폭발력을 보여주고 있습니다. 원정에서도 공격 템포를 유지하는 편이라 초반부터 상대 마운드를 압박하는 장면이 자주 나옵니다. 시즌 득실이 크게 플러스인 점은 타선의 생산성과 투수진의 버티는 힘이 함께 받쳐주고 있다는 의미로 보입니다. 다만 Jacob Webb, Shelby Miller, Edward Cabrera, Tyler 오스틴 FC, Gavin Hollowell의 결장은 불펜과 로테이션 깊이에 부담을 줄 수 있어, 경기 후반 운영은 변수가 될 수 있습니다."
+homePower: "홈에서 급격히 흔들리는 구간이 길어짐|장타보다 집중타 때 득점 효율이 살아남|실점이 늘면 추격전으로 흐르기 쉬움|주전 결장으로 마운드 뎁스 약화가 뚜렷함|단기 반등은 가능하나 안정감은 부족함"
+awayPower: "리그순위 4위답게 상위권 완성도가 높음|득점 생산이 꾸준해 흐름 반전이 쉬움|큰 점수 차 승리로 공격 파괴력 확인됨|불펜 일부 이탈에도 전체 전력은 유지됨|원정에서도 초반 압박 능력이 검증됨"
+h2h: '[{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"}]'
+summary: "시카고 컵스는 2026시즌 리그순위 4위와 승률 .566, 득실 +139.0이 보여주듯 전력의 기준선이 분명히 높습니다. 마이애미 말린스는 평균 득점 4.1과 근소한 플러스 득실을 바탕으로 버티는 힘은 있지만, 최근 흐름에서 수비 쪽 흔들림이 다시 드러나고 있습니다. 두 팀의 맞대결도 시카고 컵스가 먼저 2경기를 모두 가져가며 상성 우위를 확인했고, 현재 흐름과 전력 차를 함께 보면 시카고 컵스 쪽 우세가 더 자연스럽습니다."
+homeRecent: '[{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"},{"date":"26.09.04","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904FLKC0-2026-09-04-kansas-city-royals/"},{"date":"26.09.03","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"6-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903FLKC0-2026-09-03-kansas-city-royals/"},{"date":"26.09.02","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902FLKC0-2026-09-02-kansas-city-royals/"}]'
+awayRecent: '[{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"},{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브루어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904MICC0-2026-09-04-chicago-cubs/"},{"date":"26.09.03","home":"시카고 컵스","away":"밀워키 브루어스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903MICC0-2026-09-03-chicago-cubs/"},{"date":"26.09.02","home":"시카고 컵스","away":"밀워키 브루어스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902MICC0-2026-09-02-chicago-cubs/"}]'
+injuryHome: "Anthony Bender (골절)|Xavier Edwards (염좌)|Pete Fairbanks (신경 압박)|Max Meyer (근육 염좌)|Ronny Henriquez (수술)"
+injuryAway: "Jacob Webb (통증)|Shelby Miller (수술)|Edward Cabrera (찰과상)|Tyler Austin (수술)|Gavin Hollowell (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

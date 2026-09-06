@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs LA 에인절스 경기분석·라인업·결장자·통계·승부예측 (9월 7일) | MLB - 픽천국"
+date: 2026-09-06T17:35:00.000Z
+description: "피츠버그 파이러츠 vs LA 에인절스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 최근 104경기에서 47승 1무 56패, 평균 득점 4.8을 기록하며 중위권 전력을 유지하고 있습니다. 최근 10경기에서도 6승 4패로 반등 흐름을 이어가고 있어, 순위보다 최근 경기력이 더 나아 보이는 구간입니다. 다만 직전 경기에서 LA 에인절스에게 1득점에 그쳤고, 홈에서는 비교적 버티는 힘이 있으나 공격 기복이 남아 있습니다. 최근 시리즈에서 장타가 터진 경기와 저득점 접전이 교차하고 있어, 득점 생산이 안정적으로 이어지는지가 핵심입니다. 결장자 공백까지 감안하면 마운드와 타선의 균형을 다시 잡는 과정이 중요해 보입니다."
+awayAnalysis: "LA 에인절스는 2026시즌 최근 92경기에서 31승 1무 60패, 평균 득점 3.9로 하위권 전력을 보이고 있습니다. 최근 10경기에서는 2승 8패로 흐름이 좋지 않아, 현재 리그순위 15위라는 성적과 최근 경기력이 함께 이어지고 있습니다. 특히 실점 억제에 어려움을 겪는 장면이 많고, 원정에서는 공격 흐름도 쉽게 살아나지 않는 모습입니다. 다만 최근 피츠버그 파이러츠와의 맞대결에서 6득점을 올린 경기가 있어, 특정 매치업에서는 타선이 갑자기 살아날 가능성도 있습니다. 결장자 공백이 적지 않은 만큼, 초반 마운드 안정이 되지 않으면 경기 주도권을 잡기 어렵게 보입니다."
+homePower: "최근 10경기 6승으로 상승세가 확인됨|홈 104경기 기준 공격 기복은 남아 있음|직전 맞대결 무득점 억제로 투수전 가능성 보임|결장자 공백으로 중심타선 연결이 약화됨|최근 승리 패턴은 접전 버티기에서 나옴"
+awayPower: "최근 10경기 2승으로 흐름이 매우 불안함|원정 실점 관리 흔들리며 경기 초반 열세 잦음|득점이 끊기는 날이 많아 응집력 저하가 보임|장기 결장자 영향으로 전력 뎁스가 얇아짐|상대전에서 단기 폭발은 가능하나 지속성은 약함"
+h2h: '[{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.05","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ANPI0-2026-09-05-pittsburgh-pirates/"}]'
+summary: "피츠버그 파이러츠는 시즌 전력과 최근 흐름을 함께 보면 경기 운영의 안정감이 조금 더 나아 보입니다. LA 에인절스는 리그순위와 시즌 득실 격차가 모두 열세라서, 경기 후반으로 갈수록 버티는 힘에서 불리한 장면이 나올 가능성이 높습니다. 다만 최근 맞대결에서 양 팀이 한 번씩 주고받았고, 직전 경기 결과도 크게 벌어지지 않아 초반 흐름은 팽팽하게 전개될 수 있습니다. 전체적으로는 피츠버그 파이러츠가 근소 우위에 있으나, 결장자 영향과 공격 기복을 감안하면 접전 양상이 이어질 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.05","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ANPI0-2026-09-05-pittsburgh-pirates/"},{"date":"26.09.04","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SFPI0-2026-09-04-pittsburgh-pirates/"},{"date":"26.09.03","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SFPI0-2026-09-03-pittsburgh-pirates/"},{"date":"26.09.02","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"13-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SFPI0-2026-09-02-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.05","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ANPI0-2026-09-05-pittsburgh-pirates/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"}]'
+injuryHome: "Ryan O'Hearn (근육통)|Kirby Yates (신경 압박)|Mitch Keller (60일 부상자 명단)|Endy Rodriguez (수술)"
+injuryAway: "Gustavo Campero (근육통)|Nolan Schanuel (근육통)|Sam Bachman (염증)|Yoan Moncada (수술)|George Klassen (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 에인절스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 에인절스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

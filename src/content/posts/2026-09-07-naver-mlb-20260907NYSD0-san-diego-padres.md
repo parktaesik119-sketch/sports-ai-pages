@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 뉴욕 양키즈 경기분석·라인업·결장자·통계·승부예측 (9월 7일) | MLB - 픽천국"
+date: 2026-09-06T20:10:00.000Z
+description: "샌디에이고 파드리스 vs 뉴욕 양키즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260907NYSD0-2026-09-07-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "뉴욕 양키즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 최근 91경기에서 45승 45패 1무, 평균 득점 4.2를 기록하며 승패 균형을 맞추고 있습니다. 최근 흐름은 다소 출렁이지만, 직전 뉴욕 양키즈전에서 3대2로 이기며 상위권 팀을 상대로도 끝까지 버티는 힘을 보여주었습니다. 다만 최근 원정 구간에서는 실점이 늘어나며 경기 후반 안정감이 흔들리는 모습도 함께 보이고 있습니다. 홈에서는 비교적 운영이 단단하고, 득점이 크게 폭발하지 않아도 접전으로 끌고 가는 능력이 돋보입니다. Jason Adam과 Jeremiah Estrada의 이탈은 불펜 마감력에 부담이 될 수 있어, 선발이 긴 이닝을 책임져 주는 흐름이 특히 중요해 보입니다."
+awayAnalysis: "뉴욕 양키즈는 2026시즌 최근 105경기에서 59승 42패 4무, 평균 득점 4.4를 기록하며 분명한 우위를 이어가고 있습니다. 최근 10경기에서도 득점 흐름이 살아 있으며, 큰 점수 차 승리를 만들어내는 장면이 나와 공격 쪽 폭발력이 인상적입니다. 다만 샌디에이고 파드리스전에서는 2대3으로 한 끗 차 패배를 당해, 강한 타선이 항상 그대로 통하지는 않는 모습도 확인되었습니다. 원정에서도 공격 전개가 크게 꺾이지 않는 점은 강점이지만, Aaron Judge와 Giancarlo Stanton의 결장은 장타 기대치를 낮추는 변수입니다. 그럼에도 최근 경기력의 무게감과 득실 격차를 감안하면, 여전히 전력상 우세를 점할 가능성이 높아 보입니다."
+homePower: "접전 대응력은 있으나 대량 득점 지속성은 제한적임|홈에서는 실점 억제 시 경기 운영이 안정됨|불펜 핵심 이탈로 마감 구간 부담이 커짐|상위권 상대에도 한 점 차 승부를 만들 힘은 검증됨|최근 주춤했지만 강팀 상대로 반등 여지는 충분함"
+awayPower: "최근 공격 생산성이 뚜렷하게 살아 있음|득실 격차가 커 전력 우위가 수치로도 확인됨|주축 이탈에도 득점 분산이 가능한 구조임|원정에서도 초반부터 점수 압박을 가하는 흐름임|한 점 차 패배 뒤 빠르게 반등하는 응집력이 보임"
+h2h: '[{"date":"26.09.05","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"3-2"}]'
+summary: "뉴욕 양키즈는 시즌 전체 기준에서 샌디에이고 파드리스보다 승수와 득실 모두 앞서 있어, 전체 전력의 무게가 더 단단하게 느껴집니다. 샌디에이고 파드리스는 최근 들어 버티는 힘은 보여주고 있지만, 실점 억제의 흔들림이 남아 있어 강한 타선을 길게 막아내는 데는 부담이 있어 보입니다. 다만 직전 맞대결이 한 점 차로 끝난 만큼 샌디에이고 파드리스의 홈 저항력도 가볍게 볼 수는 없고, 뉴욕 양키즈가 우세를 점하더라도 접전 양상은 충분히 예상됩니다. 결국 시즌 전력의 안정감과 공격 무게감을 함께 고려하면 뉴욕 양키즈 쪽이 한 발 앞서 있는 흐름입니다."
+homeRecent: '[{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"},{"date":"26.09.03","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SDCI0-2026-09-03-cincinnati-reds/"},{"date":"26.09.02","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SDCI0-2026-09-02-cincinnati-reds/"},{"date":"26.09.01","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SDCI0-2026-09-01-cincinnati-reds/"},{"date":"26.08.31","home":"탬파베이 레이스","away":"샌디에이고 파드리스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SDTB0-2026-08-31-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"},{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"16-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BONY0-2026-08-31-new-york-yankees/"}]'
+injuryHome: "Jason Adam (염좌)|Miguel Andujar (골절)|Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)"
+injuryAway: "Aaron Judge (골절)|Clarke Schmidt (수술)|Trent Grisham (염좌)|Ryan Weathers (염좌)|Giancarlo Stanton (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

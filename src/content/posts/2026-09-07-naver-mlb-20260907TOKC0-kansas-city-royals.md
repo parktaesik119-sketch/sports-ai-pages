@@ -1,0 +1,37 @@
+---
+title: "캔자스시티 로열스 vs 토론토 블루제이즈 경기분석·라인업·결장자·통계·승부예측 (9월 7일) | MLB - 픽천국"
+date: 2026-09-06T18:10:00.000Z
+description: "캔자스시티 로열스 vs 토론토 블루제이즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260907TOKC0-2026-09-07-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "토론토 블루제이즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+homeAnalysis: "캔자스시티 로열스는 2026시즌 최근 100경기에서 50승 4무 46패, 평균 득점 4.5를 기록하며 승률이 거의 5할에 가까운 안정적인 흐름을 보여주고 있습니다. 최근에는 토론토 블루제이즈전 대패가 있었지만, 그 직전과 이전 구간에서 클리블랜드 가디언스를 상대로 연승을 거두는 등 홈에서 공격이 살아나는 장면도 분명했습니다. 다만 시즌 득실이 608-700으로 크게 밀려 있어, 점수 생산은 꾸준해도 실점 억제가 따라주지 못하는 구간이 적지 않아 보입니다. 특히 홈 경기에서는 타선이 4점대 초반 이상을 만들 수 있을 때 경쟁력이 살아나는 편이라, 초반 득점 응집력이 중요하게 작용하고 있습니다. 결장자도 전력 누수로 이어질 수 있는 주요 자원이 섞여 있어, 경기 후반 운영에서 부담이 더 커질 수 있습니다."
+awayAnalysis: "토론토 블루제이즈는 2026시즌 최근 108경기에서 54승 1무 53패, 평균 득점 3.8을 기록하며 순위와는 달리 경기력의 밀도가 꽤 탄탄한 편입니다. 최근 10경기에서는 7승 3패, 평균 득점 5.4로 공격 흐름이 크게 살아나면서 리그순위 7위다운 반등세를 이어가고 있습니다. 시즌 득실도 575-609로 완전히 무너지지 않았고, 실점 관리가 완만하게 유지되는 가운데 타선이 한 번 터지면 흐름을 길게 가져가는 모습이 돋보입니다. 다만 주요 결장자가 여러 명이라 타선과 선발 운용의 폭은 예전보다 좁아진 상태로 보입니다. 그럼에도 최근 원정 포함 연승 흐름이 강하게 이어지고 있어, 현재 전력 체감은 시즌 순위보다 더 높게 평가됩니다."
+homePower: "홈에서 공격 템포가 붙으면 연속 득점이 나오는 구조임|득실 마이너스 폭이 커 수비 안정이 최대 과제임|중위권 득점력은 유지되나 실점 억제가 승패 갈림임|주요 결장 누적으로 후반 불펜 운용 부담이 커짐|강한 상대에도 홈 타선이 먼저 열리면 변수 만들 힘 있음"
+awayPower: "최근 타선 폭발로 원정에서도 득점 기대치가 높아짐|시즌 대비 최근 득점 상승 폭이 뚜렷함|득실 마이너스가 작아 경기 균형 감각이 검증됨|주요 결장 속에서도 경기 초반 주도권 확보력이 좋음|상승 흐름이 길어져 현재 우세 판단에 무게가 실림"
+h2h: '[{"date":"26.09.05","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"2-9"},{"date":"26.08.28","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"2-13","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828KCTO0-2026-08-28-toronto-blue-jays/"},{"date":"26.08.27","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827KCTO0-2026-08-27-toronto-blue-jays/"},{"date":"26.08.26","home":"토론토 블루제이즈","away":"캔자스시티 로열스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826KCTO0-2026-08-26-toronto-blue-jays/"}]'
+summary: "토론토 블루제이즈는 시즌 전력 자체도 캔자스시티 로열스보다 한 단계 위에 있고, 최근 흐름까지 더해지면서 경기의 무게중심을 가져가고 있습니다. 캔자스시티 로열스는 홈에서 득점을 만들 힘은 있지만 실점 억제가 흔들리는 장면이 많아, 강한 타선을 만났을 때 버티는 힘이 다소 아쉬워 보입니다. 반면 토론토 블루제이즈는 최근 득점 흐름이 살아 있고 수비 밸런스도 더 안정적이어서, 경기 후반으로 갈수록 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.06","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TOKC0-2026-09-06-kansas-city-royals/"},{"date":"26.09.04","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904FLKC0-2026-09-04-kansas-city-royals/"},{"date":"26.09.03","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903FLKC0-2026-09-03-kansas-city-royals/"},{"date":"26.09.02","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902FLKC0-2026-09-02-kansas-city-royals/"},{"date":"26.08.31","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"11-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831KCCL0-2026-08-31-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.09.06","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TOKC0-2026-09-06-kansas-city-royals/"},{"date":"26.09.04","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TOCL0-2026-09-04-cleveland-guardians/"},{"date":"26.09.03","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903TOCL0-2026-09-03-cleveland-guardians/"},{"date":"26.09.02","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902TOCL0-2026-09-02-cleveland-guardians/"},{"date":"26.08.31","home":"토론토 블루제이즈","away":"시애틀 매리너스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831SETO0-2026-08-31-toronto-blue-jays/"}]'
+injuryHome: "Jac Caglianone (통증)|Tony Gonsolin (수술)|Connor Seabold (근육 염좌)|Maikel Garcia (근육 염좌)|James McArthur (수술)"
+injuryAway: "Luis Urias (근육 염좌)|Patrick Corbin (근육 염좌)|Anthony Santander (수술)|Trey Yesavage (수술)|Jameson Taillon (15일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "토론토 블루제이즈"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 블루제이즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

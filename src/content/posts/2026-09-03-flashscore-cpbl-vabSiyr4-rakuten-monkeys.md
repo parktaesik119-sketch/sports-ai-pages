@@ -1,6 +1,6 @@
 ---
 title: "라쿠텐 몽키스 vs 웨이촨 드래곤스 경기분석·라인업·결장자·통계·승부예측 (9월 3일) | CPBL - 픽천국"
-date: 2026-09-03T10:35:00.000Z
+date: 2026-09-07T10:35:00.000Z
 description: "라쿠텐 몽키스 vs 웨이촨 드래곤스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
 slug: "analyze-flashscore-cpbl-vabSiyr4-2026-09-03-rakuten-monkeys"
 category: "baseball"
