@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.06","home":"마이애미 말린스","away":"시카�
 injuryHome: "Anthony Bender (골절)|Xavier Edwards (염좌)|Pete Fairbanks (신경 압박)|Max Meyer (근육 염좌)|Ronny Henriquez (수술)"
 injuryAway: "Jacob Webb (통증)|Shelby Miller (수술)|Edward Cabrera (찰과상)|Tyler Austin (수술)|Gavin Hollowell (염증)"
 homeLineup: "[\"선발투수 T. Phillips (4-6, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/41247.png\"]"
-awayLineup: "[\"선발투수 C. Holmes (6-6, 2.09) ERA 2.09|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
+awayLineup: "[\"선발투수 C. Holmes (6-6, 2.09) ERA 2.09|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\",\"1번 P. Crow-Armstrong (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png\",\"2번 S. Suzuki (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png\",\"3번 M. Busch (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42415.png\",\"4번 A. Bregman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34886.png\",\"5번 I. Happ (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/34945.png\",\"6번 N. Hoerner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41219.png\",\"7번 P. Ramirez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5012995.png\",\"8번 M. Conforto (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33711.png\",\"9번 C. Kelly (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32797.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
