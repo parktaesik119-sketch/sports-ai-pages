@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애�
 injuryHome: "Jac Caglianone (근육 염좌)|Tony Gonsolin (수술)|Connor Seabold (근육 염좌)|Maikel Garcia (근육 염좌)|James McArthur (수술)"
 injuryAway: "Geraldo Perdomo (타박상)|Corbin Burnes (수술)|Michael Soroka (염증)|Zac Gallen (염증)|Ryne Nelson (근육 염좌)"
 homeLineup: "[\"선발투수 N. Cameron (9-8, 4.08) ERA 4.08|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\"]"
-awayLineup: ''
+awayLineup: "[\"1번 G. Perdomo (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41355.png\",\"2번 K. Marte (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/32512.png\",\"3번 G. Moreno (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42464.png\",\"4번 N. Arenado (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/31261.png\",\"5번 L. Gurriel Jr. (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36040.png\",\"6번 I. Vargas (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32985.png\",\"7번 T. Tawa (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4345192.png\",\"8번 J. Lawlar (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4872649.png\",\"9번 R. Waldschmidt (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5129344.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
