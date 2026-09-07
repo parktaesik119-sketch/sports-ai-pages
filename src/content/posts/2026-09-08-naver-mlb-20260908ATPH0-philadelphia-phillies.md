@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 애틀랜타 브레이브스 경기분석·라인업·결장자·통계·승부예측 (9월 8일) | MLB - 픽천국"
+date: 2026-09-07T17:05:00.000Z
+description: "필라델피아 필리스 vs 애틀랜타 브레이브스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260908ATPH0-2026-09-08-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 최근 106경기에서 60승 2무 44패, 승률 .559, 평균 득점 4.6을 기록하며 리그 상위권 전력을 유지하고 있습니다. 최근 흐름은 10경기 6승 4패로 나쁘지 않지만, 같은 구간에서 득점 기복이 함께 보이고 있어 공격의 안정감은 다소 흔들리는 모습입니다. 특히 강한 타선으로 한 번 흐름을 타면 다득점도 가능하지만, 득점이 0점이나 2점대로 묶이는 경기에서는 답답함이 드러나고 있습니다. 홈에서는 전체적으로 버티는 힘이 있으나, 최근 맞대결에서는 애틀랜타 브레이브스를 상대로 실점이 이어지며 상성 부담도 함께 나타나고 있습니다. 부상자 공백까지 겹친 상황이라, 초반 실점을 얼마나 줄이느냐가 경기 흐름을 좌우할 가능성이 높아 보입니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 최근 106경기에서 59승 2무 45패, 승률 .594, 평균 득점 4.3을 기록하며 필라델피아 필리스보다 더 단단한 전력 밸런스를 보여주고 있습니다. 최근 10경기 7승 3패 흐름도 좋고, 같은 구간에서 득점이 꾸준히 이어져 공격의 연결감이 살아 있는 모습입니다. 특히 상대전적에서 우세를 이어가고 있어, 필라델피아 필리스 상대로는 심리적 우위까지 함께 가져가고 있습니다. 다만 득실 차가 매우 큰 팀답게 안정적인 경기 운영이 강점인 반면, 몇 차례 실점이 길게 이어지면 흐름이 흔들릴 수 있는 점은 주의할 부분입니다. 부상자 이탈이 적지 않지만, 최근 원정에서도 점수를 만들어내는 힘이 유지되고 있어 현재 전력은 여전히 높은 평가를 받기 충분합니다."
+homePower: "득점은 나오지만 들쭉날쭉한 편임|불펜보다 초반 실점 억제가 핵심임|애틀랜타 상대로 장타 효율이 관건임|홈에서 반등 시 득점 폭발력 살아남|장기 결장 여파로 라인업 깊이 약화됨"
+awayPower: "최근 원정 득점 생산이 꾸준함|필라델피아 상대로 상성 우위가 뚜렷함|큰 득실 차로 경기 주도력 검증됨|주축 결장에도 공격 연결감 유지됨|실점 관리만 되면 승리 기대치 높음"
+h2h: '[{"date":"26.09.07","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ATPH0-2026-09-07-philadelphia-phillies/"},{"date":"26.09.06","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ATPH0-2026-09-06-philadelphia-phillies/"},{"date":"26.09.05","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ATPH0-2026-09-05-philadelphia-phillies/"},{"date":"26.04.27","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-178426-2026-04-27-atlanta-braves/"},{"date":"26.04.26","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"5-8","link":"https://pick79.com/posts/detail/analyze-178415-2026-04-26-atlanta-braves/"}]'
+summary: "애틀랜타 브레이브스는 2026시즌 리그순위 3위로 필라델피아 필리스의 리그순위 5위보다 앞서 있고, 승률과 득실에서도 더 안정적인 우위를 보여주고 있습니다. 필라델피아 필리스는 홈에서 경쟁력을 유지하고 있지만 최근 흐름에서 득점 기복이 나타나고, 애틀랜타 브레이브스는 원정에서도 점수를 꾸준히 쌓으면서 경기 주도권을 가져가는 모습이 뚜렷합니다. 상대전적에서도 애틀랜타 브레이브스가 확실히 앞서 있어, 이번 경기는 전력 균형과 상성까지 함께 고려하면 원정팀 쪽이 더 우세하게 보입니다. 전체적으로는 애틀랜타 브레이브스가 공격 연결과 실점 관리에서 조금 더 나은 흐름을 이어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.07","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ATPH0-2026-09-07-philadelphia-phillies/"},{"date":"26.09.06","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ATPH0-2026-09-06-philadelphia-phillies/"},{"date":"26.09.05","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ATPH0-2026-09-05-philadelphia-phillies/"},{"date":"26.09.03","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903PHAZ0-2026-09-03-arizona-diamondbacks/"},{"date":"26.09.01","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901PHAZ0-2026-09-01-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.09.07","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ATPH0-2026-09-07-philadelphia-phillies/"},{"date":"26.09.06","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ATPH0-2026-09-06-philadelphia-phillies/"},{"date":"26.09.05","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ATPH0-2026-09-05-philadelphia-phillies/"},{"date":"26.09.03","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903ATMO0-2026-09-03-washington-nationals/"},{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals/"}]'
+injuryHome: "Tanner Banks (염좌)|Caleb Kilian (염좌)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
+injuryAway: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (출전 정지)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 브레이브스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 브레이브스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

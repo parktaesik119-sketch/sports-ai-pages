@@ -1,0 +1,37 @@
+---
+title: "선덜랜드 vs 헐 시티 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | EFL Cup - 픽천국"
+date: 2026-09-08T18:45:00.000Z
+description: "선덜랜드 vs 헐 시티 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6099331-2026-09-09-sunderland"
+category: "soccer"
+country: "잉글랜드"
+league: "EFL Cup"
+homeTeam: "선덜랜드"
+awayTeam: "헐 시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8667.png"
+homeAnalysis: "선덜랜드는 2026시즌 최근 15경기 8승 3무 4패, 평균 득점 1.6을 기록하며 전체적으로 안정적인 전력을 보여주고 있습니다. 최근 흐름을 보면 브리스톨 시티전 4득점 승리와 풀럼전 무실점 승리처럼 공격과 수비가 함께 살아난 경기들이 이어져 자신감이 높은 편입니다. 에이스 자원이 빠진 상황에서도 그라니트 자카, 엔조 르 페, 브라이언 브로베이 중심의 전개가 유지되면서 찬스 생산력은 크게 흔들리지 않고 있습니다. 홈에서는 경기를 주도하는 장면이 자주 나오고, 전방 압박 뒤 빠른 마무리로 흐름을 가져오는 모습이 돋보입니다. 다만 상대가 수비 숫자를 두텁게 두는 경기에서는 마무리의 정교함이 승부를 가를 가능성이 있습니다."
+awayAnalysis: "헐 시티는 2026시즌 최근 12경기 4승 6무 2패, 평균 득점 0.8로 결과를 쉽게 잃지 않는 대신 득점 생산은 다소 답답한 흐름입니다. 최근 아스톤 빌라전 무실점 무승부와 코번트리전 1득점 승리처럼 실리적인 운영은 잘 보여주고 있지만, 공격 쪽 폭발력은 제한적입니다. 조 겔하르트가 빠지고 다수의 주요 결장자가 겹치면서 올라오는 압박을 버텨내는 힘은 있어도 전방 연결의 날카로움은 더 약해 보입니다. 세미 아자이와 존 에간 중심의 5백 운영은 수비 안정감에는 도움이 되지만, 중원에서 공을 오래 소유하며 경기를 풀어내는 장면은 많지 않습니다. 모 맥버니와 모하메드 벨루미가 버티는 직선적인 공격은 위협적일 수 있으나, 전체적으로는 적은 기회에서 효율을 끌어내야 하는 구도입니다."
+homePower: "브라이언 브로베이 중심 마무리 효율이 승부 변수임|자카-르 페 조합으로 중원 장악감이 뚜렷함|홈 주도권이 살아나면 상대 5백도 흔들릴 여지 있음|하비브 디아라 공백은 활동량보다 연결성 손실임|최근 실점 억제가 좋아져 경기 운영 안정감이 높음"
+awayPower: "다수 결장으로 전방 완성도 저하가 뚜렷함|세미 아자이-존 에간 축으로 수비 버팀목은 견고함|무실점 경기 비중이 높아 저득점 승부에 강함|모 맥버니 전개가 살아야 역습 위력이 커짐|원정에서 실리 위주 운영이 뚜렷한 팀임"
+h2h: '[{"date":"25.07.30","home":"헐 시티","away":"선덜랜드","score":"2-1"},{"date":"25.02.22","home":"선덜랜드","away":"헐 시티","score":"0-1"},{"date":"24.10.20","home":"헐 시티","away":"선덜랜드","score":"0-1"},{"date":"24.01.20","home":"선덜랜드","away":"헐 시티","score":"0-1"},{"date":"23.12.27","home":"헐 시티","away":"선덜랜드","score":"0-1"}]'
+summary: "선덜랜드는 2026시즌 최근 15경기 8승 3무 4패에 평균 득점 1.6으로, 헐 시티의 최근 12경기 4승 6무 2패와 평균 득점 0.8보다 전체 전력과 공격 효율에서 한발 앞서 있습니다. 특히 선덜랜드는 최근 들어 득점과 실점 관리가 함께 좋아졌고, 헐 시티는 무실점 경기를 만들 수는 있어도 공격 생산이 낮아 주도권 싸움에서 밀릴 가능성이 있습니다. 맞대결에서는 헐 시티가 최근 한 번 더 이겼지만, 전반적인 전력 흐름과 홈에서의 안정감을 감안하면 선덜랜드가 더 우세한 경기로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Habib Diarra (햄스트링 부상)"
+injuryAway: "Joe Gelhardt (발목 부상)|Jack Butland (부상)|Charlie Hughes (사타구니 부상)|Darko Gyabi (사타구니 부상)|Eliot Matazo (십자 인대 부상)|Óscar Zambrano (햄스트링 부상)"
+homeLineup: '["Robin Roefs (GK)|https://images.fotmob.com/image_resources/playerimages/1125720.png","Nordi Mukiele (DF)|https://images.fotmob.com/image_resources/playerimages/602304.png","Kevin Danso (DF)|https://images.fotmob.com/image_resources/playerimages/754126.png","Daniel Ballard (DF)|https://images.fotmob.com/image_resources/playerimages/974268.png","Reinildo (DF)|https://images.fotmob.com/image_resources/playerimages/600524.png","Granit Xhaka (MF)|https://images.fotmob.com/image_resources/playerimages/207236.png","Noah Sadiki (MF)|https://images.fotmob.com/image_resources/playerimages/1359649.png","Thomas Meunier (DF)|https://images.fotmob.com/image_resources/playerimages/277771.png","Enzo Le Fée (MF)|https://images.fotmob.com/image_resources/playerimages/1049999.png","Nilson Angulo (FW)|https://images.fotmob.com/image_resources/playerimages/1287010.png","Brian Brobbey (FW)|https://images.fotmob.com/image_resources/playerimages/940446.png"]'
+awayLineup: '["Konstantinos Tzolakis (GK)|https://images.fotmob.com/image_resources/playerimages/1072068.png","Semi Ajayi (DF)|https://images.fotmob.com/image_resources/playerimages/410836.png","John Egan (DF)|https://images.fotmob.com/image_resources/playerimages/295062.png","Nobel Mendy (DF)|https://images.fotmob.com/image_resources/playerimages/1428427.png","Lewie Coyle (DF)|https://images.fotmob.com/image_resources/playerimages/709148.png","Ryan Giles (DF)|https://images.fotmob.com/image_resources/playerimages/933635.png","Mohamed Belloumi (FW)|https://images.fotmob.com/image_resources/playerimages/1231090.png","Regan Slater (MF)|https://images.fotmob.com/image_resources/playerimages/807930.png","Lucas Gourna-Douath (MF)|https://images.fotmob.com/image_resources/playerimages/1137106.png","Elliot Stroud (MF)|https://images.fotmob.com/image_resources/playerimages/1272349.png","Oli McBurnie (FW)|https://images.fotmob.com/image_resources/playerimages/509151.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "5-4-1"
+homeCoach: "Régis Le Bris|https://images.fotmob.com/image_resources/playerimages/1381583.png"
+awayCoach: "Sergej Jakirović|https://images.fotmob.com/image_resources/playerimages/9012.png"
+pickWinTeam: "선덜랜드"
+pickWinResult: "승"
+pickHandicapTeam: "선덜랜드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

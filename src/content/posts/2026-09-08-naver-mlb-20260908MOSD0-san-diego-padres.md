@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 워싱턴 내셔널스 경기분석·라인업·결장자·통계·승부예측 (9월 8일) | MLB - 픽천국"
+date: 2026-09-07T21:10:00.000Z
+description: "샌디에이고 파드리스 vs 워싱턴 내셔널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260908MOSD0-2026-09-08-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 최근 92경기에서 45승 1무 46패, 평균 득점 4.2를 기록하며 승패 균형이 거의 맞는 흐름을 보이고 있습니다. 최근에는 전반적으로 기복이 있었지만, 직전 경기에서 승리를 챙기며 공격의 응집력을 다시 살리는 모습이 보이고 있습니다. 다만 최근 10경기 평균 득점이 3.5로 시즌 전체 흐름보다 낮아, 타선의 폭발력보다는 득점 기복이 더 눈에 띄고 있습니다. 홈에서는 비교적 안정적으로 경기를 풀어갈 수 있는 팀이지만, 실점 억제력이 흔들릴 때는 경기 주도권을 내주는 장면도 적지 않습니다. 특히 핵심 결장자가 많은 상황이라 중후반 운영에서 힘의 차이가 드러날 가능성도 있습니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 최근 109경기에서 52승 2무 55패, 평균 득점 4.8로 공격 생산성 자체는 홈팀보다 한 단계 위에 있습니다. 최근 10경기에서도 평균 득점 4.7을 유지하며, 전반적인 전력 흐름이 완전히 무너지지 않고 버티는 모습이 나타나고 있습니다. 다만 직전 원정 2연패처럼 강한 상대를 만났을 때는 수비 집중력이 흔들리며 실점이 늘어나는 장면이 확인되고 있습니다. 리그순위는 낮은 편이지만 최근에는 반등과 주춤이 반복되면서, 공격은 살아 있으나 경기 마무리에서 안정감이 더 필요한 상태입니다. 부상 공백이 길게 이어지는 선수들이 있어, 마운드 운영과 뒷문 관리가 이번 경기에서도 중요하게 작용할 것으로 보입니다."
+homePower: "시즌 승패 균형이 무너져 있지 않아 기본 경쟁력은 유지됨|최근 득점 저하가 보여 타선 기복이 변수로 작용함|홈 경기에서는 경기 흐름을 붙잡는 운영력이 살아 있음|주요 결장자 누적으로 불펜 깊이가 얇아진 모습임|상대의 공격형 전력과 맞붙을 때 실점 억제력이 관건임"
+awayPower: "시즌 득점 생산은 홈팀보다 한 수 위로 평가됨|최근 원정 연패에도 타선 응집력은 완전히 꺼지지 않음|리그순위보다 공격 밸런스가 더 설득력 있게 유지됨|장기 결장자 영향으로 마운드 안정성은 흔들림이 있음|상대전에서 이미 우세를 잡은 상성이 심리적 강점임"
+h2h: '[{"date":"26.06.01","home":"워싱턴 내셔널스","away":"샌디에이고 파드리스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-178893-2026-06-01-washington-nationals/"},{"date":"26.05.31","home":"워싱턴 내셔널스","away":"샌디에이고 파드리스","score":"9-4","link":"https://pick79.com/posts/detail/analyze-178873-2026-05-31-washington-nationals/"},{"date":"26.05.30","home":"워싱턴 내셔널스","away":"샌디에이고 파드리스","score":"5-7","link":"https://pick79.com/posts/detail/analyze-178857-2026-05-30-washington-nationals/"}]'
+summary: "워싱턴 내셔널스는 시즌 득점 생산력과 최근 타격 흐름에서 샌디에이고 파드리스보다 조금 더 앞서 있는 모습입니다. 샌디에이고 파드리스는 홈에서 버티는 힘은 있지만 최근 득점 기복과 결장자 부담이 겹치면서 안정감이 다소 떨어져 보입니다. 상대전적에서도 워싱턴 내셔널스가 앞서 있어, 이번 경기는 원정팀이 공격 흐름을 앞세워 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.07","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907NYSD0-2026-09-07-san-diego-padres/"},{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"},{"date":"26.09.03","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SDCI0-2026-09-03-cincinnati-reds/"},{"date":"26.09.02","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SDCI0-2026-09-02-cincinnati-reds/"},{"date":"26.09.01","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901SDCI0-2026-09-01-cincinnati-reds/"}]'
+awayRecent: '[{"date":"26.09.06","home":"LA 다저스","away":"워싱턴 내셔널스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MOLA0-2026-09-06-los-angeles-dodgers/"},{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MOLA0-2026-09-05-los-angeles-dodgers/"},{"date":"26.09.03","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903ATMO0-2026-09-03-washington-nationals/"},{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals/"},{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"}]'
+injuryHome: "Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Nick Pivetta (부상)|Miguel Andujar (골절)"
+injuryAway: "Richard Lovelady (부상)|Drew Millas (골절)|DJ Herz (부상)|PJ Poulin (부상)|Connelly Early (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
