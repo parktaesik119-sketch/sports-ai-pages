@@ -2008,6 +2008,7 @@ const TEAM_NAME_MAP = {
   "Glenavon FC": "글레나본",
   "Warrenpoint Town": "워렌포인트 타운",
   "Maritimo": "마리타무",
+  "Club Brugge": "클리프 브뤼허",
   
   //중국축구
   "Changchun Yatai": "창춘 야타이",
