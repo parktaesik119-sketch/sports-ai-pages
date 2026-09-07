@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.07","home":"마이애미 말린스","away":"시카�
 injuryHome: "Rob Zastryzny (염좌)|Bryse Wilson (염좌)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
 injuryAway: "Ian Happ (통증)|Edward Cabrera (찰과상)|Shelby Miller (수술)|Tyler Austin (수술)|Gavin Hollowell (염증)"
 homeLineup: "[\"선발투수 R. Gasser (4-5, 4.57) ERA 4.57|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
-awayLineup: "[\"선발투수 M. Boyd (8-3, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (8-3, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\",\"1번 P. Crow-Armstrong (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png\",\"2번 S. Suzuki (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png\",\"3번 A. Bregman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34886.png\",\"4번 T. Taylor (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/32783.png\",\"5번 N. Hoerner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41219.png\",\"6번 M. Shaw (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4867667.png\",\"7번 C. Kelly (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32797.png\",\"8번 B.J. Murray Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4425432.png\",\"9번 P. Ramirez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5012995.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
