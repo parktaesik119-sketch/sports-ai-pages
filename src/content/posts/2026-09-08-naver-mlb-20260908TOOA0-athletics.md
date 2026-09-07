@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.07","home":"시애틀 매리너스","away":"애슬�
 awayRecent: '[{"date":"26.09.07","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TOKC0-2026-09-07-kansas-city-royals/"},{"date":"26.09.06","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TOKC0-2026-09-06-kansas-city-royals/"},{"date":"26.09.04","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TOCL0-2026-09-04-cleveland-guardians/"},{"date":"26.09.03","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903TOCL0-2026-09-03-cleveland-guardians/"},{"date":"26.09.02","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902TOCL0-2026-09-02-cleveland-guardians/"}]'
 injuryHome: "Tommy White (통증)|Brooks Kriske (신경 압박)|J.T. Ginn (통증)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)"
 injuryAway: "Luis Urias (염좌)|Patrick Corbin (염좌)|Anthony Santander (수술)|Trey Yesavage (수술)|Jameson Taillon (부상)"
-homeLineup: ''
+homeLineup: "[\"선발투수 J. Perkins (3-10, 6.50) ERA 6.50|https://a.espncdn.com/i/headshots/mlb/players/full/4418686.png\"]"
 awayLineup: "[\"선발투수 J. Soriano (11-7, 3.52) ERA 3.52|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
 homeFormation: ""
 awayFormation: ""
