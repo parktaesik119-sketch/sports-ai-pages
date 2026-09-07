@@ -899,6 +899,9 @@ const TEAM_NAME_MAP = {
   "Nizhnekamsk": "니즈네캄스크",
   "Kunlun": "쿤룬",
   "Vladivostok": "블라디보스토크",
+  "Barys Astana": "바리스 아스타나",
+  "CSKA Moscow": "CSKA 모스크바",
+  "Sochi": "소치",
 
 
   //캐나다 축구팀
@@ -2006,6 +2009,7 @@ const TEAM_NAME_MAP = {
   "Glenavon FC": "글레나본",
   "Warrenpoint Town": "워렌포인트 타운",
   "Maritimo": "마리타무",
+  "Club Brugge": "클리프 브뤼허",
   
   //중국축구
   "Changchun Yatai": "창춘 야타이",
