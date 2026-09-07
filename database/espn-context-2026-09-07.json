@@ -2525,13 +2525,13 @@
           "detail": "Inflammation"
         },
         {
-          "name": "Willson Contreras",
-          "status": "10-Day-IL",
+          "name": "Johan Oviedo",
+          "status": "60-Day-IL",
           "detail": "Strain"
         },
         {
-          "name": "Johan Oviedo",
-          "status": "60-Day-IL",
+          "name": "Willson Contreras",
+          "status": "10-Day-IL",
           "detail": "Strain"
         },
         {
@@ -3222,6 +3222,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Nick Pivetta",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
           "name": "Gavin Sheets",
           "status": "10-Day-IL",
           "detail": "Sprain"
@@ -3235,11 +3240,6 @@
           "name": "Lucas Giolito",
           "status": "60-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Nick Pivetta",
-          "status": "60-Day-IL",
-          "detail": "Strain"
         },
         {
           "name": "Miguel Andujar",
@@ -3460,14 +3460,14 @@
           "detail": "Inflammation"
         },
         {
-          "name": "Roki Sasaki",
-          "status": "15-Day-IL",
-          "detail": "Abrasion"
-        },
-        {
           "name": "Kris Bubic",
           "status": "60-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Roki Sasaki",
+          "status": "15-Day-IL",
+          "detail": "Abrasion"
         },
         {
           "name": "Dalton Rushing",
@@ -3506,23 +3506,23 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "85",
+        "wins": "86",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".599",
-        "gamesBehind": "2",
-        "pointsFor": "698",
-        "pointsAgainst": "548"
+        "winPercent": ".601",
+        "gamesBehind": "1.5",
+        "pointsFor": "705",
+        "pointsAgainst": "553"
       },
       "away": {
         "rank": "12",
         "wins": "67",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".465",
-        "gamesBehind": "21",
-        "pointsFor": "743",
-        "pointsAgainst": "732"
+        "winPercent": ".462",
+        "gamesBehind": "21.5",
+        "pointsFor": "748",
+        "pointsAgainst": "739"
       }
     },
     "h2h": {
@@ -4200,13 +4200,13 @@
           "detail": "Inflammation"
         },
         {
-          "name": "Willson Contreras",
-          "status": "10-Day-IL",
+          "name": "Johan Oviedo",
+          "status": "60-Day-IL",
           "detail": "Strain"
         },
         {
-          "name": "Johan Oviedo",
-          "status": "60-Day-IL",
+          "name": "Willson Contreras",
+          "status": "10-Day-IL",
           "detail": "Strain"
         },
         {
@@ -5326,6 +5326,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Nick Pivetta",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
           "name": "Gavin Sheets",
           "status": "10-Day-IL",
           "detail": "Sprain"
@@ -5339,11 +5344,6 @@
           "name": "Lucas Giolito",
           "status": "60-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Nick Pivetta",
-          "status": "60-Day-IL",
-          "detail": "Strain"
         },
         {
           "name": "Miguel Andujar",
@@ -5802,14 +5802,14 @@
           "detail": "Inflammation"
         },
         {
-          "name": "Roki Sasaki",
-          "status": "15-Day-IL",
-          "detail": "Abrasion"
-        },
-        {
           "name": "Kris Bubic",
           "status": "60-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Roki Sasaki",
+          "status": "15-Day-IL",
+          "detail": "Abrasion"
         },
         {
           "name": "Dalton Rushing",
@@ -5848,28 +5848,28 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "85",
+        "wins": "86",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".599",
-        "gamesBehind": "2",
-        "pointsFor": "698",
-        "pointsAgainst": "548"
+        "winPercent": ".601",
+        "gamesBehind": "1.5",
+        "pointsFor": "705",
+        "pointsAgainst": "553"
       },
       "away": {
         "rank": "12",
         "wins": "67",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".465",
-        "gamesBehind": "21",
-        "pointsFor": "743",
-        "pointsAgainst": "732"
+        "winPercent": ".462",
+        "gamesBehind": "21.5",
+        "pointsFor": "748",
+        "pointsAgainst": "739"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAD lead series 5-0",
+      "text": "LAD win series 6-0",
       "totalGames": 5,
       "games": [
         {
@@ -6276,13 +6276,13 @@
           "detail": "Inflammation"
         },
         {
-          "name": "Willson Contreras",
-          "status": "10-Day-IL",
+          "name": "Johan Oviedo",
+          "status": "60-Day-IL",
           "detail": "Strain"
         },
         {
-          "name": "Johan Oviedo",
-          "status": "60-Day-IL",
+          "name": "Willson Contreras",
+          "status": "10-Day-IL",
           "detail": "Strain"
         },
         {
@@ -6941,6 +6941,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Nick Pivetta",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
           "name": "Gavin Sheets",
           "status": "10-Day-IL",
           "detail": "Sprain"
@@ -6954,11 +6959,6 @@
           "name": "Lucas Giolito",
           "status": "60-Day-IL",
           "detail": "Inflammation"
-        },
-        {
-          "name": "Nick Pivetta",
-          "status": "60-Day-IL",
-          "detail": "Strain"
         },
         {
           "name": "Miguel Andujar",
@@ -7008,12 +7008,12 @@
       "away": {
         "rank": "12",
         "wins": "67",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".465",
-        "gamesBehind": "21",
-        "pointsFor": "743",
-        "pointsAgainst": "732"
+        "winPercent": ".462",
+        "gamesBehind": "21.5",
+        "pointsFor": "748",
+        "pointsAgainst": "739"
       }
     },
     "h2h": {
@@ -7157,14 +7157,14 @@
           "detail": "Inflammation"
         },
         {
-          "name": "Roki Sasaki",
-          "status": "15-Day-IL",
-          "detail": "Abrasion"
-        },
-        {
           "name": "Kris Bubic",
           "status": "60-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Roki Sasaki",
+          "status": "15-Day-IL",
+          "detail": "Abrasion"
         },
         {
           "name": "Dalton Rushing",
@@ -7203,13 +7203,13 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "85",
+        "wins": "86",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".599",
-        "gamesBehind": "2",
-        "pointsFor": "698",
-        "pointsAgainst": "548"
+        "winPercent": ".601",
+        "gamesBehind": "1.5",
+        "pointsFor": "705",
+        "pointsAgainst": "553"
       },
       "away": {
         "rank": "11",

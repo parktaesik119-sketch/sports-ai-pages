@@ -1,0 +1,37 @@
+---
+title: "한화 이글스 vs 두산 베어스 경기분석·라인업·결장자·통계·승부예측 (9월 8일) | KBO - 픽천국"
+date: 2026-09-08T09:30:00.000Z
+description: "한화 이글스 vs 두산 베어스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260908OBHH02026-2026-09-08-hanwha-eagles"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "한화 이글스"
+awayTeam: "두산 베어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+homeAnalysis: "한화 이글스는 2026시즌 95경기에서 40승 3무 52패, 평균 득점 5.7로 기록되어 있으며 시즌 전체 흐름만 보면 공격 생산력은 준수하지만 승패 균형은 다소 흔들리고 있습니다. 최근에는 득점 폭발이 자주 나오고 있어 타선 감각은 살아 있는 모습이지만, 실점이 함께 늘어나는 경기들도 적지 않아 경기 운영의 안정감은 더 필요해 보입니다. 홈에서의 전개는 강한 타격을 앞세워 분위기를 끌어올릴 때 위력이 크고, 문현빈과 강백호, 노시환, 페라자로 이어지는 중심 타선의 장타 기대치가 특히 돋보입니다. 이번 경기 선발 류현진은 평균자책점 3.91과 WHIP 1.20, 퀄리티스타트 9회로 버티는 힘이 분명하고, 체인지업과 커터를 섞는 완급 조절이 강점으로 보입니다. 예상 라인업도 상위 타순과 중심 타순의 생산성이 분명해 보여, 초반 득점만 잘 연결되면 흐름을 가져갈 가능성이 높아 보입니다."
+awayAnalysis: "두산 베어스는 2026시즌 97경기에서 51승 3무 43패, 평균 득점 4.7로 기록되어 있으며 전체 성적만 놓고 보면 홈팀보다 시즌 경쟁력은 조금 앞서 있습니다. 다만 최근에는 실점 억제가 흔들린 경기와 답답한 빈타 경기가 함께 나타나면서 전력의 일관성은 다소 기복이 있어 보입니다. 그래도 박찬호와 김민석, 박준순으로 이어지는 상위 타순은 출루와 연결 능력이 있고, 정수빈의 주루와 수비 가담도 경기 흐름을 살리는 데 도움이 됩니다. 선발 최승용은 평균자책점 5.74, WHIP 1.55, 퀄리티스타트 3회로 선발 안정감이 류현진보다 떨어지는 편이며, 직구와 커브, 슬라이더를 섞지만 긴 이닝을 단단하게 버티는 힘은 아쉬움이 있습니다. 원정에서는 타선이 먼저 응답해 주지 않으면 경기 후반으로 갈수록 부담이 커질 수 있어 보입니다."
+homePower: "류현진의 완급 조절이 초반 흐름을 안정시키는 축임|문현빈-강백호-노시환 중심의 장타 기대치 높음|페라자 포함 중심 타선은 한 번 붙으면 연쇄 압박 가능함|상위 타순과 하위 타순의 격차가 비교적 뚜렷함|홈에서 화력 우세가 살아나면 경기 주도권 확보 가능함"
+awayPower: "최승용은 장기 이닝보다 단기 버티기에 가까움|박찬호-김민석 상위 타순이 출루 출발점임|박준순이 연결되면 득점 루트가 단순해지지 않음|중심 타선의 폭발력보다 분산 득점이 현실적임|원정에서는 수비와 주루 집중도가 더 중요해 보임"
+h2h: '[{"date":"26.08.13","home":"두산 베어스","away":"한화 이글스","score":"9-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813HHOB02026-2026-08-13-doosan-bears/"},{"date":"26.08.12","home":"두산 베어스","away":"한화 이글스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812HHOB02026-2026-08-12-doosan-bears/"},{"date":"26.08.11","home":"두산 베어스","away":"한화 이글스","score":"6-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811HHOB02026-2026-08-11-doosan-bears/"},{"date":"26.06.25","home":"한화 이글스","away":"두산 베어스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-181789-2026-06-25-hanwha-eagles/"},{"date":"26.06.24","home":"한화 이글스","away":"두산 베어스","score":"2-7","link":"https://pick79.com/posts/detail/analyze-181782-2026-06-24-hanwha-eagles/"}]'
+summary: "한화 이글스는 시즌 전체 성적에서 기복이 있었지만 평균 득점 5.7을 바탕으로 공격 전개가 살아 있는 팀이고, 두산 베어스는 평균 득점 4.7로 화력 면에서는 상대적으로 한 단계 아래에 있습니다. 선발 매치업도 류현진이 평균자책점 3.91과 WHIP 1.20으로 우세를 보이는 반면, 최승용은 평균자책점 5.74와 WHIP 1.55로 버티는 힘이 약해 보입니다. 최근 맞대결에서도 한화 이글스가 홈에서 한 차례 승리를 챙겼고, 전체적으로는 중심 타선의 응집력과 선발 안정감이 더 잘 맞물리는 쪽이 한화 이글스입니다. 이런 흐름을 종합하면 한화 이글스가 경기 주도권을 잡을 가능성이 더 높아 보입니다."
+homeRecent: '[{"date":"26.09.06","home":"롯데 자이언츠","away":"한화 이글스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906HHLT02026-2026-09-06-lotte-giants/"},{"date":"26.09.05","home":"롯데 자이언츠","away":"한화 이글스","score":"6-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905HHLT02026-2026-09-05-lotte-giants/"},{"date":"26.09.04","home":"롯데 자이언츠","away":"한화 이글스","score":"4-14","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904HHLT02026-2026-09-04-lotte-giants/"},{"date":"26.09.03","home":"KT 위즈","away":"한화 이글스","score":"13-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903HHKT02026-2026-09-03-kt-wiz-suwon/"},{"date":"26.09.02","home":"KT 위즈","away":"한화 이글스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902HHKT02026-2026-09-02-kt-wiz-suwon/"}]'
+awayRecent: '[{"date":"26.09.06","home":"SSG 랜더스","away":"두산 베어스","score":"9-16","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906OBSK02026-2026-09-06-ssg-landers/"},{"date":"26.09.05","home":"SSG 랜더스","away":"두산 베어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905OBSK02026-2026-09-05-ssg-landers/"},{"date":"26.09.04","home":"SSG 랜더스","away":"두산 베어스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904OBSK02026-2026-09-04-ssg-landers/"},{"date":"26.09.03","home":"두산 베어스","away":"LG 트윈스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903LGOB02026-2026-09-03-doosan-bears/"},{"date":"26.09.02","home":"두산 베어스","away":"LG 트윈스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902LGOB02026-2026-09-02-doosan-bears/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "한화 이글스"
+pickWinResult: "승"
+pickHandicapTeam: "한화 이글스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

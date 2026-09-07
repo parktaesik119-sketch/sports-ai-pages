@@ -8017,8 +8017,8 @@
     "away": "Monterrey",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6618.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7849.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5832559",
@@ -8173,8 +8173,8 @@
     "away": "UDG",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162404.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/177535.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5882278",
@@ -8225,8 +8225,8 @@
     "away": "Santos Laguna (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980709.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6147405",
@@ -8251,8 +8251,8 @@
     "away": "Genesis FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/655719.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1512967.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5861245",
@@ -8381,8 +8381,8 @@
     "away": "Atlético Tucumán",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10080.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/161727.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-6050467",
@@ -8667,8 +8667,8 @@
     "away": "Houston Dash (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/728922.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/521233.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5161632",
@@ -8680,8 +8680,8 @@
     "away": "San Diego Wave FC (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/433031.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1335917.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5847169",
@@ -9083,8 +9083,8 @@
     "away": "Sporting FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49728.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/776638.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5883240",
@@ -10474,8 +10474,8 @@
     "away": "Tigres FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193028.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193030.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000019037",
@@ -10513,8 +10513,8 @@
     "away": "Blooming",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/164353.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49678.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000013221",
@@ -10643,8 +10643,8 @@
     "away": "Al Markhiya",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582503.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582508.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000018605",
@@ -10682,8 +10682,8 @@
     "away": "Barcelona SC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6608.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6453.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000009103",
@@ -10695,8 +10695,8 @@
     "away": "Libertad",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4144.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1345405.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5103619",
@@ -12532,149 +12532,6 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-6106404",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Champions League",
-    "date": "2026-09-08T16:45:00.000Z",
-    "home": "AEK Athens",
-    "away": "LASK",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8563.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9977.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6106295",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Champions League",
-    "date": "2026-09-08T16:45:00.000Z",
-    "home": "Club Brugge",
-    "away": "Aston Villa",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8342.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6106272",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Champions League",
-    "date": "2026-09-08T19:00:00.000Z",
-    "home": "Dortmund",
-    "away": "Villarreal",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6106286",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Champions League",
-    "date": "2026-09-08T19:00:00.000Z",
-    "home": "FC Porto",
-    "away": "Man City",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9773.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6106311",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Champions League",
-    "date": "2026-09-08T19:00:00.000Z",
-    "home": "Lille",
-    "away": "Real Betis",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6106242",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Champions League",
-    "date": "2026-09-08T19:00:00.000Z",
-    "home": "Real Madrid",
-    "away": "Inter",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6099334",
-    "sport": "soccer",
-    "country": "England",
-    "league": "EFL Cup",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Bournemouth",
-    "away": "Lincoln",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8430.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6099328",
-    "sport": "soccer",
-    "country": "England",
-    "league": "EFL Cup",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Crystal Palace",
-    "away": "Middlesbrough",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8549.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6099339",
-    "sport": "soccer",
-    "country": "England",
-    "league": "EFL Cup",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Leyton Orient",
-    "away": "Bradford",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8351.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8484.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6099331",
-    "sport": "soccer",
-    "country": "England",
-    "league": "EFL Cup",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Sunderland",
-    "away": "Hull",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8667.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6099336",
-    "sport": "soccer",
-    "country": "England",
-    "league": "EFL Cup",
-    "date": "2026-09-08T19:00:00.000Z",
-    "home": "Millwall",
-    "away": "Newcastle",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10004.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-5796349",
     "sport": "soccer",
     "country": "Montenegro",
@@ -12961,84 +12818,6 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-5836814",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Championship",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Blackburn",
-    "away": "Sheff Utd",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8655.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5836817",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Championship",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Cardiff",
-    "away": "Stoke",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8344.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10194.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5836819",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Championship",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Southampton",
-    "away": "Swansea",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10003.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5836820",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Championship",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Watford",
-    "away": "Preston",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8411.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5836825",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Championship",
-    "date": "2026-09-08T18:45:00.000Z",
-    "home": "Wrexham",
-    "away": "Burnley",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9841.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5836815",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Championship",
-    "date": "2026-09-08T19:00:00.000Z",
-    "home": "Bolton",
-    "away": "West Ham",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8559.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-6144880",
     "sport": "soccer",
     "country": "Norway",
@@ -13074,45 +12853,6 @@
     "away": "Strømsgodset",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6540.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8180.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6015881",
-    "sport": "soccer",
-    "country": "England",
-    "league": "EFL Trophy Northern Grp. H",
-    "date": "2026-09-08T18:00:00.000Z",
-    "home": "Doncaster",
-    "away": "Huddersfield",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9903.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9796.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6016266",
-    "sport": "soccer",
-    "country": "England",
-    "league": "EFL Trophy Southern Grp. A",
-    "date": "2026-09-08T18:00:00.000Z",
-    "home": "Exeter",
-    "away": "Tottenham Hotspur U21",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9833.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/860802.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5781720",
-    "sport": "soccer",
-    "country": "Netherlands",
-    "league": "Eredivisie",
-    "date": "2026-09-08T16:45:00.000Z",
-    "home": "NEC Nijmegen",
-    "away": "Excelsior",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8464.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10218.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -14170,19 +13910,6 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-6140181",
-    "sport": "soccer",
-    "country": "Greece",
-    "league": "Super League 2",
-    "date": "2026-09-09T13:00:00.000Z",
-    "home": "PAOK Thessaloniki B",
-    "away": "Olympiacos B",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1303118.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1303117.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-5200648",
     "sport": "soccer",
     "country": "Uzbekistan",
@@ -14205,6 +13932,331 @@
     "away": "Surkhon-2011",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102145.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/316396.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5849641",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Women's World Cup U20 Grp. A",
+    "date": "2026-09-08T16:00:00.000Z",
+    "home": "Poland U20 (W)",
+    "away": "Mexico U20 (W)",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2057970.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1459885.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5849966",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Women's World Cup U20 Grp. B",
+    "date": "2026-09-08T16:00:00.000Z",
+    "home": "England U20 (W)",
+    "away": "Tanzania U20 (W)",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2058009.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2058007.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5849979",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Women's World Cup U20 Grp. C",
+    "date": "2026-09-09T13:00:00.000Z",
+    "home": "Ghana U20 (W)",
+    "away": "South Korea U20 (W)",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1459891.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1459887.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5852051",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Women's World Cup U20 Grp. D",
+    "date": "2026-09-09T13:00:00.000Z",
+    "home": "Italy U20 (W)",
+    "away": "New Zealand U20 (W)",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2058028.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1459889.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6099334",
+    "sport": "soccer",
+    "country": "England",
+    "league": "EFL Cup",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Bournemouth",
+    "away": "Lincoln",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8430.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6099328",
+    "sport": "soccer",
+    "country": "England",
+    "league": "EFL Cup",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Crystal Palace",
+    "away": "Middlesbrough",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8549.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6099339",
+    "sport": "soccer",
+    "country": "England",
+    "league": "EFL Cup",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Leyton Orient",
+    "away": "Bradford",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8351.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8484.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6099331",
+    "sport": "soccer",
+    "country": "England",
+    "league": "EFL Cup",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Sunderland",
+    "away": "Hull",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8667.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6099336",
+    "sport": "soccer",
+    "country": "England",
+    "league": "EFL Cup",
+    "date": "2026-09-08T19:00:00.000Z",
+    "home": "Millwall",
+    "away": "Newcastle",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10004.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6015881",
+    "sport": "soccer",
+    "country": "England",
+    "league": "EFL Trophy Northern Grp. H",
+    "date": "2026-09-08T18:00:00.000Z",
+    "home": "Doncaster",
+    "away": "Huddersfield",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9903.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9796.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6016266",
+    "sport": "soccer",
+    "country": "England",
+    "league": "EFL Trophy Southern Grp. A",
+    "date": "2026-09-08T18:00:00.000Z",
+    "home": "Exeter",
+    "away": "Tottenham Hotspur U21",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9833.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/860802.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836814",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Blackburn",
+    "away": "Sheff Utd",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8655.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836817",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Cardiff",
+    "away": "Stoke",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8344.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10194.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836819",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Southampton",
+    "away": "Swansea",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10003.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836820",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Watford",
+    "away": "Preston",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8411.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836825",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-09-08T18:45:00.000Z",
+    "home": "Wrexham",
+    "away": "Burnley",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9841.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836815",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-09-08T19:00:00.000Z",
+    "home": "Bolton",
+    "away": "West Ham",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8559.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6140181",
+    "sport": "soccer",
+    "country": "Greece",
+    "league": "Super League 2",
+    "date": "2026-09-09T13:00:00.000Z",
+    "home": "PAOK Thessaloniki B",
+    "away": "Olympiacos B",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1303118.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1303117.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106404",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-09-08T16:45:00.000Z",
+    "home": "AEK Athens",
+    "away": "LASK",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8563.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9977.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106295",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-09-08T16:45:00.000Z",
+    "home": "Club Brugge",
+    "away": "Aston Villa",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8342.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106272",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-09-08T19:00:00.000Z",
+    "home": "Dortmund",
+    "away": "Villarreal",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106286",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-09-08T19:00:00.000Z",
+    "home": "FC Porto",
+    "away": "Man City",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9773.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106311",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-09-08T19:00:00.000Z",
+    "home": "Lille",
+    "away": "Real Betis",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106242",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-09-08T19:00:00.000Z",
+    "home": "Real Madrid",
+    "away": "Inter",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5781720",
+    "sport": "soccer",
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "date": "2026-09-08T16:45:00.000Z",
+    "home": "NEC Nijmegen",
+    "away": "Excelsior",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8464.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10218.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -14270,58 +14322,6 @@
     "away": "SJK",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6633.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162162.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5849641",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Women's World Cup U20 Grp. A",
-    "date": "2026-09-08T16:00:00.000Z",
-    "home": "Poland U20 (W)",
-    "away": "Mexico U20 (W)",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2057970.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1459885.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5849966",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Women's World Cup U20 Grp. B",
-    "date": "2026-09-08T16:00:00.000Z",
-    "home": "England U20 (W)",
-    "away": "Tanzania U20 (W)",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2058009.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2058007.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5849979",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Women's World Cup U20 Grp. C",
-    "date": "2026-09-09T13:00:00.000Z",
-    "home": "Ghana U20 (W)",
-    "away": "South Korea U20 (W)",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1459891.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1459887.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5852051",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Women's World Cup U20 Grp. D",
-    "date": "2026-09-09T13:00:00.000Z",
-    "home": "Italy U20 (W)",
-    "away": "New Zealand U20 (W)",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2058028.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1459889.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -15427,8 +15427,8 @@
     "away": "Washington Nationals",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/LA.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 7,
+    "awayScore": 5
   },
   {
     "id": "naver-mlb-20260908ATPH0",
@@ -16095,7 +16095,7 @@
     "id": "panda-1589549",
     "sport": "lol",
     "league": "LCK Challengers League",
-    "date": "2026-09-07T08:00:00Z",
+    "date": "2026-09-07T07:58:48Z",
     "home": "Kiwoom DRX Challengers",
     "away": "DN SOOPers Challengers",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/128344/600px_drx_2023_lightmode.png",
@@ -16248,14 +16248,14 @@
     "awayScore": 0
   },
   {
-    "id": "panda-1618199",
+    "id": "panda-1618200",
     "sport": "lol",
     "league": "Rift Legends",
     "date": "2026-09-08T15:00:00Z",
-    "home": "devils.one inStreamly",
-    "away": "Lodis",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/125875/900px-Devils_one_logo_big.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/132497/lodis_by_illuminarlogo_square.png",
+    "home": "Forsaken",
+    "away": "BOMBA Team",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/130113/forsaken__2528_polish_team_2529logo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138056/bomba_teamlogo_square.png",
     "homeScore": 0,
     "awayScore": 0
   },

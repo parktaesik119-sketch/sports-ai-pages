@@ -1,0 +1,37 @@
+---
+title: "대전 시티즌 vs FC 안양 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | K-League 1 - 픽천국"
+date: 2026-09-09T10:30:00.000Z
+description: "대전 시티즌 vs FC 안양 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140026-2026-09-09-daejeon-hana-citizen"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "대전 시티즌"
+awayTeam: "FC 안양"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133900.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/429440.png"
+homeAnalysis: "대전 시티즌은 2026시즌 최근 17경기에서 7승 6무 4패를 기록하며 평균 득점 1.8로 꾸준한 화력을 보여주고 있습니다. 최근에는 부천전 5득점 승리와 강원전 무실점 승리처럼 공격과 수비가 함께 살아나는 장면이 뚜렷했고, 제주전 패배처럼 원정에서는 흔들릴 때도 있었습니다. 홈에서는 울산과 강원을 상대로 안정적으로 경기를 풀어가며 주도권을 잡는 모습이 인상적이며, 안톤 크리보츄크와 이명재가 버티는 수비 라인도 안정감을 더하고 있습니다. 전진 패스와 활동량이 좋은 빅토르 보브신, 다이고 같은 자원이 중원과 전방을 연결하면서 찬스 생산이 자연스럽게 이어지고 있습니다. 황선홍 감독 체제에서 경기 운영의 완성도가 올라온 흐름으로 보이며, 안양전에서도 선제 득점 뒤 흐름을 가져갈 힘이 충분합니다."
+awayAnalysis: "FC 안양은 2026시즌 최근 18경기에서 8승 4무 6패를 기록하며 평균 득점 1.5를 유지하고 있습니다. 최근에는 강원전 패배와 부천전 무승부처럼 기복이 보였지만, 인천전과 제주전에서 승리를 챙긴 장면처럼 한 번 흐름을 타면 전환 속도가 빠른 팀입니다. 원정에서는 승리를 만들어내는 장면도 있었지만 수비 안정감이 흔들릴 때 실점 폭이 커지는 모습이 함께 나타나고 있습니다. 아일튼 모이세스와 왼 김, 차은우 채로 이어지는 전방은 순간적인 침투와 마무리에서 위협적이고, 마테우스 올리베이라 산투스와 정현 김이 중원을 지키는 구조도 나쁘지 않습니다. 류병훈 감독의 4-3-3 전개는 공격적으로는 분명 장점이 있으나, 대전처럼 전개 속도와 압박 전환이 좋은 팀을 상대로는 뒷공간 관리가 중요해 보입니다."
+homePower: "대전 시티즌은 홈에서 템포 조절과 압박 전환이 안정적임|안톤 크리보츄크 중심 수비가 실점 억제에 기여함|빅토르 보브신이 중원에서 공수 연결 고리 역할을 함|다이고와 이시다의 침투가 세컨드 찬스 창출을 돕음|선제 득점 시 경기 주도권을 끝까지 유지하는 편임"
+awayPower: "FC 안양은 전환 속도가 빨라 역습 위협이 분명함|아일튼 모이세스의 마무리 감각이 핵심 변수임|마테우스 올리베이라 산투스가 중원 전개를 책임짐|4-3-3 구조로 측면 침투가 살아나는 장면이 있음|득점은 가능하나 수비 간격이 벌어질 때 흔들림이 있음"
+h2h: '[{"date":"26.08.08","home":"FC 안양","away":"대전 시티즌","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1507022-2026-08-08-fc-anyang/"},{"date":"26.03.02","home":"대전 시티즌","away":"FC 안양","score":"1-1"},{"date":"25.08.24","home":"FC 안양","away":"대전 시티즌","score":"3-2"},{"date":"25.05.31","home":"FC 안양","away":"대전 시티즌","score":"1-1"},{"date":"25.05.03","home":"대전 시티즌","away":"FC 안양","score":"2-1"}]'
+summary: "대전 시티즌은 2026시즌 7승 6무 4패와 평균 득점 1.8을 바탕으로 전반적인 경기 운영이 한층 단단해 보입니다. FC 안양은 8승 4무 6패에 평균 득점 1.5로 맞서고 있지만, 최근 흐름에서는 실점 관리가 흔들린 장면이 있어 대전 쪽 전력 안정감이 조금 더 좋아 보입니다. 맞대결에서도 대전이 최근 접전에서 우위를 잡는 장면이 반복되었고, 특히 홈에서의 압박과 전환 속도는 안양의 공격 전개를 제어하는 데 강점으로 작용할 가능성이 높습니다. 전체적으로는 대전 시티즌이 흐름과 상성에서 근소한 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Chang-Geun Lee (GK)|https://images.fotmob.com/image_resources/playerimages/433499.png","Yoon-Sung Kang (DF)|https://images.fotmob.com/image_resources/playerimages/735016.png","Sung-Kwon Jo (DF)|https://images.fotmob.com/image_resources/playerimages/1440163.png","Anton Krivotsyuk (DF)|https://images.fotmob.com/image_resources/playerimages/887135.png","Myung-Jae Lee (DF)|https://images.fotmob.com/image_resources/playerimages/523732.png","Soon-Min Lee (MF)|https://images.fotmob.com/image_resources/playerimages/828048.png","Victor Bobsin (MF)|https://images.fotmob.com/image_resources/playerimages/1248669.png","Jae-Hee Jeong (FW)|https://images.fotmob.com/image_resources/playerimages/735011.png","Masatoshi Ishida (FW)|https://images.fotmob.com/image_resources/playerimages/648410.png","Jin-Su Seo (MF)|https://images.fotmob.com/image_resources/playerimages/1062592.png","Diogo (FW)|https://images.fotmob.com/image_resources/playerimages/1136605.png"]'
+awayLineup: '["Jeong-Hoon Kim (GK)|https://images.fotmob.com/image_resources/playerimages/1076897.png","Hyun-Woo Joo (DF)|https://images.fotmob.com/image_resources/playerimages/623920.png","Chang-Yong Lee (DF)|https://images.fotmob.com/image_resources/playerimages/468073.png","Kyung-Won Kwon (DF)|https://images.fotmob.com/image_resources/playerimages/431124.png","Dong-Jin Kim (DF)|https://images.fotmob.com/image_resources/playerimages/623013.png","Matheus Oliveira Santos (MF)|https://images.fotmob.com/image_resources/playerimages/783680.png","Jeong-Hyun Kim (MF)|https://images.fotmob.com/image_resources/playerimages/430842.png","Danny Bakker (DF)|https://images.fotmob.com/image_resources/playerimages/417818.png","Hyun-Woo Chae (FW)|https://images.fotmob.com/image_resources/playerimages/1647584.png","Woon Kim (FW)|https://images.fotmob.com/image_resources/playerimages/1249527.png","Airton Moisés (FW)|https://images.fotmob.com/image_resources/playerimages/1140204.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-3-3"
+homeCoach: "Sun-Hong Hwang|https://images.fotmob.com/image_resources/playerimages/29430.png"
+awayCoach: "Byeong-Hoon Ryu|https://images.fotmob.com/image_resources/playerimages/1655011.png"
+pickWinTeam: "대전 시티즌"
+pickWinResult: "승"
+pickHandicapTeam: "대전 시티즌"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

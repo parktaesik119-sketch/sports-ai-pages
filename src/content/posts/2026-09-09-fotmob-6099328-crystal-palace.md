@@ -1,0 +1,37 @@
+---
+title: "크리스탈 팰리스 vs 미들즈브러 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | EFL Cup - 픽천국"
+date: 2026-09-08T18:45:00.000Z
+description: "크리스탈 팰리스 vs 미들즈브러 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6099328-2026-09-09-crystal-palace"
+category: "soccer"
+country: "잉글랜드"
+league: "EFL Cup"
+homeTeam: "크리스탈 팰리스"
+awayTeam: "미들즈브러"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8549.png"
+homeAnalysis: "크리스탈 팰리스는 2026시즌 최근 17경기에서 7승 4무 6패, 평균 득점 1.5를 기록하며 전체적으로는 승부처에서 힘을 내는 전력을 보여주고 있습니다. 최근에는 풀럼전 3득점 승리처럼 공격이 살아나는 장면이 있었고, 맨체스터 시티전과 프라이부르크전처럼 강한 상대를 만나면 실점이 늘어나는 흐름도 함께 드러났습니다. 홈에서는 알 울라, 스윈던 타운, 샤흐타르 도네츠크를 상대로 득점력을 바탕으로 경기를 풀어냈고, 경기 주도권을 잡으면 마무리 완성도가 살아나는 편입니다. 다만 이사일라 사르와 장필리프 마테타의 이탈은 전방의 직선성과 결정력을 약화시킬 수 있어, 다이치 가마다와 예레미 피노의 연결이 더 중요해 보입니다. 제이디 캔보트, 크리스 리처즈, 악셀 디사시가 받치는 수비 라인은 안정감을 줄 수 있지만, 상대 압박이 강해질 때는 뒷공간 관리가 관건입니다."
+awayAnalysis: "미들즈브러는 2026시즌 최근 11경기에서 5승 4무 2패, 평균 득점 1.5로 쉽게 무너지지 않는 균형 잡힌 전력을 보여주고 있습니다. 최근 퀸즈 파크 레인저스전 원정 승리와 번리전 무실점에 가까운 운영에서 보이듯, 경기 흐름을 길게 가져가며 실리를 챙기는 힘이 있습니다. 반면 블랙번전에서는 2실점을 허용하며 패했고, 에스파뇰전처럼 득점 교환이 잦아질 때는 수비 집중력이 흔들릴 수 있습니다. 세바스티안 베를랄터와 제레미 사르미엔토의 결장은 중원과 측면 전개에 부담이 될 수 있지만, 라덱 비테크와 아이다인 모리스, 라일리 맥그리 중심의 운영은 여전히 조직적입니다. 카일 조지프와 윌 랭크셔가 전방에서 버텨주면, 원정에서도 상대 수비를 꾸준히 흔드는 장면을 만들 수 있습니다."
+homePower: "사르·마테타 공백에도 전방 조합 재구성 가능함|가마다·피노의 연계로 점유 유지 강점임|홈에서는 선제 득점 시 경기 운영이 단단함|강팀 상대로는 실점 증가, 수비 집중도 변수임|디사시·리처즈 축의 후방 버팀은 검증됨"
+awayPower: "최근 원정에서도 승점 확보 능력 꾸준함|모리스·맥그리 중심 중원 균형감이 돋보임|사르미엔토 이탈로 측면 속도는 다소 저하됨|실점 후에도 추격할 수 있는 공격 전개 보임|조직적 운영이 길어질수록 원정 경쟁력 상승함"
+h2h: '[{"date":"18.11.01","home":"미들즈브러","away":"크리스탈 팰리스","score":"1-0"},{"date":"17.02.26","home":"크리스탈 팰리스","away":"미들즈브러","score":"1-0"},{"date":"16.09.10","home":"미들즈브러","away":"크리스탈 팰리스","score":"1-2"},{"date":"13.02.17","home":"크리스탈 팰리스","away":"미들즈브러","score":"4-1"},{"date":"12.08.25","home":"미들즈브러","away":"크리스탈 팰리스","score":"2-1"}]'
+summary: "크리스탈 팰리스는 시즌 전체 흐름에서 득점 생산이 꾸준하고, 미들즈브러는 경기 내용의 안정감과 원정 대응력이 좋은 편이라 두 팀 모두 쉽게 물러서지 않는 전력이 보입니다. 다만 크리스탈 팰리스는 홈에서 주도권을 잡았을 때 공격 전개가 더 선명하고, 미들즈브러는 최근 원정에서도 실리를 챙기는 힘이 있어 중원 싸움이 중요하게 작용할 것으로 보입니다. 상대전적에서는 접전 양상이 자주 나왔지만, 현재 전력과 홈 이점을 감안하면 크리스탈 팰리스가 조금 더 앞서갈 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Honest Ahanor (허벅지 부상)|Chadi Riad (무릎 부상)|Ismaïla Sarr (사타구니 부상)|Jean-Philippe Mateta (햄스트링 부상)"
+injuryAway: "Sebastian Berhalter (근육 부상)|Jeremy Sarmiento (다리 부상)"
+homeLineup: '["Dean Henderson (GK)|https://images.fotmob.com/image_resources/playerimages/719330.png","Chris Richards (DF)|https://images.fotmob.com/image_resources/playerimages/950829.png","Axel Disasi (DF)|https://images.fotmob.com/image_resources/playerimages/696646.png","Jaydee Canvot (DF)|https://images.fotmob.com/image_resources/playerimages/1664722.png","Anan Khalaili (MF)|https://images.fotmob.com/image_resources/playerimages/1477878.png","Quinten Timber (MF)|https://images.fotmob.com/image_resources/playerimages/970563.png","Adam Wharton (MF)|https://images.fotmob.com/image_resources/playerimages/1296650.png","Tyrick Mitchell (MF)|https://images.fotmob.com/image_resources/playerimages/1120224.png","Daichi Kamada (MF)|https://images.fotmob.com/image_resources/playerimages/621515.png","Yéremi Pino (MF)|https://images.fotmob.com/image_resources/playerimages/1047676.png","Edward Nketiah (MF)|https://images.fotmob.com/image_resources/playerimages/860920.png"]'
+awayLineup: '["Radek Vítek (GK)|https://images.fotmob.com/image_resources/playerimages/1360352.png","Ashley Phillips (DF)|https://images.fotmob.com/image_resources/playerimages/1290962.png","Adilson Malanda (DF)|https://images.fotmob.com/image_resources/playerimages/1218243.png","Neto Borges (DF)|https://images.fotmob.com/image_resources/playerimages/917628.png","Callum Brittain (DF)|https://images.fotmob.com/image_resources/playerimages/716852.png","Sebastian Berhalter (MF)|https://images.fotmob.com/image_resources/playerimages/1136096.png","Aidan Morris (MF)|https://images.fotmob.com/image_resources/playerimages/1136097.png","Max Arfsten (MF)|https://images.fotmob.com/image_resources/playerimages/1348329.png","Kyle Joseph (FW)|https://images.fotmob.com/image_resources/playerimages/1184465.png","Riley McGree (MF)|https://images.fotmob.com/image_resources/playerimages/733486.png","Will Lankshear (FW)|https://images.fotmob.com/image_resources/playerimages/1417094.png"]'
+homeFormation: "3-4-2-1"
+awayFormation: "3-4-2-1"
+homeCoach: "Pierre Sage|https://images.fotmob.com/image_resources/playerimages/1586853.png"
+awayCoach: "Kim Hellberg|https://images.fotmob.com/image_resources/playerimages/1327831.png"
+pickWinTeam: "크리스탈 팰리스"
+pickWinResult: "승"
+pickHandicapTeam: "크리스탈 팰리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

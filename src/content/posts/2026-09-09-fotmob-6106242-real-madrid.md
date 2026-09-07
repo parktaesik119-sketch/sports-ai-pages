@@ -1,0 +1,37 @@
+---
+title: "레알 마드리드 vs 인테르 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | 챔피언스리그 - 픽천국"
+date: 2026-09-08T19:00:00.000Z
+description: "레알 마드리드 vs 인테르 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6106242-2026-09-09-real-madrid"
+category: "soccer"
+country: "국제"
+league: "챔피언스리그"
+homeTeam: "레알 마드리드"
+awayTeam: "인테르"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png"
+homeAnalysis: "레알 마드리드는 2026시즌 최근 29경기에서 17승 2무 10패로 안정적인 승률을 유지하며 평균 득점 50.0을 기록하고 있어, 전체적으로 공격 전개와 마무리 모두 강한 흐름을 보여주고 있습니다. 직전 경기에서는 레알 베티스 원정에서 아쉽게 패했지만, 그 전에는 말라가와 레알 소시에다드 상대로 연속 다득점 승리를 거두며 화력을 다시 입증했습니다. 홈에서는 비야레알과의 경기에서 4득점을 기록한 흐름도 보였고, 비니시우스 주니오르와 킬리안 음바페가 전방에서 중심을 잡아주면서 상대 수비를 꾸준히 흔들고 있습니다. 다만 라울 아센시오, 페를랑 멘디, 에데르 밀리탕, 오렐리앵 추아메니, 엔드릭, 로드리고의 이탈은 수비 안정감과 측면 전개, 교체 카드 운용에 분명한 부담으로 작용하고 있습니다. 그럼에도 주드 벨링엄과 페데리코 발베르데가 중원에서 경기 템포를 끌어올릴 수 있어, 전반부터 주도권을 잡는 경기 운영이 기대됩니다."
+awayAnalysis: "인테르는 2026시즌 최근 19경기에서 9승 8무 2패를 기록하며 쉽게 무너지지 않는 전력을 보여주고 있고, 평균 득점 1.5를 바탕으로 효율적인 득점 운영이 돋보입니다. 최근에는 나폴리전 3득점 승리, 칼리아리 원정 승리, 유벤투스 원정 승리까지 이어가며 강팀 상대로도 결과를 만드는 힘을 확인했습니다. 다만 무승부가 많았던 구간에서는 경기 흐름을 완전히 지배하기보다 세밀한 마무리에서 아쉬움이 남는 모습도 보였고, 그 점이 원정 큰 경기에서는 변수로 작용할 수 있습니다. 라우타로 마르티네스가 최전방에서 결정력을 책임지고, 니콜로 바렐라와 페데리코 디마르코가 중원과 측면에서 활로를 여는 구조는 여전히 인상적입니다. 결장자도 데드 스펜스 한 명으로 비교적 가벼운 편이어서, 크리스티안 치부 감독 체제에서 조직적인 수비와 빠른 전환을 앞세워 맞설 가능성이 높습니다."
+homePower: "비니시우스-음바페 조합의 폭발력 검증됨|중원 압박과 전개 속도는 홈에서 더 살아남|추아메니 공백은 수비형 밸런스 약화 요인임|측면 풀백 자원 이탈로 뒷공간 관리 변수 보임|상대 약한 원정 수비 상대로 초반 주도권 유리함"
+awayPower: "라우타로 마르티네스의 마무리 비중 매우 큼|바렐라 중심의 중원 압박과 연결 안정적임|원정에서도 실점 관리가 가능한 구조임|다득점보다 효율적 한 방에 강점이 있음|주전급 결장 적어 전술 유지력은 높은 편임"
+h2h: '[{"date":"21.12.08","home":"레알 마드리드","away":"인테르","score":"2-0"},{"date":"21.09.16","home":"인테르","away":"레알 마드리드","score":"0-1"},{"date":"20.11.26","home":"인테르","away":"레알 마드리드","score":"0-2"},{"date":"20.11.04","home":"레알 마드리드","away":"인테르","score":"3-2"},{"date":"15.07.27","home":"인테르","away":"레알 마드리드","score":"0-3"}]'
+summary: "레알 마드리드는 시즌 전체 전력과 득점 흐름에서 한층 더 무게감이 느껴지고, 인테르는 안정적인 운영 속에서 쉽게 무너지지 않는 저력을 보여주고 있습니다. 다만 레알 마드리드는 비니시우스 주니오르와 킬리안 음바페를 앞세운 공격 전개가 매우 날카롭고, 인테르는 라우타로 마르티네스와 니콜로 바렐라를 중심으로 효율적인 대응을 준비할 수 있습니다. 상대전적에서는 레알 마드리드가 꾸준히 우위를 이어온 만큼, 전체 전력과 맞대결 상성까지 함께 보면 홈팀 쪽 기대값이 더 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Raúl Asencio (정강이 부상)|Ferland Mendy (부상)|Éder Militao (허벅지 부상)|Aurélien Tchouaméni (근육 부상)|Thiago Pitarch (무릎 부상)|Endrick (근육 부상)|Rodrygo (십자 인대 부상)"
+injuryAway: "Djed Spence (종아리 부상)"
+homeLineup: '["Thibaut Courtois (GK)|https://images.fotmob.com/image_resources/playerimages/170323.png","Denzel Dumfries (MF)|https://images.fotmob.com/image_resources/playerimages/593118.png","Ibrahima Konaté (DF)|https://images.fotmob.com/image_resources/playerimages/820140.png","Dean Huijsen (DF)|https://images.fotmob.com/image_resources/playerimages/1367619.png","Marc Cucurella (DF)|https://images.fotmob.com/image_resources/playerimages/873289.png","Federico Valverde (MF)|https://images.fotmob.com/image_resources/playerimages/743533.png","Jude Bellingham (MF)|https://images.fotmob.com/image_resources/playerimages/1077894.png","Yan Diomande (FW)|https://images.fotmob.com/image_resources/playerimages/1735453.png","Brahim Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/750027.png","Vinícius Júnior (FW)|https://images.fotmob.com/image_resources/playerimages/846033.png","Kylian Mbappé (FW)|https://images.fotmob.com/image_resources/playerimages/701154.png"]'
+awayLineup: '["Josep Martínez (GK)|https://images.fotmob.com/image_resources/playerimages/772168.png","Yann Aurel Bisseck (DF)|https://images.fotmob.com/image_resources/playerimages/889535.png","Manuel Akanji (DF)|https://images.fotmob.com/image_resources/playerimages/521318.png","Alessandro Bastoni (DF)|https://images.fotmob.com/image_resources/playerimages/805451.png","Andy Diouf (MF)|https://images.fotmob.com/image_resources/playerimages/1254297.png","Nicolò Barella (MF)|https://images.fotmob.com/image_resources/playerimages/541820.png","Piotr Zielinski (MF)|https://images.fotmob.com/image_resources/playerimages/362212.png","Petar Sucic (MF)|https://images.fotmob.com/image_resources/playerimages/1382000.png","Federico Dimarco (MF)|https://images.fotmob.com/image_resources/playerimages/605224.png","Francesco Pio Esposito (FW)|https://images.fotmob.com/image_resources/playerimages/1367618.png","Lautaro Martínez (FW)|https://images.fotmob.com/image_resources/playerimages/690230.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "3-5-2"
+homeCoach: "José Mourinho|https://images.fotmob.com/image_resources/playerimages/78719.png"
+awayCoach: "Cristian Chivu|https://images.fotmob.com/image_resources/playerimages/27692.png"
+pickWinTeam: "레알 마드리드"
+pickWinResult: "승"
+pickHandicapTeam: "레알 마드리드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

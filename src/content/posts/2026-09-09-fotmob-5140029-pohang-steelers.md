@@ -1,0 +1,37 @@
+---
+title: "포항 스틸러스 vs 김천 상무 FC 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | K-League 1 - 픽천국"
+date: 2026-09-09T10:30:00.000Z
+description: "포항 스틸러스 vs 김천 상무 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140029-2026-09-09-pohang-steelers"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "포항 스틸러스"
+awayTeam: "김천 상무 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/109373.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133901.png"
+homeAnalysis: "포항 스틸러스는 2026시즌 최근 17경기에서 5승 3무 9패, 평균 득점 1.1을 기록하며 기복이 뚜렷한 흐름을 보이고 있습니다. 최근에도 제주 SK전과 광주 FC전에서는 득점을 만들며 승리를 챙겼지만, 전북 현대 모터스 FC전과 부천 FC 1995전처럼 실점이 늘어나는 경기에서는 흐름이 쉽게 무너졌습니다. 홈에서는 울산 HD FC전과 김천 상무 FC전에서 연달아 득점 없이 패하며 공격 전개가 막히는 장면이 확인되었고, 이는 홈 운영의 안정감이 아직 충분히 올라오지 않았음을 보여줍니다. 다만 조영학과 원기종, 그리고 완더슨과 기성용이 중심을 잡는 구조에서는 중원 연결과 세컨드볼 대응이 살아날 경우 경기 주도권을 가져올 여지는 있습니다. 수비적으로는 무실점 유지보다는 한 번 흔들릴 때 연속 실점으로 이어지는 모습이 더 문제로 보이며, 초반 실점 관리가 매우 중요해 보입니다. 최근 전반적인 득점 효율은 나쁘지 않지만, 경기마다 강약 차이가 커서 안정감이 관건입니다."
+awayAnalysis: "김천 상무 FC는 2026시즌 최근 16경기에서 2승 8무 6패, 평균 득점 0.9를 기록하며 저득점 흐름 속에서 버티는 전력이 이어지고 있습니다. 최근 광주 FC전과 전북 현대 모터스 FC전처럼 쉽게 무너지지 않는 경기력도 있었지만, 득점이 필요한 순간에 끝내 마무리를 못 내는 장면이 자주 나타나고 있습니다. 원정에서는 울산 HD FC전과 김포 FC전에서 실점 부담이 커졌고, 반대로 제주 SK전과 인천 유나이티드전에서는 실점을 최소화하며 접전을 끌고 가는 모습이 돋보였습니다. 박만호 골키퍼를 축으로 한 수비 라인과 정태환, 변준수, 이정택, 박철우로 이어지는 포백은 조직력 자체는 나쁘지 않지만, 공격에서 한상헌과 이승헌, 리은희가 연결될 때도 결정적 한 방이 부족한 편입니다. 주중이나 연전 속에서도 경기 운영을 쉽게 무너지지 않게 만드는 힘은 있지만, 득점 생산력이 낮아 우세를 굳히는 장면이 제한적입니다. 결국 수비 집중력은 유지되더라도 공격 효율이 따라오지 않으면 승부를 끝내기 어려운 전력으로 보입니다."
+homePower: "홈 득점 기복이 있어도 한 번 흐름 타면 몰아치는 힘이 있음|기성용 중심 중원 안정 시 경기 템포 장악 가능성 높음|원정 맞대결에서 약세 반복, 심리적 부담이 남아 있음|실점 뒤 회복이 늦어 경기가 쉽게 끌려가는 편임|조영학-원기종 조합의 전방 마무리 집중력은 변수로 보임"
+awayPower: "저득점 운영 속에서도 수비 집중력은 비교적 유지됨|박만호 중심으로 버티는 경기 설계가 분명함|전방 한상헌-이승헌 조합의 한 방 의존도가 큼|무승부가 잦아 흐름은 괜찮아도 승부처 완성도는 약함|포항 스틸러스 상대로 최근 상성 우위가 검증됨"
+h2h: '[{"date":"26.08.01","home":"포항 스틸러스","away":"김천 상무 FC","score":"0-1","link":"https://pick79.com/posts/detail/analyze-1507018-2026-08-01-pohang-steelers/"},{"date":"26.02.28","home":"김천 상무 FC","away":"포항 스틸러스","score":"1-1"},{"date":"25.11.01","home":"김천 상무 FC","away":"포항 스틸러스","score":"0-1"},{"date":"25.09.27","home":"김천 상무 FC","away":"포항 스틸러스","score":"2-0"},{"date":"25.06.14","home":"김천 상무 FC","away":"포항 스틸러스","score":"1-0"}]'
+summary: "포항 스틸러스는 시즌 전체 전력에서 득점 생산과 경기 주도 면에서 기복이 크지만, 김천 상무 FC보다 평균 득점과 최근 승리 장면은 조금 더 선명하게 보입니다. 김천 상무 FC는 저득점과 무승부 성향이 강해 경기 자체는 쉽게 흔들리지 않지만, 공격 완성도가 낮아 흐름을 끝내 가져오는 힘은 다소 약합니다. 상대전적에서도 김천 상무 FC가 최근 우세를 자주 가져가고 있어, 전력과 상성까지 함께 보면 홈팀이 압박을 받는 구도입니다. 다만 포항 스틸러스가 홈에서 초반 템포를 살리고 중원 연결을 매끄럽게 가져가면 충분히 균형을 되찾을 수 있는 경기로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Sung-Min Hong (GK)|https://images.fotmob.com/image_resources/playerimages/1711635.png","Jeong-Won Eo (DF)|https://images.fotmob.com/image_resources/playerimages/1232940.png","Chan-Yong Park (DF)|https://images.fotmob.com/image_resources/playerimages/648405.png","Min-Kwang Jeon (DF)|https://images.fotmob.com/image_resources/playerimages/654164.png","Wanderson (MF)|https://images.fotmob.com/image_resources/playerimages/331738.png","Kento Nishiya (MF)|https://images.fotmob.com/image_resources/playerimages/1499949.png","Sung-Yueng Ki (MF)|https://images.fotmob.com/image_resources/playerimages/144996.png","Dong-Jin Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1611654.png","Seo-Woong Hwang (MF)|https://images.fotmob.com/image_resources/playerimages/1612389.png","Sang-Hyeok Cho (FW)|https://images.fotmob.com/image_resources/playerimages/1711623.png","Ki-Jong Won (FW)|https://images.fotmob.com/image_resources/playerimages/925672.png"]'
+awayLineup: '["Man-Ho Park (GK)|https://images.fotmob.com/image_resources/playerimages/1712337.png","Tae-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1026835.png","Jun-Soo Byeon (DF)|https://images.fotmob.com/image_resources/playerimages/1232943.png","Jung-Taek Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1457033.png","Cheol-Woo Park (DF)|https://images.fotmob.com/image_resources/playerimages/1326687.png","Jae-Hyun Go (MF)|https://images.fotmob.com/image_resources/playerimages/925265.png","Kang-Hyeon Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1232526.png","Yi-Seok Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1232816.png","Yun-Sang Hong (FW)|https://images.fotmob.com/image_resources/playerimages/1272121.png","Sang-Heon Lee (FW)|https://images.fotmob.com/image_resources/playerimages/827997.png","Kun-Hee Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1136249.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-4-2"
+homeCoach: "Tae-Ha Park|https://images.fotmob.com/image_resources/playerimages/835312.png"
+awayCoach: "Seung-Jin Ju|https://images.fotmob.com/image_resources/playerimages/1169325.png"
+pickWinTeam: "김천 상무 FC"
+pickWinResult: "승"
+pickHandicapTeam: "김천 상무 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
