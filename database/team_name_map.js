@@ -901,6 +901,7 @@ const TEAM_NAME_MAP = {
   "Vladivostok": "블라디보스토크",
   "Barys Astana": "바리스 아스타나",
   "CSKA Moscow": "CSKA 모스크바",
+  "Sochi": "소치",
 
 
   //캐나다 축구팀
