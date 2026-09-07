@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"롯데 자이언츠","away":"한화 이
 awayRecent: '[{"date":"26.09.06","home":"SSG 랜더스","away":"두산 베어스","score":"9-16","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906OBSK02026-2026-09-06-ssg-landers/"},{"date":"26.09.05","home":"SSG 랜더스","away":"두산 베어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905OBSK02026-2026-09-05-ssg-landers/"},{"date":"26.09.04","home":"SSG 랜더스","away":"두산 베어스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904OBSK02026-2026-09-04-ssg-landers/"},{"date":"26.09.03","home":"두산 베어스","away":"LG 트윈스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903LGOB02026-2026-09-03-doosan-bears/"},{"date":"26.09.02","home":"두산 베어스","away":"LG 트윈스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902LGOB02026-2026-09-02-doosan-bears/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 류현진 (ERA 3.91)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/76715.jpg\",\"1번 심우준 (유격수)\",\"2번 최인호 (중견수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 페라자 (우익수)\",\"7번 김태연 (1루수)\",\"8번 허인서 (포수)\",\"9번 이도윤 (2루수)\"]"
+awayLineup: "[\"선발투수 최승용 (ERA 5.74)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/51264.jpg\",\"1번 박찬호 (유격수)\",\"2번 안재석 (3루수)\",\"3번 김민석 (좌익수)\",\"4번 박준순 (2루수)\",\"5번 세베리노 (지명타자)\",\"6번 양석환 (1루수)\",\"7번 정수빈 (중견수)\",\"8번 김기연 (포수)\",\"9번 김대한 (우익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
