@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.07","home":"캔자스시티 로열스","away":"토�
 injuryHome: "Tommy White (통증)|Brooks Kriske (신경 압박)|J.T. Ginn (통증)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)"
 injuryAway: "Luis Urias (염좌)|Patrick Corbin (염좌)|Anthony Santander (수술)|Trey Yesavage (수술)|Jameson Taillon (부상)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 J. Soriano (11-7, 3.52) ERA 3.52|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

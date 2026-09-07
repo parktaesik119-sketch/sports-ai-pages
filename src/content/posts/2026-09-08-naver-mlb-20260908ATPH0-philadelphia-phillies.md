@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.07","home":"필라델피아 필리스","away":"애�
 awayRecent: '[{"date":"26.09.07","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ATPH0-2026-09-07-philadelphia-phillies/"},{"date":"26.09.06","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ATPH0-2026-09-06-philadelphia-phillies/"},{"date":"26.09.05","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ATPH0-2026-09-05-philadelphia-phillies/"},{"date":"26.09.03","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903ATMO0-2026-09-03-washington-nationals/"},{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals/"}]'
 injuryHome: "Tanner Banks (염좌)|Caleb Kilian (염좌)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
 injuryAway: "Reynaldo Lopez (염증)|Robert Suarez (통증)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (출전 정지)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Luzardo (13-5, 3.02) ERA 3.02|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (9-5, 3.62) ERA 3.62|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.07","home":"볼티모어 오리올스","away":"보�
 awayRecent: '[{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"},{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"}]'
 injuryHome: "Zack Kelly (염증)|Justin Slaten (염증)|Willson Contreras (염좌)|Johan Oviedo (염좌)|Ceddanne Rafaela (통증)"
 injuryAway: "Nolan Schanuel (염좌)|Sam Bachman (염증)|Yoan Moncada (수술)|Gustavo Campero (염좌)|George Klassen (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Bello (5-7, 5.07) ERA 5.07|https://a.espncdn.com/i/headshots/mlb/players/full/4720856.png\"]"
+awayLineup: "[\"선발투수 G. Rodriguez (4-6, 6.03) ERA 6.03|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

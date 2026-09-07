@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"LA 다저스","away":"워싱턴 내셔�
 awayRecent: '[{"date":"26.09.07","home":"신시내티 레즈","away":"밀워키 브루어스","score":"12-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MICI0-2026-09-07-cincinnati-reds/"},{"date":"26.09.06","home":"신시내티 레즈","away":"밀워키 브루어스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MICI0-2026-09-06-cincinnati-reds/"},{"date":"26.09.05","home":"신시내티 레즈","away":"밀워키 브루어스","score":"7-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MICI0-2026-09-05-cincinnati-reds/"},{"date":"26.09.03","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SDCI0-2026-09-03-cincinnati-reds/"},{"date":"26.09.02","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SDCI0-2026-09-02-cincinnati-reds/"}]'
 injuryHome: "Shohei Ohtani (통증)|Edwin Diaz (염증)|Roki Sasaki (찰과상)|Kris Bubic (통증)|Dalton Rushing (통증)"
 injuryAway: "Ke'Bryan Hayes (염좌)|Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Y. Yamamoto (12-8, 2.67) ERA 2.67|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
+awayLineup: "[\"선발투수 N. Lodolo (3-3, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/42433.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

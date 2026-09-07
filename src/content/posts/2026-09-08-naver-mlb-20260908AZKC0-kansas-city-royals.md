@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.07","home":"캔자스시티 로열스","away":"토�
 awayRecent: '[{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.03","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903PHAZ0-2026-09-03-arizona-diamondbacks/"},{"date":"26.09.01","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901PHAZ0-2026-09-01-arizona-diamondbacks/"},{"date":"26.08.30","home":"샌프란시스코 자이언츠","away":"애리조나 다이아몬드백스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830AZSF2-2026-08-30-san-francisco-giants/"}]'
 injuryHome: "Jac Caglianone (근육 염좌)|Tony Gonsolin (수술)|Connor Seabold (근육 염좌)|Maikel Garcia (근육 염좌)|James McArthur (수술)"
 injuryAway: "Geraldo Perdomo (타박상)|Corbin Burnes (수술)|Michael Soroka (염증)|Zac Gallen (염증)|Ryne Nelson (근육 염좌)"
-homeLineup: ''
+homeLineup: "[\"선발투수 N. Cameron (9-8, 4.08) ERA 4.08|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.07","home":"신시내티 레즈","away":"밀워키 
 awayRecent: '[{"date":"26.09.07","home":"마이애미 말린스","away":"시카고 컵스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907CCFL0-2026-09-07-miami-marlins/"},{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"},{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브루어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904MICC0-2026-09-04-chicago-cubs/"},{"date":"26.09.03","home":"시카고 컵스","away":"밀워키 브루어스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903MICC0-2026-09-03-chicago-cubs/"}]'
 injuryHome: "Rob Zastryzny (염좌)|Bryse Wilson (염좌)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
 injuryAway: "Ian Happ (통증)|Edward Cabrera (찰과상)|Shelby Miller (수술)|Tyler Austin (수술)|Gavin Hollowell (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Gasser (4-5, 4.57) ERA 4.57|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (8-3, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

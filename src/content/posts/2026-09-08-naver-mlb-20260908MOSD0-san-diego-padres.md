@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.07","home":"샌디에이고 파드리스","away":"�
 awayRecent: '[{"date":"26.09.06","home":"LA 다저스","away":"워싱턴 내셔널스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MOLA0-2026-09-06-los-angeles-dodgers/"},{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MOLA0-2026-09-05-los-angeles-dodgers/"},{"date":"26.09.03","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903ATMO0-2026-09-03-washington-nationals/"},{"date":"26.09.02","home":"워싱턴 내셔널스","away":"애틀랜타 브레이브스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902ATMO0-2026-09-02-washington-nationals/"},{"date":"26.09.01","home":"워싱턴 내셔널스","away":"마이애미 말린스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901FLMO0-2026-09-01-washington-nationals/"}]'
 injuryHome: "Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Nick Pivetta (부상)|Miguel Andujar (골절)"
 injuryAway: "Richard Lovelady (부상)|Drew Millas (골절)|DJ Herz (부상)|PJ Poulin (부상)|Connelly Early (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. Pivetta (1-2, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/36071.png\"]"
+awayLineup: "[\"선발투수 J. Irvin (2-8, 5.57) ERA 5.57|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
