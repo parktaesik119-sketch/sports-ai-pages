@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.07","home":"클리블랜드 가디언스","away":"�
 injuryHome: "Tyler O'Neill (통증)|Felix Bautista (수술)|Christian Franklin (염증)|Luis Robert Jr. (통증)|Ryan Helsley (염증)"
 injuryAway: "Chase DeLauter (염좌)|Rhys Hoskins (염증)|Colin Holderman (염증)|Shawn Armstrong (근육 손상)"
 homeLineup: "[\"선발투수 T. Rogers (9-9, 4.30) ERA 4.30|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
-awayLineup: "[\"선발투수 J. Cantillo (9-8, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\"]"
+awayLineup: "[\"선발투수 J. Cantillo (9-8, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\",\"1번 S. Kwan (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\",\"2번 J. Adell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"3번 J. Ramirez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/32801.png\",\"4번 A. Martinez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/42497.png\",\"5번 D. Fry (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41672.png\",\"6번 A. Genao (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5204351.png\",\"7번 A. Hedges (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32168.png\",\"8번 P. Halpin (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4722962.png\",\"9번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
