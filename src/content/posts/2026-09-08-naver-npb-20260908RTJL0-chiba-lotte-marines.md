@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"오릭스 버팔로스","away":"지바 
 awayRecent: '[{"date":"26.09.06","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906NHRT0-2026-09-06-rakuten-gold-eagles/"},{"date":"26.09.05","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905NHRT0-2026-09-05-rakuten-gold-eagles/"},{"date":"26.09.02","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902OXRT0-2026-09-02-rakuten-gold-eagles/"},{"date":"26.09.01","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901OXRT0-2026-09-01-rakuten-gold-eagles/"},{"date":"26.08.30","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830RTSE0-2026-08-30-seibu-lions/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Haruya Tanaka (2-5, 4.54)|https://p.npb.jp/players_photo/2026/180/m/035_01005157.jpg\"]"
+awayLineup: "[\"선발투수 Kenta Maeda (4-4, 2.48)|https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

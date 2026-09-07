@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"오릭스 버팔로스","away":"지바 
 awayRecent: '[{"date":"26.09.06","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906SESF0-2026-09-06-fukuoka-s-hawks/"},{"date":"26.09.05","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905SESF0-2026-09-05-fukuoka-s-hawks/"},{"date":"26.09.04","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904SESF0-2026-09-04-fukuoka-s-hawks/"},{"date":"26.09.01","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SEJL0-2026-09-01-chiba-lotte-marines/"},{"date":"26.08.30","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830RTSE0-2026-08-30-seibu-lions/"}]'
 injuryHome: "Tomoya Mori (왼쪽 손목 수술)|Hiroya Miyagi (왼쪽 팔꿈치 수술)|Yamashita (오른쪽 팔꿈치 수술)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Sean Hjelle (3-8, 3.28)|https://p.npb.jp/players_photo/2026/180/b/069_03505152.jpg\"]"
+awayLineup: "[\"선발투수 Kaima Taira (10-4, 1.45)|https://p.npb.jp/players_photo/2026/180/l/061_31035136.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

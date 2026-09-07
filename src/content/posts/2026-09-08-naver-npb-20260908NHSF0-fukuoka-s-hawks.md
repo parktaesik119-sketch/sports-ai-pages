@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.06","home":"소프트뱅크 호크스","away":"세�
 awayRecent: '[{"date":"26.09.06","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906NHRT0-2026-09-06-rakuten-gold-eagles/"},{"date":"26.09.05","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905NHRT0-2026-09-05-rakuten-gold-eagles/"},{"date":"26.09.02","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902SFNH0-2026-09-02-nippon-ham-fighters/"},{"date":"26.09.01","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SFNH0-2026-09-01-nippon-ham-fighters/"},{"date":"26.08.30","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830JLNH0-2026-08-30-nippon-ham-fighters/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Livan Moinelo (3-1, 0.62)|https://p.npb.jp/players_photo/2026/180/h/035_63965134.jpg\"]"
+awayLineup: "[\"선발투수 Sachiya Yamasaki (5-0, 2.29)|https://p.npb.jp/players_photo/2026/180/f/018_21825130.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
