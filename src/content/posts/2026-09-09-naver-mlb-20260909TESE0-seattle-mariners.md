@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파�
 injuryHome: "Lazaro Montes (근육통)|Hoby Milner (애도)|Brendan Donovan (뇌진탕)|Victor Robles (애도)|Brennen Davis (염좌)"
 injuryAway: "Kyle Higashioka (염좌)|Carter Baumler (염좌)|Cole Winn (염좌)|Josh Jung (염좌)|Nathan Eovaldi (염증)"
 homeLineup: "[\"선발투수 K. Anderson (0-1, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/5198748.png\"]"
-awayLineup: "[\"선발투수 C. Quantrill (7-5, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/39875.png\"]"
+awayLineup: "[\"선발투수 C. Bradford (0-4, 4.45) ERA 4.45|https://a.espncdn.com/i/headshots/mlb/players/full/4142539.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
