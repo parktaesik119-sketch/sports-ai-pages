@@ -3467,8 +3467,8 @@
     "away": "Al-Khor",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101903.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101902.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 5
   },
   {
     "id": "fotmob-1000009100",
@@ -3831,8 +3831,8 @@
     "away": "Deportivo Cali",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6387.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5975395",
@@ -4160,19 +4160,6 @@
     "awayScore": 2
   },
   {
-    "id": "fotmob-5977344",
-    "sport": "soccer",
-    "country": "Mexico",
-    "league": "Liga MX Femenil Apertura",
-    "date": "2026-09-07T21:45:00.000Z",
-    "home": "Atlante (W)",
-    "away": "FC Juárez (W)",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2105856.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1066912.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-5977345",
     "sport": "soccer",
     "country": "Mexico",
@@ -4182,8 +4169,8 @@
     "away": "Puebla (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980705.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980696.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5887620",
@@ -4234,8 +4221,8 @@
     "away": "Instituto",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10096.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10090.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5803250",
@@ -4260,8 +4247,8 @@
     "away": "Independiente de La Chorrera",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1514007.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/464250.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5922778",
@@ -5131,8 +5118,8 @@
     "away": "Muaither SC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2109588.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/479161.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000018606",
@@ -5157,8 +5144,8 @@
     "away": "Guayaquil City",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1014174.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/194754.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "fotmob-1000009102",
@@ -5170,8 +5157,8 @@
     "away": "Manta",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1850.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162922.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000009104",
@@ -5183,8 +5170,8 @@
     "away": "Leones del Norte",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/304929.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1370528.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5103622",
@@ -6145,6 +6132,19 @@
     "away": "Montedio Yamagata",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/164738.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/164720.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5977344",
+    "sport": "soccer",
+    "country": "Mexico",
+    "league": "Liga MX Femenil Apertura",
+    "date": "2026-09-08T18:00:00.000Z",
+    "home": "Atlante (W)",
+    "away": "FC Juárez (W)",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2105856.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1066912.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -9720,8 +9720,8 @@
     "away": "St.Louis Cardinals",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SF.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SL.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 4
   },
   {
     "id": "naver-mlb-20260908CILA0",
@@ -9733,8 +9733,8 @@
     "away": "Cincinnati Reds",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/LA.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CI.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 3
   },
   {
     "id": "naver-mlb-20260908TOOA0",
@@ -9746,21 +9746,8 @@
     "away": "Toronto Blue Jays",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/OA.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TO.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "naver-npb-20260908HIHS0",
-    "sport": "baseball",
-    "country": "Japan",
-    "league": "NPB",
-    "date": "2026-09-08T09:00:00.000Z",
-    "home": "Hanshin Tigers",
-    "away": "Hiroshima Carp",
-    "homeLogo": "https://sports-phinf.pstatic.net/team/npb/default/HS.png",
-    "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/HI.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 5
   },
   {
     "id": "naver-npb-20260908JNYO0",
@@ -9824,6 +9811,19 @@
     "away": "Yakult Swallows",
     "homeLogo": "https://sports-phinf.pstatic.net/team/npb/default/YK.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/YA.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "naver-npb-20260908HIHS0",
+    "sport": "baseball",
+    "country": "Japan",
+    "league": "NPB",
+    "date": "2026-09-08T09:00:00.000Z",
+    "home": "Hanshin Tigers",
+    "away": "Hiroshima Carp",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/npb/default/HS.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/HI.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -10140,19 +10140,6 @@
     "awayScore": 3
   },
   {
-    "id": "highlightly-hockey-366278843",
-    "sport": "hockey",
-    "country": "Russia",
-    "league": "KHL",
-    "date": "2026-09-07T16:30:00.000Z",
-    "home": "Bars Kazan",
-    "away": "Vladivostok",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/314803.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/707965.png",
-    "homeScore": 2,
-    "awayScore": 0
-  },
-  {
     "id": "highlightly-hockey-366274588",
     "sport": "hockey",
     "country": "Russia",
@@ -10164,6 +10151,19 @@
     "awayLogo": "https://highlightly.net/hockey/images/teams/329270.png",
     "homeScore": 2,
     "awayScore": 3
+  },
+  {
+    "id": "highlightly-hockey-366278843",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-09-07T16:30:00.000Z",
+    "home": "Bars Kazan",
+    "away": "Vladivostok",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/314803.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/707965.png",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-366275439",
@@ -10192,19 +10192,6 @@
     "awayScore": 0
   },
   {
-    "id": "highlightly-hockey-366277992",
-    "sport": "hockey",
-    "country": "Russia",
-    "league": "KHL",
-    "date": "2026-09-07T14:00:00.000Z",
-    "home": "Barys Astana",
-    "away": "Novosibirsk",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/315654.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/1267072.png",
-    "homeScore": 7,
-    "awayScore": 1
-  },
-  {
     "id": "highlightly-hockey-366276290",
     "sport": "hockey",
     "country": "Russia",
@@ -10218,6 +10205,19 @@
     "awayScore": 4
   },
   {
+    "id": "highlightly-hockey-366277992",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-09-07T14:00:00.000Z",
+    "home": "Barys Astana",
+    "away": "Novosibirsk",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/315654.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/1267072.png",
+    "homeScore": 7,
+    "awayScore": 1
+  },
+  {
     "id": "highlightly-hockey-366279694",
     "sport": "hockey",
     "country": "Russia",
@@ -10229,32 +10229,6 @@
     "awayLogo": "https://highlightly.net/hockey/images/teams/326717.png",
     "homeScore": 0,
     "awayScore": 4
-  },
-  {
-    "id": "flashscore-cpbl-Wh1Kbqel",
-    "sport": "baseball",
-    "country": "Taiwan",
-    "league": "CPBL",
-    "date": "2026-09-08T10:35:00.000Z",
-    "home": "Rakuten Monkeys",
-    "away": "TSG Hawks",
-    "homeLogo": "https://static.flashscore.com/res/image/data/r1EVM0A6-QHaedGFQ.png",
-    "awayLogo": "https://static.flashscore.com/res/image/data/roCdsajC-vDP5czmt.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "flashscore-cpbl-0AAl45XQ",
-    "sport": "baseball",
-    "country": "Taiwan",
-    "league": "CPBL",
-    "date": "2026-09-08T10:35:00.000Z",
-    "home": "Wei Chuan Dragons",
-    "away": "Fubon Guardians",
-    "homeLogo": "https://static.flashscore.com/res/image/data/d4SqtLUH-2JC0wXwi.png",
-    "awayLogo": "https://static.flashscore.com/res/image/data/bmXDrT86-2JC0wXwi.png",
-    "homeScore": null,
-    "awayScore": null
   },
   {
     "id": "highlightly-hockey-366281396",
@@ -10296,45 +10270,6 @@
     "awayScore": null
   },
   {
-    "id": "flashscore-cpbl-xAfMI4nK",
-    "sport": "baseball",
-    "country": "Taiwan",
-    "league": "CPBL",
-    "date": "2026-09-09T10:35:00.000Z",
-    "home": "Chinatrust Brothers",
-    "away": "Uni Lions",
-    "homeLogo": "https://static.flashscore.com/res/image/data/WURV6PWH-M9dMKp3f.png",
-    "awayLogo": "https://static.flashscore.com/res/image/data/tUl1YzjC-6q3ARfqR.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "flashscore-cpbl-A32ze1fD",
-    "sport": "baseball",
-    "country": "Taiwan",
-    "league": "CPBL",
-    "date": "2026-09-09T10:35:00.000Z",
-    "home": "Rakuten Monkeys",
-    "away": "TSG Hawks",
-    "homeLogo": "https://static.flashscore.com/res/image/data/r1EVM0A6-QHaedGFQ.png",
-    "awayLogo": "https://static.flashscore.com/res/image/data/roCdsajC-vDP5czmt.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "flashscore-cpbl-xj4SdNP0",
-    "sport": "baseball",
-    "country": "Taiwan",
-    "league": "CPBL",
-    "date": "2026-09-09T10:35:00.000Z",
-    "home": "Wei Chuan Dragons",
-    "away": "Fubon Guardians",
-    "homeLogo": "https://static.flashscore.com/res/image/data/d4SqtLUH-2JC0wXwi.png",
-    "awayLogo": "https://static.flashscore.com/res/image/data/bmXDrT86-2JC0wXwi.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "highlightly-hockey-366318840",
     "sport": "hockey",
     "country": "Russia",
@@ -10361,19 +10296,6 @@
     "awayScore": null
   },
   {
-    "id": "highlightly-hockey-366285651",
-    "sport": "hockey",
-    "country": "Russia",
-    "league": "KHL",
-    "date": "2026-09-09T16:30:00.000Z",
-    "home": "CSKA Moscow",
-    "away": "Nizhny Novgorod",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/316505.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/323313.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "highlightly-hockey-366286502",
     "sport": "hockey",
     "country": "Russia",
@@ -10383,6 +10305,19 @@
     "away": "Vladivostok",
     "homeLogo": null,
     "awayLogo": "https://highlightly.net/hockey/images/teams/707965.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-366285651",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-09-09T16:30:00.000Z",
+    "home": "CSKA Moscow",
+    "away": "Nizhny Novgorod",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/316505.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/323313.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -10559,25 +10494,13 @@
     "id": "panda-1589550",
     "sport": "lol",
     "league": "LCK Challengers League",
-    "date": "2026-09-08T05:00:00Z",
+    "date": "2026-09-08T05:00:49Z",
     "home": "T1 Academy",
     "away": "KT Rolster Challengers",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/131040/t1logo_profile.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/128348/800px_kt_rolster_2026_allmode.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
-    "id": "panda-1589551",
-    "sport": "lol",
-    "league": "LCK Challengers League",
-    "date": "2026-09-08T08:00:00Z",
-    "home": "Dplus KIA Challengers",
-    "away": "Nongshim Esports Academy",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132567/800px_dplus_lightmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/128350/nongshim_red_forcelogo_square.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "panda-1643098",
@@ -10592,14 +10515,26 @@
     "awayScore": 0
   },
   {
-    "id": "panda-1660114",
+    "id": "panda-1589551",
     "sport": "lol",
-    "league": "Prime League 1st Division",
-    "date": "2026-09-08T15:00:00Z",
-    "home": "VfB eSports",
-    "away": "CGN Esports",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137064/ezgif_58f816b45a39a4fc.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/136848/cgn_esportslogo_square.png",
+    "league": "LCK Challengers League",
+    "date": "2026-09-08T09:00:00Z",
+    "home": "Dplus KIA Challengers",
+    "away": "Nongshim Esports Academy",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132567/800px_dplus_lightmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/128350/nongshim_red_forcelogo_square.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1677955",
+    "sport": "lol",
+    "league": "Hitpoint Masters",
+    "date": "2026-09-08T14:00:00Z",
+    "home": "NightBirds",
+    "away": "EXILE esports",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136087/nightbirdslogo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/135610/exile_esportslogo_square.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -10636,6 +10571,18 @@
     "away": "mCon esports",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137833/frites_esports_club_lightmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/130325/m_con_esportslogo_square.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1660114",
+    "sport": "lol",
+    "league": "Prime League 1st Division",
+    "date": "2026-09-08T16:00:00Z",
+    "home": "VfB eSports",
+    "away": "CGN Esports",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137064/ezgif_58f816b45a39a4fc.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/136848/cgn_esportslogo_square.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -10683,6 +10630,18 @@
     "home": "DN SOOPers Challengers",
     "away": "TBD",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137831/dn_soo_perslogo_profile.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1677956",
+    "sport": "lol",
+    "league": "Hitpoint Masters",
+    "date": "2026-09-09T14:00:00Z",
+    "home": "CITA Kaizen",
+    "away": "Meavedron",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136343/285px_cita_kaizen_allmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/134205/meavedronlogo_square.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -10750,6 +10709,16 @@
     "sport": "lol",
     "league": "LCK Challengers League",
     "date": "2026-09-10T08:00:00Z",
+    "home": "TBD",
+    "away": "TBD",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1677957",
+    "sport": "lol",
+    "league": "Hitpoint Masters",
+    "date": "2026-09-10T14:00:00Z",
     "home": "TBD",
     "away": "TBD",
     "homeScore": 0,
