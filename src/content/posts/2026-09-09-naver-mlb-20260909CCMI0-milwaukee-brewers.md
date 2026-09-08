@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.08","home":"밀워키 브루어스","away":"시카�
 awayRecent: '[{"date":"26.09.08","home":"밀워키 브루어스","away":"시카고 컵스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CCMI0-2026-09-08-milwaukee-brewers/"},{"date":"26.09.07","home":"마이애미 말린스","away":"시카고 컵스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907CCFL0-2026-09-07-miami-marlins/"},{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"},{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브루어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904MICC0-2026-09-04-chicago-cubs/"}]'
 injuryHome: "Rob Zastryzny (부상자 명단 60일)|Bryse Wilson (부상자 명단 15일)|Grant Anderson (염증)|Brandon Woodruff (부상자 명단 60일)|Quinn Priester (수술)"
 injuryAway: "Ian Happ (통증)|Edward Cabrera (찰과상)|Shelby Miller (부상자 명단 60일)|Tyler Austin (수술)|Gavin Hollowell (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Misiorowski (14-5, 1.97) ERA 1.97|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
+awayLineup: "[\"선발투수 D. Peterson (7-8, 5.39) ERA 5.39|https://a.espncdn.com/i/headshots/mlb/players/full/40921.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

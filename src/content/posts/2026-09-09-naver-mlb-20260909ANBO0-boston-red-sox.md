@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에�
 awayRecent: '[{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"},{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"}]'
 injuryHome: "Willson Contreras (염좌)|Ceddanne Rafaela (근육통)|Curtis Mead (골절)|Tyron Guerrero (염증)|Tanner Houck (수술)"
 injuryAway: "Nolan Schanuel (염좌)|Sam Bachman (염증)|Yoan Moncada (수술)|Gustavo Campero (염좌)|George Klassen (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Sandoval (1-4, 4.41) ERA 4.41|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\"]"
+awayLineup: "[\"선발투수 R. Detmers (4-8, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

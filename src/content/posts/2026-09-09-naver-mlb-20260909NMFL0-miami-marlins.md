@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 
 awayRecent: '[{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 메츠","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908NMFL0-2026-09-08-miami-marlins/"},{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SFNM0-2026-09-07-new-york-mets/"},{"date":"26.09.06","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets/"},{"date":"26.09.05","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"10-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SFNM0-2026-09-05-new-york-mets/"},{"date":"26.09.03","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NMTB0-2026-09-03-tampa-bay-rays/"}]'
 injuryHome: "Pete Fairbanks (손목 신경 압박)|Xavier Edwards (염좌)|Anthony Bender (골절)|Max Meyer (근육 손상)|Ronny Henriquez (수술 후 회복)"
 injuryAway: "Devin Williams (근육 손상)|Cionel Perez (근육 손상)|Jorge Polanco (수술 후 회복)|Reed Garrett (수술 후 회복)|Tylor Megill (수술 후 회복)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Alcantara (13-9, 3.54) ERA 3.54|https://a.espncdn.com/i/headshots/mlb/players/full/35241.png\"]"
+awayLineup: "[\"선발투수 S. Manaea (4-7, 4.70) ERA 4.70|https://a.espncdn.com/i/headshots/mlb/players/full/33244.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

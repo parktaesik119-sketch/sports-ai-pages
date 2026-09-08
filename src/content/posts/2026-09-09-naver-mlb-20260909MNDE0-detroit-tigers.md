@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.08","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.08","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MNDE0-2026-09-08-detroit-tigers/"},{"date":"26.09.07","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MNCW0-2026-09-07-chicago-white-sox/"},{"date":"26.09.06","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MNCW0-2026-09-06-chicago-white-sox/"},{"date":"26.09.05","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MNCW0-2026-09-05-chicago-white-sox/"},{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"}]'
 injuryHome: "Justin Verlander (스트레인)|Kerry Carpenter (족저근막염)|Wenceel Perez (골절)|Jack Flaherty (염증)|Parker Meadows (수술)"
 injuryAway: "Austin Martin (스트레인)|Byron Buxton (신경 압박)|Mike Paredes (스트레인)|Mick Abel (수술)|Cole Sands (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Anderson (4-5, 3.73) ERA 3.73|https://a.espncdn.com/i/headshots/mlb/players/full/41125.png\"]"
+awayLineup: "[\"선발투수 D. Kremer (2-5, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

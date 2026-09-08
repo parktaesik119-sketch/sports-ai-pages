@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.07","home":"시애틀 매리너스","away":"애슬�
 awayRecent: '[{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"},{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"},{"date":"26.09.04","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TBTE0-2026-09-04-texas-rangers/"},{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬레틱스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903OATE0-2026-09-03-texas-rangers/"},{"date":"26.09.01","home":"텍사스 레인저스","away":"애슬레틱스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901OATE0-2026-09-01-texas-rangers/"}]'
 injuryHome: "Lazaro Montes (근육통)|Hoby Milner (애도)|Brendan Donovan (뇌진탕)|Victor Robles (애도)|Brennen Davis (염좌)"
 injuryAway: "Kyle Higashioka (염좌)|Carter Baumler (염좌)|Cole Winn (염좌)|Josh Jung (염좌)|Nathan Eovaldi (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Anderson (0-1, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/5198748.png\"]"
+awayLineup: "[\"선발투수 C. Quantrill (7-5, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/39875.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
