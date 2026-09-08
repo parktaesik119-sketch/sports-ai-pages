@@ -1,0 +1,37 @@
+---
+title: "디트로이트 타이거즈 vs 미네소타 트윈스 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | MLB - 픽천국"
+date: 2026-09-08T22:40:00.000Z
+description: "디트로이트 타이거즈 vs 미네소타 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260909MNDE0-2026-09-09-detroit-tigers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "디트로이트 타이거즈"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+homeAnalysis: "디트로이트 타이거즈는 2026시즌 최근 105경기에서 50승 54패 1무, 승률 .458, 평균 득점 4.3을 기록하고 있으며, 리그순위 12위답게 시즌 전체 흐름은 들쭉날쭉하지만 최근에는 다시 반등을 시도하는 모습입니다. 직전 경기에서 미네소타 트윈스를 상대로 5득점을 올리며 승리를 챙겼고, 그 전에는 클리블랜드를 상대로도 6득점 경기를 만들며 공격 감각을 보여주었습니다. 다만 최근 10경기 평균 득점이 3.4점으로 떨어져 있어, 득점력의 기복은 여전히 분명한 편입니다. 수비 쪽에서는 시즌 득실이 플러스인 점이 강점이지만, 연속 실점이 커지는 경기에서는 경기 운영이 흔들리는 모습도 보입니다. 홈에서의 힘을 바탕으로 흐름을 다시 살릴 여지는 있으나, 주요 전력 이탈이 적지 않아 안정감 면에서는 부담이 남아 있습니다. 특히 결장 공백을 메우는 과정에서 타선의 응집력과 마운드 운영이 함께 흔들리지 않는지가 관건으로 보입니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 최근 104경기에서 48승 56패, 승률 .472, 평균 득점 4.3을 기록하고 있으며, 리그순위 10위지만 득실이 마이너스라 전력의 균형은 완성도가 더 필요한 모습입니다. 최근 10경기 평균 득점이 5.5점으로 올라와 타선은 살아나는 흐름이 보이지만, 같은 구간에서 4승 6패로 결과가 흔들려 안정감은 부족합니다. 직전 맞대결에서도 4점을 내고도 패했고, 큰 점수 차 패배와 대량 득점 승리가 함께 나와 경기 편차가 큰 편입니다. 원정 성적에서도 공격은 가능한데 수비와 불펜이 이를 지키지 못하는 장면이 자주 나타나고 있습니다. 바이런 벅스턴과 오스틴 마틴의 이탈은 득점 생산과 주루 압박에 영향을 줄 수 있어, 현재는 타선의 상위 흐름을 얼마나 오래 유지하느냐가 중요합니다. 최근 흐름만 보면 반등 조짐은 분명하지만, 실점 관리가 따라오지 않으면 우세를 끝까지 지키기 어렵게 보입니다."
+homePower: "최근 맞대결서 단기 우위 흐름이 확인됨|플러스 득실에도 실점 변동폭 커 안정성 과제임|홈에서 반등 가능성은 있으나 결장 공백 부담 큼|최근 타격감 회복세지만 지속성은 검증 필요함|상대전적 열세 속에서도 한 경기 폭발력은 살아있음"
+awayPower: "최근 타선은 살아나며 득점 폭발력 보임|그러나 실점 억제가 약해 경기 편차가 큼|리그순위 대비 득실 마이너스로 완성도 아쉬움|상위 타선 공백으로 장타 기대치 일부 낮아짐|원정에서도 공격은 되나 마무리 안정성은 과제임"
+h2h: '[{"date":"26.09.08","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MNDE0-2026-09-08-detroit-tigers/"},{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"},{"date":"26.09.02","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"15-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902DEMN0-2026-09-02-minnesota-twins/"},{"date":"26.09.01","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"11-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901DEMN0-2026-09-01-minnesota-twins/"},{"date":"26.06.12","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"11-0","link":"https://pick79.com/posts/detail/analyze-179036-2026-06-12-detroit-tigers/"}]'
+summary: "미네소타 트윈스는 리그순위 10위이지만 최근 10경기에서 득점 생산이 뚜렷하게 살아나고 있어, 전체 성적보다 현재 공격 흐름이 더 인상적으로 보입니다. 디트로이트 타이거즈는 리그순위 12위로 더 낮은 위치에 있지만, 시즌 득실이 플러스이고 최근 맞대결에서 한 번 흐름을 끊어낸 점은 분명한 강점입니다. 다만 상대전적에서는 미네소타 트윈스가 우세를 이어가고 있고, 최근 시리즈에서도 큰 점수 차 승부를 만들어 내는 쪽이 미네소타 트윈스였던 만큼 경기 주도권은 원정팀 쪽으로 조금 더 기울어 있습니다. 홈팀도 쉽게 물러서지 않겠지만, 결장 공백과 수비 변동성을 감안하면 미네소타 트윈스가 전체 흐름을 더 잘 살릴 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.08","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MNDE0-2026-09-08-detroit-tigers/"},{"date":"26.09.07","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907DECL0-2026-09-07-cleveland-guardians/"},{"date":"26.09.06","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906DECL0-2026-09-06-cleveland-guardians/"},{"date":"26.09.05","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905DECL2-2026-09-05-cleveland-guardians/"},{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.09.08","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MNDE0-2026-09-08-detroit-tigers/"},{"date":"26.09.07","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MNCW0-2026-09-07-chicago-white-sox/"},{"date":"26.09.06","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MNCW0-2026-09-06-chicago-white-sox/"},{"date":"26.09.05","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MNCW0-2026-09-05-chicago-white-sox/"},{"date":"26.09.03","home":"미네소타 트윈스","away":"디트로이트 타이거즈","score":"6-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903DEMN0-2026-09-03-minnesota-twins/"}]'
+injuryHome: "Justin Verlander (스트레인)|Kerry Carpenter (족저근막염)|Wenceel Perez (골절)|Jack Flaherty (염증)|Parker Meadows (수술)"
+injuryAway: "Austin Martin (스트레인)|Byron Buxton (신경 압박)|Mike Paredes (스트레인)|Mick Abel (수술)|Cole Sands (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

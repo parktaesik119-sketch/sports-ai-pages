@@ -1,0 +1,37 @@
+---
+title: "마이애미 말린스 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | MLB - 픽천국"
+date: 2026-09-08T22:40:00.000Z
+description: "마이애미 말린스 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260909NMFL0-2026-09-09-miami-marlins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "마이애미 말린스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "마이애미 말린스는 2026시즌 최근 111경기에서 53승 56패 2무, 승률 .497로 중위권에서 버티고 있으며 평균 득점 4.2의 흐름을 이어가고 있습니다. 최근 들어서는 홈에서 득점이 한 번 크게 터질 때와 그렇지 않을 때의 차이가 분명하게 드러나고 있고, 직전 경기에서도 뉴욕 메츠에 4득점 9실점으로 밀리며 수비 쪽 불안이 다시 보였습니다. 다만 직전 10경기 평균 득점이 5.1까지 올라와 있어 타선의 응답 속도는 나쁘지 않으며, 홈에서는 장타와 집중타가 붙는 날 공격 전개가 살아나는 편입니다. 반면 시즌 득실이 635득점 625실점으로 근소한 우위를 유지하고 있어, 경기 운영이 완전히 무너지는 팀은 아니지만 흐름이 흔들릴 때 실점 억제가 쉽지 않은 모습입니다. 이번 경기에서는 홈의 이점이 있더라도 불펜 공백이 적지 않아, 선발이 초반을 얼마나 안정적으로 버텨 주느냐가 매우 중요하게 보입니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 최근 104경기에서 50승 53패 1무, 승률 .458로 하위권에 머물고 있지만 평균 득점 4.3을 유지하며 공격 생산성 자체는 완전히 꺼지지 않은 상태입니다. 최근 10경기에서는 평균 득점이 5.3까지 올라와 타선의 응집력이 좋아진 흐름이 확인되고 있고, 직전 마이애미 원정에서도 9득점을 기록하며 화력을 분명하게 보여 주었습니다. 시즌 득실은 605득점 648실점으로 실점이 적지 않아 전체적인 전력 균형은 다소 무겁지만, 최근 경기에서는 득점이 따라오며 반등 조짐이 뚜렷합니다. 다만 핵심 불펜과 투수진 결장이 겹쳐 있어 접전 상황에서 마무리 단계의 안정감은 여전히 변수로 남아 있습니다. 이번 경기에서는 공격이 먼저 흐름을 잡아 주면 원정에서도 충분히 주도권을 가져올 가능성이 있어 보입니다."
+homePower: "불펜 핵심 결장으로 후반 승부 약화 우려됨|최근 홈 득점 기복 커서 초반 선점이 중요함|득실이 플러스라도 실점 억제 안정성은 흔들림|강한 상대에도 한 번 터지면 다득점 전개 가능함|마이애미 말린스, 홈 응집력은 있지만 뒷문 불안이 큼"
+awayPower: "뉴욕 메츠, 최근 타선 응집력 상승세가 분명함|득점이 따라오면 원정에서도 흐름 장악 가능함|주요 불펜 이탈로 접전 유지력은 약화된 상태임|실점이 많은 전력이라 선취점 확보가 중요함|마이애미 말린스 상대 상성에서 화력 우위가 보임"
+h2h: '[{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 메츠","score":"4-9","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908NMFL0-2026-09-08-miami-marlins/"},{"date":"26.08.03","home":"뉴욕 메츠","away":"마이애미 말린스","score":"0-2","link":"https://pick79.com/posts/detail/analyze-179690-2026-08-03-new-york-mets/"},{"date":"26.08.02","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-179675-2026-08-02-new-york-mets/"},{"date":"26.08.01","home":"뉴욕 메츠","away":"마이애미 말린스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-179661-2026-08-01-new-york-mets/"},{"date":"26.07.31","home":"뉴욕 메츠","away":"마이애미 말린스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-179646-2026-07-31-new-york-mets/"}]'
+summary: "마이애미 말린스는 시즌 승률이 .497로 버티고 있지만 최근에는 실점 관리가 흔들리며 경기 기복이 다시 드러나고 있습니다. 반면 뉴욕 메츠는 승률 .458로 시즌 전체만 보면 뒤처져 있으나, 최근 득점 흐름이 살아나면서 공격 쪽에서는 더 날카로운 모습을 보여 주고 있습니다. 상대전적에서도 마이애미 말린스가 근소하게 앞서 있지만, 최근 맞대결 흐름과 양 팀의 최근 득실 추세를 함께 보면 이번에는 뉴욕 메츠가 더 적극적으로 주도권을 가져갈 가능성이 높아 보입니다. 다만 양 팀 모두 불펜 결장이 적지 않아 초반에 점수를 내는 쪽이 경기를 더 편하게 풀어갈 것으로 보입니다."
+homeRecent: '[{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 메츠","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908NMFL0-2026-09-08-miami-marlins/"},{"date":"26.09.07","home":"마이애미 말린스","away":"시카고 컵스","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907CCFL0-2026-09-07-miami-marlins/"},{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"},{"date":"26.09.04","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904FLKC0-2026-09-04-kansas-city-royals/"}]'
+awayRecent: '[{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 메츠","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908NMFL0-2026-09-08-miami-marlins/"},{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SFNM0-2026-09-07-new-york-mets/"},{"date":"26.09.06","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets/"},{"date":"26.09.05","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"10-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SFNM0-2026-09-05-new-york-mets/"},{"date":"26.09.03","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NMTB0-2026-09-03-tampa-bay-rays/"}]'
+injuryHome: "Pete Fairbanks (손목 신경 압박)|Xavier Edwards (염좌)|Anthony Bender (골절)|Max Meyer (근육 손상)|Ronny Henriquez (수술 후 회복)"
+injuryAway: "Devin Williams (근육 손상)|Cionel Perez (근육 손상)|Jorge Polanco (수술 후 회복)|Reed Garrett (수술 후 회복)|Tylor Megill (수술 후 회복)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "지바 롯데 마린스 vs 라쿠텐 골든이글스 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | NPB - 픽천국"
+date: 2026-09-09T09:00:00.000Z
+description: "지바 롯데 마린스 vs 라쿠텐 골든이글스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260909RTJL0-2026-09-09-chiba-lotte-marines"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "지바 롯데 마린스"
+awayTeam: "라쿠텐 골든이글스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/JL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/RT.png"
+homeAnalysis: "지바 롯데 마린스는 2026시즌 최근 93경기에서 44승 3무 46패를 기록하며 평균 득점 3.6점을 유지하고 있습니다. 전력 기복은 있었지만 최근에는 오릭스 버팔로스를 상대로 승리를 챙기고, 세이부 라이온스를 상대로도 실점을 0점으로 묶는 등 마운드 집중력이 살아나는 흐름이 보입니다. 홈 경기에서는 저득점 접전에서도 버티는 힘이 돋보이고, 필요할 때 최소 득점을 지켜내는 운영이 강점으로 평가됩니다. 다만 타선은 폭발력보다 연결과 효율에 더 의존하는 편이라 득점이 크게 벌어지지 않는 경기에서 승부를 만드는 모습이 많습니다. 최근 맞대결에서도 라쿠텐 골든이글스를 상대로 승리를 가져온 장면이 있어, 상성 면에서도 쉽게 밀리지 않는 전개가 기대됩니다."
+awayAnalysis: "라쿠텐 골든이글스는 2026시즌 최근 96경기에서 34승 0무 62패를 기록하며 평균 득점 3.3점에 머물고 있습니다. 최근에는 오릭스 버팔로스를 상대로 연승을 만들었지만, 그 흐름을 이어가지 못하고 닛폰햄 파이터스전에서는 실점이 다시 늘면서 전력 안정감이 흔들리고 있습니다. 원정에서는 득점 생산이 들쭉날쭉하고, 수비 쪽에서도 한 번 흐름이 무너지면 연속 실점으로 이어지는 약점이 보입니다. 그래도 중간에 큰 점수 차 승리를 만들어내는 경기력이 있어 타선의 순간 폭발력 자체는 완전히 사라지지 않은 상태입니다. 다만 지바 롯데 마린스를 상대로는 최근 경기에서 승패가 엇갈렸고, 접전에서는 마운드 부담이 커지는 모습이 자주 나타나고 있습니다."
+homePower: "접전 운영에서 실점 억제력이 살아나는 흐름임|저득점 경기에서 마무리 집중도가 강점으로 보임|홈에서는 수비 안정이 타선 부담을 덜어줌|라쿠텐전에서 상성상 쉽게 밀리지 않는 편임|폭발력보다 효율로 승부를 만드는 구조가 확인됨"
+awayPower: "원정에서 득점 편차가 커 경기 흐름이 불안정함|큰 점수 차 승리와 저득점 패배가 공존함|실점이 늘면 추격력보다 붕괴 위험이 먼저 보임|지바 롯데전에서는 접전 대응력이 과제로 남음|타선 순간 폭발은 있으나 지속성은 약한 편임"
+h2h: '[{"date":"26.08.20","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260820JLRT0-2026-08-20-rakuten-gold-eagles/"},{"date":"26.08.19","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260819JLRT0-2026-08-19-rakuten-gold-eagles/"},{"date":"26.08.18","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260818JLRT0-2026-08-18-rakuten-gold-eagles/"},{"date":"26.07.23","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-181165-2026-07-23-chiba-lotte-marines/"},{"date":"26.07.22","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"10-2","link":"https://pick79.com/posts/detail/analyze-181159-2026-07-22-chiba-lotte-marines/"}]'
+summary: "지바 롯데 마린스는 2026시즌 전체 전력과 최근 흐름을 함께 보면, 라쿠텐 골든이글스보다 조금 더 안정된 경기 운영을 보여주고 있습니다. 두 팀 모두 득점이 아주 풍부한 편은 아니지만, 지바 롯데 마린스는 최근 접전에서 버티는 힘이 더 살아 있고 수비 집중력도 나쁘지 않습니다. 라쿠텐 골든이글스는 순간적으로는 화력이 터질 수 있어도 흐름이 끊기면 실점이 커지는 약점이 보여서, 전체적인 균형에서는 지바 롯데 마린스 쪽이 조금 더 우세해 보입니다. 이번 경기는 팽팽하게 흘러가겠지만, 마운드 운영과 실책 관리에서 지바 롯데 마린스가 한 발 앞설 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.06","home":"오릭스 버팔로스","away":"지바 롯데 마린스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906JLOX0-2026-09-06-orix-buffaloes/"},{"date":"26.09.05","home":"오릭스 버팔로스","away":"지바 롯데 마린스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905JLOX0-2026-09-05-orix-buffaloes/"},{"date":"26.09.04","home":"오릭스 버팔로스","away":"지바 롯데 마린스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904JLOX0-2026-09-04-orix-buffaloes/"},{"date":"26.09.01","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SEJL0-2026-09-01-chiba-lotte-marines/"},{"date":"26.08.30","home":"니혼햄 파이터즈","away":"지바 롯데 마린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830JLNH0-2026-08-30-nippon-ham-fighters/"}]'
+awayRecent: '[{"date":"26.09.06","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906NHRT0-2026-09-06-rakuten-gold-eagles/"},{"date":"26.09.05","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905NHRT0-2026-09-05-rakuten-gold-eagles/"},{"date":"26.09.02","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902OXRT0-2026-09-02-rakuten-gold-eagles/"},{"date":"26.09.01","home":"라쿠텐 골든이글스","away":"오릭스 버팔로스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901OXRT0-2026-09-01-rakuten-gold-eagles/"},{"date":"26.08.30","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830RTSE0-2026-08-30-seibu-lions/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "지바 롯데 마린스"
+pickWinResult: "승"
+pickHandicapTeam: "지바 롯데 마린스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

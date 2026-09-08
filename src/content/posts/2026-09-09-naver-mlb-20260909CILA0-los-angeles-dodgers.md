@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | MLB - 픽천국"
+date: 2026-09-09T02:10:00.000Z
+description: "LA 다저스 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260909CILA0-2026-09-09-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "LA 다저스는 2026시즌 최근 95경기에서 58승 37패, 승률 0.607과 평균 득점 5.0으로 상위권 전력을 유지하고 있습니다. 최근 10경기에서도 6승 4패에 평균 득점 4.4를 기록하며 흐름은 나쁘지 않지만, 직전 구간에서 실점이 늘어나는 장면도 함께 보이고 있습니다. 특히 홈에서는 경기 운영이 비교적 안정적이고, 득점이 필요한 구간에서도 상위 타선의 연결이 살아나면서 꾸준히 점수를 만들어내고 있습니다. 다만 장기 결장자가 몇 명 겹쳐 있어 마운드 운용과 뒷문 안정감은 다소 흔들릴 수 있습니다. 그럼에도 전체적인 공격 생산력과 홈 경기 강세를 고려하면 경기 초반 주도권을 잡을 가능성은 충분히 보입니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 최근 101경기에서 44승 55패 2무, 승률 0.444와 평균 득점 4.2로 중하위권 전력에 머물고 있습니다. 최근 10경기에서는 7승 3패에 평균 득점 6.7로 반등 흐름이 뚜렷해졌고, 공격 쪽은 확실히 살아난 모습입니다. 특히 원정에서도 득점이 한 번 터지면 연속으로 점수를 쌓는 힘이 있어서, 경기 흐름을 빠르게 바꾸는 장면이 있습니다. 다만 시즌 전체 기준으로는 실점이 득점보다 더 많은 구조가 이어지고 있어 수비 쪽 부담은 여전히 큽니다. 장기 결장자 영향까지 감안하면 최근의 상승세는 분명하지만, 안정성에서는 다소 검증이 더 필요한 상태로 보입니다."
+homePower: "상위권 승률이 말해주는 안정된 경기 운영임|홈에서는 타선 연결이 끊기지 않는 흐름 보임|실점 억제보다 득점 압박으로 승부를 여는 구조임|결장자 부담에도 전체 전력 깊이는 여전히 우위임|접전에서도 후반 대응력이 살아 있는 편임"
+awayPower: "최근 득점 폭발로 타격감이 크게 올라온 상태임|원정에서도 초반부터 점수 생산이 가능한 흐름임|시즌 실점 부담이 커 공격만으로 버티기엔 불안함|장기 결장으로 전력 깊이가 얇아진 점이 아쉬움|상승세는 뚜렷하나 안정감은 아직 들쑥날쑥함"
+h2h: '[]'
+summary: "LA 다저스는 시즌 전체 기준으로 더 높은 승률과 더 나은 득실 차를 갖춘 팀이라 기본 전력에서는 앞서 있습니다. 신시내티 레즈는 최근 득점 흐름이 상당히 좋아져 공격적으로는 쉽게 밀리지 않겠지만, 시즌 전체 수비 밸런스와 전력 깊이에서는 여전히 다저스 쪽이 더 단단해 보입니다. 다만 레즈가 최근처럼 초반 득점을 빠르게 만들면 경기는 팽팽해질 수 있고, 결장자 영향까지 감안하면 끝까지 긴장감 있는 양상으로 이어질 가능성이 높습니다. 그럼에도 전체 전력의 안정감과 홈 이점을 감안하면, 근소한 차이로도 신시내티 레즈 쪽 우세가 더 자연스럽게 보입니다."
+homeRecent: '[{"date":"26.09.07","home":"LA 다저스","away":"워싱턴 내셔널스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MOLA0-2026-09-07-los-angeles-dodgers/"},{"date":"26.09.06","home":"LA 다저스","away":"워싱턴 내셔널스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MOLA0-2026-09-06-los-angeles-dodgers/"},{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔널스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MOLA0-2026-09-05-los-angeles-dodgers/"},{"date":"26.09.04","home":"LA 다저스","away":"세인트루이스 카디널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SLLA0-2026-09-04-los-angeles-dodgers/"},{"date":"26.09.03","home":"LA 다저스","away":"세인트루이스 카디널스","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SLLA0-2026-09-03-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.09.07","home":"신시내티 레즈","away":"밀워키 브루어스","score":"12-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MICI0-2026-09-07-cincinnati-reds/"},{"date":"26.09.06","home":"신시내티 레즈","away":"밀워키 브루어스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MICI0-2026-09-06-cincinnati-reds/"},{"date":"26.09.05","home":"신시내티 레즈","away":"밀워키 브루어스","score":"7-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MICI0-2026-09-05-cincinnati-reds/"},{"date":"26.09.03","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SDCI0-2026-09-03-cincinnati-reds/"},{"date":"26.09.02","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SDCI0-2026-09-02-cincinnati-reds/"}]'
+injuryHome: "Edwin Diaz (염증)|Kris Bubic (통증)|Roki Sasaki (찰과상)|Dalton Rushing (통증)|Eric Lauer (염증)"
+injuryAway: "Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "신시내티 레즈"
+pickWinResult: "승"
+pickHandicapTeam: "신시내티 레즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

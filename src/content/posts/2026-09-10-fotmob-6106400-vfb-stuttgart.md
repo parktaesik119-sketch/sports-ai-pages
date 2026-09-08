@@ -1,0 +1,37 @@
+---
+title: "슈투트가르트 vs 바이킹 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | 챔피언스리그 - 픽천국"
+date: 2026-09-09T16:45:00.000Z
+description: "슈투트가르트 vs 바이킹 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6106400-2026-09-10-vfb-stuttgart"
+category: "soccer"
+country: "국제"
+league: "챔피언스리그"
+homeTeam: "슈투트가르트"
+awayTeam: "바이킹"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8478.png"
+homeAnalysis: "슈투트가르트는 2026시즌 최근 12경기에서 7승 2무 3패, 평균 득점 3.1을 기록하며 공격 전개의 완성도가 매우 높은 전력입니다. 최근에는 뮌헨전 1득점 패배가 있었지만, 쾰른전 4득점 승리와 에버턴전 3득점 승리처럼 홈에서든 원정에서든 득점 생산이 꾸준히 이어지고 있습니다. 특히 홈에서 주도권을 잡으면 다득점으로 경기를 풀어가는 흐름이 자주 보이고, 상대 수비를 넓혀 놓은 뒤 측면과 중앙을 함께 공략하는 장면이 돋보입니다. 제프 샤보와 파비안 브레들로가 버티는 수비 라인도 경기 운영의 안정감을 더하고 있으나, 일부 경기에서는 강한 압박을 받을 때 실점이 늘어나는 모습이 있습니다. 세바스티안 회네스 감독 체제에서 제시된 선발 자원들을 보면 크리스 퓌리히와 데니즈 운다브의 연계, 그리고 안젤로 슈틸러의 전진 패스가 경기의 무게중심이 될 가능성이 높습니다."
+awayAnalysis: "바이킹은 2026시즌 최근 18경기에서 11승 5무 2패, 평균 득점 2.0을 기록하며 안정적인 승점 수확 능력을 보여주고 있습니다. 산데피외르전 1득점 무승부와 브로드전, 아렌순전 승리 흐름을 보면 일정한 득점력을 유지하면서도 경기마다 실리를 챙기는 전력이 강합니다. 원정에서도 레드부르드전 3득점 승리, 로센보리전 승리처럼 상대 수준에 따라 과감하게 대응하는 장면이 있어 쉽게 밀리는 팀은 아닙니다. 다만 득점은 꾸준하지만 폭발력은 슈투트가르트보다 한 단계 낮아 보이고, 수비에서도 실점 관리가 흔들릴 때가 있어 압박이 강한 상대를 만나면 부담이 커질 수 있습니다. 모르텐 옌센 감독이 이끄는 가운데 조 벨과 크리스토퍼 아스킬드센이 중원을 잡고, 조에르 트리피치와 피터 크리스티안센이 앞선에서 마무리를 책임지는 구도가 핵심으로 보입니다."
+homePower: "홈에서 득점이 크게 살아나는 구조임|안젤로 슈틸러 중심 전진 전개가 강점임|크리스 퓌리히-데니즈 운다브 연계가 위협적임|수비진 결장 여파로 라인 조정 필요성이 큼|주도권을 잡을수록 다득점 흐름이 잘 나옴"
+awayPower: "원정에서도 득점 유지력이 안정적임|조 벨-크리스토퍼 아스킬드센 조합이 중심임|조에르 트리피치의 마무리 비중이 큼|실리 위주 운영으로 경기 흔들림을 줄임|강한 압박 상대에선 수비 간격 관리가 관건임"
+h2h: '[]'
+summary: "슈투트가르트는 2026시즌 12경기 기준으로 득점 생산이 매우 활발하고, 경기 흐름을 홈에서 강하게 끌고 가는 힘이 분명한 전력입니다. 바이킹은 18경기 기준으로 승리 수확과 득점 유지력이 안정적이어서 쉽게 무너지는 팀은 아니지만, 공격의 깊이와 폭발력에서는 슈투트가르트가 더 앞서는 모습입니다. 양 팀 모두 최근 흐름이 나쁘지 않지만, 슈투트가르트가 주도권을 잡았을 때 경기 내용을 더 크게 흔들 수 있는 쪽으로 보이며, 전체적인 전력 우위도 홈팀 쪽에 조금 더 실려 있습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Luca Jaquez (근육 부상)|Dan-Axel Zagadou (햄스트링 부상)|Lorenz Assignon (어깨 부상)|Justin Diehl (허벅지 부상)|Dennis Seimen (햄스트링 부상)|Nikolas Nartey (근육 부상)|Tiago Tomás (근육 부상)"
+injuryAway: "Kristoffer Haugen (충돌 부상)|Nick D'Agostino (무릎 부상)|Henrik Falchener (근육 부상)|Martin Ove Roseth (무릎 부상)|Anders Bærtelsen (부상)|Veton Berisha (허벅지 부상)"
+homeLineup: '["Fabian Bredlow (GK)|https://images.fotmob.com/image_resources/playerimages/522236.png","Josha Vagnoman (DF)|https://images.fotmob.com/image_resources/playerimages/928454.png","Finn Jeltsch (DF)|https://images.fotmob.com/image_resources/playerimages/1487877.png","Jeff Chabot (DF)|https://images.fotmob.com/image_resources/playerimages/867080.png","Maximilian Mittelstädt (DF)|https://images.fotmob.com/image_resources/playerimages/614384.png","Jamie Leweling (FW)|https://images.fotmob.com/image_resources/playerimages/1074968.png","Grischa Prömel (MF)|https://images.fotmob.com/image_resources/playerimages/625175.png","Angelo Stiller (MF)|https://images.fotmob.com/image_resources/playerimages/1071186.png","Chris Führich (FW)|https://images.fotmob.com/image_resources/playerimages/892679.png","Dženan Pejčinović (FW)|https://images.fotmob.com/image_resources/playerimages/1366602.png","Deniz Undav (FW)|https://images.fotmob.com/image_resources/playerimages/661519.png"]'
+awayLineup: '["Arild Østbø (GK)|https://images.fotmob.com/image_resources/playerimages/119598.png","Henrik Heggheim (DF)|https://images.fotmob.com/image_resources/playerimages/1163230.png","Gianni Stensness (DF)|https://images.fotmob.com/image_resources/playerimages/1029026.png","Jesper Daland (DF)|https://images.fotmob.com/image_resources/playerimages/633094.png","Vetle Auklend (DF)|https://images.fotmob.com/image_resources/playerimages/1585827.png","Tobias Moi (MF)|https://images.fotmob.com/image_resources/playerimages/1636182.png","Joe Bell (MF)|https://images.fotmob.com/image_resources/playerimages/848345.png","Kristoffer Askildsen (MF)|https://images.fotmob.com/image_resources/playerimages/964535.png","Simen Kvia-Egeskog (MF)|https://images.fotmob.com/image_resources/playerimages/1267374.png","Peter Christiansen (FW)|https://images.fotmob.com/image_resources/playerimages/955759.png","Zlatko Tripić (FW)|https://images.fotmob.com/image_resources/playerimages/279191.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-3-3"
+homeCoach: "Sebastian Hoeneß|https://images.fotmob.com/image_resources/playerimages/36490.png"
+awayCoach: "Morten Jensen|https://images.fotmob.com/image_resources/playerimages/200670.png"
+pickWinTeam: "슈투트가르트"
+pickWinResult: "승"
+pickHandicapTeam: "슈투트가르트"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "3"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

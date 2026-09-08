@@ -1,0 +1,37 @@
+---
+title: "요코하마 DeNA 베이스타스 vs 야쿠르트 스왈로우스 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | NPB - 픽천국"
+date: 2026-09-09T09:00:00.000Z
+description: "요코하마 DeNA 베이스타스 vs 야쿠르트 스왈로우스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260909YAYK0-2026-09-09-yokohama-baystars"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "요코하마 DeNA 베이스타스"
+awayTeam: "야쿠르트 스왈로우스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/YK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/YA.png"
+homeAnalysis: "요코하마 DeNA 베이스타스는 2026시즌 98경기 44승 2무 52패, 평균 득점 3.8로 시즌 전체 전력이 중상위권 경쟁력을 보여주고 있습니다. 최근 흐름도 10경기 7승 3패로 살아나 있으며, 특히 원정에서 한 점 차 접전까지 잡아내는 집중력이 돋보입니다. 득점은 폭발적이지 않지만 필요한 순간에 점수를 쌓는 힘이 있고, 수비와 투수 운영도 비교적 안정적으로 받쳐주고 있습니다. 홈에서는 상대를 몰아붙이는 구간이 분명하고, 최근에는 1점 차 승부를 지켜내는 마무리 능력이 강점으로 이어지고 있습니다. 선발 Katsuki Azuma가 시즌 내내 안정적인 흐름을 유지하고 있어, 초반부터 실점을 억제하며 경기 주도권을 잡을 가능성이 높아 보입니다."
+awayAnalysis: "야쿠르트 스왈로우스는 2026시즌 97경기 35승 2무 60패, 평균 득점 3.1로 전력 기복이 큰 편입니다. 최근 10경기에서도 3승 1무 6패에 그치며, 득점 생산과 실점 억제 모두에서 흔들리는 모습이 이어지고 있습니다. 타선은 특정 경기에서만 크게 터지고, 그 외에는 장시간 침묵하는 흐름이 자주 보여 꾸준함이 부족합니다. 수비 쪽도 한 번 흔들리면 연속 실점으로 이어지는 경우가 있어, 경기 운영의 안정감이 아쉬운 편입니다. 그래도 Yasunobu Okugawa가 시즌 2점대 후반대 ERA로 버티고 있어 초반 실점을 억제하면 접전으로 끌고 갈 여지는 있습니다."
+homePower: "요코하마 DeNA 베이스타스, 접전 운영에서 흐름 관리가 좋음|최근 원정 포함 연승 구간, 상승 흐름 확인됨|한 점 차 승부를 지키는 마무리 강점 보임|선발진 안정감이 경기 초반 우위로 연결됨|큰 점수 차보다 효율적 득점 패턴이 강점임"
+awayPower: "야쿠르트 스왈로우스, 선발 의존도가 높은 구조로 보임|득점 기복이 커서 초반 선취점이 중요함|실점이 늘면 반격 흐름이 끊기기 쉬움|장타보다 연결 타격이 살아야 경쟁력 있음|접전에서는 불펜 집중력이 핵심 변수임"
+h2h: '[{"date":"26.08.16","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816YKYA0-2026-08-16-yakult-swallows/"},{"date":"26.08.15","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815YKYA0-2026-08-15-yakult-swallows/"},{"date":"26.08.14","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"7-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814YKYA0-2026-08-14-yakult-swallows/"},{"date":"26.07.19","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"5-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260719YAYK0-2026-07-19-yokohama-baystars/"},{"date":"26.07.18","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"8-0","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260718YAYK0-2026-07-18-yokohama-baystars/"}]'
+summary: "요코하마 DeNA 베이스타스는 시즌 전체 전력에서 야쿠르트 스왈로우스보다 득점력과 최근 흐름이 더 안정적으로 보입니다. 홈팀은 2026시즌 평균 득점 3.8과 최근 10경기 7승 3패를 바탕으로 경기 운영의 균형이 좋고, 야쿠르트 스왈로우스는 2026시즌 평균 득점 3.1과 최근 10경기 3승 1무 6패로 기복이 더 크게 드러납니다. 다만 맞대결에서는 야쿠르트 스왈로우스가 최근 3경기를 가져간 이력이 있어 초반 흐름이 중요하지만, 전체적인 전력과 최근 안정감까지 함께 보면 요코하마 DeNA 베이스타스가 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.06","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906YKHS0-2026-09-06-hanshin-tigers/"},{"date":"26.09.05","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905YKHS0-2026-09-05-hanshin-tigers/"},{"date":"26.09.02","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902YKYO0-2026-09-02-yomiuri-giants/"},{"date":"26.09.01","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901YKYO0-2026-09-01-yomiuri-giants/"},{"date":"26.08.30","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830JNYK0-2026-08-30-yokohama-baystars/"}]'
+awayRecent: '[{"date":"26.09.05","home":"야쿠르트 스왈로우스","away":"주니치 드래곤스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905JNYA0-2026-09-05-yakult-swallows/"},{"date":"26.09.04","home":"야쿠르트 스왈로우스","away":"주니치 드래곤스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904JNYA0-2026-09-04-yakult-swallows/"},{"date":"26.09.03","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260903HSYA0-2026-09-03-yakult-swallows/"},{"date":"26.09.02","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902HSYA0-2026-09-02-yakult-swallows/"},{"date":"26.09.01","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901HSYA0-2026-09-01-yakult-swallows/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "요코하마 DeNA 베이스타스"
+pickWinResult: "승"
+pickHandicapTeam: "요코하마 DeNA 베이스타스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

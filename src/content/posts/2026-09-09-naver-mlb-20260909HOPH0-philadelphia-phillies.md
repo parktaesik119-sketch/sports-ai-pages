@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | MLB - 픽천국"
+date: 2026-09-08T22:40:00.000Z
+description: "필라델피아 필리스 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 최근 107경기 61승 2무 44패, 승률 .563, 평균 득점 4.6을 기록하며 리그순위 4위까지 올라와 있습니다. 최근에는 득점이 다소 줄어 평균 3.1점 수준으로 내려왔지만, 여전히 경기마다 마운드와 타선의 균형이 살아 있어 쉽게 무너지지 않는 전력이 보입니다. 특히 홈에서 운영 안정감이 좋고, 강한 상대를 만나도 낮은 점수대 접전으로 끌고 가는 힘이 있습니다. 다만 최근 몇 경기에서는 초반 득점이 막히는 장면도 보여 마무리 집중력이 승부를 가를 가능성이 있습니다. 결장자가 적지 않아 전력 누수는 있지만, 전체적인 시즌 흐름만 놓고 보면 홈에서 충분히 버틸 기반은 갖추고 있습니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 최근 92경기 49승 1무 42패, 승률 .507, 평균 득점 4.3으로 리그순위 5위에 올라 있습니다. 득실이 마이너스인 점을 보면 공격은 어느 정도 유지되더라도 실점 억제가 흔들리며 경기의 기복이 드러나는 흐름입니다. 최근에도 3.7점 수준의 득점은 나쁘지 않지만, 실점이 함께 늘어나는 구간이 반복되어 안정감 면에서는 아쉬움이 있습니다. 원정에서는 타선이 폭발하기보다 필요할 때 점수를 쌓는 쪽에 가깝고, 수비 쪽 흔들림이 커지면 경기를 끝까지 끌고 가는 힘이 약해집니다. 결장자 공백까지 겹치면서 경기 후반 운영에서 부담이 커질 수 있는 전력으로 보입니다."
+homePower: "리그순위는 높지만 최근 득점은 둔화됨|낮은 점수대 접전에 강한 운영력 보임|홈에서는 실점 관리로 흐름을 지키는 편임|장기 결장자 여파로 마무리 안정성은 변수임|한 방보다 누적 압박으로 승부 여는 타입임"
+awayPower: "리그순위 대비 득실 마이너스가 약점임|득점은 유지되나 실점 억제가 따라주지 않음|원정에서 공격 기복보다 수비 흔들림이 큼|장기 결장자 공백으로 후반 뒷심이 약화됨|상승 흐름보다 불안정한 구간이 더 눈에 띔"
+h2h: '[]'
+summary: "필라델피아 필리스는 시즌 성적과 리그순위가 더 안정적이고, 홈에서도 낮은 점수대 경기 운영을 잘 이어가고 있습니다. 휴스턴 애스트로스는 득점력 자체는 버티고 있지만 실점 관리가 흔들리며, 최근 흐름까지 더해 보면 전력의 완성도에서 한 발 뒤처져 보입니다. 두 팀 모두 결장 공백이 있지만, 현재 전력의 균형과 경기 운영 안정감에서는 필라델피아 필리스가 조금 더 앞서는 흐름으로 판단됩니다. 그럼에도 원정팀이 필요할 때 버티는 힘은 남아 있어, 경기 전체는 팽팽하게 흘러가되 후반 집중력에서 차이가 날 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.08","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ATPH0-2026-09-08-philadelphia-phillies/"},{"date":"26.09.07","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ATPH0-2026-09-07-philadelphia-phillies/"},{"date":"26.09.06","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ATPH0-2026-09-06-philadelphia-phillies/"},{"date":"26.09.05","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ATPH0-2026-09-05-philadelphia-phillies/"},{"date":"26.09.03","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903PHAZ0-2026-09-03-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.04","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904CWHO0-2026-09-04-houston-astros/"},{"date":"26.09.02","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902CWHO0-2026-09-02-houston-astros/"},{"date":"26.09.01","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901CWHO0-2026-09-01-houston-astros/"}]'
+injuryHome: "Tanner Banks (손목 염좌)|Caleb Kilian (손목 염좌)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
+injuryAway: "Brice Matthews (염좌)|Mike Burrows (염증)|Steven Okert (손목 염좌)|Carlos Correa (수술)|Brandon Walter (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 애스트로스"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 애스트로스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

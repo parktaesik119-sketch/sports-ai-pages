@@ -1,0 +1,37 @@
+---
+title: "세인트 존스턴 vs 셀틱 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | Premiership - 픽천국"
+date: 2026-09-09T19:00:00.000Z
+description: "세인트 존스턴 vs 셀틱 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5793915-2026-09-10-st-johnstone"
+category: "soccer"
+country: "스코틀랜드"
+league: "Premiership"
+homeTeam: "세인트 존스턴"
+awayTeam: "셀틱"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8467.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9925.png"
+homeAnalysis: "세인트 존스턴은 2026시즌 최근 15경기에서 6승 2무 7패, 평균 득점 1.5로 기복은 있으나 홈에서는 한 번 흐름을 타면 경기력이 살아나는 편입니다. 최근 히버니언전 2대1 승리처럼 전방 압박이 잘 맞아떨어질 때는 득점 연결이 분명하게 나타나고 있습니다. 다만 스코어를 지키는 구간에서 실점 억제가 흔들리는 장면이 있어, 수비 집중력이 경기의 향방을 크게 좌우할 가능성이 높습니다. 제이미 걸런이 불투명한 상태라면 전방의 마무리와 세컨드볼 대응에서 부담이 더해질 수 있습니다. 그래도 토비 스튜어트와 리엄 스미스, 잭 미첼, 체이크 디아바테, 에네스 알리치로 이어지는 수비 라인이 버텨 준다면, 홈에서 최소한의 경쟁력은 충분히 보입니다."
+awayAnalysis: "셀틱은 2026시즌 최근 22경기에서 15승 5무 2패, 평균 득점 2.1로 공수 균형이 매우 안정적인 전력입니다. 최근 파틱 스릴전 3대2 승리와 세인트 미렌전 2대1 승리처럼, 경기 중간에 흔들려도 득점으로 다시 흐름을 가져오는 힘이 돋보입니다. 다만 라스크전 1대5 패배처럼 강한 압박을 받는 날에는 수비 전환이 흔들릴 수 있어, 초반 리듬 관리가 중요해 보입니다. 칼럼 맥그리거 중심의 중원 장악과 벤자민 뉘그렌, 양현준, 카밀로 두란이 앞에서 만들어 주는 속도감은 세인트 존스턴 수비를 지속적으로 압박할 만합니다. 여기에 카메론 카터-비커스와 오스턴 트러스티가 버티는 뒷문까지 감안하면, 원정에서도 주도권을 잡을 가능성이 높습니다."
+homePower: "홈에서 득점과 실점이 함께 흔들리는 구조로 보임|제이미 걸런 공백 시 전방 완성도 저하 우려됨|초반 압박이 살아나면 승부를 끌고 갈 힘은 있음|수비 라인 집중력에 따라 경기 기복이 커지는 편임|홈에서 한 골 싸움으로 버틸 여지는 검증됨"
+awayPower: "최근 장기 전력 우위가 뚜렷하게 유지됨|칼럼 맥그리거 중심 중원 운영이 안정적임|벤자민 뉘그렌과 양현준의 침투가 날카로움|수비 불안 노출 경기에도 득점 회복력이 강함|원정에서도 점유와 압박 완성도가 높은 편임"
+h2h: '[{"date":"25.04.20","home":"세인트 존스턴","away":"셀틱","score":"0-5"},{"date":"25.04.06","home":"세인트 존스턴","away":"셀틱","score":"1-0"},{"date":"24.12.30","home":"셀틱","away":"세인트 존스턴","score":"4-0"},{"date":"24.09.29","home":"세인트 존스턴","away":"셀틱","score":"0-6"},{"date":"24.03.17","home":"셀틱","away":"세인트 존스턴","score":"3-1"}]'
+summary: "셀틱은 2026시즌 22경기 15승 5무 2패와 평균 득점 2.1을 바탕으로 전체 전력에서 한 수 위의 흐름을 보여주고 있습니다. 세인트 존스턴은 15경기 6승 2무 7패, 평균 득점 1.5로 홈에서 경쟁력은 있으나 경기력의 안정감에서는 셀틱과 차이가 있습니다. 상대전적에서도 셀틱이 대체로 강한 우위를 이어 왔고, 최근 맞대결의 큰 점수 차 결과까지 감안하면 이번 경기 역시 셀틱이 주도권을 잡을 가능성이 높습니다. 세인트 존스턴이 초반에 버티더라도, 셀틱의 중원 장악과 전방 마무리 완성도가 결국 승부를 갈라 놓을 것으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Jamie Gullan (부상)"
+injuryAway: "Callum Osmand (발목 부상)|Kieran Tierney (사타구니 부상)|Kasper Waarts Høgh (사타구니 부상)|Alistair Johnston (햄스트링 부상)|Jota (십자 인대 부상)"
+homeLineup: '["Toby Steward (GK)|https://images.fotmob.com/image_resources/playerimages/1313606.png","Liam Smith (DF)|https://images.fotmob.com/image_resources/playerimages/158818.png","Zach Mitchell (DF)|https://images.fotmob.com/image_resources/playerimages/1420196.png","Cheick Diabate (DF)|https://images.fotmob.com/image_resources/playerimages/1101057.png","Enes Alić (DF)|https://images.fotmob.com/image_resources/playerimages/1174845.png","Samuel Stanton (FW)|https://images.fotmob.com/image_resources/playerimages/302012.png","Reece McAlear (MF)|https://images.fotmob.com/image_resources/playerimages/1089741.png","Jason Holt (MF)|https://images.fotmob.com/image_resources/playerimages/264837.png","Taylor Steven (FW)|https://images.fotmob.com/image_resources/playerimages/1389992.png","Josh Fowler (FW)|https://images.fotmob.com/image_resources/playerimages/1783452.png","Jamie Gullan (MF)|https://images.fotmob.com/image_resources/playerimages/865728.png"]'
+awayLineup: '["Viljami Sinisalo (GK)|https://images.fotmob.com/image_resources/playerimages/1185782.png","Colby Donovan (DF)|https://images.fotmob.com/image_resources/playerimages/1663615.png","Cameron Carter-Vickers (DF)|https://images.fotmob.com/image_resources/playerimages/643589.png","Auston Trusty (DF)|https://images.fotmob.com/image_resources/playerimages/688271.png","Liam Scales (DF)|https://images.fotmob.com/image_resources/playerimages/782705.png","Callum McGregor (MF)|https://images.fotmob.com/image_resources/playerimages/111060.png","Mika Baur (MF)|https://images.fotmob.com/image_resources/playerimages/1329169.png","Haissem Hassan (FW)|https://images.fotmob.com/image_resources/playerimages/971787.png","Benjamin Nygren (MF)|https://images.fotmob.com/image_resources/playerimages/931605.png","Hyun-Jun Yang (FW)|https://images.fotmob.com/image_resources/playerimages/1232560.png","Camilo Durán (FW)|https://images.fotmob.com/image_resources/playerimages/1576597.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Simo Valakari|https://images.fotmob.com/image_resources/playerimages/23005.png"
+awayCoach: "Martin O'Neill|https://images.fotmob.com/image_resources/playerimages/78599.png"
+pickWinTeam: "셀틱"
+pickWinResult: "승"
+pickHandicapTeam: "셀틱"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

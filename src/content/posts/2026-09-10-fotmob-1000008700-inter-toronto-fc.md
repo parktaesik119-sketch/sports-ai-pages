@@ -1,0 +1,37 @@
+---
+title: "요크 유니티드 FC vs 퍼시픽 FC 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | 프리미어리그 - 픽천국"
+date: 2026-09-09T23:30:00.000Z
+description: "요크 유니티드 FC vs 퍼시픽 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-1000008700-2026-09-10-inter-toronto-fc"
+category: "soccer"
+country: "캐나다"
+league: "프리미어리그"
+homeTeam: "요크 유니티드 FC"
+awayTeam: "퍼시픽 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1022954.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1022953.png"
+homeAnalysis: "요크 유나이티드 FC는 2026시즌 최근 16경기에서 6승 7무 3패를 기록하며 평균 득점 1.5로 꾸준한 공격 생산력을 보여주고 있습니다. 최근 경기에서도 포르지 FC전 1대1, 아틀레티코 오타와전 1대2처럼 쉽게 무너지지 않는 흐름이 이어졌고, 홈에서는 한 번 흐름이 살아나면 득점이 더 안정적으로 붙는 모습이 보입니다. 최근 홈 경기에서는 HFX 원더러스 FC를 상대로 4골을 넣는 등 공격의 폭발력이 분명히 드러났고, 카를로스 구스만과 올리 바셋이 중원에서 리듬을 잡아줄 때 전개가 한층 매끄러워집니다. 다만 수비에서는 실점이 한 번 늘어나면 경기 운영이 흔들리는 장면도 있었기 때문에, 프랭크 스터링과 오스왈도 레온을 중심으로 한 후방 정리가 중요합니다. 전체적으로는 홈에서의 전개 속도와 공격 자원 활용이 분명한 장점이며, 상대가 내려앉는 경기에서도 주도권을 가져갈 가능성이 높아 보입니다."
+awayAnalysis: "퍼시픽 FC는 2026시즌 최근 15경기에서 2승 4무 9패를 기록하며 평균 득점 0.9에 머물러 있어 공격 전개가 다소 답답한 흐름입니다. 최근 경기에서는 아틀레티코 오타와전 0대0, 밴쿠버 FC전 1대1처럼 버티는 장면은 있었지만, 경기마다 득점이 일정하게 이어지지는 못하고 있습니다. 그나마 조용히 흐름을 바꾸는 축은 마르코 부스토스와 에이단 대니얼스 쪽인데, 이들이 전방에서 결정적인 장면을 만들어야 전체 전력이 살아납니다. 수비에서는 두 골 이상 허용하는 경기가 적지 않아 후반으로 갈수록 흔들리는 경향이 보이고, 경기 운영의 안정감도 아직 완전히 자리 잡지 못한 상태입니다. 원정에서는 수비적으로 버티면서 역습 기회를 찾는 방식이 현실적인데, 선제 실점이 나오면 반전 여지가 크게 줄어드는 점이 부담입니다."
+homePower: "홈에서 득점이 살아나면 경기 주도권이 빠르게 굳어지는 편임|요크 유나이티드 FC 중원의 연결성이 전개 완성도를 좌우함|실점이 늘어날 때는 라인 간격 관리가 흔들리는 모습 보임|카를로스 구스만-올리 바셋 조합의 압박 회피가 핵심임|전방 자원 활용 폭이 넓어 후반 득점 기대치가 높음"
+awayPower: "낮은 평균 득점이 공격 마무리 불안으로 이어짐|퍼시픽 FC는 선제 실점 뒤 회복 속도가 늦은 편임|마르코 부스토스의 한 방 의존도가 높은 구조임|원정에서는 수비 집중력이 강점이지만 지속성은 약함|에이단 대니얼스의 침투가 살아야 반전 가능성 생김"
+h2h: '[{"date":"26.08.09","home":"퍼시픽 FC","away":"요크 유니티드 FC","score":"1-1","link":"https://pick79.com/posts/detail/analyze-fotmob-1000008686-2026-08-09-pacific-fc/"},{"date":"26.05.18","home":"퍼시픽 FC","away":"요크 유니티드 FC","score":"0-1","link":"https://pick79.com/posts/detail/analyze-1517283-2026-05-18-pacific-fc/"},{"date":"25.10.10","home":"요크 유니티드 FC","away":"퍼시픽 FC","score":"2-2"},{"date":"25.08.25","home":"요크 유니티드 FC","away":"퍼시픽 FC","score":"5-1"},{"date":"25.06.15","home":"퍼시픽 FC","away":"요크 유니티드 FC","score":"1-3"}]'
+summary: "요크 유나이티드 FC는 2026시즌 6승 7무 3패와 평균 득점 1.5를 바탕으로 상대보다 공격 전개에서 더 안정적인 전력을 보여주고 있습니다. 퍼시픽 FC는 2승 4무 9패, 평균 득점 0.9로 득점 흐름이 가볍지 않아 전체적인 화력에서 열세가 분명합니다. 맞대결에서도 요크 유나이티드 FC가 최근 우위를 자주 가져왔고, 특히 홈에서 득점이 살아날 때는 경기 흐름을 주도하는 장면이 뚜렷합니다. 이번 경기는 요크 유나이티드 FC가 중원 연결과 전방 마무리에서 한발 앞서며 우세를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Kai Campos (GK)|https://images.fotmob.com/image_resources/playerimages/1909687.png","Luke Singh (DF)|https://images.fotmob.com/image_resources/playerimages/1018521.png","Frank Sturing (DF)|https://images.fotmob.com/image_resources/playerimages/829104.png","Oswaldo León (DF)|https://images.fotmob.com/image_resources/playerimages/949959.png","Carlos Guzmán (MF)|https://images.fotmob.com/image_resources/playerimages/294973.png","Steffen Yeates (MF)|https://images.fotmob.com/image_resources/playerimages/1346748.png","Ollie Bassett (MF)|https://images.fotmob.com/image_resources/playerimages/680816.png","Juan Córdova (MF)|https://images.fotmob.com/image_resources/playerimages/855352.png","Kevonte Clarke (FW)|https://images.fotmob.com/image_resources/playerimages/2174828.png","Tomasz Skublak (FW)|https://images.fotmob.com/image_resources/playerimages/1052762.png","Ariel Almagro (FW)|https://images.fotmob.com/image_resources/playerimages/1585889.png"]'
+awayLineup: '["Sean Melvin (GK)|https://images.fotmob.com/image_resources/playerimages/611672.png","Juan Quintana (DF)|https://images.fotmob.com/image_resources/playerimages/1440183.png","Diego Konincks (DF)|https://images.fotmob.com/image_resources/playerimages/1636909.png","Christian Greco-Taylor (DF)|https://images.fotmob.com/image_resources/playerimages/1500408.png","Kadin Chung (MF)|https://images.fotmob.com/image_resources/playerimages/872730.png","Roshawn Juhmi (MF)|https://images.fotmob.com/image_resources/playerimages/1829594.png","Lukas Lagerfeldt (MF)|https://images.fotmob.com/image_resources/playerimages/1159354.png","Yann Toualy (MF)|https://images.fotmob.com/image_resources/playerimages/1779221.png","Marco Bustos (FW)|https://images.fotmob.com/image_resources/playerimages/621561.png","Ronan Kratt (FW)|https://images.fotmob.com/image_resources/playerimages/1385640.png","Aidan Daniels (FW)|https://images.fotmob.com/image_resources/playerimages/766590.png"]'
+homeFormation: "3-4-3"
+awayFormation: "3-4-3"
+homeCoach: "Mauro Eustáquio|https://images.fotmob.com/image_resources/playerimages/664774.png"
+awayCoach: "Terry Dunfield|https://images.fotmob.com/image_resources/playerimages/24022.png"
+pickWinTeam: "요크 유나이티드 FC"
+pickWinResult: "승"
+pickHandicapTeam: "요크 유나이티드 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

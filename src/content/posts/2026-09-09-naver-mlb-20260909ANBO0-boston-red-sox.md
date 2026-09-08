@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs LA 에인절스 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | MLB - 픽천국"
+date: 2026-09-08T22:45:00.000Z
+description: "보스턴 레드삭스 vs LA 에인절스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 최근 110경기 62승 46패 승률 .552, 평균 득점 4.4로 상위권 전력을 유지하고 있습니다. 최근 경기 흐름도 10경기 6승 4패로 나쁘지 않으며, 특히 직전 경기에서 LA 에인절스를 5득점으로 제압한 뒤 볼티모어 원정 4연승까지 이어가며 타선의 응집력이 살아난 모습입니다. 다만 시애틀전에서 연달아 실점이 늘어난 구간도 있었던 만큼, 득점은 꾸준해도 경기별 기복은 완전히 지워지지 않았습니다. 홈에서는 공격 템포를 끌어올리기 쉽고, 최근처럼 상위 타선이 초반부터 점수를 내면 흐름을 단단하게 잡는 전개가 잘 보입니다. 결장자가 적지 않지만 리그순위 3위와 +89 득실이 보여주듯, 전체적인 전력 밸런스와 경기 운영은 여전히 강점으로 평가됩니다."
+awayAnalysis: "LA 에인절스는 2026시즌 최근 94경기 31승 62패 승률 .375, 평균 득점 3.8로 하위권에 머물고 있습니다. 최근 9경기에서도 2승 7패에 그치며 흐름이 좋지 않고, 직전 보스턴전 2득점 포함해 타선이 한 번에 폭발하지 못하는 모습이 이어지고 있습니다. 그래도 휴스턴전 18득점, 텍사스전 13득점처럼 공격이 살아나는 날은 분명 존재해 장타와 집중타가 한꺼번에 터질 여지는 있습니다. 문제는 그런 장면이 이어지지 못하고, 실점이 다시 늘어나는 경우가 많다는 점입니다. 리그순위 15위와 -80 득실이 말해주듯, 현재는 반등의 실마리를 찾는 단계로 보이며 마운드 안정이 따라와야 경기력이 올라갈 수 있습니다."
+homePower: "리그순위 3위답게 상위권 운영 안정감이 보임|최근 원정 연전에서도 득점 생산이 끊기지 않음|상대전적 4연승으로 상성 우위가 분명함|결장자 부담이 있어도 타선 응집력은 유지됨|초반 득점 시 경기 주도권을 끝까지 지키는 편임"
+awayPower: "리그순위 15위, 전력 격차가 뚜렷함|장타가 터지는 날은 있으나 지속성이 약함|실점 억제가 흔들려 접전 유지가 쉽지 않음|최근 하위 흐름이 길어 자신감 회복이 과제임|강팀 상대로는 초반 실점 뒤 추격 부담이 큼"
+h2h: '[{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.07.06","home":"LA 에인절스","away":"보스턴 레드삭스","score":"5-7","link":"https://pick79.com/posts/detail/analyze-179358-2026-07-06-los-angeles-angels/"},{"date":"26.07.05","home":"LA 에인절스","away":"보스턴 레드삭스","score":"1-8","link":"https://pick79.com/posts/detail/analyze-179343-2026-07-05-los-angeles-angels/"},{"date":"26.07.04","home":"LA 에인절스","away":"보스턴 레드삭스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-179325-2026-07-04-los-angeles-angels/"}]'
+summary: "보스턴 레드삭스는 2026시즌 리그순위 3위와 +89 득실이 보여주듯 전체 전력이 안정적이고, 최근에도 10경기 6승 4패로 흐름을 잘 유지하고 있습니다. 반면 LA 에인절스는 리그순위 15위와 -80 득실에서 드러나듯 공수 균형이 흔들리고 있고, 최근 9경기 2승 7패로 하락 흐름이 이어지고 있습니다. 맞대결에서도 보스턴이 4연승을 기록하며 주도권을 확실히 잡고 있어, 이번 경기 역시 보스턴 레드삭스가 전력과 흐름 모두에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.09.07","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907BOBA0-2026-09-07-baltimore-orioles/"},{"date":"26.09.06","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906BOBA0-2026-09-06-baltimore-orioles/"},{"date":"26.09.05","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905BOBA0-2026-09-05-baltimore-orioles/"},{"date":"26.09.04","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904BOBA0-2026-09-04-baltimore-orioles/"}]'
+awayRecent: '[{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"},{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"}]'
+injuryHome: "Willson Contreras (염좌)|Ceddanne Rafaela (근육통)|Curtis Mead (골절)|Tyron Guerrero (염증)|Tanner Houck (수술)"
+injuryAway: "Nolan Schanuel (염좌)|Sam Bachman (염증)|Yoan Moncada (수술)|Gustavo Campero (염좌)|George Klassen (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

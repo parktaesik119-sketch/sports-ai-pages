@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 콜로라도 로키스 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | MLB - 픽천국"
+date: 2026-09-08T23:05:00.000Z
+description: "뉴욕 양키즈 vs 콜로라도 로키스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 최근 106경기에서 60승 4무 42패, 평균 득점 4.4로 리그순위 2위를 지키며 상위권 전력을 유지하고 있습니다. 최근 10경기에서는 7승 3패, 평균 득점 5.8로 타선 흐름이 한층 살아나면서 경기당 득점 생산이 분명히 좋아진 모습입니다. 최근에는 샌디에이고 파드리스전에서 패했지만, 로스앤젤레스 에인절스를 상대로는 연속 다득점을 기록하며 공격의 폭발력이 다시 확인되고 있습니다. 홈에서는 보스턴 레드삭스를 상대로 큰 점수 차 승리를 거두는 등 타선이 초반부터 압박을 가하는 장면이 돋보입니다. 다만 클라크 슈미트와 지안카를로 스탠튼의 이탈은 마운드와 장타력 측면에서 부담이 될 수 있어, 선발진이 초반 실점을 억제하는 흐름이 중요해 보입니다. 그럼에도 현재의 상위권 순위와 최근 타격감, 홈에서의 공격적 운영을 감안하면 전체적인 우세는 이어지고 있습니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 최근 85경기에서 32승 0무 53패, 평균 득점 5.1로 리그순위 15위에 머물러 있어 시즌 전체 전력의 기복이 큰 편입니다. 최근 10경기에서는 3승 7패, 평균 득점 4.5로 공격 생산이 줄어들며 흐름이 다소 가라앉은 상태입니다. 세인트루이스 카디널스전에서 연패를 당했고, 애틀랜타 브레이브스와의 시리즈에서도 실점 관리에 어려움을 보이며 버티는 힘이 부족했습니다. 원정에서는 간헐적으로 화력은 나오지만, 수비 쪽 흔들림이 함께 따라오면서 경기 후반 경쟁력이 약해지는 모습이 나타나고 있습니다. 윌리 카스트로와 카일 프릴랜드, 호세 퀸타나, 크리스 브라이언트의 결장은 전력 균형에 적지 않은 영향을 주고 있어, 중심축이 흔들리는 점이 특히 부담입니다. 최근 반등 시도가 보이더라도 리그순위와 현재 흐름을 함께 보면 원정에서 강한 설득력을 만들기에는 아직 부족해 보입니다."
+homePower: "상위권 유지와 최근 타격감 상승이 맞물린 흐름임|홈에서 장타와 집중타가 동시에 살아남|다득점 경기 뒤에도 공격 템포 유지가 강점임|스탠튼 공백은 있으나 타선 응집력은 아직 유효함|선발이 초반만 버티면 주도권 장악 가능성 높음"
+awayPower: "리그순위 최하위권답게 경기별 편차가 큰 전력임|원정에서도 득점은 나오나 실점 억제가 더 큰 과제임|주축 결장이 겹쳐 중심 타선 무게감이 떨어짐|연패 구간에서 후반 추격 동력 약한 모습임|한 번 흔들리면 흐름을 되돌리는 힘이 부족함"
+h2h: '[]'
+summary: "뉴욕 양키즈는 리그순위 2위답게 시즌 내내 상위권 경쟁력을 유지했고, 최근 흐름까지 더해지면서 전력 우위가 또렷하게 보입니다. 콜로라도 로키스는 리그순위 15위에 머물러 있고 최근 흐름도 흔들리는 편이라, 마운드와 수비 안정감에서 양 팀 차이가 분명합니다. 여기에 양키즈는 최근 득점 생산이 좋아진 반면 로키스는 결장 변수까지 겹쳐 흐름을 바꾸기 어려워 보이며, 경기 전체의 무게추는 홈팀 쪽으로 기울어져 있습니다. 결국 뉴욕 양키즈가 초반부터 주도권을 잡고 끝까지 우세를 이어갈 가능성이 높게 평가됩니다."
+homeRecent: '[{"date":"26.09.07","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907NYSD0-2026-09-07-san-diego-padres/"},{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"},{"date":"26.09.01","home":"LA 에인절스","away":"뉴욕 양키즈","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901NYAN0-2026-09-01-los-angeles-angels/"}]'
+awayRecent: '[{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"},{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.03","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903BACO0-2026-09-03-colorado-rockies/"},{"date":"26.09.01","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901BACO0-2026-09-01-colorado-rockies/"},{"date":"26.08.31","home":"애틀랜타 브레이브스","away":"콜로라도 로키스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831COAT0-2026-08-31-atlanta-braves/"}]'
+injuryHome: "Clarke Schmidt (수술)|Trent Grisham (염좌)|Ryan Weathers (염좌)|Giancarlo Stanton (염좌)|Fernando Cruz (통증)"
+injuryAway: "Willi Castro (족저근막염)|Kyle Freeland (신경 압박)|Jose Quintana (염좌)|Kris Bryant (수술)|McCade Brown (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

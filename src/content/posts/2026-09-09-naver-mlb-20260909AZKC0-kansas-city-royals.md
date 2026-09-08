@@ -1,0 +1,37 @@
+---
+title: "캔자스시티 로열스 vs 애리조나 다이아몬드백스 경기분석·라인업·결장자·통계·승부예측 (9월 9일) | MLB - 픽천국"
+date: 2026-09-08T23:40:00.000Z
+description: "캔자스시티 로열스 vs 애리조나 다이아몬드백스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260909AZKC0-2026-09-09-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "애리조나 다이아몬드백스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+homeAnalysis: "캔자스시티 로열스는 2026시즌 최근 102경기에서 51승 4무 47패, 평균 득점 4.5를 기록하고 있어 시즌 전체 전력은 비교적 균형을 갖춘 모습입니다. 최근 10경기에서도 5승 5패로 버티는 힘을 보여주고 있고, 평균 득점이 5.4까지 올라와 타선의 응집력은 나쁘지 않게 유지되고 있습니다. 다만 직전 애리조나 다이아몬드백스전 4실점 패배처럼 수비 쪽 흔들림이 나오면 흐름이 쉽게 끊길 수 있습니다. 홈에서는 대체로 득점 생산이 살아나는 편이라 중상위 타선의 연결이 경기 내용에 큰 영향을 주고 있습니다. 시즌 순위와 최근 흐름을 함께 보면, 리그순위는 낮지만 최근 반등 기조가 보여 홈에서 공격 템포를 살리면 충분히 경쟁력이 있습니다."
+awayAnalysis: "애리조나 다이아몬드백스는 2026시즌 최근 94경기에서 52승 0무 42패, 평균 득점 4.5를 기록하며 시즌 전력 자체는 홈팀보다 한 단계 위에 있습니다. 현재 리그순위 6위에 올라 있고 득실도 641-641로 균형을 이뤄, 큰 약점 없이 안정적으로 경기를 풀어가는 팀으로 보입니다. 최근 10경기에서는 6승 4패지만 평균 득점이 2.6으로 내려가 있어, 승리는 챙기더라도 타선 폭발력은 다소 들쭉날쭉한 편입니다. 대신 실점 억제는 비교적 잘 유지되고 있어서 저득점 양상에서도 버티는 힘이 있습니다. 다만 부상자 공백이 선발과 불펜 쪽에 겹쳐 있어, 경기 후반 운영에서는 이전보다 안정감이 떨어질 수 있습니다."
+homePower: "홈에서 평균 5.4득점으로 타선 상향 흐름 보임|최근 승패 교차, 공격은 유지되고 수비가 변수임|원정 강세 팀 상대로 홈 득점 생산력이 관건임|직전 맞대결 1점 차 패배, 재대응 의지 확인됨|리그순위는 낮아도 홈 반등 여지는 충분함"
+awayPower: "리그순위 6위, 시즌 균형감이 좋은 전력임|최근 10경기 저득점 속에서도 승리 관리가 됨|실점 억제로 버티는 경기 운영이 강점임|주요 선발 이탈로 선발 안정감은 약화 보임|접전에서는 후반 불펜 운영이 핵심 변수임"
+h2h: '[{"date":"26.09.08","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908AZKC0-2026-09-08-kansas-city-royals/"}]'
+summary: "애리조나 다이아몬드백스가 시즌 전력과 리그순위에서는 앞서 있지만, 최근 공격 생산이 줄어든 흐름이라 압도적인 우세로 보이기는 어렵습니다. 캔자스시티 로열스는 리그순위는 낮아도 최근 득점감이 살아 있고 홈에서 공격적으로 경기를 풀 수 있어, 전체적인 균형은 홈팀 쪽이 조금 더 좋아 보입니다. 다만 양 팀 모두 핵심 전력 이탈이 적지 않아 경기 후반에는 한두 번의 집중력이 승부를 가를 가능성이 높고, 그 점에서 캔자스시티 로열스가 조금 더 유리한 흐름으로 판단됩니다."
+homeRecent: '[{"date":"26.09.08","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908AZKC0-2026-09-08-kansas-city-royals/"},{"date":"26.09.07","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TOKC0-2026-09-07-kansas-city-royals/"},{"date":"26.09.06","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TOKC0-2026-09-06-kansas-city-royals/"},{"date":"26.09.04","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904FLKC0-2026-09-04-kansas-city-royals/"},{"date":"26.09.03","home":"캔자스시티 로열스","away":"마이애미 말린스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903FLKC0-2026-09-03-kansas-city-royals/"}]'
+awayRecent: '[{"date":"26.09.08","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908AZKC0-2026-09-08-kansas-city-royals/"},{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.03","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903PHAZ0-2026-09-03-arizona-diamondbacks/"},{"date":"26.09.01","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901PHAZ0-2026-09-01-arizona-diamondbacks/"}]'
+injuryHome: "Jac Caglianone (염좌)|Tony Gonsolin (수술)|Connor Seabold (염좌)|Maikel Garcia (염좌)|James McArthur (수술)"
+injuryAway: "Corbin Burnes (수술)|Michael Soroka (염증)|Zac Gallen (염증)|Ryne Nelson (염좌)|Ryan Thompson (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "캔자스시티 로열스"
+pickWinResult: "승"
+pickHandicapTeam: "캔자스시티 로열스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---
