@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.08","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Justin Verlander (스트레인)|Kerry Carpenter (족저근막염)|Wenceel Perez (골절)|Jack Flaherty (염증)|Parker Meadows (수술)"
 injuryAway: "Austin Martin (스트레인)|Byron Buxton (신경 압박)|Mike Paredes (스트레인)|Mick Abel (수술)|Cole Sands (수술)"
 homeLineup: "[\"선발투수 D. Anderson (4-5, 3.73) ERA 3.73|https://a.espncdn.com/i/headshots/mlb/players/full/41125.png\"]"
-awayLineup: "[\"선발투수 D. Kremer (2-5, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
+awayLineup: "[\"선발투수 D. Kremer (2-5, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\",\"1번 L. Keaschall (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4977664.png\",\"2번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"3번 K. Clemens (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"4번 R. Jeffers (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41587.png\",\"5번 J. Bell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"6번 R. Lewis (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40635.png\",\"7번 T. Larnach (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41205.png\",\"8번 K. Culpepper (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4935268.png\",\"9번 W. Jenkins (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5148963.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
