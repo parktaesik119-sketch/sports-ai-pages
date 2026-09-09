@@ -593,7 +593,7 @@ async function analyzeMatches() {
   const filteredMatches = rawData.filter(m => isMatchApproved(m));
 
 
-    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (GPT 5.4 mini)`);
+    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Gemini 3 Flash)`);
 
     const retryQueue = []; // ← 여기로 이동
 
@@ -1511,27 +1511,35 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
       await new Promise(res => setTimeout(res, 3000));
     }
 
-    const response = await client.responses.create({
-  model: "openai/gpt-5.4-mini",
+    // ⚠️ Gemini 계열(google/gemini-3-flash)은 Router One에서 /v1/responses(Responses API)를
+    // 지원하지 않고 /v1/chat/completions만 서빙한다. 그래서 client.responses.create → 
+    // client.chat.completions.create 로 호출 방식 자체를 바꿨다. 웹검색 툴도 OpenAI 전용인
+    // "web_search"(+search_context_size) 대신, Gemini 네이티브 그라운딩 툴인 "google_search"를 사용한다.
+    const response = await client.chat.completions.create({
+  model: "google/gemini-3-flash",
 
   tools: [
     {
-      type: "web_search",
-      search_context_size: "medium"
+      type: "google_search"
     }
   ],
 
   tool_choice: "auto",
 
-  input: `
+  messages: [
+    {
+      role: "user",
+      content: `
 ${SYSTEM_RULES_PROMPT}
 
 ${matchDataPrompt}
 `
+    }
+  ]
 });
 
     const aiResponse =
-      response.output_text || "";
+      response.choices?.[0]?.message?.content || "";
 
     if (aiResponse.length > 500) {
       const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal);
@@ -1545,22 +1553,19 @@ ${matchDataPrompt}
     } else {
       console.warn(`⚠️ [응답 짧음] ${attempt}차 시도 응답 길이 부족 (${aiResponse.length}자): ${match.home}`);
 
-      // ── 진단 로그: 다음에 같은 문제가 재현되면 정확한 원인을 파악하기 위함 ──
+      // ── 진단 로그: Chat Completions 응답 구조에 맞춰 재작성 ──
+      // (Responses API 전용이던 response.status / response.incomplete_details / response.output
+      //  대신 choices[0].finish_reason과 choices[0].message.grounding_metadata를 확인한다.
+      //  grounding_metadata는 google_search 툴이 실제로 호출됐을 때만 채워지므로,
+      //  이게 없다면 게이트웨이가 웹검색을 조용히 무시했을 가능성을 의심할 것.)
       try {
-        console.warn(`   [진단] status: ${response.status ?? '(없음)'}`);
-        if (response.incomplete_details) {
-          console.warn(`   [진단] incomplete_details: ${JSON.stringify(response.incomplete_details)}`);
-        }
-        if (Array.isArray(response.output)) {
-          const outputTypes = response.output.map(o => o.type);
-          console.warn(`   [진단] output 아이템 타입: [${outputTypes.join(', ')}]`);
-          // 텍스트 없이 도구 호출(web_search_call 등)만 있는 케이스인지 확인
-          const hasToolCallOnly = outputTypes.length > 0 && !outputTypes.includes('message');
-          if (hasToolCallOnly) {
-            console.warn(`   [진단] → 도구 호출만 있고 최종 텍스트 메시지가 없음 (web_search 관련 가능성)`);
-          }
+        const choice = response.choices?.[0];
+        console.warn(`   [진단] finish_reason: ${choice?.finish_reason ?? '(없음)'}`);
+        const groundingMeta = choice?.message?.grounding_metadata;
+        if (groundingMeta) {
+          console.warn(`   [진단] grounding_metadata 있음 (google_search 호출 확인됨)`);
         } else {
-          console.warn(`   [진단] response.output 없음 또는 배열 아님`);
+          console.warn(`   [진단] → grounding_metadata 없음. google_search 미호출이거나 게이트웨이가 무시했을 가능성 (web_search 관련 가능성)`);
         }
       } catch (diagErr) {
         console.warn(`   [진단 로그 실패] ${diagErr.message}`);
@@ -1628,27 +1633,31 @@ ${gameContext}
 `;
 
     try {
-    const retryResponse = await client.responses.create({
-  model: "openai/gpt-5.4-mini",
+    const retryResponse = await client.chat.completions.create({
+  model: "google/gemini-3-flash",
 
   tools: [
     {
-      type: "web_search",
-      search_context_size: "medium"
+      type: "google_search"
     }
   ],
 
   tool_choice: "auto",
 
-  input: `
+  messages: [
+    {
+      role: "user",
+      content: `
 ${SYSTEM_RULES_PROMPT}
 
 ${retryPrompt}
 `
+    }
+  ]
 });
 
       const aiResponse =
-        retryResponse.output_text || "";
+        retryResponse.choices?.[0]?.message?.content || "";
 
       if (aiResponse.length > 1200) {
         const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal);
@@ -1665,21 +1674,15 @@ ${retryPrompt}
       } else {
         console.error(`❌ [재분석도 짧음] ${match.home} vs ${match.away} (${aiResponse.length}자)`);
 
-        // ── 진단 로그: 원인 파악용 ──
+        // ── 진단 로그: Chat Completions 응답 구조에 맞춰 재작성 (원인 파악용) ──
         try {
-          console.warn(`   [진단] status: ${retryResponse.status ?? '(없음)'}`);
-          if (retryResponse.incomplete_details) {
-            console.warn(`   [진단] incomplete_details: ${JSON.stringify(retryResponse.incomplete_details)}`);
-          }
-          if (Array.isArray(retryResponse.output)) {
-            const outputTypes = retryResponse.output.map(o => o.type);
-            console.warn(`   [진단] output 아이템 타입: [${outputTypes.join(', ')}]`);
-            const hasToolCallOnly = outputTypes.length > 0 && !outputTypes.includes('message');
-            if (hasToolCallOnly) {
-              console.warn(`   [진단] → 도구 호출만 있고 최종 텍스트 메시지가 없음 (web_search 관련 가능성)`);
-            }
+          const retryChoice = retryResponse.choices?.[0];
+          console.warn(`   [진단] finish_reason: ${retryChoice?.finish_reason ?? '(없음)'}`);
+          const groundingMeta = retryChoice?.message?.grounding_metadata;
+          if (groundingMeta) {
+            console.warn(`   [진단] grounding_metadata 있음 (google_search 호출 확인됨)`);
           } else {
-            console.warn(`   [진단] response.output 없음 또는 배열 아님`);
+            console.warn(`   [진단] → grounding_metadata 없음. google_search 미호출이거나 게이트웨이가 무시했을 가능성 (web_search 관련 가능성)`);
           }
         } catch (diagErr) {
           console.warn(`   [진단 로그 실패] ${diagErr.message}`);
