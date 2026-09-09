@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.07","home":"콜로라도 로키스","away":"세인�
 injuryHome: "Victor Bericoto (멍)|JT Brubaker (멍)|Matt Gage (염좌)|Willy Adames (염좌)|Marcelo Mayer (골절)"
 injuryAway: "JJ Wetherholt (건염)|Masyn Winn (골절)|Peter Strzelecki (염증)|Everson Pereira (멍)|Blaze Jordan (염좌)"
 homeLineup: "[\"선발투수 B. Tidwell (0-2, 4.43) ERA 4.43|https://a.espncdn.com/i/headshots/mlb/players/full/4719088.png\"]"
-awayLineup: "[\"선발투수 A. Pallante (12-6, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
+awayLineup: "[\"선발투수 A. Pallante (12-6, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\",\"1번 B. Torres (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5125653.png\",\"2번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"4번 L. Bernal (C)|https://a.espncdn.com/i/headshots/mlb/players/full/5124076.png\",\"5번 J. Baez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4920835.png\",\"6번 N. Gorman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41174.png\",\"7번 T. Saggese (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4999876.png\",\"8번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"9번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
