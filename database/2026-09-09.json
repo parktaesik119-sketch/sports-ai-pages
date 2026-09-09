@@ -3142,8 +3142,8 @@
     "away": "Atletico Balboa",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2096787.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/136492.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5916020",
@@ -3467,8 +3467,8 @@
     "away": "São Paulo",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10077.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10277.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000021053",
@@ -3688,8 +3688,8 @@
     "away": "Atlético FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/192963.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193031.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000018444",
@@ -3792,8 +3792,8 @@
     "away": "Al-Bidda SC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582510.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1791633.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5190707",
@@ -3818,21 +3818,8 @@
     "away": "Juventude",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7729.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10274.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-1000021087",
-    "sport": "soccer",
-    "country": "International",
-    "league": "UEFA Youth League League Stage",
-    "date": "2026-09-09T10:00:00.000Z",
-    "home": "Barcelona U19",
-    "away": "Feyenoord U19",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/394213.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/889586.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000021088",
@@ -3922,8 +3909,8 @@
     "away": "Louisville City FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/722269.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/614316.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6106264",
@@ -5469,6 +5456,19 @@
     "away": "Ceará",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165545.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/172341.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000021087",
+    "sport": "soccer",
+    "country": "International",
+    "league": "UEFA Youth League League Stage",
+    "date": "2026-09-10T07:30:00.000Z",
+    "home": "Barcelona U19",
+    "away": "Feyenoord U19",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/394213.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/889586.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -7172,8 +7172,8 @@
     "away": "Cleveland Guardians",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/BA.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CL.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 9
   },
   {
     "id": "naver-mlb-20260909HOPH0",
@@ -7185,8 +7185,8 @@
     "away": "Houston Astros",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/PH.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/HO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 6
   },
   {
     "id": "naver-mlb-20260909MNDE0",
@@ -7224,8 +7224,8 @@
     "away": "Los Angeles Angels",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/BO.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/AN.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 6
   },
   {
     "id": "naver-mlb-20260909CONY0",
@@ -7237,8 +7237,8 @@
     "away": "Colorado Rockies",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/NY.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 3
   },
   {
     "id": "naver-mlb-20260909TBAT0",
@@ -7250,8 +7250,8 @@
     "away": "Tampa Bay Rays",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/AT.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TB.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 7
   },
   {
     "id": "naver-mlb-20260909AZKC0",
@@ -7263,8 +7263,8 @@
     "away": "Arizona Diamondbacks",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/KC.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 5
   },
   {
     "id": "naver-mlb-20260909CCMI0",
@@ -7276,8 +7276,8 @@
     "away": "Chicago Cubs",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MI.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CC.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "naver-mlb-20260909PICW0",
@@ -7289,21 +7289,8 @@
     "away": "Pittsburgh Pirates",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CW.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/PI.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "naver-mlb-20260909MOSD0",
-    "sport": "baseball",
-    "country": "USA",
-    "league": "MLB",
-    "date": "2026-09-09T01:40:00.000Z",
-    "home": "San Diego Padres",
-    "away": "Washington Nationals",
-    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SD.png",
-    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 9
   },
   {
     "id": "naver-mlb-20260909TESE0",
@@ -7319,6 +7306,19 @@
     "awayScore": null
   },
   {
+    "id": "naver-mlb-20260909MOSD0",
+    "sport": "baseball",
+    "country": "USA",
+    "league": "MLB",
+    "date": "2026-09-09T01:40:00.000Z",
+    "home": "San Diego Padres",
+    "away": "Washington Nationals",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SD.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MO.png",
+    "homeScore": 5,
+    "awayScore": 4
+  },
+  {
     "id": "naver-mlb-20260909TOOA0",
     "sport": "baseball",
     "country": "USA",
@@ -7328,8 +7328,8 @@
     "away": "Toronto Blue Jays",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/OA.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 4
   },
   {
     "id": "naver-mlb-20260909SLSF0",
@@ -7341,8 +7341,8 @@
     "away": "St.Louis Cardinals",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SF.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SL.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "naver-mlb-20260909CILA0",

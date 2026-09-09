@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 콜로라도 로키스 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | MLB - 픽천국"
+date: 2026-09-09T23:05:00.000Z
+description: "뉴욕 양키즈 vs 콜로라도 로키스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260910CONY0-2026-09-10-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 82승 62패를 기록하며 리그순위 2위에 올라 있는 강팀입니다. 득실 마진 +119.0이라는 압도적인 수치가 증명하듯 투타 밸런스가 매우 안정적이며, 최근 10경기에서도 7승을 거두는 등 기복 없는 경기력을 보여주고 있습니다. 특히 안방에서 보여주는 운영 능력은 리그 최고 수준으로 평가받으며, 승부처마다 터지는 득점 지원이 큰 힘이 되고 있습니다. 수비 집중력 또한 높게 유지되고 있어 상대의 실책을 유도하는 플레이에 능숙합니다. 전반적으로 시즌 내내 일관된 전력을 유지하며 상위권의 위엄을 입증하고 있습니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 55승 89패로 리그순위 15위에 머물며 다소 힘겨운 시즌을 보내고 있습니다. 최근 10경기에서 2승 8패를 기록하며 하향 곡선을 그리고 있는 점이 뼈아프며, 특히 투수진의 난조로 인해 실점이 늘어나는 악순환이 반복되고 있습니다. 공격력 자체는 준수한 모습을 보이기도 하지만, 이를 뒷받침할 마운드의 안정감이 리그순위 하위권을 벗어나지 못하는 핵심 원인으로 보입니다. 원정 경기에서의 약세가 뚜렷하며 경기 후반 집중력 저하가 자주 나타나는 패턴을 보입니다. 반등을 위해서는 수비 안정화가 무엇보다 시급한 과제로 평가됩니다."
+homePower: "안정적인 마운드 운영이 뒷받침된 승리 공식 정립|리그순위 2위다운 높은 투타 집중력과 효율적인 득점력|안방에서의 승률을 바탕으로 한 압도적인 경기 지배력|실책을 최소화하는 탄탄한 내외야 수비 시스템 검증됨|승부처에서 보여주는 타선의 응집력과 해결사 본능"
+awayPower: "시즌 내내 지속되는 불안한 마운드와 높은 실점율|득점력 대비 효율이 떨어지는 불균형한 팀 전력|원정 경기에서의 낮은 승률과 집중력 저하 패턴|수비진의 잦은 흔들림이 패배로 직결되는 현상|하위권에 머무는 리그순위가 대변하는 전력 열세"
+h2h: '[{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"}]'
+summary: "뉴욕 양키즈는 리그순위 2위에 걸맞은 안정된 전력을 바탕으로 이번 시리즈에서도 우위를 점할 가능성이 매우 높습니다. 반면 콜로라도 로키스는 최근 10경기 2승 8패라는 부진한 흐름과 리그순위 15위의 낮은 전력을 극복해야 하는 무거운 과제를 안고 있습니다. 양 팀의 투타 밸런스를 고려할 때 뉴욕 양키즈가 경기 초반부터 주도권을 잡고 안정적인 수비를 유지하며 승리를 거둘 것으로 분석됩니다."
+homeRecent: '[{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"},{"date":"26.09.07","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907NYSD0-2026-09-07-san-diego-padres/"},{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"},{"date":"26.09.02","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902NYAN0-2026-09-02-los-angeles-angels/"}]'
+awayRecent: '[{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"},{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"},{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.03","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903BACO0-2026-09-03-colorado-rockies/"},{"date":"26.09.01","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901BACO0-2026-09-01-colorado-rockies/"}]'
+injuryHome: "Jazz Chisholm Jr. (경미)|Clarke Schmidt (주요)|Ryan Weathers (주요)|Fernando Cruz (주요)|Trent Grisham (주요)"
+injuryAway: "Willi Castro (주요)|Kyle Freeland (주요)|Jose Quintana (주요)|Kris Bryant (주요)|McCade Brown (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

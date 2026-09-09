@@ -1,0 +1,37 @@
+---
+title: "애슬레틱스 vs 토론토 블루제이즈 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | MLB - 픽천국"
+date: 2026-09-09T19:05:00.000Z
+description: "애슬레틱스 vs 토론토 블루제이즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260910TOOA0-2026-09-10-athletics"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애슬레틱스"
+awayTeam: "토론토 블루제이즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+homeAnalysis: "애슬레틱스는 2026시즌 58승 88패 승률 .397로 리그순위 14위에 위치해 있지만 최근 10경기에서 6승 4패를 거두며 반등 조짐을 보여주고 있습니다. 타선이 중요 순간 집중력을 발휘하면서 승리를 챙기는 경기가 늘어났으며 홈 경기에서도 점차 안정감을 찾아가고 있습니다. 다만 시즌 득실 차이가 음수를 기록하고 있을 만큼 불펜 수비력은 여전히 불안한 요소로 지목됩니다. 주요 타자들의 결장 악재 속에서도 백업 선수들이 힘을 보태며 팀 전력을 유지하고 있습니다. 이번 토론토 블루제이즈와의 연전에서도 마운드의 조기 안정과 타선의 결정력이 승부의 열쇠가 될 것으로 보입니다."
+awayAnalysis: "토론토 블루제이즈는 2026시즌 73승 73패 승률 .500으로 리그순위 7위에 올라 있으며 최근 10경기에서 6승 4패의 좋은 흐름을 이어가고 있습니다. 탄탄한 마운드 운용과 경기 후반 집중력을 바탕으로 접전 상황에서 강점을 나타내고 있습니다. 주요 전력의 부상 이탈에도 불구하고 유기적인 엔트리 활용을 통해 전력 공백을 슬기롭게 메우고 있습니다. 상대전적에서도 우위를 차지하고 있어 이번 원정 경기에서도 심리적 우위를 바탕으로 경기를 치를 수 있습니다. 수비 밸런스와 안정적인 라인업 구성을 앞세워 우세한 흐름을 지속하고자 합니다."
+homePower: "최근 10경기 6승으로 리그순위 대비 뚜렷한 반등세 보임|경기당 타선 집중력 상승하며 득점 지원 회복된 모습임|불펜의 실점 관리와 마운드 수비 안정감이 승부처임|주요 전력 부상 공백에도 백업 선수들의 활약 돋보임|토론토 블루제이즈 상대로 홈 이점 활용한 반격 기대됨"
+awayPower: "시즌 5할 승률 유지하며 안정적인 전력 밸런스 갖춤|애슬레틱스 상대 전적 4승 1패로 확실한 상성 우위임|경기 후반 불펜 운영과 수비 집중력이 매우 우수함|핵심 타자 결장에도 대체 라인업의 대응력 양호함|원정 경기에서도 기복 없는 경기 운용 능력 검증됨"
+h2h: '[{"date":"26.09.09","home":"애슬레틱스","away":"토론토 블루제이즈","score":"2-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"},{"date":"26.09.08","home":"애슬레틱스","away":"토론토 블루제이즈","score":"6-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"},{"date":"26.03.30","home":"토론토 블루제이즈","away":"애슬레틱스","score":"5-2"},{"date":"26.03.29","home":"토론토 블루제이즈","away":"애슬레틱스","score":"8-7"},{"date":"26.03.28","home":"토론토 블루제이즈","away":"애슬레틱스","score":"3-2"}]'
+summary: "애슬레틱스가 최근 승수를 쌓으며 경기력을 올려세우고 있지만, 전반적인 득실 밸런스와 마운드 안정감에서는 토론토 블루제이즈가 확연한 우위를 점하고 있습니다. 특히 토론토 블루제이즈는 올 시즌 상대전적에서 4승 1패로 강한 상성을 입증해 왔습니다. 두 팀 모두 최근 상승세를 타고 있으나, 승부처에서의 안정된 경기 운용력을 갖춘 토론토 블루제이즈가 주도권을 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.08","home":"애슬레틱스","away":"토론토 블루제이즈","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"},{"date":"26.09.07","home":"시애틀 매리너스","away":"애슬레틱스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907OASE0-2026-09-07-seattle-mariners/"},{"date":"26.09.05","home":"시애틀 매리너스","away":"애슬레틱스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905OASE0-2026-09-05-seattle-mariners/"},{"date":"26.09.04","home":"시애틀 매리너스","away":"애슬레틱스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904OASE0-2026-09-04-seattle-mariners/"},{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬레틱스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903OATE0-2026-09-03-texas-rangers/"}]'
+awayRecent: '[{"date":"26.09.08","home":"애슬레틱스","away":"토론토 블루제이즈","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"},{"date":"26.09.07","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TOKC0-2026-09-07-kansas-city-royals/"},{"date":"26.09.06","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TOKC0-2026-09-06-kansas-city-royals/"},{"date":"26.09.04","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TOCL0-2026-09-04-cleveland-guardians/"},{"date":"26.09.03","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"0-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903TOCL0-2026-09-03-cleveland-guardians/"}]'
+injuryHome: "Brooks Kriske (신경 압박)|Shea Langeliers (수술)|J.T. Ginn (통증)|Joshua Kuroda-Grauer (수술)|Nick Kurtz (근육 염좌)"
+injuryAway: "Luis Urias (근육 염좌)|Anthony Santander (수술)|Trey Yesavage (수술)|Jameson Taillon (부상)|Jonatan Clase (족저근막염)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "토론토 블루제이즈"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 블루제이즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

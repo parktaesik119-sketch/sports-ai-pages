@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 신시내티 레즈 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | MLB - 픽천국"
+date: 2026-09-10T02:10:00.000Z
+description: "LA 다저스 vs 신시내티 레즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260910CILA0-2026-09-10-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "LA 다저스는 2026시즌 96경기에서 59승 37패를 기록하며 승률 .615의 우수한 성적을 거두고 있습니다. 현재 리그순위 2위를 달리고 있는 이 팀은 평균 5.0점의 고른 득점력을 바탕으로 최근 10경기에서 7승을 쓸어 담으며 압도적인 페이스를 유지하고 있습니다. 투타의 조화가 매우 안정적이며 홈 경기에서도 일관된 경기력을 선보이며 강팀의 면모를 유감없이 발휘 중입니다. 특히 직전 경기에서도 승리를 거두며 좋은 흐름을 이어가고 있어 이번 매치업에서도 공수 밸런스를 앞세운 경기 운영이 기대됩니다. 득점과 실점의 격차가 긍정적인 수치인 만큼 탄탄한 전력을 바탕으로 상대를 압박할 것으로 보입니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 102경기에서 44승 56패를 기록하며 4할대 승률에 머물러 있습니다. 현재 리그순위 11위로 하위권에 처져 있으나, 최근 10경기에서는 6승을 챙기며 반등을 노리는 흐름을 보이고 있습니다. 평균 4.1점의 득점력은 시즌 전체로는 다소 아쉬움이 남지만, 최근 득점 생산력이 살아나며 공격적인 측면에서 집중력을 보여주고 있습니다. 다만 시즌 전체 득실 수치가 마이너스를 기록하고 있다는 점은 수비적인 불안 요소를 방증하며 이번 경기에서도 수비 집중력이 승패의 관건이 될 것입니다. 상위권 팀을 상대로 원정에서 어떤 효율적인 야구를 펼칠지가 주목됩니다."
+homePower: "홈 경기 승률을 바탕으로 한 안정적인 경기 주도권 확보|주축 선수 결장에도 불구하고 뎁스를 활용한 고른 타격|리그 최상위권 리그순위가 증명하는 탄탄한 투타 밸런스|상대와 맞대결에서 우위를 점하며 확보한 자신감|경기 중반 이후 집중력을 통한 마무리 능력 강화"
+awayPower: "최근 타선의 기복을 줄이며 상승세로 전환된 화력|원정 경기에서 보완이 필요한 수비진의 실점 억제력|리그순위 반등을 위한 상위권 팀 상대 적극적인 승부수|최근 경기 득점력 회복을 통한 타선 응집력 향상|마운드 안정화를 통해 실점 통제력을 높이는 것이 필수"
+h2h: '[{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"}]'
+summary: "LA 다저스는 리그순위 2위가 말해주듯 시즌 내내 공수 양면에서 안정적인 전력을 유지하며 상위권의 위용을 과시하고 있습니다. 신시내티 레즈는 최근 10경기에서 6승을 거두며 추격의 의지를 보이고 있으나, 시즌 전체적인 득실 균형과 순위를 고려하면 LA 다저스가 전력상 확고한 우위를 점하고 있습니다. 상대전적에서도 이미 승리를 경험한 LA 다저스가 홈의 이점과 견고한 투타 밸런스를 바탕으로 이번 경기에서도 주도권을 쥐고 경기를 풀어갈 가능성이 높습니다. 신시내티 레즈가 반등을 노리고 있으나 LA 다저스의 짜임새 있는 경기 운영과 공수에서의 안정감이 승부의 추가 기울어지는 결정적인 요소가 될 것으로 보입니다."
+homeRecent: '[{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"},{"date":"26.09.07","home":"LA 다저스","away":"워싱턴 내셔널스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MOLA0-2026-09-07-los-angeles-dodgers/"},{"date":"26.09.06","home":"LA 다저스","away":"워싱턴 내셔널스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MOLA0-2026-09-06-los-angeles-dodgers/"},{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔널스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MOLA0-2026-09-05-los-angeles-dodgers/"},{"date":"26.09.04","home":"LA 다저스","away":"세인트루이스 카디널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SLLA0-2026-09-04-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"},{"date":"26.09.07","home":"신시내티 레즈","away":"밀워키 브루어스","score":"12-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MICI0-2026-09-07-cincinnati-reds/"},{"date":"26.09.06","home":"신시내티 레즈","away":"밀워키 브루어스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MICI0-2026-09-06-cincinnati-reds/"},{"date":"26.09.05","home":"신시내티 레즈","away":"밀워키 브루어스","score":"7-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MICI0-2026-09-05-cincinnati-reds/"},{"date":"26.09.03","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SDCI0-2026-09-03-cincinnati-reds/"}]'
+injuryHome: "Kris Bubic (통증)|Edwin Diaz (염증)|Roki Sasaki (찰과상)|Dalton Rushing (통증)|Eric Lauer (염증)"
+injuryAway: "Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

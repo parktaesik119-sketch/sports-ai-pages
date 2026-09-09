@@ -1,0 +1,37 @@
+---
+title: "바이에른 뮌헨 vs 보되/글림트 경기분석·라인업·결장자·통계·승부예측 (9월 11일) | 챔피언스리그 - 픽천국"
+date: 2026-09-10T19:00:00.000Z
+description: "바이에른 뮌헨 vs 보되/글림트 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6106240-2026-09-11-bayern-mnchen"
+category: "soccer"
+country: "국제"
+league: "챔피언스리그"
+homeTeam: "바이에른 뮌헨"
+awayTeam: "보되/글림트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8402.png"
+homeAnalysis: "바이에른 뮌헨은 2026시즌 총 15경기에서 10승 3무 2패를 기록하며 66.7%의 높은 승률과 평균 2.6득점의 막강한 화력을 과시하고 있습니다. 빈센트 콤파니 감독의 지휘 아래 해리 케인과 자말 무시알라를 필두로 한 공격진은 매 경기 위협적인 득점력을 선보이며 리그 상위권 전력을 유지하는 핵심 동력이 되고 있습니다. 수비진에서도 김민재와 다요 우파메카노가 안정적인 수비 리딩을 통해 실점을 최소화하며 경기를 주도하는 모습이 인상적입니다. 홈에서 치르는 경기에서는 더욱 견고한 공수 밸런스를 보여주며 상대 팀의 압박을 효과적으로 무력화하고 있습니다. 세르주 그나브리가 부상으로 이탈했으나, 루이스 디아스와 마이클 올리세 등 대체 자원들의 경기력이 올라와 있어 전력 공백을 충분히 메우고 있습니다."
+awayAnalysis: "보되/글림트는 2026시즌 총 23경기에서 13승 3무 7패를 기록하며 승률 56.5%와 평균 1.9득점의 준수한 공격 지표를 보여주고 있습니다. 옌스 페터 하우게와 안드레아스 헬메르센이 중심이 된 공격 라인은 다득점 생산 능력이 뛰어나며 원정 경기에서도 특유의 기동력을 바탕으로 득점 기회를 꾸준히 창출하고 있습니다. 다만 시즌 중 다소 기복 있는 수비 집중력을 보인 점은 강팀과의 대결에서 극복해야 할 주요 과제로 분석됩니다. 마그누스 베흐 리스나에스와 하콘 에브옌 등 주축 선수들의 부상 공백으로 인해 라인업 구성에 다소 제약이 따르는 상황입니다. 상대의 높은 점유율을 어떻게 저지하고 역습 효율을 극대화할지가 이번 원정 경기의 승부처가 될 것으로 보입니다."
+homePower: "해리 케인과 자말 무시알라 조합의 파괴적인 결정력|김민재 중심의 견고한 후방 빌드업 및 수비 안정감|빈센트 콤파니 감독의 공격적인 전술 운용 효율성|홈 경기 높은 득점 생산력을 바탕으로 한 압도적 흐름|다양한 공격 옵션 보유로 인한 전술적 유연성 확보"
+awayPower: "옌스 페터 하우게 중심의 빠른 측면 돌파 전술|다득점 생산이 가능한 공격적인 경기 운영 방식|중원에서의 기동력 있는 압박을 통한 점유율 회복|원정 경기에서도 물러서지 않는 공격적인 전술 기조|부상자 공백 최소화를 위한 조직적인 수비 대응력"
+h2h: '[]'
+summary: "바이에른 뮌헨은 2026시즌 평균 2.6득점이라는 압도적인 화력을 앞세워 전력 면에서 보되/글림트에 우위를 점하고 있습니다. 보되/글림트가 평균 1.9득점의 나쁘지 않은 공격력을 보여주고 있으나, 바이에른 뮌헨의 홈에서의 공수 균형과 안정적인 전력은 이번 경기에서 큰 차이를 만들어낼 것으로 분석됩니다. 보되/글림트는 주요 선수들의 부상 이탈로 인해 선수층 운용에 어려움이 예상되므로, 안정감 있는 경기를 펼칠 바이에른 뮌헨이 경기의 주도권을 잡고 우세한 흐름을 이어갈 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Serge Gnabry (허벅지 부상)"
+injuryAway: "Magnus Bech Riisnæs (무릎 부상)|Haitam Aleesami (다리 부상)|Jostein Gundersen (허벅지 부상)|Håkon Evjen (무릎 부상)|August Mikkelsen (사타구니 부상)"
+homeLineup: '["Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png","Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png","Dayot Upamecano (DF)|https://images.fotmob.com/image_resources/playerimages/658554.png","Min-Jae Kim (DF)|https://images.fotmob.com/image_resources/playerimages/828159.png","Alphonso Davies (DF)|https://images.fotmob.com/image_resources/playerimages/751202.png","Joshua Kimmich (MF)|https://images.fotmob.com/image_resources/playerimages/460632.png","Aleksandar Pavlović (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png","Michael Olise (FW)|https://images.fotmob.com/image_resources/playerimages/1029063.png","Jamal Musiala (MF)|https://images.fotmob.com/image_resources/playerimages/1156141.png","Luis Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/860914.png","Harry Kane (FW)|https://images.fotmob.com/image_resources/playerimages/194165.png"]'
+awayLineup: '["Nikita Haikin (GK)|https://images.fotmob.com/image_resources/playerimages/625360.png","Fredrik Sjøvold (DF)|https://images.fotmob.com/image_resources/playerimages/1281021.png","Villads Nielsen (DF)|https://images.fotmob.com/image_resources/playerimages/1436937.png","Odin Lurås Bjørtuft (DF)|https://images.fotmob.com/image_resources/playerimages/917774.png","Fredrik André Bjørkan (DF)|https://images.fotmob.com/image_resources/playerimages/630228.png","Sondre Auklend (MF)|https://images.fotmob.com/image_resources/playerimages/1160076.png","Patrick Berg (MF)|https://images.fotmob.com/image_resources/playerimages/530635.png","Sondre Brunstad Fet (MF)|https://images.fotmob.com/image_resources/playerimages/540975.png","Ole Blomberg (FW)|https://images.fotmob.com/image_resources/playerimages/1086551.png","Andreas Helmersen (FW)|https://images.fotmob.com/image_resources/playerimages/615292.png","Jens Petter Hauge (FW)|https://images.fotmob.com/image_resources/playerimages/741397.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-3-3"
+homeCoach: "Vincent Kompany|https://images.fotmob.com/image_resources/playerimages/39027.png"
+awayCoach: "Kjetil Knutsen|https://images.fotmob.com/image_resources/playerimages/630277.png"
+pickWinTeam: "바이에른 뮌헨"
+pickWinResult: "승"
+pickHandicapTeam: "바이에른 뮌헨"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

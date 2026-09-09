@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs 한화 이글스 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | KBO - 픽천국"
+date: 2026-09-10T09:30:00.000Z
+description: "SSG 랜더스 vs 한화 이글스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260910HHSK02026-2026-09-10-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "한화 이글스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HH.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 37승 5무 58패를 기록하며 리그 9위에 머물러 있습니다. 시즌 초반부터 이어진 투타 불균형으로 인해 하위권에서 좀처럼 반등하지 못하는 모습입니다. 최근 경기들에서도 투수진의 실점이 잦아지며 수비적인 불안함이 크게 노출되고 있습니다. 타선 역시 꾸준한 득점력을 보여주지 못해 접전 상황에서 마무리 능력이 다소 부족합니다. 남은 시즌 동안 선발진의 재정비와 타격 집중력 개선이 팀의 과제로 보입니다."
+awayAnalysis: "한화 이글스는 2026시즌 41승 3무 52패를 기록하며 리그 7위에 위치하고 있습니다. 시즌 전체적으로 평균 득점 5.7점의 준수한 공격력을 앞세워 중위권 도약을 위한 동력을 마련했습니다. 최근 10경기에서 4승 6패를 기록했으나, 타선의 파괴력만큼은 리그 내에서도 경쟁력을 입증하고 있습니다. 특히 상위 타선의 출루율과 중심 타선의 해결 능력이 조화를 이루며 원정에서도 기복 없는 타격 전력을 유지합니다. 안정적인 득점 지원을 바탕으로 실점 관리만 뒷받침된다면 더욱 탄탄한 운영이 가능할 것으로 기대됩니다."
+homePower: "전반적인 승률 대비 투수진 실점 관리 부진함|홈 경기 흐름상 기복이 심해 경기력 유지 과제|상위 타선 대비 하위 타선의 득점 생산력 저조|수비 집중력 저하로 인한 대량 실점 패턴 노출|후반 집중력 보완이 전력 상승의 핵심 요소임"
+awayPower: "평균 득점 수치가 증명하는 강한 공격 화력|심우준과 페라자 중심의 상위 타선 기동력 확보|경기당 득점 생산 흐름이 꾸준하게 이어짐|원정 매치업에서 주도권을 쥐는 운영 능력 보임|득점 기회 창출 능력이 뛰어나 경기 집중도 높음"
+h2h: '[{"date":"26.08.27","home":"SSG 랜더스","away":"한화 이글스","score":"13-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827HHSK02026-2026-08-27-ssg-landers/"},{"date":"26.08.26","home":"SSG 랜더스","away":"한화 이글스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826HHSK02026-2026-08-26-ssg-landers/"},{"date":"26.08.25","home":"SSG 랜더스","away":"한화 이글스","score":"7-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825HHSK02026-2026-08-25-ssg-landers/"},{"date":"26.06.28","home":"SSG 랜더스","away":"한화 이글스","score":"3-6","link":"https://pick79.com/posts/detail/analyze-181806-2026-06-28-ssg-landers/"},{"date":"26.06.27","home":"SSG 랜더스","away":"한화 이글스","score":"1-8","link":"https://pick79.com/posts/detail/analyze-181797-2026-06-27-ssg-landers/"}]'
+summary: "SSG 랜더스는 시즌 내내 투타 밸런스 문제로 고전하며 하위권에 머물러 있는 반면, 한화 이글스는 상위 타선의 파괴력을 앞세워 득점 지원에서 우위를 점하고 있습니다. SSG 랜더스는 최근 수비 불안이 이어지며 실점 억제에 어려움을 겪고 있어, 한화 이글스의 강력한 타선을 제어하기가 쉽지 않아 보입니다. 이러한 전력 차이와 공격 흐름을 고려할 때, 한화 이글스가 경기 초반부터 득점 루트를 확보하며 우세한 흐름을 가져갈 가능성이 높게 평가됩니다."
+homeRecent: '[{"date":"26.09.08","home":"KT 위즈","away":"SSG 랜더스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908SKKT02026-2026-09-08-kt-wiz-suwon/"},{"date":"26.09.06","home":"SSG 랜더스","away":"두산 베어스","score":"9-16","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906OBSK02026-2026-09-06-ssg-landers/"},{"date":"26.09.05","home":"SSG 랜더스","away":"두산 베어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905OBSK02026-2026-09-05-ssg-landers/"},{"date":"26.09.04","home":"SSG 랜더스","away":"두산 베어스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904OBSK02026-2026-09-04-ssg-landers/"},{"date":"26.09.03","home":"키움 히어로즈","away":"SSG 랜더스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903SKWO02026-2026-09-03-kiwoom-heroes/"}]'
+awayRecent: '[{"date":"26.09.08","home":"한화 이글스","away":"두산 베어스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908OBHH02026-2026-09-08-hanwha-eagles/"},{"date":"26.09.06","home":"롯데 자이언츠","away":"한화 이글스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906HHLT02026-2026-09-06-lotte-giants/"},{"date":"26.09.05","home":"롯데 자이언츠","away":"한화 이글스","score":"6-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905HHLT02026-2026-09-05-lotte-giants/"},{"date":"26.09.04","home":"롯데 자이언츠","away":"한화 이글스","score":"4-14","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904HHLT02026-2026-09-04-lotte-giants/"},{"date":"26.09.03","home":"KT 위즈","away":"한화 이글스","score":"13-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903HHKT02026-2026-09-03-kt-wiz-suwon/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "한화 이글스"
+pickWinResult: "승"
+pickHandicapTeam: "한화 이글스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

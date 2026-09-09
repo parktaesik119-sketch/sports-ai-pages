@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 세인트루이스 카디널스 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | MLB - 픽천국"
+date: 2026-09-09T19:45:00.000Z
+description: "샌프란시스코 자이언츠 vs 세인트루이스 카디널스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260910SLSF0-2026-09-10-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "세인트루이스 카디널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 61승 85패를 기록하며 리그순위 14위에 머물러 있습니다. 시즌 초반부터 이어진 투타 불균형으로 인해 승률 .418이라는 다소 아쉬운 성적을 거두고 있으며 득실 마진에서도 -73.0을 기록하며 고전하는 흐름입니다. 최근 10경기에서 5승 5패를 기록하며 기복 있는 전력을 보여주고 있으나 득점 지원이 원활할 때는 충분히 경쟁력을 발휘합니다. 홈 경기에서는 타선의 응집력이 살아나는 경향을 보이기에 안방에서 반등의 실마리를 찾으려 노력하고 있습니다. 부상자 공백이 존재함에도 불구하고 끝까지 집중력을 유지하며 시즌 마무리를 향해 나아가고 있습니다."
+awayAnalysis: "세인트루이스 카디널스는 2026시즌 72승 74패로 리그순위 10위를 기록하며 5할 승률에 근접한 안정적인 시즌 운영을 이어오고 있습니다. 득실 마진이 -11.0으로 크게 벌어지지 않아 매 경기 팽팽한 접전을 펼칠 수 있는 기초 전력을 갖추고 있습니다. 최근 10경기에서 5승 5패를 기록 중이나 평균 6.4득점을 기록할 만큼 타선의 폭발력이 인상적인 시기를 보내고 있습니다. 원정 경기에서도 특유의 집중력을 잃지 않으며 상위권 팀들을 위협하는 저력을 과시하고 있습니다. 시즌 막바지 순위 도약을 위한 공격적 흐름을 유지하며 승리를 노리는 전략적인 경기 운영이 돋보입니다."
+homePower: "홈 타선의 높은 득점 지원 능력과 기복의 상쇄|득실 마진 극복을 위한 투수진의 집중력 강화 필요|시즌 막판 홈 경기 운영을 통한 승률 회복 집중|부상 공백 최소화를 위한 선수층의 유연한 활용|상대 팀과의 팽팽한 득점 흐름 속 수비 견고함 강조"
+awayPower: "최근 경기당 6점대 이상의 꾸준한 공격력 보유|원정에서의 과감한 승부처 타격 효율성 검증됨|5할 승률 도달을 위한 매 경기 집중력 유지 중|상대 투수진을 압도하는 다득점 생산 능력 확인|상대전적 열세 만회를 위한 타선의 적극적인 공세"
+h2h: '[{"date":"26.09.09","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"},{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"}]'
+summary: "양 팀은 2026시즌 리그순위에서 세인트루이스 카디널스가 10위, 샌프란시스코 자이언츠가 14위를 기록하며 객관적인 전력에서 세인트루이스 카디널스가 다소 우위를 점하고 있습니다. 세인트루이스 카디널스는 최근 10경기에서 평균 6.4득점을 기록할 정도로 타선의 파괴력이 상승세를 타고 있어 샌프란시스코 자이언츠의 수비진을 상대로 높은 집중력을 발휘할 것으로 보입니다. 샌프란시스코 자이언츠 역시 홈에서 반등을 노리고 있으나 상대적으로 득실 마진의 격차를 극복하는 것이 이번 경기의 핵심 과제가 될 것입니다. 두 팀 모두 시즌 막판 순위와 전력을 끌어올리기 위해 총력을 다할 것으로 보이며, 특히 원정팀인 세인트루이스 카디널스가 최근의 타격 흐름을 바탕으로 승리 가능성을 높여갈 것으로 평가됩니다."
+homeRecent: '[{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"},{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SFNM0-2026-09-07-new-york-mets/"},{"date":"26.09.06","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets/"},{"date":"26.09.05","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"10-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SFNM0-2026-09-05-new-york-mets/"},{"date":"26.09.04","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SFPI0-2026-09-04-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"},{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"},{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.04","home":"LA 다저스","away":"세인트루이스 카디널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SLLA0-2026-09-04-los-angeles-dodgers/"},{"date":"26.09.03","home":"LA 다저스","away":"세인트루이스 카디널스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SLLA0-2026-09-03-los-angeles-dodgers/"}]'
+injuryHome: "Victor Bericoto (타박상)|JT Brubaker (타박상)|Matt Gage (염좌)|Willy Adames (염좌)|Marcelo Mayer (골절)"
+injuryAway: "Peter Strzelecki (염증)|JJ Wetherholt (건염)|Everson Pereira (타박상)|Blaze Jordan (염좌)|Hunter Dobbins (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

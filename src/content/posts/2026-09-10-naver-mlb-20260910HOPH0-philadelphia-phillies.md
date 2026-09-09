@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (9월 10일) | MLB - 픽천국"
+date: 2026-09-09T22:40:00.000Z
+description: "필라델피아 필리스 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260910HOPH0-2026-09-10-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 81승 64패 승률 .559를 기록하며 리그순위 4위에 위치해 있습니다. 이번 시즌 득실 마진 +34.0을 기록하며 탄탄한 공수 밸런스를 증명하고 있으나 주춤했던 흐름을 다잡아야 하는 중요한 시점입니다. 최근 10경기에서 6승 4패를 거두며 비교적 양호한 승율을 이어가고 있습니다. 다만 경기별로 타선의 득점 지원 효율성에 기복을 보이고 있어 안정적인 경기 운영이 필요합니다. 현재 Tanner Banks와 Johan Rojas, Adolis Garcia 등 주요 전력의 수술 및 부상 결장 공백이 있어 마운드와 야수진의 세심한 로테이션 관리가 요구됩니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 74승 71패 승률 .510을 기록하며 리그순위 5위에 자리 잡고 있습니다. 득실 마진은 -37.0으로 다소 아쉬운 지표를 나타내고 있지만 승부처 집중력을 앞세워 5할 이상의 승률을 유지하고 있습니다. 최근 10경기에서 6승 4패를 기록하며 상승세의 기세를 늦추지 않는 분위기입니다. Carlos Correa와 Brice Matthews 등 핵심 자원들의 장기 결장 악재 속에서도 대체 전력들이 제 역할을 다해주고 있습니다. 직전 맞대결 승리의 기세를 이어받아 이번 원정에서도 타선의 응집력을 발휘할 것으로 기대됩니다."
+homePower: "필라델피아 필리스는 리그순위 4위로 상위권 전력을 견고히 유지함|득실 마진 양수를 바탕으로 안정된 공수 밸런스를 보여줌|핵심 전력 부상 공백 속에서도 홈 경기 운영력이 돋보임|최근 10경기 6승으로 끈질긴 경기 집중력을 입증함|경기 후반 구원진의 안정감 유지가 승패의 키포인트로 보임"
+awayPower: "휴스턴 애스트로스는 리그순위 5위로 5할 이상 승률을 유지함|득실 마진 열세에도 접전 승부에서 뛰어난 집념을 드러냄|최근 10경기 6승을 거두며 타선의 응집력이 크게 개선됨|주전급 결장 악재를 견고한 조직력으로 극복하는 모습임|직전 맞대결 승리로 상대전적상 자신감을 한층 끌어올림"
+h2h: '[{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"}]'
+summary: "이번 경기는 전반적인 공수 밸런스가 탄탄한 필라델피아 필리스와 최근 승부처 응집력이 뛰어난 휴스턴 애스트로스의 맞대결입니다. 필라델피아 필리스는 안정적인 리그순위를 바탕으로 꾸준한 경기를 보여주고 있으나 핵심 부상자 발생으로 인한 전력 손실을 극복해야 합니다. 반면 휴스턴 애스트로스는 주전들의 공백에도 불구하고 타선의 집중력과 접전에서의 강점을 앞세워 좋은 흐름을 만들어내고 있습니다. 전반적인 기세와 직전 맞대결 결과를 감안할 때 원정팀 휴스턴 애스트로스가 미세한 우위를 점하며 경기를 이끌어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"},{"date":"26.09.08","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ATPH0-2026-09-08-philadelphia-phillies/"},{"date":"26.09.07","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ATPH0-2026-09-07-philadelphia-phillies/"},{"date":"26.09.06","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ATPH0-2026-09-06-philadelphia-phillies/"},{"date":"26.09.05","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ATPH0-2026-09-05-philadelphia-phillies/"}]'
+awayRecent: '[{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"},{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.04","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904CWHO0-2026-09-04-houston-astros/"},{"date":"26.09.02","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902CWHO0-2026-09-02-houston-astros/"}]'
+injuryHome: "Tanner Banks (60일 부상자 명단 - 염좌)|Caleb Kilian (15일 부상자 명단 - 염좌)|Felix Reyes (60일 부상자 명단 - 골절)|Johan Rojas (60일 부상자 명단 - 수술)|Adolis Garcia (60일 부상자 명단 - 수술)"
+injuryAway: "Brice Matthews (60일 부상자 명단 - 염좌)|Steven Okert (15일 부상자 명단 - 염좌)|Mike Burrows (60일 부상자 명단 - 염증)|Carlos Correa (60일 부상자 명단 - 수술)|Brandon Walter (60일 부상자 명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 애스트로스"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 애스트로스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
