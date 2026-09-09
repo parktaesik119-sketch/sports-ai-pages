@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"마이애미 말린스","away":"뉴욕 
 awayRecent: '[{"date":"26.09.09","home":"마이애미 말린스","away":"뉴욕 메츠","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909NMFL0-2026-09-09-miami-marlins/"},{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 메츠","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908NMFL0-2026-09-08-miami-marlins/"},{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SFNM0-2026-09-07-new-york-mets/"},{"date":"26.09.06","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets/"},{"date":"26.09.05","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"10-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SFNM0-2026-09-05-new-york-mets/"}]'
 injuryHome: "Pete Fairbanks (신경 압박)|Xavier Edwards (염좌)|Anthony Bender (골절)|Max Meyer (근육 염좌)|Ronny Henriquez (수술)"
 injuryAway: "Cionel Perez (근육 염좌)|Devin Williams (근육 염좌)|Jorge Polanco (수술)|Reed Garrett (수술)|Tylor Megill (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Junk (6-9, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/4881980.png\"]"
+awayLineup: "[\"선발투수 R. Stock (1-3, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/30577.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

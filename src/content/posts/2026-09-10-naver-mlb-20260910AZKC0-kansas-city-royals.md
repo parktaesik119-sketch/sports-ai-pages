@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"캔자스시티 로열스","away":"애�
 awayRecent: '[{"date":"26.09.09","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909AZKC0-2026-09-09-kansas-city-royals/"},{"date":"26.09.08","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908AZKC0-2026-09-08-kansas-city-royals/"},{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.03","home":"애리조나 다이아몬드백스","away":"필라델피아 필리스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903PHAZ0-2026-09-03-arizona-diamondbacks/"}]'
 injuryHome: "Jac Caglianone (경미)|Tony Gonsolin (주요)|Connor Seabold (주요)|Maikel Garcia (주요)|James McArthur (주요)"
 injuryAway: "Zac Gallen (주요)|Michael Soroka (주요)|Corbin Carroll (경미)|Ryne Nelson (주요)|Ryan Thompson (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Lynch IV (4-5, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
+awayLineup: "[\"선발투수 Z. Gallen (3-9, 6.34) ERA 6.34|https://a.espncdn.com/i/headshots/mlb/players/full/39910.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

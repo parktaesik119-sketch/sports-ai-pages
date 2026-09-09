@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"시카고 화이트삭스","away":"피�
 awayRecent: '[{"date":"26.09.09","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"3-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909PICW0-2026-09-09-chicago-white-sox/"},{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"},{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.04","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SFPI0-2026-09-04-pittsburgh-pirates/"},{"date":"26.09.03","home":"피츠버그 파이러츠","away":"샌프란시스코 자이언츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SFPI0-2026-09-03-pittsburgh-pirates/"}]'
 injuryHome: "Drew Thorpe (60일 부상자 명단 - 수술)|Huascar Brazoban (15일 부상자 명단 - 염좌)|Tanner Murray (60일 부상자 명단 - 수술)|Tommy Pham (10일 부상자 명단 - 염좌)|Joey Bart (10일 부상자 명단 - 골절)"
 injuryAway: "Ryan O'Hearn (10일 부상자 명단 - 염좌)|Kirby Yates (15일 부상자 명단 - 신경 압박)|Isaac Mattson (15일 부상자 명단 - 염증)|Mitch Keller (60일 부상자 명단 - 사유 미기재)|Endy Rodriguez (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Martin (9-6, 4.13) ERA 4.13|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
+awayLineup: "[\"선발투수 L. Bachar (1-3, 3.59) ERA 3.59|https://a.espncdn.com/i/headshots/mlb/players/full/42592.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

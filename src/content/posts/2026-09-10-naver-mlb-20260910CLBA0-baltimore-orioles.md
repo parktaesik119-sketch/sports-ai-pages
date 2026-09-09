@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"볼티모어 오리올스","away":"클�
 awayRecent: '[{"date":"26.09.09","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CLBA0-2026-09-09-baltimore-orioles/"},{"date":"26.09.08","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CLBA0-2026-09-08-baltimore-orioles/"},{"date":"26.09.07","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907DECL0-2026-09-07-cleveland-guardians/"},{"date":"26.09.06","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906DECL0-2026-09-06-cleveland-guardians/"},{"date":"26.09.05","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905DECL2-2026-09-05-cleveland-guardians/"}]'
 injuryHome: "Blaze Alexander (경미한 근육 경련)|Gunnar Henderson (경미한 부상)|Luis Robert Jr. (통증)|Christian Franklin (염증)|Ryan Helsley (염증)"
 injuryAway: "Chase DeLauter (염좌)|Rhys Hoskins (염증)|Colin Holderman (염증)|Shawn Armstrong (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Baz (5-15, 3.91) ERA 3.91|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (15-4, 3.26) ERA 3.26|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

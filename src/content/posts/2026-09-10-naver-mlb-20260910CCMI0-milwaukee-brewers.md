@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"밀워키 브루어스","away":"시카�
 awayRecent: '[{"date":"26.09.09","home":"밀워키 브루어스","away":"시카고 컵스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CCMI0-2026-09-09-milwaukee-brewers/"},{"date":"26.09.07","home":"마이애미 말린스","away":"시카고 컵스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907CCFL0-2026-09-07-miami-marlins/"},{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"},{"date":"26.09.04","home":"시카고 컵스","away":"밀워키 브루어스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904MICC0-2026-09-04-chicago-cubs/"}]'
 injuryHome: "Jake Bauers (일별 상태)|Rob Zastryzny (60일 부상자 명단 - 근육 부상)|Bryse Wilson (15일 부상자 명단 - 근육 부상)|Grant Anderson (15일 부상자 명단 - 염증)|Brandon Woodruff (60일 부상자 명단 - 염증)"
 injuryAway: "Edward Cabrera (15일 부상자 명단 - 찰과상)|Shelby Miller (60일 부상자 명단 - 수술)|Tyler Austin (60일 부상자 명단 - 수술)|Gavin Hollowell (15일 부상자 명단 - 염증)|Hunter Harvey (60일 부상자 명단 - 골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Henderson (9-3, 2.48) ERA 2.48|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
+awayLineup: "[\"선발투수 K. Gausman (9-11, 4.38) ERA 4.38|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

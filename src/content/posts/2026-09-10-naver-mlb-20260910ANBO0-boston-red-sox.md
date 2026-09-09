@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에�
 awayRecent: '[{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"},{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"},{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"},{"date":"26.09.03","home":"LA 에인절스","away":"뉴욕 양키즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NYAN0-2026-09-03-los-angeles-angels/"}]'
 injuryHome: "Willson Contreras (10일 부상자 명단 - 근육 염좌)|Ceddanne Rafaela (10일 부상자 명단 - 통증)|Curtis Mead (10일 부상자 명단 - 골절)|Tyron Guerrero (15일 부상자 명단 - 염증)|Tanner Houck (60일 부상자 명단 - 수술)"
 injuryAway: "Nolan Schanuel (10일 부상자 명단 - 근육 염좌)|Sam Bachman (15일 부상자 명단 - 염증)|Yoan Moncada (60일 부상자 명단 - 수술)|Gustavo Campero (10일 부상자 명단 - 근육 염좌)|George Klassen (15일 부상자 명단 - 염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Bennett (9-6, 3.34) ERA 3.34|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\"]"
+awayLineup: "[\"선발투수 R. Johnson (3-8, 5.17) ERA 5.17|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

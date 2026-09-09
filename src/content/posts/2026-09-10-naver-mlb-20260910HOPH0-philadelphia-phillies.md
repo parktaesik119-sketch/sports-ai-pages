@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"필라델피아 필리스","away":"휴�
 awayRecent: '[{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"},{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.04","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904CWHO0-2026-09-04-houston-astros/"},{"date":"26.09.02","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902CWHO0-2026-09-02-houston-astros/"}]'
 injuryHome: "Tanner Banks (60일 부상자 명단 - 염좌)|Caleb Kilian (15일 부상자 명단 - 염좌)|Felix Reyes (60일 부상자 명단 - 골절)|Johan Rojas (60일 부상자 명단 - 수술)|Adolis Garcia (60일 부상자 명단 - 수술)"
 injuryAway: "Brice Matthews (60일 부상자 명단 - 염좌)|Steven Okert (15일 부상자 명단 - 염좌)|Mike Burrows (60일 부상자 명단 - 염증)|Carlos Correa (60일 부상자 명단 - 수술)|Brandon Walter (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Sanchez (16-5, 2.58) ERA 2.58|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+awayLineup: "[\"선발투수 H. Brown (5-3, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

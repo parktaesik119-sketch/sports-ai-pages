@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 
 awayRecent: '[{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"},{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"},{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.03","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903BACO0-2026-09-03-colorado-rockies/"},{"date":"26.09.01","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901BACO0-2026-09-01-colorado-rockies/"}]'
 injuryHome: "Jazz Chisholm Jr. (경미)|Clarke Schmidt (주요)|Ryan Weathers (주요)|Fernando Cruz (주요)|Trent Grisham (주요)"
 injuryAway: "Willi Castro (주요)|Kyle Freeland (주요)|Jose Quintana (주요)|Kris Bryant (주요)|McCade Brown (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 W. Warren (9-6, 4.16) ERA 4.16|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\"]"
+awayLineup: "[\"선발투수 T. Sugano (12-8, 5.19) ERA 5.19|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

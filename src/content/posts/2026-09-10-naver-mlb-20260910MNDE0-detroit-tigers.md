@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.09","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909MNDE0-2026-09-09-detroit-tigers/"},{"date":"26.09.08","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MNDE0-2026-09-08-detroit-tigers/"},{"date":"26.09.07","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MNCW0-2026-09-07-chicago-white-sox/"},{"date":"26.09.06","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MNCW0-2026-09-06-chicago-white-sox/"},{"date":"26.09.05","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MNCW0-2026-09-05-chicago-white-sox/"}]'
 injuryHome: "Justin Verlander (60일 부상자 명단 - 염좌)|Kerry Carpenter (10일 부상자 명단 - 족저근막염)|Wenceel Perez (60일 부상자 명단 - 골절)|Parker Meadows (60일 부상자 명단 - 수술)|Jack Flaherty (15일 부상자 명단 - 염증)"
 injuryAway: "Austin Martin (10일 부상자 명단 - 염좌)|Byron Buxton (10일 부상자 명단 - 신경 압박)|Mike Paredes (60일 부상자 명단 - 염좌)|Mick Abel (60일 부상자 명단 - 수술)|Cole Sands (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Montero (9-8, 3.52) ERA 3.52|https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png\"]"
+awayLineup: "[\"선발투수 Z. Matthews (9-9, 4.69) ERA 4.69|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

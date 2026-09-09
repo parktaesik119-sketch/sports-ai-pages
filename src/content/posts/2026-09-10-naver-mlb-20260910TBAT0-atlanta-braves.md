@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.09.09","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909TBAT0-2026-09-09-atlanta-braves/"},{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"},{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"},{"date":"26.09.04","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TBTE0-2026-09-04-texas-rangers/"},{"date":"26.09.03","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NMTB0-2026-09-03-tampa-bay-rays/"}]'
 injuryHome: "Reynaldo Lopez (15일 부상자 명단 - 염증)|Robert Suarez (60일 부상자 명단 - 통증)|Bryce Elder (출전 불가 - 수술)|Joe Jimenez (60일 부상자 명단 - 수술)|Spencer Strider (60일 부상자 명단 - 염증)"
 injuryAway: "Bryan Baker (일일 부상자 - 미정)|Jake Fraley (60일 부상자 명단 - 수술)|Jonathan Heasley (60일 부상자 명단 - 골절)|Edwin Uceta (60일 부상자 명단 - 근육 좌상)|Ben Williamson (10일 부상자 명단 - 근육 좌상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Lopez (4-3, 3.64) ERA 3.64|https://a.espncdn.com/i/headshots/mlb/players/full/33860.png\"]"
+awayLineup: "[\"선발투수 G. Jax (6-10, 3.82) ERA 3.82|https://a.espncdn.com/i/headshots/mlb/players/full/42604.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
