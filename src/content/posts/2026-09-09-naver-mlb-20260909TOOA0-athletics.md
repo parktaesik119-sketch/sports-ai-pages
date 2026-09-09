@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.07","home":"캔자스시티 로열스","away":"토�
 injuryHome: "Tommy White (통증)|Brooks Kriske (신경 압박)|J.T. Ginn (통증)|Joshua Kuroda-Grauer (수술)|Shea Langeliers (수술)"
 injuryAway: "Luis Urias (부상)|Anthony Santander (수술)|Trey Yesavage (수술)|Jameson Taillon (부상)|Jonatan Clase (족저근막염)"
 homeLineup: "[\"선발투수 B. Basso (1-2, 4.32) ERA 4.32|https://a.espncdn.com/i/headshots/mlb/players/full/4179551.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 B. Fisher (3-4, 3.20) ERA 3.20|https://a.espncdn.com/i/headshots/mlb/players/full/41318.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
