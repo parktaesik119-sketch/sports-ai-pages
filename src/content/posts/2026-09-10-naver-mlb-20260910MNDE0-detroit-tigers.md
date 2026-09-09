@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.09","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Justin Verlander (60일 부상자 명단 - 염좌)|Kerry Carpenter (10일 부상자 명단 - 족저근막염)|Wenceel Perez (60일 부상자 명단 - 골절)|Parker Meadows (60일 부상자 명단 - 수술)|Jack Flaherty (15일 부상자 명단 - 염증)"
 injuryAway: "Austin Martin (10일 부상자 명단 - 염좌)|Byron Buxton (10일 부상자 명단 - 신경 압박)|Mike Paredes (60일 부상자 명단 - 염좌)|Mick Abel (60일 부상자 명단 - 수술)|Cole Sands (60일 부상자 명단 - 수술)"
 homeLineup: "[\"선발투수 K. Montero (9-8, 3.52) ERA 3.52|https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png\"]"
-awayLineup: "[\"선발투수 Z. Matthews (9-9, 4.69) ERA 4.69|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\"]"
+awayLineup: "[\"선발투수 Z. Matthews (9-9, 4.69) ERA 4.69|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\",\"1번 L. Keaschall (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4977664.png\",\"2번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"3번 K. Clemens (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"4번 J. Bell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"5번 K. Culpepper (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4935268.png\",\"6번 T. Larnach (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41205.png\",\"7번 R. Lewis (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40635.png\",\"8번 V. Caratini (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33229.png\",\"9번 W. Jenkins (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5148963.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
