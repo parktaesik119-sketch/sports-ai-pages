@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.09","home":"볼티모어 오리올스","away":"클�
 injuryHome: "Blaze Alexander (경미한 근육 경련)|Gunnar Henderson (경미한 부상)|Luis Robert Jr. (통증)|Christian Franklin (염증)|Ryan Helsley (염증)"
 injuryAway: "Chase DeLauter (염좌)|Rhys Hoskins (염증)|Colin Holderman (염증)|Shawn Armstrong (근육 염좌)"
 homeLineup: "[\"선발투수 S. Baz (5-15, 3.91) ERA 3.91|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
-awayLineup: "[\"선발투수 F. Griffin (15-4, 3.26) ERA 3.26|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (15-4, 3.26) ERA 3.26|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\",\"1번 S. Kwan (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\",\"2번 C. DeLauter (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png\",\"3번 J. Ramirez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/32801.png\",\"4번 J. Adell (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"5번 T. Bazzana (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png\",\"6번 N. Lowe (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40538.png\",\"7번 A. Genao (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5204351.png\",\"8번 P. Bailey (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4345843.png\",\"9번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
