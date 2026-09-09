@@ -138,6 +138,7 @@ const PLAYER_NAME_MAP = {
   "Seok-Joo Kwon": "권석주",
   "Gi-Hyuk Lee": "이기혁",
   "Ho-Yeong Park": "박호영",
+  "Ho-Young Park": "박호영",
   "Hyo-Bin Lee": "이효빈",
   "Jae-Hyeok Choi": "최재혁",
   "Seung-Bin Jeong": "정승빈",
