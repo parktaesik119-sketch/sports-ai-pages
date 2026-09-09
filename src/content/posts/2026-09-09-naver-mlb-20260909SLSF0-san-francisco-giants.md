@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스�
 awayRecent: '[{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"},{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.04","home":"LA 다저스","away":"세인트루이스 카디널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SLLA0-2026-09-04-los-angeles-dodgers/"},{"date":"26.09.03","home":"LA 다저스","away":"세인트루이스 카디널스","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SLLA0-2026-09-03-los-angeles-dodgers/"},{"date":"26.09.02","home":"LA 다저스","away":"세인트루이스 카디널스","score":"8-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902SLLA0-2026-09-02-los-angeles-dodgers/"}]'
 injuryHome: "Victor Bericoto (멍)|JT Brubaker (멍)|Matt Gage (염좌)|Willy Adames (염좌)|Marcelo Mayer (골절)"
 injuryAway: "JJ Wetherholt (건염)|Masyn Winn (골절)|Peter Strzelecki (염증)|Everson Pereira (멍)|Blaze Jordan (염좌)"
-homeLineup: "[\"선발투수 M. Wilkinson (0-3, 6.14) ERA 6.14|https://a.espncdn.com/i/headshots/mlb/players/full/5339226.png\"]"
+homeLineup: "[\"선발투수 B. Tidwell (0-2, 4.43) ERA 4.43|https://a.espncdn.com/i/headshots/mlb/players/full/4719088.png\"]"
 awayLineup: "[\"선발투수 A. Pallante (12-6, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
 homeFormation: ""
 awayFormation: ""
