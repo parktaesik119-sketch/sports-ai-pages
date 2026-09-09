@@ -2094,23 +2094,23 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "87",
+        "wins": "88",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".604",
-        "gamesBehind": "2",
-        "pointsFor": "711",
-        "pointsAgainst": "556"
+        "winPercent": ".607",
+        "gamesBehind": "1.5",
+        "pointsFor": "714",
+        "pointsAgainst": "558"
       },
       "away": {
         "rank": "11",
         "wins": "69",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".479",
-        "gamesBehind": "20",
-        "pointsFor": "608",
-        "pointsAgainst": "716"
+        "winPercent": ".476",
+        "gamesBehind": "20.5",
+        "pointsFor": "610",
+        "pointsAgainst": "719"
       }
     },
     "h2h": null
@@ -2126,14 +2126,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Brooks Kriske",
-          "status": "60-Day-IL",
-          "detail": "Pinched Nerve"
-        },
-        {
           "name": "Shea Langeliers",
           "status": "10-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Brooks Kriske",
+          "status": "60-Day-IL",
+          "detail": "Pinched Nerve"
         },
         {
           "name": "J.T. Ginn",
@@ -3489,180 +3489,6 @@
     "h2h": null
   },
   {
-    "home": "Seattle Mariners",
-    "away": "Texas Rangers",
-    "date": "2026-09-09T01:40:00.000Z",
-    "league": "MLB",
-    "sport": "baseball",
-    "espnSport": "baseball",
-    "gameId": "401816865",
-    "injuries": {
-      "home": [
-        {
-          "name": "Brendan Donovan",
-          "status": "7-Day IL",
-          "detail": "Concussion"
-        },
-        {
-          "name": "Brennen Davis",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Will Wilson",
-          "status": "60-Day-IL",
-          "detail": "Fracture"
-        },
-        {
-          "name": "Emerson Hancock",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Cole Wilcox",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        }
-      ],
-      "away": [
-        {
-          "name": "Kyle Higashioka",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Josh Jung",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Carter Baumler",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Cole Winn",
-          "status": "15-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Nathan Eovaldi",
-          "status": "15-Day-IL",
-          "detail": "Inflammation"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "11",
-        "wins": "67",
-        "losses": "77",
-        "ties": "0",
-        "winPercent": ".465",
-        "gamesBehind": "19",
-        "pointsFor": "569",
-        "pointsAgainst": "640"
-      },
-      "away": {
-        "rank": "8",
-        "wins": "71",
-        "losses": "73",
-        "ties": "0",
-        "winPercent": ".493",
-        "gamesBehind": "15",
-        "pointsFor": "595",
-        "pointsAgainst": "639"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "TEX leads series 7-3",
-      "totalGames": 10,
-      "games": [
-        {
-          "date": "2026-04-07T00:05:00Z",
-          "home": "Texas Rangers",
-          "away": "Seattle Mariners",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-04-08T00:05:00Z",
-          "home": "Texas Rangers",
-          "away": "Seattle Mariners",
-          "homeScore": 3,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-04-08T18:35:00Z",
-          "home": "Texas Rangers",
-          "away": "Seattle Mariners",
-          "homeScore": 3,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-04-18T01:40:00Z",
-          "home": "Seattle Mariners",
-          "away": "Texas Rangers",
-          "homeScore": 0,
-          "awayScore": 5,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-04-18T23:15:00Z",
-          "home": "Seattle Mariners",
-          "away": "Texas Rangers",
-          "homeScore": 7,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-04-19T20:10:00Z",
-          "home": "Seattle Mariners",
-          "away": "Texas Rangers",
-          "homeScore": 5,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-07-25T00:05:00Z",
-          "home": "Texas Rangers",
-          "away": "Seattle Mariners",
-          "homeScore": 5,
-          "awayScore": 4,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-07-25T23:15:00Z",
-          "home": "Texas Rangers",
-          "away": "Seattle Mariners",
-          "homeScore": 7,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-07-26T18:35:00Z",
-          "home": "Texas Rangers",
-          "away": "Seattle Mariners",
-          "homeScore": 4,
-          "awayScore": 6,
-          "isCompleted": true
-        },
-        {
-          "date": "2026-07-27T18:35:00Z",
-          "home": "Texas Rangers",
-          "away": "Seattle Mariners",
-          "homeScore": 7,
-          "awayScore": 3,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "San Diego Padres",
     "away": "Washington Nationals",
     "date": "2026-09-09T01:40:00.000Z",
@@ -3789,6 +3615,180 @@
     }
   },
   {
+    "home": "Seattle Mariners",
+    "away": "Texas Rangers",
+    "date": "2026-09-09T01:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816865",
+    "injuries": {
+      "home": [
+        {
+          "name": "Brendan Donovan",
+          "status": "7-Day IL",
+          "detail": "Concussion"
+        },
+        {
+          "name": "Brennen Davis",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Will Wilson",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Emerson Hancock",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Cole Wilcox",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kyle Higashioka",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Josh Jung",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Carter Baumler",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Cole Winn",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Nathan Eovaldi",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "67",
+        "losses": "78",
+        "ties": "0",
+        "winPercent": ".462",
+        "gamesBehind": "19.5",
+        "pointsFor": "574",
+        "pointsAgainst": "650"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "72",
+        "losses": "73",
+        "ties": "0",
+        "winPercent": ".497",
+        "gamesBehind": "14.5",
+        "pointsFor": "605",
+        "pointsAgainst": "644"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TEX leads series 8-3",
+      "totalGames": 10,
+      "games": [
+        {
+          "date": "2026-04-07T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-08T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-08T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-18T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 0,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-18T23:15:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 7,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-19T20:10:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-25T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-25T23:15:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 7,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-26T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 4,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-27T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 7,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
     "home": "Athletics",
     "away": "Toronto Blue Jays",
     "date": "2026-09-09T01:40:00.000Z",
@@ -3799,14 +3799,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Brooks Kriske",
-          "status": "60-Day-IL",
-          "detail": "Pinched Nerve"
-        },
-        {
           "name": "Shea Langeliers",
           "status": "10-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Brooks Kriske",
+          "status": "60-Day-IL",
+          "detail": "Pinched Nerve"
         },
         {
           "name": "J.T. Ginn",
@@ -4078,28 +4078,28 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "87",
+        "wins": "88",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".604",
-        "gamesBehind": "2",
-        "pointsFor": "711",
-        "pointsAgainst": "556"
+        "winPercent": ".607",
+        "gamesBehind": "1.5",
+        "pointsFor": "714",
+        "pointsAgainst": "558"
       },
       "away": {
         "rank": "11",
         "wins": "69",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".479",
-        "gamesBehind": "20",
-        "pointsFor": "608",
-        "pointsAgainst": "716"
+        "winPercent": ".476",
+        "gamesBehind": "20.5",
+        "pointsFor": "610",
+        "pointsAgainst": "719"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAD lead series 1-0",
+      "text": "LAD lead series 2-0",
       "totalGames": 1,
       "games": [
         {
@@ -4314,14 +4314,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Brooks Kriske",
-          "status": "60-Day-IL",
-          "detail": "Pinched Nerve"
-        },
-        {
           "name": "Shea Langeliers",
           "status": "10-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Brooks Kriske",
+          "status": "60-Day-IL",
+          "detail": "Pinched Nerve"
         },
         {
           "name": "J.T. Ginn",
@@ -4749,28 +4749,28 @@
       "home": {
         "rank": "11",
         "wins": "67",
-        "losses": "77",
+        "losses": "78",
         "ties": "0",
-        "winPercent": ".465",
-        "gamesBehind": "19",
-        "pointsFor": "569",
-        "pointsAgainst": "640"
+        "winPercent": ".462",
+        "gamesBehind": "19.5",
+        "pointsFor": "574",
+        "pointsAgainst": "650"
       },
       "away": {
         "rank": "8",
-        "wins": "71",
+        "wins": "72",
         "losses": "73",
         "ties": "0",
-        "winPercent": ".493",
-        "gamesBehind": "15",
-        "pointsFor": "595",
-        "pointsAgainst": "639"
+        "winPercent": ".497",
+        "gamesBehind": "14.5",
+        "pointsFor": "605",
+        "pointsAgainst": "644"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "TEX leads series 7-3",
-      "totalGames": 10,
+      "text": "TEX leads series 8-3",
+      "totalGames": 11,
       "games": [
         {
           "date": "2026-04-07T00:05:00Z",
@@ -4850,6 +4850,14 @@
           "away": "Seattle Mariners",
           "homeScore": 7,
           "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 5,
+          "awayScore": 10,
           "isCompleted": true
         }
       ]
@@ -6086,29 +6094,29 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "87",
+        "wins": "88",
         "losses": "57",
         "ties": "0",
-        "winPercent": ".604",
-        "gamesBehind": "2",
-        "pointsFor": "711",
-        "pointsAgainst": "556"
+        "winPercent": ".607",
+        "gamesBehind": "1.5",
+        "pointsFor": "714",
+        "pointsAgainst": "558"
       },
       "away": {
         "rank": "11",
         "wins": "69",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".479",
-        "gamesBehind": "20",
-        "pointsFor": "608",
-        "pointsAgainst": "716"
+        "winPercent": ".476",
+        "gamesBehind": "20.5",
+        "pointsFor": "610",
+        "pointsAgainst": "719"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAD lead series 1-0",
-      "totalGames": 1,
+      "text": "LAD lead series 2-0",
+      "totalGames": 2,
       "games": [
         {
           "date": "2026-09-08T01:10:00Z",
@@ -6116,6 +6124,14 @@
           "away": "Cincinnati Reds",
           "homeScore": 6,
           "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T02:10:00Z",
+          "home": "Los Angeles Dodgers",
+          "away": "Cincinnati Reds",
+          "homeScore": 3,
+          "awayScore": 2,
           "isCompleted": true
         }
       ]

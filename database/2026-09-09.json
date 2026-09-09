@@ -4190,7 +4190,7 @@
     "sport": "soccer",
     "country": "Montenegro",
     "league": "1. CFL",
-    "date": "2026-09-09T17:00:00.000Z",
+    "date": "2026-09-09T18:00:00.000Z",
     "home": "Dečić Tuzi",
     "away": "Petrovac",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8100.png",
@@ -7293,19 +7293,6 @@
     "awayScore": 9
   },
   {
-    "id": "naver-mlb-20260909TESE0",
-    "sport": "baseball",
-    "country": "USA",
-    "league": "MLB",
-    "date": "2026-09-09T01:40:00.000Z",
-    "home": "Seattle Mariners",
-    "away": "Texas Rangers",
-    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SE.png",
-    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TE.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "naver-mlb-20260909MOSD0",
     "sport": "baseball",
     "country": "USA",
@@ -7317,6 +7304,19 @@
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MO.png",
     "homeScore": 5,
     "awayScore": 4
+  },
+  {
+    "id": "naver-mlb-20260909TESE0",
+    "sport": "baseball",
+    "country": "USA",
+    "league": "MLB",
+    "date": "2026-09-09T01:40:00.000Z",
+    "home": "Seattle Mariners",
+    "away": "Texas Rangers",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SE.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TE.png",
+    "homeScore": 5,
+    "awayScore": 10
   },
   {
     "id": "naver-mlb-20260909TOOA0",
@@ -7354,8 +7354,8 @@
     "away": "Cincinnati Reds",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/LA.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CI.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "naver-npb-20260909HIHS0",
@@ -7813,6 +7813,19 @@
     "awayScore": null
   },
   {
+    "id": "highlightly-hockey-366318840",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-09-09T16:30:00.000Z",
+    "home": "SKA St. Petersburg",
+    "away": "Lada",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/325866.png",
+    "awayLogo": null,
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "highlightly-hockey-366283949",
     "sport": "hockey",
     "country": "Russia",
@@ -7848,19 +7861,6 @@
     "away": "Vladivostok",
     "homeLogo": null,
     "awayLogo": "https://highlightly.net/hockey/images/teams/707965.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "highlightly-hockey-366318840",
-    "sport": "hockey",
-    "country": "Russia",
-    "league": "KHL",
-    "date": "2026-09-09T16:30:00.000Z",
-    "home": "SKA St. Petersburg",
-    "away": "Lada",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/325866.png",
-    "awayLogo": null,
     "homeScore": null,
     "awayScore": null
   },
@@ -8175,7 +8175,7 @@
     "id": "panda-1589552",
     "sport": "lol",
     "league": "LCK Challengers League",
-    "date": "2026-09-09T08:00:00Z",
+    "date": "2026-09-09T08:01:16Z",
     "home": "DN SOOPers Challengers",
     "away": "Nongshim Esports Academy",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137831/dn_soo_perslogo_profile.png",
