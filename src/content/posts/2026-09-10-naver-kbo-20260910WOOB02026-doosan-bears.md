@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.08","home":"한화 이글스","away":"두산 베어
 awayRecent: '[{"date":"26.09.08","home":"LG 트윈스","away":"키움 히어로즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908WOLG02026-2026-09-08-lg-twins/"},{"date":"26.09.06","home":"키움 히어로즈","away":"NC 다이노스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906NCWO02026-2026-09-06-kiwoom-heroes/"},{"date":"26.09.05","home":"키움 히어로즈","away":"NC 다이노스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905NCWO02026-2026-09-05-kiwoom-heroes/"},{"date":"26.09.04","home":"키움 히어로즈","away":"NC 다이노스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904NCWO02026-2026-09-04-kiwoom-heroes/"},{"date":"26.09.03","home":"키움 히어로즈","away":"SSG 랜더스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903SKWO02026-2026-09-03-kiwoom-heroes/"}]'
 injuryHome: "없음"
 injuryAway: "임지열 (부상)"
-homeLineup: "[\"1번 박찬호 (유격수)\",\"2번 박지훈 (3루수)\",\"3번 박준순 (2루수)\",\"4번 양의지 (지명타자)\",\"5번 김민석 (좌익수)\",\"6번 강승호 (1루수)\",\"7번 정수빈 (중견수)\",\"8번 김기연 (포수)\",\"9번 김대한 (우익수)\"]"
+homeLineup: "[\"1번 박찬호 (유격수)\",\"2번 안재석 (3루수)\",\"3번 박준순 (2루수)\",\"4번 양의지 (지명타자)\",\"5번 김민석 (좌익수)\",\"6번 강승호 (1루수)\",\"7번 정수빈 (중견수)\",\"8번 조수행 (우익수)\",\"9번 윤준호 (포수)\"]"
 awayLineup: "[\"1번 서건창 (지명타자)\",\"2번 추재현 (우익수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (좌익수)\",\"5번 김웅빈 (3루수)\",\"6번 김동헌 (포수)\",\"7번 염승원 (2루수)\",\"8번 박주홍 (중견수)\",\"9번 권혁빈 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
