@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.08","home":"오릭스 버팔로스","away":"세이�
 awayRecent: '[{"date":"26.09.08","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260908SEOX0-2026-09-08-orix-buffaloes/"},{"date":"26.09.06","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906SESF0-2026-09-06-fukuoka-s-hawks/"},{"date":"26.09.05","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905SESF0-2026-09-05-fukuoka-s-hawks/"},{"date":"26.09.04","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904SESF0-2026-09-04-fukuoka-s-hawks/"},{"date":"26.09.01","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SEJL0-2026-09-01-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Taito Takashima (6-4, 4.05)|https://p.npb.jp/players_photo/2026/180/b/096_61065159.jpg\"]"
+awayLineup: "[\"선발투수 Sou Satoh (1-1, 3.79)|https://p.npb.jp/players_photo/2026/180/l/075_31035150.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
