@@ -183,6 +183,7 @@ if (isExtraFiltered) {
     "Romania": ["LIGA I"],
     "Tanzania": ["PREMIER LEAGUE"],
     "Wales": ["PREMIER LEAGUE"],
+    "Singapore": ["PREMIER LEAGUE"],
     "Northern-Ireland": ["PREMIERSHIP"],
     "Northern Ireland": ["PREMIERSHIP"],
     // 2026-08 추가: 비인기 리그 전체 차단 요청

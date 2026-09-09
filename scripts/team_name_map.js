@@ -1999,6 +1999,7 @@ const TEAM_NAME_MAP = {
   "Étoile Carouge": "에투알 카루주",
   "Radnicki NIS": "FK 라드니츠키 니슈",
   "Slavia Praha": "슬라비아 프라하",
+  "Slavia Prague": "슬라비아 프라하",
   "Sigma Olomouc": "SK 시그마 올로모우츠",
   "Raith Rovers": "레이스 로버스",
   "Carrick Rangers": "C.레인저스",
