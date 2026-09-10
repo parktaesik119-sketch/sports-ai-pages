@@ -405,13 +405,22 @@ function dedupeInjuryEntries(entries: string[]): string[] {
 const injuryHomeItems = dedupeInjuryEntries(parseInjury(injuryHome));
 const injuryAwayItems = dedupeInjuryEntries(parseInjury(injuryAway));
 
+// 예상 스코어 표시 보정: analyze-router 쪽에서 정수화했더라도, 그 수정 이전에
+// 저장된 과거 글이나 향후 다시 새는 경우를 대비해 렌더링 직전에도 한 번 더
+// 강제로 반올림한다("1.9" → "2"). 숫자로 못 읽는 값(빈 문자열 등)은 그대로 통과.
+function roundScoreDisplay(val: string): string {
+  if (!val) return val;
+  const n = parseFloat(val);
+  return isNaN(n) ? val : String(Math.round(n));
+}
+
 // 추천 픽
 const pickWinTeam       = translateTeamsInText(item.data.pickWinTeam?.trim()       || '');
 const pickWinResult     = item.data.pickWinResult?.trim()      || '';
 const pickHandicapTeam  = translateTeamsInText(item.data.pickHandicapTeam?.trim()   || '');
 const pickHandicapValue = item.data.pickHandicapValue?.trim()  || '';
-const pickExpectedHome  = item.data.pickExpectedHome?.trim()   || '';
-const pickExpectedAway  = item.data.pickExpectedAway?.trim()   || '';
+const pickExpectedHome  = roundScoreDisplay(item.data.pickExpectedHome?.trim()   || '');
+const pickExpectedAway  = roundScoreDisplay(item.data.pickExpectedAway?.trim()   || '');
 // 기존 글 호환: pickOuValue/pickOuDirection 백업으로 유지
 const pickOuDirection   = item.data.pickOuDirection?.trim()    || '';
 const pickOuValue       = item.data.pickOuValue?.trim()        || '';
