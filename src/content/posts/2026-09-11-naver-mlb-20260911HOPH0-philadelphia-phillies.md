@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"필라델피아 필리스","away":"휴�
 awayRecent: '[{"date":"26.09.10","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910HOPH0-2026-09-10-philadelphia-phillies/"},{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"},{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"},{"date":"26.09.04","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904CWHO0-2026-09-04-houston-astros/"}]'
 injuryHome: "Tanner Banks (인대 부상)|Caleb Kilian (인대 부상)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
 injuryAway: "Brice Matthews (염좌)|Steven Okert (인대 부상)|Mike Burrows (염증)|Carlos Correa (수술)|Brandon Walter (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Z. Wheeler (12-5, 3.23) ERA 3.23|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
+awayLineup: "[\"선발투수 C. Javier (2-5, 5.98) ERA 5.98|https://a.espncdn.com/i/headshots/mlb/players/full/41261.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

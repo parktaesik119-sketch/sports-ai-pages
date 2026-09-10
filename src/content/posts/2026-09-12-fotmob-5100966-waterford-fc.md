@@ -16,10 +16,10 @@ homePower: "워터퍼드의 최근 연승 행진으로 상승세 전력이 뚜�
 awayPower: "던돌크는 시즌 평균 득점 1.8점으로 강력한 화력 보유|수비 불안정성으로 인한 실점 기복이 전력 변수임|다수 부상자 발생으로 인한 선수단 전력 누수 심각함|원정 경기 승패 기복 극복과 밸런스 조율이 관건임|공격 효율 대비 뒷문 불안 극복이 과제로 보임"
 h2h: '[{"date":"26.06.27","home":"던돌크","away":"워터퍼드","score":"2-3","link":"https://pick79.com/posts/detail/analyze-1492723-2026-06-27-dundalk/"},{"date":"26.05.05","home":"워터퍼드","away":"던돌크","score":"3-3","link":"https://pick79.com/posts/detail/analyze-1492690-2026-05-05-waterford/"},{"date":"26.03.14","home":"던돌크","away":"워터퍼드","score":"5-0"},{"date":"24.09.14","home":"워터퍼드","away":"던돌크","score":"2-1"},{"date":"24.06.29","home":"던돌크","away":"워터퍼드","score":"0-2"}]'
 summary: "워터퍼드는 최근 공수 양면에서 안정된 밸런스를 바탕으로 완연한 상승 흐름을 타며 경기력을 올려두었습니다. 반면 던돌크는 막강한 득점력을 갖추고 있으나 상대적으로 잦은 실점과 선수단 결장 악재로 인해 경기력 유지에 어려움을 겪고 있습니다. 최근 상대전적에서도 좋은 기억을 가지고 있는 워터퍼드가 홈의 이점과 전력의 안정감을 발휘하여 경기를 유리하게 이끌어갈 가능성이 높습니다."
-homeRecent: '[]'
-awayRecent: '[]'
-injuryHome: "Sam Glenfield (충돌 부상)|Will Johnson (근육 부상)|Finlay Armstrong (근육 부상)"
-injuryAway: "John Ross Wilson (근육 부상)|Tyreke Wilson (충돌 부상)|Harvey Warren (충돌 부상)|Danny Mullen (근육 부상)|Connor O'Keeffe (충돌 부상)|Conor Kearns (무릎 부상)|Norman Garbett (햄스트링 부상)"
+homeRecent: "[{\"date\":\"26.09.05\",\"home\":\"Waterford FC\",\"away\":\"Sligo Rovers\",\"score\":\"3-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.29\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Waterford FC\",\"score\":\"0-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.22\",\"home\":\"Sligo Rovers\",\"away\":\"Waterford FC\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.15\",\"home\":\"Waterford FC\",\"away\":\"Athlone Town\",\"score\":\"2-1\",\"result\":\"🟢승\"},{\"date\":\"26.08.09\",\"home\":\"Waterford FC\",\"away\":\"Bohemian FC\",\"score\":\"3-1\",\"result\":\"🟢승\"}]"
+awayRecent: "[{\"date\":\"26.09.07\",\"home\":\"Derry City\",\"away\":\"Dundalk\",\"score\":\"4-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.29\",\"home\":\"Drogheda United\",\"away\":\"Dundalk\",\"score\":\"2-3\",\"result\":\"🟢승\"},{\"date\":\"26.08.22\",\"home\":\"Dundalk\",\"away\":\"Galway United FC\",\"score\":\"1-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.16\",\"home\":\"Dundalk\",\"away\":\"Castlebar Celtic\",\"score\":\"8-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.08\",\"home\":\"Shamrock Rovers\",\"away\":\"Dundalk\",\"score\":\"3-2\",\"result\":\"🔴패\"}]"
+injuryHome: "Sam Glenfield[주요](충돌 부상 - 복귀예정 About 1-2 weeks) | Will Johnson[주요](근육 부상 - 복귀예정 A few weeks) | Finlay Armstrong[주요](근육 부상 - 복귀예정 Unknown)"
+injuryAway: "John Ross Wilson[주요](근육 부상 - 복귀예정 Unknown) | Tyreke Wilson[주요](충돌 부상 - 복귀예정 Unknown) | Harvey Warren[주요](충돌 부상 - 복귀예정 Late September 2026) | Danny Mullen[주요](근육 부상 - 복귀예정 Back in training) | Connor O'Keeffe[주요](충돌 부상 - 복귀예정 Unknown) | Conor Kearns[주요](무릎 부상 - 복귀예정 Unknown) | Norman Garbett[주요](햄스트링 부상 - 복귀예정 Unknown)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

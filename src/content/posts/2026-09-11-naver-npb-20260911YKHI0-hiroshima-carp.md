@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"한신 타이거스","away":"히로시�
 awayRecent: '[{"date":"26.09.09","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909YAYK0-2026-09-09-yokohama-baystars/"},{"date":"26.09.08","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260908YAYK0-2026-09-08-yokohama-baystars/"},{"date":"26.09.06","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906YKHS0-2026-09-06-hanshin-tigers/"},{"date":"26.09.05","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905YKHS0-2026-09-05-hanshin-tigers/"},{"date":"26.09.02","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902YKYO0-2026-09-02-yomiuri-giants/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Masato Morishita (6-10, 3.83)|https://p.npb.jp/players_photo/2026/180/c/018_53155151.jpg\"]"
+awayLineup: "[\"선발투수 Hiromi Katayama (3-2, 3.60)|https://p.npb.jp/players_photo/2026/180/db/047_61565152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
