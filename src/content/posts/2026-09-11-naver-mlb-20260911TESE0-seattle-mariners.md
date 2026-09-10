@@ -1,0 +1,37 @@
+---
+title: "시애틀 매리너스 vs 텍사스 레인저스 경기분석·라인업·결장자·통계·승부예측 (9월 11일) | MLB - 픽천국"
+date: 2026-09-10T20:10:00.000Z
+description: "시애틀 매리너스 vs 텍사스 레인저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260911TESE0-2026-09-11-seattle-mariners"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시애틀 매리너스"
+awayTeam: "텍사스 레인저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+homeAnalysis: "시애틀 매리너스는 2026시즌 43승 48패, 승률 47.0%, 경기당 평균 3.9득점을 기록하며 공격 생산성에서 꾸준함이 부족했습니다. 현재 리그순위 11위에 머물러 있으나 최근 10경기에서는 4승 6패와 경기당 4.4득점으로 시즌 평균보다 타선의 반등 조짐을 보여주고 있습니다. 직전 텍사스 레인저스전 승리와 애슬레틱스전 연승은 홈에서 접전 관리와 투수진 운영이 살아난 흐름으로 평가됩니다. 다만 시즌 득실이 577득점 652실점으로 크게 밀려 있어 대량 실점으로 경기가 흔들리는 구간을 줄이는 일이 중요합니다. Brendan Donovan과 Brennen Davis, Will Wilson의 장기 이탈에 Emerson Hancock과 Cole Wilcox까지 빠져 있어 야수층과 마운드 운용 모두에 부담이 있습니다."
+awayAnalysis: "텍사스 레인저스는 2026시즌 44승 54패, 승률 44.9%, 경기당 평균 3.9득점을 기록했지만 리그순위는 8위로 시애틀 매리너스보다 앞서 있습니다. 최근 10경기에서는 4승 6패를 기록했으나 경기당 4.4득점으로 시즌 평균을 웃도는 공격력을 보여 고점 대비 주춤한 흐름 속에서도 득점 반등 가능성은 유지하고 있습니다. 시즌 득실은 607득점 647실점으로 적자 폭이 홈팀보다 작아 공수 균형에서 상대적으로 나은 평가를 받을 수 있습니다. 이번 시즌 시애틀 매리너스와의 맞대결에서도 8승 4패로 우세했고, 원정에서도 득점력을 바탕으로 주도권을 가져간 경기가 있었습니다. Kyle Higashioka와 Josh Jung, Carter Baumler, Cole Winn, Nathan Eovaldi의 이탈은 전력 손실이지만 상대전적 우위가 경기 운영의 자신감으로 이어질 수 있습니다."
+homePower: "최근 홈 연승으로 접전 마무리 감각 회복함|시즌 실점 우세 구간이 뚜렷한 부담임|시애틀 매리너스 불펜 운용 폭 축소됨|맞대결 후반 집중력 보완 필요함|타선 반등이 승부 변수로 작용함"
+awayPower: "텍사스 레인저스 상대전적 우위 검증됨|득실 적자 폭이 상대보다 작음|최근 타선은 시즌 기준보다 활발함|원정 득점 전개로 반전 여지 보임|선발과 불펜 이탈 관리 필요함"
+h2h: '[{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.09","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"5-10"},{"date":"26.07.28","home":"텍사스 레인저스","away":"시애틀 매리너스","score":"7-3","link":"https://pick79.com/posts/detail/analyze-179605-2026-07-28-texas-rangers/"},{"date":"26.07.27","home":"텍사스 레인저스","away":"시애틀 매리너스","score":"4-6","link":"https://pick79.com/posts/detail/analyze-179591-2026-07-27-texas-rangers/"},{"date":"26.07.26","home":"텍사스 레인저스","away":"시애틀 매리너스","score":"7-1","link":"https://pick79.com/posts/detail/analyze-179575-2026-07-26-texas-rangers/"}]'
+summary: "텍사스 레인저스는 2026시즌 44승 54패와 경기당 평균 3.9득점을 기록했고, 시애틀 매리너스는 43승 48패와 같은 경기당 평균 3.9득점으로 팽팽한 공격 수치를 보였습니다. 다만 텍사스 레인저스는 리그순위 8위와 상대적으로 작은 득실 적자를 바탕으로 시애틀 매리너스보다 공수 균형에서 한발 앞선 모습입니다. 양 팀 모두 최근 타선의 득점 흐름은 살아나 있지만, 텍사스 레인저스가 시즌 맞대결 우위와 공격 전개의 안정감을 앞세워 근소한 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.07","home":"시애틀 매리너스","away":"애슬레틱스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907OASE0-2026-09-07-seattle-mariners/"},{"date":"26.09.05","home":"시애틀 매리너스","away":"애슬레틱스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905OASE0-2026-09-05-seattle-mariners/"},{"date":"26.09.04","home":"시애틀 매리너스","away":"애슬레틱스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904OASE0-2026-09-04-seattle-mariners/"},{"date":"26.09.03","home":"보스턴 레드삭스","away":"시애틀 매리너스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SEBO0-2026-09-03-boston-red-sox/"}]'
+awayRecent: '[{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"},{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"},{"date":"26.09.04","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TBTE0-2026-09-04-texas-rangers/"},{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬레틱스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903OATE0-2026-09-03-texas-rangers/"}]'
+injuryHome: "Brendan Donovan (뇌진탕)|Brennen Davis (근육 긴장)|Will Wilson (골절)|Emerson Hancock (근육 긴장)|Cole Wilcox (근육 긴장)"
+injuryAway: "Kyle Higashioka (근육 긴장)|Josh Jung (근육 긴장)|Carter Baumler (근육 긴장)|Cole Winn (근육 긴장)|Nathan Eovaldi (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "텍사스 레인저스"
+pickWinResult: "승"
+pickHandicapTeam: "텍사스 레인저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

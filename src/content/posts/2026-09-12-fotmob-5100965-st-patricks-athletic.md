@@ -1,0 +1,37 @@
+---
+title: "세인트 패트릭스 애슬레틱 vs 섐록 로버스 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | D1 - 픽천국"
+date: 2026-09-11T19:00:00.000Z
+description: "세인트 패트릭스 애슬레틱 vs 섐록 로버스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100965-2026-09-12-st-patricks-athletic"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "세인트 패트릭스 애슬레틱"
+awayTeam: "섐록 로버스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1854.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4131.png"
+homeAnalysis: "세인트 패트릭스 애슬레틱은 2026시즌 21경기에서 4승 8무 9패와 경기당 1.0득점을 기록했으며, 시즌 전체 성과는 아쉬웠지만 최근에는 공격 흐름이 살아나는 모습입니다. 최근 5경기에서는 3승 1무 1패를 거두며 이전보다 결과를 만드는 빈도가 높아졌습니다. 특히 섐록 로버스를 상대로 홈에서 3득점을 기록한 경기는 공격 전개의 자신감을 보여준 장면이었습니다. 홈 일정에서는 선제 득점에 성공했을 때 경기 주도권을 유지하는 장면이 비교적 돋보입니다. 다만 시즌 평균 득점이 높지 않은 만큼, 공격의 상승세를 안정적으로 이어 가는 것이 중요해 보입니다."
+awayAnalysis: "섐록 로버스는 2026시즌 27경기에서 13승 5무 9패와 경기당 1.6득점을 기록하며 세인트 패트릭스 애슬레틱보다 높은 시즌 승수와 득점력을 보여주고 있습니다. 다만 최근 5경기에서는 승리를 얻지 못했고, 여러 경기에서 실점이 이어지며 수비 안정감이 떨어진 모습입니다. 원정에서도 득점 기회를 만드는 힘은 갖추고 있으나 최근 경기에서는 경기 초반의 균형이 흔들린 뒤 어려움을 겪는 장면이 있었습니다. Danny Grant, Victor Ozhianvuna, Daniel Mândroiu의 결장은 공격 전개와 중원 연결에 부담으로 작용할 수 있습니다. 시즌 전체 전력은 우위지만 현재 흐름과 핵심 자원 공백을 함께 고려해야 하는 상황입니다."
+homePower: "세인트 패트릭스 애슬레틱 최근 공격 반등세 보임|홈 경기에서 선제골 확보 시 운영력 보임|섐록 로버스전 홈 득점 대응력 확인됨|무승부 비중 높아 경기 집중력 중요함|상대 핵심 공백을 활용할 여지 큼"
+awayPower: "섐록 로버스 다득점 잠재력은 분명함|최근 연속 실점으로 수비 집중력 흔들림|원정에서도 공격 전개는 유지됨|핵심 공격 자원 공백이 부담으로 작용함|세인트 패트릭스 애슬레틱전 우세 경험 있음"
+h2h: '[{"date":"26.08.16","home":"세인트 패트릭스 애슬레틱","away":"섐록 로버스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-fotmob-5960278-2026-08-16-st-patricks-athletic/"},{"date":"26.05.30","home":"섐록 로버스","away":"세인트 패트릭스 애슬레틱","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1492710-2026-05-30-shamrock-rovers/"},{"date":"26.04.11","home":"세인트 패트릭스 애슬레틱","away":"섐록 로버스","score":"0-1"},{"date":"26.02.21","home":"섐록 로버스","away":"세인트 패트릭스 애슬레틱","score":"2-0"},{"date":"25.10.18","home":"세인트 패트릭스 애슬레틱","away":"섐록 로버스","score":"1-0"}]'
+summary: "섐록 로버스는 2026시즌 13승으로 세인트 패트릭스 애슬레틱의 4승보다 높은 시즌 전력을 보였고, 경기당 득점도 1.6점으로 앞서 있습니다. 그러나 최근 섐록 로버스는 승리 없이 실점이 이어진 반면 세인트 패트릭스 애슬레틱은 최근 경기에서 공격 반등과 홈 경쟁력을 보여주었습니다. 맞대결에서도 홈팀이 직전 홈 경기에서 승리한 데다 원정팀의 핵심 자원 공백까지 고려하면, 이번 경기는 세인트 패트릭스 애슬레틱이 근소한 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "Danny Grant (근육 부상)|Victor Ozhianvuna (근육 부상)|Daniel Mândroiu (무릎 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트 패트릭스 애슬레틱"
+pickWinResult: "승"
+pickHandicapTeam: "세인트 패트릭스 애슬레틱"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

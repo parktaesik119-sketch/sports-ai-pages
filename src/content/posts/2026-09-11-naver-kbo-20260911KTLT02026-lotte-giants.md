@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs KT 위즈 경기분석·라인업·결장자·통계·승부예측 (9월 11일) | KBO - 픽천국"
+date: 2026-09-11T09:30:00.000Z
+description: "롯데 자이언츠 vs KT 위즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260911KTLT02026-2026-09-11-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "KT 위즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+homeAnalysis: "롯데 자이언츠는 2026시즌 44승 49패를 기록했고 경기당 5.1득점의 공격력을 보였으며, 최근에는 10경기 2승 8패로 기복이 크게 나타났습니다. 직전 엔씨 다이노스전에서는 6득점으로 승리하며 타선 반등의 가능성을 보여주었습니다. 선발 비슬리는 평균자책점 4.68, 대체선수대비승리기여 2.22, 퀄리티스타트 10회로 배제성보다 긴 이닝을 맡길 수 있는 투수입니다. 시속 149.7킬로미터 직구와 스위퍼를 비슷한 비중으로 활용하고 커터와 포크볼까지 섞어 타자의 타이밍을 흔드는 점이 강점으로 평가됩니다. 예상 타선에서는 레이예스와 고승민, 한동희, 전민재가 중심을 이루며 상위 타선의 대체선수대비승리기여 합계가 탄탄합니다. 홈 경기에서는 최근 케이티 위즈를 상대로 큰 점수 차 승리를 거둔 경험이 있어 공격 전개에 자신감을 가질 수 있습니다."
+awayAnalysis: "KT 위즈는 2026시즌 55승 38패를 기록했고 경기당 5.1득점의 균형 잡힌 공격력을 바탕으로 리그 2위에 올라 있으며, 최근 10경기에서도 6승 4패로 롯데 자이언츠보다 안정적인 흐름입니다. 최근 두 경기에서 상대를 각각 1점과 무득점으로 묶으며 마운드 운용의 회복세가 돋보였습니다. 선발 배제성은 평균자책점 3.72로 비슬리보다 낮지만, 대체선수대비승리기여 0.79와 선발 평균 4.1이닝, 퀄리티스타트 1회는 긴 이닝 소화 측면의 부담으로 남아 있습니다. 시속 144.9킬로미터 직구를 절반 이상 던지고 슬라이더를 주무기로 활용하는 단순하고 공격적인 승부 패턴을 보입니다. 예상 타선은 최원준, 안현민, 힐리어드가 상위 타선에 배치되어 있으며 특히 최원준과 힐리어드의 높은 대체선수대비승리기여가 득점 생산의 핵심입니다. 다만 롯데 자이언츠 원정 맞대결에서는 대량 실점 패배가 있었던 만큼 선발이 초반을 버티는지가 특히 주목할 만합니다."
+homePower: "롯데 자이언츠 비슬리의 긴 이닝 책임감 돋보임|롯데 자이언츠 스위퍼 중심 승부가 위력적임|상위 타선부터 내야 중심 응집력 갖춤|케이티 위즈전 대량득점 경험이 강점임|홈 경기 공격 폭발력 재현 가능성 보임"
+awayPower: "케이티 위즈 리그 상위권 운영력 검증됨|최원준 중심 출루와 주루 압박 강점임|안현민과 힐리어드 장타 연결력 보임|배제성 초반 직구 의존도는 변수임|최근 마운드 반등으로 접전 대응력 갖춤"
+h2h: '[{"date":"26.07.26","home":"롯데 자이언츠","away":"KT 위즈","score":"15-1","link":"https://pick79.com/posts/detail/analyze-181897-2026-07-26-lotte-giants/"},{"date":"26.07.25","home":"롯데 자이언츠","away":"KT 위즈","score":"1-6","link":"https://pick79.com/posts/detail/analyze-181895-2026-07-25-lotte-giants/"},{"date":"26.07.24","home":"롯데 자이언츠","away":"KT 위즈","score":"4-5","link":"https://pick79.com/posts/detail/analyze-181887-2026-07-24-lotte-giants/"},{"date":"26.07.05","home":"KT 위즈","away":"롯데 자이언츠","score":"4-2","link":"https://pick79.com/posts/detail/analyze-181834-2026-07-05-kt-wiz-suwon/"},{"date":"26.07.04","home":"KT 위즈","away":"롯데 자이언츠","score":"1-4","link":"https://pick79.com/posts/detail/analyze-181829-2026-07-04-kt-wiz-suwon/"}]'
+summary: "KT 위즈는 2026시즌 승수와 리그 순위에서 앞서며 최근 흐름도 더 안정적이지만, 롯데 자이언츠는 비슬리의 이닝 소화력과 홈 타선의 중심 타격을 앞세울 수 있습니다. 양 팀 모두 시즌 경기당 5.1득점으로 공격 생산력은 비슷하지만, 롯데 자이언츠는 케이티 위즈와의 최근 홈 맞대결에서 대량득점을 기록한 경험이 특히 주목할 만합니다. 배제성의 짧은 선발 이닝 부담을 롯데 자이언츠 타선이 초반부터 공략한다면 홈팀이 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.08","home":"NC 다이노스","away":"롯데 자이언츠","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908LTNC02026-2026-09-08-nc-dinos/"},{"date":"26.09.06","home":"롯데 자이언츠","away":"한화 이글스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906HHLT02026-2026-09-06-lotte-giants/"},{"date":"26.09.05","home":"롯데 자이언츠","away":"한화 이글스","score":"6-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905HHLT02026-2026-09-05-lotte-giants/"},{"date":"26.09.04","home":"롯데 자이언츠","away":"한화 이글스","score":"4-14","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904HHLT02026-2026-09-04-lotte-giants/"},{"date":"26.09.03","home":"삼성 라이온스","away":"롯데 자이언츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903LTSS02026-2026-09-03-samsung-lions/"}]'
+awayRecent: '[{"date":"26.09.09","home":"삼성 라이온스","away":"KT 위즈","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909KTSS02026-2026-09-09-samsung-lions/"},{"date":"26.09.08","home":"KT 위즈","away":"SSG 랜더스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908SKKT02026-2026-09-08-kt-wiz-suwon/"},{"date":"26.09.06","home":"KIA 타이거즈","away":"KT 위즈","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906KTHT02026-2026-09-06-kia-tigers/"},{"date":"26.09.05","home":"KIA 타이거즈","away":"KT 위즈","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905KTHT02026-2026-09-05-kia-tigers/"},{"date":"26.09.04","home":"KIA 타이거즈","away":"KT 위즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904KTHT02026-2026-09-04-kia-tigers/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "롯데 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "롯데 자이언츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

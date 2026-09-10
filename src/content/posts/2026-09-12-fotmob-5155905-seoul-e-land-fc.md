@@ -1,0 +1,37 @@
+---
+title: "서울 이랜드 FC vs 수원 삼성 블루윙즈 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | K2 - 픽천국"
+date: 2026-09-12T07:30:00.000Z
+description: "서울 이랜드 FC vs 수원 삼성 블루윙즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155905-2026-09-12-seoul-e-land-fc"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "서울 이랜드 FC"
+awayTeam: "수원 삼성 블루윙즈"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/616212.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/88517.png"
+homeAnalysis: "서울 이랜드 FC는 2026시즌 16경기에서 8승 5무 3패, 승률 50퍼센트와 경기당 1.9득점을 기록하며 안정적인 상위 전력을 보여주고 있습니다. 최근 청주 FC 원정에서 2대0 승리를 거두며 무실점 경기력까지 회복한 점이 특히 긍정적입니다. 홈에서는 8경기 중 4승을 거두며 알란과 박재용을 앞세운 공격 전개가 위협적으로 나타났습니다. 오스마르와 백지웅이 중심을 잡는 수비 라인은 홈 경기에서 상대 공격을 제한하는 역할이 기대됩니다. 수원 삼성 블루윙즈와의 맞대결에서도 서울 이랜드 FC가 8경기 중 5승을 챙겼고, 홈 맞대결에서는 득점 주도권을 잡았던 장면이 많았습니다."
+awayAnalysis: "수원 삼성 블루윙즈는 2026시즌 17경기에서 6승 4무 7패, 승률 35.3퍼센트와 경기당 1.4득점을 기록해 서울 이랜드 FC보다 시즌 성과에서는 다소 밀리고 있습니다. 다만 최근 세 경기에서 연속 승리를 거두며 공격과 수비의 균형을 빠르게 끌어올린 흐름은 분명히 주목할 만합니다. 원정에서는 9경기 가운데 4승을 기록했고, 최근 김포 FC와 부산 아이파크 원정에서 각각 4득점을 올린 공격력이 강점으로 평가됩니다. 루이스 미나와 브루노 코스타가 전방에서 마무리를 맡고, 고승범과 정호연이 중원 전개를 지원하는 구성이 핵심입니다. 다만 시즌 전체적으로는 실점 관리 기복이 있었기에 서울 이랜드 FC의 빠른 공격 전환을 얼마나 견뎌내는지가 중요해 보입니다."
+homePower: "서울 이랜드 FC는 홈에서 공격 전환 속도가 돋보임|알란과 박재용의 전방 연계가 핵심임|오스마르 중심 수비 조직력 기대됨|최근 무실점 승리로 안정감 회복함|수원 삼성 블루윙즈전 홈 상성 우위 보임"
+awayPower: "수원 삼성 블루윙즈는 최근 연승으로 자신감 높음|원정에서 다득점 공격력이 확인됨|루이스 미나의 침투가 위협적임|고승범 중심 중원 압박이 강점임|시즌 수비 기복은 부담 요인임"
+h2h: '[{"date":"26.02.28","home":"수원 삼성 블루윙즈","away":"서울 이랜드 FC","score":"2-1"},{"date":"25.09.13","home":"서울 이랜드 FC","away":"수원 삼성 블루윙즈","score":"0-1"},{"date":"25.07.27","home":"수원 삼성 블루윙즈","away":"서울 이랜드 FC","score":"0-2"},{"date":"25.03.19","home":"수원 삼성 블루윙즈","away":"서울 이랜드 FC","score":"2-1"},{"date":"25.03.09","home":"서울 이랜드 FC","away":"수원 삼성 블루윙즈","score":"4-2"}]'
+summary: "서울 이랜드 FC는 2026시즌 승률과 경기당 득점에서 수원 삼성 블루윙즈보다 앞서며, 홈 경기에서도 보다 안정적인 결과를 만들어 왔습니다. 수원 삼성 블루윙즈는 최근 연승과 원정 다득점 능력을 앞세워 쉽게 물러서지 않을 전력이지만, 시즌 전체 수비 기복은 부담으로 남아 있습니다. 알란과 박재용의 공격 연계에 오스마르의 수비 조율까지 더해지는 서울 이랜드 FC가 홈에서 주도권을 잡고 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Seong-Jun Min (GK)|https://images.fotmob.com/image_resources/playerimages/1338861.png","In-Pyo Oh (DF)|https://images.fotmob.com/image_resources/playerimages/925343.png","Ji-Ung Baek (DF)|https://images.fotmob.com/image_resources/playerimages/1652191.png","Osmar (DF)|https://images.fotmob.com/image_resources/playerimages/188531.png","Seo-Joon Bae (DF)|https://images.fotmob.com/image_resources/playerimages/1328492.png","Euller (MF)|https://images.fotmob.com/image_resources/playerimages/477362.png","Chang-Hwan Park (MF)|https://images.fotmob.com/image_resources/playerimages/1232529.png","Seok-Joo Yoon (MF)|https://images.fotmob.com/image_resources/playerimages/1232399.png","Joo-Wan Ahn (MF)|https://images.fotmob.com/image_resources/playerimages/2001755.png","Jae-Yong Bak (FW)|https://images.fotmob.com/image_resources/playerimages/1398946.png","Alan (FW)|https://images.fotmob.com/image_resources/playerimages/862029.png"]'
+awayLineup: '["Min-Jun Kim (GK)|https://images.fotmob.com/image_resources/playerimages/1233077.png","Geon-Hee Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1759631.png","Jong-Hyun Ko (DF)|https://images.fotmob.com/image_resources/playerimages/1816702.png","Jeong-Ho Hong (DF)|https://images.fotmob.com/image_resources/playerimages/245526.png","Min-Woo Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1296498.png","Seong-Jin Kang (MF)|https://images.fotmob.com/image_resources/playerimages/1233006.png","Ho-Yeon Jung (MF)|https://images.fotmob.com/image_resources/playerimages/1384003.png","Seung-Beom Ko (MF)|https://images.fotmob.com/image_resources/playerimages/730758.png","Jun-Guko Choin (MF)|https://images.fotmob.com/image_resources/playerimages/1836923.png","Luis Mina (FW)|https://images.fotmob.com/image_resources/playerimages/1276829.png","Bruno Costa (FW)|https://images.fotmob.com/image_resources/playerimages/934707.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-4-2"
+homeCoach: "Do-Kyun Kim|https://images.fotmob.com/image_resources/playerimages/1136259.png"
+awayCoach: "Jung-Hyo Lee|https://images.fotmob.com/image_resources/playerimages/1437716.png"
+pickWinTeam: "서울 이랜드 FC"
+pickWinResult: "승"
+pickHandicapTeam: "서울 이랜드 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

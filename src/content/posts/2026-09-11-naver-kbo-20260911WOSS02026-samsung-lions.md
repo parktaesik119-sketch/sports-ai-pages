@@ -1,0 +1,37 @@
+---
+title: "삼성 라이온스 vs 키움 히어로즈 경기분석·라인업·결장자·통계·승부예측 (9월 11일) | KBO - 픽천국"
+date: 2026-09-11T09:30:00.000Z
+description: "삼성 라이온스 vs 키움 히어로즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260911WOSS02026-2026-09-11-samsung-lions"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "삼성 라이온스"
+awayTeam: "키움 히어로즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+homeAnalysis: "삼성 라이온스는 2026시즌 58승 38패, 승률 0.604와 경기당 5.8득점을 기록하며 리그 1위를 달리고 있고, 최근 10경기 7승 3패의 흐름으로도 선두다운 전력을 유지하고 있습니다. 직전 경기에서는 영봉패를 당했지만 그 이전 4경기에서 3승을 거두며 타선의 반등력과 경기 운영 능력을 보여주었습니다. 김지찬, 김성윤이 이끄는 상위 타선에 구자욱과 최형우가 중심을 잡는 예상 라인업은 출루와 장타의 연결이 강점으로 평가됩니다. 디아즈와 강민호까지 이어지는 중하위 타선도 상대 배터리에 꾸준한 부담을 줄 수 있습니다. 키움 히어로즈와의 최근 맞대결에서는 대승을 포함해 공격 우위를 여러 차례 확인했고, 홈에서 경기 흐름을 주도할 가능성이 높아 보입니다. 선발투수 정보는 확정되지 않았지만 타선 구성과 시즌 전력의 격차가 삼성 라이온스의 가장 큰 강점입니다."
+awayAnalysis: "키움 히어로즈는 2026시즌 37승 64패, 승률 0.366과 경기당 3.9득점으로 리그 10위에 머물러 있으며, 최근 10경기에서도 3승 7패로 기복이 이어지고 있습니다. 최근 LG 트윈스전과 NC 다이노스전에서 연승을 거두며 반등 계기를 만들었지만, 그 이전에는 대량 실점 경기와 낮은 득점의 패배가 함께 나타났습니다. 서건창, 데이비슨, 히우라가 중심이 되는 예상 라인업은 상위 타선의 출루 이후 장타로 흐름을 바꾸는 장면이 중요합니다. 다만 하위 타선의 전력 차이가 뚜렷해 긴 이닝 동안 공격 압박을 유지하는 데는 어려움이 있을 수 있습니다. 임지열의 부상 이탈도 외야 운용과 타선 깊이에 부담으로 작용할 수 있습니다. 삼성 라이온스를 상대로 최근 크게 밀린 경기가 있었던 만큼, 초반 실점을 최소화하며 접전 구도로 끌고 가는 운영이 필요해 보입니다."
+homePower: "삼성 라이온스 중심 타선의 장타 연결력 돋보임|상위부터 하위까지 공격 단절이 적음|최근 키움 히어로즈전 화력 우위 검증됨|리그 선두답게 위기 뒤 반등력 보임|예상 라인업의 내야 안정감 강점임"
+awayPower: "키움 히어로즈 중심 타선 한 방은 위협적임|최근 연승으로 공격 반등 조짐 보임|하위 타선 생산성 저하가 변수임|대량 실점 경기 반복이 부담으로 남음|임지열 이탈로 외야 선택폭 줄어듦"
+h2h: '[{"date":"26.08.27","home":"키움 히어로즈","away":"삼성 라이온스","score":"2-15","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827SSWO02026-2026-08-27-kiwoom-heroes/"},{"date":"26.08.26","home":"키움 히어로즈","away":"삼성 라이온스","score":"2-12","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826SSWO02026-2026-08-26-kiwoom-heroes/"},{"date":"26.08.25","home":"키움 히어로즈","away":"삼성 라이온스","score":"3-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825SSWO02026-2026-08-25-kiwoom-heroes/"},{"date":"26.07.23","home":"키움 히어로즈","away":"삼성 라이온스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-181883-2026-07-23-kiwoom-heroes/"},{"date":"26.07.22","home":"키움 히어로즈","away":"삼성 라이온스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-181881-2026-07-22-kiwoom-heroes/"}]'
+summary: "삼성 라이온스는 2026시즌 승률 0.604와 경기당 5.8득점으로 키움 히어로즈의 승률 0.366, 경기당 3.9득점보다 뚜렷한 시즌 우위를 보여주고 있습니다. 최근 흐름에서도 삼성 라이온스는 7승 3패로 안정적인 반면 키움 히어로즈는 3승 7패에 그쳐 공격과 수비의 지속성에서 차이가 나타납니다. 특히 삼성 라이온스는 구자욱과 최형우를 중심으로 한 예상 타선의 무게감이 강점이며, 키움 히어로즈는 중심 타선의 초반 득점 지원이 절실합니다. 최근 맞대결에서는 삼성 라이온스가 공격적으로 크게 앞선 경기가 많았던 만큼, 이번에도 삼성 라이온스가 경기 주도권과 승리 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.09","home":"삼성 라이온스","away":"KT 위즈","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909KTSS02026-2026-09-09-samsung-lions/"},{"date":"26.09.08","home":"삼성 라이온스","away":"KIA 타이거즈","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908HTSS02026-2026-09-08-samsung-lions/"},{"date":"26.09.06","home":"LG 트윈스","away":"삼성 라이온스","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906SSLG02026-2026-09-06-lg-twins/"},{"date":"26.09.05","home":"LG 트윈스","away":"삼성 라이온스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905SSLG02026-2026-09-05-lg-twins/"},{"date":"26.09.04","home":"LG 트윈스","away":"삼성 라이온스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904SSLG02026-2026-09-04-lg-twins/"}]'
+awayRecent: '[{"date":"26.09.08","home":"LG 트윈스","away":"키움 히어로즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908WOLG02026-2026-09-08-lg-twins/"},{"date":"26.09.06","home":"키움 히어로즈","away":"NC 다이노스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906NCWO02026-2026-09-06-kiwoom-heroes/"},{"date":"26.09.05","home":"키움 히어로즈","away":"NC 다이노스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905NCWO02026-2026-09-05-kiwoom-heroes/"},{"date":"26.09.04","home":"키움 히어로즈","away":"NC 다이노스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904NCWO02026-2026-09-04-kiwoom-heroes/"},{"date":"26.09.03","home":"키움 히어로즈","away":"SSG 랜더스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903SKWO02026-2026-09-03-kiwoom-heroes/"}]'
+injuryHome: "없음"
+injuryAway: "임지열 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성 라이온스"
+pickWinResult: "승"
+pickHandicapTeam: "삼성 라이온스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

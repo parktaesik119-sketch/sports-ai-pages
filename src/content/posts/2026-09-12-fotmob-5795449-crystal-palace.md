@@ -1,0 +1,37 @@
+---
+title: "크리스탈 팰리스 vs 입스위치 타운 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | 프리미어리그 - 픽천국"
+date: 2026-09-12T14:00:00.000Z
+description: "크리스탈 팰리스 vs 입스위치 타운 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5795449-2026-09-12-crystal-palace"
+category: "soccer"
+country: "잉글랜드"
+league: "프리미어리그"
+homeTeam: "크리스탈 팰리스"
+awayTeam: "입스위치 타운"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9902.png"
+homeAnalysis: "크리스탈 팰리스는 2026시즌 전체 18경기에서 8승 4무 6패, 승률 44.4%, 경기당 평균 1.6득점을 기록했습니다. 최근에는 미들즈브러전 3-0 승리와 풀럼전 3-2 승리로 공격 전력이 살아나는 흐름입니다. 다만 맨체스터 시티전과 에버턴전에서 연속 실점하며 강한 상대를 만났을 때 수비 집중력이 흔들리는 모습도 보였습니다. 홈 경기에서는 스윈던 타운전 5-1, 알 울라전 3-1처럼 주도권을 잡았을 때 득점 생산력이 크게 올라갑니다. Jørgen Strand Larsen이 최전방에서 마무리를 맡고 Daichi Kamada와 Yéremi Pino가 2선에서 지원하는 구조가 핵심입니다. Chadi Riad, Ismaïla Sarr, Jean-Philippe Mateta의 결장은 공격과 수비의 안정성에 부담이지만, Quinten Timber와 Adam Wharton을 중심으로 중원 장악력을 유지할 가능성이 높습니다."
+awayAnalysis: "입스위치 타운은 2026시즌 전체 23경기에서 8승 5무 10패, 승률 34.8%, 경기당 평균 1.6득점을 기록했습니다. 최근 리버풀전 0-2 승리와 유니온 베를린전 4-2 승리로 원정에서 역습 효율을 보여주었지만, 맨체스터 유나이티드전 2-5 패배처럼 수비가 무너질 때 실점 폭이 커지는 편입니다. 레스터전과 선덜랜드전에서는 득점에 성공했지만 연속 패배를 허용해 경기 운영의 기복이 드러났습니다. Daizen Maeda와 Abdul Fatawu의 빠른 전개, Julio Enciso의 2선 움직임이 공격의 주요 활로가 될 수 있습니다. Saša Lukić와 Exequiel Palacios가 중원에서 압박을 견뎌야 하며, 수비진은 크리스탈 팰리스의 측면 전개를 제어하는 과제가 있습니다. Azor Matusiwa, Jack Taylor, Jaden Philogene-Bidace의 결장으로 중원과 측면 운용의 선택지가 줄어든 점은 원정팀에 불리한 요소입니다."
+homePower: "최근 연승으로 공격 전환 속도 회복세|Jørgen Strand Larsen 중심의 제공권 활용 가능|Kamada-Pino 2선 조합의 창의성 기대됨|중원 압박이 성공하면 홈 주도권 강화됨|주요 공격수 결장으로 마무리 집중도 변수임"
+awayPower: "강팀 상대 원정에서도 역습 효율 검증됨|Daizen Maeda의 속도가 공간 공략에 유리함|Enciso 중심 2선 침투가 핵심 공격 루트임|대량 실점 경기 반복으로 수비 안정감 부족함|중원 결장 여파로 압박 지속성이 약화될 수 있음"
+h2h: '[{"date":"25.03.09","home":"크리스탈 팰리스","away":"입스위치 타운","score":"1-0"},{"date":"24.12.04","home":"입스위치 타운","away":"크리스탈 팰리스","score":"0-1"},{"date":"22.07.16","home":"크리스탈 팰리스","away":"입스위치 타운","score":"4-2"},{"date":"21.07.24","home":"입스위치 타운","away":"크리스탈 팰리스","score":"0-1"},{"date":"17.08.23","home":"크리스탈 팰리스","away":"입스위치 타운","score":"2-1"}]'
+summary: "2026시즌 전체 성적에서는 크리스탈 팰리스가 입스위치 타운보다 승률과 경기 안정성에서 앞서며 전반적인 전력 우위를 보입니다. 양 팀의 경기당 평균 득점은 1.6점으로 같지만, 크리스탈 팰리스는 최근 연승 과정에서 공격 전개와 마무리 효율이 개선된 반면 입스위치 타운은 수비가 흔들릴 때 실점 폭이 커지는 약점이 나타났습니다. 특히 최근 맞대결에서는 크리스탈 팰리스가 연속으로 승리하며 상성에서도 뚜렷한 우위를 보여주었습니다. 주요 공격 자원의 결장 부담은 크리스탈 팰리스에도 있지만, 홈에서 중원과 2선의 조합을 활용할 수 있어 경기 주도권을 가져갈 가능성이 높습니다. 종합적으로는 크리스탈 팰리스가 수비 안정성과 상대전적 우위를 바탕으로 승리에 가까운 팀으로 평가됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Honest Ahanor (허벅지 부상)|Chadi Riad (무릎 부상)|Ismaïla Sarr (사타구니 부상)|Jean-Philippe Mateta (햄스트링 부상)"
+injuryAway: "Azor Matusiwa (근육 부상)|Jack Taylor (무릎 부상)|Jaden Philogene-Bidace (발목 부상)"
+homeLineup: '["Dean Henderson (GK)|https://images.fotmob.com/image_resources/playerimages/719330.png","Chris Richards (DF)|https://images.fotmob.com/image_resources/playerimages/950829.png","Axel Disasi (DF)|https://images.fotmob.com/image_resources/playerimages/696646.png","Jaydee Canvot (DF)|https://images.fotmob.com/image_resources/playerimages/1664722.png","Anan Khalaili (MF)|https://images.fotmob.com/image_resources/playerimages/1477878.png","Quinten Timber (MF)|https://images.fotmob.com/image_resources/playerimages/970563.png","Adam Wharton (MF)|https://images.fotmob.com/image_resources/playerimages/1296650.png","Tyrick Mitchell (MF)|https://images.fotmob.com/image_resources/playerimages/1120224.png","Daichi Kamada (MF)|https://images.fotmob.com/image_resources/playerimages/621515.png","Yéremi Pino (MF)|https://images.fotmob.com/image_resources/playerimages/1047676.png","Jørgen Strand Larsen (FW)|https://images.fotmob.com/image_resources/playerimages/821100.png"]'
+awayLineup: '["Kjell Scherpen (GK)|https://images.fotmob.com/image_resources/playerimages/796398.png","Dara O’Shea (DF)|https://images.fotmob.com/image_resources/playerimages/789578.png","Issa Diop (DF)|https://images.fotmob.com/image_resources/playerimages/696443.png","Jacob Greaves (DF)|https://images.fotmob.com/image_resources/playerimages/1079103.png","Leif Davis (DF)|https://images.fotmob.com/image_resources/playerimages/980381.png","Saša Lukić (MF)|https://images.fotmob.com/image_resources/playerimages/556972.png","Exequiel Palacios (MF)|https://images.fotmob.com/image_resources/playerimages/693599.png","Abdul Fatawu (FW)|https://images.fotmob.com/image_resources/playerimages/1265626.png","Julio Enciso (MF)|https://images.fotmob.com/image_resources/playerimages/1073742.png","Daizen Maeda (FW)|https://images.fotmob.com/image_resources/playerimages/728765.png","Emersonn (FW)|https://images.fotmob.com/image_resources/playerimages/1320949.png"]'
+homeFormation: "3-4-2-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Pierre Sage|https://images.fotmob.com/image_resources/playerimages/1586853.png"
+awayCoach: "Gary O'Neil|https://images.fotmob.com/image_resources/playerimages/24393.png"
+pickWinTeam: "크리스탈 팰리스"
+pickWinResult: "승"
+pickHandicapTeam: "크리스탈 팰리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

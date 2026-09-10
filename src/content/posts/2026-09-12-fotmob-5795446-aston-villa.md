@@ -1,0 +1,37 @@
+---
+title: "아스톤 빌라 vs 노팅엄 포레스트 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | 프리미어리그 - 픽천국"
+date: 2026-09-12T14:00:00.000Z
+description: "아스톤 빌라 vs 노팅엄 포레스트 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5795446-2026-09-12-aston-villa"
+category: "soccer"
+country: "잉글랜드"
+league: "프리미어리그"
+homeTeam: "아스톤 빌라"
+awayTeam: "노팅엄 포레스트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png"
+homeAnalysis: "아스톤 빌라는 2026시즌 전체 20경기에서 7승 4무 9패, 승률 35%, 평균 득점 1.6골을 기록하며 기복이 있는 시즌 성적을 보였습니다. 최근에는 클럽 브뤼헤를 상대로 3-2 승리를 거두며 공격 반등의 계기를 마련했습니다. 다만 아스널전과 브라이턴전에서는 연속으로 득점에 실패해 마무리 효율과 경기 집중력이 주요 변수로 보입니다. 홈에서는 존 맥긴과 에밀리아노 부엔디아가 공격 전개를 이끌고 니콜라스 잭슨이 최전방에서 결정력을 더할 수 있습니다. 부바카르 카마라와 로스 바클리가 중원에서 균형을 잡아준다면 점유율과 전환 속도 모두 안정될 가능성이 높습니다. 아마두 오나나와 주앙 고메스 등 중원 자원의 결장은 부담이지만 최근 노팅엄 포레스트와의 홈 맞대결에서 4-0으로 승리한 경험은 자신감으로 작용할 수 있습니다."
+awayAnalysis: "노팅엄 포레스트는 2026시즌 전체 21경기에서 9승 6무 6패, 승률 약 42.9%, 평균 득점 1.4골을 기록하며 아스톤 빌라보다 안정적인 시즌 흐름을 보여주고 있습니다. 최근에는 토트넘과 리버풀을 상대로 연속 무승부를 기록하며 쉽게 무너지지 않는 경기 운영을 이어갔습니다. 리즈전에서는 득점력이 제한되는 모습이 있었지만 수비 조직력과 압박 대응은 비교적 견고했습니다. 모건 깁스화이트가 2선에서 공격의 방향을 잡고 리암 델랍이 전방에서 활동량과 침투를 담당할 전망입니다. 제임스 맥아티와 자베르 슐라거가 중원에서 압박 강도를 높이면 아스톤 빌라의 전개를 끊어낼 여지가 있습니다. 다만 최근 아스톤 빌라 원정에서 0-4로 패한 결과와 니콜로 사보나의 결장은 수비 안정성 측면에서 부담으로 남아 있습니다."
+homePower: "홈에서 측면 전개와 역습 완성도 높음|맥긴-부엔디아 조합의 2선 창의성 돋보임|잭슨의 침투가 상대 수비 뒷공간 공략에 적합함|중원 결장으로 압박 지속력 저하 가능성 있음|최근 홈 맞대결 대승으로 상성 자신감 확인됨"
+awayPower: "깁스화이트 중심의 전환 속도 위협적임|델랍의 활동량이 수비 라인 흔들 변수임|최근 강팀 상대 연속 무승부로 저항력 검증됨|득점이 막히면 공격 선택지가 빠르게 줄어듦|사보나 결장으로 후방 커버 범위 축소 가능성 있음"
+h2h: '[{"date":"26.05.08","home":"아스톤 빌라","away":"노팅엄 포레스트","score":"4-0","link":"https://pick79.com/posts/detail/analyze-1540873-2026-05-08-aston-villa/"},{"date":"26.05.01","home":"노팅엄 포레스트","away":"아스톤 빌라","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1540872-2026-05-01-nottingham-forest/"},{"date":"26.04.12","home":"노팅엄 포레스트","away":"아스톤 빌라","score":"1-1"},{"date":"26.01.03","home":"아스톤 빌라","away":"노팅엄 포레스트","score":"3-1"},{"date":"25.04.06","home":"아스톤 빌라","away":"노팅엄 포레스트","score":"2-1"}]'
+summary: "2026시즌 전체 성적만 보면 노팅엄 포레스트가 더 높은 승률과 안정적인 승점 흐름을 보이고 있지만, 아스톤 빌라도 평균 득점에서 앞서며 공격 잠재력은 충분합니다. 아스톤 빌라는 최근 승리로 득점 감각을 회복했고, 존 맥긴과 에밀리아노 부엔디아를 중심으로 홈에서 공격 전개를 강화할 가능성이 높습니다. 노팅엄 포레스트는 모건 깁스화이트를 앞세운 전환과 수비 저항력이 강점이지만, 아스톤 빌라 원정에서의 최근 대패와 수비진 결장 변수가 부담입니다. 홈 이점과 맞대결 상성을 고려하면 아스톤 빌라가 근소하게 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Amadou Onana (십자 인대 부상, 2027년 4월 중순 복귀 예정)|João Gomes (부상, 2026년 9월 중순 복귀 예정)|Johan Manzambi (무릎 부상, 2026년 9월 중순 복귀 예정)|Leon Goretzka (무릎 부상, 2026년 10월 초 복귀 예정)|Brian Madjo (충돌 부상, 2026년 10월 중순 복귀 예정)"
+injuryAway: "Nicolò Savona (무릎 부상, 2026년 9월 중순 복귀 예정)|Ibrahim Sangaré (종아리 부상, 출전 불투명)"
+homeLineup: '["Zion Suzuki (GK)|https://images.fotmob.com/image_resources/playerimages/1053679.png","Matty Cash (DF)|https://images.fotmob.com/image_resources/playerimages/729731.png","Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png","Tyrone Mings (DF)|https://images.fotmob.com/image_resources/playerimages/419664.png","Ian Maatsen (DF)|https://images.fotmob.com/image_resources/playerimages/966026.png","Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png","Ross Barkley (MF)|https://images.fotmob.com/image_resources/playerimages/215384.png","John McGinn (FW)|https://images.fotmob.com/image_resources/playerimages/356406.png","Emiliano Buendía (FW)|https://images.fotmob.com/image_resources/playerimages/610184.png","George Hemmings (MF)|https://images.fotmob.com/image_resources/playerimages/1607333.png","Nicolas Jackson (FW)|https://images.fotmob.com/image_resources/playerimages/1197347.png"]'
+awayLineup: '["Matz Sels (GK)|https://images.fotmob.com/image_resources/playerimages/181069.png","Jair Cunha (DF)|https://images.fotmob.com/image_resources/playerimages/1391209.png","Nikola Milenković (DF)|https://images.fotmob.com/image_resources/playerimages/766611.png","Ousmane Diomande (DF)|https://images.fotmob.com/image_resources/playerimages/1425182.png","Ola Aina (DF)|https://images.fotmob.com/image_resources/playerimages/682548.png","Xaver Schlager (MF)|https://images.fotmob.com/image_resources/playerimages/620027.png","James McAtee (MF)|https://images.fotmob.com/image_resources/playerimages/1107648.png","Neco Williams (DF)|https://images.fotmob.com/image_resources/playerimages/1078788.png","Dan Ndoye (FW)|https://images.fotmob.com/image_resources/playerimages/1022649.png","Morgan Gibbs-White (MF)|https://images.fotmob.com/image_resources/playerimages/789502.png","Liam Delap (FW)|https://images.fotmob.com/image_resources/playerimages/1113903.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "3-4-2-1"
+homeCoach: "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png"
+awayCoach: "Oliver Glasner|https://images.fotmob.com/image_resources/playerimages/43009.png"
+pickWinTeam: "아스톤 빌라"
+pickWinResult: "승"
+pickHandicapTeam: "아스톤 빌라"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1.4"
+pickOuValue: ""
+pickOuDirection: ""
+---

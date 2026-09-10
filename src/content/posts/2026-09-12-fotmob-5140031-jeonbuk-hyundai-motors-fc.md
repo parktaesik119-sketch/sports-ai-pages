@@ -1,0 +1,37 @@
+---
+title: "전북 현대 vs FC 서울 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | K-League 1 - 픽천국"
+date: 2026-09-12T07:30:00.000Z
+description: "전북 현대 vs FC 서울 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140031-2026-09-12-jeonbuk-hyundai-motors-fc"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "전북 현대"
+awayTeam: "FC 서울"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/46038.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/92630.png"
+homeAnalysis: "전북 현대는 2026시즌 전체 22경기에서 6승 9무 7패, 승률 27.3%를 기록하며 승리보다 무승부 비중이 높은 시즌을 보내고 있습니다. 최근에는 포항 스틸러스와 울산 현대를 상대로 연승을 거둔 뒤 강원 FC와 비기며 수비 안정감을 회복하는 흐름입니다. 다만 제주 SK전과 부천 FC 1995전에서는 실점 이후 경기 운영이 흔들리는 모습도 나타났습니다. 홈에서는 중원 압박과 빠른 전환이 강점이며, 이승우와 이동준이 공격 전개의 속도를 높일 수 있습니다. 예상 선발의 티아고 오로보는 최전방에서 제공권과 마무리 역할을 맡을 핵심 자원입니다. 최근 FC 서울과의 맞대결에서 무실점 경기를 만들었던 만큼, 초반 수비 집중력이 승부의 중요한 기준이 될 것으로 보입니다."
+awayAnalysis: "FC 서울은 2026시즌 전체 17경기에서 9승 5무 3패, 승률 52.9%를 기록하며 전북 현대보다 안정적인 시즌 성적을 보여주고 있습니다. 최근 울산 HD FC전 패배 전까지 인천 유나이티드, 광주 FC, 부천 FC 1995, FC 안양을 상대로 연속해서 좋은 결과를 만들며 공격 전력이 돋보였습니다. 특히 광주 FC전 5득점과 FC 안양전 7득점은 상대 수비를 무너뜨리는 전개력이 강하다는 점을 보여줍니다. 원정에서는 수비적으로 내려서기보다 빠른 전환으로 공간을 공략하는 방식이 효과적입니다. 문선민과 앤더슨 올리베이라가 측면과 전방에서 활기를 더하고, 파트리크 클리말라가 최전방 마무리를 맡을 수 있습니다. 전북 현대와의 최근 맞대결에서는 팽팽한 경기가 많았지만, 전체 시즌의 득점 흐름과 승률에서는 FC 서울이 우세해 보입니다."
+homePower: "최근 연승으로 반등 계기 마련됨|무실점 운영 시 경기 안정성 높음|이승우 중심 전환 속도가 위협적임|티아고 오로보의 최전방 존재감 기대됨|FC 서울 상대로 수비 상성은 나쁘지 않음"
+awayPower: "다득점 경기로 공격 폭발력 검증됨|문선민의 측면 침투가 변수로 작용함|파트리크 클리말라의 마무리 집중력 기대됨|원정에서도 전환 속도가 강점으로 보임|시즌 승률에서 상대보다 확실한 우위임"
+h2h: '[{"date":"26.08.01","home":"전북 현대","away":"FC 서울","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1507017-2026-08-01-jeonbuk-motors/"},{"date":"26.04.11","home":"FC 서울","away":"전북 현대","score":"1-0"},{"date":"25.11.30","home":"전북 현대","away":"FC 서울","score":"2-1"},{"date":"25.09.27","home":"FC 서울","away":"전북 현대","score":"1-1"},{"date":"25.07.02","home":"FC 서울","away":"전북 현대","score":"0-1"}]'
+summary: "시즌 전체 성적에서는 FC 서울이 9승 5무 3패로 전북 현대의 6승 9무 7패보다 앞서며 전반적인 전력 우위를 보여주고 있습니다. 전북 현대는 최근 연승과 무실점 경기를 통해 수비적인 안정감을 되찾았지만, 시즌 내내 승리로 연결하는 힘에서는 기복이 있었습니다. FC 서울은 최근 다득점 경기를 연이어 만들며 공격 전개와 마무리에서 더 높은 기대감을 주고 있습니다. 맞대결에서는 무승부와 한 골 차 승부가 많아 접전 가능성이 높지만, 현재의 공격 흐름과 시즌 성적을 종합하면 FC 서울이 원정에서도 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Bum-Keun Song (GK)|https://images.fotmob.com/image_resources/playerimages/848068.png","Tae-Hyun Kim (DF)|https://images.fotmob.com/image_resources/playerimages/947492.png","Wi-Je Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1326507.png","Young-Bin Kim (DF)|https://images.fotmob.com/image_resources/playerimages/623910.png","Ha-Jun Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1575997.png","João Gamboa (MF)|https://images.fotmob.com/image_resources/playerimages/632709.png","Yeong-Jae Lee (MF)|https://images.fotmob.com/image_resources/playerimages/622993.png","Dong-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/828272.png","Seung-Woo Lee (FW)|https://images.fotmob.com/image_resources/playerimages/848098.png","Italo (FW)|https://images.fotmob.com/image_resources/playerimages/1669646.png","Tiago Orobó (FW)|https://images.fotmob.com/image_resources/playerimages/1173651.png"]'
+awayLineup: '["Sung-Yun Gu (GK)|https://images.fotmob.com/image_resources/playerimages/430823.png","Jun Choi (DF)|https://images.fotmob.com/image_resources/playerimages/1054179.png","Yazan Abu Al-Arab (DF)|https://images.fotmob.com/image_resources/playerimages/852168.png","Juan Antonio (DF)|https://images.fotmob.com/image_resources/playerimages/736516.png","Jin-Su Kim (DF)|https://images.fotmob.com/image_resources/playerimages/309496.png","Seung-Won Jung (MF)|https://images.fotmob.com/image_resources/playerimages/734965.png","Jeong-Beom Son (MF)|https://images.fotmob.com/image_resources/playerimages/1902396.png","Hrvoje Babec (MF)|https://images.fotmob.com/image_resources/playerimages/1180668.png","Anderson Oliveira (FW)|https://images.fotmob.com/image_resources/playerimages/1047931.png","Seon-Min Moon (MF)|https://images.fotmob.com/image_resources/playerimages/438899.png","Patryk Klimala (FW)|https://images.fotmob.com/image_resources/playerimages/796751.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "Jeong-Yong Jung|https://images.fotmob.com/image_resources/playerimages/1136248.png"
+awayCoach: "Gi-Dong Kim|https://images.fotmob.com/image_resources/playerimages/117181.png"
+pickWinTeam: "FC 서울"
+pickWinResult: "승"
+pickHandicapTeam: "FC 서울"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

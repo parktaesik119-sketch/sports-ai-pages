@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 브레이브스 vs 탬파베이 레이스 경기분석·라인업·결장자·통계·승부예측 (9월 11일) | MLB - 픽천국"
+date: 2026-09-10T16:15:00.000Z
+description: "애틀랜타 브레이브스 vs 탬파베이 레이스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260911TBAT0-2026-09-11-atlanta-braves"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애틀랜타 브레이브스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "애틀랜타 브레이브스는 2026시즌 59승 47패와 경기당 4.2득점을 기록하며 리그순위 3위에 올라 있고, 최근 10경기에서도 5승 5패로 기복 속 반등을 노리고 있습니다. 최근 탬파베이 레이스전과 필라델피아 필리스전 연패에서는 득점이 1점에 그쳐 타선의 연결성이 아쉬웠습니다. 다만 워싱턴 내셔널스전 9득점, 필라델피아 필리스전 5득점 승리처럼 타선이 초반 주도권을 잡을 때에는 높은 득점 생산력을 보여주었습니다. 홈에서는 로스앤젤레스 다저스와 워싱턴 내셔널스를 상대로 연승 흐름을 만든 경험이 있어 경기 운영의 저력은 충분합니다. 득실이 113점 흑자로 크다는 점은 공수 균형의 강점이지만, 주요 투수 자원의 장기 이탈과 최근 득점 침체는 이번 경기의 부담으로 보입니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 62승 42패와 경기당 4.3득점을 기록하며 리그순위 1위를 지키고 있고, 최근 10경기 6승 4패의 흐름으로 선두 경쟁력을 이어가고 있습니다. 최근 경기 평균 득점이 5.2점으로 높아지며 타선의 폭발력이 시즌 흐름보다 더욱 선명하게 나타나고 있습니다. 직전 애틀랜타 브레이브스전에서는 7득점과 1실점으로 완승을 거두며 상대 투수진을 효과적으로 공략했습니다. 원정에서도 디트로이트 타이거스와 시애틀 매리너스를 상대로 안정적인 승리를 만들었고, 타선이 살아나는 경기에서는 중후반까지 압박을 유지했습니다. 다만 주요 불펜과 내야 자원의 결장은 수비 범위와 경기 후반 운용에 변수지만, 시즌 득실 흑자와 최근 공격력은 여전히 강점으로 평가됩니다."
+homePower: "애틀랜타 브레이브스 득실 흑자 폭이 커 공수 기반 탄탄함|홈 연승 경험으로 초반 주도권 경쟁력 보임|저득점 패배 때 타선 연결성 저하가 변수임|주요 투수진 장기 이탈로 불펜 부담 커짐|강한 상대와의 접전 경험이 풍부함"
+awayPower: "탬파베이 레이스 선두권 운영 안정감이 검증됨|최근 타선 상승세로 초반 압박 강해짐|직전 맞대결에서 투타 우위 확인됨|원정에서도 다득점 전개를 만들 수 있음|불펜 결장에도 공격적 대응력 유지함"
+h2h: '[{"date":"26.09.09","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"1-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909TBAT0-2026-09-09-atlanta-braves/"}]'
+summary: "탬파베이 레이스는 리그순위 1위와 86승 58패의 시즌 성적에서 애틀랜타 브레이브스의 리그순위 3위, 85승 60패보다 근소하게 앞서 있으며 최근 공격 전개도 더 날카롭게 보입니다. 애틀랜타 브레이브스는 666득점과 553실점으로 큰 득실 흑자를 만들었지만, 최근에는 득점 생산이 흔들린 경기가 이어져 타선의 반등이 필요합니다. 반면 탬파베이 레이스는 654득점과 601실점의 안정적인 균형을 바탕으로 직전 맞대결에서 뚜렷한 공수 우위를 보여주었습니다. 애틀랜타 브레이브스의 홈 저력은 경계할 요소이나, 현재 흐름과 맞대결 상성을 고려하면 탬파베이 레이스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.09","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909TBAT0-2026-09-09-atlanta-braves/"},{"date":"26.09.08","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ATPH0-2026-09-08-philadelphia-phillies/"},{"date":"26.09.07","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ATPH0-2026-09-07-philadelphia-phillies/"},{"date":"26.09.06","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ATPH0-2026-09-06-philadelphia-phillies/"},{"date":"26.09.05","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905ATPH0-2026-09-05-philadelphia-phillies/"}]'
+awayRecent: '[{"date":"26.09.09","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909TBAT0-2026-09-09-atlanta-braves/"},{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"},{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"},{"date":"26.09.04","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TBTE0-2026-09-04-texas-rangers/"},{"date":"26.09.03","home":"탬파베이 레이스","away":"뉴욕 메츠","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903NMTB0-2026-09-03-tampa-bay-rays/"}]'
+injuryHome: "Robert Suarez (통증)|Bryce Elder (수술)|Joe Jimenez (수술)|Spencer Strider (염증)|Jurickson Profar (사유 미기재 출전 정지)"
+injuryAway: "Jake Fraley (수술)|Edwin Uceta (근육 긴장)|Ben Williamson (근육 긴장)|Jonathan Heasley (골절)|Taylor Walls (근육 긴장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
