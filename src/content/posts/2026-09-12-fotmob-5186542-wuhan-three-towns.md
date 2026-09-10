@@ -1,0 +1,37 @@
+---
+title: "우한 쓰리 타운즈 vs 허난 FC 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | Super League - 픽천국"
+date: 2026-09-12T11:35:00.000Z
+description: "우한 쓰리 타운즈 vs 허난 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186542-2026-09-12-wuhan-three-towns"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "우한 쓰리 타운즈"
+awayTeam: "허난 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1029687.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/51442.png"
+homeAnalysis: "우한 쓰리 타운즈는 2026시즌 19경기에서 3승 12무 4패를 기록하며 경기당 평균 득점 1.5골을 기록하는 등 끈질긴 경기 운용을 보여주고 있습니다. 시즌 전반에 걸쳐 패배를 쉽게 허용하지 않는 단단함을 갖추었으나 한 끗 차이로 승리를 놓치는 아쉬운 무승부 양상이 자주 연출되었습니다. 등줘샹 감독 체제 아래 전방에서는 구스타보 사우에르와 욘데르 카디스가 호흡을 맞추며 꾸준히 위협적인 장면을 만들어내고 있습니다. 측면 공격을 이끄는 앙투안 레오티의 날카로운 침투와 중원 조율 역시 팀의 주요 공격 패턴으로 자리를 잡았습니다. 안방 경기에서는 후방의 안리, 관허 등을 중심으로 한 수비 라인이 집중력을 유지하며 상대의 공세를 안정적으로 끊어내는 흐름이 인상적입니다."
+awayAnalysis: "허난 FC는 2026시즌 20경기에서 7승 8무 5패를 거두며 경기당 평균 득점 1.3골로 실리적인 경기를 펼쳐가고 있습니다. 최근 들어 득점력과 수비력이 팽팽히 맞서며 승점을 꾸준히 쌓아 올리는 견고한 조직력이 돋보입니다. 다니엘 라모스 감독의 지휘 아래 브루노 나자리오가 공격 조율의 핵심 역할을 맡아 경기를 안정적으로 풀어내고 있습니다. 전방의 페드로 마라냥과 구스타보는 우수한 결정력과 활동량으로 상대 수비진의 빈틈을 집요하게 공략합니다. 후방에서는 이아고 마이다나와 루카스 마이아가 버티는 백라인이 원정길에서도 높은 몰입도를 유지하며 짜임새 있는 방어를 펼치고 있습니다."
+homePower: "19경기 중 12무승부로 무패 복귀전 몰입도 우수함|구스타보 사우에르와 욘데르 카디스의 공격 파괴력 돋보임|측면 앙투안 레오티 활용한 빠른 공수 전환 패턴 안정적임|안리 중심의 백라인이 홈 경기에서 높은 수비 집중력 유지함|맞대결 역사상 우한 쓰리 타운즈의 홈 득점 생산성 검증됨"
+awayPower: "허난 FC의 브루노 나자리오 중심 경기 조율 능력 탁월함|페드로 마라냥과 구스타보 원투펀치의 속도감 있는 공세 돋보임|이아고 마이다나 수비 리더십으로 원정 실점 최소화 유지함|최근 4경기 연속 무승부 기록할 만큼 경기 밸런스 견고함|상대 맞대결 원정 경기에서도 득점포를 가동하는 결정력 돋보임"
+h2h: '[{"date":"26.03.21","home":"허난 FC","away":"우한 쓰리 타운즈","score":"1-1"},{"date":"25.09.19","home":"우한 쓰리 타운즈","away":"허난 FC","score":"2-5"},{"date":"25.05.01","home":"허난 FC","away":"우한 쓰리 타운즈","score":"1-2"},{"date":"24.09.29","home":"우한 쓰리 타운즈","away":"허난 FC","score":"1-0"},{"date":"24.05.17","home":"허난 FC","away":"우한 쓰리 타운즈","score":"2-3"}]'
+summary: "양 팀 모두 2026시즌 동안 안정적인 경기 운용을 바탕으로 무승부를 자주 기록할 만큼 조직적인 방어력을 유지해 오고 있습니다. 우한 쓰리 타운즈는 안방에서 구스타보 사우에르를 필두로 한 공격진의 활발한 움직임이 돋보이며 허난 FC 역시 원정 경기에서 탄탄한 백라인을 앞세워 실점을 억제하는 흐름을 보여줍니다. 상대전적에서도 팽팽한 접전이 이어졌던 만큼 이번 대결 또한 양 팀의 수비 집중력과 경기 조율 능력이 팽팽히 맞설 것으로 기대됩니다. 홈 이점을 가진 우한 쓰리 타운즈가 주도권을 쥔 채 근소하게 우위를 점할 가능성이 높은 경기입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Jingqi Fang (GK)|https://images.fotmob.com/image_resources/playerimages/467590.png","Tian Ming (DF)|https://images.fotmob.com/image_resources/playerimages/1026521.png","Guan He (DF)|https://images.fotmob.com/image_resources/playerimages/536591.png","Ang Li (DF)|https://images.fotmob.com/image_resources/playerimages/526201.png","Haofeng Xu (DF)|https://images.fotmob.com/image_resources/playerimages/1171149.png","Antoine Léautey (MF)|https://images.fotmob.com/image_resources/playerimages/795285.png","Xiaobin Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/530922.png","Adriano (MF)|https://images.fotmob.com/image_resources/playerimages/1071102.png","Kilian Bevis (FW)|https://images.fotmob.com/image_resources/playerimages/1553642.png","Gustavo Sauer (FW)|https://images.fotmob.com/image_resources/playerimages/676447.png","Jhonder Cádiz (FW)|https://images.fotmob.com/image_resources/playerimages/523414.png"]'
+awayLineup: '["Chenglong Shi (GK)|https://images.fotmob.com/image_resources/playerimages/1180688.png","Yeljan Shinar (DF)|https://images.fotmob.com/image_resources/playerimages/1067448.png","Iago Maidana (DF)|https://images.fotmob.com/image_resources/playerimages/579791.png","Lucas Maia (DF)|https://images.fotmob.com/image_resources/playerimages/782189.png","Ruifeng Huang (DF)|https://images.fotmob.com/image_resources/playerimages/1074928.png","Shangyuan Wang (MF)|https://images.fotmob.com/image_resources/playerimages/465720.png","Chao He (MF)|https://images.fotmob.com/image_resources/playerimages/527988.png","Dalun Zheng (FW)|https://images.fotmob.com/image_resources/playerimages/432815.png","Bruno Nazário (MF)|https://images.fotmob.com/image_resources/playerimages/406330.png","Pedro Maranhão (FW)|https://images.fotmob.com/image_resources/playerimages/1174640.png","Gustavo (FW)|https://images.fotmob.com/image_resources/playerimages/535701.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Zhuoxiang Deng|https://images.fotmob.com/image_resources/playerimages/79251.png"
+awayCoach: "Daniel Ramos|https://images.fotmob.com/image_resources/playerimages/282534.png"
+pickWinTeam: "우한 쓰리 타운즈"
+pickWinResult: "승"
+pickHandicapTeam: "우한 쓰리 타운즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

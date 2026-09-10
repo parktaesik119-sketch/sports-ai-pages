@@ -1,0 +1,37 @@
+---
+title: "우니온 베를린 vs 샬케 04 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | 분데스리가 - 픽천국"
+date: 2026-09-11T18:30:00.000Z
+description: "우니온 베를린 vs 샬케 04 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5881169-2026-09-12-union-berlin"
+category: "soccer"
+country: "독일"
+league: "분데스리가"
+homeTeam: "우니온 베를린"
+awayTeam: "샬케 04"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10189.png"
+homeAnalysis: "우니온 베를린은 2026시즌 동안 14경기에서 4승 4무 6패를 기록하며 경기당 평균 2.5골을 터뜨리는 뛰어난 공격 집중력을 보여주고 있습니다. 시즌 전반적으로 기복 있는 흐름이 이어지고 있으나 탁월한 화력을 바탕으로 상대를 끊임없이 위협하는 공세적인 스타일이 강점입니다. 공격진에서는 에마누엘 라테 라트와 마린 류비치치 투톱의 날카로운 결정력이 팀 득점을 든든하게 견인하고 있습니다. 중원에서는 라니 케디라와 미셸 애비셔가 중심을 잡고 선제적인 전진 패스를 공급하며 경기 주도권을 유지하고 있습니다. 다만 수비진의 실점 제어가 매끄럽지 않은 편이어서 제노 반 덴 보쉬와 펠릭스 우두오카이를 중심으로 한 후방 커버 플레이의 안정감이 더욱 요구됩니다."
+awayAnalysis: "샬케 04는 2026시즌 13경기를 치르며 5승 2무 6패의 성적과 함게 경기당 평균 1.6골을 기록하는 끈끈한 경기력을 이어가고 있습니다. 최근 바이에른 뮌헨과의 일전에서도 무실점 무승부를 거두며 상대 강호들을 저지할 수 있는 탄탄한 수비 조직력을 증명했습니다. 최전방에서는 무사 실라와 아딜 아우치체가 기민한 침투로 찬스를 만들고 데얀 류비치치가 2선에서 날카로운 지원을 아끼지 않고 있습니다. 로빈 고젠스를 비롯한 측면 자원들도 활발한 공수 전환으로 팀의 밸런스를 맞추는 데 중요한 역할을 해내고 있습니다. 티모 베커와 니콜라 카티치가 이끄는 스리백 라인이 굳건히 버티고 있어 원정길에서도 안정적인 저항력을 발휘할 것으로 기대됩니다."
+homePower: "평균 2.5골의 화력 기반 강한 공세 전개 능력 보유|최전방 라테 라트와 류비치치 조합의 뛰어난 결정력|중원 케디라의 템포 조절 및 주도권 확보 기여|수비 기복 줄이기가 경기 승패 결정지을 핵심 과제임|샬케 04 상대 맞대결에서 홈 주도권 활용 가능성 보임"
+awayPower: "탄탄한 3-4-2-1 포메이션 기반 수비 조직력 보유|무사 실라의 빠른 침투를 활용한 역습 효율성 돋보임|로빈 고젠스 중심의 빠른 측면 공수 전환 속도 강점|강팀 상대로도 검증된 견고한 후방 억제력 유지|우니온 베를린 맞대결에서 팽팽한 저항력 보여줄 것으로 기대됨"
+h2h: '[{"date":"23.02.19","home":"우니온 베를린","away":"샬케 04","score":"0-0"},{"date":"22.08.27","home":"샬케 04","away":"우니온 베를린","score":"1-6"},{"date":"21.02.14","home":"우니온 베를린","away":"샬케 04","score":"0-0"},{"date":"20.10.19","home":"샬케 04","away":"우니온 베를린","score":"1-1"},{"date":"20.06.07","home":"우니온 베를린","away":"샬케 04","score":"1-1"}]'
+summary: "우니온 베를린은 시즌 평균 2.5골을 기록하는 막강한 공격력을 앞세워 경기 초반부터 주도권을 확보하려 할 것입니다. 반면 샬케 04는 최근 강팀을 상대로 무실점을 기록할 만큼 견고해진 수비진과 효율적인 역습을 통해 맞설 가능성이 큽니다. 과거 상대전적에서도 다수의 무승부가 나왔을 정도로 두 팀은 만날 때마다 치열한 팽팽함을 유지해 왔습니다. 우니온 베를린의 화력과 샬케 04의 끈끈한 수비력이 맞물리면서 이번 경기 역시 팽팽한 대접전 끝에 승부를 가리지 못할 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Andrej Ilić (병)|Andrik Markgraf (십자 인대 부상)|Marvin Friedrich (부상)|Stanley N'Soki (종아리 부상)|Kastriot Imeri (허벅지 부상)|Oliver Burke (아킬레스건 부상)"
+injuryAway: "Ayman Gülasi (부상)|Adrian Gantenbein (발목 부상)|Ron Schallenberg (부상)|Bryan Lasme (종아리 부상)"
+homeLineup: '["Frederik Rønnow (GK)|https://images.fotmob.com/image_resources/playerimages/186557.png","Josip Juranović (DF)|https://images.fotmob.com/image_resources/playerimages/622373.png","Zeno Van Den Bosch (DF)|https://images.fotmob.com/image_resources/playerimages/1231677.png","Felix Uduokhai (DF)|https://images.fotmob.com/image_resources/playerimages/767800.png","Tom Rothe (DF)|https://images.fotmob.com/image_resources/playerimages/1282582.png","Aljoscha Kemlein (MF)|https://images.fotmob.com/image_resources/playerimages/1403332.png","Michel Aebischer (MF)|https://images.fotmob.com/image_resources/playerimages/792756.png","Livan Burcu (FW)|https://images.fotmob.com/image_resources/playerimages/1520506.png","Rani Khedira (MF)|https://images.fotmob.com/image_resources/playerimages/304348.png","Marin Ljubičić (FW)|https://images.fotmob.com/image_resources/playerimages/1242198.png","Emmanuel Latte Lath (FW)|https://images.fotmob.com/image_resources/playerimages/783585.png"]'
+awayLineup: '["Loris Karius (GK)|https://images.fotmob.com/image_resources/playerimages/287894.png","Timo Becker (DF)|https://images.fotmob.com/image_resources/playerimages/785739.png","Nikola Katić (DF)|https://images.fotmob.com/image_resources/playerimages/725655.png","Hasan Kuruçay (DF)|https://images.fotmob.com/image_resources/playerimages/794619.png","Junior Dina Ebimbe (FW)|https://images.fotmob.com/image_resources/playerimages/1040889.png","Soufian El-Faouzi (MF)|https://images.fotmob.com/image_resources/playerimages/1249185.png","Satoshi Tanaka (MF)|https://images.fotmob.com/image_resources/playerimages/1155066.png","Robin Gosens (DF)|https://images.fotmob.com/image_resources/playerimages/518346.png","Dejan Ljubičić (MF)|https://images.fotmob.com/image_resources/playerimages/861668.png","Adil Aouchiche (MF)|https://images.fotmob.com/image_resources/playerimages/1047664.png","Moussa Sylla (FW)|https://images.fotmob.com/image_resources/playerimages/860056.png"]'
+homeFormation: "4-1-2-1-2"
+awayFormation: "3-4-2-1"
+homeCoach: "Mauro Lustrinelli|https://images.fotmob.com/image_resources/playerimages/30939.png"
+awayCoach: "Miron Muslić|https://images.fotmob.com/image_resources/playerimages/7528.png"
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
