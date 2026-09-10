@@ -1804,9 +1804,16 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
     return (Math.round(n * 2) / 2).toFixed(1);
   };
 
-  // 예상스코어: AI가 출력한 값 그대로 사용 (JS 계산값을 지시했으므로 그대로)
-  let finalExpectedHome = (pickExpectedHome && pickExpectedHome !== '없음') ? pickExpectedHome : '';
-  let finalExpectedAway = (pickExpectedAway && pickExpectedAway !== '없음') ? pickExpectedAway : '';
+  // 예상스코어: AI 응답을 신뢰하지 않고 반올림해 정수로 강제 정리한다.
+  // (AI가 지시한 JS 계산 정수값을 그대로 안 쓰고 "1.3" 같은 소수를 써버리는 경우가 있어,
+  //  여기서 무조건 Math.round로 정수화한다 — 이후 로직은 항상 정수 문자열을 받는다고 가정 가능)
+  const sanitizeScore = (val) => {
+    if (!val || val === '없음') return '';
+    const n = parseFloat(val);
+    return isNaN(n) ? '' : String(Math.round(n));
+  };
+  let finalExpectedHome = sanitizeScore(pickExpectedHome);
+  let finalExpectedAway = sanitizeScore(pickExpectedAway);
 
   // 축구에서 "진짜 무승부 픽"인 경우에만 동점 스코어를 그대로 인정한다.
   // (승/패 픽인데 스코어만 동점으로 나오는 건 AI 환각이므로 보정 대상)

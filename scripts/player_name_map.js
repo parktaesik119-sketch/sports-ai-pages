@@ -275,6 +275,7 @@ const PLAYER_NAME_MAP = {
   "Myung-Sun Kim": "김명순",
   "Myung-Soon Kim": "김명순",
   "Yeon-Soo Kim": "김연수", // 인천 소속 (경남 소속 동명이인과 별개)
+  "Yeon-Su Kim": "김연수", // 인천 소속 (경남 소속 동명이인과 별개)
   "Geon-Hui Kim": "김건희",
   "Kyung-Sub Park": "박경섭",
   "Jeong-Min Go": "고정민",
@@ -301,6 +302,7 @@ const PLAYER_NAME_MAP = {
   // --- Bucheon FC 1995 (부천 FC 1995) ---
   "Sang-Hyeon Lee": "이상현",
   "Hyung-Geun Kim": "김형근",
+  "Hyung-Keun Kim": "김형근",
   "Hyeon-Yeop Kim": "김현엽",
   "Jae-Won Shin": "신재원",
   "Jong-Min Kim": "김종민", // 부천 소속 (충남아산 소속 동명이인과 별개)
