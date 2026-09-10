@@ -593,7 +593,7 @@ async function analyzeMatches() {
   const filteredMatches = rawData.filter(m => isMatchApproved(m));
 
 
-    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (GPT 5.6 Terra)`);
+    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Gemini 3 Flash)`);
 
     const retryQueue = []; // ← 여기로 이동
 
@@ -622,7 +622,7 @@ PICK_EXPECTED_HOME: (홈팀 예상 득점. 경기 정보에 제공된 JS 계산�
 PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계산값을 그대로 출력하라. LOL/배구는 "없음"으로 표기. 반드시 숫자로만 기재.)
 
 [분석 규칙]
-1. 결장자와 부상자 정보는 [ESPN 공식 데이터]가 제공된 경우 그 데이터를 그대로 사용하고 web_search를 사용하지 마라. [ESPN 공식 데이터]가 제공되지 않은 경기만 web_search로 결장자와 부상자 정보를 확인하라. 리그 순위와 시즌 성적은 제공된 DB 데이터(ESPN 순위 데이터 포함)를 활용하라. 단, 득점 평균 수치는 반드시 [경기 정보]에 제공된 JS 계산값을 기준으로만 언급하라. DB에서 자체 계산한 평균 득점 수치를 분석글에 직접 기재하지 마라.
+1. 결장자와 부상자 정보는 [ESPN 공식 데이터]/[KBO 공식 데이터]/[fotmob 데이터] 등 제공된 공식 데이터가 있으면 그 데이터만을 근거로 작성하고, 목록에 없는 선수를 임의로 지어내지 마라. 해당 팀의 결장자 정보가 전혀 제공되지 않았다면 반드시 "없음"으로 표기하라(추측 금지). 리그 순위와 시즌 성적은 제공된 DB 데이터(ESPN 순위 데이터 포함)를 활용하라. 단, 득점 평균 수치는 반드시 [경기 정보]에 제공된 JS 계산값을 기준으로만 언급하라. DB에서 자체 계산한 평균 득점 수치를 분석글에 직접 기재하지 마라.
 2. 대한민국을 '남한', '한국'으로 표기하지 마라. 반드시 '대한민국'으로만 표기하라.
 3. 팀명은 반드시 [경기 정보]에 제공된 홈팀/원정팀 이름을 그대로 사용하라. 임의로 번역하거나 변형하지 마라. 팀명은 반드시 풀네임으로 표기하라. "GIANTS", "MARLINS", "TWINS" 같은 약식 표기 절대 금지. 예: "GIANTS" → "SAN FRANCISCO GIANTS", "MARLINS" → "MIAMI MARLINS".
 4. 한자, 일어 사용 금지. 100% 한글로만 작성하라.
@@ -1273,7 +1273,7 @@ const handicapInstruction = cat === 'lol'
   ? `예상 스코어가 동점이므로 핸디캡 추천 없음. PICK_HANDICAP_VALUE는 "없음"으로 출력하라.`
   : `핸디캡 값은 JS에서 자동 산출된다. PICK_HANDICAP_VALUE는 반드시 "0"으로만 출력하라.`;
 
-// ESPN 결장자/순위 데이터 매칭 (있으면 web_search 대신 이 데이터를 그대로 사용)
+// ESPN 결장자/순위 데이터 매칭 (공식 데이터를 우선 사용; web_search는 더 이상 쓰지 않음)
 // 결장자 심각도 분류: 장기 IL(15일 이상)은 "주요 결장"으로 별도 태깅해서
 // AI가 백업급 단기 결장자와 같은 비중으로 다루지 않도록 유도한다.
 const MINOR_STATUS = /day-to-day|paternity|bereavement/i;
@@ -1389,17 +1389,17 @@ const npbAwayStarterText = npbInfo?.starters ? formatNpbStarter(npbInfo.starters
 
 const hasNpbData = !!(npbHomeStarterText || npbAwayStarterText);
 
-// ESPN 데이터가 있으면 web_search 지시 대신 ESPN 데이터를 그대로 사용.
-// ESPN 매칭이 안 된 경기(리그 미지원 포함)는 기존 web_search 방식 그대로 유지.
+// web_search 툴을 더 이상 사용하지 않으므로(Gemini 3 Flash는 이 게이트웨이에서 빌트인 웹검색 미지원),
+// 공식 데이터가 없는 경우에도 검색을 지시하지 않는다. 대신 "지어내지 말고 없으면 없음으로 표기하라"만 강제한다.
 const searchOrEspnInstruction = hasEspnAnyData
-  ? `아래 [ESPN 공식 데이터]를 결장자/순위 정보의 근거로 그대로 사용하라. 이 경기는 ESPN 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [ESPN 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
+  ? `아래 [ESPN 공식 데이터]를 결장자/순위 정보의 근거로 그대로 사용하라. INJURY_HOME/INJURY_AWAY는 반드시 [ESPN 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
   : hasKboData
-  ? `아래 [KBO 공식 데이터]를 선발투수/구종/라인업/순위/결장자 정보의 근거로 그대로 사용하라. 이 경기는 KBO 공식 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. INJURY_HOME/INJURY_AWAY는 반드시 [KBO 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
+  ? `아래 [KBO 공식 데이터]를 선발투수/구종/라인업/순위/결장자 정보의 근거로 그대로 사용하라. INJURY_HOME/INJURY_AWAY는 반드시 [KBO 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
   : hasNpbData
-  ? `아래 [NPB 공식 데이터]의 예고선발투수 정보를 그대로 사용하라. 이 경기는 NPB 공식 예고선발 데이터가 확보되어 있으므로 web_search 도구를 사용하지 마라. 단, NPB 데이터는 선발투수 이름만 제공하므로 결장자/부상자 정보(INJURY_HOME/INJURY_AWAY)와 선발투수의 상세 기록(ERA 등)은 web_search로 "${match.home} ${match.away} starting pitcher injury 2026"를 검색해서 보강하라.`
+  ? `아래 [NPB 공식 데이터]의 예고선발투수 정보를 그대로 사용하라. NPB 데이터는 선발투수 이름만 제공하므로, 결장자/부상자 정보(INJURY_HOME/INJURY_AWAY)와 선발투수의 상세 기록(ERA 등)은 별도로 제공되지 않는 한 추측하지 말고 INJURY_HOME/INJURY_AWAY는 "없음"으로 표기하라.`
   : (hasFotmobInjuryData || hasFotmobLineupData)
-  ? `아래 [fotmob 데이터]를 결장자/예상 라인업 정보의 근거로 그대로 사용하라. INJURY_HOME/INJURY_AWAY는 반드시 [fotmob 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라. 단, fotmob 데이터는 결장자/라인업 정보만 제공하므로 그 외 정보(순위, 최근 이슈 등)가 분석에 필요하면 web_search로 "${match.home} ${match.away} 2026" 등을 검색해서 보강해도 된다.`
-  : `지금 당장 아래 1가지를 web_search 도구로 검색하라. 검색 없이 답변 작성 금지.\n\n검색 1: "${match.home} ${match.away} injury report 2026"\n\n검색 완료 후 아래 정보를 참고하여 분석을 작성하라.`;
+  ? `아래 [fotmob 데이터]를 결장자/예상 라인업 정보의 근거로 그대로 사용하라. INJURY_HOME/INJURY_AWAY는 반드시 [fotmob 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라. fotmob 데이터는 결장자/라인업 정보만 제공하므로, 순위·최근 이슈 등 그 외 정보는 제공된 DB 데이터 범위 안에서만 언급하고 확인되지 않은 내용은 지어내지 마라.`
+  : `이 경기는 결장자/부상자 관련 공식 데이터가 확보되지 않았다. 추측하거나 지어내지 말고 INJURY_HOME/INJURY_AWAY는 반드시 "없음"으로 표기하라.`;
 
 // 월드컵/올림픽 등 조별리그 방식 대회는 ESPN standings의 rank가 "전체 리그 순위"가 아니라
 // "조 내 순위"이므로 표현을 구분한다 ("리그순위" vs "조 순위").
@@ -1441,12 +1441,12 @@ const kboDataBlock = hasKboData ? `
 ` : '';
 
 const npbDataBlock = hasNpbData ? `
-[NPB 공식 데이터 - 예고선발투수(前日 発表). npb.jp 공식 데이터이므로 선발투수 이름은 이 데이터를 우선 사용하라. 단 결장자/부상자와 선발투수 상세 기록은 별도 web_search로 보강해야 함]
+[NPB 공식 데이터 - 예고선발투수(前日 発表). npb.jp 공식 데이터이므로 선발투수 이름은 이 데이터를 우선 사용하라]
 - 홈팀(${aiHomeName}) 예고선발: ${npbHomeStarterText || '정보 없음'}
 - 원정팀(${aiAwayName}) 예고선발: ${npbAwayStarterText || '정보 없음'}
 
 [NPB 데이터 활용 가이드]
-- 위 예고선발투수 이름을 그대로 사용하고, web_search로 각 투수의 최근 시즌 성적(ERA, 승패, 최근 등판 결과 등)을 찾아 분석에 반영하라.
+- 위 예고선발투수 이름을 그대로 사용하라. 해당 투수의 시즌 성적(ERA, 승패 등) 수치가 별도로 제공되지 않았다면 구체적인 수치를 지어내지 말고, 이름과 소속 정도로만 자연스럽게 언급하라.
 - 예고선발은 부상 등 예외 상황이 아니면 변경되지 않으므로, 신뢰도 높은 정보로 취급해 분석 본문에 단정적으로 서술하라.
 ` : '';
 
@@ -1461,7 +1461,7 @@ ${hasFotmobLineupData ? `- 홈팀(${aiHomeName}) 예상 라인업: ${fotmobHomeL
 - 결장자 이름 옆 [주요] 태그가 있으면 전력분석에서 비중 있게 다루되, 태그 표기 자체는 분석 본문에 노출하지 마라.
 ${hasFotmobLineupData ? `- 예상 라인업이 있으면 실제 선발 가능성이 높은 핵심 선수 이름을 분석 본문(homeAnalysis/awayAnalysis, homePower/awayPower)에 구체적으로 언급해서 분석을 더 풍성하게 써라. 예: "구자욱-최형우 중심 타선"처럼 특정 선수명+역할을 엮어서 서술하라. 다만 이 라인업은 아직 "예상"일 수 있으므로("경기 직전 변경될 수 있다" 같은 문구는 굳이 넣지 말고) 확정된 것처럼 단정적으로 서술하되, 라인업 자체를 목록으로 나열하지는 마라(그건 별도 필드로 이미 관리됨).
 - 감독명이 있으면 필요시 자연스럽게 언급해도 좋다(예: "OOO 감독 체제에서").` : ''}
-- fotmob은 이 두 가지 외 정보(순위 등)는 제공하지 않으므로, 필요하면 web_search로 추가 보강하라.
+- fotmob은 이 두 가지 외 정보(순위 등)는 제공하지 않으므로, 그 외 정보는 확인되지 않은 내용을 지어내지 말고 제공된 DB 데이터 범위 안에서만 다뤄라.
 ` : '';
 
 
@@ -1511,27 +1511,30 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
       await new Promise(res => setTimeout(res, 3000));
     }
 
-    const response = await client.responses.create({
-  model: "openai/gpt-5.6-terra",
+    // ⚠️ Gemini 계열(google/gemini-3-flash)은 Router One에서 /v1/responses(Responses API)를
+    // 지원하지 않고 /v1/chat/completions만 서빙한다. 그래서 client.responses.create →
+    // client.chat.completions.create 로 호출 방식 자체를 바꿨다.
+    // 웹검색(web_search/google_search) 툴은 Router One의 /v1/chat/completions가 function-calling
+    // 형식(type: "function")만 지원해서 built-in 검색 툴 자체가 400으로 거부됨을 실측 확인 후 제거했다.
+    // 대신 결장자/부상자 등은 ESPN/KBO/NPB/fotmob 등 이미 확보된 공식 데이터만으로 판단하고,
+    // 데이터가 없으면 "없음"으로 표기하도록 SYSTEM_RULES_PROMPT/searchOrEspnInstruction에서 강제한다.
+    const response = await client.chat.completions.create({
+  model: "google/gemini-3-flash",
 
-  tools: [
+  messages: [
     {
-      type: "web_search",
-      search_context_size: "medium"
-    }
-  ],
-
-  tool_choice: "auto",
-
-  input: `
+      role: "user",
+      content: `
 ${SYSTEM_RULES_PROMPT}
 
 ${matchDataPrompt}
 `
+    }
+  ]
 });
 
     const aiResponse =
-      response.output_text || "";
+      response.choices?.[0]?.message?.content || "";
 
     if (aiResponse.length > 500) {
       const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal);
@@ -1545,23 +1548,10 @@ ${matchDataPrompt}
     } else {
       console.warn(`⚠️ [응답 짧음] ${attempt}차 시도 응답 길이 부족 (${aiResponse.length}자): ${match.home}`);
 
-      // ── 진단 로그: 다음에 같은 문제가 재현되면 정확한 원인을 파악하기 위함 ──
+      // ── 진단 로그: 응답 길이가 부족한 원인 파악용 (Chat Completions 응답 구조 기준) ──
       try {
-        console.warn(`   [진단] status: ${response.status ?? '(없음)'}`);
-        if (response.incomplete_details) {
-          console.warn(`   [진단] incomplete_details: ${JSON.stringify(response.incomplete_details)}`);
-        }
-        if (Array.isArray(response.output)) {
-          const outputTypes = response.output.map(o => o.type);
-          console.warn(`   [진단] output 아이템 타입: [${outputTypes.join(', ')}]`);
-          // 텍스트 없이 도구 호출(web_search_call 등)만 있는 케이스인지 확인
-          const hasToolCallOnly = outputTypes.length > 0 && !outputTypes.includes('message');
-          if (hasToolCallOnly) {
-            console.warn(`   [진단] → 도구 호출만 있고 최종 텍스트 메시지가 없음 (web_search 관련 가능성)`);
-          }
-        } else {
-          console.warn(`   [진단] response.output 없음 또는 배열 아님`);
-        }
+        const choice = response.choices?.[0];
+        console.warn(`   [진단] finish_reason: ${choice?.finish_reason ?? '(없음)'}`);
       } catch (diagErr) {
         console.warn(`   [진단 로그 실패] ${diagErr.message}`);
       }
@@ -1570,6 +1560,21 @@ ${matchDataPrompt}
   } catch (err) {
     const code = err?.status || err?.response?.status;
     console.error(`❌ Router One 오류 (${code}) ${attempt}차 시도`, err.message);
+    // ── [진단 강화] 400 invalid request의 정확한 원인(모델/messages/tools 중 무엇이 거부됐는지)을
+    // 파악하기 위해 업스트림이 돌려준 에러 본문 전체를 출력한다. err.message만으로는
+    // "invalid request (upstream rejected with status 400)" 같은 요약 문구만 보여서
+    // 실제 거부 사유(예: 잘못된 tools 스키마, 알 수 없는 파라미터 등)를 알 수 없다.
+    try {
+      const errorBody = err?.error || err?.response?.data || err?.response?.body;
+      if (errorBody) {
+        console.error(`   [진단] 업스트림 에러 본문: ${JSON.stringify(errorBody)}`);
+      }
+      if (err?.request_id || err?.response?.data?.error?.request_id) {
+        console.error(`   [진단] request_id: ${err?.request_id || err?.response?.data?.error?.request_id}`);
+      }
+    } catch (e) {
+      console.error(`   [진단] 에러 본문 파싱 실패: ${e.message}`);
+    }
     if (attempt === MAX_RETRY) break;
   }
 }
@@ -1628,27 +1633,23 @@ ${gameContext}
 `;
 
     try {
-    const retryResponse = await client.responses.create({
-  model: "openai/gpt-5.6-terra",
+    const retryResponse = await client.chat.completions.create({
+  model: "google/gemini-3-flash",
 
-  tools: [
+  messages: [
     {
-      type: "web_search",
-      search_context_size: "medium"
-    }
-  ],
-
-  tool_choice: "auto",
-
-  input: `
+      role: "user",
+      content: `
 ${SYSTEM_RULES_PROMPT}
 
 ${retryPrompt}
 `
+    }
+  ]
 });
 
       const aiResponse =
-        retryResponse.output_text || "";
+        retryResponse.choices?.[0]?.message?.content || "";
 
       if (aiResponse.length > 1200) {
         const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal);
@@ -1665,22 +1666,10 @@ ${retryPrompt}
       } else {
         console.error(`❌ [재분석도 짧음] ${match.home} vs ${match.away} (${aiResponse.length}자)`);
 
-        // ── 진단 로그: 원인 파악용 ──
+        // ── 진단 로그: 응답 길이가 부족한 원인 파악용 ──
         try {
-          console.warn(`   [진단] status: ${retryResponse.status ?? '(없음)'}`);
-          if (retryResponse.incomplete_details) {
-            console.warn(`   [진단] incomplete_details: ${JSON.stringify(retryResponse.incomplete_details)}`);
-          }
-          if (Array.isArray(retryResponse.output)) {
-            const outputTypes = retryResponse.output.map(o => o.type);
-            console.warn(`   [진단] output 아이템 타입: [${outputTypes.join(', ')}]`);
-            const hasToolCallOnly = outputTypes.length > 0 && !outputTypes.includes('message');
-            if (hasToolCallOnly) {
-              console.warn(`   [진단] → 도구 호출만 있고 최종 텍스트 메시지가 없음 (web_search 관련 가능성)`);
-            }
-          } else {
-            console.warn(`   [진단] response.output 없음 또는 배열 아님`);
-          }
+          const retryChoice = retryResponse.choices?.[0];
+          console.warn(`   [진단] finish_reason: ${retryChoice?.finish_reason ?? '(없음)'}`);
         } catch (diagErr) {
           console.warn(`   [진단 로그 실패] ${diagErr.message}`);
         }
@@ -1688,6 +1677,14 @@ ${retryPrompt}
       await new Promise(res => setTimeout(res, 8000));
     } catch (err) {
       console.error(`❌ [재분석 오류] ${match.home} vs ${match.away}`, err.message);
+      try {
+        const errorBody = err?.error || err?.response?.data || err?.response?.body;
+        if (errorBody) {
+          console.error(`   [진단] 업스트림 에러 본문: ${JSON.stringify(errorBody)}`);
+        }
+      } catch (e) {
+        console.error(`   [진단] 에러 본문 파싱 실패: ${e.message}`);
+      }
     }
   }
   console.log(`✅ [재분석 완료] ${retryQueue.length}건 처리 종료`);

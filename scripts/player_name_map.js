@@ -472,6 +472,7 @@ const PLAYER_NAME_MAP = {
   "Dae-Won Park": "박대원",
   "Ji-Hoon Lim": "임지훈",
   "Ho-Yeon Jeong": "정호연",
+  "Ho-Yeon Jung": "정호연",
   "Hyun-Bin Park": "박현빈",
   "Min-Woo Kim": "김민우",
   "Seung-Beom Ko": "고승범",
@@ -483,6 +484,7 @@ const PLAYER_NAME_MAP = {
   "Hyun-Muk Kang": "강현묵",
   "Ji-Hyun Kim": "김지현",
   "Gyeol Kim": "김결",
+  "Jun-Guko Choin": "최준성",
 
   // --- Suwon FC (수원 FC) ---
   "Yun-Oh Lee": "이윤오",
@@ -534,6 +536,7 @@ const PLAYER_NAME_MAP = {
   "Jin-Seok Seo": "서진석",
   "Joon-Hyeon Jo": "조준현",
   "Suk-Ju Yoon": "윤석주",
+  "Seok-Joo Yoon": "윤석주",
   "Chang-Hwan Park": "박창환",
   "Ju-Hwan Kim": "김주환",
   "Rang Choi": "최랑", // 확인 필요
@@ -617,11 +620,13 @@ const PLAYER_NAME_MAP = {
   "Sun-Woo Ham": "함선우",
   "Chan-youl Lim": "임찬열",
   "Rae-Jun Lee": "이래준",
+  "Rae-Joon Lee": "이래준",
   "Jung-Min Kim": "김정민",
   "Seong-Jin Jeon": "전성진", // 화성 소속 (부산 소속 동명이인과 별개)
   "Jae-Seong Park": "박재성",
   "Jong-Sung Lee": "이종성",
   "Myung-Hee Choi": "최명희",
+  "Myeong-Heui Choi": "최명희",
   "Dae-Hwan Kim": "김대환",
   "Yong-hee Jeong": "정용희",
   "Kyung-Min Park": "박경민",
@@ -675,6 +680,7 @@ const PLAYER_NAME_MAP = {
   "Ho-In Lee": "이호인",
   "Jun-Young Byun": "변준영",
   "Hee-Won Choi": "최희원",
+  "Heui-Won Choi": "최희원",
   "Seung-Uk Yang": "양승욱",
   "Bo-Kyung Choi": "최보경",
   "Hye-Seong Kim": "김혜성", // 확인 필요
@@ -685,6 +691,7 @@ const PLAYER_NAME_MAP = {
   "Se-Jun Jung": "정세준",
   "Chi-Won Choi": "최치원",
   "Jun-Ho Son": "손준호",
+  "Joon-Ho Son": "손준호",
   "Young-Nam Kim": "김영남",
   "Se-Jik Park": "박세직",
   "Je-Hee Yoon": "윤제희",
@@ -898,11 +905,13 @@ const PLAYER_NAME_MAP = {
   "Hyun-Woo Jeong": "정현우",
   "Geon-Oh Kim": "김건오",
   "Ji-Hun Cho": "조지훈",
+  "Ji-Hoon Cho": "조지훈",
   "Jung-Hyun Kim": "김정현", // 안산 소속 (안양 소속 동명이인과 별개)
   "Seung-Hyun Kim": "김승현",
   "Dan Choi": "최단",
   "Seung-Woo Do": "도승우",
   "Dong-Hyun Kang": "강동현",
+  "Dong Hyun Kang": "강동현",
   "Seung-Wan Ryu": "류승완",
   "In-Sung Kim": "김인성",
   "Hyun-Soo Jang": "장현수",

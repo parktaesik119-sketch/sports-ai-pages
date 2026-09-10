@@ -100,6 +100,7 @@ const TEAM_NAME_MAP = {
   "St. Pauli": "장크트 파울리",
   "FSV Mainz 05": "마인츠 05",
   "Mainz": "마인츠 05",
+  "Mainz 05": "마인츠 05",
   "RB Leipzig": "RB 라이프치히",
   "SC Freiburg": "프라이부르크",
   "Freiburg": "프라이부르크",
