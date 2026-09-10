@@ -16,10 +16,10 @@ homePower: "세인트 패트릭스 애슬레틱 최근 공격 반등세 보임|�
 awayPower: "섐록 로버스 다득점 잠재력은 분명함|최근 연속 실점으로 수비 집중력 흔들림|원정에서도 공격 전개는 유지됨|핵심 공격 자원 공백이 부담으로 작용함|세인트 패트릭스 애슬레틱전 우세 경험 있음"
 h2h: '[{"date":"26.08.16","home":"세인트 패트릭스 애슬레틱","away":"섐록 로버스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-fotmob-5960278-2026-08-16-st-patricks-athletic/"},{"date":"26.05.30","home":"섐록 로버스","away":"세인트 패트릭스 애슬레틱","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1492710-2026-05-30-shamrock-rovers/"},{"date":"26.04.11","home":"세인트 패트릭스 애슬레틱","away":"섐록 로버스","score":"0-1"},{"date":"26.02.21","home":"섐록 로버스","away":"세인트 패트릭스 애슬레틱","score":"2-0"},{"date":"25.10.18","home":"세인트 패트릭스 애슬레틱","away":"섐록 로버스","score":"1-0"}]'
 summary: "섐록 로버스는 2026시즌 13승으로 세인트 패트릭스 애슬레틱의 4승보다 높은 시즌 전력을 보였고, 경기당 득점도 1.6점으로 앞서 있습니다. 그러나 최근 섐록 로버스는 승리 없이 실점이 이어진 반면 세인트 패트릭스 애슬레틱은 최근 경기에서 공격 반등과 홈 경쟁력을 보여주었습니다. 맞대결에서도 홈팀이 직전 홈 경기에서 승리한 데다 원정팀의 핵심 자원 공백까지 고려하면, 이번 경기는 세인트 패트릭스 애슬레틱이 근소한 우위를 점할 가능성이 높아 보입니다."
-homeRecent: '[]'
-awayRecent: '[]'
+homeRecent: "[{\"date\":\"26.09.06\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Bohemian FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.29\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Waterford FC\",\"score\":\"0-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.22\",\"home\":\"Drogheda United\",\"away\":\"St. Patrick's Athletic\",\"score\":\"0-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.16\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Shamrock Rovers\",\"score\":\"3-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.10\",\"home\":\"Shelbourne\",\"away\":\"St. Patrick's Athletic\",\"score\":\"1-2\",\"result\":\"🟢승\"}]"
+awayRecent: "[{\"date\":\"26.09.05\",\"home\":\"Shamrock Rovers\",\"away\":\"Shelbourne\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.31\",\"home\":\"Derry City\",\"away\":\"Shamrock Rovers\",\"score\":\"3-3\",\"result\":\"🟡무\"},{\"date\":\"26.08.28\",\"home\":\"KuPS\",\"away\":\"Shamrock Rovers\",\"score\":\"1-0\",\"result\":\"🔴패\"},{\"date\":\"26.08.21\",\"home\":\"Shamrock Rovers\",\"away\":\"KuPS\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.16\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Shamrock Rovers\",\"score\":\"3-2\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
-injuryAway: "Danny Grant (근육 부상)|Victor Ozhianvuna (근육 부상)|Daniel Mândroiu (무릎 부상)"
+injuryAway: "Danny Grant[주요](근육 부상 - 복귀예정 Unknown) | Victor Ozhianvuna[주요](근육 부상 - 복귀예정 Unknown) | Daniel Mândroiu[주요](무릎 부상 - 복귀예정 Unknown)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

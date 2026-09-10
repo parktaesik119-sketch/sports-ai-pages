@@ -16,10 +16,10 @@ homePower: "골웨이 유나이티드, 최근 무패 흐름으로 운영 안정�
 awayPower: "보헤미안스, 최근 다득점 경기로 결정력 상승함|보헤미안스, 공격 전개 속도와 폭이 강점임|원정 수비는 무실점과 다실점 기복 공존함|골웨이 유나이티드전 최근 우세한 상성 보임|핵심 수비 이탈로 조합 안정성 변수임"
 h2h: '[{"date":"26.08.03","home":"보헤미안스","away":"골웨이 유나이티드","score":"1-1","link":"https://pick79.com/posts/detail/analyze-1492741-2026-08-03-bohemians/"},{"date":"26.05.23","home":"골웨이 유나이티드","away":"보헤미안스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-1492703-2026-05-23-galway-united/"},{"date":"26.03.14","home":"보헤미안스","away":"골웨이 유나이티드","score":"1-0"},{"date":"25.10.18","home":"골웨이 유나이티드","away":"보헤미안스","score":"2-0"},{"date":"25.07.12","home":"보헤미안스","away":"골웨이 유나이티드","score":"3-0"}]'
 summary: "보헤미안스는 2026시즌 승률과 경기당 득점에서 골웨이 유나이티드를 앞서며, 공격적인 전력 비교에서 한 걸음 우위에 있습니다. 골웨이 유나이티드는 무승부가 많은 시즌 운영과 최근 무패 흐름을 바탕으로 홈에서 쉽게 흔들리지 않을 가능성이 높습니다. 다만 보헤미안스는 최근 연속 다득점 경기로 공격 마무리의 날카로움을 보여주고 있어, 골웨이 유나이티드의 수비 공백을 공략하며 우위를 점할 가능성이 높아 보입니다."
-homeRecent: '[]'
-awayRecent: '[]'
-injuryHome: "Killian Brouder (충돌 부상)|Axel Piesold (근육 부상)|Dara McGuinness (부상)"
-injuryAway: "Dayle Rooney (다리 부상)|Sam Todd (근육 부상)"
+homeRecent: "[{\"date\":\"26.09.05\",\"home\":\"Drogheda United\",\"away\":\"Galway United FC\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.29\",\"home\":\"Galway United FC\",\"away\":\"Shelbourne\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.22\",\"home\":\"Dundalk\",\"away\":\"Galway United FC\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.15\",\"home\":\"Galway United FC\",\"away\":\"Bray Wanderers\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.08\",\"home\":\"Galway United FC\",\"away\":\"Drogheda United\",\"score\":\"0-0\",\"result\":\"🟡무\"}]"
+awayRecent: "[{\"date\":\"26.09.06\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Bohemian FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.29\",\"home\":\"Bohemian FC\",\"away\":\"Sligo Rovers\",\"score\":\"3-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.22\",\"home\":\"Bohemian FC\",\"away\":\"Derry City\",\"score\":\"5-3\",\"result\":\"🟢승\"},{\"date\":\"26.08.17\",\"home\":\"Bohemian FC\",\"away\":\"Longford Town\",\"score\":\"4-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.14\",\"home\":\"FC Midtjylland\",\"away\":\"Bohemian FC\",\"score\":\"3-2\",\"result\":\"🔴패\"}]"
+injuryHome: "Killian Brouder[주요](충돌 부상 - 복귀예정 About 1-2 weeks) | Axel Piesold[주요](근육 부상 - 복귀예정 A few weeks) | Dara McGuinness[주요](부상 - 복귀예정 Unknown)"
+injuryAway: "Dayle Rooney[주요](다리 부상 - 복귀예정 A few weeks) | Sam Todd[주요](근육 부상 - 복귀예정 About 1-2 weeks)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

@@ -16,10 +16,10 @@ homePower: "최근 맞대결 홈 경기에서 무실점 운영 강점 보임|초
 awayPower: "원정에서 수비 균열 시 대량 실점 위험 보임|최근 원정 공격의 마무리 저하가 뚜렷함|슬라이고 로버스의 무승부 관리 능력은 있음|중요 자원 이탈로 전개 선택지 감소함|최근 맞대결 득점 경험은 변수로 작용함"
 h2h: '[{"date":"26.07.26","home":"슬라이고 로버스","away":"드로에다 유나이티드","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1492740-2026-07-26-sligo-rovers/"},{"date":"26.05.02","home":"드로에다 유나이티드","away":"슬라이고 로버스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1492682-2026-05-02-drogheda-united/"},{"date":"26.03.08","home":"슬라이고 로버스","away":"드로에다 유나이티드","score":"2-1"},{"date":"25.09.20","home":"슬라이고 로버스","away":"드로에다 유나이티드","score":"1-1"},{"date":"25.06.21","home":"드로에다 유나이티드","away":"슬라이고 로버스","score":"1-0"}]'
 summary: "드로에다 유나이티드는 2026시즌 승률과 경기당 득점에서 슬라이고 로버스보다 앞서 있으며, 홈에서 상대를 상대한 최근 전적에서도 수비 안정감을 보여줬습니다. 슬라이고 로버스는 시즌 11패와 낮은 득점 생산성이 부담이고, 최근 원정 연속 무득점 패배 흐름까지 이어져 공격 반등이 쉽지 않아 보입니다. 양 팀 모두 최근 수비 기복은 존재하지만, 드로에다 유나이티드가 홈 이점과 상대전적 우세를 바탕으로 경기 주도권을 잡을 가능성이 높습니다."
-homeRecent: '[]'
-awayRecent: '[]'
-injuryHome: "Shane Farrell (부상, 2026년 9월 중순 복귀 예정)|Owen Lambe (다리 부상, 복귀 시점 미정)"
-injuryAway: "Daire Patton (질병, 1~2주 결장 예정)|Jad Hakiki (근육 경련, 1~2주 결장 예정)|Conor Reynolds (엉덩이 부상, 수 주 결장 예정)"
+homeRecent: "[{\"date\":\"26.09.05\",\"home\":\"Drogheda United\",\"away\":\"Galway United FC\",\"score\":\"1-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.29\",\"home\":\"Drogheda United\",\"away\":\"Dundalk\",\"score\":\"2-3\",\"result\":\"🔴패\"},{\"date\":\"26.08.22\",\"home\":\"Drogheda United\",\"away\":\"St. Patrick's Athletic\",\"score\":\"0-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.16\",\"home\":\"College Corinthians\",\"away\":\"Drogheda United\",\"score\":\"0-3\",\"result\":\"🟢승\"},{\"date\":\"26.08.08\",\"home\":\"Galway United FC\",\"away\":\"Drogheda United\",\"score\":\"0-0\",\"result\":\"🟡무\"}]"
+awayRecent: "[{\"date\":\"26.09.05\",\"home\":\"Waterford FC\",\"away\":\"Sligo Rovers\",\"score\":\"3-0\",\"result\":\"🔴패\"},{\"date\":\"26.08.29\",\"home\":\"Bohemian FC\",\"away\":\"Sligo Rovers\",\"score\":\"3-0\",\"result\":\"🔴패\"},{\"date\":\"26.08.22\",\"home\":\"Sligo Rovers\",\"away\":\"Waterford FC\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.16\",\"home\":\"Sligo Rovers\",\"away\":\"Kerry FC\",\"score\":\"4-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.08\",\"home\":\"Derry City\",\"away\":\"Sligo Rovers\",\"score\":\"2-0\",\"result\":\"🔴패\"}]"
+injuryHome: "Shane Farrell[주요](부상 - 복귀예정 Mid September 2026) | Owen Lambe[주요](다리 부상 - 복귀예정 Unknown)"
+injuryAway: "Daire Patton[주요](병 - 복귀예정 About 1-2 weeks) | Jad Hakiki[주요](근육 경련 - 복귀예정 About 1-2 weeks) | Conor Reynolds[주요](엉덩이 부상 - 복귀예정 A few weeks)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

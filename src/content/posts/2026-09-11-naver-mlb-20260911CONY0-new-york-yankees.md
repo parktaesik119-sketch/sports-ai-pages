@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 
 awayRecent: '[{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"},{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"},{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.03","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903BACO0-2026-09-03-colorado-rockies/"},{"date":"26.09.01","home":"콜로라도 로키스","away":"볼티모어 오리올스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901BACO0-2026-09-01-colorado-rockies/"}]'
 injuryHome: "Clarke Schmidt (수술)|Ryan Weathers (근육 부상)|Fernando Cruz (통증)|Trent Grisham (근육 부상)|Giancarlo Stanton (근육 부상)"
 injuryAway: "Willi Castro (족저근막염)|Kyle Freeland (신경 압박)|Jose Quintana (염좌)|Kris Bryant (수술)|McCade Brown (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Fried (4-4, 2.73) ERA 2.73|https://a.espncdn.com/i/headshots/mlb/players/full/32685.png\"]"
+awayLineup: "[\"선발투수 R. Feltner (5-9, 5.91) ERA 5.91|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

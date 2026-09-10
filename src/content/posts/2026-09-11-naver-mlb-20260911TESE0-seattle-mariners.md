@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사�
 awayRecent: '[{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"},{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"},{"date":"26.09.04","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TBTE0-2026-09-04-texas-rangers/"},{"date":"26.09.03","home":"텍사스 레인저스","away":"애슬레틱스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903OATE0-2026-09-03-texas-rangers/"}]'
 injuryHome: "Brendan Donovan (뇌진탕)|Brennen Davis (근육 긴장)|Will Wilson (골절)|Emerson Hancock (근육 긴장)|Cole Wilcox (근육 긴장)"
 injuryAway: "Kyle Higashioka (근육 긴장)|Josh Jung (근육 긴장)|Carter Baumler (근육 긴장)|Cole Winn (근육 긴장)|Nathan Eovaldi (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Gilbert (11-9, 3.71) ERA 3.71|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+awayLineup: "[\"선발투수 J. deGrom (10-9, 3.96) ERA 3.96|https://a.espncdn.com/i/headshots/mlb/players/full/32796.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

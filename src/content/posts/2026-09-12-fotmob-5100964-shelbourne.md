@@ -16,10 +16,10 @@ homePower: "셸번은 홈 접전에서 승점 확보력 보임|셸번은 무실�
 awayPower: "데리 시티는 최근 득점 전개가 살아남|데리 시티는 다득점 경기 대응력이 보임|데리 시티는 원정 수비 집중력 저하 보임|데리 시티는 홈보다 원정 성과가 제한적임|데리 시티는 셸번 원정 상성이 우세함"
 h2h: '[{"date":"26.05.26","home":"데리 시티","away":"셸번","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1492732-2026-05-26-derry-city/"},{"date":"26.04.18","home":"셸번","away":"데리 시티","score":"1-2"},{"date":"26.03.14","home":"데리 시티","away":"셸번","score":"1-2"},{"date":"25.09.20","home":"데리 시티","away":"셸번","score":"1-1"},{"date":"25.06.21","home":"셸번","away":"데리 시티","score":"0-1"}]'
 summary: "셸번은 2026시즌 6승 11무 6패로 패배를 줄이는 안정성은 갖췄지만, 경기당 평균 1.4득점에 머문 공격의 결정력이 최근 흔들리고 있습니다. 데리 시티 역시 6승 8무 9패로 시즌 기복은 있었으나 경기당 평균 1.5득점의 공격력과 최근 득점 흐름에서는 좀 더 위협적인 모습을 보여주고 있습니다. 셸번의 홈 운영은 변수이지만, 데리 시티가 맞대결 자신감과 최근 공격 전개를 앞세워 근소한 우위를 점할 가능성이 높아 보입니다."
-homeRecent: '[]'
-awayRecent: '[]'
-injuryHome: "John Martin (근육 부상)|Sam Bone (충돌 부상)"
-injuryAway: "James Clarke (부상)"
+homeRecent: "[{\"date\":\"26.09.05\",\"home\":\"Shamrock Rovers\",\"away\":\"Shelbourne\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.29\",\"home\":\"Galway United FC\",\"away\":\"Shelbourne\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.14\",\"home\":\"Shelbourne\",\"away\":\"Ajax\",\"score\":\"2-2\",\"result\":\"🟡무\"},{\"date\":\"26.08.10\",\"home\":\"Shelbourne\",\"away\":\"St. Patrick's Athletic\",\"score\":\"1-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.07\",\"home\":\"Ajax\",\"away\":\"Shelbourne\",\"score\":\"3-1\",\"result\":\"🔴패\"}]"
+awayRecent: "[{\"date\":\"26.09.07\",\"home\":\"Derry City\",\"away\":\"Dundalk\",\"score\":\"4-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.31\",\"home\":\"Derry City\",\"away\":\"Shamrock Rovers\",\"score\":\"3-3\",\"result\":\"🟡무\"},{\"date\":\"26.08.22\",\"home\":\"Bohemian FC\",\"away\":\"Derry City\",\"score\":\"5-3\",\"result\":\"🔴패\"},{\"date\":\"26.08.15\",\"home\":\"UCD\",\"away\":\"Derry City\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.08\",\"home\":\"Derry City\",\"away\":\"Sligo Rovers\",\"score\":\"2-0\",\"result\":\"🟢승\"}]"
+injuryHome: "John Martin[주요](근육 부상 - 복귀예정 A few weeks) | Sam Bone[주요](충돌 부상 - 복귀예정 About 1-2 weeks)"
+injuryAway: "James Clarke[주요](부상 - 복귀예정 Mid September 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
