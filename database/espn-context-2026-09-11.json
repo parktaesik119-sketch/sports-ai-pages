@@ -1,0 +1,7744 @@
+[
+  {
+    "home": "Atlanta United",
+    "away": "Orlando City",
+    "date": "2026-09-09T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761787",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "6",
+        "losses": "14",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "29",
+        "pointsAgainst": "43"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "9",
+        "losses": "11",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "41",
+        "pointsAgainst": "56"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ORL leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-19T23:30:00Z",
+          "home": "Orlando City SC",
+          "away": "Atlanta United FC",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-16T23:30:00Z",
+          "home": "Orlando City SC",
+          "away": "Atlanta United FC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-28T23:30:00Z",
+          "home": "Atlanta United FC",
+          "away": "Orlando City SC",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-26T23:15:00Z",
+          "home": "Orlando City SC",
+          "away": "Atlanta United FC",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-11-24T20:30:00Z",
+          "home": "Orlando City SC",
+          "away": "Atlanta United FC",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "CF Montréal",
+    "away": "Charlotte FC",
+    "date": "2026-09-09T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761785",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "5",
+        "losses": "13",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "31",
+        "pointsAgainst": "50"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "11",
+        "losses": "7",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "42",
+        "pointsAgainst": "33"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MTL leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-09-27T23:30:00Z",
+          "home": "Charlotte FC",
+          "away": "CF Montréal",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-12T23:30:00Z",
+          "home": "CF Montréal",
+          "away": "Charlotte FC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-05T23:30:00Z",
+          "home": "Charlotte FC",
+          "away": "CF Montréal",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-14T23:30:00Z",
+          "home": "CF Montréal",
+          "away": "Charlotte FC",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-07-15T23:30:00Z",
+          "home": "CF Montréal",
+          "away": "Charlotte FC",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "DC United",
+    "away": "Columbus Crew",
+    "date": "2026-09-09T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761789",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "6",
+        "losses": "7",
+        "ties": "10",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "30",
+        "pointsAgainst": "37"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "6",
+        "losses": "13",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "35",
+        "pointsAgainst": "41"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CLB leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-07-19T23:30:00Z",
+          "home": "Columbus Crew",
+          "away": "D.C. United",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-29T23:30:00Z",
+          "home": "D.C. United",
+          "away": "Columbus Crew",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-28T23:30:00Z",
+          "home": "D.C. United",
+          "away": "Columbus Crew",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-06T23:30:00Z",
+          "home": "Columbus Crew",
+          "away": "D.C. United",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-04-08T23:30:00Z",
+          "home": "D.C. United",
+          "away": "Columbus Crew",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Toronto FC",
+    "away": "Nashville SC",
+    "date": "2026-09-09T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761790",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "6",
+        "losses": "7",
+        "ties": "11",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "38",
+        "pointsAgainst": "43"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "16",
+        "losses": "3",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "48",
+        "pointsAgainst": "19"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NSH leads series 4-0-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-07-20T01:15:00Z",
+          "home": "Nashville SC",
+          "away": "Toronto FC",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-24T23:30:00Z",
+          "home": "Toronto FC",
+          "away": "Nashville SC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-19T23:30:00Z",
+          "home": "Toronto FC",
+          "away": "Nashville SC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-05-16T00:30:00Z",
+          "home": "Nashville SC",
+          "away": "Toronto FC",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-06-10T23:30:00Z",
+          "home": "Toronto FC",
+          "away": "Nashville SC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Philadelphia Union",
+    "away": "FC Cincinnati",
+    "date": "2026-09-09T23:45:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761786",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "8",
+        "losses": "10",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "41",
+        "pointsAgainst": "39"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "8",
+        "losses": "8",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "49",
+        "pointsAgainst": "56"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PHI leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-08-30T23:30:00Z",
+          "home": "FC Cincinnati",
+          "away": "Philadelphia Union",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-02T00:30:00Z",
+          "home": "Philadelphia Union",
+          "away": "FC Cincinnati",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-19T22:00:00Z",
+          "home": "Philadelphia Union",
+          "away": "FC Cincinnati",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-13T23:30:00Z",
+          "home": "FC Cincinnati",
+          "away": "Philadelphia Union",
+          "homeScore": 2,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-19T23:45:00Z",
+          "home": "FC Cincinnati",
+          "away": "Philadelphia Union",
+          "homeScore": 4,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "New York City FC",
+    "away": "New England Revolution",
+    "date": "2026-09-10T00:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761788",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "7",
+        "losses": "9",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "37",
+        "pointsAgainst": "33"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "12",
+        "losses": "8",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "39",
+        "pointsAgainst": "30"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NYC leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-23T20:30:00Z",
+          "home": "New England Revolution",
+          "away": "New York City FC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-19T23:30:00Z",
+          "home": "New England Revolution",
+          "away": "New York City FC",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-15T23:30:00Z",
+          "home": "New York City FC",
+          "away": "New England Revolution",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-09T23:30:00Z",
+          "home": "New England Revolution",
+          "away": "New York City FC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-05-25T23:30:00Z",
+          "home": "New England Revolution",
+          "away": "New York City FC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Austin FC",
+    "away": "Colorado Rapids",
+    "date": "2026-09-10T00:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761794",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "6",
+        "losses": "10",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "30",
+        "pointsAgainst": "43"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "10",
+        "losses": "12",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "32",
+        "pointsAgainst": "32"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "COL leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-02T01:30:00Z",
+          "home": "Colorado Rapids",
+          "away": "Austin FC",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-06-08T01:30:00Z",
+          "home": "Colorado Rapids",
+          "away": "Austin FC",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-09T01:30:00Z",
+          "home": "Austin FC",
+          "away": "Colorado Rapids",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-20T01:00:00Z",
+          "home": "Austin FC",
+          "away": "Colorado Rapids",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-16T01:30:00Z",
+          "home": "Colorado Rapids",
+          "away": "Austin FC",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chicago Fire FC",
+    "away": "Inter Miami CF",
+    "date": "2026-09-10T00:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761792",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "11",
+        "losses": "6",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "44",
+        "pointsAgainst": "33"
+      },
+      "away": {
+        "rank": "2",
+        "wins": "12",
+        "losses": "4",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "59",
+        "pointsAgainst": "44"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIA leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-07-22T23:30:00Z",
+          "home": "Inter Miami CF",
+          "away": "Chicago Fire FC",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-30T23:30:00Z",
+          "home": "Inter Miami CF",
+          "away": "Chicago Fire FC",
+          "homeScore": 3,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-13T20:30:00Z",
+          "home": "Chicago Fire FC",
+          "away": "Inter Miami CF",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-01T00:30:00Z",
+          "home": "Chicago Fire FC",
+          "away": "Inter Miami CF",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-20T23:30:00Z",
+          "home": "Inter Miami CF",
+          "away": "Chicago Fire FC",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Houston Dynamo FC",
+    "away": "Real Salt Lake",
+    "date": "2026-09-10T00:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761791",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "13",
+        "losses": "7",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "32",
+        "pointsAgainst": "27"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "8",
+        "losses": "10",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "37",
+        "pointsAgainst": "37"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "RSL leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-14T01:30:00Z",
+          "home": "Real Salt Lake",
+          "away": "Houston Dynamo FC",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-07-13T01:30:00Z",
+          "home": "Real Salt Lake",
+          "away": "Houston Dynamo FC",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-16T00:30:00Z",
+          "home": "Houston Dynamo FC",
+          "away": "Real Salt Lake",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-15T00:30:00Z",
+          "home": "Houston Dynamo FC",
+          "away": "Real Salt Lake",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-06T01:00:00Z",
+          "home": "Houston Dynamo FC",
+          "away": "Real Salt Lake",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Los Angeles FC",
+    "away": "Red Bull New York",
+    "date": "2026-09-10T02:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761795",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "11",
+        "losses": "7",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "40",
+        "pointsAgainst": "24"
+      },
+      "away": {
+        "rank": "12",
+        "wins": "7",
+        "losses": "11",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "32",
+        "pointsAgainst": "48"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LAFC leads series 2-1-1",
+      "totalGames": 4,
+      "games": [
+        {
+          "date": "2024-04-21T02:30:00Z",
+          "home": "LAFC",
+          "away": "Red Bull New York",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-06-26T19:00:00Z",
+          "home": "LAFC",
+          "away": "Red Bull New York",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-08-12T02:00:00Z",
+          "home": "LAFC",
+          "away": "Red Bull New York",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2018-08-05T22:00:00Z",
+          "home": "Red Bull New York",
+          "away": "LAFC",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Diego FC",
+    "away": "San Jose Earthquakes",
+    "date": "2026-09-10T02:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761797",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "8",
+        "losses": "10",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "42",
+        "pointsAgainst": "37"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "11",
+        "losses": "8",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "43",
+        "pointsAgainst": "36"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SJ leads series 2-1",
+      "totalGames": 3,
+      "games": [
+        {
+          "date": "2026-04-05T02:30:00Z",
+          "home": "San Jose Earthquakes",
+          "away": "San Diego FC",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-28T02:30:00Z",
+          "home": "San Diego FC",
+          "away": "San Jose Earthquakes",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-17T23:00:00Z",
+          "home": "San Jose Earthquakes",
+          "away": "San Diego FC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Vancouver Whitecaps",
+    "away": "LA Galaxy",
+    "date": "2026-09-10T02:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761799",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "14",
+        "losses": "5",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "52",
+        "pointsAgainst": "21"
+      },
+      "away": {
+        "rank": "12",
+        "wins": "7",
+        "losses": "10",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "30",
+        "pointsAgainst": "39"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LA leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-03T02:30:00Z",
+          "home": "LA Galaxy",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-07-05T02:30:00Z",
+          "home": "LA Galaxy",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-02T22:00:00Z",
+          "home": "Vancouver Whitecaps",
+          "away": "LA Galaxy",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-22T02:30:00Z",
+          "home": "LA Galaxy",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-14T02:30:00Z",
+          "home": "Vancouver Whitecaps",
+          "away": "LA Galaxy",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Twente",
+    "away": "Telstar",
+    "date": "2026-09-09T16:45:00.000Z",
+    "league": "Eredivisie",
+    "sport": "soccer",
+    "espnSport": "soccer_eredivisie",
+    "gameId": "401875612",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "5",
+        "wins": "3",
+        "losses": "1",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "10",
+        "pointsAgainst": "5"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "1",
+        "losses": "3",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "5",
+        "pointsAgainst": "11"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TWE leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-02-15T13:30:00Z",
+          "home": "Telstar",
+          "away": "FC Twente",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-07T19:00:00Z",
+          "home": "FC Twente",
+          "away": "Telstar",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-01-10T17:45:00Z",
+          "home": "FC Twente",
+          "away": "Telstar",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-04-12T18:00:00Z",
+          "home": "FC Twente",
+          "away": "Telstar",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2018-09-21T18:00:00Z",
+          "home": "Telstar",
+          "away": "FC Twente",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Venezia",
+    "away": "Fiorentina",
+    "date": "2026-09-11T18:45:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874759",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "18",
+        "wins": "0",
+        "losses": "3",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "2",
+        "pointsAgainst": "7"
+      },
+      "away": {
+        "rank": "20",
+        "wins": "0",
+        "losses": "3",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "1",
+        "pointsAgainst": "9"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "VEN leads series 2-1-1",
+      "totalGames": 4,
+      "games": [
+        {
+          "date": "2025-05-12T16:30:00Z",
+          "home": "Venezia",
+          "away": "Fiorentina",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-25T16:30:00Z",
+          "home": "Fiorentina",
+          "away": "Venezia",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-04-16T14:30:00Z",
+          "home": "Fiorentina",
+          "away": "Venezia",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-10-18T18:45:00Z",
+          "home": "Venezia",
+          "away": "Fiorentina",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Darmstadt",
+    "away": "Arminia Bielefeld",
+    "date": "2026-09-11T16:30:00.000Z",
+    "league": "2. Bundesliga",
+    "sport": "soccer",
+    "espnSport": "soccer_bundesliga2",
+    "gameId": "401885117",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "18",
+        "wins": "0",
+        "losses": "3",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "2",
+        "pointsAgainst": "7"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "1",
+        "losses": "2",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "7",
+        "pointsAgainst": "8"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "DSC leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-04T11:00:00Z",
+          "home": "Arminia Bielefeld",
+          "away": "SV Darmstadt 98",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-01T19:30:00Z",
+          "home": "SV Darmstadt 98",
+          "away": "Arminia Bielefeld",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-03-11T12:00:00Z",
+          "home": "Arminia Bielefeld",
+          "away": "SV Darmstadt 98",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-09-04T11:30:00Z",
+          "home": "SV Darmstadt 98",
+          "away": "Arminia Bielefeld",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-06-18T18:30:00Z",
+          "home": "Arminia Bielefeld",
+          "away": "SV Darmstadt 98",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "1. FC Nürnberg",
+    "away": "Hannover 96",
+    "date": "2026-09-11T16:30:00.000Z",
+    "league": "2. Bundesliga",
+    "sport": "soccer",
+    "espnSport": "soccer_bundesliga2",
+    "gameId": "401885116",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "3",
+        "losses": "0",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "13",
+        "pointsAgainst": "5"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "1",
+        "losses": "2",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "4",
+        "pointsAgainst": "6"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "H96 leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-17T13:30:00Z",
+          "home": "Hannover 96",
+          "away": "1. FC Nürnberg",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-21T12:30:00Z",
+          "home": "1. FC Nürnberg",
+          "away": "Hannover 96",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-01T12:00:00Z",
+          "home": "1. FC Nürnberg",
+          "away": "Hannover 96",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-29T11:30:00Z",
+          "home": "Hannover 96",
+          "away": "1. FC Nürnberg",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-08-06T11:30:00Z",
+          "home": "1. FC Nürnberg",
+          "away": "Hannover 96",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "AZ Alkmaar",
+    "away": "Willem II",
+    "date": "2026-09-11T18:00:00.000Z",
+    "league": "Eredivisie",
+    "sport": "soccer",
+    "espnSport": "soccer_eredivisie",
+    "gameId": "401875611",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "5",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "16",
+        "pointsAgainst": "5"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "0",
+        "losses": "3",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "4",
+        "pointsAgainst": "13"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "AZ leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-02-02T19:00:00Z",
+          "home": "Willem II",
+          "away": "AZ Alkmaar",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-11-10T15:45:00Z",
+          "home": "AZ Alkmaar",
+          "away": "Willem II",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-03-20T19:00:00Z",
+          "home": "Willem II",
+          "away": "AZ Alkmaar",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-12-18T19:00:00Z",
+          "home": "AZ Alkmaar",
+          "away": "Willem II",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-04-03T18:00:00Z",
+          "home": "Willem II",
+          "away": "AZ Alkmaar",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Tottenham Hotspur",
+    "away": "Everton",
+    "date": "2026-09-12T16:30:00.000Z",
+    "league": "Premier League",
+    "sport": "soccer",
+    "espnSport": "soccer_epl",
+    "gameId": "401879277",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "18",
+        "wins": "0",
+        "losses": "2",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "0",
+        "pointsAgainst": "5"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "1",
+        "losses": "0",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "5",
+        "pointsAgainst": "3"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TOT leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-24T15:00:00Z",
+          "home": "Tottenham Hotspur",
+          "away": "Everton",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-26T16:30:00Z",
+          "home": "Everton",
+          "away": "Tottenham Hotspur",
+          "homeScore": 0,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-01-19T14:00:00Z",
+          "home": "Everton",
+          "away": "Tottenham Hotspur",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-24T14:00:00Z",
+          "home": "Tottenham Hotspur",
+          "away": "Everton",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-02-03T12:30:00Z",
+          "home": "Everton",
+          "away": "Tottenham Hotspur",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Sunderland",
+    "away": "Arsenal",
+    "date": "2026-09-12T19:00:00.000Z",
+    "league": "Premier League",
+    "sport": "soccer",
+    "espnSport": "soccer_epl",
+    "gameId": "401878779",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "1",
+        "losses": "1",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "3",
+        "pointsAgainst": "3"
+      },
+      "away": {
+        "rank": "2",
+        "wins": "3",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "1"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ARS leads series 4-0-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-02-07T15:00:00Z",
+          "home": "Arsenal",
+          "away": "Sunderland",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-08T17:30:00Z",
+          "home": "Sunderland",
+          "away": "Arsenal",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-12-21T19:45:00Z",
+          "home": "Arsenal",
+          "away": "Sunderland",
+          "homeScore": 5,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2017-05-16T18:45:00Z",
+          "home": "Arsenal",
+          "away": "Sunderland",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-10-29T11:30:00Z",
+          "home": "Sunderland",
+          "away": "Arsenal",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Lorient",
+    "away": "Toulouse",
+    "date": "2026-09-12T18:45:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876461",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "1",
+        "losses": "1",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "2",
+        "pointsAgainst": "2"
+      },
+      "away": {
+        "rank": "17",
+        "wins": "0",
+        "losses": "2",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "2",
+        "pointsAgainst": "5"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TOU leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-21T16:00:00Z",
+          "home": "Toulouse",
+          "away": "Lorient",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-09T14:00:00Z",
+          "home": "Lorient",
+          "away": "Toulouse",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-28T13:00:00Z",
+          "home": "Lorient",
+          "away": "Toulouse",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-12-03T14:00:00Z",
+          "home": "Toulouse",
+          "away": "Lorient",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-04-23T13:00:00Z",
+          "home": "Lorient",
+          "away": "Toulouse",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Paris FC",
+    "away": "Lyon",
+    "date": "2026-09-12T18:45:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876460",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "2",
+        "losses": "0",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "2"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "2",
+        "losses": "0",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "2"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": null,
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-03-08T19:45:00Z",
+          "home": "Lyon",
+          "away": "Paris FC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-29T20:05:00Z",
+          "home": "Paris FC",
+          "away": "Lyon",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Columbus Crew",
+    "away": "Red Bull New York",
+    "date": "2026-09-12T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761804",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "6",
+        "losses": "13",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "35",
+        "pointsAgainst": "41"
+      },
+      "away": {
+        "rank": "12",
+        "wins": "7",
+        "losses": "11",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "32",
+        "pointsAgainst": "48"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "RBNY leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-13T23:30:00Z",
+          "home": "Red Bull New York",
+          "away": "Columbus Crew",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-18T22:00:00Z",
+          "home": "Columbus Crew",
+          "away": "Red Bull New York",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-30T23:30:00Z",
+          "home": "Red Bull New York",
+          "away": "Columbus Crew",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-11-03T21:30:00Z",
+          "home": "Red Bull New York",
+          "away": "Columbus Crew",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-29T22:45:00Z",
+          "home": "Columbus Crew",
+          "away": "Red Bull New York",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "DC United",
+    "away": "Atlanta United",
+    "date": "2026-09-12T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761803",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "6",
+        "losses": "7",
+        "ties": "10",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "30",
+        "pointsAgainst": "37"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "6",
+        "losses": "14",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "29",
+        "pointsAgainst": "43"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "series tied 1-1-3",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-21T23:30:00Z",
+          "home": "Atlanta United FC",
+          "away": "D.C. United",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-18T22:00:00Z",
+          "home": "Atlanta United FC",
+          "away": "D.C. United",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-07-05T23:30:00Z",
+          "home": "D.C. United",
+          "away": "Atlanta United FC",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-27T00:00:00Z",
+          "home": "Atlanta United FC",
+          "away": "D.C. United",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-19T23:30:00Z",
+          "home": "D.C. United",
+          "away": "Atlanta United FC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Cincinnati",
+    "away": "Charlotte FC",
+    "date": "2026-09-12T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761802",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "8",
+        "losses": "8",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "49",
+        "pointsAgainst": "56"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "11",
+        "losses": "7",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "42",
+        "pointsAgainst": "33"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CLT leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-09T23:30:00Z",
+          "home": "Charlotte FC",
+          "away": "FC Cincinnati",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-10T22:00:00Z",
+          "home": "FC Cincinnati",
+          "away": "Charlotte FC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-15T23:30:00Z",
+          "home": "Charlotte FC",
+          "away": "FC Cincinnati",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-13T23:30:00Z",
+          "home": "FC Cincinnati",
+          "away": "Charlotte FC",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-03-30T23:30:00Z",
+          "home": "Charlotte FC",
+          "away": "FC Cincinnati",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Inter Miami CF",
+    "away": "Nashville SC",
+    "date": "2026-09-12T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761800",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "12",
+        "losses": "4",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "59",
+        "pointsAgainst": "44"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "16",
+        "losses": "3",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "48",
+        "pointsAgainst": "19"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NSH leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-16T00:30:00Z",
+          "home": "Nashville SC",
+          "away": "Inter Miami CF",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-03-18T23:00:00Z",
+          "home": "Inter Miami CF",
+          "away": "Nashville SC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-03-11T23:30:00Z",
+          "home": "Nashville SC",
+          "away": "Inter Miami CF",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-09T01:00:00Z",
+          "home": "Inter Miami CF",
+          "away": "Nashville SC",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-01T23:30:00Z",
+          "home": "Nashville SC",
+          "away": "Inter Miami CF",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Orlando City",
+    "away": "Toronto FC",
+    "date": "2026-09-12T23:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761801",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "6",
+        "wins": "9",
+        "losses": "11",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "41",
+        "pointsAgainst": "56"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "6",
+        "losses": "7",
+        "ties": "11",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "38",
+        "pointsAgainst": "43"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ORL leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-10-18T22:00:00Z",
+          "home": "Toronto FC",
+          "away": "Orlando City SC",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-02T00:30:00Z",
+          "home": "Orlando City SC",
+          "away": "Toronto FC",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-03T23:30:00Z",
+          "home": "Toronto FC",
+          "away": "Orlando City SC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-27T23:30:00Z",
+          "home": "Orlando City SC",
+          "away": "Toronto FC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-10-21T22:20:00Z",
+          "home": "Toronto FC",
+          "away": "Orlando City SC",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Dallas",
+    "away": "Portland Timbers",
+    "date": "2026-09-13T00:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761805",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "11",
+        "losses": "6",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "47",
+        "pointsAgainst": "41"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "9",
+        "losses": "10",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "46",
+        "pointsAgainst": "45"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "DAL leads series 2-0-3",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-07-23T02:30:00Z",
+          "home": "Portland Timbers",
+          "away": "FC Dallas",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-28T02:30:00Z",
+          "home": "Portland Timbers",
+          "away": "FC Dallas",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-10T00:30:00Z",
+          "home": "FC Dallas",
+          "away": "Portland Timbers",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-06T23:00:00Z",
+          "home": "Portland Timbers",
+          "away": "FC Dallas",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-05T00:30:00Z",
+          "home": "FC Dallas",
+          "away": "Portland Timbers",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Sporting Kansas City",
+    "away": "Los Angeles FC",
+    "date": "2026-09-13T00:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761806",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "4",
+        "losses": "16",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "23",
+        "pointsAgainst": "58"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "11",
+        "losses": "7",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "40",
+        "pointsAgainst": "24"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LAFC leads series 5-0",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-07-26T02:30:00Z",
+          "home": "LAFC",
+          "away": "Sporting Kansas City",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-06-09T01:00:00Z",
+          "home": "LAFC",
+          "away": "Sporting Kansas City",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-23T00:30:00Z",
+          "home": "Sporting Kansas City",
+          "away": "LAFC",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-06T00:30:00Z",
+          "home": "Sporting Kansas City",
+          "away": "LAFC",
+          "homeScore": 0,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-26T02:30:00Z",
+          "home": "LAFC",
+          "away": "Sporting Kansas City",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Colorado Rapids",
+    "away": "CF Montréal",
+    "date": "2026-09-13T01:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761808",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "10",
+        "losses": "12",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "32",
+        "pointsAgainst": "32"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "5",
+        "losses": "13",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "31",
+        "pointsAgainst": "50"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "COL leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2024-06-23T01:30:00Z",
+          "home": "Colorado Rapids",
+          "away": "CF Montréal",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-08-04T01:00:00Z",
+          "home": "Colorado Rapids",
+          "away": "CF Montréal",
+          "homeScore": 6,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2018-07-07T23:30:00Z",
+          "home": "CF Montréal",
+          "away": "Colorado Rapids",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2017-10-01T01:00:00Z",
+          "home": "Colorado Rapids",
+          "away": "CF Montréal",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-04-30T20:00:00Z",
+          "home": "CF Montréal",
+          "away": "Colorado Rapids",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Real Salt Lake",
+    "away": "New York City FC",
+    "date": "2026-09-13T01:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761809",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "8",
+        "losses": "10",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "37",
+        "pointsAgainst": "37"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "7",
+        "losses": "9",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "37",
+        "pointsAgainst": "33"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2023-06-11T01:30:00Z",
+          "home": "Real Salt Lake",
+          "away": "New York City FC",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-04-17T17:00:00Z",
+          "home": "New York City FC",
+          "away": "Real Salt Lake",
+          "homeScore": 6,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-08-04T02:00:00Z",
+          "home": "Real Salt Lake",
+          "away": "New York City FC",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2018-04-11T23:00:00Z",
+          "home": "New York City FC",
+          "away": "Real Salt Lake",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2017-05-18T01:00:00Z",
+          "home": "Real Salt Lake",
+          "away": "New York City FC",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "LA Galaxy",
+    "away": "Seattle Sounders FC",
+    "date": "2026-09-13T02:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761811",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "7",
+        "losses": "10",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "30",
+        "pointsAgainst": "39"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "7",
+        "losses": "9",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "24",
+        "pointsAgainst": "29"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-17T01:15:00Z",
+          "home": "Seattle Sounders FC",
+          "away": "LA Galaxy",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-14T00:30:00Z",
+          "home": "Seattle Sounders FC",
+          "away": "LA Galaxy",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-28T02:45:00Z",
+          "home": "LA Galaxy",
+          "away": "Seattle Sounders FC",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-11T02:00:00Z",
+          "home": "LA Galaxy",
+          "away": "Seattle Sounders FC",
+          "homeScore": 0,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-12-01T03:00:00Z",
+          "home": "LA Galaxy",
+          "away": "Seattle Sounders FC",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Jose Earthquakes",
+    "away": "Houston Dynamo FC",
+    "date": "2026-09-13T02:30:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761810",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "5",
+        "wins": "11",
+        "losses": "8",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "43",
+        "pointsAgainst": "36"
+      },
+      "away": {
+        "rank": "2",
+        "wins": "13",
+        "losses": "7",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "32",
+        "pointsAgainst": "27"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "HOU leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-30T00:30:00Z",
+          "home": "Houston Dynamo FC",
+          "away": "San Jose Earthquakes",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-24T00:30:00Z",
+          "home": "Houston Dynamo FC",
+          "away": "San Jose Earthquakes",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-25T02:30:00Z",
+          "home": "San Jose Earthquakes",
+          "away": "Houston Dynamo FC",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-18T02:30:00Z",
+          "home": "San Jose Earthquakes",
+          "away": "Houston Dynamo FC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-03-31T00:30:00Z",
+          "home": "Houston Dynamo FC",
+          "away": "San Jose Earthquakes",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Lazio",
+    "away": "Milan",
+    "date": "2026-09-12T16:00:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874941",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "3",
+        "losses": "0",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "4",
+        "pointsAgainst": "1"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "2",
+        "losses": "0",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "5",
+        "pointsAgainst": "2"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LAZ leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-15T19:45:00Z",
+          "home": "Lazio",
+          "away": "AC Milan",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-04T20:00:00Z",
+          "home": "Lazio",
+          "away": "AC Milan",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-29T19:45:00Z",
+          "home": "AC Milan",
+          "away": "Lazio",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-02T19:45:00Z",
+          "home": "AC Milan",
+          "away": "Lazio",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-31T18:45:00Z",
+          "home": "Lazio",
+          "away": "AC Milan",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Atalanta",
+    "away": "Cagliari",
+    "date": "2026-09-12T18:45:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874979",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "2",
+        "losses": "1",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "4",
+        "pointsAgainst": "3"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "2",
+        "losses": "1",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "2",
+        "pointsAgainst": "1"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-27T16:30:00Z",
+          "home": "Cagliari",
+          "away": "Atalanta",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-13T19:45:00Z",
+          "home": "Atalanta",
+          "away": "Cagliari",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-02-15T14:00:00Z",
+          "home": "Atalanta",
+          "away": "Cagliari",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-12-14T14:00:00Z",
+          "home": "Cagliari",
+          "away": "Atalanta",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-07T16:00:00Z",
+          "home": "Cagliari",
+          "away": "Atalanta",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "St. Pauli",
+    "away": "Wolfsburg",
+    "date": "2026-09-12T18:30:00.000Z",
+    "league": "2. Bundesliga",
+    "sport": "soccer",
+    "espnSport": "soccer_bundesliga2",
+    "gameId": "401885119",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "0",
+        "losses": "1",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "7"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "2",
+        "losses": "0",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "10",
+        "pointsAgainst": "6"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "WOB leads series 2-0-3",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-16T13:30:00Z",
+          "home": "St. Pauli",
+          "away": "VfL Wolfsburg",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-01-14T17:30:00Z",
+          "home": "VfL Wolfsburg",
+          "away": "St. Pauli",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-08T14:30:00Z",
+          "home": "VfL Wolfsburg",
+          "away": "St. Pauli",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-26T13:30:00Z",
+          "home": "St. Pauli",
+          "away": "VfL Wolfsburg",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2011-04-16T13:30:00Z",
+          "home": "VfL Wolfsburg",
+          "away": "St. Pauli",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Go Ahead Eagles",
+    "away": "FC Groningen",
+    "date": "2026-09-12T16:45:00.000Z",
+    "league": "Eredivisie",
+    "sport": "soccer",
+    "espnSport": "soccer_eredivisie",
+    "gameId": "401875609",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "2",
+        "losses": "1",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "14",
+        "pointsAgainst": "12"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "2",
+        "losses": "2",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "11",
+        "pointsAgainst": "12"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "GAE leads series 2-0-3",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-11T18:00:00Z",
+          "home": "FC Groningen",
+          "away": "Go Ahead Eagles",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-21T13:30:00Z",
+          "home": "Go Ahead Eagles",
+          "away": "FC Groningen",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-01-18T20:00:00Z",
+          "home": "Go Ahead Eagles",
+          "away": "FC Groningen",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-29T12:30:00Z",
+          "home": "FC Groningen",
+          "away": "Go Ahead Eagles",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-05-07T12:30:00Z",
+          "home": "Go Ahead Eagles",
+          "away": "FC Groningen",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Racing",
+    "away": "Boston River",
+    "date": "2026-09-12T16:00:00.000Z",
+    "league": "Liga AUF Uruguaya Clausura",
+    "sport": "soccer",
+    "espnSport": "soccer_uruguay",
+    "gameId": "401916232",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "6",
+        "wins": "2",
+        "losses": "1",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "5",
+        "pointsAgainst": "3"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "2",
+        "losses": "1",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "5"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "RAC leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-02T15:00:00Z",
+          "home": "Racing (Montevideo)",
+          "away": "Boston River",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-03-14T20:00:00Z",
+          "home": "Boston River",
+          "away": "Racing (Montevideo)",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-03-05T22:00:00Z",
+          "home": "Boston River",
+          "away": "Racing (Montevideo)",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-13T16:00:00Z",
+          "home": "Racing (Montevideo)",
+          "away": "Boston River",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-23T18:00:00Z",
+          "home": "Racing (Montevideo)",
+          "away": "Boston River",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Montevideo Wanderers",
+    "away": "Nacional",
+    "date": "2026-09-12T19:30:00.000Z",
+    "league": "Liga AUF Uruguaya Clausura",
+    "sport": "soccer",
+    "espnSport": "soccer_uruguay",
+    "gameId": "401916233",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "2",
+        "losses": "2",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "8"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "2",
+        "losses": "2",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "5",
+        "pointsAgainst": "6"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NAC leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-07-17T22:30:00Z",
+          "home": "Nacional",
+          "away": "Montevideo Wanderers",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-03-13T23:00:00Z",
+          "home": "Nacional",
+          "away": "Montevideo Wanderers",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-26T21:30:00Z",
+          "home": "Montevideo Wanderers",
+          "away": "Nacional",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-26T23:15:00Z",
+          "home": "Nacional",
+          "away": "Montevideo Wanderers",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-15T22:30:00Z",
+          "home": "Montevideo Wanderers",
+          "away": "Nacional",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Detroit Tigers",
+    "away": "Minnesota Twins",
+    "date": "2026-09-09T17:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816872",
+    "injuries": {
+      "home": [
+        {
+          "name": "Kerry Carpenter",
+          "status": "10-Day-IL",
+          "detail": "Plantar Fasciitis"
+        },
+        {
+          "name": "Wenceel Perez",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Parker Meadows",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Jack Flaherty",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Justin Verlander",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Byron Buxton",
+          "status": "10-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Mike Paredes",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Mick Abel",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Cole Sands",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "David Festa",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "67",
+        "losses": "79",
+        "ties": "0",
+        "winPercent": ".459",
+        "gamesBehind": "20",
+        "pointsFor": "641",
+        "pointsAgainst": "586"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "69",
+        "losses": "77",
+        "ties": "0",
+        "winPercent": ".473",
+        "gamesBehind": "18",
+        "pointsFor": "675",
+        "pointsAgainst": "728"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIN wins series 8-5",
+      "totalGames": 12,
+      "games": [
+        {
+          "date": "2026-04-06T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Detroit Tigers",
+          "homeScore": 7,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-07T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Detroit Tigers",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-08T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Detroit Tigers",
+          "homeScore": 8,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-09T17:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Detroit Tigers",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-09T22:40:00Z",
+          "home": "Detroit Tigers",
+          "away": "Minnesota Twins",
+          "homeScore": 10,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-10T22:40:00Z",
+          "home": "Detroit Tigers",
+          "away": "Minnesota Twins",
+          "homeScore": 4,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-11T17:10:00Z",
+          "home": "Detroit Tigers",
+          "away": "Minnesota Twins",
+          "homeScore": 11,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-31T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Detroit Tigers",
+          "homeScore": 11,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-01T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Detroit Tigers",
+          "homeScore": 15,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-02T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Detroit Tigers",
+          "homeScore": 6,
+          "awayScore": 11,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-07T19:10:00Z",
+          "home": "Detroit Tigers",
+          "away": "Minnesota Twins",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-08T22:40:00Z",
+          "home": "Detroit Tigers",
+          "away": "Minnesota Twins",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Athletics",
+    "away": "Toronto Blue Jays",
+    "date": "2026-09-09T19:05:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816881",
+    "injuries": {
+      "home": [
+        {
+          "name": "Shea Langeliers",
+          "status": "10-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Brooks Kriske",
+          "status": "60-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "J.T. Ginn",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Joshua Kuroda-Grauer",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Nick Kurtz",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "George Springer",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Luis Urias",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Anthony Santander",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Trey Yesavage",
+          "status": "15-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Jameson Taillon",
+          "status": "15-Day-IL",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "59",
+        "losses": "88",
+        "ties": "0",
+        "winPercent": ".401",
+        "gamesBehind": "28.5",
+        "pointsFor": "641",
+        "pointsAgainst": "828"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "73",
+        "losses": "74",
+        "ties": "0",
+        "winPercent": ".497",
+        "gamesBehind": "14.5",
+        "pointsFor": "589",
+        "pointsAgainst": "628"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TOR wins series 4-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-27T23:07:00Z",
+          "home": "Toronto Blue Jays",
+          "away": "Athletics",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-03-28T19:07:00Z",
+          "home": "Toronto Blue Jays",
+          "away": "Athletics",
+          "homeScore": 8,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-03-29T17:37:00Z",
+          "home": "Toronto Blue Jays",
+          "away": "Athletics",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-08T02:05:00Z",
+          "home": "Athletics",
+          "away": "Toronto Blue Jays",
+          "homeScore": 6,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T01:40:00Z",
+          "home": "Athletics",
+          "away": "Toronto Blue Jays",
+          "homeScore": 2,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Francisco Giants",
+    "away": "St.Louis Cardinals",
+    "date": "2026-09-09T19:45:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816879",
+    "injuries": {
+      "home": [
+        {
+          "name": "Victor Bericoto",
+          "status": "10-Day-IL",
+          "detail": "Bruise"
+        },
+        {
+          "name": "JT Brubaker",
+          "status": "15-Day-IL",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Matt Gage",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Willy Adames",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Marcelo Mayer",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
+        }
+      ],
+      "away": [
+        {
+          "name": "Masyn Winn",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Peter Strzelecki",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "JJ Wetherholt",
+          "status": "10-Day-IL",
+          "detail": "Tendinitis"
+        },
+        {
+          "name": "Everson Pereira",
+          "status": "10-Day-IL",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Blaze Jordan",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "62",
+        "losses": "85",
+        "ties": "0",
+        "winPercent": ".422",
+        "gamesBehind": "29",
+        "pointsFor": "617",
+        "pointsAgainst": "689"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "72",
+        "losses": "75",
+        "ties": "0",
+        "winPercent": ".490",
+        "gamesBehind": "19",
+        "pointsFor": "668",
+        "pointsAgainst": "680"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SF leads series 3-0",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-09-08T00:10:00Z",
+          "home": "San Francisco Giants",
+          "away": "St. Louis Cardinals",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T01:45:00Z",
+          "home": "San Francisco Giants",
+          "away": "St. Louis Cardinals",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Diego Padres",
+    "away": "Washington Nationals",
+    "date": "2026-09-09T20:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816882",
+    "injuries": {
+      "home": [
+        {
+          "name": "Gavin Sheets",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Jeremiah Estrada",
+          "status": "15-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Lucas Giolito",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Miguel Andujar",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Jason Adam",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Richard Lovelady",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "DJ Herz",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "PJ Poulin",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Nasim Nunez",
+          "status": "bereavement",
+          "detail": ""
+        },
+        {
+          "name": "Connelly Early",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "6",
+        "wins": "78",
+        "losses": "68",
+        "ties": "0",
+        "winPercent": ".534",
+        "gamesBehind": "12.5",
+        "pointsFor": "619",
+        "pointsAgainst": "602"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "67",
+        "losses": "81",
+        "ties": "0",
+        "winPercent": ".453",
+        "gamesBehind": "24.5",
+        "pointsFor": "756",
+        "pointsAgainst": "756"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SD wins series 4-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-29T22:45:00Z",
+          "home": "Washington Nationals",
+          "away": "San Diego Padres",
+          "homeScore": 5,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-30T20:05:00Z",
+          "home": "Washington Nationals",
+          "away": "San Diego Padres",
+          "homeScore": 9,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-31T17:35:00Z",
+          "home": "Washington Nationals",
+          "away": "San Diego Padres",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-07T21:10:00Z",
+          "home": "San Diego Padres",
+          "away": "Washington Nationals",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T01:40:00Z",
+          "home": "San Diego Padres",
+          "away": "Washington Nationals",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Seattle Mariners",
+    "away": "Texas Rangers",
+    "date": "2026-09-09T20:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816880",
+    "injuries": {
+      "home": [
+        {
+          "name": "Brendan Donovan",
+          "status": "7-Day IL",
+          "detail": "Concussion"
+        },
+        {
+          "name": "Brennen Davis",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Will Wilson",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Emerson Hancock",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Cole Wilcox",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kyle Higashioka",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Josh Jung",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Carter Baumler",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Cole Winn",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Nathan Eovaldi",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "69",
+        "losses": "78",
+        "ties": "0",
+        "winPercent": ".469",
+        "gamesBehind": "18.5",
+        "pointsFor": "581",
+        "pointsAgainst": "655"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "72",
+        "losses": "75",
+        "ties": "0",
+        "winPercent": ".490",
+        "gamesBehind": "15.5",
+        "pointsFor": "610",
+        "pointsAgainst": "651"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TEX leads series 8-4",
+      "totalGames": 11,
+      "games": [
+        {
+          "date": "2026-04-07T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-08T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-08T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-18T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 0,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-18T23:15:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 7,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-19T20:10:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-25T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-25T23:15:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 7,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-26T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 4,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-27T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 7,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 5,
+          "awayScore": 10,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Baltimore Orioles",
+    "away": "Cleveland Guardians",
+    "date": "2026-09-09T22:35:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816869",
+    "injuries": {
+      "home": [
+        {
+          "name": "Gunnar Henderson",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Luis Robert Jr.",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Christian Franklin",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Ryan Helsley",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Blaze Alexander",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        }
+      ],
+      "away": [
+        {
+          "name": "Rhys Hoskins",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Colin Holderman",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Shawn Armstrong",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "71",
+        "losses": "76",
+        "ties": "0",
+        "winPercent": ".483",
+        "gamesBehind": "16.5",
+        "pointsFor": "661",
+        "pointsAgainst": "688"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "74",
+        "losses": "73",
+        "ties": "0",
+        "winPercent": ".503",
+        "gamesBehind": "13.5",
+        "pointsFor": "598",
+        "pointsAgainst": "614"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CLE wins series 4-3",
+      "totalGames": 6,
+      "games": [
+        {
+          "date": "2026-04-16T22:10:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Baltimore Orioles",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-17T22:10:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Baltimore Orioles",
+          "homeScore": 4,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-18T22:10:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Baltimore Orioles",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-19T17:40:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Baltimore Orioles",
+          "homeScore": 8,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-07T17:35:00Z",
+          "home": "Baltimore Orioles",
+          "away": "Cleveland Guardians",
+          "homeScore": 6,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-08T22:35:00Z",
+          "home": "Baltimore Orioles",
+          "away": "Cleveland Guardians",
+          "homeScore": 5,
+          "awayScore": 9,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Philadelphia Phillies",
+    "away": "Houston Astros",
+    "date": "2026-09-09T22:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816871",
+    "injuries": {
+      "home": [
+        {
+          "name": "Brandon Marsh",
+          "status": "Day-To-Day",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Tanner Banks",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Caleb Kilian",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Felix Reyes",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Johan Rojas",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Brice Matthews",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Steven Okert",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Mike Burrows",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Carlos Correa",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Brandon Walter",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "82",
+        "losses": "65",
+        "ties": "0",
+        "winPercent": ".558",
+        "gamesBehind": "9",
+        "pointsFor": "659",
+        "pointsAgainst": "622"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "75",
+        "losses": "72",
+        "ties": "0",
+        "winPercent": ".510",
+        "gamesBehind": "12.5",
+        "pointsFor": "662",
+        "pointsAgainst": "702"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 1-1",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-09-08T22:40:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Houston Astros",
+          "homeScore": 5,
+          "awayScore": 6,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Miami Marlins",
+    "away": "New York Mets",
+    "date": "2026-09-09T22:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816873",
+    "injuries": {
+      "home": [
+        {
+          "name": "Xavier Edwards",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Max Meyer",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Anthony Bender",
+          "status": "15-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Ronny Henriquez",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Adam Mazur",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Brett Baty",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Cionel Perez",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Devin Williams",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jorge Polanco",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Reed Garrett",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "72",
+        "losses": "75",
+        "ties": "0",
+        "winPercent": ".490",
+        "gamesBehind": "19",
+        "pointsFor": "654",
+        "pointsAgainst": "647"
+      },
+      "away": {
+        "rank": "12",
+        "wins": "68",
+        "losses": "78",
+        "ties": "0",
+        "winPercent": ".466",
+        "gamesBehind": "22.5",
+        "pointsFor": "627",
+        "pointsAgainst": "667"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NYM win series 7-6",
+      "totalGames": 12,
+      "games": [
+        {
+          "date": "2026-05-22T23:10:00Z",
+          "home": "Miami Marlins",
+          "away": "New York Mets",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-23T20:10:00Z",
+          "home": "Miami Marlins",
+          "away": "New York Mets",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-24T17:40:00Z",
+          "home": "Miami Marlins",
+          "away": "New York Mets",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-29T23:10:00Z",
+          "home": "New York Mets",
+          "away": "Miami Marlins",
+          "homeScore": 9,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-30T20:10:00Z",
+          "home": "New York Mets",
+          "away": "Miami Marlins",
+          "homeScore": 6,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-31T17:40:00Z",
+          "home": "New York Mets",
+          "away": "Miami Marlins",
+          "homeScore": 10,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-30T23:10:00Z",
+          "home": "New York Mets",
+          "away": "Miami Marlins",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-31T23:10:00Z",
+          "home": "New York Mets",
+          "away": "Miami Marlins",
+          "homeScore": 2,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-01T20:10:00Z",
+          "home": "New York Mets",
+          "away": "Miami Marlins",
+          "homeScore": 2,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-02T17:40:00Z",
+          "home": "New York Mets",
+          "away": "Miami Marlins",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-07T17:10:00Z",
+          "home": "Miami Marlins",
+          "away": "New York Mets",
+          "homeScore": 4,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-08T22:40:00Z",
+          "home": "Miami Marlins",
+          "away": "New York Mets",
+          "homeScore": 5,
+          "awayScore": 7,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Boston Red Sox",
+    "away": "Los Angeles Angels",
+    "date": "2026-09-09T22:45:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816868",
+    "injuries": {
+      "home": [
+        {
+          "name": "Adley Rutschman",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Willson Contreras",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Ceddanne Rafaela",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Curtis Mead",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Tyron Guerrero",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Nolan Schanuel",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Sam Bachman",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Yoan Moncada",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Gustavo Campero",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "George Klassen",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "80",
+        "losses": "67",
+        "ties": "0",
+        "winPercent": ".544",
+        "gamesBehind": "7.5",
+        "pointsFor": "652",
+        "pointsAgainst": "570"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "56",
+        "losses": "90",
+        "ties": "0",
+        "winPercent": ".384",
+        "gamesBehind": "31",
+        "pointsFor": "591",
+        "pointsAgainst": "664"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "BOS wins series 4-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-07-04T01:38:00Z",
+          "home": "Los Angeles Angels",
+          "away": "Boston Red Sox",
+          "homeScore": 2,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-05T01:38:00Z",
+          "home": "Los Angeles Angels",
+          "away": "Boston Red Sox",
+          "homeScore": 1,
+          "awayScore": 8,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-06T01:30:00Z",
+          "home": "Los Angeles Angels",
+          "away": "Boston Red Sox",
+          "homeScore": 5,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-07T17:35:00Z",
+          "home": "Boston Red Sox",
+          "away": "Los Angeles Angels",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-08T22:45:00Z",
+          "home": "Boston Red Sox",
+          "away": "Los Angeles Angels",
+          "homeScore": 1,
+          "awayScore": 6,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "New York Yankees",
+    "away": "Colorado Rockies",
+    "date": "2026-09-09T23:05:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816870",
+    "injuries": {
+      "home": [
+        {
+          "name": "Clarke Schmidt",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Ryan Weathers",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Fernando Cruz",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Trent Grisham",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Giancarlo Stanton",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Willi Castro",
+          "status": "10-Day-IL",
+          "detail": "Plantar Fasciitis"
+        },
+        {
+          "name": "Kyle Freeland",
+          "status": "15-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Jose Quintana",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Kris Bryant",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "McCade Brown",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "83",
+        "losses": "62",
+        "ties": "0",
+        "winPercent": ".572",
+        "gamesBehind": "3.5",
+        "pointsFor": "657",
+        "pointsAgainst": "533"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "55",
+        "losses": "90",
+        "ties": "0",
+        "winPercent": ".379",
+        "gamesBehind": "35",
+        "pointsFor": "683",
+        "pointsAgainst": "830"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NYY lead series 2-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-09-08T23:05:00Z",
+          "home": "New York Yankees",
+          "away": "Colorado Rockies",
+          "homeScore": 5,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Atlanta Braves",
+    "away": "Tampa Bay Rays",
+    "date": "2026-09-09T23:15:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816874",
+    "injuries": {
+      "home": [
+        {
+          "name": "Robert Suarez",
+          "status": "60-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Lane Thomas",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Bryce Elder",
+          "status": "15-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Joe Jimenez",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Spencer Strider",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jake Fraley",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Edwin Uceta",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Ben Williamson",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jonathan Heasley",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Taylor Walls",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "86",
+        "losses": "61",
+        "ties": "0",
+        "winPercent": ".585",
+        "gamesBehind": "5",
+        "pointsFor": "671",
+        "pointsAgainst": "561"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "87",
+        "losses": "59",
+        "ties": "0",
+        "winPercent": ".596",
+        "gamesBehind": "-",
+        "pointsFor": "662",
+        "pointsAgainst": "606"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TB leads series 2-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-09-08T23:15:00Z",
+          "home": "Atlanta Braves",
+          "away": "Tampa Bay Rays",
+          "homeScore": 1,
+          "awayScore": 7,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Kansas City Royals",
+    "away": "Arizona Diamondbacks",
+    "date": "2026-09-09T23:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816875",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jac Caglianone",
+          "status": "Day-To-Day",
+          "detail": "Strain"
+        },
+        {
+          "name": "Maikel Garcia",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Tony Gonsolin",
+          "status": "15-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Connor Seabold",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "James McArthur",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Corbin Carroll",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Ryne Nelson",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Ryan Thompson",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "A.J. Puk",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Andrew Saalfrank",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "65",
+        "losses": "82",
+        "ties": "0",
+        "winPercent": ".442",
+        "gamesBehind": "22.5",
+        "pointsFor": "629",
+        "pointsAgainst": "717"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "78",
+        "losses": "69",
+        "ties": "0",
+        "winPercent": ".531",
+        "gamesBehind": "13",
+        "pointsFor": "648",
+        "pointsAgainst": "649"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ARI wins series 2-1",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-09-07T18:10:00Z",
+          "home": "Kansas City Royals",
+          "away": "Arizona Diamondbacks",
+          "homeScore": 4,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-08T23:40:00Z",
+          "home": "Kansas City Royals",
+          "away": "Arizona Diamondbacks",
+          "homeScore": 3,
+          "awayScore": 5,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Milwaukee Brewers",
+    "away": "Chicago Cubs",
+    "date": "2026-09-09T23:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816876",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jake Bauers",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Bryse Wilson",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Rob Zastryzny",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Grant Anderson",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Brandon Woodruff",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Tyler Austin",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Gavin Hollowell",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Edward Cabrera",
+          "status": "15-Day-IL",
+          "detail": "Abrasion"
+        },
+        {
+          "name": "Hunter Harvey",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Shelby Miller",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "91",
+        "losses": "56",
+        "ties": "0",
+        "winPercent": ".619",
+        "gamesBehind": "-",
+        "pointsFor": "742",
+        "pointsAgainst": "570"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "81",
+        "losses": "66",
+        "ties": "0",
+        "winPercent": ".551",
+        "gamesBehind": "10",
+        "pointsFor": "780",
+        "pointsAgainst": "652"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIL wins series 9-4",
+      "totalGames": 12,
+      "games": [
+        {
+          "date": "2026-05-18T23:40:00Z",
+          "home": "Chicago Cubs",
+          "away": "Milwaukee Brewers",
+          "homeScore": 3,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-19T23:40:00Z",
+          "home": "Chicago Cubs",
+          "away": "Milwaukee Brewers",
+          "homeScore": 2,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-20T23:40:00Z",
+          "home": "Chicago Cubs",
+          "away": "Milwaukee Brewers",
+          "homeScore": 0,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-26T23:45:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Chicago Cubs",
+          "homeScore": 6,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-27T23:10:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Chicago Cubs",
+          "homeScore": 2,
+          "awayScore": 8,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-28T18:10:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Chicago Cubs",
+          "homeScore": 3,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-31T23:40:00Z",
+          "home": "Chicago Cubs",
+          "away": "Milwaukee Brewers",
+          "homeScore": 17,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-01T23:40:00Z",
+          "home": "Chicago Cubs",
+          "away": "Milwaukee Brewers",
+          "homeScore": 4,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-02T23:40:00Z",
+          "home": "Chicago Cubs",
+          "away": "Milwaukee Brewers",
+          "homeScore": 5,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-03T23:15:00Z",
+          "home": "Chicago Cubs",
+          "away": "Milwaukee Brewers",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-07T18:10:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Chicago Cubs",
+          "homeScore": 4,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-08T23:40:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Chicago Cubs",
+          "homeScore": 4,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chicago White Sox",
+    "away": "Pittsburgh Pirates",
+    "date": "2026-09-09T23:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816877",
+    "injuries": {
+      "home": [
+        {
+          "name": "Drew Thorpe",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Huascar Brazoban",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Tyler Davis",
+          "status": "bereavement",
+          "detail": ""
+        },
+        {
+          "name": "Tanner Murray",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Tommy Pham",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ryan O'Hearn",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Kirby Yates",
+          "status": "15-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Braxton Ashcraft",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Isaac Mattson",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Mitch Keller",
+          "status": "60-Day-IL",
+          "detail": "Not Specified"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "75",
+        "losses": "70",
+        "ties": "0",
+        "winPercent": ".517",
+        "gamesBehind": "11.5",
+        "pointsFor": "685",
+        "pointsAgainst": "644"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "73",
+        "losses": "73",
+        "ties": "0",
+        "winPercent": ".500",
+        "gamesBehind": "17.5",
+        "pointsFor": "707",
+        "pointsAgainst": "673"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PIT leads series 2-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-09-08T23:40:00Z",
+          "home": "Chicago White Sox",
+          "away": "Pittsburgh Pirates",
+          "homeScore": 3,
+          "awayScore": 9,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Los Angeles Dodgers",
+    "away": "Cincinnati Reds",
+    "date": "2026-09-10T02:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816878",
+    "injuries": {
+      "home": [
+        {
+          "name": "Freddie Freeman",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Kris Bubic",
+          "status": "60-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Edwin Diaz",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Roki Sasaki",
+          "status": "15-Day-IL",
+          "detail": "Abrasion"
+        },
+        {
+          "name": "Dalton Rushing",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        }
+      ],
+      "away": [
+        {
+          "name": "Spencer Steer",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Michael Toglia",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Blake Dunn",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Hunter Greene",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "89",
+        "losses": "57",
+        "ties": "0",
+        "winPercent": ".610",
+        "gamesBehind": "1.5",
+        "pointsFor": "728",
+        "pointsAgainst": "559"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "69",
+        "losses": "77",
+        "ties": "0",
+        "winPercent": ".473",
+        "gamesBehind": "21.5",
+        "pointsFor": "611",
+        "pointsAgainst": "733"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LAD lead series 3-0",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-09-08T01:10:00Z",
+          "home": "Los Angeles Dodgers",
+          "away": "Cincinnati Reds",
+          "homeScore": 6,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T02:10:00Z",
+          "home": "Los Angeles Dodgers",
+          "away": "Cincinnati Reds",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Atlanta Braves",
+    "away": "Tampa Bay Rays",
+    "date": "2026-09-10T16:15:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816885",
+    "injuries": {
+      "home": [
+        {
+          "name": "Robert Suarez",
+          "status": "60-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Lane Thomas",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Bryce Elder",
+          "status": "15-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Joe Jimenez",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Spencer Strider",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jake Fraley",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Edwin Uceta",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Ben Williamson",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jonathan Heasley",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Taylor Walls",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "86",
+        "losses": "61",
+        "ties": "0",
+        "winPercent": ".585",
+        "gamesBehind": "5",
+        "pointsFor": "671",
+        "pointsAgainst": "561"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "87",
+        "losses": "59",
+        "ties": "0",
+        "winPercent": ".596",
+        "gamesBehind": "-",
+        "pointsFor": "662",
+        "pointsAgainst": "606"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TB wins series 2-1",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-09-08T23:15:00Z",
+          "home": "Atlanta Braves",
+          "away": "Tampa Bay Rays",
+          "homeScore": 1,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T23:15:00Z",
+          "home": "Atlanta Braves",
+          "away": "Tampa Bay Rays",
+          "homeScore": 2,
+          "awayScore": 7,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Philadelphia Phillies",
+    "away": "Houston Astros",
+    "date": "2026-09-10T17:05:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816884",
+    "injuries": {
+      "home": [
+        {
+          "name": "Brandon Marsh",
+          "status": "Day-To-Day",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Tanner Banks",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Caleb Kilian",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Felix Reyes",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Johan Rojas",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Brice Matthews",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Steven Okert",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Mike Burrows",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Carlos Correa",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Brandon Walter",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "82",
+        "losses": "65",
+        "ties": "0",
+        "winPercent": ".558",
+        "gamesBehind": "9",
+        "pointsFor": "659",
+        "pointsAgainst": "622"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "75",
+        "losses": "72",
+        "ties": "0",
+        "winPercent": ".510",
+        "gamesBehind": "12.5",
+        "pointsFor": "662",
+        "pointsAgainst": "702"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "HOU wins series 2-1",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-09-08T22:40:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Houston Astros",
+          "homeScore": 5,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T22:40:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Houston Astros",
+          "homeScore": 11,
+          "awayScore": 7,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Seattle Mariners",
+    "away": "Texas Rangers",
+    "date": "2026-09-10T20:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816887",
+    "injuries": {
+      "home": [
+        {
+          "name": "Brendan Donovan",
+          "status": "7-Day IL",
+          "detail": "Concussion"
+        },
+        {
+          "name": "Brennen Davis",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Will Wilson",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Emerson Hancock",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Cole Wilcox",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kyle Higashioka",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Josh Jung",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Carter Baumler",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Cole Winn",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Nathan Eovaldi",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "69",
+        "losses": "78",
+        "ties": "0",
+        "winPercent": ".469",
+        "gamesBehind": "18.5",
+        "pointsFor": "581",
+        "pointsAgainst": "655"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "72",
+        "losses": "75",
+        "ties": "0",
+        "winPercent": ".490",
+        "gamesBehind": "15.5",
+        "pointsFor": "610",
+        "pointsAgainst": "651"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TEX wins series 8-5",
+      "totalGames": 12,
+      "games": [
+        {
+          "date": "2026-04-07T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-08T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-08T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-18T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 0,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-18T23:15:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 7,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-19T20:10:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-25T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-25T23:15:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 7,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-26T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 4,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-27T18:35:00Z",
+          "home": "Texas Rangers",
+          "away": "Seattle Mariners",
+          "homeScore": 7,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 5,
+          "awayScore": 10,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T20:10:00Z",
+          "home": "Seattle Mariners",
+          "away": "Texas Rangers",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "New York Yankees",
+    "away": "Colorado Rockies",
+    "date": "2026-09-10T23:05:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816883",
+    "injuries": {
+      "home": [
+        {
+          "name": "Clarke Schmidt",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Ryan Weathers",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Fernando Cruz",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Trent Grisham",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Giancarlo Stanton",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Willi Castro",
+          "status": "10-Day-IL",
+          "detail": "Plantar Fasciitis"
+        },
+        {
+          "name": "Kyle Freeland",
+          "status": "15-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Jose Quintana",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Kris Bryant",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "McCade Brown",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "83",
+        "losses": "62",
+        "ties": "0",
+        "winPercent": ".572",
+        "gamesBehind": "3.5",
+        "pointsFor": "657",
+        "pointsAgainst": "533"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "55",
+        "losses": "90",
+        "ties": "0",
+        "winPercent": ".379",
+        "gamesBehind": "35",
+        "pointsFor": "683",
+        "pointsAgainst": "830"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NYY lead series 2-0",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-09-08T23:05:00Z",
+          "home": "New York Yankees",
+          "away": "Colorado Rockies",
+          "homeScore": 5,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T23:05:00Z",
+          "home": "New York Yankees",
+          "away": "Colorado Rockies",
+          "homeScore": 6,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chicago White Sox",
+    "away": "Pittsburgh Pirates",
+    "date": "2026-09-10T23:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816886",
+    "injuries": {
+      "home": [
+        {
+          "name": "Drew Thorpe",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Huascar Brazoban",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Tyler Davis",
+          "status": "bereavement",
+          "detail": ""
+        },
+        {
+          "name": "Tanner Murray",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Tommy Pham",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ryan O'Hearn",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Kirby Yates",
+          "status": "15-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Braxton Ashcraft",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Isaac Mattson",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Mitch Keller",
+          "status": "60-Day-IL",
+          "detail": "Not Specified"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "75",
+        "losses": "70",
+        "ties": "0",
+        "winPercent": ".517",
+        "gamesBehind": "11.5",
+        "pointsFor": "685",
+        "pointsAgainst": "644"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "73",
+        "losses": "73",
+        "ties": "0",
+        "winPercent": ".500",
+        "gamesBehind": "17.5",
+        "pointsFor": "707",
+        "pointsAgainst": "673"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PIT leads series 2-0",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-09-08T23:40:00Z",
+          "home": "Chicago White Sox",
+          "away": "Pittsburgh Pirates",
+          "homeScore": 3,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-09T23:40:00Z",
+          "home": "Chicago White Sox",
+          "away": "Pittsburgh Pirates",
+          "homeScore": 2,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chicago Cubs",
+    "away": "Pittsburgh Pirates",
+    "date": "2026-09-11T18:20:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816899",
+    "injuries": {
+      "home": [
+        {
+          "name": "Tyler Austin",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Gavin Hollowell",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Edward Cabrera",
+          "status": "15-Day-IL",
+          "detail": "Abrasion"
+        },
+        {
+          "name": "Hunter Harvey",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Shelby Miller",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ryan O'Hearn",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Kirby Yates",
+          "status": "15-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Braxton Ashcraft",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Isaac Mattson",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Mitch Keller",
+          "status": "60-Day-IL",
+          "detail": "Not Specified"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "5",
+        "wins": "81",
+        "losses": "66",
+        "ties": "0",
+        "winPercent": ".551",
+        "gamesBehind": "10",
+        "pointsFor": "780",
+        "pointsAgainst": "652"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "73",
+        "losses": "73",
+        "ties": "0",
+        "winPercent": ".500",
+        "gamesBehind": "17.5",
+        "pointsFor": "707",
+        "pointsAgainst": "673"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 5-5",
+      "totalGames": 10,
+      "games": [
+        {
+          "date": "2026-04-10T18:20:00Z",
+          "home": "Chicago Cubs",
+          "away": "Pittsburgh Pirates",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-11T18:20:00Z",
+          "home": "Chicago Cubs",
+          "away": "Pittsburgh Pirates",
+          "homeScore": 3,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-12T18:20:00Z",
+          "home": "Chicago Cubs",
+          "away": "Pittsburgh Pirates",
+          "homeScore": 7,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-25T17:35:00Z",
+          "home": "Pittsburgh Pirates",
+          "away": "Chicago Cubs",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-26T22:40:00Z",
+          "home": "Pittsburgh Pirates",
+          "away": "Chicago Cubs",
+          "homeScore": 12,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-27T22:40:00Z",
+          "home": "Pittsburgh Pirates",
+          "away": "Chicago Cubs",
+          "homeScore": 4,
+          "awayScore": 10,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-28T22:40:00Z",
+          "home": "Pittsburgh Pirates",
+          "away": "Chicago Cubs",
+          "homeScore": 2,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-24T22:40:00Z",
+          "home": "Pittsburgh Pirates",
+          "away": "Chicago Cubs",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-25T22:40:00Z",
+          "home": "Pittsburgh Pirates",
+          "away": "Chicago Cubs",
+          "homeScore": 0,
+          "awayScore": 11,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-26T17:35:00Z",
+          "home": "Pittsburgh Pirates",
+          "away": "Chicago Cubs",
+          "homeScore": 8,
+          "awayScore": 7,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Detroit Tigers",
+    "away": "Colorado Rockies",
+    "date": "2026-09-11T22:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816890",
+    "injuries": {
+      "home": [
+        {
+          "name": "Kerry Carpenter",
+          "status": "10-Day-IL",
+          "detail": "Plantar Fasciitis"
+        },
+        {
+          "name": "Wenceel Perez",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Parker Meadows",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Jack Flaherty",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Justin Verlander",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Willi Castro",
+          "status": "10-Day-IL",
+          "detail": "Plantar Fasciitis"
+        },
+        {
+          "name": "Kyle Freeland",
+          "status": "15-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Jose Quintana",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Kris Bryant",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "McCade Brown",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "67",
+        "losses": "79",
+        "ties": "0",
+        "winPercent": ".459",
+        "gamesBehind": "20",
+        "pointsFor": "641",
+        "pointsAgainst": "586"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "55",
+        "losses": "90",
+        "ties": "0",
+        "winPercent": ".379",
+        "gamesBehind": "35",
+        "pointsFor": "683",
+        "pointsAgainst": "830"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Washington Nationals",
+    "away": "Los Angeles Angels",
+    "date": "2026-09-11T22:45:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816888",
+    "injuries": {
+      "home": [
+        {
+          "name": "Richard Lovelady",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "DJ Herz",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "PJ Poulin",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Nasim Nunez",
+          "status": "bereavement",
+          "detail": ""
+        },
+        {
+          "name": "Connelly Early",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Nolan Schanuel",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Sam Bachman",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Yoan Moncada",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Gustavo Campero",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "George Klassen",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "67",
+        "losses": "81",
+        "ties": "0",
+        "winPercent": ".453",
+        "gamesBehind": "24.5",
+        "pointsFor": "756",
+        "pointsAgainst": "756"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "56",
+        "losses": "90",
+        "ties": "0",
+        "winPercent": ".384",
+        "gamesBehind": "31",
+        "pointsFor": "591",
+        "pointsAgainst": "664"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "New York Yankees",
+    "away": "New York Mets",
+    "date": "2026-09-11T23:05:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816894",
+    "injuries": {
+      "home": [
+        {
+          "name": "Clarke Schmidt",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Ryan Weathers",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Fernando Cruz",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Trent Grisham",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Giancarlo Stanton",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Brett Baty",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Cionel Perez",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Devin Williams",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jorge Polanco",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Reed Garrett",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "83",
+        "losses": "62",
+        "ties": "0",
+        "winPercent": ".572",
+        "gamesBehind": "3.5",
+        "pointsFor": "657",
+        "pointsAgainst": "533"
+      },
+      "away": {
+        "rank": "12",
+        "wins": "68",
+        "losses": "78",
+        "ties": "0",
+        "winPercent": ".466",
+        "gamesBehind": "22.5",
+        "pointsFor": "627",
+        "pointsAgainst": "667"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NYM lead series 2-1",
+      "totalGames": 3,
+      "games": [
+        {
+          "date": "2026-05-15T23:15:00Z",
+          "home": "New York Mets",
+          "away": "New York Yankees",
+          "homeScore": 2,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-16T23:15:00Z",
+          "home": "New York Mets",
+          "away": "New York Yankees",
+          "homeScore": 6,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-17T17:40:00Z",
+          "home": "New York Mets",
+          "away": "New York Yankees",
+          "homeScore": 7,
+          "awayScore": 6,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Toronto Blue Jays",
+    "away": "Baltimore Orioles",
+    "date": "2026-09-11T23:07:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816889",
+    "injuries": {
+      "home": [
+        {
+          "name": "George Springer",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Luis Urias",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Anthony Santander",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Trey Yesavage",
+          "status": "15-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Jameson Taillon",
+          "status": "15-Day-IL",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Gunnar Henderson",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Luis Robert Jr.",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Christian Franklin",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Ryan Helsley",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Blaze Alexander",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "73",
+        "losses": "74",
+        "ties": "0",
+        "winPercent": ".497",
+        "gamesBehind": "14.5",
+        "pointsFor": "589",
+        "pointsAgainst": "628"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "71",
+        "losses": "76",
+        "ties": "0",
+        "winPercent": ".483",
+        "gamesBehind": "16.5",
+        "pointsFor": "661",
+        "pointsAgainst": "688"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TOR leads series 4-3",
+      "totalGames": 7,
+      "games": [
+        {
+          "date": "2026-05-28T22:35:00Z",
+          "home": "Baltimore Orioles",
+          "away": "Toronto Blue Jays",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-29T23:05:00Z",
+          "home": "Baltimore Orioles",
+          "away": "Toronto Blue Jays",
+          "homeScore": 5,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-30T20:05:00Z",
+          "home": "Baltimore Orioles",
+          "away": "Toronto Blue Jays",
+          "homeScore": 6,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-31T16:15:00Z",
+          "home": "Baltimore Orioles",
+          "away": "Toronto Blue Jays",
+          "homeScore": 9,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-05T23:07:00Z",
+          "home": "Toronto Blue Jays",
+          "away": "Baltimore Orioles",
+          "homeScore": 3,
+          "awayScore": 13,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-06T19:07:00Z",
+          "home": "Toronto Blue Jays",
+          "away": "Baltimore Orioles",
+          "homeScore": 6,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-07T17:37:00Z",
+          "home": "Toronto Blue Jays",
+          "away": "Baltimore Orioles",
+          "homeScore": 6,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Tampa Bay Rays",
+    "away": "Houston Astros",
+    "date": "2026-09-11T23:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816891",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jake Fraley",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Edwin Uceta",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Ben Williamson",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jonathan Heasley",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Taylor Walls",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Brice Matthews",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Steven Okert",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Mike Burrows",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Carlos Correa",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Brandon Walter",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "87",
+        "losses": "59",
+        "ties": "0",
+        "winPercent": ".596",
+        "gamesBehind": "-",
+        "pointsFor": "662",
+        "pointsAgainst": "606"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "75",
+        "losses": "72",
+        "ties": "0",
+        "winPercent": ".510",
+        "gamesBehind": "12.5",
+        "pointsFor": "662",
+        "pointsAgainst": "702"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "HOU leads series 2-1",
+      "totalGames": 3,
+      "games": [
+        {
+          "date": "2026-07-04T00:15:00Z",
+          "home": "Houston Astros",
+          "away": "Tampa Bay Rays",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-04T23:10:00Z",
+          "home": "Houston Astros",
+          "away": "Tampa Bay Rays",
+          "homeScore": 10,
+          "awayScore": 8,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-05T19:30:00Z",
+          "home": "Houston Astros",
+          "away": "Tampa Bay Rays",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Boston Red Sox",
+    "away": "Kansas City Royals",
+    "date": "2026-09-11T23:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816892",
+    "injuries": {
+      "home": [
+        {
+          "name": "Adley Rutschman",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Willson Contreras",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Ceddanne Rafaela",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Curtis Mead",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Tyron Guerrero",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jac Caglianone",
+          "status": "Day-To-Day",
+          "detail": "Strain"
+        },
+        {
+          "name": "Maikel Garcia",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Tony Gonsolin",
+          "status": "15-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Connor Seabold",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "James McArthur",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "80",
+        "losses": "67",
+        "ties": "0",
+        "winPercent": ".544",
+        "gamesBehind": "7.5",
+        "pointsFor": "652",
+        "pointsAgainst": "570"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "65",
+        "losses": "82",
+        "ties": "0",
+        "winPercent": ".442",
+        "gamesBehind": "22.5",
+        "pointsFor": "629",
+        "pointsAgainst": "717"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "BOS leads series 3-0",
+      "totalGames": 3,
+      "games": [
+        {
+          "date": "2026-05-18T23:10:00Z",
+          "home": "Kansas City Royals",
+          "away": "Boston Red Sox",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-19T23:40:00Z",
+          "home": "Kansas City Royals",
+          "away": "Boston Red Sox",
+          "homeScore": 1,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-20T23:40:00Z",
+          "home": "Kansas City Royals",
+          "away": "Boston Red Sox",
+          "homeScore": 3,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Miami Marlins",
+    "away": "Los Angeles Dodgers",
+    "date": "2026-09-11T23:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816893",
+    "injuries": {
+      "home": [
+        {
+          "name": "Xavier Edwards",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Max Meyer",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Anthony Bender",
+          "status": "15-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Ronny Henriquez",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Adam Mazur",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Freddie Freeman",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Kris Bubic",
+          "status": "60-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Edwin Diaz",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Roki Sasaki",
+          "status": "15-Day-IL",
+          "detail": "Abrasion"
+        },
+        {
+          "name": "Dalton Rushing",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "72",
+        "losses": "75",
+        "ties": "0",
+        "winPercent": ".490",
+        "gamesBehind": "19",
+        "pointsFor": "654",
+        "pointsAgainst": "647"
+      },
+      "away": {
+        "rank": "2",
+        "wins": "89",
+        "losses": "57",
+        "ties": "0",
+        "winPercent": ".610",
+        "gamesBehind": "1.5",
+        "pointsFor": "728",
+        "pointsAgainst": "559"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIA leads series 2-1",
+      "totalGames": 3,
+      "games": [
+        {
+          "date": "2026-04-28T02:10:00Z",
+          "home": "Los Angeles Dodgers",
+          "away": "Miami Marlins",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-29T02:10:00Z",
+          "home": "Los Angeles Dodgers",
+          "away": "Miami Marlins",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-29T19:10:00Z",
+          "home": "Los Angeles Dodgers",
+          "away": "Miami Marlins",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Atlanta Braves",
+    "away": "Philadelphia Phillies",
+    "date": "2026-09-11T23:15:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816895",
+    "injuries": {
+      "home": [
+        {
+          "name": "Robert Suarez",
+          "status": "60-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Lane Thomas",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Bryce Elder",
+          "status": "15-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Joe Jimenez",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Spencer Strider",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Brandon Marsh",
+          "status": "Day-To-Day",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Tanner Banks",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Caleb Kilian",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Felix Reyes",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Johan Rojas",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "86",
+        "losses": "61",
+        "ties": "0",
+        "winPercent": ".585",
+        "gamesBehind": "5",
+        "pointsFor": "671",
+        "pointsAgainst": "561"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "82",
+        "losses": "65",
+        "ties": "0",
+        "winPercent": ".558",
+        "gamesBehind": "9",
+        "pointsFor": "659",
+        "pointsAgainst": "622"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ATL leads series 7-3",
+      "totalGames": 10,
+      "games": [
+        {
+          "date": "2026-04-17T22:40:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Atlanta Braves",
+          "homeScore": 0,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-18T23:15:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Atlanta Braves",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-19T23:20:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Atlanta Braves",
+          "homeScore": 2,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-24T23:15:00Z",
+          "home": "Atlanta Braves",
+          "away": "Philadelphia Phillies",
+          "homeScore": 5,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-25T23:15:00Z",
+          "home": "Atlanta Braves",
+          "away": "Philadelphia Phillies",
+          "homeScore": 5,
+          "awayScore": 8,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-26T17:35:00Z",
+          "home": "Atlanta Braves",
+          "away": "Philadelphia Phillies",
+          "homeScore": 6,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-04T22:40:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Atlanta Braves",
+          "homeScore": 2,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-05T22:05:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Atlanta Braves",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-06T17:10:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Atlanta Braves",
+          "homeScore": 4,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-07T17:05:00Z",
+          "home": "Philadelphia Phillies",
+          "away": "Atlanta Braves",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Milwaukee Brewers",
+    "away": "Cincinnati Reds",
+    "date": "2026-09-11T23:45:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816897",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jake Bauers",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Bryse Wilson",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Rob Zastryzny",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Grant Anderson",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Brandon Woodruff",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Spencer Steer",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Michael Toglia",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Blake Dunn",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Hunter Greene",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "91",
+        "losses": "56",
+        "ties": "0",
+        "winPercent": ".619",
+        "gamesBehind": "-",
+        "pointsFor": "742",
+        "pointsAgainst": "570"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "69",
+        "losses": "77",
+        "ties": "0",
+        "winPercent": ".473",
+        "gamesBehind": "21.5",
+        "pointsFor": "611",
+        "pointsAgainst": "733"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIL leads series 7-3",
+      "totalGames": 10,
+      "games": [
+        {
+          "date": "2026-06-22T23:10:00Z",
+          "home": "Cincinnati Reds",
+          "away": "Milwaukee Brewers",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-23T23:10:00Z",
+          "home": "Cincinnati Reds",
+          "away": "Milwaukee Brewers",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-24T23:10:00Z",
+          "home": "Cincinnati Reds",
+          "away": "Milwaukee Brewers",
+          "homeScore": 5,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-29T23:40:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Cincinnati Reds",
+          "homeScore": 5,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-06-30T23:40:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Cincinnati Reds",
+          "homeScore": 7,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-02T00:00:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Cincinnati Reds",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-02T18:10:00Z",
+          "home": "Milwaukee Brewers",
+          "away": "Cincinnati Reds",
+          "homeScore": 2,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-04T22:10:00Z",
+          "home": "Cincinnati Reds",
+          "away": "Milwaukee Brewers",
+          "homeScore": 7,
+          "awayScore": 10,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-05T22:40:00Z",
+          "home": "Cincinnati Reds",
+          "away": "Milwaukee Brewers",
+          "homeScore": 5,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-06T16:10:00Z",
+          "home": "Cincinnati Reds",
+          "away": "Milwaukee Brewers",
+          "homeScore": 12,
+          "awayScore": 8,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Minnesota Twins",
+    "away": "Cleveland Guardians",
+    "date": "2026-09-12T00:10:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816898",
+    "injuries": {
+      "home": [
+        {
+          "name": "Byron Buxton",
+          "status": "10-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Mike Paredes",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Mick Abel",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Cole Sands",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "David Festa",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Rhys Hoskins",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Colin Holderman",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Shawn Armstrong",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "69",
+        "losses": "77",
+        "ties": "0",
+        "winPercent": ".473",
+        "gamesBehind": "18",
+        "pointsFor": "675",
+        "pointsAgainst": "728"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "74",
+        "losses": "73",
+        "ties": "0",
+        "winPercent": ".503",
+        "gamesBehind": "13.5",
+        "pointsFor": "598",
+        "pointsAgainst": "614"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIN leads series 6-4",
+      "totalGames": 10,
+      "games": [
+        {
+          "date": "2026-05-08T23:15:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Minnesota Twins",
+          "homeScore": 6,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-09T22:10:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Minnesota Twins",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-10T17:40:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Minnesota Twins",
+          "homeScore": 4,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-07T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Cleveland Guardians",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-08T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Cleveland Guardians",
+          "homeScore": 6,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-09T17:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "Cleveland Guardians",
+          "homeScore": 2,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-20T22:40:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Minnesota Twins",
+          "homeScore": 13,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-21T22:40:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Minnesota Twins",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-22T22:40:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Minnesota Twins",
+          "homeScore": 6,
+          "awayScore": 10,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-23T17:10:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Minnesota Twins",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "St.Louis Cardinals",
+    "away": "Chicago White Sox",
+    "date": "2026-09-12T00:15:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816896",
+    "injuries": {
+      "home": [
+        {
+          "name": "Masyn Winn",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Peter Strzelecki",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "JJ Wetherholt",
+          "status": "10-Day-IL",
+          "detail": "Tendinitis"
+        },
+        {
+          "name": "Everson Pereira",
+          "status": "10-Day-IL",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Blaze Jordan",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Drew Thorpe",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Huascar Brazoban",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Tyler Davis",
+          "status": "bereavement",
+          "detail": ""
+        },
+        {
+          "name": "Tanner Murray",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Tommy Pham",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "72",
+        "losses": "75",
+        "ties": "0",
+        "winPercent": ".490",
+        "gamesBehind": "19",
+        "pointsFor": "668",
+        "pointsAgainst": "680"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "75",
+        "losses": "70",
+        "ties": "0",
+        "winPercent": ".517",
+        "gamesBehind": "11.5",
+        "pointsFor": "685",
+        "pointsAgainst": "644"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Athletics",
+    "away": "Seattle Mariners",
+    "date": "2026-09-12T01:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816901",
+    "injuries": {
+      "home": [
+        {
+          "name": "Shea Langeliers",
+          "status": "10-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Brooks Kriske",
+          "status": "60-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "J.T. Ginn",
+          "status": "15-Day-IL",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Joshua Kuroda-Grauer",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Nick Kurtz",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Brendan Donovan",
+          "status": "7-Day IL",
+          "detail": "Concussion"
+        },
+        {
+          "name": "Brennen Davis",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Will Wilson",
+          "status": "60-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Emerson Hancock",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Cole Wilcox",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "59",
+        "losses": "88",
+        "ties": "0",
+        "winPercent": ".401",
+        "gamesBehind": "28.5",
+        "pointsFor": "641",
+        "pointsAgainst": "828"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "69",
+        "losses": "78",
+        "ties": "0",
+        "winPercent": ".469",
+        "gamesBehind": "18.5",
+        "pointsFor": "581",
+        "pointsAgainst": "655"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 5-5",
+      "totalGames": 10,
+      "games": [
+        {
+          "date": "2026-04-21T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Athletics",
+          "homeScore": 4,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-22T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Athletics",
+          "homeScore": 2,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-22T20:10:00Z",
+          "home": "Seattle Mariners",
+          "away": "Athletics",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-26T01:40:00Z",
+          "home": "Athletics",
+          "away": "Seattle Mariners",
+          "homeScore": 2,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-27T01:40:00Z",
+          "home": "Athletics",
+          "away": "Seattle Mariners",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-27T19:05:00Z",
+          "home": "Athletics",
+          "away": "Seattle Mariners",
+          "homeScore": 1,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-04T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Athletics",
+          "homeScore": 4,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-05T02:10:00Z",
+          "home": "Seattle Mariners",
+          "away": "Athletics",
+          "homeScore": 6,
+          "awayScore": 7,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-06T01:40:00Z",
+          "home": "Seattle Mariners",
+          "away": "Athletics",
+          "homeScore": 2,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-06T20:10:00Z",
+          "home": "Seattle Mariners",
+          "away": "Athletics",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Arizona Diamondbacks",
+    "away": "Texas Rangers",
+    "date": "2026-09-12T01:40:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816902",
+    "injuries": {
+      "home": [
+        {
+          "name": "Corbin Carroll",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Ryne Nelson",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Ryan Thompson",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "A.J. Puk",
+          "status": "60-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Andrew Saalfrank",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kyle Higashioka",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Josh Jung",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Carter Baumler",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Cole Winn",
+          "status": "15-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Nathan Eovaldi",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "78",
+        "losses": "69",
+        "ties": "0",
+        "winPercent": ".531",
+        "gamesBehind": "13",
+        "pointsFor": "648",
+        "pointsAgainst": "649"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "72",
+        "losses": "75",
+        "ties": "0",
+        "winPercent": ".490",
+        "gamesBehind": "15.5",
+        "pointsFor": "610",
+        "pointsAgainst": "651"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TEX leads series 2-1",
+      "totalGames": 3,
+      "games": [
+        {
+          "date": "2026-05-12T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Arizona Diamondbacks",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-13T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Arizona Diamondbacks",
+          "homeScore": 7,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-14T00:05:00Z",
+          "home": "Texas Rangers",
+          "away": "Arizona Diamondbacks",
+          "homeScore": 6,
+          "awayScore": 5,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Francisco Giants",
+    "away": "San Diego Padres",
+    "date": "2026-09-12T02:15:00.000Z",
+    "league": "MLB",
+    "sport": "baseball",
+    "espnSport": "baseball",
+    "gameId": "401816900",
+    "injuries": {
+      "home": [
+        {
+          "name": "Victor Bericoto",
+          "status": "10-Day-IL",
+          "detail": "Bruise"
+        },
+        {
+          "name": "JT Brubaker",
+          "status": "15-Day-IL",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Matt Gage",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Willy Adames",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Marcelo Mayer",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
+        }
+      ],
+      "away": [
+        {
+          "name": "Gavin Sheets",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Jeremiah Estrada",
+          "status": "15-Day-IL",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Lucas Giolito",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Miguel Andujar",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Jason Adam",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "62",
+        "losses": "85",
+        "ties": "0",
+        "winPercent": ".422",
+        "gamesBehind": "29",
+        "pointsFor": "617",
+        "pointsAgainst": "689"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "78",
+        "losses": "68",
+        "ties": "0",
+        "winPercent": ".534",
+        "gamesBehind": "12.5",
+        "pointsFor": "619",
+        "pointsAgainst": "602"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SD leads series 6-4",
+      "totalGames": 10,
+      "games": [
+        {
+          "date": "2026-03-31T01:40:00Z",
+          "home": "San Diego Padres",
+          "away": "San Francisco Giants",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-01T01:40:00Z",
+          "home": "San Diego Padres",
+          "away": "San Francisco Giants",
+          "homeScore": 3,
+          "awayScore": 9,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-01T20:10:00Z",
+          "home": "San Diego Padres",
+          "away": "San Francisco Giants",
+          "homeScore": 7,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-05T01:45:00Z",
+          "home": "San Francisco Giants",
+          "away": "San Diego Padres",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-06T01:45:00Z",
+          "home": "San Francisco Giants",
+          "away": "San Diego Padres",
+          "homeScore": 5,
+          "awayScore": 10,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-05-06T19:45:00Z",
+          "home": "San Francisco Giants",
+          "away": "San Diego Padres",
+          "homeScore": 1,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-07-31T01:40:00Z",
+          "home": "San Diego Padres",
+          "away": "San Francisco Giants",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-01T01:45:00Z",
+          "home": "San Diego Padres",
+          "away": "San Francisco Giants",
+          "homeScore": 7,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-02T00:40:00Z",
+          "home": "San Diego Padres",
+          "away": "San Francisco Giants",
+          "homeScore": 6,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-02T20:10:00Z",
+          "home": "San Diego Padres",
+          "away": "San Francisco Giants",
+          "homeScore": 5,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  }
+]

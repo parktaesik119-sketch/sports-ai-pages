@@ -1,0 +1,37 @@
+---
+title: "워싱턴 내셔널스 vs LA 에인절스 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | MLB - 픽천국"
+date: 2026-09-11T22:45:00.000Z
+description: "워싱턴 내셔널스 vs LA 에인절스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "워싱턴 내셔널스"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "워싱턴 내셔널스는 2026시즌 총 148경기에 출전하여 67승 81패, 승률 .453를 기록하고 있습니다. 리그순위 13위에 머물러 있는 가운데, 최근 10경기에서 3승 7패로 다소 고전하며 하락세를 보이고 있습니다. 시즌 전체적으로 득점과 실점이 동일한 균형을 유지하고 있으나, 최근 5연패를 포함해 투타 조화가 흐트러진 모습이 두드러집니다. 홈 경기에서의 집중력 회복이 무엇보다 시급하며, 마운드의 실점 억제력을 얼마나 다시 끌어올릴지가 관건입니다. 투수진의 안정감이 흔들리는 흐름 속에서 타선의 득점 지원까지 불규칙하게 나타나고 있어 공수 전반의 재정비가 필요합니다."
+awayAnalysis: "LA 에인절스는 2026시즌 156경기를 소화하며 56승 90패, 승률 .384를 기록하고 있습니다. 현재 리그순위 15위로 고전 중이지만, 최근 9경기에서 4승 5패를 거두며 직전 시즌 성적에 비하면 다소 기복 있는 경기력을 유지하고 있습니다. 시즌 내내 실점이 득점을 상회하는 수비 불안을 노출해 왔으나, 최근에는 원정길에서 승리를 챙기는 등 나름의 돌파구를 찾는 중입니다. 득점 기회가 왔을 때 확실하게 점수로 연결하는 집중력 있는 타격이 최근 흐름의 핵심이며, 경기 초반 마운드가 실점을 최소화하는 흐름을 얼마나 길게 가져갈지가 중요한 요소입니다."
+homePower: "최근 5경기 전패로 투수진의 실점 억제력 크게 저하됨|경기당 평균 득점 대비 최근 득점력 회복 기복 심함|리그순위 13위로 시즌 후반기 반등 동력 부족함|홈 경기 운영 시 타선의 조기 대량 득점 생산 절실함|선발진 붕괴로 인한 불펜 소모가 실점 패턴으로 고착됨"
+awayPower: "원정 경기 최근 흐름에서 타선의 집중력 상승세 보임|리그순위 15위이나 최근 9경기 4승으로 폼 완만함|마운드 실점 비중 높으나 위기 상황 극복 능력 향상됨|득점 생산 패턴이 특정 타자에게 편중되지 않고 분포됨|최근 승리한 경기들에서 역전승보다 리드 유지 강함"
+h2h: '[]'
+summary: "워싱턴 내셔널스는 리그순위 13위로서 최근 5연패라는 깊은 부진에 빠져 있으며, 마운드의 실점 억제력이 무너진 것이 가장 큰 고민거리입니다. 반면 LA 에인절스는 리그순위 15위로 하위권에 위치해 있으나, 최근 원정 경기에서 보여준 타선의 집중력과 승리 의지가 워싱턴 내셔널스보다 다소 앞선 것으로 평가됩니다. 두 팀 모두 시즌 전체적으로 수비 불안을 노출하고 있는 가운데, 최근 흐름상 공수 균형을 조금 더 안정적으로 찾아가는 LA 에인절스가 이번 경기를 유리하게 이끌어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"},{"date":"26.09.08","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MOSD0-2026-09-08-san-diego-padres/"},{"date":"26.09.07","home":"LA 다저스","away":"워싱턴 내셔널스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MOLA0-2026-09-07-los-angeles-dodgers/"},{"date":"26.09.06","home":"LA 다저스","away":"워싱턴 내셔널스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MOLA0-2026-09-06-los-angeles-dodgers/"},{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MOLA0-2026-09-05-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"},{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"},{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"}]'
+injuryHome: "Richard Lovelady (strain)|DJ Herz (strain)|PJ Poulin (strain)|Nasim Nunez (bereavement)|Connelly Early (inflammation)"
+injuryAway: "Nolan Schanuel (strain)|Sam Bachman (inflammation)|Yoan Moncada (surgery)|Gustavo Campero (strain)|George Klassen (inflammation)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 에인절스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 에인절스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

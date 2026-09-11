@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs 캔자스시티 로열스 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | MLB - 픽천국"
+date: 2026-09-11T23:10:00.000Z
+description: "보스턴 레드삭스 vs 캔자스시티 로열스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 112경기에서 62승 48패를 기록하며 55.4%의 준수한 승률을 유지하고 있고, 현재 리그순위 3위에 올라 상위권 전력을 증명하고 있습니다. 최근 흐름은 다소 기복을 보이고 있으나, 전반적으로 안정적인 투타 밸런스를 바탕으로 시즌 내내 경쟁력을 발휘하는 중입니다. 특히 득실 마진 +82.0을 기록할 만큼 공수 양면에서 짜임새 있는 경기 운영을 보여주고 있어 강팀다운 면모가 돋보입니다. 비록 직전 경기들에서 타선의 응집력이 일시적으로 떨어지는 모습을 보이기도 했지만, 홈에서의 견고함과 큰 경기 경험을 앞세워 다시 반등할 준비를 마쳤습니다. 팀 전체적으로 시즌 중반의 좋은 흐름을 재현하려는 의지가 강하며, 이번 맞대결에서도 안정적인 투수진을 중심으로 경기를 주도해 나갈 것으로 기대됩니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 104경기에서 52승 48패를 거두며 50% 수준의 승률을 기록 중이며, 현재 리그순위 13위에 머물러 상위권 도약을 위한 분기점에 서 있습니다. 최근 10경기에서 4승 6패로 다소 아쉬운 성적을 거두고 있어 전력 정비가 시급한 상황입니다. 득실 마진이 -88.0으로 나타나듯 실점을 최소화하는 수비 집중력이 다소 부족하며, 이는 원정 경기에서 극복해야 할 주요 과제로 지목됩니다. 타선이 간헐적으로 폭발력을 보여주고 있으나 투수진의 불안이 승패를 결정짓는 경우가 많아 안정감이 다소 떨어집니다. 하지만 팀 전체가 중위권 반등을 노리고 있는 만큼, 수비에서의 집중력을 끌어올려 분위기 쇄신을 노릴 것으로 보입니다."
+homePower: "리그순위 3위의 안정적인 전력 기반|득실 +82.0으로 증명된 공수 밸런스|홈구장 특성을 활용한 효율적인 투구|최근 타격 흐름 조정 통한 득점력 회복|상대전적 우위를 통한 심리적 자신감"
+awayPower: "리그순위 13위의 반등이 절실한 상황|득실 마진 개선을 위한 수비 집중력 필요|기복 있는 마운드의 실점 억제력 숙제|공격력은 준수하나 원정 수비 약점 노출|연패 이후 분위기 전환을 위한 총력전"
+h2h: '[{"date":"26.05.21","home":"캔자스시티 로열스","away":"보스턴 레드삭스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-178752-2026-05-21-kansas-city-royals/"},{"date":"26.05.20","home":"캔자스시티 로열스","away":"보스턴 레드삭스","score":"1-7","link":"https://pick79.com/posts/detail/analyze-178735-2026-05-20-kansas-city-royals/"},{"date":"26.05.19","home":"캔자스시티 로열스","away":"보스턴 레드삭스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-178721-2026-05-19-kansas-city-royals/"}]'
+summary: "보스턴 레드삭스는 올 시즌 리그순위 3위를 지키며 투타의 높은 완성도를 선보이고 있어 캔자스시티 로열스보다 객관적인 전력에서 우위를 점하고 있습니다. 캔자스시티 로열스는 타선이 평균 이상의 득점력을 보여주기도 하지만, 득실 마진에서 드러나는 수비 불안이 보스턴 레드삭스의 짜임새 있는 운영을 넘어서기에 다소 버거운 상태입니다. 상대전적에서도 3전 전승으로 보스턴 레드삭스가 완벽한 우위를 점하고 있는 만큼, 이번 경기 역시 홈팀의 안정적인 투수진이 상대 타선을 제어하며 승리를 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"},{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.09.07","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907BOBA0-2026-09-07-baltimore-orioles/"},{"date":"26.09.06","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906BOBA0-2026-09-06-baltimore-orioles/"}]'
+awayRecent: '[{"date":"26.09.10","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910AZKC0-2026-09-10-kansas-city-royals/"},{"date":"26.09.09","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909AZKC0-2026-09-09-kansas-city-royals/"},{"date":"26.09.08","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908AZKC0-2026-09-08-kansas-city-royals/"},{"date":"26.09.07","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TOKC0-2026-09-07-kansas-city-royals/"},{"date":"26.09.06","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TOKC0-2026-09-06-kansas-city-royals/"}]'
+injuryHome: "Adley Rutschman (경미)|Willson Contreras (주요)|Ceddanne Rafaela (주요)|Curtis Mead (주요)|Tyron Guerrero (주요)"
+injuryAway: "Jac Caglianone (경미)|Maikel Garcia (주요)|Tony Gonsolin (주요)|Connor Seabold (주요)|James McArthur (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

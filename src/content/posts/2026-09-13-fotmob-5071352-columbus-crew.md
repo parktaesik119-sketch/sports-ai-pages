@@ -1,0 +1,37 @@
+---
+title: "콜럼버스 크루 vs 뉴욕 레드불스 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLS - 픽천국"
+date: 2026-09-12T23:30:00.000Z
+description: "콜럼버스 크루 vs 뉴욕 레드불스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071352-2026-09-13-columbus-crew"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "콜럼버스 크루"
+awayTeam: "뉴욕 레드불스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6001.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6514.png"
+homeAnalysis: "콜럼버스 크루는 이번 2026시즌 동안 21경기에서 8승 5무 8패를 기록하며 리그순위 13위에 위치해 있습니다. 로랑 쿠르투아 감독 체제에서 공격진의 산티아고 로드리게스와 호세프 마르티네스가 활약하고 있으나 최근 경기에서는 패배가 늘어나며 다소 기복을 보이고 있습니다. 다만 안방 경기에서는 끈질긴 득점력을 유지하며 상대를 압박하는 저력을 꾸준히 보여주고 있습니다. 과거 안방 맞대결 전적에서도 뉴욕 레드불스를 상대로 강세를 유지해 온 점은 긍정적인 요소입니다. 이번 경기에서는 션 자와즈키를 중심으로 수비 밸런스를 다잡고 안방에서의 결정력을 한껏 끌어올리는 것이 핵심입니다."
+awayAnalysis: "뉴욕 레드불스는 2026시즌 13경기에서 5승 4무 4패를 거두며 리그순위 12위에 자리하고 있습니다. 마이클 브래들리 감독이 이끄는 뉴욕 레드불스는 에밀 포르스베리와 에릭 막심 추포모팅을 앞세워 타격을 노리고 있으나 기복 있는 경기력으로 승점을 확실히 쌓지 못하고 있습니다. 최근 경기에서도 무승부와 패배가 겹치며 원정에서의 공수 안정감 확보에 어려움을 겪는 모습입니다. 줄리안 바잔을 비롯한 후방 수비진의 집중력 유지가 무엇보다 시급한 과제로 떠올랐습니다. 과거 콜럼버스 크루 원정 경기에서 고전했던 경향이 있는 만큼 강한 중원 압박으로 주도권을 잡아나가는 전술이 필요합니다."
+homePower: "안방 맞대결에서 꾸준히 우위를 점해온 상성 관계임|홈 경기 시 공격진의 순간 집중력과 득점 완성도 우수함|로랑 쿠르투아 감독의 안방 맞춤형 전술 운용 돋보임|산티아고 로드리게스 중심의 최전방 공수 연계 원활함|후방 수비 불안 요소만 제어한다면 승점 확보 매우 유력함"
+awayPower: "에밀 포르스베리가 이끄는 중원에서의 창의적인 전개 보유함|최근 원정 경기 공수 전환 과정에서 실점 비율 증가함|전방 최전방 자원의 고립 현상이 자주 발생하는 흐름임|상대 안방 원정길에서 후방 수비 부담감이 가중되는 경향 보임|공격 마무리 정교함 보완이 이번 경기 최대 승부처로 작용함"
+h2h: '[{"date":"26.05.14","home":"뉴욕 레드불스","away":"콜럼버스 크루","score":"3-2"},{"date":"25.10.19","home":"콜럼버스 크루","away":"뉴욕 레드불스","score":"3-1"},{"date":"25.08.31","home":"뉴욕 레드불스","away":"콜럼버스 크루","score":"0-0"},{"date":"24.11.04","home":"뉴욕 레드불스","away":"콜럼버스 크루","score":"2-2"},{"date":"24.10.30","home":"콜럼버스 크루","away":"뉴욕 레드불스","score":"0-1"}]'
+summary: "콜럼버스 크루는 안방 경기에서 효율적인 공격 전개를 바탕으로 상대전적에서도 뉴욕 레드불스를 상대로 강한 모습을 보여왔습니다. 반면 뉴욕 레드불스는 최근 원정 경기에서 수비 집중력이 흔들리며 다소 주춤하는 기세를 보이고 있습니다. 전반적인 안방 성적과 최근 흐름 및 상성을 종합적으로 고려할 때 콜럼버스 크루가 경기 주도권을 잡고 우세하게 경기를 이끌어갈 것으로 기대됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Rudy Camacho (발 부상)|Sékou Bangoura (발목 부상)|Wessam Abou Ali (무릎 부상)"
+injuryAway: "Rafael Mosquera (허벅지 부상)|AJ Marcucci (십자 인대 부상)"
+homeLineup: '["Patrick Schulte (GK)|https://images.fotmob.com/image_resources/playerimages/1083292.png","Cesar Ruvalcaba (DF)|https://images.fotmob.com/image_resources/playerimages/1727042.png","Sean Zawadzki (DF)|https://images.fotmob.com/image_resources/playerimages/1338763.png","Malte Amundsen (DF)|https://images.fotmob.com/image_resources/playerimages/623145.png","Brooks Lennon (DF)|https://images.fotmob.com/image_resources/playerimages/760725.png","Dylan Chambost (MF)|https://images.fotmob.com/image_resources/playerimages/770306.png","Tarun Karumanchi (MF)|https://images.fotmob.com/image_resources/playerimages/1935404.png","Mohamed Farsi (MF)|https://images.fotmob.com/image_resources/playerimages/1194635.png","Taha Habroune (MF)|https://images.fotmob.com/image_resources/playerimages/1482266.png","Santiago Rodríguez (FW)|https://images.fotmob.com/image_resources/playerimages/1028704.png","Josef Martínez (FW)|https://images.fotmob.com/image_resources/playerimages/239287.png"]'
+awayLineup: '["Ethan Horvath (GK)|https://images.fotmob.com/image_resources/playerimages/471274.png","Dylan Nealis (DF)|https://images.fotmob.com/image_resources/playerimages/1136264.png","Justin Che (DF)|https://images.fotmob.com/image_resources/playerimages/1245693.png","Julián Bazán (DF)|https://images.fotmob.com/image_resources/playerimages/1474122.png","Devin Padelford (DF)|https://images.fotmob.com/image_resources/playerimages/1440054.png","Mohammed Sofo (FW)|https://images.fotmob.com/image_resources/playerimages/1527097.png","Adri Mehmeti (MF)|https://images.fotmob.com/image_resources/playerimages/1715268.png","Emil Forsberg (MF)|https://images.fotmob.com/image_resources/playerimages/171980.png","Cade Cowell (FW)|https://images.fotmob.com/image_resources/playerimages/1025942.png","Eric Maxim Choupo-Moting (FW)|https://images.fotmob.com/image_resources/playerimages/95082.png","Dennis Nelich (FW)|https://images.fotmob.com/image_resources/playerimages/1752861.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-3-3"
+homeCoach: "Laurent Courtois|https://images.fotmob.com/image_resources/playerimages/33619.png"
+awayCoach: "Michael Bradley|https://images.fotmob.com/image_resources/playerimages/26472.png"
+pickWinTeam: "콜럼버스 크루"
+pickWinResult: "승"
+pickHandicapTeam: "콜럼버스 크루"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

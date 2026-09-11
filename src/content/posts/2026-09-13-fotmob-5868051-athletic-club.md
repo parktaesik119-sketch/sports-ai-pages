@@ -1,0 +1,37 @@
+---
+title: "아틀레틱 클럽 vs 엘체 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | 라리가 - 픽천국"
+date: 2026-09-12T16:30:00.000Z
+description: "아틀레틱 클럽 vs 엘체 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868051-2026-09-13-athletic-club"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "아틀레틱 클럽"
+awayTeam: "엘체"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png"
+homeAnalysis: "아틀레틱 클럽은 2026시즌 36경기에서 13승 10무 13패, 경기당 평균 1.5득점을 기록하며 중상위권의 전력을 보여주고 있습니다. 최근 아틀레티코 마드리드를 3-0으로 완파하고 셀타 비고 원정에서도 2-0 승리를 거두며 확연한 상승 기세를 타고 있습니다. 공격진에서는 니코 윌리암스와 이냐키 윌리암스 형제의 강력한 측면 돌파와 산세트의 2선 침투가 어우러져 화력을 높이고 있습니다. 일부 핵심 선수의 결장 악재에도 불구하고 라포르테와 파레데스가 이끄는 수비진이 최근 2경기 연속 무실점을 기록하며 경기력을 끌어올렸습니다. 안방에서 보여주는 높은 집중력과 안정된 공수 밸런스를 고려할 때 이번 경기에서도 주도권을 쥐고 경기를 풀어갈 가능성이 매우 높아 보입니다."
+awayAnalysis: "엘체는 2026시즌 12경기에서 3승 5무 4패, 경기당 평균 1.3득점을 기록하며 다소 기복 있는 흐름을 나타내고 있습니다. 최근 레알 소시에다드전 패배를 포함해 연속 패배에 빠지며 수비 불안이 심각한 문제로 떠올랐습니다. 최근 경기들에서 다실점을 허용하며 수비진과 미드필더진 사이의 간격 유지가 제대로 이루어지지 않고 있는 실정입니다. 공격에서는 폰세와 니뇨가 간발의 기회를 득점으로 연결하려는 시도를 이어가고 있으나 전체적인 경기 주도권을 쥐기에는 어려움이 따르고 있습니다. 원정 경기에서 더욱 흔들리는 방어선과 무너진 수비 밸런스를 조속히 정비하지 못한다면 힘든 경기를 치를 것으로 예상됩니다."
+homePower: "최근 2경기 연속 무실점 승리로 탄탄해진 수비 조직력 자랑함|니코 윌리암스 중심의 강한 측면 돌파로 경기 주도권 확보함|홈 이점을 활용한 경기 초반 강한 압박 축구가 돋보임|주전 공격진의 결정력 회복으로 경기당 득점력 가파른 상승세임|맞대결 다득점 기록으로 엘체 상대 전술적 우위 검증됨"
+awayPower: "최근 3경기 11실점으로 심각한 수비 붕괴 현상 나타남|경기 후반 대량 실점 패턴 반복으로 집중력 유지가 시급함|원정 경기에서 공수 간격 유지 실패로 맞불 작전 위험성 큼|폰세와 니뇨를 활용한 빠른 역습은 여전히 위협적으로 보임|상대전적 열세 극복을 위한 수비적 전술 변화 필요성이 큼"
+h2h: '[{"date":"26.02.21","home":"아틀레틱 클럽","away":"엘체","score":"2-1"},{"date":"25.10.19","home":"엘체","away":"아틀레틱 클럽","score":"0-0"},{"date":"23.05.29","home":"아틀레틱 클럽","away":"엘체","score":"0-1"},{"date":"22.09.11","home":"엘체","away":"아틀레틱 클럽","score":"1-4"},{"date":"22.04.03","home":"아틀레틱 클럽","away":"엘체","score":"2-1"}]'
+summary: "아틀레틱 클럽은 최근 강팀들을 상대로 연속 무실점 대승을 거두며 공격과 수비 양면에서 최상의 흐름을 보여주고 있습니다. 반면 엘체는 최근 경기들에서 잇따른 대량 실점을 허용하며 수비 불안이 크게 드러난 상황입니다. 상대전적과 최근 팀 분위기 모두 홈팀이 확실한 우위를 점하고 있는 만큼 이번 경기는 아틀레틱 클럽이 주도권을 쥐고 승리를 거둘 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Gorka Guruzeta (햄스트링 부상)|Beñat Prados (허벅지 부상)|Daniel Vivian (사타구니 부상)|Unai Eguiluz (십자 인대 부상)|Peio Canales (근육 부상)"
+injuryAway: "Adam Boayar (근육 부상)|Yago Santiago (무릎 부상)"
+homeLineup: '["Unai Simón (GK)|https://images.fotmob.com/image_resources/playerimages/660625.png","Jesús Areso (DF)|https://images.fotmob.com/image_resources/playerimages/1037537.png","Aitor Paredes (DF)|https://images.fotmob.com/image_resources/playerimages/1191407.png","Aymeric Laporte (DF)|https://images.fotmob.com/image_resources/playerimages/411617.png","Yuri Berchiche (DF)|https://images.fotmob.com/image_resources/playerimages/80295.png","Íñigo Ruíz de Galarreta (MF)|https://images.fotmob.com/image_resources/playerimages/282462.png","Beñat Gerenabarrena (MF)|https://images.fotmob.com/image_resources/playerimages/1425173.png","Robert Navarro (FW)|https://images.fotmob.com/image_resources/playerimages/1011117.png","Oihan Sancet (MF)|https://images.fotmob.com/image_resources/playerimages/950545.png","Nico Williams (FW)|https://images.fotmob.com/image_resources/playerimages/1202110.png","Iñaki Williams (FW)|https://images.fotmob.com/image_resources/playerimages/604105.png"]'
+awayLineup: '["Matías Dituro (GK)|https://images.fotmob.com/image_resources/playerimages/592412.png","Buba Sangaré (DF)|https://images.fotmob.com/image_resources/playerimages/1583872.png","Víctor Chust (DF)|https://images.fotmob.com/image_resources/playerimages/1192393.png","Pedro Bigas (DF)|https://images.fotmob.com/image_resources/playerimages/291635.png","Tete Morente (MF)|https://images.fotmob.com/image_resources/playerimages/801213.png","Facundo Buonanotte (MF)|https://images.fotmob.com/image_resources/playerimages/1336566.png","Javi Morcillo (MF)|https://images.fotmob.com/image_resources/playerimages/1732412.png","Gonzalo Villar (MF)|https://images.fotmob.com/image_resources/playerimages/881773.png","Germán Valera (MF)|https://images.fotmob.com/image_resources/playerimages/1102708.png","Ezequiel Ponce (FW)|https://images.fotmob.com/image_resources/playerimages/493216.png","Fer Niño (FW)|https://images.fotmob.com/image_resources/playerimages/1127224.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "3-5-2"
+homeCoach: "Edin Terzić|https://images.fotmob.com/image_resources/playerimages/1216045.png"
+awayCoach: "Martín Anselmi|https://images.fotmob.com/image_resources/playerimages/1327712.png"
+pickWinTeam: "아틀레틱 클럽"
+pickWinResult: "승"
+pickHandicapTeam: "아틀레틱 클럽"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

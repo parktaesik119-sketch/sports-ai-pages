@@ -1,0 +1,37 @@
+---
+title: "레알 마드리드 vs 라요 바예카노 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | 라리가 - 픽천국"
+date: 2026-09-12T19:00:00.000Z
+description: "레알 마드리드 vs 라요 바예카노 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868057-2026-09-13-real-madrid"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "레알 마드리드"
+awayTeam: "라요 바예카노"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png"
+homeAnalysis: "레알 마드리드는 2026시즌 30경기에서 18승 2무 10패를 기록하며 꾸준히 높은 승률을 유지하고 있습니다. 최근 인테르를 상대한 경기에서도 2대1 승리를 거두는 등 전반적인 경기 운영력에서 안정감을 나타내고 있습니다. 공격진에서는 킬리안 음바페와 비니시우스 주니오르가 최전방에서 폭발적인 득점 창출 능력을 발휘하며 팀 공격을 이끌고 있습니다. 중원에서는 주드 벨링엄과 페데리코 발베르데, 에두아르도 카마빙가가 유기적인 호흡을 맞추며 전방위적인 경기 지배력을 보여줍니다. 수비진에 일부분 부상 공백이 존재하지만 티보 쿠르투아 골키퍼의 안정적인 선방 능력과 강력한 화력을 바탕으로 주도권을 확보할 것으로 기대됩니다."
+awayAnalysis: "라요 바예카노는 2026시즌 15경기에서 7승 2무 6패를 기록하며 만만치 않은 전력을 보여주고 있습니다. 직전 라싱 산탄데르전에서 3대2 승리를 거두며 반등의 발판을 마련했으나 전반적인 수비 안정감에서는 기복이 드러나고 있습니다. 전방에서는 세르히오 카메요와 알바로 가르시아가 날카로운 반격을 시도하며 상대 수비를 위협하는 핵심 역할을 맡고 있습니다. 다만 이시 팔라손과 호르헤 데 프루토스 등 전력 이탈자가 다수 발생하여 선수단 운용에 적잖은 차질이 예상됩니다. 상대전적에서 끈질기게 비기는 경기를 만들어낸 저력이 있으나 원정 경기에서의 수비 부담을 극복하는 것이 최우선 과제로 꼽힙니다."
+homePower: "레알 마드리드 음바페·비니시우스 조합의 압도적 전방 화력 돋보임|맞대결에서 2대1 승리를 연이어 거두며 결정력 차이 검증됨|벨링엄과 발베르데 중심의 탄탄한 중원 제어 능력 유지함|수비진 부상 변수에도 쿠르투아의 안정적 선방 능력이 뒷받침됨|높은 시즌 승률 기반으로 경기 내내 주도권을 유지하는 흐름임"
+awayPower: "라요 바예카노 카메요·가르시아 중심의 빠른 측면 반격 위협적임|최근 실점이 늘어나며 경기 후반 수비 집중력 저하가 노출됨|이시 팔라손 포함 다수의 핵심 전력 이탈로 선수단 운용 난조임|레알 마드리드 상대 무승부를 다수 이끌어낸 끈질긴 저력 존재함|원정 경기에서 선제 실점 시 경기 주도권을 내주는 한계 보임"
+h2h: '[{"date":"26.02.01","home":"레알 마드리드","away":"라요 바예카노","score":"2-1"},{"date":"25.11.10","home":"라요 바예카노","away":"레알 마드리드","score":"0-0"},{"date":"25.03.10","home":"레알 마드리드","away":"라요 바예카노","score":"2-1"},{"date":"24.12.15","home":"라요 바예카노","away":"레알 마드리드","score":"3-3"},{"date":"24.02.18","home":"라요 바예카노","away":"레알 마드리드","score":"1-1"}]'
+summary: "레알 마드리드는 이번 시즌 탄탄한 승률을 바탕으로 우수한 공격진의 결정력을 매 경기 입증하고 있습니다. 라요 바예카노 역시 특유의 끈질김으로 중원 공방전을 유도하겠지만, 핵심 자원들의 부상 이탈로 인한 수비와 로테이션 부담이 커진 상황입니다. 특히 맞대결 전적에서도 레알 마드리드가 꾸준히 우위를 점해왔던 만큼, 강력한 공격진과 안정된 중원 주도권을 앞세운 레알 마드리드가 경기를 지배하며 우세를 점할 것으로 예상됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Éder Militao (허벅지 부상)|Ferland Mendy (부상)|Raúl Asencio (정강이 부상)|Rodrygo (십자 인대 부상)"
+injuryAway: "Augusto Batalla (부상)|Jozhua Vertrouwd (햄스트링 부상)|Luiz Felipe (햄스트링 부상)|Marash Kumbulla (근육 부상)|Isi Palazón (근육 부상)|Fran Pérez (부상)|Jorge de Frutos (부상)"
+homeLineup: '["Thibaut Courtois (GK)|https://images.fotmob.com/image_resources/playerimages/170323.png","Denzel Dumfries (MF)|https://images.fotmob.com/image_resources/playerimages/593118.png","Ibrahima Konaté (DF)|https://images.fotmob.com/image_resources/playerimages/820140.png","Dean Huijsen (DF)|https://images.fotmob.com/image_resources/playerimages/1367619.png","Marc Cucurella (DF)|https://images.fotmob.com/image_resources/playerimages/873289.png","Federico Valverde (MF)|https://images.fotmob.com/image_resources/playerimages/743533.png","Eduardo Camavinga (MF)|https://images.fotmob.com/image_resources/playerimages/1015185.png","Arda Güler (MF)|https://images.fotmob.com/image_resources/playerimages/1253890.png","Jude Bellingham (MF)|https://images.fotmob.com/image_resources/playerimages/1077894.png","Vinícius Júnior (FW)|https://images.fotmob.com/image_resources/playerimages/846033.png","Kylian Mbappé (FW)|https://images.fotmob.com/image_resources/playerimages/701154.png"]'
+awayLineup: '["Dani Cárdenas (GK)|https://images.fotmob.com/image_resources/playerimages/1041445.png","Andrei Rațiu (DF)|https://images.fotmob.com/image_resources/playerimages/970578.png","Florian Lejeune (DF)|https://images.fotmob.com/image_resources/playerimages/184521.png","Pathé Ciss (MF)|https://images.fotmob.com/image_resources/playerimages/872396.png","Adrià Pedrosa (DF)|https://images.fotmob.com/image_resources/playerimages/927646.png","Unai López (MF)|https://images.fotmob.com/image_resources/playerimages/571615.png","Óscar Valentín (MF)|https://images.fotmob.com/image_resources/playerimages/956622.png","Pedro Díaz (MF)|https://images.fotmob.com/image_resources/playerimages/715069.png","Giorgi Tsitaishvili (FW)|https://images.fotmob.com/image_resources/playerimages/939061.png","Sergio Camello (FW)|https://images.fotmob.com/image_resources/playerimages/980422.png","Álvaro Garcia (FW)|https://images.fotmob.com/image_resources/playerimages/474658.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-3-3"
+homeCoach: "José Mourinho|https://images.fotmob.com/image_resources/playerimages/78719.png"
+awayCoach: "Beñat San José|https://images.fotmob.com/image_resources/playerimages/1073489.png"
+pickWinTeam: "레알 마드리드"
+pickWinResult: "승"
+pickHandicapTeam: "레알 마드리드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

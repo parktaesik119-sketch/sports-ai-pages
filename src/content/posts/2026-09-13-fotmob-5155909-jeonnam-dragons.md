@@ -1,0 +1,37 @@
+---
+title: "전남 드래곤즈 vs 김포 시티즌 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | K2 - 픽천국"
+date: 2026-09-13T07:30:00.000Z
+description: "전남 드래곤즈 vs 김포 시티즌 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155909-2026-09-13-jeonnam-dragons"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "전남 드래곤즈"
+awayTeam: "김포 시티즌"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/109377.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/833649.png"
+homeAnalysis: "전남 드래곤즈는 2026시즌 16경기에서 3승 7무 6패, 평균 득점 1.1골을 기록하며 다소 아쉬운 성적을 남기고 있지만 최근 3경기 연속 무패 흐름을 이어가며 반등의 계기를 마련했습니다. 이관식 감독 체제에서 전남 드래곤즈는 최근 천안시티와 화성FC를 상대로 잇달아 승리를 거두는 등 안방에서 한층 견고해진 수비 조직력을 선보이고 있습니다. 공격진에서는 발디비아와 로난이 최전방에서 왕성한 활동량을 바탕으로 상대 수비진을 흔들고 있으며 미란디냐의 측면 지원도 힘을 더하고 있습니다. 중원에서는 장윤호와 최한솔이 공수 밸런스를 안정적으로 잡아주면서 경기 주도권을 쥐는 시간이 점차 늘어나고 있습니다. 아직 평균 득점력에서 폭발적인 모습을 보이진 못하지만 안정된 후방 빌드업과 홈 경기 이점을 살린다면 충분히 성과를 낼 수 있을 것으로 보입니다."
+awayAnalysis: "김포 시티즌은 2026시즌 20경기에서 7승 7무 6패, 평균 득점 1.1골을 올리며 리그 중위권에서 치열한 순위 싸움을 이어가고 있습니다. 고정운 감독이 이끄는 김포 시티즌은 최근 성남FC와 수원 삼성에 연속으로 덜미를 잡히며 수비 집중력 불안을 드러냈지만 앞선 김천 상무전 승리처럼 강팀을 잡는 저력도 갖추고 있습니다. 공격진에서는 박동진과 이시헌, 남현우가 3백 기반의 빠른 공수 전환 속에서 날카로운 반격을 전개하는 모습이 눈에 띕니다. 김동민, 김태한, 이인재로 이어지는 3백 수비진이 최근 경기에서 실점이 늘어난 만큼 이번 원정에서는 수비 안정감 회복이 최우선 과제로 꼽힙니다. 원정 경기에서도 끈질긴 압박을 바탕으로 한 방을 노리는 스타일인 만큼 상대의 빈틈을 놓치지 않는 집중력이 관건입니다."
+homePower: "최근 3경기 연속 무패로 반등세를 타며 분위기가 개선됨|안방 경기에서 실점을 최소화하는 견고한 수비가 돋보임|발디비아와 로난 조합을 활용한 최전방 득점 창출력이 주효함|중원에서의 끈질긴 압박으로 상대 공격 줄기를 차단함|전남 드래곤즈의 홈 이점과 수비 안정감이 승점을 이끌어냄"
+awayPower: "최근 2연패로 수비 조직력에서 다소 불안한 기복을 노출함|빠른 공수 전환과 박동진 중심의 역습 전개가 위협적임|3백 수비 라인의 측면 공간 허용이 실점 증가의 원인임|원정 경기에서도 강한 압박 축구로 상대를 흔드는 끈기가 있음|김포 시티즌의 맞대결 집중력과 반격 효율이 핵심 변수임"
+h2h: '[{"date":"26.06.07","home":"김포 시티즌","away":"전남 드래곤즈","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1510361-2026-06-07-gimpo-citizen/"},{"date":"25.08.30","home":"김포 시티즌","away":"전남 드래곤즈","score":"2-0"},{"date":"25.06.22","home":"전남 드래곤즈","away":"김포 시티즌","score":"0-0"},{"date":"25.04.27","home":"김포 시티즌","away":"전남 드래곤즈","score":"0-1"},{"date":"24.09.01","home":"김포 시티즌","away":"전남 드래곤즈","score":"4-3"}]'
+summary: "최근 3경기 무패를 기록하며 분위기를 끌어올린 전남 드래곤즈와 최근 2연패로 수비 안정감이 흔들린 김포 시티즌의 맞대결입니다. 전남 드래곤즈는 홈에서 안정을 찾은 수비진과 공격진의 호흡을 바탕으로 경기 주도권을 쥘 것으로 기대됩니다. 김포 시티즌의 매서운 역습 전개도 만만치 않으나, 최근 안방에서 경기력 집중력이 살아난 전남 드래곤즈가 주도권을 잡고 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Bong-Jin Choe (GK)|https://images.fotmob.com/image_resources/playerimages/654186.png","Young-Kwang Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1440072.png","Soon-Hyeok Jang (DF)|https://images.fotmob.com/image_resources/playerimages/730663.png","Seok-Hyun Hong (DF)|https://images.fotmob.com/image_resources/playerimages/1351103.png","Yong-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/533180.png","Irakli Bughridze (MF)|https://images.fotmob.com/image_resources/playerimages/927684.png","Yun-Ho Jang (MF)|https://images.fotmob.com/image_resources/playerimages/640481.png","Han-Sol Choi (MF)|https://images.fotmob.com/image_resources/playerimages/926618.png","Mirandinha (MF)|https://images.fotmob.com/image_resources/playerimages/1381730.png","Valdívia (FW)|https://images.fotmob.com/image_resources/playerimages/493595.png","Ronan (FW)|https://images.fotmob.com/image_resources/playerimages/538536.png"]'
+awayLineup: '["Jeong-Hyeon Son (GK)|https://images.fotmob.com/image_resources/playerimages/527959.png","Dong-Min Kim (DF)|https://images.fotmob.com/image_resources/playerimages/828155.png","Tae-Han Kim (DF)|https://images.fotmob.com/image_resources/playerimages/925256.png","In-Jae Lee (DF)|https://images.fotmob.com/image_resources/playerimages/828168.png","Hak-Min Lee (MF)|https://images.fotmob.com/image_resources/playerimages/532876.png","Seong-Jun Kim (MF)|https://images.fotmob.com/image_resources/playerimages/254733.png","Do-Hyuk Kim (MF)|https://images.fotmob.com/image_resources/playerimages/530228.png","Bu-Seong Jang (MF)|https://images.fotmob.com/image_resources/playerimages/1836886.png","Hyeon-U Nam (FW)|https://images.fotmob.com/image_resources/playerimages/1999108.png","Dong-Jin Park (FW)|https://images.fotmob.com/image_resources/playerimages/730780.png","Si-Heon Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1063125.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "Kwan-Sik Lim|https://images.fotmob.com/image_resources/playerimages/117386.png"
+awayCoach: "Jeong-Woon Ko|https://images.fotmob.com/image_resources/playerimages/1589549.png"
+pickWinTeam: "전남 드래곤즈"
+pickWinResult: "승"
+pickHandicapTeam: "전남 드래곤즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

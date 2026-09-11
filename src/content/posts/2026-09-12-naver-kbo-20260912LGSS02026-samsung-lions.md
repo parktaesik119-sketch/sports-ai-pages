@@ -1,0 +1,37 @@
+---
+title: "삼성 라이온스 vs LG 트윈스 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | KBO - 픽천국"
+date: 2026-09-12T08:00:00.000Z
+description: "삼성 라이온스 vs LG 트윈스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260912LGSS02026-2026-09-12-samsung-lions"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "삼성 라이온스"
+awayTeam: "LG 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LG.png"
+homeAnalysis: "삼성 라이온스는 2026시즌 98경기에서 58승 38패를 기록하며 리그 2위에 올라 있는 뛰어난 전력을 자랑하고 있습니다. 최근 10경기에서도 7승 3패를 거두는 등 경기당 평균 5.8득점의 강력한 타선을 앞세워 상승세를 꾸준히 유지하는 모습입니다. 타선에서는 WAR 5.12의 구자욱과 WAR 3.68의 최형우가 중심 타선에서 맹활약하며 팀의 득점 생산력을 크게 끌어올리고 있습니다. 더불어 테이블세터로 나서는 김지찬의 높은 출루율과 발빠른 주루 플레이가 상대 투수진을 끊임없이 압박하는 강점으로 작동하고 있습니다. 최근 맞대결 시리즈에서도 안정적인 공수 밸런스를 발휘한 만큼 안방 경기에서 승리할 수 있는 충분한 경쟁력을 갖추고 있습니다."
+awayAnalysis: "LG 트윈스는 2026시즌 100경기에서 53승 45패를 기록하며 리그 3위 자리를 지키고 있습니다. 최근 10경기에서는 5승 5패로 다소 기복 있는 흐름을 보이고 있으나 경기당 평균 5.2득점의 짜임새 있는 타선 집중력을 보여주고 있습니다. 타선의 핵심인 오스틴이 WAR 7.87이라는 뛰어난 활약을 펼치며 팀 공격을 견인하고 있으며 송찬의와 박해민도 제 몫을 다해주고 있습니다. 다만 최근 연패 과정에서 실점이 늘어나는 등 마운드의 불안 요소가 노출된 점은 빠르게 개선해야 할 과제입니다. 이번 원정 경기에서는 마운드의 안정감 회복과 중심 타선의 찬스 해결 능력이 승패의 결정적인 변수가 될 것으로 보입니다."
+homePower: "삼성 라이온스 중심 타선 득점 해결력 뛰어남|테이블세터의 뛰어난 출루로 공격 기회 창출함|LG 트윈스와의 상대전적에서 공수 우위 보임|최근 경기 득점력 상승세로 타선 흐름 양호함|안방에서의 안정적인 경기 운영 능력 검증됨"
+awayPower: "오스틴 중심의 중심 타선 파괴력 유효함|최근 10경기 5승 5패로 타선 흐름 기복 보임|경기 후반 실점 증가로 마운드 불안감 존재함|삼성 라이온스 상대 맞대결 실점 관리 과제임|하위 타선의 출루 지원 부족으로 찬스 제한됨"
+h2h: '[{"date":"26.09.06","home":"LG 트윈스","away":"삼성 라이온스","score":"4-10","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906SSLG02026-2026-09-06-lg-twins/"},{"date":"26.09.05","home":"LG 트윈스","away":"삼성 라이온스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905SSLG02026-2026-09-05-lg-twins/"},{"date":"26.09.04","home":"LG 트윈스","away":"삼성 라이온스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904SSLG02026-2026-09-04-lg-twins/"},{"date":"26.07.09","home":"삼성 라이온스","away":"LG 트윈스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-181847-2026-07-09-samsung-lions/"},{"date":"26.07.08","home":"삼성 라이온스","away":"LG 트윈스","score":"2-8","link":"https://pick79.com/posts/detail/analyze-181846-2026-07-08-samsung-lions/"}]'
+summary: "삼성 라이온스는 이번 시즌 58승을 거두며 리그 2위를 달리고 있고 최근 10경기에서도 7승을 올리며 안정적인 흐름을 유지하고 있습니다. 반면 LG 트윈스는 시즌 53승으로 리그 3위에 위치해 있으나 최근 10경기에서 5승 5패로 다소 기복을 보이는 상황입니다. 특히 삼성 라이온스는 구자욱과 최형우를 필두로 한 타선의 화력과 최근 맞대결에서의 우세를 바탕으로 경기 주도권을 쥘 가능성이 높습니다. 따라서 타선의 집중력과 최근 경기 흐름에서 앞서는 삼성 라이온스가 우위를 점할 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.09","home":"삼성 라이온스","away":"KT 위즈","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909KTSS02026-2026-09-09-samsung-lions/"},{"date":"26.09.08","home":"삼성 라이온스","away":"KIA 타이거즈","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908HTSS02026-2026-09-08-samsung-lions/"},{"date":"26.09.06","home":"LG 트윈스","away":"삼성 라이온스","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906SSLG02026-2026-09-06-lg-twins/"},{"date":"26.09.05","home":"LG 트윈스","away":"삼성 라이온스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905SSLG02026-2026-09-05-lg-twins/"},{"date":"26.09.04","home":"LG 트윈스","away":"삼성 라이온스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904SSLG02026-2026-09-04-lg-twins/"}]'
+awayRecent: '[{"date":"26.09.09","home":"한화 이글스","away":"LG 트윈스","score":"19-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909LGHH02026-2026-09-09-hanwha-eagles/"},{"date":"26.09.08","home":"LG 트윈스","away":"키움 히어로즈","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908WOLG02026-2026-09-08-lg-twins/"},{"date":"26.09.06","home":"LG 트윈스","away":"삼성 라이온스","score":"4-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906SSLG02026-2026-09-06-lg-twins/"},{"date":"26.09.05","home":"LG 트윈스","away":"삼성 라이온스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905SSLG02026-2026-09-05-lg-twins/"},{"date":"26.09.04","home":"LG 트윈스","away":"삼성 라이온스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260904SSLG02026-2026-09-04-lg-twins/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성 라이온스"
+pickWinResult: "승"
+pickHandicapTeam: "삼성 라이온스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

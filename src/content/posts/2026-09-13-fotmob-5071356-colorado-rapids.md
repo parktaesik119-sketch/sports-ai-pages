@@ -1,0 +1,37 @@
+---
+title: "콜로라도 래피즈 vs CF Montréal 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLS - 픽천국"
+date: 2026-09-13T01:30:00.000Z
+description: "콜로라도 래피즈 vs CF Montréal 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071356-2026-09-13-colorado-rapids"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "콜로라도 래피즈"
+awayTeam: "CF Montréal"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8314.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/161195.png"
+homeAnalysis: "콜로라도 래피즈는 2026시즌 12경기에서 3승 3무 6패를 기록하며 현재 리그순위 7위에 위치해 있습니다. 최근 전방에서의 마무리에 다소 기복을 나타내며 어려운 흐름을 겪기도 했으나 홈 경기장에서는 꾸준히 지지 않는 경기를 만들어내고 있습니다. 공격진에서는 Darren Yapi와 Paxten Aaronson이 정교한 연계 플레이를 통해 기회를 창출하며 활발한 움직임을 보여줍니다. 수비 라인은 Reggie Cannon과 Rob Holding을 중심으로 안정적인 실점 억제 능력을 보여주며 팀의 버팀목 역할을 담당하고 있습니다. 이번 경기에서도 홈 이점과 탄탄한 수비 조직력을 바탕으로 주도권을 쥐고 경기를 운용할 것으로 기대됩니다."
+awayAnalysis: "CF Montréal은 2026시즌 17경기에서 4승 7무 6패를 거두며 현재 리그순위 15위에 머물러 있습니다. 최근 경기들에서 승점 획득에 차질을 빚으며 하위권 탈출에 난항을 겪는 다소 침체된 흐름이 이어지고 있습니다. 공격진의 Alexis Sánchez와 Dante Sealy가 분전하며 정교한 공격을 시도하고 있으나 경기 후반부로 갈수록 실점이 늘어나는 문제가 지속되고 있습니다. 수비진의 조직력 난조와 원정 경기에서의 기복이 팀의 가장 큰 약점으로 평가받고 있습니다. 중원에서의 압박 강도를 회복하고 실점을 줄이는 것이 이번 원정길의 핵심 과제로 보입니다."
+homePower: "홈 경기 득점 집중력 및 무실점 경기 운영 능력 우수|상대전적에서 우위를 점하며 심리적 자신감 보유|수비 조직력 안정화로 멀티 실점 억제력 돋보임|공격 마무리 과정에서의 기복은 다소 존재함|콜로라도 래피즈의 안방 제어력은 충분히 검증됨"
+awayPower: "원정 경기 수비 불안으로 인한 실점율 상승세|후반 집중력 저하로 선제골 유지 능력 부족함|베테랑 공격진의 개인 역량 통한 반격 가능성|최근 원정 흐름 하락세로 분위기 반전 필요함|CF Montréal의 얇은 수비 벽은 변수로 작용함"
+h2h: '[{"date":"24.06.23","home":"콜로라도 래피즈","away":"CF Montréal","score":"4-1"},{"date":"19.08.04","home":"콜로라도 래피즈","away":"CF Montréal","score":"6-3"},{"date":"18.07.08","home":"CF Montréal","away":"콜로라도 래피즈","score":"2-1"},{"date":"17.10.01","home":"콜로라도 래피즈","away":"CF Montréal","score":"2-1"},{"date":"16.05.01","home":"CF Montréal","away":"콜로라도 래피즈","score":"2-2"}]'
+summary: "시즌 성적과 리그순위 면에서 콜로라도 래피즈가 CF Montréal에 비해 확연히 안정적인 공수 밸런스를 갖추고 있습니다. 특히 콜로라도 래피즈는 홈 경기장에서 상대를 맞이할 때 탄탄한 수비 조직력과 강한 상성을 바탕으로 우위를 점해왔습니다. 최근 원정 수비 불안으로 고전 중인 CF Montréal이 상대의 홈 이점을 넘어서기에는 부담이 큰 만큼 콜로라도 래피즈가 경기를 주도하며 우세한 결과로 이어질 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Youssef Maziz (부상)|Zack Steffen (어깨 부상)|Mamadou Billo Diop (무릎 부상)|Theodore Ku-DiPietro (어깨 부상)"
+injuryAway: "Frankie Amaya (충돌 부상)|Josh-Duc Nteziryayo (충돌 부상)"
+homeLineup: '["Nicholas Hansen (GK)|https://images.fotmob.com/image_resources/playerimages/1098753.png","Reggie Cannon (DF)|https://images.fotmob.com/image_resources/playerimages/825603.png","Rob Holding (DF)|https://images.fotmob.com/image_resources/playerimages/626667.png","Loïc Williams (DF)|https://images.fotmob.com/image_resources/playerimages/1280203.png","Miguel Navarro (DF)|https://images.fotmob.com/image_resources/playerimages/1048053.png","Hamzat Ojediran (MF)|https://images.fotmob.com/image_resources/playerimages/1442054.png","Youssef Maziz (MF)|https://images.fotmob.com/image_resources/playerimages/814619.png","Wayne Frederick (MF)|https://images.fotmob.com/image_resources/playerimages/1610223.png","Paxten Aaronson (MF)|https://images.fotmob.com/image_resources/playerimages/1171008.png","Darren Yapi (FW)|https://images.fotmob.com/image_resources/playerimages/1190710.png","Donavan Phillip (FW)|https://images.fotmob.com/image_resources/playerimages/1786169.png"]'
+awayLineup: '["Sébastian Breza (GK)|https://images.fotmob.com/image_resources/playerimages/823030.png","Brayan Ceballos (DF)|https://images.fotmob.com/image_resources/playerimages/1289123.png","Brandan Craig (DF)|https://images.fotmob.com/image_resources/playerimages/1188642.png","Brayan Vera (DF)|https://images.fotmob.com/image_resources/playerimages/1053724.png","Luca Petrasso (DF)|https://images.fotmob.com/image_resources/playerimages/1037553.png","Victor Loturi (MF)|https://images.fotmob.com/image_resources/playerimages/1268808.png","Matthew Longstaff (MF)|https://images.fotmob.com/image_resources/playerimages/961343.png","Wiki Carmona (MF)|https://images.fotmob.com/image_resources/playerimages/1246580.png","Alexis Sánchez (FW)|https://images.fotmob.com/image_resources/playerimages/50047.png","Dante Sealy (FW)|https://images.fotmob.com/image_resources/playerimages/1026050.png","Daniel Ríos (FW)|https://images.fotmob.com/image_resources/playerimages/723480.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Matt Wells|https://images.fotmob.com/image_resources/playerimages/1219412.png"
+awayCoach: "Philippe Eullaffroy|https://images.fotmob.com/image_resources/playerimages/1963838.png"
+pickWinTeam: "콜로라도 래피즈"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 래피즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

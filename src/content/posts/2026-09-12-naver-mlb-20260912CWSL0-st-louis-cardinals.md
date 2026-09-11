@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 시카고 화이트삭스 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | MLB - 픽천국"
+date: 2026-09-12T00:15:00.000Z
+description: "세인트루이스 카디널스 vs 시카고 화이트삭스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260912CWSL0-2026-09-12-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "시카고 화이트삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 72승 75패의 성적으로 리그순위 10위에 위치해 있으며 득실차 -12.0을 기록하고 있습니다. 최근 10경기에서는 5승 5패를 거두며 기복 속에서도 타선의 반등 조짐을 확실히 보여주고 있습니다. 특히 최근 경기들에서 득점 생산력이 크게 살아나며 공격진이 매 경기 활발한 모습을 보여주는 점이 돋보입니다. 수비진에서는 마운드의 부상 공백이 다소 아쉽지만 홈 경기 특유의 집요한 경기 운영으로 안정감을 유지하고 있습니다. 핵심 타선의 클러치 능력이 상승세를 타고 있어 이번 홈 경기에서도 강점을 충분히 발휘할 것으로 기대됩니다."
+awayAnalysis: "시카고 화이트삭스는 2026시즌 75승 70패의 성적으로 리그순위 4위에 오르며 득실차 +41.0의 우수한 지표를 유지하고 있습니다. 다만 최근 10경기에서는 4승 6패로 주춤하며 시즌 고점 대비 흐름이 다소 가라앉은 모습을 보이고 있습니다. 마운드 핵심 자원들의 장기 부상 이탈로 인해 경기 후반 불펜 운용에서 다소 부담이 이어지는 상황입니다. 원정 길에서 타선의 득점 지원에 기복이 나타나며 경기 주도권을 잡는 데 어려움을 겪고 있습니다. 리그 상위권 순위를 지키고 있으나 최근 꺾인 흐름을 극복하는 것이 중요한 과제로 평가됩니다."
+homePower: "세인트루이스 카디널스의 최근 타선 득점 생산력 상승세 뚜렷함|마운드 부상 악재 속에서도 홈 경기 집중력 우수함|상대적으로 가라앉은 원정팀 불펜 허점을 공략 가능함|경기 후반 클러치 상황에서의 타선 집중력 돋보임|중위권 반등을 위한 홈 연전 승률 관리 집중력 높음"
+awayPower: "시카고 화이트삭스는 시즌 득실 관리 우수하나 최근 흐름 정체됨|핵심 투수진 부상 이탈로 마운드 깊이 약화된 상태임|원정 연전 속에서 타선 득점 지원의 기복 변수 존재함|리그 상위권 순위 유지 중이나 최근 경기력 저하 보임|선발진 조기 강판 시 불펜 과부하 우려가 지속됨"
+h2h: '[]'
+summary: "세인트루이스 카디널스는 최근 공격력이 활발히 살아나며 안방에서 확실하게 경기 흐름을 가져오고 있습니다. 반면 시카고 화이트삭스는 시즌 전반적인 지표에서 앞서고 있으나 최근 타선 정체와 마운드 결장 악재로 다소 주춤한 모양새입니다. 홈 경기의 이점과 최근 타선 화력의 우위를 바탕으로 세인트루이스 카디널스가 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.10","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910SLSF0-2026-09-10-san-francisco-giants/"},{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"},{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"},{"date":"26.09.05","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SLCO0-2026-09-05-colorado-rockies/"},{"date":"26.09.04","home":"LA 다저스","away":"세인트루이스 카디널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904SLLA0-2026-09-04-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.09.10","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910PICW0-2026-09-10-chicago-white-sox/"},{"date":"26.09.09","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"3-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909PICW0-2026-09-09-chicago-white-sox/"},{"date":"26.09.07","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MNCW0-2026-09-07-chicago-white-sox/"},{"date":"26.09.06","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MNCW0-2026-09-06-chicago-white-sox/"},{"date":"26.09.05","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MNCW0-2026-09-05-chicago-white-sox/"}]'
+injuryHome: "Masyn Winn (경미한 통증)|Peter Strzelecki (15일 자 염증)|JJ Wetherholt (10일 자 힘줄염)|Everson Pereira (10일 자 타박상)|Blaze Jordan (10일 자 염좌)"
+injuryAway: "Drew Thorpe (60일 자 수술)|Huascar Brazoban (15일 자 염좌)|Tyler Davis (경조사 휴가)|Tanner Murray (60일 자 수술)|Tommy Pham (10일 자 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

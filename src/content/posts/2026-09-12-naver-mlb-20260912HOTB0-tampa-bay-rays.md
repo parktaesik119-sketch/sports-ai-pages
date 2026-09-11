@@ -1,0 +1,37 @@
+---
+title: "탬파베이 레이스 vs 휴스턴 애스트로스 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | MLB - 픽천국"
+date: 2026-09-11T23:10:00.000Z
+description: "탬파베이 레이스 vs 휴스턴 애스트로스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260912HOTB0-2026-09-12-tampa-bay-rays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "탬파베이 레이스"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "탬파베이 레이스는 2026시즌 87승 59패 승률 0.596을 기록하며 리그순위 1위로 최상위권 전력을 견고하게 유지하고 있습니다. 최근 10경기에서 5승 5패를 기록하며 주춤하는 듯했으나 경기당 평균 득점 4.4점을 올리는 꾸준한 타선 흐름을 이어가고 있습니다. 플러스 득실차(+56.0)가 증명하듯 마운드의 실점 억제력과 탄탄한 수비 밸런스가 시즌 내내 팀의 굳건한 기반이 되어주고 있습니다. 주요 선수들의 장기 부상 이탈 악재가 존재하지만 체계적인 불펜 운용과 홈에서의 집중력으로 이를 훌륭하게 메우고 있습니다. 뛰어난 위기 관리 능력과 경기 후반 뒷심을 발휘하여 이번 홈 경기에서도 주도권을 잡을 것으로 기대됩니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 75승 72패 승률 0.510을 기록하며 현재 리그순위 5위에 위치해 있습니다. 최근 10경기 동안 5승 5패를 거두며 기복 있는 흐름을 보이고 있지만 평균 득점 4.4점을 기록 중인 타선은 언제든 경기를 뒤집을 수 있는 화력을 보유하고 있습니다. 다만 마운드의 난조로 인해 마이너스 득실차(-40.0)를 기록하고 있어 실점 최소화가 이번 경기의 가장 큰 승부처가 될 전망입니다. 핵심 야전사령관과 투수진의 장기 부상 부재가 아쉽지만 상대전적에서 거둔 우세를 바탕으로 원정 경기에서도 강한 자신감을 드러내고 있습니다. 경기 초반 찬스를 실효성 있게 득점으로 연결한다면 접전 양상을 만들어낼 저력이 충분합니다."
+homePower: "탬파베이 레이스의 리그 1위 득실차 기반 안정적 마운드 운영 우위|평균 득점 대비 실점 억제력이 팀 승리의 핵심으로 작용함|주요 자원 결장에도 홈 경기 승부처 집약적 마운드 운용 돋보임|상대 맞대결 열세 극복을 위한 경기 초반 선제 득점력 관건임|경기 후반 불펜진의 위기관리 능력이 팀 승리 견인력을 보임"
+awayPower: "휴스턴 애스트로스의 시즌 상대전적 우위를 바탕으로 한 자신감 보유|마운드 불안에 따른 음수 득실차 극복이 최우선 과제로 보임|핵심 타선 이탈 속에 원정 타선의 한 방 폭발력이 핵심 변수임|실점 억제 실패 시 경기 중반 마운드 과부하 우려가 존재함|맞대결 승리 경험을 바탕으로 한 경기 초반 공세 기선제압 가능함"
+h2h: '[{"date":"26.07.06","home":"휴스턴 애스트로스","away":"탬파베이 레이스","score":"2-0","link":"https://pick79.com/posts/detail/analyze-179360-2026-07-06-houston-astros/"},{"date":"26.07.05","home":"휴스턴 애스트로스","away":"탬파베이 레이스","score":"10-8","link":"https://pick79.com/posts/detail/analyze-179345-2026-07-05-houston-astros/"},{"date":"26.07.04","home":"휴스턴 애스트로스","away":"탬파베이 레이스","score":"1-3"}]'
+summary: "시즌 전체 리그순위 1위를 달리고 있는 탬파베이 레이스는 안정된 마운드와 플러스 득실차를 앞세워 꾸준한 전력을 유지하고 있습니다. 반면 휴스턴 애스트로스는 타선의 화력을 바탕으로 맞대결에서 우위를 점한 바 있으나 시즌 전체적인 실점 관리와 마운드 안정감에서는 다소 아쉬움을 남기고 있습니다. 홈 마운드의 견고함과 공수 밸런스 면에서 앞서는 탬파베이 레이스가 원정팀의 반격을 차단하며 주도권을 잡고 우위를 점할 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.11","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TBAT0-2026-09-11-atlanta-braves/"},{"date":"26.09.10","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TBAT0-2026-09-10-atlanta-braves/"},{"date":"26.09.09","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909TBAT0-2026-09-09-atlanta-braves/"},{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"},{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"}]'
+awayRecent: '[{"date":"26.09.11","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911HOPH0-2026-09-11-philadelphia-phillies/"},{"date":"26.09.10","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910HOPH0-2026-09-10-philadelphia-phillies/"},{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"},{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"}]'
+injuryHome: "Jake Fraley (60일 부상자 명단 - 수술)|Edwin Uceta (60일 부상자 명단 - 긴장/염좌)|Ben Williamson (10일 부상자 명단 - 긴장/염좌)|Jonathan Heasley (60일 부상자 명단 - 골절)|Taylor Walls (10일 부상자 명단 - 긴장/염좌)"
+injuryAway: "Brice Matthews (60일 부상자 명단 - 염좌)|Steven Okert (15일 부상자 명단 - 긴장/염좌)|Mike Burrows (60일 부상자 명단 - 염증)|Carlos Correa (60일 부상자 명단 - 수술)|Brandon Walter (60일 부상자 명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

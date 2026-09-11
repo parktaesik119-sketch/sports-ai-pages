@@ -1,0 +1,37 @@
+---
+title: "인터 마이애미 vs 내슈빌 SC 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLS - 픽천국"
+date: 2026-09-12T23:30:00.000Z
+description: "인터 마이애미 vs 내슈빌 SC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071354-2026-09-13-inter-miami-cf"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "인터 마이애미"
+awayTeam: "내슈빌 SC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/915807.png"
+homeAnalysis: "인터 마이애미는 2026시즌 2승 5무 8패를 기록하며 리그순위 2위에 올라 있지만 최근 전력 조율에 다소 어려움을 겪고 있습니다. 리그 최상위권 순위에 자리하고 있음에도 불구하고 최근 경기 결과의 기복이 이어지면서 고점 대비 다소 주춤하는 흐름입니다. 공격진에서는 리오넬 메시와 루이스 수아레스가 최전방에서 클래스를 입증하며 지속적으로 위협적인 장면을 만들어내고 있습니다. 다만 수비 라인의 불안정함이 이어지는 가운데 수비 자원들의 부상 공백도 부담 요소로 작용하고 있습니다. 홈 경기 이점을 살려 안방에서 분위기 반등을 노리지만 공수 밸런스를 안정적으로 유지하는 것이 핵심 과제로 꼽힙니다."
+awayAnalysis: "내슈빌 SC는 2026시즌 10승 3무 6패의 우수한 성적을 거두며 리그순위 1위를 굳건히 유지하고 있습니다. 높은 리그순위에 걸맞게 탄탄한 공수 밸런스와 안정적인 경기 운영 능력을 보여주며 긍정적인 흐름을 이어가는 중입니다. 공격진에서는 하니 무크타르와 샘 서리지의 날카로운 호흡이 팀의 확실한 득점원으로 자리 잡았습니다. 수비진 역시 견고한 라인을 유지하며 상대 공격을 효과적으로 억제하는 뛰어난 방어력을 자랑합니다. 원정 경기에서도 특유의 조직력을 바탕으로 경기 주도권을 쥐고 효율적으로 풀어가는 힘이 돋보입니다."
+homePower: "인터 마이애미 최전방 공격진의 뛰어난 개별 기량|리그 상위권 순위 대비 수비 불안으로 승점 손실 발생|공격 효율성은 높으나 수비 라인 부상 공백 존재함|홈 이점을 활용한 경기 초반 주도권 확보가 관건임|상대 전술에 따른 후반 경기력 기복 극복 필요함"
+awayPower: "내슈빌 SC 리그 1위다운 견고한 수비 밸런스 자랑함|공격진의 높은 결정력과 안정적인 경기 운영 능력|최근 맞대결 대승을 포함하여 상대전적 우위를 확보함|원정길에서도 흔들림 없는 조직력 중심 경기 펼침|공수 전환 속도가 빨라 상대 수비 빈틈 효율적 공략"
+h2h: '[{"date":"26.08.16","home":"내슈빌 SC","away":"인터 마이애미","score":"4-1","link":"https://pick79.com/posts/detail/analyze-fotmob-5071270-2026-08-16-nashville-sc/"},{"date":"26.03.19","home":"인터 마이애미","away":"내슈빌 SC","score":"1-1"},{"date":"26.03.12","home":"내슈빌 SC","away":"인터 마이애미","score":"0-0"},{"date":"25.11.09","home":"인터 마이애미","away":"내슈빌 SC","score":"4-0"},{"date":"25.11.02","home":"내슈빌 SC","away":"인터 마이애미","score":"2-1"}]'
+summary: "인터 마이애미와 내슈빌 SC의 이번 맞대결은 리그 최상위권 팀 간의 치열한 승부가 기대됩니다. 홈팀 인터 마이애미는 막강한 공격력을 갖추고 있으나 최근 수비 불안이 발목을 잡는 반면 내슈빌 SC는 안정적인 득실 관리와 탄탄한 조직력으로 우위를 증명하고 있습니다. 지난 맞대결에서도 내슈빌 SC가 매서운 화력을 선보이며 승리를 거두었던 만큼 이번 경기 역시 내슈빌 SC가 전체적인 경기 주도권을 잡고 우세한 경기를 펼칠 가능성이 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Sergio Reguilón (충돌 부상)|Gonzalo Luján (충돌 부상)|Santiago Morales (근육 부상)|Micael (발목 부상)|Tadeo Allende (무릎 부상)"
+injuryAway: "Warren Madrigal (충돌 부상)"
+homeLineup: '["Dayne St. Clair (GK)|https://images.fotmob.com/image_resources/playerimages/1026105.png","Ian Fray (DF)|https://images.fotmob.com/image_resources/playerimages/1171135.png","Casemiro (MF)|https://images.fotmob.com/image_resources/playerimages/208494.png","Maximiliano Falcón (DF)|https://images.fotmob.com/image_resources/playerimages/1134104.png","Fricio Caicedo (DF)|https://images.fotmob.com/image_resources/playerimages/1829065.png","Rodrigo De Paul (MF)|https://images.fotmob.com/image_resources/playerimages/324578.png","Yannick Bright (MF)|https://images.fotmob.com/image_resources/playerimages/1600844.png","Telasco Segovia (MF)|https://images.fotmob.com/image_resources/playerimages/1253904.png","Germán Berterame (FW)|https://images.fotmob.com/image_resources/playerimages/743536.png","Lionel Messi (FW)|https://images.fotmob.com/image_resources/playerimages/30981.png","Luis Suárez (FW)|https://images.fotmob.com/image_resources/playerimages/40636.png"]'
+awayLineup: '["Brian Schwake (GK)|https://images.fotmob.com/image_resources/playerimages/1169991.png","Reed Baker-Whiting (DF)|https://images.fotmob.com/image_resources/playerimages/1190765.png","Jack Maher (DF)|https://images.fotmob.com/image_resources/playerimages/1124868.png","Maxwell Woledzi (DF)|https://images.fotmob.com/image_resources/playerimages/1069403.png","Daniel Lovitz (DF)|https://images.fotmob.com/image_resources/playerimages/525617.png","Matthew Corcoran (MF)|https://images.fotmob.com/image_resources/playerimages/1341159.png","Edvard Tagseth (MF)|https://images.fotmob.com/image_resources/playerimages/1083998.png","Cristian Espinoza (FW)|https://images.fotmob.com/image_resources/playerimages/589897.png","Hany Mukhtar (FW)|https://images.fotmob.com/image_resources/playerimages/394462.png","Elias Saad (FW)|https://images.fotmob.com/image_resources/playerimages/1285773.png","Sam Surridge (FW)|https://images.fotmob.com/image_resources/playerimages/796747.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Angel Guillermo Hoyos|https://images.fotmob.com/image_resources/playerimages/789362.png"
+awayCoach: "BJ Callaghan|https://images.fotmob.com/image_resources/playerimages/1494306.png"
+pickWinTeam: "내슈빌 SC"
+pickWinResult: "승"
+pickHandicapTeam: "내슈빌 SC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

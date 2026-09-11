@@ -1,0 +1,37 @@
+---
+title: "김천 상무 FC vs 강원 FC 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | K-League 1 - 픽천국"
+date: 2026-09-13T07:30:00.000Z
+description: "김천 상무 FC vs 강원 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140034-2026-09-13-gimcheon-sangmu"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "김천 상무 FC"
+awayTeam: "강원 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133901.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/164734.png"
+homeAnalysis: "김천 상무 FC는 2026시즌 17경기에서 2승 9무 6패를 기록하며 경기당 평균 0.8득점으로 다소 아쉬운 흐름을 보이고 있습니다. 최근 경기에서도 잦은 무승부와 득점력 부진으로 승점 쌓기에 어려움을 겪는 모양새입니다. 고재현과 홍윤상을 위시한 전방 공격진의 움직임은 위협적이지만 마무리 효율이 다소 떨어집니다. 변준수를 중심으로 한 수비 라인은 비교적 안정적이지만 경기 후반 집중력 유지가 핵심 과제로 남아있습니다. 홈에서 분위기 반전을 노리는 만큼 득점력 개선이 승패의 분수령이 될 것으로 보입니다."
+awayAnalysis: "강원 FC는 2026시즌 18경기에서 5승 8무 5패를 기록하며 경기당 평균 1.1득점으로 끈끈한 경기력을 유지하고 있습니다. 최근 경기에서 대승을 거두는 등 꾸준히 승점을 적립하며 양호한 흐름을 보여주고 있습니다. 전방에서 김대원과 모재현의 활발한 측면 침투로 상대 수비진을 효과적으로 흔들고 있습니다. 김동현과 서민우가 지키는 중원 역시 안정적인 공수 밸런스를 발휘하며 원정 경기에서도 팽팽한 흐름을 유지합니다. 이번 원정길에서도 높은 전술적 완성도를 바탕으로 우위를 점하고자 합니다."
+homePower: "김천 상무 FC 무승부 비중 높아 승점 쌓기 정체임|경기당 0.8득점의 저조한 골 결정력이 변수임|변준수 중심의 중앙 수비 라인은 기본 안정감 갖춤|고재현과 홍윤상의 측면 전개 속도는 위협적임|후반 집중력 저하로 인한 실점 관리 필요함"
+awayPower: "최근 맞대결 3연승 거두며 확실한 상성 우위임|김대원과 모재현의 측면 공격 화력 돋보임|김동현 중심 중원의 공수 밸런스 견고함|원정 경기에서도 안정적인 승점 수집력 보여줌|상대 수비 공략 가능한 전방 침투 능력 우수함"
+h2h: '[{"date":"26.07.18","home":"강원 FC","away":"김천 상무 FC","score":"2-0","link":"https://pick79.com/posts/detail/analyze-1506999-2026-07-18-gangwon-fc/"},{"date":"26.04.21","home":"김천 상무 FC","away":"강원 FC","score":"0-3"},{"date":"25.11.08","home":"김천 상무 FC","away":"강원 FC","score":"0-1"},{"date":"25.08.09","home":"강원 FC","away":"김천 상무 FC","score":"0-0"},{"date":"25.05.11","home":"강원 FC","away":"김천 상무 FC","score":"0-4"}]'
+summary: "이번 맞대결은 최근 맞대결에서 3연승을 거두며 뚜렷한 상성 우위를 점하고 있는 강원 FC가 주도권을 가져갈 것으로 기대됩니다. 김천 상무 FC는 최근 득점력 가뭄과 함께 많은 무승부를 거두며 승점 적립에 고전하고 있는 반면, 강원 FC는 측면 화력과 중원 제어력을 바탕으로 더욱 안정된 공수 밸런스를 자랑합니다. 최근 상대전적과 전력 흐름을 두루 고려할 때 공수 양면에서 완성도가 높은 강원 FC가 경기를 우세하게 이끌어갈 것으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Man-Ho Park (GK)|https://images.fotmob.com/image_resources/playerimages/1712337.png","Si-Hoo Hong (DF)|https://images.fotmob.com/image_resources/playerimages/1149526.png","Jun-Soo Byeon (DF)|https://images.fotmob.com/image_resources/playerimages/1232943.png","Jung-Taek Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1457033.png","Cheol-Woo Park (DF)|https://images.fotmob.com/image_resources/playerimages/1326687.png","Jae-Hyun Go (MF)|https://images.fotmob.com/image_resources/playerimages/925265.png","Soo-Bin Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1026973.png","Tae-Joon Park (MF)|https://images.fotmob.com/image_resources/playerimages/925867.png","Yun-Sang Hong (FW)|https://images.fotmob.com/image_resources/playerimages/1272121.png","Sang-Heon Lee (FW)|https://images.fotmob.com/image_resources/playerimages/827997.png","Kun-Hee Lee (FW)|https://images.fotmob.com/image_resources/playerimages/1136249.png"]'
+awayLineup: '["Chung-Hyo Park (GK)|https://images.fotmob.com/image_resources/playerimages/468156.png","You-Hyeon Lee (MF)|https://images.fotmob.com/image_resources/playerimages/828059.png","Ho-Young Park (DF)|https://images.fotmob.com/image_resources/playerimages/947759.png","Abdelkarim Mammar Chaouche (MF)|https://images.fotmob.com/image_resources/playerimages/941201.png","Joon-hyuck Kang (DF)|https://images.fotmob.com/image_resources/playerimages/1636734.png","Jae-Hyeon Mo (MF)|https://images.fotmob.com/image_resources/playerimages/828381.png","Dong-Hyun Kim (MF)|https://images.fotmob.com/image_resources/playerimages/926371.png","Min-Woo Seo (MF)|https://images.fotmob.com/image_resources/playerimages/1135942.png","Do-Hyun Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1429678.png","Gun-Hee Kim (FW)|https://images.fotmob.com/image_resources/playerimages/727423.png","Dae-Won Kim (MF)|https://images.fotmob.com/image_resources/playerimages/734964.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-4-2"
+homeCoach: "Seung-Jin Ju|https://images.fotmob.com/image_resources/playerimages/1169325.png"
+awayCoach: "Kyung-Ho Chung|https://images.fotmob.com/image_resources/playerimages/31093.png"
+pickWinTeam: "강원 FC"
+pickWinResult: "승"
+pickHandicapTeam: "강원 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

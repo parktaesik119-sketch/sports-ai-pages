@@ -1,0 +1,37 @@
+---
+title: "토트넘 vs 에버턴 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | 프리미어리그 - 픽천국"
+date: 2026-09-12T16:30:00.000Z
+description: "토트넘 vs 에버턴 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5795454-2026-09-13-tottenham-hotspur"
+category: "soccer"
+country: "잉글랜드"
+league: "프리미어리그"
+homeTeam: "토트넘"
+awayTeam: "에버턴"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png"
+homeAnalysis: "토트넘은 2026시즌 13경기에서 4승 3무 6패를 기록하며 경기당 평균 득점 0.8골의 다소 아쉬운 성적을 거두고 있습니다. 현재 리그순위 18위에 머물러 있는 토트넘은 득실차 -5.0에서 나타나듯 공수 밸런스가 흔들리며 좀처럼 반등의 계기를 마련하지 못하는 모습입니다. 특히 최근 득점력 빈곤이 이어지면서 로베르토 데 제르비 감독 체제에서 전방 공격 전개에 많은 어려움을 겪고 있습니다. 다만 페드로 포로와 미키 판 더 펜 중심의 백포 라인이 홈에서 안정감을 찾으려고 노력하고 있으며 산드로 토날리의 중원 장악력이 살아나는 점은 다행스러운 대목입니다. 제임스 매디슨과 데얀 쿨루세브스키 등 핵심 2선 자원들의 공백 속에서도 오마르 마르무시와 마티스 텔의 전방 마무리가 살아나야 승기를 잡을 수 있을 것으로 보입니다."
+awayAnalysis: "에버턴은 2026시즌 16경기 동안 5승 7무 4패를 거두며 평균 득점 1.6골로 안정적인 흐름을 유지하고 있습니다. 현재 리그순위 8위에 자리를 잡고 있는 에버턴은 득실차 +2.0을 기록하며 탄탄한 공수 밸런스를 입증하고 있습니다. 데이비드 모예스 감독의 지도 아래 키어넌 듀스버리홀과 해리슨 암스트롱이 지키는 중원의 안정감이 뛰어나며 무패 행진을 이어가는 공격진의 기세도 매섭습니다. 최전방의 띠에르노 바리와 브레넌 존슨이 끈질긴 득점포를 가동하고 있어 원정길에서도 자신감 있게 경기를 치를 것으로 기대됩니다. 조던 픽포드 골키퍼를 필두로 한 제임스 타코우스키, 자라드 브랜스웨이트의 후방 수비진 역시 견고함을 유지하고 있어 경기 운영에서 우위를 점할 요소가 충분합니다."
+homePower: "토트넘 홋스퍼 경기당 0.8득점에 그친 전방 빈곤 해결 시급함|핵심 2선 자원들의 집단 부상 이탈로 전력 차질 불가피함|페드로 포로 중심의 측면 공격 전개와 세트피스 활용 필요함|리그순위 18위 하위권 탈출 위한 홈 경기 집중력 절실함|맞대결 통산 우위 바탕으로 심리적 자신감 유지 가능함"
+awayPower: "에버턴 최근 연속 무패 흐름으로 공수 밸런스 안정감 보임|경기당 1.6득점 올리는 화력으로 원정 득점 가능성 높음|키어넌 듀스버리홀 중심의 탄탄한 중원 주도권 확보함|조던 픽포드 골키퍼 중심의 후방 수비 조직력 견고함 유지함|상위권 도약 기로에서 양호한 리그순위 흐름 이어갈 기세임"
+h2h: '[{"date":"26.05.25","home":"토트넘","away":"에버턴","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1379347-2026-05-25-tottenham/"},{"date":"25.10.27","home":"에버턴","away":"토트넘","score":"0-3"},{"date":"25.01.19","home":"에버턴","away":"토트넘","score":"3-2"},{"date":"24.08.24","home":"토트넘","away":"에버턴","score":"4-0"},{"date":"24.02.03","home":"에버턴","away":"토트넘","score":"2-2"}]'
+summary: "현재 두 팀의 시즌 전력과 최근 분위기를 비교해보면 에버턴이 확실한 우위를 점하고 있습니다. 토트넘은 2026시즌 13경기에서 4승 3무 6패로 평균 득점이 0.8골에 그치며 리그순위 18위로 고전하고 있는 반면, 에버턴은 16경기에서 5승 7무 4패와 평균 득점 1.6골을 기록하며 리그순위 8위로 한결 안정적인 전력을 자랑합니다. 특히 토트넘이 다수의 주요 선수 부상으로 차질을 겪는 상황에서 공수 균형이 뛰어난 에버턴이 원정 경기임에도 주도권을 잡고 우세한 경기를 펼칠 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Dejan Kulusevski (무릎 부상)|James Maddison (어깨 부상)|Xavi Simons (십자 인대 부상)|Mykhaylo Mudryk (근육 부상)|Wilson Odobert (십자 인대 부상)"
+injuryAway: "Christian Nørgaard (근육 부상)"
+homeLineup: '["Antonín Kinský (GK)|https://images.fotmob.com/image_resources/playerimages/1341475.png","Pedro Porro (DF)|https://images.fotmob.com/image_resources/playerimages/941573.png","Jan Paul van Hecke (DF)|https://images.fotmob.com/image_resources/playerimages/974618.png","Micky van de Ven (DF)|https://images.fotmob.com/image_resources/playerimages/1097466.png","Destiny Udogie (DF)|https://images.fotmob.com/image_resources/playerimages/1052898.png","Sandro Tonali (MF)|https://images.fotmob.com/image_resources/playerimages/867414.png","Rodrigo Bentancur (MF)|https://images.fotmob.com/image_resources/playerimages/620618.png","Sávio (FW)|https://images.fotmob.com/image_resources/playerimages/1174337.png","Conor Gallagher (MF)|https://images.fotmob.com/image_resources/playerimages/966027.png","Mathys Tel (FW)|https://images.fotmob.com/image_resources/playerimages/1288111.png","Omar Marmoush (FW)|https://images.fotmob.com/image_resources/playerimages/839204.png"]'
+awayLineup: '["Jordan Pickford (GK)|https://images.fotmob.com/image_resources/playerimages/303919.png","Merlin Röhl (DF)|https://images.fotmob.com/image_resources/playerimages/1210384.png","James Tarkowski (DF)|https://images.fotmob.com/image_resources/playerimages/243138.png","Jarrad Branthwaite (DF)|https://images.fotmob.com/image_resources/playerimages/1030829.png","Vitaliy Mykolenko (DF)|https://images.fotmob.com/image_resources/playerimages/874025.png","Harrison Armstrong (MF)|https://images.fotmob.com/image_resources/playerimages/1559637.png","James Garner (MF)|https://images.fotmob.com/image_resources/playerimages/950474.png","Brennan Johnson (FW)|https://images.fotmob.com/image_resources/playerimages/1076756.png","Kiernan Dewsbury-Hall (MF)|https://images.fotmob.com/image_resources/playerimages/886016.png","Tyrique George (FW)|https://images.fotmob.com/image_resources/playerimages/1424875.png","Thierno Barry (FW)|https://images.fotmob.com/image_resources/playerimages/1398392.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Roberto De Zerbi|https://images.fotmob.com/image_resources/playerimages/42044.png"
+awayCoach: "David Moyes|https://images.fotmob.com/image_resources/playerimages/78626.png"
+pickWinTeam: "에버턴"
+pickWinResult: "승"
+pickHandicapTeam: "에버턴"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

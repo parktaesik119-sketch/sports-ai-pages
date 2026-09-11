@@ -1,0 +1,37 @@
+---
+title: "토론토 블루제이즈 vs 볼티모어 오리올스 경기분석·라인업·결장자·통계·승부예측 (9월 12일) | MLB - 픽천국"
+date: 2026-09-11T23:07:00.000Z
+description: "토론토 블루제이즈 vs 볼티모어 오리올스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260912BATO0-2026-09-12-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 111경기에서 54승 56패와 평균 득점 3.7점을 기록하며 리그순위 7위에 위치해 있습니다. 최근 10경기에서는 6승 4패로 준수한 타격감을 보여주며 중위권 반등을 노리는 흐름입니다. 다만 안방 경기에서 마운드 안정을 되찾았음에도 Anthony Santander와 Jameson Taillon 등 주축 전력의 결장 공백이 길어지면서 마운드 운용에 부담이 가중되고 있습니다. 타선 역시 경기별 득점 기복이 다소 존재하는 만큼 경기 초반 주도권 확보가 매우 중요한 요소로 꼽힙니다. 경미한 통증이 있는 George Springer의 출전 여부와 함께 하위 타선의 집중력이 이번 승부의 핵심이 될 것으로 보입니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 107경기 동안 51승 53패와 평균 득점 4.5점을 기록하며 리그순위 9위에 자리하고 있습니다. 최근 10경기 성적은 4승 6패로 주춤했으나 직전 클리블랜드와의 시리즈에서 타선의 폭발력을 앞세워 반등의 계기를 마련했습니다. 비록 Luis Robert Jr.와 Ryan Helsley 등 핵심 자원들의 이탈로 전력 손실이 발생했으나 중심 타선의 화력 자체는 여전히 경쟁력을 유지하고 있습니다. 상대전적에서도 타선의 집중력을 바탕으로 호각세를 이뤄온 만큼 원정길에서도 특유의 화력을 발휘한다면 충분히 우위를 가져올 수 있습니다. 마운드 소모를 최소화하면서 후반 집중력을 유지하는 운영이 돋보일 것으로 기대됩니다."
+homePower: "토론토 블루제이즈 최근 홈 경기 마운드 안정감 회복세|선발진 부상 공백으로 경기 중반 불펜 부담 가중됨|상대 맞대결에서 팽팽한 접전 양상을 자주 연출함|타선의 득점 생산력 기복이 승패 흐름을 좌우함|경기 초반 선제 득점이 승리 공식으로 작동함"
+awayPower: "볼티모어 오리올스 중심 타선의 폭발적인 장타력 우위|최근 원정 득점력 회복으로 공격 물꼬를 틔움|주요 부상자 이탈에도 불펜 집중력으로 버텨냄|토론토 블루제이즈 상대로 정교한 타격 밸런스 유지|경기 후반 클러치 상황에서의 득점 성공률 높음"
+h2h: '[{"date":"26.06.08","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"6-4","link":"https://pick79.com/posts/detail/analyze-178981-2026-06-08-toronto-blue-jays/"},{"date":"26.06.06","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"3-13","link":"https://pick79.com/posts/detail/analyze-178951-2026-06-06-toronto-blue-jays/"},{"date":"26.06.01","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"9-5","link":"https://pick79.com/posts/detail/analyze-178895-2026-06-01-baltimore-orioles/"},{"date":"26.05.31","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"6-5","link":"https://pick79.com/posts/detail/analyze-178885-2026-05-31-baltimore-orioles/"},{"date":"26.05.30","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"5-6","link":"https://pick79.com/posts/detail/analyze-178865-2026-05-30-baltimore-orioles/"}]'
+summary: "양 팀 모두 마운드 부상 이슈를 안고 있으나 전체적인 득점 생산력과 타선의 폭발성 면에서는 볼티모어 오리올스가 한 발 앞서 있습니다. 토론토 블루제이즈는 최근 홈에서 안정적인 운영을 선보였지만 주력 선발진의 이탈로 인해 경기 후반 마운드 과부하가 우려되는 상황입니다. 상대전적에서도 팽팽한 흐름을 이어온 두 팀이지만 타선 집중력과 장타 생산력에서 우위를 보이는 볼티모어 오리올스가 경기 주도권을 잡고 승리를 거둘 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.10","home":"애슬레틱스","away":"토론토 블루제이즈","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TOOA0-2026-09-10-athletics/"},{"date":"26.09.08","home":"애슬레틱스","away":"토론토 블루제이즈","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"},{"date":"26.09.07","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TOKC0-2026-09-07-kansas-city-royals/"},{"date":"26.09.06","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TOKC0-2026-09-06-kansas-city-royals/"},{"date":"26.09.04","home":"클리블랜드 가디언스","away":"토론토 블루제이즈","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TOCL0-2026-09-04-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.09.10","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CLBA0-2026-09-10-baltimore-orioles/"},{"date":"26.09.09","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CLBA0-2026-09-09-baltimore-orioles/"},{"date":"26.09.08","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CLBA0-2026-09-08-baltimore-orioles/"},{"date":"26.09.07","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907BOBA0-2026-09-07-baltimore-orioles/"},{"date":"26.09.06","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906BOBA0-2026-09-06-baltimore-orioles/"}]'
+injuryHome: "George Springer (통증)|Luis Urias (근육 부상)|Anthony Santander (수술)|Trey Yesavage (수술)|Jameson Taillon (부상)"
+injuryAway: "Gunnar Henderson (경미한 부상)|Luis Robert Jr. (통증)|Christian Franklin (염증)|Ryan Helsley (염증)|Blaze Alexander (통증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "볼티모어 오리올스"
+pickWinResult: "승"
+pickHandicapTeam: "볼티모어 오리올스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

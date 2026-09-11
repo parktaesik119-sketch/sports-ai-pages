@@ -1,0 +1,37 @@
+---
+title: "레알 솔트레이크 vs 뉴욕 시티 FC 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLS - 픽천국"
+date: 2026-09-13T01:30:00.000Z
+description: "레알 솔트레이크 vs 뉴욕 시티 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071360-2026-09-13-real-salt-lake"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "레알 솔트레이크"
+awayTeam: "뉴욕 시티 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6606.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/546238.png"
+homeAnalysis: "레알 솔트레이크는 2026시즌 8승 10패 5무의 성적으로 현재 리그순위 10위에 위치해 있습니다. 최근 경기들에서 승리를 챙기는 데 다소 어려움을 겪으며 흐름이 주춤하고 있지만 경기당 득점력 자체는 꾸준히 유지되는 모습입니다. 공격 라인에서는 디에고 루나와 제이슨 쇼칼룩을 필두로 한 전방 압박과 기회 창출 능력이 매섭게 작동하고 있습니다. 다만 수비진에서 주요 자원들의 부상 이탈로 인해 경기 후반 집중력 저하가 실점으로 이어지는 경향이 돋보입니다. 파블로 마스트로에니 감독 체제 아래 홈 경기장의 이점을 최대한 활용하여 공수 밸런스를 되찾는 것이 이번 경기의 핵심 과제로 평가됩니다."
+awayAnalysis: "뉴욕 시티 FC는 2026시즌 7승 9패 8무를 기록하며 현재 리그순위 9위에 이름을 올리고 있습니다. 시즌 내내 탄탄한 수비 조직력을 바탕으로 득실차 양수를 기록하는 등 안정적인 밸런스를 보여주고 있는 팀입니다. 중원에서는 에이든 오닐과 제임스 샌즈가 중심을 잡고 있으며 전방에서는 베니 트라오레와 아구스틴 오헤다가 날카로운 침투를 시도하고 있습니다. 다만 최근 들어 원정 경기에서 무승부가 많아지며 확실한 승점을 쌓지 못해 흐름이 다소 정체되어 있습니다. 파스칼 얀센 감독의 지휘 아래 끈질긴 경기 운영으로 원정 승점을 노릴 것으로 예상됩니다."
+homePower: "레알 솔트레이크의 홈 경기 화력 유지로 전반 주도권 확보 가능함|디에고 루나 중심의 2선 침투 패턴은 여전히 강력함을 입증함|핵심 수비진의 대거 결장으로 수비 안정감 기복이 우려됨|과거 상대전적에서 홈 경기 시 우위를 확보했던 이점 존재함|후반 실점률 상승에 따른 뒷문 불안 요소가 뚜렷하게 관측됨"
+awayPower: "뉴욕 시티 FC의 리그 최상위급 수비 득실 밸런스가 돋보임|중원 싸움에서의 우수한 압박 능력으로 경기 주도권 유지함|최근 잦은 무승부 흐름 속에 결정력 마무리가 과제로 남음|에이든 오닐과 제임스 샌즈 중심의 막강한 3선 차단력 보유함|원정 경기 실점 최소화 운영으로 상대 공세를 무력화함"
+h2h: '[{"date":"23.06.11","home":"레알 솔트레이크","away":"뉴욕 시티 FC","score":"0-0"},{"date":"22.04.18","home":"뉴욕 시티 FC","away":"레알 솔트레이크","score":"6-0"},{"date":"19.08.04","home":"레알 솔트레이크","away":"뉴욕 시티 FC","score":"3-1"},{"date":"18.04.12","home":"뉴욕 시티 FC","away":"레알 솔트레이크","score":"4-0"},{"date":"17.05.18","home":"레알 솔트레이크","away":"뉴욕 시티 FC","score":"2-1"}]'
+summary: "양 팀은 리그순위 중위권에서 치열한 순위 경쟁을 펼치고 있어 이번 맞대결이 매우 중요한 기점이 될 것으로 보입니다. 레알 솔트레이크는 홈 이점과 매서운 공격진을 앞세워 주도권을 잡으려 하겠지만 주요 수비진의 공백이 변수로 작용할 수 있습니다. 반면 뉴욕 시티 FC는 탄탄한 수비 득실 밸런스와 안정적인 중원 제어력을 바탕으로 원정에서도 팽팽한 흐름을 이어갈 것으로 기대됩니다. 양 팀 모두 전력 차이가 크지 않고 팽팽한 공방전이 예상되어 승패를 가르기 힘든 접전 양상이 펼쳐질 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Stijn Spierings (발목 부상)|Zach Booth (햄스트링 부상)|Griffin Dillon (부상)|Justen Glad (근육 부상)|Ariath Piol (아킬레스건 부상)|Emeka Eneli (무릎 부상)"
+injuryAway: "Keaton Parks (근육 부상)|Maxi Moralez (충돌 부상)|Talles Magno (충돌 부상)|Arnau Farnós (다리 부상)|Kai Trewin (다리 부상)|Drew Baiera (다리 부상)"
+homeLineup: '["Rafael Cabral (GK)|https://images.fotmob.com/image_resources/playerimages/172157.png","Kobi Henry (DF)|https://images.fotmob.com/image_resources/playerimages/1172163.png","Juan José Arias (DF)|https://images.fotmob.com/image_resources/playerimages/1433033.png","Lukas Engel (DF)|https://images.fotmob.com/image_resources/playerimages/860543.png","DeAndre Yedlin (DF)|https://images.fotmob.com/image_resources/playerimages/432040.png","Colin Guske (MF)|https://images.fotmob.com/image_resources/playerimages/1624002.png","Noel Çalışkan (MF)|https://images.fotmob.com/image_resources/playerimages/1439925.png","Juan Sanabria (MF)|https://images.fotmob.com/image_resources/playerimages/1053963.png","Aiden Hezarkhani (MF)|https://images.fotmob.com/image_resources/playerimages/1643328.png","Diego Luna (MF)|https://images.fotmob.com/image_resources/playerimages/1252636.png","Jason Shokalook (FW)|https://images.fotmob.com/image_resources/playerimages/1517847.png"]'
+awayLineup: '["Matt Freese (GK)|https://images.fotmob.com/image_resources/playerimages/1026065.png","Mitja Ilenič (DF)|https://images.fotmob.com/image_resources/playerimages/1347947.png","Thiago Martins (DF)|https://images.fotmob.com/image_resources/playerimages/498296.png","Raul (DF)|https://images.fotmob.com/image_resources/playerimages/1202678.png","Kevin O’Toole (DF)|https://images.fotmob.com/image_resources/playerimages/769648.png","Nicolás Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/976705.png","Aiden O’Neill (MF)|https://images.fotmob.com/image_resources/playerimages/785377.png","James Sands (MF)|https://images.fotmob.com/image_resources/playerimages/880095.png","Agustín Ojeda (FW)|https://images.fotmob.com/image_resources/playerimages/1345326.png","Bénie Traoré (FW)|https://images.fotmob.com/image_resources/playerimages/1231770.png","Andrés Perea (MF)|https://images.fotmob.com/image_resources/playerimages/1041997.png"]'
+homeFormation: "3-4-2-1"
+awayFormation: "4-3-3"
+homeCoach: "Pablo Mastroeni|https://images.fotmob.com/image_resources/playerimages/30810.png"
+awayCoach: "Pascal Jansen|https://images.fotmob.com/image_resources/playerimages/1213522.png"
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
