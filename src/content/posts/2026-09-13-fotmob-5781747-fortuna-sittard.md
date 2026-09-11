@@ -1,0 +1,37 @@
+---
+title: "포르투나 시타르트 vs 아약스 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | 에레디비지 - 픽천국"
+date: 2026-09-12T18:00:00.000Z
+description: "포르투나 시타르트 vs 아약스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781747-2026-09-13-fortuna-sittard"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "포르투나 시타르트"
+awayTeam: "아약스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6422.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8593.png"
+homeAnalysis: "포르투나 시타르트는 2026시즌 전체 13경기에서 7승 1무 5패를 기록하며 준수한 흐름을 유지하고 있습니다. 최근 연승을 거두며 공격진의 전반적인 활약이 시원하게 살아나는 모습을 보여주었습니다. 대니 바이스 감독의 지휘 아래 레퀸시오 지포이크와 안토니 데스코테가 이끄는 전방 화력이 매끄럽게 가동되고 있습니다. 다만 강팀과의 대결에서는 방어선의 실점율이 다소 높아지는 경향이 있어 안정감 있는 수비 리딩이 요구됩니다. 홈 경기장의 이점을 안고 싸우는 만큼 적극적인 공격 전개로 기선을 제어하려 할 것으로 기대됩니다."
+awayAnalysis: "아약스는 2026시즌 21경기 동안 12승 6무 3패의 우수한 성적을 거두며 강력한 전력을 입증하고 있습니다. 미첼 감독 체제에서 툴루 아로코다레와 율리안 브란트, 스티븐 베르하우스로 이어지는 삼각 편대가 막강한 화력을 뿜어내고 있습니다. 비록 일부 수비 자원의 결장 변수가 존재하지만 대체 전력의 깊이가 뛰어나 공수 밸런스를 안정적으로 유지하고 있습니다. 원정길에서도 경기 주도권을 압도하며 꾸준히 승점을 챙기는 경기 운영 능력이 돋보입니다. 상대전적에서도 압도적인 우위를 점해온 만큼 이번 대결 역시 강한 자신감으로 임할 것으로 보입니다."
+homePower: "포르투나 시타르트는 최근 득점포 가동으로 공격 물꼬 튼 모습임|안토니 데스코테 중심 전방 압박 효율성 상승함|상위권 팀 상대 수비 집중력 유지 과제 남아있음|주요 수비진 공백에 따른 후반 집중력 저하 우려됨|안방 경기 시 초반 주도권 싸움 전개 능력 보임"
+awayPower: "아약스는 강력한 화력 효율성을 앞세운 원정 압도력 뛰어남|툴루 아로코다레 중심 2선 연계 완성도 매우 높음|맞대결 전적에서 장기간 무패 흐름 지속하며 압도함|수비진 결장 변수로 인한 순간 방심 경계 필요함|막강한 중원 지배력으로 경기 주도권 확보 검증됨"
+h2h: '[{"date":"26.02.15","home":"아약스","away":"포르투나 시타르트","score":"4-1"},{"date":"25.12.07","home":"포르투나 시타르트","away":"아약스","score":"1-3"},{"date":"25.02.09","home":"포르투나 시타르트","away":"아약스","score":"0-2"},{"date":"24.09.19","home":"아약스","away":"포르투나 시타르트","score":"5-0"},{"date":"24.03.10","home":"아약스","away":"포르투나 시타르트","score":"2-2"}]'
+summary: "아약스는 2026시즌 내내 완성도 높은 공격 전개와 뛰어난 경기 지배력을 바탕으로 안정적인 승점을 쌓아왔습니다. 포르투나 시타르트 역시 최근 전방 화력을 앞세워 좋은 승률을 챙기고 있지만, 아약스를 상대로는 통산 상대전적에서 크게 밀리는 경향을 보여왔습니다. 객관적인 전력의 차이와 중원 주도권 싸움에서 아약스가 확실한 우위를 가져갈 것으로 기대됩니다. 따라서 이번 맞대결은 안정적인 공수 밸런스를 갖춘 원정팀 아약스가 경기를 주도하며 우세를 점할 가능성이 매우 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Iván Márquez (부상)|Sven Simons (햄스트링 부상)"
+injuryAway: "Aaron Bouwman (충돌 부상)|Daley Blind (충돌 부상)|Rayane Bounida (부상)|Simon Adingra (발 부상)"
+homeLineup: '["Mattijs Branderhorst (GK)|https://images.fotmob.com/image_resources/playerimages/245395.png","Philip Brittijn (MF)|https://images.fotmob.com/image_resources/playerimages/1285451.png","Rodrigo Guth (DF)|https://images.fotmob.com/image_resources/playerimages/1166329.png","Justin Hubner (DF)|https://images.fotmob.com/image_resources/playerimages/1213683.png","Ivo Pinto (DF)|https://images.fotmob.com/image_resources/playerimages/163815.png","Jasper Dahlhaus (DF)|https://images.fotmob.com/image_resources/playerimages/1184695.png","Mohammed Ihattaren (FW)|https://images.fotmob.com/image_resources/playerimages/1015183.png","Édouard Michut (MF)|https://images.fotmob.com/image_resources/playerimages/1173785.png","Shiloh Zand (MF)|https://images.fotmob.com/image_resources/playerimages/1522438.png","Anthony Descotte (FW)|https://images.fotmob.com/image_resources/playerimages/1116199.png","Lequincio Zeefuik (FW)|https://images.fotmob.com/image_resources/playerimages/1250495.png"]'
+awayLineup: '["Marc ter Stegen (GK)|https://images.fotmob.com/image_resources/playerimages/184554.png","Anton Gaaei (DF)|https://images.fotmob.com/image_resources/playerimages/1329665.png","Thilo Kehrer (DF)|https://images.fotmob.com/image_resources/playerimages/604088.png","Youri Baas (DF)|https://images.fotmob.com/image_resources/playerimages/1214036.png","Caio Henrique (DF)|https://images.fotmob.com/image_resources/playerimages/769525.png","Davy Klaassen (MF)|https://images.fotmob.com/image_resources/playerimages/298448.png","Jorthy Mokio (MF)|https://images.fotmob.com/image_resources/playerimages/1617161.png","Julian Brandt (MF)|https://images.fotmob.com/image_resources/playerimages/516846.png","Steven Berghuis (FW)|https://images.fotmob.com/image_resources/playerimages/209786.png","Tolu Arokodare (FW)|https://images.fotmob.com/image_resources/playerimages/1072864.png","Oscar Gloukh (MF)|https://images.fotmob.com/image_resources/playerimages/1337911.png"]'
+homeFormation: "5-3-2"
+awayFormation: "4-3-3"
+homeCoach: "Danny Buijs|https://images.fotmob.com/image_resources/playerimages/38979.png"
+awayCoach: "Míchel|https://images.fotmob.com/image_resources/playerimages/2763.png"
+pickWinTeam: "아약스"
+pickWinResult: "승"
+pickHandicapTeam: "아약스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

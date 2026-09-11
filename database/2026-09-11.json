@@ -1777,8 +1777,8 @@
     "away": "LD Alajuelense",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9932.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6335.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-6119121",
@@ -1790,8 +1790,8 @@
     "away": "CD Olimpia",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49744.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6336.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5820432",
@@ -2011,8 +2011,8 @@
     "away": "Alacranes de Durango",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/452823.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162415.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5861250",
@@ -2037,8 +2037,8 @@
     "away": "Antigua Guatemala",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/89674.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188298.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5861255",
@@ -2050,8 +2050,8 @@
     "away": "Coban Imperial",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49758.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188302.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5887600",
@@ -2466,8 +2466,8 @@
     "away": "Flamengo",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/192875.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9770.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000013773",
@@ -2505,8 +2505,8 @@
     "away": "Montevideo City Torque",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1845.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/395613.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000014560",
@@ -2518,8 +2518,8 @@
     "away": "León",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1946.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000009215",
@@ -2583,8 +2583,8 @@
     "away": "Deportivo Cali",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4403.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6387.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000013669",
@@ -2713,8 +2713,8 @@
     "away": "Londrina",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/231931.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/298660.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5190706",
@@ -2726,8 +2726,8 @@
     "away": "Ponte Preta",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6305.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8630.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000015084",
@@ -15002,6 +15002,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-5962423",
+    "sport": "soccer",
+    "country": "El Salvador",
+    "league": "Primera Division - Apertura",
+    "date": "2026-09-13T01:00:00.000Z",
+    "home": "CD FAS",
+    "away": "Alianza FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49742.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49740.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-5962420",
     "sport": "soccer",
     "country": "El Salvador",
@@ -15596,19 +15609,6 @@
     "away": "Getafe B",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/490334.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/189672.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5885530",
-    "sport": "soccer",
-    "country": "Spain",
-    "league": "Segunda Federacion - Group 5",
-    "date": "2026-09-13T10:00:00.000Z",
-    "home": "CF Talavera de la Reina",
-    "away": "Real Madrid C",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/357239.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/189680.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -19106,8 +19106,8 @@
     "away": "Colorado Rockies",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/NY.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 10,
+    "awayScore": 3
   },
   {
     "id": "naver-mlb-20260911PICW0",
@@ -19119,8 +19119,8 @@
     "away": "Pittsburgh Pirates",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CW.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/PI.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "naver-npb-20260911JLSF0",
@@ -19565,19 +19565,6 @@
     "awayScore": null
   },
   {
-    "id": "highlightly-hockey-366294161",
-    "sport": "hockey",
-    "country": "Russia",
-    "league": "KHL",
-    "date": "2026-09-11T16:00:00.000Z",
-    "home": "Nizhnekamsk",
-    "away": "Yekaterinburg",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/324164.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/330972.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "highlightly-hockey-366291608",
     "sport": "hockey",
     "country": "Russia",
@@ -19587,6 +19574,19 @@
     "away": "Magnitogorsk",
     "homeLogo": "https://highlightly.net/hockey/images/teams/314803.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/1266221.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-366294161",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-09-11T16:00:00.000Z",
+    "home": "Nizhnekamsk",
+    "away": "Yekaterinburg",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/324164.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/330972.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -19866,7 +19866,7 @@
     "id": "panda-1589553",
     "sport": "lol",
     "league": "LCK Challengers League",
-    "date": "2026-09-11T08:00:00Z",
+    "date": "2026-09-11T08:01:53Z",
     "home": "KT Rolster Challengers",
     "away": "DN SOOPers Challengers",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/128348/800px_kt_rolster_2026_allmode.png",
@@ -19911,6 +19911,18 @@
     "awayScore": 0
   },
   {
+    "id": "panda-1639626",
+    "sport": "lol",
+    "league": "TCL",
+    "date": "2026-09-11T14:30:00Z",
+    "home": "Bushido Wildcats",
+    "away": "PCIFIC ",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136070/ezgif_52ad93b2c5a076a2.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/137929/800px_pcific_esports_allmode.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
     "id": "panda-1661679",
     "sport": "lol",
     "league": "LEC",
@@ -19919,18 +19931,6 @@
     "away": "Natus Vincere",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/134068/giant_x_logo.svg.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
-    "id": "panda-1639626",
-    "sport": "lol",
-    "league": "TCL",
-    "date": "2026-09-11T15:00:00Z",
-    "home": "Bushido Wildcats",
-    "away": "PCIFIC ",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/136070/ezgif_52ad93b2c5a076a2.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/137929/800px_pcific_esports_allmode.png",
     "homeScore": 0,
     "awayScore": 0
   },
