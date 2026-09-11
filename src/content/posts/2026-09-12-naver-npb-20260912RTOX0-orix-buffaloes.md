@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"오릭스 버팔로스","away":"세이�
 awayRecent: '[{"date":"26.09.10","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910RTJL0-2026-09-10-chiba-lotte-marines/"},{"date":"26.09.09","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"10-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909RTJL0-2026-09-09-chiba-lotte-marines/"},{"date":"26.09.08","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260908RTJL0-2026-09-08-chiba-lotte-marines/"},{"date":"26.09.06","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906NHRT0-2026-09-06-rakuten-gold-eagles/"},{"date":"26.09.05","home":"라쿠텐 골든이글스","away":"니혼햄 파이터즈","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905NHRT0-2026-09-05-rakuten-gold-eagles/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Anderson Espinoza (11-5, 2.65)|https://p.npb.jp/players_photo/2026/180/b/000_43545159.jpg\"]"
+awayLineup: "[\"선발투수 Takahisa Hayakawa (6-7, 2.74)|https://p.npb.jp/players_photo/2026/180/e/021_31835153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
