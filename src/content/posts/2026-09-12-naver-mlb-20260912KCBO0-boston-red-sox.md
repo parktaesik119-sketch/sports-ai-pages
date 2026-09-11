@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에�
 awayRecent: '[{"date":"26.09.10","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910AZKC0-2026-09-10-kansas-city-royals/"},{"date":"26.09.09","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909AZKC0-2026-09-09-kansas-city-royals/"},{"date":"26.09.08","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908AZKC0-2026-09-08-kansas-city-royals/"},{"date":"26.09.07","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TOKC0-2026-09-07-kansas-city-royals/"},{"date":"26.09.06","home":"캔자스시티 로열스","away":"토론토 블루제이즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TOKC0-2026-09-06-kansas-city-royals/"}]'
 injuryHome: "Adley Rutschman (경미)|Willson Contreras (주요)|Ceddanne Rafaela (주요)|Curtis Mead (주요)|Tyron Guerrero (주요)"
 injuryAway: "Jac Caglianone (경미)|Maikel Garcia (주요)|Tony Gonsolin (주요)|Connor Seabold (주요)|James McArthur (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Gray (17-4, 2.69) ERA 2.69|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
+awayLineup: "[\"선발투수 S. Lugo (6-8, 5.04) ERA 5.04|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

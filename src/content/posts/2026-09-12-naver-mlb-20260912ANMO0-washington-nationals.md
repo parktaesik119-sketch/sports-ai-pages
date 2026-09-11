@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"샌디에이고 파드리스","away":"�
 awayRecent: '[{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"},{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"},{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"}]'
 injuryHome: "Richard Lovelady (strain)|DJ Herz (strain)|PJ Poulin (strain)|Nasim Nunez (bereavement)|Connelly Early (inflammation)"
 injuryAway: "Nolan Schanuel (strain)|Sam Bachman (inflammation)|Yoan Moncada (surgery)|Gustavo Campero (strain)|George Klassen (inflammation)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Cavalli (12-5, 3.12) ERA 3.12|https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png\"]"
+awayLineup: "[\"선발투수 Y. Kikuchi (1-5, 4.96) ERA 4.96|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

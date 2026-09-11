@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"마이애미 말린스","away":"뉴욕 
 awayRecent: '[{"date":"26.09.10","home":"LA 다저스","away":"신시내티 레즈","score":"14-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CILA0-2026-09-10-los-angeles-dodgers/"},{"date":"26.09.09","home":"LA 다저스","away":"신시내티 레즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CILA0-2026-09-09-los-angeles-dodgers/"},{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"},{"date":"26.09.07","home":"LA 다저스","away":"워싱턴 내셔널스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MOLA0-2026-09-07-los-angeles-dodgers/"},{"date":"26.09.06","home":"LA 다저스","away":"워싱턴 내셔널스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MOLA0-2026-09-06-los-angeles-dodgers/"}]'
 injuryHome: "Xavier Edwards (염좌)|Max Meyer (긴장)|Anthony Bender (골절)|Ronny Henriquez (수술)|Adam Mazur (수술)"
 injuryAway: "Freddie Freeman (통증)|Kris Bubic (통증)|Edwin Diaz (염증)|Roki Sasaki (찰과상)|Dalton Rushing (통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Gusto (1-4, 4.23) ERA 4.23|https://a.espncdn.com/i/headshots/mlb/players/full/5131986.png\"]"
+awayLineup: "[\"선발투수 B. Snell (3-1, 1.97) ERA 1.97|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

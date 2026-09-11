@@ -16,8 +16,8 @@ homePower: "많은 무승부로 나타나는 끈질긴 수비 집중력 보유|�
 awayPower: "최근 원정 경기 승률을 높이며 상승세 진입|경기당 평균 1점대 득점으로 꾸준한 공격 포인트 생성|리그 중반 이후 조직력 재정비로 실점 최소화|상위권 팀들과의 대결에서 보여준 끈기 있는 승부|상대 수비 허점을 공략하는 유기적인 연계 플레이"
 h2h: '[{"date":"26.05.17","home":"성남 FC","away":"경남 FC","score":"1-1","link":"https://pick79.com/posts/detail/analyze-1510337-2026-05-17-seongnam-fc/"},{"date":"25.10.19","home":"경남 FC","away":"성남 FC","score":"0-1"},{"date":"25.08.23","home":"성남 FC","away":"경남 FC","score":"2-1"},{"date":"25.04.12","home":"경남 FC","away":"성남 FC","score":"0-1"},{"date":"24.10.27","home":"경남 FC","away":"성남 FC","score":"5-1"}]'
 summary: "경남 FC와 성남 FC는 올 시즌 팽팽한 전력 차이를 보이며 매 경기 치열한 접전을 펼치고 있습니다. 경남 FC가 홈에서의 안정감을 바탕으로 경기를 운영하려 하겠지만, 최근 원정에서 꾸준히 승점을 챙기며 상승세를 탄 성남 FC의 기세가 만만치 않아 보입니다. 과거 상대 전적을 살펴보면 승패가 크게 갈리기보다는 무승부를 포함해 매우 박빙의 승부가 반복되었기에, 이번 경기도 양 팀의 공수 집중력에 따라 승부의 추가 결정될 가능성이 높습니다. 어느 한쪽이 압도적인 우위를 점하기보다는 조직적인 중원 싸움과 수비의 집중력이 이번 승부를 가를 핵심 요인이 될 것입니다."
-homeRecent: '[]'
-awayRecent: '[]'
+homeRecent: "[{\"date\":\"26.08.29\",\"home\":\"Gyeongnam FC\",\"away\":\"Paju Frontier\",\"score\":\"1-0\",\"result\":\"🟢승\"},{\"date\":\"26.08.23\",\"home\":\"Cheongju FC\",\"away\":\"Gyeongnam FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.15\",\"home\":\"Gimhae FC 2008\",\"away\":\"Gyeongnam FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.07\",\"home\":\"Gyeongnam FC\",\"away\":\"Daegu FC\",\"score\":\"0-1\",\"result\":\"🔴패\"},{\"date\":\"26.08.02\",\"home\":\"Gimpo FC\",\"away\":\"Gyeongnam FC\",\"score\":\"1-1\",\"result\":\"🟡무\"}]"
+awayRecent: "[{\"date\":\"26.09.06\",\"home\":\"Gimpo FC\",\"away\":\"Seongnam FC\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.29\",\"home\":\"Seongnam FC\",\"away\":\"Seoul E-Land FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.22\",\"home\":\"Ansan Greeners\",\"away\":\"Seongnam FC\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.19\",\"home\":\"Gangwon FC\",\"away\":\"Seongnam FC\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.16\",\"home\":\"Paju Frontier\",\"away\":\"Seongnam FC\",\"score\":\"2-1\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
 injuryAway: "없음"
 homeLineup: ''

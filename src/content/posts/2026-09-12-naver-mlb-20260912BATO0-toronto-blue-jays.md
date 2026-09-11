@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"애슬레틱스","away":"토론토 블�
 awayRecent: '[{"date":"26.09.10","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CLBA0-2026-09-10-baltimore-orioles/"},{"date":"26.09.09","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CLBA0-2026-09-09-baltimore-orioles/"},{"date":"26.09.08","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CLBA0-2026-09-08-baltimore-orioles/"},{"date":"26.09.07","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907BOBA0-2026-09-07-baltimore-orioles/"},{"date":"26.09.06","home":"볼티모어 오리올스","away":"보스턴 레드삭스","score":"0-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906BOBA0-2026-09-06-baltimore-orioles/"}]'
 injuryHome: "George Springer (통증)|Luis Urias (근육 부상)|Anthony Santander (수술)|Trey Yesavage (수술)|Jameson Taillon (부상)"
 injuryAway: "Gunnar Henderson (경미한 부상)|Luis Robert Jr. (통증)|Christian Franklin (염증)|Ryan Helsley (염증)|Blaze Alexander (통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Scherzer (2-7, 6.03) ERA 6.03|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
+awayLineup: "[\"선발투수 C. Bassitt (6-5, 4.96) ERA 4.96|https://a.espncdn.com/i/headshots/mlb/players/full/33148.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

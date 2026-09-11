@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"뉴욕 양키즈","away":"콜로라도 
 awayRecent: '[{"date":"26.09.10","home":"마이애미 말린스","away":"뉴욕 메츠","score":"14-15","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910NMFL0-2026-09-10-miami-marlins/"},{"date":"26.09.09","home":"마이애미 말린스","away":"뉴욕 메츠","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909NMFL0-2026-09-09-miami-marlins/"},{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 메츠","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908NMFL0-2026-09-08-miami-marlins/"},{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SFNM0-2026-09-07-new-york-mets/"},{"date":"26.09.06","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets/"}]'
 injuryHome: "Clarke Schmidt (60일 부상자 명단 - 수술)|Ryan Weathers (15일 부상자 명단 - 염좌)|Fernando Cruz (15일 부상자 명단 - 통증)|Trent Grisham (10일 부상자 명단 - 염좌)|Giancarlo Stanton (60일 부상자 명단 - 염좌)"
 injuryAway: "Brett Baty (일별 관찰 - 통증)|Cionel Perez (15일 부상자 명단 - 염좌)|Devin Williams (15일 부상자 명단 - 염좌)|Jorge Polanco (60일 부상자 명단 - 수술)|Reed Garrett (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Rodon (5-3, 3.09) ERA 3.09|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\"]"
+awayLineup: "[\"선발투수 N. McLean (11-8, 3.06) ERA 3.06|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
