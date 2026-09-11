@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.11","home":"시카고 화이트삭스","away":"피�
 injuryHome: "Tyler Austin (60일 부상자 명단 - 수술)|Gavin Hollowell (15일 부상자 명단 - 염증)|Edward Cabrera (15일 부상자 명단 - 찰과상)|Hunter Harvey (60일 부상자 명단 - 골절)|Shelby Miller (60일 부상자 명단 - 수술)"
 injuryAway: "Ryan O'Hearn (10일 부상자 명단 - 염좌)|Kirby Yates (15일 부상자 명단 - 신경 압박)|Braxton Ashcraft (15일 부상자 명단 - 통증)|Isaac Mattson (15일 부상자 명단 - 염증)|Mitch Keller (60일 부상자 명단 - 사유 미상)"
 homeLineup: "[\"선발투수 S. Imanaga (9-10, 3.91) ERA 3.91|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
-awayLineup: "[\"선발투수 W. Dotel (1-4, 4.41) ERA 4.41|https://a.espncdn.com/i/headshots/mlb/players/full/5332991.png\"]"
+awayLineup: "[\"선발투수 W. Dotel (1-4, 4.41) ERA 4.41|https://a.espncdn.com/i/headshots/mlb/players/full/5332991.png\",\"1번 K. Griffin (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5218285.png\",\"2번 O. Cruz (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/39712.png\",\"3번 B. Reynolds (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/38980.png\",\"4번 R. Flores Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5131743.png\",\"5번 E. Valdez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5137200.png\",\"6번 N. Gonzales (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4311634.png\",\"7번 J. Mangum (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42664.png\",\"8번 J. Triolo (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42933.png\",\"9번 H. Davis (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4418683.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
