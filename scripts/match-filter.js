@@ -123,31 +123,19 @@
 const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE','NATIONS LEAGUE WOMEN','WORLD CUP - WOMEN - QUALIFICATION EUROPE'];
 const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
 
-  // [단계 0] WOMEN 경기는 essentialTeams(프리패스 팀) 화이트리스트보다도 먼저, 무조건 차단한다.
-  // ⚠️ 리그명(WSL 등)뿐 아니라 팀명("Burnley FC Women")도 체크한다 — 동명 남자팀이
-  // essentialTeams에 등록돼 있어도(예: EPL Sunderland), 상대팀명에 "Women"이 붙은
-  // 여자 경기가 그 프리패스를 뚫고 통과하는 걸 막기 위함
-  // (2026-09 확인: WSL2 "Burnley FC Women vs 선덜랜드" 오분석 — 리그명만으론 안 걸리고
-  //  팀명의 "Women"이 essentialTeams 프리패스에 묻혀서 새어나간 케이스였음).
-  // isAllowedWomenLeague에 명시적으로 등록한 리그(AFC 여자 챔스 등)만 여기서 예외로 통과된다.
-  const isWomenMatch = !isAllowedWomenLeague && (
-    upperLg.includes('WOMEN') || upperLg.includes('FRAUEN') ||
-    upperHome.includes('WOMEN') || upperAway.includes('WOMEN') ||
-    upperHome.includes('FRAUEN') || upperAway.includes('FRAUEN') ||
-    upperHome.includes('FEMALE') || upperAway.includes('FEMALE') ||
-    upperHome.includes('FEMENIL') || upperAway.includes('FEMENIL')
+  // [단계 0] 여성/청소년(U15~U23·YOUTH·RESERVE) 경기는 essentialTeams(프리패스 팀)
+  // 화이트리스트보다도 먼저, 무조건 차단한다. 리그명뿐 아니라 팀명도 함께 체크한다
+  // (예: 리그명은 "WSL 2"뿐이라 안 걸려도 팀명 "Burnley FC Women"엔 걸리고,
+  //  리그명은 정상이어도 팀명이 "Sunderland U21"이면 걸린다).
+  // ⚠️ 동명 성인팀이 essentialTeams에 등록돼 있어도(예: EPL Sunderland) 그 프리패스를
+  // 절대 뚫지 못한다 (2026-09 확인: WSL2 "Burnley FC Women vs 선덜랜드" 오분석).
+  // isAllowedWomenLeague에 명시적으로 등록한 리그(AFC 여자 챔스 등)만 예외로 통과된다.
+  const demographicKeywords = ['WOMEN', 'FRAUEN', 'FEMALE', 'FEMENIL', 'YOUTH', 'RESERVE', 'U15', 'U16', 'U17', 'U18', 'U19', 'U20', 'U21', 'U23'];
+  const isBlockedDemographic = !isAllowedWomenLeague && demographicKeywords.some(kw =>
+    upperLg.includes(kw) || upperHome.includes(kw) || upperAway.includes(kw)
   );
-  if (isWomenMatch) {
-    console.log(`🚫 [여성 경기 차단 - 프리패스 무시] ${m.league} - ${m.home} vs ${m.away}`);
-    return false;
-  }
-
-  // [단계 1] 청소년/리저브 경기인지 확인 (WOMEN과 달리, essentialTeams 프리패스가 여전히 우선한다)
-  const isRestricted = !isEssentialTeam && !isAllowedWomenLeague && (upperLg.includes('YOUTH') || upperLg.includes('RESERVE') || upperLg.includes('U15') || upperLg.includes('U16') || upperLg.includes('U17') || upperLg.includes('U18') || upperLg.includes('U19') || upperLg.includes('U20') || upperLg.includes('U21') || upperLg.includes('U23'));
-
-  // [단계 2] 제한 대상이면 아래 조건은 보지도 말고 즉시 종료
-  if (isRestricted) {
-    console.log(`🚫 [제한 대상] 청소년 경기 스킵: ${m.league}`);
+  if (isBlockedDemographic) {
+    console.log(`🚫 [여성/청소년 경기 차단 - 프리패스 무시] ${m.league} - ${m.home} vs ${m.away}`);
     return false;
   }
 
@@ -258,7 +246,7 @@ if (isExtraFiltered) {
   const isFirstDivision = ['DIVISION 1', '1 DIVISION', 'PREMIER DIVISION', 'PREMIERSHIP', 'SUPER LEAGUE', 'PRO LEAGUE', 'PREMIER', 'A LEAGUE', 'JUPILER PRO LEAGUE', 'AFRICAN CLUB CHAMPIONSHIP', 'PFL', 'AFC U17 ASIAN CUP', 'J. League','J1 LEAGUE', 'PRIMERA DIVISIÓN - APERTURA', "AFC WOMEN'S CHAMPIONS LEAGUE",'LEAGUE ONE', 'V.LEAGUE 1', 'TAIWAN FOOTBALL PREMIER LEAGUE', 'COPA LIBERTADORES','COPA LIBERTADORES 32TH FINALS','COPA LIBERTADORES 16TH FINALS','COPA LIBERTADORES 8TH FINALS','COPA LIBERTADORES 4TH FINALS','COPA LIBERTADORES SEMI FINALS','COPA LIBERTADORES FINAL','COPA SUDAMERICANA 32TH FINALS','COPA SUDAMERICANA 16TH FINALS','COPA SUDAMERICANA 8TH FINALS','COPA SUDAMERICANA 4TH FINALS','COPA SUDAMERICANA SEMI FINALS','COPA SUDAMERICANA FINAL','WK-LEAGUE','PRIMERA A','WORLD CUP - WOMEN - QUALIFICATION EUROPE','ASEAN CHAMPIONSHIP', 'LIGA I','EUROPA LEAGUE QUALIFICATION','EUROPA LEAGUE','CONFERENCE LEAGUE QUALIFICATION','CONFERENCE LEAGUE','SAUDI PRO LEAGUE'].some(el => el === upperLg);
 
   // 축구 통합 필터 (국가+리그 화이트리스트 항목도 포함)
-  const soccerFilter = (sport === 'soccer') && !isRestricted && (top5 || korea || mls || isMainInternational || isFirstDivision || isCountryLeagueWhitelisted);
+  const soccerFilter = (sport === 'soccer') && (top5 || korea || mls || isMainInternational || isFirstDivision || isCountryLeagueWhitelisted);
 
   // 2. 농구
   const basketball = ['KBL', 'WKBL', 'CBA', 'B.LEAGUE', 'WORLD', 'WORLDS', 'INTERNATIONAL', 'B LEAGUE', 'NBA', 'ASIA CHAMPIONS LEAGUE', 'EUROLEAGUE','NBA W', 'NBA SALT LAKE CITY SUMMER LEAGUE', 'CALIFORNIA CLASSIC', 'NBA - LAS VEGAS SUMMER LEAGUE'].some(el => el === upperLg);
