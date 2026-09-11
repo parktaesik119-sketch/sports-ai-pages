@@ -19,7 +19,7 @@ summary: "섐록 로버스는 2026시즌 13승으로 세인트 패트릭스 애�
 homeRecent: "[{\"date\":\"26.09.06\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Bohemian FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.29\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Waterford FC\",\"score\":\"0-2\",\"result\":\"🔴패\"},{\"date\":\"26.08.22\",\"home\":\"Drogheda United\",\"away\":\"St. Patrick's Athletic\",\"score\":\"0-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.16\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Shamrock Rovers\",\"score\":\"3-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.10\",\"home\":\"Shelbourne\",\"away\":\"St. Patrick's Athletic\",\"score\":\"1-2\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.09.05\",\"home\":\"Shamrock Rovers\",\"away\":\"Shelbourne\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.31\",\"home\":\"Derry City\",\"away\":\"Shamrock Rovers\",\"score\":\"3-3\",\"result\":\"🟡무\"},{\"date\":\"26.08.28\",\"home\":\"KuPS\",\"away\":\"Shamrock Rovers\",\"score\":\"1-0\",\"result\":\"🔴패\"},{\"date\":\"26.08.21\",\"home\":\"Shamrock Rovers\",\"away\":\"KuPS\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.16\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Shamrock Rovers\",\"score\":\"3-2\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
-injuryAway: "Danny Grant[주요](근육 부상 - 복귀예정 Unknown) | Victor Ozhianvuna[주요](근육 부상 - 복귀예정 Unknown) | Daniel Mândroiu[주요](무릎 부상 - 복귀예정 Unknown)"
+injuryAway: "Naj Razi[주요](근육 부상 - 복귀예정 Unknown) | Danny Grant[주요](근육 부상 - 복귀예정 Unknown) | Victor Ozhianvuna[주요](근육 부상 - 복귀예정 Unknown) | Daniel Mândroiu[주요](무릎 부상 - 복귀예정 Unknown)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
