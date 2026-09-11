@@ -21,8 +21,8 @@ const TEAM_NAME_MAP = {
   "AFC Bournemouth Academy": "본머스 아카데미",
   "Brentford": "브렌트퍼드",
   "Brentford Academy": "브렌트퍼드 아카데미",
-  "Brighton": "브라이탄 & 호브 앨비언",
-  "Brighton & Hove Albion": "브라이탄 & 호브 앨비언",
+  "Brighton": "브라이턴 & 호브 앨비언",
+  "Brighton & Hove Albion": "브라이턴 & 호브 앨비언",
   "Burnley": "번리",
   "Chelsea": "첼시",
   "Crystal Palace": "크리스탈 팰리스",
@@ -568,6 +568,7 @@ const TEAM_NAME_MAP = {
   "FC Dallas": "FC 댈러스",
   "Dallas": "FC 댈러스",
   "Houston Dynamo": "휴스턴 다이나모",
+  "Houston Dynamo FC": "휴스턴 다이나모",
   "Houston": "휴스턴",
   "Inter Miami": "인터 마이애미",
   "Inter Miami CF": "인터 마이애미",
@@ -601,6 +602,7 @@ const TEAM_NAME_MAP = {
   "San Jose Earthquakes": "산호세 어스퀘이크스",
   "San Jose": "산호세",
   "Seattle Sounders": "시애틀 사운더스",
+  "Seattle Sounders FC": "시애틀 사운더스",
   "Sporting Kansas City": "스포르팅 캔자스시티",
   "Sporting KC": "스포르팅 캔자스시티", // fotmob/ESPN 등이 축약 표기를 쓰는 경우 대비(2군 "Sporting KC II"와는
   // 다른 팀이라 matchTeam()의 부분일치 폴백 제거 이후 이 동의어 등록 없이는 매칭이 안 됨, 2026-08 확인)
