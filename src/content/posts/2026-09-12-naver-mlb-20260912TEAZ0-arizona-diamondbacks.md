@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.11","home":"시애틀 매리너스","away":"텍사�
 injuryHome: "Corbin Carroll (통증)|Ryne Nelson (60일 부상자 명단 - 근육 긴장)|Ryan Thompson (60일 부상자 명단 - 근육 긴장)|A.J. Puk (60일 부상자 명단 - 염좌)|Andrew Saalfrank (60일 부상자 명단 - 수술)"
 injuryAway: "Kyle Higashioka (10일 부상자 명단 - 근육 긴장)|Josh Jung (10일 부상자 명단 - 근육 긴장)|Carter Baumler (60일 부상자 명단 - 근육 긴장)|Cole Winn (15일 부상자 명단 - 근육 긴장)|Nathan Eovaldi (15일 부상자 명단 - 염증)"
 homeLineup: "[\"선발투수 B. Pfaadt (7-2, 3.53) ERA 3.53|https://a.espncdn.com/i/headshots/mlb/players/full/4721302.png\"]"
-awayLineup: "[\"선발투수 M. Gore (8-10, 4.51) ERA 4.51|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
+awayLineup: "[\"선발투수 K. Rocker (5-11, 4.61) ERA 4.61|https://a.espncdn.com/i/headshots/mlb/players/full/4414525.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

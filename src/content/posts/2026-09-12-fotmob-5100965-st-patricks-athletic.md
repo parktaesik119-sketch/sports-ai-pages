@@ -20,12 +20,12 @@ homeRecent: "[{\"date\":\"26.09.06\",\"home\":\"St. Patrick's Athletic\",\"away\
 awayRecent: "[{\"date\":\"26.09.05\",\"home\":\"Shamrock Rovers\",\"away\":\"Shelbourne\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.31\",\"home\":\"Derry City\",\"away\":\"Shamrock Rovers\",\"score\":\"3-3\",\"result\":\"🟡무\"},{\"date\":\"26.08.28\",\"home\":\"KuPS\",\"away\":\"Shamrock Rovers\",\"score\":\"1-0\",\"result\":\"🔴패\"},{\"date\":\"26.08.21\",\"home\":\"Shamrock Rovers\",\"away\":\"KuPS\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.16\",\"home\":\"St. Patrick's Athletic\",\"away\":\"Shamrock Rovers\",\"score\":\"3-2\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
 injuryAway: "Naj Razi[주요](근육 부상 - 복귀예정 Unknown) | Danny Grant[주요](근육 부상 - 복귀예정 Unknown) | Victor Ozhianvuna[주요](근육 부상 - 복귀예정 Unknown) | Daniel Mândroiu[주요](무릎 부상 - 복귀예정 Unknown)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Joseph Anang (GK)|https://images.fotmob.com/image_resources/playerimages/963812.png\",\"Joe Redmond (DF)|https://images.fotmob.com/image_resources/playerimages/1077899.png\",\"Seán Hoare (DF)|https://images.fotmob.com/image_resources/playerimages/395686.png\",\"Luke Turner (DF)|https://images.fotmob.com/image_resources/playerimages/1068648.png\",\"Ryan Sheridan (MF)|https://images.fotmob.com/image_resources/playerimages/1901118.png\",\"Jamie Lennon (MF)|https://images.fotmob.com/image_resources/playerimages/923157.png\",\"Barry Baggley (MF)|https://images.fotmob.com/image_resources/playerimages/1029064.png\",\"Jason McClelland (MF)|https://images.fotmob.com/image_resources/playerimages/734103.png\",\"Zack Elbouzedi (MF)|https://images.fotmob.com/image_resources/playerimages/760330.png\",\"Ryan Edmondson (FW)|https://images.fotmob.com/image_resources/playerimages/938518.png\",\"Aidan Keena (FW)|https://images.fotmob.com/image_resources/playerimages/825815.png\"]"
+awayLineup: "[\"Edward McGinty (GK)|https://images.fotmob.com/image_resources/playerimages/829101.png\",\"Tunmise Sobowale (DF)|https://images.fotmob.com/image_resources/playerimages/949667.png\",\"Roberto Lopes (DF)|https://images.fotmob.com/image_resources/playerimages/230134.png\",\"Lee Grace (DF)|https://images.fotmob.com/image_resources/playerimages/648611.png\",\"Adam Matthews (DF)|https://images.fotmob.com/image_resources/playerimages/170593.png\",\"Dylan Watts (MF)|https://images.fotmob.com/image_resources/playerimages/641044.png\",\"Matthew Healy (MF)|https://images.fotmob.com/image_resources/playerimages/1206281.png\",\"Jack Byrne (MF)|https://images.fotmob.com/image_resources/playerimages/661902.png\",\"William Fitzgerald (FW)|https://images.fotmob.com/image_resources/playerimages/889125.png\",\"Michael Noonan (FW)|https://images.fotmob.com/image_resources/playerimages/1612239.png\",\"Graham Burke (FW)|https://images.fotmob.com/image_resources/playerimages/301367.png\"]"
+homeFormation: "3-4-3"
+awayFormation: "3-5-2"
+homeCoach: "Stephen Kenny|https://images.fotmob.com/image_resources/playerimages/191537.png"
+awayCoach: "Stephen Bradley|https://images.fotmob.com/image_resources/playerimages/16191.png"
 pickWinTeam: "세인트 패트릭스 애슬레틱"
 pickWinResult: "승"
 pickHandicapTeam: "세인트 패트릭스 애슬레틱"

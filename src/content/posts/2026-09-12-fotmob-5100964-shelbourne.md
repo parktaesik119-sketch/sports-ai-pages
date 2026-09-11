@@ -20,12 +20,12 @@ homeRecent: "[{\"date\":\"26.09.05\",\"home\":\"Shamrock Rovers\",\"away\":\"She
 awayRecent: "[{\"date\":\"26.09.07\",\"home\":\"Derry City\",\"away\":\"Dundalk\",\"score\":\"4-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.31\",\"home\":\"Derry City\",\"away\":\"Shamrock Rovers\",\"score\":\"3-3\",\"result\":\"🟡무\"},{\"date\":\"26.08.22\",\"home\":\"Bohemian FC\",\"away\":\"Derry City\",\"score\":\"5-3\",\"result\":\"🔴패\"},{\"date\":\"26.08.15\",\"home\":\"UCD\",\"away\":\"Derry City\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.08\",\"home\":\"Derry City\",\"away\":\"Sligo Rovers\",\"score\":\"2-0\",\"result\":\"🟢승\"}]"
 injuryHome: "John Martin[주요](근육 부상 - 복귀예정 A few weeks) | Sam Bone[주요](충돌 부상 - 복귀예정 Unknown)"
 injuryAway: "Carl Winchester[주요](충돌 부상 - 복귀예정 About 1-2 weeks) | Darragh Markey[주요](근육 부상 - 복귀예정 About 1-2 weeks)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Eddie Beach (GK)|https://images.fotmob.com/image_resources/playerimages/1421811.png\",\"Milan Mbeng (DF)|https://images.fotmob.com/image_resources/playerimages/1710550.png\",\"Odhrán Casey (DF)|https://images.fotmob.com/image_resources/playerimages/1382384.png\",\"Kameron Ledwidge (DF)|https://images.fotmob.com/image_resources/playerimages/1098797.png\",\"James Norris (DF)|https://images.fotmob.com/image_resources/playerimages/1096696.png\",\"Evan Caffrey (MF)|https://images.fotmob.com/image_resources/playerimages/1271838.png\",\"Kerr McInroy (MF)|https://images.fotmob.com/image_resources/playerimages/923527.png\",\"Jonathan Lunney (MF)|https://images.fotmob.com/image_resources/playerimages/791835.png\",\"Alistair Coote (MF)|https://images.fotmob.com/image_resources/playerimages/607331.png\",\"Ademipo Odubeko (FW)|https://images.fotmob.com/image_resources/playerimages/1113675.png\",\"Daniel Kelly (FW)|https://images.fotmob.com/image_resources/playerimages/1106545.png\"]"
+awayLineup: "[\"Tom Norcott (GK)|https://images.fotmob.com/image_resources/playerimages/1334827.png\",\"Patrick McClean (DF)|https://images.fotmob.com/image_resources/playerimages/621852.png\",\"Jamie Stott (DF)|https://images.fotmob.com/image_resources/playerimages/789493.png\",\"Cameron Dummigan (MF)|https://images.fotmob.com/image_resources/playerimages/511012.png\",\"Adam O'Reilly (MF)|https://images.fotmob.com/image_resources/playerimages/923219.png\",\"Nick Twisk (MF)|https://images.fotmob.com/image_resources/playerimages/1251660.png\",\"Ellis Chapman (MF)|https://images.fotmob.com/image_resources/playerimages/866704.png\",\"Brandon Fleming (DF)|https://images.fotmob.com/image_resources/playerimages/874606.png\",\"Darragh Burns (FW)|https://images.fotmob.com/image_resources/playerimages/1068592.png\",\"Tyler Smith (FW)|https://images.fotmob.com/image_resources/playerimages/949460.png\",\"Michael Duffy (FW)|https://images.fotmob.com/image_resources/playerimages/335731.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "John Russell|https://images.fotmob.com/image_resources/playerimages/77657.png"
+awayCoach: "Mark Connolly|https://images.fotmob.com/image_resources/playerimages/194134.png"
 pickWinTeam: "데리 시티"
 pickWinResult: "승"
 pickHandicapTeam: "데리 시티"
