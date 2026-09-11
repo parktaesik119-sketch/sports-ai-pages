@@ -1,34 +1,4 @@
 {
-  "analyze-naver-kbo-20260910HHSK02026-2026-09-10-ssg-landers": {
-    "kickoff": "2026-09-10T09:30:00.000Z"
-  },
-  "analyze-naver-kbo-20260910KTLT02026-2026-09-10-lotte-giants": {
-    "kickoff": "2026-09-10T09:30:00.000Z"
-  },
-  "analyze-naver-kbo-20260910WOOB02026-2026-09-10-doosan-bears": {
-    "kickoff": "2026-09-10T09:30:00.000Z"
-  },
-  "analyze-naver-kbo-20260910NCHT02026-2026-09-10-kia-tigers": {
-    "kickoff": "2026-09-10T09:30:00.000Z"
-  },
-  "analyze-naver-npb-20260910HIHS0-2026-09-10-hanshin-tigers": {
-    "kickoff": "2026-09-10T09:00:00.000Z"
-  },
-  "analyze-naver-npb-20260910JNYO0-2026-09-10-yomiuri-giants": {
-    "kickoff": "2026-09-10T09:00:00.000Z"
-  },
-  "analyze-naver-npb-20260910NHSF0-2026-09-10-fukuoka-s-hawks": {
-    "kickoff": "2026-09-10T09:00:00.000Z"
-  },
-  "analyze-naver-npb-20260910RTJL0-2026-09-10-chiba-lotte-marines": {
-    "kickoff": "2026-09-10T09:00:00.000Z"
-  },
-  "analyze-naver-npb-20260910SEOX0-2026-09-10-orix-buffaloes": {
-    "kickoff": "2026-09-10T09:00:00.000Z"
-  },
-  "analyze-naver-npb-20260910YAYK0-2026-09-10-yokohama-baystars": {
-    "kickoff": "2026-09-10T09:00:00.000Z"
-  },
   "analyze-naver-kbo-20260911KTLT02026-2026-09-11-lotte-giants": {
     "kickoff": "2026-09-11T09:30:00.000Z"
   },
@@ -41,21 +11,6 @@
   "analyze-naver-kbo-20260911WOSS02026-2026-09-11-samsung-lions": {
     "kickoff": "2026-09-11T09:30:00.000Z"
   },
-  "analyze-naver-mlb-20260911CONY0-2026-09-11-new-york-yankees": {
-    "kickoff": "2026-09-10T23:05:00.000Z"
-  },
-  "analyze-naver-mlb-20260911PICW0-2026-09-11-chicago-white-sox": {
-    "kickoff": "2026-09-10T23:40:00.000Z"
-  },
-  "analyze-naver-mlb-20260911TBAT0-2026-09-11-atlanta-braves": {
-    "kickoff": "2026-09-10T16:15:00.000Z"
-  },
-  "analyze-naver-mlb-20260911TESE0-2026-09-11-seattle-mariners": {
-    "kickoff": "2026-09-10T20:10:00.000Z"
-  },
-  "analyze-naver-mlb-20260911HOPH0-2026-09-11-philadelphia-phillies": {
-    "kickoff": "2026-09-10T17:05:00.000Z"
-  },
   "analyze-naver-npb-20260911JLSF0-2026-09-11-fukuoka-s-hawks": {
     "kickoff": "2026-09-11T09:00:00.000Z"
   },
@@ -64,5 +19,56 @@
   },
   "analyze-naver-npb-20260911YKHI0-2026-09-11-hiroshima-carp": {
     "kickoff": "2026-09-11T09:00:00.000Z"
+  },
+  "analyze-naver-kbo-20260912HTKT02026-2026-09-12-kt-wiz-suwon": {
+    "kickoff": "2026-09-12T08:00:00.000Z"
+  },
+  "analyze-naver-kbo-20260912LGSS02026-2026-09-12-samsung-lions": {
+    "kickoff": "2026-09-12T08:00:00.000Z"
+  },
+  "analyze-naver-kbo-20260912LTWO02026-2026-09-12-kiwoom-heroes": {
+    "kickoff": "2026-09-12T08:00:00.000Z"
+  },
+  "analyze-naver-kbo-20260912NCOB02026-2026-09-12-doosan-bears": {
+    "kickoff": "2026-09-12T08:00:00.000Z"
+  },
+  "analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals": {
+    "kickoff": "2026-09-11T22:45:00.000Z"
+  },
+  "analyze-naver-mlb-20260912BATO0-2026-09-12-toronto-blue-jays": {
+    "kickoff": "2026-09-11T23:07:00.000Z"
+  },
+  "analyze-naver-mlb-20260912CIMI0-2026-09-12-milwaukee-brewers": {
+    "kickoff": "2026-09-11T23:45:00.000Z"
+  },
+  "analyze-naver-mlb-20260912CLMN0-2026-09-12-minnesota-twins": {
+    "kickoff": "2026-09-12T00:10:00.000Z"
+  },
+  "analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers": {
+    "kickoff": "2026-09-11T22:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260912CWSL0-2026-09-12-st-louis-cardinals": {
+    "kickoff": "2026-09-12T00:15:00.000Z"
+  },
+  "analyze-naver-mlb-20260912HOTB0-2026-09-12-tampa-bay-rays": {
+    "kickoff": "2026-09-11T23:10:00.000Z"
+  },
+  "analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox": {
+    "kickoff": "2026-09-11T23:10:00.000Z"
+  },
+  "analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins": {
+    "kickoff": "2026-09-11T23:10:00.000Z"
+  },
+  "analyze-naver-mlb-20260912NMNY0-2026-09-12-new-york-yankees": {
+    "kickoff": "2026-09-11T23:05:00.000Z"
+  },
+  "analyze-naver-mlb-20260912PHAT0-2026-09-12-atlanta-braves": {
+    "kickoff": "2026-09-11T23:15:00.000Z"
+  },
+  "analyze-naver-mlb-20260912SDSF0-2026-09-12-san-francisco-giants": {
+    "kickoff": "2026-09-12T02:15:00.000Z"
+  },
+  "analyze-naver-mlb-20260912TEAZ0-2026-09-12-arizona-diamondbacks": {
+    "kickoff": "2026-09-12T01:40:00.000Z"
   }
 }
