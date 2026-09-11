@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"요미우리 자이언츠","away":"주�
 awayRecent: '[{"date":"26.09.09","home":"한신 타이거스","away":"히로시마 도요 카프","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909HIHS0-2026-09-09-hanshin-tigers/"},{"date":"26.09.06","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906YKHS0-2026-09-06-hanshin-tigers/"},{"date":"26.09.05","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905YKHS0-2026-09-05-hanshin-tigers/"},{"date":"26.09.03","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260903HSYA0-2026-09-03-yakult-swallows/"},{"date":"26.09.02","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902HSYA0-2026-09-02-yakult-swallows/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kazuyuki Takemaru (9-9, 3.72)|https://p.npb.jp/players_photo/2026/180/g/021_71275152.jpg\"]"
+awayLineup: "[\"선발투수 Shoki Murakami (10-7, 1.93)|https://p.npb.jp/players_photo/2026/180/t/041_13315153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
