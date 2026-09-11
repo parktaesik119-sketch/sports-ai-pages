@@ -123,12 +123,31 @@
 const allowedWomenLeagues = ['AFC WOMEN\'S CHAMPIONS LEAGUE','NATIONS LEAGUE WOMEN','WORLD CUP - WOMEN - QUALIFICATION EUROPE'];
 const isAllowedWomenLeague = allowedWomenLeagues.some(el => el === upperLg);
 
-  // [단계 1] 가장 먼저 여성/청소년 경기인지 확인 (최우선순위) - 있으면 무조건 차단
-  const isRestricted = !isEssentialTeam && !isAllowedWomenLeague && (upperLg.includes('WOMEN') || upperLg.includes('FRAUEN') || upperLg.includes('YOUTH') || upperLg.includes('RESERVE') || upperLg.includes('U15') || upperLg.includes('U16') || upperLg.includes('U17') || upperLg.includes('U18') || upperLg.includes('U19') || upperLg.includes('U20') || upperLg.includes('U21') || upperLg.includes('U23'));
+  // [단계 0] WOMEN 경기는 essentialTeams(프리패스 팀) 화이트리스트보다도 먼저, 무조건 차단한다.
+  // ⚠️ 리그명(WSL 등)뿐 아니라 팀명("Burnley FC Women")도 체크한다 — 동명 남자팀이
+  // essentialTeams에 등록돼 있어도(예: EPL Sunderland), 상대팀명에 "Women"이 붙은
+  // 여자 경기가 그 프리패스를 뚫고 통과하는 걸 막기 위함
+  // (2026-09 확인: WSL2 "Burnley FC Women vs 선덜랜드" 오분석 — 리그명만으론 안 걸리고
+  //  팀명의 "Women"이 essentialTeams 프리패스에 묻혀서 새어나간 케이스였음).
+  // isAllowedWomenLeague에 명시적으로 등록한 리그(AFC 여자 챔스 등)만 여기서 예외로 통과된다.
+  const isWomenMatch = !isAllowedWomenLeague && (
+    upperLg.includes('WOMEN') || upperLg.includes('FRAUEN') ||
+    upperHome.includes('WOMEN') || upperAway.includes('WOMEN') ||
+    upperHome.includes('FRAUEN') || upperAway.includes('FRAUEN') ||
+    upperHome.includes('FEMALE') || upperAway.includes('FEMALE') ||
+    upperHome.includes('FEMENIL') || upperAway.includes('FEMENIL')
+  );
+  if (isWomenMatch) {
+    console.log(`🚫 [여성 경기 차단 - 프리패스 무시] ${m.league} - ${m.home} vs ${m.away}`);
+    return false;
+  }
+
+  // [단계 1] 청소년/리저브 경기인지 확인 (WOMEN과 달리, essentialTeams 프리패스가 여전히 우선한다)
+  const isRestricted = !isEssentialTeam && !isAllowedWomenLeague && (upperLg.includes('YOUTH') || upperLg.includes('RESERVE') || upperLg.includes('U15') || upperLg.includes('U16') || upperLg.includes('U17') || upperLg.includes('U18') || upperLg.includes('U19') || upperLg.includes('U20') || upperLg.includes('U21') || upperLg.includes('U23'));
 
   // [단계 2] 제한 대상이면 아래 조건은 보지도 말고 즉시 종료
   if (isRestricted) {
-    console.log(`🚫 [제한 대상] 여성/청소년 경기 스킵: ${m.league}`);
+    console.log(`🚫 [제한 대상] 청소년 경기 스킵: ${m.league}`);
     return false;
   }
 

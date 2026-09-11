@@ -9,6 +9,7 @@ const TEAM_NAME_MAP = {
   "Leeds": "리즈 유나이티드",
   "Leeds United": "리즈 유나이티드",
   "Coventry": "코번트리 시티",
+  "Coventry City": "코번트리 시티",
   "Ipswich": "입스위치 타운",
   "Ipswich Town": "입스위치 타운",
   "Hull City": "헐 시티",
@@ -16,10 +17,12 @@ const TEAM_NAME_MAP = {
   "Arsenal": "아스널",
   "Aston Villa": "아스톤 빌라",
   "Bournemouth": "본머스",
+  "AFC Bournemouth": "본머스",
   "AFC Bournemouth Academy": "본머스 아카데미",
   "Brentford": "브렌트퍼드",
   "Brentford Academy": "브렌트퍼드 아카데미",
-  "Brighton": "브라이튼",
+  "Brighton": "브라이탄 & 호브 앨비언",
+  "Brighton & Hove Albion": "브라이탄 & 호브 앨비언",
   "Burnley": "번리",
   "Chelsea": "첼시",
   "Crystal Palace": "크리스탈 팰리스",
@@ -41,6 +44,7 @@ const TEAM_NAME_MAP = {
   "West Ham United": "웨스트햄",
   "Wolves": "울버햄튼",
   "Wolverhampton Wanderers": "울버햄튼",
+  "Luton Town": "루턴 타운",
 
   // ===== 🇪🇸 라리가 (La Liga) =====
   "Racing Santander": "레이싱 산탄데르",
@@ -548,6 +552,7 @@ const TEAM_NAME_MAP = {
   "Austin": "오스틴 FC",
   "Austin FC": "오스틴 FC",
   "CF Montreal": "CF 몽레알",
+  "CF Montréal": "CF 몽레알",
   "Montreal": "CF 몽레알",
   "Charlotte": "샬럿 FC",
   "Charlotte FC": "샬럿 FC",
@@ -571,6 +576,7 @@ const TEAM_NAME_MAP = {
   "Los Angeles Galaxy": "LA 갤럭시",
   "LA Galaxy": "LA 갤럭시",
   "Minnesota United FC": "미네소타 유나이티드",
+  "Minnesota United": "미네소타 유나이티드",
   "Minnesota": "미네소타",
   "Nashville SC": "내슈빌 SC",
   "New England Revolution": "뉴잉글랜드 레볼루션",
@@ -914,6 +920,7 @@ const TEAM_NAME_MAP = {
   "Inter Toronto FC": "요크 유니티드 FC",
   "York United": "요크 유니티드 FC",
   "HFX Wanderers FC": "HFX 원더러스 FC",
+  "Supra du Québec": "수프라 두 퀘벡",
 
   // 국가대표팀
   "Canada": "캐나다",
