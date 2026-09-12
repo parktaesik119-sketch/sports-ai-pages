@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다�
 awayRecent: '[{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"},{"date":"26.09.10","home":"LA 다저스","away":"신시내티 레즈","score":"14-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CILA0-2026-09-10-los-angeles-dodgers/"},{"date":"26.09.09","home":"LA 다저스","away":"신시내티 레즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CILA0-2026-09-09-los-angeles-dodgers/"},{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"},{"date":"26.09.07","home":"LA 다저스","away":"워싱턴 내셔널스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MOLA0-2026-09-07-los-angeles-dodgers/"}]'
 injuryHome: "Xavier Edwards (10일 부상자 명단 - 염좌)|Max Meyer (15일 부상자 명단 - 긴장/부상)|Anthony Bender (15일 부상자 명단 - 골절)|Ronny Henriquez (60일 부상자 명단 - 수술)|Adam Mazur (60일 부상자 명단 - 수술)"
 injuryAway: "Kris Bubic (60일 부상자 명단 - 통증)|Freddie Freeman (일일 부상자 명단 - 통증)|Edwin Diaz (15일 부상자 명단 - 염증)|Roki Sasaki (15일 부상자 명단 - 찰과상)|Dalton Rushing (10일 부상자 명단 - 통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Phillips (5-6, 3.51) ERA 3.51|https://a.espncdn.com/i/headshots/mlb/players/full/41247.png\"]"
+awayLineup: "[\"선발투수 T. Glasnow (4-0, 3.12) ERA 3.12|https://a.espncdn.com/i/headshots/mlb/players/full/33190.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

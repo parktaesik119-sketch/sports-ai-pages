@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.10","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"9-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CLBA0-2026-09-10-baltimore-orioles/"},{"date":"26.09.09","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CLBA0-2026-09-09-baltimore-orioles/"},{"date":"26.09.08","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CLBA0-2026-09-08-baltimore-orioles/"},{"date":"26.09.07","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907DECL0-2026-09-07-cleveland-guardians/"},{"date":"26.09.06","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906DECL0-2026-09-06-cleveland-guardians/"}]'
 injuryHome: "Mike Paredes (60일 부상자 명단 - 근육 긴장)|Mick Abel (60일 부상자 명단 - 수술)|Byron Buxton (10일 부상자 명단 - 수술)|Cole Sands (60일 부상자 명단 - 수술)|David Festa (60일 부상자 명단 - 수술)"
 injuryAway: "Rhys Hoskins (10일 부상자 명단 - 염증)|Colin Holderman (15일 부상자 명단 - 염증)|Shawn Armstrong (60일 부상자 명단 - 근육 긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Prielipp (4-7, 5.25) ERA 5.25|https://a.espncdn.com/i/headshots/mlb/players/full/4620001.png\"]"
+awayLineup: "[\"선발투수 D. Espino (0-0, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/42438.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
