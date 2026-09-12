@@ -24,7 +24,7 @@ homeLineup: '["Nicolas Kristof (GK)|https://images.fotmob.com/image_resources/pl
 awayLineup: '["Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png","Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png","Dayot Upamecano (DF)|https://images.fotmob.com/image_resources/playerimages/658554.png","Jonathan Tah (DF)|https://images.fotmob.com/image_resources/playerimages/469700.png","Alphonso Davies (DF)|https://images.fotmob.com/image_resources/playerimages/751202.png","Joshua Kimmich (MF)|https://images.fotmob.com/image_resources/playerimages/460632.png","Aleksandar Pavlović (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png","Lennart Karl (FW)|https://images.fotmob.com/image_resources/playerimages/1737700.png","Nathaniel Brown (DF)|https://images.fotmob.com/image_resources/playerimages/1395447.png","Luis Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/860914.png","Ismael Saibari (MF)|https://images.fotmob.com/image_resources/playerimages/1180288.png"]'
 homeFormation: "4-2-3-1"
 awayFormation: "4-2-3-1"
-homeCoach: ""
+homeCoach: "Vincent Wagner|https://images.fotmob.com/image_resources/playerimages/94647.png"
 awayCoach: "Vincent Kompany|https://images.fotmob.com/image_resources/playerimages/39027.png"
 pickWinTeam: "바이에른 뮌헨"
 pickWinResult: "승"
