@@ -1,0 +1,37 @@
+---
+title: "워싱턴 내셔널스 vs LA 에인절스 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLB - 픽천국"
+date: 2026-09-12T20:05:00.000Z
+description: "워싱턴 내셔널스 vs LA 에인절스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260913ANMO0-2026-09-13-washington-nationals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "워싱턴 내셔널스"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "워싱턴 내셔널스는 2026시즌 112경기에서 52승 58패, 승률 .473을 기록하며 현재 리그순위 13위에 머물러 있습니다. 최근 흐름을 보면 샌디에이고 파드리스와 로스앤젤레스 다저스를 상대로 한 연전에서 연패를 거듭하며 분위기가 다소 가라앉은 상태입니다. 시즌 전체 득점 평균은 4.8로 준수하지만, 최근 10경기에서는 평균 3.9득점에 그치며 타선의 집중력이 하락한 모습이 두드러집니다. 투수진 역시 실점 억제력에서 기복을 보이고 있어 투타의 조화가 시급한 상황입니다. 전반적인 페이스가 하향 곡선을 그리고 있어 이번 경기에서 반등을 위한 돌파구 마련이 무엇보다 중요해 보입니다."
+awayAnalysis: "LA 에인절스는 2026시즌 96경기에서 33승 62패, 승률 .344를 기록하며 현재 리그순위 15위에 위치하고 있습니다. 시즌 내내 어려움을 겪어왔으나, 최근 보스턴 레드삭스를 상대로 연승을 거두는 등 전력 재정비를 통해 반등의 실마리를 찾고 있습니다. 시즌 전체 평균 득점은 3.9에 머물러 있지만, 최근 9경기에서는 평균 4.2득점을 올리며 공격적인 측면에서 조금씩 짜임새를 갖추어 가고 있습니다. 비록 낮은 리그순위가 보여주듯 전체적인 안정감은 부족하나, 최근 보여준 흐름은 시즌 초반보다 훨씬 짜임새 있는 운영을 보여주고 있습니다. 상대적으로 개선된 타격 집중력을 바탕으로 경기를 주도하려는 움직임이 돋보입니다."
+homePower: "타선 침체로 인한 최근 10경기 7패의 깊은 부진|투수진의 실점 제어력 약화로 경기 후반 운영 난항|리그순위 13위의 한계를 극복할 공수 밸런스 필요|홈 경기장 이점을 활용한 타격 리듬 회복이 최우선|기존 기록 대비 득점권 마무리 효율 향상 절실함"
+awayPower: "최근 9경기 4승으로 나타난 완만한 상승세|중위권 이하 팀 상대로 확보한 공격 흐름의 안정|최근 2경기 연속 6득점 기록한 타선의 응집력|연패 탈출 이후 다져진 팀 전반의 집중력 회복|리그순위 15위의 불리함을 깰 실전 운영 능력 필요"
+h2h: '[{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"}]'
+summary: "양 팀은 2026시즌 각각 리그순위 13위와 15위에 자리하며 순위표상으로는 큰 차이가 없지만, 최근 보여주는 경기력에서는 다소 차이가 있습니다. 워싱턴 내셔널스는 최근 연패로 인해 공수 전반에서 다소 무거운 발걸음을 보이고 있으나, 홈에서의 집중력을 되살리는 것이 이번 승부의 관건입니다. 반면 LA 에인절스는 최근 원정에서 승리를 추가하며 흐름을 타기 시작했고, 특히 타선의 득점 생산력이 살아나고 있다는 점이 긍정적인 요소로 평가됩니다. 지난 맞대결 당시 워싱턴 내셔널스가 근소한 차이로 승리한 바 있으나, 현재의 상승 흐름을 고려할 때 LA 에인절스가 공수 밸런스에서 조금 더 안정적인 우위를 점할 가능성이 높습니다. 양 팀 모두 득점력을 끌어올리는 과정에 있는 만큼, 경기 중반까지의 집중력이 승패를 결정지을 것으로 보입니다."
+homeRecent: '[{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"},{"date":"26.09.08","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MOSD0-2026-09-08-san-diego-padres/"},{"date":"26.09.07","home":"LA 다저스","away":"워싱턴 내셔널스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MOLA0-2026-09-07-los-angeles-dodgers/"},{"date":"26.09.06","home":"LA 다저스","away":"워싱턴 내셔널스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MOLA0-2026-09-06-los-angeles-dodgers/"},{"date":"26.09.05","home":"LA 다저스","away":"워싱턴 내셔널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905MOLA0-2026-09-05-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"},{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"},{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"},{"date":"26.09.06","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906ANPI0-2026-09-06-pittsburgh-pirates/"}]'
+injuryHome: "Richard Lovelady (strain)|DJ Herz (strain)|PJ Poulin (strain)|Nasim Nunez (bereavement)|Connelly Early (inflammation)"
+injuryAway: "Nolan Schanuel (strain)|Sam Bachman (inflammation)|Yoan Moncada (surgery)|Gustavo Campero (strain)|George Klassen (inflammation)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 에인절스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 에인절스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

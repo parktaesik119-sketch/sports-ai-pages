@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 텍사스 레인저스 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLB - 픽천국"
+date: 2026-09-13T00:10:00.000Z
+description: "애리조나 다이아몬드백스 vs 텍사스 레인저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260913TEAZ0-2026-09-13-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "텍사스 레인저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 78승 69패 승률 .531를 기록하며 리그순위 7위에 위치해 있습니다. 득실차 -1.0이 보여주듯 매 경기 박빙의 접전을 펼쳐왔으며 최근 10경기에서 6승 4패로 안정적인 흐름을 유지하고 있습니다. 다만 Ryne Nelson, Ryan Thompson, A.J. Puk 등 주요 투수진이 부상자 명단에 올라 있어 경기 후반 마운드 운용에 부담이 가중된 상태입니다. 타선은 최근 시리즈들에서 꾸준히 점수를 뽑아내며 안방에서의 경기력을 끌어올리고 있습니다. 마운드의 부상 공백을 타선의 집중력으로 극복하는 것이 이번 경기의 핵심 과제로 평가됩니다."
+awayAnalysis: "텍사스 레인저스는 2026시즌 72승 75패 승률 .490의 성적으로 리그순위 8위에 자리를 잡고 있습니다. 시즌 전체 득실차는 -41.0으로 다소 기복을 보였으나 최근 10경기 동안 평균 득점 4.3점을 기록하며 타선에서 꾸준한 화력을 보여주었습니다. Josh Jung과 Nathan Eovaldi 등 핵심 선수들의 이탈로 전력 손실이 존재하지만 타선의 기회 포착 능력은 여전히 위협적입니다. 특히 이번 상대인 애리조나 다이아몬드백스와의 시즌 맞대결에서 2승 1패로 우위를 점하며 강한 모습을 입증했습니다. 상대전적에서의 자신감과 타선의 집중력을 바탕으로 원정길에서 우세를 노릴 것으로 보입니다."
+homePower: "홈 경기 5연전 승리 등 안방에서의 경기력 우수함|주요 투수진 대거 이탈로 경기 후반 마운드 불안 요소 존재|최근 10경기 6승으로 5할 이상의 상승 흐름 유지함|상대전적 1승 2패로 열세이나 안방 마운드 운용이 관건임|득실차 마이너스로 접전 상황 극복 능력이 핵심으로 파악됨"
+awayPower: "애리조나 다이아몬드백스 상대 시즌 맞대결 2승 1패 우위임|최근 10경기 평균 4.3득점으로 타선 집중력 유지함|주요 선발 Nathan Eovaldi 공백 극복이 과제임|리그순위 8위이나 상대 맞대결 시 화력 우위 입증됨|원정 경기 기복 제어가 이번 경기 승패의 핵심임"
+h2h: '[{"date":"26.05.14","home":"텍사스 레인저스","away":"애리조나 다이아몬드백스","score":"6-5"},{"date":"26.05.13","home":"텍사스 레인저스","away":"애리조나 다이아몬드백스","score":"7-4","link":"https://pick79.com/posts/detail/analyze-178621-2026-05-12-texas-rangers/"},{"date":"26.05.12","home":"텍사스 레인저스","away":"애리조나 다이아몬드백스","score":"0-1","link":"https://pick79.com/posts/detail/analyze-178621-2026-05-12-texas-rangers/"}]'
+summary: "애리조나 다이아몬드백스는 최근 승률을 끌어올리며 리그순위 상위권 추격을 노리고 있으나 불펜 및 선발 자원의 잇따른 부상 악재가 마운드 운용에 부담을 주고 있습니다. 반면 텍사스 레인저스는 시즌 맞대결 상대전적에서 2승 1패로 우위를 점하며 애리조나 다이아몬드백스 마운드를 상대로 공격에서 뛰어난 효율을 보여준 바 있습니다. 마운드 부상 공백을 안고 있는 홈팀을 상대로 상대전적 상성이 좋은 원정팀이 경기 주도권을 잡고 우위를 점할 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.10","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910AZKC0-2026-09-10-kansas-city-royals/"},{"date":"26.09.09","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909AZKC0-2026-09-09-kansas-city-royals/"},{"date":"26.09.08","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908AZKC0-2026-09-08-kansas-city-royals/"},{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"}]'
+awayRecent: '[{"date":"26.09.11","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TESE0-2026-09-11-seattle-mariners/"},{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"},{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"},{"date":"26.09.04","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TBTE0-2026-09-04-texas-rangers/"}]'
+injuryHome: "Ryne Nelson (60일 부상자 명단 - 근육 경련)|Ryan Thompson (60일 부상자 명단 - 근육 경련)|A.J. Puk (60일 부상자 명단 - 염좌)|Andrew Saalfrank (60일 부상자 명단 - 수술)|Cristian Mena (60일 부상자 명단 - 수술)"
+injuryAway: "Josh Jung (10일 부상자 명단 - 근육 경련)|Kyle Higashioka (10일 부상자 명단 - 근육 경련)|Carter Baumler (60일 부상자 명단 - 근육 경련)|Cole Winn (15일 부상자 명단 - 근육 경련)|Nathan Eovaldi (15일 부상자 명단 - 염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "텍사스 레인저스"
+pickWinResult: "승"
+pickHandicapTeam: "텍사스 레인저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

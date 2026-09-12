@@ -1,0 +1,37 @@
+---
+title: "디트로이트 타이거즈 vs 콜로라도 로키스 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLB - 픽천국"
+date: 2026-09-12T17:10:00.000Z
+description: "디트로이트 타이거즈 vs 콜로라도 로키스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260913CODE0-2026-09-13-detroit-tigers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "디트로이트 타이거즈"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "디트로이트 타이거즈는 2026시즌 68승 79패 승률 0.463을 기록하며 리그순위 12위에 자리하고 있습니다. 최근 10경기에서 5승 5패를 거두며 안정적인 흐름을 이어가고 있으며 직전 맞대결에서도 승리를 챙겼습니다. 플러스 득실차 지표가 증명하듯 투타 밸런스 면에서는 리그 순위 대비 뛰어난 경쟁력을 보여주고 있습니다. 전력 내 주요 선발 및 타선 자원의 결장 악재가 있지만 집요한 경기 운영으로 공백을 메우는 중입니다. 홈 경기의 이점과 더불어 마운드의 집중력이 살아나고 있어 이번 경기에서도 우위를 지킬 가능성이 높습니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 55승 92패 승률 0.374로 리그순위 15위에 머물러 있습니다. 최근 10경기에서 1승 9패에 그치며 심각한 경기력 침체와 함께 연패의 늪에 빠져 있습니다. 크게 벌어진 마운드의 득실차 수치가 나타내듯 마운드의 실점 억제 실패가 팀 전체의 발목을 잡고 있습니다. 주요 선발진과 핵심 타자들의 장기 결장까지 더해지면서 원정 경기 부담감이 더욱 가중된 상태입니다. 경기 초반 주도권을 쉽게 내주는 흐름이 이어지고 있어 분위기 반전을 위한 전력 투구가 시급해 보입니다."
+homePower: "직전 맞대결 승리로 확실한 상대적 우위를 점함|득실차 플러스 지표를 통한 탄탄한 경기 밸런스 입증|최근 실점 억제력 유지하며 마운드 안정감 보여줌|주전 결장 악재 속에서도 타선 기회 집행력 우수함|상대 침체 기세를 활용한 경기 주도권 확보 가능성 높음"
+awayPower: "최근 10경기 1승에 그치며 심각한 침체 양상 보임|큰 폭의 마운드 불안으로 경기당 실점 제어 난항|주요 선발 및 핵심 타선 결장으로 전력 약화됨|원정 경기 불펜 과부하와 경기 후반 집중력 저하|득점권 변환 효율이 떨어져 공격 물꼬 터지지 않음"
+h2h: '[{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"}]'
+summary: "디트로이트 타이거즈는 안정적인 득실 지표와 공수 밸런스를 바탕으로 경기력을 꾸준히 유지하고 있습니다. 반면 콜로라도 로키스는 최근 극심한 연패 흐름과 함께 마운드 과부하로 힘겨운 경기를 펼치고 있습니다. 직전 맞대결에서도 디트로이트 타이거즈가 안정적인 투타 조화로 승리를 거둔 만큼 이번 경기 역시 홈팀이 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"},{"date":"26.09.10","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MNDE0-2026-09-10-detroit-tigers/"},{"date":"26.09.09","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909MNDE0-2026-09-09-detroit-tigers/"},{"date":"26.09.08","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MNDE0-2026-09-08-detroit-tigers/"},{"date":"26.09.07","home":"클리블랜드 가디언스","away":"디트로이트 타이거즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907DECL0-2026-09-07-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"},{"date":"26.09.11","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911CONY0-2026-09-11-new-york-yankees/"},{"date":"26.09.10","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CONY0-2026-09-10-new-york-yankees/"},{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"},{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"}]'
+injuryHome: "Keider Montero (경미한 부상)|Parker Meadows (수술)|Jack Flaherty (염증)|Kerry Carpenter (족저근막염)|Justin Verlander (근육 긴장)"
+injuryAway: "Willi Castro (족저근막염)|Kyle Freeland (신경 압박)|Sean Sullivan (신경 압박)|Jose Quintana (염좌)|Kris Bryant (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

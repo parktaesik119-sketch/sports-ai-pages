@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 샌디에이고 파드리스 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLB - 픽천국"
+date: 2026-09-12T20:05:00.000Z
+description: "샌프란시스코 자이언츠 vs 샌디에이고 파드리스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260913SDSF0-2026-09-13-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 62승 85패를 기록하며 리그순위 14위에 머물러 있지만 최근 경기에서 강한 반등 조짐을 보여주고 있습니다. 비록 시즌 전체 득실 수치에서는 마이너스를 기록하며 고전했으나 최근 경기에서 승수를 꾸준히 쌓아올리며 타선의 집중력이 크게 살아난 모습을 보여줍니다. 특히 안방 경기에서 세인트루이스 카디널스를 상대로 연승을 달성하는 등 안방 경기력의 안정감이 확연히 더해지고 있습니다. 주요 타자들의 결장 악재 속에서도 기존 전력의 유기적인 연결을 통해 활로를 뚫어내고 있는 점이 돋보입니다. 마운드에서도 결정적인 순간 실점을 최소화하는 운영이 살아나고 있어 이번 경기에서도 긍정적인 흐름을 이어갈 것으로 기대됩니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 78승 68패를 거두며 리그순위 6위에 이름을 올리고 있지만 최근 고점 대비 주춤한 흐름을 나타내기도 했습니다. 플러스 득실 마진을 바탕으로 시즌 내내 상위권 경쟁을 이어왔으나 원정길에서는 다소 기복 있는 경기력이 변수로 작용하고 있습니다. 최근 연승을 통해 타선의 반등을 시도하고 있지만 경기에 따라 마운드의 기복이 발생하는 점은 과제로 남아있습니다. 불펜진의 주요 선수들이 부상으로 이탈해 있어 경기 후반 마운드 운용에 부담이 가중되는 모양새입니다. 상대전적에서는 앞서있으나 이번 원정 경기에서는 마운드의 과부하를 극복하고 흐름을 유지하는 것이 승부의 핵심이 될 것입니다."
+homePower: "최근 안방 연승으로 상승세 흐름 굳힘|타선 집중력 향상으로 경기 후반 강점 보임|핵심 결장 악재에도 잇몸 야구로 극복함|경기 후반 불펜 마운드 안정감 회복됨|샌프란시스코 자이언츠의 안방 이점 돋보임"
+awayPower: "리그순위 상위권다운 전력 밸런스 갖춤|상대전적 우위를 바탕으로 자신감 보유함|핵심 불펜 결장으로 후반 마운드 부담 존재함|원정 경기 기복으로 인한 경기력 균열 보임|샌디에이고 파드리스의 타선 반등 여부 관건임"
+h2h: '[{"date":"26.08.03","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"5-4","link":"https://pick79.com/posts/detail/analyze-179692-2026-08-03-san-diego-padres/"},{"date":"26.08.02","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"6-5","link":"https://pick79.com/posts/detail/analyze-179660-2026-08-01-san-diego-padres/"},{"date":"26.08.01","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"7-0","link":"https://pick79.com/posts/detail/analyze-179660-2026-08-01-san-diego-padres/"},{"date":"26.07.31","home":"샌디에이고 파드리스","away":"샌프란시스코 자이언츠","score":"1-4","link":"https://pick79.com/posts/detail/analyze-179649-2026-07-31-san-diego-padres/"},{"date":"26.05.07","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"1-5","link":"https://pick79.com/posts/detail/analyze-178556-2026-05-07-san-francisco-giants/"}]'
+summary: "샌프란시스코 자이언츠는 시즌 전체 성적 대비 최근 경기력이 눈에 띄게 살아나며 안방에서의 상승세를 확고히 다지고 있습니다. 반면 샌디에이고 파드리스는 리그순위에서 앞서고 상대전적 우위를 점하고 있으나 주요 투수진의 결장과 원정에서의 기복이 걸림돌로 작용하고 있습니다. 최근 살아난 타선의 응집력과 안방 이점을 한껏 살릴 수 있는 샌프란시스코 자이언츠가 이번 맞대결에서 우위를 점할 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.10","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910SLSF0-2026-09-10-san-francisco-giants/"},{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"},{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SFNM0-2026-09-07-new-york-mets/"},{"date":"26.09.06","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets/"},{"date":"26.09.05","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"10-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905SFNM0-2026-09-05-new-york-mets/"}]'
+awayRecent: '[{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"},{"date":"26.09.08","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MOSD0-2026-09-08-san-diego-padres/"},{"date":"26.09.07","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907NYSD0-2026-09-07-san-diego-padres/"},{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"},{"date":"26.09.03","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SDCI0-2026-09-03-cincinnati-reds/"}]'
+injuryHome: "Victor Bericoto (타박상)|JT Brubaker (타박상)|Matt Gage (근육 손상)|Willy Adames (염좌)|Marcelo Mayer (골절)"
+injuryAway: "Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Ty France (출산 휴가)|Miguel Andujar (골절)|Jason Adam (근육 손상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌프란시스코 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "샌프란시스코 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

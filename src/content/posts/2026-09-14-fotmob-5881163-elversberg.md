@@ -1,0 +1,37 @@
+---
+title: "엘버스베르크 vs 바이에른 뮌헨 경기분석·라인업·결장자·통계·승부예측 (9월 14일) | 분데스리가 - 픽천국"
+date: 2026-09-13T15:30:00.000Z
+description: "엘버스베르크 vs 바이에른 뮌헨 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5881163-2026-09-14-elversberg"
+category: "soccer"
+country: "독일"
+league: "분데스리가"
+homeTeam: "엘버스베르크"
+awayTeam: "바이에른 뮌헨"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8232.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png"
+homeAnalysis: "엘버스베르크는 2026시즌 12경기에서 6승 2무 4패를 기록하며 견조한 시즌 흐름을 이어가고 있습니다. 최근 공식전 5연승을 달리며 거침없는 공격 폭발력을 선보이고 있는 점이 매우 긍정적입니다. 전방에서 David Mokwa와 Lukas Petkov를 필두로 한 공격진의 날카로운 침투가 돋보입니다. 득점력에서는 상당한 화력을 자랑하지만 경기마다 실점을 허용하는 수비에서의 불안 요소는 다소 아쉽게 느껴집니다. Vincent Wagner와 Tom Zimmerschied의 이탈에도 불구하고 최근 강팀들을 잇달아 꺾은 흐름을 바탕으로 안방에서 강한 승부근성을 보여줄 것으로 기대됩니다."
+awayAnalysis: "바이에른 뮌헨은 2026시즌 16경기 동안 11승 3무 2패를 거두며 리그 최정상급의 강력한 전력을 과시하고 있습니다. 최근 공식전 10경기 무패 행진을 이어가며 기복 없는 막강한 경기력을 지속적으로 보여주고 있습니다. Vincent Kompany 감독 체제 아래 Joshua Kimmich와 Luis Díaz 등이 중원과 전방에서 경기를 완벽히 지배하는 모습이 인상적입니다. Serge Gnabry의 결장 악재가 존재하지만 두터운 선수층을 바탕으로 매 경기 압도적인 득점력을 분출하고 있습니다. 공수 밸런스가 매우 안정적인 만큼 원정길에서도 특유의 지배력을 발휘하며 경기를 주도할 가능성이 높습니다."
+homePower: "최근 5연승 상승세로 막강한 공격 전력을 입증함|라인업 전반의 고른 득점 지원으로 화력 다변화 성공함|다득점 경기 양상 지속되나 수비 불안 요소는 잔재함|주축 측면 공격진의 부상 부재가 공격 지속성에 변수임|엘버스베르크의 최근 연속 승리로 팀 자신감 최고조임"
+awayPower: "막강한 공수 밸런스로 압도적인 경기 지배력을 보여줌|높은 득점 생산력으로 매 경기 우수한 화력을 과시함|주축 중원 조합의 안정적인 경기 운영력이 돋보임|측면 공격수의 결장에도 굳건한 공격 로테이션 구축함|바이에른 뮌헨의 객관적 전력 우위로 원정 주도권 확보함"
+h2h: '[]'
+summary: "2026시즌 전반에 걸쳐 탄탄한 전력과 높은 득점력을 보여준 바이에른 뮌헨이 객관적인 전력에서 확연한 우위를 점하고 있습니다. 엘버스베르크 역시 최근 연속 승리를 챙기며 뜨거운 화력을 분출하고 있으나, 수비에서의 불안감이 강팀을 상대로 걸림돌이 될 수 있습니다. 바이에른 뮌헨이 특유의 안정적인 중원 지배력과 화려한 공격진을 앞세워 경기를 주도하며 승리를 거둘 것으로 기대됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Vincent Wagner (부상)|Tom Zimmerschied (등 부상)"
+injuryAway: "Serge Gnabry (허벅지 부상)"
+homeLineup: '["Nicolas Kristof (GK)|https://images.fotmob.com/image_resources/playerimages/1285926.png","Jan Gyamerah (DF)|https://images.fotmob.com/image_resources/playerimages/458602.png","Lukas Pinckert (DF)|https://images.fotmob.com/image_resources/playerimages/1280560.png","Maximilian Rohr (DF)|https://images.fotmob.com/image_resources/playerimages/1077911.png","Lasse Günther (DF)|https://images.fotmob.com/image_resources/playerimages/1245692.png","Felix Keidel (DF)|https://images.fotmob.com/image_resources/playerimages/1366338.png","Łukasz Poręba (MF)|https://images.fotmob.com/image_resources/playerimages/962113.png","Lukas Petkov (FW)|https://images.fotmob.com/image_resources/playerimages/1093782.png","Francis Onyeka (MF)|https://images.fotmob.com/image_resources/playerimages/1603681.png","Cole Campbell (FW)|https://images.fotmob.com/image_resources/playerimages/1288195.png","David Mokwa (FW)|https://images.fotmob.com/image_resources/playerimages/1459758.png"]'
+awayLineup: '["Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png","Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png","Dayot Upamecano (DF)|https://images.fotmob.com/image_resources/playerimages/658554.png","Jonathan Tah (DF)|https://images.fotmob.com/image_resources/playerimages/469700.png","Alphonso Davies (DF)|https://images.fotmob.com/image_resources/playerimages/751202.png","Joshua Kimmich (MF)|https://images.fotmob.com/image_resources/playerimages/460632.png","Aleksandar Pavlović (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png","Lennart Karl (FW)|https://images.fotmob.com/image_resources/playerimages/1737700.png","Nathaniel Brown (DF)|https://images.fotmob.com/image_resources/playerimages/1395447.png","Luis Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/860914.png","Ismael Saibari (MF)|https://images.fotmob.com/image_resources/playerimages/1180288.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: ""
+awayCoach: "Vincent Kompany|https://images.fotmob.com/image_resources/playerimages/39027.png"
+pickWinTeam: "바이에른 뮌헨"
+pickWinResult: "승"
+pickHandicapTeam: "바이에른 뮌헨"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

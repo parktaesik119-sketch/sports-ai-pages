@@ -1,0 +1,37 @@
+---
+title: "KT 위즈 vs 롯데 자이언츠 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | KBO - 픽천국"
+date: 2026-09-13T08:00:00.000Z
+description: "KT 위즈 vs 롯데 자이언츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260913LTKT02026-2026-09-13-kt-wiz-suwon"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "KT 위즈"
+awayTeam: "롯데 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+homeAnalysis: "KT 위즈는 2026시즌 97경기에서 57승 2무 38패를 기록하며 리그 1위를 굳건히 지키고 있습니다. 최근 10경기에서도 7승을 챙기며 상승세를 지속하고 있고 중심 타선의 화력이 매우 뜨겁습니다. 최원준과 힐리어드가 이끄는 타선의 파괴력은 매 경기 안정적인 득점 생산을 보장하고 있습니다. 최근 롯데 자이언츠와의 연전에서도 폭발적인 타선 집중력을 발휘하며 완벽한 상대 우위를 입증했습니다. 마운드의 안정감과 홈 경기 운영 능력이 뛰어난 만큼 이번 경기에서도 경기 주도권을 쥘 것으로 기대됩니다."
+awayAnalysis: "롯데 자이언츠는 2026시즌 97경기 44승 2무 51패로 리그 9위에 머물며 힘겨운 행보를 이어가고 있습니다. 최근 10경기에서 단 2승에 그치는 등 침체가 길어지고 있으며 마운드와 타선의 밸런스가 다소 무너진 모습입니다. 레이예스와 고승민이 분전하고 있으나 하위 타선의 연결 고리가 매끄럽지 못해 득점력이 정체되어 있습니다. 최근 KT 위즈를 상대로 잇따라 대량을 실점하며 패배를 기록해 분위기 반전이 절실한 상황입니다. 투수진의 조기 안정과 타선의 집중력이 살아나지 않는다면 이번 원정 경기 역시 고전할 가능성이 높습니다."
+homePower: "리그 선두다운 압도적 전력과 안정적 경기 운영|상위 타선의 높은 WAR 바탕 득점 생산력 우수|최근 맞대결 연속 대승으로 상대전적 우위 확보|선발과 불펜의 고른 활약으로 실점 억제력 뛰어남|홈 경기에서 유독 강해지는 타선 집중력 보임"
+awayPower: "최근 경기 승률 저하로 팀 분위기 침체 심화|상위 타선 분전에도 하위 타력 부진으로 한계 노출|최근 경기 대량 실점 빈발하며 마운드 불안감 지속|상대전적 열세 극복을 위한 선발진 조기 안정이 시급함|원정 경기 기복으로 주도권 확보에 난항 보임"
+h2h: '[{"date":"26.09.11","home":"롯데 자이언츠","away":"KT 위즈","score":"1-7","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911KTLT02026-2026-09-11-lotte-giants/"},{"date":"26.09.10","home":"롯데 자이언츠","away":"KT 위즈","score":"3-16","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910KTLT02026-2026-09-10-lotte-giants/"},{"date":"26.07.26","home":"롯데 자이언츠","away":"KT 위즈","score":"15-1","link":"https://pick79.com/posts/detail/analyze-181897-2026-07-26-lotte-giants/"},{"date":"26.07.25","home":"롯데 자이언츠","away":"KT 위즈","score":"1-6","link":"https://pick79.com/posts/detail/analyze-181895-2026-07-25-lotte-giants/"},{"date":"26.07.24","home":"롯데 자이언츠","away":"KT 위즈","score":"4-5","link":"https://pick79.com/posts/detail/analyze-181887-2026-07-24-lotte-giants/"}]'
+summary: "리그 선두를 달리고 있는 KT 위즈는 최근 폭발적인 타선과 안정된 마운드를 앞세워 강한 상승세를 이어가고 있습니다. 반면 롯데 자이언츠는 투타 밸런스가 흔들리며 침체기에 빠져 있어 반등의 계기가 필요한 시점입니다. 최근 상대전적에서도 KT 위즈가 압도적인 경기력을 선보인 만큼, 이번 경기 역시 탄탄한 전력을 바탕으로 홈팀이 우위를 점할 것으로 보입니다."
+homeRecent: '[{"date":"26.09.11","home":"롯데 자이언츠","away":"KT 위즈","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911KTLT02026-2026-09-11-lotte-giants/"},{"date":"26.09.10","home":"롯데 자이언츠","away":"KT 위즈","score":"3-16","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910KTLT02026-2026-09-10-lotte-giants/"},{"date":"26.09.09","home":"삼성 라이온스","away":"KT 위즈","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909KTSS02026-2026-09-09-samsung-lions/"},{"date":"26.09.08","home":"KT 위즈","away":"SSG 랜더스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908SKKT02026-2026-09-08-kt-wiz-suwon/"},{"date":"26.09.06","home":"KIA 타이거즈","away":"KT 위즈","score":"8-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906KTHT02026-2026-09-06-kia-tigers/"}]'
+awayRecent: '[{"date":"26.09.11","home":"롯데 자이언츠","away":"KT 위즈","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911KTLT02026-2026-09-11-lotte-giants/"},{"date":"26.09.10","home":"롯데 자이언츠","away":"KT 위즈","score":"3-16","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910KTLT02026-2026-09-10-lotte-giants/"},{"date":"26.09.08","home":"NC 다이노스","away":"롯데 자이언츠","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908LTNC02026-2026-09-08-nc-dinos/"},{"date":"26.09.06","home":"롯데 자이언츠","away":"한화 이글스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906HHLT02026-2026-09-06-lotte-giants/"},{"date":"26.09.05","home":"롯데 자이언츠","away":"한화 이글스","score":"6-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260905HHLT02026-2026-09-05-lotte-giants/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KT 위즈"
+pickWinResult: "승"
+pickHandicapTeam: "KT 위즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

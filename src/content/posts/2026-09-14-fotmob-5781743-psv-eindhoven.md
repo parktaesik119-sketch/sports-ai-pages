@@ -1,0 +1,37 @@
+---
+title: "PSV 에인트호번 vs 스파르타 로테르담 경기분석·라인업·결장자·통계·승부예측 (9월 14일) | 에레디비지 - 픽천국"
+date: 2026-09-13T18:00:00.000Z
+description: "PSV 에인트호번 vs 스파르타 로테르담 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781743-2026-09-14-psv-eindhoven"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "PSV 에인트호번"
+awayTeam: "스파르타 로테르담"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8640.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8614.png"
+homeAnalysis: "PSV 에인트호번은 2026시즌 14경기에서 10승 2무 2패를 기록하며 강력한 경기력을 바탕으로 우수한 행보를 이어가고 있습니다. 현재 리그순위 2위(4승 1무, 득실 +12.0)에 위치한 상황에서 공격진의 막강한 화력이 팀의 상승세를 단단하게 이끌고 있습니다. 최근 아약스와 FC 우트렉을 상대로 대승을 거두는 등 압도적인 득점 창출 능력을 연이어 선보이고 있습니다. 페테르 보스 감독 체제 아래 리카르도 페피와 이반 페리시치가 공격 전개 과정에서 뛰어난 활약을 펼치며 상대 수비진을 위협하고 있습니다. 일부 부상 이탈자가 발생했음에도 탄탄한 선수층을 구축하여 홈 경기 승점을 안정적으로 확보할 가능성이 돋보입니다."
+awayAnalysis: "스파르타 로테르담은 2026시즌 14경기에서 3승 5무 6패의 성적을 거두며 다소 기복 있는 흐름을 나타내고 있습니다. 현재 리그순위 11위(1승 2패 2무, 득실 0.0)에 머물러 있는 가운데 최근 경기에서 무승부가 많아 확실한 승점 3점을 챙기는 데 어려움을 겪고 있습니다. 최근 PEC 즈볼러 및 FC 우트렉과의 맞대결에서 다득점을 올리며 공격에서는 가능성을 보였으나 수비 안정감 저하가 아쉬움으로 남습니다. 로히어르 메이얼 감독은 슌스케 미토와 미첼 판 베르헌을 앞세운 측면 반격을 통해 활로를 모색하고 있습니다. 강팀과의 원정 경기인 만큼 수비 블록을 견고히 유지하면서 실점을 최소화하는 정돈된 경기 운영이 요구됩니다."
+homePower: "2026시즌 14경기 10승으로 입증된 압도적인 경기 주도력 보임|아약스전 대승을 포함해 원정과 홈을 가리지 않는 막강한 화력 증명됨|리카르도 페피 중심의 공격진 편성이 전방 파괴력을 배가시킴|리그순위 2위에 걸맞은 공수 밸런스로 경기 주도권을 쥐는 데 유리함|스파르타 로테르담과의 최근 맞대결에서 연승을 달리는 압도적 상성 우위임"
+awayPower: "최근 경기 연속 무승부로 인한 승점 누수와 뒷심 부족이 감지됨|미첼 판 베르헌을 활용한 측면 빠른 역습이 주요 공격 루트로 파악됨|수비진의 지속적인 실점 허용으로 공수 밸런스 균열이 관찰됨|리그순위 11위로 중위권 반등을 위해 득점 기회 집행력이 요구됨|PSV 에인트호번 상대 열세를 극복하기 위한 수비 위주 전략이 예상됨"
+h2h: '[{"date":"26.04.12","home":"스파르타 로테르담","away":"PSV 에인트호번","score":"0-2"},{"date":"25.08.10","home":"PSV 에인트호번","away":"스파르타 로테르담","score":"6-1"},{"date":"25.05.18","home":"스파르타 로테르담","away":"PSV 에인트호번","score":"1-3"},{"date":"24.10.06","home":"PSV 에인트호번","away":"스파르타 로테르담","score":"2-1"},{"date":"24.05.05","home":"PSV 에인트호번","away":"스파르타 로테르담","score":"4-2"}]'
+summary: "이번 경기는 시즌 내내 압도적인 화력과 전력을 과시하며 리그순위 2위를 달리고 있는 PSV 에인트호번이 흐름상 확실한 우위를 점하고 있습니다. PSV 에인트호번은 전방 공격진의 뛰어난 결정력과 안정적인 전력 운용을 바탕으로 상대를 지속해서 압박할 것으로 보입니다. 반면 스파르타 로테르담은 최근 수비 불안과 잦은 무승부로 고전하고 있어 홈팀의 강한 공격을 차단하는 데 한계를 드러낼 가능성이 큽니다. 상대전적에서도 뚜렷한 강세를 이어온 PSV 에인트호번이 주도권을 잡고 승리를 거둘 가능성이 매우 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Sam Lammers (충돌 부상)|Kiliann Sildillia (부상)|Jerdy Schouten (부상)|Sami Ouaissa (햄스트링 부상)|Alassane Pléa (부상)|Mikkel Bro (부상)"
+injuryAway: "Robin van Cruijsen (부상)"
+homeLineup: '["Matěj Kovár (GK)|https://images.fotmob.com/image_resources/playerimages/1077903.png","Sergiño Dest (DF)|https://images.fotmob.com/image_resources/playerimages/892816.png","Lutsharel Geertruida (DF)|https://images.fotmob.com/image_resources/playerimages/881640.png","Armando Obispo (DF)|https://images.fotmob.com/image_resources/playerimages/794244.png","Filip Kostić (MF)|https://images.fotmob.com/image_resources/playerimages/281012.png","Guus Til (FW)|https://images.fotmob.com/image_resources/playerimages/774947.png","Kodai Sano (MF)|https://images.fotmob.com/image_resources/playerimages/1337282.png","Paul Wanner (MF)|https://images.fotmob.com/image_resources/playerimages/1327149.png","Ivan Perišić (FW)|https://images.fotmob.com/image_resources/playerimages/163670.png","Ricardo Pepi (FW)|https://images.fotmob.com/image_resources/playerimages/1036401.png","Ruben van Bommel (FW)|https://images.fotmob.com/image_resources/playerimages/1359970.png"]'
+awayLineup: '["Michael Brouwer (GK)|https://images.fotmob.com/image_resources/playerimages/351869.png","Lushendry Martes (DF)|https://images.fotmob.com/image_resources/playerimages/1804213.png","Marvin Young (DF)|https://images.fotmob.com/image_resources/playerimages/1668089.png","Bruno Martins Indi (DF)|https://images.fotmob.com/image_resources/playerimages/212511.png","Bas Kuipers (DF)|https://images.fotmob.com/image_resources/playerimages/467480.png","Julian Baas (MF)|https://images.fotmob.com/image_resources/playerimages/1180499.png","Cedric Hatenboer (MF)|https://images.fotmob.com/image_resources/playerimages/1603786.png","Casper Terho (FW)|https://images.fotmob.com/image_resources/playerimages/1087574.png","Shunsuke Mito (FW)|https://images.fotmob.com/image_resources/playerimages/1227814.png","Mitchell van Bergen (FW)|https://images.fotmob.com/image_resources/playerimages/709734.png","Milan Zonneveld (FW)|https://images.fotmob.com/image_resources/playerimages/1291881.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Peter Bosz|https://images.fotmob.com/image_resources/playerimages/243556.png"
+awayCoach: "Rogier Meijer|https://images.fotmob.com/image_resources/playerimages/45917.png"
+pickWinTeam: "PSV 에인트호번"
+pickWinResult: "승"
+pickHandicapTeam: "PSV 에인트호번"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "3"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

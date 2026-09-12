@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 뉴욕 메츠 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLB - 픽천국"
+date: 2026-09-12T17:35:00.000Z
+description: "뉴욕 양키즈 vs 뉴욕 메츠 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260913NMNY0-2026-09-13-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 84승 62패 승률 0.575로 리그순위 2위를 기록하며 안정적인 시즌 행보를 이어가고 있습니다. 최근 10경기에서 8승을 거두며 매우 가파른 상승세를 타고 있으며, 타선의 폭발력과 안정된 마운드 운용이 조화를 이루고 있습니다. 득실 차이 +131.0이 증명하듯 투타 밸런스가 리그 최상위권 수준으로 유지되고 있으며 홈 경기에서도 특유의 집중력을 발휘하는 모습입니다. 주요 전력의 결장 변수가 존재하지만 대체 선수의 활약과 견고한 팀 시스템으로 공백을 메워내고 있습니다. 이번 경기 역시 안방에서 유려한 마운드 운영과 타선의 결정력을 앞세워 상대를 강력하게 압박할 것으로 기대됩니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 68승 78패 승률 0.466으로 리그순위 12위에 위치해 있지만 최근 경기력에서는 뚜렷한 반등 조짐을 보여주고 있습니다. 최근 10경기 중 7승을 챙기며 타선이 활발하게 살아나 공격적인 활로를 뚫어내고 있는 점이 돋보입니다. 시즌 전체 득실 차이는 -40.0으로 마운드 쪽 불안 요소가 남아 있으나 최근 득점 지원을 바탕으로 접전 승부에서 끈질긴 집중력을 발휘하고 있습니다. 마운드 구상의 부상 악재가 겹치며 경기 후반 안정감 기복이 변수로 작용할 수 있습니다. 그럼에도 불구하고 최근 상승 분위기를 바탕으로 원정길에서 타격전을 유도하며 강한 저항을 이어갈 것으로 전망됩니다."
+homePower: "리그 득실차 상위권으로 확인된 압도적 투타 밸런스 보임|최근 10경기 8승 거두며 가파른 상승세 흐름 유지함|부상자 발생에도 대체 전력의 안정적 활약 돋보임|안방 경기 운영에서 꾸준한 마운드 안정감 보유함|뉴욕 양키즈 특유의 타선 결정력으로 주도권 확보 가능함"
+awayPower: "최근 10경기 7승 챙기며 순위 대비 가파른 반등세 보임|맞대결 최근 3경기 중 2승 챙기며 맞대결 상성 우위임|득점 지원 활성화로 접전 상황서 높은 집중력 발휘함|마운드 부상 악재 존재하나 타선 화력으로 극복해냄|뉴욕 메츠 특유의 원정 끈질긴 승부 근성 검증됨"
+h2h: '[{"date":"26.05.18","home":"뉴욕 메츠","away":"뉴욕 양키즈","score":"7-6","link":"https://pick79.com/posts/detail/analyze-178703-2026-05-18-new-york-mets/"},{"date":"26.05.17","home":"뉴욕 메츠","away":"뉴욕 양키즈","score":"6-3","link":"https://pick79.com/posts/detail/analyze-178688-2026-05-17-new-york-mets/"},{"date":"26.05.16","home":"뉴욕 메츠","away":"뉴욕 양키즈","score":"2-5","link":"https://pick79.com/posts/detail/analyze-178673-2026-05-16-new-york-mets/"}]'
+summary: "뉴욕 양키즈는 리그순위 2위의 탄탄한 전력과 최근 상승세를 바탕으로 홈 경기의 이점을 활용하려 할 것입니다. 하지만 뉴욕 메츠 역시 최근 10경기에서 7승을 거두는 활발한 타격감을 선보이고 있으며, 이번 시즌 상대전적에서도 2승 1패로 우위를 점하고 있어 상성 면에서 자신감을 얻을 수 있는 요소가 충분합니다. 특히 뉴욕 메츠가 보여주는 접전 상황에서의 타선 집중력과 상대전적에서의 강세가 경기 흐름을 주도할 것으로 예상되는 만큼, 이번 경기는 뉴욕 메츠가 미세한 우위를 바탕으로 승리를 챙길 가능성이 높을 것으로 보입니다."
+homeRecent: '[{"date":"26.09.11","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911CONY0-2026-09-11-new-york-yankees/"},{"date":"26.09.10","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CONY0-2026-09-10-new-york-yankees/"},{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"},{"date":"26.09.07","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907NYSD0-2026-09-07-san-diego-padres/"},{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.09.10","home":"마이애미 말린스","away":"뉴욕 메츠","score":"14-15","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910NMFL0-2026-09-10-miami-marlins/"},{"date":"26.09.09","home":"마이애미 말린스","away":"뉴욕 메츠","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909NMFL0-2026-09-09-miami-marlins/"},{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 메츠","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908NMFL0-2026-09-08-miami-marlins/"},{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SFNM0-2026-09-07-new-york-mets/"},{"date":"26.09.06","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets/"}]'
+injuryHome: "Clarke Schmidt (60일 부상명단 - 수술)|Ryan Weathers (15일 부상명단 - 염좌)|Fernando Cruz (15일 부상명단 - 통증)|Trent Grisham (10일 부상명단 - 염좌)|Giancarlo Stanton (60일 부상명단 - 염좌)"
+injuryAway: "Brett Baty (일일 부상명단 - 통증)|Cionel Perez (15일 부상명단 - 염좌)|Devin Williams (15일 부상명단 - 염좌)|Jorge Polanco (60일 부상명단 - 수술)|Reed Garrett (60일 부상명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

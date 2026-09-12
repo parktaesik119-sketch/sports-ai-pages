@@ -1,0 +1,37 @@
+---
+title: "FC 신시내티 vs 샬럿 FC 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | MLS - 픽천국"
+date: 2026-09-12T23:30:00.000Z
+description: "FC 신시내티 vs 샬럿 FC 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5071351-2026-09-13-fc-cincinnati"
+category: "soccer"
+country: "미국"
+league: "MLS"
+homeTeam: "FC 신시내티"
+awayTeam: "샬럿 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1323940.png"
+homeAnalysis: "FC 신시내티는 2026시즌 17경기에서 8승 4무 5패의 성적을 기록하며 현재 리그순위 7위에 위치해 있습니다. 최근 경기들에서 다소 기복 있는 수비력을 보이며 실점이 늘어났으나, 파트 노블 감독 체제에서 홈 경기 시 공격 전개의 강점을 계속해서 발휘하고 있습니다. 특히 케빈 뎅키와 아유브 자바리를 중심으로 한 전방 공격 라인이 위력적인 득점 생산력을 보여주고 있습니다. 다만 오비나 은워보도를 비롯한 중원 자원의 부상 공백으로 인해 수비 밸런스 유지에 차질을 겪는 모습이 확인되었습니다. 이번 샬럿 FC와의 홈 경기에서는 수비 집중력을 회복하고 안방에서의 우수한 화력을 적극 활용하는 것이 중요한 과제가 될 것입니다."
+awayAnalysis: "샬럿 FC는 2026시즌 16경기에서 7승 3무 6패를 나타내며 현재 리그순위 5위에 차곡차곡 이름을 올리고 있습니다. 최근 연속 승리와 무패 행진을 이어가는 등 공수 양면에서 끈끈한 상승세를 보이고 있어 긍정적인 분위기를 유지하고 있습니다. 딘 스미스 감독 아래에서 알랑 생막시맹과 리엘 아바다가 이끄는 측면 공격의 속도감이 매섭게 다가옵니다. 수비진에서도 헤이리 케슬러와 팀 리엠이 중앙을 단단히 지켜내며 안정적인 득실 관리를 이뤄내고 있습니다. 원정길에 오르지만 최근의 뛰어난 경기 밸런스와 상대전적에서의 자신감을 앞세워 우세한 경기를 펼칠 것으로 보입니다."
+homePower: "최근 연속 실점으로 수비 밸런스 재정비가 시급함|안방 경기에서 우수한 득점력으로 주도권 확보 가능함|공격진 케빈 뎅키의 결정력을 활용한 속도감 있는 전개 유효함|중원 주요 자원 공백으로 인한 1차 압박 약화는 위험 요소임|상대전적 열세 극복을 위해 초반 선제골 획득이 중요함"
+awayPower: "최근 4경기 무패로 공수 밸런스가 빠르게 안정화된 흐름임|알랑 생막시맹 중심의 측면 파괴력을 바탕으로 빠른 반격 위협적임|최근 득실 관리 우수하여 경기 후반까지 안정적인 리드 유지함|상대전적 맞대결 우위를 바탕으로 심리적 자신감 보유함|수비진의 조직적인 대응을 통해 상대 공격 차단 능력 우수함"
+h2h: '[{"date":"26.05.10","home":"샬럿 FC","away":"FC 신시내티","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1490270-2026-05-10-charlotte/"},{"date":"25.08.11","home":"FC 신시내티","away":"샬럿 FC","score":"0-1"},{"date":"25.03.16","home":"샬럿 FC","away":"FC 신시내티","score":"2-0"},{"date":"24.07.14","home":"FC 신시내티","away":"샬럿 FC","score":"1-3"},{"date":"24.03.31","home":"샬럿 FC","away":"FC 신시내티","score":"1-1"}]'
+summary: "FC 신시내티는 안방에서 화력을 발휘할 수 있는 공격 자원들을 보유하고 있으나 최근 후방 수비 불안이 드러나며 전력 기복을 겪고 있습니다. 반면 샬럿 FC는 공수 밸런스가 견고하게 유지되고 있으며 최근 무패 흐름과 상대전적상의 이점까지 안고 있어 경기 주도권을 쥐기 유리합니다. 신시내티의 홈 이점보다는 샬럿 FC의 안정된 경기력과 반격 효율성이 앞설 것으로 보여 샬럿 FC가 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Obinna Nwobodo (부상)|Kristian Fletcher (무릎 부상)|David Douděra (충돌 부상)"
+injuryAway: "Harry Toffolo (충돌 부상)|Nimfasha Berchimas (부상)|Aron John (어깨 부상)"
+homeLineup: '["Roman Celentano (GK)|https://images.fotmob.com/image_resources/playerimages/1337962.png","Kyle Smith (DF)|https://images.fotmob.com/image_resources/playerimages/754583.png","Miles Robinson (DF)|https://images.fotmob.com/image_resources/playerimages/825623.png","Andrei Chirilă (DF)|https://images.fotmob.com/image_resources/playerimages/1742250.png","Pavel Bucha (MF)|https://images.fotmob.com/image_resources/playerimages/923247.png","Obinna Nwobodo (MF)|https://images.fotmob.com/image_resources/playerimages/861112.png","Evander Ferreira (MF)|https://images.fotmob.com/image_resources/playerimages/787351.png","Gerardo Valenzuela (MF)|https://images.fotmob.com/image_resources/playerimages/1362857.png","Ender Echenique (MF)|https://images.fotmob.com/image_resources/playerimages/1248686.png","Kévin Denkey (FW)|https://images.fotmob.com/image_resources/playerimages/820477.png","Ayoub Jabbari (FW)|https://images.fotmob.com/image_resources/playerimages/1364494.png"]'
+awayLineup: '["Kristijan Kahlina (GK)|https://images.fotmob.com/image_resources/playerimages/653737.png","Nathan Byrne (DF)|https://images.fotmob.com/image_resources/playerimages/212705.png","Henry Kessler (DF)|https://images.fotmob.com/image_resources/playerimages/1136410.png","Tim Ream (DF)|https://images.fotmob.com/image_resources/playerimages/198444.png","David Schnegg (DF)|https://images.fotmob.com/image_resources/playerimages/923240.png","Djibril Diani (MF)|https://images.fotmob.com/image_resources/playerimages/977775.png","Luca de la Torre (MF)|https://images.fotmob.com/image_resources/playerimages/780418.png","Pep Biel (MF)|https://images.fotmob.com/image_resources/playerimages/897569.png","Liel Abada (FW)|https://images.fotmob.com/image_resources/playerimages/1091975.png","Archie Goodwin (FW)|https://images.fotmob.com/image_resources/playerimages/1232133.png","Allan Saint-Maximin (FW)|https://images.fotmob.com/image_resources/playerimages/466482.png"]'
+homeFormation: "3-5-2"
+awayFormation: "4-3-3"
+homeCoach: "Pat Noonan|https://images.fotmob.com/image_resources/playerimages/70286.png"
+awayCoach: "Dean Smith|https://images.fotmob.com/image_resources/playerimages/23646.png"
+pickWinTeam: "샬럿 FC"
+pickWinResult: "승"
+pickHandicapTeam: "샬럿 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

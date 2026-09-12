@@ -1,0 +1,37 @@
+---
+title: "GO 어헤드 이글스 vs 흐로닝언 경기분석·라인업·결장자·통계·승부예측 (9월 13일) | 에레디비지 - 픽천국"
+date: 2026-09-12T16:45:00.000Z
+description: "GO 어헤드 이글스 vs 흐로닝언 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781748-2026-09-13-go-ahead-eagles"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "GO 어헤드 이글스"
+awayTeam: "흐로닝언"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6433.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8674.png"
+homeAnalysis: "GO 어헤드 이글스는 2026시즌 15경기에서 6승 3무 6패를 기록하며 꾸준한 득점력을 바탕으로 안정적인 경기를 풀어가고 있습니다. 현재 리그순위 7위에 올라 있는 GO 어헤드 이글스는 득실차 +2.0으로 상위권 도약을 위한 공격적 기세를 이어가고 있습니다. Joseph Oosting 감독의 지휘 아래 Victor Edvardsen과 Mathis Suray 등 핵심 공격 자원들이 활발히 움직이며 팀의 득점포를 책임지고 있습니다. 최근 FC 위트레흐트와의 경기에서도 3-3 무승부와 3-1 승리를 거두며 매서운 화력을 증명한 바 있습니다. 수비진의 일부 부상 이탈에도 불구하고 홈에서 강한 경기력을 발휘하며 이번 경기에서도 주도권을 확보할 것으로 전망됩니다."
+awayAnalysis: "흐로닝언은 2026시즌 14경기 동안 5승 2무 7패의 성적을 올리며 다소 기복 있는 시즌 행보를 보이고 있습니다. 현재 리그순위 10위에 위치한 흐로닝언은 득실차 -1.0을 기록 중이며 원정 경기에서의 수비 집중력 저하가 아쉬운 부분으로 지목됩니다. Dick Lukkien 감독 체제에서 Brynjólfur Willumsson과 Thom van Bergen을 중심으로 역습을 노리고 있으나 전반적인 공수 밸런스 유지에 애를 먹고 있습니다. 최근 PSV전 1-5 대패와 포르투나 시타르트전 패배 등 실점이 늘어나면서 기세가 많이 위축되었습니다. 특히 Marco Rente를 비롯한 수비진의 부상 악재가 겹쳐 있어 이번 원정길이 험난할 것으로 예상됩니다."
+homePower: "홈 경기 화력 전개로 공격 완성도가 뛰어남|최근 경기에서 살아난 득점 폭발력이 돋보임|주력 공격진의 찬스 창출 능력과 결정력이 양호함|상대 수비 균열을 공략할 전력적 우위를 점함|공수 전환 속도가 빨라 경기 주도권 확보에 유리함"
+awayPower: "원정 경기 실점율이 높아 수비 안정감 부족함|수비 핵심 자원의 부상 이탈로 전력 공백 발생함|공격진의 골 결정력에 기복이 나타나고 있음|맞대결 상성상 긴장감이 감도는 흐름 지속됨|후반 집중력 저하로 실점 패턴이 반복될 우려 있음"
+h2h: '[{"date":"26.04.12","home":"흐로닝언","away":"GO 어헤드 이글스","score":"0-0"},{"date":"25.12.21","home":"GO 어헤드 이글스","away":"흐로닝언","score":"1-1"},{"date":"25.01.19","home":"GO 어헤드 이글스","away":"흐로닝언","score":"2-1"},{"date":"24.09.29","home":"흐로닝언","away":"GO 어헤드 이글스","score":"0-1"},{"date":"23.05.07","home":"GO 어헤드 이글스","away":"흐로닝언","score":"1-1"}]'
+summary: "GO 어헤드 이글스는 이번 시즌 홈에서 강력한 득점 생산력을 선보이며 안정적인 리그 흐름을 만들어가고 있습니다. 반면 흐로닝언은 최근 수비 불안과 부상 악재가 겹치면서 원정에서 어려움을 겪는 모양새입니다. 맞대결에서는 그동안 팽팽한 흐름이 자주 형성되었으나 최근 공격 전개 속도와 공수 밸런스 측면에서 확연한 우위를 보이는 GO 어헤드 이글스가 경기를 주도하며 우세를 점할 것으로 기대됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Gerrit Nauber (다리 부상)|Pim Saathof (무릎 부상)"
+injuryAway: "Malcolm Jeng (아킬레스건 부상)|Marco Rente (부상)|Tyrique Mercera (부상)|Ryan Metu (부상)"
+homeLineup: '["Kjetil Haug (GK)|https://images.fotmob.com/image_resources/playerimages/760747.png","Alfons Sampsted (DF)|https://images.fotmob.com/image_resources/playerimages/635947.png","Joris Kramer (DF)|https://images.fotmob.com/image_resources/playerimages/629493.png","Julius Dirksen (DF)|https://images.fotmob.com/image_resources/playerimages/1218553.png","Dean James (DF)|https://images.fotmob.com/image_resources/playerimages/1180694.png","Evert Linthorst (MF)|https://images.fotmob.com/image_resources/playerimages/935623.png","Melle Meulensteen (MF)|https://images.fotmob.com/image_resources/playerimages/864893.png","Søren Tengstedt (FW)|https://images.fotmob.com/image_resources/playerimages/1060542.png","Victor Edvardsen (MF)|https://images.fotmob.com/image_resources/playerimages/658222.png","Mathis Suray (FW)|https://images.fotmob.com/image_resources/playerimages/1192848.png","Erik Flataker (FW)|https://images.fotmob.com/image_resources/playerimages/1255835.png"]'
+awayLineup: '["Etienne Vaessen (GK)|https://images.fotmob.com/image_resources/playerimages/665170.png","Jorg Schreuders (FW)|https://images.fotmob.com/image_resources/playerimages/1419385.png","Thijmen Blokzijl (DF)|https://images.fotmob.com/image_resources/playerimages/1256173.png","Márk Csinger (DF)|https://images.fotmob.com/image_resources/playerimages/1436365.png","Wouter Prins (DF)|https://images.fotmob.com/image_resources/playerimages/1552425.png","Tika de Jonge (MF)|https://images.fotmob.com/image_resources/playerimages/1256176.png","Tygo Land (MF)|https://images.fotmob.com/image_resources/playerimages/1426704.png","David van der Werff (MF)|https://images.fotmob.com/image_resources/playerimages/1695991.png","Thom van Bergen (FW)|https://images.fotmob.com/image_resources/playerimages/1412105.png","Pelle Clement (MF)|https://images.fotmob.com/image_resources/playerimages/637741.png","Brynjólfur Willumsson (FW)|https://images.fotmob.com/image_resources/playerimages/937032.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Joseph Oosting|https://images.fotmob.com/image_resources/playerimages/140540.png"
+awayCoach: "Dick Lukkien|https://images.fotmob.com/image_resources/playerimages/846372.png"
+pickWinTeam: "GO 어헤드 이글스"
+pickWinResult: "승"
+pickHandicapTeam: "GO 어헤드 이글스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
