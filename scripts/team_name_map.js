@@ -557,6 +557,7 @@ const TEAM_NAME_MAP = {
   "Charlotte": "샬럿 FC",
   "Charlotte FC": "샬럿 FC",
   "Chicago Fire": "시카고 파이어",
+  "Chicago Fire FC": "시카고 파이어",
   "Chicago": "시카고",
   "Colorado Rapids": "콜로라도 래피즈",
   "Colorado": "콜로라도",
