@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.10","home":"볼티모어 오리올스","away":"클�
 injuryHome: "Byron Buxton (10일 부상자 명단 - 신경 압박)|Mike Paredes (60일 부상자 명단 - 근육 경련)|Mick Abel (60일 부상자 명단 - 수술)|Cole Sands (60일 부상자 명단 - 수술)|David Festa (60일 부상자 명단 - 수술)"
 injuryAway: "Rhys Hoskins (10일 부상자 명단 - 염증)|Colin Holderman (15일 부상자 명단 - 염증)|Shawn Armstrong (60일 부상자 명단 - 근육 경련)"
 homeLineup: "[\"선발투수 C. Prielipp (4-7, 5.25) ERA 5.25|https://a.espncdn.com/i/headshots/mlb/players/full/4620001.png\"]"
-awayLineup: "[\"선발투수 G. Williams (13-7, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 D. Espino (0-0, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/42438.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
