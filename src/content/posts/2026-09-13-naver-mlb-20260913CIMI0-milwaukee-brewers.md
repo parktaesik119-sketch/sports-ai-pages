@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.10","home":"LA 다저스","away":"신시내티 레�
 injuryHome: "Bryse Wilson (근육 변형)|Rob Zastryzny (근육 변형)|Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)"
 injuryAway: "Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
 homeLineup: "[\"선발투수 S. Drohan (7-5, 4.09) ERA 4.09|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
-awayLineup: "[\"선발투수 B. Singer (6-13, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
+awayLineup: "[\"선발투수 B. Singer (6-13, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\",\"1번 D. Myers (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/40048.png\",\"2번 E. De La Cruz (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png\",\"3번 S. Stewart (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png\",\"4번 T. Stephenson (C)|https://a.espncdn.com/i/headshots/mlb/players/full/34975.png\",\"5번 E. Suarez (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32367.png\",\"6번 J. Bleday (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42410.png\",\"7번 M. McLain (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4422899.png\",\"8번 H. Rodriguez (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5122878.png\",\"9번 J. Brito (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5116859.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

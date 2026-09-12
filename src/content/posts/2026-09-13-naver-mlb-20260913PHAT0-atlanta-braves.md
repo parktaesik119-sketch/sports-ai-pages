@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.11","home":"필라델피아 필리스","away":"휴�
 injuryHome: "Robert Suarez (60일 부상자 명단 - 통증)|Bryce Elder (15일 부상자 명단 - 수술)|Lane Thomas (10일 부상자 명단 - 염좌)|Joe Jimenez (60일 부상자 명단 - 수술)|Spencer Strider (60일 부상자 명단 - 염증)"
 injuryAway: "Brandon Marsh (일일 관찰 대상 - 타박상)|Tanner Banks (60일 부상자 명단 - 염좌)|Caleb Kilian (15일 부상자 명단 - 염좌)|Felix Reyes (60일 부상자 명단 - 골절)|Johan Rojas (60일 부상자 명단 - 수술)"
 homeLineup: "[\"선발투수 T. Mahle (5-10, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
-awayLineup: "[\"선발투수 J. Luzardo (14-5, 2.87) ERA 2.87|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
+awayLineup: "[\"선발투수 T. Mayza (3-3, 3.23) ERA 3.23|https://a.espncdn.com/i/headshots/mlb/players/full/35773.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
