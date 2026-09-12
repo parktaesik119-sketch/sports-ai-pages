@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.10","home":"시카고 화이트삭스","away":"피�
 injuryHome: "Masyn Winn (경미한 통증)|Peter Strzelecki (15일 자 염증)|JJ Wetherholt (10일 자 힘줄염)|Everson Pereira (10일 자 타박상)|Blaze Jordan (10일 자 염좌)"
 injuryAway: "Drew Thorpe (60일 자 수술)|Huascar Brazoban (15일 자 염좌)|Tyler Davis (경조사 휴가)|Tanner Murray (60일 자 수술)|Tommy Pham (10일 자 염좌)"
 homeLineup: "[\"선발투수 K. Leahy (10-4, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
-awayLineup: "[\"선발투수 L. Castillo (4-11, 5.57) ERA 5.57|https://a.espncdn.com/i/headshots/mlb/players/full/35124.png\"]"
+awayLineup: "[\"선발투수 S. Newcomb (2-4, 2.71) ERA 2.71|https://a.espncdn.com/i/headshots/mlb/players/full/33856.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
