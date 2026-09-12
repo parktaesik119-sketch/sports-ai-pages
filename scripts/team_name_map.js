@@ -918,6 +918,7 @@ const TEAM_NAME_MAP = {
   "Vancouver FC": "밴쿠버 FC", // ⚠️ "Vancouver"와 같은 CPL 클럽인데 한글 표기가 달라서 통일함(MLS "Vancouver Whitecaps"와는 다른 팀, 혼동 주의, 2026-08 감사)
   "Vancouver": "밴쿠버 FC",
   "Pacific FC": "퍼시픽 FC",
+  "Cavalry FC": "캐벌리 FC",
   "Forge FC": "포지 FC",
   "Inter Toronto FC": "요크 유니티드 FC",
   "York United": "요크 유니티드 FC",
