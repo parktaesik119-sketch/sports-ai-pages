@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.12","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"},{"date":"26.09.11","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911CONY0-2026-09-11-new-york-yankees/"},{"date":"26.09.10","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CONY0-2026-09-10-new-york-yankees/"},{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"},{"date":"26.09.07","home":"콜로라도 로키스","away":"세인트루이스 카디널스","score":"8-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SLCO0-2026-09-07-colorado-rockies/"}]'
 injuryHome: "Keider Montero (경미한 부상)|Parker Meadows (수술)|Jack Flaherty (염증)|Kerry Carpenter (족저근막염)|Justin Verlander (근육 긴장)"
 injuryAway: "Willi Castro (족저근막염)|Kyle Freeland (신경 압박)|Sean Sullivan (신경 압박)|Jose Quintana (염좌)|Kris Bryant (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 A. Sears (0-1, 4.38) ERA 4.38|https://a.espncdn.com/i/headshots/mlb/players/full/5140040.png\"]"
 awayLineup: "[\"선발투수 T. Gordon (1-4, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/4415658.png\"]"
 homeFormation: ""
 awayFormation: ""
