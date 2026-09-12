@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.12","home":"시카고 컵스","away":"피츠버그 
 awayRecent: '[{"date":"26.09.12","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"12-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PICC0-2026-09-12-chicago-cubs/"},{"date":"26.09.11","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911PICW0-2026-09-11-chicago-white-sox/"},{"date":"26.09.10","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910PICW0-2026-09-10-chicago-white-sox/"},{"date":"26.09.09","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"3-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909PICW0-2026-09-09-chicago-white-sox/"},{"date":"26.09.07","home":"피츠버그 파이러츠","away":"LA 에인절스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ANPI0-2026-09-07-pittsburgh-pirates/"}]'
 injuryHome: "Gavin Hollowell (염증)|Edward Cabrera (찰과상)|Hunter Harvey (골절)|Shelby Miller (수술)|Tyler Austin (수술)"
 injuryAway: "Esmerlyn Valdez (통증)|Kirby Yates (신경 압박)|Braxton Ashcraft (통증)|Isaac Mattson (염증)|Mitch Keller (사유 미기재)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Holmes (6-7, 2.83) ERA 2.83|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
+awayLineup: "[\"선발투수 P. Skenes (10-11, 3.83) ERA 3.83|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

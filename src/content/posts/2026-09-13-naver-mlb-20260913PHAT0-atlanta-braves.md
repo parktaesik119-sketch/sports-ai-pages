@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.11","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.09.11","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911HOPH0-2026-09-11-philadelphia-phillies/"},{"date":"26.09.10","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910HOPH0-2026-09-10-philadelphia-phillies/"},{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"},{"date":"26.09.08","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ATPH0-2026-09-08-philadelphia-phillies/"},{"date":"26.09.07","home":"필라델피아 필리스","away":"애틀랜타 브레이브스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907ATPH0-2026-09-07-philadelphia-phillies/"}]'
 injuryHome: "Robert Suarez (60일 부상자 명단 - 통증)|Bryce Elder (15일 부상자 명단 - 수술)|Lane Thomas (10일 부상자 명단 - 염좌)|Joe Jimenez (60일 부상자 명단 - 수술)|Spencer Strider (60일 부상자 명단 - 염증)"
 injuryAway: "Brandon Marsh (일일 관찰 대상 - 타박상)|Tanner Banks (60일 부상자 명단 - 염좌)|Caleb Kilian (15일 부상자 명단 - 염좌)|Felix Reyes (60일 부상자 명단 - 골절)|Johan Rojas (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Mahle (5-10, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
+awayLineup: "[\"선발투수 J. Luzardo (14-5, 2.87) ERA 2.87|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

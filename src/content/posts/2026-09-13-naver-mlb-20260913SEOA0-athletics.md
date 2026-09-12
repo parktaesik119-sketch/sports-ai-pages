@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"애슬레틱스","away":"토론토 블�
 awayRecent: '[{"date":"26.09.11","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TESE0-2026-09-11-seattle-mariners/"},{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.07","home":"시애틀 매리너스","away":"애슬레틱스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907OASE0-2026-09-07-seattle-mariners/"},{"date":"26.09.05","home":"시애틀 매리너스","away":"애슬레틱스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905OASE0-2026-09-05-seattle-mariners/"},{"date":"26.09.04","home":"시애틀 매리너스","away":"애슬레틱스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904OASE0-2026-09-04-seattle-mariners/"}]'
 injuryHome: "Shea Langeliers (10일 부상자 명단 - 수술)|Brooks Kriske (60일 부상자 명단 - 신경 압박)|J.T. Ginn (15일 부상자 명단 - 통증)|Joshua Kuroda-Grauer (60일 부상자 명단 - 수술)|Nick Kurtz (60일 부상자 명단 - 염좌)"
 injuryAway: "Brendan Donovan (7일 부상자 명단 - 뇌진탕)|Brennen Davis (60일 부상자 명단 - 염좌)|Will Wilson (60일 부상자 명단 - 골절)|Emerson Hancock (15일 부상자 명단 - 염좌)|Cole Wilcox (15일 부상자 명단 - 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Lopez (6-4, 4.78) ERA 4.78|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\"]"
+awayLineup: "[\"선발투수 B. Miller (4-9, 4.22) ERA 4.22|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"밀워키 브루어스","away":"시카�
 awayRecent: '[{"date":"26.09.10","home":"LA 다저스","away":"신시내티 레즈","score":"14-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CILA0-2026-09-10-los-angeles-dodgers/"},{"date":"26.09.09","home":"LA 다저스","away":"신시내티 레즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CILA0-2026-09-09-los-angeles-dodgers/"},{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"},{"date":"26.09.07","home":"신시내티 레즈","away":"밀워키 브루어스","score":"12-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MICI0-2026-09-07-cincinnati-reds/"},{"date":"26.09.06","home":"신시내티 레즈","away":"밀워키 브루어스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MICI0-2026-09-06-cincinnati-reds/"}]'
 injuryHome: "Bryse Wilson (근육 변형)|Rob Zastryzny (근육 변형)|Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)"
 injuryAway: "Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Harrison (10-4, 3.66) ERA 3.66|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
+awayLineup: "[\"선발투수 B. Singer (6-13, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

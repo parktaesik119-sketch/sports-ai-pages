@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"},{"date":"26.09.08","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MOSD0-2026-09-08-san-diego-padres/"},{"date":"26.09.07","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907NYSD0-2026-09-07-san-diego-padres/"},{"date":"26.09.06","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906NYSD0-2026-09-06-san-diego-padres/"},{"date":"26.09.03","home":"신시내티 레즈","away":"샌디에이고 파드리스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260903SDCI0-2026-09-03-cincinnati-reds/"}]'
 injuryHome: "Victor Bericoto (타박상)|JT Brubaker (타박상)|Matt Gage (근육 손상)|Willy Adames (염좌)|Marcelo Mayer (골절)"
 injuryAway: "Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Ty France (출산 휴가)|Miguel Andujar (골절)|Jason Adam (근육 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Perdomo (0-0, 0.90) ERA 0.90|https://a.espncdn.com/i/headshots/mlb/players/full/5271881.png\"]"
+awayLineup: "[\"선발투수 M. King (10-9, 3.00) ERA 3.00|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

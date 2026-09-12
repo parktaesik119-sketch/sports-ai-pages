@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.09.11","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911PICW0-2026-09-11-chicago-white-sox/"},{"date":"26.09.10","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910PICW0-2026-09-10-chicago-white-sox/"},{"date":"26.09.09","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"3-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909PICW0-2026-09-09-chicago-white-sox/"},{"date":"26.09.07","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MNCW0-2026-09-07-chicago-white-sox/"},{"date":"26.09.06","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906MNCW0-2026-09-06-chicago-white-sox/"}]'
 injuryHome: "Peter Strzelecki (15일 부상자 명단 - 염증)|JJ Wetherholt (10일 부상자 명단 - 건염)|Everson Pereira (10일 부상자 명단 - 타박상)|Blaze Jordan (10일 부상자 명단 - 염좌)|Hunter Dobbins (15일 부상자 명단 - 수술)"
 injuryAway: "Drew Thorpe (60일 부상자 명단 - 수술)|Huascar Brazoban (15일 부상자 명단 - 긴장)|Tyler Davis (경조사 휴가)|Tanner Murray (60일 부상자 명단 - 수술)|Tommy Pham (10일 부상자 명단 - 긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Leahy (10-4, 3.41) ERA 3.41|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
+awayLineup: "[\"선발투수 L. Castillo (4-11, 5.57) ERA 5.57|https://a.espncdn.com/i/headshots/mlb/players/full/35124.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

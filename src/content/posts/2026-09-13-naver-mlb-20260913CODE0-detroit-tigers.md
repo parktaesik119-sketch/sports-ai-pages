@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.12","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Keider Montero (경미한 부상)|Parker Meadows (수술)|Jack Flaherty (염증)|Kerry Carpenter (족저근막염)|Justin Verlander (근육 긴장)"
 injuryAway: "Willi Castro (족저근막염)|Kyle Freeland (신경 압박)|Sean Sullivan (신경 압박)|Jose Quintana (염좌)|Kris Bryant (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 T. Gordon (1-4, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/4415658.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

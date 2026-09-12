@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.10","home":"캔자스시티 로열스","away":"애�
 awayRecent: '[{"date":"26.09.11","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TESE0-2026-09-11-seattle-mariners/"},{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"},{"date":"26.09.06","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906TBTE0-2026-09-06-texas-rangers/"},{"date":"26.09.04","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904TBTE0-2026-09-04-texas-rangers/"}]'
 injuryHome: "Ryne Nelson (60일 부상자 명단 - 근육 경련)|Ryan Thompson (60일 부상자 명단 - 근육 경련)|A.J. Puk (60일 부상자 명단 - 염좌)|Andrew Saalfrank (60일 부상자 명단 - 수술)|Cristian Mena (60일 부상자 명단 - 수술)"
 injuryAway: "Josh Jung (10일 부상자 명단 - 근육 경련)|Kyle Higashioka (10일 부상자 명단 - 근육 경련)|Carter Baumler (60일 부상자 명단 - 근육 경련)|Cole Winn (15일 부상자 명단 - 근육 경련)|Nathan Eovaldi (15일 부상자 명단 - 염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Rodriguez (15-5, 2.55) ERA 2.55|https://a.espncdn.com/i/headshots/mlb/players/full/32675.png\"]"
+awayLineup: "[\"선발투수 C. Quantrill (8-5, 2.89) ERA 2.89|https://a.espncdn.com/i/headshots/mlb/players/full/39875.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

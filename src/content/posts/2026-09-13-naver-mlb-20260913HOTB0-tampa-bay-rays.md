@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.11","home":"애틀랜타 브레이브스","away":"�
 awayRecent: '[{"date":"26.09.11","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911HOPH0-2026-09-11-philadelphia-phillies/"},{"date":"26.09.10","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910HOPH0-2026-09-10-philadelphia-phillies/"},{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"},{"date":"26.09.07","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907AZHO0-2026-09-07-houston-astros/"},{"date":"26.09.06","home":"휴스턴 애스트로스","away":"애리조나 다이아몬드백스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906AZHO0-2026-09-06-houston-astros/"}]'
 injuryHome: "Jake Fraley (60일 부상자 명단 - 수술)|Edwin Uceta (60일 부상자 명단 - 근육 부상)|Jonathan Heasley (60일 부상자 명단 - 골절)|Taylor Walls (10일 부상자 명단 - 근육 부상)|Manuel Rodriguez (15일 부상자 명단 - 근육 부상)"
 injuryAway: "Yordan Alvarez (일별 관찰 대상)|Brice Matthews (60일 부상자 명단 - 염좌)|Steven Okert (15일 부상자 명단 - 근육 부상)|Mike Burrows (60일 부상자 명단 - 염증)|Carlos Correa (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 I. Seymour (9-6, 4.33) ERA 4.33|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
+awayLineup: "[\"선발투수 P. Lambert (8-8, 3.67) ERA 3.67|https://a.espncdn.com/i/headshots/mlb/players/full/39898.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
