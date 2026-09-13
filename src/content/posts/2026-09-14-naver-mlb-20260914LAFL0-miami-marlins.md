@@ -1,0 +1,37 @@
+---
+title: "마이애미 말린스 vs LA 다저스 경기분석·라인업·결장자·통계·승부예측 (9월 14일) | MLB - 픽천국"
+date: 2026-09-13T17:40:00.000Z
+description: "마이애미 말린스 vs LA 다저스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "마이애미 말린스"
+awayTeam: "LA 다저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+homeAnalysis: "마이애미 말린스는 2026시즌 73승 76패를 기록하며 리그순위 10위에 머물러 있습니다. 시즌 초반부터 중위권에서 고전하는 모습이 역력하며 최근 10경기에서도 3승 7패로 부진한 흐름을 이어가고 있습니다. 득실 마진이 +4.0으로 공수 균형이 팽팽한 듯 보이지만, 최근 경기들에서 대량 실점을 허용하며 투수진의 안정감이 크게 흔들리고 있습니다. 홈 성적 역시 상위권 팀들을 상대로 기복을 보이며 좀처럼 반등의 계기를 마련하지 못하는 상황입니다. 투타의 조화가 깨지면서 승패 마진을 줄이는 데 어려움을 겪고 있는 점이 가장 큰 고민거리로 보입니다."
+awayAnalysis: "LA 다저스는 2026시즌 90승 58패라는 압도적인 성적으로 리그순위 2위를 달리고 있습니다. 최근 10경기에서 8승 2패라는 폭발적인 페이스를 유지하며 선두권 추격에 고삐를 당기고 있습니다. 득실 마진 +172.0에서 알 수 있듯이 투타 모두 리그 최상위권의 안정감을 자랑하며 상대 팀을 압도하고 있습니다. 원정 경기에서도 특유의 집중력과 화력을 바탕으로 승수를 쌓아 올리고 있어 전력 누수를 최소화하고 있습니다. 시즌 막판까지 공수 밸런스를 완벽하게 유지하고 있어 이번 경기에서도 강팀의 면모를 유감없이 발휘할 것으로 분석됩니다."
+homePower: "득점력 대비 최근 대량 실점 빈도 증가로 수비 안정감 결여됨|리그순위 중위권 정체로 인한 시즌 막판 동기부여 약화 우려됨|마운드 붕괴 시 경기 후반 역전 허용하는 불안한 패턴 지속됨|상위권 팀 상대 시 투수진의 피안타율 급증하는 경향 보임|득점권 상황에서의 집중력 저하로 인해 마무리 효율이 떨어짐"
+awayPower: "리그 최상위권의 공수 밸런스로 연승 흐름 주도함|강팀 특유의 안정적인 마운드 운영으로 대량 실점 억제함|원정 경기에서도 흔들림 없는 타격 집중력으로 우위 점함|시즌 전체 득실 마진 수치가 보여주는 압도적인 경기력 검증됨|선두권을 향한 강한 승리 의지로 경기 초반부터 주도권 확보함"
+h2h: '[{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"},{"date":"26.04.30","home":"LA 다저스","away":"마이애미 말린스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-178464-2026-04-30-los-angeles-dodgers/"},{"date":"26.04.29","home":"LA 다저스","away":"마이애미 말린스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-178436-2026-04-28-los-angeles-dodgers/"},{"date":"26.04.28","home":"LA 다저스","away":"마이애미 말린스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-178436-2026-04-28-los-angeles-dodgers/"}]'
+summary: "마이애미 말린스는 시즌 중위권에서 머물며 최근 투수진의 과부하로 인해 다소 흔들리는 모습을 보이고 있습니다. 반면 LA 다저스는 시즌 90승 고지를 밟으며 리그순위 2위다운 압도적인 전력을 구축하였고, 최근 10경기 중 8승을 쓸어 담는 무서운 상승세를 보여주고 있습니다. 양 팀의 객관적인 전력 차이와 최근의 기세는 명확히 LA 다저스 쪽으로 기울어 있으며, 투타 균형과 경기 운영 능력에서 앞서는 원정팀이 경기의 주도권을 잡고 승리에 한 걸음 더 다가갈 것으로 보입니다."
+homeRecent: '[{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"},{"date":"26.09.10","home":"마이애미 말린스","away":"뉴욕 메츠","score":"14-15","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910NMFL0-2026-09-10-miami-marlins/"},{"date":"26.09.09","home":"마이애미 말린스","away":"뉴욕 메츠","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909NMFL0-2026-09-09-miami-marlins/"},{"date":"26.09.08","home":"마이애미 말린스","away":"뉴욕 메츠","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908NMFL0-2026-09-08-miami-marlins/"}]'
+awayRecent: '[{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"},{"date":"26.09.10","home":"LA 다저스","away":"신시내티 레즈","score":"14-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CILA0-2026-09-10-los-angeles-dodgers/"},{"date":"26.09.09","home":"LA 다저스","away":"신시내티 레즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CILA0-2026-09-09-los-angeles-dodgers/"},{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"}]'
+injuryHome: "Xavier Edwards (염좌)|Owen Caissie (통증)|Max Meyer (긴장)|Anthony Bender (골절)|Ronny Henriquez (수술)"
+injuryAway: "Kris Bubic (통증)|Roki Sasaki (찰과상)|Edwin Diaz (염증)|Dalton Rushing (통증)|Gavin Stone (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

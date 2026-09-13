@@ -1,0 +1,37 @@
+---
+title: "워싱턴 내셔널스 vs LA 에인절스 경기분석·라인업·결장자·통계·승부예측 (9월 14일) | MLB - 픽천국"
+date: 2026-09-13T17:35:00.000Z
+description: "워싱턴 내셔널스 vs LA 에인절스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260914ANMO0-2026-09-14-washington-nationals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "워싱턴 내셔널스"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "워싱턴 내셔널스는 2026시즌 150경기에서 69승 81패를 기록하며 리그순위 13위에 머물러 있으나, 최근 LA 에인절스를 상대로 2연승을 거두며 반등의 발판을 마련했습니다. 시즌 내내 득실 차가 +2.0으로 팽팽한 균형을 유지하고 있지만, 최근 타선의 집중력이 살아나며 투타 밸런스에서 안정감을 찾고 있습니다. 특히 홈 경기에서의 집중력은 상위 팀들과 비교해도 밀리지 않는 모습이며, 접전 상황에서의 마무리 능력이 최근 두 경기에서 돋보였습니다. 주축 선수들의 부상 공백이 다소 존재하지만, 팀 전체가 응집력 있는 야구를 펼치며 하위권 탈출을 위한 강한 의지를 보이고 있습니다. 앞으로의 경기에서도 이러한 공수 조화를 이어간다면 충분히 우위를 점할 수 있는 전력을 갖추고 있습니다."
+awayAnalysis: "LA 에인절스는 2026시즌 148경기에서 56승 92패를 기록하여 현재 리그순위 15위로 시즌 후반기 힘겨운 일정을 보내고 있습니다. 득실 차가 -75.0에 달할 정도로 수비와 투수진의 난조가 뼈아프게 작용하고 있으며, 최근 워싱턴 내셔널스 원정 연전에서도 연달아 패하며 흐름이 다소 가라앉은 상태입니다. 시즌 전체적으로 원정에서의 경기력이 저조하며, 특히 경기 후반 리드를 지키지 못하고 실점을 허용하는 패턴이 반복되고 있습니다. 팀 내 주요 전력들의 이탈로 인해 라인업 구성에 어려움을 겪고 있으나, 개별 선수들의 투지는 여전하여 반전의 기회를 노리고 있습니다. 수비 안정화와 함께 득점권에서의 해결 능력을 보완하는 것이 이번 시즌 남은 과제로 보입니다."
+homePower: "최근 맞대결 연승으로 상대 공략법 검증됨|득실차 플러스 유지하며 접전 상황 내성 강함|홈경기 집중력 바탕으로 안정적 경기 운영|핵심 선수 부상 공백에도 팀 응집력 높음|전반적인 투타 밸런스 점진적 개선 중임"
+awayPower: "원정 경기력 저하와 수비 난조 반복됨|득실차 마이너스로 인한 경기 후반 부담 가중|핵심 전력 이탈로 인한 라인업 운영의 어려움|상대 투수진 공략 실패로 연패 흐름 이어짐|수비 집중력 보완이 승패를 결정할 관건임"
+h2h: '[{"date":"26.09.13","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913ANMO0-2026-09-13-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"}]'
+summary: "워싱턴 내셔널스는 최근 맞대결에서의 승리를 통해 보여준 투타 집중력을 바탕으로 이번 경기에서도 우위를 점할 가능성이 높습니다. LA 에인절스는 시즌 내내 이어진 수비 불안과 원정에서의 기복이 이번 경기에서도 발목을 잡을 것으로 보이며, 득실 차가 벌어진 만큼 안정적인 경기 운영을 펼치는 홈팀이 주도권을 쥐기에 충분합니다. 최근 연승을 통해 흐름을 탄 워싱턴 내셔널스가 전력의 우위를 앞세워 공수 밸런스에서 상대를 압도하며 다시 한번 승리의 기쁨을 누릴 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.13","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913ANMO0-2026-09-13-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"},{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"},{"date":"26.09.08","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MOSD0-2026-09-08-san-diego-padres/"},{"date":"26.09.07","home":"LA 다저스","away":"워싱턴 내셔널스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MOLA0-2026-09-07-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.09.13","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913ANMO0-2026-09-13-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"},{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"},{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"}]'
+injuryHome: "Harry Ford (경미)|DJ Herz (주요)|PJ Poulin (주요)|Nasim Nunez (경미)|Connelly Early (주요)"
+injuryAway: "Gustavo Campero (주요)|Nolan Schanuel (주요)|Sam Bachman (주요)|Yoan Moncada (주요)|George Klassen (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
