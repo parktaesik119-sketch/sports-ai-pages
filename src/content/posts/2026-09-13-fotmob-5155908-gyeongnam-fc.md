@@ -20,12 +20,12 @@ homeRecent: "[{\"date\":\"26.08.29\",\"home\":\"Gyeongnam FC\",\"away\":\"Paju F
 awayRecent: "[{\"date\":\"26.09.06\",\"home\":\"Gimpo FC\",\"away\":\"Seongnam FC\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.29\",\"home\":\"Seongnam FC\",\"away\":\"Seoul E-Land FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.08.22\",\"home\":\"Ansan Greeners\",\"away\":\"Seongnam FC\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.08.19\",\"home\":\"Gangwon FC\",\"away\":\"Seongnam FC\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.08.16\",\"home\":\"Paju Frontier\",\"away\":\"Seongnam FC\",\"score\":\"2-1\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Lee Ki-Hyun (GK)|https://images.fotmob.com/image_resources/playerimages/654172.png\",\"Kim Hyeong-Won (DF)|https://images.fotmob.com/image_resources/playerimages/1136227.png\",\"Lucão (DF)|https://images.fotmob.com/image_resources/playerimages/1311921.png\",\"Jung Hyun-Wook (DF)|https://images.fotmob.com/image_resources/playerimages/1831648.png\",\"Yun Il-Lok (DF)|https://images.fotmob.com/image_resources/playerimages/252614.png\",\"Kwon Gi-Pyo (DF)|https://images.fotmob.com/image_resources/playerimages/925538.png\",\"Chigozie Emmanuel Mbah (MF)|https://images.fotmob.com/image_resources/playerimages/727896.png\",\"Kim Jung-Hyeon (MF)|https://images.fotmob.com/image_resources/playerimages/1329017.png\",\"Kim Ha-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1836935.png\",\"Cho Sang-Jun (MF)|https://images.fotmob.com/image_resources/playerimages/1232265.png\",\"Kim Hyeon-Oh (FW)|https://images.fotmob.com/image_resources/playerimages/1751268.png\"]"
+awayLineup: "[\"Lee Gwang-Yeon (GK)|https://images.fotmob.com/image_resources/playerimages/1039705.png\",\"Kwon Byeong-Jun (DF)|https://images.fotmob.com/image_resources/playerimages/2001692.png\",\"Elionay (DF)|https://images.fotmob.com/image_resources/playerimages/1508439.png\",\"Venício (DF)|https://images.fotmob.com/image_resources/playerimages/941712.png\",\"Jung Seung-Yong (DF)|https://images.fotmob.com/image_resources/playerimages/307817.png\",\"Lee Jeong-Bin (MF)|https://images.fotmob.com/image_resources/playerimages/828202.png\",\"You Ju-An (MF)|https://images.fotmob.com/image_resources/playerimages/828010.png\",\"Lee Jae-Wook (MF)|https://images.fotmob.com/image_resources/playerimages/1430798.png\",\"Ryoji Fujimori (MF)|https://images.fotmob.com/image_resources/playerimages/1308399.png\",\"Jeon Min-Gyu (FW)|https://images.fotmob.com/image_resources/playerimages/2143653.png\",\"Rodrigo (FW)|https://images.fotmob.com/image_resources/playerimages/833653.png\"]"
+homeFormation: "5-4-1"
+awayFormation: "4-4-2"
+homeCoach: "Bae Sung-Jae|https://images.fotmob.com/image_resources/playerimages/1805161.png"
+awayCoach: "Kim Hae-Woon"
 pickWinTeam: "성남 FC"
 pickWinResult: "승"
 pickHandicapTeam: "성남 FC"
