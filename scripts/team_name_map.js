@@ -163,6 +163,7 @@ const TEAM_NAME_MAP = {
   "Sassuolo": "사수올로",
   "Torino": "토리노",
   "Udinese": "우디네세",
+  "Aris Thessaloniki": "아리스 테살로니키",
 
   // ===== 🇫🇷 리그1 (Ligue 1) =====
   "Estac Troyes": "트루아",
