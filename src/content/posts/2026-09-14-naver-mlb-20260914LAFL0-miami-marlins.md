@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다�
 injuryHome: "Xavier Edwards (염좌)|Owen Caissie (통증)|Max Meyer (긴장)|Anthony Bender (골절)|Ronny Henriquez (수술)"
 injuryAway: "Kris Bubic (통증)|Roki Sasaki (찰과상)|Edwin Diaz (염증)|Dalton Rushing (통증)|Gavin Stone (염증)"
 homeLineup: "[\"선발투수 E. Perez (7-11, 3.94) ERA 3.94|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
-awayLineup: "[\"선발투수 E. Sheehan (5-8, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\"]"
+awayLineup: "[\"선발투수 E. Sheehan (5-8, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\",\"1번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"2번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"3번 M. Muncy (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33303.png\",\"4번 W. Smith (C)|https://a.espncdn.com/i/headshots/mlb/players/full/38309.png\",\"5번 K. Tucker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34967.png\",\"6번 J. De Paula (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5102682.png\",\"7번 A. Call (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/38994.png\",\"8번 M. Rojas (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/30791.png\",\"9번 A. Freeland (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4727589.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
