@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.13","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.09.13","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CWSL0-2026-09-13-st-louis-cardinals/"},{"date":"26.09.11","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911PICW0-2026-09-11-chicago-white-sox/"},{"date":"26.09.10","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910PICW0-2026-09-10-chicago-white-sox/"},{"date":"26.09.09","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"3-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909PICW0-2026-09-09-chicago-white-sox/"},{"date":"26.09.07","home":"시카고 화이트삭스","away":"미네소타 트윈스","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907MNCW0-2026-09-07-chicago-white-sox/"}]'
 injuryHome: "Peter Strzelecki (염증)|JJ Wetherholt (건염)|Jordan Walker (통증)|Everson Pereira (타박상)|Blaze Jordan (염좌)"
 injuryAway: "Tyler Davis (상중)|Drew Thorpe (수술)|Huascar Brazoban (긴장)|Tanner Murray (수술)|Tommy Pham (긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. McGreevy (6-9, 3.92) ERA 3.92|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 S. Burke (8-7, 3.58) ERA 3.58|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

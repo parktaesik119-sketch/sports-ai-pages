@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.13","home":"워싱턴 내셔널스","away":"LA 에�
 awayRecent: '[{"date":"26.09.13","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913ANMO0-2026-09-13-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"},{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"},{"date":"26.09.08","home":"보스턴 레드삭스","away":"LA 에인절스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908ANBO0-2026-09-08-boston-red-sox/"}]'
 injuryHome: "Harry Ford (경미)|DJ Herz (주요)|PJ Poulin (주요)|Nasim Nunez (경미)|Connelly Early (주요)"
 injuryAway: "Gustavo Campero (주요)|Nolan Schanuel (주요)|Sam Bachman (주요)|Yoan Moncada (주요)|George Klassen (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Irvin (2-9, 5.52) ERA 5.52|https://a.espncdn.com/i/headshots/mlb/players/full/41290.png\"]"
+awayLineup: "[\"선발투수 G. Rodriguez (4-7, 6.28) ERA 6.28|https://a.espncdn.com/i/headshots/mlb/players/full/41196.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

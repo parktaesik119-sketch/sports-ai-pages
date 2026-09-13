@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.13","home":"탬파베이 레이스","away":"휴스�
 awayRecent: '[{"date":"26.09.13","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913HOTB0-2026-09-13-tampa-bay-rays/"},{"date":"26.09.12","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912HOTB0-2026-09-12-tampa-bay-rays/"},{"date":"26.09.11","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911HOPH0-2026-09-11-philadelphia-phillies/"},{"date":"26.09.10","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910HOPH0-2026-09-10-philadelphia-phillies/"},{"date":"26.09.09","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909HOPH0-2026-09-09-philadelphia-phillies/"}]'
 injuryHome: "Jake Fraley (수술)|Jonathan Heasley (골절)|Taylor Walls (염좌)|Shane McClanahan (통증)|Garrett Cleavinger (통증)"
 injuryAway: "Brice Matthews (염좌)|Yordan Alvarez (일일 점검)|Steven Okert (염좌)|Mike Burrows (염증)|Carlos Correa (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 F. Peralta (8-11, 4.82) ERA 4.82|https://a.espncdn.com/i/headshots/mlb/players/full/39825.png\"]"
+awayLineup: "[\"선발투수 H. Wesneski (5-1, 3.35) ERA 3.35|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

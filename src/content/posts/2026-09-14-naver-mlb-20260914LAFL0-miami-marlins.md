@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다�
 awayRecent: '[{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"},{"date":"26.09.10","home":"LA 다저스","away":"신시내티 레즈","score":"14-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CILA0-2026-09-10-los-angeles-dodgers/"},{"date":"26.09.09","home":"LA 다저스","away":"신시내티 레즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CILA0-2026-09-09-los-angeles-dodgers/"},{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"}]'
 injuryHome: "Xavier Edwards (염좌)|Owen Caissie (통증)|Max Meyer (긴장)|Anthony Bender (골절)|Ronny Henriquez (수술)"
 injuryAway: "Kris Bubic (통증)|Roki Sasaki (찰과상)|Edwin Diaz (염증)|Dalton Rushing (통증)|Gavin Stone (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Perez (7-11, 3.94) ERA 3.94|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
+awayLineup: "[\"선발투수 E. Sheehan (5-8, 5.08) ERA 5.08|https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

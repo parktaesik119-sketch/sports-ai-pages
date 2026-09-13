@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.13","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.13","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CODE0-2026-09-13-detroit-tigers/"},{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"},{"date":"26.09.11","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911CONY0-2026-09-11-new-york-yankees/"},{"date":"26.09.10","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CONY0-2026-09-10-new-york-yankees/"},{"date":"26.09.09","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CONY0-2026-09-09-new-york-yankees/"}]'
 injuryHome: "Parker Meadows (수술로 인한 장기 결장)|Keider Montero (출산 휴가)|Jack Flaherty (염증으로 인한 장기 결장)|Kerry Carpenter (족저근막염으로 인한 장기 결장)|Burch Smith (염증으로 인한 장기 결장)"
 injuryAway: "Willi Castro (족저근막염으로 인한 장기 결장)|Kyle Freeland (신경 압박으로 인한 장기 결장)|Sean Sullivan (신경 압박으로 인한 장기 결장)|Jose Quintana (염좌로 인한 장기 결장)|Kris Bryant (수술로 인한 장기 결장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Jobe (1-2, 4.45) ERA 4.45|https://a.espncdn.com/i/headshots/mlb/players/full/4872647.png\"]"
+awayLineup: "[\"선발투수 G. Hughes (0-7, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/4634930.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
