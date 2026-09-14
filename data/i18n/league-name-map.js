@@ -52,6 +52,7 @@ export const EXACT_LEAGUE_MAP = {
   "Europa Conference League": "UEFA 컨퍼런스리그",
   "Europa Conference League Qualification": "UEFA 컨퍼런스리그 예선",
   "Champions League": "챔피언스리그",
+  "AFC Champions League Elite East": "AFC 챔피언스리그",
   "Champions League Qualification": "챔피언스리그 예선",
   "Copa Sudamericana Final": "코파 수다메리카나 결승",
   "Copa Sudamericana Semi Finals": "코파 수다메리카나 준결승",

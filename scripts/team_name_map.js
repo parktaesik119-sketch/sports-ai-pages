@@ -1729,6 +1729,10 @@ const TEAM_NAME_MAP = {
   "Hatta": "하타",
   "Hatta SC": "하타",
 
+  //태국
+  "Ratchaburi FC": "랏차부리 FC",
+  "Công An Hà Nội": "꽁안 하노이 FC",
+
   //스위스
   "Lausanne": "로잔 스포르",
   "Grasshoppers": "그라스호퍼",
