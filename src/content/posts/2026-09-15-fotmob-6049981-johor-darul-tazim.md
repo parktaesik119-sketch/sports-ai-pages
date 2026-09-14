@@ -1,0 +1,37 @@
+---
+title: "조호르 FC vs 부리람 유나이티드 축구분석·승부예측 (9월 15일) - 픽천국"
+date: 2026-09-15T12:15:00.000Z
+description: "조호르 FC vs 부리람 유나이티드 축구분석: 2026시즌 전체 전력을 살펴보면 조호르 FC는 압도적인 화력을 앞세워 상대를 몰아붙이는 경향이 강하고, 부리람 유나이티드는 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6049981-2026-09-15-johor-darul-tazim"
+category: "soccer"
+country: "국제"
+league: "AFC 챔피언스리그"
+homeTeam: "조호르 FC"
+awayTeam: "부리람 유나이티드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/165228.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/165243.png"
+homeAnalysis: "조호르 FC는 2026시즌 전체 DB를 기준으로 5승 1무 0패라는 압도적인 성적을 기록하며 리그 내 최상위권의 전력을 과시하고 있습니다. 경기당 평균 득점은 4.7골에 달할 정도로 공격진의 파괴력이 매우 강력하며, 안방에서 치른 경기들에서도 꾸준히 대량 득점을 생산해내는 안정적인 모습을 보입니다. 최근 흐름 또한 무패 행진을 이어가며 팀 분위기가 최고조에 달해 있습니다. 수비 조직력 역시 탄탄하여 실점 억제 능력이 뛰어나며, 홈 경기에서는 특히나 상대의 압박을 효과적으로 무력화하는 능력이 탁월합니다. 화끈한 공격력과 안정적인 경기 운영을 바탕으로 이번 경기에서도 주도권을 잡고 경기를 풀어나갈 것으로 보입니다."
+awayAnalysis: "부리람 유나이티드는 2026시즌 전체 DB를 기준으로 7승 3무 1패의 우수한 성적을 거두며 안정적인 시즌 운영을 이어가고 있습니다. 경기당 평균 1.8득점을 기록하며 기복 없는 득점력을 선보이고 있고, 최근 11경기에서 단 1패만을 허용했을 정도로 패배를 좀처럼 기록하지 않는 끈끈한 전력을 갖추고 있습니다. 특히 원정 경기에서도 집중력을 잃지 않으며 승점을 챙기는 모습이 인상적입니다. 전술적으로 탄탄한 공수 밸런스를 유지하고 있어 쉽게 무너지지 않는 것이 큰 장점입니다. 시즌 전체를 통틀어 승률이 높고 패배가 적다는 점은 이번 원정길에서도 자신감을 가질 수 있는 중요한 요소로 판단됩니다."
+homePower: "홈에서 경기당 4점대 이상의 압도적 득점 생산력 보유|공격 전개 시 측면과 중앙의 연계 플레이가 매우 매끄러움|안방에서의 압도적 점유율을 바탕으로 상대를 강하게 압박함|최근 6경기 무패를 기록하며 팀 전체의 자신감이 극에 달함|상대의 수비 균열을 틈타 마무리 짓는 결정력이 매우 뛰어남"
+awayPower: "최근 11경기 1패에 불과한 매우 안정적인 경기 운영 능력|원정 경기에서도 쉽게 흔들리지 않는 견고한 수비 조직력|경기당 1.8득점의 효율적인 공격으로 결과물을 잘 만들어냄|다양한 득점 루트를 활용해 상대 수비진의 혼란을 유도함|패배가 적은 시즌 흐름을 통해 큰 경기 경험이 풍부하게 녹아있음"
+h2h: '[{"date":"25.09.16","home":"부리람 유나이티드","away":"조호르 FC","score":"2-1"},{"date":"25.03.11","home":"조호르 FC","away":"부리람 유나이티드","score":"0-1"},{"date":"25.03.04","home":"부리람 유나이티드","away":"조호르 FC","score":"0-0"},{"date":"24.12.03","home":"조호르 FC","away":"부리람 유나이티드","score":"0-0"}]'
+summary: "2026시즌 전체 전력을 살펴보면 조호르 FC는 압도적인 화력을 앞세워 상대를 몰아붙이는 경향이 강하고, 부리람 유나이티드는 탄탄한 수비와 효율적인 경기 운영으로 승점을 쌓아가는 흐름입니다. 조호르 FC는 홈에서의 득점 지원이 매우 막강하여 어떤 팀을 상대로도 공격적인 축구를 구사할 수 있는 저력이 있으며, 부리람 유나이티드는 최근 패배를 거의 기록하지 않은 끈끈함을 바탕으로 경기를 운영합니다. 양 팀은 지난 맞대결에서 팽팽한 흐름을 유지해 왔으나, 이번 시즌 조호르 FC가 보여주는 공격적인 데이터의 흐름은 상대적으로 더 강력한 파괴력을 보여주고 있어 안방에서 경기를 풀어갈 가능성이 높습니다. 조호르 FC가 공격적인 주도권을 잡고 경기를 운영할 것으로 예상되는 만큼, 전체적인 전력의 우위와 홈 어드밴티지를 앞세운 조호르 FC가 조금 더 승리에 가까운 모습으로 경기를 주도할 것으로 평가됩니다."
+homeRecent: '[{"date":"26.09.11","home":"조호르 FC","away":"Negeri Sembilan","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5998160-2026-09-11-johor-darul-tazim/"},{"date":"26.09.04","home":"Brunei DPMM","away":"조호르 FC","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5998154-2026-09-04-brunei-dpmm/"},{"date":"26.08.29","home":"조호르 FC","away":"Star City","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5998151-2026-08-29-johor-darul-tazim/"},{"date":"26.08.26","home":"조호르 FC","away":"Kelantan Red Warrior","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5998146-2026-08-26-johor-darul-tazim/"},{"date":"26.08.21","home":"조호르 FC","away":"Kuching City","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5998140-2026-08-21-johor-darul-tazim/"}]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "조호르 FC"
+pickWinResult: "승"
+pickHandicapTeam: "조호르 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -7978,8 +7978,8 @@
     "away": "Ehime FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/614335.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162198.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5944173",
@@ -15509,19 +15509,6 @@
     "awayScore": null
   },
   {
-    "id": "naver-npb-20260914JNHS0",
-    "sport": "baseball",
-    "country": "Japan",
-    "league": "NPB",
-    "date": "2026-09-14T09:00:00.000Z",
-    "home": "Hanshin Tigers",
-    "away": "Chunichi Dragons",
-    "homeLogo": "https://sports-phinf.pstatic.net/team/npb/default/HS.png",
-    "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/JN.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "naver-npb-20260914YOYK0",
     "sport": "baseball",
     "country": "Japan",
@@ -15533,6 +15520,19 @@
     "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/YO.png",
     "homeScore": null,
     "awayScore": null
+  },
+  {
+    "id": "naver-npb-20260914JNHS0",
+    "sport": "baseball",
+    "country": "Japan",
+    "league": "NPB",
+    "date": "2026-09-14T09:00:00.000Z",
+    "home": "Hanshin Tigers",
+    "away": "Chunichi Dragons",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/npb/default/HS.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/JN.png",
+    "homeScore": 0,
+    "awayScore": 6
   },
   {
     "id": "naver-mlb-20260915CWCL0",
@@ -16164,7 +16164,7 @@
     "away": "KT Rolster Challengers",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132567/800px_dplus_lightmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/128348/800px_kt_rolster_2026_allmode.png",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2
   },
   {

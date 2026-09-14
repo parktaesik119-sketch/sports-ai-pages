@@ -1,0 +1,37 @@
+---
+title: "전북 현대 vs 가시와 레이솔 축구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-16T10:00:00.000Z
+description: "전북 현대 vs 가시와 레이솔 축구분석: 양 팀의 시즌 전체 전력을 비교했을 때 가시와 레이솔이 조금 더 안정적인 승률과 높은 평균 득점을 기록하며 우위를 점하고 있습… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6049982-2026-09-16-jeonbuk-hyundai-motors-fc"
+category: "soccer"
+country: "국제"
+league: "AFC 챔피언스리그"
+homeTeam: "전북 현대"
+awayTeam: "가시와 레이솔"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/46038.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8699.png"
+homeAnalysis: "전북 현대는 2026시즌 전체 24경기에서 7승 9무 8패를 기록하며 승률 약 29%와 평균 1.1득점의 성적을 보여주고 있습니다. 시즌 초반부터 중반까지 다소 기복 있는 경기력을 보였으나, 포항 스틸러스와 울산 HD FC를 상대로 승리를 거두며 승부처에서의 집중력을 증명한 바 있습니다. 다만 최근 리그 일정에서 득점력 빈곤과 수비 집중력 저하가 동시에 나타나며 승점 확보에 어려움을 겪고 있습니다. 이번 경기에서는 동준 리와 브루노 모타를 중심으로 한 공격진이 얼마나 효율적으로 마무리하느냐가 관건이 될 것입니다. 정용 정 감독의 4-3-3 포메이션 아래 전술적 유연성을 발휘하여 홈 팬들 앞에서 안정적인 경기 운영을 선보일 필요가 있습니다."
+awayAnalysis: "가시와 레이솔은 2026시즌 전체 19경기에서 10승 2무 7패를 기록하며 승률 약 53%와 평균 1.5득점의 준수한 성적을 거두고 있습니다. 시즌 내내 꾸준한 득점력을 바탕으로 공격적인 축구를 구사하고 있으며, 최근 교토 상가 FC를 상대로 승리하며 다시금 상승세를 타기 위한 발판을 마련했습니다. 미드필더진의 유기적인 패스 연결과 쇼타 후지오를 필두로 한 공격 라인의 파괴력은 원정 경기에서도 충분히 위협적인 요소로 평가됩니다. 리카르도 로드리게스 감독은 3-4-2-1 포메이션을 통해 중원 장악력을 극대화하고 있으며, 상대의 압박을 풀어내는 과정이 매끄러운 편입니다. 공수 밸런스가 안정적인 흐름을 보이고 있어 원정 부담을 최소화하며 경기를 주도할 것으로 예상됩니다."
+homePower: "홈에서 승점 확보를 위한 다득점 패턴 구축 필요함|동준 리와 브루노 모타의 연계는 여전히 위협적임|중원 미드필더진의 안정적 수비 가담이 승부의 열쇠임|최근 득점 기복은 개선해야 할 핵심 과제로 보임|홈 이점 살린 초반 공세로 경기 주도권 확보가 급선무임"
+awayPower: "평균 1.5득점의 높은 공격 효율로 원정 화력 집중함|쇼타 후지오를 중심으로 한 공격 전개 속도가 위협적임|중원 장악력을 높인 3-4-2-1 전술의 안정성 확인됨|원정에서도 물러서지 않는 공격적인 경기 운영이 특징임|공수 전환 시의 유기적인 움직임이 강점으로 평가됨"
+h2h: '[{"date":"18.04.04","home":"가시와 레이솔","away":"전북 현대","score":"0-2"},{"date":"18.02.13","home":"전북 현대","away":"가시와 레이솔","score":"3-2"},{"date":"15.04.22","home":"가시와 레이솔","away":"전북 현대","score":"3-2"},{"date":"15.02.24","home":"전북 현대","away":"가시와 레이솔","score":"0-0"},{"date":"13.05.22","home":"가시와 레이솔","away":"전북 현대","score":"3-2"}]'
+summary: "양 팀의 시즌 전체 전력을 비교했을 때 가시와 레이솔이 조금 더 안정적인 승률과 높은 평균 득점을 기록하며 우위를 점하고 있습니다. 전북 현대는 홈에서의 집중력이 중요하지만 최근 경기들에서 득점력 기복이 뚜렷하게 나타나고 있어 공수 밸런스가 잘 잡힌 원정팀을 상대로 고전할 가능성이 있습니다. 상대전적에서도 가시와 레이솔이 과거 전적에서 다소 앞선 경험을 가지고 있는 만큼, 원정팀이 이번 경기에서 경기를 주도하며 우세한 흐름을 가져갈 것으로 보입니다. 가시와 레이솔의 짜임새 있는 공격 전술이 전북 현대의 수비 조직력을 어떻게 공략하느냐가 승패의 가장 큰 변수가 될 것입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Bum-Keun Song (GK)|https://images.fotmob.com/image_resources/playerimages/848068.png","Sang-Myung Lee (DF)|https://images.fotmob.com/image_resources/playerimages/1836913.png","Je-Woon Yeon (DF)|https://images.fotmob.com/image_resources/playerimages/730745.png","Young-Bin Kim (DF)|https://images.fotmob.com/image_resources/playerimages/623910.png","Tae-Hyun Kim (DF)|https://images.fotmob.com/image_resources/playerimages/947492.png","Yeong-Jae Lee (MF)|https://images.fotmob.com/image_resources/playerimages/622993.png","João Gamboa (MF)|https://images.fotmob.com/image_resources/playerimages/632709.png","Jin-Gyu Kim (MF)|https://images.fotmob.com/image_resources/playerimages/622980.png","Dong-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/828272.png","Bruno Mota (FW)|https://images.fotmob.com/image_resources/playerimages/1060635.png","Italo (FW)|https://images.fotmob.com/image_resources/playerimages/1669646.png"]'
+awayLineup: '["Ryosuke Kojima (GK)|https://images.fotmob.com/image_resources/playerimages/848282.png","Wataru Harada (DF)|https://images.fotmob.com/image_resources/playerimages/1267663.png","Taiyo Koga (DF)|https://images.fotmob.com/image_resources/playerimages/758052.png","Daiki Sugioka (DF)|https://images.fotmob.com/image_resources/playerimages/826020.png","Tojiro Kubo (MF)|https://images.fotmob.com/image_resources/playerimages/1299353.png","Koki Kumasaka (MF)|https://images.fotmob.com/image_resources/playerimages/1611173.png","Nobuteru Nakagawa (MF)|https://images.fotmob.com/image_resources/playerimages/1716158.png","Keita Endo (MF)|https://images.fotmob.com/image_resources/playerimages/727873.png","Yoshio Koizumi (MF)|https://images.fotmob.com/image_resources/playerimages/1012227.png","Masaki Watai (MF)|https://images.fotmob.com/image_resources/playerimages/924305.png","Shota Fujio (FW)|https://images.fotmob.com/image_resources/playerimages/1134268.png"]'
+homeFormation: "4-3-3"
+awayFormation: "3-4-2-1"
+homeCoach: "Jeong-Yong Jung|https://images.fotmob.com/image_resources/playerimages/1136248.png"
+awayCoach: "Ricardo Rodríguez|https://images.fotmob.com/image_resources/playerimages/1134762.png"
+pickWinTeam: "가시와 레이솔"
+pickWinResult: "승"
+pickHandicapTeam: "가시와 레이솔"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---
