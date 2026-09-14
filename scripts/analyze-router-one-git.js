@@ -1520,6 +1520,10 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
     // 데이터가 없으면 "없음"으로 표기하도록 SYSTEM_RULES_PROMPT/searchOrEspnInstruction에서 강제한다.
     const response = await client.chat.completions.create({
   model: "google/gemini-3-flash",
+  // 🔥 명시적 상한을 안 주면 프로바이더 기본값에 걸려 응답이 중간에 잘릴 수 있다.
+  // 이 프롬프트는 HOME_ANALYSIS~PICK_EXPECTED_AWAY까지 14개 필드를 다 채워야 하고,
+  // PICK_* 필드가 출력 순서상 맨 마지막이라 잘리면 가장 먼저 PICK 쪽이 비게 된다.
+  max_tokens: 4096,
 
   messages: [
     {
@@ -1535,6 +1539,12 @@ ${matchDataPrompt}
 
     const aiResponse =
       response.choices?.[0]?.message?.content || "";
+
+    // 🔥 [진단] 길이 조건(>500)과 무관하게 매 시도마다 finish_reason을 남긴다.
+    // "PICK 누락"으로 저장이 거부된 케이스는 응답 길이가 500자를 넘어서 기존
+    // 진단 로그(길이<=500일 때만 출력)가 아예 안 찍혔었다 — 그래서 지금까지
+    // "잘려서 그런 건지" 확인할 방법이 없었다. 이제 항상 남긴다.
+    console.log(`   [진단] finish_reason: ${response.choices?.[0]?.finish_reason ?? '(없음)'} / 응답 길이: ${aiResponse.length}자 (${match.home} vs ${match.away})`);
 
     if (aiResponse.length > 500) {
       const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal);
@@ -1635,6 +1645,7 @@ ${gameContext}
     try {
     const retryResponse = await client.chat.completions.create({
   model: "google/gemini-3-flash",
+  max_tokens: 4096, // 🔥 재시도 호출도 동일하게 상한 명시 (본 호출과 동일한 이유)
 
   messages: [
     {
@@ -1650,6 +1661,9 @@ ${retryPrompt}
 
       const aiResponse =
         retryResponse.choices?.[0]?.message?.content || "";
+
+      // 🔥 [진단] 재시도 호출도 길이 조건과 무관하게 항상 finish_reason을 남긴다.
+      console.log(`   [진단] finish_reason: ${retryResponse.choices?.[0]?.finish_reason ?? '(없음)'} / 응답 길이: ${aiResponse.length}자 (${match.home} vs ${match.away})`);
 
       if (aiResponse.length > 1200) {
         const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal);
