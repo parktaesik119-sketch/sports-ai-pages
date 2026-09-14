@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs KIA 타이거즈 경기분석·라인업·결장자·통계·승부예측 (9월 15일) | KBO - 픽천국"
+date: 2026-09-15T09:30:00.000Z
+description: "SSG 랜더스 vs KIA 타이거즈 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260915HTSK02026-2026-09-15-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "KIA 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HT.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 103경기에서 39승 5무 59패를 기록하며 승률 0.398, 평균 득점 4.7점을 올리고 있습니다. 시즌 전체적으로 투타 밸런스가 흔들리며 리그 8위라는 순위에 머물러 있는 상황입니다. 최근 10경기에서는 6승 4패로 나름의 반등을 꾀하고 있으나 기복 있는 경기력을 보여줍니다. 선발투수 김민준은 3.38의 준수한 ERA를 기록하며 마운드를 지키고 있지만, 타선의 득점 지원이 뒷받침되지 않을 때가 많아 승수 쌓기에 어려움을 겪습니다. 안상현과 박성한 등 주축 타자들이 분전하고 있으나 하위 타선과의 연결 고리를 견고히 하는 것이 남은 시즌의 숙제입니다."
+awayAnalysis: "KIA 타이거즈는 2026시즌 100경기에서 55승 2무 43패를 거두며 승률 0.561, 평균 득점 5.5점의 높은 화력을 보유한 팀입니다. 시즌 4위를 유지하며 상위권 도약을 노리는 KIA 타이거즈는 타선의 파괴력이 팀의 가장 큰 원동력입니다. 김도영과 나성범으로 이어지는 중심 타선은 언제든 대량 득점을 생산할 수 있는 능력을 갖추고 있습니다. 다만 최근 10경기에서 5승 5패로 다소 흐름이 정체된 양상을 보이고 있어 투수진의 안정감 회복이 필수적입니다. 김태형이 선발로 나서지만 긴 이닝을 소화하기보다는 불펜진의 빠른 가동이 요구되는 시점입니다."
+homePower: "안정적인 평균자책점 3.38 기록 중인 김민준의 이닝 소화력|중심 타선 박성한과 정준재의 꾸준한 출루율 및 득점 생산|홈 경기 시 타선의 집중력 강화로 변수 창출 능력을 보임|상대 선발 투수 대비 낮은 실점 억제력을 보여준 마운드|득점 지원 여부에 따라 승패가 극명하게 갈리는 흐름"
+awayPower: "김도영과 나성범 중심의 압도적인 타격 파괴력 검증됨|원정 경기에서도 평균 득점력을 유지하는 공격 집중력|상대 전적 우위를 통해 얻은 심리적 자신감 존재|선발 투수의 짧은 이닝을 보완하는 불펜의 대응 능력 필요|상위 타선의 폭발력을 바탕으로 한 경기 주도권 확보 가능"
+h2h: '[{"date":"26.09.11","home":"KIA 타이거즈","away":"SSG 랜더스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911SKHT02026-2026-09-11-kia-tigers/"},{"date":"26.08.29","home":"KIA 타이거즈","away":"SSG 랜더스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829SKHT02026-2026-08-29-kia-tigers/"},{"date":"26.07.19","home":"SSG 랜더스","away":"KIA 타이거즈","score":"5-9","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260719HTSK02026-2026-07-19-ssg-landers/"},{"date":"26.07.18","home":"SSG 랜더스","away":"KIA 타이거즈","score":"2-12","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260718HTSK02026-2026-07-18-ssg-landers/"},{"date":"26.07.17","home":"SSG 랜더스","away":"KIA 타이거즈","score":"3-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260717HTSK02026-2026-07-17-ssg-landers/"}]'
+summary: "양 팀의 2026시즌 전력을 비교하면 KIA 타이거즈가 공수 양면에서 우위를 점하고 있습니다. SSG 랜더스는 김민준이 마운드에서 분전하고 있으나 팀 전체적인 득점 생산력과 리그 순위에서 열세를 면치 못하고 있습니다. 반면 KIA 타이거즈는 김도영과 나성범 등 타선의 파괴력을 앞세워 상위권 성적을 유지하고 있으며, 상대 전적에서도 SSG 랜더스를 상대로 강한 면모를 보여왔습니다. 이번 경기에서도 KIA 타이거즈가 타선의 집중력을 바탕으로 경기를 주도하며 우위를 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.11","home":"KIA 타이거즈","away":"SSG 랜더스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911SKHT02026-2026-09-11-kia-tigers/"},{"date":"26.09.10","home":"SSG 랜더스","away":"한화 이글스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910HHSK02026-2026-09-10-ssg-landers/"},{"date":"26.09.09","home":"두산 베어스","away":"SSG 랜더스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909SKOB02026-2026-09-09-doosan-bears/"},{"date":"26.09.08","home":"KT 위즈","away":"SSG 랜더스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908SKKT02026-2026-09-08-kt-wiz-suwon/"},{"date":"26.09.06","home":"SSG 랜더스","away":"두산 베어스","score":"9-16","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906OBSK02026-2026-09-06-ssg-landers/"}]'
+awayRecent: '[{"date":"26.09.13","home":"KIA 타이거즈","away":"한화 이글스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913HHHT02026-2026-09-13-kia-tigers/"},{"date":"26.09.12","home":"KT 위즈","away":"KIA 타이거즈","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912HTKT02026-2026-09-12-kt-wiz-suwon/"},{"date":"26.09.11","home":"KIA 타이거즈","away":"SSG 랜더스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911SKHT02026-2026-09-11-kia-tigers/"},{"date":"26.09.10","home":"KIA 타이거즈","away":"NC 다이노스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910NCHT02026-2026-09-10-kia-tigers/"},{"date":"26.09.09","home":"KIA 타이거즈","away":"NC 다이노스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909NCHT02026-2026-09-09-kia-tigers/"}]'
+injuryHome: "없음"
+injuryAway: "김기훈 (치료·재활중)|김석환 (치료·재활중)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KIA 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "KIA 타이거즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

@@ -481,7 +481,7 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
+        "rank": "9",
         "wins": "8",
         "losses": "8",
         "ties": "8",
@@ -983,7 +983,7 @@
         "pointsAgainst": "39"
       },
       "away": {
-        "rank": "7",
+        "rank": "8",
         "wins": "8",
         "losses": "9",
         "ties": "8",
@@ -2123,21 +2123,21 @@
       "home": {
         "rank": "9",
         "wins": "8",
-        "losses": "10",
+        "losses": "11",
         "ties": "6",
         "winPercent": null,
         "gamesBehind": null,
         "pointsFor": "42",
-        "pointsAgainst": "37"
+        "pointsAgainst": "42"
       },
       "away": {
-        "rank": "9",
-        "wins": "8",
+        "rank": "7",
+        "wins": "9",
         "losses": "10",
         "ties": "6",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "41",
+        "pointsFor": "46",
         "pointsAgainst": "39"
       }
     },
@@ -3455,22 +3455,22 @@
       "home": {
         "rank": "14",
         "wins": "62",
-        "losses": "87",
+        "losses": "88",
         "ties": "0",
-        "winPercent": ".416",
-        "gamesBehind": "30.5",
-        "pointsFor": "628",
-        "pointsAgainst": "703"
+        "winPercent": ".413",
+        "gamesBehind": "31",
+        "pointsFor": "632",
+        "pointsAgainst": "709"
       },
       "away": {
         "rank": "6",
-        "wins": "80",
+        "wins": "81",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".541",
-        "gamesBehind": "12",
-        "pointsFor": "633",
-        "pointsAgainst": "613"
+        "winPercent": ".544",
+        "gamesBehind": "11.5",
+        "pointsFor": "639",
+        "pointsAgainst": "617"
       }
     },
     "h2h": {
@@ -7067,27 +7067,27 @@
       "home": {
         "rank": "14",
         "wins": "62",
-        "losses": "87",
+        "losses": "88",
         "ties": "0",
-        "winPercent": ".416",
-        "gamesBehind": "30.5",
-        "pointsFor": "628",
-        "pointsAgainst": "703"
+        "winPercent": ".413",
+        "gamesBehind": "31",
+        "pointsFor": "632",
+        "pointsAgainst": "709"
       },
       "away": {
         "rank": "6",
-        "wins": "80",
+        "wins": "81",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".541",
-        "gamesBehind": "12",
-        "pointsFor": "633",
-        "pointsAgainst": "613"
+        "winPercent": ".544",
+        "gamesBehind": "11.5",
+        "pointsFor": "639",
+        "pointsAgainst": "617"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SD leads series 8-4",
+      "text": "SD wins series 9-4",
       "totalGames": 12,
       "games": [
         {
@@ -7991,12 +7991,12 @@
       "away": {
         "rank": "14",
         "wins": "62",
-        "losses": "87",
+        "losses": "88",
         "ties": "0",
-        "winPercent": ".416",
-        "gamesBehind": "30.5",
-        "pointsFor": "628",
-        "pointsAgainst": "703"
+        "winPercent": ".413",
+        "gamesBehind": "31",
+        "pointsFor": "632",
+        "pointsAgainst": "709"
       }
     },
     "h2h": {
@@ -8108,13 +8108,13 @@
       },
       "away": {
         "rank": "6",
-        "wins": "80",
+        "wins": "81",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".541",
-        "gamesBehind": "12",
-        "pointsFor": "633",
-        "pointsAgainst": "613"
+        "winPercent": ".544",
+        "gamesBehind": "11.5",
+        "pointsFor": "639",
+        "pointsAgainst": "617"
       }
     },
     "h2h": {

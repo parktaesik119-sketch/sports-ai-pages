@@ -3939,35 +3939,8 @@
     "date": "2026-09-12T23:30:00.000Z",
     "league": "Major League Soccer",
     "injuries": {
-      "home": [
-        {
-          "name": "Rudy Camacho",
-          "status": "발 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Sékou Bangoura",
-          "status": "발목 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Wessam Abou Ali",
-          "status": "무릎 부상",
-          "detail": "Late September 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Rafael Mosquera",
-          "status": "허벅지 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "AJ Marcucci",
-          "status": "십자 인대 부상",
-          "detail": "Unknown"
-        }
-      ]
+      "home": [],
+      "away": []
     },
     "h2h": [
       {
@@ -8143,43 +8116,12 @@
     "injuries": {
       "home": [
         {
-          "name": "Isak Hien",
-          "status": "햄스트링 부상",
-          "detail": "Early October 2026"
-        },
-        {
           "name": "Gianluca Gaetano",
           "status": "부상",
           "detail": "Mid September 2026"
-        },
-        {
-          "name": "Kamaldeen Sulemana",
-          "status": "무릎 부상",
-          "detail": "Early October 2026"
         }
       ],
-      "away": [
-        {
-          "name": "M'Bala Nzola",
-          "status": "부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Mattia Felici",
-          "status": "십자 인대 부상",
-          "detail": "Out for season"
-        },
-        {
-          "name": "Riyad Idrissi",
-          "status": "십자 인대 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Yael Trepy",
-          "status": "부상",
-          "detail": "Doubtful"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -16693,11 +16635,6 @@
           "detail": "Late October 2026"
         },
         {
-          "name": "Zaid Abner Romero",
-          "status": "부상",
-          "detail": "Mid September 2026"
-        },
-        {
           "name": "Christantus Uche",
           "status": "십자 인대 부상",
           "detail": "Out for season"
@@ -16917,11 +16854,6 @@
           "name": "Álvaro Odriozola",
           "status": "십자 인대 부상",
           "detail": "Early November 2026"
-        },
-        {
-          "name": "Jon Martín",
-          "status": "부상",
-          "detail": "Mid September 2026"
         }
       ],
       "away": [
@@ -20619,13 +20551,7 @@
     "date": "2026-09-13T18:00:00.000Z",
     "league": "Saudi Pro League",
     "injuries": {
-      "home": [
-        {
-          "name": "Georges-Kévin N'Koudou",
-          "status": "발목 부상",
-          "detail": "Unknown"
-        }
-      ],
+      "home": [],
       "away": []
     },
     "h2h": [
@@ -21022,9 +20948,9 @@
       ],
       "away": [
         {
-          "name": "Diego Llorente",
-          "status": "근육 부상",
-          "detail": "Late September 2026"
+          "name": "Ismael Barea",
+          "status": "십자 인대 부상",
+          "detail": "Early December 2026"
         },
         {
           "name": "Aitor Ruibal",
@@ -21032,9 +20958,9 @@
           "detail": "Late September 2026"
         },
         {
-          "name": "Ismael Barea",
-          "status": "십자 인대 부상",
-          "detail": "Early December 2026"
+          "name": "Diego Llorente",
+          "status": "근육 부상",
+          "detail": "Late September 2026"
         }
       ]
     },
@@ -21906,11 +21832,6 @@
       ],
       "away": [
         {
-          "name": "Jakub Piotrowski",
-          "status": "부상",
-          "detail": "Unknown"
-        },
-        {
           "name": "Juan Arizala",
           "status": "허벅지 부상",
           "detail": "Late September 2026"
@@ -21929,6 +21850,11 @@
           "name": "Alessandro Zanoli",
           "status": "십자 인대 부상",
           "detail": "Mid October 2026"
+        },
+        {
+          "name": "Jakub Piotrowski",
+          "status": "부상",
+          "detail": "Unknown"
         },
         {
           "name": "Nicolò Zaniolo",
@@ -22256,11 +22182,11 @@
     "lineup": {
       "home": [
         "Josep Martínez (GK)|https://images.fotmob.com/image_resources/playerimages/772168.png",
-        "John Stones (DF)|https://images.fotmob.com/image_resources/playerimages/263653.png",
         "Manuel Akanji (DF)|https://images.fotmob.com/image_resources/playerimages/521318.png",
+        "John Stones (DF)|https://images.fotmob.com/image_resources/playerimages/263653.png",
         "Alessandro Bastoni (DF)|https://images.fotmob.com/image_resources/playerimages/805451.png",
         "Andy Diouf (MF)|https://images.fotmob.com/image_resources/playerimages/1254297.png",
-        "Petar Sučić (MF)|https://images.fotmob.com/image_resources/playerimages/1382000.png",
+        "Nicolò Barella (MF)|https://images.fotmob.com/image_resources/playerimages/541820.png",
         "Hakan Çalhanoglu (MF)|https://images.fotmob.com/image_resources/playerimages/304733.png",
         "Piotr Zieliński (MF)|https://images.fotmob.com/image_resources/playerimages/362212.png",
         "Carlos Augusto (DF)|https://images.fotmob.com/image_resources/playerimages/940829.png",
@@ -22297,6 +22223,11 @@
     "league": "Premier Division",
     "injuries": {
       "home": [
+        {
+          "name": "Keith Buckley",
+          "status": "부상",
+          "detail": "Mid September 2026"
+        },
         {
           "name": "Rob Cornwall",
           "status": "충돌 부상",
@@ -22871,6 +22802,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Marco Untergrabner",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
           "name": "John Martin",
           "status": "근육 부상",
           "detail": "A few weeks"
@@ -22883,14 +22819,9 @@
       ],
       "away": [
         {
-          "name": "Keegan Ancelin",
-          "status": "근육 부상",
-          "detail": "A few weeks"
-        },
-        {
           "name": "James Bolger",
           "status": "충돌 부상",
-          "detail": "About 1-2 weeks"
+          "detail": "Doubtful"
         },
         {
           "name": "Owen Lambe",
@@ -28497,7 +28428,7 @@
         "Ilyas Chouaref (FW)|https://images.fotmob.com/image_resources/playerimages/995447.png",
         "Donat Rrudhani (MF)|https://images.fotmob.com/image_resources/playerimages/1100015.png",
         "Franck Surdez (FW)|https://images.fotmob.com/image_resources/playerimages/1269992.png",
-        "Winsley Boteli (MF)|https://images.fotmob.com/image_resources/playerimages/1480623.png"
+        "Winsley Boteli (FW)|https://images.fotmob.com/image_resources/playerimages/1480623.png"
       ]
     },
     "formation": {
