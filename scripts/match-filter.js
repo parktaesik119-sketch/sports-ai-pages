@@ -91,6 +91,20 @@
     'PSG', 'Paris Saint Germain', 'Paris Saint-Germain', 'Lens', 'Lille', 'Lyon', 'Rennes', 'Marseille',
     'Monaco', 'Strasbourg', 'Lorient', 'Toulouse', 'Paris FC', 'Brest', 'Stade Brestois 29', 'Angers',
     'Le Havre', 'Auxerre', 'Nice', 'Estac Troyes', 'Le Mans',
+
+    // ⚽ K리그1 (2026 시즌 12개 구단)
+    'FC Seoul', 'Ulsan HD FC', 'Ulsan Hyundai FC', 'Jeonbuk Hyundai Motors FC', 'Jeonbuk Motors',
+    'Daejeon Hana Citizen', 'Daejeon Citizen', 'Gwangju FC', 'Pohang Steelers',
+    'FC Anyang', 'Gimcheon Sangmu', 'Gimcheon Sangmu FC', 'Incheon United',
+    'Gangwon FC', 'Jeju SK', 'Jeju United FC', 'Bucheon FC 1995',
+
+    // ⚽ K리그2 (2026 시즌 17개 구단)
+    'Suwon Samsung Bluewings', 'Suwon Bluewings', 'Seoul E-Land FC',
+    'Seongnam FC', 'Jeonnam Dragons', 'Gimpo FC', 'Gimpo Citizen',
+    'Busan I Park', "Busan I'Park", 'Chungnam Asan FC',
+    'Hwaseong FC', 'Hwaseong', 'Gyeongnam FC', 'Cheongju FC', 'Cheongju',
+    'Cheonan City', 'Ansan Greeners',
+    'Gimhae FC 2008', 'Gimhae City', 'Yongin FC', 'Yongin City', 'Paju Frontier', 'Paju Citizen',
   ];
 
   // ⚠️ 같은 팀명이 서로 다른 나라에 동시에 존재하는 경우가 있다.
