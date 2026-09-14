@@ -512,10 +512,22 @@ const dynamicDescription = descSnippet
   ? `${homeTeam} vs ${awayTeam} ${categoryAnalysisLabel}: ${descSnippet}${descSourceText.length > 70 ? '…' : ''} 승부예측·추천 스포츠픽은 픽천국에서 확인하세요.`
   : (item.data.description?.trim()
       || `${translatedTitle} ${categoryAnalysisLabel} 및 추천 스포츠픽 정보`);
+
+// 🔥 title도 frontmatter에 박제된 옛날 문구(경기분석·라인업·결장자·통계·승부예측 나열형)를
+// 그대로 읽지 않고, homeTeam/awayTeam/카테고리/날짜로 매 빌드마다 새로 조립한다.
+// → 이렇게 하면 .md 파일을 재생성하지 않아도 "기존에 이미 올라온 글"도 빌드만 다시
+// 돌리면 곧바로 짧고 키워드가 명확한 새 title로 바뀐다 (신규 글만 적용되는 게 아님).
+const kstEventDate = new Date(eventDateObj.getTime() + 9 * 60 * 60 * 1000);
+const displayDateShort = !isNaN(eventDateObj.getTime())
+  ? `${kstEventDate.getUTCMonth() + 1}/${kstEventDate.getUTCDate()}`
+  : '';
+const dynamicTitle = (homeTeam && awayTeam && homeTeam !== '홈팀' && awayTeam !== '원정팀')
+  ? `${homeTeam} vs ${awayTeam} ${categoryAnalysisLabel}·승부예측${displayDateShort ? ` (${displayDateShort})` : ''} - 픽천국`
+  : translatedTitle; // 팀명 파싱이 실패한 예외적인 글은 안전하게 기존 title 그대로 사용
 ---
 
 <BaseLayout 
-  title={translatedTitle}
+  title={dynamicTitle}
     description={dynamicDescription}
     currentCategory={category}
 >
