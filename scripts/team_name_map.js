@@ -1732,6 +1732,10 @@ const TEAM_NAME_MAP = {
   //태국
   "Ratchaburi FC": "랏차부리 FC",
   "Công An Hà Nội": "꽁안 하노이 FC",
+  "Buriram United": "부리람 유나이티드",
+
+  //말레이시아
+  "Johor Darul Ta'zim": "조호르 FC",
 
   //스위스
   "Lausanne": "로잔 스포르",
