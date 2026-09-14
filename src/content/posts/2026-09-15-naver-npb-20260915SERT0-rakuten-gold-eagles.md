@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.12","home":"오릭스 버팔로스","away":"라쿠�
 awayRecent: '[{"date":"26.09.13","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913NHSE0-2026-09-13-seibu-lions/"},{"date":"26.09.12","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912NHSE0-2026-09-12-seibu-lions/"},{"date":"26.09.11","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911SEOX0-2026-09-11-orix-buffaloes/"},{"date":"26.09.10","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910SEOX0-2026-09-10-orix-buffaloes/"},{"date":"26.09.09","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909SEOX0-2026-09-09-orix-buffaloes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Tatsuki Itoh (2-0, 3.46)|https://p.npb.jp/players_photo/2026/180/e/020_31335152.jpg\"]"
+awayLineup: "[\"선발투수 Ryosuke Moriwaki (1-1, 2.00)|https://p.npb.jp/players_photo/2026/180/l/028_71875138.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
