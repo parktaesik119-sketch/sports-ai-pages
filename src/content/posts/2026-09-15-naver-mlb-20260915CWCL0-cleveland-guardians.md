@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"미네소타 트윈스","away":"클리�
 awayRecent: '[{"date":"26.09.14","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CWSL0-2026-09-14-st-louis-cardinals/"},{"date":"26.09.13","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CWSL0-2026-09-13-st-louis-cardinals/"},{"date":"26.09.11","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911PICW0-2026-09-11-chicago-white-sox/"},{"date":"26.09.10","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910PICW0-2026-09-10-chicago-white-sox/"},{"date":"26.09.09","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"3-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909PICW0-2026-09-09-chicago-white-sox/"}]'
 injuryHome: "Colin Holderman (염증)|Rhys Hoskins (염증)|Shawn Armstrong (긴장)"
 injuryAway: "Tyler Davis (상복)|Drew Thorpe (수술)|Tommy Pham (긴장)|Huascar Brazoban (긴장)|Tanner Murray (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Williams (13-7, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 S. Newcomb (2-4, 2.77) ERA 2.77|https://a.espncdn.com/i/headshots/mlb/players/full/33856.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
