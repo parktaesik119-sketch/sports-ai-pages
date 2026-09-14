@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.09.13","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913SDSF0-2026-09-13-san-francisco-giants/"},{"date":"26.09.10","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910SLSF0-2026-09-10-san-francisco-giants/"},{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"},{"date":"26.09.07","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907SFNM0-2026-09-07-new-york-mets/"},{"date":"26.09.06","home":"뉴욕 메츠","away":"샌프란시스코 자이언츠","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906SFNM0-2026-09-06-new-york-mets/"}]'
 injuryHome: "Peter Strzelecki (염증)|JJ Wetherholt (건염)|Jose Fermin (상태 지켜보는 중)|Everson Pereira (타박상)|Blaze Jordan (염좌)"
 injuryAway: "Victor Bericoto (타박상)|JT Brubaker (타박상)|Matt Gage (좌상)|Willy Adames (염좌)|Marcelo Mayer (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Q. Mathews (1-3, 4.11) ERA 4.11|https://a.espncdn.com/i/headshots/mlb/players/full/4837405.png\"]"
+awayLineup: "[\"선발투수 L. Roupp (9-13, 4.00) ERA 4.00|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
