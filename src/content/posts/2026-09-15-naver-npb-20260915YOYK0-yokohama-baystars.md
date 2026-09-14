@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.13","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.09.13","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913YOYK0-2026-09-13-yokohama-baystars/"},{"date":"26.09.12","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912HSYO0-2026-09-12-yomiuri-giants/"},{"date":"26.09.10","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910JNYO0-2026-09-10-yomiuri-giants/"},{"date":"26.09.09","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909JNYO0-2026-09-09-yomiuri-giants/"},{"date":"26.09.08","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260908JNYO0-2026-09-08-yomiuri-giants/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Katsuki Azuma (10-5, 2.19)|https://p.npb.jp/players_photo/2026/180/db/011_51155136.jpg\"]"
+awayLineup: "[\"선발투수 Shosei Togo (4-2, 2.10)|https://p.npb.jp/players_photo/2026/180/g/020_41045138.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

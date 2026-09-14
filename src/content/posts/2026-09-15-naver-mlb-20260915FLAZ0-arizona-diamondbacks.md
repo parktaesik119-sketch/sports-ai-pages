@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.09.14","home":"마이애미 말린스","away":"LA 다저스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins/"},{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"},{"date":"26.09.10","home":"마이애미 말린스","away":"뉴욕 메츠","score":"14-15","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910NMFL0-2026-09-10-miami-marlins/"},{"date":"26.09.09","home":"마이애미 말린스","away":"뉴욕 메츠","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909NMFL0-2026-09-09-miami-marlins/"}]'
 injuryHome: "Ryne Nelson (염좌)|Tyler Locklear (골절)|Ryan Thompson (염좌)|A.J. Puk (염좌)|Andrew Saalfrank (수술)"
 injuryAway: "Owen Caissie (통증)|Max Meyer (염좌)|Anthony Bender (골절)|Ronny Henriquez (수술)|Adam Mazur (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Soroka (8-5, 3.53) ERA 3.53|https://a.espncdn.com/i/headshots/mlb/players/full/34984.png\"]"
+awayLineup: "[\"선발투수 J. Junk (6-9, 4.54) ERA 4.54|https://a.espncdn.com/i/headshots/mlb/players/full/4881980.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

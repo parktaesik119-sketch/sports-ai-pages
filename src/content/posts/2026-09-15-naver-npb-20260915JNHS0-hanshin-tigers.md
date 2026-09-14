@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.13","home":"한신 타이거스","away":"주니치 
 awayRecent: '[{"date":"26.09.13","home":"한신 타이거스","away":"주니치 드래곤스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913JNHS0-2026-09-13-hanshin-tigers/"},{"date":"26.09.12","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912YAJN0-2026-09-12-chunichi-dragons/"},{"date":"26.09.10","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910JNYO0-2026-09-10-yomiuri-giants/"},{"date":"26.09.09","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909JNYO0-2026-09-09-yomiuri-giants/"},{"date":"26.09.08","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260908JNYO0-2026-09-08-yomiuri-giants/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Easton Lucas (1-2, 4.58)|https://p.npb.jp/players_photo/2026/180/t/042_73975152.jpg\"]"
+awayLineup: "[\"선발투수 Yuya Yanagi (6-5, 2.38)|https://p.npb.jp/players_photo/2026/180/d/017_63165134.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
