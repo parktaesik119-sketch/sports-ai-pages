@@ -2021,8 +2021,30 @@ const winnerIsHome = homeNames.some(n =>
   // 9. 메타 정보
   const descHomeName = TEAM_NAME_MAP[match.home] || aiHomeName;
   const descAwayName = TEAM_NAME_MAP[match.away] || aiAwayName;
-  const extractedDesc = `${descHomeName} vs ${descAwayName} 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요.`;
-  const finalTitle = `${aiHomeName} vs ${aiAwayName} 경기분석·라인업·결장자·통계·승부예측 (${displayDate}) | ${leagueName} - 픽천국`;
+
+  // 🔥 카테고리별 한글 키워드 라벨 — "스포츠분석"이라는 두루뭉술한 단어 대신
+  // "축구분석/야구분석/농구분석/..." 처럼 실제 사용자가 검색하는 세부 키워드로 노출시키기 위함.
+  const CATEGORY_ANALYSIS_LABEL = {
+    soccer: "축구분석", baseball: "야구분석", basketball: "농구분석",
+    volleyball: "배구분석", hockey: "하키분석", lol: "롤분석",
+  };
+  const categoryAnalysisLabel = CATEGORY_ANALYSIS_LABEL[cat] || "스포츠분석";
+
+  // 🔥 description을 고정 템플릿이 아니라, 이미 만들어둔 summaryKor(이 경기만의 실제 분석
+  // 요약)에서 앞부분을 잘라 매 경기마다 실제로 다른 문장이 나오게 한다.
+  // (수천 개 글의 description이 팀명만 바뀌고 전부 동일한 문제 → 중복 콘텐츠로 보이는 문제 해결)
+  const summarySnippet = (summaryKor || "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 70);
+  const extractedDesc = summarySnippet
+    ? `${descHomeName} vs ${descAwayName} ${categoryAnalysisLabel}: ${summarySnippet}${(summaryKor || "").length > 70 ? "…" : ""} 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요.`
+    : `${descHomeName} vs ${descAwayName} ${categoryAnalysisLabel} 및 승부예측 정보. 선발라인업, 부상·결장자, 상대전적(H2H)까지 픽천국에서 확인하세요.`;
+
+  // 🔥 title도 "경기분석·라인업·결장자·통계·승부예측"처럼 키워드를 나열하던 방식에서
+  // 벗어나 핵심 키워드 1~2개 + 브랜드로 짧게 구성 (검색결과에서 잘리지 않도록,
+  // 구글이 임의로 title을 재작성하지 않도록).
+  const finalTitle = `${aiHomeName} vs ${aiAwayName} ${categoryAnalysisLabel}·승부예측 (${displayDate}) - 픽천국`;
   const safeHomeNameForSlug = getSafeLogoName(match.home);
 
   // 최근 경기 데이터 직렬화 (slug.astro에서 렌더링)
