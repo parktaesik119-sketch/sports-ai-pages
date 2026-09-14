@@ -1,0 +1,37 @@
+---
+title: "알라베스 vs 발렌시아 축구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-15T18:00:00.000Z
+description: "알라베스 vs 발렌시아 축구분석: 양 팀의 2026시즌 성적을 비교하면 알라베스가 최근 홈에서 보여준 안정적인 공수 밸런스가 발렌시아의 부진한 흐름보다 더욱 돋… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868061-2026-09-16-deportivo-alavs"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "알라베스"
+awayTeam: "발렌시아"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png"
+homeAnalysis: "알라베스는 2026시즌 동안 총 12경기에 나서 5승 4무 3패의 성적을 기록하며 꾸준한 경쟁력을 보여주고 있습니다. 경기당 평균 1.2득점을 기록하는 공격진은 퀴케 산체스 플로레스 감독의 전술 아래 탄탄한 조직력을 바탕으로 상대의 빈틈을 노리는 데 능숙합니다. 홈 경기에서는 특히 수비 집중력이 높아지며 5-2 대승을 거둔 오사수나전과 같이 화끈한 공격력까지 겸비한 모습이 인상적입니다. 루카스 보예와 토니 마르티네스가 이끄는 최전방은 상대 수비를 강하게 압박하며 기회를 창출하는 데 주력하고 있습니다. 최근 다소 기복은 있으나 홈에서의 안정적인 운영 능력은 이번 경기에서도 팀의 핵심 자산이 될 것으로 보입니다."
+awayAnalysis: "발렌시아는 2026시즌 36경기에서 19승 3무 14패를 기록하며 시즌 전체적으로는 높은 승률을 유지하고 있습니다. 오스카 산체스 감독의 지도 아래 4-4-1-1 포메이션을 중심으로 짜임새 있는 경기 운영을 시도하고 있으나 최근 공식전에서는 다소 아쉬운 흐름을 보입니다. 아르나우트 단주마와 하비에르 게라 등 중원과 전방의 유기적인 연계가 핵심인데, 최근에는 공수 밸런스 유지에 어려움을 겪으며 연패의 늪에 빠져 있습니다. 시즌 초중반 보여주었던 폭발적인 득점 지원이 실전에서 다시금 살아나야만 분위기 반전이 가능한 상황입니다. 원정 길에 오르는 이번 맞대결에서 수비 조직력을 얼마나 빠르게 정비하느냐가 승부의 관건이 될 것입니다."
+homePower: "홈에서 오사수나를 5-2로 제압하며 공격 잠재력 검증됨|퀴케 산체스 플로레스 감독의 3-5-2 체제 안정감 확보|루카스 보예와 토니 마르티네스의 전방 압박 파괴력 우수|안토니오 시베라가 버티는 골문 높은 수비 집중력 유지|패배한 경기보다 승점 확보한 경기가 많아 흐름 주도 가능"
+awayPower: "오스카 산체스 감독의 4-4-1-1 포메이션 전술적 변화 시급|아르나우트 단주마와 하비에르 게라의 중원 연계 중요|원정 경기에서의 수비 집중력 저하가 최근 성적에 반영됨|시즌 초반의 고득점 패턴을 회복해야 할 필요성 존재|연패 흐름을 끊어낼 강력한 동기부여가 팀 전체에 요구됨"
+h2h: '[{"date":"26.03.09","home":"발렌시아","away":"알라베스","score":"3-2"},{"date":"25.10.21","home":"알라베스","away":"발렌시아","score":"0-0"},{"date":"25.05.15","home":"알라베스","away":"발렌시아","score":"1-0"},{"date":"24.12.22","home":"발렌시아","away":"알라베스","score":"2-2"},{"date":"24.07.25","home":"발렌시아","away":"알라베스","score":"0-1"}]'
+summary: "양 팀의 2026시즌 성적을 비교하면 알라베스가 최근 홈에서 보여준 안정적인 공수 밸런스가 발렌시아의 부진한 흐름보다 더욱 돋보이는 상황입니다. 발렌시아는 시즌 전체적으로 많은 승수를 쌓았으나 최근 공식전 연패로 인해 분위기가 가라앉아 있어 원정에서의 반등이 절실합니다. 알라베스는 홈 이점을 살려 전방 압박을 강하게 가져갈 것으로 예상되며, 발렌시아는 중원의 연계를 회복해 실점을 최소화하는 것이 이번 경기의 핵심 포인트가 될 것입니다. 전력과 최근 경기력의 흐름을 종합적으로 고려했을 때, 홈에서의 탄탄한 운영을 바탕으로 경기를 주도할 가능성이 높은 알라베스가 우위를 점할 것으로 평가됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Facundo Garcés (십자 인대 부상)|Mikel Rodríguez (십자 인대 부상)|Aitor Mañas (부상)"
+injuryAway: "Luis Rioja (근육 부상)|César Tárrega (근육 부상)|Dimitri Foulquier (부상)|José Copete (연골 파열)|Mouctar Diakhaby (햄스트링 부상)|Guido Rodríguez (근육 부상)|Diego López (십자 인대 부상)|Sergi Canós (십자 인대 부상)|Umar Sadiq (햄스트링 부상)"
+homeLineup: '["Antonio Sivera (GK)|https://images.fotmob.com/image_resources/playerimages/530468.png","Nahuel Tenaglia (DF)|https://images.fotmob.com/image_resources/playerimages/860314.png","Ville Koski (DF)|https://images.fotmob.com/image_resources/playerimages/1056461.png","Jonny Otto (DF)|https://images.fotmob.com/image_resources/playerimages/360918.png","Ángel Pérez (MF)|https://images.fotmob.com/image_resources/playerimages/1563022.png","Pablo Ibánez (MF)|https://images.fotmob.com/image_resources/playerimages/1238154.png","Antonio Blanco (MF)|https://images.fotmob.com/image_resources/playerimages/845998.png","Carles Aleñá (MF)|https://images.fotmob.com/image_resources/playerimages/637756.png","Abderrahman Rebbach (MF)|https://images.fotmob.com/image_resources/playerimages/1200941.png","Lucas Boyé (FW)|https://images.fotmob.com/image_resources/playerimages/561164.png","Toni Martínez (FW)|https://images.fotmob.com/image_resources/playerimages/640123.png"]'
+awayLineup: '["Stole Dimitrievski (GK)|https://images.fotmob.com/image_resources/playerimages/254241.png","Arnau Martínez (DF)|https://images.fotmob.com/image_resources/playerimages/1194892.png","Iker Córdoba (DF)|https://images.fotmob.com/image_resources/playerimages/1637860.png","Pepelu (MF)|https://images.fotmob.com/image_resources/playerimages/673689.png","José Gayà (DF)|https://images.fotmob.com/image_resources/playerimages/391058.png","David Otorbi (MF)|https://images.fotmob.com/image_resources/playerimages/1600732.png","Aliou Dieng (MF)|https://images.fotmob.com/image_resources/playerimages/723148.png","Filip Ugrinic (MF)|https://images.fotmob.com/image_resources/playerimages/800615.png","Ryunosuke Sato (MF)|https://images.fotmob.com/image_resources/playerimages/1611149.png","Javier Guerra (MF)|https://images.fotmob.com/image_resources/playerimages/1284429.png","Arnaut Danjuma (MF)|https://images.fotmob.com/image_resources/playerimages/704151.png"]'
+homeFormation: "3-5-2"
+awayFormation: "4-4-1-1"
+homeCoach: "Quique Sánchez Flores|https://images.fotmob.com/image_resources/playerimages/78725.png"
+awayCoach: "Oscar Sanchez|https://images.fotmob.com/image_resources/playerimages/3316.png"
+pickWinTeam: "알라베스"
+pickWinResult: "승"
+pickHandicapTeam: "알라베스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

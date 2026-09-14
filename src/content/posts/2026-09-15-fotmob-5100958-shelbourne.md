@@ -1,0 +1,37 @@
+---
+title: "셸번 vs 드로에다 유나이티드 축구분석·승부예측 (9월 15일) - 픽천국"
+date: 2026-09-14T18:45:00.000Z
+description: "셸번 vs 드로에다 유나이티드 축구분석: 양 팀의 2026시즌 전반적인 기록을 살펴보면 득점력에서는 큰 차이가 없으나, 셸번은 무승부 비율이 높아 결과를 가져오는 데 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100958-2026-09-15-shelbourne"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "셸번"
+awayTeam: "드로에다 유나이티드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/5751.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8339.png"
+homeAnalysis: "셸번은 2026시즌 총 24경기에서 6승 11무 7패를 기록하며 1.4의 평균 득점력을 보여주고 있습니다. 시즌 중반부터 무승부 비율이 다소 높게 나타나며 승리를 굳히는 데 어려움을 겪고 있으며, 최근 5경기 흐름 역시 3무 2패로 승리와 인연이 멀어진 상태입니다. 특히 직전 데리 시티와의 경기에서 무득점으로 패하며 공격 효율 저하가 두드러졌고 수비 집중력 또한 흔들리고 있습니다. Ademipo Odubeko와 Daniel Kelly를 활용한 공격진의 마무리가 시즌 초반만큼 위력적이지 못해 반등이 절실한 시점입니다. 존 러셀 감독 체제에서 전술 변화를 꾀하고 있으나 전반적인 공수 밸런스 회복이 이번 경기의 관건이 될 것입니다."
+awayAnalysis: "드로에다 유나이티드는 2026시즌 21경기에 나서 7승 6무 8패의 성적과 평균 1.5득점을 기록하며 중위권 경쟁을 이어가고 있습니다. 최근 흐름은 슬라이고 로버스를 상대로 승리를 거두며 분위기를 쇄신했으나, 그 이전 3경기에서는 무득점과 실점이 반복되며 다소 기복 있는 경기력을 노출했습니다. Thomas Oluwa와 Warren Davis로 이어지는 공격 조합의 한 방은 유효하지만, 원정 길에서의 수비 불안은 승점 획득의 걸림돌로 작용합니다. 원정 상황에서 3-5-2 포메이션을 바탕으로 허리 라인의 활동량을 극대화하려는 전략이 수비 안정화로 이어질지가 이번 맞대결의 핵심 포인트입니다."
+homePower: "Ademipo Odubeko와 Daniel Kelly 중심의 전방 압박 강함|무승부 경기가 잦아지며 실리 위주의 운영 양상을 보임|측면 수비 라인의 복귀와 조직적 정비가 시급한 상황|득점력 대비 수비 집중력 유지 여부가 경기력을 좌우함|안방에서의 안정감 회복이 순위 도약의 필수 요소임"
+awayPower: "Thomas Oluwa의 개인 돌파를 활용한 역습 패턴이 위협적임|중원 숫자를 늘린 3-5-2 전술로 허리 싸움 주도권 확보|최근 승리와 패배를 반복하며 경기력 기복이 뚜렷하게 나타남|수비 진영의 뒷공간 노출을 방지하는 집중력이 핵심임|원정 경기에서 전방 득점 지원 부족이 고질적인 고민임"
+h2h: '[{"date":"26.06.20","home":"드로에다 유나이티드","away":"셸번","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1492717-2026-06-20-drogheda-united/"},{"date":"26.04.25","home":"셸번","away":"드로에다 유나이티드","score":"3-4","link":"https://pick79.com/posts/detail/analyze-1492677-2026-04-25-shelbourne/"},{"date":"26.02.28","home":"드로에다 유나이티드","away":"셸번","score":"1-2"},{"date":"25.09.23","home":"드로에다 유나이티드","away":"셸번","score":"2-1"},{"date":"25.05.20","home":"셸번","away":"드로에다 유나이티드","score":"0-0"}]'
+summary: "양 팀의 2026시즌 전반적인 기록을 살펴보면 득점력에서는 큰 차이가 없으나, 셸번은 무승부 비율이 높아 결과를 가져오는 데 어려움을 겪고 있고 드로에다 유나이티드는 승패가 극명하게 갈리는 흐름을 보이고 있습니다. 최근 맞대결에서 셸번이 드로에다 유나이티드를 상대로 다소 고전하며 수비에서 공간을 내주는 경향이 있었던 점을 고려할 때, 이번 경기에서도 양 팀의 공방전이 치열하게 전개될 것으로 보입니다. 다만 셸번이 홈에서의 홈 이점을 바탕으로 최근 무승 행진을 끊어내기 위해 수비 라인 정비에 집중할 가능성이 높으며, 드로에다 유나이티드의 원정 불안 요소를 공략한다면 셸번이 다소 우세한 경기를 펼치며 승점 확보에 가까워질 것으로 판단됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Marco Untergrabner (근육 부상)|John Martin (근육 부상)|Sam Bone (충돌 부상)"
+injuryAway: "James Bolger (충돌 부상)|Owen Lambe (다리 부상)"
+homeLineup: '["Eddie Beach (GK)|https://images.fotmob.com/image_resources/playerimages/1421811.png","Milan Mbeng (DF)|https://images.fotmob.com/image_resources/playerimages/1710550.png","Odhrán Casey (DF)|https://images.fotmob.com/image_resources/playerimages/1382384.png","Kameron Ledwidge (DF)|https://images.fotmob.com/image_resources/playerimages/1098797.png","James Norris (DF)|https://images.fotmob.com/image_resources/playerimages/1096696.png","Evan Caffrey (MF)|https://images.fotmob.com/image_resources/playerimages/1271838.png","Kerr McInroy (MF)|https://images.fotmob.com/image_resources/playerimages/923527.png","Jonathan Lunney (MF)|https://images.fotmob.com/image_resources/playerimages/791835.png","Alistair Coote (MF)|https://images.fotmob.com/image_resources/playerimages/607331.png","Ademipo Odubeko (FW)|https://images.fotmob.com/image_resources/playerimages/1113675.png","Daniel Kelly (FW)|https://images.fotmob.com/image_resources/playerimages/1106545.png"]'
+awayLineup: '["Luke Dennison (GK)|https://images.fotmob.com/image_resources/playerimages/1206824.png","Leo Burney (DF)|https://images.fotmob.com/image_resources/playerimages/1710549.png","Conor Keeley (DF)|https://images.fotmob.com/image_resources/playerimages/747264.png","Andrew Quinn (DF)|https://images.fotmob.com/image_resources/playerimages/1190122.png","Edwin Agbaje (DF)|https://images.fotmob.com/image_resources/playerimages/1420125.png","Ethan O’Brien (MF)|https://images.fotmob.com/image_resources/playerimages/1621330.png","Brandon Kavanagh (MF)|https://images.fotmob.com/image_resources/playerimages/928435.png","Alfie Bates (MF)|https://images.fotmob.com/image_resources/playerimages/968919.png","Conor Kane (DF)|https://images.fotmob.com/image_resources/playerimages/825812.png","Thomas Oluwa (FW)|https://images.fotmob.com/image_resources/playerimages/1032781.png","Warren Davis (FW)|https://images.fotmob.com/image_resources/playerimages/1441589.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-5-2"
+homeCoach: "John Russell|https://images.fotmob.com/image_resources/playerimages/77657.png"
+awayCoach: "Kevin Doherty|https://images.fotmob.com/image_resources/playerimages/13895.png"
+pickWinTeam: "셸번"
+pickWinResult: "승"
+pickHandicapTeam: "셸번"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

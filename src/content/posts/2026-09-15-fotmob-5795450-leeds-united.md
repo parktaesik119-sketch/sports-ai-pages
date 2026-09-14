@@ -1,0 +1,37 @@
+---
+title: "리즈 유나이티드 vs 뉴캐슬 축구분석·승부예측 (9월 15일) - 픽천국"
+date: 2026-09-14T19:00:00.000Z
+description: "리즈 유나이티드 vs 뉴캐슬 축구분석: 리즈 유나이티드와 뉴캐슬은 현재 리그순위 11위와 10위로 전력상 큰 차이가 없는 팽팽한 대결 구도를 형성하고 있습니다. 리즈… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5795450-2026-09-15-leeds-united"
+category: "soccer"
+country: "잉글랜드"
+league: "프리미어리그"
+homeTeam: "리즈 유나이티드"
+awayTeam: "뉴캐슬"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png"
+homeAnalysis: "리즈 유나이티드는 2026시즌 총 15경기에서 4승 3무 8패를 기록하며 다소 기복 있는 시즌 흐름을 보이고 있습니다. 다니엘 파르케 감독의 지휘 아래 도미닉 칼버트-르윈이 공격의 핵심으로 나서고 있으나, 최근 원정 경기 등에서 수비 집중력이 흔들리며 실점을 허용하는 빈도가 잦아지고 있습니다. 홈에서는 안정적인 운영을 통해 득점을 노리지만, 3-4-2-1 포메이션의 전환 과정에서 중원 사령관인 에단 암파두와 타나카 아오의 연결 고리가 견고해야만 경기를 주도할 수 있습니다. 수비진의 니코 엘베디와 제임스 저스틴이 상대의 빠른 공수 전환을 얼마나 차단하느냐가 승패의 갈림길이 될 것입니다. 현재 리그순위 11위로서 중위권 도약을 위해 이번 안방 경기에서의 승점 확보가 절실한 상황입니다."
+awayAnalysis: "뉴캐슬은 2026시즌 치른 22경기에서 8승 7무 7패의 성적을 거두며 꾸준한 전력을 유지하고 있습니다. 마티아스 야이슬 감독 체제에서 요안 위사와 하비 반스가 이끄는 공격진은 매 경기 위협적인 파괴력을 보여주며 득점을 생산하고 있습니다. 최근 경기들에서 보듯 원정에서도 쉽게 물러서지 않는 끈끈한 조직력을 바탕으로 경기를 운영하며 현재 리그순위 10위의 준수한 성적을 기록 중입니다. 중원에서는 조 윌록과 니코 곤잘레스가 공수 연결을 담당하며 경기의 템포를 조절하고, 수비진의 말릭 티아우와 스벤 보트만이 안정감을 더하고 있습니다. 공수 밸런스가 조화로운 만큼 원정이라는 부담감보다는 자신감 있는 경기를 펼칠 것으로 보입니다."
+homePower: "3-4-2-1 전형을 통한 측면 활용 능력 극대화|도미닉 칼버트-르윈의 제공권을 이용한 높이 싸움 강점|에단 암파두 중심의 중원 수비 전환 속도 조절 필요|홈경기 평균 득점력 준수하나 수비 고립 주의|리그순위 11위 도약을 위한 공격적 라인업 배치 예상"
+awayPower: "요안 위사-하비 반스 조합의 유기적 스위칭 플레이|중원 장악력 기반의 안정적 볼 점유 및 패스 전개|스벤 보트만 중심의 포백 라인 견고함 입증됨|원정 경기 실점 최소화를 통한 안정적 승점 관리|리그순위 10위 안착을 위한 공수 밸런스 유지 집중"
+h2h: '[{"date":"26.01.08","home":"뉴캐슬","away":"리즈 유나이티드","score":"4-3"},{"date":"25.08.31","home":"리즈 유나이티드","away":"뉴캐슬","score":"0-0"},{"date":"23.05.13","home":"리즈 유나이티드","away":"뉴캐슬","score":"2-2"},{"date":"23.01.01","home":"뉴캐슬","away":"리즈 유나이티드","score":"0-0"},{"date":"22.01.23","home":"리즈 유나이티드","away":"뉴캐슬","score":"0-1"}]'
+summary: "리즈 유나이티드와 뉴캐슬은 현재 리그순위 11위와 10위로 전력상 큰 차이가 없는 팽팽한 대결 구도를 형성하고 있습니다. 리즈 유나이티드는 홈에서 강한 압박을 통해 경기를 주도하고자 할 것이며, 뉴캐슬은 안정된 수비를 바탕으로 역습 기회를 노리는 흐름이 예상됩니다. 상대전적에서 득점이 빈번하게 터지는 양상을 고려할 때, 양 팀 모두 공격적인 전술을 들고나올 가능성이 커 보입니다. 전반적인 시즌 전력과 공수 조화를 따져보았을 때, 원정팀인 뉴캐슬이 상대의 뒷공간을 공략하며 근소한 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Ilia Gruev (연골 파열)|Joe Rodon (햄스트링 부상)|Mateo Joseph (무릎 부상)"
+injuryAway: "Ewen Jaouen (발목 부상)|Daniel Burn (발목 부상)|Joelinton (근육 부상)|William Osula (충돌 부상)"
+homeLineup: '["James Trafford (GK)|https://images.fotmob.com/image_resources/playerimages/1187213.png","James Justin (DF)|https://images.fotmob.com/image_resources/playerimages/710158.png","Nico Elvedi (DF)|https://images.fotmob.com/image_resources/playerimages/517346.png","Tarik Muharemović (DF)|https://images.fotmob.com/image_resources/playerimages/1250485.png","Jayden Bogle (MF)|https://images.fotmob.com/image_resources/playerimages/789646.png","Ethan Ampadu (MF)|https://images.fotmob.com/image_resources/playerimages/780432.png","Ao Tanaka (MF)|https://images.fotmob.com/image_resources/playerimages/935728.png","Gabriel Gudmundsson (MF)|https://images.fotmob.com/image_resources/playerimages/744494.png","Anton Stach (MF)|https://images.fotmob.com/image_resources/playerimages/881735.png","Noah Okafor (FW)|https://images.fotmob.com/image_resources/playerimages/915797.png","Dominic Calvert-Lewin (FW)|https://images.fotmob.com/image_resources/playerimages/612150.png"]'
+awayLineup: '["Lukás Hornícek (GK)|https://images.fotmob.com/image_resources/playerimages/1186978.png","Amar Dedić (DF)|https://images.fotmob.com/image_resources/playerimages/958010.png","Malick Thiaw (DF)|https://images.fotmob.com/image_resources/playerimages/1137407.png","Sven Botman (DF)|https://images.fotmob.com/image_resources/playerimages/956682.png","Lewis Hall (DF)|https://images.fotmob.com/image_resources/playerimages/1197655.png","Nico González (MF)|https://images.fotmob.com/image_resources/playerimages/1280132.png","Jacob Ramsey (MF)|https://images.fotmob.com/image_resources/playerimages/1021929.png","Anthony Elanga (FW)|https://images.fotmob.com/image_resources/playerimages/1050166.png","Joseph Willock (MF)|https://images.fotmob.com/image_resources/playerimages/860975.png","Harvey Barnes (FW)|https://images.fotmob.com/image_resources/playerimages/760359.png","Yoane Wissa (FW)|https://images.fotmob.com/image_resources/playerimages/666857.png"]'
+homeFormation: "3-4-2-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Daniel Farke|https://images.fotmob.com/image_resources/playerimages/849545.png"
+awayCoach: "Matthias Jaissle|https://images.fotmob.com/image_resources/playerimages/59582.png"
+pickWinTeam: "뉴캐슬"
+pickWinResult: "승"
+pickHandicapTeam: "뉴캐슬"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

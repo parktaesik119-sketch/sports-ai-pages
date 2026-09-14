@@ -1,0 +1,37 @@
+---
+title: "그라스호퍼 vs FC 시옹 축구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-15T17:00:00.000Z
+description: "그라스호퍼 vs FC 시옹 축구분석: 그라스호퍼와 FC 시옹은 2026시즌 동안 각각의 전술적 강점을 바탕으로 준수한 득점력을 보여주고 있습니다. 그라스호퍼는 홈에… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5804241-2026-09-16-grasshopper"
+category: "soccer"
+country: "스위스"
+league: "Super League"
+homeTeam: "그라스호퍼"
+awayTeam: "FC 시옹"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9956.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10179.png"
+homeAnalysis: "그라스호퍼는 2026시즌 17경기에서 8승 4무 5패를 기록하며 승률 47%를 기록 중이며, 평균 1.9득점의 준수한 공격력을 선보이고 있습니다. 페터 차이들러 감독 체제 아래서 4-3-3 포메이션을 바탕으로 니콜라스 무치와 사무엘 벵곤도 등 공격 자원들의 유기적인 움직임이 돋보입니다. 최근에는 툰을 상대로 승리를 거두며 흐름을 다시 탔으며, 특히 홈 경기에서 안정적인 전술 운영을 통해 승점 관리에 힘쓰고 있습니다. 다만 수비진의 집중력이 경기마다 다소 기복을 보이는 점은 보완해야 할 과제로 평가됩니다. 전방의 오스카 클레멘테를 중심으로 한 빌드업이 원활할 때 경기를 쉽게 풀어나가는 강점이 있습니다."
+awayAnalysis: "FC 시옹은 2026시즌 22경기에서 10승 4무 8패를 거두며 평균 2.0득점의 공격적인 축구를 구사하고 있습니다. 디디에 톨로 감독의 4-2-3-1 전술을 통해 일리아스 슈아레프와 프랑크 수르데즈 등 측면 공격수들의 침투가 매우 위협적이라는 평가를 받습니다. 최근 3연승을 질주하며 공수 양면에서 안정된 밸런스를 보여주고 있으며, 원정길에서도 자신감 넘치는 경기를 펼치고 있습니다. 윈슬리 보텔리가 전방에서 해결사 역할을 충실히 수행하며 득점 생산에 활력을 불어넣고 있습니다. 수비진에서는 누마 라방시가 중심을 잡으며 상대 공격을 효과적으로 차단하는 견고함을 보여줍니다."
+homePower: "페터 차이들러 감독의 4-3-3 전술 아래 공격진의 다채로운 패턴 창출이 강점임|니콜라스 무치와 사무엘 벵곤도의 득점 가담이 홈 경기 승리의 핵심 열쇠임|평균 1.9득점의 화력을 앞세워 상대를 압박하는 운영이 돋보임|수비 라인의 유기적인 전환이 필요하며 실점 억제력이 전력의 관건임|홈 팬들의 응원을 등에 업고 중원 주도권을 확보하는 경기력이 검증됨"
+awayPower: "디디에 톨로 감독의 4-2-3-1 시스템이 선수들의 기동성을 극대화함|일리아스 슈아레프를 필두로 한 측면 공격이 상대 수비 균열을 유도함|최근 3연승의 상승세를 바탕으로 원정에서도 자신감 있는 경기 운영이 가능함|윈슬리 보텔리의 결정력이 원정 승점 획득의 결정적인 변수로 작용함|누마 라방시 중심의 수비 조직력이 안정감을 찾으며 실점 위기를 줄임"
+h2h: '[{"date":"26.04.06","home":"그라스호퍼","away":"FC 시옹","score":"0-4"},{"date":"26.02.04","home":"그라스호퍼","away":"FC 시옹","score":"4-3"},{"date":"25.12.14","home":"FC 시옹","away":"그라스호퍼","score":"1-0"},{"date":"25.10.19","home":"그라스호퍼","away":"FC 시옹","score":"0-1"},{"date":"25.05.18","home":"FC 시옹","away":"그라스호퍼","score":"2-1"}]'
+summary: "그라스호퍼와 FC 시옹은 2026시즌 동안 각각의 전술적 강점을 바탕으로 준수한 득점력을 보여주고 있습니다. 그라스호퍼는 홈에서의 안정적인 운영과 4-3-3 포메이션을 통한 공격 전개가 기대되지만, FC 시옹의 최근 3연승이라는 상승세와 원정에서의 공격적 전술은 상당히 위협적입니다. 상대전적에서 FC 시옹이 최근 우위를 점하고 있는 점과 현재 유지하고 있는 팀 전체적인 흐름을 고려할 때, 원정팀 FC 시옹이 공수 밸런스를 앞세워 우위를 점할 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Luka Mikulić (충돌 부상)|Julian Von Moos (다리 부상)|Tim Meyer (충돌 부상)"
+injuryAway: "Kreshnik Hajrizi (근육 부상)"
+homeLineup: '["Marvin Hübel (GK)|https://images.fotmob.com/image_resources/playerimages/1698176.png","Simone Stroscio (DF)|https://images.fotmob.com/image_resources/playerimages/1305752.png","Yannick Bettkober (DF)|https://images.fotmob.com/image_resources/playerimages/1687373.png","Bujar Pllana (DF)|https://images.fotmob.com/image_resources/playerimages/1510878.png","Nico Rissi (DF)|https://images.fotmob.com/image_resources/playerimages/1859293.png","Óscar Clemente (FW)|https://images.fotmob.com/image_resources/playerimages/973765.png","Manex Guibelalde (MF)|https://images.fotmob.com/image_resources/playerimages/1455604.png","Amir Abrashi (MF)|https://images.fotmob.com/image_resources/playerimages/127224.png","Samuele Bengondo (FW)|https://images.fotmob.com/image_resources/playerimages/1821486.png","Nikolas Muci (FW)|https://images.fotmob.com/image_resources/playerimages/1257646.png","Samuel Krasniqi (MF)|https://images.fotmob.com/image_resources/playerimages/1833130.png"]'
+awayLineup: '["Anthony Racioppi (GK)|https://images.fotmob.com/image_resources/playerimages/938531.png","Numa Lavanchy (DF)|https://images.fotmob.com/image_resources/playerimages/200317.png","Noé Sow (DF)|https://images.fotmob.com/image_resources/playerimages/1285468.png","Jan Kronig (DF)|https://images.fotmob.com/image_resources/playerimages/949674.png","Marquinhos Cipriano (DF)|https://images.fotmob.com/image_resources/playerimages/921205.png","Ali Kabacalman (MF)|https://images.fotmob.com/image_resources/playerimages/682539.png","Baltazar (MF)|https://images.fotmob.com/image_resources/playerimages/949711.png","Ilyas Chouaref (FW)|https://images.fotmob.com/image_resources/playerimages/995447.png","Donat Rrudhani (MF)|https://images.fotmob.com/image_resources/playerimages/1100015.png","Franck Surdez (FW)|https://images.fotmob.com/image_resources/playerimages/1269992.png","Winsley Boteli (FW)|https://images.fotmob.com/image_resources/playerimages/1480623.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Peter Zeidler|https://images.fotmob.com/image_resources/playerimages/658445.png"
+awayCoach: "Didier Tholot|https://images.fotmob.com/image_resources/playerimages/42130.png"
+pickWinTeam: "FC 시옹"
+pickWinResult: "승"
+pickHandicapTeam: "FC 시옹"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

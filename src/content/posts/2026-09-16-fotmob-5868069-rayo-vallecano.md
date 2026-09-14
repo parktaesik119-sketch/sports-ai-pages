@@ -1,0 +1,37 @@
+---
+title: "라요 바예카노 vs 에스파뇰 축구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-15T17:00:00.000Z
+description: "라요 바예카노 vs 에스파뇰 축구분석: 라요 바예카노와 에스파뇰은 시즌 전체 성적 면에서 큰 차이가 없으며, 두 팀 모두 득점 지원이 활발한 편이라 치열한 접전이 예… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868069-2026-09-16-rayo-vallecano"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "라요 바예카노"
+awayTeam: "에스파뇰"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png"
+homeAnalysis: "라요 바예카노는 2026시즌 총 16경기에서 7승 2무 7패를 기록하며 승률 50%의 준수한 성적을 거두고 있습니다. 시즌 평균 1.5득점을 기록하며 공격적인 색채를 띠고 있으나, 최근 리그 상위권 팀들과의 대결에서 다소 고전하며 수비 집중력에 아쉬움을 남긴 상태입니다. 홈 경기에서는 라싱 산탄데르를 상대로 승리를 거두는 등 안방에서의 화력은 여전히 위협적입니다. 베냐트 산 호세 감독 체제 아래 세르히오 카메요와 알바로 가르시아가 공격 선봉에 서서 상대 뒷공간을 노리는 전략을 구사합니다. 수비진의 전력 공백을 얼마나 효과적으로 메우느냐가 이번 안방 경기의 승패를 가를 핵심 요소가 될 것으로 보입니다."
+awayAnalysis: "에스파뇰은 2026시즌 15경기에서 5승 6무 4패를 기록하며 패배를 최소화하는 안정적인 운영을 보여주고 있습니다. 경기당 평균 1.7득점의 공격력을 바탕으로 최근 오사수나전에서 승리를 거두는 등 원정에서도 쉽게 무너지지 않는 전력을 유지하고 있습니다. 마놀로 곤잘레스 감독은 가브리엘 모스카르도와 에두 엑스포시토가 중심을 잡는 중원을 통해 경기를 주도하며 로베르토 페르난데스의 결정력을 활용하는 전술을 즐깁니다. 무승부 비율이 다소 높지만, 원정 경기에서 강한 팀들을 상대로도 실점을 최소화하는 조직적인 수비가 강점으로 꼽힙니다. 조직력을 앞세운 운영 능력이 이번 경기에서도 큰 기대를 모으고 있습니다."
+homePower: "세르히오 카메요-알바로 가르시아 중심의 빠른 측면 돌파로 득점 기회 창출에 능함|홈 경기에서 라싱 산탄데르를 제압하며 보여준 안방 화력은 상대에게 큰 부담임|중원 사령관 우나이 로페즈의 경기 조율을 통한 효율적인 2선 침투가 돋보임|에밀 아우데로 골키퍼의 선방 능력을 바탕으로 한 홈에서의 안정적인 골문 수성|시즌 1.5득점의 준수한 화력을 앞세워 상대를 몰아붙이는 공격적 운영 체득함"
+awayPower: "평균 1.7득점의 높은 득점력을 바탕으로 한 원정에서의 폭발적인 공격 전개 능력|가브리엘 모스카르도와 에두 엑스포시토가 구성한 중원의 강한 압박과 볼 점유율 확보|로베르토 페르난데스를 중심으로 한 효율적인 역습 패턴이 상대 수비진에게 위협적임|오사수나 원정 승리에서 검증된 위기 관리 능력과 단단한 수비 조직력 보유|무승부를 양산하는 끈질긴 경기 운영으로 원정에서 최소한의 결과를 가져오는 힘"
+h2h: '[{"date":"26.04.24","home":"라요 바예카노","away":"에스파뇰","score":"1-0"},{"date":"25.12.08","home":"에스파뇰","away":"라요 바예카노","score":"1-0"},{"date":"25.04.05","home":"라요 바예카노","away":"에스파뇰","score":"0-4"},{"date":"24.09.01","home":"에스파뇰","away":"라요 바예카노","score":"2-1"},{"date":"23.05.21","home":"라요 바예카노","away":"에스파뇰","score":"1-2"}]'
+summary: "라요 바예카노와 에스파뇰은 시즌 전체 성적 면에서 큰 차이가 없으며, 두 팀 모두 득점 지원이 활발한 편이라 치열한 접전이 예상됩니다. 라요 바예카노는 홈에서의 강점을 살려 공격적인 운영을 시도하겠으나, 에스파뇰 또한 원정에서 무너지지 않는 탄탄한 중원 조직력을 갖추고 있어 팽팽한 힘의 균형이 유지될 가능성이 높습니다. 상대전적에서도 최근 10경기 동안 양 팀이 번갈아 승리를 거두며 우열을 가리기 힘든 양상을 보인 만큼, 결국 집중력을 잃지 않고 찬스를 살리는 쪽이 우위를 점할 것으로 보입니다. 전반적인 밸런스를 고려할 때 에스파뇰의 원정 안정감이 승패의 추를 조금 더 긍정적인 방향으로 기울게 할 가능성이 엿보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Isi Palazón (근육 부상)|Augusto Batalla (부상)|Jozhua Vertrouwd (햄스트링 부상)|Luiz Felipe (햄스트링 부상)|Jorge de Frutos (부상)|Randy Nteka (근육 부상)"
+injuryAway: "Andoni Gorosabel (근육 부상)|Javi Puado (십자 인대 부상)|Kike García (햄스트링 부상)"
+homeLineup: '["Emil Audero (GK)|https://images.fotmob.com/image_resources/playerimages/602845.png","Andrei Rațiu (DF)|https://images.fotmob.com/image_resources/playerimages/970578.png","Florian Lejeune (DF)|https://images.fotmob.com/image_resources/playerimages/184521.png","Pathé Ciss (MF)|https://images.fotmob.com/image_resources/playerimages/872396.png","Adrià Pedrosa (DF)|https://images.fotmob.com/image_resources/playerimages/927646.png","Unai López (MF)|https://images.fotmob.com/image_resources/playerimages/571615.png","Óscar Valentín (MF)|https://images.fotmob.com/image_resources/playerimages/956622.png","Pedro Díaz (MF)|https://images.fotmob.com/image_resources/playerimages/715069.png","Fran Pérez (FW)|https://images.fotmob.com/image_resources/playerimages/1284430.png","Sergio Camello (FW)|https://images.fotmob.com/image_resources/playerimages/980422.png","Álvaro Garcia (FW)|https://images.fotmob.com/image_resources/playerimages/474658.png"]'
+awayLineup: '["Marko Dmitrović (GK)|https://images.fotmob.com/image_resources/playerimages/280818.png","Omar El Hilali (DF)|https://images.fotmob.com/image_resources/playerimages/1208708.png","Clemens Riedel (DF)|https://images.fotmob.com/image_resources/playerimages/1279557.png","Leandro Cabrera (DF)|https://images.fotmob.com/image_resources/playerimages/169586.png","Roger Hinojo (DF)|https://images.fotmob.com/image_resources/playerimages/1727689.png","Gabriel Moscardo (MF)|https://images.fotmob.com/image_resources/playerimages/1503655.png","Edu Expósito (MF)|https://images.fotmob.com/image_resources/playerimages/837089.png","Marcos Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/1407741.png","Javi Hernández (FW)|https://images.fotmob.com/image_resources/playerimages/1427828.png","Tyrhys Dolan (FW)|https://images.fotmob.com/image_resources/playerimages/1181101.png","Roberto Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/1252373.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Beñat San José|https://images.fotmob.com/image_resources/playerimages/1073489.png"
+awayCoach: "Manolo González|https://images.fotmob.com/image_resources/playerimages/1622868.png"
+pickWinTeam: "에스파뇰"
+pickWinResult: "승"
+pickHandicapTeam: "에스파뇰"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

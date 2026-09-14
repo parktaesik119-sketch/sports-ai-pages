@@ -1,0 +1,37 @@
+---
+title: "웨스트햄 vs 풀럼 축구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-15T18:45:00.000Z
+description: "웨스트햄 vs 풀럼 축구분석: 웨스트햄은 시즌 평균 1.8득점의 강력한 화력을 앞세워 전반적으로 안정적인 흐름을 이어가고 있으며, 특히 공격진의 집중력이 돋… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6099343-2026-09-16-west-ham-united"
+category: "soccer"
+country: "잉글랜드"
+league: "EFL Cup"
+homeTeam: "웨스트햄"
+awayTeam: "풀럼"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png"
+homeAnalysis: "웨스트햄은 2026시즌 동안 18경기를 치르며 7승 6무 5패를 기록하였고 평균 1.8득점의 준수한 공격력을 선보이고 있습니다. 누누 에스피리투 산투 감독의 지휘 아래 Mads Hermansen이 골문을 지키고 Max Kilman과 Konstantinos Mavropanos가 수비의 중심을 잡으며 안정적인 후방 라인을 구축 중입니다. Jarrod Bowen과 Valentín Castellanos가 이끄는 공격진은 최근 경기에서 다득점을 뽑아내며 화력을 과시하고 있어 득점 생산력에 있어 큰 강점을 보입니다. 홈에서 다소 기복을 보이기도 하지만 전반적인 전력의 짜임새는 탄탄한 편입니다. 시즌 중반으로 갈수록 공수 밸런스가 자리를 잡아가고 있어 이번 경기에서도 홈 이점을 살린 주도적인 운영이 기대됩니다."
+awayAnalysis: "풀럼은 2026시즌 13경기에 나서 4승 5무 4패의 성적을 거두었으며 평균 1.3득점을 기록하며 중위권에서의 경쟁력을 유지하고 있습니다. Álvaro Arbeloa 감독 체제에서 Bernd Leno가 든든하게 골문을 지키는 가운데 Calvin Bassey와 Antonee Robinson이 수비의 핵심 역할을 수행하며 조직력을 다지고 있습니다. Sander Berge와 Alex Iwobi로 이어지는 미드필더진의 연계 플레이가 준수하지만 최근 경기에서는 수비 집중력에서 다소 아쉬운 모습을 보이며 실점이 발생하는 경향이 있습니다. 원정 경기에서의 승점 확보를 위해서는 전방의 Joshua King과 Gonzalo García의 마무리 능력이 더욱 극대화되어야 할 것으로 보입니다. 공수 전환 속도를 높여 상대의 허점을 파고드는 전략이 무엇보다 중요해 보입니다."
+homePower: "Jarrod Bowen을 필두로 한 측면 공격의 파괴력 검증됨|평균 1.8득점으로 나타나는 강력한 공격 생산성 확보|다양한 득점 루트를 바탕으로 한 전술 다변화 용이함|누누 에스피리투 산투 감독의 조직적인 수비 체계 구축|상대 허점을 집요하게 파고드는 홈 경기 운영의 효율성"
+awayPower: "Bernd Leno의 선방 능력을 바탕으로 한 수비 안정감|Sander Berge 중심의 중원 장악을 통한 경기 조율 능력|Joshua King의 결정력을 극대화하는 연계 플레이 구사|원정에서의 끈질긴 승점 관리 능력 및 조직력 유지|전환 속도를 활용한 역습 패턴의 정교함 향상 필요"
+h2h: '[{"date":"26.03.05","home":"풀럼","away":"웨스트햄","score":"0-1"},{"date":"25.12.28","home":"웨스트햄","away":"풀럼","score":"0-1"},{"date":"25.01.15","home":"웨스트햄","away":"풀럼","score":"3-2"},{"date":"24.09.14","home":"풀럼","away":"웨스트햄","score":"1-1"},{"date":"24.04.14","home":"웨스트햄","away":"풀럼","score":"0-2"}]'
+summary: "웨스트햄은 시즌 평균 1.8득점의 강력한 화력을 앞세워 전반적으로 안정적인 흐름을 이어가고 있으며, 특히 공격진의 집중력이 돋보입니다. 반면 풀럼은 시즌 평균 1.3득점으로 공격 효율 면에서 상대에게 다소 밀리는 모습을 보이며 수비 집중력 유지에 어려움을 겪고 있습니다. 양 팀의 전력과 시즌 기록을 비교했을 때, 공격 생산성에서 앞서는 웨스트햄이 경기 주도권을 잡고 우위를 점할 가능성이 더 높다고 판단됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Joël Veltman (근육 부상)|Tomáš Souček (허벅지 부상)"
+injuryAway: "Tom Cairney (무릎 부상)"
+homeLineup: '["Mads Hermansen (GK)|https://images.fotmob.com/image_resources/playerimages/967941.png","Joël Veltman (DF)|https://images.fotmob.com/image_resources/playerimages/304455.png","Konstantinos Mavropanos (DF)|https://images.fotmob.com/image_resources/playerimages/719219.png","Morato (DF)|https://images.fotmob.com/image_resources/playerimages/1053838.png","Max Kilman (DF)|https://images.fotmob.com/image_resources/playerimages/865931.png","Jarrod Bowen (FW)|https://images.fotmob.com/image_resources/playerimages/523825.png","Divine Mukasa (MF)|https://images.fotmob.com/image_resources/playerimages/1463282.png","Arne Engels (MF)|https://images.fotmob.com/image_resources/playerimages/1178443.png","Manor Solomon (FW)|https://images.fotmob.com/image_resources/playerimages/822237.png","Joël Piroe (FW)|https://images.fotmob.com/image_resources/playerimages/792540.png","Valentín Castellanos (FW)|https://images.fotmob.com/image_resources/playerimages/823658.png"]'
+awayLineup: '["Bernd Leno (GK)|https://images.fotmob.com/image_resources/playerimages/215168.png","Timothy Castagne (DF)|https://images.fotmob.com/image_resources/playerimages/465750.png","David Affengruber (DF)|https://images.fotmob.com/image_resources/playerimages/1073980.png","Calvin Bassey (DF)|https://images.fotmob.com/image_resources/playerimages/877401.png","Antonee Robinson (DF)|https://images.fotmob.com/image_resources/playerimages/662428.png","Sander Berge (MF)|https://images.fotmob.com/image_resources/playerimages/540963.png","Shea Charles (MF)|https://images.fotmob.com/image_resources/playerimages/1281452.png","Oscar Bobb (FW)|https://images.fotmob.com/image_resources/playerimages/1113790.png","Joshua King (MF)|https://images.fotmob.com/image_resources/playerimages/1422593.png","Alex Iwobi (MF)|https://images.fotmob.com/image_resources/playerimages/604785.png","Gonzalo García (FW)|https://images.fotmob.com/image_resources/playerimages/1413847.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Nuno Espírito Santo|https://images.fotmob.com/image_resources/playerimages/25941.png"
+awayCoach: "Álvaro Arbeloa|https://images.fotmob.com/image_resources/playerimages/37442.png"
+pickWinTeam: "웨스트햄"
+pickWinResult: "승"
+pickHandicapTeam: "웨스트햄"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

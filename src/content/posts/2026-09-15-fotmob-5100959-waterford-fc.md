@@ -1,0 +1,37 @@
+---
+title: "워터퍼드 vs 데리 시티 축구분석·승부예측 (9월 15일) - 픽천국"
+date: 2026-09-14T18:45:00.000Z
+description: "워터퍼드 vs 데리 시티 축구분석: 워터퍼드와 데리 시티 모두 올 시즌 경기당 평균 1.5득점을 기록하며 공격적인 부분에서는 대등한 수치를 보여주고 있습니다. 워… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100959-2026-09-15-waterford-fc"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "워터퍼드"
+awayTeam: "데리 시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6042.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8338.png"
+homeAnalysis: "워터퍼드는 2026시즌 총 21경기에서 6승 8무 7패를 기록하며 평균 득점 1.5점을 유지하고 있습니다. 최근 흐름을 보면 탄탄한 수비 조직력을 바탕으로 패배를 최소화하며 승점을 꾸준히 쌓아가는 중입니다. 특히 홈경기에서 보여주는 경기 운영 능력이 돋보이며, Pádraig Amond와 Tom Lonergan을 활용한 공격 전개는 상대 수비진에게 큰 위협이 되고 있습니다. Graham Coughlan 감독의 지휘 아래 4-4-2 포메이션을 구축하여 중원에서의 점유율 싸움에서 밀리지 않는 안정적인 모습을 보입니다. 시즌 전체적으로 무승부 비율이 다소 높긴 하지만, 최근 패배를 줄이며 상위권 팀들과도 대등한 경기를 펼치고 있어 이번 홈 경기에서도 강한 자신감을 드러낼 것으로 예상됩니다."
+awayAnalysis: "데리 시티는 2026시즌 24경기 동안 7승 8무 9패를 거두며 경기당 평균 1.5득점의 공격력을 보여주고 있습니다. 시즌 중반 다소 기복 있는 모습을 보이기도 했으나, 최근 연승을 포함해 공격 효율이 다시 살아나는 흐름을 보이고 있습니다. 3-4-3 포메이션을 통해 측면 공격을 강화하고 있으며, Michael Duffy와 Tyler Smith의 속도를 앞세운 역습 패턴이 매우 위협적입니다. 비록 수비 집중력 유지라는 숙제가 남아 있지만, 최근 원정 경기에서도 득점을 생산해내는 능력을 입증하며 팀 분위기를 끌어올렸습니다. 경기마다 공격적인 운영을 선호하는 만큼, 이번 원정에서도 물러서지 않고 맞불을 놓을 가능성이 큽니다."
+homePower: "Pádraig Amond 중심의 효율적인 공격 마무리|4-4-2 대형을 통한 중원 수적 우위 확보|최근 5경기 3승 2무로 패배 없는 견고함|안정적인 홈 수비 블록 구축으로 실점 억제|세트피스 상황에서의 제공권 강점 확보"
+awayPower: "Michael Duffy의 측면 돌파를 활용한 공격 전개|3-4-3 포메이션의 유기적인 공수 전환|최근 2경기 연속 승리로 상승세 지속|원정 경기에서도 포기하지 않는 득점 생산력|좌우 풀백의 적극적인 오버래핑 지원"
+h2h: '[{"date":"26.07.04","home":"데리 시티","away":"워터퍼드","score":"2-4","link":"https://pick79.com/posts/detail/analyze-1492726-2026-07-04-derry-city/"},{"date":"26.05.16","home":"워터퍼드","away":"데리 시티","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1492699-2026-05-16-waterford/"},{"date":"26.02.28","home":"데리 시티","away":"워터퍼드","score":"4-2"},{"date":"25.10.18","home":"워터퍼드","away":"데리 시티","score":"1-2"},{"date":"25.07.05","home":"데리 시티","away":"워터퍼드","score":"7-2"}]'
+summary: "워터퍼드와 데리 시티 모두 올 시즌 경기당 평균 1.5득점을 기록하며 공격적인 부분에서는 대등한 수치를 보여주고 있습니다. 워터퍼드는 최근 무패 행진을 이어가는 안정적인 전력을 앞세워 홈에서의 이점을 극대화하려는 의지가 강하며, 데리 시티는 최근 2연승을 통해 팀의 화력이 살아난 상태라 치열한 공방전이 예상됩니다. 상대 전적에서 워터퍼드가 최근 승리를 가져간 경험이 있고 홈에서 균형을 잡는 능력이 탁월하다는 점을 고려할 때, 이번 경기 역시 워터퍼드가 흐름을 주도하며 우위를 점할 가능성이 더 높아 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Sam Glenfield (충돌 부상)|Will Johnson (근육 부상)|Finlay Armstrong (근육 부상)"
+injuryAway: "Carl Winchester (충돌 부상)|Darragh Markey (근육 부상)"
+homeLineup: '["Stephen McMullan (GK)|https://images.fotmob.com/image_resources/playerimages/1420165.png","Hayden Cann (DF)|https://images.fotmob.com/image_resources/playerimages/1194048.png","Kevin Long (DF)|https://images.fotmob.com/image_resources/playerimages/172323.png","John Mahon (DF)|https://images.fotmob.com/image_resources/playerimages/825846.png","Benny Couto (DF)|https://images.fotmob.com/image_resources/playerimages/1293901.png","Jørgen Voilås (MF)|https://images.fotmob.com/image_resources/playerimages/937278.png","Conan Noonan (MF)|https://images.fotmob.com/image_resources/playerimages/1239299.png","Noah Mawéné (MF)|https://images.fotmob.com/image_resources/playerimages/1388067.png","Evan McLaughlin (MF)|https://images.fotmob.com/image_resources/playerimages/1269330.png","Pádraig Amond (FW)|https://images.fotmob.com/image_resources/playerimages/116084.png","Tom Lonergan (FW)|https://images.fotmob.com/image_resources/playerimages/1263510.png"]'
+awayLineup: '["Tom Norcott (GK)|https://images.fotmob.com/image_resources/playerimages/1334827.png","Patrick McClean (DF)|https://images.fotmob.com/image_resources/playerimages/621852.png","Jamie Stott (DF)|https://images.fotmob.com/image_resources/playerimages/789493.png","Cameron Dummigan (MF)|https://images.fotmob.com/image_resources/playerimages/511012.png","Adam O’Reilly (MF)|https://images.fotmob.com/image_resources/playerimages/923219.png","Nick Twisk (MF)|https://images.fotmob.com/image_resources/playerimages/1251660.png","Ellis Chapman (MF)|https://images.fotmob.com/image_resources/playerimages/866704.png","Brandon Fleming (DF)|https://images.fotmob.com/image_resources/playerimages/874606.png","Darragh Burns (FW)|https://images.fotmob.com/image_resources/playerimages/1068592.png","Tyler Smith (FW)|https://images.fotmob.com/image_resources/playerimages/949460.png","Michael Duffy (FW)|https://images.fotmob.com/image_resources/playerimages/335731.png"]'
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "Graham Coughlan|https://images.fotmob.com/image_resources/playerimages/23252.png"
+awayCoach: "Mark Connolly|https://images.fotmob.com/image_resources/playerimages/194134.png"
+pickWinTeam: "워터퍼드"
+pickWinResult: "승"
+pickHandicapTeam: "워터퍼드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

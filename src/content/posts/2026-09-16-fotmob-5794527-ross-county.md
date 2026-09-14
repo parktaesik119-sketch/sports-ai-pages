@@ -1,0 +1,37 @@
+---
+title: "로스 카운티 vs 퀸 오브 더 사우스 축구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-15T18:45:00.000Z
+description: "로스 카운티 vs 퀸 오브 더 사우스 축구분석: 로스 카운티는 이번 시즌 압도적인 득점력을 바탕으로 리그 상위권 수준의 전력을 증명해왔으며 홈에서의 경기 운영 능력이 매우 탁… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5794527-2026-09-16-ross-county"
+category: "soccer"
+country: "스코틀랜드"
+league: "League One"
+homeTeam: "로스 카운티"
+awayTeam: "퀸 오브 더 사우스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8649.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9924.png"
+homeAnalysis: "로스 카운티는 2026시즌 20경기에서 13승 4무 3패를 기록하며 승률 65%의 높은 성과를 거두고 있습니다. 평균 득점 2.5를 기록 중인 공격진은 브라이언 그레이엄을 필두로 매우 파괴적인 득점력을 선보이며 다득점 경기를 주도합니다. 시즌 초중반까지 이어진 연승 행진은 이들의 강력한 홈 전력을 증명하며 경기 운영의 안정감을 더해주었습니다. 최근 2연패로 다소 주춤했으나 홈에서의 압도적인 득점 지원과 스튜어트 케틀웰 감독의 4-2-3-1 전술은 여전히 상대에게 큰 위협이 됩니다. 수비진 역시 안정적인 조직력을 바탕으로 경기를 통제하며 시즌 전반적으로 견고한 흐름을 유지하고 있습니다."
+awayAnalysis: "퀸 오브 더 사우스는 2026시즌 17경기에서 4승 5무 8패를 거두며 다소 기복 있는 흐름을 보이고 있습니다. 평균 득점은 1.1에 머물러 있어 공격적인 세밀함을 보완해야 하는 과제를 안고 있습니다. 최근 리그 일정에서 승점 1점을 챙기는 경우가 잦아졌으나 승리로 매듭짓는 뒷심이 다소 부족한 모습입니다. 원정 경기에서 리암 스미스와 코너 영 등 공격 자원들의 분전이 필요하며 수비의 집중력을 90분 내내 유지하는 것이 중요합니다. 현재 전력은 상대적으로 안정감이 떨어지나 특정 구간에서의 반등 능력을 갖추고 있어 이번 경기에서 얼마나 효율적인 전술을 운용할지가 관건입니다."
+homePower: "브라이언 그레이엄 중심의 강력한 득점 루트 구축|홈에서 평균 2.5득점의 폭발적인 공격 효율|스튜어트 케틀웰 체제의 안정적인 4-2-3-1 전술|최근 패배에도 불구하고 리그 상위권의 득점력 유지|홈 경기장 이점을 활용한 경기 초반 주도권 확보"
+awayPower: "다득점보다는 실점 억제 위주의 수비 지향적 운영|리암 스미스와 코너 영의 역습 전환 속도 개선 필요|최근 무승부 비율 증가로 인한 승리 공식 정립 요구|상대적으로 낮은 평균 득점을 극복할 세트피스 활용|경기 후반부 집중력 강화를 통한 실점 최소화 검증"
+h2h: '[{"date":"25.07.19","home":"퀸 오브 더 사우스","away":"로스 카운티","score":"0-1"},{"date":"19.04.27","home":"로스 카운티","away":"퀸 오브 더 사우스","score":"4-0"},{"date":"19.01.13","home":"퀸 오브 더 사우스","away":"로스 카운티","score":"4-0"},{"date":"18.12.09","home":"로스 카운티","away":"퀸 오브 더 사우스","score":"1-1"},{"date":"18.09.15","home":"퀸 오브 더 사우스","away":"로스 카운티","score":"0-0"}]'
+summary: "로스 카운티는 이번 시즌 압도적인 득점력을 바탕으로 리그 상위권 수준의 전력을 증명해왔으며 홈에서의 경기 운영 능력이 매우 탁월합니다. 퀸 오브 더 사우스는 시즌 내내 기복 있는 경기력을 보이며 득점력 빈곤과 수비 집중력 난조를 동시에 해결해야 하는 과제를 안고 있습니다. 상대전적에서도 로스 카운티가 우위를 점하고 있으며 특히 홈에서 보여주는 다득점 생산 능력은 상대에게 큰 부담으로 작용할 가능성이 높습니다. 이러한 전력 차이와 최근의 공격 지표를 고려할 때 로스 카운티가 경기 주도권을 잡고 우세한 흐름을 이어갈 것으로 예상됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: '["Bradley Foster (GK)|https://images.fotmob.com/image_resources/playerimages/1224159.png","Dylan Smith (DF)|https://images.fotmob.com/image_resources/playerimages/1386378.png","Akil Wright (DF)|https://images.fotmob.com/image_resources/playerimages/621422.png","Lewis Reid (DF)|https://images.fotmob.com/image_resources/playerimages/1395690.png","Lewis Strapp (DF)|https://images.fotmob.com/image_resources/playerimages/714682.png","Jack Turner (MF)|https://images.fotmob.com/image_resources/playerimages/1089760.png","Connor Randall (MF)|https://images.fotmob.com/image_resources/playerimages/611682.png","Luke McCarvel (FW)|https://images.fotmob.com/image_resources/playerimages/1663559.png","Jamie Lindsay (MF)|https://images.fotmob.com/image_resources/playerimages/582498.png","Adam Emslie (MF)|https://images.fotmob.com/image_resources/playerimages/1575658.png","Brian Graham (FW)|https://images.fotmob.com/image_resources/playerimages/95793.png"]'
+awayLineup: '["Deniz Mehmet (GK)|https://images.fotmob.com/image_resources/playerimages/292762.png","Caleb Goldie (DF)|https://images.fotmob.com/image_resources/playerimages/1519693.png","Niall Rogerson (DF)|https://images.fotmob.com/image_resources/playerimages/1603718.png","Shaun Want (DF)|https://images.fotmob.com/image_resources/playerimages/737834.png","Taylor Charters (DF)|https://images.fotmob.com/image_resources/playerimages/1087659.png","Zander MacKenzie (DF)|https://images.fotmob.com/image_resources/playerimages/1389995.png","Aaron Davis (MF)|https://images.fotmob.com/image_resources/playerimages/1797852.png","Liam Smith (FW)|https://images.fotmob.com/image_resources/playerimages/1203662.png","Ben Johnstone (MF)|https://images.fotmob.com/image_resources/playerimages/1386497.png","Cole Coughlin (FW)|https://images.fotmob.com/image_resources/playerimages/1863040.png","Connor Young (FW)|https://images.fotmob.com/image_resources/playerimages/1414125.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Stuart Kettlewell|https://images.fotmob.com/image_resources/playerimages/17620.png"
+awayCoach: ""
+pickWinTeam: "로스 카운티"
+pickWinResult: "승"
+pickHandicapTeam: "로스 카운티"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "3"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
