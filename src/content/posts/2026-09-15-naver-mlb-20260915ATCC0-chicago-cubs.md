@@ -1,0 +1,37 @@
+---
+title: "시카고 컵스 vs 애틀랜타 브레이브스 경기분석·라인업·결장자·통계·승부예측 (9월 15일) | MLB - 픽천국"
+date: 2026-09-14T23:40:00.000Z
+description: "시카고 컵스 vs 애틀랜타 브레이브스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 컵스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "시카고 컵스는 2026시즌 전체 106경기에서 56승 48패, 승률 .538를 기록하며 현재 리그순위 4위에 위치해 있습니다. 최근 9경기에서는 5승 4패의 흐름을 보이며 다소 기복 있는 모습을 나타내고 있습니다. 직전 경기에서 피츠버그 파이리츠에게 패하며 연승 흐름이 끊겼으나, 앞선 경기들에서 보여준 타선의 집중력은 여전히 위협적인 요소입니다. 투수진의 득실 관리 측면에서 799-661의 득실 마진 +138.0은 팀의 탄탄한 공수 밸런스를 증명합니다. 특히 홈 경기장에서 보여주는 운영 능력은 상대에게 큰 압박감을 주기에 충분하며, 이번 경기에서도 안정적인 경기 운영을 통해 흐름을 다시 가져오려 할 것입니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 전체 113경기에서 62승 49패, 승률 .558를 기록하며 현재 리그순위 3위를 유지하고 있습니다. 최근 10경기에서는 5승 5패로 다소 정체된 흐름을 보이고 있으나, 시즌 전체적인 전력은 시카고 컵스보다 한 수 위로 평가됩니다. 득실 마진 +116.0이 보여주듯 안정된 수비력을 바탕으로 경기를 리드하는 능력이 뛰어납니다. 원정 경기에서도 쉽게 무너지지 않는 끈질긴 경기력을 보유하고 있어, 리그 상위권 팀다운 면모를 기대하게 합니다. 최근 타격 사이클이 다소 불안정하지만, 전반적인 전력의 안정성을 바탕으로 승리를 노리고 있습니다."
+homePower: "핵심 투수진의 줄부상으로 인한 마운드 깊이 저하 현상 심화|타선의 득점 생산력은 준수하나 투타 밸런스 불균형 존재|홈구장에서의 강한 응집력으로 역전승 생산 빈도 높음|상위권 팀 상대로도 물러서지 않는 공격적 야구 구사|득실차 지표가 보여주듯 투수진 안정화가 경기 성패의 핵심"
+awayPower: "리그 상위권다운 투수진의 실점 억제 능력 탁월|최근 타격의 기복이 존재하나 득점권 집중력은 여전함|원정 경기에서의 안정적인 경기 운영 방식 정착|상대 팀과의 상대전적 우위를 바탕으로 심리적 우위|다양한 투수 운용을 통한 경기 후반 대응력 강화"
+h2h: '[{"date":"26.05.15","home":"애틀랜타 브레이브스","away":"시카고 컵스","score":"0-2"},{"date":"26.05.14","home":"애틀랜타 브레이브스","away":"시카고 컵스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-178639-2026-05-13-atlanta-braves/"},{"date":"26.05.13","home":"애틀랜타 브레이브스","away":"시카고 컵스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-178639-2026-05-13-atlanta-braves/"}]'
+summary: "시카고 컵스와 애틀랜타 브레이브스는 각각 리그순위 4위와 3위를 기록하며 치열한 상위권 경쟁을 펼치고 있습니다. 시카고 컵스는 홈에서의 강점을 바탕으로 반등을 노리고 있으나, 주요 투수진의 부상 공백이 최근 경기력에 다소 영향을 미치고 있습니다. 반면 애틀랜타 브레이브스는 전반적인 시즌 운영의 안정성에서 우위를 점하고 있으며, 상대전적에서도 2승 1패로 근소하게 앞서 있어 심리적인 자신감을 가지고 경기에 임할 것으로 보입니다. 이번 경기는 양 팀의 투수진이 얼마나 상대 타선을 효과적으로 제어하느냐에 따라 승패가 갈릴 것으로 예상되며, 최근 투타 밸런스에서 보다 안정적인 모습을 보이는 애틀랜타 브레이브스가 경기를 주도하며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.14","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PICC0-2026-09-14-chicago-cubs/"},{"date":"26.09.13","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PICC0-2026-09-13-chicago-cubs/"},{"date":"26.09.12","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"12-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PICC0-2026-09-12-chicago-cubs/"},{"date":"26.09.10","home":"밀워키 브루어스","away":"시카고 컵스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CCMI0-2026-09-10-milwaukee-brewers/"},{"date":"26.09.09","home":"밀워키 브루어스","away":"시카고 컵스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CCMI0-2026-09-09-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"},{"date":"26.09.12","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PHAT0-2026-09-12-atlanta-braves/"},{"date":"26.09.11","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TBAT0-2026-09-11-atlanta-braves/"},{"date":"26.09.10","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TBAT0-2026-09-10-atlanta-braves/"}]'
+injuryHome: "Gavin Hollowell (염증)|Hunter Harvey (골절)|Shelby Miller (수술)|Tyler Austin (수술)|Justin Steele (수술)"
+injuryAway: "Robert Suarez (통증)|Bryce Elder (수술)|Lane Thomas (염좌)|Joe Jimenez (수술)|Spencer Strider (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 브레이브스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 브레이브스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

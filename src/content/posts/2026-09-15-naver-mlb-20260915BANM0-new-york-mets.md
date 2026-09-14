@@ -1,0 +1,37 @@
+---
+title: "뉴욕 메츠 vs 볼티모어 오리올스 경기분석·라인업·결장자·통계·승부예측 (9월 15일) | MLB - 픽천국"
+date: 2026-09-14T23:10:00.000Z
+description: "뉴욕 메츠 vs 볼티모어 오리올스 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260915BANM0-2026-09-15-new-york-mets"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 메츠"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "뉴욕 메츠는 2026시즌 전체 109경기에서 53승 55패를 기록하며 48.6%의 승률과 평균 4.5득점의 준수한 공격력을 보여주고 있습니다. 최근 10경기에서 7승 3패를 거두며 리그순위 13위라는 현재 위치보다 훨씬 강력한 상승세를 입증하고 있습니다. 특히 직전 3연전에서 보여준 화력은 팀의 집중력이 정점에 달해 있음을 시사하며, 투타의 조화가 안정적으로 유지되고 있다는 평가입니다. 부상자 공백에도 불구하고 선수단 전체가 고른 활약을 펼치며 안방에서 매우 위협적인 전력을 구축했습니다. 공격진의 짜임새가 좋아지면서 찬스 메이킹 능력 또한 눈에 띄게 개선된 모습을 보입니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 전체 110경기에서 52승 55패를 기록하며 48.6%의 승률과 평균 4.5득점을 기록하고 있습니다. 리그순위 9위를 유지하고 있으나 최근 10경기에서 3승 7패로 다소 부진한 흐름을 이어가고 있습니다. 득점력 저하와 수비 불안이 동시에 노출되면서 시즌 초중반의 기세를 이어가지 못하는 양상입니다. 투수진의 안정감이 흔들리며 매 경기 실점 관리에 어려움을 겪고 있고, 원정에서의 경기력 기복이 승률을 갉아먹는 주요 원인으로 지목됩니다. 전반적인 분위기 반전을 위한 타선의 대대적인 지원이 절실한 시점입니다."
+homePower: "최근 10경기 평균 7점대 득점력으로 폭발적 화력 과시|리그순위보다 높은 실전 경기력과 집중력 보유|장기 결장자 공백을 메우는 뎁스 경쟁력 확인|홈 이점을 활용한 유기적인 투타 밸런스 유지|매 경기 타선 상위권의 고른 득점 생산력 검증됨"
+awayPower: "최근 10경기 평균 3.7점의 저조한 공격 생산력|수비 안정감 저하로 인한 실점 제어력 약화됨|원정 연전에서 드러난 후반 집중력 부재 현상|투수진의 전반적인 구위 및 이닝 소화력 감소|상위권 도약을 위한 타선의 장타력 부활 필요함"
+h2h: '[]'
+summary: "뉴욕 메츠가 최근 10경기에서 보여준 파괴적인 득점 지원과 투수진의 안정적인 운영은 이번 경기에서 분명한 우위를 점하게 할 요소입니다. 반면 볼티모어 오리올스는 최근 하락세와 함께 원정 경기에서의 투타 밸런스가 무너진 모습이 확연하여 뉴욕 메츠를 상대로 고전할 가능성이 높습니다. 전력의 집중도와 공수 전반의 흐름에서 뉴욕 메츠가 압도적인 모습을 보이고 있어 안방에서 경기를 주도하며 승기를 가져갈 것으로 예상됩니다."
+homeRecent: '[{"date":"26.09.14","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914NMNY0-2026-09-14-new-york-yankees/"},{"date":"26.09.13","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913NMNY0-2026-09-13-new-york-yankees/"},{"date":"26.09.12","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912NMNY0-2026-09-12-new-york-yankees/"},{"date":"26.09.10","home":"마이애미 말린스","away":"뉴욕 메츠","score":"14-15","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910NMFL0-2026-09-10-miami-marlins/"},{"date":"26.09.09","home":"마이애미 말린스","away":"뉴욕 메츠","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909NMFL0-2026-09-09-miami-marlins/"}]'
+awayRecent: '[{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"},{"date":"26.09.13","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913BATO0-2026-09-13-toronto-blue-jays/"},{"date":"26.09.12","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912BATO0-2026-09-12-toronto-blue-jays/"},{"date":"26.09.10","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CLBA0-2026-09-10-baltimore-orioles/"},{"date":"26.09.09","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CLBA0-2026-09-09-baltimore-orioles/"}]'
+injuryHome: "Cionel Perez (Strain)|Devin Williams (Strain)|Jorge Polanco (Surgery)|Reed Garrett (Surgery)|Tylor Megill (Surgery)"
+injuryAway: "Luis Robert Jr. (Soreness)|Christian Franklin (Inflammation)|Blaze Alexander (Soreness)|Ryan Helsley (Inflammation)|Ryan Mountcastle (Strain)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

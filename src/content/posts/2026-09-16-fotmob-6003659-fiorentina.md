@@ -1,0 +1,37 @@
+---
+title: "피오렌티나 vs 피사 경기분석·라인업·결장자·통계·승부예측 (9월 16일) | 코파 이탈리아 - 픽천국"
+date: 2026-09-15T19:00:00.000Z
+description: "피오렌티나 vs 피사 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6003659-2026-09-16-fiorentina"
+category: "soccer"
+country: "이탈리아"
+league: "코파 이탈리아"
+homeTeam: "피오렌티나"
+awayTeam: "피사"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6479.png"
+homeAnalysis: "피오렌티나는 2026시즌 총 17경기에서 6승 6무 5패를 기록하며 승률 35.3%를 나타내고 있고 경기당 평균 1.6득점의 준수한 공격력을 선보이고 있습니다. 파올로 바놀리 감독의 지도 아래 4-3-3 전형을 기반으로 경기를 운영하며 베투와 알리우 은지에가 공격 선봉에서 기회를 창출하는 데 주력하고 있습니다. 최근에는 다소 기복 있는 모습을 보이고 있으나 득점 생산력 자체는 꾸준히 유지되고 있다는 점이 긍정적입니다. 수비진에서는 라두 드라구신과 루카 라니에리가 중심을 잡고 있으나 파비아노 파리시의 부상 이탈로 인해 측면 수비의 안정감을 회복하는 것이 당면 과제입니다. 홈에서 다득점 경기를 연출할 능력을 갖춘 만큼 이번 경기에서도 적극적인 공세로 주도권을 잡으려 할 것으로 보입니다."
+awayAnalysis: "피사는 2026시즌 13경기에서 3승 3무 7패를 거두며 승률 23.1%를 기록 중이며 경기당 평균 1.2득점의 득점력을 보여주고 있습니다. 파올로 비앙코 감독 체제에서 안드레아 페타냐를 최전방에 배치하여 타겟형 스트라이커를 활용한 공격 전술을 구사하고 있습니다. 최근 경기에서 승리와 패배를 반복하며 팀 전력을 재정비하고 있으며 수비 조직력 강화가 중위권 도약을 위한 필수적인 요소로 꼽힙니다. 원정에서는 다소 위축된 흐름을 보일 때가 많지만 마테오 트라모니와 같은 미드필더진의 지원을 통해 반격의 실마리를 찾고자 합니다. 전체적인 시즌 지표는 홈팀에 비해 다소 열세에 있으나 조직적인 압박을 통해 상대의 공세를 차단하며 역습 기회를 노리는 운영이 필요합니다."
+homePower: "전방 베투와 알리우 은지에의 공격 연결성 우수함|파올로 바놀리 감독의 4-3-3 전술 체계 정착됨|파비아노 파리시 결장으로 인한 측면 수비 보완 과제|상대 대비 안정적인 평균 득점력으로 득점 기대치 높음|라두 드라구신의 후방 빌드업 중심 역할 수행 검증됨"
+awayPower: "안드레아 페타냐 중심의 타겟형 공격 전술 구사|파올로 비앙코 감독의 조직적 압박 전술 활용함|원정 경기에서의 수비 집중력 유지 여부가 관건임|마테오 트라모니의 중원 조율 및 공격 지원 핵심|최근 공격 지표의 변동성이 존재하나 득점력 회복 시도 중"
+h2h: '[{"date":"26.02.24","home":"피오렌티나","away":"피사","score":"1-0"},{"date":"25.09.28","home":"피사","away":"피오렌티나","score":"0-0"}]'
+summary: "피오렌티나는 2026시즌 전체적으로 피사보다 안정적인 승점 관리와 높은 득점력을 보여주며 전력상 우위를 점하고 있습니다. 특히 안방에서 경기 주도권을 쥐고 공격을 전개하는 능력이 뛰어나며 상대의 수비 뒷공간을 공략할 자원들이 풍부하다는 점이 이번 경기의 주요 포인트입니다. 피사는 안드레아 페타냐를 활용한 역습으로 맞설 것으로 예상되지만 수비적인 안정감과 전체적인 득점 생산력에서 피오렌티나가 한 수 위인 흐름을 보입니다. 과거 맞대결에서 1승 1무로 앞서 있는 피오렌티나가 홈 이점까지 더해 승기를 잡을 가능성이 높게 평가됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Fabiano Parisi (십자 인대 부상)"
+injuryAway: "없음"
+homeLineup: '["David de Gea (GK)|https://images.fotmob.com/image_resources/playerimages/182917.png","Álex Jiménez (DF)|https://images.fotmob.com/image_resources/playerimages/1526689.png","Radu Drăgușin (DF)|https://images.fotmob.com/image_resources/playerimages/1203661.png","Luca Ranieri (DF)|https://images.fotmob.com/image_resources/playerimages/935406.png","Viery (DF)|https://images.fotmob.com/image_resources/playerimages/1501917.png","Nicolò Fagioli (MF)|https://images.fotmob.com/image_resources/playerimages/951712.png","Cher Ndour (MF)|https://images.fotmob.com/image_resources/playerimages/1246009.png","Arthur Atta (MF)|https://images.fotmob.com/image_resources/playerimages/1428426.png","Franco Mastantuono (FW)|https://images.fotmob.com/image_resources/playerimages/1607566.png","Beto (FW)|https://images.fotmob.com/image_resources/playerimages/1079485.png","Alieu Njie (MF)|https://images.fotmob.com/image_resources/playerimages/1607014.png"]'
+awayLineup: '["Alessandro Confente (GK)|https://images.fotmob.com/image_resources/playerimages/723575.png","Arturo Calabresi (DF)|https://images.fotmob.com/image_resources/playerimages/583659.png","Simone Canestrelli (DF)|https://images.fotmob.com/image_resources/playerimages/897315.png","Francesco Coppola (DF)|https://images.fotmob.com/image_resources/playerimages/1481098.png","Samuele Angori (MF)|https://images.fotmob.com/image_resources/playerimages/1289942.png","İsak Vural (MF)|https://images.fotmob.com/image_resources/playerimages/1400859.png","Giuseppe Leone (MF)|https://images.fotmob.com/image_resources/playerimages/1280172.png","Omar Correia (MF)|https://images.fotmob.com/image_resources/playerimages/1387381.png","Mehdi Léris (MF)|https://images.fotmob.com/image_resources/playerimages/847357.png","Andrea Petagna (FW)|https://images.fotmob.com/image_resources/playerimages/413160.png","Mattéo Tramoni (MF)|https://images.fotmob.com/image_resources/playerimages/864006.png"]'
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Paolo Vanoli|https://images.fotmob.com/image_resources/playerimages/42632.png"
+awayCoach: "Paolo Bianco|https://images.fotmob.com/image_resources/playerimages/39696.png"
+pickWinTeam: "피오렌티나"
+pickWinResult: "승"
+pickHandicapTeam: "피오렌티나"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

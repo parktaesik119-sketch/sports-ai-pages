@@ -1,0 +1,37 @@
+---
+title: "입스위치 타운 vs 아스널 경기분석·라인업·결장자·통계·승부예측 (9월 16일) | EFL Cup - 픽천국"
+date: 2026-09-15T19:00:00.000Z
+description: "입스위치 타운 vs 아스널 경기분석 및 승부예측 입니다. 팀 전력, 선발라인업, 최근 성적, 상대전적(H2H),부상.결장자정보, 경기 통계, 최신 스포츠분석 및 추천 스포츠픽을 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6099332-2026-09-16-ipswich-town"
+category: "soccer"
+country: "잉글랜드"
+league: "EFL Cup"
+homeTeam: "입스위치 타운"
+awayTeam: "아스널"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9902.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png"
+homeAnalysis: "입스위치 타운은 2026시즌 총 24경기에서 9승 5무 10패를 기록하며 승률 37.5%, 평균 득점 1.6점을 기록하고 있습니다. 최근 경기에서 크리스탈 팰리스를 상대로 3대2 승리를 거두는 등 공격적인 흐름을 유지하며 득점 생산에 활력을 더하는 모습입니다. 다만 수비진의 기복으로 인해 실점 상황을 제어하는 능력이 다소 불안하게 나타나고 있습니다. 전술적으로는 4-2-3-1 포메이션을 활용하여 압둘 파타우와 잭 클라크 등 측면 자원의 속도를 적극 활용하는 공격 패턴이 돋보입니다. 홈에서의 경기력을 일정 수준 이상으로 유지하고 있어 이번 경기에서도 전방 압박을 통한 주도권 확보가 중요한 요소로 평가됩니다."
+awayAnalysis: "아스널은 2026시즌 39경기를 치르며 16승 12무 11패를 기록했고 평균 1.3득점의 화력을 보여주고 있습니다. 최근 공식전 3연승을 질주하며 공수 밸런스가 완벽하게 정비된 전력을 과시하고 있습니다. 특히 나폴리와 선덜랜드 등 까다로운 상대를 상대로 연달아 클린시트를 기록하며 수비 안정감이 정점에 도달한 상태입니다. 미켈 아르테타 감독의 지휘 아래 부카요 사카와 마틴 외데가르드가 중심이 된 정교한 공격 전개는 언제든 상대 골문을 위협할 준비가 되어 있습니다. 원정 경기에서도 집중력을 잃지 않고 점유율을 높게 가져가는 경기 운영 능력이 매우 탁월합니다."
+homePower: "전방 압박을 통한 빠른 공격 전환으로 득점력 강화함|측면 자원의 기동력을 살린 4-2-3-1 전술 효율 높음|실점 상황에서 수비 집중력 회복이 핵심 과제로 남음|홈 경기 주도권 확보 시 공격 효율이 극대화되는 경향|잭 클라크 등 2선 자원의 과감한 돌파가 공격 활로 뜀"
+awayPower: "최근 3연승 과정에서 보여준 탄탄한 수비 조직력 돋보임|마틴 외데가르드 중심의 유기적인 빌드업 체계 검증됨|부카요 사카의 개인 기량에 의존한 측면 파괴력 탁월함|원정 경기에서도 점유율을 놓치지 않는 안정적 운영함|상대 압박을 무력화하는 중원 미드필더진의 탈압박 능력"
+h2h: '[{"date":"25.04.20","home":"입스위치 타운","away":"아스널","score":"0-4"},{"date":"24.12.28","home":"아스널","away":"입스위치 타운","score":"1-0"},{"date":"11.01.26","home":"아스널","away":"입스위치 타운","score":"3-0"},{"date":"11.01.13","home":"입스위치 타운","away":"아스널","score":"1-0"}]'
+summary: "입스위치 타운은 최근 공격적인 흐름을 타며 득점력 면에서 고무적인 성과를 내고 있으나, 시즌 전체적인 수비 불안은 여전히 경계해야 할 요소입니다. 반면 아스널은 최근 공식전에서 연승 가도를 달리며 전력의 안정성과 공수 밸런스 면에서 한 수 위의 기량을 선보이고 있습니다. 상대전적에서도 아스널이 우위를 점하고 있으며, 특히 최근 맞대결에서 입스위치 타운을 상대로 압도적인 수비력을 보여준 기억은 원정팀에게 큰 심리적 이점이 될 것으로 보입니다. 전반적인 선수단의 조직력과 경기 운영의 노련함을 고려할 때, 아스널이 이번 경기에서 전력 우위를 바탕으로 승기를 잡을 가능성이 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Emersonn (근육 부상)|Azor Matusiwa (근육 부상)|Jack Taylor (무릎 부상)"
+injuryAway: "Ben White (사타구니 부상)|Cristhian Mosquera (충돌 부상)|William Saliba (등 부상)"
+homeLineup: '["Kjell Scherpen (GK)|https://images.fotmob.com/image_resources/playerimages/796398.png","Dara O’Shea (DF)|https://images.fotmob.com/image_resources/playerimages/789578.png","Issa Diop (DF)|https://images.fotmob.com/image_resources/playerimages/696443.png","Jacob Greaves (DF)|https://images.fotmob.com/image_resources/playerimages/1079103.png","Leif Davis (DF)|https://images.fotmob.com/image_resources/playerimages/980381.png","Saša Lukić (MF)|https://images.fotmob.com/image_resources/playerimages/556972.png","Exequiel Palacios (MF)|https://images.fotmob.com/image_resources/playerimages/693599.png","Abdul Fatawu (FW)|https://images.fotmob.com/image_resources/playerimages/1265626.png","Julio Enciso (MF)|https://images.fotmob.com/image_resources/playerimages/1073742.png","Jack Clarke (FW)|https://images.fotmob.com/image_resources/playerimages/914402.png","Emersonn (FW)|https://images.fotmob.com/image_resources/playerimages/1320949.png"]'
+awayLineup: '["David Raya (GK)|https://images.fotmob.com/image_resources/playerimages/562727.png","Ben White (DF)|https://images.fotmob.com/image_resources/playerimages/776151.png","Ezri Konsa (DF)|https://images.fotmob.com/image_resources/playerimages/710159.png","Gabriel (DF)|https://images.fotmob.com/image_resources/playerimages/795179.png","Riccardo Calafiori (DF)|https://images.fotmob.com/image_resources/playerimages/1105912.png","Declan Rice (MF)|https://images.fotmob.com/image_resources/playerimages/654096.png","Myles Lewis-Skelly (DF)|https://images.fotmob.com/image_resources/playerimages/1406436.png","Bukayo Saka (FW)|https://images.fotmob.com/image_resources/playerimages/961995.png","Martin Ødegaard (MF)|https://images.fotmob.com/image_resources/playerimages/534670.png","Christos Tzolis (FW)|https://images.fotmob.com/image_resources/playerimages/1157237.png","Kai Havertz (FW)|https://images.fotmob.com/image_resources/playerimages/749736.png"]'
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Gary O'Neil|https://images.fotmob.com/image_resources/playerimages/24393.png"
+awayCoach: "Mikel Arteta|https://images.fotmob.com/image_resources/playerimages/24011.png"
+pickWinTeam: "아스널"
+pickWinResult: "승"
+pickHandicapTeam: "아스널"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---
