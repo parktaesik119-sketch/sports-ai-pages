@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.15","home":"신시내티 레즈","away":"LA 다저�
 awayRecent: '[{"date":"26.09.15","home":"신시내티 레즈","away":"LA 다저스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915LACI0-2026-09-15-cincinnati-reds/"},{"date":"26.09.14","home":"마이애미 말린스","away":"LA 다저스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins/"},{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"},{"date":"26.09.10","home":"LA 다저스","away":"신시내티 레즈","score":"14-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CILA0-2026-09-10-los-angeles-dodgers/"}]'
 injuryHome: "Matt McLain (경미)|Spencer Steer (주요)|Michael Toglia (주요)|Blake Dunn (주요)|Hunter Greene (주요)"
 injuryAway: "Freddie Freeman (경미)|Dalton Rushing (주요)|Kris Bubic (주요)|Roki Sasaki (주요)|Edwin Diaz (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Lowder (6-10, 5.81) ERA 5.81|https://a.espncdn.com/i/headshots/mlb/players/full/4758873.png\"]"
+awayLineup: "[\"선발투수 Y. Yamamoto (13-8, 2.62) ERA 2.62|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

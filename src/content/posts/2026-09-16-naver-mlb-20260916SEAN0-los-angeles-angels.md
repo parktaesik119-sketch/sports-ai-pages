@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"워싱턴 내셔널스","away":"LA 에�
 awayRecent: '[{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"},{"date":"26.09.11","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TESE0-2026-09-11-seattle-mariners/"},{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.07","home":"시애틀 매리너스","away":"애슬레틱스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907OASE0-2026-09-07-seattle-mariners/"}]'
 injuryHome: "Nolan Schanuel (Strain)|Sam Bachman (Inflammation)|George Klassen (Inflammation)|Yoan Moncada (Surgery)|Gustavo Campero (Strain)"
 injuryAway: "Brendan Donovan (Concussion)|Brennen Davis (Strain)|Emerson Hancock (Strain)|Will Wilson (Fracture)|Cole Wilcox (Strain)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Y. Kikuchi (1-5, 4.75) ERA 4.75|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\"]"
+awayLineup: "[\"선발투수 G. Kirby (9-11, 4.25) ERA 4.25|https://a.espncdn.com/i/headshots/mlb/players/full/42406.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

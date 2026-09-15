@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"탬파베이 레이스","away":"휴스�
 awayRecent: '[{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"},{"date":"26.09.10","home":"애슬레틱스","away":"토론토 블루제이즈","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TOOA0-2026-09-10-athletics/"},{"date":"26.09.08","home":"애슬레틱스","away":"토론토 블루제이즈","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"},{"date":"26.09.07","home":"시애틀 매리너스","away":"애슬레틱스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907OASE0-2026-09-07-seattle-mariners/"}]'
 injuryHome: "Jake Fraley (수술)|Jonathan Heasley (골절)|Taylor Walls (염좌)|Shane McClanahan (통증)|Garrett Cleavinger (통증)"
 injuryAway: "Brooks Kriske (신경 압박)|Joshua Kuroda-Grauer (수술)|J.T. Ginn (통증)|Gage Jump (신경 압박)|Luis Severino (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Jax (7-10, 3.99) ERA 3.99|https://a.espncdn.com/i/headshots/mlb/players/full/42604.png\"]"
+awayLineup: "[\"선발투수 J. Perkins (3-11, 6.53) ERA 6.53|https://a.espncdn.com/i/headshots/mlb/players/full/4418686.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

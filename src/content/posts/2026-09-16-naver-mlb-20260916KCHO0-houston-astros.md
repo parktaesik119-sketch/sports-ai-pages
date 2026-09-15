@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"탬파베이 레이스","away":"휴스�
 awayRecent: '[{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"},{"date":"26.09.10","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910AZKC0-2026-09-10-kansas-city-royals/"},{"date":"26.09.09","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909AZKC0-2026-09-09-kansas-city-royals/"}]'
 injuryHome: "Brice Matthews (염좌)|Steven Okert (염좌)|Carlos Correa (수술)|Mike Burrows (염증)|Brandon Walter (수술)"
 injuryAway: "Maikel Garcia (염좌)|Tony Gonsolin (수술)|Connor Seabold (염좌)|James McArthur (수술)|Beck Way (없음)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Javier (2-5, 5.50) ERA 5.50|https://a.espncdn.com/i/headshots/mlb/players/full/41261.png\"]"
+awayLineup: "[\"선발투수 D. Lynch IV (5-5, 3.52) ERA 3.52|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

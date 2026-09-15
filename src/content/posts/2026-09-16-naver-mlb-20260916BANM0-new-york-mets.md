@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"뉴욕 양키즈","away":"뉴욕 메츠
 awayRecent: '[{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"},{"date":"26.09.13","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913BATO0-2026-09-13-toronto-blue-jays/"},{"date":"26.09.12","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912BATO0-2026-09-12-toronto-blue-jays/"},{"date":"26.09.10","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CLBA0-2026-09-10-baltimore-orioles/"},{"date":"26.09.09","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CLBA0-2026-09-09-baltimore-orioles/"}]'
 injuryHome: "Cionel Perez (인대 염좌)|Devin Williams (인대 염좌)|Jorge Polanco (수술)|Reed Garrett (수술)|Tylor Megill (수술)"
 injuryAway: "Luis Robert Jr. (통증)|Christian Franklin (염증)|Blaze Alexander (통증)|Ryan Helsley (염증)|Ryan Mountcastle (인대 손상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Manaea (5-7, 4.79) ERA 4.79|https://a.espncdn.com/i/headshots/mlb/players/full/33244.png\"]"
+awayLineup: "[\"선발투수 S. Baz (6-15, 4.05) ERA 4.05|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

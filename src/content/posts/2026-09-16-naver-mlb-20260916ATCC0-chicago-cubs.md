@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"시카고 컵스","away":"피츠버그 
 awayRecent: '[{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"},{"date":"26.09.12","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PHAT0-2026-09-12-atlanta-braves/"},{"date":"26.09.11","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TBAT0-2026-09-11-atlanta-braves/"},{"date":"26.09.10","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TBAT0-2026-09-10-atlanta-braves/"}]'
 injuryHome: "Gavin Hollowell (염증)|Justin Steele (수술)|Hunter Harvey (골절)|Shelby Miller (수술)|Tyler Austin (수술)"
 injuryAway: "Robert Suarez (통증)|Bryce Elder (수술)|Lane Thomas (염좌)|Joe Jimenez (수술)|Spencer Strider (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Gausman (9-12, 4.60) ERA 4.60|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
+awayLineup: "[\"선발투수 M. Perez (8-9, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/31098.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

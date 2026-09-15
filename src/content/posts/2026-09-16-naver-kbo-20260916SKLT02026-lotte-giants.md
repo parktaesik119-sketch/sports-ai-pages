@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.13","home":"KT 위즈","away":"롯데 자이언츠"
 awayRecent: '[{"date":"26.09.11","home":"KIA 타이거즈","away":"SSG 랜더스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911SKHT02026-2026-09-11-kia-tigers/"},{"date":"26.09.10","home":"SSG 랜더스","away":"한화 이글스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910HHSK02026-2026-09-10-ssg-landers/"},{"date":"26.09.09","home":"두산 베어스","away":"SSG 랜더스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909SKOB02026-2026-09-09-doosan-bears/"},{"date":"26.09.08","home":"KT 위즈","away":"SSG 랜더스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908SKKT02026-2026-09-08-kt-wiz-suwon/"},{"date":"26.09.06","home":"SSG 랜더스","away":"두산 베어스","score":"9-16","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906OBSK02026-2026-09-06-ssg-landers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 황성빈 (중견수)\",\"2번 레이예스 (좌익수)\",\"3번 고승민 (2루수)\",\"4번 한동희 (3루수)\",\"5번 전민재 (유격수)\",\"6번 전준우 (지명타자)\",\"7번 나승엽 (1루수)\",\"8번 장두성 (우익수)\",\"9번 박건우 (포수)\"]"
+awayLineup: "[\"1번 안상현 (3루수)\",\"2번 임근우 (좌익수)\",\"3번 박성한 (유격수)\",\"4번 김재환 (지명타자)\",\"5번 전의산 (1루수)\",\"6번 최지훈 (중견수)\",\"7번 채현우 (우익수)\",\"8번 신범수 (포수)\",\"9번 정준재 (2루수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

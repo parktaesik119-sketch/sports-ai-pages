@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"미네소타 트윈스","away":"클리�
 awayRecent: '[{"date":"26.09.14","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914NMNY0-2026-09-14-new-york-yankees/"},{"date":"26.09.13","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913NMNY0-2026-09-13-new-york-yankees/"},{"date":"26.09.12","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912NMNY0-2026-09-12-new-york-yankees/"},{"date":"26.09.11","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911CONY0-2026-09-11-new-york-yankees/"},{"date":"26.09.10","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CONY0-2026-09-10-new-york-yankees/"}]'
 injuryHome: "Trevor Larnach (경미)|Royce Lewis (경미)|Kaelen Culpepper (경미)|Mike Paredes (주요)|Mick Abel (주요)"
 injuryAway: "Clarke Schmidt (주요)|Ryan Weathers (주요)|Fernando Cruz (주요)|Trent Grisham (주요)|Giancarlo Stanton (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Ober (7-5, 4.28) ERA 4.28|https://a.espncdn.com/i/headshots/mlb/players/full/3107919.png\"]"
+awayLineup: "[\"선발투수 M. Fried (4-4, 2.73) ERA 2.73|https://a.espncdn.com/i/headshots/mlb/players/full/32685.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

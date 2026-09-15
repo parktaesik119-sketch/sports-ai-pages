@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.14","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Luis Urias (부상)|Jameson Taillon (부상)|Jonatan Clase (부상)|Trey Yesavage (부상)|Anthony Santander (부상)"
 injuryAway: "Colt Keith (통증)|Parker Meadows (부상)|Kerry Carpenter (부상)|Burch Smith (부상)|Jack Flaherty (부상)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 D. Anderson (4-6, 3.80) ERA 3.80|https://a.espncdn.com/i/headshots/mlb/players/full/41125.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
