@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs SSG 랜더스 야구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-16T09:30:00.000Z
+description: "롯데 자이언츠 vs SSG 랜더스 야구분석: 롯데 자이언츠와 SSG 랜더스는 2026시즌 전반적인 지표에서 비슷한 양상을 보이고 있으나, 최근 맞대결 기록과 홈에서의 이점… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260916SKLT02026-2026-09-16-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "SSG 랜더스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+homeAnalysis: "롯데 자이언츠는 2026시즌 99경기에서 45승 2무 52패를 기록하며 0.464의 승률을 보이고 있습니다. 최근 타선은 경기당 평균 4.0득점 수준의 흐름을 나타내고 있으며 투타 밸런스 회복을 위해 집중력을 발휘하는 중입니다. 고승민과 레이예스 등 핵심 타자들이 상위 타선에서 꾸준한 생산력을 보여주고 있어 공격적인 측면에서 기대를 걸어볼 만합니다. 홈에서의 운영 능력은 시즌 전체를 관통하는 핵심 전력 요소로 작용하고 있습니다. 최근 다소 기복 있는 투구를 보이고 있으나, 충분한 휴식 후 안정적인 경기 운영을 통해 흐름을 반등시키려는 의지가 강하게 보입니다."
+awayAnalysis: "SSG 랜더스는 2026시즌 103경기에서 39승 5무 59패를 기록하며 0.398의 승률을 유지하고 있습니다. 최근 원정 흐름은 경기당 평균 3.9득점 수준으로, 수비진의 집중력에 따라 승패가 크게 갈리는 모습이 잦았습니다. 유격수 박성한을 중심으로 한 수비망이 중심을 잡고 있으며, 김재환이 중심 타선에서 해결사 역할을 수행하며 득점 지원을 이끌어내고 있습니다. 전반적으로 투수진의 소화 이닝을 늘려 불펜 부담을 줄이는 전략이 요구되는 시점입니다. 상대 팀과의 맞대결에서 보여준 수비 패턴을 면밀히 분석하여 이번 원정 길에서 반등의 발판을 마련하고자 합니다."
+homePower: "홈구장에서 타자들의 집중력 향상과 득점권 타율 회복함|레이예스 등 핵심 타자의 중심 타선 파괴력은 검증됨|선발 투수진의 조기 등판 조기 안정화 전략 보임|전반적인 수비 실책 최소화로 경기 후반 운영 안정감 찾음|롯데 자이언츠 특유의 끈질긴 추격전 양상 유지함"
+awayPower: "박성한 중심의 탄탄한 내야 수비 체제 구축됨|최근 하위 타선의 출루율 향상으로 상위 타선 연결력 보임|SSG 랜더스 투수진의 경기 초반 제구력 보완 노력 보임|원정 경기 시 득점 편차를 줄이기 위한 타격 페이스 조절함|기동력을 활용한 베이스 러닝으로 경기 흐름 주도함"
+h2h: '[{"date":"26.08.13","home":"SSG 랜더스","away":"롯데 자이언츠","score":"0-11","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813LTSK02026-2026-08-13-ssg-landers/"},{"date":"26.08.12","home":"SSG 랜더스","away":"롯데 자이언츠","score":"9-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812LTSK02026-2026-08-12-ssg-landers/"},{"date":"26.08.11","home":"SSG 랜더스","away":"롯데 자이언츠","score":"8-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811LTSK02026-2026-08-11-ssg-landers/"},{"date":"26.07.23","home":"롯데 자이언츠","away":"SSG 랜더스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-181886-2026-07-23-lotte-giants/"},{"date":"26.07.22","home":"롯데 자이언츠","away":"SSG 랜더스","score":"3-7","link":"https://pick79.com/posts/detail/analyze-181877-2026-07-22-lotte-giants/"}]'
+summary: "롯데 자이언츠와 SSG 랜더스는 2026시즌 전반적인 지표에서 비슷한 양상을 보이고 있으나, 최근 맞대결 기록과 홈에서의 이점을 고려하면 롯데 자이언츠가 조금 더 안정적인 우위를 점할 것으로 보입니다. 양 팀 모두 타선의 집중력이 경기 승패의 열쇠가 될 것으로 예상되며, 롯데 자이언츠는 레이예스를 중심으로 한 타격 흐름을 살려 초반부터 경기를 주도하려 할 것입니다. SSG 랜더스는 박성한이 이끄는 수비망을 바탕으로 실점을 최소화하며 반격 기회를 노리는 전략이 예상됩니다. 전력 비교 결과, 투타 조화 면에서 조금 더 짜임새 있는 모습을 보인 롯데 자이언츠가 이번 경기에서 주도권을 잡고 경기를 풀어나갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.13","home":"KT 위즈","away":"롯데 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913LTKT02026-2026-09-13-kt-wiz-suwon/"},{"date":"26.09.12","home":"키움 히어로즈","away":"롯데 자이언츠","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912LTWO02026-2026-09-12-kiwoom-heroes/"},{"date":"26.09.11","home":"롯데 자이언츠","away":"KT 위즈","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911KTLT02026-2026-09-11-lotte-giants/"},{"date":"26.09.10","home":"롯데 자이언츠","away":"KT 위즈","score":"3-16","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910KTLT02026-2026-09-10-lotte-giants/"},{"date":"26.09.08","home":"NC 다이노스","away":"롯데 자이언츠","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908LTNC02026-2026-09-08-nc-dinos/"}]'
+awayRecent: '[{"date":"26.09.11","home":"KIA 타이거즈","away":"SSG 랜더스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911SKHT02026-2026-09-11-kia-tigers/"},{"date":"26.09.10","home":"SSG 랜더스","away":"한화 이글스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910HHSK02026-2026-09-10-ssg-landers/"},{"date":"26.09.09","home":"두산 베어스","away":"SSG 랜더스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909SKOB02026-2026-09-09-doosan-bears/"},{"date":"26.09.08","home":"KT 위즈","away":"SSG 랜더스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908SKKT02026-2026-09-08-kt-wiz-suwon/"},{"date":"26.09.06","home":"SSG 랜더스","away":"두산 베어스","score":"9-16","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906OBSK02026-2026-09-06-ssg-landers/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "롯데 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "롯데 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

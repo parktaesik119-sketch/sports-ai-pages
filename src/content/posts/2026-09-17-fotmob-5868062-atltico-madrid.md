@@ -1,0 +1,37 @@
+---
+title: "아틀레티코 마드리드 vs 오사수나 축구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-16T17:00:00.000Z
+description: "아틀레티코 마드리드 vs 오사수나 축구분석: 아틀레티코 마드리드는 시즌 초반 다소 아쉬운 성적을 거두고 있으나, 최근 승리를 통해 분위기 반전에 성공하며 홈에서의 우위를 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868062-2026-09-17-atltico-madrid"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "아틀레티코 마드리드"
+awayTeam: "오사수나"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png"
+homeAnalysis: "아틀레티코 마드리드는 2026시즌 총 15경기에서 3승 3무 9패를 기록하며 다소 기복 있는 흐름을 보이고 있습니다. 최근에는 레알 소시에다드를 상대로 승리를 거두며 반등의 발판을 마련했으나, 전반적인 득점력은 평균 1.1점으로 공격진의 집중력이 요구되는 시점입니다. 디에고 시메오네 감독은 이번 경기에서 이강인과 아데몰라 루크먼을 중심으로 한 공격 전술을 통해 변화를 꾀할 것으로 보입니다. 핵심 공격 자원인 훌리안 알바레스와 알렉산더 쇠를로트의 부재는 전력 누수 요소이나, 얀 오블락이 버티는 수비진의 안정감을 바탕으로 홈 승점 확보를 노리고 있습니다. 홈 팬들 앞에서 경기를 운영하는 만큼 더욱 짜임새 있는 공수 전환이 승패의 분수령이 될 전망입니다."
+awayAnalysis: "오사수나는 2026시즌 13경기에서 6승 1무 6패를 기록하며 승패의 균형을 맞추고 있습니다. 최근 리그 일정에서 다소 주춤한 모습을 보이고 있으나, 시즌 평균 1.3득점을 기록하는 등 공격적인 측면에서는 일정 수준 이상의 경쟁력을 보유하고 있습니다. 루이스 라미스 감독은 안테 부디미르를 필두로 한 전방 압박과 루벤 가르시아의 2선 지원을 통해 상대의 빈틈을 노릴 것으로 예상됩니다. 다만 호르헤 에란도와 아이마르 오로즈 등 주요 선수들의 부상 결장은 원정 전력 운용에 적지 않은 부담으로 작용하고 있습니다. 어려운 원정 환경이지만, 안정적인 수비 밸런스를 구축하여 흐름을 끊어내는 것이 이번 경기의 핵심 과제가 될 것입니다."
+homePower: "이강인과 아데몰라 루크먼의 측면 연계 활용|얀 오블락의 안정감 있는 골문 수비력 유지|전방 부상 자원 공백을 메울 2선 침투 효율|디에고 시메오네의 전술적 변화를 통한 홈 승리|홈 경기 운영의 집중력 강화 필요성 검증됨"
+awayPower: "안테 부디미르의 타겟맨 역할과 마무리 집중력|루이스 라미스 감독의 4-2-3-1 전술 안정화|부상자 발생에 따른 수비 라인 조직력 재정비|상대 진영 압박을 통한 득점 기회 창출 방식|원정 경기에서의 실점 최소화 및 실리 추구"
+h2h: '[{"date":"26.05.13","home":"오사수나","away":"아틀레티코 마드리드","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1391175-2026-05-13-osasuna/"},{"date":"25.10.19","home":"아틀레티코 마드리드","away":"오사수나","score":"1-0"},{"date":"25.05.16","home":"오사수나","away":"아틀레티코 마드리드","score":"2-0"},{"date":"25.01.13","home":"아틀레티코 마드리드","away":"오사수나","score":"1-0"},{"date":"24.05.20","home":"아틀레티코 마드리드","away":"오사수나","score":"1-4"}]'
+summary: "아틀레티코 마드리드는 시즌 초반 다소 아쉬운 성적을 거두고 있으나, 최근 승리를 통해 분위기 반전에 성공하며 홈에서의 우위를 점하고자 합니다. 오사수나 역시 득점력 면에서 꾸준함을 보여주고 있지만, 핵심 자원들의 부상 결장으로 인해 수비 조직력에 우려가 남는 상황입니다. 과거 맞대결에서 아틀레티코 마드리드가 우세한 기록을 남긴 점과 홈 이점을 고려할 때, 조직력을 앞세운 아틀레티코 마드리드가 경기를 주도하며 승리에 가까운 흐름을 가져갈 가능성이 높습니다. 양 팀 모두 전력 누수가 있는 만큼, 누가 더 효율적으로 공격 기회를 살리느냐가 이번 경기의 핵심 포인트가 될 것으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Julián Álvarez (근육 부상)|Alexander Sørloth (근육 부상)"
+injuryAway: "Jorge Herrando (근육 부상)|Valentin Rosier (근육 부상)|Aimar Oroz (햄스트링 부상)|Moi Gómez (근육 부상)"
+homeLineup: '["Jan Oblak (GK)|https://images.fotmob.com/image_resources/playerimages/177126.png","Marcos Llorente (DF)|https://images.fotmob.com/image_resources/playerimages/602563.png","Marc Pubill (DF)|https://images.fotmob.com/image_resources/playerimages/1323897.png","Dávid Hancko (DF)|https://images.fotmob.com/image_resources/playerimages/727897.png","Alejandro Grimaldo (MF)|https://images.fotmob.com/image_resources/playerimages/288406.png","Giuliano Simeone (MF)|https://images.fotmob.com/image_resources/playerimages/1226147.png","Pablo Barrios (MF)|https://images.fotmob.com/image_resources/playerimages/1338192.png","Morten Hjulmand (MF)|https://images.fotmob.com/image_resources/playerimages/950199.png","Ademola Lookman (MF)|https://images.fotmob.com/image_resources/playerimages/690516.png","Kang-In Lee (FW)|https://images.fotmob.com/image_resources/playerimages/940976.png","Álex Baena (MF)|https://images.fotmob.com/image_resources/playerimages/942372.png"]'
+awayLineup: '["Sergio Herrera (GK)|https://images.fotmob.com/image_resources/playerimages/683762.png","Iñigo Arguibide (DF)|https://images.fotmob.com/image_resources/playerimages/1614872.png","Rockson Yeboah (DF)|https://images.fotmob.com/image_resources/playerimages/1603025.png","Alejandro Catena (DF)|https://images.fotmob.com/image_resources/playerimages/814663.png","Diego Rico (DF)|https://images.fotmob.com/image_resources/playerimages/488718.png","Jon Moncayola (MF)|https://images.fotmob.com/image_resources/playerimages/921825.png","Iker Muñoz (MF)|https://images.fotmob.com/image_resources/playerimages/1323863.png","Rubén Garcia (FW)|https://images.fotmob.com/image_resources/playerimages/384413.png","Raúl García (FW)|https://images.fotmob.com/image_resources/playerimages/1094778.png","Enrique Barja (FW)|https://images.fotmob.com/image_resources/playerimages/574624.png","Ante Budimir (FW)|https://images.fotmob.com/image_resources/playerimages/251269.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Diego Simeone|https://images.fotmob.com/image_resources/playerimages/2642.png"
+awayCoach: "Luis Ramis|https://images.fotmob.com/image_resources/playerimages/11549.png"
+pickWinTeam: "아틀레티코 마드리드"
+pickWinResult: "승"
+pickHandicapTeam: "아틀레티코 마드리드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

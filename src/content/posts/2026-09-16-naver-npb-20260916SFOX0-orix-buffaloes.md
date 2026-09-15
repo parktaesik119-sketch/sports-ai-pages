@@ -1,0 +1,37 @@
+---
+title: "오릭스 버팔로스 vs 소프트뱅크 호크스 야구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-16T09:00:00.000Z
+description: "오릭스 버팔로스 vs 소프트뱅크 호크스 야구분석: 소프트뱅크 호크스는 이번 시즌 리그를 지배하는 압도적인 승률과 강력한 타선을 앞세워 이번 경기에서도 확실한 우위를 점할 것으로… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260916SFOX0-2026-09-16-orix-buffaloes"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "오릭스 버팔로스"
+awayTeam: "소프트뱅크 호크스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/OX.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/SF.png"
+homeAnalysis: "오릭스 버팔로스는 2026시즌 105경기에서 47승 56패를 기록하며 4할 중반대의 승률로 다소 고전하는 흐름을 보이고 있습니다. 시즌 평균 득점은 3.4점으로 타선의 집중력 부족이 상위권 도약의 발목을 잡는 핵심 요소로 작용 중입니다. 최근 10경기에서도 4승 6패로 기복 있는 경기력을 드러내고 있으며, 투수진의 실점 억제력이 흔들릴 때 타선의 지원이 뒷받침되지 못하는 상황이 잦습니다. 선발로 나서는 Sean Hjelle가 마운드에서 안정감을 찾아주는 것이 무엇보다 중요하며, 홈에서의 반등을 위해서는 상위 타선의 출루율 향상이 필수적입니다. 전반적인 공수 지표가 시즌 초반보다 하락세를 타고 있어 이번 경기에서의 집중력 있는 운영이 절실합니다."
+awayAnalysis: "소프트뱅크 호크스는 2026시즌 104경기에서 68승 33패라는 압도적인 성적을 거두며 리그 최상위권의 전력을 과시하고 있습니다. 경기당 평균 5.0점의 화력은 리그 내에서도 손꼽히는 수준이며, 투타의 조화가 매우 안정적이라는 평가를 받습니다. 최근 10경기에서 8승 1무 1패라는 경이로운 페이스를 보여주며 기세가 절정에 달해 있습니다. 선발 투수인 Livan Moinelo는 시즌 내내 팀의 든든한 버팀목 역할을 수행해 왔으며, 이번 원정길에서도 높은 기대치를 유지하고 있습니다. 전체적인 투수진의 안정감과 경기 후반까지 이어지는 폭발적인 득점 지원 능력은 소프트뱅크 호크스가 왜 강팀인지를 잘 증명해 주고 있습니다."
+homePower: "홈에서 드러나는 타선 기복 심화|Sean Hjelle 선발 등판 시 긴 이닝 소화가 관건|득점 지원 부재로 투수진 부담 가중됨|상위 타선 침묵 시 전체 득점력 급락함|최근 홈 흐름 회복 위한 돌파구 필요함"
+awayPower: "연승 가도를 달리는 압도적인 팀 전력|Livan Moinelo 마운드 안정감 최상급|득점 생산력 리그 최고 수준으로 유지됨|최근 10경기 무패 흐름으로 기세 최고조|상대전적 우위로 심리적 자신감 충만함"
+h2h: '[{"date":"26.08.30","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"3-6","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830SFOX0-2026-08-30-orix-buffaloes/"},{"date":"26.08.29","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829SFOX0-2026-08-29-orix-buffaloes/"},{"date":"26.08.28","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828SFOX0-2026-08-28-orix-buffaloes/"},{"date":"26.08.23","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"0-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823OXSF0-2026-08-23-fukuoka-s-hawks/"},{"date":"26.08.22","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"7-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260822OXSF0-2026-08-22-fukuoka-s-hawks/"}]'
+summary: "소프트뱅크 호크스는 이번 시즌 리그를 지배하는 압도적인 승률과 강력한 타선을 앞세워 이번 경기에서도 확실한 우위를 점할 것으로 보입니다. 반면 오릭스 버팔로스는 최근 경기에서 보인 타선의 낮은 득점 지원과 마운드의 불안 요소가 소프트뱅크 호크스의 파상공세를 막아내는 데 어려움을 줄 가능성이 높습니다. 객관적인 전력 차이와 최근의 기세, 그리고 투수진의 안정감을 고려할 때 소프트뱅크 호크스가 경기 주도권을 잡고 승리에 다가설 가능성이 매우 높게 평가됩니다."
+homeRecent: '[{"date":"26.09.12","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912RTOX0-2026-09-12-orix-buffaloes/"},{"date":"26.09.11","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911SEOX0-2026-09-11-orix-buffaloes/"},{"date":"26.09.10","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910SEOX0-2026-09-10-orix-buffaloes/"},{"date":"26.09.09","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909SEOX0-2026-09-09-orix-buffaloes/"},{"date":"26.09.08","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260908SEOX0-2026-09-08-orix-buffaloes/"}]'
+awayRecent: '[{"date":"26.09.13","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913JLSF0-2026-09-13-fukuoka-s-hawks/"},{"date":"26.09.12","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912JLSF0-2026-09-12-fukuoka-s-hawks/"},{"date":"26.09.11","home":"소프트뱅크 호크스","away":"지바 롯데 마린스","score":"11-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911JLSF0-2026-09-11-fukuoka-s-hawks/"},{"date":"26.09.10","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910NHSF0-2026-09-10-fukuoka-s-hawks/"},{"date":"26.09.09","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909NHSF0-2026-09-09-fukuoka-s-hawks/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "소프트뱅크 호크스"
+pickWinResult: "승"
+pickHandicapTeam: "소프트뱅크 호크스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

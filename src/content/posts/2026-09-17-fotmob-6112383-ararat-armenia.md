@@ -1,0 +1,37 @@
+---
+title: "아라라트 아르메니아 vs Sparta Prague 축구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-16T16:45:00.000Z
+description: "아라라트 아르메니아 vs Sparta Prague 축구분석: 양 팀의 최근 시즌 전력과 득점 흐름을 살펴보면 스파르타 프라하가 공수 전반에서 아라라트 아르메니아보다 우위를 점하고 있습니다… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6112383-2026-09-17-ararat-armenia"
+category: "soccer"
+country: "국제"
+league: "Europa League"
+homeTeam: "아라라트 아르메니아"
+awayTeam: "Sparta Prague"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/866109.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10247.png"
+homeAnalysis: "아라라트 아르메니아는 이번 유로파 League에서 22경기 동안 9승 4무 9패를 기록하며 승률 40.9%와 평균 득점 1.4점을 기록하고 있습니다. 시즌 전반적으로 기복 있는 성적을 보여주고 있으며, 특히 최근 10경기 흐름에서는 1승 2무 7패로 다소 침체된 경기력을 드러냅니다. 최근 득점력 또한 평균 0.6점으로 급격히 하락하며 공격진의 마무리에 어려움을 겪는 모습입니다. 수비 측면에서도 실점을 제어하지 못하며 전력의 불안정성이 커진 상태입니다. 홈 경기장에서는 안정적인 운영을 시도하고 있으나, 전반적으로 공수 밸런스를 재정비해야 하는 과제를 안고 있습니다."
+awayAnalysis: "스파르타 프라하는 이번 유로파 League에서 9경기를 치르며 4승 1무 4패, 평균 득점 1.8점을 기록하는 준수한 공격력을 선보이고 있습니다. 최근 6경기 성적은 3승 3패로 승패가 엇갈리고 있지만, 경기당 평균 2.0점의 득점력을 유지하며 공격적인 팀 컬러를 증명하고 있습니다. 상위권 팀들과의 대결에서 다소 고전하기도 했지만, 하위 전력을 상대로는 압도적인 득점력을 발휘하며 경기 흐름을 주도하는 능력이 뛰어납니다. 원정 경기에서도 득점에 대한 집중력을 잃지 않는 모습이 고무적입니다. 안정적인 수비보다는 효율적인 공격 전환을 통해 승기를 잡는 전술 운영이 돋보입니다."
+homePower: "홈에서 승부수를 띄우는 공격적인 운영이 특징임|최근 득점력 저하로 인한 경기당 0.6점의 마무리 한계|수비 라인의 집중력 부재가 연패의 주된 원인으로 지목됨|홈 경기장 특유의 전술적 이해도를 활용한 반등 시도가 필요함|상위 전력을 상대로 무승부를 이끌어낸 끈기는 검증됨"
+awayPower: "경기당 2득점 이상의 강력한 공격 전환 속도 보유|다득점 경기를 주도하며 경기의 주도권을 쥐는 운영|주축 선수들의 부상 공백을 메울 로테이션 자원의 역량이 관건|최근 원정 경기에서의 득점 효율성은 높게 평가됨|상대전적 우위를 통한 심리적 안정감이 경기력에 반영될 것임"
+h2h: '[{"date":"25.08.15","home":"아라라트 아르메니아","away":"Sparta Prague","score":"1-2"},{"date":"25.08.08","home":"Sparta Prague","away":"아라라트 아르메니아","score":"4-1"}]'
+summary: "양 팀의 최근 시즌 전력과 득점 흐름을 살펴보면 스파르타 프라하가 공수 전반에서 아라라트 아르메니아보다 우위를 점하고 있습니다. 아라라트 아르메니아는 최근 10경기에서 평균 득점 0.6점에 그치며 극심한 공격 난조를 겪고 있는 반면, 스파르타 프라하는 최근 6경기에서 평균 2.0점을 기록하며 꾸준한 화력을 과시하고 있습니다. 특히 지난 두 차례의 맞대결에서 모두 승리를 거두며 상대 전적에서 확실한 우위를 점하고 있다는 점은 이번 경기에서도 매우 중요한 포인트가 됩니다. 아라라트 아르메니아가 홈에서의 이점을 살려 수비를 견고히 하려 하겠으나, 현재의 득점 효율로는 공격적인 스파르타 프라하의 공세를 감당하기 쉽지 않아 보입니다. 따라서 공격 전력의 파괴력과 최근 맞대결에서의 자신감을 앞세운 스파르타 프라하가 경기의 주도권을 잡고 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.12","home":"아라라트 아르메니아","away":"Syunik","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5972963-2026-09-12-ararat-armenia/"},{"date":"26.09.06","home":"Ararat","away":"아라라트 아르메니아","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5972958-2026-09-06-ararat/"},{"date":"26.09.01","home":"Pyunik","away":"아라라트 아르메니아","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5972953-2026-09-01-pyunik/"},{"date":"26.08.28","home":"아라라트 아르메니아","away":"Univ 크라이오바","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5987968-2026-08-28-ararat-armenia/"},{"date":"26.08.24","home":"아라라트 아르메니아","away":"Sardarapat","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5972947-2026-08-24-ararat-armenia/"}]'
+awayRecent: '[{"date":"26.09.13","home":"Sparta Prague","away":"야블로네츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5831170-2026-09-13-sparta-prague/"},{"date":"26.09.10","home":"Žižkov","away":"Sparta Prague","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6125854-2026-09-10-ikov/"},{"date":"26.09.07","home":"흐라덱 크라로베","away":"Sparta Prague","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5831157-2026-09-07-hradec-krlov/"},{"date":"26.08.31","home":"Sparta Prague","away":"슬라비아 프라하","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5831155-2026-08-31-sparta-prague/"},{"date":"26.08.23","home":"Artis Brno","away":"Sparta Prague","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5943689-2026-08-23-artis-brno/"}]'
+injuryHome: "없음"
+injuryAway: "Adam Sevínsky (부상)|Jakub Martinec (부상)|Sivert Mannsverk (부상)|Uchenna Aririerisim (부상)|Ondřej Penxa (부상)|Magnus Kofod Andersen (십자 인대 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "Sparta Prague"
+pickWinResult: "승"
+pickHandicapTeam: "Sparta Prague"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

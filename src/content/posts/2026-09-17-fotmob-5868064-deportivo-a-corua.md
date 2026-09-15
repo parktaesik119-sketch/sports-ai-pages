@@ -1,0 +1,37 @@
+---
+title: "데포르티보 라코루냐 vs 세비야 축구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-16T17:00:00.000Z
+description: "데포르티보 라코루냐 vs 세비야 축구분석: 데포르티보 라코루냐와 세비야는 시즌 성적에서 나타나듯 서로 다른 방식으로 경기를 풀어나가는 팀들입니다. 데포르티보 라코루냐는 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5868064-2026-09-17-deportivo-a-corua"
+category: "soccer"
+country: "스페인"
+league: "라리가"
+homeTeam: "데포르티보 라코루냐"
+awayTeam: "세비야"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9783.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png"
+homeAnalysis: "데포르티보 라코루냐는 2026시즌 동안 18경기를 치러 6승 8무 4패를 기록하며 안정적인 시즌 운영을 이어가고 있습니다. 최근 경기들에서 무승부가 다소 많은 편이나, 비야레알과 발렌시아를 상대로 승리를 거두며 승점 관리 능력을 입증했습니다. 안토니오 이달고 감독의 지휘 아래 피에르-에메릭 오바메양과 빌 은송고가 투톱으로 출격하여 공격진의 무게감을 더하고 있습니다. 전반적인 득점 평균은 1.2점으로 준수한 편이며 홈 경기에서의 집중력은 상대에게 큰 압박으로 작용합니다. 수비 라인의 안정감 또한 뒷받침되고 있어 이번 홈 경기에서도 탄탄한 전력을 바탕으로 승점을 노릴 것으로 보입니다."
+awayAnalysis: "세비야는 2026시즌 16경기에 나서 8승 2무 6패의 성적을 기록하며 비교적 확실한 승패 구도를 보여주고 있습니다. 최근 발렌시아를 상대로 승리하며 흐름을 회복했고, 루이스 가르시아 감독 체제에서 이삭 로메로와 루카스 스타신을 앞세운 공격 전술이 효율을 내고 있습니다. 원정 경기에서도 득점을 만들어내는 능력이 준수하며 평균 1.1점의 공격력을 바탕으로 경기를 운영합니다. 전력의 기복이 존재하지만, 미드필더진의 유수프 포파나를 중심으로 경기를 조율하는 능력이 돋보입니다. 수비진의 집중력만 유지된다면 원정에서도 충분히 경쟁력 있는 전력을 발휘할 것으로 예상됩니다."
+homePower: "피에르-에메릭 오바메양의 결정력을 앞세운 4-4-2 전술의 안정감|무승부 비율이 높은 만큼 패배를 최소화하는 견고한 운영|홈 경기 시 측면 공격 전개와 세트피스 활용 효율 높음|평균 1점대 초반의 득점력을 유지하며 매 경기 득점 가능|안토니오 이달고 감독의 신뢰를 바탕으로 한 조직적인 중원 압박"
+awayPower: "이삭 로메로와 루카스 스타신의 연계 플레이를 통한 공격 루트 다변화|유수프 포파나 중심의 중원 장악력으로 경기 흐름 제어|승패가 명확한 경기 양상을 보이며 공격적 전술 활용|원정 경기에서의 집중력을 통한 상대 빈틈 공략 능력|루이스 가르시아 감독의 전술 변화를 통한 후반 대응력 강화"
+h2h: '[{"date":"18.04.18","home":"데포르티보 라코루냐","away":"세비야","score":"0-0"},{"date":"17.12.03","home":"세비야","away":"데포르티보 라코루냐","score":"2-0"},{"date":"17.04.09","home":"세비야","away":"데포르티보 라코루냐","score":"4-2"},{"date":"16.11.19","home":"데포르티보 라코루냐","away":"세비야","score":"2-3"},{"date":"16.04.17","home":"세비야","away":"데포르티보 라코루냐","score":"1-1"}]'
+summary: "데포르티보 라코루냐와 세비야는 시즌 성적에서 나타나듯 서로 다른 방식으로 경기를 풀어나가는 팀들입니다. 데포르티보 라코루냐는 8번의 무승부를 기록할 만큼 지지 않는 축구를 구사하며 홈에서의 안정감이 강점이고, 세비야는 승패가 갈리는 경기를 더 많이 만들어내며 공격적인 적극성이 돋보입니다. 상대전적에서 세비야가 다소 우세한 흐름을 보였으나, 최근 2026시즌의 전체적인 전력 지표를 고려할 때 홈팀인 데포르티보 라코루냐가 안방의 이점을 안고 경기를 주도할 가능성이 높습니다. 수비 조직력을 바탕으로 상대 공격을 차단하는 데포르티보 라코루냐가 홈에서 균형을 맞추며 경기를 운영해 나갈 것으로 판단됩니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Noé (근육 부상)"
+injuryAway: "Arouna Sangante (부상)|Rubén Vargas (부상)"
+homeLineup: '["Leo Román (GK)|https://images.fotmob.com/image_resources/playerimages/1187702.png","Ximo Navarro (DF)|https://images.fotmob.com/image_resources/playerimages/260659.png","Lucas Noubi (DF)|https://images.fotmob.com/image_resources/playerimages/1332025.png","José Giménez (DF)|https://images.fotmob.com/image_resources/playerimages/474589.png","Giacomo Quagliata (DF)|https://images.fotmob.com/image_resources/playerimages/1077977.png","Luismi Cruz (MF)|https://images.fotmob.com/image_resources/playerimages/1204447.png","Mario Soriano (MF)|https://images.fotmob.com/image_resources/playerimages/1050828.png","Lorenzo Amatucci (MF)|https://images.fotmob.com/image_resources/playerimages/1425989.png","Riki Rodríguez (MF)|https://images.fotmob.com/image_resources/playerimages/970566.png","Pierre-Emerick Aubameyang (FW)|https://images.fotmob.com/image_resources/playerimages/150565.png","Bil Nsongo (FW)|https://images.fotmob.com/image_resources/playerimages/1690831.png"]'
+awayLineup: '["Odysseas Vlachodimos (GK)|https://images.fotmob.com/image_resources/playerimages/304355.png","Juan Iglesias (DF)|https://images.fotmob.com/image_resources/playerimages/1102289.png","Andrés Lopez (DF)|https://images.fotmob.com/image_resources/playerimages/1334767.png","Kike Salas (DF)|https://images.fotmob.com/image_resources/playerimages/1327489.png","Gabriel Suazo (DF)|https://images.fotmob.com/image_resources/playerimages/659490.png","Miguel Sierra (FW)|https://images.fotmob.com/image_resources/playerimages/1797904.png","Lucien Agoumé (MF)|https://images.fotmob.com/image_resources/playerimages/971790.png","Youssouf Fofana (MF)|https://images.fotmob.com/image_resources/playerimages/954621.png","Félix Correia (FW)|https://images.fotmob.com/image_resources/playerimages/942358.png","Lucas Stassin (FW)|https://images.fotmob.com/image_resources/playerimages/1398377.png","Isaac Romero (FW)|https://images.fotmob.com/image_resources/playerimages/1130991.png"]'
+homeFormation: "4-4-2"
+awayFormation: "4-4-2"
+homeCoach: "Antonio Hidalgo|https://images.fotmob.com/image_resources/playerimages/33832.png"
+awayCoach: "Luis García|https://images.fotmob.com/image_resources/playerimages/242474.png"
+pickWinTeam: "데포르티보 라코루냐"
+pickWinResult: "승"
+pickHandicapTeam: "데포르티보 라코루냐"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

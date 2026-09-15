@@ -1,0 +1,37 @@
+---
+title: "뉴욕 메츠 vs 볼티모어 오리올스 야구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-15T23:10:00.000Z
+description: "뉴욕 메츠 vs 볼티모어 오리올스 야구분석: 뉴욕 메츠는 최근 압도적인 득점력을 바탕으로 리그 내에서도 가장 뜨거운 상승세를 타고 있으며, 경기당 평균 7점이 넘는 타격 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260916BANM0-2026-09-16-new-york-mets"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 메츠"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "뉴욕 메츠는 2026시즌 149경기에서 69승 80패를 기록하며 4할 중반대의 승률을 유지하고 있습니다. 현재 리그순위 13위로 상위권 도약을 노리는 가운데, 최근 10경기에서 7승 3패를 거두며 매우 매서운 상승세를 보여주고 있습니다. 특히 평균 7.6득점에 달하는 압도적인 화력을 앞세워 최근 맞대결 팀들을 상대로 화끈한 공격 야구를 펼치고 있습니다. 주축 선수들의 부상 이탈 속에서도 홈 경기에서의 집중력과 득점 생산 능력이 극대화되어 있어 팀 분위기가 최고조에 달해 있습니다. 수비 불안 요소가 존재하지만 이를 상쇄할 만한 타선의 폭발력이 경기마다 잘 드러나고 있습니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 150경기에서 72승 78패를 기록하며 근소하게 5할 승률에 미치지 못하는 성적을 보입니다. 현재 리그순위 9위에 위치하고 있으나 최근 10경기에서 3승 7패로 극심한 전력 난조를 겪고 있습니다. 시즌 전체 평균 득점은 4.5점으로 안정적이었으나 최근에는 경기당 평균 3.7점의 저조한 화력을 보이며 타선의 침체가 장기화되는 모습입니다. 부상자로 인한 전력 손실이 원정 경기의 부담감과 맞물려 투타 밸런스가 크게 흔들리고 있습니다. 전반적인 팀 흐름이 하향 곡선을 그리고 있어 이번 원정길에서 분위기 반전이 시급한 상황입니다."
+homePower: "매서운 득점 감각을 자랑하는 타선|홈경기 집중력 바탕의 공격 흐름 주도|주요 부상 공백에도 두터운 선수층|최근 상승세를 탄 압도적인 타격 지표|리그순위 이상의 경기력으로 저력 증명"
+awayPower: "하락세가 뚜렷한 최근 경기 결과|최근 10경기 평균 득점 저하의 늪|원정에서의 투타 불균형 현상 심화|핵심 자원 이탈로 인한 전력 약화|반등 모멘텀 마련이 시급한 상황"
+h2h: '[]'
+summary: "뉴욕 메츠는 최근 압도적인 득점력을 바탕으로 리그 내에서도 가장 뜨거운 상승세를 타고 있으며, 경기당 평균 7점이 넘는 타격 집중력을 선보이고 있습니다. 반면 볼티모어 오리올스는 시즌 중반까지 보여주었던 전력보다 최근 들어 경기력이 크게 저하된 상태이며, 특히 원정에서의 타격 침체로 인해 마운드의 부담까지 가중되는 악순환을 겪고 있습니다. 양 팀의 현재 기세를 비교했을 때 홈팀인 뉴욕 메츠가 경기를 주도하며 우위를 점할 가능성이 매우 높으며, 안정적인 화력을 앞세워 흐름을 이어갈 것으로 평가됩니다."
+homeRecent: '[{"date":"26.09.14","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914NMNY0-2026-09-14-new-york-yankees/"},{"date":"26.09.13","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913NMNY0-2026-09-13-new-york-yankees/"},{"date":"26.09.12","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912NMNY0-2026-09-12-new-york-yankees/"},{"date":"26.09.10","home":"마이애미 말린스","away":"뉴욕 메츠","score":"14-15","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910NMFL0-2026-09-10-miami-marlins/"},{"date":"26.09.09","home":"마이애미 말린스","away":"뉴욕 메츠","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909NMFL0-2026-09-09-miami-marlins/"}]'
+awayRecent: '[{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"},{"date":"26.09.13","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913BATO0-2026-09-13-toronto-blue-jays/"},{"date":"26.09.12","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912BATO0-2026-09-12-toronto-blue-jays/"},{"date":"26.09.10","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CLBA0-2026-09-10-baltimore-orioles/"},{"date":"26.09.09","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CLBA0-2026-09-09-baltimore-orioles/"}]'
+injuryHome: "Cionel Perez (인대 염좌)|Devin Williams (인대 염좌)|Jorge Polanco (수술)|Reed Garrett (수술)|Tylor Megill (수술)"
+injuryAway: "Luis Robert Jr. (통증)|Christian Franklin (염증)|Blaze Alexander (통증)|Ryan Helsley (염증)|Ryan Mountcastle (인대 손상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

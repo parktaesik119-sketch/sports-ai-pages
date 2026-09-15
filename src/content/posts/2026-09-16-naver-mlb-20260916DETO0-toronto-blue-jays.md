@@ -1,0 +1,37 @@
+---
+title: "토론토 블루제이즈 vs 디트로이트 타이거즈 야구분석·승부예측 (9월 16일) - 픽천국"
+date: 2026-09-15T23:07:00.000Z
+description: "토론토 블루제이즈 vs 디트로이트 타이거즈 야구분석: 토론토 블루제이즈와 디트로이트 타이거즈는 이번 시즌 팽팽한 흐름을 유지하고 있지만, 최근 전력의 기세 면에서는 디트로이트 타이… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 114경기에서 56승 57패를 기록하며 승률 .491로 현재 리그순위 7위를 유지하고 있습니다. 최근 흐름을 살펴보면 타선이 전반적으로 고른 활약을 펼치며 홈 경기에서 상승세를 타는 모습입니다. 다만 투수진의 기복으로 인해 실점 관리가 승패의 핵심 요소로 작용하고 있습니다. 득실 마진이 -31.0에 머물러 있어 다소 불안한 수비 지표를 노출하고 있으나, 중요한 순간 집중력을 발휘하는 저력을 갖추고 있습니다. 최근 경기에서 보여준 공격적 에너지가 유지된다면 홈에서 더욱 경쟁력 있는 전력을 보여줄 것으로 예상됩니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 110경기에서 54승 55패를 기록하여 승률 .495를 마크하고 있으며, 현재 리그순위 11위에 위치해 있습니다. 최근 10경기에서 7승 3패라는 놀라운 성적을 거두며 팀 전력이 가파른 상승 곡선을 그리고 있습니다. 특히 평균 득점 6.1점을 기록할 만큼 폭발적인 공격력을 앞세워 상대를 압도하는 흐름이 돋보입니다. 시즌 전체 득실 마진 +70.0에서 알 수 있듯 탄탄한 공수 밸런스가 이번 경기에서도 주요 변수로 작용할 전망입니다. 원정임에도 불구하고 최근의 압도적인 공격 전력이 팀의 자신감을 뒷받침하고 있습니다."
+homePower: "홈 경기 시 타선 집중력 향상|평균 대비 높은 최근 득점 생산력|수비 시 실점 관리의 불균형|주요 선수 이탈로 인한 뎁스 약화|시즌 5할 승률 근접한 끈기 보임"
+awayPower: "최근 10경기 7승으로 팀 상승세 정점|폭발적인 공격력의 평균 득점 6.1|득실 마진 +70의 견고한 공수 밸런스|상대 상성 우위를 점한 타격 자신감|원정에서도 굴하지 않는 화력 유지함"
+h2h: '[{"date":"26.05.18","home":"디트로이트 타이거즈","away":"토론토 블루제이즈","score":"1-4","link":"https://pick79.com/posts/detail/analyze-178706-2026-05-18-detroit-tigers/"},{"date":"26.05.17","home":"디트로이트 타이거즈","away":"토론토 블루제이즈","score":"1-2","link":"https://pick79.com/posts/detail/analyze-178691-2026-05-17-detroit-tigers/"},{"date":"26.05.16","home":"디트로이트 타이거즈","away":"토론토 블루제이즈","score":"3-2","link":"https://pick79.com/posts/detail/analyze-178676-2026-05-16-detroit-tigers/"}]'
+summary: "토론토 블루제이즈와 디트로이트 타이거즈는 이번 시즌 팽팽한 흐름을 유지하고 있지만, 최근 전력의 기세 면에서는 디트로이트 타이거즈가 확실한 우위를 점하고 있습니다. 토론토 블루제이즈는 홈에서의 안정적인 운영 능력을 바탕으로 반등을 노리고 있으나, 디트로이트 타이거즈의 압도적인 득점 지원과 최근의 높은 승률을 넘어서기가 쉽지 않아 보입니다. 두 팀의 전반적인 공수 밸런스와 최근의 득점력을 종합적으로 고려했을 때, 화력의 우위를 앞세운 디트로이트 타이거즈가 승리할 가능성이 높다고 판단됩니다."
+homeRecent: '[{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"},{"date":"26.09.13","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913BATO0-2026-09-13-toronto-blue-jays/"},{"date":"26.09.12","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912BATO0-2026-09-12-toronto-blue-jays/"},{"date":"26.09.10","home":"애슬레틱스","away":"토론토 블루제이즈","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TOOA0-2026-09-10-athletics/"},{"date":"26.09.08","home":"애슬레틱스","away":"토론토 블루제이즈","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"}]'
+awayRecent: '[{"date":"26.09.14","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CODE0-2026-09-14-detroit-tigers/"},{"date":"26.09.13","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CODE0-2026-09-13-detroit-tigers/"},{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"},{"date":"26.09.10","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MNDE0-2026-09-10-detroit-tigers/"},{"date":"26.09.09","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909MNDE0-2026-09-09-detroit-tigers/"}]'
+injuryHome: "Luis Urias (부상)|Jameson Taillon (부상)|Jonatan Clase (부상)|Trey Yesavage (부상)|Anthony Santander (부상)"
+injuryAway: "Colt Keith (통증)|Parker Meadows (부상)|Kerry Carpenter (부상)|Burch Smith (부상)|Jack Flaherty (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
