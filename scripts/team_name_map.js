@@ -1154,6 +1154,7 @@ const TEAM_NAME_MAP = {
 
   // 세리에A (브라질) 추가
   "Athletico Paranaense": "아틀레치쿠 파라나엔시",
+  "Atlético-MG": "아틀레치쿠",
   "Bahia": "바이아",
   "Chapecoense-sc": "샤페코엔스",
   "Chapecoense AF": "샤페코엔스",
@@ -1735,6 +1736,18 @@ const TEAM_NAME_MAP = {
   "Pakhtakor Tashkent": "파흐타코르 FK",
   "Al-Sadd": "알사드",
   "Esteghlal": "에스테글랄",
+  
+  //우즈베키스탄
+  "Neftchi Fargona": "FC 네프치 페르가나",
+
+  //홍콩
+  "Kitchee": "킷치 SC",
+
+  //카타르
+  "Al-Gharafa": "알가라파",
+
+  //이라크
+  "Al Quwa Al Jawiya": "알쿠와 알자위야",
 
   //태국
   "Ratchaburi FC": "랏차부리 FC",
@@ -1902,6 +1915,7 @@ const TEAM_NAME_MAP = {
   "Dundela": "던델라",
   "Zorya Luhansk": "조라 루한시크",
   "Celje": "NK 첼레",
+  "NK Celje": "NK 첼레",
   "Neman Grodno": "네만 르로드노",
   "Gomel": "FC 호멜",
   "Sumqayıt": "숨가이트",
@@ -2041,6 +2055,7 @@ const TEAM_NAME_MAP = {
   "Warrenpoint Town": "워렌포인트 타운",
   "Maritimo": "마리타무",
   "Club Brugge": "클리프 브뤼허",
+  "Sparta Prague": "스파르타 프라하",
   
   //중국축구
   "Changchun Yatai": "창춘 야타이",
