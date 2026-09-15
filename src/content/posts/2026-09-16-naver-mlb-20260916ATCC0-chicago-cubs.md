@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"�
 injuryHome: "Gavin Hollowell (염증)|Justin Steele (수술)|Hunter Harvey (골절)|Shelby Miller (수술)|Tyler Austin (수술)"
 injuryAway: "Robert Suarez (통증)|Bryce Elder (수술)|Lane Thomas (염좌)|Joe Jimenez (수술)|Spencer Strider (염증)"
 homeLineup: "[\"선발투수 K. Gausman (9-12, 4.60) ERA 4.60|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
-awayLineup: "[\"선발투수 M. Perez (8-9, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/31098.png\"]"
+awayLineup: "[\"선발투수 M. Perez (8-9, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/31098.png\",\"1번 D. Baldwin (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"2번 R. Acuna Jr. (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/36185.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"5번 M. Dubon (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"6번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"7번 M. Yastrzemski (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"8번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"9번 B. Hicklen (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41378.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
