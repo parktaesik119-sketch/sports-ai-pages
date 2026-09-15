@@ -8,21 +8,6 @@
   "analyze-naver-kbo-20260915LTSS02026-2026-09-15-samsung-lions": {
     "kickoff": "2026-09-15T09:30:00.000Z"
   },
-  "analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs": {
-    "kickoff": "2026-09-14T23:40:00.000Z"
-  },
-  "analyze-naver-mlb-20260915BANM0-2026-09-15-new-york-mets": {
-    "kickoff": "2026-09-14T23:10:00.000Z"
-  },
-  "analyze-naver-mlb-20260915LACI0-2026-09-15-cincinnati-reds": {
-    "kickoff": "2026-09-14T22:40:00.000Z"
-  },
-  "analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins": {
-    "kickoff": "2026-09-14T23:40:00.000Z"
-  },
-  "analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals": {
-    "kickoff": "2026-09-14T23:45:00.000Z"
-  },
   "analyze-naver-npb-20260915JLNH0-2026-09-15-nippon-ham-fighters": {
     "kickoff": "2026-09-15T09:00:00.000Z"
   },
@@ -35,12 +20,6 @@
   "analyze-naver-kbo-20260915HTSK02026-2026-09-15-ssg-landers": {
     "kickoff": "2026-09-15T09:30:00.000Z"
   },
-  "analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks": {
-    "kickoff": "2026-09-15T01:40:00.000Z"
-  },
-  "analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels": {
-    "kickoff": "2026-09-15T01:38:00.000Z"
-  },
   "analyze-naver-npb-20260915HIYA0-2026-09-15-yakult-swallows": {
     "kickoff": "2026-09-15T09:00:00.000Z"
   },
@@ -50,19 +29,61 @@
   "analyze-naver-npb-20260915YOYK0-2026-09-15-yokohama-baystars": {
     "kickoff": "2026-09-15T09:00:00.000Z"
   },
-  "analyze-naver-mlb-20260915CWCL0-2026-09-15-cleveland-guardians": {
-    "kickoff": "2026-09-14T22:40:00.000Z"
+  "analyze-naver-kbo-20260916KTHH02026-2026-09-16-hanwha-eagles": {
+    "kickoff": "2026-09-16T09:30:00.000Z"
   },
-  "analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays": {
-    "kickoff": "2026-09-14T23:07:00.000Z"
+  "analyze-naver-kbo-20260916LGNC02026-2026-09-16-nc-dinos": {
+    "kickoff": "2026-09-16T09:30:00.000Z"
   },
-  "analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies": {
-    "kickoff": "2026-09-15T00:40:00.000Z"
+  "analyze-naver-kbo-20260916SKLT02026-2026-09-16-lotte-giants": {
+    "kickoff": "2026-09-16T09:30:00.000Z"
   },
-  "analyze-fotmob-6050065-2026-09-15-esteghlal": {
-    "kickoff": "2026-09-14T18:15:00.000Z"
+  "analyze-naver-kbo-20260916SSOB02026-2026-09-16-doosan-bears": {
+    "kickoff": "2026-09-16T09:30:00.000Z"
   },
-  "analyze-fotmob-6050068-2026-09-15-al-ahli": {
-    "kickoff": "2026-09-14T18:15:00.000Z"
+  "analyze-naver-mlb-20260916ATCC0-2026-09-16-chicago-cubs": {
+    "kickoff": "2026-09-15T23:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260916BANM0-2026-09-16-new-york-mets": {
+    "kickoff": "2026-09-15T23:10:00.000Z"
+  },
+  "analyze-naver-mlb-20260916BOTE0-2026-09-16-texas-rangers": {
+    "kickoff": "2026-09-16T00:05:00.000Z"
+  },
+  "analyze-naver-mlb-20260916CWCL0-2026-09-16-cleveland-guardians": {
+    "kickoff": "2026-09-15T22:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays": {
+    "kickoff": "2026-09-15T23:07:00.000Z"
+  },
+  "analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks": {
+    "kickoff": "2026-09-16T01:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros": {
+    "kickoff": "2026-09-16T00:10:00.000Z"
+  },
+  "analyze-naver-mlb-20260916LACI0-2026-09-16-cincinnati-reds": {
+    "kickoff": "2026-09-15T22:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates": {
+    "kickoff": "2026-09-15T22:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins": {
+    "kickoff": "2026-09-15T23:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays": {
+    "kickoff": "2026-09-15T22:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals": {
+    "kickoff": "2026-09-15T22:45:00.000Z"
+  },
+  "analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies": {
+    "kickoff": "2026-09-16T00:40:00.000Z"
+  },
+  "analyze-naver-mlb-20260916SEAN0-2026-09-16-los-angeles-angels": {
+    "kickoff": "2026-09-16T01:38:00.000Z"
+  },
+  "analyze-naver-mlb-20260916SFSL0-2026-09-16-st-louis-cardinals": {
+    "kickoff": "2026-09-15T23:45:00.000Z"
   }
 }
