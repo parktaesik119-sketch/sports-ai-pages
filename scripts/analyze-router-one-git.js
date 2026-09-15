@@ -1523,7 +1523,7 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
   // 🔥 명시적 상한을 안 주면 프로바이더 기본값에 걸려 응답이 중간에 잘릴 수 있다.
   // 이 프롬프트는 HOME_ANALYSIS~PICK_EXPECTED_AWAY까지 14개 필드를 다 채워야 하고,
   // PICK_* 필드가 출력 순서상 맨 마지막이라 잘리면 가장 먼저 PICK 쪽이 비게 된다.
-  max_tokens: 4096,
+  max_tokens: 8192,
 
   messages: [
     {
@@ -1645,7 +1645,7 @@ ${gameContext}
     try {
     const retryResponse = await client.chat.completions.create({
   model: "google/gemini-3-flash",
-  max_tokens: 4096, // 🔥 재시도 호출도 동일하게 상한 명시 (본 호출과 동일한 이유)
+  max_tokens: 8192, // 🔥 재시도 호출도 동일하게 상한 명시 (본 호출과 동일한 이유)
 
   messages: [
     {
@@ -1792,6 +1792,15 @@ if (aiText.includes('[가상') || aiText.includes('선수명]') || aiText.includ
 }
 if (!pickWinTeam || !pickHandicapValue) {
   console.error(`❌ [픽 누락] PICK 항목 빈값: ${match.home} | WIN:${pickWinTeam} HANDICAP:${pickHandicapValue}`);
+  return false;
+}
+// 🔥 예상스코어(EXPECTED_HOME/AWAY)는 출력 순서상 맨 마지막 필드라 WIN/HANDICAP은
+// 나왔는데 이것만 잘려서 비는 경우가 있었다 — 이걸 검증 안 하면 조용히 반쪽짜리로
+// 저장돼버려서(축구=예상스코어, 농구·야구=예상스코어 기반 언더오버 계산에 필요) 재시도가 안 걸렸다.
+// 배구·롤은 설계상 PICK_EXPECTED_HOME/AWAY를 "없음"으로 비워 쓰는 게 정상이라 제외한다.
+const EXPECTED_SCORE_REQUIRED_SPORTS = ['soccer', 'hockey', 'basketball', 'baseball'];
+if (EXPECTED_SCORE_REQUIRED_SPORTS.includes(cat) && (!pickExpectedHome || !pickExpectedAway)) {
+  console.error(`❌ [픽 누락] PICK_EXPECTED_HOME/AWAY 빈값 (${cat}): ${match.home} | HOME:${pickExpectedHome} AWAY:${pickExpectedAway}`);
   return false;
 }
 const homeAnalysisSentences = homeAnalysis.split(/(?<=[.!?])\s+/).filter(Boolean).length;
