@@ -8276,6 +8276,11 @@
       ],
       "away": [
         {
+          "name": "Keegan Ancelin",
+          "status": "근육 부상",
+          "detail": "Unknown"
+        },
+        {
           "name": "James Bolger",
           "status": "충돌 부상",
           "detail": "Doubtful"
@@ -16230,7 +16235,7 @@
         {
           "name": "Alexander Sørloth",
           "status": "근육 부상",
-          "detail": "Late September 2026"
+          "detail": "Back in training"
         }
       ],
       "away": [
@@ -18981,12 +18986,12 @@
         "Vitão (DF)|https://images.fotmob.com/image_resources/playerimages/1804861.png",
         "Vitor Hugo (DF)|https://images.fotmob.com/image_resources/playerimages/307070.png",
         "Kauã Pascini (DF)|https://images.fotmob.com/image_resources/playerimages/1895006.png",
-        "Alan Franco (MF)|https://images.fotmob.com/image_resources/playerimages/832171.png",
-        "Kevin Castaño (MF)|https://images.fotmob.com/image_resources/playerimages/1434853.png",
-        "Tomás Cuello (FW)|https://images.fotmob.com/image_resources/playerimages/834605.png",
         "Fred (MF)|https://images.fotmob.com/image_resources/playerimages/322049.png",
-        "Bernard (FW)|https://images.fotmob.com/image_resources/playerimages/265116.png",
-        "Reinier (FW)|https://images.fotmob.com/image_resources/playerimages/1075046.png"
+        "Kevin Castaño (MF)|https://images.fotmob.com/image_resources/playerimages/1434853.png",
+        "Alan Franco (MF)|https://images.fotmob.com/image_resources/playerimages/832171.png",
+        "Tomás Cuello (FW)|https://images.fotmob.com/image_resources/playerimages/834605.png",
+        "Reinier (FW)|https://images.fotmob.com/image_resources/playerimages/1075046.png",
+        "Bernard (FW)|https://images.fotmob.com/image_resources/playerimages/265116.png"
       ],
       "away": [
         "Gabriel Brazão (GK)|https://images.fotmob.com/image_resources/playerimages/982426.png",
@@ -19003,7 +19008,7 @@
       ]
     },
     "formation": {
-      "home": "4-2-3-1",
+      "home": "4-3-3",
       "away": "3-4-2-1"
     },
     "coach": {

@@ -1085,24 +1085,24 @@
     },
     "standings": {
       "home": {
-        "rank": "11",
-        "wins": "70",
+        "rank": "10",
+        "wins": "71",
         "losses": "79",
         "ties": "0",
-        "winPercent": ".470",
-        "gamesBehind": "20",
-        "pointsFor": "666",
-        "pointsAgainst": "596"
+        "winPercent": ".473",
+        "gamesBehind": "19.5",
+        "pointsFor": "672",
+        "pointsAgainst": "601"
       },
       "away": {
         "rank": "15",
         "wins": "55",
-        "losses": "94",
+        "losses": "95",
         "ties": "0",
-        "winPercent": ".369",
-        "gamesBehind": "37.5",
-        "pointsFor": "696",
-        "pointsAgainst": "865"
+        "winPercent": ".367",
+        "gamesBehind": "38",
+        "pointsFor": "703",
+        "pointsAgainst": "873"
       }
     },
     "h2h": {
@@ -1140,17 +1140,17 @@
     "injuries": {
       "home": [
         {
-          "name": "PJ Poulin",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Harry Ford",
           "status": "Day-To-Day",
           "detail": "Soreness"
         },
         {
           "name": "DJ Herz",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "PJ Poulin",
           "status": "60-Day-IL",
           "detail": "Strain"
         },
@@ -1206,13 +1206,13 @@
       },
       "away": {
         "rank": "15",
-        "wins": "56",
+        "wins": "57",
         "losses": "93",
         "ties": "0",
-        "winPercent": ".376",
-        "gamesBehind": "34",
-        "pointsFor": "604",
-        "pointsAgainst": "680"
+        "winPercent": ".380",
+        "gamesBehind": "33.5",
+        "pointsFor": "610",
+        "pointsAgainst": "684"
       }
     },
     "h2h": {
@@ -1306,23 +1306,23 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "86",
+        "wins": "87",
         "losses": "63",
         "ties": "0",
-        "winPercent": ".577",
-        "gamesBehind": "4",
-        "pointsFor": "677",
-        "pointsAgainst": "552"
+        "winPercent": ".580",
+        "gamesBehind": "3.5",
+        "pointsFor": "685",
+        "pointsAgainst": "555"
       },
       "away": {
         "rank": "13",
         "wins": "69",
-        "losses": "80",
+        "losses": "81",
         "ties": "0",
-        "winPercent": ".463",
-        "gamesBehind": "23.5",
-        "pointsFor": "643",
-        "pointsAgainst": "677"
+        "winPercent": ".460",
+        "gamesBehind": "24",
+        "pointsFor": "644",
+        "pointsAgainst": "679"
       }
     },
     "h2h": {
@@ -1389,6 +1389,11 @@
           "detail": "Soreness"
         },
         {
+          "name": "Reynaldo Lopez",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Bryce Elder",
           "status": "15-Day-IL",
           "detail": "Surgery"
@@ -1402,11 +1407,6 @@
           "name": "Joe Jimenez",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Spencer Strider",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
         }
       ],
       "away": [
@@ -1441,12 +1441,12 @@
       "home": {
         "rank": "3",
         "wins": "88",
-        "losses": "62",
+        "losses": "63",
         "ties": "0",
-        "winPercent": ".587",
-        "gamesBehind": "5",
-        "pointsFor": "693",
-        "pointsAgainst": "577"
+        "winPercent": ".583",
+        "gamesBehind": "5.5",
+        "pointsFor": "696",
+        "pointsAgainst": "584"
       },
       "away": {
         "rank": "5",
@@ -1631,22 +1631,22 @@
       "home": {
         "rank": "7",
         "wins": "75",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".500",
-        "gamesBehind": "15.5",
-        "pointsFor": "608",
-        "pointsAgainst": "639"
+        "winPercent": ".497",
+        "gamesBehind": "16",
+        "pointsFor": "613",
+        "pointsAgainst": "645"
       },
       "away": {
         "rank": "9",
-        "wins": "72",
+        "wins": "73",
         "losses": "78",
         "ties": "0",
-        "winPercent": ".480",
-        "gamesBehind": "18.5",
-        "pointsFor": "672",
-        "pointsAgainst": "707"
+        "winPercent": ".483",
+        "gamesBehind": "18",
+        "pointsFor": "674",
+        "pointsAgainst": "708"
       }
     },
     "h2h": {
@@ -1874,6 +1874,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Pete Fairbanks",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Owen Caissie",
           "status": "10-Day-IL",
           "detail": "Soreness"
@@ -1890,11 +1895,6 @@
         },
         {
           "name": "Ronny Henriquez",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Adam Mazur",
           "status": "60-Day-IL",
           "detail": "Surgery"
         }
@@ -1929,14 +1929,14 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "10",
         "wins": "74",
-        "losses": "76",
+        "losses": "77",
         "ties": "0",
-        "winPercent": ".493",
-        "gamesBehind": "19",
-        "pointsFor": "666",
-        "pointsAgainst": "660"
+        "winPercent": ".490",
+        "gamesBehind": "19.5",
+        "pointsFor": "673",
+        "pointsAgainst": "668"
       },
       "away": {
         "rank": "2",
@@ -2225,6 +2225,11 @@
       ],
       "away": [
         {
+          "name": "Angel Martinez",
+          "status": "Day-To-Day",
+          "detail": "Inflammation"
+        },
+        {
           "name": "Colin Holderman",
           "status": "15-Day-IL",
           "detail": "Inflammation"
@@ -2243,24 +2248,24 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "11",
         "wins": "70",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".470",
-        "gamesBehind": "20",
-        "pointsFor": "683",
-        "pointsAgainst": "745"
+        "winPercent": ".467",
+        "gamesBehind": "20.5",
+        "pointsFor": "686",
+        "pointsAgainst": "753"
       },
       "away": {
         "rank": "5",
         "wins": "76",
-        "losses": "74",
+        "losses": "75",
         "ties": "0",
-        "winPercent": ".507",
-        "gamesBehind": "14.5",
-        "pointsFor": "615",
-        "pointsAgainst": "622"
+        "winPercent": ".503",
+        "gamesBehind": "15",
+        "pointsFor": "618",
+        "pointsAgainst": "629"
       }
     },
     "h2h": {
@@ -2405,11 +2410,6 @@
       ],
       "away": [
         {
-          "name": "Tyler Davis",
-          "status": "bereavement",
-          "detail": ""
-        },
-        {
           "name": "Drew Thorpe",
           "status": "60-Day-IL",
           "detail": "Surgery"
@@ -2428,29 +2428,34 @@
           "name": "Tanner Murray",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Joey Bart",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
         }
       ]
     },
     "standings": {
       "home": {
-        "rank": "10",
-        "wins": "74",
+        "rank": "9",
+        "wins": "75",
         "losses": "76",
         "ties": "0",
-        "winPercent": ".493",
-        "gamesBehind": "19",
-        "pointsFor": "683",
-        "pointsAgainst": "690"
+        "winPercent": ".497",
+        "gamesBehind": "18.5",
+        "pointsFor": "685",
+        "pointsAgainst": "691"
       },
       "away": {
         "rank": "4",
-        "wins": "76",
+        "wins": "77",
         "losses": "73",
         "ties": "0",
-        "winPercent": ".510",
-        "gamesBehind": "14",
-        "pointsFor": "695",
-        "pointsAgainst": "661"
+        "winPercent": ".513",
+        "gamesBehind": "13.5",
+        "pointsFor": "702",
+        "pointsAgainst": "664"
       }
     },
     "h2h": {
@@ -2544,13 +2549,13 @@
     "standings": {
       "home": {
         "rank": "4",
-        "wins": "83",
+        "wins": "84",
         "losses": "67",
         "ties": "0",
-        "winPercent": ".553",
-        "gamesBehind": "10",
-        "pointsFor": "799",
-        "pointsAgainst": "661"
+        "winPercent": ".556",
+        "gamesBehind": "9.5",
+        "pointsFor": "806",
+        "pointsAgainst": "664"
       },
       "away": {
         "rank": "8",
@@ -2849,7 +2854,7 @@
           "detail": "Strain"
         },
         {
-          "name": "Emerson Hancock",
+          "name": "Cole Wilcox",
           "status": "15-Day-IL",
           "detail": "Strain"
         },
@@ -2859,7 +2864,7 @@
           "detail": "Fracture"
         },
         {
-          "name": "Cole Wilcox",
+          "name": "Emerson Hancock",
           "status": "15-Day-IL",
           "detail": "Strain"
         }
@@ -2879,12 +2884,12 @@
       "away": {
         "rank": "12",
         "wins": "70",
-        "losses": "80",
+        "losses": "81",
         "ties": "0",
-        "winPercent": ".467",
-        "gamesBehind": "20.5",
-        "pointsFor": "612",
-        "pointsAgainst": "670"
+        "winPercent": ".464",
+        "gamesBehind": "21",
+        "pointsFor": "616",
+        "pointsAgainst": "676"
       }
     },
     "h2h": {
@@ -3058,13 +3063,13 @@
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "79",
+        "wins": "80",
         "losses": "71",
         "ties": "0",
-        "winPercent": ".527",
-        "gamesBehind": "14",
-        "pointsFor": "665",
-        "pointsAgainst": "663"
+        "winPercent": ".530",
+        "gamesBehind": "13.5",
+        "pointsFor": "673",
+        "pointsAgainst": "670"
       },
       "away": {
         "rank": "8",
@@ -3193,22 +3198,22 @@
       "home": {
         "rank": "14",
         "wins": "62",
-        "losses": "88",
+        "losses": "89",
         "ties": "0",
-        "winPercent": ".413",
-        "gamesBehind": "31",
-        "pointsFor": "632",
-        "pointsAgainst": "709"
+        "winPercent": ".411",
+        "gamesBehind": "31.5",
+        "pointsFor": "633",
+        "pointsAgainst": "711"
       },
       "away": {
         "rank": "6",
-        "wins": "81",
+        "wins": "82",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".544",
-        "gamesBehind": "11.5",
-        "pointsFor": "639",
-        "pointsAgainst": "617"
+        "winPercent": ".547",
+        "gamesBehind": "11",
+        "pointsFor": "647",
+        "pointsAgainst": "624"
       }
     },
     "h2h": {
@@ -3326,6 +3331,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Angel Martinez",
+          "status": "Day-To-Day",
+          "detail": "Inflammation"
+        },
+        {
           "name": "Colin Holderman",
           "status": "15-Day-IL",
           "detail": "Inflammation"
@@ -3342,11 +3352,6 @@
         }
       ],
       "away": [
-        {
-          "name": "Tyler Davis",
-          "status": "bereavement",
-          "detail": ""
-        },
         {
           "name": "Drew Thorpe",
           "status": "60-Day-IL",
@@ -3366,6 +3371,11 @@
           "name": "Tanner Murray",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Joey Bart",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
         }
       ]
     },
@@ -3373,27 +3383,27 @@
       "home": {
         "rank": "5",
         "wins": "76",
-        "losses": "74",
+        "losses": "75",
         "ties": "0",
-        "winPercent": ".507",
-        "gamesBehind": "14.5",
-        "pointsFor": "615",
-        "pointsAgainst": "622"
+        "winPercent": ".503",
+        "gamesBehind": "15",
+        "pointsFor": "618",
+        "pointsAgainst": "629"
       },
       "away": {
         "rank": "4",
-        "wins": "76",
+        "wins": "77",
         "losses": "73",
         "ties": "0",
-        "winPercent": ".510",
-        "gamesBehind": "14",
-        "pointsFor": "695",
-        "pointsAgainst": "661"
+        "winPercent": ".513",
+        "gamesBehind": "13.5",
+        "pointsFor": "702",
+        "pointsAgainst": "664"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "CHW lead series 6-4",
+      "text": "CHW lead series 7-4",
       "totalGames": 10,
       "games": [
         {
@@ -3665,27 +3675,27 @@
       "home": {
         "rank": "7",
         "wins": "75",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".500",
-        "gamesBehind": "15.5",
-        "pointsFor": "608",
-        "pointsAgainst": "639"
+        "winPercent": ".497",
+        "gamesBehind": "16",
+        "pointsFor": "613",
+        "pointsAgainst": "645"
       },
       "away": {
-        "rank": "11",
-        "wins": "70",
+        "rank": "10",
+        "wins": "71",
         "losses": "79",
         "ties": "0",
-        "winPercent": ".470",
-        "gamesBehind": "20",
-        "pointsFor": "666",
-        "pointsAgainst": "596"
+        "winPercent": ".473",
+        "gamesBehind": "19.5",
+        "pointsFor": "672",
+        "pointsAgainst": "601"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "TOR leads series 2-1",
+      "text": "Series tied 2-2",
       "totalGames": 3,
       "games": [
         {
@@ -3783,22 +3793,22 @@
       "home": {
         "rank": "13",
         "wins": "69",
-        "losses": "80",
+        "losses": "81",
         "ties": "0",
-        "winPercent": ".463",
-        "gamesBehind": "23.5",
-        "pointsFor": "643",
-        "pointsAgainst": "677"
+        "winPercent": ".460",
+        "gamesBehind": "24",
+        "pointsFor": "644",
+        "pointsAgainst": "679"
       },
       "away": {
         "rank": "9",
-        "wins": "72",
+        "wins": "73",
         "losses": "78",
         "ties": "0",
-        "winPercent": ".480",
-        "gamesBehind": "18.5",
-        "pointsFor": "672",
-        "pointsAgainst": "707"
+        "winPercent": ".483",
+        "gamesBehind": "18",
+        "pointsFor": "674",
+        "pointsAgainst": "708"
       }
     },
     "h2h": null
@@ -3846,6 +3856,11 @@
           "detail": "Soreness"
         },
         {
+          "name": "Reynaldo Lopez",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Bryce Elder",
           "status": "15-Day-IL",
           "detail": "Surgery"
@@ -3859,39 +3874,34 @@
           "name": "Joe Jimenez",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Spencer Strider",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
         }
       ]
     },
     "standings": {
       "home": {
         "rank": "4",
-        "wins": "83",
+        "wins": "84",
         "losses": "67",
         "ties": "0",
-        "winPercent": ".553",
-        "gamesBehind": "10",
-        "pointsFor": "799",
-        "pointsAgainst": "661"
+        "winPercent": ".556",
+        "gamesBehind": "9.5",
+        "pointsFor": "806",
+        "pointsAgainst": "664"
       },
       "away": {
         "rank": "3",
         "wins": "88",
-        "losses": "62",
+        "losses": "63",
         "ties": "0",
-        "winPercent": ".587",
-        "gamesBehind": "5",
-        "pointsFor": "693",
-        "pointsAgainst": "577"
+        "winPercent": ".583",
+        "gamesBehind": "5.5",
+        "pointsFor": "696",
+        "pointsAgainst": "584"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "ATL leads series 2-1",
+      "text": "Series tied 2-2",
       "totalGames": 3,
       "games": [
         {
@@ -3987,29 +3997,29 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "11",
         "wins": "70",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".470",
-        "gamesBehind": "20",
-        "pointsFor": "683",
-        "pointsAgainst": "745"
+        "winPercent": ".467",
+        "gamesBehind": "20.5",
+        "pointsFor": "686",
+        "pointsAgainst": "753"
       },
       "away": {
         "rank": "2",
-        "wins": "86",
+        "wins": "87",
         "losses": "63",
         "ties": "0",
-        "winPercent": ".577",
-        "gamesBehind": "4",
-        "pointsFor": "677",
-        "pointsAgainst": "552"
+        "winPercent": ".580",
+        "gamesBehind": "3.5",
+        "pointsFor": "685",
+        "pointsAgainst": "555"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MIN leads series 2-1",
+      "text": "Series tied 2-2",
       "totalGames": 3,
       "games": [
         {
@@ -4105,29 +4115,29 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
-        "wins": "74",
+        "rank": "9",
+        "wins": "75",
         "losses": "76",
         "ties": "0",
-        "winPercent": ".493",
-        "gamesBehind": "19",
-        "pointsFor": "683",
-        "pointsAgainst": "690"
+        "winPercent": ".497",
+        "gamesBehind": "18.5",
+        "pointsFor": "685",
+        "pointsAgainst": "691"
       },
       "away": {
         "rank": "14",
         "wins": "62",
-        "losses": "88",
+        "losses": "89",
         "ties": "0",
-        "winPercent": ".413",
-        "gamesBehind": "31",
-        "pointsFor": "632",
-        "pointsAgainst": "709"
+        "winPercent": ".411",
+        "gamesBehind": "31.5",
+        "pointsFor": "633",
+        "pointsAgainst": "711"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SF leads series 3-0",
+      "text": "SF leads series 3-1",
       "totalGames": 3,
       "games": [
         {
@@ -4225,27 +4235,27 @@
       "home": {
         "rank": "15",
         "wins": "55",
-        "losses": "94",
+        "losses": "95",
         "ties": "0",
-        "winPercent": ".369",
-        "gamesBehind": "37.5",
-        "pointsFor": "696",
-        "pointsAgainst": "865"
+        "winPercent": ".367",
+        "gamesBehind": "38",
+        "pointsFor": "703",
+        "pointsAgainst": "873"
       },
       "away": {
         "rank": "6",
-        "wins": "81",
+        "wins": "82",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".544",
-        "gamesBehind": "11.5",
-        "pointsFor": "639",
-        "pointsAgainst": "617"
+        "winPercent": ".547",
+        "gamesBehind": "11",
+        "pointsFor": "647",
+        "pointsAgainst": "624"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SD leads series 8-1",
+      "text": "SD leads series 9-1",
       "totalGames": 9,
       "games": [
         {
@@ -4371,7 +4381,7 @@
           "detail": "Strain"
         },
         {
-          "name": "Emerson Hancock",
+          "name": "Cole Wilcox",
           "status": "15-Day-IL",
           "detail": "Strain"
         },
@@ -4381,7 +4391,7 @@
           "detail": "Fracture"
         },
         {
-          "name": "Cole Wilcox",
+          "name": "Emerson Hancock",
           "status": "15-Day-IL",
           "detail": "Strain"
         }
@@ -4390,28 +4400,28 @@
     "standings": {
       "home": {
         "rank": "15",
-        "wins": "56",
+        "wins": "57",
         "losses": "93",
         "ties": "0",
-        "winPercent": ".376",
-        "gamesBehind": "34",
-        "pointsFor": "604",
-        "pointsAgainst": "680"
+        "winPercent": ".380",
+        "gamesBehind": "33.5",
+        "pointsFor": "610",
+        "pointsAgainst": "684"
       },
       "away": {
         "rank": "12",
         "wins": "70",
-        "losses": "80",
+        "losses": "81",
         "ties": "0",
-        "winPercent": ".467",
-        "gamesBehind": "20.5",
-        "pointsFor": "612",
-        "pointsAgainst": "670"
+        "winPercent": ".464",
+        "gamesBehind": "21",
+        "pointsFor": "616",
+        "pointsAgainst": "676"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SEA leads series 4-2",
+      "text": "SEA leads series 4-3",
       "totalGames": 6,
       "games": [
         {
@@ -4503,6 +4513,11 @@
       ],
       "away": [
         {
+          "name": "Pete Fairbanks",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Owen Caissie",
           "status": "10-Day-IL",
           "detail": "Soreness"
@@ -4521,39 +4536,34 @@
           "name": "Ronny Henriquez",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Adam Mazur",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "79",
+        "wins": "80",
         "losses": "71",
         "ties": "0",
-        "winPercent": ".527",
-        "gamesBehind": "14",
-        "pointsFor": "665",
-        "pointsAgainst": "663"
+        "winPercent": ".530",
+        "gamesBehind": "13.5",
+        "pointsFor": "673",
+        "pointsAgainst": "670"
       },
       "away": {
-        "rank": "9",
+        "rank": "10",
         "wins": "74",
-        "losses": "76",
+        "losses": "77",
         "ties": "0",
-        "winPercent": ".493",
-        "gamesBehind": "19",
-        "pointsFor": "666",
-        "pointsAgainst": "660"
+        "winPercent": ".490",
+        "gamesBehind": "19.5",
+        "pointsFor": "673",
+        "pointsAgainst": "668"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MIA leads series 3-0",
+      "text": "MIA leads series 3-1",
       "totalGames": 3,
       "games": [
         {
@@ -4594,6 +4604,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Angel Martinez",
+          "status": "Day-To-Day",
+          "detail": "Inflammation"
+        },
+        {
           "name": "Colin Holderman",
           "status": "15-Day-IL",
           "detail": "Inflammation"
@@ -4610,11 +4625,6 @@
         }
       ],
       "away": [
-        {
-          "name": "Tyler Davis",
-          "status": "bereavement",
-          "detail": ""
-        },
         {
           "name": "Drew Thorpe",
           "status": "60-Day-IL",
@@ -4634,6 +4644,11 @@
           "name": "Tanner Murray",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Joey Bart",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
         }
       ]
     },
@@ -4641,28 +4656,28 @@
       "home": {
         "rank": "5",
         "wins": "76",
-        "losses": "74",
+        "losses": "75",
         "ties": "0",
-        "winPercent": ".507",
-        "gamesBehind": "14.5",
-        "pointsFor": "615",
-        "pointsAgainst": "622"
+        "winPercent": ".503",
+        "gamesBehind": "15",
+        "pointsFor": "618",
+        "pointsAgainst": "629"
       },
       "away": {
         "rank": "4",
-        "wins": "76",
+        "wins": "77",
         "losses": "73",
         "ties": "0",
-        "winPercent": ".510",
-        "gamesBehind": "14",
-        "pointsFor": "695",
-        "pointsAgainst": "661"
+        "winPercent": ".513",
+        "gamesBehind": "13.5",
+        "pointsFor": "702",
+        "pointsAgainst": "664"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "CHW lead series 6-4",
-      "totalGames": 10,
+      "text": "CHW lead series 7-4",
+      "totalGames": 11,
       "games": [
         {
           "date": "2026-06-22T23:40:00Z",
@@ -4742,6 +4757,14 @@
           "away": "Cleveland Guardians",
           "homeScore": 5,
           "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-14T22:40:00Z",
+          "home": "Cleveland Guardians",
+          "away": "Chicago White Sox",
+          "homeScore": 3,
+          "awayScore": 7,
           "isCompleted": true
         }
       ]
@@ -5184,17 +5207,17 @@
     "injuries": {
       "home": [
         {
-          "name": "PJ Poulin",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Harry Ford",
           "status": "Day-To-Day",
           "detail": "Soreness"
         },
         {
           "name": "DJ Herz",
+          "status": "60-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "PJ Poulin",
           "status": "60-Day-IL",
           "detail": "Strain"
         },
@@ -5423,28 +5446,28 @@
       "home": {
         "rank": "7",
         "wins": "75",
-        "losses": "75",
+        "losses": "76",
         "ties": "0",
-        "winPercent": ".500",
-        "gamesBehind": "15.5",
-        "pointsFor": "608",
-        "pointsAgainst": "639"
+        "winPercent": ".497",
+        "gamesBehind": "16",
+        "pointsFor": "613",
+        "pointsAgainst": "645"
       },
       "away": {
-        "rank": "11",
-        "wins": "70",
+        "rank": "10",
+        "wins": "71",
         "losses": "79",
         "ties": "0",
-        "winPercent": ".470",
-        "gamesBehind": "20",
-        "pointsFor": "666",
-        "pointsAgainst": "596"
+        "winPercent": ".473",
+        "gamesBehind": "19.5",
+        "pointsFor": "672",
+        "pointsAgainst": "601"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "TOR leads series 2-1",
-      "totalGames": 3,
+      "text": "Series tied 2-2",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-05-15T22:40:00Z",
@@ -5468,6 +5491,14 @@
           "away": "Toronto Blue Jays",
           "homeScore": 1,
           "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-14T23:07:00Z",
+          "home": "Toronto Blue Jays",
+          "away": "Detroit Tigers",
+          "homeScore": 5,
+          "awayScore": 6,
           "isCompleted": true
         }
       ]
@@ -5541,25 +5572,39 @@
       "home": {
         "rank": "13",
         "wins": "69",
-        "losses": "80",
+        "losses": "81",
         "ties": "0",
-        "winPercent": ".463",
-        "gamesBehind": "23.5",
-        "pointsFor": "643",
-        "pointsAgainst": "677"
+        "winPercent": ".460",
+        "gamesBehind": "24",
+        "pointsFor": "644",
+        "pointsAgainst": "679"
       },
       "away": {
         "rank": "9",
-        "wins": "72",
+        "wins": "73",
         "losses": "78",
         "ties": "0",
-        "winPercent": ".480",
-        "gamesBehind": "18.5",
-        "pointsFor": "672",
-        "pointsAgainst": "707"
+        "winPercent": ".483",
+        "gamesBehind": "18",
+        "pointsFor": "674",
+        "pointsAgainst": "708"
       }
     },
-    "h2h": null
+    "h2h": {
+      "source": "seasonseries",
+      "text": "BAL leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-09-14T23:10:00Z",
+          "home": "New York Mets",
+          "away": "Baltimore Orioles",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
   },
   {
     "home": "Chicago Cubs",
@@ -5604,6 +5649,11 @@
           "detail": "Soreness"
         },
         {
+          "name": "Reynaldo Lopez",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Bryce Elder",
           "status": "15-Day-IL",
           "detail": "Surgery"
@@ -5617,40 +5667,35 @@
           "name": "Joe Jimenez",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Spencer Strider",
-          "status": "60-Day-IL",
-          "detail": "Inflammation"
         }
       ]
     },
     "standings": {
       "home": {
         "rank": "4",
-        "wins": "83",
+        "wins": "84",
         "losses": "67",
         "ties": "0",
-        "winPercent": ".553",
-        "gamesBehind": "10",
-        "pointsFor": "799",
-        "pointsAgainst": "661"
+        "winPercent": ".556",
+        "gamesBehind": "9.5",
+        "pointsFor": "806",
+        "pointsAgainst": "664"
       },
       "away": {
         "rank": "3",
         "wins": "88",
-        "losses": "62",
+        "losses": "63",
         "ties": "0",
-        "winPercent": ".587",
-        "gamesBehind": "5",
-        "pointsFor": "693",
-        "pointsAgainst": "577"
+        "winPercent": ".583",
+        "gamesBehind": "5.5",
+        "pointsFor": "696",
+        "pointsAgainst": "584"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "ATL leads series 2-1",
-      "totalGames": 3,
+      "text": "Series tied 2-2",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-05-12T23:15:00Z",
@@ -5674,6 +5719,14 @@
           "away": "Chicago Cubs",
           "homeScore": 0,
           "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-14T23:40:00Z",
+          "home": "Chicago Cubs",
+          "away": "Atlanta Braves",
+          "homeScore": 7,
+          "awayScore": 3,
           "isCompleted": true
         }
       ]
@@ -5745,30 +5798,30 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "11",
         "wins": "70",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".470",
-        "gamesBehind": "20",
-        "pointsFor": "683",
-        "pointsAgainst": "745"
+        "winPercent": ".467",
+        "gamesBehind": "20.5",
+        "pointsFor": "686",
+        "pointsAgainst": "753"
       },
       "away": {
         "rank": "2",
-        "wins": "86",
+        "wins": "87",
         "losses": "63",
         "ties": "0",
-        "winPercent": ".577",
-        "gamesBehind": "4",
-        "pointsFor": "677",
-        "pointsAgainst": "552"
+        "winPercent": ".580",
+        "gamesBehind": "3.5",
+        "pointsFor": "685",
+        "pointsAgainst": "555"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MIN leads series 2-1",
-      "totalGames": 3,
+      "text": "Series tied 2-2",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-07-03T23:05:00Z",
@@ -5792,6 +5845,14 @@
           "away": "Minnesota Twins",
           "homeScore": 1,
           "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-14T23:40:00Z",
+          "home": "Minnesota Twins",
+          "away": "New York Yankees",
+          "homeScore": 3,
+          "awayScore": 8,
           "isCompleted": true
         }
       ]
@@ -5863,30 +5924,30 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
-        "wins": "74",
+        "rank": "9",
+        "wins": "75",
         "losses": "76",
         "ties": "0",
-        "winPercent": ".493",
-        "gamesBehind": "19",
-        "pointsFor": "683",
-        "pointsAgainst": "690"
+        "winPercent": ".497",
+        "gamesBehind": "18.5",
+        "pointsFor": "685",
+        "pointsAgainst": "691"
       },
       "away": {
         "rank": "14",
         "wins": "62",
-        "losses": "88",
+        "losses": "89",
         "ties": "0",
-        "winPercent": ".413",
-        "gamesBehind": "31",
-        "pointsFor": "632",
-        "pointsAgainst": "709"
+        "winPercent": ".411",
+        "gamesBehind": "31.5",
+        "pointsFor": "633",
+        "pointsAgainst": "711"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SF leads series 3-0",
-      "totalGames": 3,
+      "text": "SF leads series 3-1",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-09-08T00:10:00Z",
@@ -5910,6 +5971,14 @@
           "away": "St. Louis Cardinals",
           "homeScore": 7,
           "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-14T23:45:00Z",
+          "home": "St. Louis Cardinals",
+          "away": "San Francisco Giants",
+          "homeScore": 2,
+          "awayScore": 1,
           "isCompleted": true
         }
       ]
@@ -6219,28 +6288,28 @@
       "home": {
         "rank": "15",
         "wins": "55",
-        "losses": "94",
+        "losses": "95",
         "ties": "0",
-        "winPercent": ".369",
-        "gamesBehind": "37.5",
-        "pointsFor": "696",
-        "pointsAgainst": "865"
+        "winPercent": ".367",
+        "gamesBehind": "38",
+        "pointsFor": "703",
+        "pointsAgainst": "873"
       },
       "away": {
         "rank": "6",
-        "wins": "81",
+        "wins": "82",
         "losses": "68",
         "ties": "0",
-        "winPercent": ".544",
-        "gamesBehind": "11.5",
-        "pointsFor": "639",
-        "pointsAgainst": "617"
+        "winPercent": ".547",
+        "gamesBehind": "11",
+        "pointsFor": "647",
+        "pointsAgainst": "624"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SD leads series 8-1",
-      "totalGames": 9,
+      "text": "SD leads series 9-1",
+      "totalGames": 10,
       "games": [
         {
           "date": "2026-04-10T01:40:00Z",
@@ -6313,6 +6382,14 @@
           "homeScore": 3,
           "awayScore": 1,
           "isCompleted": true
+        },
+        {
+          "date": "2026-09-15T00:40:00Z",
+          "home": "Colorado Rockies",
+          "away": "San Diego Padres",
+          "homeScore": 7,
+          "awayScore": 8,
+          "isCompleted": true
         }
       ]
     }
@@ -6365,7 +6442,7 @@
           "detail": "Strain"
         },
         {
-          "name": "Emerson Hancock",
+          "name": "Cole Wilcox",
           "status": "15-Day-IL",
           "detail": "Strain"
         },
@@ -6375,7 +6452,7 @@
           "detail": "Fracture"
         },
         {
-          "name": "Cole Wilcox",
+          "name": "Emerson Hancock",
           "status": "15-Day-IL",
           "detail": "Strain"
         }
@@ -6384,29 +6461,29 @@
     "standings": {
       "home": {
         "rank": "15",
-        "wins": "56",
+        "wins": "57",
         "losses": "93",
         "ties": "0",
-        "winPercent": ".376",
-        "gamesBehind": "34",
-        "pointsFor": "604",
-        "pointsAgainst": "680"
+        "winPercent": ".380",
+        "gamesBehind": "33.5",
+        "pointsFor": "610",
+        "pointsAgainst": "684"
       },
       "away": {
         "rank": "12",
         "wins": "70",
-        "losses": "80",
+        "losses": "81",
         "ties": "0",
-        "winPercent": ".467",
-        "gamesBehind": "20.5",
-        "pointsFor": "612",
-        "pointsAgainst": "670"
+        "winPercent": ".464",
+        "gamesBehind": "21",
+        "pointsFor": "616",
+        "pointsAgainst": "676"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SEA leads series 4-2",
-      "totalGames": 6,
+      "text": "SEA leads series 4-3",
+      "totalGames": 7,
       "games": [
         {
           "date": "2026-04-04T01:38:00Z",
@@ -6455,6 +6532,14 @@
           "homeScore": 1,
           "awayScore": 0,
           "isCompleted": true
+        },
+        {
+          "date": "2026-09-15T01:38:00Z",
+          "home": "Los Angeles Angels",
+          "away": "Seattle Mariners",
+          "homeScore": 6,
+          "awayScore": 4,
+          "isCompleted": true
         }
       ]
     }
@@ -6497,6 +6582,11 @@
       ],
       "away": [
         {
+          "name": "Pete Fairbanks",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Owen Caissie",
           "status": "10-Day-IL",
           "detail": "Soreness"
@@ -6515,40 +6605,35 @@
           "name": "Ronny Henriquez",
           "status": "60-Day-IL",
           "detail": "Surgery"
-        },
-        {
-          "name": "Adam Mazur",
-          "status": "60-Day-IL",
-          "detail": "Surgery"
         }
       ]
     },
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "79",
+        "wins": "80",
         "losses": "71",
         "ties": "0",
-        "winPercent": ".527",
-        "gamesBehind": "14",
-        "pointsFor": "665",
-        "pointsAgainst": "663"
+        "winPercent": ".530",
+        "gamesBehind": "13.5",
+        "pointsFor": "673",
+        "pointsAgainst": "670"
       },
       "away": {
-        "rank": "9",
+        "rank": "10",
         "wins": "74",
-        "losses": "76",
+        "losses": "77",
         "ties": "0",
-        "winPercent": ".493",
-        "gamesBehind": "19",
-        "pointsFor": "666",
-        "pointsAgainst": "660"
+        "winPercent": ".490",
+        "gamesBehind": "19.5",
+        "pointsFor": "673",
+        "pointsAgainst": "668"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "MIA leads series 3-0",
-      "totalGames": 3,
+      "text": "MIA leads series 3-1",
+      "totalGames": 4,
       "games": [
         {
           "date": "2026-06-09T22:40:00Z",
@@ -6572,6 +6657,14 @@
           "away": "Arizona Diamondbacks",
           "homeScore": 2,
           "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-15T01:40:00Z",
+          "home": "Arizona Diamondbacks",
+          "away": "Miami Marlins",
+          "homeScore": 8,
+          "awayScore": 7,
           "isCompleted": true
         }
       ]
