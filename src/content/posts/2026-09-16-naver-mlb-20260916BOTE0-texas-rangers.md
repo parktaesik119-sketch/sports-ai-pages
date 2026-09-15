@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.14","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"},{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"}]'
 injuryHome: "Joc Pederson (경미)|Kyle Higashioka (주요)|Cole Winn (주요)|Peyton Gray (주요)|Carter Baumler (주요)"
 injuryAway: "Ceddanne Rafaela (주요)|Tyron Guerrero (주요)|Tanner Houck (주요)|Johan Oviedo (주요)|Garrett Crochet (주요)"
-homeLineup: "[\"선발투수 J. deGrom (10-9, 3.80) ERA 3.80|https://a.espncdn.com/i/headshots/mlb/players/full/32796.png\"]"
+homeLineup: "[\"선발투수 M. Gore (8-11, 4.62) ERA 4.62|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
 awayLineup: "[\"선발투수 J. Bennett (9-7, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/4654024.png\"]"
 homeFormation: ""
 awayFormation: ""

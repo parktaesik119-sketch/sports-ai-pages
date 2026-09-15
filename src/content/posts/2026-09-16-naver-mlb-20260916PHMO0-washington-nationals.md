@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"�
 injuryHome: "PJ Poulin (근육 염좌)|Harry Ford (통증)|DJ Herz (근육 염좌)|Connelly Early (염증)|Orlando Ribalta (염증)"
 injuryAway: "Jesus Luzardo (염증)|Caleb Kilian (근육 염좌)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
 homeLineup: "[\"선발투수 J. Kent (1-4, 6.59) ERA 6.59|https://a.espncdn.com/i/headshots/mlb/players/full/5007807.png\"]"
-awayLineup: "[\"선발투수 C. Sanchez (17-5, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+awayLineup: "[\"선발투수 C. Sanchez (17-5, 2.79) ERA 2.79|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\",\"1번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"2번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"3번 B. Harper (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"5번 A. Bohm (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"6번 B. De La Cruz (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40787.png\",\"7번 B. Stott (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"8번 J.T. Realmuto (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32177.png\",\"9번 D. Hill (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/33721.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
