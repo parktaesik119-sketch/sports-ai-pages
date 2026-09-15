@@ -20,10 +20,10 @@ homeRecent: '[{"date":"26.09.11","home":"조호르 FC","away":"Negeri Sembilan",
 awayRecent: "[{\"date\":\"26.09.11\",\"home\":\"Buriram United\",\"away\":\"Chiangrai United\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.09.06\",\"home\":\"Sukhothai FC\",\"away\":\"Buriram United\",\"score\":\"1-3\",\"result\":\"🟢승\"},{\"date\":\"26.05.10\",\"home\":\"Buriram United\",\"away\":\"Lamphun Warrior\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.05.02\",\"home\":\"Port FC\",\"away\":\"Buriram United\",\"score\":\"3-1\",\"result\":\"🔴패\"},{\"date\":\"26.04.29\",\"home\":\"Rayong FC\",\"away\":\"Buriram United\",\"score\":\"3-0\",\"result\":\"🔴패\"}]"
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
+homeLineup: "[\"Ahmad Hazmi (GK)|https://images.fotmob.com/image_resources/playerimages/1285125.png\",\"Cristian Glauder (DF)|https://images.fotmob.com/image_resources/playerimages/169753.png\",\"Eddy İsrafilov (DF)|https://images.fotmob.com/image_resources/playerimages/369859.png\",\"Kevin Medina (DF)|https://images.fotmob.com/image_resources/playerimages/955800.png\",\"Óscar Arribas (MF)|https://images.fotmob.com/image_resources/playerimages/828711.png\",\"Dejan Petrovič (MF)|https://images.fotmob.com/image_resources/playerimages/646626.png\",\"Afiq Fazail (MF)|https://images.fotmob.com/image_resources/playerimages/524648.png\",\"Marcos Guilherme (MF)|https://images.fotmob.com/image_resources/playerimages/533344.png\",\"Arif Aiman (FW)|https://images.fotmob.com/image_resources/playerimages/1238056.png\",\"Jonathan Cristian Silva (DF)|https://images.fotmob.com/image_resources/playerimages/317771.png\",\"Shahab Zahedi (FW)|https://images.fotmob.com/image_resources/playerimages/863122.png\"]"
+awayLineup: "[\"Neil Etheridge (GK)|https://images.fotmob.com/image_resources/playerimages/214938.png\",\"Uroš Radaković (DF)|https://images.fotmob.com/image_resources/playerimages/364855.png\",\"Nathan (DF)|https://images.fotmob.com/image_resources/playerimages/577660.png\",\"Curtis Good (DF)|https://images.fotmob.com/image_resources/playerimages/291854.png\",\"Sasalak Haiprakhon (DF)|https://images.fotmob.com/image_resources/playerimages/922597.png\",\"Goran Čaušić (MF)|https://images.fotmob.com/image_resources/playerimages/359697.png\",\"Darlan Mendes (MF)|https://images.fotmob.com/image_resources/playerimages/1050409.png\",\"Kingsley Schindler (MF)|https://images.fotmob.com/image_resources/playerimages/630651.png\",\"Kenneth Dougall (DF)|https://images.fotmob.com/image_resources/playerimages/562884.png\",\"Stefan Schimmer (FW)|https://images.fotmob.com/image_resources/playerimages/767730.png\",\"Bissoli (FW)|https://images.fotmob.com/image_resources/playerimages/902692.png\"]"
+homeFormation: "3-4-2-1"
+awayFormation: "4-2-3-1"
 homeCoach: ""
 awayCoach: ""
 pickWinTeam: "조호르 FC"
