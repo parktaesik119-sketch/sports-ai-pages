@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼�
 awayRecent: '[{"date":"26.09.14","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CODE0-2026-09-14-detroit-tigers/"},{"date":"26.09.13","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CODE0-2026-09-13-detroit-tigers/"},{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"},{"date":"26.09.10","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MNDE0-2026-09-10-detroit-tigers/"},{"date":"26.09.09","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909MNDE0-2026-09-09-detroit-tigers/"}]'
 injuryHome: "Luis Urias (부상)|Jameson Taillon (부상)|Jonatan Clase (부상)|Trey Yesavage (부상)|Anthony Santander (부상)"
 injuryAway: "Colt Keith (통증)|Parker Meadows (부상)|Kerry Carpenter (부상)|Burch Smith (부상)|Jack Flaherty (부상)"
-homeLineup: ''
+homeLineup: "[\"선발투수 B. Fisher (3-4, 3.22) ERA 3.22|https://a.espncdn.com/i/headshots/mlb/players/full/41318.png\"]"
 awayLineup: "[\"선발투수 D. Anderson (4-6, 3.80) ERA 3.80|https://a.espncdn.com/i/headshots/mlb/players/full/41125.png\"]"
 homeFormation: ""
 awayFormation: ""
