@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.14","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.14","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SDSF0-2026-09-14-san-francisco-giants/"},{"date":"26.09.13","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913SDSF0-2026-09-13-san-francisco-giants/"},{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"},{"date":"26.09.08","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908MOSD0-2026-09-08-san-diego-padres/"},{"date":"26.09.07","home":"샌디에이고 파드리스","away":"뉴욕 양키즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907NYSD0-2026-09-07-san-diego-padres/"}]'
 injuryHome: "Willi Castro (족저근막염)|Kyle Freeland (신경 압박)|Sean Sullivan (신경 압박)|Jose Quintana (염좌)|Kris Bryant (수술)"
 injuryAway: "Ty France (명시되지 않음)|Miguel Andujar (골절)|Jason Adam (염좌)|Joe Musgrove (염증)|Lucas Giolito (염증)"
-homeLineup: "[\"선발투수 R. Feltner (5-10, 5.88) ERA 5.88|https://a.espncdn.com/i/headshots/mlb/players/full/4019484.png\"]"
+homeLineup: "[\"선발투수 K. Freeland (4-10, 6.37) ERA 6.37|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
 awayLineup: "[\"선발투수 W. Buehler (8-6, 4.61) ERA 4.61|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
 homeFormation: ""
 awayFormation: ""
