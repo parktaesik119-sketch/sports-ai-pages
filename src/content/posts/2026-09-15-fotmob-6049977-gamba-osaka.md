@@ -20,12 +20,12 @@ homeRecent: "[{\"date\":\"26.09.12\",\"home\":\"Gamba Osaka\",\"away\":\"FC Toky
 awayRecent: '[{"date":"26.09.10","home":"비엣텔","away":"꽁안 하노이 FC","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6095731-2026-09-10-viettel/"},{"date":"26.09.05","home":"꽁안 하노이 FC","away":"홍린 하틴","score":"2-0","result":"🟢승"},{"date":"26.08.30","home":"꽁안 하노이 FC","away":"Cong An Ho Chí Minh City","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6002078-2026-08-30-cng-an-h-ni/"},{"date":"26.08.11","home":"애들레이드 유나이티드","away":"꽁안 하노이 FC","score":"0-2","result":"🟢승"},{"date":"26.06.07","home":"비엣텔","away":"꽁안 하노이 FC","score":"1-0","result":"🔴패"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Jun Ichimori (GK)|https://images.fotmob.com/image_resources/playerimages/728441.png\",\"Ryo Hatsuse (DF)|https://images.fotmob.com/image_resources/playerimages/712170.png\",\"Shinnosuke Nakatani (DF)|https://images.fotmob.com/image_resources/playerimages/511758.png\",\"Shota Fukuoka (DF)|https://images.fotmob.com/image_resources/playerimages/924121.png\",\"Takeru Kishimoto (DF)|https://images.fotmob.com/image_resources/playerimages/735816.png\",\"Rin Mito (MF)|https://images.fotmob.com/image_resources/playerimages/1611156.png\",\"Shuto Abe (MF)|https://images.fotmob.com/image_resources/playerimages/1061133.png\",\"Takashi Usami (MF)|https://images.fotmob.com/image_resources/playerimages/166653.png\",\"Ryotaro Meshino (FW)|https://images.fotmob.com/image_resources/playerimages/824619.png\",\"Ryoya Yamashita (FW)|https://images.fotmob.com/image_resources/playerimages/1135557.png\",\"Yusei Toshida (FW)|https://images.fotmob.com/image_resources/playerimages/1337816.png\"]"
+awayLineup: "[\"Nguyễn Filip (GK)|https://images.fotmob.com/image_resources/playerimages/307515.png\",\"Bùi Hoàng Việt Anh (DF)|https://images.fotmob.com/image_resources/playerimages/1138609.png\",\"Doàn Văn Hậu (DF)|https://images.fotmob.com/image_resources/playerimages/848567.png\",\"Damià Sabater (MF)|https://images.fotmob.com/image_resources/playerimages/647905.png\",\"Frans Putros (MF)|https://images.fotmob.com/image_resources/playerimages/320139.png\",\"Jason Pendant (MF)|https://images.fotmob.com/image_resources/playerimages/812234.png\",\"Nguyễn Quang Hải (MF)|https://images.fotmob.com/image_resources/playerimages/819727.png\",\"Stefan Mauk (MF)|https://images.fotmob.com/image_resources/playerimages/421896.png\",\"Alan Grafite (FW)|https://images.fotmob.com/image_resources/playerimages/1202028.png\",\"Brayan Perea (FW)|https://images.fotmob.com/image_resources/playerimages/281999.png\",\"David Henen (FW)|https://images.fotmob.com/image_resources/playerimages/578321.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "2-2-3-3"
+homeCoach: "Tomokazu Myojin|https://images.fotmob.com/image_resources/playerimages/29192.png"
+awayCoach: "Mano Pölking|https://images.fotmob.com/image_resources/playerimages/11281.png"
 pickWinTeam: "꽁안 하노이 FC"
 pickWinResult: "승"
 pickHandicapTeam: "꽁안 하노이 FC"
