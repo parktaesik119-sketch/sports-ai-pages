@@ -1920,8 +1920,8 @@
     "away": "Iran U23",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/316113.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/622101.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "fotmob-6052515",
@@ -2661,8 +2661,8 @@
     "away": "Cancún FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2034.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1175679.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5906441",
@@ -3649,8 +3649,8 @@
     "away": "Boca Juniors",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10277.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10077.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000021054",
@@ -3688,8 +3688,8 @@
     "away": "Toluca",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7847.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6618.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000015274",
@@ -3844,8 +3844,8 @@
     "away": "Alianza FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6255.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000013718",
@@ -4013,8 +4013,8 @@
     "away": "Sport Recife",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/104821.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6305.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000018129",
@@ -8385,19 +8385,6 @@
     "awayScore": 2
   },
   {
-    "id": "naver-mlb-20260916MIPI0",
-    "sport": "baseball",
-    "country": "USA",
-    "league": "MLB",
-    "date": "2026-09-15T22:40:00.000Z",
-    "home": "Pittsburgh Pirates",
-    "away": "Milwaukee Brewers",
-    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/PI.png",
-    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MI.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "naver-mlb-20260916CWCL0",
     "sport": "baseball",
     "country": "USA",
@@ -8422,6 +8409,19 @@
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/LA.png",
     "homeScore": 0,
     "awayScore": 4
+  },
+  {
+    "id": "naver-mlb-20260916MIPI0",
+    "sport": "baseball",
+    "country": "USA",
+    "league": "MLB",
+    "date": "2026-09-15T22:40:00.000Z",
+    "home": "Pittsburgh Pirates",
+    "away": "Milwaukee Brewers",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/PI.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MI.png",
+    "homeScore": 1,
+    "awayScore": 5
   },
   {
     "id": "naver-mlb-20260916OATB0",
@@ -8459,8 +8459,8 @@
     "away": "Detroit Tigers",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TO.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/DE.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 10
   },
   {
     "id": "naver-mlb-20260916BANM0",
@@ -8472,8 +8472,8 @@
     "away": "Baltimore Orioles",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/NM.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/BA.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 7
   },
   {
     "id": "naver-mlb-20260916ATCC0",
@@ -8485,8 +8485,8 @@
     "away": "Atlanta Braves",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CC.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/AT.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 6
   },
   {
     "id": "naver-mlb-20260916NYMN0",
@@ -8498,8 +8498,8 @@
     "away": "New York Yankees",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MN.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/NY.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 8
   },
   {
     "id": "naver-mlb-20260916SFSL0",
@@ -8511,8 +8511,8 @@
     "away": "San Francisco Giants",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SL.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SF.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 10
   },
   {
     "id": "naver-mlb-20260916BOTE0",
@@ -8524,8 +8524,8 @@
     "away": "Boston Red Sox",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TE.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/BO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "naver-mlb-20260916KCHO0",
@@ -8537,8 +8537,8 @@
     "away": "Kansas City Royals",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/HO.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/KC.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "naver-mlb-20260916SDCO0",
@@ -8550,8 +8550,8 @@
     "away": "San Diego Padres",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CO.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SD.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 9,
+    "awayScore": 3
   },
   {
     "id": "naver-mlb-20260916SEAN0",
@@ -8563,8 +8563,8 @@
     "away": "Seattle Mariners",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/AN.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SE.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "naver-mlb-20260916FLAZ0",
@@ -8576,8 +8576,8 @@
     "away": "Miami Marlins",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/FL.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 4
   },
   {
     "id": "naver-npb-20260916RTJL0",

@@ -4713,6 +4713,11 @@
       ],
       "away": [
         {
+          "name": "Ryan Sessegnon",
+          "status": "사타구니 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Tom Cairney",
           "status": "무릎 부상",
           "detail": "Mid October 2026"
@@ -5194,6 +5199,16 @@
         }
       ],
       "away": [
+        {
+          "name": "Sandro Tonali",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Pedro Porro",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        },
         {
           "name": "Mykhaylo Mudryk",
           "status": "발목 부상",
@@ -9451,6 +9466,11 @@
           "detail": "Mid September 2026"
         },
         {
+          "name": "Ki-Jana Hoever",
+          "status": "엉덩이 부상",
+          "detail": "Mid October 2026"
+        },
+        {
           "name": "Jakub Martinec",
           "status": "부상",
           "detail": "Unknown"
@@ -9462,12 +9482,12 @@
         },
         {
           "name": "Uchenna Aririerisim",
-          "status": "부상",
+          "status": "사타구니 부상",
           "detail": "Unknown"
         },
         {
           "name": "Ondřej Penxa",
-          "status": "부상",
+          "status": "무릎 부상",
           "detail": "Unknown"
         },
         {
@@ -9580,6 +9600,11 @@
     "league": "Europa League",
     "injuries": {
       "home": [
+        {
+          "name": "Carel Eiting",
+          "status": "무릎 부상",
+          "detail": "Unknown"
+        },
         {
           "name": "Fotios Kitsos",
           "status": "십자 인대 부상",
@@ -10014,6 +10039,11 @@
           "name": "Andrej Kotnik",
           "status": "부상",
           "detail": "Mid September 2026"
+        },
+        {
+          "name": "Jošt Pišek",
+          "status": "십자 인대 부상",
+          "detail": "Mid January 2027"
         }
       ]
     },
@@ -13653,11 +13683,6 @@
           "detail": "A few days"
         },
         {
-          "name": "André",
-          "status": "허벅지 부상",
-          "detail": "Late September 2026"
-        },
-        {
           "name": "Zakaria Labyad",
           "status": "십자 인대 부상",
           "detail": "Out for season"
@@ -14342,7 +14367,18 @@
     "date": "2026-09-17T16:45:00.000Z",
     "league": "Europa League",
     "injuries": {
-      "home": [],
+      "home": [
+        {
+          "name": "Radoslav Kirilov",
+          "status": "부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Akram Bouras",
+          "status": "근육 부상",
+          "detail": "Unknown"
+        }
+      ],
       "away": [
         {
           "name": "Christian Früchtl",
@@ -15595,7 +15631,7 @@
         {
           "name": "Kevin Rodríguez",
           "status": "충돌 부상",
-          "detail": "About a week"
+          "detail": "Day to day"
         },
         {
           "name": "Nohim Chibani",
@@ -15605,7 +15641,7 @@
         {
           "name": "Ross Sykes",
           "status": "어깨 부상",
-          "detail": "About a week"
+          "detail": "Day to day"
         }
       ]
     },
