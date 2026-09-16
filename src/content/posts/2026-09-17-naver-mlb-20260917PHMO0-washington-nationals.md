@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라�
 awayRecent: '[{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"},{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"},{"date":"26.09.12","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PHAT0-2026-09-12-atlanta-braves/"},{"date":"26.09.11","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911HOPH0-2026-09-11-philadelphia-phillies/"}]'
 injuryHome: "DJ Herz (긴장)|PJ Poulin (긴장)|Orlando Ribalta (염증)|Connelly Early (염증)|Josiah Gray (긴장)"
 injuryAway: "Caleb Kilian (긴장)|Jesus Luzardo (염증)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
-homeLineup: "[\"선발투수 C. Cavalli (12-5, 3.12) ERA 3.12|https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png\"]"
+homeLineup: "[\"선발투수 J. Simpson (1-0, 6.75) ERA 6.75|https://a.espncdn.com/i/headshots/mlb/players/full/4719315.png\"]"
 awayLineup: "[\"선발투수 Z. Wheeler (12-5, 3.14) ERA 3.14|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
 homeFormation: ""
 awayFormation: ""
