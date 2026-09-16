@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.14","home":"시카고 컵스","away":"피츠버그 
 awayRecent: '[{"date":"26.09.14","home":"밀워키 브루어스","away":"신시내티 레즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CIMI0-2026-09-14-milwaukee-brewers/"},{"date":"26.09.13","home":"밀워키 브루어스","away":"신시내티 레즈","score":"13-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CIMI0-2026-09-13-milwaukee-brewers/"},{"date":"26.09.12","home":"밀워키 브루어스","away":"신시내티 레즈","score":"20-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CIMI0-2026-09-12-milwaukee-brewers/"},{"date":"26.09.10","home":"밀워키 브루어스","away":"시카고 컵스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CCMI0-2026-09-10-milwaukee-brewers/"},{"date":"26.09.09","home":"밀워키 브루어스","away":"시카고 컵스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CCMI0-2026-09-09-milwaukee-brewers/"}]'
 injuryHome: "Kirby Yates (신경통)|Braxton Ashcraft (통증)|Isaac Mattson (염증)|Esmerlyn Valdez (좌상)|Mitch Keller (명시되지 않음)"
 injuryAway: "Cooper Pratt (일일 관찰)|Rob Zastryzny (좌상)|Bryse Wilson (좌상)|Grant Anderson (염증)|Brandon Woodruff (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Jones (4-6, 4.10) ERA 4.10|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
+awayLineup: "[\"선발투수 L. Henderson (10-3, 2.34) ERA 2.34|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

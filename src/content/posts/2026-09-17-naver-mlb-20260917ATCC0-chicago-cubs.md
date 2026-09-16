@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.15","home":"시카고 컵스","away":"애틀랜타 
 awayRecent: '[{"date":"26.09.15","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs/"},{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"},{"date":"26.09.12","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PHAT0-2026-09-12-atlanta-braves/"},{"date":"26.09.11","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TBAT0-2026-09-11-atlanta-braves/"}]'
 injuryHome: "Shelby Miller (수술)|Gavin Hollowell (염증)|Justin Steele (수술)|Hunter Harvey (골절)|Tyler Austin (수술)"
 injuryAway: "Robert Suarez (통증)|Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Imanaga (10-10, 3.88) ERA 3.88|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
+awayLineup: "[\"선발투수 J. Ritchie (1-2, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/5080757.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬�
 awayRecent: '[{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"},{"date":"26.09.10","home":"애슬레틱스","away":"토론토 블루제이즈","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TOOA0-2026-09-10-athletics/"},{"date":"26.09.08","home":"애슬레틱스","away":"토론토 블루제이즈","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"}]'
 injuryHome: "Jonathan Heasley (골절)|Ben Williamson (염좌)|Taylor Walls (염좌)|Manuel Rodriguez (염좌)|Edwin Uceta (염좌)"
 injuryAway: "Brooks Kriske (신경 눌림)|Joshua Kuroda-Grauer (수술)|J.T. Ginn (통증)|Gage Jump (신경 눌림)|Luis Severino (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. Martinez (14-4, 2.92) ERA 2.92|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
+awayLineup: "[\"선발투수 B. Basso (1-2, 3.86) ERA 3.86|https://a.espncdn.com/i/headshots/mlb/players/full/4179551.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

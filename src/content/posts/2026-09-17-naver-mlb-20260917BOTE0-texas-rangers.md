@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자�
 injuryHome: "Kyle Higashioka (변형)|Cole Winn (변형)|Peyton Gray (염증)|Carter Baumler (변형)|Jack Leiter (수술)"
 injuryAway: "Ceddanne Rafaela (통증)|Tyron Guerrero (염증)|Tanner Houck (수술)|Curtis Mead (골절)|Johan Oviedo (변형)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Gray (17-5, 2.76) ERA 2.76|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

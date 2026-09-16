@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.16","home":"신시내티 레즈","away":"LA 다저�
 awayRecent: '[{"date":"26.09.16","home":"신시내티 레즈","away":"LA 다저스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916LACI0-2026-09-16-cincinnati-reds/"},{"date":"26.09.15","home":"신시내티 레즈","away":"LA 다저스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915LACI0-2026-09-15-cincinnati-reds/"},{"date":"26.09.14","home":"마이애미 말린스","away":"LA 다저스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins/"},{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"}]'
 injuryHome: "Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
 injuryAway: "Dalton Rushing (통증)|Kris Bubic (통증)|Edwin Diaz (염증)|Gavin Stone (염증)|Jake Cousins (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Abbott (6-11, 4.78) ERA 4.78|https://a.espncdn.com/i/headshots/mlb/players/full/4414528.png\"]"
+awayLineup: "[\"선발투수 B. Snell (4-1, 1.91) ERA 1.91|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

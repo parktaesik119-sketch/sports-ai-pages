@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.16","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.16","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916CWCL0-2026-09-16-cleveland-guardians/"},{"date":"26.09.15","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915CWCL0-2026-09-15-cleveland-guardians/"},{"date":"26.09.14","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CWSL0-2026-09-14-st-louis-cardinals/"},{"date":"26.09.13","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CWSL0-2026-09-13-st-louis-cardinals/"},{"date":"26.09.11","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911PICW0-2026-09-11-chicago-white-sox/"}]'
 injuryHome: "Chase DeLauter (경미)|Angel Martinez (경미)|Colin Holderman (주요)|Rhys Hoskins (주요)|Shawn Armstrong (주요)"
 injuryAway: "Drew Thorpe (주요)|Tommy Pham (주요)|Huascar Brazoban (주요)|Tanner Murray (주요)|Joey Bart (주요)"
-homeLineup: ''
+homeLineup: "[\"선발투수 P. Messick (11-9, 2.51) ERA 2.51|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

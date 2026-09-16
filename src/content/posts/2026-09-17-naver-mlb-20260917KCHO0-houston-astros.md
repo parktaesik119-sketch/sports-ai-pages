@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자�
 injuryHome: "Brice Matthews (염좌)|Steven Okert (긴장)|Taylor Trammell (부친 휴가)|Mike Burrows (염증)|Carlos Correa (수술)"
 injuryAway: "Tony Gonsolin (수술)|Connor Seabold (긴장)|James McArthur (수술)|Beck Way (부상)|Carlos Estevez (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Lugo (7-8, 4.99) ERA 4.99|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

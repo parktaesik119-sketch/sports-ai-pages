@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.15","home":"뉴욕 메츠","away":"볼티모어 오
 awayRecent: '[{"date":"26.09.15","home":"뉴욕 메츠","away":"볼티모어 오리올스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915BANM0-2026-09-15-new-york-mets/"},{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"},{"date":"26.09.13","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913BATO0-2026-09-13-toronto-blue-jays/"},{"date":"26.09.12","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912BATO0-2026-09-12-toronto-blue-jays/"},{"date":"26.09.10","home":"볼티모어 오리올스","away":"클리블랜드 가디언스","score":"9-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CLBA0-2026-09-10-baltimore-orioles/"}]'
 injuryHome: "Cionel Perez (인대 염좌)|Devin Williams (인대 염좌)|Jorge Polanco (수술)|Reed Garrett (수술)|Tylor Megill (수술)"
 injuryAway: "Luis Robert Jr. (통증)|Shane Baz (경미한 통증)|Samuel Basallo (통증)|Blaze Alexander (통증)|Christian Franklin (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Stock (1-3, 5.93) ERA 5.93|https://a.espncdn.com/i/headshots/mlb/players/full/30577.png\"]"
+awayLineup: "[\"선발투수 C. Bassitt (7-5, 4.88) ERA 4.88|https://a.espncdn.com/i/headshots/mlb/players/full/33148.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

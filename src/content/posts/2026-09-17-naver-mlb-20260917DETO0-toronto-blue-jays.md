@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.15","home":"토론토 블루제이즈","away":"디�
 awayRecent: '[{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"},{"date":"26.09.14","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CODE0-2026-09-14-detroit-tigers/"},{"date":"26.09.13","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CODE0-2026-09-13-detroit-tigers/"},{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"},{"date":"26.09.10","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MNDE0-2026-09-10-detroit-tigers/"}]'
 injuryHome: "Luis Urias (변형)|Jonatan Clase (족저근막염)|Trey Yesavage (수술)|Anthony Santander (수술)|Shane Bieber (염증)"
 injuryAway: "Parker Meadows (수술)|Colt Keith (통증)|Kerry Carpenter (족저근막염)|Burch Smith (염증)|Jack Flaherty (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Scherzer (2-8, 6.38) ERA 6.38|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
+awayLineup: "[\"선발투수 K. Montero (9-8, 3.55) ERA 3.55|https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

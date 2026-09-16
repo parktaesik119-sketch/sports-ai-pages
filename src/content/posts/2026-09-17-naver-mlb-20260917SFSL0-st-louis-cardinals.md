@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.15","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"},{"date":"26.09.14","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SDSF0-2026-09-14-san-francisco-giants/"},{"date":"26.09.13","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913SDSF0-2026-09-13-san-francisco-giants/"},{"date":"26.09.10","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910SLSF0-2026-09-10-san-francisco-giants/"},{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"}]'
 injuryHome: "JJ Wetherholt (건염)|Peter Strzelecki (염증)|Everson Pereira (타박상)|Blaze Jordan (염좌)|Hunter Dobbins (수술)"
 injuryAway: "Victor Bericoto (타박상)|JT Brubaker (타박상)|Matt Gage (긴장)|Willy Adames (염좌)|Marcelo Mayer (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Liberatore (5-14, 5.53) ERA 5.53|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
+awayLineup: "[\"선발투수 A. Molina (3-1, 5.24) ERA 5.24|https://a.espncdn.com/i/headshots/mlb/players/full/5016983.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
