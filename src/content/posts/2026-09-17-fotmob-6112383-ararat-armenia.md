@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.12","home":"아라라트 아르메니아","away":"S
 awayRecent: '[{"date":"26.09.13","home":"Sparta Prague","away":"야블로네츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5831170-2026-09-13-sparta-prague/"},{"date":"26.09.10","home":"Žižkov","away":"Sparta Prague","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6125854-2026-09-10-ikov/"},{"date":"26.09.07","home":"흐라덱 크라로베","away":"Sparta Prague","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5831157-2026-09-07-hradec-krlov/"},{"date":"26.08.31","home":"Sparta Prague","away":"슬라비아 프라하","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5831155-2026-08-31-sparta-prague/"},{"date":"26.08.23","home":"Artis Brno","away":"Sparta Prague","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5943689-2026-08-23-artis-brno/"}]'
 injuryHome: "없음"
 injuryAway: "Adam Sevínsky[주요](부상 - 복귀예정 Mid September 2026) | Ki-Jana Hoever[주요](엉덩이 부상 - 복귀예정 Mid October 2026) | Jakub Martinec[주요](부상 - 복귀예정 Unknown) | Sivert Mannsverk[주요](부상 - 복귀예정 Unknown) | Uchenna Aririerisim[주요](사타구니 부상 - 복귀예정 Unknown) | Ondřej Penxa[주요](무릎 부상 - 복귀예정 Unknown) | Magnus Kofod Andersen[주요](십자 인대 부상 - 복귀예정 Unknown)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"João Bravim (GK)|https://images.fotmob.com/image_resources/playerimages/1185314.png\",\"Junior Julio (DF)|https://images.fotmob.com/image_resources/playerimages/1211626.png\",\"Alexandros Malis (DF)|https://images.fotmob.com/image_resources/playerimages/784878.png\",\"Bruno Wilson (DF)|https://images.fotmob.com/image_resources/playerimages/540414.png\",\"Edgar Grigoryan (DF)|https://images.fotmob.com/image_resources/playerimages/1190510.png\",\"Hugo Oliveira (MF)|https://images.fotmob.com/image_resources/playerimages/1213413.png\",\"Karen Muradyan (MF)|https://images.fotmob.com/image_resources/playerimages/453044.png\",\"Benny (MF)|https://images.fotmob.com/image_resources/playerimages/783643.png\",\"Artur Serobyan (FW)|https://images.fotmob.com/image_resources/playerimages/1300497.png\",\"Sandro Lima (FW)|https://images.fotmob.com/image_resources/playerimages/477205.png\",\"Zidane Banjaqui (FW)|https://images.fotmob.com/image_resources/playerimages/824659.png\"]"
+awayLineup: "[\"Jakub Surovcík (GK)|https://images.fotmob.com/image_resources/playerimages/1390258.png\",\"Martin Suchomel (MF)|https://images.fotmob.com/image_resources/playerimages/1310253.png\",\"Loïc Mbe Soh (DF)|https://images.fotmob.com/image_resources/playerimages/949216.png\",\"Tobias Guddal (DF)|https://images.fotmob.com/image_resources/playerimages/1250673.png\",\"Matěj Ryneš (MF)|https://images.fotmob.com/image_resources/playerimages/1215062.png\",\"Adam Karabec (FW)|https://images.fotmob.com/image_resources/playerimages/1135655.png\",\"Roman Macek (MF)|https://images.fotmob.com/image_resources/playerimages/769342.png\",\"Hugo Sochůrek (MF)|https://images.fotmob.com/image_resources/playerimages/1764021.png\",\"John Mercado (FW)|https://images.fotmob.com/image_resources/playerimages/1109100.png\",\"Jonatan Braut Brunes (FW)|https://images.fotmob.com/image_resources/playerimages/737073.png\",\"Josimar Alcócer (FW)|https://images.fotmob.com/image_resources/playerimages/1296660.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Tulipa|https://images.fotmob.com/image_resources/playerimages/1426076.png"
+awayCoach: "Brian Priske|https://images.fotmob.com/image_resources/playerimages/34586.png"
 pickWinTeam: "Sparta Prague"
 pickWinResult: "승"
 pickHandicapTeam: "Sparta Prague"

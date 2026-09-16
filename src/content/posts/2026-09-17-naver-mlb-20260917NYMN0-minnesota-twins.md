@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 
 injuryHome: "Trevor Larnach (경미)|Mike Paredes (주요)|Mick Abel (주요)|Byron Buxton (주요)|Cole Sands (주요)"
 injuryAway: "Clarke Schmidt (주요)|Ryan Weathers (주요)|Fernando Cruz (주요)|Trent Grisham (주요)|Giancarlo Stanton (주요)"
 homeLineup: "[\"선발투수 Z. Matthews (9-10, 4.98) ERA 4.98|https://a.espncdn.com/i/headshots/mlb/players/full/4791597.png\"]"
-awayLineup: "[\"선발투수 C. Rodon (6-3, 2.94) ERA 2.94|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\"]"
+awayLineup: "[\"선발투수 C. Rodon (6-3, 2.94) ERA 2.94|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\",\"1번 B. Rice (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5016968.png\",\"2번 C. Bellinger (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33912.png\",\"3번 A. Judge (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/33192.png\",\"4번 L. Garcia Jr. (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40459.png\",\"5번 S. Jones (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4867424.png\",\"6번 G. Lombard Jr. (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149070.png\",\"7번 R. McMahon (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33247.png\",\"8번 A. Wells (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4683349.png\",\"9번 A. Volpe (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42547.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
