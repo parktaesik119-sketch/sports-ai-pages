@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 마이애미 말린스 야구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-17T01:40:00.000Z
+description: "애리조나 다이아몬드백스 vs 마이애미 말린스 야구분석: 양 팀의 2026시즌 전력을 비교하면 애리조나 다이아몬드백스가 리그순위와 최근 흐름 면에서 보다 견고한 모습을 보입니다. 마이… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 80승 71패, 승률 .530을 기록하며 리그순위 7위에 올라있습니다. 최근 10경기에서 7승 3패의 준수한 흐름을 이어가며 상승세를 유지하고 있습니다. 홈경기에서의 안정적인 투타 밸런스를 바탕으로 최근 치열한 순위 싸움에서 경쟁력을 보여주고 있습니다. 다만 부상자 공백으로 인해 마운드 운영에 다소 변수가 남아있는 상황입니다. 그럼에도 불구하고 타선의 집중력이 경기 후반에 빛을 발하며 꾸준히 승수를 쌓아가고 있습니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 74승 77패, 승률 .490으로 리그순위 10위를 기록하고 있습니다. 최근 10경기에서는 3승 7패로 다소 아쉬운 흐름을 보이고 있으나, 공격력만큼은 여전히 위협적인 모습을 유지 중입니다. 시즌 전체 득실 마진이 +5.0으로 긍정적인 지표를 가지고 있어 언제든 반등할 잠재력을 갖추고 있습니다. 최근 경기들에서 실점 억제력의 기복이 노출되고 있으나, 강팀을 상대로도 물러서지 않는 끈끈한 야구를 펼치고 있습니다. 원정 경기에서의 경기력 회복이 이번 시리즈의 핵심 과제입니다."
+homePower: "핵심 투수진 공백으로 마운드 깊이 다소 얕아짐|최근 10경기 7승으로 팀 분위기 매우 고무적|홈 강점 살려 경기 후반 집중력 발휘에 능함|리그순위 7위로 안정적인 포스트시즌 진입권 유지|득실 +3.0 기록하며 공수 균형 잡힌 시즌 운영 중"
+awayPower: "최근 10경기 공격력은 활발하나 수비 안정감 부족|상대전적 3승 1패 우위로 심리적 자신감 확보|투수진 피로도 누적되며 실점 제어력에 의문 발생|시즌 득실 마진 +5.0으로 팽팽한 경기 운영 가능|원정 불리함 극복할 적극적인 타격 전술이 필요함"
+h2h: '[{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"},{"date":"26.06.12","home":"마이애미 말린스","away":"애리조나 다이아몬드백스","score":"2-0","link":"https://pick79.com/posts/detail/analyze-179033-2026-06-12-miami-marlins/"},{"date":"26.06.11","home":"마이애미 말린스","away":"애리조나 다이아몬드백스","score":"8-0","link":"https://pick79.com/posts/detail/analyze-179018-2026-06-11-miami-marlins/"},{"date":"26.06.10","home":"마이애미 말린스","away":"애리조나 다이아몬드백스","score":"10-6","link":"https://pick79.com/posts/detail/analyze-179009-2026-06-10-miami-marlins/"}]'
+summary: "양 팀의 2026시즌 전력을 비교하면 애리조나 다이아몬드백스가 리그순위와 최근 흐름 면에서 보다 견고한 모습을 보입니다. 마이애미 말린스는 상대전적에서 3승 1패로 우위를 점하고 있으나, 최근 원정에서의 부진과 수비 집중력 저하가 이번 경기에서 변수로 작용할 가능성이 큽니다. 애리조나 다이아몬드백스는 홈 이점을 살려 타선이 제 역할을 해준다면 마이애미 말린스의 추격을 뿌리치고 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"},{"date":"26.09.14","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914TEAZ0-2026-09-14-arizona-diamondbacks/"},{"date":"26.09.12","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"9-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912TEAZ0-2026-09-12-arizona-diamondbacks/"},{"date":"26.09.10","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910AZKC0-2026-09-10-kansas-city-royals/"},{"date":"26.09.09","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909AZKC0-2026-09-09-kansas-city-royals/"}]'
+awayRecent: '[{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"},{"date":"26.09.14","home":"마이애미 말린스","away":"LA 다저스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins/"},{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"},{"date":"26.09.10","home":"마이애미 말린스","away":"뉴욕 메츠","score":"14-15","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910NMFL0-2026-09-10-miami-marlins/"}]'
+injuryHome: "Ryne Nelson (변형)|Tyler Locklear (골절)|Ryan Thompson (변형)|A.J. Puk (염좌)|Andrew Saalfrank (수술)"
+injuryAway: "Owen Caissie (통증)|Pete Fairbanks (신경 압박)|Max Meyer (변형)|Anthony Bender (골절)|Ronny Henriquez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "마이애미 말린스"
+pickWinResult: "승"
+pickHandicapTeam: "마이애미 말린스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

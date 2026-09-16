@@ -1,0 +1,37 @@
+---
+title: "미네소타 트윈스 vs 뉴욕 양키즈 야구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-16T17:40:00.000Z
+description: "미네소타 트윈스 vs 뉴욕 양키즈 야구분석: 뉴욕 양키즈는 2026시즌 내내 상위권 성적을 유지하며 공수 양면에서 안정적인 전력을 보여주고 있습니다. 미네소타 트윈스는 리… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "미네소타 트윈스"
+awayTeam: "뉴욕 양키즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+homeAnalysis: "미네소타 트윈스는 2026시즌 70승 80패, 승률 .467을 기록하며 현재 리그순위 11위에 머물러 있습니다. 시즌 전체 평균 득점은 4.2점 수준이나, 최근 10경기에서는 3승 7패로 다소 부진한 흐름을 보이고 있습니다. 특히 직전 뉴욕 양키즈전 패배를 포함하여 타선이 기복 있는 모습을 보이며 득점 지원이 원활하지 않은 상황입니다. 투수진 또한 실점이 반복되며 안정적인 경기 운영에 어려움을 겪고 있어 반등이 절실한 시점입니다. 홈 경기장에서의 집중력을 되살려야 상위권 팀을 상대로 승산 있는 경기를 펼칠 수 있을 것으로 판단됩니다."
+awayAnalysis: "뉴욕 양키즈는 2026시즌 87승 63패, 승률 .580으로 리그순위 2위를 달리고 있는 강팀입니다. 최근 10경기에서 8승 2패라는 압도적인 성적을 거두며 최상의 전력을 유지하고 있습니다. 시즌 득실 마진이 +130.0에 달할 정도로 공수 밸런스가 매우 탄탄하며, 특히 원정에서도 흔들림 없는 집중력을 발휘하는 중입니다. 안정적인 마운드 운영과 응집력 있는 타격은 상대 팀들에게 큰 위협이 되고 있습니다. 흐름과 전력 면에서 모두 우위에 있어 이번 대결에서도 자신감 있는 경기를 이어갈 것으로 전망됩니다."
+homePower: "투타 밸런스 붕괴로 인한 최근 10경기 승률 하락세|득점력 부족으로 경기 초반 리드권 확보에 난항|리그순위 11위의 한계를 극복할 확실한 투수진 정비 필요|직전 맞대결 5실점 차 패배로 인한 상대 상성 열세 노출|홈 경기장에서의 반등을 위한 타선의 응집력 극대화가 관건"
+awayPower: "리그순위 2위다운 높은 승률과 안정적인 공수 밸런스|최근 10경기 8승 달성으로 확인된 확실한 상승세|평균 5점대 이상의 화력을 앞세운 경기 주도권 확보|득실 마진 +130.0이 증명하는 리그 최고 수준의 효율|상대전적 균형을 깨기 위한 원정 경기 운영 능력 발휘"
+h2h: '[{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"},{"date":"26.07.06","home":"뉴욕 양키즈","away":"미네소타 트윈스","score":"1-6","link":"https://pick79.com/posts/detail/analyze-179357-2026-07-06-new-york-yankees/"},{"date":"26.07.05","home":"뉴욕 양키즈","away":"미네소타 트윈스","score":"4-11","link":"https://pick79.com/posts/detail/analyze-179341-2026-07-05-new-york-yankees/"},{"date":"26.07.04","home":"뉴욕 양키즈","away":"미네소타 트윈스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-179328-2026-07-04-new-york-yankees/"}]'
+summary: "뉴욕 양키즈는 2026시즌 내내 상위권 성적을 유지하며 공수 양면에서 안정적인 전력을 보여주고 있습니다. 미네소타 트윈스는 리그순위 11위라는 순위가 말해주듯 시즌 내내 투타 불균형으로 고전하고 있으며, 최근 흐름 또한 뉴욕 양키즈의 기세를 따라가기엔 역부족인 상태입니다. 양 팀의 득실 마진 차이와 최근 10경기 성적을 고려하면, 전력의 우위에 있는 뉴욕 양키즈가 경기 주도권을 쥐고 우위를 점할 가능성이 매우 높습니다. 뉴욕 양키즈가 원정임에도 불구하고 탄탄한 전력을 앞세워 원하는 경기 결과를 만들어낼 것으로 보입니다."
+homeRecent: '[{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"},{"date":"26.09.14","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CLMN0-2026-09-14-minnesota-twins/"},{"date":"26.09.13","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CLMN0-2026-09-13-minnesota-twins/"},{"date":"26.09.10","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MNDE0-2026-09-10-detroit-tigers/"},{"date":"26.09.09","home":"디트로이트 타이거즈","away":"미네소타 트윈스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909MNDE0-2026-09-09-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"},{"date":"26.09.14","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914NMNY0-2026-09-14-new-york-yankees/"},{"date":"26.09.13","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913NMNY0-2026-09-13-new-york-yankees/"},{"date":"26.09.12","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912NMNY0-2026-09-12-new-york-yankees/"},{"date":"26.09.11","home":"뉴욕 양키즈","away":"콜로라도 로키스","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911CONY0-2026-09-11-new-york-yankees/"}]'
+injuryHome: "Trevor Larnach (경미)|Mike Paredes (주요)|Mick Abel (주요)|Byron Buxton (주요)|Cole Sands (주요)"
+injuryAway: "Clarke Schmidt (주요)|Ryan Weathers (주요)|Fernando Cruz (주요)|Trent Grisham (주요)|Giancarlo Stanton (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

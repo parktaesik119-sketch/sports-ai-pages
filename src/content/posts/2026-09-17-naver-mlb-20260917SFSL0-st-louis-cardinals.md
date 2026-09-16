@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 샌프란시스코 자이언츠 야구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-16T17:15:00.000Z
+description: "세인트루이스 카디널스 vs 샌프란시스코 자이언츠 야구분석: 세인트루이스 카디널스는 2026시즌 중반 이후 리그순위 8위권에서 견고한 전력을 유지하며 안정적인 공수 밸런스를 선보이고 있습… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "샌프란시스코 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 75승 76패, 승률 .497을 기록하며 현재 리그순위 8위에 올라 있습니다. 시즌 전체적으로 득실점 균형이 -6.0으로 팽팽한 흐름을 보여주며 중위권에서 치열한 순위 싸움을 전개하고 있습니다. 최근 경기 흐름을 살펴보면 안정적인 투타 조화를 바탕으로 승률을 관리하며 경쟁력을 유지하는 모습이 돋보입니다. 특히 홈에서의 집중력이 높고 투수진이 실점을 최소화하는 경기 운영을 자주 선보이고 있습니다. 시즌 후반기로 갈수록 팀의 조직력이 더욱 단단해지고 있어 이번 경기에서도 안정적인 전력을 바탕으로 주도권을 가져올 것으로 기대됩니다."
+awayAnalysis: "샌프란시스코 자이언츠는 2026시즌 62승 89패, 승률 .411를 거두며 현재 리그순위 14위에 위치해 있습니다. 시즌 누적 득실 차가 -78.0으로 공수 양면에서 다소 고전하며 상위권 도약에 어려움을 겪고 있는 상황입니다. 최근 10경기에서 4승 6패의 성적을 기록하며 흐름이 다소 침체되어 있고, 특히 접전 상황에서의 마무리 능력이 다소 아쉬운 지표를 보입니다. 원정 경기에서의 전력 기복이 크다는 점이 이번 승부를 가를 주요 변수로 작용할 것으로 분석됩니다. 시즌 전체 지표와 최근 흐름을 고려할 때 수비적인 안정을 찾고 타선의 폭발력을 이끌어내는 것이 시급한 과제입니다."
+homePower: "홈구장 기반의 안정적인 마운드 운용으로 최소 실점 유도|최근 10경기 평균 6득점 기록하며 타선 응집력 강화|리그순위 8위의 저력을 바탕으로 한 경기 운영 능력 보유|수비진의 집중력 향상으로 접전 상황에서의 승리 가능성 증대|시즌 전반적으로 투타 밸런스를 고르게 유지하는 패턴 보임"
+awayPower: "리그순위 14위 기록하며 시즌 전체적인 전력 열세 노출|최근 10경기 평균 4.7득점의 준수한 화력 대비 투수력 불안|원정 경기에서의 실점 관리 능력 저하로 인해 경기 후반 위기 자초|상위권 팀들과의 대결에서 수비 집중력 기복을 빈번히 보임|전체 득실 마진 -78.0이 시사하는 공수 밸런스 불균형 존재"
+h2h: '[{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"},{"date":"26.09.10","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"7-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910SLSF0-2026-09-10-san-francisco-giants/"},{"date":"26.09.09","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"},{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"}]'
+summary: "세인트루이스 카디널스는 2026시즌 중반 이후 리그순위 8위권에서 견고한 전력을 유지하며 안정적인 공수 밸런스를 선보이고 있습니다. 반면 샌프란시스코 자이언츠는 리그순위 14위라는 성적이 대변하듯 시즌 내내 득실점 관리에 어려움을 겪으며 경기 후반 집중력 저하라는 약점을 노출하고 있습니다. 특히 최근 맞대결 흐름과 시즌 전체 지표를 종합적으로 고려할 때, 투타 조화가 우위에 있는 세인트루이스 카디널스가 이번 경기에서 더욱 높은 승리 가능성을 확보한 것으로 평가됩니다."
+homeRecent: '[{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"},{"date":"26.09.14","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CWSL0-2026-09-14-st-louis-cardinals/"},{"date":"26.09.13","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CWSL0-2026-09-13-st-louis-cardinals/"},{"date":"26.09.10","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910SLSF0-2026-09-10-san-francisco-giants/"},{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"}]'
+awayRecent: '[{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"},{"date":"26.09.14","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SDSF0-2026-09-14-san-francisco-giants/"},{"date":"26.09.13","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913SDSF0-2026-09-13-san-francisco-giants/"},{"date":"26.09.10","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910SLSF0-2026-09-10-san-francisco-giants/"},{"date":"26.09.08","home":"샌프란시스코 자이언츠","away":"세인트루이스 카디널스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908SLSF0-2026-09-08-san-francisco-giants/"}]'
+injuryHome: "JJ Wetherholt (건염)|Peter Strzelecki (염증)|Everson Pereira (타박상)|Blaze Jordan (염좌)|Hunter Dobbins (수술)"
+injuryAway: "Victor Bericoto (타박상)|JT Brubaker (타박상)|Matt Gage (긴장)|Willy Adames (염좌)|Marcelo Mayer (골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

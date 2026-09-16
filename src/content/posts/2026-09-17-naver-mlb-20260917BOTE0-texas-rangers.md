@@ -1,0 +1,37 @@
+---
+title: "텍사스 레인저스 vs 보스턴 레드삭스 야구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-17T00:05:00.000Z
+description: "텍사스 레인저스 vs 보스턴 레드삭스 야구분석: 보스턴 레드삭스는 리그순위 3위라는 기록이 말해주듯 시즌 내내 공수에서 짜임새 있는 전력을 보여주고 있습니다. 반면 텍사스 레… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260917BOTE0-2026-09-17-texas-rangers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "텍사스 레인저스"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+homeAnalysis: "텍사스 레인저스는 2026시즌 74승 76패를 기록하며 승률 .493으로 리그순위 8위를 달리고 있습니다. 최근 10경기에서 5승 5패로 다소 기복 있는 모습을 보이며 전력 재정비가 필요한 시점입니다. 홈 경기에서는 비교적 안정적인 운영을 시도하고 있으나, 시즌 전체 득실점 마진이 -44.0으로 나타나 수비 집중력 보완이 절실합니다. 시즌 평균 3.9득점의 공격력을 바탕으로 반등을 노리고 있지만, 투타의 조화가 매 경기 일정하지 않은 점이 다소 아쉽습니다. 최근 경기 흐름을 볼 때 강팀을 상대로도 끈질긴 추격전을 펼치고 있어, 이번 홈 경기에서의 집중력이 승패의 핵심이 될 것으로 보입니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 82승 68패, 승률 .547을 거두며 리그순위 3위의 견고한 전력을 자랑합니다. 최근 10경기에서 7승 3패를 기록하며 상승세를 타고 있고, 특히 실점을 최소화하는 안정적인 마운드 운영이 돋보입니다. 득실점 마진이 +88.0에 달할 정도로 공수 밸런스가 매우 뛰어나며, 원정에서도 흔들림 없는 집중력을 보여주고 있습니다. 평균 4.4득점을 기록 중인 타선의 파괴력은 시즌 내내 꾸준히 유지되고 있어 상대에게 큰 부담을 줍니다. 상위권 순위를 지키는 힘은 탄탄한 수비진에서 나오고 있으며, 이번 맞대결에서도 안정적인 경기 운영을 바탕으로 경기를 주도할 가능성이 높습니다."
+homePower: "리그순위 8위의 중위권 성적, 득점력 회복과 투수진 안정 필요|최근 10경기 5승 5패의 흐름, 고점과 저점의 차이가 큼|시즌 득실 -44.0으로 나타난 수비진의 실점 억제력 보완 과제|홈에서의 집중력 강화와 경기 중반 이후 마무리 효율 극대화|상위권 팀을 상대로 하는 이번 경기에서 투타 응집력 발휘가 핵심"
+awayPower: "리그순위 3위의 안정된 전력, 공수 균형이 완벽하게 자리 잡음|최근 10경기 7승 3패로 매우 견고한 경기력과 자신감 유지|시즌 득실 +88.0이 증명하는 리그 최상위권의 효율적 운영 능력|꾸준한 득점 지원과 함께 상대 타선을 억제하는 투수진의 강점|승부처에서 보여주는 운영 능력과 원정 경기에서의 강한 추진력"
+h2h: '[{"date":"26.06.15","home":"보스턴 레드삭스","away":"텍사스 레인저스","score":"4-6","link":"https://pick79.com/posts/detail/analyze-179084-2026-06-15-boston-red-sox/"},{"date":"26.06.14","home":"보스턴 레드삭스","away":"텍사스 레인저스","score":"6-3","link":"https://pick79.com/posts/detail/analyze-179067-2026-06-14-boston-red-sox/"},{"date":"26.06.13","home":"보스턴 레드삭스","away":"텍사스 레인저스","score":"10-1","link":"https://pick79.com/posts/detail/analyze-179053-2026-06-13-boston-red-sox/"}]'
+summary: "보스턴 레드삭스는 리그순위 3위라는 기록이 말해주듯 시즌 내내 공수에서 짜임새 있는 전력을 보여주고 있습니다. 반면 텍사스 레인저스는 중위권에 머물며 투타 밸런스에 기복을 보이고 있어, 전반적인 운영 능력에서 보스턴 레드삭스가 우위를 점할 것으로 평가됩니다. 상대전적에서도 보스턴 레드삭스가 2승 1패로 우위를 확보한 만큼, 이번 원정 경기에서도 그 흐름을 이어가며 승리할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.14","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914TEAZ0-2026-09-14-arizona-diamondbacks/"},{"date":"26.09.12","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"9-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912TEAZ0-2026-09-12-arizona-diamondbacks/"},{"date":"26.09.11","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TESE0-2026-09-11-seattle-mariners/"},{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"},{"date":"26.09.07","home":"텍사스 레인저스","away":"탬파베이 레이스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907TBTE0-2026-09-07-texas-rangers/"}]'
+awayRecent: '[{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"},{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"}]'
+injuryHome: "Kyle Higashioka (변형)|Cole Winn (변형)|Peyton Gray (염증)|Carter Baumler (변형)|Jack Leiter (수술)"
+injuryAway: "Ceddanne Rafaela (통증)|Tyron Guerrero (염증)|Tanner Houck (수술)|Curtis Mead (골절)|Johan Oviedo (변형)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

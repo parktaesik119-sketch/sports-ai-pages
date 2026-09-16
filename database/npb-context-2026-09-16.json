@@ -1,0 +1,46 @@
+[
+  {
+    "home": "Chiba Lotte Marines",
+    "away": "Rakuten Gold. Eagles",
+    "date": "2026-09-16T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "ZOZOマリン",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Kaito Mouri",
+        "nameJa": "毛利　海大",
+        "playerId": "73175152",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/m/013_73175152.jpg"
+      },
+      "away": {
+        "name": "Kosei Shoji",
+        "nameJa": "荘司　康誠",
+        "playerId": "21925157",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/e/019_21925157.jpg"
+      }
+    }
+  },
+  {
+    "home": "Orix Buffaloes",
+    "away": "Fukuoka S. Hawks",
+    "date": "2026-09-16T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "京セラD大阪",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Allen Kuri",
+        "nameJa": "九里　亜蓮",
+        "playerId": "71775139",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/b/022_71775139.jpg"
+      },
+      "away": {
+        "name": "Naoyuki Uwasawa",
+        "nameJa": "上沢　直之",
+        "playerId": "51355135",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/h/010_51355135.jpg"
+      }
+    }
+  }
+]

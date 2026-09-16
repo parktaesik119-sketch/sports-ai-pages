@@ -1,0 +1,37 @@
+---
+title: "탬파베이 레이스 vs 애슬레틱스 야구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-16T22:40:00.000Z
+description: "탬파베이 레이스 vs 애슬레틱스 야구분석: 탬파베이 레이스는 리그순위 1위답게 공수 양면에서 탄탄한 전력을 유지하고 있으며, 애슬레틱스를 상대로 2026시즌 전승을 거두… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "탬파베이 레이스"
+awayTeam: "애슬레틱스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+homeAnalysis: "탬파베이 레이스는 2026시즌 91승 59패, 승률 .607를 기록하며 리그순위 1위를 달리고 있는 강력한 우승 후보입니다. 시즌 내내 안정적인 투타 밸런스를 바탕으로 득실차 +70.0이라는 우수한 수치를 유지하고 있습니다. 최근 10경기에서도 7승 3패를 거두며 높은 승률을 지속 중이며, 직전 애슬레틱스와의 맞대결에서도 승리를 챙기며 분위기가 매우 좋습니다. 홈에서의 운영 능력이 탁월하여 상위권 팀으로서의 면모를 매 경기 증명하고 있습니다. 특히 득점 상황에서의 집중력이 뛰어나 안정적인 승점 확보를 이어가고 있습니다."
+awayAnalysis: "애슬레틱스는 2026시즌 61승 90패, 승률 .404로 현재 리그순위 14위에 머물러 있습니다. 득실차 -204.0에서 나타나듯 투수력과 타격력 모두에서 시즌 내내 어려움을 겪고 있습니다. 다만 최근 10경기에서 7승 3패를 기록하며 이전의 부진을 털어내고 반등의 조짐을 보이고 있는 점은 주목할 만합니다. 원정 경기에서의 기복이 심한 편이나, 최근 타격감이 올라오며 끈질긴 승부를 펼치고 있습니다. 순위는 낮지만 흐름상으로는 어느 때보다 치열한 경기를 예고하고 있습니다."
+homePower: "리그 1위의 위엄, 투타 밸런스 안정감 탁월함|홈 구장 이점 살린 높은 승률 유지 중|최근 맞대결 4승 0패로 압도적인 상성 우위|필승조 운용 능력 리그 최고 수준으로 평가됨|상위권 팀다운 위기 관리 및 경기 운영력 보유"
+awayPower: "최근 10경기 7승으로 시즌 중 가장 높은 기세|타격 사이클 상승세 진입하며 득점력 회복함|원정 약세 극복 위한 초반 실점 억제 필수|리그 최하위권 실점 수치로 인한 투수진 과부하|순위 이상의 경기력으로 도약 의지 강하게 표출"
+h2h: '[{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"},{"date":"26.08.13","home":"애슬레틱스","away":"탬파베이 레이스","score":"4-8","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813TBOA0-2026-08-13-athletics/"},{"date":"26.08.12","home":"애슬레틱스","away":"탬파베이 레이스","score":"4-12","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"},{"date":"26.08.11","home":"애슬레틱스","away":"탬파베이 레이스","score":"6-10","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811TBOA0-2026-08-11-athletics/"}]'
+summary: "탬파베이 레이스는 리그순위 1위답게 공수 양면에서 탄탄한 전력을 유지하고 있으며, 애슬레틱스를 상대로 2026시즌 전승을 거두는 등 압도적인 상성을 보여주고 있습니다. 애슬레틱스가 최근 10경기에서 7승을 기록하며 무서운 기세로 반등을 노리고 있으나, 시즌 전체를 관통하는 전력 차이와 투수진의 안정감에서 탬파베이 레이스가 우위를 점할 가능성이 매우 높습니다. 탬파베이 레이스는 홈 이점과 맞대결 데이터를 바탕으로 초반부터 주도권을 잡고 경기를 풀어나갈 것으로 보이며, 애슬레틱스의 상승세를 잠재우며 경기를 승리로 마무리할 것으로 예상됩니다."
+homeRecent: '[{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"},{"date":"26.09.14","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"14-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914HOTB0-2026-09-14-tampa-bay-rays/"},{"date":"26.09.13","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913HOTB0-2026-09-13-tampa-bay-rays/"},{"date":"26.09.12","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912HOTB0-2026-09-12-tampa-bay-rays/"},{"date":"26.09.11","home":"애틀랜타 브레이브스","away":"탬파베이 레이스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TBAT0-2026-09-11-atlanta-braves/"}]'
+awayRecent: '[{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"},{"date":"26.09.10","home":"애슬레틱스","away":"토론토 블루제이즈","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TOOA0-2026-09-10-athletics/"},{"date":"26.09.08","home":"애슬레틱스","away":"토론토 블루제이즈","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908TOOA0-2026-09-08-athletics/"}]'
+injuryHome: "Jonathan Heasley (골절)|Ben Williamson (염좌)|Taylor Walls (염좌)|Manuel Rodriguez (염좌)|Edwin Uceta (염좌)"
+injuryAway: "Brooks Kriske (신경 눌림)|Joshua Kuroda-Grauer (수술)|J.T. Ginn (통증)|Gage Jump (신경 눌림)|Luis Severino (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

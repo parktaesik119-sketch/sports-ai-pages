@@ -1,0 +1,37 @@
+---
+title: "LA 에인절스 vs 시애틀 매리너스 야구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-17T01:38:00.000Z
+description: "LA 에인절스 vs 시애틀 매리너스 야구분석: 양 팀은 2026시즌 전력 면에서 리그순위 12위인 시애틀 매리너스가 15위인 LA 에인절스보다 근소하게 우위에 있습니다. 특… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 에인절스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "LA 에인절스는 2026시즌 57승 93패, 승률 .380을 기록하며 리그순위 15위에 머물러 있습니다. 최근 흐름을 보면 투타의 불균형이 반복되며 8경기에서 4승 4패로 다소 기복 있는 경기력을 보여주고 있습니다. 평균 득점은 3.9점 수준으로 공격력에서 큰 폭발력을 기대하기 어려운 상황이며, 마운드의 안정감 역시 시즌 내내 숙제로 남아있습니다. 특히 시즌 전체 득실차가 -74.0으로 나타나 경기를 주도하는 운영보다는 수비 집중력에 따라 승패가 갈리는 양상이 짙습니다. 홈 경기임에도 불구하고 상위권 팀을 상대로는 마무리 투수의 효율이 떨어지며 아쉬운 경기를 내주는 사례가 잦아 주의가 필요합니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 70승 81패, 승률 .464를 기록하며 현재 리그순위 12위에 자리 잡고 있습니다. 최근 10경기에서 5승 5패를 기록하며 5할 승률을 유지하려는 분전이 돋보이지만, 원정길에서의 집중력을 더 끌어올려야 하는 시점입니다. 시즌 평균 득점은 3.9점으로 LA 에인절스와 유사한 수준이나, 최근 10경기 평균 득점이 5.2점까지 치솟는 등 타선의 집중력이 눈에 띄게 살아나고 있습니다. 득실차는 -60.0으로 팀의 전반적인 공수 효율은 홈팀에 비해 근소하게나마 우위에 있는 것으로 평가됩니다. 리그순위와 최근 득점력 상승세를 고려할 때, 이번 원정에서도 타격의 우위를 앞세워 경기를 풀어갈 가능성이 큽니다."
+homePower: "타선 침체 시 투수진 부담 과중함|리그순위 15위의 낮은 득점 지원 효율|홈 경기 마운드 집중력 유지 여부 관건|시즌 중반 이후 승률 하락세가 뚜렷함|득실차 -74.0으로 나타난 수비 불안"
+awayPower: "최근 타격 폼 상승세가 매우 돋보임|리그순위상 상위 흐름 유지 가능성|원정 경기 중반 이후 집중력 강화됨|득실차 -60.0으로 공수 밸런스 개선됨|상대전적 우위를 통한 심리적 안정감"
+h2h: '[{"date":"26.09.15","home":"LA 에인절스","away":"시애틀 매리너스","score":"6-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels/"},{"date":"26.07.03","home":"시애틀 매리너스","away":"LA 에인절스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-179318-2026-07-03-seattle-mariners/"},{"date":"26.07.01","home":"시애틀 매리너스","away":"LA 에인절스","score":"8-3","link":"https://pick79.com/posts/detail/analyze-179289-2026-07-01-seattle-mariners/"},{"date":"26.06.30","home":"시애틀 매리너스","away":"LA 에인절스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-179279-2026-06-30-seattle-mariners/"},{"date":"26.04.06","home":"LA 에인절스","away":"시애틀 매리너스","score":"8-7"}]'
+summary: "양 팀은 2026시즌 전력 면에서 리그순위 12위인 시애틀 매리너스가 15위인 LA 에인절스보다 근소하게 우위에 있습니다. 특히 시애틀 매리너스는 최근 경기에서 평균 득점이 크게 상승하며 공격 흐름이 활발해진 반면, LA 에인절스는 시즌 내내 득점 지원 부족과 수비 불안을 동시에 노출하고 있습니다. 상대전적에서도 4승 3패로 시애틀 매리너스가 근소하게 앞서고 있는 만큼, 이번 맞대결에서도 타격 집중력을 바탕으로 경기를 주도할 가능성이 높습니다. 전반적인 공수 효율과 최근 타격 기세를 종합해 볼 때, 시애틀 매리너스가 우위를 점하며 경기를 풀어나갈 것으로 보입니다."
+homeRecent: '[{"date":"26.09.15","home":"LA 에인절스","away":"시애틀 매리너스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels/"},{"date":"26.09.14","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914ANMO0-2026-09-14-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"},{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"}]'
+awayRecent: '[{"date":"26.09.15","home":"LA 에인절스","away":"시애틀 매리너스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"},{"date":"26.09.11","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911TESE0-2026-09-11-seattle-mariners/"},{"date":"26.09.10","home":"시애틀 매리너스","away":"텍사스 레인저스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TESE0-2026-09-10-seattle-mariners/"}]'
+injuryHome: "Nolan Schanuel (Strain)|Sam Bachman (Inflammation)|George Klassen (Inflammation)|Yoan Moncada (Surgery)|Gustavo Campero (Strain)"
+injuryAway: "Brendan Donovan (Concussion)|Brennen Davis (Strain)|Cole Wilcox (Strain)|Will Wilson (Fracture)|Emerson Hancock (Strain)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시애틀 매리너스"
+pickWinResult: "승"
+pickHandicapTeam: "시애틀 매리너스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "맨시티 vs 노리치 시티 축구분석·승부예측 (9월 18일) - 픽천국"
+date: 2026-09-17T18:30:00.000Z
+description: "맨시티 vs 노리치 시티 축구분석: 맨시티는 최근 흐름에서 연승을 기록하며 전력의 정점을 향해 가고 있고, 홈에서의 경기력 또한 탄탄하게 유지되고 있습니다. 노리… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6099330-2026-09-18-manchester-city"
+category: "soccer"
+country: "잉글랜드"
+league: "EFL Cup"
+homeTeam: "맨시티"
+awayTeam: "노리치 시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png"
+homeAnalysis: "맨시티는 2026시즌 전체 15경기에서 6승 4무 5패를 기록하며 평균 1.4득점의 공격력을 보여주고 있습니다. 최근 맨체스터 유나이티드와 포르투를 상대로 연승을 거두며 팀 분위기를 크게 끌어올린 점이 매우 인상적입니다. 엔조 마레스카 감독 지휘 아래 필 포든과 엘링 홀란드가 공격 선봉에 서서 상대 수비를 끊임없이 압박하고 있습니다. 잔루이지 돈나룸마가 지키는 골문과 후벵 디아스 중심의 수비 라인 또한 최근 경기들에서 실점을 최소화하며 견고해진 모습입니다. 전반적으로 시즌 초반의 기복을 딛고 공수 양면에서 안정감을 찾아가고 있어 이번 홈 경기에서도 주도적인 운영이 기대됩니다."
+awayAnalysis: "노리치 시티는 2026시즌 전체 16경기에서 6승 4무 6패를 기록하며 평균 1.2득점의 고른 활약을 펼치고 있습니다. 최근 미들즈브러전에서 다소 아쉬운 수비 집중력을 보였으나, 버밍엄 시티와 셰필드 유나이티드를 상대로 연속 승리를 챙기는 등 공격적인 면모는 충분히 살아 있습니다. 필립 클레망 감독은 모하메드 투레와 안소니 무사바를 필두로 한 빠른 역습 전술을 구사하며 원정에서도 득점을 만들어내는 능력을 보유하고 있습니다. 블라단 코바체비치 골키퍼의 선방 능력이 팀의 뒷문을 지탱하고 있지만, 원정길에서의 수비 조직력 강화가 이번 맞대결의 주요 과제가 될 것으로 보입니다. 시즌 전체적으로 승패를 반복하며 기복을 보이고 있으나, 팀의 활동량만큼은 리그 내에서도 경쟁력을 입증하고 있습니다."
+homePower: "엔조 마레스카 감독의 4-1-4-1 대형 내 정교한 패스워크|엘링 홀란드의 높은 결정력은 상대 밀집 수비를 파훼하는 핵심임|잔루이지 돈나룸마의 안정적 후방 빌드업 지원으로 점유율 우위 점함|필 포든과 레이안 셰르키의 유기적인 2선 스위칭 플레이 돋보임|최근 무실점 승리를 통해 수비 라인의 자신감 최고조로 확인됨"
+awayPower: "필립 클레망 감독 체제하에 최전방 강한 압박 전술 구축|모하메드 투레의 빠른 발을 활용한 뒷공간 침투가 위협적임|중원의 케니 맥린이 경기 전체적인 템포 조절과 수비 가담 주도|측면 수비수들의 과감한 오버래핑을 통한 공격 숫자 확보 능함|원정 경기임에도 조직적인 지역 방어로 실점 억제력 증명됨"
+h2h: '[{"date":"22.02.13","home":"노리치 시티","away":"맨시티","score":"0-4"},{"date":"21.08.21","home":"맨시티","away":"노리치 시티","score":"5-0"},{"date":"20.07.27","home":"맨시티","away":"노리치 시티","score":"5-0"},{"date":"19.09.15","home":"노리치 시티","away":"맨시티","score":"3-2"},{"date":"16.03.12","home":"노리치 시티","away":"맨시티","score":"0-0"}]'
+summary: "맨시티는 최근 흐름에서 연승을 기록하며 전력의 정점을 향해 가고 있고, 홈에서의 경기력 또한 탄탄하게 유지되고 있습니다. 노리치 시티는 공격적인 색채가 강해 득점 생산력은 준수하지만, 상위 전력을 상대로 수비 집중력이 흔들리는 경향이 있어 이번 원정에서도 다소 고전할 가능성이 커 보입니다. 상대전적에서도 맨시티가 압도적인 우위를 점하고 있으며, 특히 홈에서 보여준 강력한 득점 패턴은 이번 대결에서도 큰 영향을 미칠 것으로 분석됩니다. 전반적인 공수 밸런스와 최근 상승세, 그리고 홈이라는 이점까지 고려할 때 맨시티가 경기를 주도하며 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[]'
+awayRecent: '[]'
+injuryHome: "Jérémy Doku (종아리 부상)"
+injuryAway: "Lucien Mahovo (근육 부상)|Ali Ahmed (부상)|Mirko Topić (십자 인대 부상)"
+homeLineup: '["Gianluigi Donnarumma (GK)|https://images.fotmob.com/image_resources/playerimages/618878.png","Matheus Nunes (DF)|https://images.fotmob.com/image_resources/playerimages/955529.png","Marc Guéhi (DF)|https://images.fotmob.com/image_resources/playerimages/844425.png","Rúben Dias (DF)|https://images.fotmob.com/image_resources/playerimages/614006.png","Joško Gvardiol (DF)|https://images.fotmob.com/image_resources/playerimages/1070712.png","Elliot Anderson (MF)|https://images.fotmob.com/image_resources/playerimages/1089691.png","Phil Foden (MF)|https://images.fotmob.com/image_resources/playerimages/815006.png","Rayan Cherki (MF)|https://images.fotmob.com/image_resources/playerimages/1104053.png","Enzo Fernández (MF)|https://images.fotmob.com/image_resources/playerimages/1137705.png","Antoine Semenyo (FW)|https://images.fotmob.com/image_resources/playerimages/933576.png","Erling Haaland (FW)|https://images.fotmob.com/image_resources/playerimages/737066.png"]'
+awayLineup: '["Vladan Kovačević (GK)|https://images.fotmob.com/image_resources/playerimages/857434.png","Kellen Fisher (DF)|https://images.fotmob.com/image_resources/playerimages/1395694.png","Ruairi McConville (DF)|https://images.fotmob.com/image_resources/playerimages/1355258.png","José Córdoba (DF)|https://images.fotmob.com/image_resources/playerimages/1223132.png","Benjamin Chrisene (DF)|https://images.fotmob.com/image_resources/playerimages/1081241.png","Kenny McLean (MF)|https://images.fotmob.com/image_resources/playerimages/190851.png","Pelle Mattsson (MF)|https://images.fotmob.com/image_resources/playerimages/1026833.png","Andre Brooks (FW)|https://images.fotmob.com/image_resources/playerimages/1396784.png","Anis Ben Slimane (MF)|https://images.fotmob.com/image_resources/playerimages/1055316.png","Anthony Musaba (FW)|https://images.fotmob.com/image_resources/playerimages/1033114.png","Mohamed Touré (FW)|https://images.fotmob.com/image_resources/playerimages/1132069.png"]'
+homeFormation: "4-1-4-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Enzo Maresca|https://images.fotmob.com/image_resources/playerimages/34000.png"
+awayCoach: "Philippe Clement|https://images.fotmob.com/image_resources/playerimages/37988.png"
+pickWinTeam: "맨시티"
+pickWinResult: "승"
+pickHandicapTeam: "맨시티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

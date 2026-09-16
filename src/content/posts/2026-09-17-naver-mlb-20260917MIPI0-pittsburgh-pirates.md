@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 밀워키 브루어스 야구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-16T22:40:00.000Z
+description: "피츠버그 파이러츠 vs 밀워키 브루어스 야구분석: 밀워키 브루어스는 리그순위 1위팀답게 시즌 내내 압도적인 성적을 거두고 있으며, 최근 타선의 공격력 또한 평균 7.8득점을 기… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260917MIPI0-2026-09-17-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 75승 76패를 기록하며 현재 리그순위 9위에 머물러 있습니다. 득실차는 +22.0으로 준수한 수치를 유지하고 있으나, 최근 흐름은 다소 기복을 보이며 안정감이 필요한 상황입니다. 시즌 전체 평균 득점은 4.7점대이며, 투타 밸런스가 한창 좋을 때와 비교하면 최근 9경기에서는 평균 3.4득점으로 다소 화력이 감소한 모습이 역력합니다. 특히 타선의 집중력이 하락하면서 득점 지원이 원활하지 않은 점이 승패에 직접적인 영향을 주고 있습니다. 투수진이 최소 실점으로 버텨야 승산이 높아지는 전력 구조를 띠고 있어, 이번 경기에서도 수비 집중력이 승패의 핵심이 될 것으로 보입니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 94승 57패를 기록하며 리그순위 1위를 달리고 있는 강력한 우승 후보입니다. 득실차 +199.0이 말해주듯 공수 전반에서 압도적인 효율을 보여주며 매 경기 꾸준한 득점력을 유지하고 있습니다. 최근 9경기에서 평균 7.8득점이라는 폭발적인 공격력을 과시하고 있는데, 이는 시즌 평균인 5.1점을 훨씬 상회하는 수치로 타선의 고점 기세가 매우 높습니다. 투수진 또한 탄탄한 선발 로테이션을 바탕으로 안정적인 경기 운영을 펼치고 있어 전력상 약점을 찾기 어려운 상태입니다. 리그 최상위권의 성적이 증명하듯 경기 운영 능력이 검증되어 있으며 원정에서도 꾸준함을 보여주는 팀입니다."
+homePower: "리그순위 9위로 고전 중이나 최근 수비 집중력은 준수함|시즌 득실차 +22.0으로 팽팽한 흐름 유지 가능함|최근 9경기 평균 3.4득점으로 타선 화력 개선이 시급함|Mitch Keller 등 주요 투수진 부상 공백이 실점 변수임|홈에서의 안정적인 수비 운영이 상위권 상대 유일한 돌파구임"
+awayPower: "리그순위 1위다운 압도적인 투타 밸런스 검증됨|최근 9경기 평균 7.8득점으로 화력 폭발 중임|시즌 득실차 +199.0으로 리그 최고 수준 효율 입증됨|원정 경기에서도 흔들림 없는 승리 공식 유지 중임|득점 기회에서의 높은 타점 생산력이 팀의 최대 강점임"
+h2h: '[{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"1-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates/"},{"date":"26.08.07","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807PIMI0-2026-08-07-milwaukee-brewers/"},{"date":"26.08.06","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"4-2","link":"https://pick79.com/posts/detail/analyze-179728-2026-08-06-milwaukee-brewers/"},{"date":"26.08.04","home":"밀워키 브루어스","away":"피츠버그 파이러츠","score":"3-4","link":"https://pick79.com/posts/detail/analyze-179705-2026-08-04-milwaukee-brewers/"},{"date":"26.07.13","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"14-5","link":"https://pick79.com/posts/detail/analyze-179450-2026-07-13-pittsburgh-pirates/"}]'
+summary: "밀워키 브루어스는 리그순위 1위팀답게 시즌 내내 압도적인 성적을 거두고 있으며, 최근 타선의 공격력 또한 평균 7.8득점을 기록할 만큼 매우 뜨거운 상태입니다. 반면 피츠버그 파이러츠는 리그순위 9위에 머물며 타격 흐름이 다소 정체되어 있어, 공수 전력 면에서 밀워키 브루어스가 한 수 위의 기량을 보유하고 있는 것으로 판단됩니다. 양 팀의 최근 득점 생산력 격차와 시즌 전체의 효율을 고려할 때, 원정팀인 밀워키 브루어스가 경기를 주도하며 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.14","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PICC0-2026-09-14-chicago-cubs/"},{"date":"26.09.13","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PICC0-2026-09-13-chicago-cubs/"},{"date":"26.09.12","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"12-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PICC0-2026-09-12-chicago-cubs/"},{"date":"26.09.11","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911PICW0-2026-09-11-chicago-white-sox/"},{"date":"26.09.10","home":"시카고 화이트삭스","away":"피츠버그 파이러츠","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910PICW0-2026-09-10-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.09.14","home":"밀워키 브루어스","away":"신시내티 레즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CIMI0-2026-09-14-milwaukee-brewers/"},{"date":"26.09.13","home":"밀워키 브루어스","away":"신시내티 레즈","score":"13-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CIMI0-2026-09-13-milwaukee-brewers/"},{"date":"26.09.12","home":"밀워키 브루어스","away":"신시내티 레즈","score":"20-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CIMI0-2026-09-12-milwaukee-brewers/"},{"date":"26.09.10","home":"밀워키 브루어스","away":"시카고 컵스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CCMI0-2026-09-10-milwaukee-brewers/"},{"date":"26.09.09","home":"밀워키 브루어스","away":"시카고 컵스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CCMI0-2026-09-09-milwaukee-brewers/"}]'
+injuryHome: "Kirby Yates (신경통)|Braxton Ashcraft (통증)|Isaac Mattson (염증)|Esmerlyn Valdez (좌상)|Mitch Keller (명시되지 않음)"
+injuryAway: "Cooper Pratt (일일 관찰)|Rob Zastryzny (좌상)|Bryse Wilson (좌상)|Grant Anderson (염증)|Brandon Woodruff (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

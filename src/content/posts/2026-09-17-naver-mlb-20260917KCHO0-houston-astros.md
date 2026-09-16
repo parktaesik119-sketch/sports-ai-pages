@@ -1,0 +1,37 @@
+---
+title: "휴스턴 애스트로스 vs 캔자스시티 로열스 야구분석·승부예측 (9월 17일) - 픽천국"
+date: 2026-09-17T00:10:00.000Z
+description: "휴스턴 애스트로스 vs 캔자스시티 로열스 야구분석: 양 팀 모두 시즌 막판 순위 싸움에서 고전하고 있으나 최근 흐름을 고려할 때 접전 양상이 예상됩니다. 휴스턴 애스트로스는 주축… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260917KCHO0-2026-09-17-houston-astros"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "휴스턴 애스트로스"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "휴스턴 애스트로스는 2026시즌 150경기에서 75승 75패, 승률 .500을 기록하며 리그순위 6위에 자리하고 있습니다. 최근 10경기에서 3승 7패로 다소 부진한 흐름을 보이고 있으며 투타 전반에서 안정감이 떨어진 상태입니다. 팀 득실 차이가 -53.0으로 나타나듯 경기 후반 집중력과 득점 지원 부족이 고질적인 약점으로 드러나고 있습니다. 주축 선수들의 부상 이탈이 겹치면서 공수 밸런스 유지에 어려움을 겪고 있으며 홈 경기에서도 기복 있는 경기력을 보여줍니다. 반등을 위해서는 투수진의 조기 실점 억제와 타선의 득점권 집중력 회복이 절실한 시점입니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 150경기에서 66승 84패, 승률 .440을 기록하며 리그순위 13위에 머물러 있습니다. 최근 10경기에서 4승 6패를 기록하며 순위 상승을 위한 돌파구를 찾기 위해 분전하고 있습니다. 득실 차이가 -94.0으로 수비 지표에서 다소 약점을 보이지만 최근 득점 생산력에서 나쁘지 않은 모습을 보이며 경쟁력을 확보했습니다. 원정 경기에서의 승률을 높이기 위해 불펜진의 보강과 실책성 플레이를 줄이는 것이 무엇보다 중요합니다. 하위권 순위에 위치해 있음에도 불구하고 상대와 대등한 경기를 펼치는 저력을 보유하고 있습니다."
+homePower: "핵심 자원 이탈로 인한 뎁스 약화 심화|최근 10경기 승률 하락세로 인한 전력 누수|경기당 득점 효율 저하로 인한 득점권 고민|마운드 붕괴 시 경기 운영 어려움 노출|홈 경기에서의 기복 있는 투수진 운영"
+awayPower: "최근 원정길 득점력 회복으로 인한 반등 가능성|득실 마진 극복을 위한 타격 집중력 유지|불펜진의 실점 억제 능력 제고가 관건임|상대 선발 상성 우위 활용한 초반 공략|시즌 막판 순위 도약을 위한 공격적 야구"
+h2h: '[{"date":"26.06.15","home":"캔자스시티 로열스","away":"휴스턴 애스트로스","score":"4-0","link":"https://pick79.com/posts/detail/analyze-179079-2026-06-15-kansas-city-royals/"},{"date":"26.06.14","home":"캔자스시티 로열스","away":"휴스턴 애스트로스","score":"7-8","link":"https://pick79.com/posts/detail/analyze-179063-2026-06-14-kansas-city-royals/"},{"date":"26.06.13","home":"캔자스시티 로열스","away":"휴스턴 애스트로스","score":"8-10"}]'
+summary: "양 팀 모두 시즌 막판 순위 싸움에서 고전하고 있으나 최근 흐름을 고려할 때 접전 양상이 예상됩니다. 휴스턴 애스트로스는 주축 선수들의 공백으로 인해 전력 불안 요소가 큰 상황이며 투타의 밸런스가 조화롭지 못해 어려움을 겪고 있습니다. 반면 캔자스시티 로열스는 원정에서의 성적이 반등을 향한 중요한 변수가 되고 있으며 최근 타선에서 집중력을 발휘하는 모습이 긍정적입니다. 상대전적에서의 팽팽했던 경기 양상을 고려할 때 이번 경기는 어느 한 팀이 크게 앞서기보다 투수진의 안정감과 경기 후반 집중력이 승부를 결정짓는 핵심 요소가 될 것입니다. 전반적인 분위기와 선수 구성의 흐름을 종합했을 때 캔자스시티 로열스가 이번 경기에서 상대보다 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.14","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"14-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914HOTB0-2026-09-14-tampa-bay-rays/"},{"date":"26.09.13","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913HOTB0-2026-09-13-tampa-bay-rays/"},{"date":"26.09.12","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912HOTB0-2026-09-12-tampa-bay-rays/"},{"date":"26.09.11","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911HOPH0-2026-09-11-philadelphia-phillies/"},{"date":"26.09.10","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910HOPH0-2026-09-10-philadelphia-phillies/"}]'
+awayRecent: '[{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"},{"date":"26.09.10","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910AZKC0-2026-09-10-kansas-city-royals/"},{"date":"26.09.09","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909AZKC0-2026-09-09-kansas-city-royals/"}]'
+injuryHome: "Brice Matthews (염좌)|Steven Okert (긴장)|Taylor Trammell (부친 휴가)|Mike Burrows (염증)|Carlos Correa (수술)"
+injuryAway: "Tony Gonsolin (수술)|Connor Seabold (긴장)|James McArthur (수술)|Beck Way (부상)|Carlos Estevez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "캔자스시티 로열스"
+pickWinResult: "승"
+pickHandicapTeam: "캔자스시티 로열스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
