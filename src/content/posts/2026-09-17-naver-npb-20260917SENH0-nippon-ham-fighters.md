@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.15","home":"니혼햄 파이터즈","away":"지바 
 awayRecent: '[{"date":"26.09.15","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915SERT0-2026-09-15-rakuten-gold-eagles/"},{"date":"26.09.13","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913NHSE0-2026-09-13-seibu-lions/"},{"date":"26.09.12","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912NHSE0-2026-09-12-seibu-lions/"},{"date":"26.09.11","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911SEOX0-2026-09-11-orix-buffaloes/"},{"date":"26.09.10","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910SEOX0-2026-09-10-orix-buffaloes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kota Tatsu (4-7, 3.02)|https://p.npb.jp/players_photo/2026/180/f/016_01205155.jpg\"]"
+awayLineup: "[\"선발투수 Shinya Sugai (2-2, 2.79)|https://p.npb.jp/players_photo/2026/180/l/071_71075155.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

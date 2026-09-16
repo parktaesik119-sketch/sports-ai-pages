@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.15","home":"야쿠르트 스왈로우스","away":"�
 awayRecent: '[{"date":"26.09.15","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"13-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915YOYK0-2026-09-15-yokohama-baystars/"},{"date":"26.09.14","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914YOYK0-2026-09-14-yokohama-baystars/"},{"date":"26.09.13","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913YOYK0-2026-09-13-yokohama-baystars/"},{"date":"26.09.12","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912YKHI0-2026-09-12-hiroshima-carp/"},{"date":"26.09.11","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911YKHI0-2026-09-11-hiroshima-carp/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yasunobu Okugawa (7-8, 2.76)|https://p.npb.jp/players_photo/2026/180/s/018_31735151.jpg\"]"
+awayLineup: "[\"선발투수 Yutaro Ishida (4-8, 3.18)|https://p.npb.jp/players_photo/2026/180/db/054_21125159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

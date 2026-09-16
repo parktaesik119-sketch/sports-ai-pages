@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.15","home":"한신 타이거스","away":"주니치 
 awayRecent: '[{"date":"26.09.15","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915HIYA0-2026-09-15-yakult-swallows/"},{"date":"26.09.14","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914HIYA0-2026-09-14-yakult-swallows/"},{"date":"26.09.13","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913HIYA0-2026-09-13-yakult-swallows/"},{"date":"26.09.12","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912YKHI0-2026-09-12-hiroshima-carp/"},{"date":"26.09.11","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911YKHI0-2026-09-11-hiroshima-carp/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Haruto Takahashi (13-3, 1.94)|https://p.npb.jp/players_photo/2026/180/t/029_91095136.jpg\"]"
+awayLineup: "[\"선발투수 Hiroki Tokoda (7-4, 2.68)|https://p.npb.jp/players_photo/2026/180/c/019_11415134.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
