@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.16","home":"클리블랜드 가디언스","away":"�
 injuryHome: "Chase DeLauter (경미)|Angel Martinez (경미)|Colin Holderman (주요)|Rhys Hoskins (주요)|Shawn Armstrong (주요)"
 injuryAway: "Drew Thorpe (주요)|Tommy Pham (주요)|Huascar Brazoban (주요)|Tanner Murray (주요)|Joey Bart (주요)"
 homeLineup: "[\"선발투수 P. Messick (11-9, 2.51) ERA 2.51|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 A. Kay (9-9, 4.53) ERA 4.53|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
