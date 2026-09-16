@@ -137,8 +137,16 @@ function getH2hWeight(h2hCount) {
 }
 
 // 가중 평균: H2H 경기 수에 따라 동적 가중치 적용 (H2H 없으면 최근 경기 100%)
+// ⚠️ 2026-09 수정: 예전엔 recentAvg가 null이면(최근폼 데이터를 전혀 못 가져온 경우)
+// h2hAvg가 있어도 무조건 null을 반환했다. 그 결과 calcExpectedScores() 전체가 null이 되어
+// (1) 📊[Avg] 로그가 안 찍히고 (2) AI에게 줄 예상스코어 지시(ouInstruction)까지 통째로
+// 사라져서 AI가 아무 제약 없이 스코어를 지어내는 사고로 이어졌다(실사용 확인,
+// 2026-09 — 플라멩구 vs 인디펜디엔테 델 바예 경기에서 homeRecentMatches/awayRecentMatches가
+// 빈 배열인 채로 예상스코어 18:2가 그대로 저장됨). 최근폼이 없어도 H2H 데이터가 있으면
+// H2H만으로라도 평균을 내도록 폴백을 추가한다.
 function weightedAvg(recentAvg, h2hAvg, h2hCount = 0) {
-  if (recentAvg === null) return null;
+  if (recentAvg === null && h2hAvg === null) return null;
+  if (recentAvg === null) return h2hAvg;      // 최근폼 없음 → H2H만으로 평균
   if (h2hAvg === null || h2hCount === 0) return recentAvg;
   const h2hWeight = getH2hWeight(h2hCount);
   return recentAvg * (1 - h2hWeight) + h2hAvg * h2hWeight;
@@ -996,6 +1004,7 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     // 업스트림을 고쳐도(resolveHomeFirst 등) 남아있을 수 있는 다른 소스발 오염까지 잡는
     // 마지막 안전장치다. masterData만 쓰는 분기에서도 동일하게 한 번 더 걸러 안전하게 둔다.
     const homeSubject = resolveToKoreanName(match.home);
+    const homeMasterDataCount = homeRecentMatches.length; // 병합 전 masterData 원본 건수 (진단 로그용, 아래서 덮어써짐)
     const homeRecentMerged = homeRecentMatches.length >= RECENT_TARGET
       ? homeRecentMatches
       : mergeSoccerMatchSources(
@@ -1010,7 +1019,16 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
       .filter(m => matchTeam(m.home, homeSubject) || matchTeam(m.away, homeSubject))
       .slice(0, 10);
 
+    // ⚠️ [진단용] 최근폼이 0건으로 끝나면 이후 avg 계산/로그 전체가 스킵되므로(weightedAvg에
+    // h2h 폴백을 추가했어도 recentAvg 자체가 없는 상황은 여전히 발생 가능), 원인이
+    // "병합 소스에 애초에 데이터가 없었는지" vs "matchTeam 필터에서 팀명이 안 맞아서
+    // 다 걸러졌는지"를 구분할 수 있도록 병합 전/후 건수를 남긴다.
+    if (homeRecentMatches.length === 0) {
+      console.warn(`⚠️ [최근폼 0건] ${match.home}(subject=${homeSubject}) | 원본 소스별 건수 - masterData=${homeMasterDataCount}건 fotmob=${fotmobInfo?.recent?.home?.length ?? 0}건 espn=${espnInfo?.recent?.home?.length ?? 0}건 | 병합후(필터전)=${homeRecentMerged.length}건 → matchTeam 필터후=0건 | 병합후>0인데 필터후 0건이면 matchTeam/resolveToKoreanName 팀명 불일치가 원인, 병합후도 0건이면 세 소스 모두 이 경기 데이터가 없는 것`);
+    }
+
     const awaySubject = resolveToKoreanName(match.away);
+    const awayMasterDataCount = awayRecentMatches.length; // 병합 전 masterData 원본 건수 (진단 로그용, 아래서 덮어써짐)
     const awayRecentMerged = awayRecentMatches.length >= RECENT_TARGET
       ? awayRecentMatches
       : mergeSoccerMatchSources(
@@ -1024,6 +1042,11 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     awayRecentMatches = awayRecentMerged
       .filter(m => matchTeam(m.home, awaySubject) || matchTeam(m.away, awaySubject))
       .slice(0, 10);
+
+    // ⚠️ [진단용] home쪽과 동일한 이유
+    if (awayRecentMatches.length === 0) {
+      console.warn(`⚠️ [최근폼 0건] ${match.away}(subject=${awaySubject}) | 원본 소스별 건수 - masterData=${awayMasterDataCount}건 fotmob=${fotmobInfo?.recent?.away?.length ?? 0}건 espn=${espnInfo?.recent?.away?.length ?? 0}건 | 병합후(필터전)=${awayRecentMerged.length}건 → matchTeam 필터후=0건 | 병합후>0인데 필터후 0건이면 matchTeam/resolveToKoreanName 팀명 불일치가 원인, 병합후도 0건이면 세 소스 모두 이 경기 데이터가 없는 것`);
+    }
 
     // 표시용 라벨도 실제 우선순위(masterData 최우선)에 맞춰 판단한다 — masterData만으로
     // 충분했으면 fotmob에 데이터가 있어도 실제로는 안 쓰였으므로 '내부 DB'로 표기.
@@ -1837,6 +1860,30 @@ if (homeAnalysisSentences < 3 || awayAnalysisSentences < 3) {
   };
   let finalExpectedHome = sanitizeScore(pickExpectedHome);
   let finalExpectedAway = sanitizeScore(pickExpectedAway);
+
+  // ⚠️ 최종 방어선: 축구/하키는 finalExpectedHome/Away가 그대로 화면에 노출되는데(농구/야구는
+  // 아래 OU_SPORTS 처리에서 언더오버로 변환되며 지워짐), expectedScores가 null이라 JS가
+  // AI에게 줄 스코어 지시(ouInstruction)를 못 만든 경우 AI가 완전히 임의의 숫자를 써버릴 수
+  // 있다(실사용 확인, 2026-09 — 플라멩구 vs 인디펜디엔테 델 바예 18:2 사고). weightedAvg
+  // h2h 폴백과 진단 로그를 추가했지만, masterData/fotmob/espn 세 소스 전부에 최근폼·H2H가
+  // 하나도 없는 극단적 케이스까지는 막지 못하므로, 팀당 득점이 종목별 현실 범위를 벗어나면
+  // 강제로 clamp한다.
+  const SPORT_SCORE_CAP = { soccer: 6, hockey: 9 };
+  if (SPORT_SCORE_CAP[cat]) {
+    const cap = SPORT_SCORE_CAP[cat];
+    const clampScore = (val) => {
+      if (!val) return val;
+      const n = parseInt(val, 10);
+      if (isNaN(n)) return val;
+      return String(Math.min(Math.max(n, 0), cap));
+    };
+    const rawHome = finalExpectedHome, rawAway = finalExpectedAway;
+    finalExpectedHome = clampScore(finalExpectedHome);
+    finalExpectedAway = clampScore(finalExpectedAway);
+    if (rawHome !== finalExpectedHome || rawAway !== finalExpectedAway) {
+      console.warn(`⚠️ [예상스코어 비정상 감지→clamp] ${match.home} vs ${match.away} (${cat}) | AI 원본 ${rawHome}:${rawAway} → ${finalExpectedHome}:${finalExpectedAway}로 보정 (팀당 상한 ${cap}점)`);
+    }
+  }
 
   // 축구에서 "진짜 무승부 픽"인 경우에만 동점 스코어를 그대로 인정한다.
   // (승/패 픽인데 스코어만 동점으로 나오는 건 AI 환각이므로 보정 대상)
