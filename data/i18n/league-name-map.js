@@ -43,6 +43,7 @@ export const EXACT_LEAGUE_MAP = {
   "UEFA Champions League": "UEFA 챔피언스리그",
   "UEFA Champions League Qualification": "UEFA 챔피언스리그 예선",
   "UEFA Europa League": "UEFA 유로파리그",
+  "Europa League": "UEFA 유로파리그",
   "UEFA Europa League Qualification": "유로파리그 예선",
   "Europa League Qualification": "유로파리그 예선",
   "Conference League": "컨퍼런스리그",
