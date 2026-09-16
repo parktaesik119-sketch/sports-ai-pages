@@ -1615,7 +1615,13 @@ ${matchDataPrompt}
 if (success) {
   await new Promise(res => setTimeout(res, 6000));
 } else {
-  retryQueue.push({ match, dateShort, cat, dateOnly, savePath, h2hContent, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal });
+  // ⚠️ 2026-09 수정: 예전엔 재시도(analyzeMatchesRetry)가 팀명/리그/종목 규칙만 담은
+  // 빈약한 retryPrompt를 새로 만들어 썼다. 그 결과 ouInstruction(JS가 계산한 예상 스코어
+  // 지시문)·handicapInstruction·H2H·최근폼 DB가 전부 재시도에서 빠졌고, 데이터 없이
+  // 픽을 만들어야 하는 모델이 형식을 더 쉽게 깨서 최종 실패(=글 자체가 스킵)로 이어졌다.
+  // 1차 시도 때 이미 완성해둔 matchDataPrompt(모든 컨텍스트 포함)를 그대로 저장해두고
+  // 재시도에서 재사용하도록 고친다 — 재계산 불필요, 1차 시도와 완전히 동일한 데이터 보장.
+  retryQueue.push({ match, dateShort, cat, dateOnly, savePath, h2hContent, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, matchDataPrompt, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal });
   console.warn(`🕐 [재시도 큐 등록] ${match.home} vs ${match.away} (현재 ${retryQueue.length}건)`);
 }
 } // else (cat 판별) 닫기
@@ -1631,38 +1637,24 @@ async function analyzeMatchesRetry() {
   await new Promise(res => setTimeout(res, 10000));
 
   for (const item of retryQueue) {
-    const { match, dateShort, cat, dateOnly, savePath, h2hContent, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson = '', fotmobAwayLineupJson = '', fotmobHomeFormationVal = '', fotmobAwayFormationVal = '', fotmobHomeCoachVal = '', fotmobAwayCoachVal = '' } = item;
+    const { match, dateShort, cat, dateOnly, savePath, h2hContent, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, matchDataPrompt, fotmobHomeLineupJson = '', fotmobAwayLineupJson = '', fotmobHomeFormationVal = '', fotmobAwayFormationVal = '', fotmobHomeCoachVal = '', fotmobAwayCoachVal = '' } = item;
     const aiHomeName = TEAM_NAME_MAP[match.home] || match.home;
     const aiAwayName = TEAM_NAME_MAP[match.away] || match.away;
-    const gameContext = cat === 'lol' ? "이 경기는 '리그오브레전드(롤)' 이스포츠 경기다." : "";
 
-    const baseballOuRange = (() => {
-  const lgUpper = (match.league || '').toUpperCase();
-  if (lgUpper.includes('MLB')) return '7.5~10.5';
-  if (lgUpper.includes('NPB')) return '4.5~8.5';
-  if (lgUpper.includes('KBO')) return '5.5~10.5';
-  return '5.5~9.5'; // CPBL 등 기본값
-})();
-
-    const sportPickRule = cat === 'lol'
-  ? `핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 2.5 세트)`
-  : cat === 'volleyball'
-  ? `배구다. 핸디캡과 오버언더 수치는 반드시 세트(set) 기준. 수치 뒤에 '세트'를 붙여라. (예: -1.5 세트, 3.5 세트)`
-  : cat === 'basketball'
-  ? `농구다. 핸디캡은 양 팀 전력 차를 분석해 -2.5~-15.5 범위에서 0.25 단위 소수점으로 산출하라. 정수 출력 절대 금지. 오버언더는 양 팀 각각 최근 5경기 최고/최저 득점 제거 후 평균을 구한 뒤 (홈팀 평균 + 원정팀 평균) ÷ 2 로 산출하고 155.5~215.5 범위에서 0.5 단위로 반올림하라. (예: 155.5, 156.0, 156.5)`
-  : cat === 'baseball'
-  ? `야구다. 핸디캡은 -1.5 또는 +1.5 중 선택. 오버언더는 양 팀 각각 최근 5경기 최고/최저 득점 제거 후 평균을 구한 뒤 (홈팀 평균 + 원정팀 평균) ÷ 2 로 산출하고 ${baseballOuRange} 범위(리그별 득점 수준 반영)에서 0.5 단위로 반올림하라.`
-  : `핸디캡과 오버언더 수치 뒤에 '세트'를 절대 붙이지 마라. 오버언더는 양 팀 각각 최근 5경기 최고/최저 득점 제거 후 평균을 구한 뒤 (홈팀 평균 + 원정팀 평균) ÷ 2 로 산출하고 0.5 단위로 반올림하라.`;
-
+    // ⚠️ 2026-09 수정: 예전엔 여기서 팀명/리그/종목 규칙만 다시 조립한 빈약한 프롬프트를
+    // 새로 만들어 썼다 — ouInstruction(JS 계산 예상 스코어 지시)·handicapInstruction·H2H·
+    // 최근폼 DB가 전부 빠진 채로 모델에게 픽을 지어내라고 하는 셈이었다. matchDataPrompt는
+    // 1차 시도 때 이미 완성해둔, 그 매치의 모든 컨텍스트(ouInstruction/handicapInstruction
+    // 포함)가 담긴 동일한 프롬프트이므로 그대로 재사용한다 — 재계산 불필요, 1차 시도와
+    // 완전히 같은 데이터를 근거로 재시도하게 만든다.
     const retryPrompt = `
 [재분석 요청]
-이전 응답이 유효하지 않아 재분석합니다. 반드시 아래 형식 그대로 모든 키를 출력하세요.
+이전 응답이 형식을 지키지 않았거나 PICK_WIN_TEAM/PICK_HANDICAP_VALUE/PICK_EXPECTED_HOME/PICK_EXPECTED_AWAY 등
+필수 항목이 누락되어 재분석합니다. 아래 데이터는 이전 시도와 동일합니다.
+[출력 형식 - 절대 엄수]에 정의된 모든 키를, 특히 PICK_로 시작하는 항목을 절대 하나도 빠뜨리지 말고
+반드시 새 줄에서 시작해 전부 출력하세요. 각 키는 정확히 한 번씩만 출력하세요.
 
-${gameContext}
-- 홈팀: ${aiHomeName}
-- 원정팀: ${aiAwayName}
-- 리그: ${match.league}
-- ${sportPickRule}
+${matchDataPrompt}
 `;
 
     try {
