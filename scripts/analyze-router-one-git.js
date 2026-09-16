@@ -1021,11 +1021,15 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
           null, null, homeSubject
         );
     homeRecentMatches = homeRecentMerged
-      // ⚠️ 2026-09 버그 수정: m.home/m.away와 homeSubject 모두 resolveToKoreanName()으로
-      // 이미 한글화된 값이다. matchTeam(영문 퍼지매칭용)으로 비교하면 한글끼리는 항상 매칭이
-      // 실패해서(실사용 로그 확인 — 플라멩구/인디펜디엔테 델 바예 둘 다 "병합후 10건 →
-      // matchTeam 필터후 0건"으로 100% 소실) 완전일치(===)로 수정.
-      .filter(m => m.home === homeSubject || m.away === homeSubject)
+      // ⚠️ 2026-09 버그 수정 2탄: homeRecentMatches.length >= RECENT_TARGET인 경우(masterData만으로
+      // 충분한 경우, 실제로는 이게 대부분이었음) 위에서 mergeSoccerMatchSources()를 아예
+      // 건너뛰기 때문에, 그 안에서만 일어나는 resolveToKoreanName() 한글 번역도 같이 스킵된다.
+      // 그 결과 homeRecentMerged의 home/away가 영문 원본 그대로 남는데, homeSubject는 번역된
+      // 한글이라 === 비교도 항상 실패했다(실사용 로그 확인 — masterData가 정확히 RECENT_TARGET인
+      // 10건씩 찍힐 때마다 100% 재현). 어느 분기를 타든 안전하도록 필터링 시점에 직접 번역해서
+      // 비교한다(이미 한글인 값에 다시 적용해도 무해 — resolveToKoreanName은 한글 입력은 그대로
+      // 통과시킴).
+      .filter(m => resolveToKoreanName(m.home) === homeSubject || resolveToKoreanName(m.away) === homeSubject)
       .slice(0, 10);
 
     // ⚠️ [진단용] 최근폼이 0건으로 끝나면 이후 avg 계산/로그 전체가 스킵되므로(weightedAvg에
@@ -1033,7 +1037,9 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
     // "병합 소스에 애초에 데이터가 없었는지" vs "matchTeam 필터에서 팀명이 안 맞아서
     // 다 걸러졌는지"를 구분할 수 있도록 병합 전/후 건수를 남긴다.
     if (homeRecentMatches.length === 0) {
-      console.warn(`⚠️ [최근폼 0건] ${match.home}(subject=${homeSubject}) | 원본 소스별 건수 - masterData=${homeMasterDataCount}건 fotmob=${fotmobInfo?.recent?.home?.length ?? 0}건 espn=${espnInfo?.recent?.home?.length ?? 0}건 | 병합후(필터전)=${homeRecentMerged.length}건 → matchTeam 필터후=0건 | 병합후>0인데 필터후 0건이면 matchTeam/resolveToKoreanName 팀명 불일치가 원인, 병합후도 0건이면 세 소스 모두 이 경기 데이터가 없는 것`);
+      // JSON.stringify로 감싸서 보이지 않는 공백이나 특수문자까지 눈에 띄게 만든다.
+      const sampleRows = homeRecentMerged.slice(0, 3).map(m => `{home:${JSON.stringify(m.home)}, away:${JSON.stringify(m.away)}}`).join(' / ');
+      console.warn(`⚠️ [최근폼 0건] raw match.home=${JSON.stringify(match.home)} → homeSubject=${JSON.stringify(homeSubject)} | 원본 소스별 건수 - masterData=${homeMasterDataCount}건 fotmob=${fotmobInfo?.recent?.home?.length ?? 0}건 espn=${espnInfo?.recent?.home?.length ?? 0}건 | 병합후(필터전)=${homeRecentMerged.length}건 → 완전일치 필터후=0건 | 병합된 샘플 3건: ${sampleRows} | homeSubject와 위 home/away 문자열을 눈으로 대조해서 어디서 다른지 확인할 것`);
     }
 
     const awaySubject = resolveToKoreanName(match.away);
@@ -1050,12 +1056,13 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
         );
     awayRecentMatches = awayRecentMerged
       // ⚠️ home쪽과 동일한 이유로 수정
-      .filter(m => m.home === awaySubject || m.away === awaySubject)
+      .filter(m => resolveToKoreanName(m.home) === awaySubject || resolveToKoreanName(m.away) === awaySubject)
       .slice(0, 10);
 
     // ⚠️ [진단용] home쪽과 동일한 이유
     if (awayRecentMatches.length === 0) {
-      console.warn(`⚠️ [최근폼 0건] ${match.away}(subject=${awaySubject}) | 원본 소스별 건수 - masterData=${awayMasterDataCount}건 fotmob=${fotmobInfo?.recent?.away?.length ?? 0}건 espn=${espnInfo?.recent?.away?.length ?? 0}건 | 병합후(필터전)=${awayRecentMerged.length}건 → matchTeam 필터후=0건 | 병합후>0인데 필터후 0건이면 matchTeam/resolveToKoreanName 팀명 불일치가 원인, 병합후도 0건이면 세 소스 모두 이 경기 데이터가 없는 것`);
+      const sampleRows = awayRecentMerged.slice(0, 3).map(m => `{home:${JSON.stringify(m.home)}, away:${JSON.stringify(m.away)}}`).join(' / ');
+      console.warn(`⚠️ [최근폼 0건] raw match.away=${JSON.stringify(match.away)} → awaySubject=${JSON.stringify(awaySubject)} | 원본 소스별 건수 - masterData=${awayMasterDataCount}건 fotmob=${fotmobInfo?.recent?.away?.length ?? 0}건 espn=${espnInfo?.recent?.away?.length ?? 0}건 | 병합후(필터전)=${awayRecentMerged.length}건 → 완전일치 필터후=0건 | 병합된 샘플 3건: ${sampleRows} | awaySubject와 위 home/away 문자열을 눈으로 대조해서 어디서 다른지 확인할 것`);
     }
 
     // 표시용 라벨도 실제 우선순위(masterData 최우선)에 맞춰 판단한다 — masterData만으로
