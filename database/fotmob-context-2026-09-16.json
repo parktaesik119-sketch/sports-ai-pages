@@ -11568,9 +11568,9 @@
     "injuries": {
       "home": [
         {
-          "name": "Julián Álvarez",
+          "name": "Pablo Barrios",
           "status": "근육 부상",
-          "detail": "Late September 2026"
+          "detail": "About 1-2 weeks"
         },
         {
           "name": "Alexander Sørloth",
@@ -11578,9 +11578,9 @@
           "detail": "Back in training"
         },
         {
-          "name": "Pablo Barrios",
+          "name": "Julián Álvarez",
           "status": "근육 부상",
-          "detail": "About 1-2 weeks"
+          "detail": "Late September 2026"
         }
       ],
       "away": [
@@ -11871,7 +11871,7 @@
         "Iñigo Arguibide (DF)|https://images.fotmob.com/image_resources/playerimages/1614872.png",
         "Rockson Yeboah (DF)|https://images.fotmob.com/image_resources/playerimages/1603025.png",
         "Alejandro Catena (DF)|https://images.fotmob.com/image_resources/playerimages/814663.png",
-        "Diego Rico (DF)|https://images.fotmob.com/image_resources/playerimages/488718.png",
+        "Abel Bretones (DF)|https://images.fotmob.com/image_resources/playerimages/1323398.png",
         "Jon Moncayola (MF)|https://images.fotmob.com/image_resources/playerimages/921825.png",
         "Iker Muñoz (MF)|https://images.fotmob.com/image_resources/playerimages/1323863.png",
         "Jonathan Dubasin (FW)|https://images.fotmob.com/image_resources/playerimages/1242139.png",
@@ -12280,16 +12280,16 @@
     "lineup": {
       "home": [
         "Joan García (GK)|https://images.fotmob.com/image_resources/playerimages/1167220.png",
-        "Eric García (DF)|https://images.fotmob.com/image_resources/playerimages/940573.png",
+        "Jules Koundé (DF)|https://images.fotmob.com/image_resources/playerimages/705450.png",
         "Pau Cubarsí (DF)|https://images.fotmob.com/image_resources/playerimages/1532137.png",
-        "Gerard Martín (DF)|https://images.fotmob.com/image_resources/playerimages/1598982.png",
+        "Andreas Christensen (DF)|https://images.fotmob.com/image_resources/playerimages/449232.png",
         "João Cancelo (DF)|https://images.fotmob.com/image_resources/playerimages/361757.png",
-        "Dani Olmo (MF)|https://images.fotmob.com/image_resources/playerimages/614834.png",
         "Rodri (MF)|https://images.fotmob.com/image_resources/playerimages/675088.png",
         "Pedri (MF)|https://images.fotmob.com/image_resources/playerimages/1083323.png",
         "Lamine Yamal (FW)|https://images.fotmob.com/image_resources/playerimages/1467236.png",
-        "Raphinha (FW)|https://images.fotmob.com/image_resources/playerimages/696679.png",
-        "Anthony Gordon (FW)|https://images.fotmob.com/image_resources/playerimages/906937.png"
+        "Dani Olmo (MF)|https://images.fotmob.com/image_resources/playerimages/614834.png",
+        "Anthony Gordon (FW)|https://images.fotmob.com/image_resources/playerimages/906937.png",
+        "Raphinha (FW)|https://images.fotmob.com/image_resources/playerimages/696679.png"
       ],
       "away": [
         "Julen Agirrezabala (GK)|https://images.fotmob.com/image_resources/playerimages/1280020.png",
@@ -12306,7 +12306,7 @@
       ]
     },
     "formation": {
-      "home": "4-3-3",
+      "home": "4-2-3-1",
       "away": "4-2-3-1"
     },
     "coach": {
@@ -12339,7 +12339,12 @@
       ],
       "away": [
         {
-          "name": "Iñaki Williams",
+          "name": "Gorka Guruzeta",
+          "status": "햄스트링 부상",
+          "detail": "Back in training"
+        },
+        {
+          "name": "Peio Canales",
           "status": "근육 부상",
           "detail": "Doubtful"
         },
@@ -12352,16 +12357,6 @@
           "name": "Unai Eguiluz",
           "status": "십자 인대 부상",
           "detail": "Mid January 2027"
-        },
-        {
-          "name": "Peio Canales",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Gorka Guruzeta",
-          "status": "햄스트링 부상",
-          "detail": "Back in training"
         }
       ]
     },
@@ -12632,12 +12627,12 @@
         "Adrián De La Fuente (DF)|https://images.fotmob.com/image_resources/playerimages/952528.png",
         "Aïssa Mandi (DF)|https://images.fotmob.com/image_resources/playerimages/210683.png",
         "Manuel Sánchez (DF)|https://images.fotmob.com/image_resources/playerimages/1052330.png",
-        "Jon Olasagasti (MF)|https://images.fotmob.com/image_resources/playerimages/1131957.png",
-        "Oriol Rey (MF)|https://images.fotmob.com/image_resources/playerimages/914401.png",
-        "Roger Brugué (MF)|https://images.fotmob.com/image_resources/playerimages/1286471.png",
         "Enzo Bardeli (MF)|https://images.fotmob.com/image_resources/playerimages/1332540.png",
-        "Thiago Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/1460063.png",
-        "Iván Romero (FW)|https://images.fotmob.com/image_resources/playerimages/1209441.png"
+        "Oriol Rey (MF)|https://images.fotmob.com/image_resources/playerimages/914401.png",
+        "Jon Olasagasti (MF)|https://images.fotmob.com/image_resources/playerimages/1131957.png",
+        "Roger Brugué (MF)|https://images.fotmob.com/image_resources/playerimages/1286471.png",
+        "Iván Romero (FW)|https://images.fotmob.com/image_resources/playerimages/1209441.png",
+        "Thiago Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/1460063.png"
       ],
       "away": [
         "Unai Simón (GK)|https://images.fotmob.com/image_resources/playerimages/660625.png",
@@ -12650,11 +12645,11 @@
         "Robert Navarro (FW)|https://images.fotmob.com/image_resources/playerimages/1011117.png",
         "Oihan Sancet (MF)|https://images.fotmob.com/image_resources/playerimages/950545.png",
         "Nico Williams (FW)|https://images.fotmob.com/image_resources/playerimages/1202110.png",
-        "Alex Berenguer (FW)|https://images.fotmob.com/image_resources/playerimages/574629.png"
+        "Iñaki Williams (FW)|https://images.fotmob.com/image_resources/playerimages/604105.png"
       ]
     },
     "formation": {
-      "home": "4-2-3-1",
+      "home": "4-3-3",
       "away": "4-2-3-1"
     },
     "coach": {
@@ -14824,7 +14819,13 @@
           "detail": "Late September 2026"
         }
       ],
-      "away": []
+      "away": [
+        {
+          "name": "Bence Ötvös",
+          "status": "십자 인대 부상",
+          "detail": "Early December 2026"
+        }
+      ]
     },
     "h2h": [
       {
