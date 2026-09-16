@@ -313,9 +313,13 @@ function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam, subje
         if (Number.isNaN(rTime) || Number.isNaN(gTime)) return false;
         if (Math.abs(rTime - gTime) > 2 * 24 * 60 * 60 * 1000) return false;
         if (!awayTeam) {
+          // ⚠️ 2026-09 버그 수정: row.home/g0.home은 둘 다 위 normalizeRow()에서 이미
+          // resolveToKoreanName()으로 한글화된 값이다. matchTeam()은 영문 퍼지매칭용이라
+          // 한글끼리 비교하면 항상 실패해서(실사용 확인) 그룹핑 자체가 안 되는 사고가 있었다.
+          // 완전일치(===)가 정답이다.
           const sameOpponentPair =
-            (matchTeam(row.home, g0.home) && matchTeam(row.away, g0.away)) ||
-            (matchTeam(row.home, g0.away) && matchTeam(row.away, g0.home));
+            (row.home === g0.home && row.away === g0.away) ||
+            (row.home === g0.away && row.away === g0.home);
           if (sameOpponentPair) return true;
 
           // ⚠️ 한글 변환까지 거쳤는데도(위 normalizeRow) 상대팀 이름이 안 겹치면 —
@@ -324,10 +328,11 @@ function mergeSoccerMatchSources(sourceListsWithLabel, homeTeam, awayTeam, subje
           // 같은 경기로 본다. 이름 매칭 없이 스코어만으로 판단하는 만큼, 위쪽 공통
           // 날짜범위(±2일)보다 더 엄격하게 ±1일로 좁혀서 오탐 위험을 낮춘다 — 축구는
           // 같은 팀이 하루 만에 재매치하는 일이 현실적으로 없으므로 안전한 규칙이다
-          // (사용자 제안, 2026-07).
+          // (사용자 제안, 2026-07). 이 안전장치도 원래 matchTeam으로 비교하다가 같은 이유로
+          // 항상 실패했던 걸 완전일치로 수정함(2026-09).
           if (subjectTeam && Math.abs(rTime - gTime) <= 1 * 24 * 60 * 60 * 1000) {
-            const rowHasSubject = matchTeam(row.home, subjectTeam) || matchTeam(row.away, subjectTeam);
-            const g0HasSubject  = matchTeam(g0.home, subjectTeam)  || matchTeam(g0.away, subjectTeam);
+            const rowHasSubject = row.home === subjectTeam || row.away === subjectTeam;
+            const g0HasSubject  = g0.home === subjectTeam  || g0.away === subjectTeam;
             const sameScoreEitherOrder =
               (row.homeScore === g0.homeScore && row.awayScore === g0.awayScore) ||
               (row.homeScore === g0.awayScore && row.awayScore === g0.homeScore);
@@ -1016,7 +1021,11 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
           null, null, homeSubject
         );
     homeRecentMatches = homeRecentMerged
-      .filter(m => matchTeam(m.home, homeSubject) || matchTeam(m.away, homeSubject))
+      // ⚠️ 2026-09 버그 수정: m.home/m.away와 homeSubject 모두 resolveToKoreanName()으로
+      // 이미 한글화된 값이다. matchTeam(영문 퍼지매칭용)으로 비교하면 한글끼리는 항상 매칭이
+      // 실패해서(실사용 로그 확인 — 플라멩구/인디펜디엔테 델 바예 둘 다 "병합후 10건 →
+      // matchTeam 필터후 0건"으로 100% 소실) 완전일치(===)로 수정.
+      .filter(m => m.home === homeSubject || m.away === homeSubject)
       .slice(0, 10);
 
     // ⚠️ [진단용] 최근폼이 0건으로 끝나면 이후 avg 계산/로그 전체가 스킵되므로(weightedAvg에
@@ -1040,7 +1049,8 @@ return isAwayTeam && isPast && isRecentEnough && isValidScore && isSameSport && 
           null, null, awaySubject
         );
     awayRecentMatches = awayRecentMerged
-      .filter(m => matchTeam(m.home, awaySubject) || matchTeam(m.away, awaySubject))
+      // ⚠️ home쪽과 동일한 이유로 수정
+      .filter(m => m.home === awaySubject || m.away === awaySubject)
       .slice(0, 10);
 
     // ⚠️ [진단용] home쪽과 동일한 이유
