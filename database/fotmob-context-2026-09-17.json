@@ -276,40 +276,8 @@
     "date": "2026-09-15T19:00:00.000Z",
     "league": "EFL Cup",
     "injuries": {
-      "home": [
-        {
-          "name": "Emersonn",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Jack Taylor",
-          "status": "무릎 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Azor Matusiwa",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        }
-      ],
-      "away": [
-        {
-          "name": "Ben White",
-          "status": "사타구니 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Cristhian Mosquera",
-          "status": "충돌 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "William Saliba",
-          "status": "등 부상",
-          "detail": "Mid October 2026"
-        }
-      ]
+      "home": [],
+      "away": []
     },
     "h2h": [
       {
@@ -1333,7 +1301,7 @@
         "Mujaid Sadick (DF)|https://images.fotmob.com/image_resources/playerimages/939427.png",
         "Adrià Pedrosa (DF)|https://images.fotmob.com/image_resources/playerimages/927646.png",
         "Unai López (MF)|https://images.fotmob.com/image_resources/playerimages/571615.png",
-        "Pathé Ciss (DF)|https://images.fotmob.com/image_resources/playerimages/872396.png",
+        "Pathé Ciss (MF)|https://images.fotmob.com/image_resources/playerimages/872396.png",
         "Pedro Díaz (MF)|https://images.fotmob.com/image_resources/playerimages/715069.png",
         "Giorgi Tsitaishvili (FW)|https://images.fotmob.com/image_resources/playerimages/939061.png",
         "Sergio Camello (FW)|https://images.fotmob.com/image_resources/playerimages/980422.png",
@@ -1652,35 +1620,8 @@
     "date": "2026-09-15T19:30:00.000Z",
     "league": "LaLiga",
     "injuries": {
-      "home": [
-        {
-          "name": "Adam Boayar",
-          "status": "근육 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Yago Santiago",
-          "status": "무릎 부상",
-          "detail": "Back in training"
-        }
-      ],
-      "away": [
-        {
-          "name": "Éder Militao",
-          "status": "허벅지 부상",
-          "detail": "Mid October 2026"
-        },
-        {
-          "name": "Ferland Mendy",
-          "status": "부상",
-          "detail": "Unknown"
-        },
-        {
-          "name": "Rodrygo",
-          "status": "십자 인대 부상",
-          "detail": "Late December 2026"
-        }
-      ]
+      "home": [],
+      "away": []
     },
     "h2h": [
       {
@@ -2198,13 +2139,7 @@
     "league": "AFC Champions League Elite West",
     "injuries": {
       "home": [],
-      "away": [
-        {
-          "name": "Sultan Al-Ghannam",
-          "status": "십자 인대 부상",
-          "detail": "Mid January 2027"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -2362,23 +2297,7 @@
     "date": "2026-09-15T18:15:00.000Z",
     "league": "AFC Champions League Elite West",
     "injuries": {
-      "home": [
-        {
-          "name": "Theo Hernández",
-          "status": "근육 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Ali Lajami",
-          "status": "햄스트링 부상",
-          "detail": "Early October 2026"
-        },
-        {
-          "name": "Salem Al-Dawsari",
-          "status": "부상",
-          "detail": "Back in training"
-        }
-      ],
+      "home": [],
       "away": []
     },
     "h2h": [
@@ -2703,13 +2622,7 @@
     "date": "2026-09-15T19:00:00.000Z",
     "league": "Coppa Italia",
     "injuries": {
-      "home": [
-        {
-          "name": "Fabiano Parisi",
-          "status": "십자 인대 부상",
-          "detail": "Early December 2026"
-        }
-      ],
+      "home": [],
       "away": []
     },
     "h2h": [
@@ -2849,48 +2762,12 @@
     "injuries": {
       "home": [
         {
-          "name": "Aaron Bouwman",
-          "status": "충돌 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Daley Blind",
-          "status": "충돌 부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Rayane Bounida",
-          "status": "부상",
-          "detail": "Day to day"
-        },
-        {
           "name": "Simon Adingra",
           "status": "발 부상",
           "detail": "Day to day"
         }
       ],
-      "away": [
-        {
-          "name": "Thomas Didillon-Hödl",
-          "status": "햄스트링 부상",
-          "detail": "Unknown"
-        },
-        {
-          "name": "Justin Hoogma",
-          "status": "무릎 부상",
-          "detail": "Late October 2027"
-        },
-        {
-          "name": "Amine Lachkar",
-          "status": "사타구니 부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Armin Culum",
-          "status": "발 부상",
-          "detail": "Day to day"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -3166,228 +3043,6 @@
     "coach": {
       "home": "Míchel|https://images.fotmob.com/image_resources/playerimages/2763.png",
       "away": "John Stegeman|https://images.fotmob.com/image_resources/playerimages/46149.png"
-    }
-  },
-  {
-    "home": "Ross County",
-    "away": "Queen of the South",
-    "date": "2026-09-15T18:45:00.000Z",
-    "league": "League One",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2025-07-19T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Ross County",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-04-26T18:05:00.000Z",
-        "home": "Ross County",
-        "away": "Queen of the South",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-01-12T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Ross County",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-12-08T15:00:00.000Z",
-        "home": "Ross County",
-        "away": "Queen of the South",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2018-09-15T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Ross County",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-05-05T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Ross County",
-        "homeScore": 3,
-        "awayScore": 5
-      },
-      {
-        "date": "2012-03-03T15:00:00.000Z",
-        "home": "Ross County",
-        "away": "Queen of the South",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-01-14T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Ross County",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2011-08-20T14:00:00.000Z",
-        "home": "Ross County",
-        "away": "Queen of the South",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2011-04-26T18:45:00.000Z",
-        "home": "Queen of the South",
-        "away": "Ross County",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2011-04-10T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Ross County",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-03-19T15:00:00.000Z",
-        "home": "Ross County",
-        "away": "Queen of the South",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2010-10-30T14:00:00.000Z",
-        "home": "Ross County",
-        "away": "Queen of the South",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2010-08-28T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Ross County",
-        "homeScore": 3,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Ross County",
-          "away": "Banks O'Dee",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-29T16:30:00.000Z",
-          "home": "Ross County",
-          "away": "East Kilbride",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "East Fife",
-          "away": "Ross County",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Ross County",
-          "away": "Aberdeen B",
-          "homeScore": 3,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Ross County",
-          "away": "Hibernian",
-          "homeScore": 0,
-          "awayScore": 3
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Queen of the South",
-          "away": "Hibernian B",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Montrose",
-          "away": "Queen of the South",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "Queen of the South",
-          "away": "Airdrieonians",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Edinburgh City",
-          "away": "Queen of the South",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Queen of the South",
-          "away": "East Fife",
-          "homeScore": 1,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Bradley Foster (GK)|https://images.fotmob.com/image_resources/playerimages/1224159.png",
-        "Connor Randall (MF)|https://images.fotmob.com/image_resources/playerimages/611682.png",
-        "Akil Wright (DF)|https://images.fotmob.com/image_resources/playerimages/621422.png",
-        "Lewis Reid (DF)|https://images.fotmob.com/image_resources/playerimages/1395690.png",
-        "Lewis Strapp (DF)|https://images.fotmob.com/image_resources/playerimages/714682.png",
-        "Luke McCarvel (FW)|https://images.fotmob.com/image_resources/playerimages/1663559.png",
-        "Ross Docherty (MF)|https://images.fotmob.com/image_resources/playerimages/263682.png",
-        "Chris Hamilton (MF)|https://images.fotmob.com/image_resources/playerimages/933796.png",
-        "Adam Emslie (MF)|https://images.fotmob.com/image_resources/playerimages/1575658.png",
-        "Kieran Phillips (FW)|https://images.fotmob.com/image_resources/playerimages/983187.png",
-        "Brian Graham (FW)|https://images.fotmob.com/image_resources/playerimages/95793.png"
-      ],
-      "away": [
-        "Deniz Mehmet (GK)|https://images.fotmob.com/image_resources/playerimages/292762.png",
-        "Caleb Goldie (DF)|https://images.fotmob.com/image_resources/playerimages/1519693.png",
-        "Niall Rogerson (DF)|https://images.fotmob.com/image_resources/playerimages/1603718.png",
-        "Shaun Want (DF)|https://images.fotmob.com/image_resources/playerimages/737834.png",
-        "Taylor Charters (DF)|https://images.fotmob.com/image_resources/playerimages/1087659.png",
-        "Zander MacKenzie (DF)|https://images.fotmob.com/image_resources/playerimages/1389995.png",
-        "Ruari Ellis (MF)|https://images.fotmob.com/image_resources/playerimages/1479968.png",
-        "Liam Smith (FW)|https://images.fotmob.com/image_resources/playerimages/1203662.png",
-        "Ben Johnstone (MF)|https://images.fotmob.com/image_resources/playerimages/1386497.png",
-        "Cole Coughlin (FW)|https://images.fotmob.com/image_resources/playerimages/1863040.png",
-        "Connor Young (FW)|https://images.fotmob.com/image_resources/playerimages/1414125.png"
-      ]
-    },
-    "formation": {
-      "home": "4-4-2",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": null,
-      "away": null
     }
   },
   {
@@ -4643,7 +4298,7 @@
         "Tanner Tessmann (MF)|https://images.fotmob.com/image_resources/playerimages/1057433.png",
         "Tyler Morton (MF)|https://images.fotmob.com/image_resources/playerimages/1113724.png",
         "Noah Nartey (MF)|https://images.fotmob.com/image_resources/playerimages/1368710.png",
-        "Kaïl Boudache (MF)|https://images.fotmob.com/image_resources/playerimages/1896949.png",
+        "Kaïl Boudache (FW)|https://images.fotmob.com/image_resources/playerimages/1896949.png",
         "Loïs Openda (FW)|https://images.fotmob.com/image_resources/playerimages/747767.png",
         "Keito Nakamura (FW)|https://images.fotmob.com/image_resources/playerimages/887704.png"
       ]
@@ -4799,7 +4454,7 @@
         "Pijus Širvys (DF)|https://images.fotmob.com/image_resources/playerimages/757630.png",
         "Łukasz Bejger (DF)|https://images.fotmob.com/image_resources/playerimages/1208886.png",
         "Artemijus Tutyškinas (DF)|https://images.fotmob.com/image_resources/playerimages/1281972.png",
-        "Milot Avdyli (FW)|https://images.fotmob.com/image_resources/playerimages/1252806.png",
+        "Milot Avdyli (DF)|https://images.fotmob.com/image_resources/playerimages/1252806.png",
         "Luka Tičić (MF)|https://images.fotmob.com/image_resources/playerimages/1384324.png",
         "Mark Zabukovnik (MF)|https://images.fotmob.com/image_resources/playerimages/1283000.png",
         "Yaya Dukuly (MF)|https://images.fotmob.com/image_resources/playerimages/1031044.png",
@@ -4814,7 +4469,7 @@
     },
     "coach": {
       "home": "Carles Martínez|https://images.fotmob.com/image_resources/playerimages/1515447.png",
-      "away": "Vítor Campelos|https://images.fotmob.com/image_resources/playerimages/924825.png"
+      "away": "Zoran Zeljković|https://images.fotmob.com/image_resources/playerimages/12578.png"
     }
   },
   {
@@ -4914,13 +4569,6 @@
       ],
       "away": [
         {
-          "date": "2026-08-22T19:00:00.000Z",
-          "home": "Dinamo Zagreb",
-          "away": "NK Varaždin",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
           "date": "2026-08-26T19:00:00.000Z",
           "home": "Viking",
           "away": "Dinamo Zagreb",
@@ -4940,6 +4588,13 @@
           "away": "HNK Gorica",
           "homeScore": 1,
           "awayScore": 0
+        },
+        {
+          "date": "2026-09-09T14:30:00.000Z",
+          "home": "NK Bedem Ivankovo",
+          "away": "Dinamo Zagreb",
+          "homeScore": 0,
+          "awayScore": 4
         },
         {
           "date": "2026-09-12T15:00:00.000Z",
@@ -5419,6 +5074,16 @@
     "injuries": {
       "home": [
         {
+          "name": "Harrison Armstrong",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Merlin Röhl",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Christian Nørgaard",
           "status": "근육 부상",
           "detail": "Mid October 2026"
@@ -5729,9 +5394,19 @@
       ],
       "away": [
         {
+          "name": "João Gomes",
+          "status": "종아리 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Ian Maatsen",
+          "status": "발목 부상",
+          "detail": "Late October 2026"
+        },
+        {
           "name": "Pau Francisco Torres",
           "status": "햄스트링 부상",
-          "detail": "Doubtful"
+          "detail": "Mid October 2026"
         },
         {
           "name": "Leon Goretzka",
@@ -8837,7 +8512,7 @@
         {
           "name": "Ismaïla Sarr",
           "status": "사타구니 부상",
-          "detail": "Late September 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Jean-Philippe Mateta",
@@ -9035,6 +8710,11 @@
           "name": "Gonzalo Crettaz",
           "status": "부상",
           "detail": "Mid September 2026"
+        },
+        {
+          "name": "Emre Mor",
+          "status": "사타구니 부상",
+          "detail": "Mid October 2026"
         },
         {
           "name": "Ahmetcan Kaplan",
@@ -9479,6 +9159,11 @@
           "detail": "Mid September 2026"
         },
         {
+          "name": "Kevin Mac Allister",
+          "status": "십자 인대 부상",
+          "detail": "Late May 2027"
+        },
+        {
           "name": "Kevin Rodríguez",
           "status": "충돌 부상",
           "detail": "Day to day"
@@ -9854,11 +9539,6 @@
     "injuries": {
       "home": [
         {
-          "name": "Diego Llorente",
-          "status": "근육 부상",
-          "detail": "Late September 2026"
-        },
-        {
           "name": "Ismael Barea",
           "status": "십자 인대 부상",
           "detail": "Early December 2026"
@@ -9866,6 +9546,11 @@
         {
           "name": "Aitor Ruibal",
           "status": "연골 파열",
+          "detail": "Late September 2026"
+        },
+        {
+          "name": "Diego Llorente",
+          "status": "근육 부상",
           "detail": "Late September 2026"
         }
       ],
@@ -10179,7 +9864,7 @@
         "Natan (DF)|https://images.fotmob.com/image_resources/playerimages/1188375.png",
         "Fran García (DF)|https://images.fotmob.com/image_resources/playerimages/750028.png",
         "Facundo Bernal (MF)|https://images.fotmob.com/image_resources/playerimages/1436133.png",
-        "Marc Roca (MF)|https://images.fotmob.com/image_resources/playerimages/640220.png",
+        "Pablo Fornals (MF)|https://images.fotmob.com/image_resources/playerimages/683450.png",
         "Antony (FW)|https://images.fotmob.com/image_resources/playerimages/967622.png",
         "Isco (MF)|https://images.fotmob.com/image_resources/playerimages/191315.png",
         "Abdessamad Ezzalzouli (FW)|https://images.fotmob.com/image_resources/playerimages/1209399.png",
@@ -10216,19 +9901,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Jens Cajuste",
-          "status": "근육 부상",
-          "detail": "Early October 2026"
+          "name": "Fernando Calero",
+          "status": "부상",
+          "detail": "Late September 2026"
         },
         {
           "name": "Adam Aznou",
           "status": "부상",
           "detail": "Doubtful"
-        },
-        {
-          "name": "Fernando Calero",
-          "status": "부상",
-          "detail": "Late September 2026"
         },
         {
           "name": "Diego Murillo",
@@ -10244,6 +9924,11 @@
           "name": "Aarón Ochoa",
           "status": "연골 파열",
           "detail": "Mid November 2026"
+        },
+        {
+          "name": "Jens-Lys Cajuste",
+          "status": "근육 부상",
+          "detail": "Early October 2026"
         },
         {
           "name": "Julen Lobete",
@@ -10688,6 +10373,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Mathias Jensen",
+          "status": "부상",
+          "detail": "Mid October 2026"
+        },
+        {
           "name": "Nathan Collins",
           "status": "종아리 부상",
           "detail": "Mid October 2026"
@@ -10703,11 +10393,6 @@
           "detail": "Mid October 2026"
         },
         {
-          "name": "Mathias Jensen",
-          "status": "부상",
-          "detail": "Doubtful"
-        },
-        {
           "name": "Joshua Dasilva",
           "status": "충돌 부상",
           "detail": "Mid October 2026"
@@ -10715,9 +10400,19 @@
       ],
       "away": [
         {
+          "name": "Emmanuel Emegha",
+          "status": "햄스트링 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Dastan Satpaev",
           "status": "허벅지 부상",
           "detail": "Late September 2026"
+        },
+        {
+          "name": "Moisés Caicedo",
+          "status": "종아리 부상",
+          "detail": "Doubtful"
         },
         {
           "name": "Jordan Henderson",
@@ -10730,14 +10425,9 @@
           "detail": "Doubtful"
         },
         {
-          "name": "Moisés Caicedo",
-          "status": "충돌 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Emanuel Emegha",
-          "status": "햄스트링 부상",
-          "detail": "Late September 2026"
+          "name": "João Pedro",
+          "status": "부상",
+          "detail": "Mid October 2026"
         }
       ]
     },
@@ -10931,19 +10621,7 @@
         "Kevin Schade (FW)|https://images.fotmob.com/image_resources/playerimages/1083796.png",
         "Igor Thiago (FW)|https://images.fotmob.com/image_resources/playerimages/1302005.png"
       ],
-      "away": [
-        "Emiliano Martínez (GK)|https://images.fotmob.com/image_resources/playerimages/268375.png",
-        "Malo Gusto (DF)|https://images.fotmob.com/image_resources/playerimages/1197250.png",
-        "Wesley Fofana (DF)|https://images.fotmob.com/image_resources/playerimages/917802.png",
-        "Levi Colwill (DF)|https://images.fotmob.com/image_resources/playerimages/1096400.png",
-        "Jorrel Hato (DF)|https://images.fotmob.com/image_resources/playerimages/1413846.png",
-        "Reece James (MF)|https://images.fotmob.com/image_resources/playerimages/807729.png",
-        "Roméo Lavia (MF)|https://images.fotmob.com/image_resources/playerimages/1190867.png",
-        "Pedro Neto (FW)|https://images.fotmob.com/image_resources/playerimages/843040.png",
-        "Cole Palmer (MF)|https://images.fotmob.com/image_resources/playerimages/1096353.png",
-        "Morgan Rogers (MF)|https://images.fotmob.com/image_resources/playerimages/883080.png",
-        "João Pedro (FW)|https://images.fotmob.com/image_resources/playerimages/1021382.png"
-      ]
+      "away": []
     },
     "formation": {
       "home": "4-2-3-1",
@@ -10964,7 +10642,7 @@
         {
           "name": "Dejan Kulusevski",
           "status": "무릎 부상",
-          "detail": "Late September 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Pedro Porro",
@@ -10989,14 +10667,19 @@
       ],
       "away": [
         {
-          "name": "Matty Cash",
-          "status": "부상",
+          "name": "João Gomes",
+          "status": "종아리 부상",
           "detail": "Doubtful"
+        },
+        {
+          "name": "Ian Maatsen",
+          "status": "발목 부상",
+          "detail": "Late October 2026"
         },
         {
           "name": "Pau Torres",
           "status": "햄스트링 부상",
-          "detail": "Doubtful"
+          "detail": "Mid October 2026"
         },
         {
           "name": "Amadou Onana",
@@ -11348,8 +11031,8 @@
     "injuries": {
       "home": [
         {
-          "name": "Georginio Rutter",
-          "status": "부상",
+          "name": "Jaouen Hadjam",
+          "status": "충돌 부상",
           "detail": "Doubtful"
         },
         {
@@ -11402,7 +11085,7 @@
         {
           "name": "Ben White",
           "status": "사타구니 부상",
-          "detail": "Late September 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Cristhian Mosquera",
@@ -11693,6 +11376,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Merlin Röhl",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Christian Nørgaard",
           "status": "근육 부상",
           "detail": "Mid October 2026"
@@ -11861,6 +11549,11 @@
           "name": "Daniel Burn",
           "status": "발목 부상",
           "detail": "Late September 2026"
+        },
+        {
+          "name": "Jacob Ramsey",
+          "status": "허벅지 부상",
+          "detail": "Doubtful"
         },
         {
           "name": "Joelinton",
@@ -12109,6 +11802,11 @@
           "detail": "Early October 2026"
         },
         {
+          "name": "Kastriot Imeri",
+          "status": "허벅지 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Andrik Markgraf",
           "status": "십자 인대 부상",
           "detail": "Early March 2027"
@@ -12122,11 +11820,6 @@
           "name": "Stanley N'Soki",
           "status": "종아리 부상",
           "detail": "Early October 2026"
-        },
-        {
-          "name": "Kastriot Imeri",
-          "status": "허벅지 부상",
-          "detail": "Doubtful"
         },
         {
           "name": "Oliver Burke",
@@ -12320,30 +12013,30 @@
     },
     "lineup": {
       "home": [
-        "Jonas Urbig (GK)|https://images.fotmob.com/image_resources/playerimages/1285872.png",
-        "Josip Stanišić (DF)|https://images.fotmob.com/image_resources/playerimages/950824.png",
+        "Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png",
+        "Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png",
         "Dayot Upamecano (DF)|https://images.fotmob.com/image_resources/playerimages/658554.png",
-        "Min-Jae Kim (DF)|https://images.fotmob.com/image_resources/playerimages/828159.png",
-        "Nathaniel Brown (DF)|https://images.fotmob.com/image_resources/playerimages/1395447.png",
+        "Jonathan Tah (DF)|https://images.fotmob.com/image_resources/playerimages/469700.png",
+        "Alphonso Davies (DF)|https://images.fotmob.com/image_resources/playerimages/751202.png",
+        "Joshua Kimmich (MF)|https://images.fotmob.com/image_resources/playerimages/460632.png",
         "Aleksandar Pavlović (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png",
-        "Tom Bischof (DF)|https://images.fotmob.com/image_resources/playerimages/1286183.png",
-        "Lennart Karl (FW)|https://images.fotmob.com/image_resources/playerimages/1737700.png",
         "Michael Olise (FW)|https://images.fotmob.com/image_resources/playerimages/1029063.png",
-        "Ismael Saibari (MF)|https://images.fotmob.com/image_resources/playerimages/1180288.png",
+        "Jamal Musiala (MF)|https://images.fotmob.com/image_resources/playerimages/1156141.png",
+        "Luis Díaz (FW)|https://images.fotmob.com/image_resources/playerimages/860914.png",
         "Harry Kane (FW)|https://images.fotmob.com/image_resources/playerimages/194165.png"
       ],
       "away": [
         "Frederik Rønnow (GK)|https://images.fotmob.com/image_resources/playerimages/186557.png",
         "Christopher Trimmel (MF)|https://images.fotmob.com/image_resources/playerimages/166733.png",
-        "Leopold Querfeld (DF)|https://images.fotmob.com/image_resources/playerimages/1199947.png",
+        "Zeno Van Den Bosch (DF)|https://images.fotmob.com/image_resources/playerimages/1231677.png",
         "Felix Uduokhai (DF)|https://images.fotmob.com/image_resources/playerimages/767800.png",
         "Tom Rothe (DF)|https://images.fotmob.com/image_resources/playerimages/1282582.png",
-        "Michel Aebischer (MF)|https://images.fotmob.com/image_resources/playerimages/792756.png",
+        "Rani Khedira (MF)|https://images.fotmob.com/image_resources/playerimages/304348.png",
         "Aljoscha Kemlein (MF)|https://images.fotmob.com/image_resources/playerimages/1403332.png",
         "Woo-Yeong Jeong (MF)|https://images.fotmob.com/image_resources/playerimages/949673.png",
-        "Rani Khedira (MF)|https://images.fotmob.com/image_resources/playerimages/304348.png",
+        "Michel Aebischer (MF)|https://images.fotmob.com/image_resources/playerimages/792756.png",
         "Livan Burcu (FW)|https://images.fotmob.com/image_resources/playerimages/1520506.png",
-        "Emmanuel Latte Lath (FW)|https://images.fotmob.com/image_resources/playerimages/783585.png"
+        "Tim Skarke (FW)|https://images.fotmob.com/image_resources/playerimages/658440.png"
       ]
     },
     "formation": {
@@ -12566,13 +12259,6 @@
         "away": "Borussia Mönchengladbach",
         "homeScore": 1,
         "awayScore": 2
-      },
-      {
-        "date": "2017-01-14T15:20:00.000Z",
-        "home": "Borussia Mönchengladbach",
-        "away": "Mainz 05",
-        "homeScore": 0,
-        "awayScore": 1
       },
       {
         "date": "2016-12-11T14:30:00.000Z",
@@ -13362,13 +13048,6 @@
         "away": "Hamburger SV",
         "homeScore": 3,
         "awayScore": 2
-      },
-      {
-        "date": "2010-08-01T14:45:00.000Z",
-        "home": "Hamburger SV",
-        "away": "1. FC Köln",
-        "homeScore": 3,
-        "awayScore": 0
       }
     ],
     "recent": {
@@ -13492,14 +13171,19 @@
     "injuries": {
       "home": [
         {
-          "name": "Moussa N'Diaye",
-          "status": "사타구니 부상",
-          "detail": "Early October 2026"
+          "name": "Justin Njinmah",
+          "status": "허벅지 부상",
+          "detail": "Late October 2026"
         },
         {
           "name": "Felix Agu",
           "status": "종아리 부상",
           "detail": "Late September 2026"
+        },
+        {
+          "name": "Moussa N'Diaye",
+          "status": "사타구니 부상",
+          "detail": "Early October 2026"
         },
         {
           "name": "Jens Stage",
@@ -13510,11 +13194,6 @@
           "name": "Senne Lynen",
           "status": "사타구니 부상",
           "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Justin Njinmah",
-          "status": "허벅지 부상",
-          "detail": "Late October 2026"
         },
         {
           "name": "Keke Topp",
@@ -13529,6 +13208,11 @@
           "detail": "Early October 2026"
         },
         {
+          "name": "Klaus Sima Suso",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
           "name": "Anton Kade",
           "status": "근육 부상",
           "detail": "Doubtful"
@@ -13536,11 +13220,6 @@
         {
           "name": "Tim Breithaupt",
           "status": "부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Klaus Sima Suso",
-          "status": "근육 부상",
           "detail": "About 1-2 weeks"
         }
       ]
@@ -13891,14 +13570,14 @@
       ],
       "away": [
         {
-          "name": "Yago Santiago",
-          "status": "무릎 부상",
-          "detail": "Back in training"
-        },
-        {
           "name": "Adam Boayar",
           "status": "근육 부상",
           "detail": "Late September 2026"
+        },
+        {
+          "name": "Yago Santiago",
+          "status": "무릎 부상",
+          "detail": "Back in training"
         }
       ]
     },
@@ -14071,11 +13750,11 @@
         "Clemens Riedel (DF)|https://images.fotmob.com/image_resources/playerimages/1279557.png",
         "Leandro Cabrera (DF)|https://images.fotmob.com/image_resources/playerimages/169586.png",
         "Roger Hinojo (DF)|https://images.fotmob.com/image_resources/playerimages/1727689.png",
+        "Álex Calatrava (FW)|https://images.fotmob.com/image_resources/playerimages/1300457.png",
         "Urko González (MF)|https://images.fotmob.com/image_resources/playerimages/1187767.png",
-        "Gabriel Moscardo (MF)|https://images.fotmob.com/image_resources/playerimages/1503655.png",
-        "Rafel Bauzà (MF)|https://images.fotmob.com/image_resources/playerimages/1609364.png",
-        "Javi Hernández (FW)|https://images.fotmob.com/image_resources/playerimages/1427828.png",
-        "Quilindschy Hartman (DF)|https://images.fotmob.com/image_resources/playerimages/1393669.png",
+        "Edu Expósito (MF)|https://images.fotmob.com/image_resources/playerimages/837089.png",
+        "Tyrhys Dolan (FW)|https://images.fotmob.com/image_resources/playerimages/1181101.png",
+        "Marcos Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/1407741.png",
         "Roberto Fernández (FW)|https://images.fotmob.com/image_resources/playerimages/1252373.png"
       ],
       "away": [
@@ -14093,7 +13772,7 @@
       ]
     },
     "formation": {
-      "home": "4-2-3-1",
+      "home": "4-4-2",
       "away": "4-1-4-1"
     },
     "coach": {
@@ -15063,7 +14742,7 @@
         "Eric Dier (DF)|https://images.fotmob.com/image_resources/playerimages/361315.png",
         "Flávio Nazinho (DF)|https://images.fotmob.com/image_resources/playerimages/1239590.png",
         "Lamine Camara (MF)|https://images.fotmob.com/image_resources/playerimages/1436305.png",
-        "Denis Zakaria (DF)|https://images.fotmob.com/image_resources/playerimages/598355.png",
+        "Denis Zakaria (MF)|https://images.fotmob.com/image_resources/playerimages/598355.png",
         "Stanis Idumbo (FW)|https://images.fotmob.com/image_resources/playerimages/1366936.png",
         "Aleksandr Golovin (MF)|https://images.fotmob.com/image_resources/playerimages/586388.png",
         "Ilane Touré (MF)|https://images.fotmob.com/image_resources/playerimages/1815791.png",
@@ -16058,7 +15737,7 @@
         "Gvidas Gineitis (MF)|https://images.fotmob.com/image_resources/playerimages/1421505.png",
         "Rolando Mandragora (MF)|https://images.fotmob.com/image_resources/playerimages/577911.png",
         "Kian Fitz-Jim (MF)|https://images.fotmob.com/image_resources/playerimages/1218556.png",
-        "Niccolò Fortini (DF)|https://images.fotmob.com/image_resources/playerimages/1642351.png",
+        "Niccolò Fortini (MF)|https://images.fotmob.com/image_resources/playerimages/1642351.png",
         "Nikola Vlašić (MF)|https://images.fotmob.com/image_resources/playerimages/557677.png",
         "Giovanni Simeone (FW)|https://images.fotmob.com/image_resources/playerimages/469615.png"
       ]
@@ -16788,7 +16467,7 @@
         "Tobias Sommer (MF)|https://images.fotmob.com/image_resources/playerimages/1129028.png",
         "Dylan Mbayo (FW)|https://images.fotmob.com/image_resources/playerimages/1022702.png",
         "Odysseus Velanas (FW)|https://images.fotmob.com/image_resources/playerimages/775666.png",
-        "Ibrahim Cissoko (FW)|https://images.fotmob.com/image_resources/playerimages/1282156.png",
+        "Elias Sørensen (FW)|https://images.fotmob.com/image_resources/playerimages/961340.png",
         "Koen Kostons (FW)|https://images.fotmob.com/image_resources/playerimages/782561.png"
       ]
     },
@@ -17457,1159 +17136,6 @@
     }
   },
   {
-    "home": "Alloa Athletic",
-    "away": "East Kilbride",
-    "date": "2026-09-19T14:00:00.000Z",
-    "league": "League One",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "h2h": [],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Alloa Athletic",
-          "away": "Motherwell B",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Alloa Athletic",
-          "away": "Peterhead",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "Cove Rangers",
-          "away": "Alloa Athletic",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Clydebank",
-          "away": "Alloa Athletic",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Airdrieonians",
-          "away": "Alloa Athletic",
-          "homeScore": 1,
-          "awayScore": 0
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Cowdenbeath",
-          "away": "East Kilbride",
-          "homeScore": 1,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-29T16:30:00.000Z",
-          "home": "Ross County",
-          "away": "East Kilbride",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "East Kilbride",
-          "away": "Hamilton Academical",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "East Kilbride",
-          "away": "Bonnyrigg Rose",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "East Kilbride",
-          "away": "Peterhead",
-          "homeScore": 3,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Ross Stewart (GK)|https://images.fotmob.com/image_resources/playerimages/414211.png",
-        "Owen Foster (DF)|https://images.fotmob.com/image_resources/playerimages/1789462.png",
-        "Scott Taggart (DF)|https://images.fotmob.com/image_resources/playerimages/198843.png",
-        "Joseph McGrath (DF)|https://images.fotmob.com/image_resources/playerimages/1838489.png",
-        "Cameron O'Donnell (DF)|https://images.fotmob.com/image_resources/playerimages/1076702.png",
-        "Grant Marchant (MF)|https://images.fotmob.com/image_resources/playerimages/1908799.png",
-        "Steven Hetherington (MF)|https://images.fotmob.com/image_resources/playerimages/356404.png",
-        "Stefan Scougall (MF)|https://images.fotmob.com/image_resources/playerimages/230918.png",
-        "Brandon Forbes (FW)|https://images.fotmob.com/image_resources/playerimages/1662650.png",
-        "Luke Rankin (FW)|https://images.fotmob.com/image_resources/playerimages/1399444.png",
-        "Kyle Glasgow (FW)|https://images.fotmob.com/image_resources/playerimages/2094338.png"
-      ],
-      "away": [
-        "Shay Kelly (GK)|https://images.fotmob.com/image_resources/playerimages/1536455.png",
-        "Sean Fagan (DF)|https://images.fotmob.com/image_resources/playerimages/937330.png",
-        "Darragh O'Connor (DF)|https://images.fotmob.com/image_resources/playerimages/1107636.png",
-        "Aaron Steele (DF)|https://images.fotmob.com/image_resources/playerimages/1245300.png",
-        "Euan East (DF)|https://images.fotmob.com/image_resources/playerimages/958185.png",
-        "Rhys Armstrong (MF)|https://images.fotmob.com/image_resources/playerimages/1469899.png",
-        "Alexander Smith (MF)|https://images.fotmob.com/image_resources/playerimages/1787020.png",
-        "Lewis McGrattan (FW)|https://images.fotmob.com/image_resources/playerimages/972025.png",
-        "João Baldé (MF)|https://images.fotmob.com/image_resources/playerimages/1393416.png",
-        "Cameron Elliott (FW)|https://images.fotmob.com/image_resources/playerimages/883712.png",
-        "Callum McKenzie (MF)|https://images.fotmob.com/image_resources/playerimages/1818205.png"
-      ]
-    },
-    "formation": {
-      "home": "4-3-3",
-      "away": "4-1-2-1-2"
-    },
-    "coach": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "home": "Cove Rangers",
-    "away": "Ross County",
-    "date": "2026-09-19T14:00:00.000Z",
-    "league": "League One",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2016-07-30T14:00:00.000Z",
-        "home": "Ross County",
-        "away": "Cove Rangers",
-        "homeScore": 7,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Cove Rangers",
-          "away": "Dundee United B",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Hamilton Academical",
-          "away": "Cove Rangers",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "Cove Rangers",
-          "away": "Alloa Athletic",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Cove Rangers",
-          "away": "Dumbarton",
-          "homeScore": 6,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Montrose",
-          "away": "Cove Rangers",
-          "homeScore": 2,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-29T16:30:00.000Z",
-          "home": "Ross County",
-          "away": "East Kilbride",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "East Fife",
-          "away": "Ross County",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Ross County",
-          "away": "Aberdeen B",
-          "homeScore": 3,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Ross County",
-          "away": "Hibernian",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-09-15T18:45:00.000Z",
-          "home": "Ross County",
-          "away": "Queen of the South",
-          "homeScore": 8,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Robbie Mutch (GK)|https://images.fotmob.com/image_resources/playerimages/654103.png",
-        "Ryan Harrington (DF)|https://images.fotmob.com/image_resources/playerimages/954140.png",
-        "Afonso Lindo (DF)|https://images.fotmob.com/image_resources/playerimages/1186463.png",
-        "Jamie Mercer (DF)|https://images.fotmob.com/image_resources/playerimages/1789677.png",
-        "Joseph Teasdale (FW)|https://images.fotmob.com/image_resources/playerimages/1789545.png",
-        "Arron Darge (DF)|https://images.fotmob.com/image_resources/playerimages/1400243.png",
-        "Max Barry (FW)|https://images.fotmob.com/image_resources/playerimages/1068646.png",
-        "Joseph Chalmers (MF)|https://images.fotmob.com/image_resources/playerimages/294862.png",
-        "Dylan Ross (DF)|https://images.fotmob.com/image_resources/playerimages/1789679.png",
-        "Jordan White (FW)|https://images.fotmob.com/image_resources/playerimages/154893.png",
-        "Christopher Maguire (FW)|https://images.fotmob.com/image_resources/playerimages/32421.png"
-      ],
-      "away": [
-        "Bradley Foster (GK)|https://images.fotmob.com/image_resources/playerimages/1224159.png",
-        "Connor Randall (MF)|https://images.fotmob.com/image_resources/playerimages/611682.png",
-        "Akil Wright (DF)|https://images.fotmob.com/image_resources/playerimages/621422.png",
-        "Lewis Reid (DF)|https://images.fotmob.com/image_resources/playerimages/1395690.png",
-        "Lewis Strapp (DF)|https://images.fotmob.com/image_resources/playerimages/714682.png",
-        "Luke McCarvel (FW)|https://images.fotmob.com/image_resources/playerimages/1663559.png",
-        "Ross Docherty (MF)|https://images.fotmob.com/image_resources/playerimages/263682.png",
-        "Chris Hamilton (MF)|https://images.fotmob.com/image_resources/playerimages/933796.png",
-        "Adam Emslie (MF)|https://images.fotmob.com/image_resources/playerimages/1575658.png",
-        "Kieran Phillips (FW)|https://images.fotmob.com/image_resources/playerimages/983187.png",
-        "Brian Graham (FW)|https://images.fotmob.com/image_resources/playerimages/95793.png"
-      ]
-    },
-    "formation": {
-      "home": "4-3-1-2",
-      "away": "4-4-2"
-    },
-    "coach": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "home": "East Fife",
-    "away": "Montrose",
-    "date": "2026-09-19T14:00:00.000Z",
-    "league": "League One",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2026-04-04T14:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2026-01-31T15:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2025-11-22T15:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-09-20T14:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-03-05T15:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-01-02T15:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2021-10-23T14:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-08-21T14:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2021-03-30T18:45:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-10-24T14:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2020-01-04T15:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-11-02T15:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-09-14T14:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2019-04-13T14:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2019-01-12T15:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2018-12-01T15:05:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2018-09-01T14:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2018-07-17T18:45:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-04-09T14:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-02-06T15:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2015-12-19T15:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-09-26T14:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 1,
-        "awayScore": 4
-      },
-      {
-        "date": "2015-03-28T15:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-02-14T15:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2014-12-06T15:00:00.000Z",
-        "home": "East Fife",
-        "away": "Montrose",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-09-27T14:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 0,
-        "awayScore": 4
-      },
-      {
-        "date": "2011-07-23T14:00:00.000Z",
-        "home": "Montrose",
-        "away": "East Fife",
-        "homeScore": 1,
-        "awayScore": 6
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Airdrieonians",
-          "away": "East Fife",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "East Fife",
-          "away": "Ross County",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Clyde",
-          "away": "East Fife",
-          "homeScore": 1,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Queen of the South",
-          "away": "East Fife",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-15T18:45:00.000Z",
-          "home": "East Fife",
-          "away": "Motherwell B",
-          "homeScore": 4,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Montrose",
-          "away": "Clyde",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Montrose",
-          "away": "Queen of the South",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "Peterhead",
-          "away": "Montrose",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Montrose",
-          "away": "Dundee FC B",
-          "homeScore": 3,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Montrose",
-          "away": "Cove Rangers",
-          "homeScore": 2,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Derek Gaston (GK)|https://images.fotmob.com/image_resources/playerimages/179653.png",
-        "Mamadou Bah (DF)|https://images.fotmob.com/image_resources/playerimages/1714423.png",
-        "Andrew Munro (DF)|https://images.fotmob.com/image_resources/playerimages/661850.png",
-        "Brian Easton (DF)|https://images.fotmob.com/image_resources/playerimages/67228.png",
-        "Tom Milne (DF)|https://images.fotmob.com/image_resources/playerimages/2081089.png",
-        "Reis Peggie (DF)|https://images.fotmob.com/image_resources/playerimages/902292.png",
-        "Ewan McLeod (DF)|https://images.fotmob.com/image_resources/playerimages/1552960.png",
-        "Kieran Millar (MF)|https://images.fotmob.com/image_resources/playerimages/264708.png",
-        "Cammy Ballantyne (MF)|https://images.fotmob.com/image_resources/playerimages/1095320.png",
-        "Cameron Ross (FW)|https://images.fotmob.com/image_resources/playerimages/1692233.png",
-        "Nathan Austin (FW)|https://images.fotmob.com/image_resources/playerimages/470414.png"
-      ],
-      "away": [
-        "Cameron Gill (GK)|https://images.fotmob.com/image_resources/playerimages/610499.png",
-        "Charley Oosenbrugh (DF)|https://images.fotmob.com/image_resources/playerimages/1983247.png",
-        "Aidan Quinn (DF)|https://images.fotmob.com/image_resources/playerimages/1128624.png",
-        "Sean McGinty (DF)|https://images.fotmob.com/image_resources/playerimages/307627.png",
-        "Flynn Duffy (DF)|https://images.fotmob.com/image_resources/playerimages/1213383.png",
-        "Harry Craig (MF)|https://images.fotmob.com/image_resources/playerimages/1577870.png",
-        "Kieran Freeman (MF)|https://images.fotmob.com/image_resources/playerimages/1089767.png",
-        "Jamie Barjonas (MF)|https://images.fotmob.com/image_resources/playerimages/844938.png",
-        "Gary Oliver (MF)|https://images.fotmob.com/image_resources/playerimages/469523.png",
-        "Jake Sutherland (FW)|https://images.fotmob.com/image_resources/playerimages/1559590.png",
-        "Blair Lyons (FW)|https://images.fotmob.com/image_resources/playerimages/812553.png"
-      ]
-    },
-    "formation": {
-      "home": "5-3-2",
-      "away": "4-3-1-2"
-    },
-    "coach": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "home": "Hamilton Academical",
-    "away": "Queen of the South",
-    "date": "2026-09-19T14:00:00.000Z",
-    "league": "League One",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2026-03-14T15:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2025-12-27T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2025-10-24T18:45:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2025-08-09T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 1,
-        "awayScore": 4
-      },
-      {
-        "date": "2024-03-30T15:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-02-03T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-12-02T15:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 5,
-        "awayScore": 0
-      },
-      {
-        "date": "2023-09-23T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-02-07T19:45:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-03-26T15:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-01-02T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2021-10-26T18:45:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-08-28T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-07-22T14:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-03-08T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-01-04T15:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-11-09T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-11-02T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2013-08-24T14:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-03-24T15:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2012-01-02T15:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-11-05T15:00:00.000Z",
-        "home": "Hamilton Academical",
-        "away": "Queen of the South",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2011-09-10T14:00:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2010-07-20T18:30:00.000Z",
-        "home": "Queen of the South",
-        "away": "Hamilton Academical",
-        "homeScore": 0,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-22T14:00:00.000Z",
-          "home": "East Fife",
-          "away": "Hamilton Academical",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Hamilton Academical",
-          "away": "Edinburgh City",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Hamilton Academical",
-          "away": "Cove Rangers",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "East Kilbride",
-          "away": "Hamilton Academical",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Spartans FC",
-          "away": "Hamilton Academical",
-          "homeScore": 0,
-          "awayScore": 4
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Montrose",
-          "away": "Queen of the South",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "Queen of the South",
-          "away": "Airdrieonians",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Edinburgh City",
-          "away": "Queen of the South",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Queen of the South",
-          "away": "East Fife",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-15T18:45:00.000Z",
-          "home": "Ross County",
-          "away": "Queen of the South",
-          "homeScore": 8,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": null,
-    "formation": null,
-    "coach": null
-  },
-  {
-    "home": "Peterhead",
-    "away": "Airdrieonians",
-    "date": "2026-09-19T14:00:00.000Z",
-    "league": "League One",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2023-03-18T15:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 7,
-        "awayScore": 0
-      },
-      {
-        "date": "2023-01-07T15:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 0,
-        "awayScore": 3
-      },
-      {
-        "date": "2022-11-12T15:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-07-30T14:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2022-04-30T14:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-02-19T15:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-11-06T15:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-08-21T14:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 2,
-        "awayScore": 3
-      },
-      {
-        "date": "2021-03-20T15:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-10-17T14:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-02-22T15:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2019-12-14T15:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-10-05T14:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-04-01T14:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-02-04T15:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-12-03T15:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 2,
-        "awayScore": 4
-      },
-      {
-        "date": "2016-10-15T16:15:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2016-03-19T15:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-12-26T15:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 3,
-        "awayScore": 4
-      },
-      {
-        "date": "2015-10-24T14:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-08-29T14:05:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-04-25T14:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-01-10T15:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2014-10-18T14:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-08-16T14:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2011-04-02T14:00:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 2,
-        "awayScore": 4
-      },
-      {
-        "date": "2011-02-05T15:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2010-12-14T19:45:00.000Z",
-        "home": "Peterhead",
-        "away": "Airdrieonians",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2010-09-18T14:00:00.000Z",
-        "home": "Airdrieonians",
-        "away": "Peterhead",
-        "homeScore": 2,
-        "awayScore": 2
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Peterhead",
-          "away": "Dundee FC B",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Alloa Athletic",
-          "away": "Peterhead",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "Peterhead",
-          "away": "Montrose",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Peterhead",
-          "away": "Clachnacuddin",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "East Kilbride",
-          "away": "Peterhead",
-          "homeScore": 3,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-25T18:45:00.000Z",
-          "home": "Airdrieonians",
-          "away": "Stirling Albion",
-          "homeScore": 1,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-08-29T14:00:00.000Z",
-          "home": "Airdrieonians",
-          "away": "East Fife",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-05T14:00:00.000Z",
-          "home": "Queen of the South",
-          "away": "Airdrieonians",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-08T18:45:00.000Z",
-          "home": "Airdrieonians",
-          "away": "St. Mirren B",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-12T14:00:00.000Z",
-          "home": "Airdrieonians",
-          "away": "Alloa Athletic",
-          "homeScore": 1,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Jack Newman (GK)|https://images.fotmob.com/image_resources/playerimages/1191734.png",
-        "Zak To (MF)|https://images.fotmob.com/image_resources/playerimages/1906163.png",
-        "Joshua Kerr (DF)|https://images.fotmob.com/image_resources/playerimages/877675.png",
-        "Jason Brown (DF)|https://images.fotmob.com/image_resources/playerimages/540074.png",
-        "Daniel Strachan (DF)|https://images.fotmob.com/image_resources/playerimages/1199763.png",
-        "Dylan Forrest (MF)|https://images.fotmob.com/image_resources/playerimages/1387040.png",
-        "Blair Yule (MF)|https://images.fotmob.com/image_resources/playerimages/661504.png",
-        "Lyall Keir (MF)|https://images.fotmob.com/image_resources/playerimages/1801021.png",
-        "Sebastian Ross (FW)|https://images.fotmob.com/image_resources/playerimages/846100.png",
-        "Ciaran Dunne (DF)|https://images.fotmob.com/image_resources/playerimages/890347.png",
-        "Fraser Mackie (FW)|https://images.fotmob.com/image_resources/playerimages/1690134.png"
-      ],
-      "away": [
-        "Jamie Sneddon (GK)|https://images.fotmob.com/image_resources/playerimages/595967.png",
-        "Sam Fisher (DF)|https://images.fotmob.com/image_resources/playerimages/937333.png",
-        "Declan Gallagher (DF)|https://images.fotmob.com/image_resources/playerimages/232094.png",
-        "Craig Ross (DF)|https://images.fotmob.com/image_resources/playerimages/1281279.png",
-        "Dylan MacDonald (DF)|https://images.fotmob.com/image_resources/playerimages/1643946.png",
-        "Connor Smith (MF)|https://images.fotmob.com/image_resources/playerimages/938519.png",
-        "Cole McKinnon (MF)|https://images.fotmob.com/image_resources/playerimages/1239538.png",
-        "Lewis Gibson (FW)|https://images.fotmob.com/image_resources/playerimages/1386498.png",
-        "Matty Yates (FW)|https://images.fotmob.com/image_resources/playerimages/1200432.png",
-        "Callum Burnside (FW)|https://images.fotmob.com/image_resources/playerimages/1668991.png",
-        "Liam McLeish (FW)|https://images.fotmob.com/image_resources/playerimages/1342764.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
     "home": "Derry City",
     "away": "Galway United FC",
     "date": "2026-09-18T18:45:00.000Z",
@@ -18742,13 +17268,6 @@
         "home": "Galway United FC",
         "away": "Derry City",
         "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-04-17T18:45:00.000Z",
-        "home": "Galway United FC",
-        "away": "Derry City",
-        "homeScore": 2,
         "awayScore": 0
       },
       {
@@ -19103,13 +17622,6 @@
         "awayScore": 0
       },
       {
-        "date": "2015-04-07T18:45:00.000Z",
-        "home": "Dundalk",
-        "away": "Shelbourne",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
         "date": "2013-09-13T19:00:00.000Z",
         "home": "Shelbourne",
         "away": "Dundalk",
@@ -19136,13 +17648,6 @@
         "away": "Dundalk",
         "homeScore": 1,
         "awayScore": 3
-      },
-      {
-        "date": "2013-03-11T19:45:00.000Z",
-        "home": "Dundalk",
-        "away": "Shelbourne",
-        "homeScore": 1,
-        "awayScore": 0
       },
       {
         "date": "2012-09-21T18:45:00.000Z",
@@ -19593,13 +18098,6 @@
         "date": "2012-05-11T18:45:00.000Z",
         "home": "Bohemian FC",
         "away": "Drogheda United",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-04-10T18:45:00.000Z",
-        "home": "Drogheda United",
-        "away": "Bohemian FC",
         "homeScore": 1,
         "awayScore": 1
       },
