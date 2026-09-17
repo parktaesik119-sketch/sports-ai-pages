@@ -178,7 +178,7 @@ const TEAM_NAME_MAP = {
   "Lyon": "리옹",
   "Marseille": "마르세유",
   "Metz": "메스",
-  "Monaco": "모나코",
+  "Monaco": "AS 모나코",
   "Nantes": "낭트",
   "Nice": "니스",
   "Paris FC": "파리 FC",
