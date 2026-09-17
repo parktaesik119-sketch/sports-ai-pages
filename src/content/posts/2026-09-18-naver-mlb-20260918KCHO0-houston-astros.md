@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔�
 awayRecent: '[{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros/"},{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"},{"date":"26.09.10","home":"캔자스시티 로열스","away":"애리조나 다이아몬드백스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910AZKC0-2026-09-10-kansas-city-royals/"}]'
 injuryHome: "Steven Okert (근육 부상)|Brice Matthews (염좌 부상)|Taylor Trammell (개인 사유)|Mike Burrows (염증 부상)|Carlos Correa (수술)"
 injuryAway: "Tony Gonsolin (수술)|Connor Seabold (근육 부상)|James McArthur (수술)|Beck Way (부상)|Carlos Estevez (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 M. Ullola (0-0, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/5124163.png\"]"
 awayLineup: "[\"선발투수 S. Lugo (7-8, 4.99) ERA 4.99|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
 homeFormation: ""
 awayFormation: ""

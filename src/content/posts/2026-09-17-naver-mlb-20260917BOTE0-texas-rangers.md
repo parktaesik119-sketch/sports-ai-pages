@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.14","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"},{"date":"26.09.10","home":"보스턴 레드삭스","away":"LA 에인절스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910ANBO0-2026-09-10-boston-red-sox/"},{"date":"26.09.09","home":"보스턴 레드삭스","away":"LA 에인절스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909ANBO0-2026-09-09-boston-red-sox/"}]'
 injuryHome: "Kyle Higashioka (변형)|Cole Winn (변형)|Peyton Gray (염증)|Carter Baumler (변형)|Jack Leiter (수술)"
 injuryAway: "Ceddanne Rafaela (통증)|Tyron Guerrero (염증)|Tanner Houck (수술)|Curtis Mead (골절)|Johan Oviedo (변형)"
-homeLineup: ''
+homeLineup: "[\"선발투수 T. Alexander (5-2, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/40360.png\"]"
 awayLineup: "[\"선발투수 S. Gray (17-5, 2.76) ERA 2.76|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
