@@ -170,6 +170,7 @@ const PLAYER_NAME_MAP = {
   "Ji-Ho Lee": "이지호",
   "Byeong-Chan Choe": "최병찬",
   "Byeong-Chan Choi": "최병찬",
+  "Ko Eun-Seok": "고은석",
 
   // --- Jeju SK (제주 SK) ---
   "Dong-Jun Kim": "김동준",
