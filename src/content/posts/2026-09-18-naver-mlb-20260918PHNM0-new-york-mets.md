@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라�
 injuryHome: "Cionel Perez (인대 염좌)|Devin Williams (인대 염좌)|Daniel Duarte (인대 염좌)|Robert Stock (부상)|Jorge Polanco (수술)"
 injuryAway: "Caleb Kilian (인대 염좌)|Jesus Luzardo (염증)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
 homeLineup: "[\"선발투수 N. McLean (11-9, 3.24) ERA 3.24|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
-awayLineup: "[\"선발투수 A. Nola (6-10, 4.69) ERA 4.69|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
+awayLineup: "[\"선발투수 A. Nola (6-10, 4.69) ERA 4.69|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\",\"1번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"2번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"3번 B. Harper (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"5번 A. Bohm (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"6번 B. Stott (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"7번 B. Marsh (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40803.png\",\"8번 J. Crawford (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080642.png\",\"9번 G. Stubbs (C)|https://a.espncdn.com/i/headshots/mlb/players/full/35760.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
