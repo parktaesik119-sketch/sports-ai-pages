@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.16","home":"두산 베어스","away":"삼성 라이
 awayRecent: '[{"date":"26.09.12","home":"키움 히어로즈","away":"롯데 자이언츠","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912LTWO02026-2026-09-12-kiwoom-heroes/"},{"date":"26.09.11","home":"삼성 라이온스","away":"키움 히어로즈","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911WOSS02026-2026-09-11-samsung-lions/"},{"date":"26.09.10","home":"두산 베어스","away":"키움 히어로즈","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910WOOB02026-2026-09-10-doosan-bears/"},{"date":"26.09.08","home":"LG 트윈스","away":"키움 히어로즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908WOLG02026-2026-09-08-lg-twins/"},{"date":"26.09.06","home":"키움 히어로즈","away":"NC 다이노스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260906NCWO02026-2026-09-06-kiwoom-heroes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 박찬호 (유격수)\",\"2번 박지훈 (3루수)\",\"3번 김민석 (좌익수)\",\"4번 양의지 (포수)\",\"5번 세베리노 (지명타자)\",\"6번 양석환 (1루수)\",\"7번 조수행 (우익수)\",\"8번 강승호 (2루수)\",\"9번 정수빈 (중견수)\"]"
-awayLineup: "[\"1번 서건창 (2루수)\",\"2번 추재현 (우익수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (좌익수)\",\"5번 김웅빈 (지명타자)\",\"6번 박주홍 (중견수)\",\"7번 어준서 (3루수)\",\"8번 김재현 (포수)\",\"9번 권혁빈 (유격수)\"]"
+homeLineup: "[\"선발투수 잭로그 (ERA 4.10)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55239.jpg\",\"1번 박찬호 (유격수)\",\"2번 박지훈 (3루수)\",\"3번 김민석 (좌익수)\",\"4번 양의지 (포수)\",\"5번 세베리노 (지명타자)\",\"6번 양석환 (1루수)\",\"7번 조수행 (우익수)\",\"8번 강승호 (2루수)\",\"9번 정수빈 (중견수)\"]"
+awayLineup: "[\"선발투수 알칸타라 (ERA 3.68)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69045.jpg\",\"1번 서건창 (2루수)\",\"2번 추재현 (우익수)\",\"3번 데이비슨 (1루수)\",\"4번 히우라 (좌익수)\",\"5번 김웅빈 (지명타자)\",\"6번 박주홍 (중견수)\",\"7번 어준서 (3루수)\",\"8번 김재현 (포수)\",\"9번 권혁빈 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
