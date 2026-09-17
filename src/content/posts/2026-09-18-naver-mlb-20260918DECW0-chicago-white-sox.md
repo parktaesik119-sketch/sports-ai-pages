@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.17","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"},{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"},{"date":"26.09.14","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CODE0-2026-09-14-detroit-tigers/"},{"date":"26.09.13","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"11-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CODE0-2026-09-13-detroit-tigers/"}]'
 injuryHome: "Huascar Brazoban (근육 염좌)|Tanner Murray (수술)|Colson Montgomery (타박상)|Joey Bart (골절)|Prelander Berroa (수술)"
 injuryAway: "Parker Meadows (수술)|Kerry Carpenter (족저근막염)|Burch Smith (염증)|Jack Flaherty (염증)|Justin Verlander (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Fedde (8-9, 3.97) ERA 3.97|https://a.espncdn.com/i/headshots/mlb/players/full/33793.png\"]"
+awayLineup: "[\"선발투수 F. Valdez (10-10, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/36581.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

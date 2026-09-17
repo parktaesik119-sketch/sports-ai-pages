@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디�
 awayRecent: '[{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"},{"date":"26.09.14","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SDSF0-2026-09-14-san-francisco-giants/"},{"date":"26.09.13","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913SDSF0-2026-09-13-san-francisco-giants/"},{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"}]'
 injuryHome: "Willi Castro (족저근막염)|Hunter Goodman (통증)|Kris Bryant (수술)|Jose Quintana (염좌)|McCade Brown (염증)"
 injuryAway: "Miguel Andujar (골절)|Jason Adam (부상)|Joe Musgrove (염증)|Lucas Giolito (염증)|Gavin Sheets (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Gordon (1-4, 5.55) ERA 5.55|https://a.espncdn.com/i/headshots/mlb/players/full/4415658.png\"]"
+awayLineup: "[\"선발투수 M. King (11-9, 3.03) ERA 3.03|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

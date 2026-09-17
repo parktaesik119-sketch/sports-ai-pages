@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬�
 awayRecent: '[{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬레틱스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays/"},{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"},{"date":"26.09.10","home":"애슬레틱스","away":"토론토 블루제이즈","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910TOOA0-2026-09-10-athletics/"}]'
 injuryHome: "Taylor Walls (근육 긴장)|Ben Williamson (근육 긴장)|Manuel Rodriguez (근육 긴장)|Edwin Uceta (근육 긴장)|Jonathan Heasley (골절)"
 injuryAway: "Brooks Kriske (신경 압박)|Joshua Kuroda-Grauer (수술)|J.T. Ginn (통증)|Brent Rooker (수술)|Nick Kurtz (근육 긴장)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Rasmussen (14-5, 2.81) ERA 2.81|https://a.espncdn.com/i/headshots/mlb/players/full/42584.png\"]"
+awayLineup: "[\"선발투수 J. Springs (4-13, 5.93) ERA 5.93|https://a.espncdn.com/i/headshots/mlb/players/full/35397.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

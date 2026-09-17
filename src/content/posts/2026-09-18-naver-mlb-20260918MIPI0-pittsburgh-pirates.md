@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀�
 injuryHome: "Kirby Yates (손가락 신경 압박)|Braxton Ashcraft (통증)|Isaac Mattson (염증)|Esmerlyn Valdez (긴장)|Mitch Keller (기타 상세 불명)"
 injuryAway: "Rob Zastryzny (긴장)|Garrett Mitchell (통증)|Bryse Wilson (긴장)|Grant Anderson (염증)|Brandon Woodruff (염증)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 K. Harrison (10-4, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔�
 injuryHome: "Steven Okert (근육 부상)|Brice Matthews (염좌 부상)|Taylor Trammell (개인 사유)|Mike Burrows (염증 부상)|Carlos Correa (수술)"
 injuryAway: "Tony Gonsolin (수술)|Connor Seabold (근육 부상)|James McArthur (수술)|Beck Way (부상)|Carlos Estevez (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Lugo (7-8, 4.99) ERA 4.99|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.16","home":"뉴욕 메츠","away":"볼티모어 오
 awayRecent: '[{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"},{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"},{"date":"26.09.12","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PHAT0-2026-09-12-atlanta-braves/"},{"date":"26.09.11","home":"필라델피아 필리스","away":"휴스턴 애스트로스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260911HOPH0-2026-09-11-philadelphia-phillies/"}]'
 injuryHome: "Cionel Perez (인대 염좌)|Devin Williams (인대 염좌)|Daniel Duarte (인대 염좌)|Robert Stock (부상)|Jorge Polanco (수술)"
 injuryAway: "Caleb Kilian (인대 염좌)|Jesus Luzardo (염증)|Felix Reyes (골절)|Johan Rojas (수술)|Adolis Garcia (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. McLean (11-9, 3.24) ERA 3.24|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
+awayLineup: "[\"선발투수 A. Nola (6-10, 4.69) ERA 4.69|https://a.espncdn.com/i/headshots/mlb/players/full/33709.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.16","home":"텍사스 레인저스","away":"보스�
 injuryHome: "Kyle Higashioka (부상)|Cole Winn (부상)|Peyton Gray (염증)|Carter Baumler (부상)|Jack Leiter (수술)"
 injuryAway: "Tyron Guerrero (염증)|Ceddanne Rafaela (통증)|Tanner Houck (수술)|Garrett Crochet (부상)|Curtis Mead (골절)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Gray (17-5, 2.76) ERA 2.76|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
