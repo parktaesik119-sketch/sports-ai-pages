@@ -1,0 +1,37 @@
+---
+title: "요코하마 DeNA 베이스타스 vs 야쿠르트 스왈로우스 야구분석·승부예측 (9월 18일) - 픽천국"
+date: 2026-09-18T09:00:00.000Z
+description: "요코하마 DeNA 베이스타스 vs 야쿠르트 스왈로우스 야구분석: 요코하마 DeNA 베이스타스는 최근 10경기 9승이라는 놀라운 기세로 시즌 막바지 가장 위협적인 전력을 보여주고 있습니다. 반… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260918YAYK0-2026-09-18-yokohama-baystars"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "요코하마 DeNA 베이스타스"
+awayTeam: "야쿠르트 스왈로우스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/YK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/YA.png"
+homeAnalysis: "요코하마 DeNA 베이스타스는 2026시즌 106경기에서 51승 2무 53패를 기록하며 시즌 중반을 넘어선 현재 안정적인 전력을 유지하고 있습니다. 최근 10경기에서 9승 1패라는 압도적인 성적을 거두며 리그 최상위권의 타격 흐름을 보여주고 있습니다. 특히 홈 경기에서의 집중력이 매우 뛰어나며, 투타 밸런스가 완벽하게 조화를 이루며 매 경기 높은 득점 생산력을 보입니다. 시즌 전체 득점 평균을 상회하는 최근 화력을 바탕으로 상대 마운드를 효과적으로 공략하는 모습이 매우 인상적입니다. 홈 팬들의 응원 속에서 더욱 강력한 경기력을 발휘하며 이번 시리즈에서도 주도권을 잡을 것으로 기대됩니다."
+awayAnalysis: "야쿠르트 스왈로우스는 2026시즌 104경기에서 38승 2무 64패를 기록하며 다소 어려운 시즌을 보내고 있습니다. 최근 10경기에서 3승 1무 6패를 기록하며 투타의 불균형으로 인해 승수 쌓기에 어려움을 겪는 모습이 자주 포착됩니다. 특히 원정 경기에서의 수비 집중력 저하가 실점으로 이어지는 경우가 많아 경기 운영에 큰 부담을 안고 있습니다. 타선 역시 꾸준한 득점 지원이 부족하여 투수진의 어깨를 무겁게 만들며 경기의 흐름을 내주는 상황이 반복되고 있습니다. 현재 전력상 상위 팀을 상대로 수비적인 보완이 시급하며 이번 경기를 통해 분위기 반전이 필요한 시점입니다."
+homePower: "투타 완벽 조화로 최근 10경기 9승 기록|홈 구장 이점 살린 높은 득점 효율성|상위권 도약 위한 투수진의 안정적 운영|득점권 상황에서 응집력 높은 타격|최근 연승 분위기를 주도하는 공수 집중력"
+awayPower: "원정 경기 수비 불안 요소 지속 노출|타선 득점 지원 부족으로 인한 투수 부하|최근 10경기 2점대 평균 득점의 빈타|상대전적 열세로 인한 심리적 부담감|경기 중반 이후 수비 집중력 회복 시급"
+h2h: '[{"date":"26.09.10","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"8-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910YAYK0-2026-09-10-yokohama-baystars/"},{"date":"26.09.09","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"9-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909YAYK0-2026-09-09-yokohama-baystars/"},{"date":"26.09.08","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260908YAYK0-2026-09-08-yokohama-baystars/"},{"date":"26.08.16","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816YKYA0-2026-08-16-yakult-swallows/"},{"date":"26.08.15","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815YKYA0-2026-08-15-yakult-swallows/"}]'
+summary: "요코하마 DeNA 베이스타스는 최근 10경기 9승이라는 놀라운 기세로 시즌 막바지 가장 위협적인 전력을 보여주고 있습니다. 반면 야쿠르트 스왈로우스는 최근 10경기에서 평균 득점이 2점대에 머무는 등 타격 난조와 원정 수비 불안이 겹치며 고전하는 흐름이 이어지고 있습니다. 상대전적에서도 최근 요코하마 DeNA 베이스타스가 대승을 거두는 등 압도적인 화력을 앞세워 상성을 우위로 가져가고 있습니다. 이번 경기 역시 투타에서 짜임새 있는 경기력을 자랑하는 요코하마 DeNA 베이스타스가 경기를 주도하며 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.15","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"13-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915YOYK0-2026-09-15-yokohama-baystars/"},{"date":"26.09.14","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914YOYK0-2026-09-14-yokohama-baystars/"},{"date":"26.09.13","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913YOYK0-2026-09-13-yokohama-baystars/"},{"date":"26.09.12","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912YKHI0-2026-09-12-hiroshima-carp/"},{"date":"26.09.11","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911YKHI0-2026-09-11-hiroshima-carp/"}]'
+awayRecent: '[{"date":"26.09.15","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915HIYA0-2026-09-15-yakult-swallows/"},{"date":"26.09.14","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914HIYA0-2026-09-14-yakult-swallows/"},{"date":"26.09.13","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913HIYA0-2026-09-13-yakult-swallows/"},{"date":"26.09.12","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912YAJN0-2026-09-12-chunichi-dragons/"},{"date":"26.09.10","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910YAYK0-2026-09-10-yokohama-baystars/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "요코하마 DeNA 베이스타스"
+pickWinResult: "승"
+pickHandicapTeam: "요코하마 DeNA 베이스타스"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

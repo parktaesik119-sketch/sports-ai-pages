@@ -1,0 +1,37 @@
+---
+title: "신시내티 레즈 vs LA 다저스 야구분석·승부예측 (9월 18일) - 픽천국"
+date: 2026-09-17T16:40:00.000Z
+description: "신시내티 레즈 vs LA 다저스 야구분석: LA 다저스는 현재 리그순위 2위의 위용에 걸맞은 탄탄한 전력을 바탕으로 이번 시즌 신시내티 레즈를 상대로 완벽한 우위를 점하… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260918LACI0-2026-09-18-cincinnati-reds"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "신시내티 레즈"
+awayTeam: "LA 다저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+homeAnalysis: "신시내티 레즈는 2026시즌 70승 81패, 승률 .464를 기록하며 현재 리그순위 12위에 머물러 있습니다. 득실 마진이 -152.0으로 나타나듯 공수 양면에서 안정감이 부족한 모습이며, 최근 흐름 또한 10경기 3승 7패로 하향 곡선을 그리고 있습니다. 투타 밸런스가 조화를 이루지 못하면서 경기당 평균 득점이 시즌 평균 4.0점에 그치는 등 타선의 집중력 회복이 절실한 상황입니다. 홈 경기에서도 상대의 공세를 막아내지 못하는 경기가 늘어나고 있어 투수진의 조기 실점 억제가 이번 경기의 핵심 과제로 보입니다. 특히 상위권 팀들을 상대로는 득점 지원 부족과 수비 실책이 겹치며 고전하는 양상이 뚜렷합니다."
+awayAnalysis: "LA 다저스는 2026시즌 92승 59패, 승률 .609라는 압도적인 성적으로 현재 리그순위 2위를 달리고 있습니다. 득실 마진 +177.0이 증명하듯 공수 밸런스가 매우 탄탄하며, 최근 10경기에서 8승 2패를 거두며 상승세의 정점을 보여주고 있습니다. 경기당 평균 5.0득점의 강력한 타선과 함께 상대 타선을 억제하는 마운드의 높이 또한 리그 정상급으로 평가됩니다. 원정에서도 높은 승률을 유지할 만큼 경기 운영 능력이 검증되어 있으며, 투수진의 안정적인 이닝 소화력은 팀 전력을 더욱 견고하게 만듭니다. 매 경기 주도권을 쥐고 경기를 풀어나가는 조직력이 돋보이며 공수 전환 속도와 마무리 집중력이 매우 우수합니다."
+homePower: "마운드 붕괴로 인한 경기당 평균 실점 관리의 어려움|타선의 기복이 심해 다득점 창출 능력 저하됨|상대 팀과의 상대전적 열세로 인한 심리적 압박 존재|하위권에 머무는 리그순위가 반영하는 전력의 한계|수비 집중력 저하로 인한 결정적인 실점 상황 발생"
+awayPower: "리그 상위권의 공수 밸런스와 안정적인 경기 운영 능력|최근 10경기 8승으로 극대화된 팀 분위기와 상승세|신시내티 레즈 상대 압도적인 상대전적 우위 기록|강력한 타선의 응집력으로 경기 초반 득점 생산력 높음|선발과 불펜의 조화로 안정적인 리드 유지 능력 갖춤"
+h2h: '[{"date":"26.09.16","home":"신시내티 레즈","away":"LA 다저스","score":"0-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916LACI0-2026-09-16-cincinnati-reds/"},{"date":"26.09.15","home":"신시내티 레즈","away":"LA 다저스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915LACI0-2026-09-15-cincinnati-reds/"},{"date":"26.09.10","home":"LA 다저스","away":"신시내티 레즈","score":"14-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CILA0-2026-09-10-los-angeles-dodgers/"},{"date":"26.09.09","home":"LA 다저스","away":"신시내티 레즈","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260909CILA0-2026-09-09-los-angeles-dodgers/"},{"date":"26.09.08","home":"LA 다저스","away":"신시내티 레즈","score":"6-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260908CILA0-2026-09-08-los-angeles-dodgers/"}]'
+summary: "LA 다저스는 현재 리그순위 2위의 위용에 걸맞은 탄탄한 전력을 바탕으로 이번 시즌 신시내티 레즈를 상대로 완벽한 우위를 점하고 있습니다. 신시내티 레즈가 최근 공수 지표에서 하락세를 면치 못하며 불안한 운영을 이어가는 반면, LA 다저스는 투타의 조화와 압도적인 득점력을 통해 매 경기 상대를 압박하는 흐름을 만들어내고 있습니다. 양 팀의 전력 격차와 최근 맞대결에서 나타난 데이터의 흐름을 고려할 때, 조직력과 집중력 면에서 우위에 있는 LA 다저스가 주도권을 쥐고 경기를 이끌어갈 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.16","home":"신시내티 레즈","away":"LA 다저스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916LACI0-2026-09-16-cincinnati-reds/"},{"date":"26.09.15","home":"신시내티 레즈","away":"LA 다저스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915LACI0-2026-09-15-cincinnati-reds/"},{"date":"26.09.14","home":"밀워키 브루어스","away":"신시내티 레즈","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CIMI0-2026-09-14-milwaukee-brewers/"},{"date":"26.09.13","home":"밀워키 브루어스","away":"신시내티 레즈","score":"13-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CIMI0-2026-09-13-milwaukee-brewers/"},{"date":"26.09.12","home":"밀워키 브루어스","away":"신시내티 레즈","score":"20-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CIMI0-2026-09-12-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.09.16","home":"신시내티 레즈","away":"LA 다저스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916LACI0-2026-09-16-cincinnati-reds/"},{"date":"26.09.15","home":"신시내티 레즈","away":"LA 다저스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915LACI0-2026-09-15-cincinnati-reds/"},{"date":"26.09.14","home":"마이애미 말린스","away":"LA 다저스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins/"},{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"},{"date":"26.09.12","home":"마이애미 말린스","away":"LA 다저스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912LAFL0-2026-09-12-miami-marlins/"}]'
+injuryHome: "Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
+injuryAway: "Dalton Rushing (통증)|Edwin Diaz (염증)|Gavin Stone (염증)|Jake Cousins (수술)|Andy Pages (골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

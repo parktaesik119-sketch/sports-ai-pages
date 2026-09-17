@@ -1,0 +1,37 @@
+---
+title: "KT 위즈 vs LG 트윈스 야구분석·승부예측 (9월 18일) - 픽천국"
+date: 2026-09-18T09:30:00.000Z
+description: "KT 위즈 vs LG 트윈스 야구분석: 리그 1위를 달리고 있는 KT 위즈는 시즌 내내 안정적인 투타 균형을 바탕으로 가장 높은 승률을 유지하고 있습니다. 3위 LG… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260918LGKT02026-2026-09-18-kt-wiz-suwon"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "KT 위즈"
+awayTeam: "LG 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LG.png"
+homeAnalysis: "KT 위즈는 2026시즌 101경기에서 60승 3무 38패를 기록하며 리그 1위의 압도적인 성적을 유지하고 있습니다. 최근 10경기에서도 7승 1무 2패라는 우수한 성적을 거두며 리그 최상위권 팀다운 면모를 과시하고 있습니다. 타선은 매 경기 꾸준한 집중력을 발휘하며 높은 득점 생산력을 보여주고 있으며, 마운드 역시 안정적인 운영으로 상대 타선을 효율적으로 막아내고 있습니다. 홈 경기에서의 강력한 투타 밸런스는 이번 경기에서도 팀의 핵심적인 승리 요인이 될 것으로 보입니다. 시즌 전체적으로 보여준 상위권 팀의 면모와 최근의 상승세는 KT 위즈가 이번 맞대결에서 자신감을 가질 수 있는 충분한 근거가 됩니다."
+awayAnalysis: "LG 트윈스는 2026시즌 104경기에서 57승 2무 45패의 성적을 기록하며 리그 3위를 달리고 있습니다. 최근 10경기에서는 6승 4패를 기록하며 다소 기복 있는 흐름을 보였으나, 연승을 통해 다시금 전력을 가다듬고 있습니다. 오스틴 등 핵심 타자들의 활약이 팀 타선의 중심을 잡고 있으며, 중요한 고비마다 승리를 챙기는 집중력이 돋보입니다. 비록 원정이라는 부담감이 있지만, 리그 상위권에 걸맞은 전력을 갖추고 있어 언제든 경기의 판도를 뒤집을 저력을 보유하고 있습니다. 시즌 전체적으로 탄탄한 전력을 유지해온 만큼, 이번 경기에서도 끈질긴 승부로 반등의 기회를 노릴 것으로 예상됩니다."
+homePower: "리그 1위다운 안정적인 투타 밸런스 유지함|최근 10경기 7승으로 매우 높은 승률 기록 중|홈에서의 압도적인 경기 운영 능력 증명됨|선발진의 이닝 소화와 구원진의 방어력 검증됨|타선의 높은 응집력으로 득점 기회 극대화함"
+awayPower: "지명타자 오스틴의 압도적인 타격 지표 보유함|중위권 싸움에서 밀리지 않는 저력 보여줌|리그 3위의 꾸준한 전력 기반 검증됨|중심 타선의 파괴력은 리그 내에서도 상위권임|원정 경기에서의 집중력과 끈기 보임"
+h2h: '[{"date":"26.08.20","home":"LG 트윈스","away":"KT 위즈","score":"4-16","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820KTLG02026-2026-08-20-lg-twins/"},{"date":"26.08.19","home":"LG 트윈스","away":"KT 위즈","score":"1-0","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819KTLG02026-2026-08-19-lg-twins/"},{"date":"26.08.18","home":"LG 트윈스","away":"KT 위즈","score":"9-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818KTLG02026-2026-08-18-lg-twins/"},{"date":"26.07.19","home":"LG 트윈스","away":"KT 위즈","score":"1-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260719KTLG02026-2026-07-19-lg-twins/"},{"date":"26.07.18","home":"LG 트윈스","away":"KT 위즈","score":"2-8","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260718KTLG02026-2026-07-18-lg-twins/"}]'
+summary: "리그 1위를 달리고 있는 KT 위즈는 시즌 내내 안정적인 투타 균형을 바탕으로 가장 높은 승률을 유지하고 있습니다. 3위 LG 트윈스 역시 핵심 타자들의 활약을 앞세워 끈질긴 추격전을 펼치고 있으나, 최근 전체적인 팀 운영의 짜임새와 경기력 측면에서는 KT 위즈가 다소 우위에 있는 것으로 평가됩니다. 양 팀 모두 강력한 타선을 보유하고 있어 투수력의 뒷받침이 승부를 가를 핵심 요소가 될 것이며, 전반적인 전력의 안정성과 홈 이점을 고려할 때 KT 위즈가 보다 승리에 가까운 흐름을 가져갈 것으로 보입니다."
+homeRecent: '[{"date":"26.09.16","home":"한화 이글스","away":"KT 위즈","score":"4-4","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916KTHH02026-2026-09-16-hanwha-eagles/"},{"date":"26.09.15","home":"한화 이글스","away":"KT 위즈","score":"3-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915KTHH02026-2026-09-15-hanwha-eagles/"},{"date":"26.09.13","home":"KT 위즈","away":"롯데 자이언츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913LTKT02026-2026-09-13-kt-wiz-suwon/"},{"date":"26.09.12","home":"KT 위즈","away":"KIA 타이거즈","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912HTKT02026-2026-09-12-kt-wiz-suwon/"},{"date":"26.09.11","home":"롯데 자이언츠","away":"KT 위즈","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911KTLT02026-2026-09-11-lotte-giants/"}]'
+awayRecent: '[{"date":"26.09.16","home":"NC 다이노스","away":"LG 트윈스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916LGNC02026-2026-09-16-nc-dinos/"},{"date":"26.09.15","home":"NC 다이노스","away":"LG 트윈스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915LGNC02026-2026-09-15-nc-dinos/"},{"date":"26.09.13","home":"삼성 라이온스","away":"LG 트윈스","score":"5-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913LGSS02026-2026-09-13-samsung-lions/"},{"date":"26.09.12","home":"삼성 라이온스","away":"LG 트윈스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912LGSS02026-2026-09-12-samsung-lions/"},{"date":"26.09.09","home":"한화 이글스","away":"LG 트윈스","score":"19-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909LGHH02026-2026-09-09-hanwha-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "문보경 (치료·재활중)|이재원 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KT 위즈"
+pickWinResult: "승"
+pickHandicapTeam: "KT 위즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

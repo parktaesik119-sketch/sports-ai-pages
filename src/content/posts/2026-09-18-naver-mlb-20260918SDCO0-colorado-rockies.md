@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 샌디에이고 파드리스 야구분석·승부예측 (9월 18일) - 픽천국"
+date: 2026-09-17T19:10:00.000Z
+description: "콜로라도 로키스 vs 샌디에이고 파드리스 야구분석: 2026시즌의 전반적인 흐름과 상대 전적을 종합적으로 고려할 때, 샌디에이고 파드리스가 우위를 점할 가능성이 매우 높습니다. … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 93경기에서 33승 60패를 기록하며 리그순위 15위에 머물러 있습니다. 최근 흐름은 매우 좋지 않은데, 최근 10경기 중 9경기를 패하며 시즌 막판 심각한 전력 저하를 드러내고 있습니다. 득점 생산력 자체는 평균적인 수준을 유지하려 노력하고 있으나, 마운드의 붕괴로 인해 다실점 경기가 빈번하게 발생하고 있습니다. 안방에서도 상대 타선을 제어하지 못하며 연패를 끊어내지 못하는 상황이 이어져 팬들에게 아쉬움을 주고 있습니다. 수비 집중력 회복과 투수진의 안정감이 동반되지 않는다면 이번 경기에서도 어려운 흐름이 예상됩니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 98경기에서 50승 47패의 성적으로 리그순위 6위를 달리고 있습니다. 최근 10경기에서 6승을 거두며 상위권 도약을 위한 안정적인 전력을 입증하고 있습니다. 득점력과 수비력이 균형을 이루며 승리를 쌓아가는 모습이 인상적이며, 특히 원정 경기에서도 집중력을 잃지 않는 점이 강점입니다. 시즌 전체 득실 수치에서도 플러스 흐름을 기록하고 있어 안정적인 경기 운영 능력이 돋보입니다. 꾸준한 득점 지원과 마운드의 견고함이 조화를 이루고 있어 현재의 상승세를 이어갈 가능성이 높습니다."
+homePower: "리그순위 15위의 부진은 마운드의 낮은 효율에서 기인함|최근 10경기 1승으로 극심한 투타 밸런스 붕괴 현상 보임|수비 불안이 다실점 패배로 직결되는 악순환 고착됨|홈경기임에도 불구하고 최근 연패로 팀 사기 저하됨|상대 전적 열세로 인해 심리적 부담감이 상당함"
+awayPower: "리그순위 6위로 안정된 투타 균형을 유지하고 있음|최근 10경기 6승으로 공수 양면에서 고른 활약 보임|상대전적에서 압도적인 우위를 점하며 자신감 확보함|득실 마진 플러스 지표가 보여주듯 효율적인 야구 수행함|중위권 이상의 전력을 바탕으로 원정 운영 능력 입증됨"
+h2h: '[{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"},{"date":"26.07.30","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-179636-2026-07-30-san-diego-padres/"},{"date":"26.07.29","home":"샌디에이고 파드리스","away":"콜로라도 로키스","score":"8-7"},{"date":"26.04.24","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"8-10"}]'
+summary: "2026시즌의 전반적인 흐름과 상대 전적을 종합적으로 고려할 때, 샌디에이고 파드리스가 우위를 점할 가능성이 매우 높습니다. 콜로라도 로키스는 최근 10경기에서 1승 9패를 기록할 정도로 전력이 크게 처져 있으며, 리그순위 15위가 보여주듯 마운드와 수비 전반에서 불안정한 모습을 노출하고 있습니다. 반면 샌디에이고 파드리스는 리그순위 6위의 저력을 바탕으로 최근 10경기에서도 6승을 챙기며 상승세를 달리고 있습니다. 상대 전적 또한 샌디에이고 파드리스가 우세한 흐름을 가져가고 있어, 이번 대결에서도 투타의 짜임새가 더 견고한 원정팀의 우세가 예상됩니다."
+homeRecent: '[{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"},{"date":"26.09.14","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CODE0-2026-09-14-detroit-tigers/"},{"date":"26.09.13","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CODE0-2026-09-13-detroit-tigers/"},{"date":"26.09.12","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CODE0-2026-09-12-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"},{"date":"26.09.14","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SDSF0-2026-09-14-san-francisco-giants/"},{"date":"26.09.13","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913SDSF0-2026-09-13-san-francisco-giants/"},{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"}]'
+injuryHome: "Willi Castro (족저근막염)|Hunter Goodman (통증)|Kris Bryant (수술)|Jose Quintana (염좌)|McCade Brown (염증)"
+injuryAway: "Miguel Andujar (골절)|Jason Adam (부상)|Joe Musgrove (염증)|Lucas Giolito (염증)|Gavin Sheets (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

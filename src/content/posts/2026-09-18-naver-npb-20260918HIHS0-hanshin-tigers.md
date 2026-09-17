@@ -1,0 +1,37 @@
+---
+title: "한신 타이거스 vs 히로시마 도요 카프 야구분석·승부예측 (9월 18일) - 픽천국"
+date: 2026-09-18T09:00:00.000Z
+description: "한신 타이거스 vs 히로시마 도요 카프 야구분석: 양 팀의 2026시즌 전적과 최근 경기력을 비교했을 때, 전반적인 팀 분위기에서 히로시마 도요 카프가 한신 타이거스보다 다소 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260918HIHS0-2026-09-18-hanshin-tigers"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "한신 타이거스"
+awayTeam: "히로시마 도요 카프"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/HS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/HI.png"
+homeAnalysis: "한신 타이거스는 2026시즌 102경기에서 54승 1무 47패의 성적을 기록하며 시즌 중반까지 안정적인 운영을 보여주었습니다. 하지만 최근 10경기에서 2승 8패에 그치며 타선의 침체와 투수진의 난조가 겹쳐 매우 어려운 흐름을 이어가고 있습니다. 특히 직전 3경기 연속 무득점에 그칠 정도로 득점력 빈곤이 심각한 상태이며, 홈 경기에서도 마운드의 안정감이 크게 떨어진 모습입니다. 선발로 나서는 Haruto Takahashi는 이러한 팀의 부진을 끊어내야 하는 중책을 맡아 경기 초반 집중력을 발휘하는 것이 무엇보다 중요합니다. 투타 밸런스가 무너진 상황이라 공격에서의 활로를 찾는 것이 이번 경기의 핵심 과제로 보입니다."
+awayAnalysis: "히로시마 도요 카프는 2026시즌 103경기에서 45승 4무 54패를 기록하며 시즌 운영에 어려움을 겪어왔으나, 최근 흐름은 다소 회복세를 보이고 있습니다. 최근 10경기에서 4승 6패로 승패를 반복하며 경기력의 기복을 보이고 있지만, 직전 경기에서 타격이 살아나며 승리를 거둔 점은 고무적인 부분입니다. 예고선발인 Hiroki Tokoda는 이번 시즌 팀의 원정 경기에서 중심을 잡아주며 안정적인 투구 내용을 선보이고 있어 기대감이 높습니다. 타선이 기복 없이 득점 지원을 해준다면 원정에서도 충분히 경쟁력 있는 경기를 펼칠 수 있을 것으로 예상됩니다. 전력상 최근 흐름이 다소 정체된 홈팀을 상대로 우위를 점할 수 있는 요소들을 두루 갖추고 있습니다."
+homePower: "타선이 3경기 연속 무득점에 머물며 공격력 심각한 침체 상태|최근 10경기 2승 8패로 투타 밸런스가 완전히 붕괴된 모습|홈 이점에도 불구하고 투수진의 제구 난조로 실점 관리 실패|Haruto Takahashi의 초반 이닝 장악력이 유일한 반등 요소임|득점 생산 방식이 단조로워 상대 투수 공략에 어려움을 겪음"
+awayPower: "Hiroki Tokoda의 안정적인 마운드 운영이 팀의 중심을 잡아줌|최근 경기에서 타선의 응집력이 살아나며 공격 활로를 개척함|시즌 중반의 부진을 딛고 최근 원정에서 승리 챙기며 분위기 반등|상대 팀 한신 타이거스의 타격 부진을 효율적으로 이용 가능|투수와 타자의 밸런스가 잡히며 원정에서의 운영 능력 검증됨"
+h2h: '[{"date":"26.09.09","home":"한신 타이거스","away":"히로시마 도요 카프","score":"1-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909HIHS0-2026-09-09-hanshin-tigers/"},{"date":"26.08.16","home":"히로시마 도요 카프","away":"한신 타이거스","score":"1-8","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816HSHI0-2026-08-16-hiroshima-carp/"},{"date":"26.08.15","home":"히로시마 도요 카프","away":"한신 타이거스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815HSHI0-2026-08-15-hiroshima-carp/"},{"date":"26.08.14","home":"히로시마 도요 카프","away":"한신 타이거스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260814HSHI0-2026-08-14-hiroshima-carp/"},{"date":"26.07.19","home":"히로시마 도요 카프","away":"한신 타이거스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260719HSHI0-2026-07-19-hiroshima-carp/"}]'
+summary: "양 팀의 2026시즌 전적과 최근 경기력을 비교했을 때, 전반적인 팀 분위기에서 히로시마 도요 카프가 한신 타이거스보다 다소 앞서 있습니다. 한신 타이거스는 최근 10경기에서 극심한 타격 난조와 투수진의 불안이 이어지며 고전하고 있는 반면, 히로시마 도요 카프는 최근 경기에서 타선이 제 몫을 다해주며 분위기를 추스르고 있습니다. 상대전적에서도 히로시마 도요 카프가 최근 맞대결에서 승리를 챙기는 등 흐름을 주도하고 있다는 점이 이번 경기에서도 긍정적으로 작용할 것으로 보입니다. 결과적으로 투타의 안정감과 최근 상승세 측면에서 히로시마 도요 카프가 승리할 가능성이 더욱 높다고 평가됩니다."
+homeRecent: '[{"date":"26.09.15","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915JNHS0-2026-09-15-hanshin-tigers/"},{"date":"26.09.14","home":"한신 타이거스","away":"주니치 드래곤스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914JNHS0-2026-09-14-hanshin-tigers/"},{"date":"26.09.13","home":"한신 타이거스","away":"주니치 드래곤스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913JNHS0-2026-09-13-hanshin-tigers/"},{"date":"26.09.12","home":"요미우리 자이언츠","away":"한신 타이거스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912HSYO0-2026-09-12-yomiuri-giants/"},{"date":"26.09.09","home":"한신 타이거스","away":"히로시마 도요 카프","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909HIHS0-2026-09-09-hanshin-tigers/"}]'
+awayRecent: '[{"date":"26.09.15","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915HIYA0-2026-09-15-yakult-swallows/"},{"date":"26.09.14","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914HIYA0-2026-09-14-yakult-swallows/"},{"date":"26.09.13","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913HIYA0-2026-09-13-yakult-swallows/"},{"date":"26.09.12","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912YKHI0-2026-09-12-hiroshima-carp/"},{"date":"26.09.11","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911YKHI0-2026-09-11-hiroshima-carp/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "히로시마 도요 카프"
+pickWinResult: "승"
+pickHandicapTeam: "히로시마 도요 카프"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---
