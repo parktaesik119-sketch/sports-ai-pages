@@ -187,9 +187,9 @@ if (isExtraFiltered) {
     "Norway": ["1. DIVISION", "2. DIVISION"],
     "Iceland": ["1. DEILD"],
     "Cyprus": ["2. DIVISION"],
-    "Scotland": ["CHAMPIONSHIP", "LEAGUE ONE"],
-    "Northern-Ireland": ["CHAMPIONSHIP"],
-    "Northern Ireland": ["CHAMPIONSHIP"],
+    "Scotland": ["CHAMPIONSHIP", "LEAGUE ONE", "PREMIERSHIP"],
+    "Northern-Ireland": ["CHAMPIONSHIP","PREMIERSHIP"],
+    "Northern Ireland": ["CHAMPIONSHIP","PREMIERSHIP"],
     "Brazil": ["SERIE B"],
     "Saudi-Arabia": ["DIVISION 1"],
     "Egypt": ["CUP"],
@@ -205,19 +205,18 @@ if (isExtraFiltered) {
     "Tanzania": ["PREMIER LEAGUE"],
     "Wales": ["PREMIER LEAGUE"],
     "Singapore": ["PREMIER LEAGUE"],
-    "Northern-Ireland": ["PREMIERSHIP"],
-    "Northern Ireland": ["PREMIERSHIP"],
-    "Scotland": ["PREMIERSHIP"],
     // 2026-08 추가: 비인기 리그 전체 차단 요청
     "Greece": ["SUPER LEAGUE"], // "Super League"/"Super League 1" 둘 다 매칭됨 (includes 비교라 뒤에 숫자 붙어도 걸림)
     "Colombia": ["PRIMERA A"],
     "Austria": ["BUNDESLIGA"], // 오스트리아 분데스리가는 독일 분데스리가와 리그명이 겹쳐서 country로 구분해서 차단
     "Vietnam": ["V-LEAGUE"],
     "IDN": ["SUPER LEAGUE"],
-    "IDN": ["SUPERLEAGUE"],
   };
 
-  if (countryLeagueBlacklist[country] && countryLeagueBlacklist[country].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
+  const _blacklistUpper = Object.fromEntries(
+  Object.entries(countryLeagueBlacklist).map(([k, v]) => [k.toUpperCase(), v])
+  );
+  if (_blacklistUpper[upperCountry] && _blacklistUpper[upperCountry].some(bl => cleanUpperLg.includes(bl.replace(/\s+/g, '').toUpperCase()))) {
     console.log(`🚫 [특수 차단] ${country} 하위 리그 스킵: ${m.league}`);
     return false;
   }

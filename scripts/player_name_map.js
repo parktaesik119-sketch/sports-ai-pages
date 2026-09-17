@@ -405,6 +405,7 @@ const PLAYER_NAME_MAP = {
   "Yong-Hui Park": "박용희",
   "Ji-Won Park": "박지원",
   "Ju-Chan Kim": "김주찬",
+  "Joo-Chan Kim": "김주찬",
   "Yun-Sang Hong": "홍윤상",
   "In-Gyun Kim": "김인균",
   "Ju-Hyeok Kang": "강주혁",
