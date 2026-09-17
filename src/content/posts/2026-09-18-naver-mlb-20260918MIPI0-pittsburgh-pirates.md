@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀�
 awayRecent: '[{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates/"},{"date":"26.09.14","home":"밀워키 브루어스","away":"신시내티 레즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CIMI0-2026-09-14-milwaukee-brewers/"},{"date":"26.09.13","home":"밀워키 브루어스","away":"신시내티 레즈","score":"13-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CIMI0-2026-09-13-milwaukee-brewers/"},{"date":"26.09.12","home":"밀워키 브루어스","away":"신시내티 레즈","score":"20-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912CIMI0-2026-09-12-milwaukee-brewers/"},{"date":"26.09.10","home":"밀워키 브루어스","away":"시카고 컵스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910CCMI0-2026-09-10-milwaukee-brewers/"}]'
 injuryHome: "Kirby Yates (손가락 신경 압박)|Braxton Ashcraft (통증)|Isaac Mattson (염증)|Esmerlyn Valdez (긴장)|Mitch Keller (기타 상세 불명)"
 injuryAway: "Rob Zastryzny (긴장)|Garrett Mitchell (통증)|Bryse Wilson (긴장)|Grant Anderson (염증)|Brandon Woodruff (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 W. Dotel (1-5, 4.84) ERA 4.84|https://a.espncdn.com/i/headshots/mlb/players/full/5332991.png\"]"
 awayLineup: "[\"선발투수 K. Harrison (10-4, 3.98) ERA 3.98|https://a.espncdn.com/i/headshots/mlb/players/full/4683375.png\"]"
 homeFormation: ""
 awayFormation: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.16","home":"신시내티 레즈","away":"LA 다저�
 injuryHome: "Spencer Steer (염좌)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
 injuryAway: "Dalton Rushing (통증)|Edwin Diaz (염증)|Gavin Stone (염증)|Jake Cousins (수술)|Andy Pages (골절)"
 homeLineup: "[\"선발투수 B. Singer (6-14, 5.38) ERA 5.38|https://a.espncdn.com/i/headshots/mlb/players/full/41172.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 J. Wrobleski (11-5, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
