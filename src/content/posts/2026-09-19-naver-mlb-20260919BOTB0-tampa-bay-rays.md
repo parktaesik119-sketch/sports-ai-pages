@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬�
 awayRecent: '[{"date":"26.09.17","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BOTE0-2026-09-17-texas-rangers/"},{"date":"26.09.16","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916BOTE0-2026-09-16-texas-rangers/"},{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"}]'
 injuryHome: "Ben Williamson (스트레인)|Manuel Rodriguez (스트레인)|Edwin Uceta (스트레인)|Jonathan Heasley (골절)|Garrett Cleavinger (통증)"
 injuryAway: "Tyron Guerrero (염증)|Tanner Houck (수술)|Ceddanne Rafaela (통증)|Garrett Crochet (스트레인)|Curtis Mead (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 I. Seymour (9-6, 4.27) ERA 4.27|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
+awayLineup: "[\"선발투수 R. Suarez (7-4, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

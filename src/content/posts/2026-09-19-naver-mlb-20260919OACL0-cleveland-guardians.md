@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.17","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"},{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬레틱스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays/"},{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"}]'
 injuryHome: "Angel Martinez (가벼운 염증)|Chase DeLauter (가벼운 염좌)|Colin Holderman (15일 자 부상자 명단 - 염증)|Rhys Hoskins (10일 자 부상자 명단 - 염증)|Shawn Armstrong (60일 자 부상자 명단 - 근육 경련)"
 injuryAway: "Joshua Kuroda-Grauer (60일 자 부상자 명단 - 수술)|J.T. Ginn (15일 자 부상자 명단 - 통증)|Brent Rooker (60일 자 부상자 명단 - 수술)|Nick Kurtz (60일 자 부상자 명단 - 근육 경련)|Gage Jump (15일 자 부상자 명단 - 신경 압박)"
-homeLineup: ''
+homeLineup: "[\"선발투수 D. Espino (0-0, 2.92) ERA 2.92|https://a.espncdn.com/i/headshots/mlb/players/full/42438.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

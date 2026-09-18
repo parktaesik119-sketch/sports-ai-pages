@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.17","home":"세인트루이스 카디널스","away"
 awayRecent: '[{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"},{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"},{"date":"26.09.14","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914ANMO0-2026-09-14-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"},{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"}]'
 injuryHome: "Joshua Baez (경미한 통증)|Everson Pereira (타박상)|Blaze Jordan (염좌)|Hunter Dobbins (수술)|Max Rajcic (수술)"
 injuryAway: "DJ Herz (근육 긴장)|PJ Poulin (근육 긴장)|Orlando Ribalta (염증)|Connelly Early (염증)|Matt Waldron (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. McGreevy (7-9, 3.83) ERA 3.83|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 A. Alvarez (2-6, 3.35) ERA 3.35|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

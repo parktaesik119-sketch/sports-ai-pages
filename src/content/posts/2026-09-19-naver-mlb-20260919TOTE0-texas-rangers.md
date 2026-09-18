@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.17","home":"텍사스 레인저스","away":"보스�
 awayRecent: '[{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"},{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"},{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"},{"date":"26.09.13","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913BATO0-2026-09-13-toronto-blue-jays/"}]'
 injuryHome: "Jack Leiter (60일 부상자 명단 - 수술)|Kyle Higashioka (10일 부상자 명단 - 염좌)|Cole Winn (15일 부상자 명단 - 염좌)|Peyton Gray (15일 부상자 명단 - 염증)|Carter Baumler (60일 부상자 명단 - 염좌)"
 injuryAway: "Luis Urias (10일 부상자 명단 - 염좌)|Trey Yesavage (15일 부상자 명단 - 수술)|Jonatan Clase (60일 부상자 명단 - 족저근막염)|Anthony Santander (60일 부상자 명단 - 수술)|Shane Bieber (15일 부상자 명단 - 염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Quantrill (9-5, 2.90) ERA 2.90|https://a.espncdn.com/i/headshots/mlb/players/full/39875.png\"]"
+awayLineup: "[\"선발투수 J. Soriano (12-7, 3.56) ERA 3.56|https://a.espncdn.com/i/headshots/mlb/players/full/40973.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

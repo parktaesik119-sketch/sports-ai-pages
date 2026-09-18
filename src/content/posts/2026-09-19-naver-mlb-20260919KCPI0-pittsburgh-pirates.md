@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀�
 awayRecent: '[{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"},{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros/"},{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"}]'
 injuryHome: "Kirby Yates (15일 부상자 명단 - 신경 압박)|Braxton Ashcraft (15일 부상자 명단 - 통증)|Isaac Mattson (15일 부상자 명단 - 염증)|Esmerlyn Valdez (10일 부상자 명단 - 염좌)|Mitch Keller (60일 부상자 명단 - 사유 미정)"
 injuryAway: "Tony Gonsolin (15일 부상자 명단 - 수술)|Connor Seabold (60일 부상자 명단 - 염좌)|James McArthur (60일 부상자 명단 - 수술)|Beck Way (15일 부상자 명단)|Carlos Estevez (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Skenes (10-11, 3.78) ERA 3.78|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
+awayLineup: "[\"선발투수 R. Dobnak (3-4, 2.73) ERA 2.73|https://a.espncdn.com/i/headshots/mlb/players/full/42214.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

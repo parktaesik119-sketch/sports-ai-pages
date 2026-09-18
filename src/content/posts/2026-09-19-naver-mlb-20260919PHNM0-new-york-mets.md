@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.17","home":"뉴욕 메츠","away":"볼티모어 오
 awayRecent: '[{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"},{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"},{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"},{"date":"26.09.12","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912PHAT0-2026-09-12-atlanta-braves/"}]'
 injuryHome: "Cionel Perez (15일 부상자 명단 - 염좌)|Devin Williams (15일 부상자 명단 - 염좌)|Jared Young (일일 부상자 명단)|Daniel Duarte (15일 부상자 명단 - 염좌)|Robert Stock (15일 부상자 명단)"
 injuryAway: "Jesus Luzardo (15일 부상자 명단 - 염증)|Caleb Kilian (60일 부상자 명단 - 염좌)|Felix Reyes (60일 부상자 명단 - 골절)|Johan Rojas (60일 부상자 명단 - 수술)|Adolis Garcia (60일 부상자 명단 - 수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 Z. Thornton (4-5, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/5129576.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

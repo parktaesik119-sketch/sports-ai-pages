@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디�
 awayRecent: '[{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels/"},{"date":"26.09.16","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SEAN0-2026-09-16-los-angeles-angels/"},{"date":"26.09.15","home":"LA 에인절스","away":"시애틀 매리너스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"}]'
 injuryHome: "Hunter Goodman (일별 상태 - 통증)|Kris Bryant (60일 부상자 명단 - 수술)|Jose Quintana (60일 부상자 명단 - 염좌)|Willi Castro (10일 부상자 명단 - 족저근막염)|McCade Brown (60일 부상자 명단 - 염증)"
 injuryAway: "Brendan Donovan (7일 부상자 명단 - 뇌진탕)|Brennen Davis (60일 부상자 명단 - 염좌)|Cole Wilcox (15일 부상자 명단 - 염좌)|Will Wilson (60일 부상자 명단 - 골절)|Emerson Hancock (15일 부상자 명단 - 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Sugano (12-10, 5.49) ERA 5.49|https://a.espncdn.com/i/headshots/mlb/players/full/4142423.png\"]"
+awayLineup: "[\"선발투수 B. Miller (4-9, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

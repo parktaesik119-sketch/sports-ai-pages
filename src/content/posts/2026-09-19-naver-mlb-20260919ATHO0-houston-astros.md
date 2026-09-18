@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔�
 awayRecent: '[{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"},{"date":"26.09.16","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916ATCC0-2026-09-16-chicago-cubs/"},{"date":"26.09.15","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs/"},{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"}]'
 injuryHome: "Steven Okert (근육 염좌)|Brice Matthews (염좌)|Mike Burrows (염증)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Robert Suarez (통증)|Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 H. Wesneski (5-2, 3.70) ERA 3.70|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (9-5, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디�
 awayRecent: '[{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"},{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"},{"date":"26.09.14","home":"마이애미 말린스","away":"LA 다저스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins/"},{"date":"26.09.13","home":"마이애미 말린스","away":"LA 다저스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913LAFL0-2026-09-13-miami-marlins/"}]'
 injuryHome: "Jason Adam (근육 부상)|Miguel Andujar (골절)|Joe Musgrove (염증)|Lucas Giolito (염증)|Gavin Sheets (염좌)"
 injuryAway: "Owen Caissie (골절)|Pete Fairbanks (신경 압박)|Max Meyer (근육 부상)|Anthony Bender (골절)|Ronny Henriquez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Mize (6-9, 3.69) ERA 3.69|https://a.espncdn.com/i/headshots/mlb/players/full/41167.png\"]"
+awayLineup: "[\"선발투수 E. Perez (7-11, 3.99) ERA 3.99|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
