@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.17","home":"니혼햄 파이터즈","away":"세이�
 awayRecent: '[{"date":"26.09.17","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260917SFOX0-2026-09-17-orix-buffaloes/"},{"date":"26.09.16","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260916SFOX0-2026-09-16-orix-buffaloes/"},{"date":"26.09.15","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915SFOX0-2026-09-15-orix-buffaloes/"},{"date":"26.09.12","home":"오릭스 버팔로스","away":"라쿠텐 골든이글스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912RTOX0-2026-09-12-orix-buffaloes/"},{"date":"26.09.11","home":"오릭스 버팔로스","away":"세이부 라이온즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911SEOX0-2026-09-11-orix-buffaloes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Hiromi Itoh (9-9, 3.12)|https://p.npb.jp/players_photo/2026/180/f/017_51355153.jpg\"]"
+awayLineup: "[\"선발투수 Anderson Espinoza (12-5, 2.68)|https://p.npb.jp/players_photo/2026/180/b/000_43545159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
