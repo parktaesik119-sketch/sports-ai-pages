@@ -87,6 +87,7 @@ export const EXACT_LEAGUE_MAP = {
   "World Cup - Women - Qualification Europe": "월드컵 예선(W)",
   "Community Shield": "커뮤니티 실드",
   "Coppa Italia": "코파 이탈리아",
+  "Asian Games": "아시안게임",
 
   // 🎮 e스포츠
   "Esports World Cup Playoffs": "EWC 플레이오프",
