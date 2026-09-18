@@ -1,0 +1,37 @@
+---
+title: "LA 에인절스 vs 미네소타 트윈스 야구분석·승부예측 (9월 19일) - 픽천국"
+date: 2026-09-19T01:38:00.000Z
+description: "LA 에인절스 vs 미네소타 트윈스 야구분석: 2026시즌 리그순위와 공수 밸런스 측면에서 미네소타 트윈스가 LA 에인절스에 비해 전반적인 우위를 점하고 있습니다. 미네소타… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 에인절스"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+homeAnalysis: "LA 에인절스는 2026시즌 리그순위 15위(58승 94패, 승률 .382)로 전체 시즌 경기당 평균 득점 3.9점을 기록하며 다소 침체된 흐름을 이어가고 있습니다. 최근 경기들에서도 타선의 기복이 심해지면서 경기를 안정적으로 풀어가지 못하는 모습이 자주 노출되고 있습니다. 특히 마운드의 실점 기복이 커지며 경기 중반 이후 주도권을 내주는 경우가 빈번하게 발생하고 있습니다. 여기에 Nolan Schanuel과 Yoan Moncada 등 주요 전력의 부상 이탈로 인해 타선의 집중력이 다소 떨어진 점도 아쉽습니다. 이번 홈 경기에서는 초반 선발 투수의 안정적인 호투와 함께 하위 타선의 반등이 필수적인 요소로 보여집니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 리그순위 11위(71승 81패, 승률 .467)를 기록 중이며 전체 시즌 평균 득점 4.2점으로 상대적으로 안정된 공격력을 구축하고 있습니다. 비록 Byron Buxton 등 주요 선수의 결장 악재가 존재하지만 백업 자원들이 제 몫을 해내며 타선의 짜임새를 유지하고 있습니다. 최근 경기에서도 필요할 때마다 타점 생산 능력을 발휘하며 경기 흐름을 우위로 가져오는 장점이 돋보입니다. 원정 경기 일정에서도 집중력을 잃지 않고 마운드와 타선의 조화를 이뤄내며 준수한 경기 운영을 펼치고 있습니다. 상대 전적에서도 우세를 점하고 있는 만큼 이번 경기 역시 자신감 있는 투타 밸런스로 경기를 주도할 가능성이 높습니다."
+homePower: "LA 에인절스 타선의 기복 심한 득점력으로 경기 운영 불안 요소 존재함|홈 경기 일정이지만 최근 마운드 난조로 실점 관리 부재가 드러남|주축 타자 부상 결장에 따른 중심 타선 화력 감퇴 우려됨|경기 후반 불펜 조기 소모로 인한 리드 유지력 약화가 보임|상대 맞대결 패배 우세 속에 상성 열세를 극복할 필요성 있음"
+awayPower: "미네소타 트윈스 상위 타선 화력 기반 경기 초반 주도권 확보 가능함|최근 강팀 상대 타격감 회복으로 득점 생산성 우위가 보임|상대전적 우세를 앞세운 상성상 자신감이 장점으로 작용함|원정 경기 변수 속 불펜진 안정감 유지가 승패 핵심으로 검증됨|장기 결장 공백에도 대체 전력 활약으로 공수 밸런스 유지 중임"
+h2h: '[{"date":"26.07.13","home":"미네소타 트윈스","away":"LA 에인절스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-179460-2026-07-13-minnesota-twins/"},{"date":"26.07.12","home":"미네소타 트윈스","away":"LA 에인절스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-179442-2026-07-12-minnesota-twins/"},{"date":"26.07.11","home":"미네소타 트윈스","away":"LA 에인절스","score":"3-4"}]'
+summary: "2026시즌 리그순위와 공수 밸런스 측면에서 미네소타 트윈스가 LA 에인절스에 비해 전반적인 우위를 점하고 있습니다. 미네소타 트윈스는 안정적인 득점 지원과 불펜 운용을 바탕으로 상대와의 맞대결에서도 우세를 이어온 흐름이 강점으로 평가됩니다. 반면 LA 에인절스는 부상자 공백과 타선의 기복으로 인해 최근 경기 운영에 어려움을 겪고 있는 상황입니다. 따라서 이번 경기는 투타 밸런스에서 앞서 있는 미네소타 트윈스가 경기 주도권을 쥐고 우위를 점할 것으로 전망됩니다."
+homeRecent: '[{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels/"},{"date":"26.09.16","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SEAN0-2026-09-16-los-angeles-angels/"},{"date":"26.09.15","home":"LA 에인절스","away":"시애틀 매리너스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels/"},{"date":"26.09.14","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914ANMO0-2026-09-14-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"}]'
+awayRecent: '[{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"},{"date":"26.09.16","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins/"},{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"},{"date":"26.09.14","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CLMN0-2026-09-14-minnesota-twins/"},{"date":"26.09.13","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CLMN0-2026-09-13-minnesota-twins/"}]'
+injuryHome: "Nolan Schanuel (10일 부상자 명단 - 근육 경련)|George Klassen (15일 부상자 명단 - 염증)|Samy Natera Jr. (15일 부상자 명단 - 염증)|Yoan Moncada (60일 부상자 명단 - 수술)|Gustavo Campero (10일 부상자 명단 - 근육 경련)"
+injuryAway: "Trevor Larnach (일일 부상자 명단 - 통증)|Mike Paredes (60일 부상자 명단 - 근육 경련)|Mick Abel (60일 부상자 명단 - 수술)|Kaelen Culpepper (10일 부상자 명단 - 근육 경련)|Byron Buxton (10일 부상자 명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

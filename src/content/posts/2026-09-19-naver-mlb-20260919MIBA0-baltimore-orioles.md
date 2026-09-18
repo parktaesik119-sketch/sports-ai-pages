@@ -1,0 +1,37 @@
+---
+title: "볼티모어 오리올스 vs 밀워키 브루어스 야구분석·승부예측 (9월 19일) - 픽천국"
+date: 2026-09-18T23:05:00.000Z
+description: "볼티모어 오리올스 vs 밀워키 브루어스 야구분석: 두 팀의 올 시즌 전력을 비교해 보면 리그순위 1위인 밀워키 브루어스가 객관적인 지표에서 우위를 점하고 있습니다. 밀워키 브루… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260919MIBA0-2026-09-19-baltimore-orioles"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "볼티모어 오리올스"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+homeAnalysis: "볼티모어 오리올스는 2026시즌 113경기에서 55승 55패, 승률 .500을 기록하며 리그순위 9위에 자리하고 있습니다. 최근 흐름을 살펴보면 꾸준히 득점력을 유지하며 안정적인 경기력을 보여주고 있으며, 특히 타선이 집중력을 발휘하는 경기가 많아지고 있습니다. 시즌 전체적으로 득점과 실점의 차이가 크지 않아 박빙의 승부가 자주 연출되는 양상을 보입니다. 현재 리그순위 9위라는 중위권 성적을 거두고 있으나, 홈에서의 운영 능력은 여전히 견고한 전력을 자랑하고 있습니다. 일부 주요 전력의 결장 변수가 존재하지만 이를 대체할 선수들의 활약이 기대되는 상황입니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 114경기에서 71승 42패, 승률 .628이라는 압도적인 성적을 거두며 리그순위 1위를 달리고 있습니다. 평균 득점 5.0점의 폭발적인 공격력을 앞세워 리그 전체에서 가장 위협적인 팀으로 평가받고 있습니다. 최근 9경기에서 6승을 거두는 등 상승세가 꺾이지 않고 있어 전력의 완성도가 매우 높음을 증명하고 있습니다. 특히 득실 차이가 +197점에 달할 정도로 투타 밸런스가 완벽에 가까운 수준을 보입니다. 리그순위 1위 팀다운 노련한 경기 운영과 뒷심이 이번 맞대결에서도 큰 강점으로 작용할 것입니다."
+homePower: "안정적인 홈 경기 운영을 통한 실점 억제력 확보|타선의 집중력 향상으로 매 경기 득점 가능성 유지|중위권 순위에도 불구하고 상위 팀 상대로도 대등한 경기|주요 부상자 이탈로 인한 벤치 자원의 역할이 중요함|투수진의 마무리 효율을 높이는 것이 이번 경기 핵심"
+awayPower: "리그 최상위권의 압도적인 득점 지원과 타선 화력|투타 밸런스가 완벽하게 갖춰진 짜임새 있는 전력|최근 9경기 평균 7.8득점의 무서운 공격적 흐름|리그순위 1위라는 자신감을 바탕으로 한 경기 운영|상대 수비를 압박하는 기동력과 작전 수행 능력 검증"
+h2h: '[]'
+summary: "두 팀의 올 시즌 전력을 비교해 보면 리그순위 1위인 밀워키 브루어스가 객관적인 지표에서 우위를 점하고 있습니다. 밀워키 브루어스는 시즌 내내 탄탄한 전력과 높은 득점력을 선보이며 리그 최고의 자리를 지키고 있으며, 최근 흐름 역시 매우 강력합니다. 볼티모어 오리올스 또한 최근 경기력에서 안정감을 찾고 있지만, 전반적인 투타 밸런스 면에서 밀워키 브루어스의 우세가 예상됩니다. 원정팀인 밀워키 브루어스는 경기 운영의 폭이 넓고 득점 생산 능력이 탁월하여 이번 경기에서도 주도권을 쥐고 경기를 풀어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.17","home":"뉴욕 메츠","away":"볼티모어 오리올스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BANM0-2026-09-17-new-york-mets/"},{"date":"26.09.16","home":"뉴욕 메츠","away":"볼티모어 오리올스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916BANM0-2026-09-16-new-york-mets/"},{"date":"26.09.15","home":"뉴욕 메츠","away":"볼티모어 오리올스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915BANM0-2026-09-15-new-york-mets/"},{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"},{"date":"26.09.13","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913BATO0-2026-09-13-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MIPI0-2026-09-18-pittsburgh-pirates/"},{"date":"26.09.17","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917MIPI0-2026-09-17-pittsburgh-pirates/"},{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates/"},{"date":"26.09.14","home":"밀워키 브루어스","away":"신시내티 레즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CIMI0-2026-09-14-milwaukee-brewers/"},{"date":"26.09.13","home":"밀워키 브루어스","away":"신시내티 레즈","score":"13-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CIMI0-2026-09-13-milwaukee-brewers/"}]'
+injuryHome: "Luis Robert Jr. (통증)|Blaze Alexander (통증)|Shane Baz (경미)|Christian Franklin (염증)|Ryan Helsley (염증)"
+injuryAway: "Garrett Mitchell (통증)|Bryse Wilson (긴장)|Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

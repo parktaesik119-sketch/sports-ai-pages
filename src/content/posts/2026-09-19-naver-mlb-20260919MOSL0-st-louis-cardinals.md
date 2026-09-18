@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 워싱턴 내셔널스 야구분석·승부예측 (9월 19일) - 픽천국"
+date: 2026-09-19T00:15:00.000Z
+description: "세인트루이스 카디널스 vs 워싱턴 내셔널스 야구분석: 세인트루이스 카디널스는 리그순위와 불펜 운용에서 상대적으로 안정적인 모습을 보이며 경기 후반 집중력이 돋보입니다. 반면 워싱턴… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260919MOSL0-2026-09-19-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 75승 78패 승률 .490을 기록하며 리그순위 10위에 위치해 있고 경기당 평균 4.4득점을 기록하고 있습니다. 이번 시즌 득실차 -14.0으로 마운드와 타선의 밸런스를 다잡기 위해 고전하는 흐름이 이어지고 있습니다. 최근 10경기에서는 4승 6패로 다소 아쉬운 성적을 거두고 있으나 홈 경기에서는 마운드의 안정감을 바탕으로 접전 상황을 극복하는 모습을 보여주었습니다. 타선의 파괴력은 기복이 존재하지만 중요한 순간 기회 포착 능력을 발휘해 점수를 뽑아내고 있습니다. 일부 선수들의 결장 악재가 있지만 상대전적에서의 우위를 발판 삼아 분위기 반전을 노리고 있습니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 71승 82패 승률 .464로 리그순위 11위에 랭크되어 있으며 경기당 평균 4.8득점을 기록하고 있습니다. 득실차 +3.0이 보여주듯 타선의 폭발력은 훌륭하지만 마운드의 불안정함으로 인해 승수를 챙기는 데 어려움을 겪었습니다. 최근 9경기에서 3승 6패로 주춤하고 있으며 투수진의 연속된 부상 공백이 경기 후반 운영에 부담으로 작용하고 있습니다. 원정길에 오르는 상황에서 선발 및 불펜의 안정감이 떨어지면 경기 흐름을 빼앗기는 경향이 있습니다. 타선의 화력을 앞세워 반전을 노리겠지만 마운드의 부상 열세를 극복하는 것이 급선무로 평가됩니다."
+homePower: "세인트루이스 카디널스 상대전적 2승 1패로 우위 확보함|평균 득점 4.4점으로 접전 상황 리드 유지 능력 우수함|홈 경기 시 불펜 안정감 바탕으로 경기 후반 경쟁력 보임|타선 기복에도 기회 포착 시 집중력 발휘함|핵심 전력 유지로 경기 운영의 안정성 검증됨"
+awayPower: "워싱턴 내셔널스 시즌 평균 득점 4.8점으로 타선 화력 뛰어남|양호한 득실 차 대비 승률 부족으로 마운드 난조 지속됨|투수진 다수 장기 결장으로 마운드 운용 부담 큼|최근 원정 흐름 주춤하며 경기 초반 선제 실점 변수 존재함|경기 후반 불펜 과부하로 승부처 방어력 약화 보임"
+h2h: '[{"date":"26.04.09","home":"워싱턴 내셔널스","away":"세인트루이스 카디널스","score":"1-6"},{"date":"26.04.08","home":"워싱턴 내셔널스","away":"세인트루이스 카디널스","score":"6-7"},{"date":"26.04.07","home":"워싱턴 내셔널스","away":"세인트루이스 카디널스","score":"9-6"}]'
+summary: "세인트루이스 카디널스는 리그순위와 불펜 운용에서 상대적으로 안정적인 모습을 보이며 경기 후반 집중력이 돋보입니다. 반면 워싱턴 내셔널스는 뛰어난 득점력에도 불구하고 투수진의 잇따른 결장으로 인해 실점 관리에 부침을 겪고 있습니다. 이번 시즌 상대전적에서도 마운드의 안정감을 앞세워 승리를 챙겼던 세인트루이스 카디널스가 주도권을 잡고 경기를 유리하게 이끌어갈 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.17","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals/"},{"date":"26.09.16","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SFSL0-2026-09-16-st-louis-cardinals/"},{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"},{"date":"26.09.14","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CWSL0-2026-09-14-st-louis-cardinals/"},{"date":"26.09.13","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CWSL0-2026-09-13-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"},{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"},{"date":"26.09.14","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914ANMO0-2026-09-14-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"},{"date":"26.09.10","home":"샌디에이고 파드리스","away":"워싱턴 내셔널스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260910MOSD0-2026-09-10-san-diego-padres/"}]'
+injuryHome: "Joshua Baez (경미한 통증)|Everson Pereira (타박상)|Blaze Jordan (염좌)|Hunter Dobbins (수술)|Max Rajcic (수술)"
+injuryAway: "DJ Herz (근육 긴장)|PJ Poulin (근육 긴장)|Orlando Ribalta (염증)|Connelly Early (염증)|Matt Waldron (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세인트루이스 카디널스"
+pickWinResult: "승"
+pickHandicapTeam: "세인트루이스 카디널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

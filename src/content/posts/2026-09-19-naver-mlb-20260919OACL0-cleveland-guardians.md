@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 가디언스 vs 애슬레틱스 야구분석·승부예측 (9월 19일) - 픽천국"
+date: 2026-09-18T23:10:00.000Z
+description: "클리블랜드 가디언스 vs 애슬레틱스 야구분석: 2026시즌 리그순위 4위를 달리고 있는 클리블랜드 가디언스는 안정된 투타 밸런스를 바탕으로 안방에서 꾸준한 경기력을 선보이고… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260919OACL0-2026-09-19-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "애슬레틱스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+homeAnalysis: "클리블랜드 가디언스는 2026시즌 78승 75패 승률 0.510을 기록하며 리그순위 4위에 올라 안정적인 기량을 입증하고 있습니다. 최근 10경기에서도 5승 5패를 기록하는 등 무난한 흐름을 유지하며 승수를 꾸준히 적립하고 있습니다. 경기당 평균 6점의 기대 득점력을 기록 중인 타선은 경기 후반 찬스에서 강한 집념을 보여주며 팀 공격을 이끌고 있습니다. 마운드와 수비진 역시 득실차 관리에서 선전하며 홈 경기 운영 시 한층 높은 집중력을 발휘하는 중입니다. 일부 전력의 부상 공백이 존재하지만 탄탄한 경기 운용 능력을 바탕으로 이번 경기에서도 유용한 흐름을 이어갈 것으로 기대됩니다."
+awayAnalysis: "애슬레틱스는 2026시즌 61승 92패 승률 0.399로 리그순위 14위에 머무르며 쉽지 않은 시즌을 이어가고 있습니다. 다만 최근 10경기에서는 6승 4패로 반등의 기조를 보이며 타선의 집중력이 활발하게 살아나는 모습입니다. 경기당 평균 5점의 기대 득점력을 갖춘 공격진은 상위 타선을 중심으로 연쇄 찬스를 만들어내며 꾸준한 화력을 제공하고 있습니다. 하지만 대량 실점 경기가 잦았던 마운드의 불안요소와 (-214.0)에 달하는 득실차는 여전히 극복해야 할 과제로 남아있습니다. 전력 결장자가 존재하는 상황에서 원정 경기의 불리함을 이겨내려면 투수진의 안정적인 이닝 소화가 선행되어야 할 것으로 보입니다."
+homePower: "클리블랜드 가디언스의 안정적인 리그 순위와 경쟁력 입증함|최근 상승세를 바탕으로 타선 집중력이 개선된 모습임|홈 경기 운영 시 마운드와 수비진의 안정감이 우수함|주요 전력 결장 악재 속에서도 대체 자원의 활약 돋보임|상대전적 우위를 앞세워 경기 주도권을 잡을 것으로 보임"
+awayPower: "애슬레틱스의 최근 상승세 속 타선 효율성 개선된 모습임|경기당 득점력 상승으로 원정 경기 경쟁력 보강됨|시즌 누적 득실차 열세로 마운드 불안감 상존함|핵심 타진 결장으로 인한 장타력 부재 변수 존재함|경기 후반 실점 관리 여부가 승패 가를 핵심 요소임"
+h2h: '[{"date":"26.05.04","home":"애슬레틱스","away":"클리블랜드 가디언스","score":"7-1","link":"https://pick79.com/posts/detail/analyze-178517-2026-05-04-athletics/"},{"date":"26.05.03","home":"애슬레틱스","away":"클리블랜드 가디언스","score":"6-14","link":"https://pick79.com/posts/detail/analyze-178501-2026-05-03-athletics/"},{"date":"26.05.02","home":"애슬레틱스","away":"클리블랜드 가디언스","score":"5-8"}]'
+summary: "2026시즌 리그순위 4위를 달리고 있는 클리블랜드 가디언스는 안정된 투타 밸런스를 바탕으로 안방에서 꾸준한 경기력을 선보이고 있습니다. 반면 애슬레틱스는 최근 타선 반등을 이루어냈으나 시즌 전반에 걸친 마운드 불안과 득실차 열세로 인해 원정 부담감이 존재하는 상태입니다. 맞대결 상대전적에서도 우위를 점했던 클리블랜드 가디언스가 마운드의 안정감과 홈 이점을 적극 활용하여 승리를 거둘 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.09.17","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917CWCL0-2026-09-17-cleveland-guardians/"},{"date":"26.09.16","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916CWCL0-2026-09-16-cleveland-guardians/"},{"date":"26.09.15","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915CWCL0-2026-09-15-cleveland-guardians/"},{"date":"26.09.14","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CLMN0-2026-09-14-minnesota-twins/"},{"date":"26.09.13","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CLMN0-2026-09-13-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"},{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬레틱스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays/"},{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"}]'
+injuryHome: "Angel Martinez (가벼운 염증)|Chase DeLauter (가벼운 염좌)|Colin Holderman (15일 자 부상자 명단 - 염증)|Rhys Hoskins (10일 자 부상자 명단 - 염증)|Shawn Armstrong (60일 자 부상자 명단 - 근육 경련)"
+injuryAway: "Joshua Kuroda-Grauer (60일 자 부상자 명단 - 수술)|J.T. Ginn (15일 자 부상자 명단 - 통증)|Brent Rooker (60일 자 부상자 명단 - 수술)|Nick Kurtz (60일 자 부상자 명단 - 근육 경련)|Gage Jump (15일 자 부상자 명단 - 신경 압박)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

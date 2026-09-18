@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 뉴욕 양키즈 야구분석·승부예측 (9월 19일) - 픽천국"
+date: 2026-09-19T01:40:00.000Z
+description: "애리조나 다이아몬드백스 vs 뉴욕 양키즈 야구분석: 전체적인 전력의 안정감과 최근 상승세 면에서 뉴욕 양키즈가 우위를 점할 것으로 기대됩니다. 뉴욕 양키즈는 리그순위 2위다운 막… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260919NYAZ0-2026-09-19-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "뉴욕 양키즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 101경기에서 55승 46패를 기록하며 승률 5할 이상을 지켜내는 안정적인 경기력을 보여주고 있습니다. 현재 리그순위 7위에 위치해 있으며 최근 10경기에서도 6승 4패로 준수한 승리 흐름을 이어가며 반등 조짐을 나타내고 있습니다. 마이애미 마린스와의 최근 시리즈에서는 다소 주춤했으나 투타 조화를 바탕으로 팽팽한 흐름을 이어가는 집중력이 돋보입니다. 다만 라이언 톰슨과 에이아이 퍽 등 불펜의 핵심 자원들이 장기 결장 중이라 경기 후반 마운드 운용에 다소 과부하가 발생할 수 있습니다. 홈의 이점을 살려 타선이 초반부터 득점 지원을 아끼지 않는다면 원정팀의 거센 기세를 견뎌낼 발판을 마련할 수 있습니다."
+awayAnalysis: "뉴욕 양키즈는 2026시즌 115경기에서 67승 44패의 우수한 전력으로 리그순위 2위에 이름을 올리고 있는 리그 대표 강호입니다. 최근 10경기에서도 7승 3패의 압도적인 성적을 거두며 고점의 경기력을 변함없이 유지하고 있습니다. 최근 미네소타 트윈스와의 경기에서도 강력한 화력을 바탕으로 연승을 거두는 등 타선의 폭발력이 대단히 매섭습니다. 지안카를로 스탠튼과 트렌트 그리샴 등 주요 공격 자원들의 결장 악재 속에서도 두터운 선수층을 활용해 흔들림 없는 득점 생산력을 보여주고 있습니다. 원정 경기에서도 흠잡을 데 없는 공수 밸런스를 앞세워 경기 초반부터 상대를 압박하는 운영 능력이 돋보입니다."
+homePower: "시즌 승률 5할 이상 유지하며 리그 중상위권 전력 입증함|최근 10경기 6승 기록하며 접전 상황 처리 능력 양호함|핵심 불펜진의 장기 부상으로 경기 후반 마운드 과부하 우려됨|타선의 득점 집계 능력 바탕으로 홈에서 강한 저력 발휘함|초반 선제 득점 성공 시 경기 주도권 가져올 역량 충분함"
+awayPower: "리그순위 2위다운 강력한 공수 밸런스와 경기 지배력 유지함|최근 10경기 7승으로 타선의 연쇄 폭발력이 대단히 위력적임|주요 결장자 발생에도 불구하고 백업층 깊이로 공백 완벽히 메움|원정 경기에서도 기복 없는 경기 운영으로 높은 승률 기록함|상대 불펜 약점을 공략하는 경기 후반 집요함이 최대 강점임"
+h2h: '[]'
+summary: "전체적인 전력의 안정감과 최근 상승세 면에서 뉴욕 양키즈가 우위를 점할 것으로 기대됩니다. 뉴욕 양키즈는 리그순위 2위다운 막강한 화력과 탄탄한 선수층을 바탕으로 원정에서도 꾸준히 높은 경기력을 선보이고 있습니다. 애리조나 다이아몬드백스 역시 홈에서 끈질긴 저력을 보여주고 있으나 주요 투수진의 부상 공백으로 인해 경기 후반 마운드 싸움에서 열세에 놓일 가능성이 있습니다. 타선의 파괴력과 마운드 밸런스에서 앞서 있는 뉴욕 양키즈가 주도권을 쥐고 승리를 챙길 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"},{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"},{"date":"26.09.14","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914TEAZ0-2026-09-14-arizona-diamondbacks/"},{"date":"26.09.12","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"9-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912TEAZ0-2026-09-12-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"},{"date":"26.09.16","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins/"},{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"},{"date":"26.09.14","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914NMNY0-2026-09-14-new-york-yankees/"},{"date":"26.09.13","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913NMNY0-2026-09-13-new-york-yankees/"}]'
+injuryHome: "Tyler Locklear (60일 부상자 명단 - 골절)|Ryan Thompson (60일 부상자 명단 - 염좌)|A.J. Puk (60일 부상자 명단 - 염좌)|Andrew Saalfrank (60일 부상자 명단 - 수술)|Cristian Mena (60일 부상자 명단 - 수술)"
+injuryAway: "Aaron Judge (일별 관찰 대상 - 통증)|Trent Grisham (10일 부상자 명단 - 염좌)|Ryan Weathers (15일 부상자 명단 - 염좌)|Fernando Cruz (15일 부상자 명단 - 통증)|Giancarlo Stanton (60일 부상자 명단 - 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

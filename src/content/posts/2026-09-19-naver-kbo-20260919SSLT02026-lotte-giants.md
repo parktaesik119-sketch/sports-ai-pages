@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs 삼성 라이온스 야구분석·승부예측 (9월 19일) - 픽천국"
+date: 2026-09-19T08:00:00.000Z
+description: "롯데 자이언츠 vs 삼성 라이온스 야구분석: 2026시즌 리그 2위에 올라 있는 삼성 라이온스는 탄탄한 타선의 파괴력과 안정적인 경기 운영 능력을 바탕으로 시즌 내내 뛰어… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260919SSLT02026-2026-09-19-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "삼성 라이온스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+homeAnalysis: "롯데 자이언츠는 2026시즌 101경기에서 45승 2무 54패를 기록하며 리그 9위에 위치해 있습니다. 최근 10경기에서 2승 8패로 저조한 흐름을 이어가고 있어 분위기 반전이 시급한 상황입니다. 타선에서는 3번 타자 레이예스가 WAR 4.98로 뛰어난 활약을 펼치고 있으며 나승엽과 한동희가 중심 타선에서 힘을 보태고 있습니다. 하지만 경기당 득점력의 기복과 함께 마운드의 불안정이 겹치면서 경기 후반 승부처에서 어려움을 겪는 모습입니다. 홈 경기장에서도 안정적인 전력을 보여주지 못하고 있는 만큼 선발 야수진의 활발한 득점 지원과 투수진의 난조 극복이 절실합니다."
+awayAnalysis: "삼성 라이온스는 2026시즌 103경기에서 60승 2무 41패를 기록하며 리그 2위의 우수한 성적을 유지하고 있습니다. 최근 10경기에서도 5승 5패를 기록하며 상위권에서의 경쟁력을 굳건히 지키고 있습니다. 타선에서는 구자욱이 WAR 5.09를 기록하며 팀 공격을 강력하게 이끌고 있고 디아즈와 류지혁 등 핵심 타자들의 지원 사격도 원활하게 이루어지고 있습니다. 득점 생산력에서 확실한 우위를 점하고 있으며 경기 후반 투타의 밸런스가 안정적으로 유지되는 점이 큰 강점입니다. 원정 경기에서도 특유의 집중력을 바탕으로 승리를 챙기는 경향이 강해 이번 맞대결에서도 우세한 경기 운영이 기대됩니다."
+homePower: "레이예스와 한동희 중심의 상위 타선 파괴력 보유함|최근 10경기 2승에 그치며 경기 후반 집중력 약화 보임|마운드 불안정으로 경기 중반 실점 억제력 저하됨|상대전적 열세 극복을 위한 조기 선제점 확보 시급함|롯데 자이언츠 야수진의 전반적인 타격 기복 변수로 작용함"
+awayPower: "구자욱과 디아즈 중심의 리그 정상급 화력 구축함|시즌 60승으로 상위권 굳힌 우수한 팀 전력 검증됨|최근 맞대결에서 우위를 점하며 상성상 유리함 유지함|류지혁과 박승규의 호조로 하위 타선 연결고리 뛰어남|원정 경기에서도 기복 없는 경기 운영 능력 보여줌"
+h2h: '[{"date":"26.09.15","home":"삼성 라이온스","away":"롯데 자이언츠","score":"7-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915LTSS02026-2026-09-15-samsung-lions/"},{"date":"26.09.03","home":"삼성 라이온스","away":"롯데 자이언츠","score":"2-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903LTSS02026-2026-09-03-samsung-lions/"},{"date":"26.09.02","home":"삼성 라이온스","away":"롯데 자이언츠","score":"8-5","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902LTSS02026-2026-09-02-samsung-lions/"},{"date":"26.09.01","home":"삼성 라이온스","away":"롯데 자이언츠","score":"3-0","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901LTSS02026-2026-09-01-samsung-lions/"},{"date":"26.08.02","home":"롯데 자이언츠","away":"삼성 라이온스","score":"10-7","link":"https://pick79.com/posts/detail/analyze-181930-2026-08-02-lotte-giants/"}]'
+summary: "2026시즌 리그 2위에 올라 있는 삼성 라이온스는 탄탄한 타선의 파괴력과 안정적인 경기 운영 능력을 바탕으로 시즌 내내 뛰어난 경쟁력을 보여주고 있습니다. 반면 롯데 자이언츠는 최근 10경기에서 승률이 떨어지며 마운드와 타선의 밸런스 균열로 고전하는 흐름입니다. 최근 상대전적에서도 삼성 라이온스가 확실한 우위를 점하고 있는 만큼 이번 맞대결에서도 원정팀이 주도권을 잡고 승리를 이끌어낼 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.16","home":"롯데 자이언츠","away":"SSG 랜더스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SKLT02026-2026-09-16-lotte-giants/"},{"date":"26.09.15","home":"삼성 라이온스","away":"롯데 자이언츠","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915LTSS02026-2026-09-15-samsung-lions/"},{"date":"26.09.13","home":"KT 위즈","away":"롯데 자이언츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913LTKT02026-2026-09-13-kt-wiz-suwon/"},{"date":"26.09.12","home":"키움 히어로즈","away":"롯데 자이언츠","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912LTWO02026-2026-09-12-kiwoom-heroes/"},{"date":"26.09.11","home":"롯데 자이언츠","away":"KT 위즈","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911KTLT02026-2026-09-11-lotte-giants/"}]'
+awayRecent: '[{"date":"26.09.16","home":"두산 베어스","away":"삼성 라이온스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SSOB02026-2026-09-16-doosan-bears/"},{"date":"26.09.15","home":"삼성 라이온스","away":"롯데 자이언츠","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915LTSS02026-2026-09-15-samsung-lions/"},{"date":"26.09.13","home":"삼성 라이온스","away":"LG 트윈스","score":"5-13","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913LGSS02026-2026-09-13-samsung-lions/"},{"date":"26.09.12","home":"삼성 라이온스","away":"LG 트윈스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912LGSS02026-2026-09-12-samsung-lions/"},{"date":"26.09.11","home":"삼성 라이온스","away":"키움 히어로즈","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911WOSS02026-2026-09-11-samsung-lions/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성 라이온스"
+pickWinResult: "승"
+pickHandicapTeam: "삼성 라이온스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

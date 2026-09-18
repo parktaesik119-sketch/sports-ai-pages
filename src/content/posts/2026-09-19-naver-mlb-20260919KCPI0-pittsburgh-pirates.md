@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 캔자스시티 로열스 야구분석·승부예측 (9월 19일) - 픽천국"
+date: 2026-09-18T22:40:00.000Z
+description: "피츠버그 파이러츠 vs 캔자스시티 로열스 야구분석: 피츠버그 파이러츠는 2026시즌 동안 꾸준한 득점력을 유지하며 최근 경기에서도 상승세를 이어가고 있습니다. 반면 캔자스시티 로… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260919KCPI0-2026-09-19-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 114경기에서 53승 60패와 평균 득점 4.7점을 기록하며 리그순위 9위로 분위기 반전을 이끌어가고 있습니다. 최근 10경기에서 6승을 올리며 안정된 경기 운영 능력을 바탕으로 상승세를 타는 모습입니다. 타선이 경기 후반 집중력을 발휘하며 득점 지원을 원활하게 해주고 있어 경기 주도권을 자주 잡고 있습니다. 주요 투수진의 부상 이탈이라는 악재 속에서도 대체 불펜 자원들이 실점을 최소화하며 견고하게 버텨내고 있습니다. 전반적인 공수 밸런스가 살아나고 있는 만큼 이번 홈경기에서도 뛰어난 경기력을 선보일 것으로 기대됩니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 109경기 동안 54승 51패와 평균 득점 4.4점을 올리며 리그순위 13위에 머물러 다소 침체된 흐름을 보이고 있습니다. 최근 10경기에서는 4승 6패로 경기력의 기복이 심해지며 순위 반등에 어려움을 겪고 있습니다. 마운드 핵심 전력들의 연이은 부상으로 인해 마운드 운용에 큰 차질이 생겼고 실점 비율이 높아졌습니다. 원정 경기에서 경기 초반 득점 지원이 부족할 경우 경기 전체 흐름을 내주는 경향이 자주 발생합니다. 타선 역시 경기별 득점 격차가 커 안정적인 전력 유지에 난항을 겪고 있습니다."
+homePower: "최근 경기 마운드 안정감 회복하며 승률 상승세 보임|득실 마진 양수 유지하며 경기 운영의 효율성 증명|핵심 투수진 공백에도 대체 불펜의 대응력 우수함|경기 후반 타선 집중력 상승하며 승부처 우위 확보|피츠버그 파이러츠 홈 특유의 타력으로 주도권 유지 가능"
+awayPower: "최근 경기력 기복 심화되며 연승 동력 부족함|투수진 주요 부상자 속출로 불펜 과부하 가중됨|득실 마진 음수 기록하며 마운드 수비 관리 난조 보임|원정 경기 초반 실점 늘어나며 경기 운영 부담 커짐|캔자스시티 로열스 타선 득점 기복으로 반등 제약 존재"
+h2h: '[]'
+summary: "피츠버그 파이러츠는 2026시즌 동안 꾸준한 득점력을 유지하며 최근 경기에서도 상승세를 이어가고 있습니다. 반면 캔자스시티 로열스는 주요 투수들의 부상 공백과 타선 기복이 맞물려 원정 길에서 다소 고전하는 흐름을 보여줍니다. 득실 balance와 최근 불펜진의 안정감에서 앞서 있는 피츠버그 파이러츠가 이번 경기에서 우위를 점하며 승리를 거둘 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MIPI0-2026-09-18-pittsburgh-pirates/"},{"date":"26.09.17","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917MIPI0-2026-09-17-pittsburgh-pirates/"},{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates/"},{"date":"26.09.14","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PICC0-2026-09-14-chicago-cubs/"},{"date":"26.09.13","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PICC0-2026-09-13-chicago-cubs/"}]'
+awayRecent: '[{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"},{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros/"},{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"},{"date":"26.09.12","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912KCBO0-2026-09-12-boston-red-sox/"}]'
+injuryHome: "Kirby Yates (15일 부상자 명단 - 신경 압박)|Braxton Ashcraft (15일 부상자 명단 - 통증)|Isaac Mattson (15일 부상자 명단 - 염증)|Esmerlyn Valdez (10일 부상자 명단 - 염좌)|Mitch Keller (60일 부상자 명단 - 사유 미정)"
+injuryAway: "Tony Gonsolin (15일 부상자 명단 - 수술)|Connor Seabold (60일 부상자 명단 - 염좌)|James McArthur (60일 부상자 명단 - 수술)|Beck Way (15일 부상자 명단)|Carlos Estevez (60일 부상자 명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

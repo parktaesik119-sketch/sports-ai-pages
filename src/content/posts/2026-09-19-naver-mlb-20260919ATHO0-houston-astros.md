@@ -1,0 +1,37 @@
+---
+title: "휴스턴 애스트로스 vs 애틀랜타 브레이브스 야구분석·승부예측 (9월 19일) - 픽천국"
+date: 2026-09-19T00:10:00.000Z
+description: "휴스턴 애스트로스 vs 애틀랜타 브레이브스 야구분석: 양 팀의 시즌 전력 차이는 리그순위에서 드러나듯 애틀랜타 브레이브스가 확연히 앞서 있습니다. 휴스턴 애스트로스는 5할 승률에 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260919ATHO0-2026-09-19-houston-astros"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "휴스턴 애스트로스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "휴스턴 애스트로스는 2026시즌 76승 76패, 승률 .500을 기록하며 리그순위 6위에 머물러 있습니다. 최근 경기력을 살펴보면 10경기에서 3승 7패로 다소 부진한 흐름을 보이며 고전하고 있습니다. 특히 최근 5경기 중 4패를 기록하는 등 투타 밸런스가 무너진 모습이 역력합니다. 시즌 전체 득실 차이가 -54.0에 달할 정도로 수비와 마무리 과정에서 불안함을 노출하고 있습니다. 홈에서의 안정적인 운영이 절실한 시점이나, 주축 선수들의 부상 이탈로 인해 전체적인 전력 구성에 어려움을 겪고 있습니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 89승 64패, 승률 .582를 유지하며 리그순위 3위의 견고한 위치를 지키고 있습니다. 최근 10경기에서는 4승 6패로 다소 주춤한 흐름이지만, 시즌 전체 득실 마진이 +111.0으로 리그 정상급의 공수 균형을 갖추고 있습니다. 공격력 면에서는 기복을 보이고 있으나, 상위권 순위에 걸맞은 경기 운영 능력이 돋보이는 팀입니다. 원정 경기에서도 특유의 집중력을 발휘하며 승점을 차곡차곡 쌓아 올리고 있습니다. 안정적인 마운드를 바탕으로 상대의 허점을 공략하는 방식이 이번 경기에서도 핵심이 될 전망입니다."
+homePower: "홈팀 휴스턴 애스트로스 마운드 불안으로 인한 잦은 실점 누적|득실 마진 -54.0이 증명하는 경기 후반부 집중력 저하|주요 부상자 이탈로 인한 경기 운영의 유연성 부족|최근 10경기 3승에 그친 흐름으로 인한 승리 동력 저하|득점 기복 심화로 인한 공격 효율성 및 득점 지원 부족"
+awayPower: "원정팀 애틀랜타 브레이브스 +111.0의 득실 마진으로 증명된 높은 공수 균형|리그순위 3위의 안정적인 승리 관리 능력 보유|경기 흐름을 주도하는 투수진의 방어력과 신뢰도|최근 흐름 주춤하나 상위권 순위 유지하는 저력|상대 수비 균열을 공략하는 타선의 집중력 강화 필요"
+h2h: '[]'
+summary: "양 팀의 시즌 전력 차이는 리그순위에서 드러나듯 애틀랜타 브레이브스가 확연히 앞서 있습니다. 휴스턴 애스트로스는 5할 승률에 머물며 최근 10경기 3승 7패라는 저조한 흐름을 벗어나지 못하고 있으나, 애틀랜타 브레이브스는 리그순위 3위라는 안정적인 성적을 바탕으로 견고한 전력을 과시하고 있습니다. 특히 득실 마진에서 큰 격차를 보이는 양 팀의 상황을 고려할 때, 원정팀인 애틀랜타 브레이브스가 투타 전반에서 우위를 점하며 경기를 주도할 가능성이 높습니다. 홈팀이 부상 악재를 극복하지 못하고 수비 불안을 노출할 경우, 애틀랜타 브레이브스가 리드를 끝까지 지켜내며 승리를 가져갈 것으로 보입니다."
+homeRecent: '[{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"},{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros/"},{"date":"26.09.14","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"14-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914HOTB0-2026-09-14-tampa-bay-rays/"},{"date":"26.09.13","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913HOTB0-2026-09-13-tampa-bay-rays/"},{"date":"26.09.12","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912HOTB0-2026-09-12-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"},{"date":"26.09.16","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916ATCC0-2026-09-16-chicago-cubs/"},{"date":"26.09.15","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs/"},{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"}]'
+injuryHome: "Steven Okert (근육 염좌)|Brice Matthews (염좌)|Mike Burrows (염증)|Carlos Correa (수술)|Brandon Walter (수술)"
+injuryAway: "Robert Suarez (통증)|Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 브레이브스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 브레이브스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---
