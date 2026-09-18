@@ -65,7 +65,8 @@ const PLAYER_NAME_MAP = {
   "Jee-Won Kim": "김지원",
   "Do-Yun Hwang": "황도윤",
   "Jeong-Beom Son": "손정범",
-  "Jang Han-Gyeol Park": "박장한결", // 확인 필요 - fotmob 표기 순서 특이
+  "Jang Han-Gyeol Park": "박장한결",
+  "Park Jang Han-Gyeol": "박장한결",
   "Seung-Won Jeong": "정승원",
   "Seung-Won Jung": "정승원", // 실제 라인업 데이터에서는 "Jeong" 대신 "Jung"으로 나옴(2026-08 확인) — endpoint별 표기차
   "Seon-Min Moon": "문선민",
@@ -73,6 +74,7 @@ const PLAYER_NAME_MAP = {
   "Hyeon-Woo Jeong": "정현우",
   "Young-Wook Cho": "조영욱",
   "Seong-Hoon Cheon": "천성훈",
+  "Shin Ji-Seop": "신지섭",
 
   // --- Ulsan HD FC (울산 HD) ---
   "Byeong-Geun Hwang": "황병근",
@@ -203,6 +205,7 @@ const PLAYER_NAME_MAP = {
 
   // --- Pohang Steelers (포항 스틸러스) ---
   "Pyung-Guk Yoon": "윤평국",
+  "Pyung-Gook Yoon": "윤평국",
   "In-Jae Hwang": "황인재",
   "Seong-Min Hong": "홍성민",
   "Sung-Min Hong": "홍성민",
@@ -434,6 +437,7 @@ const PLAYER_NAME_MAP = {
   "Yong-Hyuk Kim": "김용혁",
   "Bae-Hyeon Gong": "공배현", // 확인 필요
   "Sang-Gi Min": "민상기",
+  "Sang-Ki Min": "민상기",
   "Min-Ki Lee": "이민기", // 광주 소속 (파주 소속 동명이인과 별개)
   "Won-Jae Park": "박원재",
   "Se-Jong Ju": "주세종",
