@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬�
 injuryHome: "Angel Martinez (가벼운 염증)|Chase DeLauter (가벼운 염좌)|Colin Holderman (15일 자 부상자 명단 - 염증)|Rhys Hoskins (10일 자 부상자 명단 - 염증)|Shawn Armstrong (60일 자 부상자 명단 - 근육 경련)"
 injuryAway: "Joshua Kuroda-Grauer (60일 자 부상자 명단 - 수술)|J.T. Ginn (15일 자 부상자 명단 - 통증)|Brent Rooker (60일 자 부상자 명단 - 수술)|Nick Kurtz (60일 자 부상자 명단 - 근육 경련)|Gage Jump (15일 자 부상자 명단 - 신경 압박)"
 homeLineup: "[\"선발투수 D. Espino (0-0, 2.92) ERA 2.92|https://a.espncdn.com/i/headshots/mlb/players/full/42438.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 M. Barnett (1-4, 7.08) ERA 7.08|https://a.espncdn.com/i/headshots/mlb/players/full/4620704.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
