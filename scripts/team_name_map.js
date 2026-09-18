@@ -787,6 +787,8 @@ const TEAM_NAME_MAP = {
   "Tampa Bay Lightning": "탬파베이 라이트닝",
   "Utah Mammoth": "유타 매머스",
   "Vegas Golden Knights": "베가스 골든나이츠",
+  "Toronto Maple Leafs": "토론토 메이플 리프스",
+  "St. Louis Blues": "세인트루이스 블루스",
 
   // ===== 🎮 LOL (LCK) =====
   "BNK FEARX": "BNK 피어엑스",
