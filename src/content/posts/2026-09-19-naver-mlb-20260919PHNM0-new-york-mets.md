@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라�
 injuryHome: "Cionel Perez (15일 부상자 명단 - 염좌)|Devin Williams (15일 부상자 명단 - 염좌)|Jared Young (일일 부상자 명단)|Daniel Duarte (15일 부상자 명단 - 염좌)|Robert Stock (15일 부상자 명단)"
 injuryAway: "Jesus Luzardo (15일 부상자 명단 - 염증)|Caleb Kilian (60일 부상자 명단 - 염좌)|Felix Reyes (60일 부상자 명단 - 골절)|Johan Rojas (60일 부상자 명단 - 수술)|Adolis Garcia (60일 부상자 명단 - 수술)"
 homeLineup: "[\"선발투수 Z. Thornton (4-5, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/5129576.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 A. Painter (3-9, 5.54) ERA 5.54|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
