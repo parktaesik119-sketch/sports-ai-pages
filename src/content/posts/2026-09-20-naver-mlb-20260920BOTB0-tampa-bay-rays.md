@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.18","home":"텍사스 레인저스","away":"보스�
 injuryHome: "Ben Williamson (인대 염좌)|Manuel Rodriguez (인대 염좌)|Edwin Uceta (인대 염좌)|Jonathan Heasley (골절)|Garrett Cleavinger (통증)"
 injuryAway: "Tyron Guerrero (염증)|Willson Contreras (타박상)|Tanner Houck (수술)|Aroldis Chapman (통증)|Johan Oviedo (인대 염좌)"
 homeLineup: "[\"선발투수 F. Peralta (9-11, 4.67) ERA 4.67|https://a.espncdn.com/i/headshots/mlb/players/full/39825.png\"]"
-awayLineup: "[\"선발투수 P. Tolle (9-6, 3.02) ERA 3.02|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
+awayLineup: "[\"선발투수 P. Tolle (9-6, 3.02) ERA 3.02|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\",\"1번 R. Anthony (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080767.png\",\"2번 M. Gasper (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5132012.png\",\"3번 A. Rutschman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42178.png\",\"4번 W. Abreu (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4990055.png\",\"5번 N. Sogard (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42979.png\",\"6번 T. Story (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/32150.png\",\"7번 C. Durbin (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007615.png\",\"8번 J. Duran (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41610.png\",\"9번 I. Kiner-Falefa (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33572.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
