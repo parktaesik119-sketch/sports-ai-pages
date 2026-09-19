@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"한신 타이거스","away":"히로시�
 awayRecent: '[{"date":"26.09.18","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260918YAYK0-2026-09-18-yokohama-baystars/"},{"date":"26.09.17","home":"야쿠르트 스왈로우스","away":"요코하마 DeNA 베이스타스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260917YKYA0-2026-09-17-yakult-swallows/"},{"date":"26.09.15","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"13-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915YOYK0-2026-09-15-yokohama-baystars/"},{"date":"26.09.14","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914YOYK0-2026-09-14-yokohama-baystars/"},{"date":"26.09.13","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913YOYK0-2026-09-13-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Hiroto Saiki (8-5, 2.46)|https://p.npb.jp/players_photo/2026/180/t/035_41745134.jpg\"]"
+awayLineup: "[\"선발투수 Yu Takeda (3-3, 4.19)|https://p.npb.jp/players_photo/2026/180/db/012_11415150.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
