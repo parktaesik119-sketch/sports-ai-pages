@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"뉴욕 메츠","away":"필라델피아 
 awayRecent: '[{"date":"26.09.18","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918PHNM0-2026-09-18-new-york-mets/"},{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"},{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"},{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"},{"date":"26.09.13","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"12-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913PHAT0-2026-09-13-atlanta-braves/"}]'
 injuryHome: "Cionel Perez (근육 긴장)|Devin Williams (근육 긴장)|Jared Young (뇌진탕)|Daniel Duarte (근육 긴장)|Robert Stock (정보 없음)"
 injuryAway: "Jonathan Bowlan (근육 긴장)|Jesus Luzardo (염증)|Caleb Kilian (근육 긴장)|Felix Reyes (골절)|Johan Rojas (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Scott (4-5, 3.76) ERA 3.76|https://a.espncdn.com/i/headshots/mlb/players/full/4414215.png\"]"
+awayLineup: "[\"선발투수 A. Painter (3-9, 5.54) ERA 5.54|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

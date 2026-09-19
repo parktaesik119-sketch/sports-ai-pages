@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.17","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"},{"date":"26.09.16","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins/"},{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"},{"date":"26.09.14","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914NMNY0-2026-09-14-new-york-yankees/"},{"date":"26.09.13","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913NMNY0-2026-09-13-new-york-yankees/"}]'
 injuryHome: "Tyler Locklear (골절)|Ryan Thompson (근육 염좌)|A.J. Puk (염좌)|Andrew Saalfrank (수술)|Cristian Mena (수술)"
 injuryAway: "Jazz Chisholm Jr. (염좌)|Trent Grisham (근육 염좌)|Fernando Cruz (통증)|Giancarlo Stanton (근육 염좌)|Aaron Judge (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Burnes (0-0, 5.87) ERA 5.87|https://a.espncdn.com/i/headshots/mlb/players/full/39878.png\"]"
+awayLineup: "[\"선발투수 W. Warren (10-6, 3.89) ERA 3.89|https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

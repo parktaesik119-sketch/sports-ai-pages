@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.19","home":"피츠버그 파이러츠","away":"캔�
 awayRecent: '[{"date":"26.09.19","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919KCPI0-2026-09-19-pittsburgh-pirates/"},{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"},{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros/"},{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"}]'
 injuryHome: "Kirby Yates (신경 통증)|Isaac Mattson (염증)|Esmerlyn Valdez (근육 긴장)|Braxton Ashcraft (통증)|Mitch Keller (사유 미상)"
 injuryAway: "Connor Seabold (긴장)|Tony Gonsolin (수술)|James McArthur (수술)|Beck Way (사유 미상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Chandler (8-9, 4.28) ERA 4.28|https://a.espncdn.com/i/headshots/mlb/players/full/4683325.png\"]"
+awayLineup: "[\"선발투수 N. Cameron (9-8, 3.84) ERA 3.84|https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

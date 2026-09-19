@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"신시내티 레즈","away":"LA 다저�
 awayRecent: '[{"date":"26.09.17","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals/"},{"date":"26.09.16","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"3-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SFSL0-2026-09-16-st-louis-cardinals/"},{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"},{"date":"26.09.14","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SDSF0-2026-09-14-san-francisco-giants/"},{"date":"26.09.13","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913SDSF0-2026-09-13-san-francisco-giants/"}]'
 injuryHome: "Gavin Stone (염증)|Jake Cousins (수술)|Dalton Rushing (통증)|Andy Pages (골절)|Ben Casparius (염증)"
 injuryAway: "JT Brubaker (타박상)|Matt Gage (염좌)|Marcelo Mayer (골절)|Sam Hentges (염좌)|Willy Adames (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Skubal (10-7, 2.70) ERA 2.70|https://a.espncdn.com/i/headshots/mlb/players/full/42409.png\"]"
+awayLineup: "[\"선발투수 L. Roupp (9-14, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.17","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"},{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬레틱스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays/"},{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"}]'
 injuryHome: "Angel Martinez (경미)|Colin Holderman (주요)|Rhys Hoskins (주요)|Shawn Armstrong (주요)"
 injuryAway: "Joshua Kuroda-Grauer (주요)|J.T. Ginn (주요)|Brent Rooker (주요)|Nick Kurtz (주요)|Gage Jump (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Bibee (6-15, 4.16) ERA 4.16|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
+awayLineup: "[\"선발투수 J. Lopez (6-4, 5.02) ERA 5.02|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.19","home":"신시내티 레즈","away":"시카고 
 awayRecent: '[{"date":"26.09.19","home":"신시내티 레즈","away":"시카고 컵스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919CCCI0-2026-09-19-cincinnati-reds/"},{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"},{"date":"26.09.16","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916ATCC0-2026-09-16-chicago-cubs/"},{"date":"26.09.15","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs/"},{"date":"26.09.14","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PICC0-2026-09-14-chicago-cubs/"}]'
 injuryHome: "Spencer Steer (염좌)|Julian Garcia (수술)|Michael Toglia (수술)|Blake Dunn (수술)|Hunter Greene (수술)"
 injuryAway: "Gavin Hollowell (염증)|Justin Steele (수술)|Phil Maton (염좌)|Hunter Harvey (골절)|Tyler Austin (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 N. Lodolo (3-5, 5.12) ERA 5.12|https://a.espncdn.com/i/headshots/mlb/players/full/42433.png\"]"
+awayLineup: "[\"선발투수 M. Boyd (8-5, 4.16) ERA 4.16|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 �
 awayRecent: '[{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"},{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"},{"date":"26.09.16","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins/"},{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"},{"date":"26.09.14","home":"미네소타 트윈스","away":"클리블랜드 가디언스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CLMN0-2026-09-14-minnesota-twins/"}]'
 injuryHome: "George Klassen (염증)|Nolan Schanuel (염좌)|Kyren Paris (골절)|Samy Natera Jr. (염증)|Yoan Moncada (수술)"
 injuryAway: "Mike Paredes (염좌)|Mick Abel (수술)|Kaelen Culpepper (염좌)|Trevor Larnach (통증)|Byron Buxton (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Johnson (5-8, 4.88) ERA 4.88|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
+awayLineup: "[\"선발투수 D. Kremer (3-5, 5.35) ERA 5.35|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

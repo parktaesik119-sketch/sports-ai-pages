@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.17","home":"뉴욕 메츠","away":"볼티모어 오
 awayRecent: '[{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MIPI0-2026-09-18-pittsburgh-pirates/"},{"date":"26.09.17","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917MIPI0-2026-09-17-pittsburgh-pirates/"},{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates/"},{"date":"26.09.14","home":"밀워키 브루어스","away":"신시내티 레즈","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CIMI0-2026-09-14-milwaukee-brewers/"},{"date":"26.09.13","home":"밀워키 브루어스","away":"신시내티 레즈","score":"13-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CIMI0-2026-09-13-milwaukee-brewers/"}]'
 injuryHome: "Luis Robert Jr. (염증)|Blaze Alexander (염증)|Shane Baz (경미한 통증)|Christian Franklin (염증)|Ryan Helsley (염증)"
 injuryAway: "Bryse Wilson (근육 긴장)|Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Rogers (10-10, 4.22) ERA 4.22|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
+awayLineup: "[\"선발투수 R. Gasser (4-5, 4.30) ERA 4.30|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
