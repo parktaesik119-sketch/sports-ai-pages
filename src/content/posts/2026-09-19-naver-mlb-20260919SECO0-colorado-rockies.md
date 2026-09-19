@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매�
 injuryHome: "Hunter Goodman (일별 상태 - 통증)|Kris Bryant (60일 부상자 명단 - 수술)|Jose Quintana (60일 부상자 명단 - 염좌)|Willi Castro (10일 부상자 명단 - 족저근막염)|McCade Brown (60일 부상자 명단 - 염증)"
 injuryAway: "Brendan Donovan (7일 부상자 명단 - 뇌진탕)|Brennen Davis (60일 부상자 명단 - 염좌)|Cole Wilcox (15일 부상자 명단 - 염좌)|Will Wilson (60일 부상자 명단 - 골절)|Emerson Hancock (15일 부상자 명단 - 염좌)"
 homeLineup: "[\"선발투수 J. Quintana (2-3, 5.27) ERA 5.27|https://a.espncdn.com/i/headshots/mlb/players/full/32106.png\"]"
-awayLineup: "[\"선발투수 B. Miller (4-9, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\"]"
+awayLineup: "[\"선발투수 B. Miller (4-9, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\",\"1번 J.P. Crawford (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33210.png\",\"2번 R. Arozarena (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36488.png\",\"3번 D. Canzone (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4345621.png\",\"4번 C. Raleigh (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41292.png\",\"5번 J. Rodriguez (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41044.png\",\"6번 J. Naylor (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35066.png\",\"7번 M. Arroyo (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5124097.png\",\"8번 L. Montes (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5124103.png\",\"9번 W. Wilson (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/38682.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
