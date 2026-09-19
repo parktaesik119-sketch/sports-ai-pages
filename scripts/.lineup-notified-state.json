@@ -11,9 +11,6 @@
   "analyze-naver-kbo-20260919SSLT02026-2026-09-19-lotte-giants": {
     "kickoff": "2026-09-19T08:00:00.000Z"
   },
-  "analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers": {
-    "kickoff": "2026-09-19T02:15:00.000Z"
-  },
   "analyze-naver-npb-20260919OXNH0-2026-09-19-nippon-ham-fighters": {
     "kickoff": "2026-09-19T05:00:00.000Z"
   },
@@ -91,5 +88,11 @@
   },
   "analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers": {
     "kickoff": "2026-09-19T23:05:00.000Z"
+  },
+  "analyze-naver-npb-20260920OXNH0-2026-09-20-nippon-ham-fighters": {
+    "kickoff": "2026-09-20T05:00:00.000Z"
+  },
+  "analyze-naver-npb-20260920SFRT0-2026-09-20-rakuten-gold-eagles": {
+    "kickoff": "2026-09-20T05:00:00.000Z"
   }
 }
