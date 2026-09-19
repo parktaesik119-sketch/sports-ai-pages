@@ -1,0 +1,37 @@
+---
+title: "애리조나 다이아몬드백스 vs 뉴욕 양키즈 야구분석·승부예측 (9월 20일) - 픽천국"
+date: 2026-09-20T00:10:00.000Z
+description: "애리조나 다이아몬드백스 vs 뉴욕 양키즈 야구분석: 2026시즌 전체적인 전력과 현재 리그순위를 비교해 보면 뉴욕 양키즈가 애리조나 다이아몬드백스보다 한 수 위의 경기력을 보유하… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260920NYAZ0-2026-09-20-arizona-diamondbacks"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애리조나 다이아몬드백스"
+awayTeam: "뉴욕 양키즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+homeAnalysis: "애리조나 다이아몬드백스는 2026시즌 80승 73패를 기록하며 현재 리그순위 7위에 올라있습니다. 시즌 전체 득실점은 678점으로 공수 균형을 갖추었으나, 최근 3경기에서 1승 2패로 다소 주춤한 흐름을 보이고 있습니다. 홈에서는 안정적인 투타 조화를 바탕으로 경기를 운영하고 있으나, 최근 타선의 집중력이 흔들리며 다득점 지원에 어려움을 겪는 상황입니다. 시즌 중반부터 이어진 상승세가 후반부에 접어들어 다소 정체된 모습이며, 이번 경기에서는 반등을 위한 집중력이 절실합니다. 핵심 투수진의 부상 이탈로 인해 경기 막판 뒷심이 다소 불안해질 수 있다는 점이 주의 깊게 살펴볼 대목입니다."
+awayAnalysis: "뉴욕 양키즈는 2026시즌 88승 64패의 성적을 바탕으로 현재 리그순위 2위를 유지하며 상위권 전력을 입증하고 있습니다. 최근 10경기에서 7승 3패의 높은 승률을 기록하며 리그 최정상급의 상승세를 보여주고 있으며, 득실차 또한 +136으로 압도적인 공수 지표를 자랑합니다. 탄탄한 마운드를 기반으로 원정에서도 기복 없는 경기력을 발휘하는 점이 가장 큰 강점입니다. 타선 또한 꾸준한 득점 생산 능력을 바탕으로 상대 투수진을 압박하며 경기를 주도하는 패턴이 정착되었습니다. 시즌 막판까지 상위권 순위 싸움을 이어가며 큰 경기 경험과 운영 능력이 충분히 검증되었다고 평가할 수 있습니다."
+homePower: "홈에서 안정적인 투수진 운용과 조화로운 득점 지원|최근 경기 타선 기복 심화로 인한 집중력 보완 필요|시즌 막판 투수진 이탈로 인한 후반부 실점 관리 중요|리그순위 7위로 경쟁팀 대비 승리 사수 의지 높음|투타 균형 회복 시 언제든 상위권 위협 가능한 전력"
+awayPower: "리그순위 2위다운 압도적인 득실 마진과 높은 공수 효율|최근 10경기 7승으로 확인된 최고 수준의 상승세|주축 타자 부상 공백에도 두터운 선수층으로 극복함|원정 경기에서도 상대 팀보다 앞서는 집중력과 운영|압도적인 시즌 승률로 증명된 강력한 우승 후보 전력"
+h2h: '[]'
+summary: "2026시즌 전체적인 전력과 현재 리그순위를 비교해 보면 뉴욕 양키즈가 애리조나 다이아몬드백스보다 한 수 위의 경기력을 보유하고 있습니다. 뉴욕 양키즈는 최근 10경기에서 7승을 거두는 등 압도적인 흐름을 유지하고 있으며, 시즌 내내 +136의 득실차를 기록할 만큼 공수 양면에서 안정감이 돋보입니다. 반면 애리조나 다이아몬드백스는 투수진의 부상 여파와 최근 타선의 기복으로 인해 전력의 불확실성이 존재합니다. 뉴욕 양키즈는 주축 선수들의 결장에도 불구하고 두터운 뎁스를 바탕으로 꾸준한 승리를 따내고 있어, 이번 맞대결에서도 전력의 우위를 앞세워 경기를 주도할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"},{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"},{"date":"26.09.14","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914TEAZ0-2026-09-14-arizona-diamondbacks/"},{"date":"26.09.12","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"9-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912TEAZ0-2026-09-12-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"},{"date":"26.09.16","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins/"},{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"},{"date":"26.09.14","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914NMNY0-2026-09-14-new-york-yankees/"},{"date":"26.09.13","home":"뉴욕 양키즈","away":"뉴욕 메츠","score":"2-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913NMNY0-2026-09-13-new-york-yankees/"}]'
+injuryHome: "Tyler Locklear (골절)|Ryan Thompson (근육 염좌)|A.J. Puk (염좌)|Andrew Saalfrank (수술)|Cristian Mena (수술)"
+injuryAway: "Jazz Chisholm Jr. (염좌)|Trent Grisham (근육 염좌)|Fernando Cruz (통증)|Giancarlo Stanton (근육 염좌)|Aaron Judge (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

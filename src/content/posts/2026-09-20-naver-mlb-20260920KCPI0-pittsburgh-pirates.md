@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 캔자스시티 로열스 야구분석·승부예측 (9월 20일) - 픽천국"
+date: 2026-09-19T22:40:00.000Z
+description: "피츠버그 파이러츠 vs 캔자스시티 로열스 야구분석: 피츠버그 파이러츠는 시즌 내내 유지해 온 안정적인 투타 밸런스를 바탕으로 최근 상승세를 이어가고 있는 반면, 캔자스시티 로열스… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260920KCPI0-2026-09-20-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 154경기를 치르며 77승 77패, 승률 .500을 기록하고 있으며 현재 리그순위 8위에 위치해 있습니다. 최근 경기력을 살펴보면 직전 캔자스시티 로열스전 승리를 포함해 10경기에서 6승 4패의 좋은 흐름을 이어가고 있습니다. 득실 마진 +27.0의 안정적인 전력을 바탕으로 홈에서의 경기 운영 능력이 돋보이는 모습입니다. 특히 타선이 집중력을 발휘하며 최근 득점 생산력에서 꾸준함을 유지하고 있어 투타 조화가 잘 이루어지고 있습니다. 장기 결장자들의 공백에도 불구하고 팀 전체가 탄탄한 조직력을 보이며 시즌 막판 순위 방어에 힘쓰고 있습니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 154경기를 소화하며 67승 87패, 승률 .435를 기록 중이며 현재 리그순위 13위에 머물러 있습니다. 최근 10경기에서 3승 7패로 다소 부진한 흐름을 보이고 있으며, 특히 원정길에서 득점력 빈곤이 눈에 띄게 나타나고 있습니다. 시즌 전체 득실 -100.0으로 수비 지표가 상대적으로 불안한 가운데, 최근 맞대결 패배 이후 분위기 전환이 절실한 상황입니다. 주전급 선수들의 부상 이탈 여파가 팀 전반의 응집력을 약화시키고 있어 반등을 위한 확실한 카드가 필요한 시점입니다. 투수진이 안정감을 찾는 것이 무엇보다 중요하며 수비 집중력 회복이 승패를 결정지을 것으로 보입니다."
+homePower: "홈에서 승률 .500의 균형 잡힌 전력 유지 중|최근 10경기 6승으로 후반기 상승세 뚜렷함|투타 조화가 안정적이며 득실 마진으로 증명됨|직전 맞대결 승리로 상대 상성 우위 확보함|리그순위 8위로 포스트시즌 경쟁력 갖춤"
+awayPower: "최근 10경기 3승으로 하락세가 깊어짐|득실 -100.0으로 수비 안정감 결여됨|주전 선수 부상 이탈로 인한 전력 누수 심화|원정 경기당 평균 득점력 저하로 고전 중|리그순위 13위로 투타 밸런스 조정 시급함"
+h2h: '[{"date":"26.09.19","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"8-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919KCPI0-2026-09-19-pittsburgh-pirates/"}]'
+summary: "피츠버그 파이러츠는 시즌 내내 유지해 온 안정적인 투타 밸런스를 바탕으로 최근 상승세를 이어가고 있는 반면, 캔자스시티 로열스는 원정에서의 부진과 수비력 불안으로 고전하고 있습니다. 양 팀의 리그순위 차이와 최근 10경기 성적을 고려하면 홈팀인 피츠버그 파이러츠가 이번 경기에서도 주도권을 잡을 가능성이 상당히 높습니다. 직전 맞대결에서의 승리로 자신감을 얻은 피츠버그 파이러츠는 강점인 집중력을 앞세워 우위를 점할 것으로 보이며, 캔자스시티 로열스는 결장자 공백을 메우지 못한 채 어려운 경기를 치를 전망입니다. 전력의 안정감과 최근 흐름을 종합했을 때 피츠버그 파이러츠가 우위를 점하며 경기를 리드할 것으로 분석됩니다."
+homeRecent: '[{"date":"26.09.19","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919KCPI0-2026-09-19-pittsburgh-pirates/"},{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MIPI0-2026-09-18-pittsburgh-pirates/"},{"date":"26.09.17","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917MIPI0-2026-09-17-pittsburgh-pirates/"},{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates/"},{"date":"26.09.14","home":"시카고 컵스","away":"피츠버그 파이러츠","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PICC0-2026-09-14-chicago-cubs/"}]'
+awayRecent: '[{"date":"26.09.19","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919KCPI0-2026-09-19-pittsburgh-pirates/"},{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"},{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros/"},{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"},{"date":"26.09.13","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913KCBO0-2026-09-13-boston-red-sox/"}]'
+injuryHome: "Kirby Yates (신경 통증)|Isaac Mattson (염증)|Esmerlyn Valdez (근육 긴장)|Braxton Ashcraft (통증)|Mitch Keller (사유 미상)"
+injuryAway: "Connor Seabold (긴장)|Tony Gonsolin (수술)|James McArthur (수술)|Beck Way (사유 미상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

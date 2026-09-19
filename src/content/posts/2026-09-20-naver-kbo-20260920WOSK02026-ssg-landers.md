@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs 키움 히어로즈 야구분석·승부예측 (9월 20일) - 픽천국"
+date: 2026-09-20T05:00:00.000Z
+description: "SSG 랜더스 vs 키움 히어로즈 야구분석: SSG 랜더스는 최근 10경기에서 7승을 거두는 등 가파른 상승세를 타고 있어 전력 면에서 확연한 우위에 있습니다. 반면 키움… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260920WOSK02026-2026-09-20-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "키움 히어로즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 106경기에서 42승 5무 59패의 성적을 기록하며 리그 7위에 위치하고 있습니다. 최근 10경기에서 7승 3패를 거두며 매우 견고한 전력을 보여주고 있으며, 특히 투타의 균형이 안정적으로 자리 잡은 모습입니다. 평균 4.7득점을 기록 중인 타선은 최근 경기에서도 집중력 있는 타격으로 승리를 견인하고 있습니다. 홈에서의 운영 능력이 시즌 중반 이후 눈에 띄게 개선되어 상위권 팀들과의 대결에서도 밀리지 않는 자신감을 보입니다. 박성한과 에레디아를 중심으로 한 공격진이 경기를 주도하는 흐름이 뚜렷하며, 이는 승리 확률을 높이는 주요 요인으로 평가됩니다."
+awayAnalysis: "키움 히어로즈는 2026시즌 108경기에서 37승 3무 68패를 기록하며 리그 10위로 다소 어려운 시즌을 보내고 있습니다. 최근 10경기에서도 3승 1무 6패로 부진한 흐름을 벗어나지 못하며 득점력 빈곤이 이어지고 있습니다. 경기당 평균 3.8득점에 그치는 빈약한 타선은 마운드의 부담을 가중시키며 승점 확보에 어려움을 겪는 주된 원인이 됩니다. 원정 경기에서의 전력 약세가 뚜렷하며 투수진의 실점 억제력 또한 시즌 전체적으로 불안정한 상태입니다. 데이비슨과 서건창이 고군분투하고 있으나 전반적인 팀 전력의 응집력 부족이 아쉬운 대목으로 남습니다."
+homePower: "안정적 마운드 운용으로 실점 최소화 성공|박성한 중심 상위 타선 득점 생산력 우수|시즌 후반부 홈 경기 집중력 비약적 상승|상위권 팀 상대로도 밀리지 않는 수비력|투수진의 이닝 소화 능력 향상으로 불펜 부담 완화"
+awayPower: "주전 타선 의존도 높으나 득점 기회 창출 저조|원정 경기 시 초반 실점 허용 빈도 높음|마운드 붕괴 시 경기 후반 역전 힘겨움|득점권 타격 효율 저하로 인한 승리 동력 부족|전반적인 선수단 WAR 수치 개선 필요성 대두"
+h2h: '[{"date":"26.09.03","home":"키움 히어로즈","away":"SSG 랜더스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260903SKWO02026-2026-09-03-kiwoom-heroes/"},{"date":"26.09.02","home":"키움 히어로즈","away":"SSG 랜더스","score":"6-9","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260902SKWO02026-2026-09-02-kiwoom-heroes/"},{"date":"26.09.01","home":"키움 히어로즈","away":"SSG 랜더스","score":"0-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260901SKWO02026-2026-09-01-kiwoom-heroes/"},{"date":"26.08.02","home":"키움 히어로즈","away":"SSG 랜더스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-181927-2026-08-02-kiwoom-heroes/"},{"date":"26.08.01","home":"키움 히어로즈","away":"SSG 랜더스","score":"2-10","link":"https://pick79.com/posts/detail/analyze-181923-2026-08-01-kiwoom-heroes/"}]'
+summary: "SSG 랜더스는 최근 10경기에서 7승을 거두는 등 가파른 상승세를 타고 있어 전력 면에서 확연한 우위에 있습니다. 반면 키움 히어로즈는 최근 10경기에서 3승에 머무는 등 투타 양면에서 정체된 모습을 보이며 원정 경기 운영에 상당한 어려움을 겪고 있습니다. 상대전적에서도 최근 흐름과 전반적인 시즌 페이스를 고려할 때 홈팀이 우위를 점할 가능성이 매우 높게 평가됩니다. SSG 랜더스의 안정된 투타 밸런스가 키움 히어로즈의 불안정한 전력을 압도하며 경기를 주도할 것으로 전망됩니다."
+homeRecent: '[{"date":"26.09.17","home":"NC 다이노스","away":"SSG 랜더스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917SKNC02026-2026-09-17-nc-dinos/"},{"date":"26.09.16","home":"롯데 자이언츠","away":"SSG 랜더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SKLT02026-2026-09-16-lotte-giants/"},{"date":"26.09.15","home":"SSG 랜더스","away":"KIA 타이거즈","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915HTSK02026-2026-09-15-ssg-landers/"},{"date":"26.09.11","home":"KIA 타이거즈","away":"SSG 랜더스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911SKHT02026-2026-09-11-kia-tigers/"},{"date":"26.09.10","home":"SSG 랜더스","away":"한화 이글스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910HHSK02026-2026-09-10-ssg-landers/"}]'
+awayRecent: '[{"date":"26.09.18","home":"두산 베어스","away":"키움 히어로즈","score":"6-6","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918WOOB02026-2026-09-18-doosan-bears/"},{"date":"26.09.17","home":"KIA 타이거즈","away":"키움 히어로즈","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917WOHT02026-2026-09-17-kia-tigers/"},{"date":"26.09.12","home":"키움 히어로즈","away":"롯데 자이언츠","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912LTWO02026-2026-09-12-kiwoom-heroes/"},{"date":"26.09.11","home":"삼성 라이온스","away":"키움 히어로즈","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260911WOSS02026-2026-09-11-samsung-lions/"},{"date":"26.09.10","home":"두산 베어스","away":"키움 히어로즈","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910WOOB02026-2026-09-10-doosan-bears/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "SSG 랜더스"
+pickWinResult: "승"
+pickHandicapTeam: "SSG 랜더스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

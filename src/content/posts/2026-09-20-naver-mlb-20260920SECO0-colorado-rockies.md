@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 시애틀 매리너스 야구분석·승부예측 (9월 20일) - 픽천국"
+date: 2026-09-20T00:10:00.000Z
+description: "콜로라도 로키스 vs 시애틀 매리너스 야구분석: 콜로라도 로키스는 현재 리그순위 15위로 시즌 내내 고전하며 최근 10경기에서도 1승에 그치는 등 극심한 침체를 겪고 있습니다… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260920SECO0-2026-09-20-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 94경기에서 33승 61패를 기록하며 현재 리그순위 15위에 머물러 있습니다. 시즌 평균 득점은 4.9점으로 공격적인 지표는 나쁘지 않으나, 최근 10경기에서 1승 9패를 기록할 정도로 투타 밸런스가 크게 무너진 상태입니다. 특히 투수진의 실점 억제력이 떨어지며 대량 실점 경기가 잦아지고 있어 경기 후반까지 리드를 지키는 데 어려움을 겪고 있습니다. 홈 경기에서도 상대에게 주도권을 내주는 경우가 많아지며 전력의 재정비가 절실한 시점입니다. 최하위권의 성적을 극복하기 위해서는 실점 관리와 더불어 경기 초반 집중력을 높이는 것이 최우선 과제로 보입니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 98경기에서 45승 52패를 기록하며 현재 리그순위 11위에 위치하고 있습니다. 평균 득점은 3.9점으로 다소 정체된 모습이나, 최근 10경기에서 4승 6패를 거두며 리그 하위권 팀들보다는 안정적인 경기 운영을 보여주고 있습니다. 원정 경기에서도 기복 있는 전력을 보이고 있으나, 승부처에서 집중력을 발휘해 승리를 챙기는 끈끈함이 강점으로 평가됩니다. 리그순위가 11위인 만큼 콜로라도 로키스보다는 우위의 전력을 갖추고 있으며, 공수 효율을 점진적으로 개선해 나가고 있습니다. 향후 순위 도약을 위해서는 투수진의 안정감을 바탕으로 한 경기당 득점권 효율을 더욱 끌어올려야 합니다."
+homePower: "홈경기 투수진 방어율 불안으로 인한 잦은 대량 실점 허용|최근 10경기 승률 1할로 공수 밸런스 완전 붕괴|리그순위 최하위권으로 팀 사기 및 분위기 저하 심각|경기 후반 추격 의지에도 불구하고 수비 실책 반복됨|득점 평균은 준수하나 마무리 부재로 승리 놓침"
+awayPower: "리그순위 11위로 콜로라도 로키스 대비 상대적 우위|최근 10경기 4승으로 나름의 경쟁력 유지 및 방어|득실차 마이너스 56점으로 수비 안정화가 우선 과제|원정 경기 집중력을 통한 득점권 타격 효율 개선 중|중위권 진입을 위한 투수진의 경기당 실점 억제 능력"
+h2h: '[]'
+summary: "콜로라도 로키스는 현재 리그순위 15위로 시즌 내내 고전하며 최근 10경기에서도 1승에 그치는 등 극심한 침체를 겪고 있습니다. 반면 시애틀 매리너스는 리그순위 11위를 유지하며 상대적으로 투타 조화가 안정적이고, 최근 흐름 또한 상대보다 나은 전력을 보여줍니다. 콜로라도 로키스의 투수진이 대량 실점을 반복하는 약점이 뚜렷한 상황이라, 시애틀 매리너스가 이러한 틈을 타 경기 주도권을 잡을 가능성이 높습니다. 전반적인 시즌 데이터와 최근 흐름을 고려할 때, 원정팀인 시애틀 매리너스가 전력상 우위를 점하며 경기를 풀어나갈 것으로 예상됩니다."
+homeRecent: '[{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"},{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"},{"date":"26.09.14","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CODE0-2026-09-14-detroit-tigers/"},{"date":"26.09.13","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"11-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913CODE0-2026-09-13-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels/"},{"date":"26.09.16","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SEAN0-2026-09-16-los-angeles-angels/"},{"date":"26.09.15","home":"LA 에인절스","away":"시애틀 매리너스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"},{"date":"26.09.12","home":"애슬레틱스","away":"시애틀 매리너스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912SEOA0-2026-09-12-athletics/"}]'
+injuryHome: "Kris Bryant (수술)|Jose Quintana (염좌)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)"
+injuryAway: "Brendan Donovan (뇌진탕)|Brennen Davis (부상)|Cole Wilcox (부상)|Will Wilson (골절)|Emerson Hancock (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "콜로라도 로키스"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 로키스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
