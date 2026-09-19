@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀�
 injuryHome: "Luis Robert Jr. (염증)|Blaze Alexander (염증)|Shane Baz (경미한 통증)|Christian Franklin (염증)|Ryan Helsley (염증)"
 injuryAway: "Bryse Wilson (근육 긴장)|Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
 homeLineup: "[\"선발투수 T. Rogers (10-10, 4.22) ERA 4.22|https://a.espncdn.com/i/headshots/mlb/players/full/39640.png\"]"
-awayLineup: "[\"선발투수 R. Gasser (4-5, 4.30) ERA 4.30|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
+awayLineup: "[\"선발투수 R. Gasser (4-5, 4.30) ERA 4.30|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\",\"1번 J. Chourio (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917869.png\",\"2번 G. Mitchell (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4313442.png\",\"3번 W. Contreras (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/39895.png\",\"4번 A. Vaughn (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42394.png\",\"5번 J. Ortiz (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42958.png\",\"6번 G. Sanchez (C)|https://a.espncdn.com/i/headshots/mlb/players/full/31095.png\",\"7번 C. Pratt (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149101.png\",\"8번 L. Lara (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/5138536.png\",\"9번 D. Hamilton (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/42987.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
