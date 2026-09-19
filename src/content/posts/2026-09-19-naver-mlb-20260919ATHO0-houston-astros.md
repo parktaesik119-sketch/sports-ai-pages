@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 
 injuryHome: "Steven Okert (근육 염좌)|Brice Matthews (염좌)|Mike Burrows (염증)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Robert Suarez (통증)|Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (근육 염좌)"
 homeLineup: "[\"선발투수 H. Wesneski (5-2, 3.70) ERA 3.70|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
-awayLineup: "[\"선발투수 G. Holmes (9-5, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (9-5, 3.49) ERA 3.49|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\",\"1번 D. Baldwin (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"2번 R. Acuna Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/36185.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"5번 M. Dubon (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"6번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"7번 M. Yastrzemski (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"8번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"9번 S. Murphy (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33557.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
