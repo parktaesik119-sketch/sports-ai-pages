@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 디트로이트 타이거즈 야구분석·승부예측 (9월 21일) - 픽천국"
+date: 2026-09-20T18:10:00.000Z
+description: "시카고 화이트삭스 vs 디트로이트 타이거즈 야구분석: 양 팀의 최근 흐름을 비교해 볼 때 디트로이트 타이거즈의 상승세가 매우 인상적입니다. 시카고 화이트삭스는 시즌 전반적으로 안정… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260921DECW0-2026-09-21-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "디트로이트 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 79승 76패, 승률 .510을 기록하며 현재 리그순위 5위에 자리 잡고 있습니다. 최근 흐름을 살펴보면 9경기에서 3승 6패로 다소 부진한 양상을 보이며 고점 대비 주춤하는 모습입니다. 시즌 전체 득실점 차이는 +35.0점으로 안정적인 전력을 갖추었으나, 최근 경기들에서는 타선의 득점 지원과 마운드의 실점 억제력이 동시에 흔들리는 빈도가 잦아졌습니다. 특히 홈에서의 안정적인 운영 능력이 이전보다 하락세를 보이고 있어 반등을 위한 투타 밸런스 회복이 절실합니다. 주목할 점은 실점 위기 상황에서 마무리 투수들의 운영이 매끄럽지 못해 접전 상황을 승리로 연결하는 데 어려움을 겪고 있다는 사실입니다."
+awayAnalysis: "디트로이트 타이거즈는 2026시즌 73승 82패, 승률 .471로 현재 리그순위 10위를 기록하고 있습니다. 리그순위는 하위권에 머물러 있으나, 최근 9경기에서 7승 2패라는 놀라운 상승세를 보여주며 강력한 반등 조짐을 나타내고 있습니다. 득실점 차이가 +75.0점으로 시즌 전체적으로 실속 있는 경기를 치러왔으며, 최근에는 평균 득점이 6.8점까지 치솟는 등 화끈한 공격력을 과시 중입니다. 원정 경기에서도 타선의 집중력이 크게 살아나며 상승 곡선을 그리고 있어 현재 전력 흐름은 리그순위 이상의 퍼포먼스를 보여줍니다. 투수진 또한 타선의 지원에 힘입어 보다 여유로운 경기 운영이 가능해진 상황입니다."
+homePower: "홈 성적은 우수하나 최근 불펜진의 실점률 상승으로 리드 사수력 약화됨|평균 4득점 수준의 타선이 최근 기복을 보이며 다득점 생산에 어려움을 겪음|최근 9경기 승률 하락세로 투타 밸런스 붕괴가 수치로 확인됨|리그순위 5위에 걸맞은 경기 운영 능력을 회복하기 위한 타선 집중력 절실함|최근 맞대결 결과들을 통해 드러난 상대 투수진 공략의 어려움이 변수로 작용함"
+awayPower: "최근 9경기 7승의 가파른 상승세로 공수 밸런스 완벽히 검증됨|평균 득점 6.8점의 폭발적인 타격 흐름이 매 경기 꾸준히 이어짐|리그순위 10위의 기록을 무색하게 할 만큼 최근 원정 경기 화력 강력함|득실점 차이 +75.0이 시사하듯 실점 억제력과 득점 생산의 조화가 돋보임|상대전적 열세에도 불구하고 최근 폼을 고려하면 충분히 우위 점할 가능성 높음"
+h2h: '[{"date":"26.09.20","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920DECW0-2026-09-20-chicago-white-sox/"},{"date":"26.09.19","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-11","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919DECW0-2026-09-19-chicago-white-sox/"},{"date":"26.08.17","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817CWDE0-2026-08-17-detroit-tigers/"},{"date":"26.08.16","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816CWDE0-2026-08-16-detroit-tigers/"},{"date":"26.08.15","home":"디트로이트 타이거즈","away":"시카고 화이트삭스","score":"5-9","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260815CWDE0-2026-08-15-detroit-tigers/"}]'
+summary: "양 팀의 최근 흐름을 비교해 볼 때 디트로이트 타이거즈의 상승세가 매우 인상적입니다. 시카고 화이트삭스는 시즌 전반적으로 안정적인 리그순위를 유지해 왔으나 최근 투타의 동반 부진으로 인해 경기력 유지에 난항을 겪고 있습니다. 반면 디트로이트 타이거즈는 최근 9경기에서 보여준 압도적인 득점 생산력을 바탕으로 팀 분위기가 최고조에 달해 있습니다. 두 팀의 시즌 득실점 차이를 보더라도 디트로이트 타이거즈가 더 효율적인 경기력을 보여주고 있어, 현재의 상승 흐름과 공격적인 기세를 고려할 때 원정팀인 디트로이트 타이거즈가 승기를 잡을 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.20","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920DECW0-2026-09-20-chicago-white-sox/"},{"date":"26.09.19","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919DECW0-2026-09-19-chicago-white-sox/"},{"date":"26.09.17","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917CWCL0-2026-09-17-cleveland-guardians/"},{"date":"26.09.16","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916CWCL0-2026-09-16-cleveland-guardians/"},{"date":"26.09.15","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915CWCL0-2026-09-15-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.09.20","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920DECW0-2026-09-20-chicago-white-sox/"},{"date":"26.09.19","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919DECW0-2026-09-19-chicago-white-sox/"},{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"},{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"}]'
+injuryHome: "Huascar Brazoban (Strain)|Joey Bart (Fracture)|Tanner Murray (Surgery)|Tristan Peters (Bruise)|Prelander Berroa (Surgery)"
+injuryAway: "Burch Smith (Inflammation)|Parker Meadows (Surgery)|Kerry Carpenter (Plantar Fasciitis)|Jack Flaherty (Inflammation)|Justin Verlander (Strain)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

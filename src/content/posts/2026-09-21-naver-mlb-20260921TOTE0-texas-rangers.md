@@ -1,0 +1,37 @@
+---
+title: "텍사스 레인저스 vs 토론토 블루제이즈 야구분석·승부예측 (9월 21일) - 픽천국"
+date: 2026-09-20T18:35:00.000Z
+description: "텍사스 레인저스 vs 토론토 블루제이즈 야구분석: 텍사스 레인저스는 이번 시즌 맞대결에서 5전 전승을 거두며 토론토 블루제이즈를 상대로 완벽한 상성 우위를 점하고 있습니다. 전… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260921TOTE0-2026-09-21-texas-rangers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "텍사스 레인저스"
+awayTeam: "토론토 블루제이즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+homeAnalysis: "텍사스 레인저스는 2026시즌 총 105경기에서 48승 57패, 승률 .457을 기록하며 현재 리그순위 7위에 올라 있습니다. 시즌 전체 득실 마진이 -33.0에 달할 정도로 다소 기복 있는 경기력을 보이고 있으나, 최근 흐름은 직전 맞대결을 포함해 전반적으로 안정감을 되찾으려는 모습입니다. 홈 경기에서는 투타 조화가 이루어질 때 폭발적인 득점력을 발휘하는 강점이 있으며, 최근 10경기에서 5승을 거두며 순위 경쟁을 위한 엔진을 다시 가동했습니다. 특히 실점을 억제하는 운영 능력이 뒷받침될 때 승률이 급격히 높아지는 경향을 보입니다. 팀의 주축 선수들이 제 역할을 해준다면 이번 홈 경기에서도 충분히 주도권을 쥘 것으로 분석됩니다."
+awayAnalysis: "토론토 블루제이즈는 2026시즌 118경기에서 57승 60패 1무, 승률 .487을 기록하며 현재 리그순위 8위에 머물러 있습니다. 시즌 전체 득실 마진 -43.0으로 나타나듯 수비와 득점의 균형을 맞추는 데 어려움을 겪고 있으며, 최근 10경기에서 3승 7패라는 저조한 성적을 기록하며 하락세를 면치 못하고 있습니다. 원정길에서의 경기력 기복이 매우 심한 편이라, 원정 연전이 거듭될수록 실점 관리의 불안함이 수치로 나타나고 있는 상황입니다. 득점 지원이 원활하지 않을 때 경기 주도권을 쉽게 내주는 패턴이 반복되고 있어, 상위권 도약을 위해서는 전반적인 전력 재정비가 시급해 보입니다. 이번 경기에서는 원정팀 특유의 수비 불안 요소를 어떻게 최소화하느냐가 관건이 될 것입니다."
+homePower: "상대전적 5연승으로 확실한 천적 관계 형성|홈에서의 타선 폭발력은 리그 평균 상위권 수준|최근 10경기 투수진 실점 제어력 크게 개선됨|득점 생산력과 수비 안정감의 동시 확보가 관건|리그순위 격차 이상의 공수 밸런스 우위 점함"
+awayPower: "상대전적 열세 극복하지 못하는 상성 관계|원정 경기 시 실점 관리 지표 지속적 하락세|득점 지원 부족 시 무너지는 경기 운영 패턴|최근 10경기 승률 하락으로 인한 팀 분위기 저하|리그순위와 득실 마진의 동반 하락세 고착화"
+h2h: '[{"date":"26.09.19","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"7-1"},{"date":"26.06.29","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-179260-2026-06-29-toronto-blue-jays/"},{"date":"26.06.28","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"4-7","link":"https://pick79.com/posts/detail/analyze-179250-2026-06-28-toronto-blue-jays/"},{"date":"26.06.27","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-179230-2026-06-27-toronto-blue-jays/"},{"date":"26.06.26","home":"토론토 블루제이즈","away":"텍사스 레인저스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-179222-2026-06-26-toronto-blue-jays/"}]'
+summary: "텍사스 레인저스는 이번 시즌 맞대결에서 5전 전승을 거두며 토론토 블루제이즈를 상대로 완벽한 상성 우위를 점하고 있습니다. 전반적인 시즌 기록과 리그순위가 비슷한 양상을 보이고 있으나, 최근 10경기 흐름과 투타 조화 면에서 텍사스 레인저스가 한층 안정적인 경기 운영을 보여주고 있습니다. 토론토 블루제이즈는 원정에서 실점 관리에 고전하고 있어, 홈 이점을 가진 텍사스 레인저스가 공수 양면에서 주도권을 잡고 우세한 경기를 펼칠 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"},{"date":"26.09.18","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918BOTE0-2026-09-18-texas-rangers/"},{"date":"26.09.17","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BOTE0-2026-09-17-texas-rangers/"},{"date":"26.09.16","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916BOTE0-2026-09-16-texas-rangers/"},{"date":"26.09.14","home":"애리조나 다이아몬드백스","away":"텍사스 레인저스","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914TEAZ0-2026-09-14-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"},{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"},{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"},{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"}]'
+injuryHome: "Kyle Higashioka (근육 긴장)|Peyton Gray (염증)|Carter Baumler (근육 긴장)|Jose Corniell (근육 긴장)|Joc Pederson (골절)"
+injuryAway: "Luis Urias (근육 긴장)|Trey Yesavage (수술)|Jonatan Clase (족저근막염)|Anthony Santander (수술)|Shane Bieber (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "텍사스 레인저스"
+pickWinResult: "승"
+pickHandicapTeam: "텍사스 레인저스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

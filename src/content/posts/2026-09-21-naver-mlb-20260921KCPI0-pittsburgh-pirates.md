@@ -1,0 +1,37 @@
+---
+title: "피츠버그 파이러츠 vs 캔자스시티 로열스 야구분석·승부예측 (9월 21일) - 픽천국"
+date: 2026-09-20T17:35:00.000Z
+description: "피츠버그 파이러츠 vs 캔자스시티 로열스 야구분석: 현재 리그순위와 최근 흐름 모두에서 피츠버그 파이러츠가 확실한 우위를 나타내고 있습니다. 피츠버그 파이러츠는 최근 10경기에서… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260921KCPI0-2026-09-21-pittsburgh-pirates"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "피츠버그 파이러츠"
+awayTeam: "캔자스시티 로열스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+homeAnalysis: "피츠버그 파이러츠는 2026시즌 전체 116경기에서 55승 60패를 기록하며 현재 리그순위 8위에 위치하고 있습니다. 최근 10경기에서는 6승 4패로 우수한 흐름을 타며 시즌 후반기 반등 조짐을 확실하게 보여주고 있습니다. 특히 최근 캔자스시티 로열스와의 맞대결에서 연속으로 타선이 살아나며 연승을 달리는 등 공격진의 집중력이 돋보입니다. 비록 커비 예이츠와 미치 켈러 등 주요 투수진의 부상 이탈 공백이 존재하지만 득실 차이(+28.0)에서 드러나듯 견고한 공수 밸런스로 이를 잘 극복하고 있습니다. 안방 경기에서의 안정적인 운영 능력이 팀에 자신감을 더해주고 있어 이번 경기에서도 우세한 흐름을 이어나갈 것으로 기대를 모읍니다."
+awayAnalysis: "캔자스시티 로열스는 2026시즌 111경기 동안 53승 54패의 성적으로 현재 리그순위 13위에 머물러 있습니다. 최근 10경기에서는 2승 8패에 그치며 전반적으로 심각한 침체기에 빠져 있는 모습입니다. 시즌 득실 차이가 -101.0에 달할 정도로 마운드의 불안과 타선의 기복이 겹치면서 원정길에서 고전을 면치 못하고 있습니다. 콘너 시볼드와 제임스 맥아더 등 주요 투수 자원들이 부상으로 장기 이탈한 점도 팀의 마운드 운용을 더욱 어렵게 만들고 있습니다. 피츠버그 파이러츠와의 최근 2연전에서도 연달아 패배를 기록한 만큼 침체된 전력을 시급히 정비할 필요가 있어 보입니다."
+homePower: "피츠버그 파이러츠의 맞대결 2연승으로 확실한 상성 우위를 점함|주요 투수 공백에도 플러스 득실차를 유지하는 탄탄한 전력 보임|최근 10경기 6승 4패로 후반기 안정적인 상승세를 형성함|안방에서 집중력 있는 타격 지원으로 승부처 집행력 검증됨|마운드 부상 악재를 타선의 화력으로 메우며 경기력 유지함"
+awayPower: "캔자스시티 로열스는 최근 10경기 2승 8패로 뚜렷한 침체기 보임|큰 마이너스 득실차에서 나타나듯 전반적인 투타 밸런스가 무너짐|마운드 핵심 자원의 장기 결장으로 경기 후반 불펜 운용에 한계 드러냄|피츠버그 파이러츠와의 최근 연전 패배로 마운드 불안감 가중됨|득점권 찬스에서의 타선 집중력 저조로 득점 생산 효율이 크게 낮음"
+h2h: '[{"date":"26.09.20","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920KCPI0-2026-09-20-pittsburgh-pirates/"},{"date":"26.09.19","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"8-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919KCPI0-2026-09-19-pittsburgh-pirates/"}]'
+summary: "현재 리그순위와 최근 흐름 모두에서 피츠버그 파이러츠가 확실한 우위를 나타내고 있습니다. 피츠버그 파이러츠는 최근 10경기에서 6승을 거두며 상승세를 타고 있으며, 맞대결에서도 캔자스시티 로열스를 상대로 연승을 기록하며 우위를 증명했습니다. 반면 캔자스시티 로열스는 마운드의 연쇄 부상 악재와 최근 10경기 2승 8패의 극심한 부진이 겹쳐 원정 경기에서 반등의 계기를 마련하기 쉽지 않아 보입니다. 공수 밸런스가 안정적이고 안방의 이점을 안고 있는 피츠버그 파이러츠가 이번 경기에서도 주도권을 잡고 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.20","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920KCPI0-2026-09-20-pittsburgh-pirates/"},{"date":"26.09.19","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919KCPI0-2026-09-19-pittsburgh-pirates/"},{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MIPI0-2026-09-18-pittsburgh-pirates/"},{"date":"26.09.17","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917MIPI0-2026-09-17-pittsburgh-pirates/"},{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.09.20","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920KCPI0-2026-09-20-pittsburgh-pirates/"},{"date":"26.09.19","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919KCPI0-2026-09-19-pittsburgh-pirates/"},{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"},{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros/"},{"date":"26.09.14","home":"보스턴 레드삭스","away":"캔자스시티 로열스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914KCBO0-2026-09-14-boston-red-sox/"}]'
+injuryHome: "Kirby Yates (신경 압박)|Isaac Mattson (염증)|Esmerlyn Valdez (근육 긴장)|Braxton Ashcraft (통증)|Mitch Keller (상세 미기재)"
+injuryAway: "Connor Seabold (근육 긴장)|Craig Kimbrel (경조사 휴가)|Tony Gonsolin (수술)|James McArthur (수술)|Beck Way (15일 부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피츠버그 파이러츠"
+pickWinResult: "승"
+pickHandicapTeam: "피츠버그 파이러츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 카디널스 vs 워싱턴 내셔널스 야구분석·승부예측 (9월 21일) - 픽천국"
+date: 2026-09-20T18:15:00.000Z
+description: "세인트루이스 카디널스 vs 워싱턴 내셔널스 야구분석: 양 팀은 2026시즌 전적과 리그순위에서 큰 차이를 보이지 않으나 최근 공수 집중도 면에서 워싱턴 내셔널스가 다소 우세한 흐름… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "세인트루이스 카디널스"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "세인트루이스 카디널스는 2026시즌 75승 79패를 기록하며 현재 리그순위 10위에 머물러 있습니다. 최근 흐름을 살펴보면 지난 10경기에서 4승 6패로 다소 부진한 양상을 보이며 중위권 도약에 어려움을 겪고 있습니다. 전반적으로 투타 밸런스가 흔들리며 득점 지원 부족과 수비 집중력 저하가 시즌 내내 숙제로 남아있는 상태입니다. 특히 최근 맞대결에서 대패를 당하며 상대전적 균형이 깨진 점은 팀 분위기에 적지 않은 부담으로 작용할 것으로 보입니다. 홈에서의 안정적인 운영이 절실한 시점이지만, 전력의 기복이 심해 이번 경기에서 어떤 투구와 타격 집중력을 보여줄지가 승패의 관건이 될 것입니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 72승 82패를 기록하며 현재 리그순위 11위에 위치해 있습니다. 최근 9경기에서 4승 5패의 성적을 거두고 있으며, 시즌 전체적인 득실 마진에서 양수(+)를 기록할 만큼 경쟁력을 갖춘 모습을 보여왔습니다. 공격력 측면에서 시즌 평균 4.8득점을 생산하며 기복 없는 화력을 유지하고 있다는 점이 가장 큰 강점입니다. 최근 맞대결 승리를 통해 자신감을 얻은 워싱턴 내셔널스는 공수 전환 속도와 실점 억제 능력을 바탕으로 경기를 주도하려는 의지가 강합니다. 순위는 홈팀보다 낮지만, 실질적인 경기력의 지표인 득실 마진과 최근의 집중력을 고려할 때 충분히 우위를 점할 잠재력이 있습니다."
+homePower: "최근 3경기 2패로 공격 흐름 정체 심화|시즌 득실 마진 음수 기록하며 투수진 불안 지속|홈 마운드의 붕괴가 매 경기 실점 변수로 작용함|주요 자원 부상 공백으로 라인업 운영 제한됨|상대와의 최근 맞대결 완패로 인한 심리적 열세"
+awayPower: "시즌 득실 마진 양수 유지하며 내실 있는 경기력|최근 5경기 중 4승 달성한 높은 득점 집중력|상위권 팀 상대로도 대등한 승부를 펼치는 끈기|원정 경기에서의 타격 효율이 홈보다 높은 편임|최근 맞대결 대승으로 확실한 분위기 반전 성공"
+h2h: '[{"date":"26.09.19","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"1-9"},{"date":"26.04.09","home":"워싱턴 내셔널스","away":"세인트루이스 카디널스","score":"1-6"},{"date":"26.04.08","home":"워싱턴 내셔널스","away":"세인트루이스 카디널스","score":"6-7"},{"date":"26.04.07","home":"워싱턴 내셔널스","away":"세인트루이스 카디널스","score":"9-6"}]'
+summary: "양 팀은 2026시즌 전적과 리그순위에서 큰 차이를 보이지 않으나 최근 공수 집중도 면에서 워싱턴 내셔널스가 다소 우세한 흐름을 보이고 있습니다. 세인트루이스 카디널스는 최근 투수진의 난조가 뼈아프게 작용하며 경기 운영에 어려움을 겪는 반면, 워싱턴 내셔널스는 안정적인 득점 생산력을 바탕으로 승기를 가져오는 능력이 돋보입니다. 특히 직전 맞대결에서 보여준 워싱턴 내셔널스의 공수 압도력이 이번 경기에서도 이어질 가능성이 높아 보입니다. 두 팀의 전력 차이가 근소하지만 최근 분위기와 공수 지표의 안정감을 고려할 때 워싱턴 내셔널스가 우위를 점할 것으로 예상됩니다."
+homeRecent: '[{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"},{"date":"26.09.17","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals/"},{"date":"26.09.16","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SFSL0-2026-09-16-st-louis-cardinals/"},{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"},{"date":"26.09.14","home":"세인트루이스 카디널스","away":"시카고 화이트삭스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CWSL0-2026-09-14-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"},{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"},{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"},{"date":"26.09.14","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914ANMO0-2026-09-14-washington-nationals/"},{"date":"26.09.12","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912ANMO0-2026-09-12-washington-nationals/"}]'
+injuryHome: "Everson Pereira (부상)|Blaze Jordan (염좌)|Joshua Baez (긴장)|Hunter Dobbins (수술)|Max Rajcic (수술)"
+injuryAway: "Orlando Ribalta (염증)|DJ Herz (긴장)|PJ Poulin (긴장)|Connelly Early (염증)|Matt Waldron (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "워싱턴 내셔널스"
+pickWinResult: "승"
+pickHandicapTeam: "워싱턴 내셔널스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

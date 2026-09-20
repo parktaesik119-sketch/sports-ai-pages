@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 시애틀 매리너스 야구분석·승부예측 (9월 21일) - 픽천국"
+date: 2026-09-20T19:10:00.000Z
+description: "콜로라도 로키스 vs 시애틀 매리너스 야구분석: 콜로라도 로키스와 시애틀 매리너스는 이번 2026시즌 동안 공수 지표와 순위에서 뚜렷한 차이를 보이고 있습니다. 홈팀 콜로라도… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260921SECO0-2026-09-21-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "시애틀 매리너스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SE.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 95경기에서 33승 62패, 승률 .347를 기록하며 현재 리그순위 15위에 머물러 있습니다. 시즌 내내 투타 밸런스가 무너지며 경기당 평균 4.9득점에도 불구하고 899실점이라는 높은 실점을 허용하며 수비 불안을 노출했습니다. 최근 10경기에서 1승 9패라는 극심한 부진을 겪으며 시즌 막바지 흐름이 매우 좋지 않습니다. 특히 투수진의 붕괴로 인해 대량 실점이 잦아지면서 경기 운영에 큰 어려움을 겪고 있습니다. 리그 하위권에 머물러 있는 만큼 공수 전반에 걸친 재정비가 시급한 상황입니다."
+awayAnalysis: "시애틀 매리너스는 2026시즌 99경기에서 46승 52패 1무, 승률 .469를 기록하며 현재 리그순위 11위에 위치하고 있습니다. 꾸준하게 중위권에서 경쟁력을 유지하며 시즌을 치러왔고, 최근 10경기에서 5승 5패를 거두며 나름대로 전력을 보전하고 있습니다. 경기당 평균 3.9득점으로 폭발력은 다소 부족할지라도, 상대적으로 견고한 마운드 운영을 통해 안정적인 경기력을 선보입니다. 직전 경기에서 콜로라도 로키스를 상대로 승리하며 흐름을 이어가고 있다는 점이 돋보입니다. 전체적으로 집중력을 유지하며 승수를 쌓아가는 저력이 강점으로 평가됩니다."
+homePower: "900점에 육박하는 시즌 실점은 수비 붕괴를 입증함|최근 10경기 승률 1할은 팀 전력의 완전한 침체를 의미함|홈에서도 이어지는 투수진 난조로 인해 승리 동력 상실함|득점력 지원이 수비 실점을 따라가지 못하는 악순환 반복됨|리그 최하위권 순위가 시사하는 공수 양면의 총체적 난국임"
+awayPower: "최근 원정 흐름 속에서도 승리 방정식은 꾸준히 유지됨|콜로라도 로키스 상대 우위 확인으로 심리적 자신감 충만함|득점력 기복에도 마운드 중심의 안정적 운영이 돋보임|중위권 순위만큼의 준수한 경기 집중력과 마감 능력 보유함|전력 누수 최소화하며 승리 가능성을 높이는 경기 운영함"
+h2h: '[{"date":"26.09.19","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SECO0-2026-09-19-colorado-rockies/"}]'
+summary: "콜로라도 로키스와 시애틀 매리너스는 이번 2026시즌 동안 공수 지표와 순위에서 뚜렷한 차이를 보이고 있습니다. 홈팀 콜로라도 로키스는 최근 10경기에서 1승에 그칠 정도로 극심한 부진에 빠져 있으며, 특히 리그 최하위권에 걸맞은 높은 실점률이 승리를 가로막는 요소로 작용하고 있습니다. 반면 원정팀 시애틀 매리너스는 리그 11위로서 꾸준한 전력을 유지하고 있고, 직전 맞대결에서도 승리를 거두며 상대성 면에서도 우위를 점하고 있습니다. 전력의 안정성과 최근 상승세를 종합해 볼 때 시애틀 매리너스가 이번 경기에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.19","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SECO0-2026-09-19-colorado-rockies/"},{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"},{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"},{"date":"26.09.14","home":"디트로이트 타이거즈","away":"콜로라도 로키스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914CODE0-2026-09-14-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.09.19","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SECO0-2026-09-19-colorado-rockies/"},{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels/"},{"date":"26.09.16","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SEAN0-2026-09-16-los-angeles-angels/"},{"date":"26.09.15","home":"LA 에인절스","away":"시애틀 매리너스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"}]'
+injuryHome: "Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)|Pierson Ohl (수술)"
+injuryAway: "Brendan Donovan (뇌진탕)|Brennen Davis (염좌)|Cole Wilcox (염좌)|Will Wilson (골절)|Emerson Hancock (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시애틀 매리너스"
+pickWinResult: "승"
+pickHandicapTeam: "시애틀 매리너스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

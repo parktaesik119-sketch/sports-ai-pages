@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 마이애미 말린스 야구분석·승부예측 (9월 21일) - 픽천국"
+date: 2026-09-20T20:10:00.000Z
+description: "샌디에이고 파드리스 vs 마이애미 말린스 야구분석: 샌디에이고 파드리스는 이번 시즌 높은 승률과 함께 리그 상위권 순위를 지키며 막강한 경기력을 자랑하고 있습니다. 반면 마이애미… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260921FLSD0-2026-09-21-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 85승 69패 승률 0.552를 기록하며 현재 리그순위 5위에 위치해 안정적인 시즌을 치러내고 있습니다. 최근 10경기에서 8승을 거두는 뛰어난 경기력을 선보이며 매서운 상승세를 이어나가는 모습입니다. 타선은 최근 경기마다 다득점을 올리며 폭발적인 화력을 보여주고 있으며, 득실 차에서도 양수를 나타내듯 마운드의 안정감도 돋보입니다. 경기 후반 집중력과 홈에서의 운용 능력이 크게 개선되어 경기 주도권을 쥐는 능력이 탁월합니다. 불펜진의 부상 부재에도 불구하고 완벽한 공수 밸런스를 바탕으로 경기마다 안정적으로 승리를 적립하고 있어 더욱 기대감을 높입니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 76승 78패 승률 0.494를 기록하며 현재 리그순위 9위에 머물러 힘겨운 경쟁을 이어가고 있습니다. 최근 10경기에서 4승 6패로 다소 기복 있는 경기력을 보이며 상승 흐름을 타지 못하는 양상입니다. 마운드의 구원진 및 선발진 일부 선수의 부상 이탈로 인해 투타 밸런스가 다소 흔들리고 있습니다. 타선이 활발하게 타점을 올리는 날에는 준수한 경기력을 보여주지만 수비에서의 불확실성이 발목을 잡는 경우가 많습니다. 원정 경기에서의 경기력 유지와 경기 후반 불펜 운영이 이번 경기의 중요한 과제로 평가됩니다."
+homePower: "맞대결 4경기 전승으로 상대 상성에서 완벽한 우위 보임|최근 10경기 8승의 상승세로 안정적인 경기 운용 검증됨|플러스 득실 격차가 증명하듯 우수한 투타 밸런스 보유함|샌디에이고 파드리스 타선의 경기 후반 폭발력 유지됨|장기 부상 이탈에도 흔들리지 않는 촘촘한 뎁스 돋보임"
+awayPower: "타선 터지는 경기서 높은 득점 생산력 보여줌|투수진 장기 부상 여파로 경기 후반 실점 위험 존재함|최근 10경기 4승에 그치며 기복 있는 경기력 보임|마이애미 말린스의 상대전적 열세 극복이 최우선 과제임|원정 경기 수비 집중력 유지가 승부의 핵심 변수임"
+h2h: '[{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.07.27","home":"마이애미 말린스","away":"샌디에이고 파드리스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-179599-2026-07-27-miami-marlins/"},{"date":"26.07.26","home":"마이애미 말린스","away":"샌디에이고 파드리스","score":"2-7","link":"https://pick79.com/posts/detail/analyze-179583-2026-07-26-miami-marlins/"},{"date":"26.07.25","home":"마이애미 말린스","away":"샌디에이고 파드리스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-179566-2026-07-25-miami-marlins/"}]'
+summary: "샌디에이고 파드리스는 이번 시즌 높은 승률과 함께 리그 상위권 순위를 지키며 막강한 경기력을 자랑하고 있습니다. 반면 마이애미 말린스는 5할 승률에 미치지 못하는 전력 속에서 마운드 공백과 기복으로 고전하고 있습니다. 상대전적에서도 샌디에이고 파드리스가 압도적인 우위를 점하고 있어 공수 양면에서 안정적인 주도권을 잡을 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"},{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"},{"date":"26.09.14","home":"샌프란시스코 자이언츠","away":"샌디에이고 파드리스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SDSF0-2026-09-14-san-francisco-giants/"}]'
+awayRecent: '[{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"},{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"},{"date":"26.09.14","home":"마이애미 말린스","away":"LA 다저스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins/"}]'
+injuryHome: "Jason Adam (60일 부상자 명단 - 염좌)|Miguel Andujar (10일 부상자 명단 - 골절)|Gavin Sheets (10일 부상자 명단 - 염좌)|Jeremiah Estrada (15일 부상자 명단 - 신경 압박)|Lucas Giolito (60일 부상자 명단 - 염증)"
+injuryAway: "Owen Caissie (10일 부상자 명단 - 골절)|Anthony Bender (15일 부상자 명단 - 골절)|Max Meyer (15일 부상자 명단 - 염좌)|Ronny Henriquez (60일 부상자 명단 - 수술)|Adam Mazur (60일 부상자 명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "탬파베이 레이스 vs 보스턴 레드삭스 야구분석·승부예측 (9월 21일) - 픽천국"
+date: 2026-09-20T17:40:00.000Z
+description: "탬파베이 레이스 vs 보스턴 레드삭스 야구분석: 탬파베이 레이스와 보스턴 레드삭스는 2026시즌 내내 치열한 경쟁을 펼치며 상대전적에서도 6승 6패로 우열을 가리기 힘든 모습… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "탬파베이 레이스"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+homeAnalysis: "탬파베이 레이스는 2026시즌 94승 60패를 기록하며 .610의 높은 승률로 현재 리그순위 1위를 달리고 있습니다. 최근 10경기에서 8승 2패라는 압도적인 상승세를 이어가며 선두 자리를 굳건히 지키고 있습니다. 시즌 전체 득실 +79.0을 기록할 만큼 투타의 조화가 뛰어나며, 특히 홈에서의 안정적인 운영 능력이 매우 돋보입니다. 직전 맞대결에서 승리를 거두며 보스턴 레드삭스를 상대로도 밀리지 않는 전력을 입증했습니다. 꾸준한 득점 생산력과 효율적인 수비를 바탕으로 이번 경기에서도 홈 이점을 충분히 살릴 것으로 보입니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 84승 71패, 승률 .542를 기록하며 현재 리그순위 3위에 올라 있습니다. 시즌 전체 득실 +84.0으로 공수 지표는 훌륭하지만, 최근 10경기에서 4승 6패로 다소 기복 있는 흐름을 보이고 있습니다. 원정 경기에서 강팀을 상대로 고전하는 경우가 있어 이번 탬파베이 레이스 원정 또한 큰 시험대가 될 전망입니다. 공격 전력이 준수함에도 최근 득점 평균이 3.0점으로 다소 하락한 점이 아쉬움으로 남습니다. 전력 자체는 안정적이나, 최근의 부진한 흐름을 얼마나 빨리 회복하느냐가 승부의 관건이 될 것입니다."
+homePower: "리그 1위로 증명된 안정적인 시즌 운영 능력|홈에서의 높은 승률과 투타 밸런스 유지|최근 10경기 8승의 압도적인 상승세|득실차 +79.0이 말해주는 높은 집중력|맞대결 13경기 6승 6패로 팽팽한 상성"
+awayPower: "리그 3위의 저력을 갖춘 견고한 전력|득실차 +84.0으로 입증된 탄탄한 기본기|최근 10경기 타격 침체로 인한 화력 감소|리그 상위권 팀다운 원정 운영 노하우|상대전적 균형을 통한 심리적 우위 유지"
+h2h: '[{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.07.20","home":"보스턴 레드삭스","away":"탬파베이 레이스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260720TBBO0-2026-07-20-boston-red-sox/"},{"date":"26.07.19","home":"보스턴 레드삭스","away":"탬파베이 레이스","score":"7-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260719TBBO0-2026-07-19-boston-red-sox/"},{"date":"26.07.18","home":"보스턴 레드삭스","away":"탬파베이 레이스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260718TBBO2-2026-07-18-boston-red-sox/"}]'
+summary: "탬파베이 레이스와 보스턴 레드삭스는 2026시즌 내내 치열한 경쟁을 펼치며 상대전적에서도 6승 6패로 우열을 가리기 힘든 모습을 보여왔습니다. 리그순위 1위인 탬파베이 레이스는 최근 10경기 8승이라는 무서운 페이스를 선보이며 상승세의 정점을 달리고 있습니다. 반면 3위인 보스턴 레드삭스는 시즌 전체 득실 지표는 훌륭하지만, 최근 공격력 저하로 인해 흐름이 다소 가라앉은 상태입니다. 이러한 최근의 전력 추이를 고려할 때, 홈 이점을 안고 상승세를 이어가는 탬파베이 레이스가 이번 맞대결에서 상대적으로 더 높은 집중력을 발휘할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"},{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬레틱스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays/"},{"date":"26.09.16","home":"탬파베이 레이스","away":"애슬레틱스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916OATB0-2026-09-16-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918BOTE0-2026-09-18-texas-rangers/"},{"date":"26.09.17","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BOTE0-2026-09-17-texas-rangers/"},{"date":"26.09.16","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916BOTE0-2026-09-16-texas-rangers/"}]'
+injuryHome: "Ben Williamson (근육 염좌)|Manuel Rodriguez (근육 염좌)|Edwin Uceta (근육 염좌)|Jonathan Heasley (골절)|Garrett Cleavinger (통증)"
+injuryAway: "Tyron Guerrero (염증)|Willson Contreras (타박상)|Tanner Houck (수술)|Aroldis Chapman (통증)|Johan Oviedo (근육 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
