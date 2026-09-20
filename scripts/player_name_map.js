@@ -816,7 +816,8 @@ const PLAYER_NAME_MAP = {
   "Jun-Seok Lee": "이준석",
   "Won-Rok Choi": "최원록",
   "Jin-Young Sung": "성진영",
-  "June-Hyuk Ahn": "안준혁", // 확인 필요 - fotmob 표기 순서 반대
+  "June-Hyuk Ahn": "안준혁",
+  "Jun-Hyuk Ahn": "안준혁",
 
   // --- Yongin FC (용인 FC) ---
   "Hee-Dong Roh": "노희동",
