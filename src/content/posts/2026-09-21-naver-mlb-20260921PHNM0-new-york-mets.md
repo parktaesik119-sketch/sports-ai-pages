@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.20","home":"뉴욕 메츠","away":"필라델피아 
 injuryHome: "Devin Williams (15일 부상자 명단 - 근육 경련)|Jared Young (7일 부상자 명단 - 뇌진탕)|Daniel Duarte (15일 부상자 명단 - 근육 경련)|Robert Stock (15일 부상자 명단)|Jorge Polanco (60일 부상자 명단 - 수술)"
 injuryAway: "Jonathan Bowlan (일상 관리 - 근육 경련)|Jesus Luzardo (15일 부상자 명단 - 염증)|Caleb Kilian (60일 부상자 명단 - 근육 경련)|Felix Reyes (60일 부상자 명단 - 골절)|Johan Rojas (60일 부상자 명단 - 수술)"
 homeLineup: "[\"선발투수 J. Tong (2-1, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/5214984.png\"]"
-awayLineup: "[\"선발투수 C. Sanchez (17-6, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+awayLineup: "[\"선발투수 C. Sanchez (17-6, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\",\"1번 K. Schwarber (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33712.png\",\"2번 T. Turner (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33710.png\",\"3번 B. Harper (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/30951.png\",\"4번 L. Arraez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/39572.png\",\"5번 A. Bohm (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41169.png\",\"6번 B. Stott (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42417.png\",\"7번 B. Marsh (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/40803.png\",\"8번 J.T. Realmuto (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32177.png\",\"9번 J. Crawford (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5080642.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
