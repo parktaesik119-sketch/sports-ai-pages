@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 �
 injuryHome: "George Klassen (염증)|Nolan Schanuel (염좌)|Kyren Paris (골절)|Samy Natera Jr. (염증)|Yoan Moncada (수술)"
 injuryAway: "Mike Paredes (염좌)|Mick Abel (수술)|Kaelen Culpepper (염좌)|Trevor Larnach (통증)|Byron Buxton (수술)"
 homeLineup: "[\"선발투수 R. Johnson (5-8, 4.88) ERA 4.88|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
-awayLineup: "[\"선발투수 D. Kremer (3-5, 5.35) ERA 5.35|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
+awayLineup: "[\"선발투수 D. Kremer (3-5, 5.35) ERA 5.35|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\",\"1번 W. Jenkins (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5148963.png\",\"2번 B. Lee (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4629081.png\",\"3번 K. Clemens (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41311.png\",\"4번 J. Bell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32517.png\",\"5번 A. Roden (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4424368.png\",\"6번 R. Lewis (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/40635.png\",\"7번 V. Caratini (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33229.png\",\"8번 E. Rodriguez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5017049.png\",\"9번 B. Ross (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5131696.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
