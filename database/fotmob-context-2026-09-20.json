@@ -15563,7 +15563,7 @@
         "Kyle Duncan (MF)|https://images.fotmob.com/image_resources/playerimages/771494.png",
         "Owen Gene (MF)|https://images.fotmob.com/image_resources/playerimages/1307695.png",
         "Wil Trapp (MF)|https://images.fotmob.com/image_resources/playerimages/431896.png",
-        "Anthony Markanich (MF)|https://images.fotmob.com/image_resources/playerimages/1339585.png",
+        "Anthony Markanich (DF)|https://images.fotmob.com/image_resources/playerimages/1339585.png",
         "Joaquín Pereyra (MF)|https://images.fotmob.com/image_resources/playerimages/831541.png",
         "Marcus Caldeira (FW)|https://images.fotmob.com/image_resources/playerimages/1610316.png",
         "Kelvin Yeboah (FW)|https://images.fotmob.com/image_resources/playerimages/951927.png"
@@ -16030,445 +16030,6 @@
     }
   },
   {
-    "home": "Colorado Rapids",
-    "away": "Seattle Sounders FC",
-    "date": "2026-09-20T01:30:00.000Z",
-    "league": "Major League Soccer",
-    "injuries": {
-      "home": [
-        {
-          "name": "Kosi Thompson",
-          "status": "부상",
-          "detail": "Mid September 2026"
-        },
-        {
-          "name": "Zack Steffen",
-          "status": "어깨 부상",
-          "detail": "Late September 2026"
-        },
-        {
-          "name": "Mamadou Billo Diop",
-          "status": "무릎 부상",
-          "detail": "Early October 2026"
-        },
-        {
-          "name": "Theodore Ku-DiPietro",
-          "status": "어깨 부상",
-          "detail": "Late September 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Paul Rothrock",
-          "status": "햄스트링 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Pedro De la Vega",
-          "status": "엉덩이 부상",
-          "detail": "Out for season"
-        },
-        {
-          "name": "Jesús Ferreira",
-          "status": "햄스트링 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Nikola Petković",
-          "status": "무릎 부상",
-          "detail": "Unknown"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-02-23T02:15:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2025-07-17T02:15:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 3,
-        "awayScore": 3
-      },
-      {
-        "date": "2025-04-27T01:30:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-10-06T01:30:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-03-16T20:00:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2023-09-21T01:30:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2023-02-27T01:00:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2022-07-24T02:00:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-05-23T00:00:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-10-21T01:00:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2021-10-04T02:00:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-07-05T01:00:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2020-11-02T02:00:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2019-09-08T01:10:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2019-03-10T03:10:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-09-29T20:10:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 4,
-        "awayScore": 0
-      },
-      {
-        "date": "2018-07-05T01:05:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2017-10-22T20:20:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2017-07-05T01:10:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2016-11-27T21:20:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-11-23T03:35:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-05-22T02:05:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2016-04-24T01:10:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-07-19T02:10:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-05-28T02:05:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2015-04-19T01:05:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 3
-      },
-      {
-        "date": "2014-10-05T19:05:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 4
-      },
-      {
-        "date": "2014-08-30T20:05:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-04-26T20:10:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 4,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-10-31T02:35:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2013-10-06T02:25:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-07-20T20:05:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2013-04-20T22:05:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-07-29T01:05:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 1,
-        "awayScore": 2
-      },
-      {
-        "date": "2012-07-08T03:20:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2012-04-14T20:05:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2011-07-16T20:05:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 4,
-        "awayScore": 3
-      },
-      {
-        "date": "2011-04-23T01:35:00.000Z",
-        "home": "Colorado Rapids",
-        "away": "Seattle Sounders FC",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2010-07-26T02:30:00.000Z",
-        "home": "Seattle Sounders FC",
-        "away": "Colorado Rapids",
-        "homeScore": 2,
-        "awayScore": 1
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-08-30T01:30:00.000Z",
-          "home": "Colorado Rapids",
-          "away": "Real Salt Lake",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-05T23:30:00.000Z",
-          "home": "Columbus Crew",
-          "away": "Colorado Rapids",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-10T00:30:00.000Z",
-          "home": "Austin FC",
-          "away": "Colorado Rapids",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-13T01:30:00.000Z",
-          "home": "Colorado Rapids",
-          "away": "CF Montréal",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-17T01:30:00.000Z",
-          "home": "Colorado Rapids",
-          "away": "St. Louis City",
-          "homeScore": 0,
-          "awayScore": 3
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-08-20T01:30:00.000Z",
-          "home": "Seattle Sounders FC",
-          "away": "Austin FC",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-08-22T23:30:00.000Z",
-          "home": "FC Cincinnati",
-          "away": "Seattle Sounders FC",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-08-29T20:30:00.000Z",
-          "home": "Seattle Sounders FC",
-          "away": "Chicago Fire FC",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-06T00:30:00.000Z",
-          "home": "Seattle Sounders FC",
-          "away": "Red Bull New York",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-13T02:30:00.000Z",
-          "home": "LA Galaxy",
-          "away": "Seattle Sounders FC",
-          "homeScore": 1,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Nicholas Hansen (GK)|https://images.fotmob.com/image_resources/playerimages/1098753.png",
-        "Reggie Cannon (DF)|https://images.fotmob.com/image_resources/playerimages/825603.png",
-        "Rob Holding (DF)|https://images.fotmob.com/image_resources/playerimages/626667.png",
-        "Loïc Williams (DF)|https://images.fotmob.com/image_resources/playerimages/1280203.png",
-        "Miguel Navarro (DF)|https://images.fotmob.com/image_resources/playerimages/1048053.png",
-        "Wayne Frederick (MF)|https://images.fotmob.com/image_resources/playerimages/1610223.png",
-        "Paxten Aaronson (MF)|https://images.fotmob.com/image_resources/playerimages/1171008.png",
-        "Hamzat Ojediran (MF)|https://images.fotmob.com/image_resources/playerimages/1442054.png",
-        "Morgan Whittaker (FW)|https://images.fotmob.com/image_resources/playerimages/1081288.png",
-        "Sayed Abu Farkhi (FW)|https://images.fotmob.com/image_resources/playerimages/1518943.png",
-        "Donavan Phillip (FW)|https://images.fotmob.com/image_resources/playerimages/1786169.png"
-      ],
-      "away": [
-        "Andrew Thomas (GK)|https://images.fotmob.com/image_resources/playerimages/1268000.png",
-        "Kalani Rienzi (DF)|https://images.fotmob.com/image_resources/playerimages/1610334.png",
-        "Álex Roldán (DF)|https://images.fotmob.com/image_resources/playerimages/924391.png",
-        "Stuart Russell Hawkins (DF)|https://images.fotmob.com/image_resources/playerimages/1500405.png",
-        "Nouhou Tolo (DF)|https://images.fotmob.com/image_resources/playerimages/797551.png",
-        "Cristian Roldan (MF)|https://images.fotmob.com/image_resources/playerimages/621946.png",
-        "Hassani Dotson (MF)|https://images.fotmob.com/image_resources/playerimages/1026098.png",
-        "Peter Kingston (MF)|https://images.fotmob.com/image_resources/playerimages/1083216.png",
-        "Albert Rusnák (MF)|https://images.fotmob.com/image_resources/playerimages/484858.png",
-        "Jordan Morris (FW)|https://images.fotmob.com/image_resources/playerimages/578643.png",
-        "Dejan Joveljić (FW)|https://images.fotmob.com/image_resources/playerimages/749491.png"
-      ]
-    },
-    "formation": {
-      "home": "4-3-3",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "Matt Wells|https://images.fotmob.com/image_resources/playerimages/1219412.png",
-      "away": "Brian Schmetzer|https://images.fotmob.com/image_resources/playerimages/772848.png"
-    }
-  },
-  {
     "home": "Nashville SC",
     "away": "Chicago Fire FC",
     "date": "2026-09-20T01:30:00.000Z",
@@ -16651,15 +16212,15 @@
       "home": [
         "Brian Schwake (GK)|https://images.fotmob.com/image_resources/playerimages/1169991.png",
         "Andy Nájar (DF)|https://images.fotmob.com/image_resources/playerimages/198453.png",
-        "Maxwell Woledzi (DF)|https://images.fotmob.com/image_resources/playerimages/1069403.png",
         "Jeisson Palacios (DF)|https://images.fotmob.com/image_resources/playerimages/641306.png",
+        "Maxwell Woledzi (DF)|https://images.fotmob.com/image_resources/playerimages/1069403.png",
         "Reed Baker-Whiting (DF)|https://images.fotmob.com/image_resources/playerimages/1190765.png",
         "Patrick Yazbek (MF)|https://images.fotmob.com/image_resources/playerimages/1235411.png",
         "Matthew Corcoran (MF)|https://images.fotmob.com/image_resources/playerimages/1341159.png",
-        "Elias Saad (FW)|https://images.fotmob.com/image_resources/playerimages/1285773.png",
         "Cristian Espinoza (FW)|https://images.fotmob.com/image_resources/playerimages/589897.png",
-        "Sam Surridge (FW)|https://images.fotmob.com/image_resources/playerimages/796747.png",
-        "Hany Mukhtar (FW)|https://images.fotmob.com/image_resources/playerimages/394462.png"
+        "Hany Mukhtar (FW)|https://images.fotmob.com/image_resources/playerimages/394462.png",
+        "Elias Saad (FW)|https://images.fotmob.com/image_resources/playerimages/1285773.png",
+        "Sam Surridge (FW)|https://images.fotmob.com/image_resources/playerimages/796747.png"
       ],
       "away": [
         "Chris Brady (GK)|https://images.fotmob.com/image_resources/playerimages/1245998.png",
@@ -16669,15 +16230,15 @@
         "Andrew Gutman (DF)|https://images.fotmob.com/image_resources/playerimages/1018587.png",
         "Sergio Oregel (MF)|https://images.fotmob.com/image_resources/playerimages/1338620.png",
         "Djé D'Avilla (MF)|https://images.fotmob.com/image_resources/playerimages/1525182.png",
-        "Robin Lod (MF)|https://images.fotmob.com/image_resources/playerimages/293569.png",
         "Philip Zinckernagel (FW)|https://images.fotmob.com/image_resources/playerimages/449279.png",
-        "Robert Lewandowski (FW)|https://images.fotmob.com/image_resources/playerimages/93447.png",
-        "Maren Haile-Selassie (FW)|https://images.fotmob.com/image_resources/playerimages/861753.png"
+        "Robin Lod (MF)|https://images.fotmob.com/image_resources/playerimages/293569.png",
+        "Maren Haile-Selassie (FW)|https://images.fotmob.com/image_resources/playerimages/861753.png",
+        "Robert Lewandowski (FW)|https://images.fotmob.com/image_resources/playerimages/93447.png"
       ]
     },
     "formation": {
-      "home": "4-3-3",
-      "away": "4-3-3"
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
     },
     "coach": {
       "home": "BJ Callaghan|https://images.fotmob.com/image_resources/playerimages/1494306.png",
@@ -17089,15 +16650,15 @@
       "home": [
         "Rafael Cabral (GK)|https://images.fotmob.com/image_resources/playerimages/172157.png",
         "DeAndre Yedlin (DF)|https://images.fotmob.com/image_resources/playerimages/432040.png",
-        "Kobi Henry (DF)|https://images.fotmob.com/image_resources/playerimages/1172163.png",
         "Philip Quinton (DF)|https://images.fotmob.com/image_resources/playerimages/1338757.png",
-        "Juan Sanabria (MF)|https://images.fotmob.com/image_resources/playerimages/1053963.png",
+        "Kobi Henry (DF)|https://images.fotmob.com/image_resources/playerimages/1172163.png",
         "Saba Lobjanidze (FW)|https://images.fotmob.com/image_resources/playerimages/652955.png",
-        "Noel Çalışkan (MF)|https://images.fotmob.com/image_resources/playerimages/1439925.png",
         "Colin Guske (MF)|https://images.fotmob.com/image_resources/playerimages/1624002.png",
-        "Morgan Guilavogui (MF)|https://images.fotmob.com/image_resources/playerimages/1092680.png",
+        "Noel Çalışkan (MF)|https://images.fotmob.com/image_resources/playerimages/1439925.png",
+        "Juan Sanabria (MF)|https://images.fotmob.com/image_resources/playerimages/1053963.png",
         "Aiden Hezarkhani (MF)|https://images.fotmob.com/image_resources/playerimages/1643328.png",
-        "Sergi Solans (FW)|https://images.fotmob.com/image_resources/playerimages/1907793.png"
+        "Sergi Solans (FW)|https://images.fotmob.com/image_resources/playerimages/1907793.png",
+        "Morgan Guilavogui (MF)|https://images.fotmob.com/image_resources/playerimages/1092680.png"
       ],
       "away": [
         "Yohei Takaoka (GK)|https://images.fotmob.com/image_resources/playerimages/648356.png",
@@ -17114,12 +16675,451 @@
       ]
     },
     "formation": {
-      "home": "4-4-2",
+      "home": "3-4-3",
       "away": "4-2-3-1"
     },
     "coach": {
       "home": "Pablo Mastroeni|https://images.fotmob.com/image_resources/playerimages/30810.png",
       "away": "Jesper Sørensen|https://images.fotmob.com/image_resources/playerimages/26751.png"
+    }
+  },
+  {
+    "home": "Colorado Rapids",
+    "away": "Seattle Sounders FC",
+    "date": "2026-09-20T02:30:00.000Z",
+    "league": "Major League Soccer",
+    "injuries": {
+      "home": [
+        {
+          "name": "Kosi Thompson",
+          "status": "부상",
+          "detail": "Mid September 2026"
+        },
+        {
+          "name": "Zack Steffen",
+          "status": "어깨 부상",
+          "detail": "Late September 2026"
+        },
+        {
+          "name": "Mamadou Billo Diop",
+          "status": "무릎 부상",
+          "detail": "Early October 2026"
+        },
+        {
+          "name": "Theodore Ku-DiPietro",
+          "status": "어깨 부상",
+          "detail": "Late September 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Paul Rothrock",
+          "status": "햄스트링 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Pedro De la Vega",
+          "status": "엉덩이 부상",
+          "detail": "Out for season"
+        },
+        {
+          "name": "Jesús Ferreira",
+          "status": "햄스트링 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Nikola Petković",
+          "status": "무릎 부상",
+          "detail": "Unknown"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-02-23T02:15:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-07-17T02:15:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 3,
+        "awayScore": 3
+      },
+      {
+        "date": "2025-04-27T01:30:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-10-06T01:30:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-03-16T20:00:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-09-21T01:30:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2023-02-27T01:00:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-07-24T02:00:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-05-23T00:00:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-10-21T01:00:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-10-04T02:00:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-07-05T01:00:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2020-11-02T02:00:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-09-08T01:10:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-03-10T03:10:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-09-29T20:10:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-07-05T01:05:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-10-22T20:20:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-07-05T01:10:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2016-11-27T21:20:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-11-23T03:35:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-05-22T02:05:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-04-24T01:10:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-07-19T02:10:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-05-28T02:05:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-04-19T01:05:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2014-10-05T19:05:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 4
+      },
+      {
+        "date": "2014-08-30T20:05:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-04-26T20:10:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-10-31T02:35:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2013-10-06T02:25:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-07-20T20:05:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2013-04-20T22:05:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-07-29T01:05:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2012-07-08T03:20:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-04-14T20:05:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-07-16T20:05:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 4,
+        "awayScore": 3
+      },
+      {
+        "date": "2011-04-23T01:35:00.000Z",
+        "home": "Colorado Rapids",
+        "away": "Seattle Sounders FC",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2010-07-26T02:30:00.000Z",
+        "home": "Seattle Sounders FC",
+        "away": "Colorado Rapids",
+        "homeScore": 2,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-30T01:30:00.000Z",
+          "home": "Colorado Rapids",
+          "away": "Real Salt Lake",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-05T23:30:00.000Z",
+          "home": "Columbus Crew",
+          "away": "Colorado Rapids",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-10T00:30:00.000Z",
+          "home": "Austin FC",
+          "away": "Colorado Rapids",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-13T01:30:00.000Z",
+          "home": "Colorado Rapids",
+          "away": "CF Montréal",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-17T01:30:00.000Z",
+          "home": "Colorado Rapids",
+          "away": "St. Louis City",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-20T01:30:00.000Z",
+          "home": "Seattle Sounders FC",
+          "away": "Austin FC",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-22T23:30:00.000Z",
+          "home": "FC Cincinnati",
+          "away": "Seattle Sounders FC",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-29T20:30:00.000Z",
+          "home": "Seattle Sounders FC",
+          "away": "Chicago Fire FC",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-06T00:30:00.000Z",
+          "home": "Seattle Sounders FC",
+          "away": "Red Bull New York",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-13T02:30:00.000Z",
+          "home": "LA Galaxy",
+          "away": "Seattle Sounders FC",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Nicholas Hansen (GK)|https://images.fotmob.com/image_resources/playerimages/1098753.png",
+        "Reggie Cannon (DF)|https://images.fotmob.com/image_resources/playerimages/825603.png",
+        "Rob Holding (DF)|https://images.fotmob.com/image_resources/playerimages/626667.png",
+        "Loïc Williams (DF)|https://images.fotmob.com/image_resources/playerimages/1280203.png",
+        "Miguel Navarro (DF)|https://images.fotmob.com/image_resources/playerimages/1048053.png",
+        "Donavan Phillip (FW)|https://images.fotmob.com/image_resources/playerimages/1786169.png",
+        "Hamzat Ojediran (MF)|https://images.fotmob.com/image_resources/playerimages/1442054.png",
+        "Wayne Frederick (MF)|https://images.fotmob.com/image_resources/playerimages/1610223.png",
+        "Morgan Whittaker (FW)|https://images.fotmob.com/image_resources/playerimages/1081288.png",
+        "Sayed Abu Farkhi (FW)|https://images.fotmob.com/image_resources/playerimages/1518943.png",
+        "Paxten Aaronson (MF)|https://images.fotmob.com/image_resources/playerimages/1171008.png"
+      ],
+      "away": [
+        "Andrew Thomas (GK)|https://images.fotmob.com/image_resources/playerimages/1268000.png",
+        "Kalani Rienzi (DF)|https://images.fotmob.com/image_resources/playerimages/1610334.png",
+        "Álex Roldán (DF)|https://images.fotmob.com/image_resources/playerimages/924391.png",
+        "Stuart Russell Hawkins (DF)|https://images.fotmob.com/image_resources/playerimages/1500405.png",
+        "Nouhou Tolo (DF)|https://images.fotmob.com/image_resources/playerimages/797551.png",
+        "Cristian Roldan (MF)|https://images.fotmob.com/image_resources/playerimages/621946.png",
+        "Hassani Dotson (MF)|https://images.fotmob.com/image_resources/playerimages/1026098.png",
+        "Peter Kingston (MF)|https://images.fotmob.com/image_resources/playerimages/1083216.png",
+        "Albert Rusnák (MF)|https://images.fotmob.com/image_resources/playerimages/484858.png",
+        "Jordan Morris (FW)|https://images.fotmob.com/image_resources/playerimages/578643.png",
+        "Dejan Joveljić (FW)|https://images.fotmob.com/image_resources/playerimages/749491.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Matt Wells|https://images.fotmob.com/image_resources/playerimages/1219412.png",
+      "away": "Brian Schmetzer|https://images.fotmob.com/image_resources/playerimages/772848.png"
     }
   },
   {
@@ -17283,31 +17283,31 @@
         "Ronald Hernández (DF)|https://images.fotmob.com/image_resources/playerimages/830156.png",
         "Finn Surman (DF)|https://images.fotmob.com/image_resources/playerimages/1325761.png",
         "Joel Waterman (DF)|https://images.fotmob.com/image_resources/playerimages/1100258.png",
-        "Ian Smith (DF)|https://images.fotmob.com/image_resources/playerimages/1715234.png",
-        "Joao Ortiz (MF)|https://images.fotmob.com/image_resources/playerimages/950372.png",
+        "Jimer Fory (DF)|https://images.fotmob.com/image_resources/playerimages/1200658.png",
+        "David Da Costa (MF)|https://images.fotmob.com/image_resources/playerimages/1138769.png",
         "Diego Chará (MF)|https://images.fotmob.com/image_resources/playerimages/50336.png",
         "Cole Bassett (MF)|https://images.fotmob.com/image_resources/playerimages/955472.png",
+        "Ariel Lassiter (FW)|https://images.fotmob.com/image_resources/playerimages/564832.png",
         "Antony (FW)|https://images.fotmob.com/image_resources/playerimages/1248736.png",
-        "Omir Fernandez (FW)|https://images.fotmob.com/image_resources/playerimages/1024172.png",
         "Kristoffer Velde (FW)|https://images.fotmob.com/image_resources/playerimages/837731.png"
       ],
       "away": [
         "Lucas Hoyos (GK)|https://images.fotmob.com/image_resources/playerimages/113620.png",
         "Tomás Jacob (DF)|https://images.fotmob.com/image_resources/playerimages/1308412.png",
-        "Enea Mihaj (DF)|https://images.fotmob.com/image_resources/playerimages/784876.png",
+        "Paulo Díaz (DF)|https://images.fotmob.com/image_resources/playerimages/447556.png",
         "Júnior Alonso (DF)|https://images.fotmob.com/image_resources/playerimages/466214.png",
         "Elías Báez (DF)|https://images.fotmob.com/image_resources/playerimages/1513339.png",
-        "Cooper Sanchez (MF)|https://images.fotmob.com/image_resources/playerimages/1732500.png",
         "Mauricio Amaro (MF)|https://images.fotmob.com/image_resources/playerimages/1437531.png",
-        "Ajani Fortune (MF)|https://images.fotmob.com/image_resources/playerimages/1170743.png",
+        "Tristan Muyumba (MF)|https://images.fotmob.com/image_resources/playerimages/769928.png",
+        "Giuliano Galoppo (MF)|https://images.fotmob.com/image_resources/playerimages/921603.png",
         "Aleksey Miranchuk (FW)|https://images.fotmob.com/image_resources/playerimages/442581.png",
-        "Breel Embolo (FW)|https://images.fotmob.com/image_resources/playerimages/527103.png",
-        "Miguel Almirón (FW)|https://images.fotmob.com/image_resources/playerimages/442277.png"
+        "Miguel Almirón (FW)|https://images.fotmob.com/image_resources/playerimages/442277.png",
+        "Breel Embolo (FW)|https://images.fotmob.com/image_resources/playerimages/527103.png"
       ]
     },
     "formation": {
       "home": "4-3-3",
-      "away": "4-3-3"
+      "away": "4-2-3-1"
     },
     "coach": {
       "home": "Martí Cifuentes|https://images.fotmob.com/image_resources/playerimages/944184.png",
@@ -18326,14 +18326,14 @@
       "home": [
         "David de Gea (GK)|https://images.fotmob.com/image_resources/playerimages/182917.png",
         "Álex Jiménez (DF)|https://images.fotmob.com/image_resources/playerimages/1526689.png",
-        "Marin Pongračić (DF)|https://images.fotmob.com/image_resources/playerimages/831474.png",
+        "Radu Drăgușin (DF)|https://images.fotmob.com/image_resources/playerimages/1203661.png",
         "Luca Ranieri (DF)|https://images.fotmob.com/image_resources/playerimages/935406.png",
         "Viery (DF)|https://images.fotmob.com/image_resources/playerimages/1501917.png",
         "Nicolò Fagioli (MF)|https://images.fotmob.com/image_resources/playerimages/951712.png",
         "Cher Ndour (MF)|https://images.fotmob.com/image_resources/playerimages/1246009.png",
         "Arthur Atta (MF)|https://images.fotmob.com/image_resources/playerimages/1428426.png",
         "Franco Mastantuono (FW)|https://images.fotmob.com/image_resources/playerimages/1607566.png",
-        "Beto (FW)|https://images.fotmob.com/image_resources/playerimages/1079485.png",
+        "Mateo Pellegrino (FW)|https://images.fotmob.com/image_resources/playerimages/1224237.png",
         "Alieu Njie (MF)|https://images.fotmob.com/image_resources/playerimages/1607014.png"
       ],
       "away": [
@@ -18817,7 +18817,7 @@
         "Justin Bijlow (GK)|https://images.fotmob.com/image_resources/playerimages/721533.png",
         "Alessandro Marcandalli (DF)|https://images.fotmob.com/image_resources/playerimages/1436436.png",
         "Leo Østigard (DF)|https://images.fotmob.com/image_resources/playerimages/740944.png",
-        "Mario Mitaj (DF)|https://images.fotmob.com/image_resources/playerimages/1184458.png",
+        "David Puczka (DF)|https://images.fotmob.com/image_resources/playerimages/1405996.png",
         "Kingsley Ehizibue (MF)|https://images.fotmob.com/image_resources/playerimages/586474.png",
         "Tommaso Baldanzi (MF)|https://images.fotmob.com/image_resources/playerimages/1200591.png",
         "Morten Frendrup (MF)|https://images.fotmob.com/image_resources/playerimages/921543.png",
@@ -20280,6 +20280,11 @@
       ],
       "away": [
         {
+          "name": "Adamo Nagalo",
+          "status": "부상",
+          "detail": "Out for season"
+        },
+        {
           "name": "Jerdy Schouten",
           "status": "부상",
           "detail": "Day to day"
@@ -21352,38 +21357,38 @@
     },
     "lineup": {
       "home": [
-        "Kim Yu-Sung (GK)|https://images.fotmob.com/image_resources/playerimages/1613225.png",
-        "Choi Jae-Hyeok (DF)|https://images.fotmob.com/image_resources/playerimages/2143654.png",
-        "Ko Eun-Seok (DF)|https://images.fotmob.com/image_resources/playerimages/2189469.png",
-        "Kang Seong-Yun (DF)|https://images.fotmob.com/image_resources/playerimages/1613076.png",
-        "Lee Hyo-Bin (DF)|https://images.fotmob.com/image_resources/playerimages/1903069.png",
-        "Lee Yong-Jae (MF)|https://images.fotmob.com/image_resources/playerimages/1909022.png",
-        "Kim Tae-Hwan (MF)|https://images.fotmob.com/image_resources/playerimages/1712402.png",
-        "Kang Yun-Gu (FW)|https://images.fotmob.com/image_resources/playerimages/1228525.png",
-        "Choe Ji-Nam (MF)|https://images.fotmob.com/image_resources/playerimages/1909023.png",
-        "Cho Won-Woo (FW)|https://images.fotmob.com/image_resources/playerimages/1909018.png",
-        "Yoo Byung-Heon (FW)|https://images.fotmob.com/image_resources/playerimages/1712401.png"
+        "Chung-Hyo Park (GK)|https://images.fotmob.com/image_resources/playerimages/468156.png",
+        "You-Hyeon Lee (MF)|https://images.fotmob.com/image_resources/playerimages/828059.png",
+        "Ho-Young Park (DF)|https://images.fotmob.com/image_resources/playerimages/947759.png",
+        "Seong-Yun Kang (DF)|https://images.fotmob.com/image_resources/playerimages/1613076.png",
+        "Chul Hong (DF)|https://images.fotmob.com/image_resources/playerimages/195840.png",
+        "Jae-Hyeon Mo (MF)|https://images.fotmob.com/image_resources/playerimages/828381.png",
+        "Dong-Hyun Kim (MF)|https://images.fotmob.com/image_resources/playerimages/926371.png",
+        "Min-Woo Seo (MF)|https://images.fotmob.com/image_resources/playerimages/1135942.png",
+        "Do-Hyun Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1429678.png",
+        "Gun-Hee Kim (FW)|https://images.fotmob.com/image_resources/playerimages/727423.png",
+        "Jesse Sekidika (MF)|https://images.fotmob.com/image_resources/playerimages/881709.png"
       ],
       "away": [
         "Dong-Jun Kim (GK)|https://images.fotmob.com/image_resources/playerimages/533182.png",
-        "Min-Jae Park (DF)|https://images.fotmob.com/image_resources/playerimages/1910260.png",
-        "Tobias Figueiredo (DF)|https://images.fotmob.com/image_resources/playerimages/361326.png",
-        "Julien Célestine (DF)|https://images.fotmob.com/image_resources/playerimages/862643.png",
         "In-Soo Yu (DF)|https://images.fotmob.com/image_resources/playerimages/727421.png",
-        "Su-Bin Park (MF)|https://images.fotmob.com/image_resources/playerimages/1735635.png",
+        "Tobias Figueiredo (DF)|https://images.fotmob.com/image_resources/playerimages/361326.png",
+        "Jae-Woo Kim (DF)|https://images.fotmob.com/image_resources/playerimages/796256.png",
+        "Woon Jeong (DF)|https://images.fotmob.com/image_resources/playerimages/430453.png",
+        "Byung-Wook Choi (MF)|https://images.fotmob.com/image_resources/playerimages/1714798.png",
         "Italo (MF)|https://images.fotmob.com/image_resources/playerimages/1532009.png",
         "Min-Kyu Jang (MF)|https://images.fotmob.com/image_resources/playerimages/1134744.png",
-        "Sang-Eun Shin (FW)|https://images.fotmob.com/image_resources/playerimages/1232941.png",
-        "Eraldo Çinari (FW)|https://images.fotmob.com/image_resources/playerimages/956239.png",
-        "Matheus Aiás (FW)|https://images.fotmob.com/image_resources/playerimages/673606.png"
+        "Su-Bin Park (MF)|https://images.fotmob.com/image_resources/playerimages/1735635.png",
+        "Negueba (FW)|https://images.fotmob.com/image_resources/playerimages/1280914.png",
+        "Shin-Jin Kim (FW)|https://images.fotmob.com/image_resources/playerimages/1337099.png"
       ]
     },
     "formation": {
-      "home": "4-2-3-1",
+      "home": "4-4-2",
       "away": "4-4-2"
     },
     "coach": {
-      "home": "Chung Kyeong-Ho|https://images.fotmob.com/image_resources/playerimages/31093.png",
+      "home": "Kyung-Ho Chung|https://images.fotmob.com/image_resources/playerimages/31093.png",
       "away": "Sérgio Costa|https://images.fotmob.com/image_resources/playerimages/1423820.png"
     }
   },
@@ -21715,29 +21720,29 @@
     "lineup": {
       "home": [
         "Bum-Keun Song (GK)|https://images.fotmob.com/image_resources/playerimages/848068.png",
-        "Wi-Je Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1326507.png",
-        "Dong-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/828272.png",
-        "Tiago Orobó (FW)|https://images.fotmob.com/image_resources/playerimages/1173651.png",
-        "Seung-Woo Lee (FW)|https://images.fotmob.com/image_resources/playerimages/848098.png",
-        "João Gamboa (MF)|https://images.fotmob.com/image_resources/playerimages/632709.png",
-        "Tae-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/252178.png",
-        "Yeong-Jae Lee (MF)|https://images.fotmob.com/image_resources/playerimages/622993.png",
-        "Young-Bin Kim (DF)|https://images.fotmob.com/image_resources/playerimages/623910.png",
         "Tae-Hyun Kim (DF)|https://images.fotmob.com/image_resources/playerimages/947492.png",
-        "Jin-Gyu Kim (MF)|https://images.fotmob.com/image_resources/playerimages/622980.png"
+        "Wi-Je Cho (DF)|https://images.fotmob.com/image_resources/playerimages/1326507.png",
+        "Young-Bin Kim (DF)|https://images.fotmob.com/image_resources/playerimages/623910.png",
+        "Tae-Hwan Kim (DF)|https://images.fotmob.com/image_resources/playerimages/252178.png",
+        "João Gamboa (MF)|https://images.fotmob.com/image_resources/playerimages/632709.png",
+        "Jin-Gyu Kim (MF)|https://images.fotmob.com/image_resources/playerimages/622980.png",
+        "Dong-Jun Lee (FW)|https://images.fotmob.com/image_resources/playerimages/828272.png",
+        "Yeong-Jae Lee (MF)|https://images.fotmob.com/image_resources/playerimages/622993.png",
+        "Seung-Woo Lee (FW)|https://images.fotmob.com/image_resources/playerimages/848098.png",
+        "Tiago Orobó (FW)|https://images.fotmob.com/image_resources/playerimages/1173651.png"
       ],
       "away": [
         "Dong-Hwa Kim (GK)|https://images.fotmob.com/image_resources/playerimages/1711655.png",
-        "Seong-Yun Kwon (DF)|https://images.fotmob.com/image_resources/playerimages/1135926.png",
+        "Min-Gi Lee (DF)|https://images.fotmob.com/image_resources/playerimages/730782.png",
         "Sang-Ki Min (DF)|https://images.fotmob.com/image_resources/playerimages/264065.png",
         "Seok-Hwan Jang (DF)|https://images.fotmob.com/image_resources/playerimages/1440077.png",
         "João Pedro (DF)|https://images.fotmob.com/image_resources/playerimages/1320963.png",
-        "Chang-Moo Sin (MF)|https://images.fotmob.com/image_resources/playerimages/623019.png",
-        "Kyoung-Rok Choi (MF)|https://images.fotmob.com/image_resources/playerimages/520978.png",
-        "Yong-Jik Ri (MF)|https://images.fotmob.com/image_resources/playerimages/431899.png",
-        "Seung-Un Ha (DF)|https://images.fotmob.com/image_resources/playerimages/848101.png",
         "Adriel Ba Loua (FW)|https://images.fotmob.com/image_resources/playerimages/768613.png",
-        "John Iredale (FW)|https://images.fotmob.com/image_resources/playerimages/860921.png"
+        "Kyoung-Rok Choi (MF)|https://images.fotmob.com/image_resources/playerimages/520978.png",
+        "Je-Ho Yu (MF)|https://images.fotmob.com/image_resources/playerimages/1337196.png",
+        "Seung-Un Ha (DF)|https://images.fotmob.com/image_resources/playerimages/848101.png",
+        "Hólmbert Fridjónsson (FW)|https://images.fotmob.com/image_resources/playerimages/275997.png",
+        "Chang-Moo Sin (MF)|https://images.fotmob.com/image_resources/playerimages/623019.png"
       ]
     },
     "formation": {
@@ -24723,9 +24728,14 @@
           "detail": "Mid October 2026"
         },
         {
+          "name": "Mats Seiler",
+          "status": "부상",
+          "detail": "Unknown"
+        },
+        {
           "name": "Marc Gutbub",
           "status": "충돌 부상",
-          "detail": "Doubtful"
+          "detail": "Unknown"
         },
         {
           "name": "Genís Montolio",
@@ -25133,11 +25143,6 @@
           "name": "Lukas Görtler",
           "status": "어깨 부상",
           "detail": "A few weeks"
-        },
-        {
-          "name": "Cyrill May",
-          "status": "충돌 부상",
-          "detail": "About a week"
         },
         {
           "name": "Malamine Efekele",
@@ -25754,11 +25759,6 @@
           "detail": "Early October 2026"
         },
         {
-          "name": "David von Ballmoos",
-          "status": "다리 부상",
-          "detail": "Doubtful"
-        },
-        {
           "name": "Renato Steffen",
           "status": "충돌 부상",
           "detail": "Unknown"
@@ -25771,7 +25771,7 @@
         {
           "name": "Martim Marques",
           "status": "충돌 부상",
-          "detail": "A few weeks"
+          "detail": "Doubtful"
         },
         {
           "name": "Claudio Cassano",
@@ -26292,35 +26292,35 @@
     },
     "lineup": {
       "home": [
-        "Lee Seung-Bin (GK)|https://images.fotmob.com/image_resources/playerimages/433077.png",
+        "Kim Do-Dam (GK)|https://images.fotmob.com/image_resources/playerimages/1039703.png",
         "Lee Hyo-Jun (DF)|https://images.fotmob.com/image_resources/playerimages/2001679.png",
         "Cho Ji-Hun (DF)|https://images.fotmob.com/image_resources/playerimages/255228.png",
         "Yeon Eung-Bin (DF)|https://images.fotmob.com/image_resources/playerimages/1836890.png",
-        "Kang Dong-Hyun (MF)|https://images.fotmob.com/image_resources/playerimages/1970966.png",
+        "Rim Ji-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1613068.png",
         "Park Kyu-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1337177.png",
-        "Kim Jung-Hyun (MF)|https://images.fotmob.com/image_resources/playerimages/1544152.png",
         "Jang Hyun-Soo (MF)|https://images.fotmob.com/image_resources/playerimages/622139.png",
         "Marlon Maranhão (FW)|https://images.fotmob.com/image_resources/playerimages/1533779.png",
-        "Gabriel Lima (FW)|https://images.fotmob.com/image_resources/playerimages/1408130.png",
-        "Kim In-Sung (FW)|https://images.fotmob.com/image_resources/playerimages/306233.png"
+        "Kim Jung-Hyun (MF)|https://images.fotmob.com/image_resources/playerimages/1544152.png",
+        "Kim In-Sung (FW)|https://images.fotmob.com/image_resources/playerimages/306233.png",
+        "Gabriel Lima (FW)|https://images.fotmob.com/image_resources/playerimages/1408130.png"
       ],
       "away": [
         "Cho Seong-Been (GK)|https://images.fotmob.com/image_resources/playerimages/1326603.png",
-        "Bandeira (DF)|https://images.fotmob.com/image_resources/playerimages/1177746.png",
+        "Bak Keon-Woo (DF)|https://images.fotmob.com/image_resources/playerimages/1337179.png",
         "Jo Ju-Yeong (DF)|https://images.fotmob.com/image_resources/playerimages/730786.png",
         "Jo Yun-Seong (DF)|https://images.fotmob.com/image_resources/playerimages/1135941.png",
-        "Bak Keon-Woo (DF)|https://images.fotmob.com/image_resources/playerimages/1337179.png",
+        "Bandeira (DF)|https://images.fotmob.com/image_resources/playerimages/1177746.png",
         "Kim Seon-Min (MF)|https://images.fotmob.com/image_resources/playerimages/523742.png",
-        "Yang Young-Been (FW)|https://images.fotmob.com/image_resources/playerimages/1836695.png",
         "Francisco Geraldes (MF)|https://images.fotmob.com/image_resources/playerimages/522640.png",
-        "Lee Dong-Won (MF)|https://images.fotmob.com/image_resources/playerimages/1486606.png",
+        "Jeong Jin-Woo (MF)|https://images.fotmob.com/image_resources/playerimages/1439994.png",
+        "Ménder García (FW)|https://images.fotmob.com/image_resources/playerimages/1024479.png",
         "Lee Jong-Eon (FW)|https://images.fotmob.com/image_resources/playerimages/1562975.png",
-        "Ménder García (FW)|https://images.fotmob.com/image_resources/playerimages/1024479.png"
+        "Seo Jae-Won (FW)|https://images.fotmob.com/image_resources/playerimages/1326550.png"
       ]
     },
     "formation": {
-      "home": "3-4-3",
-      "away": "4-1-4-1"
+      "home": "3-3-3-1",
+      "away": "4-3-3"
     },
     "coach": {
       "home": "Choi Moon-Shik",
@@ -26423,35 +26423,35 @@
     },
     "lineup": {
       "home": [
-        "Hwang Sung-Min (GK)|https://images.fotmob.com/image_resources/playerimages/654194.png",
+        "Roh Hee-Dong (GK)|https://images.fotmob.com/image_resources/playerimages/1440164.png",
         "Kim Hyeon-Jun (DF)|https://images.fotmob.com/image_resources/playerimages/1613071.png",
         "Kwak Yun-Ho (DF)|https://images.fotmob.com/image_resources/playerimages/1232252.png",
         "Kang Sin-Myeong (DF)|https://images.fotmob.com/image_resources/playerimages/1136254.png",
         "Kim Han-Gil (DF)|https://images.fotmob.com/image_resources/playerimages/827266.png",
-        "Vitinho (MF)|https://images.fotmob.com/image_resources/playerimages/1080882.png",
-        "Kim Jin-Ho (MF)|https://images.fotmob.com/image_resources/playerimages/1714796.png",
         "Choi Young-Jun (MF)|https://images.fotmob.com/image_resources/playerimages/252615.png",
         "Kim Han-Seo (MF)|https://images.fotmob.com/image_resources/playerimages/1616667.png",
+        "Vitinho (FW)|https://images.fotmob.com/image_resources/playerimages/1080882.png",
         "Jin Tae-Ho (MF)|https://images.fotmob.com/image_resources/playerimages/1682408.png",
+        "Kim Jin-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/1714796.png",
         "Gabriel Tigrão (FW)|https://images.fotmob.com/image_resources/playerimages/1350400.png"
       ],
       "away": [
         "Lee Ki-Hyun (GK)|https://images.fotmob.com/image_resources/playerimages/654172.png",
+        "Kwon Gi-Pyo (DF)|https://images.fotmob.com/image_resources/playerimages/925538.png",
         "Lucão (DF)|https://images.fotmob.com/image_resources/playerimages/1311921.png",
-        "Kim Hyeong-Won (DF)|https://images.fotmob.com/image_resources/playerimages/1136227.png",
         "Jung Hyun-Wook (DF)|https://images.fotmob.com/image_resources/playerimages/1831648.png",
         "Yun Il-Lok (DF)|https://images.fotmob.com/image_resources/playerimages/252614.png",
-        "Kwon Gi-Pyo (DF)|https://images.fotmob.com/image_resources/playerimages/925538.png",
-        "Cho Sang-Jun (MF)|https://images.fotmob.com/image_resources/playerimages/1232265.png",
         "Kim Jung-Hyeon (MF)|https://images.fotmob.com/image_resources/playerimages/1329017.png",
+        "Kim Hyeong-Won (MF)|https://images.fotmob.com/image_resources/playerimages/1136227.png",
         "Kim Ha-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1836935.png",
-        "Chigozie Emmanuel Mbah (MF)|https://images.fotmob.com/image_resources/playerimages/727896.png",
-        "Kim Hyeon-Oh (FW)|https://images.fotmob.com/image_resources/playerimages/1751268.png"
+        "Chigozie Emmanuel Mbah (FW)|https://images.fotmob.com/image_resources/playerimages/727896.png",
+        "Kim Hyeon-Oh (FW)|https://images.fotmob.com/image_resources/playerimages/1751268.png",
+        "Cho Sang-Jun (FW)|https://images.fotmob.com/image_resources/playerimages/1232265.png"
       ]
     },
     "formation": {
-      "home": "4-5-1",
-      "away": "5-4-1"
+      "home": "4-2-3-1",
+      "away": "4-3-3"
     },
     "coach": {
       "home": "Choi Yun-Kyum|https://images.fotmob.com/image_resources/playerimages/504112.png",
@@ -27912,7 +27912,7 @@
         "Diogo Dalot (DF)|https://images.fotmob.com/image_resources/playerimages/751550.png",
         "Harry Maguire (DF)|https://images.fotmob.com/image_resources/playerimages/255610.png",
         "Lisandro Martínez (DF)|https://images.fotmob.com/image_resources/playerimages/847983.png",
-        "Patrick Dorgu (FW)|https://images.fotmob.com/image_resources/playerimages/1526560.png",
+        "Noussair Mazraoui (DF)|https://images.fotmob.com/image_resources/playerimages/775539.png",
         "Youri Tielemans (MF)|https://images.fotmob.com/image_resources/playerimages/465960.png",
         "Kobbie Mainoo (MF)|https://images.fotmob.com/image_resources/playerimages/1292810.png",
         "Bryan Mbeumo (FW)|https://images.fotmob.com/image_resources/playerimages/923312.png",
@@ -30306,6 +30306,11 @@
       ],
       "away": [
         {
+          "name": "Odilon Kossounou",
+          "status": "허벅지 부상",
+          "detail": "Early October 2026"
+        },
+        {
           "name": "Isak Hien",
           "status": "햄스트링 부상",
           "detail": "Early October 2026"
@@ -30682,7 +30687,7 @@
         "Gleison Bremer (DF)|https://images.fotmob.com/image_resources/playerimages/857269.png",
         "Jhon Lucumí (DF)|https://images.fotmob.com/image_resources/playerimages/860913.png",
         "Weston McKennie (MF)|https://images.fotmob.com/image_resources/playerimages/848266.png",
-        "Teun Koopmeiners (MF)|https://images.fotmob.com/image_resources/playerimages/866516.png",
+        "Pape Sarr (MF)|https://images.fotmob.com/image_resources/playerimages/1107280.png",
         "Douglas Luiz (MF)|https://images.fotmob.com/image_resources/playerimages/787350.png",
         "Zeki Çelik (MF)|https://images.fotmob.com/image_resources/playerimages/867225.png",
         "Francisco Conceição (FW)|https://images.fotmob.com/image_resources/playerimages/1185336.png",
@@ -30692,7 +30697,7 @@
       "away": [
         "Marco Carnesecchi (GK)|https://images.fotmob.com/image_resources/playerimages/1013021.png",
         "Raoul Bellanova (MF)|https://images.fotmob.com/image_resources/playerimages/902651.png",
-        "Odilon Kossounou (DF)|https://images.fotmob.com/image_resources/playerimages/1014496.png",
+        "Thomas Kristensen (DF)|https://images.fotmob.com/image_resources/playerimages/1190029.png",
         "Giorgio Scalvini (DF)|https://images.fotmob.com/image_resources/playerimages/1202358.png",
         "Sead Kolašinac (DF)|https://images.fotmob.com/image_resources/playerimages/304345.png",
         "Franck Kessié (MF)|https://images.fotmob.com/image_resources/playerimages/579747.png",
@@ -30928,10 +30933,10 @@
         "Strahinja Pavlović (DF)|https://images.fotmob.com/image_resources/playerimages/1048023.png",
         "Samuel Chukwueze (FW)|https://images.fotmob.com/image_resources/playerimages/688300.png",
         "Luka Modrić (MF)|https://images.fotmob.com/image_resources/playerimages/31097.png",
-        "Ardon Jashari (MF)|https://images.fotmob.com/image_resources/playerimages/1163219.png",
-        "Diego Moreira (FW)|https://images.fotmob.com/image_resources/playerimages/1342754.png",
         "Adrien Rabiot (MF)|https://images.fotmob.com/image_resources/playerimages/352879.png",
+        "Pervis Estupinán (MF)|https://images.fotmob.com/image_resources/playerimages/688278.png",
         "Christian Pulisic (FW)|https://images.fotmob.com/image_resources/playerimages/688295.png",
+        "Alexis Saelemaekers (MF)|https://images.fotmob.com/image_resources/playerimages/921341.png",
         "Gonçalo Ramos (FW)|https://images.fotmob.com/image_resources/playerimages/940087.png"
       ],
       "away": [
@@ -30941,8 +30946,8 @@
         "Tiago Gabriel (DF)|https://images.fotmob.com/image_resources/playerimages/1574492.png",
         "Antonino Gallo (DF)|https://images.fotmob.com/image_resources/playerimages/879065.png",
         "Lassana Coulibaly (MF)|https://images.fotmob.com/image_resources/playerimages/664587.png",
-        "Youssef Maleh (MF)|https://images.fotmob.com/image_resources/playerimages/789243.png",
         "Ivan Ilić (MF)|https://images.fotmob.com/image_resources/playerimages/1036182.png",
+        "Oumar Ngom (MF)|https://images.fotmob.com/image_resources/playerimages/1332538.png",
         "Santiago Pierotti (FW)|https://images.fotmob.com/image_resources/playerimages/1039403.png",
         "Nikola Štulić (FW)|https://images.fotmob.com/image_resources/playerimages/1178314.png",
         "Joël Monteiro (FW)|https://images.fotmob.com/image_resources/playerimages/1187691.png"
