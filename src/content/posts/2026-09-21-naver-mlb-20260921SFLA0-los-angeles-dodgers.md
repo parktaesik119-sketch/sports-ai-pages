@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.19","home":"LA 다저스","away":"샌프란시스�
 injuryHome: "Gavin Stone (염증)|Jake Cousins (수술)|Dalton Rushing (통증)|Andy Pages (골절)|Ben Casparius (염증)"
 injuryAway: "JT Brubaker (타박상)|Matt Gage (염좌)|Bryce Eldridge (열상)|Marcelo Mayer (골절)|Willy Adames (염좌)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 L. Roupp (9-14, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

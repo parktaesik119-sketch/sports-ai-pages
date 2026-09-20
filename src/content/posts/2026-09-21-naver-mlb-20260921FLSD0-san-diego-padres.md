@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.19","home":"샌디에이고 파드리스","away":"�
 awayRecent: '[{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"},{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"},{"date":"26.09.14","home":"마이애미 말린스","away":"LA 다저스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914LAFL0-2026-09-14-miami-marlins/"}]'
 injuryHome: "Jason Adam (60일 부상자 명단 - 염좌)|Miguel Andujar (10일 부상자 명단 - 골절)|Gavin Sheets (10일 부상자 명단 - 염좌)|Jeremiah Estrada (15일 부상자 명단 - 신경 압박)|Lucas Giolito (60일 부상자 명단 - 염증)"
 injuryAway: "Owen Caissie (10일 부상자 명단 - 골절)|Anthony Bender (15일 부상자 명단 - 골절)|Max Meyer (15일 부상자 명단 - 염좌)|Ronny Henriquez (60일 부상자 명단 - 수술)|Adam Mazur (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 W. Buehler (8-6, 4.58) ERA 4.58|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
+awayLineup: "[\"선발투수 S. Alcantara (13-10, 3.84) ERA 3.84|https://a.espncdn.com/i/headshots/mlb/players/full/35241.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"탬파베이 레이스","away":"보스�
 awayRecent: '[{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918BOTE0-2026-09-18-texas-rangers/"},{"date":"26.09.17","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BOTE0-2026-09-17-texas-rangers/"},{"date":"26.09.16","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916BOTE0-2026-09-16-texas-rangers/"}]'
 injuryHome: "Ben Williamson (근육 염좌)|Manuel Rodriguez (근육 염좌)|Edwin Uceta (근육 염좌)|Jonathan Heasley (골절)|Garrett Cleavinger (통증)"
 injuryAway: "Tyron Guerrero (염증)|Willson Contreras (타박상)|Tanner Houck (수술)|Aroldis Chapman (통증)|Johan Oviedo (근육 염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Jax (7-10, 3.80) ERA 3.80|https://a.espncdn.com/i/headshots/mlb/players/full/42604.png\"]"
+awayLineup: "[\"선발투수 P. Sandoval (1-6, 4.99) ERA 4.99|https://a.espncdn.com/i/headshots/mlb/players/full/40975.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

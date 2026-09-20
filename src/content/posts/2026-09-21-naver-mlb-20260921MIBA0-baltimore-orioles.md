@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀�
 awayRecent: '[{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MIBA0-2026-09-20-baltimore-orioles/"},{"date":"26.09.19","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MIBA0-2026-09-19-baltimore-orioles/"},{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MIPI0-2026-09-18-pittsburgh-pirates/"},{"date":"26.09.17","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917MIPI0-2026-09-17-pittsburgh-pirates/"},{"date":"26.09.16","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916MIPI0-2026-09-16-pittsburgh-pirates/"}]'
 injuryHome: "Blaze Alexander (통증)|Shane Baz (일일 관찰)|Ryan Mountcastle (염좌)|Luis Robert Jr. (통증)|Jackson Holliday (염증)"
 injuryAway: "Bryse Wilson (염좌)|Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Young (9-4, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
+awayLineup: "[\"선발투수 J. Misiorowski (15-5, 1.89) ERA 1.89|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

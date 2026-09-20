@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"시카고 화이트삭스","away":"디�
 awayRecent: '[{"date":"26.09.20","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920DECW0-2026-09-20-chicago-white-sox/"},{"date":"26.09.19","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919DECW0-2026-09-19-chicago-white-sox/"},{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"},{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"}]'
 injuryHome: "Huascar Brazoban (Strain)|Joey Bart (Fracture)|Tanner Murray (Surgery)|Tristan Peters (Bruise)|Prelander Berroa (Surgery)"
 injuryAway: "Burch Smith (Inflammation)|Parker Meadows (Surgery)|Kerry Carpenter (Plantar Fasciitis)|Jack Flaherty (Inflammation)|Justin Verlander (Strain)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Martin (9-7, 3.96) ERA 3.96|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
+awayLineup: "[\"선발투수 T. Melton (8-4, 2.52) ERA 2.52|https://a.espncdn.com/i/headshots/mlb/players/full/5294127.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.20","home":"텍사스 레인저스","away":"토론�
 awayRecent: '[{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"},{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"},{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"},{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"}]'
 injuryHome: "Kyle Higashioka (근육 긴장)|Peyton Gray (염증)|Carter Baumler (근육 긴장)|Jose Corniell (근육 긴장)|Joc Pederson (골절)"
 injuryAway: "Luis Urias (근육 긴장)|Trey Yesavage (수술)|Jonatan Clase (족저근막염)|Anthony Santander (수술)|Shane Bieber (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 J. deGrom (11-9, 3.79) ERA 3.79|https://a.espncdn.com/i/headshots/mlb/players/full/32796.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

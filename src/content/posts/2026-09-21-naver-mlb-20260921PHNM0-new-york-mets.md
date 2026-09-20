@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"뉴욕 메츠","away":"필라델피아 
 awayRecent: '[{"date":"26.09.20","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920PHNM0-2026-09-20-new-york-mets/"},{"date":"26.09.19","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919PHNM0-2026-09-19-new-york-mets/"},{"date":"26.09.18","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918PHNM0-2026-09-18-new-york-mets/"},{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"},{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"}]'
 injuryHome: "Devin Williams (15일 부상자 명단 - 근육 경련)|Jared Young (7일 부상자 명단 - 뇌진탕)|Daniel Duarte (15일 부상자 명단 - 근육 경련)|Robert Stock (15일 부상자 명단)|Jorge Polanco (60일 부상자 명단 - 수술)"
 injuryAway: "Jonathan Bowlan (일상 관리 - 근육 경련)|Jesus Luzardo (15일 부상자 명단 - 염증)|Caleb Kilian (60일 부상자 명단 - 근육 경련)|Felix Reyes (60일 부상자 명단 - 골절)|Johan Rojas (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Tong (2-1, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/5214984.png\"]"
+awayLineup: "[\"선발투수 C. Sanchez (17-6, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

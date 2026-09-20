@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.19","home":"콜로라도 로키스","away":"시애�
 awayRecent: '[{"date":"26.09.19","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SECO0-2026-09-19-colorado-rockies/"},{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels/"},{"date":"26.09.16","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SEAN0-2026-09-16-los-angeles-angels/"},{"date":"26.09.15","home":"LA 에인절스","away":"시애틀 매리너스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SEAN0-2026-09-15-los-angeles-angels/"},{"date":"26.09.14","home":"애슬레틱스","away":"시애틀 매리너스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914SEOA0-2026-09-14-athletics/"}]'
 injuryHome: "Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)|Pierson Ohl (수술)"
 injuryAway: "Brendan Donovan (뇌진탕)|Brennen Davis (염좌)|Cole Wilcox (염좌)|Will Wilson (골절)|Emerson Hancock (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Freeland (4-10, 6.38) ERA 6.38|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
+awayLineup: "[\"선발투수 K. Anderson (1-2, 5.33) ERA 5.33|https://a.espncdn.com/i/headshots/mlb/players/full/5198748.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

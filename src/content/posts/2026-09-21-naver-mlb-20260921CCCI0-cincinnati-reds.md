@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"신시내티 레즈","away":"시카고 
 awayRecent: '[{"date":"26.09.20","home":"신시내티 레즈","away":"시카고 컵스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920CCCI0-2026-09-20-cincinnati-reds/"},{"date":"26.09.19","home":"신시내티 레즈","away":"시카고 컵스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919CCCI0-2026-09-19-cincinnati-reds/"},{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"},{"date":"26.09.16","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916ATCC0-2026-09-16-chicago-cubs/"},{"date":"26.09.15","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs/"}]'
 injuryHome: "Spencer Steer (60일 부상자 명단 - 염좌)|Julian Garcia (15일 부상자 명단 - 수술)|Michael Toglia (60일 부상자 명단 - 수술)|Blake Dunn (60일 부상자 명단 - 수술)|Hunter Greene (60일 부상자 명단 - 수술)"
 injuryAway: "Gavin Hollowell (15일 부상자 명단 - 염증)|Justin Steele (60일 부상자 명단 - 수술)|Phil Maton (60일 부상자 명단 - 염좌)|Hunter Harvey (60일 부상자 명단 - 골절)|Tyler Austin (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Lowder (6-11, 5.79) ERA 5.79|https://a.espncdn.com/i/headshots/mlb/players/full/4758873.png\"]"
+awayLineup: "[\"선발투수 D. Peterson (8-8, 5.11) ERA 5.11|https://a.espncdn.com/i/headshots/mlb/players/full/40921.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

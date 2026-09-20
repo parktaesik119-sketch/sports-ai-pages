@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"휴스턴 애스트로스","away":"애�
 awayRecent: '[{"date":"26.09.20","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920ATHO0-2026-09-20-houston-astros/"},{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"},{"date":"26.09.16","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916ATCC0-2026-09-16-chicago-cubs/"},{"date":"26.09.15","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs/"},{"date":"26.09.14","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"4-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914PHAT0-2026-09-14-atlanta-braves/"}]'
 injuryHome: "Mike Burrows (염증)|Steven Okert (염좌)|Enyel De Los Santos (건염)|Carlos Correa (수술)|Brandon Walter (수술)"
 injuryAway: "Robert Suarez (염증)|Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 H. Brown (6-3, 3.43) ERA 3.43|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
+awayLineup: "[\"선발투수 M. Perez (9-9, 3.07) ERA 3.07|https://a.espncdn.com/i/headshots/mlb/players/full/31098.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
