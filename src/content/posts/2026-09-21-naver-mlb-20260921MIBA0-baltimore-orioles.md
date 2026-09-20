@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀�
 injuryHome: "Blaze Alexander (통증)|Shane Baz (일일 관찰)|Ryan Mountcastle (염좌)|Luis Robert Jr. (통증)|Jackson Holliday (염증)"
 injuryAway: "Bryse Wilson (염좌)|Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)"
 homeLineup: "[\"선발투수 B. Young (9-4, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/4414339.png\"]"
-awayLineup: "[\"선발투수 J. Misiorowski (15-5, 1.89) ERA 1.89|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
+awayLineup: "[\"선발투수 J. Misiorowski (15-5, 1.89) ERA 1.89|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\",\"1번 J. Chourio (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917869.png\",\"2번 B. Turang (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/41179.png\",\"3번 W. Contreras (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39895.png\",\"4번 J. Bauers (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/35013.png\",\"5번 J. Ortiz (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42958.png\",\"6번 C. Yelich (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31283.png\",\"7번 C. Pratt (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/5149101.png\",\"8번 G. Mitchell (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4313442.png\",\"9번 S. Frelick (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4417795.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
