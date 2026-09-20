@@ -717,7 +717,9 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
   }).replace(/\. /g, '/').replace(/\./g, '');
 
       // 4. 로고 매칭
-  if (match.sport === "lol") {
+  // [수정] LOL뿐 아니라 하키(KHL 등 API가 로고를 안 내려주는 리그 대응)도
+  // 동일하게 ../public/logos 폴더의 로컬 PNG 파일을 확인하도록 확장.
+  if (match.sport === "lol" || match.sport === "hockey") {
   const homeFile = getSafeLogoName(match.home);
   const awayFile = getSafeLogoName(match.away);
 
@@ -731,6 +733,15 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
   match.awayLogo = fs.existsSync(awayPath)
     ? `/logos/${awayFile}.png`
     : '/images/wing-away.png';
+
+  // [추가] 로고 파일이 없을 때 정확히 어떤 파일명이 필요한지 로그로 남겨서
+  // 다음에 로고를 추가할 때 파일명을 바로 알 수 있게 함.
+  if (!fs.existsSync(homePath)) {
+    console.log(`⚠️ [로고없음] ${match.sport} 홈팀 "${match.home}" → 필요 파일명: ${homeFile}.png`);
+  }
+  if (!fs.existsSync(awayPath)) {
+    console.log(`⚠️ [로고없음] ${match.sport} 원정팀 "${match.away}" → 필요 파일명: ${awayFile}.png`);
+  }
 }
 
       // 5. 저장 경로 확인
