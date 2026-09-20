@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.19","home":"요미우리 자이언츠","away":"주�
 awayRecent: '[{"date":"26.09.19","home":"한신 타이거스","away":"히로시마 도요 카프","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919HIHS0-2026-09-19-hanshin-tigers/"},{"date":"26.09.18","home":"한신 타이거스","away":"히로시마 도요 카프","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260918HIHS0-2026-09-18-hanshin-tigers/"},{"date":"26.09.17","home":"한신 타이거스","away":"히로시마 도요 카프","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260917HIHS0-2026-09-17-hanshin-tigers/"},{"date":"26.09.15","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"4-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915HIYA0-2026-09-15-yakult-swallows/"},{"date":"26.09.14","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914HIYA0-2026-09-14-yakult-swallows/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Hiroto Takahashi (3-7, 2.87)|https://p.npb.jp/players_photo/2026/180/d/019_61265153.jpg\"]"
+awayLineup: "[\"선발투수 Yuta Saitoh (2-2, 4.08)|https://p.npb.jp/players_photo/2026/180/c/047_61765157.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
