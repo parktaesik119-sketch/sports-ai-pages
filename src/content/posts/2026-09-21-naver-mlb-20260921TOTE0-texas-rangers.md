@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.20","home":"텍사스 레인저스","away":"토론�
 injuryHome: "Kyle Higashioka (근육 긴장)|Peyton Gray (염증)|Carter Baumler (근육 긴장)|Jose Corniell (근육 긴장)|Joc Pederson (골절)"
 injuryAway: "Luis Urias (근육 긴장)|Trey Yesavage (수술)|Jonatan Clase (족저근막염)|Anthony Santander (수술)|Shane Bieber (염증)"
 homeLineup: "[\"선발투수 J. deGrom (11-9, 3.79) ERA 3.79|https://a.espncdn.com/i/headshots/mlb/players/full/32796.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Miles (6-2, 2.65) ERA 2.65|https://a.espncdn.com/i/headshots/mlb/players/full/4833671.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
