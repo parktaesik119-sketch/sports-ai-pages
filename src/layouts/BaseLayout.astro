@@ -44,7 +44,7 @@ const todaySchedulePath = `/schedule/${nowKST.toISOString().slice(0, 10)}/`;
     </script>
 
     <meta name="description" content={Astro.props.description ?? "픽천국 | 데이터기반 정밀한 스포츠분석 및 스포츠픽 정보"} />
-    <meta name="keywords" content="픽천국, 무료스포츠분석, 무료스포츠픽, 스포츠뉴스, 축구경기분석, 야구경기분석, 농구경기분석, 롤분석" />
+    <meta name="keywords" content="픽천국, 스포츠분석, 스포츠픽, 경기분석, 축구경기분석, 야구경기분석, 농구경기분석, 롤분석" />
 
     <link rel="canonical" href={Astro.url} />
 
@@ -166,12 +166,12 @@ const todaySchedulePath = `/schedule/${nowKST.toISOString().slice(0, 10)}/`;
     <!-- <a href="/sponsors/" class={`menu sponsor ${currentPath.startsWith('/sponsors') ? 'active' : ''}`}>제휴업체</a> -->
     <a href={todaySchedulePath} class={`menu schedule ${currentPath.startsWith('/schedule') ? 'active' : ''}`}>경기일정</a>
     <a href="/news/" class={`menu news ${currentPath.startsWith('/news') ? 'active' : ''}`}>스포츠뉴스</a>
-    <a href="/posts/soccer/" class={`menu soccer ${currentPath.includes('/soccer') ? 'active' : ''}`}>축구분석</a>
-    <a href="/posts/baseball/" class={`menu baseball ${currentPath.includes('/baseball') ? 'active' : ''}`}>야구분석</a>
-    <a href="/posts/basketball/" class={`menu basketball ${currentPath.includes('/basketball') ? 'active' : ''}`}>농구분석</a>
-    <a href="/posts/volleyball/" class={`menu volleyball ${currentPath.includes('/volleyball') ? 'active' : ''}`}>배구분석</a>
-    <a href="/posts/hockey/" class={`menu hockey ${currentPath.includes('/hockey') ? 'active' : ''}`}>하키분석</a>
-    <a href="/posts/lol/" class={`menu lol ${currentPath.includes('/lol') ? 'active' : ''}`}>LoL분석</a>
+    <a href="/posts/soccer/" class={`menu soccer ${currentPath.includes('/soccer') ? 'active' : ''}`}>축구경기분석</a>
+    <a href="/posts/baseball/" class={`menu baseball ${currentPath.includes('/baseball') ? 'active' : ''}`}>야구경기분석</a>
+    <a href="/posts/basketball/" class={`menu basketball ${currentPath.includes('/basketball') ? 'active' : ''}`}>농구경기분석</a>
+    <a href="/posts/volleyball/" class={`menu volleyball ${currentPath.includes('/volleyball') ? 'active' : ''}`}>배구경기분석</a>
+    <a href="/posts/hockey/" class={`menu hockey ${currentPath.includes('/hockey') ? 'active' : ''}`}>하키경기분석</a>
+    <a href="/posts/lol/" class={`menu lol ${currentPath.includes('/lol') ? 'active' : ''}`}>LoL경기분석</a>
 
     <!-- 🔥 사이드바(Sidebar.astro)와 동일한 라인업 업데이트 알림 배너 -->
     <div class="mobile-menu-banner-area">
