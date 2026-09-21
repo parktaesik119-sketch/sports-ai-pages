@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"시카고 화이트삭스","away":"디�
 awayRecent: '[{"date":"26.09.21","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals/"},{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"},{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"},{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"},{"date":"26.09.14","home":"워싱턴 내셔널스","away":"LA 에인절스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914ANMO0-2026-09-14-washington-nationals/"}]'
 injuryHome: "Burch Smith (염증)|Parker Meadows (수술)|Kerry Carpenter (족저근막염)|Jack Flaherty (염증)|Troy Melton (경미)"
 injuryAway: "DJ Herz (염좌)|Orlando Ribalta (염증)|PJ Poulin (염좌)|Connelly Early (염증)|Matt Waldron (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Ryan|https://a.espncdn.com/i/headshots/mlb/players/full/5007605.png\"]"
+awayLineup: "[\"선발투수 D. Herz|https://a.espncdn.com/i/headshots/mlb/players/full/4917686.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

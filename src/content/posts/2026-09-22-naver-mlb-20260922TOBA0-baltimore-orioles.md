@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀�
 awayRecent: '[{"date":"26.09.21","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921TOTE0-2026-09-21-texas-rangers/"},{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"},{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"},{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"}]'
 injuryHome: "Blaze Alexander (통증)|Ryan Mountcastle (염좌)|Luis Robert Jr. (통증)|Jackson Holliday (염증)|Tyler O'Neill (염좌)"
 injuryAway: "Jonatan Clase (족저근막염)|Luis Urias (염좌)|Vladimir Guerrero Jr. (통증)|Trey Yesavage (수술)|Anthony Santander (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Baz (6-15, 4.11) ERA 4.11|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
+awayLineup: "[\"선발투수 T. Yesavage (5-5, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/4949041.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

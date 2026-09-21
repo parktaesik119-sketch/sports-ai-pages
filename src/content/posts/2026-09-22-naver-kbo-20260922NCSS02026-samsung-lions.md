@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"롯데 자이언츠","away":"삼성 라
 awayRecent: '[{"date":"26.09.20","home":"NC 다이노스","away":"KIA 타이거즈","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920HTNC02026-2026-09-20-nc-dinos/"},{"date":"26.09.19","home":"NC 다이노스","away":"KIA 타이거즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919HTNC02026-2026-09-19-nc-dinos/"},{"date":"26.09.18","home":"롯데 자이언츠","away":"NC 다이노스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918NCLT02026-2026-09-18-lotte-giants/"},{"date":"26.09.17","home":"NC 다이노스","away":"SSG 랜더스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917SKNC02026-2026-09-17-nc-dinos/"},{"date":"26.09.16","home":"NC 다이노스","away":"LG 트윈스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916LGNC02026-2026-09-16-nc-dinos/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 류지혁 (2루수)\",\"2번 전병우 (3루수)\",\"3번 구자욱 (좌익수)\",\"4번 디아즈 (1루수)\",\"5번 최형우 (지명타자)\",\"6번 박승규 (중견수)\",\"7번 김성윤 (우익수)\",\"8번 김도환 (포수)\",\"9번 심재훈 (유격수)\"]"
+awayLineup: "[\"1번 최정원 (중견수)\",\"2번 권희동 (좌익수)\",\"3번 박민우 (2루수)\",\"4번 블레인 (1루수)\",\"5번 박건우 (지명타자)\",\"6번 김휘집 (유격수)\",\"7번 천재환 (우익수)\",\"8번 김형준 (포수)\",\"9번 신재인 (3루수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

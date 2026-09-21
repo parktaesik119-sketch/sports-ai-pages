@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스�
 awayRecent: '[{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"},{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"},{"date":"26.09.16","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins/"}]'
 injuryHome: "JT Brubaker (타박상)|Matt Gage (염좌)|Jung Hoo Lee (경미한 부상)|Bryce Eldridge (열상)|Marcelo Mayer (골절)"
 injuryAway: "Mike Paredes (염좌)|Mick Abel (수술)|Kaelen Culpepper (염좌)|Trevor Larnach (통증)|Byron Buxton (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Molina (3-1, 4.18) ERA 4.18|https://a.espncdn.com/i/headshots/mlb/players/full/5016983.png\"]"
+awayLineup: "[\"선발투수 T. Bradley (11-6, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/42480.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
