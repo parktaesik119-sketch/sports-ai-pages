@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"한신 타이거스","away":"요코하�
 awayRecent: '[{"date":"26.09.20","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920HIJN0-2026-09-20-chunichi-dragons/"},{"date":"26.09.19","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"14-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919JNYO0-2026-09-19-yomiuri-giants/"},{"date":"26.09.18","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260918JNYO0-2026-09-18-yomiuri-giants/"},{"date":"26.09.15","home":"한신 타이거스","away":"주니치 드래곤스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915JNHS0-2026-09-15-hanshin-tigers/"},{"date":"26.09.14","home":"한신 타이거스","away":"주니치 드래곤스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914JNHS0-2026-09-14-hanshin-tigers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Katsuki Azuma (11-5, 2.22)|https://p.npb.jp/players_photo/2026/180/db/011_51155136.jpg\"]"
+awayLineup: "[\"선발투수 Kyle Muller (7-7, 2.45)|https://p.npb.jp/players_photo/2026/180/d/093_13915150.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
