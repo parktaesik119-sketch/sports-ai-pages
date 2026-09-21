@@ -1,0 +1,37 @@
+---
+title: "삼성 라이온스 vs NC 다이노스 야구분석·승부예측 (9월 22일) - 픽천국"
+date: 2026-09-22T09:30:00.000Z
+description: "삼성 라이온스 vs NC 다이노스 야구분석: 삼성 라이온즈는 시즌 전체적으로 탄탄한 전력을 유지하며 리그 2위를 달리고 있는 반면, NC 다이노스는 중위권에서 부침을 겪으… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260922NCSS02026-2026-09-22-samsung-lions"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "삼성 라이온스"
+awayTeam: "NC 다이노스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/NC.png"
+homeAnalysis: "삼성 라이온즈는 2026시즌 106경기에서 61승 43패를 기록하며 리그 2위의 높은 순위를 유지하고 있습니다. 시즌 내내 꾸준한 타격 집중력을 바탕으로 안정적인 득점 생산 능력을 보여주었으며, 상위권 팀다운 짜임새 있는 전력을 구축하고 있습니다. 최근 다소 기복을 보이기도 했으나, 시즌 전체적으로는 견고한 마운드와 강력한 타선의 조화가 잘 이루어진 팀입니다. 특히 홈에서의 경기 운영 능력이 탁월하여 이번 경기에서도 상위권의 위용을 과시할 것으로 보입니다. 구자욱과 디아즈를 중심으로 한 중심 타선의 파괴력은 리그 최고 수준으로 평가받고 있습니다."
+awayAnalysis: "NC 다이노스는 2026시즌 104경기에서 48승 53패를 거두며 현재 리그 6위에 위치하고 있습니다. 시즌 초반부터 중위권에서 치열한 순위 경쟁을 펼치고 있으나, 최근 들어 승수 쌓기에 어려움을 겪으며 다소 하락세를 면치 못하고 있습니다. 득점력 측면에서 시즌 평균 5.0점을 유지하며 나쁘지 않은 흐름을 보였음에도 불구하고, 투수진의 안정감 부족이 전체적인 성적에 걸림돌이 되고 있습니다. 이번 원정 경기에서는 집중력을 회복하여 분위기 반등을 노려야 하는 과제를 안고 있습니다. 박민우와 박건우로 이어지는 상위 타선의 활약이 팀의 득점 효율을 결정짓는 핵심 요소가 될 것입니다."
+homePower: "리그 2위의 안정적 순위가 증명하는 투타 균형|구자욱-디아즈 중심의 파괴적인 상위 타선 위력|홈 경기에서의 집중력 높은 운영 능력 강점|기복 있는 흐름 속에서도 승리 공식 보유함|탄탄한 내야진 수비력이 뒷받침하는 안정감"
+awayPower: "리그 6위의 다소 기복 있는 투타 지표|최근 연패 흐름으로 인한 분위기 쇄신 필요|박민우가 이끄는 타선 대비 투수진 부담 존재|상위 타선의 응집력 대비 하위 타선 파괴력 약함|원정 경기에서의 실점 관리 능력 개선 검증 필요"
+h2h: '[{"date":"26.08.23","home":"NC 다이노스","away":"삼성 라이온스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823SSNC02026-2026-08-23-nc-dinos/"},{"date":"26.08.22","home":"NC 다이노스","away":"삼성 라이온스","score":"6-8","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260822SSNC02026-2026-08-22-nc-dinos/"},{"date":"26.08.21","home":"NC 다이노스","away":"삼성 라이온스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821SSNC02026-2026-08-21-nc-dinos/"},{"date":"26.07.02","home":"NC 다이노스","away":"삼성 라이온스","score":"1-6","link":"https://pick79.com/posts/detail/analyze-181817-2026-07-02-nc-dinos/"},{"date":"26.07.01","home":"NC 다이노스","away":"삼성 라이온스","score":"10-5","link":"https://pick79.com/posts/detail/analyze-181816-2026-07-01-nc-dinos/"}]'
+summary: "삼성 라이온즈는 시즌 전체적으로 탄탄한 전력을 유지하며 리그 2위를 달리고 있는 반면, NC 다이노스는 중위권에서 부침을 겪으며 최근 하락세가 뚜렷합니다. 특히 삼성 라이온즈는 홈에서 강한 면모를 보이며 상대와의 최근 맞대결 기록에서도 우위를 점하고 있어 경기 운영상 유리한 위치에 있습니다. 양 팀의 전력 차와 최근 흐름을 고려할 때, 공수 밸런스가 더욱 안정적인 삼성 라이온즈가 경기 흐름을 주도하며 우위를 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.20","home":"롯데 자이언츠","away":"삼성 라이온스","score":"13-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920SSLT02026-2026-09-20-lotte-giants/"},{"date":"26.09.19","home":"롯데 자이언츠","away":"삼성 라이온스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919SSLT02026-2026-09-19-lotte-giants/"},{"date":"26.09.18","home":"한화 이글스","away":"삼성 라이온스","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918SSHH02026-2026-09-18-hanwha-eagles/"},{"date":"26.09.16","home":"두산 베어스","away":"삼성 라이온스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SSOB02026-2026-09-16-doosan-bears/"},{"date":"26.09.15","home":"삼성 라이온스","away":"롯데 자이언츠","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915LTSS02026-2026-09-15-samsung-lions/"}]'
+awayRecent: '[{"date":"26.09.20","home":"NC 다이노스","away":"KIA 타이거즈","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920HTNC02026-2026-09-20-nc-dinos/"},{"date":"26.09.19","home":"NC 다이노스","away":"KIA 타이거즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919HTNC02026-2026-09-19-nc-dinos/"},{"date":"26.09.18","home":"롯데 자이언츠","away":"NC 다이노스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918NCLT02026-2026-09-18-lotte-giants/"},{"date":"26.09.17","home":"NC 다이노스","away":"SSG 랜더스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917SKNC02026-2026-09-17-nc-dinos/"},{"date":"26.09.16","home":"NC 다이노스","away":"LG 트윈스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916LGNC02026-2026-09-16-nc-dinos/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성 라이온즈"
+pickWinResult: "승"
+pickHandicapTeam: "삼성 라이온즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
