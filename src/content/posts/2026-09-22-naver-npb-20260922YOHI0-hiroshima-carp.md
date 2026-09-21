@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.20","home":"주니치 드래곤스","away":"히로�
 awayRecent: '[{"date":"26.09.20","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920YAYO0-2026-09-20-yomiuri-giants/"},{"date":"26.09.19","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"14-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919JNYO0-2026-09-19-yomiuri-giants/"},{"date":"26.09.18","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260918JNYO0-2026-09-18-yomiuri-giants/"},{"date":"26.09.15","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"13-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915YOYK0-2026-09-15-yokohama-baystars/"},{"date":"26.09.14","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260914YOYK0-2026-09-14-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shogo Tamamura (2-5, 2.67)|https://p.npb.jp/players_photo/2026/180/c/065_41245151.jpg\"]"
+awayLineup: "[\"선발투수 Shosei Togo (4-3, 2.71)|https://p.npb.jp/players_photo/2026/180/g/020_41045138.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
