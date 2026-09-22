@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.19","home":"지바 롯데 마린스","away":"세이
 awayRecent: '[{"date":"26.09.21","home":"니혼햄 파이터즈","away":"오릭스 버팔로스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260921OXNH0-2026-09-21-nippon-ham-fighters/"},{"date":"26.09.20","home":"니혼햄 파이터즈","away":"오릭스 버팔로스","score":"6-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920OXNH0-2026-09-20-nippon-ham-fighters/"},{"date":"26.09.19","home":"니혼햄 파이터즈","away":"오릭스 버팔로스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919OXNH0-2026-09-19-nippon-ham-fighters/"},{"date":"26.09.17","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260917SFOX0-2026-09-17-orix-buffaloes/"},{"date":"26.09.16","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260916SFOX0-2026-09-16-orix-buffaloes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Joey Lucchesi (1-1, 4.20)|https://p.npb.jp/players_photo/2026/180/m/048_93095152.jpg\"]"
+awayLineup: "[\"선발투수 Allen Kuri (8-11, 3.35)|https://p.npb.jp/players_photo/2026/180/b/022_71775139.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
