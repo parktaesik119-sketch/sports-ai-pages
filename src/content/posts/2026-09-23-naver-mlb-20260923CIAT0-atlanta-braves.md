@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애�
 awayRecent: '[{"date":"26.09.21","home":"신시내티 레즈","away":"시카고 컵스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921CCCI0-2026-09-21-cincinnati-reds/"},{"date":"26.09.20","home":"신시내티 레즈","away":"시카고 컵스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920CCCI0-2026-09-20-cincinnati-reds/"},{"date":"26.09.19","home":"신시내티 레즈","away":"시카고 컵스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919CCCI0-2026-09-19-cincinnati-reds/"},{"date":"26.09.18","home":"신시내티 레즈","away":"LA 다저스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918LACI0-2026-09-18-cincinnati-reds/"},{"date":"26.09.17","home":"신시내티 레즈","away":"LA 다저스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917LACI0-2026-09-17-cincinnati-reds/"}]'
 injuryHome: "Robert Suarez (염증)|Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (좌상)"
 injuryAway: "Chase Burns (좌상)|Spencer Steer (염좌)|Julian Garcia (수술)|Michael Toglia (수술)|Blake Dunn (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Ritchie (1-3, 5.03) ERA 5.03|https://a.espncdn.com/i/headshots/mlb/players/full/5080757.png\"]"
+awayLineup: "[\"선발투수 B. Williamson (4-4, 5.56) ERA 5.56|https://a.espncdn.com/i/headshots/mlb/players/full/42431.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

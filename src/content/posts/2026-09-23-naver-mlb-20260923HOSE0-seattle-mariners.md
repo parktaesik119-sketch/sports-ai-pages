@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.21","home":"콜로라도 로키스","away":"시애�
 awayRecent: '[{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921ATHO0-2026-09-21-houston-astros/"},{"date":"26.09.20","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920ATHO0-2026-09-20-houston-astros/"},{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"},{"date":"26.09.16","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916KCHO0-2026-09-16-houston-astros/"},{"date":"26.09.14","home":"탬파베이 레이스","away":"휴스턴 애스트로스","score":"14-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914HOTB0-2026-09-14-tampa-bay-rays/"}]'
 injuryHome: "Brendan Donovan (뇌진탕)|Brennen Davis (근육 염좌)|Cole Wilcox (근육 염좌)|Will Wilson (골절)"
 injuryAway: "Mike Burrows (염증)|Steven Okert (근육 염좌)|Enyel De Los Santos (건염)|Carlos Correa (수술)|Brandon Walter (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 G. Kirby (9-11, 4.24) ERA 4.24|https://a.espncdn.com/i/headshots/mlb/players/full/42406.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

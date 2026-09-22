@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"피츠버그 파이러츠","away":"캔�
 awayRecent: '[{"date":"26.09.21","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals/"},{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"},{"date":"26.09.17","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals/"},{"date":"26.09.16","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SFSL0-2026-09-16-st-louis-cardinals/"},{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"}]'
 injuryHome: "Isaac Mattson (염증)|Kirby Yates (신경 눌림)|Esmerlyn Valdez (염좌)|Braxton Ashcraft (통증)|Mitch Keller (기타)"
 injuryAway: "Everson Pereira (타박상)|Blaze Jordan (염좌)|Joshua Baez (염좌)|Hunter Dobbins (수술)|Max Rajcic (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Jones (4-6, 4.17) ERA 4.17|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
+awayLineup: "[\"선발투수 A. Pallante (12-7, 3.70) ERA 3.70|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

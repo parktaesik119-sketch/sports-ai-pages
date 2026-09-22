@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"애리조나 다이아몬드백스","aw
 awayRecent: '[{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"},{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"},{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬레틱스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays/"}]'
 injuryHome: "Jazz Chisholm Jr. (염좌)|Fernando Cruz (통증)|Giancarlo Stanton (좌상)|Trent Grisham (좌상)|Aaron Judge (좌상)"
 injuryAway: "Manuel Rodriguez (좌상)|Edwin Uceta (좌상)|Jonathan Heasley (골절)|Garrett Cleavinger (통증)|Gavin Lux (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Rodon (6-3, 2.95) ERA 2.95|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\"]"
+awayLineup: "[\"선발투수 N. Martinez (15-4, 2.94) ERA 2.94|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

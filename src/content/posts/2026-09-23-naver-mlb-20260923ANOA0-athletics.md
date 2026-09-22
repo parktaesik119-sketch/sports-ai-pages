@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"},{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels/"},{"date":"26.09.16","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SEAN0-2026-09-16-los-angeles-angels/"}]'
 injuryHome: "Joshua Kuroda-Grauer (수술)|J.T. Ginn (통증)|Brent Rooker (수술)|Nick Kurtz (염좌)|Gage Jump (신경 눌림)"
 injuryAway: "George Klassen (염증)|Nolan Schanuel (염좌)|Kyren Paris (골절)|Samy Natera Jr. (염증)|Yoan Moncada (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Springs (4-14, 6.18) ERA 6.18|https://a.espncdn.com/i/headshots/mlb/players/full/35397.png\"]"
+awayLineup: "[\"선발투수 W. Urena (9-10, 2.74) ERA 2.74|https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

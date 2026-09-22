@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 
 awayRecent: '[{"date":"26.09.21","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MIBA0-2026-09-21-baltimore-orioles/"},{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MIBA0-2026-09-20-baltimore-orioles/"},{"date":"26.09.19","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MIBA0-2026-09-19-baltimore-orioles/"},{"date":"26.09.18","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MIPI0-2026-09-18-pittsburgh-pirates/"},{"date":"26.09.17","home":"피츠버그 파이러츠","away":"밀워키 브루어스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917MIPI0-2026-09-17-pittsburgh-pirates/"}]'
 injuryHome: "Jonathan Bowlan (경미)|Jesus Luzardo (주요)|Caleb Kilian (주요)|Felix Reyes (주요)|Johan Rojas (주요)"
 injuryAway: "Grant Anderson (주요)|Bryse Wilson (주요)|Brandon Woodruff (주요)|Quinn Priester (주요)|Angel Zerpa (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Z. Wheeler (13-5, 2.99) ERA 2.99|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
+awayLineup: "[\"선발투수 D. May (7-9, 4.61) ERA 4.61|https://a.espncdn.com/i/headshots/mlb/players/full/40937.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

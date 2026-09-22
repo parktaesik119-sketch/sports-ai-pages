@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.21","home":"콜로라도 로키스","away":"시애�
 awayRecent: '[{"date":"26.09.21","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921NYAZ0-2026-09-21-arizona-diamondbacks/"},{"date":"26.09.19","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919NYAZ0-2026-09-19-arizona-diamondbacks/"},{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"},{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"}]'
 injuryHome: "Kyle Karros (경련)|Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)"
 injuryAway: "Tyler Locklear (골절)|Ryan Thompson (근육 손상)|A.J. Puk (염좌)|Andrew Saalfrank (수술)|Cristian Mena (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 M. Adams (0-1, 5.09) ERA 5.09|https://a.espncdn.com/i/headshots/mlb/players/full/4758424.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""
