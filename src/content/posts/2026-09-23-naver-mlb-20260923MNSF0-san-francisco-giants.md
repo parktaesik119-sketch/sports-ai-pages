@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 미네소타 트윈스 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-23T01:45:00.000Z
+description: "샌프란시스코 자이언츠 vs 미네소타 트윈스 야구분석: 샌프란시스코 자이언츠와 미네소타 트윈스는 현재 각각 리그순위 14위와 11위로 시즌 막바지 순위 상승을 위해 치열한 경쟁을 펼… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260923MNSF0-2026-09-23-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 64승 92패, 승률 .410을 기록하며 리그순위 14위에 머물러 있습니다. 최근 10경기에서 4승 6패로 다소 정체된 흐름을 보이고 있으며 시즌 전체 평균 4.5득점으로 공격력의 기복이 큽니다. 최근 5경기에서도 2승 3패를 기록하며 연승과 연패를 반복하는 불안정한 모습을 노출하고 있습니다. 홈에서의 안정적인 운영이 절실한 시점이나 투타 밸런스가 완벽하게 맞물리지 않는 것이 아쉬운 대목입니다. 주축 선수들의 부상 공백을 메우기 위해 벤치 자원들의 활약이 어느 때보다 중요한 상황입니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 73승 83패, 승률 .468을 기록하며 리그순위 11위에 위치하고 있습니다. 최근 10경기 5승 5패로 5할 승률을 맞추며 시즌 중반보다 안정감을 찾은 모습입니다. 시즌 전체 평균 4.2득점으로 샌프란시스코 자이언츠와 비교해 화력이 다소 낮지만 투수진의 실점 억제력이 상대적으로 나은 편입니다. 최근 원정 경기에서 강한 상대를 상대로도 쉽게 무너지지 않는 저력을 보여주고 있습니다. 다만, 상위권으로 도약하기 위해서는 타선의 집중력을 통한 추가 득점 생산이 필수로 요구됩니다."
+homePower: "투타 밸런스 불균형으로 인한 경기력 기복이 뚜렷함|득점 생산의 효율성이 낮아 대량 득점 생산에 어려움 겪음|리그순위 14위 기록처럼 전반적인 투수진 실점 제어력 부족|최근 경기에서 나타난 뒷심 부족으로 인한 역전패 빈번함|홈 이점 살린 공격적 운영에도 불구하고 수비 안정감 결여"
+awayPower: "최근 5할 승률 유지하며 원정에서의 집중력 향상됨|타선 집중력은 다소 부족하나 마운드의 운영 능력은 준수함|리그순위 11위 기록이 말해주듯 하위권 탈출을 위한 투지 있음|접전 상황에서의 마무리 투수 기용과 제구력 관리 필수적|시즌 전체적인 투타 조화가 원정에서의 돌파구로 작용함"
+h2h: '[]'
+summary: "샌프란시스코 자이언츠와 미네소타 트윈스는 현재 각각 리그순위 14위와 11위로 시즌 막바지 순위 상승을 위해 치열한 경쟁을 펼치고 있습니다. 샌프란시스코 자이언츠는 홈에서의 이점을 극대화해야 하는 과제를 안고 있으며 미네소타 트윈스는 원정에서도 최근 5할 승률을 기록하는 등 만만치 않은 전력을 보이고 있습니다. 전반적인 득실 흐름과 최근 경기력을 종합해 볼 때 양 팀 모두 팽팽한 승부를 연출할 가능성이 높으나 샌프란시스코 자이언츠가 홈 관중의 응원을 등에 업고 조금 더 안정적인 경기 운영을 펼칠 것으로 평가됩니다. 양 팀의 투수진이 얼마나 상대 타선을 효과적으로 봉쇄하느냐가 승패를 결정지을 핵심 요소가 될 것으로 보입니다."
+homeRecent: '[{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SFLA0-2026-09-21-los-angeles-dodgers/"},{"date":"26.09.19","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers/"},{"date":"26.09.17","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals/"},{"date":"26.09.16","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"3-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SFSL0-2026-09-16-st-louis-cardinals/"},{"date":"26.09.15","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SFSL0-2026-09-15-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"},{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"},{"date":"26.09.16","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"1-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins/"}]'
+injuryHome: "JT Brubaker (타박상)|Matt Gage (근육 긴장)|Willy Adames (염좌)|Nate Furman (근육 긴장)|Bryce Eldridge (뇌진탕)"
+injuryAway: "Mike Paredes (근육 긴장)|Mick Abel (수술)|Kaelen Culpepper (근육 긴장)|Trevor Larnach (염좌)|Byron Buxton (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌프란시스코 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "샌프란시스코 자이언츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

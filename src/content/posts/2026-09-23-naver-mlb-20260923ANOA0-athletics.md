@@ -1,0 +1,37 @@
+---
+title: "애슬레틱스 vs LA 에인절스 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-23T01:40:00.000Z
+description: "애슬레틱스 vs LA 에인절스 야구분석: 양 팀은 2026시즌 리그순위가 14위와 15위로 비슷하며 전체적인 승률에서도 큰 격차를 보이지 않는 접전 상태입니다. 시즌 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260923ANOA0-2026-09-23-athletics"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애슬레틱스"
+awayTeam: "LA 에인절스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AN.png"
+homeAnalysis: "애슬레틱스는 2026시즌 61승 95패, 승률 .391을 기록하며 리그순위 14위에 위치해 있습니다. 최근 흐름을 살펴보면 상위권 팀들을 상대로 고전하며 연패를 기록하는 등 다소 침체된 경기력을 보이고 있습니다. 득점과 실점의 격차가 -223.0으로 나타나 수비 조직력에서 지속적인 불안감을 드러내고 있는 상황입니다. 다만 홈 경기에서는 집중력을 발휘해 타선이 폭발하는 경기가 종종 발생하며 변수를 만들어냅니다. 전반적인 투수진의 안정감이 뒷받침된다면 홈에서의 이점을 극대화하여 반등을 꾀할 수 있는 전력입니다."
+awayAnalysis: "LA 에인절스는 2026시즌 60승 96패, 승률 .385를 기록하여 리그순위 15위에 머물러 있습니다. 최근 원정 경기와 홈 경기를 병행하며 승패를 반복하고 있으나 전반적인 타격 흐름이 매끄럽지 않아 득점 지원 부족에 시달리는 모습입니다. 시즌 득실 마진이 -87.0으로 애슬레틱스보다는 상대적으로 실점 제어가 되는 편이지만 타선의 결정력이 아쉬움으로 남습니다. 최근 9경기에서도 기복 있는 결과를 보여주며 승리보다 패배의 비중이 높아져 있어 안정적인 경기 운영이 절실합니다."
+homePower: "최근 홈 4경기 연승 흐름 주도하며 강점 입증함|시즌 득실 마진 열세에도 홈에선 득점 집중력 높음|핵심 타선 결장 공백 속 하위 타선의 반등 필요함|리그순위 최하위권이나 홈경기 승률 방어 양호함|투수진의 실점 억제력 개선이 이번 승부의 핵심임"
+awayPower: "최근 원정 경기 타선 응집력 다소 저하된 상태임|득실 마진 수치상 애슬레틱스 대비 수비는 견고함|상대 전적 팽팽한 흐름으로 박빙 승부 양상 예상됨|상위 타선의 출루율 회복이 득점력 상승의 관건임|최근 패배한 경기들에서 대량 실점 패턴 개선 필요함"
+h2h: '[{"date":"26.06.29","home":"LA 에인절스","away":"애슬레틱스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-179268-2026-06-29-los-angeles-angels/"},{"date":"26.06.28","home":"LA 에인절스","away":"애슬레틱스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-179238-2026-06-27-los-angeles-angels/"},{"date":"26.06.27","home":"LA 에인절스","away":"애슬레틱스","score":"3-9","link":"https://pick79.com/posts/detail/analyze-179238-2026-06-27-los-angeles-angels/"},{"date":"26.06.22","home":"애슬레틱스","away":"LA 에인절스","score":"7-9","link":"https://pick79.com/posts/detail/analyze-179175-2026-06-22-athletics/"},{"date":"26.06.21","home":"애슬레틱스","away":"LA 에인절스","score":"0-7","link":"https://pick79.com/posts/detail/analyze-179145-2026-06-20-athletics/"}]'
+summary: "양 팀은 2026시즌 리그순위가 14위와 15위로 비슷하며 전체적인 승률에서도 큰 격차를 보이지 않는 접전 상태입니다. 시즌 득실 마진 측면에서 애슬레틱스는 수비 불안이, LA 에인절스는 공격력의 응집력 부족이 각각 발목을 잡고 있는 형국입니다. 상대 전적에서도 6승 5패로 대등한 양상을 보였기에 이번 경기는 투수진의 안정감과 경기 후반 타선의 집중력에서 승패가 갈릴 것으로 보입니다. 홈 경기의 이점과 더불어 최근 홈에서 보인 승리 공식이 원정팀을 상대로 잘 발휘된다면 애슬레틱스가 근소한 차이로 우위를 점하며 경기를 주도할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"},{"date":"26.09.20","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"12-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920OACL0-2026-09-20-cleveland-guardians/"},{"date":"26.09.19","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919OACL0-2026-09-19-cleveland-guardians/"},{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"},{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬레틱스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"},{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels/"},{"date":"26.09.16","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SEAN0-2026-09-16-los-angeles-angels/"}]'
+injuryHome: "Joshua Kuroda-Grauer (수술)|J.T. Ginn (통증)|Brent Rooker (수술)|Nick Kurtz (염좌)|Gage Jump (신경 눌림)"
+injuryAway: "George Klassen (염증)|Nolan Schanuel (염좌)|Kyren Paris (골절)|Samy Natera Jr. (염증)|Yoan Moncada (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애슬레틱스"
+pickWinResult: "승"
+pickHandicapTeam: "애슬레틱스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

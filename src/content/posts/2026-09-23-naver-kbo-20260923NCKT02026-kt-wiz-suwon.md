@@ -1,0 +1,37 @@
+---
+title: "KT 위즈 vs NC 다이노스 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-23T09:30:00.000Z
+description: "KT 위즈 vs NC 다이노스 야구분석: 2026시즌 전체 성적을 바탕으로 볼 때 리그 1위를 수성 중인 KT 위즈가 전력상 확실한 우위를 점하고 있습니다. KT 위즈… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260923NCKT02026-2026-09-23-kt-wiz-suwon"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "KT 위즈"
+awayTeam: "NC 다이노스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/NC.png"
+homeAnalysis: "KT 위즈는 2026시즌 104경기에서 62승 3무 39패를 기록하며 승률 0.614라는 압도적인 성적으로 리그 1위를 달리고 있습니다. 최근 10경기에서도 8승 1무 1패의 가파른 상승세를 보이며 투타의 완벽한 조화를 입증하고 있습니다. 특히 시즌 평균 5.4득점의 강력한 타선은 상위 타선과 하위 타선의 연결 고리가 매끄러워 어떤 팀을 상대로도 대량 득점을 생산할 수 있는 파괴력을 갖췄습니다. 투수진 역시 안정적인 경기 운영으로 홈에서 강한 면모를 보여주며 마운드의 높이를 실감하게 합니다. 현재 1위 팀다운 응집력과 경기 후반까지 집중력을 잃지 않는 모습은 이번 맞대결에서도 상대에게 큰 부담으로 작용할 것으로 보입니다."
+awayAnalysis: "NC 다이노스는 2026시즌 104경기에서 48승 3무 53패를 기록하며 6위권의 성적을 유지하고 있습니다. 시즌 평균 5.0득점을 기록 중이지만 최근 10경기에서는 3승 7패로 흐름이 다소 꺾이며 투타 지표가 하향 곡선을 그리고 있습니다. 특히 최근 경기들에서 마운드가 상대의 타선을 제어하지 못하고 실점이 늘어나는 점이 뼈아픈 대목입니다. 타선 또한 기복 있는 공격력을 보이며 경기 초반 득점 지원이 원활하지 않을 때 전체적인 페이스가 무너지는 패턴이 반복되고 있습니다. 상위권 도약을 위해선 이번 원정 경기에서 타선의 집중력을 회복하고 투수진의 안정감을 되찾는 것이 무엇보다 시급한 과제입니다."
+homePower: "62승을 달성한 리그 1위의 위용, 전 포지션의 짜임새 있는 경기 운영력|최근 10경기 8승, 공수 양면에서 흠잡을 데 없는 최상의 전력 유지|최원준과 힐리어드를 필두로 한 상위 타선의 파괴적인 득점 생산력 검증됨|홈 경기에서의 높은 승률, 원정팀의 추격 의지를 꺾는 안정적인 마운드 운용|시즌 내내 증명된 상위 타선 WAR의 우위, 경기 초반부터 주도권 확보에 유리함"
+awayPower: "박민우의 높은 WAR 수치, 공격 흐름을 조율하는 리드오프의 역할 중요|최근 7패 기록, 투수진의 실점 억제력 저하가 경기 후반 리드 사수에 악재|타선의 기복 있는 흐름, 집중타가 터지지 않을 경우 득점 기대치 낮아짐|상위 타선 대비 하위 타선의 무게감 부족, 경기 중반 이후 득점력 변수|시즌 성적 48승의 한계, 상위권 KT 위즈를 상대로 한 투타 밸런스 개선 필요"
+h2h: '[{"date":"26.08.13","home":"NC 다이노스","away":"KT 위즈","score":"6-5","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813KTNC02026-2026-08-13-nc-dinos/"},{"date":"26.08.12","home":"NC 다이노스","away":"KT 위즈","score":"3-0","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812KTNC02026-2026-08-12-nc-dinos/"},{"date":"26.08.11","home":"NC 다이노스","away":"KT 위즈","score":"3-7","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811KTNC02026-2026-08-11-nc-dinos/"},{"date":"26.07.30","home":"NC 다이노스","away":"KT 위즈","score":"2-10","link":"https://pick79.com/posts/detail/analyze-181915-2026-07-30-nc-dinos/"},{"date":"26.07.29","home":"NC 다이노스","away":"KT 위즈","score":"3-10","link":"https://pick79.com/posts/detail/analyze-181909-2026-07-29-nc-dinos/"}]'
+summary: "2026시즌 전체 성적을 바탕으로 볼 때 리그 1위를 수성 중인 KT 위즈가 전력상 확실한 우위를 점하고 있습니다. KT 위즈는 최근 10경기에서 8승을 챙길 만큼 투타의 안정감이 극에 달해 있어 이번 경기에서도 안정적인 득점 지원과 마운드의 견고함을 보여줄 것으로 예상됩니다. 반면 NC 다이노스는 최근 10경기에서 7패를 기록하며 하락세가 뚜렷하고, 특히 마운드의 불안감이 상위 타선이 강한 KT 위즈를 상대로 큰 약점이 될 가능성이 높습니다. 상대전적에서도 최근 KT 위즈가 NC 다이노스를 상대로 대승을 거두는 등 압도적인 모습을 보인 바 있어, 이번 경기 역시 KT 위즈가 공수 밸런스를 앞세워 우위를 이어갈 것으로 평가됩니다."
+homeRecent: '[{"date":"26.09.20","home":"KT 위즈","away":"두산 베어스","score":"9-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920OBKT02026-2026-09-20-kt-wiz-suwon/"},{"date":"26.09.19","home":"KT 위즈","away":"두산 베어스","score":"15-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919OBKT02026-2026-09-19-kt-wiz-suwon/"},{"date":"26.09.18","home":"KT 위즈","away":"LG 트윈스","score":"1-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918LGKT02026-2026-09-18-kt-wiz-suwon/"},{"date":"26.09.16","home":"한화 이글스","away":"KT 위즈","score":"4-4","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916KTHH02026-2026-09-16-hanwha-eagles/"},{"date":"26.09.15","home":"한화 이글스","away":"KT 위즈","score":"3-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915KTHH02026-2026-09-15-hanwha-eagles/"}]'
+awayRecent: '[{"date":"26.09.20","home":"NC 다이노스","away":"KIA 타이거즈","score":"6-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920HTNC02026-2026-09-20-nc-dinos/"},{"date":"26.09.19","home":"NC 다이노스","away":"KIA 타이거즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919HTNC02026-2026-09-19-nc-dinos/"},{"date":"26.09.18","home":"롯데 자이언츠","away":"NC 다이노스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918NCLT02026-2026-09-18-lotte-giants/"},{"date":"26.09.17","home":"NC 다이노스","away":"SSG 랜더스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917SKNC02026-2026-09-17-nc-dinos/"},{"date":"26.09.16","home":"NC 다이노스","away":"LG 트윈스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916LGNC02026-2026-09-16-nc-dinos/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KT 위즈"
+pickWinResult: "승"
+pickHandicapTeam: "KT 위즈"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

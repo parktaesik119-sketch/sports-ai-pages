@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 브레이브스 vs 신시내티 레즈 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-22T23:15:00.000Z
+description: "애틀랜타 브레이브스 vs 신시내티 레즈 야구분석: 애틀랜타 브레이브스는 시즌 전체 리그순위 3위라는 성적표가 말해주듯 안정된 전력을 바탕으로 이번 경기를 주도할 것으로 보입니다… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260923CIAT0-2026-09-23-atlanta-braves"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애틀랜타 브레이브스"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "애틀랜타 브레이브스는 2026시즌 92승 64패, 승률 .590의 우수한 성적을 거두며 현재 리그순위 3위를 기록하고 있습니다. 최근 10경기에서 6승 4패의 준수한 성적을 내며 시즌 막판까지 상위권의 저력을 유감없이 발휘하는 중입니다. 722득점과 602실점으로 공수 밸런스가 매우 안정적이며, 특히 홈경기에서 보여주는 경기 운영 능력은 리그 최고 수준으로 평가됩니다. 최근 흐름 또한 상위권팀다운 집중력을 유지하고 있어 투타 전력의 조화가 돋보입니다. 핵심 선수들의 결장 공백에도 불구하고 선수층의 두께를 활용해 순위 방어에 성공하고 있습니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 72승 84패, 승률 .462를 기록하며 현재 리그순위 12위에 머물러 있습니다. 최근 10경기에서 3승 7패로 다소 부진한 흐름을 보이며 시즌 중반 이후 안정감을 잃은 모습이 나타납니다. 642득점 대비 805실점으로 마운드의 방어율 저하가 아쉬운 지표로 확인되며, 특히 원정에서의 실점 억제력이 큰 과제로 남아 있습니다. 상위권과의 격차가 벌어진 상태에서 투수진의 난조가 이어지고 있어 경기당 평균 득점력 회복이 시급합니다. 시즌 전체적으로 기복 있는 경기력을 보이며 하위권에서 좀처럼 반등의 계기를 마련하지 못하고 있습니다."
+homePower: "안정된 득실 마진으로 증명된 상위권 경쟁력|홈 이점을 극대화하는 타선의 집중력과 짜임새|결장자 발생에도 흔들림 없는 투수진 운용|순위 방어를 위한 후반기 강한 승부 근성|홈에서의 실점 억제력이 상위권 순위 견인"
+awayPower: "시즌 전체 실점 대비 득점력 회복 절실함|원정 경기에서 드러나는 마운드의 방어 한계|최근 10경기 부진으로 나타난 전력 저하|하위권 탈출을 위한 투수진 재정비 필요|상대적으로 낮은 득점 지원으로 승리 어려움"
+h2h: '[{"date":"26.06.01","home":"신시내티 레즈","away":"애틀랜타 브레이브스","score":"6-4","link":"https://pick79.com/posts/detail/analyze-178900-2026-06-01-cincinnati-reds/"},{"date":"26.05.31","home":"신시내티 레즈","away":"애틀랜타 브레이브스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-178883-2026-05-31-cincinnati-reds/"},{"date":"26.05.30","home":"신시내티 레즈","away":"애틀랜타 브레이브스","score":"3-8","link":"https://pick79.com/posts/detail/analyze-178870-2026-05-30-cincinnati-reds/"}]'
+summary: "애틀랜타 브레이브스는 시즌 전체 리그순위 3위라는 성적표가 말해주듯 안정된 전력을 바탕으로 이번 경기를 주도할 것으로 보입니다. 반면 신시내티 레즈는 마운드의 열세와 최근 10경기에서 3승 7패에 그친 저조한 흐름이 발목을 잡고 있어 전력 우위에 있는 홈팀을 상대로 고전할 가능성이 높습니다. 상대전적에서도 2승 1패로 우위를 점하고 있는 애틀랜타 브레이브스가 홈 이점을 앞세워 투타의 조화를 보여준다면 원정팀의 수비 불안을 공략하며 안정적으로 승기를 잡을 것으로 예측됩니다."
+homeRecent: '[{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921ATHO0-2026-09-21-houston-astros/"},{"date":"26.09.20","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920ATHO0-2026-09-20-houston-astros/"},{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"},{"date":"26.09.16","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916ATCC0-2026-09-16-chicago-cubs/"},{"date":"26.09.15","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915ATCC0-2026-09-15-chicago-cubs/"}]'
+awayRecent: '[{"date":"26.09.21","home":"신시내티 레즈","away":"시카고 컵스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921CCCI0-2026-09-21-cincinnati-reds/"},{"date":"26.09.20","home":"신시내티 레즈","away":"시카고 컵스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920CCCI0-2026-09-20-cincinnati-reds/"},{"date":"26.09.19","home":"신시내티 레즈","away":"시카고 컵스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919CCCI0-2026-09-19-cincinnati-reds/"},{"date":"26.09.18","home":"신시내티 레즈","away":"LA 다저스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918LACI0-2026-09-18-cincinnati-reds/"},{"date":"26.09.17","home":"신시내티 레즈","away":"LA 다저스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917LACI0-2026-09-17-cincinnati-reds/"}]'
+injuryHome: "Robert Suarez (염증)|Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (좌상)"
+injuryAway: "Chase Burns (좌상)|Spencer Steer (염좌)|Julian Garcia (수술)|Michael Toglia (수술)|Blake Dunn (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 브레이브스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 브레이브스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

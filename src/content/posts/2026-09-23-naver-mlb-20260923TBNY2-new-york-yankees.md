@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 탬파베이 레이스 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-22T23:05:00.000Z
+description: "뉴욕 양키즈 vs 탬파베이 레이스 야구분석: 뉴욕 양키즈와 탬파베이 레이스는 각각 리그순위 2위와 1위를 달리고 있는 강팀들로 시즌 내내 최고의 기량을 선보이고 있습니다.… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260923TBNY2-2026-09-23-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 117경기에서 68승 45패를 기록하며 5할 후반대의 높은 승률을 유지하고 있습니다. 최근 리그순위 2위를 달리고 있는 팀답게 공수 전반에서 안정적인 흐름을 보여주며 시즌 막판까지 치열한 경쟁을 이어가는 중입니다. 주전급 선수들의 결장 공백이 다소 있으나 이를 메울 대체 자원들이 제 몫을 다해주며 득점 생산력에서 꾸준함을 보이고 있습니다. 홈경기에서의 집중력이 높고 투타 조화가 잘 이루어지고 있어 안방에서 경기를 풀어가는 능력이 탁월합니다. 팀 전체적으로 승리하는 법을 알고 있는 베테랑 중심의 운영이 돋보이며 공수 밸런스 측면에서 매우 견고한 전력을 자랑하고 있습니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 119경기 동안 71승 44패라는 우수한 성적을 거두며 리그순위 1위를 굳건히 지키고 있습니다. 시즌 내내 탄탄한 수비력을 바탕으로 실점을 최소화하며 효율적인 야구를 펼쳐온 것이 가장 큰 강점입니다. 최근 10경기에서도 8승을 챙길 만큼 압도적인 기세를 뿜어내고 있으며 타선의 집중력 또한 물이 올라 있는 상태입니다. 득실 마진이 말해주듯 상대를 압박하는 경기 운영이 돋보이며 원정임에도 불구하고 높은 승률을 유지하는 저력을 보유하고 있습니다. 투수진의 안정감과 더불어 필요할 때 터져주는 타선의 득점 지원이 원정 승리의 주요 원동력으로 분석됩니다."
+homePower: "홈 안방 경기 시 투수들의 안정적인 제구력 돋보임|주요 선수 결장에도 불구하고 층 두터운 뎁스 확인됨|직전 홈경기 시리즈에서 투타 밸런스 최상 검증됨|리그 상위권 득실 마진으로 증명된 높은 경기력|상위권 팀들과의 맞대결에서 보여준 운영 능력 우수"
+awayPower: "리그순위 1위다운 압도적인 시즌 운영 능력 보유|최근 10경기 8승으로 상승세의 기세 최고조임|원정임에도 안정적인 마운드 운영이 뒷받침됨|상대 핵심 투수를 공략하는 타선의 집중력 강점|투타 조화가 잘 이루어진 밸런스형 전력으로 평가"
+h2h: '[{"date":"26.07.10","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"4-12","link":"https://pick79.com/posts/detail/analyze-179407-2026-07-10-tampa-bay-rays/"},{"date":"26.07.09","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"3-0","link":"https://pick79.com/posts/detail/analyze-179393-2026-07-09-tampa-bay-rays/"},{"date":"26.07.08","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"6-4","link":"https://pick79.com/posts/detail/analyze-179382-2026-07-08-tampa-bay-rays/"},{"date":"26.07.07","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"1-5","link":"https://pick79.com/posts/detail/analyze-179369-2026-07-07-tampa-bay-rays/"},{"date":"26.05.25","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"2-0","link":"https://pick79.com/posts/detail/analyze-178798-2026-05-25-new-york-yankees/"}]'
+summary: "뉴욕 양키즈와 탬파베이 레이스는 각각 리그순위 2위와 1위를 달리고 있는 강팀들로 시즌 내내 최고의 기량을 선보이고 있습니다. 탬파베이 레이스가 시즌 전체 성적 면에서 근소하게 앞서고 있으나 뉴욕 양키즈 역시 홈에서 발휘하는 압도적인 화력과 운영 능력이 상당하여 팽팽한 대결이 예상됩니다. 상대 전적에서는 탬파베이 레이스가 다소 우위를 점하고 있지만 최근 흐름을 고려할 때 안방 이점을 안은 뉴욕 양키즈가 충분히 대등한 승부를 펼칠 것으로 보입니다. 양 팀 모두 투타의 핵심 요소가 잘 갖춰져 있어 매 순간 집중력이 승패를 결정지을 가능성이 매우 높은 매치업입니다."
+homeRecent: '[{"date":"26.09.21","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921NYAZ0-2026-09-21-arizona-diamondbacks/"},{"date":"26.09.19","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919NYAZ0-2026-09-19-arizona-diamondbacks/"},{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"},{"date":"26.09.16","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"1-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916NYMN0-2026-09-16-minnesota-twins/"},{"date":"26.09.15","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915NYMN0-2026-09-15-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"},{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"},{"date":"26.09.17","home":"탬파베이 레이스","away":"애슬레틱스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917OATB0-2026-09-17-tampa-bay-rays/"}]'
+injuryHome: "Jazz Chisholm Jr. (염좌)|Fernando Cruz (통증)|Giancarlo Stanton (좌상)|Trent Grisham (좌상)|Aaron Judge (좌상)"
+injuryAway: "Manuel Rodriguez (좌상)|Edwin Uceta (좌상)|Jonathan Heasley (골절)|Garrett Cleavinger (통증)|Gavin Lux (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

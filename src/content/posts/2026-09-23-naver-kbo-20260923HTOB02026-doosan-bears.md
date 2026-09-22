@@ -1,0 +1,37 @@
+---
+title: "두산 베어스 vs KIA 타이거즈 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-23T09:30:00.000Z
+description: "두산 베어스 vs KIA 타이거즈 야구분석: 두산 베어스와 KIA 타이거즈는 2026시즌 내내 접전을 펼쳐온 만큼 이번 맞대결에서도 투타의 정밀한 운영이 승패를 가를 것으… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260923HTOB02026-2026-09-23-doosan-bears"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "두산 베어스"
+awayTeam: "KIA 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HT.png"
+homeAnalysis: "두산 베어스는 2026시즌 106경기에서 54승 4무 48패를 기록하며 승률 0.509와 평균 득점 4.7점을 올리고 있습니다. 최근에는 다소 기복 있는 모습을 보이고 있으나, 전반적인 타선의 짜임새를 바탕으로 승수를 쌓아가는 중입니다. 홈에서는 안정적인 운영을 통해 상위권 경쟁을 이어가고 있으며, 특히 박찬호와 양의지를 중심으로 한 타선의 집중력이 경기 후반 변수를 만들어냅니다. 수비 집중력만 뒷받침된다면 홈 이점을 극대화하며 승리 가능성을 높일 수 있는 전력을 갖추고 있습니다. 이번 경기에서도 홈 팬들의 응원을 등에 업고 공수 밸런스를 조화롭게 유지하는 것이 중요해 보입니다."
+awayAnalysis: "KIA 타이거즈는 2026시즌 104경기에서 58승 2무 44패를 거두며 승률 0.569와 평균 득점 5.5점을 기록 중입니다. 시즌 전체적으로 높은 득점 생산력을 앞세워 상위권 순위를 유지하고 있으며, 나성범과 카스트로가 이끄는 타선의 파괴력은 리그 최고 수준으로 평가됩니다. 최근 원정 흐름은 승패를 반복하며 다소 불규칙하지만, 결정적인 순간 터지는 장타력은 언제든 경기의 분위기를 가져올 수 있는 강점입니다. 원정 경기 특유의 부담감을 극복하기 위해 경기 초반 투수진의 안정적인 리드가 선행되어야 할 것입니다. 공수 전환 속도가 빠른 팀 특성을 살려 경기를 풀어간다면 원정에서도 충분히 경쟁력 있는 모습을 보여줄 것으로 판단됩니다."
+homePower: "홈 경기 시 평균 득점 대비 높은 집중력 발휘|박찬호와 양의지의 상위 타선 득점권 생산력 탁월|리그 순위 방어를 위한 홈 이점 극대화 운영|수비 실책 최소화 시 투수진 부담 크게 감소|최근 다득점 경기를 통한 타선 감각 유지"
+awayPower: "나성범과 카스트로 중심의 압도적 중심 타선 파괴력|원정 경기에서도 흔들리지 않는 초반 기선 제압 능력|데이터상 원정 승률이 준수한 공수 밸런스 확보|하위 타선의 반등 여부가 전체 득점의 변수|상위권 도약을 위한 공격적 베이스러닝 패턴"
+h2h: '[{"date":"26.08.16","home":"KIA 타이거즈","away":"두산 베어스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816OBHT02026-2026-08-16-kia-tigers/"},{"date":"26.08.15","home":"KIA 타이거즈","away":"두산 베어스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815OBHT02026-2026-08-15-kia-tigers/"},{"date":"26.08.14","home":"KIA 타이거즈","away":"두산 베어스","score":"4-10","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814OBHT02026-2026-08-14-kia-tigers/"},{"date":"26.06.28","home":"두산 베어스","away":"KIA 타이거즈","score":"1-12","link":"https://pick79.com/posts/detail/analyze-181802-2026-06-28-doosan-bears/"},{"date":"26.06.27","home":"두산 베어스","away":"KIA 타이거즈","score":"8-1","link":"https://pick79.com/posts/detail/analyze-181801-2026-06-27-doosan-bears/"}]'
+summary: "두산 베어스와 KIA 타이거즈는 2026시즌 내내 접전을 펼쳐온 만큼 이번 맞대결에서도 투타의 정밀한 운영이 승패를 가를 것으로 보입니다. KIA 타이거즈는 나성범을 필두로 한 타선의 화력이 시즌 내내 강점으로 꼽히지만, 홈에서 탄탄한 수비력을 바탕으로 경기를 운영하는 두산 베어스의 조직력이 최근의 흐름과 맞물려 상당한 시너지를 낼 것으로 예상됩니다. 전력의 안정성과 홈에서의 집중력을 고려할 때, 두산 베어스가 주도권을 잡고 경기를 유리하게 풀어가며 승리에 한 걸음 더 다가설 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.20","home":"KT 위즈","away":"두산 베어스","score":"9-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920OBKT02026-2026-09-20-kt-wiz-suwon/"},{"date":"26.09.19","home":"KT 위즈","away":"두산 베어스","score":"15-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919OBKT02026-2026-09-19-kt-wiz-suwon/"},{"date":"26.09.18","home":"두산 베어스","away":"키움 히어로즈","score":"6-6","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918WOOB02026-2026-09-18-doosan-bears/"},{"date":"26.09.16","home":"두산 베어스","away":"삼성 라이온스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SSOB02026-2026-09-16-doosan-bears/"},{"date":"26.09.13","home":"두산 베어스","away":"NC 다이노스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913NCOB02026-2026-09-13-doosan-bears/"}]'
+awayRecent: '[{"date":"26.09.20","home":"NC 다이노스","away":"KIA 타이거즈","score":"6-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920HTNC02026-2026-09-20-nc-dinos/"},{"date":"26.09.19","home":"NC 다이노스","away":"KIA 타이거즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919HTNC02026-2026-09-19-nc-dinos/"},{"date":"26.09.17","home":"KIA 타이거즈","away":"키움 히어로즈","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917WOHT02026-2026-09-17-kia-tigers/"},{"date":"26.09.15","home":"SSG 랜더스","away":"KIA 타이거즈","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915HTSK02026-2026-09-15-ssg-landers/"},{"date":"26.09.13","home":"KIA 타이거즈","away":"한화 이글스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913HHHT02026-2026-09-13-kia-tigers/"}]'
+injuryHome: "없음"
+injuryAway: "김기훈 (치료·재활중)|김석환 (치료·재활중)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "두산 베어스"
+pickWinResult: "승"
+pickHandicapTeam: "두산 베어스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

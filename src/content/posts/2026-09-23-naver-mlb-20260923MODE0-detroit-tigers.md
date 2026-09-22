@@ -1,0 +1,37 @@
+---
+title: "디트로이트 타이거즈 vs 워싱턴 내셔널스 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-22T22:40:00.000Z
+description: "디트로이트 타이거즈 vs 워싱턴 내셔널스 야구분석: 디트로이트 타이거즈와 워싱턴 내셔널스의 전력을 비교해보면, 홈팀인 디트로이트 타이거즈가 최근 흐름과 공수 밸런스 면에서 확실한… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260923MODE0-2026-09-23-detroit-tigers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "디트로이트 타이거즈"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "디트로이트 타이거즈는 2026시즌 74승 83패를 기록하며 현재 리그순위 10위에 위치해 있습니다. 최근 9경기에서 6승 3패를 거두며 상승세를 타고 있으며, 경기당 평균 6.4득점을 기록하는 등 타선의 응집력이 매우 뛰어난 상태입니다. 특히 직전 워싱턴 내셔널스와의 맞대결에서 9-2로 완승하며 홈에서의 강점을 유감없이 발휘했습니다. 시즌 전체 득실 마진 +75.0으로 수비 대비 공격 효율이 안정적이라 경기를 풀어가는 힘이 돋보입니다. 핵심 선수들의 부상 이탈이 존재하지만, 팀 전체적으로 승리 지향적인 경기력을 유지하고 있어 이번 경기도 주도권을 쥘 것으로 보입니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 73승 84패의 성적으로 현재 리그순위 11위에 머물러 있습니다. 최근 9경기에서 4승 5패로 다소 기복 있는 흐름을 보이고 있으며, 경기당 평균 3.7득점에 그치며 타격 침체기를 겪고 있습니다. 최근 원정 경기와 직전 맞대결에서의 패배는 전력 재정비가 시급함을 시사하며, 득실 마진이 +5.0으로 팽팽한 균형을 보이지만 결정적인 순간의 뒷심이 부족합니다. 전반적인 투타 밸런스가 디트로이트 타이거즈에 비해 다소 불안정한 모습을 보이고 있습니다. 원정에서의 약세를 극복하고 분위기를 반전시켜야 하는 부담감이 크게 작용하는 상황입니다."
+homePower: "홈에서 승률 높은 경기 운영으로 안정감 확보|직전 맞대결 대승으로 자신감 극대화된 타선|득실 마진 +75.0이 증명하는 공수 밸런스|주축 선수 공백에도 탄탄한 뎁스 운영력|상대 원정 부진을 공략하는 홈 집중력"
+awayPower: "최근 원정 득점력 저조로 승수 쌓기 난항|직전 경기 2득점에 그친 타선의 해결 능력 부족|리그순위 11위로 처진 공수 효율의 불균형|상대 맞대결 패배로 인한 심리적 열세|부상자 발생으로 인한 투수진 운영 변수"
+h2h: '[{"date":"26.09.22","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"9-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MODE0-2026-09-22-detroit-tigers/"}]'
+summary: "디트로이트 타이거즈와 워싱턴 내셔널스의 전력을 비교해보면, 홈팀인 디트로이트 타이거즈가 최근 흐름과 공수 밸런스 면에서 확실한 우위를 점하고 있습니다. 디트로이트 타이거즈는 리그순위 10위의 기록에도 불구하고 최근 9경기에서 6승을 따내는 집중력을 보여주었으며, 득점력 면에서도 워싱턴 내셔널스를 압도하는 모습을 보입니다. 반면 워싱턴 내셔널스는 최근 9경기에서 4승 5패로 흐름이 다소 처져 있고, 원정에서의 기복이 심해 안정적인 운영을 기대하기 어렵습니다. 직전 맞대결 결과 또한 디트로이트 타이거즈의 완승으로 나타나 전술적인 상성에서도 홈팀이 앞서 있다고 판단됩니다. 이러한 전력 차이와 최근의 상승세를 고려할 때, 이번 경기는 디트로이트 타이거즈가 승기를 잡고 경기를 주도해 나갈 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.22","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MODE0-2026-09-22-detroit-tigers/"},{"date":"26.09.21","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921DECW0-2026-09-21-chicago-white-sox/"},{"date":"26.09.20","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920DECW0-2026-09-20-chicago-white-sox/"},{"date":"26.09.19","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919DECW0-2026-09-19-chicago-white-sox/"},{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"}]'
+awayRecent: '[{"date":"26.09.22","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MODE0-2026-09-22-detroit-tigers/"},{"date":"26.09.21","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals/"},{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"},{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"},{"date":"26.09.16","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916PHMO0-2026-09-16-washington-nationals/"}]'
+injuryHome: "Jack Flaherty (염증)|Kerry Carpenter (족저근막염)|Justin Verlander (긴장)|Kyle Finnegan (염증)|Colt Keith (염좌)"
+injuryAway: "Orlando Ribalta (염증)|PJ Poulin (긴장)|Connelly Early (염증)|Matt Waldron (염증)|Drew Millas (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

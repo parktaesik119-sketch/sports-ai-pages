@@ -1,0 +1,37 @@
+---
+title: "소프트뱅크 호크스 vs 세이부 라이온즈 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-23T05:00:00.000Z
+description: "소프트뱅크 호크스 vs 세이부 라이온즈 야구분석: 소프트뱅크 호크스는 2026시즌 동안 압도적인 승률과 함께 평균 5.0득점이라는 탁월한 공격력을 보여주며 리그 내 강팀의 면모… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260923SESF0-2026-09-23-fukuoka-s-hawks"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "소프트뱅크 호크스"
+awayTeam: "세이부 라이온즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/SE.png"
+homeAnalysis: "소프트뱅크 호크스는 2026시즌 109경기에서 71승 35패를 기록하며 65%가 넘는 높은 승률과 평균 5.0득점의 강력한 공격력을 바탕으로 리그 상위권의 입지를 굳건히 다지고 있습니다. 시즌 내내 홈에서 견고한 전력을 과시해 온 팀답게 타선의 응집력과 투수진의 안정감이 조화를 이루며 꾸준히 승수를 쌓아왔습니다. 최근 다소 기복이 있었으나 여전히 경기당 득점 생산력은 리그 최고 수준이며, 특정 구간에서 대량 득점을 뽑아내는 파괴력이 돋보입니다. 안방인 홈에서 특히 투타 밸런스가 안정적으로 유지되는 점이 이번 경기에서도 핵심적인 동력이 될 것으로 보입니다. 시즌 전체의 성적이 증명하듯 소프트뱅크 호크스는 매 경기 집중력 높은 운영 능력을 발휘하며 승리를 쟁취해 나가고 있습니다."
+awayAnalysis: "세이부 라이온즈는 2026시즌 107경기 동안 61승 43패를 기록하며 57%의 승률과 함께 평균 3.6득점의 공격력을 보여주고 있습니다. 시즌 전반적으로 끈기 있는 경기를 펼치며 승률 5할 이상의 준수한 흐름을 이어가고 있지만, 상위권 팀들과 비교했을 때 타선의 폭발력이 다소 아쉬운 대목으로 꼽힙니다. 최근 10경기에서 5승 1무 4패를 기록하며 승패를 반복하고 있는 점은 팀의 전력이 완벽하게 안정화되지 않았음을 시사합니다. 원정 경기에서 타선이 터져주지 않을 경우 마운드의 부담이 가중되는 패턴이 자주 나타나고 있어 이번 경기에서의 득점 지원이 무엇보다 절실한 상황입니다. 세이부 라이온즈가 고전하는 흐름을 극복하기 위해서는 원정에서의 효율적인 공격 전개가 반드시 뒷받침되어야 할 것입니다."
+homePower: "71승 35패가 증명하는 압도적인 승리 지향적 경기 운영|홈 경기 시 타선의 득점 집중력 향상과 투수 안정감 동반|주포들의 타점 생산 능력이 조화를 이룬 팀 구성|평균 5.0득점의 공격력이 주는 경기 주도권 확보 가능|기복을 최소화한 선발 투수 운용으로 안정적 리드 유지"
+awayPower: "61승 43패의 준수한 성적에도 득점 생산력의 한계 노출|평균 3.6득점으로 대량 득점 지원이 다소 부족한 타선|최근 10경기 승패 반복으로 드러난 경기력의 기복|상위권 팀 상대 시 투수진의 이닝 소화력 변수 존재|원정 경기에서 드러나는 타선의 득점 침묵 현상 극복 과제"
+h2h: '[{"date":"26.09.06","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"2-5","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906SESF0-2026-09-06-fukuoka-s-hawks/"},{"date":"26.09.05","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"2-0","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905SESF0-2026-09-05-fukuoka-s-hawks/"},{"date":"26.09.04","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"8-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904SESF0-2026-09-04-fukuoka-s-hawks/"},{"date":"26.08.09","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"0-5","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260809SFSE0-2026-08-09-seibu-lions/"},{"date":"26.08.08","home":"세이부 라이온즈","away":"소프트뱅크 호크스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260808SFSE0-2026-08-08-seibu-lions/"}]'
+summary: "소프트뱅크 호크스는 2026시즌 동안 압도적인 승률과 함께 평균 5.0득점이라는 탁월한 공격력을 보여주며 리그 내 강팀의 면모를 꾸준히 유지하고 있습니다. 반면 세이부 라이온즈는 5할 이상의 승률을 기록 중이나 소프트뱅크 호크스에 비해 득점력과 경기 운영의 안정성 측면에서 다소 밀리는 모습을 보입니다. 특히 소프트뱅크 호크스는 홈에서 강력한 투타 균형을 바탕으로 승리를 가져오는 능력이 탁월하며, 세이부 라이온즈의 원정 공격 기복을 고려할 때 이번 맞대결에서도 전력 우위를 점할 가능성이 매우 높습니다. 시즌 전체적인 흐름과 최근의 투타 지표를 종합적으로 분석해 볼 때 홈팀인 소프트뱅크 호크스가 이번 경기에서도 주도권을 잡고 우세한 흐름을 이어갈 것으로 예상됩니다."
+homeRecent: '[{"date":"26.09.20","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920SFRT0-2026-09-20-rakuten-gold-eagles/"},{"date":"26.09.19","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919SFRT0-2026-09-19-rakuten-gold-eagles/"},{"date":"26.09.17","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260917SFOX0-2026-09-17-orix-buffaloes/"},{"date":"26.09.16","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260916SFOX0-2026-09-16-orix-buffaloes/"},{"date":"26.09.15","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915SFOX0-2026-09-15-orix-buffaloes/"}]'
+awayRecent: '[{"date":"26.09.19","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919SEJL0-2026-09-19-chiba-lotte-marines/"},{"date":"26.09.17","home":"니혼햄 파이터즈","away":"세이부 라이온즈","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260917SENH0-2026-09-17-nippon-ham-fighters/"},{"date":"26.09.15","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915SERT0-2026-09-15-rakuten-gold-eagles/"},{"date":"26.09.13","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260913NHSE0-2026-09-13-seibu-lions/"},{"date":"26.09.12","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912NHSE0-2026-09-12-seibu-lions/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "소프트뱅크 호크스"
+pickWinResult: "승"
+pickHandicapTeam: "소프트뱅크 호크스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

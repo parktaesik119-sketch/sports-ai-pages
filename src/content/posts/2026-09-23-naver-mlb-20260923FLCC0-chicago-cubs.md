@@ -1,0 +1,37 @@
+---
+title: "시카고 컵스 vs 마이애미 말린스 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-22T23:40:00.000Z
+description: "시카고 컵스 vs 마이애미 말린스 야구분석: 시카고 컵스는 리그순위 4위가 증명하듯 투타 양면에서 마이애미 말린스보다 한 단계 위 전력을 보유하고 있습니다. 마이애미 말린… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260923FLCC0-2026-09-23-chicago-cubs"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 컵스"
+awayTeam: "마이애미 말린스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+homeAnalysis: "시카고 컵스는 2026시즌 121경기에서 87승 69패를 기록하며 현재 리그순위 4위를 달리고 있으며 시즌 평균 득점은 5.3점입니다. 최근 흐름을 살펴보면 타선의 집중력이 살아나며 10경기 중 6승을 거두는 준수한 전력을 유지하고 있습니다. 특히 홈구장에서 보여주는 안정적인 투타 밸런스는 상위권 순위를 지탱하는 핵심 동력으로 평가됩니다. 시즌 전체 득실 마진이 +152.0으로 공수 양면에서 매우 견고한 흐름을 보이고 있어 큰 기복 없는 경기 운영이 가능합니다. 주축 선수들의 부상 이탈에도 불구하고 팀 전체가 조직적으로 움직이며 매 경기 높은 집중력을 발휘하는 점이 매우 인상적입니다."
+awayAnalysis: "마이애미 말린스는 2026시즌 121경기에서 57승 62패를 기록하며 현재 리그순위 9위에 위치해 있고 시즌 평균 득점은 4.3점입니다. 최근 10경기에서 4승 6패로 다소 주춤한 모습을 보이고 있으나 득점 생산력만큼은 꾸준히 유지하려는 노력이 돋보입니다. 득실 마진이 -3.0으로 나타나듯 박빙의 승부에서 승리를 챙기는 결정력이 다소 아쉬운 상태이며 원정 경기에서의 전력 강화가 시급한 시점입니다. 리그 중하위권에 머물러 있지만 수비 집중력만 뒷받침된다면 언제든 상위 팀을 위협할 저력을 갖추고 있습니다. 전반적인 시즌 기록은 하락세에 있으나 경기 후반부 집중력을 높여 반등을 노리는 흐름이 이어지고 있습니다."
+homePower: "안정적인 득실 마진이 입증하는 공수 균형|리그 상위권 순위가 보여주는 후반기 운영력|홈경기에서의 투수진 안정감이 승리로 연결됨|타선의 기복이 적어 안정적인 득점 생산 가능|상위권 팀다운 높은 위기 관리 능력 검증됨"
+awayPower: "최근 원정길에서 나타나는 수비 집중력 결여|박빙 상황에서의 승부처 결정력 부족함|시즌 전체적인 득실 균형이 다소 불안정한 상태|상위 팀 대비 득점 지원과 마운드의 부조화|순위 도약을 위한 공격적 변화가 필요함"
+h2h: '[{"date":"26.09.07","home":"마이애미 말린스","away":"시카고 컵스","score":"10-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260907CCFL0-2026-09-07-miami-marlins/"},{"date":"26.09.06","home":"마이애미 말린스","away":"시카고 컵스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260906CCFL0-2026-09-06-miami-marlins/"},{"date":"26.09.05","home":"마이애미 말린스","away":"시카고 컵스","score":"1-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260905CCFL0-2026-09-05-miami-marlins/"}]'
+summary: "시카고 컵스는 리그순위 4위가 증명하듯 투타 양면에서 마이애미 말린스보다 한 단계 위 전력을 보유하고 있습니다. 마이애미 말린스는 최근 10경기에서 4승에 그치며 수비적인 불안 요소를 노출하고 있는 반면 시카고 컵스는 홈구장에서의 높은 승률과 함께 탄탄한 경기력을 유지 중입니다. 시즌 전체 득실 차에서도 시카고 컵스가 확실한 우위를 점하고 있어 이번 맞대결에서도 우위를 가져갈 가능성이 높습니다. 상대전적 흐름 또한 시카고 컵스가 리드하고 있어 전반적인 전력 비교상 시카고 컵스가 승기를 잡기에 충분한 조건입니다."
+homeRecent: '[{"date":"26.09.21","home":"신시내티 레즈","away":"시카고 컵스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921CCCI0-2026-09-21-cincinnati-reds/"},{"date":"26.09.20","home":"신시내티 레즈","away":"시카고 컵스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920CCCI0-2026-09-20-cincinnati-reds/"},{"date":"26.09.19","home":"신시내티 레즈","away":"시카고 컵스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919CCCI0-2026-09-19-cincinnati-reds/"},{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"},{"date":"26.09.16","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916ATCC0-2026-09-16-chicago-cubs/"}]'
+awayRecent: '[{"date":"26.09.21","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921FLSD0-2026-09-21-san-diego-padres/"},{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"},{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"}]'
+injuryHome: "Gavin Hollowell (염증)|Justin Steele (수술)|Phil Maton (염좌)|Hunter Harvey (골절)|Tyler Austin (수술)"
+injuryAway: "Xavier Edwards (경기 당일 확인)|Owen Caissie (골절)|Anthony Bender (골절)|Max Meyer (긴장)|Ronny Henriquez (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

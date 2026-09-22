@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs 클리블랜드 가디언스 야구분석·승부예측 (9월 23일) - 픽천국"
+date: 2026-09-22T22:45:00.000Z
+description: "보스턴 레드삭스 vs 클리블랜드 가디언스 야구분석: 보스턴 레드삭스는 리그순위 3위로서 시즌 전체적으로 훨씬 안정적인 전력을 구축해왔으며, 상대전적에서도 2승 1패로 우위를 점하… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "클리블랜드 가디언스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 84승 72패, 승률 .538을 기록하며 현재 리그순위 3위에 올라 있습니다. 시즌 내내 공수 밸런스를 유지하며 안정적인 전력을 보여주었으나, 최근 10경기에서는 4승 6패로 다소 주춤한 흐름을 보이고 있습니다. 홈에서는 준수한 경기력을 보여주지만 최근 득점 지원이 다소 기복을 보이면서 승패가 엇갈리는 상황입니다. 특히 득실 차가 +80.0으로 시즌 전체적으로는 탄탄한 운영 능력을 검증받았습니다. 최근의 페이스 저하를 빠르게 회복하고 시즌 초반의 견고했던 모습을 되찾는 것이 이번 경기의 핵심 과제입니다."
+awayAnalysis: "클리블랜드 가디언스는 2026시즌 81승 75패, 승률 .519로 현재 리그순위 4위를 기록 중입니다. 시즌 전체 득실 차가 +2.0으로 박빙의 승부를 자주 연출하는 팀이지만, 최근 10경기에서 7승 3패를 거두며 매우 매서운 상승세를 타고 있습니다. 타선의 집중력이 살아나며 평균 6.0점대의 높은 득점력을 보여주는 점이 가장 큰 강점입니다. 원정 경기에서도 특유의 응집력을 바탕으로 상대를 압박하고 있으며, 시즌 후반기로 갈수록 전력의 완성도가 높아지고 있다는 평가입니다. 지금의 상승 분위기를 이어간다면 상위 팀과의 대결에서도 충분히 위협적인 모습을 보여줄 것으로 예상됩니다."
+homePower: "리그순위 3위의 안정적인 시즌 운영 능력 보유|시즌 득실 차 +80.0으로 투타 밸런스 검증됨|최근 10경기 득점 기복으로 마무리 효율 저하|홈 경기 특유의 안정감 회복이 이번 승부처임|주요 선수 이탈에도 전체적인 전력 견고함 유지"
+awayPower: "최근 10경기 7승으로 시즌 후반 가파른 상승세|평균 6.0득점의 폭발적인 타선 집중력 확보|시즌 내내 박빙 승부로 다져진 경기 운영 능력|원정 경기에서도 흔들리지 않는 경기력 확인됨|상위권 도약을 노리는 팀 분위기의 고조"
+h2h: '[{"date":"26.06.01","home":"클리블랜드 가디언스","away":"보스턴 레드삭스","score":"4-9","link":"https://pick79.com/posts/detail/analyze-178901-2026-06-01-cleveland-guardians/"},{"date":"26.05.31","home":"클리블랜드 가디언스","away":"보스턴 레드삭스","score":"1-9","link":"https://pick79.com/posts/detail/analyze-178882-2026-05-31-cleveland-guardians/"},{"date":"26.05.30","home":"클리블랜드 가디언스","away":"보스턴 레드삭스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-178871-2026-05-30-cleveland-guardians/"}]'
+summary: "보스턴 레드삭스는 리그순위 3위로서 시즌 전체적으로 훨씬 안정적인 전력을 구축해왔으며, 상대전적에서도 2승 1패로 우위를 점하고 있어 심리적인 자신감이 높습니다. 비록 최근 보스턴 레드삭스가 다소 기복 있는 모습을 보이고 있으나, 클리블랜드 가디언스의 최근 맹렬한 상승세와 맞물려 치열한 투타 대결이 예상됩니다. 시즌 전체 지표와 홈에서의 이점을 고려할 때 보스턴 레드삭스가 전력상 우위에 있는 것으로 판단되며, 집중력을 발휘한다면 충분히 승기를 잡을 가능성이 높습니다. 양 팀 모두 승리에 대한 의지가 강해 경기 후반까지 팽팽한 흐름이 이어질 것으로 보입니다."
+homeRecent: '[{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"},{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918BOTE0-2026-09-18-texas-rangers/"},{"date":"26.09.17","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BOTE0-2026-09-17-texas-rangers/"}]'
+awayRecent: '[{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"},{"date":"26.09.20","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"12-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920OACL0-2026-09-20-cleveland-guardians/"},{"date":"26.09.19","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919OACL0-2026-09-19-cleveland-guardians/"},{"date":"26.09.17","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917CWCL0-2026-09-17-cleveland-guardians/"},{"date":"26.09.16","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916CWCL0-2026-09-16-cleveland-guardians/"}]'
+injuryHome: "Garrett Crochet (인대 염좌)|Tanner Houck (수술)|Willson Contreras (타박상)|Aroldis Chapman (통증)|Johan Oviedo (인대 염좌)"
+injuryAway: "Brayan Rocchio (통증)|Colin Holderman (염증)|Rhys Hoskins (염증)|Shawn Armstrong (인대 염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
