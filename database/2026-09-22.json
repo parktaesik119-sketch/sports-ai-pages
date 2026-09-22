@@ -3532,8 +3532,8 @@
     "away": "Kuwait U23",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/624266.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/608810.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6052539",
@@ -3545,8 +3545,8 @@
     "away": "Uzbekistan U23",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/624125.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/613636.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-6052546",
@@ -3579,7 +3579,7 @@
     "sport": "soccer",
     "country": "Iran",
     "league": "Azadegan League",
-    "date": "2026-09-22T14:30:00.000Z",
+    "date": "2026-09-22T12:30:00.000Z",
     "home": "Mes Kerman",
     "away": "Saipa",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101622.png",
@@ -3740,8 +3740,8 @@
     "away": "Tigres (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980694.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 7
   },
   {
     "id": "fotmob-5977363",
@@ -3753,8 +3753,8 @@
     "away": "Cruz Azul (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980709.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980700.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5954339",
@@ -3766,8 +3766,8 @@
     "away": "Union Cocle",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1514007.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1888923.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5144023",
@@ -4260,8 +4260,8 @@
     "away": "Estudiantes",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10082.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10094.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000019144",
@@ -4312,8 +4312,8 @@
     "away": "Envigado",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7731.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000021920",
@@ -4390,8 +4390,8 @@
     "away": "Náutico",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/197815.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2369.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5903830",
@@ -7198,8 +7198,8 @@
     "away": "Toronto Blue Jays",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/BA.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "naver-mlb-20260922MODE0",
@@ -7224,8 +7224,8 @@
     "away": "Minnesota Twins",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SF.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MN.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "naver-npb-20260922YOHI0",
@@ -7614,8 +7614,8 @@
     "away": "New York Rangers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/587974.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/589676.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378330705",
@@ -7627,34 +7627,8 @@
     "away": "Ottawa Senators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/586272.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/590527.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "highlightly-hockey-378329003",
-    "sport": "hockey",
-    "country": "USA",
-    "league": "NHL",
-    "date": "2026-09-21T23:00:00.000Z",
-    "home": "Columbus Blue Jackets",
-    "away": "Detroit Red Wings",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/579464.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/581166.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "highlightly-hockey-368073602",
-    "sport": "hockey",
-    "country": "USA",
-    "league": "NHL",
-    "date": "2026-09-21T23:00:00.000Z",
-    "home": "Washington Capitals",
-    "away": "Philadelphia Flyers",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/599037.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/592229.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378328152",
@@ -7666,8 +7640,34 @@
     "away": "Buffalo Sabres",
     "homeLogo": "https://highlightly.net/hockey/images/teams/593080.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/574358.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
+  },
+  {
+    "id": "highlightly-hockey-368073602",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-09-21T23:00:00.000Z",
+    "home": "Washington Capitals",
+    "away": "Philadelphia Flyers",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/599037.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/592229.png",
+    "homeScore": 5,
+    "awayScore": 2
+  },
+  {
+    "id": "highlightly-hockey-378329003",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-09-21T23:00:00.000Z",
+    "home": "Columbus Blue Jackets",
+    "away": "Detroit Red Wings",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/579464.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/581166.png",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-368072751",
@@ -7826,19 +7826,6 @@
     "awayScore": null
   },
   {
-    "id": "highlightly-hockey-378331556",
-    "sport": "hockey",
-    "country": "USA",
-    "league": "NHL",
-    "date": "2026-09-22T00:00:00.000Z",
-    "home": "Chicago Blackhawks",
-    "away": "Minnesota Wild",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/577762.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/585421.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "highlightly-hockey-368074453",
     "sport": "hockey",
     "country": "USA",
@@ -7848,8 +7835,21 @@
     "away": "Colorado Avalanche",
     "homeLogo": "https://highlightly.net/hockey/images/teams/599888.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/578613.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
+  },
+  {
+    "id": "highlightly-hockey-378331556",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-09-22T00:00:00.000Z",
+    "home": "Chicago Blackhawks",
+    "away": "Minnesota Wild",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/577762.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/585421.png",
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378332407",
@@ -7861,8 +7861,8 @@
     "away": "St. Louis Blues",
     "homeLogo": "https://highlightly.net/hockey/images/teams/580315.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/594782.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-366328201",
@@ -8317,31 +8317,31 @@
     "id": "panda-1697613",
     "sport": "lol",
     "league": "World Star Challengers Invitational",
-    "date": "2026-09-22T06:00:00Z",
+    "date": "2026-09-22T06:02:31Z",
     "home": "⁠Movistar KOI Fénix",
     "away": "Bilibili Gaming Junior",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/363/movistar_ko_ilogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/125984/bilibili_gaming_juniorlogo_square.png",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0
   },
   {
     "id": "panda-1697614",
     "sport": "lol",
     "league": "World Star Challengers Invitational",
-    "date": "2026-09-22T07:00:00Z",
+    "date": "2026-09-22T07:00:34Z",
     "home": "CTBC Flying Oyster Academy",
     "away": "KT Rolster Challengers",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133605/ctbc_flying_oyster_academylogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/128348/800px_kt_rolster_2026_allmode.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "panda-1697615",
     "sport": "lol",
     "league": "World Star Challengers Invitational",
-    "date": "2026-09-22T08:00:00Z",
+    "date": "2026-09-22T07:53:02Z",
     "home": "Fuego",
     "away": "T1 Academy",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/1636/fuego-ada0g8rs.png",

@@ -2037,25 +2037,8 @@
     "date": "2026-09-20T18:45:00.000Z",
     "league": "Ligue 1",
     "injuries": {
-      "home": [
-        {
-          "name": "Geoffrey Kondogbia",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Tochukwu Nnadi",
-          "status": "무릎 부상",
-          "detail": "Mid October 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Achraf Hakimi",
-          "status": "허벅지 부상",
-          "detail": "A few days"
-        }
-      ]
+      "home": [],
+      "away": []
     },
     "h2h": [
       {
@@ -2456,11 +2439,6 @@
           "name": "Angel Guillermo Hoyos",
           "status": "부상",
           "detail": "Late September 2026"
-        },
-        {
-          "name": "Tadeo Allende",
-          "status": "무릎 부상",
-          "detail": "Early October 2026"
         }
       ],
       "away": [
@@ -2468,11 +2446,6 @@
           "name": "Oscar Verhoeven",
           "status": "부상",
           "detail": "Late September 2026"
-        },
-        {
-          "name": "Gabriel Pirani",
-          "status": "근육 부상",
-          "detail": "A few weeks"
         }
       ]
     },

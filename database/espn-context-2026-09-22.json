@@ -952,11 +952,6 @@
           "detail": ""
         },
         {
-          "name": "Tony Gonsolin",
-          "status": "15-Day-IL",
-          "detail": "Surgery"
-        },
-        {
           "name": "James McArthur",
           "status": "60-Day-IL",
           "detail": "Surgery"
@@ -970,6 +965,11 @@
           "name": "Beck Way",
           "status": "15-Day-IL",
           "detail": ""
+        },
+        {
+          "name": "Carlos Estevez",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         }
       ]
     },
@@ -2008,6 +2008,16 @@
       ],
       "away": [
         {
+          "name": "Brett Bateman",
+          "status": "Day-To-Day",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Vladimir Guerrero Jr.",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
           "name": "Anthony Santander",
           "status": "60-Day-IL",
           "detail": "Surgery"
@@ -2021,16 +2031,6 @@
           "name": "Luis Urias",
           "status": "10-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Brett Bateman",
-          "status": "Day-To-Day",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Vladimir Guerrero Jr.",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
         }
       ]
     },
@@ -2048,12 +2048,12 @@
       "away": {
         "rank": "8",
         "wins": "77",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".494",
-        "gamesBehind": "18.5",
-        "pointsFor": "629",
-        "pointsAgainst": "671"
+        "winPercent": ".490",
+        "gamesBehind": "19",
+        "pointsFor": "632",
+        "pointsAgainst": "675"
       }
     },
     "h2h": {
@@ -2188,7 +2188,7 @@
         "pointsAgainst": "904"
       },
       "away": {
-        "rank": "12",
+        "rank": "11",
         "wins": "73",
         "losses": "83",
         "ties": "0",
@@ -2298,14 +2298,14 @@
         "pointsAgainst": "712"
       },
       "away": {
-        "rank": "11",
+        "rank": "12",
         "wins": "73",
-        "losses": "83",
+        "losses": "84",
         "ties": "0",
-        "winPercent": ".468",
-        "gamesBehind": "22.5",
-        "pointsFor": "712",
-        "pointsAgainst": "776"
+        "winPercent": ".465",
+        "gamesBehind": "23",
+        "pointsFor": "714",
+        "pointsAgainst": "781"
       }
     },
     "h2h": {
@@ -2619,32 +2619,42 @@
     "injuries": {
       "home": [
         {
-          "name": "Dalton Rushing",
-          "status": "10-Day-IL",
-          "detail": "Soreness"
-        },
-        {
-          "name": "Roki Sasaki",
-          "status": "15-Day-IL",
-          "detail": "Abrasion"
-        },
-        {
-          "name": "Andy Pages",
-          "status": "10-Day-IL",
-          "detail": "Surgery"
-        },
-        {
           "name": "Kyle Tucker",
           "status": "Day-To-Day",
           "detail": ""
         },
         {
+          "name": "Dalton Rushing",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        },
+        {
           "name": "Gavin Stone",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Jake Cousins",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Ben Casparius",
           "status": "60-Day-IL",
           "detail": "Inflammation"
         }
       ],
       "away": [
+        {
+          "name": "Willy Adames",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Bryce Eldridge",
+          "status": "7-Day IL",
+          "detail": "Concussion"
+        },
         {
           "name": "JT Brubaker",
           "status": "15-Day-IL",
@@ -2656,19 +2666,9 @@
           "detail": "Strain"
         },
         {
-          "name": "Willy Adames",
-          "status": "10-Day-IL",
-          "detail": "Sprain"
-        },
-        {
           "name": "Nate Furman",
           "status": "10-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Bryce Eldridge",
-          "status": "7-Day IL",
-          "detail": "Concussion"
         }
       ]
     },
@@ -2685,13 +2685,13 @@
       },
       "away": {
         "rank": "14",
-        "wins": "64",
+        "wins": "65",
         "losses": "92",
         "ties": "0",
-        "winPercent": ".410",
-        "gamesBehind": "34",
-        "pointsFor": "656",
-        "pointsAgainst": "740"
+        "winPercent": ".414",
+        "gamesBehind": "33.5",
+        "pointsFor": "661",
+        "pointsAgainst": "742"
       }
     },
     "h2h": {
@@ -2841,13 +2841,13 @@
     "standings": {
       "home": {
         "rank": "9",
-        "wins": "75",
+        "wins": "76",
         "losses": "81",
         "ties": "0",
-        "winPercent": ".481",
-        "gamesBehind": "20.5",
-        "pointsFor": "693",
-        "pointsAgainst": "724"
+        "winPercent": ".484",
+        "gamesBehind": "20",
+        "pointsFor": "697",
+        "pointsAgainst": "727"
       },
       "away": {
         "rank": "1",
@@ -2922,6 +2922,16 @@
       ],
       "away": [
         {
+          "name": "Brett Bateman",
+          "status": "Day-To-Day",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Vladimir Guerrero Jr.",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
           "name": "Anthony Santander",
           "status": "60-Day-IL",
           "detail": "Surgery"
@@ -2935,44 +2945,34 @@
           "name": "Luis Urias",
           "status": "10-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Brett Bateman",
-          "status": "Day-To-Day",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Vladimir Guerrero Jr.",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
         }
       ]
     },
     "standings": {
       "home": {
         "rank": "9",
-        "wins": "75",
+        "wins": "76",
         "losses": "81",
         "ties": "0",
-        "winPercent": ".481",
-        "gamesBehind": "20.5",
-        "pointsFor": "693",
-        "pointsAgainst": "724"
+        "winPercent": ".484",
+        "gamesBehind": "20",
+        "pointsFor": "697",
+        "pointsAgainst": "727"
       },
       "away": {
         "rank": "8",
         "wins": "77",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".494",
-        "gamesBehind": "18.5",
-        "pointsFor": "629",
-        "pointsAgainst": "671"
+        "winPercent": ".490",
+        "gamesBehind": "19",
+        "pointsFor": "632",
+        "pointsAgainst": "675"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "TOR leads series 6-4",
+      "text": "TOR leads series 6-5",
       "totalGames": 10,
       "games": [
         {
@@ -3157,6 +3157,16 @@
     "injuries": {
       "home": [
         {
+          "name": "Willy Adames",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Bryce Eldridge",
+          "status": "7-Day IL",
+          "detail": "Concussion"
+        },
+        {
           "name": "JT Brubaker",
           "status": "15-Day-IL",
           "detail": "Bruise"
@@ -3167,19 +3177,9 @@
           "detail": "Strain"
         },
         {
-          "name": "Willy Adames",
-          "status": "10-Day-IL",
-          "detail": "Sprain"
-        },
-        {
           "name": "Nate Furman",
           "status": "10-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Bryce Eldridge",
-          "status": "7-Day IL",
-          "detail": "Concussion"
         }
       ],
       "away": [
@@ -3213,23 +3213,23 @@
     "standings": {
       "home": {
         "rank": "14",
-        "wins": "64",
+        "wins": "65",
         "losses": "92",
         "ties": "0",
-        "winPercent": ".410",
-        "gamesBehind": "34",
-        "pointsFor": "656",
-        "pointsAgainst": "740"
+        "winPercent": ".414",
+        "gamesBehind": "33.5",
+        "pointsFor": "661",
+        "pointsAgainst": "742"
       },
       "away": {
-        "rank": "11",
+        "rank": "12",
         "wins": "73",
-        "losses": "83",
+        "losses": "84",
         "ties": "0",
-        "winPercent": ".468",
-        "gamesBehind": "22.5",
-        "pointsFor": "712",
-        "pointsAgainst": "776"
+        "winPercent": ".465",
+        "gamesBehind": "23",
+        "pointsFor": "714",
+        "pointsAgainst": "781"
       }
     },
     "h2h": null
@@ -3446,6 +3446,16 @@
       ],
       "away": [
         {
+          "name": "Brett Bateman",
+          "status": "Day-To-Day",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Vladimir Guerrero Jr.",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
           "name": "Anthony Santander",
           "status": "60-Day-IL",
           "detail": "Surgery"
@@ -3459,45 +3469,35 @@
           "name": "Luis Urias",
           "status": "10-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Brett Bateman",
-          "status": "Day-To-Day",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Vladimir Guerrero Jr.",
-          "status": "Day-To-Day",
-          "detail": "Soreness"
         }
       ]
     },
     "standings": {
       "home": {
         "rank": "9",
-        "wins": "75",
+        "wins": "76",
         "losses": "81",
         "ties": "0",
-        "winPercent": ".481",
-        "gamesBehind": "20.5",
-        "pointsFor": "693",
-        "pointsAgainst": "724"
+        "winPercent": ".484",
+        "gamesBehind": "20",
+        "pointsFor": "697",
+        "pointsAgainst": "727"
       },
       "away": {
         "rank": "8",
         "wins": "77",
-        "losses": "79",
+        "losses": "80",
         "ties": "0",
-        "winPercent": ".494",
-        "gamesBehind": "18.5",
-        "pointsFor": "629",
-        "pointsAgainst": "671"
+        "winPercent": ".490",
+        "gamesBehind": "19",
+        "pointsFor": "632",
+        "pointsAgainst": "675"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "TOR leads series 6-4",
-      "totalGames": 10,
+      "text": "TOR leads series 6-5",
+      "totalGames": 11,
       "games": [
         {
           "date": "2026-05-28T22:35:00Z",
@@ -3577,6 +3577,14 @@
           "away": "Baltimore Orioles",
           "homeScore": 8,
           "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-09-21T22:35:00Z",
+          "home": "Baltimore Orioles",
+          "away": "Toronto Blue Jays",
+          "homeScore": 4,
+          "awayScore": 3,
           "isCompleted": true
         }
       ]
@@ -4397,11 +4405,6 @@
           "detail": ""
         },
         {
-          "name": "Tony Gonsolin",
-          "status": "15-Day-IL",
-          "detail": "Surgery"
-        },
-        {
           "name": "James McArthur",
           "status": "60-Day-IL",
           "detail": "Surgery"
@@ -4415,6 +4418,11 @@
           "name": "Beck Way",
           "status": "15-Day-IL",
           "detail": ""
+        },
+        {
+          "name": "Carlos Estevez",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
         }
       ],
       "away": [
@@ -5183,7 +5191,7 @@
     },
     "standings": {
       "home": {
-        "rank": "12",
+        "rank": "11",
         "wins": "73",
         "losses": "83",
         "ties": "0",
@@ -5310,6 +5318,16 @@
     "injuries": {
       "home": [
         {
+          "name": "Willy Adames",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Bryce Eldridge",
+          "status": "7-Day IL",
+          "detail": "Concussion"
+        },
+        {
           "name": "JT Brubaker",
           "status": "15-Day-IL",
           "detail": "Bruise"
@@ -5320,19 +5338,9 @@
           "detail": "Strain"
         },
         {
-          "name": "Willy Adames",
-          "status": "10-Day-IL",
-          "detail": "Sprain"
-        },
-        {
           "name": "Nate Furman",
           "status": "10-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "Bryce Eldridge",
-          "status": "7-Day IL",
-          "detail": "Concussion"
         }
       ],
       "away": [
@@ -5366,26 +5374,40 @@
     "standings": {
       "home": {
         "rank": "14",
-        "wins": "64",
+        "wins": "65",
         "losses": "92",
         "ties": "0",
-        "winPercent": ".410",
-        "gamesBehind": "34",
-        "pointsFor": "656",
-        "pointsAgainst": "740"
+        "winPercent": ".414",
+        "gamesBehind": "33.5",
+        "pointsFor": "661",
+        "pointsAgainst": "742"
       },
       "away": {
-        "rank": "11",
+        "rank": "12",
         "wins": "73",
-        "losses": "83",
+        "losses": "84",
         "ties": "0",
-        "winPercent": ".468",
-        "gamesBehind": "22.5",
-        "pointsFor": "712",
-        "pointsAgainst": "776"
+        "winPercent": ".465",
+        "gamesBehind": "23",
+        "pointsFor": "714",
+        "pointsAgainst": "781"
       }
     },
-    "h2h": null
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SF leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-09-22T01:45:00Z",
+          "home": "San Francisco Giants",
+          "away": "Minnesota Twins",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
   },
   {
     "home": "Los Angeles Dodgers",
@@ -5398,27 +5420,27 @@
     "injuries": {
       "home": [
         {
-          "name": "Dalton Rushing",
-          "status": "10-Day-IL",
-          "detail": "Soreness"
-        },
-        {
-          "name": "Roki Sasaki",
-          "status": "15-Day-IL",
-          "detail": "Abrasion"
-        },
-        {
-          "name": "Andy Pages",
-          "status": "10-Day-IL",
-          "detail": "Surgery"
-        },
-        {
           "name": "Kyle Tucker",
           "status": "Day-To-Day",
           "detail": ""
         },
         {
+          "name": "Dalton Rushing",
+          "status": "10-Day-IL",
+          "detail": "Soreness"
+        },
+        {
           "name": "Gavin Stone",
+          "status": "60-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Jake Cousins",
+          "status": "60-Day-IL",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Ben Casparius",
           "status": "60-Day-IL",
           "detail": "Inflammation"
         }
@@ -5602,24 +5624,24 @@
     },
     "standings": {
       "home": {
-        "rank": "2",
-        "wins": "2",
+        "rank": "1",
+        "wins": "3",
         "losses": "0",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "8",
-        "pointsAgainst": "4"
+        "pointsFor": "11",
+        "pointsAgainst": "6"
       },
       "away": {
-        "rank": "10",
+        "rank": "9",
         "wins": "0",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "gamesBehind": "5",
+        "pointsFor": "2",
+        "pointsAgainst": "3"
       }
     },
     "h2h": null
@@ -5647,6 +5669,11 @@
       ],
       "away": [
         {
+          "name": "Vincent Iorio",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Adam Sykora",
           "status": "Out",
           "detail": ""
@@ -5660,12 +5687,12 @@
     },
     "standings": {
       "home": {
-        "rank": "1",
+        "rank": "2",
         "wins": "2",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "-",
+        "gamesBehind": "2",
         "pointsFor": "5",
         "pointsAgainst": "3"
       },
@@ -5675,7 +5702,7 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "2",
         "pointsAgainst": "3"
       }
@@ -5723,72 +5750,14 @@
     },
     "standings": {
       "home": {
-        "rank": "2",
-        "wins": "2",
+        "rank": "1",
+        "wins": "3",
         "losses": "0",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "8",
-        "pointsAgainst": "4"
-      },
-      "away": {
-        "rank": "10",
-        "wins": "0",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Columbus Blue Jackets",
-    "away": "Detroit Red Wings",
-    "date": "2026-09-21T23:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401879450",
-    "injuries": {
-      "home": [
-        {
-          "name": "Dante Fabbro",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Riley Bezeau",
-          "status": "Out",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Adam Fantilli",
-          "status": "Out",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Dylan Larkin",
-          "status": "Out",
-          "detail": "Not Specified"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "11",
-        "wins": "0",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "pointsFor": "11",
+        "pointsAgainst": "6"
       },
       "away": {
         "rank": "9",
@@ -5796,67 +5765,9 @@
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Washington Capitals",
-    "away": "Philadelphia Flyers",
-    "date": "2026-09-21T23:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401879359",
-    "injuries": {
-      "home": [
-        {
-          "name": "Alex Ovechkin",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Patrick Thomas",
-          "status": "Out",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Denver Barkey",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Nikita Grebenkin",
-          "status": "Out",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "3",
-        "wins": "1",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "7",
-        "pointsAgainst": "5"
-      },
-      "away": {
-        "rank": "15",
-        "wins": "0",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "5",
         "pointsFor": "2",
-        "pointsAgainst": "5"
+        "pointsAgainst": "3"
       }
     },
     "h2h": null
@@ -5907,9 +5818,67 @@
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
+        "gamesBehind": "4",
         "pointsFor": "4",
         "pointsAgainst": "1"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "0",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "1",
+        "pointsAgainst": "4"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Washington Capitals",
+    "away": "Philadelphia Flyers",
+    "date": "2026-09-21T23:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401879359",
+    "injuries": {
+      "home": [
+        {
+          "name": "Alex Ovechkin",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Patrick Thomas",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Denver Barkey",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Nikita Grebenkin",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "1",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "3",
+        "pointsFor": "7",
+        "pointsAgainst": "5"
       },
       "away": {
         "rank": "16",
@@ -5917,9 +5886,67 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "2",
+        "pointsAgainst": "5"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Columbus Blue Jackets",
+    "away": "Detroit Red Wings",
+    "date": "2026-09-21T23:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401879450",
+    "injuries": {
+      "home": [
+        {
+          "name": "Dante Fabbro",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Riley Bezeau",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Adam Fantilli",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Dylan Larkin",
+          "status": "Out",
+          "detail": "Not Specified"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "1",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
         "gamesBehind": "4",
         "pointsFor": "1",
-        "pointsAgainst": "4"
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "0",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "5",
+        "pointsFor": "0",
+        "pointsAgainst": "1"
       }
     },
     "h2h": null
@@ -6002,23 +6029,23 @@
     },
     "standings": {
       "home": {
-        "rank": "16",
+        "rank": "14",
         "wins": "0",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "1",
         "pointsAgainst": "4"
       },
       "away": {
-        "rank": "11",
-        "wins": "0",
+        "rank": "7",
+        "wins": "1",
         "losses": "0",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "4",
-        "pointsFor": "0",
+        "pointsFor": "1",
         "pointsAgainst": "0"
       }
     },
@@ -6070,19 +6097,19 @@
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
+        "gamesBehind": "4",
         "pointsFor": "4",
         "pointsAgainst": "1"
       },
       "away": {
-        "rank": "9",
+        "rank": "10",
         "wins": "0",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "5",
         "pointsFor": "0",
-        "pointsAgainst": "0"
+        "pointsAgainst": "1"
       }
     },
     "h2h": null
@@ -6097,6 +6124,11 @@
     "gameId": "401879648",
     "injuries": {
       "home": [
+        {
+          "name": "Vincent Iorio",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "Adam Sykora",
           "status": "Out",
@@ -6133,7 +6165,7 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "2",
         "pointsAgainst": "3"
       },
@@ -6143,7 +6175,7 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "1",
         "pointsAgainst": "2"
       }
@@ -6186,12 +6218,12 @@
     },
     "standings": {
       "home": {
-        "rank": "14",
+        "rank": "15",
         "wins": "0",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "3",
         "pointsAgainst": "6"
       },
@@ -6201,7 +6233,7 @@
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
+        "gamesBehind": "4",
         "pointsFor": "6",
         "pointsAgainst": "3"
       }
@@ -6239,66 +6271,24 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
+        "rank": "8",
         "wins": "1",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
+        "gamesBehind": "4",
         "pointsFor": "3",
         "pointsAgainst": "2"
       },
       "away": {
-        "rank": "15",
+        "rank": "16",
         "wins": "0",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "2",
         "pointsAgainst": "5"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Chicago Blackhawks",
-    "away": "Minnesota Wild",
-    "date": "2026-09-22T00:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401886259",
-    "injuries": {
-      "home": [],
-      "away": [
-        {
-          "name": "Filip Gustavsson",
-          "status": "Out",
-          "detail": "Surgery"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "8",
-        "wins": "0",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "2",
-        "pointsAgainst": "3"
-      },
-      "away": {
-        "rank": "7",
-        "wins": "1",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "3",
-        "pointsAgainst": "2"
       }
     },
     "h2h": null
@@ -6349,24 +6339,66 @@
     },
     "standings": {
       "home": {
-        "rank": "15",
-        "wins": "0",
+        "rank": "9",
+        "wins": "1",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "2",
-        "pointsAgainst": "5"
+        "gamesBehind": "2",
+        "pointsFor": "5",
+        "pointsAgainst": "6"
       },
       "away": {
+        "rank": "8",
+        "wins": "1",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "2",
+        "pointsFor": "5",
+        "pointsAgainst": "4"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Chicago Blackhawks",
+    "away": "Minnesota Wild",
+    "date": "2026-09-22T00:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401886259",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Filip Gustavsson",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
         "rank": "3",
         "wins": "1",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "4",
-        "pointsAgainst": "1"
+        "gamesBehind": "1",
+        "pointsFor": "6",
+        "pointsAgainst": "6"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "1",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "6",
+        "pointsAgainst": "6"
       }
     },
     "h2h": null
@@ -6381,6 +6413,11 @@
     "gameId": "401886428",
     "injuries": {
       "home": [
+        {
+          "name": "Cameron Hughes",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "Arno Tiefensee",
           "status": "Out",
@@ -6412,24 +6449,24 @@
     },
     "standings": {
       "home": {
-        "rank": "6",
-        "wins": "1",
+        "rank": "2",
+        "wins": "2",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "2",
-        "pointsAgainst": "1"
+        "gamesBehind": "-",
+        "pointsFor": "4",
+        "pointsAgainst": "2"
       },
       "away": {
-        "rank": "9",
+        "rank": "16",
         "wins": "0",
-        "losses": "1",
+        "losses": "2",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "4",
-        "pointsFor": "1",
-        "pointsAgainst": "2"
+        "pointsFor": "2",
+        "pointsAgainst": "4"
       }
     },
     "h2h": null
@@ -6485,24 +6522,24 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
+        "rank": "11",
         "wins": "0",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
+        "gamesBehind": "5",
         "pointsFor": "4",
         "pointsAgainst": "8"
       },
       "away": {
-        "rank": "10",
+        "rank": "9",
         "wins": "0",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "gamesBehind": "5",
+        "pointsFor": "2",
+        "pointsAgainst": "3"
       }
     },
     "h2h": null
@@ -6558,22 +6595,22 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "9",
         "wins": "0",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "gamesBehind": "5",
+        "pointsFor": "2",
+        "pointsAgainst": "3"
       },
       "away": {
-        "rank": "8",
+        "rank": "11",
         "wins": "0",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
+        "gamesBehind": "5",
         "pointsFor": "4",
         "pointsAgainst": "8"
       }
@@ -6621,7 +6658,7 @@
     },
     "standings": {
       "home": {
-        "rank": "16",
+        "rank": "15",
         "wins": "0",
         "losses": "1",
         "ties": null,
@@ -6631,7 +6668,7 @@
         "pointsAgainst": "6"
       },
       "away": {
-        "rank": "5",
+        "rank": "7",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -6799,7 +6836,7 @@
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
+        "gamesBehind": "4",
         "pointsFor": "2",
         "pointsAgainst": "1"
       }
@@ -6852,17 +6889,17 @@
     },
     "standings": {
       "home": {
-        "rank": "15",
-        "wins": "0",
+        "rank": "9",
+        "wins": "1",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "2",
-        "pointsAgainst": "5"
+        "gamesBehind": "2",
+        "pointsFor": "5",
+        "pointsAgainst": "6"
       },
       "away": {
-        "rank": "4",
+        "rank": "6",
         "wins": "1",
         "losses": "0",
         "ties": null,
