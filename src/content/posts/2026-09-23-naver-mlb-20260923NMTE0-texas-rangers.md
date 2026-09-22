@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 
 injuryHome: "Brandon Nimmo (경미)|Joc Pederson (경미)|Jack Leiter (수술)|Michael Helman (골절)|Kyle Higashioka (염좌)"
 injuryAway: "Devin Williams (염좌)|Jared Young (뇌진탕)|Daniel Duarte (염좌)|Robert Stock (부상)|Jorge Polanco (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 N. McLean (11-10, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

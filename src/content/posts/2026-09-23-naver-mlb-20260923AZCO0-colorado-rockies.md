@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.21","home":"애리조나 다이아몬드백스","aw
 injuryHome: "Kyle Karros (경련)|Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)"
 injuryAway: "Tyler Locklear (골절)|Ryan Thompson (근육 손상)|A.J. Puk (염좌)|Andrew Saalfrank (수술)|Cristian Mena (수술)"
 homeLineup: "[\"선발투수 M. Adams (0-1, 5.09) ERA 5.09|https://a.espncdn.com/i/headshots/mlb/players/full/4758424.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 M. Kelly (9-14, 5.00) ERA 5.00|https://a.espncdn.com/i/headshots/mlb/players/full/32968.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
