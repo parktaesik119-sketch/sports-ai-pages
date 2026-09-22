@@ -726,13 +726,19 @@ PICK_EXPECTED_AWAY: (원정팀 예상 득점. 경기 정보에 제공된 JS 계�
   const homePath = path.resolve(__dirname, '../public/logos', `${homeFile}.png`);
   const awayPath = path.resolve(__dirname, '../public/logos', `${awayFile}.png`);
 
-  match.homeLogo = fs.existsSync(homePath)
-    ? `/logos/${homeFile}.png`
-    : '/images/wing-home.png';
+  // [수정] 이미 API(masterData/fotmob/ESPN 등)에서 로고를 받아온 팀은 건드리지 않고,
+  // match.homeLogo/awayLogo가 비어있는 경우에만 로컬 public/logos 폴더를 확인하도록 변경.
+  if (!match.homeLogo) {
+    match.homeLogo = fs.existsSync(homePath)
+      ? `/logos/${homeFile}.png`
+      : '/images/wing-home.png';
+  }
 
-  match.awayLogo = fs.existsSync(awayPath)
-    ? `/logos/${awayFile}.png`
-    : '/images/wing-away.png';
+  if (!match.awayLogo) {
+    match.awayLogo = fs.existsSync(awayPath)
+      ? `/logos/${awayFile}.png`
+      : '/images/wing-away.png';
+  }
 
   // [추가] 로고 파일이 없을 때 정확히 어떤 파일명이 필요한지 로그로 남겨서
   // 다음에 로고를 추가할 때 파일명을 바로 알 수 있게 함.
