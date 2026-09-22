@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.21","home":"클리블랜드 가디언스","away":"�
 injuryHome: "Garrett Crochet (인대 염좌)|Tanner Houck (수술)|Willson Contreras (타박상)|Aroldis Chapman (통증)|Johan Oviedo (인대 염좌)"
 injuryAway: "Brayan Rocchio (통증)|Colin Holderman (염증)|Rhys Hoskins (염증)|Shawn Armstrong (인대 염좌)"
 homeLineup: "[\"선발투수 P. Tolle (9-6, 3.02) ERA 3.02|https://a.espncdn.com/i/headshots/mlb/players/full/4966140.png\"]"
-awayLineup: "[\"선발투수 P. Messick (12-9, 2.57) ERA 2.57|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
+awayLineup: "[\"선발투수 P. Messick (12-9, 2.57) ERA 2.57|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\",\"1번 S. Kwan (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/41996.png\",\"2번 J. Ramirez (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/32801.png\",\"3번 C. DeLauter (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png\",\"4번 J. Adell (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/40854.png\",\"5번 A. Martinez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/42497.png\",\"6번 D. Fry (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41672.png\",\"7번 T. Bazzana (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png\",\"8번 A. Hedges (C)|https://a.espncdn.com/i/headshots/mlb/players/full/32168.png\",\"9번 B. Rocchio (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/41217.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
