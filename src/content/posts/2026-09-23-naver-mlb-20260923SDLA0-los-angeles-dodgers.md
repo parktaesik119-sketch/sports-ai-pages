@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스�
 awayRecent: '[{"date":"26.09.21","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921FLSD0-2026-09-21-san-diego-padres/"},{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"},{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"}]'
 injuryHome: "Dalton Rushing (통증)|Roki Sasaki (찰과상)|Andy Pages (수술)|Kyle Tucker (단기 부상)|Gavin Stone (염증)"
 injuryAway: "Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Jason Adam (긴장)|Miguel Andujar (골절)|Joe Musgrove (염증)"
-homeLineup: "[\"선발투수 B. Snell (4-1, 1.86) ERA 1.86|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
+homeLineup: "[\"선발투수 Y. Yamamoto (14-8, 2.51) ERA 2.51|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
 awayLineup: "[\"선발투수 R. Ray (13-8, 3.60) ERA 3.60|https://a.espncdn.com/i/headshots/mlb/players/full/32175.png\"]"
 homeFormation: ""
 awayFormation: ""

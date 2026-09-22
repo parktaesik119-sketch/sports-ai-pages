@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.22","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Jack Flaherty (염증)|Kerry Carpenter (족저근막염)|Justin Verlander (긴장)|Kyle Finnegan (염증)|Colt Keith (염좌)"
 injuryAway: "Orlando Ribalta (염증)|PJ Poulin (긴장)|Connelly Early (염증)|Matt Waldron (염증)|Drew Millas (수술)"
 homeLineup: "[\"선발투수 D. Anderson (5-6, 3.62) ERA 3.62|https://a.espncdn.com/i/headshots/mlb/players/full/41125.png\"]"
-awayLineup: "[\"선발투수 J. Kent (1-4, 6.40) ERA 6.40|https://a.espncdn.com/i/headshots/mlb/players/full/5007807.png\"]"
+awayLineup: "[\"선발투수 R. Cornelio (3-2, 4.22) ERA 4.22|https://a.espncdn.com/i/headshots/mlb/players/full/4622146.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
