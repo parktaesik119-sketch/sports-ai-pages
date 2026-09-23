@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애�
 injuryHome: "Brendan Donovan (뇌진탕)|Brennen Davis (근육 염좌)|Cole Wilcox (근육 염좌)|Will Wilson (골절)"
 injuryAway: "Mike Burrows (염증)|Steven Okert (근육 염좌)|Enyel De Los Santos (건염)|Carlos Correa (수술)|Brandon Walter (수술)"
 homeLineup: "[\"선발투수 G. Kirby (9-11, 4.24) ERA 4.24|https://a.espncdn.com/i/headshots/mlb/players/full/42406.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 E. Pecko (1-0, 3.77) ERA 3.77|https://a.espncdn.com/i/headshots/mlb/players/full/4944276.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.22","home":"히로시마 도요 카프","away":"요
 awayRecent: '[{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"},{"date":"26.09.20","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920YAYO0-2026-09-20-yomiuri-giants/"},{"date":"26.09.19","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"14-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919JNYO0-2026-09-19-yomiuri-giants/"},{"date":"26.09.18","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260918JNYO0-2026-09-18-yomiuri-giants/"},{"date":"26.09.15","home":"요코하마 DeNA 베이스타스","away":"요미우리 자이언츠","score":"13-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915YOYK0-2026-09-15-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Masato Morishita (6-11, 3.55)|https://p.npb.jp/players_photo/2026/180/c/018_53155151.jpg\"]"
+awayLineup: "[\"선발투수 Yuhi Nishidate (2-3, 2.54)|https://p.npb.jp/players_photo/2026/180/g/017_31635159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
