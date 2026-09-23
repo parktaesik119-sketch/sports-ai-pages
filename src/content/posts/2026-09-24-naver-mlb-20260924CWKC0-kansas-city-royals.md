@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.21","home":"시카고 화이트삭스","away":"디�
 injuryHome: "Craig Kimbrel (경미)|James McArthur (주요)|Connor Seabold (주요)|Beck Way (주요)|Carlos Estevez (주요)"
 injuryAway: "Prelander Berroa (주요)|Joey Bart (주요)|Tanner Murray (주요)|Tristan Peters (경미)|Ky Bush (주요)"
 homeLineup: "[\"선발투수 S. Lugo (7-9, 5.06) ERA 5.06|https://a.espncdn.com/i/headshots/mlb/players/full/34873.png\"]"
-awayLineup: "[\"선발투수 E. Fedde (8-9, 3.90) ERA 3.90|https://a.espncdn.com/i/headshots/mlb/players/full/33793.png\"]"
+awayLineup: "[\"선발투수 B. Hudson (5-4, 3.03) ERA 3.03|https://a.espncdn.com/i/headshots/mlb/players/full/4991171.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

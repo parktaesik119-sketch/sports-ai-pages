@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.21","home":"텍사스 레인저스","away":"토론�
 awayRecent: '[{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921PHNM0-2026-09-21-new-york-mets/"},{"date":"26.09.20","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920PHNM0-2026-09-20-new-york-mets/"},{"date":"26.09.19","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919PHNM0-2026-09-19-new-york-mets/"},{"date":"26.09.18","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918PHNM0-2026-09-18-new-york-mets/"},{"date":"26.09.17","home":"뉴욕 메츠","away":"볼티모어 오리올스","score":"1-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BANM0-2026-09-17-new-york-mets/"}]'
 injuryHome: "Brandon Nimmo (경미)|Joc Pederson (경미)|Jack Leiter (수술)|Michael Helman (골절)|Kyle Higashioka (염좌)"
 injuryAway: "Devin Williams (염좌)|Jared Young (뇌진탕)|Daniel Duarte (염좌)|Robert Stock (부상)|Jorge Polanco (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 C. Bradford (0-5, 4.19) ERA 4.19|https://a.espncdn.com/i/headshots/mlb/players/full/4142539.png\"]"
 awayLineup: "[\"선발투수 N. McLean (11-10, 3.18) ERA 3.18|https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png\"]"
 homeFormation: ""
 awayFormation: ""
