@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.22","home":"니혼햄 파이터즈","away":"라쿠�
 awayRecent: '[{"date":"26.09.22","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922RTNH0-2026-09-22-nippon-ham-fighters/"},{"date":"26.09.20","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920SFRT0-2026-09-20-rakuten-gold-eagles/"},{"date":"26.09.19","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919SFRT0-2026-09-19-rakuten-gold-eagles/"},{"date":"26.09.17","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260917RTJL0-2026-09-17-chiba-lotte-marines/"},{"date":"26.09.16","home":"지바 롯데 마린스","away":"라쿠텐 골든이글스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260916RTJL0-2026-09-16-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kota Tatsu (5-7, 2.99)|https://p.npb.jp/players_photo/2026/180/f/016_01205155.jpg\"]"
+awayLineup: "[\"선발투수 Kenta Maeda (4-4, 2.52)|https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
