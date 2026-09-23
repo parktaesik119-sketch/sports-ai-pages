@@ -1,0 +1,37 @@
+---
+title: "콜로라도 로키스 vs 애리조나 다이아몬드백스 야구분석·승부예측 (9월 24일) - 픽천국"
+date: 2026-09-24T00:40:00.000Z
+description: "콜로라도 로키스 vs 애리조나 다이아몬드백스 야구분석: 콜로라도 로키스는 시즌 내내 이어진 투타 불균형과 최근의 심각한 연패 흐름으로 인해 전력 열세에 놓여 있습니다. 반면 애리조나… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260924AZCO0-2026-09-24-colorado-rockies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "콜로라도 로키스"
+awayTeam: "애리조나 다이아몬드백스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+homeAnalysis: "콜로라도 로키스는 2026시즌 57승 99패를 기록하며 리그순위 15위에 머물러 있습니다. 최근 10경기에서 1승 9패라는 극심한 부진을 겪으며 시즌 막바지 투타 밸런스가 완전히 무너진 모습을 보이고 있습니다. 득실 마진이 -177.0에 달할 정도로 공수 양면에서 안정감이 부족하며, 특히 투수진의 실점 억제력이 시즌 내내 고전하는 원인이 되었습니다. 홈에서도 반등의 계기를 마련하지 못하고 패배가 반복되면서 경기 운영에 큰 어려움을 겪고 있습니다. 전력의 핵심들이 다수 결장한 상황이라 남은 일정 동안 선수층의 깊이 부족이 더욱 뼈아프게 다가오는 실정입니다."
+awayAnalysis: "애리조나 다이아몬드백스는 2026시즌 82승 74패로 리그순위 7위에 위치하며 준수한 시즌을 보내고 있습니다. 최근 10경기에서 5승 5패로 다소 기복을 보이고 있으나, 득실 마진이 -1.0으로 시즌 전체적으로는 균형 잡힌 전력을 유지하고 있습니다. 시즌 초반부터 중상위권 순위를 지키며 안정적인 득점 지원과 마운드의 조화가 팀의 강점으로 자리 잡았습니다. 원정 경기에서도 집중력을 잃지 않으며 승리를 챙기는 모습은 이번 시리즈를 앞두고 긍정적인 요소로 평가됩니다. 전체적인 공수 짜임새가 안정적이라 매 경기 꾸준한 성과를 기대할 수 있는 상태입니다."
+homePower: "투타 밸런스 붕괴로 최근 연패 흐름이 길어짐|실점 억제력 저하로 경기 후반부 역전패 다수 발생|핵심 자원들의 장기 이탈로 경기당 득점 효율 저하|홈 경기장 이점 활용 실패로 인한 승률 회복 탄력 부족|리그 최하위 수준의 득실 마진으로 인한 전력 불균형 심화"
+awayPower: "시즌 승률 5할 이상 유지하며 안정적인 궤도 진입|투타 조화를 바탕으로 상위권 팀들과 대등한 승부 가능|기복 있는 최근 흐름 속에서도 타선의 집중력은 건재함|원정 경기에서의 안정된 경기 운영 능력 검증됨|시즌 전체 득실 마진이 균형을 이뤄 큰 실점 변수 적음"
+h2h: '[{"date":"26.08.13","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"4-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813COAZ0-2026-08-13-arizona-diamondbacks/"},{"date":"26.08.12","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"},{"date":"26.08.11","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811COAZ0-2026-08-11-arizona-diamondbacks/"},{"date":"26.05.25","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"9-1","link":"https://pick79.com/posts/detail/analyze-178807-2026-05-25-arizona-diamondbacks/"},{"date":"26.05.24","home":"애리조나 다이아몬드백스","away":"콜로라도 로키스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-178777-2026-05-23-arizona-diamondbacks/"}]'
+summary: "콜로라도 로키스는 시즌 내내 이어진 투타 불균형과 최근의 심각한 연패 흐름으로 인해 전력 열세에 놓여 있습니다. 반면 애리조나 다이아몬드백스는 리그 상위권의 성적을 유지하며 공수에서 훨씬 안정된 짜임새를 보여주고 있어 이번 대결에서도 우위를 점할 가능성이 높습니다. 객관적인 시즌 성적과 최근 흐름을 종합해 볼 때, 전력의 격차가 확실한 만큼 애리조나 다이아몬드백스가 경기 흐름을 주도하며 경기를 풀어갈 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.21","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SECO0-2026-09-21-colorado-rockies/"},{"date":"26.09.19","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SECO0-2026-09-19-colorado-rockies/"},{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"},{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"}]'
+awayRecent: '[{"date":"26.09.21","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921NYAZ0-2026-09-21-arizona-diamondbacks/"},{"date":"26.09.19","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919NYAZ0-2026-09-19-arizona-diamondbacks/"},{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"},{"date":"26.09.15","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915FLAZ0-2026-09-15-arizona-diamondbacks/"}]'
+injuryHome: "Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)|Pierson Ohl (수술)"
+injuryAway: "Tyler Locklear (골절)|Ryan Thompson (염좌)|A.J. Puk (염좌)|Andrew Saalfrank (수술)|Cristian Mena (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

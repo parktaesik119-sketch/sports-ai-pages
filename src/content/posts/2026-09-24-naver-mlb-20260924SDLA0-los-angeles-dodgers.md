@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 샌디에이고 파드리스 야구분석·승부예측 (9월 24일) - 픽천국"
+date: 2026-09-24T02:10:00.000Z
+description: "LA 다저스 vs 샌디에이고 파드리스 야구분석: 2026시즌 전반에 걸쳐 리그순위 2위를 유지하며 압도적인 득실점 차이를 기록 중인 LA 다저스가 전력 부문에서 확실한 우위를… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260924SDLA0-2026-09-24-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "샌디에이고 파드리스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+homeAnalysis: "LA 다저스는 2026시즌 96승 60패(승률 .615)를 기록하며 현재 리그순위 2위에 위치해 탄탄한 전력을 증명하고 있습니다. 최근 10경기에서도 7승 3패의 우수한 성적을 거두며 안정적인 상승 흐름을 이어가고 있습니다. 득실점 차이가 +193.0에 달할 만큼 공수 양면에서 완성도 높은 경기력을 보여주고 있습니다. 마운드에서는 견고한 운영이 돋보이며 타선 또한 경기당 평균 5득점 내외의 꾸준한 화력으로 승리를 뒷받침하고 있습니다. 최근 샌프란시스코 자이언츠와의 연전을 연승으로 장식하며 팀 분위기 역시 최상으로 고조되어 있습니다."
+awayAnalysis: "샌디에이고 파드리스는 2026시즌 87승 69패(승률 .558)의 성적으로 현재 리그순위 5위에 자리 잡고 있습니다. 최근 10경기에서 9승 1패라는 압도적인 성적을 내며 가파른 상승 기세를 보여주고 있습니다. 득실점 격차 +41.0을 바탕으로 경기 후반 접전 상황에서 뛰어난 집중력을 발휘하며 승수를 챙기고 있습니다. 타선은 최근 연일 다득점 경기를 만들어내며 경기당 평균 5득점 수준의 활발한 공격력을 자랑하고 있습니다. 다만 주요 투수 및 야수진의 결장 공백이 있어 마운드 과부하를 막는 리드 관리가 중요한 승부처가 될 것으로 보입니다."
+homePower: "LA 다저스는 2026시즌 리그순위 2위로 공수 밸런스 입증함|최근 10경기 7승 3패 흐름으로 우수한 기세 유지함|샌디에이고 파드리스 상대 맞대결 7승 3패 상성 우위임|득실차 +193.0 기반 압도적 전력차를 증명함|홈 타선의 집중력과 선발진의 호투로 승리 가능성 높임"
+awayPower: "샌디에이고 파드리스 최근 10경기 9승 1패 호조임|경기당 5득점 내외 화력으로 타선 침체 극복함|득실차 +41.0으로 접전 양상 승률 제고 효과 보임|LA 다저스 상대 맞대결 열세 극복이 최우선 과제임|마운드 일부 결장 악재 속 리드 지키기 집중함"
+h2h: '[{"date":"26.07.06","home":"LA 다저스","away":"샌디에이고 파드리스","score":"2-5","link":"https://pick79.com/posts/detail/analyze-179359-2026-07-06-los-angeles-dodgers/"},{"date":"26.07.05","home":"LA 다저스","away":"샌디에이고 파드리스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-179329-2026-07-04-los-angeles-dodgers/"},{"date":"26.07.04","home":"LA 다저스","away":"샌디에이고 파드리스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-179329-2026-07-04-los-angeles-dodgers/"},{"date":"26.07.03","home":"LA 다저스","away":"샌디에이고 파드리스","score":"12-7","link":"https://pick79.com/posts/detail/analyze-179320-2026-07-03-los-angeles-dodgers/"},{"date":"26.06.29","home":"샌디에이고 파드리스","away":"LA 다저스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-179264-2026-06-29-san-diego-padres/"}]'
+summary: "2026시즌 전반에 걸쳐 리그순위 2위를 유지하며 압도적인 득실점 차이를 기록 중인 LA 다저스가 전력 부문에서 확실한 우위를 점하고 있습니다. 샌디에이고 파드리스 역시 최근 10경기에서 9승을 거두며 매서운 상승세를 타고 있으나 이번 시즌 상대전적에서 7승 3패로 우세를 이어온 LA 다저스의 상성을 넘어서기에는 다소 부담이 따를 것으로 보입니다. 공수 밸런스의 안정성과 맞대결에서의 우세 흐름을 종합하면 이번 경기는 LA 다저스가 주도권을 잡고 승리를 거둘 가능성이 높을 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SFLA0-2026-09-21-los-angeles-dodgers/"},{"date":"26.09.19","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers/"},{"date":"26.09.18","home":"신시내티 레즈","away":"LA 다저스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918LACI0-2026-09-18-cincinnati-reds/"},{"date":"26.09.17","home":"신시내티 레즈","away":"LA 다저스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917LACI0-2026-09-17-cincinnati-reds/"},{"date":"26.09.16","home":"신시내티 레즈","away":"LA 다저스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916LACI0-2026-09-16-cincinnati-reds/"}]'
+awayRecent: '[{"date":"26.09.21","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921FLSD0-2026-09-21-san-diego-padres/"},{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"},{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"}]'
+injuryHome: "Dalton Rushing (통증)|Gavin Stone (염증)|Jake Cousins (수술)|Ben Casparius (염증)|Brusdar Graterol (수술)"
+injuryAway: "Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Jason Adam (염좌)|Miguel Andujar (골절)|Joe Musgrove (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "디트로이트 타이거즈 vs 워싱턴 내셔널스 야구분석·승부예측 (9월 24일) - 픽천국"
+date: 2026-09-23T17:10:00.000Z
+description: "디트로이트 타이거즈 vs 워싱턴 내셔널스 야구분석: 디트로이트 타이거즈와 워싱턴 내셔널스는 현재 리그순위와 시즌 승률에서 큰 차이를 보이지 않을 만큼 비슷한 전력을 보유하고 있습… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260924MODE0-2026-09-24-detroit-tigers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "디트로이트 타이거즈"
+awayTeam: "워싱턴 내셔널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MO.png"
+homeAnalysis: "디트로이트 타이거즈는 2026시즌 119경기에서 58승 60패를 기록하며 48.7%의 승률을 보이고 있으며, 리그순위 10위에 머물러 있습니다. 시즌 득점 평균 4.5점을 바탕으로 꾸준한 타격감을 유지하려 노력하고 있으나, 최근 9경기에서 5승 4패로 흐름이 다소 기복을 보이는 모습입니다. 팀 내 핵심 자원들의 부상 공백이 발생하면서 투타의 균형을 맞추는 데 다소 어려움을 겪고 있으며, 이는 최근 경기에서 승패가 반복되는 원인이 되기도 합니다. 특히 홈 경기에서의 안정적인 운영이 더욱 중요해진 시점으로, 남은 경기 동안 투수진의 재정비가 필수적입니다. 전반적인 득점 지원 능력은 나쁘지 않으나, 경기 중반 이후 수비 집중력을 유지하는 것이 승리를 위한 핵심 과제로 평가됩니다."
+awayAnalysis: "워싱턴 내셔널스는 2026시즌 121경기에서 58승 61패를 거두며 48.8%의 승률을 기록 중이며, 리그순위 11위에 위치하고 있습니다. 시즌 평균 4.7득점을 생산하며 타선이 활발하게 움직이고 있지만, 최근 9경기에서 5승 4패를 기록하며 디트로이트 타이거즈와 유사한 흐름을 이어가고 있습니다. 원정길에 오르는 이번 일정에서는 득점력보다 실점을 최소화하는 수비 안정감이 변수로 작용할 것으로 보입니다. 시즌 전체 득실 격차가 크지 않아 박빙의 승부를 자주 펼치고 있으며, 집중력 있는 수비진의 활약 여부가 원정 성적을 결정짓는 주요 요인입니다. 상대와의 맞대결에서 보여준 득점 분산 능력을 얼마나 꾸준히 유지할 수 있을지가 이번 경기의 관전 포인트입니다."
+homePower: "핵심 자원 이탈로 인한 마운드 깊이 저하 현상 심화|상위 타선의 응집력을 통한 득점 기회 창출 능력 우수|홈구장 특성을 활용한 타격 효율성 극대화 전략 필요|불펜진의 후반 실점 억제력 보강이 승패의 갈림길|득점 생산 패턴의 기복을 줄이는 타격 세밀함 요구됨"
+awayPower: "시즌 평균 득점 대비 최근 경기 화력 감소세 뚜렷|외야 수비의 범위와 송구 정확도 등 기본기 안정감|주자 출루 시 득점권 집중력은 여전히 위협적 요소|선발 투수의 조기 강판 대비한 불펜 운영 효율성 절실|원정 환경에서의 적응력과 경기 운영 속도 변화가 관건"
+h2h: '[{"date":"26.09.23","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MODE0-2026-09-23-detroit-tigers/"},{"date":"26.09.22","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"9-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MODE0-2026-09-22-detroit-tigers/"}]'
+summary: "디트로이트 타이거즈와 워싱턴 내셔널스는 현재 리그순위와 시즌 승률에서 큰 차이를 보이지 않을 만큼 비슷한 전력을 보유하고 있습니다. 양 팀 모두 최근 9경기에서 5승 4패의 기록을 남기며 흐름 면에서도 팽팽한 양상을 나타내고 있어 치열한 접전이 예상됩니다. 상대전적 또한 1승 1패로 호각세를 이루고 있으나, 디트로이트 타이거즈가 홈에서의 이점을 활용해 타선의 집중력을 앞세운다면 보다 유리한 고지를 점할 가능성이 높습니다. 워싱턴 내셔널스는 원정에서 실점을 최소화하는 안정적인 투수 운용이 절실하며, 타격 흐름을 꾸준히 이어가는 팀이 주도권을 가져갈 것으로 보입니다. 전반적인 공수 밸런스에서 홈팀이 보여줄 수 있는 경기 운영 능력에 무게가 실리는 매치업입니다."
+homeRecent: '[{"date":"26.09.23","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MODE0-2026-09-23-detroit-tigers/"},{"date":"26.09.22","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MODE0-2026-09-22-detroit-tigers/"},{"date":"26.09.21","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921DECW0-2026-09-21-chicago-white-sox/"},{"date":"26.09.20","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920DECW0-2026-09-20-chicago-white-sox/"},{"date":"26.09.19","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919DECW0-2026-09-19-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.09.23","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MODE0-2026-09-23-detroit-tigers/"},{"date":"26.09.22","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MODE0-2026-09-22-detroit-tigers/"},{"date":"26.09.21","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals/"},{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"},{"date":"26.09.17","home":"워싱턴 내셔널스","away":"필라델피아 필리스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917PHMO0-2026-09-17-washington-nationals/"}]'
+injuryHome: "Kerry Carpenter (족저근막염)|Jack Flaherty (염증)|Justin Verlander (긴장)|Kyle Finnegan (염증)|Colt Keith (염좌)"
+injuryAway: "Orlando Ribalta (염증)|PJ Poulin (긴장)|Connelly Early (염증)|Matt Waldron (염증)|Drew Millas (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

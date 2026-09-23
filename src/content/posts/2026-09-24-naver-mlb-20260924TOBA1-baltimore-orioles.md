@@ -1,0 +1,37 @@
+---
+title: "볼티모어 오리올스 vs 토론토 블루제이즈 야구분석·승부예측 (9월 24일) - 픽천국"
+date: 2026-09-23T17:35:00.000Z
+description: "볼티모어 오리올스 vs 토론토 블루제이즈 야구분석: 양 팀은 2026시즌 리그순위 8위와 9위로 전력상 큰 차이가 없는 팽팽한 흐름을 이어가고 있습니다. 시즌 전체 성적을 살펴볼… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260924TOBA1-2026-09-24-baltimore-orioles"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "볼티모어 오리올스"
+awayTeam: "토론토 블루제이즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+homeAnalysis: "볼티모어 오리올스는 2026시즌 76승 81패, 승률 .484를 기록하며 현재 리그순위 9위에 자리하고 있습니다. 시즌 초반부터 중반까지 기복 있는 흐름을 보였으며, 최근 10경기에서도 5승 5패로 뚜렷한 상승세를 타지 못한 채 제자리걸음을 하고 있습니다. 팀 득실은 -30.0으로 수비 집중력 저하가 시즌 성적 하락의 주요 원인으로 분석됩니다. 홈 경기 운영 능력은 준수하지만, 상위권 팀들을 상대로 한 접전에서 마무리 해결사 부족 현상이 경기 결과를 가르는 결정적 요인이 되고 있습니다. 최근 타격 침체기가 길어지며 득점 지원이 불안정한 점이 이번 경기에서도 극복해야 할 과제로 보입니다."
+awayAnalysis: "토론토 블루제이즈는 2026시즌 77승 80패, 승률 .490을 기록하며 리그순위 8위에 올라있습니다. 최근 10경기에서는 4승 6패로 다소 주춤한 모습을 보이고 있으나, 시즌 전체적인 득실 차가 -43.0임에도 불구하고 볼티모어 오리올스보다 근소하게 높은 순위를 유지하고 있습니다. 원정 경기에서 타선이 한 번 터질 때 집중력을 발휘하는 경향이 있지만, 반대로 흐름이 끊기면 대량 실점으로 이어지는 수비 불안이 여전한 숙제입니다. 최근 맞대결에서 보여준 득점 집중력을 바탕으로 이번 원정 경기에서도 끈질긴 추격 양상을 만들어낼 준비가 되어 있습니다."
+homePower: "홈경기 접전 시 타선 집중력 기복 심함|시즌 득실 차 -30.0으로 투타 밸런스 불균형|최근 경기 불펜 방화로 인한 마무리 불안|상대 상성상 특정 투수 매치업 시 고전|득점권 상황에서 장타 의존도 지나치게 높음"
+awayPower: "원정 경기 초반 득점 지원 시 승률 높음|시즌 득실 -43.0으로 수비진의 조기 붕괴 위험|최근 맞대결 득점 생산력에서 우위 점함|하위 순위 팀 상대로 안정적인 경기 운영 가능|투수 로테이션의 이닝 소화력 기복 존재"
+h2h: '[{"date":"26.09.23","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"0-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923TOBA0-2026-09-23-baltimore-orioles/"},{"date":"26.09.22","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922TOBA0-2026-09-22-baltimore-orioles/"},{"date":"26.09.14","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"8-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260914BATO0-2026-09-14-toronto-blue-jays/"},{"date":"26.09.13","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"7-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260913BATO0-2026-09-13-toronto-blue-jays/"},{"date":"26.09.12","home":"토론토 블루제이즈","away":"볼티모어 오리올스","score":"4-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260912BATO0-2026-09-12-toronto-blue-jays/"}]'
+summary: "양 팀은 2026시즌 리그순위 8위와 9위로 전력상 큰 차이가 없는 팽팽한 흐름을 이어가고 있습니다. 시즌 전체 성적을 살펴볼 때 토론토 블루제이즈가 77승, 볼티모어 오리올스가 76승으로 승수 차이가 거의 없으며, 상대전적에서도 6승 5패로 토론토 블루제이즈가 근소한 우위를 점하고 있습니다. 최근 맞대결 흐름을 고려할 때 토론토 블루제이즈의 타선이 상대 수비진을 상대로 더 높은 생산력을 보여준 바 있어 이번 경기도 원정팀이 경기를 주도할 가능성이 높습니다. 수비 안정감과 경기 운영의 집중력 면에서 토론토 블루제이즈가 상대보다 근소한 우위를 점하며 결과를 만들어낼 것으로 판단됩니다."
+homeRecent: '[{"date":"26.09.22","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922TOBA0-2026-09-22-baltimore-orioles/"},{"date":"26.09.21","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MIBA0-2026-09-21-baltimore-orioles/"},{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MIBA0-2026-09-20-baltimore-orioles/"},{"date":"26.09.19","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MIBA0-2026-09-19-baltimore-orioles/"},{"date":"26.09.17","home":"뉴욕 메츠","away":"볼티모어 오리올스","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BANM0-2026-09-17-new-york-mets/"}]'
+awayRecent: '[{"date":"26.09.22","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922TOBA0-2026-09-22-baltimore-orioles/"},{"date":"26.09.21","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921TOTE0-2026-09-21-texas-rangers/"},{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"},{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"}]'
+injuryHome: "Samuel Basallo (경미)|Blaze Alexander (주요)|Ryan Mountcastle (주요)|Luis Robert Jr. (주요)|Jackson Holliday (주요)"
+injuryAway: "Brett Bateman (경미)|Vladimir Guerrero Jr. (경미)|Anthony Santander (주요)|Jonatan Clase (주요)|Luis Urias (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "토론토 블루제이즈"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 블루제이즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

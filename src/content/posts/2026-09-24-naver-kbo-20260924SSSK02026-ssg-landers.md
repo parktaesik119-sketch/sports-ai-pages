@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs 삼성 라이온스 야구분석·승부예측 (9월 24일) - 픽천국"
+date: 2026-09-24T08:00:00.000Z
+description: "SSG 랜더스 vs 삼성 라이온스 야구분석: 삼성 라이온스는 막강한 클린업 타선의 파괴력을 앞세워 리그 상위권 전력을 견고하게 유지하고 있습니다. SSG 랜더스가 최근 1… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260924SSSK02026-2026-09-24-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "삼성 라이온스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 108경기에서 43승 60패를 기록하며 리그 7위에 자리하고 있습니다. 시즌 평균 4.7득점의 타선 집중력을 보여준 가운데 최근 10경기에서는 6승 4패로 점차 안정적인 경기력을 되찾아가는 흐름입니다. 타선에서는 1번 타자 박성한이 높은 공수 기여도로 팀 타선을 든든하게 이끌고 있으며 상위 타선의 기회 창출 능력이 돋보입니다. 다만 경기별 마운드 기복으로 인해 대량 실점을 허용하는 경기가 간혹 발생하는 점은 수비 안정감 측면에서 다소 아쉬운 부분입니다. 안방 경기 운영에서 차분한 접전 상황 대처 능력을 과시해 온 만큼 이번 대결에서도 특유의 집중력을 발휘할 수 있을지 주목됩니다."
+awayAnalysis: "삼성 라이온스는 2026시즌 107경기 동안 62승 43패의 우수한 성적을 거두며 리그 2위에 굳건히 올라 있습니다. 시즌 평균 5.8득점에 달하는 리그 최고 수준의 화력을 바탕으로 강력한 공수 밸런스를 입증하고 있습니다. 최근 10경기에서도 4승 6패로 다소 팽팽한 흐름을 보였으나 경기마다 폭발적인 타격감으로 상대를 압도하는 힘을 지니고 있습니다. 중심 타선의 구자욱과 디아즈, 최형우로 이어지는 클린업 트리오는 높은 승리 기여도를 바탕으로 매 경기 위협적인 장타력을 과시합니다. 탄탄한 타선의 파괴력과 하위 타선의 고른 활약이 더해져 원정 길에서도 강한 면모를 보여줄 것으로 기대됩니다."
+homePower: "박성한 중심의 상위 타선 기회 창출력 우수함|최근 10경기 6승으로 후반기 상승세 돋보임|마운드 기복에 따른 대량 실점 변수 관리 필요함|상대전적 접전 상황에서 후반 집중력 발휘함|SSG 랜더스 안방 경기 운영의 안정감 검증됨"
+awayPower: "구자욱·디아즈 중심 클린업 화력 우위 점함|리그 최고 수준 장타력 기반 타선 폭발력 뛰어남|상하위 타선 간 고른 기여도로 찬스 해결 능력 높음|최근 맞대결 다득점 승리로 천적 상성 입증함|삼성 라이온스 리그 2위다운 경기 운영력 돋보임"
+h2h: '[{"date":"26.08.20","home":"삼성 라이온스","away":"SSG 랜더스","score":"4-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820SKSS02026-2026-08-20-samsung-lions/"},{"date":"26.08.19","home":"삼성 라이온스","away":"SSG 랜더스","score":"18-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819SKSS02026-2026-08-19-samsung-lions/"},{"date":"26.08.18","home":"삼성 라이온스","away":"SSG 랜더스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260818SKSS02026-2026-08-18-samsung-lions/"},{"date":"26.07.05","home":"SSG 랜더스","away":"삼성 라이온스","score":"3-13","link":"https://pick79.com/posts/detail/analyze-181836-2026-07-05-ssg-landers/"},{"date":"26.07.04","home":"SSG 랜더스","away":"삼성 라이온스","score":"7-13","link":"https://pick79.com/posts/detail/analyze-181827-2026-07-04-ssg-landers/"}]'
+summary: "삼성 라이온스는 막강한 클린업 타선의 파괴력을 앞세워 리그 상위권 전력을 견고하게 유지하고 있습니다. SSG 랜더스가 최근 10경기 6승을 거두며 홈에서 점차 경기력을 회복하고 있지만, 중심 타선의 중량감과 장타 생산력에서는 원정팀이 확실한 우위를 차지하고 있습니다. 상대전적에서도 삼성 라이온스는 대량 득점을 몰아치며 상대 마운드를 흔든 경험이 많아 공수 전반에서 더욱 유리한 주도권을 쥘 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.22","home":"SSG 랜더스","away":"KT 위즈","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922KTSK02026-2026-09-22-ssg-landers/"},{"date":"26.09.20","home":"SSG 랜더스","away":"키움 히어로즈","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920WOSK02026-2026-09-20-ssg-landers/"},{"date":"26.09.17","home":"NC 다이노스","away":"SSG 랜더스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917SKNC02026-2026-09-17-nc-dinos/"},{"date":"26.09.16","home":"롯데 자이언츠","away":"SSG 랜더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SKLT02026-2026-09-16-lotte-giants/"},{"date":"26.09.15","home":"SSG 랜더스","away":"KIA 타이거즈","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260915HTSK02026-2026-09-15-ssg-landers/"}]'
+awayRecent: '[{"date":"26.09.22","home":"삼성 라이온스","away":"NC 다이노스","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922NCSS02026-2026-09-22-samsung-lions/"},{"date":"26.09.20","home":"롯데 자이언츠","away":"삼성 라이온스","score":"13-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920SSLT02026-2026-09-20-lotte-giants/"},{"date":"26.09.19","home":"롯데 자이언츠","away":"삼성 라이온스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919SSLT02026-2026-09-19-lotte-giants/"},{"date":"26.09.18","home":"한화 이글스","away":"삼성 라이온스","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918SSHH02026-2026-09-18-hanwha-eagles/"},{"date":"26.09.16","home":"두산 베어스","away":"삼성 라이온스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SSOB02026-2026-09-16-doosan-bears/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성 라이온스"
+pickWinResult: "승"
+pickHandicapTeam: "삼성 라이온스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

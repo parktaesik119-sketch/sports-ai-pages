@@ -1,0 +1,37 @@
+---
+title: "Liechtenstein vs 리투아니아 축구분석·승부예측 (9월 25일) - 픽천국"
+date: 2026-09-24T18:45:00.000Z
+description: "Liechtenstein vs 리투아니아 축구분석: 리투아니아는 최근 견고한 수비 조직력을 바탕으로 안정적인 경기를 펼치며 긍정적인 흐름을 유지하고 있습니다. 반면 Liechte… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5181880-2026-09-25-liechtenstein"
+category: "soccer"
+country: "국제"
+league: "UEFA Nations League D Grp. 2"
+homeTeam: "Liechtenstein"
+awayTeam: "리투아니아"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8254.png"
+homeAnalysis: "이번 UEFA Nations League D Grp. 2에서 0승 0무 2패를 기록하고 있는 Liechtenstein은 아직 첫 승을 거두지 못하며 다소 고전하는 흐름입니다. 최근 경기들에서도 상대 수비를 공략하는 데 어려움을 겪으며 무득점 경기가 이어지고 있습니다. 공격에서의 마무리가 원활하게 이루어지지 않아 경기 주도권을 잡는 데 부담을 느끼는 모습입니다. 수비진 역시 실점이 누적되고 있어 수비 조직력의 안정감을 되찾는 것이 시급한 과제입니다. 이번 홈경기에서는 전열을 정비하여 분위기 반전을 노려야 하는 상황입니다."
+awayAnalysis: "이번 UEFA Nations League D Grp. 2에서 2승 5무 6패를 기록 중인 리투아니아는 전반적으로 안정적인 전력을 다지며 경기를 치르고 있습니다. 최근 경기들에서 끈질긴 수비 집중력을 선보이며 상대의 공세를 효과적으로 차단하는 모습을 보여주었습니다. 원정길에 나서는 상황이지만 조직적인 라인 운용을 바탕으로 안정된 경기력을 유지하고 있습니다. 공격 면에서는 확실한 찬스가 왔을 때 마무리하는 집중력을 더욱 높이는 것이 중요합니다. 탄탄한 수비력을 바탕으로 차분하게 경기를 풀어나간다면 원정에서도 충분히 좋은 흐름을 만들어낼 것으로 기대됩니다."
+homePower: "최근 연속 무득점으로 공격 마무리의 세밀함 부재|수비 불안 지속으로 경기 초반 실점 억제 시급함|리히텐슈타인의 홈 이점 살린 템포 조율 전략 필요해 보임|상대 수비진 압박을 뚫어낼 공격 전개 능력 부족함|경기 후반 집중력 저하 극복이 핵심 과제로 남음"
+awayPower: "리투아니아의 끈질긴 수비 조직력 바탕 안정감 우수함|최근 실점 억제력이 살아나며 팽팽한 흐름 유도함|맞대결 전적에서 우위를 점하며 심리적 자신감 확보됨|찬스에서의 결정력 보완 시 확실한 우세 기대됨|원정 부담 극복할 경기 운영의 노련함 검증됨"
+h2h: '[{"date":"13.09.11","home":"리투아니아","away":"Liechtenstein","score":"2-0"},{"date":"12.10.13","home":"Liechtenstein","away":"리투아니아","score":"0-2"},{"date":"11.09.03","home":"리투아니아","away":"Liechtenstein","score":"0-0"},{"date":"11.06.04","home":"Liechtenstein","away":"리투아니아","score":"2-0"}]'
+summary: "리투아니아는 최근 견고한 수비 조직력을 바탕으로 안정적인 경기를 펼치며 긍정적인 흐름을 유지하고 있습니다. 반면 Liechtenstein은 최근 공격진의 마무리가 둔화되어 있고 실점이 이어지는 등 다소 침체된 모습을 보이고 있습니다. 과거 맞대결에서도 리투아니아가 안정적인 전력으로 상대전적 우위를 점했던 만큼 전반적인 경기 주도권은 원정팀에게 기울 가능성이 높습니다. 전력의 밸런스와 최근 수비 안정감을 종합적으로 고려할 때 리투아니아가 우세를 점할 것으로 전망됩니다."
+homeRecent: '[{"date":"26.06.07","home":"Liechtenstein","away":"Cyprus","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544362-2026-06-07-liechtenstein/"},{"date":"26.06.05","home":"안도라","away":"Liechtenstein","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1542892-2026-06-05-andorra/"},{"date":"26.03.30","home":"Aruba","away":"Liechtenstein","score":"4-1","result":"🔴패"},{"date":"26.03.26","home":"Tanzania","away":"Liechtenstein","score":"0-1","result":"🟢승"},{"date":"25.11.19","home":"벨기에","away":"Liechtenstein","score":"7-0","result":"🔴패"}]'
+awayRecent: '[{"date":"26.06.10","home":"에스토니아","away":"리투아니아","score":"1-0","result":"🔴패"},{"date":"26.06.06","home":"리투아니아","away":"라트비아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1548309-2026-06-06-lithuania/"},{"date":"26.03.29","home":"리투아니아","away":"조지아","score":"0-2","result":"🔴패"},{"date":"26.03.27","home":"Moldova","away":"리투아니아","score":"0-2","result":"🟢승"},{"date":"25.11.18","home":"네덜란드","away":"리투아니아","score":"4-0","result":"🔴패"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "리투아니아"
+pickWinResult: "승"
+pickHandicapTeam: "리투아니아"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs 미네소타 트윈스 야구분석·승부예측 (9월 24일) - 픽천국"
+date: 2026-09-23T19:45:00.000Z
+description: "샌프란시스코 자이언츠 vs 미네소타 트윈스 야구분석: 샌프란시스코 자이언츠는 최근 타선의 집중력 회복과 마운드의 안정감을 바탕으로 경기력을 꾸준히 올려두고 있습니다. 반면 미네소타… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260924MNSF0-2026-09-24-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "미네소타 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 65승 92패 승률 .414를 기록하며 리그순위 14위에 위치해 있습니다. 시즌 전체 성적은 다소 하위권에 머물러 있으나 최근 10경기에서 5승 5패를 거두며 타선의 득점 생산성을 회복하는 모습을 보여주고 있습니다. 특히 직전 미네소타 트윈스와의 맞대결에서 5-2 완승을 거두며 홈 경기 운영에서의 안정감을 입증했습니다. 주요 타자인 윌리 아다메스 등의 장기 부상 이탈 악재 속에서도 세인트루이스 카디널스전을 비롯해 전반적인 타격 흐름이 살아나고 있습니다. 마운드의 실점 관리 능력 또한 살아나고 있어 이번 홈 경기에서도 주도권을 잡을 것으로 기대됩니다."
+awayAnalysis: "미네소타 트윈스는 2026시즌 73승 84패 승률 .465의 성적으로 리그순위 12위에 자리하고 있습니다. 최근 10경기 동안 4승 6패에 그치며 기복 있는 흐름을 지속하고 있어 중위권 반등에 어려움을 겪는 모습입니다. 바이런 벅스턴과 트레버 라나크 등 핵심 타선 자원들의 부상 이탈로 인해 득점권에서의 결정력이 크게 저하되었습니다. 직전 샌프란시스코 자이언츠와의 경기에서도 단 2득점에 그치며 원정 경기 타선 침체를 극복하지 못했습니다. 수비진의 전반적인 실점 제어 불안과 더불어 원정 경기에서의 약세를 극복하는 것이 이번 경기의 핵심 과제입니다."
+homePower: "직전 맞대결 3점 차 승리로 상대전적 우위 점함|최근 10경기 평균 4.7득점으로 타선 집중력 회복세|홈 경기 마운드 안정감 바탕으로 경기 주도권 확보|주요 전력 이탈에도 대체 자원의 고른 활약 돋보임|샌프란시스코 자이언츠의 경기 후반 불펜 운용 안정적임"
+awayPower: "최근 10경기 6패 기록하며 원정 약세 흐름 노출|핵심 타자 이탈로 인한 득점권 마무리 능력 저하|시즌 득실 차 음수 기록으로 수비 불안 지속됨|샌프란시스코 자이언츠 타선 상대 경기 초반 실점율 높음|미네소타 트윈스의 경기 분위기 반등 계기 마련 시급함"
+h2h: '[{"date":"26.09.22","home":"샌프란시스코 자이언츠","away":"미네소타 트윈스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MNSF0-2026-09-22-san-francisco-giants/"}]'
+summary: "샌프란시스코 자이언츠는 최근 타선의 집중력 회복과 마운드의 안정감을 바탕으로 경기력을 꾸준히 올려두고 있습니다. 반면 미네소타 트윈스는 주요 전력의 부상 이탈 여파로 원정 경기에서 타력 저조와 경기 기복을 겪고 있습니다. 직전 맞대결에서도 선전하며 우위를 점했던 샌프란시스코 자이언츠가 이번 경기에서도 안정적인 전력을 바탕으로 주도권을 잡을 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.22","home":"샌프란시스코 자이언츠","away":"미네소타 트윈스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MNSF0-2026-09-22-san-francisco-giants/"},{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SFLA0-2026-09-21-los-angeles-dodgers/"},{"date":"26.09.19","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers/"},{"date":"26.09.17","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals/"},{"date":"26.09.16","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"3-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SFSL0-2026-09-16-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.09.22","home":"샌프란시스코 자이언츠","away":"미네소타 트윈스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MNSF0-2026-09-22-san-francisco-giants/"},{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"},{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"}]'
+injuryHome: "Willy Adames (10일 부상자 명단 - 염좌)|JT Brubaker (15일 부상자 명단 - 타박상)|Matt Gage (60일 부상자 명단 - 염좌)|Nate Furman (10일 부상자 명단 - 염좌)|Landen Roupp (결장 - 사유 미정)"
+injuryAway: "Mike Paredes (60일 부상자 명단 - 염좌)|Mick Abel (60일 부상자 명단 - 수술)|Kaelen Culpepper (10일 부상자 명단 - 염좌)|Trevor Larnach (10일 부상자 명단 - 염좌)|Byron Buxton (10일 부상자 명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌프란시스코 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "샌프란시스코 자이언츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---
