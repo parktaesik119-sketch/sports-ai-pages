@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스�
 awayRecent: '[{"date":"26.09.21","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921FLSD0-2026-09-21-san-diego-padres/"},{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"},{"date":"26.09.16","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SDCO0-2026-09-16-colorado-rockies/"},{"date":"26.09.15","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"7-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915SDCO0-2026-09-15-colorado-rockies/"}]'
 injuryHome: "Dalton Rushing (통증)|Gavin Stone (염증)|Jake Cousins (수술)|Ben Casparius (염증)|Brusdar Graterol (수술)"
 injuryAway: "Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Jason Adam (염좌)|Miguel Andujar (골절)|Joe Musgrove (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 T. Glasnow (5-1, 3.46) ERA 3.46|https://a.espncdn.com/i/headshots/mlb/players/full/33190.png\"]"
+awayLineup: "[\"선발투수 N. Pivetta (3-2, 3.30) ERA 3.30|https://a.espncdn.com/i/headshots/mlb/players/full/36071.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세�
 injuryHome: "Isaac Mattson (염증)|Esmerlyn Valdez (긴장)|Braxton Ashcraft (통증)|Mitch Keller (사유 미상)|Endy Rodriguez (수술)"
 injuryAway: "Everson Pereira (타박상)|Blaze Jordan (염좌)|Joshua Baez (긴장)|Hunter Dobbins (수술)|Max Rajcic (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 M. Liberatore (5-14, 5.36) ERA 5.36|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

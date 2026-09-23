@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.22","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.09.22","home":"샌프란시스코 자이언츠","away":"미네소타 트윈스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MNSF0-2026-09-22-san-francisco-giants/"},{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"},{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"}]'
 injuryHome: "Willy Adames (10일 부상자 명단 - 염좌)|JT Brubaker (15일 부상자 명단 - 타박상)|Matt Gage (60일 부상자 명단 - 염좌)|Nate Furman (10일 부상자 명단 - 염좌)|Landen Roupp (결장 - 사유 미정)"
 injuryAway: "Mike Paredes (60일 부상자 명단 - 염좌)|Mick Abel (60일 부상자 명단 - 수술)|Kaelen Culpepper (10일 부상자 명단 - 염좌)|Trevor Larnach (10일 부상자 명단 - 염좌)|Byron Buxton (10일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Perdomo (0-1, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/5271881.png\"]"
+awayLineup: "[\"선발투수 C. Prielipp (6-7, 4.94) ERA 4.94|https://a.espncdn.com/i/headshots/mlb/players/full/4620001.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

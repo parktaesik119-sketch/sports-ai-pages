@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"탬파베이 레이스","away":"보스�
 awayRecent: '[{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"},{"date":"26.09.20","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"12-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920OACL0-2026-09-20-cleveland-guardians/"},{"date":"26.09.19","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919OACL0-2026-09-19-cleveland-guardians/"},{"date":"26.09.17","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917CWCL0-2026-09-17-cleveland-guardians/"},{"date":"26.09.16","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"7-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916CWCL0-2026-09-16-cleveland-guardians/"}]'
 injuryHome: "Tanner Houck (수술)|Aroldis Chapman (통증)|Johan Oviedo (근육 부상)|Ceddanne Rafaela (통증)|Curtis Mead (골절)"
 injuryAway: "Colin Holderman (염증)|Rhys Hoskins (염증)|Shawn Armstrong (근육 부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Gray (17-5, 2.82) ERA 2.82|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (15-5, 3.67) ERA 3.67|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 
 injuryHome: "Kyle Higashioka (10일 부상자 명단 - 염좌)|Carter Baumler (60일 부상자 명단 - 염좌)|Jose Corniell (60일 부상자 명단 - 염좌)|Jack Leiter (60일 부상자 명단 - 수술)|Joc Pederson (10일 부상자 명단 - 골절)"
 injuryAway: "Christian Scott (15일 부상자 명단 - 염증)|Jared Young (7일 부상자 명단 - 뇌진탕)|Daniel Duarte (15일 부상자 명단 - 염좌)|Robert Stock (15일 부상자 명단)|Jorge Polanco (60일 부상자 명단 - 수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 Z. Thornton (5-5, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/5129576.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

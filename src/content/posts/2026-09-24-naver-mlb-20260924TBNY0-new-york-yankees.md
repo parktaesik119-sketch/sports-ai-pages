@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 
 awayRecent: '[{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923TBNY2-2026-09-23-new-york-yankees/"},{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"},{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"}]'
 injuryHome: "Fernando Cruz (15일 부상자 명단 - 통증)|Giancarlo Stanton (60일 부상자 명단 - 염좌)|Clarke Schmidt (일일 부상자 명단 - 통증)|Trent Grisham (10일 부상자 명단 - 염좌)|Ryan Weathers (15일 부상자 명단 - 염좌)"
 injuryAway: "Manuel Rodriguez (15일 부상자 명단 - 염좌)|Garrett Cleavinger (15일 부상자 명단 - 통증)|Gavin Lux (60일 부상자 명단 - 염증)|Edwin Uceta (60일 부상자 명단 - 염좌)|Jonathan Heasley (60일 부상자 명단 - 골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Cole (9-9, 3.63) ERA 3.63|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
+awayLineup: "[\"선발투수 I. Seymour (9-7, 4.38) ERA 4.38|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

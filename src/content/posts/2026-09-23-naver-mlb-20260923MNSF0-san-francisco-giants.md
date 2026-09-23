@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 �
 injuryHome: "JT Brubaker (타박상)|Matt Gage (근육 긴장)|Willy Adames (염좌)|Nate Furman (근육 긴장)|Bryce Eldridge (뇌진탕)"
 injuryAway: "Mike Paredes (근육 긴장)|Mick Abel (수술)|Kaelen Culpepper (근육 긴장)|Trevor Larnach (염좌)|Byron Buxton (수술)"
 homeLineup: "[\"선발투수 C. Perdomo (0-1, 3.72) ERA 3.72|https://a.espncdn.com/i/headshots/mlb/players/full/5271881.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 C. Prielipp (6-7, 4.94) ERA 4.94|https://a.espncdn.com/i/headshots/mlb/players/full/4620001.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
