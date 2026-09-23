@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.23","home":"디트로이트 타이거즈","away":"�
 injuryHome: "Kerry Carpenter (족저근막염)|Jack Flaherty (염증)|Justin Verlander (긴장)|Kyle Finnegan (염증)|Colt Keith (염좌)"
 injuryAway: "Orlando Ribalta (염증)|PJ Poulin (긴장)|Connelly Early (염증)|Matt Waldron (염증)|Drew Millas (수술)"
 homeLineup: "[\"선발투수 F. Valdez (10-11, 4.06) ERA 4.06|https://a.espncdn.com/i/headshots/mlb/players/full/36581.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 R. Lovelady (3-4, 3.86) ERA 3.86|https://a.espncdn.com/i/headshots/mlb/players/full/39856.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

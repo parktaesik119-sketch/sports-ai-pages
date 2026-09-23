@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세�
 awayRecent: '[{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SLPI0-2026-09-23-pittsburgh-pirates/"},{"date":"26.09.21","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals/"},{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"},{"date":"26.09.17","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals/"},{"date":"26.09.16","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916SFSL0-2026-09-16-st-louis-cardinals/"}]'
 injuryHome: "Isaac Mattson (염증)|Esmerlyn Valdez (긴장)|Braxton Ashcraft (통증)|Mitch Keller (사유 미상)|Endy Rodriguez (수술)"
 injuryAway: "Everson Pereira (타박상)|Blaze Jordan (염좌)|Joshua Baez (긴장)|Hunter Dobbins (수술)|Max Rajcic (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 L. Bachar (1-4, 3.56) ERA 3.56|https://a.espncdn.com/i/headshots/mlb/players/full/42592.png\"]"
 awayLineup: "[\"선발투수 M. Liberatore (5-14, 5.36) ERA 5.36|https://a.espncdn.com/i/headshots/mlb/players/full/41173.png\"]"
 homeFormation: ""
 awayFormation: ""
