@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.21","home":"볼티모어 오리올스","away":"밀�
 awayRecent: '[{"date":"26.09.21","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921TOTE0-2026-09-21-texas-rangers/"},{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"},{"date":"26.09.17","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917DETO0-2026-09-17-toronto-blue-jays/"},{"date":"26.09.16","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"1-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916DETO0-2026-09-16-toronto-blue-jays/"},{"date":"26.09.15","home":"토론토 블루제이즈","away":"디트로이트 타이거즈","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915DETO0-2026-09-15-toronto-blue-jays/"}]'
 injuryHome: "Samuel Basallo (경미)|Blaze Alexander (주요)|Luis Robert Jr. (주요)|Ryan Mountcastle (주요)|Jackson Holliday (주요)"
 injuryAway: "Anthony Santander (주요)|Jonatan Clase (주요)|Luis Urias (주요)|Brett Bateman (경미)|Vladimir Guerrero Jr. (경미)"
-homeLineup: "[\"선발투수 C. Bassitt (8-5, 4.64) ERA 4.64|https://a.espncdn.com/i/headshots/mlb/players/full/33148.png\"]"
-awayLineup: "[\"선발투수 M. Scherzer (3-8, 6.07) ERA 6.07|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
+homeLineup: "[\"선발투수 C. Bassitt (9-5, 4.59) ERA 4.59|https://a.espncdn.com/i/headshots/mlb/players/full/33148.png\"]"
+awayLineup: "[\"선발투수 M. Scherzer (3-9, 6.14) ERA 6.14|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
