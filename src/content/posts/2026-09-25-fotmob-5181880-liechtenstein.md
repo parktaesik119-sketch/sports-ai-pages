@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.06.07","home":"Liechtenstein","away":"Cyprus","score":
 awayRecent: '[{"date":"26.06.10","home":"에스토니아","away":"리투아니아","score":"1-0","result":"🔴패"},{"date":"26.06.06","home":"리투아니아","away":"라트비아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1548309-2026-06-06-lithuania/"},{"date":"26.03.29","home":"리투아니아","away":"조지아","score":"0-2","result":"🔴패"},{"date":"26.03.27","home":"Moldova","away":"리투아니아","score":"0-2","result":"🟢승"},{"date":"25.11.18","home":"네덜란드","away":"리투아니아","score":"4-0","result":"🔴패"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Benjamin Büchel (GK)|https://images.fotmob.com/image_resources/playerimages/151113.png\",\"Jonas Weissenhofer (DF)|https://images.fotmob.com/image_resources/playerimages/1649644.png\",\"Lars Traber (DF)|https://images.fotmob.com/image_resources/playerimages/1349503.png\",\"Maximilian Göppel (DF)|https://images.fotmob.com/image_resources/playerimages/756915.png\",\"Emanuel Zünd (MF)|https://images.fotmob.com/image_resources/playerimages/1626065.png\",\"Nicolas Hasler (DF)|https://images.fotmob.com/image_resources/playerimages/214344.png\",\"Marcel Büchel (MF)|https://images.fotmob.com/image_resources/playerimages/192842.png\",\"Alessio Hasler (MF)|https://images.fotmob.com/image_resources/playerimages/1421538.png\",\"Aron Sele (MF)|https://images.fotmob.com/image_resources/playerimages/756916.png\",\"Fabio Luque Notaro (FW)|https://images.fotmob.com/image_resources/playerimages/1421541.png\",\"Ferhat Sağlam (FW)|https://images.fotmob.com/image_resources/playerimages/948230.png\"]"
+awayLineup: "[\"Džiugas Bartkus (GK)|https://images.fotmob.com/image_resources/playerimages/258206.png\",\"Pijus Širvys (DF)|https://images.fotmob.com/image_resources/playerimages/757630.png\",\"Kipras Kažukolovas (DF)|https://images.fotmob.com/image_resources/playerimages/1379498.png\",\"Edgaras Utkus (DF)|https://images.fotmob.com/image_resources/playerimages/973827.png\",\"Artemijus Tutyškinas (DF)|https://images.fotmob.com/image_resources/playerimages/1281972.png\",\"Gvidas Gineitis (MF)|https://images.fotmob.com/image_resources/playerimages/1421505.png\",\"Modestas Vorobjovas (MF)|https://images.fotmob.com/image_resources/playerimages/463746.png\",\"Lukas Michelbrink (MF)|https://images.fotmob.com/image_resources/playerimages/1701764.png\",\"Justas Lasickas (DF)|https://images.fotmob.com/image_resources/playerimages/652962.png\",\"Armandas Kučys (FW)|https://images.fotmob.com/image_resources/playerimages/1312274.png\",\"Eligijus Jankauskas (FW)|https://images.fotmob.com/image_resources/playerimages/762882.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Konrad Fünfstück|https://images.fotmob.com/image_resources/playerimages/1493037.png"
+awayCoach: "Edgaras Jankauskas|https://images.fotmob.com/image_resources/playerimages/32565.png"
 pickWinTeam: "리투아니아"
 pickWinResult: "승"
 pickHandicapTeam: "리투아니아"
