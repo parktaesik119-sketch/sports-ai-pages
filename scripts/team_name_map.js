@@ -115,6 +115,7 @@ const TEAM_NAME_MAP = {
   "Werder Bremen": "베르더 브레멘",
   "VfL Osnabrück": "VfL 오스나브뤼크",
   "Oberhausen": "오버하우젠",
+  "Sportfreunde Siegen": "슈포어트프로인데 지겐",
 
   // ===== 🇦🇹 오스트리아 분데스리가 (Austrian Bundesliga) =====
   // ⚠️ 오스트리아 분데스리가는 독일 분데스리가와 이름만 같을 뿐 별개 리그입니다.
@@ -957,6 +958,7 @@ const TEAM_NAME_MAP = {
   "Czechia": "체코",
   "Czechia W": "체코",
   "Bosnia-Herzegovina": "보스니아 헤르체고비나",
+  "Bosnia and Herzegovina": "보스니아 헤르체고비나",
   "Paraguay": "파라과이",
   "Russia": "러시아",
   "USA": "미국",
@@ -969,6 +971,7 @@ const TEAM_NAME_MAP = {
   "Norway": "노르웨이",
   "Slovakia": "슬로바키아",
   "Slovakia W": "슬로바키아",
+  "Armenia": "아르메니아",
   "Latvia": "라트비아",
   "Latvia W": "라트비아",
   "Slovenia": "슬로베니아",
@@ -980,6 +983,7 @@ const TEAM_NAME_MAP = {
   "Lithuania": "리투아니아",
   "Liechtenstein": "리히텐슈타인",
   "Moldova": "몰도바",
+  "Cyprus": "키프로스",
 
   // ===== 🏀 농구 추가팀 =====
   // B리그 (일본)
@@ -1441,6 +1445,7 @@ const TEAM_NAME_MAP = {
   "Thailand": "태국",
   "Ukraine W": "우크라이나",
   "Turkey W": "튀르키예",
+  "Turkiye": "튀르키예",
   "Belgium W": "벨기에",
   "Spain W": "스페인",
   "Montenegro": "몬테네그로",
