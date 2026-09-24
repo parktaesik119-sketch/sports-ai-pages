@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 
 awayRecent: '[{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923TBNY2-2026-09-23-new-york-yankees/"},{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"},{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"탬파베이 레이스","away":"애슬레틱스","score":"10-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918OATB0-2026-09-18-tampa-bay-rays/"}]'
 injuryHome: "Clarke Schmidt (경미)|Fernando Cruz (주요)|Aaron Judge (주요)|Giancarlo Stanton (주요)|Trent Grisham (주요)"
 injuryAway: "Manuel Rodriguez (주요)|Garrett Cleavinger (주요)|Gavin Lux (주요)|Edwin Uceta (주요)|Jonathan Heasley (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Schlittler (14-6, 1.94) ERA 1.94|https://a.espncdn.com/i/headshots/mlb/players/full/5134581.png\"]"
+awayLineup: "[\"선발투수 I. Seymour (9-7, 4.38) ERA 4.38|https://a.espncdn.com/i/headshots/mlb/players/full/4669425.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

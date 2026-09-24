@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.24","home":"필라델피아 필리스","away":"밀�
 awayRecent: '[{"date":"26.09.24","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MIPH0-2026-09-24-philadelphia-phillies/"},{"date":"26.09.23","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MIPH0-2026-09-23-philadelphia-phillies/"},{"date":"26.09.21","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MIBA0-2026-09-21-baltimore-orioles/"},{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MIBA0-2026-09-20-baltimore-orioles/"},{"date":"26.09.19","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MIBA0-2026-09-19-baltimore-orioles/"}]'
 injuryHome: "Jonathan Bowlan (경미)|Jesus Luzardo (주요)|Caleb Kilian (주요)|Felix Reyes (주요)|Johan Rojas (주요)"
 injuryAway: "Grant Anderson (주요)|Bryse Wilson (주요)|Brandon Woodruff (주요)|Quinn Priester (주요)|Angel Zerpa (주요)"
-homeLineup: ''
+homeLineup: "[\"선발투수 A. Painter (3-10, 5.59) ERA 5.59|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

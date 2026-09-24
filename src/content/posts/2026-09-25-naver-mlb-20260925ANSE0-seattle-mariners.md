@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.23","home":"시애틀 매리너스","away":"휴스�
 awayRecent: '[{"date":"26.09.23","home":"애슬레틱스","away":"LA 에인절스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923ANOA0-2026-09-23-athletics/"},{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"},{"date":"26.09.17","home":"LA 에인절스","away":"시애틀 매리너스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SEAN0-2026-09-17-los-angeles-angels/"}]'
 injuryHome: "Andres Munoz (경미)|Brendan Donovan (주요)|Brennen Davis (주요)|Cole Wilcox (주요)|Will Wilson (주요)"
 injuryAway: "George Klassen (주요)|Nolan Schanuel (주요)|Kyren Paris (주요)|Samy Natera Jr. (주요)|Yoan Moncada (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 B. Miller (4-9, 3.99) ERA 3.99|https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png\"]"
+awayLineup: "[\"선발투수 R. Detmers (6-8, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.23","home":"시카고 컵스","away":"마이애미 
 awayRecent: '[{"date":"26.09.23","home":"시카고 컵스","away":"마이애미 말린스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923FLCC0-2026-09-23-chicago-cubs/"},{"date":"26.09.21","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921FLSD0-2026-09-21-san-diego-padres/"},{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"},{"date":"26.09.16","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916FLAZ0-2026-09-16-arizona-diamondbacks/"}]'
 injuryHome: "Gavin Hollowell (염증)|Phil Maton (염좌)|Hunter Harvey (골절)|Tyler Austin (수술)|Alex Bregman (골절)"
 injuryAway: "Xavier Edwards (경미)|Owen Caissie (골절)|Anthony Bender (골절)|Max Meyer (긴장)|Ronny Henriquez (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Boyd (9-5, 4.06) ERA 4.06|https://a.espncdn.com/i/headshots/mlb/players/full/34401.png\"]"
+awayLineup: "[\"선발투수 T. Phillips (5-6, 3.45) ERA 3.45|https://a.espncdn.com/i/headshots/mlb/players/full/41247.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

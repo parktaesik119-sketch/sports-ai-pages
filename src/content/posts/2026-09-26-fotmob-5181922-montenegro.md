@@ -18,7 +18,7 @@ h2h: '[{"date":"20.11.18","home":"몬테네그로","away":"Cyprus","score":"4-0"
 summary: "몬테네그로는 이번 UEFA Nations League C Grp. 2에서 무패의 성적을 거두며 최상의 컨디션을 유지하고 있으며, 공수 양면에서 안정적인 전력을 구축하고 있습니다. 반면 키프로스는 최근 경기에서 득점력의 기복과 수비 불안을 동시에 노출하고 있어 원정길이 쉽지 않을 것으로 보입니다. 상대 전적에서도 몬테네그로가 우위를 점하고 있는 만큼, 안방의 이점을 안고 경기를 주도하며 승기를 잡을 가능성이 높습니다."
 homeRecent: '[{"date":"26.06.06","home":"슬로바키아","away":"몬테네그로","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1542178-2026-06-06-slovakia/"},{"date":"26.06.02","home":"불가리아","away":"몬테네그로","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1542176-2026-06-02-bulgaria/"},{"date":"26.04.01","home":"몬테네그로","away":"슬로베니아","score":"2-3","result":"🔴패"},{"date":"26.03.28","home":"몬테네그로","away":"안도라","score":"2-0","result":"🟢승"},{"date":"25.11.18","home":"몬테네그로","away":"크로아티아","score":"2-3","result":"🔴패"}]'
 awayRecent: '[{"date":"26.06.07","home":"리히텐슈타인","away":"Cyprus","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544362-2026-06-07-liechtenstein/"},{"date":"26.06.05","home":"슬로베니아","away":"Cyprus","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1540352-2026-06-05-slovenia/"},{"date":"26.03.31","home":"Cyprus","away":"몰도바","score":"3-2","result":"🟢승"},{"date":"26.03.27","home":"Cyprus","away":"Belarus","score":"0-1","result":"🔴패"},{"date":"25.11.19","home":"Cyprus","away":"에스토니아","score":"2-4","result":"🔴패"}]'
-injuryHome: "Adam Marušić (허벅지 부상)"
+injuryHome: "Adam Marušić[주요](허벅지 부상 - 복귀예정 Early October 2026)"
 injuryAway: "없음"
 homeLineup: ''
 awayLineup: ''

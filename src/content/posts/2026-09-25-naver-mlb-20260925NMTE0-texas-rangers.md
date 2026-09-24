@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.23","home":"텍사스 레인저스","away":"뉴욕 
 injuryHome: "Kyle Higashioka (근육 염좌)|Carter Baumler (근육 염좌)|Jose Corniell (근육 염좌)|Joc Pederson (골절)|Jack Leiter (수술)"
 injuryAway: "Christian Scott (염증)|Jared Young (뇌진탕)|Daniel Duarte (근육 염좌)|Robert Stock (질병)|Jorge Polanco (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 Z. Thornton (5-5, 3.40) ERA 3.40|https://a.espncdn.com/i/headshots/mlb/players/full/5129576.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

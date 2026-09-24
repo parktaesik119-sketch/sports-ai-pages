@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.23","home":"캔자스시티 로열스","away":"시�
 awayRecent: '[{"date":"26.09.23","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"11-14","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CWKC0-2026-09-23-kansas-city-royals/"},{"date":"26.09.21","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921DECW0-2026-09-21-chicago-white-sox/"},{"date":"26.09.20","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920DECW0-2026-09-20-chicago-white-sox/"},{"date":"26.09.19","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919DECW0-2026-09-19-chicago-white-sox/"},{"date":"26.09.17","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917CWCL0-2026-09-17-cleveland-guardians/"}]'
 injuryHome: "Craig Kimbrel (경미)|Connor Seabold (주요)|James McArthur (주요)|Beck Way (주요)|Carlos Estevez (주요)"
 injuryAway: "Prelander Berroa (주요)|Joey Bart (주요)|Tanner Murray (주요)|Ky Bush (주요)|Brooks Baldwin (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Dobnak (3-4, 3.08) ERA 3.08|https://a.espncdn.com/i/headshots/mlb/players/full/42214.png\"]"
+awayLineup: "[\"선발투수 D. Sandlin (2-2, 6.29) ERA 6.29|https://a.espncdn.com/i/headshots/mlb/players/full/4960696.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

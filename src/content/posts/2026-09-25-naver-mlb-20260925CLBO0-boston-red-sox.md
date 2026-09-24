@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리�
 awayRecent: '[{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"},{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"},{"date":"26.09.20","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"12-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920OACL0-2026-09-20-cleveland-guardians/"},{"date":"26.09.19","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919OACL0-2026-09-19-cleveland-guardians/"},{"date":"26.09.17","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917CWCL0-2026-09-17-cleveland-guardians/"}]'
 injuryHome: "Tanner Houck (수술)|Aroldis Chapman (통증)|Johan Oviedo (부상)|Anthony Seigler (염증)|Masataka Yoshida (부상)"
 injuryAway: "Rhys Hoskins (염증)|Colin Holderman (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Suarez (8-4, 3.27) ERA 3.27|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
+awayLineup: "[\"선발투수 J. Cantillo (10-9, 3.74) ERA 3.74|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
