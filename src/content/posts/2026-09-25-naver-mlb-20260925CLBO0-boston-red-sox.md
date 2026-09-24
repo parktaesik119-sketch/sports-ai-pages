@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리�
 injuryHome: "Tanner Houck (수술)|Aroldis Chapman (통증)|Johan Oviedo (부상)|Anthony Seigler (염증)|Masataka Yoshida (부상)"
 injuryAway: "Rhys Hoskins (염증)|Colin Holderman (염증)"
 homeLineup: "[\"선발투수 R. Suarez (8-4, 3.27) ERA 3.27|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
-awayLineup: "[\"선발투수 J. Cantillo (10-9, 3.74) ERA 3.74|https://a.espncdn.com/i/headshots/mlb/players/full/42488.png\"]"
+awayLineup: "[\"선발투수 D. Espino (0-0, 4.73) ERA 4.73|https://a.espncdn.com/i/headshots/mlb/players/full/42438.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
