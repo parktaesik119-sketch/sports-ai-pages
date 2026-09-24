@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.24","home":"피츠버그 파이러츠","away":"세�
 injuryHome: "Esmerlyn Valdez (좌상)|Isaac Mattson (염증)|Mitch Keller (좌상)|Braxton Ashcraft (통증)|Endy Rodriguez (수술)"
 injuryAway: "Everson Pereira (타박상)|Blaze Jordan (염좌)|Joshua Baez (좌상)|Hunter Dobbins (수술)|Max Rajcic (수술)"
 homeLineup: "[\"선발투수 P. Skenes (10-11, 3.91) ERA 3.91|https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png\"]"
-awayLineup: "[\"선발투수 K. Leahy (10-5, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\"]"
+awayLineup: "[\"선발투수 K. Leahy (10-5, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 I. Herrera (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 A. Burleson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png\",\"4번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"5번 L. Bernal (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/5124076.png\",\"6번 B. Torres (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5125653.png\",\"7번 T. Saggese (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4999876.png\",\"8번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\",\"9번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
