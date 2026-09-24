@@ -469,11 +469,11 @@
         "Rafael Cabral (GK)|https://images.fotmob.com/image_resources/playerimages/172157.png",
         "DeAndre Yedlin (DF)|https://images.fotmob.com/image_resources/playerimages/432040.png",
         "Philip Quinton (DF)|https://images.fotmob.com/image_resources/playerimages/1338757.png",
-        "Sam Junqua (DF)|https://images.fotmob.com/image_resources/playerimages/1026060.png",
+        "Kobi Henry (DF)|https://images.fotmob.com/image_resources/playerimages/1172163.png",
         "Dominik Marczuk (MF)|https://images.fotmob.com/image_resources/playerimages/1206970.png",
         "Stijn Spierings (MF)|https://images.fotmob.com/image_resources/playerimages/614602.png",
         "Noel Çalışkan (MF)|https://images.fotmob.com/image_resources/playerimages/1439925.png",
-        "Alexandros Katranis (MF)|https://images.fotmob.com/image_resources/playerimages/784824.png",
+        "Sam Junqua (DF)|https://images.fotmob.com/image_resources/playerimages/1026060.png",
         "Luca Moisa (MF)|https://images.fotmob.com/image_resources/playerimages/1663013.png",
         "Sergi Solans (FW)|https://images.fotmob.com/image_resources/playerimages/1907793.png",
         "Morgan Guilavogui (MF)|https://images.fotmob.com/image_resources/playerimages/1092680.png"
@@ -690,34 +690,34 @@
     "lineup": {
       "home": [
         "Callum Irving (GK)|https://images.fotmob.com/image_resources/playerimages/724316.png",
-        "Morey Doner (DF)|https://images.fotmob.com/image_resources/playerimages/1067015.png",
         "Matteo Campagna (DF)|https://images.fotmob.com/image_resources/playerimages/1338947.png",
         "Tom Field (DF)|https://images.fotmob.com/image_resources/playerimages/746404.png",
         "Kian Hugh Proctor (DF)|https://images.fotmob.com/image_resources/playerimages/1780786.png",
-        "Benajmin Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1818803.png",
-        "Luis Toomey (MF)|https://images.fotmob.com/image_resources/playerimages/1353589.png",
-        "Elage Bah (FW)|https://images.fotmob.com/image_resources/playerimages/1346826.png",
+        "Morey Doner (MF)|https://images.fotmob.com/image_resources/playerimages/1067015.png",
+        "Damiano Pecile (MF)|https://images.fotmob.com/image_resources/playerimages/1136260.png",
         "Marcello Polisi (MF)|https://images.fotmob.com/image_resources/playerimages/1465094.png",
-        "Mohamed Amissi (FW)|https://images.fotmob.com/image_resources/playerimages/1033278.png",
-        "Terran Campbell (FW)|https://images.fotmob.com/image_resources/playerimages/850465.png"
+        "Paris Gee (MF)|https://images.fotmob.com/image_resources/playerimages/847604.png",
+        "Elage Bah (MF)|https://images.fotmob.com/image_resources/playerimages/1346826.png",
+        "Aboubacar Traore (MF)|https://images.fotmob.com/image_resources/playerimages/1945849.png",
+        "Lys Mousset (FW)|https://images.fotmob.com/image_resources/playerimages/518371.png"
       ],
       "away": [
         "Kai Campos (GK)|https://images.fotmob.com/image_resources/playerimages/1909687.png",
+        "Max Ferrari (DF)|https://images.fotmob.com/image_resources/playerimages/1285568.png",
+        "Raúl López (DF)|https://images.fotmob.com/image_resources/playerimages/432851.png",
         "Luke Singh (DF)|https://images.fotmob.com/image_resources/playerimages/1018521.png",
-        "Carlos Guzmán (DF)|https://images.fotmob.com/image_resources/playerimages/294973.png",
-        "Oswaldo León (DF)|https://images.fotmob.com/image_resources/playerimages/949959.png",
-        "Raúl López (MF)|https://images.fotmob.com/image_resources/playerimages/432851.png",
+        "Kembo Kibato (DF)|https://images.fotmob.com/image_resources/playerimages/1075636.png",
         "Steffen Yeates (MF)|https://images.fotmob.com/image_resources/playerimages/1346748.png",
+        "Juan Córdova (MF)|https://images.fotmob.com/image_resources/playerimages/855352.png",
         "Ollie Bassett (MF)|https://images.fotmob.com/image_resources/playerimages/680816.png",
-        "Kembo Kibato (MF)|https://images.fotmob.com/image_resources/playerimages/1075636.png",
         "Luca Accettola (FW)|https://images.fotmob.com/image_resources/playerimages/1666351.png",
         "Tomasz Skublak (FW)|https://images.fotmob.com/image_resources/playerimages/1052762.png",
         "Ariel Almagro (FW)|https://images.fotmob.com/image_resources/playerimages/1585889.png"
       ]
     },
     "formation": {
-      "home": "4-2-3-1",
-      "away": "3-4-3"
+      "home": "3-4-2-1",
+      "away": "4-3-3"
     },
     "coach": {
       "home": "Martin Nash|https://images.fotmob.com/image_resources/playerimages/1791897.png",
@@ -1100,18 +1100,7 @@
     "league": "UEFA Nations League A Grp. 4",
     "injuries": {
       "home": [],
-      "away": [
-        {
-          "name": "Alexander Bah",
-          "status": "어깨 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Kasper Dolberg",
-          "status": "무릎 부상",
-          "detail": "Mid October 2026"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -1402,7 +1391,7 @@
         "Jordan James (MF)|https://images.fotmob.com/image_resources/playerimages/1310975.png",
         "David Brooks (FW)|https://images.fotmob.com/image_resources/playerimages/674014.png",
         "Sorba Thomas (FW)|https://images.fotmob.com/image_resources/playerimages/812982.png",
-        "Daniel James (MF)|https://images.fotmob.com/image_resources/playerimages/717176.png",
+        "Daniel James (FW)|https://images.fotmob.com/image_resources/playerimages/717176.png",
         "Brennan Johnson (FW)|https://images.fotmob.com/image_resources/playerimages/1076756.png"
       ]
     },
