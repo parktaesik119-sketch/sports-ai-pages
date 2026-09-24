@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 밀워키 브루어스 야구분석·승부예측 (9월 25일) - 픽천국"
+date: 2026-09-24T22:05:00.000Z
+description: "필라델피아 필리스 vs 밀워키 브루어스 야구분석: 필라델피아 필리스는 홈 경기에서 반등을 노리고 있으나, 최근 타선의 흐름이 다소 가라앉으며 리그순위 1위인 밀워키 브루어스를 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260925MIPH0-2026-09-25-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 87승 71패, 승률 .551을 기록하며 리그순위 6위로 시즌을 보내고 있습니다. 최근 10경기에서 5승 5패로 다소 기복 있는 흐름을 보이고 있으며, 득점력 측면에서 시즌 평균 4.6득점과 최근 10경기 평균 4.0득점 사이의 격차가 존재하여 타선의 집중력 회복이 급선무입니다. 홈 경기에서는 비교적 안정적인 운영을 보여주었으나, 득점 지원이 원활하지 않을 때 수비 부담이 가중되는 패턴이 반복되고 있습니다. 특히 최근 맞대결에서 밀워키 브루어스의 마운드를 공략하는 데 어려움을 겪으며 경기 후반 뒷심 부족이 노출되었습니다. 이번 경기에서는 홈 이점을 살려 최근의 들쭉날쭉한 페이스를 끊어내고 투타 밸런스를 되찾는 것이 무엇보다 중요해 보입니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 99승 59패, 승률 .627이라는 압도적인 성적으로 리그순위 1위를 질주하고 있습니다. 최근 10경기에서도 7승 3패의 견고한 전력을 과시하며 리그 최상위권 팀다운 면모를 유지하고 있습니다. 시즌 평균 5.0득점의 파괴력 있는 타선과 더불어 +203.0의 득실 마진에서 알 수 있듯이 투수진의 안정감 또한 리그 최고 수준으로 평가받습니다. 원정 경기에서도 특유의 집중력을 발휘하여 상대의 허점을 파고드는 능력이 탁월하며, 큰 점수 차보다는 짜임새 있는 경기 운영으로 승리를 챙기는 것이 강점입니다. 현재 상승세를 바탕으로 이번 원정에서도 상위권 팀의 위엄을 증명할 준비를 마쳤습니다."
+homePower: "타선 집중력 저하로 인한 경기 후반 득점 갈증 지속|마운드 실점 제어력은 양호하나 타선 지원과 엇박자 발생|리그순위 6위의 저력 대비 최근 흐름은 다소 정체됨|홈 경기 운영 능력은 우수하나 기복 있는 경기력이 변수|투타 연결 고리 강화가 절실한 시즌 막바지 집중력 필요"
+awayPower: "리그순위 1위다운 공수 균형과 압도적 득실 마진 보유|원정에서도 흔들림 없는 마운드의 위기 관리 능력 탁월|타선의 응집력과 경기 후반 결정력이 우승권 팀의 면모|최근 10경기 7승으로 이어지는 상승세와 안정적 경기력|데이터상으로 증명된 리그 최상위 수준의 전력 운용 능력"
+h2h: '[{"date":"26.09.24","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MIPH0-2026-09-24-philadelphia-phillies/"},{"date":"26.09.23","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"6-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MIPH0-2026-09-23-philadelphia-phillies/"},{"date":"26.06.15","home":"밀워키 브루어스","away":"필라델피아 필리스","score":"4-0","link":"https://pick79.com/posts/detail/analyze-179071-2026-06-15-milwaukee-brewers/"},{"date":"26.06.14","home":"밀워키 브루어스","away":"필라델피아 필리스","score":"8-9","link":"https://pick79.com/posts/detail/analyze-179062-2026-06-14-milwaukee-brewers/"},{"date":"26.06.13","home":"밀워키 브루어스","away":"필라델피아 필리스","score":"6-0","link":"https://pick79.com/posts/detail/analyze-179041-2026-06-13-milwaukee-brewers/"}]'
+summary: "필라델피아 필리스는 홈 경기에서 반등을 노리고 있으나, 최근 타선의 흐름이 다소 가라앉으며 리그순위 1위인 밀워키 브루어스를 상대하기에 부담스러운 상황입니다. 밀워키 브루어스는 2026시즌 내내 압도적인 승률과 득실 마진을 기록하며 전력의 완성도를 높여왔고, 최근 10경기에서도 7승을 거두는 등 최상의 전력을 유지하고 있습니다. 양 팀의 상대전적에서 밀워키 브루어스가 근소하게 우위를 점하고 있으며, 원정에서도 투타 조화가 안정적인 만큼 이번 경기에서도 밀워키 브루어스가 전력의 우위를 바탕으로 경기를 주도하며 우세한 흐름을 이어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.24","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MIPH0-2026-09-24-philadelphia-phillies/"},{"date":"26.09.23","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MIPH0-2026-09-23-philadelphia-phillies/"},{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921PHNM0-2026-09-21-new-york-mets/"},{"date":"26.09.20","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920PHNM0-2026-09-20-new-york-mets/"},{"date":"26.09.19","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919PHNM0-2026-09-19-new-york-mets/"}]'
+awayRecent: '[{"date":"26.09.24","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MIPH0-2026-09-24-philadelphia-phillies/"},{"date":"26.09.23","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MIPH0-2026-09-23-philadelphia-phillies/"},{"date":"26.09.21","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MIBA0-2026-09-21-baltimore-orioles/"},{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MIBA0-2026-09-20-baltimore-orioles/"},{"date":"26.09.19","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MIBA0-2026-09-19-baltimore-orioles/"}]'
+injuryHome: "Jonathan Bowlan (경미)|Jesus Luzardo (주요)|Caleb Kilian (주요)|Felix Reyes (주요)|Johan Rojas (주요)"
+injuryAway: "Grant Anderson (주요)|Bryse Wilson (주요)|Brandon Woodruff (주요)|Quinn Priester (주요)|Angel Zerpa (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

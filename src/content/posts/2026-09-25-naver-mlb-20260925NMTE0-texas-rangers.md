@@ -1,0 +1,37 @@
+---
+title: "텍사스 레인저스 vs 뉴욕 메츠 야구분석·승부예측 (9월 25일) - 픽천국"
+date: 2026-09-24T18:35:00.000Z
+description: "텍사스 레인저스 vs 뉴욕 메츠 야구분석: 텍사스 레인저스와 뉴욕 메츠 모두 시즌 막바지 전력 정비가 절실한 상황입니다. 텍사스 레인저스는 최근 경기에서 투타 불균형으로… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260925NMTE0-2026-09-25-texas-rangers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "텍사스 레인저스"
+awayTeam: "뉴욕 메츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NM.png"
+homeAnalysis: "텍사스 레인저스는 2026시즌 78승 79패의 성적을 기록하며 리그순위 7위에 위치하고 있습니다. 최근 흐름을 살펴보면 경기력의 기복이 다소 크게 나타나고 있으며, 투타의 밸런스가 완벽하게 조화되지 못하는 모습입니다. 특히 득점 생산력에서 다소 주춤하는 양상을 보이며 경기의 흐름을 주도하지 못하는 경우가 잦아지고 있습니다. 수비적인 측면에서도 실점을 제어하는 능력이 하락세를 보이며 승패를 반복하고 있어 안정적인 운영이 시급합니다. 부상자들의 공백이 라인업의 깊이에 영향을 주고 있는 만큼, 남은 일정 동안 전력을 재정비하여 분위기를 반전시켜야 합니다."
+awayAnalysis: "뉴욕 메츠는 2026시즌 72승 85패를 기록하여 현재 리그순위 13위에 머물러 있습니다. 시즌 전반적으로 흐름이 원활하지 못했으나 최근 경기에서는 타선의 집중력을 앞세워 상대를 공략하는 모습을 보이고 있습니다. 원정 경기에서도 득점 지원이 뒤따를 때 안정적인 투수 운용이 가능해지며 승리 가능성을 높이는 패턴을 보입니다. 다만 전체적인 수비 지표와 득실 마진이 마이너스를 기록하고 있어 매 경기 집중력이 중요한 요소로 작용하고 있습니다. 주축 선수들의 결장 여부가 변수지만, 타선의 화력이 뒷받침된다면 충분히 경쟁력을 발휘할 수 있는 전력입니다."
+homePower: "득점 생산력 저하로 인한 득실 마진 악화|주요 투수진 부상으로 수비 안정감 다소 감소|리그순위 중위권 유지하나 막판 집중력 필요|홈 경기 운영 시 타격 기복 해결이 급선무|중심 타선의 부재를 메울 대안 마련이 관건"
+awayPower: "최근 상위 팀 상대 타선 응집력 확인됨|원정 득점 지원 집중력으로 승리 패턴 확보|리그순위 대비 타선의 폭발력은 잠재적 강점|투수진의 실점 제어력 강화가 승부처임|상대 맞대결 우위를 바탕으로 자신감 회복"
+h2h: '[{"date":"26.09.23","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923NMTE0-2026-09-23-texas-rangers/"}]'
+summary: "텍사스 레인저스와 뉴욕 메츠 모두 시즌 막바지 전력 정비가 절실한 상황입니다. 텍사스 레인저스는 최근 경기에서 투타 불균형으로 인해 승패를 거듭하고 있으며, 특히 득점 지원이 원활하지 않아 수비 부담이 가중되는 경향이 있습니다. 반면 뉴욕 메츠는 최근 맞대결에서 승리를 거두며 상대성 면에서 긍정적인 신호를 확인했고, 타선의 집중력이 살아나고 있어 전력 우위를 점할 가능성이 높습니다. 이번 경기는 타격 흐름이 다소 나은 뉴욕 메츠가 경기를 주도하며 우위를 가져갈 것으로 평가됩니다."
+homeRecent: '[{"date":"26.09.23","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923NMTE0-2026-09-23-texas-rangers/"},{"date":"26.09.21","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921TOTE0-2026-09-21-texas-rangers/"},{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"},{"date":"26.09.18","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918BOTE0-2026-09-18-texas-rangers/"},{"date":"26.09.17","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917BOTE0-2026-09-17-texas-rangers/"}]'
+awayRecent: '[{"date":"26.09.23","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923NMTE0-2026-09-23-texas-rangers/"},{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921PHNM0-2026-09-21-new-york-mets/"},{"date":"26.09.20","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920PHNM0-2026-09-20-new-york-mets/"},{"date":"26.09.19","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919PHNM0-2026-09-19-new-york-mets/"},{"date":"26.09.18","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918PHNM0-2026-09-18-new-york-mets/"}]'
+injuryHome: "Kyle Higashioka (근육 염좌)|Carter Baumler (근육 염좌)|Jose Corniell (근육 염좌)|Joc Pederson (골절)|Jack Leiter (수술)"
+injuryAway: "Christian Scott (염증)|Jared Young (뇌진탕)|Daniel Duarte (근육 염좌)|Robert Stock (질병)|Jorge Polanco (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 메츠"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 메츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

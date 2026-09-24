@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs 클리블랜드 가디언스 야구분석·승부예측 (9월 25일) - 픽천국"
+date: 2026-09-24T22:45:00.000Z
+description: "보스턴 레드삭스 vs 클리블랜드 가디언스 야구분석: 보스턴 레드삭스는 리그순위 3위에 걸맞은 시즌 성적을 유지하고 있으나, 최근 10경기에서 4승 6패로 하락세를 보이며 분위기 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260925CLBO0-2026-09-25-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "클리블랜드 가디언스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 122경기에서 66승 54패, 승률 .541을 기록하며 리그순위 3위의 안정적인 전력을 유지하고 있습니다. 최근 10경기에서는 4승 6패로 다소 주춤한 흐름을 보이고 있으며, 득점력 또한 평균 2.8점으로 시즌 평균 대비 하락세를 나타내고 있습니다. Masataka Yoshida와 Tanner Houck 등 주요 자원들의 부상 공백이 마운드와 타선의 응집력에 변수로 작용하는 모습입니다. 홈 경기장에서의 운영 능력은 여전히 견고한 평가를 받지만, 최근 흐름에서의 기복을 어떻게 극복하느냐가 이번 경기의 핵심입니다. 리그순위 3위라는 성적답게 위기 관리 능력을 발휘할 수 있을지 주목됩니다."
+awayAnalysis: "클리블랜드 가디언스는 2026시즌 117경기에서 57승 58패, 승률 .496을 기록하며 리그순위 4위에 위치하고 있습니다. 최근 10경기에서 7승 3패를 거두며 매우 가파른 상승세를 타고 있으며, 경기당 평균 5.4득점을 기록할 만큼 타선의 집중력이 최고조에 달해 있습니다. 비록 시즌 전체 승률은 5할 언저리에 머물러 있으나, 원정에서 보여주는 최근의 공격적인 야구는 리그순위 이상의 전력을 보여줍니다. 핵심 타자인 Rhys Hoskins의 전력 이탈에도 불구하고 팀 전체의 조화가 잘 이루어지고 있어 무서운 기세가 이어지고 있습니다. 이러한 최근의 흐름을 바탕으로 보스턴 레드삭스를 상대로 자신감 있는 경기를 펼칠 것으로 예상됩니다."
+homePower: "홈구장에서의 안정적인 투수 운용으로 실점 억제 능력 유지|주요 타자들의 부상 공백으로 인한 득점 지원 부족 현상 발생|리그순위 3위가 증명하는 탄탄한 시즌 전체 운영 능력|최근 10경기 흐름 저하로 인한 경기 초반 집중력 강화 필수|수비 조직력을 바탕으로 한 최소 실점 전략 고수"
+awayPower: "최근 10경기 평균 5.4득점의 폭발적인 타격감 자랑|연승 가도를 달리는 상승세를 통해 팀 분위기 최고조|핵심 선수 결장에도 불구하고 백업 자원들의 고른 활약|원정 경기에서의 공격적인 운영으로 상대 투수진 압박|리그순위 4위의 추격자 입장에서 매 경기 총력전 전개"
+h2h: '[{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"},{"date":"26.06.01","home":"클리블랜드 가디언스","away":"보스턴 레드삭스","score":"4-9","link":"https://pick79.com/posts/detail/analyze-178901-2026-06-01-cleveland-guardians/"},{"date":"26.05.31","home":"클리블랜드 가디언스","away":"보스턴 레드삭스","score":"1-9","link":"https://pick79.com/posts/detail/analyze-178882-2026-05-31-cleveland-guardians/"},{"date":"26.05.30","home":"클리블랜드 가디언스","away":"보스턴 레드삭스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-178871-2026-05-30-cleveland-guardians/"}]'
+summary: "보스턴 레드삭스는 리그순위 3위에 걸맞은 시즌 성적을 유지하고 있으나, 최근 10경기에서 4승 6패로 하락세를 보이며 분위기 전환이 절실한 상황입니다. 반면 클리블랜드 가디언스는 최근 10경기 7승 3패의 압도적인 흐름을 앞세워 보스턴 레드삭스의 홈구장을 찾게 되었습니다. 양 팀 모두 2026시즌 맞대결에서 2승 2패로 팽팽한 균형을 이루고 있어, 이번 경기는 최근의 타격 흐름이 좋은 클리블랜드 가디언스가 근소하게나마 우위를 점할 가능성이 높습니다. 보스턴 레드삭스는 마운드의 안정감을 되찾아 타선의 침묵을 깨는 것이 급선무이며, 클리블랜드 가디언스는 현재의 상승세를 원정에서도 그대로 이어가는 것이 관건이 될 것입니다."
+homeRecent: '[{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"},{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"},{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"},{"date":"26.09.18","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918BOTE0-2026-09-18-texas-rangers/"}]'
+awayRecent: '[{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"},{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"},{"date":"26.09.20","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"12-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920OACL0-2026-09-20-cleveland-guardians/"},{"date":"26.09.19","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919OACL0-2026-09-19-cleveland-guardians/"},{"date":"26.09.17","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917CWCL0-2026-09-17-cleveland-guardians/"}]'
+injuryHome: "Tanner Houck (수술)|Aroldis Chapman (통증)|Johan Oviedo (부상)|Anthony Seigler (염증)|Masataka Yoshida (부상)"
+injuryAway: "Rhys Hoskins (염증)|Colin Holderman (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 레드삭스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 레드삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

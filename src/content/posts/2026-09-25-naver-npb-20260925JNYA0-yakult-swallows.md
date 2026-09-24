@@ -1,0 +1,37 @@
+---
+title: "야쿠르트 스왈로우스 vs 주니치 드래곤스 야구분석·승부예측 (9월 25일) - 픽천국"
+date: 2026-09-25T09:00:00.000Z
+description: "야쿠르트 스왈로우스 vs 주니치 드래곤스 야구분석: 양 팀의 2026시즌 전체적인 전력 지표를 종합하면 주니치 드래곤스가 야쿠르트 스왈로우스보다 우위를 점할 가능성이 높습니다. … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260925JNYA0-2026-09-25-yakult-swallows"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "야쿠르트 스왈로우스"
+awayTeam: "주니치 드래곤스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/YA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/JN.png"
+homeAnalysis: "야쿠르트 스왈로우스는 2026시즌 총 110경기에서 39승 2무 69패의 성적을 기록하며 승률 면에서 고전하고 있습니다. 평균 3.1득점에 그치는 빈약한 공격력은 시즌 내내 팀의 발목을 잡는 주요 요인으로 작용하고 있습니다. 최근 경기력을 살펴보면 뚜렷한 반등의 기미를 찾기 어려우며 수비 집중력까지 흔들리는 모습을 자주 보입니다. 특히 홈 경기임에도 불구하고 타선의 침묵과 마운드의 불안정이 동시에 나타나며 승리를 챙기는 데 큰 어려움을 겪는 중입니다. 흐름을 끊어낼 만한 투타의 짜임새가 부족한 만큼 이번 경기에서도 반전을 만들기 위한 고민이 깊어질 것으로 보입니다."
+awayAnalysis: "주니치 드래곤스는 2026시즌 114경기 동안 54승 1무 59패를 거두며 승률 5할에 근접하는 준수한 경쟁력을 유지하고 있습니다. 평균 3.5득점을 기록하는 타선의 응집력은 시즌 전체적으로 안정적인 득점 지원을 가능하게 했습니다. 최근 흐름을 보더라도 확실한 득점 기회를 살려내는 집중력이 돋보이며 공수 밸런스 면에서 홈팀보다 우위에 있습니다. 특히 원정 경기에서도 굴하지 않는 득점 생산력을 바탕으로 상대를 압박하는 운영이 매우 인상적입니다. 투수진이 든든하게 뒤를 받치고 있는 점 역시 경기 운영을 한층 여유롭게 만드는 핵심 요소로 평가됩니다."
+homePower: "홈팀으로서의 낮은 승률과 투타 불균형의 고착화|득점 평균 3점 초반의 타선 침체와 빈약한 득점력|최근 10경기 7패라는 저조한 흐름 속 수비 안정감 결여|야쿠르트 스왈로우스의 승리 공식 실종 및 경기 후반 뒷심 부족|상대전적 열세로 인한 심리적 부담과 경기 주도권 상실"
+awayPower: "시즌 승률 5할에 근접한 안정적인 투타 밸런스 유지|최근 10경기 평균 4점대 이상의 화력 집중력 증명|원정 경기에서도 흔들리지 않는 득점 기회 창출 능력|주니치 드래곤스의 상대전적 우위를 기반으로 한 자신감|안정적인 마운드 운영을 바탕으로 한 경기 운영 능력"
+h2h: '[{"date":"26.09.12","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"5-6","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912YAJN0-2026-09-12-chunichi-dragons/"},{"date":"26.09.05","home":"야쿠르트 스왈로우스","away":"주니치 드래곤스","score":"4-8","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905JNYA0-2026-09-05-yakult-swallows/"},{"date":"26.09.04","home":"야쿠르트 스왈로우스","away":"주니치 드래곤스","score":"1-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904JNYA0-2026-09-04-yakult-swallows/"},{"date":"26.08.23","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823YAJN0-2026-08-23-chunichi-dragons/"},{"date":"26.08.22","home":"주니치 드래곤스","away":"야쿠르트 스왈로우스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260822YAJN0-2026-08-22-chunichi-dragons/"}]'
+summary: "양 팀의 2026시즌 전체적인 전력 지표를 종합하면 주니치 드래곤스가 야쿠르트 스왈로우스보다 우위를 점할 가능성이 높습니다. 야쿠르트 스왈로우스는 시즌 내내 공격력 부진과 잦은 패배로 어려움을 겪고 있으며 최근 10경기에서도 승리보다는 패배가 압도적으로 많아 팀 전력의 하락세가 뚜렷합니다. 반면 주니치 드래곤스는 최근 경기에서 보여준 공격적 집중력과 상대전적에서 보여준 우세한 면모를 고려할 때 이번 맞대결에서도 우위를 가져갈 것으로 평가됩니다."
+homeRecent: '[{"date":"26.09.23","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923HSYA0-2026-09-23-yakult-swallows/"},{"date":"26.09.22","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922HSYA0-2026-09-22-yakult-swallows/"},{"date":"26.09.20","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920YAYO0-2026-09-20-yomiuri-giants/"},{"date":"26.09.19","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919YAYK0-2026-09-19-yokohama-baystars/"},{"date":"26.09.18","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260918YAYK0-2026-09-18-yokohama-baystars/"}]'
+awayRecent: '[{"date":"26.09.23","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923JNYK0-2026-09-23-yokohama-baystars/"},{"date":"26.09.22","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922JNYK0-2026-09-22-yokohama-baystars/"},{"date":"26.09.21","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"10-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260921HIJN0-2026-09-21-chunichi-dragons/"},{"date":"26.09.20","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920HIJN0-2026-09-20-chunichi-dragons/"},{"date":"26.09.19","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"14-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919JNYO0-2026-09-19-yomiuri-giants/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "주니치 드래곤스"
+pickWinResult: "승"
+pickHandicapTeam: "주니치 드래곤스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "6.5"
+pickOuDirection: "오버"
+---

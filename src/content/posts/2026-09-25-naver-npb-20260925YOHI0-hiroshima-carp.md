@@ -1,0 +1,37 @@
+---
+title: "히로시마 도요 카프 vs 요미우리 자이언츠 야구분석·승부예측 (9월 25일) - 픽천국"
+date: 2026-09-25T09:00:00.000Z
+description: "히로시마 도요 카프 vs 요미우리 자이언츠 야구분석: 2026시즌 전체적인 전력 지표와 최근 흐름을 고려할 때 요미우리 자이언츠가 히로시마 도요 카프를 상대로 다소 우위에 있는 것… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260925YOHI0-2026-09-25-hiroshima-carp"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "히로시마 도요 카프"
+awayTeam: "요미우리 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/HI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/YO.png"
+homeAnalysis: "히로시마 도요 카프는 2026시즌 110경기에서 47승 4무 59패를 기록하며 다소 아쉬운 흐름을 이어가고 있습니다. 최근 경기력에서도 승패 기복이 크게 나타나며 안정적인 전력 운용에 어려움을 겪는 모습입니다. 팀 타선의 득점 생산력이 시즌 평균 3.1점에 그치고 있어 마운드의 부담이 가중되는 경기가 많아졌습니다. 투수진이 분전하고 있으나 타선의 지원 부족으로 인해 접전 상황에서 승기를 잡지 못하는 사례가 빈번하게 발생하고 있습니다. 이번 경기에서는 선발 투수 Masato Morishita의 어깨가 무거운 상황이며 홈팬들 앞에서 다시금 집중력을 발휘할 수 있을지가 관건입니다."
+awayAnalysis: "요미우리 자이언츠는 2026시즌 112경기에서 60승 2무 50패를 거두며 리그 내에서 보다 탄탄한 전력을 증명하고 있습니다. 시즌 평균 3.4점의 득점력을 유지하며 히로시마 도요 카프보다 우위에 있는 공격 생산성을 보여주고 있습니다. 최근 10경기에서 6승을 거두는 등 흐름 면에서도 확실히 우상향 곡선을 그리며 자신감 있게 경기에 임하고 있습니다. 특히 상위권으로 도약하기 위한 집중력이 돋보이며 공수 밸런스가 매우 안정적인 상태를 유지하고 있습니다. 선발 투수 Yuhi Nishidate가 최근의 팀 상승세를 이어가는 호투를 보여준다면 원정에서도 충분히 승리를 기대해 볼 수 있는 흐름입니다."
+homePower: "Masato Morishita 등판으로 마운드 무게감 유지함|최근 10경기 승률 4할대로 흐름 반전 시급함|홈 경기에서 타선의 응집력 회복이 최대 과제임|상위권 팀 상대로 접전 양상을 만드는 저력 있음|투수진의 헌신 대비 득점 지원 부족이 고질적임"
+awayPower: "팀 전반적으로 공수 밸런스 매우 안정적임|최근 10경기 평균 득점력 상승세가 돋보임|원정에서의 경기 운영 능력이 리그 상위권임|Yuhi Nishidate 투입으로 마운드 자신감 충전됨|최근 맞대결 우위를 바탕으로 심리적 우위 선점함"
+h2h: '[{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"},{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"},{"date":"26.09.06","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"0-4","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906YOHI0-2026-09-06-hiroshima-carp/"},{"date":"26.09.05","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"5-10","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260905YOHI0-2026-09-05-hiroshima-carp/"},{"date":"26.09.04","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260904YOHI0-2026-09-04-hiroshima-carp/"}]'
+summary: "2026시즌 전체적인 전력 지표와 최근 흐름을 고려할 때 요미우리 자이언츠가 히로시마 도요 카프를 상대로 다소 우위에 있는 것으로 판단됩니다. 요미우리 자이언츠는 시즌 성적에서 더 높은 승률을 기록 중이며 득점 생산력 또한 상대보다 우위에 있어 경기를 풀어가는 주도권을 쥐고 있습니다. 반면 히로시마 도요 카프는 최근 공격력 부진으로 인해 타선이 침묵하는 경우가 잦아 고전하는 흐름이 이어지고 있습니다. 따라서 공수 조화가 더 안정적인 요미우리 자이언츠가 이번 맞대결에서도 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"},{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"},{"date":"26.09.21","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"10-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260921HIJN0-2026-09-21-chunichi-dragons/"},{"date":"26.09.20","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"8-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920HIJN0-2026-09-20-chunichi-dragons/"},{"date":"26.09.19","home":"한신 타이거스","away":"히로시마 도요 카프","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919HIHS0-2026-09-19-hanshin-tigers/"}]'
+awayRecent: '[{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"},{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"},{"date":"26.09.20","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920YAYO0-2026-09-20-yomiuri-giants/"},{"date":"26.09.19","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"14-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919JNYO0-2026-09-19-yomiuri-giants/"},{"date":"26.09.18","home":"요미우리 자이언츠","away":"주니치 드래곤스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260918JNYO0-2026-09-18-yomiuri-giants/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "요미우리 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "요미우리 자이언츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "6.5"
+pickOuDirection: "언더"
+---
