@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.24","home":"필라델피아 필리스","away":"밀�
 injuryHome: "Jonathan Bowlan (경미)|Jesus Luzardo (주요)|Caleb Kilian (주요)|Felix Reyes (주요)|Johan Rojas (주요)"
 injuryAway: "Grant Anderson (주요)|Bryse Wilson (주요)|Brandon Woodruff (주요)|Quinn Priester (주요)|Angel Zerpa (주요)"
 homeLineup: "[\"선발투수 A. Painter (3-10, 5.59) ERA 5.59|https://a.espncdn.com/i/headshots/mlb/players/full/4872683.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 B. Wilson (0-0, 3.67) ERA 3.67|https://a.espncdn.com/i/headshots/mlb/players/full/40922.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
