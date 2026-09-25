@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.25","home":"피츠버그 파이러츠","away":"세�
 injuryHome: "Bryse Wilson (15일 부상자 명단 - 염좌)|Grant Anderson (15일 부상자 명단 - 염증)|Brandon Woodruff (60일 부상자 명단 - 염증)|Quinn Priester (60일 부상자 명단 - 수술)|Angel Zerpa (60일 부상자 명단 - 수술)"
 injuryAway: "Everson Pereira (10일 부상자 명단 - 타박상)|Blaze Jordan (10일 부상자 명단 - 염좌)|Joshua Baez (10일 부상자 명단 - 염좌)|Hunter Dobbins (15일 부상자 명단 - 수술)|Max Rajcic (60일 부상자 명단 - 수술)"
 homeLineup: "[\"선발투수 R. Gasser (5-5, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
-awayLineup: "[\"선발투수 M. McGreevy (7-9, 3.84) ERA 3.84|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
+awayLineup: "[\"선발투수 M. McGreevy (7-9, 3.84) ERA 3.84|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\",\"1번 J. Wetherholt (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png\",\"2번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"4번 L. Bernal (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5124076.png\",\"5번 J. Fermin (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/38851.png\",\"6번 T. Saggese (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4999876.png\",\"7번 M. Winn (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png\",\"8번 P. Pages (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42608.png\",\"9번 V. Scott II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4807220.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
