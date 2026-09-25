@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.25","home":"보스턴 레드삭스","away":"클리�
 awayRecent: '[{"date":"26.09.25","home":"시카고 컵스","away":"마이애미 말린스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925FLCC0-2026-09-25-chicago-cubs/"},{"date":"26.09.24","home":"시카고 컵스","away":"마이애미 말린스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924FLCC0-2026-09-24-chicago-cubs/"},{"date":"26.09.23","home":"시카고 컵스","away":"마이애미 말린스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923FLCC0-2026-09-23-chicago-cubs/"},{"date":"26.09.21","home":"신시내티 레즈","away":"시카고 컵스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921CCCI0-2026-09-21-cincinnati-reds/"},{"date":"26.09.20","home":"신시내티 레즈","away":"시카고 컵스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920CCCI0-2026-09-20-cincinnati-reds/"}]'
 injuryHome: "Tanner Houck (60일 부상자 명단 - 수술)|Johan Oviedo (60일 부상자 명단 - 긴장)|Anthony Seigler (10일 부상자 명단 - 염증)|Masataka Yoshida (10일 부상자 명단 - 긴장)|Zack Kelly (60일 부상자 명단 - 염증)"
 injuryAway: "Gavin Hollowell (15일 부상자 명단 - 염증)|Phil Maton (60일 부상자 명단 - 염좌)|Hunter Harvey (60일 부상자 명단 - 골절)|Tyler Austin (60일 부상자 명단 - 수술)|Alex Bregman (일일 관찰 - 골절)"
-homeLineup: ''
+homeLineup: "[\"선발투수 A. Gamboa (1-0, 1.16) ERA 1.16|https://a.espncdn.com/i/headshots/mlb/players/full/5200550.png\"]"
 awayLineup: "[\"선발투수 C. Holmes (6-8, 3.25) ERA 3.25|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
 homeFormation: ""
 awayFormation: ""
