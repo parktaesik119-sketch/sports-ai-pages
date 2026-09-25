@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.24","home":"시애틀 매리너스","away":"휴스�
 injuryHome: "Alika Williams (경미한 부상)|J.T. Ginn (60일 부상자 명단 - 통증)|Max Muncy (10일 부상자 명단 - 통증)|Brent Rooker (60일 부상자 명단 - 수술)|Nick Kurtz (60일 부상자 명단 - 염좌)"
 injuryAway: "Mike Burrows (60일 부상자 명단 - 염증)|Steven Okert (15일 부상자 명단 - 염좌)|Daulton Varsho (10일 부상자 명단 - 염증)|Brice Matthews (10일 부상자 명단 - 염증)|Enyel De Los Santos (15일 부상자 명단 - 건염)"
 homeLineup: "[\"선발투수 J. Perkins (3-12, 5.90) ERA 5.90|https://a.espncdn.com/i/headshots/mlb/players/full/4418686.png\"]"
-awayLineup: "[\"선발투수 H. Brown (6-3, 3.26) ERA 3.26|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
+awayLineup: "[\"선발투수 H. Wesneski (5-2, 3.50) ERA 3.50|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.23","home":"시애틀 매리너스","away":"휴스�
 injuryHome: "J.T. Ginn (통증)|Max Muncy (통증)|Brent Rooker (수술)|Nick Kurtz (긴장)|Gage Jump (신경 눌림)"
 injuryAway: "Daulton Varsho (경미)|Jeremy Pena (경미)|Mike Burrows (염증)|Steven Okert (긴장)|Enyel De Los Santos (건염)"
 homeLineup: "[\"선발투수 J. Lopez (6-5, 5.68) ERA 5.68|https://a.espncdn.com/i/headshots/mlb/players/full/42239.png\"]"
-awayLineup: "[\"선발투수 H. Wesneski (5-2, 3.50) ERA 3.50|https://a.espncdn.com/i/headshots/mlb/players/full/42996.png\"]"
+awayLineup: "[\"선발투수 H. Brown (6-3, 3.26) ERA 3.26|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
