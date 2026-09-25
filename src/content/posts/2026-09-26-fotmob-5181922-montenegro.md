@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.06.06","home":"슬로바키아","away":"몬테네그�
 awayRecent: '[{"date":"26.06.07","home":"리히텐슈타인","away":"Cyprus","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544362-2026-06-07-liechtenstein/"},{"date":"26.06.05","home":"슬로베니아","away":"Cyprus","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1540352-2026-06-05-slovenia/"},{"date":"26.03.31","home":"Cyprus","away":"몰도바","score":"3-2","result":"🟢승"},{"date":"26.03.27","home":"Cyprus","away":"Belarus","score":"0-1","result":"🔴패"},{"date":"25.11.19","home":"Cyprus","away":"에스토니아","score":"2-4","result":"🔴패"}]'
 injuryHome: "Adam Marušić[주요](허벅지 부상 - 복귀예정 Early October 2026)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Balša Popović (GK)|https://images.fotmob.com/image_resources/playerimages/1683553.png\",\"Milan Roganović (DF)|https://images.fotmob.com/image_resources/playerimages/1362985.png\",\"Stefan Savić (DF)|https://images.fotmob.com/image_resources/playerimages/178955.png\",\"Igor Vujačić (DF)|https://images.fotmob.com/image_resources/playerimages/463300.png\",\"Ognjen Gašević (DF)|https://images.fotmob.com/image_resources/playerimages/949400.png\",\"Milutin Osmajić (FW)|https://images.fotmob.com/image_resources/playerimages/936603.png\",\"Andrija Bulatović (MF)|https://images.fotmob.com/image_resources/playerimages/1634789.png\",\"Marko Janković (MF)|https://images.fotmob.com/image_resources/playerimages/577904.png\",\"Vasilije Adžić (MF)|https://images.fotmob.com/image_resources/playerimages/1382375.png\",\"Stevan Jovetić (FW)|https://images.fotmob.com/image_resources/playerimages/92666.png\",\"Nikola Krstović (FW)|https://images.fotmob.com/image_resources/playerimages/833638.png\"]"
+awayLineup: "[\"Fabiano (GK)|https://images.fotmob.com/image_resources/playerimages/124127.png\",\"Andreas Siikis (DF)|https://images.fotmob.com/image_resources/playerimages/1457734.png\",\"Costas Soteriou (DF)|https://images.fotmob.com/image_resources/playerimages/2296904.png\",\"Nikolas Panayiotou (DF)|https://images.fotmob.com/image_resources/playerimages/988798.png\",\"Giorgios Malekkides (DF)|https://images.fotmob.com/image_resources/playerimages/680791.png\",\"Hector Kyprianou (MF)|https://images.fotmob.com/image_resources/playerimages/1076138.png\",\"Panagiotis Andreou (MF)|https://images.fotmob.com/image_resources/playerimages/1477702.png\",\"Grigoris Kastanos (MF)|https://images.fotmob.com/image_resources/playerimages/625797.png\",\"Marcus Edwards (FW)|https://images.fotmob.com/image_resources/playerimages/637744.png\",\"Ioannis Pittas (FW)|https://images.fotmob.com/image_resources/playerimages/653963.png\",\"Marinos Tzionis (FW)|https://images.fotmob.com/image_resources/playerimages/862870.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "4-2-1-3"
+homeCoach: "Mirko Vučinić|https://images.fotmob.com/image_resources/playerimages/38717.png"
+awayCoach: "Apostolos Mantzios|https://images.fotmob.com/image_resources/playerimages/369325.png"
 pickWinTeam: "몬테네그로"
 pickWinResult: "승"
 pickHandicapTeam: "몬테네그로"
