@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.06.02","home":"튀르키예","away":"북마케도니�
 awayRecent: '[{"date":"26.07.12","home":"아르헨티나","away":"스위스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1582681-2026-07-12-argentina/"},{"date":"26.07.08","home":"스위스","away":"콜롬비아","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1576805-2026-07-08-switzerland/"},{"date":"26.07.03","home":"스위스","away":"알제리","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1567312-2026-07-03-switzerland/"},{"date":"26.06.25","home":"스위스","away":"캐나다","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1489408-2026-06-25-switzerland/"},{"date":"26.06.19","home":"스위스","away":"보스니아 헤르체고비나","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1539005-2026-06-19-switzerland/"}]'
 injuryHome: "없음"
 injuryAway: "Breel Embolo[주요](부상 - 복귀예정 Late September 2026)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Stole Dimitrievski (GK)|https://images.fotmob.com/image_resources/playerimages/254241.png\",\"Andrej Stojchevski (DF)|https://images.fotmob.com/image_resources/playerimages/1217140.png\",\"Gjoko Zajkov (DF)|https://images.fotmob.com/image_resources/playerimages/430995.png\",\"Visar Musliu (DF)|https://images.fotmob.com/image_resources/playerimages/308469.png\",\"Bojan Ilievski (DF)|https://images.fotmob.com/image_resources/playerimages/938267.png\",\"Matej Gashtarov (MF)|https://images.fotmob.com/image_resources/playerimages/1786572.png\",\"Enis Bardhi (MF)|https://images.fotmob.com/image_resources/playerimages/592783.png\",\"Ezgjan Alioski (DF)|https://images.fotmob.com/image_resources/playerimages/406283.png\",\"Eljif Elmas (MF)|https://images.fotmob.com/image_resources/playerimages/741049.png\",\"Bojan Miovski (FW)|https://images.fotmob.com/image_resources/playerimages/846970.png\",\"Elmin Rastoder (FW)|https://images.fotmob.com/image_resources/playerimages/1347804.png\"]"
+awayLineup: "[\"Gregor Kobel (GK)|https://images.fotmob.com/image_resources/playerimages/764018.png\",\"Zachary Athekame (DF)|https://images.fotmob.com/image_resources/playerimages/1595629.png\",\"Nico Elvedi (DF)|https://images.fotmob.com/image_resources/playerimages/517346.png\",\"Manuel Akanji (DF)|https://images.fotmob.com/image_resources/playerimages/521318.png\",\"Ricardo Rodríguez (DF)|https://images.fotmob.com/image_resources/playerimages/115591.png\",\"Remo Freuler (MF)|https://images.fotmob.com/image_resources/playerimages/201704.png\",\"Ardon Jashari (MF)|https://images.fotmob.com/image_resources/playerimages/1163219.png\",\"Djibril Sow (MF)|https://images.fotmob.com/image_resources/playerimages/707970.png\",\"Fabian Rieder (MF)|https://images.fotmob.com/image_resources/playerimages/1161211.png\",\"Zeki Amdouni (FW)|https://images.fotmob.com/image_resources/playerimages/1067168.png\",\"Dan Ndoye (FW)|https://images.fotmob.com/image_resources/playerimages/1022649.png\"]"
+homeFormation: "3-4-1-2"
+awayFormation: "4-3-3"
+homeCoach: "Goce Sedloski|https://images.fotmob.com/image_resources/playerimages/35414.png"
+awayCoach: "Murat Yakın|https://images.fotmob.com/image_resources/playerimages/34053.png"
 pickWinTeam: "스위스"
 pickWinResult: "승"
 pickHandicapTeam: "스위스"
