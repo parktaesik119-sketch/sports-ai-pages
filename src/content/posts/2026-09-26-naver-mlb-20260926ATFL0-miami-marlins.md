@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.24","home":"애틀랜타 브레이브스","away":"�
 injuryHome: "Owen Caissie (10일 부상자 명단 - 골절)|Xavier Edwards (일일 판단 대상)|Anthony Bender (15일 부상자 명단 - 골절)|Max Meyer (15일 부상자 명단 - 근육 부상)|Ronny Henriquez (60일 부상자 명단 - 수술)"
 injuryAway: "Joe Jimenez (60일 부상자 명단 - 수술)|Reynaldo Lopez (15일 부상자 명단 - 염증)|Bryce Elder (15일 부상자 명단 - 수술)|Lane Thomas (10일 부상자 명단 - 근육 부상)|Martin Perez (15일 부상자 명단 - 염증)"
 homeLineup: "[\"선발투수 E. Perez (7-11, 4.14) ERA 4.14|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
-awayLineup: "[\"선발투수 R. Kerr (0-0, 1.76) ERA 1.76|https://a.espncdn.com/i/headshots/mlb/players/full/40426.png\"]"
+awayLineup: "[\"선발투수 R. Kerr (0-0, 1.76) ERA 1.76|https://a.espncdn.com/i/headshots/mlb/players/full/40426.png\",\"1번 D. Baldwin (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png\",\"2번 R. Acuna Jr. (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/36185.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 M. Harris II (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42470.png\",\"5번 M. Dubon (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"6번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"7번 M. Yastrzemski (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"8번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"9번 S. Murphy (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33557.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
