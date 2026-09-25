@@ -19,7 +19,7 @@ summary: "이번 UEFA Nations League C Grp. 3에서 전력을 다하고 있는 �
 homeRecent: '[{"date":"26.06.10","home":"라트비아","away":"Faroe Islands","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1550659-2026-06-10-latvia/"},{"date":"26.06.07","home":"에스토니아","away":"Faroe Islands","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1548310-2026-06-07-estonia/"},{"date":"26.03.28","home":"San Marino","away":"Faroe Islands","score":"1-2","result":"🟢승"},{"date":"25.11.19","home":"Faroe Islands","away":"Kazakhstan","score":"1-0","result":"🟢승"},{"date":"25.11.15","home":"크로아티아","away":"Faroe Islands","score":"3-1","result":"🔴패"}]'
 awayRecent: '[{"date":"26.06.10","home":"헝가리","away":"Kazakhstan","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1525493-2026-06-10-hungary/"},{"date":"26.06.06","home":"아르메니아","away":"Kazakhstan","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1537649-2026-06-06-armenia/"},{"date":"26.03.31","home":"Kazakhstan","away":"Comoros","score":"1-0","result":"🟢승"},{"date":"26.03.25","home":"Kazakhstan","away":"Namibia","score":"2-0","result":"🟢승"},{"date":"25.11.19","home":"Faroe Islands","away":"Kazakhstan","score":"1-0","result":"🔴패"}]'
 injuryHome: "없음"
-injuryAway: "Islam Chesnokov (부상)|Dastan Satpaev (허벅지 부상)"
+injuryAway: "Islam Chesnokov[주요](부상 - 복귀예정 Late September 2026) | Dastan Satpaev[주요](허벅지 부상 - 복귀예정 Early October 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

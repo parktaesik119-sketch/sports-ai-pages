@@ -19,7 +19,7 @@ summary: "북마케도니아는 탄탄한 수비 조직력과 홈 경기 이점�
 homeRecent: '[{"date":"26.06.02","home":"튀르키예","away":"북마케도니아","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1543821-2026-06-02-trkiye/"},{"date":"26.05.30","home":"보스니아 헤르체고비나","away":"북마케도니아","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1540947-2026-05-30-bosnia-herzegovina/"},{"date":"26.04.01","home":"아일랜드","away":"북마케도니아","score":"0-0","result":"🟡무"},{"date":"26.03.27","home":"덴마크","away":"북마케도니아","score":"4-0","result":"🔴패"},{"date":"25.11.19","home":"웨일스","away":"북마케도니아","score":"7-1","result":"🔴패"}]'
 awayRecent: '[{"date":"26.07.12","home":"아르헨티나","away":"스위스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1582681-2026-07-12-argentina/"},{"date":"26.07.08","home":"스위스","away":"콜롬비아","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1576805-2026-07-08-switzerland/"},{"date":"26.07.03","home":"스위스","away":"알제리","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1567312-2026-07-03-switzerland/"},{"date":"26.06.25","home":"스위스","away":"캐나다","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1489408-2026-06-25-switzerland/"},{"date":"26.06.19","home":"스위스","away":"보스니아 헤르체고비나","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1539005-2026-06-19-switzerland/"}]'
 injuryHome: "없음"
-injuryAway: "Breel Embolo (부상 - 2026년 9월 하순)"
+injuryAway: "Breel Embolo[주요](부상 - 복귀예정 Late September 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

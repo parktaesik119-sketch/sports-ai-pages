@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.24","home":"LA 다저스","away":"샌디에이고 �
 awayRecent: '[{"date":"26.09.25","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"8-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925AZCO0-2026-09-25-colorado-rockies/"},{"date":"26.09.23","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923AZCO0-2026-09-23-colorado-rockies/"},{"date":"26.09.21","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921NYAZ0-2026-09-21-arizona-diamondbacks/"},{"date":"26.09.19","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919NYAZ0-2026-09-19-arizona-diamondbacks/"},{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"}]'
 injuryHome: "Miguel Andujar (10일 부상자 명단 - 골절)|Jeremiah Estrada (15일 부상자 명단 - 신경 압박)|Gavin Sheets (10일 부상자 명단 - 염좌)|Joe Musgrove (60일 부상자 명단 - 염증)|Lucas Giolito (60일 부상자 명단 - 염증)"
 injuryAway: "Tyler Locklear (60일 부상자 명단 - 골절)|Ryan Thompson (60일 부상자 명단 - 변형)|A.J. Puk (60일 부상자 명단 - 염좌)|Andrew Saalfrank (60일 부상자 명단 - 수술)|Cristian Mena (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 W. Buehler (9-6, 4.56) ERA 4.56|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
+awayLineup: "[\"선발투수 C. Burnes (0-0, 7.84) ERA 7.84|https://a.espncdn.com/i/headshots/mlb/players/full/39878.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

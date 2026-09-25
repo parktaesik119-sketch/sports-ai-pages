@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.24","home":"시애틀 매리너스","away":"휴스�
 awayRecent: '[{"date":"26.09.24","home":"애슬레틱스","away":"LA 에인절스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924ANOA0-2026-09-24-athletics/"},{"date":"26.09.23","home":"애슬레틱스","away":"LA 에인절스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923ANOA0-2026-09-23-athletics/"},{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"}]'
 injuryHome: "Andres Munoz (단기 경미 부상)|Brendan Donovan (뇌진탕 7일 부상자 명단)|Brennen Davis (좌상 60일 부상자 명단)|Cole Wilcox (좌상 15일 부상자 명단)|Will Wilson (골절 60일 부상자 명단)"
 injuryAway: "Ben Joyce (염증 15일 부상자 명단)|George Klassen (염증 15일 부상자 명단)|Nolan Schanuel (좌상 10일 부상자 명단)|Kyren Paris (골절 10일 부상자 명단)|Samy Natera Jr. (염증 15일 부상자 명단)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Anderson (2-2, 4.18) ERA 4.18|https://a.espncdn.com/i/headshots/mlb/players/full/5198748.png\"]"
+awayLineup: "[\"선발투수 R. Johnson (5-9, 4.93) ERA 4.93|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

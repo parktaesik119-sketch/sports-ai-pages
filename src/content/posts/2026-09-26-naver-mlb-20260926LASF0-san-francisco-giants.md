@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.24","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.09.24","home":"LA 다저스","away":"샌디에이고 파드리스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SDLA0-2026-09-24-los-angeles-dodgers/"},{"date":"26.09.23","home":"LA 다저스","away":"샌디에이고 파드리스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SDLA0-2026-09-23-los-angeles-dodgers/"},{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SFLA0-2026-09-21-los-angeles-dodgers/"},{"date":"26.09.19","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers/"},{"date":"26.09.18","home":"신시내티 레즈","away":"LA 다저스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918LACI0-2026-09-18-cincinnati-reds/"}]'
 injuryHome: "Bo Davidson (단기 관찰)|Osleivis Basabe (통증)|Willy Adames (10일 부상자 명단-염좌)|JT Brubaker (15일 부상자 명단-타박상)|Matt Gage (60일 부상자 명단-변형)"
 injuryAway: "Gavin Stone (60일 부상자 명단-염증)|Jake Cousins (60일 부상자 명단-수술)|Ben Casparius (60일 부상자 명단-염증)|Brusdar Graterol (60일 부상자 명단-수술)|Dalton Rushing (10일 부상자 명단-통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Wilkinson (1-3, 3.65) ERA 3.65|https://a.espncdn.com/i/headshots/mlb/players/full/5339226.png\"]"
+awayLineup: "[\"선발투수 B. Snell (4-1, 1.86) ERA 1.86|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

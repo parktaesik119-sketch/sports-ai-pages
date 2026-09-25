@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.25","home":"필라델피아 필리스","away":"밀�
 awayRecent: '[{"date":"26.09.25","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SLPI0-2026-09-25-pittsburgh-pirates/"},{"date":"26.09.24","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SLPI0-2026-09-24-pittsburgh-pirates/"},{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SLPI0-2026-09-23-pittsburgh-pirates/"},{"date":"26.09.21","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals/"},{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"}]'
 injuryHome: "Bryse Wilson (15일 부상자 명단 - 염좌)|Grant Anderson (15일 부상자 명단 - 염증)|Brandon Woodruff (60일 부상자 명단 - 염증)|Quinn Priester (60일 부상자 명단 - 수술)|Angel Zerpa (60일 부상자 명단 - 수술)"
 injuryAway: "Everson Pereira (10일 부상자 명단 - 타박상)|Blaze Jordan (10일 부상자 명단 - 염좌)|Joshua Baez (10일 부상자 명단 - 염좌)|Hunter Dobbins (15일 부상자 명단 - 수술)|Max Rajcic (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Gasser (5-5, 4.01) ERA 4.01|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
+awayLineup: "[\"선발투수 M. McGreevy (7-9, 3.84) ERA 3.84|https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

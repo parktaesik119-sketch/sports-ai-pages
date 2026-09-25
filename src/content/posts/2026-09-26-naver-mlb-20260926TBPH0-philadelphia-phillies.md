@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.25","home":"필라델피아 필리스","away":"밀�
 awayRecent: '[{"date":"26.09.24","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TBNY0-2026-09-24-new-york-yankees/"},{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923TBNY2-2026-09-23-new-york-yankees/"},{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"},{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"},{"date":"26.09.19","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919BOTB0-2026-09-19-tampa-bay-rays/"}]'
 injuryHome: "Jonathan Bowlan (경미한 근육 긴장)|Luis Arraez (경미한 관절 염좌)|Jesus Luzardo (염증)|Caleb Kilian (근육 긴장)|Felix Reyes (골절)"
 injuryAway: "Manuel Rodriguez (근육 긴장)|Garrett Cleavinger (통증)|Gavin Lux (염증)|Edwin Uceta (근육 긴장)|Jonathan Heasley (골절)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Sanchez (18-6, 2.93) ERA 2.93|https://a.espncdn.com/i/headshots/mlb/players/full/42359.png\"]"
+awayLineup: "[\"선발투수 F. Peralta (9-11, 4.56) ERA 4.56|https://a.espncdn.com/i/headshots/mlb/players/full/39825.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

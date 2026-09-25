@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.25","home":"시카고 컵스","away":"마이애미 
 injuryHome: "Tanner Houck (60일 부상자 명단 - 수술)|Johan Oviedo (60일 부상자 명단 - 긴장)|Anthony Seigler (10일 부상자 명단 - 염증)|Masataka Yoshida (10일 부상자 명단 - 긴장)|Zack Kelly (60일 부상자 명단 - 염증)"
 injuryAway: "Gavin Hollowell (15일 부상자 명단 - 염증)|Phil Maton (60일 부상자 명단 - 염좌)|Hunter Harvey (60일 부상자 명단 - 골절)|Tyler Austin (60일 부상자 명단 - 수술)|Alex Bregman (일일 관찰 - 골절)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 C. Holmes (6-8, 3.25) ERA 3.25|https://a.espncdn.com/i/headshots/mlb/players/full/32827.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

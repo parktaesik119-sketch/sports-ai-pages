@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.24","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.25","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925NMTE0-2026-09-25-texas-rangers/"},{"date":"26.09.23","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923NMTE0-2026-09-23-texas-rangers/"},{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921PHNM0-2026-09-21-new-york-mets/"},{"date":"26.09.20","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920PHNM0-2026-09-20-new-york-mets/"},{"date":"26.09.19","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919PHNM0-2026-09-19-new-york-mets/"}]'
 injuryHome: "Orlando Ribalta (15일 부상자 명단 - 염증)|PJ Poulin (60일 부상자 명단 - 염좌)|Connelly Early (60일 부상자 명단 - 염증)|Matt Waldron (60일 부상자 명단 - 염증)|Drew Millas (60일 부상자 명단 - 수술)"
 injuryAway: "Christian Scott (15일 부상자 명단 - 염증)|Jared Young (7일 부상자 명단 - 뇌진탕)|Daniel Duarte (15일 부상자 명단 - 염좌)|Robert Stock (15일 부상자 명단)|Jorge Polanco (60일 부상자 명단 - 수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 A. Alvarez (2-6, 3.17) ERA 3.17|https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

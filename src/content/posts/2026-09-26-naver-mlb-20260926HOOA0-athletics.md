@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.24","home":"애슬레틱스","away":"LA 에인절�
 awayRecent: '[{"date":"26.09.24","home":"시애틀 매리너스","away":"휴스턴 애스트로스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924HOSE0-2026-09-24-seattle-mariners/"},{"date":"26.09.23","home":"시애틀 매리너스","away":"휴스턴 애스트로스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923HOSE0-2026-09-23-seattle-mariners/"},{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921ATHO0-2026-09-21-houston-astros/"},{"date":"26.09.20","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920ATHO0-2026-09-20-houston-astros/"},{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"}]'
 injuryHome: "Alika Williams (경미한 부상)|J.T. Ginn (60일 부상자 명단 - 통증)|Max Muncy (10일 부상자 명단 - 통증)|Brent Rooker (60일 부상자 명단 - 수술)|Nick Kurtz (60일 부상자 명단 - 염좌)"
 injuryAway: "Mike Burrows (60일 부상자 명단 - 염증)|Steven Okert (15일 부상자 명단 - 염좌)|Daulton Varsho (10일 부상자 명단 - 염증)|Brice Matthews (10일 부상자 명단 - 염증)|Enyel De Los Santos (15일 부상자 명단 - 건염)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Perkins (3-12, 5.90) ERA 5.90|https://a.espncdn.com/i/headshots/mlb/players/full/4418686.png\"]"
+awayLineup: "[\"선발투수 H. Brown (6-3, 3.26) ERA 3.26|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

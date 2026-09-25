@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.25","home":"시카고 컵스","away":"마이애미 
 awayRecent: '[{"date":"26.09.24","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CIAT0-2026-09-24-atlanta-braves/"},{"date":"26.09.23","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CIAT0-2026-09-23-atlanta-braves/"},{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921ATHO0-2026-09-21-houston-astros/"},{"date":"26.09.20","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920ATHO0-2026-09-20-houston-astros/"},{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"}]'
 injuryHome: "Owen Caissie (10일 부상자 명단 - 골절)|Xavier Edwards (일일 판단 대상)|Anthony Bender (15일 부상자 명단 - 골절)|Max Meyer (15일 부상자 명단 - 근육 부상)|Ronny Henriquez (60일 부상자 명단 - 수술)"
 injuryAway: "Joe Jimenez (60일 부상자 명단 - 수술)|Reynaldo Lopez (15일 부상자 명단 - 염증)|Bryce Elder (15일 부상자 명단 - 수술)|Lane Thomas (10일 부상자 명단 - 근육 부상)|Martin Perez (15일 부상자 명단 - 염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Perez (7-11, 4.14) ERA 4.14|https://a.espncdn.com/i/headshots/mlb/players/full/4917854.png\"]"
+awayLineup: "[\"선발투수 G. Holmes (10-5, 3.47) ERA 3.47|https://a.espncdn.com/i/headshots/mlb/players/full/33840.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
