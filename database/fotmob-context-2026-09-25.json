@@ -944,7 +944,7 @@
         "Nathaniel Brown (DF)|https://images.fotmob.com/image_resources/playerimages/1395447.png",
         "Felix Nmecha (MF)|https://images.fotmob.com/image_resources/playerimages/966019.png",
         "Joshua Kimmich (MF)|https://images.fotmob.com/image_resources/playerimages/460632.png",
-        "Karim Adeyemi (MF)|https://images.fotmob.com/image_resources/playerimages/959594.png",
+        "Karim Adeyemi (FW)|https://images.fotmob.com/image_resources/playerimages/959594.png",
         "Nadiem Amiri (MF)|https://images.fotmob.com/image_resources/playerimages/614449.png",
         "Kevin Schade (FW)|https://images.fotmob.com/image_resources/playerimages/1083796.png",
         "Kai Havertz (FW)|https://images.fotmob.com/image_resources/playerimages/749736.png"
@@ -1663,7 +1663,7 @@
         "Mërgim Vojvoda (MF)|https://images.fotmob.com/image_resources/playerimages/560945.png",
         "Leon Avdullahu (MF)|https://images.fotmob.com/image_resources/playerimages/1478148.png",
         "Veldin Hodža (MF)|https://images.fotmob.com/image_resources/playerimages/1190351.png",
-        "Dion Gallapeni (DF)|https://images.fotmob.com/image_resources/playerimages/1729818.png",
+        "Dion Gallapeni (MF)|https://images.fotmob.com/image_resources/playerimages/1729818.png",
         "Edon Zhegrova (FW)|https://images.fotmob.com/image_resources/playerimages/862616.png",
         "Baton Zabërgja (FW)|https://images.fotmob.com/image_resources/playerimages/1382371.png",
         "Vedat Muriqi (FW)|https://images.fotmob.com/image_resources/playerimages/517052.png"
@@ -2422,7 +2422,7 @@
         "Nicolò Barella (MF)|https://images.fotmob.com/image_resources/playerimages/541820.png",
         "Francesco Pio Esposito (FW)|https://images.fotmob.com/image_resources/playerimages/1367618.png",
         "Moise Kean (FW)|https://images.fotmob.com/image_resources/playerimages/747926.png",
-        "Giacomo Raspadori (MF)|https://images.fotmob.com/image_resources/playerimages/951743.png"
+        "Giacomo Raspadori (FW)|https://images.fotmob.com/image_resources/playerimages/951743.png"
       ],
       "away": [
         "Senne Lammens (GK)|https://images.fotmob.com/image_resources/playerimages/1178602.png",
@@ -3556,7 +3556,7 @@
       ],
       "away": [
         {
-          "name": "Marco Untergrabner",
+          "name": "Seán Gannon",
           "status": "근육 부상",
           "detail": "About 1-2 weeks"
         }
@@ -5304,9 +5304,42 @@
         }
       ]
     },
-    "lineup": null,
-    "formation": null,
-    "coach": null
+    "lineup": {
+      "home": [
+        "Džiugas Bartkus (GK)|https://images.fotmob.com/image_resources/playerimages/258206.png",
+        "Pijus Širvys (DF)|https://images.fotmob.com/image_resources/playerimages/757630.png",
+        "Kipras Kažukolovas (DF)|https://images.fotmob.com/image_resources/playerimages/1379498.png",
+        "Edgaras Utkus (DF)|https://images.fotmob.com/image_resources/playerimages/973827.png",
+        "Artemijus Tutyškinas (DF)|https://images.fotmob.com/image_resources/playerimages/1281972.png",
+        "Gvidas Gineitis (MF)|https://images.fotmob.com/image_resources/playerimages/1421505.png",
+        "Modestas Vorobjovas (MF)|https://images.fotmob.com/image_resources/playerimages/463746.png",
+        "Lukas Michelbrink (MF)|https://images.fotmob.com/image_resources/playerimages/1701764.png",
+        "Justas Lasickas (DF)|https://images.fotmob.com/image_resources/playerimages/652962.png",
+        "Armandas Kučys (FW)|https://images.fotmob.com/image_resources/playerimages/1312274.png",
+        "Eligijus Jankauskas (FW)|https://images.fotmob.com/image_resources/playerimages/762882.png"
+      ],
+      "away": [
+        "Emil Balayev (GK)|https://images.fotmob.com/image_resources/playerimages/304890.png",
+        "Rəhman Daşdəmirov (DF)|https://images.fotmob.com/image_resources/playerimages/1441450.png",
+        "Elvin Bədəlov (DF)|https://images.fotmob.com/image_resources/playerimages/557588.png",
+        "Rahil Məmmədov (DF)|https://images.fotmob.com/image_resources/playerimages/652285.png",
+        "Tural Bayramov (MF)|https://images.fotmob.com/image_resources/playerimages/1119168.png",
+        "Aleksey İsayev (MF)|https://images.fotmob.com/image_resources/playerimages/688887.png",
+        "Emin Makhmudov (MF)|https://images.fotmob.com/image_resources/playerimages/177436.png",
+        "Abdulakh Khaybulaev (MF)|https://images.fotmob.com/image_resources/playerimages/1351085.png",
+        "Tellur Mütallimov (MF)|https://images.fotmob.com/image_resources/playerimages/763300.png",
+        "Rahim Sadıxov (FW)|https://images.fotmob.com/image_resources/playerimages/809188.png",
+        "Musa Qurbanlı (FW)|https://images.fotmob.com/image_resources/playerimages/1179484.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "3-5-2"
+    },
+    "coach": {
+      "home": "Edgaras Jankauskas|https://images.fotmob.com/image_resources/playerimages/32565.png",
+      "away": null
+    }
   },
   {
     "home": "Atlanta United",
@@ -9966,6 +9999,117 @@
       "home": "Matjaž Kek|https://images.fotmob.com/image_resources/playerimages/98898.png",
       "away": "Mauro Lustrinelli|https://images.fotmob.com/image_resources/playerimages/30939.png"
     }
+  },
+  {
+    "home": "Lazio",
+    "away": "Arezzo",
+    "date": "2026-09-27T13:00:00.000Z",
+    "league": "Club Friendlies",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nicolò Rovella",
+          "status": "종아리 부상",
+          "detail": "Early October 2026"
+        },
+        {
+          "name": "Adam Marušić",
+          "status": "허벅지 부상",
+          "detail": "Early October 2026"
+        },
+        {
+          "name": "Luca Pellegrini",
+          "status": "허벅지 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Patric",
+          "status": "허벅지 부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-24T16:30:00.000Z",
+          "home": "Bologna",
+          "away": "Lazio",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-08-30T18:45:00.000Z",
+          "home": "Lazio",
+          "away": "Genoa",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-07T18:45:00.000Z",
+          "home": "Udinese",
+          "away": "Lazio",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-12T16:00:00.000Z",
+          "home": "Lazio",
+          "away": "Milan",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-19T18:45:00.000Z",
+          "home": "Venezia",
+          "away": "Lazio",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-08-22T19:00:00.000Z",
+          "home": "Avellino",
+          "away": "Arezzo",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-08-30T17:00:00.000Z",
+          "home": "Arezzo",
+          "away": "Palermo",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-06T15:15:00.000Z",
+          "home": "Hellas Verona",
+          "away": "Arezzo",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-11T17:00:00.000Z",
+          "home": "Empoli",
+          "away": "Arezzo",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-20T13:00:00.000Z",
+          "home": "Arezzo",
+          "away": "Südtirol",
+          "homeScore": 1,
+          "awayScore": 4
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
   },
   {
     "home": "Gangwon FC",
