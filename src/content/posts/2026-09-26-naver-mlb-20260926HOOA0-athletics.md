@@ -1,0 +1,37 @@
+---
+title: "애슬레틱스 vs 휴스턴 애스트로스 야구분석·승부예측 (9월 26일) - 픽천국"
+date: 2026-09-26T01:40:00.000Z
+description: "애슬레틱스 vs 휴스턴 애스트로스 야구분석: 휴스턴 애스트로스는 시즌 전반에 걸쳐 애슬레틱스보다 한층 안정된 전력과 마운드 운용 능력을 입증해 왔습니다. 애슬레틱스가 최근… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260926HOOA0-2026-09-26-athletics"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "애슬레틱스"
+awayTeam: "휴스턴 애스트로스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/OA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+homeAnalysis: "애슬레틱스는 2026시즌 63승 95패 승률 .399를 기록하며 현재 리그순위 14위에 머물러 있습니다. 시즌 내내 투타 밸런스 유지에 어려움을 겪으며 득실 차 마이너스 217을 기록하는 등 다소 침체된 흐름을 이어왔습니다. 최근 10경기에서도 4승 6패를 기록하며 분위기 반전이 시급한 상황으로 평가됩니다. 직전 경기에서 로스앤젤레스 엔젤스를 상대로 승리를 거두며 타선의 집중력이 살아나는 모습을 보인 점은 긍정적입니다. 다만 주요 타자들의 부상 악재와 수비 불안 요소가 남아 있어 홈 경기 운영에 부담이 따를 것으로 보입니다."
+awayAnalysis: "휴스턴 애스트로스는 2026시즌 78승 80패 승률 .494를 기록하며 현재 리그순위 7위에 위치해 있습니다. 시즌 내내 안정적인 마운드 운영과 탄탄한 기본기를 앞세워 중위권 싸움을 치열하게 펼치고 있습니다. 최근 10경기에서는 4승 6패로 다소 주춤한 모습을 보였으나 경기마다 끈끈한 타선 집중력을 보여주었습니다. 불펜진의 부상 변수가 존재하는 상황에서도 전력의 안정성 면에서 상대를 앞서고 있습니다. 맞대결에서도 만만치 않은 경기력을 유지해온 만큼 원정 경기에서도 우위를 점하기 위해 집중할 것으로 기대됩니다."
+homePower: "시즌 63승에 머물며 리그순위 14위에 위치해 기복이 심함|최근 10경기 4승 6패로 분위기 반전 계기 마련이 시급함|득실 차 마이너스 217로 투타 밸런스 붕괴가 관찰됨|핵심 타자 장기 부상 악재로 장타력 약화가 불가피함|휴스턴 애스트로스 상대 5승 4패로 맞대결 접전 양상임"
+awayPower: "시즌 78승 80패로 리그순위 7위에 올라 전력 우위임|최근 10경기 4승 6패로 중위권 승부처에서 고전 중임|득실 차 마이너스 53으로 마운드 안정감이 상대보다 높음|투수진 부상 변수 속에서도 전반적 뎁스로 커버 가능함|애슬레틱스 상대로 원정에서도 접전 양상 유지함"
+h2h: '[{"date":"26.08.24","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"6-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260824OAHO0-2026-08-24-houston-astros/"},{"date":"26.08.23","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260823OAHO0-2026-08-23-houston-astros/"},{"date":"26.08.22","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"4-0"},{"date":"26.06.08","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"0-5","link":"https://pick79.com/posts/detail/analyze-178987-2026-06-08-houston-astros/"},{"date":"26.06.07","home":"휴스턴 애스트로스","away":"애슬레틱스","score":"13-2","link":"https://pick79.com/posts/detail/analyze-178974-2026-06-07-houston-astros/"}]'
+summary: "휴스턴 애스트로스는 시즌 전반에 걸쳐 애슬레틱스보다 한층 안정된 전력과 마운드 운용 능력을 입증해 왔습니다. 애슬레틱스가 최근 마운드 난조와 전력 공백으로 다소 고전하고 있는 반면 휴스턴 애스트로스는 중위권의 끈끈함을 유지하며 타선의 기회가 찾아왔을 때 득점 지원을 확실히 해주는 모습입니다. 상대전적에서도 팽팽한 접전이 이어졌으나 전체적인 득실 밸런스와 경기 운영 안정감 면에서 휴스턴 애스트로스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.24","home":"애슬레틱스","away":"LA 에인절스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924ANOA0-2026-09-24-athletics/"},{"date":"26.09.23","home":"애슬레틱스","away":"LA 에인절스","score":"9-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923ANOA0-2026-09-23-athletics/"},{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"},{"date":"26.09.20","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"12-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920OACL0-2026-09-20-cleveland-guardians/"},{"date":"26.09.19","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919OACL0-2026-09-19-cleveland-guardians/"}]'
+awayRecent: '[{"date":"26.09.24","home":"시애틀 매리너스","away":"휴스턴 애스트로스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924HOSE0-2026-09-24-seattle-mariners/"},{"date":"26.09.23","home":"시애틀 매리너스","away":"휴스턴 애스트로스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923HOSE0-2026-09-23-seattle-mariners/"},{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921ATHO0-2026-09-21-houston-astros/"},{"date":"26.09.20","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920ATHO0-2026-09-20-houston-astros/"},{"date":"26.09.18","home":"휴스턴 애스트로스","away":"캔자스시티 로열스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918KCHO0-2026-09-18-houston-astros/"}]'
+injuryHome: "Alika Williams (경미한 부상)|J.T. Ginn (60일 부상자 명단 - 통증)|Max Muncy (10일 부상자 명단 - 통증)|Brent Rooker (60일 부상자 명단 - 수술)|Nick Kurtz (60일 부상자 명단 - 염좌)"
+injuryAway: "Mike Burrows (60일 부상자 명단 - 염증)|Steven Okert (15일 부상자 명단 - 염좌)|Daulton Varsho (10일 부상자 명단 - 염증)|Brice Matthews (10일 부상자 명단 - 염증)|Enyel De Los Santos (15일 부상자 명단 - 건염)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 애스트로스"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 애스트로스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "Faroe Islands vs Kazakhstan 축구분석·승부예측 (9월 27일) - 픽천국"
+date: 2026-09-26T16:00:00.000Z
+description: "Faroe Islands vs Kazakhstan 축구분석: 이번 UEFA Nations League C Grp. 3에서 전력을 다하고 있는 두 팀의 팽팽한 대결이 예상됩니다. Faroe… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5181933-2026-09-27-faroe-islands"
+category: "soccer"
+country: "국제"
+league: "UEFA Nations League C Grp. 3"
+homeTeam: "Faroe Islands"
+awayTeam: "Kazakhstan"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8269.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8265.png"
+homeAnalysis: "이번 UEFA Nations League C Grp. 3에서 1승 1패를 기록하고 있는 Faroe Islands는 기복 있는 경기 속에서도 단단한 안방 집중력을 유지하고 있습니다. 최근 라트비아 원정에서 승리를 거두며 분위기 반전에 성공한 점이 돋보입니다. 수비진의 조직력이 살아나면서 경기 운영 면에서 훨씬 정돈된 모습을 보여주고 있습니다. 특히 안방에서는 쉽게 실점을 허용하지 않는 질긴 수비력이 강점으로 평가받고 있습니다. 이번 경기에서도 홈 이점을 바탕으로 끈질긴 경기력을 선보일 것으로 기대됩니다."
+awayAnalysis: "이번 UEFA Nations League C Grp. 3에서 3승 3무 1패의 성적을 거두고 있는 Kazakhstan은 꾸준히 승점을 쌓아오며 안정적인 전력을 과시하고 있습니다. 최근에는 다소 주춤한 흐름을 보였으나 공수 전반에 걸친 밸런스는 여전히 위협적입니다. 다만 전력의 축을 담당하던 Islam Chesnokov와 Dastan Satpaev의 부상 이탈은 아쉬운 대목입니다. 원정 경기에서 공격의 결정력을 유지하는 것이 이번 경기의 주요 과제로 보입니다. 탄탄한 전력을 바탕으로 원정에서 주도권을 잡기 위해 적극적으로 나설 것으로 전망됩니다."
+homePower: "홈 경기에서 나타나는 강한 수비 집중력 돋보임|최근 경기 승리로 공수 밸런스 회복세임|과거 상대전적 홈 경기에서 무패 흐름 유지함|전력상 열세에도 단단한 조직력으로 대등한 양상 보임|페로 제도의 안방 이점이 경기 운명 가를 변수임"
+awayPower: "시즌 전반에 걸친 안정적인 승점 수집 능력이 뛰어남|주요 공격 자원의 부상 부재로 마무리 효율 저하 우려됨|상대전적 통산 우위를 점하고 있어 경기 운영상 자신감 있음|원정 경기에서의 실점 통제가 승부의 핵심 요소임|카자흐스탄의 짜임새 있는 경기 운영이 기대됨"
+h2h: '[{"date":"25.11.19","home":"Faroe Islands","away":"Kazakhstan","score":"1-0"},{"date":"13.10.12","home":"Faroe Islands","away":"Kazakhstan","score":"1-1"},{"date":"13.09.07","home":"Kazakhstan","away":"Faroe Islands","score":"2-1"}]'
+summary: "이번 UEFA Nations League C Grp. 3에서 전력을 다하고 있는 두 팀의 팽팽한 대결이 예상됩니다. Faroe Islands는 단단한 수비와 홈 이점을 적극적으로 활용해 상대의 공세를 막아설 것으로 보입니다. Kazakhstan 역시 부상 공백에도 불구하고 탄탄한 경기 운영을 바탕으로 맞불을 놓을 가능성이 높습니다. 두 팀은 과거 상대전적에서도 서로 장군멍군을 부르며 접전을 펼쳤던 만큼, 이번 경기 역시 치열한 팽팽함 속에 무승부로 마무리가 될 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.06.10","home":"라트비아","away":"Faroe Islands","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1550659-2026-06-10-latvia/"},{"date":"26.06.07","home":"에스토니아","away":"Faroe Islands","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1548310-2026-06-07-estonia/"},{"date":"26.03.28","home":"San Marino","away":"Faroe Islands","score":"1-2","result":"🟢승"},{"date":"25.11.19","home":"Faroe Islands","away":"Kazakhstan","score":"1-0","result":"🟢승"},{"date":"25.11.15","home":"크로아티아","away":"Faroe Islands","score":"3-1","result":"🔴패"}]'
+awayRecent: '[{"date":"26.06.10","home":"헝가리","away":"Kazakhstan","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1525493-2026-06-10-hungary/"},{"date":"26.06.06","home":"아르메니아","away":"Kazakhstan","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1537649-2026-06-06-armenia/"},{"date":"26.03.31","home":"Kazakhstan","away":"Comoros","score":"1-0","result":"🟢승"},{"date":"26.03.25","home":"Kazakhstan","away":"Namibia","score":"2-0","result":"🟢승"},{"date":"25.11.19","home":"Faroe Islands","away":"Kazakhstan","score":"1-0","result":"🔴패"}]'
+injuryHome: "없음"
+injuryAway: "Islam Chesnokov (부상)|Dastan Satpaev (허벅지 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

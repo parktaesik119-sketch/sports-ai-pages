@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 볼티모어 오리올스 야구분석·승부예측 (9월 26일) - 픽천국"
+date: 2026-09-25T20:05:00.000Z
+description: "뉴욕 양키즈 vs 볼티모어 오리올스 야구분석: 2026시즌 리그순위 2위에 위치한 뉴욕 양키즈는 탄탄한 공수 밸런스와 안정적인 홈 경기 운용을 통해 꾸준히 우수한 전력을 보… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260926BANY1-2026-09-26-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "볼티모어 오리올스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BA.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 119경기에서 69승 46패를 기록하며 리그순위 2위에 올라 우수한 전력을 입증하고 있습니다. 최근 10경기에서도 6승 4패를 거두며 기복 없이 꾸준한 승리 지배력을 보여주고 있습니다. 안방 경기에서는 막강한 화력과 안정적인 마운드 운용을 바탕으로 압도적인 수비 득실 지표를 만들어냈습니다. 비록 Aaron Judge와 Giancarlo Stanton 등 주요 핵심 타자들의 부상 결장 악재가 존재하지만 두터운 선수층으로 전력 공백을 훌륭히 매우고 있습니다. 이번 경기 역시 강점이 명확한 홈 무대에서 공수 밸런스의 우위를 앞세워 경기를 유리하게 이끌어갈 것으로 보입니다."
+awayAnalysis: "볼티모어 오리올스는 2026시즌 118경기에서 57승 58패를 거두며 리그순위 8위에 위치해 다소 아쉬운 행보를 보이고 있습니다. 최근 10경기에서는 5승 5패를 기록하며 팽팽한 흐름을 유지하고 있으나 경기력의 기복이 크게 남아있습니다. 특히 원정 경기에서는 수비 불안과 득점 지원 부족이 맞물리며 마운드의 부담이 가중되는 양상이 자주 나타납니다. 여기에 Ryan Mountcastle과 Tyler O'Neill 등 주요 선수들의 부상으로 타선의 무게감이 저하된 점도 부담 요소입니다. 이번 경기에서는 선발 투수의 호투와 수비 집중력이 뒷받침되어야 까다로운 상대와의 경기를 어렵지 않게 풀어갈 수 있을 것으로 보입니다."
+homePower: "볼티모어 오리올스 상대 최근 10경기 8승으로 상성 우위 확고함|득실차 플러스 지표가 증명하는 시즌 전반의 강력한 공수 밸런스임|주요 타자 결장 악재에도 홈 경기에서 마운드 안정감 발휘함|경기 중후반 집단 타선의 집중력으로 승기를 가져오는 패턴 보임|리그순위 2위에 걸맞은 안정적인 경기 운영과 위기 관리 능력 검증됨"
+awayPower: "볼티모어 오리올스 최근 10경기 5승 5패로 평범한 흐름 보임|득실차 마이너스 지표에서 드러나는 마운드 및 수비 불안 지속됨|주요 전력 이탈로 인한 타선의 무게감 약화가 변수로 작용함|뉴욕 양키즈 맞대결 시 마운드 조기 실점 허용 패턴 잦았음|리그순위 8위로 상위권 팀 상대 경기력 기복 극복이 과제로 남음"
+h2h: '[{"date":"26.08.21","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"1-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260821NYBA0-2026-08-21-baltimore-orioles/"},{"date":"26.08.20","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"3-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820NYBA0-2026-08-20-baltimore-orioles/"},{"date":"26.08.19","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"1-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819NYBA0-2026-08-19-baltimore-orioles/"},{"date":"26.05.14","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"7-0","link":"https://pick79.com/posts/detail/analyze-178638-2026-05-13-baltimore-orioles/"},{"date":"26.05.13","home":"볼티모어 오리올스","away":"뉴욕 양키즈","score":"2-6","link":"https://pick79.com/posts/detail/analyze-178638-2026-05-13-baltimore-orioles/"}]'
+summary: "2026시즌 리그순위 2위에 위치한 뉴욕 양키즈는 탄탄한 공수 밸런스와 안정적인 홈 경기 운용을 통해 꾸준히 우수한 전력을 보여주고 있습니다. 반면 볼티모어 오리올스는 최근 흐름에서 기복을 드러내고 있으며 수비 실점 관리와 원정 경기력 면에서 아쉬운 모습을 보이고 있습니다. 특히 두 팀의 최근 상대전적에서 뉴욕 양키즈가 8승 2패로 확실한 상성 우위를 점하고 있는 만큼 이번 경기에서도 홈팀이 경기 주도권을 잡고 유리하게 경기를 풀어나갈 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.24","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TBNY0-2026-09-24-new-york-yankees/"},{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923TBNY2-2026-09-23-new-york-yankees/"},{"date":"26.09.21","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921NYAZ0-2026-09-21-arizona-diamondbacks/"},{"date":"26.09.19","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919NYAZ0-2026-09-19-arizona-diamondbacks/"},{"date":"26.09.17","home":"미네소타 트윈스","away":"뉴욕 양키즈","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917NYMN0-2026-09-17-minnesota-twins/"}]'
+awayRecent: '[{"date":"26.09.24","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TOBA2-2026-09-24-baltimore-orioles/"},{"date":"26.09.22","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922TOBA0-2026-09-22-baltimore-orioles/"},{"date":"26.09.21","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MIBA0-2026-09-21-baltimore-orioles/"},{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MIBA0-2026-09-20-baltimore-orioles/"},{"date":"26.09.19","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MIBA0-2026-09-19-baltimore-orioles/"}]'
+injuryHome: "Fernando Cruz (15일 IL - 염좌)|Trent Grisham (10일 IL - 긴장)|Aaron Judge (10일 IL - 긴장)|Giancarlo Stanton (60일 IL - 긴장)|Ryan Weathers (15일 IL - 긴장)"
+injuryAway: "Blaze Alexander (10일 IL - 통증)|Ryan Mountcastle (60일 IL - 긴장)|Luis Robert Jr. (10일 IL - 통증)|Kyle Bradish (60일 IL - 통증)|Tyler O'Neill (60일 IL - 긴장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

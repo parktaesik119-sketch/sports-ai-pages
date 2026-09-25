@@ -1,0 +1,37 @@
+---
+title: "마이애미 말린스 vs 애틀랜타 브레이브스 야구분석·승부예측 (9월 26일) - 픽천국"
+date: 2026-09-25T23:10:00.000Z
+description: "마이애미 말린스 vs 애틀랜타 브레이브스 야구분석: 리그순위 3위에 올라 있는 애틀랜타 브레이브스는 공수 전반에 걸친 뛰어난 득실점 차이와 전력의 안정감을 바탕으로 우세한 흐름을… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260926ATFL0-2026-09-26-miami-marlins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "마이애미 말린스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/FL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "마이애미 말린스는 2026시즌 124경기에서 59승 63패를 기록하며 현재 리그순위 9위에 자리하고 있습니다. 최근 10경기에서는 6승 4패를 기록하며 반등의 조짐을 만들어가고 있는 흐름입니다. 안방 경기 운영에서 집중력을 살려 다저스와 아리조나를 상대로 연승을 챙기는 등 타선의 응집력이 돋보였습니다. 다만 마운드에서는 앤서니 벤더와 맥스 마이어 등 주요 투수진의 부상 공백으로 인해 경기 후반 불펜 운용에 다소 불안 요소가 남아 있습니다. 득실점 차이가 플러스 3.0 수준으로 팽팽한 경기가 많았던 만큼 전력의 안정감을 유지하는 것이 이번 경기의 핵심 과제로 평가됩니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 120경기에서 66승 52패의 우수한 전력을 바탕으로 현재 리그순위 3위에 랭크되어 있습니다. 최근 10경기에서 6승 4패를 거두며 신시내티와 휴스턴을 상대로 승리를 거두는 등 안정적인 경기력을 이어가고 있습니다. 마틴 페레스와 레이날도 로페스 등 선발 자원의 부상 이탈이 존재하지만 득실점 차이 플러스 117.0이 증명하듯 탄탄한 공수 밸런스를 보유하고 있습니다. 특히 타선이 경기 초반부터 강하게 주도권을 가져오며 원정 경기에서도 꾸준한 득점 생산력을 발휘하는 점이 강점입니다. 상대전적에서도 마이애미 말린스를 상대로 압도적인 우위를 점하고 있어 경기 운영에서 큰 자신감을 보일 것으로 기대됩니다."
+homePower: "마이애미 말린스 최근 10경기 6승으로 타선 응집력 반등 조짐 보임|마이애미 말린스 주요 투수 부상 공백으로 경기 후반 마운드 불안함|마이애미 말린스 홈 경기 운영 시 득점 응집력 및 집착력 돋보임|마이애미 말린스 애틀랜타 브레이브스 상대 맞대결 열세 극복 필요함|마이애미 말린스 득실점 차이 양수로 접전 상황 승부처 집중력 유지함"
+awayPower: "애틀랜타 브레이브스 리그순위 3위 다운 압도적 공수 밸런스 보유함|애틀랜타 브레이브스 상대전적 최근 10경기 8승 2패로 확실한 우위임|애틀랜타 브레이브스 득실차 플러스 117로 막강한 경기력 증명됨|애틀랜타 브레이브스 투수진 부상 악재 속에서도 후반 안정감 뛰어남|애틀랜타 브레이브스 원정 경기에서도 강력한 타선 득점력 유지함"
+h2h: '[{"date":"26.08.07","home":"애틀랜타 브레이브스","away":"마이애미 말린스","score":"11-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807FLAT0-2026-08-07-atlanta-braves/"},{"date":"26.08.06","home":"애틀랜타 브레이브스","away":"마이애미 말린스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-179738-2026-08-06-atlanta-braves/"},{"date":"26.08.05","home":"애틀랜타 브레이브스","away":"마이애미 말린스","score":"4-2","link":"https://pick79.com/posts/detail/analyze-179722-2026-08-05-atlanta-braves/"},{"date":"26.05.22","home":"마이애미 말린스","away":"애틀랜타 브레이브스","score":"3-9","link":"https://pick79.com/posts/detail/analyze-178759-2026-05-22-miami-marlins/"},{"date":"26.05.21","home":"마이애미 말린스","away":"애틀랜타 브레이브스","score":"1-9","link":"https://pick79.com/posts/detail/analyze-178749-2026-05-21-miami-marlins/"}]'
+summary: "리그순위 3위에 올라 있는 애틀랜타 브레이브스는 공수 전반에 걸친 뛰어난 득실점 차이와 전력의 안정감을 바탕으로 우세한 흐름을 이어가고 있습니다. 마이애미 말린스 역시 최근 10경기에서 6승을 거두며 반등하는 모습을 보였으나 마운드의 부상 공백과 맞대결에서의 상대 전적 열세가 부담으로 작용할 것으로 보입니다. 전반적인 득점 생산력과 상대전적 상성에서 확연한 우위를 확보하고 있는 애틀랜타 브레이브스가 경기를 주도하며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.25","home":"시카고 컵스","away":"마이애미 말린스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925FLCC0-2026-09-25-chicago-cubs/"},{"date":"26.09.24","home":"시카고 컵스","away":"마이애미 말린스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924FLCC0-2026-09-24-chicago-cubs/"},{"date":"26.09.23","home":"시카고 컵스","away":"마이애미 말린스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923FLCC0-2026-09-23-chicago-cubs/"},{"date":"26.09.21","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921FLSD0-2026-09-21-san-diego-padres/"},{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.09.24","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CIAT0-2026-09-24-atlanta-braves/"},{"date":"26.09.23","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CIAT0-2026-09-23-atlanta-braves/"},{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921ATHO0-2026-09-21-houston-astros/"},{"date":"26.09.20","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920ATHO0-2026-09-20-houston-astros/"},{"date":"26.09.17","home":"시카고 컵스","away":"애틀랜타 브레이브스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917ATCC0-2026-09-17-chicago-cubs/"}]'
+injuryHome: "Owen Caissie (10일 부상자 명단 - 골절)|Xavier Edwards (일일 판단 대상)|Anthony Bender (15일 부상자 명단 - 골절)|Max Meyer (15일 부상자 명단 - 근육 부상)|Ronny Henriquez (60일 부상자 명단 - 수술)"
+injuryAway: "Joe Jimenez (60일 부상자 명단 - 수술)|Reynaldo Lopez (15일 부상자 명단 - 염증)|Bryce Elder (15일 부상자 명단 - 수술)|Lane Thomas (10일 부상자 명단 - 근육 부상)|Martin Perez (15일 부상자 명단 - 염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 브레이브스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 브레이브스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

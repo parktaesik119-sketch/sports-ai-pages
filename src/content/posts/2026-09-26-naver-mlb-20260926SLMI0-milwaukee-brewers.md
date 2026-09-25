@@ -1,0 +1,37 @@
+---
+title: "밀워키 브루어스 vs 세인트루이스 카디널스 야구분석·승부예측 (9월 26일) - 픽천국"
+date: 2026-09-25T23:40:00.000Z
+description: "밀워키 브루어스 vs 세인트루이스 카디널스 야구분석: 이번 경기는 리그 최상위권 전력을 구축한 밀워키 브루어스와 최근 흐름이 다소 정체된 세인트루이스 카디널스의 맞대결입니다. 밀워… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260926SLMI0-2026-09-26-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "세인트루이스 카디널스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SL.png"
+homeAnalysis: "밀워키 브루어스는 2026시즌 리그순위 1위를 달리며 100승 59패의 압도적인 성적을 기록하고 있습니다. 최근 10경기에서도 7승 3패를 거두며 매우 뛰어난 상승 흐름을 유지하는 모습입니다. 탄탄한 마운드 운용과 함께 평균 5득점 수준의 안정적인 공수 밸런스를 보여주고 있습니다. 브랜든 우드러프 등 투수진의 부상 공백이 존재하지만 깊이 있는 불펜 전력으로 이를 잘 메워내고 있습니다. 막강한 득실 차를 바탕으로 홈과 원정을 가리지 않고 우수한 전력을 선보이고 있습니다."
+awayAnalysis: "세인트루이스 카디널스는 2026시즌 리그순위 10위인 77승 82패를 기록하며 아쉬운 행보를 이어가고 있습니다. 최근 10경기에서도 4승 6패로 타선의 기복이 이어지며 반등의 계기를 마련하지 못하는 흐름입니다. 마운드의 불안감과 더불어 평균 3득점대에 머무는 둔화된 공격력이 아쉬움으로 남습니다. 에버슨 페레이라와 조슈아 바에즈 등 타선의 부상 악재까지 겹쳐 전력 구축에 어려움을 겪고 있습니다. 득실 마진의 열세가 지속되는 만큼 경기 후반 안정감 회복이 시급한 과제입니다."
+homePower: "밀워키 브루어스의 리그 1위다운 압도적 득실 마진과 안정감|맞대결 8승 2패 우위로 세인트루이스 카디널스전 강세 유지함|최근 10경기 7승 3패로 마운드의 짠물 투구 돋보임|투수진 부상 공백에도 불구하고 촘촘한 불펜 운용 보여줌|공수 밸런스 우위를 바탕으로 한 승리 공식 구축됨"
+awayPower: "세인트루이스 카디널스 최근 10경기 4승 6패 침체 지속됨|밀워키 브루어스 상대 맞대결 열세 극복이 최우선 과제로 보임|타선 주요 자원 부상 결장으로 공격 전개 효율성 떨어짐|마운드 기복과 음수 득실 마진으로 경기 후반 접전 불안함|원정 경기에서 투타 밸런스 불균형이 강하게 드러남"
+h2h: '[{"date":"26.07.10","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"4-8","link":"https://pick79.com/posts/detail/analyze-179408-2026-07-10-st-louis-cardinals/"},{"date":"26.07.09","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"5-1","link":"https://pick79.com/posts/detail/analyze-179394-2026-07-09-st-louis-cardinals/"},{"date":"26.07.08","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"2-10","link":"https://pick79.com/posts/detail/analyze-179379-2026-07-08-st-louis-cardinals/"},{"date":"26.07.08","home":"세인트루이스 카디널스","away":"밀워키 브루어스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-179379-2026-07-08-st-louis-cardinals/"},{"date":"26.05.28","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-178836-2026-05-28-milwaukee-brewers/"}]'
+summary: "이번 경기는 리그 최상위권 전력을 구축한 밀워키 브루어스와 최근 흐름이 다소 정체된 세인트루이스 카디널스의 맞대결입니다. 밀워키 브루어스는 시즌 내내 굳건한 마운드와 효율적인 공격 전개로 리그 1위를 유지하고 있으며, 상대전적에서도 8승 2패로 월등한 우위를 점하고 있습니다. 반면 세인트루이스 카디널스는 공격진의 부상 공백과 타선 침체로 인해 접전 상황에서 아쉬운 결과를 남기고 있습니다. 공수 밸런스와 상대 상성 모두에서 확실하게 앞서 있는 밀워키 브루어스가 이번 경기에서도 주도권을 쥐고 경기를 우세하게 이끌 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.25","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925MIPH0-2026-09-25-philadelphia-phillies/"},{"date":"26.09.24","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MIPH0-2026-09-24-philadelphia-phillies/"},{"date":"26.09.23","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MIPH0-2026-09-23-philadelphia-phillies/"},{"date":"26.09.21","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MIBA0-2026-09-21-baltimore-orioles/"},{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MIBA0-2026-09-20-baltimore-orioles/"}]'
+awayRecent: '[{"date":"26.09.25","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SLPI0-2026-09-25-pittsburgh-pirates/"},{"date":"26.09.24","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SLPI0-2026-09-24-pittsburgh-pirates/"},{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SLPI0-2026-09-23-pittsburgh-pirates/"},{"date":"26.09.21","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals/"},{"date":"26.09.20","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MOSL0-2026-09-20-st-louis-cardinals/"}]'
+injuryHome: "Bryse Wilson (15일 부상자 명단 - 염좌)|Grant Anderson (15일 부상자 명단 - 염증)|Brandon Woodruff (60일 부상자 명단 - 염증)|Quinn Priester (60일 부상자 명단 - 수술)|Angel Zerpa (60일 부상자 명단 - 수술)"
+injuryAway: "Everson Pereira (10일 부상자 명단 - 타박상)|Blaze Jordan (10일 부상자 명단 - 염좌)|Joshua Baez (10일 부상자 명단 - 염좌)|Hunter Dobbins (15일 부상자 명단 - 수술)|Max Rajcic (60일 부상자 명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

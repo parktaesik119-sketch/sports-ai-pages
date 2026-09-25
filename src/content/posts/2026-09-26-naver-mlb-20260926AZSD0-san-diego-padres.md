@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 애리조나 다이아몬드백스 야구분석·승부예측 (9월 26일) - 픽천국"
+date: 2026-09-26T01:40:00.000Z
+description: "샌디에이고 파드리스 vs 애리조나 다이아몬드백스 야구분석: 리그순위 7위에 자리한 애리조나 다이아몬드백스는 원정 경기에서도 특유의 매서운 타선 화력을 바탕으로 경기를 주도하는 능력이 탁… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260926AZSD0-2026-09-26-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "애리조나 다이아몬드백스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AZ.png"
+homeAnalysis: "2026시즌 전체 DB 기준 54승 48패의 성적을 기록하며 리그순위 4위에 위치한 샌디에이고 파드리스는 최근 경기마다 안정적인 운영을 바탕으로 가파른 상승세를 타고 있습니다. 최근 10경기에서 8승을 거둘 만큼 압도적인 경기력을 발휘하고 있으며, 마운드의 견고함과 타선의 집중력이 이상적인 조화를 이루고 있습니다. 안방 경기에서도 수비 집중력을 유지하며 상대 타선을 효과적으로 봉쇄하는 모습을 지속해서 보여줍니다. 마운드 핵심 자원들의 부상 결장 공백이 존재하는 상황이지만 대체 선발진과 불펜이 실점을 최소화하며 기대 이상의 안정감을 제공하고 있습니다. 득실 마진 +38.0이 말해주듯 끈질긴 경기 운용과 접전 상황에서의 집중력이 이번 경기에서도 주요한 강점으로 작용할 것입니다."
+awayAnalysis: "2026시즌 전체 DB 기준 58승 47패의 성적을 내며 리그순위 7위에 이름을 올리고 있는 애리조나 다이아몬드백스는 꾸준히 승수를 쌓아 올리며 경쟁력을 증명하고 있습니다. 최근 경기들에서 득점 생산력을 끌어올리며 타선 화력이 다시 살아나는 조짐을 선명하게 보여주고 있습니다. 원정 경기에서도 기복 없는 타격 파괴력을 바탕으로 경기 중반 이후 빅이닝을 만들어내는 능력이 매우 매섭습니다. 다만 주요 불펜 자원들의 결장 공백으로 인해 경기 후반 리드를 지키는 과정에서 마운드 불안 요소가 잔재해 있다는 점은 아쉽습니다. 폭발적인 타선 화력을 앞세워 경기 초반부터 주도권을 잡는다면 원정의 불리함을 극복하고 우위를 점할 수 있는 전력을 갖추고 있습니다."
+homePower: "샌디에이고 파드리스는 최근 경기 마운드 안정감이 대폭 상승한 모습임|결장 악재에도 불구하고 불펜진의 철벽 봉쇄로 실점 제어력이 돋보임|안방 경기 시 경기 후반 타선 집요함과 집중력이 매우 뛰어남|득실 격차 플러스 우위를 바탕으로 효율적인 경기 운용을 보여줌|상대전적 팽팽한 흐름 속 마운드 운용 능력이 큰 강점으로 평가됨"
+awayPower: "애리조나 다이아몬드백스는 원정에서도 폭발적인 타선 득점력이 강점임|경기 중반 이후 빅이닝 창출 능력으로 상대 마운드를 흔드는 파괴력 보유|불펜 결장 공백으로 경기 후반 리드 지키기 불확실성은 변수임|최근 연승 흐름을 타고 중심 타선의 타격감이 완연히 회복된 모습임|샌디에이고 파드리스를 상대로 타격전 양상에서 충분한 경쟁력을 보임"
+h2h: '[{"date":"26.08.07","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"1-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260807SDAZ0-2026-08-07-arizona-diamondbacks/"},{"date":"26.08.06","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"10-4","link":"https://pick79.com/posts/detail/analyze-179736-2026-08-06-arizona-diamondbacks/"},{"date":"26.08.05","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"4-9","link":"https://pick79.com/posts/detail/analyze-179723-2026-08-05-arizona-diamondbacks/"},{"date":"26.08.04","home":"애리조나 다이아몬드백스","away":"샌디에이고 파드리스","score":"5-1","link":"https://pick79.com/posts/detail/analyze-179708-2026-08-04-arizona-diamondbacks/"},{"date":"26.07.10","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-179410-2026-07-10-san-diego-padres/"}]'
+summary: "리그순위 7위에 자리한 애리조나 다이아몬드백스는 원정 경기에서도 특유의 매서운 타선 화력을 바탕으로 경기를 주도하는 능력이 탁월합니다. 샌디에이고 파드리스가 최근 안방에서 견고한 경기력을 선보이고 있지만, 애리조나 다이아몬드백스의 강력한 중심 타선은 상대의 마운드를 효과적으로 공략할 것으로 보입니다. 이번 맞대결에서는 상대전적 동률의 맞대결 양상 속에서도 타선 집중력과 파괴력에서 우위를 나타낼 애리조나 다이아몬드백스가 주도권을 잡고 승리를 거둘 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.24","home":"LA 다저스","away":"샌디에이고 파드리스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SDLA0-2026-09-24-los-angeles-dodgers/"},{"date":"26.09.23","home":"LA 다저스","away":"샌디에이고 파드리스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SDLA0-2026-09-23-los-angeles-dodgers/"},{"date":"26.09.21","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921FLSD0-2026-09-21-san-diego-padres/"},{"date":"26.09.19","home":"샌디에이고 파드리스","away":"마이애미 말린스","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919FLSD0-2026-09-19-san-diego-padres/"},{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"}]'
+awayRecent: '[{"date":"26.09.25","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"8-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925AZCO0-2026-09-25-colorado-rockies/"},{"date":"26.09.23","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923AZCO0-2026-09-23-colorado-rockies/"},{"date":"26.09.21","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921NYAZ0-2026-09-21-arizona-diamondbacks/"},{"date":"26.09.19","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919NYAZ0-2026-09-19-arizona-diamondbacks/"},{"date":"26.09.17","home":"애리조나 다이아몬드백스","away":"마이애미 말린스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917FLAZ0-2026-09-17-arizona-diamondbacks/"}]'
+injuryHome: "Miguel Andujar (10일 부상자 명단 - 골절)|Jeremiah Estrada (15일 부상자 명단 - 신경 압박)|Gavin Sheets (10일 부상자 명단 - 염좌)|Joe Musgrove (60일 부상자 명단 - 염증)|Lucas Giolito (60일 부상자 명단 - 염증)"
+injuryAway: "Tyler Locklear (60일 부상자 명단 - 골절)|Ryan Thompson (60일 부상자 명단 - 변형)|A.J. Puk (60일 부상자 명단 - 염좌)|Andrew Saalfrank (60일 부상자 명단 - 수술)|Cristian Mena (60일 부상자 명단 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애리조나 다이아몬드백스"
+pickWinResult: "승"
+pickHandicapTeam: "애리조나 다이아몬드백스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

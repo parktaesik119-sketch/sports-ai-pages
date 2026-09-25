@@ -1,0 +1,37 @@
+---
+title: "캔자스시티 로열스 vs 클리블랜드 가디언스 야구분석·승부예측 (9월 26일) - 픽천국"
+date: 2026-09-25T23:40:00.000Z
+description: "캔자스시티 로열스 vs 클리블랜드 가디언스 야구분석: 캔자스시티 로열스는 최근 흐름에서 다소 고전하는 모습을 보였으나 상대전적에서 클리블랜드 가디언스와 팽팽한 균형을 유지해 온 만… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260926CLKC0-2026-09-26-kansas-city-royals"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "캔자스시티 로열스"
+awayTeam: "클리블랜드 가디언스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/KC.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+homeAnalysis: "2026시즌 115경기에서 54승 57패를 거두고 있는 캔자스시티 로열스는 최근 10경기에서 1승 9패를 기록하며 극심한 전력 침체기를 맞이하고 있습니다. 현재 리그순위 13위에 머물러 있는 가운데 마운드의 불안정과 타선의 집중력 부재가 번갈아 나타나며 고전을 면치 못하는 모습입니다. 마운드에서는 핵심 투수진의 결장이 겹치면서 실점 제어가 원활하게 이루어지지 않고 있으며 경기 후반 승부처마다 리드를 지켜내는 데 어려움을 겪고 있습니다. 타선 또한 접전 상황에서 결정적인 한 방을 터뜨리지 못하며 경기를 어렵게 끌고 가는 경향이 짙습니다. 이번 홈경기에서 반등을 노리고 있으나 전반적인 공수 밸런스를 정비하고 분위기 반전을 이루기 위해서는 선발진의 긴 이닝 소화와 타선의 빠른 선제 득점이 시급한 과제로 평가됩니다."
+awayAnalysis: "2026시즌 119경기에서 58승 59패를 기록하고 있는 클리블랜드 가디언스는 최근 10경기에서 8승 2패의 높은 승률을 올리며 가파른 상승세를 타고 있습니다. 현재 리그순위 4위를 유지하고 있으며 시즌 중반의 기복을 딛고 안정적인 경기력을 선보이고 있습니다. 특히 최근 경기들에서 안정적인 마운드 운용을 바탕으로 상대 타선을 효과적으로 봉쇄하며 매우 짜임새 있는 모습을 보여주고 있습니다. 타선 역시 필요할 때마다 집중력을 발휘하여 타점을 생산하고 있으며 공수 전반에 걸쳐 조화를 이루고 있습니다. 주요 결장 선수들의 공백에도 불구하고 끈끈한 조직력을 앞세워 원정길에서도 자신감 있게 경기를 풀어갈 것으로 기대됩니다."
+homePower: "캔자스시티 로열스 마운드 불안으로 승부처 실점 억제력 저하됨|캔자스시티 로열스 주요 투수진 결장에 따른 불펜 과부하 우려|캔자스시티 로열스 접전 시 타선 집중력 저하로 득점 생산력 한계|캔자스시티 로열스 홈경기 운영에서도 경기 후반 리드 지키기 고전|캔자스시티 로열스 상대전적 동률이나 최근 기세 열세 뚜렷함"
+awayPower: "클리블랜드 가디언스 최근 상승세를 바탕으로 득실 밸런스 우수함|클리블랜드 가디언스 탄탄한 마운드 높이로 원정경기 경기력 우수|클리블랜드 가디언스 찬스 상황 집중력 발휘하며 효율적 타점 올림|클리블랜드 가디언스 전력 공백 속에서도 탄탄한 조직력 검증됨|클리블랜드 가디언스 승리 공식 정립으로 경기 초반 주도권 확보함"
+h2h: '[{"date":"26.08.31","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"11-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831KCCL0-2026-08-31-cleveland-guardians/"},{"date":"26.08.30","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"3-8","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830KCCL0-2026-08-30-cleveland-guardians/"},{"date":"26.08.29","home":"클리블랜드 가디언스","away":"캔자스시티 로열스","score":"0-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829KCCL0-2026-08-29-cleveland-guardians/"},{"date":"26.05.08","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"5-8","link":"https://pick79.com/posts/detail/analyze-178572-2026-05-08-kansas-city-royals/"},{"date":"26.05.07","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-178558-2026-05-07-kansas-city-royals/"}]'
+summary: "캔자스시티 로열스는 최근 흐름에서 다소 고전하는 모습을 보였으나 상대전적에서 클리블랜드 가디언스와 팽팽한 균형을 유지해 온 만큼 안방에서 승부를 걸어볼 여지가 충분합니다. 원정팀 클리블랜드 가디언스가 가파른 상승세를 타고 있으나 전력 결장 요소가 존재하는 만큼 캔자스시티 로열스 역시 홈 이점을 활용해 타선의 집중력을 끌어올릴 것입니다. 맞대결 상성상 긴장감 넘치는 공방전이 예상되는 가운데 경기 초반 선제 주도권을 확보할 캔자스시티 로열스가 근소하게 우세한 경기를 펼칠 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.25","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"1-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CWKC0-2026-09-25-kansas-city-royals/"},{"date":"26.09.24","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CWKC0-2026-09-24-kansas-city-royals/"},{"date":"26.09.23","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"11-14","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CWKC0-2026-09-23-kansas-city-royals/"},{"date":"26.09.21","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921KCPI0-2026-09-21-pittsburgh-pirates/"},{"date":"26.09.20","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920KCPI0-2026-09-20-pittsburgh-pirates/"}]'
+awayRecent: '[{"date":"26.09.25","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CLBO0-2026-09-25-boston-red-sox/"},{"date":"26.09.24","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CLBO0-2026-09-24-boston-red-sox/"},{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"},{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"},{"date":"26.09.20","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"12-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920OACL0-2026-09-20-cleveland-guardians/"}]'
+injuryHome: "Craig Kimbrel (개인 사정)|Connor Seabold (60일 부상자 명단 - 근육 염좌)|James McArthur (60일 부상자 명단 - 수술)|Steven Cruz (출산 휴가)|Beck Way (15일 부상자 명단)"
+injuryAway: "Rhys Hoskins (10일 부상자 명단 - 염증)|Colin Holderman (15일 부상자 명단 - 염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "캔자스시티 로열스"
+pickWinResult: "승"
+pickHandicapTeam: "캔자스시티 로열스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

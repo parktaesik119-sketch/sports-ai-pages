@@ -1,0 +1,37 @@
+---
+title: "보스턴 레드삭스 vs 시카고 컵스 야구분석·승부예측 (9월 26일) - 픽천국"
+date: 2026-09-25T17:05:00.000Z
+description: "보스턴 레드삭스 vs 시카고 컵스 야구분석: 보스턴 레드삭스는 2026시즌 리그순위 3위를 지키며 선전하고 있지만 최근 득점 생산력이 떨어지며 다소 고전하는 경향을 보입니… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260926CCBO1-2026-09-26-boston-red-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "보스턴 레드삭스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+homeAnalysis: "보스턴 레드삭스는 2026시즌 85승 74패로 리그순위 3위에 오르며 안정적인 성적을 거두고 있습니다. 시즌 평균 득점 4.2점과 득실차 +79.0을 기록하며 탄탄한 전력을 보여주었으나, 최근 10경기에서는 4승 6패로 다소 주춤한 흐름을 나타내고 있습니다. 공격진의 평균 득점력이 다소 침체되면서 경기 마무리에 아쉬움을 남기는 모습이 자주 발생하고 있습니다. 마운드와 타선에서 Tanner Houck, Masataka Yoshida 등 주요 선수들의 부상 이탈이 이어져 전력 손실이 발생했습니다. 이번 홈 경기에서 분위기를 전환하려면 초반 득점 지원과 함께 불펜의 안정적인 경기 운영이 매우 중요합니다."
+awayAnalysis: "시카고 컵스는 2026시즌 88승 71패로 리그순위 5위를 차지하며 강력한 경쟁력을 증명하고 있습니다. 시즌 평균 득점 5.2점과 득실차 +146.0이라는 우수한 수치에서 나타나듯 폭발적인 공격력이 팀의 가장 큰 강점입니다. 최근 10경기에서도 5승 5패로 양호한 흐름을 유지하며 타선의 화력을 지속적으로 발휘하고 있습니다. Phil Maton, Hunter Harvey 등 마운드에서의 장기 결장 자원이 존재하지만 활발한 득점 지원으로 이를 효과적으로 메우고 있습니다. 뛰어난 타선 집중력과 깊이감을 바탕으로 이번 원정 길에서도 우위를 가져갈 가능성이 높습니다."
+homePower: "마운드 수비력 대비 타선 득점 지원 불균형 부각됨|주요 전력 이탈로 인한 라인업 무게감 감소 변수|최근 경기 후반 집중력 저하로 인한 득점 생산 난항|리그순위 상위권 유지의 바탕이 된 홈 경기 운영 능력|경기 초반 선제 득점 여부가 승패 결정 요인으로 작용함"
+awayPower: "리그 최고 수준의 득실 격차가 증명하는 화력 우위|경기당 높은 평균 득점력을 바탕으로 한 타선 압도감|중심 타선의 결정력과 원정 경기 공격 생산성 우수|투수진 부상 변수에도 타선 폭발력으로 극복하는 흐름|상대 투수진 공략 능력이 뛰어나 경기 주도권 확보 유리"
+h2h: '[]'
+summary: "보스턴 레드삭스는 2026시즌 리그순위 3위를 지키며 선전하고 있지만 최근 득점 생산력이 떨어지며 다소 고전하는 경향을 보입니다. 이에 반해 시카고 컵스는 리그순위 5위와 함께 높은 평균 득점력 및 득실차를 기록하며 리그 정상급 화력을 과시하고 있습니다. 최근 타선의 전반적인 활력과 화력의 지속성 면에서 원정팀이 한 발 앞서 있는 만큼 시카고 컵스가 주도권을 잡고 우세를 점할 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.25","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CLBO0-2026-09-25-boston-red-sox/"},{"date":"26.09.24","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CLBO0-2026-09-24-boston-red-sox/"},{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"},{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"},{"date":"26.09.20","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920BOTB0-2026-09-20-tampa-bay-rays/"}]'
+awayRecent: '[{"date":"26.09.25","home":"시카고 컵스","away":"마이애미 말린스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925FLCC0-2026-09-25-chicago-cubs/"},{"date":"26.09.24","home":"시카고 컵스","away":"마이애미 말린스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924FLCC0-2026-09-24-chicago-cubs/"},{"date":"26.09.23","home":"시카고 컵스","away":"마이애미 말린스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923FLCC0-2026-09-23-chicago-cubs/"},{"date":"26.09.21","home":"신시내티 레즈","away":"시카고 컵스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921CCCI0-2026-09-21-cincinnati-reds/"},{"date":"26.09.20","home":"신시내티 레즈","away":"시카고 컵스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920CCCI0-2026-09-20-cincinnati-reds/"}]'
+injuryHome: "Tanner Houck (60일 부상자 명단 - 수술)|Johan Oviedo (60일 부상자 명단 - 염좌)|Anthony Seigler (10일 부상자 명단 - 염증)|Masataka Yoshida (10일 부상자 명단 - 염좌)|Zack Kelly (60일 부상자 명단 - 염증)"
+injuryAway: "Gavin Hollowell (15일 부상자 명단 - 염증)|Phil Maton (60일 부상자 명단 - 염좌)|Hunter Harvey (60일 부상자 명단 - 골절)|Tyler Austin (60일 부상자 명단 - 수술)|Alex Bregman (일일 관찰 - 골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---
