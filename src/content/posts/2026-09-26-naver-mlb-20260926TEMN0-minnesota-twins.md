@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.25","home":"텍사스 레인저스","away":"뉴욕 
 injuryHome: "Mike Paredes (근육 긴장)|Mick Abel (수술)|Kaelen Culpepper (근육 긴장)|Trevor Larnach (염좌)|Byron Buxton (수술)"
 injuryAway: "Kyle Higashioka (근육 긴장)|Carter Baumler (근육 긴장)|Jose Corniell (근육 긴장)|Joc Pederson (골절)|Jack Leiter (수술)"
 homeLineup: "[\"선발투수 B. Ober (7-6, 4.21) ERA 4.21|https://a.espncdn.com/i/headshots/mlb/players/full/3107919.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 N. Eovaldi (11-10, 4.27) ERA 4.27|https://a.espncdn.com/i/headshots/mlb/players/full/31174.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
