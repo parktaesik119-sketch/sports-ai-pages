@@ -3351,8 +3351,8 @@
         "Daan Klomp (DF)|https://images.fotmob.com/image_resources/playerimages/867281.png",
         "Amer Đidić (DF)|https://images.fotmob.com/image_resources/playerimages/784407.png",
         "Bradley Kamdem (DF)|https://images.fotmob.com/image_resources/playerimages/852072.png",
-        "Niko Myroniuk (MF)|https://images.fotmob.com/image_resources/playerimages/1710547.png",
         "Eryk Kobza (MF)|https://images.fotmob.com/image_resources/playerimages/1190543.png",
+        "Niko Myroniuk (MF)|https://images.fotmob.com/image_resources/playerimages/1710547.png",
         "Nathaniel Edwards (FW)|https://images.fotmob.com/image_resources/playerimages/1655978.png",
         "Owen Antoniuk (MF)|https://images.fotmob.com/image_resources/playerimages/1346819.png",
         "Goteh Ntignee (FW)|https://images.fotmob.com/image_resources/playerimages/1285725.png",
@@ -9465,9 +9465,9 @@
     "injuries": {
       "home": [
         {
-          "name": "Nicolò Rovella",
-          "status": "종아리 부상",
-          "detail": "Early October 2026"
+          "name": "Luca Pellegrini",
+          "status": "허벅지 부상",
+          "detail": "Doubtful"
         },
         {
           "name": "Adam Marušić",
@@ -9475,9 +9475,9 @@
           "detail": "Early October 2026"
         },
         {
-          "name": "Luca Pellegrini",
-          "status": "허벅지 부상",
-          "detail": "Doubtful"
+          "name": "Nicolò Rovella",
+          "status": "종아리 부상",
+          "detail": "Early October 2026"
         },
         {
           "name": "Patric",
@@ -9564,9 +9564,42 @@
         }
       ]
     },
-    "lineup": null,
-    "formation": null,
-    "coach": null
+    "lineup": {
+      "home": [
+        "Christos Mandas (GK)|https://images.fotmob.com/image_resources/playerimages/915156.png",
+        "Romano Floriani Mussolini (MF)|https://images.fotmob.com/image_resources/playerimages/1307957.png",
+        "Josip Šutalo (DF)|https://images.fotmob.com/image_resources/playerimages/1186228.png",
+        "Oliver Provstgaard (DF)|https://images.fotmob.com/image_resources/playerimages/1333331.png",
+        "Nuno Tavares (DF)|https://images.fotmob.com/image_resources/playerimages/957118.png",
+        "Davide Frattesi (MF)|https://images.fotmob.com/image_resources/playerimages/815431.png",
+        "Reda Belahyane (MF)|https://images.fotmob.com/image_resources/playerimages/1388071.png",
+        "Kenneth Taylor (MF)|https://images.fotmob.com/image_resources/playerimages/970565.png",
+        "Matteo Cancellieri (FW)|https://images.fotmob.com/image_resources/playerimages/1146500.png",
+        "Tijjani Noslin (FW)|https://images.fotmob.com/image_resources/playerimages/1282285.png",
+        "Mattia Zaccagni (FW)|https://images.fotmob.com/image_resources/playerimages/541555.png"
+      ],
+      "away": [
+        "Alessandro Nunziante (GK)|https://images.fotmob.com/image_resources/playerimages/1477567.png",
+        "Mauro Coppolaro (DF)|https://images.fotmob.com/image_resources/playerimages/526237.png",
+        "Matteo Gilli (DF)|https://images.fotmob.com/image_resources/playerimages/1410621.png",
+        "Julián Illanes (DF)|https://images.fotmob.com/image_resources/playerimages/571454.png",
+        "Samuele Righetti (DF)|https://images.fotmob.com/image_resources/playerimages/1127035.png",
+        "Mattia Sala (MF)|https://images.fotmob.com/image_resources/playerimages/1616142.png",
+        "Mattia Viviani (MF)|https://images.fotmob.com/image_resources/playerimages/931689.png",
+        "Artur Ioniţă (MF)|https://images.fotmob.com/image_resources/playerimages/168727.png",
+        "Emiliano Pattarello (FW)|https://images.fotmob.com/image_resources/playerimages/953637.png",
+        "Pietro Cianci (FW)|https://images.fotmob.com/image_resources/playerimages/706967.png",
+        "Marco Olivieri (FW)|https://images.fotmob.com/image_resources/playerimages/750029.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "4-3-3"
+    },
+    "coach": {
+      "home": "Gennaro Gattuso|https://images.fotmob.com/image_resources/playerimages/30721.png",
+      "away": "Cristian Bucchi|https://images.fotmob.com/image_resources/playerimages/40166.png"
+    }
   },
   {
     "home": "Gangwon FC",
@@ -11371,7 +11404,7 @@
         "Leon Avdullahu (MF)|https://images.fotmob.com/image_resources/playerimages/1478148.png",
         "Veldin Hodža (MF)|https://images.fotmob.com/image_resources/playerimages/1190351.png",
         "Dion Gallapeni (MF)|https://images.fotmob.com/image_resources/playerimages/1729818.png",
-        "Edon Zhegrova (FW)|https://images.fotmob.com/image_resources/playerimages/862616.png",
+        "Edon Zhegrova (MF)|https://images.fotmob.com/image_resources/playerimages/862616.png",
         "Fisnik Asllani (FW)|https://images.fotmob.com/image_resources/playerimages/1219540.png",
         "Vedat Muriqi (FW)|https://images.fotmob.com/image_resources/playerimages/517052.png"
       ]
