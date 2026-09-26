@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.25","home":"피츠버그 파이러츠","away":"세�
 injuryHome: "Jack Flaherty (염증)|Justin Verlander (좌상)|Kyle Finnegan (염증)|Burch Smith (수술)|Parker Meadows (수술)"
 injuryAway: "Esmerlyn Valdez (좌상)|Isaac Mattson (염증)|Mitch Keller (좌상)|Braxton Ashcraft (통증)|Endy Rodriguez (수술)"
 homeLineup: "[\"선발투수 J. Verlander (0-1, 12.27) ERA 12.27|https://a.espncdn.com/i/headshots/mlb/players/full/6341.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 K. Yates (2-5, 3.32) ERA 3.32|https://a.espncdn.com/i/headshots/mlb/players/full/32623.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
