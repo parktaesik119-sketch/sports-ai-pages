@@ -984,6 +984,12 @@ const TEAM_NAME_MAP = {
   "Liechtenstein": "리히텐슈타인",
   "Moldova": "몰도바",
   "Cyprus": "키프로스",
+  "San Marino": "산마리노",
+  "Belarus": "벨라루스",
+  "Faroe Islands": "페로 제도",
+  "Kazakhstan": "카자흐스탄",
+  "Gibraltar": "지브롤터",
+
 
   // ===== 🏀 농구 추가팀 =====
   // B리그 (일본)
