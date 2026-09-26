@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.25","home":"텍사스 레인저스","away":"뉴욕 
 injuryHome: "Orlando Ribalta (염증)|PJ Poulin (긴장)|Connelly Early (염증)|Matt Waldron (염증)|Drew Millas (수술)"
 injuryAway: "Christian Scott (염증)|Jared Young (뇌진탕)|Daniel Duarte (긴장)|Robert Stock (부상)|Jorge Polanco (수술)"
 homeLineup: "[\"선발투수 C. Early (7-5, 3.44) ERA 3.44|https://a.espncdn.com/i/headshots/mlb/players/full/4863321.png\"]"
-awayLineup: "[\"선발투수 J. Tong (2-2, 4.21) ERA 4.21|https://a.espncdn.com/i/headshots/mlb/players/full/5214984.png\"]"
+awayLineup: "[\"선발투수 J. Tong (2-2, 4.21) ERA 4.21|https://a.espncdn.com/i/headshots/mlb/players/full/5214984.png\",\"1번 F. Lindor (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/32129.png\",\"2번 J. Soto (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/36969.png\",\"3번 B. Bichette (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/38904.png\",\"4번 C. Benge (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4925604.png\",\"5번 M. Vientos (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/41034.png\",\"6번 B. Baty (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/42414.png\",\"7번 F. Alvarez (C)|https://a.espncdn.com/i/headshots/mlb/players/full/41253.png\",\"8번 A.J. Ewing (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5208019.png\",\"9번 R. Mauricio (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/40978.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
