@@ -250,7 +250,7 @@ if (isExtraFiltered) {
 });
   const mls = ['MAJOR LEAGUE SOCCER', 'MLS'].some(el => el === upperLg); // NEXT PRO는 이름이 다르므로 자동 차단됨
   // 국대 경기 및 컵대회 (키워드 특성상 includes 유지하되 NEXT PRO 등은 위에서 차단됨)
-  const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'AFC CHAMPIONS LEAGUE ELITE EAST','AFC CHAMPIONS LEAGUE ELITE WEST','OLYMPIC', 'UEFA','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE'].some(el => upperLg.includes(el));
+  const isMainInternational = ['FRIENDLY INTERNATIONAL', 'WORLD CUP', 'EURO', 'COPA AMERICA', 'AFC ASIAN CUP', 'AFC CHAMPIONS LEAGUE ELITE EAST','AFC CHAMPIONS LEAGUE ELITE WEST','OLYMPIC', 'UEFA','CONCACAF','CONCACAF CHAMPIONS LEAGUE', 'OFC PRO LEAGUE'].some(el => upperLg.includes(el));
     // 1부 리그 명칭들 (완전 일치로 변경하여 잡리그 방어)
   // ⚠️ 'FA CUP'은 여기서 제외했습니다 — FA Cup은 국가 상관없이 전부 통과되면 안 되고,
   // 위 countryLeagueWhitelist에 등록된 국가의 경기만 통과시켜야 해서 별도 처리합니다.
