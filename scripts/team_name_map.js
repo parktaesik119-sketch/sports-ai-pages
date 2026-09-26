@@ -989,6 +989,18 @@ const TEAM_NAME_MAP = {
   "Faroe Islands": "페로 제도",
   "Kazakhstan": "카자흐스탄",
   "Gibraltar": "지브롤터",
+  "Eritrea": "에리트레아",
+  "Guinea": "기니",
+  "Niger": "니제르",
+  "South Sudan": "남수단",
+  "Somalia": "소말리아",
+  "Togo": "토고",
+  "Madagascar": "마다가스카르",
+  "Guadeloupe": "과들루프",
+  "Grenada": "그레나다",
+  "Saint Lucia": "세인트루시아",
+  "Bonaire": "보네르",
+  "Martinique": "마르티니크",
 
 
   // ===== 🏀 농구 추가팀 =====
