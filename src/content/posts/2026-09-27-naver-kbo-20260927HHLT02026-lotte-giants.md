@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.24","home":"LG 트윈스","away":"롯데 자이언�
 awayRecent: '[{"date":"26.09.25","home":"NC 다이노스","away":"한화 이글스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260925HHNC02026-2026-09-25-nc-dinos/"},{"date":"26.09.23","home":"한화 이글스","away":"롯데 자이언츠","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260923LTHH02026-2026-09-23-hanwha-eagles/"},{"date":"26.09.22","home":"한화 이글스","away":"롯데 자이언츠","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922LTHH02026-2026-09-22-hanwha-eagles/"},{"date":"26.09.20","home":"LG 트윈스","away":"한화 이글스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920HHLG02026-2026-09-20-lg-twins/"},{"date":"26.09.19","home":"LG 트윈스","away":"한화 이글스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919HHLG02026-2026-09-19-lg-twins/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 황성빈 (중견수)\",\"2번 나승엽 (지명타자)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (3루수)\",\"5번 고승민 (1루수)\",\"6번 전민재 (유격수)\",\"7번 손성빈 (포수)\",\"8번 장두성 (우익수)\",\"9번 한태양 (2루수)\"]"
-awayLineup: "[\"1번 김태연 (우익수)\",\"2번 권광민 (중견수)\",\"3번 한지윤 (좌익수)\",\"4번 강백호 (1루수)\",\"5번 페라자 (지명타자)\",\"6번 장규현 (포수)\",\"7번 황영묵 (2루수)\",\"8번 박정현 (3루수)\",\"9번 심우준 (유격수)\"]"
+homeLineup: "[\"선발투수 나균안 (ERA 4.24)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67539.jpg\",\"1번 황성빈 (중견수)\",\"2번 나승엽 (지명타자)\",\"3번 레이예스 (좌익수)\",\"4번 한동희 (3루수)\",\"5번 고승민 (1루수)\",\"6번 전민재 (유격수)\",\"7번 손성빈 (포수)\",\"8번 장두성 (우익수)\",\"9번 한태양 (2루수)\"]"
+awayLineup: "[\"선발투수 이상규 (ERA 5.08)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65117.jpg\",\"1번 김태연 (우익수)\",\"2번 권광민 (중견수)\",\"3번 한지윤 (좌익수)\",\"4번 강백호 (1루수)\",\"5번 페라자 (지명타자)\",\"6번 장규현 (포수)\",\"7번 황영묵 (2루수)\",\"8번 박정현 (3루수)\",\"9번 심우준 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

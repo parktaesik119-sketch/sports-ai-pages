@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.23","home":"두산 베어스","away":"KIA 타이거
 awayRecent: '[{"date":"26.09.24","home":"KT 위즈","away":"NC 다이노스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260924NCKT02026-2026-09-24-kt-wiz-suwon/"},{"date":"26.09.23","home":"KT 위즈","away":"NC 다이노스","score":"3-10","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260923NCKT02026-2026-09-23-kt-wiz-suwon/"},{"date":"26.09.22","home":"SSG 랜더스","away":"KT 위즈","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922KTSK02026-2026-09-22-ssg-landers/"},{"date":"26.09.20","home":"KT 위즈","away":"두산 베어스","score":"9-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920OBKT02026-2026-09-20-kt-wiz-suwon/"},{"date":"26.09.19","home":"KT 위즈","away":"두산 베어스","score":"15-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919OBKT02026-2026-09-19-kt-wiz-suwon/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 정수빈 (중견수)\",\"2번 안재석 (3루수)\",\"3번 김민석 (좌익수)\",\"4번 양의지 (포수)\",\"5번 세베리노 (1루수)\",\"6번 손아섭 (지명타자)\",\"7번 박찬호 (유격수)\",\"8번 오명진 (2루수)\",\"9번 조수행 (우익수)\"]"
-awayLineup: "[\"1번 최원준 (우익수)\",\"2번 김민혁 (좌익수)\",\"3번 안현민 (지명타자)\",\"4번 힐리어드 (중견수)\",\"5번 김현수 (1루수)\",\"6번 김상수 (2루수)\",\"7번 허경민 (3루수)\",\"8번 한승택 (포수)\",\"9번 장준원 (유격수)\"]"
+homeLineup: "[\"선발투수 최승용 (ERA 5.92)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/51264.jpg\",\"1번 정수빈 (중견수)\",\"2번 안재석 (3루수)\",\"3번 김민석 (좌익수)\",\"4번 양의지 (포수)\",\"5번 세베리노 (1루수)\",\"6번 손아섭 (지명타자)\",\"7번 박찬호 (유격수)\",\"8번 오명진 (2루수)\",\"9번 조수행 (우익수)\"]"
+awayLineup: "[\"선발투수 배제성 (ERA 3.11)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65516.jpg\",\"1번 최원준 (우익수)\",\"2번 김민혁 (좌익수)\",\"3번 안현민 (지명타자)\",\"4번 힐리어드 (중견수)\",\"5번 김현수 (1루수)\",\"6번 김상수 (2루수)\",\"7번 허경민 (3루수)\",\"8번 한승택 (포수)\",\"9번 장준원 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
