@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.25","home":"오릭스 버팔로스","away":"소프�
 awayRecent: '[{"date":"26.09.25","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925SFOX0-2026-09-25-orix-buffaloes/"},{"date":"26.09.23","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923OXJL0-2026-09-23-chiba-lotte-marines/"},{"date":"26.09.22","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922OXJL0-2026-09-22-chiba-lotte-marines/"},{"date":"26.09.21","home":"니혼햄 파이터즈","away":"오릭스 버팔로스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260921OXNH0-2026-09-21-nippon-ham-fighters/"},{"date":"26.09.20","home":"니혼햄 파이터즈","away":"오릭스 버팔로스","score":"6-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920OXNH0-2026-09-20-nippon-ham-fighters/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Ryosuke Ohtsu (11-5, 2.58)|https://p.npb.jp/players_photo/2026/180/h/019_01305157.jpg\"]"
+awayLineup: "[\"선발투수 Taito Takashima (7-5, 4.56)|https://p.npb.jp/players_photo/2026/180/b/096_61065159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.25","home":"히로시마 도요 카프","away":"요
 awayRecent: '[{"date":"26.09.25","home":"야쿠르트 스왈로우스","away":"주니치 드래곤스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925JNYA0-2026-09-25-yakult-swallows/"},{"date":"26.09.23","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923HSYA0-2026-09-23-yakult-swallows/"},{"date":"26.09.22","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"7-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922HSYA0-2026-09-22-yakult-swallows/"},{"date":"26.09.20","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920YAYO0-2026-09-20-yomiuri-giants/"},{"date":"26.09.19","home":"요코하마 DeNA 베이스타스","away":"야쿠르트 스왈로우스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919YAYK0-2026-09-19-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shinnosuke Ogasawara (4-4, 2.49)|https://p.npb.jp/players_photo/2026/180/g/098_71575132.jpg\"]"
+awayLineup: "[\"선발투수 Keiji Takahashi (5-6, 3.94)|https://p.npb.jp/players_photo/2026/180/s/047_51055132.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
