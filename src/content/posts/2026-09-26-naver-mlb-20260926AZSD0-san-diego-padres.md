@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.25","home":"콜로라도 로키스","away":"애리�
 injuryHome: "Miguel Andujar (10일 부상자 명단 - 골절)|Jeremiah Estrada (15일 부상자 명단 - 신경 압박)|Gavin Sheets (10일 부상자 명단 - 염좌)|Joe Musgrove (60일 부상자 명단 - 염증)|Lucas Giolito (60일 부상자 명단 - 염증)"
 injuryAway: "Tyler Locklear (60일 부상자 명단 - 골절)|Ryan Thompson (60일 부상자 명단 - 변형)|A.J. Puk (60일 부상자 명단 - 염좌)|Andrew Saalfrank (60일 부상자 명단 - 수술)|Cristian Mena (60일 부상자 명단 - 수술)"
 homeLineup: "[\"선발투수 W. Buehler (9-6, 4.56) ERA 4.56|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
-awayLineup: "[\"선발투수 C. Burnes (0-0, 7.84) ERA 7.84|https://a.espncdn.com/i/headshots/mlb/players/full/39878.png\"]"
+awayLineup: "[\"선발투수 T. Clarke (2-4, 2.86) ERA 2.86|https://a.espncdn.com/i/headshots/mlb/players/full/35277.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
