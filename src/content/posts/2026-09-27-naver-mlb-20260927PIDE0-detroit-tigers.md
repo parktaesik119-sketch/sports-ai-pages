@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.24","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.25","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SLPI0-2026-09-25-pittsburgh-pirates/"},{"date":"26.09.24","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SLPI0-2026-09-24-pittsburgh-pirates/"},{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SLPI0-2026-09-23-pittsburgh-pirates/"},{"date":"26.09.21","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921KCPI0-2026-09-21-pittsburgh-pirates/"},{"date":"26.09.20","home":"피츠버그 파이러츠","away":"캔자스시티 로열스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920KCPI0-2026-09-20-pittsburgh-pirates/"}]'
 injuryHome: "Jack Flaherty (염증)|Justin Verlander (좌상)|Kyle Finnegan (염증)|Burch Smith (수술)|Parker Meadows (수술)"
 injuryAway: "Esmerlyn Valdez (좌상)|Isaac Mattson (염증)|Mitch Keller (좌상)|Braxton Ashcraft (통증)|Endy Rodriguez (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 J. Verlander (0-1, 12.27) ERA 12.27|https://a.espncdn.com/i/headshots/mlb/players/full/6341.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

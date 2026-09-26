@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.26","home":"필라델피아 필리스","away":"탬�
 injuryHome: "Jonathan Bowlan (경미)|Luis Arraez (주요)|Jesus Luzardo (주요)|Caleb Kilian (주요)|Felix Reyes (주요)"
 injuryAway: "Garrett Cleavinger (주요)|Gavin Lux (주요)|Edwin Uceta (주요)|Jonathan Heasley (주요)|Chandler Simpson (경미)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 G. Jax (8-10, 3.62) ERA 3.62|https://a.espncdn.com/i/headshots/mlb/players/full/42604.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

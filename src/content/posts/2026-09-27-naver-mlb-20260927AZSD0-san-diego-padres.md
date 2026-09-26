@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.25","home":"콜로라도 로키스","away":"애리�
 injuryHome: "Miguel Andujar (골절)|Gavin Sheets (염좌)|Jeremiah Estrada (신경 압박)|Joe Musgrove (염증)|Lucas Giolito (염증)"
 injuryAway: "Corbin Burnes (염증)|Tyler Locklear (골절)|Ryan Thompson (근육 염좌)|A.J. Puk (염좌)|Andrew Saalfrank (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 M. Soroka (9-5, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/34984.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.25","home":"캔자스시티 로열스","away":"시�
 awayRecent: '[{"date":"26.09.25","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CLBO0-2026-09-25-boston-red-sox/"},{"date":"26.09.24","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CLBO0-2026-09-24-boston-red-sox/"},{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"},{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"},{"date":"26.09.20","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"12-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920OACL0-2026-09-20-cleveland-guardians/"}]'
 injuryHome: "Craig Kimbrel (경미)|Connor Seabold (주요)|James McArthur (주요)|Steven Cruz (경미)|Beck Way (주요)"
 injuryAway: "Rhys Hoskins (주요)|Colin Holderman (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Wacha (9-9, 3.33) ERA 3.33|https://a.espncdn.com/i/headshots/mlb/players/full/32640.png\"]"
+awayLineup: "[\"선발투수 T. Bibee (6-15, 4.35) ERA 4.35|https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

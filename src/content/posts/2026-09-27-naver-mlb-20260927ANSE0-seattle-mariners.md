@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.25","home":"시애틀 매리너스","away":"LA 에�
 awayRecent: '[{"date":"26.09.25","home":"시애틀 매리너스","away":"LA 에인절스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925ANSE0-2026-09-25-seattle-mariners/"},{"date":"26.09.24","home":"애슬레틱스","away":"LA 에인절스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924ANOA0-2026-09-24-athletics/"},{"date":"26.09.23","home":"애슬레틱스","away":"LA 에인절스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923ANOA0-2026-09-23-athletics/"},{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"}]'
 injuryHome: "Brendan Donovan (뇌진탕)|Brennen Davis (근육 긴장)|Emerson Hancock (근육 긴장)|Cole Wilcox (근육 긴장)|Will Wilson (골절)"
 injuryAway: "Ben Joyce (염증)|George Klassen (염증)|Nolan Schanuel (근육 긴장)|Kyren Paris (골절)|Samy Natera Jr. (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Gilbert (12-11, 3.81) ERA 3.81|https://a.espncdn.com/i/headshots/mlb/players/full/41221.png\"]"
+awayLineup: "[\"선발투수 Y. Kikuchi (1-6, 4.88) ERA 4.88|https://a.espncdn.com/i/headshots/mlb/players/full/41415.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

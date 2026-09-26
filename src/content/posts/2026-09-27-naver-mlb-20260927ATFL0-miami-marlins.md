@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.26","home":"마이애미 말린스","away":"애틀�
 injuryHome: "Owen Caissie (골절)|Xavier Edwards (단기 통증)|Tyler Zuber (염좌)|Anthony Bender (골절)|Max Meyer (긴장)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (긴장)|Martin Perez (염증)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 B. Suter (3-2, 3.48) ERA 3.48|https://a.espncdn.com/i/headshots/mlb/players/full/36023.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
