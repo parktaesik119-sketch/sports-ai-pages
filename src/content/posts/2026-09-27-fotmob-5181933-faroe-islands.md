@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.06.10","home":"라트비아","away":"Faroe Islands","s
 awayRecent: '[{"date":"26.06.10","home":"헝가리","away":"Kazakhstan","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1525493-2026-06-10-hungary/"},{"date":"26.06.06","home":"아르메니아","away":"Kazakhstan","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1537649-2026-06-06-armenia/"},{"date":"26.03.31","home":"Kazakhstan","away":"Comoros","score":"1-0","result":"🟢승"},{"date":"26.03.25","home":"Kazakhstan","away":"Namibia","score":"2-0","result":"🟢승"},{"date":"25.11.19","home":"Faroe Islands","away":"Kazakhstan","score":"1-0","result":"🔴패"}]'
 injuryHome: "없음"
 injuryAway: "Islam Chesnokov[주요](부상 - 복귀예정 Late September 2026) | Dastan Satpaev[주요](허벅지 부상 - 복귀예정 Early October 2026)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Mattias Lamhauge (GK)|https://images.fotmob.com/image_resources/playerimages/1067673.png\",\"Odmar Færø (DF)|https://images.fotmob.com/image_resources/playerimages/138124.png\",\"Gunnar Vatnhamar (DF)|https://images.fotmob.com/image_resources/playerimages/551281.png\",\"Andrias Edmundsson (DF)|https://images.fotmob.com/image_resources/playerimages/846006.png\",\"Joannes Kalsø Danielsen (DF)|https://images.fotmob.com/image_resources/playerimages/857959.png\",\"Jóannes Bjartalíd (FW)|https://images.fotmob.com/image_resources/playerimages/833474.png\",\"Géza Dávid Turi (MF)|https://images.fotmob.com/image_resources/playerimages/1154746.png\",\"Martin Agnarsson (MF)|https://images.fotmob.com/image_resources/playerimages/1160095.png\",\"Áki Samuelsen (FW)|https://images.fotmob.com/image_resources/playerimages/1155663.png\",\"Petur Knudsen (FW)|https://images.fotmob.com/image_resources/playerimages/652263.png\",\"Hanus Sørensen (FW)|https://images.fotmob.com/image_resources/playerimages/1016081.png\"]"
+awayLineup: "[\"Stas Pokatilov (GK)|https://images.fotmob.com/image_resources/playerimages/489507.png\",\"Aleksandr Mrynskiy (DF)|https://images.fotmob.com/image_resources/playerimages/1780058.png\",\"Temirlan Erlanov (DF)|https://images.fotmob.com/image_resources/playerimages/762729.png\",\"Nuraly Alip (DF)|https://images.fotmob.com/image_resources/playerimages/931332.png\",\"Yan Vorogovsky (DF)|https://images.fotmob.com/image_resources/playerimages/634251.png\",\"Dinmukhamed Karaman (MF)|https://images.fotmob.com/image_resources/playerimages/1251303.png\",\"Islambek Kuat (MF)|https://images.fotmob.com/image_resources/playerimages/462023.png\",\"Bauyrzhan Islamkhan (FW)|https://images.fotmob.com/image_resources/playerimages/387960.png\",\"Zhasulan Amir (DF)|https://images.fotmob.com/image_resources/playerimages/1781547.png\",\"Artur Shushenachev (FW)|https://images.fotmob.com/image_resources/playerimages/1068585.png\",\"Galymzhan Kenzhebek (FW)|https://images.fotmob.com/image_resources/playerimages/1068586.png\"]"
+homeFormation: "3-4-3"
+awayFormation: "4-3-3"
+homeCoach: "Eyðun Klakstein|https://images.fotmob.com/image_resources/playerimages/15760.png"
+awayCoach: "John van't Schip|https://images.fotmob.com/image_resources/playerimages/291856.png"
 pickWinTeam: ""
 pickWinResult: "무승부"
 pickHandicapTeam: ""
