@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.24","home":"애슬레틱스","away":"LA 에인절�
 injuryHome: "Andres Munoz (단기 경미 부상)|Brendan Donovan (뇌진탕 7일 부상자 명단)|Brennen Davis (좌상 60일 부상자 명단)|Cole Wilcox (좌상 15일 부상자 명단)|Will Wilson (골절 60일 부상자 명단)"
 injuryAway: "Ben Joyce (염증 15일 부상자 명단)|George Klassen (염증 15일 부상자 명단)|Nolan Schanuel (좌상 10일 부상자 명단)|Kyren Paris (골절 10일 부상자 명단)|Samy Natera Jr. (염증 15일 부상자 명단)"
 homeLineup: "[\"선발투수 K. Anderson (2-2, 4.18) ERA 4.18|https://a.espncdn.com/i/headshots/mlb/players/full/5198748.png\"]"
-awayLineup: "[\"선발투수 R. Johnson (5-9, 4.93) ERA 4.93|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\"]"
+awayLineup: "[\"선발투수 R. Johnson (5-9, 4.93) ERA 4.93|https://a.espncdn.com/i/headshots/mlb/players/full/5007859.png\",\"1번 Z. Neto (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png\",\"2번 M. Trout (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/30836.png\",\"3번 J. Siri (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33954.png\",\"4번 V. Grissom (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/42503.png\",\"5번 D. Guzman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4917822.png\",\"6번 C. Moore (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4927523.png\",\"7번 W. Meckler (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4424090.png\",\"8번 B. Teodosio (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4307826.png\",\"9번 T. Heineman (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33142.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
