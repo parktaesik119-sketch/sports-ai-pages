@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.25","home":"콜로라도 로키스","away":"애리�
 injuryHome: "Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Chase Meidroth (경미)|Luis Castillo (신경 압박)"
 injuryAway: "Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)|Pierson Ohl (수술)"
 homeLineup: "[\"선발투수 D. Martin (9-7, 3.84) ERA 3.84|https://a.espncdn.com/i/headshots/mlb/players/full/42823.png\"]"
-awayLineup: "[\"선발투수 J. Quintana (2-3, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/32106.png\"]"
+awayLineup: "[\"선발투수 J. Quintana (2-3, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/32106.png\",\"1번 J. McCarthy (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/41197.png\",\"2번 C. Carrigg (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5149102.png\",\"3번 H. Goodman (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png\",\"4번 T. Rumfield (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5014349.png\",\"5번 C. Norby (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/4417606.png\",\"6번 A. Amador (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/4917787.png\",\"7번 M. Moniak (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/36181.png\",\"8번 B. Sullivan (C)|https://a.espncdn.com/i/headshots/mlb/players/full/39913.png\",\"9번 E. Tovar (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
