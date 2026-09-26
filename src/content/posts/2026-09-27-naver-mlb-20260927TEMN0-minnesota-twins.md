@@ -1,0 +1,37 @@
+---
+title: "미네소타 트윈스 vs 텍사스 레인저스 야구분석·승부예측 (9월 27일) - 픽천국"
+date: 2026-09-26T20:10:00.000Z
+description: "미네소타 트윈스 vs 텍사스 레인저스 야구분석: 미네소타 트윈스와 텍사스 레인저스는 2026시즌 전반적인 공수 지표에서 큰 차이를 보이지 않고 있으나, 상대전적에서 미네소타 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260927TEMN0-2026-09-27-minnesota-twins"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "미네소타 트윈스"
+awayTeam: "텍사스 레인저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MN.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TE.png"
+homeAnalysis: "미네소타 트윈스는 2026시즌 116경기 동안 54승 62패, 승률 .466을 기록하며 현재 리그순위 10위에 위치해 있습니다. 최근 경기 흐름을 살펴보면 투타의 조화가 간헐적으로 이루어지고 있으나 전반적인 승패 기복이 다소 크게 나타나는 모습입니다. 평균 득점력은 시즌 내내 안정적인 수준을 유지하려 노력하고 있으나 경기마다 득점 편차가 발생하여 투수진의 부담이 가중되는 경향을 보입니다. 수비 측면에서도 실점을 제어하지 못하는 날에는 대량 실점으로 이어지는 불안 요소가 존재합니다. 그럼에도 불구하고 홈에서의 운영 능력은 원정보다 상대적으로 나은 집중력을 보여주고 있어 이번 경기에서의 반등을 기대하게 합니다."
+awayAnalysis: "텍사스 레인저스는 2026시즌 108경기 동안 49승 59패, 승률 .454를 기록하며 현재 리그순위 7위를 유지하고 있습니다. 최근 10경기에서 5승 5패로 5할 승률을 기록 중이며, 득점과 실점이 교차하는 과정에서 안정적인 승리 공식을 찾는 데 어려움을 겪고 있습니다. 시즌 전체적으로 평균 득점 3.9점을 기록 중이지만, 원정 경기에서는 타선의 침묵이 길어질 때가 많아 팀 전체의 득실 관리 수치가 -40.0으로 나타나고 있습니다. 수비 조직력에서 간혹 드러나는 허점이 승패의 갈림길이 되고 있으며, 특히 상대 타선의 기세가 좋을 때 이를 차단하는 힘이 다소 부족한 것으로 보입니다. 최근 흐름상 공수 밸런스를 맞추는 것이 이번 경기 승리를 위한 최우선 과제로 평가됩니다."
+homePower: "미네소타 트윈스 상위 타선의 높은 출루율이 득점 생산으로 직결되는 패턴 보임|홈 경기에서의 투수진 안정감은 원정보다 한 수 위로 평가됨|직전 경기 승리로 반등의 계기를 마련한 집중력이 돋보임|실점 상황에서도 득점을 통해 경기 흐름을 되찾는 대응력 검증됨|주요 부상자 공백에도 불구하고 뎁스를 활용한 유연한 운영 중"
+awayPower: "텍사스 레인저스 중심 타선의 장타력이 터질 때 득점 효율이 극대화됨|불펜진의 후반 실점 억제력이 기복을 보이며 불안 요소로 작용함|리그순위 대비 득실 수치는 수비 집중력이 보완되어야 함을 시사함|상대적으로 원정에서의 타격 침체가 경기 결과에 부정적 영향을 줌|기동력을 앞세운 주루 플레이로 상대 수비진을 흔드는 모습 검증됨"
+h2h: '[{"date":"26.06.19","home":"텍사스 레인저스","away":"미네소타 트윈스","score":"3-9","link":"https://pick79.com/posts/detail/analyze-179126-2026-06-19-texas-rangers/"},{"date":"26.06.17","home":"텍사스 레인저스","away":"미네소타 트윈스","score":"2-12","link":"https://pick79.com/posts/detail/analyze-179098-2026-06-17-texas-rangers/"},{"date":"26.06.16","home":"텍사스 레인저스","away":"미네소타 트윈스","score":"2-4","link":"https://pick79.com/posts/detail/analyze-179087-2026-06-16-texas-rangers/"}]'
+summary: "미네소타 트윈스와 텍사스 레인저스는 2026시즌 전반적인 공수 지표에서 큰 차이를 보이지 않고 있으나, 상대전적에서 미네소타 트윈스가 3승 무패로 확실한 우위를 점하고 있다는 점이 매우 고무적입니다. 특히 미네소타 트윈스는 맞대결 당시 득점 지원을 원활하게 이끌어내며 상대 투수진을 압도하는 모습을 보여주었습니다. 텍사스 레인저스의 경우 최근 흐름이 다소 정체되어 있으며 원정에서의 수비 집중력 난조가 상대 타선에 기회를 제공할 가능성이 높습니다. 이번 경기는 미네소타 트윈스가 홈 이점과 앞서 검증된 상대 상성을 바탕으로 경기를 주도하며 우위를 가져갈 가능성이 높다고 판단됩니다."
+homeRecent: '[{"date":"26.09.24","home":"샌프란시스코 자이언츠","away":"미네소타 트윈스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MNSF0-2026-09-24-san-francisco-giants/"},{"date":"26.09.22","home":"샌프란시스코 자이언츠","away":"미네소타 트윈스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MNSF0-2026-09-22-san-francisco-giants/"},{"date":"26.09.21","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MNAN0-2026-09-21-los-angeles-angels/"},{"date":"26.09.19","home":"LA 에인절스","away":"미네소타 트윈스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919MNAN0-2026-09-19-los-angeles-angels/"},{"date":"26.09.18","home":"LA 에인절스","away":"미네소타 트윈스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918MNAN0-2026-09-18-los-angeles-angels/"}]'
+awayRecent: '[{"date":"26.09.25","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925NMTE0-2026-09-25-texas-rangers/"},{"date":"26.09.23","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923NMTE0-2026-09-23-texas-rangers/"},{"date":"26.09.21","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921TOTE0-2026-09-21-texas-rangers/"},{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"},{"date":"26.09.18","home":"텍사스 레인저스","away":"보스턴 레드삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918BOTE0-2026-09-18-texas-rangers/"}]'
+injuryHome: "Mike Paredes (근육 염좌)|Mick Abel (수술)|Kaelen Culpepper (근육 염좌)|Trevor Larnach (염좌)|Byron Buxton (수술)"
+injuryAway: "Kyle Higashioka (근육 염좌)|Carter Baumler (근육 염좌)|Jose Corniell (근육 염좌)|Josh Jung (상태 지켜보는 중)|Joc Pederson (골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 트윈스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

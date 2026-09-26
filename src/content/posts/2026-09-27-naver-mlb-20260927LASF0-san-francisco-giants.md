@@ -1,0 +1,37 @@
+---
+title: "샌프란시스코 자이언츠 vs LA 다저스 야구분석·승부예측 (9월 27일) - 픽천국"
+date: 2026-09-26T20:05:00.000Z
+description: "샌프란시스코 자이언츠 vs LA 다저스 야구분석: 양 팀은 2026시즌 전력과 리그순위에서 큰 격차를 보이며, 특히 LA 다저스가 공수 안정감 면에서 샌프란시스코 자이언츠를 압… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260927LASF0-2026-09-27-san-francisco-giants"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌프란시스코 자이언츠"
+awayTeam: "LA 다저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+homeAnalysis: "샌프란시스코 자이언츠는 2026시즌 65승 94패, 승률 .409를 기록하며 하위권에서 시즌을 마무리하고 있습니다. 리그순위 14위로 시즌 내내 투타 밸런스 난조와 잦은 실점이 발목을 잡으며 84.0이라는 큰 득실 마진 차이를 극복하지 못한 모습입니다. 최근 흐름 역시 10경기 4승 6패로 반등의 동력을 찾지 못하고 있으며, 특히 최근 미네소타 Twins를 상대로 보여준 투수진의 기복은 경기 운영에 어려움을 주고 있습니다. 홈경기에서도 안정적인 승률을 확보하지 못해 강팀을 상대로 고전하는 패턴이 반복됩니다. 핵심 자원들의 부상 이탈까지 겹치면서 시즌 막판 전력의 응집력이 다소 약화된 상태로 평가됩니다."
+awayAnalysis: "LA 다저스는 2026시즌 97승 62패, 승률 .610을 거두며 리그순위 2위로 압도적인 전력을 증명하고 있습니다. 득실 마진 +194.0이라는 수치가 증명하듯 투타 양면에서 최상위권의 효율을 보여주며 매 경기 안정적인 경기 운영을 펼치고 있습니다. 최근 10경기 6승 4패로 흐름을 이어가고 있으며, 타선의 폭발력과 선발진의 제구력이 조화를 이루며 상위권 순위를 견고히 지키는 중입니다. 원정 경기에서도 뚜렷한 약점이 보이지 않을 만큼 탄탄한 조직력을 자랑하며 매치업상 우위를 점하는 경기가 많습니다. 주전 선수들의 일부 공백에도 불구하고 두터운 선수층을 바탕으로 매 경기 높은 승리 기대치를 유지하고 있습니다."
+homePower: "홈에서 승률 회복이 절실한 상황이나 투수진 제구 불안 노출|최근 10경기 평균 4.4득점으로 화력은 유지되나 경기 중반 집중력 저하|리그순위 14위의 한계로 인해 타선 지원 대비 수비 실책 빈도 높음|주요 선수 이탈로 인한 라인업 구성의 유연함이 다소 제한됨|시즌 막판 득실 마진 격차를 좁히지 못하는 수비 집중력 보임"
+awayPower: "시즌 승률 .610이 증명하는 리그 최상위권의 투타 밸런스|강팀다운 경기 후반 집중력으로 역전 승부에서 우위 점함|최근 10경기 평균 4.3득점으로 상위권에 걸맞은 득점 효율 유지|원정 경기에서의 안정적인 투수 로테이션 운영 능력이 검증됨|득실 마진 +194.0의 수치는 공수 양면에서 뚜렷한 격차를 형성함"
+h2h: '[{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SFLA0-2026-09-21-los-angeles-dodgers/"},{"date":"26.09.20","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"10-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers/"},{"date":"26.09.19","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"8-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers/"},{"date":"26.05.15","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"5-2","link":"https://pick79.com/posts/detail/analyze-178660-2026-05-15-los-angeles-dodgers/"},{"date":"26.05.14","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"4-0"}]'
+summary: "양 팀은 2026시즌 전력과 리그순위에서 큰 격차를 보이며, 특히 LA 다저스가 공수 안정감 면에서 샌프란시스코 자이언츠를 압도하고 있습니다. 샌프란시스코 자이언츠는 시즌 중반부터 이어진 수비 불안과 득실 마진의 열세를 극복하지 못하고 있으며, 최근 상대전적에서도 LA 다저스에게 우위를 내준 상태입니다. 반면 LA 다저스는 탄탄한 마운드와 효율적인 득점 지원을 앞세워 원정에서도 안정적인 경기 운영을 보여줄 것으로 기대됩니다. 전력 비교와 최근 흐름상 LA 다저스가 이번 경기에서도 전반적인 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.24","home":"샌프란시스코 자이언츠","away":"미네소타 트윈스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MNSF0-2026-09-24-san-francisco-giants/"},{"date":"26.09.22","home":"샌프란시스코 자이언츠","away":"미네소타 트윈스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MNSF0-2026-09-22-san-francisco-giants/"},{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SFLA0-2026-09-21-los-angeles-dodgers/"},{"date":"26.09.19","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"8-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers/"},{"date":"26.09.17","home":"세인트루이스 카디널스","away":"샌프란시스코 자이언츠","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917SFSL0-2026-09-17-st-louis-cardinals/"}]'
+awayRecent: '[{"date":"26.09.25","home":"LA 다저스","away":"샌디에이고 파드리스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SDLA0-2026-09-25-los-angeles-dodgers/"},{"date":"26.09.24","home":"LA 다저스","away":"샌디에이고 파드리스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SDLA0-2026-09-24-los-angeles-dodgers/"},{"date":"26.09.23","home":"LA 다저스","away":"샌디에이고 파드리스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SDLA0-2026-09-23-los-angeles-dodgers/"},{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SFLA0-2026-09-21-los-angeles-dodgers/"},{"date":"26.09.19","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"8-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SFLA0-2026-09-19-los-angeles-dodgers/"}]'
+injuryHome: "Osleivis Basabe (경미)|Willy Adames (주요)|JT Brubaker (주요)|Matt Gage (주요)|Nate Furman (주요)"
+injuryAway: "Gavin Stone (주요)|Jake Cousins (주요)|Ben Casparius (주요)|Brusdar Graterol (주요)|Blake Snell (경미)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 다저스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 다저스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "요코하마 DeNA 베이스타스 vs 히로시마 도요 카프 야구분석·승부예측 (9월 27일) - 픽천국"
+date: 2026-09-27T05:00:00.000Z
+description: "요코하마 DeNA 베이스타스 vs 히로시마 도요 카프 야구분석: 요코하마 DeNA 베이스타스는 최근 10경기에서 7승을 기록하는 등 팀 전력이 매우 안정적인 궤도에 올라와 있습니다. 반면 히… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260927HIYK0-2026-09-27-yokohama-baystars"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "요코하마 DeNA 베이스타스"
+awayTeam: "히로시마 도요 카프"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/YK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/HI.png"
+homeAnalysis: "요코하마 DeNA 베이스타스는 2026시즌 114경기에서 56승 2무 56패를 기록하며 승률 5할의 균형 잡힌 성적을 유지하고 있습니다. 최근 10경기에서 7승을 거둘 만큼 상승세가 뚜렷하며 투타의 조화가 매우 안정적입니다. 홈 경기장에서의 운영 능력이 뛰어나며 득점 지원이 원활하게 이루어질 때 투수진의 부담이 크게 경감되는 패턴을 보입니다. 시즌 중반 다소 기복을 겪기도 했으나 후반기 들어 집중력을 회복하며 팀 전력이 본궤도에 올라왔습니다. 특히 경기 후반 승부처에서의 마무리 효율이 높아지면서 접전 상황에서도 승리를 챙기는 힘이 돋보입니다."
+awayAnalysis: "히로시마 도요 카프는 2026시즌 112경기에서 49승 4무 59패의 성적을 기록하며 다소 아쉬운 시즌 흐름을 이어가고 있습니다. 최근 10경기에서는 5승 5패로 전력의 등락이 반복되는 양상을 보이며 일관된 흐름을 유지하는 데 어려움을 겪고 있습니다. 원정 경기에서의 득점 생산력이 홈에 비해 다소 정체되는 경향이 있어 초반 실점이 발생할 경우 경기 운영에 제약이 따릅니다. 수비 집중력은 준수하지만 타선의 응집력이 떨어지는 구간마다 연패가 발생하는 등 기복 있는 전력을 나타내고 있습니다. 투수진이 최소 실점으로 버텨주는 경기에서는 경쟁력을 보이나 공격의 지원 부재가 아쉬운 대목으로 꼽힙니다."
+homePower: "홈 10경기 7승으로 안방 극강의 집중력 발휘|최근 타선 폭발력 유지하며 매 경기 득점 기대감 충족|마운드 안정감 상승으로 역전패 비중 감소|직전 시리즈 승리로 팀 사기 최고조 상태|투수진의 경기 운영 노련함이 원정팀 타선 제압 예상"
+awayPower: "원정 득점 기복 심화로 대량 득점의 어려움|마운드 의존도 높으나 경기 후반 실점 관리 숙제|상대 투수진 공략 실패 시 단조로운 공격 흐름 고착|최근 5패 모두 투타 밸런스 붕괴가 주요 원인|상대 홈 구장 적응력 및 타격 효율성 개선 필요"
+h2h: '[{"date":"26.09.12","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"2-7","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260912YKHI0-2026-09-12-hiroshima-carp/"},{"date":"26.09.11","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"1-6","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260911YKHI0-2026-09-11-hiroshima-carp/"},{"date":"26.08.27","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"1-6","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260827YKHI0-2026-08-27-hiroshima-carp/"},{"date":"26.08.26","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260826YKHI0-2026-08-26-hiroshima-carp/"},{"date":"26.08.25","home":"히로시마 도요 카프","away":"요코하마 DeNA 베이스타스","score":"8-7","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260825YKHI0-2026-08-25-hiroshima-carp/"}]'
+summary: "요코하마 DeNA 베이스타스는 최근 10경기에서 7승을 기록하는 등 팀 전력이 매우 안정적인 궤도에 올라와 있습니다. 반면 히로시마 도요 카프는 최근 10경기 5승 5패로 다소 정체된 모습을 보이며 원정에서의 공격 응집력 부족이 큰 과제로 남아 있습니다. 상대전적을 살펴봐도 요코하마 DeNA 베이스타스가 최근 히로시마 도요 카프를 상대로 연승을 거두는 등 압도적인 우위를 점하고 있어 이번 맞대결에서도 홈팀이 경기의 주도권을 잡고 우세한 흐름을 이어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.25","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925HSYK0-2026-09-25-yokohama-baystars/"},{"date":"26.09.23","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923JNYK0-2026-09-23-yokohama-baystars/"},{"date":"26.09.22","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922JNYK0-2026-09-22-yokohama-baystars/"},{"date":"26.09.21","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260921YKHS0-2026-09-21-hanshin-tigers/"},{"date":"26.09.20","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"8-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920YKHS0-2026-09-20-hanshin-tigers/"}]'
+awayRecent: '[{"date":"26.09.25","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925YOHI0-2026-09-25-hiroshima-carp/"},{"date":"26.09.24","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924YOHI0-2026-09-24-hiroshima-carp/"},{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"},{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"},{"date":"26.09.21","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"10-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260921HIJN0-2026-09-21-chunichi-dragons/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "요코하마 DeNA 베이스타스"
+pickWinResult: "승"
+pickHandicapTeam: "요코하마 DeNA 베이스타스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "언더"
+---

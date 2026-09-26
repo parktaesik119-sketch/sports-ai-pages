@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 콜로라도 로키스 야구분석·승부예측 (9월 27일) - 픽천국"
+date: 2026-09-26T23:10:00.000Z
+description: "시카고 화이트삭스 vs 콜로라도 로키스 야구분석: 시카고 화이트삭스는 2026시즌 안정된 투타 밸런스를 앞세워 리그순위 5위의 견고함을 보여주고 있습니다. 반면 콜로라도 로키스… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260927COCW0-2026-09-27-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 82승 77패, 승률 .516를 기록하며 리그순위 5위를 유지하고 있습니다. 시즌 내내 안정적인 투타 밸런스를 바탕으로 경쟁력을 보여주었으며, 득실차 또한 +52.0으로 긍정적인 수치를 유지 중입니다. 최근 9경기에서도 5승 4패로 준수한 페이스를 이어가며 상위권 도약을 위한 동력을 확보했습니다. 홈 경기에서의 집중력이 특히 돋보이며, 타선의 득점 지원이 원활할 때 경기를 주도하는 패턴이 명확합니다. 수비진의 안정감과 더불어 홈 팬들의 응원을 등에 업고 공수 양면에서 고른 활약을 기대할 수 있는 상태입니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 57승 102패, 승률 .358를 기록하며 리그순위 15위에 머물러 있습니다. 득실차 -188.0이 보여주듯 투수력의 불안함이 시즌 내내 발목을 잡고 있으며, 이는 원정 경기에서의 고전으로 이어지는 경우가 많았습니다. 최근 10경기 성적도 1승 9패로 극심한 부진을 겪으며 흐름 반전의 실마리를 찾지 못하고 있습니다. 득점 생산력 자체가 저조한 것은 아니지만, 실점 억제 능력이 현저히 떨어져 경기 후반부 리드를 지키지 못하는 양상이 반복됩니다. 선수들의 전반적인 집중력 저하가 우려되는 상황이라 분위기 쇄신이 시급한 과제입니다."
+homePower: "안정적인 득실마진 기반의 공수 균형 확보|상위권 도약 의지가 투영된 최근 홈 집중력|시즌 내내 유지된 투타의 고른 경기 운영 능력|홈 이점 극대화하는 투수진의 안정된 제구|득점권 상황에서 보여주는 타선의 높은 집중력"
+awayPower: "반복되는 수비 불안과 실점 억제력 부재|최근 10경기 1승으로 극심한 페이스 하락|원정에서 무너지는 경기 후반 집중력|득점 생산 대비 비효율적인 투수 운용|하위권에 머무는 근본적인 투타 불균형"
+h2h: '[]'
+summary: "시카고 화이트삭스는 2026시즌 안정된 투타 밸런스를 앞세워 리그순위 5위의 견고함을 보여주고 있습니다. 반면 콜로라도 로키스는 최근 10경기 1승 9패라는 극심한 침체기를 겪으며 수비력 부재와 전력 불안을 드러내고 있습니다. 양 팀의 시즌 전력 격차와 현재 흐름을 종합했을 때, 홈에서 공수 안정감을 유지하고 있는 시카고 화이트삭스가 경기 주도권을 잡고 우위를 점할 가능성이 매우 높습니다. 콜로라도 로키스는 투수진의 난조를 극복하지 못할 경우 홈팀의 타선을 봉쇄하기 어려워 보입니다."
+homeRecent: '[{"date":"26.09.25","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CWKC0-2026-09-25-kansas-city-royals/"},{"date":"26.09.24","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CWKC0-2026-09-24-kansas-city-royals/"},{"date":"26.09.23","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"11-14","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CWKC0-2026-09-23-kansas-city-royals/"},{"date":"26.09.21","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921DECW0-2026-09-21-chicago-white-sox/"},{"date":"26.09.20","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920DECW0-2026-09-20-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.09.25","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"8-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925AZCO0-2026-09-25-colorado-rockies/"},{"date":"26.09.23","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923AZCO0-2026-09-23-colorado-rockies/"},{"date":"26.09.21","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SECO0-2026-09-21-colorado-rockies/"},{"date":"26.09.19","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SECO0-2026-09-19-colorado-rockies/"},{"date":"26.09.18","home":"콜로라도 로키스","away":"샌디에이고 파드리스","score":"2-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260918SDCO0-2026-09-18-colorado-rockies/"}]'
+injuryHome: "Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Chase Meidroth (경미)|Luis Castillo (신경 압박)"
+injuryAway: "Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)|Pierson Ohl (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---
