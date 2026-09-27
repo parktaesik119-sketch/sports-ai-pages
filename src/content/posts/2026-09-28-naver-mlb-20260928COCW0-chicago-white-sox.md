@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"시카고 화이트삭스","away":"콜�
 awayRecent: '[{"date":"26.09.26","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926COCW0-2026-09-26-chicago-white-sox/"},{"date":"26.09.25","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"8-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925AZCO0-2026-09-25-colorado-rockies/"},{"date":"26.09.23","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923AZCO0-2026-09-23-colorado-rockies/"},{"date":"26.09.21","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SECO0-2026-09-21-colorado-rockies/"},{"date":"26.09.19","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SECO0-2026-09-19-colorado-rockies/"}]'
 injuryHome: "Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Chase Meidroth (경미)|Jake Rogers (개인사유)"
 injuryAway: "Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)|Pierson Ohl (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Kay (9-9, 4.53) ERA 4.53|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
+awayLineup: "[\"선발투수 K. Freeland (4-11, 6.58) ERA 6.58|https://a.espncdn.com/i/headshots/mlb/players/full/33839.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.27","home":"미네소타 트윈스","away":"텍사�
 awayRecent: '[{"date":"26.09.27","home":"미네소타 트윈스","away":"텍사스 레인저스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927TEMN0-2026-09-27-minnesota-twins/"},{"date":"26.09.25","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925NMTE0-2026-09-25-texas-rangers/"},{"date":"26.09.23","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923NMTE0-2026-09-23-texas-rangers/"},{"date":"26.09.21","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921TOTE0-2026-09-21-texas-rangers/"},{"date":"26.09.20","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920TOTE0-2026-09-20-texas-rangers/"}]'
 injuryHome: "Mike Paredes (근육 염좌)|Mick Abel (수술)|Jeff Hoffman (염증)|Trevor Larnach (염좌)|Byron Buxton (수술)"
 injuryAway: "Kyle Higashioka (근육 염좌)|Carter Baumler (근육 염좌)|Jose Corniell (근육 염좌)|Nicky Lopez (상태 지켜보는 중)|Joc Pederson (골절)"
-homeLineup: ''
+homeLineup: "[\"선발투수 D. Kremer (4-5, 4.97) ERA 4.97|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

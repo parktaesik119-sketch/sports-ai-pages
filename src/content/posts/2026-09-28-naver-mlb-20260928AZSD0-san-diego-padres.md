@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.26","home":"샌디에이고 파드리스","away":"�
 injuryHome: "Joe Musgrove (염증)|Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Casey Mize (염좌)"
 injuryAway: "Corbin Burnes (염증)|Tyler Locklear (골절)|Ryan Thompson (염좌)|A.J. Puk (염좌)|Andrew Saalfrank (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 M. Soroka (9-5, 3.31) ERA 3.31|https://a.espncdn.com/i/headshots/mlb/players/full/34984.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

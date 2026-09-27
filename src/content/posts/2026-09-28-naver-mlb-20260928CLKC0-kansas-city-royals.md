@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.26","home":"캔자스시티 로열스","away":"클�
 awayRecent: '[{"date":"26.09.26","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"9-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CLKC0-2026-09-26-kansas-city-royals/"},{"date":"26.09.25","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CLBO0-2026-09-25-boston-red-sox/"},{"date":"26.09.24","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CLBO0-2026-09-24-boston-red-sox/"},{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"},{"date":"26.09.21","home":"클리블랜드 가디언스","away":"애슬레틱스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921OACL0-2026-09-21-cleveland-guardians/"}]'
 injuryHome: "Craig Kimbrel (경미)|Connor Seabold (주요)|James McArthur (주요)|Steven Cruz (경미)|Nick Loftin (경미)"
 injuryAway: "Rhys Hoskins (주요)|Colin Holderman (주요)"
-homeLineup: ''
+homeLineup: "[\"선발투수 D. Lynch IV (6-6, 4.13) ERA 4.13|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

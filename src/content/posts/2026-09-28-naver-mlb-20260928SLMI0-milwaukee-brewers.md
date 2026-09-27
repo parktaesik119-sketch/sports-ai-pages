@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"밀워키 브루어스","away":"세인�
 awayRecent: '[{"date":"26.09.26","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926SLMI0-2026-09-26-milwaukee-brewers/"},{"date":"26.09.25","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SLPI0-2026-09-25-pittsburgh-pirates/"},{"date":"26.09.24","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SLPI0-2026-09-24-pittsburgh-pirates/"},{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SLPI0-2026-09-23-pittsburgh-pirates/"},{"date":"26.09.21","home":"세인트루이스 카디널스","away":"워싱턴 내셔널스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MOSL0-2026-09-21-st-louis-cardinals/"}]'
 injuryHome: "Grant Anderson (염증)|Joey Ortiz (타박상)|Brandon Woodruff (염증)|Andrew Vaughn (부상)|Quinn Priester (수술)"
 injuryAway: "Everson Pereira (타박상)|Masyn Winn (통증)|Blaze Jordan (염좌)|Joshua Baez (긴장)|Hunter Dobbins (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Misiorowski (15-5, 1.86) ERA 1.86|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
+awayLineup: "[\"선발투수 A. Pallante (12-8, 3.61) ERA 3.61|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

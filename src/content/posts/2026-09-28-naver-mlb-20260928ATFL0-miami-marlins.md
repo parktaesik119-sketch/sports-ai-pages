@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.27","home":"마이애미 말린스","away":"애틀�
 awayRecent: '[{"date":"26.09.27","home":"마이애미 말린스","away":"애틀랜타 브레이브스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927ATFL0-2026-09-27-miami-marlins/"},{"date":"26.09.26","home":"마이애미 말린스","away":"애틀랜타 브레이브스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926ATFL0-2026-09-26-miami-marlins/"},{"date":"26.09.25","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"6-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CIAT0-2026-09-25-atlanta-braves/"},{"date":"26.09.24","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CIAT0-2026-09-24-atlanta-braves/"},{"date":"26.09.23","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CIAT0-2026-09-23-atlanta-braves/"}]'
 injuryHome: "Owen Caissie (골절)|Kyle Stowers (통증)|Xavier Edwards (경미)|Tyler Zuber (염좌)|Anthony Bender (골절)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (좌상)|Martin Perez (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Junk (6-9, 4.31) ERA 4.31|https://a.espncdn.com/i/headshots/mlb/players/full/4881980.png\"]"
+awayLineup: "[\"선발투수 J. Ritchie (1-4, 4.79) ERA 4.79|https://a.espncdn.com/i/headshots/mlb/players/full/5080757.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

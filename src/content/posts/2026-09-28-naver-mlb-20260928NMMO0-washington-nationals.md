@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.27","home":"워싱턴 내셔널스","away":"뉴욕 
 awayRecent: '[{"date":"26.09.27","home":"워싱턴 내셔널스","away":"뉴욕 메츠","score":"1-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927NMMO0-2026-09-27-washington-nationals/"},{"date":"26.09.26","home":"워싱턴 내셔널스","away":"뉴욕 메츠","score":"7-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926NMMO0-2026-09-26-washington-nationals/"},{"date":"26.09.25","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925NMTE0-2026-09-25-texas-rangers/"},{"date":"26.09.23","home":"텍사스 레인저스","away":"뉴욕 메츠","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923NMTE0-2026-09-23-texas-rangers/"},{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921PHNM0-2026-09-21-new-york-mets/"}]'
 injuryHome: "Orlando Ribalta (염증)|PJ Poulin (긴장)|Matt Waldron (염증)|Drew Millas (수술)|Ken Waldichuk (수술)"
 injuryAway: "Juan Soto (단기 컨디션 난조)|Christian Scott (염증)|Jared Young (뇌진탕)|Daniel Duarte (긴장)|Robert Stock (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Herz (0-1, 9.00) ERA 9.00|https://a.espncdn.com/i/headshots/mlb/players/full/4917686.png\"]"
+awayLineup: "[\"선발투수 S. Manaea (6-7, 4.67) ERA 4.67|https://a.espncdn.com/i/headshots/mlb/players/full/33244.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

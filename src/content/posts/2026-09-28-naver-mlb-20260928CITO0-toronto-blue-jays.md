@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.27","home":"토론토 블루제이즈","away":"신�
 awayRecent: '[{"date":"26.09.27","home":"토론토 블루제이즈","away":"신시내티 레즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927CITO0-2026-09-27-toronto-blue-jays/"},{"date":"26.09.26","home":"토론토 블루제이즈","away":"신시내티 레즈","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CITO0-2026-09-26-toronto-blue-jays/"},{"date":"26.09.25","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CIAT0-2026-09-25-atlanta-braves/"},{"date":"26.09.24","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CIAT0-2026-09-24-atlanta-braves/"},{"date":"26.09.23","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CIAT0-2026-09-23-atlanta-braves/"}]'
 injuryHome: "Shane Bieber (염증)|Rudy Martin Jr. (좌상)|Jonatan Clase (족저근막염)|Luis Urias (좌상)|Cody Ponce (수술)"
 injuryAway: "Tony Santillan (수술)|Spencer Steer (수술)|Chase Burns (좌상)|Julian Garcia (수술)|Michael Toglia (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Scherzer (3-9, 6.14) ERA 6.14|https://a.espncdn.com/i/headshots/mlb/players/full/28976.png\"]"
+awayLineup: "[\"선발투수 B. Williamson (5-4, 4.89) ERA 4.89|https://a.espncdn.com/i/headshots/mlb/players/full/42431.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

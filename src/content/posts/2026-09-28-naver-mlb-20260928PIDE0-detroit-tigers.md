@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.27","home":"디트로이트 타이거즈","away":"�
 awayRecent: '[{"date":"26.09.27","home":"디트로이트 타이거즈","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927PIDE0-2026-09-27-detroit-tigers/"},{"date":"26.09.26","home":"디트로이트 타이거즈","away":"피츠버그 파이러츠","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926PIDE0-2026-09-26-detroit-tigers/"},{"date":"26.09.25","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SLPI0-2026-09-25-pittsburgh-pirates/"},{"date":"26.09.24","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SLPI0-2026-09-24-pittsburgh-pirates/"},{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SLPI0-2026-09-23-pittsburgh-pirates/"}]'
 injuryHome: "Jack Flaherty (염증)|Kyle Finnegan (염증)|Kerry Carpenter (족저근막염)|Burch Smith (수술)|Parker Meadows (수술)"
 injuryAway: "Esmerlyn Valdez (염좌)|Isaac Mattson (염증)|Oneil Cruz (일일 단위 관찰)|Mitch Keller (염좌)|Braxton Ashcraft (통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 R. Ryan (0-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/5007605.png\"]"
+awayLineup: "[\"선발투수 J. Jones (5-6, 3.87) ERA 3.87|https://a.espncdn.com/i/headshots/mlb/players/full/4918156.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

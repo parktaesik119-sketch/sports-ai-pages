@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"뉴욕 양키즈","away":"볼티모어 
 awayRecent: '[{"date":"26.09.26","home":"뉴욕 양키즈","away":"볼티모어 오리올스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926BANY2-2026-09-26-new-york-yankees/"},{"date":"26.09.24","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TOBA2-2026-09-24-baltimore-orioles/"},{"date":"26.09.22","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922TOBA0-2026-09-22-baltimore-orioles/"},{"date":"26.09.21","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921MIBA0-2026-09-21-baltimore-orioles/"},{"date":"26.09.20","home":"볼티모어 오리올스","away":"밀워키 브루어스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260920MIBA0-2026-09-20-baltimore-orioles/"}]'
 injuryHome: "Ryan Weathers (부상)|Trent Grisham (부상)|Aaron Judge (부상)|Giancarlo Stanton (부상)|Clarke Schmidt (부상)"
 injuryAway: "Ryan Mountcastle (부상)|Luis Robert Jr. (부상)|Blaze Alexander (부상)|Kyle Bradish (부상)|Tyler O'Neill (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 E. Rodriguez (0-3, 5.40) ERA 5.40|https://a.espncdn.com/i/headshots/mlb/players/full/5194637.png\"]"
+awayLineup: "[\"선발투수 S. Baz (6-15, 4.11) ERA 4.11|https://a.espncdn.com/i/headshots/mlb/players/full/39639.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

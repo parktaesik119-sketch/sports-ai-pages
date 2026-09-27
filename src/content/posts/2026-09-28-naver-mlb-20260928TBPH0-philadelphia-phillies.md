@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"필라델피아 필리스","away":"탬�
 awayRecent: '[{"date":"26.09.26","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926TBPH0-2026-09-26-philadelphia-phillies/"},{"date":"26.09.25","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925TBNY0-2026-09-25-new-york-yankees/"},{"date":"26.09.24","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TBNY0-2026-09-24-new-york-yankees/"},{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923TBNY2-2026-09-23-new-york-yankees/"},{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"}]'
 injuryHome: "Jonathan Bowlan (경미)|Luis Arraez (주요)|Jesus Luzardo (주요)|Caleb Kilian (주요)|Felix Reyes (주요)"
 injuryAway: "Chandler Simpson (경미)|Gavin Lux (주요)|Edwin Uceta (주요)|Jonathan Heasley (주요)|Shane McClanahan (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Z. Wheeler (13-5, 3.06) ERA 3.06|https://a.espncdn.com/i/headshots/mlb/players/full/31267.png\"]"
+awayLineup: "[\"선발투수 N. Martinez (15-5, 2.94) ERA 2.94|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
