@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.26","home":"보스턴 레드삭스","away":"시카�
 injuryHome: "Tanner Houck (수술)|Johan Oviedo (염좌)|Anthony Seigler (염증)|Masataka Yoshida (염좌)|Zack Kelly (염증)"
 injuryAway: "Trent Thornton (통증)|Phil Maton (염좌)|Hunter Harvey (골절)|Tyler Austin (수술)|Edward Cabrera (상중)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Imanaga (11-10, 3.74) ERA 3.74|https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
