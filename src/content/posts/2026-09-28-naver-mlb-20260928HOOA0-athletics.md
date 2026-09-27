@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"애슬레틱스","away":"휴스턴 애�
 awayRecent: '[{"date":"26.09.26","home":"애슬레틱스","away":"휴스턴 애스트로스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926HOOA0-2026-09-26-athletics/"},{"date":"26.09.25","home":"애슬레틱스","away":"휴스턴 애스트로스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925HOOA0-2026-09-25-athletics/"},{"date":"26.09.24","home":"시애틀 매리너스","away":"휴스턴 애스트로스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924HOSE0-2026-09-24-seattle-mariners/"},{"date":"26.09.23","home":"시애틀 매리너스","away":"휴스턴 애스트로스","score":"0-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923HOSE0-2026-09-23-seattle-mariners/"},{"date":"26.09.21","home":"휴스턴 애스트로스","away":"애틀랜타 브레이브스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921ATHO0-2026-09-21-houston-astros/"}]'
 injuryHome: "J.T. Ginn (통증)|Max Muncy (통증)|Brent Rooker (수술)|Nick Kurtz (긴장)"
 injuryAway: "Mike Burrows (염증)|Steven Okert (긴장)|Daulton Varsho (염증)|Brice Matthews (염증)|Enyel De Los Santos (건염)"
-homeLineup: "[\"선발투수 B. Basso (1-3, 5.36) ERA 5.36|https://a.espncdn.com/i/headshots/mlb/players/full/4179551.png\"]"
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Johnson (1-0, 6.19) ERA 6.19|https://a.espncdn.com/i/headshots/mlb/players/full/42542.png\"]"
+awayLineup: "[\"선발투수 P. Lambert (8-10, 3.87) ERA 3.87|https://a.espncdn.com/i/headshots/mlb/players/full/39898.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
