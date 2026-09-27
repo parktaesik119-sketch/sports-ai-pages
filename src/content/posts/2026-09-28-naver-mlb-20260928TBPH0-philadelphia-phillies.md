@@ -1,0 +1,37 @@
+---
+title: "필라델피아 필리스 vs 탬파베이 레이스 야구분석·승부예측 (9월 28일) - 픽천국"
+date: 2026-09-27T19:05:00.000Z
+description: "필라델피아 필리스 vs 탬파베이 레이스 야구분석: 2026시즌 리그순위 1위를 달리고 있는 탬파베이 레이스가 홈에서 고전 중인 필라델피아 필리스를 상대로 우위를 점할 것으로 보… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260928TBPH0-2026-09-28-philadelphia-phillies"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "필라델피아 필리스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "필라델피아 필리스는 2026시즌 123경기에서 67승 2무 54패를 기록하며 5할 이상의 승률을 유지하고 있으나, 최근 10경기에서 4승 6패로 다소 고전하는 흐름을 보이고 있습니다. 리그순위 6위로 안정적인 시즌을 보내고 있지만, 최근 맞대결을 포함해 3연패를 기록하며 투타 밸런스가 흔들리는 모습이 나타나고 있습니다. 홈 경기에서의 집중력 회복이 절실한 시점이며, 타선의 득점 지원이 원활하지 않아 마운드의 부담이 가중되고 있습니다. 특히 직전 탬파베이 레이스와의 경기에서 무득점으로 침묵했던 점은 해결해야 할 과제로 평가됩니다. 전반적으로 팀 전력이 상위권 수준임을 고려할 때, 수비 집중력을 재정비하여 경기 운영의 안정감을 되찾는 것이 무엇보다 중요해 보입니다."
+awayAnalysis: "탬파베이 레이스는 2026시즌 123경기에서 73승 4무 46패를 거두며 리그순위 1위를 질주하고 있으며, 최근 10경기에서도 7승 3패를 기록하는 등 매우 탄탄한 전력을 유지하고 있습니다. 시즌 내내 안정적인 마운드 운영과 효율적인 득점력을 바탕으로 승수를 쌓아왔으며, 원정에서도 흔들림 없는 경기력을 보여주고 있습니다. 특히 직전 경기에서 필라델피아 필리스를 상대로 승리를 거두며 상승세의 분위기를 이어가고 있는 점이 매우 고무적입니다. 투수진이 실점을 최소화하는 가운데, 득점 찬스에서 확실한 집중력을 발휘하는 강점은 이번 경기에서도 크게 작용할 것으로 보입니다. 공수 양면에서 짜임새 있는 경기 운영을 보여주고 있어, 원정임에도 불구하고 주도권을 잡을 가능성이 충분히 높습니다."
+homePower: "리그순위 6위로 시즌 전체 성적은 준수함|최근 3연패로 하락세 직면, 투타 불균형 심화|득점력 난조로 인해 마운드 운영 부담 가중|상위권 팀다운 기본기는 갖췄으나 집중력 저하|직전 맞대결 무득점 패배로 타선 재정비 시급"
+awayPower: "리그순위 1위, 시즌 내내 압도적인 전력 유지|최근 10경기 7승으로 뛰어난 경기 흐름 보임|실점 억제 능력이 탁월해 안정적인 승리 가능|찬스마다 집중력 발휘하며 효율적 경기 운영|직전 맞대결 승리로 상대전적 우위 선점"
+h2h: '[{"date":"26.09.26","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"0-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926TBPH0-2026-09-26-philadelphia-phillies/"}]'
+summary: "2026시즌 리그순위 1위를 달리고 있는 탬파베이 레이스가 홈에서 고전 중인 필라델피아 필리스를 상대로 우위를 점할 것으로 보입니다. 필라델피아 필리스는 최근 3연패를 기록하며 흐름이 좋지 않고, 타선의 득점력 빈곤이 이어지고 있어 마운드에 가중되는 압박을 해소하지 못하고 있습니다. 반면 탬파베이 레이스는 직전 경기 맞대결 승리를 포함해 최근 흐름이 매우 견고하며, 공수 밸런스에서 상대보다 안정적인 경기력을 보여주고 있습니다. 상대전적에서의 자신감과 시즌 내내 보여준 압도적인 전력을 고려할 때, 이번 경기 역시 탬파베이 레이스가 주도권을 잡고 경기를 풀어갈 가능성이 상당히 높아 보입니다."
+homeRecent: '[{"date":"26.09.26","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926TBPH0-2026-09-26-philadelphia-phillies/"},{"date":"26.09.25","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925MIPH0-2026-09-25-philadelphia-phillies/"},{"date":"26.09.24","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MIPH0-2026-09-24-philadelphia-phillies/"},{"date":"26.09.23","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MIPH0-2026-09-23-philadelphia-phillies/"},{"date":"26.09.21","home":"뉴욕 메츠","away":"필라델피아 필리스","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921PHNM0-2026-09-21-new-york-mets/"}]'
+awayRecent: '[{"date":"26.09.26","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926TBPH0-2026-09-26-philadelphia-phillies/"},{"date":"26.09.25","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925TBNY0-2026-09-25-new-york-yankees/"},{"date":"26.09.24","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TBNY0-2026-09-24-new-york-yankees/"},{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923TBNY2-2026-09-23-new-york-yankees/"},{"date":"26.09.21","home":"탬파베이 레이스","away":"보스턴 레드삭스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921BOTB0-2026-09-21-tampa-bay-rays/"}]'
+injuryHome: "Jonathan Bowlan (경미)|Luis Arraez (주요)|Jesus Luzardo (주요)|Caleb Kilian (주요)|Felix Reyes (주요)"
+injuryAway: "Chandler Simpson (경미)|Gavin Lux (주요)|Edwin Uceta (주요)|Jonathan Heasley (주요)|Shane McClanahan (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "탬파베이 레이스"
+pickWinResult: "승"
+pickHandicapTeam: "탬파베이 레이스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

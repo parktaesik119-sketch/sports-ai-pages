@@ -1,0 +1,37 @@
+---
+title: "토론토 블루제이즈 vs 신시내티 레즈 야구분석·승부예측 (9월 28일) - 픽천국"
+date: 2026-09-27T19:07:00.000Z
+description: "토론토 블루제이즈 vs 신시내티 레즈 야구분석: 토론토 블루제이즈와 신시내티 레즈의 이번 대결은 최근 10경기 흐름에서 우위를 점하고 있는 원정팀의 근소한 흐름이 예상됩니다.… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260928CITO0-2026-09-28-toronto-blue-jays"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "토론토 블루제이즈"
+awayTeam: "신시내티 레즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CI.png"
+homeAnalysis: "토론토 블루제이즈는 2026시즌 전체 161경기에서 78승 83패, 승률 .484를 기록하며 현재 리그순위 9위에 머물러 있습니다. 시즌 득실차 -50.0으로 공수 균형이 다소 불안정한 모습을 보이며 최근 10경기에서도 4승 6패로 흐름이 가라앉은 상태입니다. 직전 원정팀과의 맞대결에서 1-5로 패배하며 투타 밸런스가 흔들리는 점이 아쉬운 대목입니다. 홈에서는 기복 있는 경기력을 보여주며 득점 생산력에서 큰 변수를 겪고 있습니다. 전력의 핵심인 여러 선수가 부상자 명단에 올라 있어 팀 전체적인 운영에 어려움이 이어지고 있습니다."
+awayAnalysis: "신시내티 레즈는 2026시즌 전체 161경기에서 75승 86패, 승률 .466를 기록하며 현재 리그순위 12위를 유지하고 있습니다. 시즌 득실차 -156.0으로 수비 지표가 다소 아쉬우나, 최근 10경기에서 5승 5패를 기록하며 5할 승률을 유지하는 등 반등의 기회를 엿보고 있습니다. 직전 맞대결 승리를 통해 투수진이 안정을 찾은 점이 고무적이며 타선의 집중력도 상승세입니다. 원정 경기에서 강한 상대 팀을 상대로도 밀리지 않는 끈끈한 야구를 펼치는 것이 특징입니다. 시즌 막판으로 갈수록 집중력을 발휘하며 팀의 경쟁력을 끌어올리는 모습을 보이고 있습니다."
+homePower: "안정적인 마운드 운영과 타선의 조화가 매 경기 변수로 작용함|득실 마진의 열세를 극복할 수 있는 홈 이점 활용이 시급함|부상자 발생으로 인한 선수층의 뎁스 보완이 필요한 상황임|최근 경기에서 나타난 득점 기복은 공격 전술의 정교함이 부족함|상위권 팀을 상대로 한 투수진의 경기 운영 능력 검증이 필요함"
+awayPower: "최근 원정 연승 흐름으로 팀 분위기 반등에 성공함|직전 맞대결에서 보여준 타선의 장타력과 응집력이 돋보임|수비진의 집중력 강화가 대량 실점을 방지하는 핵심 요인임|시즌 막판 상위 순위 도약을 위한 공격적 야구가 정착됨|투수 교체 타이밍의 과감한 운영이 승부처에서 큰 효과를 봄"
+h2h: '[{"date":"26.09.27","home":"토론토 블루제이즈","away":"신시내티 레즈","score":"1-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927CITO0-2026-09-27-toronto-blue-jays/"},{"date":"26.09.26","home":"토론토 블루제이즈","away":"신시내티 레즈","score":"6-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CITO0-2026-09-26-toronto-blue-jays/"}]'
+summary: "토론토 블루제이즈와 신시내티 레즈의 이번 대결은 최근 10경기 흐름에서 우위를 점하고 있는 원정팀의 근소한 흐름이 예상됩니다. 토론토 블루제이즈는 리그순위 9위로 시즌을 마무리하며 득실차 마진의 한계를 극복하지 못하는 모습을 보이고 있습니다. 반면 신시내티 레즈는 리그순위 12위지만, 직전 맞대결 승리를 포함해 최근 경기에서 안정적인 투타 밸런스를 선보이며 전력상 우위를 점할 가능성이 높습니다. 이번 경기는 신시내티 레즈가 원정의 불리함을 딛고 최근의 상승세를 이어가며 경기를 주도하는 흐름이 자연스럽게 이어질 것으로 보입니다."
+homeRecent: '[{"date":"26.09.27","home":"토론토 블루제이즈","away":"신시내티 레즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927CITO0-2026-09-27-toronto-blue-jays/"},{"date":"26.09.26","home":"토론토 블루제이즈","away":"신시내티 레즈","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CITO0-2026-09-26-toronto-blue-jays/"},{"date":"26.09.24","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TOBA2-2026-09-24-baltimore-orioles/"},{"date":"26.09.22","home":"볼티모어 오리올스","away":"토론토 블루제이즈","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922TOBA0-2026-09-22-baltimore-orioles/"},{"date":"26.09.21","home":"텍사스 레인저스","away":"토론토 블루제이즈","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921TOTE0-2026-09-21-texas-rangers/"}]'
+awayRecent: '[{"date":"26.09.27","home":"토론토 블루제이즈","away":"신시내티 레즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927CITO0-2026-09-27-toronto-blue-jays/"},{"date":"26.09.26","home":"토론토 블루제이즈","away":"신시내티 레즈","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CITO0-2026-09-26-toronto-blue-jays/"},{"date":"26.09.25","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"6-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CIAT0-2026-09-25-atlanta-braves/"},{"date":"26.09.24","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CIAT0-2026-09-24-atlanta-braves/"},{"date":"26.09.23","home":"애틀랜타 브레이브스","away":"신시내티 레즈","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CIAT0-2026-09-23-atlanta-braves/"}]'
+injuryHome: "Shane Bieber (염증)|Rudy Martin Jr. (좌상)|Jonatan Clase (족저근막염)|Luis Urias (좌상)|Cody Ponce (수술)"
+injuryAway: "Tony Santillan (수술)|Spencer Steer (수술)|Chase Burns (좌상)|Julian Garcia (수술)|Michael Toglia (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "신시내티 레즈"
+pickWinResult: "승"
+pickHandicapTeam: "신시내티 레즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "세이부 라이온즈 vs 라쿠텐 골든이글스 야구분석·승부예측 (9월 28일) - 픽천국"
+date: 2026-09-28T09:00:00.000Z
+description: "세이부 라이온즈 vs 라쿠텐 골든이글스 야구분석: 세이부 라이온즈와 라쿠텐 골든이글스의 이번 경기는 최근 흐름이 정반대인 두 팀의 맞대결로 매우 흥미롭습니다. 세이부 라이온즈는… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260928RTSE0-2026-09-28-seibu-lions"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "세이부 라이온즈"
+awayTeam: "라쿠텐 골든이글스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/SE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/RT.png"
+homeAnalysis: "세이부 라이온즈는 2026시즌 111경기에서 62승 3무 46패를 기록하며 50%를 상회하는 승률로 시즌을 운영하고 있습니다. 최근에는 다소 기복 있는 경기력을 보이며 10경기에서 2승 1무 7패로 흐름이 다소 가라앉은 상태입니다. 하지만 시즌 전반적으로 견고한 마운드를 바탕으로 안정적인 홈 운영을 보여왔으며, 타선이 집중력을 발휘할 때면 충분히 경쟁력을 입증해 왔습니다. 선발로 나서는 Yamato Fuji는 팀의 수비 중심을 잡아주며 긴 이닝을 소화해 주는 역할을 기대받고 있습니다. 최근의 패배 흐름을 끊어내기 위해 홈 팬들 앞에서 더욱 공격적인 투구와 정교한 수비 집중력이 요구되는 시점입니다."
+awayAnalysis: "라쿠텐 골든이글스는 2026시즌 109경기에서 41승 68패를 기록하며 다소 고전하는 흐름 속에서도 최근 10경기에서 7승 3패를 거두는 무서운 상승세를 보여주고 있습니다. 시즌 성적은 아쉬움이 남지만, 최근 타격감이 완전히 살아나며 매 경기 평균 득점력을 끌어올리고 있는 점이 인상적입니다. 선발 등판 예정인 Takahisa Hayakawa는 최근 안정적인 제구력을 바탕으로 원정 마운드에서 팀의 기세를 이어가려는 목표를 가지고 있습니다. 전체적인 승패 수치보다 현재의 팀 분위기가 훨씬 고무적인 만큼, 세이부 라이온즈를 상대로 원정에서도 위축되지 않는 경기 운영을 펼칠 것으로 보입니다."
+homePower: "홈에서 발휘되는 안정된 투수 운용이 강점|직전 승리 포함 타선의 집중력 회복세|Yamato Fuji의 투구에 따른 경기 운영 효율|최근 다소 흔들린 수비 집중력 보완 필요|상대전적 우위를 통한 심리적 안정감 확보"
+awayPower: "최근 10경기 7승으로 팀 전력 정점 기록|Takahisa Hayakawa의 최근 상승세는 호재|득점권 상황에서의 타격 집중력 극대화|연승 기세를 원정에서 이어갈 동기부여|상대 선발 공략을 위한 적극적인 출루 시도"
+h2h: '[{"date":"26.09.15","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"1-0","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260915SERT0-2026-09-15-rakuten-gold-eagles/"},{"date":"26.08.30","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260830RTSE0-2026-08-30-seibu-lions/"},{"date":"26.08.29","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260829RTSE0-2026-08-29-seibu-lions/"},{"date":"26.08.28","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"8-4","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260828RTSE0-2026-08-28-seibu-lions/"},{"date":"26.08.23","home":"라쿠텐 골든이글스","away":"세이부 라이온즈","score":"1-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260823SERT0-2026-08-23-rakuten-gold-eagles/"}]'
+summary: "세이부 라이온즈와 라쿠텐 골든이글스의 이번 경기는 최근 흐름이 정반대인 두 팀의 맞대결로 매우 흥미롭습니다. 세이부 라이온즈는 시즌 전체적으로 탄탄한 전력을 유지해 왔으나 최근 분위기 반전이 필요한 상황이며, 라쿠텐 골든이글스는 최근 10경기에서 7승을 챙길 만큼 무서운 상승세를 타며 타선이 제 몫을 다하고 있습니다. 상대전적에서는 세이부 라이온즈가 꾸준히 라쿠텐 골든이글스를 압도하는 모습을 보여주었기에, 홈에서의 이점을 안고 투수진의 안정감을 얼마나 회복하느냐가 승부의 관건이 될 것입니다. 라쿠텐 골든이글스의 최근 기세가 매섭지만, 세이부 라이온즈 또한 홈 경기에서는 집중력을 발휘할 잠재력이 충분하여 치열한 공방전 끝에 홈팀의 우세가 예상됩니다."
+homeRecent: '[{"date":"26.09.26","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926JLSE0-2026-09-26-seibu-lions/"},{"date":"26.09.25","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925JLSE0-2026-09-25-seibu-lions/"},{"date":"26.09.23","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"10-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923SESF0-2026-09-23-fukuoka-s-hawks/"},{"date":"26.09.22","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922SESF0-2026-09-22-fukuoka-s-hawks/"},{"date":"26.09.19","home":"지바 롯데 마린스","away":"세이부 라이온즈","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919SEJL0-2026-09-19-chiba-lotte-marines/"}]'
+awayRecent: '[{"date":"26.09.26","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926RTSF0-2026-09-26-fukuoka-s-hawks/"},{"date":"26.09.24","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924RTNH0-2026-09-24-nippon-ham-fighters/"},{"date":"26.09.23","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923RTNH0-2026-09-23-nippon-ham-fighters/"},{"date":"26.09.22","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922RTNH0-2026-09-22-nippon-ham-fighters/"},{"date":"26.09.20","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920SFRT0-2026-09-20-rakuten-gold-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "세이부 라이온즈"
+pickWinResult: "승"
+pickHandicapTeam: "세이부 라이온즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---

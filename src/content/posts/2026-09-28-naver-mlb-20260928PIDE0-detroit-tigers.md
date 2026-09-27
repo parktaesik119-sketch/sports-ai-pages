@@ -1,0 +1,37 @@
+---
+title: "디트로이트 타이거즈 vs 피츠버그 파이러츠 야구분석·승부예측 (9월 28일) - 픽천국"
+date: 2026-09-27T19:10:00.000Z
+description: "디트로이트 타이거즈 vs 피츠버그 파이러츠 야구분석: 디트로이트 타이거즈와 피츠버그 파이러츠는 시즌 성적 면에서 큰 차이를 보이지 않지만, 최근 맞대결에서 디트로이트 타이거즈가 연… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260928PIDE0-2026-09-28-detroit-tigers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "디트로이트 타이거즈"
+awayTeam: "피츠버그 파이러츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/DE.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/PI.png"
+homeAnalysis: "디트로이트 타이거즈는 2026시즌 76승 85패를 기록하며 4할 7푼 2리의 승률로 현재 리그순위 11위에 위치하고 있습니다. 최근 경기 흐름을 살펴보면 직전 맞대결 2연전에서 승리를 거두며 좋은 기운을 이어가고 있습니다. 득실 마진에서 +73.0이라는 준수한 수치를 기록 중인 만큼 시즌 막판 공수 균형이 안정감을 되찾은 모습입니다. 다만 주축 선수들의 부상 이탈이 전력에 변수로 작용하고 있으나, 최근 홈에서 집중력 있는 경기를 펼치며 득점 생산력을 끌어올렸습니다. 이러한 흐름은 이번 경기에서 안정적인 투타 조화를 기대하게 만드는 요소입니다."
+awayAnalysis: "피츠버그 파이러츠는 2026시즌 81승 80패, 승률 5할 3리를 기록하며 현재 리그순위 8위를 달리고 있습니다. 시즌 전체적으로는 5할 이상의 승률을 유지하며 경쟁력 있는 모습을 보여주었으나, 최근 디트로이트 타이거즈와의 원정 2연전에서 연달아 패하며 다소 주춤한 흐름을 보입니다. 득실 마진은 +26.0으로 흑자를 기록하고 있지만, 원정길에서의 경기력 기복이 때때로 발목을 잡고 있습니다. 특히 마운드의 핵심 자원 결장과 맞물려 수비 집중력을 유지하는 것이 원정팀의 가장 큰 과제로 떠오르고 있습니다. 이번 경기에서는 최근의 부진을 털어내고 다시 분위기를 반전시킬 돌파구를 마련해야 할 것으로 보입니다."
+homePower: "최근 맞대결 2연승으로 상대 상성 우위 선점|득실 마진 +73.0으로 나타난 탄탄한 공수 지표|최근 홈 경기에서 집중력 높은 득점력 발휘|주요 선수 이탈에도 견고한 팀 내 운영 시스템|홈 이점을 바탕으로 한 안정적인 경기 주도권"
+awayPower: "시즌 81승 달성으로 검증된 승리 체급|원정 경기력 기복이 득점 생산에 직접적인 영향|마운드 핵심 자원 이탈로 인한 수비 부담 가중|최근 맞대결 패배로 인한 심리적 열세 극복 필요|리그 8위다운 탄탄한 중위권 경쟁력 보유"
+h2h: '[{"date":"26.09.27","home":"디트로이트 타이거즈","away":"피츠버그 파이러츠","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927PIDE0-2026-09-27-detroit-tigers/"},{"date":"26.09.26","home":"디트로이트 타이거즈","away":"피츠버그 파이러츠","score":"8-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926PIDE0-2026-09-26-detroit-tigers/"},{"date":"26.08.20","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260820DEPI0-2026-08-20-pittsburgh-pirates/"},{"date":"26.08.19","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"4-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260819DEPI0-2026-08-19-pittsburgh-pirates/"},{"date":"26.08.18","home":"피츠버그 파이러츠","away":"디트로이트 타이거즈","score":"5-8","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260818DEPI0-2026-08-18-pittsburgh-pirates/"}]'
+summary: "디트로이트 타이거즈와 피츠버그 파이러츠는 시즌 성적 면에서 큰 차이를 보이지 않지만, 최근 맞대결에서 디트로이트 타이거즈가 연승을 거두며 심리적인 우위를 점하고 있습니다. 디트로이트 타이거즈는 득실 마진에서 피츠버그 파이러츠보다 앞서며 실질적인 경기 운영 능력에서 더 안정적인 모습을 보여주고 있습니다. 피츠버그 파이러츠가 시즌 전체적으로는 더 높은 승률을 기록하고 있으나, 원정 경기에서 드러나는 기복과 최근 맞대결에서의 패배 흐름은 이번 승부의 향방을 가를 핵심적인 변수로 작용할 전망입니다. 따라서 최근 화력 집중력과 홈에서의 이점을 앞세운 디트로이트 타이거즈가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.27","home":"디트로이트 타이거즈","away":"피츠버그 파이러츠","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927PIDE0-2026-09-27-detroit-tigers/"},{"date":"26.09.26","home":"디트로이트 타이거즈","away":"피츠버그 파이러츠","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926PIDE0-2026-09-26-detroit-tigers/"},{"date":"26.09.24","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MODE0-2026-09-24-detroit-tigers/"},{"date":"26.09.23","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923MODE0-2026-09-23-detroit-tigers/"},{"date":"26.09.22","home":"디트로이트 타이거즈","away":"워싱턴 내셔널스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260922MODE0-2026-09-22-detroit-tigers/"}]'
+awayRecent: '[{"date":"26.09.27","home":"디트로이트 타이거즈","away":"피츠버그 파이러츠","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927PIDE0-2026-09-27-detroit-tigers/"},{"date":"26.09.26","home":"디트로이트 타이거즈","away":"피츠버그 파이러츠","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926PIDE0-2026-09-26-detroit-tigers/"},{"date":"26.09.25","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SLPI0-2026-09-25-pittsburgh-pirates/"},{"date":"26.09.24","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SLPI0-2026-09-24-pittsburgh-pirates/"},{"date":"26.09.23","home":"피츠버그 파이러츠","away":"세인트루이스 카디널스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SLPI0-2026-09-23-pittsburgh-pirates/"}]'
+injuryHome: "Jack Flaherty (염증)|Kyle Finnegan (염증)|Kerry Carpenter (족저근막염)|Burch Smith (수술)|Parker Meadows (수술)"
+injuryAway: "Esmerlyn Valdez (염좌)|Isaac Mattson (염증)|Oneil Cruz (일일 단위 관찰)|Mitch Keller (염좌)|Braxton Ashcraft (통증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 타이거즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

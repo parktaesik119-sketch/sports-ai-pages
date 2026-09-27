@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 콜로라도 로키스 야구분석·승부예측 (9월 28일) - 픽천국"
+date: 2026-09-27T19:10:00.000Z
+description: "시카고 화이트삭스 vs 콜로라도 로키스 야구분석: 시카고 화이트삭스는 시즌 내내 안정적인 리그순위 5위를 유지하며 공수 균형이 잘 잡힌 모습을 보여주고 있습니다. 반면 콜로라도… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260928COCW0-2026-09-28-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "콜로라도 로키스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CO.png"
+homeAnalysis: "시카고 화이트삭스는 2026시즌 121경기에서 62승 1무 58패, 승률 .519를 기록하며 안정적인 시즌 운영을 이어오고 있습니다. 현재 리그순위 5위를 차지하고 있으며 시즌 득실차 또한 +57.0으로 공수 양면에서 긍정적인 지표를 보여줍니다. 최근 9경기에서 5승 4패로 준수한 성적을 거두고 있고, 직전 맞대결에서도 승리를 챙기며 흐름을 잘 유지하고 있습니다. 투타의 조화가 안정적이며 홈 경기에서 보여주는 집중력이 강점으로 평가됩니다. 향후 포스트시즌 진출을 위한 중요한 길목에서 팀 전체의 사기가 매우 높은 상태입니다."
+awayAnalysis: "콜로라도 로키스는 2026시즌 99경기에서 33승 66패, 승률 .356의 다소 아쉬운 성적을 거두며 현재 리그순위 15위에 머물러 있습니다. 시즌 득실차는 -193.0으로 수비와 마운드 운영에서 상당한 어려움을 겪고 있음을 알 수 있습니다. 최근 10경기 흐름 또한 1승 9패로 깊은 침체기에 빠져 있어 반등의 계기를 마련하는 데 애를 먹고 있습니다. 원정 경기에서의 약세가 뚜렷하며, 공수 밸런스가 무너진 상황이라 이번 경기에서도 고전할 가능성이 높습니다. 팀 전반적인 전력 재정비가 시급한 시점입니다."
+homePower: "안정적인 득실 관리로 시즌 내내 상위권 경쟁 유지|직전 맞대결 승리로 상대성 확실한 우위 점함|최근 9경기 평균 6.8득점의 폭발적인 타격감|홈 이점 살린 투타 밸런스 매우 견고함|리그순위 5위의 저력을 바탕으로 한 경기 운영능력 검증됨"
+awayPower: "시즌 전체 득실차 -193.0으로 수비 조직력 붕괴|최근 10경기 1승 9패로 극심한 전력 하락세|원정 경기 평균 실점 관리에 상당한 난항|주요 핵심 자원 결장으로 인한 로스터 깊이 부족|리그순위 15위의 한계를 극복할 공격 루트 부재"
+h2h: '[{"date":"26.09.26","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926COCW0-2026-09-26-chicago-white-sox/"}]'
+summary: "시카고 화이트삭스는 시즌 내내 안정적인 리그순위 5위를 유지하며 공수 균형이 잘 잡힌 모습을 보여주고 있습니다. 반면 콜로라도 로키스는 리그순위 15위에 머물며 최근 10경기에서 1승 9패에 그치는 등 전력 하락세가 뚜렷합니다. 양 팀의 시즌 전반적인 데이터와 최근 경기 흐름을 종합해 볼 때 홈팀인 시카고 화이트삭스가 투타 모든 면에서 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.26","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926COCW0-2026-09-26-chicago-white-sox/"},{"date":"26.09.25","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CWKC0-2026-09-25-kansas-city-royals/"},{"date":"26.09.24","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CWKC0-2026-09-24-kansas-city-royals/"},{"date":"26.09.23","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"11-14","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CWKC0-2026-09-23-kansas-city-royals/"},{"date":"26.09.21","home":"시카고 화이트삭스","away":"디트로이트 타이거즈","score":"8-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921DECW0-2026-09-21-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.09.26","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926COCW0-2026-09-26-chicago-white-sox/"},{"date":"26.09.25","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"8-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925AZCO0-2026-09-25-colorado-rockies/"},{"date":"26.09.23","home":"콜로라도 로키스","away":"애리조나 다이아몬드백스","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923AZCO0-2026-09-23-colorado-rockies/"},{"date":"26.09.21","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SECO0-2026-09-21-colorado-rockies/"},{"date":"26.09.19","home":"콜로라도 로키스","away":"시애틀 매리너스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260919SECO0-2026-09-19-colorado-rockies/"}]'
+injuryHome: "Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Chase Meidroth (경미)|Jake Rogers (개인사유)"
+injuryAway: "Kris Bryant (수술)|Willi Castro (족저근막염)|McCade Brown (염증)|Chase Dollander (수술)|Pierson Ohl (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-2.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
