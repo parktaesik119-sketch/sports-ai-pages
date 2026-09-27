@@ -1054,6 +1054,14 @@ const TEAM_NAME_MAP = {
   "Antigua and Barbuda": "앤티가 바부다",
   "Montserrat": "몬트세랫",
   "Aruba": "아루바",
+  "New Caledonia": "뉴칼레도니아",
+  "Peru": "페루",
+  "Bahrain": "바레인",
+  "British Virgin Islands": "영국령 버진아일랜드",
+  "U.S. Virgin Islands": "미국령 버진아일랜드",
+  "Louisville City": "루이빌",
+  "French Guiana": "프랑스령 기아나",
+  "Turks and Caicos Islands": "터크스 케이커스 제도",
 
 
   // ===== 🏀 농구 추가팀 =====
