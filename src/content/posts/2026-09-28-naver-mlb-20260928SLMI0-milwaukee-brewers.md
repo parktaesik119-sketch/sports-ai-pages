@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.26","home":"밀워키 브루어스","away":"세인�
 injuryHome: "Grant Anderson (염증)|Joey Ortiz (타박상)|Brandon Woodruff (염증)|Andrew Vaughn (부상)|Quinn Priester (수술)"
 injuryAway: "Everson Pereira (타박상)|Masyn Winn (통증)|Blaze Jordan (염좌)|Joshua Baez (긴장)|Hunter Dobbins (수술)"
 homeLineup: "[\"선발투수 J. Misiorowski (15-5, 1.86) ERA 1.86|https://a.espncdn.com/i/headshots/mlb/players/full/5080761.png\"]"
-awayLineup: "[\"선발투수 A. Pallante (12-8, 3.61) ERA 3.61|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\"]"
+awayLineup: "[\"선발투수 A. Pallante (12-8, 3.61) ERA 3.61|https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png\",\"1번 J. Walker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png\",\"2번 I. Herrera (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/41889.png\",\"3번 L. Bernal (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/5124076.png\",\"4번 N. Gorman (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/41174.png\",\"5번 T. Saggese (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4999876.png\",\"6번 N. Church (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png\",\"7번 J. Fermin (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/38851.png\",\"8번 C. Prieto (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5012056.png\",\"9번 P. Pages (C)|https://a.espncdn.com/i/headshots/mlb/players/full/42608.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
