@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.09.25","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925YOHI0-2026-09-25-hiroshima-carp/"},{"date":"26.09.24","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924YOHI0-2026-09-24-hiroshima-carp/"},{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"},{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"},{"date":"26.09.21","home":"주니치 드래곤스","away":"히로시마 도요 카프","score":"10-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260921HIJN0-2026-09-21-chunichi-dragons/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Katsuki Azuma (12-5, 2.32)|https://p.npb.jp/players_photo/2026/180/db/011_51155136.jpg\"]"
+awayLineup: "[\"선발투수 Taiki Kudo (0-0, 3.38)|https://p.npb.jp/players_photo/2026/180/c/035_91795152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

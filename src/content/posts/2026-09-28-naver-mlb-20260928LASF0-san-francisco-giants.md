@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.27","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.09.27","home":"샌프란시스코 자이언츠","away":"LA 다저스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927LASF0-2026-09-27-san-francisco-giants/"},{"date":"26.09.25","home":"LA 다저스","away":"샌디에이고 파드리스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SDLA0-2026-09-25-los-angeles-dodgers/"},{"date":"26.09.24","home":"LA 다저스","away":"샌디에이고 파드리스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SDLA0-2026-09-24-los-angeles-dodgers/"},{"date":"26.09.23","home":"LA 다저스","away":"샌디에이고 파드리스","score":"7-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SDLA0-2026-09-23-los-angeles-dodgers/"},{"date":"26.09.21","home":"LA 다저스","away":"샌프란시스코 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921SFLA0-2026-09-21-los-angeles-dodgers/"}]'
 injuryHome: "Osleivis Basabe (경미)|Willy Adames (주요)|Nate Furman (주요)|JT Brubaker (주요)|Matt Gage (주요)"
 injuryAway: "Gavin Stone (주요)|Jake Cousins (주요)|Ben Casparius (주요)|Brusdar Graterol (주요)|Edgardo Henriquez (주요)"
-homeLineup: ''
+homeLineup: "[\"선발투수 C. Seymour (0-2, 4.70) ERA 4.70|https://a.espncdn.com/i/headshots/mlb/players/full/4420745.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""

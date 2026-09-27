@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.26","home":"캔자스시티 로열스","away":"클�
 injuryHome: "Craig Kimbrel (경미)|Connor Seabold (주요)|James McArthur (주요)|Steven Cruz (경미)|Nick Loftin (경미)"
 injuryAway: "Rhys Hoskins (주요)|Colin Holderman (주요)"
 homeLineup: "[\"선발투수 D. Lynch IV (6-6, 4.13) ERA 4.13|https://a.espncdn.com/i/headshots/mlb/players/full/41227.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 P. Messick (12-9, 2.55) ERA 2.55|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
