@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"세이부 라이온즈","away":"지바 
 awayRecent: '[{"date":"26.09.26","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926NHOX0-2026-09-26-orix-buffaloes/"},{"date":"26.09.24","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924RTNH0-2026-09-24-nippon-ham-fighters/"},{"date":"26.09.23","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923RTNH0-2026-09-23-nippon-ham-fighters/"},{"date":"26.09.22","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922RTNH0-2026-09-22-nippon-ham-fighters/"},{"date":"26.09.21","home":"니혼햄 파이터즈","away":"오릭스 버팔로스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260921OXNH0-2026-09-21-nippon-ham-fighters/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Andre Jackson (9-8, 3.44)|https://p.npb.jp/players_photo/2026/180/m/042_43745159.jpg\"]"
+awayLineup: "[\"선발투수 Ren Fukushima (5-4, 3.35)|https://p.npb.jp/players_photo/2026/180/f/045_81685155.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
