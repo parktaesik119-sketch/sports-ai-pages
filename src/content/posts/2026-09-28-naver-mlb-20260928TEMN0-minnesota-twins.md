@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.27","home":"미네소타 트윈스","away":"텍사�
 injuryHome: "Mike Paredes (근육 염좌)|Mick Abel (수술)|Jeff Hoffman (염증)|Trevor Larnach (염좌)|Byron Buxton (수술)"
 injuryAway: "Kyle Higashioka (근육 염좌)|Carter Baumler (근육 염좌)|Jose Corniell (근육 염좌)|Nicky Lopez (상태 지켜보는 중)|Joc Pederson (골절)"
 homeLineup: "[\"선발투수 D. Kremer (4-5, 4.97) ERA 4.97|https://a.espncdn.com/i/headshots/mlb/players/full/38295.png\"]"
-awayLineup: "[\"선발투수 M. Gore (8-11, 4.59) ERA 4.59|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\"]"
+awayLineup: "[\"선발투수 M. Gore (8-11, 4.59) ERA 4.59|https://a.espncdn.com/i/headshots/mlb/players/full/39636.png\",\"1번 B. Nimmo (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/32159.png\",\"2번 W. Langford (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/4719324.png\",\"3번 C. Seager (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/32691.png\",\"4번 J. Burger (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/39882.png\",\"5번 E. Duran (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42457.png\",\"6번 N. Lopez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/38106.png\",\"7번 D. Jansen (C)|https://a.espncdn.com/i/headshots/mlb/players/full/35004.png\",\"8번 E. Carter (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/4917921.png\",\"9번 A. Osuna (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/4916547.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

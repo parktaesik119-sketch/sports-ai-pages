@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.27","home":"마이애미 말린스","away":"애틀�
 injuryHome: "Owen Caissie (골절)|Kyle Stowers (통증)|Xavier Edwards (경미)|Tyler Zuber (염좌)|Anthony Bender (골절)"
 injuryAway: "Joe Jimenez (수술)|Reynaldo Lopez (염증)|Bryce Elder (수술)|Lane Thomas (좌상)|Martin Perez (염증)"
 homeLineup: "[\"선발투수 J. Junk (6-9, 4.31) ERA 4.31|https://a.espncdn.com/i/headshots/mlb/players/full/4881980.png\"]"
-awayLineup: "[\"선발투수 J. Ritchie (1-4, 4.79) ERA 4.79|https://a.espncdn.com/i/headshots/mlb/players/full/5080757.png\"]"
+awayLineup: "[\"선발투수 J. Ritchie (1-4, 4.79) ERA 4.79|https://a.espncdn.com/i/headshots/mlb/players/full/5080757.png\",\"1번 M. Dubon (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/35304.png\",\"2번 O. Albies (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/33783.png\",\"3번 M. Olson (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/32767.png\",\"4번 A. Riley (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/34982.png\",\"5번 M. Yastrzemski (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/33341.png\",\"6번 S. Murphy (C)|https://a.espncdn.com/i/headshots/mlb/players/full/33557.png\",\"7번 H. Kim (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4089862.png\",\"8번 B. Hicklen (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/41378.png\",\"9번 D. Keirsey Jr. (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42753.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
