@@ -25,7 +25,7 @@ awayLineup: '["Sean Melvin (GK)|https://images.fotmob.com/image_resources/player
 homeFormation: "4-3-3"
 awayFormation: "4-4-2"
 homeCoach: "Mauro Eustáquio|https://images.fotmob.com/image_resources/playerimages/664774.png"
-awayCoach: "Jesse Acteson"
+awayCoach: "Terry Dunfield|https://images.fotmob.com/image_resources/playerimages/24022.png"
 pickWinTeam: "요크 유니티드 FC"
 pickWinResult: "승"
 pickHandicapTeam: "요크 유니티드 FC"
