@@ -4143,8 +4143,8 @@
     "away": "Puerto Rico",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/287980.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5756.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5991880",
@@ -4169,8 +4169,8 @@
     "away": "Nicaragua",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/287981.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5807.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5991881",
@@ -4182,8 +4182,8 @@
     "away": "Dominican Republic",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7724.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/262134.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-6162933",
@@ -4329,6 +4329,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6352538",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Friendlies U21",
+    "date": "2026-09-28T14:00:00.000Z",
+    "home": "North Macedonia U21",
+    "away": "Russia U21",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8504.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6586.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6052084",
     "sport": "soccer",
     "country": "International",
@@ -4455,8 +4468,8 @@
     "away": "Atlético de San Luis (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1066915.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5861268",
@@ -5014,8 +5027,8 @@
     "away": "San Martín de Tucumán",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10095.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/146371.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5874229",
@@ -5638,8 +5651,8 @@
     "away": "FC Juárez",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/649424.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000014588",
@@ -5651,8 +5664,8 @@
     "away": "CF América",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1842.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 4
   },
   {
     "id": "fotmob-1000009222",
@@ -5729,8 +5742,8 @@
     "away": "Águilas Doradas",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6387.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193025.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000013732",
@@ -6725,7 +6738,7 @@
     "sport": "soccer",
     "country": "Paraguay",
     "league": "Division Profesional",
-    "date": "2026-09-28T19:30:00.000Z",
+    "date": "2026-09-28T20:00:00.000Z",
     "home": "Sportivo San Lorenzo",
     "away": "Recoleta",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/198186.png",
@@ -6738,7 +6751,7 @@
     "sport": "soccer",
     "country": "Paraguay",
     "league": "Division Profesional",
-    "date": "2026-09-28T22:00:00.000Z",
+    "date": "2026-09-28T22:15:00.000Z",
     "home": "Libertad",
     "away": "Olimpia",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6620.png",
@@ -9585,12 +9598,12 @@
     "id": "panda-1697653",
     "sport": "lol",
     "league": "World Star Challengers Invitational",
-    "date": "2026-09-28T06:00:00Z",
+    "date": "2026-09-28T06:02:47Z",
     "home": "T1 Academy",
     "away": "Cupid Esports",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/131040/t1logo_profile.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138937/698px_cupid_e_sports_allmode.png",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0
   },
   {

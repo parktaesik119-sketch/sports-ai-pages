@@ -1762,6 +1762,70 @@
     }
   },
   {
+    "home": "Argentina",
+    "away": "Bolivia",
+    "date": "2026-09-29T23:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401921545",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ARG leads series 5-0",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2024-10-16T00:00:00Z",
+          "home": "Argentina",
+          "away": "Bolivia",
+          "homeScore": 6,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-09-12T20:00:00Z",
+          "home": "Bolivia",
+          "away": "Argentina",
+          "homeScore": 0,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-09-09T23:30:00Z",
+          "home": "Argentina",
+          "away": "Bolivia",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-06-29T00:00:00Z",
+          "home": "Bolivia",
+          "away": "Argentina",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-10-13T20:00:00Z",
+          "home": "Bolivia",
+          "away": "Argentina",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
     "home": "USA",
     "away": "Chile",
     "date": "2026-09-30T00:00:00.000Z",
@@ -6350,24 +6414,24 @@
     },
     "standings": {
       "home": {
-        "rank": "4",
-        "wins": "3",
-        "losses": "1",
+        "rank": "14",
+        "wins": "0",
+        "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "13",
-        "pointsAgainst": "11"
+        "gamesBehind": "-",
+        "pointsFor": "0",
+        "pointsAgainst": "0"
       },
       "away": {
-        "rank": "5",
-        "wins": "2",
-        "losses": "1",
+        "rank": "7",
+        "wins": "0",
+        "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "17",
-        "pointsAgainst": "10"
+        "gamesBehind": "-",
+        "pointsFor": "0",
+        "pointsAgainst": "0"
       }
     },
     "h2h": null
@@ -6423,24 +6487,24 @@
     },
     "standings": {
       "home": {
-        "rank": "2",
-        "wins": "4",
+        "rank": "3",
+        "wins": "0",
         "losses": "0",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "13",
-        "pointsAgainst": "5"
+        "pointsFor": "0",
+        "pointsAgainst": "0"
       },
       "away": {
-        "rank": "10",
-        "wins": "1",
-        "losses": "2",
+        "rank": "1",
+        "wins": "0",
+        "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
-        "pointsFor": "9",
-        "pointsAgainst": "13"
+        "gamesBehind": "-",
+        "pointsFor": "0",
+        "pointsAgainst": "0"
       }
     },
     "h2h": null
@@ -6491,24 +6555,24 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
-        "wins": "2",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "14",
-        "pointsAgainst": "11"
-      },
-      "away": {
-        "rank": "1",
-        "wins": "4",
-        "losses": "1",
+        "rank": "13",
+        "wins": "0",
+        "losses": "0",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "18",
-        "pointsAgainst": "12"
+        "pointsFor": "0",
+        "pointsAgainst": "0"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "0",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "-",
+        "pointsFor": "0",
+        "pointsAgainst": "0"
       }
     },
     "h2h": null
