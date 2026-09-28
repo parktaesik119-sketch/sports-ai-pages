@@ -1064,6 +1064,11 @@ const TEAM_NAME_MAP = {
   "Turks and Caicos Islands": "터크스 케이커스 제도",
   "Anguilla": "앵귈라",
   "Bahamas": "바하마",
+  "Saint Martin": "세인트마틴",
+  "American Samoa": "아메리칸사모아",
+  "Seychelles": "세이셸",
+  "Palestine": "팔레스타인",
+  "Mauritius": "모리셔스",
 
 
   // ===== 🏀 농구 추가팀 =====
