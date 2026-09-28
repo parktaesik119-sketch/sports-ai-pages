@@ -1115,6 +1115,7 @@ const PLAYER_NAME_MAP = {
   "Do-Young Yoon": "윤도영", // 엑셀시오르 (네덜란드, 브라이튼 원소속 임대)
   "Do-Young Yun": "윤도영", // 엑셀시오르 (네덜란드, 브라이튼 원소속 임대) — Yoon/Yun 표기 혼용 대비
   "Seung-Gyun Bae": "배승균", // 페예노르트 유스팀 (네덜란드) // 확인 필요 - 로마자 표기 불확실
+  "Seung-Gyu Kim": "김승규",
 
 };
 
