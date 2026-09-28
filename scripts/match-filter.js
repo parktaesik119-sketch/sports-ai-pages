@@ -64,7 +64,7 @@
   // "Real Madrid W"(여자팀)/"Real Madrid II"(2군)/"Real Madrid U19"(유스팀)까지
   // 전부 걸려서 프리패스 되어 버립니다 (2026-08 확인).
   const essentialTeams = [
-    'BNK FEARX YOUTH',
+    'BNK FEARX YOUTH', 'South Korea',
 
     // ⚽ 프리미어리그 (EPL)
     'Arsenal', 'Manchester City','Man City', 'Manchester United', 'Man United', 'Aston Villa', 'Liverpool',
