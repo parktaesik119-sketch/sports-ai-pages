@@ -19,7 +19,7 @@ summary: "투르크메니스탄은 최근 5경기에서 연패를 기록하며 �
 homeRecent: '[{"date":"26.03.31","home":"태국","away":"투르크메니스탄","score":"2-1","result":"🔴패"},{"date":"25.11.18","home":"투르크메니스탄","away":"Chinese Taipei","score":"3-1","result":"🟢승"},{"date":"25.10.14","home":"투르크메니스탄","away":"스리랑카","score":"2-1","result":"🟢승"},{"date":"25.10.09","home":"스리랑카","away":"투르크메니스탄","score":"1-0","result":"🔴패"},{"date":"25.06.11","home":"투르크메니스탄","away":"태국","score":"3-1","result":"🟢승"}]'
 awayRecent: '[{"date":"26.09.24","home":"팔레스타인","away":"뉴질랜드","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6280193-2026-09-24-palestine/"},{"date":"26.06.09","home":"키르기스스탄","away":"팔레스타인","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1546508-2026-06-09-kyrgyzstan/"},{"date":"26.06.06","home":"키르기스스탄","away":"팔레스타인","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1548440-2026-06-06-kyrgyzstan/"},{"date":"25.12.12","home":"팔레스타인","away":"사우디아라비아","score":"1-2","result":"🔴패"},{"date":"25.12.08","home":"시리아","away":"팔레스타인","score":"0-0","result":"🟡무"}]'
 injuryHome: "없음"
-injuryAway: "Wessam Abou Ali (무릎 부상)"
+injuryAway: "Wessam Abou Ali[주요](무릎 부상 - 복귀예정 Unknown)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

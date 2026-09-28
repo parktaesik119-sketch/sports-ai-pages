@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.27","home":"세이부 라이온즈","away":"라쿠�
 awayRecent: '[{"date":"26.09.27","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927NHJL0-2026-09-27-chiba-lotte-marines/"},{"date":"26.09.26","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926JLSE0-2026-09-26-seibu-lions/"},{"date":"26.09.25","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925JLSE0-2026-09-25-seibu-lions/"},{"date":"26.09.23","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923OXJL0-2026-09-23-chiba-lotte-marines/"},{"date":"26.09.22","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922OXJL0-2026-09-22-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Tatsuki Itoh (2-0, 3.38)|https://p.npb.jp/players_photo/2026/180/e/020_31335152.jpg\"]"
+awayLineup: "[\"선발투수 Yuto Yoshikawa (0-2, 10.00)|https://p.npb.jp/players_photo/2026/180/m/091_83385157.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

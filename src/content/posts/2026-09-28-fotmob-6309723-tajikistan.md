@@ -19,7 +19,7 @@ summary: "Tajikistan은 최근 5경기에서 평균 2.0득점을 기록하는 �
 homeRecent: '[{"date":"26.09.24","home":"아제르바이잔","away":"Tajikistan","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6140728-2026-09-24-azerbaijan/"},{"date":"26.06.10","home":"Tajikistan","away":"인도","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1546842-2026-06-10-tajikistan/"},{"date":"26.06.06","home":"Tajikistan","away":"인도","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546838-2026-06-06-tajikistan/"},{"date":"26.03.31","home":"Tajikistan","away":"필리핀","score":"1-1","result":"🟡무"},{"date":"25.11.18","home":"동티모르","away":"Tajikistan","score":"0-5","result":"🟢승"}]'
 awayRecent: '[{"date":"26.09.24","home":"팔레스타인","away":"뉴질랜드","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6280193-2026-09-24-palestine/"},{"date":"26.06.09","home":"키르기스스탄","away":"팔레스타인","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1546508-2026-06-09-kyrgyzstan/"},{"date":"26.06.06","home":"키르기스스탄","away":"팔레스타인","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1548440-2026-06-06-kyrgyzstan/"},{"date":"25.12.12","home":"팔레스타인","away":"사우디아라비아","score":"1-2","result":"🔴패"},{"date":"25.12.08","home":"시리아","away":"팔레스타인","score":"0-0","result":"🟡무"}]'
 injuryHome: "없음"
-injuryAway: "Wessam Abou Ali (무릎 부상)"
+injuryAway: "Wessam Abou Ali[주요](무릎 부상 - 복귀예정 Unknown)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

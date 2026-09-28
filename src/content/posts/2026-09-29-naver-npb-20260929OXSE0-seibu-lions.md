@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.27","home":"세이부 라이온즈","away":"라쿠�
 awayRecent: '[{"date":"26.09.27","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"12-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927OXSF0-2026-09-27-fukuoka-s-hawks/"},{"date":"26.09.26","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926NHOX0-2026-09-26-orix-buffaloes/"},{"date":"26.09.25","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925SFOX0-2026-09-25-orix-buffaloes/"},{"date":"26.09.23","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923OXJL0-2026-09-23-chiba-lotte-marines/"},{"date":"26.09.22","home":"지바 롯데 마린스","away":"오릭스 버팔로스","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922OXJL0-2026-09-22-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kaima Taira (11-5, 1.36)|https://p.npb.jp/players_photo/2026/180/l/061_31035136.jpg\"]"
+awayLineup: "[\"선발투수 Kaisei Toumatsu (1-0, 7.00)|https://p.npb.jp/players_photo/2026/180/b/048_71475159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
