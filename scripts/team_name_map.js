@@ -1062,6 +1062,8 @@ const TEAM_NAME_MAP = {
   "Louisville City": "루이빌",
   "French Guiana": "프랑스령 기아나",
   "Turks and Caicos Islands": "터크스 케이커스 제도",
+  "Anguilla": "앵귈라",
+  "Bahamas": "바하마",
 
 
   // ===== 🏀 농구 추가팀 =====
