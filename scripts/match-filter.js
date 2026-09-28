@@ -12,6 +12,56 @@
 // (analyze-router-one-git.js 쪽도 이 함수를 import해서 쓰도록 바꿔서, 로직이 두 곳에
 // 따로 존재하며 서서히 어긋나는 걸 막았다)
 
+import COUNTRY_MAP from './country_map.js';
+import TEAM_NAME_MAP from './team_name_map.js';
+// ⚠️ 위 import 경로는 match-filter.js와 같은 폴더 기준입니다. 맵 파일이 다른 폴더에 있으면 경로만 고치세요.
+
+// ============================================================
+// [국가대표팀 자동 인식] 국대끼리의 국제친선 경기를 전부 분석 대상에 올리기 위한 세트
+// - country_map.js의 영문 키(하이픈→공백, 소문자 정규화)를 자동으로 사용
+// - team_name_map.js에서 한글값이 국가 한글값과 같은 키(Czechia, Turkiye, Rep. Of Ireland 등 별칭)도 자동 포착
+// - 위 두 맵에 없는 국가대표만 EXTRA_NATIONAL_TEAMS에 수동 추가하면 됨
+// ============================================================
+// 소문자 + 하이픈→공백 + 여자팀 접미사(" W") 제거
+const normTeam = s => (s || '').toLowerCase().replace(/-/g, ' ').replace(/\s+w$/, '').trim();
+
+// country_map에는 있지만 "국가"가 아닌 지역/구분 키
+const NON_COUNTRY_KEYS = new Set(['asia', 'europe', 'africa', 'world', 'international', 'idn']);
+
+// 두 맵 모두에서 못 잡힌 국가대표 (새 국가가 발견되면 여기에 한 줄만 추가)
+const EXTRA_NATIONAL_TEAMS = [
+  'Haiti', 'Curacao', 'Gibraltar', 'Bermuda', 'Palestine', 'Namibia', 'Sierra Leone',
+  'Togo', 'Niger', 'Guinea', 'Guinea-Bissau', 'Eritrea', 'Somalia', 'South Sudan',
+  'Madagascar', 'Comoros', 'Djibouti', 'Chad', 'Seychelles', 'Mauritius', 'Congo', 'DR Congo',
+  'Central African Republic', 'Equatorial Guinea', 'Trinidad and Tobago', 'Guyana', 'Belize',
+  'Grenada', 'Saint Lucia', 'Dominica', 'Bahamas', 'Cayman Islands', 'Montserrat',
+  'Solomon Islands', 'New Caledonia', 'Martinique', 'Guadeloupe', 'French Guiana',
+  'Saint Vincent and The Grenadines', 'Antigua and Barbuda', 'Anguilla', 'Saint Martin',
+  'Sint Maarten', 'Bonaire', 'British Virgin Islands', 'U.S. Virgin Islands',
+  'Turks and Caicos Islands', 'American Samoa', 'Great Britain',
+];
+
+const NATIONAL_TEAM_SET = (() => {
+  const set = new Set();
+  const countryKo = new Set(Object.values(COUNTRY_MAP));
+  for (const k of Object.keys(COUNTRY_MAP)) {
+    const n = normTeam(k);
+    if (!NON_COUNTRY_KEYS.has(n)) set.add(n);
+  }
+  for (const [k, ko] of Object.entries(TEAM_NAME_MAP)) {
+    if (countryKo.has(ko)) set.add(normTeam(k)); // 별칭 자동 포착
+  }
+  EXTRA_NATIONAL_TEAMS.forEach(k => set.add(normTeam(k)));
+  return set;
+})();
+
+// 여자 국대("Japan W")는 이 규칙으로 통과시키지 않는다 (여성 경기 차단 정책 유지)
+const isNationalTeam = name => {
+  const t = (name || '').trim();
+  if (/\sW$/.test(t)) return false;
+  return NATIONAL_TEAM_SET.has(normTeam(t));
+};
+
     const blockedLeagues = [  //대소문자 구분없음
    // 잉글랜드 2부 / 독일 컵대회 (2026-08 추가 — 유명 5대리그 소속팀이 아니면 분석 제외 요청에 따라 통째로 차단)
    // ⚠️ 단, essentialTeams 프리패스는 이 블락리스트보다 먼저 검사되므로, 이 리그 소속이라도
@@ -172,6 +222,15 @@ if (isExtraFiltered) {
   console.log(`🚫 [친선경기 추가 차단] ${m.league} - ${m.home} vs ${m.away}`);
   return false;
 }
+
+  // [국대끼리 친선] 홈/원정이 둘 다 국가대표팀이면 분석 대상에 올린다.
+  // (여성/청소년/U-연령/예비팀은 위 단계 0·1.5에서 이미 걸러졌다.
+  //  country 필드가 "World"가 아니라 개최국으로 와도 국가 차단에 막히지 않도록 국가 차단보다 먼저 검사)
+  // 한쪽이 클럽이면 통과하지 않으므로 클럽 친선("Friendlies")은 기존 로직을 그대로 탄다.
+  const isFriendlyLeague = ['FRIENDLY INTERNATIONAL', 'FRIENDLIES', 'INTERNATIONAL'].some(el => el === upperLg);
+  if (sport === 'soccer' && isFriendlyLeague && isNationalTeam(home) && isNationalTeam(away)) {
+    return true;
+  }
 
   /// 국가 차단
   if (sport === 'soccer' && blockedCountries.some(c => c.toUpperCase() === upperCountry)) {
