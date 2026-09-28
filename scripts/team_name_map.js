@@ -1635,6 +1635,7 @@ const TEAM_NAME_MAP = {
   "Philippines": "필리핀",
   "Guam": "괌",
   "Kuwait": "쿠웨이트",
+  "Tajikistan": "타지키스탄",
 
 
   // 코파 리베르타도레스 / 수다메리카나 주요팀
