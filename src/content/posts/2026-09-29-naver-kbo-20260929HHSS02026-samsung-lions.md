@@ -1,0 +1,37 @@
+---
+title: "삼성 라이온스 vs 한화 이글스 야구분석·승부예측 (9월 29일) - 픽천국"
+date: 2026-09-29T09:30:00.000Z
+description: "삼성 라이온스 vs 한화 이글스 야구분석: 삼성 라이온즈와 한화 이글스는 2026시즌 동안 꾸준히 맞붙으며 서로의 전력을 잘 파악하고 있는 상태입니다. 삼성 라이온즈는 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260929HHSS02026-2026-09-29-samsung-lions"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "삼성 라이온스"
+awayTeam: "한화 이글스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HH.png"
+homeAnalysis: "삼성 라이온즈는 2026시즌 108경기에서 63승 2무 43패를 기록하며 0.583의 높은 승률을 바탕으로 리그 2위의 성적을 견고히 유지하고 있습니다. 시즌 내내 평균 5.8득점의 강력한 화력을 뽐내고 있으며, 최근 10경기에서도 5승 5패를 기록하며 상위권 팀다운 꾸준한 경기력을 보여주고 있습니다. 특히 구자욱(WAR 5.82)과 디아즈(WAR 3.78)를 필두로 한 타선의 짜임새가 매우 뛰어나며, 상황에 맞는 집중력을 발휘해 득점을 만들어내는 능력이 탁월합니다. 홈 경기에서 보여주는 안정적인 전력 운영과 높은 득점 생산력은 이번 경기에서도 삼성 라이온즈가 주도권을 쥐는 데 큰 힘이 될 것으로 기대됩니다. 전반적인 투타 밸런스가 매우 이상적이며, 리그 상위권의 위치를 지키는 이유를 경기마다 증명해 내고 있습니다."
+awayAnalysis: "한화 이글스는 2026시즌 110경기에서 43승 4무 63패를 기록하며 0.406의 승률로 리그 9위에 머물러 있습니다. 시즌 평균 5.6득점으로 공격력은 준수한 편이나, 투수진의 난조와 수비 집중력 저하로 인해 최근 10경기에서 1승 1무 8패라는 다소 아쉬운 성적을 거두고 있습니다. 페라자(WAR 5.06)와 강백호(WAR 3.55)라는 걸출한 중심 타자들이 분전하고 있지만, 팀 전체의 연승 흐름을 이어가기에는 투타 간의 격차가 다소 크게 나타나고 있습니다. 원정 경기에서의 경기력 기복이 심해 상위권 팀을 상대로는 다소 고전하는 모습이 자주 연출되고 있습니다. 시즌 막바지 집중력을 끌어올려 분위기 반전을 노리고 있으나, 현재의 전력 구성으로는 삼성 라이온즈와의 맞대결에서 팽팽한 흐름을 가져오는 데 상당한 노력이 요구됩니다."
+homePower: "리그 2위의 안정적 순위가 증명하는 탄탄한 운영 능력|구자욱 중심 상위 타선의 파괴적인 득점 생산력 검증됨|득점 평균 5점대 후반 유지하며 꾸준한 화력 지원 가능|홈 이점을 활용한 타선 집중력으로 경기 주도권 확보 유리함|투타 조화가 리그 최상위권 수준으로 매우 안정적임"
+awayPower: "중심 타선인 페라자와 강백호의 의존도가 매우 높음|최근 10경기 1승으로 팀 전체적인 분위기 반전 절실함|원정 경기 시 마운드 불안 요소가 점수로 직결되는 패턴|득점력은 유지되나 실점 억제력이 부족해 뒷심 부족함|순위 경쟁보다는 개인 지표 상승에 집중하는 모습 보임"
+h2h: '[{"date":"26.09.18","home":"한화 이글스","away":"삼성 라이온스","score":"4-10","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918SSHH02026-2026-09-18-hanwha-eagles/"},{"date":"26.08.15","home":"삼성 라이온스","away":"한화 이글스","score":"11-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815HHSS02026-2026-08-15-samsung-lions/"},{"date":"26.08.14","home":"삼성 라이온스","away":"한화 이글스","score":"8-5","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814HHSS02026-2026-08-14-samsung-lions/"},{"date":"26.08.04","home":"삼성 라이온스","away":"한화 이글스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-181935-2026-08-04-samsung-lions/"},{"date":"26.06.21","home":"한화 이글스","away":"삼성 라이온스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-181773-2026-06-21-hanwha-eagles/"}]'
+summary: "삼성 라이온즈와 한화 이글스는 2026시즌 동안 꾸준히 맞붙으며 서로의 전력을 잘 파악하고 있는 상태입니다. 삼성 라이온즈는 리그 2위다운 안정적인 경기력과 화력을 앞세워 상위권의 면모를 꾸준히 보여주고 있으며, 특히 타선의 집중력이 매우 돋보입니다. 반면 한화 이글스는 페라자와 강백호 등 핵심 타자들의 기량은 뛰어나지만, 최근 투타 밸런스에서 다소 어려움을 겪으며 승수 쌓기에 고전하고 있습니다. 상대전적에서도 삼성 라이온즈가 우위를 점하고 있는 만큼, 이번 경기에서도 삼성 라이온즈가 본인들의 페이스를 유지하며 경기를 이끌어갈 가능성이 높습니다. 전력의 안정감과 시즌 흐름을 고려할 때 삼성 라이온즈가 우위를 점할 것으로 분석됩니다."
+homeRecent: '[{"date":"26.09.24","home":"SSG 랜더스","away":"삼성 라이온스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260924SSSK02026-2026-09-24-ssg-landers/"},{"date":"26.09.22","home":"삼성 라이온스","away":"NC 다이노스","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922NCSS02026-2026-09-22-samsung-lions/"},{"date":"26.09.20","home":"롯데 자이언츠","away":"삼성 라이온스","score":"13-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920SSLT02026-2026-09-20-lotte-giants/"},{"date":"26.09.19","home":"롯데 자이언츠","away":"삼성 라이온스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919SSLT02026-2026-09-19-lotte-giants/"},{"date":"26.09.18","home":"한화 이글스","away":"삼성 라이온스","score":"4-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918SSHH02026-2026-09-18-hanwha-eagles/"}]'
+awayRecent: '[{"date":"26.09.27","home":"롯데 자이언츠","away":"한화 이글스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260927HHLT02026-2026-09-27-lotte-giants/"},{"date":"26.09.26","home":"NC 다이노스","away":"한화 이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260926HHNC02026-2026-09-26-nc-dinos/"},{"date":"26.09.25","home":"NC 다이노스","away":"한화 이글스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260925HHNC02026-2026-09-25-nc-dinos/"},{"date":"26.09.23","home":"한화 이글스","away":"롯데 자이언츠","score":"5-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260923LTHH02026-2026-09-23-hanwha-eagles/"},{"date":"26.09.22","home":"한화 이글스","away":"롯데 자이언츠","score":"0-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922LTHH02026-2026-09-22-hanwha-eagles/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성 라이온즈"
+pickWinResult: "승"
+pickHandicapTeam: "삼성 라이온즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

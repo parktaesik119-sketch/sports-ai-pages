@@ -1,0 +1,37 @@
+---
+title: "요미우리 자이언츠 vs 히로시마 도요 카프 야구분석·승부예측 (9월 29일) - 픽천국"
+date: 2026-09-29T09:00:00.000Z
+description: "요미우리 자이언츠 vs 히로시마 도요 카프 야구분석: 2026시즌 전체 전력과 최근 타격 흐름을 종합했을 때, 요미우리 자이언츠가 홈의 이점을 살려 히로시마 도요 카프를 상대로 우… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20260929HIYO0-2026-09-29-yomiuri-giants"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "요미우리 자이언츠"
+awayTeam: "히로시마 도요 카프"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/YO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/HI.png"
+homeAnalysis: "요미우리 자이언츠는 2026시즌 동안 115경기에서 61승 52패의 성적을 기록하며 리그 상위권의 안정적인 전력을 유지하고 있습니다. 최근에는 야쿠르트 스왈로스를 상대로 대승을 거두는 등 타선의 파괴력이 정점에 도달한 상태입니다. 홈 경기장에서는 투타 밸런스가 조화를 이루며 쉽게 무너지지 않는 견고한 야구를 펼치고 있습니다. 시즌 내내 고른 득점 생산력을 보여주며 승부처마다 확실한 집중력을 발휘하는 점이 인상적입니다. 전력의 핵심인 타자들의 타격감이 올라와 있어 이번 경기도 다득점을 기대하기에 충분한 흐름을 이어가고 있습니다."
+awayAnalysis: "히로시마 도요 카프는 2026시즌 총 113경기에서 50승 59패를 기록하며 다소 기복 있는 시즌을 보내고 있습니다. 원정 경기에서 타선의 득점 지원이 홈에 비해 원활하지 않은 상황이며 투수진의 소모도가 높아진 상태입니다. 최근 10경기에서 5승 5패를 기록하며 분위기 반전을 노리고 있으나 일관된 경기력을 유지하는 데 어려움을 겪고 있습니다. 전력상 하위 타선의 부진이 이어지며 경기 중후반 득점권에서 해결사 부재가 아쉬움으로 남습니다. 이번 맞대결에서는 상대 투수를 공략하기 위한 전략적인 접근과 수비 집중력이 승패의 핵심이 될 것으로 보입니다."
+homePower: "홈에서 발휘되는 타선의 높은 집중력과 득점 생산력|최근 10경기 평균 득점 이상의 폭발적 타격 흐름|상대 투수 유형에 따른 유연한 타선 배치 전략|선발진의 이닝 소화력과 경기 중반 안정감 유지|안방에서 보여주는 투타 밸런스의 정교한 조화"
+awayPower: "원정 경기에서 발생하는 타선 응집력 부족 현상|최근 10경기 평균 득점 대비 아쉬운 득점권 효율|수비 집중력 저하로 인한 경기 후반 실점 패턴|상위 타선의존도가 높은 공격 구조의 경직성|투수진의 연투 피로 누적에 따른 제구 불안"
+h2h: '[{"date":"26.09.25","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925YOHI0-2026-09-25-hiroshima-carp/"},{"date":"26.09.24","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924YOHI0-2026-09-24-hiroshima-carp/"},{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"},{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"},{"date":"26.09.06","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"0-4","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260906YOHI0-2026-09-06-hiroshima-carp/"}]'
+summary: "2026시즌 전체 전력과 최근 타격 흐름을 종합했을 때, 요미우리 자이언츠가 홈의 이점을 살려 히로시마 도요 카프를 상대로 우위를 점할 가능성이 높습니다. 요미우리 자이언츠는 직전 경기에서 대량 득점을 뽑아내며 타격감이 매우 우수하며, 안방에서의 경기 운영 능력이 상대보다 한 수 위로 평가됩니다. 반면 히로시마 도요 카프는 원정에서의 득점력 빈곤과 더불어 투수진의 안정감이 요미우리에 비해 떨어지는 모습입니다. 이러한 전력 차이와 최근의 상승세를 고려할 때, 요미우리 자이언츠가 경기 주도권을 잡고 승리에 가까운 결과를 만들어낼 것으로 판단됩니다."
+homeRecent: '[{"date":"26.09.27","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"11-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927YAYO0-2026-09-27-yomiuri-giants/"},{"date":"26.09.25","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925YOHI0-2026-09-25-hiroshima-carp/"},{"date":"26.09.24","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924YOHI0-2026-09-24-hiroshima-carp/"},{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"},{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"}]'
+awayRecent: '[{"date":"26.09.27","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927HIYK0-2026-09-27-yokohama-baystars/"},{"date":"26.09.25","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925YOHI0-2026-09-25-hiroshima-carp/"},{"date":"26.09.24","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924YOHI0-2026-09-24-hiroshima-carp/"},{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"},{"date":"26.09.22","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922YOHI0-2026-09-22-hiroshima-carp/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "요미우리 자이언츠"
+pickWinResult: "승"
+pickHandicapTeam: "요미우리 자이언츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "5.5"
+pickOuDirection: "오버"
+---
