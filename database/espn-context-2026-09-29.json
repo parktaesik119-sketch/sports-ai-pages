@@ -1492,29 +1492,29 @@
     "injuries": {
       "home": [
         {
-          "name": "Landen Roupp",
-          "status": "Out",
-          "detail": "Not Specified"
+          "name": "Jung Hoo Lee",
+          "status": "10-Day-IL",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Willy Adames",
+          "status": "10-Day-IL",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Bryce Eldridge",
+          "status": "7-Day IL",
+          "detail": "Concussion"
+        },
+        {
+          "name": "Reiver Sanmartin",
+          "status": "15-Day-IL",
+          "detail": ""
         },
         {
           "name": "Nate Furman",
           "status": "10-Day-IL",
           "detail": "Strain"
-        },
-        {
-          "name": "JT Brubaker",
-          "status": "15-Day-IL",
-          "detail": "Bruise"
-        },
-        {
-          "name": "Matt Gage",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Jung Hoo Lee",
-          "status": "10-Day-IL",
-          "detail": "Bruise"
         }
       ],
       "away": [
@@ -1792,29 +1792,29 @@
     "injuries": {
       "home": [
         {
-          "name": "Brendan Donovan",
-          "status": "7-Day IL",
-          "detail": "Concussion"
-        },
-        {
-          "name": "Brennen Davis",
+          "name": "Luke Raley",
           "status": "60-Day-IL",
           "detail": "Strain"
         },
         {
-          "name": "Emerson Hancock",
-          "status": "15-Day-IL",
-          "detail": "Strain"
+          "name": "Kade Anderson",
+          "status": "Day-To-Day",
+          "detail": "Bruise"
         },
         {
-          "name": "Cole Wilcox",
+          "name": "Andres Munoz",
           "status": "15-Day-IL",
-          "detail": "Strain"
+          "detail": "Inflammation"
         },
         {
-          "name": "Will Wilson",
+          "name": "Brock Rodden",
+          "status": "10-Day-IL",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Nick Davila",
           "status": "60-Day-IL",
-          "detail": "Fracture"
+          "detail": "Sprain"
         }
       ],
       "away": [
@@ -2674,16 +2674,6 @@
       ],
       "away": [
         {
-          "name": "Esmerlyn Valdez",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Isaac Mattson",
-          "status": "15-Day-IL",
-          "detail": "Inflammation"
-        },
-        {
           "name": "Oneil Cruz",
           "status": "Day-To-Day",
           "detail": "Bruise"
@@ -2697,6 +2687,16 @@
           "name": "Braxton Ashcraft",
           "status": "15-Day-IL",
           "detail": "Soreness"
+        },
+        {
+          "name": "Esmerlyn Valdez",
+          "status": "10-Day-IL",
+          "detail": "Strain"
+        },
+        {
+          "name": "Isaac Mattson",
+          "status": "15-Day-IL",
+          "detail": "Inflammation"
         }
       ]
     },
@@ -3006,21 +3006,6 @@
       ],
       "away": [
         {
-          "name": "Kyle Higashioka",
-          "status": "10-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Carter Baumler",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
-          "name": "Jose Corniell",
-          "status": "60-Day-IL",
-          "detail": "Strain"
-        },
-        {
           "name": "Joc Pederson",
           "status": "10-Day-IL",
           "detail": "Fracture"
@@ -3029,6 +3014,21 @@
           "name": "Jack Leiter",
           "status": "60-Day-IL",
           "detail": "Surgery"
+        },
+        {
+          "name": "Michel Otanez",
+          "status": "15-Day-IL",
+          "detail": ""
+        },
+        {
+          "name": "Corey Seager",
+          "status": "Out",
+          "detail": "Bone Spur"
+        },
+        {
+          "name": "Josh Jung",
+          "status": "10-Day-IL",
+          "detail": "Fracture"
         }
       ]
     },
@@ -3809,29 +3809,29 @@
     "injuries": {
       "home": [
         {
-          "name": "Elvis Merzlikins",
+          "name": "William Villeneuve",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Max Domi",
           "status": "Injured Reserve",
           "detail": "Surgery"
         },
         {
           "name": "Dakota Joshua",
-          "status": "Out",
+          "status": "Injured Reserve",
           "detail": ""
+        },
+        {
+          "name": "Elvis Merzlikins",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
         },
         {
           "name": "Nick Paul",
           "status": "Day-To-Day",
           "detail": ""
-        },
-        {
-          "name": "William Villeneuve",
-          "status": "Out",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Max Domi",
-          "status": "Out",
-          "detail": "Surgery"
         }
       ],
       "away": [
@@ -3965,29 +3965,29 @@
     "injuries": {
       "home": [
         {
-          "name": "Elvis Merzlikins",
+          "name": "William Villeneuve",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Max Domi",
           "status": "Injured Reserve",
           "detail": "Surgery"
         },
         {
           "name": "Dakota Joshua",
-          "status": "Out",
+          "status": "Injured Reserve",
           "detail": ""
+        },
+        {
+          "name": "Elvis Merzlikins",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
         },
         {
           "name": "Nick Paul",
           "status": "Day-To-Day",
           "detail": ""
-        },
-        {
-          "name": "William Villeneuve",
-          "status": "Out",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Max Domi",
-          "status": "Out",
-          "detail": "Surgery"
         }
       ],
       "away": [
@@ -4177,12 +4177,12 @@
       "away": [
         {
           "name": "Vincent Iorio",
-          "status": "Day-To-Day",
+          "status": "Injured Reserve",
           "detail": ""
         },
         {
           "name": "Adam Sykora",
-          "status": "Out",
+          "status": "Injured Reserve",
           "detail": ""
         },
         {

@@ -2030,11 +2030,6 @@
           "name": "Steven Moreira",
           "status": "부상",
           "detail": "Early October 2026"
-        },
-        {
-          "name": "Wessam Abou Ali",
-          "status": "무릎 부상",
-          "detail": "Unknown"
         }
       ],
       "away": [
@@ -2061,11 +2056,6 @@
         {
           "name": "Dayne St. Clair",
           "status": "부상",
-          "detail": "Early October 2026"
-        },
-        {
-          "name": "Tadeo Allende",
-          "status": "무릎 부상",
           "detail": "Early October 2026"
         }
       ]
@@ -3679,7 +3669,7 @@
         "Sandro Tonali (MF)|https://images.fotmob.com/image_resources/playerimages/867414.png",
         "Davide Frattesi (MF)|https://images.fotmob.com/image_resources/playerimages/815431.png",
         "Nicolò Fagioli (MF)|https://images.fotmob.com/image_resources/playerimages/951712.png",
-        "Giacomo Raspadori (FW)|https://images.fotmob.com/image_resources/playerimages/951743.png",
+        "Giacomo Raspadori (MF)|https://images.fotmob.com/image_resources/playerimages/951743.png",
         "Francesco Pio Esposito (FW)|https://images.fotmob.com/image_resources/playerimages/1367618.png",
         "Sebastiano Esposito (FW)|https://images.fotmob.com/image_resources/playerimages/1030212.png"
       ]
@@ -3850,7 +3840,13 @@
     "date": "2026-09-28T18:45:00.000Z",
     "league": "UEFA Nations League B Grp. 2",
     "injuries": {
-      "home": [],
+      "home": [
+        {
+          "name": "Daniel Ballard",
+          "status": "햄스트링 부상",
+          "detail": "Doubtful"
+        }
+      ],
       "away": []
     },
     "h2h": [
@@ -5352,7 +5348,7 @@
         "Sayfallah Ltaief (FW)|https://images.fotmob.com/image_resources/playerimages/1167610.png",
         "Ferjani Sassi (MF)|https://images.fotmob.com/image_resources/playerimages/505866.png",
         "Aïssa Laïdouni (MF)|https://images.fotmob.com/image_resources/playerimages/715642.png",
-        "Ali Maâloul (DF)|https://images.fotmob.com/image_resources/playerimages/525489.png",
+        "Ali Maâloul (MF)|https://images.fotmob.com/image_resources/playerimages/525489.png",
         "Anis Ben Slimane (MF)|https://images.fotmob.com/image_resources/playerimages/1055316.png",
         "Hazem Mastouri (FW)|https://images.fotmob.com/image_resources/playerimages/1311408.png",
         "Ismaël Gharbi (MF)|https://images.fotmob.com/image_resources/playerimages/1244924.png"
@@ -6427,11 +6423,11 @@
         "Yonel Raddas (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Kenjy Montantin (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Fabien Geran (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Kendy Giblaca ()|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Mickaël Alphonse (DF)|https://images.fotmob.com/image_resources/playerimages/465965.png",
-        "Dwen Capraja (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Dwen Capraja ()|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Ange-Freddy Plumain (MF)|https://images.fotmob.com/image_resources/playerimages/395116.png",
-        "Kendy Giblaca (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
-        "Djamalee Boisne (MF)|https://images.fotmob.com/image_resources/playerimages/2297207.png",
+        "Djamalee Boisne (FW)|https://images.fotmob.com/image_resources/playerimages/2297207.png",
         "Taïryk Arconte (FW)|https://images.fotmob.com/image_resources/playerimages/1234653.png"
       ],
       "away": [
@@ -6439,18 +6435,18 @@
         "Raquan Clarke (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Shay Prescod (DF)|https://images.fotmob.com/image_resources/playerimages/1650191.png",
         "Tyrique Bailey-Edwards (DF)|https://images.fotmob.com/image_resources/playerimages/1767937.png",
-        "Jacob William Gollop (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Jacob William Gollop ()|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Andreas Applewhaite (DF)|https://images.fotmob.com/image_resources/playerimages/1261583.png",
+        "Tajio James (MF)|https://images.fotmob.com/image_resources/playerimages/1261587.png",
         "Jaheim Neblett (MF)|https://images.fotmob.com/image_resources/playerimages/1768315.png",
         "Jaylan Gilkes (MF)|https://images.fotmob.com/image_resources/playerimages/1767936.png",
-        "Andreas Applewhaite (MF)|https://images.fotmob.com/image_resources/playerimages/1261583.png",
-        "Tajio James (FW)|https://images.fotmob.com/image_resources/playerimages/1261587.png",
-        "Colin Griffith (FW)|https://images.fotmob.com/image_resources/playerimages/1899392.png",
-        "Jaron Oughterson (FW)|https://images.fotmob.com/image_resources/playerimages/1650189.png"
+        "Jaron Oughterson (MF)|https://images.fotmob.com/image_resources/playerimages/1650189.png",
+        "Colin Griffith (FW)|https://images.fotmob.com/image_resources/playerimages/1899392.png"
       ]
     },
     "formation": {
-      "home": "4-1-4-1",
-      "away": "3-4-3"
+      "home": "4-2-3-1",
+      "away": "5-4-1"
     },
     "coach": {
       "home": null,
@@ -6550,7 +6546,7 @@
         "Doneal Lionel (DF)|https://images.fotmob.com/image_resources/playerimages/1934543.png",
         "Terell Thomas (DF)|https://images.fotmob.com/image_resources/playerimages/589126.png",
         "Shaquan Nelson (DF)|https://images.fotmob.com/image_resources/playerimages/1650457.png",
-        "Melvin Doxilly (DF)|https://images.fotmob.com/image_resources/playerimages/1261465.png",
+        "Melvin Doxilly (MF)|https://images.fotmob.com/image_resources/playerimages/1261465.png",
         "Kurt Frederick (DF)|https://images.fotmob.com/image_resources/playerimages/501173.png",
         "Arkell Jude-Boyd (DF)|https://images.fotmob.com/image_resources/playerimages/1424756.png",
         "Caniggia Ginola Elva (FW)|https://images.fotmob.com/image_resources/playerimages/560114.png",
@@ -6677,7 +6673,7 @@
         "Marcos Campo (MF)|https://images.fotmob.com/image_resources/playerimages/1650488.png",
         "Dairon Reyes (FW)|https://images.fotmob.com/image_resources/playerimages/1196415.png",
         "Diego Catasus (MF)|https://images.fotmob.com/image_resources/playerimages/1768812.png",
-        "Yasnier Matos (MF)|https://images.fotmob.com/image_resources/playerimages/1240627.png",
+        "Yasnier Matos (FW)|https://images.fotmob.com/image_resources/playerimages/1240627.png",
         "Luis Paradela (FW)|https://images.fotmob.com/image_resources/playerimages/1056340.png"
       ],
       "away": [
@@ -6691,7 +6687,7 @@
         "Jaydelmar Jansen (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Berry Sonnenschein (MF)|https://images.fotmob.com/image_resources/playerimages/1374560.png",
         "Ninho Felicia (MF)|https://images.fotmob.com/image_resources/playerimages/2128837.png",
-        "Ayrton Cicilia (MF)|https://images.fotmob.com/image_resources/playerimages/1371884.png"
+        "Ayrton Cicilia (FW)|https://images.fotmob.com/image_resources/playerimages/1371884.png"
       ]
     },
     "formation": {
@@ -6832,7 +6828,7 @@
         "AJ Paterson (DF)|https://images.fotmob.com/image_resources/playerimages/1059682.png",
         "Jabari De Coteau (DF)|https://images.fotmob.com/image_resources/playerimages/1899033.png",
         "Myles Hippolyte (MF)|https://images.fotmob.com/image_resources/playerimages/564531.png",
-        "Kayden Harrack (DF)|https://images.fotmob.com/image_resources/playerimages/1189707.png",
+        "Kayden Harrack (MF)|https://images.fotmob.com/image_resources/playerimages/1189707.png",
         "Shavon John-Brown (FW)|https://images.fotmob.com/image_resources/playerimages/734911.png",
         "Caleb Redhead ()|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Jermaine Francis (FW)|https://images.fotmob.com/image_resources/playerimages/1532880.png",
@@ -6951,7 +6947,7 @@
         "Kenneth Paal (DF)|https://images.fotmob.com/image_resources/playerimages/564816.png",
         "Denilho Cleonise (FW)|https://images.fotmob.com/image_resources/playerimages/1108758.png",
         "Immanuël Pherai (MF)|https://images.fotmob.com/image_resources/playerimages/1071178.png",
-        "Ché Nunnely (MF)|https://images.fotmob.com/image_resources/playerimages/749490.png",
+        "Ché Nunnely (FW)|https://images.fotmob.com/image_resources/playerimages/749490.png",
         "Gyrano Kerk (FW)|https://images.fotmob.com/image_resources/playerimages/519134.png"
       ],
       "away": [
@@ -7380,12 +7376,12 @@
         "Allen Yanes (DF)|https://images.fotmob.com/image_resources/playerimages/725295.png",
         "Nicolás Samayoa (DF)|https://images.fotmob.com/image_resources/playerimages/928507.png",
         "José Morales (DF)|https://images.fotmob.com/image_resources/playerimages/1104411.png",
-        "Jorge Aparicio (MF)|https://images.fotmob.com/image_resources/playerimages/528123.png",
+        "Óscar Santis (MF)|https://images.fotmob.com/image_resources/playerimages/1204475.png",
         "José Rosales (MF)|https://images.fotmob.com/image_resources/playerimages/782403.png",
-        "Óscar Santis (FW)|https://images.fotmob.com/image_resources/playerimages/1204475.png",
+        "Jorge Aparicio (MF)|https://images.fotmob.com/image_resources/playerimages/528123.png",
         "William Fajardo (MF)|https://images.fotmob.com/image_resources/playerimages/971173.png",
-        "Rubio Rubín (FW)|https://images.fotmob.com/image_resources/playerimages/570980.png",
-        "Darwin Lom (FW)|https://images.fotmob.com/image_resources/playerimages/1131954.png"
+        "Darwin Lom (FW)|https://images.fotmob.com/image_resources/playerimages/1131954.png",
+        "Rubio Rubín (FW)|https://images.fotmob.com/image_resources/playerimages/570980.png"
       ],
       "away": [
         "Mario González (GK)|https://images.fotmob.com/image_resources/playerimages/1261973.png",
@@ -7394,15 +7390,15 @@
         "Jorge Cruz (DF)|https://images.fotmob.com/image_resources/playerimages/1309308.png",
         "Jefferson Valladares (DF)|https://images.fotmob.com/image_resources/playerimages/1356360.png",
         "Diego Flores (DF)|https://images.fotmob.com/image_resources/playerimages/1605562.png",
-        "Marcelo Díaz (MF)|https://images.fotmob.com/image_resources/playerimages/1214013.png",
-        "Christian Martínez (MF)|https://images.fotmob.com/image_resources/playerimages/708876.png",
         "Mauricio Cerritos (MF)|https://images.fotmob.com/image_resources/playerimages/1410063.png",
-        "Brayan Gil (FW)|https://images.fotmob.com/image_resources/playerimages/1080753.png",
-        "Rafael Tejada (MF)|https://images.fotmob.com/image_resources/playerimages/1397226.png"
+        "Christian Martínez (MF)|https://images.fotmob.com/image_resources/playerimages/708876.png",
+        "Marcelo Díaz (MF)|https://images.fotmob.com/image_resources/playerimages/1214013.png",
+        "Rafael Tejada (FW)|https://images.fotmob.com/image_resources/playerimages/1397226.png",
+        "Brayan Gil (FW)|https://images.fotmob.com/image_resources/playerimages/1080753.png"
       ]
     },
     "formation": {
-      "home": "4-2-3-1",
+      "home": "4-4-2",
       "away": "5-3-2"
     },
     "coach": {
@@ -7417,7 +7413,13 @@
     "league": "UEFA Nations League A Grp. 3",
     "injuries": {
       "home": [],
-      "away": []
+      "away": [
+        {
+          "name": "Nico O'Reilly",
+          "status": "근육 부상",
+          "detail": "About a week"
+        }
+      ]
     },
     "h2h": [
       {
@@ -9619,14 +9621,14 @@
         "Goitseone Phoko (GK)|https://images.fotmob.com/image_resources/playerimages/686288.png",
         "Alford Velaphi (DF)|https://images.fotmob.com/image_resources/playerimages/1034039.png",
         "Tebogo Kopelang (DF)|https://images.fotmob.com/image_resources/playerimages/1371208.png",
-        "Kitso Mangolo (DF)|https://images.fotmob.com/image_resources/playerimages/1240987.png",
         "Mosha Gaolaolwe (DF)|https://images.fotmob.com/image_resources/playerimages/579664.png",
+        "Kitso Mangolo (DF)|https://images.fotmob.com/image_resources/playerimages/1240987.png",
         "Olebogeng Ramotse (MF)|https://images.fotmob.com/image_resources/playerimages/1498335.png",
-        "Lebogang Ditsele (MF)|https://images.fotmob.com/image_resources/playerimages/598966.png",
+        "Godiraone Modingwane (MF)|https://images.fotmob.com/image_resources/playerimages/941962.png",
         "Gape Mohutsiwa (MF)|https://images.fotmob.com/image_resources/playerimages/938391.png",
+        "Thatayaone Kgamanyane (FW)|https://images.fotmob.com/image_resources/playerimages/854041.png",
         "Tumisang Orebonye (FW)|https://images.fotmob.com/image_resources/playerimages/854042.png",
-        "Thero Setsile (FW)|https://images.fotmob.com/image_resources/playerimages/854038.png",
-        "Thatayaone Kgamanyane (FW)|https://images.fotmob.com/image_resources/playerimages/854041.png"
+        "Thero Setsile (FW)|https://images.fotmob.com/image_resources/playerimages/854038.png"
       ],
       "away": [
         "Ernan (GK)|https://images.fotmob.com/image_resources/playerimages/1293548.png",
@@ -10450,7 +10452,7 @@
         {
           "name": "Victor Osimhen",
           "status": "근육 부상",
-          "detail": "Early October 2026"
+          "detail": "Doubtful"
         }
       ]
     },
@@ -11749,7 +11751,7 @@
         "Vilius Armalas (DF)|https://images.fotmob.com/image_resources/playerimages/948709.png",
         "Edgaras Utkus (DF)|https://images.fotmob.com/image_resources/playerimages/973827.png",
         "Artemijus Tutyškinas (DF)|https://images.fotmob.com/image_resources/playerimages/1281972.png",
-        "Adrian Lickūnas (FW)|https://images.fotmob.com/image_resources/playerimages/1841063.png",
+        "Adrian Lickūnas (MF)|https://images.fotmob.com/image_resources/playerimages/1841063.png",
         "Lukas Michelbrink (MF)|https://images.fotmob.com/image_resources/playerimages/1701764.png",
         "Gvidas Gineitis (MF)|https://images.fotmob.com/image_resources/playerimages/1421505.png",
         "Justas Lasickas (DF)|https://images.fotmob.com/image_resources/playerimages/652962.png",
@@ -12242,17 +12244,17 @@
     },
     "lineup": {
       "home": [
-        "Tomoki Hayakawa (GK)|https://images.fotmob.com/image_resources/playerimages/1232143.png",
+        "Leo Kokubo (GK)|https://images.fotmob.com/image_resources/playerimages/1155621.png",
+        "Tsuyoshi Watanabe (DF)|https://images.fotmob.com/image_resources/playerimages/1023887.png",
         "Ayumu Seko (DF)|https://images.fotmob.com/image_resources/playerimages/857120.png",
-        "Ko Itakura (DF)|https://images.fotmob.com/image_resources/playerimages/620917.png",
-        "Hiroki Ito (DF)|https://images.fotmob.com/image_resources/playerimages/851626.png",
-        "Kuryu Matsuki (MF)|https://images.fotmob.com/image_resources/playerimages/1336906.png",
-        "Kaishu Sano (MF)|https://images.fotmob.com/image_resources/playerimages/1033111.png",
-        "Kodai Sano (MF)|https://images.fotmob.com/image_resources/playerimages/1337282.png",
-        "Keito Nakamura (MF)|https://images.fotmob.com/image_resources/playerimages/887704.png",
-        "Ritsu Doan (MF)|https://images.fotmob.com/image_resources/playerimages/629805.png",
-        "Yuito Suzuki (MF)|https://images.fotmob.com/image_resources/playerimages/1134467.png",
-        "Daizen Maeda (FW)|https://images.fotmob.com/image_resources/playerimages/728765.png"
+        "Junnosuke Suzuki (DF)|https://images.fotmob.com/image_resources/playerimages/1337765.png",
+        "Shuto Nakano (MF)|https://images.fotmob.com/image_resources/playerimages/1337750.png",
+        "Koki Kumasaka (MF)|https://images.fotmob.com/image_resources/playerimages/1611173.png",
+        "Daichi Kamada (MF)|https://images.fotmob.com/image_resources/playerimages/621515.png",
+        "Yuki Soma (MF)|https://images.fotmob.com/image_resources/playerimages/955320.png",
+        "Ryunosuke Sato (MF)|https://images.fotmob.com/image_resources/playerimages/1611149.png",
+        "Shunsuke Saito (FW)|https://images.fotmob.com/image_resources/playerimages/1611437.png",
+        "Keisuke Goto (FW)|https://images.fotmob.com/image_resources/playerimages/1436730.png"
       ],
       "away": [
         "Hernán Galindez (GK)|https://images.fotmob.com/image_resources/playerimages/146801.png",

@@ -2388,8 +2388,8 @@
     "away": "Bermuda",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/127408.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5943.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5991924",
@@ -2414,8 +2414,8 @@
     "away": "Grenada",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5924.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6548.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5991894",
@@ -2440,8 +2440,8 @@
     "away": "Honduras",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5806.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5808.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5991893",
@@ -2453,8 +2453,8 @@
     "away": "El Salvador",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5858.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6327.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 0
   },
   {
     "id": "fotmob-4785797",
@@ -2843,8 +2843,8 @@
     "away": "Toluca (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980708.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980694.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "id": "fotmob-5954345",
@@ -2856,8 +2856,8 @@
     "away": "Independiente de La Chorrera",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165473.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/464250.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5144772",
@@ -3982,24 +3982,11 @@
     "sport": "soccer",
     "country": "El Salvador",
     "league": "Primera Division - Apertura",
-    "date": "2026-09-29T21:30:00.000Z",
+    "date": "2026-09-29T17:00:00.000Z",
     "home": "Atletico Balboa",
     "away": "CD Cacahuatique",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/136492.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1662005.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5962437",
-    "sport": "soccer",
-    "country": "El Salvador",
-    "league": "Primera Division - Apertura",
-    "date": "2026-09-29T21:30:00.000Z",
-    "home": "CD Águila",
-    "away": "Inter Santa Tecla",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49739.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1783449.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -4849,11 +4836,24 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-5962437",
+    "sport": "soccer",
+    "country": "El Salvador",
+    "league": "Primera Division - Apertura",
+    "date": "2026-09-30T18:30:00.000Z",
+    "home": "CD Águila",
+    "away": "Inter Santa Tecla",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49739.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1783449.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-5962439",
     "sport": "soccer",
     "country": "El Salvador",
     "league": "Primera Division - Apertura",
-    "date": "2026-09-30T21:30:00.000Z",
+    "date": "2026-09-30T21:00:00.000Z",
     "home": "Alianza FC",
     "away": "CD Platense Municipal",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49740.png",
@@ -4862,15 +4862,15 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-5962440",
+    "id": "fotmob-5962442",
     "sport": "soccer",
     "country": "El Salvador",
     "league": "Primera Division - Apertura",
-    "date": "2026-10-01T01:00:00.000Z",
-    "home": "CD FAS",
-    "away": "Isidro Metapan",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49742.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49746.png",
+    "date": "2026-09-30T21:30:00.000Z",
+    "home": "Inca Aruba",
+    "away": "Municipal Limeno",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2096787.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/179505.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -5990,7 +5990,7 @@
     "homeLogo": "https://highlightly.net/hockey/images/teams/14400.png",
     "awayLogo": null,
     "homeScore": 5,
-    "awayScore": 3
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-366350327",
@@ -6691,55 +6691,55 @@
     "away": "Malaysia",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133697/255px_flag_of_the_united_arab_emirates.svg.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/131002/malaysia__2528_national_team_2529logo_square.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
-    "id": "panda-1699482",
-    "sport": "lol",
-    "league": "Asian Games",
-    "date": "2026-09-29T02:30:00Z",
-    "home": "Vietnam",
-    "away": "Malaysia",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/131007/vietnam_flag.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/131002/malaysia__2528_national_team_2529logo_square.png",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0
   },
   {
     "id": "panda-1699481",
     "sport": "lol",
     "league": "Asian Games",
-    "date": "2026-09-29T02:30:00Z",
+    "date": "2026-09-29T02:39:36Z",
     "home": "Saudi Arabia",
     "away": "United Arab Emirates",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133303/saudi_arabia__2528_national_team_2529logo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133697/255px_flag_of_the_united_arab_emirates.svg.png",
-    "homeScore": 0,
+    "homeScore": 1,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1699482",
+    "sport": "lol",
+    "league": "Asian Games",
+    "date": "2026-09-29T02:44:16Z",
+    "home": "Vietnam",
+    "away": "Malaysia",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/131007/vietnam_flag.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/131002/malaysia__2528_national_team_2529logo_square.png",
+    "homeScore": 1,
     "awayScore": 0
   },
   {
     "id": "panda-1699484",
     "sport": "lol",
     "league": "Asian Games",
-    "date": "2026-09-29T05:00:00Z",
+    "date": "2026-09-29T04:57:04Z",
     "home": "Vietnam",
     "away": "United Arab Emirates",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/131007/vietnam_flag.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133697/255px_flag_of_the_united_arab_emirates.svg.png",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0
   },
   {
     "id": "panda-1699483",
     "sport": "lol",
     "league": "Asian Games",
-    "date": "2026-09-29T05:00:00Z",
+    "date": "2026-09-29T04:57:08Z",
     "home": "Saudi Arabia",
     "away": "Malaysia",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133303/saudi_arabia__2528_national_team_2529logo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/131002/malaysia__2528_national_team_2529logo_square.png",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0
   },
   {
