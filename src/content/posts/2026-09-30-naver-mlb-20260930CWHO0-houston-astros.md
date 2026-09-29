@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.28","home":"애슬레틱스","away":"휴스턴 애�
 awayRecent: '[{"date":"26.09.28","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928COCW0-2026-09-28-chicago-white-sox/"},{"date":"26.09.27","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927COCW0-2026-09-27-chicago-white-sox/"},{"date":"26.09.26","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926COCW0-2026-09-26-chicago-white-sox/"},{"date":"26.09.25","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CWKC0-2026-09-25-kansas-city-royals/"},{"date":"26.09.24","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CWKC0-2026-09-24-kansas-city-royals/"}]'
 injuryHome: "Mike Burrows (염증)|Steven Okert (긴장)|Daulton Varsho (염증)|Brice Matthews (염증)|Enyel De Los Santos (건염)"
 injuryAway: "Chase Meidroth (경미)|Jake Rogers (출산)|Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Blubaugh|https://a.espncdn.com/i/headshots/mlb/players/full/42556.png\"]"
+awayLineup: "[\"선발투수 H. Smith|https://a.espncdn.com/i/headshots/mlb/players/full/5023126.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

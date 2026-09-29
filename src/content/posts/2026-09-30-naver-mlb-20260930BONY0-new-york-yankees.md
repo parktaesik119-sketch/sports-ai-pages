@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"뉴욕 양키즈","away":"볼티모어 
 awayRecent: '[{"date":"26.09.28","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928CCBO0-2026-09-28-boston-red-sox/"},{"date":"26.09.26","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CCBO2-2026-09-26-boston-red-sox/"},{"date":"26.09.25","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CLBO0-2026-09-25-boston-red-sox/"},{"date":"26.09.24","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CLBO0-2026-09-24-boston-red-sox/"},{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"}]'
 injuryHome: "Aaron Judge (근육 긴장)|Giancarlo Stanton (근육 긴장)|Ryan Weathers (근육 긴장)|Trent Grisham (근육 긴장)|Clarke Schmidt (신경 눌림)"
 injuryAway: "Garrett Crochet (근육 긴장)|Johan Oviedo (근육 긴장)|Anthony Seigler (염증)|Masataka Yoshida (근육 긴장)|Zack Kelly (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 M. Fried|https://a.espncdn.com/i/headshots/mlb/players/full/32685.png\"]"
+awayLineup: "[\"선발투수 S. Gray|https://a.espncdn.com/i/headshots/mlb/players/full/32082.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

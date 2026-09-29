@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.28","home":"마이애미 말린스","away":"애틀�
 awayRecent: '[{"date":"26.09.28","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928TBPH0-2026-09-28-philadelphia-phillies/"},{"date":"26.09.27","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"1-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927TBPH0-2026-09-27-philadelphia-phillies/"},{"date":"26.09.26","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926TBPH0-2026-09-26-philadelphia-phillies/"},{"date":"26.09.25","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925MIPH0-2026-09-25-philadelphia-phillies/"},{"date":"26.09.24","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924MIPH0-2026-09-24-philadelphia-phillies/"}]'
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Bryce Elder (수술)|Lane Thomas (부상)|Martin Perez (염증)"
 injuryAway: "Jonathan Bowlan (부상)|Luis Arraez (염자)|Caleb Kilian (부상)|Felix Reyes (골절)|Johan Rojas (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Sale|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\"]"
+awayLineup: "[\"선발투수 J. Luzardo|https://a.espncdn.com/i/headshots/mlb/players/full/39667.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
