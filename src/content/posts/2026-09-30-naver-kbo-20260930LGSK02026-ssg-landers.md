@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs LG 트윈스 야구분석·승부예측 (9월 30일) - 픽천국"
+date: 2026-09-30T09:30:00.000Z
+description: "SSG 랜더스 vs LG 트윈스 야구분석: 양 팀의 시즌 순위와 전반적인 투타 밸런스를 고려했을 때 LG 트윈스가 조금 더 우위에 있다고 판단됩니다. SSG 랜더스는 아… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20260930LGSK02026-2026-09-30-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "LG 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LG.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 109경기에서 43승 61패를 기록하며 리그 8위에 머물러 있습니다. 시즌 평균 4.7득점을 생산하고 있으나, 최근 10경기에서는 평균 3.6득점에 그치며 다소 저조한 득점력을 보이고 있습니다. 선발투수 아빌라는 1.62의 낮은 평균자책점과 11번의 퀄리티 스타트를 기록하며 팀 내 가장 안정적인 전력으로 자리 잡았습니다. 다만 팀 전체적인 승률이 낮아 아빌라의 호투가 승리로 직결되지 않는 경우가 잦다는 점이 아쉽습니다. 하위 타선의 생산력이 다소 정체되어 있어 상위 타순의 집중력이 경기 흐름을 좌우할 것으로 보입니다."
+awayAnalysis: "LG 트윈스는 2026시즌 109경기에서 60승 47패의 준수한 성적을 거두며 리그 3위를 달리고 있습니다. 시즌 평균 5.2득점을 기록할 만큼 짜임새 있는 공격력을 보유하고 있으며, 최근 10경기에서도 평균 5.5득점을 뽑아내며 좋은 타격감을 유지 중입니다. 선발로 나서는 톨허스트는 27경기에서 16번의 퀄리티 스타트를 달성하는 등 많은 이닝을 소화해주며 마운드의 중심을 잡고 있습니다. 오스틴과 송찬의 등 핵심 타자들의 타점 생산 능력이 리그 상위 수준이라 경기 중반 이후 높은 득점 기대치를 보여줍니다. 비록 외야수 홍창기의 부상 이탈이라는 변수가 존재하지만, 팀 전체의 전력 밸런스는 매우 안정적입니다."
+homePower: "아빌라의 1.62 방어율과 11회 QS로 입증된 마운드 안정감|박성한 중심 상위 타선의 높은 WAR로 버티는 득점 라인|시즌 8위의 성적이 증명하는 투타 밸런스의 불안 요소|최근 10경기 3.6득점으로 가라앉은 타격 흐름|홈에서의 경기력 기복이 승패의 큰 변수로 작용함"
+awayPower: "오스틴과 송찬의를 필두로 한 리그 상위급 득점 생산력|톨허스트의 16회 QS가 말해주는 이닝 소화와 안정감|리그 3위다운 경기 운영 능력과 상위권의 투타 조화|외야 핵심 자원 홍창기의 부상 공백을 메울 뎁스|최근 10경기 7승으로 증명된 상승세와 화력 집중력"
+h2h: '[{"date":"26.08.16","home":"LG 트윈스","away":"SSG 랜더스","score":"0-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260816SKLG02026-2026-08-16-lg-twins/"},{"date":"26.08.15","home":"LG 트윈스","away":"SSG 랜더스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260815SKLG02026-2026-08-15-lg-twins/"},{"date":"26.08.14","home":"LG 트윈스","away":"SSG 랜더스","score":"3-5","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260814SKLG02026-2026-08-14-lg-twins/"},{"date":"26.08.04","home":"SSG 랜더스","away":"LG 트윈스","score":"10-8","link":"https://pick79.com/posts/detail/analyze-181936-2026-08-04-ssg-landers/"},{"date":"26.06.11","home":"LG 트윈스","away":"SSG 랜더스","score":"15-1","link":"https://pick79.com/posts/detail/analyze-181730-2026-06-11-lg-twins/"}]'
+summary: "양 팀의 시즌 순위와 전반적인 투타 밸런스를 고려했을 때 LG 트윈스가 조금 더 우위에 있다고 판단됩니다. SSG 랜더스는 아빌라라는 확실한 에이스를 보유하고 있어 선발 싸움에서는 대등할 것으로 보이나, 최근 타격 지표와 시즌 전체의 생산력을 비교하면 LG 트윈스의 화력이 더 짜임새 있게 느껴집니다. LG 트윈스는 오스틴을 필두로 한 타선의 집중력이 경기 후반으로 갈수록 위력을 발휘하고 있어 SSG 랜더스의 수비진을 충분히 압박할 수 있을 것으로 예상됩니다. 전체적인 공수 조화와 최근의 승리 흐름을 볼 때 LG 트윈스가 이번 맞대결에서 우위를 점하며 경기를 주도할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.24","home":"SSG 랜더스","away":"삼성 라이온스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260924SSSK02026-2026-09-24-ssg-landers/"},{"date":"26.09.22","home":"SSG 랜더스","away":"KT 위즈","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922KTSK02026-2026-09-22-ssg-landers/"},{"date":"26.09.20","home":"SSG 랜더스","away":"키움 히어로즈","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920WOSK02026-2026-09-20-ssg-landers/"},{"date":"26.09.17","home":"NC 다이노스","away":"SSG 랜더스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917SKNC02026-2026-09-17-nc-dinos/"},{"date":"26.09.16","home":"롯데 자이언츠","away":"SSG 랜더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SKLT02026-2026-09-16-lotte-giants/"}]'
+awayRecent: '[{"date":"26.09.26","home":"KIA 타이거즈","away":"LG 트윈스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260926LGHT02026-2026-09-26-kia-tigers/"},{"date":"26.09.24","home":"LG 트윈스","away":"롯데 자이언츠","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260924LTLG02026-2026-09-24-lg-twins/"},{"date":"26.09.20","home":"LG 트윈스","away":"한화 이글스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920HHLG02026-2026-09-20-lg-twins/"},{"date":"26.09.19","home":"LG 트윈스","away":"한화 이글스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919HHLG02026-2026-09-19-lg-twins/"},{"date":"26.09.18","home":"KT 위즈","away":"LG 트윈스","score":"1-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260918LGKT02026-2026-09-18-kt-wiz-suwon/"}]'
+injuryHome: "없음"
+injuryAway: "홍창기 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LG 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "LG 트윈스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

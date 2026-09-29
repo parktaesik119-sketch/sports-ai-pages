@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 시카고 컵스 야구분석·승부예측 (9월 30일) - 픽천국"
+date: 2026-09-30T02:00:00.000Z
+description: "샌디에이고 파드리스 vs 시카고 컵스 야구분석: 샌디에이고 파드리스와 시카고 컵스는 리그 상위권에서 경쟁하는 팀들로 시즌 전체 지표상 팽팽한 전력을 보유하고 있습니다. 다만 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260930CCSD0-2026-09-30-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "시카고 컵스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CC.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 91승 71패, 승률 .562를 기록하며 현재 리그순위 4위로 안정적인 시즌을 보냈습니다. 최근 10경기에서 7승 3패를 거두며 높은 승률을 유지하고 있으며, 공수 양면에서 짜임새 있는 경기력을 발휘 중입니다. 특히 득점 지원이 원활할 때 홈에서의 집중력이 돋보이며, 상위권 팀들과의 대결에서도 밀리지 않는 저력을 보여줍니다. 비록 주요 부상자들이 존재하지만, 탄탄한 투수진 운영을 바탕으로 경기를 주도하는 능력이 매우 뛰어난 팀입니다. 시즌 막판까지 기복 없는 전력을 선보이며 포스트시즌을 향한 강한 의지를 드러내고 있습니다."
+awayAnalysis: "시카고 컵스는 2026시즌 89승 73패, 승률 .549를 기록하며 현재 리그순위 5위로 시즌을 소화하고 있습니다. 최근 10경기에서 5승 5패로 다소 고전하는 흐름이지만, 시즌 전체 득실 마진이 +147.0에 달할 만큼 폭발적인 득점력을 갖춘 팀입니다. 원정 경기에서도 특유의 타격 집중력을 유지하며 상대 마운드를 압박하는 양상을 자주 보여줍니다. 상대전적에서 올 시즌 5승 1패로 확실한 우위를 점하고 있어 심리적인 자신감이 매우 높습니다. 핵심 전력의 이탈에도 불구하고 득점권에서의 파괴력은 여전히 리그 정상급 수준으로 평가됩니다."
+homePower: "홈 구장에서의 안정적인 마운드 운영|상위권 경쟁 팀 상대 높은 집중력 유지|부상 이탈에도 투수진의 깊이로 대응|타선의 응집력을 통한 꾸준한 득점|공수 밸런스 기반의 견고한 팀 체질"
+awayPower: "올 시즌 상대전적 5승 1패의 압도적 우위|강력한 타선을 앞세운 높은 득점 기대치|원정 경기에서도 흔들리지 않는 득점력|상대 수비를 압박하는 기동성 있는 야구|핵심 득점 생산력을 통한 승리 방식 구축"
+h2h: '[{"date":"26.07.02","home":"시카고 컵스","away":"샌디에이고 파드리스","score":"23-3","link":"https://pick79.com/posts/detail/analyze-179311-2026-07-02-chicago-cubs/"},{"date":"26.07.01","home":"시카고 컵스","away":"샌디에이고 파드리스","score":"9-7","link":"https://pick79.com/posts/detail/analyze-179281-2026-06-30-chicago-cubs/"},{"date":"26.06.30","home":"시카고 컵스","away":"샌디에이고 파드리스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-179281-2026-06-30-chicago-cubs/"},{"date":"26.04.30","home":"샌디에이고 파드리스","away":"시카고 컵스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-178458-2026-04-30-san-diego-padres/"},{"date":"26.04.29","home":"샌디에이고 파드리스","away":"시카고 컵스","score":"3-8","link":"https://pick79.com/posts/detail/analyze-178435-2026-04-28-san-diego-padres/"}]'
+summary: "샌디에이고 파드리스와 시카고 컵스는 리그 상위권에서 경쟁하는 팀들로 시즌 전체 지표상 팽팽한 전력을 보유하고 있습니다. 다만 이번 시즌 상대전적에서 시카고 컵스가 5승 1패로 확실한 상성 우위를 점하고 있다는 점은 이번 경기의 가장 큰 변수가 될 것입니다. 샌디에이고 파드리스는 최근의 상승세를 바탕으로 홈 이점을 극대화하려 하겠지만, 시카고 컵스의 폭발적인 타격 생산력을 제어하는 것이 관건입니다. 두 팀 모두 공수에서 뛰어난 지표를 보여주고 있으나, 상대전적에서 드러난 득점 분포와 압박감은 시카고 컵스에게 승리의 가능성을 높여주는 요소로 보입니다. 접전이 예상되는 경기 속에서도 시카고 컵스가 우위를 점하며 경기를 풀어갈 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.28","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928AZSD0-2026-09-28-san-diego-padres/"},{"date":"26.09.26","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926AZSD0-2026-09-26-san-diego-padres/"},{"date":"26.09.25","home":"LA 다저스","away":"샌디에이고 파드리스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SDLA0-2026-09-25-los-angeles-dodgers/"},{"date":"26.09.24","home":"LA 다저스","away":"샌디에이고 파드리스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SDLA0-2026-09-24-los-angeles-dodgers/"},{"date":"26.09.23","home":"LA 다저스","away":"샌디에이고 파드리스","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923SDLA0-2026-09-23-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.09.28","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928CCBO0-2026-09-28-boston-red-sox/"},{"date":"26.09.26","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CCBO2-2026-09-26-boston-red-sox/"},{"date":"26.09.25","home":"시카고 컵스","away":"마이애미 말린스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925FLCC0-2026-09-25-chicago-cubs/"},{"date":"26.09.24","home":"시카고 컵스","away":"마이애미 말린스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924FLCC0-2026-09-24-chicago-cubs/"},{"date":"26.09.23","home":"시카고 컵스","away":"마이애미 말린스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923FLCC0-2026-09-23-chicago-cubs/"}]'
+injuryHome: "Joe Musgrove (염증)|Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Casey Mize (염좌)"
+injuryAway: "Justin Steele (수술)|Edward Cabrera (상주)|Kevin Gausman (통증)|Trent Thornton (통증)|Phil Maton (염좌)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 컵스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 컵스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "오버"
+---

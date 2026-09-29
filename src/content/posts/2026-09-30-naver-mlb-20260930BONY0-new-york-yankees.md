@@ -1,0 +1,37 @@
+---
+title: "뉴욕 양키즈 vs 보스턴 레드삭스 야구분석·승부예측 (9월 30일) - 픽천국"
+date: 2026-09-30T00:00:00.000Z
+description: "뉴욕 양키즈 vs 보스턴 레드삭스 야구분석: 뉴욕 양키즈는 리그순위 2위의 위상에 걸맞은 짜임새 있는 경기력을 시즌 내내 보여주고 있으며, 최근 흐름에서도 7승 3패를 기… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20260930BONY0-2026-09-30-new-york-yankees"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "뉴욕 양키즈"
+awayTeam: "보스턴 레드삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/NY.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/BO.png"
+homeAnalysis: "뉴욕 양키즈는 2026시즌 121경기에서 71승 46패, 승률 .607을 기록하며 현재 리그순위 2위로 매우 안정적인 시즌을 보내고 있습니다. 최근 흐름 또한 10경기 7승 3패로 상승세를 유지하고 있으며, 시즌 내내 높은 득점 생산력을 바탕으로 승수를 쌓아왔습니다. 특히 홈에서의 강점은 강력한 타선과 조화를 이루며 상대 투수진을 압박하는 요인이 되고 있습니다. 주전 선수들의 부상 이탈에도 불구하고 두터운 선수층을 통해 공백을 효과적으로 메우며 상위권 전력을 유지하는 모습이 돋보입니다. 투타 밸런스가 조화로운 운영으로 매 경기 집중력을 발휘하는 점이 이번 경기의 가장 큰 강점입니다."
+awayAnalysis: "보스턴 레드삭스는 2026시즌 126경기에서 68승 56패, 승률 .548을 기록하며 리그순위 3위에 올라 있습니다. 최근 10경기에서 4승 6패로 다소 주춤한 흐름을 보이고 있는데, 특히 빈약한 득점 지원이 발목을 잡는 경우가 많아졌습니다. 투수진이 분전하고 있음에도 타선의 응집력 부족이 반복되며 순위 싸움에서 고전하는 양상을 보입니다. 시즌 전체적으로는 경쟁력 있는 전력을 갖추었으나, 원정 길에서의 기복이 최근 경기력 하락과 맞물려 고민이 깊어지는 상황입니다. 상위권 도약을 위해 타선의 집중력 회복이 무엇보다 시급한 시점입니다."
+homePower: "홈에서 구축한 탄탄한 승률은 리그 최상위권의 안정감을 증명함|주요 타자 부상에도 높은 득점력을 유지하는 뎁스의 힘|최근 10경기 중 7승을 거두며 상위권 유지의 저력 입증|상대 투수진을 끈질기게 공략하는 타격 집중력 탁월함|리그순위 2위가 말해주듯 투타 조화가 완벽하게 검증됨"
+awayPower: "최근 10경기 평균 득점 2.0으로 타격 슬럼프 명확함|원정 경기에서 드러나는 타선의 기복이 승수 쌓기의 변수|리그순위 3위지만 1, 2위와의 격차를 줄일 화력이 부족함|투수진의 분전이 타선의 득점 지원 부족으로 상쇄됨|최근 하락세 속에서 반등을 위한 공격 루트 다변화 필요"
+h2h: '[{"date":"26.08.31","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"16-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260831BONY0-2026-08-31-new-york-yankees/"},{"date":"26.08.30","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"9-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830BONY2-2026-08-30-new-york-yankees/"},{"date":"26.08.30","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"0-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260830BONY2-2026-08-30-new-york-yankees/"},{"date":"26.08.29","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260829BONY0-2026-08-29-new-york-yankees/"},{"date":"26.06.29","home":"보스턴 레드삭스","away":"뉴욕 양키즈","score":"5-4","link":"https://pick79.com/posts/detail/analyze-179272-2026-06-29-boston-red-sox/"}]'
+summary: "뉴욕 양키즈는 리그순위 2위의 위상에 걸맞은 짜임새 있는 경기력을 시즌 내내 보여주고 있으며, 최근 흐름에서도 7승 3패를 기록하며 상승세를 타고 있습니다. 반면 보스턴 레드삭스는 리그순위 3위로 전력상 크게 밀리지는 않지만, 최근 10경기에서 평균 2득점에 그치는 빈타에 시달리며 하락세를 겪고 있습니다. 양 팀의 상대 전적에서도 뉴욕 양키즈가 시즌 시리즈 7-6으로 근소한 우위를 점하고 있으며, 특히 최근 맞대결에서 보여준 뉴욕 양키즈의 폭발적인 득점 지원은 이번 경기에서도 두 팀의 전력 차이를 결정짓는 핵심 요소가 될 것으로 보입니다. 전반적인 투타 밸런스와 최근의 득점 페이스를 고려할 때, 홈에서 경기를 치르는 뉴욕 양키즈가 안정적인 경기 운영을 통해 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.09.26","home":"뉴욕 양키즈","away":"볼티모어 오리올스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926BANY2-2026-09-26-new-york-yankees/"},{"date":"26.09.25","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925TBNY0-2026-09-25-new-york-yankees/"},{"date":"26.09.24","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TBNY0-2026-09-24-new-york-yankees/"},{"date":"26.09.23","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"1-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923TBNY2-2026-09-23-new-york-yankees/"},{"date":"26.09.21","home":"애리조나 다이아몬드백스","away":"뉴욕 양키즈","score":"8-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260921NYAZ0-2026-09-21-arizona-diamondbacks/"}]'
+awayRecent: '[{"date":"26.09.28","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928CCBO0-2026-09-28-boston-red-sox/"},{"date":"26.09.26","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CCBO2-2026-09-26-boston-red-sox/"},{"date":"26.09.25","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CLBO0-2026-09-25-boston-red-sox/"},{"date":"26.09.24","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CLBO0-2026-09-24-boston-red-sox/"},{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"}]'
+injuryHome: "Aaron Judge (근육 긴장)|Giancarlo Stanton (근육 긴장)|Ryan Weathers (근육 긴장)|Trent Grisham (근육 긴장)|Clarke Schmidt (신경 눌림)"
+injuryAway: "Garrett Crochet (근육 긴장)|Johan Oviedo (근육 긴장)|Anthony Seigler (염증)|Masataka Yoshida (근육 긴장)|Zack Kelly (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 양키즈"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 양키즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "오버"
+---
