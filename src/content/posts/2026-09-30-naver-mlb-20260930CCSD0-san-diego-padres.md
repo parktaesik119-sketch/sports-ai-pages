@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.28","home":"보스턴 레드삭스","away":"시카�
 injuryHome: "Joe Musgrove (염증)|Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Casey Mize (염좌)"
 injuryAway: "Justin Steele (수술)|Edward Cabrera (상주)|Kevin Gausman (통증)|Trent Thornton (통증)|Phil Maton (염좌)"
 homeLineup: "[\"선발투수 N. Pivetta|https://a.espncdn.com/i/headshots/mlb/players/full/36071.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 K. Gausman|https://a.espncdn.com/i/headshots/mlb/players/full/32667.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
