@@ -1140,8 +1140,8 @@
     "away": "Chile",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "fotmob-6280444",
@@ -1153,8 +1153,8 @@
     "away": "Peru",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6280446",
@@ -1387,8 +1387,8 @@
     "away": "China U23",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/300702.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/317240.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6326517",
@@ -1465,8 +1465,8 @@
     "away": "Saint Vincent and The Grenadines",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/127409.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5923.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5991946",
@@ -1885,19 +1885,6 @@
     "awayScore": 1
   },
   {
-    "id": "fotmob-5949251",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Northern Premier Division",
-    "date": "2026-09-29T18:45:00.000Z",
-    "home": "Warrington Town",
-    "away": "Gainsborough",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/282389.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6450.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-5949250",
     "sport": "soccer",
     "country": "England",
@@ -2232,8 +2219,8 @@
     "away": "Millonarios",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2528.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4403.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000013731",
@@ -2245,8 +2232,8 @@
     "away": "Real Cartagena",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4408.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7731.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000021929",
@@ -4099,7 +4086,7 @@
     "sport": "soccer",
     "country": "Ghana",
     "league": "Premier League",
-    "date": "2026-10-01T15:00:00.000Z",
+    "date": "2026-10-01T16:00:00.000Z",
     "home": "Asante Kotoko SC",
     "away": "Karela United",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102018.png",
@@ -4130,19 +4117,6 @@
     "away": "Municipal Limeno",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2096787.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/179505.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5911214",
-    "sport": "soccer",
-    "country": "Germany",
-    "league": "Regionalliga West",
-    "date": "2026-10-02T14:00:00.000Z",
-    "home": "Schalke 04 II",
-    "away": "FC Köln II",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8198.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8459.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -4611,8 +4585,8 @@
     "away": "Boston Red Sox",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/NY.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/BO.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 9,
+    "awayScore": 0
   },
   {
     "id": "naver-mlb-20260930CCSD0",
@@ -4624,8 +4598,8 @@
     "away": "Chicago Cubs",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SD.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CC.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 8,
+    "awayScore": 0
   },
   {
     "id": "naver-npb-20260930JLRT0",
@@ -4767,8 +4741,8 @@
     "away": "Montreal Canadiens",
     "homeLogo": "https://highlightly.net/hockey/images/teams/596484.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/586272.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-366352880",
@@ -4871,8 +4845,8 @@
     "away": "Chicago Blackhawks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/598186.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/577762.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378356235",
@@ -4884,8 +4858,8 @@
     "away": "Vancouver Canucks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/582017.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/597335.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 6
   },
   {
     "id": "highlightly-hockey-378355384",
@@ -4897,8 +4871,8 @@
     "away": "New York Rangers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/573507.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/589676.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-366355433",
@@ -5585,7 +5559,7 @@
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133290/indialogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133296/team_hong_konglogo_square.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "panda-1699490",
@@ -5600,70 +5574,70 @@
     "awayScore": 0
   },
   {
-    "id": "panda-1699492",
-    "sport": "lol",
-    "league": "Asian Games",
-    "date": "2026-09-30T02:30:00Z",
-    "home": "Hong Kong",
-    "away": "Chinese Taipei",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133296/team_hong_konglogo_square.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133295/team_chinese_taipeilogo_square.png",
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  {
     "id": "panda-1699491",
     "sport": "lol",
     "league": "Asian Games",
-    "date": "2026-09-30T02:30:00Z",
+    "date": "2026-09-30T02:28:47Z",
     "home": "India",
     "away": "South Korea",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133290/indialogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133694/south_korea__28_national_team_29logo_square.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
-    "id": "panda-1699494",
+    "id": "panda-1699492",
     "sport": "lol",
     "league": "Asian Games",
-    "date": "2026-09-30T05:00:00Z",
-    "home": "India",
+    "date": "2026-09-30T02:28:49Z",
+    "home": "Hong Kong",
     "away": "Chinese Taipei",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133290/indialogo_square.png",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133296/team_hong_konglogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133295/team_chinese_taipeilogo_square.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "panda-1699493",
     "sport": "lol",
     "league": "Asian Games",
-    "date": "2026-09-30T05:00:00Z",
+    "date": "2026-09-30T04:57:16Z",
     "home": "Hong Kong",
     "away": "South Korea",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133296/team_hong_konglogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133694/south_korea__28_national_team_29logo_square.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
+  },
+  {
+    "id": "panda-1699494",
+    "sport": "lol",
+    "league": "Asian Games",
+    "date": "2026-09-30T04:57:19Z",
+    "home": "India",
+    "away": "Chinese Taipei",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133290/indialogo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133295/team_chinese_taipeilogo_square.png",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "panda-1697656",
     "sport": "lol",
     "league": "World Star Challengers Invitational",
-    "date": "2026-09-30T06:00:00Z",
+    "date": "2026-09-30T06:04:25Z",
     "home": "Solary",
     "away": "DN SOOPers Challengers",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/1449/123px_solarylogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/137831/dn_soo_perslogo_profile.png",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0
   },
   {
     "id": "panda-1697660",
     "sport": "lol",
     "league": "World Star Challengers Invitational",
-    "date": "2026-09-30T09:00:00Z",
+    "date": "2026-09-30T10:00:00Z",
     "home": "T1 Academy",
     "away": "Galions",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/131040/t1logo_profile.png",
@@ -5856,8 +5830,10 @@
     "sport": "lol",
     "league": "Asian Games",
     "date": "2026-10-01T00:00:00Z",
-    "home": "TBD",
-    "away": "TBD",
+    "home": "Vietnam",
+    "away": "Chinese Taipei",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/131007/vietnam_flag.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133295/team_chinese_taipeilogo_square.png",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -5866,8 +5842,10 @@
     "sport": "lol",
     "league": "Asian Games",
     "date": "2026-10-01T04:30:00Z",
-    "home": "TBD",
-    "away": "TBD",
+    "home": "South Korea",
+    "away": "Saudi Arabia",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133694/south_korea__28_national_team_29logo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133303/saudi_arabia__2528_national_team_2529logo_square.png",
     "homeScore": 0,
     "awayScore": 0
   },
