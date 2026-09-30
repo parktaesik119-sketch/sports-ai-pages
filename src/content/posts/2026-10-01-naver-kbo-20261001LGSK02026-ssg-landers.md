@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.29","home":"SSG 랜더스","away":"LG 트윈스","s
 awayRecent: '[{"date":"26.09.29","home":"SSG 랜더스","away":"LG 트윈스","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929LGSK02026-2026-09-29-ssg-landers/"},{"date":"26.09.26","home":"KIA 타이거즈","away":"LG 트윈스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260926LGHT02026-2026-09-26-kia-tigers/"},{"date":"26.09.24","home":"LG 트윈스","away":"롯데 자이언츠","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260924LTLG02026-2026-09-24-lg-twins/"},{"date":"26.09.20","home":"LG 트윈스","away":"한화 이글스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920HHLG02026-2026-09-20-lg-twins/"},{"date":"26.09.19","home":"LG 트윈스","away":"한화 이글스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260919HHLG02026-2026-09-19-lg-twins/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 박성한 (유격수)\",\"2번 정준재 (2루수)\",\"3번 에레디아 (좌익수)\",\"4번 전의산 (1루수)\",\"5번 고명준 (3루수)\",\"6번 김재환 (지명타자)\",\"7번 최지훈 (중견수)\",\"8번 조형우 (포수)\",\"9번 김정민 (우익수)\"]"
-awayLineup: "[\"1번 박해민 (중견수)\",\"2번 구본혁 (2루수)\",\"3번 오스틴 (지명타자)\",\"4번 문보경 (3루수)\",\"5번 오지환 (유격수)\",\"6번 송찬의 (좌익수)\",\"7번 문정빈 (1루수)\",\"8번 박동원 (포수)\",\"9번 이재원 (우익수)\"]"
+homeLineup: "[\"선발투수 김민준 (ERA 3.65)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56840.jpg\",\"1번 박성한 (유격수)\",\"2번 정준재 (2루수)\",\"3번 에레디아 (좌익수)\",\"4번 전의산 (1루수)\",\"5번 고명준 (3루수)\",\"6번 김재환 (지명타자)\",\"7번 최지훈 (중견수)\",\"8번 조형우 (포수)\",\"9번 김정민 (우익수)\"]"
+awayLineup: "[\"선발투수 임찬규 (ERA 4.15)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/61101.jpg\",\"1번 박해민 (중견수)\",\"2번 구본혁 (2루수)\",\"3번 오스틴 (지명타자)\",\"4번 문보경 (3루수)\",\"5번 오지환 (유격수)\",\"6번 송찬의 (좌익수)\",\"7번 문정빈 (1루수)\",\"8번 박동원 (포수)\",\"9번 이재원 (우익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
