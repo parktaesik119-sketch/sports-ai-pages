@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.09.30","home":"휴스턴 애스트로스","away":"시�
 injuryHome: "Mike Burrows (염증)|Steven Okert (염좌)|Ethan Pecko (통증)|Daulton Varsho (염증)|Brice Matthews (염증)"
 injuryAway: "Jake Rogers (지정되지 않음)|Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Luis Castillo (신경 압박)"
 homeLineup: "[\"선발투수 H. Brown|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
-awayLineup: "[\"선발투수 S. Burke|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
+awayLineup: "[\"선발투수 S. Burke|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\",\"1번 S. Antonacci (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/5207167.png\",\"2번 K. Teel (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4743772.png\",\"3번 M. Vargas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"4번 M. Murakami (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872595.png\",\"5번 A. Benintendi (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/34986.png\",\"6번 T. Peters (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/5085893.png\",\"7번 C. Meidroth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5136929.png\",\"8번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"9번 C. Montgomery (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
