@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.29","home":"라쿠텐 골든이글스","away":"지�
 awayRecent: '[{"date":"26.09.28","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928NHJL0-2026-09-28-chiba-lotte-marines/"},{"date":"26.09.27","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927NHJL0-2026-09-27-chiba-lotte-marines/"},{"date":"26.09.26","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926NHOX0-2026-09-26-orix-buffaloes/"},{"date":"26.09.24","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924RTNH0-2026-09-24-nippon-ham-fighters/"},{"date":"26.09.23","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923RTNH0-2026-09-23-nippon-ham-fighters/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Sam Long (1-6, 5.15)|https://p.npb.jp/players_photo/2026/180/m/073_03905152.jpg\"]"
+awayLineup: "[\"선발투수 Koki Kitayama (12-3, 2.65)|https://p.npb.jp/players_photo/2026/180/f/015_51755155.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

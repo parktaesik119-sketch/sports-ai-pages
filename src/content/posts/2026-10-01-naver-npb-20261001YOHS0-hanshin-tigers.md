@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.09.29","home":"요미우리 자이언츠","away":"히로시마 도요 카프","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260929HIYO0-2026-09-29-yomiuri-giants/"},{"date":"26.09.27","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"11-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927YAYO0-2026-09-27-yomiuri-giants/"},{"date":"26.09.25","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925YOHI0-2026-09-25-hiroshima-carp/"},{"date":"26.09.24","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924YOHI0-2026-09-24-hiroshima-carp/"},{"date":"26.09.23","home":"히로시마 도요 카프","away":"요미우리 자이언츠","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923YOHI0-2026-09-23-hiroshima-carp/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Shoki Murakami (10-9, 1.85)|https://p.npb.jp/players_photo/2026/180/t/041_13315153.jpg\"]"
+awayLineup: "[\"선발투수 Kazuyuki Takemaru (11-9, 3.40)|https://p.npb.jp/players_photo/2026/180/g/021_71275152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
