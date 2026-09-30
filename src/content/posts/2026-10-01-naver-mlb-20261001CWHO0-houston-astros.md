@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.30","home":"휴스턴 애스트로스","away":"시�
 awayRecent: '[{"date":"26.09.30","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930CWHO0-2026-09-30-houston-astros/"},{"date":"26.09.28","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928COCW0-2026-09-28-chicago-white-sox/"},{"date":"26.09.27","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927COCW0-2026-09-27-chicago-white-sox/"},{"date":"26.09.26","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926COCW0-2026-09-26-chicago-white-sox/"},{"date":"26.09.25","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CWKC0-2026-09-25-kansas-city-royals/"}]'
 injuryHome: "Mike Burrows (염증)|Steven Okert (염좌)|Ethan Pecko (통증)|Daulton Varsho (염증)|Brice Matthews (염증)"
 injuryAway: "Jake Rogers (지정되지 않음)|Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Luis Castillo (신경 압박)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 H. Brown|https://a.espncdn.com/i/headshots/mlb/players/full/4717803.png\"]"
+awayLineup: "[\"선발투수 S. Burke|https://a.espncdn.com/i/headshots/mlb/players/full/4867679.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

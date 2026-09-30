@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.26","home":"뉴욕 양키즈","away":"볼티모어 
 awayRecent: '[{"date":"26.09.28","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928CCBO0-2026-09-28-boston-red-sox/"},{"date":"26.09.26","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CCBO2-2026-09-26-boston-red-sox/"},{"date":"26.09.25","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CLBO0-2026-09-25-boston-red-sox/"},{"date":"26.09.24","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924CLBO0-2026-09-24-boston-red-sox/"},{"date":"26.09.23","home":"보스턴 레드삭스","away":"클리블랜드 가디언스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923CLBO0-2026-09-23-boston-red-sox/"}]'
 injuryHome: "Ryan Weathers (부상)|Aaron Judge (부상)|Clarke Schmidt (부상)|Fernando Cruz (부상)|Kervin Castro (부상)"
 injuryAway: "Johan Oviedo (부상)|Anthony Seigler (부상)|Kristian Campbell (경미)|Masataka Yoshida (부상)|Zack Kelly (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Cole|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
+awayLineup: "[\"선발투수 R. Suarez|https://a.espncdn.com/i/headshots/mlb/players/full/39817.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

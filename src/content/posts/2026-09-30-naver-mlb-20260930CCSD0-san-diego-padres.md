@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.28","home":"샌디에이고 파드리스","away":"�
 awayRecent: '[{"date":"26.09.28","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928CCBO0-2026-09-28-boston-red-sox/"},{"date":"26.09.26","home":"보스턴 레드삭스","away":"시카고 컵스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CCBO2-2026-09-26-boston-red-sox/"},{"date":"26.09.25","home":"시카고 컵스","away":"마이애미 말린스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925FLCC0-2026-09-25-chicago-cubs/"},{"date":"26.09.24","home":"시카고 컵스","away":"마이애미 말린스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924FLCC0-2026-09-24-chicago-cubs/"},{"date":"26.09.23","home":"시카고 컵스","away":"마이애미 말린스","score":"2-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260923FLCC0-2026-09-23-chicago-cubs/"}]'
 injuryHome: "Joe Musgrove (염증)|Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Casey Mize (염좌)"
 injuryAway: "Justin Steele (수술)|Edward Cabrera (상주)|Kevin Gausman (통증)|Trent Thornton (통증)|Phil Maton (염좌)"
-homeLineup: ''
+homeLineup: "[\"선발투수 N. Pivetta|https://a.espncdn.com/i/headshots/mlb/players/full/36071.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""
