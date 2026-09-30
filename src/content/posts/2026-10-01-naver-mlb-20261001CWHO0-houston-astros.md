@@ -1,0 +1,37 @@
+---
+title: "휴스턴 애스트로스 vs 시카고 화이트삭스 야구분석·승부예측 (10월 1일) - 픽천국"
+date: 2026-09-30T21:00:00.000Z
+description: "휴스턴 애스트로스 vs 시카고 화이트삭스 야구분석: 시카고 화이트삭스는 2026시즌 84승을 기록하며 휴스턴 애스트로스보다 한층 높은 안정감을 보여주고 있으며, 득실 마진에서도 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20261001CWHO0-2026-10-01-houston-astros"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "휴스턴 애스트로스"
+awayTeam: "시카고 화이트삭스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/HO.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+homeAnalysis: "휴스턴 애스트로스는 2026시즌 81승 81패, 승률 .500을 기록하며 현재 리그순위 6위에 머물러 있습니다. 득실 마진 -32.0에서 알 수 있듯이 시즌 내내 공수 밸런스 유지에 어려움을 겪으며 중위권에서 등락을 거듭하는 모습입니다. 최근 흐름을 살펴보면 기복 있는 투타 조화로 인해 승리와 패배를 반복하는 양상을 보이고 있습니다. 홈경기에서도 일관된 경기력을 보여주지 못하고 있어 안방에서의 이점을 완벽히 살리지 못하고 있다는 점이 아쉽습니다. 특히 수비 효율이 다소 떨어져 실점 통제가 경기의 승패를 결정짓는 핵심 변수로 작용하고 있습니다."
+awayAnalysis: "시카고 화이트삭스는 2026시즌 84승 78패, 승률 .519로 현재 리그순위 5위에 위치하며 비교적 안정적인 시즌을 보내고 있습니다. 득실 마진 +56.0은 팀이 투타 모두에서 휴스턴 애스트로스보다 더 짜임새 있는 경기력을 유지하고 있음을 증명합니다. 최근 10경기에서 7승 3패의 가파른 상승세를 타고 있으며, 경기당 평균 득점이 비약적으로 상승하며 타선의 화력이 정점에 달해 있습니다. 원정 경기에서도 집중력을 잃지 않고 꾸준히 승수를 쌓아가고 있는 점이 매우 고무적입니다. 투수진의 안정감과 타선의 응집력이 맞물리며 팀 전체적으로 높은 전력을 과시하고 있습니다."
+homePower: "안정적인 마운드 지원 부족으로 실점 제어력 한계 노출|득점 기복이 심해 다득점 경기와 무득점 경기가 혼재됨|리그순위 6위답게 강팀 상대로는 다소 고전하는 패턴|최근 10경기 5할 승률에 머물며 흐름 전환의 계기 부족|홈경기 집중력 저하로 인해 경기 후반 역전 허용 사례 발생"
+awayPower: "최근 10경기 7승으로 팀 타격 전력 최고조에 도달|득실 마진 +56.0이 증명하는 견고한 투타 밸런스|시즌 84승의 안정감으로 접전 상황 운영 능력 검증됨|원정에서도 물오른 타격감을 바탕으로 경기 주도권 확보|리그순위 5위의 저력을 바탕으로 승부처 집중력 유지"
+h2h: '[{"date":"26.09.30","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"3-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930CWHO0-2026-09-30-houston-astros/"},{"date":"26.09.04","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260904CWHO0-2026-09-04-houston-astros/"},{"date":"26.09.03","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"2-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902CWHO0-2026-09-02-houston-astros/"},{"date":"26.09.02","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"1-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260902CWHO0-2026-09-02-houston-astros/"},{"date":"26.09.01","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"6-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260901CWHO0-2026-09-01-houston-astros/"}]'
+summary: "시카고 화이트삭스는 2026시즌 84승을 기록하며 휴스턴 애스트로스보다 한층 높은 안정감을 보여주고 있으며, 득실 마진에서도 +56.0으로 우위에 있습니다. 특히 시카고 화이트삭스는 최근 10경기에서 7승을 거두는 압도적인 상승세와 함께 타선의 응집력이 극대화되어 있어 이번 경기를 주도할 가능성이 높습니다. 반면 휴스턴 애스트로스는 5할 승률에 그치며 공수 밸런스에서 다소 불안한 모습을 노출하고 있어, 현재의 전력 상승세와 공수 지표를 고려할 때 원정팀인 시카고 화이트삭스가 우위를 점하며 경기를 풀어나갈 것으로 전망됩니다."
+homeRecent: '[{"date":"26.09.30","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930CWHO0-2026-09-30-houston-astros/"},{"date":"26.09.28","home":"애슬레틱스","away":"휴스턴 애스트로스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928HOOA0-2026-09-28-athletics/"},{"date":"26.09.26","home":"애슬레틱스","away":"휴스턴 애스트로스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926HOOA0-2026-09-26-athletics/"},{"date":"26.09.25","home":"애슬레틱스","away":"휴스턴 애스트로스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925HOOA0-2026-09-25-athletics/"},{"date":"26.09.24","home":"시애틀 매리너스","away":"휴스턴 애스트로스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924HOSE0-2026-09-24-seattle-mariners/"}]'
+awayRecent: '[{"date":"26.09.30","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930CWHO0-2026-09-30-houston-astros/"},{"date":"26.09.28","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928COCW0-2026-09-28-chicago-white-sox/"},{"date":"26.09.27","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927COCW0-2026-09-27-chicago-white-sox/"},{"date":"26.09.26","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926COCW0-2026-09-26-chicago-white-sox/"},{"date":"26.09.25","home":"캔자스시티 로열스","away":"시카고 화이트삭스","score":"1-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925CWKC0-2026-09-25-kansas-city-royals/"}]'
+injuryHome: "Mike Burrows (염증)|Steven Okert (염좌)|Ethan Pecko (통증)|Daulton Varsho (염증)|Brice Matthews (염증)"
+injuryAway: "Jake Rogers (지정되지 않음)|Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Luis Castillo (신경 압박)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,46 @@
+[
+  {
+    "home": "Rakuten Gold. Eagles",
+    "away": "Chiba Lotte Marines",
+    "date": "2026-09-30T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "楽天モバイル",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Kosei Shoji",
+        "nameJa": "荘司　康誠",
+        "playerId": "21925157",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/e/019_21925157.jpg"
+      },
+      "away": {
+        "name": "Joey Lucchesi",
+        "nameJa": "Ｊ．ルケーシー",
+        "playerId": "93095152",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/m/048_93095152.jpg"
+      }
+    }
+  },
+  {
+    "home": "Hanshin Tigers",
+    "away": "Yakult Swallows",
+    "date": "2026-09-30T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "甲子園",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Haruto Takahashi",
+        "nameJa": "髙橋　遥人",
+        "playerId": "91095136",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/t/029_91095136.jpg"
+      },
+      "away": {
+        "name": "Yasunobu Okugawa",
+        "nameJa": "奥川　恭伸",
+        "playerId": "31735151",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/s/018_31735151.jpg"
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+---
+title: "라쿠텐 골든이글스 vs 소프트뱅크 호크스 야구분석·승부예측 (10월 1일) - 픽천국"
+date: 2026-10-01T09:00:00.000Z
+description: "라쿠텐 골든이글스 vs 소프트뱅크 호크스 야구분석: 소프트뱅크 호크스는 2026시즌 내내 압도적인 승률과 강력한 화력을 바탕으로 리그를 지배하고 있으며, 라쿠텐 골든이글스와의 전… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20261001SFRT0-2026-10-01-rakuten-gold-eagles"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "라쿠텐 골든이글스"
+awayTeam: "소프트뱅크 호크스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/RT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/SF.png"
+homeAnalysis: "라쿠텐 골든이글스는 2026시즌 112경기에서 42승 70패를 기록하며 다소 어려운 시즌을 보내고 있습니다. 시즌 전체 평균 득점은 3.3점에 머물고 있으나, 최근 10경기에서는 6승 4패로 준수한 전력을 보여주며 반등의 기회를 엿보고 있습니다. 투수진이 안정감을 찾는 경기에서는 확실한 승리를 챙기고 있지만, 득점 지원이 부족한 날에는 아쉬운 패배를 기록하는 등 기복 있는 모습을 보입니다. 홈에서의 경기력은 시즌 흐름을 결정짓는 중요한 요소로, 타선이 집중력을 발휘할 때 경기 운영이 훨씬 수월해지는 경향이 있습니다. 남은 시즌 동안 투타 밸런스를 얼마나 견고하게 유지하느냐가 최종 성적에 큰 영향을 미칠 것으로 보입니다."
+awayAnalysis: "소프트뱅크 호크스는 2026시즌 114경기에서 76승 35패라는 압도적인 성적을 거두며 리그 최상위권의 전력을 과시하고 있습니다. 최근 10경기에서도 8승 2패라는 무서운 기세로 평균 득점 6.2점이라는 폭발적인 화력을 내뿜고 있습니다. 시즌 내내 탄탄한 투수력과 응집력 높은 타선을 바탕으로 상대를 압도하는 경기를 자주 펼쳐왔습니다. 특히 원정 경기에서도 크게 흔들리지 않는 집중력을 보여주며 꾸준한 승률을 유지하는 것이 강점으로 꼽힙니다. 전력의 안정감이 매우 뛰어나 어떤 투수를 만나더라도 득점을 만들어낼 수 있는 해결사 능력이 돋보이는 팀입니다."
+homePower: "투수력 대비 빈약한 타선의 득점 지원력|홈 경기에서의 집중력에 따른 승패 편차 큼|최근 10경기 6승 달성하며 상승세 흐름 확인|중심 타선의 해결사 부재 시 경기 운영 어려움|상위권 팀 상대 시 투수진 부담 가중되는 패턴"
+awayPower: "시즌 평균 득점 5.1의 강력한 타격 지표|최근 10경기 8승 거두며 최상의 전력 유지|투타 밸런스가 리그 내에서 가장 안정적으로 평가|원정에서도 흔들림 없는 승리 공식 입증|득점권 상황에서 높은 집중력으로 대량 득점 생산"
+h2h: '[{"date":"26.09.26","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"4-0","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926RTSF0-2026-09-26-fukuoka-s-hawks/"},{"date":"26.09.20","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260920SFRT0-2026-09-20-rakuten-gold-eagles/"},{"date":"26.09.19","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260919SFRT0-2026-09-19-rakuten-gold-eagles/"},{"date":"26.08.16","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260816RTSF0-2026-08-16-fukuoka-s-hawks/"},{"date":"26.08.15","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"4-6","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260815RTSF0-2026-08-15-fukuoka-s-hawks/"}]'
+summary: "소프트뱅크 호크스는 2026시즌 내내 압도적인 승률과 강력한 화력을 바탕으로 리그를 지배하고 있으며, 라쿠텐 골든이글스와의 전력 비교에서도 확실한 우위를 점하고 있습니다. 라쿠텐 골든이글스가 최근 상승세를 타며 반등을 노리고 있으나, 소프트뱅크 호크스의 꾸준한 득점력과 마운드의 안정감을 넘어서기에는 전력 차이가 다소 느껴집니다. 상대 전적에서도 대등하거나 우위를 점했던 흐름들이 있었지만, 시즌 전체의 파괴력과 최근의 승리 페이스를 고려할 때 소프트뱅크 호크스가 이번 경기에서도 주도권을 쥐고 경기를 마무리할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.29","home":"라쿠텐 골든이글스","away":"지바 롯데 마린스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260929JLRT0-2026-09-29-rakuten-gold-eagles/"},{"date":"26.09.28","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928RTSE0-2026-09-28-seibu-lions/"},{"date":"26.09.27","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927RTSE0-2026-09-27-seibu-lions/"},{"date":"26.09.26","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926RTSF0-2026-09-26-fukuoka-s-hawks/"},{"date":"26.09.24","home":"니혼햄 파이터즈","away":"라쿠텐 골든이글스","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260924RTNH0-2026-09-24-nippon-ham-fighters/"}]'
+awayRecent: '[{"date":"26.09.27","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"12-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927OXSF0-2026-09-27-fukuoka-s-hawks/"},{"date":"26.09.26","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926RTSF0-2026-09-26-fukuoka-s-hawks/"},{"date":"26.09.25","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925SFOX0-2026-09-25-orix-buffaloes/"},{"date":"26.09.23","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923SESF0-2026-09-23-fukuoka-s-hawks/"},{"date":"26.09.22","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922SESF0-2026-09-22-fukuoka-s-hawks/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "소프트뱅크 호크스"
+pickWinResult: "승"
+pickHandicapTeam: "소프트뱅크 호크스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

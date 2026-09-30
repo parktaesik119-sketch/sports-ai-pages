@@ -1,0 +1,37 @@
+---
+title: "두산 베어스 vs NC 다이노스 야구분석·승부예측 (10월 1일) - 픽천국"
+date: 2026-10-01T09:30:00.000Z
+description: "두산 베어스 vs NC 다이노스 야구분석: 두산 베어스는 최근 투타 지표에서 NC 다이노스를 상대로 우위를 점하며 흐름상 앞서 있는 모습입니다. 선발 매치업에서 라일리가… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261001NCOB02026-2026-10-01-doosan-bears"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "두산 베어스"
+awayTeam: "NC 다이노스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/NC.png"
+homeAnalysis: "두산 베어스는 2026시즌 110경기에서 57승 4무 49패를 기록하며 승률 0.538의 준수한 성적을 거두고 있습니다. 시즌 평균 4.7득점을 기록 중인 타선은 최근 10경기에서 평균 5.7득점으로 더욱 매서운 집중력을 보여주며 공세적인 흐름을 유지하고 있습니다. 선발 잭로그는 ERA 4.11을 기록 중이나 안정적인 경기 운영을 바탕으로 13회의 퀄리티스타트를 달성하며 마운드의 무게감을 더하고 있습니다. 박준순과 양의지 등 핵심 타자들의 높은 WAR은 상위 타선의 파괴력을 대변하며 팀 승리를 견인하는 중요한 동력이 됩니다. 공수 밸런스가 안정적인 두산 베어스는 홈 경기장에서의 강점을 바탕으로 투타 조화를 앞세워 승리 가능성을 높이고 있습니다."
+awayAnalysis: "NC 다이노스는 2026시즌 111경기에서 51승 3무 57패를 기록하며 0.472의 승률로 다소 아쉬운 행보를 보이고 있습니다. 시즌 평균 5.0득점을 기록 중임에도 최근 10경기에서는 3승 7패로 승패 마진에서 고전하며 전반적인 투타 전력의 불균형을 노출하고 있습니다. 선발 라일리는 ERA 2.68과 WHIP 1.03의 우수한 지표로 15회의 퀄리티스타트를 기록 중인 팀 내 핵심 전력입니다. 하지만 박건우의 부상 공백이 라인업의 무게감을 떨어뜨리는 요소로 작용하며 전체적인 공격 루트 확보에 어려움을 겪고 있습니다. 상위 타선의 박민우와 김주원이 분전하고 있으나 최근의 하락세를 반등시키기 위한 투타 협업이 절실한 상황입니다."
+homePower: "안정적인 선발 잭로그의 경기 운영능력|박준순과 양의지 중심의 강력한 상위 타선|최근 10경기 평균 5.7득점의 타격 집중력|홈 경기장의 이점과 공수 밸런스 조화|시즌 13회 퀄리티스타트로 검증된 선발 안정감"
+awayPower: "라일리의 2점대 ERA와 높은 이닝 소화력|박민우와 김주원의 타선 이끄는 공격 기여도|박건우 결장으로 인한 중심 타선 공백 심화|최근 10경기 투타 엇박자로 인한 승률 저하|경기당 5점대 득점력 대비 뒷심 부족한 수비"
+h2h: '[{"date":"26.09.29","home":"두산 베어스","away":"NC 다이노스","score":"5-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929NCOB02026-2026-09-29-doosan-bears/"},{"date":"26.09.13","home":"두산 베어스","away":"NC 다이노스","score":"9-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260913NCOB02026-2026-09-13-doosan-bears/"},{"date":"26.09.12","home":"두산 베어스","away":"NC 다이노스","score":"9-10","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260912NCOB02026-2026-09-12-doosan-bears/"},{"date":"26.08.20","home":"NC 다이노스","away":"두산 베어스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260820OBNC02026-2026-08-20-nc-dinos/"},{"date":"26.08.19","home":"NC 다이노스","away":"두산 베어스","score":"2-8","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260819OBNC02026-2026-08-19-nc-dinos/"}]'
+summary: "두산 베어스는 최근 투타 지표에서 NC 다이노스를 상대로 우위를 점하며 흐름상 앞서 있는 모습입니다. 선발 매치업에서 라일리가 기록상 우위에 있지만, 두산 베어스의 타선이 최근 경기에서 보여주는 득점 생산력과 상위 타선의 WAR 수치가 경기를 주도할 가능성이 큽니다. 반면 NC 다이노스는 주요 타자의 부상 결장으로 인한 전력 누수가 뼈아프며 최근의 연패 흐름을 끊어내는 데 어려움을 겪고 있습니다. 이러한 전력 차이와 최근의 상승세를 고려할 때 홈 경기장을 사용하는 두산 베어스가 전반적으로 우세한 경기를 펼치며 승리를 가져갈 것으로 보입니다."
+homeRecent: '[{"date":"26.09.29","home":"두산 베어스","away":"NC 다이노스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929NCOB02026-2026-09-29-doosan-bears/"},{"date":"26.09.27","home":"두산 베어스","away":"KT 위즈","score":"6-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260927KTOB02026-2026-09-27-doosan-bears/"},{"date":"26.09.23","home":"두산 베어스","away":"KIA 타이거즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260923HTOB02026-2026-09-23-doosan-bears/"},{"date":"26.09.22","home":"키움 히어로즈","away":"두산 베어스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922OBWO02026-2026-09-22-kiwoom-heroes/"},{"date":"26.09.20","home":"KT 위즈","away":"두산 베어스","score":"9-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260920OBKT02026-2026-09-20-kt-wiz-suwon/"}]'
+awayRecent: '[{"date":"26.09.29","home":"두산 베어스","away":"NC 다이노스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929NCOB02026-2026-09-29-doosan-bears/"},{"date":"26.09.27","home":"NC 다이노스","away":"키움 히어로즈","score":"4-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260927WONC02026-2026-09-27-nc-dinos/"},{"date":"26.09.26","home":"NC 다이노스","away":"한화 이글스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260926HHNC02026-2026-09-26-nc-dinos/"},{"date":"26.09.25","home":"NC 다이노스","away":"한화 이글스","score":"8-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260925HHNC02026-2026-09-25-nc-dinos/"},{"date":"26.09.24","home":"KT 위즈","away":"NC 다이노스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260924NCKT02026-2026-09-24-kt-wiz-suwon/"}]'
+injuryHome: "없음"
+injuryAway: "박건우 (외야수)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "두산 베어스"
+pickWinResult: "승"
+pickHandicapTeam: "두산 베어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---
