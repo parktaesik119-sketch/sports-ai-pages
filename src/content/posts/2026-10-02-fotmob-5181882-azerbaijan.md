@@ -25,7 +25,7 @@ awayLineup: '["Justin Ospelt (GK)|https://images.fotmob.com/image_resources/play
 homeFormation: "5-4-1"
 awayFormation: "3-5-2"
 homeCoach: "Aykhan Abbasov|https://images.fotmob.com/image_resources/playerimages/169840.png"
-awayCoach: ""
+awayCoach: "Konrad Fünfstück|https://images.fotmob.com/image_resources/playerimages/1493037.png"
 pickWinTeam: "아제르바이잔"
 pickWinResult: "승"
 pickHandicapTeam: "아제르바이잔"
