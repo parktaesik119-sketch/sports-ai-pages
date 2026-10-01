@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.30","home":"라쿠텐 골든이글스","away":"지�
 awayRecent: '[{"date":"26.09.27","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"12-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927OXSF0-2026-09-27-fukuoka-s-hawks/"},{"date":"26.09.26","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926RTSF0-2026-09-26-fukuoka-s-hawks/"},{"date":"26.09.25","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925SFOX0-2026-09-25-orix-buffaloes/"},{"date":"26.09.23","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923SESF0-2026-09-23-fukuoka-s-hawks/"},{"date":"26.09.22","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922SESF0-2026-09-22-fukuoka-s-hawks/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Haruya Tanaka (2-5, 4.08)|https://p.npb.jp/players_photo/2026/180/m/035_01005157.jpg\"]"
+awayLineup: "[\"선발투수 Yugo Maeda (12-1, 1.99)|https://p.npb.jp/players_photo/2026/180/h/041_13115159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
