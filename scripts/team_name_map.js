@@ -1069,6 +1069,7 @@ const TEAM_NAME_MAP = {
   "Seychelles": "세이셸",
   "Palestine": "팔레스타인",
   "Mauritius": "모리셔스",
+  "Lebanon": "레바논",
 
 
   // ===== 🏀 농구 추가팀 =====
