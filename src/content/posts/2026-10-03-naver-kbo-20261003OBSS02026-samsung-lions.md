@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.01","home":"삼성 라이온스","away":"한화 이
 awayRecent: '[{"date":"26.10.01","home":"두산 베어스","away":"NC 다이노스","score":"9-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001NCOB02026-2026-10-01-doosan-bears/"},{"date":"26.09.30","home":"두산 베어스","away":"NC 다이노스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930NCOB02026-2026-09-30-doosan-bears/"},{"date":"26.09.29","home":"두산 베어스","away":"NC 다이노스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929NCOB02026-2026-09-29-doosan-bears/"},{"date":"26.09.27","home":"두산 베어스","away":"KT 위즈","score":"6-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260927KTOB02026-2026-09-27-doosan-bears/"},{"date":"26.09.23","home":"두산 베어스","away":"KIA 타이거즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260923HTOB02026-2026-09-23-doosan-bears/"}]'
 injuryHome: "이재익 (치료·재활중)|최원태 (부상)"
 injuryAway: "없음"
-homeLineup: "[\"1번 김지찬 (중견수)\",\"2번 김성윤 (우익수)\",\"3번 이재현 (유격수)\",\"4번 디아즈 (1루수)\",\"5번 최형우 (지명타자)\",\"6번 강민호 (포수)\",\"7번 김영웅 (3루수)\",\"8번 김헌곤 (좌익수)\",\"9번 류지혁 (2루수)\"]"
-awayLineup: "[\"1번 김민석 (좌익수)\",\"2번 안재석 (3루수)\",\"3번 박준순 (2루수)\",\"4번 양의지 (포수)\",\"5번 세베리노 (지명타자)\",\"6번 강승호 (1루수)\",\"7번 조수행 (우익수)\",\"8번 박지훈 (유격수)\",\"9번 정수빈 (중견수)\"]"
+homeLineup: "[\"선발투수 최원태 (ERA 4.59)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65320.jpg\",\"1번 김지찬 (중견수)\",\"2번 김성윤 (우익수)\",\"3번 이재현 (유격수)\",\"4번 디아즈 (1루수)\",\"5번 최형우 (지명타자)\",\"6번 강민호 (포수)\",\"7번 김영웅 (3루수)\",\"8번 김헌곤 (좌익수)\",\"9번 류지혁 (2루수)\"]"
+awayLineup: "[\"선발투수 최승용 (ERA 6.22)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/51264.jpg\",\"1번 김민석 (좌익수)\",\"2번 안재석 (3루수)\",\"3번 박준순 (2루수)\",\"4번 양의지 (포수)\",\"5번 세베리노 (지명타자)\",\"6번 강승호 (1루수)\",\"7번 조수행 (우익수)\",\"8번 박지훈 (유격수)\",\"9번 정수빈 (중견수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
