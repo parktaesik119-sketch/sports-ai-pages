@@ -1,0 +1,46 @@
+[
+  {
+    "home": "Chiba Lotte Marines",
+    "away": "Fukuoka S. Hawks",
+    "date": "2026-10-02T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "ZOZOマリン",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Haruya Tanaka",
+        "nameJa": "田中　晴也",
+        "playerId": "01005157",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/m/035_01005157.jpg"
+      },
+      "away": {
+        "name": "Yugo Maeda",
+        "nameJa": "前田　悠伍",
+        "playerId": "13115159",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/h/041_13115159.jpg"
+      }
+    }
+  },
+  {
+    "home": "Yakult Swallows",
+    "away": "Yomiuri Giants",
+    "date": "2026-10-02T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "神　宮",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Taichi Yamano",
+        "nameJa": "山野　太一",
+        "playerId": "63365153",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/s/026_63365153.jpg"
+      },
+      "away": {
+        "name": "Iori Yamasaki",
+        "nameJa": "山﨑　伊織",
+        "playerId": "03305153",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/g/019_03305153.jpg"
+      }
+    }
+  }
+]
