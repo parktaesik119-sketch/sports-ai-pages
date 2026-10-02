@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.01","home":"한신 타이거스","away":"요미우�
 awayRecent: '[{"date":"26.09.28","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928HIYK0-2026-09-28-yokohama-baystars/"},{"date":"26.09.27","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927HIYK0-2026-09-27-yokohama-baystars/"},{"date":"26.09.26","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926HSYK0-2026-09-26-yokohama-baystars/"},{"date":"26.09.25","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925HSYK0-2026-09-25-yokohama-baystars/"},{"date":"26.09.23","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923JNYK0-2026-09-23-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Haruto Inoue (10-8, 2.11)|https://p.npb.jp/players_photo/2026/180/g/097_51355151.jpg\"]"
+awayLineup: "[\"선발투수 Shunya Shimada (1-1, 5.03)|https://p.npb.jp/players_photo/2026/180/db/015_11015152.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

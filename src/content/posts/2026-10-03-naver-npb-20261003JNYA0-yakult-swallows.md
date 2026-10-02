@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.30","home":"한신 타이거스","away":"야쿠르�
 awayRecent: '[{"date":"26.10.01","home":"히로시마 도요 카프","away":"주니치 드래곤스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001JNHI0-2026-10-01-hiroshima-carp/"},{"date":"26.09.26","home":"야쿠르트 스왈로우스","away":"주니치 드래곤스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926JNYA0-2026-09-26-yakult-swallows/"},{"date":"26.09.25","home":"야쿠르트 스왈로우스","away":"주니치 드래곤스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925JNYA0-2026-09-25-yakult-swallows/"},{"date":"26.09.23","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923JNYK0-2026-09-23-yokohama-baystars/"},{"date":"26.09.22","home":"요코하마 DeNA 베이스타스","away":"주니치 드래곤스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260922JNYK0-2026-09-22-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Hirotoshi Takanashi (6-2, 2.71)|https://p.npb.jp/players_photo/2026/180/s/040_21925139.jpg\"]"
+awayLineup: "[\"선발투수 Hiroto Takahashi (4-7, 2.70)|https://p.npb.jp/players_photo/2026/180/d/019_61265153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

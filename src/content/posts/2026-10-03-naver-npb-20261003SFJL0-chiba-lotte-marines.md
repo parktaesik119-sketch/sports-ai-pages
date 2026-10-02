@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.01","home":"지바 롯데 마린스","away":"니혼
 awayRecent: '[{"date":"26.10.01","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001SFRT0-2026-10-01-rakuten-gold-eagles/"},{"date":"26.09.27","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"12-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927OXSF0-2026-09-27-fukuoka-s-hawks/"},{"date":"26.09.26","home":"소프트뱅크 호크스","away":"라쿠텐 골든이글스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926RTSF0-2026-09-26-fukuoka-s-hawks/"},{"date":"26.09.25","home":"오릭스 버팔로스","away":"소프트뱅크 호크스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925SFOX0-2026-09-25-orix-buffaloes/"},{"date":"26.09.23","home":"소프트뱅크 호크스","away":"세이부 라이온즈","score":"10-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923SESF0-2026-09-23-fukuoka-s-hawks/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yuki Karakawa (0-1, 7.20)|https://p.npb.jp/players_photo/2026/180/m/019_21525116.jpg\"]"
+awayLineup: "[\"선발투수 Haru Matsumoto (12-3, 2.76)|https://p.npb.jp/players_photo/2026/180/h/049_41845157.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
