@@ -1299,24 +1299,24 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "10",
         "wins": "0",
-        "losses": "0",
+        "losses": "1",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "3",
-        "pointsFor": "0",
-        "pointsAgainst": "1"
+        "pointsFor": "2",
+        "pointsAgainst": "6"
       },
       "away": {
-        "rank": "11",
-        "wins": "0",
+        "rank": "5",
+        "wins": "1",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "gamesBehind": "2",
+        "pointsFor": "5",
+        "pointsAgainst": "2"
       }
     },
     "h2h": null
@@ -1387,101 +1387,13 @@
         "pointsAgainst": "2"
       },
       "away": {
-        "rank": "1",
+        "rank": "2",
         "wins": "2",
         "losses": "1",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
         "pointsFor": "7",
-        "pointsAgainst": "4"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "San Jose Sharks",
-    "away": "Florida Panthers",
-    "date": "2026-10-02T02:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401891823",
-    "injuries": {
-      "home": [
-        {
-          "name": "Adam Gaudette",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Alex Barre-Boulet",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Quentin Musty",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Cam Lund",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Kyle Keyser",
-          "status": "Injured Reserve",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Aleksander Barkov",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
-          "name": "Gustav Forsling",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
-          "name": "Brad Marchand",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "MacKenzie Entwistle",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Jonah Gadjovich",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "7",
-        "wins": "1",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "4",
-        "pointsAgainst": "3"
-      },
-      "away": {
-        "rank": "2",
-        "wins": "1",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "4",
         "pointsAgainst": "4"
       }
     },
@@ -1553,7 +1465,7 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
+        "rank": "10",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -1588,6 +1500,94 @@
         }
       ]
     }
+  },
+  {
+    "home": "San Jose Sharks",
+    "away": "Florida Panthers",
+    "date": "2026-10-02T02:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401891823",
+    "injuries": {
+      "home": [
+        {
+          "name": "Adam Gaudette",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Alex Barre-Boulet",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Quentin Musty",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Cam Lund",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Kyle Keyser",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Aleksander Barkov",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Gustav Forsling",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Brad Marchand",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "MacKenzie Entwistle",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Jonah Gadjovich",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "1",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "4",
+        "pointsAgainst": "3"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "1",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "4",
+        "pointsAgainst": "4"
+      }
+    },
+    "h2h": null
   },
   {
     "home": "Utah Mammoth",
@@ -1720,7 +1720,7 @@
     },
     "standings": {
       "home": {
-        "rank": "13",
+        "rank": "12",
         "wins": "0",
         "losses": "1",
         "ties": null,
@@ -1793,7 +1793,7 @@
         "pointsAgainst": "2"
       },
       "away": {
-        "rank": "7",
+        "rank": "8",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -1801,137 +1801,6 @@
         "gamesBehind": "2",
         "pointsFor": "3",
         "pointsAgainst": "2"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Buffalo Sabres",
-    "away": "Chicago Blackhawks",
-    "date": "2026-10-03T23:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401891776",
-    "injuries": {
-      "home": [
-        {
-          "name": "Alex Lyon",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Conor Timmins",
-          "status": "Injured Reserve",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Topias Leinonen",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Jack Rathbone",
-          "status": "Injured Reserve",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Jason Zucker",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ],
-      "away": [
-        {
-          "name": "Andrew Mangiapane",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Connor Bedard",
-          "status": "Injured Reserve",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "15",
-        "wins": "0",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "3",
-        "pointsAgainst": "6"
-      },
-      "away": {
-        "rank": "16",
-        "wins": "0",
-        "losses": "2",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "2",
-        "pointsAgainst": "11"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Tampa Bay Lightning",
-    "away": "Washington Capitals",
-    "date": "2026-10-03T23:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401891826",
-    "injuries": {
-      "home": [
-        {
-          "name": "Yanni Gourde",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Dominic James",
-          "status": "Injured Reserve",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Patrick Thomas",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Rasmus Sandin",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "16",
-        "wins": "0",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "1",
-        "pointsAgainst": "5"
-      },
-      "away": {
-        "rank": "11",
-        "wins": "0",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
       }
     },
     "h2h": null
@@ -1997,7 +1866,7 @@
     },
     "standings": {
       "home": {
-        "rank": "3",
+        "rank": "4",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2007,7 +1876,7 @@
         "pointsAgainst": "0"
       },
       "away": {
-        "rank": "6",
+        "rank": "7",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2039,7 +1908,7 @@
     },
     "standings": {
       "home": {
-        "rank": "5",
+        "rank": "6",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2057,6 +1926,127 @@
         "gamesBehind": "1",
         "pointsFor": "6",
         "pointsAgainst": "0"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Philadelphia Flyers",
+    "away": "Carolina Hurricanes",
+    "date": "2026-10-03T23:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892435",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nikita Grebenkin",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Helge Grans",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Denver Barkey",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Seth Jarvis",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Alexander Nikishin",
+          "status": "Out",
+          "detail": "Not Specified"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "0",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "3",
+        "pointsFor": "2",
+        "pointsAgainst": "10"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "0",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "3",
+        "pointsFor": "2",
+        "pointsAgainst": "6"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Tampa Bay Lightning",
+    "away": "Washington Capitals",
+    "date": "2026-10-03T23:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401891826",
+    "injuries": {
+      "home": [
+        {
+          "name": "Yanni Gourde",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Dominic James",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Patrick Thomas",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Rasmus Sandin",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "16",
+        "wins": "0",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "4",
+        "pointsFor": "1",
+        "pointsAgainst": "5"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "1",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "2",
+        "pointsFor": "5",
+        "pointsAgainst": "2"
       }
     },
     "h2h": null
@@ -2127,7 +2117,7 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
+        "rank": "9",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -2223,64 +2213,74 @@
     "h2h": null
   },
   {
-    "home": "Philadelphia Flyers",
-    "away": "Carolina Hurricanes",
+    "home": "Buffalo Sabres",
+    "away": "Chicago Blackhawks",
     "date": "2026-10-03T23:00:00.000Z",
     "league": "NHL",
     "sport": "hockey",
     "espnSport": "hockey",
-    "gameId": "401892435",
+    "gameId": "401891776",
     "injuries": {
       "home": [
         {
-          "name": "Nikita Grebenkin",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
-          "name": "Helge Grans",
+          "name": "Alex Lyon",
           "status": "Injured Reserve",
           "detail": ""
         },
         {
-          "name": "Denver Barkey",
+          "name": "Conor Timmins",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Topias Leinonen",
           "status": "Injured Reserve",
           "detail": ""
+        },
+        {
+          "name": "Jack Rathbone",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Jason Zucker",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
         }
       ],
       "away": [
         {
-          "name": "Seth Jarvis",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
+          "name": "Andrew Mangiapane",
+          "status": "Out",
+          "detail": ""
         },
         {
-          "name": "Alexander Nikishin",
-          "status": "Out",
-          "detail": "Not Specified"
+          "name": "Connor Bedard",
+          "status": "Injured Reserve",
+          "detail": ""
         }
       ]
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "15",
         "wins": "0",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "2",
-        "pointsAgainst": "10"
+        "gamesBehind": "4",
+        "pointsFor": "3",
+        "pointsAgainst": "6"
       },
       "away": {
-        "rank": "9",
+        "rank": "16",
         "wins": "0",
-        "losses": "0",
+        "losses": "2",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "3",
-        "pointsFor": "0",
-        "pointsAgainst": "1"
+        "pointsFor": "2",
+        "pointsAgainst": "11"
       }
     },
     "h2h": null
@@ -2297,7 +2297,7 @@
       "home": [
         {
           "name": "Raphael Lavoie",
-          "status": "Day-To-Day",
+          "status": "Out",
           "detail": ""
         },
         {
@@ -2326,24 +2326,24 @@
     },
     "standings": {
       "home": {
-        "rank": "5",
+        "rank": "9",
+        "wins": "1",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "8",
+        "pointsAgainst": "6"
+      },
+      "away": {
+        "rank": "7",
         "wins": "1",
         "losses": "0",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "1",
-        "pointsFor": "5",
-        "pointsAgainst": "2"
-      },
-      "away": {
-        "rank": "10",
-        "wins": "0",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "pointsFor": "4",
+        "pointsAgainst": "3"
       }
     },
     "h2h": null
@@ -2386,6 +2386,11 @@
       ],
       "away": [
         {
+          "name": "Alexey Toropchenko",
+          "status": "Out",
+          "detail": ""
+        },
+        {
           "name": "Tyler Tucker",
           "status": "Injured Reserve",
           "detail": "Surgery"
@@ -2404,23 +2409,23 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "13",
         "wins": "0",
-        "losses": "0",
+        "losses": "1",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "3",
         "pointsFor": "0",
-        "pointsAgainst": "0"
+        "pointsAgainst": "4"
       },
       "away": {
-        "rank": "11",
-        "wins": "0",
+        "rank": "4",
+        "wins": "1",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "0",
+        "gamesBehind": "1",
+        "pointsFor": "4",
         "pointsAgainst": "0"
       }
     },
@@ -2472,24 +2477,24 @@
     },
     "standings": {
       "home": {
-        "rank": "12",
+        "rank": "11",
         "wins": "0",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
-      },
-      "away": {
-        "rank": "4",
-        "wins": "1",
         "losses": "0",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "2",
         "pointsFor": "3",
-        "pointsAgainst": "0"
+        "pointsAgainst": "4"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "2",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "-",
+        "pointsFor": "7",
+        "pointsAgainst": "3"
       }
     },
     "h2h": null
@@ -2530,7 +2535,7 @@
     },
     "standings": {
       "home": {
-        "rank": "1",
+        "rank": "2",
         "wins": "2",
         "losses": "1",
         "ties": null,
@@ -2623,14 +2628,14 @@
         "pointsAgainst": "2"
       },
       "away": {
-        "rank": "12",
+        "rank": "11",
         "wins": "0",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "0",
-        "pointsAgainst": "0"
+        "gamesBehind": "2",
+        "pointsFor": "3",
+        "pointsAgainst": "4"
       }
     },
     "h2h": null
@@ -2696,7 +2701,7 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
+        "rank": "8",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2764,7 +2769,7 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
+        "rank": "10",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -2819,6 +2824,11 @@
       ],
       "away": [
         {
+          "name": "Alexey Toropchenko",
+          "status": "Out",
+          "detail": ""
+        },
+        {
           "name": "Tyler Tucker",
           "status": "Injured Reserve",
           "detail": "Surgery"
@@ -2837,7 +2847,7 @@
     },
     "standings": {
       "home": {
-        "rank": "4",
+        "rank": "5",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2847,13 +2857,13 @@
         "pointsAgainst": "4"
       },
       "away": {
-        "rank": "11",
-        "wins": "0",
+        "rank": "4",
+        "wins": "1",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "0",
+        "gamesBehind": "1",
+        "pointsFor": "4",
         "pointsAgainst": "0"
       }
     },
@@ -2905,14 +2915,14 @@
         "pointsAgainst": "1"
       },
       "away": {
-        "rank": "4",
-        "wins": "1",
+        "rank": "1",
+        "wins": "2",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "3",
-        "pointsAgainst": "0"
+        "gamesBehind": "-",
+        "pointsFor": "7",
+        "pointsAgainst": "3"
       }
     },
     "h2h": null
@@ -2957,7 +2967,7 @@
     },
     "standings": {
       "home": {
-        "rank": "13",
+        "rank": "12",
         "wins": "0",
         "losses": "1",
         "ties": null,
@@ -2967,14 +2977,14 @@
         "pointsAgainst": "3"
       },
       "away": {
-        "rank": "9",
+        "rank": "13",
         "wins": "0",
-        "losses": "0",
+        "losses": "1",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "3",
         "pointsFor": "0",
-        "pointsAgainst": "0"
+        "pointsAgainst": "4"
       }
     },
     "h2h": null

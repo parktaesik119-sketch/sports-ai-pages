@@ -1,0 +1,37 @@
+---
+title: "크리스탈 팰리스 vs 브리스톨 시티 축구분석·승부예측 (10월 3일) - 픽천국"
+date: 2026-10-03T11:30:00.000Z
+description: "크리스탈 팰리스 vs 브리스톨 시티 축구분석: 크리스탈 팰리스와 브리스톨 시티는 시즌 전체적으로 비슷한 승률과 전력을 유지하고 있으나, 최근 흐름에서 다소 차이를 보입니다.… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6374917-2026-10-03-crystal-palace"
+category: "soccer"
+country: "국제"
+league: "Club Friendlies"
+homeTeam: "크리스탈 팰리스"
+awayTeam: "브리스톨 시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8427.png"
+homeAnalysis: "크리스탈 팰리스는 2026시즌 전체 21경기에서 9승 5무 7패를 기록하며 승률 42.9%, 평균 득점 1.6점을 기록하고 있습니다. 시즌 초반 다득점 경기를 주도하며 공격적인 색채를 보였으나, 최근 10경기에서는 3승 1무 6패에 그치며 다소 기복 있는 경기력을 노출하고 있습니다. 홈에서는 준수한 득점력을 바탕으로 승점을 챙기고 있으나, 수비진의 집중력 저하가 실점으로 이어지는 빈도가 높아진 점이 아쉽습니다. 최근 흐름상 공수 밸런스 회복이 시급하며, 홈 이점을 살려 분위기 반전을 꾀해야 하는 상황입니다. 주요 선수들의 부상 이탈이 겹치면서 전력 운용에 어려움을 겪고 있어 세밀한 전략 수정이 필요해 보입니다."
+awayAnalysis: "브리스톨 시티는 2026시즌 전체 22경기에서 7승 7무 8패를 거두며 평균 득점 1.2점을 기록하고 있습니다. 시즌 중반까지 승패를 반복하며 불안한 모습을 보이기도 했으나, 최근 10경기에서는 4승 2무 4패로 점차 경기력을 끌어올리는 흐름입니다. 특히 원정 경기에서 공격적인 집중력이 살아나며 다득점을 생산하는 경우가 늘어난 점이 고무적입니다. 시즌 전체적으로는 수비의 안정감이 다소 부족했으나, 최근 흐름상 공격진의 자신감이 충만한 상태입니다. 이번 경기에서도 원정이라는 부담을 딛고 공격적인 전술을 통해 주도권을 가져오려는 움직임이 돋보일 것으로 예상됩니다."
+homePower: "홈 경기 시 평균 득점 수치를 상회하는 공격 집중력 유지|최근 경기 수비 라인 불안정으로 인한 실점 허용 빈도 상승|주요 자원들의 부상 공백으로 인해 전술 변화의 폭 제한됨|강팀과의 맞대결에서 드러난 수비 조직력의 한계 노출|경기 후반부 집중력 유지 여부가 승패를 결정하는 핵심 요소"
+awayPower: "원정 경기에서 발휘되는 공격적인 전술의 유연함|최근 10경기 내 득점력 향상으로 보여준 개선된 공격 전력|전술 변화에 따른 수비 뒷공간 노출을 극복해야 하는 과제|승패를 오가는 기복을 줄이기 위한 경기 운영 효율성 강화|중원 싸움에서의 우위를 점하며 흐름을 주도하려는 강한 의지"
+h2h: '[{"date":"19.07.27","home":"브리스톨 시티","away":"크리스탈 팰리스","score":"0-5"},{"date":"17.10.25","home":"브리스톨 시티","away":"크리스탈 팰리스","score":"4-1"},{"date":"13.08.28","home":"브리스톨 시티","away":"크리스탈 팰리스","score":"2-1"},{"date":"13.02.20","home":"크리스탈 팰리스","away":"브리스톨 시티","score":"2-1"},{"date":"12.08.22","home":"브리스톨 시티","away":"크리스탈 팰리스","score":"4-1"}]'
+summary: "크리스탈 팰리스와 브리스톨 시티는 시즌 전체적으로 비슷한 승률과 전력을 유지하고 있으나, 최근 흐름에서 다소 차이를 보입니다. 크리스탈 팰리스는 부상 선수들의 공백으로 인해 수비와 공격 간의 연결 고리가 헐거워진 모습이며, 최근 실점 빈도가 높아진 것이 뼈아픈 상황입니다. 반면 브리스톨 시티는 원정임에도 불구하고 공격 라인의 파괴력이 점차 살아나고 있으며, 경기를 주도하는 흐름을 만들어가는 능력이 보다 안정적입니다. 양 팀의 최근 맞대결 양상과 현재의 공수 밸런스를 종합해 볼 때, 원정팀인 브리스톨 시티가 경기 흐름을 주도하며 더 우위에 있는 경기를 펼칠 가능성이 높습니다. 홈팀의 수비 불안을 원정팀이 얼마나 효과적으로 공략하느냐가 이번 경기의 승패를 가를 중요한 포인트가 될 것입니다."
+homeRecent: '[{"date":"26.09.20","home":"리즈 유나이티드","away":"크리스탈 팰리스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5795460-2026-09-20-leeds-united/"},{"date":"26.09.18","home":"크리스탈 팰리스","away":"레흐 포즈난","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6112324-2026-09-18-crystal-palace/"},{"date":"26.09.12","home":"크리스탈 팰리스","away":"입스위치 타운","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5795449-2026-09-12-crystal-palace/"},{"date":"26.09.09","home":"크리스탈 팰리스","away":"미들즈브러","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6099328-2026-09-09-crystal-palace/"},{"date":"26.09.05","home":"풀럼","away":"크리스탈 팰리스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5795439-2026-09-05-fulham/"}]'
+awayRecent: '[{"date":"26.09.19","home":"브리스톨 시티","away":"왓퍼드","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5836839-2026-09-19-bristol-city/"},{"date":"26.09.16","home":"브리스톨 시티","away":"Lincoln City","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5836816-2026-09-16-bristol-city/"},{"date":"26.09.12","home":"사우샘프턴","away":"브리스톨 시티","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5836833-2026-09-12-southampton/"},{"date":"26.09.05","home":"번리","away":"브리스톨 시티","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5836803-2026-09-05-burnley/"},{"date":"26.09.02","home":"Preston North End","away":"브리스톨 시티","score":"1-3","result":"🟢승"}]'
+injuryHome: "Axel Disasi (부상)|Anan Khalaili (허벅지 부상)|Dean Henderson (발 부상)|Jean-Philippe Mateta (햄스트링 부상)|Chadi Riad (무릎 부상)"
+injuryAway: "Luke McNally (십자 인대 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "브리스톨 시티"
+pickWinResult: "승"
+pickHandicapTeam: "브리스톨 시티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
