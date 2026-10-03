@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.28","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.10.01","home":"한신 타이거스","away":"요미우리 자이언츠","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001YOHS0-2026-10-01-hanshin-tigers/"},{"date":"26.09.30","home":"한신 타이거스","away":"야쿠르트 스왈로우스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260930YAHS0-2026-09-30-hanshin-tigers/"},{"date":"26.09.26","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926HSYK0-2026-09-26-yokohama-baystars/"},{"date":"26.09.25","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925HSYK0-2026-09-25-yokohama-baystars/"},{"date":"26.09.23","home":"야쿠르트 스왈로우스","away":"한신 타이거스","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260923HSYA0-2026-09-23-yakult-swallows/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kentaro Taira (5-8, 3.41)|https://p.npb.jp/players_photo/2026/180/db/059_01905139.jpg\"]"
+awayLineup: "[\"선발투수 Masashi Itoh (2-3, 3.23)|https://p.npb.jp/players_photo/2026/180/t/027_71375153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
