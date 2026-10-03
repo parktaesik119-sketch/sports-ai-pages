@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.01","home":"휴스턴 애스트로스","away":"시�
 injuryHome: "Rhys Hoskins (염증)|Colin Holderman (수술)|Andrew Walters (수술)"
 injuryAway: "Jake Rogers (출산 휴가)|Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Luis Castillo (신경 압박)"
 homeLineup: "[\"선발투수 P. Messick|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
-awayLineup: "[\"선발투수 H. Smith (0-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/5023126.png\"]"
+awayLineup: "[\"선발투수 H. Smith (0-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/5023126.png\",\"1번 C. Meidroth (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/5136929.png\",\"2번 R. Grichuk (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/31399.png\",\"3번 M. Vargas (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/42453.png\",\"4번 M. Murakami (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/4872595.png\",\"5번 T. Pham (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/31208.png\",\"6번 B. Doyle (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42462.png\",\"7번 K. Teel (C)|https://a.espncdn.com/i/headshots/mlb/players/full/4743772.png\",\"8번 B. Montgomery (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/4950345.png\",\"9번 C. Montgomery (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
