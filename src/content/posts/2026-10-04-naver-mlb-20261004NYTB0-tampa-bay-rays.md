@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.28","home":"필라델피아 필리스","away":"탬�
 awayRecent: '[{"date":"26.10.01","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261001BONY0-2026-10-01-new-york-yankees/"},{"date":"26.09.30","home":"뉴욕 양키즈","away":"보스턴 레드삭스","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930BONY0-2026-09-30-new-york-yankees/"},{"date":"26.09.26","home":"뉴욕 양키즈","away":"볼티모어 오리올스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926BANY2-2026-09-26-new-york-yankees/"},{"date":"26.09.25","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925TBNY0-2026-09-25-new-york-yankees/"},{"date":"26.09.24","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924TBNY0-2026-09-24-new-york-yankees/"}]'
 injuryHome: "Griffin Jax (경미)|Gavin Lux (주요)|Edwin Uceta (주요)|Jonathan Heasley (주요)|Shane McClanahan (주요)"
 injuryAway: "Aaron Judge (주요)|Ryan Weathers (주요)|Fernando Cruz (주요)|Clarke Schmidt (주요)|Kervin Castro (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Rasmussen|https://a.espncdn.com/i/headshots/mlb/players/full/42584.png\"]"
+awayLineup: "[\"선발투수 G. Cole|https://a.espncdn.com/i/headshots/mlb/players/full/32081.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

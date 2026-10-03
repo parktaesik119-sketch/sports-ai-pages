@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.09.28","home":"샌프란시스코 자이언츠","away"
 awayRecent: '[{"date":"26.10.02","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261002PHAT0-2026-10-02-atlanta-braves/"},{"date":"26.10.01","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261001PHAT0-2026-10-01-atlanta-braves/"},{"date":"26.09.30","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930PHAT0-2026-09-30-atlanta-braves/"},{"date":"26.09.28","home":"마이애미 말린스","away":"애틀랜타 브레이브스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928ATFL0-2026-09-28-miami-marlins/"},{"date":"26.09.27","home":"마이애미 말린스","away":"애틀랜타 브레이브스","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927ATFL0-2026-09-27-miami-marlins/"}]'
 injuryHome: "Will Klein (통증)|Gavin Stone (염증)|Jake Cousins (수술)|Ben Casparius (염증)|Brusdar Graterol (수술)"
 injuryAway: "Lane Thomas (좌상)|Reynaldo Lopez (염증)|Joe Jimenez (수술)|Tyler Mahle (통증)|Martin Perez (염증)"
-homeLineup: ''
+homeLineup: "[\"선발투수 T. Skubal|https://a.espncdn.com/i/headshots/mlb/players/full/42409.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""
