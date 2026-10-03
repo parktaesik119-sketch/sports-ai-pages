@@ -1,0 +1,112 @@
+[
+  {
+    "home": "Hiroshima Carp",
+    "away": "Hanshin Tigers",
+    "date": "2026-10-03T05:00:00.000Z",
+    "league": "NPB",
+    "venue": "マツダスタジアム",
+    "gameTime": "14:00",
+    "starters": {
+      "home": {
+        "name": "Masato Morishita",
+        "nameJa": "森下　暢仁",
+        "playerId": "53155151",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/c/018_53155151.jpg"
+      },
+      "away": {
+        "name": "Hiroto Saiki",
+        "nameJa": "才木　浩人",
+        "playerId": "41745134",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/t/035_41745134.jpg"
+      }
+    }
+  },
+  {
+    "home": "Yakult Swallows",
+    "away": "Chunichi Dragons",
+    "date": "2026-10-03T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "神　宮",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Hirotoshi Takanashi",
+        "nameJa": "高梨　裕稔",
+        "playerId": "21925139",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/s/040_21925139.jpg"
+      },
+      "away": {
+        "name": "Hiroto Takahashi",
+        "nameJa": "髙橋　宏斗",
+        "playerId": "61265153",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/d/019_61265153.jpg"
+      }
+    }
+  },
+  {
+    "home": "Rakuten Gold. Eagles",
+    "away": "Orix Buffaloes",
+    "date": "2026-10-03T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "楽天モバイル",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Wataru Karashima",
+        "nameJa": "辛島　航",
+        "playerId": "01505118",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/e/058_01505118.jpg"
+      },
+      "away": {
+        "name": "Allen Kuri",
+        "nameJa": "九里　亜蓮",
+        "playerId": "71775139",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/b/022_71775139.jpg"
+      }
+    }
+  },
+  {
+    "home": "Chiba Lotte Marines",
+    "away": "Fukuoka S. Hawks",
+    "date": "2026-10-03T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "ZOZOマリン",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Yuki Karakawa",
+        "nameJa": "唐川　侑己",
+        "playerId": "21525116",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/m/019_21525116.jpg"
+      },
+      "away": {
+        "name": "Haru Matsumoto",
+        "nameJa": "松本　晴",
+        "playerId": "41845157",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/h/049_41845157.jpg"
+      }
+    }
+  },
+  {
+    "home": "Yomiuri Giants",
+    "away": "Yokohama BayStars",
+    "date": "2026-10-03T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "東京ドーム",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Haruto Inoue",
+        "nameJa": "井上　温大",
+        "playerId": "51355151",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/g/097_51355151.jpg"
+      },
+      "away": {
+        "name": "Shunya Shimada",
+        "nameJa": "島田　舜也",
+        "playerId": "11015152",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/db/015_11015152.jpg"
+      }
+    }
+  }
+]

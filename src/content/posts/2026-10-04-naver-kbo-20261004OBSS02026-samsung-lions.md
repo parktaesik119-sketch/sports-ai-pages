@@ -1,0 +1,37 @@
+---
+title: "삼성 라이온스 vs 두산 베어스 야구분석·승부예측 (10월 4일) - 픽천국"
+date: 2026-10-04T05:00:00.000Z
+description: "삼성 라이온스 vs 두산 베어스 야구분석: 삼성 라이온즈는 시즌 내내 리그 상위권 성적을 유지하며 공수 전반에서 짜임새 있는 경기력을 보여주고 있습니다. 두산 베어스 역… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261004OBSS02026-2026-10-04-samsung-lions"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "삼성 라이온스"
+awayTeam: "두산 베어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+homeAnalysis: "삼성 라이온즈는 2026시즌 111경기에서 66승 2무 43패를 기록하며 리그 2위의 최상위권 성적을 유지하고 있습니다. 시즌 내내 평균 5.8득점을 생산하는 강력한 타선을 앞세워 최근 10경기에서도 7승 3패의 높은 승률을 기록하며 상승세를 이어가는 중입니다. 특히 디아즈와 김지찬을 중심으로 한 타선은 기복 없는 득점 지원을 보여주고 있으며 홈 경기에서도 안정적인 운영 능력을 입증하고 있습니다. 선발 최원태가 ERA 4.59를 기록하며 마운드를 지키고 있어 투타 밸런스가 매우 이상적입니다. 최근 상위권 팀들을 상대로도 밀리지 않는 전력을 과시하며 안정적인 경기 운영을 선보이고 있습니다."
+awayAnalysis: "두산 베어스는 2026시즌 112경기에서 59승 4무 49패를 기록하며 리그 5위의 성적을 유지하고 있습니다. 시즌 평균 4.8득점으로 다소 기복 있는 득점력을 보이지만 최근 10경기에서 6승 1무 3패를 기록하며 공수 양면에서 안정감을 찾아가고 있습니다. 선발 최승용은 ERA 6.22로 다소 불안한 요소가 있으나 팀 전체적으로는 집중력 있는 타격으로 어려운 승부를 뒤집는 저력을 발휘합니다. 양의지와 박준순 등 핵심 타자들의 활약이 최근 흐름을 주도하고 있으며 원정 경기에서도 쉽게 물러서지 않는 끈끈함을 보여줍니다. 다만 시즌 전반적인 실점 관리에서 다소 약점이 있어 이번 경기 마운드의 운영이 핵심 과제가 될 것으로 보입니다."
+homePower: "리그 2위의 탄탄한 공수 밸런스로 안정적인 홈 경기 운영함|디아즈와 김지찬 등 상위 타선의 높은 타점 생산력으로 득점력 극대화함|최원태 선발 등판 시 투구 이닝 관리와 실점 억제 능력으로 승리 공식 정립됨|최근 10경기 7승으로 팀 전체적인 분위기와 상승세 최고조에 달함|전반적인 라인업의 높은 WAR 수치로 상하위 타선 간 파괴력 격차 최소화함"
+awayPower: "양의지 중심의 중심 타선이 최근 경기에서 꾸준한 장타력을 과시함|원정 경기에서의 집중력을 바탕으로 역전승을 이끌어내는 저력 보유함|최승용의 직구와 커브 조합을 활용한 이닝 소화와 경기 운영력 극대화 필요함|중위권 싸움에서 밀리지 않는 투지와 끈질긴 추격전이 강점으로 평가됨|라인업의 안정적인 구성으로 주전들의 부상 공백 없이 최상의 전력 가동함"
+h2h: '[{"date":"26.09.16","home":"두산 베어스","away":"삼성 라이온스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260916SSOB02026-2026-09-16-doosan-bears/"},{"date":"26.07.26","home":"두산 베어스","away":"삼성 라이온스","score":"7-0","link":"https://pick79.com/posts/detail/analyze-181901-2026-07-26-doosan-bears/"},{"date":"26.07.25","home":"두산 베어스","away":"삼성 라이온스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-181892-2026-07-25-doosan-bears/"},{"date":"26.07.24","home":"두산 베어스","away":"삼성 라이온스","score":"4-15","link":"https://pick79.com/posts/detail/analyze-181890-2026-07-24-doosan-bears/"},{"date":"26.05.31","home":"삼성 라이온스","away":"두산 베어스","score":"9-4","link":"https://pick79.com/posts/detail/analyze-181683-2026-05-31-samsung-lions/"}]'
+summary: "삼성 라이온즈는 시즌 내내 리그 상위권 성적을 유지하며 공수 전반에서 짜임새 있는 경기력을 보여주고 있습니다. 두산 베어스 역시 최근 상승세를 타며 타격 집중력을 높이고 있으나 마운드의 안정감 면에서는 삼성 라이온즈가 근소하게 앞서 있는 형국입니다. 선발 매치업에서 최원태가 최승용보다 ERA와 WAR 수치상 우위에 있어 경기 초반 투수전에서도 삼성 라이온즈가 리드를 잡을 가능성이 높습니다. 두 팀 모두 타선의 파괴력은 준수하지만 안정적인 선발 마운드와 홈에서의 이점을 보유한 삼성 라이온즈가 경기를 주도하며 우위를 점할 것으로 예상됩니다."
+homeRecent: '[{"date":"26.10.01","home":"삼성 라이온스","away":"한화 이글스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001HHSS02026-2026-10-01-samsung-lions/"},{"date":"26.09.30","home":"삼성 라이온스","away":"한화 이글스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930HHSS02026-2026-09-30-samsung-lions/"},{"date":"26.09.29","home":"삼성 라이온스","away":"한화 이글스","score":"10-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929HHSS02026-2026-09-29-samsung-lions/"},{"date":"26.09.24","home":"SSG 랜더스","away":"삼성 라이온스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260924SSSK02026-2026-09-24-ssg-landers/"},{"date":"26.09.22","home":"삼성 라이온스","away":"NC 다이노스","score":"8-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260922NCSS02026-2026-09-22-samsung-lions/"}]'
+awayRecent: '[{"date":"26.10.01","home":"두산 베어스","away":"NC 다이노스","score":"9-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001NCOB02026-2026-10-01-doosan-bears/"},{"date":"26.09.30","home":"두산 베어스","away":"NC 다이노스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930NCOB02026-2026-09-30-doosan-bears/"},{"date":"26.09.29","home":"두산 베어스","away":"NC 다이노스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929NCOB02026-2026-09-29-doosan-bears/"},{"date":"26.09.27","home":"두산 베어스","away":"KT 위즈","score":"6-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260927KTOB02026-2026-09-27-doosan-bears/"},{"date":"26.09.23","home":"두산 베어스","away":"KIA 타이거즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260923HTOB02026-2026-09-23-doosan-bears/"}]'
+injuryHome: "이재익 (치료·재활중)|최원태 (부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성 라이온즈"
+pickWinResult: "승"
+pickHandicapTeam: "삼성 라이온즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
