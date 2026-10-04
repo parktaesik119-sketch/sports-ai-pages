@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.09.28","home":"밀워키 브루어스","away":"세인�
 awayRecent: '[{"date":"26.10.01","home":"샌디에이고 파드리스","away":"시카고 컵스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261001CCSD0-2026-10-01-san-diego-padres/"},{"date":"26.09.30","home":"샌디에이고 파드리스","away":"시카고 컵스","score":"8-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930CCSD0-2026-09-30-san-diego-padres/"},{"date":"26.09.28","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928AZSD0-2026-09-28-san-diego-padres/"},{"date":"26.09.26","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926AZSD0-2026-09-26-san-diego-padres/"},{"date":"26.09.25","home":"LA 다저스","away":"샌디에이고 파드리스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SDLA0-2026-09-25-los-angeles-dodgers/"}]'
 injuryHome: "Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)|Brian Fitzpatrick (수술)"
 injuryAway: "Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Walker Buehler (출산 휴가)|Casey Mize (염좌)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Henderson|https://a.espncdn.com/i/headshots/mlb/players/full/4917878.png\"]"
+awayLineup: "[\"선발투수 M. King (1-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/40429.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
