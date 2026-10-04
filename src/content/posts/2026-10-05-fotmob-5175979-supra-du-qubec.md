@@ -25,7 +25,7 @@ awayLineup: '["Eleias Himaras (GK)|https://images.fotmob.com/image_resources/pla
 homeFormation: "4-3-3"
 awayFormation: "4-4-2"
 homeCoach: "Nicholas Razzaghi|https://images.fotmob.com/image_resources/playerimages/1905775.png"
-awayCoach: "Jesse Acteson"
+awayCoach: "Terry Dunfield|https://images.fotmob.com/image_resources/playerimages/24022.png"
 pickWinTeam: "퍼시픽 FC"
 pickWinResult: "승"
 pickHandicapTeam: "퍼시픽 FC"
