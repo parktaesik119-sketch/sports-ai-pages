@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.04","home":"LA 다저스","away":"애틀랜타 브�
 injuryHome: "Will Klein (통증)|Gavin Stone (염증)|Jake Cousins (수술)|Ben Casparius (염증)|Brusdar Graterol (수술)"
 injuryAway: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Tyler Mahle (통증)|Martin Perez (염증)|Bryce Elder (수술)"
 homeLineup: "[\"선발투수 B. Snell|https://a.espncdn.com/i/headshots/mlb/players/full/33748.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 R. Kerr (0-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/40426.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
