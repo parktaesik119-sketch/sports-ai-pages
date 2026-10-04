@@ -1,0 +1,37 @@
+---
+title: "한화 이글스 vs 키움 히어로즈 야구분석·승부예측 (10월 5일) - 픽천국"
+date: 2026-10-05T05:00:00.000Z
+description: "한화 이글스 vs 키움 히어로즈 야구분석: 양 팀의 시즌 전력과 최근 페이스를 종합해 볼 때 키움 히어로즈가 우위를 점할 가능성이 높습니다. 한화 이글스는 박준영의 불안… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261005WOHH02026-2026-10-05-hanwha-eagles"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "한화 이글스"
+awayTeam: "키움 히어로즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/WO.png"
+homeAnalysis: "한화 이글스는 2026시즌 114경기에서 43승 4무 67패를 기록하며 승률 0.384와 평균 5.5득점의 성적을 거두고 있습니다. 최근 10경기에서 1승 9패로 극심한 부진에 빠져 있으며, 타선의 응집력 저하와 함께 마운드의 실점 억제력이 크게 떨어지는 모습을 보입니다. 선발로 나서는 박준영은 16경기에서 ERA 7.03과 WHIP 1.54로 불안한 투구 내용을 보이고 있어 긴 이닝 소화가 쉽지 않을 전망입니다. 팀 전체적으로 수비 안정감이 흔들리며 대량 실점을 허용하는 경기가 잦아졌습니다. 반등을 위해서는 상위 타선의 기회 창출과 함께 선발진의 조기 붕괴를 막아내는 것이 시급한 과제로 보입니다."
+awayAnalysis: "키움 히어로즈는 2026시즌 115경기에서 40승 3무 72패를 기록하며 승률 0.357과 평균 4.0득점을 기록하고 있습니다. 최근 10경기에서 3승 1무 6패를 거두며 다소 기복 있는 흐름을 보이나, 직전 경기에서 승리를 거두며 분위기 반전의 계기를 마련했습니다. 안우진은 22경기에서 ERA 3.45와 7차례의 퀄리티 스타트를 기록하며 팀 내에서 가장 신뢰할 수 있는 선발 자원으로 평가됩니다. 시속 150km를 넘나드는 직구와 날카로운 슬라이더를 앞세워 상대 타선을 효율적으로 제압하는 운영 능력이 돋보입니다. 투타 밸런스 면에서 홈팀보다 안정적인 전력을 보유하고 있어 원정임에도 자신감 있는 경기가 예상됩니다."
+homePower: "ERA 7.03의 선발 등판으로 초반 실점 우려 상존|최근 10경기 1승으로 팀 전체적인 분위기 침체 심각|상위 타선의 WAR은 준수하나 득점 지원 부족으로 고전|수비진의 집중력 저하가 불펜 과부하로 이어지는 패턴|상대 선발 상대로 긴 이닝을 끌고 갈 경기 운영력 부족"
+awayPower: "안우진의 높은 퀄리티 스타트 비율로 경기 중반까지 우위|150km대 강속구 기반의 공격적인 투구로 타자 압도|직전 맞대결 승리로 상대전적 우세 심리적 이점 확보|핵심 타자들의 출루를 바탕으로 한 득점 생산 효율성 양호|원정임에도 안정적인 선발 투수 운영으로 승산 높음"
+h2h: '[{"date":"26.10.03","home":"한화 이글스","away":"키움 히어로즈","score":"2-7","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003WOHH02026-2026-10-03-hanwha-eagles/"},{"date":"26.07.19","home":"한화 이글스","away":"키움 히어로즈","score":"9-9","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260719WOHH02026-2026-07-19-hanwha-eagles/"},{"date":"26.07.18","home":"한화 이글스","away":"키움 히어로즈","score":"2-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260718WOHH02026-2026-07-18-hanwha-eagles/"},{"date":"26.07.17","home":"한화 이글스","away":"키움 히어로즈","score":"6-7","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260717WOHH02026-2026-07-17-hanwha-eagles/"},{"date":"26.07.16","home":"한화 이글스","away":"키움 히어로즈","score":"5-14","link":"https://pick79.com/posts/detail/analyze-181852-2026-07-16-hanwha-eagles/"}]'
+summary: "양 팀의 시즌 전력과 최근 페이스를 종합해 볼 때 키움 히어로즈가 우위를 점할 가능성이 높습니다. 한화 이글스는 박준영의 불안한 제구와 최근 10경기 1승에 그친 투타 부조화가 뼈아픈 상황입니다. 반면 키움 히어로즈는 안우진이라는 확실한 선발 카드를 앞세워 상대 타선을 봉쇄하고 효율적인 공격 흐름을 가져갈 것으로 보입니다. 상대전적에서도 꾸준히 우위를 유지해온 키움 히어로즈가 이번 맞대결에서도 안정적인 투수력을 바탕으로 경기를 주도하며 승리를 가져갈 것으로 예상됩니다."
+homeRecent: '[{"date":"26.10.03","home":"한화 이글스","away":"키움 히어로즈","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003WOHH02026-2026-10-03-hanwha-eagles/"},{"date":"26.10.01","home":"삼성 라이온스","away":"한화 이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001HHSS02026-2026-10-01-samsung-lions/"},{"date":"26.09.30","home":"삼성 라이온스","away":"한화 이글스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930HHSS02026-2026-09-30-samsung-lions/"},{"date":"26.09.29","home":"삼성 라이온스","away":"한화 이글스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929HHSS02026-2026-09-29-samsung-lions/"},{"date":"26.09.27","home":"롯데 자이언츠","away":"한화 이글스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260927HHLT02026-2026-09-27-lotte-giants/"}]'
+awayRecent: '[{"date":"26.10.03","home":"한화 이글스","away":"키움 히어로즈","score":"2-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003WOHH02026-2026-10-03-hanwha-eagles/"},{"date":"26.09.30","home":"롯데 자이언츠","away":"키움 히어로즈","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930WOLT02026-2026-09-30-lotte-giants/"},{"date":"26.09.29","home":"롯데 자이언츠","away":"키움 히어로즈","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929WOLT02026-2026-09-29-lotte-giants/"},{"date":"26.09.27","home":"NC 다이노스","away":"키움 히어로즈","score":"4-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260927WONC02026-2026-09-27-nc-dinos/"},{"date":"26.09.26","home":"KT 위즈","away":"키움 히어로즈","score":"1-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260926WOKT02026-2026-09-26-kt-wiz-suwon/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "키움 히어로즈"
+pickWinResult: "승"
+pickHandicapTeam: "키움 히어로즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

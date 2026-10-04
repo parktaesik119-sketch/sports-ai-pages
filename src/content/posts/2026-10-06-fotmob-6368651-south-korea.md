@@ -1,0 +1,37 @@
+---
+title: "대한민국 vs 우즈베키스탄 축구분석·승부예측 (10월 6일) - 픽천국"
+date: 2026-10-06T10:00:00.000Z
+description: "대한민국 vs 우즈베키스탄 축구분석: 대한민국은 2026시즌 동안 압도적인 공격력과 홈에서의 안정감을 바탕으로 우즈베키스탄보다 우위를 점하고 있습니다. 우즈베키스탄… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6368651-2026-10-06-south-korea"
+category: "soccer"
+country: "국제"
+league: "국제친선"
+homeTeam: "대한민국"
+awayTeam: "우즈베키스탄"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8700.png"
+homeAnalysis: "대한민국은 2026시즌 전체 23경기에서 14승 2무 7패를 기록하며 60%가 넘는 높은 승률을 유지하고 있습니다. 시즌 평균 득점은 9.0점으로 공격적인 전술을 구사하고 있으며 홈 경기를 중심으로 안정적인 경기 운영을 선보이는 것이 특징입니다. 최근 다소 기복 있는 흐름을 보이고 있으나, 전반적인 시즌 데이터상으로는 압도적인 득점 지원을 바탕으로 상대를 압박하는 능력이 탁월합니다. 팀의 핵심 자원인 Jens Castrop이 부상으로 이탈한 점은 전술 운용에 변수가 될 수 있으나, 가용 전력을 활용한 효율적인 공수 전환으로 위기를 극복하고 있습니다. 상대와의 맞대결에서 우위를 점했던 기억이 많은 만큼 홈 이점을 최대한 살려 주도권을 쥐고 경기를 풀어나갈 것으로 보입니다."
+awayAnalysis: "우즈베키스탄은 2026시즌 전체 7경기에서 2승 5패를 기록하며 다소 어려운 흐름을 겪고 있습니다. 시즌 평균 득점은 1.4점으로 제한적이며 수비 조직력에서 나타나는 빈틈을 메우는 것이 이번 경기의 핵심 과제로 평가됩니다. 최근 맞대결 기록들을 살펴보면 대한민국을 상대로 고전했던 경기가 많아 심리적인 부담감을 극복하는 것이 급선무입니다. 그럼에도 불구하고 시리아나 이란을 상대로 보여준 득점 생산력은 무시할 수 없는 전력 요소이며, 원정 경기에서 강한 상대를 맞아 얼마나 수비를 견고하게 유지하느냐가 승부의 열쇠가 될 것입니다. 전력상 열세에 놓여 있으나 최근 흐름 속에서 발견되는 집중력을 통해 반전의 계기를 마련하고자 할 것입니다."
+homePower: "홈에서 구축한 탄탄한 승점 관리 능력과 다득점 패턴|주요 자원 부상에도 불구하고 유지되는 강력한 공격 전개|상대전적 우위를 통한 심리적 자신감 확인됨|공격적인 전술로 상대 수비진을 조기에 붕괴시키는 패턴|꾸준한 득점 생산력으로 경기당 평균 수치 이상의 효율 증명됨"
+awayPower: "제한된 기회 속에서도 득점을 만들어내는 집중력|원정 경기 수비 집중력 보완이 절실한 상황|맞대결 기록에서 드러난 실점 억제력 보완 필요|상대 공세에 대응하는 역습 효율 극대화 전략|시즌 후반으로 갈수록 전술적 유연성 확보가 관건"
+h2h: '[{"date":"18.11.20","home":"대한민국","away":"우즈베키스탄","score":"4-0"},{"date":"17.09.06","home":"우즈베키스탄","away":"대한민국","score":"0-0"},{"date":"16.11.15","home":"대한민국","away":"우즈베키스탄","score":"2-1"},{"date":"15.03.27","home":"대한민국","away":"우즈베키스탄","score":"1-1"},{"date":"15.01.22","home":"대한민국","away":"우즈베키스탄","score":"2-0"}]'
+summary: "대한민국은 2026시즌 동안 압도적인 공격력과 홈에서의 안정감을 바탕으로 우즈베키스탄보다 우위를 점하고 있습니다. 우즈베키스탄은 원정에서 수비 불안이 노출되고 있으며 과거 상대전적에서도 대한민국이 강세를 보인 점을 고려할 때 이번 경기 역시 대한민국의 주도하에 흐름이 이어질 가능성이 매우 높습니다. 대한민국은 탄탄한 전력을 앞세워 상대를 압박할 것이며, 전반적으로 경기를 유리하게 이끌어갈 것으로 예상됩니다."
+homeRecent: '[{"date":"26.10.02","home":"대한민국","away":"베네수엘라","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6280452-2026-10-02-south-korea/"},{"date":"26.09.28","home":"대한민국","away":"우루과이","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6210557-2026-09-28-south-korea/"},{"date":"26.09.24","home":"대한민국","away":"에콰도르","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6280195-2026-09-24-south-korea/"},{"date":"26.06.25","home":"남아프리카공화국","away":"대한민국","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1489407-2026-06-25-south-africa/"},{"date":"26.06.19","home":"멕시코","away":"대한민국","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1489388-2026-06-19-mexico/"}]'
+awayRecent: '[{"date":"26.10.01","home":"우즈베키스탄","away":"시리아","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6280451-2026-10-01-uzbekistan/"},{"date":"26.09.24","home":"우즈베키스탄","away":"이란","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6280204-2026-09-24-uzbekistan/"},{"date":"26.06.28","home":"콩고 민주공화국","away":"우즈베키스탄","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1539013-2026-06-28-congo-dr/"},{"date":"26.06.24","home":"포르투갈","away":"우즈베키스탄","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1489404-2026-06-24-portugal/"},{"date":"26.06.18","home":"우즈베키스탄","away":"콜롬비아","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1489386-2026-06-18-uzbekistan/"}]'
+injuryHome: "Jens Castrop (어깨 부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "대한민국"
+pickWinResult: "승"
+pickHandicapTeam: "대한민국"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

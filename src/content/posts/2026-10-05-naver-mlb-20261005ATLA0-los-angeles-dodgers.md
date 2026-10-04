@@ -1,0 +1,37 @@
+---
+title: "LA 다저스 vs 애틀랜타 브레이브스 야구분석·승부예측 (10월 5일) - 픽천국"
+date: 2026-10-05T00:00:00.000Z
+description: "LA 다저스 vs 애틀랜타 브레이브스 야구분석: LA 다저스와 애틀랜타 브레이브스는 각각 리그순위 2위와 3위를 기록하며 올 시즌 치열한 상위권 경쟁을 펼치고 있습니다. LA… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20261005ATLA0-2026-10-05-los-angeles-dodgers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "LA 다저스"
+awayTeam: "애틀랜타 브레이브스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/AT.png"
+homeAnalysis: "LA 다저스는 2026시즌 전체 113경기에서 71승 42패, 승률 .628을 기록하며 리그순위 2위에 올라 있는 강력한 전력을 보유하고 있습니다. 시즌 내내 공수 조화를 바탕으로 안정적인 경기 운영을 펼쳐왔으며, 최근 10경기에서도 7승을 거두는 등 매우 우수한 전력을 유지하고 있습니다. 특히 타선의 집중력과 홈에서의 이점을 앞세워 상위권 순위를 견고히 지켜내고 있습니다. 비록 최근 일부 경기에서 실점이 동반되기도 했으나, 투타의 핵심 자원들이 제 역할을 다해주며 승리를 쌓아가는 저력을 보입니다. 탄탄한 선수층을 바탕으로 한 안정적인 경기력은 이번 경기에서도 기대되는 요소입니다."
+awayAnalysis: "애틀랜타 브레이브스는 2026시즌 전체 128경기에서 69승 57패, 승률 .548을 기록하며 리그순위 3위에 위치하고 있습니다. 시즌 중반 다소 기복을 보이기도 했으나, 여전히 리그 상위권의 경쟁력을 충분히 증명하고 있습니다. 최근 10경기에서는 4승 6패로 다소 주춤한 흐름을 보이고 있지만, 전반적인 투타의 짜임새는 여전히 위협적입니다. 특히 경기 후반부에 집중력을 발휘하는 모습이 돋보이며, 승리를 향한 끈질긴 추격전은 애틀랜타 브레이브스만의 강점입니다. 이번 경기를 통해 최근의 아쉬운 흐름을 끊어내고 상위권의 위상을 재확인하고자 할 것입니다."
+homePower: "리그순위 2위의 공수 밸런스 유지함|최근 10경기 7승으로 높은 승률 기록함|홈 경기에서 타선의 파괴력 극대화됨|투수진의 위기 관리 능력 검증됨|주요 부상자 공백에도 대체 자원 활약 중"
+awayPower: "리그순위 3위로 상위권 전력 확인됨|상대 전적 5승 1패로 확실한 상성 우위|경기 후반부 강한 집중력과 끈기 보임|최근 타선 침체 극복이 승패의 핵심임|원정 경기에서의 실점 최소화가 과제임"
+h2h: '[{"date":"26.10.04","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004ATLA0-2026-10-04-los-angeles-dodgers/"},{"date":"26.08.28","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260828LAAT0-2026-08-28-atlanta-braves/"},{"date":"26.08.27","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260827LAAT0-2026-08-27-atlanta-braves/"},{"date":"26.08.26","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260826LAAT0-2026-08-26-atlanta-braves/"},{"date":"26.05.11","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"2-7","link":"https://pick79.com/posts/detail/analyze-178613-2026-05-11-los-angeles-dodgers/"}]'
+summary: "LA 다저스와 애틀랜타 브레이브스는 각각 리그순위 2위와 3위를 기록하며 올 시즌 치열한 상위권 경쟁을 펼치고 있습니다. LA 다저스는 최근 높은 승률을 바탕으로 상승세를 타고 있는 반면, 애틀랜타 브레이브스는 최근 10경기에서 다소 기복 있는 모습을 보이며 재정비가 필요한 상황입니다. 하지만 이번 시즌 상대전적에서 애틀랜타 브레이브스가 5승 1패로 확실한 우위를 점하고 있다는 점은 이번 승부의 중요한 변수로 작용할 것으로 보입니다. 양 팀 모두 전력상 큰 격차가 없는 만큼 투수진의 안정적인 운영과 타선의 응집력이 승패를 결정지을 것으로 기대됩니다."
+homeRecent: '[{"date":"26.10.04","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004ATLA0-2026-10-04-los-angeles-dodgers/"},{"date":"26.09.28","home":"샌프란시스코 자이언츠","away":"LA 다저스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928LASF0-2026-09-28-san-francisco-giants/"},{"date":"26.09.27","home":"샌프란시스코 자이언츠","away":"LA 다저스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927LASF0-2026-09-27-san-francisco-giants/"},{"date":"26.09.25","home":"LA 다저스","away":"샌디에이고 파드리스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SDLA0-2026-09-25-los-angeles-dodgers/"},{"date":"26.09.24","home":"LA 다저스","away":"샌디에이고 파드리스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260924SDLA0-2026-09-24-los-angeles-dodgers/"}]'
+awayRecent: '[{"date":"26.10.04","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004ATLA0-2026-10-04-los-angeles-dodgers/"},{"date":"26.10.02","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261002PHAT0-2026-10-02-atlanta-braves/"},{"date":"26.10.01","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261001PHAT0-2026-10-01-atlanta-braves/"},{"date":"26.09.30","home":"애틀랜타 브레이브스","away":"필라델피아 필리스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930PHAT0-2026-09-30-atlanta-braves/"},{"date":"26.09.28","home":"마이애미 말린스","away":"애틀랜타 브레이브스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928ATFL0-2026-09-28-miami-marlins/"}]'
+injuryHome: "Will Klein (통증)|Gavin Stone (염증)|Jake Cousins (수술)|Ben Casparius (염증)|Brusdar Graterol (수술)"
+injuryAway: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Tyler Mahle (통증)|Martin Perez (염증)|Bryce Elder (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 브레이브스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 브레이브스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---
