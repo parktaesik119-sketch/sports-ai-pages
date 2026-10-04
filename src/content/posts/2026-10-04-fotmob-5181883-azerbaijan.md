@@ -25,7 +25,7 @@ awayLineup: '["Tomas Švedkauskas (GK)|https://images.fotmob.com/image_resources
 homeFormation: "5-4-1"
 awayFormation: "3-4-3"
 homeCoach: "Aykhan Abbasov|https://images.fotmob.com/image_resources/playerimages/169840.png"
-awayCoach: ""
+awayCoach: "Edgaras Jankauskas|https://images.fotmob.com/image_resources/playerimages/32565.png"
 pickWinTeam: ""
 pickWinResult: "무승부"
 pickHandicapTeam: ""
