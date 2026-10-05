@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.04","home":"한화 이글스","away":"키움 히어
 awayRecent: '[{"date":"26.10.04","home":"NC 다이노스","away":"SSG 랜더스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004SKNC02026-2026-10-04-nc-dinos/"},{"date":"26.10.03","home":"NC 다이노스","away":"SSG 랜더스","score":"13-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003SKNC02026-2026-10-03-nc-dinos/"},{"date":"26.10.01","home":"SSG 랜더스","away":"LG 트윈스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001LGSK02026-2026-10-01-ssg-landers/"},{"date":"26.09.30","home":"SSG 랜더스","away":"LG 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930LGSK02026-2026-09-30-ssg-landers/"},{"date":"26.09.29","home":"SSG 랜더스","away":"LG 트윈스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929LGSK02026-2026-09-29-ssg-landers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 최인호 (우익수)\",\"2번 정은원 (2루수)\",\"3번 문현빈 (중견수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 허인서 (포수)\",\"7번 김태연 (1루수)\",\"8번 한지윤 (좌익수)\",\"9번 박정현 (유격수)\"]"
-awayLineup: "[\"1번 박성한 (유격수)\",\"2번 정준재 (2루수)\",\"3번 에레디아 (좌익수)\",\"4번 전의산 (1루수)\",\"5번 고명준 (3루수)\",\"6번 김재환 (지명타자)\",\"7번 최지훈 (중견수)\",\"8번 조형우 (포수)\",\"9번 김정민 (우익수)\"]"
+homeLineup: "[\"1번 최인호 (중견수)\",\"2번 이도윤 (2루수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 허인서 (포수)\",\"7번 김태연 (1루수)\",\"8번 유민 (우익수)\",\"9번 박정현 (유격수)\"]"
+awayLineup: "[\"1번 박성한 (유격수)\",\"2번 김재환 (지명타자)\",\"3번 에레디아 (좌익수)\",\"4번 전의산 (1루수)\",\"5번 고명준 (3루수)\",\"6번 조형우 (포수)\",\"7번 최지훈 (중견수)\",\"8번 안상현 (2루수)\",\"9번 김정민 (우익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
