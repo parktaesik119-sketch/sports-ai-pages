@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.04","home":"지바 롯데 마린스","away":"라쿠
 awayRecent: '[{"date":"26.09.29","home":"세이부 라이온즈","away":"오릭스 버팔로스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260929OXSE0-2026-09-29-seibu-lions/"},{"date":"26.09.28","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928RTSE0-2026-09-28-seibu-lions/"},{"date":"26.09.27","home":"세이부 라이온즈","away":"라쿠텐 골든이글스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927RTSE0-2026-09-27-seibu-lions/"},{"date":"26.09.26","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926JLSE0-2026-09-26-seibu-lions/"},{"date":"26.09.25","home":"세이부 라이온즈","away":"지바 롯데 마린스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925JLSE0-2026-09-25-seibu-lions/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Joey Lucchesi (1-2, 3.10)|https://p.npb.jp/players_photo/2026/180/m/048_93095152.jpg\"]"
+awayLineup: "[\"선발투수 Natsuki Takeuchi (11-8, 3.37)|https://p.npb.jp/players_photo/2026/180/l/021_51255159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
