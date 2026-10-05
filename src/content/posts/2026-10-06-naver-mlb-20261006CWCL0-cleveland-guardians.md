@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.04","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.10.04","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004CWCL0-2026-10-04-cleveland-guardians/"},{"date":"26.10.01","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261001CWHO0-2026-10-01-houston-astros/"},{"date":"26.09.30","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930CWHO0-2026-09-30-houston-astros/"},{"date":"26.09.28","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928COCW0-2026-09-28-chicago-white-sox/"},{"date":"26.09.27","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"6-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927COCW0-2026-09-27-chicago-white-sox/"}]'
 injuryHome: "Rhys Hoskins (10일 부상자 명단 - 염증)|Colin Holderman (15일 부상자 명단 - 수술)|Andrew Walters (결장 - 수술)"
 injuryAway: "Prelander Berroa (60일 부상자 명단 - 수술)|Joey Bart (10일 부상자 명단 - 골절)|Tanner Murray (60일 부상자 명단 - 수술)|Luis Castillo (15일 부상자 명단 - 신경 압박)|Ky Bush (60일 부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Williams|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 A. Kay (1-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/40947.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
