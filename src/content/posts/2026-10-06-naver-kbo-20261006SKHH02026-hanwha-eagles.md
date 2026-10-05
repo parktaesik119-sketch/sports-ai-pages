@@ -1,0 +1,37 @@
+---
+title: "한화 이글스 vs SSG 랜더스 야구분석·승부예측 (10월 6일) - 픽천국"
+date: 2026-10-06T09:30:00.000Z
+description: "한화 이글스 vs SSG 랜더스 야구분석: 양 팀의 최근 흐름은 정반대의 양상을 보이고 있습니다. 한화 이글스는 10경기 1승 9패의 부진으로 공수 전반에서 어려움을 겪… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261006SKHH02026-2026-10-06-hanwha-eagles"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "한화 이글스"
+awayTeam: "SSG 랜더스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HH.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+homeAnalysis: "한화 이글스는 2026시즌 총 115경기에서 43승 4무 68패를 기록하며 리그 9위에 머물러 있습니다. 시즌 평균 5.5득점을 기록하며 공격적인 면모를 보이기도 했으나, 최근 10경기에서 1승 9패라는 극심한 부진을 겪으며 흐름이 크게 꺾인 상태입니다. 특히 투타의 밸런스가 무너진 모습이 자주 노출되어 경기 후반 실점 억제력에서 아쉬움을 남기고 있습니다. 타선에서는 문현빈과 강백호가 준수한 WAR을 기록하며 분전하고 있지만, 팀 전체의 연승을 이끌어내기에는 역부족인 상황입니다. 홈 경기장에서도 안정적인 운영보다는 기복 있는 경기력을 반복하며 반등의 실마리를 찾지 못하고 있습니다."
+awayAnalysis: "SSG 랜더스는 2026시즌 114경기에서 47승 5무 62패를 기록하며 리그 6위에 위치하고 있습니다. 시즌 평균 4.7득점의 공격력을 바탕으로 최근 10경기에서 7승 3패를 거두며 매우 안정적이고 상승세인 전력을 뽐내고 있습니다. 박성한과 정준재를 중심으로 한 타선의 응집력이 돋보이며, 상위 타선부터 이어지는 공격 흐름이 팀의 승리를 견인하는 핵심 요소로 자리 잡았습니다. 수비 조직력 또한 탄탄하게 유지되면서 실점을 최소화하는 효율적인 경기를 펼치고 있습니다. 시즌 내내 꾸준한 전력을 유지해온 만큼 이번 경기에서도 원정에서의 불리함을 극복할 만한 짜임새 있는 경기 운영을 보여줄 것으로 기대됩니다."
+homePower: "최근 10경기 9패로 경기력 난조 심화|문현빈과 강백호 중심 타선 화력은 유지|시즌 후반기 투수진 실점 억제력 부족|홈 경기장 이점 활용한 반등세 보이지 않음|타선 집중력 대비 수비 실책 변수 상존"
+awayPower: "최근 10경기 7승으로 팀 분위기 최상|박성한 주축 상위 타선 득점 생산력 우수|투타 밸런스 안정적이며 역전승 빈도 높음|시즌 상대전적 우위로 심리적 자신감 충만|연승 흐름을 이어가는 조직적인 경기 운영"
+h2h: '[{"date":"26.09.10","home":"SSG 랜더스","away":"한화 이글스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260910HHSK02026-2026-09-10-ssg-landers/"},{"date":"26.08.27","home":"SSG 랜더스","away":"한화 이글스","score":"13-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260827HHSK02026-2026-08-27-ssg-landers/"},{"date":"26.08.26","home":"SSG 랜더스","away":"한화 이글스","score":"6-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826HHSK02026-2026-08-26-ssg-landers/"},{"date":"26.08.25","home":"SSG 랜더스","away":"한화 이글스","score":"7-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825HHSK02026-2026-08-25-ssg-landers/"},{"date":"26.06.28","home":"SSG 랜더스","away":"한화 이글스","score":"3-6","link":"https://pick79.com/posts/detail/analyze-181806-2026-06-28-ssg-landers/"}]'
+summary: "양 팀의 최근 흐름은 정반대의 양상을 보이고 있습니다. 한화 이글스는 10경기 1승 9패의 부진으로 공수 전반에서 어려움을 겪는 반면, SSG 랜더스는 7승 3패의 가파른 상승세를 타며 전력의 안정감을 더하고 있습니다. 상대전적에서도 SSG 랜더스가 최근 맞대결에서 우위를 점하고 있어 경기를 풀어가는 주도권 측면에서 원정팀의 우세가 예상됩니다. 한화 이글스는 타선의 분전에도 불구하고 투수진의 안정감이 뒷받침되어야 승산을 기대할 수 있는 상황입니다. 반면 SSG 랜더스는 짜임새 있는 타선과 안정된 수비를 바탕으로 경기를 운영하는 만큼 원정임에도 불구하고 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.10.04","home":"한화 이글스","away":"키움 히어로즈","score":"3-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004WOHH02026-2026-10-04-hanwha-eagles/"},{"date":"26.10.03","home":"한화 이글스","away":"키움 히어로즈","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003WOHH02026-2026-10-03-hanwha-eagles/"},{"date":"26.10.01","home":"삼성 라이온스","away":"한화 이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001HHSS02026-2026-10-01-samsung-lions/"},{"date":"26.09.30","home":"삼성 라이온스","away":"한화 이글스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930HHSS02026-2026-09-30-samsung-lions/"},{"date":"26.09.29","home":"삼성 라이온스","away":"한화 이글스","score":"10-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929HHSS02026-2026-09-29-samsung-lions/"}]'
+awayRecent: '[{"date":"26.10.04","home":"NC 다이노스","away":"SSG 랜더스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004SKNC02026-2026-10-04-nc-dinos/"},{"date":"26.10.03","home":"NC 다이노스","away":"SSG 랜더스","score":"13-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003SKNC02026-2026-10-03-nc-dinos/"},{"date":"26.10.01","home":"SSG 랜더스","away":"LG 트윈스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001LGSK02026-2026-10-01-ssg-landers/"},{"date":"26.09.30","home":"SSG 랜더스","away":"LG 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930LGSK02026-2026-09-30-ssg-landers/"},{"date":"26.09.29","home":"SSG 랜더스","away":"LG 트윈스","score":"7-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929LGSK02026-2026-09-29-ssg-landers/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "SSG 랜더스"
+pickWinResult: "승"
+pickHandicapTeam: "SSG 랜더스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

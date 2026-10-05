@@ -1,0 +1,46 @@
+[
+  {
+    "home": "Chiba Lotte Marines",
+    "away": "Seibu Lions",
+    "date": "2026-10-05T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "ZOZOマリン",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Yuji Nishino",
+        "nameJa": "西野　勇士",
+        "playerId": "01205118",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/m/029_01205118.jpg"
+      },
+      "away": {
+        "name": "Kona Takahashi",
+        "nameJa": "髙橋　光成",
+        "playerId": "71075130",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/l/013_71075130.jpg"
+      }
+    }
+  },
+  {
+    "home": "Rakuten Gold. Eagles",
+    "away": "Fukuoka S. Hawks",
+    "date": "2026-10-05T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "楽天モバイル",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Kenta Maeda",
+        "nameJa": "前田　健太",
+        "playerId": "51655114",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/e/018_51655114.jpg"
+      },
+      "away": {
+        "name": "Taiga Kamichatani",
+        "nameJa": "上茶谷　大河",
+        "playerId": "81585138",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/h/064_81585138.jpg"
+      }
+    }
+  }
+]
