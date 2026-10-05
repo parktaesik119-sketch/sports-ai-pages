@@ -2442,7 +2442,7 @@
         "pointsAgainst": "6"
       },
       "away": {
-        "rank": "5",
+        "rank": "7",
         "wins": "2",
         "losses": "1",
         "ties": null,
@@ -2525,7 +2525,7 @@
         "pointsAgainst": "5"
       },
       "away": {
-        "rank": "7",
+        "rank": "10",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2533,74 +2533,6 @@
         "gamesBehind": "2",
         "pointsFor": "6",
         "pointsAgainst": "6"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Vancouver Canucks",
-    "away": "Calgary Flames",
-    "date": "2026-10-04T02:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401892440",
-    "injuries": {
-      "home": [
-        {
-          "name": "Jake DeBrusk",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Jack Thompson",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Akil Thomas",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Mackenzie MacEachern",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Thatcher Demko",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ],
-      "away": [
-        {
-          "name": "Jonathan Huberdeau",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "6",
-        "wins": "2",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "17",
-        "pointsAgainst": "15"
-      },
-      "away": {
-        "rank": "15",
-        "wins": "0",
-        "losses": "2",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "5",
-        "pointsFor": "2",
-        "pointsAgainst": "10"
       }
     },
     "h2h": null
@@ -2666,7 +2598,7 @@
     },
     "standings": {
       "home": {
-        "rank": "4",
+        "rank": "5",
         "wins": "2",
         "losses": "0",
         "ties": null,
@@ -2684,6 +2616,74 @@
         "gamesBehind": "4",
         "pointsFor": "8",
         "pointsAgainst": "13"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Vancouver Canucks",
+    "away": "Calgary Flames",
+    "date": "2026-10-04T02:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892440",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jake DeBrusk",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jack Thompson",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Akil Thomas",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Mackenzie MacEachern",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Thatcher Demko",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jonathan Huberdeau",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "2",
+        "losses": "2",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "19",
+        "pointsAgainst": "18"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "0",
+        "losses": "3",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "5",
+        "pointsFor": "3",
+        "pointsAgainst": "16"
       }
     },
     "h2h": null
@@ -2754,7 +2754,7 @@
         "pointsAgainst": "5"
       },
       "away": {
-        "rank": "11",
+        "rank": "12",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -2812,7 +2812,7 @@
     },
     "standings": {
       "home": {
-        "rank": "12",
+        "rank": "11",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -3016,7 +3016,7 @@
         "pointsAgainst": "5"
       },
       "away": {
-        "rank": "7",
+        "rank": "10",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -3147,97 +3147,24 @@
     },
     "standings": {
       "home": {
-        "rank": "6",
+        "rank": "9",
+        "wins": "2",
+        "losses": "2",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "19",
+        "pointsAgainst": "18"
+      },
+      "away": {
+        "rank": "8",
         "wins": "2",
         "losses": "1",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "1",
-        "pointsFor": "17",
-        "pointsAgainst": "15"
-      },
-      "away": {
-        "rank": "10",
-        "wins": "1",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "8",
-        "pointsAgainst": "6"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Anaheim Ducks",
-    "away": "Florida Panthers",
-    "date": "2026-10-05T00:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401891778",
-    "injuries": {
-      "home": [
-        {
-          "name": "Drew Helleson",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Troy Terry",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Ian Moore",
-          "status": "Injured Reserve",
-          "detail": "Not Specified"
-        }
-      ],
-      "away": [
-        {
-          "name": "Aaron Ekblad",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Aleksander Barkov",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "MacKenzie Entwistle",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Jonah Gadjovich",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "8",
-        "wins": "1",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "4",
-        "pointsAgainst": "3"
-      },
-      "away": {
-        "rank": "5",
-        "wins": "1",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "4",
-        "pointsAgainst": "4"
+        "pointsFor": "11",
+        "pointsAgainst": "8"
       }
     },
     "h2h": null
@@ -3273,29 +3200,29 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
-        "wins": "1",
+        "rank": "6",
+        "wins": "2",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "7",
-        "pointsAgainst": "4"
+        "gamesBehind": "1",
+        "pointsFor": "13",
+        "pointsAgainst": "5"
       },
       "away": {
-        "rank": "15",
+        "rank": "16",
         "wins": "0",
-        "losses": "2",
+        "losses": "3",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "5",
-        "pointsFor": "2",
-        "pointsAgainst": "10"
+        "pointsFor": "3",
+        "pointsAgainst": "16"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "SEA leads series 1-0",
+      "text": "SEA leads series 2-0",
       "totalGames": 1,
       "games": [
         {
@@ -3308,6 +3235,79 @@
         }
       ]
     }
+  },
+  {
+    "home": "Anaheim Ducks",
+    "away": "Florida Panthers",
+    "date": "2026-10-05T00:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401891778",
+    "injuries": {
+      "home": [
+        {
+          "name": "Drew Helleson",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Troy Terry",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Ian Moore",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        }
+      ],
+      "away": [
+        {
+          "name": "Aaron Ekblad",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Aleksander Barkov",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "MacKenzie Entwistle",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Jonah Gadjovich",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "2",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "7",
+        "pointsAgainst": "5"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "1",
+        "losses": "0",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "2",
+        "pointsFor": "6",
+        "pointsAgainst": "7"
+      }
+    },
+    "h2h": null
   },
   {
     "home": "New York Rangers",
@@ -3368,137 +3368,6 @@
         "gamesBehind": "4",
         "pointsFor": "7",
         "pointsAgainst": "2"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "New Jersey Devils",
-    "away": "Utah Mammoth",
-    "date": "2026-10-06T23:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401892451",
-    "injuries": {
-      "home": [
-        {
-          "name": "Connor Brown",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
-          "name": "Seamus Casey",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Johnathan Kovacevic",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Nick Bjugstad",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ],
-      "away": [
-        {
-          "name": "Maveric Lamoureux",
-          "status": "Injured Reserve",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "13",
-        "wins": "1",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "3",
-        "pointsAgainst": "8"
-      },
-      "away": {
-        "rank": "5",
-        "wins": "2",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "12",
-        "pointsAgainst": "5"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Toronto Maple Leafs",
-    "away": "Nashville Predators",
-    "date": "2026-10-06T23:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401892449",
-    "injuries": {
-      "home": [
-        {
-          "name": "Dakota Joshua",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Max Domi",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Cade Webber",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Elvis Merzlikins",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "William Villeneuve",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ],
-      "away": [
-        {
-          "name": "Justus Annunen",
-          "status": "Day-To-Day",
-          "detail": ""
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "14",
-        "wins": "1",
-        "losses": "2",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "6",
-        "pointsAgainst": "7"
-      },
-      "away": {
-        "rank": "12",
-        "wins": "1",
-        "losses": "1",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "3",
-        "pointsAgainst": "4"
       }
     },
     "h2h": null
@@ -3592,6 +3461,137 @@
     "h2h": null
   },
   {
+    "home": "Toronto Maple Leafs",
+    "away": "Nashville Predators",
+    "date": "2026-10-06T23:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892449",
+    "injuries": {
+      "home": [
+        {
+          "name": "Dakota Joshua",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Max Domi",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Cade Webber",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Elvis Merzlikins",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "William Villeneuve",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Justus Annunen",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "1",
+        "losses": "2",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "4",
+        "pointsFor": "6",
+        "pointsAgainst": "7"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "1",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "3",
+        "pointsFor": "3",
+        "pointsAgainst": "4"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "New Jersey Devils",
+    "away": "Utah Mammoth",
+    "date": "2026-10-06T23:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892451",
+    "injuries": {
+      "home": [
+        {
+          "name": "Connor Brown",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Seamus Casey",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Johnathan Kovacevic",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Nick Bjugstad",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Maveric Lamoureux",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "1",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "4",
+        "pointsFor": "3",
+        "pointsAgainst": "8"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "2",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "12",
+        "pointsAgainst": "5"
+      }
+    },
+    "h2h": null
+  },
+  {
     "home": "Montreal Canadiens",
     "away": "Carolina Hurricanes",
     "date": "2026-10-06T23:00:00.000Z",
@@ -3642,7 +3642,7 @@
     },
     "standings": {
       "home": {
-        "rank": "4",
+        "rank": "5",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -3740,7 +3740,7 @@
         "pointsAgainst": "6"
       },
       "away": {
-        "rank": "4",
+        "rank": "5",
         "wins": "2",
         "losses": "0",
         "ties": null,
