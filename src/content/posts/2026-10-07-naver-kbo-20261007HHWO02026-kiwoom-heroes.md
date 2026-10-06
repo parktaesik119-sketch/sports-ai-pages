@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.10.05","home":"한화 이글스","away":"키움 히어
 awayRecent: '[{"date":"26.10.05","home":"한화 이글스","away":"키움 히어로즈","score":"13-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005WOHH02026-2026-10-05-hanwha-eagles/"},{"date":"26.10.04","home":"한화 이글스","away":"키움 히어로즈","score":"3-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004WOHH02026-2026-10-04-hanwha-eagles/"},{"date":"26.10.03","home":"한화 이글스","away":"키움 히어로즈","score":"2-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003WOHH02026-2026-10-03-hanwha-eagles/"},{"date":"26.10.01","home":"삼성 라이온스","away":"한화 이글스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001HHSS02026-2026-10-01-samsung-lions/"},{"date":"26.09.30","home":"삼성 라이온스","away":"한화 이글스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930HHSS02026-2026-09-30-samsung-lions/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 추재현 (중견수)\",\"2번 데이비슨 (1루수)\",\"3번 히우라 (좌익수)\",\"4번 박찬혁 (우익수)\",\"5번 김건희 (지명타자)\",\"6번 여동욱 (3루수)\",\"7번 김재현 (포수)\",\"8번 최재영 (2루수)\",\"9번 권혁빈 (유격수)\"]"
+homeLineup: "[\"1번 추재현 (지명타자)\",\"2번 데이비슨 (1루수)\",\"3번 히우라 (좌익수)\",\"4번 김웅빈 (3루수)\",\"5번 박찬혁 (우익수)\",\"6번 임병욱 (중견수)\",\"7번 김동헌 (포수)\",\"8번 염승원 (2루수)\",\"9번 최재영 (유격수)\"]"
 awayLineup: "[\"1번 최인호 (중견수)\",\"2번 이도윤 (2루수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 허인서 (포수)\",\"7번 김태연 (1루수)\",\"8번 유민 (우익수)\",\"9번 박정현 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""

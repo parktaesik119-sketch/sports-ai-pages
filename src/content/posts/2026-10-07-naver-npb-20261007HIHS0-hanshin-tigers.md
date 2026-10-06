@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.04","home":"요코하마 DeNA 베이스타스","awa
 awayRecent: '[{"date":"26.10.04","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261004HIYA0-2026-10-04-yakult-swallows/"},{"date":"26.10.03","home":"히로시마 도요 카프","away":"한신 타이거스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261003HSHI0-2026-10-03-hiroshima-carp/"},{"date":"26.10.01","home":"히로시마 도요 카프","away":"주니치 드래곤스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001JNHI0-2026-10-01-hiroshima-carp/"},{"date":"26.09.29","home":"요미우리 자이언츠","away":"히로시마 도요 카프","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260929HIYO0-2026-09-29-yomiuri-giants/"},{"date":"26.09.28","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928HIYK0-2026-09-28-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yuki Nishi (3-4, 3.29)|https://p.npb.jp/players_photo/2026/180/t/016_71275118.jpg\"]"
+awayLineup: "[\"선발투수 Shogo Tamamura (2-6, 2.76)|https://p.npb.jp/players_photo/2026/180/c/065_41245151.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
