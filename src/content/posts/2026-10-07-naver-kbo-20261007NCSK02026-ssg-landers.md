@@ -1,0 +1,37 @@
+---
+title: "SSG 랜더스 vs NC 다이노스 야구분석·승부예측 (10월 7일) - 픽천국"
+date: 2026-10-07T09:30:00.000Z
+description: "SSG 랜더스 vs NC 다이노스 야구분석: SSG 랜더스는 최근 10경기에서 7승을 거두며 팀 전력의 정점에 올라와 있으며, 특히 타선이 살아나며 매 경기 안정적인 득점… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261007NCSK02026-2026-10-07-ssg-landers"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "SSG 랜더스"
+awayTeam: "NC 다이노스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SK.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/NC.png"
+homeAnalysis: "SSG 랜더스는 2026시즌 115경기에서 48승 5무 62패를 기록하며 시즌 승률 0.436을 유지하고 있습니다. 최근 10경기에서 7승 3패의 가파른 상승세를 보이며 시즌 막판 전력의 응집력을 높이고 있습니다. 특히 최근 NC 다이노스와의 맞대결에서 3경기 중 2승을 거두는 등 상대 전적에서의 우위를 경기력으로 증명했습니다. 박성한과 에레디아를 중심으로 구성된 타선의 득점 집중력이 살아나고 있으며 투수진의 안정감도 최근 10경기 평균 5.1득점이라는 지표에서 잘 드러나고 있습니다. 홈 경기에서의 집중력과 후반기 전력 상승세가 이번 맞대결에서도 핵심 동력이 될 것으로 보입니다."
+awayAnalysis: "NC 다이노스는 2026시즌 116경기에서 52승 3무 61패를 기록하며 시즌 승률 0.460을 기록 중입니다. 최근 10경기에서 3승 7패로 다소 부진한 흐름을 이어가며 투타 밸런스 회복이 시급한 과제로 떠올랐습니다. 핵심 외야수 박건우의 부상 공백이 타선의 무게감을 떨어뜨리는 요소로 작용하고 있으며 최근 경기당 평균 4.6득점에 그치는 등 타선 응집력 저하가 두드러집니다. 박민우와 김주원을 중심으로 한 공격 전개가 필요하지만, 상대 선발과 마주하는 마운드의 부담감이 경기를 거듭할수록 커지고 있는 상황입니다. 원정 경기에서의 반등을 위해서는 상위 타선의 출루율 회복이 무엇보다 중요해 보입니다."
+homePower: "최근 10경기 7승으로 시즌 후반기 가장 뚜렷한 상승세 기록함|박성한과 에레디아의 높은 WAR 수치가 증명하는 상위 타선 파괴력|NC 다이노스 상대 최근 3연전 2승으로 심리적 자신감 확보|홈 경기에서 보여주는 투타 밸런스 기반의 안정적 운영 능력|시즌 막판 집중력 발휘하며 팀 승률 반등의 기틀 마련함"
+awayPower: "주전 외야수 박건우의 부상으로 인한 타선 뎁스 약화 현상|최근 10경기 3승 7패로 이어지는 공수 양면의 전력 기복|박민우를 필두로 한 상위 타선 출루율 의존도 심화됨|최근 맞대결 패배에서 드러난 수비진의 실점 억제력 저하|원정 경기에서의 낮은 득점 지원으로 인한 마운드 과부하 발생"
+h2h: '[{"date":"26.10.05","home":"NC 다이노스","away":"SSG 랜더스","score":"0-9","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005SKNC02026-2026-10-05-nc-dinos/"},{"date":"26.10.04","home":"NC 다이노스","away":"SSG 랜더스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004SKNC02026-2026-10-04-nc-dinos/"},{"date":"26.10.03","home":"NC 다이노스","away":"SSG 랜더스","score":"13-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003SKNC02026-2026-10-03-nc-dinos/"},{"date":"26.09.17","home":"NC 다이노스","away":"SSG 랜더스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260917SKNC02026-2026-09-17-nc-dinos/"},{"date":"26.07.26","home":"SSG 랜더스","away":"NC 다이노스","score":"5-5","link":"https://pick79.com/posts/detail/analyze-181898-2026-07-26-ssg-landers/"}]'
+summary: "SSG 랜더스는 최근 10경기에서 7승을 거두며 팀 전력의 정점에 올라와 있으며, 특히 타선이 살아나며 매 경기 안정적인 득점력을 보여주고 있습니다. 반면 NC 다이노스는 핵심 전력인 박건우의 부상 공백과 최근 10경기 3승 7패의 하향 곡선으로 인해 전력 보완이 절실한 시점입니다. 양 팀의 최근 맞대결 흐름을 보더라도 SSG 랜더스가 실점 억제력과 득점 효율성 측면에서 NC 다이노스를 확실히 압도하고 있습니다. 전반적인 분위기와 상승세를 고려할 때, 홈 경기를 치르는 SSG 랜더스가 투타의 짜임새를 앞세워 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.10.05","home":"NC 다이노스","away":"SSG 랜더스","score":"0-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005SKNC02026-2026-10-05-nc-dinos/"},{"date":"26.10.04","home":"NC 다이노스","away":"SSG 랜더스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004SKNC02026-2026-10-04-nc-dinos/"},{"date":"26.10.03","home":"NC 다이노스","away":"SSG 랜더스","score":"13-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003SKNC02026-2026-10-03-nc-dinos/"},{"date":"26.10.01","home":"SSG 랜더스","away":"LG 트윈스","score":"6-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001LGSK02026-2026-10-01-ssg-landers/"},{"date":"26.09.30","home":"SSG 랜더스","away":"LG 트윈스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930LGSK02026-2026-09-30-ssg-landers/"}]'
+awayRecent: '[{"date":"26.10.05","home":"NC 다이노스","away":"SSG 랜더스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005SKNC02026-2026-10-05-nc-dinos/"},{"date":"26.10.04","home":"NC 다이노스","away":"SSG 랜더스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004SKNC02026-2026-10-04-nc-dinos/"},{"date":"26.10.03","home":"NC 다이노스","away":"SSG 랜더스","score":"13-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003SKNC02026-2026-10-03-nc-dinos/"},{"date":"26.10.01","home":"두산 베어스","away":"NC 다이노스","score":"9-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001NCOB02026-2026-10-01-doosan-bears/"},{"date":"26.09.30","home":"두산 베어스","away":"NC 다이노스","score":"6-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930NCOB02026-2026-09-30-doosan-bears/"}]'
+injuryHome: "없음"
+injuryAway: "박건우 (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "SSG 랜더스"
+pickWinResult: "승"
+pickHandicapTeam: "SSG 랜더스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

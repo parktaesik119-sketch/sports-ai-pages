@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs KIA 타이거즈 야구분석·승부예측 (10월 7일) - 픽천국"
+date: 2026-10-07T09:30:00.000Z
+description: "롯데 자이언츠 vs KIA 타이거즈 야구분석: 롯데 자이언츠와 KIA 타이거즈는 시즌 내내 확연한 전력 차이를 보이며 순위표 상의 간격을 유지하고 있습니다. KIA 타이거즈… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261007HTLT02026-2026-10-07-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "KIA 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HT.png"
+homeAnalysis: "롯데 자이언츠는 2026시즌 113경기 동안 53승 3무 57패를 기록하며 8위에 머물러 있습니다. 시즌 평균 5.0득점의 공격력을 보여주고 있으나, 최근 10경기에서는 6승 1무 3패로 반등을 노렸음에도 직전 KT 위즈과의 3연전에서 1무 2패로 부진하며 흐름이 다소 꺾인 상태입니다. 중심 타선인 레이예스와 한동희의 WAR 수치는 준수하지만, 최근 경기에서 득점 지원이 원활하지 못하며 투타 밸런스 유지에 어려움을 겪고 있습니다. 리그 하위권에 위치한 만큼 수비 집중력을 보완하는 것이 이번 경기의 핵심 과제로 보입니다. 홈에서의 안정적인 운영이 절실한 시점입니다."
+awayAnalysis: "KIA 타이거즈는 2026시즌 112경기에서 62승 2무 48패를 거두며 리그 3위의 견고한 성적을 유지하고 있습니다. 시즌 평균 5.4득점으로 상위권에 걸맞은 화력을 자랑하며, 최근 LG 트윈스와의 3연전을 모두 쓸어 담는 등 3연승의 가파른 상승세를 타고 있습니다. 김도영을 필두로 나성범과 카스트로가 포진한 타선의 파괴력은 리그 내에서도 정평이 나 있으며, 하위 타순과의 연결 고리도 매끄러운 편입니다. 원정 경기에서도 굴하지 않는 집중력을 보여주고 있어 팀 전체의 전력은 매우 안정적입니다. 이번 맞대결에서도 이러한 공격적인 강점을 앞세워 경기를 주도하려 할 것입니다."
+homePower: "홈 경기 운영 시 득점 효율 극대화 필요|레이예스-한동희로 이어지는 중심 타선의 응집력 중요|최근 KT전 무득점 침묵을 깬 타격 반등이 급선무|리그 하위권 탈출을 위한 투수진의 실점 억제 능력 강화|시즌 승률 5할 미만 기록에 따른 안정감 확보 절실함"
+awayPower: "최근 3연승으로 증명된 타선의 폭발적인 득점력|김도영의 높은 WAR 기록을 바탕으로 한 경기 지배력|상위권 팀다운 원정 경기에서의 탁월한 집중력|나성범-카스트로 라인의 찬스 메이킹 능력 탁월함|공수 밸런스 안정으로 매 경기 다득점 흐름 주도함"
+h2h: '[{"date":"26.08.26","home":"KIA 타이거즈","away":"롯데 자이언츠","score":"16-11","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260826LTHT02026-2026-08-26-kia-tigers/"},{"date":"26.08.25","home":"KIA 타이거즈","away":"롯데 자이언츠","score":"8-5","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260825LTHT02026-2026-08-25-kia-tigers/"},{"date":"26.07.09","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"2-5","link":"https://pick79.com/posts/detail/analyze-181848-2026-07-09-lotte-giants/"},{"date":"26.07.08","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"11-3","link":"https://pick79.com/posts/detail/analyze-181845-2026-07-08-lotte-giants/"},{"date":"26.07.07","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"10-2","link":"https://pick79.com/posts/detail/analyze-181838-2026-07-07-lotte-giants/"}]'
+summary: "롯데 자이언츠와 KIA 타이거즈는 시즌 내내 확연한 전력 차이를 보이며 순위표 상의 간격을 유지하고 있습니다. KIA 타이거즈는 최근 연승 가도를 달리며 타선의 짜임새가 극대화된 상태인 반면, 롯데 자이언츠는 하위권 흐름에서 벗어나지 못하며 투타의 조화가 다소 흔들리는 모습입니다. 상대 전적에서도 KIA 타이거즈가 최근 맞대결에서 우위를 점하며 강한 면모를 보여준 바 있습니다. 이번 경기 역시 타선의 생산성과 집중력에서 우위를 점하고 있는 KIA 타이거즈가 전반적인 경기의 주도권을 잡고 승리에 다가설 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.05","home":"KT 위즈","away":"롯데 자이언츠","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005LTKT02026-2026-10-05-kt-wiz-suwon/"},{"date":"26.10.04","home":"KT 위즈","away":"롯데 자이언츠","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004LTKT02026-2026-10-04-kt-wiz-suwon/"},{"date":"26.10.03","home":"KT 위즈","away":"롯데 자이언츠","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003LTKT02026-2026-10-03-kt-wiz-suwon/"},{"date":"26.09.30","home":"롯데 자이언츠","away":"키움 히어로즈","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930WOLT02026-2026-09-30-lotte-giants/"},{"date":"26.09.29","home":"롯데 자이언츠","away":"키움 히어로즈","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260929WOLT02026-2026-09-29-lotte-giants/"}]'
+awayRecent: '[{"date":"26.10.05","home":"LG 트윈스","away":"KIA 타이거즈","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005HTLG02026-2026-10-05-lg-twins/"},{"date":"26.10.04","home":"LG 트윈스","away":"KIA 타이거즈","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004HTLG02026-2026-10-04-lg-twins/"},{"date":"26.10.03","home":"LG 트윈스","away":"KIA 타이거즈","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003HTLG02026-2026-10-03-lg-twins/"},{"date":"26.10.01","home":"KIA 타이거즈","away":"KT 위즈","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001KTHT02026-2026-10-01-kia-tigers/"},{"date":"26.09.30","home":"KIA 타이거즈","away":"KT 위즈","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930KTHT02026-2026-09-30-kia-tigers/"}]'
+injuryHome: "없음"
+injuryAway: "김기훈 (치료·재활중)|김석환 (치료·재활중)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KIA 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "KIA 타이거즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
