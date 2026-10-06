@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.05","home":"LA 다저스","away":"애틀랜타 브�
 awayRecent: '[{"date":"26.10.05","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261005ATLA0-2026-10-05-los-angeles-dodgers/"},{"date":"26.10.04","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004ATLA0-2026-10-04-los-angeles-dodgers/"},{"date":"26.09.28","home":"샌프란시스코 자이언츠","away":"LA 다저스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928LASF0-2026-09-28-san-francisco-giants/"},{"date":"26.09.27","home":"샌프란시스코 자이언츠","away":"LA 다저스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927LASF0-2026-09-27-san-francisco-giants/"},{"date":"26.09.25","home":"LA 다저스","away":"샌디에이고 파드리스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925SDLA0-2026-09-25-los-angeles-dodgers/"}]'
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Tyler Mahle (통증)|Martin Perez (염증)|Bryce Elder (수술)"
 injuryAway: "Will Klein (통증)|Gavin Stone (염증)|Jake Cousins (수술)|Ben Casparius (염증)|Brusdar Graterol (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Sale (0-0, 3.52) ERA 3.52|https://a.espncdn.com/i/headshots/mlb/players/full/30948.png\"]"
+awayLineup: "[\"선발투수 Y. Yamamoto|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

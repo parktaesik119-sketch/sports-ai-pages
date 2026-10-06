@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.05","home":"KT 위즈","away":"롯데 자이언츠"
 awayRecent: '[{"date":"26.10.05","home":"삼성 라이온스","away":"두산 베어스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005OBSS02026-2026-10-05-samsung-lions/"},{"date":"26.10.04","home":"삼성 라이온스","away":"두산 베어스","score":"0-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004OBSS02026-2026-10-04-samsung-lions/"},{"date":"26.10.03","home":"삼성 라이온스","away":"두산 베어스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003OBSS02026-2026-10-03-samsung-lions/"},{"date":"26.10.01","home":"삼성 라이온스","away":"한화 이글스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261001HHSS02026-2026-10-01-samsung-lions/"},{"date":"26.09.30","home":"삼성 라이온스","away":"한화 이글스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260930HHSS02026-2026-09-30-samsung-lions/"}]'
 injuryHome: "없음"
 injuryAway: "이재익 (치료·재활중)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 최원준 (중견수)\",\"2번 김현수 (1루수)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (좌익수)\",\"5번 장성우 (지명타자)\",\"6번 김상수 (2루수)\",\"7번 허경민 (3루수)\",\"8번 한승택 (포수)\",\"9번 장준원 (유격수)\"]"
+awayLineup: "[\"1번 김지찬 (중견수)\",\"2번 김헌곤 (지명타자)\",\"3번 이재현 (유격수)\",\"4번 디아즈 (1루수)\",\"5번 박승규 (좌익수)\",\"6번 전병우 (3루수)\",\"7번 김성윤 (우익수)\",\"8번 강민호 (포수)\",\"9번 박계범 (2루수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
