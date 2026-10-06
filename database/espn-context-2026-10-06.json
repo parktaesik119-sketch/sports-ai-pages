@@ -478,27 +478,9 @@
     }
   },
   {
-    "home": "Jordan",
-    "away": "Venezuela",
-    "date": "2026-10-06T19:00:00.000Z",
-    "league": "Friendlies",
-    "sport": "soccer",
-    "espnSport": "soccer_friendly",
-    "gameId": "401919976",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": null,
-      "away": null
-    },
-    "h2h": null
-  },
-  {
     "home": "Algeria",
     "away": "Niger",
-    "date": "2026-10-06T19:30:00.000Z",
+    "date": "2026-10-06T17:00:00.000Z",
     "league": "Friendlies",
     "sport": "soccer",
     "espnSport": "soccer_friendly",
@@ -558,6 +540,24 @@
         }
       ]
     }
+  },
+  {
+    "home": "Jordan",
+    "away": "Venezuela",
+    "date": "2026-10-06T17:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401919976",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": null
   },
   {
     "home": "Argentina",
@@ -1735,14 +1735,13 @@
     "espnSport": "hockey",
     "gameId": "401892446",
     "injuries": {
-      "home": [
-        {
-          "name": "Charlie McAvoy",
-          "status": "Suspension",
-          "detail": ""
-        }
-      ],
+      "home": [],
       "away": [
+        {
+          "name": "Linus Ullmark",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "Jake Sanderson",
           "status": "Out",
@@ -1762,34 +1761,29 @@
           "name": "Kurtis MacDermid",
           "status": "Injured Reserve",
           "detail": ""
-        },
-        {
-          "name": "Artem Zub",
-          "status": "Injured Reserve",
-          "detail": ""
         }
       ]
     },
     "standings": {
       "home": {
-        "rank": "3",
+        "rank": "6",
         "wins": "2",
-        "losses": "1",
+        "losses": "2",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "2",
-        "pointsFor": "8",
-        "pointsAgainst": "7"
+        "pointsFor": "9",
+        "pointsAgainst": "11"
       },
       "away": {
-        "rank": "7",
-        "wins": "1",
+        "rank": "2",
+        "wins": "2",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "3",
-        "pointsAgainst": "2"
+        "gamesBehind": "2",
+        "pointsFor": "7",
+        "pointsAgainst": "3"
       }
     },
     "h2h": null
@@ -1845,24 +1839,24 @@
     },
     "standings": {
       "home": {
+        "rank": "4",
+        "wins": "2",
+        "losses": "1",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "2",
+        "pointsFor": "15",
+        "pointsAgainst": "8"
+      },
+      "away": {
         "rank": "2",
         "wins": "2",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "13",
-        "pointsAgainst": "5"
-      },
-      "away": {
-        "rank": "10",
-        "wins": "1",
-        "losses": "0",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "6",
-        "pointsAgainst": "6"
+        "gamesBehind": "-",
+        "pointsFor": "9",
+        "pointsAgainst": "8"
       }
     },
     "h2h": null
@@ -1913,24 +1907,24 @@
     },
     "standings": {
       "home": {
-        "rank": "12",
-        "wins": "1",
+        "rank": "3",
+        "wins": "2",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "4",
-        "pointsAgainst": "6"
+        "gamesBehind": "2",
+        "pointsFor": "8",
+        "pointsAgainst": "7"
       },
       "away": {
         "rank": "15",
         "wins": "0",
-        "losses": "1",
+        "losses": "2",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "4",
-        "pointsFor": "4",
-        "pointsAgainst": "13"
+        "pointsFor": "5",
+        "pointsAgainst": "17"
       }
     },
     "h2h": null
@@ -1986,7 +1980,7 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "10",
         "wins": "2",
         "losses": "2",
         "ties": null,
@@ -2126,7 +2120,7 @@
     },
     "standings": {
       "home": {
-        "rank": "4",
+        "rank": "5",
         "wins": "2",
         "losses": "0",
         "ties": null,
@@ -2136,7 +2130,7 @@
         "pointsAgainst": "5"
       },
       "away": {
-        "rank": "4",
+        "rank": "5",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2199,7 +2193,7 @@
         "pointsAgainst": "6"
       },
       "away": {
-        "rank": "8",
+        "rank": "9",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -2249,6 +2243,11 @@
       ],
       "away": [
         {
+          "name": "Linus Ullmark",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Jake Sanderson",
           "status": "Out",
           "detail": ""
@@ -2267,11 +2266,6 @@
           "name": "Kurtis MacDermid",
           "status": "Injured Reserve",
           "detail": ""
-        },
-        {
-          "name": "Artem Zub",
-          "status": "Injured Reserve",
-          "detail": ""
         }
       ]
     },
@@ -2287,14 +2281,14 @@
         "pointsAgainst": "5"
       },
       "away": {
-        "rank": "7",
-        "wins": "1",
+        "rank": "2",
+        "wins": "2",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "3",
-        "pointsAgainst": "2"
+        "gamesBehind": "2",
+        "pointsFor": "7",
+        "pointsAgainst": "3"
       }
     },
     "h2h": null
@@ -2350,7 +2344,7 @@
     },
     "standings": {
       "home": {
-        "rank": "5",
+        "rank": "7",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2360,7 +2354,7 @@
         "pointsAgainst": "8"
       },
       "away": {
-        "rank": "6",
+        "rank": "8",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -2564,24 +2558,24 @@
     },
     "standings": {
       "home": {
-        "rank": "14",
-        "wins": "0",
+        "rank": "13",
+        "wins": "1",
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
-        "pointsFor": "1",
+        "gamesBehind": "3",
+        "pointsFor": "6",
         "pointsAgainst": "6"
       },
       "away": {
-        "rank": "5",
+        "rank": "9",
         "wins": "2",
-        "losses": "0",
+        "losses": "1",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "1",
         "pointsFor": "9",
-        "pointsAgainst": "7"
+        "pointsAgainst": "12"
       }
     },
     "h2h": null
@@ -2642,17 +2636,17 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
-        "wins": "1",
+        "rank": "2",
+        "wins": "2",
         "losses": "0",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "6",
-        "pointsAgainst": "6"
+        "gamesBehind": "-",
+        "pointsFor": "9",
+        "pointsAgainst": "8"
       },
       "away": {
-        "rank": "2",
+        "rank": "3",
         "wins": "2",
         "losses": "0",
         "ties": null,
@@ -2710,7 +2704,7 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "10",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -2720,14 +2714,14 @@
         "pointsAgainst": "5"
       },
       "away": {
-        "rank": "2",
+        "rank": "4",
         "wins": "2",
-        "losses": "0",
+        "losses": "1",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "2",
-        "pointsFor": "13",
-        "pointsAgainst": "5"
+        "pointsFor": "15",
+        "pointsAgainst": "8"
       }
     },
     "h2h": null
@@ -2788,7 +2782,7 @@
     },
     "standings": {
       "home": {
-        "rank": "13",
+        "rank": "14",
         "wins": "0",
         "losses": "1",
         "ties": null,
@@ -2798,7 +2792,7 @@
         "pointsAgainst": "13"
       },
       "away": {
-        "rank": "4",
+        "rank": "5",
         "wins": "1",
         "losses": "0",
         "ties": null,
@@ -2992,7 +2986,7 @@
     },
     "standings": {
       "home": {
-        "rank": "11",
+        "rank": "12",
         "wins": "1",
         "losses": "1",
         "ties": null,
@@ -3002,7 +2996,7 @@
         "pointsAgainst": "9"
       },
       "away": {
-        "rank": "3",
+        "rank": "4",
         "wins": "2",
         "losses": "0",
         "ties": null,

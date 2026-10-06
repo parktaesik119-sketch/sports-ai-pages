@@ -2349,8 +2349,8 @@
     "away": "Barbados",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5943.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5886.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5991928",
@@ -2375,8 +2375,8 @@
     "away": "Bonaire",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6548.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/929188.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "fotmob-5991900",
@@ -2401,8 +2401,8 @@
     "away": "Suriname",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5858.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/127411.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5991898",
@@ -2414,8 +2414,8 @@
     "away": "Jamaica",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5808.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5806.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-4785879",
@@ -2531,8 +2531,8 @@
     "away": "Union Cocle",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165472.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1888923.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5144222",
@@ -2687,8 +2687,8 @@
     "away": "Rosario Central",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10087.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10084.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000014170",
@@ -2700,8 +2700,8 @@
     "away": "Santa Fe",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2528.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7818.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000013742",
@@ -2726,8 +2726,8 @@
     "away": "Deportes Quindío",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/721594.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4407.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5181855",
@@ -2860,28 +2860,28 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-6368653",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Friendlies",
-    "date": "2026-10-06T19:00:00.000Z",
-    "home": "Jordan",
-    "away": "Venezuela",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5800.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-6366761",
     "sport": "soccer",
     "country": "International",
     "league": "Friendlies",
-    "date": "2026-10-06T19:30:00.000Z",
+    "date": "2026-10-06T17:00:00.000Z",
     "home": "Algeria",
     "away": "Niger",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/121281.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6368653",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Friendlies",
+    "date": "2026-10-06T17:00:00.000Z",
+    "home": "Jordan",
+    "away": "Venezuela",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5800.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -5248,8 +5248,8 @@
     "away": "New York Yankees",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TB.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/NY.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "naver-npb-20261006HIHS0",
@@ -5339,8 +5339,8 @@
     "away": "Ottawa Senators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/573507.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/590527.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378388573",
@@ -5352,8 +5352,8 @@
     "away": "Winnipeg Jets",
     "homeLogo": "https://highlightly.net/hockey/images/teams/593080.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/599888.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378386871",
@@ -5365,8 +5365,8 @@
     "away": "Philadelphia Flyers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/595633.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/592229.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378386020",
@@ -5560,8 +5560,8 @@
     "away": "San Jose Sharks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/580315.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/593931.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-366386920",
@@ -5922,13 +5922,13 @@
     "id": "panda-1694361",
     "sport": "lol",
     "league": "Demacia Cup Global Invitational",
-    "date": "2026-10-06T07:00:00Z",
+    "date": "2026-10-06T07:01:33Z",
     "home": "HANJIN BRION",
     "away": "Natus Vincere",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/128218/628px_brion_2023_lightmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/137057/natus_vincerelogo_square.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "panda-1694362",
