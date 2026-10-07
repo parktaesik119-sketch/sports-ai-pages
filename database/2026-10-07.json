@@ -867,8 +867,8 @@
     "away": "Peru",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5991876",
@@ -880,8 +880,8 @@
     "away": "Canada",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6368654",
@@ -893,8 +893,8 @@
     "away": "Chile",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5071211",
@@ -906,8 +906,8 @@
     "away": "Vancouver Whitecaps",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6397.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/307691.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6040214",
@@ -1010,8 +1010,8 @@
     "away": "Belize",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/835267.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/127409.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5991949",
@@ -2193,8 +2193,8 @@
     "away": "Juventude",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8630.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10274.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-6356391",
@@ -2427,6 +2427,19 @@
     "away": "Poole Town FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/282356.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/238635.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6028571",
+    "sport": "soccer",
+    "country": "Iraq",
+    "league": "Stars League",
+    "date": "2026-10-07T15:00:00.000Z",
+    "home": "Al-Mosul",
+    "away": "Al Quwa Al Jawiya",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1811191.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101656.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -3432,15 +3445,15 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-6028571",
+    "id": "fotmob-6028574",
     "sport": "soccer",
     "country": "Iraq",
     "league": "Stars League",
     "date": "2026-10-08T15:00:00.000Z",
-    "home": "Al-Mosul",
-    "away": "Al Quwa Al Jawiya",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1811191.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101656.png",
+    "home": "Duhok",
+    "away": "Al Zawraa",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101650.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101659.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -3449,11 +3462,24 @@
     "sport": "soccer",
     "country": "Iraq",
     "league": "Stars League",
-    "date": "2026-10-08T17:30:00.000Z",
+    "date": "2026-10-08T15:45:00.000Z",
     "home": "Naft Maysan",
     "away": "Erbil",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/191820.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101649.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6028573",
+    "sport": "soccer",
+    "country": "Iraq",
+    "league": "Stars League",
+    "date": "2026-10-08T17:30:00.000Z",
+    "home": "Al Talaba",
+    "away": "Al Shorta",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101660.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101655.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -4247,8 +4273,8 @@
     "away": "Milwaukee Brewers",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SD.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MI.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "naver-npb-20261007HIHS0",
@@ -4351,8 +4377,8 @@
     "away": "New York Islanders",
     "homeLogo": "https://highlightly.net/hockey/images/teams/589676.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/588825.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378392828",
@@ -4364,8 +4390,8 @@
     "away": "Ottawa Senators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/581166.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/590527.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378393679",
@@ -4377,8 +4403,8 @@
     "away": "Carolina Hurricanes",
     "homeLogo": "https://highlightly.net/hockey/images/teams/586272.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/576060.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 6
   },
   {
     "id": "highlightly-hockey-378391977",
@@ -4390,8 +4416,8 @@
     "away": "Utah Mammoth",
     "homeLogo": "https://highlightly.net/hockey/images/teams/587974.png",
     "awayLogo": null,
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 5
   },
   {
     "id": "highlightly-hockey-378390275",
@@ -4403,8 +4429,8 @@
     "away": "Nashville Predators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/596484.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/587123.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378389424",
@@ -4507,8 +4533,8 @@
     "away": "Florida Panthers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/583719.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/582868.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378396232",
@@ -4520,8 +4546,8 @@
     "away": "Vegas Golden Knights",
     "homeLogo": "https://highlightly.net/hockey/images/teams/1222820.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/598186.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 6
   },
   {
     "id": "highlightly-hockey-378395381",
@@ -4533,8 +4559,8 @@
     "away": "St. Louis Blues",
     "homeLogo": "https://highlightly.net/hockey/images/teams/577762.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/594782.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378394530",
@@ -4546,8 +4572,8 @@
     "away": "Minnesota Wild",
     "homeLogo": "https://highlightly.net/hockey/images/teams/574358.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/585421.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-366383516",
@@ -4945,13 +4971,13 @@
     "id": "panda-1694364",
     "sport": "lol",
     "league": "Demacia Cup Global Invitational",
-    "date": "2026-10-07T07:00:00Z",
+    "date": "2026-10-07T07:01:06Z",
     "home": "GAM Esports",
     "away": "FlyQuest",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/124414/Adonis_Marineslogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/311/fly_questlogo_square.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 1
   },
   {
     "id": "panda-1694365",
