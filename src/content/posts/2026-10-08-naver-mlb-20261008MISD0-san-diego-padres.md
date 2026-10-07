@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.05","home":"밀워키 브루어스","away":"샌디�
 injuryHome: "Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Gavin Sheets (통증)|Mason Miller (출산 휴가)"
 injuryAway: "Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)|Brian Fitzpatrick (수술)"
 homeLineup: "[\"선발투수 W. Buehler|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 R. Gasser|https://a.espncdn.com/i/headshots/mlb/players/full/4918251.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
