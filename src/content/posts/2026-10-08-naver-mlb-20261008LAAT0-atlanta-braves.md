@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.07","home":"애틀랜타 브레이브스","away":"L
 injuryHome: "Reynaldo Lopez (염증)|Joe Jimenez (수술)|Martin Perez (염증)|Bryce Elder (수술)|Spencer Strider (염증)"
 injuryAway: "Will Klein (통증)|Gavin Stone (염증)|Jake Cousins (수술)|Ben Casparius (염증)|Brusdar Graterol (수술)"
 homeLineup: "[\"선발투수 T. Mahle (0-0, 1.29) ERA 1.29|https://a.espncdn.com/i/headshots/mlb/players/full/34973.png\"]"
-awayLineup: "[\"선발투수 T. Glasnow|https://a.espncdn.com/i/headshots/mlb/players/full/33190.png\"]"
+awayLineup: "[\"선발투수 T. Glasnow|https://a.espncdn.com/i/headshots/mlb/players/full/33190.png\",\"1번 M. Betts (SS)|https://a.espncdn.com/i/headshots/mlb/players/full/33039.png\",\"2번 F. Freeman (1B)|https://a.espncdn.com/i/headshots/mlb/players/full/30193.png\",\"3번 W. Smith (C)|https://a.espncdn.com/i/headshots/mlb/players/full/38309.png\",\"4번 S. Ohtani (DH)|https://a.espncdn.com/i/headshots/mlb/players/full/39832.png\",\"5번 T. Hernandez (LF)|https://a.espncdn.com/i/headshots/mlb/players/full/33377.png\",\"6번 M. Muncy (3B)|https://a.espncdn.com/i/headshots/mlb/players/full/33303.png\",\"7번 E. Hernandez (2B)|https://a.espncdn.com/i/headshots/mlb/players/full/31358.png\",\"8번 K. Tucker (RF)|https://a.espncdn.com/i/headshots/mlb/players/full/34967.png\",\"9번 A. Pages (CF)|https://a.espncdn.com/i/headshots/mlb/players/full/42468.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
