@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.10.05","home":"밀워키 브루어스","away":"샌디�
 awayRecent: '[{"date":"26.10.05","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261005SDMI0-2026-10-05-milwaukee-brewers/"},{"date":"26.09.28","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928SLMI0-2026-09-28-milwaukee-brewers/"},{"date":"26.09.27","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927SLMI0-2026-09-27-milwaukee-brewers/"},{"date":"26.09.26","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926SLMI0-2026-09-26-milwaukee-brewers/"},{"date":"26.09.25","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925MIPH0-2026-09-25-philadelphia-phillies/"}]'
 injuryHome: "Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Casey Mize (염좌)|Rodolfo Duran (좌상)"
 injuryAway: "Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)|Brian Fitzpatrick (수술)"
-homeLineup: ''
+homeLineup: "[\"선발투수 W. Buehler|https://a.espncdn.com/i/headshots/mlb/players/full/39251.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""
