@@ -1,0 +1,37 @@
+---
+title: "청주 FC vs 성남 FC 축구분석·승부예측 (10월 9일) - 픽천국"
+date: 2026-10-09T07:30:00.000Z
+description: "청주 FC vs 성남 FC 축구분석: 청주 FC와 성남 FC는 올 시즌 7승 8무 6패라는 동일한 승패 기록을 보유하고 있을 만큼 전력 면에서 팽팽한 균형을 이루고… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155921-2026-10-09-cheongju-fc"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "청주 FC"
+awayTeam: "성남 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/833651.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6614.png"
+homeAnalysis: "청주 FC는 2026시즌 총 21경기에서 7승 8무 6패를 기록하며 승률 33.3%와 평균 득점 1.3을 나타내고 있습니다. 최근 흐름을 살펴보면 직전 2경기에서 연승을 거두며 분위기 반전에 성공했으나, 그 이전에는 다소 기복 있는 경기력으로 일관성을 유지하는 데 어려움을 겪기도 했습니다. 시즌 중반부터 득점과 실점이 반복되는 양상을 보이며 수비 집중력에 따라 승패가 갈리는 모습이 자주 관찰됩니다. 특히 최근 10경기에서 4승 2무 4패의 성적을 거두며 공격적인 부분에서는 개선점을 찾았으나 여전히 수비 보완이 숙제로 남아 있습니다. 홈 경기의 경우 다양한 전술 변화를 시도하고 있으나 안정적인 승점 확보를 위해서는 후반 집중력을 높이는 것이 무엇보다 중요해 보입니다."
+awayAnalysis: "성남 FC는 2026시즌 총 21경기에서 7승 8무 6패를 기록하며 청주 FC와 동일한 승패 기록과 함께 평균 득점 1.0을 유지하고 있습니다. 최근 10경기 성적은 4승 3무 3패로 무승부 비율이 다소 높게 나타나며 상대와 대등한 경기를 펼치는 빈도가 잦은 편입니다. 공격력 면에서는 폭발력보다는 필요한 순간 득점을 뽑아내는 실리적인 운영이 돋보이며, 원정에서도 쉽게 무너지지 않는 끈끈한 전력을 과시하고 있습니다. 수비 조직력은 상대적으로 안정적이라는 평가를 받지만, 다득점 경기를 만들어내는 과정에서의 세밀함은 다소 보완이 필요합니다. 최근 원정 흐름을 고려할 때 중원 싸움에서 우위를 점하며 경기를 주도하려는 시도가 강점으로 작용할 것으로 보입니다."
+homePower: "최근 2경기 연속 승리로 상승세 전환 확인|시즌 평균 1.3득점으로 화력은 준수한 수준|수비 기복 해결이 시즌 목표 달성의 핵심|승리 시와 패배 시의 득점 편차 확인됨|홈 이점을 활용한 경기 주도권 확보가 관건"
+awayPower: "시즌 전체 무승부 비율 높아 끈질긴 생존력|최근 10경기 4승으로 승점 획득 능력 유지|공격 효율성 높여 경기의 질을 개선해야 함|중원에서의 조직적 수비력은 안정적임|상대와의 맞대결에서 팽팽한 흐름 유지"
+h2h: '[{"date":"26.03.08","home":"성남 FC","away":"청주 FC","score":"2-2"},{"date":"25.09.14","home":"청주 FC","away":"성남 FC","score":"0-1"},{"date":"25.06.14","home":"청주 FC","away":"성남 FC","score":"0-1"},{"date":"25.03.03","home":"성남 FC","away":"청주 FC","score":"1-1"},{"date":"24.09.29","home":"청주 FC","away":"성남 FC","score":"1-1"}]'
+summary: "청주 FC와 성남 FC는 올 시즌 7승 8무 6패라는 동일한 승패 기록을 보유하고 있을 만큼 전력 면에서 팽팽한 균형을 이루고 있습니다. 두 팀 모두 최근 공격과 수비에서 큰 격차를 보이지 않고 있으며, 특히 과거 맞대결에서 다수의 무승부를 기록할 정도로 서로의 전술에 익숙한 상태입니다. 이번 경기는 한쪽으로 크게 치우치기보다 중원에서의 치열한 공방전이 예상되며, 후반까지 집중력을 잃지 않는 팀이 대등한 흐름 속에서 경기를 운영할 것으로 보입니다. 양 팀의 전력을 종합적으로 고려했을 때 1:1 흐름과 같이 어느 한 팀이 압도하기보다는 서로의 강점을 주고받으며 팽팽하게 맞서는 전개가 자연스러울 것으로 판단됩니다."
+homeRecent: '[{"date":"26.09.20","home":"안산 그리너스","away":"청주 FC","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155916-2026-09-20-ansan-greeners/"},{"date":"26.09.12","home":"아산 무궁화","away":"청주 FC","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155907-2026-09-12-chungnam-asan-fc/"},{"date":"26.09.04","home":"청주 FC","away":"서울 이랜드 FC","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155896-2026-09-04-cheongju-fc/"},{"date":"26.08.29","home":"화성 FC","away":"청주 FC","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155892-2026-08-29-hwaseong-fc/"},{"date":"26.08.23","home":"청주 FC","away":"경남 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155885-2026-08-23-cheongju-fc/"}]'
+awayRecent: '[{"date":"26.09.20","home":"성남 FC","away":"화성 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155919-2026-09-20-seongnam-fc/"},{"date":"26.09.13","home":"경남 FC","away":"성남 FC","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155908-2026-09-13-gyeongnam-fc/"},{"date":"26.09.06","home":"김포 시티즌","away":"성남 FC","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155902-2026-09-06-gimpo-fc/"},{"date":"26.08.29","home":"성남 FC","away":"서울 이랜드 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155893-2026-08-29-seongnam-fc/"},{"date":"26.08.22","home":"안산 그리너스","away":"성남 FC","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155880-2026-08-22-ansan-greeners/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

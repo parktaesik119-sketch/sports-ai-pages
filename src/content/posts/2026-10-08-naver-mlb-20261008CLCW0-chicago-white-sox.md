@@ -1,0 +1,37 @@
+---
+title: "시카고 화이트삭스 vs 클리블랜드 가디언스 야구분석·승부예측 (10월 8일) - 픽천국"
+date: 2026-10-07T20:00:00.000Z
+description: "시카고 화이트삭스 vs 클리블랜드 가디언스 야구분석: 양 팀은 이번 시즌 정규 순위에서 한 경기 차 접전을 펼칠 만큼 팽팽한 전력을 보유하고 있습니다. 그러나 최근 맞대결을 포함한… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20261008CLCW0-2026-10-08-chicago-white-sox"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "시카고 화이트삭스"
+awayTeam: "클리블랜드 가디언스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CW.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+homeAnalysis: "시카고 화이트삭스는 이번 2026시즌 84승 78패 승률 0.519를 기록하며 리그순위 5위로 정규 일정을 안정적으로 소화했습니다. 시즌 득실 마진 플러스 56점을 기록할 만큼 공수 양면에서 탄탄한 응집력을 증명해 보였습니다. 최근 흐름에서도 투타 밸런스가 완전히 살아나며 4연승의 가파른 상승 곡선을 그리고 있습니다. 홈경기 운영 능력은 물론 마운드의 실점 억제력이 뒷받침되면서 경기 후반 집중력 싸움에서 확실한 우위를 점하고 있습니다. 주요 투타 자원들의 부상 결장 공백 속에서도 대체 전력들이 제 몫을 다해주며 투수진과 타선의 조화가 매우 돋보입니다."
+awayAnalysis: "클리블랜드 가디언스는 2026시즌 85승 77패 승률 0.525의 성적으로 리그순위 4위에 자리하며 경쟁력을 입증했습니다. 시즌 득실 마진은 플러스 11점으로 팽팽한 접전 승부를 자주 연출하는 끈끈한 면모를 보여주었습니다. 하지만 최근 맞대결 2연패를 포함해 3연패의 늪에 빠지며 흐름이 다소 가라앉은 상태입니다. 원정길에서 타선의 득점 지원이 원활하지 못하고 경기 후반 불펜의 실점 관리가 흔들리는 약점이 노출되고 있습니다. 부상 선수들의 결장 여파와 더불어 타선의 기복을 얼마나 줄여내느냐가 이번 승부의 핵심 과제로 평가됩니다."
+homePower: "최근 공식전 4연승 질주로 투타 밸런스 최고조|시즌 득실 마진 플러스 56점으로 공수 조화 우수|최근 맞대결 2연승 거두며 상성 주도권 장악|안정적인 마운드 운용으로 경기 후반 실점 억제력 우수|시카고 화이트삭스 타선의 고른 득점 생산력 검증됨"
+awayPower: "클리블랜드 가디언스 최근 3연패로 경기력 주춤|원정 타선 집중력 저하로 득점 생산 한계 노출|상대전 2연패 기록하며 매치업 열세 뚜렷함|투수진 피안타 허용 늘며 위기관리 능력 기복 변수|불펜 자원 부상 누적으로 경기 후반 불확실성 상존함"
+h2h: '[{"date":"26.10.06","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261006CWCL0-2026-10-06-cleveland-guardians/"},{"date":"26.10.04","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"0-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004CWCL0-2026-10-04-cleveland-guardians/"},{"date":"26.09.17","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"6-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260917CWCL0-2026-09-17-cleveland-guardians/"},{"date":"26.09.16","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"7-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260916CWCL0-2026-09-16-cleveland-guardians/"},{"date":"26.09.15","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260915CWCL0-2026-09-15-cleveland-guardians/"}]'
+summary: "양 팀은 이번 시즌 정규 순위에서 한 경기 차 접전을 펼칠 만큼 팽팽한 전력을 보유하고 있습니다. 그러나 최근 맞대결을 포함한 전체적인 공수 밸런스와 경기 후반 집중력 면에서는 시카고 화이트삭스가 확연한 상승세를 타며 우위를 점하고 있습니다. 클리블랜드 가디언스는 최근 연패로 타선 침체가 이어지는 반면, 시카고 화이트삭스는 투타의 고른 활약을 앞세워 안정적으로 경기를 지배할 가능성이 매우 높아 보입니다."
+homeRecent: '[{"date":"26.10.06","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261006CWCL0-2026-10-06-cleveland-guardians/"},{"date":"26.10.04","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004CWCL0-2026-10-04-cleveland-guardians/"},{"date":"26.10.01","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261001CWHO0-2026-10-01-houston-astros/"},{"date":"26.09.30","home":"휴스턴 애스트로스","away":"시카고 화이트삭스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930CWHO0-2026-09-30-houston-astros/"},{"date":"26.09.28","home":"시카고 화이트삭스","away":"콜로라도 로키스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928COCW0-2026-09-28-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.10.06","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261006CWCL0-2026-10-06-cleveland-guardians/"},{"date":"26.10.04","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004CWCL0-2026-10-04-cleveland-guardians/"},{"date":"26.09.28","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928CLKC0-2026-09-28-kansas-city-royals/"},{"date":"26.09.27","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"5-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927CLKC0-2026-09-27-kansas-city-royals/"},{"date":"26.09.26","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"9-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CLKC0-2026-09-26-kansas-city-royals/"}]'
+injuryHome: "Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Luis Castillo (신경통)|Ky Bush (수술)"
+injuryAway: "Rhys Hoskins (염증)|Colin Holderman (수술)|Andrew Walters (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 화이트삭스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 화이트삭스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

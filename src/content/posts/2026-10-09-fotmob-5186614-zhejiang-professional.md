@@ -1,0 +1,37 @@
+---
+title: "저장 뤼청 vs 상하이 하이강 축구분석·승부예측 (10월 9일) - 픽천국"
+date: 2026-10-09T12:00:00.000Z
+description: "저장 뤼청 vs 상하이 하이강 축구분석: 안방에서 화력의 우위를 발휘하는 저장 뤼청이 경기 초반부터 강력한 전방 압박과 공격 전개로 기선을 제압할 가능성이 높습니다. … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186614-2026-10-09-zhejiang-professional"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "저장 뤼청"
+awayTeam: "상하이 하이강"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/51443.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/198616.png"
+homeAnalysis: "저장 뤼청은 2026시즌 19경기에서 5승 6무 8패를 기록하며 평균 득점 1.9점을 기록 중입니다. 경기당 평균 득점력이 뛰어나 매 경기 위협적인 공격 기회를 꾸준히 창출하고 있는 모습입니다. 비록 최근 전반적인 결과에서 기복이 있었으나 안방에서는 화끈한 득점력을 바탕으로 확실한 반등 기세를 만들고 있습니다. 직전 우한과의 경기에서도 4득점을 터뜨리며 절정의 화력을 증명해 냈습니다. 이번 경기 역시 홈 이점과 가파른 공격 흐름을 앞세워 주도권을 잡아가고자 할 것입니다."
+awayAnalysis: "상하이 하이강은 2026시즌 22경기 동안 10승 9무 3패의 안정적인 성적을 거두며 평균 득점 1.7점을 올리고 있습니다. 최근 연속 경기 무패 흐름을 이어가며 리그 내에서 정교한 경기 운영 능력을 다시금 보여주고 있습니다. 원정 경기에서도 공수 밸런스를 유지하며 상대의 허점을 효과적으로 공략하는 모습을 보여줍니다. 다만 맞불을 놓는 상대와의 경기에서는 수비에서 다소 실점이 늘어나는 양상이 나타나기도 합니다. 이번 원정에서도 단단한 조직력을 바탕으로 치열한 승부를 펼칠 것으로 전망됩니다."
+homePower: "홈 경기에서 폭발하는 막강한 화력을 보유함|최근 경기 다득점 승리로 공격 완성도가 크게 상승함|상하이 하이강을 상대로 안방에서 물러서지 않는 기세 보임|측면 돌파를 통한 전방 찬스 양산 능력이 우수함|중원 압박 성공 시 빠른 전개로 위협을 가함"
+awayPower: "시즌 전반에 걸쳐 패배를 최소화하는 관리 능력 탁월함|최근 잇따른 승리로 원정에서도 탄탄한 흐름을 지속함|공수 밸런스가 안정적이나 공세 전환 시 실점 변수 존재함|경기 후반부까지 집중력을 유지하는 집중력이 돋보임|상하이 하이강 특유의 체계적인 빌드업 전개가 강점으로 검증됨"
+h2h: '[{"date":"26.05.15","home":"상하이 하이강","away":"저장 뤼청","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1523148-2026-05-15-shanghai-sipg/"},{"date":"25.10.31","home":"상하이 하이강","away":"저장 뤼청","score":"3-0"},{"date":"25.06.14","home":"저장 뤼청","away":"상하이 하이강","score":"2-2"},{"date":"24.07.17","home":"저장 뤼청","away":"상하이 하이강","score":"1-2"},{"date":"24.06.29","home":"상하이 하이강","away":"저장 뤼청","score":"3-1"}]'
+summary: "안방에서 화력의 우위를 발휘하는 저장 뤼청이 경기 초반부터 강력한 전방 압박과 공격 전개로 기선을 제압할 가능성이 높습니다. 상하이 하이강 역시 견고한 전력 밸런스를 앞세워 맞서겠지만 최근 홈에서 보여주는 저장 뤼청의 결정력이 더 높은 위협으로 작용할 수 있습니다. 팽팽한 흐름 속에서도 안방 이점과 확실한 마무리 능력을 살린 저장 뤼청이 전력상 우위를 점할 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.18","home":"저장 뤼청","away":"우한 쓰리 타운즈","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186576-2026-09-18-zhejiang-professional/"},{"date":"26.09.06","home":"텐진 진먼후","away":"저장 뤼청","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186612-2026-09-06-tianjin-jinmen-tiger/"},{"date":"26.08.29","home":"저장 뤼청","away":"윈난 유쿤","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186600-2026-08-29-zhejiang-professional/"},{"date":"26.08.22","home":"선전 신청펑","away":"저장 뤼청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186591-2026-08-22-shenzhen-peng-city/"},{"date":"26.08.15","home":"저장 뤼청","away":"청두 룽청","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186586-2026-08-15-zhejiang-professional/"}]'
+awayRecent: '[{"date":"26.09.15","home":"랏차부리 FC","away":"상하이 하이강","score":"4-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6049979-2026-09-15-ratchaburi-fc/"},{"date":"26.09.05","home":"상하이 하이강","away":"베이징 궈안","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186607-2026-09-05-shanghai-port/"},{"date":"26.09.01","home":"산둥 타이산","away":"상하이 하이강","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5961059-2026-09-01-shandong-taishan/"},{"date":"26.08.28","home":"선전 신청펑","away":"상하이 하이강","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186598-2026-08-28-shenzhen-peng-city/"},{"date":"26.08.23","home":"상하이 하이강","away":"칭다오 하이뉴","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186595-2026-08-23-shanghai-port/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "저장 뤼청"
+pickWinResult: "승"
+pickHandicapTeam: "저장 뤼청"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

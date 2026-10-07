@@ -1,0 +1,37 @@
+---
+title: "칭다오 하이뉴 vs 베이징 궈안 축구분석·승부예측 (10월 9일) - 픽천국"
+date: 2026-10-09T11:35:00.000Z
+description: "칭다오 하이뉴 vs 베이징 궈안 축구분석: 베이징 궈안은 이번 시즌 막강한 화력과 탄탄한 조직력을 앞세워 리그 최상위권의 안정적인 흐름을 유지하고 있습니다. 반면 칭다오… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186617-2026-10-09-qingdao-hainiu"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "칭다오 하이뉴"
+awayTeam: "베이징 궈안"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4183.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4177.png"
+homeAnalysis: "칭다오 하이뉴는 2026시즌 21경기에서 3승 3무 15패, 평균 득점 1.2를 기록하며 다소 침체된 흐름을 이어가고 있습니다. 최근 경기들에서도 연패가 길어지며 수비진의 실점이 늘어나는 불안한 모습을 노출하고 있습니다. 경기당 평균 득점은 꾸준히 내고 있으나 공수 밸런스가 무너지면서 승점을 챙기지 못하는 상황입니다. 안방 경기에서도 상대 공격에 취약점을 보이며 흐름을 반전시키지 못하고 있는 점이 아쉽습니다. 공격진의 세트피스 활용이나 집중력이 요구되는 시점이지만 전체적인 전력 안정감 회복이 시급해 보입니다."
+awayAnalysis: "베이징 궈안은 2026시즌 23경기에서 14승 8무 1패, 평균 득점 2.2를 기록하며 매 경기 압도적인 전력을 과시하고 있습니다. 최근 10경기에서도 패배 없이 무패 행진을 달리는 등 경기력이 극에 달해 있는 상태입니다. 두터운 공격진을 바탕으로 매 경기 멀티 득점을 노릴 수 있는 탁월한 화력을 보유하고 있습니다. 수비진 역시 안정감을 유지하면서 경기 주도권을 쉽게 주지 않는 효율적인 경기 운영을 펼칩니다. 원정 경기에서도 변함없는 경기력을 보여주고 있어 이번 경기 역시 우세한 흐름을 이어갈 것으로 전망됩니다."
+homePower: "수비 불안 지속으로 경기 후반 실점 억제력 저하됨|칭다오 하이뉴의 세트피스 집중력 강화가 필수적임|경기 초반 주도권을 내주는 패턴 반복으로 열세 보임|안방 경기에서도 수비진 밸런스 붕괴가 주요 변수임|공격 마무리 효율을 개선해야 반등 기회 잡을 수 있음"
+awayPower: "베이징 궈안의 원정 경기 주도권 압도 능력 검증됨|다양한 득점 루트로 상대 수비를 균열시키는 화력 강점|무패 흐름 속에서 입증된 안정적인 경기 운영 능력|공수 전환 속도와 중원 지배력에서 명확한 우위 보임|상대 맞대결에서 꾸준히 득점포를 가동한 상성 보유"
+h2h: '[{"date":"26.05.15","home":"베이징 궈안","away":"칭다오 하이뉴","score":"4-2","link":"https://pick79.com/posts/detail/analyze-1523150-2026-05-15-beijing-guoan/"},{"date":"25.10.26","home":"베이징 궈안","away":"칭다오 하이뉴","score":"2-4"},{"date":"25.05.17","home":"칭다오 하이뉴","away":"베이징 궈안","score":"1-1"},{"date":"24.10.19","home":"베이징 궈안","away":"칭다오 하이뉴","score":"6-0"},{"date":"24.05.21","home":"칭다오 하이뉴","away":"베이징 궈안","score":"1-1"}]'
+summary: "베이징 궈안은 이번 시즌 막강한 화력과 탄탄한 조직력을 앞세워 리그 최상위권의 안정적인 흐름을 유지하고 있습니다. 반면 칭다오 하이뉴는 최근 연패 사슬을 끊어내지 못하며 공수 밸런스 유지에 큰 애를 먹고 있는 모습입니다. 상대 전적과 최근 팀 분위기 모두 베이징 궈안이 주도권을 쥐고 경기를 풀어갈 가능성을 높게 지목하고 있습니다. 베이징 궈안이 우수한 전력차를 활용해 우세한 결과를 거둘 것으로 예상됩니다."
+homeRecent: '[{"date":"26.09.05","home":"다롄 잉보 FC","away":"칭다오 하이뉴","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186606-2026-09-05-dalian-yingbo/"},{"date":"26.08.29","home":"칭다오 하이뉴","away":"우한 쓰리 타운즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186604-2026-08-29-qingdao-hainiu/"},{"date":"26.08.23","home":"상하이 하이강","away":"칭다오 하이뉴","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186595-2026-08-23-shanghai-port/"},{"date":"26.08.14","home":"산둥 타이산","away":"칭다오 하이뉴","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186581-2026-08-14-shandong-taishan/"},{"date":"26.08.08","home":"칭다오 하이뉴","away":"상하이 선화","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523228-2026-08-08-qingdao-jonoon/"}]'
+awayRecent: '[{"date":"26.09.15","home":"베이징 궈안","away":"포항 스틸러스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6049980-2026-09-15-beijing-guoan/"},{"date":"26.09.05","home":"상하이 하이강","away":"베이징 궈안","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186607-2026-09-05-shanghai-port/"},{"date":"26.09.01","home":"베이징 궈안","away":"Lanzhou Longyuan Athletic","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5961057-2026-09-01-beijing-guoan/"},{"date":"26.08.28","home":"다롄 잉보 FC","away":"베이징 궈안","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186597-2026-08-28-dalian-yingbo/"},{"date":"26.08.22","home":"베이징 궈안","away":"윈난 유쿤","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186592-2026-08-22-beijing-guoan/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "베이징 궈안"
+pickWinResult: "승"
+pickHandicapTeam: "베이징 궈안"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

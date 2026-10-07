@@ -1,0 +1,37 @@
+---
+title: "샌디에이고 파드리스 vs 밀워키 브루어스 야구분석·승부예측 (10월 8일) - 픽천국"
+date: 2026-10-08T02:00:00.000Z
+description: "샌디에이고 파드리스 vs 밀워키 브루어스 야구분석: 샌디에이고 파드리스와 밀워키 브루어스는 2026시즌 각자의 리그 위치에서 증명하듯 완성도 높은 전력을 보유하고 있습니다. 밀워… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20261008MISD0-2026-10-08-san-diego-padres"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "샌디에이고 파드리스"
+awayTeam: "밀워키 브루어스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/SD.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+homeAnalysis: "샌디에이고 파드리스는 2026시즌 91승 71패를 기록하며 승률 .562로 리그순위 4위를 차지했습니다. 시즌 내내 안정적인 투타 밸런스를 유지하며 경쟁력을 입증했고, 홈 경기에서 특히 강한 응집력을 보이며 팬들에게 인상적인 승리를 많이 안겨주었습니다. 최근 10경기에서 7승 3패의 준수한 흐름을 이어가며 시즌 막판까지 집중력을 잃지 않는 모습이 돋보입니다. 득실차 +41.0에서 나타나듯 팽팽한 승부처에서의 마무리 능력이 훌륭하며, 핵심 선수들의 고른 활약이 팀 성적을 뒷받침하고 있습니다. 공수 양면에서 안정된 샌디에이고 파드리스는 홈의 이점을 살려 상위권 팀다운 경기 운영을 펼칠 것으로 기대됩니다."
+awayAnalysis: "밀워키 브루어스는 2026시즌 103승 59패라는 압도적인 성적과 함께 승률 .636을 기록하며 당당히 리그순위 1위에 올랐습니다. 시즌 내내 공수에서 리그 최상위권의 효율을 보여주었으며, 득실차 +214.0이라는 수치가 증명하듯 타선의 화력과 마운드의 견고함이 매우 뛰어납니다. 최근 10경기에서도 9승 1패라는 경이로운 승률을 기록하며 리그 최강자의 면모를 유감없이 발휘하고 있습니다. 원정 경기에서도 크게 위축되지 않는 경기력을 유지하고 있으며, 시즌 전체 DB를 통해 확인되는 꾸준한 득점 분포는 상대 팀에게 큰 위협이 됩니다. 명실상부한 리그 1위 팀으로서 탄탄한 전력을 바탕으로 이번 원정 경기에서도 승리를 향한 강력한 의지를 보일 것입니다."
+homePower: "홈 성적의 꾸준함이 승률 .562의 핵심 원동력임|투타 조화로 득실차 +41.0의 안정적 마진 확보|최근 10경기 7승으로 시즌 후반 집중력 유지 중|승부처에서 강한 면모로 접전 상황 극복 능력 탁월|샌디에이고 파드리스 투수진의 안정감이 강점"
+awayPower: "리그 1위의 위엄을 증명하는 득실차 +214.0의 압도적 지표|최근 10경기 9승으로 시즌 막판 파죽지세의 흐름|평균 득점 5.0 이상의 공격적인 야구로 상대를 압박|밀워키 브루어스 특유의 끈끈한 수비 집중력 돋보임|탄탄한 전력으로 매 경기 높은 승률 유지 중임"
+h2h: '[{"date":"26.10.05","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261005SDMI0-2026-10-05-milwaukee-brewers/"},{"date":"26.08.13","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260813MISD0-2026-08-13-san-diego-padres/"},{"date":"26.08.12","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"11-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.08.11","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260811MISD0-2026-08-11-san-diego-padres/"},{"date":"26.05.15","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"7-1"}]'
+summary: "샌디에이고 파드리스와 밀워키 브루어스는 2026시즌 각자의 리그 위치에서 증명하듯 완성도 높은 전력을 보유하고 있습니다. 밀워키 브루어스는 리그 1위다운 공수 밸런스와 최근의 압도적인 연승 흐름이 매우 인상적이며, 샌디에이고 파드리스 역시 홈에서의 강점과 상위권 팀으로서의 꾸준한 경기 운영 능력을 갖추고 있습니다. 상대전적에서 샌디에이고 파드리스가 시리즈 우위를 점했던 기억은 홈팀에게 심리적인 자신감을 줄 수 있는 요소로 작용할 것입니다. 두 팀 모두 시즌 막판 뛰어난 집중력을 보여주고 있어 팽팽한 접전이 예상되지만, 최근의 전력 흐름과 시즌 전체를 관통하는 안정감을 고려했을 때 샌디에이고 파드리스가 홈의 이점을 살려 조금 더 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.05","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261005SDMI0-2026-10-05-milwaukee-brewers/"},{"date":"26.10.01","home":"샌디에이고 파드리스","away":"시카고 컵스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261001CCSD0-2026-10-01-san-diego-padres/"},{"date":"26.09.30","home":"샌디에이고 파드리스","away":"시카고 컵스","score":"8-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260930CCSD0-2026-09-30-san-diego-padres/"},{"date":"26.09.28","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"9-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928AZSD0-2026-09-28-san-diego-padres/"},{"date":"26.09.26","home":"샌디에이고 파드리스","away":"애리조나 다이아몬드백스","score":"4-11","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926AZSD0-2026-09-26-san-diego-padres/"}]'
+awayRecent: '[{"date":"26.10.05","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261005SDMI0-2026-10-05-milwaukee-brewers/"},{"date":"26.09.28","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928SLMI0-2026-09-28-milwaukee-brewers/"},{"date":"26.09.27","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927SLMI0-2026-09-27-milwaukee-brewers/"},{"date":"26.09.26","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"8-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926SLMI0-2026-09-26-milwaukee-brewers/"},{"date":"26.09.25","home":"필라델피아 필리스","away":"밀워키 브루어스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260925MIPH0-2026-09-25-philadelphia-phillies/"}]'
+injuryHome: "Miguel Andujar (골절)|Jeremiah Estrada (신경 압박)|Lucas Giolito (염증)|Gavin Sheets (통증)|Mason Miller (출산 휴가)"
+injuryAway: "Grant Anderson (염증)|Brandon Woodruff (염증)|Quinn Priester (수술)|Angel Zerpa (수술)|Brian Fitzpatrick (수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌디에이고 파드리스"
+pickWinResult: "승"
+pickHandicapTeam: "샌디에이고 파드리스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

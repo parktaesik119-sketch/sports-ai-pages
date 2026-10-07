@@ -1,0 +1,37 @@
+---
+title: "선전 신청펑 vs 허난 FC 축구분석·승부예측 (10월 9일) - 픽천국"
+date: 2026-10-09T11:35:00.000Z
+description: "선전 신청펑 vs 허난 FC 축구분석: 허난 FC는 2026시즌 동안 꾸준하게 승점을 챙기며 안정적인 전력을 유지하고 있는 반면, 선전 신청펑은 전반적인 수비 불안과… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186613-2026-10-09-shenzhen-peng-city"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "선전 신청펑"
+awayTeam: "허난 FC"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/930027.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/51442.png"
+homeAnalysis: "선전 신청펑은 2026시즌 전체 22경기에서 5승 6무 11패를 기록하며 승률 22.7%와 평균 득점 1.0골의 다소 아쉬운 성적을 거두고 있습니다. 최근 10경기 흐름을 살펴보면 1승 3무 6패로 승리보다는 무승부나 패배가 잦아 전력 회복이 시급한 상황입니다. 득점력 측면에서 시즌 내내 기복을 보이고 있으며, 수비 집중력 또한 상대의 공세를 막아내는 데 어려움을 겪고 있습니다. 홈 경기에서도 안정적인 운영보다는 실점을 허용하는 경우가 많아 반등을 위한 확실한 카드 마련이 절실합니다. 공수 밸런스를 재정비하여 이번 경기에서 분위기 전환을 노려야 할 것으로 보입니다."
+awayAnalysis: "허난 FC는 2026시즌 21경기에서 7승 9무 5패라는 준수한 성적을 거두었으며 평균 1.3득점을 기록하며 공격에서 짜임새 있는 모습을 보여주고 있습니다. 최근 10경기에서는 1승 7무 2패를 기록하며 좀처럼 패하지 않는 끈끈한 운영 능력을 발휘하고 있습니다. 득점 기회를 꾸준히 만들어내고 있으며 원정에서도 쉽게 무너지지 않는 수비 조직력이 강점으로 평가됩니다. 다수의 무승부가 포함되어 있으나 승점 확보를 위한 실리적인 경기 운영이 돋보입니다. 이번 대결에서도 특유의 집중력을 앞세워 경기를 주도하려는 흐름이 예상됩니다."
+homePower: "22경기 중 11패 기록으로 수비 라인의 불안정함 노출|최근 10경기 평균 득점 0.8골에 그치는 저조한 공격력|홈 경기에서 승리보다 패배 비율이 높음이 입증됨|선전 신청펑의 잦은 무승부와 패배는 전력 약화의 신호|전체적인 경기 조율 능력이 부족하여 실점 상황 제어 어려움"
+awayPower: "최근 10경기 7무로 패배를 잊은 듯한 강력한 집중력|평균 1.3득점의 안정적인 공격 루트 운영 능력 보유|원정 경기에서 쉽게 물러서지 않는 탄탄한 수비 조직력|허난 FC의 전술적인 경기 운영으로 승점 확보율 높임|상대보다 한발 앞선 공수 밸런스로 경기를 주도하는 힘"
+h2h: '[{"date":"26.05.15","home":"허난 FC","away":"선전 신청펑","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1523147-2026-05-15-henan-jianye/"},{"date":"25.08.08","home":"허난 FC","away":"선전 신청펑","score":"4-1"},{"date":"25.04.05","home":"선전 신청펑","away":"허난 FC","score":"1-3"},{"date":"24.07.13","home":"선전 신청펑","away":"허난 FC","score":"0-0"},{"date":"24.04.05","home":"허난 FC","away":"선전 신청펑","score":"0-2"}]'
+summary: "허난 FC는 2026시즌 동안 꾸준하게 승점을 챙기며 안정적인 전력을 유지하고 있는 반면, 선전 신청펑은 전반적인 수비 불안과 득점력 저하로 인해 고전하고 있습니다. 특히 허난 FC는 최근 많은 무승부를 기록하면서도 패배를 최소화하는 끈끈한 조직력을 보여주고 있어 이번 맞대결에서도 우위를 점할 가능성이 매우 높습니다. 상대전적에서도 허난 FC가 최근 강세를 보이고 있는 점을 고려할 때, 전력의 우위에 있는 허난 FC가 이번 경기를 주도하며 결과를 가져올 것으로 판단됩니다."
+homeRecent: '[{"date":"26.09.05","home":"산둥 타이산","away":"선전 신청펑","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186608-2026-09-05-shandong-taishan/"},{"date":"26.08.28","home":"선전 신청펑","away":"상하이 하이강","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186598-2026-08-28-shenzhen-peng-city/"},{"date":"26.08.22","home":"선전 신청펑","away":"저장 뤼청","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186591-2026-08-22-shenzhen-peng-city/"},{"date":"26.08.15","home":"랴오닝 선양","away":"선전 신청펑","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186584-2026-08-15-liaoning-tieren/"},{"date":"26.08.07","home":"베이징 궈안","away":"선전 신청펑","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1523227-2026-08-07-beijing-guoan/"}]'
+awayRecent: '[{"date":"26.09.12","home":"우한 쓰리 타운즈","away":"허난 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186542-2026-09-12-wuhan-three-towns/"},{"date":"26.09.06","home":"허난 FC","away":"청두 룽청","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186610-2026-09-06-henan-fc/"},{"date":"26.08.29","home":"허난 FC","away":"충칭 통량룽","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186603-2026-08-29-henan-fc/"},{"date":"26.08.23","home":"랴오닝 선양","away":"허난 FC","score":"4-4","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186594-2026-08-23-liaoning-tieren/"},{"date":"26.08.15","home":"상하이 선화","away":"허난 FC","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186587-2026-08-15-shanghai-shenhua/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "허난 FC"
+pickWinResult: "승"
+pickHandicapTeam: "허난 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

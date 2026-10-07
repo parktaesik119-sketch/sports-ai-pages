@@ -1,0 +1,37 @@
+---
+title: "대전 시티즌 vs 전북 현대 축구분석·승부예측 (10월 9일) - 픽천국"
+date: 2026-10-09T05:00:00.000Z
+description: "대전 시티즌 vs 전북 현대 축구분석: 대전 시티즌과 전북 현대의 이번 맞대결은 최근 팀의 기세와 안정적인 수비력 사이의 충돌이 예상됩니다. 대전 시티즌은 시즌 전체… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140042-2026-10-09-daejeon-hana-citizen"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "대전 시티즌"
+awayTeam: "전북 현대"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133900.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/46038.png"
+homeAnalysis: "대전 시티즌은 2026시즌 총 21경기에서 9승 8무 4패를 기록하며 승률 42.8%와 평균 득점 1.8점을 나타내고 있습니다. 최근 10경기에서 6승 2무 2패라는 우수한 성적을 거두며 상승세가 매우 뚜렷합니다. 특히 홈 경기장에서 보여주는 공격적인 운영은 상대 수비를 끊임없이 위협하며 다득점 경기를 만들어내는 원동력이 되고 있습니다. 시즌 전반적으로 득점력과 수비 밸런스가 조화를 이루고 있어 경기 흐름을 주도하는 능력이 뛰어납니다. 꾸준한 득점 감각을 유지하고 있는 공격진의 활약이 이번 경기에서도 핵심적인 요소가 될 것으로 보입니다."
+awayAnalysis: "전북 현대는 2026시즌 27경기에서 8승 10무 9패를 거두며 승률 29.6%와 평균 득점 1.1점을 기록 중입니다. 최근 10경기에서는 3승 4무 3패의 흐름을 보이며 다소 승리보다는 무승부 비율이 높은 신중한 경기 운영을 이어가고 있습니다. 득점 수치는 다소 낮지만, 실점을 최소화하며 경기를 끝까지 팽팽하게 유지하는 수비 집중력이 돋보이는 팀입니다. 원정 경기에서도 쉽게 무너지지 않는 끈질긴 모습을 보여주며 승점 확보를 위해 사력을 다하고 있습니다. 전력 측면에서 안정감을 유지하려는 시도가 강하게 나타나고 있어 수비 위주의 대응이 예상됩니다."
+homePower: "최근 10경기 6승으로 공수 밸런스 최상급 유지함|홈 경기 특유의 공격적 점유율로 상대를 압도하는 모습임|평균 득점력을 상회하는 후반 집중력이 돋보임|실점 상황에서도 득점으로 만회하는 화력 집중력 검증됨|최근 흐름상 상위 전력과의 대결에서도 밀리지 않는 자신감 보유함"
+awayPower: "최근 10경기 무승부 비율 높아 안정적 운영 중시함|원정에서 수비 간격 유지를 통한 실점 억제 능력 돋보임|득점력은 낮으나 한 방을 노리는 역습 전술 효율적임|상대전적에서 드러난 끈질긴 수비 집중력이 강점으로 작용함|전력 누수 최소화하며 승점 1점을 확보하려는 실리 축구임"
+h2h: '[{"date":"26.07.21","home":"전북 현대","away":"대전 시티즌","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1507005-2026-07-21-jeonbuk-motors/"},{"date":"26.03.21","home":"대전 시티즌","away":"전북 현대","score":"0-1"},{"date":"25.11.08","home":"전북 현대","away":"대전 시티즌","score":"3-1"},{"date":"25.09.13","home":"전북 현대","away":"대전 시티즌","score":"1-0"},{"date":"25.05.14","home":"대전 시티즌","away":"전북 현대","score":"2-3"}]'
+summary: "대전 시티즌과 전북 현대의 이번 맞대결은 최근 팀의 기세와 안정적인 수비력 사이의 충돌이 예상됩니다. 대전 시티즌은 시즌 전체적으로 높은 득점력을 바탕으로 공격적인 흐름을 주도하고 있으며, 최근 10경기에서 보여준 상승세가 매우 고무적입니다. 반면 전북 현대는 끈끈한 수비를 통해 무승부를 많이 이끌어내는 신중한 경기 운영을 선보이고 있습니다. 양 팀 모두 승점을 얻기 위한 치열한 접전이 예상되는 가운데, 홈에서의 이점과 최근 공격 흐름이 좋은 대전 시티즌이 경기 주도권을 잡고 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.20","home":"인천 유나이티드","away":"대전 시티즌","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140040-2026-09-20-incheon-united/"},{"date":"26.09.15","home":"대전 시티즌","away":"교토 상가","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6049976-2026-09-15-daejeon-hana-citizen/"},{"date":"26.09.12","home":"대전 시티즌","away":"포항 스틸러스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140033-2026-09-12-daejeon-hana-citizen/"},{"date":"26.09.09","home":"대전 시티즌","away":"FC 안양","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5140026-2026-09-09-daejeon-hana-citizen/"},{"date":"26.09.05","home":"부천 FC","away":"대전 시티즌","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5140018-2026-09-05-bucheon-fc-1995/"}]'
+awayRecent: '[{"date":"26.10.03","home":"여주 세종","away":"전북 현대","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5201143-2026-10-03-yeoju-fc/"},{"date":"26.09.20","home":"전북 현대","away":"광주 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140039-2026-09-20-jeonbuk-hyundai-motors-fc/"},{"date":"26.09.16","home":"전북 현대","away":"가시와 레이솔","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6049982-2026-09-16-jeonbuk-hyundai-motors-fc/"},{"date":"26.09.13","home":"전북 현대","away":"FC Mokpo","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5201136-2026-09-13-jeonbuk-hyundai-motors-fc-reserves/"},{"date":"26.09.12","home":"전북 현대","away":"FC 서울","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5140031-2026-09-12-jeonbuk-hyundai-motors-fc/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
