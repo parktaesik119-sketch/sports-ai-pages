@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.06","home":"클리블랜드 가디언스","away":"�
 awayRecent: '[{"date":"26.10.06","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261006CWCL0-2026-10-06-cleveland-guardians/"},{"date":"26.10.04","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004CWCL0-2026-10-04-cleveland-guardians/"},{"date":"26.09.28","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928CLKC0-2026-09-28-kansas-city-royals/"},{"date":"26.09.27","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"5-11","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927CLKC0-2026-09-27-kansas-city-royals/"},{"date":"26.09.26","home":"캔자스시티 로열스","away":"클리블랜드 가디언스","score":"9-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926CLKC0-2026-09-26-kansas-city-royals/"}]'
 injuryHome: "Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Luis Castillo (신경통)|Ky Bush (수술)"
 injuryAway: "Rhys Hoskins (염증)|Colin Holderman (수술)|Andrew Walters (수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Newcomb (0-0, 6.00) ERA 6.00|https://a.espncdn.com/i/headshots/mlb/players/full/33856.png\"]"
+awayLineup: "[\"선발투수 D. Espino (0-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/42438.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
