@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.06","home":"한신 타이거스","away":"히로시�
 awayRecent: '[{"date":"26.10.04","home":"야쿠르트 스왈로우스","away":"히로시마 도요 카프","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261004HIYA0-2026-10-04-yakult-swallows/"},{"date":"26.10.03","home":"야쿠르트 스왈로우스","away":"주니치 드래곤스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261003JNYA0-2026-10-03-yakult-swallows/"},{"date":"26.10.02","home":"야쿠르트 스왈로우스","away":"요미우리 자이언츠","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261002YOYA0-2026-10-02-yakult-swallows/"},{"date":"26.09.30","home":"한신 타이거스","away":"야쿠르트 스왈로우스","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260930YAHS0-2026-09-30-hanshin-tigers/"},{"date":"26.09.27","home":"요미우리 자이언츠","away":"야쿠르트 스왈로우스","score":"11-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927YAYO0-2026-09-27-yomiuri-giants/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Easton Lucas (1-2, 4.21)|https://p.npb.jp/players_photo/2026/180/t/042_73975152.jpg\"]"
+awayLineup: "[\"선발투수 Yuto Nakamura (0-0, 4.50)|https://p.npb.jp/players_photo/2026/180/s/015_91695150.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
