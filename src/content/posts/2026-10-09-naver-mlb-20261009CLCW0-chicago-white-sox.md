@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.08","home":"시카고 화이트삭스","away":"클�
 injuryHome: "Prelander Berroa (수술)|Joey Bart (골절)|Tanner Murray (수술)|Luis Castillo (신경 압박)|Ky Bush (수술)"
 injuryAway: "Rhys Hoskins (염증)|Colin Holderman (수술)|Andrew Walters (수술)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 P. Messick (0-1, 4.15) ERA 4.15|https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

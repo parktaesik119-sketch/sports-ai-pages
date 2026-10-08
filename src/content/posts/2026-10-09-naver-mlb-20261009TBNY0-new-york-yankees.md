@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.06","home":"탬파베이 레이스","away":"뉴욕 
 awayRecent: '[{"date":"26.10.06","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261006NYTB0-2026-10-06-tampa-bay-rays/"},{"date":"26.10.04","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004NYTB0-2026-10-04-tampa-bay-rays/"},{"date":"26.09.28","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"7-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928TBPH0-2026-09-28-philadelphia-phillies/"},{"date":"26.09.27","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"1-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927TBPH0-2026-09-27-philadelphia-phillies/"},{"date":"26.09.26","home":"필라델피아 필리스","away":"탬파베이 레이스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260926TBPH0-2026-09-26-philadelphia-phillies/"}]'
 injuryHome: "Aaron Judge (근육 긴장)|Fernando Cruz (염좌)|Clarke Schmidt (신경 눌림)|Kervin Castro (염증)"
 injuryAway: "Griffin Jax (타박상)|Gavin Lux (염증)|Edwin Uceta (근육 긴장)|Jonathan Heasley (골절)|Shane McClanahan (통증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Rodon|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\"]"
+awayLineup: "[\"선발투수 D. Rasmussen (1-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/42584.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.06","home":"탬파베이 레이스","away":"뉴욕 
 injuryHome: "Aaron Judge (근육 긴장)|Fernando Cruz (염좌)|Clarke Schmidt (신경 눌림)|Kervin Castro (염증)"
 injuryAway: "Griffin Jax (타박상)|Gavin Lux (염증)|Edwin Uceta (근육 긴장)|Jonathan Heasley (골절)|Shane McClanahan (통증)"
 homeLineup: "[\"선발투수 C. Rodon|https://a.espncdn.com/i/headshots/mlb/players/full/33696.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 D. Rasmussen (1-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/42584.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
