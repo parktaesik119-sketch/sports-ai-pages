@@ -447,6 +447,26 @@ function dedupeMatchList(list) {
   return kept;
 }
 
+// 앞선 경기 전체의 승/무/패/승률을 JS로 직접 계산 (AI가 직접 세지 않도록 확정값으로 전달)
+function calcRecordSummary(list, teamName, cat) {
+  if (!list || list.length === 0) return null;
+  let wins = 0, losses = 0;
+  list.forEach(m => {
+    const isHome = m.home === teamName;
+    const my = isHome ? Number(m.homeScore) : Number(m.awayScore);
+    const op = isHome ? Number(m.awayScore) : Number(m.homeScore);
+    if (my > op) wins++;
+    else if (my < op) losses++;
+  });
+  const total = list.length;
+  const draws = total - wins - losses;
+  const winRate = Math.round((wins / total) * 100);
+  const recordText = cat === 'soccer'
+    ? `${wins}승 ${draws}무 ${losses}패`
+    : `${wins}승 ${losses}패`;
+  return { total, wins, draws, losses, winRate, recordText };
+}
+
 function buildRecentForm(recentList, teamName) {
   if (!recentList || recentList.length === 0) return `${teamName}: 최근 경기 데이터 없음`;
 
@@ -619,12 +639,12 @@ async function analyzeMatches() {
 키 이름을 변경하거나 추가하지 마라. 설명 문장, 행동 예고, 내부 추론을 절대 포함하지 마라.
 각 키(HOME_ANALYSIS, AWAY_ANALYSIS, HOME_POWER 등)는 반드시 새 줄(줄바꿈)에서 시작하라. 이전 키의 값과 다음 키 이름을 같은 줄에 이어 쓰지 마라.
 
-HOME_ANALYSIS: (홈팀 분석. 존댓말로 자연스럽게 5문장 이상 서술하라. 반드시 [홈팀 시즌 전체 DB]만 기준으로 시즌 성적(승패수, 승률, 득점 평균 등)을 첫 문장에 언급하고, 최근 흐름과 자연스럽게 연결하라. 득점력, 수비력, 홈/원정 성적, 강점 또는 주목 선수를 흐름 안에 녹여 작성하라. 다른 연도 수치 사용 절대 금지. "최근 5경기에서 N승 N패" 같은 수치 나열식 첫 문장 절대 금지. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
-AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 방식으로 원정팀 기준으로 작성하라. 반드시 [원정팀 시즌 전체 DB]만 기준으로 시즌 성적을 먼저 언급하고 최근 흐름과 자연스럽게 연결하라. 다른 연도 수치 사용 절대 금지. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
+HOME_ANALYSIS: (홈팀 분석. 존댓말로 자연스럽게 5문장 이상 서술하라. 반드시 [홈팀 앞선 경기 전체 DB]만 기준으로 하되, 첫 문장은 [앞선 경기 기록]에 제공된 확정 수치로 "OO은 앞선 N경기에서 N승 N무 N패로 승률 N%를 기록했고..." 형태로 시작하고(무승부 없는 종목은 무 생략, 수치 임의 변경 금지), 최근 흐름과 자연스럽게 연결하라. "시즌"이라는 단어(예: 2026시즌)는 첫 문장뿐 아니라 본문 어디에도 쓰지 마라. 득점력, 수비력, 홈/원정 성적, 강점 또는 주목 선수를 흐름 안에 녹여 작성하라. 다른 연도 수치 사용 절대 금지. "최근 5경기에서 N승 N패" 같은 최근 경기 수치만 나열하는 첫 문장 절대 금지(첫 문장은 위 형태로 시작하되 수치 나열로 끝내지 말고 흐름으로 이어갈 것). 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
+AWAY_ANALYSIS: (원정팀 분석. HOME_ANALYSIS와 동일한 방식으로 원정팀 기준으로 작성하라. 반드시 [원정팀 앞선 경기 전체 DB]만 기준으로 하되, 첫 문장은 [앞선 경기 기록]에 제공된 확정 수치로 "OO은 앞선 N경기에서 N승 N무 N패로 승률 N%를..." 형태로 시작하고(무승부 없는 종목은 무 생략, 수치 임의 변경 금지), 최근 흐름과 자연스럽게 연결하라. "시즌"이라는 단어는 쓰지 마라. 다른 연도 수치 사용 절대 금지. 축구 종목을 제외하고 나머지 모든 종목은 무승부 표현 절대 금지. 문장 사이 구분은 공백으로만.)
 HOME_POWER: (홈팀 핵심 전력 포인트 5개를 파이프(|)로 구분. 각 35자 이내. HOME_ANALYSIS에 이미 쓴 문장이나 수치를 그대로 반복하지 마라 — 같은 데이터를 다른 각도로 해석한 통찰을 담아라. 단순히 "N승N패", "평균 N득점" 같은 시즌 기록 나열이 아니라, 그 기록이 시사하는 패턴이나 강약점을 한 줄로 압축하라. 가능하면 수치를 근거로 들되, 수치 자체보다 "그래서 어떻다"는 해석이 핵심이다. 문장은 반드시 "~함/~음/~임/~보임/~검증됨" 같은 명사형·요약체 종결어미로 끝내라. "~합니다", "~있습니다" 같은 완결된 존댓말 문장 절대 금지 — 서술이 아니라 한 줄 요약처럼 읽혀야 한다. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지. 예: 최근 맞대결 5경기 중 4승, 상대 상성 확실한 우위|최근 4경기 모두 2득점 이상, 화력보단 꾸준함이 강점|원정 약한 상대 수비 vs 안정적 홈 운영, 매치업상 유리|직전 경기 무득점 포함 마무리 효율은 기복 변수|조 1위로 마친 만큼 큰 경기 운영력은 검증된 상태)
 AWAY_POWER: (원정팀 핵심 전력 포인트 5개를 파이프(|)로 구분. 각 35자 이내. AWAY_ANALYSIS와 동일한 방식·동일한 원칙(수치 재탕 금지, 패턴·시사점 중심)으로 원정팀 기준으로 작성하라. 문장은 반드시 "~함/~음/~임/~보임/~검증됨" 같은 명사형·요약체 종결어미로 끝내라. "~합니다", "~있습니다" 같은 완결된 존댓말 문장 절대 금지. 팀명 언급 시 반드시 한글 풀네임으로 표기하라. 영문·약식 팀명 절대 금지.)
 H2H: (상대전적. DB에 있으면 각 경기를 파이프(|)로 구분하여 기재. 형식: YYYY.MM.DD - 홈팀 (스코어) 원정팀. DB에 없으면 반드시 "※ H2H 업데이트 예정" 으로만 표기. 웹 검색 절대 금지.)
-SUMMARY: (종합 분석. 존댓말로 3문장 이상. 반드시 [시즌 전체 DB] 기준 수치만 활용하라. 다른 연도 수치 사용 절대 금지. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 시즌 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라. ④이번 경기의 "예상 스코어"(pick으로 나갈 스코어 예측)를 종합 분석 문장 안에서 직접 언급하는 것 절대 금지 — "제시된 만큼", "~처럼", "~대로", "~도 맞아떨어져", "~와 잘 맞고" 등 표현 방식과 무관하게, "예상 스코어"라는 단어 자체나 이번 경기 예측 스코어의 구체적 숫자 조합(예: "2-2", "1-0 흐름")을 종합 분석에 등장시키면 안 된다. 예상 스코어는 이 분석 내용을 바탕으로 별도 필드(pickExpectedHome/pickExpectedAway)에 "나온 결과"이지, 종합 분석이 그 결과를 다시 언급하며 근거처럼 되짚는 것이 아니다. (실제 위반 사례로 이런 문장들이 나온 적이 있다 — 전부 금지: "예상 스코어인 2대2처럼 양 팀이...", "예상 스코어는 A팀 1, B팀 2로 보는 편이 자연스럽고", "예상 스코어대로 1-3 그림이 자연스럽게 이어질 가능성이 높습니다", "예상 스코어도 홈팀 1-원정팀 2 흐름과 잘 맞아 떨어져") ⑤대신 전력 비교와 최근 흐름, 상대전적만으로 자연스럽게 "어느 팀이 우세하다/우위를 점할 가능성이 높다" 식의 결론에 도달하도록 서술하라. 스코어 숫자를 언급하고 싶으면 오직 과거 경기(H2H, 최근 성적)의 실제 결과 스코어만 인용하고, 이번 경기의 예측 스코어는 절대 언급하지 마라.)
+SUMMARY: (종합 분석. 존댓말로 3문장 이상. 반드시 [앞선 경기 전체 DB] 기준 수치만 활용하라. "시즌"이라는 단어는 쓰지 마라. 다른 연도 수치 사용 절대 금지. 아래 금지 사항을 반드시 준수하라. ①"제공된 DB", "DB만 놓고 보면", "H2H DB가 없어", "상대전적은 반영하지 않았고", "웹 검색 결과상", "결장 근거가 제한적" 같은 분석 과정·출처·한계를 드러내는 표현 절대 금지. ②독자 입장에서 읽히는 깔끔한 전력 비교와 예측만 작성하라. ③양 팀의 전력 차이, 득점/수비 흐름, 주목 포인트 순서로 자연스럽게 서술하라. ④이번 경기의 "예상 스코어"(pick으로 나갈 스코어 예측)를 종합 분석 문장 안에서 직접 언급하는 것 절대 금지 — "제시된 만큼", "~처럼", "~대로", "~도 맞아떨어져", "~와 잘 맞고" 등 표현 방식과 무관하게, "예상 스코어"라는 단어 자체나 이번 경기 예측 스코어의 구체적 숫자 조합(예: "2-2", "1-0 흐름")을 종합 분석에 등장시키면 안 된다. 예상 스코어는 이 분석 내용을 바탕으로 별도 필드(pickExpectedHome/pickExpectedAway)에 "나온 결과"이지, 종합 분석이 그 결과를 다시 언급하며 근거처럼 되짚는 것이 아니다. (실제 위반 사례로 이런 문장들이 나온 적이 있다 — 전부 금지: "예상 스코어인 2대2처럼 양 팀이...", "예상 스코어는 A팀 1, B팀 2로 보는 편이 자연스럽고", "예상 스코어대로 1-3 그림이 자연스럽게 이어질 가능성이 높습니다", "예상 스코어도 홈팀 1-원정팀 2 흐름과 잘 맞아 떨어져") ⑤대신 전력 비교와 최근 흐름, 상대전적만으로 자연스럽게 "어느 팀이 우세하다/우위를 점할 가능성이 높다" 식의 결론에 도달하도록 서술하라. 스코어 숫자를 언급하고 싶으면 오직 과거 경기(H2H, 최근 성적)의 실제 결과 스코어만 인용하고, 이번 경기의 예측 스코어는 절대 언급하지 마라.)
 INJURY_HOME: (홈팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 INJURY_AWAY: (원정팀 부상/결장 선수. 선수명은 영문 원문 그대로 유지. 사유는 한글로 번역. 형식: 선수명 (한글사유)|선수명 (한글사유). 없으면 "없음". 플레이스홀더 절대 금지)
 PICK_WIN_TEAM: (승리 예상 팀명. 무승부이면 "무승부". 배당 검색 금지. 반드시 아래 제공된 최근경기 DB와 상대전적 DB만을 근거로 판단하라.)
@@ -1267,7 +1287,16 @@ if (isFreePassLeague) {
 const lgUpper2 = (match.league || '').toUpperCase();
 const isInternationalTournament = lgUpper2.includes('WORLD CUP') || lgUpper2.includes('OLYMPIC') || lgUpper2.includes('EURO') || lgUpper2.includes('COPA AMERICA') || lgUpper2.includes('AFC ASIAN CUP') || lgUpper2.includes('NATIONS LEAGUE') || lgUpper2.includes('WORLD CHAMPIONSHIP') || lgUpper2.includes('WORLD BASEBALL') || lgUpper2.includes('WBC') || lgUpper2.includes('MSI') || lgUpper2.includes('WORLDS');
 const leagueNameForPrompt = convertLeagueName(match.league);
-const seasonLabel = isInternationalTournament ? `이번 ${leagueNameForPrompt}에서` : `${currentYear}시즌`;
+// ⚠️ '시즌' 표현 제거: 올해 1월 1일 이후 월드컵·친선경기 등이 섞여 있어 '2026시즌'이라는 말이 어색함.
+// 대신 '앞선 N경기에서 N승 N무 N패, 승률 N%' 형태로 첫 문장을 쓰도록 JS 계산값을 전달한다.
+const seasonLabel = '앞선 경기';
+const homeRec = calcRecordSummary(homeAllMatches, match.home, cat);
+const awayRec = calcRecordSummary(awayAllMatches, match.away, cat);
+const buildOpeningHint = (name, rec) => rec
+  ? `${name}: 앞선 ${rec.total}경기에서 ${rec.recordText}, 승률 ${rec.winRate}%`
+  : `${name}: 앞선 경기 기록 없음 (수치를 지어내지 말고 최근 흐름 중심으로 시작)`;
+const homeOpeningHint = buildOpeningHint(aiHomeName, homeRec);
+const awayOpeningHint = buildOpeningHint(aiAwayName, awayRec);
 
 
 
@@ -1541,15 +1570,18 @@ ${ouInstruction ? `- ${ouInstruction}` : ''}
 [상대전적 DB - 아래 데이터를 H2H에 그대로 사용하라. 웹 검색 절대 금지]
 ${h2hContextForAI || '없음 - H2H: ※ H2H 업데이트 예정 으로만 표기'}
 
-[시즌 라벨 안내 - 아래 모든 DB 분석 시 이 표현을 기준으로 사용하라: "${seasonLabel}"]
+[앞선 경기 기록 - HOME_ANALYSIS / AWAY_ANALYSIS 첫 문장에 아래 확정 수치를 그대로 사용하라. 직접 다시 계산하지 마라]
+- 홈팀 ${homeOpeningHint}
+- 원정팀 ${awayOpeningHint}
+- "시즌"이라는 표현(예: 2026시즌) 사용 금지
 
-[홈팀 ${seasonLabel} 전체 DB - ${seasonLabel} 성적(승패, 득점, 홈성적 등) 분석에 사용하라. 이 데이터 외 다른 연도 수치 절대 사용 금지]
+[홈팀 앞선 경기 전체 DB - 앞선 경기 성적(승패, 득점, 홈성적 등) 분석에 사용하라. 이 데이터 외 다른 연도 수치 절대 사용 금지]
 ${homeAllContext}
 
 [홈팀 최근 경기 DB - 최근 흐름 파악에 사용하라]
 ${homeRecentContext}
 
-[원정팀 ${seasonLabel} 전체 DB - ${seasonLabel} 성적(승패, 득점, 홈성적 등) 분석에 사용하라. 이 데이터 외 다른 연도 수치 절대 사용 금지]
+[원정팀 앞선 경기 전체 DB - 앞선 경기 성적(승패, 득점, 홈성적 등) 분석에 사용하라. 이 데이터 외 다른 연도 수치 절대 사용 금지]
 ${awayAllContext}
 
 [원정팀 최근 경기 DB - 최근 흐름 파악에 사용하라]
