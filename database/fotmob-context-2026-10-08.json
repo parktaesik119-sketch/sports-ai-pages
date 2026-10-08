@@ -5,40 +5,8 @@
     "date": "2026-10-06T18:45:00.000Z",
     "league": "UEFA Nations League A Grp. 3",
     "injuries": {
-      "home": [
-        {
-          "name": "Martin Erlić",
-          "status": "부상",
-          "detail": "Mid October 2026"
-        },
-        {
-          "name": "Josip Juranović",
-          "status": "병",
-          "detail": "About 1-2 weeks"
-        }
-      ],
-      "away": [
-        {
-          "name": "Ferrán Torres",
-          "status": "부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Nico Williams",
-          "status": "허벅지 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Alejandro Grimaldo",
-          "status": "허벅지 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Joan García",
-          "status": "무릎 부상",
-          "detail": "Doubtful"
-        }
-      ]
+      "home": [],
+      "away": []
     },
     "h2h": [
       {
@@ -845,26 +813,6 @@
           "name": "Kaan Kairinen",
           "status": "부상",
           "detail": "Early October 2026"
-        },
-        {
-          "name": "Ville Koski",
-          "status": "허벅지 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Niklas Pyyhtiä",
-          "status": "부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Naatan Skyttä",
-          "status": "부상",
-          "detail": "Unknown"
-        },
-        {
-          "name": "Jesse Joronen",
-          "status": "어깨 부상",
-          "detail": "Day to day"
         }
       ]
     },
@@ -1993,13 +1941,7 @@
     "date": "2026-10-06T23:00:00.000Z",
     "league": "Friendlies",
     "injuries": {
-      "home": [
-        {
-          "name": "Thiago Almada",
-          "status": "근육 부상",
-          "detail": "Mid October 2026"
-        }
-      ],
+      "home": [],
       "away": []
     },
     "h2h": [],
@@ -5273,19 +5215,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Enda Stevens",
-          "status": "근육 부상",
-          "detail": "A few weeks"
-        },
-        {
           "name": "Daniel Grant",
           "status": "근육 부상",
-          "detail": "Unknown"
+          "detail": "Doubtful"
         },
         {
           "name": "Daniel Mândroiu",
           "status": "무릎 부상",
-          "detail": "Unknown"
+          "detail": "Out for season"
         }
       ],
       "away": [
@@ -7121,7 +7058,7 @@
         {
           "name": "William Saliba",
           "status": "등 부상",
-          "detail": "Early November 2026"
+          "detail": "Late November 2026"
         },
         {
           "name": "Max Dowman",
@@ -7148,6 +7085,11 @@
         {
           "name": "Harry Wilson",
           "status": "근육 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Jean-Mattéo Bahoya",
+          "status": "발목 부상",
           "detail": "Doubtful"
         },
         {
@@ -7371,13 +7313,13 @@
     "injuries": {
       "home": [
         {
-          "name": "Modou Kéba Cissé",
-          "status": "충돌 부상",
-          "detail": "Mid October 2026"
-        },
-        {
           "name": "Marco Bizot",
           "status": "등 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Pau Torres",
+          "status": "햄스트링 부상",
           "detail": "Doubtful"
         },
         {
@@ -7386,32 +7328,22 @@
           "detail": "Late October 2026"
         },
         {
-          "name": "Pau Torres",
-          "status": "햄스트링 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Leon Goretzka",
-          "status": "무릎 부상",
-          "detail": "Mid October 2026"
-        },
-        {
-          "name": "Brian Madjo",
+          "name": "Modou Kéba Cissé",
           "status": "충돌 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Amadou Onana",
           "status": "십자 인대 부상",
           "detail": "Mid April 2027"
+        },
+        {
+          "name": "Leon Goretzka",
+          "status": "무릎 부상",
+          "detail": "Doubtful"
         }
       ],
       "away": [
-        {
-          "name": "Mikkel Damsgaard",
-          "status": "발목 부상",
-          "detail": "Doubtful"
-        },
         {
           "name": "Dango Ouattara",
           "status": "병",
@@ -7420,7 +7352,17 @@
         {
           "name": "Nathan Collins",
           "status": "종아리 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Sepp van den Berg",
+          "status": "사타구니 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Antoni Milambo",
+          "status": "십자 인대 부상",
+          "detail": "Doubtful"
         },
         {
           "name": "Mathias Jensen",
@@ -7428,19 +7370,14 @@
           "detail": "Mid October 2026"
         },
         {
+          "name": "Mikkel Damsgaard",
+          "status": "발목 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Joshua Dasilva",
           "status": "충돌 부상",
-          "detail": "Mid October 2026"
-        },
-        {
-          "name": "Sepp van den Berg",
-          "status": "사타구니 부상",
-          "detail": "Mid October 2026"
-        },
-        {
-          "name": "Antoni Milambo",
-          "status": "십자 인대 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         }
       ]
     },
@@ -7648,9 +7585,42 @@
         }
       ]
     },
-    "lineup": null,
-    "formation": null,
-    "coach": null
+    "lineup": {
+      "home": [
+        "Zion Suzuki (GK)|https://images.fotmob.com/image_resources/playerimages/1053679.png",
+        "Aaron Wan-Bissaka (DF)|https://images.fotmob.com/image_resources/playerimages/760320.png",
+        "Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png",
+        "Tyrone Mings (DF)|https://images.fotmob.com/image_resources/playerimages/419664.png",
+        "Matteo Ruggeri (DF)|https://images.fotmob.com/image_resources/playerimages/1051097.png",
+        "Boubacar Kamara (MF)|https://images.fotmob.com/image_resources/playerimages/816325.png",
+        "João Gomes (MF)|https://images.fotmob.com/image_resources/playerimages/1174672.png",
+        "John McGinn (FW)|https://images.fotmob.com/image_resources/playerimages/356406.png",
+        "Johan Manzambi (MF)|https://images.fotmob.com/image_resources/playerimages/1520063.png",
+        "Emiliano Buendía (FW)|https://images.fotmob.com/image_resources/playerimages/610184.png",
+        "Nicolas Jackson (FW)|https://images.fotmob.com/image_resources/playerimages/1197347.png"
+      ],
+      "away": [
+        "Caoimhín Kelleher (GK)|https://images.fotmob.com/image_resources/playerimages/776689.png",
+        "Michael Kayode (DF)|https://images.fotmob.com/image_resources/playerimages/1429912.png",
+        "Jannik Schuster (DF)|https://images.fotmob.com/image_resources/playerimages/1572340.png",
+        "Kristoffer Ajer (DF)|https://images.fotmob.com/image_resources/playerimages/552718.png",
+        "Keane Lewis-Potter (DF)|https://images.fotmob.com/image_resources/playerimages/1010426.png",
+        "Mamadou Sangaré (MF)|https://images.fotmob.com/image_resources/playerimages/1185211.png",
+        "Vitaly Janelt (MF)|https://images.fotmob.com/image_resources/playerimages/688273.png",
+        "Jaidon Anthony (FW)|https://images.fotmob.com/image_resources/playerimages/1171140.png",
+        "Yehor Yarmoliuk (MF)|https://images.fotmob.com/image_resources/playerimages/1157236.png",
+        "Kevin Schade (FW)|https://images.fotmob.com/image_resources/playerimages/1083796.png",
+        "Igor Thiago (FW)|https://images.fotmob.com/image_resources/playerimages/1302005.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png",
+      "away": "Keith Andrews|https://images.fotmob.com/image_resources/playerimages/38711.png"
+    }
   },
   {
     "home": "Chelsea",
@@ -7687,7 +7657,7 @@
         {
           "name": "João Pedro",
           "status": "부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         }
       ],
       "away": [
@@ -7719,6 +7689,11 @@
         {
           "name": "Amine Adli",
           "status": "종아리 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "David Brooks",
+          "status": "부상",
           "detail": "Doubtful"
         }
       ]
@@ -8235,7 +8210,7 @@
         {
           "name": "Brian Brobbey",
           "status": "햄스트링 부상",
-          "detail": "Late October 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Romaine Mundle",
@@ -8247,7 +8222,7 @@
         {
           "name": "Yasin Ayari",
           "status": "바이러스",
-          "detail": "About a week"
+          "detail": "Doubtful"
         },
         {
           "name": "Lewis Dunk",
@@ -8257,17 +8232,17 @@
         {
           "name": "Mats Wieffer",
           "status": "무릎 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Pascal Struijk",
           "status": "햄스트링 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Jack Hinshelwood",
           "status": "충돌 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Evan Ferguson",
@@ -8277,12 +8252,12 @@
         {
           "name": "Femi Azeez",
           "status": "근육 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Kaoru Mitoma",
           "status": "햄스트링 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Stefanos Tzimas",
@@ -8297,7 +8272,7 @@
         {
           "name": "Zadok Yohanna",
           "status": "충돌 부상",
-          "detail": "Mid October 2026"
+          "detail": "Doubtful"
         }
       ]
     },
@@ -8415,7 +8390,7 @@
         "Trai Hume (DF)|https://images.fotmob.com/image_resources/playerimages/1067763.png",
         "Dayann Méthalie (MF)|https://images.fotmob.com/image_resources/playerimages/1664716.png",
         "Granit Xhaka (MF)|https://images.fotmob.com/image_resources/playerimages/207236.png",
-        "Chris Rigg (FW)|https://images.fotmob.com/image_resources/playerimages/1327319.png",
+        "Chris Rigg (MF)|https://images.fotmob.com/image_resources/playerimages/1327319.png",
         "Thomas Meunier (DF)|https://images.fotmob.com/image_resources/playerimages/277771.png",
         "Enzo Le Fée (MF)|https://images.fotmob.com/image_resources/playerimages/1049999.png",
         "Nilson Angulo (FW)|https://images.fotmob.com/image_resources/playerimages/1287010.png",
@@ -11572,8 +11547,8 @@
           "detail": "Out for season"
         },
         {
-          "name": "Sam Lammers",
-          "status": "충돌 부상",
+          "name": "Jerdy Schouten",
+          "status": "부상",
           "detail": "Day to day"
         },
         {
@@ -11582,27 +11557,22 @@
           "detail": "Early December 2026"
         },
         {
-          "name": "Alassane Pléa",
-          "status": "부상",
-          "detail": "Day to day"
-        },
-        {
           "name": "Sami Ouaissa",
           "status": "햄스트링 부상",
           "detail": "Day to day"
         },
         {
-          "name": "Jerdy Schouten",
+          "name": "Alassane Pléa",
           "status": "부상",
+          "detail": "Day to day"
+        },
+        {
+          "name": "Sam Lammers",
+          "status": "충돌 부상",
           "detail": "Day to day"
         }
       ],
       "away": [
-        {
-          "name": "Dirk Proper",
-          "status": "부상",
-          "detail": "Day to day"
-        },
         {
           "name": "Mats Egbring",
           "status": "발목 부상",
@@ -11611,6 +11581,11 @@
         {
           "name": "Mees Hilgers",
           "status": "십자 인대 부상",
+          "detail": "Day to day"
+        },
+        {
+          "name": "Dirk Proper",
+          "status": "부상",
           "detail": "Day to day"
         }
       ]
@@ -11924,9 +11899,42 @@
         }
       ]
     },
-    "lineup": null,
-    "formation": null,
-    "coach": null
+    "lineup": {
+      "home": [
+        "Matěj Kovár (GK)|https://images.fotmob.com/image_resources/playerimages/1077903.png",
+        "Sergiño Dest (DF)|https://images.fotmob.com/image_resources/playerimages/892816.png",
+        "Ryan Flamingo (DF)|https://images.fotmob.com/image_resources/playerimages/1386551.png",
+        "Armando Obispo (DF)|https://images.fotmob.com/image_resources/playerimages/794244.png",
+        "Mauro Júnior (DF)|https://images.fotmob.com/image_resources/playerimages/873556.png",
+        "Kodai Sano (MF)|https://images.fotmob.com/image_resources/playerimages/1337282.png",
+        "Noah Fernandez (MF)|https://images.fotmob.com/image_resources/playerimages/1699551.png",
+        "Ivan Perišić (FW)|https://images.fotmob.com/image_resources/playerimages/163670.png",
+        "Guus Til (MF)|https://images.fotmob.com/image_resources/playerimages/774947.png",
+        "Ruben van Bommel (FW)|https://images.fotmob.com/image_resources/playerimages/1359970.png",
+        "Sven Mijnans (MF)|https://images.fotmob.com/image_resources/playerimages/1035643.png"
+      ],
+      "away": [
+        "Bernt Klaverboer (GK)|https://images.fotmob.com/image_resources/playerimages/1435849.png",
+        "Oliver Braude (DF)|https://images.fotmob.com/image_resources/playerimages/1526603.png",
+        "Sam Kersten (DF)|https://images.fotmob.com/image_resources/playerimages/782557.png",
+        "Maas Willemsen (DF)|https://images.fotmob.com/image_resources/playerimages/1389300.png",
+        "Vasilios Zagaritis (DF)|https://images.fotmob.com/image_resources/playerimages/1085390.png",
+        "Marcus Linday (MF)|https://images.fotmob.com/image_resources/playerimages/1608454.png",
+        "Levi Smans (MF)|https://images.fotmob.com/image_resources/playerimages/1285774.png",
+        "Jacob Trenskow (FW)|https://images.fotmob.com/image_resources/playerimages/1188247.png",
+        "Nolhan Courtens (MF)|https://images.fotmob.com/image_resources/playerimages/1553437.png",
+        "Maxence Rivera (FW)|https://images.fotmob.com/image_resources/playerimages/1124454.png",
+        "Dylan Vente (FW)|https://images.fotmob.com/image_resources/playerimages/750026.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Peter Bosz|https://images.fotmob.com/image_resources/playerimages/243556.png",
+      "away": "Robin Veldman|https://images.fotmob.com/image_resources/playerimages/1416735.png"
+    }
   },
   {
     "home": "Go Ahead Eagles",

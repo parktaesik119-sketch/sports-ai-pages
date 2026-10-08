@@ -1508,6 +1508,32 @@
     "awayScore": 2
   },
   {
+    "id": "fotmob-5796360",
+    "sport": "soccer",
+    "country": "Montenegro",
+    "league": "1. CFL",
+    "date": "2026-10-08T12:00:00.000Z",
+    "home": "FK Arsenal Tivat",
+    "away": "Dečić Tuzi",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/324771.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8100.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5796364",
+    "sport": "soccer",
+    "country": "Montenegro",
+    "league": "1. CFL",
+    "date": "2026-10-08T12:00:00.000Z",
+    "home": "Otrant",
+    "away": "OFK Mladost Donja Gorica",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/187983.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1264989.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6356391",
     "sport": "soccer",
     "country": "Chile",
@@ -2193,8 +2219,8 @@
     "away": "São Paulo",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9781.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10277.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5190752",
@@ -2297,6 +2323,32 @@
     "away": "Fort Wayne",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1128317.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1358072.png",
+    "homeScore": 1,
+    "awayScore": 3
+  },
+  {
+    "id": "fotmob-5796361",
+    "sport": "soccer",
+    "country": "Montenegro",
+    "league": "1. CFL",
+    "date": "2026-10-08T16:00:00.000Z",
+    "home": "FK Bokelj",
+    "away": "Petrovac",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/89512.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8101.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5796363",
+    "sport": "soccer",
+    "country": "Montenegro",
+    "league": "1. CFL",
+    "date": "2026-10-08T16:00:00.000Z",
+    "home": "Mornar",
+    "away": "Jezero",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/175653.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/141667.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -2765,19 +2817,6 @@
     "away": "TRA United",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1084108.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1524586.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5998323",
-    "sport": "soccer",
-    "country": "Tanzania",
-    "league": "Premier League",
-    "date": "2026-10-08T18:00:00.000Z",
-    "home": "Coastal Union",
-    "away": "Azam FC",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/287669.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165091.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -8151,6 +8190,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-5998323",
+    "sport": "soccer",
+    "country": "Tanzania",
+    "league": "Premier League",
+    "date": "2026-10-09T18:00:00.000Z",
+    "home": "Coastal Union",
+    "away": "Azam FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/287669.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165091.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-5793941",
     "sport": "soccer",
     "country": "Scotland",
@@ -11449,8 +11501,8 @@
     "away": "Tampa Bay Rays",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/NY.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TB.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "naver-mlb-20261008MISD0",
@@ -11462,8 +11514,8 @@
     "away": "Milwaukee Brewers",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/SD.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MI.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "naver-npb-20261008YAHS0",
@@ -11483,37 +11535,11 @@
     "sport": "baseball",
     "country": "USA",
     "league": "MLB",
-    "date": "2026-10-08T21:00:00.000Z",
+    "date": "2026-10-09T00:00:00.000Z",
     "home": "Chicago White Sox",
     "away": "Cleveland Guardians",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CW.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CL.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "naver-mlb-20261009TBNY0",
-    "sport": "baseball",
-    "country": "USA",
-    "league": "MLB",
-    "date": "2026-10-09T00:00:00.000Z",
-    "home": "New York Yankees",
-    "away": "Tampa Bay Rays",
-    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/NY.png",
-    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TB.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "highlightly-hockey-378398785",
-    "sport": "hockey",
-    "country": "USA",
-    "league": "NHL",
-    "date": "2026-10-07T23:30:00.000Z",
-    "home": "Winnipeg Jets",
-    "away": "Colorado Avalanche",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/599888.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/578613.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -11527,8 +11553,21 @@
     "away": "Pittsburgh Penguins",
     "homeLogo": "https://highlightly.net/hockey/images/teams/599037.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/593080.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 3
+  },
+  {
+    "id": "highlightly-hockey-378398785",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-07T23:30:00.000Z",
+    "home": "Winnipeg Jets",
+    "away": "Colorado Avalanche",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/599888.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/578613.png",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378397083",
@@ -11648,19 +11687,6 @@
     "awayScore": null
   },
   {
-    "id": "highlightly-hockey-378404742",
-    "sport": "hockey",
-    "country": "USA",
-    "league": "NHL",
-    "date": "2026-10-08T23:00:00.000Z",
-    "home": "Buffalo Sabres",
-    "away": "Dallas Stars",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/574358.png",
-    "awayLogo": "https://highlightly.net/hockey/images/teams/580315.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "highlightly-hockey-378403040",
     "sport": "hockey",
     "country": "USA",
@@ -11683,6 +11709,19 @@
     "away": "Philadelphia Flyers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/590527.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/592229.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378402189",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-08T23:00:00.000Z",
+    "home": "Boston Bruins",
+    "away": "Utah Mammoth",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/573507.png",
+    "awayLogo": null,
     "homeScore": null,
     "awayScore": null
   },
@@ -11713,15 +11752,15 @@
     "awayScore": null
   },
   {
-    "id": "highlightly-hockey-378402189",
+    "id": "highlightly-hockey-378404742",
     "sport": "hockey",
     "country": "USA",
     "league": "NHL",
     "date": "2026-10-08T23:00:00.000Z",
-    "home": "Boston Bruins",
-    "away": "Utah Mammoth",
-    "homeLogo": "https://highlightly.net/hockey/images/teams/573507.png",
-    "awayLogo": null,
+    "home": "Buffalo Sabres",
+    "away": "Dallas Stars",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/574358.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/580315.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -11735,8 +11774,8 @@
     "away": "Edmonton Oilers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/570954.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/582017.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 5
   },
   {
     "id": "highlightly-hockey-366385218",
@@ -11774,19 +11813,6 @@
     "away": "SKA St. Petersburg",
     "homeLogo": "https://highlightly.net/hockey/images/teams/14400.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/325866.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "flashscore-cpbl-6XMB92U9",
-    "sport": "baseball",
-    "country": "Taiwan",
-    "league": "CPBL",
-    "date": "2026-10-09T09:05:00.000Z",
-    "home": "Chinatrust Brothers",
-    "away": "Uni Lions",
-    "homeLogo": "https://static.flashscore.com/res/image/data/WURV6PWH-M9dMKp3f.png",
-    "awayLogo": "https://static.flashscore.com/res/image/data/tUl1YzjC-6q3ARfqR.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -12182,10 +12208,10 @@
     "sport": "lol",
     "league": "LCS",
     "date": "2026-10-08T21:00:00Z",
-    "home": "Cupid Esports",
-    "away": "Maryville University",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/138937/698px_cupid_e_sports_allmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/130635/maryville_universitylogo_square.png",
+    "home": "Maryville University",
+    "away": "Cupid Esports",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/130635/maryville_universitylogo_square.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138937/698px_cupid_e_sports_allmode.png",
     "homeScore": 0,
     "awayScore": 0
   },
