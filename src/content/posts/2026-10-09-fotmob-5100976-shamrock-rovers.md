@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.19","home":"섐록 로버스","away":"워터퍼드"
 awayRecent: '[{"date":"26.09.19","home":"보헤미안스","away":"드로에다 유나이티드","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100967-2026-09-19-bohemian-fc/"},{"date":"26.09.15","home":"셸번","away":"드로에다 유나이티드","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100958-2026-09-15-shelbourne/"},{"date":"26.09.12","home":"드로에다 유나이티드","away":"슬라이고 로버스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100962-2026-09-12-drogheda-united/"},{"date":"26.09.05","home":"드로에다 유나이티드","away":"골웨이 유나이티드","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6046148-2026-09-05-drogheda-united/"},{"date":"26.08.29","home":"드로에다 유나이티드","away":"던돌크","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100954-2026-08-29-drogheda-united/"}]'
 injuryHome: "Daniel Grant[주요](근육 부상 - 복귀예정 Doubtful) | Daniel Mândroiu[주요](무릎 부상 - 복귀예정 Out for season)"
 injuryAway: "Keegan Ancelin[주요](근육 부상 - 복귀예정 Unknown) | James Bolger[주요](충돌 부상 - 복귀예정 Back in training) | Owen Lambe[주요](다리 부상 - 복귀예정 Unknown)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Edward McGinty (GK)|https://images.fotmob.com/image_resources/playerimages/829101.png\",\"Daniel Cleary (DF)|https://images.fotmob.com/image_resources/playerimages/680030.png\",\"Lee Grace (DF)|https://images.fotmob.com/image_resources/playerimages/648611.png\",\"Roberto Lopes (DF)|https://images.fotmob.com/image_resources/playerimages/230134.png\",\"Tunmise Sobowale (DF)|https://images.fotmob.com/image_resources/playerimages/949667.png\",\"Dylan Watts (MF)|https://images.fotmob.com/image_resources/playerimages/641044.png\",\"Jack Byrne (MF)|https://images.fotmob.com/image_resources/playerimages/661902.png\",\"Jake Mulraney (MF)|https://images.fotmob.com/image_resources/playerimages/685725.png\",\"Matthew Healy (MF)|https://images.fotmob.com/image_resources/playerimages/1206281.png\",\"Graham Burke (FW)|https://images.fotmob.com/image_resources/playerimages/301367.png\",\"John McGovern (FW)|https://images.fotmob.com/image_resources/playerimages/1400984.png\"]"
+awayLineup: "[\"Fynn Talley (GK)|https://images.fotmob.com/image_resources/playerimages/1187238.png\",\"Andrew Quinn (DF)|https://images.fotmob.com/image_resources/playerimages/1190122.png\",\"Conor Kane (DF)|https://images.fotmob.com/image_resources/playerimages/825812.png\",\"Conor Keeley (DF)|https://images.fotmob.com/image_resources/playerimages/747264.png\",\"Edwin Agbaje (DF)|https://images.fotmob.com/image_resources/playerimages/1420125.png\",\"Leo Burney (DF)|https://images.fotmob.com/image_resources/playerimages/1710549.png\",\"Brandon Kavanagh (MF)|https://images.fotmob.com/image_resources/playerimages/928435.png\",\"Ethan O'Brien (MF)|https://images.fotmob.com/image_resources/playerimages/1621330.png\",\"Shane Farrell (MF)|https://images.fotmob.com/image_resources/playerimages/936722.png\",\"Ryan Markey (FW)|https://images.fotmob.com/image_resources/playerimages/2075513.png\",\"Warren Davis (FW)|https://images.fotmob.com/image_resources/playerimages/1441589.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "5-3-2"
+homeCoach: "Stephen Bradley|https://images.fotmob.com/image_resources/playerimages/16191.png"
+awayCoach: "Kevin Doherty|https://images.fotmob.com/image_resources/playerimages/13895.png"
 pickWinTeam: "섐록 로버스"
 pickWinResult: "승"
 pickHandicapTeam: "섐록 로버스"
