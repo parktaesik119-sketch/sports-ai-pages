@@ -1,0 +1,37 @@
+---
+title: "아스톤 빌라 vs 브렌트퍼드 축구분석·승부예측 (10월 10일) - 픽천국"
+date: 2026-10-10T14:00:00.000Z
+description: "아스톤 빌라 vs 브렌트퍼드 축구분석: 최근 3연승으로 공격력을 매섭게 끌어올린 아스톤 빌라와 10경기 무패 행진을 달리는 브렌트퍼드의 맞대결입니다. 양 팀 모두 강… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5795466-2026-10-10-aston-villa"
+category: "soccer"
+country: "잉글랜드"
+league: "프리미어리그"
+homeTeam: "아스톤 빌라"
+awayTeam: "브렌트퍼드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png"
+homeAnalysis: "아스톤 빌라는 2026시즌 전체 24경기에서 10승 4무 10패를 기록하며 기복 속에서도 연승 기세를 엿보고 있습니다. 최근 공식전에서는 세비야와 토트넘을 상대로 연속 3득점 이상을 기록하며 폭발적인 공격력을 과시하고 있습니다. 다만 시즌 전반에 걸쳐 패배한 경기마다 방어선이 다소 크게 흔들리는 기복을 노출한 바 있습니다. 이번 경기에서는 홈 이점을 바탕으로 공격진의 화력을 극대화하는 전술적 대응이 기대됩니다. 핵심 자원들의 부상 이탈이 뼈아프지만 최근 상승세를 타고 있는 전방 화력으로 이를 극복하고자 합니다."
+awayAnalysis: "브렌트퍼드는 2026시즌 전체 12경기에서 6승 5무 1패로 극히 안정적인 전력을 유지하고 있습니다. 최근 공식전 10경기 무패 행진을 달리며 첼시를 3-0으로 완파하는 등 공수 밸런스에서 최고조의 기량을 펼치고 있습니다. 원정길에서도 기복 없는 화력을 뽐내며 경기당 높은 득점 생산력을 꾸준히 증명하고 있습니다. 수비진에 일부 부상 공백이 존재하지만 탄탄한 조직력으로 상대의 공세를 효과적으로 차단하고 있습니다. 막강한 화력과 높은 경기 집중력을 바탕으로 이번 맞대결에서도 강력한 경기력을 선보일 것으로 보입니다."
+homePower: "최근 원정 연승으로 전방 공격진 화력 완전히 살아남|시즌 내 패배 경기 수비 불안 요소는 여전히 상존함|주요 전력 대거 이탈로 선수단 로테이션 부담 존재함|홈 이점 활용 시 경기 초반 주도권 확보 가능성 높음|맞대결 화력 대결에서 밀리지 않는 저력 검증됨"
+awayPower: "최근 공식전 10경기 무패로 압도적 상승세 유지함|빅클럽 상대로도 대승 거둘 만큼 공격 효율성 뛰어남|원정 경기에서도 침착하게 득점 만드는 기량 갖춤|수비진 부상 공백에도 안정적인 조직력 선보임|아스톤 빌라 상대 전적에서 팽팽한 흐름 이어가는 중임"
+h2h: '[{"date":"26.02.01","home":"아스톤 빌라","away":"브렌트퍼드","score":"0-1"},{"date":"25.09.17","home":"브렌트퍼드","away":"아스톤 빌라","score":"1-1"},{"date":"25.08.23","home":"브렌트퍼드","away":"아스톤 빌라","score":"1-0"},{"date":"25.03.09","home":"브렌트퍼드","away":"아스톤 빌라","score":"0-1"},{"date":"24.12.05","home":"아스톤 빌라","away":"브렌트퍼드","score":"3-1"}]'
+summary: "최근 3연승으로 공격력을 매섭게 끌어올린 아스톤 빌라와 10경기 무패 행진을 달리는 브렌트퍼드의 맞대결입니다. 양 팀 모두 강력한 득점력을 바탕으로 최근 상승세를 이어가고 있어 매우 치열한 화력전이 펼쳐질 것으로 기대됩니다. 상대 전적에서도 양 팀은 다수의 무승부를 기록하며 팽팽한 상성을 유지해온 바 있습니다. 막강한 공세와 공수 밸런스가 맞물려 어느 한 쪽으로 승패가 크게 기울지 않는 접전 끝에 승점을 나누어 가질 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.03","home":"세비야","away":"아스톤 빌라","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6369374-2026-10-03-sevilla/"},{"date":"26.09.19","home":"토트넘","away":"아스톤 빌라","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5795464-2026-09-19-tottenham-hotspur/"},{"date":"26.09.17","home":"코번트리 시티","away":"아스톤 빌라","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6099333-2026-09-17-coventry-city/"},{"date":"26.09.12","home":"아스톤 빌라","away":"노팅엄 포레스트","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5795446-2026-09-12-aston-villa/"},{"date":"26.09.09","home":"클리프 브뤼허","away":"아스톤 빌라","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6106295-2026-09-09-club-brugge/"}]'
+awayRecent: '[{"date":"26.09.19","home":"브렌트퍼드","away":"첼시","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5795456-2026-09-19-brentford/"},{"date":"26.09.16","home":"레딩","away":"브렌트퍼드","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6099340-2026-09-16-reading/"},{"date":"26.09.12","home":"본머스","away":"브렌트퍼드","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5795445-2026-09-12-afc-bournemouth/"},{"date":"26.09.05","home":"브렌트퍼드","away":"선덜랜드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5795436-2026-09-05-brentford/"},{"date":"26.08.30","home":"리즈 유나이티드","away":"브렌트퍼드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5795430-2026-08-30-leeds/"}]'
+injuryHome: "Modou Kéba Cissé (충돌 부상)|Marco Bizot (등 부상)|Ian Maatsen (발목 부상)|Pau Torres (햄스트링 부상)|Leon Goretzka (무릎 부상)|Brian Madjo (충돌 부상)|Amadou Onana (십자 인대 부상)"
+injuryAway: "Mikkel Damsgaard (발목 부상)|Dango Ouattara (병)|Nathan Collins (종아리 부상)|Mathias Jensen (부상)|Joshua Dasilva (충돌 부상)|Sepp van den Berg (사타구니 부상)|Antoni Milambo (십자 인대 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "2"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

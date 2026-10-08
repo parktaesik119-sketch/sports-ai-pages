@@ -1,0 +1,37 @@
+---
+title: "김천 상무 FC vs FC 안양 축구분석·승부예측 (10월 10일) - 픽천국"
+date: 2026-10-10T07:30:00.000Z
+description: "김천 상무 FC vs FC 안양 축구분석: 김천 상무 FC는 시즌 전체적으로 많은 무승부를 기록하며 안정적인 수비력을 보여주고 있으나, 득점력 부재로 인해 승리까지 도달… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5140046-2026-10-10-gimcheon-sangmu"
+category: "soccer"
+country: "대한민국"
+league: "K-League 1"
+homeTeam: "김천 상무 FC"
+awayTeam: "FC 안양"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133901.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/429440.png"
+homeAnalysis: "김천 상무 FC는 2026시즌 전체 19경기에서 3승 10무 6패를 기록하며 35.7%의 낮은 승률과 경기당 평균 0.9득점의 빈약한 공격력을 보이고 있습니다. 무승부 비율이 상당히 높을 정도로 패배를 줄이는 데는 일가견이 있으나, 결정적인 한 방이 부족해 승점 3점을 챙기는 데 큰 어려움을 겪는 시즌을 보내는 중입니다. 최근 10경기 흐름을 살펴봐도 1승 7무 2패로 극심한 무승부 반복 현상이 나타나고 있어, 경기를 주도하기보다는 실리적인 운영에 치중하는 모습입니다. 다만 직전 경기에서 승리를 거두며 오랜만에 분위기 반전에 성공했기에, 이번 홈 경기에서도 안정적인 수비를 바탕으로 점유율을 유지하려 노력할 것으로 예상됩니다. 전체적으로 수비 집중력은 나쁘지 않으나, 시즌 내내 이어진 저조한 득점력 해결이 승리를 위한 가장 큰 과제로 남아 있습니다."
+awayAnalysis: "FC 안양은 2026시즌 21경기에 나서 9승 5무 7패의 성적을 거두었으며, 경기당 평균 1.5득점이라는 준수한 공격 생산력을 통해 시즌 전체를 이끌어오고 있습니다. 다소 기복 있는 경기력을 보이고 있으나, 승리할 때의 폭발력과 득점 의지는 확실히 홈팀보다 우위에 있는 것으로 분석됩니다. 최근 10경기에서는 3승 2무 5패를 기록하며 승패가 반복되는 불안정한 흐름이 이어지고 있지만, 직전 경기에서 강호를 상대로 승리를 거두며 다시금 전력을 가다듬었습니다. 수비에서 가끔 대량 실점을 허용하는 등 기복을 보이기도 하지만, 상대 골문을 노리는 공격적 전술은 어떤 팀을 만나더라도 위협적으로 작용합니다. 원정 환경에서도 물러서지 않고 공격적인 축구를 구사할 것으로 보이며, 시즌 내내 증명해 온 득점력을 앞세워 적극적으로 승리를 노릴 것으로 판단됩니다."
+homePower: "많은 무승부로 패배를 억제하는 실리형 운영|평균 0.9득점에 그치는 빈약한 공격 효율성|최근 10경기 중 7번의 무승부로 승리 부족|직전 경기 승리로 반등의 계기 마련함|끈끈한 수비 조직력으로 실점 최소화함"
+awayPower: "평균 1.5득점으로 화력 자체는 우위에 있음|최근 경기 승패가 극명하게 갈리는 기복|공격 시 높은 득점 생산력과 자신감 보유|수비 집중력 저하 시 대량 실점의 변수|공격적인 전술 운용으로 매 경기 득점 노림"
+h2h: '[{"date":"26.05.13","home":"FC 안양","away":"김천 상무 FC","score":"2-2"},{"date":"26.04.12","home":"김천 상무 FC","away":"FC 안양","score":"1-1"},{"date":"25.10.18","home":"FC 안양","away":"김천 상무 FC","score":"4-1"},{"date":"25.06.22","home":"김천 상무 FC","away":"FC 안양","score":"1-0"},{"date":"25.03.08","home":"FC 안양","away":"김천 상무 FC","score":"1-3"}]'
+summary: "김천 상무 FC는 시즌 전체적으로 많은 무승부를 기록하며 안정적인 수비력을 보여주고 있으나, 득점력 부재로 인해 승리까지 도달하는 과정이 매우 힘겨운 상황입니다. 반면 FC 안양은 시즌 평균 1.5득점이라는 우월한 공격 지표를 앞세워 경기를 주도하는 경향이 강하며, 최근 기복 있는 흐름 속에서도 매서운 공격력을 유지하고 있습니다. 양 팀의 상대전적 또한 치열한 공방이 자주 연출된 만큼 이번 맞대결 역시 한 골 차 싸움 혹은 공방 끝의 균형이 예상됩니다. 전반적인 공격 생산성과 득점력을 비교했을 때 FC 안양이 조금 더 우위를 점할 가능성이 높으며, 홈팀 김천 상무 FC의 수비망을 공략하며 경기를 운영해 나갈 것으로 판단됩니다."
+homeRecent: '[{"date":"26.09.19","home":"부천 FC","away":"김천 상무 FC","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5140036-2026-09-19-bucheon-fc-1995/"},{"date":"26.09.13","home":"김천 상무 FC","away":"강원 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140034-2026-09-13-gimcheon-sangmu/"},{"date":"26.09.09","home":"포항 스틸러스","away":"김천 상무 FC","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140029-2026-09-09-pohang-steelers/"},{"date":"26.09.06","home":"김천 상무 FC","away":"광주 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140023-2026-09-06-gimcheon-sangmu/"},{"date":"26.08.29","home":"울산 HD FC","away":"김천 상무 FC","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5140013-2026-08-29-ulsan-hd-fc/"}]'
+awayRecent: '[{"date":"26.09.19","home":"FC 안양","away":"울산 HD FC","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5140037-2026-09-19-fc-anyang/"},{"date":"26.09.13","home":"광주 FC","away":"FC 안양","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140035-2026-09-13-gwangju-fc/"},{"date":"26.09.09","home":"대전 시티즌","away":"FC 안양","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5140026-2026-09-09-daejeon-hana-citizen/"},{"date":"26.09.06","home":"FC 안양","away":"강원 FC","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5140022-2026-09-06-fc-anyang/"},{"date":"26.08.29","home":"부천 FC","away":"FC 안양","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140012-2026-08-29-bucheon-fc-1995/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

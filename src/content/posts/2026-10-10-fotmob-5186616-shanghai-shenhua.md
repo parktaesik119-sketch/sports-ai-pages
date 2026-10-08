@@ -1,0 +1,37 @@
+---
+title: "상하이 선화 vs 윈난 유쿤 축구분석·승부예측 (10월 10일) - 픽천국"
+date: 2026-10-10T11:35:00.000Z
+description: "상하이 선화 vs 윈난 유쿤 축구분석: 상하이 선화와 윈난 유쿤은 이번 시즌 각각 1.8점과 2.0점의 평균 득점을 기록하며 공격적인 면에서 큰 강점을 보이고 있습니… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186616-2026-10-10-shanghai-shenhua"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "상하이 선화"
+awayTeam: "윈난 유쿤"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6628.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1477056.png"
+homeAnalysis: "상하이 선화는 2026시즌 전체 24경기에서 10승 4무 10패의 성적을 기록하며 5할 승률을 유지하고 있고 경기당 평균 1.8득점의 준수한 공격력을 선보이고 있습니다. 최근 10경기 흐름을 살펴보면 5승 1무 4패로 승리와 패배가 반복되는 기복을 보이고 있으나, 공격 전개 능력만큼은 여전히 위협적입니다. 특히 홈에서는 다득점 경기를 만들어내는 능력이 탁월하며, 탄탄한 조직력을 바탕으로 경기를 주도하려는 모습이 돋보입니다. 수비 측면에서 다소 실점이 발생하는 불안 요소가 있으나, 이를 공격진의 화력으로 상쇄하며 승점을 쌓아가는 방식이 주효하고 있습니다. 최근 치러진 일련의 경기들에서 보여준 득점 집중력은 이번 경기에서도 팀의 핵심적인 강점으로 작용할 것으로 보입니다."
+awayAnalysis: "윈난 유쿤은 2026시즌 전체 22경기에서 10승 6무 6패를 거두며 약 45%의 승률을 기록 중이며, 경기당 평균 2.0득점이라는 매우 공격적인 팀 컬러를 완성했습니다. 최근 10경기 성적은 5승 3무 2패로 패배를 최소화하며 상승세를 유지하고 있고, 특히 다득점 상황을 빈번하게 연출하는 등 화력 면에서 자신감이 넘치는 상태입니다. 원정 경기에서도 득점 생산력은 여전히 활발하지만, 수비 라인이 때때로 집중력을 잃으며 다실점을 허용하는 점이 경기 운영의 변수가 되고 있습니다. 승점 관리 면에서 꾸준함을 보이고 있어 상대팀 입장에서는 경계해야 할 까다로운 공격력을 갖춘 팀입니다. 전반적인 팀 전력이 안정권에 접어들었다는 점이 가장 주목할 만한 대목입니다."
+homePower: "홈에서 발휘되는 다득점 패턴의 공격 전환 효율이 매우 뛰어남|중원 장악력을 바탕으로 경기 주도권을 쥐는 운영 능력이 안정적임|최근 수비 집중력 기복은 있으나 승부처에서 터지는 화력으로 극복함|시즌 내내 일정 수준 이상의 득점력을 유지하는 일관된 공격 전술|상대 압박에 흔들리기보다 정교한 패스 워크로 공간을 창출하는 모습"
+awayPower: "경기당 2골에 달하는 화력으로 어떤 팀을 상대로도 득점 생산함|공격적인 전술 구성으로 인해 수비 뒷공간이 노출되는 취약점 상존|다양한 루트의 득점 경로를 확보하여 상대 수비 대응을 어렵게 함|득점이 필요한 순간 결정력을 발휘하는 베테랑들의 활약이 뒷받침됨|원정에서도 물러서지 않고 맞불을 놓는 적극적인 경기 운영 방침"
+h2h: '[{"date":"26.05.16","home":"윈난 유쿤","away":"상하이 선화","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1523154-2026-05-16-yunnan-yukun/"},{"date":"25.08.02","home":"윈난 유쿤","away":"상하이 선화","score":"4-4"},{"date":"25.04.02","home":"상하이 선화","away":"윈난 유쿤","score":"3-1"},{"date":"23.06.23","home":"윈난 유쿤","away":"상하이 선화","score":"1-2"}]'
+summary: "상하이 선화와 윈난 유쿤은 이번 시즌 각각 1.8점과 2.0점의 평균 득점을 기록하며 공격적인 면에서 큰 강점을 보이고 있습니다. 상하이 선화는 홈에서의 안정적인 운영과 득점 생산력이 돋보이는 반면, 윈난 유쿤은 다득점을 만들어내는 화력이 매우 강력하여 양 팀 모두 득점 확률이 높은 경기가 될 것으로 예상됩니다. 전력상 상하이 선화가 홈 이점과 조직력의 우위를 점하고 있어 윈난 유쿤의 거센 반격을 따돌리고 승기를 가져올 가능성이 높습니다. 양 팀의 최근 득점력 흐름을 고려할 때 공방전 끝에 상하이 선화가 우위를 점할 것으로 평가됩니다."
+homeRecent: '[{"date":"26.09.27","home":"상하이 선화","away":"Zenit St. Petersburg","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6000975-2026-09-27-shanghai-shenhua/"},{"date":"26.09.17","home":"상하이 선화","away":"Tampines Rovers FC","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6054833-2026-09-17-shanghai-shenhua/"},{"date":"26.09.06","home":"충칭 통량룽","away":"상하이 선화","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186609-2026-09-06-chongqing-tongliang-long/"},{"date":"26.09.01","home":"다롄 잉보 FC","away":"상하이 선화","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5961058-2026-09-01-dalian-yingbo/"},{"date":"26.08.28","home":"상하이 선화","away":"산둥 타이산","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186602-2026-08-28-shanghai-shenhua/"}]'
+awayRecent: '[{"date":"26.09.06","home":"윈난 유쿤","away":"랴오닝 선양","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186611-2026-09-06-yunnan-yukun/"},{"date":"26.09.02","home":"윈난 유쿤","away":"충칭 통량룽","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5961060-2026-09-02-yunnan-yukun/"},{"date":"26.08.29","home":"저장 뤼청","away":"윈난 유쿤","score":"6-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186600-2026-08-29-zhejiang-professional/"},{"date":"26.08.22","home":"베이징 궈안","away":"윈난 유쿤","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186592-2026-08-22-beijing-guoan/"},{"date":"26.08.15","home":"윈난 유쿤","away":"다롄 잉보 FC","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186588-2026-08-15-yunnan-yukun/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "상하이 선화"
+pickWinResult: "승"
+pickHandicapTeam: "상하이 선화"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

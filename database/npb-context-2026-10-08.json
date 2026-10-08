@@ -1,0 +1,24 @@
+[
+  {
+    "home": "Hanshin Tigers",
+    "away": "Yakult Swallows",
+    "date": "2026-10-08T09:00:00.000Z",
+    "league": "NPB",
+    "venue": "甲子園",
+    "gameTime": "18:00",
+    "starters": {
+      "home": {
+        "name": "Easton Lucas",
+        "nameJa": "Ｅ．ルーカス",
+        "playerId": "73975152",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/t/042_73975152.jpg"
+      },
+      "away": {
+        "name": "Yuto Nakamura",
+        "nameJa": "中村　優斗",
+        "playerId": "91695150",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/s/015_91695150.jpg"
+      }
+    }
+  }
+]

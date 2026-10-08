@@ -1,0 +1,37 @@
+---
+title: "GO 어헤드 이글스 vs 스파르타 로테르담 축구분석·승부예측 (10월 10일) - 픽천국"
+date: 2026-10-10T14:30:00.000Z
+description: "GO 어헤드 이글스 vs 스파르타 로테르담 축구분석: GO 어헤드 이글스는 2026시즌 동안 공수에서 균형 잡힌 활약을 펼치며 꾸준한 득점력을 바탕으로 안방에서의 경쟁력을 입증하고… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781765-2026-10-10-go-ahead-eagles"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "GO 어헤드 이글스"
+awayTeam: "스파르타 로테르담"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6433.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8614.png"
+homeAnalysis: "GO 어헤드 이글스는 2026시즌 총 17경기에서 6승 5무 6패를 기록하며 50%에 가까운 승률과 평균 1.9득점의 준수한 공격력을 선보이고 있습니다. 최근 10경기 흐름을 살펴보면 4승 4무 2패를 기록하며 패배를 최소화하는 안정적인 경기 운영이 돋보입니다. 특히 홈에서의 강력한 득점 집중력을 바탕으로 다득점 경기를 자주 연출하며 상대 수비를 압박하는 모습이 인상적입니다. 최근 5경기 내내 득점포를 가동하며 공격진의 컨디션이 매우 올라와 있다는 점이 큰 강점입니다. 수비 면에서 다소 실점을 허용하는 경향이 있으나, 화력으로 이를 충분히 상쇄하며 승점을 챙기는 효율적인 전술을 구사하고 있습니다."
+awayAnalysis: "스파르타 로테르담은 2026시즌 16경기에 나서 3승 5무 8패의 성적과 평균 1.5득점을 기록하며 시즌 전체적으로 기복 있는 행보를 보이고 있습니다. 최근 10경기 흐름은 1승 4무 5패로 승리보다는 무승부와 패배가 반복되는 다소 답답한 양상을 띠고 있습니다. 특히 원정 경기와 강팀을 상대로 수비 조직력이 흔들리며 대량 실점을 허용하는 빈도가 잦아진 점이 가장 큰 고민거리입니다. 득점력은 유지하고 있으나 뒷문 불안이 발목을 잡으며 승리로 연결하지 못하는 경기가 많습니다. 이번 경기를 통해 수비 안정을 되찾고 흐름을 반전시키기 위한 집중력이 절실히 요구되는 상황입니다."
+homePower: "최근 10경기 4승으로 패배를 억제하는 유연한 전술|평균 2.0득점의 고효율 공격진 활약|안방에서 발휘되는 높은 득점 집중력과 기세|공수 전환 속도를 활용한 빠른 측면 돌파|상대 수비 뒷공간을 노리는 공격 전개 효과적"
+awayPower: "최근 10경기 1승으로 승리 경험 부족한 흐름|잦은 실점 허용으로 인한 수비 라인 불안정|상대 강한 압박에 고전하는 경기 운영 패턴|득점력은 준수하나 실점이 승리를 저해함|원정 경기에서의 수비 집중력 회복이 관건"
+h2h: '[{"date":"26.05.03","home":"스파르타 로테르담","away":"GO 어헤드 이글스","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1381152-2026-05-03-sparta-rotterdam/"},{"date":"25.08.23","home":"GO 어헤드 이글스","away":"스파르타 로테르담","score":"0-3"},{"date":"25.02.15","home":"GO 어헤드 이글스","away":"스파르타 로테르담","score":"1-0"},{"date":"24.12.19","home":"스파르타 로테르담","away":"GO 어헤드 이글스","score":"1-1"},{"date":"24.09.15","home":"스파르타 로테르담","away":"GO 어헤드 이글스","score":"1-2"}]'
+summary: "GO 어헤드 이글스는 2026시즌 동안 공수에서 균형 잡힌 활약을 펼치며 꾸준한 득점력을 바탕으로 안방에서의 경쟁력을 입증하고 있습니다. 반면 스파르타 로테르담은 최근 경기들에서 수비 집중력 저하로 인해 승수 쌓기에 어려움을 겪고 있으며, 특히 원정길에서 불안한 모습을 자주 노출하고 있습니다. 전력과 최근의 흐름을 비교해 볼 때 공격적인 주도권을 쥘 가능성이 높은 GO 어헤드 이글스가 홈팬들 앞에서 경기를 유리하게 이끌어갈 것으로 보입니다. 양 팀의 최근 맞대결 기록에서도 팽팽한 양상이 있었으나, 현재의 공격 생산성과 수비 안정감을 종합적으로 고려하면 GO 어헤드 이글스가 이번 경기에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.20","home":"NEC 네이메헌","away":"GO 어헤드 이글스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5781751-2026-09-20-nec-nijmegen/"},{"date":"26.09.13","home":"GO 어헤드 이글스","away":"흐로닝언","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5781748-2026-09-13-go-ahead-eagles/"},{"date":"26.09.08","home":"위트레흐트","away":"GO 어헤드 이글스","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5781733-2026-09-08-fc-utrecht/"},{"date":"26.09.06","home":"위트레흐트","away":"GO 어헤드 이글스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5781733-2026-09-06-fc-utrecht/"},{"date":"26.08.30","home":"AZ 알크마르","away":"GO 어헤드 이글스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5781724-2026-08-30-az-alkmaar/"}]'
+awayRecent: '[{"date":"26.09.20","home":"스파르타 로테르담","away":"헤이렌베인","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5781756-2026-09-20-sparta-rotterdam/"},{"date":"26.09.14","home":"PSV 에인트호번","away":"스파르타 로테르담","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5781743-2026-09-14-psv-eindhoven/"},{"date":"26.09.05","home":"스파르타 로테르담","away":"PEC 즈볼러","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5781738-2026-09-05-sparta-rotterdam/"},{"date":"26.08.29","home":"엑셀시오르","away":"스파르타 로테르담","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5781723-2026-08-29-excelsior/"},{"date":"26.08.23","home":"스파르타 로테르담","away":"위트레흐트","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5781715-2026-08-23-sparta-rotterdam/"}]'
+injuryHome: "Pim Saathof (무릎 부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "GO 어헤드 이글스"
+pickWinResult: "승"
+pickHandicapTeam: "GO 어헤드 이글스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "PSV 에인트호번 vs 헤이렌베인 축구분석·승부예측 (10월 10일) - 픽천국"
+date: 2026-10-09T18:00:00.000Z
+description: "PSV 에인트호번 vs 헤이렌베인 축구분석: PSV 에인트호번은 리그순위 3위가 증명하듯 2026시즌 내내 공격적인 축구를 구사하며 상대보다 확실히 앞선 전력을 보여주고 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5781762-2026-10-10-psv-eindhoven"
+category: "soccer"
+country: "네덜란드"
+league: "에레디비지"
+homeTeam: "PSV 에인트호번"
+awayTeam: "헤이렌베인"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8640.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10228.png"
+homeAnalysis: "PSV 에인트호번은 2026시즌 전체 16경기에서 11승 2무 3패를 기록하며 리그 상위권의 강력한 전력을 과시하고 있습니다. 현재 리그순위 3위에 올라 있는 팀은 매 경기 평균 3.4득점이라는 압도적인 공격력을 선보이며 상대 수비진을 끊임없이 위협합니다. 최근 10경기에서도 6승을 거두는 준수한 흐름을 이어가고 있으며, 직전 경기에서의 패배를 딛고 다시 한번 홈 이점을 살려 승점 확보에 집중할 것으로 보입니다. 홈에서의 공격적인 운영은 상대에게 큰 부담을 안겨주며, 다득점 패턴을 통해 경기를 주도하는 능력이 매우 탁월합니다. 탄탄한 조직력을 바탕으로 시즌 내내 안정적인 페이스를 유지하고 있어 이번 경기에서도 공세적인 흐름이 이어질 것으로 전망됩니다."
+awayAnalysis: "헤이렌베인은 2026시즌 전체 15경기에서 4승 6무 5패를 기록하며 중위권에서의 치열한 순위 경쟁을 이어가고 있습니다. 현재 리그순위 10위에 위치한 팀은 최근 경기 흐름에서 3승 4무 3패를 기록하며 승점 쌓기에 다소 어려움을 겪고 있지만, 무승부 비율이 높아 쉽게 무너지지 않는 끈질긴 면모도 보여줍니다. 평균 1.7득점의 공격력은 폭발적이진 않으나 매 경기 꾸준히 득점 기회를 창출하며 전력을 유지하고 있습니다. 특히 원정 경기에서도 수비 집중력을 유지하려는 노력이 돋보이며, 승리를 위한 확실한 한 방을 찾기 위해 분전하고 있습니다. 전력 차이가 존재하는 상대와의 맞대결이지만 최근 흐름을 바탕으로 최대한 실점을 억제하며 기회를 노리는 전략이 예상됩니다."
+homePower: "매 경기 3점대 이상의 높은 득점 생산력 유지|홈 경기에서 상대를 압박하는 강력한 공격 전술|최근 10경기 6승 달성 등 전력의 일관성 확인됨|다득점 승리 패턴이 정착되어 공격 옵션 다변화됨|리그 상위권다운 경기 운영 능력이 검증됨"
+awayPower: "무승부 비율이 높아 쉽게 패하지 않는 집중력|최근 흐름 속 안정적인 득점 지원 능력 확보|수비 조직력을 강화하여 실점 억제력 높임|승점 확보를 위한 원정에서의 효율적인 경기 운영|상대 강점인 공격을 대비한 수비 밸런스 유지"
+h2h: '[{"date":"26.02.22","home":"PSV 에인트호번","away":"헤이렌베인","score":"3-1"},{"date":"26.02.05","home":"PSV 에인트호번","away":"헤이렌베인","score":"4-1"},{"date":"25.12.07","home":"헤이렌베인","away":"PSV 에인트호번","score":"0-2"},{"date":"25.03.09","home":"PSV 에인트호번","away":"헤이렌베인","score":"2-1"},{"date":"24.12.15","home":"헤이렌베인","away":"PSV 에인트호번","score":"1-0"}]'
+summary: "PSV 에인트호번은 리그순위 3위가 증명하듯 2026시즌 내내 공격적인 축구를 구사하며 상대보다 확실히 앞선 전력을 보여주고 있습니다. 헤이렌베인 역시 끈끈한 조직력을 바탕으로 분전하고 있으나, 상대전적에서 보여준 PSV 에인트호번의 절대적인 우위와 높은 득점력을 감안하면 홈팀이 경기를 지배할 가능성이 높습니다. 다득점 흐름을 만드는 PSV 에인트호번의 공격력은 이번에도 유감없이 발휘될 것으로 보이며, 탄탄한 홈 성적을 바탕으로 안정적으로 승리를 챙길 것으로 예상됩니다."
+homeRecent: '[{"date":"26.09.20","home":"트벤터","away":"PSV 에인트호번","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5781753-2026-09-20-fc-twente/"},{"date":"26.09.14","home":"PSV 에인트호번","away":"스파르타 로테르담","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5781743-2026-09-14-psv-eindhoven/"},{"date":"26.09.11","home":"PSV 에인트호번","away":"Shakhtar Donetsk","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6106304-2026-09-11-psv-eindhoven/"},{"date":"26.09.06","home":"아약스","away":"PSV 에인트호번","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5781735-2026-09-06-ajax/"},{"date":"26.08.30","home":"위트레흐트","away":"PSV 에인트호번","score":"1-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5781726-2026-08-30-fc-utrecht/"}]'
+awayRecent: '[{"date":"26.09.20","home":"스파르타 로테르담","away":"헤이렌베인","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5781756-2026-09-20-sparta-rotterdam/"},{"date":"26.09.13","home":"헤이렌베인","away":"텔스타","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5781744-2026-09-13-sc-heerenveen/"},{"date":"26.09.06","home":"헤이렌베인","away":"AZ 알크마르","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5781736-2026-09-06-sc-heerenveen/"},{"date":"26.08.30","home":"빌럼 II","away":"헤이렌베인","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5781728-2026-08-30-willem-ii/"},{"date":"26.08.23","home":"헤이렌베인","away":"PEC 즈볼러","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5781719-2026-08-23-sc-heerenveen/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "PSV 에인트호번"
+pickWinResult: "승"
+pickHandicapTeam: "PSV 에인트호번"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "3"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

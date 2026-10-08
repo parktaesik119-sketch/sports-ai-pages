@@ -1,0 +1,37 @@
+---
+title: "파주 시티즌 vs 부산 아이파크 축구분석·승부예측 (10월 10일) - 픽천국"
+date: 2026-10-10T05:00:00.000Z
+description: "파주 시티즌 vs 부산 아이파크 축구분석: 양 팀 모두 2026시즌 동안 득점 생산에 있어 고전하고 있는 만큼 치열한 중원 싸움이 예상됩니다. 파주 시티즌은 최근 안정적… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155924-2026-10-10-paju-frontier"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "파주 시티즌"
+awayTeam: "부산 아이파크"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/739803.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6092.png"
+homeAnalysis: "파주 시티즌은 2026시즌 전체 19경기에서 7승 6무 6패를 기록하며 승률 36.8%를 보이고 있습니다. 시즌 평균 득점은 0.8점으로 다소 저조한 공격력을 보여주지만, 최근 김해 FC 2008을 상대로 2대0 승리를 거두며 반등의 발판을 마련했습니다. 전반적으로 무승부 비율이 높아 경기를 팽팽하게 끌고 가는 능력이 있으나, 확실한 득점 기회를 살리는 결정력에는 기복이 존재합니다. 홈 경기에서는 안정적인 수비 밸런스를 바탕으로 실점을 최소화하는 운영을 주로 펼치고 있습니다. 이번 경기에서도 신중한 경기 운영을 통해 흐름을 가져오려는 시도가 예상됩니다."
+awayAnalysis: "부산 아이파크는 2026시즌 전체 22경기에서 4승 6무 12패를 거두며 승률 18.2%라는 쉽지 않은 시즌을 보내고 있습니다. 시즌 평균 득점은 0.9점으로 파주 시티즌과 유사한 득점력을 보이며 공격 전개에서 어려움을 겪는 모습입니다. 최근 10경기 흐름은 2승 3무 5패로 성적이 다소 정체되어 있으나, 김해 FC 2008을 상대로 무실점 승리를 거둔 점은 고무적인 부분입니다. 원정 경기에서는 다소 기복 있는 수비를 보여주며 매 경기 집중력을 유지하는 것이 과제로 떠오르고 있습니다. 이번 맞대결에서는 그간의 경험을 살려 공수 전환의 효율을 극대화하려는 노력이 필요해 보입니다."
+homePower: "경기당 평균 1골을 넘기지 못하는 낮은 득점력에 의존한 운영|무승부 비율이 높아 경기 주도권 확보에 어려움을 겪음|최근 10경기에서 3패만 허용한 준수한 패배 억제력|홈 경기 시 수비 집중력을 앞세워 실점 최소화에 주력함|직전 경기 승리로 일시적인 상승세를 기대할 수 있음"
+awayPower: "시즌 전체 득점력 부족으로 인해 승리까지 연결하는 힘이 부족함|상대적으로 높은 패배율을 극복할 수비 보강이 시급함|최근 흐름상 공격 지표가 다소 정체된 양상을 보임|상대전적 우위를 바탕으로 심리적 자신감을 얻을 수 있음|원정에서 무승부 경기를 다수 연출하며 끈질긴 면모를 보임"
+h2h: '[{"date":"26.05.30","home":"부산 아이파크","away":"파주 시티즌","score":"4-1","link":"https://pick79.com/posts/detail/analyze-1510348-2026-05-30-busan-i-park/"}]'
+summary: "양 팀 모두 2026시즌 동안 득점 생산에 있어 고전하고 있는 만큼 치열한 중원 싸움이 예상됩니다. 파주 시티즌은 최근 안정적인 흐름을 유지하며 홈 경기에서 강점을 보이고 있으나, 부산 아이파크는 지난 맞대결에서 파주 시티즌을 상대로 4골을 몰아치며 확실한 상성을 보여준 기억이 있습니다. 전체적인 시즌 성적은 파주 시티즌이 다소 우위에 있으나, 과거 상대전적에서 나타난 원정팀의 화력이 이번 경기에도 이어질 가능성이 충분해 보입니다. 결과적으로 수비 집중력과 상대의 뒷공간을 공략하는 부산 아이파크가 이번 경기에서 우위를 점할 것으로 보입니다."
+homeRecent: '[{"date":"26.09.20","home":"김해 시티","away":"파주 시티즌","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155918-2026-09-20-gimhae-fc-2008/"},{"date":"26.09.04","home":"파주 시티즌","away":"대구 FC","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155897-2026-09-04-paju-frontier/"},{"date":"26.08.29","home":"경남 FC","away":"파주 시티즌","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155891-2026-08-29-gyeongnam-fc/"},{"date":"26.08.23","home":"서울 이랜드 FC","away":"파주 시티즌","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155887-2026-08-23-seoul-e-land-fc/"},{"date":"26.08.16","home":"파주 시티즌","away":"성남 FC","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155878-2026-08-16-paju-frontier/"}]'
+awayRecent: '[{"date":"26.09.19","home":"김포 시티즌","away":"부산 아이파크","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155914-2026-09-19-gimpo-fc/"},{"date":"26.09.13","home":"부산 아이파크","away":"김해 시티","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155910-2026-09-13-busan-ipark/"},{"date":"26.09.05","home":"부산 아이파크","away":"안산 그리너스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155898-2026-09-05-busan-ipark/"},{"date":"26.08.30","home":"수원 FC","away":"부산 아이파크","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155895-2026-08-30-suwon-fc/"},{"date":"26.08.22","home":"대구 FC","away":"부산 아이파크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155882-2026-08-22-daegu-fc/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "부산 아이파크"
+pickWinResult: "승"
+pickHandicapTeam: "부산 아이파크"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

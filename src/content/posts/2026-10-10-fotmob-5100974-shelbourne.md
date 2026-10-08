@@ -1,0 +1,37 @@
+---
+title: "셸번 vs 슬라이고 로버스 축구분석·승부예측 (10월 10일) - 픽천국"
+date: 2026-10-09T18:45:00.000Z
+description: "셸번 vs 슬라이고 로버스 축구분석: 셸번은 슬라이고 로버스를 상대로 최근 맞대결에서 꾸준히 우위를 점해왔으며, 전반적인 시즌 데이터에서도 상대보다 높은 득점 생산… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100974-2026-10-10-shelbourne"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "셸번"
+awayTeam: "슬라이고 로버스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/5751.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6361.png"
+homeAnalysis: "셸번은 2026시즌 동안 27경기를 치러 7승 12무 8패를 기록하며 평균 1.4득점의 공격력을 보여주고 있습니다. 시즌 중반까지 안정적인 운영을 바탕으로 득점 생산에 집중했으나, 최근 10경기에서는 1승 4무 5패로 다소 흐름이 둔화된 모습을 보입니다. 다만 최근 던독과의 경기에서 3골을 몰아치며 공격적인 실마리를 찾았고, 홈에서의 조직력은 여전히 상대에게 부담을 줄 수 있는 요소입니다. 전반적으로 무승부 비율이 높은 것은 수비 안정성을 우선시한다는 방증이기도 하며, 이번 경기에서도 그 기조를 유지할 것으로 보입니다. 공수 간격 유지와 함께 홈 팬들의 응원을 등에 업고 분위기 반전을 노리는 것이 핵심입니다."
+awayAnalysis: "슬라이고 로버스는 2026시즌 총 24경기에서 3승 7무 14패를 거두며 평균 1.0득점의 공격 효율을 기록 중입니다. 시즌 전체적으로 수비 불안이 발목을 잡으며 승점 확보에 어려움을 겪고 있고, 특히 최근 10경기에서는 1승 3무 6패로 극심한 부진을 면치 못하고 있습니다. 득점력 또한 경기당 1골 미만으로 떨어지며 화력 부족을 드러내고 있어 원정길이 더욱 험난할 것으로 예상됩니다. 수비 집중력 회복이 급선무이나, 최근 원정 경기들에서 대량 실점이 반복되고 있다는 점이 불안 요소입니다. 전체적인 전력 구성상 열세에 놓여 있어 세밀한 전술적 보완이 뒷받침되지 않으면 경기를 풀어가기 쉽지 않습니다."
+homePower: "홈경기 운영 시 중원 장악을 통한 점유율 확보 강점|무승부가 잦은 흐름은 수비 집중력이 꽤 높음을 시사함|최근 득점력 기복은 있으나 던독전 화력으로 해결책 확인|상대 수비가 흔들릴 때 파고드는 2선 침투 능력이 뛰어남|홈 성적을 토대로 한 안정적인 경기 주도권 유지가 가능함"
+awayPower: "최근 원정 경기에서 반복되는 수비 조직력 붕괴 현상|경기당 1골을 밑도는 득점력은 승리를 노리기엔 부족함|주축 선수 결장으로 인한 로테이션 운용의 어려움 노출|압박을 견뎌내는 힘이 부족해 전반 실점이 많은 편임|상대전적에서 드러난 셸번 상대의 고전 흐름이 부담됨"
+h2h: '[{"date":"26.06.28","home":"슬라이고 로버스","away":"셸번","score":"2-2","link":"https://pick79.com/posts/detail/analyze-1492725-2026-06-28-sligo-rovers/"},{"date":"26.05.09","home":"셸번","away":"슬라이고 로버스","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1492694-2026-05-09-shelbourne/"},{"date":"26.03.22","home":"슬라이고 로버스","away":"셸번","score":"0-1"},{"date":"25.10.18","home":"셸번","away":"슬라이고 로버스","score":"3-1"},{"date":"25.08.03","home":"슬라이고 로버스","away":"셸번","score":"0-2"}]'
+summary: "셸번은 슬라이고 로버스를 상대로 최근 맞대결에서 꾸준히 우위를 점해왔으며, 전반적인 시즌 데이터에서도 상대보다 높은 득점 생산력과 안정적인 경기 운영 능력을 보여주고 있습니다. 슬라이고 로버스는 최근 이어지는 원정 부진과 수비 조직력 저하로 인해 경기력을 회복하는 데 큰 어려움을 겪고 있습니다. 셸번은 홈에서 상대의 수비 허점을 공략하는 침투 능력이 돋보이는 만큼, 원정팀의 불안한 수비망을 효과적으로 돌파하며 우위를 점할 가능성이 높습니다. 전력 구성과 최근의 흐름을 고려할 때 셸번이 경기의 주도권을 잡고 안정적으로 운영해 나갈 것으로 판단됩니다."
+homeRecent: '[{"date":"26.09.26","home":"골웨이 유나이티드","away":"셸번","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100843-2026-09-26-galway-united-fc/"},{"date":"26.09.19","home":"던돌크","away":"셸번","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100969-2026-09-19-dundalk/"},{"date":"26.09.15","home":"셸번","away":"드로에다 유나이티드","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100958-2026-09-15-shelbourne/"},{"date":"26.09.12","home":"셸번","away":"데리 시티","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100964-2026-09-12-shelbourne/"},{"date":"26.09.05","home":"섐록 로버스","away":"셸번","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100950-2026-09-05-shamrock-rovers/"}]'
+awayRecent: '[{"date":"26.09.20","home":"슬라이고 로버스","away":"세인트 패트릭스 애슬레틱","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100971-2026-09-20-sligo-rovers/"},{"date":"26.09.15","home":"슬라이고 로버스","away":"골웨이 유나이티드","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100961-2026-09-15-sligo-rovers/"},{"date":"26.09.12","home":"드로에다 유나이티드","away":"슬라이고 로버스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100962-2026-09-12-drogheda-united/"},{"date":"26.09.05","home":"워터퍼드","away":"슬라이고 로버스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6046147-2026-09-05-waterford-fc/"},{"date":"26.08.29","home":"보헤미안스","away":"슬라이고 로버스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100952-2026-08-29-bohemian-fc/"}]'
+injuryHome: "Daniel Kelly (부상)"
+injuryAway: "Trey George (근육 부상)|Daire Patton (병)|Jad Hakiki (근육 경련)|Conor Reynolds (엉덩이 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "셸번"
+pickWinResult: "승"
+pickHandicapTeam: "셸번"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---
