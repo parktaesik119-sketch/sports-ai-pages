@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.07","home":"롯데 자이언츠","away":"KIA 타이
 awayRecent: '[{"date":"26.10.07","home":"LG 트윈스","away":"두산 베어스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007OBLG02026-2026-10-07-lg-twins/"},{"date":"26.10.06","home":"LG 트윈스","away":"NC 다이노스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006NCLG02026-2026-10-06-lg-twins/"},{"date":"26.10.05","home":"LG 트윈스","away":"KIA 타이거즈","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005HTLG02026-2026-10-05-lg-twins/"},{"date":"26.10.04","home":"LG 트윈스","away":"KIA 타이거즈","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004HTLG02026-2026-10-04-lg-twins/"},{"date":"26.10.03","home":"LG 트윈스","away":"KIA 타이거즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003HTLG02026-2026-10-03-lg-twins/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: "[\"1번 레이예스 (지명타자)\",\"2번 나승엽 (1루수)\",\"3번 고승민 (2루수)\",\"4번 한동희 (3루수)\",\"5번 전민재 (유격수)\",\"6번 손성빈 (포수)\",\"7번 조세진 (좌익수)\",\"8번 윤동희 (우익수)\",\"9번 황성빈 (중견수)\"]"
-awayLineup: "[\"1번 박해민 (중견수)\",\"2번 송찬의 (좌익수)\",\"3번 오스틴 (1루수)\",\"4번 문정빈 (지명타자)\",\"5번 문보경 (3루수)\",\"6번 이재원 (우익수)\",\"7번 구본혁 (유격수)\",\"8번 박동원 (포수)\",\"9번 이영빈 (2루수)\"]"
+homeLineup: "[\"선발투수 나균안 (ERA 4.29)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67539.jpg\",\"1번 레이예스 (지명타자)\",\"2번 나승엽 (1루수)\",\"3번 고승민 (2루수)\",\"4번 한동희 (3루수)\",\"5번 전민재 (유격수)\",\"6번 손성빈 (포수)\",\"7번 조세진 (좌익수)\",\"8번 윤동희 (우익수)\",\"9번 황성빈 (중견수)\"]"
+awayLineup: "[\"선발투수 톨허스트 (ERA 4.32)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55130.jpg\",\"1번 박해민 (중견수)\",\"2번 송찬의 (좌익수)\",\"3번 오스틴 (1루수)\",\"4번 문정빈 (지명타자)\",\"5번 문보경 (3루수)\",\"6번 이재원 (우익수)\",\"7번 구본혁 (유격수)\",\"8번 박동원 (포수)\",\"9번 이영빈 (2루수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
