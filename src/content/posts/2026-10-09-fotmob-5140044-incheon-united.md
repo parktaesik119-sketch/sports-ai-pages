@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.27","home":"강원 FC","away":"인천 유나이티�
 awayRecent: '[{"date":"26.09.20","home":"포항 스틸러스","away":"FC 서울","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5140041-2026-09-20-pohang-steelers/"},{"date":"26.09.15","home":"베이징 궈안","away":"포항 스틸러스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6049980-2026-09-15-beijing-guoan/"},{"date":"26.09.12","home":"대전 시티즌","away":"포항 스틸러스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140033-2026-09-12-daejeon-hana-citizen/"},{"date":"26.09.09","home":"포항 스틸러스","away":"김천 상무 FC","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5140029-2026-09-09-pohang-steelers/"},{"date":"26.09.05","home":"전북 현대","away":"포항 스틸러스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5140020-2026-09-05-jeonbuk-hyundai-motors-fc/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Dong-Heon Kim (GK)|https://images.fotmob.com/image_resources/playerimages/1035983.png\",\"Myung-Soon Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1287638.png\",\"Gun-Hee Kim (DF)|https://images.fotmob.com/image_resources/playerimages/1440167.png\",\"Juan Ibiza (DF)|https://images.fotmob.com/image_resources/playerimages/675084.png\",\"Ju-Yong Lee (DF)|https://images.fotmob.com/image_resources/playerimages/523746.png\",\"Seong-Min Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1337152.png\",\"Myeong-Ju Lee (MF)|https://images.fotmob.com/image_resources/playerimages/308676.png\",\"Min-Hyuk Lee (MF)|https://images.fotmob.com/image_resources/playerimages/1440076.png\",\"Leandro (FW)|https://images.fotmob.com/image_resources/playerimages/545309.png\",\"Chung-Yong Lee (FW)|https://images.fotmob.com/image_resources/playerimages/130670.png\",\"Stefan Mugoša (FW)|https://images.fotmob.com/image_resources/playerimages/208637.png\"]"
+awayLineup: "[\"In-Jae Hwang (GK)|https://images.fotmob.com/image_resources/playerimages/730778.png\",\"Kwang-Hoon Shin (DF)|https://images.fotmob.com/image_resources/playerimages/130628.png\",\"Min-Kwang Jeon (DF)|https://images.fotmob.com/image_resources/playerimages/654164.png\",\"Chan-Yong Park (DF)|https://images.fotmob.com/image_resources/playerimages/648405.png\",\"Jeong-Won Eo (DF)|https://images.fotmob.com/image_resources/playerimages/1232940.png\",\"Dong-Jin Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1611654.png\",\"Sung-Yueng Ki (MF)|https://images.fotmob.com/image_resources/playerimages/144996.png\",\"Wanderson (DF)|https://images.fotmob.com/image_resources/playerimages/331738.png\",\"Juninho (FW)|https://images.fotmob.com/image_resources/playerimages/1037550.png\",\"Jorge Teixeira (FW)|https://images.fotmob.com/image_resources/playerimages/1184786.png\",\"Kento Nishiya (MF)|https://images.fotmob.com/image_resources/playerimages/1499949.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "Jong-Hwan Yoon|https://images.fotmob.com/image_resources/playerimages/29410.png"
+awayCoach: "Tae-Ha Park|https://images.fotmob.com/image_resources/playerimages/835312.png"
 pickWinTeam: "포항 스틸러스"
 pickWinResult: "승"
 pickHandicapTeam: "포항 스틸러스"

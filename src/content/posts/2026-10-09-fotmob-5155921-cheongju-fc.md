@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.20","home":"안산 그리너스","away":"청주 FC"
 awayRecent: '[{"date":"26.09.20","home":"성남 FC","away":"화성 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155919-2026-09-20-seongnam-fc/"},{"date":"26.09.13","home":"경남 FC","away":"성남 FC","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155908-2026-09-13-gyeongnam-fc/"},{"date":"26.09.06","home":"김포 시티즌","away":"성남 FC","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155902-2026-09-06-gimpo-fc/"},{"date":"26.08.29","home":"성남 FC","away":"서울 이랜드 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155893-2026-08-29-seongnam-fc/"},{"date":"26.08.22","home":"안산 그리너스","away":"성남 FC","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155880-2026-08-22-ansan-greeners/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Cho Seong-Been (GK)|https://images.fotmob.com/image_resources/playerimages/1326603.png\",\"Bak Keon-Woo (DF)|https://images.fotmob.com/image_resources/playerimages/1337179.png\",\"Jo Ju-Yeong (DF)|https://images.fotmob.com/image_resources/playerimages/730786.png\",\"Jo Yun-Seong (DF)|https://images.fotmob.com/image_resources/playerimages/1135941.png\",\"Bandeira (DF)|https://images.fotmob.com/image_resources/playerimages/1177746.png\",\"Kim Seon-Min (MF)|https://images.fotmob.com/image_resources/playerimages/523742.png\",\"Francisco Geraldes (MF)|https://images.fotmob.com/image_resources/playerimages/522640.png\",\"Jeong Jin-Woo (MF)|https://images.fotmob.com/image_resources/playerimages/1439994.png\",\"Ménder García (FW)|https://images.fotmob.com/image_resources/playerimages/1024479.png\",\"Lee Jong-Eon (FW)|https://images.fotmob.com/image_resources/playerimages/1562975.png\",\"Seo Jae-Won (FW)|https://images.fotmob.com/image_resources/playerimages/1326550.png\"]"
+awayLineup: "[\"Lee Gwang-Yeon (GK)|https://images.fotmob.com/image_resources/playerimages/1039705.png\",\"Lee Sang-Min (DF)|https://images.fotmob.com/image_resources/playerimages/1136199.png\",\"Venício (DF)|https://images.fotmob.com/image_resources/playerimages/941712.png\",\"Yu Sun (DF)|https://images.fotmob.com/image_resources/playerimages/1712417.png\",\"You Ju-An (MF)|https://images.fotmob.com/image_resources/playerimages/828010.png\",\"Hong Chang-Beom (MF)|https://images.fotmob.com/image_resources/playerimages/1233502.png\",\"Elionay (MF)|https://images.fotmob.com/image_resources/playerimages/1508439.png\",\"Jung Seung-Yong (MF)|https://images.fotmob.com/image_resources/playerimages/307817.png\",\"Lee Jeong-Bin (FW)|https://images.fotmob.com/image_resources/playerimages/828202.png\",\"Kim Min-Jae (FW)|https://images.fotmob.com/image_resources/playerimages/1755669.png\",\"Yun Min-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/925333.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "3-4-3"
+homeCoach: "Rui Quinta|https://images.fotmob.com/image_resources/playerimages/586702.png"
+awayCoach: "Kim Hae-Woon"
 pickWinTeam: ""
 pickWinResult: "무승부"
 pickHandicapTeam: ""
