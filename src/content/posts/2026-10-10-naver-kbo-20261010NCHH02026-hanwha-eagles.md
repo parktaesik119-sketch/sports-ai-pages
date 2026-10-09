@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.07","home":"키움 히어로즈","away":"한화 이
 awayRecent: '[{"date":"26.10.07","home":"SSG 랜더스","away":"NC 다이노스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007NCSK02026-2026-10-07-ssg-landers/"},{"date":"26.10.06","home":"LG 트윈스","away":"NC 다이노스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006NCLG02026-2026-10-06-lg-twins/"},{"date":"26.10.05","home":"NC 다이노스","away":"SSG 랜더스","score":"0-9","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005SKNC02026-2026-10-05-nc-dinos/"},{"date":"26.10.04","home":"NC 다이노스","away":"SSG 랜더스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004SKNC02026-2026-10-04-nc-dinos/"},{"date":"26.10.03","home":"NC 다이노스","away":"SSG 랜더스","score":"13-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003SKNC02026-2026-10-03-nc-dinos/"}]'
 injuryHome: "없음"
 injuryAway: "박건우 (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 최인호 (중견수)\",\"2번 이도윤 (2루수)\",\"3번 문현빈 (좌익수)\",\"4번 강백호 (지명타자)\",\"5번 노시환 (3루수)\",\"6번 허인서 (포수)\",\"7번 김태연 (1루수)\",\"8번 유민 (우익수)\",\"9번 박정현 (유격수)\"]"
+awayLineup: "[\"1번 김주원 (유격수)\",\"2번 고준휘 (중견수)\",\"3번 박민우 (2루수)\",\"4번 김휘집 (3루수)\",\"5번 블레인 (1루수)\",\"6번 이우성 (지명타자)\",\"7번 천재환 (우익수)\",\"8번 김형준 (포수)\",\"9번 오태양 (좌익수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
