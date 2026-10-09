@@ -1,0 +1,37 @@
+---
+title: "롯데 자이언츠 vs LG 트윈스 야구분석·승부예측 (10월 10일) - 픽천국"
+date: 2026-10-10T05:00:00.000Z
+description: "롯데 자이언츠 vs LG 트윈스 야구분석: 선발 투수의 안정감 측면에서 LG 트윈스가 카라스코 투수의 우수한 이닝 소화력과 제구력을 바탕으로 롯데 자이언츠보다 우위를 점… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261010LGLT02026-2026-10-10-lotte-giants"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "롯데 자이언츠"
+awayTeam: "LG 트윈스"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LG.png"
+homeAnalysis: "롯데 자이언츠는 앞선 115경기에서 53승 59패로 승률 46%를 기록했고 최근 경기력 유지에 다소 어려움을 겪고 있습니다. 현재 리그 8위에 위치한 가운데 마운드 불안이 이어지며 경기 운영에서 기복을 나타내는 분위기입니다. 선발로 나서는 김한결 투수는 평균자책점 8.10으로 고전 중이며 투심과 포크볼 위주의 피칭으로 경기 초반 실점을 줄이는 것이 주요 과제로 꼽힙니다. 타선에서는 레이예스와 한동희 등 주요 타자들의 활약이 돋보이지만 전반적인 득점 연결성 면에서는 아쉬움이 남습니다. 이번 경기는 예상 라인업으로 치러지는 만큼 타선의 효율성을 극대화하는 운영이 무엇보다 중요해 보입니다."
+awayAnalysis: "LG 트윈스는 앞선 117경기에서 62승 53패로 승률 53%를 기록했고 순위권 상위 조정을 노리며 탄탄한 전력을 증명해 보이고 있습니다. 현재 리그 4위에 올라 있는 LG 트윈스는 투타 밸런스의 조화를 바탕으로 안정적인 경기 흐름을 만들어가고 있습니다. 선발 마운드에 올라서는 카라스코 투수는 평균자책점 3.93과 이닝당 출루허용률 1.02를 기록하며 퀄리티스타트 5회를 달성하는 등 안정적인 투구를 보여줍니다. 주무기인 커터와 투심을 앞세워 상대 타선을 효과적으로 억제하는 모습을 지속적으로 발휘하고 있습니다. 타선 역시 맹활약 중인 오스틴과 송찬의 등이 중심을 잡아주고 있어 경기 후반까지 강한 집중력을 기대하게 만듭니다."
+homePower: "롯데 자이언츠 선발 기복으로 수비 부담 지속|레이예스 중심의 상위 타선 파괴력 우수함|최근 마운드 난조로 전반적 실점 증가함|상대전적 팽팽하나 홈 경기력 변수 존재|예상 라인업 변동 가능성 속 타선 조율 필요"
+awayPower: "LG 트윈스 선발 카라스코의 안정적 마운드|오스틴 중심의 굳건한 중심 타선 화력|짠물 투구와 위기 관리 능력 검증됨|최근 연승 흐름 타며 팀 분위기 반전됨|마운드 우위 바탕으로 원정 승률 높임"
+h2h: '[{"date":"26.09.24","home":"LG 트윈스","away":"롯데 자이언츠","score":"4-6","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260924LTLG02026-2026-09-24-lg-twins/"},{"date":"26.08.29","home":"롯데 자이언츠","away":"LG 트윈스","score":"3-8","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829LGLT02026-2026-08-29-lotte-giants/"},{"date":"26.06.28","home":"롯데 자이언츠","away":"LG 트윈스","score":"11-9","link":"https://pick79.com/posts/detail/analyze-181803-2026-06-28-lotte-giants/"},{"date":"26.06.27","home":"롯데 자이언츠","away":"LG 트윈스","score":"7-8","link":"https://pick79.com/posts/detail/analyze-181800-2026-06-27-lotte-giants/"},{"date":"26.06.26","home":"롯데 자이언츠","away":"LG 트윈스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-181793-2026-06-26-lotte-giants/"}]'
+summary: "선발 투수의 안정감 측면에서 LG 트윈스가 카라스코 투수의 우수한 이닝 소화력과 제구력을 바탕으로 롯데 자이언츠보다 우위를 점할 것으로 보입니다. 롯데 자이언츠는 중심 타선의 결정력에 기대를 걸고 있지만 선발 김한결 투수의 난조와 마운드 불안감을 극복하는 것이 급선무로 평가됩니다. 전체적인 공수 균형과 마운드 전력 차이를 감안하면 LG 트윈스가 경기를 주도하며 우세를 이어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.07","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007HTLT02026-2026-10-07-lotte-giants/"},{"date":"26.10.06","home":"롯데 자이언츠","away":"두산 베어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006OBLT02026-2026-10-06-lotte-giants/"},{"date":"26.10.05","home":"KT 위즈","away":"롯데 자이언츠","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005LTKT02026-2026-10-05-kt-wiz-suwon/"},{"date":"26.10.04","home":"KT 위즈","away":"롯데 자이언츠","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004LTKT02026-2026-10-04-kt-wiz-suwon/"},{"date":"26.10.03","home":"KT 위즈","away":"롯데 자이언츠","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003LTKT02026-2026-10-03-kt-wiz-suwon/"}]'
+awayRecent: '[{"date":"26.10.07","home":"LG 트윈스","away":"두산 베어스","score":"7-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007OBLG02026-2026-10-07-lg-twins/"},{"date":"26.10.06","home":"LG 트윈스","away":"NC 다이노스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006NCLG02026-2026-10-06-lg-twins/"},{"date":"26.10.05","home":"LG 트윈스","away":"KIA 타이거즈","score":"4-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005HTLG02026-2026-10-05-lg-twins/"},{"date":"26.10.04","home":"LG 트윈스","away":"KIA 타이거즈","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004HTLG02026-2026-10-04-lg-twins/"},{"date":"26.10.03","home":"LG 트윈스","away":"KIA 타이거즈","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003HTLG02026-2026-10-03-lg-twins/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LG 트윈스"
+pickWinResult: "승"
+pickHandicapTeam: "LG 트윈스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
