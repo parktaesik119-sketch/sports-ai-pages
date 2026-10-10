@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.03","home":"요미우리 자이언츠","away":"요�
 awayRecent: '[{"date":"26.10.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261004HSYK0-2026-10-04-yokohama-baystars/"},{"date":"26.10.03","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261003YKYO0-2026-10-03-yomiuri-giants/"},{"date":"26.09.28","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928HIYK0-2026-09-28-yokohama-baystars/"},{"date":"26.09.27","home":"요코하마 DeNA 베이스타스","away":"히로시마 도요 카프","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927HIYK0-2026-09-27-yokohama-baystars/"},{"date":"26.09.26","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926HSYK0-2026-09-26-yokohama-baystars/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Kazuyuki Takemaru (11-9, 3.27)|https://p.npb.jp/players_photo/2026/180/g/021_71275152.jpg\"]"
+awayLineup: "[\"선발투수 Yutaro Ishida (5-8, 2.91)|https://p.npb.jp/players_photo/2026/180/db/054_21125159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
