@@ -24,7 +24,7 @@ homeLineup: "[\"Walterson (MF)|https://images.fotmob.com/image_resources/playeri
 awayLineup: "[\"Koo Sang-Min (GK)|https://images.fotmob.com/image_resources/playerimages/734940.png\",\"Kim Hee-Seung (DF)|https://images.fotmob.com/image_resources/playerimages/1232215.png\",\"Son Jun-Seok (MF)|https://images.fotmob.com/image_resources/playerimages/1531952.png\",\"Kwon Jun-Seong (DF)|https://images.fotmob.com/image_resources/playerimages/1999287.png\",\"Gabriel Honório (MF)|https://images.fotmob.com/image_resources/playerimages/1187050.png\",\"Ahn Hyun-Beom (DF)|https://images.fotmob.com/image_resources/playerimages/623892.png\",\"Otabek Ahadov (DF)|https://images.fotmob.com/image_resources/playerimages/2129701.png\",\"Xavier (MF)|https://images.fotmob.com/image_resources/playerimages/1653513.png\",\"Kim Se-Hoon (DF)|https://images.fotmob.com/image_resources/playerimages/1440170.png\",\"Son Hwi (MF)|https://images.fotmob.com/image_resources/playerimages/1646663.png\",\"Jeon Sung-Jin (DF)|https://images.fotmob.com/image_resources/playerimages/1440138.png\"]"
 homeFormation: "4-3-3"
 awayFormation: "3-4-3"
-homeCoach: "Marcos Pereira"
+homeCoach: "Gerard Nus|https://images.fotmob.com/image_resources/playerimages/1207584.png"
 awayCoach: "Jo Sung-Hwan|https://images.fotmob.com/image_resources/playerimages/1175328.png"
 pickWinTeam: "부산 아이파크"
 pickWinResult: "승"
