@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.09","home":"SSG 랜더스","away":"삼성 라이온
 awayRecent: '[{"date":"26.10.07","home":"KT 위즈","away":"삼성 라이온스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007SSKT02026-2026-10-07-kt-wiz-suwon/"},{"date":"26.10.06","home":"키움 히어로즈","away":"KT 위즈","score":"1-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006KTWO02026-2026-10-06-kiwoom-heroes/"},{"date":"26.10.05","home":"KT 위즈","away":"롯데 자이언츠","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005LTKT02026-2026-10-05-kt-wiz-suwon/"},{"date":"26.10.04","home":"KT 위즈","away":"롯데 자이언츠","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004LTKT02026-2026-10-04-kt-wiz-suwon/"},{"date":"26.10.03","home":"KT 위즈","away":"롯데 자이언츠","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003LTKT02026-2026-10-03-kt-wiz-suwon/"}]'
 injuryHome: "이재익 (치료·재활중)"
 injuryAway: "없음"
-homeLineup: "[\"1번 김지찬 (중견수)\",\"2번 김성윤 (우익수)\",\"3번 박승규 (좌익수)\",\"4번 디아즈 (1루수)\",\"5번 최형우 (지명타자)\",\"6번 이재현 (유격수)\",\"7번 김영웅 (3루수)\",\"8번 김도환 (포수)\",\"9번 김상준 (2루수)\"]"
-awayLineup: "[\"1번 최원준 (지명타자)\",\"2번 김민혁 (좌익수)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (중견수)\",\"5번 김현수 (1루수)\",\"6번 류현인 (2루수)\",\"7번 허경민 (3루수)\",\"8번 조대현 (포수)\",\"9번 권동진 (유격수)\"]"
+homeLineup: "[\"선발투수 후라도 (ERA 3.27)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53375.jpg\",\"1번 김지찬 (중견수)\",\"2번 김성윤 (우익수)\",\"3번 박승규 (좌익수)\",\"4번 디아즈 (1루수)\",\"5번 최형우 (지명타자)\",\"6번 이재현 (유격수)\",\"7번 김영웅 (3루수)\",\"8번 김도환 (포수)\",\"9번 김상준 (2루수)\"]"
+awayLineup: "[\"선발투수 고영표 (ERA 3.38)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64001.jpg\",\"1번 최원준 (지명타자)\",\"2번 김민혁 (좌익수)\",\"3번 안현민 (우익수)\",\"4번 힐리어드 (중견수)\",\"5번 김현수 (1루수)\",\"6번 류현인 (2루수)\",\"7번 허경민 (3루수)\",\"8번 조대현 (포수)\",\"9번 권동진 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
