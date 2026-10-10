@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.20","home":"김해 시티","away":"파주 시티즌
 awayRecent: '[{"date":"26.09.19","home":"김포 시티즌","away":"부산 아이파크","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155914-2026-09-19-gimpo-fc/"},{"date":"26.09.13","home":"부산 아이파크","away":"김해 시티","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155910-2026-09-13-busan-ipark/"},{"date":"26.09.05","home":"부산 아이파크","away":"안산 그리너스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155898-2026-09-05-busan-ipark/"},{"date":"26.08.30","home":"수원 FC","away":"부산 아이파크","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155895-2026-08-30-suwon-fc/"},{"date":"26.08.22","home":"대구 FC","away":"부산 아이파크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155882-2026-08-22-daegu-fc/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
+homeLineup: "[\"Walterson (MF)|https://images.fotmob.com/image_resources/playerimages/792080.png\",\"Kim Min-Ho (DF)|https://images.fotmob.com/image_resources/playerimages/848103.png\",\"Kim Hyun-Tae (DF)|https://images.fotmob.com/image_resources/playerimages/828060.png\",\"Sim Min-Yong (DF)|https://images.fotmob.com/image_resources/playerimages/1149617.png\",\"Lee Je-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/1067161.png\",\"Noh Seung-Ik (DF)|https://images.fotmob.com/image_resources/playerimages/2001700.png\",\"Borja Bastón (FW)|https://images.fotmob.com/image_resources/playerimages/200917.png\",\"Lee Taek-Geun (FW)|https://images.fotmob.com/image_resources/playerimages/1573123.png\",\"Choi Bum-Kyung (MF)|https://images.fotmob.com/image_resources/playerimages/940691.png\",\"Ryu Won-Woo (GK)|https://images.fotmob.com/image_resources/playerimages/307920.png\",\"Yu Jae-Jun (MF)|https://images.fotmob.com/image_resources/playerimages/1958671.png\"]"
+awayLineup: "[\"Koo Sang-Min (GK)|https://images.fotmob.com/image_resources/playerimages/734940.png\",\"Kim Hee-Seung (DF)|https://images.fotmob.com/image_resources/playerimages/1232215.png\",\"Son Jun-Seok (MF)|https://images.fotmob.com/image_resources/playerimages/1531952.png\",\"Kwon Jun-Seong (DF)|https://images.fotmob.com/image_resources/playerimages/1999287.png\",\"Gabriel Honório (MF)|https://images.fotmob.com/image_resources/playerimages/1187050.png\",\"Ahn Hyun-Beom (DF)|https://images.fotmob.com/image_resources/playerimages/623892.png\",\"Otabek Ahadov (DF)|https://images.fotmob.com/image_resources/playerimages/2129701.png\",\"Xavier (MF)|https://images.fotmob.com/image_resources/playerimages/1653513.png\",\"Kim Se-Hoon (DF)|https://images.fotmob.com/image_resources/playerimages/1440170.png\",\"Son Hwi (MF)|https://images.fotmob.com/image_resources/playerimages/1646663.png\",\"Jeon Sung-Jin (DF)|https://images.fotmob.com/image_resources/playerimages/1440138.png\"]"
+homeFormation: "4-3-3"
 awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeCoach: "Marcos Pereira"
+awayCoach: "Jo Sung-Hwan|https://images.fotmob.com/image_resources/playerimages/1175328.png"
 pickWinTeam: "부산 아이파크"
 pickWinResult: "승"
 pickHandicapTeam: "부산 아이파크"
