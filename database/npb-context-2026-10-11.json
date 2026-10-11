@@ -2,44 +2,44 @@
   {
     "home": "Seibu Lions",
     "away": "Nippon Ham Fighters",
-    "date": "2026-10-11T05:00:00.000Z",
+    "date": "2026-10-12T05:00:00.000Z",
     "league": "NPB",
     "venue": "ベルーナドーム",
     "gameTime": "14:00",
     "starters": {
       "home": {
-        "name": "Kona Takahashi",
-        "nameJa": "髙橋　光成",
-        "playerId": "71075130",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/l/013_71075130.jpg"
+        "name": null,
+        "nameJa": null,
+        "playerId": null,
+        "photoUrl": null
       },
       "away": {
-        "name": "Kota Tatsu",
-        "nameJa": "達　孝太",
-        "playerId": "01205155",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/f/016_01205155.jpg"
+        "name": null,
+        "nameJa": null,
+        "playerId": null,
+        "photoUrl": null
       }
     }
   },
   {
     "home": "Yomiuri Giants",
     "away": "Yokohama BayStars",
-    "date": "2026-10-11T05:00:00.000Z",
+    "date": "2026-10-12T05:00:00.000Z",
     "league": "NPB",
     "venue": "東京ドーム",
     "gameTime": "14:00",
     "starters": {
       "home": {
-        "name": "Kazuyuki Takemaru",
-        "nameJa": "竹丸　和幸",
-        "playerId": "71275152",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/g/021_71275152.jpg"
+        "name": "Shosei Togo",
+        "nameJa": "戸郷　翔征",
+        "playerId": "41045138",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/g/020_41045138.jpg"
       },
       "away": {
-        "name": "Yutaro Ishida",
-        "nameJa": "石田　裕太郎",
-        "playerId": "21125159",
-        "photoUrl": "https://p.npb.jp/players_photo/2026/180/db/054_21125159.jpg"
+        "name": "Kentaro Taira",
+        "nameJa": "平良　拳太郎",
+        "playerId": "01905139",
+        "photoUrl": "https://p.npb.jp/players_photo/2026/180/db/059_01905139.jpg"
       }
     }
   }
