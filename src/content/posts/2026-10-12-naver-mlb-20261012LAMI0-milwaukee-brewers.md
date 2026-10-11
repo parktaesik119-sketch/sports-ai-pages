@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.08","home":"애틀랜타 브레이브스","away":"L
 injuryHome: "없음"
 injuryAway: "없음"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 Y. Yamamoto (1-0, 1.29) ERA 1.29|https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

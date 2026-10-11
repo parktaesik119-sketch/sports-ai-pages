@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.07","home":"LG 트윈스","away":"두산 베어스"
 awayRecent: '[{"date":"26.10.10","home":"롯데 자이언츠","away":"LG 트윈스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261010LGLT02026-2026-10-10-lotte-giants/"},{"date":"26.10.09","home":"롯데 자이언츠","away":"LG 트윈스","score":"9-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261009LGLT02026-2026-10-09-lotte-giants/"},{"date":"26.10.07","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007HTLT02026-2026-10-07-lotte-giants/"},{"date":"26.10.06","home":"롯데 자이언츠","away":"두산 베어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006OBLT02026-2026-10-06-lotte-giants/"},{"date":"26.10.05","home":"KT 위즈","away":"롯데 자이언츠","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005LTKT02026-2026-10-05-kt-wiz-suwon/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"1번 박찬호 (유격수)\",\"2번 안재석 (3루수)\",\"3번 세베리노 (지명타자)\",\"4번 양의지 (포수)\",\"5번 김민석 (좌익수)\",\"6번 강승호 (2루수)\",\"7번 양석환 (1루수)\",\"8번 조수행 (우익수)\",\"9번 정수빈 (중견수)\"]"
+awayLineup: "[\"1번 황성빈 (좌익수)\",\"2번 레이예스 (지명타자)\",\"3번 나승엽 (1루수)\",\"4번 한동희 (3루수)\",\"5번 고승민 (2루수)\",\"6번 전민재 (유격수)\",\"7번 손성빈 (포수)\",\"8번 윤동희 (우익수)\",\"9번 장두성 (중견수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
