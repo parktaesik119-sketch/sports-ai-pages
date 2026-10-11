@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.12","home":"서울 이랜드 FC","away":"수원 삼
 awayRecent: '[{"date":"26.09.20","home":"안산 그리너스","away":"청주 FC","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155916-2026-09-20-ansan-greeners/"},{"date":"26.09.12","home":"안산 그리너스","away":"화성 FC","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155906-2026-09-12-ansan-greeners/"},{"date":"26.09.05","home":"부산 아이파크","away":"안산 그리너스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155898-2026-09-05-busan-ipark/"},{"date":"26.08.28","home":"안산 그리너스","away":"대구 FC","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155888-2026-08-28-ansan-greeners/"},{"date":"26.08.22","home":"안산 그리너스","away":"성남 FC","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155880-2026-08-22-ansan-greeners/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Kim Joon-Hong (GK)|https://images.fotmob.com/image_resources/playerimages/1261735.png\",\"Lee Geon-Hee (DF)|https://images.fotmob.com/image_resources/playerimages/1759631.png\",\"Ko Jong-Hyun (DF)|https://images.fotmob.com/image_resources/playerimages/1816702.png\",\"Han Hyeon-Seo (DF)|https://images.fotmob.com/image_resources/playerimages/1711633.png\",\"Lee Sang-Min (DF)|https://images.fotmob.com/image_resources/playerimages/1385649.png\",\"Kang Seong-Jin (MF)|https://images.fotmob.com/image_resources/playerimages/1233006.png\",\"Kim Min-Woo (MF)|https://images.fotmob.com/image_resources/playerimages/1296498.png\",\"Jeong Ho-Yeon (MF)|https://images.fotmob.com/image_resources/playerimages/1384003.png\",\"Keelan Lebon (MF)|https://images.fotmob.com/image_resources/playerimages/914392.png\",\"Fessin (FW)|https://images.fotmob.com/image_resources/playerimages/892655.png\",\"Luis Mina (FW)|https://images.fotmob.com/image_resources/playerimages/1276829.png\"]"
+awayLineup: "[\"Lee Seung-Bin (GK)|https://images.fotmob.com/image_resources/playerimages/433077.png\",\"Lee Hyo-Jun (DF)|https://images.fotmob.com/image_resources/playerimages/2001679.png\",\"Cho Ji-Hun (DF)|https://images.fotmob.com/image_resources/playerimages/255228.png\",\"Yeon Eung-Bin (DF)|https://images.fotmob.com/image_resources/playerimages/1836890.png\",\"Rim Ji-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1613068.png\",\"Park Kyu-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1337177.png\",\"Kim Jung-Hyun (MF)|https://images.fotmob.com/image_resources/playerimages/1544152.png\",\"Jang Hyun-Soo (MF)|https://images.fotmob.com/image_resources/playerimages/622139.png\",\"Marlon Maranhão (FW)|https://images.fotmob.com/image_resources/playerimages/1533779.png\",\"Machop Chol (FW)|https://images.fotmob.com/image_resources/playerimages/1244639.png\",\"Gabriel Lima (FW)|https://images.fotmob.com/image_resources/playerimages/1408130.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "3-4-3"
+homeCoach: "Lee Jung-Hyo|https://images.fotmob.com/image_resources/playerimages/1437716.png"
+awayCoach: "Choi Moon-Shik"
 pickWinTeam: "수원 삼성 블루윙즈"
 pickWinResult: "승"
 pickHandicapTeam: "수원 삼성 블루윙즈"
