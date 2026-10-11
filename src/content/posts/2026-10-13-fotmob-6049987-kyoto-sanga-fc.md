@@ -24,7 +24,7 @@ homeLineup: '["Halls (GK)|https://images.fotmob.com/image_resources/playerimages
 awayLineup: '["Kampol Pathomakkakul (GK)|https://images.fotmob.com/image_resources/playerimages/533233.png","Jesse Curran (DF)|https://images.fotmob.com/image_resources/playerimages/497658.png","Adisorn Promrak (DF)|https://images.fotmob.com/image_resources/playerimages/433083.png","Tarek Aggoun (DF)|https://images.fotmob.com/image_resources/playerimages/1308389.png","Sai van Wermeskerken (DF)|https://images.fotmob.com/image_resources/playerimages/638612.png","Roque Mesa (MF)|https://images.fotmob.com/image_resources/playerimages/292262.png","Thanawat Suengchitthawon (MF)|https://images.fotmob.com/image_resources/playerimages/1194305.png","Tana (FW)|https://images.fotmob.com/image_resources/playerimages/484906.png","Jonathan Viera (MF)|https://images.fotmob.com/image_resources/playerimages/213729.png","Ekanit Panya (FW)|https://images.fotmob.com/image_resources/playerimages/1048019.png","Robert Žulj (FW)|https://images.fotmob.com/image_resources/playerimages/207119.png"]'
 homeFormation: "3-4-2-1"
 awayFormation: "4-2-3-1"
-homeCoach: ""
+homeCoach: "Ranko Popović|https://images.fotmob.com/image_resources/playerimages/431271.png"
 awayCoach: "Worrawoot Srimaka|https://images.fotmob.com/image_resources/playerimages/1822971.png"
 pickWinTeam: "교토 상가"
 pickWinResult: "승"
