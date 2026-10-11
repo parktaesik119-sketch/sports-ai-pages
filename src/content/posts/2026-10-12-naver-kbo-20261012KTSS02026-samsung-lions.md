@@ -1,0 +1,37 @@
+---
+title: "삼성 라이온스 vs KT 위즈 야구분석·승부예측 (10월 12일) - 픽천국"
+date: 2026-10-12T09:30:00.000Z
+description: "삼성 라이온스 vs KT 위즈 야구분석: 양 팀은 리그 1위와 2위를 다투는 최정상급 전력을 보유하고 있으며, 선발 투수의 무게감 또한 매우 팽팽합니다. 삼성 라이온스… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261012KTSS02026-2026-10-12-samsung-lions"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "삼성 라이온스"
+awayTeam: "KT 위즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/KT.png"
+homeAnalysis: "삼성 라이온스는 앞선 117경기에서 68승 47패로 승률 58%를 기록했고, 리그 2위다운 저력을 바탕으로 상위권 경쟁을 이어왔습니다. 최근 투타 밸런스가 흔들리며 다소 기복 있는 모습을 보였으나, 안방에서는 응집력 있는 공격력을 통해 승수를 쌓는 저력을 보유했습니다. 이번 선발로 나서는 후라도는 평균 6.1이닝을 책임지는 안정감과 함께 17차례의 퀄리티 스타트를 달성하며 마운드의 핵심 기둥으로 활약하고 있습니다. 타선에서는 디아즈와 김지찬을 중심으로 활발한 공격 전개를 보여주며, 상대 투수의 구종을 공략하는 데 집중하고 있습니다. 홈 경기에서의 흐름을 되살려 상위 팀을 상대로 어떤 경기를 펼칠지가 이번 승부의 관전 포인트입니다."
+awayAnalysis: "KT 위즈는 앞선 117경기에서 72승 4무 41패로 승률 62%를 기록했고, 리그 1위의 위용을 과시하며 안정적인 경기 운영을 선보이고 있습니다. 최근 10경기에서 8승 1무 1패라는 압도적인 상승세를 타고 있으며, 투타 모두 완벽에 가까운 전력을 유지 중입니다. 선발 고영표는 28경기 동안 18회의 퀄리티 스타트를 기록하며 리그 최고의 정교한 제구력을 과시하고 있어 상대 타선에게는 큰 부담입니다. 중심 타선의 파괴력뿐만 아니라 하위 타선까지 고른 활약을 펼치며 매 경기 꾸준한 득점 지원을 아끼지 않는 점이 강점입니다. 원정임에도 불구하고 현재의 강력한 기세를 몰아 승리를 가져가려는 의지가 매우 강해 보입니다."
+homePower: "후라도의 풍부한 이닝 소화력은 불펜 부담을 크게 줄여줌|디아즈와 김지찬이 상위 타선에서 만드는 출루 생산력 높음|홈에서의 승률 관리는 안정적이나 최근 수비 집중력은 보완 필요|투심과 체인지업을 조합한 후라도의 변칙 투구 패턴 유효|리그 2위로서 상위권 유지에 대한 강력한 동기부여 존재"
+awayPower: "리그 1위 고영표의 정교한 제구와 낮은 실점률은 신뢰도 높음|최근 10경기 8승의 폭발적인 흐름은 투타 조화가 정점에 달함|체인지업을 활용한 고영표의 완급 조절은 상대 타자를 압도함|최원준과 힐리어드가 이끄는 타선의 득점 생산력은 리그 최정상급|원정에서도 흔들림 없는 집중력과 견고한 수비 전력 검증됨"
+h2h: '[{"date":"26.10.07","home":"KT 위즈","away":"삼성 라이온스","score":"9-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007SSKT02026-2026-10-07-kt-wiz-suwon/"},{"date":"26.09.09","home":"삼성 라이온스","away":"KT 위즈","score":"0-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260909KTSS02026-2026-09-09-samsung-lions/"},{"date":"26.08.29","home":"삼성 라이온스","away":"KT 위즈","score":"4-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260829KTSS02026-2026-08-29-samsung-lions/"},{"date":"26.06.28","home":"삼성 라이온스","away":"KT 위즈","score":"7-4","link":"https://pick79.com/posts/detail/analyze-181805-2026-06-28-samsung-lions/"},{"date":"26.06.27","home":"삼성 라이온스","away":"KT 위즈","score":"4-3","link":"https://pick79.com/posts/detail/analyze-181798-2026-06-27-samsung-lions/"}]'
+summary: "양 팀은 리그 1위와 2위를 다투는 최정상급 전력을 보유하고 있으며, 선발 투수의 무게감 또한 매우 팽팽합니다. 삼성 라이온스는 후라도를 앞세워 안방에서의 강점을 극대화하려 하겠으나, 최근 KT 위즈가 보여주는 상승세는 리그 전체에서도 압도적입니다. 특히 고영표의 안정적인 투구 내용은 삼성 라이온스 타선을 상대로 우위를 점할 가능성이 높으며, 타선 또한 최근 경기당 평균 득점이 뛰어날 만큼 고른 활약을 펼치고 있습니다. 두 팀의 맞대결은 투수전 양상으로 흐를 가능성이 크지만, 전반적인 공수 지표와 최근의 팀 흐름을 고려할 때 원정팀인 KT 위즈가 근소하게나마 우위를 점할 것으로 예측됩니다."
+homeRecent: '[{"date":"26.10.09","home":"SSG 랜더스","away":"삼성 라이온스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261009SSSK02026-2026-10-09-ssg-landers/"},{"date":"26.10.07","home":"KT 위즈","away":"삼성 라이온스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007SSKT02026-2026-10-07-kt-wiz-suwon/"},{"date":"26.10.06","home":"KIA 타이거즈","away":"삼성 라이온스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006SSHT02026-2026-10-06-kia-tigers/"},{"date":"26.10.05","home":"삼성 라이온스","away":"두산 베어스","score":"5-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005OBSS02026-2026-10-05-samsung-lions/"},{"date":"26.10.04","home":"삼성 라이온스","away":"두산 베어스","score":"0-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004OBSS02026-2026-10-04-samsung-lions/"}]'
+awayRecent: '[{"date":"26.10.07","home":"KT 위즈","away":"삼성 라이온스","score":"9-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007SSKT02026-2026-10-07-kt-wiz-suwon/"},{"date":"26.10.06","home":"키움 히어로즈","away":"KT 위즈","score":"1-10","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006KTWO02026-2026-10-06-kiwoom-heroes/"},{"date":"26.10.05","home":"KT 위즈","away":"롯데 자이언츠","score":"9-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005LTKT02026-2026-10-05-kt-wiz-suwon/"},{"date":"26.10.04","home":"KT 위즈","away":"롯데 자이언츠","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004LTKT02026-2026-10-04-kt-wiz-suwon/"},{"date":"26.10.03","home":"KT 위즈","away":"롯데 자이언츠","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003LTKT02026-2026-10-03-kt-wiz-suwon/"}]'
+injuryHome: "이재익 (치료·재활중)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KT 위즈"
+pickWinResult: "승"
+pickHandicapTeam: "KT 위즈"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---

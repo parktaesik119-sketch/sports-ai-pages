@@ -1,0 +1,37 @@
+---
+title: "밀워키 브루어스 vs LA 다저스 야구분석·승부예측 (10월 12일) - 픽천국"
+date: 2026-10-12T00:00:00.000Z
+description: "밀워키 브루어스 vs LA 다저스 야구분석: 양 팀 모두 높은 승률을 유지하고 있는 강팀들이지만 최근 맞대결 기록에서 밀워키 브루어스가 LA 다저스를 상대로 3연승을 거두… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20261012LAMI0-2026-10-12-milwaukee-brewers"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "밀워키 브루어스"
+awayTeam: "LA 다저스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/MI.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/LA.png"
+homeAnalysis: "밀워키 브루어스는 앞선 126경기에서 81승 44패로 승률 64%를 기록했고 견고한 마운드를 바탕으로 안정적인 경기 운영을 선보이고 있습니다. 최근 10경기에서 8승을 챙기며 상승세를 타고 있으며 투타 조화가 매우 뛰어난 모습을 보여줍니다. 홈에서의 집중력이 높고 위기 상황에서도 실점을 최소화하는 수비력이 강점으로 꼽힙니다. 득점 상황에서 타선의 응집력이 돋보이며 큰 경기에서도 밀리지 않는 전력을 구축하고 있습니다. 무엇보다 접전 상황을 승리로 연결하는 마무리 능력이 탁월하여 이번 경기에서도 주도권을 잡을 것으로 예상됩니다."
+awayAnalysis: "LA 다저스는 앞선 116경기에서 73승 43패로 승률 63%를 기록했고 매 경기 짜임새 있는 전력을 통해 꾸준히 승수를 쌓아왔습니다. 최근 10경기에서 7승을 거두며 안정적인 흐름을 유지하고 있지만 원정 경기에서는 다소 기복을 보이는 측면도 있습니다. 타선의 득점 생산력은 준수하지만 경기 막판 투수진의 운영에 따라 결과가 좌우되는 경우가 종종 나타납니다. 상위 전력으로서의 면모는 갖추고 있으나 이번 맞대결에서는 상대의 강한 수비를 뚫어내는 것이 핵심 과제가 될 전망입니다."
+homePower: "안정적인 투수진 운용으로 실점 억제 능력 탁월함|최근 10경기 8승 거두며 투타 밸런스 최고점 기록|홈 구장에서의 높은 승률로 강력한 안방 전력 과시|타선의 응집력을 통한 득점권 해결 능력 극대화|상대 전적 우위를 통해 심리적 자신감 확보함"
+awayPower: "폭발적인 득점 지원보다는 실리적인 경기 운영 주력|원정 경기에서 기복 보이나 타선 흐름은 꾸준함|마운드의 뒷심이 변수로 작용하며 접전 시 불안함|최근 흐름상 상위권 전력 유지하며 전술 변화 시도|상대와의 최근 맞대결에서 열세 극복이 관건임"
+h2h: '[{"date":"26.08.17","home":"LA 다저스","away":"밀워키 브루어스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260817MILA0-2026-08-17-los-angeles-dodgers/"},{"date":"26.08.16","home":"LA 다저스","away":"밀워키 브루어스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260816MILA0-2026-08-16-los-angeles-dodgers/"},{"date":"26.08.14","home":"LA 다저스","away":"밀워키 브루어스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260814MILA0-2026-08-14-los-angeles-dodgers/"},{"date":"26.05.25","home":"밀워키 브루어스","away":"LA 다저스","score":"1-5","link":"https://pick79.com/posts/detail/analyze-178799-2026-05-25-milwaukee-brewers/"},{"date":"26.05.24","home":"밀워키 브루어스","away":"LA 다저스","score":"3-11","link":"https://pick79.com/posts/detail/analyze-178783-2026-05-24-milwaukee-brewers/"}]'
+summary: "양 팀 모두 높은 승률을 유지하고 있는 강팀들이지만 최근 맞대결 기록에서 밀워키 브루어스가 LA 다저스를 상대로 3연승을 거두며 강한 면모를 보이고 있습니다. 밀워키 브루어스는 홈에서의 안정감과 함께 최근 10경기 8승이라는 압도적인 전력을 바탕으로 이번 경기에서도 우위를 점할 가능성이 매우 높습니다. 반면 LA 다저스는 원정에서의 다소 불안한 마운드 운영이 발목을 잡을 수 있어 밀워키 브루어스가 공수 밸런스 면에서 더욱 경기를 주도하며 승기를 가져올 것으로 평가됩니다."
+homeRecent: '[{"date":"26.10.08","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261008MISD0-2026-10-08-san-diego-padres/"},{"date":"26.10.07","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261007MISD0-2026-10-07-san-diego-padres/"},{"date":"26.10.05","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261005SDMI0-2026-10-05-milwaukee-brewers/"},{"date":"26.09.28","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928SLMI0-2026-09-28-milwaukee-brewers/"},{"date":"26.09.27","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260927SLMI0-2026-09-27-milwaukee-brewers/"}]'
+awayRecent: '[{"date":"26.10.08","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261008LAAT0-2026-10-08-atlanta-braves/"},{"date":"26.10.07","home":"애틀랜타 브레이브스","away":"LA 다저스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261007LAAT0-2026-10-07-atlanta-braves/"},{"date":"26.10.05","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261005ATLA0-2026-10-05-los-angeles-dodgers/"},{"date":"26.10.04","home":"LA 다저스","away":"애틀랜타 브레이브스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004ATLA0-2026-10-04-los-angeles-dodgers/"},{"date":"26.09.28","home":"샌프란시스코 자이언츠","away":"LA 다저스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928LASF0-2026-09-28-san-francisco-giants/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "밀워키 브루어스"
+pickWinResult: "승"
+pickHandicapTeam: "밀워키 브루어스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "언더"
+---

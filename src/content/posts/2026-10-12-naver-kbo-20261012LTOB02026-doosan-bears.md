@@ -1,0 +1,37 @@
+---
+title: "두산 베어스 vs 롯데 자이언츠 야구분석·승부예측 (10월 12일) - 픽천국"
+date: 2026-10-12T09:30:00.000Z
+description: "두산 베어스 vs 롯데 자이언츠 야구분석: 두산 베어스는 최근 10경기에서 7승을 거둘 만큼 투타 조화가 돋보이며 리그 5위의 저력을 유감없이 발휘하고 있습니다. 반면 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-20261012LTOB02026-2026-10-12-doosan-bears"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "두산 베어스"
+awayTeam: "롯데 자이언츠"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/OB.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/LT.png"
+homeAnalysis: "두산 베어스는 앞선 117경기에서 62승 4무 51패로 승률 53%를 기록했고 안정적인 전력으로 리그 5위 자리를 지키고 있습니다. 최근 10경기에서 7승 3패를 거두며 상승세를 타고 있는데, 특히 삼성 라이온즈를 상대로 12점 차 대승을 거두는 등 타선이 폭발적인 집중력을 발휘하는 모습이 인상적입니다. 양의지를 중심으로 한 타선의 무게감이 상당하며 하위 타선까지 고르게 득점 생산에 가담하고 있어 투수진의 부담을 크게 덜어주고 있습니다. 홈 경기에서의 집중력 또한 매우 좋아 상위권 도약을 위한 발판을 꾸준히 마련하고 있는 상태입니다. 공수 밸런스가 조화를 이루며 매 경기 끈질긴 추격과 안정적인 운영을 보여주고 있어 이번 대결에서도 유리한 고지를 점할 것으로 보입니다."
+awayAnalysis: "롯데 자이언츠는 앞선 117경기에서 54승 3무 60패로 승률 46%를 기록했고 최근 다소 기복 있는 경기력을 보이며 리그 8위에 머물러 있습니다. 최근 10경기에서 3승 1무 6패를 기록하며 수비 집중력에서 아쉬움을 노출하고 있으나, 레이예스와 한동희를 주축으로 한 타선의 장타력만큼은 여전히 위협적입니다. 원정 길에서 상대 마운드를 공략하는 데 어려움을 겪는 경우가 늘어나고 있지만, 한 번 흐름을 타면 연속 득점으로 대량 득점을 만들어내는 폭발력은 무시할 수 없는 요소입니다. 팀 전반적으로 수비 실수를 줄이고 투수진이 초반 실점을 최소화하는 것이 이번 맞대결에서 승리를 거두기 위한 핵심 과제로 평가됩니다. 전력 회복을 위해 다각도로 변화를 모색하고 있어 경기 후반까지 집중력을 유지하는 것이 무엇보다 중요합니다."
+homePower: "양의지 중심의 상위 타선 장타율 및 OPS 리그 상위권 유지|상대 투수 구종 공략 능력 뛰어나 득점 효율 극대화함|홈 경기 시 투수진 방어율 안정세 보여 운영 부담 감소|최근 10경기 승률 기반의 견고한 팀 분위기 형성됨|다양한 타순 조합 가능해 하위 타선에서도 득점 지원함"
+awayPower: "레이예스 및 한동희 기반의 타선 득점 생산력 상위 수준|상위 타선의 출루율은 높으나 득점권 해결 능력 다소 기복 보임|선발진 조기 강판 시 불펜 과부하로 인한 실점 증가 패턴 확인|경기 중반 이후 집중력 저하로 인한 역전패 빈도 존재함|중견수 및 우익수 수비 범위는 넓으나 타격 지표는 보완 필요"
+h2h: '[{"date":"26.10.06","home":"롯데 자이언츠","away":"두산 베어스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006OBLT02026-2026-10-06-lotte-giants/"},{"date":"26.08.23","home":"두산 베어스","away":"롯데 자이언츠","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260823LTOB02026-2026-08-23-doosan-bears/"},{"date":"26.08.21","home":"두산 베어스","away":"롯데 자이언츠","score":"4-11","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260821LTOB02026-2026-08-21-doosan-bears/"},{"date":"26.07.02","home":"두산 베어스","away":"롯데 자이언츠","score":"8-3","link":"https://pick79.com/posts/detail/analyze-181821-2026-07-02-doosan-bears/"},{"date":"26.07.01","home":"두산 베어스","away":"롯데 자이언츠","score":"2-5","link":"https://pick79.com/posts/detail/analyze-181812-2026-07-01-doosan-bears/"}]'
+summary: "두산 베어스는 최근 10경기에서 7승을 거둘 만큼 투타 조화가 돋보이며 리그 5위의 저력을 유감없이 발휘하고 있습니다. 반면 롯데 자이언츠는 최근 10경기 3승에 그치며 투수진의 불안 요소가 다소 두드러지는 모습입니다. 상대전적을 고려했을 때도 두산 베어스가 홈에서 강한 집중력을 보이며 롯데 자이언츠를 상대로 우위를 점해왔던 흐름이 이어질 가능성이 매우 높습니다. 타선의 파괴력과 마운드의 안정감을 모두 갖춘 두산 베어스가 전력 면에서 한 수 위로 평가되며 경기 전반을 주도할 것으로 예상됩니다."
+homeRecent: '[{"date":"26.10.07","home":"LG 트윈스","away":"두산 베어스","score":"7-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007OBLG02026-2026-10-07-lg-twins/"},{"date":"26.10.06","home":"롯데 자이언츠","away":"두산 베어스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006OBLT02026-2026-10-06-lotte-giants/"},{"date":"26.10.05","home":"삼성 라이온스","away":"두산 베어스","score":"5-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005OBSS02026-2026-10-05-samsung-lions/"},{"date":"26.10.04","home":"삼성 라이온스","away":"두산 베어스","score":"0-12","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261004OBSS02026-2026-10-04-samsung-lions/"},{"date":"26.10.03","home":"삼성 라이온스","away":"두산 베어스","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261003OBSS02026-2026-10-03-samsung-lions/"}]'
+awayRecent: '[{"date":"26.10.10","home":"롯데 자이언츠","away":"LG 트윈스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261010LGLT02026-2026-10-10-lotte-giants/"},{"date":"26.10.09","home":"롯데 자이언츠","away":"LG 트윈스","score":"9-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261009LGLT02026-2026-10-09-lotte-giants/"},{"date":"26.10.07","home":"롯데 자이언츠","away":"KIA 타이거즈","score":"4-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007HTLT02026-2026-10-07-lotte-giants/"},{"date":"26.10.06","home":"롯데 자이언츠","away":"두산 베어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006OBLT02026-2026-10-06-lotte-giants/"},{"date":"26.10.05","home":"KT 위즈","away":"롯데 자이언츠","score":"9-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261005LTKT02026-2026-10-05-kt-wiz-suwon/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "두산 베어스"
+pickWinResult: "승"
+pickHandicapTeam: "두산 베어스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "10.5"
+pickOuDirection: "언더"
+---
