@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.06","home":"충칭 통량룽","away":"상하이 선
 awayRecent: '[{"date":"26.09.05","home":"산둥 타이산","away":"선전 신청펑","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186608-2026-09-05-shandong-taishan/"},{"date":"26.09.01","home":"산둥 타이산","away":"상하이 하이강","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5961059-2026-09-01-shandong-taishan/"},{"date":"26.08.28","home":"상하이 선화","away":"산둥 타이산","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186602-2026-08-28-shanghai-shenhua/"},{"date":"26.08.22","home":"칭다오 FC","away":"산둥 타이산","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186593-2026-08-22-qingdao-west-coast/"},{"date":"26.08.14","home":"산둥 타이산","away":"칭다오 하이뉴","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186581-2026-08-14-shandong-taishan/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Haoyang Yao (GK)|https://images.fotmob.com/image_resources/playerimages/1624684.png\",\"Lucão (DF)|https://images.fotmob.com/image_resources/playerimages/493725.png\",\"Pengxiang Jin (DF)|https://images.fotmob.com/image_resources/playerimages/431876.png\",\"Yingkai Zhang (DF)|https://images.fotmob.com/image_resources/playerimages/1357096.png\",\"Suowei Wei (DF)|https://images.fotmob.com/image_resources/playerimages/1363547.png\",\"Xiaoqiang He (DF)|https://images.fotmob.com/image_resources/playerimages/1267721.png\",\"George Cîmpanu (MF)|https://images.fotmob.com/image_resources/playerimages/1068922.png\",\"Zhixiong Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/1624800.png\",\"Ibrahim Amadou (MF)|https://images.fotmob.com/image_resources/playerimages/369788.png\",\"Weipeng Liang (MF)|https://images.fotmob.com/image_resources/playerimages/1624872.png\",\"Landry Dimata (FW)|https://images.fotmob.com/image_resources/playerimages/703044.png\"]"
+awayLineup: "[\"Dalei Wang (GK)|https://images.fotmob.com/image_resources/playerimages/130532.png\",\"Pedro Álvaro (DF)|https://images.fotmob.com/image_resources/playerimages/822258.png\",\"Xiao Peng (DF)|https://images.fotmob.com/image_resources/playerimages/1613314.png\",\"Zhunyi Gao (DF)|https://images.fotmob.com/image_resources/playerimages/648366.png\",\"Yang Liu (DF)|https://images.fotmob.com/image_resources/playerimages/768634.png\",\"Mewlan Mijit (MF)|https://images.fotmob.com/image_resources/playerimages/1426641.png\",\"Guilherme Madruga (MF)|https://images.fotmob.com/image_resources/playerimages/1460496.png\",\"Imran Memet (MF)|https://images.fotmob.com/image_resources/playerimages/1711642.png\",\"Pu Chen (MF)|https://images.fotmob.com/image_resources/playerimages/1079758.png\",\"Wenneng Xie (MF)|https://images.fotmob.com/image_resources/playerimages/1248506.png\",\"Valeri Qazaishvili (FW)|https://images.fotmob.com/image_resources/playerimages/278473.png\"]"
+homeFormation: "5-4-1"
+awayFormation: "4-4-2"
+homeCoach: "Jianye Liu|https://images.fotmob.com/image_resources/playerimages/21021.png"
+awayCoach: "Tian Tang|https://images.fotmob.com/image_resources/playerimages/120262.png"
 pickWinTeam: "산둥 타이산"
 pickWinResult: "승"
 pickHandicapTeam: "산둥 타이산"
