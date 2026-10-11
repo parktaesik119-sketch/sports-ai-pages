@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.10","home":"세이부 라이온즈","away":"니혼�
 awayRecent: '[{"date":"26.10.10","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261010NHSE0-2026-10-10-seibu-lions/"},{"date":"26.10.01","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001NHJL0-2026-10-01-chiba-lotte-marines/"},{"date":"26.09.28","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928NHJL0-2026-09-28-chiba-lotte-marines/"},{"date":"26.09.27","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927NHJL0-2026-09-27-chiba-lotte-marines/"},{"date":"26.09.26","home":"오릭스 버팔로스","away":"니혼햄 파이터즈","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926NHOX0-2026-09-26-orix-buffaloes/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Natsuki Takeuchi (11-8, 3.27)|https://p.npb.jp/players_photo/2026/180/l/021_51255159.jpg\"]"
+awayLineup: "[\"선발투수 Hiromi Itoh (10-10, 3.18)|https://p.npb.jp/players_photo/2026/180/f/017_51355153.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
