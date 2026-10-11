@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.12","home":"텐진 진먼후","away":"랴오닝 선
 awayRecent: '[{"date":"26.09.18","home":"저장 뤼청","away":"우한 쓰리 타운즈","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186576-2026-09-18-zhejiang-professional/"},{"date":"26.09.12","home":"우한 쓰리 타운즈","away":"허난 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186542-2026-09-12-wuhan-three-towns/"},{"date":"26.09.05","home":"우한 쓰리 타운즈","away":"칭다오 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186605-2026-09-05-wuhan-three-towns/"},{"date":"26.08.29","home":"칭다오 하이뉴","away":"우한 쓰리 타운즈","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186604-2026-08-29-qingdao-hainiu/"},{"date":"26.08.22","home":"우한 쓰리 타운즈","away":"텐진 진먼후","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186589-2026-08-22-wuhan-three-towns/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Yan Zhang (GK)|https://images.fotmob.com/image_resources/playerimages/730899.png\",\"Dilmurat Mawlanyaz (DF)|https://images.fotmob.com/image_resources/playerimages/979356.png\",\"Mincheng Yuan (DF)|https://images.fotmob.com/image_resources/playerimages/843117.png\",\"Ximing Pan (DF)|https://images.fotmob.com/image_resources/playerimages/672018.png\",\"Haoran Li (DF)|https://images.fotmob.com/image_resources/playerimages/1279261.png\",\"Tixiang Li (MF)|https://images.fotmob.com/image_resources/playerimages/178054.png\",\"Ange Kouamé (FW)|https://images.fotmob.com/image_resources/playerimages/1380215.png\",\"Takahiro Kunimoto (MF)|https://images.fotmob.com/image_resources/playerimages/648371.png\",\"Felipe (DF)|https://images.fotmob.com/image_resources/playerimages/789847.png\",\"Binbin Chen (MF)|https://images.fotmob.com/image_resources/playerimages/860171.png\",\"Jeffinho (FW)|https://images.fotmob.com/image_resources/playerimages/1163634.png\"]"
+awayLineup: "[\"Jiayu Guo (GK)|https://images.fotmob.com/image_resources/playerimages/1248569.png\",\"Tian Ming (DF)|https://images.fotmob.com/image_resources/playerimages/1026521.png\",\"Guan He (DF)|https://images.fotmob.com/image_resources/playerimages/536591.png\",\"Kaimu Zheng (DF)|https://images.fotmob.com/image_resources/playerimages/433385.png\",\"Haofeng Xu (DF)|https://images.fotmob.com/image_resources/playerimages/1171149.png\",\"Xiaobin Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/530922.png\",\"Jizheng Xiong (MF)|https://images.fotmob.com/image_resources/playerimages/1567011.png\",\"Adriano (MF)|https://images.fotmob.com/image_resources/playerimages/1071102.png\",\"Jinxian Wang (FW)|https://images.fotmob.com/image_resources/playerimages/536586.png\",\"Jhonder Cádiz (FW)|https://images.fotmob.com/image_resources/playerimages/523414.png\",\"Kilian Bevis (FW)|https://images.fotmob.com/image_resources/playerimages/1553642.png\"]"
+homeFormation: "4-1-4-1"
+awayFormation: "4-3-3"
+homeCoach: "Jung-Won Seo|https://images.fotmob.com/image_resources/playerimages/43016.png"
+awayCoach: "Zhuoxiang Deng|https://images.fotmob.com/image_resources/playerimages/79251.png"
 pickWinTeam: "우한 쓰리 타운즈"
 pickWinResult: "승"
 pickHandicapTeam: "우한 쓰리 타운즈"
