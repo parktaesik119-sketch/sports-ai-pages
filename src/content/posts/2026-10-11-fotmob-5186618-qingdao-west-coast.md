@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.05","home":"우한 쓰리 타운즈","away":"칭다
 awayRecent: '[{"date":"26.09.05","home":"다롄 잉보 FC","away":"칭다오 하이뉴","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186606-2026-09-05-dalian-yingbo/"},{"date":"26.09.01","home":"다롄 잉보 FC","away":"상하이 선화","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5961058-2026-09-01-dalian-yingbo/"},{"date":"26.08.28","home":"다롄 잉보 FC","away":"베이징 궈안","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186597-2026-08-28-dalian-yingbo/"},{"date":"26.08.23","home":"충칭 통량룽","away":"다롄 잉보 FC","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186596-2026-08-23-chongqing-tongliang-long/"},{"date":"26.08.19","home":"상하이 하이강","away":"다롄 잉보 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186548-2026-08-19-shanghai-port/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Hao Li (GK)|https://images.fotmob.com/image_resources/playerimages/1642801.png\",\"Elnizar Lohman (DF)|https://images.fotmob.com/image_resources/playerimages/2088055.png\",\"Samir Memišević (DF)|https://images.fotmob.com/image_resources/playerimages/645214.png\",\"Bruno Viana (DF)|https://images.fotmob.com/image_resources/playerimages/664964.png\",\"Gengrui Wang (DF)|https://images.fotmob.com/image_resources/playerimages/1919196.png\",\"Xiuwei Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/561202.png\",\"Chengdong Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/120737.png\",\"Nélson da Luz (MF)|https://images.fotmob.com/image_resources/playerimages/854081.png\",\"Jingchao Meng (MF)|https://images.fotmob.com/image_resources/playerimages/1366712.png\",\"Davidson (MF)|https://images.fotmob.com/image_resources/playerimages/678719.png\",\"Abdul-Aziz Yakubu (FW)|https://images.fotmob.com/image_resources/playerimages/841352.png\"]"
+awayLineup: "[\"Weiguo Liu (GK)|https://images.fotmob.com/image_resources/playerimages/431879.png\",\"Zhuoyi Lyu (DF)|https://images.fotmob.com/image_resources/playerimages/1370283.png\",\"Mamadou Traoré (DF)|https://images.fotmob.com/image_resources/playerimages/685219.png\",\"Yue Song (DF)|https://images.fotmob.com/image_resources/playerimages/1052768.png\",\"Boxuan Feng (DF)|https://images.fotmob.com/image_resources/playerimages/816224.png\",\"Jintao Liao (MF)|https://images.fotmob.com/image_resources/playerimages/1266929.png\",\"Isnik Alimi (MF)|https://images.fotmob.com/image_resources/playerimages/308082.png\",\"Jing Luo (FW)|https://images.fotmob.com/image_resources/playerimages/467816.png\",\"Nicolae Stanciu (MF)|https://images.fotmob.com/image_resources/playerimages/308516.png\",\"Frank Acheampong (FW)|https://images.fotmob.com/image_resources/playerimages/309083.png\",\"Pedro Delgado (FW)|https://images.fotmob.com/image_resources/playerimages/793253.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Zhi Zheng|https://images.fotmob.com/image_resources/playerimages/19696.png"
+awayCoach: "Guoxu Li|https://images.fotmob.com/image_resources/playerimages/1628058.png"
 pickWinTeam: "칭다오 FC"
 pickWinResult: "승"
 pickHandicapTeam: "칭다오 FC"
