@@ -60,6 +60,7 @@ export const EXACT_LEAGUE_MAP = {
   "AFC Champions League Two C": "AFC 챔피언스리그 리그 2",
   "AFC Champions League Two D": "AFC 챔피언스리그 리그 2",
   "AFC Champions League Two E": "AFC 챔피언스리그 리그 2",
+  "AFC Champions League Two - E": "AFC 챔피언스리그 리그 2",
   "AFC Champions League Two F": "AFC 챔피언스리그 리그 2",
   "AFC Champions League Two G": "AFC 챔피언스리그 리그 2",
   "AFC Champions League Two H": "AFC 챔피언스리그 리그 2",

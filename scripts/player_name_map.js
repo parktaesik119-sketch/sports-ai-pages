@@ -84,6 +84,7 @@ const PLAYER_NAME_MAP = {
   "Jung-In Moon": "문정인",
   "Jong-Gyu Yoon": "윤종규",
   "Seok-Hyun Choi": "최석현",
+  "Seok-Hyeon Choi": "최석현",
   "Seong-Bin Jung": "정성빈",
   "Yong-Woo Park": "박용우",
   "Myong-Gwan Seo": "서명관",
@@ -188,6 +189,7 @@ const PLAYER_NAME_MAP = {
   "Woon Chung": "정운",
   "Woon Jeong": "정운",
   "Ryun-Seong Kim": "김륜성",
+  "Ryun-Sung Kim": "김륜성",
   "In-Jung Jo": "조인정",
   "Su-Bin Park": "박수빈", // 제주 소속 (파주 소속 동명이인과 별개)
   "Chang-Min Lee": "이창민",
@@ -439,6 +441,7 @@ const PLAYER_NAME_MAP = {
   "Sang-Gi Min": "민상기",
   "Sang-Ki Min": "민상기",
   "Min-Ki Lee": "이민기", // 광주 소속 (파주 소속 동명이인과 별개)
+  "Min-Gi Lee": "이민기", // 광주 소속 (파주 소속 동명이인과 별개)
   "Won-Jae Park": "박원재",
   "Se-Jong Ju": "주세종",
   "Kyoung-Rok Choi": "최경록",
