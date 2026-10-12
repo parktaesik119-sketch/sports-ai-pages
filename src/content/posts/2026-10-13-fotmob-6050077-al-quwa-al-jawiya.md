@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.08","home":"Al-Mosul","away":"알쿠와 알자위�
 awayRecent: '[{"date":"26.10.08","home":"알아인","away":"알이티하드 칼바","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021968-2026-10-08-al-ain/"},{"date":"26.10.02","home":"알아인","away":"아지만","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000020533-2026-10-02-al-ain/"},{"date":"26.09.20","home":"알와슬","away":"알아인","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000020525-2026-09-20-al-wasl/"},{"date":"26.09.16","home":"알아인","away":"알나스르","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050070-2026-09-16-al-ain/"},{"date":"26.09.11","home":"알아인","away":"알와슬","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000020518-2026-09-11-al-ain/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Mohammed Salih (GK)|https://images.fotmob.com/image_resources/playerimages/1033089.png\",\"Abbas Adel (DF)|https://images.fotmob.com/image_resources/playerimages/2199812.png\",\"Achref Boudrama (DF)|https://images.fotmob.com/image_resources/playerimages/1310092.png\",\"Mohanad Jeahze (DF)|https://images.fotmob.com/image_resources/playerimages/772089.png\",\"Ruslan Hanoon (DF)|https://images.fotmob.com/image_resources/playerimages/1346919.png\",\"Saed Al-Rosan (DF)|https://images.fotmob.com/image_resources/playerimages/1179369.png\",\"Abbas Fawzi (MF)|https://images.fotmob.com/image_resources/playerimages/1991060.png\",\"Saad Abdul-Amir (MF)|https://images.fotmob.com/image_resources/playerimages/508590.png\",\"Haythem Jouini (FW)|https://images.fotmob.com/image_resources/playerimages/535525.png\",\"Mohammed Jawad (FW)|https://images.fotmob.com/image_resources/playerimages/1719279.png\",\"Tuisila Kisinda (FW)|https://images.fotmob.com/image_resources/playerimages/1013028.png\"]"
+awayLineup: "[\"Khalid Eisa (GK)|https://images.fotmob.com/image_resources/playerimages/197054.png\",\"Djordje Skoko (DF)|https://images.fotmob.com/image_resources/playerimages/1572725.png\",\"Rafael Rodrigues (DF)|https://images.fotmob.com/image_resources/playerimages/1210509.png\",\"Rami Rabia (DF)|https://images.fotmob.com/image_resources/playerimages/505872.png\",\"Yahya Ben Khaleq (DF)|https://images.fotmob.com/image_resources/playerimages/1501222.png\",\"Abdoul Traoré (MF)|https://images.fotmob.com/image_resources/playerimages/1575574.png\",\"Alejandro Romero (MF)|https://images.fotmob.com/image_resources/playerimages/600850.png\",\"Matías Palacios (MF)|https://images.fotmob.com/image_resources/playerimages/964040.png\",\"Valentino Lazaro (MF)|https://images.fotmob.com/image_resources/playerimages/321140.png\",\"Houssine Rahimi (FW)|https://images.fotmob.com/image_resources/playerimages/1295519.png\",\"Soufiane Rahimi (FW)|https://images.fotmob.com/image_resources/playerimages/988749.png\"]"
+homeFormation: "5-2-3"
+awayFormation: "4-4-2"
+homeCoach: "Fathi Al Jabal|https://images.fotmob.com/image_resources/playerimages/1145449.png"
+awayCoach: "Vladimir Ivić|https://images.fotmob.com/image_resources/playerimages/30569.png"
 pickWinTeam: "알아인"
 pickWinResult: "승"
 pickHandicapTeam: "알아인"
