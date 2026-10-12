@@ -2790,27 +2790,27 @@
       "home": {
         "rank": "16",
         "wins": "0",
-        "losses": "4",
+        "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
-        "pointsFor": "7",
-        "pointsAgainst": "24"
+        "gamesBehind": "9",
+        "pointsFor": "8",
+        "pointsAgainst": "28"
       },
       "away": {
-        "rank": "2",
-        "wins": "4",
+        "rank": "1",
+        "wins": "5",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "23",
-        "pointsAgainst": "16"
+        "gamesBehind": "-",
+        "pointsFor": "27",
+        "pointsAgainst": "17"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "CAR leads series 1-0",
+      "text": "CAR leads series 2-0",
       "totalGames": 1,
       "games": [
         {
@@ -2890,12 +2890,12 @@
     },
     "standings": {
       "home": {
-        "rank": "1",
+        "rank": "2",
         "wins": "5",
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "-",
+        "gamesBehind": "1",
         "pointsFor": "23",
         "pointsAgainst": "13"
       },
@@ -2968,7 +2968,7 @@
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "5",
         "pointsFor": "17",
         "pointsAgainst": "14"
       },
@@ -3187,7 +3187,7 @@
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
+        "gamesBehind": "7",
         "pointsFor": "10",
         "pointsAgainst": "14"
       },
@@ -3197,7 +3197,7 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
+        "gamesBehind": "3",
         "pointsFor": "15",
         "pointsAgainst": "11"
       }
@@ -3265,7 +3265,7 @@
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
+        "gamesBehind": "7",
         "pointsFor": "11",
         "pointsAgainst": "19"
       },
@@ -3275,7 +3275,7 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "5",
         "pointsFor": "9",
         "pointsAgainst": "12"
       }
@@ -3338,7 +3338,7 @@
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
+        "gamesBehind": "7",
         "pointsFor": "16",
         "pointsAgainst": "13"
       },
@@ -3426,7 +3426,7 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
+        "gamesBehind": "3",
         "pointsFor": "15",
         "pointsAgainst": "11"
       },
@@ -3494,12 +3494,12 @@
     },
     "standings": {
       "home": {
-        "rank": "1",
+        "rank": "2",
         "wins": "5",
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "-",
+        "gamesBehind": "1",
         "pointsFor": "23",
         "pointsAgainst": "13"
       },
@@ -3509,7 +3509,7 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
+        "gamesBehind": "3",
         "pointsFor": "16",
         "pointsAgainst": "12"
       }
@@ -3583,12 +3583,12 @@
       "home": {
         "rank": "16",
         "wins": "0",
-        "losses": "4",
+        "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
-        "pointsFor": "7",
-        "pointsAgainst": "24"
+        "gamesBehind": "9",
+        "pointsFor": "8",
+        "pointsAgainst": "28"
       },
       "away": {
         "rank": "4",
@@ -3654,14 +3654,14 @@
     },
     "standings": {
       "home": {
-        "rank": "2",
-        "wins": "4",
+        "rank": "1",
+        "wins": "5",
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "23",
-        "pointsAgainst": "16"
+        "gamesBehind": "-",
+        "pointsFor": "27",
+        "pointsAgainst": "17"
       },
       "away": {
         "rank": "8",
@@ -3669,7 +3669,7 @@
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "5",
         "pointsFor": "17",
         "pointsAgainst": "14"
       }
@@ -3761,7 +3761,7 @@
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
+        "gamesBehind": "6",
         "pointsFor": "15",
         "pointsAgainst": "19"
       },
@@ -3771,7 +3771,7 @@
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
+        "gamesBehind": "7",
         "pointsFor": "11",
         "pointsAgainst": "19"
       }
@@ -3813,7 +3813,7 @@
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
+        "gamesBehind": "7",
         "pointsFor": "13",
         "pointsAgainst": "14"
       },
@@ -3823,7 +3823,7 @@
         "losses": "1",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "5",
         "pointsFor": "9",
         "pointsAgainst": "12"
       }
@@ -3886,7 +3886,7 @@
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
+        "gamesBehind": "8",
         "pointsFor": "10",
         "pointsAgainst": "15"
       },
@@ -3896,7 +3896,7 @@
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
+        "gamesBehind": "7",
         "pointsFor": "10",
         "pointsAgainst": "14"
       }
