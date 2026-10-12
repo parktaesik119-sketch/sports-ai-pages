@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.08","home":"뉴욕 양키즈","away":"탬파베이 
 awayRecent: '[{"date":"26.10.11","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261011CWCL0-2026-10-11-cleveland-guardians/"},{"date":"26.10.09","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261009CLCW0-2026-10-09-chicago-white-sox/"},{"date":"26.10.08","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"3-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261008CLCW0-2026-10-08-chicago-white-sox/"},{"date":"26.10.06","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261006CWCL0-2026-10-06-cleveland-guardians/"},{"date":"26.10.04","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004CWCL0-2026-10-04-cleveland-guardians/"}]'
 injuryHome: "Shane McClanahan (Soreness)|Gavin Lux (Inflammation)|Edwin Uceta (Strain)|Jonathan Heasley (Fracture)|Jacob Melton (Strain)"
 injuryAway: "Rhys Hoskins (Inflammation)|Colin Holderman (Surgery)|Andrew Walters (Surgery)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Rasmussen (1-0, 0.00) ERA 0.00|https://a.espncdn.com/i/headshots/mlb/players/full/42584.png\"]"
+awayLineup: "[\"선발투수 F. Griffin (1-0, 3.38) ERA 3.38|https://a.espncdn.com/i/headshots/mlb/players/full/33773.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
