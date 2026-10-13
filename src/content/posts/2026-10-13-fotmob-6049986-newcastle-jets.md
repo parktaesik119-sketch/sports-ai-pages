@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.15","home":"가시마 앤틀러스","away":"뉴캐�
 awayRecent: '[{"date":"26.10.09","home":"가시마 앤틀러스","away":"감바 오사카","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5803602-2026-10-09-kashima-antlers/"},{"date":"26.10.03","home":"가시와 레이솔","away":"감바 오사카","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6013162-2026-10-03-kashiwa-reysol/"},{"date":"26.09.23","home":"감바 오사카","away":"도쿠시마 보르티스","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6097138-2026-09-23-gamba-osaka/"},{"date":"26.09.20","home":"감바 오사카","away":"비셀 고베","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5803590-2026-09-20-gamba-osaka/"},{"date":"26.09.15","home":"감바 오사카","away":"꽁안 하노이 FC","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6049977-2026-09-15-gamba-osaka/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"James Delianov (GK)|https://images.fotmob.com/image_resources/playerimages/1012192.png\",\"Daniel Wilmering (DF)|https://images.fotmob.com/image_resources/playerimages/1031032.png\",\"Joe Shaughnessy (DF)|https://images.fotmob.com/image_resources/playerimages/189927.png\",\"Joel Bertolissio (DF)|https://images.fotmob.com/image_resources/playerimages/1437063.png\",\"Thomas Aquilina (DF)|https://images.fotmob.com/image_resources/playerimages/1220079.png\",\"Max Burgess (MF)|https://images.fotmob.com/image_resources/playerimages/590367.png\",\"Will Dobson (MF)|https://images.fotmob.com/image_resources/playerimages/1688565.png\",\"Zane Schreiber (MF)|https://images.fotmob.com/image_resources/playerimages/1543679.png\",\"Nikolaos Vergos (FW)|https://images.fotmob.com/image_resources/playerimages/521755.png\",\"Xavier Bertoncello (FW)|https://images.fotmob.com/image_resources/playerimages/1799002.png\",\"Zach Clough (FW)|https://images.fotmob.com/image_resources/playerimages/568580.png\"]"
+awayLineup: "[\"Jun Ichimori (GK)|https://images.fotmob.com/image_resources/playerimages/728441.png\",\"Shinnosuke Nakatani (DF)|https://images.fotmob.com/image_resources/playerimages/511758.png\",\"Shinya Nakano (DF)|https://images.fotmob.com/image_resources/playerimages/1172705.png\",\"Shota Fukuoka (DF)|https://images.fotmob.com/image_resources/playerimages/924121.png\",\"Takeru Kishimoto (DF)|https://images.fotmob.com/image_resources/playerimages/735816.png\",\"Issam Jebali (MF)|https://images.fotmob.com/image_resources/playerimages/615767.png\",\"Shuto Abe (MF)|https://images.fotmob.com/image_resources/playerimages/1061133.png\",\"Tokuma Suzuki (MF)|https://images.fotmob.com/image_resources/playerimages/1010266.png\",\"Eli Adams (FW)|https://images.fotmob.com/image_resources/playerimages/1261617.png\",\"Ryotaro Meshino (FW)|https://images.fotmob.com/image_resources/playerimages/824619.png\",\"Yusei Toshida (FW)|https://images.fotmob.com/image_resources/playerimages/1337816.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Mark Milligan|https://images.fotmob.com/image_resources/playerimages/31054.png"
+awayCoach: "Tomokazu Myojin|https://images.fotmob.com/image_resources/playerimages/29192.png"
 pickWinTeam: "감바 오사카"
 pickWinResult: "승"
 pickHandicapTeam: "감바 오사카"
