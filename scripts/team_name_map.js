@@ -1871,6 +1871,9 @@ const TEAM_NAME_MAP = {
   //말레이시아
   "Johor Darul Ta'zim": "조호르 FC",
 
+  //캄보디아
+  "Phnom Penh": "프놈펜 FC",
+
   //스위스
   "Lausanne": "로잔 스포르",
   "Grasshoppers": "그라스호퍼",
