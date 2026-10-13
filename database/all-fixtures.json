@@ -981859,8 +981859,8 @@
     "away": "Sochi",
     "homeLogo": "https://highlightly.net/hockey/images/teams/314803.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/328419.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "panda-1743339",
@@ -982857,8 +982857,8 @@
     "away": "Ottawa Senators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/587974.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/590527.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "panda-1691728",
@@ -982882,8 +982882,8 @@
     "away": "Cruzeiro",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/109705.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9781.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5190759",
@@ -982895,8 +982895,8 @@
     "away": "Ceará",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8355.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/172341.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "naver-mlb-20261013CLTB0",
@@ -982908,8 +982908,8 @@
     "away": "Cleveland Guardians",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TB.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CL.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 7
   },
   {
     "id": "highlightly-hockey-378428570",
@@ -982921,8 +982921,8 @@
     "away": "Vegas Golden Knights",
     "homeLogo": "https://highlightly.net/hockey/images/teams/585421.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/598186.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5954357",
@@ -982941,13 +982941,13 @@
     "id": "panda-1694371",
     "sport": "lol",
     "league": "Demacia Cup Global Invitational",
-    "date": "2026-10-13T06:00:00Z",
+    "date": "2026-10-13T06:06:37Z",
     "home": "Team WE",
     "away": "FlyQuest",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/311/fly_questlogo_square.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6049986",
@@ -983329,6 +983329,19 @@
     "away": "FKM Nové Zámky",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/559150.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/580278.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6431118",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup",
+    "date": "2026-10-13T13:00:00.000Z",
+    "home": "Spartak Kostroma",
+    "away": "FC Chelyabinsk",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5786.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/176296.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -985763,6 +985776,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6431119",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup",
+    "date": "2026-10-14T08:30:00.000Z",
+    "home": "SKA-Khabarovsk",
+    "away": "Dinamo Kirov",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49700.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/198149.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-1000021113",
     "sport": "soccer",
     "country": "International",
@@ -986123,6 +986149,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6431120",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup",
+    "date": "2026-10-14T11:00:00.000Z",
+    "home": "Volna Nizhny Novgorod",
+    "away": "Dynamo Saint Petersburg",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1173358.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1275957.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-5908661",
     "sport": "soccer",
     "country": "Turkey",
@@ -986145,6 +986184,19 @@
     "away": "Nakhon Pathom",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1513932.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165252.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6431121",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup",
+    "date": "2026-10-14T11:30:00.000Z",
+    "home": "FC Yenisey Krasnoyarsk",
+    "away": "Kaluga",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/88584.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/198158.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -986249,6 +986301,19 @@
     "away": "VfB Stuttgart U19",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/559151.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/665291.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6431122",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup",
+    "date": "2026-10-14T12:00:00.000Z",
+    "home": "Leningradets",
+    "away": "Luki-Energiya",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/948912.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/859608.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -986591,6 +986656,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6431123",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup",
+    "date": "2026-10-14T14:00:00.000Z",
+    "home": "Volga Ulyanovsk",
+    "away": "Murom",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/113055.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/859592.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-1000018613",
     "sport": "soccer",
     "country": "Qatar",
@@ -986850,6 +986928,19 @@
     "awayScore": 0
   },
   {
+    "id": "fotmob-6431124",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Chertanovo Moscow",
+    "away": "Tekstilshchik",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/555673.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49705.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "highlightly-hockey-366403089",
     "sport": "hockey",
     "country": "Russia",
@@ -986859,6 +986950,19 @@
     "away": "Magnitogorsk",
     "homeLogo": "https://highlightly.net/hockey/images/teams/14400.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/1266221.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6431125",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup",
+    "date": "2026-10-14T16:15:00.000Z",
+    "home": "Volna Nizhny Novgorod",
+    "away": "Shinnik Yaroslavl",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1173358.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8712.png",
     "homeScore": null,
     "awayScore": null
   },
