@@ -1,0 +1,37 @@
+---
+title: "소프트뱅크 호크스 vs 니혼햄 파이터즈 야구분석·승부예측 (10월 14일) - 픽천국"
+date: 2026-10-14T09:00:00.000Z
+description: "소프트뱅크 호크스 vs 니혼햄 파이터즈 야구분석: 소프트뱅크 호크스는 높은 승률과 함께 투타 조화가 완벽에 가까운 전력을 보여주며 이번 경기에서도 확실한 우위를 점할 것으로 보… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20261014NHSF0-2026-10-14-fukuoka-s-hawks"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "소프트뱅크 호크스"
+awayTeam: "니혼햄 파이터즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/SF.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/NH.png"
+homeAnalysis: "소프트뱅크 호크스는 앞선 118경기에서 78승 37패로 승률 66%를 기록했고 안정적인 투타 밸런스를 바탕으로 리그 상위권 전력을 유지하고 있습니다. 최근 10경기에서 7승 3패를 거두며 높은 승률을 지속하고 있으나 직전 2경기에서는 다소 주춤한 모습을 보였습니다. 홈에서의 강력한 마운드 운영은 여전히 팀의 핵심이며 상대 타선을 최소 실점으로 억제하는 능력이 돋보입니다. 타선 또한 득점 찬스에서 높은 집중력을 발휘하며 경기를 주도하는 흐름이 자주 연출됩니다. 전반적으로 투수진의 안정감이 승리 공식을 뒷받침하고 있어 이번 경기에서도 홈 이점을 살린 탄탄한 운영이 기대됩니다."
+awayAnalysis: "니혼햄 파이터즈는 앞선 119경기에서 66승 50패로 승률 55%를 기록했고 기복 있는 흐름 속에서도 최근 10경기 6승 4패로 준수한 성적을 유지하고 있습니다. 최근 원정 경기에서 연승을 기록하는 등 집중력 있는 모습을 보여주며 투수진이 안정감을 되찾아가는 과정에 있습니다. 다만 상위권 팀을 상대로는 득점 지원이 원활하지 않을 때 고전하는 경향이 나타나고 있습니다. 타선의 장타력보다는 연결 중심의 야구로 점수를 쌓아가는 전략을 취하고 있어 하위 타선에서의 활약 여부가 변수가 될 것입니다. 객관적인 전력에서 소프트뱅크 호크스에 밀리는 양상이나 최근의 상승세를 얼마나 이어갈지가 관건입니다."
+homePower: "투수진의 짠물 수비가 리그 최상위권 수준으로 검증됨|최근 10경기 평균 5.8득점으로 화력 분출이 원활함|홈 경기에서 상대 타선을 억제하는 능력이 탁월함|찬스 상황에서 득점권 집중력이 승리를 견인함|상대와의 최근 맞대결에서 우위를 점한 심리적 자신감"
+awayPower: "원정 경기에서 수비 안정감을 바탕으로 실점을 최소화함|최근 투수 교체 타이밍의 적절함이 승리에 기여함|장타보다는 출루를 통한 득점 창출에 특화됨|상위 팀과의 맞대결에서 득점력 빈곤이 아쉬움으로 남음|상대 에이스급 투수 공략 시 경기 흐름 반전 가능성"
+h2h: '[{"date":"26.09.10","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260910NHSF0-2026-09-10-fukuoka-s-hawks/"},{"date":"26.09.09","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"5-4","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260909NHSF0-2026-09-09-fukuoka-s-hawks/"},{"date":"26.09.08","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"14-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260908NHSF0-2026-09-08-fukuoka-s-hawks/"},{"date":"26.09.02","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"1-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260902SFNH0-2026-09-02-nippon-ham-fighters/"},{"date":"26.09.01","home":"니혼햄 파이터즈","away":"소프트뱅크 호크스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260901SFNH0-2026-09-01-nippon-ham-fighters/"}]'
+summary: "소프트뱅크 호크스는 높은 승률과 함께 투타 조화가 완벽에 가까운 전력을 보여주며 이번 경기에서도 확실한 우위를 점할 것으로 보입니다. 니혼햄 파이터즈가 최근 상승세를 타고 있으나 상대전적에서 소프트뱅크 호크스가 다수 승리를 챙기며 우위를 보이고 있다는 점이 이번 승부의 핵심입니다. 소프트뱅크 호크스는 안방에서의 견고한 수비력과 득점 생산 능력을 바탕으로 경기를 주도할 가능성이 높으며 니혼햄 파이터즈의 추격을 효과적으로 뿌리칠 것으로 예측됩니다."
+homeRecent: '[{"date":"26.10.05","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261005SFRT0-2026-10-05-rakuten-gold-eagles/"},{"date":"26.10.03","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261003SFJL0-2026-10-03-chiba-lotte-marines/"},{"date":"26.10.02","home":"지바 롯데 마린스","away":"소프트뱅크 호크스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261002SFJL0-2026-10-02-chiba-lotte-marines/"},{"date":"26.10.01","home":"라쿠텐 골든이글스","away":"소프트뱅크 호크스","score":"2-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001SFRT0-2026-10-01-rakuten-gold-eagles/"},{"date":"26.09.27","home":"소프트뱅크 호크스","away":"오릭스 버팔로스","score":"12-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260927OXSF0-2026-09-27-fukuoka-s-hawks/"}]'
+awayRecent: '[{"date":"26.10.12","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261012NHSE0-2026-10-12-seibu-lions/"},{"date":"26.10.11","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261011NHSE0-2026-10-11-seibu-lions/"},{"date":"26.10.10","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261010NHSE0-2026-10-10-seibu-lions/"},{"date":"26.10.01","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001NHJL0-2026-10-01-chiba-lotte-marines/"},{"date":"26.09.28","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928NHJL0-2026-09-28-chiba-lotte-marines/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "소프트뱅크 호크스"
+pickWinResult: "승"
+pickHandicapTeam: "소프트뱅크 호크스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "8.5"
+pickOuDirection: "오버"
+---

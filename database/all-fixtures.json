@@ -981059,8 +981059,8 @@
     "away": "Nippon Ham Fighters",
     "homeLogo": "https://sports-phinf.pstatic.net/team/npb/default/SE.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/NH.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "naver-npb-20261012YKYO0",
@@ -981084,20 +981084,8 @@
     "away": "Team Vitality",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 2
-  },
-  {
-    "id": "panda-1694369",
-    "sport": "lol",
-    "league": "Demacia Cup Global Invitational",
-    "date": "2026-10-12T09:00:00Z",
-    "home": "BNK FEARX",
-    "away": "JD Gaming",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png",
-    "homeScore": 0,
-    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-366397983",
@@ -981109,8 +981097,8 @@
     "away": "Lada",
     "homeLogo": "https://highlightly.net/hockey/images/teams/1265370.png",
     "awayLogo": null,
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "naver-kbo-20261012KTSS02026",
@@ -981122,8 +981110,8 @@
     "away": "KT Wiz Suwon",
     "homeLogo": "https://sports-phinf.pstatic.net/team/kbo/default/SS.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/kbo/default/KT.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 4
   },
   {
     "id": "naver-kbo-20261012LGHT02026",
@@ -981135,8 +981123,8 @@
     "away": "LG Twins",
     "homeLogo": "https://sports-phinf.pstatic.net/team/kbo/default/HT.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/kbo/default/LG.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "naver-kbo-20261012LTOB02026",
@@ -981148,21 +981136,8 @@
     "away": "Lotte Giants",
     "homeLogo": "https://sports-phinf.pstatic.net/team/kbo/default/OB.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/kbo/default/LT.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5909173",
-    "sport": "soccer",
-    "country": "Ukraine",
-    "league": "Premier League",
-    "date": "2026-10-12T10:00:00.000Z",
-    "home": "Liviy Bereh",
-    "away": "Zorya",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1507991.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7770.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 7
   },
   {
     "id": "naver-kbl-202610121016490118",
@@ -981174,8 +981149,8 @@
     "away": "Wonju DB",
     "homeLogo": "https://sports-phinf.pstatic.net/team/kbl/default/10.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/kbl/default/16.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 99,
+    "awayScore": 89
   },
   {
     "id": "naver-wkovo-20261012824F3",
@@ -981187,8 +981162,20 @@
     "away": "Korea Expressway Hi-pass W",
     "homeLogo": "https://sports-phinf.pstatic.net/team/wkovo/default/2005.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/wkovo/default/2002.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
+  },
+  {
+    "id": "panda-1694369",
+    "sport": "lol",
+    "league": "Demacia Cup Global Invitational",
+    "date": "2026-10-12T10:32:43Z",
+    "home": "BNK FEARX",
+    "away": "JD Gaming",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "flashscore-cpbl-KGUu2s36",
@@ -981204,6 +981191,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-5909173",
+    "sport": "soccer",
+    "country": "Ukraine",
+    "league": "Premier League",
+    "date": "2026-10-12T10:50:00.000Z",
+    "home": "Liviy Bereh",
+    "away": "Zorya",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1507991.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7770.png",
+    "homeScore": 1,
+    "awayScore": 3
+  },
+  {
     "id": "fotmob-6293230",
     "sport": "soccer",
     "country": "Iran",
@@ -981213,8 +981213,8 @@
     "away": "Mes Rafsanjan",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101622.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/394620.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5973200",
@@ -981226,8 +981226,8 @@
     "away": "Balestier Khalsa FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/67383.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/67378.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-366396281",
@@ -981239,8 +981239,8 @@
     "away": "Nizhnekamsk",
     "homeLogo": "https://highlightly.net/hockey/images/teams/326717.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/324164.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "fotmob-6140226",
@@ -981252,8 +981252,8 @@
     "away": "PAOK Thessaloniki B",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8170.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1303118.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5868491",
@@ -981265,8 +981265,8 @@
     "away": "Albacete",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10281.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8393.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5972978",
@@ -981278,8 +981278,8 @@
     "away": "Shirak",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6569.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2211.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "panda-1735948",
@@ -981301,20 +981301,20 @@
     "away": "Zakynthos APS",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/149647.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162388.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "panda-1735948",
     "sport": "lol",
     "league": "LCP",
-    "date": "2026-10-12T12:00:00Z",
+    "date": "2026-10-12T12:14:07Z",
     "home": "West Point Esports PH",
     "away": "essences",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/129934/west_point_esportslogo_square.png",
     "awayLogo": null,
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "fotmob-6293231",
@@ -981326,8 +981326,8 @@
     "away": "Niroye Zamini",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1528916.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/396142.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5804945",
@@ -981339,8 +981339,8 @@
     "away": "FK Struga",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1523811.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/866489.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6293232",
@@ -981352,8 +981352,8 @@
     "away": "Beasat Kermanshah",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1431260.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/676588.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6293233",
@@ -981365,8 +981365,8 @@
     "away": "Qeshm Island",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101615.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1602400.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6050072",
@@ -981378,8 +981378,8 @@
     "away": "Al Qadsiah",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102141.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101919.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6361994",
@@ -981391,8 +981391,8 @@
     "away": "Mohun Bagan SG",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/578656.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/578651.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5989843",
@@ -981404,8 +981404,8 @@
     "away": "CR Bélouizdad",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2121859.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101633.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5989842",
@@ -981417,8 +981417,8 @@
     "away": "CS Constantine",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1387869.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/277392.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5996734",
@@ -981430,8 +981430,8 @@
     "away": "ZED FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101757.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/585662.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5996735",
@@ -981443,8 +981443,8 @@
     "away": "Al Sharkeyah-ENPPI",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/797212.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101754.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5883293",
@@ -981456,8 +981456,8 @@
     "away": "Arenas Getxo",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1753.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/189631.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5868483",
@@ -981469,8 +981469,8 @@
     "away": "Granada",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7876.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6293234",
@@ -981482,8 +981482,8 @@
     "away": "Havadar SC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1675873.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/955322.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6293235",
@@ -981495,8 +981495,8 @@
     "away": "Naft Gachsaran",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/775750.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/490775.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-366398834",
@@ -981508,8 +981508,8 @@
     "away": "Novosibirsk",
     "homeLogo": "https://highlightly.net/hockey/images/teams/315654.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/1267072.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "fotmob-1000018475",
@@ -981521,8 +981521,8 @@
     "away": "Al Anwar",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582816.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1896040.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5972976",
@@ -981534,8 +981534,8 @@
     "away": "BKMA",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6345.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1078402.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5998328",
@@ -981547,8 +981547,8 @@
     "away": "Singida Black Stars",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/287669.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1171766.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5943266",
@@ -981560,8 +981560,8 @@
     "away": "Kalamata",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8619.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1585.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5853515",
@@ -981573,8 +981573,8 @@
     "away": "CFR Cluj",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9732.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9731.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6145879",
@@ -981586,8 +981586,8 @@
     "away": "IF Gnistan",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6597.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2361.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000015727",
@@ -981599,8 +981599,8 @@
     "away": "Baník Ostrava B",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/88657.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1154238.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5162076",
@@ -981612,8 +981612,8 @@
     "away": "Auda",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8016.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2106.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "fotmob-1000018471",
@@ -981625,8 +981625,8 @@
     "away": "Damac FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1523707.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582823.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6145948",
@@ -981638,8 +981638,8 @@
     "away": "FC Jazz",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/616809.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1970.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000007325",
@@ -981651,8 +981651,8 @@
     "away": "San Luis",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4059.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/191607.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5144044",
@@ -981664,8 +981664,8 @@
     "away": "Molde 2",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/46922.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8519.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "fotmob-6050073",
@@ -981677,8 +981677,8 @@
     "away": "Al Ahli",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102111.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2530.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "fotmob-6050074",
@@ -981690,8 +981690,8 @@
     "away": "Al-Shamal",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/176352.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101904.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5975410",
@@ -981703,8 +981703,8 @@
     "away": "Omonia Aradippou",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7797.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/154798.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5804000",
@@ -981716,8 +981716,8 @@
     "away": "Motor Lublin",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5769.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/89466.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5861947",
@@ -981729,8 +981729,8 @@
     "away": "Lechia Gdańsk",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/177362.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8030.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5832593",
@@ -981742,8 +981742,8 @@
     "away": "FC Ashdod",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6280.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6203.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 4
   },
   {
     "id": "fotmob-5832594",
@@ -981755,8 +981755,8 @@
     "away": "Hapoel Raanana",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1177310.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2096.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5832595",
@@ -981768,8 +981768,8 @@
     "away": "Maccabi Kabilio Jaffa",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1831.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/196257.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5144045",
@@ -981781,8 +981781,8 @@
     "away": "Aalesund 2",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2309.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8114.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5144046",
@@ -981794,8 +981794,8 @@
     "away": "Rosenborg 2",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10022.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10257.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5144229",
@@ -981807,8 +981807,8 @@
     "away": "Brann 2",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/46917.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8469.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5144410",
@@ -981820,8 +981820,8 @@
     "away": "Åkra",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4235.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4232.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5144784",
@@ -981833,8 +981833,8 @@
     "away": "Lyn 2",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2292.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4244.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "fotmob-6145880",
@@ -981846,8 +981846,8 @@
     "away": "HJK",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4449.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9861.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-366399685",
@@ -981866,12 +981866,12 @@
     "id": "panda-1743339",
     "sport": "lol",
     "league": "LGC Rising",
-    "date": "2026-10-12T16:00:00Z",
+    "date": "2026-10-12T16:04:10Z",
     "home": "SK Gaming Avarosa",
     "away": "Blue Otter Europe",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137170/175px_sk_gaming_2003_lightmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/137381/blue_otterlogo_square.png",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0
   },
   {
@@ -981884,8 +981884,8 @@
     "away": "Sant Andreu",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10278.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8229.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5749690",
@@ -981897,8 +981897,8 @@
     "away": "Venezia",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7881.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5868489",
@@ -981910,8 +981910,8 @@
     "away": "Eibar",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8670.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8372.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-366397132",
@@ -981923,8 +981923,8 @@
     "away": "Magnitogorsk",
     "homeLogo": "https://highlightly.net/hockey/images/teams/323313.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/1266221.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-366395430",
@@ -981936,8 +981936,8 @@
     "away": "Dinamo Minsk",
     "homeLogo": "https://highlightly.net/hockey/images/teams/320760.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/14400.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "fotmob-6425710",
@@ -981949,8 +981949,8 @@
     "away": "Wembley Rangers",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730336.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730347.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 9,
+    "awayScore": 4
   },
   {
     "id": "fotmob-5105024",
@@ -981962,8 +981962,8 @@
     "away": "Vålerenga",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2305.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8007.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5127965",
@@ -981975,8 +981975,8 @@
     "away": "Tvååkers IF",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6173.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/241285.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5760508",
@@ -981988,8 +981988,8 @@
     "away": "Arda Kardzhali",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/210173.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/944173.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5862709",
@@ -982001,8 +982001,8 @@
     "away": "Resovia",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/177358.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/177360.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5888072",
@@ -982014,8 +982014,8 @@
     "away": "Felgueiras 1932",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/338302.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/474326.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5144786",
@@ -982027,8 +982027,8 @@
     "away": "Råde",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6517.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6110.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5144785",
@@ -982040,8 +982040,8 @@
     "away": "Rælingen",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4204.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4250.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5996736",
@@ -982053,8 +982053,8 @@
     "away": "Ceramica Cleopatra",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/517894.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/608449.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5996737",
@@ -982066,8 +982066,8 @@
     "away": "Ghazl Al Mahalla",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/205189.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101752.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5911913",
@@ -982079,8 +982079,8 @@
     "away": "Lübeck",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/343377.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8663.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5904759",
@@ -982092,8 +982092,8 @@
     "away": "Göztepe",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4681.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "id": "fotmob-5739521",
@@ -982105,8 +982105,8 @@
     "away": "Sønderjyske",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8071.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8487.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5107619",
@@ -982118,8 +982118,8 @@
     "away": "Kalmar FF",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10237.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9892.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5107620",
@@ -982131,8 +982131,8 @@
     "away": "Halmstads BK",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8014.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8310.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000008715",
@@ -982144,8 +982144,8 @@
     "away": "Inter Toronto FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1022955.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1022954.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000018472",
@@ -982157,8 +982157,8 @@
     "away": "Al Taee",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6354.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101917.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378426868",
@@ -982170,8 +982170,8 @@
     "away": "Florida Panthers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/574358.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/582868.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5998329",
@@ -982196,21 +982196,21 @@
     "away": "Maccabi Haifa",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/459591.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10185.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "fotmob-6425711",
     "sport": "soccer",
     "country": "England",
     "league": "Baller League",
-    "date": "2026-10-12T17:30:00.000Z",
+    "date": "2026-10-12T17:35:00.000Z",
     "home": "VZN FC",
     "away": "RTG FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730346.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2357166.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 4
   },
   {
     "id": "fotmob-5922787",
@@ -982222,8 +982222,20 @@
     "away": "Soroksár SC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1482697.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/559777.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
+  },
+  {
+    "id": "panda-1743337",
+    "sport": "lol",
+    "league": "LGC Rising",
+    "date": "2026-10-12T17:48:33Z",
+    "home": "G2 HEL",
+    "away": "AZ Rising Eterna",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137372/600px_g2_esports_2020_lightmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/139017/ezgif_4609a8b13c09c0a2.png",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6416819",
@@ -982248,8 +982260,8 @@
     "away": "Dock Sud",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/213532.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/581802.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5114099",
@@ -982261,8 +982273,8 @@
     "away": "Real Pilar",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/425968.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1018433.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5853519",
@@ -982274,8 +982286,8 @@
     "away": "Rapid București",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/89022.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9738.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "fotmob-1000007326",
@@ -982287,8 +982299,8 @@
     "away": "Unión San Felipe",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4057.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4061.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000015147",
@@ -982300,8 +982312,8 @@
     "away": "OFK Beograd",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1739.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8692.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6050076",
@@ -982313,8 +982325,8 @@
     "away": "Neftchi Fargona",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102145.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6050077",
@@ -982326,8 +982338,8 @@
     "away": "Al-Ain",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101656.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102117.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "fotmob-6050075",
@@ -982339,8 +982351,8 @@
     "away": "Esteghlal",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101897.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101614.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5803932",
@@ -982352,8 +982364,8 @@
     "away": "Wieczysta Kraków",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4023.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1286895.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5883295",
@@ -982365,8 +982377,8 @@
     "away": "Logroñés",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8206.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7880.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5990891",
@@ -982378,8 +982390,8 @@
     "away": "Guidonia Montecelio",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9878.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1667898.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5991471",
@@ -982391,8 +982403,8 @@
     "away": "Cosenza",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/674807.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6456.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5991466",
@@ -982404,21 +982416,21 @@
     "away": "Cavese",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/145014.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6063.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6425712",
     "sport": "soccer",
     "country": "England",
     "league": "Baller League",
-    "date": "2026-10-12T18:30:00.000Z",
+    "date": "2026-10-12T18:40:00.000Z",
     "home": "SDS FC",
     "away": "N5 FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730344.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730342.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5749699",
@@ -982430,8 +982442,8 @@
     "away": "Udinese",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5948079",
@@ -982443,8 +982455,8 @@
     "away": "Enfield Town",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/161809.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/282365.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5803273",
@@ -982456,8 +982468,8 @@
     "away": "Metz",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9836.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5795468",
@@ -982469,8 +982481,8 @@
     "away": "Newcastle United",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8669.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5868085",
@@ -982482,8 +982494,8 @@
     "away": "Sevilla",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8581.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5868490",
@@ -982495,8 +982507,8 @@
     "away": "Girona",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9867.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5100960",
@@ -982508,8 +982520,8 @@
     "away": "Bohemian FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4131.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4594.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000019560",
@@ -982521,8 +982533,8 @@
     "away": "Vélez Sarsfield",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10082.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10079.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000019062",
@@ -982534,8 +982546,8 @@
     "away": "Guabirá",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1504770.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/114830.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5103661",
@@ -982547,8 +982559,8 @@
     "away": "Botafogo",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9767.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8517.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5190763",
@@ -982560,8 +982572,8 @@
     "away": "CRB",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8287.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/104821.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5887649",
@@ -982573,21 +982585,8 @@
     "away": "Alverca",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1634.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9780.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6425713",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Baller League",
-    "date": "2026-10-12T19:25:00.000Z",
-    "home": "NDL FC",
-    "away": "P17 FC",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730345.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2357165.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "fotmob-6055109",
@@ -982599,20 +982598,21 @@
     "away": "Denmark (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/74873.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5818.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
-    "id": "panda-1743337",
-    "sport": "lol",
-    "league": "LGC Rising",
-    "date": "2026-10-12T19:30:00Z",
-    "home": "G2 HEL",
-    "away": "AZ Rising Eterna",
-    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/137372/600px_g2_esports_2020_lightmode.png",
-    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/139017/ezgif_4609a8b13c09c0a2.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "id": "fotmob-6425713",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-10-12T19:40:00.000Z",
+    "home": "NDL FC",
+    "away": "P17 FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730345.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2357165.png",
+    "homeScore": 4,
+    "awayScore": 6
   },
   {
     "id": "fotmob-6408790",
@@ -982624,8 +982624,8 @@
     "away": "FAR Rabat",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5113497",
@@ -982637,8 +982637,8 @@
     "away": "Los Andes",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/213592.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10097.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000008716",
@@ -982650,8 +982650,8 @@
     "away": "Cavalry FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1022948.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1022952.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000013236",
@@ -982663,21 +982663,21 @@
     "away": "Ñublense",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6310.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49559.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 0
   },
   {
-    "id": "fotmob-6425714",
+    "id": "fotmob-1000017434",
     "sport": "soccer",
-    "country": "England",
-    "league": "Baller League",
-    "date": "2026-10-12T20:20:00.000Z",
-    "home": "Toma",
-    "away": "Gold Devils",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2357167.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1926480.png",
-    "homeScore": null,
-    "awayScore": null
+    "country": "Paraguay",
+    "league": "Division Profesional",
+    "date": "2026-10-12T20:00:00.000Z",
+    "home": "2 de Mayo",
+    "away": "Sportivo Ameliano",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49688.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1242560.png",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000007327",
@@ -982689,8 +982689,8 @@
     "away": "Unión Española",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162904.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7843.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000013683",
@@ -982702,8 +982702,21 @@
     "away": "Boca Juniors de Cali",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/721594.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193023.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
+  },
+  {
+    "id": "fotmob-6425714",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-10-12T20:40:00.000Z",
+    "home": "Toma",
+    "away": "Gold Devils",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2357167.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1926480.png",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "naver-mlb-20261013LAMI0",
@@ -982715,20 +982728,20 @@
     "away": "Los Angeles Dodgers",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/MI.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/LA.png",
-    "homeScore": 2,
-    "awayScore": 1
+    "homeScore": 7,
+    "awayScore": 4
   },
   {
     "id": "panda-1691683",
     "sport": "lol",
     "league": "CBLOL",
-    "date": "2026-10-12T21:00:00Z",
+    "date": "2026-10-12T21:03:51Z",
     "home": "LOS",
     "away": "KaBuM! Ilha das Lendas",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/136646/800px_ka_bu_m__esports_2022_12_allmode.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000019063",
@@ -982740,21 +982753,21 @@
     "away": "Independiente Petrolero",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/805913.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/958325.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6425715",
     "sport": "soccer",
     "country": "England",
     "league": "Baller League",
-    "date": "2026-10-12T21:15:00.000Z",
+    "date": "2026-10-12T21:30:00.000Z",
     "home": "Prime FC",
     "away": "Clutch FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1926481.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1823637.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 5
   },
   {
     "id": "fotmob-1000019561",
@@ -982766,21 +982779,8 @@
     "away": "Newell's Old Boys",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/568727.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10201.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5113489",
-    "sport": "soccer",
-    "country": "Argentina",
-    "league": "Primera Nacional",
-    "date": "2026-10-12T22:00:00.000Z",
-    "home": "All Boys",
-    "away": "Godoy Cruz",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/161732.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10227.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5190760",
@@ -982792,8 +982792,8 @@
     "away": "Ponte Preta",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/581838.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8630.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000017432",
@@ -982805,8 +982805,21 @@
     "away": "Recoleta",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49689.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1427854.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
+  },
+  {
+    "id": "fotmob-5113489",
+    "sport": "soccer",
+    "country": "Argentina",
+    "league": "Primera Nacional",
+    "date": "2026-10-12T22:30:00.000Z",
+    "home": "All Boys",
+    "away": "Godoy Cruz",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/161732.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10227.png",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5103663",
@@ -982818,8 +982831,8 @@
     "away": "Athletico Paranaense",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/197693.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10273.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "fotmob-5190765",
@@ -982831,8 +982844,8 @@
     "away": "América-MG",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7729.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1757.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-378427719",
@@ -982851,13 +982864,13 @@
     "id": "panda-1691728",
     "sport": "lol",
     "league": "LCS",
-    "date": "2026-10-12T23:00:00Z",
+    "date": "2026-10-12T23:02:36Z",
     "home": "Maryville University",
     "away": "Disguised",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/130635/maryville_universitylogo_square.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/133267/disguisedlogo_square.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 3
   },
   {
     "id": "fotmob-5103658",
@@ -983174,6 +983187,18 @@
     "home": "Nothin'Here",
     "away": "TBD",
     "homeLogo": null,
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "panda-1735949",
+    "sport": "lol",
+    "league": "LCP",
+    "date": "2026-10-13T12:00:00Z",
+    "home": "Nothin'Here",
+    "away": "essences",
+    "homeLogo": null,
+    "awayLogo": null,
     "homeScore": 0,
     "awayScore": 0
   },
@@ -984317,6 +984342,19 @@
     "away": "Birmingham U21",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/177067.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1796111.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5956695",
+    "sport": "soccer",
+    "country": "Netherlands",
+    "league": "Tweede Divisie",
+    "date": "2026-10-13T18:00:00.000Z",
+    "home": "IJsselmeervogels",
+    "away": "GVVV Veenendaal",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2153.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/150980.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -985556,6 +985594,45 @@
     "awayScore": null
   },
   {
+    "id": "naver-mlb-20261014CLTB0",
+    "sport": "baseball",
+    "country": "USA",
+    "league": "MLB",
+    "date": "2026-10-14T00:00:00.000Z",
+    "home": "Tampa Bay Rays",
+    "away": "Cleveland Guardians",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TB.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CL.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378436229",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T00:00:00.000Z",
+    "home": "Chicago Blackhawks",
+    "away": "Pittsburgh Penguins",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/577762.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/593080.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378437080",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T00:15:00.000Z",
+    "home": "Winnipeg Jets",
+    "away": "Minnesota Wild",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/599888.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/585421.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-1000021775",
     "sport": "soccer",
     "country": "International",
@@ -985565,6 +985642,45 @@
     "away": "Vasco da Gama",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10077.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10276.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378437931",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T00:30:00.000Z",
+    "home": "Dallas Stars",
+    "away": "Colorado Avalanche",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/580315.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/578613.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378438782",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T00:45:00.000Z",
+    "home": "Nashville Predators",
+    "away": "Vegas Golden Knights",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/587123.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/598186.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378439633",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T01:00:00.000Z",
+    "home": "Utah Mammoth",
+    "away": "Toronto Maple Leafs",
+    "homeLogo": null,
+    "awayLogo": "https://highlightly.net/hockey/images/teams/596484.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -985582,6 +985698,19 @@
     "awayScore": null
   },
   {
+    "id": "highlightly-hockey-378440484",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T01:45:00.000Z",
+    "home": "Anaheim Ducks",
+    "away": "Calgary Flames",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/570954.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/575209.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-5833805",
     "sport": "soccer",
     "country": "Costa Rica",
@@ -985591,6 +985720,32 @@
     "away": "Inter San Carlos",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49728.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/210656.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378441335",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T02:30:00.000Z",
+    "home": "Los Angeles Kings",
+    "away": "Edmonton Oilers",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/583719.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/582017.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378442186",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T03:00:00.000Z",
+    "home": "San Jose Sharks",
+    "away": "Boston Bruins",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/593931.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/573507.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -985631,6 +985786,57 @@
     "awayScore": 0
   },
   {
+    "id": "naver-npb-20261014NHSF0",
+    "sport": "baseball",
+    "country": "Japan",
+    "league": "NPB",
+    "date": "2026-10-14T09:00:00.000Z",
+    "home": "Fukuoka S. Hawks",
+    "away": "Nippon Ham Fighters",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/npb/default/SF.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/NH.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "naver-npb-20261014YKHS0",
+    "sport": "baseball",
+    "country": "Japan",
+    "league": "NPB",
+    "date": "2026-10-14T09:00:00.000Z",
+    "home": "Hanshin Tigers",
+    "away": "Yokohama BayStars",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/npb/default/HS.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/npb/default/YK.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-366403940",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-10-14T09:00:00.000Z",
+    "home": "Khabarovsk",
+    "away": "Spartak Moscow",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/1265370.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/329270.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "panda-1694373",
+    "sport": "lol",
+    "league": "Demacia Cup Global Invitational",
+    "date": "2026-10-14T09:00:00Z",
+    "home": "BNK FEARX",
+    "away": "KT Rolster",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
     "id": "fotmob-6362347",
     "sport": "soccer",
     "country": "Japan",
@@ -985640,6 +985846,19 @@
     "away": "Urawa Red Diamonds",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49615.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6244.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "naver-kbo-44441014OBLG02026",
+    "sport": "baseball",
+    "country": "South Korea",
+    "league": "KBO",
+    "date": "2026-10-14T09:30:00.000Z",
+    "home": "LG Twins",
+    "away": "Doosan Bears",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/kbo/default/LG.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/kbo/default/OB.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -986255,6 +986474,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-1000007975",
+    "sport": "soccer",
+    "country": "Estonia",
+    "league": "Premium liiga",
+    "date": "2026-10-14T13:00:00.000Z",
+    "home": "Narva Trans",
+    "away": "FC Kuressaare",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2252.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4146.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-5851892",
     "sport": "soccer",
     "country": "Russia",
@@ -986346,6 +986578,19 @@
     "awayScore": null
   },
   {
+    "id": "highlightly-hockey-366405642",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-10-14T14:00:00.000Z",
+    "home": "Salavat Ufa",
+    "away": "Novosibirsk",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/326717.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/1267072.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-1000018613",
     "sport": "soccer",
     "country": "Qatar",
@@ -986359,6 +986604,19 @@
     "awayScore": null
   },
   {
+    "id": "highlightly-hockey-366401387",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-10-14T14:30:00.000Z",
+    "home": "Barys Astana",
+    "away": "Yekaterinburg",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/315654.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/330972.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-1000018470",
     "sport": "soccer",
     "country": "Saudi Arabia",
@@ -986368,6 +986626,1536 @@
     "away": "Al-Orobah FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/272869.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/463259.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6384114",
+    "sport": "soccer",
+    "country": "Cyprus",
+    "league": "Cup",
+    "date": "2026-10-14T15:00:00.000Z",
+    "home": "Spartakos Kitiou",
+    "away": "Krasava Ypsonas FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1664990.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1075325.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5922737",
+    "sport": "soccer",
+    "country": "Hungary",
+    "league": "NB II",
+    "date": "2026-10-14T15:00:00.000Z",
+    "home": "Mezőkövesd SE",
+    "away": "FC Ajka",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/187020.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188173.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000021415",
+    "sport": "soccer",
+    "country": "International",
+    "league": "UEFA Youth League - 1st Round",
+    "date": "2026-10-14T15:00:00.000Z",
+    "home": "SK Super Nova U19",
+    "away": "Cliftonville U19",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2182992.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1677372.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5851921",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup Grp. B",
+    "date": "2026-10-14T15:30:00.000Z",
+    "home": "FK Akhmat",
+    "away": "Dinamo Moscow",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8708.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9763.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5851891",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup Grp. C",
+    "date": "2026-10-14T15:30:00.000Z",
+    "home": "Dynamo Makhachkala",
+    "away": "Zenit St. Petersburg",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1068353.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8698.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000018474",
+    "sport": "soccer",
+    "country": "Saudi Arabia",
+    "league": "Saudi First Division",
+    "date": "2026-10-14T15:30:00.000Z",
+    "home": "Al-Jandal",
+    "away": "Al Akhdoud",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1652183.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582759.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5831149",
+    "sport": "soccer",
+    "country": "Czech Republic",
+    "league": "1. Liga",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Bohemians 1905",
+    "away": "Mladá Boleslav",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1670.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10180.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6384113",
+    "sport": "soccer",
+    "country": "Cyprus",
+    "league": "Cup",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Aris Limassol",
+    "away": "Ethnikos Achnas",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2136.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8334.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5143821",
+    "sport": "soccer",
+    "country": "Norway",
+    "league": "3. Divisjon Avd. 1",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Asker",
+    "away": "Frigg",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6540.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4621.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5215472",
+    "sport": "soccer",
+    "country": "Belarus",
+    "league": "Premier League",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "BATE Borisov",
+    "away": "Neman Grodno",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10063.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10061.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054375",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - A",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Kuwait SC",
+    "away": "Al Khalidiyah",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101713.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1288463.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054592",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - B",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Al-Jazira",
+    "away": "Arkadag",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102101.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1689659.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054593",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - B",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Muharraq",
+    "away": "Gol Gohar",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101598.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/389880.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054495",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - C",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Al-Taawoun",
+    "away": "Al-Rayyan",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/205686.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101898.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000007974",
+    "sport": "soccer",
+    "country": "Estonia",
+    "league": "Premium liiga",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Paide Linnameeskond",
+    "away": "Tammeka",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/163540.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4147.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000021414",
+    "sport": "soccer",
+    "country": "International",
+    "league": "UEFA Youth League - 1st Round",
+    "date": "2026-10-14T16:00:00.000Z",
+    "home": "Žalgiris Vilnius U19",
+    "away": "Thor Akureyri U19",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1292719.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2182989.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "panda-1698607",
+    "sport": "lol",
+    "league": "EMEA Masters",
+    "date": "2026-10-14T16:00:00Z",
+    "home": "Anubis Gaming",
+    "away": "Solary",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/131053/anubis_gaminglogo_profile.png",
+    "awayLogo": "https://cdn-api.pandascore.co/images/team/image/1449/123px_solarylogo_square.png",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "highlightly-hockey-366403089",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-10-14T16:10:00.000Z",
+    "home": "Dinamo Minsk",
+    "away": "Magnitogorsk",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/14400.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/1266221.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-366406493",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-10-14T16:30:00.000Z",
+    "home": "Kunlun",
+    "away": "Tractor Chelyabinsk",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/320760.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/330121.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-366402238",
+    "sport": "hockey",
+    "country": "Russia",
+    "league": "KHL",
+    "date": "2026-10-14T16:30:00.000Z",
+    "home": "CSKA Moscow",
+    "away": "Dynamo Moscow",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/316505.png",
+    "awayLogo": null,
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106309",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T16:45:00.000Z",
+    "home": "Feyenoord",
+    "away": "Como",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10171.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106405",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T16:45:00.000Z",
+    "home": "LASK",
+    "away": "Liverpool",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9977.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000018611",
+    "sport": "soccer",
+    "country": "Qatar",
+    "league": "Second Division",
+    "date": "2026-10-14T16:45:00.000Z",
+    "home": "Al-Waab SC",
+    "away": "Umm Salal",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1803046.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101903.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000018615",
+    "sport": "soccer",
+    "country": "Qatar",
+    "league": "Second Division",
+    "date": "2026-10-14T16:45:00.000Z",
+    "home": "Al Mesaimeer",
+    "away": "Al-Gharafa II",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582505.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2109588.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5105282",
+    "sport": "soccer",
+    "country": "Norway",
+    "league": "1. Divisjon",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Bryne",
+    "away": "Raufoss",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8531.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9812.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5105283",
+    "sport": "soccer",
+    "country": "Norway",
+    "league": "1. Divisjon",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "FK Haugesund",
+    "away": "Lyn",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8512.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10224.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5105284",
+    "sport": "soccer",
+    "country": "Norway",
+    "league": "1. Divisjon",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Hødd",
+    "away": "Ranheim",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7937.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6563.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5105285",
+    "sport": "soccer",
+    "country": "Norway",
+    "league": "1. Divisjon",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Moss",
+    "away": "Egersund",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8405.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4722.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5105286",
+    "sport": "soccer",
+    "country": "Norway",
+    "league": "1. Divisjon",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Sogndal",
+    "away": "Odds Ballklubb",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8616.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7988.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5105287",
+    "sport": "soccer",
+    "country": "Norway",
+    "league": "1. Divisjon",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Stabæk",
+    "away": "Sandnes Ulf",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9918.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8133.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5105289",
+    "sport": "soccer",
+    "country": "Norway",
+    "league": "1. Divisjon",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Strømsgodset",
+    "away": "Kongsvinger",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8180.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8179.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5905930",
+    "sport": "soccer",
+    "country": "Germany",
+    "league": "3. Liga",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Preussen Münster",
+    "away": "Fortuna Düsseldorf",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8171.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8194.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5905935",
+    "sport": "soccer",
+    "country": "Germany",
+    "league": "3. Liga",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "SC Verl",
+    "away": "Jahn Regensburg",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7783.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7789.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5905936",
+    "sport": "soccer",
+    "country": "Germany",
+    "league": "3. Liga",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Viktoria Köln 1904",
+    "away": "Sonnenhof Großaspach",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/276267.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/94941.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5905929",
+    "sport": "soccer",
+    "country": "Germany",
+    "league": "3. Liga",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Waldhof Mannheim",
+    "away": "Ingolstadt",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9743.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8234.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5905937",
+    "sport": "soccer",
+    "country": "Germany",
+    "league": "3. Liga",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Wehen Wiesbaden",
+    "away": "Alemannia Aachen",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8196.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8396.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6384115",
+    "sport": "soccer",
+    "country": "Cyprus",
+    "league": "Cup",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Omonia 29 Maiou",
+    "away": "AEP Polemidion",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1282231.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2181835.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5989838",
+    "sport": "soccer",
+    "country": "Algeria",
+    "league": "Ligue 1",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "CR Temouchent",
+    "away": "MB Rouissat",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/319205.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1792386.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5989840",
+    "sport": "soccer",
+    "country": "Algeria",
+    "league": "Ligue 1",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "ES Sétif",
+    "away": "JS Kabylie",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/45655.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101630.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5916056",
+    "sport": "soccer",
+    "country": "Germany",
+    "league": "Regionalliga Southwest",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Eintracht Frankfurt II",
+    "away": "VfR Mannheim",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9813.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1701.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5916048",
+    "sport": "soccer",
+    "country": "Germany",
+    "league": "Regionalliga Southwest",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Kaiserslautern II",
+    "away": "FSV Frankfurt",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8490.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/88885.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5908654",
+    "sport": "soccer",
+    "country": "Turkey",
+    "league": "1. Lig",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Keçiörengücü",
+    "away": "Iğdır FK",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8387.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1281818.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5908656",
+    "sport": "soccer",
+    "country": "Turkey",
+    "league": "1. Lig",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Antalyaspor",
+    "away": "Kayserispor",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1931.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10182.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000018468",
+    "sport": "soccer",
+    "country": "Saudi Arabia",
+    "league": "Saudi First Division",
+    "date": "2026-10-14T17:00:00.000Z",
+    "home": "Al-Raed",
+    "away": "Jeddah",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/150413.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1017737.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000021400",
+    "sport": "soccer",
+    "country": "International",
+    "league": "UEFA Youth League - 1st Round",
+    "date": "2026-10-14T17:30:00.000Z",
+    "home": "Una Strassen U19",
+    "away": "Cardiff Met FC U19",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2183001.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2182990.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5851903",
+    "sport": "soccer",
+    "country": "Russia",
+    "league": "Cup Grp. D",
+    "date": "2026-10-14T17:45:00.000Z",
+    "home": "CSKA Moscow",
+    "away": "FC Rostov",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9760.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8705.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6315933",
+    "sport": "soccer",
+    "country": "Portugal",
+    "league": "Taca de Portugal",
+    "date": "2026-10-14T18:00:00.000Z",
+    "home": "Santarém",
+    "away": "Gil Vicente",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1074312.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9764.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000021412",
+    "sport": "soccer",
+    "country": "International",
+    "league": "UEFA Youth League - 1st Round",
+    "date": "2026-10-14T18:00:00.000Z",
+    "home": "Havnar Boltfelag U19",
+    "away": "Flora Tallinn U19",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1677370.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/657584.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054496",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - C",
+    "date": "2026-10-14T18:15:00.000Z",
+    "home": "Al-Faisaly",
+    "away": "Al-Nahda",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101665.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101748.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6368800",
+    "sport": "soccer",
+    "country": "Uruguay",
+    "league": "Cup",
+    "date": "2026-10-14T18:30:00.000Z",
+    "home": "Boston River",
+    "away": "River Plate",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188313.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6381.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5948111",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Isthmian Premier Division",
+    "date": "2026-10-14T18:45:00.000Z",
+    "home": "Whyteleafe",
+    "away": "Whitehawk",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/282339.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/282373.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836871",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-10-14T18:45:00.000Z",
+    "home": "Norwich City",
+    "away": "Southampton",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836872",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-10-14T18:45:00.000Z",
+    "home": "Portsmouth",
+    "away": "Sheffield United",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8462.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836873",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-10-14T18:45:00.000Z",
+    "home": "Queens Park Rangers",
+    "away": "Derby County",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10172.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10170.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106284",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T19:00:00.000Z",
+    "home": "Aston Villa",
+    "away": "Fenerbahçe",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8695.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106315",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T19:00:00.000Z",
+    "home": "Bodø/Glimt",
+    "away": "Borussia Dortmund",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8402.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106254",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T19:00:00.000Z",
+    "home": "Manchester City",
+    "away": "Paris Saint-Germain",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106299",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T19:00:00.000Z",
+    "home": "Real Betis",
+    "away": "FC Porto",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9773.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106274",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T19:00:00.000Z",
+    "home": "Roma",
+    "away": "Real Madrid",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106337",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T19:00:00.000Z",
+    "home": "Shakhtar Donetsk",
+    "away": "AEK Athens",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9728.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8563.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6106396",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Champions League",
+    "date": "2026-10-14T19:00:00.000Z",
+    "home": "Slovan Bratislava",
+    "away": "VfB Stuttgart",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6019.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5836870",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Championship",
+    "date": "2026-10-14T19:00:00.000Z",
+    "home": "Lincoln City",
+    "away": "West Ham United",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8430.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6408793",
+    "sport": "soccer",
+    "country": "Morocco",
+    "league": "Botola Pro",
+    "date": "2026-10-14T20:00:00.000Z",
+    "home": "Ittihad Tanger",
+    "away": "MAS Fès",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/316657.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102043.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6393690",
+    "sport": "soccer",
+    "country": "Paraguay",
+    "league": "Cup",
+    "date": "2026-10-14T20:00:00.000Z",
+    "home": "Atlético Tembetary",
+    "away": "Sol de America",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1299349.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/59845.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000014084",
+    "sport": "soccer",
+    "country": "Colombia",
+    "league": "Primera A",
+    "date": "2026-10-14T21:30:00.000Z",
+    "home": "Junior FC",
+    "away": "Deportivo Pereira",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4404.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000021777",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Copa Sudamericana - Semi-finals",
+    "date": "2026-10-14T22:00:00.000Z",
+    "home": "Atlético-MG",
+    "away": "Montevideo City Torque",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10272.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/395613.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000019553",
+    "sport": "soccer",
+    "country": "Argentina",
+    "league": "Liga Profesional",
+    "date": "2026-10-14T22:00:00.000Z",
+    "home": "Sarmiento",
+    "away": "River Plate",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/202757.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10076.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000013753",
+    "sport": "soccer",
+    "country": "Colombia",
+    "league": "Primera B",
+    "date": "2026-10-14T22:00:00.000Z",
+    "home": "Real Cundinamarca",
+    "away": "Bogotá FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193026.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193032.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6393691",
+    "sport": "soccer",
+    "country": "Paraguay",
+    "league": "Cup",
+    "date": "2026-10-14T22:30:00.000Z",
+    "home": "Cerro Porteño",
+    "away": "Sportivo San Lorenzo",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6295.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/198186.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5861287",
+    "sport": "soccer",
+    "country": "Guatemala",
+    "league": "Liga Nacional Apertura",
+    "date": "2026-10-14T23:00:00.000Z",
+    "home": "Comunicaciones FC",
+    "away": "Aurora FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49761.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188294.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5961125",
+    "sport": "soccer",
+    "country": "Costa Rica",
+    "league": "Primera Division Apertura",
+    "date": "2026-10-14T23:00:00.000Z",
+    "home": "Municipal Pérez Zeledón",
+    "away": "Escorpiones",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49730.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1285005.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5109982",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "USL Championship",
+    "date": "2026-10-14T23:00:00.000Z",
+    "home": "Hartford Athletic",
+    "away": "Charleston Battery",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1003206.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162183.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6425703",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "USL Championship",
+    "date": "2026-10-14T23:00:00.000Z",
+    "home": "Sporting JAX",
+    "away": "Birmingham Legion FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1737991.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1003207.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5109361",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "USL League One",
+    "date": "2026-10-14T23:00:00.000Z",
+    "home": "Greenville Triumph SC",
+    "away": "Spokane Velocity FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1004920.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1584038.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071415",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "CF Montréal",
+    "away": "Atlanta United",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/161195.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/773958.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071412",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "Columbus Crew",
+    "away": "Charlotte FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6001.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1323940.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071413",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "DC United",
+    "away": "Red Bull New York",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6602.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6514.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071411",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "FC Cincinnati",
+    "away": "New England Revolution",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6580.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071414",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "Inter Miami CF",
+    "away": "New York City FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/546238.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071416",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "Toronto FC",
+    "away": "Orlando City",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/56453.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/267810.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5109656",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "USL Championship",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "Rhode Island FC",
+    "away": "Loudoun United FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1597140.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1003205.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000014110",
+    "sport": "soccer",
+    "country": "Colombia",
+    "league": "Primera A",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "Santa Fe",
+    "away": "CD Jaguares",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7818.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/424270.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378443037",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-14T23:30:00.000Z",
+    "home": "Washington Capitals",
+    "away": "Montreal Canadiens",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/599037.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/586272.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6368804",
+    "sport": "soccer",
+    "country": "Uruguay",
+    "league": "Cup",
+    "date": "2026-10-15T00:00:00.000Z",
+    "home": "Deportivo Maldonado",
+    "away": "Albion",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1833.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/924934.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071417",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T00:30:00.000Z",
+    "home": "Chicago Fire FC",
+    "away": "Philadelphia Union",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6397.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/191716.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071419",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T00:30:00.000Z",
+    "home": "FC Dallas",
+    "away": "Seattle Sounders FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6399.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/130394.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071422",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T00:30:00.000Z",
+    "home": "Nashville SC",
+    "away": "Sporting Kansas City",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/915807.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6604.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071425",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T00:30:00.000Z",
+    "home": "St. Louis City",
+    "away": "Vancouver Whitecaps",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1427963.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/307691.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000020615",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Copa Libertadores - Semi-finals",
+    "date": "2026-10-15T00:30:00.000Z",
+    "home": "Fluminense",
+    "away": "Palmeiras",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9863.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10283.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5861288",
+    "sport": "soccer",
+    "country": "Guatemala",
+    "league": "Liga Nacional Apertura",
+    "date": "2026-10-15T01:00:00.000Z",
+    "home": "Guastatoya",
+    "away": "Antigua Guatemala",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188303.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188298.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071418",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T01:30:00.000Z",
+    "home": "Colorado Rapids",
+    "away": "Minnesota United",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8314.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/207242.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071423",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T01:30:00.000Z",
+    "home": "Real Salt Lake",
+    "away": "San Jose Earthquakes",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6606.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6603.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6411955",
+    "sport": "soccer",
+    "country": "Colombia",
+    "league": "Cup",
+    "date": "2026-10-15T01:30:00.000Z",
+    "home": "Atlético Nacional",
+    "away": "Independiente Medellín",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2528.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5833803",
+    "sport": "soccer",
+    "country": "Costa Rica",
+    "league": "Primera Division Apertura",
+    "date": "2026-10-15T02:00:00.000Z",
+    "home": "LD Alajuelense",
+    "away": "Club Sport Herediano",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6335.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49726.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071420",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T02:30:00.000Z",
+    "home": "LA Galaxy",
+    "away": "Portland Timbers",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6637.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/307690.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071421",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T02:30:00.000Z",
+    "home": "Los Angeles FC",
+    "away": "Austin FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1218886.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5071424",
+    "sport": "soccer",
+    "country": "United States",
+    "league": "Major League Soccer",
+    "date": "2026-10-15T02:30:00.000Z",
+    "home": "San Diego FC",
+    "away": "Houston Dynamo FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1701119.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8259.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5861289",
+    "sport": "soccer",
+    "country": "Guatemala",
+    "league": "Liga Nacional Apertura",
+    "date": "2026-10-15T03:00:00.000Z",
+    "home": "Deportivo Marquense",
+    "away": "Deportivo Mixco",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9934.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188299.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6284027",
+    "sport": "soccer",
+    "country": "Australia",
+    "league": "Australian Championship Grp. D",
+    "date": "2026-10-15T08:30:00.000Z",
+    "home": "Preston Lions",
+    "away": "Wollongong Wolves",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162312.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162233.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "panda-1694374",
+    "sport": "lol",
+    "league": "Demacia Cup Global Invitational",
+    "date": "2026-10-15T09:00:00Z",
+    "home": "TBD",
+    "away": "TBD",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": "fotmob-6054752",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - F",
+    "date": "2026-10-15T10:00:00.000Z",
+    "home": "Tai Po",
+    "away": "Lion City Sailors FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165169.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/67366.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054846",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - H",
+    "date": "2026-10-15T10:00:00.000Z",
+    "home": "Gangwon FC",
+    "away": "Phnom Penh",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/164734.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/202520.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "naver-kbl-202610153550490121",
+    "sport": "basketball",
+    "country": "South Korea",
+    "league": "KBL",
+    "date": "2026-10-15T10:00:00.000Z",
+    "home": "Samsung Thunders",
+    "away": "Changwon LG",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/kbl/default/35.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/kbl/default/50.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "naver-wkovo-20261015824F8",
+    "sport": "volleyball",
+    "country": "South Korea",
+    "league": "WKOVO W",
+    "date": "2026-10-15T10:00:00.000Z",
+    "home": "IBK Altos W",
+    "away": "Jungkwanjang Red Sparks W",
+    "homeLogo": "https://sports-phinf.pstatic.net/team/wkovo/default/2006.png",
+    "awayLogo": "https://sports-phinf.pstatic.net/team/wkovo/default/2003.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000018160",
+    "sport": "soccer",
+    "country": "Thailand",
+    "league": "Thai League 2",
+    "date": "2026-10-15T11:00:00.000Z",
+    "home": "Uttaradit FC",
+    "away": "PT Satun FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/584948.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/585112.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000018161",
+    "sport": "soccer",
+    "country": "Thailand",
+    "league": "Thai League 2",
+    "date": "2026-10-15T12:00:00.000Z",
+    "home": "Khonkaen United FC",
+    "away": "Chainat FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/626802.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/309016.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054753",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - F",
+    "date": "2026-10-15T12:15:00.000Z",
+    "home": "BG Pathum United",
+    "away": "Adelaide United",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165250.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054847",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - H",
+    "date": "2026-10-15T12:15:00.000Z",
+    "home": "Kuching City",
+    "away": "Kitchee",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1114226.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165165.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054834",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - G",
+    "date": "2026-10-15T12:15:00.000Z",
+    "home": "Svay Rieng",
+    "away": "Shanghai Shenhua",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/542025.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6628.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6054835",
+    "sport": "soccer",
+    "country": "International",
+    "league": "AFC Champions League Two - G",
+    "date": "2026-10-15T12:15:00.000Z",
+    "home": "Tampines Rovers FC",
+    "away": "Machida Zelvia",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/67386.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/194011.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5970155",
+    "sport": "soccer",
+    "country": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "date": "2026-10-15T13:40:00.000Z",
+    "home": "Al-Faisaly",
+    "away": "Al Kholood",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/205687.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1523706.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5200666",
+    "sport": "soccer",
+    "country": "Uzbekistan",
+    "league": "Superliga",
+    "date": "2026-10-15T14:00:00.000Z",
+    "home": "Andijon",
+    "away": "Qizilqum Zarafshon",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102151.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102147.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5200671",
+    "sport": "soccer",
+    "country": "Uzbekistan",
+    "league": "Superliga",
+    "date": "2026-10-15T14:00:00.000Z",
+    "home": "Mashal Muborak",
+    "away": "AGMK",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102144.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/115128.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5908662",
+    "sport": "soccer",
+    "country": "Turkey",
+    "league": "1. Lig",
+    "date": "2026-10-15T14:00:00.000Z",
+    "home": "Mardin 1969 Spor",
+    "away": "Fatih Karagümrük",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1088486.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2088.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5162040",
+    "sport": "soccer",
+    "country": "Latvia",
+    "league": "Virsliga",
+    "date": "2026-10-15T14:00:00.000Z",
+    "home": "RFS",
+    "away": "SK Super Nova",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/248871.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/981193.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000018616",
+    "sport": "soccer",
+    "country": "Qatar",
+    "league": "Second Division",
+    "date": "2026-10-15T14:30:00.000Z",
+    "home": "Al-Rayyan II",
+    "away": "Al-Khor",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582503.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101902.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5970158",
+    "sport": "soccer",
+    "country": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "date": "2026-10-15T14:50:00.000Z",
+    "home": "Al Khaleej",
+    "away": "Al-Fayha",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/550433.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582749.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "highlightly-hockey-378461759",
+    "sport": "hockey",
+    "country": "USA",
+    "league": "NHL",
+    "date": "2026-10-17T23:00:00.000Z",
+    "home": "Montreal Canadiens",
+    "away": "Buffalo Sabres",
+    "homeLogo": "https://highlightly.net/hockey/images/teams/586272.png",
+    "awayLogo": "https://highlightly.net/hockey/images/teams/574358.png",
     "homeScore": null,
     "awayScore": null
   }
