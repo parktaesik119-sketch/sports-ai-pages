@@ -1,0 +1,37 @@
+---
+title: "브라이턴 & 호브 앨비언 vs FK 카우노 잘기리스 축구분석·승부예측 (10월 16일) - 픽천국"
+date: 2026-10-15T19:00:00.000Z
+description: "브라이턴 & 호브 앨비언 vs FK 카우노 잘기리스 축구분석: 브라이턴 & 호브 앨비언과 FK 카우노 잘기리스의 맞대결은 양 팀의 최근 흐름과 전력 구도 면에서 매우 흥미로운 양상을 띨 것… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6112422-2026-10-16-brighton-hove-albion"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그"
+homeTeam: "브라이턴 & 호브 앨비언"
+awayTeam: "FK 카우노 잘기리스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/439132.png"
+homeAnalysis: "브라이턴 & 호브 앨비언은 앞선 14경기에서 5승 2무 7패로 승률 36%를 기록했고, 최근 공식 경기에서 아스널과 맨체스터 유나이티드 같은 강호들을 상대로 연승을 거두는 저력을 보여주고 있습니다. 아스널을 상대로 3대0 완승을 거둔 경기나 선덜랜드 원정에서 2대0 승리를 챙긴 흐름을 보면 확실히 공수 균형이 안정세를 찾은 모습입니다. 비록 홈에서 첼시나 아스톤 빌라를 만나 다소 아쉬운 결과를 내기도 했지만, 꾸준히 득점포를 가동하며 공격적인 전력을 유지하고 있습니다. 최근 치른 10경기에서도 4승을 챙기며 상승세를 이어가고 있어 이번 홈 경기에서도 자신감 있는 운영이 기대됩니다. 부상 공백이 일부 존재하더라도 탄탄한 홈 전력을 바탕으로 주도권을 잡기에는 충분한 여건을 갖추고 있습니다."
+awayAnalysis: "FK 카우노 잘기리스는 앞선 48경기에서 18승 11무 19패로 승률 38%를 기록했고, 최근 10경기에서 6승을 챙기며 가파른 상승 곡선을 그리고 있습니다. 샤울리아이나 파네베지스를 상대로 연이어 승리를 거두는 과정에서 공격진의 화력이 눈에 띄게 살아난 점이 고무적입니다. 다만 원정 경기에서는 다소 기복을 보이는 경향이 있어 강팀과의 원정 맞대결에서는 집중력을 더 끌어올려야 합니다. 최근 치른 리그 경기들에서 대승을 거두며 팀 분위기가 최고조에 달해 있지만, 수비 라인에서 간헐적으로 노출되는 불안 요소를 얼마나 잘 봉쇄하느냐가 관건입니다. 이번 상대가 만만치 않은 전력을 자랑하는 만큼 원정에서 얼마나 유연하게 대처할지가 중요한 포인트가 될 것입니다."
+homePower: "최근 상위권 팀들을 상대로 거둔 연승은 전력이 한층 단단해졌음을 증명함|홈 경기에서 아스널 상대로 무실점 완승을 거둔 수비 집중력은 큰 자산임|공격진의 꾸준한 득점 생산력은 이번 맞대결에서도 강력한 무기로 작용함|일부 포지션의 부상 공백은 경기 중 변수로 작용할 여지가 남아 있음|안정적인 공수 밸런스를 바탕으로 홈 그라운드 이점을 살릴 가능성이 높음"
+awayPower: "최근 10경기 6승을 기록하며 팀 전체의 흐름이 매우 가파른 상승세임|다득점 경기를 자주 연출할 정도로 공격 전개 과정에서의 파괴력이 돋보임|원정 경기 운영 시 수비 집중력을 유지하는 것이 승패를 가를 핵심 요인임|다양한 대회 경험을 통해 축적된 실전 감각은 무시할 수 없는 강점임|상대 홈의 거센 압박을 견뎌내며 실점을 최소화하는 능력이 요구됨"
+h2h: '[]'
+summary: "브라이턴 & 호브 앨비언과 FK 카우노 잘기리스의 맞대결은 양 팀의 최근 흐름과 전력 구도 면에서 매우 흥미로운 양상을 띨 것으로 보입니다. 홈팀 브라이턴 & 호브 앨비언은 최근 강호들을 상대로 거둔 승리들을 통해 경기력이 정점에 올랐음을 입증했으며, 탄탄한 홈 운영 능력을 바탕으로 주도권을 잡으려 할 것입니다. 이에 맞서는 FK 카우노 잘기리스 역시 최근 뛰어난 상승세를 타며 다득점 경기를 연출하고 있어 만만치 않은 저력을 과시하고 있습니다. 전력과 홈 이점을 종합적으로 고려했을 때 브라이턴 & 호브 앨비언이 경기 흐름을 주도하며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.10","home":"선덜랜드","away":"브라이턴 & 호브 앨비언","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5795474-2026-10-10-sunderland/"},{"date":"26.09.19","home":"브라이턴 & 호브 앨비언","away":"아스널","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5795457-2026-09-19-brighton-hove-albion/"},{"date":"26.09.17","home":"맨체스터 유나이티드","away":"브라이턴 & 호브 앨비언","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6099329-2026-09-17-manchester-united/"},{"date":"26.09.13","home":"코번트리 시티","away":"브라이턴 & 호브 앨비언","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5795448-2026-09-13-coventry-city/"},{"date":"26.09.05","home":"브라이턴 & 호브 앨비언","away":"리즈 유나이티드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5795437-2026-09-05-brighton/"}]'
+awayRecent: '[{"date":"26.09.20","home":"FA Šiauliai","away":"FK 카우노 잘기리스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5875194-2026-09-20-fa-iauliai/"},{"date":"26.09.17","home":"Žalgiris Vilnius","away":"FK 카우노 잘기리스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5900445-2026-09-17-algiris-vilnius/"},{"date":"26.09.13","home":"FK Panevėžys","away":"FK 카우노 잘기리스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5900552-2026-09-13-fk-panevys/"},{"date":"26.09.10","home":"FK 카우노 잘기리스","away":"Sūduva","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5875198-2026-09-10-fk-kauno-algiris/"},{"date":"26.09.07","home":"FK 카우노 잘기리스","away":"지우가스 텔샤이","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5900549-2026-09-07-fk-kauno-algiris/"}]'
+injuryHome: "Zadok Yohanna (충돌 부상) | Mats Wieffer (무릎 부상) | Jack Hinshelwood (충돌 부상) | Femi Azeez (근육 부상) | Evan Ferguson (발목 부상) | Yankuba Minteh (다리 부상) | Kaoru Mitoma (햄스트링 부상) | Stefanos Tzimas (십자 인대 부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "브라이턴 & 호브 앨비언"
+pickWinResult: "승"
+pickHandicapTeam: "브라이턴 & 호브 앨비언"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

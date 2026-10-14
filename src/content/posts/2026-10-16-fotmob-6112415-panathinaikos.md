@@ -1,0 +1,37 @@
+---
+title: "파나티나이코스 vs 보라츠 축구분석·승부예측 (10월 16일) - 픽천국"
+date: 2026-10-15T16:45:00.000Z
+description: "파나티나이코스 vs 보라츠 축구분석: 양 팀 모두 최근 10경기에서 나란히 8승 1무 1패를 기록하며 막강한 전력과 상승세를 증명하고 있습니다. 파나티나이코스는 탄… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6112415-2026-10-16-panathinaikos"
+category: "soccer"
+country: "국제"
+league: "컨퍼런스리그"
+homeTeam: "파나티나이코스"
+awayTeam: "보라츠"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/10116.png"
+homeAnalysis: "파나티나이코스는 앞선 35경기에서 22승 5무 8패로 승률 63%를 기록했고 안정적인 공수 밸런스를 바탕으로 좋은 흐름을 이어가고 있습니다. 최근 치른 10경기에서도 8승 1무 1패의 우수한 성적을 거두며 탄탄한 전력을 과시하는 중입니다. 직전 경기에서 아쉬운 패배를 기록하기도 했지만 이전까지 연승 행진을 달리며 홈과 원정을 가리지 않고 뛰어난 경기력을 보여주었습니다. 공수 양면에서 짜임새 있는 모습을 보여주며 이번 경기를 준비하고 있습니다."
+awayAnalysis: "보라츠는 앞선 30경기에서 19승 4무 7패로 승률 63%를 기록했고 꾸준한 상승세를 타며 상위권의 저력을 유감없이 발휘하고 있습니다. 최근 10경기 성적 역시 8승 1무 1패로 매우 훌륭하며 공격진의 날카로운 집중력이 돋보입니다. 원정 경기에서도 쉽게 물러서지 않는 저력을 보여주며 이번 맞대결을 앞두고 자신감을 높이고 있습니다. 전반적인 흐름과 경기 운영 능력이 안정궤도에 올라 있어 기대를 모읍니다."
+homePower: "홈팀 파나티나이코스는 최근 10경기에서 8승을 거두며 상승세를 달림|안정적인 수비 조직력을 바탕으로 홈 경기 운영 능력이 뛰어남|직전 경기 패배 이후 절치부심하며 전열을 가다듬은 상태임|공수 전환 속도가 빨라 상대 수비를 흔들기에 충분함|주요 선수들의 부상 공백을 조직력으로 메우려 노력 중임"
+awayPower: "원정팀 보라츠는 최근 10경기 중 8승을 챙기며 고공행진을 이어가는 중임|원정 경기에서도 다득점을 뽑아내는 골 결정력이 강점으로 꼽힘|탄탄한 미드필더진을 활용해 주도권을 잡는 능력이 탁월함|최근 흐름상 패배가 적어 경기 집중도가 매우 높게 유지됨|이전 맞대결 경험을 바탕으로 맞춤형 전술을 준비했을 것으로 보임"
+h2h: '[{"date":"24.10.04","home":"보라츠","away":"파나티나이코스","score":"1-1"}]'
+summary: "양 팀 모두 최근 10경기에서 나란히 8승 1무 1패를 기록하며 막강한 전력과 상승세를 증명하고 있습니다. 파나티나이코스는 탄탄한 홈 운영 능력과 조직적인 플레이가 강점이며, 보라츠는 날카로운 공격력과 원정에서의 집중력이 돋보이는 팀입니다. 앞선 맞대결에서도 팽팽한 공방 끝에 승부를 가리지 못했던 만큼 이번 경기도 치열한 양상이 예상됩니다. 양 팀의 전력이 우열을 가리기 힘들 정도로 팽팽하게 맞서 있어 접전 끝에 승부를 가리지 못할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.12","home":"올림피아코스","away":"파나티나이코스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5943265-2026-10-12-olympiacos/"},{"date":"26.09.21","home":"Kalamata","away":"파나티나이코스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5943255-2026-09-21-kalamata/"},{"date":"26.09.16","home":"Kifisia FC","away":"파나티나이코스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6106054-2026-09-16-kifisia-fc/"},{"date":"26.09.14","home":"파나티나이코스","away":"Panetolikos","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5943251-2026-09-14-panathinaikos/"},{"date":"26.09.11","home":"파나티나이코스","away":"Kifisia FC","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5943229-2026-09-11-panathinaikos/"}]'
+awayRecent: '[{"date":"26.10.11","home":"보라츠","away":"BSK Banja Luka","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5927609-2026-10-11-borac-banja-luka/"},{"date":"26.09.21","home":"Široki Brijeg","away":"보라츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5927606-2026-09-21-iroki-brijeg/"},{"date":"26.09.17","home":"Sloga Doboj","away":"보라츠","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5927571-2026-09-17-sloga-doboj/"},{"date":"26.09.13","home":"보라츠","away":"Zrinjski Mostar","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5927599-2026-09-13-borac-banja-luka/"},{"date":"26.09.07","home":"FK 사라예보","away":"보라츠","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5927595-2026-09-07-fk-sarajevo/"}]'
+injuryHome: "Sotiris Kontouris (무릎 부상) | Sverrir Ingi Ingason (부상) | Victor Kristiansen (무릎 부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "2"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

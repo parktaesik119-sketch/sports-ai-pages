@@ -1,0 +1,37 @@
+---
+title: "야기엘로니아 비아위스토크 vs 아라라트 아르메니아 축구분석·승부예측 (10월 16일) - 픽천국"
+date: 2026-10-15T19:00:00.000Z
+description: "야기엘로니아 비아위스토크 vs 아라라트 아르메니아 축구분석: 양 팀의 최근 흐름과 전력을 비교해 보면 홈에서 경기를 치르는 야기엘로니아 비아위스토크이 조금 더 유리한 위치를 점할 것으로 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6112341-2026-10-16-jagiellonia-biaystok"
+category: "soccer"
+country: "국제"
+league: "UEFA 유로파리그"
+homeTeam: "야기엘로니아 비아위스토크"
+awayTeam: "아라라트 아르메니아"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1957.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/866109.png"
+homeAnalysis: "야기엘로니아 비아위스토크은 앞선 12경기에서 5승 1무 6패로 승률 42%를 기록했고 최근 일정에서 다소 기복 있는 모습을 보이고 있습니다. 홈 경기에서는 상대를 강하게 압박하며 득점을 올리는 저력을 보여주기도 했습니다. 수비 라인에서 간헐적인 실점이 발생하고 있으나 공격진의 집중력은 나쁘지 않은 상태입니다. 최근 치른 여러 경기에서 승패를 번갈아 기록하며 전력을 다지고 있습니다. 이번 홈 경기에서도 공격적인 운영을 통해 분위기 반전을 노릴 것으로 보입니다."
+awayAnalysis: "아라라트 아르메니아은 앞선 25경기에서 10승 5무 10패로 승률 40%를 기록했고 중위권에서 꾸준하게 경쟁력을 유지하고 있습니다. 최근 일정에서는 원정 경기에서의 승수 쌓기가 다소 더뎌진 흐름을 보이고 있습니다. 득점력이 예전만큼 시원하게 터지지 않으면서 경기를 어렵게 풀어가는 경우가 있었습니다. 그렇지만 수비 집중력을 가다듬으며 승점을 챙기려는 노력을 이어가고 있습니다. 이번 원정에서도 단단한 수비를 바탕으로 역습 기회를 엿볼 것으로 기대됩니다."
+homePower: "야기엘로니아 비아위스토크 최근 홈 경기 다득점 생산력 우수함|상대 압박에 대응하는 전방 패스 성공률 높음|홈 이점을 살린 주도권 장악 능력이 돋보임|후반전 수비 집중력 저하로 인한 실점 기복 있음|세트피스 상황에서의 공격 가담 효율성 뛰어남"
+awayPower: "아라라트 아르메니아 원정 경기 수비 블록 형성 안정적임|최근 원정 득점력 정체로 인한 화력 보완 필요함|중원 싸움에서의 밀집 대형 유지 능력 뛰어남|원정 후반 시간대 체력 저하 문제 노출됨|역습 전개 시 속도 활용도가 다소 아쉬움"
+h2h: '[]'
+summary: "양 팀의 최근 흐름과 전력을 비교해 보면 홈에서 경기를 치르는 야기엘로니아 비아위스토크이 조금 더 유리한 위치를 점할 것으로 예상됩니다. 홈팀은 공격 전개 과정에서 확실한 결정력을 보여줄 수 있는 자원들이 있어 상대 수비를 흔들 가능성이 큽니다. 반면 아라라트 아르메니아은 원정에서 수비 안정감을 최우선으로 두겠지만 최근 득점력 저하를 극복해야 하는 과제를 안고 있습니다. 전체적인 공수 균형과 홈 이점을 고려할 때 야기엘로니아 비아위스토크이 경기를 주도하며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.11","home":"야기엘로니아 비아위스토크","away":"고르니크 자브제","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5803996-2026-10-11-jagiellonia-biaystok/"},{"date":"26.09.21","home":"야기엘로니아 비아위스토크","away":"레기아 바르샤바","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5803987-2026-09-21-jagiellonia-biaystok/"},{"date":"26.09.17","home":"올림피아코스","away":"야기엘로니아 비아위스토크","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6112268-2026-09-17-olympiacos/"},{"date":"26.09.12","home":"Wisła Kraków","away":"야기엘로니아 비아위스토크","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5803983-2026-09-12-wisa-krakw/"},{"date":"26.09.07","home":"야기엘로니아 비아위스토크","away":"Śląsk Wrocław","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5803969-2026-09-07-jagiellonia-biaystok/"}]'
+awayRecent: '[{"date":"26.09.17","home":"아라라트 아르메니아","away":"스파르타 프라하","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6112383-2026-09-17-ararat-armenia/"},{"date":"26.08.28","home":"아라라트 아르메니아","away":"Univ 크라이오바","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5987968-2026-08-28-ararat-armenia/"},{"date":"26.08.21","home":"Univ 크라이오바","away":"아라라트 아르메니아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5987956-2026-08-21-universitatea-craiova/"},{"date":"26.08.12","home":"NK 첼레","away":"아라라트 아르메니아","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5954876-2026-08-12-nk-celje/"},{"date":"26.08.05","home":"아라라트 아르메니아","away":"NK 첼레","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1605370-2026-08-05-ararat-armenia/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "야기엘로니아 비아위스토크"
+pickWinResult: "승"
+pickHandicapTeam: "야기엘로니아 비아위스토크"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

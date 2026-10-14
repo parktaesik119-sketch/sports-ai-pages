@@ -234,5 +234,162 @@
       "home": [],
       "away": []
     }
+  },
+  {
+    "home": "LG Twins",
+    "away": "Doosan Bears",
+    "date": "2026-10-15T09:30:00.000Z",
+    "league": "KBO",
+    "gameId": "20261015OBLG0",
+    "stadium": "잠실",
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "starters": {
+      "home": null,
+      "away": null
+    },
+    "pitcherRecord": null,
+    "pitKind": null,
+    "lineup": {
+      "lineupConfirmed": false,
+      "home": {
+        "teamId": "LG",
+        "teamName": "LG",
+        "gameId": "20261012LGHT0",
+        "warByOrderRange": {
+          "1-2": "5.89",
+          "3-5": "12.88",
+          "6-9": "3.74"
+        },
+        "lineup": [
+          {
+            "order": "1",
+            "position": "중견수",
+            "name": "박해민",
+            "war": "2.70"
+          },
+          {
+            "order": "2",
+            "position": "좌익수",
+            "name": "송찬의",
+            "war": "3.19"
+          },
+          {
+            "order": "3",
+            "position": "지명타자",
+            "name": "오스틴",
+            "war": "8.72"
+          },
+          {
+            "order": "4",
+            "position": "1루수",
+            "name": "문정빈",
+            "war": "2.78"
+          },
+          {
+            "order": "5",
+            "position": "3루수",
+            "name": "문보경",
+            "war": "1.38"
+          },
+          {
+            "order": "6",
+            "position": "우익수",
+            "name": "이재원",
+            "war": "0.86"
+          },
+          {
+            "order": "7",
+            "position": "유격수",
+            "name": "구본혁",
+            "war": "0.75"
+          },
+          {
+            "order": "8",
+            "position": "포수",
+            "name": "박동원",
+            "war": "1.24"
+          },
+          {
+            "order": "9",
+            "position": "2루수",
+            "name": "신민재",
+            "war": "0.88"
+          }
+        ]
+      },
+      "away": {
+        "teamId": "OB",
+        "teamName": "두산",
+        "gameId": "20261012LTOB0",
+        "warByOrderRange": {
+          "1-2": "2.20",
+          "3-5": "8.23",
+          "6-9": "3.70"
+        },
+        "lineup": [
+          {
+            "order": "1",
+            "position": "유격수",
+            "name": "박찬호",
+            "war": "2.57"
+          },
+          {
+            "order": "2",
+            "position": "우익수",
+            "name": "손아섭",
+            "war": "-0.37"
+          },
+          {
+            "order": "3",
+            "position": "1루수",
+            "name": "세베리노",
+            "war": "1.26"
+          },
+          {
+            "order": "4",
+            "position": "포수",
+            "name": "양의지",
+            "war": "3.59"
+          },
+          {
+            "order": "5",
+            "position": "좌익수",
+            "name": "김민석",
+            "war": "3.38"
+          },
+          {
+            "order": "6",
+            "position": "3루수",
+            "name": "안재석",
+            "war": "1.55"
+          },
+          {
+            "order": "7",
+            "position": "지명타자",
+            "name": "양석환",
+            "war": "-0.38"
+          },
+          {
+            "order": "8",
+            "position": "2루수",
+            "name": "강승호",
+            "war": "1.27"
+          },
+          {
+            "order": "9",
+            "position": "중견수",
+            "name": "정수빈",
+            "war": "1.25"
+          }
+        ]
+      }
+    },
+    "injuries": {
+      "home": [],
+      "away": []
+    }
   }
 ]
