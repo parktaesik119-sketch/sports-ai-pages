@@ -20,7 +20,7 @@ homeRecent: '[{"date":"26.10.13","home":"밀워키 브루어스","away":"LA 다�
 awayRecent: '[{"date":"26.10.13","home":"밀워키 브루어스","away":"LA 다저스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261013LAMI0-2026-10-13-milwaukee-brewers/"},{"date":"26.10.08","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261008MISD0-2026-10-08-san-diego-padres/"},{"date":"26.10.07","home":"샌디에이고 파드리스","away":"밀워키 브루어스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261007MISD0-2026-10-07-san-diego-padres/"},{"date":"26.10.05","home":"밀워키 브루어스","away":"샌디에이고 파드리스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261005SDMI0-2026-10-05-milwaukee-brewers/"},{"date":"26.09.28","home":"밀워키 브루어스","away":"세인트루이스 카디널스","score":"6-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20260928SLMI0-2026-09-28-milwaukee-brewers/"}]'
 injuryHome: "Brandon Woodruff (Inflammation)|Grant Anderson (Inflammation)|Quinn Priester (Surgery)|Angel Zerpa (Surgery)|Brian Fitzpatrick (Surgery)"
 injuryAway: "Will Klein (Soreness)|Gavin Stone (Inflammation)|Jake Cousins (Surgery)|Ben Casparius (Inflammation)|Brusdar Graterol (Surgery)"
-homeLineup: ''
+homeLineup: "[\"선발투수 T. Glasnow (0-0, 1.93) ERA 1.93|https://a.espncdn.com/i/headshots/mlb/players/full/33190.png\"]"
 awayLineup: ''
 homeFormation: ""
 awayFormation: ""
