@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.05","home":"라쿠텐 골든이글스","away":"소�
 awayRecent: '[{"date":"26.10.12","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261012NHSE0-2026-10-12-seibu-lions/"},{"date":"26.10.11","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261011NHSE0-2026-10-11-seibu-lions/"},{"date":"26.10.10","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261010NHSE0-2026-10-10-seibu-lions/"},{"date":"26.10.01","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001NHJL0-2026-10-01-chiba-lotte-marines/"},{"date":"26.09.28","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260928NHJL0-2026-09-28-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Naoyuki Uwasawa (10-4, 2.39)|https://p.npb.jp/players_photo/2026/180/h/010_51355135.jpg\"]"
+awayLineup: "[\"선발투수 Koki Kitayama (13-3, 2.56)|https://p.npb.jp/players_photo/2026/180/f/015_51755155.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
