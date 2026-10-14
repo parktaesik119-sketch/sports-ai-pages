@@ -24,7 +24,7 @@ homeLineup: '["Jack Duncan (GK)|https://images.fotmob.com/image_resources/player
 awayLineup: '["Sung-Yun Gu (GK)|https://images.fotmob.com/image_resources/playerimages/430823.png","Jun Choi (DF)|https://images.fotmob.com/image_resources/playerimages/1054179.png","Yazan Abu Al-Arab (DF)|https://images.fotmob.com/image_resources/playerimages/852168.png","Juan Antonio (DF)|https://images.fotmob.com/image_resources/playerimages/736516.png","Jin-Su Kim (DF)|https://images.fotmob.com/image_resources/playerimages/309496.png","Seung-Won Jung (FW)|https://images.fotmob.com/image_resources/playerimages/734965.png","Seung-Mo Lee (MF)|https://images.fotmob.com/image_resources/playerimages/828044.png","Hrvoje Babec (MF)|https://images.fotmob.com/image_resources/playerimages/1180668.png","Anderson Oliveira (FW)|https://images.fotmob.com/image_resources/playerimages/1047931.png","Seon-Min Moon (MF)|https://images.fotmob.com/image_resources/playerimages/438899.png","Patryk Klimala (FW)|https://images.fotmob.com/image_resources/playerimages/796751.png"]'
 homeFormation: "4-2-3-1"
 awayFormation: "4-4-2"
-homeCoach: ""
+homeCoach: "Giovanni Savarese|https://images.fotmob.com/image_resources/playerimages/910422.png"
 awayCoach: "Gi-Dong Kim|https://images.fotmob.com/image_resources/playerimages/117181.png"
 pickWinTeam: "FC 서울"
 pickWinResult: "승"
