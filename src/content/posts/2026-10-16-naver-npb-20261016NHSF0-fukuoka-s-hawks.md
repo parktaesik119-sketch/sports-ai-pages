@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.14","home":"소프트뱅크 호크스","away":"니�
 awayRecent: '[{"date":"26.10.14","home":"소프트뱅크 호크스","away":"니혼햄 파이터즈","score":"6-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261014NHSF0-2026-10-14-fukuoka-s-hawks/"},{"date":"26.10.12","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261012NHSE0-2026-10-12-seibu-lions/"},{"date":"26.10.11","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261011NHSE0-2026-10-11-seibu-lions/"},{"date":"26.10.10","home":"세이부 라이온즈","away":"니혼햄 파이터즈","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261010NHSE0-2026-10-10-seibu-lions/"},{"date":"26.10.01","home":"지바 롯데 마린스","away":"니혼햄 파이터즈","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261001NHJL0-2026-10-01-chiba-lotte-marines/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Yugo Maeda (12-1, 2.10)|https://p.npb.jp/players_photo/2026/180/h/041_13115159.jpg\"]"
+awayLineup: "[\"선발투수 Takayuki Katoh (12-3, 2.90)|https://p.npb.jp/players_photo/2026/180/f/014_41545132.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
