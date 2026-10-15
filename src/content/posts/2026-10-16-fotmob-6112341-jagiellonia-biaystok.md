@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.11","home":"야기엘로니아 비아위스토크",
 awayRecent: '[{"date":"26.09.17","home":"아라라트 아르메니아","away":"스파르타 프라하","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6112383-2026-09-17-ararat-armenia/"},{"date":"26.08.28","home":"아라라트 아르메니아","away":"Univ 크라이오바","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5987968-2026-08-28-ararat-armenia/"},{"date":"26.08.21","home":"Univ 크라이오바","away":"아라라트 아르메니아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5987956-2026-08-21-universitatea-craiova/"},{"date":"26.08.12","home":"NK 첼레","away":"아라라트 아르메니아","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5954876-2026-08-12-nk-celje/"},{"date":"26.08.05","home":"아라라트 아르메니아","away":"NK 첼레","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1605370-2026-08-05-ararat-armenia/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Sławomir Abramowicz (GK)|https://images.fotmob.com/image_resources/playerimages/1306211.png\",\"Rodrigo Conceição (DF)|https://images.fotmob.com/image_resources/playerimages/980264.png\",\"Bernardo Vital (DF)|https://images.fotmob.com/image_resources/playerimages/1184043.png\",\"Yuki Kobayashi (DF)|https://images.fotmob.com/image_resources/playerimages/934952.png\",\"Bartłomiej Wdowik (DF)|https://images.fotmob.com/image_resources/playerimages/1132121.png\",\"Anders Klynge (MF)|https://images.fotmob.com/image_resources/playerimages/1161870.png\",\"Taras Romanczuk (MF)|https://images.fotmob.com/image_resources/playerimages/560564.png\",\"Jesús Imaz (MF)|https://images.fotmob.com/image_resources/playerimages/573756.png\",\"Kamil Józwiak (FW)|https://images.fotmob.com/image_resources/playerimages/728478.png\",\"Ousmane Sow (FW)|https://images.fotmob.com/image_resources/playerimages/1673762.png\",\"Kajetan Szmyt (FW)|https://images.fotmob.com/image_resources/playerimages/1177738.png\"]"
+awayLineup: "[\"João Bravim (GK)|https://images.fotmob.com/image_resources/playerimages/1185314.png\",\"Hugo Oliveira (MF)|https://images.fotmob.com/image_resources/playerimages/1213413.png\",\"Bruno Wilson (DF)|https://images.fotmob.com/image_resources/playerimages/540414.png\",\"Luís Felipe (DF)|https://images.fotmob.com/image_resources/playerimages/1180286.png\",\"Edgar Grigoryan (DF)|https://images.fotmob.com/image_resources/playerimages/1190510.png\",\"Juan Balanta (MF)|https://images.fotmob.com/image_resources/playerimages/739736.png\",\"Maxence Carlier (MF)|https://images.fotmob.com/image_resources/playerimages/864840.png\",\"Alwyn Tera (MF)|https://images.fotmob.com/image_resources/playerimages/837885.png\",\"Artur Serobyan (FW)|https://images.fotmob.com/image_resources/playerimages/1300497.png\",\"Sandro Lima (FW)|https://images.fotmob.com/image_resources/playerimages/477205.png\",\"Zidane Banjaqui (FW)|https://images.fotmob.com/image_resources/playerimages/824659.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Adrian Siemieniec|https://images.fotmob.com/image_resources/playerimages/1459811.png"
+awayCoach: "Tulipa|https://images.fotmob.com/image_resources/playerimages/1426076.png"
 pickWinTeam: "야기엘로니아 비아위스토크"
 pickWinResult: "승"
 pickHandicapTeam: "야기엘로니아 비아위스토크"
