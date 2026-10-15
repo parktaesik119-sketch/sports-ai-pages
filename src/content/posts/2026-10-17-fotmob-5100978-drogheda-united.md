@@ -1,0 +1,37 @@
+---
+title: "드로에다 유나이티드 vs 데리 시티 축구분석·승부예측 (10월 17일) - 픽천국"
+date: 2026-10-16T18:45:00.000Z
+description: "드로에다 유나이티드 vs 데리 시티 축구분석: 양 팀의 최근 경기력을 비교해 보면 꾸준한 상승 곡선을 그리고 있는 데리 시티가 한층 더 안정적인 전력을 자랑하고 있습니다. … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100978-2026-10-17-drogheda-united"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "드로에다 유나이티드"
+awayTeam: "데리 시티"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8339.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8338.png"
+homeAnalysis: "드로에다 유나이티드는 앞선 24경기에서 8승 6무 10패로 승률 33%를 기록했고 다소 기복 있는 경기력을 보여주고 있습니다. 최근 치른 일정들을 살펴보면 연승을 거두며 반등하는 듯하다가도 곧바로 패배를 기록하며 흐름을 이어가지 못하는 모습입니다. 공수 양면에서 안정감을 찾지 못해 승점 관리의 어려움을 겪고 있으며 특히 수비진의 집중력이 아쉬운 국면입니다. 이번 홈 경기에서도 전력 누수가 발생한 만큼 수비 안정화가 최우선 과제로 꼽힙니다. 홈 이점을 안고 경기에 임하지만 최근 흐름이 다소 가라앉아 있어 철저한 대비가 필요합니다."
+awayAnalysis: "데리 시티는 앞선 27경기에서 9승 9무 9패로 승률 33%를 기록했고 최근 물오른 상승세를 타고 있습니다. 최근 10경기에서 패배를 최소화하며 무패 행진을 달리는 등 공수 균형이 매우 안정적인 모습을 보여주고 있습니다. 꾸준한 득점력을 바탕으로 상대를 압박하고 있으며 원정 경기에서도 쉽게 흔들리지 않는 조직력을 과시합니다. 핵심 자원들의 이탈이 존재하지만 두터운 스쿼드를 바탕으로 공백을 잘 메우고 있습니다. 이번 경기에서도 최근의 좋은 흐름을 이어가며 승점을 챙기기 위해 적극적으로 나설 것으로 전망됩니다."
+homePower: "홈 성적 기복 심함|수비 집중력 저하로 실점 증가함|핵심 부상 공백 존재함|안방 이점 살리지 못하는 흐름|최근 맞대결 패배 기록 있음"
+awayPower: "최근 10경기 상승세 뚜렷함|원정 경기 운영 능력 우수함|꾸준한 득점력 보유함|공수 밸런스 안정적임|상대전적 우위 경험 있음"
+h2h: '[{"date":"26.06.27","home":"데리 시티","away":"드로에다 유나이티드","score":"2-0","link":"https://pick79.com/posts/detail/analyze-1492722-2026-06-27-derry-city/"},{"date":"26.05.09","home":"드로에다 유나이티드","away":"데리 시티","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1492691-2026-05-09-drogheda-united/"},{"date":"26.03.21","home":"데리 시티","away":"드로에다 유나이티드","score":"2-2"},{"date":"25.09.27","home":"드로에다 유나이티드","away":"데리 시티","score":"1-1"},{"date":"25.08.17","home":"데리 시티","away":"드로에다 유나이티드","score":"1-1"}]'
+summary: "양 팀의 최근 경기력을 비교해 보면 꾸준한 상승 곡선을 그리고 있는 데리 시티가 한층 더 안정적인 전력을 자랑하고 있습니다. 반면 드로에다 유나이티드는 홈에서 다소 흔들리는 모습을 보이며 수비 불안을 노출하고 있습니다. 전반적인 공수 균형과 최근 흐름을 고려할 때 원정팀인 데리 시티가 유리한 고지를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.09","home":"섐록 로버스","away":"드로에다 유나이티드","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100976-2026-10-09-shamrock-rovers/"},{"date":"26.09.19","home":"보헤미안스","away":"드로에다 유나이티드","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100967-2026-09-19-bohemian-fc/"},{"date":"26.09.15","home":"셸번","away":"드로에다 유나이티드","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100958-2026-09-15-shelbourne/"},{"date":"26.09.12","home":"드로에다 유나이티드","away":"슬라이고 로버스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100962-2026-09-12-drogheda-united/"},{"date":"26.09.05","home":"드로에다 유나이티드","away":"골웨이 유나이티드","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6046148-2026-09-05-drogheda-united/"}]'
+awayRecent: '[{"date":"26.10.10","home":"골웨이 유나이티드","away":"데리 시티","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6171113-2026-10-10-galway-united-fc/"},{"date":"26.09.19","home":"데리 시티","away":"골웨이 유나이티드","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100968-2026-09-19-derry-city/"},{"date":"26.09.15","home":"워터퍼드","away":"데리 시티","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100959-2026-09-15-waterford-fc/"},{"date":"26.09.12","home":"셸번","away":"데리 시티","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100964-2026-09-12-shelbourne/"},{"date":"26.09.07","home":"데리 시티","away":"던돌크","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6046149-2026-09-07-derry-city/"}]'
+injuryHome: "Keegan Ancelin (근육 부상) | Owen Lambe (다리 부상)"
+injuryAway: "Carl Winchester (충돌 부상) | Darragh Markey (근육 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "데리 시티"
+pickWinResult: "승"
+pickHandicapTeam: "데리 시티"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

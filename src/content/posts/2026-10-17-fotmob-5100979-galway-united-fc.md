@@ -1,0 +1,37 @@
+---
+title: "골웨이 유나이티드 vs 섐록 로버스 축구분석·승부예측 (10월 17일) - 픽천국"
+date: 2026-10-16T18:45:00.000Z
+description: "골웨이 유나이티드 vs 섐록 로버스 축구분석: 양 팀은 이번 맞대결을 앞두고 서로 다른 최근 흐름을 보이고 있으며 전반적인 지표에서 섐록 로버스가 조금 더 우세한 위치를 점… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100979-2026-10-17-galway-united-fc"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "골웨이 유나이티드"
+awayTeam: "섐록 로버스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/520517.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4131.png"
+homeAnalysis: "골웨이 유나이티드는 앞선 24경기에서 7승 10무 7패로 승률 29%를 기록했고 다소 무승부가 많은 흐름을 보이고 있습니다. 최근 치른 10경기에서는 3승 4무 3패를 기록하며 승패를 쉽게 가리지 못하는 팽팽한 양상을 지속하는 중입니다. 공격력 측면에서는 꾸준히 득점을 올리고 있으나 수비 집중력이 다소 흔들리며 대량 실점을 허용하는 경기가 아쉽게 다가옵니다. 이번 경기에서는 홈의 이점을 살려 안정적인 경기 운영을 펼치려 하겠지만 최근 수비 불안을 어떻게 극복하느냐가 중요한 과제로 꼽힙니다. 전체적으로 확실한 우위를 점하기보다는 무승부 이상의 성과를 위해 단단한 블록을 형성할 것으로 예상됩니다."
+awayAnalysis: "섐록 로버스는 앞선 31경기에서 16승 5무 10패로 승률 52%를 기록했고 비교적 높은 승률을 유지하며 상위권의 저력을 뽐내고 있습니다. 최근 10경기 성적은 3승 3무 4패로 주춤하는 모습을 보이지만 공격진의 화력만큼은 여전히 위협적인 수준을 유지하고 있습니다. 원정 경기에 나서더라도 특유의 공격적인 색채를 지우지 않으며 상대 골문을 지속적으로 두드리는 패턴을 보여줍니다. 이번 일정에서는 전력상 우세함을 바탕으로 주도권을 쥐고 경기를 풀어갈 가능성이 상당히 높습니다. 다만 원정 수비에서 간헐적으로 노출되는 약점을 얼마나 잘 단속하느냐가 관건이 될 것입니다."
+homePower: "탄탄한 수비 블록 형성이 중심 과제임|무승부 비율이 높아 끈질긴 성향을 보임|홈 경기에서 집중력을 유지하려 노력함|최근 경기력에서 기복이 다소 엿보임|상대 공세를 차단하는 방어력이 중요함"
+awayPower: "다득점 생산 능력이 우수한 편임|원정에서도 적극적인 공격 태세를 취함|최근 다소 흔들리는 수비 안정이 필요함|상대전적 우위를 바탕으로 자신감을 가짐|주도권을 잡는 경기 운영 능력이 검증됨"
+h2h: '[{"date":"26.06.27","home":"섐록 로버스","away":"골웨이 유나이티드","score":"3-1","link":"https://pick79.com/posts/detail/analyze-1492724-2026-06-27-shamrock-rovers/"},{"date":"26.05.09","home":"골웨이 유나이티드","away":"섐록 로버스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-1492693-2026-05-09-galway-united/"},{"date":"26.03.21","home":"섐록 로버스","away":"골웨이 유나이티드","score":"2-0"},{"date":"25.10.30","home":"섐록 로버스","away":"골웨이 유나이티드","score":"1-0"},{"date":"25.08.11","home":"골웨이 유나이티드","away":"섐록 로버스","score":"0-0"}]'
+summary: "양 팀은 이번 맞대결을 앞두고 서로 다른 최근 흐름을 보이고 있으며 전반적인 지표에서 섐록 로버스가 조금 더 우세한 위치를 점하고 있습니다. 골웨이 유나이티드는 홈에서 단단한 수비를 바탕으로 반격을 노리겠지만 섐록 로버스의 날카로운 공격력을 제어하기에는 다소 버거울 수 있습니다. 상대전적에서도 섐록 로버스가 우위를 점해온 만큼 이번 경기도 원정팀이 주도권을 잡고 승리에 가까워질 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.10","home":"골웨이 유나이티드","away":"데리 시티","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6171113-2026-10-10-galway-united-fc/"},{"date":"26.09.26","home":"골웨이 유나이티드","away":"셸번","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100843-2026-09-26-galway-united-fc/"},{"date":"26.09.19","home":"데리 시티","away":"골웨이 유나이티드","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100968-2026-09-19-derry-city/"},{"date":"26.09.15","home":"슬라이고 로버스","away":"골웨이 유나이티드","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100961-2026-09-15-sligo-rovers/"},{"date":"26.09.12","home":"골웨이 유나이티드","away":"보헤미안스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100963-2026-09-12-galway-united-fc/"}]'
+awayRecent: '[{"date":"26.10.13","home":"섐록 로버스","away":"보헤미안스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100960-2026-10-13-shamrock-rovers/"},{"date":"26.10.09","home":"섐록 로버스","away":"드로에다 유나이티드","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100976-2026-10-09-shamrock-rovers/"},{"date":"26.09.19","home":"섐록 로버스","away":"워터퍼드","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100970-2026-09-19-shamrock-rovers/"},{"date":"26.09.12","home":"세인트 패트릭스 애슬레틱","away":"섐록 로버스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100965-2026-09-12-st-patricks-athletic/"},{"date":"26.09.05","home":"섐록 로버스","away":"셸번","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100950-2026-09-05-shamrock-rovers/"}]'
+injuryHome: "Killian Brouder (충돌 부상) | Axel Piesold (근육 부상) | Dara McGuinness (부상)"
+injuryAway: "Michael Noonan (부상) | Naj Razi (부상) | Daniel Mândroiu (무릎 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "섐록 로버스"
+pickWinResult: "승"
+pickHandicapTeam: "섐록 로버스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

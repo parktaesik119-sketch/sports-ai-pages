@@ -1,0 +1,37 @@
+---
+title: "세인트 패트릭스 애슬레틱 vs 셸번 축구분석·승부예측 (10월 17일) - 픽천국"
+date: 2026-10-16T18:45:00.000Z
+description: "세인트 패트릭스 애슬레틱 vs 셸번 축구분석: 양 팀은 최근 흐름과 전력 면에서 팽팽한 양상을 보이며 흥미로운 승부를 예고하고 있습니다. 세인트 패트릭스 애슬레틱은 최근 연… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100980-2026-10-17-st-patricks-athletic"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "세인트 패트릭스 애슬레틱"
+awayTeam: "셸번"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1854.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/5751.png"
+homeAnalysis: "세인트 패트릭스 애슬레틱은 앞선 24경기에서 7승 8무 9패로 승률 29%를 기록했고 안정적인 수비력을 바탕으로 상승세를 타는 중입니다. 최근 10경기에서 6승 3무 1패를 거두며 눈에 띄게 탄탄한 경기력을 보여주고 있습니다. 특히 공수 균형이 빠르게 잡히면서 원정 경기에서도 쉽게 흔들리지 않는 집중력을 발휘하고 있습니다. 홈 경기 운영에서도 끈질긴 저력을 보여주며 상대를 압박하는 모습이 자주 연출됩니다. 이번 경기를 앞두고 전력을 가다듬으며 좋은 흐름을 이어가기 위해 총력을 다할 것으로 보입니다."
+awayAnalysis: "셸번은 앞선 28경기에서 8승 12무 8패로 승률 29%를 기록했고 꾸준하게 승점을 쌓아가는 저력을 보여주었습니다. 최근 10경기 흐름을 살펴보면 2승 4무 4패를 기록하며 다소 무승부가 많은 양상을 띠고 있습니다. 원정 경기에서 경기를 주도하고도 뒷심 부족으로 승리를 놓치는 경우가 종종 발생했습니다. 그렇지만 공격진의 결정력 자체는 나쁘지 않기에 언제든지 상대 수비를 위협할 수 있는 저력을 품고 있습니다. 이번 상대와의 맞대결에서도 철저한 준비를 통해 반전을 노릴 것으로 기대됩니다."
+homePower: "최근 10경기 6승 3무 상승세, 전력의 안정감이 돋보임|공수 밸런스가 빠르게 잡히며 원정에서도 강한 면모를 보임|홈 경기 집중력이 높아 후반 운영 능력이 뛰어남|세트피스 상황에서의 득점 성공률이 높게 검증됨|선수들의 전반적인 조직력이 끈끈하게 유지됨"
+awayPower: "다수의 무승부를 기록하며 쉽게 지지 않는 운영을 보여줌|원정 경기에서 꾸준히 득점을 생산하는 공격력을 갖춤|경기 중반 이후 수비 집중력 유지가 핵심 과제로 꼽힘|최근 맞대결에서의 아쉬움을 딛고 전술적 변화를 시도함|상대 압박에 대응하는 미드필더진의 패스 성공률이 중요함"
+h2h: '[{"date":"26.08.10","home":"셸번","away":"세인트 패트릭스 애슬레틱","score":"1-2","link":"https://pick79.com/posts/detail/analyze-1492748-2026-08-10-shelbourne/"},{"date":"26.05.16","home":"세인트 패트릭스 애슬레틱","away":"셸번","score":"0-1","link":"https://pick79.com/posts/detail/analyze-1492698-2026-05-16-st-patricks-athl/"},{"date":"26.03.07","home":"셸번","away":"세인트 패트릭스 애슬레틱","score":"2-3"},{"date":"25.11.02","home":"셸번","away":"세인트 패트릭스 애슬레틱","score":"0-0"},{"date":"25.08.18","home":"세인트 패트릭스 애슬레틱","away":"셸번","score":"2-0"}]'
+summary: "양 팀은 최근 흐름과 전력 면에서 팽팽한 양상을 보이며 흥미로운 승부를 예고하고 있습니다. 세인트 패트릭스 애슬레틱은 최근 연승을 달리며 뛰어난 상승세를 구가하고 있고 셸번은 무승부가 많지만 쉽게 무너지지 않는 끈질김을 지니고 있습니다. 두 팀의 맞대결 역사에서도 치열한 공방전이 거듭되었던 만큼 이번 승부 역시 한 치 양보 없는 접전이 펼쳐질 것으로 기대됩니다."
+homeRecent: '[{"date":"26.09.20","home":"슬라이고 로버스","away":"세인트 패트릭스 애슬레틱","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100971-2026-09-20-sligo-rovers/"},{"date":"26.09.15","home":"던돌크","away":"세인트 패트릭스 애슬레틱","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100957-2026-09-15-dundalk/"},{"date":"26.09.12","home":"세인트 패트릭스 애슬레틱","away":"섐록 로버스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100965-2026-09-12-st-patricks-athletic/"},{"date":"26.09.06","home":"세인트 패트릭스 애슬레틱","away":"보헤미안스","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6046150-2026-09-06-st-patricks-athletic/"},{"date":"26.08.29","home":"세인트 패트릭스 애슬레틱","away":"워터퍼드","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100956-2026-08-29-st-patricks-athletic/"}]'
+awayRecent: '[{"date":"26.10.10","home":"셸번","away":"슬라이고 로버스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100974-2026-10-10-shelbourne/"},{"date":"26.09.26","home":"골웨이 유나이티드","away":"셸번","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100843-2026-09-26-galway-united-fc/"},{"date":"26.09.19","home":"던돌크","away":"셸번","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100969-2026-09-19-dundalk/"},{"date":"26.09.15","home":"셸번","away":"드로에다 유나이티드","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100958-2026-09-15-shelbourne/"},{"date":"26.09.12","home":"셸번","away":"데리 시티","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100964-2026-09-12-shelbourne/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "1"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

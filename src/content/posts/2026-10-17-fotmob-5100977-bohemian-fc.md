@@ -1,0 +1,37 @@
+---
+title: "보헤미안스 vs 워터퍼드 축구분석·승부예측 (10월 17일) - 픽천국"
+date: 2026-10-16T18:45:00.000Z
+description: "보헤미안스 vs 워터퍼드 축구분석: 양 팀은 최근 흐름과 맞대결 성적에서 팽팽한 균형을 이루며 치열한 접전을 예고하고 있습니다. 보헤미안스는 홈의 이점을 살려 공… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100977-2026-10-17-bohemian-fc"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "보헤미안스"
+awayTeam: "워터퍼드"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4594.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6042.png"
+homeAnalysis: "보헤미안스는 앞선 31경기에서 14승 6무 11패로 승률 45%를 기록했고 안정적인 홈 운영을 바탕으로 상위권 도약을 노리고 있습니다. 최근 치른 10경기에서도 뛰어난 공격력을 발휘하며 흐름을 잘 유지하는 모습입니다. 홈 경기에서는 특유의 과감한 전술을 바탕으로 꾸준히 득점을 쌓아가는 능력이 돋보입니다. 이번 경기를 앞두고 일부 핵심 선수들의 부상 공백이 존재하지만 탄탄한 스쿼드 두께로 충분히 극복할 수 있을 것으로 보입니다. 전체적인 전력 면에서 홈의 이점을 살려 경기를 주도하려는 움직임이 예상됩니다."
+awayAnalysis: "워터퍼드는 앞선 24경기에서 7승 9무 8패로 승률 29%를 기록했고 끈끈한 조직력을 바탕으로 원정 경기에 임하고 있습니다. 최근 10경기 동안 패배를 줄이며 승점을 차곡차곡 쌓는 등 안정적인 경기 운영 능력을 보여주고 있습니다. 원정 성적에서도 쉽게 무너지지 않는 수비 집중력을 발휘하며 상대를 압박하는 성향이 강합니다. 다만 주전 자원의 부상 이탈 변수가 있어 세부적인 전술 변화가 필요한 시점입니다. 이번 맞대결에서도 특유의 단단한 수비를 바탕으로 빈틈을 노릴 전망입니다."
+homePower: "최근 홈 경기 다득점 흐름, 공격 전개 능력 우수함|핵심 미드필더 부상 공백, 중원 무게감 다소 감소함|상대전적 열세 극복 위한 전술적 변화 필수적임|홈 이점 활용한 적극적인 압박 축구 구사함|안정적인 득점력을 바탕으로 주도권 장악 시도함"
+awayPower: "원정 경기 수비 집중력 높음, 쉽게 패하지 않음|최근 10경기 안정적인 승점 관리 능력 검증됨|주요 선수 부상 변수 있으나 조직력으로 커버함|보헤미안스 상대로 최근 맞대결 우위 점유함|효율적인 역습 전개로 상대 수비 흔들기 능함"
+h2h: '[{"date":"26.10.10","home":"보헤미안스","away":"워터퍼드","score":"0-2","link":"https://pick79.com/posts/detail/analyze-fotmob-6171112-2026-10-10-bohemian-fc/"},{"date":"26.08.09","home":"워터퍼드","away":"보헤미안스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-1492749-2026-08-09-waterford/"},{"date":"26.04.07","home":"보헤미안스","away":"워터퍼드","score":"1-1"},{"date":"26.03.07","home":"워터퍼드","away":"보헤미안스","score":"0-1"},{"date":"25.09.20","home":"보헤미안스","away":"워터퍼드","score":"2-1"}]'
+summary: "양 팀은 최근 흐름과 맞대결 성적에서 팽팽한 균형을 이루며 치열한 접전을 예고하고 있습니다. 보헤미안스는 홈의 이점을 살려 공격적인 운영으로 승리를 노리겠지만, 워터퍼드는 최근 맞대결에서의 우위와 단단한 수비를 바탕으로 만만치 않은 저력을 과시할 것입니다. 양측 모두 공수에서 뚜렷한 장단점을 지니고 있어 한쪽으로 쉽게 기울기보다 팽팽한 공방전 끝에 승부를 가리지 못할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.10.13","home":"섐록 로버스","away":"보헤미안스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100960-2026-10-13-shamrock-rovers/"},{"date":"26.10.10","home":"보헤미안스","away":"워터퍼드","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6171112-2026-10-10-bohemian-fc/"},{"date":"26.10.03","home":"던돌크","away":"보헤미안스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100973-2026-10-03-dundalk/"},{"date":"26.09.19","home":"보헤미안스","away":"드로에다 유나이티드","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100967-2026-09-19-bohemian-fc/"},{"date":"26.09.12","home":"골웨이 유나이티드","away":"보헤미안스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5100963-2026-09-12-galway-united-fc/"}]'
+awayRecent: '[{"date":"26.10.10","home":"보헤미안스","away":"워터퍼드","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6171112-2026-10-10-bohemian-fc/"},{"date":"26.09.19","home":"섐록 로버스","away":"워터퍼드","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100970-2026-09-19-shamrock-rovers/"},{"date":"26.09.15","home":"워터퍼드","away":"데리 시티","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100959-2026-09-15-waterford-fc/"},{"date":"26.09.12","home":"워터퍼드","away":"던돌크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100966-2026-09-12-waterford-fc/"},{"date":"26.09.05","home":"워터퍼드","away":"슬라이고 로버스","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6046147-2026-09-05-waterford-fc/"}]'
+injuryHome: "Dawson Devoy (부상) | Adam McDonnell (종아리 부상)"
+injuryAway: "Will Johnson (근육 부상) | Finlay Armstrong (근육 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "2"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---
