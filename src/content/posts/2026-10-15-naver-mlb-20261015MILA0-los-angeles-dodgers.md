@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.13","home":"밀워키 브루어스","away":"LA 다�
 injuryHome: "Brandon Woodruff (Inflammation)|Grant Anderson (Inflammation)|Quinn Priester (Surgery)|Angel Zerpa (Surgery)|Brian Fitzpatrick (Surgery)"
 injuryAway: "Will Klein (Soreness)|Gavin Stone (Inflammation)|Jake Cousins (Surgery)|Ben Casparius (Inflammation)|Brusdar Graterol (Surgery)"
 homeLineup: "[\"선발투수 T. Glasnow (0-0, 1.93) ERA 1.93|https://a.espncdn.com/i/headshots/mlb/players/full/33190.png\"]"
-awayLineup: ''
+awayLineup: "[\"선발투수 S. Drohan|https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
