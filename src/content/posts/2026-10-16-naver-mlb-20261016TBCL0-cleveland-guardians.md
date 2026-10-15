@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.14","home":"탬파베이 레이스","away":"클리�
 awayRecent: '[{"date":"26.10.14","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261014CLTB0-2026-10-14-tampa-bay-rays/"},{"date":"26.10.13","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261013CLTB0-2026-10-13-tampa-bay-rays/"},{"date":"26.10.08","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261008TBNY0-2026-10-08-new-york-yankees/"},{"date":"26.10.06","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261006NYTB0-2026-10-06-tampa-bay-rays/"},{"date":"26.10.04","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261004NYTB0-2026-10-04-tampa-bay-rays/"}]'
 injuryHome: "Rhys Hoskins (Inflammation) | Colin Holderman (Surgery) | Andrew Walters (Surgery)"
 injuryAway: "Gavin Lux (Inflammation) | Edwin Uceta (Strain) | Jonathan Heasley (Fracture) | Shane McClanahan (Soreness) | Jacob Melton (Strain)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 G. Williams (1-0, 1.54) ERA 1.54|https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png\"]"
+awayLineup: "[\"선발투수 G. Jax (0-0, 4.50) ERA 4.50|https://a.espncdn.com/i/headshots/mlb/players/full/42604.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
