@@ -1,0 +1,37 @@
+---
+title: "슬라이고 로버스 vs 던돌크 축구분석·승부예측 (10월 18일) - 픽천국"
+date: 2026-10-17T18:45:00.000Z
+description: "슬라이고 로버스 vs 던돌크 축구분석: 양 팀의 최근 경기력과 전체적인 지표를 비교해 보면 원정팀이 좀 더 안정적인 경기 운영을 펼칠 것으로 분석됩니다. 홈팀 슬라이… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5100981-2026-10-18-sligo-rovers"
+category: "soccer"
+country: "아일랜드"
+league: "D1"
+homeTeam: "슬라이고 로버스"
+awayTeam: "던돌크"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6361.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1853.png"
+homeAnalysis: "슬라이고 로버스는 앞선 25경기에서 3승 7무 15패로 승률 12%를 기록했고 최근 공수 양면에서 다소 아쉬운 흐름을 이어가고 있습니다. 최근 펼쳐진 경기들에서는 대량 실점을 허용하는 등 수비 집중력이 흔들리는 모습을 보였습니다. 홈 경기에서도 반등의 발판을 쉽게 마련하지 못하며 고전하는 양상이 뚜렷합니다. 공격 전개 과정에서 마무리 정확도를 높이는 것이 무엇보다 중요한 과제로 꼽힙니다. 이번 경기에서는 홈 팬들의 응원을 바탕으로 수비 안정을 찾고 분위기 반전을 노릴 것으로 보입니다."
+awayAnalysis: "던돌크는 앞선 23경기에서 7승 6무 10패로 승률 30%를 기록했고 상대적으로 나은 경기 운영 능력을 보여주고 있습니다. 최근 일정 속에서 승패를 주고받는 기복을 겪었지만 꾸준히 득점포를 가동하며 공격력을 유지하고 있습니다. 원정 경기에서도 득점을 만들어내는 집중력을 발휘하며 상대를 압박하는 모습이 자주 연출됩니다. 공수 균형을 잘 유지한다면 이번 원정에서도 유리한 흐름을 가져갈 수 있습니다. 전력상 우위에 있는 만큼 차분하게 경기를 풀어나갈 것으로 예상됩니다."
+homePower: "최근 10경기 중 7패를 기록하며 수비 집중력 보완이 시급함|홈 경기에서도 뚜렷한 반등을 만들지 못하고 부진이 이어짐|평균 득점 1.0골에 그쳐 공격 세밀함과 결정력 향상이 필수적|수비진 전반의 부상 공백으로 인해 라인 안정화가 큰 과제임|최근 다실점 경기가 늘어나면서 초반 실점 억제가 최우선 과제임"
+awayPower: "최근 원정에서 꾸준히 득점을 생산해내는 공격 집중력을 보임|상대 전적에서 꾸준히 우세한 흐름을 유지하며 심리적 우위를 점함|전체적인 승률과 공수 밸런스 면에서 홈팀보다 안정적인 전력임|원정 수비 집중력을 유지한다면 충분히 경기를 주도할 수 있음|핵심 자원들의 부상 공백을 메울 로테이션 운영 능력이 중요함"
+h2h: '[{"date":"26.08.01","home":"던돌크","away":"슬라이고 로버스","score":"1-1","link":"https://pick79.com/posts/detail/analyze-1492743-2026-08-01-dundalk/"},{"date":"26.04.26","home":"슬라이고 로버스","away":"던돌크","score":"0-0","link":"https://pick79.com/posts/detail/analyze-1492680-2026-04-26-sligo-rovers/"},{"date":"26.03.17","home":"던돌크","away":"슬라이고 로버스","score":"1-0"},{"date":"25.07.19","home":"던돌크","away":"슬라이고 로버스","score":"0-2"},{"date":"24.09.22","home":"슬라이고 로버스","away":"던돌크","score":"2-1"}]'
+summary: "양 팀의 최근 경기력과 전체적인 지표를 비교해 보면 원정팀이 좀 더 안정적인 경기 운영을 펼칠 것으로 분석됩니다. 홈팀 슬라이고 로버스는 최근 이어지는 부진 속에서 수비 불안과 득점력 저하를 극복해야 하는 과제를 안고 있습니다. 반면 원정팀 던돌크는 꾸준한 득점력을 바탕으로 경기를 주도할 가능성이 높으며 상대 전적에서의 우위도 긍정적으로 작용할 것입니다. 종합적인 전력 차이와 최근 흐름을 고려했을 때 원정팀 던돌크가 우위를 점할 것으로 보입니다."
+homeRecent: '[{"date":"26.10.10","home":"셸번","away":"슬라이고 로버스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100974-2026-10-10-shelbourne/"},{"date":"26.09.20","home":"슬라이고 로버스","away":"세인트 패트릭스 애슬레틱","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100971-2026-09-20-sligo-rovers/"},{"date":"26.09.15","home":"슬라이고 로버스","away":"골웨이 유나이티드","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100961-2026-09-15-sligo-rovers/"},{"date":"26.09.12","home":"드로에다 유나이티드","away":"슬라이고 로버스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100962-2026-09-12-drogheda-united/"},{"date":"26.09.05","home":"워터퍼드","away":"슬라이고 로버스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6046147-2026-09-05-waterford-fc/"}]'
+awayRecent: '[{"date":"26.10.03","home":"던돌크","away":"보헤미안스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100973-2026-10-03-dundalk/"},{"date":"26.09.19","home":"던돌크","away":"셸번","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100969-2026-09-19-dundalk/"},{"date":"26.09.15","home":"던돌크","away":"세인트 패트릭스 애슬레틱","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100957-2026-09-15-dundalk/"},{"date":"26.09.12","home":"워터퍼드","away":"던돌크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100966-2026-09-12-waterford-fc/"},{"date":"26.09.07","home":"데리 시티","away":"던돌크","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6046149-2026-09-07-derry-city/"}]'
+injuryHome: "Sam Sargeant (근육 부상) | Jad Hakiki (근육 경련) | Conor Reynolds (엉덩이 부상)"
+injuryAway: "John Ross Wilson (근육 부상) | Tyreke Wilson (충돌 부상) | Daniel Mullen (근육 부상) | Conor O'Keeffe (충돌 부상) | Conor Kearns (무릎 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "던돌크"
+pickWinResult: "승"
+pickHandicapTeam: "던돌크"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

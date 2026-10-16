@@ -1,0 +1,37 @@
+---
+title: "한신 타이거스 vs 요코하마 DeNA 베이스타스 야구분석·승부예측 (10월 17일) - 픽천국"
+date: 2026-10-17T05:00:00.000Z
+description: "한신 타이거스 vs 요코하마 DeNA 베이스타스 야구분석: 양 팀의 최근 흐름과 전력을 살펴보면 원정팀이 한층 더 안정된 공수 밸런스를 보여주고 있습니다. 홈팀은 마운드의 분전에도 불구… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-npb-20261017YKHS0-2026-10-17-hanshin-tigers"
+category: "baseball"
+country: "일본"
+league: "NPB"
+homeTeam: "한신 타이거스"
+awayTeam: "요코하마 DeNA 베이스타스"
+homeLogo: "https://sports-phinf.pstatic.net/team/npb/default/HS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/npb/default/YK.png"
+homeAnalysis: "한신 타이거스는 앞선 120경기에서 64승 54패로 승률 53%를 기록했고 최근 공수 양면에서 다소 주춤한 흐름을 보이고 있습니다. 이번 경기에 선발로 예고된 Hiroto Saiki는 마운드 위에서 안정적인 투구를 펼치며 팀의 초반 흐름을 이끌어갈 것으로 기대를 모읍니다. 최근 치른 9경기에서는 3승 1무 5패를 기록하며 다소 아쉬움을 남겼고 이 기간 평균 득점이 2.4점에 그쳐 타선에서의 집중력 회복이 급선무로 꼽힙니다. 마운드의 끈질긴 저력에 비해 타선의 득점 지원이 원활하지 않아 전체적인 승률 관리에 어려움을 겪는 모습입니다. 이번 홈 경기에서는 타자들이 얼마나 활로를 찾아내느냐가 승부를 결정짓는 중요한 열쇠가 될 것입니다."
+awayAnalysis: "요코하마 DeNA 베이스타스는 앞선 123경기에서 62승 59패로 승률 50%를 기록했고 꾸준한 상승 곡선을 그려가고 있습니다. 이번 경기 마운드를 책임질 예고선발투수 Hiromi Katayama는 안정적인 경기 운영 능력으로 상대 타선을 봉쇄할 준비를 마쳤습니다. 최근 10경기에서 7승 3패라는 뛰어난 성적을 거두며 가파른 상승세를 타고 있고 평균 득점 또한 2.7점을 기록하며 찬스를 실점으로 연결하는 집중력을 보여주고 있습니다. 투타 조화가 매끄럽게 이루어지면서 원정 경기에서도 자신감 있는 플레이를 이어가는 중입니다. 견고한 마운드와 짜임새 있는 공격력을 바탕으로 이번 맞대결에서도 유리한 고지를 점할 것으로 보입니다."
+homePower: "마운드 끈질긴 저력에 비해 타선 득점 지원은 다소 아쉬움|최근 9경기 평균 득점 2.4점으로 타선 집중력 회복이 급선무|홈 경기 운영에서 안정감을 찾으려는 투수진의 집중력 돋보임|Hiroto Saiki 선발 등판으로 초반 실점 최소화 기대됨|타선 침체 속에서도 마운드 버팀목 역할은 꾸준히 해내는 중"
+awayPower: "최근 10경기 7승 3패로 가파른 상승세를 명확히 입증함|평균 득점 2.7점으로 찬스를 득점으로 연결하는 집중력 탁월함|Hiromi Katayama 선발 출전으로 안정적인 마운드 운영 가능|원정 경기에서도 흔들림 없는 공수 조화가 큰 강점으로 작용함|짜임새 있는 타선 흐름으로 상대 수비를 지속적으로 압박함"
+h2h: '[{"date":"26.10.15","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261015YKHS0-2026-10-15-hanshin-tigers/"},{"date":"26.10.14","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-2","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261014YKHS0-2026-10-14-hanshin-tigers/"},{"date":"26.10.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261004HSYK0-2026-10-04-yokohama-baystars/"},{"date":"26.09.26","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"3-8","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260926HSYK0-2026-09-26-yokohama-baystars/"},{"date":"26.09.25","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-naver-npb-20260925HSYK0-2026-09-25-yokohama-baystars/"}]'
+summary: "양 팀의 최근 흐름과 전력을 살펴보면 원정팀이 한층 더 안정된 공수 밸런스를 보여주고 있습니다. 홈팀은 마운드의 분전에도 불구하고 타선의 득점력 부진으로 인해 최근 경기들에서 아쉬움을 삼켰습니다. 반면 원정팀은 최근 10경기에서 뛰어난 성적을 거두며 타선과 마운드가 모두 짜임새 있는 모습을 뽐내고 있습니다. 상대 전적과 최근의 상승세를 종합해 보았을 때 이번 경기는 요코하마 DeNA 베이스타스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.15","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261015YKHS0-2026-10-15-hanshin-tigers/"},{"date":"26.10.14","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261014YKHS0-2026-10-14-hanshin-tigers/"},{"date":"26.10.08","home":"한신 타이거스","away":"야쿠르트 스왈로우스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261008YAHS0-2026-10-08-hanshin-tigers/"},{"date":"26.10.07","home":"한신 타이거스","away":"히로시마 도요 카프","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261007HIHS0-2026-10-07-hanshin-tigers/"},{"date":"26.10.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261004HSYK0-2026-10-04-yokohama-baystars/"}]'
+awayRecent: '[{"date":"26.10.15","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261015YKHS0-2026-10-15-hanshin-tigers/"},{"date":"26.10.14","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261014YKHS0-2026-10-14-hanshin-tigers/"},{"date":"26.10.11","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261011YKYO0-2026-10-11-yomiuri-giants/"},{"date":"26.10.10","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261010YKYO0-2026-10-10-yomiuri-giants/"},{"date":"26.10.04","home":"요코하마 DeNA 베이스타스","away":"한신 타이거스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261004HSYK0-2026-10-04-yokohama-baystars/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "요코하마 DeNA 베이스타스"
+pickWinResult: "승"
+pickHandicapTeam: "요코하마 DeNA 베이스타스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "5.5"
+pickOuDirection: "언더"
+---
