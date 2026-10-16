@@ -21,7 +21,7 @@ awayRecent: '[{"date":"26.10.16","home":"클리블랜드 가디언스","away":"�
 injuryHome: "Rhys Hoskins (Inflammation)|Colin Holderman (Surgery)|Andrew Walters (Surgery)"
 injuryAway: "Gavin Lux (Inflammation)|Edwin Uceta (Strain)|Jonathan Heasley (Fracture)|Shane McClanahan (Soreness)|Jacob Melton (Strain)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"선발투수 N. Martinez (0-0, 4.91) ERA 4.91|https://a.espncdn.com/i/headshots/mlb/players/full/33372.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
