@@ -174,6 +174,7 @@ const PLAYER_NAME_MAP = {
   "Byeong-Chan Choe": "최병찬",
   "Byeong-Chan Choi": "최병찬",
   "Ko Eun-Seok": "고은석",
+  "Mun-Ki Hwang": "황문기",
 
   // --- Jeju SK (제주 SK) ---
   "Dong-Jun Kim": "김동준",
@@ -385,6 +386,7 @@ const PLAYER_NAME_MAP = {
   "Hyun-Woo Kim": "김현우",
   "Min-Kyu Kim": "김민규",
   "Dug-Keun Lim": "임덕근",
+  "Deok-Geun Lim": "임덕근",
   "Jung-Taek Lee": "이정택",
   "Seo-Jin Kim": "김서진",
   "Jun-Soo Byeon": "변준수",
@@ -1054,6 +1056,7 @@ const PLAYER_NAME_MAP = {
   "Hyun-Seok Kim": "김현석", // 울산 HD — fotmob 스쿼드 페이지에서 이 항목만 이미 GivenName Surname 순서였음
   "Jung-Yong Chung": "정정용", // 전북 현대
   "Jung-Yong Jung": "정정용", // 전북 현대
+  "Jeong-Yong Chung": "정정용", // 전북 현대
   "Jeong-Yong Jung": "정정용", // 전북 현대
   "Kyeong-Ho Chung": "정경호", // 강원 FC
   "Kyung-Ho Chung": "정경호", // 강원 FC
@@ -1064,6 +1067,7 @@ const PLAYER_NAME_MAP = {
   "Sun-Hong Hwang": "황선홍", // 대전 하나 시티즌
   "Seung-jin Joo": "주승진", // 김천 상무
   "Seung-Jin Ju": "주승진", // 김천 상무
+  "Seung-Jin Joo": "주승진", // 김천 상무
   "Jeong-Gyu Lee": "이정규", // 광주 FC
   "Jeong-Kyu Lee": "이정규", // 광주 FC
   "Jung-Hyo Lee": "이정효", // 수원 삼성 블루윙즈
@@ -1085,6 +1089,7 @@ const PLAYER_NAME_MAP = {
   "Lim Kwan-Sik": "임관식", // 전남 드래곤즈
   "Hyun-Joon Son": "손현준", // 김해 FC 2008
   "Hyun-Jun Son": "손현준", // 김해 FC 2008
+  "Choi Myung-Sung": "최명성", // 김해 FC
   "Kim Hae-Woon": "김해운", //성남 FC
 
   // ===== 🌍 해외파 (유럽/북미 등 해외 리그 진출 선수, 2026-08 조사 기준) =====
