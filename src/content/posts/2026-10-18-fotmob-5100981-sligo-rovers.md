@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.10","home":"셸번","away":"슬라이고 로버스"
 awayRecent: '[{"date":"26.10.03","home":"던돌크","away":"보헤미안스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100973-2026-10-03-dundalk/"},{"date":"26.09.19","home":"던돌크","away":"셸번","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100969-2026-09-19-dundalk/"},{"date":"26.09.15","home":"던돌크","away":"세인트 패트릭스 애슬레틱","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5100957-2026-09-15-dundalk/"},{"date":"26.09.12","home":"워터퍼드","away":"던돌크","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5100966-2026-09-12-waterford-fc/"},{"date":"26.09.07","home":"데리 시티","away":"던돌크","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6046149-2026-09-07-derry-city/"}]'
 injuryHome: "Carl McHugh[주요](무릎 부상 - 복귀예정 Late November 2026) | Sam Sargeant[주요](근육 부상 - 복귀예정 A few weeks) | Jad Hakiki[주요](근육 경련 - 복귀예정 About 1-2 weeks) | Conor Reynolds[주요](엉덩이 부상 - 복귀예정 A few weeks)"
 injuryAway: "John Ross Wilson[주요](근육 부상 - 복귀예정 About 1-2 weeks) | Daniel Mullen[주요](근육 부상 - 복귀예정 Back in training) | Conor O'Keeffe[주요](충돌 부상 - 복귀예정 Unknown) | Conor Kearns[주요](무릎 부상 - 복귀예정 Unknown)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Liam Hughes (GK)|https://images.fotmob.com/image_resources/playerimages/1234030.png\",\"Aidan Gabbidon (DF)|https://images.fotmob.com/image_resources/playerimages/1646397.png\",\"Oliver Denham (DF)|https://images.fotmob.com/image_resources/playerimages/1291175.png\",\"Gareth McElroy (DF)|https://images.fotmob.com/image_resources/playerimages/1502145.png\",\"Sean Stewart (DF)|https://images.fotmob.com/image_resources/playerimages/1113713.png\",\"Daire Patton (MF)|https://images.fotmob.com/image_resources/playerimages/1526230.png\",\"Luke Young (MF)|https://images.fotmob.com/image_resources/playerimages/244034.png\",\"Kaiyne Woolery (FW)|https://images.fotmob.com/image_resources/playerimages/470724.png\",\"Archie Meekison (MF)|https://images.fotmob.com/image_resources/playerimages/1099919.png\",\"Jack Shorrock (FW)|https://images.fotmob.com/image_resources/playerimages/1473815.png\",\"Cian Kavanagh (FW)|https://images.fotmob.com/image_resources/playerimages/1069598.png\"]"
+awayLineup: "[\"Enda Minogue (GK)|https://images.fotmob.com/image_resources/playerimages/952037.png\",\"Bobby Burns (DF)|https://images.fotmob.com/image_resources/playerimages/873002.png\",\"Mayowa Animasahun (DF)|https://images.fotmob.com/image_resources/playerimages/1250503.png\",\"Tom Grivosti (DF)|https://images.fotmob.com/image_resources/playerimages/972031.png\",\"Tyreke Wilson (DF)|https://images.fotmob.com/image_resources/playerimages/863820.png\",\"Keith Buckley (MF)|https://images.fotmob.com/image_resources/playerimages/253259.png\",\"Aodh Dervin (MF)|https://images.fotmob.com/image_resources/playerimages/843941.png\",\"Trevor Clarke (FW)|https://images.fotmob.com/image_resources/playerimages/730242.png\",\"Ronan Teahan (MF)|https://images.fotmob.com/image_resources/playerimages/1664590.png\",\"Daryl Horgan (FW)|https://images.fotmob.com/image_resources/playerimages/253356.png\",\"Cian Dillon (FW)|https://images.fotmob.com/image_resources/playerimages/1612455.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Darren Purse|https://images.fotmob.com/image_resources/playerimages/22926.png"
+awayCoach: "Ciarán Kilduff|https://images.fotmob.com/image_resources/playerimages/179457.png"
 pickWinTeam: "던돌크"
 pickWinResult: "승"
 pickHandicapTeam: "던돌크"
