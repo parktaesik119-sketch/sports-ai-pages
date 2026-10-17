@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 가디언스 vs 탬파베이 레이스 야구분석·승부예측 (10월 18일) - 픽천국"
+date: 2026-10-18T00:00:00.000Z
+description: "클리블랜드 가디언스 vs 탬파베이 레이스 야구분석: 클리블랜드 가디언스와 탬파베이 레이스의 이번 맞대결은 양 팀의 치열한 전력 싸움이 예상되는 가운데 흥미로운 흐름으로 전개될 것… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-mlb-20261018TBCL0-2026-10-18-cleveland-guardians"
+category: "baseball"
+country: "미국"
+league: "MLB"
+homeTeam: "클리블랜드 가디언스"
+awayTeam: "탬파베이 레이스"
+homeLogo: "https://sports-phinf.pstatic.net/team/mlb/default/CL.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/mlb/default/TB.png"
+homeAnalysis: "클리블랜드 가디언스는 앞선 130경기에서 65승 2무 63패로 승률 50%를 기록했고 안정적인 공수 균형을 바탕으로 후반기 레이스를 소화하고 있습니다. 현재 리그순위 4위를 마크하며 상위권 도약을 위한 승수 쌓기에 집중하는 모습입니다. 최근 10경기 흐름을 살펴보면 6승 4패로 서서히 페이스를 끌어올리며 좋은 분위기를 유지하고 있습니다. 홈 경기력 역시 탄탄한 마운드 운영이 뒷받침되면서 상성상 까다로운 상대를 상대로도 저력을 발휘하고 있습니다. 다만 주전 자원의 부상 공백을 메우는 과정에서 집중력을 끝까지 유지하는 것이 중요합니다."
+awayAnalysis: "탬파베이 레이스는 앞선 131경기에서 78승 4무 49패로 승률 60%를 기록했고 리그 최상위권의 저력을 유감없이 발휘하고 있습니다. 현재 리그순위 1위를 달리고 있으며 공수 양면에서 안정된 전력을 뽐내고 있습니다. 최근 10경기에서도 6승 4패를 기록하며 꾸준한 경기력을 이어가고 있습니다. 원정 경기에서도 특유의 짜임새 있는 야구를 펼치며 승리를 챙기는 능력이 돋보입니다. 탄탄한 투수진을 바탕으로 한 수비 야구가 강점으로 꼽히며 이번 경기에서도 기세를 이어가고자 합니다."
+homePower: "최근 상위권 팀들을 상대로 보여준 집중력은 상성 극복의 가능성을 높여줌|홈 경기 마운드 운영 능력이 안정적이며 실점을 최소화하는 패턴이 돋보임|주전 야수들의 부상 공백에도 불구하고 대체 자원들의 활약이 꾸준히 이어짐|리그순위 4위의 위치에서 상위 팀을 잡기 위한 전술적 완성도가 높게 평가됨|득점 생산력에서 다소 기복을 보이나 집중타를 만드는 능력은 검증됨"
+awayPower: "리그순위 1위다운 탄탄한 투타 밸런스와 안정된 원정 운영 능력이 검증됨|최근 일정에서 꾸준히 승수를 챙기며 상위권 수성에 대한 동기부여가 확실함|원정 경기에서도 흔들림 없는 마운드 집중력을 바탕으로 실점을 억제함|주요 선수들의 이탈 속에서도 탄탄한 선수층으로 공백을 잘 메워내고 있음|상대전적 우위를 바탕으로 경기 초반 주도권을 잡는 패턴이 뚜렷하게 나타남"
+h2h: '[{"date":"26.10.16","home":"클리블랜드 가디언스","away":"탬파베이 레이스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261016TBCL0-2026-10-16-cleveland-guardians/"},{"date":"26.10.14","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261014CLTB0-2026-10-14-tampa-bay-rays/"},{"date":"26.10.13","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-7","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261013CLTB0-2026-10-13-tampa-bay-rays/"},{"date":"26.07.27","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"1-0","link":"https://pick79.com/posts/detail/analyze-179592-2026-07-27-tampa-bay-rays/"},{"date":"26.07.26","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-0","link":"https://pick79.com/posts/detail/analyze-179576-2026-07-26-tampa-bay-rays/"}]'
+summary: "클리블랜드 가디언스와 탬파베이 레이스의 이번 맞대결은 양 팀의 치열한 전력 싸움이 예상되는 가운데 흥미로운 흐름으로 전개될 것으로 보입니다. 홈팀 클리블랜드 가디언스는 최근 안방에서 단단한 수비 집중력과 함께 반등 흐름을 타고 있으며 상위권 상대를 향한 의지를 불태우고 있습니다. 원정팀 탬파베이 레이스 역시 리그 최상위권의 안정적인 공수 밸런스를 자랑하지만 최근 맞대결 양상이나 접전 상황에서의 집중력을 고려할 때 홈팀 클리블랜드 가디언스가 조금 더 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.10.16","home":"클리블랜드 가디언스","away":"탬파베이 레이스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261016TBCL0-2026-10-16-cleveland-guardians/"},{"date":"26.10.14","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261014CLTB0-2026-10-14-tampa-bay-rays/"},{"date":"26.10.13","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261013CLTB0-2026-10-13-tampa-bay-rays/"},{"date":"26.10.11","home":"클리블랜드 가디언스","away":"시카고 화이트삭스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261011CWCL0-2026-10-11-cleveland-guardians/"},{"date":"26.10.09","home":"시카고 화이트삭스","away":"클리블랜드 가디언스","score":"5-9","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261009CLCW0-2026-10-09-chicago-white-sox/"}]'
+awayRecent: '[{"date":"26.10.16","home":"클리블랜드 가디언스","away":"탬파베이 레이스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261016TBCL0-2026-10-16-cleveland-guardians/"},{"date":"26.10.14","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261014CLTB0-2026-10-14-tampa-bay-rays/"},{"date":"26.10.13","home":"탬파베이 레이스","away":"클리블랜드 가디언스","score":"3-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261013CLTB0-2026-10-13-tampa-bay-rays/"},{"date":"26.10.08","home":"뉴욕 양키즈","away":"탬파베이 레이스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261008TBNY0-2026-10-08-new-york-yankees/"},{"date":"26.10.06","home":"탬파베이 레이스","away":"뉴욕 양키즈","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-mlb-20261006NYTB0-2026-10-06-tampa-bay-rays/"}]'
+injuryHome: "Rhys Hoskins(10-Day-IL - Inflammation)|Colin Holderman(15-Day-IL - Surgery)|Andrew Walters(Out - Surgery)"
+injuryAway: "Gavin Lux(60-Day-IL - Inflammation)|Edwin Uceta(60-Day-IL - Strain)|Jonathan Heasley(60-Day-IL - Fracture)|Shane McClanahan(Out - Soreness)|Jacob Melton(60-Day-IL - Strain)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "클리블랜드 가디언스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 가디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "7.5"
+pickOuDirection: "언더"
+---
