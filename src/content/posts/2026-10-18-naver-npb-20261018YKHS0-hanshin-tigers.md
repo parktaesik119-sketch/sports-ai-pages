@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.16","home":"한신 타이거스","away":"요코하�
 awayRecent: '[{"date":"26.10.16","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261016YKHS0-2026-10-16-hanshin-tigers/"},{"date":"26.10.15","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261015YKHS0-2026-10-15-hanshin-tigers/"},{"date":"26.10.14","home":"한신 타이거스","away":"요코하마 DeNA 베이스타스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261014YKHS0-2026-10-14-hanshin-tigers/"},{"date":"26.10.11","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261011YKYO0-2026-10-11-yomiuri-giants/"},{"date":"26.10.10","home":"요미우리 자이언츠","away":"요코하마 DeNA 베이스타스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-npb-20261010YKYO0-2026-10-10-yomiuri-giants/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 Masashi Itoh (2-3, 3.10)|https://p.npb.jp/players_photo/2026/180/t/027_71375153.jpg\"]"
+awayLineup: "[\"선발투수 Yutaro Ishida (5-8, 2.91)|https://p.npb.jp/players_photo/2026/180/db/054_21125159.jpg\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
