@@ -25,7 +25,7 @@ awayLineup: '["Dino Bontis (GK)|https://images.fotmob.com/image_resources/player
 homeFormation: "4-2-3-1"
 awayFormation: "4-2-3-1"
 homeCoach: "Gustavo Leal|https://images.fotmob.com/image_resources/playerimages/1501224.png"
-awayCoach: "Peter Reynders"
+awayCoach: "Bobby Smyrniotis|https://images.fotmob.com/image_resources/playerimages/1338449.png"
 pickWinTeam: "포지 FC"
 pickWinResult: "승"
 pickHandicapTeam: "포지 FC"
