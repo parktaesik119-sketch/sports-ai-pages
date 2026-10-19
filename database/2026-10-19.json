@@ -8589,8 +8589,8 @@
     "away": "Querétaro (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980706.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5977388",
@@ -8602,8 +8602,8 @@
     "away": "Pachuca (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980693.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980692.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6365893",
@@ -8654,8 +8654,8 @@
     "away": "Guastatoya",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9933.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188303.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5861296",
@@ -8667,8 +8667,8 @@
     "away": "CD Suchitepéquez",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9934.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49756.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5989853",
@@ -8875,8 +8875,8 @@
     "away": "Barau",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/184466.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1791636.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5161672",
@@ -10110,8 +10110,8 @@
     "away": "Caracas FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1812467.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/597639.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 7,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000022159",
@@ -10123,8 +10123,8 @@
     "away": "Universitario Deportes",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1817219.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2251493.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000017435",
@@ -10227,8 +10227,8 @@
     "away": "Pachuca",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7849.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7848.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000019574",
@@ -10318,8 +10318,8 @@
     "away": "Los Angeles FC II",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1348104.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1451871.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000022199",
@@ -10344,8 +10344,8 @@
     "away": "San Jose Earthquakes II",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1451870.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1348115.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000009228",
@@ -10487,8 +10487,8 @@
     "away": "Junior FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6387.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000007331",
@@ -11046,6 +11046,84 @@
     "away": "Mes Kerman",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1602400.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101622.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6462208",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-10-19T16:15:00.000Z",
+    "home": "Prime FC",
+    "away": "N5 FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1926481.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730342.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6462209",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-10-19T17:05:00.000Z",
+    "home": "Clutch FC",
+    "away": "P17 FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1823637.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2357165.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6462210",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-10-19T18:00:00.000Z",
+    "home": "Deportrio",
+    "away": "Gold Devils",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730336.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1926480.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6462211",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-10-19T19:05:00.000Z",
+    "home": "Wembley Rangers",
+    "away": "NDL FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730347.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730345.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6462212",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-10-19T20:00:00.000Z",
+    "home": "RTG FC",
+    "away": "Toma",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2357166.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2357167.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6462213",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-10-19T20:50:00.000Z",
+    "home": "VZN FC",
+    "away": "SDS FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730346.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730344.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -15115,8 +15193,8 @@
     "away": "Columbus Blue Jackets",
     "homeLogo": "https://highlightly.net/hockey/images/teams/585421.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/579464.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378466865",
@@ -15284,8 +15362,8 @@
     "away": "Carolina Hurricanes",
     "homeLogo": "https://highlightly.net/hockey/images/teams/575209.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/576060.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-366421811",
@@ -15596,15 +15674,15 @@
     "away": "Hyundai Capital Skywalkers",
     "homeLogo": "https://sports-phinf.pstatic.net/team/kovo/default/1008.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/kovo/default/1005.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "naver-kovo-20261019824M14",
     "sport": "volleyball",
     "country": "South Korea",
     "league": "KOVO",
-    "date": "2026-10-19T06:30:00.000Z",
+    "date": "2026-10-19T07:00:00.000Z",
     "home": "KEPCO Vixtorm",
     "away": "KB Insurance Stars",
     "homeLogo": "https://sports-phinf.pstatic.net/team/kovo/default/1006.png",

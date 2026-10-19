@@ -2800,16 +2800,6 @@
     "injuries": {
       "home": [
         {
-          "name": "Filip Gustavsson",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Jared Spurgeon",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
           "name": "Olli Maatta",
           "status": "Out",
           "detail": ""
@@ -2818,6 +2808,16 @@
           "name": "Nico Sturm",
           "status": "Injured Reserve",
           "detail": ""
+        },
+        {
+          "name": "Jared Spurgeon",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Filip Gustavsson",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
         },
         {
           "name": "Marcus Foligno",
@@ -3057,7 +3057,7 @@
     },
     "standings": {
       "home": {
-        "rank": "15",
+        "rank": "16",
         "wins": "0",
         "losses": "4",
         "ties": null,
@@ -3098,7 +3098,7 @@
       "away": [
         {
           "name": "Ross Johnston",
-          "status": "Day-To-Day",
+          "status": "Injured Reserve",
           "detail": ""
         },
         {
@@ -3437,24 +3437,24 @@
     },
     "standings": {
       "home": {
-        "rank": "16",
-        "wins": "1",
+        "rank": "15",
+        "wins": "2",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "14",
-        "pointsFor": "14",
-        "pointsAgainst": "35"
+        "gamesBehind": "12",
+        "pointsFor": "17",
+        "pointsAgainst": "37"
       },
       "away": {
         "rank": "1",
         "wins": "7",
-        "losses": "1",
+        "losses": "2",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "34",
-        "pointsAgainst": "21"
+        "pointsFor": "36",
+        "pointsAgainst": "24"
       }
     },
     "h2h": null
@@ -3748,7 +3748,7 @@
         "pointsAgainst": "24"
       },
       "away": {
-        "rank": "15",
+        "rank": "16",
         "wins": "0",
         "losses": "4",
         "ties": null,
@@ -4044,17 +4044,17 @@
       ],
       "away": [
         {
+          "name": "Cason Wallace",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Thomas Sorber",
           "status": "Day-To-Day",
           "detail": "Surgery"
         },
         {
           "name": "Jaylin Williams",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
-          "name": "Cason Wallace",
           "status": "Day-To-Day",
           "detail": ""
         },
