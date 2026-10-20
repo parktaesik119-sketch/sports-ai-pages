@@ -185,6 +185,7 @@ export const EXACT_LEAGUE_MAP = {
   "Community Shield": "커뮤니티 실드",
   "Coppa Italia": "코파 이탈리아",
   "Asian Games": "아시안게임",
+  "Central American Cup": "중앙아메리카컵",
 
   // 🎮 e스포츠
   "Esports World Cup Playoffs": "EWC 플레이오프",

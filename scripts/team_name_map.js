@@ -157,6 +157,7 @@ const TEAM_NAME_MAP = {
   "Genoa": "제노아",
   "Hellas Verona": "엘라스 베로나",
   "Inter": "인테르",
+  "Shakhtar Donetsk": "샤흐타르 도네츠크",
   "Juventus": "유벤투스",
   "Lazio": "라치오",
   "Lecce": "레체",
