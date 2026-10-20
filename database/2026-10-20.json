@@ -3740,8 +3740,8 @@
     "away": "Santos Laguna (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980694.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980709.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5977390",
@@ -3753,8 +3753,8 @@
     "away": "Atlante (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980705.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2105856.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5861292",
@@ -3766,8 +3766,8 @@
     "away": "Club Xelajú",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188298.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49758.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5887594",
@@ -3805,8 +3805,8 @@
     "away": "Tauro FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165472.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/165469.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5954363",
@@ -4091,8 +4091,8 @@
     "away": "Deportiva San Carlos",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/776638.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49728.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 3
   },
   {
     "id": "fotmob-5961126",
@@ -4104,8 +4104,8 @@
     "away": "Puntarenas FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1285005.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9935.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5113506",
@@ -4429,8 +4429,8 @@
     "away": "Olimpia",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2251492.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1812473.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000022172",
@@ -4442,8 +4442,8 @@
     "away": "Universidad de Chile",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1812476.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1812471.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000022307",
@@ -4559,8 +4559,8 @@
     "away": "Unión",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/298629.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10096.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000015294",
@@ -4611,8 +4611,8 @@
     "away": "Alianza FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4405.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000007333",
@@ -5430,19 +5430,6 @@
     "away": "Eastbourne Borough",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/338317.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6627.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-5948142",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Isthmian Premier Division",
-    "date": "2026-10-20T18:45:00.000Z",
-    "home": "Welling United",
-    "away": "Leatherhead",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8679.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/45722.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -7128,7 +7115,7 @@
     "sport": "soccer",
     "country": "Scotland",
     "league": "Lowland League West",
-    "date": "2026-10-20T18:15:00.000Z",
+    "date": "2026-10-20T18:45:00.000Z",
     "home": "Largs Thistle",
     "away": "Pollok",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2063858.png",
@@ -8797,21 +8784,8 @@
     "away": "Cleveland Guardians",
     "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TB.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CL.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "naver-mlb-20261021CLTB0",
-    "sport": "baseball",
-    "country": "USA",
-    "league": "MLB",
-    "date": "2026-10-21T00:08:00.000Z",
-    "home": "Tampa Bay Rays",
-    "away": "Cleveland Guardians",
-    "homeLogo": "https://sports-phinf.pstatic.net/team/mlb/default/TB.png",
-    "awayLogo": "https://sports-phinf.pstatic.net/team/mlb/default/CL.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 7,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378471120",
@@ -8823,8 +8797,8 @@
     "away": "San Jose Sharks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/596484.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/593931.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378470269",
@@ -8836,8 +8810,8 @@
     "away": "Colorado Avalanche",
     "homeLogo": "https://highlightly.net/hockey/images/teams/592229.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/578613.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378469418",
@@ -8849,8 +8823,8 @@
     "away": "Anaheim Ducks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/589676.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/570954.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378468567",
@@ -9005,8 +8979,8 @@
     "away": "Pittsburgh Penguins",
     "homeLogo": null,
     "awayLogo": "https://highlightly.net/hockey/images/teams/593080.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-366425215",
@@ -9512,15 +9486,15 @@
     "away": "OK Savings Bank OKman",
     "homeLogo": "https://sports-phinf.pstatic.net/team/kovo/default/1001.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/kovo/default/1008.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "naver-kovo-20261020824M17",
     "sport": "volleyball",
     "country": "South Korea",
     "league": "KOVO",
-    "date": "2026-10-20T06:30:00.000Z",
+    "date": "2026-10-20T06:45:00.000Z",
     "home": "KB Insurance Stars",
     "away": "Woori Card WON",
     "homeLogo": "https://sports-phinf.pstatic.net/team/kovo/default/1004.png",
