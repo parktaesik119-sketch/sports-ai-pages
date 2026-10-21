@@ -1,6 +1,6 @@
 ---
 title: "C.S. Cartaginés vs CD Olimpia 축구분석·승부예측 (10월 22일) - 픽천국"
-date: 2026-10-22T03:30:00.000Z
+date: 2026-10-22T02:30:00.000Z
 description: "C.S. Cartaginés vs CD Olimpia 축구분석: 양 팀의 최근 흐름과 객관적인 전력 지표를 종합해 볼 때 전반적으로 탄탄한 공수 균형을 갖춘 원정팀이 다소 우위를 점할 것으로… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-fotmob-6281880-2026-10-22-c-s-cartagins"
 category: "soccer"
