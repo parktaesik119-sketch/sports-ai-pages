@@ -1,114 +1,9 @@
 [
   {
-    "home": "CD Marathón",
-    "away": "Alianza FC",
-    "date": "2026-10-21T02:00:00.000Z",
-    "league": "CONCACAF Central American Cup Play-In",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2026-08-20T01:00:00.000Z",
-        "home": "CD Marathón",
-        "away": "Alianza FC",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-08-28T00:00:00.000Z",
-        "home": "CD Marathón",
-        "away": "Alianza FC",
-        "homeScore": 1,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-13T23:15:00.000Z",
-          "home": "CD Marathón",
-          "away": "CD Olimpia",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-18T00:30:00.000Z",
-          "home": "LD Alajuelense",
-          "away": "CD Marathón",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-21T01:30:00.000Z",
-          "home": "Juticalpa",
-          "away": "CD Marathón",
-          "homeScore": 3,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-11T02:30:00.000Z",
-          "home": "Lobos UPNFM",
-          "away": "CD Marathón",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-15T23:15:00.000Z",
-          "home": "CD Marathón",
-          "away": "Olancho FC",
-          "homeScore": 2,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-10-01T00:00:00.000Z",
-          "home": "Alianza FC",
-          "away": "CD Platense Municipal",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-04T01:00:00.000Z",
-          "home": "Alianza FC",
-          "away": "Firpo",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-09T01:30:00.000Z",
-          "home": "CD FAS",
-          "away": "Alianza FC",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-11T23:30:00.000Z",
-          "home": "Alianza FC",
-          "away": "Inter Santa Tecla",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-17T21:00:00.000Z",
-          "home": "CD Cacahuatique",
-          "away": "Alianza FC",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ]
-    },
-    "lineup": null,
-    "formation": null,
-    "coach": null
-  },
-  {
     "home": "Sabah FK",
     "away": "Borussia Dortmund",
     "date": "2026-10-20T16:45:00.000Z",
-    "league": "Champions League - League Stage",
+    "league": "Champions League",
     "injuries": {
       "home": [],
       "away": []
@@ -209,18 +104,18 @@
         "Waldemar Anton (DF)|https://images.fotmob.com/image_resources/playerimages/664970.png",
         "Nico Schlotterbeck (DF)|https://images.fotmob.com/image_resources/playerimages/1002058.png",
         "Ramy Bensebaini (DF)|https://images.fotmob.com/image_resources/playerimages/559065.png",
-        "Joey Veerman (MF)|https://images.fotmob.com/image_resources/playerimages/792429.png",
-        "Carney Chukwuemeka (FW)|https://images.fotmob.com/image_resources/playerimages/1089685.png",
-        "Felix Nmecha (MF)|https://images.fotmob.com/image_resources/playerimages/966019.png",
         "Julian Ryerson (MF)|https://images.fotmob.com/image_resources/playerimages/659272.png",
-        "Daniel Svensson (FW)|https://images.fotmob.com/image_resources/playerimages/1209228.png",
-        "Serhou Guirassy (FW)|https://images.fotmob.com/image_resources/playerimages/448540.png",
-        "Fábio Silva (FW)|https://images.fotmob.com/image_resources/playerimages/1050158.png"
+        "Felix Nmecha (MF)|https://images.fotmob.com/image_resources/playerimages/966019.png",
+        "Joey Veerman (MF)|https://images.fotmob.com/image_resources/playerimages/792429.png",
+        "Daniel Svensson (MF)|https://images.fotmob.com/image_resources/playerimages/1209228.png",
+        "Carney Chukwuemeka (MF)|https://images.fotmob.com/image_resources/playerimages/1089685.png",
+        "Fábio Silva (FW)|https://images.fotmob.com/image_resources/playerimages/1050158.png",
+        "Serhou Guirassy (FW)|https://images.fotmob.com/image_resources/playerimages/448540.png"
       ]
     },
     "formation": {
       "home": "4-2-3-1",
-      "away": "3-1-4-2"
+      "away": "3-4-2-1"
     },
     "coach": {
       "home": "Valdas Dambrauskas|https://images.fotmob.com/image_resources/playerimages/551679.png",
@@ -228,26 +123,40 @@
     }
   },
   {
-    "home": "Roma",
-    "away": "Slovan Bratislava",
+    "home": "Liverpool",
+    "away": "Villarreal",
     "date": "2026-10-20T19:00:00.000Z",
-    "league": "Champions League - League Stage",
+    "league": "Champions League",
     "injuries": {
       "home": [],
       "away": []
     },
     "h2h": [
       {
-        "date": "2011-08-25T18:45:00.000Z",
-        "home": "Roma",
-        "away": "Slovan Bratislava",
-        "homeScore": 1,
-        "awayScore": 1
+        "date": "2022-05-03T19:00:00.000Z",
+        "home": "Villarreal",
+        "away": "Liverpool",
+        "homeScore": 2,
+        "awayScore": 3
       },
       {
-        "date": "2011-08-18T18:45:00.000Z",
-        "home": "Slovan Bratislava",
-        "away": "Roma",
+        "date": "2022-04-27T19:00:00.000Z",
+        "home": "Liverpool",
+        "away": "Villarreal",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-05-05T19:05:00.000Z",
+        "home": "Liverpool",
+        "away": "Villarreal",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-04-28T19:05:00.000Z",
+        "home": "Villarreal",
+        "away": "Liverpool",
         "homeScore": 1,
         "awayScore": 0
       }
@@ -255,121 +164,121 @@
     "recent": {
       "home": [
         {
-          "date": "2026-09-14T16:30:00.000Z",
-          "home": "Torino",
-          "away": "Roma",
-          "homeScore": 0,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-19T16:00:00.000Z",
-          "home": "Roma",
-          "away": "Inter",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-11T10:30:00.000Z",
-          "home": "Como",
-          "away": "Roma",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-14T19:00:00.000Z",
-          "home": "Roma",
-          "away": "Real Madrid",
+          "date": "2026-09-15T19:00:00.000Z",
+          "home": "Liverpool",
+          "away": "Tottenham Hotspur",
           "homeScore": 3,
-          "awayScore": 4
+          "awayScore": 1
         },
         {
-          "date": "2026-10-17T18:45:00.000Z",
-          "home": "Roma",
-          "away": "Genoa",
-          "homeScore": 2,
-          "awayScore": 0
+          "date": "2026-09-20T13:00:00.000Z",
+          "home": "AFC Bournemouth",
+          "away": "Liverpool",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-11T15:30:00.000Z",
+          "home": "Liverpool",
+          "away": "Manchester City",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-14T16:45:00.000Z",
+          "home": "LASK",
+          "away": "Liverpool",
+          "homeScore": 3,
+          "awayScore": 6
+        },
+        {
+          "date": "2026-10-17T14:00:00.000Z",
+          "home": "Brentford",
+          "away": "Liverpool",
+          "homeScore": 1,
+          "awayScore": 2
         }
       ],
       "away": [
         {
-          "date": "2026-09-16T16:30:00.000Z",
-          "home": "Nitra",
-          "away": "Slovan Bratislava",
+          "date": "2026-09-17T19:30:00.000Z",
+          "home": "Málaga",
+          "away": "Villarreal",
           "homeScore": 1,
           "awayScore": 3
         },
         {
-          "date": "2026-09-19T18:30:00.000Z",
-          "home": "Komárno",
-          "away": "Slovan Bratislava",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-10T13:30:00.000Z",
-          "home": "Skalica",
-          "away": "Slovan Bratislava",
-          "homeScore": 1,
+          "date": "2026-09-20T16:30:00.000Z",
+          "home": "Villarreal",
+          "away": "Levante",
+          "homeScore": 3,
           "awayScore": 1
         },
         {
-          "date": "2026-10-14T19:00:00.000Z",
-          "home": "Slovan Bratislava",
-          "away": "VfB Stuttgart",
-          "homeScore": 0,
-          "awayScore": 3
+          "date": "2026-10-10T19:00:00.000Z",
+          "home": "Real Madrid",
+          "away": "Villarreal",
+          "homeScore": 1,
+          "awayScore": 0
         },
         {
-          "date": "2026-10-17T16:00:00.000Z",
-          "home": "Spartak Trnava",
-          "away": "Slovan Bratislava",
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Villarreal",
+          "away": "Napoli",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-17T14:15:00.000Z",
+          "home": "Villarreal",
+          "away": "Elche",
           "homeScore": 0,
-          "awayScore": 3
+          "awayScore": 0
         }
       ]
     },
     "lineup": {
       "home": [
-        "Pierluigi Gollini (GK)|https://images.fotmob.com/image_resources/playerimages/553849.png",
-        "Daniele Ghilardi (DF)|https://images.fotmob.com/image_resources/playerimages/1386006.png",
-        "Leonardo Balerdi (DF)|https://images.fotmob.com/image_resources/playerimages/958464.png",
-        "Mario Hermoso (DF)|https://images.fotmob.com/image_resources/playerimages/671203.png",
-        "Nahuel Molina (MF)|https://images.fotmob.com/image_resources/playerimages/726345.png",
-        "Marten de Roon (MF)|https://images.fotmob.com/image_resources/playerimages/198559.png",
-        "Niccolò Pisilli (MF)|https://images.fotmob.com/image_resources/playerimages/1451196.png",
-        "Wesley (MF)|https://images.fotmob.com/image_resources/playerimages/1320176.png",
-        "Rodrigo Mora (MF)|https://images.fotmob.com/image_resources/playerimages/1525065.png",
-        "Lorenzo Pellegrini (MF)|https://images.fotmob.com/image_resources/playerimages/540307.png",
-        "Donyell Malen (FW)|https://images.fotmob.com/image_resources/playerimages/660301.png"
+        "Alisson Becker (GK)|https://images.fotmob.com/image_resources/playerimages/319784.png",
+        "Ronald Araujo (DF)|https://images.fotmob.com/image_resources/playerimages/921253.png",
+        "Jérémy Jacquet (DF)|https://images.fotmob.com/image_resources/playerimages/1473534.png",
+        "Virgil van Dijk (DF)|https://images.fotmob.com/image_resources/playerimages/209405.png",
+        "Konstantinos Tsimikas (DF)|https://images.fotmob.com/image_resources/playerimages/671529.png",
+        "Alexis Mac Allister (MF)|https://images.fotmob.com/image_resources/playerimages/831489.png",
+        "Trey Nyoni (MF)|https://images.fotmob.com/image_resources/playerimages/1436258.png",
+        "Rio Ngumoha (FW)|https://images.fotmob.com/image_resources/playerimages/1597668.png",
+        "Ryan Gravenberch (MF)|https://images.fotmob.com/image_resources/playerimages/956683.png",
+        "Cody Gakpo (FW)|https://images.fotmob.com/image_resources/playerimages/806552.png",
+        "Lewis Koumas (FW)|https://images.fotmob.com/image_resources/playerimages/1364042.png"
       ],
       "away": [
-        "Dominik Takác (GK)|https://images.fotmob.com/image_resources/playerimages/862024.png",
-        "César Blackman (DF)|https://images.fotmob.com/image_resources/playerimages/888966.png",
-        "Kenan Bajrič (DF)|https://images.fotmob.com/image_resources/playerimages/315814.png",
-        "Svetozar Marković (DF)|https://images.fotmob.com/image_resources/playerimages/922722.png",
-        "Sandro Cruz (DF)|https://images.fotmob.com/image_resources/playerimages/1045565.png",
-        "Peter Pokorný (MF)|https://images.fotmob.com/image_resources/playerimages/951951.png",
-        "Tigran Barseghyan (FW)|https://images.fotmob.com/image_resources/playerimages/552700.png",
-        "Rahim Ibrahim (MF)|https://images.fotmob.com/image_resources/playerimages/1239580.png",
-        "Artur Gajdoš (MF)|https://images.fotmob.com/image_resources/playerimages/1201843.png",
-        "Suleiman Camara (FW)|https://images.fotmob.com/image_resources/playerimages/1206542.png",
-        "Nino Marcelli (FW)|https://images.fotmob.com/image_resources/playerimages/1449716.png"
+        "Péter Gulácsi (GK)|https://images.fotmob.com/image_resources/playerimages/151001.png",
+        "Santiago Mouriño (DF)|https://images.fotmob.com/image_resources/playerimages/1407468.png",
+        "Pau Navarro (DF)|https://images.fotmob.com/image_resources/playerimages/1531887.png",
+        "Renato Veiga (DF)|https://images.fotmob.com/image_resources/playerimages/1343750.png",
+        "Sergi Cardona (DF)|https://images.fotmob.com/image_resources/playerimages/1059657.png",
+        "Pape Gueye (MF)|https://images.fotmob.com/image_resources/playerimages/844544.png",
+        "Santi Comesaña (MF)|https://images.fotmob.com/image_resources/playerimages/671865.png",
+        "Tajon Buchanan (MF)|https://images.fotmob.com/image_resources/playerimages/1026135.png",
+        "Nathan Saliba (MF)|https://images.fotmob.com/image_resources/playerimages/1216798.png",
+        "Alberto Moleiro (MF)|https://images.fotmob.com/image_resources/playerimages/1184694.png",
+        "Georges Mikautadze (FW)|https://images.fotmob.com/image_resources/playerimages/1117069.png"
       ]
     },
     "formation": {
-      "home": "3-4-2-1",
-      "away": "4-1-4-1"
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
     },
     "coach": {
-      "home": "Gian Piero Gasperini|https://images.fotmob.com/image_resources/playerimages/96945.png",
-      "away": "Yaya Touré|https://images.fotmob.com/image_resources/playerimages/36615.png"
+      "home": "Andoni Iraola|https://images.fotmob.com/image_resources/playerimages/33025.png",
+      "away": "Inigo Pérez|https://images.fotmob.com/image_resources/playerimages/188060.png"
     }
   },
   {
     "home": "Manchester City",
     "away": "AEK Athens",
     "date": "2026-10-20T19:00:00.000Z",
-    "league": "Champions League - League Stage",
+    "league": "Champions League",
     "injuries": {
       "home": [],
       "away": []
@@ -460,10 +369,10 @@
         "Joško Gvardiol (DF)|https://images.fotmob.com/image_resources/playerimages/1070712.png",
         "Elliot Anderson (MF)|https://images.fotmob.com/image_resources/playerimages/1089691.png",
         "Enzo Fernández (MF)|https://images.fotmob.com/image_resources/playerimages/1137705.png",
-        "Phil Foden (FW)|https://images.fotmob.com/image_resources/playerimages/815006.png",
+        "Phil Foden (MF)|https://images.fotmob.com/image_resources/playerimages/815006.png",
         "Rayan Cherki (MF)|https://images.fotmob.com/image_resources/playerimages/1104053.png",
         "Allan (FW)|https://images.fotmob.com/image_resources/playerimages/1721789.png",
-        "Floyd Samba (FW)|https://images.fotmob.com/image_resources/playerimages/1726962.png"
+        "Floyd Samba (MF)|https://images.fotmob.com/image_resources/playerimages/1726962.png"
       ],
       "away": [
         "Alberto Brignoli (GK)|https://images.fotmob.com/image_resources/playerimages/299879.png",
@@ -471,17 +380,17 @@
         "Harold Moukoudi (DF)|https://images.fotmob.com/image_resources/playerimages/637737.png",
         "Filipe Relvas (DF)|https://images.fotmob.com/image_resources/playerimages/1285815.png",
         "Stavros Pilios (DF)|https://images.fotmob.com/image_resources/playerimages/1015750.png",
-        "Lovro Majer (MF)|https://images.fotmob.com/image_resources/playerimages/762721.png",
         "Kervin Arriaga (MF)|https://images.fotmob.com/image_resources/playerimages/839750.png",
+        "Lovro Majer (MF)|https://images.fotmob.com/image_resources/playerimages/762721.png",
         "Răzvan Marin (MF)|https://images.fotmob.com/image_resources/playerimages/574844.png",
-        "Joao Mário (MF)|https://images.fotmob.com/image_resources/playerimages/300916.png",
-        "Luka Jović (FW)|https://images.fotmob.com/image_resources/playerimages/463291.png",
-        "Barnabás Varga (FW)|https://images.fotmob.com/image_resources/playerimages/796504.png"
+        "Joao Mário (FW)|https://images.fotmob.com/image_resources/playerimages/300916.png",
+        "Barnabás Varga (FW)|https://images.fotmob.com/image_resources/playerimages/796504.png",
+        "Luka Jović (FW)|https://images.fotmob.com/image_resources/playerimages/463291.png"
       ]
     },
     "formation": {
       "home": "4-2-3-1",
-      "away": "4-4-2"
+      "away": "4-1-3-2"
     },
     "coach": {
       "home": "Enzo Maresca|https://images.fotmob.com/image_resources/playerimages/34000.png",
@@ -489,139 +398,10 @@
     }
   },
   {
-    "home": "Napoli",
-    "away": "Bodø/Glimt",
-    "date": "2026-10-20T19:00:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Costantino Favasuli",
-          "status": "허벅지 부상",
-          "detail": "Early November 2026"
-        }
-      ],
-      "away": []
-    },
-    "h2h": [],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-13T16:00:00.000Z",
-          "home": "Napoli",
-          "away": "Bologna",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-20T10:30:00.000Z",
-          "home": "Fiorentina",
-          "away": "Napoli",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-10T18:45:00.000Z",
-          "home": "Napoli",
-          "away": "Frosinone",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Villarreal",
-          "away": "Napoli",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-17T13:00:00.000Z",
-          "home": "Venezia",
-          "away": "Napoli",
-          "homeScore": 1,
-          "awayScore": 0
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-20T17:15:00.000Z",
-          "home": "Brann",
-          "away": "Bodø/Glimt",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-01T16:00:00.000Z",
-          "home": "Rana FK",
-          "away": "Bodø/Glimt",
-          "homeScore": 2,
-          "awayScore": 6
-        },
-        {
-          "date": "2026-10-10T14:00:00.000Z",
-          "home": "Bodø/Glimt",
-          "away": "Kristiansund",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-14T19:00:00.000Z",
-          "home": "Bodø/Glimt",
-          "away": "Borussia Dortmund",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-17T12:00:00.000Z",
-          "home": "Hamarkameratene",
-          "away": "Bodø/Glimt",
-          "homeScore": 0,
-          "awayScore": 2
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Alex Meret (GK)|https://images.fotmob.com/image_resources/playerimages/577912.png",
-        "Giovanni Di Lorenzo (DF)|https://images.fotmob.com/image_resources/playerimages/414906.png",
-        "Amir Rrahmani (DF)|https://images.fotmob.com/image_resources/playerimages/544693.png",
-        "Rafa Marín (DF)|https://images.fotmob.com/image_resources/playerimages/1313884.png",
-        "Leonardo Spinazzola (DF)|https://images.fotmob.com/image_resources/playerimages/215242.png",
-        "Frank Anguissa (MF)|https://images.fotmob.com/image_resources/playerimages/612863.png",
-        "Kevin De Bruyne (MF)|https://images.fotmob.com/image_resources/playerimages/169200.png",
-        "Scott McTominay (MF)|https://images.fotmob.com/image_resources/playerimages/843099.png",
-        "Matteo Politano (FW)|https://images.fotmob.com/image_resources/playerimages/415539.png",
-        "Rasmus Højlund (FW)|https://images.fotmob.com/image_resources/playerimages/1199272.png",
-        "Noa Lang (FW)|https://images.fotmob.com/image_resources/playerimages/837341.png"
-      ],
-      "away": [
-        "Nikita Haikin (GK)|https://images.fotmob.com/image_resources/playerimages/625360.png",
-        "Fredrik Sjøvold (DF)|https://images.fotmob.com/image_resources/playerimages/1281021.png",
-        "Jostein Gundersen (DF)|https://images.fotmob.com/image_resources/playerimages/540929.png",
-        "Odin Lurås Bjørtuft (DF)|https://images.fotmob.com/image_resources/playerimages/917774.png",
-        "Fredrik André Bjørkan (DF)|https://images.fotmob.com/image_resources/playerimages/630228.png",
-        "Sondre Auklend (MF)|https://images.fotmob.com/image_resources/playerimages/1160076.png",
-        "Patrick Berg (MF)|https://images.fotmob.com/image_resources/playerimages/530635.png",
-        "Sondre Brunstad Fet (MF)|https://images.fotmob.com/image_resources/playerimages/540975.png",
-        "Jens Petter Hauge (MF)|https://images.fotmob.com/image_resources/playerimages/741397.png",
-        "Ole Blomberg (FW)|https://images.fotmob.com/image_resources/playerimages/1086551.png",
-        "Andreas Helmersen (FW)|https://images.fotmob.com/image_resources/playerimages/615292.png"
-      ]
-    },
-    "formation": {
-      "home": "4-3-3",
-      "away": "4-4-2"
-    },
-    "coach": {
-      "home": "Massimiliano Allegri|https://images.fotmob.com/image_resources/playerimages/129745.png",
-      "away": "Kjetil Knutsen|https://images.fotmob.com/image_resources/playerimages/630277.png"
-    }
-  },
-  {
     "home": "Paris Saint-Germain",
     "away": "Barcelona",
     "date": "2026-10-20T19:00:00.000Z",
-    "league": "Champions League - League Stage",
+    "league": "Champions League",
     "injuries": {
       "home": [],
       "away": []
@@ -840,10 +620,277 @@
     }
   },
   {
+    "home": "Roma",
+    "away": "Slovan Bratislava",
+    "date": "2026-10-20T19:00:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2011-08-25T18:45:00.000Z",
+        "home": "Roma",
+        "away": "Slovan Bratislava",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2011-08-18T18:45:00.000Z",
+        "home": "Slovan Bratislava",
+        "away": "Roma",
+        "homeScore": 1,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-14T16:30:00.000Z",
+          "home": "Torino",
+          "away": "Roma",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-19T16:00:00.000Z",
+          "home": "Roma",
+          "away": "Inter",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-11T10:30:00.000Z",
+          "home": "Como",
+          "away": "Roma",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-14T19:00:00.000Z",
+          "home": "Roma",
+          "away": "Real Madrid",
+          "homeScore": 3,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-17T18:45:00.000Z",
+          "home": "Roma",
+          "away": "Genoa",
+          "homeScore": 2,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-16T16:30:00.000Z",
+          "home": "Nitra",
+          "away": "Slovan Bratislava",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-19T18:30:00.000Z",
+          "home": "Komárno",
+          "away": "Slovan Bratislava",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-10T13:30:00.000Z",
+          "home": "Skalica",
+          "away": "Slovan Bratislava",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-14T19:00:00.000Z",
+          "home": "Slovan Bratislava",
+          "away": "VfB Stuttgart",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-17T16:00:00.000Z",
+          "home": "Spartak Trnava",
+          "away": "Slovan Bratislava",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Pierluigi Gollini (GK)|https://images.fotmob.com/image_resources/playerimages/553849.png",
+        "Daniele Ghilardi (DF)|https://images.fotmob.com/image_resources/playerimages/1386006.png",
+        "Leonardo Balerdi (DF)|https://images.fotmob.com/image_resources/playerimages/958464.png",
+        "Mario Hermoso (DF)|https://images.fotmob.com/image_resources/playerimages/671203.png",
+        "Nahuel Molina (DF)|https://images.fotmob.com/image_resources/playerimages/726345.png",
+        "Marten de Roon (MF)|https://images.fotmob.com/image_resources/playerimages/198559.png",
+        "Niccolò Pisilli (MF)|https://images.fotmob.com/image_resources/playerimages/1451196.png",
+        "Wesley (MF)|https://images.fotmob.com/image_resources/playerimages/1320176.png",
+        "Rodrigo Mora (MF)|https://images.fotmob.com/image_resources/playerimages/1525065.png",
+        "Lorenzo Pellegrini (MF)|https://images.fotmob.com/image_resources/playerimages/540307.png",
+        "Donyell Malen (FW)|https://images.fotmob.com/image_resources/playerimages/660301.png"
+      ],
+      "away": [
+        "Dominik Takác (GK)|https://images.fotmob.com/image_resources/playerimages/862024.png",
+        "César Blackman (DF)|https://images.fotmob.com/image_resources/playerimages/888966.png",
+        "Kenan Bajrič (DF)|https://images.fotmob.com/image_resources/playerimages/315814.png",
+        "Svetozar Marković (DF)|https://images.fotmob.com/image_resources/playerimages/922722.png",
+        "Sandro Cruz (DF)|https://images.fotmob.com/image_resources/playerimages/1045565.png",
+        "Peter Pokorný (MF)|https://images.fotmob.com/image_resources/playerimages/951951.png",
+        "Tigran Barseghyan (FW)|https://images.fotmob.com/image_resources/playerimages/552700.png",
+        "Rahim Ibrahim (MF)|https://images.fotmob.com/image_resources/playerimages/1239580.png",
+        "Artur Gajdoš (MF)|https://images.fotmob.com/image_resources/playerimages/1201843.png",
+        "Suleiman Camara (FW)|https://images.fotmob.com/image_resources/playerimages/1206542.png",
+        "Nino Marcelli (FW)|https://images.fotmob.com/image_resources/playerimages/1449716.png"
+      ]
+    },
+    "formation": {
+      "home": "3-4-2-1",
+      "away": "4-1-4-1"
+    },
+    "coach": {
+      "home": "Gian Piero Gasperini|https://images.fotmob.com/image_resources/playerimages/96945.png",
+      "away": "Yaya Touré|https://images.fotmob.com/image_resources/playerimages/36615.png"
+    }
+  },
+  {
+    "home": "Napoli",
+    "away": "Bodø/Glimt",
+    "date": "2026-10-20T19:00:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Costantino Favasuli",
+          "status": "허벅지 부상",
+          "detail": "Early November 2026"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-13T16:00:00.000Z",
+          "home": "Napoli",
+          "away": "Bologna",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-20T10:30:00.000Z",
+          "home": "Fiorentina",
+          "away": "Napoli",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-10T18:45:00.000Z",
+          "home": "Napoli",
+          "away": "Frosinone",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Villarreal",
+          "away": "Napoli",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-17T13:00:00.000Z",
+          "home": "Venezia",
+          "away": "Napoli",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-20T17:15:00.000Z",
+          "home": "Brann",
+          "away": "Bodø/Glimt",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-01T16:00:00.000Z",
+          "home": "Rana FK",
+          "away": "Bodø/Glimt",
+          "homeScore": 2,
+          "awayScore": 6
+        },
+        {
+          "date": "2026-10-10T14:00:00.000Z",
+          "home": "Bodø/Glimt",
+          "away": "Kristiansund",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-14T19:00:00.000Z",
+          "home": "Bodø/Glimt",
+          "away": "Borussia Dortmund",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-17T12:00:00.000Z",
+          "home": "Hamarkameratene",
+          "away": "Bodø/Glimt",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Alex Meret (GK)|https://images.fotmob.com/image_resources/playerimages/577912.png",
+        "Giovanni Di Lorenzo (DF)|https://images.fotmob.com/image_resources/playerimages/414906.png",
+        "Amir Rrahmani (DF)|https://images.fotmob.com/image_resources/playerimages/544693.png",
+        "Rafa Marín (DF)|https://images.fotmob.com/image_resources/playerimages/1313884.png",
+        "Leonardo Spinazzola (MF)|https://images.fotmob.com/image_resources/playerimages/215242.png",
+        "Frank Anguissa (MF)|https://images.fotmob.com/image_resources/playerimages/612863.png",
+        "Kevin De Bruyne (MF)|https://images.fotmob.com/image_resources/playerimages/169200.png",
+        "Scott McTominay (MF)|https://images.fotmob.com/image_resources/playerimages/843099.png",
+        "Matteo Politano (MF)|https://images.fotmob.com/image_resources/playerimages/415539.png",
+        "Rasmus Højlund (FW)|https://images.fotmob.com/image_resources/playerimages/1199272.png",
+        "Noa Lang (FW)|https://images.fotmob.com/image_resources/playerimages/837341.png"
+      ],
+      "away": [
+        "Nikita Haikin (GK)|https://images.fotmob.com/image_resources/playerimages/625360.png",
+        "Fredrik Sjøvold (DF)|https://images.fotmob.com/image_resources/playerimages/1281021.png",
+        "Jostein Gundersen (DF)|https://images.fotmob.com/image_resources/playerimages/540929.png",
+        "Odin Lurås Bjørtuft (DF)|https://images.fotmob.com/image_resources/playerimages/917774.png",
+        "Fredrik André Bjørkan (DF)|https://images.fotmob.com/image_resources/playerimages/630228.png",
+        "Sondre Auklend (MF)|https://images.fotmob.com/image_resources/playerimages/1160076.png",
+        "Patrick Berg (MF)|https://images.fotmob.com/image_resources/playerimages/530635.png",
+        "Sondre Brunstad Fet (MF)|https://images.fotmob.com/image_resources/playerimages/540975.png",
+        "Ole Blomberg (FW)|https://images.fotmob.com/image_resources/playerimages/1086551.png",
+        "Andreas Helmersen (FW)|https://images.fotmob.com/image_resources/playerimages/615292.png",
+        "Jens Petter Hauge (FW)|https://images.fotmob.com/image_resources/playerimages/741397.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "4-3-3"
+    },
+    "coach": {
+      "home": "Massimiliano Allegri|https://images.fotmob.com/image_resources/playerimages/129745.png",
+      "away": "Kjetil Knutsen|https://images.fotmob.com/image_resources/playerimages/630277.png"
+    }
+  },
+  {
     "home": "VfB Stuttgart",
     "away": "Atlético Madrid",
     "date": "2026-10-20T19:00:00.000Z",
-    "league": "Champions League - League Stage",
+    "league": "Champions League",
     "injuries": {
       "home": [],
       "away": []
@@ -944,7 +991,7 @@
         "Angelo Stiller (MF)|https://images.fotmob.com/image_resources/playerimages/1071186.png",
         "Jamie Leweling (FW)|https://images.fotmob.com/image_resources/playerimages/1074968.png",
         "Bilal El Khannouss (MF)|https://images.fotmob.com/image_resources/playerimages/1340895.png",
-        "Chris Führich (FW)|https://images.fotmob.com/image_resources/playerimages/892679.png",
+        "Chris Führich (MF)|https://images.fotmob.com/image_resources/playerimages/892679.png",
         "Deniz Undav (FW)|https://images.fotmob.com/image_resources/playerimages/661519.png"
       ],
       "away": [
@@ -952,10 +999,10 @@
         "Marcos Llorente (DF)|https://images.fotmob.com/image_resources/playerimages/602563.png",
         "Marc Pubill (DF)|https://images.fotmob.com/image_resources/playerimages/1323897.png",
         "Dávid Hancko (DF)|https://images.fotmob.com/image_resources/playerimages/727897.png",
-        "Alejandro Grimaldo (DF)|https://images.fotmob.com/image_resources/playerimages/288406.png",
+        "Alejandro Grimaldo (MF)|https://images.fotmob.com/image_resources/playerimages/288406.png",
         "Giuliano Simeone (MF)|https://images.fotmob.com/image_resources/playerimages/1226147.png",
-        "Pablo Barrios (MF)|https://images.fotmob.com/image_resources/playerimages/1338192.png",
         "Morten Hjulmand (MF)|https://images.fotmob.com/image_resources/playerimages/950199.png",
+        "Pablo Barrios (MF)|https://images.fotmob.com/image_resources/playerimages/1338192.png",
         "Álex Baena (MF)|https://images.fotmob.com/image_resources/playerimages/942372.png",
         "Jonathan David (FW)|https://images.fotmob.com/image_resources/playerimages/939569.png",
         "Julián Álvarez (FW)|https://images.fotmob.com/image_resources/playerimages/974753.png"
@@ -971,40 +1018,26 @@
     }
   },
   {
-    "home": "Liverpool",
-    "away": "Villarreal",
-    "date": "2026-10-20T19:00:00.000Z",
-    "league": "Champions League - League Stage",
+    "home": "CD Marathón",
+    "away": "Alianza FC",
+    "date": "2026-10-21T02:00:00.000Z",
+    "league": "CONCACAF Central American Cup Play-In",
     "injuries": {
       "home": [],
       "away": []
     },
     "h2h": [
       {
-        "date": "2022-05-03T19:00:00.000Z",
-        "home": "Villarreal",
-        "away": "Liverpool",
-        "homeScore": 2,
-        "awayScore": 3
+        "date": "2026-08-20T01:00:00.000Z",
+        "home": "CD Marathón",
+        "away": "Alianza FC",
+        "homeScore": 0,
+        "awayScore": 1
       },
       {
-        "date": "2022-04-27T19:00:00.000Z",
-        "home": "Liverpool",
-        "away": "Villarreal",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-05-05T19:05:00.000Z",
-        "home": "Liverpool",
-        "away": "Villarreal",
-        "homeScore": 3,
-        "awayScore": 0
-      },
-      {
-        "date": "2016-04-28T19:05:00.000Z",
-        "home": "Villarreal",
-        "away": "Liverpool",
+        "date": "2024-08-28T00:00:00.000Z",
+        "home": "CD Marathón",
+        "away": "Alianza FC",
         "homeScore": 1,
         "awayScore": 0
       }
@@ -1012,115 +1045,82 @@
     "recent": {
       "home": [
         {
-          "date": "2026-09-15T19:00:00.000Z",
-          "home": "Liverpool",
-          "away": "Tottenham Hotspur",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-20T13:00:00.000Z",
-          "home": "AFC Bournemouth",
-          "away": "Liverpool",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-11T15:30:00.000Z",
-          "home": "Liverpool",
-          "away": "Manchester City",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-14T16:45:00.000Z",
-          "home": "LASK",
-          "away": "Liverpool",
-          "homeScore": 3,
-          "awayScore": 6
-        },
-        {
-          "date": "2026-10-17T14:00:00.000Z",
-          "home": "Brentford",
-          "away": "Liverpool",
+          "date": "2026-09-13T23:15:00.000Z",
+          "home": "CD Marathón",
+          "away": "CD Olimpia",
           "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-18T00:30:00.000Z",
+          "home": "LD Alajuelense",
+          "away": "CD Marathón",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-21T01:30:00.000Z",
+          "home": "Juticalpa",
+          "away": "CD Marathón",
+          "homeScore": 3,
           "awayScore": 2
+        },
+        {
+          "date": "2026-10-11T02:30:00.000Z",
+          "home": "Lobos UPNFM",
+          "away": "CD Marathón",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-15T23:15:00.000Z",
+          "home": "CD Marathón",
+          "away": "Olancho FC",
+          "homeScore": 2,
+          "awayScore": 1
         }
       ],
       "away": [
         {
-          "date": "2026-09-17T19:30:00.000Z",
-          "home": "Málaga",
-          "away": "Villarreal",
-          "homeScore": 1,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-09-20T16:30:00.000Z",
-          "home": "Villarreal",
-          "away": "Levante",
-          "homeScore": 3,
+          "date": "2026-10-01T00:00:00.000Z",
+          "home": "Alianza FC",
+          "away": "CD Platense Municipal",
+          "homeScore": 2,
           "awayScore": 1
         },
         {
-          "date": "2026-10-10T19:00:00.000Z",
-          "home": "Real Madrid",
-          "away": "Villarreal",
-          "homeScore": 1,
-          "awayScore": 0
+          "date": "2026-10-04T01:00:00.000Z",
+          "home": "Alianza FC",
+          "away": "Firpo",
+          "homeScore": 2,
+          "awayScore": 2
         },
         {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Villarreal",
-          "away": "Napoli",
-          "homeScore": 3,
+          "date": "2026-10-09T01:30:00.000Z",
+          "home": "CD FAS",
+          "away": "Alianza FC",
+          "homeScore": 2,
           "awayScore": 1
         },
         {
-          "date": "2026-10-17T14:15:00.000Z",
-          "home": "Villarreal",
-          "away": "Elche",
+          "date": "2026-10-11T23:30:00.000Z",
+          "home": "Alianza FC",
+          "away": "Inter Santa Tecla",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-17T21:00:00.000Z",
+          "home": "CD Cacahuatique",
+          "away": "Alianza FC",
           "homeScore": 0,
           "awayScore": 0
         }
       ]
     },
-    "lineup": {
-      "home": [
-        "Alisson Becker (GK)|https://images.fotmob.com/image_resources/playerimages/319784.png",
-        "Ronald Araujo (DF)|https://images.fotmob.com/image_resources/playerimages/921253.png",
-        "Jérémy Jacquet (DF)|https://images.fotmob.com/image_resources/playerimages/1473534.png",
-        "Virgil van Dijk (DF)|https://images.fotmob.com/image_resources/playerimages/209405.png",
-        "Konstantinos Tsimikas (DF)|https://images.fotmob.com/image_resources/playerimages/671529.png",
-        "Alexis Mac Allister (MF)|https://images.fotmob.com/image_resources/playerimages/831489.png",
-        "Trey Nyoni (MF)|https://images.fotmob.com/image_resources/playerimages/1436258.png",
-        "Rio Ngumoha (FW)|https://images.fotmob.com/image_resources/playerimages/1597668.png",
-        "Ryan Gravenberch (MF)|https://images.fotmob.com/image_resources/playerimages/956683.png",
-        "Cody Gakpo (FW)|https://images.fotmob.com/image_resources/playerimages/806552.png",
-        "Lewis Koumas (FW)|https://images.fotmob.com/image_resources/playerimages/1364042.png"
-      ],
-      "away": [
-        "Péter Gulácsi (GK)|https://images.fotmob.com/image_resources/playerimages/151001.png",
-        "Santiago Mouriño (DF)|https://images.fotmob.com/image_resources/playerimages/1407468.png",
-        "Pau Navarro (DF)|https://images.fotmob.com/image_resources/playerimages/1531887.png",
-        "Renato Veiga (DF)|https://images.fotmob.com/image_resources/playerimages/1343750.png",
-        "Sergi Cardona (DF)|https://images.fotmob.com/image_resources/playerimages/1059657.png",
-        "Santi Comesaña (MF)|https://images.fotmob.com/image_resources/playerimages/671865.png",
-        "Pape Gueye (MF)|https://images.fotmob.com/image_resources/playerimages/844544.png",
-        "Tajon Buchanan (FW)|https://images.fotmob.com/image_resources/playerimages/1026135.png",
-        "Nathan Saliba (MF)|https://images.fotmob.com/image_resources/playerimages/1216798.png",
-        "Alberto Moleiro (FW)|https://images.fotmob.com/image_resources/playerimages/1184694.png",
-        "Georges Mikautadze (FW)|https://images.fotmob.com/image_resources/playerimages/1117069.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "Andoni Iraola|https://images.fotmob.com/image_resources/playerimages/33025.png",
-      "away": "Inigo Pérez|https://images.fotmob.com/image_resources/playerimages/188060.png"
-    }
+    "lineup": null,
+    "formation": null,
+    "coach": null
   },
   {
     "home": "Al Diriyah",
@@ -1943,6 +1943,1471 @@
     "coach": {
       "home": "Ange Postecoglou|https://images.fotmob.com/image_resources/playerimages/292198.png",
       "away": "Thierry Oleksiak"
+    }
+  },
+  {
+    "home": "Como",
+    "away": "Manchester United",
+    "date": "2026-10-21T16:45:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Trevoh Chalobah",
+          "status": "근육 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Assane Diao",
+          "status": "허벅지 부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Jesús Rodríguez",
+          "status": "근육 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Moise Kean",
+          "status": "근육 부상",
+          "detail": "Early November 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ayden Heaven",
+          "status": "병",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Manuel Ugarte",
+          "status": "십자 인대 부상",
+          "detail": "Early April 2027"
+        },
+        {
+          "name": "Lisandro Martínez",
+          "status": "허벅지 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Luke Shaw",
+          "status": "충돌 부상",
+          "detail": "A few days"
+        },
+        {
+          "name": "Kobbie Mainoo",
+          "status": "충돌 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Benjamin Šeško",
+          "status": "정강이 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Marcus Rashford",
+          "status": "엉덩이 부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Patrick Dorgu",
+          "status": "햄스트링 부상",
+          "detail": "Late October 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-14T16:30:00.000Z",
+          "home": "Como",
+          "away": "Parma",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-20T13:00:00.000Z",
+          "home": "Frosinone",
+          "away": "Como",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-11T10:30:00.000Z",
+          "home": "Como",
+          "away": "Roma",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-14T16:45:00.000Z",
+          "home": "Feyenoord",
+          "away": "Como",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-18T13:00:00.000Z",
+          "home": "Fiorentina",
+          "away": "Como",
+          "homeScore": 1,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-16T19:00:00.000Z",
+          "home": "Manchester United",
+          "away": "Brighton & Hove Albion",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-20T15:30:00.000Z",
+          "home": "Fulham",
+          "away": "Manchester United",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-10T16:30:00.000Z",
+          "home": "Manchester United",
+          "away": "Tottenham Hotspur",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Atlético Madrid",
+          "away": "Manchester United",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-18T13:00:00.000Z",
+          "home": "Leeds United",
+          "away": "Manchester United",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Jean Butez (GK)|https://images.fotmob.com/image_resources/playerimages/560939.png",
+        "Yan Couto (MF)|https://images.fotmob.com/image_resources/playerimages/1109171.png",
+        "Jacobo Ramón (DF)|https://images.fotmob.com/image_resources/playerimages/1413963.png",
+        "Marc-Oliver Kempf (DF)|https://images.fotmob.com/image_resources/playerimages/355356.png",
+        "Álex Valle (DF)|https://images.fotmob.com/image_resources/playerimages/1384881.png",
+        "Luis Milla (MF)|https://images.fotmob.com/image_resources/playerimages/638090.png",
+        "Máximo Perrone (MF)|https://images.fotmob.com/image_resources/playerimages/1336582.png",
+        "Lucas Da Cunha (MF)|https://images.fotmob.com/image_resources/playerimages/1076647.png",
+        "Nico Paz (MF)|https://images.fotmob.com/image_resources/playerimages/1347574.png",
+        "Martin Baturina (FW)|https://images.fotmob.com/image_resources/playerimages/1215064.png",
+        "Anastasios Douvikas (FW)|https://images.fotmob.com/image_resources/playerimages/873270.png"
+      ],
+      "away": [
+        "Senne Lammens (GK)|https://images.fotmob.com/image_resources/playerimages/1178602.png",
+        "Diogo Dalot (DF)|https://images.fotmob.com/image_resources/playerimages/751550.png",
+        "Matthijs de Ligt (DF)|https://images.fotmob.com/image_resources/playerimages/769895.png",
+        "Harry Maguire (DF)|https://images.fotmob.com/image_resources/playerimages/255610.png",
+        "Noussair Mazraoui (DF)|https://images.fotmob.com/image_resources/playerimages/775539.png",
+        "Mason Mount (MF)|https://images.fotmob.com/image_resources/playerimages/750032.png",
+        "Andrey Santos (MF)|https://images.fotmob.com/image_resources/playerimages/1372921.png",
+        "Bryan Mbeumo (FW)|https://images.fotmob.com/image_resources/playerimages/923312.png",
+        "Youri Tielemans (MF)|https://images.fotmob.com/image_resources/playerimages/465960.png",
+        "Matheus Cunha (FW)|https://images.fotmob.com/image_resources/playerimages/863098.png",
+        "Bruno Fernandes (MF)|https://images.fotmob.com/image_resources/playerimages/422685.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Cesc Fàbregas|https://images.fotmob.com/image_resources/playerimages/30613.png",
+      "away": "Michael Carrick|https://images.fotmob.com/image_resources/playerimages/34944.png"
+    }
+  },
+  {
+    "home": "Lille",
+    "away": "Galatasaray",
+    "date": "2026-10-21T16:45:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Osame Sahraoui",
+          "status": "발 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Ayase Ueda",
+          "status": "뒤꿈치 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Hamza Igamane",
+          "status": "십자 인대 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Tiago Santos",
+          "status": "십자 인대 부상",
+          "detail": "Late June 2027"
+        },
+        {
+          "name": "Ethan Mbappé",
+          "status": "부상",
+          "detail": "Early November 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Rafael Leão",
+          "status": "사타구니 부상",
+          "detail": "Mid November 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-13T13:00:00.000Z",
+          "home": "Lille",
+          "away": "Troyes",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-20T15:15:00.000Z",
+          "home": "Nice",
+          "away": "Lille",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-10T15:15:00.000Z",
+          "home": "Lille",
+          "away": "Le Havre",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Arsenal",
+          "away": "Lille",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-17T18:45:00.000Z",
+          "home": "Lille",
+          "away": "Brest",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-13T17:00:00.000Z",
+          "home": "Galatasaray",
+          "away": "Kocaelispor",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-19T17:00:00.000Z",
+          "home": "Trabzonspor",
+          "away": "Galatasaray",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-09T17:00:00.000Z",
+          "home": "Galatasaray",
+          "away": "Kasımpaşa",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Galatasaray",
+          "away": "Barcelona",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-17T13:00:00.000Z",
+          "home": "Gençlerbirliği",
+          "away": "Galatasaray",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Berke Özer (GK)|https://images.fotmob.com/image_resources/playerimages/815912.png",
+        "Maxima Goffi (DF)|https://images.fotmob.com/image_resources/playerimages/1793784.png",
+        "Nathan Ngoy (DF)|https://images.fotmob.com/image_resources/playerimages/1252070.png",
+        "Alexsandro Ribeiro (DF)|https://images.fotmob.com/image_resources/playerimages/1186553.png",
+        "Calvin Verdonk (DF)|https://images.fotmob.com/image_resources/playerimages/622137.png",
+        "Ngal Ayel Mukau (MF)|https://images.fotmob.com/image_resources/playerimages/1428153.png",
+        "Nabil Bentaleb (MF)|https://images.fotmob.com/image_resources/playerimages/500520.png",
+        "Benjamin André (MF)|https://images.fotmob.com/image_resources/playerimages/148830.png",
+        "Dilane Bakwa (FW)|https://images.fotmob.com/image_resources/playerimages/1079539.png",
+        "Hákon Arnar Haraldsson (MF)|https://images.fotmob.com/image_resources/playerimages/1044470.png",
+        "Soriba Diaoune (FW)|https://images.fotmob.com/image_resources/playerimages/1684579.png"
+      ],
+      "away": [
+        "Uğurcan Çakir (GK)|https://images.fotmob.com/image_resources/playerimages/603669.png",
+        "Roland Sallai (DF)|https://images.fotmob.com/image_resources/playerimages/583601.png",
+        "Davinson Sánchez (DF)|https://images.fotmob.com/image_resources/playerimages/643533.png",
+        "Abdülkerim Bardakci (DF)|https://images.fotmob.com/image_resources/playerimages/291399.png",
+        "Ismail Jakobs (DF)|https://images.fotmob.com/image_resources/playerimages/906945.png",
+        "Lucas Torreira (MF)|https://images.fotmob.com/image_resources/playerimages/592909.png",
+        "Gabriel Sara (MF)|https://images.fotmob.com/image_resources/playerimages/902710.png",
+        "Yunus Akgün (MF)|https://images.fotmob.com/image_resources/playerimages/845991.png",
+        "Aleksey Batrakov (MF)|https://images.fotmob.com/image_resources/playerimages/1504343.png",
+        "Barış Alper Yılmaz (FW)|https://images.fotmob.com/image_resources/playerimages/890232.png",
+        "Victor Osimhen (FW)|https://images.fotmob.com/image_resources/playerimages/687681.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Davide Ancelotti|https://images.fotmob.com/image_resources/playerimages/1108529.png",
+      "away": "Okan Buruk|https://images.fotmob.com/image_resources/playerimages/39781.png"
+    }
+  },
+  {
+    "home": "Aston Villa",
+    "away": "Viking",
+    "date": "2026-10-21T19:00:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Modou Kéba Cissé",
+          "status": "충돌 부상",
+          "detail": "Back in training"
+        },
+        {
+          "name": "Amadou Onana",
+          "status": "십자 인대 부상",
+          "detail": "Mid April 2027"
+        },
+        {
+          "name": "Aaron Wan-Bissaka",
+          "status": "햄스트링 부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Matteo Ruggeri",
+          "status": "햄스트링 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Johan Manzambi",
+          "status": "부상",
+          "detail": "Late October 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Anders Bærtelsen",
+          "status": "부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Martin Roseth",
+          "status": "무릎 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Sondre Bjørshol",
+          "status": "무릎 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Nicholas D'Agostino",
+          "status": "무릎 부상",
+          "detail": "Late October 2026"
+        },
+        {
+          "name": "Veton Berisha",
+          "status": "허벅지 부상",
+          "detail": "Late October 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-19T11:30:00.000Z",
+          "home": "Tottenham Hotspur",
+          "away": "Aston Villa",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-02T18:30:00.000Z",
+          "home": "Sevilla",
+          "away": "Aston Villa",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-10T14:00:00.000Z",
+          "home": "Aston Villa",
+          "away": "Brentford",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-14T19:00:00.000Z",
+          "home": "Aston Villa",
+          "away": "Fenerbahçe",
+          "homeScore": 6,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-17T16:30:00.000Z",
+          "home": "Newcastle United",
+          "away": "Aston Villa",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-20T15:00:00.000Z",
+          "home": "Viking",
+          "away": "Lillestrøm",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-01T16:00:00.000Z",
+          "home": "Madla",
+          "away": "Viking",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-09T17:00:00.000Z",
+          "home": "Brann",
+          "away": "Viking",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Viking",
+          "away": "Bayern München",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-17T16:00:00.000Z",
+          "home": "Viking",
+          "away": "Fredrikstad",
+          "homeScore": 3,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Zion Suzuki (GK)|https://images.fotmob.com/image_resources/playerimages/1053679.png",
+        "Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png",
+        "Pau Torres (DF)|https://images.fotmob.com/image_resources/playerimages/792645.png",
+        "Tyrone Mings (DF)|https://images.fotmob.com/image_resources/playerimages/419664.png",
+        "Alysson Edward (FW)|https://images.fotmob.com/image_resources/playerimages/1656860.png",
+        "João Gomes (MF)|https://images.fotmob.com/image_resources/playerimages/1174672.png",
+        "Ross Barkley (MF)|https://images.fotmob.com/image_resources/playerimages/215384.png",
+        "Ibrahim Mbaye (FW)|https://images.fotmob.com/image_resources/playerimages/1593857.png",
+        "John McGinn (FW)|https://images.fotmob.com/image_resources/playerimages/356406.png",
+        "Emiliano Buendía (FW)|https://images.fotmob.com/image_resources/playerimages/610184.png",
+        "Nicolas Jackson (FW)|https://images.fotmob.com/image_resources/playerimages/1197347.png"
+      ],
+      "away": [
+        "Arild Østbø (GK)|https://images.fotmob.com/image_resources/playerimages/119598.png",
+        "Herman Haugen (DF)|https://images.fotmob.com/image_resources/playerimages/1019527.png",
+        "Gianni Stensness (DF)|https://images.fotmob.com/image_resources/playerimages/1029026.png",
+        "Jesper Daland (DF)|https://images.fotmob.com/image_resources/playerimages/633094.png",
+        "Henrik Heggheim (DF)|https://images.fotmob.com/image_resources/playerimages/1163230.png",
+        "Tobias Moi (MF)|https://images.fotmob.com/image_resources/playerimages/1636182.png",
+        "Joe Bell (MF)|https://images.fotmob.com/image_resources/playerimages/848345.png",
+        "Kristoffer Askildsen (MF)|https://images.fotmob.com/image_resources/playerimages/964535.png",
+        "Peter Christiansen (FW)|https://images.fotmob.com/image_resources/playerimages/955759.png",
+        "Erik Botheim (FW)|https://images.fotmob.com/image_resources/playerimages/741561.png",
+        "Zlatko Tripić (FW)|https://images.fotmob.com/image_resources/playerimages/279191.png"
+      ]
+    },
+    "formation": {
+      "home": "3-4-2-1",
+      "away": "4-3-3"
+    },
+    "coach": {
+      "home": "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png",
+      "away": "Morten Jensen|https://images.fotmob.com/image_resources/playerimages/200670.png"
+    }
+  },
+  {
+    "home": "Bayern München",
+    "away": "Arsenal",
+    "date": "2026-10-21T19:00:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jamal Musiala",
+          "status": "허벅지 부상",
+          "detail": "A few weeks"
+        }
+      ],
+      "away": [
+        {
+          "name": "Piero Hincapié",
+          "status": "발목 부상",
+          "detail": "A few days"
+        },
+        {
+          "name": "William Saliba",
+          "status": "등 부상",
+          "detail": "Back in training"
+        },
+        {
+          "name": "Christos Tzolis",
+          "status": "햄스트링 부상",
+          "detail": "Late October 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2025-11-26T20:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Bayern München",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-04-17T19:00:00.000Z",
+        "home": "Bayern München",
+        "away": "Arsenal",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-04-09T19:00:00.000Z",
+        "home": "Arsenal",
+        "away": "Bayern München",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-07-18T03:05:00.000Z",
+        "home": "Arsenal",
+        "away": "Bayern München",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-07-19T11:30:00.000Z",
+        "home": "Bayern München",
+        "away": "Arsenal",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2017-03-07T19:45:00.000Z",
+        "home": "Arsenal",
+        "away": "Bayern München",
+        "homeScore": 1,
+        "awayScore": 5
+      },
+      {
+        "date": "2017-02-15T19:45:00.000Z",
+        "home": "Bayern München",
+        "away": "Arsenal",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-11-04T19:45:00.000Z",
+        "home": "Bayern München",
+        "away": "Arsenal",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-10-20T18:45:00.000Z",
+        "home": "Arsenal",
+        "away": "Bayern München",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2014-03-11T19:45:00.000Z",
+        "home": "Bayern München",
+        "away": "Arsenal",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-02-19T19:45:00.000Z",
+        "home": "Arsenal",
+        "away": "Bayern München",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-03-13T19:45:00.000Z",
+        "home": "Bayern München",
+        "away": "Arsenal",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-02-19T19:45:00.000Z",
+        "home": "Arsenal",
+        "away": "Bayern München",
+        "homeScore": 1,
+        "awayScore": 3
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-13T15:30:00.000Z",
+          "home": "Elversberg",
+          "away": "Bayern München",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-18T18:30:00.000Z",
+          "home": "Bayern München",
+          "away": "Union Berlin",
+          "homeScore": 7,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-10T13:30:00.000Z",
+          "home": "Augsburg",
+          "away": "Bayern München",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Viking",
+          "away": "Bayern München",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-17T16:30:00.000Z",
+          "home": "Bayern München",
+          "away": "RB Leipzig",
+          "homeScore": 6,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-15T19:00:00.000Z",
+          "home": "Ipswich Town",
+          "away": "Arsenal",
+          "homeScore": 2,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-09-19T14:00:00.000Z",
+          "home": "Brighton & Hove Albion",
+          "away": "Arsenal",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-10T11:30:00.000Z",
+          "home": "Arsenal",
+          "away": "Leeds United",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Arsenal",
+          "away": "Lille",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-18T15:30:00.000Z",
+          "home": "Nottingham Forest",
+          "away": "Arsenal",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png",
+        "Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png",
+        "Dayot Upamecano (DF)|https://images.fotmob.com/image_resources/playerimages/658554.png",
+        "Min-Jae Kim (DF)|https://images.fotmob.com/image_resources/playerimages/828159.png",
+        "Josip Stanišić (DF)|https://images.fotmob.com/image_resources/playerimages/950824.png",
+        "Tom Bischof (DF)|https://images.fotmob.com/image_resources/playerimages/1286183.png",
+        "Aleksandar Pavlović (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png",
+        "Serge Gnabry (MF)|https://images.fotmob.com/image_resources/playerimages/385437.png",
+        "Ismael Saibari (MF)|https://images.fotmob.com/image_resources/playerimages/1180288.png",
+        "Alphonso Davies (DF)|https://images.fotmob.com/image_resources/playerimages/751202.png",
+        "Harry Kane (FW)|https://images.fotmob.com/image_resources/playerimages/194165.png"
+      ],
+      "away": [
+        "David Raya (GK)|https://images.fotmob.com/image_resources/playerimages/562727.png",
+        "Jurriën Timber (DF)|https://images.fotmob.com/image_resources/playerimages/942381.png",
+        "Ezri Konsa (DF)|https://images.fotmob.com/image_resources/playerimages/710159.png",
+        "Gabriel (DF)|https://images.fotmob.com/image_resources/playerimages/795179.png",
+        "Riccardo Calafiori (DF)|https://images.fotmob.com/image_resources/playerimages/1105912.png",
+        "Declan Rice (MF)|https://images.fotmob.com/image_resources/playerimages/654096.png",
+        "Bruno Guimarães (MF)|https://images.fotmob.com/image_resources/playerimages/850354.png",
+        "Bukayo Saka (FW)|https://images.fotmob.com/image_resources/playerimages/961995.png",
+        "Martin Ødegaard (MF)|https://images.fotmob.com/image_resources/playerimages/534670.png",
+        "Noni Madueke (FW)|https://images.fotmob.com/image_resources/playerimages/1084981.png",
+        "Kai Havertz (FW)|https://images.fotmob.com/image_resources/playerimages/749736.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "Vincent Kompany|https://images.fotmob.com/image_resources/playerimages/39027.png",
+      "away": "Mikel Arteta|https://images.fotmob.com/image_resources/playerimages/24011.png"
+    }
+  },
+  {
+    "home": "Club Brugge",
+    "away": "Lens",
+    "date": "2026-10-21T19:00:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Joel Ordóñez",
+          "status": "발 부상",
+          "detail": "Day to day"
+        }
+      ],
+      "away": [
+        {
+          "name": "Maik Nawrocki",
+          "status": "십자 인대 부상",
+          "detail": "Mid May 2027"
+        },
+        {
+          "name": "Jhoanner Chávez",
+          "status": "햄스트링 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Jonathan Gradit",
+          "status": "햄스트링 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Ismaëlo Ganiou",
+          "status": "무릎 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Abdallah Sima",
+          "status": "허벅지 부상",
+          "detail": "Late November 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-13T11:30:00.000Z",
+          "home": "Club Brugge",
+          "away": "Royal Antwerp",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-20T16:30:00.000Z",
+          "home": "Club Brugge",
+          "away": "Genk",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-10T16:15:00.000Z",
+          "home": "RAAL La Louvière",
+          "away": "Club Brugge",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Inter",
+          "away": "Club Brugge",
+          "homeScore": 3,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-17T18:45:00.000Z",
+          "home": "Club Brugge",
+          "away": "KSC Lokeren",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-13T15:15:00.000Z",
+          "home": "Le Mans",
+          "away": "Lens",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-18T18:45:00.000Z",
+          "home": "Monaco",
+          "away": "Lens",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-09T18:45:00.000Z",
+          "home": "Lens",
+          "away": "Lyon",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-13T16:45:00.000Z",
+          "home": "Lens",
+          "away": "Sporting CP",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-17T18:45:00.000Z",
+          "home": "Troyes",
+          "away": "Lens",
+          "homeScore": 1,
+          "awayScore": 3
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Yann Sommer (GK)|https://images.fotmob.com/image_resources/playerimages/41618.png",
+        "Kyriani Sabbe (DF)|https://images.fotmob.com/image_resources/playerimages/1227590.png",
+        "Jorne Spileers (DF)|https://images.fotmob.com/image_resources/playerimages/1233418.png",
+        "Brandon Mechele (DF)|https://images.fotmob.com/image_resources/playerimages/445873.png",
+        "Joaquin Seys (DF)|https://images.fotmob.com/image_resources/playerimages/1489449.png",
+        "Félix Lemaréchal (MF)|https://images.fotmob.com/image_resources/playerimages/1284071.png",
+        "Freddie Potts (MF)|https://images.fotmob.com/image_resources/playerimages/1206287.png",
+        "Hans Vanaken (MF)|https://images.fotmob.com/image_resources/playerimages/203666.png",
+        "Carlos Forbs (FW)|https://images.fotmob.com/image_resources/playerimages/1186529.png",
+        "Nicolò Tresoldi (FW)|https://images.fotmob.com/image_resources/playerimages/1334552.png",
+        "Jan Virgili (FW)|https://images.fotmob.com/image_resources/playerimages/1690093.png"
+      ],
+      "away": [
+        "Robin Risser (GK)|https://images.fotmob.com/image_resources/playerimages/1390336.png",
+        "Ruben Aguilar (MF)|https://images.fotmob.com/image_resources/playerimages/561046.png",
+        "Samson Baidoo (DF)|https://images.fotmob.com/image_resources/playerimages/1276626.png",
+        "Matthieu Udol (MF)|https://images.fotmob.com/image_resources/playerimages/660326.png",
+        "Saud Abdulhamid (MF)|https://images.fotmob.com/image_resources/playerimages/1002617.png",
+        "Michaël Cuisance (MF)|https://images.fotmob.com/image_resources/playerimages/861445.png",
+        "Amadou Haidara (MF)|https://images.fotmob.com/image_resources/playerimages/688830.png",
+        "Michał Skóras (MF)|https://images.fotmob.com/image_resources/playerimages/954190.png",
+        "Junior Kadile (FW)|https://images.fotmob.com/image_resources/playerimages/1334534.png",
+        "Thorgan Hazard (MF)|https://images.fotmob.com/image_resources/playerimages/264190.png",
+        "Franjo Ivanović (FW)|https://images.fotmob.com/image_resources/playerimages/1406419.png"
+      ]
+    },
+    "formation": {
+      "home": "4-3-3",
+      "away": "3-4-2-1"
+    },
+    "coach": {
+      "home": "Ivan Leko|https://images.fotmob.com/image_resources/playerimages/30910.png",
+      "away": "Yannick Cahuzac|https://images.fotmob.com/image_resources/playerimages/46243.png"
+    }
+  },
+  {
+    "home": "Inter",
+    "away": "Shakhtar Donetsk",
+    "date": "2026-10-21T19:00:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Benjamin Pavard",
+          "status": "허벅지 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "John Stones",
+          "status": "허벅지 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Curtis Jones",
+          "status": "근육 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Lautaro Martínez",
+          "status": "허벅지 부상",
+          "detail": "Mid November 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Irakli Azarovi",
+          "status": "무릎 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Eguinaldo",
+          "status": "어깨 부상",
+          "detail": "Early December 2026"
+        },
+        {
+          "name": "Diego Arroyo",
+          "status": "부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Marlon Santos",
+          "status": "근육 부상",
+          "detail": "Unknown"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2021-11-24T17:45:00.000Z",
+        "home": "Inter",
+        "away": "Shakhtar Donetsk",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-09-28T16:45:00.000Z",
+        "home": "Shakhtar Donetsk",
+        "away": "Inter",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-12-09T20:00:00.000Z",
+        "home": "Inter",
+        "away": "Shakhtar Donetsk",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-10-27T17:55:00.000Z",
+        "home": "Shakhtar Donetsk",
+        "away": "Inter",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-08-17T19:00:00.000Z",
+        "home": "Inter",
+        "away": "Shakhtar Donetsk",
+        "homeScore": 5,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-14T18:45:00.000Z",
+          "home": "Inter",
+          "away": "Udinese",
+          "homeScore": 5,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-19T16:00:00.000Z",
+          "home": "Roma",
+          "away": "Inter",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-10T16:00:00.000Z",
+          "home": "Inter",
+          "away": "Parma",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "Inter",
+          "away": "Club Brugge",
+          "homeScore": 3,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-17T16:00:00.000Z",
+          "home": "Bologna",
+          "away": "Inter",
+          "homeScore": 1,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-14T15:00:00.000Z",
+          "home": "Shakhtar Donetsk",
+          "away": "Chornomorets Odesa",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-20T15:00:00.000Z",
+          "home": "Shakhtar Donetsk",
+          "away": "LNZ Cherkasy",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-09T12:30:00.000Z",
+          "home": "Veres Rivne",
+          "away": "Shakhtar Donetsk",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-14T19:00:00.000Z",
+          "home": "Shakhtar Donetsk",
+          "away": "AEK Athens",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-17T15:00:00.000Z",
+          "home": "Shakhtar Donetsk",
+          "away": "FC Kolos Kovalivka",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Josep Martínez (GK)|https://images.fotmob.com/image_resources/playerimages/772168.png",
+        "Manuel Akanji (DF)|https://images.fotmob.com/image_resources/playerimages/521318.png",
+        "Alessandro Bastoni (DF)|https://images.fotmob.com/image_resources/playerimages/805451.png",
+        "Carlos Augusto (DF)|https://images.fotmob.com/image_resources/playerimages/940829.png",
+        "Djed Spence (DF)|https://images.fotmob.com/image_resources/playerimages/894803.png",
+        "Nicolò Barella (MF)|https://images.fotmob.com/image_resources/playerimages/541820.png",
+        "Hakan Çalhanoglu (MF)|https://images.fotmob.com/image_resources/playerimages/304733.png",
+        "Petar Sučić (MF)|https://images.fotmob.com/image_resources/playerimages/1382000.png",
+        "Federico Dimarco (MF)|https://images.fotmob.com/image_resources/playerimages/605224.png",
+        "Marcus Thuram (FW)|https://images.fotmob.com/image_resources/playerimages/621562.png",
+        "Ange-Yoan Bonny (FW)|https://images.fotmob.com/image_resources/playerimages/1199383.png"
+      ],
+      "away": [
+        "Dmytro Riznyk (GK)|https://images.fotmob.com/image_resources/playerimages/976428.png",
+        "Vinícius Tobias (DF)|https://images.fotmob.com/image_resources/playerimages/1314657.png",
+        "Valeriy Bondar (DF)|https://images.fotmob.com/image_resources/playerimages/1024427.png",
+        "Mykola Matviyenko (DF)|https://images.fotmob.com/image_resources/playerimages/656667.png",
+        "Pedro Henrique (DF)|https://images.fotmob.com/image_resources/playerimages/1259576.png",
+        "Oleg Ocheretko (MF)|https://images.fotmob.com/image_resources/playerimages/1192419.png",
+        "Alisson Santana (FW)|https://images.fotmob.com/image_resources/playerimages/1503318.png",
+        "Pedrinho (MF)|https://images.fotmob.com/image_resources/playerimages/844186.png",
+        "Marlon Gomes (MF)|https://images.fotmob.com/image_resources/playerimages/1396465.png",
+        "Gleiker Mendoza (FW)|https://images.fotmob.com/image_resources/playerimages/1460572.png",
+        "Kauã Elias (FW)|https://images.fotmob.com/image_resources/playerimages/1483508.png"
+      ]
+    },
+    "formation": {
+      "home": "3-5-2",
+      "away": "4-1-4-1"
+    },
+    "coach": {
+      "home": "Cristian Chivu|https://images.fotmob.com/image_resources/playerimages/27692.png",
+      "away": "Arda Turan|https://images.fotmob.com/image_resources/playerimages/39792.png"
+    }
+  },
+  {
+    "home": "Real Betis",
+    "away": "Feyenoord",
+    "date": "2026-10-21T19:00:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Júnior Firpo",
+          "status": "근육 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Juan Hernández",
+          "status": "종아리 부상",
+          "detail": "Early November 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Thomas Beelen",
+          "status": "부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Bart Nieuwkoop",
+          "status": "무릎 부상",
+          "detail": "Day to day"
+        },
+        {
+          "name": "Gijs Smal",
+          "status": "발목 부상",
+          "detail": "Day to day"
+        },
+        {
+          "name": "Jordan Bos",
+          "status": "무릎 부상",
+          "detail": "Late November 2026"
+        },
+        {
+          "name": "Jakub Moder",
+          "status": "무릎 부상",
+          "detail": "Day to day"
+        },
+        {
+          "name": "Reiss Nelson",
+          "status": "근육 부상",
+          "detail": "Early November 2026"
+        },
+        {
+          "name": "Shaqueel van Persie",
+          "status": "부상",
+          "detail": "Day to day"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-01-29T20:00:00.000Z",
+        "home": "Real Betis",
+        "away": "Feyenoord",
+        "homeScore": 2,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-17T17:00:00.000Z",
+          "home": "Real Betis",
+          "away": "Getafe",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-20T16:30:00.000Z",
+          "home": "Deportivo A Coruña",
+          "away": "Real Betis",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-11T16:30:00.000Z",
+          "home": "Real Betis",
+          "away": "Osasuna",
+          "homeScore": 5,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-14T19:00:00.000Z",
+          "home": "Real Betis",
+          "away": "FC Porto",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-17T16:30:00.000Z",
+          "home": "Real Betis",
+          "away": "Barcelona",
+          "homeScore": 2,
+          "awayScore": 5
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-13T14:45:00.000Z",
+          "home": "PEC Zwolle",
+          "away": "Feyenoord",
+          "homeScore": 0,
+          "awayScore": 7
+        },
+        {
+          "date": "2026-09-20T10:15:00.000Z",
+          "home": "Feyenoord",
+          "away": "FC Utrecht",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-10T16:45:00.000Z",
+          "home": "Feyenoord",
+          "away": "AZ Alkmaar",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-14T16:45:00.000Z",
+          "home": "Feyenoord",
+          "away": "Como",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-17T18:00:00.000Z",
+          "home": "Telstar",
+          "away": "Feyenoord",
+          "homeScore": 3,
+          "awayScore": 4
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Álvaro Vallés (GK)|https://images.fotmob.com/image_resources/playerimages/999171.png",
+        "Héctor Bellerín (DF)|https://images.fotmob.com/image_resources/playerimages/427438.png",
+        "Marc Bartra (DF)|https://images.fotmob.com/image_resources/playerimages/195305.png",
+        "Natan (DF)|https://images.fotmob.com/image_resources/playerimages/1188375.png",
+        "Fran García (DF)|https://images.fotmob.com/image_resources/playerimages/750028.png",
+        "Pablo Fornals (MF)|https://images.fotmob.com/image_resources/playerimages/683450.png",
+        "Marc Roca (MF)|https://images.fotmob.com/image_resources/playerimages/640220.png",
+        "Antony (FW)|https://images.fotmob.com/image_resources/playerimages/967622.png",
+        "Isco (MF)|https://images.fotmob.com/image_resources/playerimages/191315.png",
+        "Abdessamad Ezzalzouli (FW)|https://images.fotmob.com/image_resources/playerimages/1209399.png",
+        "Troy Parrott (FW)|https://images.fotmob.com/image_resources/playerimages/942365.png"
+      ],
+      "away": [
+        "Tjark Ernst (GK)|https://images.fotmob.com/image_resources/playerimages/1336731.png",
+        "Givairo Read (DF)|https://images.fotmob.com/image_resources/playerimages/1351133.png",
+        "Jeremiah St. Juste (DF)|https://images.fotmob.com/image_resources/playerimages/611831.png",
+        "Mika Mármol (DF)|https://images.fotmob.com/image_resources/playerimages/1225450.png",
+        "Javi López (DF)|https://images.fotmob.com/image_resources/playerimages/1159181.png",
+        "Gjivai Zechiël (MF)|https://images.fotmob.com/image_resources/playerimages/1523822.png",
+        "Charles Vanhoutte (MF)|https://images.fotmob.com/image_resources/playerimages/952057.png",
+        "Oussama Targhalline (MF)|https://images.fotmob.com/image_resources/playerimages/1228273.png",
+        "Anis Hadj Moussa (FW)|https://images.fotmob.com/image_resources/playerimages/1576876.png",
+        "Nacho Ferri (FW)|https://images.fotmob.com/image_resources/playerimages/1382019.png",
+        "Luciano Valente (MF)|https://images.fotmob.com/image_resources/playerimages/1256180.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-3-3"
+    },
+    "coach": {
+      "home": "Manuel Pellegrini|https://images.fotmob.com/image_resources/playerimages/78591.png",
+      "away": "Giovanni van Bronckhorst|https://images.fotmob.com/image_resources/playerimages/30654.png"
+    }
+  },
+  {
+    "home": "Real Madrid",
+    "away": "RB Leipzig",
+    "date": "2026-10-21T19:00:00.000Z",
+    "league": "Champions League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Ferland Mendy",
+          "status": "부상",
+          "detail": "Back in training"
+        },
+        {
+          "name": "Raúl Asencio",
+          "status": "다리 부상",
+          "detail": "Early January 2027"
+        },
+        {
+          "name": "Rodrygo",
+          "status": "십자 인대 부상",
+          "detail": "Late December 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Assan Ouédraogo",
+          "status": "어깨 부상",
+          "detail": "Late December 2026"
+        },
+        {
+          "name": "Marc Guiu",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2024-03-06T20:00:00.000Z",
+        "home": "Real Madrid",
+        "away": "RB Leipzig",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-02-13T20:00:00.000Z",
+        "home": "RB Leipzig",
+        "away": "Real Madrid",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-10-25T19:00:00.000Z",
+        "home": "RB Leipzig",
+        "away": "Real Madrid",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-09-14T19:00:00.000Z",
+        "home": "Real Madrid",
+        "away": "RB Leipzig",
+        "homeScore": 2,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-15T19:30:00.000Z",
+          "home": "Elche",
+          "away": "Real Madrid",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-20T14:15:00.000Z",
+          "home": "Atlético Madrid",
+          "away": "Real Madrid",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-10T19:00:00.000Z",
+          "home": "Real Madrid",
+          "away": "Villarreal",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-14T19:00:00.000Z",
+          "home": "Roma",
+          "away": "Real Madrid",
+          "homeScore": 3,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-18T19:00:00.000Z",
+          "home": "Real Madrid",
+          "away": "Sevilla",
+          "homeScore": 4,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-13T13:30:00.000Z",
+          "home": "RB Leipzig",
+          "away": "Hamburger SV",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-20T13:30:00.000Z",
+          "home": "Bayer Leverkusen",
+          "away": "RB Leipzig",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-10T16:30:00.000Z",
+          "home": "RB Leipzig",
+          "away": "Eintracht Frankfurt",
+          "homeScore": 6,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-13T19:00:00.000Z",
+          "home": "RB Leipzig",
+          "away": "PSV Eindhoven",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-17T16:30:00.000Z",
+          "home": "Bayern München",
+          "away": "RB Leipzig",
+          "homeScore": 6,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Thibaut Courtois (GK)|https://images.fotmob.com/image_resources/playerimages/170323.png",
+        "Federico Valverde (MF)|https://images.fotmob.com/image_resources/playerimages/743533.png",
+        "Antonio Rüdiger (DF)|https://images.fotmob.com/image_resources/playerimages/276738.png",
+        "Dean Huijsen (DF)|https://images.fotmob.com/image_resources/playerimages/1367619.png",
+        "Alvaro Carreras (DF)|https://images.fotmob.com/image_resources/playerimages/1190025.png",
+        "Bernardo Silva (MF)|https://images.fotmob.com/image_resources/playerimages/488139.png",
+        "Eduardo Camavinga (MF)|https://images.fotmob.com/image_resources/playerimages/1015185.png",
+        "Arda Güler (MF)|https://images.fotmob.com/image_resources/playerimages/1253890.png",
+        "Jude Bellingham (MF)|https://images.fotmob.com/image_resources/playerimages/1077894.png",
+        "Vinícius Júnior (FW)|https://images.fotmob.com/image_resources/playerimages/846033.png",
+        "Kylian Mbappé (FW)|https://images.fotmob.com/image_resources/playerimages/701154.png"
+      ],
+      "away": [
+        "Maarten Vandevoordt (GK)|https://images.fotmob.com/image_resources/playerimages/972200.png",
+        "Ridle Baku (DF)|https://images.fotmob.com/image_resources/playerimages/883087.png",
+        "Willi Orbán (DF)|https://images.fotmob.com/image_resources/playerimages/278856.png",
+        "Castello Lukeba (DF)|https://images.fotmob.com/image_resources/playerimages/1253852.png",
+        "David Raum (DF)|https://images.fotmob.com/image_resources/playerimages/806669.png",
+        "Nicolas Seiwald (MF)|https://images.fotmob.com/image_resources/playerimages/1024672.png",
+        "Neil El Aynaoui (MF)|https://images.fotmob.com/image_resources/playerimages/1274060.png",
+        "Brajan Gruda (FW)|https://images.fotmob.com/image_resources/playerimages/1430151.png",
+        "Christopher Nkunku (FW)|https://images.fotmob.com/image_resources/playerimages/704523.png",
+        "Antonio Nusa (FW)|https://images.fotmob.com/image_resources/playerimages/1248482.png",
+        "Rômulo (FW)|https://images.fotmob.com/image_resources/playerimages/1314412.png"
+      ]
+    },
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-2-3-1"
+    },
+    "coach": {
+      "home": "José Mourinho|https://images.fotmob.com/image_resources/playerimages/78719.png",
+      "away": "Martín Demichelis|https://images.fotmob.com/image_resources/playerimages/30459.png"
     }
   },
   {
@@ -2856,1471 +4321,6 @@
     "coach": null
   },
   {
-    "home": "Lille",
-    "away": "Galatasaray",
-    "date": "2026-10-21T16:45:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Ethan Mbappé",
-          "status": "부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Osame Sahraoui",
-          "status": "발 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Ayase Ueda",
-          "status": "뒤꿈치 부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Tiago Santos",
-          "status": "십자 인대 부상",
-          "detail": "Late June 2027"
-        },
-        {
-          "name": "Hamza Igamane",
-          "status": "십자 인대 부상",
-          "detail": "Late October 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Rafael Leão",
-          "status": "사타구니 부상",
-          "detail": "Mid November 2026"
-        }
-      ]
-    },
-    "h2h": [],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-13T13:00:00.000Z",
-          "home": "Lille",
-          "away": "Troyes",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-20T15:15:00.000Z",
-          "home": "Nice",
-          "away": "Lille",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-10T15:15:00.000Z",
-          "home": "Lille",
-          "away": "Le Havre",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Arsenal",
-          "away": "Lille",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-17T18:45:00.000Z",
-          "home": "Lille",
-          "away": "Brest",
-          "homeScore": 1,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-13T17:00:00.000Z",
-          "home": "Galatasaray",
-          "away": "Kocaelispor",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-19T17:00:00.000Z",
-          "home": "Trabzonspor",
-          "away": "Galatasaray",
-          "homeScore": 4,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-09T17:00:00.000Z",
-          "home": "Galatasaray",
-          "away": "Kasımpaşa",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Galatasaray",
-          "away": "Barcelona",
-          "homeScore": 1,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-10-17T13:00:00.000Z",
-          "home": "Gençlerbirliği",
-          "away": "Galatasaray",
-          "homeScore": 0,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Berke Özer (GK)|https://images.fotmob.com/image_resources/playerimages/815912.png",
-        "Maxima Goffi (DF)|https://images.fotmob.com/image_resources/playerimages/1793784.png",
-        "Nathan Ngoy (DF)|https://images.fotmob.com/image_resources/playerimages/1252070.png",
-        "Alexsandro (DF)|https://images.fotmob.com/image_resources/playerimages/1186553.png",
-        "Calvin Verdonk (DF)|https://images.fotmob.com/image_resources/playerimages/622137.png",
-        "Ngal Ayel Mukau (MF)|https://images.fotmob.com/image_resources/playerimages/1428153.png",
-        "Nabil Bentaleb (MF)|https://images.fotmob.com/image_resources/playerimages/500520.png",
-        "Benjamin André (MF)|https://images.fotmob.com/image_resources/playerimages/148830.png",
-        "Dilane Bakwa (FW)|https://images.fotmob.com/image_resources/playerimages/1079539.png",
-        "Hákon Arnar Haraldsson (FW)|https://images.fotmob.com/image_resources/playerimages/1044470.png",
-        "Soriba Diaoune (FW)|https://images.fotmob.com/image_resources/playerimages/1684579.png"
-      ],
-      "away": [
-        "Uğurcan Çakir (GK)|https://images.fotmob.com/image_resources/playerimages/603669.png",
-        "Roland Sallai (DF)|https://images.fotmob.com/image_resources/playerimages/583601.png",
-        "Davinson Sánchez (DF)|https://images.fotmob.com/image_resources/playerimages/643533.png",
-        "Abdülkerim Bardakci (DF)|https://images.fotmob.com/image_resources/playerimages/291399.png",
-        "Ismail Jakobs (DF)|https://images.fotmob.com/image_resources/playerimages/906945.png",
-        "Lucas Torreira (MF)|https://images.fotmob.com/image_resources/playerimages/592909.png",
-        "Gabriel Sara (MF)|https://images.fotmob.com/image_resources/playerimages/902710.png",
-        "Yunus Akgün (FW)|https://images.fotmob.com/image_resources/playerimages/845991.png",
-        "Aleksey Batrakov (MF)|https://images.fotmob.com/image_resources/playerimages/1504343.png",
-        "Barış Alper Yılmaz (FW)|https://images.fotmob.com/image_resources/playerimages/890232.png",
-        "Victor Osimhen (FW)|https://images.fotmob.com/image_resources/playerimages/687681.png"
-      ]
-    },
-    "formation": {
-      "home": "4-3-3",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "Davide Ancelotti|https://images.fotmob.com/image_resources/playerimages/1108529.png",
-      "away": "Okan Buruk|https://images.fotmob.com/image_resources/playerimages/39781.png"
-    }
-  },
-  {
-    "home": "Como",
-    "away": "Manchester United",
-    "date": "2026-10-21T16:45:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Jesús Rodríguez",
-          "status": "근육 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Trevoh Chalobah",
-          "status": "근육 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Assane Diao",
-          "status": "허벅지 부상",
-          "detail": "Mid November 2026"
-        },
-        {
-          "name": "Moise Kean",
-          "status": "근육 부상",
-          "detail": "Early November 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Ayden Heaven",
-          "status": "병",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Marcus Rashford",
-          "status": "엉덩이 부상",
-          "detail": "Mid November 2026"
-        },
-        {
-          "name": "Lisandro Martínez",
-          "status": "허벅지 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Luke Shaw",
-          "status": "충돌 부상",
-          "detail": "A few days"
-        },
-        {
-          "name": "Kobbie Mainoo",
-          "status": "충돌 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Patrick Dorgu",
-          "status": "햄스트링 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Benjamin Šeško",
-          "status": "정강이 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Manuel Ugarte",
-          "status": "십자 인대 부상",
-          "detail": "Early April 2027"
-        }
-      ]
-    },
-    "h2h": [],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-14T16:30:00.000Z",
-          "home": "Como",
-          "away": "Parma",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-20T13:00:00.000Z",
-          "home": "Frosinone",
-          "away": "Como",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-11T10:30:00.000Z",
-          "home": "Como",
-          "away": "Roma",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-14T16:45:00.000Z",
-          "home": "Feyenoord",
-          "away": "Como",
-          "homeScore": 3,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-18T13:00:00.000Z",
-          "home": "Fiorentina",
-          "away": "Como",
-          "homeScore": 1,
-          "awayScore": 3
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-16T19:00:00.000Z",
-          "home": "Manchester United",
-          "away": "Brighton & Hove Albion",
-          "homeScore": 2,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-09-20T15:30:00.000Z",
-          "home": "Fulham",
-          "away": "Manchester United",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-10T16:30:00.000Z",
-          "home": "Manchester United",
-          "away": "Tottenham Hotspur",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Atlético Madrid",
-          "away": "Manchester United",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-18T13:00:00.000Z",
-          "home": "Leeds United",
-          "away": "Manchester United",
-          "homeScore": 1,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Jean Butez (GK)|https://images.fotmob.com/image_resources/playerimages/560939.png",
-        "Yan Couto (DF)|https://images.fotmob.com/image_resources/playerimages/1109171.png",
-        "Jacobo Ramón (DF)|https://images.fotmob.com/image_resources/playerimages/1413963.png",
-        "Marc-Oliver Kempf (DF)|https://images.fotmob.com/image_resources/playerimages/355356.png",
-        "Álex Valle (DF)|https://images.fotmob.com/image_resources/playerimages/1384881.png",
-        "Máximo Perrone (MF)|https://images.fotmob.com/image_resources/playerimages/1336582.png",
-        "Luis Milla (MF)|https://images.fotmob.com/image_resources/playerimages/638090.png",
-        "Lucas Da Cunha (FW)|https://images.fotmob.com/image_resources/playerimages/1076647.png",
-        "Nico Paz (MF)|https://images.fotmob.com/image_resources/playerimages/1347574.png",
-        "Martin Baturina (FW)|https://images.fotmob.com/image_resources/playerimages/1215064.png",
-        "Anastasios Douvikas (FW)|https://images.fotmob.com/image_resources/playerimages/873270.png"
-      ],
-      "away": [
-        "Senne Lammens (GK)|https://images.fotmob.com/image_resources/playerimages/1178602.png",
-        "Diogo Dalot (DF)|https://images.fotmob.com/image_resources/playerimages/751550.png",
-        "Matthijs de Ligt (DF)|https://images.fotmob.com/image_resources/playerimages/769895.png",
-        "Harry Maguire (DF)|https://images.fotmob.com/image_resources/playerimages/255610.png",
-        "Noussair Mazraoui (DF)|https://images.fotmob.com/image_resources/playerimages/775539.png",
-        "Mason Mount (MF)|https://images.fotmob.com/image_resources/playerimages/750032.png",
-        "Andrey Santos (MF)|https://images.fotmob.com/image_resources/playerimages/1372921.png",
-        "Bryan Mbeumo (FW)|https://images.fotmob.com/image_resources/playerimages/923312.png",
-        "Youri Tielemans (MF)|https://images.fotmob.com/image_resources/playerimages/465960.png",
-        "Matheus Cunha (FW)|https://images.fotmob.com/image_resources/playerimages/863098.png",
-        "Bruno Fernandes (FW)|https://images.fotmob.com/image_resources/playerimages/422685.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "Cesc Fàbregas|https://images.fotmob.com/image_resources/playerimages/30613.png",
-      "away": "Michael Carrick|https://images.fotmob.com/image_resources/playerimages/34944.png"
-    }
-  },
-  {
-    "home": "Aston Villa",
-    "away": "Viking",
-    "date": "2026-10-21T19:00:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Johan Manzambi",
-          "status": "부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Aaron Wan-Bissaka",
-          "status": "햄스트링 부상",
-          "detail": "Mid November 2026"
-        },
-        {
-          "name": "Matteo Ruggeri",
-          "status": "햄스트링 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Modou Kéba Cissé",
-          "status": "충돌 부상",
-          "detail": "Back in training"
-        },
-        {
-          "name": "Amadou Onana",
-          "status": "십자 인대 부상",
-          "detail": "Mid April 2027"
-        }
-      ],
-      "away": [
-        {
-          "name": "Sondre Bjørshol",
-          "status": "무릎 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Nicholas D'Agostino",
-          "status": "무릎 부상",
-          "detail": "Mid October 2026"
-        },
-        {
-          "name": "Anders Bærtelsen",
-          "status": "부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Veton Berisha",
-          "status": "허벅지 부상",
-          "detail": "Mid October 2026"
-        },
-        {
-          "name": "Martin Roseth",
-          "status": "무릎 부상",
-          "detail": "Late October 2026"
-        }
-      ]
-    },
-    "h2h": [],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-19T11:30:00.000Z",
-          "home": "Tottenham Hotspur",
-          "away": "Aston Villa",
-          "homeScore": 2,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-02T18:30:00.000Z",
-          "home": "Sevilla",
-          "away": "Aston Villa",
-          "homeScore": 1,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-10T14:00:00.000Z",
-          "home": "Aston Villa",
-          "away": "Brentford",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-14T19:00:00.000Z",
-          "home": "Aston Villa",
-          "away": "Fenerbahçe",
-          "homeScore": 6,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-17T16:30:00.000Z",
-          "home": "Newcastle United",
-          "away": "Aston Villa",
-          "homeScore": 0,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-20T15:00:00.000Z",
-          "home": "Viking",
-          "away": "Lillestrøm",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-01T16:00:00.000Z",
-          "home": "Madla",
-          "away": "Viking",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-09T17:00:00.000Z",
-          "home": "Brann",
-          "away": "Viking",
-          "homeScore": 0,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Viking",
-          "away": "Bayern München",
-          "homeScore": 3,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-17T16:00:00.000Z",
-          "home": "Viking",
-          "away": "Fredrikstad",
-          "homeScore": 3,
-          "awayScore": 2
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Zion Suzuki (GK)|https://images.fotmob.com/image_resources/playerimages/1053679.png",
-        "João Gomes (DF)|https://images.fotmob.com/image_resources/playerimages/1174672.png",
-        "Victor Nilsson Lindelöf (DF)|https://images.fotmob.com/image_resources/playerimages/258269.png",
-        "Pau Torres (DF)|https://images.fotmob.com/image_resources/playerimages/792645.png",
-        "Tyrone Mings (DF)|https://images.fotmob.com/image_resources/playerimages/419664.png",
-        "John McGinn (MF)|https://images.fotmob.com/image_resources/playerimages/356406.png",
-        "Ross Barkley (MF)|https://images.fotmob.com/image_resources/playerimages/215384.png",
-        "Alysson (FW)|https://images.fotmob.com/image_resources/playerimages/1656860.png",
-        "Emiliano Buendía (MF)|https://images.fotmob.com/image_resources/playerimages/610184.png",
-        "Ibrahim Mbaye (FW)|https://images.fotmob.com/image_resources/playerimages/1593857.png",
-        "Nicolas Jackson (FW)|https://images.fotmob.com/image_resources/playerimages/1197347.png"
-      ],
-      "away": [
-        "Arild Østbø (GK)|https://images.fotmob.com/image_resources/playerimages/119598.png",
-        "Herman Haugen (DF)|https://images.fotmob.com/image_resources/playerimages/1019527.png",
-        "Gianni Stensness (DF)|https://images.fotmob.com/image_resources/playerimages/1029026.png",
-        "Jesper Daland (DF)|https://images.fotmob.com/image_resources/playerimages/633094.png",
-        "Henrik Heggheim (DF)|https://images.fotmob.com/image_resources/playerimages/1163230.png",
-        "Peter Christiansen (MF)|https://images.fotmob.com/image_resources/playerimages/955759.png",
-        "Tobias Moi (MF)|https://images.fotmob.com/image_resources/playerimages/1636182.png",
-        "Joe Bell (MF)|https://images.fotmob.com/image_resources/playerimages/848345.png",
-        "Kristoffer Askildsen (MF)|https://images.fotmob.com/image_resources/playerimages/964535.png",
-        "Zlatko Tripić (MF)|https://images.fotmob.com/image_resources/playerimages/279191.png",
-        "Erik Botheim (FW)|https://images.fotmob.com/image_resources/playerimages/741561.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-5-1"
-    },
-    "coach": {
-      "home": "Unai Emery|https://images.fotmob.com/image_resources/playerimages/96940.png",
-      "away": "Bjarte Lunde Aarsheim|https://images.fotmob.com/image_resources/playerimages/40234.png"
-    }
-  },
-  {
-    "home": "Inter",
-    "away": "Shakhtar Donetsk",
-    "date": "2026-10-21T19:00:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Benjamin Pavard",
-          "status": "허벅지 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Lautaro Martínez",
-          "status": "허벅지 부상",
-          "detail": "Mid November 2026"
-        },
-        {
-          "name": "Curtis Jones",
-          "status": "근육 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "John Stones",
-          "status": "허벅지 부상",
-          "detail": "Early November 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Irakli Azarovi",
-          "status": "무릎 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Eguinaldo",
-          "status": "어깨 부상",
-          "detail": "Early December 2026"
-        },
-        {
-          "name": "Diego Arroyo",
-          "status": "부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Marlon",
-          "status": "근육 부상",
-          "detail": "Unknown"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2021-11-24T17:45:00.000Z",
-        "home": "Inter",
-        "away": "Shakhtar Donetsk",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2021-09-28T16:45:00.000Z",
-        "home": "Shakhtar Donetsk",
-        "away": "Inter",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-12-09T20:00:00.000Z",
-        "home": "Inter",
-        "away": "Shakhtar Donetsk",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-10-27T17:55:00.000Z",
-        "home": "Shakhtar Donetsk",
-        "away": "Inter",
-        "homeScore": 0,
-        "awayScore": 0
-      },
-      {
-        "date": "2020-08-17T19:00:00.000Z",
-        "home": "Inter",
-        "away": "Shakhtar Donetsk",
-        "homeScore": 5,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-14T18:45:00.000Z",
-          "home": "Inter",
-          "away": "Udinese",
-          "homeScore": 5,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-09-19T16:00:00.000Z",
-          "home": "Roma",
-          "away": "Inter",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-10T16:00:00.000Z",
-          "home": "Inter",
-          "away": "Parma",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Inter",
-          "away": "Club Brugge",
-          "homeScore": 3,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-10-17T16:00:00.000Z",
-          "home": "Bologna",
-          "away": "Inter",
-          "homeScore": 1,
-          "awayScore": 3
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-14T15:00:00.000Z",
-          "home": "Shakhtar Donetsk",
-          "away": "Chornomorets Odesa",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-20T15:00:00.000Z",
-          "home": "Shakhtar Donetsk",
-          "away": "LNZ Cherkasy",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-09T12:30:00.000Z",
-          "home": "Veres Rivne",
-          "away": "Shakhtar Donetsk",
-          "homeScore": 0,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-14T19:00:00.000Z",
-          "home": "Shakhtar Donetsk",
-          "away": "AEK Athens",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-17T15:00:00.000Z",
-          "home": "Shakhtar Donetsk",
-          "away": "FC Kolos Kovalivka",
-          "homeScore": 2,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Josep Martínez (GK)|https://images.fotmob.com/image_resources/playerimages/772168.png",
-        "Manuel Akanji (DF)|https://images.fotmob.com/image_resources/playerimages/521318.png",
-        "Alessandro Bastoni (DF)|https://images.fotmob.com/image_resources/playerimages/805451.png",
-        "Carlos Augusto (DF)|https://images.fotmob.com/image_resources/playerimages/940829.png",
-        "Djed Spence (MF)|https://images.fotmob.com/image_resources/playerimages/894803.png",
-        "Nicolò Barella (MF)|https://images.fotmob.com/image_resources/playerimages/541820.png",
-        "Hakan Çalhanoglu (MF)|https://images.fotmob.com/image_resources/playerimages/304733.png",
-        "Petar Sučić (MF)|https://images.fotmob.com/image_resources/playerimages/1382000.png",
-        "Federico Dimarco (MF)|https://images.fotmob.com/image_resources/playerimages/605224.png",
-        "Marcus Thuram (FW)|https://images.fotmob.com/image_resources/playerimages/621562.png",
-        "Ange-Yoan Bonny (FW)|https://images.fotmob.com/image_resources/playerimages/1199383.png"
-      ],
-      "away": [
-        "Dmytro Riznyk (GK)|https://images.fotmob.com/image_resources/playerimages/976428.png",
-        "Vinícius Tobias (DF)|https://images.fotmob.com/image_resources/playerimages/1314657.png",
-        "Valeriy Bondar (DF)|https://images.fotmob.com/image_resources/playerimages/1024427.png",
-        "Mykola Matviyenko (DF)|https://images.fotmob.com/image_resources/playerimages/656667.png",
-        "Pedro Henrique (DF)|https://images.fotmob.com/image_resources/playerimages/1259576.png",
-        "Oleg Ocheretko (MF)|https://images.fotmob.com/image_resources/playerimages/1192419.png",
-        "Alisson Santana (FW)|https://images.fotmob.com/image_resources/playerimages/1503318.png",
-        "Pedrinho (MF)|https://images.fotmob.com/image_resources/playerimages/844186.png",
-        "Marlon Gomes (MF)|https://images.fotmob.com/image_resources/playerimages/1396465.png",
-        "Gleiker Mendoza (FW)|https://images.fotmob.com/image_resources/playerimages/1460572.png",
-        "Kauã Elias (FW)|https://images.fotmob.com/image_resources/playerimages/1483508.png"
-      ]
-    },
-    "formation": {
-      "home": "3-5-2",
-      "away": "4-1-4-1"
-    },
-    "coach": {
-      "home": "Cristian Chivu|https://images.fotmob.com/image_resources/playerimages/27692.png",
-      "away": "Arda Turan|https://images.fotmob.com/image_resources/playerimages/39792.png"
-    }
-  },
-  {
-    "home": "Real Betis",
-    "away": "Feyenoord",
-    "date": "2026-10-21T19:00:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Juan Hernández",
-          "status": "종아리 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Júnior Firpo",
-          "status": "근육 부상",
-          "detail": "Early November 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Reiss Nelson",
-          "status": "근육 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Shaqueel van Persie",
-          "status": "부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Gijs Smal",
-          "status": "발목 부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Jordan Bos",
-          "status": "무릎 부상",
-          "detail": "Late November 2026"
-        },
-        {
-          "name": "Jakub Moder",
-          "status": "무릎 부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Bart Nieuwkoop",
-          "status": "무릎 부상",
-          "detail": "Day to day"
-        },
-        {
-          "name": "Thomas Beelen",
-          "status": "부상",
-          "detail": "Unknown"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2026-01-29T20:00:00.000Z",
-        "home": "Real Betis",
-        "away": "Feyenoord",
-        "homeScore": 2,
-        "awayScore": 1
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-17T17:00:00.000Z",
-          "home": "Real Betis",
-          "away": "Getafe",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-20T16:30:00.000Z",
-          "home": "Deportivo A Coruña",
-          "away": "Real Betis",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-11T16:30:00.000Z",
-          "home": "Real Betis",
-          "away": "Osasuna",
-          "homeScore": 5,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-14T19:00:00.000Z",
-          "home": "Real Betis",
-          "away": "FC Porto",
-          "homeScore": 3,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-17T16:30:00.000Z",
-          "home": "Real Betis",
-          "away": "Barcelona",
-          "homeScore": 2,
-          "awayScore": 5
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-13T14:45:00.000Z",
-          "home": "PEC Zwolle",
-          "away": "Feyenoord",
-          "homeScore": 0,
-          "awayScore": 7
-        },
-        {
-          "date": "2026-09-20T10:15:00.000Z",
-          "home": "Feyenoord",
-          "away": "FC Utrecht",
-          "homeScore": 5,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-10T16:45:00.000Z",
-          "home": "Feyenoord",
-          "away": "AZ Alkmaar",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-14T16:45:00.000Z",
-          "home": "Feyenoord",
-          "away": "Como",
-          "homeScore": 3,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-17T18:00:00.000Z",
-          "home": "Telstar",
-          "away": "Feyenoord",
-          "homeScore": 3,
-          "awayScore": 4
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Álvaro Vallés (GK)|https://images.fotmob.com/image_resources/playerimages/999171.png",
-        "Héctor Bellerín (DF)|https://images.fotmob.com/image_resources/playerimages/427438.png",
-        "Marc Bartra (DF)|https://images.fotmob.com/image_resources/playerimages/195305.png",
-        "Natan (DF)|https://images.fotmob.com/image_resources/playerimages/1188375.png",
-        "Fran García (DF)|https://images.fotmob.com/image_resources/playerimages/750028.png",
-        "Pablo Fornals (MF)|https://images.fotmob.com/image_resources/playerimages/683450.png",
-        "Marc Roca (MF)|https://images.fotmob.com/image_resources/playerimages/640220.png",
-        "Antony (FW)|https://images.fotmob.com/image_resources/playerimages/967622.png",
-        "Isco (MF)|https://images.fotmob.com/image_resources/playerimages/191315.png",
-        "Abdessamad Ezzalzouli (FW)|https://images.fotmob.com/image_resources/playerimages/1209399.png",
-        "Troy Parrott (FW)|https://images.fotmob.com/image_resources/playerimages/942365.png"
-      ],
-      "away": [
-        "Tjark Ernst (GK)|https://images.fotmob.com/image_resources/playerimages/1336731.png",
-        "Givairo Read (DF)|https://images.fotmob.com/image_resources/playerimages/1351133.png",
-        "Jeremiah St. Juste (DF)|https://images.fotmob.com/image_resources/playerimages/611831.png",
-        "Mika Mármol (DF)|https://images.fotmob.com/image_resources/playerimages/1225450.png",
-        "Javi López (DF)|https://images.fotmob.com/image_resources/playerimages/1159181.png",
-        "Gjivai Zechiël (MF)|https://images.fotmob.com/image_resources/playerimages/1523822.png",
-        "Charles Vanhoutte (MF)|https://images.fotmob.com/image_resources/playerimages/952057.png",
-        "Oussama Targhalline (MF)|https://images.fotmob.com/image_resources/playerimages/1228273.png",
-        "Anis Hadj Moussa (FW)|https://images.fotmob.com/image_resources/playerimages/1576876.png",
-        "Nacho Ferri (FW)|https://images.fotmob.com/image_resources/playerimages/1382019.png",
-        "Luciano Valente (FW)|https://images.fotmob.com/image_resources/playerimages/1256180.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-3-3"
-    },
-    "coach": {
-      "home": "Manuel Pellegrini|https://images.fotmob.com/image_resources/playerimages/78591.png",
-      "away": "Giovanni van Bronckhorst|https://images.fotmob.com/image_resources/playerimages/30654.png"
-    }
-  },
-  {
-    "home": "Real Madrid",
-    "away": "RB Leipzig",
-    "date": "2026-10-21T19:00:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Raúl Asencio",
-          "status": "다리 부상",
-          "detail": "Early January 2027"
-        },
-        {
-          "name": "Ferland Mendy",
-          "status": "부상",
-          "detail": "Back in training"
-        },
-        {
-          "name": "Rodrygo",
-          "status": "십자 인대 부상",
-          "detail": "Late December 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Marc Guiu",
-          "status": "근육 부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Assan Ouédraogo",
-          "status": "어깨 부상",
-          "detail": "Late December 2026"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2024-03-06T20:00:00.000Z",
-        "home": "Real Madrid",
-        "away": "RB Leipzig",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-02-13T20:00:00.000Z",
-        "home": "RB Leipzig",
-        "away": "Real Madrid",
-        "homeScore": 0,
-        "awayScore": 1
-      },
-      {
-        "date": "2022-10-25T19:00:00.000Z",
-        "home": "RB Leipzig",
-        "away": "Real Madrid",
-        "homeScore": 3,
-        "awayScore": 2
-      },
-      {
-        "date": "2022-09-14T19:00:00.000Z",
-        "home": "Real Madrid",
-        "away": "RB Leipzig",
-        "homeScore": 2,
-        "awayScore": 0
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-15T19:30:00.000Z",
-          "home": "Elche",
-          "away": "Real Madrid",
-          "homeScore": 2,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-09-20T14:15:00.000Z",
-          "home": "Atlético Madrid",
-          "away": "Real Madrid",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-10T19:00:00.000Z",
-          "home": "Real Madrid",
-          "away": "Villarreal",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-14T19:00:00.000Z",
-          "home": "Roma",
-          "away": "Real Madrid",
-          "homeScore": 3,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-10-18T19:00:00.000Z",
-          "home": "Real Madrid",
-          "away": "Sevilla",
-          "homeScore": 4,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-13T13:30:00.000Z",
-          "home": "RB Leipzig",
-          "away": "Hamburger SV",
-          "homeScore": 5,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-09-20T13:30:00.000Z",
-          "home": "Bayer Leverkusen",
-          "away": "RB Leipzig",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-10T16:30:00.000Z",
-          "home": "RB Leipzig",
-          "away": "Eintracht Frankfurt",
-          "homeScore": 6,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "RB Leipzig",
-          "away": "PSV Eindhoven",
-          "homeScore": 1,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-17T16:30:00.000Z",
-          "home": "Bayern München",
-          "away": "RB Leipzig",
-          "homeScore": 6,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Thibaut Courtois (GK)|https://images.fotmob.com/image_resources/playerimages/170323.png",
-        "Federico Valverde (DF)|https://images.fotmob.com/image_resources/playerimages/743533.png",
-        "Antonio Rüdiger (DF)|https://images.fotmob.com/image_resources/playerimages/276738.png",
-        "Dean Huijsen (DF)|https://images.fotmob.com/image_resources/playerimages/1367619.png",
-        "Alvaro Carreras (DF)|https://images.fotmob.com/image_resources/playerimages/1190025.png",
-        "Bernardo Silva (MF)|https://images.fotmob.com/image_resources/playerimages/488139.png",
-        "Eduardo Camavinga (MF)|https://images.fotmob.com/image_resources/playerimages/1015185.png",
-        "Arda Güler (FW)|https://images.fotmob.com/image_resources/playerimages/1253890.png",
-        "Jude Bellingham (MF)|https://images.fotmob.com/image_resources/playerimages/1077894.png",
-        "Vinícius Júnior (FW)|https://images.fotmob.com/image_resources/playerimages/846033.png",
-        "Kylian Mbappé (FW)|https://images.fotmob.com/image_resources/playerimages/701154.png"
-      ],
-      "away": [
-        "Maarten Vandevoordt (GK)|https://images.fotmob.com/image_resources/playerimages/972200.png",
-        "Ridle Baku (DF)|https://images.fotmob.com/image_resources/playerimages/883087.png",
-        "Willi Orbán (DF)|https://images.fotmob.com/image_resources/playerimages/278856.png",
-        "Castello Lukeba (DF)|https://images.fotmob.com/image_resources/playerimages/1253852.png",
-        "David Raum (DF)|https://images.fotmob.com/image_resources/playerimages/806669.png",
-        "Nicolas Seiwald (MF)|https://images.fotmob.com/image_resources/playerimages/1024672.png",
-        "Neil El Aynaoui (MF)|https://images.fotmob.com/image_resources/playerimages/1274060.png",
-        "Brajan Gruda (FW)|https://images.fotmob.com/image_resources/playerimages/1430151.png",
-        "Christopher Nkunku (MF)|https://images.fotmob.com/image_resources/playerimages/704523.png",
-        "Antonio Nusa (FW)|https://images.fotmob.com/image_resources/playerimages/1248482.png",
-        "Rômulo (FW)|https://images.fotmob.com/image_resources/playerimages/1314412.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-2-3-1"
-    },
-    "coach": {
-      "home": "José Mourinho|https://images.fotmob.com/image_resources/playerimages/78719.png",
-      "away": "Martín Demichelis|https://images.fotmob.com/image_resources/playerimages/30459.png"
-    }
-  },
-  {
-    "home": "Bayern München",
-    "away": "Arsenal",
-    "date": "2026-10-21T19:00:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Jamal Musiala",
-          "status": "허벅지 부상",
-          "detail": "A few weeks"
-        }
-      ],
-      "away": [
-        {
-          "name": "Piero Hincapié",
-          "status": "발목 부상",
-          "detail": "A few days"
-        },
-        {
-          "name": "Christos Tzolis",
-          "status": "햄스트링 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "William Saliba",
-          "status": "등 부상",
-          "detail": "Back in training"
-        }
-      ]
-    },
-    "h2h": [
-      {
-        "date": "2025-11-26T20:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Bayern München",
-        "homeScore": 3,
-        "awayScore": 1
-      },
-      {
-        "date": "2024-04-17T19:00:00.000Z",
-        "home": "Bayern München",
-        "away": "Arsenal",
-        "homeScore": 1,
-        "awayScore": 0
-      },
-      {
-        "date": "2024-04-09T19:00:00.000Z",
-        "home": "Arsenal",
-        "away": "Bayern München",
-        "homeScore": 2,
-        "awayScore": 2
-      },
-      {
-        "date": "2019-07-18T03:05:00.000Z",
-        "home": "Arsenal",
-        "away": "Bayern München",
-        "homeScore": 2,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-07-19T11:30:00.000Z",
-        "home": "Bayern München",
-        "away": "Arsenal",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2017-03-07T19:45:00.000Z",
-        "home": "Arsenal",
-        "away": "Bayern München",
-        "homeScore": 1,
-        "awayScore": 5
-      },
-      {
-        "date": "2017-02-15T19:45:00.000Z",
-        "home": "Bayern München",
-        "away": "Arsenal",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-11-04T19:45:00.000Z",
-        "home": "Bayern München",
-        "away": "Arsenal",
-        "homeScore": 5,
-        "awayScore": 1
-      },
-      {
-        "date": "2015-10-20T18:45:00.000Z",
-        "home": "Arsenal",
-        "away": "Bayern München",
-        "homeScore": 2,
-        "awayScore": 0
-      },
-      {
-        "date": "2014-03-11T19:45:00.000Z",
-        "home": "Bayern München",
-        "away": "Arsenal",
-        "homeScore": 1,
-        "awayScore": 1
-      },
-      {
-        "date": "2014-02-19T19:45:00.000Z",
-        "home": "Arsenal",
-        "away": "Bayern München",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-03-13T19:45:00.000Z",
-        "home": "Bayern München",
-        "away": "Arsenal",
-        "homeScore": 0,
-        "awayScore": 2
-      },
-      {
-        "date": "2013-02-19T19:45:00.000Z",
-        "home": "Arsenal",
-        "away": "Bayern München",
-        "homeScore": 1,
-        "awayScore": 3
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-13T15:30:00.000Z",
-          "home": "Elversberg",
-          "away": "Bayern München",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-18T18:30:00.000Z",
-          "home": "Bayern München",
-          "away": "Union Berlin",
-          "homeScore": 7,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-10T13:30:00.000Z",
-          "home": "Augsburg",
-          "away": "Bayern München",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Viking",
-          "away": "Bayern München",
-          "homeScore": 3,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-17T16:30:00.000Z",
-          "home": "Bayern München",
-          "away": "RB Leipzig",
-          "homeScore": 6,
-          "awayScore": 1
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-15T19:00:00.000Z",
-          "home": "Ipswich Town",
-          "away": "Arsenal",
-          "homeScore": 2,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-09-19T14:00:00.000Z",
-          "home": "Brighton & Hove Albion",
-          "away": "Arsenal",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-10T11:30:00.000Z",
-          "home": "Arsenal",
-          "away": "Leeds United",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Arsenal",
-          "away": "Lille",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-18T15:30:00.000Z",
-          "home": "Nottingham Forest",
-          "away": "Arsenal",
-          "homeScore": 0,
-          "awayScore": 1
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Manuel Neuer (GK)|https://images.fotmob.com/image_resources/playerimages/27299.png",
-        "Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png",
-        "Dayot Upamecano (DF)|https://images.fotmob.com/image_resources/playerimages/658554.png",
-        "Kim Min-Jae (DF)|https://images.fotmob.com/image_resources/playerimages/828159.png",
-        "Josip Stanišić (DF)|https://images.fotmob.com/image_resources/playerimages/950824.png",
-        "Tom Bischof (MF)|https://images.fotmob.com/image_resources/playerimages/1286183.png",
-        "Aleksandar Pavlović (MF)|https://images.fotmob.com/image_resources/playerimages/1473580.png",
-        "Serge Gnabry (FW)|https://images.fotmob.com/image_resources/playerimages/385437.png",
-        "Ismael Saibari (MF)|https://images.fotmob.com/image_resources/playerimages/1180288.png",
-        "Alphonso Davies (FW)|https://images.fotmob.com/image_resources/playerimages/751202.png",
-        "Harry Kane (FW)|https://images.fotmob.com/image_resources/playerimages/194165.png"
-      ],
-      "away": [
-        "David Raya (GK)|https://images.fotmob.com/image_resources/playerimages/562727.png",
-        "Jurriën Timber (DF)|https://images.fotmob.com/image_resources/playerimages/942381.png",
-        "Ezri Konsa (DF)|https://images.fotmob.com/image_resources/playerimages/710159.png",
-        "Gabriel (DF)|https://images.fotmob.com/image_resources/playerimages/795179.png",
-        "Riccardo Calafiori (DF)|https://images.fotmob.com/image_resources/playerimages/1105912.png",
-        "Martin Ødegaard (MF)|https://images.fotmob.com/image_resources/playerimages/534670.png",
-        "Bruno Guimarães (MF)|https://images.fotmob.com/image_resources/playerimages/850354.png",
-        "Declan Rice (MF)|https://images.fotmob.com/image_resources/playerimages/654096.png",
-        "Bukayo Saka (FW)|https://images.fotmob.com/image_resources/playerimages/961995.png",
-        "Kai Havertz (FW)|https://images.fotmob.com/image_resources/playerimages/749736.png",
-        "Noni Madueke (FW)|https://images.fotmob.com/image_resources/playerimages/1084981.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "4-3-3"
-    },
-    "coach": {
-      "home": "Vincent Kompany|https://images.fotmob.com/image_resources/playerimages/39027.png",
-      "away": "Mikel Arteta|https://images.fotmob.com/image_resources/playerimages/24011.png"
-    }
-  },
-  {
-    "home": "Club Brugge",
-    "away": "Lens",
-    "date": "2026-10-21T19:00:00.000Z",
-    "league": "Champions League - League Stage",
-    "injuries": {
-      "home": [
-        {
-          "name": "Joel Ordóñez",
-          "status": "발 부상",
-          "detail": "Day to day"
-        }
-      ],
-      "away": [
-        {
-          "name": "Ismaëlo Ganiou",
-          "status": "무릎 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Jonathan Gradit",
-          "status": "햄스트링 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Abdallah Sima",
-          "status": "허벅지 부상",
-          "detail": "Late November 2026"
-        },
-        {
-          "name": "Maik Nawrocki",
-          "status": "십자 인대 부상",
-          "detail": "Mid May 2027"
-        },
-        {
-          "name": "Jhoanner Chávez",
-          "status": "햄스트링 부상",
-          "detail": "Early November 2026"
-        }
-      ]
-    },
-    "h2h": [],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-13T11:30:00.000Z",
-          "home": "Club Brugge",
-          "away": "Royal Antwerp",
-          "homeScore": 3,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-09-20T16:30:00.000Z",
-          "home": "Club Brugge",
-          "away": "Genk",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-10T16:15:00.000Z",
-          "home": "RAAL La Louvière",
-          "away": "Club Brugge",
-          "homeScore": 1,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-10-13T19:00:00.000Z",
-          "home": "Inter",
-          "away": "Club Brugge",
-          "homeScore": 3,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-10-17T18:45:00.000Z",
-          "home": "Club Brugge",
-          "away": "KSC Lokeren",
-          "homeScore": 1,
-          "awayScore": 0
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-13T15:15:00.000Z",
-          "home": "Le Mans",
-          "away": "Lens",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-18T18:45:00.000Z",
-          "home": "Monaco",
-          "away": "Lens",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-09T18:45:00.000Z",
-          "home": "Lens",
-          "away": "Lyon",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "date": "2026-10-13T16:45:00.000Z",
-          "home": "Lens",
-          "away": "Sporting CP",
-          "homeScore": 0,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-10-17T18:45:00.000Z",
-          "home": "Troyes",
-          "away": "Lens",
-          "homeScore": 1,
-          "awayScore": 3
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Yann Sommer (GK)|https://images.fotmob.com/image_resources/playerimages/41618.png",
-        "Kyriani Sabbe (DF)|https://images.fotmob.com/image_resources/playerimages/1227590.png",
-        "Jorne Spileers (DF)|https://images.fotmob.com/image_resources/playerimages/1233418.png",
-        "Brandon Mechele (DF)|https://images.fotmob.com/image_resources/playerimages/445873.png",
-        "Joaquin Seys (DF)|https://images.fotmob.com/image_resources/playerimages/1489449.png",
-        "Freddie Potts (MF)|https://images.fotmob.com/image_resources/playerimages/1206287.png",
-        "Hans Vanaken (MF)|https://images.fotmob.com/image_resources/playerimages/203666.png",
-        "Carlos Forbs (FW)|https://images.fotmob.com/image_resources/playerimages/1186529.png",
-        "Félix Lemaréchal (MF)|https://images.fotmob.com/image_resources/playerimages/1284071.png",
-        "Jan Virgili (FW)|https://images.fotmob.com/image_resources/playerimages/1690093.png",
-        "Nicolò Tresoldi (FW)|https://images.fotmob.com/image_resources/playerimages/1334552.png"
-      ],
-      "away": [
-        "Robin Risser (GK)|https://images.fotmob.com/image_resources/playerimages/1390336.png",
-        "Ruben Aguilar (DF)|https://images.fotmob.com/image_resources/playerimages/561046.png",
-        "Samson Baidoo (DF)|https://images.fotmob.com/image_resources/playerimages/1276626.png",
-        "Matthieu Udol (DF)|https://images.fotmob.com/image_resources/playerimages/660326.png",
-        "Saud Abdulhamid (MF)|https://images.fotmob.com/image_resources/playerimages/1002617.png",
-        "Michaël Cuisance (MF)|https://images.fotmob.com/image_resources/playerimages/861445.png",
-        "Amadou Haidara (MF)|https://images.fotmob.com/image_resources/playerimages/688830.png",
-        "Michał Skóras (MF)|https://images.fotmob.com/image_resources/playerimages/954190.png",
-        "Junior Kadile (MF)|https://images.fotmob.com/image_resources/playerimages/1334534.png",
-        "Thorgan Hazard (MF)|https://images.fotmob.com/image_resources/playerimages/264190.png",
-        "Franjo Ivanović (FW)|https://images.fotmob.com/image_resources/playerimages/1406419.png"
-      ]
-    },
-    "formation": {
-      "home": "4-2-3-1",
-      "away": "3-4-2-1"
-    },
-    "coach": {
-      "home": "Ivan Leko|https://images.fotmob.com/image_resources/playerimages/30910.png",
-      "away": "Yannick Cahuzac|https://images.fotmob.com/image_resources/playerimages/46243.png"
-    }
-  },
-  {
     "home": "Al Hazem",
     "away": "Al-Fayha",
     "date": "2026-10-22T13:40:00.000Z",
@@ -5105,12 +5105,23 @@
     "injuries": {
       "home": [
         {
+          "name": "Matús Bero",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
           "name": "Bence Ötvös",
           "status": "십자 인대 부상",
           "detail": "Early December 2026"
         }
       ],
-      "away": []
+      "away": [
+        {
+          "name": "Adama Baradji",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        }
+      ]
     },
     "h2h": [],
     "recent": {
@@ -5433,6 +5444,11 @@
         {
           "name": "Wilson Isidor",
           "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Brian Brobbey",
+          "status": "햄스트링 부상",
           "detail": "Doubtful"
         },
         {
@@ -7561,6 +7577,11 @@
       ],
       "away": [
         {
+          "name": "Gašper Trdin",
+          "status": "부상",
+          "detail": "About a week"
+        },
+        {
           "name": "Radoslav Kirilov",
           "status": "무릎 부상",
           "detail": "Unknown"
@@ -8518,7 +8539,7 @@
         "Javi Díaz (GK)|https://images.fotmob.com/image_resources/playerimages/942424.png",
         "Maurizio Pochettino (DF)|https://images.fotmob.com/image_resources/playerimages/1101127.png",
         "Álex Sánchez (DF)|https://images.fotmob.com/image_resources/playerimages/1177531.png",
-        "Anwar Hernandez (DF)|https://images.fotmob.com/image_resources/playerimages/2068264.png",
+        "Anwar Hernández (DF)|https://images.fotmob.com/image_resources/playerimages/2068264.png",
         "Jilmar Torres (DF)|https://images.fotmob.com/image_resources/playerimages/724755.png",
         "Pablo Molina (MF)|https://images.fotmob.com/image_resources/playerimages/1657704.png",
         "Víctor Alonso (MF)|https://images.fotmob.com/image_resources/playerimages/641037.png",
@@ -9177,7 +9198,7 @@
         {
           "name": "Daley Blind",
           "status": "등 부상",
-          "detail": "Day to day"
+          "detail": "Back in training"
         },
         {
           "name": "Kasper Dolberg",
@@ -9187,7 +9208,7 @@
         {
           "name": "Steven Berghuis",
           "status": "부상",
-          "detail": "Day to day"
+          "detail": "Back in training"
         }
       ],
       "away": [
@@ -9783,7 +9804,7 @@
         "Nelson Ishiwatari (MF)|https://images.fotmob.com/image_resources/playerimages/1381856.png",
         "Ilias Sebaoui (FW)|https://images.fotmob.com/image_resources/playerimages/1307959.png",
         "Samed Baždar (FW)|https://images.fotmob.com/image_resources/playerimages/1284492.png",
-        "Nathanaël Mbuku (MF)|https://images.fotmob.com/image_resources/playerimages/1049799.png"
+        "Nathanaël Mbuku (FW)|https://images.fotmob.com/image_resources/playerimages/1049799.png"
       ]
     },
     "formation": {
@@ -9809,6 +9830,11 @@
         }
       ],
       "away": [
+        {
+          "name": "Filip Thorvaldsen",
+          "status": "부상",
+          "detail": "Early November 2026"
+        },
         {
           "name": "Lars Unnerstall",
           "status": "부상",
@@ -14429,7 +14455,7 @@
         "Leandro Cabrera (DF)|https://images.fotmob.com/image_resources/playerimages/169586.png",
         "Omar El Hilali (DF)|https://images.fotmob.com/image_resources/playerimages/1208708.png",
         "Roger Hinojo (DF)|https://images.fotmob.com/image_resources/playerimages/1727689.png",
-        "Javi Hernández (FW)|https://images.fotmob.com/image_resources/playerimages/1427828.png",
+        "Javi Hernández (MF)|https://images.fotmob.com/image_resources/playerimages/1427828.png",
         "Edu Expósito (MF)|https://images.fotmob.com/image_resources/playerimages/837089.png",
         "Pol Lozano (MF)|https://images.fotmob.com/image_resources/playerimages/750031.png",
         "Bryan Zaragoza (FW)|https://images.fotmob.com/image_resources/playerimages/1202525.png",
@@ -22403,9 +22429,9 @@
         "Hong Uk-Hyeon (DF)|https://images.fotmob.com/image_resources/playerimages/1326513.png",
         "Yeo Jae-Yul (DF)|https://images.fotmob.com/image_resources/playerimages/1365937.png",
         "Lee Yu-Chan (DF)|https://images.fotmob.com/image_resources/playerimages/1467369.png",
-        "Lee Kang-Uk (MF)|https://images.fotmob.com/image_resources/playerimages/794833.png",
         "Choi Won-Chul (MF)|https://images.fotmob.com/image_resources/playerimages/828378.png",
         "Gwak Seong-Uk (MF)|https://images.fotmob.com/image_resources/playerimages/1136247.png",
+        "Lee Kang-Uk (FW)|https://images.fotmob.com/image_resources/playerimages/794833.png",
         "Sung Ho-Yeung (MF)|https://images.fotmob.com/image_resources/playerimages/1135880.png",
         "Lee Seung-Jae (FW)|https://images.fotmob.com/image_resources/playerimages/1135913.png",
         "Woo Je-Wook (FW)|https://images.fotmob.com/image_resources/playerimages/1367937.png"
@@ -22413,7 +22439,7 @@
     },
     "formation": {
       "home": "3-4-3",
-      "away": "4-4-2"
+      "away": "4-2-3-1"
     },
     "coach": {
       "home": "Ko Jeong-Woon|https://images.fotmob.com/image_resources/playerimages/1589549.png",
