@@ -12,6 +12,7 @@ const TEAM_NAME_MAP = {
   "Coventry City": "코번트리 시티",
   "Ipswich": "입스위치 타운",
   "Ipswich Town": "입스위치 타운",
+  "Ipswich Town WFC": "입스위치 타운",
   "Hull City": "헐 시티",
   "Hull": "헐 시티",
   "Arsenal": "아스널",
