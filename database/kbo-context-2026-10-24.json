@@ -1,0 +1,254 @@
+[
+  {
+    "home": "Samsung Lions",
+    "away": "KIA Tigers",
+    "date": "2026-10-25T05:00:00.000Z",
+    "league": "KBO",
+    "gameId": "20261025HTSS0",
+    "stadium": "대구",
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "starters": {
+      "home": "페덱",
+      "away": "네일"
+    },
+    "pitcherRecord": {
+      "away": {
+        "name": "네일",
+        "era": "-",
+        "war": "-",
+        "games": "-",
+        "inningsPerStart": "-",
+        "qs": "-",
+        "whip": "-"
+      },
+      "home": {
+        "name": "페덱",
+        "era": "-",
+        "war": "-",
+        "games": "-",
+        "inningsPerStart": "-",
+        "qs": "-",
+        "whip": "-"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "네일",
+        "pitches": [
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          }
+        ]
+      },
+      "home": {
+        "name": "페덱",
+        "pitches": [
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          }
+        ]
+      }
+    },
+    "lineup": {
+      "lineupConfirmed": false,
+      "home": {
+        "teamId": "SS",
+        "teamName": "삼성",
+        "gameId": "20261012KTSS0",
+        "warByOrderRange": {
+          "1-2": "6.09",
+          "3-5": "7.03",
+          "6-9": "2.33"
+        },
+        "lineup": [
+          {
+            "order": "1",
+            "position": "지명타자",
+            "name": "김지찬",
+            "war": "3.38"
+          },
+          {
+            "order": "2",
+            "position": "중견수",
+            "name": "김성윤",
+            "war": "2.71"
+          },
+          {
+            "order": "3",
+            "position": "2루수",
+            "name": "류지혁",
+            "war": "2.65"
+          },
+          {
+            "order": "4",
+            "position": "좌익수",
+            "name": "최형우",
+            "war": "3.12"
+          },
+          {
+            "order": "5",
+            "position": "1루수",
+            "name": "전병우",
+            "war": "1.26"
+          },
+          {
+            "order": "6",
+            "position": "우익수",
+            "name": "김헌곤",
+            "war": "0.19"
+          },
+          {
+            "order": "7",
+            "position": "포수",
+            "name": "강민호",
+            "war": "2.04"
+          },
+          {
+            "order": "8",
+            "position": "3루수",
+            "name": "김영웅",
+            "war": "-1.35"
+          },
+          {
+            "order": "9",
+            "position": "유격수",
+            "name": "이재현",
+            "war": "1.45"
+          }
+        ]
+      },
+      "away": {
+        "teamId": "HT",
+        "teamName": "KIA",
+        "gameId": "20261020HTLG0",
+        "warByOrderRange": {
+          "1-2": "3.26",
+          "3-5": "16.12",
+          "6-9": "5.11"
+        },
+        "lineup": [
+          {
+            "order": "1",
+            "position": "중견수",
+            "name": "박정우",
+            "war": "0.46"
+          },
+          {
+            "order": "2",
+            "position": "좌익수",
+            "name": "박재현",
+            "war": "2.79"
+          },
+          {
+            "order": "3",
+            "position": "3루수",
+            "name": "김도영",
+            "war": "7.20"
+          },
+          {
+            "order": "4",
+            "position": "1루수",
+            "name": "카스트로",
+            "war": "3.90"
+          },
+          {
+            "order": "5",
+            "position": "우익수",
+            "name": "나성범",
+            "war": "5.02"
+          },
+          {
+            "order": "6",
+            "position": "지명타자",
+            "name": "김선빈",
+            "war": "2.73"
+          },
+          {
+            "order": "7",
+            "position": "포수",
+            "name": "한준수",
+            "war": "2.28"
+          },
+          {
+            "order": "8",
+            "position": "2루수",
+            "name": "김규성",
+            "war": "-0.26"
+          },
+          {
+            "order": "9",
+            "position": "유격수",
+            "name": "하주석",
+            "war": "0.36"
+          }
+        ]
+      }
+    },
+    "injuries": {
+      "home": [
+        {
+          "date": "2026-10-20",
+          "category": "치료·재활명단",
+          "team": "삼성",
+          "player": "이승현(투수)",
+          "note": "10일"
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-30",
+          "category": "치료·재활명단",
+          "team": "KIA",
+          "player": "김기훈(투수)",
+          "note": "94일"
+        }
+      ]
+    }
+  }
+]
