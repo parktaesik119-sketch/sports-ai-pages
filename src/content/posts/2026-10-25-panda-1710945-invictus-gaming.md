@@ -1,6 +1,6 @@
 ---
 title: "인빅투스 게이밍 vs Team Secret Whales 롤분석·승부예측 (10월 25일) - 픽천국"
-date: 2026-10-24T22:00:00Z
+date: 2026-10-24T21:00:00Z
 description: "인빅투스 게이밍 vs Team Secret Whales 롤분석: 이번 경기는 탄탄한 승률과 안정적인 경기력을 보여온 Team Secret Whales가 다소 기복 있는 모습을 노출해 온 인빅… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-panda-1710945-2026-10-25-invictus-gaming"
 category: "lol"
