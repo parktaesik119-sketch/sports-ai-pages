@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.10.12","home":"삼성 라이온스","away":"KT 위즈"
 awayRecent: '[{"date":"26.10.20","home":"LG 트윈스","away":"KIA 타이거즈","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-33331020HTLG02026-2026-10-20-lg-twins/"},{"date":"26.10.18","home":"KIA 타이거즈","away":"LG 트윈스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-33331018LGHT02026-2026-10-18-kia-tigers/"},{"date":"26.10.17","home":"KIA 타이거즈","away":"LG 트윈스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-33331017LGHT02026-2026-10-17-kia-tigers/"},{"date":"26.10.12","home":"KIA 타이거즈","away":"LG 트윈스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261012LGHT02026-2026-10-12-kia-tigers/"},{"date":"26.10.11","home":"KIA 타이거즈","away":"롯데 자이언츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261011LTHT02026-2026-10-11-kia-tigers/"}]'
 injuryHome: "이승현(치료·재활중)"
 injuryAway: "김기훈(치료·재활중)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 페덱 (ERA -)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56459.jpg\",\"1번 김지찬 (지명타자)\",\"2번 김성윤 (중견수)\",\"3번 류지혁 (2루수)\",\"4번 최형우 (좌익수)\",\"5번 전병우 (1루수)\",\"6번 김헌곤 (우익수)\",\"7번 강민호 (포수)\",\"8번 김영웅 (3루수)\",\"9번 이재현 (유격수)\"]"
+awayLineup: "[\"선발투수 네일 (ERA -)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54640.jpg\",\"1번 박정우 (중견수)\",\"2번 박재현 (좌익수)\",\"3번 김도영 (3루수)\",\"4번 카스트로 (1루수)\",\"5번 나성범 (우익수)\",\"6번 김선빈 (지명타자)\",\"7번 한준수 (포수)\",\"8번 김규성 (2루수)\",\"9번 하주석 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
