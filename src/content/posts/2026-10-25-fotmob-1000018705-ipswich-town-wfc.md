@@ -24,8 +24,8 @@ homeLineup: '["Natalia Negri (GK)|https://images.fotmob.com/image_resources/play
 awayLineup: '["Noa Schumacher (GK)|https://images.fotmob.com/image_resources/playerimages/0.png","Ria Bose (DF)|https://images.fotmob.com/image_resources/playerimages/1822462.png","Chloe Paxton (DF)|https://images.fotmob.com/image_resources/playerimages/1839104.png","Brianna Westrup (DF)|https://images.fotmob.com/image_resources/playerimages/1056691.png","Mary Corbyn (DF)|https://images.fotmob.com/image_resources/playerimages/1703978.png","Natasha Fenton (MF)|https://images.fotmob.com/image_resources/playerimages/1559997.png","Marissa Sheva (MF)|https://images.fotmob.com/image_resources/playerimages/1170873.png","Lily Dent (MF)|https://images.fotmob.com/image_resources/playerimages/1605825.png","Katie Kitching (MF)|https://images.fotmob.com/image_resources/playerimages/1566294.png","Ella Parker (MF)|https://images.fotmob.com/image_resources/playerimages/1983581.png","Emily Scarr (FW)|https://images.fotmob.com/image_resources/playerimages/1564144.png"]'
 homeFormation: "4-2-3-1"
 awayFormation: "4-2-3-1"
-homeCoach: ""
-awayCoach: ""
+homeCoach: "David Wright|https://images.fotmob.com/image_resources/playerimages/24834.png"
+awayCoach: "Melanie Reay Copeland|https://images.fotmob.com/image_resources/playerimages/1703980.png"
 pickWinTeam: "입스위치 타운 Town WFC"
 pickWinResult: "승"
 pickHandicapTeam: "입스위치 타운 Town WFC"
