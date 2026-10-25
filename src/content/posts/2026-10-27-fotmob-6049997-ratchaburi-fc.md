@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.24","home":"랏차부리 FC","away":"Chonburi FC","
 awayRecent: '[{"date":"26.10.24","home":"가시마 앤틀러스","away":"가시와 레이솔","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5803631-2026-10-24-kashima-antlers/"},{"date":"26.10.21","home":"FC 도쿄","away":"가시와 레이솔","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5803619-2026-10-21-fc-tokyo/"},{"date":"26.10.17","home":"가시와 레이솔","away":"나고야 그램퍼스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5803611-2026-10-17-kashiwa-reysol/"},{"date":"26.10.14","home":"가시와 레이솔","away":"Port FC","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6049984-2026-10-14-kashiwa-reysol/"},{"date":"26.10.09","home":"가시와 레이솔","away":"비셀 고베","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5803603-2026-10-09-kashiwa-reysol/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Kampol Pathomakkakul (GK)|https://images.fotmob.com/image_resources/playerimages/533233.png\",\"Jesse Curran (DF)|https://images.fotmob.com/image_resources/playerimages/497658.png\",\"Tarek Aggoun (DF)|https://images.fotmob.com/image_resources/playerimages/1308389.png\",\"Daniel Ting (DF)|https://images.fotmob.com/image_resources/playerimages/1246161.png\",\"Sai van Wermeskerken (DF)|https://images.fotmob.com/image_resources/playerimages/638612.png\",\"Roque Mesa (MF)|https://images.fotmob.com/image_resources/playerimages/292262.png\",\"Thanawat Suengchitthawon (MF)|https://images.fotmob.com/image_resources/playerimages/1194305.png\",\"Chotipat Poomkaew (FW)|https://images.fotmob.com/image_resources/playerimages/1048054.png\",\"Tana (MF)|https://images.fotmob.com/image_resources/playerimages/484906.png\",\"Ekanit Panya (FW)|https://images.fotmob.com/image_resources/playerimages/1048019.png\",\"Robert Žulj (FW)|https://images.fotmob.com/image_resources/playerimages/207119.png\"]"
+awayLineup: "[\"Kengo Nagai (GK)|https://images.fotmob.com/image_resources/playerimages/431791.png\",\"Wataru Harada (DF)|https://images.fotmob.com/image_resources/playerimages/1267663.png\",\"Taiyo Koga (DF)|https://images.fotmob.com/image_resources/playerimages/758052.png\",\"Daiki Sugioka (DF)|https://images.fotmob.com/image_resources/playerimages/826020.png\",\"Shusuke Furuya (MF)|https://images.fotmob.com/image_resources/playerimages/1902727.png\",\"Sachiro Toshima (MF)|https://images.fotmob.com/image_resources/playerimages/928684.png\",\"Nobuteru Nakagawa (MF)|https://images.fotmob.com/image_resources/playerimages/1716158.png\",\"Keita Endo (MF)|https://images.fotmob.com/image_resources/playerimages/727873.png\",\"Yoshio Koizumi (MF)|https://images.fotmob.com/image_resources/playerimages/1012227.png\",\"Hinata Yamauchi (MF)|https://images.fotmob.com/image_resources/playerimages/1611176.png\",\"Yuki Kakita (FW)|https://images.fotmob.com/image_resources/playerimages/727819.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "3-4-2-1"
+homeCoach: "Worrawoot Srimaka|https://images.fotmob.com/image_resources/playerimages/1822971.png"
+awayCoach: "Ricardo Rodríguez|https://images.fotmob.com/image_resources/playerimages/1134762.png"
 pickWinTeam: "가시와 레이솔"
 pickWinResult: "승"
 pickHandicapTeam: "가시와 레이솔"
