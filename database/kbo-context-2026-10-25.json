@@ -263,11 +263,90 @@
       "away": null
     },
     "starters": {
-      "home": null,
-      "away": null
+      "home": "페덱",
+      "away": "네일"
     },
-    "pitcherRecord": null,
-    "pitKind": null,
+    "pitcherRecord": {
+      "away": {
+        "name": "네일",
+        "era": "-",
+        "war": "-",
+        "games": "-",
+        "inningsPerStart": "-",
+        "qs": "-",
+        "whip": "-"
+      },
+      "home": {
+        "name": "페덱",
+        "era": "-",
+        "war": "-",
+        "games": "-",
+        "inningsPerStart": "-",
+        "qs": "-",
+        "whip": "-"
+      },
+      "_headerLabels": [
+        "선발투수",
+        "평균자책점",
+        "WAR",
+        "경기",
+        "선발평균이닝",
+        "QS",
+        "WHIP"
+      ]
+    },
+    "pitKind": {
+      "away": {
+        "name": "네일",
+        "pitches": [
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          }
+        ]
+      },
+      "home": {
+        "name": "페덱",
+        "pitches": [
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          },
+          {
+            "type": "-",
+            "usageRate": "-",
+            "avgSpeed": "-"
+          }
+        ]
+      }
+    },
     "lineup": {
       "lineupConfirmed": false,
       "home": {
