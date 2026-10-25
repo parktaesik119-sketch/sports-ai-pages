@@ -1,0 +1,37 @@
+---
+title: "알쿠와 알자위야 vs 파흐타코르 FK 축구분석·승부예측 (10월 27일) - 픽천국"
+date: 2026-10-26T19:15:00.000Z
+description: "알쿠와 알자위야 vs 파흐타코르 FK 축구분석: 양 팀의 최근 흐름과 전력을 비교해 보면 원정팀 파흐타코르 FK가 전체적인 안정감에서 우위를 점할 것으로 보입니다. 홈팀 알쿠… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6050085-2026-10-27-al-quwa-al-jawiya"
+category: "soccer"
+country: "국제"
+league: "AFC 챔피언스리그"
+homeTeam: "알쿠와 알자위야"
+awayTeam: "파흐타코르 FK"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/101656.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/102141.png"
+homeAnalysis: "알쿠와 알자위야는 앞선 20경기에서 7승 7무 6패로 승률 35%를 기록했고 다소 기복 있는 경기력을 보여주고 있습니다. 최근 치른 10경기에서는 2승 3무 5패를 거두며 다소 주춤한 흐름을 이어가는 중입니다. 공격에서는 간헐적으로 득점을 올리고 있으나 수비진의 집중력이 흔들리며 실점을 허용하는 경향이 잦습니다. 홈 경기에서도 확실한 우위를 점하지 못하고 무승부가 많아 아쉬움을 남기고 있습니다. 이번 경기에서는 최근의 불안정한 수비 조직력을 얼마나 빠르게 정비하느냐가 중요한 관건이 될 것입니다."
+awayAnalysis: "파흐타코르 FK는 앞선 13경기에서 6승 6무 1패로 승률 46%를 기록했고 안정적인 전력을 유지하고 있습니다. 최근 10경기에서도 4승 5무 1패를 거두며 패배를 쉽게 허용하지 않는 단단한 경기 운영을 보여주고 있습니다. 꾸준한 득점력을 바탕으로 원정 경기에서도 쉽게 무너지지 않는 저력을 발휘하고 있습니다. 공수 밸런스가 비교적 잘 잡혀 있어 상대를 압박하는 능력이 뛰어납니다. 이번 일정에서도 특유의 조직력을 바탕으로 경기를 주도해 나갈 것으로 기대됩니다."
+homePower: "최근 홈 경기 다수 무승부 발생, 승부처 집중력 보완 필요함|전체 20경기 중 6패 허용, 수비 안정감 다소 아쉬움|평균 득점 1.4골 기록, 공격 루트 다변화 요구됨|최근 10경기 승수 다소 저조, 흐름 반전 시급함|안방에서의 세밀한 마감 능력 제고가 관건임"
+awayPower: "최근 13경기 단 1패만 허용, 뛰어난 위기 관리 능력 입증됨|원정에서도 쉽게 지지 않는 단단한 경기 운영 보임|평균 1.8골의 꾸준한 화력 장착, 다득점 기대 가능함|공수 밸런스 안정적으로 유지되며 상대를 압박함|원정 환경에서의 경기 주도권 싸움에서 우위 점함"
+h2h: '[{"date":"21.04.30","home":"파흐타코르 FK","away":"알쿠와 알자위야","score":"1-0"},{"date":"21.04.18","home":"알쿠와 알자위야","away":"파흐타코르 FK","score":"0-0"},{"date":"19.02.12","home":"파흐타코르 FK","away":"알쿠와 알자위야","score":"2-1"}]'
+summary: "양 팀의 최근 흐름과 전력을 비교해 보면 원정팀 파흐타코르 FK가 전체적인 안정감에서 우위를 점할 것으로 보입니다. 홈팀 알쿠와 알자위야는 최근 수비 집중력이 흔들리며 승리를 챙기는 데 어려움을 겪고 있습니다. 반면 파흐타코르 FK는 꾸준한 득점력과 단단한 수비를 바탕으로 원정 경기에서도 짜임새 있는 모습을 보여주고 있습니다. 과거 상대전적에서도 파흐타코르 FK가 우세한 경기를 펼쳤던 만큼 이번 맞대결에서도 차분하게 경기를 풀어나갈 가능성이 높습니다. 따라서 원정팀 파흐타코르 FK가 경기의 주도권을 잡고 유리한 결과를 만들어낼 것으로 예상됩니다."
+homeRecent: '[{"date":"26.10.23","home":"Al Talaba","away":"알쿠와 알자위야","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6028592-2026-10-23-al-talaba/"},{"date":"26.10.18","home":"알쿠와 알자위야","away":"Al-Karma","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6028581-2026-10-18-al-quwa-al-jawiya/"},{"date":"26.10.13","home":"알쿠와 알자위야","away":"알아인","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6050077-2026-10-13-al-quwa-al-jawiya/"},{"date":"26.10.08","home":"Al-Mosul","away":"알쿠와 알자위야","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6028571-2026-10-08-al-mosul/"},{"date":"26.09.20","home":"알쿠와 알자위야","away":"Diyala","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6028562-2026-09-20-al-quwa-al-jawiya/"}]'
+awayRecent: '[{"date":"26.10.23","home":"파흐타코르 FK","away":"FC 네프치 페르가나","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5200680-2026-10-23-pakhtakor-tashkent/"},{"date":"26.10.17","home":"Navbahor Namangan","away":"파흐타코르 FK","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5200672-2026-10-17-navbahor-namangan/"},{"date":"26.10.12","home":"파흐타코르 FK","away":"알카디시야","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6050072-2026-10-12-pakhtakor-tashkent/"},{"date":"26.10.09","home":"파흐타코르 FK","away":"Bunyodkor Tashkent","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5200663-2026-10-09-pakhtakor-tashkent/"},{"date":"26.09.19","home":"Mashal Muborak","away":"파흐타코르 FK","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5200653-2026-09-19-mashal-muborak/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "파흐타코르 FK"
+pickWinResult: "승"
+pickHandicapTeam: "파흐타코르 FK"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

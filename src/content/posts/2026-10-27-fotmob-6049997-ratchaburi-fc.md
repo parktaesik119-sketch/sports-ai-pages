@@ -1,0 +1,37 @@
+---
+title: "랏차부리 FC vs 가시와 레이솔 축구분석·승부예측 (10월 27일) - 픽천국"
+date: 2026-10-27T13:15:00.000Z
+description: "랏차부리 FC vs 가시와 레이솔 축구분석: 랏차부리 FC은 홈에서 적극적인 공세를 바탕으로 반전을 노리고 있으나 최근 경기들에서 수비 집중력이 흔들리는 모습을 보였습니다… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6049997-2026-10-27-ratchaburi-fc"
+category: "soccer"
+country: "국제"
+league: "AFC 챔피언스리그"
+homeTeam: "랏차부리 FC"
+awayTeam: "가시와 레이솔"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/421346.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8699.png"
+homeAnalysis: "랏차부리 FC은 앞선 10경기에서 4승 2무 4패로 승률 40%를 기록했고 최근 치른 일정 속에서 승리와 패배를 번갈아 하며 다소 기복 있는 흐름을 보이고 있습니다. 공격 전개 과정에서는 준수한 화력을 뿜어내고 있으나 수비진의 집중력이 아쉽게 흔들리는 경향이 나타나고 있습니다. 수코타이를 상대로 대승을 거두는 등 폭발력을 보여준 적도 있지만 촌부리 FC전처럼 접전 끝에 아쉽게 무너지는 모습도 공존합니다. 홈 경기장에서는 더욱 적극적인 공세로 상대를 압박하는 경향이 짙습니다. 이번 일정에서도 공격적인 태세를 유지하며 흐름을 가져오려 할 것으로 예상됩니다."
+awayAnalysis: "가시와 레이솔은 앞선 28경기에서 16승 3무 9패로 승률 57%를 기록했고 탄탄한 경기력을 바탕으로 상위권의 저력을 유감없이 발휘하고 있습니다. 최근 치른 공식 경기들에서 꾸준히 다득점을 터뜨리는 등 매우 매서운 공격력을 자랑하고 있습니다. 가시마 앤틀러스 원정에서도 승리를 거두는 등 원정 환경에서도 위축되지 않고 주도권을 쥐는 능력이 탁월합니다. 수비 안정을 바탕으로 빠른 역습을 전개하는 패턴이 상당히 위협적입니다. 전체적인 전력 지표와 최근의 상승세를 고려할 때 이번 경기 역시 자신감 있게 임할 것으로 보입니다."
+homePower: "최근 10경기 평균 득점 2.1점으로 공격 자체는 활발함|수코타이전 6득점 등 폭발력 있으나 수비 집중력은 아쉬움|홈 경기에서 적극적인 공세 펼치는 성향이 뚜렷함|승패가 교차하는 흐름 속에서 다소 기복 있는 경기력 보임|상대 수비 허점을 파고드는 정교한 마무리가 핵심 과제임"
+awayPower: "최근 28경기 승률 57%로 꾸준한 우상향 곡선 유지함|최근 10경기 평균 3.0점 기록하며 절정의 화력 뽐내는 중|원정 경기에서도 주도권 잡고 승리 챙기는 운영 능력이 돋보임|가시마 앤틀러스 등 강단 있는 상대를 상대로도 승리 거둠|탄탄한 공수 밸런스를 바탕으로 안정적인 경기 운영 가능함"
+h2h: '[]'
+summary: "랏차부리 FC은 홈에서 적극적인 공세를 바탕으로 반전을 노리고 있으나 최근 경기들에서 수비 집중력이 흔들리는 모습을 보였습니다. 반면 가시와 레이솔은 최근 10경기 평균 3.0점에 달하는 막강한 화력과 높은 승률을 바탕으로 전체적인 전력에서 확실한 우위를 점하고 있습니다. 양 팀의 최근 흐름과 득점력을 비교해 보았을 때 화력 싸움에서 앞서는 가시와 레이솔이 경기의 주도권을 잡고 우세한 경기를 펼칠 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.24","home":"랏차부리 FC","away":"Chonburi FC","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000017760-2026-10-24-ratchaburi-fc/"},{"date":"26.10.21","home":"랏차부리 FC","away":"Pattani FC","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000022338-2026-10-21-ratchaburi-fc/"},{"date":"26.10.18","home":"Chiangrai United","away":"랏차부리 FC","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000017755-2026-10-18-chiangrai-united/"},{"date":"26.10.13","home":"교토 상가","away":"랏차부리 FC","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6049987-2026-10-13-kyoto-sanga-fc/"},{"date":"26.10.09","home":"랏차부리 FC","away":"Sukhothai FC","score":"6-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000017743-2026-10-09-ratchaburi-fc/"}]'
+awayRecent: '[{"date":"26.10.24","home":"가시마 앤틀러스","away":"가시와 레이솔","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5803631-2026-10-24-kashima-antlers/"},{"date":"26.10.21","home":"FC 도쿄","away":"가시와 레이솔","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5803619-2026-10-21-fc-tokyo/"},{"date":"26.10.17","home":"가시와 레이솔","away":"나고야 그램퍼스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5803611-2026-10-17-kashiwa-reysol/"},{"date":"26.10.14","home":"가시와 레이솔","away":"Port FC","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6049984-2026-10-14-kashiwa-reysol/"},{"date":"26.10.09","home":"가시와 레이솔","away":"비셀 고베","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5803603-2026-10-09-kashiwa-reysol/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "가시와 레이솔"
+pickWinResult: "승"
+pickHandicapTeam: "가시와 레이솔"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---
