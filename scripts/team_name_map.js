@@ -1266,6 +1266,8 @@ const TEAM_NAME_MAP = {
   "Valladolid": "바야돌리드",
   "Zaragoza": "사라고사",
   "Atletico Pinatarense": "아틀레티코 피나타렌세",
+  "Recreativo Huelva": "레크레아티보 우엘바",
+  "Sestao": "세스타오 리베르",
 
   // 세리에A (브라질) 추가
   "Athletico Paranaense": "아틀레치쿠 파라나엔시",
