@@ -1265,6 +1265,7 @@ const TEAM_NAME_MAP = {
   "Real Valladolid": "바야돌리드",
   "Valladolid": "바야돌리드",
   "Zaragoza": "사라고사",
+  "Atletico Pinatarense": "아틀레티코 피나타렌세",
 
   // 세리에A (브라질) 추가
   "Athletico Paranaense": "아틀레치쿠 파라나엔시",
@@ -1337,6 +1338,8 @@ const TEAM_NAME_MAP = {
   "Cucuta": "쿠쿠타",
   "Fortaleza FC": "포르탈레자 FC",
   "Leones FC": "레오네스 FC",
+  "Alianza FC": "알리안사 FC",
+  "CD Marathón": "CD 마라톤",
 
   // 프리미어십 (스코틀랜드)
   "Aberdeen": "애버딘",
@@ -1391,6 +1394,7 @@ const TEAM_NAME_MAP = {
   "West Brom": "웨스트 브롬위치 알비온",
   "West Bromwich Albion": "웨스트 브롬위치 알비온",
   "Wrexham": "렉섬",
+  "Fleetwood Town": "플리트우드 타운 FC",
 
   // 리그원 (잉글랜드 3부)
   "Blackpool": "블랙풀",
