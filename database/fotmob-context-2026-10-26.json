@@ -5,77 +5,16 @@
     "date": "2026-10-24T16:30:00.000Z",
     "league": "Premier League",
     "injuries": {
-      "home": [
-        {
-          "name": "João Pedro",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Emiliano Martínez",
-          "status": "부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Pep Chavarría",
-          "status": "충돌 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Reece James",
-          "status": "무릎 부상",
-          "detail": "Mid January 2027"
-        },
-        {
-          "name": "Emanuel Emegha",
-          "status": "햄스트링 부상",
-          "detail": "About a week"
-        },
-        {
-          "name": "Jamie Gittens",
-          "status": "발목 부상",
-          "detail": "About a week"
-        }
-      ],
+      "home": [],
       "away": [
-        {
-          "name": "Tosin Adarabioyo",
-          "status": "부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Destiny Udogie",
-          "status": "부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Lucas Bergvall",
-          "status": "부상",
-          "detail": "About a week"
-        },
         {
           "name": "Rodrigo Bentancur",
           "status": "부상",
           "detail": "Late October 2026"
         },
         {
-          "name": "Xavi Simons",
-          "status": "십자 인대 부상",
-          "detail": "Early February 2027"
-        },
-        {
           "name": "Mykhaylo Mudryk",
           "status": "발목 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Sávio",
-          "status": "근육 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Wilson Odobert",
-          "status": "십자 인대 부상",
           "detail": "Early November 2026"
         }
       ]
@@ -1425,7 +1364,7 @@
         "Chema Andrés (MF)|https://images.fotmob.com/image_resources/playerimages/1586552.png",
         "Diego Gómez (FW)|https://images.fotmob.com/image_resources/playerimages/1354561.png",
         "Yasin Ayari (MF)|https://images.fotmob.com/image_resources/playerimages/1168311.png",
-        "Maxim De Cuyper (DF)|https://images.fotmob.com/image_resources/playerimages/1134871.png",
+        "Maxim De Cuyper (FW)|https://images.fotmob.com/image_resources/playerimages/1134871.png",
         "Charalampos Kostoulas (FW)|https://images.fotmob.com/image_resources/playerimages/1561249.png"
       ]
     },
@@ -2886,47 +2825,11 @@
     "date": "2026-10-24T19:00:00.000Z",
     "league": "LaLiga",
     "injuries": {
-      "home": [
-        {
-          "name": "Cristian Romero",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Johnny Cardoso",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Koke",
-          "status": "허벅지 부상",
-          "detail": "Back in training"
-        }
-      ],
+      "home": [],
       "away": [
-        {
-          "name": "Bright Ede",
-          "status": "햄스트링 부상",
-          "detail": "Early November 2026"
-        },
         {
           "name": "Marc Casadó",
           "status": "근육 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Noé",
-          "status": "근육 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Pierre-Emerick Aubameyang",
-          "status": "연골 파열",
-          "detail": "Late November 2026"
-        },
-        {
-          "name": "Zakaria Eddahchouri",
-          "status": "부상",
           "detail": "Early November 2026"
         }
       ]
@@ -4114,38 +4017,12 @@
     "injuries": {
       "home": [
         {
-          "name": "Jalen Neal",
-          "status": "충돌 부상",
-          "detail": "A few weeks"
-        },
-        {
-          "name": "Prince Osei Owusu",
-          "status": "충돌 부상",
-          "detail": "Early November 2026"
-        },
-        {
           "name": "Thomas Gillier",
           "status": "충돌 부상",
           "detail": "Mid November 2026"
-        },
-        {
-          "name": "Brayan Ceballos",
-          "status": "충돌 부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Bode Hidalgo",
-          "status": "충돌 부상",
-          "detail": "Late October 2026"
         }
       ],
-      "away": [
-        {
-          "name": "Famara Camara",
-          "status": "충돌 부상",
-          "detail": "Early November 2026"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -5917,35 +5794,8 @@
     "date": "2026-10-24T23:30:00.000Z",
     "league": "Major League Soccer",
     "injuries": {
-      "home": [
-        {
-          "name": "Cavan Sullivan",
-          "status": "발목 부상",
-          "detail": "Late November 2026"
-        },
-        {
-          "name": "Jesús Bueno",
-          "status": "햄스트링 부상",
-          "detail": "Late November 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Alhassan Yusuf",
-          "status": "햄스트링 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Jack Harrison",
-          "status": "근육 부상",
-          "detail": "Late October 2026"
-        },
-        {
-          "name": "Leonardo Campana",
-          "status": "근육 부상",
-          "detail": "Late October 2026"
-        }
-      ]
+      "home": [],
+      "away": []
     },
     "h2h": [
       {
@@ -7759,40 +7609,8 @@
     "date": "2026-10-25T01:30:00.000Z",
     "league": "Major League Soccer",
     "injuries": {
-      "home": [
-        {
-          "name": "Justin Reynolds",
-          "status": "근육 부상",
-          "detail": "Mid November 2026"
-        },
-        {
-          "name": "Lasse Berg Johnsen",
-          "status": "햄스트링 부상",
-          "detail": "Mid November 2026"
-        },
-        {
-          "name": "Moisés Mosquera",
-          "status": "햄스트링 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Or Blorian",
-          "status": "부상",
-          "detail": "Late October 2026"
-        }
-      ],
-      "away": [
-        {
-          "name": "Jon Bell",
-          "status": "부상",
-          "detail": "Early November 2026"
-        },
-        {
-          "name": "Žan Kolmanič",
-          "status": "햄스트링 부상",
-          "detail": "Late November 2026"
-        }
-      ]
+      "home": [],
+      "away": []
     },
     "h2h": [
       {
@@ -9902,7 +9720,7 @@
         "Mario Mitaj (DF)|https://images.fotmob.com/image_resources/playerimages/1184458.png",
         "Junior Messias (MF)|https://images.fotmob.com/image_resources/playerimages/1003368.png",
         "Milutin Osmajić (FW)|https://images.fotmob.com/image_resources/playerimages/936603.png",
-        "Stephan El Shaarawy (MF)|https://images.fotmob.com/image_resources/playerimages/161328.png"
+        "Stephan El Shaarawy (FW)|https://images.fotmob.com/image_resources/playerimages/161328.png"
       ],
       "away": [
         "Filip Stanković (GK)|https://images.fotmob.com/image_resources/playerimages/1130600.png",
@@ -10984,7 +10802,7 @@
         "Pelle Clement (MF)|https://images.fotmob.com/image_resources/playerimages/637741.png",
         "Jorg Schreuders (FW)|https://images.fotmob.com/image_resources/playerimages/1419385.png",
         "Thom van Bergen (FW)|https://images.fotmob.com/image_resources/playerimages/1412105.png",
-        "David van der Werff (MF)|https://images.fotmob.com/image_resources/playerimages/1695991.png",
+        "David van der Werff (FW)|https://images.fotmob.com/image_resources/playerimages/1695991.png",
         "Brynjólfur Willumsson (FW)|https://images.fotmob.com/image_resources/playerimages/937032.png"
       ]
     },
@@ -16065,9 +15883,9 @@
         "Jonathan Tah (DF)|https://images.fotmob.com/image_resources/playerimages/469700.png",
         "Nathaniel Brown (DF)|https://images.fotmob.com/image_resources/playerimages/1395447.png",
         "Konrad Laimer (DF)|https://images.fotmob.com/image_resources/playerimages/526827.png",
-        "Tom Bischof (DF)|https://images.fotmob.com/image_resources/playerimages/1286183.png",
+        "Tom Bischof (MF)|https://images.fotmob.com/image_resources/playerimages/1286183.png",
         "Michael Olise (FW)|https://images.fotmob.com/image_resources/playerimages/1029063.png",
-        "Lennart Karl (FW)|https://images.fotmob.com/image_resources/playerimages/1737700.png",
+        "Lennart Karl (MF)|https://images.fotmob.com/image_resources/playerimages/1737700.png",
         "Serge Gnabry (MF)|https://images.fotmob.com/image_resources/playerimages/385437.png",
         "Harry Kane (FW)|https://images.fotmob.com/image_resources/playerimages/194165.png"
       ]
@@ -17818,7 +17636,7 @@
         "Kévin Danois (MF)|https://images.fotmob.com/image_resources/playerimages/1305543.png",
         "Fredrik Oppegård (MF)|https://images.fotmob.com/image_resources/playerimages/1203189.png",
         "Romain Faivre (FW)|https://images.fotmob.com/image_resources/playerimages/904021.png",
-        "Danny Namaso (FW)|https://images.fotmob.com/image_resources/playerimages/817724.png",
+        "Danny Namaso (MF)|https://images.fotmob.com/image_resources/playerimages/817724.png",
         "Cameron Archer (FW)|https://images.fotmob.com/image_resources/playerimages/1086647.png"
       ],
       "away": [
@@ -17829,7 +17647,7 @@
         "Lucas Buadés (MF)|https://images.fotmob.com/image_resources/playerimages/874319.png",
         "Lucas Bretelle (MF)|https://images.fotmob.com/image_resources/playerimages/1523312.png",
         "Alexandre Lauray (MF)|https://images.fotmob.com/image_resources/playerimages/1039807.png",
-        "Lucas Calodat (FW)|https://images.fotmob.com/image_resources/playerimages/1317318.png",
+        "Lucas Calodat (MF)|https://images.fotmob.com/image_resources/playerimages/1317318.png",
         "Antoine Rabillard (FW)|https://images.fotmob.com/image_resources/playerimages/717270.png",
         "Louis Mafouta (FW)|https://images.fotmob.com/image_resources/playerimages/807955.png",
         "Habibou Mouhamadou Diallo (FW)|https://images.fotmob.com/image_resources/playerimages/601145.png"
@@ -19156,7 +18974,7 @@
         "Pierre Kalulu (DF)|https://images.fotmob.com/image_resources/playerimages/1131217.png",
         "Weston McKennie (MF)|https://images.fotmob.com/image_resources/playerimages/848266.png",
         "Douglas Luiz (MF)|https://images.fotmob.com/image_resources/playerimages/787350.png",
-        "Teun Koopmeiners (DF)|https://images.fotmob.com/image_resources/playerimages/866516.png",
+        "Teun Koopmeiners (MF)|https://images.fotmob.com/image_resources/playerimages/866516.png",
         "Andrea Cambiaso (MF)|https://images.fotmob.com/image_resources/playerimages/1078846.png",
         "Nick Woltemade (FW)|https://images.fotmob.com/image_resources/playerimages/1106563.png",
         "Randal Kolo Muani (FW)|https://images.fotmob.com/image_resources/playerimages/823825.png"
@@ -27911,7 +27729,7 @@
         "Viktor Bergh (DF)|https://images.fotmob.com/image_resources/playerimages/932268.png",
         "Marvin Wanitzek (MF)|https://images.fotmob.com/image_resources/playerimages/458998.png",
         "Shio Fukuda (FW)|https://images.fotmob.com/image_resources/playerimages/1477956.png",
-        "Noel Eichinger (FW)|https://images.fotmob.com/image_resources/playerimages/1385841.png"
+        "Noel Eichinger (MF)|https://images.fotmob.com/image_resources/playerimages/1385841.png"
       ]
     },
     "formation": {

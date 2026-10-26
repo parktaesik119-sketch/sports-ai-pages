@@ -1031330,7 +1031330,7 @@
     "id": "fotmob-1000022177",
     "sport": "soccer",
     "country": "International",
-    "league": "Copa Libertadores Femenina - Quarter-finals",
+    "league": "Copa Libertadores Femenina",
     "date": "2026-10-24T20:00:00.000Z",
     "home": "Palmeiras",
     "away": "Santa Fe",
@@ -1031395,7 +1031395,7 @@
     "id": "fotmob-1000022404",
     "sport": "soccer",
     "country": "Brazil",
-    "league": "Série C - Final",
+    "league": "Série C",
     "date": "2026-10-24T20:00:00.000Z",
     "home": "Ferroviária",
     "away": "Maringá",
@@ -1032726,7 +1032726,7 @@
     "id": "fotmob-1000022176",
     "sport": "soccer",
     "country": "International",
-    "league": "Copa Libertadores Femenina - Quarter-finals",
+    "league": "Copa Libertadores Femenina",
     "date": "2026-10-25T01:00:00.000Z",
     "home": "Corinthians",
     "away": "Independiente del Valle",
@@ -1037494,6 +1037494,19 @@
     "awayScore": 3
   },
   {
+    "id": "fotmob-5998343",
+    "sport": "soccer",
+    "country": "Tanzania",
+    "league": "Premier League",
+    "date": "2026-10-25T16:00:00.000Z",
+    "home": "Geita Gold FC",
+    "away": "Fountain Gate FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1056184.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1396530.png",
+    "homeScore": 1,
+    "awayScore": 1
+  },
+  {
     "id": "fotmob-1000016502",
     "sport": "soccer",
     "country": "Scotland",
@@ -1038599,7 +1038612,7 @@
     "id": "fotmob-1000022179",
     "sport": "soccer",
     "country": "International",
-    "league": "Copa Libertadores Femenina - Quarter-finals",
+    "league": "Copa Libertadores Femenina",
     "date": "2026-10-25T20:00:00.000Z",
     "home": "Deportivo Cali",
     "away": "Olimpia",
@@ -1039043,8 +1039056,8 @@
     "away": "New York Islanders",
     "homeLogo": "https://highlightly.net/hockey/images/teams/580315.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/588825.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 3
   },
   {
     "id": "naver-nba-2026102517",
@@ -1039186,8 +1039199,8 @@
     "away": "Montreal Canadiens",
     "homeLogo": "https://highlightly.net/hockey/images/teams/599888.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/586272.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "naver-nba-2026102516",
@@ -1039212,8 +1039225,8 @@
     "away": "Orlando Magic",
     "homeLogo": "https://sports-phinf.pstatic.net/team/nba/default/NY.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/nba/default/ORL.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 102,
+    "awayScore": 111
   },
   {
     "id": "naver-nba-2026102525",
@@ -1039329,8 +1039342,8 @@
     "away": "Detroit Pistons",
     "homeLogo": "https://sports-phinf.pstatic.net/team/nba/default/PHI.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/nba/default/DET.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 93,
+    "awayScore": 106
   },
   {
     "id": "fotmob-5833813",
@@ -1039342,21 +1039355,21 @@
     "away": "Municipal Pérez Zeledón",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6335.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49730.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000022178",
     "sport": "soccer",
     "country": "International",
-    "league": "Copa Libertadores Femenina - Quarter-finals",
+    "league": "Copa Libertadores Femenina",
     "date": "2026-10-26T00:00:00.000Z",
     "home": "Cruzeiro",
     "away": "Libertad",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2251486.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1812476.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-378508564",
@@ -1039368,8 +1039381,8 @@
     "away": "Colorado Avalanche",
     "homeLogo": "https://highlightly.net/hockey/images/teams/587123.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/578613.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5977397",
@@ -1039381,8 +1039394,8 @@
     "away": "Monterrey (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980703.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000019591",
@@ -1039394,8 +1039407,8 @@
     "away": "Vélez Sarsfield",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/213596.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10079.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 5
   },
   {
     "id": "fotmob-1000019601",
@@ -1039407,8 +1039420,8 @@
     "away": "Estudiantes de Río Cuarto",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/213534.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/213591.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000022494",
@@ -1039420,8 +1039433,8 @@
     "away": "Los Angeles FC II",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1451870.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1451871.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5071455",
@@ -1039433,8 +1039446,8 @@
     "away": "LA Galaxy",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6637.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000014623",
@@ -1039446,8 +1039459,8 @@
     "away": "Cruz Azul",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1943.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6578.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "naver-nba-2026102523",
@@ -1039459,8 +1039472,8 @@
     "away": "Memphis Grizzlies",
     "homeLogo": "https://sports-phinf.pstatic.net/team/nba/default/SAC.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/nba/default/MEM.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 112,
+    "awayScore": 123
   },
   {
     "id": "fotmob-1000014622",
@@ -1039472,8 +1039485,8 @@
     "away": "Pachuca",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7848.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000014199",
@@ -1039485,8 +1039498,8 @@
     "away": "Deportivo Pasto",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1894.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4405.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000022495",
@@ -1039498,8 +1039511,8 @@
     "away": "Ventura County FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/614322.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/521005.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378509415",
@@ -1039511,8 +1039524,8 @@
     "away": "Minnesota Wild",
     "homeLogo": "https://highlightly.net/hockey/images/teams/597335.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/585421.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 4
   },
   {
     "id": "fotmob-1000014624",
@@ -1039524,8 +1039537,8 @@
     "away": "Santos Laguna",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/162418.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7857.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "naver-kbo-55551026HTSS02026",
@@ -1044063,7 +1044076,7 @@
     "id": "fotmob-1000022181",
     "sport": "soccer",
     "country": "International",
-    "league": "Copa Libertadores Femenina - Semi-finals",
+    "league": "Copa Libertadores Femenina",
     "date": "2026-10-28T00:00:00.000Z",
     "home": "Corinthians",
     "away": "Santa Fe",
@@ -1044095,6 +1044108,19 @@
     "away": "Sacramento Kings",
     "homeLogo": "https://sports-phinf.pstatic.net/team/nba/default/SA.png",
     "awayLogo": "https://sports-phinf.pstatic.net/team/nba/default/SAC.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000022180",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Copa Libertadores Femenina",
+    "date": "2026-10-28T00:00:00.000Z",
+    "home": "Cruzeiro",
+    "away": "Olimpia",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2251486.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1812473.png",
     "homeScore": null,
     "awayScore": null
   },
