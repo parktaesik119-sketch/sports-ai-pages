@@ -1,0 +1,37 @@
+---
+title: "삼성 라이온스 vs KIA 타이거즈 야구분석·승부예측 (10월 27일) - 픽천국"
+date: 2026-10-27T09:30:00.000Z
+description: "삼성 라이온스 vs KIA 타이거즈 야구분석: 양 팀은 올 시즌 비슷한 승률을 기록하며 팽팽한 순위 싸움을 이어왔으나 최근 보여주는 경기력의 결은 사뭇 다릅니다. 홈팀 삼성… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-naver-kbo-55551027HTSS02026-2026-10-27-samsung-lions"
+category: "baseball"
+country: "대한민국"
+league: "KBO"
+homeTeam: "삼성 라이온스"
+awayTeam: "KIA 타이거즈"
+homeLogo: "https://sports-phinf.pstatic.net/team/kbo/default/SS.png"
+awayLogo: "https://sports-phinf.pstatic.net/team/kbo/default/HT.png"
+homeAnalysis: "삼성 라이온스는 앞선 119경기에서 68승 2무 49패로 승률 57%를 기록했고 최근 공수에서 다소 아쉬운 흐름을 보이고 있습니다. 팀은 최근 10경기에서 4승 6패를 기록하며 페이스가 주춤한 상태입니다. 타선에서는 김지찬과 최형우 등이 중심을 잡고 있으나 전체적인 득점 생산력에 기복이 나타나고 있습니다. 마운드에서는 페덱이 선발로 나서 팀의 허리를 지탱할 예정이지만 최근 수비 집중력 보완이 필요한 시점입니다. 홈 경기에서는 특유의 집중력을 발휘해 반등을 노리고 있습니다."
+awayAnalysis: "KIA 타이거즈는 앞선 121경기에서 69승 2무 50패로 승률 57%를 기록했고 최근 매우 가파른 상승세를 타고 있습니다. 팀은 최근 10경기에서 8승 2패를 거두며 공수 양면에서 완성도 높은 전력을 뽐내고 있습니다. 타선에서는 김도영과 나성범이 강력한 화력을 뿜어내며 득점력을 이끌고 있습니다. 마운드에서는 네일이 선발 출격해 안정적인 투구로 상대 타선을 봉쇄할 것으로 기대됩니다. 원정 경기에서도 흔들림 없는 집중력을 보여주며 연승 행진을 이어가고 있습니다."
+homePower: "최근 10경기 4승 6패로 다소 주춤한 흐름 보임|중심 타선 무게감은 있으나 득점 생산력 기복 뚜렷함|홈 경기 집중력 바탕으로 분위기 반전 노리는 중|페덱 선발 등판해 마운드 안정감 찾기에 주력함|투수진 실점 관리와 수비 집중력 보완이 급선무임"
+awayPower: "최근 10경기 8승 2패로 매우 가파른 상승세 탐|김도영과 나성범 중심의 타선 파괴력 매우 높음|네일 선발 출격으로 초반 주도권 장악에 유리함|원정 경기에서도 흔들림 없는 공수 밸런스 유지함|상대 전적과 최근 맞대결 흐름에서 우위 점하고 있음"
+h2h: '[{"date":"26.10.06","home":"KIA 타이거즈","away":"삼성 라이온스","score":"4-5","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006SSHT02026-2026-10-06-kia-tigers/"},{"date":"26.09.08","home":"삼성 라이온스","away":"KIA 타이거즈","score":"6-4","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260908HTSS02026-2026-09-08-samsung-lions/"},{"date":"26.08.13","home":"KIA 타이거즈","away":"삼성 라이온스","score":"8-9","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260813SSHT02026-2026-08-13-kia-tigers/"},{"date":"26.08.12","home":"KIA 타이거즈","away":"삼성 라이온스","score":"7-2","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260812SSHT02026-2026-08-12-kia-tigers/"},{"date":"26.08.11","home":"KIA 타이거즈","away":"삼성 라이온스","score":"3-1","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20260811SSHT02026-2026-08-11-kia-tigers/"}]'
+summary: "양 팀은 올 시즌 비슷한 승률을 기록하며 팽팽한 순위 싸움을 이어왔으나 최근 보여주는 경기력의 결은 사뭇 다릅니다. 홈팀 삼성 라이온스는 최근 다소 주춤한 페이스 속에서 타선과 수비의 재정비가 필요한 시점을 지나고 있습니다. 반면 원정팀 KIA 타이거즈는 공수 양면에서 탄탄한 조직력을 바탕으로 상승세를 타고 있으며 전력 면에서 우위를 점할 가능성이 높습니다. 투타 전반의 집중력과 최근 흐름을 고려할 때 원정팀이 경기를 주도하며 우세한 결과를 만들어낼 것으로 예상됩니다."
+homeRecent: '[{"date":"26.10.12","home":"삼성 라이온스","away":"KT 위즈","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261012KTSS02026-2026-10-12-samsung-lions/"},{"date":"26.10.11","home":"삼성 라이온스","away":"KT 위즈","score":"3-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261011KTSS02026-2026-10-11-samsung-lions/"},{"date":"26.10.09","home":"SSG 랜더스","away":"삼성 라이온스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261009SSSK02026-2026-10-09-ssg-landers/"},{"date":"26.10.07","home":"KT 위즈","away":"삼성 라이온스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007SSKT02026-2026-10-07-kt-wiz-suwon/"},{"date":"26.10.06","home":"KIA 타이거즈","away":"삼성 라이온스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261006SSHT02026-2026-10-06-kia-tigers/"}]'
+awayRecent: '[{"date":"26.10.20","home":"LG 트윈스","away":"KIA 타이거즈","score":"1-13","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-33331020HTLG02026-2026-10-20-lg-twins/"},{"date":"26.10.18","home":"KIA 타이거즈","away":"LG 트윈스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-33331018LGHT02026-2026-10-18-kia-tigers/"},{"date":"26.10.17","home":"KIA 타이거즈","away":"LG 트윈스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-33331017LGHT02026-2026-10-17-kia-tigers/"},{"date":"26.10.12","home":"KIA 타이거즈","away":"LG 트윈스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261012LGHT02026-2026-10-12-kia-tigers/"},{"date":"26.10.11","home":"KIA 타이거즈","away":"롯데 자이언츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261011LTHT02026-2026-10-11-kia-tigers/"}]'
+injuryHome: "이승현 (치료·재활중)"
+injuryAway: "김기훈 (치료·재활중)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "KIA 타이거즈"
+pickWinResult: "승"
+pickHandicapTeam: "KIA 타이거즈"
+pickHandicapValue: "-1.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "9.5"
+pickOuDirection: "오버"
+---

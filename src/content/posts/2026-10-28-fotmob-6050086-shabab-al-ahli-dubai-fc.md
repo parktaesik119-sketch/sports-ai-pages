@@ -1,0 +1,37 @@
+---
+title: "샤밥 알아흘리 두바이 vs 에스테글랄 축구분석·승부예측 (10월 28일) - 픽천국"
+date: 2026-10-27T16:00:00.000Z
+description: "샤밥 알아흘리 두바이 vs 에스테글랄 축구분석: 샤밥 알아흘리 두바이는 최근 공격진의 날카로운 감각과 홈 이점을 바탕으로 경기를 주도할 가능성이 높습니다. 에스테글لال은 탄… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6050086-2026-10-28-shabab-al-ahli-dubai-fc"
+category: "soccer"
+country: "국제"
+league: "AFC 챔피언스리그"
+homeTeam: "샤밥 알아흘리 두바이"
+awayTeam: "에스테글랄"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/102119.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/101614.png"
+homeAnalysis: "샤밥 알아흘리 두바이는 앞선 19경기에서 9승 6무 4패로 승률 47%를 기록했고 안정적인 공수 밸런스를 바탕으로 꾸준한 경기력을 보여주고 있습니다. 최근 치른 일정들을 살펴보면 홈과 원정을 가리지 않고 꾸준하게 골을 터뜨리며 상승세를 타고 있는 모습입니다. 특히 직전 경기인 알 아인전에서 3대2 승리를 거두는 등 화력 싸움에서 우위를 점하는 경향이 짙습니다. 공격진의 유기적인 움직임이 돋보이며 홈 경기에서는 더욱 과감한 전개로 상대를 압박하고 있습니다. 전력 전반에 걸쳐 탄탄한 조직력을 유지하고 있어 이번 경기에서도 좋은 흐름을 이어갈 것으로 기대됩니다."
+awayAnalysis: "에스테글لال은 앞선 12경기에서 7승 5무 0패로 승률 58%를 기록했고 무패 행진을 달리며 매우 단단한 전력을 뽐내고 있습니다. 최근의 흐름을 보면 수비 집중력이 극도로 높아져 쉽게 실점하지 않는 경기 운영을 보여주고 있습니다. 원정 경기에서도 쉽게 흔들리지 않는 단단함을 유지하며 상대의 공세를 효과적으로 차단하고 있습니다. 다만 간헐적인 무승부가 다소 많다는 점은 아쉬울 수 있으나 패배가 없다는 사실 자체로 큰 안정감을 줍니다. 공수 간격이 좁아 상대에게 공간을 쉽게 내주지 않는 짜임새 있는 전력이 강점으로 꼽힙니다."
+homePower: "최근 홈 경기 다득점 행진, 공격 집중력 우수함|안정적인 득점력을 바탕으로 한 홈 운영 능력 돋보임|공수 전환 속도가 빨라 상대 수비 흔들기에 유리함|후반전 집중력 유지가 뛰어나 역전승 경험 다수 있음|홈 이점을 살린 주도권 장악 능력이 검증됨"
+awayPower: "앞선 일정에서 무패를 기록하며 견고한 수비력 입증됨|원정 경기에서도 쉽게 무너지지 않는 위기 관리 능력 보유함|실점을 최소화하는 실리적인 경기 운영이 돋보임|접전 상황에서 무승부로 경기를 마무리하는 끈질김 있음|조직적인 수비 블록 형성이 잘 되어 있어 안정감 높음"
+h2h: '[{"date":"17.04.26","home":"에스테글랄","away":"샤밥 알아흘리 두바이","score":"1-1"},{"date":"17.02.21","home":"샤밥 알아흘리 두바이","away":"에스테글랄","score":"2-1"}]'
+summary: "샤밥 알아흘리 두바이는 최근 공격진의 날카로운 감각과 홈 이점을 바탕으로 경기를 주도할 가능성이 높습니다. 에스테글لال은 탄탄한 수비력을 앞세워 무패 행진을 달리고 있으나 샤밥 알아흘리 두바이의 안방 화력을 완전히 잠재우기엔 다소 버거울 수 있습니다. 전력의 안정성과 최근 득점 흐름을 종합해 볼 때 샤밥 알아흘리 두바이가 우위를 점할 것으로 보입니다."
+homeRecent: '[{"date":"26.10.23","home":"샤밥 알아흘리 두바이","away":"알아인","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6428995-2026-10-23-shabab-al-ahli-dubai-fc/"},{"date":"26.10.18","home":"샤밥 알아흘리 두바이","away":"알아인","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021964-2026-10-18-shabab-al-ahli-dubai-fc/"},{"date":"26.10.14","home":"알이티하드","away":"샤밥 알아흘리 두바이","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050079-2026-10-14-al-ittihad/"},{"date":"26.10.08","home":"샤밥 알아흘리 두바이","away":"United FC","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021969-2026-10-08-shabab-al-ahli-dubai-fc/"},{"date":"26.10.03","home":"샤밥 알아흘리 두바이","away":"알나스르","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000020535-2026-10-03-shabab-al-ahli-dubai-fc/"}]'
+awayRecent: '[{"date":"26.10.23","home":"Chadormalu Ardakan SC","away":"에스테글랄","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021994-2026-10-23-chadormalu-ardakan-sc/"},{"date":"26.10.19","home":"에스테글랄","away":"Gol Gohar","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021987-2026-10-19-esteghlal/"},{"date":"26.10.13","home":"알가라파","away":"에스테글랄","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050075-2026-10-13-al-gharafa/"},{"date":"26.10.08","home":"트락토르","away":"에스테글랄","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021977-2026-10-08-tractor/"},{"date":"26.09.15","home":"에스테글랄","away":"알사드","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050065-2026-09-15-esteghlal/"}]'
+injuryHome: "Yuri César (충돌 부상)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샤밥 알아흘리 두바이"
+pickWinResult: "승"
+pickHandicapTeam: "샤밥 알아흘리 두바이"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

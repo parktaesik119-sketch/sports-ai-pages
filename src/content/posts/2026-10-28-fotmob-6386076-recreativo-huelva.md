@@ -1,0 +1,37 @@
+---
+title: "Recreativo Huelva vs 라요 바예카노 축구분석·승부예측 (10월 28일) - 픽천국"
+date: 2026-10-27T20:00:00.000Z
+description: "Recreativo Huelva vs 라요 바예카노 축구분석: Recreativo Huelva은 최근 홈경기에서 뛰어난 득점력을 보여주며 상승세를 타고 있고 전반적인 경기 운영에서 안정감을… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6386076-2026-10-28-recreativo-huelva"
+category: "soccer"
+country: "스페인"
+league: "Copa del Rey"
+homeTeam: "Recreativo Huelva"
+awayTeam: "라요 바예카노"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8479.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png"
+homeAnalysis: "Recreativo Huelva은 앞선 16경기에서 9승 3무 4패로 승률 56%를 기록했고 안정적인 공수 밸런스를 바탕으로 좋은 흐름을 이어가고 있습니다. 최근 치른 10경기에서도 6승 2무 2패를 거두며 홈 전력이 상당히 단단하다는 것을 증명했습니다. 특히 직전 경기에서는 CA Antoniano를 상대로 5득점을 몰아치며 막강한 화력을 뽐냈습니다. 홈경기에서 꾸준히 다득점을 기록하는 등 공격진의 마무리가 매우 날카롭습니다. 이번 경기에서도 홈 이점을 살려 주도권을 잡고 경기를 풀어갈 것으로 기대됩니다."
+awayAnalysis: "라요 바예카노는 앞선 21경기에서 8승 5무 8패로 승률 38%를 기록했고 다소 기복 있는 경기력을 보여주고 있습니다. 최근 10경기 성적은 2승 4무 4패로 승수를 쌓는 데 어려움을 겪고 있습니다. 최근 원정 경기에서는 수비 집중력이 흔들리며 대량 실점을 허용하는 모습도 나타났습니다. 이번 원정 길에서는 주전 선수들의 부상 공백까지 겹쳐 전력 누수가 우려되는 상황입니다. 원정 약세를 극복하기 위해서는 수비 안정감이 최우선 과제로 보입니다."
+homePower: "최근 홈 10경기 중 다수 승리, 안방 운영 능력 우수함|직전 경기 5득점 대승 포함 공격진 화력 최고조에 달함|전체 16경기 승률 56% 기록, 꾸준한 승점 관리 능력 검증됨|공수 밸런스가 안정적으로 잡혀 있어 경기 운영이 유연함|홈 이점을 극대화하는 강력한 압박과 득점력을 보유함"
+awayPower: "최근 원정 일정에서 수비 집중력 저하로 아쉬움을 남김|주전 공백 발생으로 인해 전술적 유연성이 다소 떨어진 상태임|최근 10경기 승률이 저조하여 흐름 반전이 절실한 상황임|원정 경기 중 실점 빈도가 높아 수비 보완이 시급해 보임|공격 전개 과정에서 세밀함이 부족해 결정력에 기복을 보임"
+h2h: '[{"date":"11.03.20","home":"Recreativo Huelva","away":"라요 바예카노","score":"1-1"},{"date":"10.10.23","home":"라요 바예카노","away":"Recreativo Huelva","score":"0-0"}]'
+summary: "Recreativo Huelva은 최근 홈경기에서 뛰어난 득점력을 보여주며 상승세를 타고 있고 전반적인 경기 운영에서 안정감을 유지하고 있습니다. 반면 라요 바예카노는 최근 원정에서 주전들의 부상 공백과 수비 불안으로 인해 고전하는 양상을 보이고 있습니다. 양 팀의 최근 흐름과 전력 완성도를 종합해 볼 때 홈팀이 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.25","home":"Recreativo Huelva","away":"CA Antoniano","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5885266-2026-10-25-recreativo-huelva/"},{"date":"26.10.18","home":"Linares Deportivo","away":"Recreativo Huelva","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5885255-2026-10-18-linares-deportivo/"},{"date":"26.10.12","home":"Atletico Sanluqueño CF","away":"Recreativo Huelva","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5885291-2026-10-12-atletico-sanluqueo-cf/"},{"date":"26.10.04","home":"Recreativo Huelva","away":"Las Palmas B","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5885278-2026-10-04-recreativo-huelva/"},{"date":"26.09.28","home":"Recreativo Huelva","away":"Xerez","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5885219-2026-09-28-recreativo-huelva/"}]'
+awayRecent: '[{"date":"26.10.24","home":"라요 바예카노","away":"엘체","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868107-2026-10-24-rayo-vallecano/"},{"date":"26.10.20","home":"헤타페","away":"라요 바예카노","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868095-2026-10-20-getafe/"},{"date":"26.10.10","home":"라요 바예카노","away":"아틀레틱 클럽","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868088-2026-10-10-rayo-vallecano/"},{"date":"26.09.19","home":"오사수나","away":"라요 바예카노","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868077-2026-09-19-osasuna/"},{"date":"26.09.16","home":"라요 바예카노","away":"에스파뇰","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868069-2026-09-16-rayo-vallecano/"}]'
+injuryHome: "없음"
+injuryAway: "Sergio Camello (근육 부상 - Doubtful)|Dani Cárdenas (병 - A few days)|Randy Nteka (등 부상 - Early November 2026)|Luiz Felipe (십자 인대 부상 - Out for season)|Andrei Rațiu (근육 부상 - Early November 2026)|Augusto Batalla (부상 - Early January 2027)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "Recreativo Huelva"
+pickWinResult: "승"
+pickHandicapTeam: "Recreativo Huelva"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

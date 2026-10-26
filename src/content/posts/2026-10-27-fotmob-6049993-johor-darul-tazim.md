@@ -1,6 +1,6 @@
 ---
 title: "조호르 FC vs Port FC 축구분석·승부예측 (10월 27일) - 픽천국"
-date: 2026-10-27T11:00:00.000Z
+date: 2026-10-27T10:00:00.000Z
 description: "조호르 FC vs Port FC 축구분석: 이번 경기는 전반적인 지표와 최근 흐름에서 우위를 점하고 있는 조호르 FC이 유리한 고지를 선점할 가능성이 높습니다. 조호르 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-fotmob-6049993-2026-10-27-johor-darul-tazim"
 category: "soccer"
