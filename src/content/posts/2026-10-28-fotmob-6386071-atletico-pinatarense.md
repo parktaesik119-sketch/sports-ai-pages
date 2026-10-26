@@ -19,7 +19,7 @@ summary: "이번 경기는 전력상 객관적인 지표에서 앞서 있는 원
 homeRecent: '[]'
 awayRecent: '[{"date":"26.10.24","home":"라요 바예카노","away":"엘체","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868107-2026-10-24-rayo-vallecano/"},{"date":"26.10.17","home":"비야레알","away":"엘체","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868100-2026-10-17-villarreal/"},{"date":"26.10.11","home":"엘체","away":"셀타 비고","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868083-2026-10-11-elche/"},{"date":"26.09.19","home":"에스파뇰","away":"엘체","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868075-2026-09-19-espanyol/"},{"date":"26.09.16","home":"엘체","away":"레알 마드리드","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868065-2026-09-16-elche/"}]'
 injuryHome: "없음"
-injuryAway: "Fer Niño (근육 부상)|Marc Aguado (부상)"
+injuryAway: "Fer Niño[주요](근육 부상 - 복귀예정 Doubtful) | Marc Aguado[주요](부상 - 복귀예정 Mid November 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
