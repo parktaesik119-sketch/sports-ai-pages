@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.23","home":"샤밥 알아흘리 두바이","away":"
 awayRecent: '[{"date":"26.10.23","home":"Chadormalu Ardakan SC","away":"에스테글랄","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021994-2026-10-23-chadormalu-ardakan-sc/"},{"date":"26.10.19","home":"에스테글랄","away":"Gol Gohar","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021987-2026-10-19-esteghlal/"},{"date":"26.10.13","home":"알가라파","away":"에스테글랄","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050075-2026-10-13-al-gharafa/"},{"date":"26.10.08","home":"트락토르","away":"에스테글랄","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021977-2026-10-08-tractor/"},{"date":"26.09.15","home":"에스테글랄","away":"알사드","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050065-2026-09-15-esteghlal/"}]'
 injuryHome: "Yuri César[주요](충돌 부상 - 복귀예정 Doubtful)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Matheus Donelli (GK)|https://images.fotmob.com/image_resources/playerimages/1173549.png\",\"Mateus Henrique (DF)|https://images.fotmob.com/image_resources/playerimages/1458813.png\",\"Igor Gomes (DF)|https://images.fotmob.com/image_resources/playerimages/1279037.png\",\"Wout Faes (DF)|https://images.fotmob.com/image_resources/playerimages/693678.png\",\"Kauan Santos (DF)|https://images.fotmob.com/image_resources/playerimages/1560056.png\",\"Nemanja Maksimović (MF)|https://images.fotmob.com/image_resources/playerimages/495962.png\",\"Breno Cascardo (MF)|https://images.fotmob.com/image_resources/playerimages/1476485.png\",\"Jahnoah Markelo (FW)|https://images.fotmob.com/image_resources/playerimages/1334842.png\",\"Saeid Ezatolahi (MF)|https://images.fotmob.com/image_resources/playerimages/505281.png\",\"Mohammed Al Mansouri (FW)|https://images.fotmob.com/image_resources/playerimages/2420100.png\",\"Sardar Azmoun (FW)|https://images.fotmob.com/image_resources/playerimages/441309.png\"]"
+awayLineup: "[\"Habib Far Abbasi (GK)|https://images.fotmob.com/image_resources/playerimages/900740.png\",\"Saman Fallah (DF)|https://images.fotmob.com/image_resources/playerimages/1228981.png\",\"Aref Aghasi (MF)|https://images.fotmob.com/image_resources/playerimages/848316.png\",\"Rustamjon Ashurmatov (DF)|https://images.fotmob.com/image_resources/playerimages/643624.png\",\"Saleh Hardani (DF)|https://images.fotmob.com/image_resources/playerimages/1221526.png\",\"Roozbeh Cheshmi (MF)|https://images.fotmob.com/image_resources/playerimages/505385.png\",\"Amirmohammad Razzaghinia (MF)|https://images.fotmob.com/image_resources/playerimages/1583232.png\",\"Hossein Goudarzi (DF)|https://images.fotmob.com/image_resources/playerimages/1448721.png\",\"Jasir Asani (FW)|https://images.fotmob.com/image_resources/playerimages/637760.png\",\"Saeid Saharkhizan (FW)|https://images.fotmob.com/image_resources/playerimages/1480706.png\",\"Esmaeil Gholizadeh (FW)|https://images.fotmob.com/image_resources/playerimages/1580560.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "3-4-3"
+homeCoach: "André Jardine|https://images.fotmob.com/image_resources/playerimages/1271663.png"
+awayCoach: "Sohrab Bakhtiarizadeh|https://images.fotmob.com/image_resources/playerimages/31112.png"
 pickWinTeam: "샤밥 알아흘리 두바이"
 pickWinResult: "승"
 pickHandicapTeam: "샤밥 알아흘리 두바이"
