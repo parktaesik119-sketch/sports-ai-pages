@@ -19,7 +19,7 @@ summary: "발렌시아는 앞선 41경기에서 20승 5무 16패를 거두며 �
 homeRecent: '[]'
 awayRecent: '[{"date":"26.10.25","home":"발렌시아","away":"비야레알","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868110-2026-10-25-valencia/"},{"date":"26.10.18","home":"발렌시아","away":"아틀레틱 클럽","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868099-2026-10-18-valencia/"},{"date":"26.10.12","home":"레이싱 산탄데르","away":"발렌시아","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868087-2026-10-12-racing-santander/"},{"date":"26.09.21","home":"발렌시아","away":"레알 소시에다드","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868079-2026-09-21-valencia/"},{"date":"26.09.16","home":"알라베스","away":"발렌시아","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868061-2026-09-16-deportivo-alavs/"}]'
 injuryHome: "없음"
-injuryAway: "David Otorbi (햄스트링 부상)|Dimitri Foulquier (무릎 부상)|Umar Sadiq (햄스트링 부상)|Diego López (십자 인대 부상)|Sergi Canós (십자 인대 부상)|José Copete (연골 파열)"
+injuryAway: "David Otorbi[주요](햄스트링 부상 - 복귀예정 Late November 2026) | Dimitri Foulquier[주요](무릎 부상 - 복귀예정 Back in training) | Umar Sadiq[주요](햄스트링 부상 - 복귀예정 Back in training) | Diego López[주요](십자 인대 부상 - 복귀예정 Mid February 2027) | Sergi Canós[주요](십자 인대 부상 - 복귀예정 Early November 2026) | José Copete[주요](연골 파열 - 복귀예정 Back in training)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

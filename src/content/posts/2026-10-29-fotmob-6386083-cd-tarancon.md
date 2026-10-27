@@ -19,7 +19,7 @@ summary: "이번 경기는 객관적인 전력과 데이터에서 우위에 있�
 homeRecent: '[]'
 awayRecent: '[{"date":"26.10.26","home":"레알 소시에다드","away":"레반테","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868108-2026-10-26-real-sociedad/"},{"date":"26.10.22","home":"레반테","away":"아틀레틱 클럽","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868067-2026-10-22-levante/"},{"date":"26.10.17","home":"데포르티보 라코루냐","away":"레반테","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868093-2026-10-17-deportivo-a-corua/"},{"date":"26.10.13","home":"레반테","away":"세비야","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868085-2026-10-13-levante/"},{"date":"26.09.21","home":"비야레알","away":"레반테","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868080-2026-09-21-villarreal/"}]'
 injuryHome: "없음"
-injuryAway: "Roger Brugué (근육 부상)|Adrián De La Fuente (부상)|Enzo Bardeli (햄스트링 부상)"
+injuryAway: "Roger Brugué[주요](근육 부상 - 복귀예정 Early November 2026) | Adrián De La Fuente[주요](부상 - 복귀예정 Doubtful) | Enzo Bardeli[주요](햄스트링 부상 - 복귀예정 Early November 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
