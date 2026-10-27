@@ -25,7 +25,7 @@ awayLineup: '["Joakim Milli (GK)|https://images.fotmob.com/image_resources/playe
 homeFormation: "4-2-3-1"
 awayFormation: "4-2-3-1"
 homeCoach: "Vanni Sartini|https://images.fotmob.com/image_resources/playerimages/1292515.png"
-awayCoach: "Kyt Selaidopoulos"
+awayCoach: "Kyt Selaidopoulos|https://images.fotmob.com/image_resources/playerimages/2418333.png"
 pickWinTeam: "수프라 두 퀘벡"
 pickWinResult: "승"
 pickHandicapTeam: "수프라 두 퀘벡"
