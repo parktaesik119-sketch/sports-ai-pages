@@ -1040963,8 +1040963,8 @@
     "away": "Universitario de Vinto",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5983.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/879029.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "naver-nba-2026102615",
@@ -1041015,8 +1041015,8 @@
     "away": "Deportivo Riestra",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10090.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/298629.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "naver-nba-2026102610",
@@ -1041041,8 +1041041,8 @@
     "away": "Toronto Maple Leafs",
     "homeLogo": "https://highlightly.net/hockey/images/teams/575209.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/596484.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5954363",
@@ -1041054,8 +1041054,8 @@
     "away": "Union Cocle",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1603136.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1888923.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "naver-nba-2026102626",
@@ -1041080,8 +1041080,8 @@
     "away": "Bucaramanga",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7818.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4401.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5977399",
@@ -1041093,8 +1041093,8 @@
     "away": "Club León (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980709.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980705.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5954369",
@@ -1041119,8 +1041119,8 @@
     "away": "Detroit Red Wings",
     "homeLogo": "https://highlightly.net/hockey/images/teams/582017.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/581166.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "naver-nba-2026102607",
@@ -1044316,6 +1044316,19 @@
     "away": "Cerezo Osaka Sakai",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/588613.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/652102.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6284436",
+    "sport": "soccer",
+    "country": "Ukraine",
+    "league": "Cup",
+    "date": "2026-10-28T09:00:00.000Z",
+    "home": "Mayak Sarny",
+    "away": "FC Kharkiv",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2260430.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/949030.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -1048084,6 +1048097,19 @@
     "away": "Independiente Medellín",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/47240.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2528.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000022847",
+    "sport": "soccer",
+    "country": "Colombia",
+    "league": "Primera B",
+    "date": "2026-10-29T01:05:00.000Z",
+    "home": "Deportes Quindío",
+    "away": "Real Cundinamarca",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4407.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193026.png",
     "homeScore": null,
     "awayScore": null
   },
