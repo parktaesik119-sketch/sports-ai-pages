@@ -1912,24 +1912,24 @@
     },
     "standings": {
       "home": {
-        "rank": "15",
+        "rank": "16",
         "wins": "3",
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "11",
-        "pointsFor": "24",
-        "pointsAgainst": "42"
+        "gamesBehind": "12",
+        "pointsFor": "27",
+        "pointsAgainst": "46"
       },
       "away": {
-        "rank": "16",
-        "wins": "4",
+        "rank": "15",
+        "wins": "5",
         "losses": "5",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "12",
-        "pointsFor": "22",
-        "pointsAgainst": "30"
+        "pointsFor": "26",
+        "pointsAgainst": "33"
       }
     },
     "h2h": null
@@ -2000,22 +2000,22 @@
     },
     "standings": {
       "home": {
-        "rank": "1",
+        "rank": "3",
         "wins": "8",
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "-",
+        "gamesBehind": "2",
         "pointsFor": "52",
         "pointsAgainst": "43"
       },
       "away": {
-        "rank": "10",
+        "rank": "12",
         "wins": "5",
         "losses": "4",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
+        "gamesBehind": "9",
         "pointsFor": "33",
         "pointsAgainst": "37"
       }
@@ -2073,22 +2073,22 @@
     },
     "standings": {
       "home": {
-        "rank": "12",
+        "rank": "13",
         "wins": "5",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
+        "gamesBehind": "10",
         "pointsFor": "28",
         "pointsAgainst": "41"
       },
       "away": {
-        "rank": "4",
+        "rank": "7",
         "wins": "7",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "52",
         "pointsAgainst": "46"
       }
@@ -2151,24 +2151,24 @@
     },
     "standings": {
       "home": {
-        "rank": "11",
+        "rank": "13",
         "wins": "6",
         "losses": "4",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
+        "gamesBehind": "10",
         "pointsFor": "34",
         "pointsAgainst": "32"
       },
       "away": {
-        "rank": "15",
+        "rank": "16",
         "wins": "3",
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "11",
-        "pointsFor": "24",
-        "pointsAgainst": "42"
+        "gamesBehind": "12",
+        "pointsFor": "27",
+        "pointsAgainst": "46"
       }
     },
     "h2h": null
@@ -2206,14 +2206,14 @@
       ],
       "away": [
         {
+          "name": "Justin Danforth",
+          "status": "Out",
+          "detail": ""
+        },
+        {
           "name": "Jiri Kulich",
           "status": "Out",
           "detail": "Not Specified"
-        },
-        {
-          "name": "Justin Danforth",
-          "status": "Day-To-Day",
-          "detail": ""
         },
         {
           "name": "Sam Carrick",
@@ -2234,23 +2234,23 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
+        "rank": "9",
         "wins": "6",
-        "losses": "5",
+        "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
+        "gamesBehind": "7",
         "pointsFor": "37",
-        "pointsAgainst": "43"
+        "pointsAgainst": "45"
       },
       "away": {
-        "rank": "13",
-        "wins": "4",
+        "rank": "11",
+        "wins": "5",
         "losses": "4",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "9",
-        "pointsFor": "31",
+        "pointsFor": "33",
         "pointsAgainst": "41"
       }
     },
@@ -2279,6 +2279,11 @@
       ],
       "away": [
         {
+          "name": "Warren Foegele",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Thomas Chabot",
           "status": "Out",
           "detail": ""
@@ -2297,24 +2302,24 @@
     },
     "standings": {
       "home": {
-        "rank": "3",
-        "wins": "8",
+        "rank": "2",
+        "wins": "9",
         "losses": "4",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "1",
-        "pointsFor": "47",
-        "pointsAgainst": "38"
+        "pointsFor": "51",
+        "pointsAgainst": "39"
       },
       "away": {
-        "rank": "3",
+        "rank": "5",
         "wins": "8",
-        "losses": "4",
+        "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "38",
-        "pointsAgainst": "34"
+        "gamesBehind": "6",
+        "pointsFor": "39",
+        "pointsAgainst": "38"
       }
     },
     "h2h": null
@@ -2370,24 +2375,24 @@
     },
     "standings": {
       "home": {
-        "rank": "13",
+        "rank": "11",
         "wins": "5",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
-        "pointsFor": "32",
-        "pointsAgainst": "37"
+        "gamesBehind": "9",
+        "pointsFor": "37",
+        "pointsAgainst": "43"
       },
       "away": {
         "rank": "16",
-        "wins": "2",
+        "wins": "3",
         "losses": "10",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "13",
-        "pointsFor": "37",
-        "pointsAgainst": "60"
+        "pointsFor": "43",
+        "pointsAgainst": "65"
       }
     },
     "h2h": null
@@ -2420,6 +2425,11 @@
       ],
       "away": [
         {
+          "name": "Jared Spurgeon",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Filip Gustavsson",
           "status": "Injured Reserve",
           "detail": "Surgery"
@@ -2445,22 +2455,22 @@
       "home": {
         "rank": "4",
         "wins": "8",
-        "losses": "4",
+        "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "46",
-        "pointsAgainst": "40"
+        "gamesBehind": "4",
+        "pointsFor": "47",
+        "pointsAgainst": "43"
       },
       "away": {
-        "rank": "2",
-        "wins": "8",
+        "rank": "1",
+        "wins": "9",
         "losses": "3",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "41",
-        "pointsAgainst": "30"
+        "pointsFor": "44",
+        "pointsAgainst": "31"
       }
     },
     "h2h": null
@@ -2512,23 +2522,23 @@
     "standings": {
       "home": {
         "rank": "15",
-        "wins": "3",
+        "wins": "4",
         "losses": "8",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "12",
-        "pointsFor": "24",
-        "pointsAgainst": "43"
+        "pointsFor": "26",
+        "pointsAgainst": "44"
       },
       "away": {
         "rank": "14",
         "wins": "3",
-        "losses": "5",
+        "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "10",
-        "pointsFor": "27",
-        "pointsAgainst": "35"
+        "gamesBehind": "12",
+        "pointsFor": "28",
+        "pointsAgainst": "37"
       }
     },
     "h2h": null
@@ -2543,6 +2553,11 @@
     "gameId": "401892590",
     "injuries": {
       "home": [
+        {
+          "name": "Kyle Capobianco",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "Esa Lindell",
           "status": "Injured Reserve",
@@ -2562,11 +2577,6 @@
           "name": "Oskar Back",
           "status": "Injured Reserve",
           "detail": "Fracture"
-        },
-        {
-          "name": "Matt Duchene",
-          "status": "Injured Reserve",
-          "detail": ""
         }
       ],
       "away": [
@@ -2579,24 +2589,24 @@
     },
     "standings": {
       "home": {
-        "rank": "5",
-        "wins": "7",
-        "losses": "3",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "32",
-        "pointsAgainst": "20"
-      },
-      "away": {
-        "rank": "7",
+        "rank": "6",
         "wins": "7",
         "losses": "4",
         "ties": null,
         "winPercent": null,
+        "gamesBehind": "5",
+        "pointsFor": "33",
+        "pointsAgainst": "25"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "8",
+        "losses": "4",
+        "ties": null,
+        "winPercent": null,
         "gamesBehind": "6",
-        "pointsFor": "36",
-        "pointsAgainst": "32"
+        "pointsFor": "41",
+        "pointsAgainst": "33"
       }
     },
     "h2h": null
@@ -2636,24 +2646,24 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "8",
         "wins": "4",
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "31",
-        "pointsAgainst": "35"
+        "gamesBehind": "7",
+        "pointsFor": "34",
+        "pointsAgainst": "39"
       },
       "away": {
-        "rank": "12",
-        "wins": "5",
+        "rank": "10",
+        "wins": "6",
         "losses": "4",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "8",
-        "pointsFor": "32",
-        "pointsAgainst": "29"
+        "pointsFor": "36",
+        "pointsAgainst": "32"
       }
     },
     "h2h": null
@@ -2689,23 +2699,23 @@
     "standings": {
       "home": {
         "rank": "1",
-        "wins": "9",
+        "wins": "10",
         "losses": "2",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "51",
-        "pointsAgainst": "33"
+        "pointsFor": "53",
+        "pointsAgainst": "34"
       },
       "away": {
         "rank": "2",
         "wins": "9",
-        "losses": "2",
+        "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "48",
-        "pointsAgainst": "26"
+        "gamesBehind": "3",
+        "pointsFor": "49",
+        "pointsAgainst": "28"
       }
     },
     "h2h": null
@@ -2766,24 +2776,24 @@
     },
     "standings": {
       "home": {
-        "rank": "11",
+        "rank": "12",
         "wins": "4",
-        "losses": "4",
+        "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
-        "pointsFor": "27",
-        "pointsAgainst": "31"
+        "gamesBehind": "9",
+        "pointsFor": "28",
+        "pointsAgainst": "36"
       },
       "away": {
-        "rank": "9",
-        "wins": "6",
+        "rank": "6",
+        "wins": "7",
         "losses": "4",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "6",
-        "pointsFor": "34",
-        "pointsAgainst": "36"
+        "pointsFor": "39",
+        "pointsAgainst": "37"
       }
     },
     "h2h": null
@@ -2856,21 +2866,21 @@
       "home": {
         "rank": "10",
         "wins": "5",
-        "losses": "5",
+        "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
+        "gamesBehind": "9",
         "pointsFor": "35",
-        "pointsAgainst": "35"
+        "pointsAgainst": "37"
       },
       "away": {
-        "rank": "8",
-        "wins": "6",
+        "rank": "4",
+        "wins": "7",
         "losses": "3",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "6",
-        "pointsFor": "36",
+        "pointsFor": "38",
         "pointsAgainst": "36"
       }
     },
@@ -2922,24 +2932,24 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "12",
         "wins": "5",
         "losses": "4",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
+        "gamesBehind": "9",
         "pointsFor": "33",
         "pointsAgainst": "37"
       },
       "away": {
         "rank": "15",
-        "wins": "3",
+        "wins": "4",
         "losses": "8",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "12",
-        "pointsFor": "24",
-        "pointsAgainst": "43"
+        "pointsFor": "26",
+        "pointsAgainst": "44"
       }
     },
     "h2h": null
@@ -2995,24 +3005,24 @@
     },
     "standings": {
       "home": {
-        "rank": "5",
+        "rank": "8",
         "wins": "7",
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
+        "gamesBehind": "7",
         "pointsFor": "38",
         "pointsAgainst": "34"
       },
       "away": {
-        "rank": "11",
+        "rank": "12",
         "wins": "4",
-        "losses": "4",
+        "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
-        "pointsFor": "27",
-        "pointsAgainst": "31"
+        "gamesBehind": "9",
+        "pointsFor": "28",
+        "pointsAgainst": "36"
       }
     },
     "h2h": null
@@ -3078,19 +3088,19 @@
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "9",
+        "gamesBehind": "11",
         "pointsFor": "40",
         "pointsAgainst": "40"
       },
       "away": {
         "rank": "4",
         "wins": "8",
-        "losses": "4",
+        "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "2",
-        "pointsFor": "46",
-        "pointsAgainst": "40"
+        "gamesBehind": "4",
+        "pointsFor": "47",
+        "pointsAgainst": "43"
       }
     },
     "h2h": {
@@ -3140,23 +3150,23 @@
     "standings": {
       "home": {
         "rank": "1",
-        "wins": "9",
+        "wins": "10",
         "losses": "2",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "51",
-        "pointsAgainst": "33"
+        "pointsFor": "53",
+        "pointsAgainst": "34"
       },
       "away": {
-        "rank": "16",
-        "wins": "4",
+        "rank": "15",
+        "wins": "5",
         "losses": "5",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "12",
-        "pointsFor": "22",
-        "pointsAgainst": "30"
+        "pointsFor": "26",
+        "pointsAgainst": "33"
       }
     },
     "h2h": null
@@ -3222,22 +3232,22 @@
     },
     "standings": {
       "home": {
-        "rank": "6",
+        "rank": "5",
         "wins": "7",
         "losses": "4",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "3",
+        "gamesBehind": "5",
         "pointsFor": "45",
         "pointsAgainst": "42"
       },
       "away": {
-        "rank": "4",
+        "rank": "7",
         "wins": "7",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "52",
         "pointsAgainst": "46"
       }
@@ -3275,19 +3285,19 @@
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
+        "gamesBehind": "7",
         "pointsFor": "49",
         "pointsAgainst": "40"
       },
       "away": {
-        "rank": "7",
-        "wins": "7",
+        "rank": "3",
+        "wins": "8",
         "losses": "4",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "6",
-        "pointsFor": "36",
-        "pointsAgainst": "32"
+        "pointsFor": "41",
+        "pointsAgainst": "33"
       }
     },
     "h2h": {
@@ -3357,22 +3367,22 @@
     },
     "standings": {
       "home": {
-        "rank": "1",
+        "rank": "3",
         "wins": "8",
         "losses": "2",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "-",
+        "gamesBehind": "2",
         "pointsFor": "52",
         "pointsAgainst": "43"
       },
       "away": {
-        "rank": "12",
+        "rank": "13",
         "wins": "5",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
+        "gamesBehind": "10",
         "pointsFor": "28",
         "pointsAgainst": "41"
       }
