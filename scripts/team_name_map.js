@@ -1268,6 +1268,7 @@ const TEAM_NAME_MAP = {
   "Atletico Pinatarense": "아틀레티코 피나타렌세",
   "Recreativo Huelva": "레크레아티보 우엘바",
   "Sestao": "세스타오 리베르",
+  "Sporting Hortaleza": "AD 스포르팅 오르탈레자",
 
   // 세리에A (브라질) 추가
   "Athletico Paranaense": "아틀레치쿠 파라나엔시",
