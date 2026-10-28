@@ -1,6 +1,6 @@
 ---
 title: "CD Tarancon vs 레반테 축구분석·승부예측 (10월 29일) - 픽천국"
-date: 2026-10-28T19:00:00.000Z
+date: 2026-10-28T18:00:00.000Z
 description: "CD Tarancon vs 레반테 축구분석: 이번 경기는 객관적인 전력과 데이터에서 우위에 있는 레반테가 주도권을 잡고 경기를 풀어갈 가능성이 높습니다. 레반테는 최근 경… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-fotmob-6386083-2026-10-29-cd-tarancon"
 category: "soccer"

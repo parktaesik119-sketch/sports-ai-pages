@@ -1,0 +1,37 @@
+---
+title: "Ribadesella CF vs 레이싱 산탄데르 축구분석·승부예측 (10월 30일) - 픽천국"
+date: 2026-10-29T20:00:00.000Z
+description: "Ribadesella CF vs 레이싱 산탄데르 축구분석: 레이싱 산탄데르는 앞선 경기들에서 꾸준한 득점력을 증명하며 전체적인 경기 운영에서 우위를 점하고 있습니다. 반면 Ribades… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6386078-2026-10-30-ribadesella-cf"
+category: "soccer"
+country: "스페인"
+league: "Copa del Rey"
+homeTeam: "Ribadesella CF"
+awayTeam: "레이싱 산탄데르"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/189591.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8696.png"
+homeAnalysis: "Ribadesella CF는 앞선 경기 기록이 별도로 집계되지 않아 전력 데이터가 제한적인 상태입니다. 팀의 구체적인 수치나 최근 성적이 확인되지 않지만 차분하게 경기를 준비해 왔습니다. 공식 경기 데이터가 부족한 만큼 상대의 움직임에 맞춘 유연한 대응이 중요할 것으로 보입니다. 홈에서 열리는 이번 일정에서 안정적인 수비 정렬을 바탕으로 실점을 최소화하는 데 집중할 전망입니다. 철저한 준비를 통해 전력 열세를 극복하고 분위기를 가져오려 노력할 것입니다."
+awayAnalysis: "레이싱 산탄데르는 앞선 22경기에서 8승 6무 8패로 승률 36%를 기록했고 이를 바탕으로 꾸준한 경기 운영을 이어가고 있습니다. 최근 치른 일정들 속에서 승패를 반복하며 기복 있는 흐름을 보이고 있으나 공격 전개에서는 일정한 파괴력을 보여주고 있습니다. 평균 득점 1.5점을 기록 중인 최근 10경기 흐름을 살펴보면 꾸준히 골문을 두드리는 모습이 돋보입니다. 원정 경기라는 부담감이 존재하지만 객관적인 지표에서 앞서 있는 만큼 경기의 주도권을 잡으려 할 것입니다. 전력의 우위를 바탕으로 빈틈없는 공수 균형을 맞추는 데 주력할 것으로 예상됩니다."
+homePower: "홈 경기 이점을 안고 있으나 객관적 전력 데이터는 부족함|수비 안정을 최우선으로 하여 상대 공세를 막아내는 데 집중함|데이터가 제한적인 상태에서 조직력으로 변수를 극복해야 함|철저한 사전 준비로 이변을 노리는 전략적 접근이 필요함|홈 관중의 응원을 업고 초반 기선 제압을 시도할 가능성 높음"
+awayPower: "최근 22경기에서 8승을 챙기며 안정적인 경기력을 유지함|평균 1.5점의 득점력을 바탕으로 꾸준히 상대를 압박하는 성향임|원정 일정이지만 주도권을 잡고 공격적으로 나설 가능성이 큼|중원 싸움에서 우위를 점하며 전체적인 경기 흐름을 지배하려 함|다양한 공격 루트를 활용해 상대 수비의 허를 찌를 능력을 갖춤"
+h2h: '[]'
+summary: "레이싱 산탄데르는 앞선 경기들에서 꾸준한 득점력을 증명하며 전체적인 경기 운영에서 우위를 점하고 있습니다. 반면 Ribadesella CF는 데이터가 제한적이어서 수비적인 안정감을 바탕으로 버티기에 집중할 가능성이 큽니다. 전력의 무게중심이 원정팀 쪽으로 기울어 있는 만큼 레이싱 산탄데르가 경기를 주도하며 유리한 흐름을 만들어갈 것으로 보입니다."
+homeRecent: '[]'
+awayRecent: '[{"date":"26.10.24","home":"레이싱 산탄데르","away":"에스파뇰","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868106-2026-10-24-racing-santander/"},{"date":"26.10.18","home":"오사수나","away":"레이싱 산탄데르","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868097-2026-10-18-osasuna/"},{"date":"26.10.12","home":"레이싱 산탄데르","away":"발렌시아","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868087-2026-10-12-racing-santander/"},{"date":"26.09.20","home":"셀타 비고","away":"레이싱 산탄데르","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868073-2026-09-20-celta-vigo/"},{"date":"26.09.17","home":"바르셀로나","away":"레이싱 산탄데르","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868066-2026-09-17-barcelona/"}]'
+injuryHome: "없음"
+injuryAway: "Matteo Prati (근육 부상)|Simon Eriksson (어깨 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "레이싱 산탄데르"
+pickWinResult: "승"
+pickHandicapTeam: "레이싱 산탄데르"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---
