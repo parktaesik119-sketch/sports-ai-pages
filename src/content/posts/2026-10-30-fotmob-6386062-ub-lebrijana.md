@@ -19,7 +19,7 @@ summary: "이번 경기는 전력상 우위에 있는 헤타페가 원정 부담
 homeRecent: '[]'
 awayRecent: '[{"date":"26.10.25","home":"아틀레틱 클럽","away":"헤타페","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868102-2026-10-25-athletic-club/"},{"date":"26.10.23","home":"헤타페","away":"FC 루가노","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6112475-2026-10-23-getafe/"},{"date":"26.10.20","home":"헤타페","away":"라요 바예카노","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868095-2026-10-20-getafe/"},{"date":"26.10.16","home":"Univ 크라이오바","away":"헤타페","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6112505-2026-10-16-universitatea-craiova/"},{"date":"26.10.11","home":"바르셀로나","away":"헤타페","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868084-2026-10-11-barcelona/"}]'
 injuryHome: "없음"
-injuryAway: "Orel Mangala[주요](근육 부상 - 복귀예정 Early November 2026) | Zaid Abner Romero[주요](근육 부상 - 복귀예정 Back in training) | Christantus Uche[주요](십자 인대 부상 - 복귀예정 Out for season) | Juanmi[주요](무릎 부상 - 복귀예정 Unknown)"
+injuryAway: "Orel Mangala[주요](근육 부상 - 복귀예정 Doubtful) | Zaid Abner Romero[주요](근육 부상 - 복귀예정 Back in training) | Christantus Uche[주요](십자 인대 부상 - 복귀예정 Out for season) | Juanmi[주요](무릎 부상 - 복귀예정 Unknown)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
