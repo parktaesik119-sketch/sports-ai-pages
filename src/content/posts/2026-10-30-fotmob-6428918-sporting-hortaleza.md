@@ -19,7 +19,7 @@ summary: "세비야는 앞선 22경기에서 10승 3무 9패를 기록하며 탄
 homeRecent: '[]'
 awayRecent: '[{"date":"26.10.27","home":"세비야","away":"오사수나","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868109-2026-10-27-sevilla/"},{"date":"26.10.19","home":"레알 마드리드","away":"세비야","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868098-2026-10-19-real-madrid/"},{"date":"26.10.13","home":"레반테","away":"세비야","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868085-2026-10-13-levante/"},{"date":"26.10.03","home":"세비야","away":"아스톤 빌라","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6369374-2026-10-03-sevilla/"},{"date":"26.09.20","home":"세비야","away":"바르셀로나","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868078-2026-09-20-sevilla/"}]'
 injuryHome: "없음"
-injuryAway: "Miguel Sierra (부상) | Marcão (근육 부상)"
+injuryAway: "Miguel Sierra[주요](부상 - 복귀예정 Early December 2026) | Marcão[주요](근육 부상 - 복귀예정 Early November 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

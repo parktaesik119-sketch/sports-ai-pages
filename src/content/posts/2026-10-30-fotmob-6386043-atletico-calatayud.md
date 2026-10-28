@@ -19,7 +19,7 @@ summary: "이번 경기는 객관적인 데이터 상으로 전력이 노출되�
 homeRecent: '[]'
 awayRecent: '[{"date":"26.10.27","home":"세비야","away":"오사수나","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868109-2026-10-27-sevilla/"},{"date":"26.10.18","home":"오사수나","away":"레이싱 산탄데르","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868097-2026-10-18-osasuna/"},{"date":"26.10.12","home":"레알 베티스","away":"오사수나","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868082-2026-10-12-real-betis/"},{"date":"26.09.19","home":"오사수나","away":"라요 바예카노","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868077-2026-09-19-osasuna/"},{"date":"26.09.17","home":"아틀레티코 마드리드","away":"오사수나","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868062-2026-09-17-atltico-madrid/"}]'
 injuryHome: "없음"
-injuryAway: "Romain Del Castillo (허벅지 부상) | Aimar Oroz (햄스트링 부상) | Jorge Herrando (근육 부상)"
+injuryAway: "Romain Del Castillo[주요](허벅지 부상 - 복귀예정 Early November 2026) | Aimar Oroz[주요](햄스트링 부상 - 복귀예정 Early November 2026) | Jorge Herrando[주요](근육 부상 - 복귀예정 Doubtful)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

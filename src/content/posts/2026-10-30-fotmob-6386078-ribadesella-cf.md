@@ -19,7 +19,7 @@ summary: "레이싱 산탄데르는 앞선 경기들에서 꾸준한 득점력�
 homeRecent: '[]'
 awayRecent: '[{"date":"26.10.24","home":"레이싱 산탄데르","away":"에스파뇰","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868106-2026-10-24-racing-santander/"},{"date":"26.10.18","home":"오사수나","away":"레이싱 산탄데르","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868097-2026-10-18-osasuna/"},{"date":"26.10.12","home":"레이싱 산탄데르","away":"발렌시아","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868087-2026-10-12-racing-santander/"},{"date":"26.09.20","home":"셀타 비고","away":"레이싱 산탄데르","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868073-2026-09-20-celta-vigo/"},{"date":"26.09.17","home":"바르셀로나","away":"레이싱 산탄데르","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868066-2026-09-17-barcelona/"}]'
 injuryHome: "없음"
-injuryAway: "Matteo Prati (근육 부상)|Simon Eriksson (어깨 부상)"
+injuryAway: "Matteo Prati[주요](근육 부상 - 복귀예정 Doubtful) | Simon Eriksson[주요](어깨 부상 - 복귀예정 Doubtful)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
