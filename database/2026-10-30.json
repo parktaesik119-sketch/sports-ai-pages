@@ -3025,8 +3025,8 @@
     "away": "FC Motagua",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6335.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49785.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6386068",
@@ -3727,8 +3727,8 @@
     "away": "Mineros de Zacatecas",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/452823.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6574.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5861306",
@@ -3753,8 +3753,8 @@
     "away": "San Pedro",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188298.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188292.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5861308",
@@ -3766,8 +3766,8 @@
     "away": "Guastatoya",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9934.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188303.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5998172",
@@ -4286,8 +4286,8 @@
     "away": "Comerciantes Unidos",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4417.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/536945.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000022003",
@@ -4390,8 +4390,8 @@
     "away": "Santa Fe",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7818.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000022843",
@@ -4572,8 +4572,8 @@
     "away": "Athletico Paranaense",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9769.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10273.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000017766",
@@ -7089,7 +7089,7 @@
     "sport": "soccer",
     "country": "Mexico",
     "league": "Liga MX Femenil Apertura",
-    "date": "2026-10-31T03:00:00.000Z",
+    "date": "2026-10-31T03:10:00.000Z",
     "home": "Monterrey (W)",
     "away": "Pumas (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980703.png",
@@ -7198,6 +7198,19 @@
     "away": "Olympique Akbou",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101636.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1660716.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5989867",
+    "sport": "soccer",
+    "country": "Algeria",
+    "league": "Ligue 1",
+    "date": "2026-10-31T14:00:00.000Z",
+    "home": "MC Alger",
+    "away": "USM Khenchela",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6353.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1387869.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -13208,19 +13221,6 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-5989867",
-    "sport": "soccer",
-    "country": "Algeria",
-    "league": "Ligue 1",
-    "date": "2026-10-31T15:00:00.000Z",
-    "home": "MC Alger",
-    "away": "USM Khenchela",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6353.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1387869.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-5989884",
     "sport": "soccer",
     "country": "Algeria",
@@ -15271,6 +15271,19 @@
     "away": "Dungannon Swifts",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7971.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4615.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5114133",
+    "sport": "soccer",
+    "country": "Argentina",
+    "league": "Primera B Metropolitana",
+    "date": "2026-10-31T16:00:00.000Z",
+    "home": "Villa San Carlos",
+    "away": "Real Pilar",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/213526.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1018433.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -18772,71 +18785,6 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-1000007351",
-    "sport": "soccer",
-    "country": "Chile",
-    "league": "Primera B",
-    "date": "2026-10-31T15:30:00.000Z",
-    "home": "Unión San Felipe",
-    "away": "Unión Española",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4061.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7843.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-1000007352",
-    "sport": "soccer",
-    "country": "Chile",
-    "league": "Primera B",
-    "date": "2026-10-31T15:30:00.000Z",
-    "home": "Deportes Santa Cruz",
-    "away": "Rangers",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/584834.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4057.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-1000007348",
-    "sport": "soccer",
-    "country": "Chile",
-    "league": "Primera B",
-    "date": "2026-10-31T18:00:00.000Z",
-    "home": "Magallanes",
-    "away": "Antofagasta",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/246503.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6201.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-1000007350",
-    "sport": "soccer",
-    "country": "Chile",
-    "league": "Primera B",
-    "date": "2026-10-31T20:30:00.000Z",
-    "home": "San Marcos",
-    "away": "San Luis",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/192433.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/191607.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-1000007354",
-    "sport": "soccer",
-    "country": "Chile",
-    "league": "Primera B",
-    "date": "2026-10-31T20:30:00.000Z",
-    "home": "Cobreloa",
-    "away": "Puerto Montt",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1843.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4059.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-1000022365",
     "sport": "soccer",
     "country": "Bolivia",
@@ -19314,8 +19262,8 @@
     "away": "Chicago Blackhawks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/581166.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/577762.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378528137",
@@ -19327,8 +19275,8 @@
     "away": "Winnipeg Jets",
     "homeLogo": "https://highlightly.net/hockey/images/teams/595633.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/599888.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378527286",
@@ -19340,8 +19288,8 @@
     "away": "Utah Mammoth",
     "homeLogo": "https://highlightly.net/hockey/images/teams/593080.png",
     "awayLogo": null,
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378525584",
@@ -19353,8 +19301,8 @@
     "away": "Columbus Blue Jackets",
     "homeLogo": "https://highlightly.net/hockey/images/teams/576060.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/579464.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378524733",
@@ -19496,8 +19444,8 @@
     "away": "Vancouver Canucks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/593931.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/597335.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378533243",
@@ -19509,8 +19457,8 @@
     "away": "Ottawa Senators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/583719.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/590527.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 5
   },
   {
     "id": "highlightly-hockey-378532392",
@@ -19522,8 +19470,8 @@
     "away": "Buffalo Sabres",
     "homeLogo": "https://highlightly.net/hockey/images/teams/570954.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/574358.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 7
   },
   {
     "id": "highlightly-hockey-378531541",
@@ -19535,8 +19483,8 @@
     "away": "Montreal Canadiens",
     "homeLogo": "https://highlightly.net/hockey/images/teams/580315.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/586272.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 5
   },
   {
     "id": "highlightly-hockey-378530690",
@@ -19548,8 +19496,8 @@
     "away": "New York Islanders",
     "homeLogo": "https://highlightly.net/hockey/images/teams/585421.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/588825.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378529839",
@@ -19561,8 +19509,8 @@
     "away": "Washington Capitals",
     "homeLogo": "https://highlightly.net/hockey/images/teams/587123.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/599037.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378528988",
@@ -19574,8 +19522,8 @@
     "away": "Boston Bruins",
     "homeLogo": "https://highlightly.net/hockey/images/teams/594782.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/573507.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-366458404",
