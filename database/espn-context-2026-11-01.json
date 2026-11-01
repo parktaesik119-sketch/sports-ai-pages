@@ -891,7 +891,7 @@
     },
     "standings": {
       "home": {
-        "rank": "4",
+        "rank": "5",
         "wins": "15",
         "losses": "10",
         "ties": "8",
@@ -1467,22 +1467,22 @@
       "home": {
         "rank": "8",
         "wins": "12",
-        "losses": "13",
+        "losses": "14",
         "ties": "7",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "44",
-        "pointsAgainst": "43"
+        "pointsFor": "46",
+        "pointsAgainst": "47"
       },
       "away": {
-        "rank": "5",
-        "wins": "15",
+        "rank": "4",
+        "wins": "16",
         "losses": "10",
         "ties": "7",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "57",
-        "pointsAgainst": "48"
+        "pointsFor": "61",
+        "pointsAgainst": "50"
       }
     },
     "h2h": {
@@ -3406,22 +3406,22 @@
       "home": {
         "rank": "16",
         "wins": "3",
-        "losses": "11",
+        "losses": "12",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "15",
-        "pointsFor": "45",
-        "pointsAgainst": "68"
+        "pointsFor": "47",
+        "pointsAgainst": "72"
       },
       "away": {
-        "rank": "11",
-        "wins": "7",
+        "rank": "8",
+        "wins": "8",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
-        "pointsFor": "56",
-        "pointsAgainst": "51"
+        "gamesBehind": "6",
+        "pointsFor": "60",
+        "pointsAgainst": "53"
       }
     },
     "h2h": null
@@ -3492,29 +3492,29 @@
     },
     "standings": {
       "home": {
-        "rank": "5",
-        "wins": "8",
+        "rank": "3",
+        "wins": "9",
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "43",
-        "pointsAgainst": "38"
+        "gamesBehind": "4",
+        "pointsFor": "48",
+        "pointsAgainst": "42"
       },
       "away": {
         "rank": "14",
         "wins": "5",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "12",
-        "pointsFor": "43",
-        "pointsAgainst": "44"
+        "pointsFor": "47",
+        "pointsAgainst": "49"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "PIT leads series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -3599,7 +3599,7 @@
         "pointsAgainst": "52"
       },
       "away": {
-        "rank": "3",
+        "rank": "4",
         "wins": "9",
         "losses": "5",
         "ties": null,
@@ -3701,7 +3701,7 @@
         "pointsAgainst": "45"
       },
       "away": {
-        "rank": "8",
+        "rank": "9",
         "wins": "7",
         "losses": "4",
         "ties": null,
@@ -3779,7 +3779,7 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "11",
         "wins": "7",
         "losses": "5",
         "ties": null,
@@ -3841,7 +3841,7 @@
         "pointsAgainst": "47"
       },
       "away": {
-        "rank": "4",
+        "rank": "5",
         "wins": "8",
         "losses": "3",
         "ties": null,
@@ -4046,15 +4046,15 @@
       "home": {
         "rank": "11",
         "wins": "6",
-        "losses": "7",
+        "losses": "8",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "10",
-        "pointsFor": "34",
-        "pointsAgainst": "47"
+        "pointsFor": "36",
+        "pointsAgainst": "52"
       },
       "away": {
-        "rank": "5",
+        "rank": "6",
         "wins": "8",
         "losses": "5",
         "ties": null,
@@ -4217,7 +4217,7 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "10",
         "wins": "8",
         "losses": "4",
         "ties": null,
@@ -4382,29 +4382,29 @@
     },
     "standings": {
       "home": {
-        "rank": "6",
-        "wins": "7",
+        "rank": "5",
+        "wins": "8",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
-        "pointsFor": "54",
-        "pointsAgainst": "42"
+        "gamesBehind": "5",
+        "pointsFor": "59",
+        "pointsAgainst": "44"
       },
       "away": {
         "rank": "11",
         "wins": "6",
-        "losses": "7",
+        "losses": "8",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "10",
-        "pointsFor": "34",
-        "pointsAgainst": "47"
+        "pointsFor": "36",
+        "pointsAgainst": "52"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "COL leads series 1-0",
+      "text": "COL leads series 2-0",
       "totalGames": 1,
       "games": [
         {
@@ -4459,23 +4459,23 @@
     "standings": {
       "home": {
         "rank": "7",
-        "wins": "7",
+        "wins": "8",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
-        "pointsFor": "35",
-        "pointsAgainst": "30"
+        "gamesBehind": "5",
+        "pointsFor": "38",
+        "pointsAgainst": "31"
       },
       "away": {
         "rank": "15",
         "wins": "5",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "14",
-        "pointsFor": "28",
-        "pointsAgainst": "36"
+        "pointsFor": "29",
+        "pointsAgainst": "39"
       }
     },
     "h2h": null
@@ -4551,7 +4551,7 @@
         "pointsAgainst": "50"
       },
       "away": {
-        "rank": "3",
+        "rank": "4",
         "wins": "9",
         "losses": "5",
         "ties": null,
