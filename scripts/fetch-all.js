@@ -238,7 +238,6 @@ const NAVER_TEAM_CODE_MAP = {
 };
 const NAVER_COUNTRY_BY_CATEGORY = { kbo: "South Korea", npb: "Japan", mlb: "USA" };
 
-const NAVER_COUNTRY_BY_CATEGORY = { kbo: "South Korea", npb: "Japan", mlb: "USA" };
 
 // ─────────────────────────────────────────────
 // 네이버 API 오류 진단용
