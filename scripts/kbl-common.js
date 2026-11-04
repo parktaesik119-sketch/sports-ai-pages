@@ -17,11 +17,24 @@ const COMMON_HEADERS = {
   'Accept': 'application/json, text/plain, */*',
   'Origin': 'https://www.kbl.or.kr',
   'Referer': 'https://www.kbl.or.kr/',
+  'Channel': 'WEB',
+  'TeamCode': 'XX',
+  'User-Agent': 'Mozilla/5.0',
 };
 
 async function getJson(url) {
-  const res = await fetch(url, { headers: COMMON_HEADERS });
-  if (!res.ok) throw new Error(`요청 실패: HTTP ${res.status} (${url})`);
+  const res = await fetch(url, {
+    method: 'GET',
+    headers: COMMON_HEADERS,
+  });
+
+  if (!res.ok) {
+    const errorBody = await res.text().catch(() => '');
+    throw new Error(
+      `요청 실패: HTTP ${res.status} (${url}) ${errorBody}`
+    );
+  }
+
   return res.json();
 }
 
