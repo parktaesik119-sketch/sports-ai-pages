@@ -4498,24 +4498,11 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-6526894",
-    "sport": "soccer",
-    "country": "Uruguay",
-    "league": "Cup",
-    "date": "2026-11-04T18:00:00.000Z",
-    "home": "CA Lito",
-    "away": "Montevideo Wanderers",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1545868.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7863.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-6526895",
     "sport": "soccer",
     "country": "Uruguay",
     "league": "Cup",
-    "date": "2026-11-04T21:00:00.000Z",
+    "date": "2026-11-04T18:00:00.000Z",
     "home": "CA San Carlos",
     "away": "Boston River",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1671264.png",
@@ -6158,6 +6145,19 @@
     "away": "Antofagasta",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6310.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6201.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6526894",
+    "sport": "soccer",
+    "country": "Uruguay",
+    "league": "Cup",
+    "date": "2026-11-05T19:00:00.000Z",
+    "home": "CA Lito",
+    "away": "Montevideo Wanderers",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1545868.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7863.png",
     "homeScore": null,
     "awayScore": null
   },
