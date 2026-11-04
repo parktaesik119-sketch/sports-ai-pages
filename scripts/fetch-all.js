@@ -238,37 +238,7 @@ const NAVER_TEAM_CODE_MAP = {
 };
 const NAVER_COUNTRY_BY_CATEGORY = { kbo: "South Korea", npb: "Japan", mlb: "USA" };
 
-
-// ─────────────────────────────────────────────
-// 네이버 API 오류 진단용
-// ─────────────────────────────────────────────
-
-async function logNaverHttpFailure(label, res) {
-  const body = await res.text().catch(() => "");
-
-  console.error(
-    `❌ [NAVER HTTP] ${label}`,
-    `status=${res.status}`,
-    `statusText=${res.statusText}`,
-    `url=${res.url}`,
-    `body=${body.slice(0, 500)}`
-  );
-}
-
-function logNaverFetchError(label, err) {
-  console.error(`❌ [NAVER FETCH] ${label}`);
-  console.error("오류 이름:", err?.name || "unknown");
-  console.error("오류 내용:", err?.message || String(err));
-  console.error("원인 코드:", err?.cause?.code || "none");
-  console.error("원인 내용:", err?.cause?.message || "none");
-
-  if (err?.stack) {
-    console.error(err.stack);
-  }
-}
-
 async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
-
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=${upperCategoryId}&fromDate=${fromDate}&toDate=${toDate}&size=500`;
 
   try {
@@ -279,12 +249,6 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
         "Accept": "application/json, text/plain, */*",
       }
     });
-
-    if (!res.ok) {
-  await logNaverHttpFailure(`fetchNaverBaseball(${upperCategoryId})`, res);
-  return [];
-}
-
     const data = await res.json();
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
@@ -314,8 +278,8 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
           awayScore: isFinished ? g.awayTeamScore : null,
         };
       });
-    } catch (err) {
-    logNaverFetchError(`fetchNaverBaseball(${upperCategoryId})`, err);
+  } catch (err) {
+    console.error(`❌ fetchNaverBaseball(${upperCategoryId}) 에러:`, err.message);
     return [];
   }
 }
@@ -354,19 +318,13 @@ async function fetchNaverBasketball(fromDate, toDate) {
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cconference%2CmanualRelayUrl&superCategoryId=basketball&fromDate=${fromDate}&toDate=${toDate}&size=500`;
 
   try {
-        const res = await fetch(url, {
+    const res = await fetch(url, {
       headers: {
         "Referer": "https://m.sports.naver.com/",
         "Origin": "https://m.sports.naver.com",
         "Accept": "application/json, text/plain, */*",
       }
     });
-
-    if (!res.ok) {
-  await logNaverHttpFailure("fetchNaverBasketball", res);
-  return [];
-}
-
     const data = await res.json();
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
@@ -397,8 +355,8 @@ async function fetchNaverBasketball(fromDate, toDate) {
           awayScore: isFinished ? g.awayTeamScore : null,
         };
       });
-    } catch (err) {
-    logNaverFetchError("fetchNaverBasketball", err);
+  } catch (err) {
+    console.error(`❌ fetchNaverBasketball 에러:`, err.message);
     return [];
   }
 }
@@ -426,22 +384,13 @@ async function fetchNaverVolleyball(categoryId, fromDate, toDate) {
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cround%2CgroupName%2CneutralGround%2CmanualRelayUrl&superCategoryId=volleyball&categoryId=${categoryId}&fromDate=${fromDate}&toDate=${toDate}&roundCodes=&size=500`;
 
   try {
-        const res = await fetch(url, {
+    const res = await fetch(url, {
       headers: {
         "Referer": "https://m.sports.naver.com/",
         "Origin": "https://m.sports.naver.com",
         "Accept": "application/json, text/plain, */*",
       }
     });
-
-        if (!res.ok) {
-      await logNaverHttpFailure(
-        `fetchNaverVolleyball(${categoryId})`,
-        res
-      );
-      return [];
-    }
-
     const data = await res.json();
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
@@ -468,8 +417,8 @@ async function fetchNaverVolleyball(categoryId, fromDate, toDate) {
           awayScore: isFinished ? g.awayTeamScore : null,
         };
       });
-    } catch (err) {
-    logNaverFetchError(`fetchNaverVolleyball(${categoryId})`, err);
+  } catch (err) {
+    console.error(`❌ fetchNaverVolleyball(${categoryId}) 에러:`, err.message);
     return [];
   }
 }
@@ -694,53 +643,33 @@ async function main() {
     // ⚾🏒 야구 + 하키 — 다른 종목과 별도로 D-1~D+1 범위만 사용
     // (연전/백투백으로 같은 두 팀이 연속 편성되는 경우가 있어서, 전날 결과가
     //  반영되기 전인 D+2 일정까지 미리 긁어오면 분석 시점에 결과 누락이 생길 수 있음)
-    // ⚾🏒 야구 + 하키 — 다른 종목과 별도로 D-1~D+1 범위만 사용
-// (연전/백투백으로 같은 두 팀이 연속 편성되는 경우가 있어서, 전날 결과가
-//  반영되기 전인 D+2 일정까지 미리 긁어오면 분석 시점에 결과 누락이 생길 수 있음)
-const shortRangeDates = getShortRangeTargetDates();
-const shortRangeFrom = shortRangeDates[0];
-const shortRangeTo = shortRangeDates[shortRangeDates.length - 1];
+    const shortRangeDates = getShortRangeTargetDates();
+    const shortRangeFrom = shortRangeDates[0];
+    const shortRangeTo = shortRangeDates[shortRangeDates.length - 1];
+    scheduleTasks.push(fetchNaverBaseball("kbaseball", shortRangeFrom, shortRangeTo)); // KBO
+    scheduleTasks.push(fetchNaverBaseball("wbaseball", shortRangeFrom, shortRangeTo)); // MLB + NPB
 
-// 네이버 API 요청 결과 저장용 배열
-const naverResults = [];
+    // ⚾ CPBL / 🏒 하키(NHL+KHL): 날짜별 호출 — 야구와 동일하게 D-1~D+1 범위만 사용
+    shortRangeDates.forEach(date => {
+      scheduleTasks.push(fetchFlashscoreCPBL(date));
+      scheduleTasks.push(fetchHighlightlyHockey(date));
+    });
 
-// ⚾ 네이버 야구: KBO → MLB + NPB 순차 실행
-naverResults.push(
-  await fetchNaverBaseball("kbaseball", shortRangeFrom, shortRangeTo)
-);
-naverResults.push(
-  await fetchNaverBaseball("wbaseball", shortRangeFrom, shortRangeTo)
-);
+    // 🏀🏐 네이버스포츠(농구/배구)가 공유하는 날짜 범위 — api-sports 대체, 범위 방식으로 호출
+    const naverRangeFrom = targetDates[0];
+    const naverRangeTo = targetDates[targetDates.length - 1];
 
-// ⚾ CPBL / 🏒 하키(NHL+KHL): 날짜별 호출 — 야구와 동일하게 D-1~D+1 범위만 사용
-shortRangeDates.forEach(date => {
-  scheduleTasks.push(fetchFlashscoreCPBL(date));
-  scheduleTasks.push(fetchHighlightlyHockey(date));
-});
+    // 🏀 농구: 네이버스포츠 (NBA / KBL / WKBL) — api-sports 대체, 범위 방식으로 1번만 호출
+    scheduleTasks.push(fetchNaverBasketball(naverRangeFrom, naverRangeTo));
 
-// 🏀🏐 네이버스포츠(농구/배구)가 공유하는 날짜 범위
-const naverRangeFrom = targetDates[0];
-const naverRangeTo = targetDates[targetDates.length - 1];
-
-// 🏀 네이버 농구 순차 실행
-naverResults.push(
-  await fetchNaverBasketball(naverRangeFrom, naverRangeTo)
-);
-
-// 🏐 네이버 배구 순차 실행
-naverResults.push(
-  await fetchNaverVolleyball("kovo", naverRangeFrom, naverRangeTo)
-);
-naverResults.push(
-  await fetchNaverVolleyball("wkovo", naverRangeFrom, naverRangeTo)
-);
+    // 🏐 배구: 네이버스포츠 (V리그 남/여) — api-sports 대체, 각 1번씩 호출
+    scheduleTasks.push(fetchNaverVolleyball("kovo", naverRangeFrom, naverRangeTo));
+    scheduleTasks.push(fetchNaverVolleyball("wkovo", naverRangeFrom, naverRangeTo));
 
     // LoL 전용 호출 (PandaScore)
     scheduleTasks.push(fetchLOLPanda());
 
-    const parallelResults = await Promise.all(scheduleTasks);
-
-    const rawResults = [...parallelResults, ...naverResults];
+    const rawResults = await Promise.all(scheduleTasks);
 
     const mergedData = rawResults.flat();
 

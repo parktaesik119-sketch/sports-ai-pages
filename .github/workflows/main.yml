@@ -35,6 +35,23 @@ jobs:
       - name: 의존성 설치
         run: npm install
 
+       # GitHub Actions에서 네이버 API 접속 테스트
+      - name: GitHub Runner Naver Connection Test
+        run: |
+          echo "===== GitHub Runner Public IP ====="
+          curl -sS https://api.ipify.org
+          echo ""
+
+          echo "===== Naver API Connection Test ====="
+          curl -v --http1.1 \
+            --connect-timeout 15 \
+            --max-time 30 \
+            -H "Referer: https://m.sports.naver.com/" \
+            -H "Origin: https://m.sports.naver.com" \
+            -H "Accept: application/json, text/plain, */*" \
+            "https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=kbaseball&fromDate=2026-11-04&toDate=2026-11-10&size=500"
+
+
       # 자동 분석 실행
       - name: 데이터 수집 및 AI 분석 실행
         run: node scripts/main-auto.js
