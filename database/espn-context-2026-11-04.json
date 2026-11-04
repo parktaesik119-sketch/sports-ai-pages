@@ -1,0 +1,330 @@
+[
+  {
+    "home": "Newcastle United",
+    "away": "Everton",
+    "date": "2026-11-02T20:00:00.000Z",
+    "league": "Premier League",
+    "sport": "soccer",
+    "espnSport": "soccer_epl",
+    "gameId": "401878762",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "3",
+        "losses": "4",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "12",
+        "pointsAgainst": "15"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "3",
+        "losses": "2",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "9",
+        "pointsAgainst": "9"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "EVE leads series 4-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-10-29T19:45:00Z",
+          "home": "Everton",
+          "away": "Newcastle United",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-08-12T16:15:00Z",
+          "home": "Newcastle United",
+          "away": "Everton",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-02-28T15:00:00Z",
+          "home": "Newcastle United",
+          "away": "Everton",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-29T17:30:00Z",
+          "home": "Everton",
+          "away": "Newcastle United",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-25T15:00:00Z",
+          "home": "Newcastle United",
+          "away": "Everton",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Lorient",
+    "away": "Brest",
+    "date": "2026-11-02T19:45:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876419",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "3",
+        "losses": "3",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "7",
+        "pointsAgainst": "8"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "3",
+        "losses": "3",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "16",
+        "pointsAgainst": "12"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "BRE leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-02-07T18:00:00Z",
+          "home": "Brest",
+          "away": "Lorient",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-19T15:15:00Z",
+          "home": "Lorient",
+          "away": "Brest",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-03-31T11:00:00Z",
+          "home": "Lorient",
+          "away": "Brest",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-12-20T20:00:00Z",
+          "home": "Brest",
+          "away": "Lorient",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-05-07T13:00:00Z",
+          "home": "Lorient",
+          "away": "Brest",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Sassuolo",
+    "away": "Fiorentina",
+    "date": "2026-11-02T17:30:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874963",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "17",
+        "wins": "2",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "16",
+        "pointsAgainst": "26"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "2",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "15",
+        "pointsAgainst": "23"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-26T10:30:00Z",
+          "home": "Fiorentina",
+          "away": "Sassuolo",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-06T14:00:00Z",
+          "home": "Sassuolo",
+          "away": "Fiorentina",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-28T18:45:00Z",
+          "home": "Fiorentina",
+          "away": "Sassuolo",
+          "homeScore": 5,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-01-06T19:45:00Z",
+          "home": "Sassuolo",
+          "away": "Fiorentina",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-06-02T18:30:00Z",
+          "home": "Sassuolo",
+          "away": "Fiorentina",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Atalanta",
+    "away": "Parma",
+    "date": "2026-11-02T19:45:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874971",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "3",
+        "losses": "5",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "16",
+        "pointsAgainst": "20"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "2",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "8",
+        "pointsAgainst": "15"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-01-25T14:00:00Z",
+          "home": "Atalanta",
+          "away": "Parma",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-30T16:30:00Z",
+          "home": "Parma",
+          "away": "Atalanta",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-25T18:45:00Z",
+          "home": "Atalanta",
+          "away": "Parma",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-11-23T19:45:00Z",
+          "home": "Parma",
+          "away": "Atalanta",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-04T16:00:00Z",
+          "home": "Parma",
+          "away": "Atalanta",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  }
+]
