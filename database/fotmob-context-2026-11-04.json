@@ -2090,7 +2090,7 @@
         "Daniel Sang Ting (DF)|https://images.fotmob.com/image_resources/playerimages/1246161.png",
         "Tossawat Limwanasthien (MF)|https://images.fotmob.com/image_resources/playerimages/433091.png",
         "Scott Allardice (MF)|https://images.fotmob.com/image_resources/playerimages/802220.png",
-        "Ekanit Panya (MF)|https://images.fotmob.com/image_resources/playerimages/1048019.png",
+        "Ekanit Panya (FW)|https://images.fotmob.com/image_resources/playerimages/1048019.png",
         "Tana (MF)|https://images.fotmob.com/image_resources/playerimages/484906.png",
         "Sidcley (DF)|https://images.fotmob.com/image_resources/playerimages/553106.png",
         "Phongsakorn Sangkasopha (MF)|https://images.fotmob.com/image_resources/playerimages/1832847.png"
@@ -6568,9 +6568,242 @@
     }
   },
   {
+    "home": "Abha",
+    "away": "Al Shabab",
+    "date": "2026-11-05T00:00:00.000Z",
+    "league": "Saudi Pro League",
+    "injuries": {
+      "home": [
+        {
+          "name": "Basil Al Sayyali",
+          "status": "부상",
+          "detail": "Early February 2027"
+        },
+        {
+          "name": "Abdou Diallo",
+          "status": "등 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Nabil Fekir",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Georges-Kévin N'Koudou",
+          "status": "어깨 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Khaled Al Shamrani",
+          "status": "햄스트링 부상",
+          "detail": "A few weeks"
+        }
+      ],
+      "away": [
+        {
+          "name": "Mohammed Essa Hurbush",
+          "status": "십자 인대 부상",
+          "detail": "Doubtful"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2025-09-22T18:00:00.000Z",
+        "home": "Abha",
+        "away": "Al Shabab",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2024-04-18T18:00:00.000Z",
+        "home": "Al Shabab",
+        "away": "Abha",
+        "homeScore": 5,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-10-28T15:00:00.000Z",
+        "home": "Abha",
+        "away": "Al Shabab",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-02-14T15:00:00.000Z",
+        "home": "Al Shabab",
+        "away": "Abha",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-09-01T18:00:00.000Z",
+        "home": "Abha",
+        "away": "Al Shabab",
+        "homeScore": 0,
+        "awayScore": 4
+      },
+      {
+        "date": "2022-01-08T15:00:00.000Z",
+        "home": "Al Shabab",
+        "away": "Abha",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-08-12T16:15:00.000Z",
+        "home": "Abha",
+        "away": "Al Shabab",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2021-01-30T13:00:00.000Z",
+        "home": "Abha",
+        "away": "Al Shabab",
+        "homeScore": 2,
+        "awayScore": 3
+      },
+      {
+        "date": "2020-10-17T15:00:00.000Z",
+        "home": "Al Shabab",
+        "away": "Abha",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2020-08-24T16:00:00.000Z",
+        "home": "Al Shabab",
+        "away": "Abha",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2019-12-19T12:40:00.000Z",
+        "home": "Abha",
+        "away": "Al Shabab",
+        "homeScore": 2,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-13T18:00:00.000Z",
+          "home": "Al Diriyah",
+          "away": "Abha",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-16T13:15:00.000Z",
+          "home": "Al Qadsiah",
+          "away": "Abha",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-24T14:00:00.000Z",
+          "home": "Neom SC",
+          "away": "Abha",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-27T12:40:00.000Z",
+          "home": "Abha",
+          "away": "Al-Faisaly",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-30T12:30:00.000Z",
+          "home": "Abha",
+          "away": "Al Ittihad",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-12T18:00:00.000Z",
+          "home": "Al Shabab",
+          "away": "Al-Fayha",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-11T18:00:00.000Z",
+          "home": "Al Shabab",
+          "away": "Al-Taawoun",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-19T18:00:00.000Z",
+          "home": "Al Shabab",
+          "away": "Al-Faisaly",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-22T14:45:00.000Z",
+          "home": "Al Fateh FC",
+          "away": "Al Shabab",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-30T18:00:00.000Z",
+          "home": "Al Shabab",
+          "away": "Al Ahli",
+          "homeScore": 6,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Donovan Léon (GK)|https://images.fotmob.com/image_resources/playerimages/279866.png",
+        "Mohammed Al Dossary (DF)|https://images.fotmob.com/image_resources/playerimages/1008223.png",
+        "Juriën Gaari (DF)|https://images.fotmob.com/image_resources/playerimages/708738.png",
+        "Abdullah Al Fahad (DF)|https://images.fotmob.com/image_resources/playerimages/618840.png",
+        "Mohammed Al Zaid (DF)|https://images.fotmob.com/image_resources/playerimages/1578426.png",
+        "Alimami Gory (MF)|https://images.fotmob.com/image_resources/playerimages/765158.png",
+        "Loreintz Rosier (MF)|https://images.fotmob.com/image_resources/playerimages/955808.png",
+        "Feras Al Ghamdi (MF)|https://images.fotmob.com/image_resources/playerimages/980972.png",
+        "Abdulkarim Darisi (MF)|https://images.fotmob.com/image_resources/playerimages/1559681.png",
+        "Nasser Al Daajani (MF)|https://images.fotmob.com/image_resources/playerimages/1019226.png",
+        "Keshim Al Qahtani (FW)|https://images.fotmob.com/image_resources/playerimages/1900349.png"
+      ],
+      "away": [
+        "Mory Diaw (GK)|https://images.fotmob.com/image_resources/playerimages/466436.png",
+        "Mohammed Al Thani (DF)|https://images.fotmob.com/image_resources/playerimages/963981.png",
+        "Tin Jedvaj (DF)|https://images.fotmob.com/image_resources/playerimages/427062.png",
+        "Ali Al Bulayhi (DF)|https://images.fotmob.com/image_resources/playerimages/670885.png",
+        "Dhari Al Anazi (DF)|https://images.fotmob.com/image_resources/playerimages/1368083.png",
+        "Daniel Podence (MF)|https://images.fotmob.com/image_resources/playerimages/524435.png",
+        "Josh Brownhill (MF)|https://images.fotmob.com/image_resources/playerimages/494597.png",
+        "Yacine Adli (MF)|https://images.fotmob.com/image_resources/playerimages/846002.png",
+        "Yannick Carrasco (MF)|https://images.fotmob.com/image_resources/playerimages/354467.png",
+        "Roger Martínez (FW)|https://images.fotmob.com/image_resources/playerimages/479026.png",
+        "Ricardo Mathias (FW)|https://images.fotmob.com/image_resources/playerimages/1666534.png"
+      ]
+    },
+    "formation": {
+      "home": "4-4-1-1",
+      "away": "4-4-2"
+    },
+    "coach": {
+      "home": "Teo Pirija",
+      "away": "Thomas Letsch|https://images.fotmob.com/image_resources/playerimages/704334.png"
+    }
+  },
+  {
     "home": "Al Kholood",
     "away": "Al Khaleej",
-    "date": "2026-11-05T13:25:00.000Z",
+    "date": "2026-11-05T00:00:00.000Z",
     "league": "Saudi Pro League",
     "injuries": {
       "home": [],
@@ -6724,6 +6957,186 @@
     "coach": {
       "home": "Des Buckingham|https://images.fotmob.com/image_resources/playerimages/828673.png",
       "away": "José Gomes|https://images.fotmob.com/image_resources/playerimages/467489.png"
+    }
+  },
+  {
+    "home": "Al Qadsiah",
+    "away": "Al-Fayha",
+    "date": "2026-11-05T00:00:00.000Z",
+    "league": "Saudi Pro League",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-05-09T18:00:00.000Z",
+        "home": "Al-Fayha",
+        "away": "Al Qadsiah",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2026-01-14T14:45:00.000Z",
+        "home": "Al Qadsiah",
+        "away": "Al-Fayha",
+        "homeScore": 5,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-04-12T16:00:00.000Z",
+        "home": "Al-Fayha",
+        "away": "Al Qadsiah",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-11-07T14:30:00.000Z",
+        "home": "Al Qadsiah",
+        "away": "Al-Fayha",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-02-02T12:20:00.000Z",
+        "home": "Al Qadsiah",
+        "away": "Al-Fayha",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-09-28T15:30:00.000Z",
+        "home": "Al-Fayha",
+        "away": "Al Qadsiah",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2018-02-04T12:40:00.000Z",
+        "home": "Al-Fayha",
+        "away": "Al Qadsiah",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2017-10-19T14:50:00.000Z",
+        "home": "Al Qadsiah",
+        "away": "Al-Fayha",
+        "homeScore": 1,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-10-20T15:10:00.000Z",
+          "home": "Al-Taawoun",
+          "away": "Al Qadsiah",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-23T18:00:00.000Z",
+          "home": "Al Qadsiah",
+          "away": "Al Hilal",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-26T18:15:00.000Z",
+          "home": "Al Qadsiah",
+          "away": "Al-Sadd",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-29T18:00:00.000Z",
+          "home": "Al Riyadh",
+          "away": "Al Qadsiah",
+          "homeScore": 0,
+          "awayScore": 6
+        },
+        {
+          "date": "2026-11-02T18:15:00.000Z",
+          "home": "Al-Gharafa",
+          "away": "Al Qadsiah",
+          "homeScore": 0,
+          "awayScore": 5
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-10-11T13:40:00.000Z",
+          "home": "Al-Fayha",
+          "away": "Al Riyadh",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-15T14:50:00.000Z",
+          "home": "Al Khaleej",
+          "away": "Al-Fayha",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-19T15:05:00.000Z",
+          "home": "Al-Fayha",
+          "away": "Al Ahli",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-22T13:40:00.000Z",
+          "home": "Al Hazem",
+          "away": "Al-Fayha",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-31T14:55:00.000Z",
+          "home": "Al-Fayha",
+          "away": "Al-Faisaly",
+          "homeScore": 4,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Koen Casteels (GK)|https://images.fotmob.com/image_resources/playerimages/170322.png",
+        "Ahmed Al Siyahi (MF)|https://images.fotmob.com/image_resources/playerimages/1897591.png",
+        "Gaston Álvarez (DF)|https://images.fotmob.com/image_resources/playerimages/1060634.png",
+        "Yasir Al Shahrani (DF)|https://images.fotmob.com/image_resources/playerimages/392208.png",
+        "Julian Weigl (MF)|https://images.fotmob.com/image_resources/playerimages/521421.png",
+        "Mohammed Abu Al Shamat (MF)|https://images.fotmob.com/image_resources/playerimages/1543647.png",
+        "Tijjani Reijnders (MF)|https://images.fotmob.com/image_resources/playerimages/868344.png",
+        "Musab Al-Juwayr (MF)|https://images.fotmob.com/image_resources/playerimages/1235341.png",
+        "Christopher Bonsu Baah (MF)|https://images.fotmob.com/image_resources/playerimages/1452385.png",
+        "Julián Quiñones (FW)|https://images.fotmob.com/image_resources/playerimages/720560.png",
+        "Abdullah Al Salem (FW)|https://images.fotmob.com/image_resources/playerimages/618180.png"
+      ],
+      "away": [
+        "Orlando Mosquera (GK)|https://images.fotmob.com/image_resources/playerimages/531913.png",
+        "Mohammed Al Baqawi (DF)|https://images.fotmob.com/image_resources/playerimages/637281.png",
+        "Ziyad Al Sahafi (DF)|https://images.fotmob.com/image_resources/playerimages/702375.png",
+        "Omar Colley (DF)|https://images.fotmob.com/image_resources/playerimages/440369.png",
+        "Turki Al Jaadi (DF)|https://images.fotmob.com/image_resources/playerimages/1549835.png",
+        "Al Hussain Boulahrech (MF)|https://images.fotmob.com/image_resources/playerimages/1671250.png",
+        "Yago (FW)|https://images.fotmob.com/image_resources/playerimages/1590255.png",
+        "Alfa Semedo (MF)|https://images.fotmob.com/image_resources/playerimages/816274.png",
+        "Hugo Moura (MF)|https://images.fotmob.com/image_resources/playerimages/1028036.png",
+        "Jason (FW)|https://images.fotmob.com/image_resources/playerimages/451984.png",
+        "Fashion Sakala (FW)|https://images.fotmob.com/image_resources/playerimages/825765.png"
+      ]
+    },
+    "formation": {
+      "home": "3-1-4-2",
+      "away": "4-1-4-1"
+    },
+    "coach": {
+      "home": "Brendan Rodgers|https://images.fotmob.com/image_resources/playerimages/160770.png",
+      "away": "Fábio Carille|https://images.fotmob.com/image_resources/playerimages/1135626.png"
     }
   },
   {
