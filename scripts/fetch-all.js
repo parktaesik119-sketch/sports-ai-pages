@@ -280,11 +280,8 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
       }
     });
 
-    if (!res.ok) {
-      await logNaverHttpFailure(
-        `fetchNaverBaseball(${upperCategoryId})`,
-        res
-      );
+        if (!res.ok) {
+      await logNaverHttpFailure("fetchNaverBasketball", res);
       return [];
     }
 
@@ -440,8 +437,11 @@ async function fetchNaverVolleyball(categoryId, fromDate, toDate) {
       }
     });
 
-    if (!res.ok) {
-      await logNaverHttpFailure("fetchNaverBasketball", res);
+        if (!res.ok) {
+      await logNaverHttpFailure(
+        `fetchNaverVolleyball(${categoryId})`,
+        res
+      );
       return [];
     }
 
