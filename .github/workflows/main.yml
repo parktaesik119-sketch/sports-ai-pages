@@ -1,8 +1,6 @@
-
 name: Pick Heaven Auto Post
 
 on:
-  # Cloudflare Worker가 workflow_dispatch로 실행
   workflow_dispatch:
 
 permissions:
@@ -13,106 +11,61 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 저장소 체크아웃
       - name: 저장소 가져오기
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      # Node.js 설치
       - name: Node.js 설정
         uses: actions/setup-node@v6
         with:
           node-version: '22'
 
-      # 커밋 전 해시 저장 (텔레그램 알림용 diff 기준점)
       - name: 현재 커밋 해시 저장
         id: before
         run: echo "hash=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
-      # 패키지 설치
       - name: 의존성 설치
         run: npm install
 
-      # 네이버 API Chromium 응답 확인
-      - name: Naver API Chromium Response Test
+      # 네이버 API Chrome TLS 지문 방식 접속 테스트
+      - name: Naver API Chrome TLS Test
         shell: bash
         run: |
-          TEST_DIR="$RUNNER_TEMP/naver-browser-test"
-          mkdir -p "$TEST_DIR"
-          cd "$TEST_DIR"
+          python -m venv "$RUNNER_TEMP/naver-test-venv"
+          "$RUNNER_TEMP/naver-test-venv/bin/pip" install curl_cffi
 
-          npm init -y
-          npm install playwright
-          npx playwright install --with-deps chromium
+          "$RUNNER_TEMP/naver-test-venv/bin/python" <<'PY'
+          from curl_cffi import requests
 
-          cat > test.js <<'EOF'
-          const { chromium } = require('playwright');
+          url = "https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=kbaseball&fromDate=2026-11-04&toDate=2026-11-10&size=500"
 
-          (async () => {
-            const browser = await chromium.launch({
-              headless: true
-            });
+          print("===== Chrome TLS 방식 네이버 API 테스트 =====")
 
-            const page = await browser.newPage();
+          try:
+              response = requests.get(
+                  url,
+                  impersonate="chrome",
+                  headers={
+                      "Referer": "https://m.sports.naver.com/",
+                      "Origin": "https://m.sports.naver.com",
+                      "Accept": "application/json, text/plain, */*",
+                      "Accept-Language": "ko-KR,ko;q=0.9"
+                  },
+                  timeout=30
+              )
 
-            const url = 'https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=kbaseball&fromDate=2026-11-04&toDate=2026-11-10&size=500';
+              print("HTTP 상태:", response.status_code)
+              print("응답 내용:", response.text[:1000])
 
-            page.on('requestfailed', request => {
-              console.log(
-                '요청 실패:',
-                request.url(),
-                request.failure()?.errorText
-              );
-            });
+              if response.status_code != 200:
+                  raise SystemExit("네이버 API 응답이 200이 아닙니다.")
 
-            page.on('response', response => {
-              console.log(
-                '응답 수신:',
-                response.status(),
-                response.url()
-              );
-            });
+          except Exception as e:
+              print("요청 실패:", repr(e))
+              raise
+          PY
 
-            try {
-              console.log('===== Chromium 응답 확인 테스트 =====');
-
-              const response = await page.goto(url, {
-                waitUntil: 'commit',
-                timeout: 30000
-              });
-
-              console.log(
-                '응답 헤더 수신 상태:',
-                response?.status()
-              );
-
-              const result = await page.locator('body').innerText({
-                timeout: 15000
-              });
-
-              console.log(
-                '응답 본문:',
-                result.slice(0, 1000)
-              );
-
-              if (!response || response.status() !== 200) {
-                process.exitCode = 1;
-              }
-
-            } catch (error) {
-              console.error('테스트 오류:', error.message);
-              process.exitCode = 1;
-
-            } finally {
-              await browser.close();
-            }
-          })();
-          EOF
-
-          node test.js
-
-      # 자동 분석 실행
       - name: 데이터 수집 및 AI 분석 실행
         run: node scripts/main-auto.js
         env:
@@ -123,7 +76,6 @@ jobs:
           RAPID_KEY: ${{ secrets.RAPID_KEY }}
           HIGHLIGHTLY_KEY: ${{ secrets.HIGHLIGHTLY_KEY }}
 
-      # 생성 파일 자동 커밋 및 푸쉬
       - name: 생성된 글을 깃허브에 푸쉬
         id: push
         run: |
@@ -133,7 +85,6 @@ jobs:
           git add .
 
           if [ -n "$(git status --porcelain)" ]; then
-
             git commit -m "🤖 자동 분석글 및 데이터 업데이트"
 
             git pull --rebase https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
@@ -146,12 +97,10 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      # 사이트 빌드
       - name: 사이트 빌드
         if: steps.push.outputs.changed == 'true'
         run: npx astro sync && npm run build
 
-      # Cloudflare Pages 배포
       - name: Cloudflare Pages 배포
         if: steps.push.outputs.changed == 'true'
         run: npx wrangler pages deploy dist --project-name=sports-ai-pages --branch=main
@@ -159,7 +108,6 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
-      # 신규 분석글 텔레그램 알림
       - name: 텔레그램 알림 발송
         run: node scripts/notify-posts-telegram.js "${{ steps.before.outputs.hash }}"
         env:
