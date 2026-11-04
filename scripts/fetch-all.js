@@ -280,10 +280,10 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
       }
     });
 
-        if (!res.ok) {
-      await logNaverHttpFailure("fetchNaverBasketball", res);
-      return [];
-    }
+    if (!res.ok) {
+  await logNaverHttpFailure(`fetchNaverBaseball(${upperCategoryId})`, res);
+  return [];
+}
 
     const data = await res.json();
     const games = data?.result?.games;
@@ -363,12 +363,9 @@ async function fetchNaverBasketball(fromDate, toDate) {
     });
 
     if (!res.ok) {
-      await logNaverHttpFailure(
-        `fetchNaverBaseball(${upperCategoryId})`,
-        res
-      );
-      return [];
-    }
+  await logNaverHttpFailure("fetchNaverBasketball", res);
+  return [];
+}
 
     const data = await res.json();
     const games = data?.result?.games;
@@ -697,33 +694,53 @@ async function main() {
     // ⚾🏒 야구 + 하키 — 다른 종목과 별도로 D-1~D+1 범위만 사용
     // (연전/백투백으로 같은 두 팀이 연속 편성되는 경우가 있어서, 전날 결과가
     //  반영되기 전인 D+2 일정까지 미리 긁어오면 분석 시점에 결과 누락이 생길 수 있음)
-    const shortRangeDates = getShortRangeTargetDates();
-    const shortRangeFrom = shortRangeDates[0];
-    const shortRangeTo = shortRangeDates[shortRangeDates.length - 1];
-    scheduleTasks.push(fetchNaverBaseball("kbaseball", shortRangeFrom, shortRangeTo)); // KBO
-    scheduleTasks.push(fetchNaverBaseball("wbaseball", shortRangeFrom, shortRangeTo)); // MLB + NPB
+    // ⚾🏒 야구 + 하키 — 다른 종목과 별도로 D-1~D+1 범위만 사용
+// (연전/백투백으로 같은 두 팀이 연속 편성되는 경우가 있어서, 전날 결과가
+//  반영되기 전인 D+2 일정까지 미리 긁어오면 분석 시점에 결과 누락이 생길 수 있음)
+const shortRangeDates = getShortRangeTargetDates();
+const shortRangeFrom = shortRangeDates[0];
+const shortRangeTo = shortRangeDates[shortRangeDates.length - 1];
 
-    // ⚾ CPBL / 🏒 하키(NHL+KHL): 날짜별 호출 — 야구와 동일하게 D-1~D+1 범위만 사용
-    shortRangeDates.forEach(date => {
-      scheduleTasks.push(fetchFlashscoreCPBL(date));
-      scheduleTasks.push(fetchHighlightlyHockey(date));
-    });
+// 네이버 API 요청 결과 저장용 배열
+const naverResults = [];
 
-    // 🏀🏐 네이버스포츠(농구/배구)가 공유하는 날짜 범위 — api-sports 대체, 범위 방식으로 호출
-    const naverRangeFrom = targetDates[0];
-    const naverRangeTo = targetDates[targetDates.length - 1];
+// ⚾ 네이버 야구: KBO → MLB + NPB 순차 실행
+naverResults.push(
+  await fetchNaverBaseball("kbaseball", shortRangeFrom, shortRangeTo)
+);
+naverResults.push(
+  await fetchNaverBaseball("wbaseball", shortRangeFrom, shortRangeTo)
+);
 
-    // 🏀 농구: 네이버스포츠 (NBA / KBL / WKBL) — api-sports 대체, 범위 방식으로 1번만 호출
-    scheduleTasks.push(fetchNaverBasketball(naverRangeFrom, naverRangeTo));
+// ⚾ CPBL / 🏒 하키(NHL+KHL): 날짜별 호출 — 야구와 동일하게 D-1~D+1 범위만 사용
+shortRangeDates.forEach(date => {
+  scheduleTasks.push(fetchFlashscoreCPBL(date));
+  scheduleTasks.push(fetchHighlightlyHockey(date));
+});
 
-    // 🏐 배구: 네이버스포츠 (V리그 남/여) — api-sports 대체, 각 1번씩 호출
-    scheduleTasks.push(fetchNaverVolleyball("kovo", naverRangeFrom, naverRangeTo));
-    scheduleTasks.push(fetchNaverVolleyball("wkovo", naverRangeFrom, naverRangeTo));
+// 🏀🏐 네이버스포츠(농구/배구)가 공유하는 날짜 범위
+const naverRangeFrom = targetDates[0];
+const naverRangeTo = targetDates[targetDates.length - 1];
+
+// 🏀 네이버 농구 순차 실행
+naverResults.push(
+  await fetchNaverBasketball(naverRangeFrom, naverRangeTo)
+);
+
+// 🏐 네이버 배구 순차 실행
+naverResults.push(
+  await fetchNaverVolleyball("kovo", naverRangeFrom, naverRangeTo)
+);
+naverResults.push(
+  await fetchNaverVolleyball("wkovo", naverRangeFrom, naverRangeTo)
+);
 
     // LoL 전용 호출 (PandaScore)
     scheduleTasks.push(fetchLOLPanda());
 
-    const rawResults = await Promise.all(scheduleTasks);
+    const parallelResults = await Promise.all(scheduleTasks);
+
+    const rawResults = [...parallelResults, ...naverResults];
 
     const mergedData = rawResults.flat();
 
