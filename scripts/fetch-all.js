@@ -1,6 +1,8 @@
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
+import { execFile } from "child_process";
+import { promisify } from "util";
 
 // ==========================
 // 📁 경로 및 설정
@@ -205,6 +207,41 @@ async function fetchFotmobSoccerFixtures(dateStr /* YYYY-MM-DD */) {
   }
 }
 
+
+// 네이버 API는 curl_cffi의 Chrome TLS 방식으로 호출합니다.
+// GitHub Actions에서 NAVER_PYTHON 환경변수로 전용 Python 실행 파일을 지정합니다.
+const execFileAsync = promisify(execFile);
+const NAVER_PYTHON = process.env.NAVER_PYTHON ||
+  (process.platform === "win32" ? "python" : "python3");
+const NAVER_FETCH_HELPER = path.join(__dirname, "naver-fetch.py");
+
+async function fetchNaverJson(url) {
+  let stdout;
+
+  try {
+    ({ stdout } = await execFileAsync(
+      NAVER_PYTHON,
+      [NAVER_FETCH_HELPER, url],
+      {
+        encoding: "utf8",
+        timeout: 45000,
+        maxBuffer: 20 * 1024 * 1024
+      }
+    ));
+  } catch (err) {
+    const detail = String(err.stderr || "").trim();
+    throw new Error(
+      `네이버 Chrome TLS 요청 실패: ${err.message}${detail ? ` | ${detail}` : ""}`
+    );
+  }
+
+  try {
+    return JSON.parse(stdout);
+  } catch (err) {
+    throw new Error(`네이버 응답 JSON 파싱 실패: ${err.message}; 응답 앞부분: ${stdout.slice(0, 300)}`);
+  }
+}
+
 // ─────────────────────────────────────────────
 // ⚾ 야구 — 네이버스포츠 (KBO / MLB+NPB). api-sports 대체 (2026-08).
 // CPBL은 네이버에 없어서 커버 안 됨 — 별도 소스 필요(추후 작업).
@@ -242,14 +279,7 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=${upperCategoryId}&fromDate=${fromDate}&toDate=${toDate}&size=500`;
 
   try {
-    const res = await fetch(url, {
-      headers: {
-        "Referer": "https://m.sports.naver.com/",
-        "Origin": "https://m.sports.naver.com",
-        "Accept": "application/json, text/plain, */*",
-      }
-    });
-    const data = await res.json();
+    const data = await fetchNaverJson(url);
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
 
@@ -318,14 +348,7 @@ async function fetchNaverBasketball(fromDate, toDate) {
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cconference%2CmanualRelayUrl&superCategoryId=basketball&fromDate=${fromDate}&toDate=${toDate}&size=500`;
 
   try {
-    const res = await fetch(url, {
-      headers: {
-        "Referer": "https://m.sports.naver.com/",
-        "Origin": "https://m.sports.naver.com",
-        "Accept": "application/json, text/plain, */*",
-      }
-    });
-    const data = await res.json();
+    const data = await fetchNaverJson(url);
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
 
@@ -384,14 +407,7 @@ async function fetchNaverVolleyball(categoryId, fromDate, toDate) {
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cround%2CgroupName%2CneutralGround%2CmanualRelayUrl&superCategoryId=volleyball&categoryId=${categoryId}&fromDate=${fromDate}&toDate=${toDate}&roundCodes=&size=500`;
 
   try {
-    const res = await fetch(url, {
-      headers: {
-        "Referer": "https://m.sports.naver.com/",
-        "Origin": "https://m.sports.naver.com",
-        "Accept": "application/json, text/plain, */*",
-      }
-    });
-    const data = await res.json();
+    const data = await fetchNaverJson(url);
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
 

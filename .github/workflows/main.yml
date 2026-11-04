@@ -28,43 +28,12 @@ jobs:
       - name: 의존성 설치
         run: npm install
 
-      # 네이버 API Chrome TLS 지문 방식 접속 테스트
-      - name: Naver API Chrome TLS Test
+      - name: 네이버 API Chrome TLS 실행 환경 설치
         shell: bash
         run: |
-          python -m venv "$RUNNER_TEMP/naver-test-venv"
-          "$RUNNER_TEMP/naver-test-venv/bin/pip" install curl_cffi
-
-          "$RUNNER_TEMP/naver-test-venv/bin/python" <<'PY'
-          from curl_cffi import requests
-
-          url = "https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=kbaseball&fromDate=2026-11-04&toDate=2026-11-10&size=500"
-
-          print("===== Chrome TLS 방식 네이버 API 테스트 =====")
-
-          try:
-              response = requests.get(
-                  url,
-                  impersonate="chrome",
-                  headers={
-                      "Referer": "https://m.sports.naver.com/",
-                      "Origin": "https://m.sports.naver.com",
-                      "Accept": "application/json, text/plain, */*",
-                      "Accept-Language": "ko-KR,ko;q=0.9"
-                  },
-                  timeout=30
-              )
-
-              print("HTTP 상태:", response.status_code)
-              print("응답 내용:", response.text[:1000])
-
-              if response.status_code != 200:
-                  raise SystemExit("네이버 API 응답이 200이 아닙니다.")
-
-          except Exception as e:
-              print("요청 실패:", repr(e))
-              raise
-          PY
+          python -m venv "$RUNNER_TEMP/naver-curl-cffi"
+          "$RUNNER_TEMP/naver-curl-cffi/bin/pip" install curl_cffi
+          echo "NAVER_PYTHON=$RUNNER_TEMP/naver-curl-cffi/bin/python" >> "$GITHUB_ENV"
 
       - name: 데이터 수집 및 AI 분석 실행
         run: node scripts/main-auto.js
@@ -86,11 +55,8 @@ jobs:
 
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "🤖 자동 분석글 및 데이터 업데이트"
-
             git pull --rebase https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
-
             git push
-
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "업데이트할 파일이 없습니다."
