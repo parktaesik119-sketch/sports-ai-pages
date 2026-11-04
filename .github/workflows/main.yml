@@ -1,9 +1,8 @@
+
 name: Pick Heaven Auto Post
 
 on:
-  # schedule: 블록은 제거함 - GitHub 자체 cron은 몇 시간씩 지연되는 문제가 있어서
-  # 외부 Cloudflare Worker가 정확한 시각에 workflow_dispatch로 대신 호출하는 방식으로 변경.
-  # (schedule과 workflow_dispatch를 동시에 두면 같은 작업이 중복 실행될 위험이 있어 schedule은 제거)
+  # Cloudflare Worker가 workflow_dispatch로 실행
   workflow_dispatch:
 
 permissions:
@@ -35,8 +34,8 @@ jobs:
       - name: 의존성 설치
         run: npm install
 
-       
-      - name: Naver API Chromium Browser Test
+      # 네이버 API Chromium 응답 확인
+      - name: Naver API Chromium Response Test
         shell: bash
         run: |
           TEST_DIR="$RUNNER_TEMP/naver-browser-test"
@@ -51,41 +50,60 @@ jobs:
           const { chromium } = require('playwright');
 
           (async () => {
-            const browser = await chromium.launch({ headless: true });
+            const browser = await chromium.launch({
+              headless: true
+            });
+
             const page = await browser.newPage();
 
             const url = 'https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=kbaseball&fromDate=2026-11-04&toDate=2026-11-10&size=500';
 
+            page.on('requestfailed', request => {
+              console.log(
+                '요청 실패:',
+                request.url(),
+                request.failure()?.errorText
+              );
+            });
+
+            page.on('response', response => {
+              console.log(
+                '응답 수신:',
+                response.status(),
+                response.url()
+              );
+            });
+
             try {
-              console.log('===== Chromium API 접속 테스트 =====');
+              console.log('===== Chromium 응답 확인 테스트 =====');
 
               const response = await page.goto(url, {
-                waitUntil: 'domcontentloaded',
-                timeout: 45000
+                waitUntil: 'commit',
+                timeout: 30000
               });
 
-              console.log('브라우저 접속 HTTP 상태:', response?.status());
+              console.log(
+                '응답 헤더 수신 상태:',
+                response?.status()
+              );
 
-              const result = await page.evaluate(async () => {
-                const r = await fetch(location.href, {
-                  cache: 'no-store'
-                });
-
-                return {
-                  status: r.status,
-                  body: (await r.text()).slice(0, 1000)
-                };
+              const result = await page.locator('body').innerText({
+                timeout: 15000
               });
 
-              console.log('Browser Fetch HTTP 상태:', result.status);
-              console.log('응답 내용:', result.body);
+              console.log(
+                '응답 본문:',
+                result.slice(0, 1000)
+              );
 
-              if (result.status !== 200) {
+              if (!response || response.status() !== 200) {
                 process.exitCode = 1;
               }
+
             } catch (error) {
-              console.error('테스트 실패:', error);
+              console.error('테스트 오류:', error.message);
               process.exitCode = 1;
+
             } finally {
               await browser.close();
             }
@@ -93,7 +111,6 @@ jobs:
           EOF
 
           node test.js
-
 
       # 자동 분석 실행
       - name: 데이터 수집 및 AI 분석 실행
@@ -113,18 +130,14 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 생성된 파일 추가
           git add .
 
-          # 변경사항 있을 때만 커밋
           if [ -n "$(git status --porcelain)" ]; then
 
             git commit -m "🤖 자동 분석글 및 데이터 업데이트"
 
-            # 로컬 작업과 충돌 방지용 최신 main 반영
             git pull --rebase https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
 
-            # 푸쉬
             git push
 
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -133,12 +146,12 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      # 사이트 빌드 (변경사항 있을 때만) - Cloudflare 자동빌드 대신 여기서 직접 빌드
+      # 사이트 빌드
       - name: 사이트 빌드
         if: steps.push.outputs.changed == 'true'
         run: npx astro sync && npm run build
 
-      # Cloudflare Pages에 Direct Upload로 배포 (빌드 횟수 500회 한도 대상 아님)
+      # Cloudflare Pages 배포
       - name: Cloudflare Pages 배포
         if: steps.push.outputs.changed == 'true'
         run: npx wrangler pages deploy dist --project-name=sports-ai-pages --branch=main
