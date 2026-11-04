@@ -35,21 +35,64 @@ jobs:
       - name: 의존성 설치
         run: npm install
 
-       # GitHub Actions에서 네이버 API 접속 테스트
-      - name: GitHub Runner Naver Connection Test
+       
+      - name: Naver API Chromium Browser Test
+        shell: bash
         run: |
-          echo "===== GitHub Runner Public IP ====="
-          curl -sS https://api.ipify.org
-          echo ""
+          TEST_DIR="$RUNNER_TEMP/naver-browser-test"
+          mkdir -p "$TEST_DIR"
+          cd "$TEST_DIR"
 
-          echo "===== Naver API Connection Test ====="
-          curl -v --http1.1 \
-            --connect-timeout 15 \
-            --max-time 30 \
-            -H "Referer: https://m.sports.naver.com/" \
-            -H "Origin: https://m.sports.naver.com" \
-            -H "Accept: application/json, text/plain, */*" \
-            "https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=kbaseball&fromDate=2026-11-04&toDate=2026-11-10&size=500"
+          npm init -y
+          npm install playwright
+          npx playwright install --with-deps chromium
+
+          cat > test.js <<'EOF'
+          const { chromium } = require('playwright');
+
+          (async () => {
+            const browser = await chromium.launch({ headless: true });
+            const page = await browser.newPage();
+
+            const url = 'https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=kbaseball&fromDate=2026-11-04&toDate=2026-11-10&size=500';
+
+            try {
+              console.log('===== Chromium API 접속 테스트 =====');
+
+              const response = await page.goto(url, {
+                waitUntil: 'domcontentloaded',
+                timeout: 45000
+              });
+
+              console.log('브라우저 접속 HTTP 상태:', response?.status());
+
+              const result = await page.evaluate(async () => {
+                const r = await fetch(location.href, {
+                  cache: 'no-store'
+                });
+
+                return {
+                  status: r.status,
+                  body: (await r.text()).slice(0, 1000)
+                };
+              });
+
+              console.log('Browser Fetch HTTP 상태:', result.status);
+              console.log('응답 내용:', result.body);
+
+              if (result.status !== 200) {
+                process.exitCode = 1;
+              }
+            } catch (error) {
+              console.error('테스트 실패:', error);
+              process.exitCode = 1;
+            } finally {
+              await browser.close();
+            }
+          })();
+          EOF
+
+          node test.js
 
 
       # 자동 분석 실행
