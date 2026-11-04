@@ -238,7 +238,38 @@ const NAVER_TEAM_CODE_MAP = {
 };
 const NAVER_COUNTRY_BY_CATEGORY = { kbo: "South Korea", npb: "Japan", mlb: "USA" };
 
+const NAVER_COUNTRY_BY_CATEGORY = { kbo: "South Korea", npb: "Japan", mlb: "USA" };
+
+// ─────────────────────────────────────────────
+// 네이버 API 오류 진단용
+// ─────────────────────────────────────────────
+
+async function logNaverHttpFailure(label, res) {
+  const body = await res.text().catch(() => "");
+
+  console.error(
+    `❌ [NAVER HTTP] ${label}`,
+    `status=${res.status}`,
+    `statusText=${res.statusText}`,
+    `url=${res.url}`,
+    `body=${body.slice(0, 500)}`
+  );
+}
+
+function logNaverFetchError(label, err) {
+  console.error(`❌ [NAVER FETCH] ${label}`);
+  console.error("오류 이름:", err?.name || "unknown");
+  console.error("오류 내용:", err?.message || String(err));
+  console.error("원인 코드:", err?.cause?.code || "none");
+  console.error("원인 내용:", err?.cause?.message || "none");
+
+  if (err?.stack) {
+    console.error(err.stack);
+  }
+}
+
 async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
+
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=${upperCategoryId}&fromDate=${fromDate}&toDate=${toDate}&size=500`;
 
   try {
@@ -249,6 +280,15 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
         "Accept": "application/json, text/plain, */*",
       }
     });
+
+    if (!res.ok) {
+      await logNaverHttpFailure(
+        `fetchNaverBaseball(${upperCategoryId})`,
+        res
+      );
+      return [];
+    }
+
     const data = await res.json();
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
@@ -278,8 +318,8 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
           awayScore: isFinished ? g.awayTeamScore : null,
         };
       });
-  } catch (err) {
-    console.error(`❌ fetchNaverBaseball(${upperCategoryId}) 에러:`, err.message);
+    } catch (err) {
+    logNaverFetchError(`fetchNaverBaseball(${upperCategoryId})`, err);
     return [];
   }
 }
@@ -318,13 +358,22 @@ async function fetchNaverBasketball(fromDate, toDate) {
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cconference%2CmanualRelayUrl&superCategoryId=basketball&fromDate=${fromDate}&toDate=${toDate}&size=500`;
 
   try {
-    const res = await fetch(url, {
+        const res = await fetch(url, {
       headers: {
         "Referer": "https://m.sports.naver.com/",
         "Origin": "https://m.sports.naver.com",
         "Accept": "application/json, text/plain, */*",
       }
     });
+
+    if (!res.ok) {
+      await logNaverHttpFailure(
+        `fetchNaverBaseball(${upperCategoryId})`,
+        res
+      );
+      return [];
+    }
+
     const data = await res.json();
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
@@ -355,8 +404,8 @@ async function fetchNaverBasketball(fromDate, toDate) {
           awayScore: isFinished ? g.awayTeamScore : null,
         };
       });
-  } catch (err) {
-    console.error(`❌ fetchNaverBasketball 에러:`, err.message);
+    } catch (err) {
+    logNaverFetchError("fetchNaverBasketball", err);
     return [];
   }
 }
@@ -384,13 +433,19 @@ async function fetchNaverVolleyball(categoryId, fromDate, toDate) {
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cround%2CgroupName%2CneutralGround%2CmanualRelayUrl&superCategoryId=volleyball&categoryId=${categoryId}&fromDate=${fromDate}&toDate=${toDate}&roundCodes=&size=500`;
 
   try {
-    const res = await fetch(url, {
+        const res = await fetch(url, {
       headers: {
         "Referer": "https://m.sports.naver.com/",
         "Origin": "https://m.sports.naver.com",
         "Accept": "application/json, text/plain, */*",
       }
     });
+
+    if (!res.ok) {
+      await logNaverHttpFailure("fetchNaverBasketball", res);
+      return [];
+    }
+
     const data = await res.json();
     const games = data?.result?.games;
     if (!Array.isArray(games)) return [];
@@ -417,8 +472,8 @@ async function fetchNaverVolleyball(categoryId, fromDate, toDate) {
           awayScore: isFinished ? g.awayTeamScore : null,
         };
       });
-  } catch (err) {
-    console.error(`❌ fetchNaverVolleyball(${categoryId}) 에러:`, err.message);
+    } catch (err) {
+    logNaverFetchError(`fetchNaverVolleyball(${categoryId})`, err);
     return [];
   }
 }
