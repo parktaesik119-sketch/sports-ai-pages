@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.03","home":"KT 위즈","away":"삼성 라이온스"
 awayRecent: '[{"date":"26.11.03","home":"KT 위즈","away":"삼성 라이온스","score":"8-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-77771103SSKT02026-2026-11-03-kt-wiz-suwon/"},{"date":"26.10.12","home":"삼성 라이온스","away":"KT 위즈","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261012KTSS02026-2026-10-12-samsung-lions/"},{"date":"26.10.11","home":"삼성 라이온스","away":"KT 위즈","score":"3-12","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261011KTSS02026-2026-10-11-samsung-lions/"},{"date":"26.10.09","home":"SSG 랜더스","away":"삼성 라이온스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261009SSSK02026-2026-10-09-ssg-landers/"},{"date":"26.10.07","home":"KT 위즈","away":"삼성 라이온스","score":"9-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbo-20261007SSKT02026-2026-10-07-kt-wiz-suwon/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 고영표 (ERA -)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64001.jpg\",\"1번 최원준 (우익수)\",\"2번 김민혁 (좌익수)\",\"3번 안현민 (지명타자)\",\"4번 힐리어드 (중견수)\",\"5번 김현수 (1루수)\",\"6번 김상수 (2루수)\",\"7번 허경민 (3루수)\",\"8번 한승택 (포수)\",\"9번 장준원 (유격수)\"]"
+awayLineup: "[\"선발투수 페덱 (ERA -)|https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56459.jpg\",\"1번 김지찬 (중견수)\",\"2번 박승규 (우익수)\",\"3번 구자욱 (지명타자)\",\"4번 디아즈 (1루수)\",\"5번 최형우 (좌익수)\",\"6번 김영웅 (3루수)\",\"7번 류지혁 (2루수)\",\"8번 강민호 (포수)\",\"9번 이재현 (유격수)\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
