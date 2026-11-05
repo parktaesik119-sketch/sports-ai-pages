@@ -1,0 +1,380 @@
+[
+  {
+    "home": "Everton",
+    "away": "Coventry City",
+    "date": "2026-11-06T20:00:00.000Z",
+    "league": "Premier League",
+    "sport": "soccer",
+    "espnSport": "soccer_epl",
+    "gameId": "401879242",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "3",
+        "losses": "2",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "9",
+        "pointsAgainst": "9"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "3",
+        "losses": "6",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "9",
+        "pointsAgainst": "16"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "COV leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2024-07-30T18:45:00Z",
+          "home": "Everton",
+          "away": "Coventry City",
+          "homeScore": 0,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Toulouse",
+    "away": "Strasbourg",
+    "date": "2026-11-06T19:45:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876405",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "2",
+        "losses": "3",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "12",
+        "pointsAgainst": "13"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "3",
+        "losses": "5",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "17",
+        "pointsAgainst": "19"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-03T15:15:00Z",
+          "home": "Strasbourg",
+          "away": "Toulouse",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-06T18:00:00Z",
+          "home": "Toulouse",
+          "away": "Strasbourg",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-16T16:15:00Z",
+          "home": "Strasbourg",
+          "away": "Toulouse",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-01-12T16:15:00Z",
+          "home": "Toulouse",
+          "away": "Strasbourg",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-07T13:00:00Z",
+          "home": "Toulouse",
+          "away": "Strasbourg",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Venezia",
+    "away": "Udinese",
+    "date": "2026-11-06T19:45:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874815",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "20",
+        "wins": "1",
+        "losses": "9",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "20"
+      },
+      "away": {
+        "rank": "19",
+        "wins": "1",
+        "losses": "7",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "11",
+        "pointsAgainst": "23"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "UDI leads series 4-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-09-02T16:00:00Z",
+          "home": "Udinese",
+          "away": "Venezia",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-02-01T14:00:00Z",
+          "home": "Udinese",
+          "away": "Venezia",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-30T17:30:00Z",
+          "home": "Venezia",
+          "away": "Udinese",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-04-10T13:00:00Z",
+          "home": "Venezia",
+          "away": "Udinese",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-08-27T16:30:00Z",
+          "home": "Udinese",
+          "away": "Venezia",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Dynamo Dresden",
+    "away": "Greuther Fürth",
+    "date": "2026-11-06T17:30:00.000Z",
+    "league": "2. Bundesliga",
+    "sport": "soccer",
+    "espnSport": "soccer_bundesliga2",
+    "gameId": "401885061",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "18",
+        "wins": "2",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "12",
+        "pointsAgainst": "20"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "3",
+        "losses": "4",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "13",
+        "pointsAgainst": "16"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SGF leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-01-17T12:00:00Z",
+          "home": "Dynamo Dresden",
+          "away": "SpVgg Greuther Fürth",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-03T11:30:00Z",
+          "home": "SpVgg Greuther Fürth",
+          "away": "Dynamo Dresden",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-06-09T16:30:00Z",
+          "home": "Dynamo Dresden",
+          "away": "SpVgg Greuther Fürth",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-10-18T16:30:00Z",
+          "home": "SpVgg Greuther Fürth",
+          "away": "Dynamo Dresden",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-04-04T17:00:00Z",
+          "home": "SpVgg Greuther Fürth",
+          "away": "Dynamo Dresden",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Willem II",
+    "away": "PEC Zwolle",
+    "date": "2026-11-06T19:00:00.000Z",
+    "league": "Eredivisie",
+    "sport": "soccer",
+    "espnSport": "soccer_eredivisie",
+    "gameId": "401875556",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "18",
+        "wins": "0",
+        "losses": "9",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "10",
+        "pointsAgainst": "39"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "3",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "12",
+        "pointsAgainst": "23"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PEC leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-05-14T18:00:00Z",
+          "home": "Willem II",
+          "away": "PEC Zwolle",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-12-13T19:00:00Z",
+          "home": "PEC Zwolle",
+          "away": "Willem II",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-03-10T19:00:00Z",
+          "home": "Willem II",
+          "away": "PEC Zwolle",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-09-09T18:00:00Z",
+          "home": "PEC Zwolle",
+          "away": "Willem II",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-01-14T19:00:00Z",
+          "home": "PEC Zwolle",
+          "away": "Willem II",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  }
+]
