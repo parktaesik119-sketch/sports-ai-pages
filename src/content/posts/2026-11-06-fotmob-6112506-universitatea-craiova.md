@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.02","home":"Univ 크라이오바","away":"Botoșani
 awayRecent: '[{"date":"26.11.01","home":"KF Tirana","away":"에그나티아","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5944204-2026-11-01-kf-tirana/"},{"date":"26.10.30","home":"에그나티아","away":"Teuta Durrës","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5944199-2026-10-30-egnatia/"},{"date":"26.10.26","home":"FC 디나모 시티","away":"에그나티아","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5944193-2026-10-26-fc-dinamo-city/"},{"date":"26.10.23","home":"AGF","away":"에그나티아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6112534-2026-10-23-agf/"},{"date":"26.10.19","home":"에그나티아","away":"Vllaznia","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5944189-2026-10-19-egnatia/"}]'
 injuryHome: "Pavlo Isenko[주요](무릎 부상 - 복귀예정 Unknown)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Laurențiu Popescu (GK)|https://images.fotmob.com/image_resources/playerimages/853796.png\",\"Oleksandr Romanchuk (DF)|https://images.fotmob.com/image_resources/playerimages/890946.png\",\"Nikola Stevanović (DF)|https://images.fotmob.com/image_resources/playerimages/1057949.png\",\"Vladimir Screciu (DF)|https://images.fotmob.com/image_resources/playerimages/833603.png\",\"Carlos Mora (MF)|https://images.fotmob.com/image_resources/playerimages/1202707.png\",\"João Lameira (MF)|https://images.fotmob.com/image_resources/playerimages/957098.png\",\"Tudor Băluță (MF)|https://images.fotmob.com/image_resources/playerimages/862022.png\",\"Nicușor Bancu (MF)|https://images.fotmob.com/image_resources/playerimages/559954.png\",\"Alexandru Cicâldau (MF)|https://images.fotmob.com/image_resources/playerimages/770163.png\",\"Assad Al Hamlawi (FW)|https://images.fotmob.com/image_resources/playerimages/1134292.png\",\"Ștefan Baiaram (FW)|https://images.fotmob.com/image_resources/playerimages/1068880.png\"]"
+awayLineup: "[\"Mario Dajsinani (GK)|https://images.fotmob.com/image_resources/playerimages/761795.png\",\"Guillem Jaime (MF)|https://images.fotmob.com/image_resources/playerimages/1011895.png\",\"Eneo Bitri (DF)|https://images.fotmob.com/image_resources/playerimages/948198.png\",\"Numan Ajetovikj (DF)|https://images.fotmob.com/image_resources/playerimages/1685339.png\",\"Andrey Yago (MF)|https://images.fotmob.com/image_resources/playerimages/1508198.png\",\"Altin Kryeziu (MF)|https://images.fotmob.com/image_resources/playerimages/1106841.png\",\"Albano Aleksi (MF)|https://images.fotmob.com/image_resources/playerimages/948488.png\",\"Fernando Medeiros (MF)|https://images.fotmob.com/image_resources/playerimages/699693.png\",\"Alessandro Albanese (FW)|https://images.fotmob.com/image_resources/playerimages/1168833.png\",\"Daniel Adjessa (FW)|https://images.fotmob.com/image_resources/playerimages/1897357.png\",\"Karim Loukili (MF)|https://images.fotmob.com/image_resources/playerimages/775661.png\"]"
+homeFormation: "3-4-3"
+awayFormation: "4-3-1-2"
+homeCoach: "Filipe Coelho|https://images.fotmob.com/image_resources/playerimages/1846803.png"
+awayCoach: "Nevil Dede|https://images.fotmob.com/image_resources/playerimages/78427.png"
 pickWinTeam: "Univ 크라이오바"
 pickWinResult: "승"
 pickHandicapTeam: "Univ 크라이오바"
