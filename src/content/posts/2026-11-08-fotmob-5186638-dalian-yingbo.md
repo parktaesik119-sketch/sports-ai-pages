@@ -1,0 +1,37 @@
+---
+title: "다롄 잉보 FC vs 텐진 진먼후 축구분석·승부예측 (11월 8일) - 픽천국"
+date: 2026-11-08T07:30:00.000Z
+description: "다롄 잉보 FC vs 텐진 진먼후 축구분석: 다롄 잉보 FC과 텐진 진먼후의 이번 맞대결은 양 팀의 치열한 공방전이 예상되는 가운데 홈팀인 다롄 잉보 FC이 조금 더 우세… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186638-2026-11-08-dalian-yingbo"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "다롄 잉보 FC"
+awayTeam: "텐진 진먼후"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1477043.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4189.png"
+homeAnalysis: "다롄 잉보 FC은 앞선 27경기에서 10승 7무 10패로 승률 37%를 기록했고 안정적인 공수 밸런스를 바탕으로 꾸준한 경기력을 보여주고 있습니다. 최근 10경기 흐름을 살펴보면 6승 2무 2패를 기록하며 상승세를 타고 있고 평균 득점 1.8점을 기록하는 등 공격력에서 뛰어난 집중력을 발휘하고 있습니다. 홈 경기에서도 견고한 수비와 효율적인 역습으로 상대 팀들을 압박하는 모습을 자주 보여주었습니다. 전반적으로 팀 전력이 탄탄하게 유지되면서 중상위권 도약을 위한 발판을 단단히 다지고 있습니다. 이번 경기에서도 홈 이점을 살려 좋은 흐름을 이어갈 것으로 기대됩니다."
+awayAnalysis: "텐진 진먼후은 앞선 23경기에서 8승 8무 7패로 승률 35%를 기록했고 끈끈한 조직력을 바탕으로 쉽게 무너지지 않는 경기를 펼치고 있습니다. 최근 10경기에서는 4승 2무 4패를 기록하며 다소 기복 있는 모습을 보이고 있으나 평균 득점 1.2점을 기록하며 꾸준히 골문을 두드리고 있습니다. 원정 경기에서는 수비에 무게를 두면서 실점을 최소화하는 신중한 운영을 보여주는 편입니다. 전체적인 전력에서 큰 약점이 없지만 결정력에서 아쉬움을 남길 때가 있어 세밀한 마무리가 요구됩니다. 이번 원정 길에서도 수비 안정화를 최우선으로 두고 승점을 노릴 것으로 보입니다."
+homePower: "최근 홈 경기 다득점 양상, 공격 전개 능력 우수함|탄탄한 수비 조직력 바탕으로 한 안정적 경기 운영|다롄 잉보 FC의 최근 10경기 6승 2무로 상승세 뚜렷함|홈 이점을 살린 주도권 장악 능력이 매우 뛰어남|상대 압박을 이겨내는 중원 싸움 경쟁력 검증됨"
+awayPower: "텐진 진먼후의 원정 경기 수비 집중력 높은 편임|최근 10경기 4승으로 꾸준한 승점 적립 능력을 보여줌|실점 최소화를 위한 안정 지향적 전술 운용 돋보임|원정 원투 펀치의 역습 효율성에서 강점을 지님|세밀한 마무리 능력 보완 시 더 높은 성과 기대됨"
+h2h: '[{"date":"26.05.31","home":"텐진 진먼후","away":"다롄 잉보 FC","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1523177-2026-05-31-tianjin-teda/"},{"date":"25.08.16","home":"텐진 진먼후","away":"다롄 잉보 FC","score":"2-0"},{"date":"25.04.12","home":"다롄 잉보 FC","away":"텐진 진먼후","score":"1-1"}]'
+summary: "다롄 잉보 FC과 텐진 진먼후의 이번 맞대결은 양 팀의 치열한 공방전이 예상되는 가운데 홈팀인 다롄 잉보 FC이 조금 더 우세한 경기를 펼칠 것으로 보입니다. 다롄 잉보 FC은 최근 10경기에서 보여준 뛰어난 득점력과 홈 경기 집중력을 바탕으로 경기를 주도할 가능성이 높습니다. 반면 텐진 진먼후은 단단한 수비로 맞서겠지만 최근 원정에서 보여준 다소 아쉬운 화력과 상대 전적의 열세를 극복해야 하는 과제를 안고 있습니다. 종합적인 전력과 최근의 흐름을 고려했을 때 다롄 잉보 FC이 공수 균형을 잘 유지하며 승기를 잡을 것으로 기대됩니다."
+homeRecent: '[{"date":"26.11.01","home":"윈난 유쿤","away":"다롄 잉보 FC","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6146318-2026-11-01-yunnan-yukun/"},{"date":"26.10.24","home":"청두 룽청","away":"다롄 잉보 FC","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186629-2026-10-24-chengdu-rongcheng-fc/"},{"date":"26.10.17","home":"다롄 잉보 FC","away":"선전 신청펑","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186622-2026-10-17-dalian-yingbo/"},{"date":"26.10.11","home":"칭다오 FC","away":"다롄 잉보 FC","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186618-2026-10-11-qingdao-west-coast/"},{"date":"26.09.05","home":"다롄 잉보 FC","away":"칭다오 하이뉴","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186606-2026-09-05-dalian-yingbo/"}]'
+awayRecent: '[{"date":"26.10.24","home":"텐진 진먼후","away":"상하이 하이강","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186635-2026-10-24-tianjin-jinmen-tiger/"},{"date":"26.10.16","home":"허난 FC","away":"텐진 진먼후","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186621-2026-10-16-henan-fc/"},{"date":"26.10.10","home":"청두 룽청","away":"텐진 진먼후","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186615-2026-10-10-chengdu-rongcheng-fc/"},{"date":"26.09.12","home":"텐진 진먼후","away":"랴오닝 선양","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186547-2026-09-12-tianjin-jinmen-tiger/"},{"date":"26.09.06","home":"텐진 진먼후","away":"저장 뤼청","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186612-2026-09-06-tianjin-jinmen-tiger/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "다롄 잉보 FC"
+pickWinResult: "승"
+pickHandicapTeam: "다롄 잉보 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

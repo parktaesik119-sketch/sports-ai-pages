@@ -1,0 +1,2565 @@
+[
+  {
+    "home": "Everton",
+    "away": "Coventry City",
+    "date": "2026-11-06T20:00:00.000Z",
+    "league": "Premier League",
+    "sport": "soccer",
+    "espnSport": "soccer_epl",
+    "gameId": "401879242",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "3",
+        "losses": "2",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "9",
+        "pointsAgainst": "9"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "3",
+        "losses": "6",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "9",
+        "pointsAgainst": "16"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "COV leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2024-07-30T18:45:00Z",
+          "home": "Everton",
+          "away": "Coventry City",
+          "homeScore": 0,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Toulouse",
+    "away": "Strasbourg",
+    "date": "2026-11-06T19:45:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876405",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "2",
+        "losses": "3",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "12",
+        "pointsAgainst": "13"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "3",
+        "losses": "5",
+        "ties": "1",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "17",
+        "pointsAgainst": "19"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-03T15:15:00Z",
+          "home": "Strasbourg",
+          "away": "Toulouse",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-06T18:00:00Z",
+          "home": "Toulouse",
+          "away": "Strasbourg",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-16T16:15:00Z",
+          "home": "Strasbourg",
+          "away": "Toulouse",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-01-12T16:15:00Z",
+          "home": "Toulouse",
+          "away": "Strasbourg",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-07T13:00:00Z",
+          "home": "Toulouse",
+          "away": "Strasbourg",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Venezia",
+    "away": "Udinese",
+    "date": "2026-11-06T19:45:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874815",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "20",
+        "wins": "1",
+        "losses": "9",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "20"
+      },
+      "away": {
+        "rank": "19",
+        "wins": "1",
+        "losses": "7",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "11",
+        "pointsAgainst": "23"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "UDI leads series 4-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-09-02T16:00:00Z",
+          "home": "Udinese",
+          "away": "Venezia",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-02-01T14:00:00Z",
+          "home": "Udinese",
+          "away": "Venezia",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-30T17:30:00Z",
+          "home": "Venezia",
+          "away": "Udinese",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-04-10T13:00:00Z",
+          "home": "Venezia",
+          "away": "Udinese",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-08-27T16:30:00Z",
+          "home": "Udinese",
+          "away": "Venezia",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Dynamo Dresden",
+    "away": "Greuther Fürth",
+    "date": "2026-11-06T17:30:00.000Z",
+    "league": "2. Bundesliga",
+    "sport": "soccer",
+    "espnSport": "soccer_bundesliga2",
+    "gameId": "401885061",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "18",
+        "wins": "2",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "12",
+        "pointsAgainst": "20"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "3",
+        "losses": "4",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "13",
+        "pointsAgainst": "16"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SGF leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-01-17T12:00:00Z",
+          "home": "Dynamo Dresden",
+          "away": "SpVgg Greuther Fürth",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-03T11:30:00Z",
+          "home": "SpVgg Greuther Fürth",
+          "away": "Dynamo Dresden",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-06-09T16:30:00Z",
+          "home": "Dynamo Dresden",
+          "away": "SpVgg Greuther Fürth",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-10-18T16:30:00Z",
+          "home": "SpVgg Greuther Fürth",
+          "away": "Dynamo Dresden",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-04-04T17:00:00Z",
+          "home": "SpVgg Greuther Fürth",
+          "away": "Dynamo Dresden",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Willem II",
+    "away": "PEC Zwolle",
+    "date": "2026-11-06T19:00:00.000Z",
+    "league": "Eredivisie",
+    "sport": "soccer",
+    "espnSport": "soccer_eredivisie",
+    "gameId": "401875556",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "18",
+        "wins": "0",
+        "losses": "9",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "10",
+        "pointsAgainst": "39"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "3",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "12",
+        "pointsAgainst": "23"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PEC leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-05-14T18:00:00Z",
+          "home": "Willem II",
+          "away": "PEC Zwolle",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-12-13T19:00:00Z",
+          "home": "PEC Zwolle",
+          "away": "Willem II",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-03-10T19:00:00Z",
+          "home": "Willem II",
+          "away": "PEC Zwolle",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-09-09T18:00:00Z",
+          "home": "PEC Zwolle",
+          "away": "Willem II",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-01-14T19:00:00Z",
+          "home": "PEC Zwolle",
+          "away": "Willem II",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Arsenal",
+    "away": "Hull City",
+    "date": "2026-11-07T15:00:00.000Z",
+    "league": "Premier League",
+    "sport": "soccer",
+    "espnSport": "soccer_epl",
+    "gameId": "401878760",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "8",
+        "losses": "1",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "14",
+        "pointsAgainst": "5"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "2",
+        "losses": "2",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "11",
+        "pointsAgainst": "10"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ARS leads series 4-0-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2017-02-11T12:30:00Z",
+          "home": "Arsenal",
+          "away": "Hull City",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-09-17T14:00:00Z",
+          "home": "Hull City",
+          "away": "Arsenal",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-03-08T19:00:00Z",
+          "home": "Hull City",
+          "away": "Arsenal",
+          "homeScore": 0,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-02-20T12:45:00Z",
+          "home": "Arsenal",
+          "away": "Hull City",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2015-05-04T19:00:00Z",
+          "home": "Hull City",
+          "away": "Arsenal",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Fulham",
+    "away": "Newcastle United",
+    "date": "2026-11-07T15:00:00.000Z",
+    "league": "Premier League",
+    "sport": "soccer",
+    "espnSport": "soccer_epl",
+    "gameId": "401879241",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "2",
+        "losses": "4",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "9",
+        "pointsAgainst": "11"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "3",
+        "losses": "4",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "12",
+        "pointsAgainst": "15"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "FUL leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-24T15:00:00Z",
+          "home": "Fulham",
+          "away": "Newcastle United",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-17T20:15:00Z",
+          "home": "Newcastle United",
+          "away": "Fulham",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-25T14:00:00Z",
+          "home": "Newcastle United",
+          "away": "Fulham",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-02-01T15:00:00Z",
+          "home": "Newcastle United",
+          "away": "Fulham",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-21T14:00:00Z",
+          "home": "Fulham",
+          "away": "Newcastle United",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Nottingham Forest",
+    "away": "Manchester City",
+    "date": "2026-11-07T17:30:00.000Z",
+    "league": "Premier League",
+    "sport": "soccer",
+    "espnSport": "soccer_epl",
+    "gameId": "401878757",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "19",
+        "wins": "1",
+        "losses": "5",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "6",
+        "pointsAgainst": "12"
+      },
+      "away": {
+        "rank": "2",
+        "wins": "7",
+        "losses": "2",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "20",
+        "pointsAgainst": "10"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MNC leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-04T19:30:00Z",
+          "home": "Manchester City",
+          "away": "Nottingham Forest",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-27T12:30:00Z",
+          "home": "Nottingham Forest",
+          "away": "Manchester City",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-27T15:30:00Z",
+          "home": "Nottingham Forest",
+          "away": "Manchester City",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-08T12:30:00Z",
+          "home": "Nottingham Forest",
+          "away": "Manchester City",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-12-04T19:30:00Z",
+          "home": "Manchester City",
+          "away": "Nottingham Forest",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "VfB Stuttgart",
+    "away": "Werder Bremen",
+    "date": "2026-11-07T17:30:00.000Z",
+    "league": "Bundesliga",
+    "sport": "soccer",
+    "espnSport": "soccer_bundesliga",
+    "gameId": "401884743",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "3",
+        "losses": "5",
+        "ties": "0",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "14",
+        "pointsAgainst": "15"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "4",
+        "losses": "1",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "17",
+        "pointsAgainst": "14"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SVW leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-26T13:30:00Z",
+          "home": "VfB Stuttgart",
+          "away": "Werder Bremen",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-14T18:30:00Z",
+          "home": "Werder Bremen",
+          "away": "VfB Stuttgart",
+          "homeScore": 0,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-13T13:30:00Z",
+          "home": "VfB Stuttgart",
+          "away": "Werder Bremen",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-11-30T14:30:00Z",
+          "home": "Werder Bremen",
+          "away": "VfB Stuttgart",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-21T13:30:00Z",
+          "home": "Werder Bremen",
+          "away": "VfB Stuttgart",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Paris Saint-Germain",
+    "away": "Troyes",
+    "date": "2026-11-07T20:05:00.000Z",
+    "league": "Ligue 1",
+    "sport": "soccer",
+    "espnSport": "soccer_ligue1",
+    "gameId": "401876407",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "6",
+        "losses": "1",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "21",
+        "pointsAgainst": "10"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "2",
+        "losses": "5",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "7",
+        "pointsAgainst": "16"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PSG leads series 4-0-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2023-05-07T18:45:00Z",
+          "home": "Troyes",
+          "away": "Paris Saint-Germain",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-10-29T15:00:00Z",
+          "home": "Paris Saint-Germain",
+          "away": "Troyes",
+          "homeScore": 4,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-05-08T18:45:00Z",
+          "home": "Paris Saint-Germain",
+          "away": "Troyes",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-08-07T19:00:00Z",
+          "home": "Troyes",
+          "away": "Paris Saint-Germain",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2018-03-03T16:00:00Z",
+          "home": "Troyes",
+          "away": "Paris Saint-Germain",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "CF Montréal",
+    "away": "Vancouver Whitecaps",
+    "date": "2026-11-07T21:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761934",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "6",
+        "losses": "19",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "37",
+        "pointsAgainst": "67"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "18",
+        "losses": "8",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "72",
+        "pointsAgainst": "34"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "VAN leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-03-09T02:30:00Z",
+          "home": "Vancouver Whitecaps",
+          "away": "CF Montréal",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-06T23:30:00Z",
+          "home": "CF Montréal",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-04-02T02:30:00Z",
+          "home": "Vancouver Whitecaps",
+          "away": "CF Montréal",
+          "homeScore": 5,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-04-16T19:00:00Z",
+          "home": "CF Montréal",
+          "away": "Vancouver Whitecaps",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-05-08T19:00:00Z",
+          "home": "Vancouver Whitecaps",
+          "away": "CF Montréal",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chicago Fire FC",
+    "away": "Columbus Crew",
+    "date": "2026-11-07T21:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761935",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "16",
+        "losses": "10",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "61",
+        "pointsAgainst": "50"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "13",
+        "losses": "15",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "55",
+        "pointsAgainst": "49"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CLB leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-08T00:30:00Z",
+          "home": "Columbus Crew",
+          "away": "Chicago Fire FC",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-28T00:30:00Z",
+          "home": "Chicago Fire FC",
+          "away": "Columbus Crew",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-02-23T00:30:00Z",
+          "home": "Columbus Crew",
+          "away": "Chicago Fire FC",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-05-19T00:30:00Z",
+          "home": "Chicago Fire FC",
+          "away": "Columbus Crew",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-03-10T00:30:00Z",
+          "home": "Columbus Crew",
+          "away": "Chicago Fire FC",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "DC United",
+    "away": "New York City FC",
+    "date": "2026-11-07T21:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761936",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "7",
+        "losses": "14",
+        "ties": "12",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "39",
+        "pointsAgainst": "60"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "9",
+        "losses": "12",
+        "ties": "12",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "48",
+        "pointsAgainst": "45"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "DC leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-03T19:00:00Z",
+          "home": "New York City FC",
+          "away": "D.C. United",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-30T23:30:00Z",
+          "home": "New York City FC",
+          "away": "D.C. United",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-14T23:30:00Z",
+          "home": "D.C. United",
+          "away": "New York City FC",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-14T23:30:00Z",
+          "home": "D.C. United",
+          "away": "New York City FC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-20T23:30:00Z",
+          "home": "New York City FC",
+          "away": "D.C. United",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Cincinnati",
+    "away": "Nashville SC",
+    "date": "2026-11-07T21:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761937",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "12",
+        "losses": "11",
+        "ties": "10",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "67",
+        "pointsAgainst": "73"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "22",
+        "losses": "3",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "69",
+        "pointsAgainst": "25"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-30T00:30:00Z",
+          "home": "Nashville SC",
+          "away": "FC Cincinnati",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-13T23:30:00Z",
+          "home": "FC Cincinnati",
+          "away": "Nashville SC",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-30T00:30:00Z",
+          "home": "Nashville SC",
+          "away": "FC Cincinnati",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-22T00:30:00Z",
+          "home": "Nashville SC",
+          "away": "FC Cincinnati",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-05-29T23:30:00Z",
+          "home": "FC Cincinnati",
+          "away": "Nashville SC",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Inter Miami CF",
+    "away": "Charlotte FC",
+    "date": "2026-11-07T21:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761938",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "16",
+        "losses": "6",
+        "ties": "11",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "77",
+        "pointsAgainst": "56"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "15",
+        "losses": "10",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "63",
+        "pointsAgainst": "48"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIA leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-14T23:30:00Z",
+          "home": "Charlotte FC",
+          "away": "Inter Miami CF",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-13T23:30:00Z",
+          "home": "Charlotte FC",
+          "away": "Inter Miami CF",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-09T20:00:00Z",
+          "home": "Inter Miami CF",
+          "away": "Charlotte FC",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-28T23:30:00Z",
+          "home": "Inter Miami CF",
+          "away": "Charlotte FC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-03T23:30:00Z",
+          "home": "Charlotte FC",
+          "away": "Inter Miami CF",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Orlando City",
+    "away": "New England Revolution",
+    "date": "2026-11-07T21:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761940",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "12",
+        "losses": "14",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "62",
+        "pointsAgainst": "78"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "18",
+        "losses": "11",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "55",
+        "pointsAgainst": "46"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ORL leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-09-19T23:30:00Z",
+          "home": "New England Revolution",
+          "away": "Orlando City SC",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-29T23:30:00Z",
+          "home": "New England Revolution",
+          "away": "Orlando City SC",
+          "homeScore": 3,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-07-19T23:30:00Z",
+          "home": "New England Revolution",
+          "away": "Orlando City SC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-10T23:30:00Z",
+          "home": "Orlando City SC",
+          "away": "New England Revolution",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-14T23:30:00Z",
+          "home": "Orlando City SC",
+          "away": "New England Revolution",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Philadelphia Union",
+    "away": "Toronto FC",
+    "date": "2026-11-07T21:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761941",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "6",
+        "wins": "13",
+        "losses": "12",
+        "ties": "8",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "62",
+        "pointsAgainst": "51"
+      },
+      "away": {
+        "rank": "12",
+        "wins": "9",
+        "losses": "12",
+        "ties": "12",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "51",
+        "pointsAgainst": "63"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "series tied 1-1-3",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-22T23:30:00Z",
+          "home": "Toronto FC",
+          "away": "Philadelphia Union",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-09T23:30:00Z",
+          "home": "Philadelphia Union",
+          "away": "Toronto FC",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-28T23:30:00Z",
+          "home": "Toronto FC",
+          "away": "Philadelphia Union",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-07-13T23:30:00Z",
+          "home": "Toronto FC",
+          "away": "Philadelphia Union",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-05-29T23:30:00Z",
+          "home": "Philadelphia Union",
+          "away": "Toronto FC",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Red Bull New York",
+    "away": "Atlanta United",
+    "date": "2026-11-07T21:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761939",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "11",
+        "losses": "16",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "45",
+        "pointsAgainst": "62"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "9",
+        "losses": "18",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "43",
+        "pointsAgainst": "57"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ATL leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-15T23:30:00Z",
+          "home": "Atlanta United FC",
+          "away": "Red Bull New York",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-31T23:30:00Z",
+          "home": "Red Bull New York",
+          "away": "Atlanta United FC",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-09T00:30:00Z",
+          "home": "Atlanta United FC",
+          "away": "Red Bull New York",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-05T23:30:00Z",
+          "home": "Atlanta United FC",
+          "away": "Red Bull New York",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-21T23:30:00Z",
+          "home": "Red Bull New York",
+          "away": "Atlanta United FC",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Austin FC",
+    "away": "Portland Timbers",
+    "date": "2026-11-08T00:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761942",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "8",
+        "losses": "15",
+        "ties": "10",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "42",
+        "pointsAgainst": "63"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "12",
+        "losses": "14",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "60",
+        "pointsAgainst": "61"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-30T02:30:00Z",
+          "home": "Portland Timbers",
+          "away": "Austin FC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-05T23:45:00Z",
+          "home": "Austin FC",
+          "away": "Portland Timbers",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-02T03:30:00Z",
+          "home": "Portland Timbers",
+          "away": "Austin FC",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-03T02:30:00Z",
+          "home": "Portland Timbers",
+          "away": "Austin FC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-05-30T00:30:00Z",
+          "home": "Austin FC",
+          "away": "Portland Timbers",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "FC Dallas",
+    "away": "Colorado Rapids",
+    "date": "2026-11-08T00:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761943",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "15",
+        "losses": "8",
+        "ties": "10",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "59",
+        "pointsAgainst": "50"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "12",
+        "losses": "14",
+        "ties": "7",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "46",
+        "pointsAgainst": "47"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-24T01:30:00Z",
+          "home": "Colorado Rapids",
+          "away": "FC Dallas",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-21T00:30:00Z",
+          "home": "FC Dallas",
+          "away": "Colorado Rapids",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-02T02:30:00Z",
+          "home": "Colorado Rapids",
+          "away": "FC Dallas",
+          "homeScore": 3,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-01T00:30:00Z",
+          "home": "FC Dallas",
+          "away": "Colorado Rapids",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-04-21T01:30:00Z",
+          "home": "Colorado Rapids",
+          "away": "FC Dallas",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Minnesota United",
+    "away": "San Jose Earthquakes",
+    "date": "2026-11-08T00:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761945",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "10",
+        "losses": "12",
+        "ties": "11",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "53",
+        "pointsAgainst": "57"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "14",
+        "losses": "9",
+        "ties": "10",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "56",
+        "pointsAgainst": "48"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIN leads series 4-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-08-23T02:30:00Z",
+          "home": "San Jose Earthquakes",
+          "away": "Minnesota United FC",
+          "homeScore": 1,
+          "awayScore": 5,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-04-29T02:00:00Z",
+          "home": "San Jose Earthquakes",
+          "away": "Minnesota United FC",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-07-13T00:30:00Z",
+          "home": "Minnesota United FC",
+          "away": "San Jose Earthquakes",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-09T03:30:00Z",
+          "home": "San Jose Earthquakes",
+          "away": "Minnesota United FC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-09-01T02:30:00Z",
+          "home": "San Jose Earthquakes",
+          "away": "Minnesota United FC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Real Salt Lake",
+    "away": "LA Galaxy",
+    "date": "2026-11-08T00:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761946",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "12",
+        "losses": "15",
+        "ties": "6",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "51",
+        "pointsAgainst": "51"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "11",
+        "losses": "11",
+        "ties": "11",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "49",
+        "pointsAgainst": "55"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LA leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-04-26T23:00:00Z",
+          "home": "LA Galaxy",
+          "away": "Real Salt Lake",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-06-01T02:30:00Z",
+          "home": "LA Galaxy",
+          "away": "Real Salt Lake",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-04-05T20:30:00Z",
+          "home": "Real Salt Lake",
+          "away": "LA Galaxy",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-23T01:30:00Z",
+          "home": "Real Salt Lake",
+          "away": "LA Galaxy",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-05-12T02:30:00Z",
+          "home": "LA Galaxy",
+          "away": "Real Salt Lake",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Diego FC",
+    "away": "Sporting Kansas City",
+    "date": "2026-11-08T00:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761947",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "9",
+        "losses": "13",
+        "ties": "11",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "57",
+        "pointsAgainst": "62"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "6",
+        "losses": "22",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "39",
+        "pointsAgainst": "81"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SD leads series 2-0-1",
+      "totalGames": 3,
+      "games": [
+        {
+          "date": "2026-03-08T01:30:00Z",
+          "home": "Sporting Kansas City",
+          "away": "San Diego FC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-08-10T00:45:00Z",
+          "home": "Sporting Kansas City",
+          "away": "San Diego FC",
+          "homeScore": 0,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-18T02:30:00Z",
+          "home": "San Diego FC",
+          "away": "Sporting Kansas City",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Seattle Sounders FC",
+    "away": "Los Angeles FC",
+    "date": "2026-11-08T00:00:00.000Z",
+    "league": "Major League Soccer",
+    "sport": "soccer",
+    "espnSport": "soccer_mls",
+    "gameId": "761948",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "11",
+        "losses": "12",
+        "ties": "10",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "42",
+        "pointsAgainst": "45"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "12",
+        "losses": "10",
+        "ties": "11",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "51",
+        "pointsAgainst": "38"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LAFC leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-25T01:15:00Z",
+          "home": "LAFC",
+          "away": "Seattle Sounders FC",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-15T02:30:00Z",
+          "home": "LAFC",
+          "away": "Seattle Sounders FC",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-03-08T21:45:00Z",
+          "home": "Seattle Sounders FC",
+          "away": "LAFC",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-11-24T03:30:00Z",
+          "home": "LAFC",
+          "away": "Seattle Sounders FC",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-29T02:30:00Z",
+          "home": "Seattle Sounders FC",
+          "away": "LAFC",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Parma",
+    "away": "Bologna",
+    "date": "2026-11-07T17:00:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874974",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "2",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "8",
+        "pointsAgainst": "15"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "4",
+        "losses": "4",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "14",
+        "pointsAgainst": "13"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-02-08T11:30:00Z",
+          "home": "Bologna",
+          "away": "Parma",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-12-04T17:00:00Z",
+          "home": "Bologna",
+          "away": "Parma",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-02T17:00:00Z",
+          "home": "Parma",
+          "away": "Bologna",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-02-22T14:00:00Z",
+          "home": "Parma",
+          "away": "Bologna",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-06T13:00:00Z",
+          "home": "Bologna",
+          "away": "Parma",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Roma",
+    "away": "Sassuolo",
+    "date": "2026-11-07T19:45:00.000Z",
+    "league": "Serie A",
+    "sport": "soccer",
+    "espnSport": "soccer_seriea",
+    "gameId": "401874803",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "7",
+        "losses": "0",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "28",
+        "pointsAgainst": "10"
+      },
+      "away": {
+        "rank": "17",
+        "wins": "2",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "16",
+        "pointsAgainst": "26"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ROMA leads series 4-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-01-10T17:00:00Z",
+          "home": "AS Roma",
+          "away": "Sassuolo",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-26T14:00:00Z",
+          "home": "Sassuolo",
+          "away": "AS Roma",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-03-17T17:00:00Z",
+          "home": "AS Roma",
+          "away": "Sassuolo",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-12-03T17:00:00Z",
+          "home": "Sassuolo",
+          "away": "AS Roma",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-03-12T17:00:00Z",
+          "home": "AS Roma",
+          "away": "Sassuolo",
+          "homeScore": 3,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Fortuna Sittard",
+    "away": "Telstar",
+    "date": "2026-11-07T15:30:00.000Z",
+    "league": "Eredivisie",
+    "sport": "soccer",
+    "espnSport": "soccer_eredivisie",
+    "gameId": "401875555",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "6",
+        "wins": "5",
+        "losses": "2",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "18",
+        "pointsAgainst": "18"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "2",
+        "losses": "6",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "16",
+        "pointsAgainst": "23"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "FOR leads series 2-1-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-08T13:30:00Z",
+          "home": "Fortuna Sittard",
+          "away": "Telstar",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-09-14T14:45:00Z",
+          "home": "Telstar",
+          "away": "Fortuna Sittard",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2018-02-16T19:00:00Z",
+          "home": "Fortuna Sittard",
+          "away": "Telstar",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2017-09-29T18:00:00Z",
+          "home": "Telstar",
+          "away": "Fortuna Sittard",
+          "homeScore": 0,
+          "awayScore": 6,
+          "isCompleted": true
+        },
+        {
+          "date": "2017-01-20T19:00:00Z",
+          "home": "Fortuna Sittard",
+          "away": "Telstar",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "ADO Den Haag",
+    "away": "Sparta Rotterdam",
+    "date": "2026-11-07T17:45:00.000Z",
+    "league": "Eredivisie",
+    "sport": "soccer",
+    "espnSport": "soccer_eredivisie",
+    "gameId": "401875552",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "17",
+        "wins": "1",
+        "losses": "7",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "13",
+        "pointsAgainst": "24"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "3",
+        "losses": "5",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "20",
+        "pointsAgainst": "26"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 2-2-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2023-12-20T17:45:00Z",
+          "home": "ADO Den Haag",
+          "away": "Sparta Rotterdam",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-01-31T15:45:00Z",
+          "home": "ADO Den Haag",
+          "away": "Sparta Rotterdam",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-11-22T13:30:00Z",
+          "home": "Sparta Rotterdam",
+          "away": "ADO Den Haag",
+          "homeScore": 6,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-10-28T17:45:00Z",
+          "home": "ADO Den Haag",
+          "away": "Sparta Rotterdam",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-02-11T19:45:00Z",
+          "home": "Sparta Rotterdam",
+          "away": "ADO Den Haag",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Excelsior",
+    "away": "Go Ahead Eagles",
+    "date": "2026-11-07T20:00:00.000Z",
+    "league": "Eredivisie",
+    "sport": "soccer",
+    "espnSport": "soccer_eredivisie",
+    "gameId": "401875554",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "3",
+        "losses": "6",
+        "ties": "2",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "16",
+        "pointsAgainst": "28"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "3",
+        "losses": "3",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "23",
+        "pointsAgainst": "27"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "GAE leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-03-01T19:00:00Z",
+          "home": "Excelsior",
+          "away": "Go Ahead Eagles",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-10-26T19:00:00Z",
+          "home": "Go Ahead Eagles",
+          "away": "Excelsior",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-03-30T19:00:00Z",
+          "home": "Go Ahead Eagles",
+          "away": "Excelsior",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-12-16T17:45:00Z",
+          "home": "Excelsior",
+          "away": "Go Ahead Eagles",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-04-14T18:00:00Z",
+          "home": "Excelsior",
+          "away": "Go Ahead Eagles",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Seattle Kraken",
+    "away": "New York Rangers",
+    "date": "2026-11-07T22:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892664",
+    "injuries": {
+      "home": [
+        {
+          "name": "Curtis Douglas",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Jared McCann",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Jacob Melanson",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Ryan Lindgren",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Jake O'Brien",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Sean Durzi",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Joonas Korpisalo",
+          "status": "Injured Reserve",
+          "detail": "Infection"
+        },
+        {
+          "name": "Igor Shesterkin",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Joe Veleno",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Aidan Thompson",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "6",
+        "wins": "9",
+        "losses": "5",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "54",
+        "pointsAgainst": "53"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "8",
+        "losses": "7",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "9",
+        "pointsFor": "48",
+        "pointsAgainst": "47"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Nashville Predators",
+    "away": "St. Louis Blues",
+    "date": "2026-11-07T18:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892663",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jonathan Marchessault",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Logan Mailloux",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Torey Krug",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Dillon Dube",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Tyler Tucker",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "6",
+        "losses": "4",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "8",
+        "pointsFor": "46",
+        "pointsAgainst": "48"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "7",
+        "losses": "7",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "10",
+        "pointsFor": "45",
+        "pointsAgainst": "45"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NSH leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-18T00:00:00Z",
+          "home": "Nashville Predators",
+          "away": "St. Louis Blues",
+          "homeScore": 5,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Washington Capitals",
+    "away": "Florida Panthers",
+    "date": "2026-11-07T17:30:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892662",
+    "injuries": {
+      "home": [
+        {
+          "name": "Vincent Desharnais",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Rasmus Sandin",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Patrick Thomas",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Brad Marchand",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Aleksander Barkov",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Jonah Gadjovich",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "8",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "10",
+        "pointsFor": "49",
+        "pointsAgainst": "48"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "9",
+        "losses": "5",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "52",
+        "pointsAgainst": "47"
+      }
+    },
+    "h2h": null
+  }
+]

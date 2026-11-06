@@ -1,0 +1,37 @@
+---
+title: "산둥 타이산 vs 청두 룽청 축구분석·승부예측 (11월 8일) - 픽천국"
+date: 2026-11-08T07:30:00.000Z
+description: "산둥 타이산 vs 청두 룽청 축구분석: 산둥 타이산은 최근 물 오른 득점력을 바탕으로 홈에서 유리한 경기를 풀어갈 것으로 보입니다. 청두 룽청은 최근 원정 경기에서 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186640-2026-11-08-shandong-taishan"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "산둥 타이산"
+awayTeam: "청두 룽청"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8623.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/737052.png"
+homeAnalysis: "산둥 타이산은 앞선 26경기에서 10승 6무 10패로 승률 38%를 기록했고 최근 공수 양면에서 안정된 흐름을 이어가고 있습니다. 특히 최근 10경기에서 6승을 챙기며 상승세를 타고 있고 평균 득점도 2.1골까지 끌어올렸습니다. 직전 우한전에서 5골을 폭발시키는 등 막강한 화력을 과시했습니다. 홈 경기에서도 꾸준히 득점을 만들어내며 좋은 기억을 쌓아가고 있습니다. 이번 경기에서도 이러한 공격력을 바탕으로 주도권을 잡으려 할 것입니다."
+awayAnalysis: "청두 룽청은 앞선 23경기에서 8승 8무 7패로 승률 35%를 기록했고 최근 다소 주춤한 흐름을 보이고 있습니다. 최근 10경기 성적이 2승 3무 5패에 그치며 승리를 챙기는 데 어려움을 겪고 있습니다. 이 기간 동안 평균 득점도 1.2골로 떨어지며 공격 전개에 아쉬움을 남겼습니다. 원정 일정에서는 수비 집중력이 흔들리는 모습을 자주 노출했습니다. 이번 경기를 통해 반전을 노리겠지만 전체적인 흐름 회복이 시급합니다."
+homePower: "최근 10경기에서 6승을 거두며 확실한 상승세 탐색함|평균 득점 2.1골을 기록하며 공격력에서 강점 보임|홈 경기에서 다득점 생산 능력이 검증됨|공수 밸런스가 안정적으로 유지되는 흐름임|상대 전적의 열세를 극복할 전력 우위 확보함"
+awayPower: "최근 10경기 2승에 그치며 흐름이 다소 정체됨|원정 경기에서 수비 집중력 유지가 중요한 과제로 남음|공격 전개 시 세밀함이 다소 부족한 모습 보임|평균 득점이 떨어지며 결정력 보완이 필요함|상대와의 최근 맞대결 우위를 이어가야 하는 부담 있음"
+h2h: '[{"date":"26.05.30","home":"청두 룽청","away":"산둥 타이산","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1523173-2026-05-30-chengdu-better-city/"},{"date":"25.08.02","home":"청두 룽청","away":"산둥 타이산","score":"2-1"},{"date":"25.06.20","home":"산둥 타이산","away":"청두 룽청","score":"1-3"},{"date":"25.04.02","home":"산둥 타이산","away":"청두 룽청","score":"0-3"},{"date":"24.09.24","home":"산둥 타이산","away":"청두 룽청","score":"1-0"}]'
+summary: "산둥 타이산은 최근 물 오른 득점력을 바탕으로 홈에서 유리한 경기를 풀어갈 것으로 보입니다. 청두 룽청은 최근 원정 경기에서 부진한 흐름을 보이고 있어 수비 안정화가 우선 과제입니다. 양 팀의 최근 전력과 득점력을 비교했을 때 산둥 타이산이 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.24","home":"우한 쓰리 타운즈","away":"산둥 타이산","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186636-2026-10-24-wuhan-three-towns/"},{"date":"26.10.17","home":"산둥 타이산","away":"저장 뤼청","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186625-2026-10-17-shandong-taishan/"},{"date":"26.10.11","home":"충칭 통량룽","away":"산둥 타이산","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186619-2026-10-11-chongqing-tongliang-long/"},{"date":"26.09.05","home":"산둥 타이산","away":"선전 신청펑","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186608-2026-09-05-shandong-taishan/"},{"date":"26.09.01","home":"산둥 타이산","away":"상하이 하이강","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5961059-2026-09-01-shandong-taishan/"}]'
+awayRecent: '[{"date":"26.10.24","home":"청두 룽청","away":"다롄 잉보 FC","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186629-2026-10-24-chengdu-rongcheng-fc/"},{"date":"26.10.18","home":"상하이 하이강","away":"청두 룽청","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186628-2026-10-18-shanghai-port/"},{"date":"26.10.10","home":"청두 룽청","away":"텐진 진먼후","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186615-2026-10-10-chengdu-rongcheng-fc/"},{"date":"26.09.06","home":"허난 FC","away":"청두 룽청","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186610-2026-09-06-henan-fc/"},{"date":"26.08.29","home":"청두 룽청","away":"랴오닝 선양","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186601-2026-08-29-chengdu-rongcheng-fc/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "산둥 타이산"
+pickWinResult: "승"
+pickHandicapTeam: "산둥 타이산"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

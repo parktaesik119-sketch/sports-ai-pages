@@ -1,0 +1,37 @@
+---
+title: "칭다오 하이뉴 vs 선전 신청펑 축구분석·승부예측 (11월 8일) - 픽천국"
+date: 2026-11-08T07:30:00.000Z
+description: "칭다오 하이뉴 vs 선전 신청펑 축구분석: 칭다오 하이뉴와 선전 신청펑의 맞대결에서는 양 팀의 최근 흐름과 전력 차이가 명확하게 갈리는 양상을 보이고 있습니다. 홈팀은 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186639-2026-11-08-qingdao-hainiu"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "칭다오 하이뉴"
+awayTeam: "선전 신청펑"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4183.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/930027.png"
+homeAnalysis: "칭다오 하이뉴는 앞선 24경기에서 3승 3무 18패로 승률 13%를 기록했고, 최근 공식 경기에서 전반적으로 부진한 흐름을 벗어나지 못하고 있습니다. 최근 10경기 흐름을 살펴보면 1승 9패로 승수를 쌓는 데 큰 어려움을 겪고 있으며 수비진에서 다실점을 허용하는 경향이 짙습니다. 공격 과정에서도 빈공에 시달리며 평균 득점력이 다소 아쉬운 모습을 보이고 있습니다. 홈 경기에서도 반등의 계기를 마련하지 못하고 무기력하게 무너지는 경기가 늘어나고 있습니다. 이번 경기에서는 수비 조직력을 가다듬고 공격에서 실마리를 찾아야 하는 무거운 과제를 안고 임하게 됩니다."
+awayAnalysis: "선전 신청펑은 앞선 25경기에서 6승 7무 12패로 승률 24%를 기록했고, 비교적 끈질긴 경기 운영을 선보이며 승점을 차곡차곡 쌓아왔습니다. 최근 10경기 성적은 2승 3무 5패로 기복이 다소 존재하지만 패배를 쉽게 허용하지 않는 탄력성을 보여주고 있습니다. 원정 경기에서도 쉽게 물러서지 않는 집중력을 발휘하며 상대를 압박하는 모습을 종종 연출합니다. 공격진의 효율성은 다소 아쉽지만 수비에서 버텨주는 힘이 비교적 안정적인 축에 속합니다. 전반적인 흐름과 최근 경기력 면에서 홈팀보다는 우위에 서 있는 형국입니다."
+homePower: "최근 10경기 1승 9패로 심각한 부진에 빠짐|공수 균형이 무너져 다실점 경기가 속출함|안방 이점을 전혀 살리지 못하고 연패를 거듭함|공격 전개 능력이 떨어져 득점 생산에 어려움을 겪음|수비 집중력 저하로 경기 초반 실점 허용이 잦음"
+awayPower: "최근 10경기 무승부 비율이 높아 끈질긴 면모를 보임|원정 경기에서도 승점을 챙기는 저력을 발휘함|실점을 최소화하며 경기를 팽팽하게 끌고 가는 능력이 있음|공격 효율성은 낮으나 결정적 기회를 놓치지 않음|상대 전적 우위를 바탕으로 심리적 우세를 점하고 있음"
+h2h: '[{"date":"26.05.30","home":"선전 신청펑","away":"칭다오 하이뉴","score":"3-2","link":"https://pick79.com/posts/detail/analyze-1523176-2026-05-30-sichuan-jiuniu/"},{"date":"25.07.19","home":"선전 신청펑","away":"칭다오 하이뉴","score":"4-0"},{"date":"25.03.01","home":"칭다오 하이뉴","away":"선전 신청펑","score":"0-1"},{"date":"24.08.17","home":"칭다오 하이뉴","away":"선전 신청펑","score":"1-0"},{"date":"24.04.26","home":"선전 신청펑","away":"칭다오 하이뉴","score":"1-3"}]'
+summary: "칭다오 하이뉴와 선전 신청펑의 맞대결에서는 양 팀의 최근 흐름과 전력 차이가 명확하게 갈리는 양상을 보이고 있습니다. 홈팀은 지속된 부진과 수비 불안을 노출하며 고전하고 있는 반면, 원정팀은 끈끈한 조직력을 바탕으로 안정적인 경기 운영을 펼쳐왔습니다. 상대 전적에서도 원정팀이 우위를 점하며 심리적인 여유를 가지고 그라운드에 나설 것으로 보입니다. 전반적인 공수 밸런스와 최근 경기력에서 우세한 선전 신청펑이 경기의 주도권을 잡고 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.10.24","home":"충칭 통량룽","away":"칭다오 하이뉴","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186630-2026-10-24-chongqing-tongliang-long/"},{"date":"26.10.17","home":"칭다오 하이뉴","away":"랴오닝 선양","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186623-2026-10-17-qingdao-hainiu/"},{"date":"26.10.09","home":"칭다오 하이뉴","away":"베이징 궈안","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186617-2026-10-09-qingdao-hainiu/"},{"date":"26.09.05","home":"다롄 잉보 FC","away":"칭다오 하이뉴","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186606-2026-09-05-dalian-yingbo/"},{"date":"26.08.29","home":"칭다오 하이뉴","away":"우한 쓰리 타운즈","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186604-2026-08-29-qingdao-hainiu/"}]'
+awayRecent: '[{"date":"26.10.24","home":"선전 신청펑","away":"상하이 선화","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186634-2026-10-24-shenzhen-peng-city/"},{"date":"26.10.17","home":"다롄 잉보 FC","away":"선전 신청펑","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186622-2026-10-17-dalian-yingbo/"},{"date":"26.10.09","home":"선전 신청펑","away":"허난 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186613-2026-10-09-shenzhen-peng-city/"},{"date":"26.09.05","home":"산둥 타이산","away":"선전 신청펑","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186608-2026-09-05-shandong-taishan/"},{"date":"26.08.28","home":"선전 신청펑","away":"상하이 하이강","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186598-2026-08-28-shenzhen-peng-city/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "선전 신청펑"
+pickWinResult: "승"
+pickHandicapTeam: "선전 신청펑"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "0"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

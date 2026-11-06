@@ -1,0 +1,37 @@
+---
+title: "윈난 유쿤 vs 우한 쓰리 타운즈 축구분석·승부예측 (11월 8일) - 픽천국"
+date: 2026-11-08T07:30:00.000Z
+description: "윈난 유쿤 vs 우한 쓰리 타운즈 축구분석: 윈난 유쿤과 우한 쓰리 타운즈의 이번 맞대결은 홈팀의 전력 우세 속에서 흥미롭게 전개될 것으로 보입니다. 윈난 유쿤은 최근 홈… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5186643-2026-11-08-yunnan-yukun"
+category: "soccer"
+country: "중국"
+league: "Super League"
+homeTeam: "윈난 유쿤"
+awayTeam: "우한 쓰리 타운즈"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1477056.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/1029687.png"
+homeAnalysis: "윈난 유쿤은 앞선 26경기에서 11승 8무 7패로 승률 42%를 기록했고 안정적인 공격력을 바탕으로 상위권 도약을 노리고 있습니다. 최근 치른 10경기에서도 꾸준한 득점력을 보여주며 팀 전력이 안정적인 상승세를 타고 있습니다. 홈 경기에서는 특히 공격 집중력이 살아나며 다득점 경기를 자주 만들어내는 모습이 인상적입니다. 수비 측면에서 다소 기복을 보이기도 하지만 전체적인 경기 운영 능력은 충분히 신뢰할 만합니다. 이번 경기를 앞두고도 홈의 이점을 살려 주도권을 잡으려는 움직임이 뚜렷합니다."
+awayAnalysis: "우한 쓰리 타운즈는 앞선 24경기에서 3승 14무 7패로 승률 13%를 기록했고 다소 아쉬운 흐름 속에서 승리를 찾아가기 위해 분전하고 있습니다. 무승부가 많은 편이지만 최근 10경기에서도 원정 고비를 넘기기 위해 수비적인 안정감을 다지는 데 집중해 왔습니다. 공격 전개 과정에서 세밀함이 조금 부족하다는 평가를 받지만 꾸준히 득점포를 가동하며 반등의 발판을 마련하고 있습니다. 원정 경기에서 쉽게 무너지지 않는 끈질긴 면모를 보여주지만 승리로 연결하는 결정력이 다소 아쉽습니다. 이번 원정에서도 단단한 수비를 바탕으로 역습 기회를 노릴 것으로 보입니다."
+homePower: "최근 홈 경기 다득점 양상, 공격 집중력 매우 높음|안정적인 전력 운영으로 최근 10경기 흐름 양호함|공수 밸런스 속에서 홈 이점 확실히 살리는 편임|수비 불안 요소 있으나 화력으로 충분히 상쇄함|주도권 장악 능력이 뛰어나 경기 운영에 유리함"
+awayPower: "무승부 비중 높으나 원정에서 쉽게 지지 않는 끈기 있음|최근 경기 꾸준한 득점력으로 반등 가능성 보여줌|수비 집중력 유지하며 실점 최소화에 주력하는 모습임|원정 원투펀치 활용한 역습 전개가 핵심 무기임|결정력 보완한다면 상위 팀 상대로도 위협적임"
+h2h: '[{"date":"26.05.31","home":"우한 쓰리 타운즈","away":"윈난 유쿤","score":"1-1","link":"https://pick79.com/posts/detail/analyze-1523178-2026-05-31-wuhan-three-towns/"},{"date":"25.08.15","home":"윈난 유쿤","away":"우한 쓰리 타운즈","score":"2-1"},{"date":"25.04.12","home":"우한 쓰리 타운즈","away":"윈난 유쿤","score":"3-1"}]'
+summary: "윈난 유쿤과 우한 쓰리 타운즈의 이번 맞대결은 홈팀의 전력 우세 속에서 흥미롭게 전개될 것으로 보입니다. 윈난 유쿤은 최근 홈 경기에서 보여준 막강한 화력과 안정적인 경기 운영 능력을 바탕으로 경기의 주도권을 잡을 가능성이 높습니다. 우한 쓰리 타운즈 역시 끈질긴 수비와 원정에서의 집중력으로 맞서겠지만 윈난 유쿤의 날카로운 공격력을 제어하기엔 다소 버거워 보입니다. 양 팀의 전력 차이와 최근 흐름을 종합해 볼 때 홈팀 윈난 유쿤이 우위를 점하며 경기를 승리로 이끌 것으로 기대됩니다."
+homeRecent: '[{"date":"26.11.01","home":"윈난 유쿤","away":"다롄 잉보 FC","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6146318-2026-11-01-yunnan-yukun/"},{"date":"26.10.24","home":"칭다오 FC","away":"윈난 유쿤","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186633-2026-10-24-qingdao-west-coast/"},{"date":"26.10.17","home":"윈난 유쿤","away":"충칭 통량룽","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186624-2026-10-17-yunnan-yukun/"},{"date":"26.10.10","home":"상하이 선화","away":"윈난 유쿤","score":"7-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186616-2026-10-10-shanghai-shenhua/"},{"date":"26.09.06","home":"윈난 유쿤","away":"랴오닝 선양","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186611-2026-09-06-yunnan-yukun/"}]'
+awayRecent: '[{"date":"26.10.24","home":"우한 쓰리 타운즈","away":"산둥 타이산","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186636-2026-10-24-wuhan-three-towns/"},{"date":"26.10.18","home":"우한 쓰리 타운즈","away":"상하이 선화","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186626-2026-10-18-wuhan-three-towns/"},{"date":"26.10.11","home":"랴오닝 선양","away":"우한 쓰리 타운즈","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186620-2026-10-11-liaoning-tieren/"},{"date":"26.09.18","home":"저장 뤼청","away":"우한 쓰리 타운즈","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186576-2026-09-18-zhejiang-professional/"},{"date":"26.09.12","home":"우한 쓰리 타운즈","away":"허난 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186542-2026-09-12-wuhan-three-towns/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "윈난 유쿤"
+pickWinResult: "승"
+pickHandicapTeam: "윈난 유쿤"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---
