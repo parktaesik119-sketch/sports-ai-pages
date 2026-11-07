@@ -2974,12 +2974,12 @@
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
+        "gamesBehind": "8",
         "pointsFor": "54",
         "pointsAgainst": "53"
       },
       "away": {
-        "rank": "8",
+        "rank": "9",
         "wins": "9",
         "losses": "7",
         "ties": null,
@@ -3037,7 +3037,7 @@
         "losses": "4",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
+        "gamesBehind": "8",
         "pointsFor": "49",
         "pointsAgainst": "50"
       },
@@ -3047,7 +3047,7 @@
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "9",
+        "gamesBehind": "11",
         "pointsFor": "49",
         "pointsAgainst": "50"
       }
@@ -3182,7 +3182,7 @@
         "losses": "8",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "10",
+        "gamesBehind": "12",
         "pointsFor": "45",
         "pointsAgainst": "60"
       },
@@ -3254,14 +3254,14 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
-        "wins": "7",
+        "rank": "8",
+        "wins": "8",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "11",
-        "pointsFor": "44",
-        "pointsAgainst": "51"
+        "gamesBehind": "9",
+        "pointsFor": "49",
+        "pointsAgainst": "53"
       },
       "away": {
         "rank": "3",
@@ -3269,7 +3269,7 @@
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "1",
+        "gamesBehind": "3",
         "pointsFor": "60",
         "pointsAgainst": "50"
       }
@@ -3410,7 +3410,7 @@
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "-",
+        "gamesBehind": "2",
         "pointsFor": "71",
         "pointsAgainst": "53"
       },
@@ -3420,7 +3420,7 @@
         "losses": "14",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "18",
+        "gamesBehind": "20",
         "pointsFor": "53",
         "pointsAgainst": "83"
       }
@@ -3505,7 +3505,7 @@
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
+        "gamesBehind": "7",
         "pointsFor": "68",
         "pointsAgainst": "56"
       },
@@ -3588,7 +3588,7 @@
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "13",
+        "gamesBehind": "15",
         "pointsFor": "43",
         "pointsAgainst": "47"
       },
@@ -3616,6 +3616,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Michael McCarron",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Nick Foligno",
           "status": "Injured Reserve",
           "detail": ""
@@ -3634,11 +3639,6 @@
           "name": "Jared Spurgeon",
           "status": "Injured Reserve",
           "detail": ""
-        },
-        {
-          "name": "Brock Faber",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
         }
       ],
       "away": [
@@ -3652,13 +3652,13 @@
     "standings": {
       "home": {
         "rank": "1",
-        "wins": "11",
+        "wins": "12",
         "losses": "3",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "-",
-        "pointsFor": "56",
-        "pointsAgainst": "38"
+        "pointsFor": "60",
+        "pointsAgainst": "39"
       },
       "away": {
         "rank": "4",
@@ -3753,19 +3753,19 @@
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
+        "gamesBehind": "7",
         "pointsFor": "45",
         "pointsAgainst": "38"
       },
       "away": {
         "rank": "13",
         "wins": "7",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "10",
-        "pointsFor": "44",
-        "pointsAgainst": "61"
+        "gamesBehind": "12",
+        "pointsFor": "45",
+        "pointsAgainst": "65"
       }
     },
     "h2h": {
@@ -3835,7 +3835,7 @@
         "losses": "12",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "16",
+        "gamesBehind": "18",
         "pointsFor": "37",
         "pointsAgainst": "67"
       }
@@ -3922,7 +3922,7 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "10",
         "wins": "8",
         "losses": "7",
         "ties": null,
@@ -4034,7 +4034,7 @@
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
+        "gamesBehind": "6",
         "pointsFor": "61",
         "pointsAgainst": "59"
       }
