@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.24","home":"알샤르자","away":"Al Orooba","score
 awayRecent: '[{"date":"26.11.04","home":"알힐랄","away":"샤밥 알아흘리 두바이","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6050095-2026-11-04-al-hilal/"},{"date":"26.10.28","home":"샤밥 알아흘리 두바이","away":"에스테글랄","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050086-2026-10-28-shabab-al-ahli-dubai-fc/"},{"date":"26.10.23","home":"샤밥 알아흘리 두바이","away":"알아인","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6428995-2026-10-23-shabab-al-ahli-dubai-fc/"},{"date":"26.10.18","home":"샤밥 알아흘리 두바이","away":"알아인","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000021964-2026-10-18-shabab-al-ahli-dubai-fc/"},{"date":"26.10.14","home":"알이티하드","away":"샤밥 알아흘리 두바이","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050079-2026-10-14-al-ittihad/"}]'
 injuryHome: "없음"
 injuryAway: "Yuri César[주요](충돌 부상 - 복귀예정 Doubtful)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Adel Al Hosani (GK)|https://images.fotmob.com/image_resources/playerimages/195857.png\",\"Khaled Ebraheim (DF)|https://images.fotmob.com/image_resources/playerimages/821897.png\",\"Diney Borges (DF)|https://images.fotmob.com/image_resources/playerimages/496648.png\",\"Clinton Nsiala (DF)|https://images.fotmob.com/image_resources/playerimages/1515130.png\",\"Leandrinho (DF)|https://images.fotmob.com/image_resources/playerimages/1605202.png\",\"Charles Pickel (MF)|https://images.fotmob.com/image_resources/playerimages/743720.png\",\"Lorran (FW)|https://images.fotmob.com/image_resources/playerimages/1435445.png\",\"Luanzinho (MF)|https://images.fotmob.com/image_resources/playerimages/863341.png\",\"Majed Hassan (MF)|https://images.fotmob.com/image_resources/playerimages/420922.png\",\"Ousmane Camara (FW)|https://images.fotmob.com/image_resources/playerimages/1249953.png\",\"Kodjo Laba (FW)|https://images.fotmob.com/image_resources/playerimages/736081.png\"]"
+awayLineup: "[\"Hamad Al Meqbaali (GK)|https://images.fotmob.com/image_resources/playerimages/1138507.png\",\"Igor Gomes (DF)|https://images.fotmob.com/image_resources/playerimages/1279037.png\",\"Mateus Henrique (DF)|https://images.fotmob.com/image_resources/playerimages/1458813.png\",\"Wout Faes (DF)|https://images.fotmob.com/image_resources/playerimages/693678.png\",\"Jahnoah Markelo (DF)|https://images.fotmob.com/image_resources/playerimages/1334842.png\",\"Kauan Santos (DF)|https://images.fotmob.com/image_resources/playerimages/1560056.png\",\"Saeid Ezatolahi (MF)|https://images.fotmob.com/image_resources/playerimages/505281.png\",\"Federico Cartabia (MF)|https://images.fotmob.com/image_resources/playerimages/474680.png\",\"Nemanja Maksimović (MF)|https://images.fotmob.com/image_resources/playerimages/495962.png\",\"Sardar Azmoun (FW)|https://images.fotmob.com/image_resources/playerimages/441309.png\",\"Mohammad Juma (FW)|https://images.fotmob.com/image_resources/playerimages/1650394.png\"]"
+homeFormation: "4-1-4-1"
+awayFormation: "5-3-2"
+homeCoach: "José Morais|https://images.fotmob.com/image_resources/playerimages/718308.png"
+awayCoach: "André Jardine|https://images.fotmob.com/image_resources/playerimages/1271663.png"
 pickWinTeam: "샤밥 알아흘리 두바이"
 pickWinResult: "승"
 pickHandicapTeam: "샤밥 알아흘리 두바이"
