@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.24","home":"랴오닝 선양","away":"저장 뤼청
 awayRecent: '[{"date":"26.10.24","home":"허난 FC","away":"베이징 궈안","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186631-2026-10-24-henan-fc/"},{"date":"26.10.16","home":"허난 FC","away":"텐진 진먼후","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186621-2026-10-16-henan-fc/"},{"date":"26.10.09","home":"선전 신청펑","away":"허난 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186613-2026-10-09-shenzhen-peng-city/"},{"date":"26.09.12","home":"우한 쓰리 타운즈","away":"허난 FC","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186542-2026-09-12-wuhan-three-towns/"},{"date":"26.09.06","home":"허난 FC","away":"청두 룽청","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186610-2026-09-06-henan-fc/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Bo Zhao (GK)|https://images.fotmob.com/image_resources/playerimages/525775.png\",\"Lei Tong (DF)|https://images.fotmob.com/image_resources/playerimages/730237.png\",\"Haofan Liu (DF)|https://images.fotmob.com/image_resources/playerimages/1366784.png\",\"Lucas Possignolo (DF)|https://images.fotmob.com/image_resources/playerimages/522587.png\",\"Guowen Sun (DF)|https://images.fotmob.com/image_resources/playerimages/467589.png\",\"Jin Cheng (MF)|https://images.fotmob.com/image_resources/playerimages/539074.png\",\"Jin-Seob Park (MF)|https://images.fotmob.com/image_resources/playerimages/925647.png\",\"Yudong Wang (FW)|https://images.fotmob.com/image_resources/playerimages/1515735.png\",\"Marko Tolić (MF)|https://images.fotmob.com/image_resources/playerimages/605658.png\",\"Alexandru Mitriță (FW)|https://images.fotmob.com/image_resources/playerimages/445953.png\",\"Felippe Cardoso (FW)|https://images.fotmob.com/image_resources/playerimages/916351.png\"]"
+awayLineup: "[\"Jinshuai Wang (GK)|https://images.fotmob.com/image_resources/playerimages/1370281.png\",\"Yeljan Shinar (DF)|https://images.fotmob.com/image_resources/playerimages/1067448.png\",\"Iago Maidana (DF)|https://images.fotmob.com/image_resources/playerimages/579791.png\",\"Oliver Gerbig (DF)|https://images.fotmob.com/image_resources/playerimages/1396632.png\",\"Nebijan Muhmet (DF)|https://images.fotmob.com/image_resources/playerimages/1267733.png\",\"Ablahan Haliq (MF)|https://images.fotmob.com/image_resources/playerimages/1168787.png\",\"Shangyuan Wang (MF)|https://images.fotmob.com/image_resources/playerimages/465720.png\",\"Pedro Maranhão (FW)|https://images.fotmob.com/image_resources/playerimages/1174640.png\",\"Bruno Nazário (MF)|https://images.fotmob.com/image_resources/playerimages/406330.png\",\"Yihao Zhong (FW)|https://images.fotmob.com/image_resources/playerimages/938373.png\",\"Xulin Fan (MF)|https://images.fotmob.com/image_resources/playerimages/1735636.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Ross Aloisi|https://images.fotmob.com/image_resources/playerimages/70057.png"
+awayCoach: "Daniel Ramos|https://images.fotmob.com/image_resources/playerimages/282534.png"
 pickWinTeam: "저장 뤼청"
 pickWinResult: "승"
 pickHandicapTeam: "저장 뤼청"
