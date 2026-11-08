@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.24","home":"충칭 통량룽","away":"칭다오 하
 awayRecent: '[{"date":"26.10.24","home":"선전 신청펑","away":"상하이 선화","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186634-2026-10-24-shenzhen-peng-city/"},{"date":"26.10.17","home":"다롄 잉보 FC","away":"선전 신청펑","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186622-2026-10-17-dalian-yingbo/"},{"date":"26.10.09","home":"선전 신청펑","away":"허난 FC","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186613-2026-10-09-shenzhen-peng-city/"},{"date":"26.09.05","home":"산둥 타이산","away":"선전 신청펑","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186608-2026-09-05-shandong-taishan/"},{"date":"26.08.28","home":"선전 신청펑","away":"상하이 하이강","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186598-2026-08-28-shenzhen-peng-city/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Pengfei Mu (GK)|https://images.fotmob.com/image_resources/playerimages/258150.png\",\"Qiao Wang (DF)|https://images.fotmob.com/image_resources/playerimages/467837.png\",\"Jiashen Liu (DF)|https://images.fotmob.com/image_resources/playerimages/258411.png\",\"Yangyang Jin (DF)|https://images.fotmob.com/image_resources/playerimages/558930.png\",\"Suda Li (DF)|https://images.fotmob.com/image_resources/playerimages/1529485.png\",\"Chuangyi Lin (MF)|https://images.fotmob.com/image_resources/playerimages/433035.png\",\"Senwen Luo (MF)|https://images.fotmob.com/image_resources/playerimages/432732.png\",\"Yaw Yeboah (FW)|https://images.fotmob.com/image_resources/playerimages/644001.png\",\"Wenjie Song (FW)|https://images.fotmob.com/image_resources/playerimages/257679.png\",\"Yonghao Jin (MF)|https://images.fotmob.com/image_resources/playerimages/1661152.png\",\"Carlos Strandberg (FW)|https://images.fotmob.com/image_resources/playerimages/455620.png\"]"
+awayLineup: "[\"Peng Peng (GK)|https://images.fotmob.com/image_resources/playerimages/19716.png\",\"Miao Tang (DF)|https://images.fotmob.com/image_resources/playerimages/432356.png\",\"Gabriel Xavier (DF)|https://images.fotmob.com/image_resources/playerimages/1384473.png\",\"Huanming Shen (DF)|https://images.fotmob.com/image_resources/playerimages/1721072.png\",\"Zhijian Xuan (DF)|https://images.fotmob.com/image_resources/playerimages/1624755.png\",\"Deabeas Owusu-Sekyere (FW)|https://images.fotmob.com/image_resources/playerimages/1178618.png\",\"Eden Karzev (MF)|https://images.fotmob.com/image_resources/playerimages/933534.png\",\"Tim Chow (MF)|https://images.fotmob.com/image_resources/playerimages/425591.png\",\"Albion Ademi (FW)|https://images.fotmob.com/image_resources/playerimages/648151.png\",\"Wai-Tsun Dai (FW)|https://images.fotmob.com/image_resources/playerimages/865153.png\",\"Wesley (FW)|https://images.fotmob.com/image_resources/playerimages/656562.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "Milan Ristić|https://images.fotmob.com/image_resources/playerimages/1357107.png"
+awayCoach: "Robbie Neilson|https://images.fotmob.com/image_resources/playerimages/32563.png"
 pickWinTeam: "선전 신청펑"
 pickWinResult: "승"
 pickHandicapTeam: "선전 신청펑"

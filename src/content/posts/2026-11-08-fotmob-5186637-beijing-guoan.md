@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.03","home":"Port FC","away":"베이징 궈안","sco
 awayRecent: '[{"date":"26.10.24","home":"충칭 통량룽","away":"칭다오 하이뉴","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186630-2026-10-24-chongqing-tongliang-long/"},{"date":"26.10.17","home":"윈난 유쿤","away":"충칭 통량룽","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186624-2026-10-17-yunnan-yukun/"},{"date":"26.10.11","home":"충칭 통량룽","away":"산둥 타이산","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186619-2026-10-11-chongqing-tongliang-long/"},{"date":"26.09.06","home":"충칭 통량룽","away":"상하이 선화","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186609-2026-09-06-chongqing-tongliang-long/"},{"date":"26.09.02","home":"윈난 유쿤","away":"충칭 통량룽","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5961060-2026-09-02-yunnan-yukun/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Sen Hou (GK)|https://images.fotmob.com/image_resources/playerimages/117465.png\",\"Gang Wang (DF)|https://images.fotmob.com/image_resources/playerimages/185706.png\",\"Uroš Spajić (DF)|https://images.fotmob.com/image_resources/playerimages/435214.png\",\"Guilherme Ramos (DF)|https://images.fotmob.com/image_resources/playerimages/711074.png\",\"Jiefu Deng (DF)|https://images.fotmob.com/image_resources/playerimages/1913080.png\",\"Yongjing Cao (MF)|https://images.fotmob.com/image_resources/playerimages/623080.png\",\"Sai Erjini'ao (MF)|https://images.fotmob.com/image_resources/playerimages/535906.png\",\"Aboubacar Konté (MF)|https://images.fotmob.com/image_resources/playerimages/1035199.png\",\"Liangming Lin (MF)|https://images.fotmob.com/image_resources/playerimages/807090.png\",\"Yuning Zhang (FW)|https://images.fotmob.com/image_resources/playerimages/623091.png\",\"Xizhe Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/197461.png\"]"
+awayLineup: "[\"Haoyang Yao (GK)|https://images.fotmob.com/image_resources/playerimages/1624684.png\",\"Qilong Ruan (DF)|https://images.fotmob.com/image_resources/playerimages/1248472.png\",\"Lucão (DF)|https://images.fotmob.com/image_resources/playerimages/493725.png\",\"Michael Ngadeu-Ngadjui (DF)|https://images.fotmob.com/image_resources/playerimages/560772.png\",\"Ruijie Yue (DF)|https://images.fotmob.com/image_resources/playerimages/1711643.png\",\"Xiaoqiang He (DF)|https://images.fotmob.com/image_resources/playerimages/1267721.png\",\"Ibrahim Amadou (MF)|https://images.fotmob.com/image_resources/playerimages/369788.png\",\"Zhixiong Zhang (MF)|https://images.fotmob.com/image_resources/playerimages/1624800.png\",\"Jiale Liu (MF)|https://images.fotmob.com/image_resources/playerimages/1913114.png\",\"Yonqgiang Wu (MF)|https://images.fotmob.com/image_resources/playerimages/1624799.png\",\"Yuezheng Du (FW)|https://images.fotmob.com/image_resources/playerimages/1366725.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "5-2-3"
+homeCoach: "Nick Montgomery|https://images.fotmob.com/image_resources/playerimages/23274.png"
+awayCoach: "Jianye Liu|https://images.fotmob.com/image_resources/playerimages/21021.png"
 pickWinTeam: "베이징 궈안"
 pickWinResult: "승"
 pickHandicapTeam: "베이징 궈안"

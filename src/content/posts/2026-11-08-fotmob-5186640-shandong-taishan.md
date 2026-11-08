@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.24","home":"우한 쓰리 타운즈","away":"산둥
 awayRecent: '[{"date":"26.10.24","home":"청두 룽청","away":"다롄 잉보 FC","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186629-2026-10-24-chengdu-rongcheng-fc/"},{"date":"26.10.18","home":"상하이 하이강","away":"청두 룽청","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186628-2026-10-18-shanghai-port/"},{"date":"26.10.10","home":"청두 룽청","away":"텐진 진먼후","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186615-2026-10-10-chengdu-rongcheng-fc/"},{"date":"26.09.06","home":"허난 FC","away":"청두 룽청","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5186610-2026-09-06-henan-fc/"},{"date":"26.08.29","home":"청두 룽청","away":"랴오닝 선양","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186601-2026-08-29-chengdu-rongcheng-fc/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Dalei Wang (GK)|https://images.fotmob.com/image_resources/playerimages/130532.png\",\"Xiao Peng (DF)|https://images.fotmob.com/image_resources/playerimages/1613314.png\",\"Pedro Álvaro (DF)|https://images.fotmob.com/image_resources/playerimages/822258.png\",\"Yang Liu (DF)|https://images.fotmob.com/image_resources/playerimages/768634.png\",\"Wenneng Xie (MF)|https://images.fotmob.com/image_resources/playerimages/1248506.png\",\"Guilherme Madruga (MF)|https://images.fotmob.com/image_resources/playerimages/1460496.png\",\"Yuanyi Li (MF)|https://images.fotmob.com/image_resources/playerimages/581715.png\",\"Pu Chen (MF)|https://images.fotmob.com/image_resources/playerimages/1079758.png\",\"Cryzan (FW)|https://images.fotmob.com/image_resources/playerimages/637316.png\",\"Zeca (FW)|https://images.fotmob.com/image_resources/playerimages/1175807.png\",\"Valeri Qazaishvili (FW)|https://images.fotmob.com/image_resources/playerimages/278473.png\"]"
+awayLineup: "[\"Dianzuo Liu (GK)|https://images.fotmob.com/image_resources/playerimages/259250.png\",\"Yiran He (DF)|https://images.fotmob.com/image_resources/playerimages/1365941.png\",\"Pengfei Han (DF)|https://images.fotmob.com/image_resources/playerimages/678682.png\",\"Egor Sorokin (DF)|https://images.fotmob.com/image_resources/playerimages/581546.png\",\"Hetao Hu (DF)|https://images.fotmob.com/image_resources/playerimages/1365942.png\",\"Ming-Yang Yang (MF)|https://images.fotmob.com/image_resources/playerimages/462945.png\",\"Jussa (MF)|https://images.fotmob.com/image_resources/playerimages/1173677.png\",\"Wellington Silva (FW)|https://images.fotmob.com/image_resources/playerimages/202220.png\",\"Rômulo (MF)|https://images.fotmob.com/image_resources/playerimages/586716.png\",\"Bakram Abduweli (FW)|https://images.fotmob.com/image_resources/playerimages/1357095.png\",\"Felipe (FW)|https://images.fotmob.com/image_resources/playerimages/952015.png\"]"
+homeFormation: "3-4-3"
+awayFormation: "4-2-3-1"
+homeCoach: "Tian Tang|https://images.fotmob.com/image_resources/playerimages/120262.png"
+awayCoach: "John Aloisi|https://images.fotmob.com/image_resources/playerimages/30634.png"
 pickWinTeam: "산둥 타이산"
 pickWinResult: "승"
 pickHandicapTeam: "산둥 타이산"

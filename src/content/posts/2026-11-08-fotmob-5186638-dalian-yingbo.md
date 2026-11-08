@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.01","home":"윈난 유쿤","away":"다롄 잉보 FC
 awayRecent: '[{"date":"26.10.24","home":"텐진 진먼후","away":"상하이 하이강","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5186635-2026-10-24-tianjin-jinmen-tiger/"},{"date":"26.10.16","home":"허난 FC","away":"텐진 진먼후","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186621-2026-10-16-henan-fc/"},{"date":"26.10.10","home":"청두 룽청","away":"텐진 진먼후","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186615-2026-10-10-chengdu-rongcheng-fc/"},{"date":"26.09.12","home":"텐진 진먼후","away":"랴오닝 선양","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186547-2026-09-12-tianjin-jinmen-tiger/"},{"date":"26.09.06","home":"텐진 진먼후","away":"저장 뤼청","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186612-2026-09-06-tianjin-jinmen-tiger/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Weiguo Liu (GK)|https://images.fotmob.com/image_resources/playerimages/431879.png\",\"Zhuoyi Lyu (DF)|https://images.fotmob.com/image_resources/playerimages/1370283.png\",\"Mamadou Traoré (DF)|https://images.fotmob.com/image_resources/playerimages/685219.png\",\"Yue Song (DF)|https://images.fotmob.com/image_resources/playerimages/1052768.png\",\"Boxuan Feng (DF)|https://images.fotmob.com/image_resources/playerimages/816224.png\",\"Jintao Liao (MF)|https://images.fotmob.com/image_resources/playerimages/1266929.png\",\"Nicolae Stanciu (MF)|https://images.fotmob.com/image_resources/playerimages/308516.png\",\"Isnik Alimi (MF)|https://images.fotmob.com/image_resources/playerimages/308082.png\",\"Jing Luo (FW)|https://images.fotmob.com/image_resources/playerimages/467816.png\",\"Frank Acheampong (FW)|https://images.fotmob.com/image_resources/playerimages/309083.png\",\"Mingrui Yang (FW)|https://images.fotmob.com/image_resources/playerimages/1660335.png\"]"
+awayLineup: "[\"Bingliang Yan (GK)|https://images.fotmob.com/image_resources/playerimages/1363325.png\",\"Zhenghao Wang (DF)|https://images.fotmob.com/image_resources/playerimages/1027487.png\",\"Xianjun Wang (DF)|https://images.fotmob.com/image_resources/playerimages/1026622.png\",\"Aitor Córdoba (DF)|https://images.fotmob.com/image_resources/playerimages/639454.png\",\"Sun Ming Him (DF)|https://images.fotmob.com/image_resources/playerimages/1089314.png\",\"Cristian Salvador (MF)|https://images.fotmob.com/image_resources/playerimages/639177.png\",\"Zhexuan Chen (MF)|https://images.fotmob.com/image_resources/playerimages/1357090.png\",\"Xadas (MF)|https://images.fotmob.com/image_resources/playerimages/737814.png\",\"Jiahui Huang (MF)|https://images.fotmob.com/image_resources/playerimages/1061141.png\",\"Guilherme Schettine (FW)|https://images.fotmob.com/image_resources/playerimages/797896.png\",\"Alberto Quiles (FW)|https://images.fotmob.com/image_resources/playerimages/640856.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-5-1"
+homeCoach: "Guoxu Li|https://images.fotmob.com/image_resources/playerimages/1628058.png"
+awayCoach: "Yu Genwei|https://images.fotmob.com/image_resources/playerimages/19910.png"
 pickWinTeam: "다롄 잉보 FC"
 pickWinResult: "승"
 pickHandicapTeam: "다롄 잉보 FC"
