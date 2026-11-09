@@ -2566,7 +2566,7 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "11",
         "wins": "7",
         "losses": "8",
         "ties": null,
@@ -2576,14 +2576,14 @@
         "pointsAgainst": "63"
       },
       "away": {
-        "rank": "4",
+        "rank": "5",
         "wins": "11",
-        "losses": "3",
+        "losses": "4",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "6",
-        "pointsFor": "60",
-        "pointsAgainst": "49"
+        "pointsFor": "63",
+        "pointsAgainst": "53"
       }
     },
     "h2h": {
@@ -2984,12 +2984,12 @@
       "away": {
         "rank": "15",
         "wins": "6",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "16",
-        "pointsFor": "56",
-        "pointsAgainst": "60"
+        "pointsFor": "58",
+        "pointsAgainst": "65"
       }
     },
     "h2h": null
@@ -3045,14 +3045,14 @@
         "pointsAgainst": "43"
       },
       "away": {
-        "rank": "4",
+        "rank": "5",
         "wins": "11",
-        "losses": "3",
+        "losses": "4",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "6",
-        "pointsFor": "60",
-        "pointsAgainst": "49"
+        "pointsFor": "63",
+        "pointsAgainst": "53"
       }
     },
     "h2h": {
@@ -3191,13 +3191,13 @@
       ],
       "away": [
         {
-          "name": "Bowen Byram",
+          "name": "Patrick Kane",
           "status": "Injured Reserve",
           "detail": ""
         },
         {
-          "name": "Patrick Kane",
-          "status": "Out",
+          "name": "Bowen Byram",
+          "status": "Injured Reserve",
           "detail": ""
         }
       ]
@@ -3251,6 +3251,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Colton Sissons",
+          "status": "Out",
+          "detail": ""
+        },
+        {
           "name": "Jack Roslovic",
           "status": "Out",
           "detail": "Not Specified"
@@ -3267,11 +3272,6 @@
         },
         {
           "name": "Miles Wood",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Nick Blankenburg",
           "status": "Injured Reserve",
           "detail": ""
         }
@@ -3308,15 +3308,15 @@
       "home": {
         "rank": "11",
         "wins": "8",
-        "losses": "8",
+        "losses": "9",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "12",
         "pointsFor": "64",
-        "pointsAgainst": "60"
+        "pointsAgainst": "64"
       },
       "away": {
-        "rank": "3",
+        "rank": "4",
         "wins": "11",
         "losses": "3",
         "ties": null,
@@ -3408,7 +3408,7 @@
         "pointsAgainst": "54"
       },
       "away": {
-        "rank": "7",
+        "rank": "8",
         "wins": "10",
         "losses": "7",
         "ties": null,
@@ -3481,13 +3481,13 @@
         "pointsAgainst": "49"
       },
       "away": {
-        "rank": "5",
-        "wins": "12",
+        "rank": "3",
+        "wins": "13",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "62",
+        "gamesBehind": "4",
+        "pointsFor": "66",
         "pointsAgainst": "51"
       }
     },
@@ -3568,24 +3568,24 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
-        "wins": "9",
+        "rank": "7",
+        "wins": "10",
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "9",
-        "pointsFor": "64",
-        "pointsAgainst": "64"
+        "gamesBehind": "7",
+        "pointsFor": "69",
+        "pointsAgainst": "66"
       },
       "away": {
         "rank": "15",
         "wins": "6",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "16",
-        "pointsFor": "56",
-        "pointsAgainst": "60"
+        "pointsFor": "58",
+        "pointsAgainst": "65"
       }
     },
     "h2h": null
@@ -3600,6 +3600,11 @@
     "gameId": "401892676",
     "injuries": {
       "home": [
+        {
+          "name": "Colton Sissons",
+          "status": "Out",
+          "detail": ""
+        },
         {
           "name": "Jack Roslovic",
           "status": "Out",
@@ -3617,11 +3622,6 @@
         },
         {
           "name": "Miles Wood",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Nick Blankenburg",
           "status": "Injured Reserve",
           "detail": ""
         }
@@ -3643,21 +3643,21 @@
       "home": {
         "rank": "11",
         "wins": "8",
-        "losses": "8",
+        "losses": "9",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "12",
         "pointsFor": "64",
-        "pointsAgainst": "60"
+        "pointsAgainst": "64"
       },
       "away": {
-        "rank": "5",
-        "wins": "12",
+        "rank": "3",
+        "wins": "13",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "62",
+        "gamesBehind": "4",
+        "pointsFor": "66",
         "pointsAgainst": "51"
       }
     },
@@ -3714,14 +3714,14 @@
     },
     "standings": {
       "home": {
-        "rank": "12",
-        "wins": "7",
+        "rank": "10",
+        "wins": "8",
         "losses": "9",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "13",
-        "pointsFor": "42",
-        "pointsAgainst": "60"
+        "gamesBehind": "11",
+        "pointsFor": "46",
+        "pointsAgainst": "63"
       },
       "away": {
         "rank": "16",
@@ -3729,9 +3729,9 @@
         "losses": "10",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "18",
-        "pointsFor": "39",
-        "pointsAgainst": "61"
+        "gamesBehind": "17",
+        "pointsFor": "42",
+        "pointsAgainst": "65"
       }
     },
     "h2h": null
