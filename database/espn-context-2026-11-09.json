@@ -1,383 +1,5 @@
 [
   {
-    "home": "Everton",
-    "away": "Coventry City",
-    "date": "2026-11-06T20:00:00.000Z",
-    "league": "Premier League",
-    "sport": "soccer",
-    "espnSport": "soccer_epl",
-    "gameId": "401879242",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "5",
-        "wins": "4",
-        "losses": "2",
-        "ties": "4",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "12",
-        "pointsAgainst": "10"
-      },
-      "away": {
-        "rank": "17",
-        "wins": "3",
-        "losses": "7",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "10",
-        "pointsAgainst": "19"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "COV leads series 1-0",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2024-07-30T18:45:00Z",
-          "home": "Everton",
-          "away": "Coventry City",
-          "homeScore": 0,
-          "awayScore": 3,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Toulouse",
-    "away": "Strasbourg",
-    "date": "2026-11-06T19:45:00.000Z",
-    "league": "Ligue 1",
-    "sport": "soccer",
-    "espnSport": "soccer_ligue1",
-    "gameId": "401876405",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "10",
-        "wins": "3",
-        "losses": "3",
-        "ties": "4",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "15",
-        "pointsAgainst": "14"
-      },
-      "away": {
-        "rank": "13",
-        "wins": "3",
-        "losses": "6",
-        "ties": "1",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "18",
-        "pointsAgainst": "22"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "Series tied 2-2-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-05-03T15:15:00Z",
-          "home": "Strasbourg",
-          "away": "Toulouse",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-12-06T18:00:00Z",
-          "home": "Toulouse",
-          "away": "Strasbourg",
-          "homeScore": 1,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-03-16T16:15:00Z",
-          "home": "Strasbourg",
-          "away": "Toulouse",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-01-12T16:15:00Z",
-          "home": "Toulouse",
-          "away": "Strasbourg",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-04-07T13:00:00Z",
-          "home": "Toulouse",
-          "away": "Strasbourg",
-          "homeScore": 0,
-          "awayScore": 0,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Venezia",
-    "away": "Udinese",
-    "date": "2026-11-06T19:45:00.000Z",
-    "league": "Serie A",
-    "sport": "soccer",
-    "espnSport": "soccer_seriea",
-    "gameId": "401874815",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "19",
-        "wins": "2",
-        "losses": "9",
-        "ties": "0",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "8",
-        "pointsAgainst": "21"
-      },
-      "away": {
-        "rank": "20",
-        "wins": "1",
-        "losses": "8",
-        "ties": "2",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "12",
-        "pointsAgainst": "25"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "UDI leads series 4-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-09-02T16:00:00Z",
-          "home": "Udinese",
-          "away": "Venezia",
-          "homeScore": 2,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-02-01T14:00:00Z",
-          "home": "Udinese",
-          "away": "Venezia",
-          "homeScore": 3,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-10-30T17:30:00Z",
-          "home": "Venezia",
-          "away": "Udinese",
-          "homeScore": 3,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2022-04-10T13:00:00Z",
-          "home": "Venezia",
-          "away": "Udinese",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2021-08-27T16:30:00Z",
-          "home": "Udinese",
-          "away": "Venezia",
-          "homeScore": 3,
-          "awayScore": 0,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Dynamo Dresden",
-    "away": "Greuther Fürth",
-    "date": "2026-11-06T17:30:00.000Z",
-    "league": "2. Bundesliga",
-    "sport": "soccer",
-    "espnSport": "soccer_bundesliga2",
-    "gameId": "401885061",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "14",
-        "wins": "3",
-        "losses": "6",
-        "ties": "2",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "15",
-        "pointsAgainst": "20"
-      },
-      "away": {
-        "rank": "9",
-        "wins": "3",
-        "losses": "5",
-        "ties": "3",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "13",
-        "pointsAgainst": "19"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "SGF leads series 2-1-2",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2026-01-17T12:00:00Z",
-          "home": "Dynamo Dresden",
-          "away": "SpVgg Greuther Fürth",
-          "homeScore": 2,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2025-08-03T11:30:00Z",
-          "home": "SpVgg Greuther Fürth",
-          "away": "Dynamo Dresden",
-          "homeScore": 3,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2020-06-09T16:30:00Z",
-          "home": "Dynamo Dresden",
-          "away": "SpVgg Greuther Fürth",
-          "homeScore": 1,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2019-10-18T16:30:00Z",
-          "home": "SpVgg Greuther Fürth",
-          "away": "Dynamo Dresden",
-          "homeScore": 2,
-          "awayScore": 0,
-          "isCompleted": true
-        },
-        {
-          "date": "2019-04-04T17:00:00Z",
-          "home": "SpVgg Greuther Fürth",
-          "away": "Dynamo Dresden",
-          "homeScore": 0,
-          "awayScore": 0,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Willem II",
-    "away": "PEC Zwolle",
-    "date": "2026-11-06T19:00:00.000Z",
-    "league": "Eredivisie",
-    "sport": "soccer",
-    "espnSport": "soccer_eredivisie",
-    "gameId": "401875556",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "standings": {
-      "home": {
-        "rank": "18",
-        "wins": "0",
-        "losses": "9",
-        "ties": "3",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "11",
-        "pointsAgainst": "40"
-      },
-      "away": {
-        "rank": "13",
-        "wins": "3",
-        "losses": "6",
-        "ties": "3",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "13",
-        "pointsAgainst": "24"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "PEC leads series 3-1-1",
-      "totalGames": 5,
-      "games": [
-        {
-          "date": "2025-05-14T18:00:00Z",
-          "home": "Willem II",
-          "away": "PEC Zwolle",
-          "homeScore": 1,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2024-12-13T19:00:00Z",
-          "home": "PEC Zwolle",
-          "away": "Willem II",
-          "homeScore": 0,
-          "awayScore": 1,
-          "isCompleted": true
-        },
-        {
-          "date": "2023-03-10T19:00:00Z",
-          "home": "Willem II",
-          "away": "PEC Zwolle",
-          "homeScore": 2,
-          "awayScore": 3,
-          "isCompleted": true
-        },
-        {
-          "date": "2022-09-09T18:00:00Z",
-          "home": "PEC Zwolle",
-          "away": "Willem II",
-          "homeScore": 2,
-          "awayScore": 2,
-          "isCompleted": true
-        },
-        {
-          "date": "2022-01-14T19:00:00Z",
-          "home": "PEC Zwolle",
-          "away": "Willem II",
-          "homeScore": 2,
-          "awayScore": 0,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
     "home": "Arsenal",
     "away": "Hull City",
     "date": "2026-11-07T15:00:00.000Z",
@@ -483,7 +105,7 @@
         "pointsAgainst": "12"
       },
       "away": {
-        "rank": "11",
+        "rank": "12",
         "wins": "3",
         "losses": "4",
         "ties": "3",
@@ -565,7 +187,7 @@
         "pointsAgainst": "13"
       },
       "away": {
-        "rank": "2",
+        "rank": "3",
         "wins": "7",
         "losses": "3",
         "ties": "0",
@@ -647,7 +269,7 @@
         "pointsAgainst": "15"
       },
       "away": {
-        "rank": "5",
+        "rank": "6",
         "wins": "4",
         "losses": "2",
         "ties": "3",
@@ -729,7 +351,7 @@
         "pointsAgainst": "10"
       },
       "away": {
-        "rank": "16",
+        "rank": "17",
         "wins": "2",
         "losses": "6",
         "ties": "2",
@@ -2015,7 +1637,7 @@
     },
     "standings": {
       "home": {
-        "rank": "2",
+        "rank": "3",
         "wins": "8",
         "losses": "0",
         "ties": "3",
@@ -2097,7 +1719,7 @@
     },
     "standings": {
       "home": {
-        "rank": "6",
+        "rank": "7",
         "wins": "5",
         "losses": "2",
         "ties": "5",
@@ -2346,21 +1968,21 @@
         "rank": "18",
         "wins": "1",
         "losses": "4",
+        "ties": "5",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "14",
+        "pointsAgainst": "19"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "3",
+        "losses": "3",
         "ties": "4",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "10",
-        "pointsAgainst": "15"
-      },
-      "away": {
-        "rank": "12",
-        "wins": "3",
-        "losses": "3",
-        "ties": "3",
-        "winPercent": null,
-        "gamesBehind": null,
-        "pointsFor": "10",
-        "pointsAgainst": "13"
+        "pointsFor": "14",
+        "pointsAgainst": "17"
       }
     },
     "h2h": {
@@ -2425,23 +2047,23 @@
     },
     "standings": {
       "home": {
-        "rank": "15",
+        "rank": "16",
         "wins": "2",
-        "losses": "5",
+        "losses": "6",
         "ties": "2",
         "winPercent": null,
         "gamesBehind": null,
         "pointsFor": "9",
-        "pointsAgainst": "17"
+        "pointsAgainst": "19"
       },
       "away": {
-        "rank": "8",
-        "wins": "4",
+        "rank": "6",
+        "wins": "5",
         "losses": "3",
         "ties": "2",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "13",
+        "pointsFor": "15",
         "pointsAgainst": "12"
       }
     },
@@ -2507,24 +2129,24 @@
     },
     "standings": {
       "home": {
-        "rank": "11",
-        "wins": "3",
+        "rank": "9",
+        "wins": "4",
         "losses": "3",
         "ties": "3",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "16",
+        "pointsFor": "18",
         "pointsAgainst": "12"
       },
       "away": {
-        "rank": "4",
+        "rank": "5",
         "wins": "5",
-        "losses": "2",
+        "losses": "3",
         "ties": "2",
         "winPercent": null,
         "gamesBehind": null,
         "pointsFor": "15",
-        "pointsAgainst": "7"
+        "pointsAgainst": "9"
       }
     },
     "h2h": {
@@ -2589,24 +2211,24 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "11",
         "wins": "4",
-        "losses": "4",
+        "losses": "5",
         "ties": "1",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "16",
-        "pointsAgainst": "13"
+        "pointsFor": "17",
+        "pointsAgainst": "15"
       },
       "away": {
-        "rank": "6",
-        "wins": "5",
+        "rank": "4",
+        "wins": "6",
         "losses": "4",
         "ties": "0",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "20",
-        "pointsAgainst": "13"
+        "pointsFor": "22",
+        "pointsAgainst": "14"
       }
     },
     "h2h": {
@@ -2674,21 +2296,21 @@
         "rank": "15",
         "wins": "2",
         "losses": "6",
-        "ties": "2",
+        "ties": "3",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "15",
-        "pointsAgainst": "23"
+        "pointsFor": "17",
+        "pointsAgainst": "25"
       },
       "away": {
         "rank": "7",
         "wins": "5",
         "losses": "3",
-        "ties": "2",
+        "ties": "3",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "13",
-        "pointsAgainst": "10"
+        "pointsFor": "15",
+        "pointsAgainst": "12"
       }
     },
     "h2h": {
@@ -2754,23 +2376,23 @@
     "standings": {
       "home": {
         "rank": "5",
-        "wins": "6",
+        "wins": "7",
         "losses": "3",
         "ties": "2",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "20",
-        "pointsAgainst": "13"
+        "pointsFor": "24",
+        "pointsAgainst": "16"
       },
       "away": {
         "rank": "9",
         "wins": "4",
-        "losses": "4",
+        "losses": "5",
         "ties": "3",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "26",
-        "pointsAgainst": "24"
+        "pointsFor": "29",
+        "pointsAgainst": "28"
       }
     },
     "h2h": {
@@ -2835,24 +2457,24 @@
     },
     "standings": {
       "home": {
-        "rank": "11",
+        "rank": "14",
         "wins": "3",
-        "losses": "5",
+        "losses": "6",
         "ties": "3",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "19",
-        "pointsAgainst": "31"
+        "pointsFor": "21",
+        "pointsAgainst": "34"
       },
       "away": {
-        "rank": "14",
-        "wins": "2",
+        "rank": "11",
+        "wins": "3",
         "losses": "4",
         "ties": "5",
         "winPercent": null,
         "gamesBehind": null,
-        "pointsFor": "17",
-        "pointsAgainst": "19"
+        "pointsFor": "20",
+        "pointsAgainst": "21"
       }
     },
     "h2h": {
@@ -2904,243 +2526,6 @@
     }
   },
   {
-    "home": "Seattle Kraken",
-    "away": "New York Rangers",
-    "date": "2026-11-07T22:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401892664",
-    "injuries": {
-      "home": [
-        {
-          "name": "Nikke Kokko",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Curtis Douglas",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Jared McCann",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Jacob Melanson",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Ryan Lindgren",
-          "status": "Injured Reserve",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Alberts Smits",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Sean Durzi",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Igor Shesterkin",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Joe Veleno",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Aidan Thompson",
-          "status": "Injured Reserve",
-          "detail": "Not Specified"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "8",
-        "wins": "9",
-        "losses": "6",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "9",
-        "pointsFor": "57",
-        "pointsAgainst": "57"
-      },
-      "away": {
-        "rank": "7",
-        "wins": "10",
-        "losses": "7",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "9",
-        "pointsFor": "55",
-        "pointsAgainst": "52"
-      }
-    },
-    "h2h": null
-  },
-  {
-    "home": "Nashville Predators",
-    "away": "St. Louis Blues",
-    "date": "2026-11-07T18:00:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401892663",
-    "injuries": {
-      "home": [],
-      "away": [
-        {
-          "name": "Logan Mailloux",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Torey Krug",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Dillon Dube",
-          "status": "Injured Reserve",
-          "detail": "Not Specified"
-        },
-        {
-          "name": "Tyler Tucker",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "6",
-        "wins": "8",
-        "losses": "4",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "7",
-        "pointsFor": "52",
-        "pointsAgainst": "51"
-      },
-      "away": {
-        "rank": "10",
-        "wins": "7",
-        "losses": "8",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "12",
-        "pointsFor": "50",
-        "pointsAgainst": "53"
-      }
-    },
-    "h2h": {
-      "source": "seasonseries",
-      "text": "NSH leads series 2-0",
-      "totalGames": 1,
-      "games": [
-        {
-          "date": "2026-10-18T00:00:00Z",
-          "home": "Nashville Predators",
-          "away": "St. Louis Blues",
-          "homeScore": 5,
-          "awayScore": 2,
-          "isCompleted": true
-        }
-      ]
-    }
-  },
-  {
-    "home": "Washington Capitals",
-    "away": "Florida Panthers",
-    "date": "2026-11-07T17:30:00.000Z",
-    "league": "NHL",
-    "sport": "hockey",
-    "espnSport": "hockey",
-    "gameId": "401892662",
-    "injuries": {
-      "home": [
-        {
-          "name": "Vincent Desharnais",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Rasmus Sandin",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        },
-        {
-          "name": "Patrick Thomas",
-          "status": "Injured Reserve",
-          "detail": ""
-        }
-      ],
-      "away": [
-        {
-          "name": "Anton Lundell",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Sandis Vilmanis",
-          "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Brad Marchand",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Aleksander Barkov",
-          "status": "Injured Reserve",
-          "detail": ""
-        },
-        {
-          "name": "Jonah Gadjovich",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
-        }
-      ]
-    },
-    "standings": {
-      "home": {
-        "rank": "10",
-        "wins": "9",
-        "losses": "6",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "12",
-        "pointsFor": "53",
-        "pointsAgainst": "51"
-      },
-      "away": {
-        "rank": "8",
-        "wins": "9",
-        "losses": "6",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "10",
-        "pointsFor": "55",
-        "pointsAgainst": "51"
-      }
-    },
-    "h2h": null
-  },
-  {
     "home": "Winnipeg Jets",
     "away": "Tampa Bay Lightning",
     "date": "2026-11-08T23:00:00.000Z",
@@ -3151,17 +2536,12 @@
     "injuries": {
       "home": [
         {
-          "name": "Elias Salomonsson",
+          "name": "Josh Morrissey",
           "status": "Injured Reserve",
           "detail": ""
         },
         {
-          "name": "Haydn Fleury",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
-          "name": "Josh Morrissey",
+          "name": "Elias Salomonsson",
           "status": "Injured Reserve",
           "detail": ""
         },
@@ -3178,22 +2558,22 @@
       ],
       "away": [
         {
-          "name": "Yanni Gourde",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
+          "name": "Brayden Point",
+          "status": "Day-To-Day",
+          "detail": "Not Specified"
         }
       ]
     },
     "standings": {
       "home": {
-        "rank": "12",
-        "wins": "6",
+        "rank": "10",
+        "wins": "7",
         "losses": "8",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "13",
-        "pointsFor": "45",
-        "pointsAgainst": "60"
+        "gamesBehind": "11",
+        "pointsFor": "49",
+        "pointsAgainst": "63"
       },
       "away": {
         "rank": "4",
@@ -3208,7 +2588,7 @@
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "TB leads series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -3265,22 +2645,22 @@
       "home": {
         "rank": "9",
         "wins": "8",
-        "losses": "5",
+        "losses": "6",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "11",
-        "pointsFor": "49",
-        "pointsAgainst": "53"
+        "pointsFor": "50",
+        "pointsAgainst": "57"
       },
       "away": {
         "rank": "3",
-        "wins": "11",
+        "wins": "12",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "4",
-        "pointsFor": "60",
-        "pointsAgainst": "50"
+        "gamesBehind": "2",
+        "pointsFor": "64",
+        "pointsAgainst": "51"
       }
     },
     "h2h": null
@@ -3299,19 +2679,9 @@
           "name": "James Hagens",
           "status": "Injured Reserve",
           "detail": ""
-        },
-        {
-          "name": "Matthew Poitras",
-          "status": "Day-To-Day",
-          "detail": "Fracture"
         }
       ],
       "away": [
-        {
-          "name": "Anton Lundell",
-          "status": "Out",
-          "detail": ""
-        },
         {
           "name": "Sandis Vilmanis",
           "status": "Out",
@@ -3337,23 +2707,23 @@
     "standings": {
       "home": {
         "rank": "2",
-        "wins": "12",
+        "wins": "13",
         "losses": "4",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "5",
-        "pointsFor": "64",
-        "pointsAgainst": "40"
+        "gamesBehind": "3",
+        "pointsFor": "68",
+        "pointsAgainst": "41"
       },
       "away": {
         "rank": "8",
         "wins": "9",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "10",
-        "pointsFor": "55",
-        "pointsAgainst": "51"
+        "pointsFor": "56",
+        "pointsAgainst": "55"
       }
     },
     "h2h": null
@@ -3368,6 +2738,11 @@
     "gameId": "401892673",
     "injuries": {
       "home": [
+        {
+          "name": "Colton Dach",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "Ryan Nugent-Hopkins",
           "status": "Day-To-Day",
@@ -3387,17 +2762,12 @@
           "name": "Matt Savoie",
           "status": "Injured Reserve",
           "detail": "Not Specified"
-        },
-        {
-          "name": "Frederik Andersen",
-          "status": "Injured Reserve",
-          "detail": ""
         }
       ],
       "away": [
         {
           "name": "Tom Willander",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": ""
         },
         {
@@ -3492,7 +2862,7 @@
       "away": [
         {
           "name": "John Gibson",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": ""
         },
         {
@@ -3574,6 +2944,11 @@
       ],
       "away": [
         {
+          "name": "Ville Koivunen",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Elmer Soderblom",
           "status": "Injured Reserve",
           "detail": ""
@@ -3631,7 +3006,7 @@
       "home": [
         {
           "name": "Michael McCarron",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": ""
         },
         {
@@ -3652,9 +3027,9 @@
       ],
       "away": [
         {
-          "name": "Yanni Gourde",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
+          "name": "Brayden Point",
+          "status": "Day-To-Day",
+          "detail": "Not Specified"
         }
       ]
     },
@@ -3708,7 +3083,7 @@
       "home": [
         {
           "name": "Miro Heiskanen",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": ""
         },
         {
@@ -3876,8 +3251,13 @@
     "injuries": {
       "home": [
         {
+          "name": "Jack Roslovic",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Morgan Rielly",
-          "status": "Day-To-Day",
+          "status": "Out",
           "detail": ""
         },
         {
@@ -3894,17 +3274,12 @@
           "name": "Nick Blankenburg",
           "status": "Injured Reserve",
           "detail": ""
-        },
-        {
-          "name": "Marshall Rifai",
-          "status": "Injured Reserve",
-          "detail": ""
         }
       ],
       "away": [
         {
           "name": "Josh Anderson",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": ""
         },
         {
@@ -3979,13 +3354,8 @@
       "home": [
         {
           "name": "Ridly Greig",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": ""
-        },
-        {
-          "name": "Linus Ullmark",
-          "status": "Injured Reserve",
-          "detail": "Strain"
         },
         {
           "name": "Andre Burakovsky",
@@ -4006,7 +3376,7 @@
       "away": [
         {
           "name": "Nate Schmidt",
-          "status": "Out",
+          "status": "Day-To-Day",
           "detail": ""
         },
         {
@@ -4088,6 +3458,11 @@
       ],
       "away": [
         {
+          "name": "Anthony Mantha",
+          "status": "Out",
+          "detail": ""
+        },
+        {
           "name": "Seamus Casey",
           "status": "Injured Reserve",
           "detail": ""
@@ -4165,6 +3540,11 @@
       ],
       "away": [
         {
+          "name": "Ville Koivunen",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Elmer Soderblom",
           "status": "Injured Reserve",
           "detail": ""
@@ -4221,8 +3601,13 @@
     "injuries": {
       "home": [
         {
+          "name": "Jack Roslovic",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
           "name": "Morgan Rielly",
-          "status": "Day-To-Day",
+          "status": "Out",
           "detail": ""
         },
         {
@@ -4239,14 +3624,14 @@
           "name": "Nick Blankenburg",
           "status": "Injured Reserve",
           "detail": ""
-        },
-        {
-          "name": "Marshall Rifai",
-          "status": "Injured Reserve",
-          "detail": ""
         }
       ],
       "away": [
+        {
+          "name": "Anthony Mantha",
+          "status": "Out",
+          "detail": ""
+        },
         {
           "name": "Seamus Casey",
           "status": "Injured Reserve",
@@ -4289,14 +3674,14 @@
     "injuries": {
       "home": [
         {
-          "name": "Kevin Bahl",
-          "status": "Day-To-Day",
+          "name": "Brennan Othmann",
+          "status": "Out",
           "detail": ""
         },
         {
-          "name": "Brennan Othmann",
-          "status": "Day-To-Day",
-          "detail": ""
+          "name": "Kevin Bahl",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
         },
         {
           "name": "Jonathan Huberdeau",
@@ -4329,7 +3714,7 @@
     },
     "standings": {
       "home": {
-        "rank": "11",
+        "rank": "12",
         "wins": "7",
         "losses": "9",
         "ties": null,
