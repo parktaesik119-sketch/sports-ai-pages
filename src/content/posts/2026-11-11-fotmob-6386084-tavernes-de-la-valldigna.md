@@ -19,7 +19,7 @@ summary: "발렌시아는 객관적인 전력 지표와 누적된 경기 경험�
 homeRecent: '[]'
 awayRecent: '[{"date":"26.11.08","home":"발렌시아","away":"레알 마드리드","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868129-2026-11-08-valencia/"},{"date":"26.11.02","home":"엘체","away":"발렌시아","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868114-2026-11-02-elche/"},{"date":"26.10.25","home":"발렌시아","away":"비야레알","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868110-2026-10-25-valencia/"},{"date":"26.10.18","home":"발렌시아","away":"아틀레틱 클럽","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868099-2026-10-18-valencia/"},{"date":"26.10.12","home":"레이싱 산탄데르","away":"발렌시아","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868087-2026-10-12-racing-santander/"}]'
 injuryHome: "없음"
-injuryAway: "Dimitri Foulquier[주요](근육 부상 - 복귀예정 Doubtful) | David Otorbi[주요](햄스트링 부상 - 복귀예정 Early December 2026) | Diego López[주요](십자 인대 부상 - 복귀예정 Mid February 2027) | Sergi Canós[주요](십자 인대 부상 - 복귀예정 Late November 2026)"
+injuryAway: "Jesus Vázquez[주요](근육 부상 - 복귀예정 About 1-2 weeks) | Dimitri Foulquier[주요](근육 부상 - 복귀예정 Doubtful) | David Otorbi[주요](햄스트링 부상 - 복귀예정 Early December 2026) | Diego López[주요](십자 인대 부상 - 복귀예정 Mid February 2027) | Sergi Canós[주요](십자 인대 부상 - 복귀예정 Late November 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
