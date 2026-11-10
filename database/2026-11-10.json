@@ -2268,7 +2268,7 @@
     "league": "League Cup",
     "date": "2026-11-08T16:00:00.000Z",
     "home": "Stellenbosch FC",
-    "away": "AmaZulu",
+    "away": "AmaZulu FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/207873.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102100.png",
     "homeScore": 2,
@@ -3051,8 +3051,8 @@
     "away": "Nacional",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1833.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8304.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5105046",
@@ -3402,8 +3402,8 @@
     "away": "Cúcuta",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6254.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6556309",
@@ -3428,8 +3428,8 @@
     "away": "Universitario de Vinto",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49720.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/879029.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000022078",
@@ -4979,6 +4979,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-1000022941",
+    "sport": "soccer",
+    "country": "Mexico",
+    "league": "Liga de Expansión MX - Apertura - Semi-finals",
+    "date": "2026-11-12T02:00:00.000Z",
+    "home": "Piratas",
+    "away": "Atlético La Paz",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2070059.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1374638.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-1000014227",
     "sport": "soccer",
     "country": "Colombia",
@@ -5352,8 +5365,8 @@
     "away": "New York Islanders",
     "homeLogo": "https://highlightly.net/hockey/images/teams/593931.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/588825.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378594515",
@@ -5365,8 +5378,8 @@
     "away": "Philadelphia Flyers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/597335.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/592229.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378593664",
@@ -5378,8 +5391,8 @@
     "away": "New York Rangers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/582017.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/589676.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-366494997",
@@ -5566,19 +5579,19 @@
     "id": "panda-1766739",
     "sport": "lol",
     "league": "LCP",
-    "date": "2026-11-10T05:00:00Z",
+    "date": "2026-11-10T05:07:12Z",
     "home": "FENNEL",
     "away": "Nothin'Here",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/132655/424px_fennel_2021_may_lightmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/139359/nothin_here_allmode.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 3
   },
   {
     "id": "panda-1766740",
     "sport": "lol",
     "league": "LCP",
-    "date": "2026-11-10T09:00:00Z",
+    "date": "2026-11-10T07:57:13Z",
     "home": "Saigon Warriors",
     "away": "Team Gromp",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/138127/ezgif_5e268d1a7560187d.png",
@@ -5603,8 +5616,9 @@
     "sport": "lol",
     "league": "LCP",
     "date": "2026-11-12T09:00:00Z",
-    "home": "TBD",
+    "home": "Nothin'Here",
     "away": "TBD",
+    "homeLogo": "https://cdn-api.pandascore.co/images/team/image/139359/nothin_here_allmode.png",
     "homeScore": 0,
     "awayScore": 0
   }
