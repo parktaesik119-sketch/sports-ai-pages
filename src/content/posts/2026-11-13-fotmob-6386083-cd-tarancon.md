@@ -1,0 +1,37 @@
+---
+title: "CD Tarancon vs 레반테 축구분석·승부예측 (11월 13일) - 픽천국"
+date: 2026-11-12T18:00:00.000Z
+description: "CD Tarancon vs 레반테 축구분석: 이번 경기는 객관적인 전력과 최근 경기 경험 면에서 우위를 점하고 있는 레반테가 경기의 주도권을 쥐고 풀어갈 가능성이 높습니다… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6386083-2026-11-13-cd-tarancon"
+category: "soccer"
+country: "스페인"
+league: "Copa del Rey - 1st"
+homeTeam: "CD Tarancon"
+awayTeam: "레반테"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/2341130.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8581.png"
+homeAnalysis: "CD Tarancon 팀은 최근 경기 기록이 별도로 집계되지 않아 전력 파악에 있어 다소 제한적인 면모를 보이고 있습니다. 공식적인 앞선 경기 데이터가 부족하기 때문에 이번 경기를 통해 본격적으로 팀의 실력을 증명해야 하는 과제를 안고 있습니다. 홈에서 치르는 경기인 만큼 안정적인 수비 블록을 형성하고 상대의 공세를 막아내는 것이 우선 과제로 꼽힙니다. 객관적인 전력에서 우위에 있는 상대를 맞아 철저한 준비를 바탕으로 경기에 임할 것으로 예상됩니다. 홈 그라운드의 이점을 살려 조직적인 플레이를 보여준다면 예상외의 결과를 만들어낼 가능성도 충분히 존재합니다."
+awayAnalysis: "레반테는 앞선 21경기에서 7승 6무 8패로 승률 33%를 기록했고 다소 기복 있는 흐름을 보이며 중위권에서 경쟁하고 있습니다. 최근 치른 10경기에서는 2승 4무 4패를 기록하며 꾸준히 골문을 열고 있으나 승수를 쌓는 데는 다소 아쉬움을 남겼습니다. 특히 최근 셀타 비고전 무승부를 비롯해 무승부 경기가 많아 경기를 주도하고도 확실한 마침표를 찍는 능력이 요구됩니다. 원정 경기라는 부담감이 있지만 평균 득점력을 바탕으로 공격적인 운영을 펼칠 가능성이 높습니다. 전력상 우세에 있는 만큼 이번 경기에서 주도권을 잡고 승리를 가져오기 위해 총력을 기울일 것으로 보입니다."
+homePower: "홈 경기의 이점을 살린 철저한 수비 블록 구축 필요함|공식 데이터 부족으로 인한 전력 검증의 무대로 평가됨|조직적인 대인 방어로 상대 화력을 묶는 것이 최우선 과제임|홈 그라운드 응원을 업고 이변을 연출할 지략이 요구됨|제한된 기회를 살릴 수 있는 골 결정력이 승패를 가름함"
+awayPower: "최근 10경기 중 다수의 무승부로 확실한 승리 마감에 아쉬움 남김|평균 1.3득점을 기록 중인 꾸준한 공격 전개 능력을 보유함|원정 경기 부담감을 극복하고 경기를 주도할 전술적 역량 필요함|핵심 자원의 부상 공백을 메울 로테이션 활용이 중요한 포인트임|객관적인 전력 우위를 바탕으로 적극적인 공세 유도가 예상됨"
+h2h: '[]'
+summary: "이번 경기는 객관적인 전력과 최근 경기 경험 면에서 우위를 점하고 있는 레반테가 경기의 주도권을 쥐고 풀어갈 가능성이 높습니다. CD Tarancon은 데이터가 부족한 상태에서 홈 경기를 치르지만 탄탄한 수비 조직력을 바탕으로 상대의 공세를 저지하는 데 집중할 것으로 보입니다. 레반테는 최근 승수를 쌓는 데 다소 어려움을 겪었으나 꾸준한 득점력을 바탕으로 원정에서 승리를 거두기 위해 적극적으로 나설 전망입니다. 전반적인 흐름과 경험치에서 앞서는 레반테가 우세를 점할 것으로 예상되며 경기의 흐름을 자신들에게 유리하게 이끌어갈 수 있을 것입니다."
+homeRecent: '[]'
+awayRecent: '[{"date":"26.11.09","home":"셀타 비고","away":"레반테","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868122-2026-11-09-celta-vigo/"},{"date":"26.10.31","home":"레반테","away":"아틀레티코 마드리드","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868117-2026-10-31-levante/"},{"date":"26.10.26","home":"레알 소시에다드","away":"레반테","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868108-2026-10-26-real-sociedad/"},{"date":"26.10.22","home":"레반테","away":"아틀레틱 클럽","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868067-2026-10-22-levante/"},{"date":"26.10.17","home":"데포르티보 라코루냐","away":"레반테","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868093-2026-10-17-deportivo-a-corua/"}]'
+injuryHome: "없음"
+injuryAway: "Manuel Sánchez (햄스트링 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "레반테"
+pickWinResult: "승"
+pickHandicapTeam: "레반테"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

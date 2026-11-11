@@ -1,0 +1,37 @@
+---
+title: "Navalcarnero vs 레알 베티스 축구분석·승부예측 (11월 13일) - 픽천국"
+date: 2026-11-12T18:00:00.000Z
+description: "Navalcarnero vs 레알 베티스 축구분석: 양 팀은 최근 일정에서 각자의 방식으로 좋은 흐름을 유지하며 탄탄한 경쟁력을 증명해 왔습니다. 홈팀 Navalcarnero는 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6386067-2026-11-13-navalcarnero"
+category: "soccer"
+country: "스페인"
+league: "Copa del Rey - 1st"
+homeTeam: "Navalcarnero"
+awayTeam: "레알 베티스"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/161758.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png"
+homeAnalysis: "Navalcarnero는 앞선 13경기에서 5승 6무 2패로 승률 38%를 기록했고 안정적인 경기 운영을 바탕으로 꾸준한 흐름을 이어가고 있습니다. 최근 치른 10경기에서도 4승 4무 2패를 거두며 쉽게 무너지지 않는 저력을 보여주는 중입니다. 특히 꾸준히 득점포를 가동하며 평균 1.6골의 화력을 과시하고 있어 공격진의 감각이 좋은 편입니다. 직전 Guadalajara와의 경기에서도 무승부를 기록하며 승점 포인트를 챙기는 등 원만한 흐름을 유지하고 있습니다. 홈 경기에서 보여주는 집중력이 높기 때문에 이번 경기에서도 좋은 분위기를 이어갈 수 있을 것으로 기대됩니다."
+awayAnalysis: "레알 베티스는 앞선 28경기에서 18승 4무 6패로 승률 64%를 기록했고 전체적인 일정에서 강력한 전력을 뽐내고 있습니다. 최근 10경기에서도 6승 2무 2패를 올리며 상승세를 타고 있어 이번 원정 길도 자신감 있게 나설 수 있습니다. 평균 1.8골에 달하는 높은 득점력을 바탕으로 상대를 압박하는 능력이 매우 뛰어납니다. 비록 간헐적인 패배가 있기는 하지만 곧바로 연승을 달리며 분위기를 수습하는 회복력이 돋보입니다. 탄탄한 전력을 바탕으로 원정 경기에서도 우세한 경기를 펼칠 가능성이 매우 큽니다."
+homePower: "최근 여러 경기에서 꾸준한 득점력을 보여주며 공격 집중력이 살아남|안정적인 수비 블록을 형성해 쉽게 패하지 않는 경기 운영을 보여줌|홈 경기에서 특히 높은 집중력과 저력을 발휘하는 모습이 돋보임|다수의 무승부가 있지만 패배를 최소화하며 승점을 차곡차곡 쌓아가는 중|전체적인 밸런스가 잘 잡혀 있어 상대를 압박할 수 있는 경쟁력을 갖춤"
+awayPower: "평균 득점 수치가 말해주듯 찬스를 놓치지 않는 결정력이 매우 돋보임|최근 10경기 중 다수를 승리로 장식하며 확실한 상승세를 유지하고 있음|원정 경기에서도 주도권을 쉽게 내주지 않는 탄탄한 전력을 지님|패배 이후 곧바로 승리를 챙기는 뛰어난 분위기 반등 능력을 보여줌|공수 간격 유지가 좋아서 상대의 거센 공세를 효과적으로 차단함"
+h2h: '[]'
+summary: "양 팀은 최근 일정에서 각자의 방식으로 좋은 흐름을 유지하며 탄탄한 경쟁력을 증명해 왔습니다. 홈팀 Navalcarnero는 끈질긴 무승부 양상과 안정적인 홈 운영을 통해 상대를 압박할 준비를 마쳤습니다. 이에 맞서는 원정팀 레알 베티스는 높은 승률과 강력한 득점력을 앞세워 원정에서도 주도권을 잡으려 할 것입니다. 전반적인 전력과 최근 경기력의 무게감을 고려했을 때 홈팀 Navalcarnero가 조금 더 유리한 고지를 점할 것으로 보입니다."
+homeRecent: '[{"date":"26.11.08","home":"CD Guadalajara","away":"Navalcarnero","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5885628-2026-11-08-cd-guadalajara/"},{"date":"26.11.01","home":"Navalcarnero","away":"CD Atlético Paso","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6147836-2026-11-01-navalcarnero/"},{"date":"26.10.25","home":"Numancia","away":"Navalcarnero","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5885569-2026-10-25-numancia/"},{"date":"26.10.19","home":"Salamanca CF UDS","away":"Navalcarnero","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5885600-2026-10-19-salamanca-cf-uds/"},{"date":"26.10.12","home":"Navalcarnero","away":"Atletico Madrid C","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5885588-2026-10-12-navalcarnero/"}]'
+awayRecent: '[{"date":"26.11.08","home":"엘체","away":"레알 베티스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868123-2026-11-08-elche/"},{"date":"26.11.05","home":"보루시아 도르트문트","away":"레알 베티스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6106271-2026-11-05-borussia-dortmund/"},{"date":"26.11.01","home":"레알 베티스","away":"말라가","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868112-2026-11-01-real-betis/"},{"date":"26.10.26","home":"셀타 비고","away":"레알 베티스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868104-2026-10-26-celta-vigo/"},{"date":"26.10.22","home":"레알 베티스","away":"페예노르트","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6106300-2026-10-22-real-betis/"}]'
+injuryHome: "없음"
+injuryAway: "Facundo Bernal (부상)|Juan Hernández (종아리 부상 - Late November 2026)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "Navalcarnero"
+pickWinResult: "승"
+pickHandicapTeam: "Navalcarnero"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

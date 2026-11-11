@@ -1,0 +1,37 @@
+---
+title: "적도 기니 vs 짐바브웨 축구분석·승부예측 (11월 13일) - 픽천국"
+date: 2026-11-12T16:00:00.000Z
+description: "적도 기니 vs 짐바브웨 축구분석: 이번 경기는 홈에서 안정적인 운영을 보여주는 적도 기니와 원정에서 공격적인 성향을 드러내는 짐바브웨의 맞대결로 진행됩니다. 홈… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6040264-2026-11-13-equatorial-guinea"
+category: "soccer"
+country: "국제"
+league: "아프리카 네이션스컵 예선"
+homeTeam: "적도 기니"
+awayTeam: "짐바브웨"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8323.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6290.png"
+homeAnalysis: "적도 기니는 앞선 2경기에서 1승 0무 1패로 승률 50%를 기록했고, 최근 일정에서 기복 있는 모습을 보이고 있습니다. 홈에서 열린 시에라리온과의 맞대결에서 견고한 수비를 바탕으로 1대0 승리를 거두며 반등의 발판을 마련했습니다. 다만 콩고민주공화국 원정에서는 아쉬운 패배를 당하며 흐름이 한 차례 끊기기도 했습니다. 전체적으로 홈 경기에서 집중력을 발휘하는 경향이 강해 이번 일정을 준비하는 과정에서 긍정적인 요소로 작용할 것입니다. 공수 양면에서 안정감을 유지한다면 충분히 좋은 결과를 기대할 수 있는 전력입니다."
+awayAnalysis: "짐바브웨는 앞선 3경기에서 1승 0무 2패로 승률 33%를 기록했고, 최근 치른 경기들에서 다소 불안정한 수비력을 드러냈습니다. 시에라리온 원정 난타전 끝에 3대2 승리를 챙기기도 했으나, 콩고민주공화국전에서는 실점을 허용하며 패배를 기록했습니다. 원정 경기에서 공격적인 움직임을 가져가고 있지만 수비 뒷공간을 노출하는 빈도가 잦은 편입니다. 이번 상대와의 맞대결에서도 원정 부담감을 얼마나 극복하느냐가 중요한 과제로 남아 있습니다. 흐름을 다잡기 위해서는 수비 집중력을 끌어올리는 것이 무엇보다 중요합니다."
+homePower: "홈 경기에서 보여주는 단단한 수비 조직력은 경기를 풀어나가는 큰 힘이 됨|공격 전개 시 세밀함은 조금 아쉽지만 득점 찬스를 살리는 집중력은 양호함|안방에서 치르는 이점을 적극 활용해 경기 주도권을 잡으려는 성향이 뚜렷함|실점을 최소화하는 안정적인 운영 방식이 승리 확률을 높이는 핵심 요인임|최근 홈 승리를 통해 다져진 팀 내 자신감이 경기력에 긍정적으로 작용함"
+awayPower: "원정 경기에서 적극적인 공격 가담으로 꾸준히 득점을 만들어내는 능력이 돋보임|수비 전환 과정에서 발생하는 공간 노출 문제를 해결하는 것이 급선무임|난타전 양상 속에서도 끝까지 경기를 포기하지 않는 끈질긴 면모를 지님|원정에서 치르는 부담감을 이겨내기 위한 전술적 완성도 보완이 요구됨|최근 일정에서 나타난 실점 패턴을 분석해 수비 안정을 꾀하는 모습임"
+h2h: '[]'
+summary: "이번 경기는 홈에서 안정적인 운영을 보여주는 적도 기니와 원정에서 공격적인 성향을 드러내는 짐바브웨의 맞대결로 진행됩니다. 홈팀은 단단한 수비를 바탕으로 경기를 주도하려 할 것이며, 원정팀은 화력을 앞세워 반격을 시도할 것으로 예상됩니다. 전반적인 공수 균형과 홈 이점을 고려했을 때 적도 기니가 조금 더 유리한 흐름을 만들어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.09.29","home":"적도 기니","away":"시에라리온","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040261-2026-09-29-equatorial-guinea/"},{"date":"26.09.25","home":"콩고민주공화국","away":"적도 기니","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6040259-2026-09-25-dr-congo/"},{"date":"26.03.25","home":"키르기스스탄","away":"적도 기니","score":"0-1","result":"🟢승"},{"date":"26.01.01","home":"적도 기니","away":"알제리","score":"1-3","result":"🔴패"},{"date":"25.12.29","home":"적도 기니","away":"수단","score":"0-1","result":"🔴패"}]'
+awayRecent: '[{"date":"26.09.29","home":"짐바브웨","away":"콩고민주공화국","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6040262-2026-09-29-zimbabwe/"},{"date":"26.09.25","home":"시에라리온","away":"짐바브웨","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040260-2026-09-25-sierra-leone/"},{"date":"26.05.30","home":"인도","away":"짐바브웨","score":"0-1","result":"🟢승"},{"date":"26.05.27","home":"나이지리아","away":"짐바브웨","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1540349-2026-05-27-nigeria/"},{"date":"26.03.29","home":"보츠와나","away":"짐바브웨","score":"0-3","result":"🟢승"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "적도 기니"
+pickWinResult: "승"
+pickHandicapTeam: "적도 기니"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "0"
+pickOuValue: ""
+pickOuDirection: ""
+---

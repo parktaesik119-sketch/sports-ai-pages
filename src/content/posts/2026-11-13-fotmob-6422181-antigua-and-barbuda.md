@@ -1,0 +1,37 @@
+---
+title: "앤티가 바부다 vs 트리니다드 토바고 축구분석·승부예측 (11월 13일) - 픽천국"
+date: 2026-11-12T23:00:00.000Z
+description: "앤티가 바부다 vs 트리니다드 토바고 축구분석: 앤티가 바부다는 최근 치른 경기들에서 뛰어난 득점력을 뽐내며 공수 양면에서 안정된 전력을 보여주고 있습니다. 반면 트리니다드 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6422181-2026-11-13-antigua-and-barbuda"
+category: "soccer"
+country: "국제"
+league: "CONCACAF Nations League Play-In"
+homeTeam: "앤티가 바부다"
+awayTeam: "트리니다드 토바고"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6101.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/7724.png"
+homeAnalysis: "앤티가 바부다는 앞선 4경기에서 3승 0무 1패로 승률 75%를 기록했고 안정적인 공수 균형을 바탕으로 상승세를 이어가고 있습니다. 최근 치른 경기들에서 득점력을 폭발시키며 상대를 압도하는 모습을 자주 보여주었습니다. 홈 경기 이점을 살려 경기를 주도하는 능력이 뛰어나며 공격진의 마무리가 매우 매끄럽습니다. 수비에서도 집중력을 유지하며 실점을 최소화하려는 노력이 돋보입니다. 전체적으로 팀 전력이 탄탄하게 짜여 있어 이번 경기에서도 좋은 흐름을 기대해 볼 수 있습니다."
+awayAnalysis: "트리니다드 토바고는 앞선 7경기에서 0승 1무 6패로 승률 0%를 기록했고 승리를 거두지 못하며 다소 부진한 전력을 보이고 있습니다. 최근 일정에서 수비 조직력이 흔들리며 실점이 늘어난 점이 아쉬운 부분으로 꼽힙니다. 원정 경기 환경 속에서 공격 전개에 어려움을 겪으며 득점력 회복이 시급한 과제로 남아 있습니다. 무승부를 기록한 경기가 있긴 하지만 전체적인 흐름을 바꾸기에는 역부족인 모습을 노출했습니다. 이번 경기에서는 수비를 단단히 잠그고 반격을 노리는 운영이 필요해 보입니다."
+homePower: "최근 다득점 경기를 반복하며 공격 전개 능력이 정점에 달함|홈 경기에서 상대를 압박하는 점유율 확보 능력이 매우 뛰어남|수비진의 유기적인 커버 플레이로 실점 위기를 잘 차단함|흐름을 탈 때 집중적으로 몰아치는 득점 생산력이 큰 강점임|선수 간 호흡이 안정적으로 맞아떨어져 경기 운영이 매끄러움"
+awayPower: "원정 경기에서 수비 라인이 쉽게 무너지며 실점이 잦음|공격진의 문전 앞 세밀함이 부족해 결정력 회복이 시급함|반복되는 부상 공백으로 인해 전술 운용의 폭이 좁아진 상태임|압박 수비에 부딪힐 때 패스 성공률이 급격히 떨어지는 경향이 있음|후반전 체력 저하로 인해 경기 막판 실점 허용 빈도가 높음"
+h2h: '[]'
+summary: "앤티가 바부다는 최근 치른 경기들에서 뛰어난 득점력을 뽐내며 공수 양면에서 안정된 전력을 보여주고 있습니다. 반면 트리니다드 토바고는 계속되는 부진 속에서 원정 승리를 거두지 못하며 전력의 열세를 드러내고 있습니다. 양 팀의 최근 흐름과 경기력을 종합해 볼 때 홈팀인 앤티가 바부다가 경기를 주도하며 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.10.07","home":"앤티가 바부다","away":"아루바","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5991949-2026-10-07-antigua-and-barbuda/"},{"date":"26.10.02","home":"앵귈라","away":"앤티가 바부다","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5991947-2026-10-02-anguilla/"},{"date":"26.09.27","home":"앤티가 바부다","away":"앵귈라","score":"5-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5991945-2026-09-27-antigua-and-barbuda/"},{"date":"26.09.24","home":"아루바","away":"앤티가 바부다","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5991944-2026-09-24-aruba/"},{"date":"25.06.11","home":"온두라스","away":"앤티가 바부다","score":"2-0","result":"🔴패"}]'
+awayRecent: '[{"date":"26.10.05","home":"트리니다드 토바고","away":"퀴라소","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5991887-2026-10-05-trinidad-and-tobago/"},{"date":"26.10.02","home":"퀴라소","away":"트리니다드 토바고","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5991883-2026-10-02-curacao/"},{"date":"26.09.28","home":"트리니다드 토바고","away":"도미니카 공화국","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5991881-2026-09-28-trinidad-and-tobago/"},{"date":"26.09.25","home":"아이티","away":"트리니다드 토바고","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5991878-2026-09-25-haiti/"},{"date":"26.07.26","home":"루이빌","away":"트리니다드 토바고","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1583653-2026-07-26-louisville-city/"}]'
+injuryHome: "없음"
+injuryAway: "Dante Sealy (충돌 부상) | Tyrese Spicer (발 부상) | Roald Mitchell (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "앤티가 바부다"
+pickWinResult: "승"
+pickHandicapTeam: "앤티가 바부다"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---

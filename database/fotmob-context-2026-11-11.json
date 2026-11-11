@@ -1,0 +1,4634 @@
+[
+  {
+    "home": "Vietnam",
+    "away": "Chinese Taipei",
+    "date": "2026-11-11T12:00:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2016-03-24T12:00:00.000Z",
+        "home": "Vietnam",
+        "away": "Chinese Taipei",
+        "homeScore": 4,
+        "awayScore": 1
+      },
+      {
+        "date": "2015-09-08T11:05:00.000Z",
+        "home": "Chinese Taipei",
+        "away": "Vietnam",
+        "homeScore": 1,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-26T13:00:00.000Z",
+          "home": "Vietnam",
+          "away": "Thailand",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-26T12:30:00.000Z",
+          "home": "Vietnam",
+          "away": "Philippines",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T12:30:00.000Z",
+          "home": "Thailand",
+          "away": "Vietnam",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-02T09:00:00.000Z",
+          "home": "Vietnam",
+          "away": "Pakistan",
+          "homeScore": 4,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-05T09:00:00.000Z",
+          "home": "Malaysia",
+          "away": "Vietnam",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-09-05T13:30:00.000Z",
+          "home": "Indonesia",
+          "away": "Chinese Taipei",
+          "homeScore": 6,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-09T12:30:00.000Z",
+          "home": "Thailand",
+          "away": "Chinese Taipei",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-14T10:30:00.000Z",
+          "home": "Chinese Taipei",
+          "away": "Thailand",
+          "homeScore": 1,
+          "awayScore": 6
+        },
+        {
+          "date": "2025-11-18T13:45:00.000Z",
+          "home": "Turkmenistan",
+          "away": "Chinese Taipei",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-31T10:30:00.000Z",
+          "home": "Chinese Taipei",
+          "away": "Sri Lanka",
+          "homeScore": 1,
+          "awayScore": 3
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Tavernes de la Valldigna",
+    "away": "Valencia",
+    "date": "2026-11-10T20:00:00.000Z",
+    "league": "Copa del Rey - 1st Round",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Jesús Vázquez",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "David Otorbi",
+          "status": "햄스트링 부상",
+          "detail": "Early December 2026"
+        },
+        {
+          "name": "Diego López",
+          "status": "십자 인대 부상",
+          "detail": "Mid February 2027"
+        },
+        {
+          "name": "Sergi Canós",
+          "status": "십자 인대 부상",
+          "detail": "Late November 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-27T16:00:00.000Z",
+          "home": "UD Maracena",
+          "away": "Tavernes de la Valldigna",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-04T16:00:00.000Z",
+          "home": "Tavernes de la Valldigna",
+          "away": "UD Maracena",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-10-11T19:00:00.000Z",
+          "home": "Racing Santander",
+          "away": "Valencia",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-17T19:00:00.000Z",
+          "home": "Valencia",
+          "away": "Athletic Club",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-24T16:30:00.000Z",
+          "home": "Valencia",
+          "away": "Villarreal",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-11-01T17:30:00.000Z",
+          "home": "Elche",
+          "away": "Valencia",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-11-07T20:00:00.000Z",
+          "home": "Valencia",
+          "away": "Real Madrid",
+          "homeScore": 0,
+          "awayScore": 3
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Arnau Mainar (GK)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Edu Palomares (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Artur Hayrapetyan (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Jordi Meló (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Morenet (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Joan Brines (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Aarón Acevedo (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Toni Santandreu (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Edu Alberola (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Marc Talens (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Joan Talens (FW)|https://images.fotmob.com/image_resources/playerimages/0.png"
+      ],
+      "away": [
+        "Kayne van Oevelen (GK)|https://images.fotmob.com/image_resources/playerimages/1348497.png",
+        "Dimitri Foulquier (DF)|https://images.fotmob.com/image_resources/playerimages/261609.png",
+        "Arnau Martínez (DF)|https://images.fotmob.com/image_resources/playerimages/1194892.png",
+        "José Copete (DF)|https://images.fotmob.com/image_resources/playerimages/896402.png",
+        "Luis Rioja (DF)|https://images.fotmob.com/image_resources/playerimages/638070.png",
+        "Ryunosuke Sato (MF)|https://images.fotmob.com/image_resources/playerimages/1611149.png",
+        "Harvey Elliott (MF)|https://images.fotmob.com/image_resources/playerimages/963964.png",
+        "Filip Ugrinic (MF)|https://images.fotmob.com/image_resources/playerimages/800615.png",
+        "Dani Raba (MF)|https://images.fotmob.com/image_resources/playerimages/784246.png",
+        "Aimar Blázquez (FW)|https://images.fotmob.com/image_resources/playerimages/1793871.png",
+        "Hugo Duro (FW)|https://images.fotmob.com/image_resources/playerimages/929838.png"
+      ]
+    },
+    "formation": {
+      "home": "5-4-1",
+      "away": "4-4-2"
+    },
+    "coach": {
+      "home": "Tomaca",
+      "away": "Javier Aguirre|https://images.fotmob.com/image_resources/playerimages/78642.png"
+    }
+  },
+  {
+    "home": "New Zealand",
+    "away": "India",
+    "date": "2026-11-12T06:00:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [
+        {
+          "name": "Callan Elliot",
+          "status": "부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Liberato Cacace",
+          "status": "종아리 부상",
+          "detail": "Unknown"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-27T03:00:00.000Z",
+          "home": "New Zealand",
+          "away": "Belgium",
+          "homeScore": 1,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-09-24T09:30:00.000Z",
+          "home": "Palestine",
+          "away": "New Zealand",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-27T11:35:00.000Z",
+          "home": "China",
+          "away": "New Zealand",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-01T06:10:00.000Z",
+          "home": "Panama",
+          "away": "New Zealand",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-05T10:30:00.000Z",
+          "home": "Japan",
+          "away": "New Zealand",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-09T15:00:00.000Z",
+          "home": "Tajikistan",
+          "away": "India",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T14:00:00.000Z",
+          "home": "India",
+          "away": "Panama",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-03T14:00:00.000Z",
+          "home": "India",
+          "away": "Brazil",
+          "homeScore": 0,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-06T14:00:00.000Z",
+          "home": "India",
+          "away": "Uruguay",
+          "homeScore": 1,
+          "awayScore": 6
+        },
+        {
+          "date": "2026-11-05T09:30:00.000Z",
+          "home": "Pakistan",
+          "away": "India",
+          "homeScore": 2,
+          "awayScore": 3
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Wolfsburg",
+    "away": "Union Berlin",
+    "date": "2026-11-12T13:30:00.000Z",
+    "league": "Club Friendlies",
+    "injuries": {
+      "home": [
+        {
+          "name": "Rogério",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Mattias Svanberg",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Aster Vranckx",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Christian Eriksen",
+          "status": "부상",
+          "detail": "Unknown"
+        }
+      ],
+      "away": [
+        {
+          "name": "Robert Skov",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Stanley N'Soki",
+          "status": "종아리 부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Andrik Markgraf",
+          "status": "십자 인대 부상",
+          "detail": "Early March 2027"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-04-18T13:30:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2025-12-06T14:30:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-04-06T15:30:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-11-23T14:30:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-02-10T14:30:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-09-16T13:30:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-03-12T18:30:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-01-31T19:45:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-09-18T13:30:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-03-05T14:30:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-10-16T13:30:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-05-08T13:30:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-01-09T14:30:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2020-03-01T12:30:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2019-10-06T13:30:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2019-07-27T13:00:00.000Z",
+        "home": "Union Berlin",
+        "away": "Wolfsburg",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-03-22T17:30:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2016-11-09T14:35:00.000Z",
+        "home": "Wolfsburg",
+        "away": "Union Berlin",
+        "homeScore": 1,
+        "awayScore": 3
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-10-17T11:00:00.000Z",
+          "home": "Wolfsburg",
+          "away": "FC Heidenheim",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-23T16:30:00.000Z",
+          "home": "Bochum",
+          "away": "Wolfsburg",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-28T17:00:00.000Z",
+          "home": "Freiburg",
+          "away": "Wolfsburg",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-31T12:00:00.000Z",
+          "home": "Wolfsburg",
+          "away": "VfL Osnabrück",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-11-07T19:30:00.000Z",
+          "home": "Hertha BSC",
+          "away": "Wolfsburg",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-10-17T13:30:00.000Z",
+          "home": "Union Berlin",
+          "away": "Borussia Dortmund",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-24T13:30:00.000Z",
+          "home": "Augsburg",
+          "away": "Union Berlin",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-27T19:45:00.000Z",
+          "home": "1. FC Köln",
+          "away": "Union Berlin",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-11-01T14:30:00.000Z",
+          "home": "Union Berlin",
+          "away": "1. FC Köln",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-11-08T16:30:00.000Z",
+          "home": "Freiburg",
+          "away": "Union Berlin",
+          "homeScore": 2,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Turkiye",
+    "away": "Belgium",
+    "date": "2026-11-12T17:00:00.000Z",
+    "league": "UEFA Nations League A Grp. 1",
+    "injuries": {
+      "home": [
+        {
+          "name": "Abdülkerim Bardakci",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Ümit Akdağ",
+          "status": "부상",
+          "detail": "Late November 2026"
+        },
+        {
+          "name": "Aral Şimşir",
+          "status": "근육 부상",
+          "detail": "Late November 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Roméo Lavia",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-10-02T18:45:00.000Z",
+        "home": "Belgium",
+        "away": "Turkiye",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-06-03T18:45:00.000Z",
+        "home": "Belgium",
+        "away": "Turkiye",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2010-09-07T18:00:00.000Z",
+        "home": "Turkiye",
+        "away": "Belgium",
+        "homeScore": 3,
+        "awayScore": 2
+      },
+      {
+        "date": "2000-06-19T18:45:00.000Z",
+        "home": "Turkiye",
+        "away": "Belgium",
+        "homeScore": 2,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-26T02:00:00.000Z",
+          "home": "Turkiye",
+          "away": "USA",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-25T18:45:00.000Z",
+          "home": "Turkiye",
+          "away": "France",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-28T18:45:00.000Z",
+          "home": "Turkiye",
+          "away": "Italy",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-02T18:45:00.000Z",
+          "home": "Belgium",
+          "away": "Turkiye",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-05T18:45:00.000Z",
+          "home": "Italy",
+          "away": "Turkiye",
+          "homeScore": 3,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-10T19:00:00.000Z",
+          "home": "Spain",
+          "away": "Belgium",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T18:45:00.000Z",
+          "home": "Italy",
+          "away": "Belgium",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-28T18:45:00.000Z",
+          "home": "Belgium",
+          "away": "France",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-02T18:45:00.000Z",
+          "home": "Belgium",
+          "away": "Turkiye",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-05T18:45:00.000Z",
+          "home": "France",
+          "away": "Belgium",
+          "homeScore": 4,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Italy",
+    "away": "France",
+    "date": "2026-11-12T19:45:00.000Z",
+    "league": "UEFA Nations League A Grp. 1",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Marcus Thuram",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Pierre Kalulu",
+          "status": "햄스트링 부상",
+          "detail": "Late November 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-10-02T18:45:00.000Z",
+        "home": "France",
+        "away": "Italy",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-11-17T19:45:00.000Z",
+        "home": "Italy",
+        "away": "France",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2024-09-06T18:45:00.000Z",
+        "home": "France",
+        "away": "Italy",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2018-06-01T19:05:00.000Z",
+        "home": "France",
+        "away": "Italy",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2016-09-01T19:05:00.000Z",
+        "home": "Italy",
+        "away": "France",
+        "homeScore": 1,
+        "awayScore": 3
+      },
+      {
+        "date": "2012-11-14T19:50:00.000Z",
+        "home": "Italy",
+        "away": "France",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2008-06-17T18:45:00.000Z",
+        "home": "France",
+        "away": "Italy",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2006-07-09T18:00:00.000Z",
+        "home": "Italy",
+        "away": "France",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2000-07-02T18:00:00.000Z",
+        "home": "France",
+        "away": "Italy",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "1998-07-03T14:30:00.000Z",
+        "home": "Italy",
+        "away": "France",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "1986-06-17T10:00:00.000Z",
+        "home": "Italy",
+        "away": "France",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "1978-06-02T16:45:00.000Z",
+        "home": "Italy",
+        "away": "France",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "1938-06-12T16:00:00.000Z",
+        "home": "Italy",
+        "away": "France",
+        "homeScore": 3,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-07T19:00:00.000Z",
+          "home": "Greece",
+          "away": "Italy",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T18:45:00.000Z",
+          "home": "Italy",
+          "away": "Belgium",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-28T18:45:00.000Z",
+          "home": "Turkiye",
+          "away": "Italy",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-02T18:45:00.000Z",
+          "home": "France",
+          "away": "Italy",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-05T18:45:00.000Z",
+          "home": "Italy",
+          "away": "Turkiye",
+          "homeScore": 3,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-18T21:00:00.000Z",
+          "home": "France",
+          "away": "England",
+          "homeScore": 4,
+          "awayScore": 6
+        },
+        {
+          "date": "2026-09-25T18:45:00.000Z",
+          "home": "Turkiye",
+          "away": "France",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-28T18:45:00.000Z",
+          "home": "Belgium",
+          "away": "France",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-02T18:45:00.000Z",
+          "home": "France",
+          "away": "Italy",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-05T18:45:00.000Z",
+          "home": "France",
+          "away": "Belgium",
+          "homeScore": 4,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Czechia",
+    "away": "Spain",
+    "date": "2026-11-12T19:45:00.000Z",
+    "league": "UEFA Nations League A Grp. 3",
+    "injuries": {
+      "home": [
+        {
+          "name": "Michal Sadílek",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Mikel Oyarzabal",
+          "status": "병",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Lamine Yamal",
+          "status": "무릎 부상",
+          "detail": "About 1-2 weeks"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-10-03T18:45:00.000Z",
+        "home": "Spain",
+        "away": "Czechia",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-06-12T18:45:00.000Z",
+        "home": "Spain",
+        "away": "Czechia",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2022-06-05T18:45:00.000Z",
+        "home": "Czechia",
+        "away": "Spain",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2016-06-13T13:00:00.000Z",
+        "home": "Spain",
+        "away": "Czechia",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2011-10-07T18:45:00.000Z",
+        "home": "Czechia",
+        "away": "Spain",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2011-03-25T21:00:00.000Z",
+        "home": "Spain",
+        "away": "Czechia",
+        "homeScore": 2,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-25T01:00:00.000Z",
+          "home": "Czechia",
+          "away": "Mexico",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-26T18:45:00.000Z",
+          "home": "Czechia",
+          "away": "Croatia",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-29T18:45:00.000Z",
+          "home": "Czechia",
+          "away": "England",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-03T18:45:00.000Z",
+          "home": "Spain",
+          "away": "Czechia",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-06T18:45:00.000Z",
+          "home": "England",
+          "away": "Czechia",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-19T19:00:00.000Z",
+          "home": "Spain",
+          "away": "Argentina",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-26T18:45:00.000Z",
+          "home": "England",
+          "away": "Spain",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-29T18:45:00.000Z",
+          "home": "Spain",
+          "away": "Croatia",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-03T18:45:00.000Z",
+          "home": "Spain",
+          "away": "Czechia",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-06T18:45:00.000Z",
+          "home": "Croatia",
+          "away": "Spain",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "England",
+    "away": "Croatia",
+    "date": "2026-11-12T19:45:00.000Z",
+    "league": "UEFA Nations League A Grp. 3",
+    "injuries": {
+      "home": [
+        {
+          "name": "Myles Lewis-Skelly",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Marc Guéhi",
+          "status": "근육 부상",
+          "detail": "Late November 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ivan Perišić",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Josip Šutalo",
+          "status": "햄스트링 부상",
+          "detail": "Early December 2026"
+        },
+        {
+          "name": "Kristijan Jakić",
+          "status": "무릎 부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Franjo Ivanović",
+          "status": "부상",
+          "detail": "About 1-2 weeks"
+        },
+        {
+          "name": "Marin Pongračić",
+          "status": "허벅지 부상",
+          "detail": "Late November 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "home": "Croatia",
+        "away": "England",
+        "homeScore": 0,
+        "awayScore": 7
+      },
+      {
+        "date": "2026-06-17T20:00:00.000Z",
+        "home": "England",
+        "away": "Croatia",
+        "homeScore": 4,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-06-13T13:00:00.000Z",
+        "home": "England",
+        "away": "Croatia",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-11-18T14:00:00.000Z",
+        "home": "England",
+        "away": "Croatia",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-10-12T18:45:00.000Z",
+        "home": "Croatia",
+        "away": "England",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-07-11T18:00:00.000Z",
+        "home": "Croatia",
+        "away": "England",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2004-06-21T18:45:00.000Z",
+        "home": "Croatia",
+        "away": "England",
+        "homeScore": 2,
+        "awayScore": 4
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-18T21:00:00.000Z",
+          "home": "France",
+          "away": "England",
+          "homeScore": 4,
+          "awayScore": 6
+        },
+        {
+          "date": "2026-09-26T18:45:00.000Z",
+          "home": "England",
+          "away": "Spain",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-29T18:45:00.000Z",
+          "home": "Czechia",
+          "away": "England",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-03T16:00:00.000Z",
+          "home": "Croatia",
+          "away": "England",
+          "homeScore": 0,
+          "awayScore": 7
+        },
+        {
+          "date": "2026-10-06T18:45:00.000Z",
+          "home": "England",
+          "away": "Czechia",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-07-02T23:00:00.000Z",
+          "home": "Portugal",
+          "away": "Croatia",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-26T18:45:00.000Z",
+          "home": "Czechia",
+          "away": "Croatia",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-29T18:45:00.000Z",
+          "home": "Spain",
+          "away": "Croatia",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-03T16:00:00.000Z",
+          "home": "Croatia",
+          "away": "England",
+          "homeScore": 0,
+          "awayScore": 7
+        },
+        {
+          "date": "2026-10-06T18:45:00.000Z",
+          "home": "Croatia",
+          "away": "Spain",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Armenia",
+    "away": "Cyprus",
+    "date": "2026-11-12T17:00:00.000Z",
+    "league": "UEFA Nations League C Grp. 2",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Kostas Pileas",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Ioannis Kosti",
+          "status": "다리 부상",
+          "detail": "Doubtful"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "home": "Cyprus",
+        "away": "Armenia",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-03-28T15:00:00.000Z",
+        "home": "Armenia",
+        "away": "Cyprus",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2017-11-13T14:00:00.000Z",
+        "home": "Armenia",
+        "away": "Cyprus",
+        "homeScore": 3,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-09T15:00:00.000Z",
+          "home": "Armenia",
+          "away": "Moldova",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T16:00:00.000Z",
+          "home": "Armenia",
+          "away": "Latvia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Armenia",
+          "away": "Montenegro",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-02T16:00:00.000Z",
+          "home": "Cyprus",
+          "away": "Armenia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-05T18:45:00.000Z",
+          "home": "Montenegro",
+          "away": "Armenia",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-07T13:00:00.000Z",
+          "home": "Liechtenstein",
+          "away": "Cyprus",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-25T18:45:00.000Z",
+          "home": "Montenegro",
+          "away": "Cyprus",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Latvia",
+          "away": "Cyprus",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-02T16:00:00.000Z",
+          "home": "Cyprus",
+          "away": "Armenia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-05T16:00:00.000Z",
+          "home": "Cyprus",
+          "away": "Latvia",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Montenegro",
+    "away": "Latvia",
+    "date": "2026-11-12T19:45:00.000Z",
+    "league": "UEFA Nations League C Grp. 2",
+    "injuries": {
+      "home": [
+        {
+          "name": "Stefan Lončar",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        }
+      ],
+      "away": [
+        {
+          "name": "Renārs Varslavāns",
+          "status": "십자 인대 부상",
+          "detail": "Late January 2027"
+        },
+        {
+          "name": "Kristers Penkevics",
+          "status": "부상",
+          "detail": "Unknown"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "home": "Latvia",
+        "away": "Montenegro",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-09-07T18:45:00.000Z",
+        "home": "Montenegro",
+        "away": "Latvia",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-03-24T19:45:00.000Z",
+        "home": "Latvia",
+        "away": "Montenegro",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2020-10-07T16:00:00.000Z",
+        "home": "Montenegro",
+        "away": "Latvia",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2012-08-15T18:30:00.000Z",
+        "home": "Montenegro",
+        "away": "Latvia",
+        "homeScore": 2,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-05T16:30:00.000Z",
+          "home": "Slovakia",
+          "away": "Montenegro",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-25T18:45:00.000Z",
+          "home": "Montenegro",
+          "away": "Cyprus",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Armenia",
+          "away": "Montenegro",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-02T16:00:00.000Z",
+          "home": "Latvia",
+          "away": "Montenegro",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-05T18:45:00.000Z",
+          "home": "Montenegro",
+          "away": "Armenia",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-09T15:00:00.000Z",
+          "home": "Latvia",
+          "away": "Faroe Islands",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T16:00:00.000Z",
+          "home": "Armenia",
+          "away": "Latvia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Latvia",
+          "away": "Cyprus",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-02T16:00:00.000Z",
+          "home": "Latvia",
+          "away": "Montenegro",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-05T16:00:00.000Z",
+          "home": "Cyprus",
+          "away": "Latvia",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Albania",
+    "away": "Finland",
+    "date": "2026-11-12T19:45:00.000Z",
+    "league": "UEFA Nations League C Grp. 1",
+    "injuries": {
+      "home": [
+        {
+          "name": "Juljan Shehu",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-10-03T13:00:00.000Z",
+        "home": "Finland",
+        "away": "Albania",
+        "homeScore": 2,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-06T18:00:00.000Z",
+          "home": "Albania",
+          "away": "Luxembourg",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-26T18:45:00.000Z",
+          "home": "Albania",
+          "away": "Belarus",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T18:45:00.000Z",
+          "home": "San Marino",
+          "away": "Albania",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-03T13:00:00.000Z",
+          "home": "Finland",
+          "away": "Albania",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-06T18:45:00.000Z",
+          "home": "Albania",
+          "away": "San Marino",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-05T17:45:00.000Z",
+          "home": "Hungary",
+          "away": "Finland",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-26T16:00:00.000Z",
+          "home": "San Marino",
+          "away": "Finland",
+          "homeScore": 0,
+          "awayScore": 7
+        },
+        {
+          "date": "2026-09-29T16:00:00.000Z",
+          "home": "Finland",
+          "away": "Belarus",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-03T13:00:00.000Z",
+          "home": "Finland",
+          "away": "Albania",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-06T18:45:00.000Z",
+          "home": "Belarus",
+          "away": "Finland",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "San Marino",
+    "away": "Belarus",
+    "date": "2026-11-12T19:45:00.000Z",
+    "league": "UEFA Nations League C Grp. 1",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Artem Shumanskiy",
+          "status": "부상",
+          "detail": "Mid November 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "home": "Belarus",
+        "away": "San Marino",
+        "homeScore": 4,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-11-18T17:00:00.000Z",
+        "home": "San Marino",
+        "away": "Belarus",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2018-09-08T16:00:00.000Z",
+        "home": "Belarus",
+        "away": "San Marino",
+        "homeScore": 5,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-09T18:00:00.000Z",
+          "home": "Azerbaijan",
+          "away": "San Marino",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-26T16:00:00.000Z",
+          "home": "San Marino",
+          "away": "Finland",
+          "homeScore": 0,
+          "awayScore": 7
+        },
+        {
+          "date": "2026-09-29T18:45:00.000Z",
+          "home": "San Marino",
+          "away": "Albania",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-03T16:00:00.000Z",
+          "home": "Belarus",
+          "away": "San Marino",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-06T18:45:00.000Z",
+          "home": "Albania",
+          "away": "San Marino",
+          "homeScore": 2,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-09T16:30:00.000Z",
+          "home": "Belarus",
+          "away": "Burkina Faso",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-26T18:45:00.000Z",
+          "home": "Albania",
+          "away": "Belarus",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T16:00:00.000Z",
+          "home": "Finland",
+          "away": "Belarus",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-03T16:00:00.000Z",
+          "home": "Belarus",
+          "away": "San Marino",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-06T18:45:00.000Z",
+          "home": "Belarus",
+          "away": "Finland",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Uzbekistan",
+    "away": "Russia",
+    "date": "2026-11-12T15:00:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Dmitri Barinov",
+          "status": "무릎 부상",
+          "detail": "Day to day"
+        },
+        {
+          "name": "Nikita Krivtsov",
+          "status": "부상",
+          "detail": "Day to day"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2022-11-20T12:00:00.000Z",
+        "home": "Uzbekistan",
+        "away": "Russia",
+        "homeScore": 0,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-23T17:00:00.000Z",
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-27T23:30:00.000Z",
+          "home": "DR Congo",
+          "away": "Uzbekistan",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-24T14:00:00.000Z",
+          "home": "Uzbekistan",
+          "away": "Iran",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-01T14:00:00.000Z",
+          "home": "Uzbekistan",
+          "away": "Syria",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-06T11:00:00.000Z",
+          "home": "South Korea",
+          "away": "Uzbekistan",
+          "homeScore": 2,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-05T17:00:00.000Z",
+          "home": "Russia",
+          "away": "Burkina Faso",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-09T17:00:00.000Z",
+          "home": "Russia",
+          "away": "Trinidad and Tobago",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T16:05:00.000Z",
+          "home": "Russia",
+          "away": "Iran",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-03T15:40:00.000Z",
+          "home": "Russia",
+          "away": "Namibia",
+          "homeScore": 6,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-06T16:00:00.000Z",
+          "home": "Russia",
+          "away": "Nigeria",
+          "homeScore": 3,
+          "awayScore": 3
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Lithuania",
+    "away": "Suriname",
+    "date": "2026-11-12T17:00:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-09T16:00:00.000Z",
+          "home": "Estonia",
+          "away": "Lithuania",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-24T18:45:00.000Z",
+          "home": "Liechtenstein",
+          "away": "Lithuania",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-27T13:00:00.000Z",
+          "home": "Lithuania",
+          "away": "Azerbaijan",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-30T16:00:00.000Z",
+          "home": "Lithuania",
+          "away": "Andorra",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-04T13:00:00.000Z",
+          "home": "Azerbaijan",
+          "away": "Lithuania",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-03-26T22:00:00.000Z",
+          "home": "Bolivia",
+          "away": "Suriname",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-26T01:00:00.000Z",
+          "home": "Honduras",
+          "away": "Suriname",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-28T22:00:00.000Z",
+          "home": "Suriname",
+          "away": "Martinique",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-02T22:00:00.000Z",
+          "home": "Suriname",
+          "away": "Guatemala",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-06T00:00:00.000Z",
+          "home": "Guatemala",
+          "away": "Suriname",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Malta",
+    "away": "Eswatini",
+    "date": "2026-11-12T17:30:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-05T18:00:00.000Z",
+          "home": "Azerbaijan",
+          "away": "Malta",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-24T16:00:00.000Z",
+          "home": "Andorra",
+          "away": "Malta",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-27T16:30:00.000Z",
+          "home": "Malta",
+          "away": "Liechtenstein",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-01T18:45:00.000Z",
+          "home": "Malta",
+          "away": "Gibraltar",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-04T16:00:00.000Z",
+          "home": "Malta",
+          "away": "Andorra",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-06-11T13:00:00.000Z",
+          "home": "Eswatini",
+          "away": "Tanzania",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2025-09-04T19:00:00.000Z",
+          "home": "Cameroon",
+          "away": "Eswatini",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-09-08T19:00:00.000Z",
+          "home": "Libya",
+          "away": "Eswatini",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-08T13:00:00.000Z",
+          "home": "Eswatini",
+          "away": "Angola",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2025-10-13T16:00:00.000Z",
+          "home": "Cape Verde",
+          "away": "Eswatini",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Chinese Taipei",
+    "away": "Kyrgyzstan",
+    "date": "2026-11-13T12:00:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2024-03-26T14:00:00.000Z",
+        "home": "Kyrgyzstan",
+        "away": "Chinese Taipei",
+        "homeScore": 5,
+        "awayScore": 1
+      },
+      {
+        "date": "2024-03-21T08:00:00.000Z",
+        "home": "Chinese Taipei",
+        "away": "Kyrgyzstan",
+        "homeScore": 0,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-09-05T13:30:00.000Z",
+          "home": "Indonesia",
+          "away": "Chinese Taipei",
+          "homeScore": 6,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-09T12:30:00.000Z",
+          "home": "Thailand",
+          "away": "Chinese Taipei",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-14T10:30:00.000Z",
+          "home": "Chinese Taipei",
+          "away": "Thailand",
+          "homeScore": 1,
+          "awayScore": 6
+        },
+        {
+          "date": "2025-11-18T13:45:00.000Z",
+          "home": "Turkmenistan",
+          "away": "Chinese Taipei",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-31T10:30:00.000Z",
+          "home": "Chinese Taipei",
+          "away": "Sri Lanka",
+          "homeScore": 1,
+          "awayScore": 3
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-06-10T13:45:00.000Z",
+          "home": "Kyrgyzstan",
+          "away": "UAE",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-25T14:00:00.000Z",
+          "home": "Kyrgyzstan",
+          "away": "Equatorial Guinea",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-28T14:00:00.000Z",
+          "home": "Kyrgyzstan",
+          "away": "Madagascar",
+          "homeScore": 2,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-09-28T14:00:00.000Z",
+          "home": "Kyrgyzstan",
+          "away": "Maldives",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-04T14:00:00.000Z",
+          "home": "Kyrgyzstan",
+          "away": "Lebanon",
+          "homeScore": 3,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Singapore",
+    "away": "Paraguay",
+    "date": "2026-11-13T12:00:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "José Canale",
+          "status": "부상",
+          "detail": "Early December 2026"
+        },
+        {
+          "name": "Andrés Cubas",
+          "status": "발목 부상",
+          "detail": "Late November 2026"
+        },
+        {
+          "name": "Antonio Sanabria",
+          "status": "종아리 부상",
+          "detail": "Mid November 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-08-15T13:00:00.000Z",
+          "home": "Singapore",
+          "away": "Thailand",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-08-18T13:00:00.000Z",
+          "home": "Thailand",
+          "away": "Singapore",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-25T13:00:00.000Z",
+          "home": "Indonesia",
+          "away": "Singapore",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-28T09:00:00.000Z",
+          "home": "Singapore",
+          "away": "Bangladesh",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-01T12:30:00.000Z",
+          "home": "Malaysia",
+          "away": "Singapore",
+          "homeScore": 6,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-26T02:00:00.000Z",
+          "home": "Paraguay",
+          "away": "Australia",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-29T20:30:00.000Z",
+          "home": "Germany",
+          "away": "Paraguay",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-04T21:00:00.000Z",
+          "home": "Paraguay",
+          "away": "France",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-27T20:30:00.000Z",
+          "home": "Bolivia",
+          "away": "Paraguay",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": "Colombia",
+          "away": "Paraguay",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Kuwait",
+    "away": "Syria",
+    "date": "2026-11-13T14:00:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-12-09T14:30:00.000Z",
+          "home": "UAE",
+          "away": "Kuwait",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-05T12:30:00.000Z",
+          "home": "Thailand",
+          "away": "Kuwait",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-23T18:00:00.000Z",
+          "home": "Saudi Arabia",
+          "away": "Kuwait",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-26T15:55:00.000Z",
+          "home": "Kuwait",
+          "away": "Iraq",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-29T17:30:00.000Z",
+          "home": "Oman",
+          "away": "Kuwait",
+          "homeScore": 3,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-12-11T14:30:00.000Z",
+          "home": "Morocco",
+          "away": "Syria",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-31T16:15:00.000Z",
+          "home": "Syria",
+          "away": "Afghanistan",
+          "homeScore": 5,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-05T16:00:00.000Z",
+          "home": "Belarus",
+          "away": "Syria",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-27T17:00:00.000Z",
+          "home": "Jordan",
+          "away": "Syria",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-01T14:00:00.000Z",
+          "home": "Uzbekistan",
+          "away": "Syria",
+          "homeScore": 4,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Saudi Arabia",
+    "away": "South Korea",
+    "date": "2026-11-13T14:30:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [
+        {
+          "name": "Hassan Kadish",
+          "status": "충돌 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Alaa Al Hejji",
+          "status": "무릎 부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2024-01-30T16:00:00.000Z",
+        "home": "Saudi Arabia",
+        "away": "South Korea",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-09-12T16:30:00.000Z",
+        "home": "South Korea",
+        "away": "Saudi Arabia",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-12-31T16:05:00.000Z",
+        "home": "Saudi Arabia",
+        "away": "South Korea",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2015-01-04T09:00:00.000Z",
+        "home": "Saudi Arabia",
+        "away": "South Korea",
+        "homeScore": 0,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-23T18:00:00.000Z",
+          "home": "Saudi Arabia",
+          "away": "Kuwait",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-26T18:00:00.000Z",
+          "home": "Oman",
+          "away": "Saudi Arabia",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-29T17:30:00.000Z",
+          "home": "Saudi Arabia",
+          "away": "Iraq",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-03T15:55:00.000Z",
+          "home": "Saudi Arabia",
+          "away": "Qatar",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-06T18:00:00.000Z",
+          "home": "Saudi Arabia",
+          "away": "UAE",
+          "homeScore": 2,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-25T01:00:00.000Z",
+          "home": "South Africa",
+          "away": "South Korea",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-24T11:00:00.000Z",
+          "home": "South Korea",
+          "away": "Ecuador",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-28T11:00:00.000Z",
+          "home": "South Korea",
+          "away": "Uruguay",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-10-02T11:00:00.000Z",
+          "home": "South Korea",
+          "away": "Venezuela",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-06T11:00:00.000Z",
+          "home": "South Korea",
+          "away": "Uzbekistan",
+          "homeScore": 2,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Qatar",
+    "away": "Australia",
+    "date": "2026-11-13T14:45:00.000Z",
+    "league": "Friendlies",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Aiden O'Neill",
+          "status": "발목 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Mohamed Touré",
+          "status": "어깨 부상",
+          "detail": "Early January 2027"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2014-10-14T16:00:00.000Z",
+        "home": "Qatar",
+        "away": "Australia",
+        "homeScore": 1,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-24T19:00:00.000Z",
+          "home": "Bosnia and Herzegovina",
+          "away": "Qatar",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-24T18:00:00.000Z",
+          "home": "Qatar",
+          "away": "Bahrain",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-27T15:55:00.000Z",
+          "home": "Yemen",
+          "away": "Qatar",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-30T17:30:00.000Z",
+          "home": "UAE",
+          "away": "Qatar",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-03T15:55:00.000Z",
+          "home": "Saudi Arabia",
+          "away": "Qatar",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-19T19:00:00.000Z",
+          "home": "USA",
+          "away": "Australia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-26T02:00:00.000Z",
+          "home": "Paraguay",
+          "away": "Australia",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-03T18:00:00.000Z",
+          "home": "Australia",
+          "away": "Egypt",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T10:00:00.000Z",
+          "home": "Australia",
+          "away": "Brazil",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T10:00:00.000Z",
+          "home": "Australia",
+          "away": "Brazil",
+          "homeScore": 2,
+          "awayScore": 4
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Ghana",
+    "away": "Somalia",
+    "date": "2026-11-12T15:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. C",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-23T20:00:00.000Z",
+          "home": "England",
+          "away": "Ghana",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-27T21:00:00.000Z",
+          "home": "Croatia",
+          "away": "Ghana",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-07-04T01:30:00.000Z",
+          "home": "Colombia",
+          "away": "Ghana",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-24T19:00:00.000Z",
+          "home": "Ivory Coast",
+          "away": "Ghana",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T16:00:00.000Z",
+          "home": "Ghana",
+          "away": "Gambia",
+          "homeScore": 2,
+          "awayScore": 4
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-10-09T16:00:00.000Z",
+          "home": "Somalia",
+          "away": "Algeria",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2025-10-14T16:00:00.000Z",
+          "home": "Somalia",
+          "away": "Mozambique",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2025-11-26T13:00:00.000Z",
+          "home": "Oman",
+          "away": "Somalia",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T16:00:00.000Z",
+          "home": "Gambia",
+          "away": "Somalia",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T19:00:00.000Z",
+          "home": "Somalia",
+          "away": "Ivory Coast",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Ivory Coast",
+    "away": "Gambia",
+    "date": "2026-11-12T19:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. C",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Alieu Fadera",
+          "status": "허벅지 부상",
+          "detail": "Late November 2026"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2025-03-24T19:00:00.000Z",
+        "home": "Ivory Coast",
+        "away": "Gambia",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-11-20T16:00:00.000Z",
+        "home": "Gambia",
+        "away": "Ivory Coast",
+        "homeScore": 0,
+        "awayScore": 2
+      },
+      {
+        "date": "2013-06-08T16:30:00.000Z",
+        "home": "Gambia",
+        "away": "Ivory Coast",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      {
+        "date": "2013-03-23T17:00:00.000Z",
+        "home": "Ivory Coast",
+        "away": "Gambia",
+        "homeScore": 3,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-25T20:00:00.000Z",
+          "home": "Curacao",
+          "away": "Ivory Coast",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-06-30T17:00:00.000Z",
+          "home": "Ivory Coast",
+          "away": "Norway",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-24T19:00:00.000Z",
+          "home": "Ivory Coast",
+          "away": "Ghana",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T19:00:00.000Z",
+          "home": "Somalia",
+          "away": "Ivory Coast",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-03T19:00:00.000Z",
+          "home": "Cameroon",
+          "away": "Ivory Coast",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-10-14T13:00:00.000Z",
+          "home": "Seychelles",
+          "away": "Gambia",
+          "homeScore": 0,
+          "awayScore": 7
+        },
+        {
+          "date": "2026-03-31T19:00:00.000Z",
+          "home": "Senegal",
+          "away": "Gambia",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-05-29T15:30:00.000Z",
+          "home": "Iran",
+          "away": "Gambia",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T16:00:00.000Z",
+          "home": "Gambia",
+          "away": "Somalia",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T16:00:00.000Z",
+          "home": "Ghana",
+          "away": "Gambia",
+          "homeScore": 2,
+          "awayScore": 4
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Guinea",
+    "away": "Eritrea",
+    "date": "2026-11-12T16:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. D",
+    "injuries": {
+      "home": [
+        {
+          "name": "Lamine Diaby-Fadiga",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Serhou Guirassy",
+          "status": "부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Ousmane Nana Camara",
+          "status": "부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Issiaga Sylla",
+          "status": "부상",
+          "detail": "Unknown"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-11-15T15:30:00.000Z",
+          "home": "Guinea",
+          "away": "Liberia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-31T18:00:00.000Z",
+          "home": "Benin",
+          "away": "Guinea",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-04T16:00:00.000Z",
+          "home": "Northern Ireland",
+          "away": "Guinea",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-26T13:00:00.000Z",
+          "home": "South Africa",
+          "away": "Guinea",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-01T16:00:00.000Z",
+          "home": "Guinea",
+          "away": "Kenya",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2015-10-13T18:05:00.000Z",
+          "home": "Botswana",
+          "away": "Eritrea",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2019-09-04T13:05:00.000Z",
+          "home": "Eritrea",
+          "away": "Namibia",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2019-09-10T17:00:00.000Z",
+          "home": "Namibia",
+          "away": "Eritrea",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-26T13:00:00.000Z",
+          "home": "Kenya",
+          "away": "Eritrea",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-30T16:00:00.000Z",
+          "home": "Eritrea",
+          "away": "South Africa",
+          "homeScore": 0,
+          "awayScore": 5
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "DR Congo",
+    "away": "Sierra Leone",
+    "date": "2026-11-12T16:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. E",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2014-11-19T14:00:00.000Z",
+        "home": "DR Congo",
+        "away": "Sierra Leone",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2014-09-10T12:10:00.000Z",
+        "home": "Sierra Leone",
+        "away": "DR Congo",
+        "homeScore": 0,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-07-01T16:00:00.000Z",
+          "home": "England",
+          "away": "DR Congo",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-24T16:00:00.000Z",
+          "home": "DR Congo",
+          "away": "Equatorial Guinea",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Zimbabwe",
+          "away": "DR Congo",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-02T13:00:00.000Z",
+          "home": "DR Congo",
+          "away": "Uganda",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-05T13:00:00.000Z",
+          "home": "Uganda",
+          "away": "DR Congo",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-10-08T16:00:00.000Z",
+          "home": "Sierra Leone",
+          "away": "Burkina Faso",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2025-10-12T19:00:00.000Z",
+          "home": "Djibouti",
+          "away": "Sierra Leone",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-03-30T15:00:00.000Z",
+          "home": "Azerbaijan",
+          "away": "Sierra Leone",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-24T19:00:00.000Z",
+          "home": "Sierra Leone",
+          "away": "Zimbabwe",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Equatorial Guinea",
+          "away": "Sierra Leone",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Equatorial Guinea",
+    "away": "Zimbabwe",
+    "date": "2026-11-12T16:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. E",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-12-28T15:00:00.000Z",
+          "home": "Equatorial Guinea",
+          "away": "Sudan",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2025-12-31T16:00:00.000Z",
+          "home": "Equatorial Guinea",
+          "away": "Algeria",
+          "homeScore": 1,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-03-25T14:00:00.000Z",
+          "home": "Kyrgyzstan",
+          "away": "Equatorial Guinea",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-24T16:00:00.000Z",
+          "home": "DR Congo",
+          "away": "Equatorial Guinea",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Equatorial Guinea",
+          "away": "Sierra Leone",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-03-28T16:00:00.000Z",
+          "home": "Botswana",
+          "away": "Zimbabwe",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-05-26T18:30:00.000Z",
+          "home": "Nigeria",
+          "away": "Zimbabwe",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-05-30T13:30:00.000Z",
+          "home": "India",
+          "away": "Zimbabwe",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-24T19:00:00.000Z",
+          "home": "Sierra Leone",
+          "away": "Zimbabwe",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Zimbabwe",
+          "away": "DR Congo",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Madagascar",
+    "away": "Guinea-Bissau",
+    "date": "2026-11-12T16:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. L",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-11-17T14:00:00.000Z",
+          "home": "Madagascar",
+          "away": "Equatorial Guinea",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-28T14:00:00.000Z",
+          "home": "Kyrgyzstan",
+          "away": "Madagascar",
+          "homeScore": 2,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-06-02T17:00:00.000Z",
+          "home": "Morocco",
+          "away": "Madagascar",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T16:00:00.000Z",
+          "home": "Nigeria",
+          "away": "Madagascar",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T14:00:00.000Z",
+          "home": "Madagascar",
+          "away": "Tanzania",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-10-08T13:00:00.000Z",
+          "home": "Ethiopia",
+          "away": "Guinea-Bissau",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-12T19:00:00.000Z",
+          "home": "Egypt",
+          "away": "Guinea-Bissau",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-28T18:00:00.000Z",
+          "home": "Burkina Faso",
+          "away": "Guinea-Bissau",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T13:00:00.000Z",
+          "home": "Tanzania",
+          "away": "Guinea-Bissau",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-29T16:00:00.000Z",
+          "home": "Guinea-Bissau",
+          "away": "Nigeria",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Cameroon",
+    "away": "Namibia",
+    "date": "2026-11-12T19:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. G",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2024-11-13T13:00:00.000Z",
+        "home": "Namibia",
+        "away": "Cameroon",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2024-09-07T16:00:00.000Z",
+        "home": "Cameroon",
+        "away": "Namibia",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "date": "2023-03-28T13:00:00.000Z",
+        "home": "Namibia",
+        "away": "Cameroon",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2023-03-24T20:30:00.000Z",
+        "home": "Cameroon",
+        "away": "Namibia",
+        "homeScore": 1,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-03-27T09:10:00.000Z",
+          "home": "Australia",
+          "away": "Cameroon",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-31T06:00:00.000Z",
+          "home": "Cameroon",
+          "away": "China",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-24T19:00:00.000Z",
+          "home": "Cameroon",
+          "away": "Comoros",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T19:00:00.000Z",
+          "home": "Congo",
+          "away": "Cameroon",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-03T19:00:00.000Z",
+          "home": "Cameroon",
+          "away": "Ivory Coast",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-03-25T12:00:00.000Z",
+          "home": "Kazakhstan",
+          "away": "Namibia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-28T12:00:00.000Z",
+          "home": "Namibia",
+          "away": "Comoros",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-24T13:00:00.000Z",
+          "home": "Namibia",
+          "away": "Congo",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T12:00:00.000Z",
+          "home": "Comoros",
+          "away": "Namibia",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-03T15:40:00.000Z",
+          "home": "Russia",
+          "away": "Namibia",
+          "homeScore": 6,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Comoros",
+    "away": "Congo",
+    "date": "2026-11-13T13:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. G",
+    "injuries": {
+      "home": [
+        {
+          "name": "Iyad Mohamed",
+          "status": "종아리 부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kevin Mouanga",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-03-28T12:00:00.000Z",
+          "home": "Namibia",
+          "away": "Comoros",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-31T12:00:00.000Z",
+          "home": "Kazakhstan",
+          "away": "Comoros",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-24T19:00:00.000Z",
+          "home": "Cameroon",
+          "away": "Comoros",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T12:00:00.000Z",
+          "home": "Comoros",
+          "away": "Namibia",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-04T13:00:00.000Z",
+          "home": "Senegal",
+          "away": "Comoros",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-09-05T16:00:00.000Z",
+          "home": "Congo",
+          "away": "Tanzania",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2025-10-08T19:00:00.000Z",
+          "home": "Niger",
+          "away": "Congo",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2025-10-14T19:00:00.000Z",
+          "home": "Morocco",
+          "away": "Congo",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-24T13:00:00.000Z",
+          "home": "Namibia",
+          "away": "Congo",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T19:00:00.000Z",
+          "home": "Congo",
+          "away": "Cameroon",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Senegal",
+    "away": "Sudan",
+    "date": "2026-11-12T19:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. J",
+    "injuries": {
+      "home": [
+        {
+          "name": "Krépin Diatta",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        },
+        {
+          "name": "Mamadou Sarr",
+          "status": "종아리 부상",
+          "detail": "Doubtful"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-01-03T16:00:00.000Z",
+        "home": "Senegal",
+        "away": "Sudan",
+        "homeScore": 3,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-09-05T19:00:00.000Z",
+        "home": "Senegal",
+        "away": "Sudan",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-08-29T15:00:00.000Z",
+        "home": "Sudan",
+        "away": "Senegal",
+        "homeScore": 1,
+        "awayScore": 1
+      },
+      {
+        "date": "2025-08-19T17:00:00.000Z",
+        "home": "Sudan",
+        "away": "Senegal",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2025-03-22T19:00:00.000Z",
+        "home": "Sudan",
+        "away": "Senegal",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2018-10-16T17:30:00.000Z",
+        "home": "Sudan",
+        "away": "Senegal",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "date": "2018-10-13T19:05:00.000Z",
+        "home": "Senegal",
+        "away": "Sudan",
+        "homeScore": 3,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-26T19:00:00.000Z",
+          "home": "Senegal",
+          "away": "Iraq",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-07-01T20:00:00.000Z",
+          "home": "Belgium",
+          "away": "Senegal",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-25T13:00:00.000Z",
+          "home": "Mozambique",
+          "away": "Senegal",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T13:00:00.000Z",
+          "home": "Ethiopia",
+          "away": "Senegal",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-04T13:00:00.000Z",
+          "home": "Senegal",
+          "away": "Comoros",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-12-28T15:00:00.000Z",
+          "home": "Equatorial Guinea",
+          "away": "Sudan",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2025-12-31T16:00:00.000Z",
+          "home": "Sudan",
+          "away": "Burkina Faso",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-01-03T16:00:00.000Z",
+          "home": "Senegal",
+          "away": "Sudan",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T13:00:00.000Z",
+          "home": "Sudan",
+          "away": "Ethiopia",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T13:00:00.000Z",
+          "home": "Mozambique",
+          "away": "Sudan",
+          "homeScore": 4,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Mozambique",
+    "away": "Ethiopia",
+    "date": "2026-11-13T13:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. J",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2023-01-14T13:00:00.000Z",
+        "home": "Ethiopia",
+        "away": "Mozambique",
+        "homeScore": 0,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-12-31T19:00:00.000Z",
+          "home": "Mozambique",
+          "away": "Cameroon",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-01-05T19:00:00.000Z",
+          "home": "Nigeria",
+          "away": "Mozambique",
+          "homeScore": 4,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-06-09T13:00:00.000Z",
+          "home": "Indonesia",
+          "away": "Mozambique",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T13:00:00.000Z",
+          "home": "Mozambique",
+          "away": "Senegal",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T13:00:00.000Z",
+          "home": "Mozambique",
+          "away": "Sudan",
+          "homeScore": 4,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-09-09T13:00:00.000Z",
+          "home": "Sierra Leone",
+          "away": "Ethiopia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-08T13:00:00.000Z",
+          "home": "Ethiopia",
+          "away": "Guinea-Bissau",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-12T19:00:00.000Z",
+          "home": "Burkina Faso",
+          "away": "Ethiopia",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T13:00:00.000Z",
+          "home": "Sudan",
+          "away": "Ethiopia",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T13:00:00.000Z",
+          "home": "Ethiopia",
+          "away": "Senegal",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Benin",
+    "away": "Central African Republic",
+    "date": "2026-11-12T20:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. F",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Vénuste Baboula",
+          "status": "부상",
+          "detail": "Late November 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-01-05T16:00:00.000Z",
+          "home": "Egypt",
+          "away": "Benin",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-03-31T18:00:00.000Z",
+          "home": "Benin",
+          "away": "Guinea",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T19:00:00.000Z",
+          "home": "Burkina Faso",
+          "away": "Benin",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T19:00:00.000Z",
+          "home": "Benin",
+          "away": "Mauritania",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-06T23:00:00.000Z",
+          "home": "Argentina",
+          "away": "Benin",
+          "homeScore": 3,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-09-07T16:00:00.000Z",
+          "home": "Central African Republic",
+          "away": "Comoros",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2025-10-08T16:00:00.000Z",
+          "home": "Central African Republic",
+          "away": "Ghana",
+          "homeScore": 0,
+          "awayScore": 5
+        },
+        {
+          "date": "2025-10-12T16:00:00.000Z",
+          "home": "Chad",
+          "away": "Central African Republic",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-24T16:00:00.000Z",
+          "home": "Mauritania",
+          "away": "Central African Republic",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-28T16:00:00.000Z",
+          "home": "Central African Republic",
+          "away": "Burkina Faso",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Zambia",
+    "away": "Burundi",
+    "date": "2026-11-13T13:00:00.000Z",
+    "league": "Africa Cup of Nations Qualification Grp. I",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-12-29T19:00:00.000Z",
+          "home": "Zambia",
+          "away": "Morocco",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-03-28T13:00:00.000Z",
+          "home": "Zambia",
+          "away": "Malawi",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-03-31T23:30:00.000Z",
+          "home": "Argentina",
+          "away": "Zambia",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T19:00:00.000Z",
+          "home": "Algeria",
+          "away": "Zambia",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-29T16:00:00.000Z",
+          "home": "Zambia",
+          "away": "Togo",
+          "homeScore": 2,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-09-09T19:00:00.000Z",
+          "home": "Gambia",
+          "away": "Burundi",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2025-10-09T13:00:00.000Z",
+          "home": "Burundi",
+          "away": "Kenya",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2025-10-14T19:00:00.000Z",
+          "home": "Gabon",
+          "away": "Burundi",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T16:00:00.000Z",
+          "home": "Togo",
+          "away": "Burundi",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T13:00:00.000Z",
+          "home": "Burundi",
+          "away": "Algeria",
+          "homeScore": 2,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Cayman Islands",
+    "away": "Guyana",
+    "date": "2026-11-12T19:00:00.000Z",
+    "league": "CONCACAF Nations League B Grp. 1",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-09-27T19:00:00.000Z",
+        "home": "Guyana",
+        "away": "Cayman Islands",
+        "homeScore": 2,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-06T17:00:00.000Z",
+          "home": "Gibraltar",
+          "away": "Cayman Islands",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-25T00:10:00.000Z",
+          "home": "Cayman Islands",
+          "away": "Dominica",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-27T19:00:00.000Z",
+          "home": "Guyana",
+          "away": "Cayman Islands",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-02T00:00:00.000Z",
+          "home": "Cayman Islands",
+          "away": "Puerto Rico",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-04T22:00:00.000Z",
+          "home": "Puerto Rico",
+          "away": "Cayman Islands",
+          "homeScore": 1,
+          "awayScore": 0
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-06-11T00:00:00.000Z",
+          "home": "Guyana",
+          "away": "Montserrat",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-24T19:00:00.000Z",
+          "home": "Puerto Rico",
+          "away": "Guyana",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-27T19:00:00.000Z",
+          "home": "Guyana",
+          "away": "Cayman Islands",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-01T21:00:00.000Z",
+          "home": "Dominica",
+          "away": "Guyana",
+          "homeScore": 1,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-10-04T19:00:00.000Z",
+          "home": "Guyana",
+          "away": "Dominica",
+          "homeScore": 8,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Barbados",
+    "away": "Guadeloupe",
+    "date": "2026-11-12T19:00:00.000Z",
+    "league": "CONCACAF Nations League B Grp. 2",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Dimitri Cavaré",
+          "status": "십자 인대 부상",
+          "detail": "Out for season"
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "date": "2026-09-28T19:00:00.000Z",
+        "home": "Guadeloupe",
+        "away": "Barbados",
+        "homeScore": 2,
+        "awayScore": 2
+      },
+      {
+        "date": "2022-06-12T22:00:00.000Z",
+        "home": "Guadeloupe",
+        "away": "Barbados",
+        "homeScore": 2,
+        "awayScore": 1
+      },
+      {
+        "date": "2022-06-09T22:00:00.000Z",
+        "home": "Barbados",
+        "away": "Guadeloupe",
+        "homeScore": 0,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-06-10T22:00:00.000Z",
+          "home": "Saint Lucia",
+          "away": "Barbados",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-26T00:00:00.000Z",
+          "home": "Barbados",
+          "away": "Saint Lucia",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-28T19:00:00.000Z",
+          "home": "Guadeloupe",
+          "away": "Barbados",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": "Barbados",
+          "away": "Bermuda",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-06T00:00:00.000Z",
+          "home": "Bermuda",
+          "away": "Barbados",
+          "homeScore": 1,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-06-24T23:00:00.000Z",
+          "home": "Guadeloupe",
+          "away": "Guatemala",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-25T19:00:00.000Z",
+          "home": "Bermuda",
+          "away": "Guadeloupe",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-28T19:00:00.000Z",
+          "home": "Guadeloupe",
+          "away": "Barbados",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-02T19:00:00.000Z",
+          "home": "Saint Lucia",
+          "away": "Guadeloupe",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-05T19:00:00.000Z",
+          "home": "Guadeloupe",
+          "away": "Saint Lucia",
+          "homeScore": 0,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Bonaire",
+    "away": "Cuba",
+    "date": "2026-11-12T20:00:00.000Z",
+    "league": "CONCACAF Nations League B Grp. 3",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-09-28T21:00:00.000Z",
+        "home": "Cuba",
+        "away": "Bonaire",
+        "homeScore": 2,
+        "awayScore": 0
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2024-11-17T20:00:00.000Z",
+          "home": "Saint Vincent and The Grenadines",
+          "away": "Bonaire",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-26T00:00:00.000Z",
+          "home": "Bonaire",
+          "away": "St. Kitts and Nevis",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-28T21:00:00.000Z",
+          "home": "Cuba",
+          "away": "Bonaire",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": "Bonaire",
+          "away": "Grenada",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-06T00:00:00.000Z",
+          "home": "Grenada",
+          "away": "Bonaire",
+          "homeScore": 1,
+          "awayScore": 4
+        }
+      ],
+      "away": [
+        {
+          "date": "2025-10-11T23:30:00.000Z",
+          "home": "Grenada",
+          "away": "Cuba",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T21:00:00.000Z",
+          "home": "Grenada",
+          "away": "Cuba",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-09-28T21:00:00.000Z",
+          "home": "Cuba",
+          "away": "Bonaire",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-02T21:00:00.000Z",
+          "home": "St. Kitts and Nevis",
+          "away": "Cuba",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-05T21:00:00.000Z",
+          "home": "Cuba",
+          "away": "St. Kitts and Nevis",
+          "homeScore": 2,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Curacao",
+    "away": "Panama",
+    "date": "2026-11-13T00:00:00.000Z",
+    "league": "CONCACAF Nations League A Championship Playoff",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jearl Margaritha",
+          "status": "부상",
+          "detail": "Late November 2026"
+        },
+        {
+          "name": "Jeremy Antonisse",
+          "status": "부상",
+          "detail": "Unknown"
+        },
+        {
+          "name": "Sherel Floranus",
+          "status": "부상",
+          "detail": "Late November 2026"
+        },
+        {
+          "name": "Sontje Hansen",
+          "status": "햄스트링 부상",
+          "detail": "Late November 2026"
+        }
+      ],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2023-10-13T21:00:00.000Z",
+        "home": "Curacao",
+        "away": "Panama",
+        "homeScore": 1,
+        "awayScore": 2
+      },
+      {
+        "date": "2021-06-15T23:00:00.000Z",
+        "home": "Curacao",
+        "away": "Panama",
+        "homeScore": 0,
+        "awayScore": 0
+      },
+      {
+        "date": "2021-06-12T23:05:00.000Z",
+        "home": "Panama",
+        "away": "Curacao",
+        "homeScore": 2,
+        "awayScore": 1
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-06-25T20:00:00.000Z",
+          "home": "Curacao",
+          "away": "Ivory Coast",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-25T02:00:00.000Z",
+          "home": "Costa Rica",
+          "away": "Curacao",
+          "homeScore": 3,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-09-28T00:00:00.000Z",
+          "home": "Curacao",
+          "away": "Nicaragua",
+          "homeScore": 6,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-01T22:00:00.000Z",
+          "home": "Curacao",
+          "away": "Trinidad and Tobago",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-04T22:00:00.000Z",
+          "home": "Trinidad and Tobago",
+          "away": "Curacao",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-23T23:00:00.000Z",
+          "home": "Panama",
+          "away": "Croatia",
+          "homeScore": 0,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-06-27T21:00:00.000Z",
+          "home": "Panama",
+          "away": "England",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-25T14:00:00.000Z",
+          "home": "India",
+          "away": "Panama",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-01T06:10:00.000Z",
+          "home": "Panama",
+          "away": "New Zealand",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-05T06:30:00.000Z",
+          "home": "Ecuador",
+          "away": "Panama",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Aruba",
+    "away": "Martinique",
+    "date": "2026-11-12T19:00:00.000Z",
+    "league": "CONCACAF Nations League Play-In",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-03-29T16:00:00.000Z",
+          "home": "Aruba",
+          "away": "Liechtenstein",
+          "homeScore": 4,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-23T23:00:00.000Z",
+          "home": "Aruba",
+          "away": "Antigua and Barbuda",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-29T23:00:00.000Z",
+          "home": "Anguilla",
+          "away": "Aruba",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-04T23:00:00.000Z",
+          "home": "Aruba",
+          "away": "Anguilla",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-06T23:00:00.000Z",
+          "home": "Antigua and Barbuda",
+          "away": "Aruba",
+          "homeScore": 3,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2024-10-16T00:00:00.000Z",
+          "home": "Martinique",
+          "away": "Guadeloupe",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-26T03:00:00.000Z",
+          "home": "El Salvador",
+          "away": "Martinique",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-09-28T22:00:00.000Z",
+          "home": "Suriname",
+          "away": "Martinique",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": "Martinique",
+          "away": "Honduras",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-05T22:00:00.000Z",
+          "home": "Martinique",
+          "away": "El Salvador",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Antigua and Barbuda",
+    "away": "Trinidad and Tobago",
+    "date": "2026-11-12T23:00:00.000Z",
+    "league": "CONCACAF Nations League Play-In",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Dante Sealy",
+          "status": "충돌 부상",
+          "detail": "About a week"
+        },
+        {
+          "name": "Tyrese Spicer",
+          "status": "발 부상",
+          "detail": "Mid November 2026"
+        },
+        {
+          "name": "Roald Mitchell",
+          "status": "부상",
+          "detail": "Day to day"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2025-06-11T02:00:00.000Z",
+          "home": "Honduras",
+          "away": "Antigua and Barbuda",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-23T23:00:00.000Z",
+          "home": "Aruba",
+          "away": "Antigua and Barbuda",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-26T23:00:00.000Z",
+          "home": "Antigua and Barbuda",
+          "away": "Anguilla",
+          "homeScore": 5,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-01T23:00:00.000Z",
+          "home": "Anguilla",
+          "away": "Antigua and Barbuda",
+          "homeScore": 0,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-06T23:00:00.000Z",
+          "home": "Antigua and Barbuda",
+          "away": "Aruba",
+          "homeScore": 3,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-06-09T17:00:00.000Z",
+          "home": "Russia",
+          "away": "Trinidad and Tobago",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-09-25T00:20:00.000Z",
+          "home": "Haiti",
+          "away": "Trinidad and Tobago",
+          "homeScore": 3,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-28T01:00:00.000Z",
+          "home": "Trinidad and Tobago",
+          "away": "Dominican Republic",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-10-01T22:00:00.000Z",
+          "home": "Curacao",
+          "away": "Trinidad and Tobago",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-04T22:00:00.000Z",
+          "home": "Trinidad and Tobago",
+          "away": "Curacao",
+          "homeScore": 1,
+          "awayScore": 1
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "CD Tarancon",
+    "away": "Levante",
+    "date": "2026-11-12T18:00:00.000Z",
+    "league": "Copa del Rey - 1st Round",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Manuel Sánchez",
+          "status": "햄스트링 부상",
+          "detail": "Late November 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [],
+      "away": [
+        {
+          "date": "2026-10-16T19:00:00.000Z",
+          "home": "Deportivo A Coruña",
+          "away": "Levante",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-21T18:00:00.000Z",
+          "home": "Levante",
+          "away": "Athletic Club",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-25T17:30:00.000Z",
+          "home": "Real Sociedad",
+          "away": "Levante",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-31T13:00:00.000Z",
+          "home": "Levante",
+          "away": "Atlético Madrid",
+          "homeScore": 0,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-11-08T17:30:00.000Z",
+          "home": "Celta Vigo",
+          "away": "Levante",
+          "homeScore": 0,
+          "awayScore": 0
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  },
+  {
+    "home": "Navalcarnero",
+    "away": "Real Betis",
+    "date": "2026-11-12T18:00:00.000Z",
+    "league": "Copa del Rey - 1st Round",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Facundo Bernal",
+          "status": "부상",
+          "detail": null
+        },
+        {
+          "name": "Juan Hernández",
+          "status": "종아리 부상",
+          "detail": "Late November 2026"
+        }
+      ]
+    },
+    "h2h": [],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-10-11T15:00:00.000Z",
+          "home": "Navalcarnero",
+          "away": "Atletico Madrid C",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-18T15:00:00.000Z",
+          "home": "Salamanca CF UDS",
+          "away": "Navalcarnero",
+          "homeScore": 1,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-10-24T15:00:00.000Z",
+          "home": "Numancia",
+          "away": "Navalcarnero",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-11-01T11:00:00.000Z",
+          "home": "Navalcarnero",
+          "away": "CD Atlético Paso",
+          "homeScore": 3,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-11-08T11:00:00.000Z",
+          "home": "CD Guadalajara",
+          "away": "Navalcarnero",
+          "homeScore": 2,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-10-21T19:00:00.000Z",
+          "home": "Real Betis",
+          "away": "Feyenoord",
+          "homeScore": 1,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-25T15:15:00.000Z",
+          "home": "Celta Vigo",
+          "away": "Real Betis",
+          "homeScore": 0,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-31T17:30:00.000Z",
+          "home": "Real Betis",
+          "away": "Málaga",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-11-04T20:00:00.000Z",
+          "home": "Borussia Dortmund",
+          "away": "Real Betis",
+          "homeScore": 2,
+          "awayScore": 1
+        },
+        {
+          "date": "2026-11-08T13:00:00.000Z",
+          "home": "Elche",
+          "away": "Real Betis",
+          "homeScore": 0,
+          "awayScore": 2
+        }
+      ]
+    },
+    "lineup": null,
+    "formation": null,
+    "coach": null
+  }
+]

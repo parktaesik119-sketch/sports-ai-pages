@@ -1,0 +1,37 @@
+---
+title: "코트디부아르 vs 감비아 축구분석·승부예측 (11월 13일) - 픽천국"
+date: 2026-11-12T19:00:00.000Z
+description: "코트디부아르 vs 감비아 축구분석: 코트디부아르와 감비아는 최근 흐름과 전력 면에서 각자의 강점을 지니고 이번 맞대결에 나섭니다. 홈팀 코트디부아르는 안방에서 치… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6040240-2026-11-13-ivory-coast"
+category: "soccer"
+country: "국제"
+league: "아프리카 네이션스컵 예선"
+homeTeam: "코트디부아르"
+awayTeam: "감비아"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/5979.png"
+homeAnalysis: "코트디부아르는 앞선 13경기에서 7승 0무 6패로 승률 54%를 기록했고 최근 일정에서 승리와 패배를 번갈아 겪으며 다소 기복 있는 흐름을 보이고 있습니다. 홈 경기력 측면에서는 꾸준히 득점을 만들어내고 있으나 수비 집중력에서 아쉬움을 드러내며 접전 끝에 승패가 갈리는 경기가 많았습니다. 소말리아와 가나를 상대로는 무실점 승리를 거두며 탄탄한 공수 밸런스를 보여주기도 했습니다. 다만 카메룬이나 알제리 같은 강소국을 상대로는 한 끗 차이로 고배를 마시며 아쉬움을 남겼습니다. 이번 홈 경기를 맞아 그동안의 경험을 바탕으로 안정적인 경기 운영을 펼칠 것으로 기대됩니다."
+awayAnalysis: "감비아는 앞선 3경기에서 2승 0무 1패로 승률 67%를 기록했고 최근 치른 일정에서 공격적인 성과를 내며 상승세를 타는 중입니다. 가나를 상대로 네 골을 폭발시키는 등 원정에서도 위협적인 골 결정력을 과시했습니다. 소말리아전에서도 승리를 챙기며 다득점 경기를 만들어내는 능력이 돋보였습니다. 이란전 패배가 있기는 했으나 원정 무대에서 물러서지 않는 저력을 보여주고 있습니다. 이번 경기에서도 특유의 과감한 공격 전술을 통해 코트디부아르의 수비를 흔들 준비를 마쳤습니다."
+homePower: "홈에서 치른 최근 일정 중 무실점 승리가 다수 포함되어 안정적인 수비력을 보여줌|공격과 수비의 기복이 교차하며 접전 상황에서의 집중력 유지 여부가 관건임|이전 맞대결 전적에서 우위를 점하며 심리적인 여유를 가질 수 있음|안정적인 홈 운영을 통해 주도권을 잡으려는 성향이 뚜렷하게 나타남|수비에서 간헐적으로 허점을 노출하는 모습은 보완이 필요해 보임"
+awayPower: "최근 원정 경기에서 매 경기 다득점을 기록하며 공격 화력이 절정에 달해 있음|가나를 상대로 원정 다득점 승리를 거두며 강한 집중력을 입증함|핵심 자원의 이탈 변수가 존재하나 대체 선수의 활약으로 공백을 메우려 함|수비 전환 과정에서 공간을 내주는 약점이 다소 노출되는 편임|상대 홈 구장이라는 부담감을 극복하고 초반부터 공격적으로 나설 것으로 전망됨"
+h2h: '[{"date":"25.03.25","home":"코트디부아르","away":"감비아","score":"1-0"},{"date":"23.11.21","home":"감비아","away":"코트디부아르","score":"0-2"},{"date":"13.06.09","home":"감비아","away":"코트디부아르","score":"0-3"},{"date":"13.03.24","home":"코트디부아르","away":"감비아","score":"3-0"}]'
+summary: "코트디부아르와 감비아는 최근 흐름과 전력 면에서 각자의 강점을 지니고 이번 맞대결에 나섭니다. 홈팀 코트디부아르는 안방에서 치른 이전 경기들에서 안정적인 수비 기반의 승리를 챙겼고 상대전적에서도 우위를 점해왔습니다. 원정팀 감비아는 최근 원정 경기들에서 폭발적인 득점력을 뽐내며 만만치 않은 화력을 보여주고 있습니다. 양 팀의 맞대결 역사와 최근 경기력을 종합해 볼 때 홈의 이점을 안고 있는 코트디부아르가 조금 더 유리한 고지를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.10.04","home":"카메룬","away":"코트디부아르","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6299697-2026-10-04-cameroon/"},{"date":"26.09.30","home":"소말리아","away":"코트디부아르","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040238-2026-09-30-somalia/"},{"date":"26.09.25","home":"코트디부아르","away":"가나","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040236-2026-09-25-ivory-coast/"},{"date":"26.08.14","home":"코트디부아르","away":"가나","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000018958-2026-08-14-ivory-coast/"},{"date":"26.08.09","home":"코트디부아르","away":"알제리","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000018951-2026-08-09-ivory-coast/"}]'
+awayRecent: '[{"date":"26.09.30","home":"가나","away":"감비아","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040237-2026-09-30-ghana/"},{"date":"26.09.26","home":"감비아","away":"소말리아","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040235-2026-09-26-gambia/"},{"date":"26.05.30","home":"이란","away":"감비아","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544803-2026-05-30-iran/"},{"date":"26.04.01","home":"세네갈","away":"감비아","score":"3-1","result":"🔴패"},{"date":"25.10.14","home":"세이셸","away":"감비아","score":"0-7","result":"🟢승"}]'
+injuryHome: "없음"
+injuryAway: "Alieu Fadera (허벅지 부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "코트디부아르"
+pickWinResult: "승"
+pickHandicapTeam: "코트디부아르"
+pickHandicapValue: "-0.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: ""
+pickOuDirection: ""
+---
