@@ -19,7 +19,7 @@ summary: "코트디부아르와 감비아는 최근 흐름과 전력 면에서 �
 homeRecent: '[{"date":"26.10.04","home":"카메룬","away":"코트디부아르","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6299697-2026-10-04-cameroon/"},{"date":"26.09.30","home":"소말리아","away":"코트디부아르","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040238-2026-09-30-somalia/"},{"date":"26.09.25","home":"코트디부아르","away":"가나","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040236-2026-09-25-ivory-coast/"},{"date":"26.08.14","home":"코트디부아르","away":"가나","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000018958-2026-08-14-ivory-coast/"},{"date":"26.08.09","home":"코트디부아르","away":"알제리","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000018951-2026-08-09-ivory-coast/"}]'
 awayRecent: '[{"date":"26.09.30","home":"가나","away":"감비아","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040237-2026-09-30-ghana/"},{"date":"26.09.26","home":"감비아","away":"소말리아","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040235-2026-09-26-gambia/"},{"date":"26.05.30","home":"이란","away":"감비아","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544803-2026-05-30-iran/"},{"date":"26.04.01","home":"세네갈","away":"감비아","score":"3-1","result":"🔴패"},{"date":"25.10.14","home":"세이셸","away":"감비아","score":"0-7","result":"🟢승"}]'
 injuryHome: "없음"
-injuryAway: "Alieu Fadera (허벅지 부상)"
+injuryAway: "Alieu Fadera[주요](허벅지 부상 - 복귀예정 Late November 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""

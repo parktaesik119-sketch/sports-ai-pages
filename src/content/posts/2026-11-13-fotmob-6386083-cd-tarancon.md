@@ -19,7 +19,7 @@ summary: "이번 경기는 객관적인 전력과 최근 경기 경험 면에서
 homeRecent: '[]'
 awayRecent: '[{"date":"26.11.09","home":"셀타 비고","away":"레반테","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868122-2026-11-09-celta-vigo/"},{"date":"26.10.31","home":"레반테","away":"아틀레티코 마드리드","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868117-2026-10-31-levante/"},{"date":"26.10.26","home":"레알 소시에다드","away":"레반테","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868108-2026-10-26-real-sociedad/"},{"date":"26.10.22","home":"레반테","away":"아틀레틱 클럽","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868067-2026-10-22-levante/"},{"date":"26.10.17","home":"데포르티보 라코루냐","away":"레반테","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868093-2026-10-17-deportivo-a-corua/"}]'
 injuryHome: "없음"
-injuryAway: "Manuel Sánchez (햄스트링 부상)"
+injuryAway: "Manuel Sánchez[주요](햄스트링 부상 - 복귀예정 Late November 2026)"
 homeLineup: ''
 awayLineup: ''
 homeFormation: ""
