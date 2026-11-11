@@ -607,8 +607,8 @@
     "away": "Atlético Nacional",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6024.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6574945",
@@ -633,8 +633,8 @@
     "away": "Juventud de las Piedras",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2219.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9883.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6014863",
@@ -1010,8 +1010,8 @@
     "away": "Tigres (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980695.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "fotmob-6577361",
@@ -1023,8 +1023,8 @@
     "away": "Chivas (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1066912.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980702.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5907149",
@@ -1192,8 +1192,8 @@
     "away": "CD Platense Municipal",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49746.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1280075.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6415451",
@@ -1976,19 +1976,6 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-6148594",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Women's Champions League",
-    "date": "2026-11-11T20:00:00.000Z",
-    "home": "Benfica (W)",
-    "away": "Austria Wien W (W)",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1198668.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1777852.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-6006686",
     "sport": "soccer",
     "country": "England",
@@ -2535,6 +2522,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6040277",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Africa Cup of Nations Qualification Grp. F",
+    "date": "2026-11-12T19:00:00.000Z",
+    "home": "Benin",
+    "away": "Central African Republic",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5883.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/230693.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6040336",
     "sport": "soccer",
     "country": "International",
@@ -2583,19 +2583,6 @@
     "away": "Ethiopia",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5965.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/121282.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6040277",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Africa Cup of Nations Qualification Grp. F",
-    "date": "2026-11-12T20:00:00.000Z",
-    "home": "Benin",
-    "away": "Central African Republic",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5883.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/230693.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -2695,7 +2682,7 @@
     "sport": "soccer",
     "country": "International",
     "league": "CONCACAF Nations League Play-In",
-    "date": "2026-11-12T19:00:00.000Z",
+    "date": "2026-11-12T22:00:00.000Z",
     "home": "Aruba",
     "away": "Martinique",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/262131.png",
@@ -2860,6 +2847,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6148594",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Women's Champions League",
+    "date": "2026-11-12T20:00:00.000Z",
+    "home": "Benfica (W)",
+    "away": "Austria Wien W (W)",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1198668.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1777852.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6386074",
     "sport": "soccer",
     "country": "Spain",
@@ -2947,6 +2947,19 @@
     "away": "Chicó FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/348397.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6255.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000022597",
+    "sport": "soccer",
+    "country": "Venezuela",
+    "league": "Primera División",
+    "date": "2026-11-12T22:00:00.000Z",
+    "home": "Academia Puerto Cabello",
+    "away": "Monagas SC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/657277.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49683.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -3077,8 +3090,8 @@
     "away": "Nashville Predators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/583719.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/587123.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378599621",
@@ -3090,8 +3103,8 @@
     "away": "Detroit Red Wings",
     "homeLogo": "https://highlightly.net/hockey/images/teams/594782.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/581166.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378598770",
@@ -3103,8 +3116,8 @@
     "away": "Florida Panthers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/579464.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/582868.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378600472",
@@ -3116,8 +3129,8 @@
     "away": "New Jersey Devils",
     "homeLogo": "https://highlightly.net/hockey/images/teams/599888.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/587974.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378597919",
@@ -3129,8 +3142,8 @@
     "away": "Minnesota Wild",
     "homeLogo": "https://highlightly.net/hockey/images/teams/586272.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/585421.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378597068",
@@ -3142,8 +3155,8 @@
     "away": "Washington Capitals",
     "homeLogo": "https://highlightly.net/hockey/images/teams/590527.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/599037.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378596217",
@@ -3155,8 +3168,8 @@
     "away": "Colorado Avalanche",
     "homeLogo": "https://highlightly.net/hockey/images/teams/596484.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/578613.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 6
   },
   {
     "id": "highlightly-hockey-366498401",
