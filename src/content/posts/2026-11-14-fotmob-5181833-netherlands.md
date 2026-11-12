@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.05","home":"네덜란드","away":"세르비아","sc
 awayRecent: '[{"date":"26.10.05","home":"그리스","away":"독일","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181831-2026-10-05-greece/"},{"date":"26.10.02","home":"그리스","away":"네덜란드","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181830-2026-10-02-greece/"},{"date":"26.09.28","home":"독일","away":"그리스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5181828-2026-09-28-germany/"},{"date":"26.09.25","home":"세르비아","away":"그리스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5181826-2026-09-25-serbia/"},{"date":"26.06.08","home":"그리스","away":"이탈리아","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1540590-2026-06-08-greece/"}]'
 injuryHome: "Virgil van Dijk[주요](부상 - 복귀예정 Doubtful) | Brian Brobbey[주요](부상 - 복귀예정 Late November 2026) | Nathan Aké[주요](햄스트링 부상 - 복귀예정 Late November 2026)"
 injuryAway: "Christos Zafeiris[주요](부상 - 복귀예정 Mid November 2026) | Manolis Saliakas[주요](부상 - 복귀예정 Mid November 2026) | Giannis Michailidis[주요](근육 부상 - 복귀예정 Doubtful) | Dimitrios Pelkas[주요](무릎 부상 - 복귀예정 About a week)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Bart Verbruggen (GK)|https://images.fotmob.com/image_resources/playerimages/1131987.png\",\"Denzel Dumfries (DF)|https://images.fotmob.com/image_resources/playerimages/593118.png\",\"Jurriën Timber (DF)|https://images.fotmob.com/image_resources/playerimages/942381.png\",\"Jan Paul van Hecke (DF)|https://images.fotmob.com/image_resources/playerimages/974618.png\",\"Micky van de Ven (DF)|https://images.fotmob.com/image_resources/playerimages/1097466.png\",\"Quinten Timber (MF)|https://images.fotmob.com/image_resources/playerimages/970563.png\",\"Frenkie de Jong (MF)|https://images.fotmob.com/image_resources/playerimages/638622.png\",\"Joey Veerman (MF)|https://images.fotmob.com/image_resources/playerimages/792429.png\",\"Crysencio Summerville (FW)|https://images.fotmob.com/image_resources/playerimages/941213.png\",\"Donyell Malen (FW)|https://images.fotmob.com/image_resources/playerimages/660301.png\",\"Cody Gakpo (FW)|https://images.fotmob.com/image_resources/playerimages/806552.png\"]"
+awayLineup: "[\"Konstantinos Tzolakis (GK)|https://images.fotmob.com/image_resources/playerimages/1072068.png\",\"Georgios Vagiannidis (DF)|https://images.fotmob.com/image_resources/playerimages/1119687.png\",\"Konstantinos Mavropanos (DF)|https://images.fotmob.com/image_resources/playerimages/719219.png\",\"Konstantinos Koulierakis (DF)|https://images.fotmob.com/image_resources/playerimages/1337884.png\",\"Konstantinos Tsimikas (DF)|https://images.fotmob.com/image_resources/playerimages/671529.png\",\"Giorgos Masouras (MF)|https://images.fotmob.com/image_resources/playerimages/575227.png\",\"Dimitrios Kourbelis (MF)|https://images.fotmob.com/image_resources/playerimages/260750.png\",\"Thanasis Androutsos (MF)|https://images.fotmob.com/image_resources/playerimages/784493.png\",\"Christos Tzolis (FW)|https://images.fotmob.com/image_resources/playerimages/1157237.png\",\"Vangelis Pavlidis (FW)|https://images.fotmob.com/image_resources/playerimages/637749.png\",\"Fotis Ioannidis (FW)|https://images.fotmob.com/image_resources/playerimages/899701.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-4-2"
+homeCoach: "Xavi Hernández|https://images.fotmob.com/image_resources/playerimages/39854.png"
+awayCoach: "Ivan Jovanović|https://images.fotmob.com/image_resources/playerimages/181507.png"
 pickWinTeam: "네덜란드"
 pickWinResult: "승"
 pickHandicapTeam: "네덜란드"
