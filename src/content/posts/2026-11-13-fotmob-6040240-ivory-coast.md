@@ -20,10 +20,10 @@ homeRecent: '[{"date":"26.10.04","home":"카메룬","away":"코트디부아르",
 awayRecent: '[{"date":"26.09.30","home":"가나","away":"감비아","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040237-2026-09-30-ghana/"},{"date":"26.09.26","home":"감비아","away":"소말리아","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040235-2026-09-26-gambia/"},{"date":"26.05.30","home":"이란","away":"감비아","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1544803-2026-05-30-iran/"},{"date":"26.04.01","home":"세네갈","away":"감비아","score":"3-1","result":"🔴패"},{"date":"25.10.14","home":"세이셸","away":"감비아","score":"0-7","result":"🟢승"}]'
 injuryHome: "없음"
 injuryAway: "Alieu Fadera[주요](허벅지 부상 - 복귀예정 Late November 2026)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
+homeLineup: "[\"Yahia Fofana (GK)|https://images.fotmob.com/image_resources/playerimages/873566.png\",\"Luck Zogbé (DF)|https://images.fotmob.com/image_resources/playerimages/1592417.png\",\"Ousmane Diomande (DF)|https://images.fotmob.com/image_resources/playerimages/1425182.png\",\"Evan N'Dicka (DF)|https://images.fotmob.com/image_resources/playerimages/787242.png\",\"Hassane Kamara (DF)|https://images.fotmob.com/image_resources/playerimages/488415.png\",\"Ibrahim Sangaré (MF)|https://images.fotmob.com/image_resources/playerimages/795371.png\",\"Amad Diallo (MF)|https://images.fotmob.com/image_resources/playerimages/1070052.png\",\"Malick Junior Yalcouyé (MF)|https://images.fotmob.com/image_resources/playerimages/1602352.png\",\"Yan Diomande (FW)|https://images.fotmob.com/image_resources/playerimages/1735453.png\",\"Elye Wahi (FW)|https://images.fotmob.com/image_resources/playerimages/1213430.png\",\"Nicolas Pépé (MF)|https://images.fotmob.com/image_resources/playerimages/575735.png\"]"
+awayLineup: "[\"Baboucarr Gaye (GK)|https://images.fotmob.com/image_resources/playerimages/772078.png\",\"Joseph Ceesay (DF)|https://images.fotmob.com/image_resources/playerimages/754438.png\",\"Yaya Bojang (DF)|https://images.fotmob.com/image_resources/playerimages/1604179.png\",\"Omar Colley (DF)|https://images.fotmob.com/image_resources/playerimages/440369.png\",\"Alagie Saine (DF)|https://images.fotmob.com/image_resources/playerimages/1433735.png\",\"Mahmudu Bajo (MF)|https://images.fotmob.com/image_resources/playerimages/1478122.png\",\"Ebou Adams (MF)|https://images.fotmob.com/image_resources/playerimages/538329.png\",\"Ebrima Colley (FW)|https://images.fotmob.com/image_resources/playerimages/996894.png\",\"Ibou Touray (MF)|https://images.fotmob.com/image_resources/playerimages/581517.png\",\"Musa Barrow (FW)|https://images.fotmob.com/image_resources/playerimages/910699.png\",\"Mohamed Badamosi (FW)|https://images.fotmob.com/image_resources/playerimages/892662.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-2-3-1"
 homeCoach: ""
 awayCoach: ""
 pickWinTeam: "코트디부아르"
