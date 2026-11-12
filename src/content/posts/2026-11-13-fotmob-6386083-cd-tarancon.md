@@ -20,12 +20,12 @@ homeRecent: '[]'
 awayRecent: '[{"date":"26.11.09","home":"셀타 비고","away":"레반테","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868122-2026-11-09-celta-vigo/"},{"date":"26.10.31","home":"레반테","away":"아틀레티코 마드리드","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868117-2026-10-31-levante/"},{"date":"26.10.26","home":"레알 소시에다드","away":"레반테","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868108-2026-10-26-real-sociedad/"},{"date":"26.10.22","home":"레반테","away":"아틀레틱 클럽","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5868067-2026-10-22-levante/"},{"date":"26.10.17","home":"데포르티보 라코루냐","away":"레반테","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868093-2026-10-17-deportivo-a-corua/"}]'
 injuryHome: "없음"
 injuryAway: "Manuel Sánchez[주요](햄스트링 부상 - 복귀예정 Late November 2026)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Peri (GK)|https://images.fotmob.com/image_resources/playerimages/1416732.png\",\"José Muñoz (DF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Carlos Gascó (DF)|https://images.fotmob.com/image_resources/playerimages/1602329.png\",\"Airam Fernández (DF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Víctor Armenteros (DF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Iván Eyi (MF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Yves Clovis Ouédraogo (MF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Naim Madkouri (MF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Sergio Nieto (FW)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Hugo García (FW)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Ivan Martin (FW)|https://images.fotmob.com/image_resources/playerimages/1238124.png\"]"
+awayLineup: "[\"Pablo Campos (GK)|https://images.fotmob.com/image_resources/playerimages/1237455.png\",\"Adrián De La Fuente (DF)|https://images.fotmob.com/image_resources/playerimages/952528.png\",\"Huseini Nakoha (DF)|https://images.fotmob.com/image_resources/playerimages/1859295.png\",\"Jorge Cabello (DF)|https://images.fotmob.com/image_resources/playerimages/1617146.png\",\"Marc Santos (DF)|https://images.fotmob.com/image_resources/playerimages/2141146.png\",\"Enzo Bardeli (MF)|https://images.fotmob.com/image_resources/playerimages/1332540.png\",\"Hugo Sotelo (MF)|https://images.fotmob.com/image_resources/playerimages/1254218.png\",\"Manel Usedo (MF)|https://images.fotmob.com/image_resources/playerimages/2141152.png\",\"Víctor García (FW)|https://images.fotmob.com/image_resources/playerimages/977618.png\",\"Yanis Musuayi (FW)|https://images.fotmob.com/image_resources/playerimages/1836083.png\",\"Paco Cortés (FW)|https://images.fotmob.com/image_resources/playerimages/1649293.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Jorge Cañete"
+awayCoach: "Luís Castro|https://images.fotmob.com/image_resources/playerimages/1085380.png"
 pickWinTeam: "레반테"
 pickWinResult: "승"
 pickHandicapTeam: "레반테"
