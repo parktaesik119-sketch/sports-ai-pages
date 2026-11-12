@@ -1,0 +1,37 @@
+---
+title: "몬트세랫 vs 니카라과 축구분석·승부예측 (11월 14일) - 픽천국"
+date: 2026-11-14T00:00:00.000Z
+description: "몬트세랫 vs 니카라과 축구분석: 이번 경기는 전력 면에서 꾸준한 상승세를 보여온 홈팀 몬트세랫이 경기의 주도권을 잡을 가능성이 높습니다. 니카라과는 최근 원정… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6422183-2026-11-14-montserrat"
+category: "soccer"
+country: "국제"
+league: "CONCACAF Nations League Play-In"
+homeTeam: "몬트세랫"
+awayTeam: "니카라과"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/262133.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/5807.png"
+homeAnalysis: "몬트세랫은 앞선 4경기에서 4승 0무 0패로 승률 100%를 기록했고, 최근 일정에서 연승을 질주하며 좋은 흐름을 이어가고 있습니다. 공수 양면에서 안정적인 모습을 보여주며 상대를 압박하는 능력이 돋보입니다. 홈 경기에서도 자신감 있는 운영을 바탕으로 득점 찬스를 효율적으로 살려내고 있습니다. 공격진의 유기적인 움직임이 좋은 결과로 이어지고 있어 이번 경기도 기대를 모으고 있습니다. 전반적인 팀 전력이 상승세를 타면서 다채로운 공격 패턴을 보여주는 점이 인상적입니다."
+awayAnalysis: "니카라과는 앞선 11경기에서 2승 1무 8패로 승률 18%를 기록했고, 다소 기복 있는 경기력을 보이며 어려움을 겪고 있습니다. 원정 경기에서는 수비 집중력이 흔들리며 실점을 허용하는 경우가 많아 아쉬움을 남기고 있습니다. 최근 치른 여러 경기에서 승리와 패배를 반복하며 뚜렷한 반등의 계기를 마련하는 데 집중하고 있습니다. 공격 과정에서 세밀함을 더해야 하는 과제를 안고 있으며, 수비 안정이 최우선 과제로 꼽힙니다. 원정 환경에서의 부담감을 극복하고 얼마나 단단한 조직력을 보여주느냐가 관건입니다."
+homePower: "최근 4경기 연승 기록으로 팀 내 자신감 최고조에 달함|홈 경기 연속 무실점 승리로 수비 안정감 입증됨|공격 전개 시 빠른 템포 활용 능력이 돋보임|주요 득점원들의 결정력이 꾸준한 흐름을 유지함|안정적인 공수 밸런스로 상대를 압도하는 패턴 보임"
+awayPower: "원정 경기에서 실점 비율이 높아 수비 보완 시급함|최근 경기들에서 초반 실점 허용하는 약점 노출됨|공격 효율성 저하로 인해 득점 생산에 어려움을 겪음|상대 압박에 흔들리는 수비진의 집중력 개선 필요함|원정 환경에서의 경기 운영 능력이 다소 아쉬움으로 남음"
+h2h: '[{"date":"24.06.06","home":"니카라과","away":"몬트세랫","score":"4-1"},{"date":"23.10.17","home":"니카라과","away":"몬트세랫","score":"3-0"},{"date":"23.10.14","home":"몬트세랫","away":"니카라과","score":"0-3"}]'
+summary: "이번 경기는 전력 면에서 꾸준한 상승세를 보여온 홈팀 몬트세랫이 경기의 주도권을 잡을 가능성이 높습니다. 니카라과는 최근 원정에서 수비 불안과 득점력 부진으로 고전하고 있어 전체적인 경기 운영에 어려움이 따를 것으로 보입니다. 양 팀의 최근 흐름과 상대 전적에서 나타난 양상을 고려할 때 홈팀이 안정적인 경기를 펼치며 우위를 점할 것으로 예상됩니다."
+homeRecent: '[{"date":"26.10.07","home":"몬트세랫","away":"터크스 케이커스 제도","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5991943-2026-10-07-montserrat/"},{"date":"26.10.02","home":"영국령 버진아일랜드","away":"몬트세랫","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5991941-2026-10-02-british-virgin-islands/"},{"date":"26.09.27","home":"몬트세랫","away":"영국령 버진아일랜드","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5991939-2026-09-27-montserrat/"},{"date":"26.09.24","home":"터크스 케이커스 제도","away":"몬트세랫","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5991938-2026-09-24-turks-and-caicos-islands/"},{"date":"25.06.11","home":"가이아나","away":"몬트세랫","score":"3-0","result":"🔴패"}]'
+awayRecent: '[{"date":"26.10.05","home":"니카라과","away":"도미니카 공화국","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5991888-2026-10-05-nicaragua/"},{"date":"26.10.02","home":"니카라과","away":"코스타리카","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5991884-2026-10-02-nicaragua/"},{"date":"26.09.28","home":"퀴라소","away":"니카라과","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5991882-2026-09-28-curacao/"},{"date":"26.09.25","home":"도미니카 공화국","away":"니카라과","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5991879-2026-09-25-dominican-republic/"},{"date":"26.06.06","home":"파라과이","away":"니카라과","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1543828-2026-06-06-paraguay/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "니카라과"
+pickWinResult: "승"
+pickHandicapTeam: "니카라과"
+pickHandicapValue: "-2.5"
+pickExpectedHome: "0"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---
