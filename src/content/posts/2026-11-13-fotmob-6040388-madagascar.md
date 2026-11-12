@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.29","home":"마다가스카르","away":"탄자니�
 awayRecent: '[{"date":"26.09.30","home":"기니비사우","away":"나이지리아","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040386-2026-09-30-guinea-bissau/"},{"date":"26.09.25","home":"탄자니아","away":"기니비사우","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040385-2026-09-25-tanzania/"},{"date":"26.03.29","home":"부르키나파소","away":"기니비사우","score":"5-0","result":"🔴패"},{"date":"25.10.13","home":"이집트","away":"기니비사우","score":"1-0","result":"🔴패"},{"date":"25.10.08","home":"에티오피아","away":"기니비사우","score":"1-0","result":"🔴패"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Geordan Dupire (GK)|https://images.fotmob.com/image_resources/playerimages/289157.png\",\"Nicolas Randriamanampisoa (MF)|https://images.fotmob.com/image_resources/playerimages/1771025.png\",\"Ehsan Kari (DF)|https://images.fotmob.com/image_resources/playerimages/1807665.png\",\"Sandro Trémoulet (DF)|https://images.fotmob.com/image_resources/playerimages/1382192.png\",\"Radoniaina Rabemanantsoa (DF)|https://images.fotmob.com/image_resources/playerimages/1539444.png\",\"Nicolas Fontaine (FW)|https://images.fotmob.com/image_resources/playerimages/1675968.png\",\"Marco Ilaimaharitra (MF)|https://images.fotmob.com/image_resources/playerimages/496285.png\",\"Rayan Raveloson (MF)|https://images.fotmob.com/image_resources/playerimages/591529.png\",\"El Hadary Raheriniaina (MF)|https://images.fotmob.com/image_resources/playerimages/1582882.png\",\"Clément Couturier (MF)|https://images.fotmob.com/image_resources/playerimages/600176.png\",\"Warren Caddy (FW)|https://images.fotmob.com/image_resources/playerimages/630488.png\"]"
+awayLineup: "[\"Fernando Embadjé (GK)|https://images.fotmob.com/image_resources/playerimages/1373353.png\",\"Jefferson Encada (DF)|https://images.fotmob.com/image_resources/playerimages/824641.png\",\"Gilberto Batista (DF)|https://images.fotmob.com/image_resources/playerimages/1413843.png\",\"Opa Sanganté (DF)|https://images.fotmob.com/image_resources/playerimages/605107.png\",\"Iano Simão (DF)|https://images.fotmob.com/image_resources/playerimages/1313231.png\",\"Ronaldo Vieira (MF)|https://images.fotmob.com/image_resources/playerimages/748405.png\",\"Mamadi Camará (MF)|https://images.fotmob.com/image_resources/playerimages/1216389.png\",\"Álvaro Djaló (MF)|https://images.fotmob.com/image_resources/playerimages/1355668.png\",\"Dálcio (MF)|https://images.fotmob.com/image_resources/playerimages/611840.png\",\"Mama Baldé (FW)|https://images.fotmob.com/image_resources/playerimages/541933.png\",\"Beto (FW)|https://images.fotmob.com/image_resources/playerimages/1079485.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "4-1-3-2"
+homeCoach: "Corentin Martins|https://images.fotmob.com/image_resources/playerimages/2923.png"
+awayCoach: "Emiliano Te|https://images.fotmob.com/image_resources/playerimages/1826541.png"
 pickWinTeam: "기니비사우"
 pickWinResult: "승"
 pickHandicapTeam: "기니비사우"

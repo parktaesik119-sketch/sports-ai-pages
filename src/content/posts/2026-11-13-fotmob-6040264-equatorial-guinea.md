@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.29","home":"적도 기니","away":"시에라리온"
 awayRecent: '[{"date":"26.09.29","home":"짐바브웨","away":"콩고민주공화국","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6040262-2026-09-29-zimbabwe/"},{"date":"26.09.25","home":"시에라리온","away":"짐바브웨","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040260-2026-09-25-sierra-leone/"},{"date":"26.05.30","home":"인도","away":"짐바브웨","score":"0-1","result":"🟢승"},{"date":"26.05.27","home":"나이지리아","away":"짐바브웨","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1540349-2026-05-27-nigeria/"},{"date":"26.03.29","home":"보츠와나","away":"짐바브웨","score":"0-3","result":"🟢승"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Marcos Ondo (GK)|https://images.fotmob.com/image_resources/playerimages/1206886.png\",\"Rony Mbomio (DF)|https://images.fotmob.com/image_resources/playerimages/1840676.png\",\"Saúl Coco (DF)|https://images.fotmob.com/image_resources/playerimages/941953.png\",\"Esteban Orozco (DF)|https://images.fotmob.com/image_resources/playerimages/941951.png\",\"Basilio Ndong (DF)|https://images.fotmob.com/image_resources/playerimages/792200.png\",\"Jannick Buyla Sam (MF)|https://images.fotmob.com/image_resources/playerimages/890843.png\",\"Álex Balboa (MF)|https://images.fotmob.com/image_resources/playerimages/1294668.png\",\"Pablo Ganet (MF)|https://images.fotmob.com/image_resources/playerimages/610916.png\",\"Santiago Eneme (MF)|https://images.fotmob.com/image_resources/playerimages/962014.png\",\"Dorian Hanza (FW)|https://images.fotmob.com/image_resources/playerimages/1312559.png\",\"Loren Zúñiga (FW)|https://images.fotmob.com/image_resources/playerimages/1218287.png\"]"
+awayLineup: "[\"Nelson Chadya (GK)|https://images.fotmob.com/image_resources/playerimages/2276838.png\",\"Andy Rinomhota (MF)|https://images.fotmob.com/image_resources/playerimages/789510.png\",\"Corbin Mthunzi (DF)|https://images.fotmob.com/image_resources/playerimages/1580537.png\",\"Kevin Moyo (DF)|https://images.fotmob.com/image_resources/playerimages/899546.png\",\"Jordan Zemura (DF)|https://images.fotmob.com/image_resources/playerimages/982633.png\",\"Marshall Munetsi (MF)|https://images.fotmob.com/image_resources/playerimages/786580.png\",\"Marvelous Nakamba (MF)|https://images.fotmob.com/image_resources/playerimages/541330.png\",\"Bill Antonio (MF)|https://images.fotmob.com/image_resources/playerimages/1313003.png\",\"Tawanda Maswanhise (FW)|https://images.fotmob.com/image_resources/playerimages/1187314.png\",\"Tino Kadewere (FW)|https://images.fotmob.com/image_resources/playerimages/666860.png\",\"Tawanda Chirewa (FW)|https://images.fotmob.com/image_resources/playerimages/1111392.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "4-3-3"
+homeCoach: "Vincenzo Alberto Annese|https://images.fotmob.com/image_resources/playerimages/1425767.png"
+awayCoach: "Ramon Catala|https://images.fotmob.com/image_resources/playerimages/2276901.png"
 pickWinTeam: "적도 기니"
 pickWinResult: "승"
 pickHandicapTeam: "적도 기니"
