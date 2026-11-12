@@ -1083,13 +1083,13 @@
     "sport": "soccer",
     "country": "International",
     "league": "Friendlies",
-    "date": "2026-11-12T06:00:00.000Z",
+    "date": "2026-11-12T06:10:00.000Z",
     "home": "New Zealand",
     "away": "India",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6329.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6284011",
@@ -1118,6 +1118,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6633102",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Club Friendlies",
+    "date": "2026-11-12T12:00:00.000Z",
+    "home": "Häcken",
+    "away": "Fredrikstad",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8428.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8417.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6628340",
     "sport": "soccer",
     "country": "International",
@@ -1127,6 +1140,19 @@
     "away": "Standard Liège",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9985.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6633153",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Club Friendlies",
+    "date": "2026-11-12T13:00:00.000Z",
+    "home": "Holstein Kiel",
+    "away": "OB",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8150.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8414.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -1257,8 +1283,8 @@
     "away": "Toluca (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980693.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980694.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6577362",
@@ -1270,8 +1296,8 @@
     "away": "Monterrey (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980692.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/980703.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5949326",
@@ -1322,8 +1348,8 @@
     "away": "Inter Santa Tecla",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49742.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1783449.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5911229",
@@ -1439,8 +1465,8 @@
     "away": "Brooklyn FC (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1669152.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1669149.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6148621",
@@ -1569,8 +1595,8 @@
     "away": "Atlético La Paz",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2070059.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1374638.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6540023",
@@ -1595,8 +1621,8 @@
     "away": "Tigres FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/4407.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/193030.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5190812",
@@ -3072,7 +3098,7 @@
     "sport": "soccer",
     "country": "International",
     "league": "Africa Cup of Nations Qualification Grp. B",
-    "date": "2026-11-13T20:00:00.000Z",
+    "date": "2026-11-13T19:00:00.000Z",
     "home": "Egypt",
     "away": "Malawi",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
@@ -5001,8 +5027,8 @@
     "away": "Nashville Predators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/570954.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/587123.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378605578",
@@ -5014,8 +5040,8 @@
     "away": "Pittsburgh Penguins",
     "homeLogo": "https://highlightly.net/hockey/images/teams/593931.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/593080.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378604727",
@@ -5027,8 +5053,8 @@
     "away": "Utah Mammoth",
     "homeLogo": "https://highlightly.net/hockey/images/teams/598186.png",
     "awayLogo": null,
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378603876",
@@ -5040,8 +5066,8 @@
     "away": "Philadelphia Flyers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/582017.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/592229.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378603025",
@@ -5053,8 +5079,8 @@
     "away": "New York Rangers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/575209.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/589676.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378602174",
@@ -5066,8 +5092,8 @@
     "away": "Tampa Bay Lightning",
     "homeLogo": "https://highlightly.net/hockey/images/teams/574358.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/595633.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 8
   },
   {
     "id": "highlightly-hockey-366501805",
@@ -5319,13 +5345,13 @@
     "id": "panda-1766741",
     "sport": "lol",
     "league": "LCP",
-    "date": "2026-11-12T06:00:00Z",
+    "date": "2026-11-12T06:12:15Z",
     "home": "Nothin'Here",
     "away": "Saigon Warriors",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/139359/nothin_here_allmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138127/ezgif_5e268d1a7560187d.png",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 2
   },
   {
     "id": "panda-1766742",
