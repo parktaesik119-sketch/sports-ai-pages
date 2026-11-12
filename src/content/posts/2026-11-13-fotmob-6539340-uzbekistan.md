@@ -21,9 +21,9 @@ awayRecent: '[{"date":"26.10.07","home":"러시아","away":"나이지리아","sc
 injuryHome: "없음"
 injuryAway: "Dmitri Barinov[주요](무릎 부상 - 복귀예정 Day to day) | Nikita Krivtsov[주요](부상 - 복귀예정 Day to day)"
 homeLineup: ''
-awayLineup: ''
+awayLineup: "[\"M. Safonov (G)|https://a.espncdn.com/i/headshots/soccer/players/full/248699.png\",\"V. Melekhin (D)|https://a.espncdn.com/i/headshots/soccer/players/full/323835.png\",\"I. Vakhanla (D)|https://a.espncdn.com/i/headshots/soccer/players/full/322649.png\",\"D. Krugovoi (D)|https://a.espncdn.com/i/headshots/soccer/players/full/225585.png\",\"A. Silyanov (D)|https://a.espncdn.com/i/headshots/soccer/players/full/304368.png\",\"I. Oblyakov (M)|https://a.espncdn.com/i/headshots/soccer/players/full/240578.png\",\"M. Kislyak (M)|https://a.espncdn.com/i/headshots/soccer/players/full/359659.png\",\"A. Batrakov (M)|https://a.espncdn.com/i/headshots/soccer/players/full/355113.png\",\"L. Sadulaev (F)|https://a.espncdn.com/i/headshots/soccer/players/full/283896.png\",\"K. Tyukavin (F)|https://a.espncdn.com/i/headshots/soccer/players/full/309158.png\",\"I. Gladyshev (F)|https://a.espncdn.com/i/headshots/soccer/players/full/323831.png\"]"
 homeFormation: ""
-awayFormation: ""
+awayFormation: "4-3-3"
 homeCoach: ""
 awayCoach: ""
 pickWinTeam: "러시아"
