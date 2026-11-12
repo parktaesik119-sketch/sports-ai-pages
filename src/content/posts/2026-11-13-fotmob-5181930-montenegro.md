@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.06","home":"몬테네그로","away":"아르메니�
 awayRecent: '[{"date":"26.10.06","home":"키프로스","away":"라트비아","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5181927-2026-10-06-cyprus/"},{"date":"26.10.03","home":"라트비아","away":"몬테네그로","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5181926-2026-10-03-latvia/"},{"date":"26.09.29","home":"라트비아","away":"키프로스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181924-2026-09-29-latvia/"},{"date":"26.09.26","home":"아르메니아","away":"라트비아","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5181921-2026-09-26-armenia/"},{"date":"26.06.10","home":"라트비아","away":"페로 제도","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1550659-2026-06-10-latvia/"}]'
 injuryHome: "Stefan Lončar[주요](부상 - 복귀예정 Mid November 2026)"
 injuryAway: "Renārs Varslavāns[주요](십자 인대 부상 - 복귀예정 Late January 2027) | Kristers Penkevics[주요](부상 - 복귀예정 Unknown)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Balša Popović (GK)|https://images.fotmob.com/image_resources/playerimages/1683553.png\",\"Milan Roganović (DF)|https://images.fotmob.com/image_resources/playerimages/1362985.png\",\"Stefan Savić (DF)|https://images.fotmob.com/image_resources/playerimages/178955.png\",\"Igor Vujačić (DF)|https://images.fotmob.com/image_resources/playerimages/463300.png\",\"Ognjen Gašević (DF)|https://images.fotmob.com/image_resources/playerimages/949400.png\",\"Vasilije Adžić (MF)|https://images.fotmob.com/image_resources/playerimages/1382375.png\",\"Andrija Bulatović (MF)|https://images.fotmob.com/image_resources/playerimages/1634789.png\",\"Marko Janković (MF)|https://images.fotmob.com/image_resources/playerimages/577904.png\",\"Sead Hakšabanović (FW)|https://images.fotmob.com/image_resources/playerimages/614194.png\",\"Milutin Osmajić (FW)|https://images.fotmob.com/image_resources/playerimages/936603.png\",\"Nikola Krstović (FW)|https://images.fotmob.com/image_resources/playerimages/833638.png\"]"
+awayLineup: "[\"Rihards Matrevics (GK)|https://images.fotmob.com/image_resources/playerimages/807745.png\",\"Deniss Meļņiks (DF)|https://images.fotmob.com/image_resources/playerimages/1415282.png\",\"Antonijs Černomordijs (DF)|https://images.fotmob.com/image_resources/playerimages/630039.png\",\"Oskars Vientiess (DF)|https://images.fotmob.com/image_resources/playerimages/1388271.png\",\"Raivis Jurkovskis (DF)|https://images.fotmob.com/image_resources/playerimages/632243.png\",\"Dennis Cirkin (DF)|https://images.fotmob.com/image_resources/playerimages/1118480.png\",\"Eduards Dašķevičs (FW)|https://images.fotmob.com/image_resources/playerimages/1295622.png\",\"Lūkass Vapne (MF)|https://images.fotmob.com/image_resources/playerimages/1197667.png\",\"Dmitrijs Zelenkovs (DF)|https://images.fotmob.com/image_resources/playerimages/1080582.png\",\"Andrejs Cigaņiks (DF)|https://images.fotmob.com/image_resources/playerimages/839642.png\",\"Roberts Uldriķis (FW)|https://images.fotmob.com/image_resources/playerimages/690207.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "5-4-1"
+homeCoach: "Mirko Vučinić|https://images.fotmob.com/image_resources/playerimages/38717.png"
+awayCoach: "Paolo Nicolato|https://images.fotmob.com/image_resources/playerimages/1240386.png"
 pickWinTeam: "몬테네그로"
 pickWinResult: "승"
 pickHandicapTeam: "몬테네그로"
