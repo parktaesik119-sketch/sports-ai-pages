@@ -749,12 +749,12 @@
     },
     "standings": {
       "home": {
-        "rank": "9",
+        "rank": "10",
         "wins": "9",
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "12",
+        "gamesBehind": "13",
         "pointsFor": "58",
         "pointsAgainst": "61"
       },
@@ -822,7 +822,7 @@
         "losses": "9",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "19",
+        "gamesBehind": "20",
         "pointsFor": "45",
         "pointsAgainst": "55"
       },
@@ -914,7 +914,7 @@
         "losses": "8",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "10",
+        "gamesBehind": "11",
         "pointsFor": "66",
         "pointsAgainst": "68"
       },
@@ -924,7 +924,7 @@
         "losses": "8",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "13",
+        "gamesBehind": "14",
         "pointsFor": "53",
         "pointsAgainst": "55"
       }
@@ -994,27 +994,27 @@
       "home": {
         "rank": "6",
         "wins": "10",
-        "losses": "5",
+        "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "9",
-        "pointsFor": "49",
-        "pointsAgainst": "41"
+        "gamesBehind": "10",
+        "pointsFor": "52",
+        "pointsAgainst": "49"
       },
       "away": {
-        "rank": "10",
-        "wins": "8",
+        "rank": "9",
+        "wins": "9",
         "losses": "8",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "12",
-        "pointsFor": "53",
-        "pointsAgainst": "65"
+        "gamesBehind": "11",
+        "pointsFor": "61",
+        "pointsAgainst": "68"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "DAL leads series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -1065,13 +1065,13 @@
     "standings": {
       "home": {
         "rank": "15",
-        "wins": "4",
+        "wins": "5",
         "losses": "13",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "22",
-        "pointsFor": "39",
-        "pointsAgainst": "76"
+        "gamesBehind": "21",
+        "pointsFor": "42",
+        "pointsAgainst": "78"
       },
       "away": {
         "rank": "10",
@@ -1079,14 +1079,14 @@
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "13",
-        "pointsFor": "53",
-        "pointsAgainst": "65"
+        "gamesBehind": "12",
+        "pointsFor": "55",
+        "pointsAgainst": "68"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "BUF leads series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -1146,29 +1146,29 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
-        "wins": "10",
+        "rank": "7",
+        "wins": "11",
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "10",
-        "pointsFor": "60",
-        "pointsAgainst": "56"
+        "gamesBehind": "8",
+        "pointsFor": "65",
+        "pointsAgainst": "60"
       },
       "away": {
         "rank": "13",
         "wins": "7",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "15",
-        "pointsFor": "51",
-        "pointsAgainst": "59"
+        "pointsFor": "55",
+        "pointsAgainst": "64"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "DET leads series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -1220,6 +1220,11 @@
       ],
       "away": [
         {
+          "name": "Joel Eriksson Ek",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Brock Faber",
           "status": "Injured Reserve",
           "detail": "Surgery"
@@ -1235,22 +1240,22 @@
       "home": {
         "rank": "12",
         "wins": "8",
-        "losses": "10",
+        "losses": "11",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "14",
-        "pointsFor": "67",
-        "pointsAgainst": "70"
+        "pointsFor": "69",
+        "pointsAgainst": "75"
       },
       "away": {
-        "rank": "2",
-        "wins": "13",
+        "rank": "1",
+        "wins": "14",
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "1",
-        "pointsFor": "65",
-        "pointsAgainst": "44"
+        "gamesBehind": "-",
+        "pointsFor": "70",
+        "pointsAgainst": "46"
       }
     },
     "h2h": null
@@ -1312,13 +1317,13 @@
     "standings": {
       "home": {
         "rank": "6",
-        "wins": "11",
+        "wins": "12",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
-        "pointsFor": "60",
-        "pointsAgainst": "57"
+        "gamesBehind": "6",
+        "pointsFor": "64",
+        "pointsAgainst": "60"
       },
       "away": {
         "rank": "5",
@@ -1327,8 +1332,8 @@
         "ties": null,
         "winPercent": null,
         "gamesBehind": "7",
-        "pointsFor": "78",
-        "pointsAgainst": "59"
+        "pointsFor": "81",
+        "pointsAgainst": "63"
       }
     },
     "h2h": null
@@ -1384,24 +1389,24 @@
     },
     "standings": {
       "home": {
-        "rank": "5",
-        "wins": "13",
+        "rank": "4",
+        "wins": "14",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "68",
-        "pointsAgainst": "55"
+        "gamesBehind": "4",
+        "pointsFor": "73",
+        "pointsAgainst": "57"
       },
       "away": {
         "rank": "9",
         "wins": "10",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "12",
-        "pointsFor": "56",
-        "pointsAgainst": "53"
+        "pointsFor": "58",
+        "pointsAgainst": "58"
       }
     },
     "h2h": {
@@ -1452,22 +1457,22 @@
       "home": {
         "rank": "16",
         "wins": "7",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "18",
-        "pointsFor": "41",
-        "pointsAgainst": "51"
+        "pointsFor": "42",
+        "pointsAgainst": "54"
       },
       "away": {
-        "rank": "4",
-        "wins": "12",
+        "rank": "2",
+        "wins": "13",
         "losses": "4",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "71",
-        "pointsAgainst": "56"
+        "gamesBehind": "4",
+        "pointsFor": "74",
+        "pointsAgainst": "57"
       }
     },
     "h2h": null
@@ -1489,6 +1494,11 @@
         }
       ],
       "away": [
+        {
+          "name": "Chris Kreider",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "Ivan Demidov",
           "status": "Injured Reserve",
@@ -1513,7 +1523,7 @@
     },
     "standings": {
       "home": {
-        "rank": "3",
+        "rank": "5",
         "wins": "13",
         "losses": "5",
         "ties": null,
@@ -1523,7 +1533,7 @@
         "pointsAgainst": "46"
       },
       "away": {
-        "rank": "2",
+        "rank": "3",
         "wins": "12",
         "losses": "3",
         "ties": null,
@@ -1577,23 +1587,23 @@
     "standings": {
       "home": {
         "rank": "15",
-        "wins": "4",
+        "wins": "5",
         "losses": "13",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "22",
-        "pointsFor": "39",
-        "pointsAgainst": "76"
+        "gamesBehind": "21",
+        "pointsFor": "42",
+        "pointsAgainst": "78"
       },
       "away": {
-        "rank": "10",
-        "wins": "8",
+        "rank": "9",
+        "wins": "9",
         "losses": "8",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "12",
-        "pointsFor": "53",
-        "pointsAgainst": "65"
+        "gamesBehind": "11",
+        "pointsFor": "61",
+        "pointsAgainst": "68"
       }
     },
     "h2h": {
@@ -1668,12 +1678,12 @@
         "pointsAgainst": "46"
       },
       "away": {
-        "rank": "9",
+        "rank": "10",
         "wins": "9",
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "12",
+        "gamesBehind": "13",
         "pointsFor": "58",
         "pointsAgainst": "61"
       }

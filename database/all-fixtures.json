@@ -1098143,6 +1098143,45 @@
     "awayScore": 8
   },
   {
+    "id": "daum-nba-80109741",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T00:00:00.000Z",
+    "home": "Indiana Pacers",
+    "away": "Washington Wizards",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/11_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/27_300300.png",
+    "homeScore": 114,
+    "awayScore": 101
+  },
+  {
+    "id": "daum-nba-80109742",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T00:00:00.000Z",
+    "home": "New York Knicks",
+    "away": "Cleveland Cavaliers",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/18_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/5_300300.png",
+    "homeScore": 107,
+    "awayScore": 115
+  },
+  {
+    "id": "daum-nba-80109743",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T00:00:00.000Z",
+    "home": "Toronto Raptors",
+    "away": "Boston Celtics",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/28_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/2_300300.png",
+    "homeScore": 93,
+    "awayScore": 98
+  },
+  {
     "id": "highlightly-hockey-378603025",
     "sport": "hockey",
     "country": "USA",
@@ -1098180,6 +1098219,58 @@
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1783449.png",
     "homeScore": 2,
     "awayScore": 2
+  },
+  {
+    "id": "daum-nba-80109744",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T01:00:00.000Z",
+    "home": "New Orleans Pelicans",
+    "away": "Brooklyn Nets",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/3_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/17_300300.png",
+    "homeScore": 111,
+    "awayScore": 145
+  },
+  {
+    "id": "daum-nba-80109745",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T01:00:00.000Z",
+    "home": "Chicago Bulls",
+    "away": "San Antonio Spurs",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/4_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/24_300300.png",
+    "homeScore": 119,
+    "awayScore": 124
+  },
+  {
+    "id": "daum-nba-80109746",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T01:00:00.000Z",
+    "home": "Milwaukee Bucks",
+    "away": "Los Angeles Lakers",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/15_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/13_300300.png",
+    "homeScore": 112,
+    "awayScore": 123
+  },
+  {
+    "id": "daum-nba-80109747",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T01:00:00.000Z",
+    "home": "Memphis Grizzlies",
+    "away": "Denver Nuggets",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/29_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/7_300300.png",
+    "homeScore": 118,
+    "awayScore": 123
   },
   {
     "id": "fotmob-6540022",
@@ -1098221,6 +1098312,19 @@
     "awayScore": 2
   },
   {
+    "id": "daum-nba-80109748",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T02:00:00.000Z",
+    "home": "Utah Jazz",
+    "away": "Orlando Magic",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/26_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/19_300300.png",
+    "homeScore": 108,
+    "awayScore": 123
+  },
+  {
     "id": "highlightly-hockey-378604727",
     "sport": "hockey",
     "country": "USA",
@@ -1098232,6 +1098336,19 @@
     "awayLogo": null,
     "homeScore": 5,
     "awayScore": 3
+  },
+  {
+    "id": "daum-nba-80109749",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T02:30:00.000Z",
+    "home": "Houston Rockets",
+    "away": "Golden State Warriors",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/10_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/9_300300.png",
+    "homeScore": 115,
+    "awayScore": 108
   },
   {
     "id": "fotmob-6577362",
@@ -1098271,6 +1098388,19 @@
     "awayLogo": "https://highlightly.net/hockey/images/teams/593080.png",
     "homeScore": 2,
     "awayScore": 3
+  },
+  {
+    "id": "daum-nba-80109750",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-12T03:00:00.000Z",
+    "home": "Portland Trail Blazers",
+    "away": "Oklahoma City Thunder",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/22_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/25_300300.png",
+    "homeScore": 118,
+    "awayScore": 108
   },
   {
     "id": "fotmob-5924778",
@@ -1099173,8 +1099303,8 @@
     "away": "Minnesota Wild",
     "homeLogo": "https://highlightly.net/hockey/images/teams/596484.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/585421.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 5
   },
   {
     "id": "highlightly-hockey-378611535",
@@ -1099186,8 +1099316,8 @@
     "away": "Colorado Avalanche",
     "homeLogo": "https://highlightly.net/hockey/images/teams/590527.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/578613.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 4,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378610684",
@@ -1099199,8 +1099329,8 @@
     "away": "Washington Capitals",
     "homeLogo": "https://highlightly.net/hockey/images/teams/587974.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/599037.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378608982",
@@ -1099212,8 +1099342,8 @@
     "away": "Tampa Bay Lightning",
     "homeLogo": "https://highlightly.net/hockey/images/teams/579464.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/595633.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378608131",
@@ -1099227,6 +1099357,32 @@
     "awayLogo": "https://highlightly.net/hockey/images/teams/586272.png",
     "homeScore": 2,
     "awayScore": 5
+  },
+  {
+    "id": "daum-nba-80109751",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-13T00:00:00.000Z",
+    "home": "Philadelphia 76ers",
+    "away": "Toronto Raptors",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/20_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/28_300300.png",
+    "homeScore": 123,
+    "awayScore": 112
+  },
+  {
+    "id": "daum-nba-80109752",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-13T00:00:00.000Z",
+    "home": "Washington Wizards",
+    "away": "Detroit Pistons",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/27_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/8_300300.png",
+    "homeScore": 140,
+    "awayScore": 144
   },
   {
     "id": "fotmob-6391959",
@@ -1099251,8 +1099407,8 @@
     "away": "Detroit Red Wings",
     "homeLogo": "https://highlightly.net/hockey/images/teams/582868.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/581166.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378614088",
@@ -1099264,8 +1099420,8 @@
     "away": "Winnipeg Jets",
     "homeLogo": "https://highlightly.net/hockey/images/teams/580315.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/599888.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 8
   },
   {
     "id": "highlightly-hockey-378613237",
@@ -1099277,8 +1099433,21 @@
     "away": "Buffalo Sabres",
     "homeLogo": "https://highlightly.net/hockey/images/teams/577762.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/574358.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
+  },
+  {
+    "id": "daum-nba-80109753",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-13T01:00:00.000Z",
+    "home": "Minnesota Timberwolves",
+    "away": "Dallas Mavericks",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/16_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/6_300300.png",
+    "homeScore": 133,
+    "awayScore": 94
   },
   {
     "id": "fotmob-1000022942",
@@ -1099290,8 +1099459,8 @@
     "away": "Leones Negros",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6575.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/177535.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-378614939",
@@ -1099303,6 +1099472,19 @@
     "away": "St. Louis Blues",
     "homeLogo": null,
     "awayLogo": "https://highlightly.net/hockey/images/teams/594782.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109754",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-13T02:00:00.000Z",
+    "home": "Phoenix Suns",
+    "away": "Charlotte Hornets",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/21_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/30_300300.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -1100513,6 +1100695,32 @@
     "awayScore": null
   },
   {
+    "id": "daum-nba-80109755",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T00:00:00.000Z",
+    "home": "Indiana Pacers",
+    "away": "New York Knicks",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/11_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/18_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109756",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T00:00:00.000Z",
+    "home": "Orlando Magic",
+    "away": "Milwaukee Bucks",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/19_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/15_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-5887406",
     "sport": "soccer",
     "country": "United States",
@@ -1100561,6 +1100769,45 @@
     "away": "Isidro Metapan",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49744.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49746.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109757",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T01:00:00.000Z",
+    "home": "New Orleans Pelicans",
+    "away": "Memphis Grizzlies",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/3_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/29_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109758",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T01:00:00.000Z",
+    "home": "Chicago Bulls",
+    "away": "Atlanta Hawks",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/4_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/1_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109759",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T01:00:00.000Z",
+    "home": "Miami Heat",
+    "away": "Cleveland Cavaliers",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/14_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/5_300300.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -1100617,6 +1100864,19 @@
     "awayScore": null
   },
   {
+    "id": "daum-nba-80109760",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T01:30:00.000Z",
+    "home": "Houston Rockets",
+    "away": "Utah Jazz",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/10_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/26_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6391961",
     "sport": "soccer",
     "country": "International",
@@ -1100643,6 +1100903,19 @@
     "awayScore": null
   },
   {
+    "id": "daum-nba-80109761",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T02:30:00.000Z",
+    "home": "San Antonio Spurs",
+    "away": "Golden State Warriors",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/24_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/9_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "highlightly-hockey-378617492",
     "sport": "hockey",
     "country": "USA",
@@ -1100652,6 +1100925,32 @@
     "away": "Nashville Predators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/598186.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/587123.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109762",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T03:00:00.000Z",
+    "home": "Sacramento Kings",
+    "away": "Portland Trail Blazers",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/23_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/22_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109763",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-14T03:30:00.000Z",
+    "home": "LA Clippers",
+    "away": "Oklahoma City Thunder",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/12_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/25_300300.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -1104906,6 +1105205,19 @@
     "awayScore": null
   },
   {
+    "id": "daum-nba-80109764",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-15T00:00:00.000Z",
+    "home": "New Orleans Pelicans",
+    "away": "Denver Nuggets",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/3_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/7_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6633973",
     "sport": "soccer",
     "country": "International",
@@ -1104928,6 +1105240,19 @@
     "away": "Boise",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/614315.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1877675.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109765",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-15T00:30:00.000Z",
+    "home": "Cleveland Cavaliers",
+    "away": "Dallas Mavericks",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/5_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/6_300300.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -1104967,6 +1105292,45 @@
     "away": "Sydney FC (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1300347.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/675731.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109766",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-15T01:00:00.000Z",
+    "home": "Miami Heat",
+    "away": "Detroit Pistons",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/14_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/8_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109767",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-15T01:00:00.000Z",
+    "home": "Minnesota Timberwolves",
+    "away": "Chicago Bulls",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/16_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/4_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "daum-nba-80109768",
+    "sport": "basketball",
+    "country": "USA",
+    "league": "NBA",
+    "date": "2026-11-15T01:00:00.000Z",
+    "home": "Memphis Grizzlies",
+    "away": "Brooklyn Nets",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/29_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/17_300300.png",
     "homeScore": null,
     "awayScore": null
   },
