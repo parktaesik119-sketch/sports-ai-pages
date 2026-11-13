@@ -623,7 +623,27 @@ async function analyzeMatches() {
 
     
 
-  const filteredMatches = rawData.filter(m => isMatchApproved(m));
+  // KST 기준 오늘과 익일까지 농구·배구 분석 대상 제한
+const kstNow = Date.now() + (9 * 60 * 60 * 1000);
+const kstToday = new Date(kstNow).toISOString().split('T')[0];
+const kstTomorrow = new Date(kstNow + 24 * 60 * 60 * 1000)
+  .toISOString().split('T')[0];
+
+const filteredMatches = rawData.filter(m => {
+  if (!isMatchApproved(m)) return false;
+
+  // 농구·배구만 익일까지 분석
+  if (m.sport === 'basketball' || m.sport === 'volleyball') {
+    const matchDateKST = new Date(m.date).toLocaleDateString('sv-SE', {
+      timeZone: 'Asia/Seoul'
+    });
+
+    return matchDateKST >= kstToday && matchDateKST <= kstTomorrow;
+  }
+
+  // 다른 종목은 기존 조건 유지
+  return true;
+});
 
 
     console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Gemini 3 Flash)`);
