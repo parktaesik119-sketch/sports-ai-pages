@@ -1,0 +1,37 @@
+---
+title: "삼성 vs 안양 정관장 농구분석·승부예측 (11월 14일) - 픽천국"
+date: 2026-11-14T07:30:00.000Z
+description: "삼성 vs 안양 정관장 농구분석: 삼성이 최근 치른 경기들에서 높은 승률과 안정적인 공수 밸런스를 선보이며 좋은 흐름을 이어가고 있습니다. 안양 정관장은 꾸준히… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-kbl-80109249-2026-11-14-samsung-thunders"
+category: "basketball"
+country: "대한민국"
+league: "KBL"
+homeTeam: "삼성"
+awayTeam: "안양 정관장"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/10/35_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/10/70_300300.png"
+homeAnalysis: "삼성이 앞선 10경기에서 8승 2패로 승률 80%를 기록했고, 공수 양면에서 안정적인 흐름을 유지하고 있습니다. 최근 경기에서도 꾸준한 득점력을 바탕으로 상대를 압도하는 모습을 보여주고 있습니다. 평균 득점 수치가 증명하듯 공격 전개 과정이 매끄럽고 집중력이 뛰어납니다. 홈 경기에서도 강한 면모를 보이며 주도권을 잡는 능력이 돋보입니다. 이러한 탄탄한 전력을 바탕으로 이번 경기에서도 좋은 흐름을 이어갈 것으로 보입니다."
+awayAnalysis: "안양 정관장은 앞선 15경기에서 9승 6패로 승률 60%를 기록했고, 다소 기복 있는 경기력을 보이고 있습니다. 최근 치른 경기들에서는 저력을 발휘하며 승수를 쌓아가고 있으나 수비 집중력에서 아쉬움을 남기기도 했습니다. 원정 경기 환경에서는 득점력을 극대화하는 동시에 실점을 줄이는 과제를 안고 있습니다. 전체적인 전력 구성은 탄탄하지만 세부적인 공수 밸런스를 다잡는 것이 중요합니다. 이번 방문 경기에서도 철저한 준비를 통해 반등을 노리고 있습니다."
+homePower: "최근 맞대결 5경기 중 3승을 거두며 상성에서 우위를 점함|평균 득점 80점 중후반대의 꾸준한 화력이 강점으로 작용함|홈 코트 이점을 살린 빠른 공수 전환과 안정적인 운영을 보임|접전 상황에서 집중력을 유지하며 승리를 지켜내는 능력이 뛰어남|탄탄한 전력 기반 위에 공수 밸런스가 조화롭게 안착된 상태임"
+awayPower: "원정 경기에서 공격 고삐를 당기며 득점 생산력을 끌어올림|상대 수비 허점을 파고드는 돌파 능력이 주요 옵션으로 평가됨|경기 중반 이후 수비 조직력이 흔들리는 기복은 보완이 필요함|맞대결 전적에서 일부 열세를 극복하기 위한 전술적 변화가 요구됨|다양한 공격 패턴을 활용해 활로를 모색하는 모습이 돋보임"
+h2h: '[{"date":"26.10.09","home":"서울 삼성","away":"안양 정관장","score":"66-58"},{"date":"26.09.27","home":"서울 삼성","away":"안양 정관장","score":"70-78"},{"date":"26.03.28","home":"서울 삼성","away":"안양 정관장","score":"71-62"},{"date":"26.03.09","home":"서울 삼성","away":"안양 정관장","score":"79-84"},{"date":"26.01.29","home":"안양 정관장","away":"서울 삼성","score":"76-85"}]'
+summary: "삼성이 최근 치른 경기들에서 높은 승률과 안정적인 공수 밸런스를 선보이며 좋은 흐름을 이어가고 있습니다. 안양 정관장은 꾸준히 득점을 올리고 있으나 수비 안정감 측면에서 다소 아쉬움을 보이며 기복을 겪고 있습니다. 양 팀의 전력 차이와 최근 맞대결 성적을 종합해 볼 때, 홈 코트에서 경기를 치르는 삼성이 한층 더 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.09","home":"삼성","away":"수원 KT","score":"85-78","result":"🟢승"},{"date":"26.11.07","home":"원주 DB","away":"삼성","score":"84-76","result":"🔴패"},{"date":"26.11.05","home":"울산 현대모비스","away":"삼성","score":"76-81","result":"🟢승"},{"date":"26.11.01","home":"삼성","away":"서울 SK","score":"76-90","result":"🔴패"},{"date":"26.10.30","home":"고양 소노","away":"삼성","score":"87-95","result":"🟢승"}]'
+awayRecent: '[{"date":"26.11.08","home":"울산 현대모비스","away":"안양 정관장","score":"85-91","result":"🟢승"},{"date":"26.11.06","home":"안양 정관장","away":"서울 SK","score":"83-79","result":"🟢승"},{"date":"26.11.02","home":"대구 한국가스공사","away":"안양 정관장","score":"71-77","result":"🟢승"},{"date":"26.10.31","home":"안양 정관장","away":"수원 KT","score":"90-92","result":"🔴패"},{"date":"26.10.25","home":"안양 정관장","away":"DB","score":"93-95","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbl-202610257016490138-2026-10-25-anyang-jungkwanjang/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성"
+pickWinResult: "승"
+pickHandicapTeam: "삼성"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "163.5"
+pickOuDirection: "언더"
+---

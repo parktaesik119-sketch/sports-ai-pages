@@ -1,0 +1,37 @@
+---
+title: "LG vs 현대모비스 농구분석·승부예측 (11월 14일) - 픽천국"
+date: 2026-11-14T05:00:00.000Z
+description: "LG vs 현대모비스 농구분석: 창원 LG는 최근 홈 경기에서 막강한 화력을 뽐내며 팀 분위기를 최고조로 끌어올린 반면, 울산 현대모비스는 최근 원정 일정에서… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-kbl-80109248-2026-11-14-changwon-lg"
+category: "basketball"
+country: "대한민국"
+league: "KBL"
+homeTeam: "LG"
+awayTeam: "현대모비스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/10/50_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/10/10_300300.png"
+homeAnalysis: "창원 LG는 앞선 10경기에서 4승 6패로 승률 40%를 기록했고, 최근 치른 서울 SK와의 경기에서 101대72로 대승을 거두며 공격력에 물이 오른 모습을 보여주고 있습니다. 전반적인 득점 라인이 안정적으로 살아나고 있으며, 홈 코트에서의 화력 집중도가 한층 높아진 흐름입니다. 다소 기복을 보이던 수비 집중력 역시 최근 경기들을 통해 빠르게 정비되는 양상을 띠고 있습니다. 이번 경기를 앞두고 공수 양면에서 긍정적인 에너지를 유지하고 있어 좋은 분위기를 이어갈 것으로 기대됩니다. 전체적인 전력의 짜임새가 탄탄해지면서 상대의 압박을 효과적으로 풀어내고 있습니다."
+awayAnalysis: "울산 현대모비스는 앞선 10경기에서 4승 6패로 승률 40%를 기록했고, 최근 고양 소노와의 경기에서 아쉽게 패하며 흐름이 다소 주춤해진 상황입니다. 최근 연이은 경기들에서 수비 집중력이 흔들리며 실점 폭이 다소 늘어난 점이 아쉬움으로 남습니다. 다만 공격 과정에서의 집중력 자체는 꾸준히 유지되고 있어 언제든지 반등할 수 있는 저력을 품고 있습니다. 원정 경기에서 맞이하는 이번 일정에서는 수비 안정감을 얼마나 빠르게 되찾느냐가 승패를 가를 중요한 열쇠가 될 것입니다. 공수 균형을 재정비하여 분위기 전환을 시도할 것으로 보입니다."
+homePower: "최근 맞대결에서 우세를 점하며 상대 상성에서 유리한 고지를 선점함|홈 경기 공격 집중력이 살아나며 평균 득점력을 안정적으로 유지함|공수 밸런스가 빠르게 안정궤도에 진입하며 조직력이 강화됨|직전 대승을 통해 팀 전체의 사기와 득점 감각이 최고조에 달함|안정적인 경기 운영 능력을 바탕으로 주도권을 잡는 데 능함"
+awayPower: "원정 경기에서 다소 흔들리는 수비 조직력의 보완이 시급함|공격 자체의 흐름은 나쁘지 않으나 마무리의 세밀함이 다소 부족함|최근 연패 흐름을 끊어내기 위한 수비 집중력 강화가 절실함|상대 전적에서 팽팽한 양상을 보였던 만큼 초반 기선 제압이 중요함|객관적인 전력 열세를 극복할 과감한 전술적 변화가 요구됨"
+h2h: '[{"date":"26.10.22","home":"울산 현대모비스","away":"창원 LG","score":"83-88"},{"date":"26.09.26","home":"울산 현대모비스","away":"창원 LG","score":"85-84"},{"date":"26.04.08","home":"울산 현대모비스","away":"창원 LG","score":"78-56"},{"date":"26.03.06","home":"창원 LG","away":"울산 현대모비스","score":"83-75"},{"date":"26.01.31","home":"창원 LG","away":"울산 현대모비스","score":"76-65"}]'
+summary: "창원 LG는 최근 홈 경기에서 막강한 화력을 뽐내며 팀 분위기를 최고조로 끌어올린 반면, 울산 현대모비스는 최근 원정 일정에서 수비 집중력 저하로 인해 다소 흔들리는 모습을 보이고 있습니다. 양 팀의 최근 맞대결과 공수 흐름을 비교해 보면, 안정적인 공수 밸런스와 홈 이점을 안고 있는 창원 LG가 경기를 주도할 가능성이 높습니다. 울산 현대모비스 역시 꾸준한 공격력을 바탕으로 반격을 시도하겠지만, 전력의 짜임새와 최근 상승세를 탄 창원 LG가 우위를 점할 것으로 전망됩니다."
+homeRecent: '[{"date":"26.11.11","home":"LG","away":"서울 SK","score":"101-72","result":"🟢승"},{"date":"26.11.08","home":"LG","away":"부산 KCC","score":"74-84","result":"🔴패"},{"date":"26.11.07","home":"LG","away":"고양 소노","score":"86-85","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbl-202611075066490156-2026-11-07-changwon-lg/"},{"date":"26.11.01","home":"LG","away":"원주 DB","score":"98-104","result":"🔴패"},{"date":"26.10.26","home":"고양 소노","away":"LG","score":"107-109","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbl-202610266650490140-2026-10-26-goyang-sono/"}]'
+awayRecent: '[{"date":"26.11.10","home":"현대모비스","away":"고양 소노","score":"79-86","result":"🔴패"},{"date":"26.11.08","home":"현대모비스","away":"안양 정관장","score":"85-91","result":"🔴패"},{"date":"26.11.05","home":"현대모비스","away":"서울 삼성","score":"76-81","result":"🔴패"},{"date":"26.10.31","home":"대구 한국가스공사","away":"현대모비스","score":"94-67","result":"🔴패"},{"date":"26.10.29","home":"현대모비스","away":"부산 KCC","score":"96-89","result":"🟢승"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LG"
+pickWinResult: "승"
+pickHandicapTeam: "LG"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "171.5"
+pickOuDirection: "언더"
+---
