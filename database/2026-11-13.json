@@ -819,6 +819,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6539345",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Friendlies",
+    "date": "2026-11-13T14:15:00.000Z",
+    "home": "UAE",
+    "away": "Honduras",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5789.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5808.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6539343",
     "sport": "soccer",
     "country": "International",
@@ -1651,19 +1664,6 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-6539345",
-    "sport": "soccer",
-    "country": "International",
-    "league": "Friendlies",
-    "date": "2026-11-13T16:10:00.000Z",
-    "home": "UAE",
-    "away": "Honduras",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5789.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5808.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-6539342",
     "sport": "soccer",
     "country": "International",
@@ -2288,6 +2288,19 @@
     "awayScore": null
   },
   {
+    "id": "fotmob-6375161",
+    "sport": "soccer",
+    "country": "International",
+    "league": "CONCACAF Nations League B Grp. 1",
+    "date": "2026-11-13T19:00:00.000Z",
+    "home": "Puerto Rico",
+    "away": "Dominica",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5756.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/287980.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "fotmob-6375163",
     "sport": "soccer",
     "country": "International",
@@ -2297,19 +2310,6 @@
     "away": "Saint Lucia",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5943.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/127408.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
-    "id": "fotmob-6375161",
-    "sport": "soccer",
-    "country": "International",
-    "league": "CONCACAF Nations League B Grp. 1",
-    "date": "2026-11-13T20:00:00.000Z",
-    "home": "Puerto Rico",
-    "away": "Dominica",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5756.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/287980.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -4182,6 +4182,19 @@
     "away": "India",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6329.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6539355",
+    "sport": "soccer",
+    "country": "International",
+    "league": "Friendlies",
+    "date": "2026-11-15T12:00:00.000Z",
+    "home": "Kyrgyzstan",
+    "away": "Vietnam",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5893.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -8446,8 +8459,8 @@
     "away": "New York Islanders",
     "homeLogo": "https://highlightly.net/hockey/images/teams/583719.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/588825.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 5
   },
   {
     "id": "highlightly-hockey-378614939",
@@ -8459,8 +8472,8 @@
     "away": "St. Louis Blues",
     "homeLogo": null,
     "awayLogo": "https://highlightly.net/hockey/images/teams/594782.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378614088",
@@ -9295,6 +9308,19 @@
     "awayScore": null
   },
   {
+    "id": "daum-wvl-80108385",
+    "sport": "volleyball",
+    "country": "South Korea",
+    "league": "WKOVO W",
+    "date": "2026-11-12T10:00:00.000Z",
+    "home": "Jungkwanjang Red Sparks",
+    "away": "Korea Expressway Hi-pass",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/13/2003_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/13/2002_300300.png",
+    "homeScore": 0,
+    "awayScore": 3
+  },
+  {
     "id": "daum-wvl-80108386",
     "sport": "volleyball",
     "country": "South Korea",
@@ -9321,6 +9347,19 @@
     "awayScore": null
   },
   {
+    "id": "daum-wvl-80108388",
+    "sport": "volleyball",
+    "country": "South Korea",
+    "league": "WKOVO W",
+    "date": "2026-11-15T07:00:00.000Z",
+    "home": "Hyundai E&C Hillstate",
+    "away": "Korea Expressway Hi-pass",
+    "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/13/2001_300300.png",
+    "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/13/2002_300300.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
     "id": "panda-1766741",
     "sport": "lol",
     "league": "LCP",
@@ -9336,13 +9375,13 @@
     "id": "panda-1766742",
     "sport": "lol",
     "league": "LCP",
-    "date": "2026-11-13T06:00:00Z",
+    "date": "2026-11-13T06:08:40Z",
     "home": "DetonatioN FocusMe",
     "away": "Saigon Warriors",
     "homeLogo": "https://cdn-api.pandascore.co/images/team/image/89/780px_detonatio_n_focus_me_2022_lightmode.png",
     "awayLogo": "https://cdn-api.pandascore.co/images/team/image/138127/ezgif_5e268d1a7560187d.png",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "panda-1711021",

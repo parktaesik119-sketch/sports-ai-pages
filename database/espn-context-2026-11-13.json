@@ -749,7 +749,7 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
+        "rank": "11",
         "wins": "9",
         "losses": "7",
         "ties": null,
@@ -819,27 +819,27 @@
       "home": {
         "rank": "14",
         "wins": "5",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "20",
-        "pointsFor": "45",
-        "pointsAgainst": "55"
+        "pointsFor": "47",
+        "pointsAgainst": "60"
       },
       "away": {
-        "rank": "11",
-        "wins": "7",
+        "rank": "10",
+        "wins": "8",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "14",
-        "pointsFor": "49",
-        "pointsAgainst": "52"
+        "gamesBehind": "12",
+        "pointsFor": "54",
+        "pointsAgainst": "54"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LA leads series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -909,23 +909,23 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
+        "rank": "7",
         "wins": "10",
         "losses": "8",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "11",
+        "gamesBehind": "10",
         "pointsFor": "66",
-        "pointsAgainst": "68"
+        "pointsAgainst": "69"
       },
       "away": {
-        "rank": "11",
-        "wins": "8",
+        "rank": "10",
+        "wins": "9",
         "losses": "8",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "14",
-        "pointsFor": "53",
+        "gamesBehind": "12",
+        "pointsFor": "54",
         "pointsAgainst": "55"
       }
     },
@@ -962,7 +962,7 @@
           "detail": "Fracture"
         },
         {
-          "name": "Luke Krys",
+          "name": "Matt Duchene",
           "status": "Injured Reserve",
           "detail": ""
         }
@@ -1074,7 +1074,7 @@
         "pointsAgainst": "78"
       },
       "away": {
-        "rank": "10",
+        "rank": "11",
         "wins": "8",
         "losses": "7",
         "ties": null,
@@ -1678,7 +1678,7 @@
         "pointsAgainst": "46"
       },
       "away": {
-        "rank": "10",
+        "rank": "11",
         "wins": "9",
         "losses": "7",
         "ties": null,
