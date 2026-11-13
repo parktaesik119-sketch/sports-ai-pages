@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.09.30","home":"보츠와나","away":"모잠비크","sc
 awayRecent: '[{"date":"26.09.29","home":"에티오피아","away":"세네갈","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6040398-2026-09-29-ethiopia/"},{"date":"26.09.25","home":"수단","away":"에티오피아","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6040397-2026-09-25-sudan/"},{"date":"26.06.10","home":"에티오피아","away":"말라위","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1545704-2026-06-10-ethiopia/"},{"date":"26.06.07","home":"에티오피아","away":"말라위","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1545701-2026-06-07-ethiopia/"},{"date":"25.10.13","home":"부르키나파소","away":"에티오피아","score":"3-1","result":"🔴패"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Ernan (GK)|https://images.fotmob.com/image_resources/playerimages/1293548.png\",\"Bruno Langa (DF)|https://images.fotmob.com/image_resources/playerimages/1125477.png\",\"Edmilson Dove (DF)|https://images.fotmob.com/image_resources/playerimages/693942.png\",\"Bruno Wilson (DF)|https://images.fotmob.com/image_resources/playerimages/540414.png\",\"Diogo Calila (DF)|https://images.fotmob.com/image_resources/playerimages/1014983.png\",\"Manuel Kambala (MF)|https://images.fotmob.com/image_resources/playerimages/854055.png\",\"Alfons Amade (MF)|https://images.fotmob.com/image_resources/playerimages/966494.png\",\"Witi (FW)|https://images.fotmob.com/image_resources/playerimages/610273.png\",\"Candinho (MF)|https://images.fotmob.com/image_resources/playerimages/1293551.png\",\"Geny Catamo (FW)|https://images.fotmob.com/image_resources/playerimages/1088753.png\",\"Stanley Ratifo (FW)|https://images.fotmob.com/image_resources/playerimages/577618.png\"]"
+awayLineup: "[\"Abubeker Nura (GK)|https://images.fotmob.com/image_resources/playerimages/1540369.png\",\"Kaleb Beyene (DF)|https://images.fotmob.com/image_resources/playerimages/2456471.png\",\"Melkamu Bogale (DF)|https://images.fotmob.com/image_resources/playerimages/2456472.png\",\"Bereket Samuel (DF)|https://images.fotmob.com/image_resources/playerimages/2296378.png\",\"Alelign Muluneh (DF)|https://images.fotmob.com/image_resources/playerimages/2456470.png\",\"Gatoch Panom (MF)|https://images.fotmob.com/image_resources/playerimages/649991.png\",\"Wogene Gezahegn (MF)|https://images.fotmob.com/image_resources/playerimages/1498273.png\",\"Canaan Markneh (FW)|https://images.fotmob.com/image_resources/playerimages/969232.png\",\"Biniyam Fikru (FW)|https://images.fotmob.com/image_resources/playerimages/2457137.png\",\"Carlos Damtew (FW)|https://images.fotmob.com/image_resources/playerimages/2296405.png\",\"Abel Habtamu (FW)|https://images.fotmob.com/image_resources/playerimages/2456503.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-3-3"
+homeCoach: "Chiquinho Conde|https://images.fotmob.com/image_resources/playerimages/1309631.png"
+awayCoach: "Yohannes Sahle|https://images.fotmob.com/image_resources/playerimages/686645.png"
 pickWinTeam: "모잠비크"
 pickWinResult: "승"
 pickHandicapTeam: "모잠비크"
