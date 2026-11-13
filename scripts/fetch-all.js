@@ -391,10 +391,15 @@ const DAUM_TEAM_MAPS = {
     "우리카드":"Woori Card WON"
   },
   wvl: {
-    "현대건설":"Hyundai E&C Hillstate", "도로공사":"Korea Expressway Hi-pass", "정관장":"Jungkwanjang Red Sparks",
-    "흥국생명":"Heungkuk Life Pink Spiders", "GS칼텍스":"GS Caltex Seoul KIXX", "IBK기업은행":"IBK Altos",
-    "SOOP":"SOOP Supers"
-  }
+  "현대건설":"Hyundai E&C Hillstate",
+  "도로공사":"Korea Expressway Hi-pass",
+  "한국도로공사":"Korea Expressway Hi-pass",
+  "정관장":"Jungkwanjang Red Sparks",
+  "흥국생명":"Heungkuk Life Pink Spiders",
+  "GS칼텍스":"GS Caltex Seoul KIXX",
+  "IBK기업은행":"IBK Altos",
+  "SOOP":"SOOP Supers"
+}
 };
 
 function normalizeDaumTeamName(name) {
