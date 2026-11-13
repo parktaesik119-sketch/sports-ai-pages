@@ -1,3 +1,4 @@
+
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -314,6 +315,23 @@ async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
   }
 }
 
+
+          league: g.categoryId.toUpperCase(),
+          date: new Date(`${g.gameDateTime}+09:00`).toISOString(), // KST 명시 후 UTC로 통일
+          home: map[g.homeTeamCode],
+          away: map[g.awayTeamCode],
+          homeLogo: g.homeTeamEmblemUrl,
+          awayLogo: g.awayTeamEmblemUrl,
+          homeScore: isFinished ? g.homeTeamScore : null,
+          awayScore: isFinished ? g.awayTeamScore : null,
+        };
+      });
+  } catch (err) {
+    console.error(`❌ fetchNaverBaseball(${upperCategoryId}) 에러:`, err.message);
+    return [];
+  }
+}
+
 // ─────────────────────────────────────────────
 // 🏀 농구 — 네이버스포츠 (NBA / KBL / WKBL). api-sports 대체 (2026-08).
 // 세 리그가 superCategoryId=basketball 하나로 다 같이 온다(야구가 kbaseball/
@@ -344,6 +362,143 @@ const NAVER_BASKETBALL_CODE_MAP = { nba: NAVER_NBA_CODE_MAP, kbl: NAVER_KBL_CODE
 const NAVER_BASKETBALL_COUNTRY = { nba: "USA", kbl: "South Korea", wkbl: "South Korea" };
 const NAVER_BASKETBALL_LEAGUE_NAME = { nba: "NBA", kbl: "KBL", wkbl: "WKBL W" }; // WKBL은 여자부 표시로 W를 붙임
 
+// ─────────────────────────────────────────────
+// 🏀 NBA — 다음 스포츠 API
+// GitHub Actions에서 HTTP 200 및 경기 JSON 수집을 확인한 소스
+// KBL / WKBL은 기존 네이버 수집 함수를 그대로 사용한다.
+// ─────────────────────────────────────────────
+
+const DAUM_NBA_TEAM_MAP = {
+  "애틀랜타": "Atlanta Hawks",
+  "보스턴": "Boston Celtics",
+  "브루클린": "Brooklyn Nets",
+  "샬럿": "Charlotte Hornets",
+  "시카고": "Chicago Bulls",
+  "클리블랜드": "Cleveland Cavaliers",
+  "댈러스": "Dallas Mavericks",
+  "덴버": "Denver Nuggets",
+  "디트로이트": "Detroit Pistons",
+  "골든스테이트": "Golden State Warriors",
+  "휴스턴": "Houston Rockets",
+  "인디애나": "Indiana Pacers",
+  "LA클리퍼스": "LA Clippers",
+  "LA레이커스": "Los Angeles Lakers",
+  "멤피스": "Memphis Grizzlies",
+  "마이애미": "Miami Heat",
+  "밀워키": "Milwaukee Bucks",
+  "미네소타": "Minnesota Timberwolves",
+  "뉴올리언스": "New Orleans Pelicans",
+  "뉴욕": "New York Knicks",
+  "오클라호마시티": "Oklahoma City Thunder",
+  "올랜도": "Orlando Magic",
+  "필라델피아": "Philadelphia 76ers",
+  "피닉스": "Phoenix Suns",
+  "포틀랜드": "Portland Trail Blazers",
+  "새크라멘토": "Sacramento Kings",
+  "샌안토니오": "San Antonio Spurs",
+  "토론토": "Toronto Raptors",
+  "유타": "Utah Jazz",
+  "워싱턴": "Washington Wizards"
+};
+
+function normalizeDaumNbaTeamName(name) {
+  return String(name || "").replace(/\s+/g, "").trim();
+}
+
+function getDaumNbaSeasonKey(fromDate) {
+  // NBA 시즌은 일반적으로 7월부터 다음 해 시즌 키를 사용한다.
+  const [year, month] = String(fromDate).split("-").map(Number);
+  const startYear = month >= 7 ? year : year - 1;
+  return `${startYear}${startYear + 1}`;
+}
+
+async function fetchDaumNBA(fromDate, toDate) {
+  const from = String(fromDate).replace(/-/g, "");
+  const to = String(toDate).replace(/-/g, "");
+  const seasonKey = getDaumNbaSeasonKey(fromDate);
+  const url =
+    `https://sports.daum.net/api/arms/SPORTS_SCHEDULE` +
+    `?leagueCode=nba&fromDate=${from}&toDate=${to}&seasonKey=${seasonKey}`;
+
+  try {
+    const res = await fetch(url, {
+      headers: {
+        "Referer": "https://sports.daum.net/",
+        "Origin": "https://sports.daum.net",
+        "Accept": "application/json, text/plain, */*",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130.0.0.0 Safari/537.36"
+      },
+      signal: AbortSignal.timeout(20000)
+    });
+
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status}`);
+    }
+
+    const data = await res.json();
+    if (data?.code !== 200) {
+      throw new Error(`Daum API 응답 코드: ${data?.code ?? "없음"}`);
+    }
+
+    const schedule = data.document?.schedule;
+    if (!schedule || typeof schedule !== "object") {
+      throw new Error("응답에 경기 일정(document.schedule)이 없습니다.");
+    }
+
+    const games = Object.values(schedule).flat();
+    const results = games.map(game => {
+      const homeName = DAUM_NBA_TEAM_MAP[normalizeDaumNbaTeamName(game.homeTeamName)];
+      const awayName = DAUM_NBA_TEAM_MAP[normalizeDaumNbaTeamName(game.awayTeamName)];
+
+      if (!homeName || !awayName) {
+        console.warn(
+          `⚠️ 다음 NBA 팀 이름 매핑 누락: ${game.homeTeamName} vs ${game.awayTeamName}`
+        );
+        return null;
+      }
+
+      const gameDate = String(game.startDate || "");
+      const gameTime = String(game.startTime || "0000").padStart(4, "0");
+      if (!/^\d{8}$/.test(gameDate) || !/^\d{4}$/.test(gameTime)) {
+        console.warn(`⚠️ 다음 NBA 경기 날짜/시간 형식 오류: ${gameDate} ${gameTime}`);
+        return null;
+      }
+
+      // 다음 스포츠 일정 시간은 한국 시간(KST)으로 전달되므로 +09:00을 명시한다.
+      const kstDateTime =
+        `${gameDate.slice(0, 4)}-${gameDate.slice(4, 6)}-${gameDate.slice(6, 8)}` +
+        `T${gameTime.slice(0, 2)}:${gameTime.slice(2, 4)}:00+09:00`;
+      const isFinished = game.gameStatus === "END" || game.periodType === "END";
+
+      return {
+        id: `daum-nba-${game.gameId}`,
+        sport: "basketball",
+        country: "USA",
+        league: "NBA",
+        date: new Date(kstDateTime).toISOString(),
+        home: homeName,
+        away: awayName,
+        homeLogo: game.homeTeamImageUrl
+          ? game.homeTeamImageUrl.replace(/^http:/, "https:")
+          : null,
+        awayLogo: game.awayTeamImageUrl
+          ? game.awayTeamImageUrl.replace(/^http:/, "https:")
+          : null,
+        homeScore: isFinished && game.homeResult != null ? Number(game.homeResult) : null,
+        awayScore: isFinished && game.awayResult != null ? Number(game.awayResult) : null
+      };
+    }).filter(Boolean);
+
+    console.log(
+      `✅ 다음 NBA 일정 수집 완료: ${results.length}경기 (${from} ~ ${to})`
+    );
+    return results;
+  } catch (err) {
+    console.error(`❌ 다음 NBA 일정 조회 실패: ${err.message}`);
+    return [];
+  }
+}
+
 async function fetchNaverBasketball(fromDate, toDate) {
   const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cconference%2CmanualRelayUrl&superCategoryId=basketball&fromDate=${fromDate}&toDate=${toDate}&size=500`;
 
@@ -354,8 +509,11 @@ async function fetchNaverBasketball(fromDate, toDate) {
 
     return games
       .filter(g => {
+        // NBA는 다음 스포츠에서 수집하므로 네이버 결과에서는 제외한다.
+        if (g.categoryId === "nba") return false;
+
         const map = NAVER_BASKETBALL_CODE_MAP[g.categoryId];
-        // nba/kbl/wkbl만 통과 (basketballetc 같은 콘텐츠성 항목, 매핑 안 된 팀 제외)
+        // KBL/WKBL만 통과 (콘텐츠성 항목 및 매핑 안 된 팀 제외)
         return map && g.homeTeamCode && g.awayTeamCode
           && map[g.homeTeamCode] && map[g.awayTeamCode];
       })
@@ -439,25 +597,7 @@ async function fetchNaverVolleyball(categoryId, fromDate, toDate) {
   }
 }
 
-// ─────────────────────────────────────────────
-// 🏒 하키 — Highlightly (NHL / KHL). api-sports 대체 (2026-08).
-// 리그 id는 /hockey/leagues?leagueName=... 로 미리 확인해둔 고정값 (실사용 검증 완료).
-// KHL은 서방 데이터 생태계에서 거의 유일하게 무료로 제대로 지원하는 곳이었음
-// (ESPN·api-sports·Sofascore 다 확인해봤지만 안 됐음 — 2026-08 조사).
-// ─────────────────────────────────────────────
 
-const HIGHLIGHTLY_HOCKEY_LEAGUES = { NHL: 49291, KHL: 30569 };
-
-async function fetchHighlightlyHockey(date) {
-  const results = [];
-
-  for (const [leagueName, leagueId] of Object.entries(HIGHLIGHTLY_HOCKEY_LEAGUES)) {
-    try {
-      const url = `https://sports.highlightly.net/hockey/matches?leagueId=${leagueId}&date=${date}`;
-      const res = await fetch(url, {
-        headers: { "x-rapidapi-key": HIGHLIGHTLY_KEY },
-      });
-      const data = await res.json();
       const matches = data?.data;
       if (!Array.isArray(matches)) continue;
 
@@ -671,14 +811,17 @@ async function main() {
       scheduleTasks.push(fetchHighlightlyHockey(date));
     });
 
-    // 🏀🏐 네이버스포츠(농구/배구)가 공유하는 날짜 범위 — api-sports 대체, 범위 방식으로 호출
+    // 🏀🏐 농구/배구 일정 수집 기간
     const naverRangeFrom = targetDates[0];
     const naverRangeTo = targetDates[targetDates.length - 1];
 
-    // 🏀 농구: 네이버스포츠 (NBA / KBL / WKBL) — api-sports 대체, 범위 방식으로 1번만 호출
+    // 🏀 NBA: 다음 스포츠 API로 수집
+    scheduleTasks.push(fetchDaumNBA(naverRangeFrom, naverRangeTo));
+
+    // 🏀 KBL / WKBL: 기존 네이버스포츠 수집 유지
     scheduleTasks.push(fetchNaverBasketball(naverRangeFrom, naverRangeTo));
 
-    // 🏐 배구: 네이버스포츠 (V리그 남/여) — api-sports 대체, 각 1번씩 호출
+    // 🏐 배구: 기존 네이버스포츠 수집 유지
     scheduleTasks.push(fetchNaverVolleyball("kovo", naverRangeFrom, naverRangeTo));
     scheduleTasks.push(fetchNaverVolleyball("wkovo", naverRangeFrom, naverRangeTo));
 
