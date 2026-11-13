@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.04","home":"아르헨티나","away":"부르키나�
 awayRecent: '[{"date":"26.09.30","home":"베냉","away":"모리타니","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6040275-2026-09-30-benin/"},{"date":"26.09.25","home":"모리타니","away":"중앙아프리카 공화국","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040274-2026-09-25-mauritania/"},{"date":"26.06.09","home":"니제르","away":"모리타니","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1546495-2026-06-09-niger/"},{"date":"26.06.06","home":"앙골라","away":"모리타니","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1548435-2026-06-06-angola/"},{"date":"26.03.28","home":"아르헨티나","away":"모리타니","score":"2-1","result":"🔴패"}]'
 injuryHome: "Issa Kaboré[주요](근육 부상 - 복귀예정 Doubtful) | Mohamed Ouédraogo[주요](십자 인대 부상 - 복귀예정 Late June 2027)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Hervé Koffi (GK)|https://images.fotmob.com/image_resources/playerimages/695405.png\",\"Mamoutou Ouedraogo (DF)|https://images.fotmob.com/image_resources/playerimages/2455193.png\",\"Nasser Djiga (DF)|https://images.fotmob.com/image_resources/playerimages/1273707.png\",\"Edmond Tapsoba (DF)|https://images.fotmob.com/image_resources/playerimages/789914.png\",\"Arthur Zagré (DF)|https://images.fotmob.com/image_resources/playerimages/949807.png\",\"Ismahila Ouédraogo (MF)|https://images.fotmob.com/image_resources/playerimages/1261814.png\",\"Sacha Banse (MF)|https://images.fotmob.com/image_resources/playerimages/2457664.png\",\"Dango Ouattara (FW)|https://images.fotmob.com/image_resources/playerimages/1250253.png\",\"Arsène Kouassi (MF)|https://images.fotmob.com/image_resources/playerimages/1640832.png\",\"Ousseni Bouda (FW)|https://images.fotmob.com/image_resources/playerimages/1339287.png\",\"Lassina Traoré (FW)|https://images.fotmob.com/image_resources/playerimages/850858.png\"]"
+awayLineup: "[\"Mamadou Diop (GK)|https://images.fotmob.com/image_resources/playerimages/1387237.png\",\"Ibrahima Keita (DF)|https://images.fotmob.com/image_resources/playerimages/1368634.png\",\"Mohamed Ali Diadie (DF)|https://images.fotmob.com/image_resources/playerimages/1695868.png\",\"Jordan Lefort (DF)|https://images.fotmob.com/image_resources/playerimages/492116.png\",\"Aly Abeid (DF)|https://images.fotmob.com/image_resources/playerimages/675710.png\",\"Mouhsine Bodda (MF)|https://images.fotmob.com/image_resources/playerimages/1113276.png\",\"Maata Magassa (MF)|https://images.fotmob.com/image_resources/playerimages/1686363.png\",\"Abdoullah Ba (FW)|https://images.fotmob.com/image_resources/playerimages/1239583.png\",\"Aboubakary Koïta (MF)|https://images.fotmob.com/image_resources/playerimages/725695.png\",\"Djeidi Gassama (FW)|https://images.fotmob.com/image_resources/playerimages/1358598.png\",\"Papa Ndiaga Yade (FW)|https://images.fotmob.com/image_resources/playerimages/1077680.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-2-3-1"
+homeCoach: "Amir Abdou|https://images.fotmob.com/image_resources/playerimages/694252.png"
+awayCoach: "Aritz López|https://images.fotmob.com/image_resources/playerimages/75331.png"
 pickWinTeam: "모리타니"
 pickWinResult: "승"
 pickHandicapTeam: "모리타니"

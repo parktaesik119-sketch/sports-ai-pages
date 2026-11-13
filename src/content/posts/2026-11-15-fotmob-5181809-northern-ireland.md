@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.06","home":"북아일랜드","away":"조지아","sc
 awayRecent: '[{"date":"26.10.06","home":"우크라이나","away":"헝가리","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5181807-2026-10-06-ukraine/"},{"date":"26.10.03","home":"우크라이나","away":"북아일랜드","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5181805-2026-10-03-ukraine/"},{"date":"26.09.29","home":"조지아","away":"우크라이나","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181802-2026-09-29-georgia/"},{"date":"26.09.26","home":"헝가리","away":"우크라이나","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5181801-2026-09-26-hungary/"},{"date":"26.06.08","home":"덴마크","away":"우크라이나","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-1543830-2026-06-08-denmark/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Pierce Charles (GK)|https://images.fotmob.com/image_resources/playerimages/1420144.png\",\"Tom Atcheson (DF)|https://images.fotmob.com/image_resources/playerimages/1443861.png\",\"Ruairi McConville (DF)|https://images.fotmob.com/image_resources/playerimages/1355258.png\",\"Ciaron Brown (DF)|https://images.fotmob.com/image_resources/playerimages/816368.png\",\"Trai Hume (DF)|https://images.fotmob.com/image_resources/playerimages/1067763.png\",\"Shea Charles (MF)|https://images.fotmob.com/image_resources/playerimages/1281452.png\",\"Ethan Galbraith (MF)|https://images.fotmob.com/image_resources/playerimages/1077926.png\",\"Justin Devenny (MF)|https://images.fotmob.com/image_resources/playerimages/1336751.png\",\"Patrick Kelly (MF)|https://images.fotmob.com/image_resources/playerimages/1395985.png\",\"Isaac Price (MF)|https://images.fotmob.com/image_resources/playerimages/1246270.png\",\"Jamie Donley (MF)|https://images.fotmob.com/image_resources/playerimages/1211646.png\"]"
+awayLineup: "[\"Anatoliy Trubin (GK)|https://images.fotmob.com/image_resources/playerimages/1022350.png\",\"Taras Mykhavko (DF)|https://images.fotmob.com/image_resources/playerimages/1410340.png\",\"Ilya Zabarnyi (DF)|https://images.fotmob.com/image_resources/playerimages/1140003.png\",\"Eduard Sarapiy (DF)|https://images.fotmob.com/image_resources/playerimages/1270729.png\",\"Illia Krupskyi (DF)|https://images.fotmob.com/image_resources/playerimages/1252039.png\",\"Yegor Nazaryna (MF)|https://images.fotmob.com/image_resources/playerimages/728941.png\",\"Ivan Varfolomeev (MF)|https://images.fotmob.com/image_resources/playerimages/1232216.png\",\"Oleg Ocheretko (MF)|https://images.fotmob.com/image_resources/playerimages/1192419.png\",\"Vitaliy Mykolenko (DF)|https://images.fotmob.com/image_resources/playerimages/874025.png\",\"Igor Krasnopir (FW)|https://images.fotmob.com/image_resources/playerimages/1516142.png\",\"Roman Yaremchuk (FW)|https://images.fotmob.com/image_resources/playerimages/643690.png\"]"
+homeFormation: "3-4-2-1"
+awayFormation: "3-5-2"
+homeCoach: "Michael O'Neill|https://images.fotmob.com/image_resources/playerimages/191542.png"
+awayCoach: "Andrea Maldera|https://images.fotmob.com/image_resources/playerimages/1447596.png"
 pickWinTeam: "북아일랜드"
 pickWinResult: "승"
 pickHandicapTeam: "북아일랜드"
