@@ -29,24 +29,6 @@ jobs:
       - name: 의존성 설치
         run: npm install
 
-      - name: 네이버 API Chrome TLS 실행 환경 설치
-        shell: bash
-        run: |
-          python -m venv "$RUNNER_TEMP/naver-curl-cffi"
-          "$RUNNER_TEMP/naver-curl-cffi/bin/pip" install curl_cffi
-          echo "NAVER_PYTHON=$RUNNER_TEMP/naver-curl-cffi/bin/python" >> "$GITHUB_ENV"
-
-      - name: 네이버 API 실행 환경 진단
-        shell: bash
-        run: |
-          echo "===== Python 버전 ====="
-          "$NAVER_PYTHON" --version
-
-          echo "===== curl_cffi 버전 ====="
-          "$NAVER_PYTHON" -m pip show curl_cffi
-
-          echo "===== curl_cffi 불러오기 테스트 ====="
-          "$NAVER_PYTHON" -c "from curl_cffi import requests; print('curl_cffi import OK')"
 
       - name: 데이터 수집 및 AI 분석 실행
         run: node scripts/main-auto.js
