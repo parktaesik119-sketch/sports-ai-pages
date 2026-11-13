@@ -864,6 +864,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Nick Schmaltz",
+          "status": "Out",
+          "detail": ""
+        },
+        {
           "name": "Nate Schmidt",
           "status": "Injured Reserve",
           "detail": ""
@@ -871,11 +876,6 @@
         {
           "name": "Logan Cooley",
           "status": "Out",
-          "detail": ""
-        },
-        {
-          "name": "Nick Schmaltz",
-          "status": "Day-To-Day",
           "detail": ""
         },
         {
@@ -942,6 +942,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Lian Bichsel",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Miro Heiskanen",
           "status": "Out",
           "detail": ""
@@ -963,6 +968,11 @@
         }
       ],
       "away": [
+        {
+          "name": "Dylan DeMelo",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "Elias Salomonsson",
           "status": "Injured Reserve",
@@ -1278,6 +1288,16 @@
       ],
       "away": [
         {
+          "name": "Cale Makar",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Nathan MacKinnon",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Josh Manson",
           "status": "Injured Reserve",
           "detail": ""
@@ -1386,7 +1406,7 @@
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "WSH leads series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -1440,7 +1460,7 @@
         "pointsAgainst": "51"
       },
       "away": {
-        "rank": "3",
+        "rank": "4",
         "wins": "12",
         "losses": "4",
         "ties": null,
@@ -1493,24 +1513,24 @@
     },
     "standings": {
       "home": {
-        "rank": "2",
+        "rank": "3",
         "wins": "13",
-        "losses": "4",
+        "losses": "5",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "5",
-        "pointsFor": "68",
-        "pointsAgainst": "41"
+        "pointsFor": "70",
+        "pointsAgainst": "46"
       },
       "away": {
-        "rank": "4",
-        "wins": "11",
+        "rank": "2",
+        "wins": "12",
         "losses": "3",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "62",
-        "pointsAgainst": "55"
+        "gamesBehind": "4",
+        "pointsFor": "67",
+        "pointsAgainst": "57"
       }
     },
     "h2h": null
@@ -1532,6 +1552,11 @@
         }
       ],
       "away": [
+        {
+          "name": "Dylan DeMelo",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "Elias Salomonsson",
           "status": "Injured Reserve",
