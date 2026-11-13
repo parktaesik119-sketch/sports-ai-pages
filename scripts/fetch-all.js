@@ -1,8 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
-import { execFile } from "child_process";
-import { promisify } from "util";
 
 // ==========================
 // 📁 경로 및 설정
@@ -208,145 +206,8 @@ async function fetchFotmobSoccerFixtures(dateStr /* YYYY-MM-DD */) {
 }
 
 
-// 네이버 API는 curl_cffi의 Chrome TLS 방식으로 호출합니다.
-// GitHub Actions에서 NAVER_PYTHON 환경변수로 전용 Python 실행 파일을 지정합니다.
-const execFileAsync = promisify(execFile);
-const NAVER_PYTHON = process.env.NAVER_PYTHON ||
-  (process.platform === "win32" ? "python" : "python3");
-const NAVER_FETCH_HELPER = path.join(__dirname, "naver-fetch.py");
-
-async function fetchNaverJson(url) {
-  let stdout;
-
-  try {
-    ({ stdout } = await execFileAsync(
-      NAVER_PYTHON,
-      [NAVER_FETCH_HELPER, url],
-      {
-        encoding: "utf8",
-        timeout: 45000,
-        maxBuffer: 20 * 1024 * 1024
-      }
-    ));
-  } catch (err) {
-    const detail = String(err.stderr || "").trim();
-    throw new Error(
-      `네이버 Chrome TLS 요청 실패: ${err.message}${detail ? ` | ${detail}` : ""}`
-    );
-  }
-
-  try {
-    return JSON.parse(stdout);
-  } catch (err) {
-    throw new Error(`네이버 응답 JSON 파싱 실패: ${err.message}; 응답 앞부분: ${stdout.slice(0, 300)}`);
-  }
-}
-
 // ─────────────────────────────────────────────
-// ⚾ 야구 — 네이버스포츠 (KBO / MLB+NPB). api-sports 대체 (2026-08).
-// CPBL은 네이버에 없어서 커버 안 됨 — 별도 소스 필요(추후 작업).
-// ─────────────────────────────────────────────
-
-// 네이버 팀코드 → team_name_map.js가 쓰는 영문 표준명 (기존 조사 결과 그대로 재사용)
-const NAVER_TEAM_CODE_MAP = {
-  kbo: {
-    HH: "Hanwha Eagles", HT: "KIA Tigers", LG: "LG Twins", LT: "Lotte Giants",
-    NC: "NC Dinos", OB: "Doosan Bears", SK: "SSG Landers", SS: "Samsung Lions",
-    WO: "Kiwoom Heroes", KT: "KT Wiz Suwon", // ⚠️ team_name_map.js 키가 "KT Wiz"가 아니라 "KT Wiz Suwon"
-  },
-  mlb: {
-    AN: "Los Angeles Angels", AT: "Atlanta Braves", AZ: "Arizona Diamondbacks",
-    BA: "Baltimore Orioles", BO: "Boston Red Sox", CC: "Chicago Cubs",
-    CI: "Cincinnati Reds", CL: "Cleveland Guardians", CO: "Colorado Rockies",
-    CW: "Chicago White Sox", DE: "Detroit Tigers", FL: "Miami Marlins",
-    HO: "Houston Astros", KC: "Kansas City Royals", LA: "Los Angeles Dodgers",
-    MI: "Milwaukee Brewers", MN: "Minnesota Twins", MO: "Washington Nationals",
-    NM: "New York Mets", NY: "New York Yankees", OA: "Athletics",
-    PH: "Philadelphia Phillies", PI: "Pittsburgh Pirates", SD: "San Diego Padres",
-    SE: "Seattle Mariners", SF: "San Francisco Giants", SL: "St.Louis Cardinals",
-    TB: "Tampa Bay Rays", TE: "Texas Rangers", TO: "Toronto Blue Jays",
-  },
-  npb: {
-    HI: "Hiroshima Carp", HS: "Hanshin Tigers", JL: "Chiba Lotte Marines",
-    JN: "Chunichi Dragons", NH: "Nippon Ham Fighters", OX: "Orix Buffaloes",
-    RT: "Rakuten Gold. Eagles", SE: "Seibu Lions", SF: "Fukuoka S. Hawks",
-    YA: "Yakult Swallows", YK: "Yokohama BayStars", YO: "Yomiuri Giants",
-  },
-};
-const NAVER_COUNTRY_BY_CATEGORY = { kbo: "South Korea", npb: "Japan", mlb: "USA" };
-
-async function fetchNaverBaseball(upperCategoryId, fromDate, toDate) {
-  const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cbaseball%2CmanualRelayUrl&upperCategoryId=${upperCategoryId}&fromDate=${fromDate}&toDate=${toDate}&size=500`;
-
-  try {
-    const data = await fetchNaverJson(url);
-    const games = data?.result?.games;
-    if (!Array.isArray(games)) return [];
-
-    return games
-      .filter(g => {
-        const map = NAVER_TEAM_CODE_MAP[g.categoryId];
-        // 실제 리그 경기만 통과 (편파중계 등 콘텐츠성 항목, 매핑 안 된 팀 제외)
-        return map && g.homeTeamCode && g.awayTeamCode
-          && map[g.homeTeamCode] && map[g.awayTeamCode];
-      })
-      .map(g => {
-        const map = NAVER_TEAM_CODE_MAP[g.categoryId];
-        // 아직 시작 안 한 경기의 스코어 0은 "진짜 0"이 아니라 "미정"이므로 null로 둔다.
-        const isFinished = g.statusCode === "RESULT" && !g.cancel;
-        return {
-          id: `naver-${g.categoryId}-${g.gameId}`,
-          sport: "baseball",
-          country: NAVER_COUNTRY_BY_CATEGORY[g.categoryId] || "Unknown",
-          league: g.categoryId.toUpperCase(),
-          date: new Date(`${g.gameDateTime}+09:00`).toISOString(), // KST 명시 후 UTC로 통일
-          home: map[g.homeTeamCode],
-          away: map[g.awayTeamCode],
-          homeLogo: g.homeTeamEmblemUrl,
-          awayLogo: g.awayTeamEmblemUrl,
-          homeScore: isFinished ? g.homeTeamScore : null,
-          awayScore: isFinished ? g.awayTeamScore : null,
-        };
-      });
-  } catch (err) {
-    console.error(`❌ fetchNaverBaseball(${upperCategoryId}) 에러:`, err.message);
-    return [];
-  }
-}
-
-// ─────────────────────────────────────────────
-// 🏀 농구 — 네이버스포츠 (NBA / KBL / WKBL). api-sports 대체 (2026-08).
-// 세 리그가 superCategoryId=basketball 하나로 다 같이 온다(야구가 kbaseball/
-// wbaseball로 나뉘던 것과 다름) — categoryId로 구분해서 걸러낸다.
-// ─────────────────────────────────────────────
-
-const NAVER_NBA_CODE_MAP = {
-  BOS: "Boston Celtics", ATL: "Atlanta Hawks", BKN: "Brooklyn Nets", CHA: "Charlotte Hornets",
-  CHI: "Chicago Bulls", CLE: "Cleveland Cavaliers", DAL: "Dallas Mavericks", DEN: "Denver Nuggets",
-  DET: "Detroit Pistons", GS: "Golden State Warriors", HOU: "Houston Rockets", MIA: "Miami Heat",
-  IND: "Indiana Pacers", LAC: "LA Clippers", LAL: "Los Angeles Lakers", MIN: "Minnesota Timberwolves",
-  NO: "New Orleans Pelicans", NY: "New York Knicks", OKC: "Oklahoma City Thunder", ORL: "Orlando Magic",
-  PHI: "Philadelphia 76ers", PHO: "Phoenix Suns", POR: "Portland Trail Blazers", SA: "San Antonio Spurs",
-  SAC: "Sacramento Kings", TOR: "Toronto Raptors", UTA: "Utah Jazz", WAS: "Washington Wizards",
-  MEM: "Memphis Grizzlies", MIL: "Milwaukee Bucks",
-};
-const NAVER_KBL_CODE_MAP = {
-  "55": "SK Knights", "50": "Changwon LG", "10": "Ulsan Hyundai Mobis", "06": "Suwon KT",
-  "64": "Daegu KOGAS", "70": "Anyang JungKwanJang", "16": "Wonju DB", "66": "Goyang Sono",
-  "60": "KCC Egis", "35": "Samsung Thunders",
-};
-const NAVER_WKBL_CODE_MAP = {
-  "05": "Woori Bank WON", "07": "Shinhan Bank S-Birds", "01": "KB Stars",
-  "03": "Samsung Blue Minx", "09": "Hana Bank", "11": "BNK Sum",
-};
-
-const NAVER_BASKETBALL_CODE_MAP = { nba: NAVER_NBA_CODE_MAP, kbl: NAVER_KBL_CODE_MAP, wkbl: NAVER_WKBL_CODE_MAP };
-const NAVER_BASKETBALL_COUNTRY = { nba: "USA", kbl: "South Korea", wkbl: "South Korea" };
-const NAVER_BASKETBALL_LEAGUE_NAME = { nba: "NBA", kbl: "KBL", wkbl: "WKBL W" }; // WKBL은 여자부 표시로 W를 붙임
-
-
-// ─────────────────────────────────────────────
-// 🏀 NBA — 다음 스포츠 API
+// 🏀 NBA — 다음 스포츠 API (기존 정상 작동 코드 유지)
 // ─────────────────────────────────────────────
 
 const DAUM_NBA_TEAM_MAP = {
@@ -494,102 +355,211 @@ async function fetchDaumNBA(fromDate, toDate) {
 }
 
 
-async function fetchNaverBasketball(fromDate, toDate) {
-  const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cconference%2CmanualRelayUrl&superCategoryId=basketball&fromDate=${fromDate}&toDate=${toDate}&size=500`;
+// ─────────────────────────────────────────────
+// 📡 다음 스포츠 공통 일정 수집기 (KBL/WKBL/KBO/MLB/V리그)
+// ─────────────────────────────────────────────
+const DAUM_TEAM_MAPS = {
+  kbl: {
+    "서울SK":"SK Knights", "창원LG":"Changwon LG", "울산현대모비스":"Ulsan Hyundai Mobis",
+    "수원KT":"Suwon KT", "대구한국가스공사":"Daegu KOGAS", "안양정관장":"Anyang JungKwanJang",
+    "원주DB":"Wonju DB", "고양소노":"Goyang Sono", "부산KCC":"KCC Egis", "서울삼성":"Samsung Thunders"
+  },
+  wkbl: {
+    "우리은행":"Woori Bank WON", "신한은행":"Shinhan Bank S-Birds", "KB스타즈":"KB Stars",
+    "삼성생명":"Samsung Blue Minx", "하나은행":"Hana Bank", "BNK썸":"BNK Sum"
+  },
+  kbo: {
+    "한화":"Hanwha Eagles", "KIA":"KIA Tigers", "LG":"LG Twins", "롯데":"Lotte Giants",
+    "NC":"NC Dinos", "두산":"Doosan Bears", "SSG":"SSG Landers", "삼성":"Samsung Lions",
+    "키움":"Kiwoom Heroes", "KT":"KT Wiz Suwon"
+  },
+  mlb: {
+    "애리조나":"Arizona Diamondbacks", "애리조나D":"Arizona Diamondbacks", "애틀랜타":"Atlanta Braves", "볼티모어":"Baltimore Orioles",
+    "보스턴":"Boston Red Sox", "시카고C":"Chicago Cubs", "시카고W":"Chicago White Sox", "시카고컵스":"Chicago Cubs", "시카고화이트삭스":"Chicago White Sox",
+    "신시내티":"Cincinnati Reds", "클리블랜드":"Cleveland Guardians", "콜로라도":"Colorado Rockies",
+    "디트로이트":"Detroit Tigers", "휴스턴":"Houston Astros", "캔자스시티":"Kansas City Royals",
+    "LA에인절스":"Los Angeles Angels", "LA에인절스":"Los Angeles Angels", "LA다저스":"Los Angeles Dodgers", "마이애미":"Miami Marlins",
+    "밀워키":"Milwaukee Brewers", "미네소타":"Minnesota Twins", "뉴욕M":"New York Mets", "뉴욕메츠":"New York Mets",
+    "뉴욕Y":"New York Yankees", "뉴욕양키스":"New York Yankees", "오클랜드":"Athletics", "필라델피아":"Philadelphia Phillies",
+    "피츠버그":"Pittsburgh Pirates", "샌디에이고":"San Diego Padres", "샌프란시스코":"San Francisco Giants",
+    "시애틀":"Seattle Mariners", "세인트루이스":"St.Louis Cardinals", "탬파베이":"Tampa Bay Rays",
+    "텍사스":"Texas Rangers", "토론토":"Toronto Blue Jays", "워싱턴":"Washington Nationals"
+  },
+  vl: {
+    "대한항공":"Korean Air Jumbos", "삼성화재":"Samsung Fire Bluefangs", "KB손해보험":"KB Insurance Stars",
+    "현대캐피탈":"Hyundai Capital Skywalkers", "한국전력":"KEPCO Vixtorm", "OK저축은행":"OK Savings Bank OKman",
+    "우리카드":"Woori Card WON"
+  },
+  wvl: {
+    "현대건설":"Hyundai E&C Hillstate", "도로공사":"Korea Expressway Hi-pass", "정관장":"Jungkwanjang Red Sparks",
+    "흥국생명":"Heungkuk Life Pink Spiders", "GS칼텍스":"GS Caltex Seoul KIXX", "IBK기업은행":"IBK Altos",
+    "SOOP":"SOOP Supers"
+  }
+};
+
+function normalizeDaumTeamName(name) {
+  return String(name || "").replace(/[\s·ㆍ]/g, "").trim();
+}
+
+function getDaumSeasonKey(leagueCode, fromDate) {
+  if (["kbo", "mlb"].includes(leagueCode)) return String(fromDate).slice(0, 4);
+  const year = Number(String(fromDate).slice(0, 4));
+  const month = Number(String(fromDate).slice(5, 7));
+  const startYear = month >= 7 ? year : year - 1;
+  return `${startYear}${startYear + 1}`;
+}
+
+async function fetchDaumLeague(leagueCode, fromDate, toDate, options = {}) {
+  const from = String(fromDate).replace(/-/g, "");
+  const to = String(toDate).replace(/-/g, "");
+  const seasonKey = getDaumSeasonKey(leagueCode, fromDate);
+  const queryLeague = options.queryLeague || leagueCode;
+  const url = `https://sports.daum.net/api/arms/SPORTS_SCHEDULE?leagueCode=${encodeURIComponent(queryLeague)}&fromDate=${from}&toDate=${to}&seasonKey=${seasonKey}`;
+  const teamMap = DAUM_TEAM_MAPS[leagueCode];
+  const sport = ["kbl", "wkbl"].includes(leagueCode) ? "basketball" :
+    ["vl", "wvl"].includes(leagueCode) ? "volleyball" : "baseball";
+  const country = ["kbl", "wkbl", "kbo", "vl", "wvl"].includes(leagueCode) ? "South Korea" : "USA";
+  const leagueName = ({kbl:"KBL", wkbl:"WKBL W", kbo:"KBO", mlb:"MLB", vl:"KOVO", wvl:"WKOVO W"})[leagueCode];
 
   try {
-    const data = await fetchNaverJson(url);
-    const games = data?.result?.games;
-    if (!Array.isArray(games)) return [];
+    const res = await fetch(url, {
+      headers: {
+        "Referer": "https://sports.daum.net/",
+        "Origin": "https://sports.daum.net",
+        "Accept": "application/json, text/plain, */*",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130.0.0.0 Safari/537.36"
+      },
+      signal: AbortSignal.timeout(20000)
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    if (data?.code !== 200) throw new Error(`Daum API 응답 코드: ${data?.code ?? "없음"}`);
+    const schedule = data.document?.schedule;
+    if (!schedule || typeof schedule !== "object") throw new Error("응답에 document.schedule이 없습니다.");
 
-    return games
-      .filter(g => {
-        // NBA는 다음 스포츠에서 수집하므로 네이버 결과에서는 제외
-        if (g.categoryId === "nba") return false;
-        const map = NAVER_BASKETBALL_CODE_MAP[g.categoryId];
-        // nba/kbl/wkbl만 통과 (basketballetc 같은 콘텐츠성 항목, 매핑 안 된 팀 제외)
-        return map && g.homeTeamCode && g.awayTeamCode
-          && map[g.homeTeamCode] && map[g.awayTeamCode];
-      })
-      .map(g => {
-        const map = NAVER_BASKETBALL_CODE_MAP[g.categoryId];
-        const isWomen = g.categoryId === "wkbl";
-        const suffix = isWomen ? " W" : "";
-        const isFinished = g.statusCode === "RESULT" && !g.cancel;
-        return {
-          id: `naver-${g.categoryId}-${g.gameId}`,
-          sport: "basketball",
-          country: NAVER_BASKETBALL_COUNTRY[g.categoryId] || "Unknown",
-          league: NAVER_BASKETBALL_LEAGUE_NAME[g.categoryId] || g.categoryId.toUpperCase(),
-          date: new Date(`${g.gameDateTime}+09:00`).toISOString(), // KST 명시 후 UTC로 통일
-          home: `${map[g.homeTeamCode]}${suffix}`,
-          away: `${map[g.awayTeamCode]}${suffix}`,
-          homeLogo: g.homeTeamEmblemUrl,
-          awayLogo: g.awayTeamEmblemUrl,
-          homeScore: isFinished ? g.homeTeamScore : null,
-          awayScore: isFinished ? g.awayTeamScore : null,
-        };
-      });
+    const games = Object.values(schedule).flat();
+    const results = games.map(game => {
+      const homeKey = normalizeDaumTeamName(game.homeTeamName);
+      const awayKey = normalizeDaumTeamName(game.awayTeamName);
+      const home = teamMap[homeKey];
+      const away = teamMap[awayKey];
+      if (!home || !away) {
+        console.warn(`⚠️ 다음 ${leagueName} 팀 매핑 누락: ${game.homeTeamName} vs ${game.awayTeamName}`);
+        return null;
+      }
+      const gameDate = String(game.startDate || "");
+      const gameTime = String(game.startTime || "0000").padStart(4, "0");
+      if (!/^\d{8}$/.test(gameDate) || !/^\d{4}$/.test(gameTime)) return null;
+      const kstDateTime = `${gameDate.slice(0,4)}-${gameDate.slice(4,6)}-${gameDate.slice(6,8)}T${gameTime.slice(0,2)}:${gameTime.slice(2,4)}:00+09:00`;
+      const isFinished = game.gameStatus === "END" || game.periodType === "END";
+      return {
+        id: `daum-${leagueCode}-${game.gameId}`,
+        sport, country, league: leagueName,
+        date: new Date(kstDateTime).toISOString(), home, away,
+        homeLogo: game.homeTeamImageUrl ? game.homeTeamImageUrl.replace(/^http:/, "https:") : null,
+        awayLogo: game.awayTeamImageUrl ? game.awayTeamImageUrl.replace(/^http:/, "https:") : null,
+        homeScore: isFinished && game.homeResult != null ? Number(game.homeResult) : null,
+        awayScore: isFinished && game.awayResult != null ? Number(game.awayResult) : null
+      };
+    }).filter(Boolean);
+    console.log(`✅ 다음 ${leagueName} 일정 수집 완료: ${results.length}경기 (${from} ~ ${to})`);
+    return results;
   } catch (err) {
-    console.error(`❌ fetchNaverBasketball 에러:`, err.message);
+    console.error(`❌ 다음 ${leagueName} 일정 조회 실패: ${err.message}`);
     return [];
   }
 }
 
-// ─────────────────────────────────────────────
-// 🏐 배구 — 네이버스포츠 (V리그 남자부 KOVO / 여자부 WKOVO). api-sports 대체 (2026-08).
-// 농구와 달리 남녀부가 categoryId로 분리 호출된다(응답이 같이 안 옴) — 각 1번씩 호출.
-// 국제 대회(FIVB 등)는 네이버가 지원 안 해서 커버 범위 밖 — 국내 V리그만 해당.
-// ─────────────────────────────────────────────
+async function fetchDaumKBL(fromDate, toDate) { return fetchDaumLeague("kbl", fromDate, toDate); }
+async function fetchDaumWKBL(fromDate, toDate) { return fetchDaumLeague("wkbl", fromDate, toDate); }
+async function fetchDaumKBO(fromDate, toDate) { return fetchDaumLeague("kbo", fromDate, toDate); }
+async function fetchDaumMLB(fromDate, toDate) { return fetchDaumLeague("mlb", fromDate, toDate); }
+async function fetchDaumVolleyball(leagueCode, fromDate, toDate) {
+  return fetchDaumLeague(leagueCode, fromDate, toDate);
+}
 
-const NAVER_KOVO_CODE_MAP = {
-  "1001": "Korean Air Jumbos", "1002": "Samsung Fire Bluefangs", "1004": "KB Insurance Stars",
-  "1005": "Hyundai Capital Skywalkers", "1006": "KEPCO Vixtorm", "1008": "OK Savings Bank OKman",
-  "1009": "Woori Card WON",
-};
-const NAVER_WKOVO_CODE_MAP = {
-  "2001": "Hyundai E&C Hillstate", "2002": "Korea Expressway Hi-pass", "2003": "Jungkwanjang Red Sparks",
-  "2004": "Heungkuk Life Pink Spiders", "2005": "GS Caltex Seoul KIXX", "2006": "IBK Altos",
-  "2007": "SOOP Supers", // ⚠️ 구 페퍼저축은행, 2026-06-02부로 SOOP에 인수되며 개명
-};
-const NAVER_VOLLEYBALL_CODE_MAP = { kovo: NAVER_KOVO_CODE_MAP, wkovo: NAVER_WKOVO_CODE_MAP };
-const NAVER_VOLLEYBALL_LEAGUE_NAME = { kovo: "KOVO", wkovo: "WKOVO W" };
 
-async function fetchNaverVolleyball(categoryId, fromDate, toDate) {
-  const url = `https://api-gw.sports.naver.com/schedule/games?fields=basic%2Cschedule%2Cround%2CgroupName%2CneutralGround%2CmanualRelayUrl&superCategoryId=volleyball&categoryId=${categoryId}&fromDate=${fromDate}&toDate=${toDate}&roundCodes=&size=500`;
+// ─────────────────────────────────────────────
+// ⚾ NPB — SPAIA 공개 일정 API (네이버 미사용)
+// 주간 일정 JSON: /weekly_schedule?from=YYYYMMDD&to=YYYYMMDD
+// ─────────────────────────────────────────────
+const SPAIA_NPB_TEAM_MAP = {
+  1: "Yomiuri Giants",
+  2: "Tokyo Yakult Swallows",
+  3: "Yokohama DeNA BayStars",
+  4: "Chunichi Dragons",
+  5: "Hanshin Tigers",
+  6: "Hiroshima Toyo Carp",
+  7: "Saitama Seibu Lions",
+  8: "Hokkaido Nippon-Ham Fighters",
+  9: "Chiba Lotte Marines",
+  11: "Orix Buffaloes",
+  12: "Fukuoka SoftBank Hawks",
+  376: "Tohoku Rakuten Golden Eagles"
+};
+
+async function fetchSpaiaNPB(fromDate, toDate) {
+  const from = String(fromDate).replace(/-/g, "");
+  const to = String(toDate).replace(/-/g, "");
+  const url = `https://spaia.jp/baseball/npb/api/weekly_schedule?from=${from}&to=${to}`;
 
   try {
-    const data = await fetchNaverJson(url);
-    const games = data?.result?.games;
-    if (!Array.isArray(games)) return [];
+    const res = await fetch(url, {
+      headers: {
+        "Accept": "application/json, text/plain, */*",
+        "Referer": "https://spaia.jp/"
+      },
+      signal: AbortSignal.timeout(20000)
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
-    const map = NAVER_VOLLEYBALL_CODE_MAP[categoryId];
-    const isWomen = categoryId === "wkovo";
-    const suffix = isWomen ? " W" : "";
+    const data = await res.json();
+    if (!Array.isArray(data)) {
+      throw new Error("SPAIA 응답이 경기 배열 형식이 아닙니다.");
+    }
 
-    return games
-      .filter(g => g.homeTeamCode && g.awayTeamCode && map[g.homeTeamCode] && map[g.awayTeamCode])
-      .map(g => {
-        const isFinished = g.statusCode === "RESULT" && !g.cancel;
-        return {
-          id: `naver-${categoryId}-${g.gameId}`,
-          sport: "volleyball",
-          country: "South Korea",
-          league: NAVER_VOLLEYBALL_LEAGUE_NAME[categoryId] || categoryId.toUpperCase(),
-          date: new Date(`${g.gameDateTime}+09:00`).toISOString(), // KST 명시 후 UTC로 통일
-          home: `${map[g.homeTeamCode]}${suffix}`,
-          away: `${map[g.awayTeamCode]}${suffix}`,
-          homeLogo: g.homeTeamEmblemUrl,
-          awayLogo: g.awayTeamEmblemUrl,
-          homeScore: isFinished ? g.homeTeamScore : null,
-          awayScore: isFinished ? g.awayTeamScore : null,
-        };
-      });
+    const results = data.map(game => {
+      const home = SPAIA_NPB_TEAM_MAP[Number(game.HTeamID)];
+      const away = SPAIA_NPB_TEAM_MAP[Number(game.VTeamID)];
+      if (!home || !away) {
+        console.warn(`⚠️ SPAIA NPB 팀 매핑 누락: ${game.HTeamID}/${game.HTeamNameS} vs ${game.VTeamID}/${game.VTeamNameS}`);
+        return null;
+      }
+
+      const rawDate = String(game.DateJPN ?? game.GameDate ?? "");
+      const gameDate = rawDate.replace(/[^0-9]/g, "").slice(0, 8);
+      const rawTime = String(game.TimeJPN ?? game.GameTime ?? "0000");
+      const gameTime = rawTime.replace(/[^0-9]/g, "").slice(0, 4).padStart(4, "0");
+      if (!/^\d{8}$/.test(gameDate) || !/^\d{4}$/.test(gameTime)) return null;
+
+      const kstDateTime = `${gameDate.slice(0, 4)}-${gameDate.slice(4, 6)}-${gameDate.slice(6, 8)}T${gameTime.slice(0, 2)}:${gameTime.slice(2, 4)}:00+09:00`;
+      const isFinished = Number(game.GameStateID) === 4 || game.GameStateName === "試合終了";
+      const homeScore = game.HScore ?? game.H_Score_R;
+      const awayScore = game.VScore ?? game.V_Score_R;
+
+      return {
+        id: `spaia-npb-${game.GameID ?? game.ID}`,
+        sport: "baseball",
+        country: "Japan",
+        league: "NPB",
+        date: new Date(kstDateTime).toISOString(),
+        home,
+        away,
+        homeLogo: null,
+        awayLogo: null,
+        homeScore: isFinished && homeScore != null ? Number(homeScore) : null,
+        awayScore: isFinished && awayScore != null ? Number(awayScore) : null
+      };
+    }).filter(Boolean);
+
+    console.log(`✅ SPAIA NPB 일정 수집 완료: ${results.length}경기 (${from} ~ ${to})`);
+    return results;
   } catch (err) {
-    console.error(`❌ fetchNaverVolleyball(${categoryId}) 에러:`, err.message);
+    console.error(`❌ SPAIA NPB 일정 조회 실패: ${err.message}`);
     return [];
   }
 }
+
 
 // ─────────────────────────────────────────────
 // 🏒 하키 — Highlightly (NHL / KHL). api-sports 대체 (2026-08).
@@ -646,7 +616,7 @@ async function fetchHighlightlyHockey(date) {
 
 // ─────────────────────────────────────────────
 // ⚾ CPBL(대만 프로야구) — FlashScore. 네이버가 커버 안 하는 리그라 보강용으로 사용.
-// KBO/MLB/NPB는 그대로 네이버(fetchNaverBaseball) 담당, CPBL만 여기서 따로 채운다.
+// KBO/MLB/NPB는 다음·SPAIA에서 수집하고, CPBL은 FlashScore에서 별도 수집한다.
 // sport_id=6(Baseball)로 그날 전체 야구 리그가 다 오므로, 그중 대만만 걸러낸다.
 // ─────────────────────────────────────────────
 
@@ -791,9 +761,9 @@ async function main() {
 
     const targetDates = getTargetDates(); 
     // ⚠️ soccer는 아래 sports 배열에서 빠짐 — fotmob 전용 루프에서 별도 처리
-    // ⚠️ baseball도 아래 sports 배열에서 빠짐 — 네이버 전용 루프에서 별도 처리 (2026-08)
-    // ⚠️ basketball도 아래 sports 배열에서 빠짐 — 네이버 전용 루프에서 별도 처리 (2026-08)
-    // ⚠️ volleyball도 아래 sports 배열에서 빠짐 — 네이버 전용 루프에서 별도 처리 (2026-08)
+    // ⚠️ baseball은 다음·SPAIA 전용 루프에서 별도 처리
+    // ⚠️ basketball은 다음 스포츠 전용 루프에서 별도 처리
+    // ⚠️ volleyball은 다음 스포츠 전용 루프에서 별도 처리
     // ⚠️ hockey도 아래 sports 배열에서 빠짐 — Highlightly 전용 루프에서 별도 처리 (2026-08)
     const sports = [];
     const scheduleTasks = [];
@@ -814,8 +784,10 @@ async function main() {
     const shortRangeDates = getShortRangeTargetDates();
     const shortRangeFrom = shortRangeDates[0];
     const shortRangeTo = shortRangeDates[shortRangeDates.length - 1];
-    scheduleTasks.push(fetchNaverBaseball("kbaseball", shortRangeFrom, shortRangeTo)); // KBO
-    scheduleTasks.push(fetchNaverBaseball("wbaseball", shortRangeFrom, shortRangeTo)); // MLB + NPB
+    scheduleTasks.push(fetchDaumKBO(shortRangeFrom, shortRangeTo)); // KBO - 다음 스포츠
+    scheduleTasks.push(fetchDaumMLB(shortRangeFrom, shortRangeTo)); // MLB - 다음 스포츠
+    // NPB는 다음 스포츠 미지원이므로 SPAIA 공개 일정 API에서 별도 수집
+    scheduleTasks.push(fetchSpaiaNPB(shortRangeFrom, shortRangeTo));
 
     // ⚾ CPBL / 🏒 하키(NHL+KHL): 날짜별 호출 — 야구와 동일하게 D-1~D+1 범위만 사용
     shortRangeDates.forEach(date => {
@@ -823,19 +795,20 @@ async function main() {
       scheduleTasks.push(fetchHighlightlyHockey(date));
     });
 
-    // 🏀🏐 네이버스포츠(농구/배구)가 공유하는 날짜 범위 — api-sports 대체, 범위 방식으로 호출
-    const naverRangeFrom = targetDates[0];
-    const naverRangeTo = targetDates[targetDates.length - 1];
+    // 🏀🏐 다음 스포츠(농구/배구)가 공유하는 날짜 범위 — 범위 방식으로 호출
+    const scheduleRangeFrom = targetDates[0];
+    const scheduleRangeTo = targetDates[targetDates.length - 1];
 
    // 🏀 NBA: 다음 스포츠 API
-scheduleTasks.push(fetchDaumNBA(naverRangeFrom, naverRangeTo));
+scheduleTasks.push(fetchDaumNBA(scheduleRangeFrom, scheduleRangeTo));
 
-// 🏀 KBL / WKBL: 기존 네이버스포츠 유지
-scheduleTasks.push(fetchNaverBasketball(naverRangeFrom, naverRangeTo));
+// 🏀 KBL / WKBL: 다음 스포츠 API
+scheduleTasks.push(fetchDaumKBL(scheduleRangeFrom, scheduleRangeTo));
+scheduleTasks.push(fetchDaumWKBL(scheduleRangeFrom, scheduleRangeTo));
 
-    // 🏐 배구: 네이버스포츠 (V리그 남/여) — api-sports 대체, 각 1번씩 호출
-    scheduleTasks.push(fetchNaverVolleyball("kovo", naverRangeFrom, naverRangeTo));
-    scheduleTasks.push(fetchNaverVolleyball("wkovo", naverRangeFrom, naverRangeTo));
+    // 🏐 V리그 남/여: 다음 스포츠 API
+    scheduleTasks.push(fetchDaumVolleyball("vl", scheduleRangeFrom, scheduleRangeTo));
+    scheduleTasks.push(fetchDaumVolleyball("wvl", scheduleRangeFrom, scheduleRangeTo));
 
     // LoL 전용 호출 (PandaScore)
     scheduleTasks.push(fetchLOLPanda());
