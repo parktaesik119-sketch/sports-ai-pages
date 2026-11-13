@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.09","home":"Real Ávila","away":"Salamanca CF UDS",
 awayRecent: '[{"date":"26.11.09","home":"셀타 비고","away":"레반테","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868122-2026-11-09-celta-vigo/"},{"date":"26.11.06","home":"셀타 비고","away":"위니옹 생질루아즈","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6112347-2026-11-06-celta-vigo/"},{"date":"26.11.01","home":"라요 바예카노","away":"셀타 비고","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5868119-2026-11-01-rayo-vallecano/"},{"date":"26.10.26","home":"셀타 비고","away":"레알 베티스","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5868104-2026-10-26-celta-vigo/"},{"date":"26.10.23","home":"셀틱","away":"셀타 비고","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6112300-2026-10-23-celtic/"}]'
 injuryHome: "없음"
 injuryAway: "Ilaix Moriba[주요](부상 - 복귀예정 Late November 2026) | Álvaro Núñez[주요](허벅지 부상 - 복귀예정 Late November 2026) | Borja Iglesias[주요](종아리 부상 - 복귀예정 Late November 2026) | Carl Starfelt[주요](햄스트링 부상 - 복귀예정 Doubtful) | Miguel Román[주요](부상 - 복귀예정 Unknown) | Jones El-Abdellaoui[주요](무릎 부상 - 복귀예정 Mid January 2027)"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Unai Ayala (GK)|https://images.fotmob.com/image_resources/playerimages/1233602.png\",\"Markel Ucín (DF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Maximo Levrand (DF)|https://images.fotmob.com/image_resources/playerimages/1863746.png\",\"Javier Murúa (DF)|https://images.fotmob.com/image_resources/playerimages/1251324.png\",\"Sergio Rivas (DF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Adur Alsua (MF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Jon Ander Barriga (MF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Carlos Cristeto (MF)|https://images.fotmob.com/image_resources/playerimages/0.png\",\"Imanol Torre (FW)|https://images.fotmob.com/image_resources/playerimages/1560020.png\",\"Urki Txoperena (FW)|https://images.fotmob.com/image_resources/playerimages/1575705.png\",\"Álex Caramelo (FW)|https://images.fotmob.com/image_resources/playerimages/0.png\"]"
+awayLineup: "[\"Altay Bayındır (GK)|https://images.fotmob.com/image_resources/playerimages/866967.png\",\"Hugo Burcio (DF)|https://images.fotmob.com/image_resources/playerimages/1825995.png\",\"Yoel Lago (DF)|https://images.fotmob.com/image_resources/playerimages/1578176.png\",\"Abdoulaye Faye (DF)|https://images.fotmob.com/image_resources/playerimages/1555492.png\",\"Germain Milla (MF)|https://images.fotmob.com/image_resources/playerimages/1910012.png\",\"Andrés Antañón (MF)|https://images.fotmob.com/image_resources/playerimages/1732791.png\",\"Aleix Febas (MF)|https://images.fotmob.com/image_resources/playerimages/671686.png\",\"Ángel Arcos (MF)|https://images.fotmob.com/image_resources/playerimages/1700562.png\",\"Javi Galán (MF)|https://images.fotmob.com/image_resources/playerimages/695062.png\",\"Ferrán Jutglà (FW)|https://images.fotmob.com/image_resources/playerimages/1102732.png\",\"Hugo González (FW)|https://images.fotmob.com/image_resources/playerimages/1226783.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "3-5-2"
+homeCoach: "Iker Muniain|https://images.fotmob.com/image_resources/playerimages/179772.png"
+awayCoach: "Claudio Giráldez|https://images.fotmob.com/image_resources/playerimages/1622886.png"
 pickWinTeam: "셀타 비고"
 pickWinResult: "승"
 pickHandicapTeam: "셀타 비고"
