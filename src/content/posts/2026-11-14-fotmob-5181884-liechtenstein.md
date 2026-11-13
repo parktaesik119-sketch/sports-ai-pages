@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.06","home":"리히텐슈타인","away":"지브롤�
 awayRecent: '[{"date":"26.10.04","home":"아제르바이잔","away":"리투아니아","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5181883-2026-10-04-azerbaijan/"},{"date":"26.10.02","home":"아제르바이잔","away":"리히텐슈타인","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181882-2026-10-02-azerbaijan/"},{"date":"26.09.27","home":"리투아니아","away":"아제르바이잔","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181881-2026-09-27-lithuania/"},{"date":"26.09.24","home":"아제르바이잔","away":"타지키스탄","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6140728-2026-09-24-azerbaijan/"},{"date":"26.06.10","home":"아제르바이잔","away":"산마리노","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1544813-2026-06-10-azerbaijan/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Benjamin Büchel (GK)|https://images.fotmob.com/image_resources/playerimages/151113.png\",\"Livio Meier (DF)|https://images.fotmob.com/image_resources/playerimages/851887.png\",\"Jens Hofer (DF)|https://images.fotmob.com/image_resources/playerimages/833698.png\",\"Severin Schlegel (MF)|https://images.fotmob.com/image_resources/playerimages/1421540.png\",\"Emanuel Zünd (MF)|https://images.fotmob.com/image_resources/playerimages/1626065.png\",\"Maximilian Göppel (DF)|https://images.fotmob.com/image_resources/playerimages/756915.png\",\"Aron Sele (MF)|https://images.fotmob.com/image_resources/playerimages/756916.png\",\"Marcel Büchel (MF)|https://images.fotmob.com/image_resources/playerimages/192842.png\",\"Alessio Hasler (MF)|https://images.fotmob.com/image_resources/playerimages/1421538.png\",\"Fabio Luque Notaro (FW)|https://images.fotmob.com/image_resources/playerimages/1421541.png\",\"Alessandro Lo Russo (FW)|https://images.fotmob.com/image_resources/playerimages/2280245.png\"]"
+awayLineup: "[\"Emil Balayev (GK)|https://images.fotmob.com/image_resources/playerimages/304890.png\",\"Qismət Alıyev (MF)|https://images.fotmob.com/image_resources/playerimages/672833.png\",\"Rahil Məmmədov (DF)|https://images.fotmob.com/image_resources/playerimages/652285.png\",\"Bədavi Hüseynov (DF)|https://images.fotmob.com/image_resources/playerimages/251855.png\",\"Rəhman Daşdəmirov (DF)|https://images.fotmob.com/image_resources/playerimages/1441450.png\",\"Oruc Mammadov (MF)|https://images.fotmob.com/image_resources/playerimages/1863490.png\",\"Abdulakh Khaybulaev (MF)|https://images.fotmob.com/image_resources/playerimages/1351085.png\",\"Tural Bayramov (DF)|https://images.fotmob.com/image_resources/playerimages/1119168.png\",\"Aleksey Isaev (MF)|https://images.fotmob.com/image_resources/playerimages/688887.png\",\"Rüfat Abbasov (DF)|https://images.fotmob.com/image_resources/playerimages/1387408.png\",\"Mahir Emreli (FW)|https://images.fotmob.com/image_resources/playerimages/464251.png\"]"
+homeFormation: "5-3-2"
+awayFormation: "4-2-3-1"
+homeCoach: "Konrad Fünfstück|https://images.fotmob.com/image_resources/playerimages/1493037.png"
+awayCoach: "Aykhan Abbasov|https://images.fotmob.com/image_resources/playerimages/169840.png"
 pickWinTeam: "아제르바이잔"
 pickWinResult: "승"
 pickHandicapTeam: "아제르바이잔"

@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.10.07","home":"룩셈부르크","away":"불가리아",
 awayRecent: '[{"date":"26.10.07","home":"에스토니아","away":"아이슬란드","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181955-2026-10-07-estonia/"},{"date":"26.10.04","home":"에스토니아","away":"룩셈부르크","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5181953-2026-10-04-estonia/"},{"date":"26.09.30","home":"불가리아","away":"에스토니아","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181951-2026-09-30-bulgaria/"},{"date":"26.09.27","home":"아이슬란드","away":"에스토니아","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5181950-2026-09-27-iceland/"},{"date":"26.06.10","home":"에스토니아","away":"리투아니아","score":"1-0","result":"🟢승"}]'
 injuryHome: "Dirk Carlson[주요](부상 - 복귀예정 Mid November 2026)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Anthony Moris (GK)|https://images.fotmob.com/image_resources/playerimages/148331.png\",\"Laurent Jans (DF)|https://images.fotmob.com/image_resources/playerimages/291929.png\",\"Vahid Selimović (DF)|https://images.fotmob.com/image_resources/playerimages/766608.png\",\"Tim Hall (DF)|https://images.fotmob.com/image_resources/playerimages/798826.png\",\"Florian Bohnert (DF)|https://images.fotmob.com/image_resources/playerimages/625581.png\",\"Vincent Thill (FW)|https://images.fotmob.com/image_resources/playerimages/736173.png\",\"Mathias Olesen (MF)|https://images.fotmob.com/image_resources/playerimages/1089478.png\",\"Tomás Cruz (MF)|https://images.fotmob.com/image_resources/playerimages/1670232.png\",\"Hamza Kadamani (FW)|https://images.fotmob.com/image_resources/playerimages/2005801.png\",\"Sébastien Thill (MF)|https://images.fotmob.com/image_resources/playerimages/642598.png\",\"Aiman Dardari (FW)|https://images.fotmob.com/image_resources/playerimages/1536762.png\"]"
+awayLineup: "[\"Karl Hein (GK)|https://images.fotmob.com/image_resources/playerimages/982692.png\",\"Maksim Paskotši (DF)|https://images.fotmob.com/image_resources/playerimages/1176726.png\",\"Erko Tõugjas (DF)|https://images.fotmob.com/image_resources/playerimages/1269208.png\",\"Karol Mets (DF)|https://images.fotmob.com/image_resources/playerimages/462863.png\",\"Rasmus Peetson (DF)|https://images.fotmob.com/image_resources/playerimages/620980.png\",\"Michael Schjønning-Larsen (DF)|https://images.fotmob.com/image_resources/playerimages/1215622.png\",\"Patrik Kristal (MF)|https://images.fotmob.com/image_resources/playerimages/1512735.png\",\"Mattias Käit (MF)|https://images.fotmob.com/image_resources/playerimages/695067.png\",\"Kevor Palumets (MF)|https://images.fotmob.com/image_resources/playerimages/1178610.png\",\"Rocco Shein (MF)|https://images.fotmob.com/image_resources/playerimages/1177437.png\",\"Mattias Männilaan (FW)|https://images.fotmob.com/image_resources/playerimages/973281.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "5-4-1"
+homeCoach: "Jeff Strasser|https://images.fotmob.com/image_resources/playerimages/38066.png"
+awayCoach: "Jürgen Henn|https://images.fotmob.com/image_resources/playerimages/77848.png"
 pickWinTeam: "에스토니아"
 pickWinResult: "무승부"
 pickHandicapTeam: ""
