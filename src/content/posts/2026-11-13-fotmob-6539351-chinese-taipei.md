@@ -1,6 +1,6 @@
 ---
 title: "Chinese Taipei vs 키르기스스탄 축구분석·승부예측 (11월 13일) - 픽천국"
-date: 2026-11-13T12:00:00.000Z
+date: 2026-11-14T12:00:00.000Z
 description: "Chinese Taipei vs 키르기스스탄 축구분석: 이번 경기는 최근 흐름과 전력 전반에서 우위를 점하고 있는 키르기스스탄의 공세가 예상되는 한 판입니다. 홈팀 Chinese T… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-fotmob-6539351-2026-11-13-chinese-taipei"
 category: "soccer"
