@@ -1646,6 +1646,9 @@ const TEAM_NAME_MAP = {
   "Guam": "괌",
   "Kuwait": "쿠웨이트",
   "Tajikistan": "타지키스탄",
+  "Eswatini": "에스와티니",
+  "Eswatini W": "에스와티니",
+  "Malawi": "말라위",
 
 
   // 코파 리베르타도레스 / 수다메리카나 주요팀
