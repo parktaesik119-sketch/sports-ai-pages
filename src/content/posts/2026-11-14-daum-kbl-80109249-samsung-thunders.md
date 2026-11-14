@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.09","home":"삼성","away":"수원 KT","score":"85-
 awayRecent: '[{"date":"26.11.08","home":"울산 현대모비스","away":"안양 정관장","score":"85-91","result":"🟢승"},{"date":"26.11.06","home":"안양 정관장","away":"서울 SK","score":"83-79","result":"🟢승"},{"date":"26.11.02","home":"대구 한국가스공사","away":"안양 정관장","score":"71-77","result":"🟢승"},{"date":"26.10.31","home":"안양 정관장","away":"수원 KT","score":"90-92","result":"🔴패"},{"date":"26.10.25","home":"안양 정관장","away":"DB","score":"93-95","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbl-202610257016490138-2026-10-25-anyang-jungkwanjang/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"GD 이관희(2)|https://kbl.or.kr/files/kbl/players-photo/290440.png\",\"GD 한호빈(5)|https://kbl.or.kr/files/kbl/players-photo/290754.png\",\"FD 저스틴 구탕(18)|https://kbl.or.kr/files/kbl/players-photo/291512.png\",\"C 케렘 칸터(35)|https://kbl.or.kr/files/kbl/players-photo/291787.png\",\"FD 이규태(23)|https://kbl.or.kr/files/kbl/players-photo/291853.png\"]"
+awayLineup: "[\"GD 변준형(5)|https://kbl.or.kr/files/kbl/players-photo/291220.png\",\"FD 한승희(51)|https://kbl.or.kr/files/kbl/players-photo/291372.png\",\"FD 라숀 토마스(25)|https://kbl.or.kr/files/kbl/players-photo/291436.png\",\"GD 렌즈 아반도(12)|https://kbl.or.kr/files/kbl/players-photo/291583.png\",\"GD 박정웅(4)|https://kbl.or.kr/files/kbl/players-photo/291746.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
