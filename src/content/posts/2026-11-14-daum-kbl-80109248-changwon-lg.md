@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.11","home":"LG","away":"서울 SK","score":"101-72"
 awayRecent: '[{"date":"26.11.10","home":"현대모비스","away":"고양 소노","score":"79-86","result":"🔴패"},{"date":"26.11.08","home":"현대모비스","away":"안양 정관장","score":"85-91","result":"🔴패"},{"date":"26.11.05","home":"현대모비스","away":"서울 삼성","score":"76-81","result":"🔴패"},{"date":"26.10.31","home":"대구 한국가스공사","away":"현대모비스","score":"94-67","result":"🔴패"},{"date":"26.10.29","home":"현대모비스","away":"부산 KCC","score":"96-89","result":"🟢승"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"FD 정인덕(16)|https://kbl.or.kr/files/kbl/players-photo/290996.png\",\"FD 양홍석(11)|https://kbl.or.kr/files/kbl/players-photo/291091.png\",\"C 아셈 마레이(50)|https://kbl.or.kr/files/kbl/players-photo/291432.png\",\"GD 양준석(5)|https://kbl.or.kr/files/kbl/players-photo/291576.png\",\"GD 유기상(1)|https://kbl.or.kr/files/kbl/players-photo/291640.png\"]"
+awayLineup: "[\"FD 이승현(33)|https://kbl.or.kr/files/kbl/players-photo/290787.png\",\"GD 서명진(7)|https://kbl.or.kr/files/kbl/players-photo/291189.png\",\"GD 이우석(11)|https://kbl.or.kr/files/kbl/players-photo/291375.png\",\"FD 오마리 스펠맨(4)|https://kbl.or.kr/files/kbl/players-photo/291475.png\",\"GD 박무빈(3)|https://kbl.or.kr/files/kbl/players-photo/291649.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
