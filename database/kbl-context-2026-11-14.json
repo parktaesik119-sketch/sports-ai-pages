@@ -1,247 +1,5 @@
 [
   {
-    "home": "KCC Egis",
-    "away": "SK Knights",
-    "date": "2026-11-14T05:00:00.000Z",
-    "league": "KBL",
-    "gmkey": "S49G01N67",
-    "stadium": "부산사직",
-    "recentForm": {
-      "home": [
-        {
-          "date": "2026-11-11",
-          "home": "KCC Egis",
-          "away": "타이베이 푸본 브레이브스",
-          "homeScore": 88,
-          "awayScore": 80
-        },
-        {
-          "date": "2026-11-08",
-          "home": "창원 LG",
-          "away": "KCC Egis",
-          "homeScore": 74,
-          "awayScore": 84
-        },
-        {
-          "date": "2026-11-05",
-          "home": "KCC Egis",
-          "away": "마카오 호우촌",
-          "homeScore": 108,
-          "awayScore": 94
-        },
-        {
-          "date": "2026-11-03",
-          "home": "KCC Egis",
-          "away": "Goyang Sono",
-          "homeScore": 105,
-          "awayScore": 102
-        },
-        {
-          "date": "2026-10-31",
-          "home": "KCC Egis",
-          "away": "원주 DB",
-          "homeScore": 90,
-          "awayScore": 74
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-11-11",
-          "home": "창원 LG",
-          "away": "SK Knights",
-          "homeScore": 101,
-          "awayScore": 72
-        },
-        {
-          "date": "2026-11-08",
-          "home": "SK Knights",
-          "away": "원주 DB",
-          "homeScore": 81,
-          "awayScore": 65
-        },
-        {
-          "date": "2026-11-06",
-          "home": "Anyang JungKwanJang",
-          "away": "SK Knights",
-          "homeScore": 83,
-          "awayScore": 79
-        },
-        {
-          "date": "2026-11-04",
-          "home": "SK Knights",
-          "away": "대구 한국가스공사",
-          "homeScore": 76,
-          "awayScore": 82
-        },
-        {
-          "date": "2026-11-01",
-          "home": "서울 삼성",
-          "away": "SK Knights",
-          "homeScore": 76,
-          "awayScore": 90
-        }
-      ]
-    },
-    "headToHead": [
-      {
-        "date": "2026-10-27",
-        "home": "서울 SK",
-        "away": "부산 KCC",
-        "homeScore": 96,
-        "awayScore": 87
-      },
-      {
-        "date": "2026-04-01",
-        "home": "부산 KCC",
-        "away": "서울 SK",
-        "homeScore": 81,
-        "awayScore": 79
-      },
-      {
-        "date": "2026-02-02",
-        "home": "서울 SK",
-        "away": "부산 KCC",
-        "homeScore": 77,
-        "awayScore": 120
-      },
-      {
-        "date": "2026-01-25",
-        "home": "부산 KCC",
-        "away": "서울 SK",
-        "homeScore": 72,
-        "awayScore": 102
-      },
-      {
-        "date": "2025-12-07",
-        "home": "부산 KCC",
-        "away": "서울 SK",
-        "homeScore": 83,
-        "awayScore": 80
-      }
-    ]
-  },
-  {
-    "home": "Changwon LG",
-    "away": "Ulsan Hyundai Mobis",
-    "date": "2026-11-14T05:00:00.000Z",
-    "league": "KBL",
-    "gmkey": "S49G01N68",
-    "stadium": "창원체육관",
-    "recentForm": {
-      "home": [
-        {
-          "date": "2026-11-11",
-          "home": "Changwon LG",
-          "away": "서울 SK",
-          "homeScore": 101,
-          "awayScore": 72
-        },
-        {
-          "date": "2026-11-08",
-          "home": "Changwon LG",
-          "away": "부산 KCC",
-          "homeScore": 74,
-          "awayScore": 84
-        },
-        {
-          "date": "2026-11-07",
-          "home": "Changwon LG",
-          "away": "Goyang Sono",
-          "homeScore": 86,
-          "awayScore": 85
-        },
-        {
-          "date": "2026-11-01",
-          "home": "Changwon LG",
-          "away": "원주 DB",
-          "homeScore": 98,
-          "awayScore": 104
-        },
-        {
-          "date": "2026-10-26",
-          "home": "Goyang Sono",
-          "away": "Changwon LG",
-          "homeScore": 107,
-          "awayScore": 109
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-11-10",
-          "home": "Ulsan Hyundai Mobis",
-          "away": "Goyang Sono",
-          "homeScore": 79,
-          "awayScore": 86
-        },
-        {
-          "date": "2026-11-08",
-          "home": "Ulsan Hyundai Mobis",
-          "away": "Anyang JungKwanJang",
-          "homeScore": 85,
-          "awayScore": 91
-        },
-        {
-          "date": "2026-11-05",
-          "home": "Ulsan Hyundai Mobis",
-          "away": "서울 삼성",
-          "homeScore": 76,
-          "awayScore": 81
-        },
-        {
-          "date": "2026-10-31",
-          "home": "대구 한국가스공사",
-          "away": "Ulsan Hyundai Mobis",
-          "homeScore": 94,
-          "awayScore": 67
-        },
-        {
-          "date": "2026-10-29",
-          "home": "Ulsan Hyundai Mobis",
-          "away": "부산 KCC",
-          "homeScore": 96,
-          "awayScore": 89
-        }
-      ]
-    },
-    "headToHead": [
-      {
-        "date": "2026-10-22",
-        "home": "울산 현대모비스",
-        "away": "창원 LG",
-        "homeScore": 83,
-        "awayScore": 88
-      },
-      {
-        "date": "2026-09-26",
-        "home": "울산 현대모비스",
-        "away": "창원 LG",
-        "homeScore": 85,
-        "awayScore": 84
-      },
-      {
-        "date": "2026-04-08",
-        "home": "울산 현대모비스",
-        "away": "창원 LG",
-        "homeScore": 78,
-        "awayScore": 56
-      },
-      {
-        "date": "2026-03-06",
-        "home": "창원 LG",
-        "away": "울산 현대모비스",
-        "homeScore": 83,
-        "awayScore": 75
-      },
-      {
-        "date": "2026-01-31",
-        "home": "창원 LG",
-        "away": "울산 현대모비스",
-        "homeScore": 76,
-        "awayScore": 65
-      }
-    ]
-  },
-  {
     "home": "Samsung Thunders",
     "away": "Anyang JungKwanJang",
     "date": "2026-11-14T07:30:00.000Z",
@@ -493,6 +251,13 @@
     "recentForm": {
       "home": [
         {
+          "date": "2026-11-14",
+          "home": "Changwon LG",
+          "away": "울산 현대모비스",
+          "homeScore": 78,
+          "awayScore": 79
+        },
+        {
           "date": "2026-11-11",
           "home": "Changwon LG",
           "away": "서울 SK",
@@ -519,13 +284,6 @@
           "away": "원주 DB",
           "homeScore": 98,
           "awayScore": 104
-        },
-        {
-          "date": "2026-10-26",
-          "home": "Goyang Sono",
-          "away": "Changwon LG",
-          "homeScore": 107,
-          "awayScore": 109
         }
       ],
       "away": [
@@ -614,6 +372,13 @@
     "recentForm": {
       "home": [
         {
+          "date": "2026-11-14",
+          "home": "KCC Egis",
+          "away": "서울 SK",
+          "homeScore": 75,
+          "awayScore": 70
+        },
+        {
           "date": "2026-11-11",
           "home": "KCC Egis",
           "away": "타이베이 푸본 브레이브스",
@@ -640,13 +405,6 @@
           "away": "Goyang Sono",
           "homeScore": 105,
           "awayScore": 102
-        },
-        {
-          "date": "2026-10-31",
-          "home": "KCC Egis",
-          "away": "원주 DB",
-          "homeScore": 90,
-          "awayScore": 74
         }
       ],
       "away": [
@@ -735,6 +493,13 @@
     "recentForm": {
       "home": [
         {
+          "date": "2026-11-14",
+          "home": "부산 KCC",
+          "away": "SK Knights",
+          "homeScore": 75,
+          "awayScore": 70
+        },
+        {
           "date": "2026-11-11",
           "home": "창원 LG",
           "away": "SK Knights",
@@ -761,16 +526,16 @@
           "away": "대구 한국가스공사",
           "homeScore": 76,
           "awayScore": 82
-        },
-        {
-          "date": "2026-11-01",
-          "home": "서울 삼성",
-          "away": "SK Knights",
-          "homeScore": 76,
-          "awayScore": 90
         }
       ],
       "away": [
+        {
+          "date": "2026-11-14",
+          "home": "창원 LG",
+          "away": "Ulsan Hyundai Mobis",
+          "homeScore": 78,
+          "awayScore": 79
+        },
         {
           "date": "2026-11-10",
           "home": "Ulsan Hyundai Mobis",
@@ -798,13 +563,6 @@
           "away": "Ulsan Hyundai Mobis",
           "homeScore": 94,
           "awayScore": 67
-        },
-        {
-          "date": "2026-10-29",
-          "home": "Ulsan Hyundai Mobis",
-          "away": "부산 KCC",
-          "homeScore": 96,
-          "awayScore": 89
         }
       ]
     },
