@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.11","home":"LG","away":"서울 SK","score":"101-72"
 awayRecent: '[{"date":"26.11.09","home":"서울 삼성","away":"KT","score":"85-78","result":"🔴패"},{"date":"26.11.07","home":"KT","away":"대구 한국가스공사","score":"92-81","result":"🟢승"},{"date":"26.11.01","home":"고양 소노","away":"KT","score":"96-103","result":"🟢승"},{"date":"26.10.31","home":"안양 정관장","away":"KT","score":"90-92","result":"🟢승"},{"date":"26.10.25","home":"SK","away":"KT","score":"90-79","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-kbl-202610255506490137-2026-10-25-sk-knights/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"FD 양홍석(11)|https://kbl.or.kr/files/kbl/players-photo/291091.png\",\"C 아셈 마레이(50)|https://kbl.or.kr/files/kbl/players-photo/291432.png\",\"GD 양준석(5)|https://kbl.or.kr/files/kbl/players-photo/291576.png\",\"GD 유기상(1)|https://kbl.or.kr/files/kbl/players-photo/291640.png\",\"GD 최형찬(7)|https://kbl.or.kr/files/kbl/players-photo/291771.png\"]"
+awayLineup: "[\"GD 정창영(7)|https://kbl.or.kr/files/kbl/players-photo/290454.png\",\"FD 서민수(34)|https://kbl.or.kr/files/kbl/players-photo/290599.png\",\"GD 김준환(17)|https://kbl.or.kr/files/kbl/players-photo/291476.png\",\"C 이두원(21)|https://kbl.or.kr/files/kbl/players-photo/291586.png\",\"FD 패리스 배스(35)|https://kbl.or.kr/files/kbl/players-photo/291671.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
