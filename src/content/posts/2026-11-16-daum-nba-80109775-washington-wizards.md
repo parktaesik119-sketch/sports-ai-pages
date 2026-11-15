@@ -1,0 +1,37 @@
+---
+title: "워싱턴 위저즈 vs 휴스턴 로키츠 농구분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-16T00:00:00.000Z
+description: "워싱턴 위저즈 vs 휴스턴 로키츠 농구분석: 두 팀의 객관적인 전력과 최근 흐름을 살펴보면 상위권의 저력을 보여주는 원정팀 휴스턴 로키츠이 경기 운영 면에서 유리한 고지를… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109775-2026-11-16-washington-wizards"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "워싱턴 위저즈"
+awayTeam: "휴스턴 로키츠"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/27_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/10_300300.png"
+homeAnalysis: "워싱턴 위저즈은 앞선 11경기에서 6승 5패로 승률 55%를 기록했고 최근 치른 디트로이트 피스톤즈전에서는 140대144로 아쉽게 패배하며 흐름이 다소 주춤한 상태입니다. 현재 리그순위 12위로 4승 9패를 기록하며 다소 고전하고 있으나 평균적으로 106점대의 득점력을 꾸준히 보여주며 공격적인 측면에서는 활로를 찾고 있습니다. 다만 득실 마이너스 75점을 기록할 만큼 수비 집중력 유지와 실점 억제가 중요한 과제로 꼽힙니다. 최근 10경기에서도 5승 5패의 기복을 보이고 있어 이번 경기에서는 안정적인 수비 운영이 절실합니다. 팀 내 주요 전력 누수가 있는 상황이지만 홈에서 치르는 경기인 만큼 분위기 반전을 위해 총력전을 펼칠 것으로 기대됩니다."
+awayAnalysis: "휴스턴 로키츠은 앞선 15경기에서 11승 4패로 승률 73%를 기록했고 최근 유타 재즈를 상대로 125대118 승리를 거두며 상승세를 이어가고 있습니다. 현재 리그순위 3위로 10승 3패를 달리고 있으며 득실 마이너스 플러스 114점을 기록할 만큼 공수 양면에서 매우 단단한 전력을 자랑합니다. 최근 10경기에서도 8승 2패라는 뛰어난 성적을 거두며 상위권 팀다운 저력을 유감없이 발휘하고 있습니다. 원정 경기에서도 집중력을 잃지 않고 꾸준히 108점 이상의 화력을 뿜어내며 상대 수비를 흔들고 있습니다. 주전 선수들의 공백 우려가 일부 존재하지만 탄탄한 조직력과 높은 승률을 바탕으로 이번 원정에서도 우세를 점할 것으로 보입니다."
+homePower: "워싱턴 위저즈 홈 경기 평균 득점 수치는 꾸준한 화력을 증명함|최근 수비 집중력 난조로 인한 실점 증가 경향이 뚜렷함|리그순위 12위의 열세를 극복하기 위한 홈 이점 활용이 시급함|주요 선수들의 부상 공백을 메울 벤치 자원의 활약이 검증됨|공격력에 비해 수비 밸런스 유지가 이번 경기 핵심 과제로 보임"
+awayPower: "휴스턴 로키츠 최근 10경기 8승의 가파른 상승세가 돋보임|리그순위 3위가 말해주듯 공수 균형이 매우 안정적으로 정착됨|원정 경기에서도 평균 108점 넘는 높은 화력을 유지함|득실 차이 플러스 114가 입증하는 강력한 지배력이 강점임|일부 주전 이탈에도 두터운 선수층으로 공백을 잘 메우고 있음"
+h2h: '[]'
+summary: "두 팀의 객관적인 전력과 최근 흐름을 살펴보면 상위권의 저력을 보여주는 원정팀 휴스턴 로키츠이 경기 운영 면에서 유리한 고지를 선점할 가능성이 높습니다. 홈팀 워싱턴 위저즈은 꾸준한 득점력을 바탕으로 반격을 노리겠지만 리그순위 12위가 보여주듯 수비 안정을 찾는 것이 무엇보다 중요합니다. 원정팀 휴스턴 로키츠은 탄탄한 공수 균형과 최근의 가파른 상승세를 앞세워 이번 경기에서도 우세를 점할 것으로 기대됩니다."
+homeRecent: '[{"date":"26.11.13","home":"워싱턴 위저즈","away":"디트로이트 피스톤스","score":"140-144","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109752-2026-11-13-washington-wizards/"},{"date":"26.11.12","home":"인디애나 페이서스","away":"워싱턴 위저즈","score":"114-101","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109741-2026-11-12-indiana-pacers/"},{"date":"26.11.03","home":"올랜도 매직","away":"워싱턴 위저즈","score":"94-103","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110219-2026-11-03-orlando-magic/"},{"date":"26.10.25","home":"시카고 불스","away":"워싱턴 위저즈","score":"120-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102404-2026-10-25-chicago-bulls/"},{"date":"26.10.24","home":"워싱턴 위저즈","away":"토론토 랩터스","score":"102-112","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102327-2026-10-24-washington-wizards/"}]'
+awayRecent: '[{"date":"26.11.14","home":"휴스턴 로키츠","away":"유타 재즈","score":"125-118","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109760-2026-11-14-houston-rockets/"},{"date":"26.11.12","home":"휴스턴 로키츠","away":"골든스테이트 워리어스","score":"115-108","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109749-2026-11-12-houston-rockets/"},{"date":"26.11.03","home":"휴스턴 로키츠","away":"보스턴 셀틱스","score":"109-93","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110210-2026-11-03-houston-rockets/"},{"date":"26.10.25","home":"애틀랜타 호크스","away":"휴스턴 로키츠","score":"114-121","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102401-2026-10-25-atlanta-hawks/"},{"date":"26.10.24","home":"샌안토니오 스퍼스","away":"휴스턴 로키츠","score":"110-114","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102324-2026-10-24-san-antonio-spurs/"}]'
+injuryHome: "Alex Sarr (경미) | Tre Johnson (경미) | Bub Carrington (경미) | Tristan Vukcevic (주요 - 핀치 신경) | Reece Beekman (주요)"
+injuryAway: "Clint Capela (주요 - 염좌) | Steven Adams (주요 - 긴장) | Fred VanVleet (주요) | Marcus Smart (주요 - 출전 정지)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 로키츠"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 로키츠"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---

@@ -1,0 +1,37 @@
+---
+title: "밀워키 벅스 vs 애틀랜타 호크스 농구분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-16T01:00:00.000Z
+description: "밀워키 벅스 vs 애틀랜타 호크스 농구분석: 양 팀의 이번 맞대결은 전력과 최근 흐름에서 뚜렷한 차이를 보이고 있습니다. 홈팀 밀워키 벅스는 하위권에 머물며 수비 불안과 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109776-2026-11-16-milwaukee-bucks"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "밀워키 벅스"
+awayTeam: "애틀랜타 호크스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/15_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/1_300300.png"
+homeAnalysis: "밀워키 벅스는 앞선 14경기에서 3승 11패로 승률 21%를 기록했고 최근 흐름에서 다소 고전하는 양상을 보이고 있습니다. 현재 리그순위 15위에 머물러 있으며 득실 차이에서 마이너스를 기록하는 등 전반적인 공수 균형을 다잡는 것이 시급한 과제로 꼽힙니다. 최근 치른 경기들을 살펴보면 실점이 다소 늘어나면서 경기를 어렵게 풀어가는 모습이 자주 나타났습니다. 특히 수비 집중력을 유지하는 과정에서 아쉬움을 남기며 반등의 발판을 마련하는 데 어려움을 겪고 있습니다. 이번 경기에서는 홈 이점을 안고 출전하는 만큼 그동안의 부진을 털어내고 집중력을 높여야 할 것으로 보입니다."
+awayAnalysis: "애틀랜타 호크스는 앞선 16경기에서 8승 8패로 승률 50%를 기록했고 팽팽한 균형 속에서 안정감을 찾아가고 있습니다. 현재 리그순위 4위의 상위권에 위치해 있으며 공수 양면에서 짜임새 있는 경기력을 선보이고 있습니다. 최근 치른 일정에서도 꾸준하게 승수를 쌓으며 전력을 다지는 등 흐름이 비교적 안정적입니다. 원정 경기라는 부담감이 존재하지만 탄탄한 전력을 바탕으로 상대를 압박할 수 있는 능력을 갖추고 있습니다. 이번 맞대결에서도 특유의 조직력을 앞세워 경기를 주도해 나갈 것으로 기대됩니다."
+homePower: "홈팀 밀워키 벅스는 최근 다실점 경기가 반복되며 수비 안정감이 크게 흔들리는 모습임|리그순위 15위로 처져 있으나 홈 코트에서의 집중력을 되찾아야 하는 시점임|공격 전개 과정에서 마무리가 아쉽고 득점 생산력이 다소 정체된 흐름을 보임|핵심 자원의 부상 공백을 메우기 위해 로테이션 운용의 변화가 불가피함|안방 이점을 살려 초반부터 주도권을 잡지 못하면 고전할 가능성이 높음"
+awayPower: "원정팀 애틀랜타 호크스는 리그순위 4위에 걸맞은 공수 밸런스와 조직력을 자랑함|최근 10경기에서 6승을 거두는 등 상승세를 타며 안정적인 경기력을 유지 중임|원정 경기에서도 흔들림 없는 집중력을 보여주며 꾸준히 득점을 생산해 냄|탄탄한 수비 블록을 바탕으로 상대의 주력 공격 루트를 효과적으로 차단함|주전 선수들의 고른 활약 덕분에 경기 운영 전반에 여유가 묻어남"
+h2h: '[]'
+summary: "양 팀의 이번 맞대결은 전력과 최근 흐름에서 뚜렷한 차이를 보이고 있습니다. 홈팀 밀워키 벅스는 하위권에 머물며 수비 불안과 득점력 부진을 극복해야 하는 과제를 안고 있습니다. 반면에 원정팀 애틀랜타 호크스는 상위권의 안정적인 순위를 유지하며 공수 양면에서 우위를 점하고 있습니다. 전반적인 짜임새와 최근 경기력을 고려할 때 애틀랜타 호크스가 경기를 주도하며 우세한 흐름을 이어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.14","home":"올랜도 매직","away":"밀워키 벅스","score":"107-99","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109756-2026-11-14-orlando-magic/"},{"date":"26.11.12","home":"밀워키 벅스","away":"LA 레이커스","score":"112-123","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109746-2026-11-12-milwaukee-bucks/"},{"date":"26.11.03","home":"미네소타 팀버울브스","away":"밀워키 벅스","score":"112-100","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110216-2026-11-03-minnesota-timberwolves/"},{"date":"26.10.25","home":"필라델피아 76ers","away":"밀워키 벅스","score":"127-116","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102420-2026-10-25-philadelphia-76ers/"},{"date":"26.10.24","home":"밀워키 벅스","away":"시카고 불스","score":"125-132","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102315-2026-10-24-milwaukee-bucks/"}]'
+awayRecent: '[{"date":"26.11.14","home":"시카고 불스","away":"애틀랜타 호크스","score":"125-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109758-2026-11-14-chicago-bulls/"},{"date":"26.11.03","home":"인디애나 페이서스","away":"애틀랜타 호크스","score":"104-108","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110211-2026-11-03-indiana-pacers/"},{"date":"26.10.25","home":"애틀랜타 호크스","away":"휴스턴 로키츠","score":"114-121","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102401-2026-10-25-atlanta-hawks/"},{"date":"26.10.24","home":"샬럿 호네츠","away":"애틀랜타 호크스","score":"81-128","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102330-2026-10-24-charlotte-hornets/"},{"date":"26.10.22","home":"올랜도 매직","away":"애틀랜타 호크스","score":"125-132","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102119-2026-10-22-orlando-magic/"}]'
+injuryHome: "Ousmane Dieng (염좌)"
+injuryAway: "Kingston Flemings (긴장) | Mouhamed Gueye (골절) | Keshon Gilbert (염증) | Asa Newell (부상) | Henri Veesaar (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애틀랜타 호크스"
+pickWinResult: "승"
+pickHandicapTeam: "애틀랜타 호크스"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "언더"
+---

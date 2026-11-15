@@ -1,0 +1,37 @@
+---
+title: "베가스 골든나이츠 vs 밴쿠버 카넉스 하키분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-16T02:00:00.000Z
+description: "베가스 골든나이츠 vs 밴쿠버 카넉스 하키분석: 베가스 골든나이츠은 탄탄한 홈 전력과 안정적인 공수 밸런스를 바탕으로 경기 운영에서 우위를 점할 것으로 보입니다. 밴쿠버 카넉… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378633661-2026-11-16-vegas-golden-knights"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "베가스 골든나이츠"
+awayTeam: "밴쿠버 카넉스"
+homeLogo: "https://highlightly.net/hockey/images/teams/598186.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/597335.png"
+homeAnalysis: "베가스 골든나이츠은 앞선 44경기에서 27승 17패로 승률 61%를 기록했고 안정적인 공수 밸런스를 바탕으로 꾸준한 경기력을 보여주고 있습니다. 최근 10경기에서는 5승 5패를 기록하며 다소 기복 있는 모습을 보이고 있으나 공격 전개 과정에서 집중력을 잃지 않고 있습니다. 홈 경기에서는 특유의 빠른 템포와 강한 압박을 통해 상대 수비를 흔드는 능력이 뛰어납니다. 전반적으로 선수들의 유기적인 패스플레이가 살아나면서 득점 생산력에 힘이 실리고 있습니다. 이번 경기에서도 홈 이점을 살려 유리한 흐름을 만들어갈 것으로 기대됩니다."
+awayAnalysis: "밴쿠버 카넉스은 앞선 25경기에서 4승 21패로 승률 16%를 기록했고 최근 원정 일정에서 큰 어려움을 겪고 있습니다. 최근 10경기에서도 1승 9패에 그치며 수비 라인에서 연쇄적인 실책이 노출되는 등 아쉬운 결과를 남겼습니다. 공격 상황에서 슈팅 타이밍을 잡는 데 애를 먹고 있으며 전체적인 득점력 회복이 시급한 과제로 꼽힙니다. 다만 원정 경기에서 반격을 위한 전술 변화를 시도하고 있어 집중력을 끌어올릴 필요가 있습니다. 이번 맞대결에서는 수비 안정감을 얼마나 찾아오느냐가 관건이 될 것입니다."
+homePower: "최근 홈 경기 다수 승리로 안방 운영 능력 입증됨|공격 전개 시 유기적인 패스로 득점 생산력 유지함|안정적인 공수 밸런스로 경기 주도권 잡기에 유리함|상대 전적 우위 바탕으로 심리적 여유 가짐|찬스 상황에서 결정력 높이는 집중력 돋보임"
+awayPower: "원정 경기에서 수비 집중력 난조로 실점 다소 많음|최근 연패 흐름 속에서 반등 위한 전술 변화 필요함|공격 시 슈팅 효율성 높여야 하는 과제 안고 있음|상대 압박에 대처하는 수비 조직력 강화 시급함|원정 열세 극복 위한 적극적인 초반 운영 필수적임"
+h2h: '[{"date":"26.10.05","home":"밴쿠버 카넉스","away":"베가스 골든나이츠","score":"2-3","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378386020-2026-10-05-vancouver-canucks/"}]'
+summary: "베가스 골든나이츠은 탄탄한 홈 전력과 안정적인 공수 밸런스를 바탕으로 경기 운영에서 우위를 점할 것으로 보입니다. 밴쿠버 카넉스은 최근 원정에서 수비 불안과 득점력 저조로 고전하고 있어 전체적인 열세가 예상됩니다. 양 팀의 최근 경기력과 상대 전적 흐름을 종합해 볼 때 베가스 골든나이츠이 승리에 가까운 경기를 펼칠 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.14","home":"베가스 골든나이츠","away":"내슈빌 프레데터스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378617492-2026-11-14-vegas-golden-knights/"},{"date":"26.11.12","home":"베가스 골든나이츠","away":"유타 매머드","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378604727-2026-11-12-vegas-golden-knights/"},{"date":"26.11.09","home":"버펄로 세이버스","away":"베가스 골든나이츠","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378589409-2026-11-09-buffalo-sabres/"},{"date":"26.11.06","home":"디트로이트 레드윙스","away":"베가스 골든나이츠","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378572389-2026-11-06-detroit-red-wings/"},{"date":"26.11.04","home":"피츠버그 펭귄스","away":"베가스 골든나이츠","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378554518-2026-11-04-pittsburgh-penguins/"}]'
+awayRecent: '[{"date":"26.11.14","home":"밴쿠버 카넉스","away":"뉴욕 레인저스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378616641-2026-11-14-vancouver-canucks/"},{"date":"26.11.10","home":"밴쿠버 카넉스","away":"필라델피아 플라이어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378594515-2026-11-10-vancouver-canucks/"},{"date":"26.11.08","home":"에드먼턴 오일러스","away":"밴쿠버 카넉스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378587707-2026-11-08-edmonton-oilers/"},{"date":"26.11.06","home":"위니펙 제츠","away":"밴쿠버 카넉스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574091-2026-11-06-winnipeg-jets/"},{"date":"26.11.04","home":"밴쿠버 카넉스","away":"애너하임 덕스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378562177-2026-11-04-vancouver-canucks/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "베가스 골든나이츠"
+pickWinResult: "승"
+pickHandicapTeam: "베가스 골든나이츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

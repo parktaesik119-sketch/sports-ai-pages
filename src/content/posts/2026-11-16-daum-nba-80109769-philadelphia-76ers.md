@@ -1,0 +1,37 @@
+---
+title: "필라델피아 76ers vs 인디애나 페이서스 농구분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-15T18:00:00.000Z
+description: "필라델피아 76ers vs 인디애나 페이서스 농구분석: 양 팀의 이번 맞대결은 상위권의 저력을 갖춘 필라델피아 76ers과 최근 연승으로 분위기를 끌어올린 인디애나 페이서스의 흥미로… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109769-2026-11-16-philadelphia-76ers"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "필라델피아 76ers"
+awayTeam: "인디애나 페이서스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/20_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/11_300300.png"
+homeAnalysis: "필라델피아 76ers은 앞선 20경기에서 10승 10패로 승률 50%를 기록했고 최근 치른 일정에서 꾸준한 득점력을 바탕으로 흐름을 유지하고 있습니다. 현재 리그순위 2위를 달리며 10승 3패의 안정적인 성적과 탄탄한 득실 마진을 보여주고 있어 상위권의 저력을 과시하고 있습니다. 최근 경기에서도 토론토 랩터스와 시카고 불스를 상대로 화력을 뽐내며 승수를 쌓아 올리는 모습이 인상적입니다. 다만 조엘 엠비드와 도미닉 바로우 등 주요 선수들의 공백이 존재하기 때문에 로테이션 운용에서 세심한 관리가 필요해 보입니다. 홈 경기에서는 특유의 집중력을 발휘해 상대 수비를 흔드는 능력이 뛰어나 이번 일정에서도 긍정적인 요인으로 작용할 전망입니다."
+awayAnalysis: "인디애나 페이서스는 앞선 11경기에서 6승 5패로 승률 55%를 기록했고 준수한 공수 밸런스를 바탕으로 경쟁력을 증명하고 있습니다. 현재 리그순위 10위에 위치해 있으나 최근 뉴욕 닉스와 워싱턴 위저드를 차례로 잡아내며 연승 흐름을 타는 등 반등 조짐이 뚜렷합니다. 원정 경기에서도 공격 전개 과정에서 활로를 잘 찾아내며 평균 득점 지표에서 꾸준함을 보여주고 있습니다. 다만 타이리스 할리버튼을 비롯한 주축 자원들의 이탈 공백이 크기 때문에 경기 중반 이후의 체력 안배와 집중력 유지 과제가 남아 있습니다. 상대와의 맞대결 기억을 떠올려 볼 때 철저한 대비를 통해 전력 누수를 메우려는 노력이 중요해지는 시점입니다."
+homePower: "최근 홈 경기 다득점 흐름으로 공격 화력은 검증됨|현재 리그순위 2위의 안정적인 공수 밸런스 유지|주요 선수 부상 공백을 메울 로테이션 집중력 필요|상대와의 최근 맞대결 승리로 심리적 우위 확보|공격적 림 공략과 속공 전개 능력이 뛰어남"
+awayPower: "최근 연승 가도를 달리며 팀 분위기 반등에 성공함|원정 경기에서도 준수한 득점 생산력을 꾸준히 유지함|핵심 가드진의 이탈로 인한 경기 운영 부담 존재|리그순위 대비 탄력적인 경기력으로 상위권 위협|수비 리바운드 단속 강화를 통한 실점 억제 필요"
+h2h: '[{"date":"26.10.29","home":"인디애나 페이서스","away":"필라델피아 76ers","score":"109-114"},{"date":"26.07.12","home":"필라델피아 76ers","away":"인디애나 페이서스","score":"100-93","link":"https://pick79.com/posts/detail/analyze-502080-2026-07-12-philadelphia-76ers/"}]'
+summary: "양 팀의 이번 맞대결은 상위권의 저력을 갖춘 필라델피아 76ers과 최근 연승으로 분위기를 끌어올린 인디애나 페이서스의 흥미로운 대결로 펼쳐집니다. 필라델피아 76ers은 안정적인 리그순위와 홈 경기 집중력을 앞세워 경기를 주도하려 할 것이며, 인디애나 페이서스는 최근 상승세를 탄 공격력을 바탕으로 반격을 시도할 것입니다. 앞선 맞대결 결과와 전반적인 공수 효율을 종합해 볼 때, 필라델피아 76ers이 홈 이점을 살려 미세한 우위를 점하며 경기를 유리하게 이끌어갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.13","home":"필라델피아 76ers","away":"토론토 랩터스","score":"123-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109751-2026-11-13-philadelphia-76ers/"},{"date":"26.11.03","home":"필라델피아 76ers","away":"시카고 불스","score":"126-107","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110220-2026-11-03-philadelphia-76ers/"},{"date":"26.10.26","home":"필라델피아 76ers","away":"디트로이트 피스톤스","score":"93-106","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102520-2026-10-26-philadelphia-76ers/"},{"date":"26.10.25","home":"필라델피아 76ers","away":"밀워키 벅스","score":"127-116","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102420-2026-10-25-philadelphia-76ers/"},{"date":"26.10.23","home":"필라델피아 76ers","away":"클리블랜드 캐벌리어스","score":"114-106","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102220-2026-10-23-philadelphia-76ers/"}]'
+awayRecent: '[{"date":"26.11.14","home":"인디애나 페이서스","away":"뉴욕 닉스","score":"106-104","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109755-2026-11-14-indiana-pacers/"},{"date":"26.11.12","home":"인디애나 페이서스","away":"워싱턴 위저즈","score":"114-101","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109741-2026-11-12-indiana-pacers/"},{"date":"26.11.03","home":"인디애나 페이서스","away":"애틀랜타 호크스","score":"104-108","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110211-2026-11-03-indiana-pacers/"},{"date":"26.10.26","home":"브루클린 네츠","away":"인디애나 페이서스","score":"109-136","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102517-2026-10-26-brooklyn-nets/"},{"date":"26.10.24","home":"인디애나 페이서스","away":"댈러스 매버릭스","score":"105-121","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102311-2026-10-24-indiana-pacers/"}]'
+injuryHome: "Joel Embiid(주요 - 결장) | Dominick Barlow(주요 - 골절) | Adem Bona(주요 - 염좌) | Ariel Hukporti(주요 - 수술)"
+injuryAway: "Andrew Nembhard(경미 - 통증) | T.J. McConnell(경미 - 부상 의심) | Aaron Nesmith(경미 - 염좌) | Tyrese Haliburton(주요 - 긴장) | Johnny Furphy(주요 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 76ers"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 76ers"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "214.5"
+pickOuDirection: "오버"
+---

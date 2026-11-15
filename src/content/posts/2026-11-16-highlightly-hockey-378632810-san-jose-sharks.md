@@ -1,0 +1,37 @@
+---
+title: "산호세 샤크스 vs 내슈빌 프레데터스 하키분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-16T02:00:00.000Z
+description: "산호세 샤크스 vs 내슈빌 프레데터스 하키분석: 양 팀의 최근 흐름과 전력 지표를 종합해 보면 원정팀인 내슈빌 프레데터스가 확실한 우위를 점할 것으로 예상됩니다. 홈팀 산호세… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378632810-2026-11-16-san-jose-sharks"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "산호세 샤크스"
+awayTeam: "내슈빌 프레데터스"
+homeLogo: "https://highlightly.net/hockey/images/teams/593931.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/587123.png"
+homeAnalysis: "산호세 샤크스는 앞선 25경기에서 10승 15패로 승률 40%를 기록했고 다소 기복 있는 경기력을 보여주고 있습니다. 최근 치른 10경기에서는 2승 8패에 그치며 전력이 크게 떨어진 모습을 드러내고 있습니다. 공격 전개에서 득점 생산력이 다소 정체되면서 전체적인 흐름이 주춤한 상황입니다. 홈 경기에서도 상대의 거센 공세를 막아내지 못하고 고전하는 경기가 늘어나고 있습니다. 이번 경기에서는 공수 양면에서 집중력을 끌어올려 분위기를 반전시켜야 하는 과제를 안고 있습니다."
+awayAnalysis: "내슈빌 프레데터스는 앞선 24경기에서 12승 12패로 승률 50%를 기록했고 팽팽한 균형을 유지하고 있습니다. 특히 최근 10경기에서 8승 2패라는 놀라운 상승세를 타며 가파른 전력 상승 곡선을 그리고 있습니다. 최근 경기들에서 평균 득점이 크게 치솟으며 막강한 화력을 자랑하고 있습니다. 원정 경기에서도 특유의 집중력을 발휘해 연승 행진을 이어가는 등 탄탄한 운영 능력을 뽐내고 있습니다. 이번 일정 역시 좋은 흐름을 그대로 이어갈 수 있는 유리한 조건을 갖추고 있습니다."
+homePower: "최근 10경기 2승 8패로 하락세 뚜렷함|경기당 득점력 정체로 공격 효율 저하됨|홈 운영 과정에서 수비 조직력 흔들림|접전 상황 마무리 능력에서 아쉬움 보임|분위기 반전을 위한 전술 변화 시급함"
+awayPower: "최근 10경기 8승 2패로 가파른 상승세 검증됨|최근 평균 3점대 중반의 강력한 화력 뽐냄|원정 경기 운영에서 안정적인 공수 밸런스 유지함|상대 압박을 이겨내는 경기 집중력 높음|연승 흐름을 탈 수 있는 탄탄한 경기력을 보여줌"
+h2h: '[{"date":"26.10.16","home":"내슈빌 프레데터스","away":"산호세 샤크스","score":"2-3","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378451547-2026-10-16-nashville-predators/"}]'
+summary: "양 팀의 최근 흐름과 전력 지표를 종합해 보면 원정팀인 내슈빌 프레데터스가 확실한 우위를 점할 것으로 예상됩니다. 홈팀 산호세 샤크스는 최근 10경기에서 부진을 거듭하며 수비와 공격 모두에서 불안정한 모습을 노출하고 있습니다. 반면 내슈빌 프레데터스는 최근 8승을 쓸어 담으며 엄청난 화력과 안정된 경기 운영 능력을 동시에 증명해 냈습니다. 두 팀의 맞대결 역사와 최근의 가파른 상승세를 고려할 때 내슈빌 프레데터스가 경기의 주도권을 잡고 승리를 가져갈 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.11.12","home":"산호세 샤크스","away":"피츠버그 펭귄스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378605578-2026-11-12-san-jose-sharks/"},{"date":"26.11.10","home":"산호세 샤크스","away":"뉴욕 아일런더스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378595366-2026-11-10-san-jose-sharks/"},{"date":"26.11.08","home":"댈러스 스타스","away":"산호세 샤크스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378584303-2026-11-08-dallas-stars/"},{"date":"26.11.07","home":"미네소타 와일드","away":"산호세 샤크스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378577495-2026-11-07-minnesota-wild/"},{"date":"26.11.05","home":"LA 킹스","away":"산호세 샤크스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378564730-2026-11-05-los-angeles-kings/"}]'
+awayRecent: '[{"date":"26.11.14","home":"베가스 골든나이츠","away":"내슈빌 프레데터스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378617492-2026-11-14-vegas-golden-knights/"},{"date":"26.11.12","home":"애너하임 덕스","away":"내슈빌 프레데터스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378606429-2026-11-12-anaheim-ducks/"},{"date":"26.11.11","home":"LA 킹스","away":"내슈빌 프레데터스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378601323-2026-11-11-los-angeles-kings/"},{"date":"26.11.08","home":"내슈빌 프레데터스","away":"세인트루이스 블루스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378579197-2026-11-08-nashville-predators/"},{"date":"26.11.06","home":"콜로라도 애벌랜치","away":"내슈빌 프레데터스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574942-2026-11-06-colorado-avalanche/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "내슈빌 프레데터스"
+pickWinResult: "승"
+pickHandicapTeam: "내슈빌 프레데터스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

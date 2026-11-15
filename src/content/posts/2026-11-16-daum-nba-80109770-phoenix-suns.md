@@ -1,0 +1,37 @@
+---
+title: "피닉스 선즈 vs LA 레이커스 농구분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-15T21:00:00.000Z
+description: "피닉스 선즈 vs LA 레이커스 농구분석: 피닉스 선즈과 LA 레이커스의 이번 맞대결은 양 팀의 현재 리그순위와 최근 흐름에서 명확한 차이를 보이고 있습니다. 홈팀 피닉… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109770-2026-11-16-phoenix-suns"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "피닉스 선즈"
+awayTeam: "LA 레이커스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/21_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/13_300300.png"
+homeAnalysis: "피닉스 선즈은 앞선 11경기에서 5승 6패로 승률 45%를 기록했고, 최근 샬럿 호네츠를 상대로 접전 끝에 승리를 거두며 흐름을 다잡고 있습니다. 현재 리그순위 11위이자 5승 6패를 기록 중인 피닉스 선즈은 마크 윌리엄스의 장기 결장 공백 속에서도 버팀목을 찾기 위해 안간힘을 쓰고 있습니다. 최근 10경기 평균 득점이 98.2점에 머물 정도로 공격 전개에서 다소 답답한 흐름을 보이고 있습니다. 득실 마이너스 48.0이라는 지표가 말해주듯 수비에서의 약점을 극복하는 것이 급선무로 꼽힙니다. 홈 경기에서는 비교적 집중력을 발휘하고 있으나 전반적인 화력 보강이 절실한 시점입니다."
+awayAnalysis: "LA 레이커스는 앞선 20경기에서 13승 7패로 승률 65%를 기록했고, 밀워키 벅스를 꺾으며 막강한 연승 행진의 기세를 이어가고 있습니다. 현재 리그순위 2위이자 11승 2패라는 고공행진을 펼치는 LA 레이커스는 오스틴 리브스의 공백에도 불구하고 압도적인 전력을 뽐내고 있습니다. 최근 10경기 평균 득점이 112.4점에 달할 정도로 폭발적인 공격력을 자랑하며 상대를 압도하는 모습입니다. 득실 플러스 103.0이라는 뛰어난 수치는 공수 양면에서 완벽한 밸런스를 유지하고 있음을 증명합니다. 원정 경기에서도 흔들림 없는 집중력을 보여주며 상위권의 저력을 유감없이 발휘하고 있습니다."
+homePower: "현재 리그순위 11위의 아쉬움 속에서 반등을 모색하는 과정임|최근 10경기 평균 득점 98.2점으로 공격력 보강이 필수 과제임|마크 윌리엄스의 부재로 인해 골밑 수비 안정감이 다소 떨어진 상태임|샬럿 호네츠전 승리를 계기로 홈 코트에서의 집중력 회복이 기대됨|득실 마이너스 지표를 극복하기 위한 수비 조직력 강화가 절실함"
+awayPower: "리그순위 2위를 달리며 공수 양면에서 완벽한 밸런스를 보여줌|최근 10경기 평균 득점 112.4점의 막강한 화력을 꾸준히 유지함|득실 플러스 103.0의 압도적인 수치로 상대 수비를 무력화함|오스틴 리브스의 공백에도 두터운 선수층으로 거침없는 상승세를 탐|원정 경기에서도 높은 승률을 기록하며 안정적인 경기 운영을 증명함"
+h2h: '[]'
+summary: "피닉스 선즈과 LA 레이커스의 이번 맞대결은 양 팀의 현재 리그순위와 최근 흐름에서 명확한 차이를 보이고 있습니다. 홈팀 피닉스 선즈은 리그순위 11위의 열세 속에서 최근 공격력 정체를 겪고 있으며 수비 안정이 시급한 상황입니다. 반면 원정팀 LA 레이커스는 리그순위 2위의 막강한 화력과 탄탄한 공수 밸런스를 바탕으로 우위를 점하고 있습니다. 전력의 무게중심이 원정팀 쪽으로 기울어 있는 만큼 LA 레이커스가 경기의 주도권을 잡고 승리에 가까워질 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네츠","score":"101-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109754-2026-11-13-phoenix-suns/"},{"date":"26.11.03","home":"골든스테이트 워리어스","away":"피닉스 선즈","score":"116-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110209-2026-11-03-golden-state-warriors/"},{"date":"26.10.25","home":"피닉스 선즈","away":"골든스테이트 워리어스","score":"131-122","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102421-2026-10-25-phoenix-suns/"},{"date":"26.10.22","home":"포틀랜드 트레일블레이저스","away":"피닉스 선즈","score":"124-83","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102122-2026-10-22-portland-trail-blazers/"},{"date":"26.07.19","home":"피닉스 선즈","away":"샌안토니오 스퍼스","score":"81-86","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-504369-2026-07-19-phoenix-suns/"}]'
+awayRecent: '[{"date":"26.11.12","home":"밀워키 벅스","away":"LA 레이커스","score":"112-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109746-2026-11-12-milwaukee-bucks/"},{"date":"26.11.03","home":"LA 레이커스","away":"마이애미 히트","score":"138-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110213-2026-11-03-los-angeles-lakers/"},{"date":"26.10.26","home":"유타 재즈","away":"LA 레이커스","score":"123-132","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102526-2026-10-26-utah-jazz/"},{"date":"26.10.24","home":"LA 레이커스","away":"LA 클리퍼스","score":"125-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102313-2026-10-24-los-angeles-lakers/"},{"date":"26.10.22","home":"LA 레이커스","away":"골든스테이트 워리어스","score":"127-105","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102113-2026-10-22-los-angeles-lakers/"}]'
+injuryHome: "Drew Timme (경미) | Mark Williams (주요)"
+injuryAway: "Adou Thiero (경미) | Collin Sexton (경미) | Austin Reaves (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 레이커스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 레이커스"
+pickHandicapValue: "-15.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "언더"
+---

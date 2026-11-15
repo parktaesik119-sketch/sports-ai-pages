@@ -1,0 +1,37 @@
+---
+title: "보스턴 셀틱스 vs 댈러스 매버릭스 농구분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-15T23:00:00.000Z
+description: "보스턴 셀틱스 vs 댈러스 매버릭스 농구분석: 보스턴 셀틱스는 리그순위 1위의 우수한 지표를 지니고 있으나 최근 14경기에서 승률 50%를 기록하며 다소 주춤한 흐름을 보이… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109773-2026-11-16-boston-celtics"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "보스턴 셀틱스"
+awayTeam: "댈러스 매버릭스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/2_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/6_300300.png"
+homeAnalysis: "보스턴 셀틱스는 앞선 14경기에서 7승 7패로 승률 50%를 기록했고 기복 있는 흐름을 보여주고 있습니다. 현재 리그순위 1위로 10승 2패와 득실 마진 플러스 134점의 탄탄한 지표를 자랑하지만 최근 일정에서는 승패를 번갈아 하며 주춤한 양상입니다. 토론토 랩터스를 상대로 98대93 승리를 거두기도 했으나 휴스턴 록케츠전 패배 등 안정감을 완전히 유지하지는 못하고 있습니다. 득점력 측면에서 평균 98점대를 기록하며 공수 균형을 맞추려 애쓰고 있으나 접전 상황에서의 집중력이 다소 아쉽게 다가옵니다. 이번 경기를 통해 홈에서의 집중력을 끌어올리고 다시 상위권의 위력을 증명해야 하는 과제를 안고 있습니다."
+awayAnalysis: "댈러스 매버릭스는 앞선 10경기에서 4승 6패로 승률 40%를 기록했고 다소 굴곡 있는 전력을 드러내고 있습니다. 현재 리그순위 10위로 7승 5패와 득실 마진 플러스 12점을 기록하며 중위권 도약을 노리고 있습니다. 인디애나 페이서스와의 경기에서 121대105로 승리하는 등 공격력이 폭발하는 모습을 보이기도 했으나 미네소타 팀버울브스전 대패처럼 수비 집중력이 흔들릴 때의 기복이 존재합니다. 맥스 크리스티와 데릭 라이블리 이세 등 주요 선수들의 부상 공백이 있어 로테이션 운영에 부담을 안고 경기에 임하게 됩니다. 원정 길에서 상대 수비를 어떻게 공략하느냐가 이번 승부의 중요한 열쇠가 될 것으로 보입니다."
+homePower: "현재 리그순위 1위의 높은 위치와 달리 최근 14경기 승률은 50%로 고점 대비 주춤함|탄탄한 득실 마진 지표에 비해 접전 상황에서의 마무리 집중력은 다소 기복을 보임|결장자 공백이 전혀 없어 베스트 전력을 온전히 가동할 수 있는 안정적인 기반 마련|평균 98점대의 득점력을 바탕으로 홈 경기에서 안정적인 공수 밸런스를 추구함|상대적으로 높지 않은 원정팀의 수비 약점을 파고들어 흐름을 가져오려 시도함"
+awayPower: "리그순위 10위의 지표이나 최근 10경기 평균 99점대를 넘는 공격 폭발력을 지님|주요 선수들의 부상 이탈로 인해 로테이션 운영과 수비 조직력에 부담이 가중됨|인디애나 페이서스전 대승처럼 흐름을 타면 상대를 압도하는 저력을 보여줌|대패한 경기들에서 나타난 수비 불안 요소를 얼마나 보완하느냐가 승패를 가름|중위권 도약을 위해 원정 경기에서 강한 집중력과 반등을 이뤄내야 할 시점임"
+h2h: '[]'
+summary: "보스턴 셀틱스는 리그순위 1위의 우수한 지표를 지니고 있으나 최근 14경기에서 승률 50%를 기록하며 다소 주춤한 흐름을 보이고 있습니다. 반면 댈러스 매버릭스는 리그순위 10위에 위치해 있으며 여러 부상 공백 속에서도 평균 99점대를 기록하는 공격 집중력을 발휘하고 있습니다. 양 팀의 전력과 최근 경기 흐름을 종합해 볼 때 댈러스 매버릭스가 원정의 부담을 극복하고 경기의 주도권을 잡으며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.12","home":"토론토 랩터스","away":"보스턴 셀틱스","score":"93-98","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109743-2026-11-12-toronto-raptors/"},{"date":"26.11.03","home":"휴스턴 로키츠","away":"보스턴 셀틱스","score":"109-93","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110210-2026-11-03-houston-rockets/"},{"date":"26.10.24","home":"보스턴 셀틱스","away":"뉴욕 닉스","score":"107-103","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102302-2026-10-24-boston-celtics/"},{"date":"26.10.21","home":"디트로이트 피스톤스","away":"보스턴 셀틱스","score":"121-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102008-2026-10-21-detroit-pistons/"},{"date":"26.07.19","home":"올랜도 매직","away":"보스턴 셀틱스","score":"103-97","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-504363-2026-07-19-orlando-magic/"}]'
+awayRecent: '[{"date":"26.11.13","home":"미네소타 팀버울브스","away":"댈러스 매버릭스","score":"133-94","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109753-2026-11-13-minnesota-timberwolves/"},{"date":"26.11.03","home":"댈러스 매버릭스","away":"새크라멘토 킹스","score":"100-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110206-2026-11-03-dallas-mavericks/"},{"date":"26.10.25","home":"댈러스 매버릭스","away":"샌안토니오 스퍼스","score":"106-122","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102406-2026-10-25-dallas-mavericks/"},{"date":"26.10.24","home":"인디애나 페이서스","away":"댈러스 매버릭스","score":"105-121","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102311-2026-10-24-indiana-pacers/"},{"date":"26.10.22","home":"휴스턴 로키츠","away":"댈러스 매버릭스","score":"128-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102110-2026-10-22-houston-rockets/"}]'
+injuryHome: "없음"
+injuryAway: "Max Christie(염좌)|Dereck Lively II(수술)|Tarik Biberovic(염증)|Sergio de Larrea(긴장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "댈러스 매버릭스"
+pickWinResult: "승"
+pickHandicapTeam: "댈러스 매버릭스"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "199.5"
+pickOuDirection: "언더"
+---

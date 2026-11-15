@@ -1,0 +1,37 @@
+---
+title: "토론토 랩터스 vs 뉴욕 닉스 농구분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-15T23:00:00.000Z
+description: "토론토 랩터스 vs 뉴욕 닉스 농구분석: 양 팀의 이번 맞대결은 전력 누수 상황과 최근 흐름 측면에서 흥미로운 양상을 띠고 있습니다. 홈팀 토론토 랩터스는 주요 선수들… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109774-2026-11-16-toronto-raptors"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "토론토 랩터스"
+awayTeam: "뉴욕 닉스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/28_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/18_300300.png"
+homeAnalysis: "토론토 랩터스는 앞선 15경기에서 8승 7패로 승률 53%를 기록했고 안정적인 경기력을 다지기 위해 노력하고 있습니다. 현재 리그순위 8위로 5승 7패를 기록 중이며 득실 마진에서 소폭의 플러스 행진을 이어가는 중입니다. 스코티 반즈와 카와이 레너드 같은 주요 선수들의 장기 결장 공백이 존재하지만 가용 자원들을 바탕으로 전력 누수를 메우려 애쓰고 있습니다. 최근 치른 일정들에서는 기복을 보이기도 했으나 홈 경기 특유의 집중력을 발휘하며 반등의 발판을 마련하는 모습입니다. 공수 양면에서 짜임새를 더해간다면 상위권 팀들을 상대로도 충분히 경쟁력을 발휘할 것으로 기대됩니다."
+awayAnalysis: "뉴욕 닉스는 앞선 27경기에서 17승 10패로 승률 63%를 기록했고 시즌 초반부터 탄탄한 흐름을 유지해 왔습니다. 현재 리그순위 6위로 6승 6패를 기록 중이며 탄탄한 득실 마진을 통해 공수 균형이 우수함을 증명하고 있습니다. 선수단 내 특별한 부상 이탈자가 없어 온전한 전력을 가동할 수 있다는 점이 큰 강점으로 꼽힙니다. 다만 최근 몇 차례 경기에서는 승부처에서의 집중력 난조로 인해 아쉬운 패배를 허용하며 다소 주춤한 양상을 보이고 있습니다. 원정 경기에서 다시금 승수를 쌓기 위해서는 초반 수비 집중력을 끌어올리는 것이 무엇보다 중요합니다."
+homePower: "주력 자원들의 공백 속에서도 홈 경기 집중력은 유지됨|득실 마진플러스(+17.0) 기록하며 공수 균형 양호함|최근 10경기 평균 득점 105.5점으로 꾸준한 공격력 보임|리그순위 8위의 위치에서 상위권 도약을 위한 반등 조짐 보임|가용 로테이션의 유연한 활용으로 전력 누수 최소화 검증됨"
+awayPower: "부상자 없는 온전한 전력으로 안정적인 로테이션 운영 가능함|리그순위 6위의 탄탄한 기본 전력과 우수한 득실 마진 보유함|최근 흐름은 다소 주춤하나 원정에서 집중력 회복 필요성이 큼|안정적인 수비 기반 위에 빠른 공수 전환 능력이 돋보임|접전 상황에서 베테랑들의 노련한 경기 운영 능력이 기대됨"
+h2h: '[]'
+summary: "양 팀의 이번 맞대결은 전력 누수 상황과 최근 흐름 측면에서 흥미로운 양상을 띠고 있습니다. 홈팀 토론토 랩터스는 주요 선수들의 공백 속에서도 홈에서 탄력 있는 경기를 펼치려 하며, 원정팀 뉴욕 닉스는 부상자 없는 온전한 전력을 바탕으로 원정 승수를 노리고 있습니다. 두 팀의 리그순위와 최근 득실 흐름을 종합해 볼 때, 홈 이점을 안고 경기에 임하는 토론토 랩터스가 좀 더 우세한 경기를 풀어갈 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.11.13","home":"필라델피아 76ers","away":"토론토 랩터스","score":"123-112","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109751-2026-11-13-philadelphia-76ers/"},{"date":"26.11.12","home":"토론토 랩터스","away":"보스턴 셀틱스","score":"93-98","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109743-2026-11-12-toronto-raptors/"},{"date":"26.11.03","home":"LA 클리퍼스","away":"토론토 랩터스","score":"118-125","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110212-2026-11-03-la-clippers/"},{"date":"26.10.26","home":"미네소타 팀버울브스","away":"토론토 랩터스","score":"117-94","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102516-2026-10-26-minnesota-timberwolves/"},{"date":"26.10.24","home":"워싱턴 위저즈","away":"토론토 랩터스","score":"102-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102327-2026-10-24-washington-wizards/"}]'
+awayRecent: '[{"date":"26.11.14","home":"인디애나 페이서스","away":"뉴욕 닉스","score":"106-104","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109755-2026-11-14-indiana-pacers/"},{"date":"26.11.12","home":"뉴욕 닉스","away":"클리블랜드 캐벌리어스","score":"107-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109742-2026-11-12-new-york-knicks/"},{"date":"26.11.03","home":"뉴욕 닉스","away":"브루클린 네츠","score":"103-90","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110218-2026-11-03-new-york-knicks/"},{"date":"26.10.26","home":"뉴욕 닉스","away":"올랜도 매직","score":"102-111","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102518-2026-10-26-new-york-knicks/"},{"date":"26.10.24","home":"보스턴 셀틱스","away":"뉴욕 닉스","score":"107-103","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102302-2026-10-24-boston-celtics/"}]'
+injuryHome: "Nate Bittle (골절) | Scottie Barnes (부상) | Kevin McCullar Jr. (부상 의심) | Kawhi Leonard (염증)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "토론토 랩터스"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 랩터스"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "208.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "LA 클리퍼스 vs 샬럿 호네츠 농구분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-15T21:30:00.000Z
+description: "LA 클리퍼스 vs 샬럿 호네츠 농구분석: LA 클리퍼스는 홈 코트의 이점과 최근 접전 승리 경험을 바탕으로 경기를 주도할 것으로 보입니다. 샬럿 호네츠는 원정에서의 기… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109771-2026-11-16-la-clippers"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "LA 클리퍼스"
+awayTeam: "샬럿 호네츠"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/12_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/30_300300.png"
+homeAnalysis: "LA 클리퍼스는 앞선 10경기에서 4승 6패로 승률 40%를 기록했고, 이를 바탕으로 홈 경기에서 집중력을 발휘하는 모습을 보여주고 있습니다. 현재 리그순위 13위로 3승 8패를 기록 중이지만 득실차에서 나타나듯 접전 상황을 이겨내려는 의지를 다지고 있습니다. 최근 오클라호마시티 썬더를 상대로 113대 112 승리를 거두며 반등의 발판을 마련했습니다. 다만 수비 집중력에서 다소 아쉬움을 보인 경기도 있었기에 안정적인 공수 조화가 필요한 시점입니다. 홈 코트의 이점을 살려 전력을 다진다면 이번 경기에서도 좋은 흐름을 이어갈 것으로 기대됩니다."
+awayAnalysis: "샬럿 호네츠는 앞선 10경기에서 3승 7패로 승률 30%를 기록했고, 원정 길에서 고전하는 양상을 보이고 있습니다. 현재 리그순위 11위로 4승 8패를 기록하고 있으며 득실 마진에서 약점을 드러내고 있습니다. 직전 피닉스 선즈와의 경기에서 101대 96으로 패하며 연승 흐름을 이어가지 못한 아쉬움이 있습니다. 원정 경기에서의 기복을 줄이고 공격 효율성을 높이는 것이 급선무로 꼽힙니다. 순위상으로는 상위 도약을 위해 이번 경기에서 집중력을 발휘해야 하는 상황입니다."
+homePower: "홈 코트 이점을 살린 접전 승리 경험 풍부함|오클라호마전 승리로 상승세 전환 계기 마련함|리그순위 대비 탄탄한 홈 공격력 검증됨|주요 선수 이탈 속에서도 전력 유지에 집중함|득실차 극복을 위한 수비 안정화가 핵심임"
+awayPower: "원정 경기에서 드러나는 공수 기복 극복 필요함|피닉스전 선전에도 아쉬운 마무리 노출됨|리그순위 도약을 위한 반등의 계기가 절실함|원정 득점력 회복이 승패를 가를 요인임|수비 집중력 유지로 실점 최소화가 과제임"
+h2h: '[]'
+summary: "LA 클리퍼스는 홈 코트의 이점과 최근 접전 승리 경험을 바탕으로 경기를 주도할 것으로 보입니다. 샬럿 호네츠는 원정에서의 기복을 줄이고 수비 집중력을 높여 반등을 노려야 하는 상황입니다. 전력 비교와 최근 흐름을 종합해 볼 때, LA 클리퍼스가 경기 운영에서 우위를 점하며 승리에 가까워질 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.14","home":"LA 클리퍼스","away":"오클라호마시티 썬더","score":"113-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109763-2026-11-14-la-clippers/"},{"date":"26.11.03","home":"LA 클리퍼스","away":"토론토 랩터스","score":"118-125","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110212-2026-11-03-la-clippers/"},{"date":"26.10.26","home":"오클라호마시티 썬더","away":"LA 클리퍼스","score":"108-101","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102525-2026-10-26-oklahoma-city-thunder/"},{"date":"26.10.24","home":"LA 레이커스","away":"LA 클리퍼스","score":"125-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102313-2026-10-24-los-angeles-lakers/"},{"date":"26.10.22","home":"LA 클리퍼스","away":"새크라멘토 킹스","score":"121-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102112-2026-10-22-la-clippers/"}]'
+awayRecent: '[{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네츠","score":"101-96","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109754-2026-11-13-phoenix-suns/"},{"date":"26.11.03","home":"샬럿 호네츠","away":"디트로이트 피스톤스","score":"91-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110230-2026-11-03-charlotte-hornets/"},{"date":"26.10.25","home":"샬럿 호네츠","away":"마이애미 히트","score":"115-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102430-2026-10-25-charlotte-hornets/"},{"date":"26.10.24","home":"샬럿 호네츠","away":"애틀랜타 호크스","score":"81-128","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102330-2026-10-24-charlotte-hornets/"},{"date":"26.10.22","home":"브루클린 네츠","away":"샬럿 호네츠","score":"103-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102117-2026-10-22-brooklyn-nets/"}]'
+injuryHome: "Brandon Ingram (수술) | Yanic Konan Niederhauser (수술) | Bradley Beal (염증) | Jordan Miller (수술)"
+injuryAway: "Kon Knueppel (염증) | Dennis Schroder (염증)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 클리퍼스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 클리퍼스"
+pickHandicapValue: "-15.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "207.5"
+pickOuDirection: "오버"
+---

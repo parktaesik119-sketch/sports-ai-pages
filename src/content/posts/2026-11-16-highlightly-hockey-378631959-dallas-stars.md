@@ -1,0 +1,37 @@
+---
+title: "댈러스 스타스 vs 플로리다 팬더스 하키분석·승부예측 (11월 16일) - 픽천국"
+date: 2026-11-16T01:00:00.000Z
+description: "댈러스 스타스 vs 플로리다 팬더스 하키분석: 댈러스 스타스와 플로리다 팬더스가 맞붙는 이번 경기는 양 팀 모두 최근 10경기에서 6승을 기록하며 비슷한 상승세를 타고 있어… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378631959-2026-11-16-dallas-stars"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "댈러스 스타스"
+awayTeam: "플로리다 팬더스"
+homeLogo: "https://highlightly.net/hockey/images/teams/580315.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/582868.png"
+homeAnalysis: "댈러스 스타스는 앞선 26경기에서 14승 12패로 승률 54%를 기록했고 안정적인 경기력을 다지는 데 주력하고 있습니다. 최근 치른 10경기 흐름을 살펴보면 6승 4패를 거두며 비교적 양호한 성적을 이어가는 중입니다. 평균 득점 수치는 다소 기복을 보이고 있으나 공격 전개 과정에서 집중력을 발휘하는 모습이 종종 눈에 띕니다. 수비 블록에서 집중력이 흔들릴 때 대량 실점을 허용하는 약점이 있어 이 부분을 보완하는 것이 중요합니다. 홈 경기 환경에서는 특유의 조직력이 살아나는 경향이 있어 이번 승부에서도 기대를 모으고 있습니다."
+awayAnalysis: "플로리다 팬더스는 앞선 23경기에서 12승 11패로 승률 52%를 기록했고 팽팽한 균형 속에서 상위권 도약을 노리고 있습니다. 최근 10경기 성적 역시 6승 4패로 준수한 페이스를 유지하며 꾸준한 득점력을 과시하는 중입니다. 원정 일정에서도 주눅 들지 않고 활발한 공격을 전개하여 상대를 압박하는 성향이 돋보입니다. 다만 원정 경기 중반 이후 수비 집중력이 다소 떨어지는 순간이 발생하여 아쉬움을 남기기도 했습니다. 전반적인 득점 생산 능력이 탄탄한 만큼 이번 맞대결에서도 자신감 있는 플레이를 보여줄 것으로 보입니다."
+homePower: "최근 10경기 6승을 거두며 흐름 자체는 안정적임|평균 2점대 중반의 득점력 속에서 집중력 회복이 관건임|수비 집중력이 흔들릴 때 대량 실점 허용하는 패턴이 돋보임|홈 경기 환경에서 조직적인 플레이가 살아나는 강점이 있음|공수 균형을 유지하는 경기 운영 능력이 중요하게 작용함"
+awayPower: "원정 경기에서도 활발한 공격 전개로 상대를 압박함|최근 10경기 6승을 기록하며 꾸준한 페이스를 유지 중임|득점 생산력이 안정적이어서 전력의 핵심으로 평가됨|경기 중반 이후 수비 집중력 유지 여부가 주요 변수임|탄탄한 화력을 바탕으로 주도권을 잡으려는 성향이 뚜렷함"
+h2h: '[]'
+summary: "댈러스 스타스와 플로리다 팬더스가 맞붙는 이번 경기는 양 팀 모두 최근 10경기에서 6승을 기록하며 비슷한 상승세를 타고 있어 흥미진진한 승부가 예상됩니다. 댈러스 스타스는 홈의 이점을 살려 탄탄한 조직력으로 경기를 풀어가려 할 것이고, 플로리다 팬더스는 꾸준한 득점력을 앞세워 원정에서 주도권을 잡으려 할 것입니다. 양 팀의 전력과 최근 흐름을 종합해 볼 때 팽팽한 공방전 끝에 플로리다 팬더스가 미세한 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.13","home":"댈러스 스타스","away":"위니펙 제츠","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614088-2026-11-13-dallas-stars/"},{"date":"26.11.08","home":"댈러스 스타스","away":"산호세 샤크스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378584303-2026-11-08-dallas-stars/"},{"date":"26.11.06","home":"콜럼버스 블루재킷츠","away":"댈러스 스타스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378568985-2026-11-06-columbus-blue-jackets/"},{"date":"26.11.04","home":"워싱턴 캐피털스","away":"댈러스 스타스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378553667-2026-11-04-washington-capitals/"},{"date":"26.11.01","home":"댈러스 스타스","away":"콜럼버스 블루재킷츠","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378544306-2026-11-01-dallas-stars/"}]'
+awayRecent: '[{"date":"26.11.13","home":"플로리다 팬더스","away":"디트로이트 레드윙스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378609833-2026-11-13-florida-panthers/"},{"date":"26.11.11","home":"콜럼버스 블루재킷츠","away":"플로리다 팬더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378598770-2026-11-11-columbus-blue-jackets/"},{"date":"26.11.09","home":"보스턴 브루인스","away":"플로리다 팬더스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378588558-2026-11-09-boston-bruins/"},{"date":"26.11.08","home":"워싱턴 캐피털스","away":"플로리다 팬더스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378578346-2026-11-08-washington-capitals/"},{"date":"26.11.05","home":"플로리다 팬더스","away":"시카고 블랙호크스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378563879-2026-11-05-florida-panthers/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "플로리다 팬더스"
+pickWinResult: "승"
+pickHandicapTeam: "플로리다 팬더스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---
