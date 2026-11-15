@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.15","home":"앙골라","away":"남수단","score":"
 awayRecent: '[{"date":"26.11.15","home":"앙골라","away":"남수단","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040216-2026-11-15-angola/"},{"date":"26.10.07","home":"앙골라","away":"말라위","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6040214-2026-10-07-angola/"},{"date":"26.09.26","home":"이집트","away":"앙골라","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6040212-2026-09-26-egypt/"},{"date":"26.06.10","home":"앙골라","away":"중앙아프리카 공화국","score":"3-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-1543831-2026-06-10-angola/"},{"date":"26.06.06","home":"앙골라","away":"모리타니","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-1548435-2026-06-06-angola/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Majak Mawith (GK)|https://images.fotmob.com/image_resources/playerimages/970499.png\",\"Atendele Mawa (DF)|https://images.fotmob.com/image_resources/playerimages/1453480.png\",\"Rehan Angier (DF)|https://images.fotmob.com/image_resources/playerimages/1205647.png\",\"Teng Kuol (FW)|https://images.fotmob.com/image_resources/playerimages/1824950.png\",\"Bangasi Bakasoro (MF)|https://images.fotmob.com/image_resources/playerimages/1454593.png\",\"Jackson Dwang (MF)|https://images.fotmob.com/image_resources/playerimages/1540436.png\",\"Maker Maker (MF)|https://images.fotmob.com/image_resources/playerimages/2280217.png\",\"Kur Kur (MF)|https://images.fotmob.com/image_resources/playerimages/1787014.png\",\"Yian Gatbel (MF)|https://images.fotmob.com/image_resources/playerimages/2456385.png\",\"Valentino Yuel (FW)|https://images.fotmob.com/image_resources/playerimages/1101297.png\",\"Godfrey Debele (MF)|https://images.fotmob.com/image_resources/playerimages/2280226.png\"]"
+awayLineup: "[\"Hugo Marques (GK)|https://images.fotmob.com/image_resources/playerimages/115494.png\",\"Marsoni Sambu (DF)|https://images.fotmob.com/image_resources/playerimages/526553.png\",\"Kialonda Gaspar (DF)|https://images.fotmob.com/image_resources/playerimages/1206806.png\",\"Jonathan Buatu (DF)|https://images.fotmob.com/image_resources/playerimages/201102.png\",\"Sandro Cruz (DF)|https://images.fotmob.com/image_resources/playerimages/1045565.png\",\"Gilberto (FW)|https://images.fotmob.com/image_resources/playerimages/1422740.png\",\"Manuel Keliano (MF)|https://images.fotmob.com/image_resources/playerimages/1453679.png\",\"Maestro (MF)|https://images.fotmob.com/image_resources/playerimages/1525007.png\",\"Pedro Bondo (DF)|https://images.fotmob.com/image_resources/playerimages/1230671.png\",\"Mabululu (FW)|https://images.fotmob.com/image_resources/playerimages/487067.png\",\"Milson (MF)|https://images.fotmob.com/image_resources/playerimages/1158225.png\"]"
+homeFormation: "4-2-3-1"
+awayFormation: "4-4-2"
+homeCoach: "Nicolas Dupuis|https://images.fotmob.com/image_resources/playerimages/941868.png"
+awayCoach: "Aliou Cissé|https://images.fotmob.com/image_resources/playerimages/31473.png"
 pickWinTeam: "앙골라"
 pickWinResult: "무승부"
 pickHandicapTeam: ""
