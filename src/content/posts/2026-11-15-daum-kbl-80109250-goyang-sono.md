@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.12","home":"한국가스공사","away":"고양 소�
 awayRecent: '[{"date":"26.11.08","home":"서울 SK","away":"DB","score":"81-65","result":"🔴패"},{"date":"26.11.07","home":"DB","away":"서울 삼성","score":"84-76","result":"🟢승"},{"date":"26.11.01","home":"창원 LG","away":"DB","score":"98-104","result":"🟢승"},{"date":"26.10.31","home":"부산 KCC","away":"DB","score":"90-74","result":"🔴패"},{"date":"26.10.28","home":"대구 한국가스공사","away":"DB","score":"95-90","result":"🔴패"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"FD 정희재(9)|https://kbl.or.kr/files/kbl/players-photo/290529.png\",\"GD 김진유(55)|https://kbl.or.kr/files/kbl/players-photo/290997.png\",\"GD 이정현(6)|https://kbl.or.kr/files/kbl/players-photo/291488.png\",\"C 자니 오브라이언트(0)|https://kbl.or.kr/files/kbl/players-photo/291500.png\",\"FD 케빈 켐바오(28)|https://kbl.or.kr/files/kbl/players-photo/291778.png\"]"
+awayLineup: "[\"GD 이정현(3)|https://kbl.or.kr/files/kbl/players-photo/290381.png\",\"FD 정효근(12)|https://kbl.or.kr/files/kbl/players-photo/290790.png\",\"GD 이선 알바노(17)|https://kbl.or.kr/files/kbl/players-photo/291511.png\",\"FD 레이션 해먼즈(22)|https://kbl.or.kr/files/kbl/players-photo/291698.png\",\"FD 이유진(6)|https://kbl.or.kr/files/kbl/players-photo/291850.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
