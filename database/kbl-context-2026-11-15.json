@@ -1,126 +1,5 @@
 [
   {
-    "home": "Goyang Sono",
-    "away": "Wonju DB",
-    "date": "2026-11-15T05:00:00.000Z",
-    "league": "KBL",
-    "gmkey": "S49G01N70",
-    "stadium": "고양소노아레나",
-    "recentForm": {
-      "home": [
-        {
-          "date": "2026-11-12",
-          "home": "대구 한국가스공사",
-          "away": "Goyang Sono",
-          "homeScore": 87,
-          "awayScore": 88
-        },
-        {
-          "date": "2026-11-10",
-          "home": "울산 현대모비스",
-          "away": "Goyang Sono",
-          "homeScore": 79,
-          "awayScore": 86
-        },
-        {
-          "date": "2026-11-07",
-          "home": "창원 LG",
-          "away": "Goyang Sono",
-          "homeScore": 86,
-          "awayScore": 85
-        },
-        {
-          "date": "2026-11-03",
-          "home": "부산 KCC",
-          "away": "Goyang Sono",
-          "homeScore": 105,
-          "awayScore": 102
-        },
-        {
-          "date": "2026-11-01",
-          "home": "Goyang Sono",
-          "away": "수원 KT",
-          "homeScore": 96,
-          "awayScore": 103
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-11-13",
-          "home": "Wonju DB",
-          "away": "수원 KT",
-          "homeScore": 94,
-          "awayScore": 83
-        },
-        {
-          "date": "2026-11-08",
-          "home": "서울 SK",
-          "away": "Wonju DB",
-          "homeScore": 81,
-          "awayScore": 65
-        },
-        {
-          "date": "2026-11-07",
-          "home": "Wonju DB",
-          "away": "서울 삼성",
-          "homeScore": 84,
-          "awayScore": 76
-        },
-        {
-          "date": "2026-11-01",
-          "home": "창원 LG",
-          "away": "Wonju DB",
-          "homeScore": 98,
-          "awayScore": 104
-        },
-        {
-          "date": "2026-10-31",
-          "home": "부산 KCC",
-          "away": "Wonju DB",
-          "homeScore": 90,
-          "awayScore": 74
-        }
-      ]
-    },
-    "headToHead": [
-      {
-        "date": "2026-10-04",
-        "home": "원주 DB",
-        "away": "Goyang Sono",
-        "homeScore": 95,
-        "awayScore": 86
-      },
-      {
-        "date": "2026-03-28",
-        "home": "Goyang Sono",
-        "away": "원주 DB",
-        "homeScore": 81,
-        "awayScore": 92
-      },
-      {
-        "date": "2026-03-07",
-        "home": "원주 DB",
-        "away": "Goyang Sono",
-        "homeScore": 81,
-        "awayScore": 95
-      },
-      {
-        "date": "2026-01-15",
-        "home": "Goyang Sono",
-        "away": "원주 DB",
-        "homeScore": 90,
-        "awayScore": 77
-      },
-      {
-        "date": "2025-12-27",
-        "home": "Goyang Sono",
-        "away": "원주 DB",
-        "homeScore": 92,
-        "awayScore": 98
-      }
-    ]
-  },
-  {
     "home": "Changwon LG",
     "away": "Suwon KT",
     "date": "2026-11-15T07:30:00.000Z",
@@ -493,6 +372,13 @@
     "recentForm": {
       "home": [
         {
+          "date": "2026-11-15",
+          "home": "Goyang Sono",
+          "away": "Wonju DB",
+          "homeScore": 89,
+          "awayScore": 83
+        },
+        {
           "date": "2026-11-13",
           "home": "Wonju DB",
           "away": "수원 KT",
@@ -519,13 +405,6 @@
           "away": "Wonju DB",
           "homeScore": 98,
           "awayScore": 104
-        },
-        {
-          "date": "2026-10-31",
-          "home": "부산 KCC",
-          "away": "Wonju DB",
-          "homeScore": 90,
-          "awayScore": 74
         }
       ],
       "away": [
