@@ -1,0 +1,37 @@
+---
+title: "보스턴 셀틱스 vs 올랜도 매직 농구분석·승부예측 (11월 17일) - 픽천국"
+date: 2026-11-17T00:00:00.000Z
+description: "보스턴 셀틱스 vs 올랜도 매직 농구분석: 양 팀 모두 최근 연승을 기록하며 전력이 상승세에 있으나 화력 집중력 면에서는 원정팀이 앞서 있습니다. 올랜도 매직은 최근 1… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109778-2026-11-17-boston-celtics"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "보스턴 셀틱스"
+awayTeam: "올랜도 매직"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/2_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/19_300300.png"
+homeAnalysis: "보스턴 셀틱스는 앞선 15경기에서 8승 7패로 승률 53%를 기록했고 최근 2연승을 달리며 안정적인 흐름을 되찾고 있습니다. 직전 경기인 달라스 매버릭스전에서는 131득점을 몰아치는 폭발력을 선보이며 화력 면에서도 강점을 증명했습니다. 최근 10경기 평균 득점이 98.1점으로 나타나며 기복 없는 득점권 유지를 위해 노력하는 모습이 돋보입니다. 안방에서 펼쳐지는 경기인 만큼 수비 조직력을 바탕으로 상대의 공세를 억제하는 운영이 기대됩니다. 주전 선수들의 고른 활약이 이어지고 있어 경기 중반 이후의 집중력 싸움에서 밀리지 않을 것으로 보입니다."
+awayAnalysis: "올랜도 매직은 앞선 16경기에서 9승 7패로 승률 56%를 기록했고 최근 10경기에서 7승을 수확하며 강력한 상승세를 이어가고 있습니다. 최근 10경기 평균 106.0득점을 기록하며 보스턴 셀틱스보다 한층 날카로운 공격력을 과시하고 있는 점이 특징입니다. 지난 맞대결에서도 승리를 거둔 기억이 있어 심리적인 우위를 점한 상태로 경기에 임할 수 있습니다. 유타 재즈와 밀워키 벅스를 상대로 연속 승리를 거두며 전력의 짜임새가 매우 단단해진 모습입니다. 원정 경기임에도 불구하고 꾸준한 득점 생산 능력을 보여주고 있어 경기 주도권을 잡기에 유리한 조건입니다."
+homePower: "131득점 폭발하며 화력의 건재함을 확실히 각인시킴|최근 10경기 6승으로 승률 끌어올리며 상승 궤도 진입함|홈 경기 수비 집중력 유지하며 상대 실책 유도에 능함|주전과 벤치의 조화로운 가담으로 안정적 로테이션 보여줌|경기 초반 주도권 확보 시 무서운 기세로 몰아붙임"
+awayPower: "최근 10경기 평균 106득점 기록하며 압도적 화력 과시함|지난 맞대결 승리로 보스턴 셀틱스 상대 전술적 우위 확보함|최근 10경기 7승의 가파른 상승세로 팀 분위기 최고조임|원정에서도 흔들림 없는 야투 성공률로 득점력 유지함|밀워키 등 강팀 상대 승리로 큰 경기 운영 능력 검증됨"
+h2h: '[{"date":"26.07.19","home":"올랜도 매직","away":"보스턴 셀틱스","score":"103-97","link":"https://pick79.com/posts/detail/analyze-504363-2026-07-19-orlando-magic/"}]'
+summary: "양 팀 모두 최근 연승을 기록하며 전력이 상승세에 있으나 화력 집중력 면에서는 원정팀이 앞서 있습니다. 올랜도 매직은 최근 10경기에서 높은 평균 득점을 기록하며 공격적인 운영에서 확실한 강점을 보여주고 있습니다. 보스턴 셀틱스 역시 홈에서 저력을 보여주지만 지난 맞대결 결과와 최근의 득점 흐름을 고려할 때 원정팀이 경기를 유리하게 풀어갈 가능성이 높습니다. 전반적인 공수 밸런스와 최근 승률 면에서 근소하게 앞서 있는 원정팀의 우세가 예상됩니다."
+homeRecent: '[{"date":"26.11.16","home":"보스턴 셀틱스","away":"댈러스 매버릭스","score":"131-94","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109773-2026-11-16-boston-celtics/"},{"date":"26.11.12","home":"토론토 랩터스","away":"보스턴 셀틱스","score":"93-98","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109743-2026-11-12-toronto-raptors/"},{"date":"26.11.03","home":"휴스턴 로키츠","away":"보스턴 셀틱스","score":"109-93","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110210-2026-11-03-houston-rockets/"},{"date":"26.10.24","home":"보스턴 셀틱스","away":"뉴욕 닉스","score":"107-103","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102302-2026-10-24-boston-celtics/"},{"date":"26.10.21","home":"디트로이트 피스톤스","away":"보스턴 셀틱스","score":"121-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102008-2026-10-21-detroit-pistons/"}]'
+awayRecent: '[{"date":"26.11.14","home":"올랜도 매직","away":"밀워키 벅스","score":"107-99","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109756-2026-11-14-orlando-magic/"},{"date":"26.11.12","home":"유타 재즈","away":"올랜도 매직","score":"108-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109748-2026-11-12-utah-jazz/"},{"date":"26.11.03","home":"올랜도 매직","away":"워싱턴 위저즈","score":"94-103","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110219-2026-11-03-orlando-magic/"},{"date":"26.10.26","home":"뉴욕 닉스","away":"올랜도 매직","score":"102-111","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102518-2026-10-26-new-york-knicks/"},{"date":"26.10.24","home":"올랜도 매직","away":"미네소타 팀버울브스","score":"93-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102319-2026-10-24-orlando-magic/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "올랜도 매직"
+pickWinResult: "승"
+pickHandicapTeam: "올랜도 매직"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "208.5"
+pickOuDirection: "언더"
+---

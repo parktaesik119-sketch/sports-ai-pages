@@ -1,0 +1,37 @@
+---
+title: "워싱턴 위저즈 vs 멤피스 그리즐리 농구분석·승부예측 (11월 17일) - 픽천국"
+date: 2026-11-17T00:00:00.000Z
+description: "워싱턴 위저즈 vs 멤피스 그리즐리 농구분석: 멤피스 그리즐리가 최근 보여주고 있는 폭발적인 득점력과 안정적인 경기 운영 능력은 워싱턴 위저즈를 압도하기에 충분해 보입니다.… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109780-2026-11-17-washington-wizards"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "워싱턴 위저즈"
+awayTeam: "멤피스 그리즐리"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/27_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/29_300300.png"
+homeAnalysis: "워싱턴 위저즈은 앞선 11경기에서 6승 5패로 승률 55%를 기록했고 전반적으로 기복 있는 흐름을 보여주고 있습니다. 최근 2연패를 당하며 수비 조직력에서 허점을 노출했지만 이전 경기들에서 보여준 득점 집중력은 여전히 위협적인 요소입니다. 특히 외곽 지원이 원활하게 이루어지는 날에는 강팀을 상대로도 대등한 경기를 펼치며 승리를 따내는 저력을 갖추고 있습니다. 홈 경기에서는 평균 이상의 득점 생산력을 유지하고 있어 화력전 양상으로 경기를 풀어가는 능력이 돋보입니다. 이번 대결에서도 빠른 템포의 공격을 통해 상대의 빈틈을 공략하는 전략이 주효할 것으로 보입니다."
+awayAnalysis: "멤피스 그리즐리은 앞선 16경기에서 10승 6패로 승률 63%를 기록했고 최근 압도적인 공격력을 앞세워 상승세를 타고 있습니다. 최근 2경기에서 모두 120점 이상의 고득점을 올리며 상대 수비를 무력화시키는 폭발적인 화력을 과시하고 있습니다. 원정 경기임에도 불구하고 주력 선수들의 고른 활약 속에 공수 밸런스가 매우 안정적으로 유지되고 있는 점이 강점입니다. 최근 10경기 승률이 70%에 달할 정도로 경기 운영의 완성도가 높아졌으며 페인트 존 장악력 또한 뛰어난 상태입니다. 탄탄한 전력을 바탕으로 경기 초반부터 주도권을 잡고 밀어붙이는 힘이 매우 강력합니다."
+homePower: "최근 2연패 중이나 강팀 상대 승리 경험 보유함|홈에서 120점대 고득점 생산 가능한 잠재력 보임|실점 억제력보다는 화력전 양상에서 강점 드러남|패스 게임 통한 득점 분포가 고른 것이 특징임|경기 초반 주도권 확보 여부가 승패의 관건으로 보임"
+awayPower: "최근 2경기 평균 135점 이상 기록한 압도적 화력임|원정에서도 득점 생산력이 떨어지지 않는 꾸준함 보임|공수 전환 속도에서 상대를 압도하는 전력 갖춤|최근 10경기 승률 70%로 가파른 상승세 타는 중임|가드진의 안정적인 조율과 골밑 장악력이 돋보임"
+h2h: '[]'
+summary: "멤피스 그리즐리가 최근 보여주고 있는 폭발적인 득점력과 안정적인 경기 운영 능력은 워싱턴 위저즈를 압도하기에 충분해 보입니다. 워싱턴 위저즈 역시 홈에서 저력을 발휘할 수 있는 전력을 갖췄으나 최근 수비 집중력이 다소 저하되며 실점이 늘어난 점이 변수로 작용할 수 있습니다. 전반적인 전력의 안정감과 최근 흐름에서 확실한 우위를 점하고 있는 멤피스 그리즐리가 원정 경기임에도 불구하고 주도권을 유지하며 승리에 가까운 결과를 만들어낼 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.13","home":"워싱턴 위저즈","away":"디트로이트 피스톤스","score":"140-144","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109752-2026-11-13-washington-wizards/"},{"date":"26.11.12","home":"인디애나 페이서스","away":"워싱턴 위저즈","score":"114-101","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109741-2026-11-12-indiana-pacers/"},{"date":"26.11.03","home":"올랜도 매직","away":"워싱턴 위저즈","score":"94-103","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110219-2026-11-03-orlando-magic/"},{"date":"26.10.25","home":"시카고 불스","away":"워싱턴 위저즈","score":"120-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102404-2026-10-25-chicago-bulls/"},{"date":"26.10.24","home":"워싱턴 위저즈","away":"토론토 랩터스","score":"102-112","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102327-2026-10-24-washington-wizards/"}]'
+awayRecent: '[{"date":"26.11.15","home":"멤피스 그리즐리","away":"브루클린 네츠","score":"129-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109768-2026-11-15-memphis-grizzlies/"},{"date":"26.11.14","home":"뉴올리언스 펠리컨스","away":"멤피스 그리즐리","score":"111-142","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109757-2026-11-14-new-orleans-pelicans/"},{"date":"26.11.12","home":"멤피스 그리즐리","away":"덴버 너기츠","score":"118-123","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109747-2026-11-12-memphis-grizzlies/"},{"date":"26.11.03","home":"멤피스 그리즐리","away":"뉴올리언스 펠리컨스","score":"134-135","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110229-2026-11-03-memphis-grizzlies/"},{"date":"26.10.26","home":"새크라멘토 킹스","away":"멤피스 그리즐리","score":"112-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102523-2026-10-26-sacramento-kings/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "멤피스 그리즐리"
+pickWinResult: "승"
+pickHandicapTeam: "멤피스 그리즐리"
+pickHandicapValue: "-8.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---

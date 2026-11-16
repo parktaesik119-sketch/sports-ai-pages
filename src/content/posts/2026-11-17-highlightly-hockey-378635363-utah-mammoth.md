@@ -1,0 +1,37 @@
+---
+title: "유타 매머드 vs 밴쿠버 카넉스 하키분석·승부예측 (11월 17일) - 픽천국"
+date: 2026-11-17T02:30:00.000Z
+description: "유타 매머드 vs 밴쿠버 카넉스 하키분석: 유타 매머드는 최근 흐름이 다소 정체되어 있으나 공격적인 지표에서 밴쿠버 카넉스를 크게 앞서고 있어 유리한 고지를 선점할 것으… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378635363-2026-11-17-utah-mammoth"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "유타 매머드"
+awayTeam: "밴쿠버 카넉스"
+homeLogo: "/logos/utah-mammoth.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/597335.png"
+homeAnalysis: "유타 매머드는 앞선 30경기에서 14승 16패로 승률 47%를 기록했고 최근 다소 주춤한 흐름을 보이고 있지만 여전히 안방에서는 위협적인 전력을 갖추고 있습니다. 공격진의 유기적인 움직임이 돋보이며 경기당 평균 득점력이 높아 언제든 흐름을 바꿀 수 있는 잠재력을 보유하고 있습니다. 비록 수비에서 간헐적인 실책이 발생하고 있으나 상대적으로 약한 전력을 만났을 때 이를 압도하는 경기 운영 능력이 탁월합니다. 핵심 공격수들의 컨디션이 나쁘지 않아 경기 초반부터 강한 압박을 통해 주도권을 잡을 것으로 예상됩니다. 전반적인 공수 밸런스를 고려할 때 홈 팬들 앞에서 반등을 노릴 충분한 동기부여와 실력을 갖춘 상태로 보입니다."
+awayAnalysis: "밴쿠버 카넉스는 앞선 25경기에서 4승 21패로 승률 16%를 기록하며 힘든 여정을 이어가고 있으며 공수 불균형으로 인해 승수 쌓기에 어려움을 겪고 있습니다. 최근 경기들에서 수비진이 쉽게 무너지는 경향을 보이며 상대의 공세를 효과적으로 제어하지 못하는 점이 큰 약점으로 노출되었습니다. 공격에서도 마무리의 정교함이 떨어져 기회를 득점으로 연결하는 빈도가 낮으며 이는 전체적인 경기력 저하로 이어지고 있습니다. 원정 경기에서의 집중력 유지가 관건이지만 현재의 흐름으로는 상대의 파상공세를 버텨내기 쉽지 않아 보입니다. 전술적인 변화를 시도하고 있음에도 불구하고 실점 억제력이 회복되지 않아 어려운 승부가 예상됩니다."
+homePower: "최근 10경기 평균 3득점의 꾸준한 공격 효율 증명됨|수비 기복에도 불구하고 화력 대결에서 압도적 우위|홈 이점과 상대 전력 열세를 활용한 주도권 확보 유력|공격진의 빠른 전환 속도가 상대 수비 붕괴에 효과적임|연패 탈출을 위한 강한 동기부여가 경기력으로 투영됨"
+awayPower: "최근 10경기 1승 9패로 침체된 분위기가 전력에 반영됨|경기당 4실점 이상 허용하는 수비 조직력 붕괴 심각함|평균 득점 2점대에 머무는 공격 전개 부족이 한계로 작용|원정 경기 부담감으로 인한 초반 집중력 저하가 우려됨|전반적인 공수 밸런스 붕괴로 반등의 실마리 부족해 보임"
+h2h: '[]'
+summary: "유타 매머드는 최근 흐름이 다소 정체되어 있으나 공격적인 지표에서 밴쿠버 카넉스를 크게 앞서고 있어 유리한 고지를 선점할 것으로 보입니다. 밴쿠버 카넉스는 원정에서 수비 불안과 득점 가뭄이 동시에 겹치며 전반적인 전력이 크게 약화된 모습을 보여주고 있습니다. 홈팀의 강력한 화력이 상대의 헐거운 수비벽을 충분히 공략할 수 있을 것으로 판단되며 안정적인 경기 운영을 통해 유타 매머드가 승리를 거머쥘 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.15","home":"유타 매머드","away":"산호세 샤크스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378627704-2026-11-15-utah-mammoth/"},{"date":"26.11.13","home":"유타 매머드","away":"세인트루이스 블루스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614939-2026-11-13-utah-mammoth/"},{"date":"26.11.12","home":"베가스 골든나이츠","away":"유타 매머드","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378604727-2026-11-12-vegas-golden-knights/"},{"date":"26.11.08","home":"오타와 세너터스","away":"유타 매머드","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378581750-2026-11-08-ottawa-senators/"},{"date":"26.11.06","home":"몬트리올 캐네이디언스","away":"유타 매머드","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378571538-2026-11-06-montreal-canadiens/"}]'
+awayRecent: '[{"date":"26.11.14","home":"밴쿠버 카넉스","away":"뉴욕 레인저스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378616641-2026-11-14-vancouver-canucks/"},{"date":"26.11.10","home":"밴쿠버 카넉스","away":"필라델피아 플라이어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378594515-2026-11-10-vancouver-canucks/"},{"date":"26.11.08","home":"에드먼턴 오일러스","away":"밴쿠버 카넉스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378587707-2026-11-08-edmonton-oilers/"},{"date":"26.11.06","home":"위니펙 제츠","away":"밴쿠버 카넉스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574091-2026-11-06-winnipeg-jets/"},{"date":"26.11.04","home":"밴쿠버 카넉스","away":"애너하임 덕스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378562177-2026-11-04-vancouver-canucks/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "유타 매머드"
+pickWinResult: "승"
+pickHandicapTeam: "유타 매머드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

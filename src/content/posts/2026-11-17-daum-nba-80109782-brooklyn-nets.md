@@ -1,0 +1,37 @@
+---
+title: "브루클린 네츠 vs 필라델피아 76ers 농구분석·승부예측 (11월 17일) - 픽천국"
+date: 2026-11-17T00:30:00.000Z
+description: "브루클린 네츠 vs 필라델피아 76ers 농구분석: 최근 흐름에서 확실한 상승세를 타고 있는 필라델피아 76ers의 우세가 예상됩니다. 원정팀은 최근 경기마다 폭발적인 득점력을 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109782-2026-11-17-brooklyn-nets"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "브루클린 네츠"
+awayTeam: "필라델피아 76ers"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/17_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/20_300300.png"
+homeAnalysis: "브루클린 네츠는 앞선 14경기에서 6승 8패로 승률 43%를 기록했고 기복 있는 경기력을 보여주고 있습니다. 최근 멤피스 그리즐리스와의 경기에서 110-129로 패하며 수비에서 아쉬운 모습을 노출했습니다. 앞선 경기들 중 뉴올리언스 펠리컨스를 상대로 145득점을 기록하며 폭발력을 보여주기도 했으나 전반적인 안정감이 부족한 편입니다. 특히 실점이 많은 경기에서는 전력 유지에 어려움을 겪는 경향이 뚜렷하게 나타나고 있습니다. 홈 경기에서도 완벽한 주도권을 잡지 못하고 있어 이번 경기에서는 수비 집중력 회복이 가장 중요한 요소로 보입니다."
+awayAnalysis: "필라델피아 76ers은 앞선 21경기에서 11승 10패로 승률 52%를 기록하며 안정적인 전력을 유지하고 있습니다. 최근 인디애나 페이서스와의 맞대결에서 131-124로 승리하며 공격진의 날카로운 컨디션을 증명했습니다. 토론토 랩터스와 시카고 불스를 상대로도 연승을 거두며 최근 3연승의 가파른 상승세를 타고 있는 점이 돋보입니다. 경기당 득점력이 꾸준히 상승 곡선을 그리고 있어 화력 대결에서 확실한 우위를 점할 수 있는 팀입니다. 원정 경기에서도 특유의 집중력을 발휘하며 승수를 쌓고 있어 이번 대결에서도 자신감 있는 운영이 기대됩니다."
+homePower: "최근 5경기 중 4패 기록하며 수비 집중력 하락세 뚜렷함|폭발적인 득점력 보여준 경기도 있으나 기복 보완 시급함|홈 경기 이점에도 불구하고 실점 억제력 부족이 변수임|직전 경기 129실점 허용하며 백코트 수비 불안함 노출|특정 선수 의존도 낮추고 팀 전체의 공수 밸런스 필요함"
+awayPower: "최근 3연승 달성하며 팀 분위기와 전력 모두 최고조임|최근 3경기 모두 120득점 이상 기록한 공격력 압도적임|승률 50% 이상 유지하며 안정적인 승수 쌓기 능력 입증됨|공격 전개 속도와 야투 효율성 면에서 상대보다 우위임|고비 때마다 터지는 득점 지원으로 승부처 집중력 우수함"
+h2h: '[]'
+summary: "최근 흐름에서 확실한 상승세를 타고 있는 필라델피아 76ers의 우세가 예상됩니다. 원정팀은 최근 경기마다 폭발적인 득점력을 선보이며 연승을 이어가고 있는 반면, 브루클린 네츠는 수비 불안으로 인해 고전하는 모습이 잦습니다. 공격의 짜임새와 최근 승률 면에서 앞서 있는 필라델피아 76ers가 경기를 주도하며 유리한 결과를 가져올 가능성이 높습니다. 특히 외곽 지원과 안정적인 경기 운영 능력이 돋보이는 원정팀의 화력이 승부의 분수령이 될 것으로 보입니다."
+homeRecent: '[{"date":"26.11.15","home":"멤피스 그리즐리","away":"브루클린 네츠","score":"129-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109768-2026-11-15-memphis-grizzlies/"},{"date":"26.11.12","home":"뉴올리언스 펠리컨스","away":"브루클린 네츠","score":"111-145","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109744-2026-11-12-new-orleans-pelicans/"},{"date":"26.11.03","home":"뉴욕 닉스","away":"브루클린 네츠","score":"103-90","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110218-2026-11-03-new-york-knicks/"},{"date":"26.10.26","home":"브루클린 네츠","away":"인디애나 페이서스","score":"109-136","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102517-2026-10-26-brooklyn-nets/"},{"date":"26.10.25","home":"클리블랜드 캐벌리어스","away":"브루클린 네츠","score":"125-121","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102405-2026-10-25-cleveland-cavaliers/"}]'
+awayRecent: '[{"date":"26.11.16","home":"필라델피아 76ers","away":"인디애나 페이서스","score":"131-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109769-2026-11-16-philadelphia-76ers/"},{"date":"26.11.13","home":"필라델피아 76ers","away":"토론토 랩터스","score":"123-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109751-2026-11-13-philadelphia-76ers/"},{"date":"26.11.03","home":"필라델피아 76ers","away":"시카고 불스","score":"126-107","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110220-2026-11-03-philadelphia-76ers/"},{"date":"26.10.26","home":"필라델피아 76ers","away":"디트로이트 피스톤스","score":"93-106","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102520-2026-10-26-philadelphia-76ers/"},{"date":"26.10.25","home":"필라델피아 76ers","away":"밀워키 벅스","score":"127-116","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102420-2026-10-25-philadelphia-76ers/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 76ers"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 76ers"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 캐벌리어스 vs 시카고 불스 농구분석·승부예측 (11월 17일) - 픽천국"
+date: 2026-11-17T00:00:00.000Z
+description: "클리블랜드 캐벌리어스 vs 시카고 불스 농구분석: 전반적인 전력과 최근 흐름을 고려했을 때 홈팀이 경기를 주도할 가능성이 높습니다. 클리블랜드 캐벌리어스는 최근 득점력이 크게 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109779-2026-11-17-cleveland-cavaliers"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "클리블랜드 캐벌리어스"
+awayTeam: "시카고 불스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/5_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/4_300300.png"
+homeAnalysis: "클리블랜드 캐벌리어스는 앞선 23경기에서 9승 14패로 승률 39%를 기록했고 최근 공격 지표에서 눈에 띄는 상승세를 보이고 있습니다. 직전 경기에서 강팀을 상대로 세 자릿수 득점을 몰아치며 승리를 거둔 만큼 주축 선수들의 슛 감각이 상당히 올라온 상태입니다. 최근 10경기에서 6승을 챙기며 초반의 부진을 털어내고 안정적인 전력을 구축하고 있다는 점이 고무적입니다. 특히 안방에서 열린 맞대결에서도 승리한 경험이 있어 심리적으로도 우위에서 경기를 운영할 것으로 보입니다. 수비력에서도 준수한 집중력을 유지하고 있어 공수 밸런스가 조화를 이루고 있습니다."
+awayAnalysis: "시카고 불스는 앞선 12경기에서 4승 8패로 승률 33%를 기록했고 최근 연승을 거두며 분위기 반전에 성공했습니다. 원정 경기에서도 110점대의 고득점을 꾸준히 생산하며 화력 면에서는 경쟁력 있는 모습을 보여주고 있습니다. 다만 전체적인 승률이 높지 않은 상황에서 수비 집중력이 무너질 때 실점이 급격히 늘어나는 기복은 해결해야 할 과제입니다. 최근 10경기 성적을 봐도 득점력은 상승세이나 승리까지 연결하는 결정력이 다소 부족한 장면들이 보입니다. 상대 전적에서도 열세를 보였던 만큼 이번 경기에서는 더욱 정교한 외곽 포격과 수비 보완이 절실합니다."
+homePower: "상대 핵심 공격진 봉쇄하며 지난 맞대결 기선 제압함|공격 효율성 개선으로 경기당 득점력 가파른 우상향 곡선임|안방 경기에서 보여주는 안정적인 공수 밸런스 돋보임|강팀 상대 승리로 다져진 조직력과 팀 분위기 최고조임|승부처에서 집중력 발휘하며 접전 상황 극복 능력 검증됨"
+awayPower: "최근 2연승으로 가파른 득점 상승세 및 분위기 반전 성공|원정에서도 화력을 유지하는 외곽 지원 능력 보유함|실점 억제 실패 시 경기 흐름 내주는 고질적 수비 기복|지난 패배를 설욕하기 위한 공격적인 전술 변화 예상됨|속공 상황에서의 득점 마무리 능력은 여전히 위협적임"
+h2h: '[{"date":"26.07.18","home":"클리블랜드 캐벌리어스","away":"시카고 불스","score":"100-91","link":"https://pick79.com/posts/detail/analyze-504173-2026-07-18-cleveland-cavaliers/"}]'
+summary: "전반적인 전력과 최근 흐름을 고려했을 때 홈팀이 경기를 주도할 가능성이 높습니다. 클리블랜드 캐벌리어스는 최근 득점력이 크게 살아나며 공수 양면에서 안정감을 찾았고 특히 과거 맞대결에서도 시카고 불스를 제압하며 상성상 우위를 확인한 바 있습니다. 시카고 불스가 최근 연승을 거두며 화력을 뽐내고 있으나 고질적인 수비 불안이 발목을 잡을 것으로 보이며 안정적인 경기 운영 능력을 갖춘 홈팀의 근소한 우세가 예상됩니다."
+homeRecent: '[{"date":"26.11.15","home":"클리블랜드 캐벌리어스","away":"댈러스 매버릭스","score":"127-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109765-2026-11-15-cleveland-cavaliers/"},{"date":"26.11.14","home":"마이애미 히트","away":"클리블랜드 캐벌리어스","score":"133-121","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109759-2026-11-14-miami-heat/"},{"date":"26.11.12","home":"뉴욕 닉스","away":"클리블랜드 캐벌리어스","score":"107-115","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109742-2026-11-12-new-york-knicks/"},{"date":"26.11.03","home":"클리블랜드 캐벌리어스","away":"오클라호마시티 썬더","score":"112-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110205-2026-11-03-cleveland-cavaliers/"},{"date":"26.10.25","home":"클리블랜드 캐벌리어스","away":"브루클린 네츠","score":"125-121","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102405-2026-10-25-cleveland-cavaliers/"}]'
+awayRecent: '[{"date":"26.11.15","home":"미네소타 팀버울브스","away":"시카고 불스","score":"106-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109767-2026-11-15-minnesota-timberwolves/"},{"date":"26.11.14","home":"시카고 불스","away":"애틀랜타 호크스","score":"125-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109758-2026-11-14-chicago-bulls/"},{"date":"26.11.12","home":"시카고 불스","away":"샌안토니오 스퍼스","score":"119-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109745-2026-11-12-chicago-bulls/"},{"date":"26.11.03","home":"필라델피아 76ers","away":"시카고 불스","score":"126-107","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110220-2026-11-03-philadelphia-76ers/"},{"date":"26.10.25","home":"시카고 불스","away":"워싱턴 위저즈","score":"120-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102404-2026-10-25-chicago-bulls/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "클리블랜드 캐벌리어스"
+pickWinResult: "승"
+pickHandicapTeam: "클리블랜드 캐벌리어스"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---
