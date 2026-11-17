@@ -1,0 +1,37 @@
+---
+title: "보스턴 브루인스 vs LA 킹스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T00:00:00.000Z
+description: "보스턴 브루인스 vs LA 킹스 하키분석: 보스턴 브루인스는 탄탄한 홈 전력과 안정적인 공수 밸런스를 바탕으로 경기를 주도할 가능성이 높습니다. 반면 LA 킹스는 최근 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378637916-2026-11-18-boston-bruins"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "보스턴 브루인스"
+awayTeam: "LA 킹스"
+homeLogo: "https://highlightly.net/hockey/images/teams/573507.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/583719.png"
+homeAnalysis: "보스턴 브루인스는 앞선 27경기에서 17승 10패로 승률 63%를 기록했고 최근 일정에서 공수 양면에서 안정적인 집중력을 보여주고 있습니다. 홈 경기 운영 능력이 뛰어나며 득점 생산력에서 꾸준한 모습을 유지하는 중입니다. 직전 경기들의 결과에 연연하지 않고 특유의 공격 전개 속도를 살려 흐름을 반등시키려 할 것입니다. 전반적인 공수 밸런스가 잘 잡혀 있어 상대를 압박할 수 있는 여건이 마련되어 있습니다. 이번 홈 경기에서도 그동안 다져온 조직력을 바탕으로 경기를 주도해 나갈 것으로 기대됩니다."
+awayAnalysis: "LA 킹스는 앞선 23경기에서 6승 17패로 승률 26%를 기록했고 전반적으로 원정 경기에서 다소 고전하는 흐름을 보이고 있습니다. 최근 치른 일정들에서 수비 집중력이 흔들리며 실점 허용이 늘어나는 아쉬움을 남겼습니다. 공격 과정에서 해법을 찾기 위해 노력하고 있으나 마무리 단계에서의 세밀함이 다소 부족한 상태입니다. 원정 환경이라는 부담을 안고 치르는 이번 경기에서 수비 안정이 최우선 과제로 작용할 것입니다. 상위 전력을 상대로 원정에서 반전을 만들기 위해서는 초반 실점을 줄이는 것이 중요합니다."
+homePower: "최근 홈 경기 다득점 생산, 공격 전개력 우수함|공수 밸런스 안정적, 경기 운영 능력이 뛰어남|상대전적 우위 확보, 심리적 우세 점함|상대 수비 약점 공략에 능숙한 플레이 구사|안정적인 득점력을 바탕으로 한 주도권 장악"
+awayPower: "원정 경기 수비 집중력 저하 및 실점 증가|최근 득점력 기복 심화로 공격 효율성 떨어짐|원정 약세 흐름 극복이 최우선 과제로 꼽힘|초반 실점 허용 시 경기 운영 어려움 가중됨|상대 강한 압박에 대처할 해법 마련 시급함"
+h2h: '[{"date":"26.10.18","home":"LA 킹스","away":"보스턴 브루인스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378465163-2026-10-18-los-angeles-kings/"}]'
+summary: "보스턴 브루인스는 탄탄한 홈 전력과 안정적인 공수 밸런스를 바탕으로 경기를 주도할 가능성이 높습니다. 반면 LA 킹스는 최근 원정 경기에서 수비 불안과 득점력 부진이 겹치며 어려움을 겪고 있습니다. 이전 맞대결에서도 우위를 보였던 보스턴 브루인스가 이번 경기 역시 유리한 흐름을 이어갈 것으로 보입니다."
+homeRecent: '[{"date":"26.11.15","home":"보스턴 브루인스","away":"미네소타 와일드","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626002-2026-11-15-boston-bruins/"},{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트리올 캐네이디언스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608131-2026-11-13-boston-bruins/"},{"date":"26.11.09","home":"보스턴 브루인스","away":"플로리다 팬더스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378588558-2026-11-09-boston-bruins/"},{"date":"26.11.06","home":"피츠버그 펭귄스","away":"보스턴 브루인스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378568134-2026-11-06-pittsburgh-penguins/"},{"date":"26.11.03","home":"보스턴 브루인스","away":"베가스 골든나이츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378550263-2026-11-03-boston-bruins/"}]'
+awayRecent: '[{"date":"26.11.15","home":"LA 킹스","away":"캘거리 플레임스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378629406-2026-11-15-los-angeles-kings/"},{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378615790-2026-11-13-los-angeles-kings/"},{"date":"26.11.11","home":"LA 킹스","away":"내슈빌 프레데터스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378601323-2026-11-11-los-angeles-kings/"},{"date":"26.11.08","home":"LA 킹스","away":"피츠버그 펭귄스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378586005-2026-11-08-los-angeles-kings/"},{"date":"26.11.05","home":"LA 킹스","away":"산호세 샤크스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378564730-2026-11-05-los-angeles-kings/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 브루인스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 브루인스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "LA 레이커스 vs 샬럿 호네츠 농구분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T04:00:00.000Z
+description: "LA 레이커스 vs 샬럿 호네츠 농구분석: LA 레이커스는 최근 10경기에서 9승을 쓸어 담으며 공수 양면에서 절정의 경기력을 뽐내고 있습니다. 반면 샬럿 호네츠는 최근… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109789-2026-11-18-los-angeles-lakers"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "LA 레이커스"
+awayTeam: "샬럿 호네츠"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/13_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/30_300300.png"
+homeAnalysis: "LA 레이커스는 앞선 21경기에서 14승 7패로 승률 67%를 기록했고 안정적인 전력을 이어가고 있습니다. 최근 치른 10경기에서는 9승 1패라는 압도적인 상승세를 타며 공수 양면에서 훌륭한 조직력을 보여주고 있습니다. 특히 피닉스 선즈와 밀워키 벅스를 상대로도 120득점 이상을 기록하는 등 폭발적인 화력이 돋보입니다. 홈 경기에서도 꾸준히 높은 득점력을 유지하며 상대를 압박하는 모습이 인상적입니다. 이러한 최근의 가파른 상승 곡선은 이번 경기에서도 큰 자신감으로 작용할 전망입니다."
+awayAnalysis: "샬럿 호네츠는 앞선 11경기에서 3승 8패로 승률 27%를 기록했고 다소 아쉬운 흐름을 보이고 있습니다. 최근 10경기에서도 2승 8패에 머물며 전체적인 전력 유지에 어려움을 겪고 있습니다. 원정 경기에서는 수비 집중력이 흔들리며 실점을 허용하는 빈도가 잦아지고 있습니다. 최근 LA 클리퍼스나 피닉스 선즈와의 원정 경기에서도 접전 끝에 패하며 아쉬움을 삼켰습니다. 반등을 위해서는 수비 안정화와 함께 공격에서의 효율성을 끌어올리는 것이 시급해 보입니다."
+homePower: "최근 10경기 9승으로 상승세가 매우 뚜렷함|평균 115점 넘는 막강한 화력 소유|홈 코트에서 높은 공수 집중력 발휘|연속된 경기에서 꾸준한 득점 생산력 입증됨|공격 전개 과정의 완성도가 매우 높음"
+awayPower: "최근 10경기 2승으로 부진 탈출이 시급함|원정 경기에서 수비 조직력 약화 문제 드러남|접전 상황에서 마무리가 아쉬운 흐름 보임|실점 관리의 기복이 경기력에 부담으로 작용함|공격 효율성 개선이 절실한 상황임"
+h2h: '[]'
+summary: "LA 레이커스는 최근 10경기에서 9승을 쓸어 담으며 공수 양면에서 절정의 경기력을 뽐내고 있습니다. 반면 샬럿 호네츠는 최근 2승 8패로 부진을 면치 못하고 있으며 특히 원정에서 수비 약점이 두드러지고 있습니다. 양 팀의 최근 흐름과 전력 완성도 차이를 고려할 때 홈팀 LA 레이커스가 경기를 주도하며 우위를 점할 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.11.16","home":"피닉스 선즈","away":"LA 레이커스","score":"123-131","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109770-2026-11-16-phoenix-suns/"},{"date":"26.11.12","home":"밀워키 벅스","away":"LA 레이커스","score":"112-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109746-2026-11-12-milwaukee-bucks/"},{"date":"26.11.03","home":"LA 레이커스","away":"마이애미 히트","score":"138-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110213-2026-11-03-los-angeles-lakers/"},{"date":"26.10.26","home":"유타 재즈","away":"LA 레이커스","score":"123-132","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102526-2026-10-26-utah-jazz/"},{"date":"26.10.24","home":"LA 레이커스","away":"LA 클리퍼스","score":"125-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102313-2026-10-24-los-angeles-lakers/"}]'
+awayRecent: '[{"date":"26.11.16","home":"LA 클리퍼스","away":"샬럿 호네츠","score":"113-105","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109771-2026-11-16-la-clippers/"},{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네츠","score":"101-96","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109754-2026-11-13-phoenix-suns/"},{"date":"26.11.03","home":"샬럿 호네츠","away":"디트로이트 피스톤스","score":"91-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110230-2026-11-03-charlotte-hornets/"},{"date":"26.10.25","home":"샬럿 호네츠","away":"마이애미 히트","score":"115-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102430-2026-10-25-charlotte-hornets/"},{"date":"26.10.24","home":"샬럿 호네츠","away":"애틀랜타 호크스","score":"81-128","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102330-2026-10-24-charlotte-hornets/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 레이커스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 레이커스"
+pickHandicapValue: "-15.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "언더"
+---

@@ -1,0 +1,37 @@
+---
+title: "산호세 샤크스 vs 캘거리 플레임스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T03:00:00.000Z
+description: "산호세 샤크스 vs 캘거리 플레임스 하키분석: 양 팀의 최근 전력과 흐름을 살펴보면 홈팀 산호세 샤크스가 한층 안정된 공격력을 바탕으로 우위를 점할 가능성이 높습니다. 산호… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378644724-2026-11-18-san-jose-sharks"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "산호세 샤크스"
+awayTeam: "캘거리 플레임스"
+homeLogo: "https://highlightly.net/hockey/images/teams/593931.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/575209.png"
+homeAnalysis: "산호세 샤크스는 앞선 27경기에서 12승 15패로 승률 44%를 기록했고 최근 일정에서 나쁘지 않은 득점력을 보여주고 있습니다. 내쉬빌 프레더턴스를 상대로 4득점을 올리며 승리를 챙겼고 유타 맘모스와의 난타전 끝에 6득점을 기록하는 등 공격적인 면모를 뽐냈습니다. 비록 피츠버그 펭귄스전이나 댈러스 스타스전처럼 아쉽게 패배한 경기도 존재하지만 꾸준히 골문을 두드리는 모습이 돋보입니다. 초반의 부진을 딛고 최근 홈 경기들을 중심으로 공수 밸런스를 맞춰가며 반등의 발판을 마련하고 있습니다. 이번 경기에서도 홈 이점을 살려 활발한 공격 전개를 펼칠 것으로 기대됩니다."
+awayAnalysis: "캘거리 플레임스는 앞선 25경기에서 10승 15패로 승률 40%를 기록했고 원정 길에서 기복 있는 흐름을 보이고 있습니다. 로스앤젤레스 킹스를 상대로 3득점을 올리며 승리를 거두기도 했으나 애너하임 덕스전에서는 다실점을 허용하며 아쉬움을 남겼습니다. 전체적으로 원정 경기에서 수비 집중력이 흔들리는 모습을 보이며 실점 관리에서 아쉬운 결과를 자주 낳고 있습니다. 득점력 자체는 꾸준히 가동되고 있으나 상대의 거센 공세를 막아내는 것이 주요 과제로 떠올랐습니다. 이번 산호세 샤크스 원정에서도 수비 안정감을 얼마나 찾아오느냐가 관건이 될 것입니다."
+homePower: "최근 공격진의 골 감각이 살아나며 다득점 생산력이 안정궤도에 올랐음|홈 경기 운영 시 초반 주도권을 잡는 능력이 뚜렷한 강점으로 작용함|직전 맞대결 패배의 아픔을 딛고 설욕을 다짐하는 동기부여가 확실함|실점 관리에서 기복을 보이지만 집중력 유지 시 충분히 상대를 압도함|공수 전환 속도를 높여 상대의 느린 수비 라인을 흔드는 전략이 유효함"
+awayPower: "원정 경기에서 수비 라인의 집중력이 급격히 흔들리는 불안 요소를 안고 있음|득점 찬스에서의 결정력은 나쁘지 않으나 전체적인 화력이 다소 부족함|상대의 강한 압박을 받을 때 빌드업 과정에서 잦은 실수를 노출함|최근 원정 연패 기간 동안 수비 회복력이 크게 저하된 모습을 보임|과거 상대전적에서 거둔 승리의 기억을 살려 초반 기선 제압을 노릴 것"
+h2h: '[{"date":"26.11.03","home":"산호세 샤크스","away":"캘거리 플레임스","score":"1-2","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378552816-2026-11-03-san-jose-sharks/"}]'
+summary: "양 팀의 최근 전력과 흐름을 살펴보면 홈팀 산호세 샤크스가 한층 안정된 공격력을 바탕으로 우위를 점할 가능성이 높습니다. 산호세 샤크스는 최근 홈 경기들에서 꾸준히 득점을 쌓아 올리며 공격 작업에 자신감을 더하고 있습니다. 반면 캘거리 플레임스는 원정 경기에서 수비 불안이 이어지며 실점을 허용하는 빈도가 잦은 편입니다. 과거 맞대결에서의 결과 역시 양 팀이 팽팽한 접전을 펼쳤음을 보여주지만 현재의 공수 집중력 차이를 감안할 때 홈팀이 경기의 주도권을 쥐고 유리하게 풀어갈 것으로 보입니다."
+homeRecent: '[{"date":"26.11.16","home":"산호세 샤크스","away":"내슈빌 프레데터스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378632810-2026-11-16-san-jose-sharks/"},{"date":"26.11.15","home":"유타 매머드","away":"산호세 샤크스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378627704-2026-11-15-utah-mammoth/"},{"date":"26.11.12","home":"산호세 샤크스","away":"피츠버그 펭귄스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378605578-2026-11-12-san-jose-sharks/"},{"date":"26.11.10","home":"산호세 샤크스","away":"뉴욕 아일런더스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378595366-2026-11-10-san-jose-sharks/"},{"date":"26.11.08","home":"댈러스 스타스","away":"산호세 샤크스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378584303-2026-11-08-dallas-stars/"}]'
+awayRecent: '[{"date":"26.11.16","home":"애너하임 덕스","away":"캘거리 플레임스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631108-2026-11-16-anaheim-ducks/"},{"date":"26.11.15","home":"LA 킹스","away":"캘거리 플레임스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378629406-2026-11-15-los-angeles-kings/"},{"date":"26.11.12","home":"캘거리 플레임스","away":"뉴욕 레인저스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603025-2026-11-12-calgary-flames/"},{"date":"26.11.09","home":"캘거리 플레임스","away":"필라델피아 플라이어스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378590260-2026-11-09-calgary-flames/"},{"date":"26.11.07","home":"캘거리 플레임스","away":"애너하임 덕스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378576644-2026-11-07-calgary-flames/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "산호세 샤크스"
+pickWinResult: "승"
+pickHandicapTeam: "산호세 샤크스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

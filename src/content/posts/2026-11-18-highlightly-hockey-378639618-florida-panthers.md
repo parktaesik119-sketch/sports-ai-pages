@@ -1,0 +1,37 @@
+---
+title: "플로리다 팬더스 vs 에드먼턴 오일러스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T00:00:00.000Z
+description: "플로리다 팬더스 vs 에드먼턴 오일러스 하키분석: 플로리다 팬더스와 에드먼턴 오일러스의 맞대결은 양 팀의 뛰어난 공격력이 충돌하는 흥미로운 경기가 될 것으로 보입니다. 홈팀 플… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378639618-2026-11-18-florida-panthers"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "플로리다 팬더스"
+awayTeam: "에드먼턴 오일러스"
+homeLogo: "https://highlightly.net/hockey/images/teams/582868.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/582017.png"
+homeAnalysis: "플로리다 팬더스는 앞선 25경기에서 13승 12패로 승률 52%를 기록했고 안정적인 공격력을 바탕으로 전력을 다지고 있습니다. 최근 10경기에서는 6승 4패를 기록하며 꾸준하게 승수를 쌓아가는 흐름을 보여주는 중입니다. 경기당 평균 3.4득점을 올리는 화력은 상대를 압박하기에 충분하며 공격 전개에서 집중력을 발휘하고 있습니다. 비록 간헐적인 패배로 흐름이 끊기기도 했지만 홈 경기에서는 더욱 과감한 슈팅으로 분위기를 반전시키는 능력이 뛰어납니다. 이번 경기에서도 홈의 이점을 살려 초반부터 적극적인 공세를 펼칠 것으로 기대됩니다."
+awayAnalysis: "에드먼턴 오일러스는 앞선 29경기에서 20승 9패로 승률 69%를 기록했고 매우 탄탄한 전력을 증명하고 있습니다. 최근 10경기에서도 7승 3패를 거두며 상승세를 이어가는 중이며 공수 양면에서 안정된 밸런스를 유지하고 있습니다. 전체 일정 동안 평균 3.8득점을 기록할 만큼 막강한 공격력을 자랑하며 원정에서도 흔들림 없는 집중력을 보여줍니다. 팽팽한 승부처에서 집중력을 발휘해 승리를 챙기는 경우가 많아 이번 대결에서도 큰 자신감을 가질 수 있습니다. 원정 경기이지만 뛰어난 득점력을 바탕으로 경기를 주도하려는 움직임이 돋보입니다."
+homePower: "최근 10경기 중 6승 기록, 꾸준한 승수 추가 흐름|평균 3.4득점 생산, 꾸준한 화력 유지 중|홈 경기에서 과감한 슈팅으로 분위기 반전 능력 우수함|초반 공세 집중으로 홈 이점 극대화 가능함|간헐적인 기복 있으나 전체적인 전력 안정적임"
+awayPower: "최근 29경기 20승 달성, 압도적인 승률 자랑함|최근 10경기 7승으로 꾸준한 상승세 유지 중|평균 3.8득점의 막강한 공격력으로 상대 압박|원정 경기에서도 흔들림 없는 공수 밸런스 보유함|팽팽한 승부처에서의 높은 집중력 검증됨"
+h2h: '[]'
+summary: "플로리다 팬더스와 에드먼턴 오일러스의 맞대결은 양 팀의 뛰어난 공격력이 충돌하는 흥미로운 경기가 될 것으로 보입니다. 홈팀 플로리다 팬더스는 최근 홈 경기에서의 과감한 플레이와 꾸준한 득점력을 바탕으로 주도권을 잡으려 할 것이고, 원정팀 에드먼턴 오일러스는 높은 승률과 막강한 화력을 앞세워 맞불을 놓을 것입니다. 두 팀 모두 공격 전개 능력이 뛰어나 팽팽한 흐름 속에서 치열한 공방전이 펼쳐질 가능성이 높습니다. 전력의 안정성과 최근 상승세를 종합해 볼 때 플로리다 팬더스가 홈의 이점을 살려 우위를 점할 것으로 예상됩니다."
+homeRecent: '[{"date":"26.11.16","home":"댈러스 스타스","away":"플로리다 팬더스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631959-2026-11-16-dallas-stars/"},{"date":"26.11.15","home":"세인트루이스 블루스","away":"플로리다 팬더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620045-2026-11-15-st-louis-blues/"},{"date":"26.11.13","home":"플로리다 팬더스","away":"디트로이트 레드윙스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378609833-2026-11-13-florida-panthers/"},{"date":"26.11.11","home":"콜럼버스 블루재킷츠","away":"플로리다 팬더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378598770-2026-11-11-columbus-blue-jackets/"},{"date":"26.11.09","home":"보스턴 브루인스","away":"플로리다 팬더스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378588558-2026-11-09-boston-bruins/"}]'
+awayRecent: '[{"date":"26.11.16","home":"필라델피아 플라이어스","away":"에드먼턴 오일러스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378630257-2026-11-16-philadelphia-flyers/"},{"date":"26.11.15","home":"토론토 메이플 리프스","away":"에드먼턴 오일러스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378622598-2026-11-15-toronto-maple-leafs/"},{"date":"26.11.12","home":"에드먼턴 오일러스","away":"필라델피아 플라이어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603876-2026-11-12-edmonton-oilers/"},{"date":"26.11.10","home":"에드먼턴 오일러스","away":"뉴욕 레인저스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378593664-2026-11-10-edmonton-oilers/"},{"date":"26.11.08","home":"에드먼턴 오일러스","away":"밴쿠버 카넉스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378587707-2026-11-08-edmonton-oilers/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "플로리다 팬더스"
+pickWinResult: "승"
+pickHandicapTeam: "플로리다 팬더스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

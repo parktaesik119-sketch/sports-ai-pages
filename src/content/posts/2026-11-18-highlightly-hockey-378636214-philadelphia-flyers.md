@@ -1,0 +1,37 @@
+---
+title: "필라델피아 플라이어스 vs 버펄로 세이버스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T00:00:00.000Z
+description: "필라델피아 플라이어스 vs 버펄로 세이버스 하키분석: 필라델피아 플라이어스와 버펄로 세이버스의 이번 맞대결은 양 팀의 최근 흐름과 전력 전반을 살펴볼 때 치열한 양상으로 전개될 것… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378636214-2026-11-18-philadelphia-flyers"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "필라델피아 플라이어스"
+awayTeam: "버펄로 세이버스"
+homeLogo: "https://highlightly.net/hockey/images/teams/592229.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/574358.png"
+homeAnalysis: "필라델피아 플라이어스는 앞선 34경기에서 8승 26패로 승률 24%를 기록했고 전체적인 흐름에서 다소 아쉬운 성적을 남기고 있습니다. 최근 치른 10경기에서는 3승 7패를 거두며 반등을 노리고 있으나 전체적인 승수 쌓기에 어려움을 겪는 모습입니다. 이 기간 동안 평균 2.9득점을 기록하며 공격력 자체에 어느 정도 기복을 보이고 있습니다. 홈 경기에서도 수비 집중력 유지와 함께 안정감을 찾는 것이 중요한 과제로 꼽힙니다. 직전 경기들의 흐름을 살펴보면 접전 끝에 아쉽게 패하는 경기가 많아 이번 홈 경기에서는 집중력을 더욱 끌어올려야 합니다."
+awayAnalysis: "버펄로 세이버스는 앞선 31경기에서 13승 18패로 승률 42%를 기록했고 중위권 도약을 위한 흐름을 만들어가는 중입니다. 최근 10경기 성적은 4승 6패로 다소 주춤하고 있으며 평균 2.9득점을 기록하며 공격 전개 과정에서 꾸준함을 유지하려 애쓰고 있습니다. 원정 경기 환경에서는 수비 라인의 안정성이 승패를 가르는 중요한 요소로 작용하고 있습니다. 최근 경기들에서 실점이 다소 늘어난 모습을 보인 만큼 이번 원정에서는 수비적인 보완이 필수적입니다. 전체적인 전력 지표를 바탕으로 경기를 운영하는 능력이 이번 승부의 열쇠가 될 것입니다."
+homePower: "최근 홈 경기들에서 공격 득점력 자체는 꾸준함을 유지함|전체 승수 대비 최근 흐름에서 반등의 실마리를 찾는 과정에 있음|수비 집중력 강화가 매 경기 승패를 결정짓는 핵심 변수로 작용함|접전 상황에서의 마무리 능력을 높이는 것이 매우 중요함|안방 이점을 살려 경기 초반 주도권을 잡는 전략이 요구됨"
+awayPower: "원정 경기에서 공수 균형을 맞추는 안정적인 운영이 필요함|최근 10경기 평균 득점력을 바탕으로 공격적인 해법을 모색 중임|실점 관리 능력을 높여 경기 중반 이후의 위기를 넘겨야 함|상대와의 맞대결 기억을 살려 초반부터 강하게 밀어붙일 가능성이 큼|기복을 줄이고 일관된 경기력을 유지하는 것이 최대 과제임"
+h2h: '[{"date":"26.10.22","home":"버펄로 세이버스","away":"필라델피아 플라이어스","score":"1-3","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378482183-2026-10-22-buffalo-sabres/"}]'
+summary: "필라델피아 플라이어스와 버펄로 세이버스의 이번 맞대결은 양 팀의 최근 흐름과 전력 전반을 살펴볼 때 치열한 양상으로 전개될 것으로 보입니다. 홈팀인 필라델피아 플라이어스는 앞선 경기들에서 거둔 경험을 바탕으로 안방에서 집중력을 발휘할 준비를 하고 있으며, 원정팀 버펄로 세이버스 역시 꾸준한 득점력을 앞세워 반격을 시도할 것입니다. 과거 맞대결에서 승리를 거둔 좋은 기억이 있는 필라델피아 플라이어스가 이번 경기도 유리한 흐름을 가져가며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.16","home":"필라델피아 플라이어스","away":"에드먼턴 오일러스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378630257-2026-11-16-philadelphia-flyers/"},{"date":"26.11.15","home":"콜럼버스 블루재킷츠","away":"필라델피아 플라이어스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378625151-2026-11-15-columbus-blue-jackets/"},{"date":"26.11.12","home":"에드먼턴 오일러스","away":"필라델피아 플라이어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603876-2026-11-12-edmonton-oilers/"},{"date":"26.11.10","home":"밴쿠버 카넉스","away":"필라델피아 플라이어스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378594515-2026-11-10-vancouver-canucks/"},{"date":"26.11.09","home":"캘거리 플레임스","away":"필라델피아 플라이어스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378590260-2026-11-09-calgary-flames/"}]'
+awayRecent: '[{"date":"26.11.15","home":"댈러스 스타스","away":"버펄로 세이버스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626853-2026-11-15-dallas-stars/"},{"date":"26.11.13","home":"시카고 블랙호크스","away":"버펄로 세이버스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378613237-2026-11-13-chicago-blackhawks/"},{"date":"26.11.12","home":"버펄로 세이버스","away":"탬파베이 라이트닝","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378602174-2026-11-12-buffalo-sabres/"},{"date":"26.11.09","home":"버펄로 세이버스","away":"베가스 골든나이츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378589409-2026-11-09-buffalo-sabres/"},{"date":"26.11.07","home":"버펄로 세이버스","away":"콜럼버스 블루재킷츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378575793-2026-11-07-buffalo-sabres/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 플라이어스"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 플라이어스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

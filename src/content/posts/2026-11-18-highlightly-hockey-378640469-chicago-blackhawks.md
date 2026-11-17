@@ -1,0 +1,37 @@
+---
+title: "시카고 블랙호크스 vs 토론토 메이플 리프스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T00:30:00.000Z
+description: "시카고 블랙호크스 vs 토론토 메이플 리프스 하키분석: 시카고 블랙호크스와 토론토 메이플 리프스가 맞붙는 이번 경기는 양 팀 모두 최근 흐름이 다소 침체되어 있어 치열한 공방전이 예… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378640469-2026-11-18-chicago-blackhawks"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "시카고 블랙호크스"
+awayTeam: "토론토 메이플 리프스"
+homeLogo: "https://highlightly.net/hockey/images/teams/577762.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/596484.png"
+homeAnalysis: "시카고 블랙호크스는 앞선 24경기에서 7승 17패로 승률 29%를 기록했고 최근 일정에서 다소 흔들리는 양상을 보이고 있습니다. 공격력 면에서 꾸준한 모습을 보여주려 노력하고 있으나 수비 집중력 유지에서 아쉬움을 드러내며 승수를 쌓는 데 어려움을 겪는 중입니다. 최근 10경기에서도 연패를 끊어내기 위한 해법을 찾고 있으나 실점 허용이 다소 잦은 편입니다. 이번 홈 경기에서는 그동안의 불안 요소를 보완하고 초반부터 집중력을 높여 반등을 노릴 것으로 보입니다. 홈 관중의 응원을 바탕으로 경기 운영에 변화를 주어 돌파구를 마련하려는 의지를 보이고 있습니다."
+awayAnalysis: "토론토 메이플 리프스는 앞선 26경기에서 10승 16패로 승률 38%를 기록했고 최근 연패 흐름을 끊기 위해 전력을 가다듬고 있습니다. 전체적인 경기당 평균 득점력은 나쁘지 않은 수준이지만 최근 들어 수비 라인의 균열이 생기며 아쉬운 결과를 거듭하고 있습니다. 원정 경기에서 기복 있는 모습을 보이고 있어 초반 실점을 줄이는 것이 무엇보다 중요한 과제로 꼽힙니다. 최근 10경기 성적에서도 흐름을 완전히 반전시키지 못해 이번 방문 경기에서 강한 승부욕을 드러낼 것으로 보입니다. 공수 균형을 빠르게 회복하여 분위기 전환을 이뤄내겠다는 각오로 경기에 임할 전망입니다."
+homePower: "홈팀 시카고 블랙호크스는 최근 수비 불안으로 인해 실점 관리 능력이 크게 요구되는 시점임|공격 상황에서 꾸준히 득점을 만들어내고 있으나 마무리 집중력 보완이 필수적임|홈 경기 운영에서 초반 기선 제압을 통해 주도권을 잡는 전략이 효과적으로 작용할 것임|최근 연패 흐름 속에서도 홈에서의 저력을 보여주기 위한 전술적 변화가 감지됨|수비 라인의 안정감이 살아난다면 충분히 경기를 유리하게 이끌어갈 수 있음"
+awayPower: "원정팀 토론토 메이플 리프스는 평균 득점력에 비해 최근 실점 빈도가 높아 수비 재정비가 시급함|원정 경기에서 초반 실점을 허용할 경우 경기를 어렵게 풀어가는 패턴이 반복되고 있음|상대의 약점을 파고드는 빠른 역습 전개가 이번 경기 승패를 가르는 핵심 요인임|최근 부진한 흐름을 끊기 위해 공격적인 포메이션 변화를 시도할 가능성이 높음|경험 많은 선수들의 경기 조율 능력이 위기 상황에서 큰 힘을 발휘할 것임"
+h2h: '[]'
+summary: "시카고 블랙호크스와 토론토 메이플 리프스가 맞붙는 이번 경기는 양 팀 모두 최근 흐름이 다소 침체되어 있어 치열한 공방전이 예상됩니다. 시카고 블랙호크스는 홈 이점을 살려 초반부터 공격적인 운영으로 경기를 주도하려 할 것이며 토론토 메이플 리프스는 원정 부담을 딛고 반격을 노릴 것입니다. 전반적인 공수 균형과 최근 집중력을 종합해 볼 때 홈팀 시카고 블랙호크스가 미세한 우위를 점하며 승리에 가까워질 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.15","home":"시카고 블랙호크스","away":"위니펙 제츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378619194-2026-11-15-chicago-blackhawks/"},{"date":"26.11.13","home":"시카고 블랙호크스","away":"버펄로 세이버스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378613237-2026-11-13-chicago-blackhawks/"},{"date":"26.11.08","home":"캐롤라이나 허리케인스","away":"시카고 블랙호크스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378583452-2026-11-08-carolina-hurricanes/"},{"date":"26.11.06","home":"탬파베이 라이트닝","away":"시카고 블랙호크스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378567283-2026-11-06-tampa-bay-lightning/"},{"date":"26.11.05","home":"플로리다 팬더스","away":"시카고 블랙호크스","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378563879-2026-11-05-florida-panthers/"}]'
+awayRecent: '[{"date":"26.11.15","home":"토론토 메이플 리프스","away":"에드먼턴 오일러스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378622598-2026-11-15-toronto-maple-leafs/"},{"date":"26.11.13","home":"토론토 메이플 리프스","away":"미네소타 와일드","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378612386-2026-11-13-toronto-maple-leafs/"},{"date":"26.11.11","home":"토론토 메이플 리프스","away":"콜로라도 애벌랜치","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378596217-2026-11-11-toronto-maple-leafs/"},{"date":"26.11.09","home":"토론토 메이플 리프스","away":"뉴저지 데블스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378591111-2026-11-09-toronto-maple-leafs/"},{"date":"26.11.08","home":"토론토 메이플 리프스","away":"몬트리올 캐네이디언스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378582601-2026-11-08-toronto-maple-leafs/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 블랙호크스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 블랙호크스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

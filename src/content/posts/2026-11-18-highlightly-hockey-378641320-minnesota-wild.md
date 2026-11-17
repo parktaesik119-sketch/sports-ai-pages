@@ -1,0 +1,37 @@
+---
+title: "미네소타 와일드 vs 내슈빌 프레데터스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T01:00:00.000Z
+description: "미네소타 와일드 vs 내슈빌 프레데터스 하키분석: 미네소타 와일드는 탄탄한 전력과 최근 가파른 상승세를 바탕으로 경기 운영의 주도권을 잡을 것으로 보입니다. 내슈빌 프레데터스 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378641320-2026-11-18-minnesota-wild"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "미네소타 와일드"
+awayTeam: "내슈빌 프레데터스"
+homeLogo: "https://highlightly.net/hockey/images/teams/585421.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/587123.png"
+homeAnalysis: "미네소타 와일드는 앞선 33경기에서 21승 12패로 승률 64%를 기록했고 안정적인 공수 밸런스를 바탕으로 상위권의 흐름을 이어가고 있습니다. 특히 최근 10경기에서는 8승을 쓸어 담으며 막강한 화력을 뿜어내는 중입니다. 평균 득점 수치가 높게 나타나듯 공격진의 결정력이 물살을 타고 있으며 경기 운영 측면에서도 여유가 묻어납니다. 홈 경기 일정에서도 집중력을 잃지 않고 상대를 압박하는 모습이 자주 연출되고 있습니다. 다득점 양상을 만들어내는 능력치가 출중하여 이번 일정에서도 유리한 고지를 점할 것으로 보입니다."
+awayAnalysis: "내슈빌 프레데터스는 앞선 25경기에서 12승 13패로 승률 48%를 기록했고 기복 있는 흐름 속에서 반등을 위한 해법을 찾는 과정에 있습니다. 최근 10경기에서는 7승 3패로 페이스를 다소 끌어올렸으나 여전히 원정 환경에서의 세밀함은 보완이 필요합니다. 공수 전환 과정에서 순간적인 집중력 저하가 노출되는 경향이 있어 강팀을 상대로는 고전하는 양상이 확인됩니다. 공격 집중력이 살아나는 구간도 존재하지만 수비 안정을 찾는 과제가 승패의 갈림길이 되고 있습니다. 전반적인 분위기는 나쁘지 않으나 상위 전력을 상대로는 철저한 대비가 요구됩니다."
+homePower: "최근 10경기 8승을 기록하며 확실한 상승세 탐색 완료됨|경기당 3점대 중반을 상회하는 폭발적인 화력 소유함|안정적인 홈 운영 능력을 바탕으로 상대를 압박하는 패턴 돋보임|공수 밸런스가 조화를 이루며 경기 후반 집중력 유지됨|이전 맞대결 승리의 좋은 기억을 살려 주도권 장악 가능함"
+awayPower: "최근 10경기 7승으로 최근 흐름 자체는 나쁘지 않은 수준임|원정 경기에서 수비 집중력 난조를 극복해야 하는 과제 안음|실점 관리의 기복이 경기 결과에 직접적인 영향을 미치는 편임|공격진의 순간 집중력은 좋으나 마무리가 아쉬울 때가 많음|상대전적 열세를 만회하기 위한 강한 전술적 변화가 필요함"
+h2h: '[{"date":"26.10.02","home":"내슈빌 프레데터스","away":"미네소타 와일드","score":"1-3","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378363043-2026-10-02-nashville-predators/"}]'
+summary: "미네소타 와일드는 탄탄한 전력과 최근 가파른 상승세를 바탕으로 경기 운영의 주도권을 잡을 것으로 보입니다. 내슈빌 프레데터스 역시 최근 경기력에서 반등을 이뤄냈으나 원정 환경에서의 수비 불안 요소를 완전히 지워내기에는 다소 버거워 보입니다. 공수 효율과 상대전적의 우위를 모두 거머쥔 홈팀이 경기를 유리하게 풀어가며 승리에 가까워질 것입니다."
+homeRecent: '[{"date":"26.11.15","home":"보스턴 브루인스","away":"미네소타 와일드","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626002-2026-11-15-boston-bruins/"},{"date":"26.11.13","home":"토론토 메이플 리프스","away":"미네소타 와일드","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378612386-2026-11-13-toronto-maple-leafs/"},{"date":"26.11.11","home":"몬트리올 캐네이디언스","away":"미네소타 와일드","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597919-2026-11-11-montreal-canadiens/"},{"date":"26.11.08","home":"미네소타 와일드","away":"탬파베이 라이트닝","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378585154-2026-11-08-minnesota-wild/"},{"date":"26.11.07","home":"미네소타 와일드","away":"산호세 샤크스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378577495-2026-11-07-minnesota-wild/"}]'
+awayRecent: '[{"date":"26.11.16","home":"산호세 샤크스","away":"내슈빌 프레데터스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378632810-2026-11-16-san-jose-sharks/"},{"date":"26.11.14","home":"베가스 골든나이츠","away":"내슈빌 프레데터스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378617492-2026-11-14-vegas-golden-knights/"},{"date":"26.11.12","home":"애너하임 덕스","away":"내슈빌 프레데터스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378606429-2026-11-12-anaheim-ducks/"},{"date":"26.11.11","home":"LA 킹스","away":"내슈빌 프레데터스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378601323-2026-11-11-los-angeles-kings/"},{"date":"26.11.08","home":"내슈빌 프레데터스","away":"세인트루이스 블루스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378579197-2026-11-08-nashville-predators/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 와일드"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 와일드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

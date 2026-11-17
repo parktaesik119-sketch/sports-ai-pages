@@ -1,0 +1,1171 @@
+[
+  {
+    "home": "Suriname",
+    "away": "Eswatini",
+    "date": "2026-11-15T17:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401933837",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": null
+  },
+  {
+    "home": "Andorra",
+    "away": "Azerbaijan",
+    "date": "2026-11-16T18:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401914292",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": null,
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2016-05-26T16:00:00Z",
+          "home": "Azerbaijan",
+          "away": "Andorra",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2012-05-30T15:00:00Z",
+          "home": "Azerbaijan",
+          "away": "Andorra",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Saudi Arabia",
+    "away": "Uzbekistan",
+    "date": "2026-11-17T15:30:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401931495",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "KSA leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2021-06-15T18:00:00Z",
+          "home": "Saudi Arabia",
+          "away": "Uzbekistan",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-11-14T12:00:00Z",
+          "home": "Uzbekistan",
+          "away": "Saudi Arabia",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2015-01-18T09:00:00Z",
+          "home": "Uzbekistan",
+          "away": "Saudi Arabia",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2008-06-22T18:00:00Z",
+          "home": "Saudi Arabia",
+          "away": "Uzbekistan",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2008-03-26T11:00:00Z",
+          "home": "Uzbekistan",
+          "away": "Saudi Arabia",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Jordan",
+    "away": "Australia",
+    "date": "2026-11-17T16:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401919974",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "AUS leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2022-06-01T18:00:00Z",
+          "home": "Australia",
+          "away": "Jordan",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-06-15T16:00:00Z",
+          "home": "Australia",
+          "away": "Jordan",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-11-14T16:00:00Z",
+          "home": "Jordan",
+          "away": "Australia",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-01-06T11:00:00Z",
+          "home": "Australia",
+          "away": "Jordan",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-03-29T09:00:00Z",
+          "home": "Australia",
+          "away": "Jordan",
+          "homeScore": 5,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Russia",
+    "away": "Venezuela",
+    "date": "2026-11-17T16:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401930978",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": null
+  },
+  {
+    "home": "Iraq",
+    "away": "Iran",
+    "date": "2026-11-17T16:15:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401933615",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "IRN leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2022-01-27T14:30:00Z",
+          "home": "Iran",
+          "away": "Iraq",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-09-07T18:00:00Z",
+          "home": "Iraq",
+          "away": "Iran",
+          "homeScore": 0,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-06-15T16:30:00Z",
+          "home": "Iran",
+          "away": "Iraq",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-11-14T14:00:00Z",
+          "home": "Iraq",
+          "away": "Iran",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-01-16T16:00:00Z",
+          "home": "Iran",
+          "away": "Iraq",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Kuwait",
+    "away": "Honduras",
+    "date": "2026-11-17T16:30:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401931956",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": null
+  },
+  {
+    "home": "Argentina",
+    "away": "Costa Rica",
+    "date": "2026-11-17T23:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401930895",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ARG leads series 3-0-1",
+      "totalGames": 4,
+      "games": [
+        {
+          "date": "2024-03-27T02:50:00Z",
+          "home": "Argentina",
+          "away": "Costa Rica",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2011-07-12T00:45:00Z",
+          "home": "Argentina",
+          "away": "Costa Rica",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2011-03-30T02:00:00Z",
+          "home": "Costa Rica",
+          "away": "Argentina",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2010-01-27T01:00:00Z",
+          "home": "Argentina",
+          "away": "Costa Rica",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chile",
+    "away": "Colombia",
+    "date": "2026-11-17T23:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401921304",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "COL leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-11-14T00:00:00Z",
+          "home": "Colombia",
+          "away": "Chile",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-15T20:30:00Z",
+          "home": "Colombia",
+          "away": "Chile",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-09-13T00:30:00Z",
+          "home": "Chile",
+          "away": "Colombia",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-09-09T23:00:00Z",
+          "home": "Colombia",
+          "away": "Chile",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-10-14T00:30:00Z",
+          "home": "Chile",
+          "away": "Colombia",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Ecuador",
+    "away": "Bolivia",
+    "date": "2026-11-17T23:30:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401930899",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ECU leads series 5-0",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2024-11-15T00:00:00Z",
+          "home": "Ecuador",
+          "away": "Bolivia",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-13T00:30:00Z",
+          "home": "Ecuador",
+          "away": "Bolivia",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-10-12T23:00:00Z",
+          "home": "Bolivia",
+          "away": "Ecuador",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-06-17T23:30:00Z",
+          "home": "Ecuador",
+          "away": "Bolivia",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-10-08T00:30:00Z",
+          "home": "Ecuador",
+          "away": "Bolivia",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Uruguay",
+    "away": "Dominican Republic",
+    "date": "2026-11-17T23:30:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401932215",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "URU leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2025-10-10T12:45:00Z",
+          "home": "Uruguay",
+          "away": "Dominican Republic",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Philadelphia 76ers",
+    "away": "Indiana Pacers",
+    "date": "2026-11-15T18:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909985",
+    "injuries": {
+      "home": [
+        {
+          "name": "Dominick Barlow",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "LeBron James",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Adem Bona",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Ariel Hukporti",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Andrew Nembhard",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Tyrese Haliburton",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Johnny Furphy",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Ben Sheppard",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "11",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".786",
+        "gamesBehind": "0.5",
+        "pointsFor": "1576",
+        "pointsAgainst": "1546"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "5",
+        "losses": "9",
+        "ties": null,
+        "winPercent": ".357",
+        "gamesBehind": "6.5",
+        "pointsFor": "1569",
+        "pointsAgainst": "1603"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PHI leads series 2-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-28T23:00:00Z",
+          "home": "Indiana Pacers",
+          "away": "Philadelphia 76ers",
+          "homeScore": 109,
+          "awayScore": 114,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Phoenix Suns",
+    "away": "Los Angeles Lakers",
+    "date": "2026-11-15T21:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909986",
+    "injuries": {
+      "home": [
+        {
+          "name": "Mark Williams",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Austin Reaves",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Walker Kessler",
+          "status": "Out",
+          "detail": "Soreness"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "5",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".417",
+        "gamesBehind": "6",
+        "pointsFor": "1352",
+        "pointsAgainst": "1408"
+      },
+      "away": {
+        "rank": "2",
+        "wins": "12",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".857",
+        "gamesBehind": "-",
+        "pointsFor": "1719",
+        "pointsAgainst": "1608"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "LA Clippers",
+    "away": "Charlotte Hornets",
+    "date": "2026-11-15T21:30:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909987",
+    "injuries": {
+      "home": [
+        {
+          "name": "Yanic Konan Niederhauser",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Brandon Ingram",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Bradley Beal",
+          "status": "Out",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Jordan Miller",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kon Knueppel",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Dennis Schroder",
+          "status": "Out",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "4",
+        "losses": "8",
+        "ties": null,
+        "winPercent": ".333",
+        "gamesBehind": "7",
+        "pointsFor": "1348",
+        "pointsAgainst": "1398"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "4",
+        "losses": "9",
+        "ties": null,
+        "winPercent": ".308",
+        "gamesBehind": "7",
+        "pointsFor": "1288",
+        "pointsAgainst": "1428"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Utah Jazz",
+    "away": "San Antonio Spurs",
+    "date": "2026-11-15T22:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909988",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jaxson Hayes",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Lauri Markkanen",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Jusuf Nurkic",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jaren Jackson Jr.",
+          "status": "Out",
+          "detail": "Not Specified"
+        }
+      ],
+      "away": [
+        {
+          "name": "Tobias Harris",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jayden Quaintance",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "1",
+        "losses": "13",
+        "ties": null,
+        "winPercent": ".071",
+        "gamesBehind": "11",
+        "pointsFor": "1499",
+        "pointsAgainst": "1652"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "12",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".857",
+        "gamesBehind": "-",
+        "pointsFor": "1663",
+        "pointsAgainst": "1483"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "SA wins series 3-0",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2026-10-29T01:00:00Z",
+          "home": "Utah Jazz",
+          "away": "San Antonio Spurs",
+          "homeScore": 111,
+          "awayScore": 117,
+          "isCompleted": true
+        },
+        {
+          "date": "2026-11-03T01:30:00Z",
+          "home": "San Antonio Spurs",
+          "away": "Utah Jazz",
+          "homeScore": 119,
+          "awayScore": 97,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Boston Celtics",
+    "away": "Dallas Mavericks",
+    "date": "2026-11-15T23:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909989",
+    "injuries": {
+      "home": [
+        {
+          "name": "Neemias Queta",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Max Christie",
+          "status": "Day-To-Day",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Santi Aldama",
+          "status": "Day-To-Day",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Kyrie Irving",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Dereck Lively II",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Tarik Biberovic",
+          "status": "Out",
+          "detail": "Inflammation"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "11",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".846",
+        "gamesBehind": "-",
+        "pointsFor": "1502",
+        "pointsAgainst": "1331"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "7",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".500",
+        "gamesBehind": "5",
+        "pointsFor": "1569",
+        "pointsAgainst": "1604"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Toronto Raptors",
+    "away": "New York Knicks",
+    "date": "2026-11-15T23:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909990",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nate Bittle",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Kevin McCullar Jr.",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Kawhi Leonard",
+          "status": "Out",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "5",
+        "losses": "8",
+        "ties": null,
+        "winPercent": ".385",
+        "gamesBehind": "6",
+        "pointsFor": "1479",
+        "pointsAgainst": "1466"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "7",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".538",
+        "gamesBehind": "4",
+        "pointsFor": "1429",
+        "pointsAgainst": "1352"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Washington Wizards",
+    "away": "Houston Rockets",
+    "date": "2026-11-16T00:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909991",
+    "injuries": {
+      "home": [
+        {
+          "name": "Tristan Vukcevic",
+          "status": "Out",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Reece Beekman",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Justin Champagnie",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Jamir Watkins",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Amen Thompson",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Clint Capela",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Steven Adams",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Julian Phillips",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Marcus Smart",
+          "status": "Suspension",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "4",
+        "losses": "10",
+        "ties": null,
+        "winPercent": ".286",
+        "gamesBehind": "7.5",
+        "pointsFor": "1549",
+        "pointsAgainst": "1652"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "11",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".786",
+        "gamesBehind": "1",
+        "pointsFor": "1657",
+        "pointsAgainst": "1515"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Milwaukee Bucks",
+    "away": "Atlanta Hawks",
+    "date": "2026-11-16T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909992",
+    "injuries": {
+      "home": [
+        {
+          "name": "Ryan Rollins",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Ousmane Dieng",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jock Landale",
+          "status": "Day-To-Day",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Kingston Flemings",
+          "status": "Day-To-Day",
+          "detail": "Strain"
+        },
+        {
+          "name": "Mouhamed Gueye",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Asa Newell",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Henri Veesaar",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "1",
+        "losses": "13",
+        "ties": null,
+        "winPercent": ".071",
+        "gamesBehind": "10.5",
+        "pointsFor": "1486",
+        "pointsAgainst": "1676"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "8",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".571",
+        "gamesBehind": "3.5",
+        "pointsFor": "1649",
+        "pointsAgainst": "1625"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Sacramento Kings",
+    "away": "Oklahoma City Thunder",
+    "date": "2026-11-16T02:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909993",
+    "injuries": {
+      "home": [
+        {
+          "name": "Zach LaVine",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "De'Andre Hunter",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Precious Achiuwa",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Maxime Raynaud",
+          "status": "Out",
+          "detail": "Dislocated"
+        },
+        {
+          "name": "Ben Simmons",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jaylin Williams",
+          "status": "Out",
+          "detail": "Spasms"
+        },
+        {
+          "name": "Thomas Sorber",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Cason Wallace",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Chet Holmgren",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jalen Williams",
+          "status": "Out",
+          "detail": "Fracture"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "1",
+        "losses": "12",
+        "ties": null,
+        "winPercent": ".077",
+        "gamesBehind": "10.5",
+        "pointsFor": "1401",
+        "pointsAgainst": "1576"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "9",
+        "losses": "5",
+        "ties": null,
+        "winPercent": ".643",
+        "gamesBehind": "3",
+        "pointsFor": "1570",
+        "pointsAgainst": "1499"
+      }
+    },
+    "h2h": null
+  }
+]

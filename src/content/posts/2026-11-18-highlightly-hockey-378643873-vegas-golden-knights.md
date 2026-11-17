@@ -1,0 +1,37 @@
+---
+title: "베가스 골든나이츠 vs 댈러스 스타스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T03:00:00.000Z
+description: "베가스 골든나이츠 vs 댈러스 스타스 하키분석: 베가스 골든나이츠와 댈러스 스타스의 이번 맞대결은 양 팀의 저력과 최근 흐름이 팽팽하게 맞서는 흥미로운 경기가 될 것으로 보입… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378643873-2026-11-18-vegas-golden-knights"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "베가스 골든나이츠"
+awayTeam: "댈러스 스타스"
+homeLogo: "https://highlightly.net/hockey/images/teams/598186.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/580315.png"
+homeAnalysis: "베가스 골든나이츠은 앞선 45경기에서 27승 18패로 승률 60%를 기록했고 안정적인 공수 균형을 바탕으로 상위권 도약을 노리고 있습니다. 전체 일정 동안 꾸준한 득점력을 발휘하며 경기를 주도하는 모습을 보여왔습니다. 최근 치러진 10경기에서는 5승 5패를 거두며 다소 기복 있는 흐름을 겪기도 했습니다. 직전 경기들에서는 실점이 늘어나는 아쉬움이 있었지만 홈 경기 이점을 살려 분위기 반전을 꾀할 것으로 보입니다. 이번 대결에서도 특유의 공격적인 운영을 통해 주도권을 잡으려 할 것입니다."
+awayAnalysis: "댈러스 스타스는 앞선 28경기에서 16승 12패로 승률 57%를 기록했고 탄탄한 경기 운영 능력을 증명해 보였습니다. 꾸준히 승수를 쌓아가며 중상위권에서 경쟁력을 입증하고 있는 상황입니다. 최근 10경기 성적은 6승 4패로 비교적 안정적인 상승세를 타고 있습니다. 최근 일정에서 공격력이 살아나며 평균 득점 수치를 끌어올린 점이 고무적입니다. 이번 원정 길에서도 철저한 대비를 통해 홈팀의 공세를 저지하려 나설 것입니다."
+homePower: "최근 홈 경기 다득점 생산력 우수|공격 전개 과정에서 뛰어난 효율성 발휘|수비 집중력 유지 시 안정적인 운영 가능|최근 실점 증가세는 보완이 필요한 과제|홈 이점 살린 초반 압박 전술이 주효함"
+awayPower: "최근 10경기 6승으로 상승세 유지|원정 경기에서도 꾸준한 득점력 과시|수비 블록 형성이 비교적 탄탄하게 이뤄짐|상대 압박에 따른 중원 싸움이 승패 요인|위기 상황 대처 능력이 점차 향상됨"
+h2h: '[]'
+summary: "베가스 골든나이츠와 댈러스 스타스의 이번 맞대결은 양 팀의 저력과 최근 흐름이 팽팽하게 맞서는 흥미로운 경기가 될 것으로 보입니다. 베가스 골든나이츠은 전체 45경기에서 보여준 높은 승률과 홈에서의 공격적인 집중력을 바탕으로 경기를 풀어갈 전망입니다. 이에 맞서는 댈러스 스타스는 최근 10경기에서 6승을 거두며 상승세를 타고 있는 만큼 만만치 않은 저력을 과시할 것입니다. 양 팀 모두 전력상 우위를 쉽게 가리기 어려운 균형 잡힌 구도를 형성하고 있습니다. 결과적으로 홈팀 베가스 골든나이츠이 미세하게 우위를 점하며 경기를 주도할 가능성이 높을 것으로 예상됩니다."
+homeRecent: '[{"date":"26.11.16","home":"베가스 골든나이츠","away":"밴쿠버 카넉스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378633661-2026-11-16-vegas-golden-knights/"},{"date":"26.11.14","home":"베가스 골든나이츠","away":"내슈빌 프레데터스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378617492-2026-11-14-vegas-golden-knights/"},{"date":"26.11.12","home":"베가스 골든나이츠","away":"유타 매머드","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378604727-2026-11-12-vegas-golden-knights/"},{"date":"26.11.09","home":"버펄로 세이버스","away":"베가스 골든나이츠","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378589409-2026-11-09-buffalo-sabres/"},{"date":"26.11.06","home":"디트로이트 레드윙스","away":"베가스 골든나이츠","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378572389-2026-11-06-detroit-red-wings/"}]'
+awayRecent: '[{"date":"26.11.16","home":"댈러스 스타스","away":"플로리다 팬더스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631959-2026-11-16-dallas-stars/"},{"date":"26.11.15","home":"댈러스 스타스","away":"버펄로 세이버스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626853-2026-11-15-dallas-stars/"},{"date":"26.11.13","home":"댈러스 스타스","away":"위니펙 제츠","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614088-2026-11-13-dallas-stars/"},{"date":"26.11.08","home":"댈러스 스타스","away":"산호세 샤크스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378584303-2026-11-08-dallas-stars/"},{"date":"26.11.06","home":"콜럼버스 블루재킷츠","away":"댈러스 스타스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378568985-2026-11-06-columbus-blue-jackets/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "베가스 골든나이츠"
+pickWinResult: "승"
+pickHandicapTeam: "베가스 골든나이츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

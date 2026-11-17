@@ -1,0 +1,37 @@
+---
+title: "샌안토니오 스퍼스 vs 디트로이트 피스톤스 농구분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T01:00:00.000Z
+description: "샌안토니오 스퍼스 vs 디트로이트 피스톤스 농구분석: 샌안토니오 스퍼스와 디트로이트 피스톤스가 맞붙는 이번 경기는 양 팀 모두 최근 흐름이 좋아 팽팽한 접전이 예상됩니다. 샌안토니… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109788-2026-11-18-san-antonio-spurs"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "샌안토니오 스퍼스"
+awayTeam: "디트로이트 피스톤스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/24_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/8_300300.png"
+homeAnalysis: "샌안토니오 스퍼스는 앞선 34경기에서 19승 15패로 승률 56%를 기록했고 안정적인 전력을 바탕으로 상위권 도약을 노리고 있습니다. 최근 치른 10경기 흐름을 살펴보면 8승 2패라는 뛰어난 성적을 거두며 공수 양면에서 완성도 높은 모습을 보여주는 중입니다. 특히 직전 유타 재즈와의 원정 경기에서도 집중력을 발휘해 승리를 챙기며 상승세를 이어가고 있습니다. 홈 경기에서도 상대를 압도하는 화력과 탄탄한 수비 조직력을 바탕으로 유리한 경기를 풀어가는 능력이 돋보입니다. 이번 홈 경기에서도 이러한 최근의 좋은 흐름과 긍정적인 전력을 그대로 이어가겠다는 각오입니다."
+awayAnalysis: "디트로이트 피스톤스는 앞선 20경기에서 12승 8패로 승률 60%를 기록했고 꾸준한 경기력으로 상위권 경쟁을 주도하고 있습니다. 최근 10경기에서도 6승 4패를 거두며 나쁘지 않은 전력을 유지하고 있으며 매 경기 치열한 공방전을 펼치는 중입니다. 최근 워싱턴 위저즈를 상대로 난타전 끝에 승리를 거두는 등 공격적인 측면에서 강한 집중력을 발휘하고 있습니다. 원정 경기 부담감이 존재하지만 공격 집중력을 극대화하여 상대 진영을 흔드는 능력이 뛰어납니다. 이번 원정 일정에서도 특유의 과감한 운영과 집중력을 발휘하여 승리를 거두기 위해 총력을 다할 것으로 보입니다."
+homePower: "최근 10경기 8승을 거두며 공수 균형이 매우 안정됨|홈 경기에서 상대를 압도하는 집중력과 득점력을 보여줌|직전 유타전 승리로 원정 연승 흐름을 성공적으로 탐색함|평균 득점 지표 대비 높은 실속 있는 경기 운영이 돋보임|안정적인 수비 조직력을 바탕으로 초반 주도권을 잡는 편임"
+awayPower: "최근 10경기 6승으로 꾸준한 승수 쌓기에 성공함|난타전 상황에서도 끝까지 집중력을 유지하는 화력이 강점임|원정 경기에서 과감한 공격 시도로 상대를 흔드는 능력이 있음|득점 생산력이 안정궤도에 올라 있어 언제든 다득점이 가능함|중요 고비마다 승부처를 지배하는 저력을 꾸준히 보여줌"
+h2h: '[]'
+summary: "샌안토니오 스퍼스와 디트로이트 피스톤스가 맞붙는 이번 경기는 양 팀 모두 최근 흐름이 좋아 팽팽한 접전이 예상됩니다. 샌안토니오 스퍼스는 최근 10경기에서 8승을 거두며 안정적인 공수 균형을 자랑하고 있고, 디트로이트 피스톤스 역시 꾸준한 득점력을 바탕으로 만만치 않은 원정 전력을 과시하고 있습니다. 세부적인 전력과 최근 경기력을 종합해 볼 때 디트로이트 피스톤스가 미세한 우위를 점하며 경기를 주도할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.16","home":"유타 재즈","away":"샌안토니오 스퍼스","score":"102-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109772-2026-11-16-utah-jazz/"},{"date":"26.11.14","home":"샌안토니오 스퍼스","away":"골든스테이트 워리어스","score":"123-85","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109761-2026-11-14-san-antonio-spurs/"},{"date":"26.11.12","home":"시카고 불스","away":"샌안토니오 스퍼스","score":"119-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109745-2026-11-12-chicago-bulls/"},{"date":"26.11.03","home":"샌안토니오 스퍼스","away":"유타 재즈","score":"119-97","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110224-2026-11-03-san-antonio-spurs/"},{"date":"26.10.25","home":"댈러스 매버릭스","away":"샌안토니오 스퍼스","score":"106-122","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102406-2026-10-25-dallas-mavericks/"}]'
+awayRecent: '[{"date":"26.11.15","home":"마이애미 히트","away":"디트로이트 피스톤스","score":"137-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109766-2026-11-15-miami-heat/"},{"date":"26.11.13","home":"워싱턴 위저즈","away":"디트로이트 피스톤스","score":"140-144","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109752-2026-11-13-washington-wizards/"},{"date":"26.11.03","home":"샬럿 호네츠","away":"디트로이트 피스톤스","score":"91-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110230-2026-11-03-charlotte-hornets/"},{"date":"26.10.26","home":"필라델피아 76ers","away":"디트로이트 피스톤스","score":"93-106","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102520-2026-10-26-philadelphia-76ers/"},{"date":"26.10.24","home":"마이애미 히트","away":"디트로이트 피스톤스","score":"111-128","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102314-2026-10-24-miami-heat/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 피스톤스"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 피스톤스"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---

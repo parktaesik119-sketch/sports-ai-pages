@@ -1,0 +1,37 @@
+---
+title: "삼성 vs LG 농구분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T10:00:00.000Z
+description: "삼성 vs LG 농구분석: 삼성이 최근 보여준 높은 승률과 안정적인 전력 지표를 감안할 때 이번 맞대결에서 우위를 점할 가능성이 높습니다. 창원 LG는 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-kbl-80109255-2026-11-18-samsung-thunders"
+category: "basketball"
+country: "대한민국"
+league: "KBL"
+homeTeam: "삼성"
+awayTeam: "LG"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/10/35_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/10/50_300300.png"
+homeAnalysis: "삼성은 앞선 11경기에서 8승 3패로 승률 73%를 기록했고 안정적인 공수 밸런스를 바탕으로 상위권 흐름을 유지하고 있습니다. 최근 치른 일정 속에서도 꾸준히 득점력을 발휘하며 상대를 압박하는 저력을 보여주었습니다. 특히 안방 경기에서 집중력이 더욱 살아나는 모습을 보이며 홈 팬들 앞에서 강한 면모를 드러내고 있습니다. 직전 경기에서 아쉬운 패배를 기록하긴 했으나 전체적인 전력 구도에서 여전히 우위를 점하고 있습니다. 이번 경기를 통해 다시 한번 승수를 쌓고 분위기를 반전시키기 위해 철저한 준비를 거듭하고 있습니다."
+awayAnalysis: "창원 LG는 앞선 12경기에서 5승 7패로 승률 42%를 기록했고 기복 있는 경기력을 다잡기 위해 안간힘을 쓰고 있습니다. 최근 일정에서 승리와 패배를 번갈아 기록하며 완벽한 상승세를 타지 못하고 아쉬움을 남겼습니다. 원정 경기 환경에서는 수비 집중력이 흔들리는 장면이 노출되어 보완이 시급한 과제로 떠올랐습니다. 득점 생산력 자체는 나쁘지 않으나 중요한 고비마다 실점을 허용하는 약점이 발목을 잡고 있습니다. 이번 원정길에서 난관을 극복하기 위해서는 초반부터 수비 안정을 찾고 집중력을 유지하는 것이 무엇보다 중요합니다."
+homePower: "최근 11경기 8승으로 높은 승률 기록 및 안정적 상위권 유지|홈 경기에서 집중력 높은 공수 운영으로 승수 쌓기에 강함|직전 경기 패배 이후 빠르게 전력을 재정비해 나서는 상황|꾸준한 득점 생산력을 바탕으로 상대를 압박하는 패턴 보임|안방 이점을 안고 경기를 유리하게 풀어나갈 전력 구축됨"
+awayPower: "앞선 12경기 5승 7패로 다소 기복 있는 흐름 노출됨|원정 경기에서 수비 집중력 저하와 실점 관리 아쉬움 보임|최근 일정에서 승패를 반복하며 완벽한 상승세 타지 못함|고비마다 수비 실책이 이어지며 경기 운영에 차질 빚음|약점 보완을 위해 초반부터 강한 압박 전술 들고 나올 가능성 높음"
+h2h: '[{"date":"26.10.15","home":"서울 삼성","away":"창원 LG","score":"93-86"},{"date":"26.03.13","home":"창원 LG","away":"서울 삼성","score":"97-88"},{"date":"26.02.05","home":"서울 삼성","away":"창원 LG","score":"79-107"},{"date":"26.01.07","home":"창원 LG","away":"서울 삼성","score":"83-70"},{"date":"26.01.02","home":"서울 삼성","away":"창원 LG","score":"62-80"}]'
+summary: "삼성이 최근 보여준 높은 승률과 안정적인 전력 지표를 감안할 때 이번 맞대결에서 우위를 점할 가능성이 높습니다. 창원 LG는 원정 경기에서 수비 집중력 유지가 과제로 남아 있는 만큼 삼성의 공세를 어떻게 막아내느냐가 관건입니다. 맞대결 전적과 최근 흐름을 종합해 볼 때 삼성이 전력상의 우세를 바탕으로 경기를 주도하며 승리를 거둘 것으로 기대됩니다."
+homeRecent: '[{"date":"26.11.14","home":"삼성","away":"안양 정관장","score":"80-87","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-kbl-80109249-2026-11-14-samsung-thunders/"},{"date":"26.11.09","home":"삼성","away":"수원 KT","score":"85-78","result":"🟢승"},{"date":"26.11.07","home":"원주 DB","away":"삼성","score":"84-76","result":"🔴패"},{"date":"26.11.05","home":"울산 현대모비스","away":"삼성","score":"76-81","result":"🟢승"},{"date":"26.11.01","home":"삼성","away":"서울 SK","score":"76-90","result":"🔴패"}]'
+awayRecent: '[{"date":"26.11.15","home":"LG","away":"KT","score":"83-81","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-kbl-80109251-2026-11-15-changwon-lg/"},{"date":"26.11.14","home":"LG","away":"현대모비스","score":"78-79","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-kbl-80109248-2026-11-14-changwon-lg/"},{"date":"26.11.11","home":"LG","away":"서울 SK","score":"101-72","result":"🟢승"},{"date":"26.11.08","home":"LG","away":"부산 KCC","score":"74-84","result":"🔴패"},{"date":"26.11.07","home":"LG","away":"고양 소노","score":"86-85","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbl-202611075066490156-2026-11-07-changwon-lg/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "삼성"
+pickWinResult: "승"
+pickHandicapTeam: "삼성"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "169.5"
+pickOuDirection: "언더"
+---

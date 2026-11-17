@@ -1,0 +1,37 @@
+---
+title: "뉴욕 아일런더스 vs 콜럼버스 블루재킷츠 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T00:00:00.000Z
+description: "뉴욕 아일런더스 vs 콜럼버스 블루재킷츠 하키분석: 뉴욕 아일런더스는 최근 일정에서 평균 득점력을 크게 끌어올리며 공격적인 측면에서 확실한 우위를 점하고 있습니다. 콜럼버스 블루… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378638767-2026-11-18-new-york-islanders"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "뉴욕 아일런더스"
+awayTeam: "콜럼버스 블루재킷츠"
+homeLogo: "https://highlightly.net/hockey/images/teams/588825.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/579464.png"
+homeAnalysis: "뉴욕 아일런더스는 앞선 23경기에서 10승 13패로 승률 43%를 기록했고 다소 기복 있는 레이스를 펼쳐왔습니다. 최근 10경기 흐름을 살펴보면 4승 6패를 기록하며 완연한 반등의 기회를 잡기 위해 분투하고 있습니다. 평균 득점 2.9를 기록 중인 공격력은 최근 10경기에서 평균 3.3득점으로 한층 더 날카로워진 모습을 보여주고 있습니다. 특히 원정 경기에서 잇달아 대승을 거두는 등 화력 집중력이 살아나고 있는 점이 매우 긍정적인 요소입니다. 이번 경기에서도 홈 이점을 바탕으로 공격 주도권을 잡고 상대 수비를 흔들 것으로 기대됩니다."
+awayAnalysis: "콜럼버스 블루재킷츠는 앞선 22경기에서 10승 12패로 승률 45%를 기록했고 중위권 도약을 위해 힘쓰고 있습니다. 최근 10경기에서는 4승 6패를 기록하며 다소 주춤한 흐름을 이어가고 있습니다. 전체 일정을 소화하는 동안 평균 득점 2.5를 기록하며 공격 경로 다양화에 고민을 안고 있습니다. 최근 치른 경기들에서도 득점력 부진과 수비 난조가 겹치며 연패를 끊어내는 데 어려움을 겪고 있습니다. 이번 원정 길에서는 단단한 수비 블록을 형성하고 역습을 노리는 운영이 필요해 보입니다."
+homePower: "최근 5경기 중 원정 2연승 포함 화력 집중력 우수|평균 득점 수치를 웃도는 최근 공격 지표 상승세|홈 경기 운영에서 나타나는 유연한 전술 대처|주요 찬스에서의 결정력은 상위권 수준으로 평가됨|공수 밸런스가 안정세를 찾아가며 승리 확률 높임"
+awayPower: "최근 연패 기간 동안 노출된 수비 집중력 저하|원정 경기에서 드러나는 골 결정력 부족 현상|평균 득점에 머무르는 단조로운 공격 패턴 문제|상대 공세를 막아내기엔 다소 버거운 수비진 체력|실점 허용 후 흐름을 뒤집는 반격 능력 다소 아쉬움"
+h2h: '[]'
+summary: "뉴욕 아일런더스는 최근 일정에서 평균 득점력을 크게 끌어올리며 공격적인 측면에서 확실한 우위를 점하고 있습니다. 콜럼버스 블루재킷츠는 최근 경기들에서 득점 정체와 수비 약점을 드러내며 다소 고전하는 양상을 보였습니다. 양 팀의 최근 흐름과 화력 차이를 고려했을 때 홈팀인 뉴욕 아일런더스가 경기를 주도하며 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.15","home":"애너하임 덕스","away":"뉴욕 아일런더스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378628555-2026-11-15-anaheim-ducks/"},{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378615790-2026-11-13-los-angeles-kings/"},{"date":"26.11.10","home":"산호세 샤크스","away":"뉴욕 아일런더스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378595366-2026-11-10-san-jose-sharks/"},{"date":"26.11.08","home":"뉴욕 아일런더스","away":"뉴저지 데블스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378580899-2026-11-08-new-york-islanders/"},{"date":"26.11.06","home":"뉴욕 아일런더스","away":"캐롤라이나 허리케인스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378569836-2026-11-06-new-york-islanders/"}]'
+awayRecent: '[{"date":"26.11.15","home":"콜럼버스 블루재킷츠","away":"필라델피아 플라이어스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378625151-2026-11-15-columbus-blue-jackets/"},{"date":"26.11.13","home":"콜럼버스 블루재킷츠","away":"탬파베이 라이트닝","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608982-2026-11-13-columbus-blue-jackets/"},{"date":"26.11.11","home":"콜럼버스 블루재킷츠","away":"플로리다 팬더스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378598770-2026-11-11-columbus-blue-jackets/"},{"date":"26.11.07","home":"버펄로 세이버스","away":"콜럼버스 블루재킷츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378575793-2026-11-07-buffalo-sabres/"},{"date":"26.11.06","home":"콜럼버스 블루재킷츠","away":"댈러스 스타스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378568985-2026-11-06-columbus-blue-jackets/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 아일런더스"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 아일런더스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "4"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

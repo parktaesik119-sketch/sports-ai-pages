@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 블루스 vs 애너하임 덕스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T01:00:00.000Z
+description: "세인트루이스 블루스 vs 애너하임 덕스 하키분석: 두 팀의 최근 전력과 흐름을 살펴보면 원정팀이 우위를 점할 가능성이 높습니다. 홈팀 세인트루이스 블루스는 최근 득점력 부진과 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378642171-2026-11-18-st-louis-blues"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "세인트루이스 블루스"
+awayTeam: "애너하임 덕스"
+homeLogo: "https://highlightly.net/hockey/images/teams/594782.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/570954.png"
+homeAnalysis: "세인트루이스 블루스는 앞선 24경기에서 10승 14패로 승률 42%를 기록했고 다소 기복 있는 경기력을 보여주고 있습니다. 최근 치른 10경기에서는 4승 6패를 기록하며 흐름을 완전히 끌어올리지 못하고 있는 모습입니다. 특히 공격 전개 과정에서 확실한 마무리가 아쉽게 작용하며 득점 생산에 어려움을 겪는 경기가 늘어났습니다. 수비 집중력이 흔들리면서 실점 허용 빈도가 높아진 점도 아쉬운 부분으로 꼽힙니다. 홈 경기라는 이점을 안고 경기에 임하지만 전반적인 흐름을 반전시키기 위해서는 세밀한 공수 조율이 필요해 보입니다."
+awayAnalysis: "애너하임 덕스는 앞선 33경기에서 17승 16패로 승률 52%를 기록했고 꾸준하게 승수를 쌓아가며 안정적인 전력을 유지하고 있습니다. 최근 10경기에서도 6승 4패를 거두며 상승세를 타고 있고 특히 막강한 화력을 뽐내고 있습니다. 최근 경기들에서 다득점을 올리는 경기가 많아지면서 공격진의 파괴력이 한층 더 돋보이고 있습니다. 원정 경기에서도 주눅 들지 않고 자신들의 페이스를 유지하는 능력이 뛰어납니다. 공수 균형이 잘 잡혀 있는 만큼 이번 경기에서도 자신들의 강점을 충분히 살려낼 것으로 기대됩니다."
+homePower: "최근 10경기 평균 득점 2.0으로 공격력 정체 뚜렷함|홈 경기 이점에도 불구하고 실점 관리에서 아쉬움 노출됨|득점 기회에서의 결정력 부족이 연패의 주요 원인으로 작용함|수비 조직력의 기복으로 인해 후반 실점 허용 빈도 높음|상승세의 원정팀을 상대로 철저한 수비 위주 운영이 요구됨"
+awayPower: "최근 10경기 평균 4.7득점으로 폭발적인 화력 과시함|원정 경기에서도 흔들림 없는 공격 집중력을 보여줌|다양한 공격 루트를 통해 상대 수비를 무너뜨리는 능력 탁월함|안정적인 공수 밸런스를 바탕으로 경기 주도권을 쉽게 잡음|최근 상승세를 탄 흐름을 이번 경기까지 이어갈 가능성 높음"
+h2h: '[]'
+summary: "두 팀의 최근 전력과 흐름을 살펴보면 원정팀이 우위를 점할 가능성이 높습니다. 홈팀 세인트루이스 블루스는 최근 득점력 부진과 수비 집중력 난조로 다소 주춤한 모습을 보이고 있습니다. 반면 원정팀 애너하임 덕스는 최근 경기에서 막강한 화력을 뽐내며 흐름을 확실히 탄 상태입니다. 공격 집중력과 득점 생산력에서 앞서는 원정팀이 주도권을 잡고 경기를 풀어갈 것으로 보입니다."
+homeRecent: '[{"date":"26.11.15","home":"세인트루이스 블루스","away":"플로리다 팬더스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620045-2026-11-15-st-louis-blues/"},{"date":"26.11.13","home":"유타 매머드","away":"세인트루이스 블루스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614939-2026-11-13-utah-mammoth/"},{"date":"26.11.11","home":"세인트루이스 블루스","away":"디트로이트 레드윙스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378599621-2026-11-11-st-louis-blues/"},{"date":"26.11.08","home":"내슈빌 프레데터스","away":"세인트루이스 블루스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378579197-2026-11-08-nashville-predators/"},{"date":"26.11.06","home":"뉴저지 데블스","away":"세인트루이스 블루스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378570687-2026-11-06-new-jersey-devils/"}]'
+awayRecent: '[{"date":"26.11.16","home":"애너하임 덕스","away":"캘거리 플레임스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631108-2026-11-16-anaheim-ducks/"},{"date":"26.11.15","home":"애너하임 덕스","away":"뉴욕 아일런더스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378628555-2026-11-15-anaheim-ducks/"},{"date":"26.11.12","home":"애너하임 덕스","away":"내슈빌 프레데터스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378606429-2026-11-12-anaheim-ducks/"},{"date":"26.11.09","home":"애너하임 덕스","away":"피츠버그 펭귄스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378592813-2026-11-09-anaheim-ducks/"},{"date":"26.11.07","home":"캘거리 플레임스","away":"애너하임 덕스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378576644-2026-11-07-calgary-flames/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애너하임 덕스"
+pickWinResult: "승"
+pickHandicapTeam: "애너하임 덕스"
+pickHandicapValue: "-2.5"
+pickExpectedHome: "2"
+pickExpectedAway: "5"
+pickOuValue: ""
+pickOuDirection: ""
+---

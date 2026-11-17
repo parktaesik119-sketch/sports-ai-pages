@@ -1,0 +1,37 @@
+---
+title: "위니펙 제츠 vs 오타와 세너터스 하키분석·승부예측 (11월 18일) - 픽천국"
+date: 2026-11-18T00:00:00.000Z
+description: "위니펙 제츠 vs 오타와 세너터스 하키분석: 위니펙 제츠은 최근 공격력이 폭발하며 가파른 상승세를 타고 있고 오타와 세너터스는 탄탄한 승률을 바탕으로 꾸준함을 유지하고 있… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378643022-2026-11-18-winnipeg-jets"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "위니펙 제츠"
+awayTeam: "오타와 세너터스"
+homeLogo: "https://highlightly.net/hockey/images/teams/599888.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/590527.png"
+homeAnalysis: "위니펙 제츠은 앞선 25경기에서 11승 14패로 승률 44%를 기록했고 최근 공수 양면에서 뚜렷한 상승세를 보여주고 있습니다. 초반의 부침을 딛고 최근 10경기에서 6승을 쓸어 담는 동안 평균 득점이 3.9점으로 급증하며 화력이 눈에 띄게 살아났습니다. 시카고 블랙호크스와 댈러스 스타스를 상대로 각각 5득점과 8점을 폭발시키는 등 다득점 생산 능력이 본궤도에 올랐습니다. 홈 경기 일정에서도 밴쿠버 캔쿠스를 6대2로 대파하는 등 공격 집중력을 유감없이 발휘하고 있습니다. 비록 시즌 초반 연패로 인해 전체 승률이 다소 낮아 보이지만 최근의 가파른 흐름은 상대를 압도하기에 충분합니다."
+awayAnalysis: "오타와 세너터스는 앞선 26경기에서 14승 12패로 승률 54%를 기록했고 안정적인 경기 운영을 바탕으로 상위권 도약을 노리고 있습니다. 최근 10경기에서도 6승 4패를 거두며 꾸준히 승수를 쌓아가는 중이며 평균 득점 3.7점을 기록할 만큼 공격 라인의 집중도가 높습니다. 피츠버그 펭귄스를 4대1로 완파하고 콜로라도 아발란체를 접전 끝에 잡아내는 등 원정에서도 쉽게 물러서지 않는 저력을 뽐내고 있습니다. 뉴욕 레인저스를 상대로 7득점을 기록한 화력전부터 한 골 차 승부까지 다양한 양면을 소화할 수 있는 능력이 돋보입니다. 전체적인 승률에서 우위를 점하고 있지만 최근 상승세를 탄 위니펙 제츠을 상대로 만만치 않은 시험대에 오르게 되었습니다."
+homePower: "최근 10경기 평균 득점 3.9점, 공격력 최고조에 달함|시카고 및 댈러스전 대승, 화력전 양상에서 확실한 우위|초반 부진 딛고 최근 6승 4패 흐름, 반등세 뚜렷함|안방 경기에서 득점 생산력 한층 더 강화되는 모습|공격 효율성 높아지면서 경기 운영에 여유가 생김"
+awayPower: "최근 26경기 14승 기록, 전체적인 승률 우위 점증함|원정 최근 10경기 6승 4패로 꾸준한 성적 유지 중|피츠버그전 완승 포함 원정 집중력 높게 유지됨|다양한 득점 루트 활용해 상대를 압박하는 성향|접전 상황에서의 위기 관리 능력이 비교적 탄탄함"
+h2h: '[]'
+summary: "위니펙 제츠은 최근 공격력이 폭발하며 가파른 상승세를 타고 있고 오타와 세너터스는 탄탄한 승률을 바탕으로 꾸준함을 유지하고 있습니다. 양 팀 모두 최근 10경기에서 나란히 6승을 거두며 좋은 흐름을 이어가고 있어 흥미진진한 공방전이 예상됩니다. 전력 비교와 최근 득점력을 종합해 볼 때 위니펙 제츠이 홈 이점을 안고 경기를 주도하며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.15","home":"시카고 블랙호크스","away":"위니펙 제츠","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378619194-2026-11-15-chicago-blackhawks/"},{"date":"26.11.13","home":"댈러스 스타스","away":"위니펙 제츠","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614088-2026-11-13-dallas-stars/"},{"date":"26.11.11","home":"위니펙 제츠","away":"뉴저지 데블스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378600472-2026-11-11-winnipeg-jets/"},{"date":"26.11.09","home":"위니펙 제츠","away":"탬파베이 라이트닝","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378591962-2026-11-09-winnipeg-jets/"},{"date":"26.11.06","home":"위니펙 제츠","away":"밴쿠버 카넉스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574091-2026-11-06-winnipeg-jets/"}]'
+awayRecent: '[{"date":"26.11.15","home":"피츠버그 펭귄스","away":"오타와 세너터스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378623449-2026-11-15-pittsburgh-penguins/"},{"date":"26.11.13","home":"오타와 세너터스","away":"콜로라도 애벌랜치","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378611535-2026-11-13-ottawa-senators/"},{"date":"26.11.11","home":"오타와 세너터스","away":"워싱턴 캐피털스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597068-2026-11-11-ottawa-senators/"},{"date":"26.11.08","home":"오타와 세너터스","away":"유타 매머드","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378581750-2026-11-08-ottawa-senators/"},{"date":"26.11.05","home":"버펄로 세이버스","away":"오타와 세너터스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378563028-2026-11-05-buffalo-sabres/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "위니펙 제츠"
+pickWinResult: "승"
+pickHandicapTeam: "위니펙 제츠"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "5"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---
