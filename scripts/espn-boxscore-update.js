@@ -516,7 +516,7 @@ function parseLeadersFromEvent(event, homeTeamEn, awayTeamEn) {
         let line = `선발투수 ${name}`;
 
         if (record) line += record.startsWith('(') ? ` ${record}` : ` (${record})`;
-        if (era) line += ` ERA ${era`;
+        if (era) line += ` ERA ${era}`;
         if (photo) line += `|${photo}`;
 
         result[side].push(line);
