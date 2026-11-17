@@ -285,22 +285,22 @@ export function matchTeam(espnName, dbName) {
 // 스코어보드 조회 (날짜 기준 경기 목록)
 // ─────────────────────────────────────────────
 export async function fetchEspnEvents(espnSport, dateStr) {
-  const d = dateStr.replace(/-/g, '');
-  const { sport, league } = ESPN_SPORTS[espnSport];
-  const url = `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/scoreboard?dates=${d}&limit=50`;
-  try {
-    const res  = await fetch(url);
-    const data = await res.json();
-    const events = data.events || [];
+  // ESPN scoreboard의 dates 파라미터는 리그/지역 시간대 기준으로 처리될 수 있습니다.
+  // 따라서 응답 첫 경기의 UTC 날짜가 요청 날짜와 다르다는 이유로 전체 결과를 버리면 안 됩니다.
+  const d = String(dateStr || '').replace(/-/g, '');
+  const config = ESPN_SPORTS[espnSport];
+  if (!config || !/^\d{8}$/.test(d)) return [];
 
-    if (events.length > 0) {
-      const firstDate = (events[0].date || '').slice(0, 10);
-      if (firstDate && firstDate !== dateStr) {
-        console.log(`   ⚠️ 스코어보드 날짜 불일치(${firstDate} ≠ ${dateStr}), 팀 스케줄로 전환`);
-        return [];
-      }
+  const { sport, league } = config;
+  const url = `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/scoreboard?dates=${d}&limit=100`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) {
+      console.warn(`   ⚠️ ESPN scoreboard 응답 실패 (${res.status}): ${espnSport} ${dateStr}`);
+      return [];
     }
-    return events;
+    const data = await res.json();
+    return Array.isArray(data.events) ? data.events : [];
   } catch (err) {
     console.error(`❌ 스코어보드 호출 실패 (${dateStr}):`, err.message);
     return [];
@@ -332,23 +332,40 @@ export async function fetchEventFromTeamSchedule(espnSport, teamAbbrOrId, dateSt
 }
 
 // 경기 매칭 (이벤트 목록 중 home/away 팀명이 일치하는 경기 탐색)
-export function findMatchingEvent(events, homeTeamEn, awayTeamEn) {
+export function findMatchingEvent(events, homeTeamEn, awayTeamEn, matchDate = null, maxHours = 36) {
+  if (!Array.isArray(events) || events.length === 0) return null;
+
+  const targetTime = matchDate ? new Date(matchDate).getTime() : NaN;
+  const candidates = [];
+
   for (const event of events) {
     const comp = event.competitions?.[0];
     if (!comp) continue;
     const home = comp.competitors?.find(c => c.homeAway === 'home');
     const away = comp.competitors?.find(c => c.homeAway === 'away');
     if (!home || !away) continue;
+
     const hn = home.team?.displayName || home.team?.name || '';
     const an = away.team?.displayName || away.team?.name || '';
-    if (
+    const namesMatch =
       (matchTeam(hn, homeTeamEn) && matchTeam(an, awayTeamEn)) ||
-      (matchTeam(hn, awayTeamEn) && matchTeam(an, homeTeamEn))
-    ) {
-      return { event, home, away, comp };
-    }
+      (matchTeam(hn, awayTeamEn) && matchTeam(an, homeTeamEn));
+    if (!namesMatch) continue;
+
+    // 같은 팀의 연속 경기/시리즈 경기 오매칭을 막기 위해 경기 시각도 비교합니다.
+    const eventTime = new Date(event.date || '').getTime();
+    const diffHours = Number.isFinite(targetTime) && Number.isFinite(eventTime)
+      ? Math.abs(eventTime - targetTime) / 3600000
+      : 0;
+    if (Number.isFinite(targetTime) && (!Number.isFinite(eventTime) || diffHours > maxHours)) continue;
+
+    candidates.push({ event, home, away, comp, diffHours });
   }
-  return null;
+
+  if (candidates.length === 0) return null;
+  candidates.sort((a, b) => a.diffHours - b.diffHours);
+  const { diffHours, ...best } = candidates[0];
+  return best;
 }
 
 // 경기 상세(summary) 조회 — 라인업, injuries 등 포함
