@@ -191,34 +191,7 @@ function matchTeam(espnName, dbName) {
   return enAlias === dnAlias || enAlias.includes(dnAlias) || dnAlias.includes(enAlias);
 }
 
-// ─────────────────────────────────────────────
-// ESPN 스코어보드 조회
-// ─────────────────────────────────────────────
-async function fetchEspnEvents(espnSport, dateStr) {
-  const d = dateStr.replace(/-/g, '');
-  const { sport, league } = ESPN_SPORTS[espnSport];
-  const url = `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/scoreboard?dates=${d}&limit=50`;
 
-  try {
-    const res = await fetch(url);
-    const data = await res.json();
-    const events = data.events || [];
-
-    if (events.length > 0) {
-      const firstDate = (events[0].date || '').slice(0, 10);
-
-      if (firstDate && firstDate !== dateStr) {
-        console.log(`   ⚠️ 스코어보드 날짜 불일치(${firstDate} ≠ ${dateStr}), 팀 스케줄로 전환`);
-        return [];
-      }
-    }
-
-    return events;
-  } catch (err) {
-    console.error(`❌ 스코어보드 호출 실패 (${dateStr}):`, err.message);
-    return [];
-  }
-}
 
 // ─────────────────────────────────────────────
 // 팀 스케줄 API로 gameId 검색 (WNBA dates 미지원 fallback)
@@ -230,11 +203,45 @@ const WNBA_ABBR_MAP = {
   'new york liberty': 'ny', 'phoenix mercury': 'phx', 'portland fire': 'por',
   'seattle storm': 'sea', 'toronto tempo': 'tor', 'washington mystics': 'wsh',
 };
+const NBA_ABBR_MAP = {
+  'atlanta hawks': 'atl',
+  'boston celtics': 'bos',
+  'brooklyn nets': 'bkn',
+  'charlotte hornets': 'cha',
+  'chicago bulls': 'chi',
+  'cleveland cavaliers': 'cle',
+  'dallas mavericks': 'dal',
+  'denver nuggets': 'den',
+  'detroit pistons': 'det',
+  'golden state warriors': 'gs',
+  'houston rockets': 'hou',
+  'indiana pacers': 'ind',
+  'los angeles clippers': 'lac',
+  'la clippers': 'lac',
+  'los angeles lakers': 'lal',
+  'la lakers': 'lal',
+  'memphis grizzlies': 'mem',
+  'miami heat': 'mia',
+  'milwaukee bucks': 'mil',
+  'minnesota timberwolves': 'min',
+  'new orleans pelicans': 'no',
+  'new york knicks': 'ny',
+  'oklahoma city thunder': 'okc',
+  'orlando magic': 'orl',
+  'philadelphia 76ers': 'phi',
+  'phoenix suns': 'phx',
+  'portland trail blazers': 'por',
+  'sacramento kings': 'sac',
+  'san antonio spurs': 'sa',
+  'toronto raptors': 'tor',
+  'utah jazz': 'utah',
+  'washington wizards': 'wsh',
+};
 
 async function fetchEventFromTeamSchedule(espnSport, teamNameEn, dateStr) {
   const { sport, league } = ESPN_SPORTS[espnSport];
   const key  = teamNameEn.toLowerCase().replace(/\s+w$/i, '').trim();
-  const abbr = WNBA_ABBR_MAP[key];
+  const abbr = WNBA_ABBR_MAP[key] || NBA_ABBR_MAP[key];
 
   if (!abbr) return null;
 
@@ -851,7 +858,15 @@ async function main() {
       new Date(`${utcDateStr}T00:00:00Z`).getTime() - 86400000
     ).toISOString().slice(0, 10);
 
-    const dateCandidates = [utcDateStr, prevUtcDateStr];
+    const nextUtcDateStr = new Date(
+  new Date(`${utcDateStr}T00:00:00Z`).getTime() + 86400000
+).toISOString().slice(0, 10);
+
+const dateCandidates = [
+  utcDateStr,
+  prevUtcDateStr,
+  nextUtcDateStr
+];
 
     if (SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)) {
       outer:
