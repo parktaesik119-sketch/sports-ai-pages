@@ -719,6 +719,18 @@ async function main() {
     let fallbackHomeFormation = '';
     let fallbackAwayFormation = '';
 
+
+    console.log(`   [라인업 판정 진단] ${path.basename(filePath)}`);
+console.log(`   category: ${category}`);
+console.log(`   homeLineup 원본: ${JSON.stringify(fm.homeLineup)}`);
+console.log(`   awayLineup 원본: ${JSON.stringify(fm.awayLineup)}`);
+console.log(`   homeLineup 파싱: ${JSON.stringify(parseStoredLineupArray(fm.homeLineup))}`);
+console.log(`   awayLineup 파싱: ${JSON.stringify(parseStoredLineupArray(fm.awayLineup))}`);
+console.log(`   홈 완료 판정: ${isLineupComplete(fm.homeLineup)}`);
+console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
+
+
+
     if (isLineupComplete(fm.homeLineup) && isLineupComplete(fm.awayLineup)) {
       // ⚠️ 라인업은 이미 채워졌어도, 축구 경기의 포메이션(homeFormation/awayFormation)이
       // 비어있으면 스킵하면 안 된다 — 스킵해버리면 이 파일은 다시는 ESPN을 조회하지
