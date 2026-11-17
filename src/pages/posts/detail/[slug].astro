@@ -720,7 +720,7 @@ const dynamicTitle = (homeTeam && awayTeam && homeTeam !== '홈팀' && awayTeam 
   <!-- 통합 라인업 -->
   {(homeLineupItems.length > 0 || awayLineupItems.length > 0) && (() => {
     const starterLabel =
-  category === 'hockey' ? '선발 골리' : '선발투수';
+  category === 'hockey' ? 'G' : '선발투수';
 
   function parsePitcher(player: string) {
     const base = player.split('|')[0];
