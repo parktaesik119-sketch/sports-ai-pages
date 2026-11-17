@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { deriveFormationFromLineup } from './formation-common.js';
+import { extractInjuries } from './espn-common.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -448,6 +449,103 @@ function matchTeam(espnName, dbName) {
     enAlias.includes(dnAlias) ||
     dnAlias.includes(enAlias)
   );
+}
+
+// ─────────────────────────────────────────────
+// ESPN 부상자 정보 가공
+// ─────────────────────────────────────────────
+
+// 기존 분석글 작성 시 사용하는 부상 정도 분류 기준과 동일하게 적용
+const MINOR_INJURY_STATUS = /day-to-day|paternity|bereavement/i;
+
+function formatEspnInjuries(list) {
+  if (!Array.isArray(list) || list.length === 0) {
+    return '없음';
+  }
+
+  return list
+    .map(injury => {
+      const severity = MINOR_INJURY_STATUS.test(
+        injury.status || ''
+      )
+        ? '경미'
+        : '주요';
+
+      const status = injury.status || '상태 미확인';
+      const detail = injury.detail || '';
+
+      return `${injury.name}[${severity}](${status}${detail ? ' - ' + detail : ''})`;
+    })
+    .join(' | ');
+}
+
+
+// ─────────────────────────────────────────────
+// ESPN 부상자 정보와 기존 frontmatter 비교
+// ─────────────────────────────────────────────
+
+function buildEspnInjuryUpdates(
+  summary,
+  homeTeamEn,
+  awayTeamEn,
+  fm
+) {
+  const injuryGroups = summary?.injuries;
+
+  // ESPN에서 부상자 데이터 자체를 제공하지 않았다면
+  // 기존 게시글의 부상자 정보를 지우지 않는다.
+  if (!Array.isArray(injuryGroups)) {
+    return {};
+  }
+
+  const extracted = extractInjuries(
+    summary,
+    homeTeamEn,
+    awayTeamEn
+  );
+
+  const updates = {};
+
+  // ESPN 응답에 해당 팀의 부상자 그룹이 존재하는지 확인
+  const hasHomeGroup = injuryGroups.some(group => {
+    const teamName =
+      group.team?.displayName ||
+      group.team?.name ||
+      '';
+
+    return matchTeam(teamName, homeTeamEn);
+  });
+
+  const hasAwayGroup = injuryGroups.some(group => {
+    const teamName =
+      group.team?.displayName ||
+      group.team?.name ||
+      '';
+
+    return matchTeam(teamName, awayTeamEn);
+  });
+
+  // 홈팀
+  if (hasHomeGroup) {
+    const newValue = formatEspnInjuries(extracted.home);
+    const oldValue = String(fm.injuryHome || '').trim();
+
+    if (newValue !== oldValue) {
+      updates.injuryHome = newValue;
+    }
+  }
+
+  // 원정팀
+  if (hasAwayGroup) {
+    const newValue = formatEspnInjuries(extracted.away);
+    const oldValue = String(fm.injuryAway || '').trim();
+
+    if (newValue !== oldValue) {
+      updates.injuryAway = newValue;
+    }
+  }
+
+  return updates;
 }
 
 // ─────────────────────────────────────────────
@@ -1380,25 +1478,42 @@ async function main() {
       `   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`
     );
 
+    let lineupAlreadyComplete = false;
+
+if (
+  isLineupComplete(fm.homeLineup) &&
+  isLineupComplete(fm.awayLineup)
+) {
+  needsFormation =
+    category === 'soccer' &&
+    (
+      isEmptyField(fm.homeFormation) ||
+      isEmptyField(fm.awayFormation)
+    );
+
+  if (!needsFormation) {
+
+    // NBA / NHL은 라인업이 완성되어 있어도
+    // 부상자 정보를 갱신하기 위해 ESPN 조회를 진행한다.
     if (
-      isLineupComplete(fm.homeLineup) &&
-      isLineupComplete(fm.awayLineup)
+      category === 'basketball' ||
+      category === 'hockey'
     ) {
-      needsFormation =
-        category === 'soccer' &&
-        (
-          isEmptyField(fm.homeFormation) ||
-          isEmptyField(fm.awayFormation)
-        );
+      lineupAlreadyComplete = true;
 
-      if (!needsFormation) {
-        console.log(
-          `⏩ [스킵] 라인업 완료: ${path.basename(filePath)}`
-        );
+      console.log(
+        `ℹ️ [라인업 완료] 부상자 정보 갱신을 위해 ESPN 재조회: ${path.basename(filePath)}`
+      );
 
-        skipCount++;
-        continue;
-      }
+    } else {
+      console.log(
+        `⏩ [스킵] 라인업 완료: ${path.basename(filePath)}`
+      );
+
+      skipCount++;
+      continue;
+    }
+  }
 
       if (isEmptyField(fm.homeFormation)) {
         fallbackHomeFormation =
@@ -1703,16 +1818,67 @@ async function main() {
     );
 
     const summary = await fetchSummary(
-      espnSport,
-      gameId
+  espnSport,
+  gameId
+);
+
+await new Promise(r => setTimeout(r, 1200));
+
+let homeLineup = [];
+let awayLineup = [];
+
+const updates = {};
+
+// ─────────────────────────────────────────────
+// NBA / NHL 부상자 정보 업데이트
+// ─────────────────────────────────────────────
+
+const injuryUpdates =
+  summary &&
+  (
+    espnSport === 'basketball' ||
+    espnSport === 'hockey'
+  )
+    ? buildEspnInjuryUpdates(
+        summary,
+        homeTeamEn,
+        awayTeamEn,
+        fm
+      )
+    : {};
+
+
+// 라인업이 이미 완성된 NBA / NHL 게시글은
+// 라인업을 다시 처리하지 않고 부상자 정보만 저장한다.
+if (lineupAlreadyComplete) {
+
+  if (Object.keys(injuryUpdates).length > 0) {
+
+    const saved = updateMdFrontmatter(
+      filePath,
+      injuryUpdates
     );
 
-    await new Promise(r => setTimeout(r, 1200));
+    if (saved) {
+      console.log(
+        `   🏥 [부상자 정보 업데이트] ${JSON.stringify(injuryUpdates)}`
+      );
 
-    let homeLineup = [];
-    let awayLineup = [];
+      updatedCount++;
+    } else {
+      skipCount++;
+    }
 
-    const updates = {};
+  } else {
+    console.log(
+      `   ℹ️ 부상자 정보 변경 없음`
+    );
+
+    skipCount++;
+  }
+
+  continue;
+}
 
     // ─────────────────────────────────────────
     // 야구
@@ -1858,42 +2024,63 @@ async function main() {
     // 라인업 데이터 없음
     // ─────────────────────────────────────────
     if (
-      homeLineup.length === 0 &&
-      awayLineup.length === 0
-    ) {
-      console.log(`   ⚠️ 라인업 데이터 없음`);
+  homeLineup.length === 0 &&
+  awayLineup.length === 0
+) {
+  console.log(`   ⚠️ 라인업 데이터 없음`);
 
-      if (
-        (
-          espnSport === 'basketball' ||
-          espnSport.startsWith('basketball_summer') ||
-          espnSport === 'wnba'
-        ) &&
-        summary
-      ) {
-        const players = summary?.boxscore?.players;
+  if (
+    (
+      espnSport === 'basketball' ||
+      espnSport.startsWith('basketball_summer') ||
+      espnSport === 'wnba'
+    ) &&
+    summary
+  ) {
+    const players = summary?.boxscore?.players;
 
-        console.log(
-          `   [진단] boxscore.players 존재: ${!!players} / 길이: ${players?.length ?? 'N/A'}`
-        );
+    console.log(
+      `   [진단] boxscore.players 존재: ${!!players} / 길이: ${players?.length ?? 'N/A'}`
+    );
 
-        if (players && players.length > 0) {
-          const firstTeamAthletes =
-            players[0]?.statistics?.[0]?.athletes;
+    if (players && players.length > 0) {
+      const firstTeamAthletes =
+        players[0]?.statistics?.[0]?.athletes;
 
-          console.log(
-            `   [진단] 첫 팀 athletes 길이: ${firstTeamAthletes?.length ?? 'N/A'} / starter 필드 존재 예시: ${JSON.stringify(firstTeamAthletes?.[0]?.starter)}`
-          );
-        }
-
-        console.log(
-          `   [진단] summary?.rosters 존재: ${!!summary?.rosters} / 길이: ${summary?.rosters?.length ?? 'N/A'}`
-        );
-      }
-
-      skipCount++;
-      continue;
+      console.log(
+        `   [진단] 첫 팀 athletes 길이: ${firstTeamAthletes?.length ?? 'N/A'} / starter 필드 존재 예시: ${JSON.stringify(firstTeamAthletes?.[0]?.starter)}`
+      );
     }
+
+    console.log(
+      `   [진단] summary?.rosters 존재: ${!!summary?.rosters} / 길이: ${summary?.rosters?.length ?? 'N/A'}`
+    );
+  }
+
+  // 라인업은 없더라도 부상자 정보가 변경됐다면 저장
+  if (Object.keys(injuryUpdates).length > 0) {
+
+    const saved = updateMdFrontmatter(
+      filePath,
+      injuryUpdates
+    );
+
+    if (saved) {
+      console.log(
+        `   🏥 [라인업 없음 / 부상자 정보만 업데이트] ${JSON.stringify(injuryUpdates)}`
+      );
+
+      updatedCount++;
+    } else {
+      skipCount++;
+    }
+
+  } else {
+    skipCount++;
+  }
+
+  continue;
+}
 
     // ─────────────────────────────────────────
     // 기존 라인업과 신규 라인업 병합
@@ -1940,10 +2127,13 @@ async function main() {
       );
     }
 
-    const ok = updateMdFrontmatter(
-      filePath,
-      updates
-    );
+    // 라인업 정보와 부상자 정보를 한 번에 저장
+Object.assign(updates, injuryUpdates);
+
+const ok = updateMdFrontmatter(
+  filePath,
+  updates
+);
 
     if (ok) {
       const loggedHomeCount = updates.homeLineup
