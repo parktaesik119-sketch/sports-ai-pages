@@ -1285,9 +1285,14 @@ function mergeLineupSide(oldRaw, newArr, category) {
   const oldArr = parseStoredLineupArray(oldRaw);
   const newSafe = Array.isArray(newArr) ? newArr : [];
 
-  if (category !== 'baseball') {
-    return newSafe.length > 0 ? newSafe : oldArr;
-  }
+  if (category === 'basketball') {
+  // NBA는 양 팀 각각 선발 5명이 확보된 경우에만 교체
+  return newSafe.length >= 5 ? newSafe : oldArr;
+}
+
+if (category !== 'baseball') {
+  return newSafe.length > 0 ? newSafe : oldArr;
+}
 
   const isPitcherLine = line =>
     typeof line === 'string' &&
@@ -1515,23 +1520,25 @@ if (
     }
   }
 
-      if (isEmptyField(fm.homeFormation)) {
-        fallbackHomeFormation =
-          deriveFormationFromLineup(
-            extractPositionsFromStoredLineup(
-              fm.homeLineup
-            )
-          ) || '';
-      }
+      if (needsFormation) {
+  if (isEmptyField(fm.homeFormation)) {
+    fallbackHomeFormation =
+      deriveFormationFromLineup(
+        extractPositionsFromStoredLineup(
+          fm.homeLineup
+        )
+      ) || '';
+  }
 
-      if (isEmptyField(fm.awayFormation)) {
-        fallbackAwayFormation =
-          deriveFormationFromLineup(
-            extractPositionsFromStoredLineup(
-              fm.awayLineup
-            )
-          ) || '';
-      }
+  if (isEmptyField(fm.awayFormation)) {
+    fallbackAwayFormation =
+      deriveFormationFromLineup(
+        extractPositionsFromStoredLineup(
+          fm.awayLineup
+        )
+      ) || '';
+  }
+}
 
       if (
         fallbackHomeFormation ||
@@ -1572,8 +1579,8 @@ if (
       }
 
       console.log(
-        `ℹ️ [계속 진행] 라인업은 완료됐지만 포메이션이 비어있어 재조회: ${path.basename(filePath)}`
-      );
+  `ℹ️ [재조회] 기존 라인업 완성 여부와 관계없이 ESPN 데이터 확인: ${path.basename(filePath)}`
+);
     }
 
     const league = fm.league || '';
