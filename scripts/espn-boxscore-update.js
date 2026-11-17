@@ -1,3 +1,4 @@
+
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -15,18 +16,17 @@ function buildReverseMap(mapFilePath) {
   const content = fs.readFileSync(mapFilePath, 'utf-8');
   const pairs   = [...content.matchAll(/"([^"]+)":\s*"([^"]+)"/g)];
   const reverse = {};
-  // 국가대표 남/여 팀이 같은 한글 라벨을 공유하는 경우가 있어서(예: "Belgium"/"Belgium W"
-  // 둘 다 "벨기에"), 파일에 어느 쪽이 먼저 나오든 상관없이 "W" 접미사 없는 일반(주로 남자부)
-  // 키를 우선 배정한다. 1차: 일반 키 먼저 채우고, 2차: 그래도 비어있는 한글 라벨만
-  // "W" 접미사 키(여자부 전용 팀 등)로 보충한다.
+
   for (const [, en, ko] of pairs) {
     if (/ W$/.test(en)) continue;
     if (!reverse[ko]) reverse[ko] = en;
   }
+
   for (const [, en, ko] of pairs) {
     if (!/ W$/.test(en)) continue;
     if (!reverse[ko]) reverse[ko] = en;
   }
+
   return reverse;
 }
 
@@ -75,7 +75,6 @@ const ESPN_SPORTS = {
   soccer_wwc:      { sport: 'soccer',     league: 'fifa.wwc',      label: '월드컵 (W)'     },
   soccer_afc_asiancup: { sport: 'soccer', league: 'afc.asian.cup', label: 'AFC 아시안컵'    },
   soccer_friendly: { sport: 'soccer',     league: 'fifa.friendly', label: '국제친선'        },
-  // "D1"이라는 한글 라벨을 여러 나라가 공유해서(벨기에/아일랜드) country로 최종 구분한다.
   soccer_belgium:  { sport: 'soccer',     league: 'bel.1',         label: 'D1(벨기에)'      },
   soccer_ireland:  { sport: 'soccer',     league: 'irl.1',         label: 'D1(아일랜드)'    },
 };
@@ -83,25 +82,26 @@ const ESPN_SPORTS = {
 function detectEspnSport(category, league, country, matchDate) {
   const cat = (category || '').toLowerCase();
   const lg  = (league   || '').toUpperCase();
-  // UCL/UEL/UECL 예선은 항상 6~8월에 열리고, 본선(조별/리그 스테이지)은 9월에야 시작한다.
-  // api-sports의 league 필드는 예선/본선을 구분하는 단어 자체를 안 주기 때문에("UEFA
-  // Champions League"로 동일), 이 문자열만으로는 절대 구분할 수 없다 — 날짜로 판별한다.
+
   const isUefaQualSeason = (() => {
     if (!matchDate) return false;
-    const m = new Date(matchDate).getUTCMonth() + 1; // 1~12
+    const m = new Date(matchDate).getUTCMonth() + 1;
     return m >= 6 && m <= 8;
   })();
+
   if (lg.includes('WNBA'))           return 'wnba';
   if (lg.includes('MLB'))            return 'baseball';
-  // NBA 썸머리그는 정규시즌(nba)과 ESPN 리그 코드 자체가 달라서 먼저 걸러내야 함
+
   if (lg.includes('썸머리그') || lg.includes('서머리그') || lg.includes('SUMMER LEAGUE') || lg.includes('CALIFORNIA CLASSIC')) {
     if (lg.includes('솔트레이크') || lg.includes('SALT LAKE') || lg.includes('UTAH'))   return 'basketball_summer_utah';
     if (lg.includes('새크라멘토') || lg.includes('SACRAMENTO') || lg.includes('CALIFORNIA CLASSIC')) return 'basketball_summer_sacramento';
     if (lg.includes('올랜도') || lg.includes('ORLANDO'))       return 'basketball_summer_orlando';
-    return 'basketball_summer_lasvegas'; // 도시 특정 안 되면 참가 팀이 가장 많은 라스베가스로 기본 처리
+    return 'basketball_summer_lasvegas';
   }
+
   if (cat === 'basketball' || lg.includes('NBA')) return 'basketball';
   if (cat === 'hockey'   || lg.includes('NHL'))   return 'hockey';
+
   if (cat === 'soccer') {
     if (lg.includes('MLS'))          return 'soccer_mls';
     if (lg.includes('라리가2'))      return 'soccer_laliga2';
@@ -109,57 +109,57 @@ function detectEspnSport(category, league, country, matchDate) {
     if (lg.includes('분데스리가2'))  return 'soccer_bundesliga2';
     if (lg.includes('분데스리가') && !lg.includes('분데스리가2')) return 'soccer_bundesliga';
     if (lg.includes('프리메라리가')) return 'soccer_primeira';
+
     if (lg.includes('UEFA 챔피언스리그') || lg.includes('UEFA CHAMPIONS')) {
       return isUefaQualSeason ? 'soccer_ucl_qual' : 'soccer_ucl';
     }
-    // 컨퍼런스리그가 "UEFA EUROPA"를 부분 포함하는 원문 표기가 있을 수 있어 유로파리그보다 먼저 확인
+
     if (lg.includes('UEFA 컨퍼런스리그') || lg.includes('UEFA EUROPA CONFERENCE')) {
       return isUefaQualSeason ? 'soccer_uecl_qual' : 'soccer_uecl';
     }
+
     if (lg.includes('UEFA 유로파리그') || lg.includes('UEFA EUROPA')) {
       return isUefaQualSeason ? 'soccer_uel_qual' : 'soccer_uel';
     }
+
     if (lg.includes('FIFA 월드컵') || lg.includes('FIFA WORLD') ||
         (lg.includes('월드컵') && !lg.includes('(W)') && !lg.includes('예선'))) return 'soccer_worldcup';
+
     if (lg.includes('P.L'))          return 'soccer_epl';
     if (lg.includes('세리에 A'))     return 'soccer_seriea';
     if (lg.includes('리그1'))        return 'soccer_ligue1';
     if (lg.includes('에레디비시'))   return 'soccer_eredivisie';
+
     if (lg.includes('프리메라디비전') || (country && String(country).toLowerCase() === 'uruguay')) return 'soccer_uruguay';
+
     if (lg.includes('코파 리베르타도레스') || lg === 'CONMEBOL LIBERTADORES') return 'soccer_libertadores';
     if (lg.includes('코파 수다메리카나') || lg === 'CONMEBOL SUDAMERICANA') return 'soccer_sudamericana';
-    // "네이션스리그(W)"가 "네이션스리그"의 부분집합 문자열이라 여성부를 먼저 확인
+
     if (lg.includes('네이션스리그(W)') || lg === 'NATIONS LEAGUE WOMEN') return 'soccer_nations_w';
     if (lg.includes('네이션스리그') || lg === 'NATIONS LEAGUE') return 'soccer_nations';
+
     if (lg.includes('월드컵 (W)') || lg === 'WORLD CUP - WOMEN') return 'soccer_wwc';
     if (lg.includes('AFC 아시안컵') || lg === 'AFC ASIAN CUP') return 'soccer_afc_asiancup';
     if (lg.includes('국제친선') || lg === 'FRIENDLIES' || lg === 'FRIENDLY INTERNATIONAL') return 'soccer_friendly';
+
     if (lg === 'D1' || lg === 'JUPILER PRO LEAGUE' || lg === 'PREMIER DIVISION') {
-      // "D1" 라벨은 벨기에/아일랜드 등 여러 나라가 공유하므로 country로 최종 판별한다.
-      // country가 없거나 등록되지 않은 나라면 오매칭 방지를 위해 안전하게 스킵(undefined 반환)한다.
       const c = (country || '').toLowerCase();
       if (lg === 'JUPILER PRO LEAGUE' || c === 'belgium') return 'soccer_belgium';
       if (c === 'ireland' || c === 'republic of ireland') return 'soccer_ireland';
     }
-    // K1(K리그): 예전엔 팀명 매칭 100% 실패로 제외했었는데, 원인이 ESPN이 스폰서명을
-    // 생략한 축약 팀명을 쓰는 것(예: "Ulsan HD")으로 확인되어 TEAM_NAME_ALIASES로 보강 후 재활성화.
-    if (lg.includes('K1'))           return 'soccer_kleague';
+
+    if (lg.includes('K1')) return 'soccer_kleague';
   }
+
   return null;
 }
 
 // ─────────────────────────────────────────────
 // 팀명 정규화
 // ─────────────────────────────────────────────
-// ESPN이 api-sports와 다른 축약 팀명을 쓰는 경우의 예외 매핑.
-// (예: K리그 "Ulsan Hyundai FC"를 ESPN은 "Ulsan HD"로 표기 — 중간에 낀 스폰서명
-//  "Hyundai" 때문에 일반 부분포함 매칭이 실패함. 이런 사례가 발견될 때마다 추가한다.)
 const TEAM_NAME_ALIASES = {
   'ulsanhd': 'ulsanhyundaifc',
-  // ESPN은 미국 축구 국가대표를 "United States"로 표기하는데, team_name_map의 영문
-  // 키는 "USA"라 부분포함 매칭이 실패한다(둘 사이에 공통 부분문자열이 없음).
   'usa': 'unitedstates',
-  // ESPN은 안도라의 Inter Club d'Escaldes를 "Club"을 빼고 "Inter D'Escaldes"로 표기한다.
   'interdescaldes': 'interclubdescaldes',
   'newyorkredbulls': 'redbullnewyork',
   'charlotte': 'charlottefc',
@@ -170,25 +170,24 @@ function resolveTeamAlias(normalized) {
 }
 
 function normalize(str) {
-  // 발음기호(다이어크리틱)가 있는 문자를 그냥 삭제하면 글자 자체가 없어져서
-  // 비교가 깨진다(예: "Žalgiris" -> "algiris"). NFD로 분해해서 결합 발음기호만
-  // 떼어내면 "Ž" -> "Z"처럼 기본 알파벳으로 안전하게 변환된다.
-  // ⚠️ NFD 분해는 한글도 자모로 쪼개서 완성형 한글끼리도 다르다고 오판하는 버그가
-  // 있었다(espn-common.js와 동일 이슈, 2026-07) — NFC로 재조합해서 방지.
   const stripped = (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').normalize('NFC');
   return stripped.toLowerCase().replace(/[^a-z0-9가-힣]/g, '');
 }
+
 function normalizeTeamForMatch(str) {
   return normalize(str.replace(/\s+W$/i, ''));
 }
+
 function matchTeam(espnName, dbName) {
   const en = normalizeTeamForMatch(espnName);
   const dn = normalizeTeamForMatch(dbName);
+
   if (!en || !dn) return false;
   if (en === dn || en.includes(dn) || dn.includes(en)) return true;
-  // 일반 매칭 실패 시, 별칭 테이블로 한 번 더 시도 (스폰서명 생략 등 예외 케이스 대응)
+
   const enAlias = resolveTeamAlias(en);
   const dnAlias = resolveTeamAlias(dn);
+
   return enAlias === dnAlias || enAlias.includes(dnAlias) || dnAlias.includes(enAlias);
 }
 
@@ -199,19 +198,21 @@ async function fetchEspnEvents(espnSport, dateStr) {
   const d = dateStr.replace(/-/g, '');
   const { sport, league } = ESPN_SPORTS[espnSport];
   const url = `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/scoreboard?dates=${d}&limit=50`;
+
   try {
-    const res  = await fetch(url);
+    const res = await fetch(url);
     const data = await res.json();
     const events = data.events || [];
 
-    // dates 파라미터가 무시되는 경우 감지 (WNBA 등)
     if (events.length > 0) {
       const firstDate = (events[0].date || '').slice(0, 10);
+
       if (firstDate && firstDate !== dateStr) {
         console.log(`   ⚠️ 스코어보드 날짜 불일치(${firstDate} ≠ ${dateStr}), 팀 스케줄로 전환`);
         return [];
       }
     }
+
     return events;
   } catch (err) {
     console.error(`❌ 스코어보드 호출 실패 (${dateStr}):`, err.message);
@@ -234,21 +235,23 @@ async function fetchEventFromTeamSchedule(espnSport, teamNameEn, dateStr) {
   const { sport, league } = ESPN_SPORTS[espnSport];
   const key  = teamNameEn.toLowerCase().replace(/\s+w$/i, '').trim();
   const abbr = WNBA_ABBR_MAP[key];
+
   if (!abbr) return null;
 
   const url = `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/teams/${abbr}/schedule?season=2026`;
+
   try {
-    const res  = await fetch(url);
+    const res = await fetch(url);
     const data = await res.json();
     const events = data.events || [];
 
-    // ±1일 범위 매칭 (UTC/KST 차이 고려)
     const target = new Date(dateStr);
     const validDates = new Set([
       new Date(target.getTime() - 86400000).toISOString().slice(0, 10),
       dateStr,
       new Date(target.getTime() + 86400000).toISOString().slice(0, 10),
     ]);
+
     return events.filter(e => validDates.has((e.date || '').slice(0, 10)));
   } catch (err) {
     console.error(`❌ 팀 스케줄 호출 실패:`, err.message);
@@ -263,11 +266,15 @@ function findMatchingEvent(events, homeTeamEn, awayTeamEn) {
   for (const event of events) {
     const comp = event.competitions?.[0];
     if (!comp) continue;
+
     const home = comp.competitors?.find(c => c.homeAway === 'home');
     const away = comp.competitors?.find(c => c.homeAway === 'away');
+
     if (!home || !away) continue;
+
     const hn = home.team?.displayName || home.team?.name || '';
     const an = away.team?.displayName || away.team?.name || '';
+
     if (
       (matchTeam(hn, homeTeamEn) && matchTeam(an, awayTeamEn)) ||
       (matchTeam(hn, awayTeamEn) && matchTeam(an, homeTeamEn))
@@ -275,6 +282,7 @@ function findMatchingEvent(events, homeTeamEn, awayTeamEn) {
       return { event, home, away, comp };
     }
   }
+
   return null;
 }
 
@@ -284,8 +292,9 @@ function findMatchingEvent(events, homeTeamEn, awayTeamEn) {
 async function fetchSummary(espnSport, gameId) {
   const { sport, league } = ESPN_SPORTS[espnSport];
   const url = `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/summary?event=${gameId}`;
+
   try {
-    const res  = await fetch(url);
+    const res = await fetch(url);
     const data = await res.json();
     return data;
   } catch (err) {
@@ -303,50 +312,54 @@ function parseBaseballRosters(summary, event, homeTeamEn, awayTeamEn) {
 
   const result = { home: [], away: [] };
 
-  // 선발 타자: starter=true, batOrder 있고 포지션 P 아닌 선수
   for (const rosterGroup of rosters) {
     const teamName = rosterGroup.team?.displayName || rosterGroup.team?.name || '';
-    const isHome   = matchTeam(teamName, homeTeamEn);
-    const side     = isHome ? 'home' : 'away';
+    const isHome = matchTeam(teamName, homeTeamEn);
+    const side = isHome ? 'home' : 'away';
 
     const starters = (rosterGroup.roster || [])
       .filter(p => p.starter && p.batOrder && p.position?.abbreviation !== 'P')
       .sort((a, b) => a.batOrder - b.batOrder);
 
     for (const p of starters) {
-      const name  = p.athlete?.shortName || p.athlete?.displayName || '';
-      const pos   = p.position?.abbreviation || '';
-      const id    = p.athlete?.id || '';
+      const name = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos = p.position?.abbreviation || '';
+      const id = p.athlete?.id || '';
       const photo = id ? `https://a.espncdn.com/i/headshots/mlb/players/full/${id}.png` : '';
-      const sm    = {};
+
+      const sm = {};
       (p.stats || []).forEach(s => { sm[s.name] = s.displayValue; });
+
       const avg = sm['avg'] || '.000';
       let line = `${p.batOrder}번 ${name} (${pos})`;
+
       if (photo) line += `|${photo}`;
       result[side].push(line);
     }
   }
 
-  // 선발 투수: event의 probables에서 추출 → 맨 앞에 삽입
   const comp = event?.competitions?.[0];
+
   for (const competitor of (comp?.competitors || [])) {
     const teamName = competitor.team?.displayName || competitor.team?.name || '';
-    const isHome   = matchTeam(teamName, homeTeamEn);
-    const side     = isHome ? 'home' : 'away';
+    const isHome = matchTeam(teamName, homeTeamEn);
+    const side = isHome ? 'home' : 'away';
 
     for (const prob of (competitor.probables || [])) {
-      const name    = prob.athlete?.shortName || '';
-      const record  = prob.record || '';
+      const name = prob.athlete?.shortName || '';
+      const record = prob.record || '';
       const eraStat = (prob.statistics || []).find(s => s.abbreviation === 'ERA');
-      const era     = eraStat?.displayValue || '';
-      const probId  = prob.athlete?.id || '';
-      const photo   = probId ? `https://a.espncdn.com/i/headshots/mlb/players/full/${probId}.png` : '';
+      const era = eraStat?.displayValue || '';
+      const probId = prob.athlete?.id || '';
+      const photo = probId ? `https://a.espncdn.com/i/headshots/mlb/players/full/${probId}.png` : '';
+
       if (name) {
-        // record에 이미 괄호 포함된 경우 그대로, 없으면 괄호 추가
         let line = `선발투수 ${name}`;
+
         if (record) line += record.startsWith('(') ? ` ${record}` : ` (${record})`;
-        if (era)    line += ` ERA ${era}`;
-        if (photo)  line += `|${photo}`;
+        if (era) line += ` ERA ${era}`;
+        if (photo) line += `|${photo}`;
+
         result[side].unshift(line);
       }
     }
@@ -367,12 +380,12 @@ function parseSoccerRosters(summary, homeTeamEn, awayTeamEn) {
 
   for (const rosterGroup of rosters) {
     const teamName = rosterGroup.team?.displayName || rosterGroup.team?.name || '';
-    const isHome   = matchTeam(teamName, homeTeamEn);
-    const side     = isHome ? 'home' : 'away';
+    const isHome = matchTeam(teamName, homeTeamEn);
+    const side = isHome ? 'home' : 'away';
 
     if (rosterGroup.formation) {
       if (isHome) result.homeFormation = rosterGroup.formation;
-      else        result.awayFormation = rosterGroup.formation;
+      else result.awayFormation = rosterGroup.formation;
     }
 
     const starters = (rosterGroup.roster || [])
@@ -380,23 +393,22 @@ function parseSoccerRosters(summary, homeTeamEn, awayTeamEn) {
       .sort((a, b) => (a.jerseyNumber || 0) - (b.jerseyNumber || 0));
 
     for (const p of starters) {
-      const name  = p.athlete?.shortName || p.athlete?.displayName || '';
-      const pos   = p.position?.abbreviation || '';
-      const id    = p.athlete?.id || '';
+      const name = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos = p.position?.abbreviation || '';
+      const id = p.athlete?.id || '';
       const photo = id ? `https://a.espncdn.com/i/headshots/soccer/players/full/${id}.png` : '';
+
       if (name) result[side].push(`${name} (${pos})${photo ? '|' + photo : ''}`);
     }
 
-    // ⚠️ ESPN이 formation 필드를 안 주는 경기가 있다(하위 리그 등 커버리지가 얕은 경우 —
-    // 실사용에서 확인, 2026-07). 라인업(선수+포지션)은 있으니, footystats와 동일한
-    // 방식(deriveFormationFromLineup)으로 세부 포지션 코드를 세어 유추한다.
     if (!rosterGroup.formation) {
       const derived = deriveFormationFromLineup(
         starters.map(p => ({ position: p.position?.abbreviation || '' }))
       );
+
       if (derived) {
         if (isHome) result.homeFormation = derived;
-        else        result.awayFormation = derived;
+        else result.awayFormation = derived;
       }
     }
   }
@@ -416,22 +428,26 @@ function parseBasketballRosters(summary, homeTeamEn, awayTeamEn) {
 
   for (const rosterGroup of rosters) {
     const teamName = rosterGroup.team?.displayName || rosterGroup.team?.name || '';
-    const isHome   = matchTeam(teamName, homeTeamEn);
-    const side     = isHome ? 'home' : 'away';
+    const isHome = matchTeam(teamName, homeTeamEn);
+    const side = isHome ? 'home' : 'away';
 
     const starters = (rosterGroup.roster || []).filter(p => p.starter);
 
     for (const p of starters) {
-      const name  = p.athlete?.shortName || p.athlete?.displayName || '';
-      const pos   = p.position?.abbreviation || '';
-      const id    = p.athlete?.id || '';
+      const name = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos = p.position?.abbreviation || '';
+      const id = p.athlete?.id || '';
       const photo = id ? `https://a.espncdn.com/i/headshots/nba/players/full/${id}.png` : '';
-      const sm    = {};
+
+      const sm = {};
       (p.stats || []).forEach(s => { sm[s.name] = s.displayValue; });
+
       const ppg = sm['avgPoints'] || sm['points'] || '';
       let line = `${name} (${pos})`;
+
       if (ppg) line += ` | 평균 ${ppg}점`;
       if (photo) line += `|${photo}`;
+
       result[side].push(line);
     }
   }
@@ -441,8 +457,7 @@ function parseBasketballRosters(summary, homeTeamEn, awayTeamEn) {
 }
 
 // ─────────────────────────────────────────────
-// 농구: 경기 종료 후 대비 - boxscore.players(실제 출전/선발 여부 포함)에서 선발 추출
-// (rosters는 경기 전 예상 명단이라 경기 끝나면 비어있는 경우가 있음 - 그때 이걸로 대체)
+// 농구: 경기 종료 후 대비 - boxscore.players에서 선발 추출
 // ─────────────────────────────────────────────
 function parseBasketballBoxscoreStarters(summary, homeTeamEn, awayTeamEn) {
   const players = summary?.boxscore?.players;
@@ -452,19 +467,21 @@ function parseBasketballBoxscoreStarters(summary, homeTeamEn, awayTeamEn) {
 
   for (const teamBlock of players) {
     const teamName = teamBlock.team?.displayName || teamBlock.team?.name || '';
-    const isHome   = matchTeam(teamName, homeTeamEn);
-    const side     = isHome ? 'home' : 'away';
+    const isHome = matchTeam(teamName, homeTeamEn);
+    const side = isHome ? 'home' : 'away';
 
     const athleteEntries = teamBlock.statistics?.[0]?.athletes || [];
     const starters = athleteEntries.filter(p => p.starter);
 
     for (const p of starters) {
-      const name  = p.athlete?.shortName || p.athlete?.displayName || '';
-      const pos   = p.athlete?.position?.abbreviation || '';
-      const id    = p.athlete?.id || '';
+      const name = p.athlete?.shortName || p.athlete?.displayName || '';
+      const pos = p.athlete?.position?.abbreviation || '';
+      const id = p.athlete?.id || '';
       const photo = id ? `https://a.espncdn.com/i/headshots/nba/players/full/${id}.png` : '';
+
       let line = `${name} (${pos})`;
       if (photo) line += `|${photo}`;
+
       result[side].push(line);
     }
   }
@@ -477,31 +494,36 @@ function parseBasketballBoxscoreStarters(summary, homeTeamEn, awayTeamEn) {
 // Fallback: 스코어보드 leaders
 // ─────────────────────────────────────────────
 function parseLeadersFromEvent(event, homeTeamEn, awayTeamEn) {
-  const comp   = event.competitions?.[0];
+  const comp = event.competitions?.[0];
   const result = { home: [], away: [] };
+
   if (!comp) return result;
 
   for (const competitor of (comp.competitors || [])) {
     const teamName = competitor.team?.displayName || competitor.team?.name || '';
-    const isHome   = matchTeam(teamName, homeTeamEn);
-    const side     = isHome ? 'home' : 'away';
+    const isHome = matchTeam(teamName, homeTeamEn);
+    const side = isHome ? 'home' : 'away';
 
     for (const prob of (competitor.probables || [])) {
-      const name   = prob.athlete?.shortName || '';
+      const name = prob.athlete?.shortName || '';
       const record = prob.record || '';
       const eraStat = (prob.statistics || []).find(s => s.abbreviation === 'ERA');
-      const era     = eraStat?.displayValue || '';
-      const probId  = prob.athlete?.id || '';
-      const photo   = probId ? `https://a.espncdn.com/i/headshots/mlb/players/full/${probId}.png` : '';
+      const era = eraStat?.displayValue || '';
+      const probId = prob.athlete?.id || '';
+      const photo = probId ? `https://a.espncdn.com/i/headshots/mlb/players/full/${probId}.png` : '';
+
       if (name) {
         let line = `선발투수 ${name}`;
+
         if (record) line += record.startsWith('(') ? ` ${record}` : ` (${record})`;
-        if (era)    line += ` ERA ${era}`;
-        if (photo)  line += `|${photo}`;
+        if (era) line += ` ERA ${era`;
+        if (photo) line += `|${photo}`;
+
         result[side].push(line);
       }
     }
   }
+
   return result;
 }
 
@@ -509,14 +531,20 @@ function parseLeadersFromEvent(event, homeTeamEn, awayTeamEn) {
 // md frontmatter 업데이트
 // ─────────────────────────────────────────────
 function updateMdFrontmatter(filePath, updates) {
-  let content  = fs.readFileSync(filePath, 'utf-8');
+  let content = fs.readFileSync(filePath, 'utf-8');
   const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-  if (!fmMatch) { console.warn(`⚠️ frontmatter 없음: ${filePath}`); return false; }
+
+  if (!fmMatch) {
+    console.warn(`⚠️ frontmatter 없음: ${filePath}`);
+    return false;
+  }
 
   let fm = fmMatch[1];
+
   for (const [key, value] of Object.entries(updates)) {
     const escaped = String(value).replace(/\\/g, '\\\\').replace(/"/g, '\\"');
-    const regex   = new RegExp(`^${key}:.*$`, 'm');
+    const regex = new RegExp(`^${key}:.*$`, 'm');
+
     if (regex.test(fm)) {
       fm = fm.replace(regex, `${key}: "${escaped}"`);
     } else {
@@ -526,6 +554,7 @@ function updateMdFrontmatter(filePath, updates) {
 
   const newContent = content.replace(/^---\r?\n[\s\S]*?\r?\n---/, `---\n${fm}\n---`);
   fs.writeFileSync(filePath, newContent, 'utf-8');
+
   return true;
 }
 
@@ -534,44 +563,47 @@ function updateMdFrontmatter(filePath, updates) {
 // ─────────────────────────────────────────────
 function parseFrontmatter(filePath) {
   const content = fs.readFileSync(filePath, 'utf-8');
-  const match   = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+
   if (!match) return {};
+
   const fm = {};
+
   for (const line of match[1].split('\n')) {
     const m = line.match(/^(\w+):\s*"?(.*?)"?\s*$/);
     if (m) fm[m[1].trim()] = m[2].trim();
   }
+
   return fm;
 }
 
-// ⚠️ 글 파일명 날짜는 "경기 날짜"가 아니라 "글이 생성된 날"일 뿐이라 신뢰할 수 없다.
-// fetch-all.js가 D+2까지 미리 일정을 당겨와 분석글을 만들어두기 때문에, 실제 경기는 파일명
-// 날짜보다 최대 2일 뒤에 열릴 수 있다 (예: 07-04에 생성된 글 안에 07-06 경기가 들어있는 경우).
-// 그래서 이 스크립트가 "오늘" 실행돼도, 오늘 경기의 라인업을 채워야 할 글은 파일명이
-// 최대 2일 전 날짜일 수 있다 — ±1일로는 부족하고 ±2일 범위까지 봐야 한다.
 function getKstDates() {
   const now = new Date(Date.now() + 9 * 60 * 60 * 1000);
   const offsets = [-2, -1, 0, 1, 2];
-  return offsets.map(n => new Date(now.getTime() + n * 86400000).toISOString().slice(0, 10));
+
+  return offsets.map(n =>
+    new Date(now.getTime() + n * 86400000).toISOString().slice(0, 10)
+  );
 }
 
 function getTargetPostFiles() {
   const targetDates = getKstDates();
+
   if (!fs.existsSync(POSTS_DIR)) return [];
+
   return fs.readdirSync(POSTS_DIR)
     .filter(f => f.endsWith('.md') && targetDates.some(d => f.startsWith(d)))
     .map(f => path.join(POSTS_DIR, f));
 }
 
 // ─────────────────────────────────────────────
-// NBA 썸머리그는 표시용 리그명이 "NBA 썸머리그"로 도시 정보 없이 뭉개져 있어서,
-// frontmatter만 봐서는 어느 도시 대회인지 알 수 없다. database 원본 파일을 대조하는
-// 대신(파일이 정리돼서 없어지거나 날짜가 어긋날 위험이 있음), 4개 도시 스코어보드를
-// 전부 조회해서 실제로 이 두 팀이 있는 곳을 직접 찾는 방식을 쓴다 (메인 루프에서 사용).
+// NBA 썸머리그 도시 키
 // ─────────────────────────────────────────────
 const SUMMER_LEAGUE_CITY_KEYS = [
-  'basketball_summer_utah', 'basketball_summer_lasvegas',
-  'basketball_summer_orlando', 'basketball_summer_sacramento',
+  'basketball_summer_utah',
+  'basketball_summer_lasvegas',
+  'basketball_summer_orlando',
+  'basketball_summer_sacramento',
 ];
 
 // ─────────────────────────────────────────────
@@ -579,7 +611,9 @@ const SUMMER_LEAGUE_CITY_KEYS = [
 // ─────────────────────────────────────────────
 function parseStoredLineupArray(raw) {
   const unescaped = (raw || '').replace(/\\"/g, '"').trim();
+
   if (!unescaped || unescaped === '[]') return [];
+
   try {
     const arr = JSON.parse(unescaped);
     return Array.isArray(arr) ? arr : [];
@@ -588,13 +622,9 @@ function parseStoredLineupArray(raw) {
   }
 }
 
-// 저장된 라인업 문자열("{이름} (포지션)|{사진}")에서 포지션만 뽑아
-// deriveFormationFromLineup()이 기대하는 {position} 객체 배열로 변환한다.
-// ESPN이 이번 실행에 새 로스터 데이터를 전혀 안 준 경우에도(하위 리그라 커버를
-// 아예 안 하는 경우 등), 이미 저장된 라인업(footystats 등 다른 소스가 채운 것 포함)만
-// 있으면 그걸로도 포메이션을 유추할 수 있게 하기 위함(실사용 지적으로 확인, 2026-07).
 function extractPositionsFromStoredLineup(rawLineup) {
   const items = parseStoredLineupArray(rawLineup);
+
   return items.map(line => {
     const m = String(line).match(/\(([^)]+)\)/);
     return { position: m ? m[1].trim() : '' };
@@ -603,22 +633,20 @@ function extractPositionsFromStoredLineup(rawLineup) {
 
 // ─────────────────────────────────────────────
 // 기존 라인업 + 신규 응답 병합
-// - 축구/농구 등: 투수/타자 구분이 없어 통짜로 발표되므로, 새 응답이 있으면 그걸 쓰고
-//   없으면(아직 미발표) 기존 값을 그대로 유지한다.
-// - 야구: 선발투수(probables API)와 타자(rosters API)가 서로 다른 시점에 개별적으로
-//   채워질 수 있어서, 두 줄을 분리해 "새로 왔으면 새 걸로, 안 왔으면 기존 걸로" 각각
-//   독립적으로 채운다. 한쪽만 새로 나왔다고 이미 확보해둔 다른 한쪽을 지우는 일이 없게 함.
 // ─────────────────────────────────────────────
 function mergeLineupSide(oldRaw, newArr, category) {
-  const oldArr  = parseStoredLineupArray(oldRaw);
+  const oldArr = parseStoredLineupArray(oldRaw);
   const newSafe = Array.isArray(newArr) ? newArr : [];
 
   if (category !== 'baseball') {
     return newSafe.length > 0 ? newSafe : oldArr;
   }
 
-  const isPitcherLine = (line) => typeof line === 'string' && line.startsWith('선발투수');
-  const hasPhoto       = (line) => typeof line === 'string' && line.includes('|');
+  const isPitcherLine = line =>
+    typeof line === 'string' && line.startsWith('선발투수');
+
+  const hasPhoto = line =>
+    typeof line === 'string' && line.includes('|');
 
   const oldPitcher = oldArr.find(isPitcherLine) || null;
   const oldBatters = oldArr.filter(l => !isPitcherLine(l));
@@ -626,18 +654,16 @@ function mergeLineupSide(oldRaw, newArr, category) {
   const newPitcher = newSafe.find(isPitcherLine) || null;
   const newBatters = newSafe.filter(l => !isPitcherLine(l));
 
-  // 투수: 새 응답에 사진까지 포함된 정상적인 정보가 있으면 그걸 쓰고,
-  // 없거나(미발표) 부실하면(사진 없음) 기존에 이미 확보한 투수 정보를 지킨다.
   let finalPitcher;
+
   if (newPitcher && (hasPhoto(newPitcher) || !oldPitcher)) {
     finalPitcher = newPitcher;
   } else if (oldPitcher) {
     finalPitcher = oldPitcher;
   } else {
-    finalPitcher = newPitcher; // null 이거나 사진 없는 값 그대로
+    finalPitcher = newPitcher;
   }
 
-  // 타자: 새 응답에 타자 라인업이 있으면 그걸 쓰고, 없으면 기존 걸 유지
   const finalBatters = newBatters.length > 0 ? newBatters : oldBatters;
 
   return finalPitcher ? [finalPitcher, ...finalBatters] : finalBatters;
@@ -647,6 +673,7 @@ async function main() {
   console.log('📊 ESPN 라인업 업데이트 시작\n');
 
   const args = process.argv.slice(2);
+
   const postFiles = args.length > 0
     ? args.filter(f => f.endsWith('.md') && fs.existsSync(f))
     : getTargetPostFiles();
@@ -660,82 +687,94 @@ async function main() {
 
   const eventCache = {};
   let updatedCount = 0;
-  let skipCount    = 0;
+  let skipCount = 0;
 
   for (const filePath of postFiles) {
     const fm = parseFrontmatter(filePath);
 
-    // 라인업이 이미 채워져 있으면 스킵. 종목별로 저장 포맷이 달라서 체크 방식을 분기한다.
-    // - 야구: "1번 김민석 (좌익수)" 형태라 '번 ' 포함 여부로 판단.
-    //   단, 선발투수 사진 기능을 나중에 추가했기 때문에 '번 '만 보면 사진 없는 기존 글이
-    //   영원히 재처리 안 됨 → 선발투수 줄에 사진(|)까지 있는지도 같이 확인.
-    // - 그 외(축구/농구 등): "손흥민 (FW)|photo" 형태라 '번 '이 절대 없음 → 내용이 비어있는지("" 또는 "[]")로 판단
-    //
-    // ⚠️ 홈/원정 라인업은 ESPN에서 각 팀이 개별적으로, 그것도 서로 다른 시점에 발표한다.
-    // 한쪽만(예: homeLineup) 보고 완료 판정을 하면, 먼저 발표된 쪽만 채워진 상태에서
-    // 파일 전체가 "완료"로 스킵되어 늦게 발표되는 반대쪽 팀 라인업이 영영 채워지지 않는
-    // 비대칭 버그가 생긴다. 따라서 홈/원정을 각각 판단해서 "둘 다" 완료된 경우에만 스킵한다.
-    const category  = fm.category  || '';
+    const category = fm.category || '';
 
+    // ─────────────────────────────────────────────
+    // 라인업 완료 여부 판정
+    // ─────────────────────────────────────────────
     const isLineupComplete = (rawLineup) => {
       const unescaped = (rawLineup || '').replace(/\\"/g, '"').trim();
-      const hasBatters = category === 'baseball'
-        ? unescaped.includes('번 ')
-        : (unescaped !== '' && unescaped !== '[]');
-      const pitcherMatch = unescaped.match(/선발투수[^"]*/);
-      const hasPitcherPhoto = category === 'baseball'
-        ? !!(pitcherMatch && pitcherMatch[0].includes('|'))
-        : true; // 야구 아니면 이 조건 자체가 무관하므로 항상 통과
 
-      // ⚠️ 축구는 값이 "있냐 없냐"만 보면 안 된다 — ESPN이 하위 리그에 대해 포지션
-      // 정보를 아예 안 주고 전부 "SUB"로만 채워주는 경우가 실사용에서 확인됨(다누비오
-      // 사례 등, 2026-07). 이런 경우 "라인업이 있다"고 착각해서 다시는 재조회를 안 하면
-      // 영원히 저품질 데이터로 남는다. 전부 SUB(또는 빈 포지션)뿐이면 미완료로 본다.
+      // 빈 값 및 빈 라인업 표시값 확인
+      const isEmptyLineup =
+        !unescaped ||
+        unescaped === '[]' ||
+        unescaped === "''" ||
+        unescaped === '""' ||
+        unescaped === 'null';
+
+      // 1. 야구
+      if (category === 'baseball') {
+        const hasBatters =
+          !isEmptyLineup && unescaped.includes('번 ');
+
+        const pitcherMatch = unescaped.match(/선발투수[^"]*/);
+
+        const hasPitcherPhoto = !!(
+          pitcherMatch && pitcherMatch[0].includes('|')
+        );
+
+        return hasBatters && hasPitcherPhoto;
+      }
+
+      // 2. 농구
+      // 실제 선수 배열이 5명 이상 있어야 완료로 판정
+      if (category === 'basketball') {
+        const arr = parseStoredLineupArray(rawLineup);
+
+        const validPlayers = arr.filter(line =>
+          typeof line === 'string' && line.trim() !== ''
+        );
+
+        return validPlayers.length >= 5;
+      }
+
+      // 3. 그 외 종목
+      const hasBatters = !isEmptyLineup;
+
+      // 축구는 전부 SUB 또는 포지션 없음이면 미완료
       const isAllSubOrEmpty = category === 'soccer' && hasBatters && (() => {
         try {
           const arr = JSON.parse(unescaped);
+
           if (!Array.isArray(arr) || arr.length === 0) return true;
+
           return arr.every(line => {
             const m = String(line).match(/\(([^)]+)\)/);
             const pos = m ? m[1].trim().toUpperCase() : '';
+
             return pos === 'SUB' || pos === '';
           });
         } catch {
-          return false; // 파싱 실패는 보수적으로 "완료"로 취급(안 건드림)
+          return false;
         }
       })();
 
-      return hasBatters && hasPitcherPhoto && !isAllSubOrEmpty;
+      return hasBatters && !isAllSubOrEmpty;
     };
 
-    const isEmptyField = (raw) => !raw || raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
-    // ⚠️ if 블록 안에서 const로 선언했다가, 블록이 끝난 뒤(로그 출력부)에서 다시
-    // 참조하려다가 ReferenceError가 날 뻔했다(cat 버그와 같은 유형) — 파일 루프
-    // 전체에서 접근 가능하도록 여기서 미리 선언해둔다.
+    const isEmptyField = raw =>
+      !raw || raw.trim().replace(/^['"]|['"]$/g, '').trim() === '';
+
     let needsFormation = false;
-    // 저장된 라인업(footystats 등 다른 소스가 채운 것 포함)으로 미리 유추해둔 포메이션.
-    // ESPN이 이번 실행에 새 로스터 데이터를 못 주더라도(하위 리그 등 커버리지가 얕은
-    // 경우) 이걸로 채울 수 있게 폴백용으로 들고 있는다.
     let fallbackHomeFormation = '';
     let fallbackAwayFormation = '';
 
-
     console.log(`   [라인업 판정 진단] ${path.basename(filePath)}`);
-console.log(`   category: ${category}`);
-console.log(`   homeLineup 원본: ${JSON.stringify(fm.homeLineup)}`);
-console.log(`   awayLineup 원본: ${JSON.stringify(fm.awayLineup)}`);
-console.log(`   homeLineup 파싱: ${JSON.stringify(parseStoredLineupArray(fm.homeLineup))}`);
-console.log(`   awayLineup 파싱: ${JSON.stringify(parseStoredLineupArray(fm.awayLineup))}`);
-console.log(`   홈 완료 판정: ${isLineupComplete(fm.homeLineup)}`);
-console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
-
-
+    console.log(`   category: ${category}`);
+    console.log(`   homeLineup 원본: ${JSON.stringify(fm.homeLineup)}`);
+    console.log(`   awayLineup 원본: ${JSON.stringify(fm.awayLineup)}`);
+    console.log(`   homeLineup 파싱: ${JSON.stringify(parseStoredLineupArray(fm.homeLineup))}`);
+    console.log(`   awayLineup 파싱: ${JSON.stringify(parseStoredLineupArray(fm.awayLineup))}`);
+    console.log(`   홈 완료 판정: ${isLineupComplete(fm.homeLineup)}`);
+    console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
 
     if (isLineupComplete(fm.homeLineup) && isLineupComplete(fm.awayLineup)) {
-      // ⚠️ 라인업은 이미 채워졌어도, 축구 경기의 포메이션(homeFormation/awayFormation)이
-      // 비어있으면 스킵하면 안 된다 — 스킵해버리면 이 파일은 다시는 ESPN을 조회하지
-      // 않아서 포메이션이 영영 안 채워진다(실사용 중 확인, 2026-07). footystats-lineup-
-      // update.js도 동일한 이유로 라인업뿐 아니라 포메이션까지 같이 체크하도록 되어 있음.
       needsFormation = category === 'soccer'
         && (isEmptyField(fm.homeFormation) || isEmptyField(fm.awayFormation));
 
@@ -745,33 +784,31 @@ console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
         continue;
       }
 
-      // ⚠️ 여기서 바로 유추를 시도해둔다 — ESPN이 이 경기의 로스터 데이터 자체를
-      // 아예 안 주는 경우(하위 리그라 ESPN 커버리지가 없는 경우 등)에도, 이미 저장된
-      // 라인업(footystats가 채운 것일 수도 있음)만으로 포메이션을 채울 수 있게 하기
-      // 위함이다. "ESPN이 이번에 새로 준 데이터에서만 유추"하던 게 원래 문제였음
-      // (실사용 지적으로 확인, 2026-07).
       if (isEmptyField(fm.homeFormation)) {
-        fallbackHomeFormation = deriveFormationFromLineup(extractPositionsFromStoredLineup(fm.homeLineup)) || '';
+        fallbackHomeFormation =
+          deriveFormationFromLineup(extractPositionsFromStoredLineup(fm.homeLineup)) || '';
       }
-      if (isEmptyField(fm.awayFormation)) {
-        fallbackAwayFormation = deriveFormationFromLineup(extractPositionsFromStoredLineup(fm.awayLineup)) || '';
-      }
-      if (fallbackHomeFormation || fallbackAwayFormation) {
-        console.log(`ℹ️ [저장된 라인업으로 포메이션 유추] ${path.basename(filePath)} | 홈 ${fallbackHomeFormation || '실패'} / 원정 ${fallbackAwayFormation || '실패'}`);
 
-        // ⚠️ 계산하자마자 바로 파일에 반영해둔다 — 뒤에 이어지는 ESPN 조회 로직에는
-        // (종목 인식 실패, 경기 매칭 실패 등) 로그도 없이 조용히 continue하는 지점이
-        // 여러 군데 있어서, 나중에 반영하려고 미루면 그 지점에서 애써 계산한 값이
-        // 통째로 버려지는 사고가 실제로 있었다(실사용 지적으로 확인, 2026-07).
-        // 여기서 즉시 써두면 이후 코드가 어디서 continue하든 상관없이 안전하다.
-        // (뒤에서 ESPN이 진짜 formation 값을 새로 주면 그걸로 다시 덮어써서 업그레이드됨)
+      if (isEmptyField(fm.awayFormation)) {
+        fallbackAwayFormation =
+          deriveFormationFromLineup(extractPositionsFromStoredLineup(fm.awayLineup)) || '';
+      }
+
+      if (fallbackHomeFormation || fallbackAwayFormation) {
+        console.log(
+          `ℹ️ [저장된 라인업으로 포메이션 유추] ${path.basename(filePath)} | 홈 ${fallbackHomeFormation || '실패'} / 원정 ${fallbackAwayFormation || '실패'}`
+        );
+
         const immediateUpdates = {};
+
         if (fallbackHomeFormation) immediateUpdates.homeFormation = fallbackHomeFormation;
         if (fallbackAwayFormation) immediateUpdates.awayFormation = fallbackAwayFormation;
+
         const savedNow = updateMdFrontmatter(filePath, immediateUpdates);
+
         if (savedNow) {
           updatedCount++;
-          // 방금 파일에 쓴 값은 fm에도 반영해서, 뒤에서 다시 빈 값으로 오판하지 않게 한다.
+
           if (fallbackHomeFormation) fm.homeFormation = fallbackHomeFormation;
           if (fallbackAwayFormation) fm.awayFormation = fallbackAwayFormation;
         }
@@ -780,14 +817,10 @@ console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
       console.log(`ℹ️ [계속 진행] 라인업은 완료됐지만 포메이션이 비어있어 재조회: ${path.basename(filePath)}`);
     }
 
-    const league    = fm.league    || '';
+    const league = fm.league || '';
     const homeTeamKo = fm.homeTeam || '';
     const awayTeamKo = fm.awayTeam || '';
 
-    // ⚠️ ESPN 조회에 필요한 정보(팀명/리그명/국가/날짜)는 전부 분석글 frontmatter에
-    // 이미 있다. database/{날짜}.json 같은 원본 파일을 대조할 필요가 전혀 없다 —
-    // 팀명은 team_name_map 역치환(없으면 원문 그대로), 리그명/국가는 frontmatter 값
-    // 그대로, 날짜는 frontmatter의 UTC date 필드를 그대로 쓰면 된다.
     const homeTeamEn = toEnglishTeamName(homeTeamKo);
     const awayTeamEn = toEnglishTeamName(awayTeamKo);
 
@@ -796,6 +829,7 @@ console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
       skipCount++;
       continue;
     }
+
     const utcDateStr = new Date(fm.date).toISOString().slice(0, 10);
 
     const espnSportGuess = detectEspnSport(category, league, fm.country, fm.date);
@@ -811,34 +845,36 @@ console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
     console.log(`   날짜(UTC): ${utcDateStr} / 리그: "${league}"`);
 
     let espnSport = espnSportGuess;
-    let matched   = null;
+    let matched = null;
 
-    // ESPN 스코어보드는 순수 UTC 날짜가 아니라 미국 현지 시간(대략 동부시간) 기준으로
-    // 날짜를 나누는 것으로 확인됐다. 예: 실제 UTC로 "07-07 00:00"에 시작하는 경기가
-    // (=미국 동부시간으로는 전날 저녁) ESPN 스코어보드에는 "07-06" 쪽에 걸려있는 경우가 있다.
-    // 우리 날짜 계산 자체는 정확하지만(항상 UTC 기준), ESPN의 분류 기준이 달라서 생기는
-    // 어긋남이라 UTC-1일도 함께 시도한다.
-    const prevUtcDateStr = new Date(new Date(`${utcDateStr}T00:00:00Z`).getTime() - 86400000)
-      .toISOString().slice(0, 10);
+    const prevUtcDateStr = new Date(
+      new Date(`${utcDateStr}T00:00:00Z`).getTime() - 86400000
+    ).toISOString().slice(0, 10);
+
     const dateCandidates = [utcDateStr, prevUtcDateStr];
 
     if (SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)) {
-      // 표시용 리그명이 "NBA 썸머리그"로 도시 정보가 뭉개져 있어서 어느 도시 대회인지
-      // frontmatter만으로는 알 수 없다. DB 원본 파일을 대조하는 대신, 4개 도시
-      // 스코어보드를 전부 조회해서 실제로 이 두 팀이 있는 곳을 직접 찾는다.
       outer:
       for (const d of dateCandidates) {
         for (const cityKey of SUMMER_LEAGUE_CITY_KEYS) {
           const cacheKey = `${cityKey}_${d}`;
+
           if (!(cacheKey in eventCache)) {
             console.log(`   📡 스코어보드 호출: ${ESPN_SPORTS[cityKey].label} / ${d}`);
             eventCache[cacheKey] = await fetchEspnEvents(cityKey, d);
             await new Promise(r => setTimeout(r, 500));
           }
-          const found = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
+
+          const found = findMatchingEvent(
+            eventCache[cacheKey],
+            homeTeamEn,
+            awayTeamEn
+          );
+
           if (found) {
             matched = found;
             espnSport = cityKey;
+
             console.log(`   ✅ 도시 확인됨: ${ESPN_SPORTS[cityKey].label} (조회 날짜: ${d})`);
             break outer;
           }
@@ -847,55 +883,82 @@ console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
     } else {
       for (const d of dateCandidates) {
         const cacheKey = `${espnSport}_${d}`;
+
         if (!(cacheKey in eventCache)) {
           console.log(`   📡 스코어보드 호출: ${d}`);
           eventCache[cacheKey] = await fetchEspnEvents(espnSport, d);
           await new Promise(r => setTimeout(r, 800));
         }
-        matched = findMatchingEvent(eventCache[cacheKey], homeTeamEn, awayTeamEn);
+
+        matched = findMatchingEvent(
+          eventCache[cacheKey],
+          homeTeamEn,
+          awayTeamEn
+        );
+
         if (matched) {
-          if (d !== utcDateStr) console.log(`   ✅ 하루 전 날짜(${d})에서 찾음 (ESPN 날짜 분류 기준 차이)`);
+          if (d !== utcDateStr) {
+            console.log(`   ✅ 하루 전 날짜(${d})에서 찾음 (ESPN 날짜 분류 기준 차이)`);
+          }
+
           break;
         }
       }
     }
 
-    // 매칭 실패 시 팀 스케줄로 재시도 (현재는 WNBA만 실질적으로 동작, 나머지는 no-op)
     if (!matched) {
       console.log(`   🔄 팀 스케줄 API로 재시도...`);
+
       const scheduleEvents =
         await fetchEventFromTeamSchedule(espnSport, homeTeamEn, utcDateStr) ||
         await fetchEventFromTeamSchedule(espnSport, awayTeamEn, utcDateStr);
+
       if (scheduleEvents?.length > 0) {
-        matched = findMatchingEvent(scheduleEvents, homeTeamEn, awayTeamEn);
+        matched = findMatchingEvent(
+          scheduleEvents,
+          homeTeamEn,
+          awayTeamEn
+        );
       }
     }
 
     if (!matched) {
       console.log(`   ⚠️ 경기 매칭 실패`);
-      // 매칭이 계속 실패하는 리그가 있으면, ESPN이 그날 실제로 어떤 팀명을 쓰는지
-      // 로그에 남겨 TEAM_NAME_ALIASES 등을 보강할 때 근거로 쓴다 (K리그 한정이 아니라 전체 적용).
-      const keysToCheck = SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)
-        ? dateCandidates.flatMap(d => SUMMER_LEAGUE_CITY_KEYS.map(k => `${k}_${d}`))
-        : dateCandidates.map(d => `${espnSport}_${d}`);
-      const todaysEspnTeams = keysToCheck.flatMap(k => (eventCache[k] || []).flatMap(e => {
-        const comp = e.competitions?.[0];
-        return (comp?.competitors || []).map(c => c.team?.displayName || c.team?.name || '');
-      }));
-      console.log(`   [진단] 우리 팀명: "${homeTeamEn}" / "${awayTeamEn}"`);
-      console.log(`   [진단] ESPN이 그 기간(±1일) 쓴 팀명 목록: ${JSON.stringify([...new Set(todaysEspnTeams)])}`);
 
-      // ⚠️ ESPN이 경기 자체를 못 찾아서 여기서 건너뛰더라도, 저장된 라인업으로
-      // 미리 유추해둔 폴백 포메이션이 있으면 그것만이라도 파일에 반영한다.
-      // 이 지점 이후의 코드(실제 updates 적용부)는 여기서 continue하면 아예
-      // 도달을 못 해서, 애써 계산한 값이 통째로 버려지고 있었다(실사용 지적으로 확인, 2026-07).
+      const keysToCheck = SUMMER_LEAGUE_CITY_KEYS.includes(espnSportGuess)
+        ? dateCandidates.flatMap(d =>
+            SUMMER_LEAGUE_CITY_KEYS.map(k => `${k}_${d}`)
+          )
+        : dateCandidates.map(d => `${espnSport}_${d}`);
+
+      const todaysEspnTeams = keysToCheck.flatMap(k =>
+        (eventCache[k] || []).flatMap(e => {
+          const comp = e.competitions?.[0];
+
+          return (comp?.competitors || []).map(
+            c => c.team?.displayName || c.team?.name || ''
+          );
+        })
+      );
+
+      console.log(`   [진단] 우리 팀명: "${homeTeamEn}" / "${awayTeamEn}"`);
+      console.log(
+        `   [진단] ESPN이 그 기간(±1일) 쓴 팀명 목록: ${JSON.stringify([...new Set(todaysEspnTeams)])}`
+      );
+
       const fallbackUpdates = {};
+
       if (fallbackHomeFormation) fallbackUpdates.homeFormation = fallbackHomeFormation;
       if (fallbackAwayFormation) fallbackUpdates.awayFormation = fallbackAwayFormation;
+
       if (Object.keys(fallbackUpdates).length > 0) {
         const ok = updateMdFrontmatter(filePath, fallbackUpdates);
+
         if (ok) {
-          console.log(`   🔄 [경기 매칭 실패했지만 포메이션만 반영] 홈 ${fallbackHomeFormation || '-'} / 원정 ${fallbackAwayFormation || '-'}`);
+          console.log(
+            `   🔄 [경기 매칭 실패했지만 포메이션만 반영] 홈 ${fallbackHomeFormation || '-'} / 원정 ${fallbackAwayFormation || '-'}`
+          );
+
           updatedCount++;
           continue;
         }
@@ -908,88 +971,137 @@ console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
     const { event, comp } = matched;
     const gameId = event.id;
     const status = comp.status?.type?.state || '';
+
     console.log(`   ✅ 매칭 성공 gameId: ${gameId} (상태: ${status})`);
 
-    // summary 조회
     const summary = await fetchSummary(espnSport, gameId);
     await new Promise(r => setTimeout(r, 1200));
 
     let homeLineup = [];
     let awayLineup = [];
-    const updates  = {};
+    const updates = {};
 
     if (espnSport === 'baseball') {
-      const parsed = summary ? parseBaseballRosters(summary, event, homeTeamEn, awayTeamEn) : null;
+      const parsed = summary
+        ? parseBaseballRosters(summary, event, homeTeamEn, awayTeamEn)
+        : null;
+
       if (parsed) {
         homeLineup = parsed.home;
         awayLineup = parsed.away;
       } else {
         const leaders = parseLeadersFromEvent(event, homeTeamEn, awayTeamEn);
+
         homeLineup = leaders.home;
         awayLineup = leaders.away;
       }
-    } else if (espnSport === 'basketball' || espnSport.startsWith('basketball_summer') || espnSport === 'wnba') {
-      let parsed = summary ? parseBasketballRosters(summary, homeTeamEn, awayTeamEn) : null;
-      if (!parsed) parsed = summary ? parseBasketballBoxscoreStarters(summary, homeTeamEn, awayTeamEn) : null;
+    } else if (
+      espnSport === 'basketball' ||
+      espnSport.startsWith('basketball_summer') ||
+      espnSport === 'wnba'
+    ) {
+      let parsed = summary
+        ? parseBasketballRosters(summary, homeTeamEn, awayTeamEn)
+        : null;
+
+      if (!parsed) {
+        parsed = summary
+          ? parseBasketballBoxscoreStarters(summary, homeTeamEn, awayTeamEn)
+          : null;
+      }
+
       if (parsed) {
         homeLineup = parsed.home;
         awayLineup = parsed.away;
       } else {
         const leaders = parseLeadersFromEvent(event, homeTeamEn, awayTeamEn);
+
         homeLineup = leaders.home;
         awayLineup = leaders.away;
       }
     } else if (espnSport.startsWith('soccer_')) {
-      const parsed = summary ? parseSoccerRosters(summary, homeTeamEn, awayTeamEn) : null;
+      const parsed = summary
+        ? parseSoccerRosters(summary, homeTeamEn, awayTeamEn)
+        : null;
+
       if (parsed) {
         homeLineup = parsed.home;
         awayLineup = parsed.away;
+
         if (parsed.homeFormation) updates.homeFormation = parsed.homeFormation;
         if (parsed.awayFormation) updates.awayFormation = parsed.awayFormation;
       } else {
         console.log(`   ℹ️ ${ESPN_SPORTS[espnSport].label} ESPN 라인업 정보 미지원`);
+
         const leaders = parseLeadersFromEvent(event, homeTeamEn, awayTeamEn);
+
         homeLineup = leaders.home;
         awayLineup = leaders.away;
       }
 
-      // ⚠️ ESPN이 이번 실행에 formation을 못 줬으면(parsed 자체가 null이었거나,
-      // parsed는 있는데 formation 필드만 비어있는 경우 둘 다) 위에서 저장된 라인업으로
-      // 미리 유추해둔 값으로 채운다 — "ESPN이 새로 준 데이터에서만 유추"하던 게
-      // 원래 문제였음(실사용 지적으로 확인, 2026-07).
-      if (!updates.homeFormation && fallbackHomeFormation) updates.homeFormation = fallbackHomeFormation;
-      if (!updates.awayFormation && fallbackAwayFormation) updates.awayFormation = fallbackAwayFormation;
+      if (!updates.homeFormation && fallbackHomeFormation) {
+        updates.homeFormation = fallbackHomeFormation;
+      }
+
+      if (!updates.awayFormation && fallbackAwayFormation) {
+        updates.awayFormation = fallbackAwayFormation;
+      }
     } else {
       const leaders = parseLeadersFromEvent(event, homeTeamEn, awayTeamEn);
+
       homeLineup = leaders.home;
       awayLineup = leaders.away;
     }
 
     if (homeLineup.length === 0 && awayLineup.length === 0) {
       console.log(`   ⚠️ 라인업 데이터 없음`);
-      if ((espnSport === 'basketball' || espnSport.startsWith('basketball_summer') || espnSport === 'wnba') && summary) {
+
+      if (
+        (espnSport === 'basketball' ||
+          espnSport.startsWith('basketball_summer') ||
+          espnSport === 'wnba') &&
+        summary
+      ) {
         const players = summary?.boxscore?.players;
-        console.log(`   [진단] boxscore.players 존재: ${!!players} / 길이: ${players?.length ?? 'N/A'}`);
+
+        console.log(
+          `   [진단] boxscore.players 존재: ${!!players} / 길이: ${players?.length ?? 'N/A'}`
+        );
+
         if (players && players.length > 0) {
           const firstTeamAthletes = players[0]?.statistics?.[0]?.athletes;
-          console.log(`   [진단] 첫 팀 athletes 길이: ${firstTeamAthletes?.length ?? 'N/A'} / starter 필드 존재 예시: ${JSON.stringify(firstTeamAthletes?.[0]?.starter)}`);
+
+          console.log(
+            `   [진단] 첫 팀 athletes 길이: ${firstTeamAthletes?.length ?? 'N/A'} / starter 필드 존재 예시: ${JSON.stringify(firstTeamAthletes?.[0]?.starter)}`
+          );
         }
-        console.log(`   [진단] summary?.rosters 존재: ${!!summary?.rosters} / 길이: ${summary?.rosters?.length ?? 'N/A'}`);
+
+        console.log(
+          `   [진단] summary?.rosters 존재: ${!!summary?.rosters} / 길이: ${summary?.rosters?.length ?? 'N/A'}`
+        );
       }
+
       skipCount++;
       continue;
     }
 
-    // 재처리 시, 이미 확보해둔 라인업 조각(투수/타자)을 이번 응답에서 빠졌다는 이유로
-    // 지우지 않도록 병합한다 (예: 홈은 타자만 먼저 나왔다가 다음 실행에서 투수만 새로
-    // 나오는 경우, 기존 타자 정보가 사라지지 않고 투수 정보만 추가로 채워짐).
-    const mergedHomeLineup = mergeLineupSide(fm.homeLineup, homeLineup, category);
-    const mergedAwayLineup = mergeLineupSide(fm.awayLineup, awayLineup, category);
+    const mergedHomeLineup = mergeLineupSide(
+      fm.homeLineup,
+      homeLineup,
+      category
+    );
+
+    const mergedAwayLineup = mergeLineupSide(
+      fm.awayLineup,
+      awayLineup,
+      category
+    );
 
     const mergedHomeStr = JSON.stringify(mergedHomeLineup);
     const mergedAwayStr = JSON.stringify(mergedAwayLineup);
-    const oldHomeStr    = JSON.stringify(parseStoredLineupArray(fm.homeLineup));
-    const oldAwayStr    = JSON.stringify(parseStoredLineupArray(fm.awayLineup));
+
+    const oldHomeStr = JSON.stringify(parseStoredLineupArray(fm.homeLineup));
+    const oldAwayStr = JSON.stringify(parseStoredLineupArray(fm.awayLineup));
 
     if (mergedHomeStr !== oldHomeStr) {
       updates.homeLineup = mergedHomeStr;
@@ -1006,17 +1118,30 @@ console.log(`   원정 완료 판정: ${isLineupComplete(fm.awayLineup)}`);
     const ok = updateMdFrontmatter(filePath, updates);
 
     if (ok) {
-      const loggedHomeCount = updates.homeLineup ? JSON.parse(updates.homeLineup).length : '기존유지';
-      const loggedAwayCount = updates.awayLineup ? JSON.parse(updates.awayLineup).length : '기존유지';
-      // ⚠️ 예전엔 라인업 개수만 로그로 남기고 포메이션은 아예 안 찍혀서, 실제로 채워졌는지
-      // 실패했는지 로그만 보고는 알 수가 없었다(실사용 중 지적으로 확인, 2026-07).
+      const loggedHomeCount = updates.homeLineup
+        ? JSON.parse(updates.homeLineup).length
+        : '기존유지';
+
+      const loggedAwayCount = updates.awayLineup
+        ? JSON.parse(updates.awayLineup).length
+        : '기존유지';
+
       const homeFormationLog = updates.homeFormation
         ? `홈포메이션 ${updates.homeFormation}`
-        : (category === 'soccer' && needsFormation ? '홈포메이션 실패(유추 안 됨)' : '홈포메이션 대상아님');
+        : (category === 'soccer' && needsFormation
+            ? '홈포메이션 실패(유추 안 됨)'
+            : '홈포메이션 대상아님');
+
       const awayFormationLog = updates.awayFormation
         ? `원정포메이션 ${updates.awayFormation}`
-        : (category === 'soccer' && needsFormation ? '원정포메이션 실패(유추 안 됨)' : '원정포메이션 대상아님');
-      console.log(`   🔄 업데이트 완료 | 홈 ${loggedHomeCount}건 / 원정 ${loggedAwayCount}건 | ${homeFormationLog} / ${awayFormationLog}`);
+        : (category === 'soccer' && needsFormation
+            ? '원정포메이션 실패(유추 안 됨)'
+            : '원정포메이션 대상아님');
+
+      console.log(
+        `   🔄 업데이트 완료 | 홈 ${loggedHomeCount}건 / 원정 ${loggedAwayCount}건 | ${homeFormationLog} / ${awayFormationLog}`
+      );
+
       updatedCount++;
     }
   }
