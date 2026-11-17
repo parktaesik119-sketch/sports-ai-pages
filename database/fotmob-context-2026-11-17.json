@@ -203,37 +203,11 @@
     "date": "2026-11-15T19:45:00.000Z",
     "league": "UEFA Nations League A Grp. 1",
     "injuries": {
-      "home": [
-        {
-          "name": "Aurélien Tchouaméni",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Marcus Thuram",
-          "status": "근육 부상",
-          "detail": "Doubtful"
-        },
-        {
-          "name": "Pierre Kalulu",
-          "status": "햄스트링 부상",
-          "detail": "Late November 2026"
-        }
-      ],
+      "home": [],
       "away": [
         {
           "name": "Ümit Akdağ",
           "status": "부상",
-          "detail": "Late November 2026"
-        },
-        {
-          "name": "Uğurcan Çakır",
-          "status": "어깨 부상",
-          "detail": "Mid December 2026"
-        },
-        {
-          "name": "Aral Şimşir",
-          "status": "근육 부상",
           "detail": "Late November 2026"
         },
         {
@@ -4902,7 +4876,7 @@
         "James Emmanuel Okeke (DF)|https://images.fotmob.com/image_resources/playerimages/1659673.png",
         "Séverin Tatolna (DF)|https://images.fotmob.com/image_resources/playerimages/1312649.png",
         "Peter Guinari (DF)|https://images.fotmob.com/image_resources/playerimages/1289166.png",
-        "Christian-Theodor Yawanendji-Malipangou (MF)|https://images.fotmob.com/image_resources/playerimages/1363942.png",
+        "Christian-Theodor Yawanendji-Malipangou (FW)|https://images.fotmob.com/image_resources/playerimages/1363942.png",
         "Geoffrey Kondogbia (MF)|https://images.fotmob.com/image_resources/playerimages/214972.png",
         "Badara Diomandé (MF)|https://images.fotmob.com/image_resources/playerimages/999711.png",
         "Moustapha Djimet (FW)|https://images.fotmob.com/image_resources/playerimages/1680515.png",
@@ -6524,7 +6498,7 @@
         "Christof Jougon (MF)|https://images.fotmob.com/image_resources/playerimages/859509.png",
         "Kévin Appin (FW)|https://images.fotmob.com/image_resources/playerimages/964579.png",
         "Ludovic Blas (FW)|https://images.fotmob.com/image_resources/playerimages/693171.png",
-        "Janïs Antiste (MF)|https://images.fotmob.com/image_resources/playerimages/1131220.png",
+        "Janïs Antiste (FW)|https://images.fotmob.com/image_resources/playerimages/1131220.png",
         "Brighton Labeau (FW)|https://images.fotmob.com/image_resources/playerimages/769932.png"
       ],
       "away": [
@@ -11653,6 +11627,137 @@
     }
   },
   {
+    "home": "St. Kitts and Nevis",
+    "away": "Bonaire",
+    "date": "2026-11-17T19:00:00.000Z",
+    "league": "CONCACAF Nations League B Grp. 3",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "h2h": [
+      {
+        "date": "2026-09-26T00:00:00.000Z",
+        "home": "Bonaire",
+        "away": "St. Kitts and Nevis",
+        "homeScore": 1,
+        "awayScore": 2
+      }
+    ],
+    "recent": {
+      "home": [
+        {
+          "date": "2026-09-26T00:00:00.000Z",
+          "home": "Bonaire",
+          "away": "St. Kitts and Nevis",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-29T00:00:00.000Z",
+          "home": "St. Kitts and Nevis",
+          "away": "Grenada",
+          "homeScore": 3,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-02T21:00:00.000Z",
+          "home": "St. Kitts and Nevis",
+          "away": "Cuba",
+          "homeScore": 3,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-05T21:00:00.000Z",
+          "home": "Cuba",
+          "away": "St. Kitts and Nevis",
+          "homeScore": 2,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-11-13T19:00:00.000Z",
+          "home": "Grenada",
+          "away": "St. Kitts and Nevis",
+          "homeScore": 3,
+          "awayScore": 2
+        }
+      ],
+      "away": [
+        {
+          "date": "2026-09-26T00:00:00.000Z",
+          "home": "Bonaire",
+          "away": "St. Kitts and Nevis",
+          "homeScore": 1,
+          "awayScore": 2
+        },
+        {
+          "date": "2026-09-28T21:00:00.000Z",
+          "home": "Cuba",
+          "away": "Bonaire",
+          "homeScore": 2,
+          "awayScore": 0
+        },
+        {
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": "Bonaire",
+          "away": "Grenada",
+          "homeScore": 2,
+          "awayScore": 3
+        },
+        {
+          "date": "2026-10-06T00:00:00.000Z",
+          "home": "Grenada",
+          "away": "Bonaire",
+          "homeScore": 1,
+          "awayScore": 4
+        },
+        {
+          "date": "2026-11-12T19:00:00.000Z",
+          "home": "Bonaire",
+          "away": "Cuba",
+          "homeScore": 1,
+          "awayScore": 7
+        }
+      ]
+    },
+    "lineup": {
+      "home": [
+        "Julani Archibald (GK)|https://images.fotmob.com/image_resources/playerimages/505019.png",
+        "Jayden Richardson (DF)|https://images.fotmob.com/image_resources/playerimages/1076757.png",
+        "Jordan Bowery (DF)|https://images.fotmob.com/image_resources/playerimages/149895.png",
+        "Luca Crolla (DF)|https://images.fotmob.com/image_resources/playerimages/1859625.png",
+        "Ethan Bristow (DF)|https://images.fotmob.com/image_resources/playerimages/1113767.png",
+        "Raheem Sommersall (MF)|https://images.fotmob.com/image_resources/playerimages/855399.png",
+        "Marley Mintus (MF)|https://images.fotmob.com/image_resources/playerimages/1622225.png",
+        "Romaine Sawyers (MF)|https://images.fotmob.com/image_resources/playerimages/173410.png",
+        "Kyle Kelly (MF)|https://images.fotmob.com/image_resources/playerimages/1423787.png",
+        "Tiquanny Williams (FW)|https://images.fotmob.com/image_resources/playerimages/1261522.png",
+        "Okera Simmonds (FW)|https://images.fotmob.com/image_resources/playerimages/1018907.png"
+      ],
+      "away": [
+        "Denyor Cicilia (GK)|https://images.fotmob.com/image_resources/playerimages/1959669.png",
+        "Jaydelmar Jansen (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Jevairo Pengel (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Railey Martijn (DF)|https://images.fotmob.com/image_resources/playerimages/2341895.png",
+        "Rowendley Martijn (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Robin Cijntje ()|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Shi-jon Martina (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Shedwin Martina (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
+        "Berry Sonnenschein (MF)|https://images.fotmob.com/image_resources/playerimages/1374560.png",
+        "Ninho Felicia (MF)|https://images.fotmob.com/image_resources/playerimages/2128837.png",
+        "Myron Bostdorp (FW)|https://images.fotmob.com/image_resources/playerimages/2232507.png"
+      ]
+    },
+    "formation": {
+      "home": "4-4-2",
+      "away": "4-1-4-1"
+    },
+    "coach": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
     "home": "Belize",
     "away": "Sint Maarten",
     "date": "2026-11-17T19:00:00.000Z",
@@ -11753,9 +11858,9 @@
         "Jaylen Lennan (DF)|https://images.fotmob.com/image_resources/playerimages/1650941.png",
         "Pele Martínez (DF)|https://images.fotmob.com/image_resources/playerimages/1456390.png",
         "Darrel Myvett (MF)|https://images.fotmob.com/image_resources/playerimages/1261610.png",
+        "Andir Chi (MF)|https://images.fotmob.com/image_resources/playerimages/1765668.png",
         "Warren Moss (MF)|https://images.fotmob.com/image_resources/playerimages/1650943.png",
         "Freybin Pagoada (DF)|https://images.fotmob.com/image_resources/playerimages/1765669.png",
-        "Andir Chi (MF)|https://images.fotmob.com/image_resources/playerimages/1765668.png",
         "Nahjib Guerra (MF)|https://images.fotmob.com/image_resources/playerimages/624094.png",
         "Horace Ávila (FW)|https://images.fotmob.com/image_resources/playerimages/1373501.png",
         "Carlos Bernárdez (FW)|https://images.fotmob.com/image_resources/playerimages/620545.png"
@@ -11901,7 +12006,7 @@
         "Thomas Vancaeyezeele (DF)|https://images.fotmob.com/image_resources/playerimages/936220.png",
         "Zedan Charlec (MF)|https://images.fotmob.com/image_resources/playerimages/1544917.png",
         "Yvelin Nozile (FW)|https://images.fotmob.com/image_resources/playerimages/1695196.png",
-        "Jules Haabo (FW)|https://images.fotmob.com/image_resources/playerimages/859850.png",
+        "Jules Haabo (MF)|https://images.fotmob.com/image_resources/playerimages/859850.png",
         "Robinho Besini ()|https://images.fotmob.com/image_resources/playerimages/0.png",
         "Jean-Yves Monimofou ()|https://images.fotmob.com/image_resources/playerimages/0.png"
       ],
@@ -11922,137 +12027,6 @@
     "formation": {
       "home": "4-2-3-1",
       "away": "4-4-2"
-    },
-    "coach": {
-      "home": null,
-      "away": null
-    }
-  },
-  {
-    "home": "St. Kitts and Nevis",
-    "away": "Bonaire",
-    "date": "2026-11-17T20:00:00.000Z",
-    "league": "CONCACAF Nations League B Grp. 3",
-    "injuries": {
-      "home": [],
-      "away": []
-    },
-    "h2h": [
-      {
-        "date": "2026-09-26T00:00:00.000Z",
-        "home": "Bonaire",
-        "away": "St. Kitts and Nevis",
-        "homeScore": 1,
-        "awayScore": 2
-      }
-    ],
-    "recent": {
-      "home": [
-        {
-          "date": "2026-09-26T00:00:00.000Z",
-          "home": "Bonaire",
-          "away": "St. Kitts and Nevis",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-29T00:00:00.000Z",
-          "home": "St. Kitts and Nevis",
-          "away": "Grenada",
-          "homeScore": 3,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-02T21:00:00.000Z",
-          "home": "St. Kitts and Nevis",
-          "away": "Cuba",
-          "homeScore": 3,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-05T21:00:00.000Z",
-          "home": "Cuba",
-          "away": "St. Kitts and Nevis",
-          "homeScore": 2,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-11-13T19:00:00.000Z",
-          "home": "Grenada",
-          "away": "St. Kitts and Nevis",
-          "homeScore": 3,
-          "awayScore": 2
-        }
-      ],
-      "away": [
-        {
-          "date": "2026-09-26T00:00:00.000Z",
-          "home": "Bonaire",
-          "away": "St. Kitts and Nevis",
-          "homeScore": 1,
-          "awayScore": 2
-        },
-        {
-          "date": "2026-09-28T21:00:00.000Z",
-          "home": "Cuba",
-          "away": "Bonaire",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
-          "date": "2026-10-03T00:00:00.000Z",
-          "home": "Bonaire",
-          "away": "Grenada",
-          "homeScore": 2,
-          "awayScore": 3
-        },
-        {
-          "date": "2026-10-06T00:00:00.000Z",
-          "home": "Grenada",
-          "away": "Bonaire",
-          "homeScore": 1,
-          "awayScore": 4
-        },
-        {
-          "date": "2026-11-12T19:00:00.000Z",
-          "home": "Bonaire",
-          "away": "Cuba",
-          "homeScore": 1,
-          "awayScore": 7
-        }
-      ]
-    },
-    "lineup": {
-      "home": [
-        "Julani Archibald (GK)|https://images.fotmob.com/image_resources/playerimages/505019.png",
-        "Jayden Richardson (DF)|https://images.fotmob.com/image_resources/playerimages/1076757.png",
-        "Jordan Bowery (DF)|https://images.fotmob.com/image_resources/playerimages/149895.png",
-        "Luca Crolla (DF)|https://images.fotmob.com/image_resources/playerimages/1859625.png",
-        "Ethan Bristow (DF)|https://images.fotmob.com/image_resources/playerimages/1113767.png",
-        "Raheem Sommersall (MF)|https://images.fotmob.com/image_resources/playerimages/855399.png",
-        "Marley Mintus (MF)|https://images.fotmob.com/image_resources/playerimages/1622225.png",
-        "Romaine Sawyers (MF)|https://images.fotmob.com/image_resources/playerimages/173410.png",
-        "Kyle Kelly (MF)|https://images.fotmob.com/image_resources/playerimages/1423787.png",
-        "Tiquanny Williams (FW)|https://images.fotmob.com/image_resources/playerimages/1261522.png",
-        "Okera Simmonds (FW)|https://images.fotmob.com/image_resources/playerimages/1018907.png"
-      ],
-      "away": [
-        "Denyor Cicilia (GK)|https://images.fotmob.com/image_resources/playerimages/1959669.png",
-        "Jaydelmar Jansen (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
-        "Jevairo Pengel (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
-        "Railey Martijn (DF)|https://images.fotmob.com/image_resources/playerimages/2341895.png",
-        "Rowendley Martijn (DF)|https://images.fotmob.com/image_resources/playerimages/0.png",
-        "Robin Cijntje ()|https://images.fotmob.com/image_resources/playerimages/0.png",
-        "Shi-jon Martina (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
-        "Shedwin Martina (MF)|https://images.fotmob.com/image_resources/playerimages/0.png",
-        "Berry Sonnenschein (MF)|https://images.fotmob.com/image_resources/playerimages/1374560.png",
-        "Ninho Felicia (MF)|https://images.fotmob.com/image_resources/playerimages/2128837.png",
-        "Myron Bostdorp (FW)|https://images.fotmob.com/image_resources/playerimages/2232507.png"
-      ]
-    },
-    "formation": {
-      "home": "4-4-2",
-      "away": "4-1-4-1"
     },
     "coach": {
       "home": null,
