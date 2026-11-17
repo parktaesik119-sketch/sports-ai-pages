@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"보스턴 브루인스","away":"미네�
 awayRecent: '[{"date":"26.11.15","home":"LA 킹스","away":"캘거리 플레임스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378629406-2026-11-15-los-angeles-kings/"},{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378615790-2026-11-13-los-angeles-kings/"},{"date":"26.11.11","home":"LA 킹스","away":"내슈빌 프레데터스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378601323-2026-11-11-los-angeles-kings/"},{"date":"26.11.08","home":"LA 킹스","away":"피츠버그 펭귄스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378586005-2026-11-08-los-angeles-kings/"},{"date":"26.11.05","home":"LA 킹스","away":"산호세 샤크스","score":"7-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378564730-2026-11-05-los-angeles-kings/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Swayman|https://a.espncdn.com/i/headshots/mlb/players/full/4712036.png\"]"
+awayLineup: "[\"선발투수 D. Kuemper|https://a.espncdn.com/i/headshots/mlb/players/full/2610321.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"탬파베이 라이트닝","away":"디�
 awayRecent: '[{"date":"26.11.15","home":"워싱턴 캐피털스","away":"뉴저지 데블스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620896-2026-11-15-washington-capitals/"},{"date":"26.11.13","home":"뉴저지 데블스","away":"워싱턴 캐피털스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378610684-2026-11-13-new-jersey-devils/"},{"date":"26.11.11","home":"오타와 세너터스","away":"워싱턴 캐피털스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597068-2026-11-11-ottawa-senators/"},{"date":"26.11.08","home":"워싱턴 캐피털스","away":"플로리다 팬더스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378578346-2026-11-08-washington-capitals/"},{"date":"26.11.04","home":"워싱턴 캐피털스","away":"댈러스 스타스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378553667-2026-11-04-washington-capitals/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Vasilevskiy|https://a.espncdn.com/i/headshots/mlb/players/full/2976847.png\"]"
+awayLineup: "[\"선발투수 L. Thompson|https://a.espncdn.com/i/headshots/mlb/players/full/4272888.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

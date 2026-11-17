@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"멤피스 그리즐리","away":"브루�
 awayRecent: '[{"date":"26.11.16","home":"필라델피아 76ers","away":"인디애나 페이서스","score":"131-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109769-2026-11-16-philadelphia-76ers/"},{"date":"26.11.13","home":"필라델피아 76ers","away":"토론토 랩터스","score":"123-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109751-2026-11-13-philadelphia-76ers/"},{"date":"26.11.03","home":"필라델피아 76ers","away":"시카고 불스","score":"126-107","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110220-2026-11-03-philadelphia-76ers/"},{"date":"26.10.26","home":"필라델피아 76ers","away":"디트로이트 피스톤스","score":"93-106","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102520-2026-10-26-philadelphia-76ers/"},{"date":"26.10.25","home":"필라델피아 76ers","away":"밀워키 벅스","score":"127-116","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102420-2026-10-25-philadelphia-76ers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"J. Randle (F)|https://a.espncdn.com/i/headshots/nba/players/full/3064514.png\",\"M. Porter Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4278104.png\",\"D. Sharpe (C)|https://a.espncdn.com/i/headshots/nba/players/full/4432194.png\",\"E. Demin (G)|https://a.espncdn.com/i/headshots/nba/players/full/5175643.png\",\"N. Traore (G)|https://a.espncdn.com/i/headshots/nba/players/full/5279130.png\"]"
+awayLineup: "[\"D. Wade (F)|https://a.espncdn.com/i/headshots/nba/players/full/3912848.png\",\"J. Embiid (C)|https://a.espncdn.com/i/headshots/nba/players/full/3059318.png\",\"J. Brown (G)|https://a.espncdn.com/i/headshots/nba/players/full/3917376.png\",\"T. Maxey (G)|https://a.espncdn.com/i/headshots/nba/players/full/4431678.png\",\"V. Edgecombe (G)|https://a.espncdn.com/i/headshots/nba/players/full/5124612.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

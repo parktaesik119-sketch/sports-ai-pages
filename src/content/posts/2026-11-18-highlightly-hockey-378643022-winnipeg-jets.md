@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"시카고 블랙호크스","away":"위�
 awayRecent: '[{"date":"26.11.15","home":"피츠버그 펭귄스","away":"오타와 세너터스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378623449-2026-11-15-pittsburgh-penguins/"},{"date":"26.11.13","home":"오타와 세너터스","away":"콜로라도 애벌랜치","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378611535-2026-11-13-ottawa-senators/"},{"date":"26.11.11","home":"오타와 세너터스","away":"워싱턴 캐피털스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597068-2026-11-11-ottawa-senators/"},{"date":"26.11.08","home":"오타와 세너터스","away":"유타 매머드","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378581750-2026-11-08-ottawa-senators/"},{"date":"26.11.05","home":"버펄로 세이버스","away":"오타와 세너터스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378563028-2026-11-05-buffalo-sabres/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Skinner|https://a.espncdn.com/i/headshots/mlb/players/full/4268767.png\"]"
+awayLineup: "[\"선발투수 L. Ullmark|https://a.espncdn.com/i/headshots/mlb/players/full/3069285.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

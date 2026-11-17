@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"애너하임 덕스","away":"뉴욕 아
 awayRecent: '[{"date":"26.11.15","home":"콜럼버스 블루재킷츠","away":"필라델피아 플라이어스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378625151-2026-11-15-columbus-blue-jackets/"},{"date":"26.11.13","home":"콜럼버스 블루재킷츠","away":"탬파베이 라이트닝","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608982-2026-11-13-columbus-blue-jackets/"},{"date":"26.11.11","home":"콜럼버스 블루재킷츠","away":"플로리다 팬더스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378598770-2026-11-11-columbus-blue-jackets/"},{"date":"26.11.07","home":"버펄로 세이버스","away":"콜럼버스 블루재킷츠","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378575793-2026-11-07-buffalo-sabres/"},{"date":"26.11.06","home":"콜럼버스 블루재킷츠","away":"댈러스 스타스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378568985-2026-11-06-columbus-blue-jackets/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 I. Sorokin|https://a.espncdn.com/i/headshots/mlb/players/full/3151981.png\"]"
+awayLineup: "[\"선발투수 J. Greaves|https://a.espncdn.com/i/headshots/mlb/players/full/4894366.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

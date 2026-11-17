@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.16","home":"댈러스 스타스","away":"플로리�
 awayRecent: '[{"date":"26.11.16","home":"필라델피아 플라이어스","away":"에드먼턴 오일러스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378630257-2026-11-16-philadelphia-flyers/"},{"date":"26.11.15","home":"토론토 메이플 리프스","away":"에드먼턴 오일러스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378622598-2026-11-15-toronto-maple-leafs/"},{"date":"26.11.12","home":"에드먼턴 오일러스","away":"필라델피아 플라이어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603876-2026-11-12-edmonton-oilers/"},{"date":"26.11.10","home":"에드먼턴 오일러스","away":"뉴욕 레인저스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378593664-2026-11-10-edmonton-oilers/"},{"date":"26.11.08","home":"에드먼턴 오일러스","away":"밴쿠버 카넉스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378587707-2026-11-08-edmonton-oilers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Markstrom|https://a.espncdn.com/i/headshots/mlb/players/full/5452.png\"]"
+awayLineup: "[\"선발투수 D. Levi|https://a.espncdn.com/i/headshots/mlb/players/full/4894487.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"뉴올리언스 펠리컨스","away":"�
 awayRecent: '[{"date":"26.11.16","home":"피닉스 선즈","away":"LA 레이커스","score":"123-131","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109770-2026-11-16-phoenix-suns/"},{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네츠","score":"101-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109754-2026-11-13-phoenix-suns/"},{"date":"26.11.03","home":"골든스테이트 워리어스","away":"피닉스 선즈","score":"116-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110209-2026-11-03-golden-state-warriors/"},{"date":"26.10.25","home":"피닉스 선즈","away":"골든스테이트 워리어스","score":"131-122","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102421-2026-10-25-phoenix-suns/"},{"date":"26.10.22","home":"포틀랜드 트레일블레이저스","away":"피닉스 선즈","score":"124-83","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102122-2026-10-22-portland-trail-blazers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"A. Gordon (F)|https://a.espncdn.com/i/headshots/nba/players/full/3064290.png\",\"C. Johnson (F)|https://a.espncdn.com/i/headshots/nba/players/full/3138196.png\",\"N. Jokic (C)|https://a.espncdn.com/i/headshots/nba/players/full/3112335.png\",\"J. Murray (G)|https://a.espncdn.com/i/headshots/nba/players/full/3936299.png\",\"C. Braun (G)|https://a.espncdn.com/i/headshots/nba/players/full/4431767.png\"]"
+awayLineup: "[\"D. Brooks (F)|https://a.espncdn.com/i/headshots/nba/players/full/3155526.png\",\"M. Bridges (F)|https://a.espncdn.com/i/headshots/nba/players/full/4066383.png\",\"O. Ighodaro (F)|https://a.espncdn.com/i/headshots/nba/players/full/4601023.png\",\"D. Booker (G)|https://a.espncdn.com/i/headshots/nba/players/full/3136193.png\",\"J. Green (G)|https://a.espncdn.com/i/headshots/nba/players/full/4437244.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

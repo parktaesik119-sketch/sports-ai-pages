@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"유타 매머드","away":"산호세 샤
 awayRecent: '[{"date":"26.11.14","home":"밴쿠버 카넉스","away":"뉴욕 레인저스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378616641-2026-11-14-vancouver-canucks/"},{"date":"26.11.10","home":"밴쿠버 카넉스","away":"필라델피아 플라이어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378594515-2026-11-10-vancouver-canucks/"},{"date":"26.11.08","home":"에드먼턴 오일러스","away":"밴쿠버 카넉스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378587707-2026-11-08-edmonton-oilers/"},{"date":"26.11.06","home":"위니펙 제츠","away":"밴쿠버 카넉스","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574091-2026-11-06-winnipeg-jets/"},{"date":"26.11.04","home":"밴쿠버 카넉스","away":"애너하임 덕스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378562177-2026-11-04-vancouver-canucks/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Vejmelka|https://a.espncdn.com/i/headshots/mlb/players/full/3942065.png\"]"
+awayLineup: "[\"선발투수 N. Tolopilo|https://a.espncdn.com/i/headshots/mlb/players/full/5188534.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

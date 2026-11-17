@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.16","home":"베가스 골든나이츠","away":"밴�
 awayRecent: '[{"date":"26.11.16","home":"댈러스 스타스","away":"플로리다 팬더스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631959-2026-11-16-dallas-stars/"},{"date":"26.11.15","home":"댈러스 스타스","away":"버펄로 세이버스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626853-2026-11-15-dallas-stars/"},{"date":"26.11.13","home":"댈러스 스타스","away":"위니펙 제츠","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614088-2026-11-13-dallas-stars/"},{"date":"26.11.08","home":"댈러스 스타스","away":"산호세 샤크스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378584303-2026-11-08-dallas-stars/"},{"date":"26.11.06","home":"콜럼버스 블루재킷츠","away":"댈러스 스타스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378568985-2026-11-06-columbus-blue-jackets/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Hill|https://a.espncdn.com/i/headshots/mlb/players/full/3939714.png\"]"
+awayLineup: "[\"선발투수 J. Oettinger|https://a.espncdn.com/i/headshots/mlb/players/full/4196914.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"시카고 블랙호크스","away":"위�
 awayRecent: '[{"date":"26.11.15","home":"토론토 메이플 리프스","away":"에드먼턴 오일러스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378622598-2026-11-15-toronto-maple-leafs/"},{"date":"26.11.13","home":"토론토 메이플 리프스","away":"미네소타 와일드","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378612386-2026-11-13-toronto-maple-leafs/"},{"date":"26.11.11","home":"토론토 메이플 리프스","away":"콜로라도 애벌랜치","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378596217-2026-11-11-toronto-maple-leafs/"},{"date":"26.11.09","home":"토론토 메이플 리프스","away":"뉴저지 데블스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378591111-2026-11-09-toronto-maple-leafs/"},{"date":"26.11.08","home":"토론토 메이플 리프스","away":"몬트리올 캐네이디언스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378582601-2026-11-08-toronto-maple-leafs/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Knight|https://a.espncdn.com/i/headshots/mlb/players/full/4565234.png\"]"
+awayLineup: "[\"선발투수 S. Bobrovsky|https://a.espncdn.com/i/headshots/mlb/players/full/5571.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.12","home":"멤피스 그리즐리","away":"덴버 
 awayRecent: '[{"date":"26.11.12","home":"뉴올리언스 펠리컨스","away":"브루클린 네츠","score":"111-145","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109744-2026-11-12-new-orleans-pelicans/"},{"date":"26.11.03","home":"뉴욕 닉스","away":"브루클린 네츠","score":"103-90","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110218-2026-11-03-new-york-knicks/"},{"date":"26.10.26","home":"브루클린 네츠","away":"인디애나 페이서스","score":"109-136","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102517-2026-10-26-brooklyn-nets/"},{"date":"26.10.25","home":"클리블랜드 캐벌리어스","away":"브루클린 네츠","score":"125-121","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102405-2026-10-25-cleveland-cavaliers/"},{"date":"26.10.22","home":"브루클린 네츠","away":"샬럿 호네츠","score":"103-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102117-2026-10-22-brooklyn-nets/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"C. Coward (F)|https://a.espncdn.com/i/headshots/nba/players/full/4903027.png\",\"C. Boozer (F)|https://a.espncdn.com/i/headshots/nba/players/full/5041935.png\",\"J. Wells (F)|https://a.espncdn.com/i/headshots/nba/players/full/5112087.png\",\"I. Stewart (C)|https://a.espncdn.com/i/headshots/nba/players/full/4432810.png\",\"C. Spencer (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433083.png\"]"
+awayLineup: "[\"J. Randle (F)|https://a.espncdn.com/i/headshots/nba/players/full/3064514.png\",\"N. Clowney (F)|https://a.espncdn.com/i/headshots/nba/players/full/4712896.png\",\"D. Wolf (F)|https://a.espncdn.com/i/headshots/nba/players/full/5107173.png\",\"D. Sharpe (C)|https://a.espncdn.com/i/headshots/nba/players/full/4432194.png\",\"E. Demin (G)|https://a.espncdn.com/i/headshots/nba/players/full/5175643.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

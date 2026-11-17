@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.16","home":"필라델피아 플라이어스","away"
 awayRecent: '[{"date":"26.11.15","home":"댈러스 스타스","away":"버펄로 세이버스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626853-2026-11-15-dallas-stars/"},{"date":"26.11.13","home":"시카고 블랙호크스","away":"버펄로 세이버스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378613237-2026-11-13-chicago-blackhawks/"},{"date":"26.11.12","home":"버펄로 세이버스","away":"탬파베이 라이트닝","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378602174-2026-11-12-buffalo-sabres/"},{"date":"26.11.09","home":"버펄로 세이버스","away":"베가스 골든나이츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378589409-2026-11-09-buffalo-sabres/"},{"date":"26.11.07","home":"버펄로 세이버스","away":"콜럼버스 블루재킷츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378575793-2026-11-07-buffalo-sabres/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Vladar|https://a.espncdn.com/i/headshots/mlb/players/full/3942459.png\"]"
+awayLineup: "[\"선발투수 A. Lyon|https://a.espncdn.com/i/headshots/mlb/players/full/3654006.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.12","home":"산호세 샤크스","away":"피츠버�
 awayRecent: '[{"date":"26.11.14","home":"베가스 골든나이츠","away":"내슈빌 프레데터스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378617492-2026-11-14-vegas-golden-knights/"},{"date":"26.11.12","home":"애너하임 덕스","away":"내슈빌 프레데터스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378606429-2026-11-12-anaheim-ducks/"},{"date":"26.11.11","home":"LA 킹스","away":"내슈빌 프레데터스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378601323-2026-11-11-los-angeles-kings/"},{"date":"26.11.08","home":"내슈빌 프레데터스","away":"세인트루이스 블루스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378579197-2026-11-08-nashville-predators/"},{"date":"26.11.06","home":"콜로라도 애벌랜치","away":"내슈빌 프레데터스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574942-2026-11-06-colorado-avalanche/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Nedeljkovic|https://a.espncdn.com/i/headshots/mlb/players/full/3114994.png\"]"
+awayLineup: "[\"선발투수 J. Saros|https://a.espncdn.com/i/headshots/mlb/players/full/3042109.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

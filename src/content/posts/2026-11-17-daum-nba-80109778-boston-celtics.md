@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.16","home":"보스턴 셀틱스","away":"댈러스 
 awayRecent: '[{"date":"26.11.14","home":"올랜도 매직","away":"밀워키 벅스","score":"107-99","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109756-2026-11-14-orlando-magic/"},{"date":"26.11.12","home":"유타 재즈","away":"올랜도 매직","score":"108-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109748-2026-11-12-utah-jazz/"},{"date":"26.11.03","home":"올랜도 매직","away":"워싱턴 위저즈","score":"94-103","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110219-2026-11-03-orlando-magic/"},{"date":"26.10.26","home":"뉴욕 닉스","away":"올랜도 매직","score":"102-111","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102518-2026-10-26-new-york-knicks/"},{"date":"26.10.24","home":"올랜도 매직","away":"미네소타 팀버울브스","score":"93-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102319-2026-10-24-orlando-magic/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"P. George (F)|https://a.espncdn.com/i/headshots/nba/players/full/4251.png\",\"J. Tatum (F)|https://a.espncdn.com/i/headshots/nba/players/full/4065648.png\",\"L. Garza (C)|https://a.espncdn.com/i/headshots/nba/players/full/4277951.png\",\"D. White (G)|https://a.espncdn.com/i/headshots/nba/players/full/3078576.png\",\"J. Walsh (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683689.png\"]"
+awayLineup: "[\"F. Wagner (F)|https://a.espncdn.com/i/headshots/nba/players/full/4566434.png\",\"W. Carter Jr. (C)|https://a.espncdn.com/i/headshots/nba/players/full/4277847.png\",\"D. Bane (G)|https://a.espncdn.com/i/headshots/nba/players/full/4066320.png\",\"J. Suggs (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432165.png\",\"A. Black (G)|https://a.espncdn.com/i/headshots/nba/players/full/4712849.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

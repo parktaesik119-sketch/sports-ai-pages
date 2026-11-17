@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.12","home":"에드먼턴 오일러스","away":"필�
 awayRecent: '[{"date":"26.11.12","home":"에드먼턴 오일러스","away":"필라델피아 플라이어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603876-2026-11-12-edmonton-oilers/"},{"date":"26.11.10","home":"에드먼턴 오일러스","away":"뉴욕 레인저스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378593664-2026-11-10-edmonton-oilers/"},{"date":"26.11.08","home":"에드먼턴 오일러스","away":"밴쿠버 카넉스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378587707-2026-11-08-edmonton-oilers/"},{"date":"26.11.06","home":"에드먼턴 오일러스","away":"애너하임 덕스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378573240-2026-11-06-edmonton-oilers/"},{"date":"26.11.04","home":"뉴저지 데블스","away":"에드먼턴 오일러스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378557922-2026-11-04-new-jersey-devils/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 D. Vladar|https://a.espncdn.com/i/headshots/mlb/players/full/3942459.png\"]"
+awayLineup: "[\"선발투수 T. Jarry|https://a.espncdn.com/i/headshots/mlb/players/full/3042020.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

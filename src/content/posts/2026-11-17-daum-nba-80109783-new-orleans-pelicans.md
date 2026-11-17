@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"뉴올리언스 펠리컨스","away":"�
 awayRecent: '[{"date":"26.11.14","home":"샌안토니오 스퍼스","away":"골든스테이트 워리어스","score":"123-85","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109761-2026-11-14-san-antonio-spurs/"},{"date":"26.11.12","home":"휴스턴 로키츠","away":"골든스테이트 워리어스","score":"115-108","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109749-2026-11-12-houston-rockets/"},{"date":"26.11.03","home":"골든스테이트 워리어스","away":"피닉스 선즈","score":"116-113","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110209-2026-11-03-golden-state-warriors/"},{"date":"26.10.25","home":"피닉스 선즈","away":"골든스테이트 워리어스","score":"131-122","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102421-2026-10-25-phoenix-suns/"},{"date":"26.10.24","home":"골든스테이트 워리어스","away":"멤피스 그리즐리","score":"108-111","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102309-2026-10-24-golden-state-warriors/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"H. Jones (F)|https://a.espncdn.com/i/headshots/nba/players/full/4277813.png\",\"Z. Williamson (F)|https://a.espncdn.com/i/headshots/nba/players/full/4395628.png\",\"S. Bey (F)|https://a.espncdn.com/i/headshots/nba/players/full/4397136.png\",\"Y. Missi (C)|https://a.espncdn.com/i/headshots/nba/players/full/5061589.png\",\"J. Fears (G)|https://a.espncdn.com/i/headshots/nba/players/full/5144091.png\"]"
+awayLineup: "[\"D. Green (F)|https://a.espncdn.com/i/headshots/nba/players/full/6589.png\",\"Y. Lendeborg (F)|https://a.espncdn.com/i/headshots/nba/players/full/5175737.png\",\"A. Horford (C)|https://a.espncdn.com/i/headshots/nba/players/full/3213.png\",\"L. Cryer (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433149.png\",\"B. Podziemski (G)|https://a.espncdn.com/i/headshots/nba/players/full/4709138.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"워싱턴 위저즈","away":"디트로�
 awayRecent: '[{"date":"26.11.15","home":"멤피스 그리즐리","away":"브루클린 네츠","score":"129-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109768-2026-11-15-memphis-grizzlies/"},{"date":"26.11.14","home":"뉴올리언스 펠리컨스","away":"멤피스 그리즐리","score":"111-142","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109757-2026-11-14-new-orleans-pelicans/"},{"date":"26.11.12","home":"멤피스 그리즐리","away":"덴버 너기츠","score":"118-123","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109747-2026-11-12-memphis-grizzlies/"},{"date":"26.11.03","home":"멤피스 그리즐리","away":"뉴올리언스 펠리컨스","score":"134-135","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110229-2026-11-03-memphis-grizzlies/"},{"date":"26.10.26","home":"새크라멘토 킹스","away":"멤피스 그리즐리","score":"112-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102523-2026-10-26-sacramento-kings/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"A. Davis (F)|https://a.espncdn.com/i/headshots/nba/players/full/6583.png\",\"A. Dybantsa (F)|https://a.espncdn.com/i/headshots/nba/players/full/5142718.png\",\"K. George (F)|https://a.espncdn.com/i/headshots/nba/players/full/5174563.png\",\"A. Sarr (C)|https://a.espncdn.com/i/headshots/nba/players/full/5160992.png\",\"T. Young (G)|https://a.espncdn.com/i/headshots/nba/players/full/4277905.png\"]"
+awayLineup: "[\"C. Coward (F)|https://a.espncdn.com/i/headshots/nba/players/full/4903027.png\",\"C. Boozer (F)|https://a.espncdn.com/i/headshots/nba/players/full/5041935.png\",\"J. Wells (F)|https://a.espncdn.com/i/headshots/nba/players/full/5112087.png\",\"Z. Edey (C)|https://a.espncdn.com/i/headshots/nba/players/full/4600663.png\",\"C. Spencer (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433083.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

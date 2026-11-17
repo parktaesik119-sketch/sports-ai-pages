@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.15","home":"세인트루이스 블루스","away":"�
 awayRecent: '[{"date":"26.11.16","home":"애너하임 덕스","away":"캘거리 플레임스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631108-2026-11-16-anaheim-ducks/"},{"date":"26.11.15","home":"애너하임 덕스","away":"뉴욕 아일런더스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378628555-2026-11-15-anaheim-ducks/"},{"date":"26.11.12","home":"애너하임 덕스","away":"내슈빌 프레데터스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378606429-2026-11-12-anaheim-ducks/"},{"date":"26.11.09","home":"애너하임 덕스","away":"피츠버그 펭귄스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378592813-2026-11-09-anaheim-ducks/"},{"date":"26.11.07","home":"캘거리 플레임스","away":"애너하임 덕스","score":"3-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378576644-2026-11-07-calgary-flames/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Hofer|https://a.espncdn.com/i/headshots/mlb/players/full/4587909.png\"]"
+awayLineup: "[\"선발투수 L. Dostal|https://a.espncdn.com/i/headshots/mlb/players/full/4588165.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

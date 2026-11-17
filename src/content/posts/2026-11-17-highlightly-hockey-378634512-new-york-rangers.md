@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.14","home":"밴쿠버 카넉스","away":"뉴욕 레
 awayRecent: '[{"date":"26.11.15","home":"몬트리올 캐네이디언스","away":"콜로라도 애벌랜치","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378624300-2026-11-15-montreal-canadiens/"},{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트리올 캐네이디언스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608131-2026-11-13-boston-bruins/"},{"date":"26.11.11","home":"몬트리올 캐네이디언스","away":"미네소타 와일드","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597919-2026-11-11-montreal-canadiens/"},{"date":"26.11.08","home":"토론토 메이플 리프스","away":"몬트리올 캐네이디언스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378582601-2026-11-08-toronto-maple-leafs/"},{"date":"26.11.06","home":"몬트리올 캐네이디언스","away":"유타 매머드","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378571538-2026-11-06-montreal-canadiens/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Korpisalo|https://a.espncdn.com/i/headshots/mlb/players/full/3069266.png\"]"
+awayLineup: "[\"선발투수 J. Fowler|https://a.espncdn.com/i/headshots/mlb/players/full/5188437.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

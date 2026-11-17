@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.12","home":"뉴올리언스 펠리컨스","away":"�
 awayRecent: '[{"date":"26.11.12","home":"멤피스 그리즐리","away":"덴버 너기츠","score":"118-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109747-2026-11-12-memphis-grizzlies/"},{"date":"26.11.03","home":"덴버 너기츠","away":"포틀랜드 트레일블레이저스","score":"110-118","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110207-2026-11-03-denver-nuggets/"},{"date":"26.10.25","home":"덴버 너기츠","away":"뉴올리언스 펠리컨스","score":"141-135","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102407-2026-10-25-denver-nuggets/"},{"date":"26.10.23","home":"오클라호마시티 썬더","away":"덴버 너기츠","score":"96-84","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102225-2026-10-23-oklahoma-city-thunder/"},{"date":"26.07.20","home":"토론토 랩터스","away":"덴버 너기츠","score":"89-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-504371-2026-07-20-toronto-raptors/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"H. Jones (F)|https://a.espncdn.com/i/headshots/nba/players/full/4277813.png\",\"Z. Williamson (F)|https://a.espncdn.com/i/headshots/nba/players/full/4395628.png\",\"S. Bey (F)|https://a.espncdn.com/i/headshots/nba/players/full/4397136.png\",\"Y. Missi (C)|https://a.espncdn.com/i/headshots/nba/players/full/5061589.png\",\"J. Fears (G)|https://a.espncdn.com/i/headshots/nba/players/full/5144091.png\"]"
+awayLineup: "[\"A. Gordon (F)|https://a.espncdn.com/i/headshots/nba/players/full/3064290.png\",\"C. Johnson (F)|https://a.espncdn.com/i/headshots/nba/players/full/3138196.png\",\"N. Jokic (C)|https://a.espncdn.com/i/headshots/nba/players/full/3112335.png\",\"J. Murray (G)|https://a.espncdn.com/i/headshots/nba/players/full/3936299.png\",\"C. Braun (G)|https://a.espncdn.com/i/headshots/nba/players/full/4431767.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

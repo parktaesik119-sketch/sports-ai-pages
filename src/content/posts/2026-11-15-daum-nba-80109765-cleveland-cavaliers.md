@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.12","home":"뉴욕 닉스","away":"클리블랜드 
 awayRecent: '[{"date":"26.11.13","home":"미네소타 팀버울브스","away":"댈러스 매버릭스","score":"133-94","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109753-2026-11-13-minnesota-timberwolves/"},{"date":"26.11.03","home":"댈러스 매버릭스","away":"새크라멘토 킹스","score":"100-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110206-2026-11-03-dallas-mavericks/"},{"date":"26.10.25","home":"댈러스 매버릭스","away":"샌안토니오 스퍼스","score":"106-122","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102406-2026-10-25-dallas-mavericks/"},{"date":"26.10.24","home":"인디애나 페이서스","away":"댈러스 매버릭스","score":"105-121","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102311-2026-10-24-indiana-pacers/"},{"date":"26.10.22","home":"휴스턴 로키츠","away":"댈러스 매버릭스","score":"128-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102110-2026-10-22-houston-rockets/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"M. Hezonja (F)|https://a.espncdn.com/i/headshots/nba/players/full/2995706.png\",\"T. Bryant (C)|https://a.espncdn.com/i/headshots/nba/players/full/3934723.png\",\"J. Tyson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683747.png\",\"T. Proctor (G)|https://a.espncdn.com/i/headshots/nba/players/full/5023693.png\",\"M. Thomas (G)|https://a.espncdn.com/i/headshots/nba/players/full/5041951.png\"]"
+awayLineup: "[\"C. Martin (F)|https://a.espncdn.com/i/headshots/nba/players/full/3138160.png\",\"D. Gafford (F)|https://a.espncdn.com/i/headshots/nba/players/full/4278049.png\",\"P.J. Washington (F)|https://a.espncdn.com/i/headshots/nba/players/full/4278078.png\",\"C. Flagg (F)|https://a.espncdn.com/i/headshots/nba/players/full/5041939.png\",\"K. Irving (G)|https://a.espncdn.com/i/headshots/nba/players/full/6442.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
