@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.12","home":"산호세 샤크스","away":"피츠버�
 awayRecent: '[{"date":"26.11.13","home":"오타와 세너터스","away":"콜로라도 애벌랜치","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378611535-2026-11-13-ottawa-senators/"},{"date":"26.11.11","home":"오타와 세너터스","away":"워싱턴 캐피털스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597068-2026-11-11-ottawa-senators/"},{"date":"26.11.08","home":"오타와 세너터스","away":"유타 매머드","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378581750-2026-11-08-ottawa-senators/"},{"date":"26.11.05","home":"버펄로 세이버스","away":"오타와 세너터스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378563028-2026-11-05-buffalo-sabres/"},{"date":"26.11.02","home":"애너하임 덕스","away":"오타와 세너터스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378549412-2026-11-02-anaheim-ducks/"}]'
 injuryHome: "Elmer Soderblom (부상자 명단) | Bryan Rust (부상자 명단) | Trevor van Riemsdyk (부상자 명단) | Ryan Graves (부상자 명단)"
 injuryAway: "Nick Cousins (결장) | Andre Burakovsky (부상자 명단) | Warren Foegele (부상자 명단) | William Eklund (부상자 명단)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Murashov|https://a.espncdn.com/i/headshots/mlb/players/full/5188366.png\"]"
+awayLineup: "[\"선발투수 L. Ullmark|https://a.espncdn.com/i/headshots/mlb/players/full/3069285.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트�
 awayRecent: '[{"date":"26.11.13","home":"오타와 세너터스","away":"콜로라도 애벌랜치","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378611535-2026-11-13-ottawa-senators/"},{"date":"26.11.11","home":"토론토 메이플 리프스","away":"콜로라도 애벌랜치","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378596217-2026-11-11-toronto-maple-leafs/"},{"date":"26.11.08","home":"콜로라도 애벌랜치","away":"디트로이트 레드윙스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378586856-2026-11-08-colorado-avalanche/"},{"date":"26.11.06","home":"콜로라도 애벌랜치","away":"내슈빌 프레데터스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574942-2026-11-06-colorado-avalanche/"},{"date":"26.11.04","home":"콜럼버스 블루재킷츠","away":"콜로라도 애벌랜치","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378559624-2026-11-04-columbus-blue-jackets/"}]'
 injuryHome: "Chris Kreider(경미) | Ivan Demidov(주요) | Sam Montembeault(주요) | Bryce Pickford(주요) | Lucas Condotta(주요)"
 injuryAway: "Cale Makar(경미) | Nathan MacKinnon(경미) | Josh Manson(주요) | Zachary L'Heureux(주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Dobes|https://a.espncdn.com/i/headshots/mlb/players/full/4697686.png\"]"
+awayLineup: "[\"선발투수 M. Blackwood|https://a.espncdn.com/i/headshots/mlb/players/full/3904177.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

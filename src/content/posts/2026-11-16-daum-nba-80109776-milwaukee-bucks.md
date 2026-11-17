@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.14","home":"올랜도 매직","away":"밀워키 벅
 awayRecent: '[{"date":"26.11.14","home":"시카고 불스","away":"애틀랜타 호크스","score":"125-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109758-2026-11-14-chicago-bulls/"},{"date":"26.11.03","home":"인디애나 페이서스","away":"애틀랜타 호크스","score":"104-108","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110211-2026-11-03-indiana-pacers/"},{"date":"26.10.25","home":"애틀랜타 호크스","away":"휴스턴 로키츠","score":"114-121","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102401-2026-10-25-atlanta-hawks/"},{"date":"26.10.24","home":"샬럿 호네츠","away":"애틀랜타 호크스","score":"81-128","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102330-2026-10-24-charlotte-hornets/"},{"date":"26.10.22","home":"올랜도 매직","away":"애틀랜타 호크스","score":"125-132","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102119-2026-10-22-orlando-magic/"}]'
 injuryHome: "Ousmane Dieng (염좌)"
 injuryAway: "Kingston Flemings (긴장) | Mouhamed Gueye (골절) | Keshon Gilbert (염증) | Asa Newell (부상) | Henri Veesaar (부상)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"K. Kuzma (F)|https://a.espncdn.com/i/headshots/nba/players/full/3134907.png\",\"M. Turner (C)|https://a.espncdn.com/i/headshots/nba/players/full/3133628.png\",\"J. Sims (C)|https://a.espncdn.com/i/headshots/nba/players/full/4277922.png\",\"T. Herro (G)|https://a.espncdn.com/i/headshots/nba/players/full/4395725.png\",\"B. Burries (G)|https://a.espncdn.com/i/headshots/nba/players/full/5082206.png\"]"
+awayLineup: "[\"O. Okongwu (F)|https://a.espncdn.com/i/headshots/nba/players/full/4431680.png\",\"J. Johnson (F)|https://a.espncdn.com/i/headshots/nba/players/full/4701230.png\",\"C. McCollum (G)|https://a.espncdn.com/i/headshots/nba/players/full/2490149.png\",\"N. Alexander-Walker (G)|https://a.espncdn.com/i/headshots/nba/players/full/4278039.png\",\"D. Daniels (G)|https://a.espncdn.com/i/headshots/nba/players/full/4869342.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

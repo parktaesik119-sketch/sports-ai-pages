@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트�
 awayRecent: '[{"date":"26.11.13","home":"토론토 메이플 리프스","away":"미네소타 와일드","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378612386-2026-11-13-toronto-maple-leafs/"},{"date":"26.11.11","home":"몬트리올 캐네이디언스","away":"미네소타 와일드","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597919-2026-11-11-montreal-canadiens/"},{"date":"26.11.08","home":"미네소타 와일드","away":"탬파베이 라이트닝","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378585154-2026-11-08-minnesota-wild/"},{"date":"26.11.07","home":"미네소타 와일드","away":"산호세 샤크스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378577495-2026-11-07-minnesota-wild/"},{"date":"26.11.04","home":"필라델피아 플라이어스","away":"미네소타 와일드","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378557071-2026-11-04-philadelphia-flyers/"}]'
 injuryHome: "James Hagens (부상자 명단)"
 injuryAway: "Joel Eriksson Ek (단기 부상자 명단) | Brock Faber (부상자 명단 및 수술) | Filip Gustavsson (부상자 명단 및 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Swayman|https://a.espncdn.com/i/headshots/mlb/players/full/4712036.png\"]"
+awayLineup: "[\"선발투수 J. Wallstedt|https://a.espncdn.com/i/headshots/mlb/players/full/4874737.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

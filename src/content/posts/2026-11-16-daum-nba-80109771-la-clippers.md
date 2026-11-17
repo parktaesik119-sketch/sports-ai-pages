@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.14","home":"LA 클리퍼스","away":"오클라호�
 awayRecent: '[{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네츠","score":"101-96","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109754-2026-11-13-phoenix-suns/"},{"date":"26.11.03","home":"샬럿 호네츠","away":"디트로이트 피스톤스","score":"91-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110230-2026-11-03-charlotte-hornets/"},{"date":"26.10.25","home":"샬럿 호네츠","away":"마이애미 히트","score":"115-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102430-2026-10-25-charlotte-hornets/"},{"date":"26.10.24","home":"샬럿 호네츠","away":"애틀랜타 호크스","score":"81-128","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102330-2026-10-24-charlotte-hornets/"},{"date":"26.10.22","home":"브루클린 네츠","away":"샬럿 호네츠","score":"103-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102117-2026-10-22-brooklyn-nets/"}]'
 injuryHome: "Brandon Ingram (수술) | Yanic Konan Niederhauser (수술) | Bradley Beal (염증) | Jordan Miller (수술)"
 injuryAway: "Kon Knueppel (염증) | Dennis Schroder (염증)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"D. Jones Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/3936099.png\",\"R. Hachimura (F)|https://a.espncdn.com/i/headshots/nba/players/full/4066648.png\",\"B. Lopez (C)|https://a.espncdn.com/i/headshots/nba/players/full/3448.png\",\"K. Dunn (G)|https://a.espncdn.com/i/headshots/nba/players/full/2991139.png\",\"D. Garland (G)|https://a.espncdn.com/i/headshots/nba/players/full/4396907.png\"]"
+awayLineup: "[\"M. Diabate (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433249.png\",\"B. Miller (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433287.png\",\"N. Reid (C)|https://a.espncdn.com/i/headshots/nba/players/full/4396971.png\",\"C. White (G)|https://a.espncdn.com/i/headshots/nba/players/full/4395651.png\",\"S. James (G)|https://a.espncdn.com/i/headshots/nba/players/full/4602025.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

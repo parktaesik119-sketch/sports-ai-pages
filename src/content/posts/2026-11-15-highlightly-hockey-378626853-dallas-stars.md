@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"댈러스 스타스","away":"위니펙 
 awayRecent: '[{"date":"26.11.13","home":"시카고 블랙호크스","away":"버펄로 세이버스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378613237-2026-11-13-chicago-blackhawks/"},{"date":"26.11.12","home":"버펄로 세이버스","away":"탬파베이 라이트닝","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378602174-2026-11-12-buffalo-sabres/"},{"date":"26.11.09","home":"버펄로 세이버스","away":"베가스 골든나이츠","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378589409-2026-11-09-buffalo-sabres/"},{"date":"26.11.07","home":"버펄로 세이버스","away":"콜럼버스 블루재킷츠","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378575793-2026-11-07-buffalo-sabres/"},{"date":"26.11.05","home":"버펄로 세이버스","away":"오타와 세너터스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378563028-2026-11-05-buffalo-sabres/"}]'
 injuryHome: "Lian Bichsel (주요)(Out) | Miro Heiskanen (주요)(Out) | Kyle Capobianco (주요)(Injured Reserve) | Oskar Back (주요)(Injured Reserve - Fracture)"
 injuryAway: "Konsta Helenius (주요)(Injured Reserve) | Justin Danforth (주요)(Injured Reserve) | Matt Grzelcyk (주요)(Injured Reserve)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Oettinger|https://a.espncdn.com/i/headshots/mlb/players/full/4196914.png\"]"
+awayLineup: "[\"선발투수 A. Lyon|https://a.espncdn.com/i/headshots/mlb/players/full/3654006.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

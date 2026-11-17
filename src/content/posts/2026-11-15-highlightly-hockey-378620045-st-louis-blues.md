@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"유타 매머드","away":"세인트루�
 awayRecent: '[{"date":"26.11.13","home":"플로리다 팬더스","away":"디트로이트 레드윙스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378609833-2026-11-13-florida-panthers/"},{"date":"26.11.11","home":"콜럼버스 블루재킷츠","away":"플로리다 팬더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378598770-2026-11-11-columbus-blue-jackets/"},{"date":"26.11.09","home":"보스턴 브루인스","away":"플로리다 팬더스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378588558-2026-11-09-boston-bruins/"},{"date":"26.11.08","home":"워싱턴 캐피털스","away":"플로리다 팬더스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378578346-2026-11-08-washington-capitals/"},{"date":"26.11.05","home":"플로리다 팬더스","away":"시카고 블랙호크스","score":"5-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378563879-2026-11-05-florida-panthers/"}]'
 injuryHome: "Torey Krug (부상자 명단)|Dillon Dube (부상자 명단 - 상세 미정)|Tyler Tucker (부상자 명단 - 수술)"
 injuryAway: "Brad Marchand (부상자 명단)|Aleksander Barkov (부상자 명단)|Jonah Gadjovich (부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Hofer|https://a.espncdn.com/i/headshots/mlb/players/full/4587909.png\"]"
+awayLineup: "[\"선발투수 J. Markstrom|https://a.espncdn.com/i/headshots/mlb/players/full/5452.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

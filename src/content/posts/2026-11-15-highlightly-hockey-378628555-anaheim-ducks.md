@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.12","home":"애너하임 덕스","away":"내슈빌 
 awayRecent: '[{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378615790-2026-11-13-los-angeles-kings/"},{"date":"26.11.10","home":"산호세 샤크스","away":"뉴욕 아일런더스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378595366-2026-11-10-san-jose-sharks/"},{"date":"26.11.08","home":"뉴욕 아일런더스","away":"뉴저지 데블스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378580899-2026-11-08-new-york-islanders/"},{"date":"26.11.06","home":"뉴욕 아일런더스","away":"캐롤라이나 허리케인스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378569836-2026-11-06-new-york-islanders/"},{"date":"26.11.01","home":"뉴욕 아일런더스","away":"에드먼턴 오일러스","score":"0-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378540051-2026-11-01-new-york-islanders/"}]'
 injuryHome: "Ryan Poehling (부상자 명단) | Ian Moore (부상자 명단 - 사유 미공개) | A.J. Greer (부상자 명단)"
 injuryAway: "Jean-Gabriel Pageau (당일 결정) | Mathew Barzal (부상자 명단) | Calum Ritchie (부상자 명단) | Alexander Romanov (부상자 명단 - 수술)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 L. Dostal|https://a.espncdn.com/i/headshots/mlb/players/full/4588165.png\"]"
+awayLineup: "[\"선발투수 S. Varlamov|https://a.espncdn.com/i/headshots/mlb/players/full/3759.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

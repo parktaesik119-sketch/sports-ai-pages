@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"시애틀 크라켄","away":"캐롤라�
 awayRecent: '[{"date":"26.11.13","home":"시애틀 크라켄","away":"캐롤라이나 허리케인스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378607280-2026-11-13-seattle-kraken/"},{"date":"26.11.08","home":"시애틀 크라켄","away":"뉴욕 레인저스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378580048-2026-11-08-seattle-kraken/"},{"date":"26.11.05","home":"시애틀 크라켄","away":"캘거리 플레임스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378565581-2026-11-05-seattle-kraken/"},{"date":"26.10.31","home":"캘거리 플레임스","away":"시애틀 크라켄","score":"6-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378536647-2026-10-31-calgary-flames/"},{"date":"26.10.29","home":"시애틀 크라켄","away":"토론토 메이플 리프스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378524733-2026-10-29-seattle-kraken/"}]'
 injuryHome: "Jordan Staal (부상자 명단 등재)"
 injuryAway: "Jacob Melanson (부상자 명단 등재)|Nikke Kokko (부상자 명단 등재)|Curtis Douglas (부상자 명단 등재)|Jared McCann (부상자 명단 등재)|Ryan Lindgren (부상자 명단 등재)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 P. Kochetkov|https://a.espncdn.com/i/headshots/mlb/players/full/4565259.png\"]"
+awayLineup: "[\"선발투수 J. Daccord|https://a.espncdn.com/i/headshots/mlb/players/full/3942073.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

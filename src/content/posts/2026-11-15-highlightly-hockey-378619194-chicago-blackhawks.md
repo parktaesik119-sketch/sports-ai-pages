@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.08","home":"캐롤라이나 허리케인스","away"
 awayRecent: '[{"date":"26.11.11","home":"위니펙 제츠","away":"뉴저지 데블스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378600472-2026-11-11-winnipeg-jets/"},{"date":"26.11.09","home":"위니펙 제츠","away":"탬파베이 라이트닝","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378591962-2026-11-09-winnipeg-jets/"},{"date":"26.11.06","home":"위니펙 제츠","away":"밴쿠버 카넉스","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574091-2026-11-06-winnipeg-jets/"},{"date":"26.11.04","home":"몬트리올 캐네이디언스","away":"위니펙 제츠","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378558773-2026-11-04-montreal-canadiens/"},{"date":"26.11.02","home":"캐롤라이나 허리케인스","away":"위니펙 제츠","score":"7-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378546008-2026-11-02-carolina-hurricanes/"}]'
 injuryHome: "Bowen Byram (부상자 명단)"
 injuryAway: "Elias Salomonsson (부상자 명단)|Vladislav Namestnikov (부상자 명단)|Nick Bjugstad (부상자 명단)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 S. Knight|https://a.espncdn.com/i/headshots/mlb/players/full/4565234.png\"]"
+awayLineup: "[\"선발투수 S. Skinner|https://a.espncdn.com/i/headshots/mlb/players/full/4268767.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

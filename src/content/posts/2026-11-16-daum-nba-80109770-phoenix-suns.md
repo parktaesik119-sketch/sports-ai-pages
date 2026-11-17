@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네
 awayRecent: '[{"date":"26.11.12","home":"밀워키 벅스","away":"LA 레이커스","score":"112-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109746-2026-11-12-milwaukee-bucks/"},{"date":"26.11.03","home":"LA 레이커스","away":"마이애미 히트","score":"138-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110213-2026-11-03-los-angeles-lakers/"},{"date":"26.10.26","home":"유타 재즈","away":"LA 레이커스","score":"123-132","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102526-2026-10-26-utah-jazz/"},{"date":"26.10.24","home":"LA 레이커스","away":"LA 클리퍼스","score":"125-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102313-2026-10-24-los-angeles-lakers/"},{"date":"26.10.22","home":"LA 레이커스","away":"골든스테이트 워리어스","score":"127-105","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102113-2026-10-22-los-angeles-lakers/"}]'
 injuryHome: "Drew Timme (경미) | Mark Williams (주요)"
 injuryAway: "Adou Thiero (경미) | Collin Sexton (경미) | Austin Reaves (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"D. Brooks (F)|https://a.espncdn.com/i/headshots/nba/players/full/3155526.png\",\"M. Bridges (F)|https://a.espncdn.com/i/headshots/nba/players/full/4066383.png\",\"O. Ighodaro (F)|https://a.espncdn.com/i/headshots/nba/players/full/4601023.png\",\"D. Booker (G)|https://a.espncdn.com/i/headshots/nba/players/full/3136193.png\",\"J. Green (G)|https://a.espncdn.com/i/headshots/nba/players/full/4437244.png\"]"
+awayLineup: "[\"J. LaRavia (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592691.png\",\"W. Kessler (C)|https://a.espncdn.com/i/headshots/nba/players/full/4433136.png\",\"M. Thybulle (G)|https://a.espncdn.com/i/headshots/nba/players/full/3907498.png\",\"L. Doncic (G)|https://a.espncdn.com/i/headshots/nba/players/full/3945274.png\",\"Q. Grimes (G)|https://a.espncdn.com/i/headshots/nba/players/full/4397014.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

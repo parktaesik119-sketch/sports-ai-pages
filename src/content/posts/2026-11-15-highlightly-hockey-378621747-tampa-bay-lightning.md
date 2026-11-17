@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"콜럼버스 블루재킷츠","away":"�
 awayRecent: '[{"date":"26.11.13","home":"플로리다 팬더스","away":"디트로이트 레드윙스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378609833-2026-11-13-florida-panthers/"},{"date":"26.11.11","home":"세인트루이스 블루스","away":"디트로이트 레드윙스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378599621-2026-11-11-st-louis-blues/"},{"date":"26.11.08","home":"콜로라도 애벌랜치","away":"디트로이트 레드윙스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378586856-2026-11-08-colorado-avalanche/"},{"date":"26.11.06","home":"디트로이트 레드윙스","away":"베가스 골든나이츠","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378572389-2026-11-06-detroit-red-wings/"},{"date":"26.11.04","home":"탬파베이 라이트닝","away":"디트로이트 레드윙스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378555369-2026-11-04-tampa-bay-lightning/"}]'
 injuryHome: "Erik Cernak (경미)|Anthony Cirelli (경미)|Brayden Point (부상자 명단 - 명시되지 않음)"
 injuryAway: "Albert Johansson (부상자 명단 - 명시되지 않음)|Dylan Larkin (부상자 명단)|Simon Edvinsson (부상자 명단)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Vasilevskiy|https://a.espncdn.com/i/headshots/mlb/players/full/2976847.png\"]"
+awayLineup: "[\"선발투수 D. Tarasov|https://a.espncdn.com/i/headshots/mlb/players/full/4587994.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

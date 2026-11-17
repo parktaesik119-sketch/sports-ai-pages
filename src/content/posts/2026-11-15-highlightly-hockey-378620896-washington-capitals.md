@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"뉴저지 데블스","away":"워싱턴 
 awayRecent: '[{"date":"26.11.13","home":"뉴저지 데블스","away":"워싱턴 캐피털스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378610684-2026-11-13-new-jersey-devils/"},{"date":"26.11.11","home":"위니펙 제츠","away":"뉴저지 데블스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378600472-2026-11-11-winnipeg-jets/"},{"date":"26.11.09","home":"토론토 메이플 리프스","away":"뉴저지 데블스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378591111-2026-11-09-toronto-maple-leafs/"},{"date":"26.11.08","home":"뉴욕 아일런더스","away":"뉴저지 데블스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378580899-2026-11-08-new-york-islanders/"},{"date":"26.11.06","home":"뉴저지 데블스","away":"세인트루이스 블루스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378570687-2026-11-06-new-jersey-devils/"}]'
 injuryHome: "Rasmus Sandin (수술)|Vincent Desharnais (수술)"
 injuryAway: "Seamus Casey (부상자 명단)|Johnathan Kovacevic (부상자 명단 - 상세 미정)|Brett Pesce (일일 부상자 명단 - 상세 미정)|Anthony Mantha (부상자 명단)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 C. Lindgren|https://a.espncdn.com/i/headshots/mlb/players/full/3095975.png\"]"
+awayLineup: "[\"선발투수 C. Hellebuyck|https://a.espncdn.com/i/headshots/mlb/players/full/3020225.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

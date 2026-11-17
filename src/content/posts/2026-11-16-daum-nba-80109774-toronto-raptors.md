@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"필라델피아 76ers","away":"토론�
 awayRecent: '[{"date":"26.11.14","home":"인디애나 페이서스","away":"뉴욕 닉스","score":"106-104","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109755-2026-11-14-indiana-pacers/"},{"date":"26.11.12","home":"뉴욕 닉스","away":"클리블랜드 캐벌리어스","score":"107-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109742-2026-11-12-new-york-knicks/"},{"date":"26.11.03","home":"뉴욕 닉스","away":"브루클린 네츠","score":"103-90","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110218-2026-11-03-new-york-knicks/"},{"date":"26.10.26","home":"뉴욕 닉스","away":"올랜도 매직","score":"102-111","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102518-2026-10-26-new-york-knicks/"},{"date":"26.10.24","home":"보스턴 셀틱스","away":"뉴욕 닉스","score":"107-103","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102302-2026-10-24-boston-celtics/"}]'
 injuryHome: "Nate Bittle (골절) | Scottie Barnes (부상) | Kevin McCullar Jr. (부상 의심) | Kawhi Leonard (염증)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"R. Barrett (F)|https://a.espncdn.com/i/headshots/nba/players/full/4395625.png\",\"S. Barnes (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433134.png\",\"C. Murray-Boyles (F)|https://a.espncdn.com/i/headshots/nba/players/full/5093267.png\",\"I. Quickley (G)|https://a.espncdn.com/i/headshots/nba/players/full/4395724.png\",\"J. Walter (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684272.png\"]"
+awayLineup: "[\"O. Anunoby (F)|https://a.espncdn.com/i/headshots/nba/players/full/3934719.png\",\"K. Towns (C)|https://a.espncdn.com/i/headshots/nba/players/full/3136195.png\",\"J. Hart (G)|https://a.espncdn.com/i/headshots/nba/players/full/3062679.png\",\"M. Bridges (G)|https://a.espncdn.com/i/headshots/nba/players/full/3147657.png\",\"J. Brunson (G)|https://a.espncdn.com/i/headshots/nba/players/full/3934672.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

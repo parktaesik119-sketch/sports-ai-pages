@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"워싱턴 위저즈","away":"디트로�
 awayRecent: '[{"date":"26.11.14","home":"휴스턴 로키츠","away":"유타 재즈","score":"125-118","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109760-2026-11-14-houston-rockets/"},{"date":"26.11.12","home":"휴스턴 로키츠","away":"골든스테이트 워리어스","score":"115-108","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109749-2026-11-12-houston-rockets/"},{"date":"26.11.03","home":"휴스턴 로키츠","away":"보스턴 셀틱스","score":"109-93","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110210-2026-11-03-houston-rockets/"},{"date":"26.10.25","home":"애틀랜타 호크스","away":"휴스턴 로키츠","score":"114-121","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102401-2026-10-25-atlanta-hawks/"},{"date":"26.10.24","home":"샌안토니오 스퍼스","away":"휴스턴 로키츠","score":"110-114","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102324-2026-10-24-san-antonio-spurs/"}]'
 injuryHome: "Alex Sarr (경미) | Tre Johnson (경미) | Bub Carrington (경미) | Tristan Vukcevic (주요 - 핀치 신경) | Reece Beekman (주요)"
 injuryAway: "Clint Capela (주요 - 염좌) | Steven Adams (주요 - 긴장) | Fred VanVleet (주요) | Marcus Smart (주요 - 출전 정지)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"A. Davis (F)|https://a.espncdn.com/i/headshots/nba/players/full/6583.png\",\"A. Dybantsa (F)|https://a.espncdn.com/i/headshots/nba/players/full/5142718.png\",\"K. George (F)|https://a.espncdn.com/i/headshots/nba/players/full/5174563.png\",\"A. Sarr (C)|https://a.espncdn.com/i/headshots/nba/players/full/5160992.png\",\"T. Young (G)|https://a.espncdn.com/i/headshots/nba/players/full/4277905.png\"]"
+awayLineup: "[\"K. Durant (F)|https://a.espncdn.com/i/headshots/nba/players/full/3202.png\",\"J. Smith Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432639.png\",\"S. Adams (C)|https://a.espncdn.com/i/headshots/nba/players/full/2991235.png\",\"A. Sengun (C)|https://a.espncdn.com/i/headshots/nba/players/full/4871144.png\",\"A. Thompson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684740.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

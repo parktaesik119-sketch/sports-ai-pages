@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"토론토 메이플 리프스","away":"
 awayRecent: '[{"date":"26.11.12","home":"에드먼턴 오일러스","away":"필라델피아 플라이어스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603876-2026-11-12-edmonton-oilers/"},{"date":"26.11.10","home":"에드먼턴 오일러스","away":"뉴욕 레인저스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378593664-2026-11-10-edmonton-oilers/"},{"date":"26.11.08","home":"에드먼턴 오일러스","away":"밴쿠버 카넉스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378587707-2026-11-08-edmonton-oilers/"},{"date":"26.11.06","home":"에드먼턴 오일러스","away":"애너하임 덕스","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378573240-2026-11-06-edmonton-oilers/"},{"date":"26.11.04","home":"뉴저지 데블스","away":"에드먼턴 오일러스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378557922-2026-11-04-new-jersey-devils/"}]'
 injuryHome: "Morgan Rielly (경미) | Colton Sissons (주요) | Kirill Marchenko (주요) | Miles Wood (주요) | Nick Blankenburg (주요)"
 injuryAway: "Isaac Howard (주요) | Alec Regula (주요) | Matt Savoie (주요 - Not Specified) | Frederik Andersen (주요) | Mattias Janmark (주요 - Surgery)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Stolarz|https://a.espncdn.com/i/headshots/mlb/players/full/3067313.png\"]"
+awayLineup: "[\"선발투수 D. Levi|https://a.espncdn.com/i/headshots/mlb/players/full/4894487.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

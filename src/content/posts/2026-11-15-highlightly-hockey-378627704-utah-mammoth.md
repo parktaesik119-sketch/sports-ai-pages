@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"유타 매머드","away":"세인트루�
 awayRecent: '[{"date":"26.11.12","home":"산호세 샤크스","away":"피츠버그 펭귄스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378605578-2026-11-12-san-jose-sharks/"},{"date":"26.11.10","home":"산호세 샤크스","away":"뉴욕 아일런더스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378595366-2026-11-10-san-jose-sharks/"},{"date":"26.11.08","home":"댈러스 스타스","away":"산호세 샤크스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378584303-2026-11-08-dallas-stars/"},{"date":"26.11.07","home":"미네소타 와일드","away":"산호세 샤크스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378577495-2026-11-07-minnesota-wild/"},{"date":"26.11.05","home":"LA 킹스","away":"산호세 샤크스","score":"7-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378564730-2026-11-05-los-angeles-kings/"}]'
 injuryHome: "Logan Cooley (주요) | Nick Schmaltz (경미) | Nate Schmidt (주요) | Dylan Guenther (주요) | John Marino (주요)"
 injuryAway: "Alexander Wennberg (경미) | Igor Chernyshov (주요) | Quentin Musty (주요) | Kyle Keyser (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 K. Vejmelka|https://a.espncdn.com/i/headshots/mlb/players/full/3942065.png\"]"
+awayLineup: "[\"선발투수 Y. Askarov|https://a.espncdn.com/i/headshots/mlb/players/full/4697394.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더�
 awayRecent: '[{"date":"26.11.12","home":"캘거리 플레임스","away":"뉴욕 레인저스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603025-2026-11-12-calgary-flames/"},{"date":"26.11.09","home":"캘거리 플레임스","away":"필라델피아 플라이어스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378590260-2026-11-09-calgary-flames/"},{"date":"26.11.07","home":"캘거리 플레임스","away":"애너하임 덕스","score":"3-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378576644-2026-11-07-calgary-flames/"},{"date":"26.11.05","home":"시애틀 크라켄","away":"캘거리 플레임스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378565581-2026-11-05-seattle-kraken/"},{"date":"26.11.03","home":"산호세 샤크스","away":"캘거리 플레임스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378552816-2026-11-03-san-jose-sharks/"}]'
 injuryHome: "Erik Gustafsson[경미] (Day-To-Day - Not Specified)|Jakub Dvorak[주요] (Injured Reserve)"
 injuryAway: "Jonathan Huberdeau[주요] (Injured Reserve - Surgery)|Kevin Bahl[주요] (Injured Reserve - Surgery)|Connor Zary[주요] (Out - Surgery)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 A. Forsberg|https://a.espncdn.com/i/headshots/mlb/players/full/3036851.png\"]"
+awayLineup: "[\"선발투수 D. Wolf|https://a.espncdn.com/i/headshots/mlb/players/full/4587952.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

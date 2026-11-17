@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.13","home":"콜럼버스 블루재킷츠","away":"�
 awayRecent: '[{"date":"26.11.12","home":"에드먼턴 오일러스","away":"필라델피아 플라이어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603876-2026-11-12-edmonton-oilers/"},{"date":"26.11.10","home":"밴쿠버 카넉스","away":"필라델피아 플라이어스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378594515-2026-11-10-vancouver-canucks/"},{"date":"26.11.09","home":"캘거리 플레임스","away":"필라델피아 플라이어스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378590260-2026-11-09-calgary-flames/"},{"date":"26.11.06","home":"뉴욕 레인저스","away":"필라델피아 플라이어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378566432-2026-11-06-new-york-rangers/"},{"date":"26.11.04","home":"필라델피아 플라이어스","away":"미네소타 와일드","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378557071-2026-11-04-philadelphia-flyers/"}]'
 injuryHome: "없음"
 injuryAway: "Noel Acciari (경미) | Nikita Grebenkin (주요)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"선발투수 J. Greaves|https://a.espncdn.com/i/headshots/mlb/players/full/4894366.png\"]"
+awayLineup: "[\"선발투수 J. Woll|https://a.espncdn.com/i/headshots/mlb/players/full/4271575.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
