@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.14","home":"삼성","away":"안양 정관장","scor
 awayRecent: '[{"date":"26.11.15","home":"LG","away":"KT","score":"83-81","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-kbl-80109251-2026-11-15-changwon-lg/"},{"date":"26.11.14","home":"LG","away":"현대모비스","score":"78-79","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-kbl-80109248-2026-11-14-changwon-lg/"},{"date":"26.11.11","home":"LG","away":"서울 SK","score":"101-72","result":"🟢승"},{"date":"26.11.08","home":"LG","away":"부산 KCC","score":"74-84","result":"🔴패"},{"date":"26.11.07","home":"LG","away":"고양 소노","score":"86-85","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-kbl-202611075066490156-2026-11-07-changwon-lg/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"GD 이관희(2)|https://kbl.or.kr/files/kbl/players-photo/290440.png\",\"GD 한호빈(5)|https://kbl.or.kr/files/kbl/players-photo/290754.png\",\"FD 저스틴 구탕(18)|https://kbl.or.kr/files/kbl/players-photo/291512.png\",\"C 케렘 칸터(35)|https://kbl.or.kr/files/kbl/players-photo/291787.png\",\"FD 이규태(23)|https://kbl.or.kr/files/kbl/players-photo/291853.png\"]"
+awayLineup: "[\"FD 양홍석(11)|https://kbl.or.kr/files/kbl/players-photo/291091.png\",\"C 아셈 마레이(50)|https://kbl.or.kr/files/kbl/players-photo/291432.png\",\"GD 양준석(5)|https://kbl.or.kr/files/kbl/players-photo/291576.png\",\"GD 유기상(1)|https://kbl.or.kr/files/kbl/players-photo/291640.png\",\"GD 최형찬(7)|https://kbl.or.kr/files/kbl/players-photo/291771.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
