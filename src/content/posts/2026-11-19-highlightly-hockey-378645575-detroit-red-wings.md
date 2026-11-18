@@ -1,0 +1,37 @@
+---
+title: "디트로이트 레드윙스 vs 보스턴 브루인스 하키분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T00:30:00.000Z
+description: "디트로이트 레드윙스 vs 보스턴 브루인스 하키분석: 디트로이트 레드윙스는 현재 리그순위 12위로 다소 고전하고 있으며 주전 선수들의 부상 공백까지 겹쳐 전력 운용에 어려움을 겪고… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378645575-2026-11-19-detroit-red-wings"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "디트로이트 레드윙스"
+awayTeam: "보스턴 브루인스"
+homeLogo: "https://highlightly.net/hockey/images/teams/581166.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/573507.png"
+homeAnalysis: "디트로이트 레드윙스는 앞선 25경기에서 10승 15패로 승률 40%를 기록했고 다소 기복 있는 경기력을 보여주고 있습니다. 현재 리그순위 12위로 처져 있으며 득실 차이에서 마이너스를 기록하는 등 전력 안정화가 시급한 상황입니다. 최근 치른 10경기에서도 4승 6패로 주춤하는 모습을 보이며 확실한 반등의 계기를 마련하지 못하고 있습니다. 직전 경기에서는 탬파베이 라이트닝을 상대로 승리를 거두며 오랜만에 수비 집중력을 증명했습니다. 다만 핵심 선수들의 부상 공백이 겹치면서 이번 경기를 풀어가는 과정에서 적지 않은 어려움이 예상됩니다."
+awayAnalysis: "보스턴 브루인스는 앞선 27경기에서 17승 10패로 승률 63%를 기록했고 전반적으로 탄탄한 흐름을 유지하고 있습니다. 현재 리그순위 6위의 상위권에 자리 잡고 있으며 득실 마진에서 확실한 우위를 점하며 공수 균형을 뽐내고 있습니다. 최근 10경기에서도 6승 4패로 꾸준한 승수를 쌓아가며 상위권의 저력을 유감없이 발휘하고 있습니다. 비록 직전 경기들에서 연패를 허용하며 잠시 주춤하기도 했으나 금세 전력을 가다듬는 모습을 보여주었습니다. 객관적인 전력과 안정적인 공수 밸런스를 바탕으로 이번 원정 경기에서도 우세한 경기를 펼칠 것으로 기대됩니다."
+homePower: "현재 리그순위 12위로 처져 있으나 수비 집중력 회복이 급선무임|핵심 전력들의 연이은 이탈로 인해 로테이션 운용에 큰 부담을 안고 있음|최근 10경기에서 4승에 머물며 기복 있는 흐름을 완전히 떨쳐내지 못함|득점력에 비해 실점이 다소 많아 경기 중반 이후 집중력 유지 능력이 중요함|직전 경기 무실점 승리의 좋은 기억을 이번 경기까지 이어가야 함"
+awayPower: "리그순위 6위의 상위권 팀답게 전체적인 공수 밸런스가 매우 안정적임|최근 10경기 6승을 기록하며 꾸준히 승수를 쌓아 올리는 저력을 지님|풍부한 득점력을 바탕으로 경기 주도권을 잡는 능력이 탁월하게 검증됨|주요 선수들의 전력 이탈이 적어 비교적 탄탄한 베스트 전력을 유지함|연패 이후 빠르게 분위기를 수습하는 뛰어난 위기 관리 능력을 갖춤"
+h2h: '[]'
+summary: "디트로이트 레드윙스는 현재 리그순위 12위로 다소 고전하고 있으며 주전 선수들의 부상 공백까지 겹쳐 전력 운용에 어려움을 겪고 있습니다. 반면 보스턴 브루인스는 리그순위 6위의 상위권에 위치하며 탄탄한 공수 균형과 안정적인 득점력을 바탕으로 우위를 점하고 있습니다. 두 팀의 전력 차이와 최근 공수 흐름을 고려할 때 원정팀인 보스턴 브루인스가 경기를 주도하며 승리를 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.15","home":"탬파베이 라이트닝","away":"디트로이트 레드윙스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378621747-2026-11-15-tampa-bay-lightning/"},{"date":"26.11.13","home":"플로리다 팬더스","away":"디트로이트 레드윙스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378609833-2026-11-13-florida-panthers/"},{"date":"26.11.11","home":"세인트루이스 블루스","away":"디트로이트 레드윙스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378599621-2026-11-11-st-louis-blues/"},{"date":"26.11.08","home":"콜로라도 애벌랜치","away":"디트로이트 레드윙스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378586856-2026-11-08-colorado-avalanche/"},{"date":"26.11.06","home":"디트로이트 레드윙스","away":"베가스 골든나이츠","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378572389-2026-11-06-detroit-red-wings/"}]'
+awayRecent: '[{"date":"26.11.15","home":"보스턴 브루인스","away":"미네소타 와일드","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626002-2026-11-15-boston-bruins/"},{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트리올 캐네이디언스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608131-2026-11-13-boston-bruins/"},{"date":"26.11.09","home":"보스턴 브루인스","away":"플로리다 팬더스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378588558-2026-11-09-boston-bruins/"},{"date":"26.11.06","home":"피츠버그 펭귄스","away":"보스턴 브루인스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378568134-2026-11-06-pittsburgh-penguins/"},{"date":"26.11.03","home":"보스턴 브루인스","away":"베가스 골든나이츠","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378550263-2026-11-03-boston-bruins/"}]'
+injuryHome: "Albert Johansson(주요)(Injured Reserve - Not Specified)|William Wallinder(경미)(Day-To-Day)|Dylan Larkin(주요)(Injured Reserve)|Simon Edvinsson(주요)(Injured Reserve)"
+injuryAway: "James Hagens(주요)(Injured Reserve)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 브루인스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 브루인스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

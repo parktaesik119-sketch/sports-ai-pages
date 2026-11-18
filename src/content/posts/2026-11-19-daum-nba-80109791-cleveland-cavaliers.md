@@ -1,0 +1,37 @@
+---
+title: "클리블랜드 캐벌리어스 vs 멤피스 그리즐리 농구분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T00:00:00.000Z
+description: "클리블랜드 캐벌리어스 vs 멤피스 그리즐리 농구분석: 두 팀 모두 최근 10경기에서 나란히 7승 3패를 기록하며 좋은 흐름을 이어가고 있지만 전체적인 순위와 득점력 생산 능력에서는… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109791-2026-11-19-cleveland-cavaliers"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "클리블랜드 캐벌리어스"
+awayTeam: "멤피스 그리즐리"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/5_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/29_300300.png"
+homeAnalysis: "클리블랜드 캐벌리어스는 앞선 24경기에서 10승 14패로 승률 42%를 기록했고 최근 공수 양면에서 안정감을 찾아가며 반등을 노리고 있습니다. 현재 리그순위 7위를 기록 중인 팀은 최근 10경기에서 7승 3패의 호성적을 거두며 상승세를 명확히 나타내고 있습니다. 시카고 불스와 댈러스 매버릭스를 상대로 연달아 120득점 이상을 폭발시키며 공격력이 최고조에 달한 모습을 보여주었습니다. 다만 수비 집중력에서 다소 아쉬운 실점을 허용하는 경기도 있어 전체적인 밸런스를 유지하는 것이 중요합니다. 주전 선수들의 부상 공백을 메우기 위한 벤치 자원들의 활약이 최근 좋은 흐름을 이끄는 원동력이 되고 있습니다."
+awayAnalysis: "멤피스 그리즐리는 앞선 17경기에서 11승 6패로 승률 65%를 기록했고 상위권 도약을 위한 탄탄한 전력을 증명하고 있습니다. 현재 리그순위 5위의 우수한 성적을 거두고 있으며 최근 10경기에서도 7승 3패를 기록하며 꾸준한 경기력을 유지하고 있습니다. 직전 워싱턴 위저즈전에서 136득점을 기록하는 등 막강한 화력을 뽐내며 원정 경기에서도 공격적인 성향을 유감없이 발휘하고 있습니다. 견고한 공수 밸정을 바탕으로 상대를 압박하는 능력이 뛰어나며 원정에서도 흔들림 없는 집중력을 보여줍니다. 전력 누수가 일부 존재하지만 두터운 선수층을 바탕으로 강팀의 면모를 안정적으로 이어가고 있습니다."
+homePower: "최근 10경기 7승으로 확실한 상승세 탐색|시카고전 및 댈러스전 대승으로 공격력 절정|리그순위 7위이나 최근 반등 탄력 붙음|수비 집중력 저하로 인한 실점 기복 존재|벤치 자원들의 득점 가세가 핵심 동력임"
+awayPower: "원정 경기에서도 꺾이지 않는 폭발적 화력|최근 10경기 평균 120득점 상회하는 공격력|리그순위 5위의 탄탄한 공수 밸런스 검증됨|주전 이탈에도 두터운 선수층으로 극복함|시종일관 상대를 압박하는 경기 운영 돋보임"
+h2h: '[]'
+summary: "두 팀 모두 최근 10경기에서 나란히 7승 3패를 기록하며 좋은 흐름을 이어가고 있지만 전체적인 순위와 득점력 생산 능력에서는 멤피스 그리즐리가 한 수 위의 안정감을 보여주고 있습니다. 클리블랜드 캐벌리어스는 홈에서 공격적인 반등을 시도하겠지만 멤피스 그리즐리의 최근 막강한 화력과 탄탄한 공수 밸런스를 제어하기는 쉽지 않아 보입니다. 객관적인 전력의 우위와 최근 원정에서의 꾸준한 경기력을 종합해 볼 때 멤피스 그리즐리가 경기의 주도권을 잡고 우세를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.17","home":"클리블랜드 캐벌리어스","away":"시카고 불스","score":"126-115","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109779-2026-11-17-cleveland-cavaliers/"},{"date":"26.11.15","home":"클리블랜드 캐벌리어스","away":"댈러스 매버릭스","score":"127-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109765-2026-11-15-cleveland-cavaliers/"},{"date":"26.11.14","home":"마이애미 히트","away":"클리블랜드 캐벌리어스","score":"133-121","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109759-2026-11-14-miami-heat/"},{"date":"26.11.12","home":"뉴욕 닉스","away":"클리블랜드 캐벌리어스","score":"107-115","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109742-2026-11-12-new-york-knicks/"},{"date":"26.11.03","home":"클리블랜드 캐벌리어스","away":"오클라호마시티 썬더","score":"112-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110205-2026-11-03-cleveland-cavaliers/"}]'
+awayRecent: '[{"date":"26.11.17","home":"워싱턴 위저즈","away":"멤피스 그리즐리","score":"120-136","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109780-2026-11-17-washington-wizards/"},{"date":"26.11.15","home":"멤피스 그리즐리","away":"브루클린 네츠","score":"129-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109768-2026-11-15-memphis-grizzlies/"},{"date":"26.11.14","home":"뉴올리언스 펠리컨스","away":"멤피스 그리즐리","score":"111-142","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109757-2026-11-14-new-orleans-pelicans/"},{"date":"26.11.12","home":"멤피스 그리즐리","away":"덴버 너기츠","score":"118-123","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109747-2026-11-12-memphis-grizzlies/"},{"date":"26.11.03","home":"멤피스 그리즐리","away":"뉴올리언스 펠리컨스","score":"134-135","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110229-2026-11-03-memphis-grizzlies/"}]'
+injuryHome: "Nae'Qwan Tomlin (주요) | Jaylon Tyson (경미) | Sam Merrill (주요) | Peyton Watson (경미 - 타박상) | Evan Mobley (주요 - 염좌)"
+injuryAway: "GG Jackson (주요 - 수술) | Isaiah Stewart (주요) | Ty Jerome (주요) | Scotty Pippen Jr. (주요 - 통증) | Richie Saunders (주요 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "멤피스 그리즐리"
+pickWinResult: "승"
+pickHandicapTeam: "멤피스 그리즐리"
+pickHandicapValue: "-8.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "언더"
+---

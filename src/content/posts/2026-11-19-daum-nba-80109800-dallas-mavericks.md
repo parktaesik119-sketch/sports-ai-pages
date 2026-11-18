@@ -1,0 +1,37 @@
+---
+title: "댈러스 매버릭스 vs 골든스테이트 워리어스 농구분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T01:00:00.000Z
+description: "댈러스 매버릭스 vs 골든스테이트 워리어스 농구분석: 댈러스 매버릭스와 골든스테이트 워리어스의 이번 맞대결은 양 팀 모두 최근 흐름에서 다소 주춤한 모습을 보이고 있어 팽팽한 양상… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109800-2026-11-19-dallas-mavericks"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "댈러스 매버릭스"
+awayTeam: "골든스테이트 워리어스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/6_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/9_300300.png"
+homeAnalysis: "댈러스 매버릭스는 앞선 12경기에서 4승 8패로 승률 33%를 기록했고 다소 아쉬운 흐름을 이어가고 있습니다. 현재 리그순위 10위를 기록하며 반등의 기회를 찾기 위해 고군분투하고 있습니다. 최근 치른 경기들에서는 수비 라인에서 다소 흔들리는 모습을 보이며 실점이 늘어나는 부담을 안고 있습니다. 평균 득점 100.4점을 기록하며 공격 전개에 힘을 쏟고 있으나 마무리가 아쉽습니다. 핵심 선수들의 부상 공백을 메우기 위해 로테이션을 두텁게 가져가는 노력이 필요합니다."
+awayAnalysis: "골든스테이트 워리어스는 앞선 19경기에서 8승 11패로 승률 42%를 기록했고 중위권 도약을 노리고 있습니다. 현재 리그순위 9위로 안정적인 순위 유지를 위해 매 경기 집중력을 발휘하고 있습니다. 최근 일정에서는 원정 경기에서의 기복이 나타나며 연패를 끊어내는 것이 시급한 과제로 떠올랐습니다. 평균 득점 96.6점을 기록하며 외곽포의 효율을 높이기 위한 전술 변화를 시도하고 있습니다. 주축 선수의 이탈에도 불구하고 조직력을 다지며 분위기 반전을 준비하는 모습입니다."
+homePower: "최근 실점 증가로 인해 수비 조직력 강화가 절실함|외곽 수비의 허점이 반복되면서 상대에게 기회를 내어줌|공격에서 터지는 득점력에 비해 수비 밸런스가 다소 아쉬움|홈 경기에서 초반 주도권을 잡지 못하면 끌려가는 경향이 짙음|주전 선수들의 공백을 메울 벤치 자원의 활약이 중요한 시점임"
+awayPower: "원정 경기에서 득점 생산력이 떨어지며 경기를 어렵게 풀어감|수비 집중력이 흔들리면서 대량 실점을 허용하는 패턴이 보임|리바운드 싸움에서 열세를 보이며 세컨드 찬스를 자주 내어줌|핵심 전력 이탈 여파로 인해 공격 전개가 다소 단조로워짐|고비를 넘기지 못하고 접전 상황에서 무너지는 기복이 관찰됨"
+h2h: '[{"date":"26.07.10","home":"댈러스 매버릭스","away":"골든스테이트 워리어스","score":"90-101","link":"https://pick79.com/posts/detail/analyze-502066-2026-07-10-dallas-mavericks/"}]'
+summary: "댈러스 매버릭스와 골든스테이트 워리어스의 이번 맞대결은 양 팀 모두 최근 흐름에서 다소 주춤한 모습을 보이고 있어 팽팽한 양상으로 전개될 것으로 보입니다. 댈러스 매버릭스는 현재 리그순위 10위에 위치해 있으며 수비 안정을 통한 반등을 노리고 있고, 골든스테이트 워리어스는 리그순위 9위로서 원정에서의 약세를 극복하기 위해 집중력을 다지고 있습니다. 양 팀 모두 부상 공백이라는 변수를 안고 있는 만큼 코트 위에서 벤치 자원의 역할이 매우 중요하게 작용할 전망입니다. 공수 밸런스와 최근 맞대결 결과를 종합해 볼 때 댈러스 매버릭스가 홈 이점을 살려 조금 더 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.11.16","home":"보스턴 셀틱스","away":"댈러스 매버릭스","score":"131-94","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109773-2026-11-16-boston-celtics/"},{"date":"26.11.15","home":"클리블랜드 캐벌리어스","away":"댈러스 매버릭스","score":"127-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109765-2026-11-15-cleveland-cavaliers/"},{"date":"26.11.13","home":"미네소타 팀버울브스","away":"댈러스 매버릭스","score":"133-94","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109753-2026-11-13-minnesota-timberwolves/"},{"date":"26.11.03","home":"댈러스 매버릭스","away":"새크라멘토 킹스","score":"100-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110206-2026-11-03-dallas-mavericks/"},{"date":"26.10.25","home":"댈러스 매버릭스","away":"샌안토니오 스퍼스","score":"106-122","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102406-2026-10-25-dallas-mavericks/"}]'
+awayRecent: '[{"date":"26.11.17","home":"뉴올리언스 펠리컨스","away":"골든스테이트 워리어스","score":"115-94","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109783-2026-11-17-new-orleans-pelicans/"},{"date":"26.11.14","home":"샌안토니오 스퍼스","away":"골든스테이트 워리어스","score":"123-85","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109761-2026-11-14-san-antonio-spurs/"},{"date":"26.11.12","home":"휴스턴 로키츠","away":"골든스테이트 워리어스","score":"115-108","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109749-2026-11-12-houston-rockets/"},{"date":"26.11.03","home":"골든스테이트 워리어스","away":"피닉스 선즈","score":"116-113","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110209-2026-11-03-golden-state-warriors/"},{"date":"26.10.25","home":"피닉스 선즈","away":"골든스테이트 워리어스","score":"131-122","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102421-2026-10-25-phoenix-suns/"}]'
+injuryHome: "Sergio de Larrea (Strain) | Walter Clayton Jr. (Sprain) | Dereck Lively II (Surgery) | Tobi Lawal (없음) | Tarik Biberovic (Inflammation)"
+injuryAway: "Al Horford (없음) | Stephen Curry (없음) | Brandon Williams (Not Specified) | Kristaps Porzingis (없음) | Moses Moody (Surgery)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "댈러스 매버릭스"
+pickWinResult: "승"
+pickHandicapTeam: "댈러스 매버릭스"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "205.5"
+pickOuDirection: "언더"
+---

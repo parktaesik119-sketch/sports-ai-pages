@@ -1,0 +1,37 @@
+---
+title: "덴버 너기츠 vs 보스턴 셀틱스 농구분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T02:30:00.000Z
+description: "덴버 너기츠 vs 보스턴 셀틱스 농구분석: 덴버 너기츠은 현재 리그순위 8위로 중위권에 위치해 있으나 최근 10경기에서 좋은 흐름을 보이며 반등의 발판을 마련했습니다. … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109799-2026-11-19-denver-nuggets"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "덴버 너기츠"
+awayTeam: "보스턴 셀틱스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/7_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/2_300300.png"
+homeAnalysis: "덴버 너기츠은 앞선 15경기에서 7승 8패로 승률 47%를 기록했고 최근 경기에서 기복을 보이고 있습니다. 현재 리그순위 8위를 기록하며 7승 5패의 성적으로 중위권 경쟁을 펼치는 중입니다. 최근 10경기 흐름을 살펴보면 6승 4패로 점차 안정감을 찾아가는 모습을 보여주고 있습니다. 평균 득점 105.6점을 기록하며 꾸준한 공격력을 유지하고 있으나 수비 집중력에서는 다소 아쉬움을 남기기도 했습니다. 홈 경기에서는 특유의 탄탄한 조직력을 바탕으로 상대 수비를 흔드는 능력이 뛰어납니다."
+awayAnalysis: "보스턴 셀틱스는 앞선 16경기에서 8승 8패로 승률 50%를 기록했고 치열한 상위권 순위 싸움을 이어가고 있습니다. 현재 리그순위 2위로 11승 3패의 뛰어난 성적을 거두고 있으며 득실 마진에서도 큰 우위를 점하고 있습니다. 최근 10경기에서는 5승 5패를 기록하며 상위권의 위상에 비해 다소 주춤한 흐름을 나타내고 있습니다. 평균 득점 100.8점을 기록 중인 가운데 원정 경기에서는 집중력을 높여 승수를 쌓으려 노력하고 있습니다. 탄탄한 전력을 갖추고 있지만 최근 흐름에서 다소 기복을 보이는 점은 보완해야 할 부분입니다."
+homePower: "덴버 너기츠은 최근 10경기에서 6승을 챙기며 상승세 회복 중임|리그순위 8위이나 홈 경기 집중력은 상위권 못지않음|평균 득점 105.6점으로 꾸준한 화력 유지를 보여줌|수비 집중력 다소 흔들리나 홈에서 극복하는 패턴임|핵심 선수들의 고른 활약으로 조직력이 단단해짐"
+awayPower: "보스턴 셀틱스는 리그순위 2위로 탄탄한 기본 전력을 증명함|최근 10경기 5승 5패로 다소 주춤한 흐름을 보이고 있음|득실 마진 플러스 성적으로 공수 균형이 우수한 편임|원정 경기에서 기복을 줄이는 집중력 보완이 필요함|상위권 다운 경기 운영 능력이 검증된 상태임"
+h2h: '[]'
+summary: "덴버 너기츠은 현재 리그순위 8위로 중위권에 위치해 있으나 최근 10경기에서 좋은 흐름을 보이며 반등의 발판을 마련했습니다. 이에 맞서는 보스턴 셀틱스는 리그순위 2위의 높은 자리를 지키고 있지만 최근 경기에서는 다소 주춤한 모습을 노출했습니다. 양 팀의 전력과 최근 경기력을 종합해 볼 때 홈 이점을 안고 있는 덴버 너기츠이 경기를 주도하며 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.17","home":"덴버 너기츠","away":"피닉스 선즈","score":"105-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109785-2026-11-17-denver-nuggets/"},{"date":"26.11.15","home":"뉴올리언스 펠리컨스","away":"덴버 너기츠","score":"108-116","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109764-2026-11-15-new-orleans-pelicans/"},{"date":"26.11.12","home":"멤피스 그리즐리","away":"덴버 너기츠","score":"118-123","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109747-2026-11-12-memphis-grizzlies/"},{"date":"26.11.03","home":"덴버 너기츠","away":"포틀랜드 트레일블레이저스","score":"110-118","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110207-2026-11-03-denver-nuggets/"},{"date":"26.10.25","home":"덴버 너기츠","away":"뉴올리언스 펠리컨스","score":"141-135","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102407-2026-10-25-denver-nuggets/"}]'
+awayRecent: '[{"date":"26.11.17","home":"보스턴 셀틱스","away":"올랜도 매직","score":"105-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109778-2026-11-17-boston-celtics/"},{"date":"26.11.16","home":"보스턴 셀틱스","away":"댈러스 매버릭스","score":"131-94","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109773-2026-11-16-boston-celtics/"},{"date":"26.11.12","home":"토론토 랩터스","away":"보스턴 셀틱스","score":"93-98","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109743-2026-11-12-toronto-raptors/"},{"date":"26.11.03","home":"휴스턴 로키츠","away":"보스턴 셀틱스","score":"109-93","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110210-2026-11-03-houston-rockets/"},{"date":"26.10.24","home":"보스턴 셀틱스","away":"뉴욕 닉스","score":"107-103","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102302-2026-10-24-boston-celtics/"}]'
+injuryHome: "Julian Strawther (Sprain)"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "덴버 너기츠"
+pickWinResult: "승"
+pickHandicapTeam: "덴버 너기츠"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "214.5"
+pickOuDirection: "언더"
+---

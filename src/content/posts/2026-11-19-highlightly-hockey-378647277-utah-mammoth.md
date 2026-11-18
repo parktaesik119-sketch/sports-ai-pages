@@ -1,0 +1,37 @@
+---
+title: "유타 매머드 vs 콜로라도 애벌랜치 하키분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T03:00:00.000Z
+description: "유타 매머드 vs 콜로라도 애벌랜치 하키분석: 양 팀은 최근 흐름과 순위 지표에서 대조적인 모습을 보이고 있습니다. 홈팀은 최근 부진과 수비 난조로 고전하고 있는 반면, 원… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378647277-2026-11-19-utah-mammoth"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "유타 매머드"
+awayTeam: "콜로라도 애벌랜치"
+homeLogo: "/logos/utah-mammoth.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/578613.png"
+homeAnalysis: "유타 매머드는 앞선 31경기에서 14승 17패로 승률 45%를 기록했고, 전반적인 흐름에서 다소 아쉬움을 남기고 있습니다. 현재 리그순위 9위를 기록 중이며, 최근 10경기에서는 2승 8패로 부진한 흐름을 보이고 있습니다. 득점력 측면에서는 꾸준히 골문을 두드리고 있으나 수비 집중력 난조로 인해 승리를 지키지 못하는 경기가 늘어났습니다. 특히 최근 경기들에서 실점이 잦아지면서 분위기 반전이 절실한 상황입니다. 홈 경기라는 이점을 안고 있기에 전력을 가다듬어 집중력을 보여줄 필요가 있습니다."
+awayAnalysis: "콜로라도 애벌랜치는 앞선 34경기에서 18승 16패로 승률 53%를 기록했고, 상위권 다운 저력을 꾸준히 보여주고 있습니다. 현재 리그순위 4위를 마크하고 있으며, 최근 10경기에서 6승 4패를 기록하며 안정적인 흐름을 유지하고 있습니다. 탄탄한 화력을 바탕으로 멀티 득점을 뽑아내는 능력이 탁월하며 득실 마진에서도 우위를 점하고 있습니다. 원정 경기 부담이 존재하지만 최근 공수 밸런스가 안정적이라 경기를 주도할 가능성이 높습니다. 핵심 선수의 공백이 변수가 될 수 있으나 전체적인 전력에서 우위를 점하고 있습니다."
+homePower: "최근 10경기 2승으로 흐름이 크게 처진 상태임|실점 관리가 흔들리며 다실점 경기가 반복되는 양상임|리그순위 9위로 중하위권 탈출을 위한 돌파구가 필요함|홈 이점을 살려 공격적인 운영으로 반전을 노릴 시점임|핵심 자원들의 부상 공백을 메울 조직력이 절실함"
+awayPower: "최근 10경기 6승으로 비교적 안정적인 전력을 유지함|리그순위 4위의 상위권 팀다운 탄탄한 공수 밸런스를 자랑함|평균 득점력이 높아 언제든 멀티 골을 뽑아내는 화력을 지님|원정 경기에서도 주도권을 쥐고 경기를 풀어가는 능력이 뛰어남|탄탄한 득실 마진을 바탕으로 경기 운영의 우위를 점하고 있음"
+h2h: '[{"date":"26.09.27","home":"유타 매머드","away":"콜로라도 애벌랜치","score":"2-0","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-368088069-2026-09-27-utah-mammoth/"},{"date":"26.09.21","home":"콜로라도 애벌랜치","away":"유타 매머드","score":"4-1","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-368071900-2026-09-21-colorado-avalanche/"}]'
+summary: "양 팀은 최근 흐름과 순위 지표에서 대조적인 모습을 보이고 있습니다. 홈팀은 최근 부진과 수비 난조로 고전하고 있는 반면, 원정팀은 상위권의 저력을 바탕으로 꾸준한 득점력을 뽐내고 있습니다. 전력과 최근 경기력 전반을 종합해 볼 때 원정팀이 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.17","home":"유타 매머드","away":"밴쿠버 카넉스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378635363-2026-11-17-utah-mammoth/"},{"date":"26.11.15","home":"유타 매머드","away":"산호세 샤크스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378627704-2026-11-15-utah-mammoth/"},{"date":"26.11.13","home":"유타 매머드","away":"세인트루이스 블루스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614939-2026-11-13-utah-mammoth/"},{"date":"26.11.12","home":"베가스 골든나이츠","away":"유타 매머드","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378604727-2026-11-12-vegas-golden-knights/"},{"date":"26.11.08","home":"오타와 세너터스","away":"유타 매머드","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378581750-2026-11-08-ottawa-senators/"}]'
+awayRecent: '[{"date":"26.11.15","home":"몬트리올 캐네이디언스","away":"콜로라도 애벌랜치","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378624300-2026-11-15-montreal-canadiens/"},{"date":"26.11.13","home":"오타와 세너터스","away":"콜로라도 애벌랜치","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378611535-2026-11-13-ottawa-senators/"},{"date":"26.11.11","home":"토론토 메이플 리프스","away":"콜로라도 애벌랜치","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378596217-2026-11-11-toronto-maple-leafs/"},{"date":"26.11.08","home":"콜로라도 애벌랜치","away":"디트로이트 레드윙스","score":"4-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378586856-2026-11-08-colorado-avalanche/"},{"date":"26.11.06","home":"콜로라도 애벌랜치","away":"내슈빌 프레데터스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378574942-2026-11-06-colorado-avalanche/"}]'
+injuryHome: "Nick Schmaltz(부상자 명단) | Nate Schmidt(부상자 명단) | Dylan Guenther(부상자 명단) | John Marino(부상자 명단) | Maveric Lamoureux(부상자 명단)"
+injuryAway: "Scott Wedgewood(당일 결정) | Cale Makar(결장) | Nathan MacKinnon(결장) | Josh Manson(부상자 명단) | Zachary L'Heureux(부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "콜로라도 애벌랜치"
+pickWinResult: "승"
+pickHandicapTeam: "콜로라도 애벌랜치"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

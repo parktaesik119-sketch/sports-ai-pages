@@ -1,0 +1,37 @@
+---
+title: "브루클린 네츠 vs 시카고 불스 농구분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T00:30:00.000Z
+description: "브루클린 네츠 vs 시카고 불스 농구분석: 두 팀 모두 올 시즌 리그순위 하위권에 머물며 치열한 순위 다툼을 벌이고 있는 상황입니다. 브루클린 네츠는 홈에서 화끈한 공격… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109795-2026-11-19-brooklyn-nets"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "브루클린 네츠"
+awayTeam: "시카고 불스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/17_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/4_300300.png"
+homeAnalysis: "브루클린 네츠는 앞선 15경기에서 6승 9패로 승률 40%를 기록했고 다소 기복 있는 경기력을 보여주고 있습니다. 현재 리그순위 13위로 3승 10패를 기록 중이며 득실 마이너스 87로 수비 안정화가 시급한 과제로 꼽힙니다. 최근 치른 경기들을 살펴보면 필라델피아 세븐티식서스전에서 123점을 올리고도 135점을 내주며 수비에서 아쉬움을 남겼습니다. 뉴올리언스 펠리컨스를 상대로는 145점을 폭발시키며 대승을 거두는 등 공격력이 터질 때는 저력을 발휘하고 있습니다. 홈 전력에서 꾸준한 흐름을 유지하기 위해서는 실점 억제력을 높이는 것이 무엇보다 중요해 보입니다."
+awayAnalysis: "시카고 불스는 앞선 13경기에서 4승 9패로 승률 31%를 기록했고 반등을 위한 돌파구를 찾고 있습니다. 현재 리그순위 14위로 3승 10패를 기록하고 있으며 득실 마이너스 147로 공수 양면에서 보완할 점이 많습니다. 클리블랜드 캐벌리어스전에서 115점을 기록하며 분전했으나 아쉽게 패배를 안기도 했습니다. 반면 미네소타 팀버울브스와 애틀랜타 호크스를 상대로 연승을 거둘 당시에는 준수한 득점력을 뽐내며 분위기를 끌어올렸습니다. 주축 선수의 부상 이탈 변수가 존재하지만 최근 경기에서 보여준 공격 집중력을 바탕으로 원정 승리에 도전합니다."
+homePower: "홈팀 브루클린 네츠는 최근 15경기 평균 득점 102.6점으로 기복 있는 공격력을 보임|리그순위 13위 및 득실 -87로 수비 집중력 보완이 절실함|뉴올리언스전 145점 폭발 등 터질 때의 화력은 상당한 위력을 가짐|최근 실점 관리의 부재로 인해 안정적인 리드 유지에 어려움을 겪음|홈 코트의 이점을 살려 수비 조직력을 정비해야 승산이 높음"
+awayPower: "원정팀 시카고 불스는 최근 13경기 평균 득점 104.5점으로 꾸준한 득점 루트를 가짐|리그순위 14위 기록 중이나 최근 연승 과정에서 공격 집중력을 증명함|미네소타전 및 애틀랜타전 승리에서 나타난 화력이 주요 무기로 꼽힘|원정 경기 운영에서 수비 허점을 얼마나 줄이느냐가 관건임|부상 공백을 극복하기 위한 로테이션 활용 능력이 검증되어야 함"
+h2h: '[]'
+summary: "두 팀 모두 올 시즌 리그순위 하위권에 머물며 치열한 순위 다툼을 벌이고 있는 상황입니다. 브루클린 네츠는 홈에서 화끈한 공격력을 보여준 적이 있지만 수비 안정감이 다소 흔들리는 모습입니다. 시카고 불스 역시 원정 경기에서 기복을 보이고 있으나 최근 경기들에서 집중력 있는 득점력을 발휘하며 저력을 증명했습니다. 공수 균형과 최근 경기에서 드러난 집중력을 종합해 볼 때 원정팀 시카고 불스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.17","home":"브루클린 네츠","away":"필라델피아 76ers","score":"123-135","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109782-2026-11-17-brooklyn-nets/"},{"date":"26.11.15","home":"멤피스 그리즐리","away":"브루클린 네츠","score":"129-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109768-2026-11-15-memphis-grizzlies/"},{"date":"26.11.12","home":"뉴올리언스 펠리컨스","away":"브루클린 네츠","score":"111-145","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109744-2026-11-12-new-orleans-pelicans/"},{"date":"26.11.03","home":"뉴욕 닉스","away":"브루클린 네츠","score":"103-90","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110218-2026-11-03-new-york-knicks/"},{"date":"26.10.26","home":"브루클린 네츠","away":"인디애나 페이서스","score":"109-136","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102517-2026-10-26-brooklyn-nets/"}]'
+awayRecent: '[{"date":"26.11.17","home":"클리블랜드 캐벌리어스","away":"시카고 불스","score":"126-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109779-2026-11-17-cleveland-cavaliers/"},{"date":"26.11.15","home":"미네소타 팀버울브스","away":"시카고 불스","score":"106-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109767-2026-11-15-minnesota-timberwolves/"},{"date":"26.11.14","home":"시카고 불스","away":"애틀랜타 호크스","score":"125-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109758-2026-11-14-chicago-bulls/"},{"date":"26.11.12","home":"시카고 불스","away":"샌안토니오 스퍼스","score":"119-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109745-2026-11-12-chicago-bulls/"},{"date":"26.11.03","home":"필라델피아 76ers","away":"시카고 불스","score":"126-107","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110220-2026-11-03-philadelphia-76ers/"}]'
+injuryHome: "없음"
+injuryAway: "Patrick Williams (경미) | Tobe Awaka (주요) | Caleb Wilson (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 불스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 불스"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---

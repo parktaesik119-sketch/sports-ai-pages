@@ -1,0 +1,4224 @@
+[
+  {
+    "home": "Andorra",
+    "away": "Azerbaijan",
+    "date": "2026-11-16T18:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401914292",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": null,
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2016-05-26T16:00:00Z",
+          "home": "Azerbaijan",
+          "away": "Andorra",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2012-05-30T15:00:00Z",
+          "home": "Azerbaijan",
+          "away": "Andorra",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Malaysia",
+    "away": "Yemen",
+    "date": "2026-11-17T06:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401930237",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MAS leads series 3-0",
+      "totalGames": 2,
+      "games": [
+        {
+          "date": "2014-03-05T14:00:00Z",
+          "home": "Yemen",
+          "away": "Malaysia",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2013-03-22T12:00:00Z",
+          "home": "Malaysia",
+          "away": "Yemen",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Singapore",
+    "away": "Brazil",
+    "date": "2026-11-17T10:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401916335",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": null
+  },
+  {
+    "home": "China",
+    "away": "Bahrain",
+    "date": "2026-11-17T12:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401930880",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CHN leads series 2-0-2",
+      "totalGames": 4,
+      "games": [
+        {
+          "date": "2025-06-10T11:00:00Z",
+          "home": "China",
+          "away": "Bahrain",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-11-14T14:00:00Z",
+          "home": "Bahrain",
+          "away": "China",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2018-09-10T16:30:00Z",
+          "home": "Bahrain",
+          "away": "China",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2010-08-11T12:30:00Z",
+          "home": "China",
+          "away": "Bahrain",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Lebanon",
+    "away": "Palestine",
+    "date": "2026-11-17T13:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401933635",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": null,
+      "totalGames": 3,
+      "games": [
+        {
+          "date": "2024-06-06T16:00:00Z",
+          "home": "Palestine",
+          "away": "Lebanon",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-11-16T14:00:00Z",
+          "home": "Lebanon",
+          "away": "Palestine",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-11-10T15:30:00Z",
+          "home": "Lebanon",
+          "away": "Palestine",
+          "homeScore": 1,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Japan",
+    "away": "Paraguay",
+    "date": "2026-11-17T13:10:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401916336",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "JPN leads series 4-0-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2025-10-10T10:20:00Z",
+          "home": "Japan",
+          "away": "Paraguay",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2022-06-02T10:00:00Z",
+          "home": "Japan",
+          "away": "Paraguay",
+          "homeScore": 4,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-09-05T10:20:00Z",
+          "home": "Japan",
+          "away": "Paraguay",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2018-06-12T13:05:00Z",
+          "home": "Japan",
+          "away": "Paraguay",
+          "homeScore": 4,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2010-09-04T10:20:00Z",
+          "home": "Japan",
+          "away": "Paraguay",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Qatar",
+    "away": "South Korea",
+    "date": "2026-11-17T14:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401931477",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "KOR leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2020-11-17T13:00:00Z",
+          "home": "South Korea",
+          "away": "Qatar",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-01-25T13:00:00Z",
+          "home": "South Korea",
+          "away": "Qatar",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2017-06-13T19:00:00Z",
+          "home": "Qatar",
+          "away": "South Korea",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-10-06T11:00:00Z",
+          "home": "South Korea",
+          "away": "Qatar",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2013-03-26T11:00:00Z",
+          "home": "South Korea",
+          "away": "Qatar",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Saudi Arabia",
+    "away": "Uzbekistan",
+    "date": "2026-11-17T15:30:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401931495",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "KSA leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2021-06-15T18:00:00Z",
+          "home": "Saudi Arabia",
+          "away": "Uzbekistan",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-11-14T12:00:00Z",
+          "home": "Uzbekistan",
+          "away": "Saudi Arabia",
+          "homeScore": 2,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2015-01-18T09:00:00Z",
+          "home": "Uzbekistan",
+          "away": "Saudi Arabia",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2008-06-22T18:00:00Z",
+          "home": "Saudi Arabia",
+          "away": "Uzbekistan",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2008-03-26T11:00:00Z",
+          "home": "Uzbekistan",
+          "away": "Saudi Arabia",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Jordan",
+    "away": "Australia",
+    "date": "2026-11-17T16:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401919974",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "AUS leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2022-06-01T18:00:00Z",
+          "home": "Australia",
+          "away": "Jordan",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-06-15T16:00:00Z",
+          "home": "Australia",
+          "away": "Jordan",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-11-14T16:00:00Z",
+          "home": "Jordan",
+          "away": "Australia",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-01-06T11:00:00Z",
+          "home": "Australia",
+          "away": "Jordan",
+          "homeScore": 0,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2016-03-29T09:00:00Z",
+          "home": "Australia",
+          "away": "Jordan",
+          "homeScore": 5,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Russia",
+    "away": "Venezuela",
+    "date": "2026-11-17T16:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401930978",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": null
+  },
+  {
+    "home": "Iraq",
+    "away": "Iran",
+    "date": "2026-11-17T16:15:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401933615",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "IRN leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2022-01-27T14:30:00Z",
+          "home": "Iran",
+          "away": "Iraq",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-09-07T18:00:00Z",
+          "home": "Iraq",
+          "away": "Iran",
+          "homeScore": 0,
+          "awayScore": 3,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-06-15T16:30:00Z",
+          "home": "Iran",
+          "away": "Iraq",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-11-14T14:00:00Z",
+          "home": "Iraq",
+          "away": "Iran",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2019-01-16T16:00:00Z",
+          "home": "Iran",
+          "away": "Iraq",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Kuwait",
+    "away": "Honduras",
+    "date": "2026-11-17T16:30:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401931956",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": null
+  },
+  {
+    "home": "Argentina",
+    "away": "Costa Rica",
+    "date": "2026-11-17T23:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401930895",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ARG leads series 3-0-1",
+      "totalGames": 4,
+      "games": [
+        {
+          "date": "2024-03-27T02:50:00Z",
+          "home": "Argentina",
+          "away": "Costa Rica",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2011-07-12T00:45:00Z",
+          "home": "Argentina",
+          "away": "Costa Rica",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2011-03-30T02:00:00Z",
+          "home": "Costa Rica",
+          "away": "Argentina",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2010-01-27T01:00:00Z",
+          "home": "Argentina",
+          "away": "Costa Rica",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chile",
+    "away": "Colombia",
+    "date": "2026-11-17T23:00:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401921304",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "COL leads series 3-0-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-11-14T00:00:00Z",
+          "home": "Colombia",
+          "away": "Chile",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-10-15T20:30:00Z",
+          "home": "Colombia",
+          "away": "Chile",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-09-13T00:30:00Z",
+          "home": "Chile",
+          "away": "Colombia",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-09-09T23:00:00Z",
+          "home": "Colombia",
+          "away": "Chile",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2020-10-14T00:30:00Z",
+          "home": "Chile",
+          "away": "Colombia",
+          "homeScore": 2,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Ecuador",
+    "away": "Bolivia",
+    "date": "2026-11-17T23:30:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401930899",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "ECU leads series 5-0",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2024-11-15T00:00:00Z",
+          "home": "Ecuador",
+          "away": "Bolivia",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-13T00:30:00Z",
+          "home": "Ecuador",
+          "away": "Bolivia",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-10-12T23:00:00Z",
+          "home": "Bolivia",
+          "away": "Ecuador",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-06-17T23:30:00Z",
+          "home": "Ecuador",
+          "away": "Bolivia",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2021-10-08T00:30:00Z",
+          "home": "Ecuador",
+          "away": "Bolivia",
+          "homeScore": 3,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Uruguay",
+    "away": "Dominican Republic",
+    "date": "2026-11-17T23:30:00.000Z",
+    "league": "Friendlies",
+    "sport": "soccer",
+    "espnSport": "soccer_friendly",
+    "gameId": "401932215",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": null,
+      "away": null
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "URU leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2025-10-10T12:45:00Z",
+          "home": "Uruguay",
+          "away": "Dominican Republic",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Utah Mammoth",
+    "away": "Vancouver Canucks",
+    "date": "2026-11-17T02:30:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892727",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nick Schmaltz",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Nate Schmidt",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Dylan Guenther",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "John Marino",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Maveric Lamoureux",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Guillaume Brisebois",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Mackenzie MacEachern",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Thatcher Demko",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "10",
+        "losses": "9",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "12",
+        "pointsFor": "73",
+        "pointsAgainst": "78"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "5",
+        "losses": "17",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "24",
+        "pointsFor": "66",
+        "pointsAgainst": "100"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "New York Rangers",
+    "away": "Montreal Canadiens",
+    "date": "2026-11-17T00:30:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892726",
+    "injuries": {
+      "home": [
+        {
+          "name": "Pavel Dorofeyev",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Sean Durzi",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Alberts Smits",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Igor Shesterkin",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Joe Veleno",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Alexandre Texier",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Mike Matheson",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Josh Anderson",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Chris Kreider",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Ivan Demidov",
+          "status": "Injured Reserve",
+          "detail": "Fracture"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "13",
+        "losses": "8",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "7",
+        "pointsFor": "67",
+        "pointsAgainst": "58"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "12",
+        "losses": "5",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "69",
+        "pointsAgainst": "64"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Vegas Golden Knights",
+    "away": "Dallas Stars",
+    "date": "2026-11-20T03:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892753",
+    "injuries": {
+      "home": [
+        {
+          "name": "Noah Hanifin",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Tyler Myers",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Kyle Capobianco",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Lian Bichsel",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Oskar Back",
+          "status": "Injured Reserve",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Matt Duchene",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "13",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "74",
+        "pointsAgainst": "63"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "12",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "9",
+        "pointsFor": "56",
+        "pointsAgainst": "50"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "San Jose Sharks",
+    "away": "Calgary Flames",
+    "date": "2026-11-18T03:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892738",
+    "injuries": {
+      "home": [
+        {
+          "name": "Kiefer Sherwood",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Igor Chernyshov",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Quentin Musty",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Kyle Keyser",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Jonathan Huberdeau",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Kevin Bahl",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Connor Zary",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "10",
+        "losses": "11",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "13",
+        "pointsFor": "63",
+        "pointsAgainst": "81"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "9",
+        "losses": "11",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "16",
+        "pointsFor": "51",
+        "pointsAgainst": "74"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "CGY leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-11-03T02:00:00Z",
+          "home": "San Jose Sharks",
+          "away": "Calgary Flames",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Vegas Golden Knights",
+    "away": "Dallas Stars",
+    "date": "2026-11-18T03:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892737",
+    "injuries": {
+      "home": [
+        {
+          "name": "Noah Hanifin",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Tyler Myers",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Kyle Capobianco",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Lian Bichsel",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Oskar Back",
+          "status": "Injured Reserve",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Matt Duchene",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "13",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "74",
+        "pointsAgainst": "63"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "12",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "9",
+        "pointsFor": "56",
+        "pointsAgainst": "50"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "St. Louis Blues",
+    "away": "Anaheim Ducks",
+    "date": "2026-11-18T01:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892734",
+    "injuries": {
+      "home": [
+        {
+          "name": "Ross Johnston",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Torey Krug",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Dillon Dube",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Tyler Tucker",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Beckett Sennecke",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Ryan Poehling",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "A.J. Greer",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "9",
+        "losses": "9",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "15",
+        "pointsFor": "55",
+        "pointsAgainst": "59"
+      },
+      "away": {
+        "rank": "7",
+        "wins": "11",
+        "losses": "9",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "12",
+        "pointsFor": "79",
+        "pointsAgainst": "77"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Minnesota Wild",
+    "away": "Nashville Predators",
+    "date": "2026-11-18T01:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892735",
+    "injuries": {
+      "home": [
+        {
+          "name": "Olli Maatta",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Filip Gustavsson",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "15",
+        "losses": "3",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "1",
+        "pointsFor": "76",
+        "pointsAgainst": "48"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "11",
+        "losses": "5",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "8",
+        "pointsFor": "64",
+        "pointsAgainst": "59"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIN leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-02T00:00:00Z",
+          "home": "Nashville Predators",
+          "away": "Minnesota Wild",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Chicago Blackhawks",
+    "away": "Toronto Maple Leafs",
+    "date": "2026-11-18T00:30:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892733",
+    "injuries": {
+      "home": [
+        {
+          "name": "Bowen Byram",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Colton Sissons",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Kirill Marchenko",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Miles Wood",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Nick Blankenburg",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Marshall Rifai",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "5",
+        "losses": "13",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "23",
+        "pointsFor": "46",
+        "pointsAgainst": "83"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "8",
+        "losses": "12",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "16",
+        "pointsFor": "69",
+        "pointsAgainst": "76"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Tampa Bay Lightning",
+    "away": "Washington Capitals",
+    "date": "2026-11-18T00:30:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892729",
+    "injuries": {
+      "home": [
+        {
+          "name": "Brandon Hagel",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Conor Geekie",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Rasmus Sandin",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Vincent Desharnais",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "3",
+        "wins": "13",
+        "losses": "5",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "74",
+        "pointsAgainst": "59"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "10",
+        "losses": "8",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "14",
+        "pointsFor": "62",
+        "pointsAgainst": "65"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TB leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-03T23:00:00Z",
+          "home": "Tampa Bay Lightning",
+          "away": "Washington Capitals",
+          "homeScore": 3,
+          "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Winnipeg Jets",
+    "away": "Ottawa Senators",
+    "date": "2026-11-18T00:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892736",
+    "injuries": {
+      "home": [
+        {
+          "name": "Isak Rosen",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Dylan DeMelo",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Elias Salomonsson",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Vladislav Namestnikov",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Nick Bjugstad",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Hayden Hodgson",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Warren Foegele",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Nick Cousins",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Andre Burakovsky",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "William Eklund",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "10",
+        "losses": "8",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "12",
+        "pointsFor": "66",
+        "pointsAgainst": "72"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "13",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "68",
+        "pointsAgainst": "61"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Florida Panthers",
+    "away": "Edmonton Oilers",
+    "date": "2026-11-18T00:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892730",
+    "injuries": {
+      "home": [
+        {
+          "name": "Brad Marchand",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Aleksander Barkov",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Jonah Gadjovich",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Ryan Nugent-Hopkins",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Alec Regula",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Matt Savoie",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Frederik Andersen",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Mattias Janmark",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "12",
+        "losses": "7",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "7",
+        "pointsFor": "70",
+        "pointsAgainst": "63"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "16",
+        "losses": "3",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "-",
+        "pointsFor": "87",
+        "pointsAgainst": "60"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "New York Islanders",
+    "away": "Columbus Blue Jackets",
+    "date": "2026-11-18T00:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892731",
+    "injuries": {
+      "home": [
+        {
+          "name": "Jean-Gabriel Pageau",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Logan Stanley",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Calum Ritchie",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Alexander Romanov",
+          "status": "Injured Reserve",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Sean Monahan",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "9",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "12",
+        "pointsFor": "60",
+        "pointsAgainst": "56"
+      },
+      "away": {
+        "rank": "16",
+        "wins": "7",
+        "losses": "11",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "20",
+        "pointsFor": "45",
+        "pointsAgainst": "58"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Boston Bruins",
+    "away": "Los Angeles Kings",
+    "date": "2026-11-18T00:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892728",
+    "injuries": {
+      "home": [
+        {
+          "name": "James Hagens",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Artemi Panarin",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jakub Dvorak",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "6",
+        "wins": "13",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "7",
+        "pointsFor": "72",
+        "pointsAgainst": "52"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "5",
+        "losses": "11",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "23",
+        "pointsFor": "49",
+        "pointsAgainst": "63"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "BOS leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-18T01:00:00Z",
+          "home": "Los Angeles Kings",
+          "away": "Boston Bruins",
+          "homeScore": 1,
+          "awayScore": 4,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Philadelphia Flyers",
+    "away": "Buffalo Sabres",
+    "date": "2026-11-18T00:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892732",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nikita Grebenkin",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Konsta Helenius",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Justin Danforth",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Matt Grzelcyk",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "6",
+        "losses": "11",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "16",
+        "pointsFor": "53",
+        "pointsAgainst": "77"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "8",
+        "losses": "8",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "14",
+        "pointsFor": "55",
+        "pointsAgainst": "70"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "PHI leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-21T23:30:00Z",
+          "home": "Buffalo Sabres",
+          "away": "Philadelphia Flyers",
+          "homeScore": 1,
+          "awayScore": 3,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Utah Mammoth",
+    "away": "Colorado Avalanche",
+    "date": "2026-11-19T03:00:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892741",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nick Schmaltz",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Nate Schmidt",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Dylan Guenther",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "John Marino",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Maveric Lamoureux",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Scott Wedgewood",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Cale Makar",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Nathan MacKinnon",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Josh Manson",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Zachary L'Heureux",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "10",
+        "losses": "9",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "12",
+        "pointsFor": "73",
+        "pointsAgainst": "78"
+      },
+      "away": {
+        "rank": "4",
+        "wins": "12",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "8",
+        "pointsFor": "85",
+        "pointsAgainst": "64"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "New Jersey Devils",
+    "away": "Montreal Canadiens",
+    "date": "2026-11-19T00:30:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892740",
+    "injuries": {
+      "home": [
+        {
+          "name": "Anthony Mantha",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Johnathan Kovacevic",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Seamus Casey",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Alexandre Texier",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Mike Matheson",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Josh Anderson",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Chris Kreider",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Ivan Demidov",
+          "status": "Injured Reserve",
+          "detail": "Fracture"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "15",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "4",
+        "pointsFor": "80",
+        "pointsAgainst": "61"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "12",
+        "losses": "5",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "69",
+        "pointsAgainst": "64"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Detroit Red Wings",
+    "away": "Boston Bruins",
+    "date": "2026-11-19T00:30:00.000Z",
+    "league": "NHL",
+    "sport": "hockey",
+    "espnSport": "hockey",
+    "gameId": "401892739",
+    "injuries": {
+      "home": [
+        {
+          "name": "Albert Johansson",
+          "status": "Injured Reserve",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "William Wallinder",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Dylan Larkin",
+          "status": "Injured Reserve",
+          "detail": ""
+        },
+        {
+          "name": "Simon Edvinsson",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "James Hagens",
+          "status": "Injured Reserve",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "8",
+        "losses": "10",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "15",
+        "pointsFor": "57",
+        "pointsAgainst": "64"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "13",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "7",
+        "pointsFor": "72",
+        "pointsAgainst": "52"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Boston Celtics",
+    "away": "Orlando Magic",
+    "date": "2026-11-17T00:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909994",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Izaiyah Nelson",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Jonathan Isaac",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Noah Penda",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Paolo Banchero",
+          "status": "Out",
+          "detail": "Sprain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "11",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".786",
+        "gamesBehind": "0.5",
+        "pointsFor": "1607",
+        "pointsAgainst": "1446"
+      },
+      "away": {
+        "rank": "8",
+        "wins": "6",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".462",
+        "gamesBehind": "5",
+        "pointsFor": "1415",
+        "pointsAgainst": "1458"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 1-1",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-11-01T20:30:00Z",
+          "home": "Orlando Magic",
+          "away": "Boston Celtics",
+          "homeScore": 97,
+          "awayScore": 108,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Cleveland Cavaliers",
+    "away": "Chicago Bulls",
+    "date": "2026-11-17T00:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909995",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nae'Qwan Tomlin",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jaylon Tyson",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Sam Merrill",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Peyton Watson",
+          "status": "Day-To-Day",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Evan Mobley",
+          "status": "Out",
+          "detail": "Sprain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Patrick Williams",
+          "status": "Day-To-Day",
+          "detail": "Dislocated"
+        },
+        {
+          "name": "Tobe Awaka",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Caleb Wilson",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "8",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".533",
+        "gamesBehind": "4",
+        "pointsFor": "1771",
+        "pointsAgainst": "1737"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "3",
+        "losses": "10",
+        "ties": null,
+        "winPercent": ".231",
+        "gamesBehind": "8",
+        "pointsFor": "1490",
+        "pointsAgainst": "1637"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Washington Wizards",
+    "away": "Memphis Grizzlies",
+    "date": "2026-11-17T00:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909996",
+    "injuries": {
+      "home": [
+        {
+          "name": "Felix Okpara",
+          "status": "Day-To-Day",
+          "detail": "Strain"
+        },
+        {
+          "name": "Tristan Vukcevic",
+          "status": "Out",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Reece Beekman",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Justin Champagnie",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Jamir Watkins",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "GG Jackson",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Isaiah Stewart",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Ty Jerome",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Scotty Pippen Jr.",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Richie Saunders",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "4",
+        "losses": "11",
+        "ties": null,
+        "winPercent": ".267",
+        "gamesBehind": "8",
+        "pointsFor": "1669",
+        "pointsAgainst": "1788"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "10",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".714",
+        "gamesBehind": "2",
+        "pointsFor": "1704",
+        "pointsAgainst": "1572"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Miami Heat",
+    "away": "Houston Rockets",
+    "date": "2026-11-17T00:30:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909998",
+    "injuries": {
+      "home": [
+        {
+          "name": "Myron Gardner",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Nikola Jovic",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Bam Adebayo",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Clint Capela",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Amen Thompson",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Julian Phillips",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "8",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".571",
+        "gamesBehind": "3.5",
+        "pointsFor": "1671",
+        "pointsAgainst": "1668"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "11",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".733",
+        "gamesBehind": "1.5",
+        "pointsFor": "1767",
+        "pointsAgainst": "1643"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Brooklyn Nets",
+    "away": "Philadelphia 76ers",
+    "date": "2026-11-17T00:30:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909997",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Dominick Barlow",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Jaylen Brown",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Adem Bona",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Ariel Hukporti",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "3",
+        "losses": "10",
+        "ties": null,
+        "winPercent": ".231",
+        "gamesBehind": "8",
+        "pointsFor": "1445",
+        "pointsAgainst": "1532"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "12",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".800",
+        "gamesBehind": "-",
+        "pointsFor": "1711",
+        "pointsAgainst": "1669"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "New Orleans Pelicans",
+    "away": "Golden State Warriors",
+    "date": "2026-11-17T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910000",
+    "injuries": {
+      "home": [
+        {
+          "name": "Bennedict Mathurin",
+          "status": "Out",
+          "detail": "Plantar Fasciitis"
+        },
+        {
+          "name": "Bryce McGowens",
+          "status": "Out",
+          "detail": "Infection"
+        },
+        {
+          "name": "Trendon Watford",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Trey Murphy III",
+          "status": "Out",
+          "detail": "Tendinitis"
+        },
+        {
+          "name": "Dejounte Murray",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Al Horford",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Stephen Curry",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Brandon Williams",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Moses Moody",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "5",
+        "losses": "10",
+        "ties": null,
+        "winPercent": ".333",
+        "gamesBehind": "7.5",
+        "pointsFor": "1737",
+        "pointsAgainst": "1843"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "8",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".571",
+        "gamesBehind": "4",
+        "pointsFor": "1611",
+        "pointsAgainst": "1576"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 1-1",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-11-10T03:00:00Z",
+          "home": "Golden State Warriors",
+          "away": "New Orleans Pelicans",
+          "homeScore": 138,
+          "awayScore": 87,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Minnesota Timberwolves",
+    "away": "Portland Trail Blazers",
+    "date": "2026-11-17T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401909999",
+    "injuries": {
+      "home": [
+        {
+          "name": "Zyon Pullin",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Jonathan Kuminga",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jaylen Clark",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Anthony Edwards",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Donte DiVincenzo",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Deni Avdija",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Chris Youngblood",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Vit Krejci",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Ja Morant",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Shaedon Sharpe",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "10",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".714",
+        "gamesBehind": "2",
+        "pointsFor": "1644",
+        "pointsAgainst": "1486"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "9",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".692",
+        "gamesBehind": "2.5",
+        "pointsFor": "1533",
+        "pointsAgainst": "1448"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Denver Nuggets",
+    "away": "Phoenix Suns",
+    "date": "2026-11-17T02:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910001",
+    "injuries": {
+      "home": [
+        {
+          "name": "Julian Strawther",
+          "status": "Out",
+          "detail": "Sprain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Mark Williams",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "7",
+        "losses": "5",
+        "ties": null,
+        "winPercent": ".583",
+        "gamesBehind": "4",
+        "pointsFor": "1366",
+        "pointsAgainst": "1358"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "6",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".462",
+        "gamesBehind": "5.5",
+        "pointsFor": "1469",
+        "pointsAgainst": "1513"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "Series tied 1-1",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-31T02:00:00Z",
+          "home": "Phoenix Suns",
+          "away": "Denver Nuggets",
+          "homeScore": 120,
+          "awayScore": 127,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Toronto Raptors",
+    "away": "New York Knicks",
+    "date": "2026-11-18T00:30:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910002",
+    "injuries": {
+      "home": [
+        {
+          "name": "Kawhi Leonard",
+          "status": "Out",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Nate Bittle",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Kevin McCullar Jr.",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "5",
+        "losses": "8",
+        "ties": null,
+        "winPercent": ".385",
+        "gamesBehind": "6",
+        "pointsFor": "1479",
+        "pointsAgainst": "1466"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "7",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".538",
+        "gamesBehind": "4",
+        "pointsFor": "1429",
+        "pointsAgainst": "1352"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NY leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-11-15T23:00:00Z",
+          "home": "Toronto Raptors",
+          "away": "New York Knicks",
+          "homeScore": 108,
+          "awayScore": 112,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Minnesota Timberwolves",
+    "away": "Portland Trail Blazers",
+    "date": "2026-11-18T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910003",
+    "injuries": {
+      "home": [
+        {
+          "name": "Zyon Pullin",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Jonathan Kuminga",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jaylen Clark",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Anthony Edwards",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Donte DiVincenzo",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Deni Avdija",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Chris Youngblood",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Vit Krejci",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Ja Morant",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Shaedon Sharpe",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "10",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".714",
+        "gamesBehind": "2",
+        "pointsFor": "1644",
+        "pointsAgainst": "1486"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "9",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".692",
+        "gamesBehind": "2.5",
+        "pointsFor": "1533",
+        "pointsAgainst": "1448"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MIN leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-11-17T01:00:00Z",
+          "home": "Minnesota Timberwolves",
+          "away": "Portland Trail Blazers",
+          "homeScore": 106,
+          "awayScore": 98,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "San Antonio Spurs",
+    "away": "Detroit Pistons",
+    "date": "2026-11-18T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910004",
+    "injuries": {
+      "home": [
+        {
+          "name": "Tobias Harris",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jayden Quaintance",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Isaiah Joe",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Duncan Robinson",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Taurean Prince",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Ronald Holland II",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Jalen Duren",
+          "status": "Out",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "12",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".857",
+        "gamesBehind": "-",
+        "pointsFor": "1663",
+        "pointsAgainst": "1483"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "8",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".667",
+        "gamesBehind": "2.5",
+        "pointsFor": "1388",
+        "pointsAgainst": "1323"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "LA Clippers",
+    "away": "Utah Jazz",
+    "date": "2026-11-18T03:30:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910006",
+    "injuries": {
+      "home": [
+        {
+          "name": "Yanic Konan Niederhauser",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Brandon Ingram",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Bradley Beal",
+          "status": "Out",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Jordan Miller",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jaxson Hayes",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Lauri Markkanen",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Jusuf Nurkic",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jaren Jackson Jr.",
+          "status": "Out",
+          "detail": "Not Specified"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "4",
+        "losses": "8",
+        "ties": null,
+        "winPercent": ".333",
+        "gamesBehind": "7",
+        "pointsFor": "1348",
+        "pointsAgainst": "1398"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "1",
+        "losses": "13",
+        "ties": null,
+        "winPercent": ".071",
+        "gamesBehind": "11",
+        "pointsFor": "1499",
+        "pointsAgainst": "1652"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Los Angeles Lakers",
+    "away": "Charlotte Hornets",
+    "date": "2026-11-18T04:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910005",
+    "injuries": {
+      "home": [
+        {
+          "name": "Austin Reaves",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Walker Kessler",
+          "status": "Out",
+          "detail": "Soreness"
+        }
+      ],
+      "away": [
+        {
+          "name": "Kon Knueppel",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Dennis Schroder",
+          "status": "Out",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "12",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".857",
+        "gamesBehind": "-",
+        "pointsFor": "1719",
+        "pointsAgainst": "1608"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "4",
+        "losses": "9",
+        "ties": null,
+        "winPercent": ".308",
+        "gamesBehind": "7",
+        "pointsFor": "1288",
+        "pointsAgainst": "1428"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Cleveland Cavaliers",
+    "away": "Memphis Grizzlies",
+    "date": "2026-11-19T00:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910007",
+    "injuries": {
+      "home": [
+        {
+          "name": "Nae'Qwan Tomlin",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jaylon Tyson",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Sam Merrill",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Peyton Watson",
+          "status": "Day-To-Day",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Evan Mobley",
+          "status": "Out",
+          "detail": "Sprain"
+        }
+      ],
+      "away": [
+        {
+          "name": "GG Jackson",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Isaiah Stewart",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Ty Jerome",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Scotty Pippen Jr.",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Richie Saunders",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "8",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".533",
+        "gamesBehind": "4",
+        "pointsFor": "1771",
+        "pointsAgainst": "1737"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "10",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".714",
+        "gamesBehind": "2",
+        "pointsFor": "1704",
+        "pointsAgainst": "1572"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Indiana Pacers",
+    "away": "Houston Rockets",
+    "date": "2026-11-19T00:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910008",
+    "injuries": {
+      "home": [
+        {
+          "name": "T.J. McConnell",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Andrew Nembhard",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Tyrese Haliburton",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Johnny Furphy",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Ben Sheppard",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Clint Capela",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Amen Thompson",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Julian Phillips",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "5",
+        "losses": "9",
+        "ties": null,
+        "winPercent": ".357",
+        "gamesBehind": "6.5",
+        "pointsFor": "1569",
+        "pointsAgainst": "1603"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "11",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".733",
+        "gamesBehind": "1.5",
+        "pointsFor": "1767",
+        "pointsAgainst": "1643"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Miami Heat",
+    "away": "Milwaukee Bucks",
+    "date": "2026-11-19T00:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910009",
+    "injuries": {
+      "home": [
+        {
+          "name": "Myron Gardner",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Nikola Jovic",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Bam Adebayo",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Ousmane Dieng",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "8",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".571",
+        "gamesBehind": "3.5",
+        "pointsFor": "1671",
+        "pointsAgainst": "1668"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "1",
+        "losses": "13",
+        "ties": null,
+        "winPercent": ".071",
+        "gamesBehind": "10.5",
+        "pointsFor": "1486",
+        "pointsAgainst": "1676"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Orlando Magic",
+    "away": "Philadelphia 76ers",
+    "date": "2026-11-19T00:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910010",
+    "injuries": {
+      "home": [
+        {
+          "name": "Izaiyah Nelson",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Jonathan Isaac",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Noah Penda",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Paolo Banchero",
+          "status": "Out",
+          "detail": "Sprain"
+        }
+      ],
+      "away": [
+        {
+          "name": "Dominick Barlow",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Jaylen Brown",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Adem Bona",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Ariel Hukporti",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "6",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".462",
+        "gamesBehind": "5",
+        "pointsFor": "1415",
+        "pointsAgainst": "1458"
+      },
+      "away": {
+        "rank": "1",
+        "wins": "12",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".800",
+        "gamesBehind": "-",
+        "pointsFor": "1711",
+        "pointsAgainst": "1669"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Brooklyn Nets",
+    "away": "Chicago Bulls",
+    "date": "2026-11-19T00:30:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910011",
+    "injuries": {
+      "home": [],
+      "away": [
+        {
+          "name": "Patrick Williams",
+          "status": "Day-To-Day",
+          "detail": "Dislocated"
+        },
+        {
+          "name": "Tobe Awaka",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Caleb Wilson",
+          "status": "Out",
+          "detail": ""
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "13",
+        "wins": "3",
+        "losses": "10",
+        "ties": null,
+        "winPercent": ".231",
+        "gamesBehind": "8",
+        "pointsFor": "1445",
+        "pointsAgainst": "1532"
+      },
+      "away": {
+        "rank": "14",
+        "wins": "3",
+        "losses": "10",
+        "ties": null,
+        "winPercent": ".231",
+        "gamesBehind": "8",
+        "pointsFor": "1490",
+        "pointsAgainst": "1637"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Toronto Raptors",
+    "away": "Washington Wizards",
+    "date": "2026-11-19T00:30:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910012",
+    "injuries": {
+      "home": [
+        {
+          "name": "Kawhi Leonard",
+          "status": "Out",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Nate Bittle",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Kevin McCullar Jr.",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Felix Okpara",
+          "status": "Day-To-Day",
+          "detail": "Strain"
+        },
+        {
+          "name": "Tristan Vukcevic",
+          "status": "Out",
+          "detail": "Pinched Nerve"
+        },
+        {
+          "name": "Reece Beekman",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Justin Champagnie",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Jamir Watkins",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "9",
+        "wins": "5",
+        "losses": "8",
+        "ties": null,
+        "winPercent": ".385",
+        "gamesBehind": "6",
+        "pointsFor": "1479",
+        "pointsAgainst": "1466"
+      },
+      "away": {
+        "rank": "12",
+        "wins": "4",
+        "losses": "11",
+        "ties": null,
+        "winPercent": ".267",
+        "gamesBehind": "8",
+        "pointsFor": "1669",
+        "pointsAgainst": "1788"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "TOR leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-23T23:00:00Z",
+          "home": "Washington Wizards",
+          "away": "Toronto Raptors",
+          "homeScore": 102,
+          "awayScore": 112,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "New Orleans Pelicans",
+    "away": "Detroit Pistons",
+    "date": "2026-11-19T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910013",
+    "injuries": {
+      "home": [
+        {
+          "name": "Bennedict Mathurin",
+          "status": "Out",
+          "detail": "Plantar Fasciitis"
+        },
+        {
+          "name": "Bryce McGowens",
+          "status": "Out",
+          "detail": "Infection"
+        },
+        {
+          "name": "Trendon Watford",
+          "status": "Out",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Trey Murphy III",
+          "status": "Out",
+          "detail": "Tendinitis"
+        },
+        {
+          "name": "Dejounte Murray",
+          "status": "Out",
+          "detail": ""
+        }
+      ],
+      "away": [
+        {
+          "name": "Isaiah Joe",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Duncan Robinson",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Taurean Prince",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Ronald Holland II",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Jalen Duren",
+          "status": "Out",
+          "detail": "Strain"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "12",
+        "wins": "5",
+        "losses": "10",
+        "ties": null,
+        "winPercent": ".333",
+        "gamesBehind": "7.5",
+        "pointsFor": "1737",
+        "pointsAgainst": "1843"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "8",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".667",
+        "gamesBehind": "2.5",
+        "pointsFor": "1388",
+        "pointsAgainst": "1323"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Oklahoma City Thunder",
+    "away": "Atlanta Hawks",
+    "date": "2026-11-19T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910014",
+    "injuries": {
+      "home": [
+        {
+          "name": "Thomas Sorber",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jaylin Williams",
+          "status": "Out",
+          "detail": "Spasms"
+        },
+        {
+          "name": "Cason Wallace",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Chet Holmgren",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jalen Williams",
+          "status": "Out",
+          "detail": "Fracture"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jock Landale",
+          "status": "Out",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Kingston Flemings",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Asa Newell",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "CJ McCollum",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Mouhamed Gueye",
+          "status": "Out",
+          "detail": "Fracture"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "7",
+        "wins": "9",
+        "losses": "5",
+        "ties": null,
+        "winPercent": ".643",
+        "gamesBehind": "3",
+        "pointsFor": "1570",
+        "pointsAgainst": "1499"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "8",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".571",
+        "gamesBehind": "3.5",
+        "pointsFor": "1649",
+        "pointsAgainst": "1625"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Dallas Mavericks",
+    "away": "Golden State Warriors",
+    "date": "2026-11-19T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910016",
+    "injuries": {
+      "home": [
+        {
+          "name": "Sergio de Larrea",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Walter Clayton Jr.",
+          "status": "Day-To-Day",
+          "detail": "Sprain"
+        },
+        {
+          "name": "Dereck Lively II",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Tobi Lawal",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Tarik Biberovic",
+          "status": "Out",
+          "detail": "Inflammation"
+        }
+      ],
+      "away": [
+        {
+          "name": "Al Horford",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Stephen Curry",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Brandon Williams",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Moses Moody",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "10",
+        "wins": "7",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".500",
+        "gamesBehind": "5",
+        "pointsFor": "1569",
+        "pointsAgainst": "1604"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "8",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".571",
+        "gamesBehind": "4",
+        "pointsFor": "1611",
+        "pointsAgainst": "1576"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Denver Nuggets",
+    "away": "Boston Celtics",
+    "date": "2026-11-19T02:30:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910015",
+    "injuries": {
+      "home": [
+        {
+          "name": "Julian Strawther",
+          "status": "Out",
+          "detail": "Sprain"
+        }
+      ],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "8",
+        "wins": "7",
+        "losses": "5",
+        "ties": null,
+        "winPercent": ".583",
+        "gamesBehind": "4",
+        "pointsFor": "1366",
+        "pointsAgainst": "1358"
+      },
+      "away": {
+        "rank": "2",
+        "wins": "11",
+        "losses": "3",
+        "ties": null,
+        "winPercent": ".786",
+        "gamesBehind": "0.5",
+        "pointsFor": "1607",
+        "pointsAgainst": "1446"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Los Angeles Lakers",
+    "away": "Utah Jazz",
+    "date": "2026-11-19T03:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910017",
+    "injuries": {
+      "home": [
+        {
+          "name": "Austin Reaves",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Walker Kessler",
+          "status": "Out",
+          "detail": "Soreness"
+        }
+      ],
+      "away": [
+        {
+          "name": "Jaxson Hayes",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Lauri Markkanen",
+          "status": "Out",
+          "detail": "Fracture"
+        },
+        {
+          "name": "Jusuf Nurkic",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jaren Jackson Jr.",
+          "status": "Out",
+          "detail": "Not Specified"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "2",
+        "wins": "12",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".857",
+        "gamesBehind": "-",
+        "pointsFor": "1719",
+        "pointsAgainst": "1608"
+      },
+      "away": {
+        "rank": "15",
+        "wins": "1",
+        "losses": "13",
+        "ties": null,
+        "winPercent": ".071",
+        "gamesBehind": "11",
+        "pointsFor": "1499",
+        "pointsAgainst": "1652"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "LAL lead series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-25T21:00:00Z",
+          "home": "Utah Jazz",
+          "away": "Los Angeles Lakers",
+          "homeScore": 123,
+          "awayScore": 132,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Sacramento Kings",
+    "away": "Phoenix Suns",
+    "date": "2026-11-19T03:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910018",
+    "injuries": {
+      "home": [
+        {
+          "name": "De'Andre Hunter",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Precious Achiuwa",
+          "status": "Day-To-Day",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Maxime Raynaud",
+          "status": "Out",
+          "detail": "Dislocated"
+        },
+        {
+          "name": "Ben Simmons",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Mark Williams",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "14",
+        "wins": "1",
+        "losses": "12",
+        "ties": null,
+        "winPercent": ".077",
+        "gamesBehind": "10.5",
+        "pointsFor": "1401",
+        "pointsAgainst": "1576"
+      },
+      "away": {
+        "rank": "11",
+        "wins": "6",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".462",
+        "gamesBehind": "5.5",
+        "pointsFor": "1469",
+        "pointsAgainst": "1513"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Milwaukee Bucks",
+    "away": "Portland Trail Blazers",
+    "date": "2026-11-20T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910020",
+    "injuries": {
+      "home": [
+        {
+          "name": "Ousmane Dieng",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Deni Avdija",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Chris Youngblood",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Vit Krejci",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Ja Morant",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Shaedon Sharpe",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "15",
+        "wins": "1",
+        "losses": "13",
+        "ties": null,
+        "winPercent": ".071",
+        "gamesBehind": "10.5",
+        "pointsFor": "1486",
+        "pointsAgainst": "1676"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "9",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".692",
+        "gamesBehind": "2.5",
+        "pointsFor": "1533",
+        "pointsAgainst": "1448"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Minnesota Timberwolves",
+    "away": "New York Knicks",
+    "date": "2026-11-20T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910021",
+    "injuries": {
+      "home": [
+        {
+          "name": "Zyon Pullin",
+          "status": "Out",
+          "detail": "Bruise"
+        },
+        {
+          "name": "Jonathan Kuminga",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Jaylen Clark",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Anthony Edwards",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Donte DiVincenzo",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "4",
+        "wins": "10",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".714",
+        "gamesBehind": "2",
+        "pointsFor": "1644",
+        "pointsAgainst": "1486"
+      },
+      "away": {
+        "rank": "6",
+        "wins": "7",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".538",
+        "gamesBehind": "4",
+        "pointsFor": "1429",
+        "pointsAgainst": "1352"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "San Antonio Spurs",
+    "away": "LA Clippers",
+    "date": "2026-11-20T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910022",
+    "injuries": {
+      "home": [
+        {
+          "name": "Tobias Harris",
+          "status": "Out",
+          "detail": "Strain"
+        },
+        {
+          "name": "Jayden Quaintance",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Yanic Konan Niederhauser",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Brandon Ingram",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Bradley Beal",
+          "status": "Out",
+          "detail": "Inflammation"
+        },
+        {
+          "name": "Jordan Miller",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "1",
+        "wins": "12",
+        "losses": "2",
+        "ties": null,
+        "winPercent": ".857",
+        "gamesBehind": "-",
+        "pointsFor": "1663",
+        "pointsAgainst": "1483"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "4",
+        "losses": "8",
+        "ties": null,
+        "winPercent": ".333",
+        "gamesBehind": "7",
+        "pointsFor": "1348",
+        "pointsAgainst": "1398"
+      }
+    },
+    "h2h": null
+  },
+  {
+    "home": "Memphis Grizzlies",
+    "away": "Golden State Warriors",
+    "date": "2026-11-20T01:00:00.000Z",
+    "league": "NBA",
+    "sport": "basketball",
+    "espnSport": "basketball",
+    "gameId": "401910019",
+    "injuries": {
+      "home": [
+        {
+          "name": "GG Jackson",
+          "status": "Out",
+          "detail": "Surgery"
+        },
+        {
+          "name": "Isaiah Stewart",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Ty Jerome",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Scotty Pippen Jr.",
+          "status": "Out",
+          "detail": "Soreness"
+        },
+        {
+          "name": "Richie Saunders",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ],
+      "away": [
+        {
+          "name": "Al Horford",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
+          "name": "Stephen Curry",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Brandon Williams",
+          "status": "Out",
+          "detail": "Not Specified"
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "status": "Out",
+          "detail": ""
+        },
+        {
+          "name": "Moses Moody",
+          "status": "Out",
+          "detail": "Surgery"
+        }
+      ]
+    },
+    "standings": {
+      "home": {
+        "rank": "5",
+        "wins": "10",
+        "losses": "4",
+        "ties": null,
+        "winPercent": ".714",
+        "gamesBehind": "2",
+        "pointsFor": "1704",
+        "pointsAgainst": "1572"
+      },
+      "away": {
+        "rank": "9",
+        "wins": "8",
+        "losses": "6",
+        "ties": null,
+        "winPercent": ".571",
+        "gamesBehind": "4",
+        "pointsFor": "1611",
+        "pointsAgainst": "1576"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "MEM leads series 1-0",
+      "totalGames": 1,
+      "games": [
+        {
+          "date": "2026-10-24T02:00:00Z",
+          "home": "Golden State Warriors",
+          "away": "Memphis Grizzlies",
+          "homeScore": 108,
+          "awayScore": 111,
+          "isCompleted": true
+        }
+      ]
+    }
+  }
+]

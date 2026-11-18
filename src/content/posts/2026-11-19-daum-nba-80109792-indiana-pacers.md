@@ -1,0 +1,37 @@
+---
+title: "인디애나 페이서스 vs 휴스턴 로키츠 농구분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T00:00:00.000Z
+description: "인디애나 페이서스 vs 휴스턴 로키츠 농구분석: 인디애나 페이서스는 홈 코트의 이점과 최근 보여준 집중력을 바탕으로 반등을 노리지만, 객관적인 전력과 공수 밸런스에서는 다소 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109792-2026-11-19-indiana-pacers"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "인디애나 페이서스"
+awayTeam: "휴스턴 로키츠"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/11_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/10_300300.png"
+homeAnalysis: "인디애나 페이서스는 앞선 12경기에서 6승 6패로 승률 50%를 기록했고, 기복 있는 흐름 속에서도 홈 경기 중심의 반등을 노리고 있습니다. 현재 리그순위 10위에 머물러 있지만 최근 일정에서는 뉴욕 닉스와 워싱턴 위저즈를 차례로 제압하며 저력을 보여주었습니다. 평균 득점 107.2점을 기록 중인 공격력은 때때로 폭발력을 발휘하지만, 수비 라인의 안정감을 더 높여야 하는 과제를 안고 있습니다. 핵심 자원들의 부상 공백 속에서도 가용 자원을 활용해 끈질긴 경기를 펼치는 점이 인상적입니다. 홈 코트의 이점을 살려 전력을 다진다면 이번 경기에서도 충분히 경쟁력 있는 모습을 보여줄 것으로 기대됩니다."
+awayAnalysis: "휴스턴 로키츠는 앞선 17경기에서 12승 5패로 승률 71%를 기록했고, 상승세를 타며 가파른 상위권 도약을 이어가고 있습니다. 현재 리그순위 3위에 자리하며 공수 양면에서 탄탄한 조직력을 과시하고 있습니다. 최근 10경기 평균 득점이 115.9점에 달할 만큼 막강한 화력을 뿜어내며 상대 수비를 흔들고 있습니다. 직전 경기에서 아쉽게 패하며 흐름이 한 차례 끊겼지만, 전반적인 전력과 기세는 여전히 높은 수준을 유지하고 있습니다. 원정 경기에서도 주눅 들지 않고 공격적인 운영을 펼치는 점이 이번 경기를 앞두고 가장 큰 무기로 작용합니다."
+homePower: "홈 경기 중심의 득점 집중력은 안정적인 편임|현재 리그순위 10위의 한계를 극복할 조직력 필요함|핵심 자원 부상 공백 속 로테이션 운영이 변수로 작용함|안방에서의 승수 쌓기로 흐름 반등을 이뤄낸 경험 있음|공수 균형을 맞추는 세부 전술 보완이 시급해 보임"
+awayPower: "최근 10경기 평균 득점 115.9점으로 화력 매우 강력함|리그순위 3위에 걸맞은 공수 밸런스와 안정감 유지 중임|원정 일정에서도 공격적인 주도권을 쥐는 능력이 돋보임|다득점 생산 능력을 바탕으로 상대를 압박하는 패턴 보임|주요 전력 누수가 있어도 두터운 선수층으로 극복함"
+h2h: '[]'
+summary: "인디애나 페이서스는 홈 코트의 이점과 최근 보여준 집중력을 바탕으로 반등을 노리지만, 객관적인 전력과 공수 밸런스에서는 다소 아쉬움을 남기고 있습니다. 반면 휴스턴 로키츠는 현재 리그순위 3위에 위치한 만큼 최근 10경기 평균 득점이 115.9점에 달하는 폭발적인 화력과 안정적인 경기 운영 능력을 동시에 증명하고 있습니다. 양 팀의 최근 흐름과 전력 차이를 종합해 볼 때, 공수 양면에서 우위를 점하고 있는 휴스턴 로키츠가 이번 대결에서 주도권을 잡고 우세를 가져갈 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.16","home":"필라델피아 76ers","away":"인디애나 페이서스","score":"131-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109769-2026-11-16-philadelphia-76ers/"},{"date":"26.11.14","home":"인디애나 페이서스","away":"뉴욕 닉스","score":"106-104","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109755-2026-11-14-indiana-pacers/"},{"date":"26.11.12","home":"인디애나 페이서스","away":"워싱턴 위저즈","score":"114-101","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109741-2026-11-12-indiana-pacers/"},{"date":"26.11.03","home":"인디애나 페이서스","away":"애틀랜타 호크스","score":"104-108","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110211-2026-11-03-indiana-pacers/"},{"date":"26.10.26","home":"브루클린 네츠","away":"인디애나 페이서스","score":"109-136","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102517-2026-10-26-brooklyn-nets/"}]'
+awayRecent: '[{"date":"26.11.17","home":"마이애미 히트","away":"휴스턴 로키츠","score":"128-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109781-2026-11-17-miami-heat/"},{"date":"26.11.16","home":"워싱턴 위저즈","away":"휴스턴 로키츠","score":"119-147","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109775-2026-11-16-washington-wizards/"},{"date":"26.11.14","home":"휴스턴 로키츠","away":"유타 재즈","score":"125-118","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109760-2026-11-14-houston-rockets/"},{"date":"26.11.12","home":"휴스턴 로키츠","away":"골든스테이트 워리어스","score":"115-108","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109749-2026-11-12-houston-rockets/"},{"date":"26.11.03","home":"휴스턴 로키츠","away":"보스턴 셀틱스","score":"109-93","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110210-2026-11-03-houston-rockets/"}]'
+injuryHome: "T.J. McConnell (경미) | Andrew Nembhard (경미) | Tyrese Haliburton (주요) | Johnny Furphy (주요) | Ben Sheppard (주요)"
+injuryAway: "Clint Capela (주요) | Amen Thompson (경미) | Julian Phillips (경미)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "휴스턴 로키츠"
+pickWinResult: "승"
+pickHandicapTeam: "휴스턴 로키츠"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "언더"
+---

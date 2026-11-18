@@ -1,0 +1,37 @@
+---
+title: "새크라멘토 킹스 vs 피닉스 선즈 농구분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T03:00:00.000Z
+description: "새크라멘토 킹스 vs 피닉스 선즈 농구분석: 두 팀의 객관적인 전력과 최근 경기 흐름을 살펴보면 피닉스 선즈가 좀 더 안정적인 공수 균형을 바탕으로 우위를 점할 가능성이 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109802-2026-11-19-sacramento-kings"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "새크라멘토 킹스"
+awayTeam: "피닉스 선즈"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/23_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/21_300300.png"
+homeAnalysis: "새크라멘토 킹스는 앞선 14경기에서 6승 8패로 승률 43%를 기록했고, 최근 다소 흔들리는 흐름을 보이고 있습니다. 현재 리그순위 14위로 1승 12패를 기록 중인 전체적인 지표와 맞물려 공수 양면에서 안정감을 찾는 것이 시급한 상황입니다. 득실 마진이 -175.0에 달할 정도로 수비 불안과 실점 관리에서 약점을 드러내고 있습니다. 전력의 핵심인 벤 스몬스와 막심 레노의 부상 공백까지 겹치면서 로테이션 운영에 큰 어려움을 겪고 있습니다. 홈 경기에서도 반등의 계기를 마련하지 못하고 무너지는 경기가 반복되고 있어 분위기 반전이 절실합니다."
+awayAnalysis: "피닉스 선즈는 앞선 13경기에서 6승 7패로 승률 46%를... 기록하며 팽팽한 승패 마진 속에서 균형을 맞추고 있습니다. 현재 리그순위 11위로 6승 7패를 기록 중인 만큼 중위권 도약을 위한 중요한 갈림길에 서 있습니다. 득실 마진 -44.0으로 새크라멘토 킹스에 비해 상대적으로 견고한 공수 균형을 유지하고 있습니다. 최근 치른 덴버 너기츠전 승리를 포함해 고비를 넘기는 집중력을 발휘하며 저력을 보여주고 있습니다. 주전 센터 마크 윌리엄스의 부상 공백이 존재하지만, 전체적인 전력 유지력과 경기 운영 능력에서 우위를 점하고 있습니다."
+homePower: "핵심 자원 이탈로 인한 로테이션 약화|수비 불안정으로 인한 대량 실점 반복|현재 리그순위 14위의 하위권 정체|홈 경기 집중력 저하와 기복 심화|득실 마진 적자로 인한 공수 불균형"
+awayPower: "중위권 도약을 위한 고비 마주함|안정적인 득점 생산력으로 우위 점함|접전 상황에서의 뛰어난 집중력 발휘|원정 경기에서의 탄탄한 경기 운영력|견고한 공수 밸런스로 주도권 장악"
+h2h: '[]'
+summary: "두 팀의 객관적인 전력과 최근 경기 흐름을 살펴보면 피닉스 선즈가 좀 더 안정적인 공수 균형을 바탕으로 우위를 점할 가능성이 높습니다. 새크라멘토 킹스는 현재 리그순위 14위의 부진한 흐름 속에서 다수의 부상 이탈까지 겹쳐 수비 안정감을 찾는 데 어려움을 겪고 있습니다. 반면 피닉스 선즈는 득실 마진 관리와 접전 상황에서의 집중력 면에서 앞서 있으며, 팽팽한 흐름 속에서도 승리를 챙기는 저력을 보여주고 있습니다. 따라서 이번 경기는 원정팀의 전력 우세와 경기 운영 능력이 빛을 발하며 흐름을 주도할 것으로 예상됩니다."
+homeRecent: '[{"date":"26.11.16","home":"새크라멘토 킹스","away":"오클라호마시티 썬더","score":"103-125","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109777-2026-11-16-sacramento-kings/"},{"date":"26.11.14","home":"새크라멘토 킹스","away":"포틀랜드 트레일블레이저스","score":"107-120","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109762-2026-11-14-sacramento-kings/"},{"date":"26.11.03","home":"댈러스 매버릭스","away":"새크라멘토 킹스","score":"100-115","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110206-2026-11-03-dallas-mavericks/"},{"date":"26.10.26","home":"새크라멘토 킹스","away":"멤피스 그리즐리","score":"112-123","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102523-2026-10-26-sacramento-kings/"},{"date":"26.10.24","home":"새크라멘토 킹스","away":"포틀랜드 트레일블레이저스","score":"120-128","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102323-2026-10-24-sacramento-kings/"}]'
+awayRecent: '[{"date":"26.11.17","home":"덴버 너기츠","away":"피닉스 선즈","score":"105-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109785-2026-11-17-denver-nuggets/"},{"date":"26.11.16","home":"피닉스 선즈","away":"LA 레이커스","score":"123-131","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109770-2026-11-16-phoenix-suns/"},{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네츠","score":"101-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109754-2026-11-13-phoenix-suns/"},{"date":"26.11.03","home":"골든스테이트 워리어스","away":"피닉스 선즈","score":"116-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110209-2026-11-03-golden-state-warriors/"},{"date":"26.10.25","home":"피닉스 선즈","away":"골든스테이트 워리어스","score":"131-122","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102421-2026-10-25-phoenix-suns/"}]'
+injuryHome: "De'Andre Hunter (경미)|Precious Achiuwa (경미)|Maxime Raynaud (주요)|Ben Simmons (주요)"
+injuryAway: "Mark Williams (주요)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "피닉스 선즈"
+pickWinResult: "승"
+pickHandicapTeam: "피닉스 선즈"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "210.5"
+pickOuDirection: "오버"
+---
