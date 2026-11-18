@@ -1,0 +1,37 @@
+---
+title: "뉴저지 데블스 vs 몬트리올 캐네이디언스 하키분석·승부예측 (11월 19일) - 픽천국"
+date: 2026-11-19T00:30:00.000Z
+description: "뉴저지 데블스 vs 몬트리올 캐네이디언스 하키분석: 리그순위 3위인 뉴저지 데블스는 최근 10경기에서 8할의 승률을 기록하며 리그 내 가장 뜨거운 화력을 뽐내고 있습니다. 반면 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378646426-2026-11-19-new-jersey-devils"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "뉴저지 데블스"
+awayTeam: "몬트리올 캐네이디언스"
+homeLogo: "https://highlightly.net/hockey/images/teams/587974.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/586272.png"
+homeAnalysis: "뉴저지 데블스는 앞선 25경기에서 18승 7패로 승률 72%를 기록했고 압도적인 공격력을 바탕으로 고공행진을 이어가고 있습니다. 현재 리그순위 3위에 올라 상위권 경쟁에서 우위를 점하고 있으며 최근 10경기에서 8승 2패라는 놀라운 성적을 거두었습니다. 특히 직전 경기에서 7득점을 몰아치는 등 최근 10경기 평균 득점이 4.4점에 달할 정도로 화력이 매우 뜨겁습니다. Anthony Mantha와 Seamus Casey 등 일부 전력이 이탈해 있지만 탄탄한 득실 차가 증명하듯 공수 균형이 매우 안정적입니다. 홈에서도 꾸준한 득점 생산 능력을 보여주고 있어 이번 경기 역시 주도권을 잡을 것으로 보입니다."
+awayAnalysis: "몬트리올 캐네이디언스는 앞선 39경기에서 20승 19패로 승률 51%를 기록하며 중위권에서 치열한 순위 싸움을 벌이고 있습니다. 현재 리그순위 5위에 위치하고 있으나 최근 연패에 빠지며 고점 대비 주춤한 흐름을 보이고 있는 점이 아쉽습니다. 최근 10경기 평균 득점은 3.3점으로 준수하지만 수비에서 집중력이 흔들리며 실점이 늘어나는 경향이 나타나고 있습니다. Mike Matheson과 Josh Anderson을 포함해 다수의 주요 전력이 부상으로 이탈한 상황이라 전력 구성에 상당한 어려움이 예상됩니다. 강팀을 상대로 원정길에 오르는 만큼 수비 조직력을 얼마나 빠르게 재정비하느냐가 승부의 관건이 될 것으로 보입니다."
+homePower: "최근 10경기 8승으로 리그 최상위권의 압도적 기세임|최근 2경기 12득점 퍼부은 폭발적인 화력이 강점임|평균 4.4득점의 강력한 공격 루트가 전방위적으로 가동됨|안정적인 득실 관리를 통한 경기 후반 운영 능력 돋보임|홈 이점과 더불어 상위권 자리를 굳히려는 동기부여 확실함"
+awayPower: "최근 연패에 따른 분위기 반전과 수비 집중력 회복이 시급함|주요 자원 대거 이탈로 인한 라인업 공백 극복이 과제임|리그순위 5위권 유지를 위한 원정에서의 끈질긴 저력 필요함|득점력은 일정 수준 유지 중이나 수비 효율 개선이 요구됨|강팀과의 매치업에서 역습을 통한 의외의 변수 창출 노려야 함"
+h2h: '[]'
+summary: "리그순위 3위인 뉴저지 데블스는 최근 10경기에서 8할의 승률을 기록하며 리그 내 가장 뜨거운 화력을 뽐내고 있습니다. 반면 몬트리올 캐네이디언스는 전력 누수가 발생한 가운데 최근 2연패를 당하며 공수 균형이 다소 무너진 모습을 보이고 있습니다. 객관적인 득점 생산력과 최근 전력 면에서 앞선 홈팀이 경기를 유리하게 풀어가며 승리에 가까워질 가능성이 매우 높습니다."
+homeRecent: '[{"date":"26.11.15","home":"워싱턴 캐피털스","away":"뉴저지 데블스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620896-2026-11-15-washington-capitals/"},{"date":"26.11.13","home":"뉴저지 데블스","away":"워싱턴 캐피털스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378610684-2026-11-13-new-jersey-devils/"},{"date":"26.11.11","home":"위니펙 제츠","away":"뉴저지 데블스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378600472-2026-11-11-winnipeg-jets/"},{"date":"26.11.09","home":"토론토 메이플 리프스","away":"뉴저지 데블스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378591111-2026-11-09-toronto-maple-leafs/"},{"date":"26.11.08","home":"뉴욕 아일런더스","away":"뉴저지 데블스","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378580899-2026-11-08-new-york-islanders/"}]'
+awayRecent: '[{"date":"26.11.17","home":"뉴욕 레인저스","away":"몬트리올 캐네이디언스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378634512-2026-11-17-new-york-rangers/"},{"date":"26.11.15","home":"몬트리올 캐네이디언스","away":"콜로라도 애벌랜치","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378624300-2026-11-15-montreal-canadiens/"},{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트리올 캐네이디언스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608131-2026-11-13-boston-bruins/"},{"date":"26.11.11","home":"몬트리올 캐네이디언스","away":"미네소타 와일드","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597919-2026-11-11-montreal-canadiens/"},{"date":"26.11.08","home":"토론토 메이플 리프스","away":"몬트리올 캐네이디언스","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378582601-2026-11-08-toronto-maple-leafs/"}]'
+injuryHome: "Anthony Mantha (부상자 명단)|Johnathan Kovacevic (부상자 명단 - 명시되지 않음)|Seamus Casey (부상자 명단)"
+injuryAway: "Alexandre Texier (일일 부상 명단)|Mike Matheson (결장)|Josh Anderson (부상자 명단)|Chris Kreider (부상자 명단)|Ivan Demidov (부상자 명단 - 골절)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴저지 데블스"
+pickWinResult: "승"
+pickHandicapTeam: "뉴저지 데블스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "5"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---
