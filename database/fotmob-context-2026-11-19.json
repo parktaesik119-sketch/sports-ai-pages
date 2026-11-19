@@ -179,11 +179,6 @@
     "injuries": {
       "home": [
         {
-          "name": "Neco Williams",
-          "status": "다리 부상",
-          "detail": "Doubtful"
-        },
-        {
           "name": "Ethan Ampadu",
           "status": "부상",
           "detail": "Mid November 2026"
@@ -196,11 +191,6 @@
           "detail": "Mid November 2026"
         },
         {
-          "name": "Nuno Tavares",
-          "status": "근육 부상",
-          "detail": "Early December 2026"
-        },
-        {
           "name": "Rúben Dias",
           "status": "부상",
           "detail": "Mid November 2026"
@@ -209,11 +199,6 @@
           "name": "João Palhinha",
           "status": "부상",
           "detail": "Mid November 2026"
-        },
-        {
-          "name": "Rafael Leão",
-          "status": "햄스트링 부상",
-          "detail": "Late November 2026"
         }
       ]
     },
@@ -7761,7 +7746,7 @@
         "Giacomo Quagliata (DF)|https://images.fotmob.com/image_resources/playerimages/1077977.png",
         "Mario Soriano (MF)|https://images.fotmob.com/image_resources/playerimages/1050828.png",
         "Lorenzo Amatucci (MF)|https://images.fotmob.com/image_resources/playerimages/1425989.png",
-        "David Mella (FW)|https://images.fotmob.com/image_resources/playerimages/1368655.png",
+        "David Mella (MF)|https://images.fotmob.com/image_resources/playerimages/1368655.png",
         "Luismi Cruz (MF)|https://images.fotmob.com/image_resources/playerimages/1204447.png",
         "Yeremay Hernández (FW)|https://images.fotmob.com/image_resources/playerimages/1319204.png",
         "Bil Nsongo (FW)|https://images.fotmob.com/image_resources/playerimages/1690831.png"
@@ -7999,7 +7984,7 @@
         "Zé Pedro (DF)|https://images.fotmob.com/image_resources/playerimages/957107.png",
         "Raphael Kofler (DF)|https://images.fotmob.com/image_resources/playerimages/1396084.png",
         "Juan Rodríguez (DF)|https://images.fotmob.com/image_resources/playerimages/1621219.png",
-        "Nicola Grandu (MF)|https://images.fotmob.com/image_resources/playerimages/1817272.png",
+        "Nicola Grandu (DF)|https://images.fotmob.com/image_resources/playerimages/1817272.png",
         "Michel Ndary Adopo (MF)|https://images.fotmob.com/image_resources/playerimages/936164.png",
         "Alessandro Romano (MF)|https://images.fotmob.com/image_resources/playerimages/1705649.png",
         "Alessandro Deiola (MF)|https://images.fotmob.com/image_resources/playerimages/449283.png",
@@ -10516,6 +10501,16 @@
       ],
       "away": [
         {
+          "name": "Carney Chukwuemeka",
+          "status": "근육 부상",
+          "detail": "A few weeks"
+        },
+        {
+          "name": "Waldemar Anton",
+          "status": "근육 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Serhou Guirassy",
           "status": "부상",
           "detail": "Doubtful"
@@ -11267,6 +11262,11 @@
         }
       ],
       "away": [
+        {
+          "name": "Berkay Yılmaz",
+          "status": "부상",
+          "detail": "Late November 2026"
+        },
         {
           "name": "Florent Muslija",
           "status": "십자 인대 부상",
@@ -12855,11 +12855,11 @@
         "Abdelrahman Rakan (DF)|https://images.fotmob.com/image_resources/playerimages/964950.png",
         "Abdulla Saleh (DF)|https://images.fotmob.com/image_resources/playerimages/618226.png",
         "Ahmed Sulaiman (DF)|https://images.fotmob.com/image_resources/playerimages/1094724.png",
-        "Mohammad Juma (MF)|https://images.fotmob.com/image_resources/playerimages/628504.png",
+        "Abdulla Abdelaziz (MF)|https://images.fotmob.com/image_resources/playerimages/1289401.png",
         "Anas Mittache (MF)|https://images.fotmob.com/image_resources/playerimages/1528821.png",
         "Victor Hugo (MF)|https://images.fotmob.com/image_resources/playerimages/1474593.png",
-        "Lithierry (MF)|https://images.fotmob.com/image_resources/playerimages/1291309.png",
-        "Abdulla Abdelaziz (FW)|https://images.fotmob.com/image_resources/playerimages/1289401.png",
+        "Mohammad Juma (MF)|https://images.fotmob.com/image_resources/playerimages/628504.png",
+        "Lithierry (FW)|https://images.fotmob.com/image_resources/playerimages/1291309.png",
         "Walid Azarou (FW)|https://images.fotmob.com/image_resources/playerimages/851198.png"
       ]
     },

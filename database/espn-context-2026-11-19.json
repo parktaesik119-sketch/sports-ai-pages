@@ -444,6 +444,88 @@
     }
   },
   {
+    "home": "Boston River",
+    "away": "Deportivo Maldonado",
+    "date": "2026-11-19T19:30:00.000Z",
+    "league": "Liga AUF Uruguaya Clausura",
+    "sport": "soccer",
+    "espnSport": "soccer_uruguay",
+    "gameId": "401934704",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "11",
+        "wins": "4",
+        "losses": "7",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "15",
+        "pointsAgainst": "18"
+      },
+      "away": {
+        "rank": "5",
+        "wins": "6",
+        "losses": "4",
+        "ties": "4",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "18",
+        "pointsAgainst": "11"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "BOS leads series 3-2",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-11T20:00:00Z",
+          "home": "Deportivo Maldonado",
+          "away": "Boston River",
+          "homeScore": 2,
+          "awayScore": 1,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-08-17T22:30:00Z",
+          "home": "Boston River",
+          "away": "Deportivo Maldonado",
+          "homeScore": 1,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-02-18T00:30:00Z",
+          "home": "Deportivo Maldonado",
+          "away": "Boston River",
+          "homeScore": 1,
+          "awayScore": 2,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-10-08T18:30:00Z",
+          "home": "Boston River",
+          "away": "Deportivo Maldonado",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2023-02-26T20:00:00Z",
+          "home": "Deportivo Maldonado",
+          "away": "Boston River",
+          "homeScore": 3,
+          "awayScore": 2,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
     "home": "Manchester City",
     "away": "Fulham",
     "date": "2026-11-21T12:30:00.000Z",
@@ -930,6 +1012,88 @@
           "away": "Holstein Kiel",
           "homeScore": 3,
           "awayScore": 1,
+          "isCompleted": true
+        }
+      ]
+    }
+  },
+  {
+    "home": "Cerro",
+    "away": "Nacional",
+    "date": "2026-11-20T19:30:00.000Z",
+    "league": "Liga AUF Uruguaya Clausura",
+    "sport": "soccer",
+    "espnSport": "soccer_uruguay",
+    "gameId": "401934702",
+    "injuries": {
+      "home": [],
+      "away": []
+    },
+    "standings": {
+      "home": {
+        "rank": "6",
+        "wins": "6",
+        "losses": "5",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "16",
+        "pointsAgainst": "19"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "8",
+        "losses": "3",
+        "ties": "3",
+        "winPercent": null,
+        "gamesBehind": null,
+        "pointsFor": "20",
+        "pointsAgainst": "14"
+      }
+    },
+    "h2h": {
+      "source": "seasonseries",
+      "text": "NAC leads series 3-1-1",
+      "totalGames": 5,
+      "games": [
+        {
+          "date": "2026-05-10T22:30:00Z",
+          "home": "Nacional",
+          "away": "Cerro",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-11-01T22:00:00Z",
+          "home": "Cerro",
+          "away": "Nacional",
+          "homeScore": 0,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2025-05-03T20:30:00Z",
+          "home": "Nacional",
+          "away": "Cerro",
+          "homeScore": 4,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-11-02T22:00:00Z",
+          "home": "Nacional",
+          "away": "Cerro",
+          "homeScore": 2,
+          "awayScore": 0,
+          "isCompleted": true
+        },
+        {
+          "date": "2024-06-09T21:00:00Z",
+          "home": "Cerro",
+          "away": "Nacional",
+          "homeScore": 3,
+          "awayScore": 0,
           "isCompleted": true
         }
       ]
@@ -1437,7 +1601,7 @@
         "pointsAgainst": "65"
       },
       "away": {
-        "rank": "7",
+        "rank": "8",
         "wins": "11",
         "losses": "10",
         "ties": null,
@@ -1736,7 +1900,7 @@
         "pointsAgainst": "74"
       },
       "away": {
-        "rank": "4",
+        "rank": "3",
         "wins": "14",
         "losses": "6",
         "ties": null,
@@ -1916,13 +2080,13 @@
     "standings": {
       "home": {
         "rank": "6",
-        "wins": "13",
+        "wins": "14",
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
-        "pointsFor": "72",
-        "pointsAgainst": "55"
+        "gamesBehind": "5",
+        "pointsFor": "76",
+        "pointsAgainst": "56"
       },
       "away": {
         "rank": "14",
@@ -2061,7 +2225,7 @@
       ],
       "away": [
         {
-          "name": "Scott Wedgewood",
+          "name": "Gavin Brindley",
           "status": "Day-To-Day",
           "detail": ""
         },
@@ -2089,24 +2253,24 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
-        "wins": "10",
+        "rank": "7",
+        "wins": "11",
         "losses": "9",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "14",
-        "pointsFor": "73",
-        "pointsAgainst": "78"
+        "gamesBehind": "12",
+        "pointsFor": "77",
+        "pointsAgainst": "79"
       },
       "away": {
         "rank": "5",
         "wins": "12",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "10",
-        "pointsFor": "85",
-        "pointsAgainst": "64"
+        "pointsFor": "86",
+        "pointsAgainst": "68"
       }
     },
     "h2h": null
@@ -2139,6 +2303,11 @@
       ],
       "away": [
         {
+          "name": "Zack Bolduc",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Mike Matheson",
           "status": "Out",
           "detail": ""
@@ -2157,34 +2326,29 @@
           "name": "Ivan Demidov",
           "status": "Injured Reserve",
           "detail": "Fracture"
-        },
-        {
-          "name": "Sam Montembeault",
-          "status": "Injured Reserve",
-          "detail": ""
         }
       ]
     },
     "standings": {
       "home": {
-        "rank": "3",
+        "rank": "4",
         "wins": "15",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "4",
-        "pointsFor": "80",
-        "pointsAgainst": "61"
+        "pointsFor": "82",
+        "pointsAgainst": "64"
       },
       "away": {
         "rank": "5",
-        "wins": "12",
+        "wins": "13",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "69",
-        "pointsAgainst": "64"
+        "gamesBehind": "4",
+        "pointsFor": "72",
+        "pointsAgainst": "66"
       }
     },
     "h2h": null
@@ -2232,22 +2396,22 @@
       "home": {
         "rank": "13",
         "wins": "8",
-        "losses": "10",
+        "losses": "11",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "15",
-        "pointsFor": "57",
-        "pointsAgainst": "64"
+        "pointsFor": "58",
+        "pointsAgainst": "68"
       },
       "away": {
         "rank": "6",
-        "wins": "13",
+        "wins": "14",
         "losses": "7",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "7",
-        "pointsFor": "72",
-        "pointsAgainst": "55"
+        "gamesBehind": "5",
+        "pointsFor": "76",
+        "pointsAgainst": "56"
       }
     },
     "h2h": null
@@ -2341,7 +2505,7 @@
     "injuries": {
       "home": [
         {
-          "name": "Scott Wedgewood",
+          "name": "Gavin Brindley",
           "status": "Day-To-Day",
           "detail": ""
         },
@@ -2388,15 +2552,15 @@
       "home": {
         "rank": "5",
         "wins": "12",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
         "winPercent": null,
         "gamesBehind": "10",
-        "pointsFor": "85",
-        "pointsAgainst": "64"
+        "pointsFor": "86",
+        "pointsAgainst": "68"
       },
       "away": {
-        "rank": "7",
+        "rank": "8",
         "wins": "11",
         "losses": "10",
         "ties": null,
@@ -2963,7 +3127,7 @@
     },
     "standings": {
       "home": {
-        "rank": "4",
+        "rank": "3",
         "wins": "14",
         "losses": "6",
         "ties": null,
@@ -3019,6 +3183,11 @@
       "home": [],
       "away": [
         {
+          "name": "Zack Bolduc",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Mike Matheson",
           "status": "Out",
           "detail": ""
@@ -3037,11 +3206,6 @@
           "name": "Ivan Demidov",
           "status": "Injured Reserve",
           "detail": "Fracture"
-        },
-        {
-          "name": "Sam Montembeault",
-          "status": "Injured Reserve",
-          "detail": ""
         }
       ]
     },
@@ -3058,13 +3222,13 @@
       },
       "away": {
         "rank": "5",
-        "wins": "12",
+        "wins": "13",
         "losses": "5",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "6",
-        "pointsFor": "69",
-        "pointsAgainst": "64"
+        "gamesBehind": "4",
+        "pointsFor": "72",
+        "pointsAgainst": "66"
       }
     },
     "h2h": {
@@ -3094,6 +3258,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Collin Murray-Boyles",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "RJ Barrett",
           "status": "Out",
           "detail": "Soreness"
@@ -3120,12 +3289,12 @@
       "home": {
         "rank": "9",
         "wins": "5",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
-        "winPercent": ".357",
-        "gamesBehind": "6.5",
-        "pointsFor": "1581",
-        "pointsAgainst": "1577"
+        "winPercent": ".333",
+        "gamesBehind": "7.5",
+        "pointsFor": "1680",
+        "pointsAgainst": "1680"
       },
       "away": {
         "rank": "6",
@@ -3133,7 +3302,7 @@
         "losses": "6",
         "ties": null,
         "winPercent": ".571",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "1540",
         "pointsAgainst": "1454"
       }
@@ -3220,12 +3389,12 @@
     },
     "standings": {
       "home": {
-        "rank": "3",
+        "rank": "4",
         "wins": "11",
         "losses": "4",
         "ties": null,
         "winPercent": ".733",
-        "gamesBehind": "2",
+        "gamesBehind": "1.5",
         "pointsFor": "1750",
         "pointsAgainst": "1591"
       },
@@ -3235,7 +3404,7 @@
         "losses": "5",
         "ties": null,
         "winPercent": ".643",
-        "gamesBehind": "3.5",
+        "gamesBehind": "3",
         "pointsFor": "1638",
         "pointsAgainst": "1554"
       }
@@ -3317,19 +3486,19 @@
         "losses": "3",
         "ties": null,
         "winPercent": ".800",
-        "gamesBehind": "1",
+        "gamesBehind": "0.5",
         "pointsFor": "1756",
         "pointsAgainst": "1588"
       },
       "away": {
         "rank": "3",
-        "wins": "9",
+        "wins": "10",
         "losses": "4",
         "ties": null,
-        "winPercent": ".692",
+        "winPercent": ".714",
         "gamesBehind": "2",
-        "pointsFor": "1493",
-        "pointsAgainst": "1416"
+        "pointsFor": "1615",
+        "pointsAgainst": "1525"
       }
     },
     "h2h": null
@@ -3362,11 +3531,6 @@
       ],
       "away": [
         {
-          "name": "Jaxson Hayes",
-          "status": "Day-To-Day",
-          "detail": "Strain"
-        },
-        {
           "name": "Lauri Markkanen",
           "status": "Out",
           "detail": "Fracture"
@@ -3390,19 +3554,19 @@
         "losses": "9",
         "ties": null,
         "winPercent": ".308",
-        "gamesBehind": "8",
+        "gamesBehind": "7.5",
         "pointsFor": "1455",
         "pointsAgainst": "1530"
       },
       "away": {
         "rank": "14",
-        "wins": "2",
+        "wins": "3",
         "losses": "13",
         "ties": null,
-        "winPercent": ".133",
-        "gamesBehind": "11",
-        "pointsFor": "1631",
-        "pointsAgainst": "1759"
+        "winPercent": ".188",
+        "gamesBehind": "10",
+        "pointsFor": "1740",
+        "pointsAgainst": "1856"
       }
     },
     "h2h": null
@@ -3445,20 +3609,20 @@
       "home": {
         "rank": "1",
         "wins": "13",
-        "losses": "2",
+        "losses": "3",
         "ties": null,
-        "winPercent": ".867",
+        "winPercent": ".813",
         "gamesBehind": "-",
-        "pointsFor": "1837",
-        "pointsAgainst": "1722"
+        "pointsFor": "1934",
+        "pointsAgainst": "1831"
       },
       "away": {
-        "rank": "11",
+        "rank": "12",
         "wins": "4",
         "losses": "10",
         "ties": null,
         "winPercent": ".286",
-        "gamesBehind": "7.5",
+        "gamesBehind": "8",
         "pointsFor": "1402",
         "pointsAgainst": "1546"
       }
@@ -3528,22 +3692,22 @@
       "home": {
         "rank": "7",
         "wins": "8",
-        "losses": "7",
+        "losses": "8",
         "ties": null,
-        "winPercent": ".533",
-        "gamesBehind": "4",
-        "pointsFor": "1771",
-        "pointsAgainst": "1737"
+        "winPercent": ".500",
+        "gamesBehind": "5",
+        "pointsFor": "1892",
+        "pointsAgainst": "1861"
       },
       "away": {
         "rank": "5",
-        "wins": "10",
+        "wins": "11",
         "losses": "4",
         "ties": null,
-        "winPercent": ".714",
-        "gamesBehind": "2.5",
-        "pointsFor": "1704",
-        "pointsAgainst": "1572"
+        "winPercent": ".733",
+        "gamesBehind": "1.5",
+        "pointsFor": "1828",
+        "pointsAgainst": "1693"
       }
     },
     "h2h": null
@@ -3558,6 +3722,11 @@
     "gameId": "401910008",
     "injuries": {
       "home": [
+        {
+          "name": "Braden Smith",
+          "status": "Day-To-Day",
+          "detail": "Sprain"
+        },
         {
           "name": "Andrew Nembhard",
           "status": "Out",
@@ -3596,22 +3765,22 @@
       "home": {
         "rank": "10",
         "wins": "5",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
-        "winPercent": ".357",
-        "gamesBehind": "6.5",
-        "pointsFor": "1569",
-        "pointsAgainst": "1603"
+        "winPercent": ".333",
+        "gamesBehind": "7.5",
+        "pointsFor": "1673",
+        "pointsAgainst": "1722"
       },
       "away": {
-        "rank": "4",
-        "wins": "11",
+        "rank": "3",
+        "wins": "12",
         "losses": "4",
         "ties": null,
-        "winPercent": ".733",
-        "gamesBehind": "2",
-        "pointsFor": "1767",
-        "pointsAgainst": "1643"
+        "winPercent": ".750",
+        "gamesBehind": "1",
+        "pointsFor": "1886",
+        "pointsAgainst": "1747"
       }
     },
     "h2h": null
@@ -3648,23 +3817,23 @@
     "standings": {
       "home": {
         "rank": "4",
-        "wins": "8",
+        "wins": "9",
         "losses": "6",
         "ties": null,
-        "winPercent": ".571",
+        "winPercent": ".600",
         "gamesBehind": "3.5",
-        "pointsFor": "1671",
-        "pointsAgainst": "1668"
+        "pointsFor": "1808",
+        "pointsAgainst": "1798"
       },
       "away": {
         "rank": "15",
         "wins": "1",
-        "losses": "13",
+        "losses": "14",
         "ties": null,
-        "winPercent": ".071",
-        "gamesBehind": "10.5",
-        "pointsFor": "1486",
-        "pointsAgainst": "1676"
+        "winPercent": ".067",
+        "gamesBehind": "11.5",
+        "pointsFor": "1616",
+        "pointsAgainst": "1813"
       }
     },
     "h2h": null
@@ -3732,22 +3901,22 @@
       "home": {
         "rank": "8",
         "wins": "6",
-        "losses": "7",
+        "losses": "8",
         "ties": null,
-        "winPercent": ".462",
-        "gamesBehind": "5",
-        "pointsFor": "1415",
-        "pointsAgainst": "1458"
+        "winPercent": ".429",
+        "gamesBehind": "6",
+        "pointsFor": "1531",
+        "pointsAgainst": "1579"
       },
       "away": {
         "rank": "1",
-        "wins": "12",
+        "wins": "13",
         "losses": "3",
         "ties": null,
-        "winPercent": ".800",
+        "winPercent": ".813",
         "gamesBehind": "-",
-        "pointsFor": "1711",
-        "pointsAgainst": "1669"
+        "pointsFor": "1832",
+        "pointsAgainst": "1785"
       }
     },
     "h2h": null
@@ -3777,24 +3946,24 @@
     },
     "standings": {
       "home": {
-        "rank": "13",
-        "wins": "3",
-        "losses": "10",
-        "ties": null,
-        "winPercent": ".231",
-        "gamesBehind": "8",
-        "pointsFor": "1445",
-        "pointsAgainst": "1532"
-      },
-      "away": {
         "rank": "14",
         "wins": "3",
+        "losses": "11",
+        "ties": null,
+        "winPercent": ".214",
+        "gamesBehind": "9",
+        "pointsFor": "1552",
+        "pointsAgainst": "1669"
+      },
+      "away": {
+        "rank": "13",
+        "wins": "4",
         "losses": "10",
         "ties": null,
-        "winPercent": ".231",
+        "winPercent": ".286",
         "gamesBehind": "8",
-        "pointsFor": "1490",
-        "pointsAgainst": "1637"
+        "pointsFor": "1627",
+        "pointsAgainst": "1744"
       }
     },
     "h2h": null
@@ -3809,6 +3978,11 @@
     "gameId": "401910012",
     "injuries": {
       "home": [
+        {
+          "name": "Collin Murray-Boyles",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
         {
           "name": "RJ Barrett",
           "status": "Out",
@@ -3862,27 +4036,27 @@
       "home": {
         "rank": "9",
         "wins": "5",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
-        "winPercent": ".357",
-        "gamesBehind": "6.5",
-        "pointsFor": "1581",
-        "pointsAgainst": "1577"
+        "winPercent": ".333",
+        "gamesBehind": "7.5",
+        "pointsFor": "1680",
+        "pointsAgainst": "1680"
       },
       "away": {
-        "rank": "12",
-        "wins": "4",
+        "rank": "11",
+        "wins": "5",
         "losses": "11",
         "ties": null,
-        "winPercent": ".267",
+        "winPercent": ".313",
         "gamesBehind": "8",
-        "pointsFor": "1669",
-        "pointsAgainst": "1788"
+        "pointsFor": "1772",
+        "pointsAgainst": "1887"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "TOR leads series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -3964,22 +4138,22 @@
       "home": {
         "rank": "12",
         "wins": "5",
-        "losses": "10",
+        "losses": "11",
         "ties": null,
-        "winPercent": ".333",
+        "winPercent": ".313",
         "gamesBehind": "8",
-        "pointsFor": "1737",
-        "pointsAgainst": "1843"
+        "pointsFor": "1846",
+        "pointsAgainst": "1965"
       },
       "away": {
         "rank": "3",
-        "wins": "9",
+        "wins": "10",
         "losses": "4",
         "ties": null,
-        "winPercent": ".692",
+        "winPercent": ".714",
         "gamesBehind": "2",
-        "pointsFor": "1493",
-        "pointsAgainst": "1416"
+        "pointsFor": "1615",
+        "pointsAgainst": "1525"
       }
     },
     "h2h": null
@@ -3994,6 +4168,11 @@
     "gameId": "401910014",
     "injuries": {
       "home": [
+        {
+          "name": "Alex Caruso",
+          "status": "Out",
+          "detail": "Soreness"
+        },
         {
           "name": "Thomas Sorber",
           "status": "Out",
@@ -4045,24 +4224,24 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
+        "rank": "8",
         "wins": "9",
-        "losses": "5",
+        "losses": "6",
         "ties": null,
-        "winPercent": ".643",
+        "winPercent": ".600",
         "gamesBehind": "3.5",
-        "pointsFor": "1570",
-        "pointsAgainst": "1499"
+        "pointsFor": "1682",
+        "pointsAgainst": "1616"
       },
       "away": {
         "rank": "5",
-        "wins": "8",
+        "wins": "9",
         "losses": "6",
         "ties": null,
-        "winPercent": ".571",
+        "winPercent": ".600",
         "gamesBehind": "3.5",
-        "pointsFor": "1649",
-        "pointsAgainst": "1625"
+        "pointsFor": "1766",
+        "pointsAgainst": "1737"
       }
     },
     "h2h": null
@@ -4128,24 +4307,24 @@
     },
     "standings": {
       "home": {
-        "rank": "10",
-        "wins": "7",
-        "losses": "7",
-        "ties": null,
-        "winPercent": ".500",
-        "gamesBehind": "5.5",
-        "pointsFor": "1569",
-        "pointsAgainst": "1604"
-      },
-      "away": {
         "rank": "9",
         "wins": "8",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
-        "winPercent": ".571",
+        "winPercent": ".533",
         "gamesBehind": "4.5",
-        "pointsFor": "1611",
-        "pointsAgainst": "1576"
+        "pointsFor": "1685",
+        "pointsAgainst": "1698"
+      },
+      "away": {
+        "rank": "10",
+        "wins": "8",
+        "losses": "7",
+        "ties": null,
+        "winPercent": ".533",
+        "gamesBehind": "4.5",
+        "pointsFor": "1705",
+        "pointsAgainst": "1692"
       }
     },
     "h2h": null
@@ -4170,24 +4349,24 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
-        "wins": "7",
+        "rank": "7",
+        "wins": "8",
         "losses": "5",
         "ties": null,
-        "winPercent": ".583",
-        "gamesBehind": "4.5",
-        "pointsFor": "1366",
-        "pointsAgainst": "1358"
+        "winPercent": ".615",
+        "gamesBehind": "3.5",
+        "pointsFor": "1471",
+        "pointsAgainst": "1459"
       },
       "away": {
         "rank": "2",
         "wins": "11",
-        "losses": "3",
+        "losses": "4",
         "ties": null,
-        "winPercent": ".786",
-        "gamesBehind": "0.5",
-        "pointsFor": "1607",
-        "pointsAgainst": "1446"
+        "winPercent": ".733",
+        "gamesBehind": "1.5",
+        "pointsFor": "1708",
+        "pointsAgainst": "1551"
       }
     },
     "h2h": null
@@ -4210,11 +4389,6 @@
       ],
       "away": [
         {
-          "name": "Jaxson Hayes",
-          "status": "Day-To-Day",
-          "detail": "Strain"
-        },
-        {
           "name": "Lauri Markkanen",
           "status": "Out",
           "detail": "Fracture"
@@ -4235,27 +4409,27 @@
       "home": {
         "rank": "1",
         "wins": "13",
-        "losses": "2",
+        "losses": "3",
         "ties": null,
-        "winPercent": ".867",
+        "winPercent": ".813",
         "gamesBehind": "-",
-        "pointsFor": "1837",
-        "pointsAgainst": "1722"
+        "pointsFor": "1934",
+        "pointsAgainst": "1831"
       },
       "away": {
         "rank": "14",
-        "wins": "2",
+        "wins": "3",
         "losses": "13",
         "ties": null,
-        "winPercent": ".133",
-        "gamesBehind": "11",
-        "pointsFor": "1631",
-        "pointsAgainst": "1759"
+        "winPercent": ".188",
+        "gamesBehind": "10",
+        "pointsFor": "1740",
+        "pointsAgainst": "1856"
       }
     },
     "h2h": {
       "source": "seasonseries",
-      "text": "LAL lead series 1-0",
+      "text": "Series tied 1-1",
       "totalGames": 1,
       "games": [
         {
@@ -4302,22 +4476,22 @@
       "home": {
         "rank": "15",
         "wins": "1",
-        "losses": "12",
+        "losses": "13",
         "ties": null,
-        "winPercent": ".077",
+        "winPercent": ".071",
         "gamesBehind": "11",
-        "pointsFor": "1401",
-        "pointsAgainst": "1576"
+        "pointsFor": "1508",
+        "pointsAgainst": "1704"
       },
       "away": {
         "rank": "11",
-        "wins": "6",
+        "wins": "7",
         "losses": "7",
         "ties": null,
-        "winPercent": ".462",
-        "gamesBehind": "6",
-        "pointsFor": "1469",
-        "pointsAgainst": "1513"
+        "winPercent": ".500",
+        "gamesBehind": "5",
+        "pointsFor": "1597",
+        "pointsAgainst": "1620"
       }
     },
     "h2h": null
@@ -4375,12 +4549,12 @@
       "home": {
         "rank": "15",
         "wins": "1",
-        "losses": "13",
+        "losses": "14",
         "ties": null,
-        "winPercent": ".071",
-        "gamesBehind": "10.5",
-        "pointsFor": "1486",
-        "pointsAgainst": "1676"
+        "winPercent": ".067",
+        "gamesBehind": "11.5",
+        "pointsFor": "1616",
+        "pointsAgainst": "1813"
       },
       "away": {
         "rank": "6",
@@ -4388,7 +4562,7 @@
         "losses": "5",
         "ties": null,
         "winPercent": ".643",
-        "gamesBehind": "3.5",
+        "gamesBehind": "3",
         "pointsFor": "1638",
         "pointsAgainst": "1554"
       }
@@ -4435,12 +4609,12 @@
     },
     "standings": {
       "home": {
-        "rank": "3",
+        "rank": "4",
         "wins": "11",
         "losses": "4",
         "ties": null,
         "winPercent": ".733",
-        "gamesBehind": "2",
+        "gamesBehind": "1.5",
         "pointsFor": "1750",
         "pointsAgainst": "1591"
       },
@@ -4450,7 +4624,7 @@
         "losses": "6",
         "ties": null,
         "winPercent": ".571",
-        "gamesBehind": "3.5",
+        "gamesBehind": "4",
         "pointsFor": "1540",
         "pointsAgainst": "1454"
       }
@@ -4508,7 +4682,7 @@
         "losses": "3",
         "ties": null,
         "winPercent": ".800",
-        "gamesBehind": "1",
+        "gamesBehind": "0.5",
         "pointsFor": "1756",
         "pointsAgainst": "1588"
       },
@@ -4518,7 +4692,7 @@
         "losses": "9",
         "ties": null,
         "winPercent": ".308",
-        "gamesBehind": "8",
+        "gamesBehind": "7.5",
         "pointsFor": "1455",
         "pointsAgainst": "1530"
       }
@@ -4592,23 +4766,23 @@
     "standings": {
       "home": {
         "rank": "5",
-        "wins": "10",
+        "wins": "11",
         "losses": "4",
         "ties": null,
-        "winPercent": ".714",
-        "gamesBehind": "2.5",
-        "pointsFor": "1704",
-        "pointsAgainst": "1572"
+        "winPercent": ".733",
+        "gamesBehind": "1.5",
+        "pointsFor": "1828",
+        "pointsAgainst": "1693"
       },
       "away": {
-        "rank": "9",
+        "rank": "10",
         "wins": "8",
-        "losses": "6",
+        "losses": "7",
         "ties": null,
-        "winPercent": ".571",
+        "winPercent": ".533",
         "gamesBehind": "4.5",
-        "pointsFor": "1611",
-        "pointsAgainst": "1576"
+        "pointsFor": "1705",
+        "pointsAgainst": "1692"
       }
     },
     "h2h": {
@@ -4684,21 +4858,21 @@
     "standings": {
       "home": {
         "rank": "5",
-        "wins": "8",
+        "wins": "9",
         "losses": "6",
         "ties": null,
-        "winPercent": ".571",
+        "winPercent": ".600",
         "gamesBehind": "3.5",
-        "pointsFor": "1649",
-        "pointsAgainst": "1625"
+        "pointsFor": "1766",
+        "pointsAgainst": "1737"
       },
       "away": {
-        "rank": "11",
+        "rank": "12",
         "wins": "4",
         "losses": "10",
         "ties": null,
         "winPercent": ".286",
-        "gamesBehind": "7.5",
+        "gamesBehind": "8",
         "pointsFor": "1402",
         "pointsAgainst": "1546"
       }
@@ -4752,6 +4926,11 @@
       ],
       "away": [
         {
+          "name": "Braden Smith",
+          "status": "Day-To-Day",
+          "detail": "Sprain"
+        },
+        {
           "name": "Andrew Nembhard",
           "status": "Out",
           "detail": "Soreness"
@@ -4777,22 +4956,22 @@
       "home": {
         "rank": "7",
         "wins": "8",
-        "losses": "7",
+        "losses": "8",
         "ties": null,
-        "winPercent": ".533",
-        "gamesBehind": "4",
-        "pointsFor": "1771",
-        "pointsAgainst": "1737"
+        "winPercent": ".500",
+        "gamesBehind": "5",
+        "pointsFor": "1892",
+        "pointsAgainst": "1861"
       },
       "away": {
         "rank": "10",
         "wins": "5",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
-        "winPercent": ".357",
-        "gamesBehind": "6.5",
-        "pointsFor": "1569",
-        "pointsAgainst": "1603"
+        "winPercent": ".333",
+        "gamesBehind": "7.5",
+        "pointsFor": "1673",
+        "pointsAgainst": "1722"
       }
     },
     "h2h": null
@@ -4835,6 +5014,11 @@
       ],
       "away": [
         {
+          "name": "Collin Murray-Boyles",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "RJ Barrett",
           "status": "Out",
           "detail": "Soreness"
@@ -4859,23 +5043,23 @@
     "standings": {
       "home": {
         "rank": "3",
-        "wins": "9",
+        "wins": "10",
         "losses": "4",
         "ties": null,
-        "winPercent": ".692",
+        "winPercent": ".714",
         "gamesBehind": "2",
-        "pointsFor": "1493",
-        "pointsAgainst": "1416"
+        "pointsFor": "1615",
+        "pointsAgainst": "1525"
       },
       "away": {
         "rank": "9",
         "wins": "5",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
-        "winPercent": ".357",
-        "gamesBehind": "6.5",
-        "pointsFor": "1581",
-        "pointsAgainst": "1577"
+        "winPercent": ".333",
+        "gamesBehind": "7.5",
+        "pointsFor": "1680",
+        "pointsAgainst": "1680"
       }
     },
     "h2h": null
@@ -4915,24 +5099,24 @@
     },
     "standings": {
       "home": {
-        "rank": "13",
+        "rank": "14",
         "wins": "3",
-        "losses": "10",
+        "losses": "11",
         "ties": null,
-        "winPercent": ".231",
-        "gamesBehind": "8",
-        "pointsFor": "1445",
-        "pointsAgainst": "1532"
+        "winPercent": ".214",
+        "gamesBehind": "9",
+        "pointsFor": "1552",
+        "pointsAgainst": "1669"
       },
       "away": {
         "rank": "8",
         "wins": "6",
-        "losses": "7",
+        "losses": "8",
         "ties": null,
-        "winPercent": ".462",
-        "gamesBehind": "5",
-        "pointsFor": "1415",
-        "pointsAgainst": "1458"
+        "winPercent": ".429",
+        "gamesBehind": "6",
+        "pointsFor": "1531",
+        "pointsAgainst": "1579"
       }
     },
     "h2h": null
@@ -4988,24 +5172,24 @@
     },
     "standings": {
       "home": {
-        "rank": "14",
-        "wins": "3",
+        "rank": "13",
+        "wins": "4",
         "losses": "10",
         "ties": null,
-        "winPercent": ".231",
+        "winPercent": ".286",
         "gamesBehind": "8",
-        "pointsFor": "1490",
-        "pointsAgainst": "1637"
+        "pointsFor": "1627",
+        "pointsAgainst": "1744"
       },
       "away": {
-        "rank": "12",
-        "wins": "4",
+        "rank": "11",
+        "wins": "5",
         "losses": "11",
         "ties": null,
-        "winPercent": ".267",
+        "winPercent": ".313",
         "gamesBehind": "8",
-        "pointsFor": "1669",
-        "pointsAgainst": "1788"
+        "pointsFor": "1772",
+        "pointsAgainst": "1887"
       }
     },
     "h2h": {
@@ -5034,6 +5218,11 @@
     "gameId": "401909310",
     "injuries": {
       "home": [
+        {
+          "name": "Alex Caruso",
+          "status": "Out",
+          "detail": "Soreness"
+        },
         {
           "name": "Thomas Sorber",
           "status": "Out",
@@ -5085,24 +5274,24 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
+        "rank": "8",
         "wins": "9",
-        "losses": "5",
+        "losses": "6",
         "ties": null,
-        "winPercent": ".643",
+        "winPercent": ".600",
         "gamesBehind": "3.5",
-        "pointsFor": "1570",
-        "pointsAgainst": "1499"
+        "pointsFor": "1682",
+        "pointsAgainst": "1616"
       },
       "away": {
         "rank": "12",
         "wins": "5",
-        "losses": "10",
+        "losses": "11",
         "ties": null,
-        "winPercent": ".333",
+        "winPercent": ".313",
         "gamesBehind": "8",
-        "pointsFor": "1737",
-        "pointsAgainst": "1843"
+        "pointsFor": "1846",
+        "pointsAgainst": "1965"
       }
     },
     "h2h": null
@@ -5117,11 +5306,6 @@
     "gameId": "401909311",
     "injuries": {
       "home": [
-        {
-          "name": "Jaxson Hayes",
-          "status": "Day-To-Day",
-          "detail": "Strain"
-        },
         {
           "name": "Lauri Markkanen",
           "status": "Out",
@@ -5149,23 +5333,23 @@
     "standings": {
       "home": {
         "rank": "14",
-        "wins": "2",
+        "wins": "3",
         "losses": "13",
         "ties": null,
-        "winPercent": ".133",
-        "gamesBehind": "11",
-        "pointsFor": "1631",
-        "pointsAgainst": "1759"
+        "winPercent": ".188",
+        "gamesBehind": "10",
+        "pointsFor": "1740",
+        "pointsAgainst": "1856"
       },
       "away": {
         "rank": "11",
-        "wins": "6",
+        "wins": "7",
         "losses": "7",
         "ties": null,
-        "winPercent": ".462",
-        "gamesBehind": "6",
-        "pointsFor": "1469",
-        "pointsAgainst": "1513"
+        "winPercent": ".500",
+        "gamesBehind": "5",
+        "pointsFor": "1597",
+        "pointsAgainst": "1620"
       }
     },
     "h2h": null
@@ -5201,24 +5385,24 @@
     },
     "standings": {
       "home": {
-        "rank": "8",
-        "wins": "7",
+        "rank": "7",
+        "wins": "8",
         "losses": "5",
         "ties": null,
-        "winPercent": ".583",
-        "gamesBehind": "4.5",
-        "pointsFor": "1366",
-        "pointsAgainst": "1358"
+        "winPercent": ".615",
+        "gamesBehind": "3.5",
+        "pointsFor": "1471",
+        "pointsAgainst": "1459"
       },
       "away": {
-        "rank": "4",
-        "wins": "11",
+        "rank": "3",
+        "wins": "12",
         "losses": "4",
         "ties": null,
-        "winPercent": ".733",
-        "gamesBehind": "2",
-        "pointsFor": "1767",
-        "pointsAgainst": "1643"
+        "winPercent": ".750",
+        "gamesBehind": "1",
+        "pointsFor": "1886",
+        "pointsAgainst": "1747"
       }
     },
     "h2h": {
@@ -5270,22 +5454,22 @@
       "home": {
         "rank": "1",
         "wins": "13",
-        "losses": "2",
+        "losses": "3",
         "ties": null,
-        "winPercent": ".867",
+        "winPercent": ".813",
         "gamesBehind": "-",
-        "pointsFor": "1837",
-        "pointsAgainst": "1722"
+        "pointsFor": "1934",
+        "pointsAgainst": "1831"
       },
       "away": {
         "rank": "15",
         "wins": "1",
-        "losses": "12",
+        "losses": "13",
         "ties": null,
-        "winPercent": ".077",
+        "winPercent": ".071",
         "gamesBehind": "11",
-        "pointsFor": "1401",
-        "pointsAgainst": "1576"
+        "pointsFor": "1508",
+        "pointsAgainst": "1704"
       }
     },
     "h2h": {
