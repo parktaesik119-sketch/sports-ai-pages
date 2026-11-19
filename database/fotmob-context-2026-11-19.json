@@ -6,13 +6,7 @@
     "league": "UEFA Nations League A Grp. 4",
     "injuries": {
       "home": [],
-      "away": [
-        {
-          "name": "Sondre Klingen Langås",
-          "status": "사타구니 부상",
-          "detail": "Early January 2027"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -301,7 +295,7 @@
         "Joe Rodon (DF)|https://images.fotmob.com/image_resources/playerimages/717174.png",
         "Ben Davies (DF)|https://images.fotmob.com/image_resources/playerimages/276121.png",
         "Jay Dasilva (DF)|https://images.fotmob.com/image_resources/playerimages/759814.png",
-        "Daniel James (MF)|https://images.fotmob.com/image_resources/playerimages/717176.png",
+        "Daniel James (FW)|https://images.fotmob.com/image_resources/playerimages/717176.png",
         "Josh Sheehan (MF)|https://images.fotmob.com/image_resources/playerimages/489335.png",
         "Rubin Colwill (MF)|https://images.fotmob.com/image_resources/playerimages/1227324.png",
         "Sorba Thomas (FW)|https://images.fotmob.com/image_resources/playerimages/812982.png",
@@ -823,13 +817,7 @@
           "detail": "Mid November 2026"
         }
       ],
-      "away": [
-        {
-          "name": "Yusuf Demir",
-          "status": "무릎 부상",
-          "detail": "Doubtful"
-        }
-      ]
+      "away": []
     },
     "h2h": [
       {
@@ -3348,7 +3336,7 @@
     "lineup": {
       "home": [
         "Ibrahim Sesay (GK)|https://images.fotmob.com/image_resources/playerimages/1264370.png",
-        "Osman Kakay (MF)|https://images.fotmob.com/image_resources/playerimages/722751.png",
+        "Osman Kakay (DF)|https://images.fotmob.com/image_resources/playerimages/722751.png",
         "MJ Kamara (DF)|https://images.fotmob.com/image_resources/playerimages/1557503.png",
         "Juma Bah (DF)|https://images.fotmob.com/image_resources/playerimages/1539619.png",
         "Emmanuel Samadia (MF)|https://images.fotmob.com/image_resources/playerimages/1230428.png",
@@ -3726,13 +3714,7 @@
     "date": "2026-11-17T16:00:00.000Z",
     "league": "Africa Cup of Nations Qualification Grp. I",
     "injuries": {
-      "home": [
-        {
-          "name": "Steven Nador",
-          "status": "부상",
-          "detail": "Early December 2026"
-        }
-      ],
+      "home": [],
       "away": []
     },
     "h2h": [
@@ -6325,35 +6307,35 @@
     },
     "lineup": {
       "home": [
-        "Mohamed Ali (GK)|https://images.fotmob.com/image_resources/playerimages/1295451.png",
+        "Dinko Horkaš (GK)|https://images.fotmob.com/image_resources/playerimages/930024.png",
         "Pedro Malheiro (DF)|https://images.fotmob.com/image_resources/playerimages/1282144.png",
         "Soufian Bouftiny (DF)|https://images.fotmob.com/image_resources/playerimages/884198.png",
         "Gabriel Vareta (DF)|https://images.fotmob.com/image_resources/playerimages/1713982.png",
         "Hugo (DF)|https://images.fotmob.com/image_resources/playerimages/1182091.png",
-        "Yahia Nader (MF)|https://images.fotmob.com/image_resources/playerimages/959258.png",
         "Cameron Puertas (MF)|https://images.fotmob.com/image_resources/playerimages/909907.png",
-        "Leandro Spadacio (FW)|https://images.fotmob.com/image_resources/playerimages/1138138.png",
+        "Yahia Nader (MF)|https://images.fotmob.com/image_resources/playerimages/959258.png",
+        "Brahian Palacios (FW)|https://images.fotmob.com/image_resources/playerimages/1353470.png",
         "Mehdi Taremi (MF)|https://images.fotmob.com/image_resources/playerimages/619506.png",
         "Serginho (FW)|https://images.fotmob.com/image_resources/playerimages/1393478.png",
         "Renato Júnior (FW)|https://images.fotmob.com/image_resources/playerimages/1282441.png"
       ],
       "away": [
-        "Marzooq Al Bedwawi (GK)|https://images.fotmob.com/image_resources/playerimages/1577420.png",
-        "Omar Saeed (DF)|https://images.fotmob.com/image_resources/playerimages/823452.png",
+        "Ibrahim Essa (GK)|https://images.fotmob.com/image_resources/playerimages/617905.png",
+        "Saeed Sulaiman (DF)|https://images.fotmob.com/image_resources/playerimages/1198741.png",
+        "Bruno Leonardo (DF)|https://images.fotmob.com/image_resources/playerimages/1253905.png",
         "Atiq Walid (DF)|https://images.fotmob.com/image_resources/playerimages/1628279.png",
-        "Jocelyn Doumbia (DF)|https://images.fotmob.com/image_resources/playerimages/1460525.png",
-        "Khaled Ali Al Baloushi (DF)|https://images.fotmob.com/image_resources/playerimages/1040964.png",
-        "Anass Taouil (MF)|https://images.fotmob.com/image_resources/playerimages/1628264.png",
-        "Khalid Al Blooshi (MF)|https://images.fotmob.com/image_resources/playerimages/1022694.png",
+        "Abdulla Abbas Al Balooshi (DF)|https://images.fotmob.com/image_resources/playerimages/1228539.png",
         "Ghaith Wahabi (MF)|https://images.fotmob.com/image_resources/playerimages/1436227.png",
-        "Saad Farid (MF)|https://images.fotmob.com/image_resources/playerimages/1702026.png",
-        "Pedro Leão (FW)|https://images.fotmob.com/image_resources/playerimages/1681901.png",
-        "Bernard Faye (FW)|https://images.fotmob.com/image_resources/playerimages/1416571.png"
+        "Anass Taouil (FW)|https://images.fotmob.com/image_resources/playerimages/1628264.png",
+        "Juan Pedroza (MF)|https://images.fotmob.com/image_resources/playerimages/1249746.png",
+        "Firas Ben Larbi (MF)|https://images.fotmob.com/image_resources/playerimages/839896.png",
+        "Drissa Coulibaly (FW)|https://images.fotmob.com/image_resources/playerimages/1830324.png",
+        "Seifeddine Jaziri (FW)|https://images.fotmob.com/image_resources/playerimages/713207.png"
       ]
     },
     "formation": {
       "home": "4-2-3-1",
-      "away": "4-4-2"
+      "away": "4-1-4-1"
     },
     "coach": {
       "home": "Rui Vitória|https://images.fotmob.com/image_resources/playerimages/280562.png",
@@ -7135,9 +7117,9 @@
     "lineup": {
       "home": [
         "Gianluigi Donnarumma (GK)|https://images.fotmob.com/image_resources/playerimages/618878.png",
-        "Abdukodir Khusanov (DF)|https://images.fotmob.com/image_resources/playerimages/1362998.png",
+        "Rico Lewis (DF)|https://images.fotmob.com/image_resources/playerimages/1288450.png",
         "Rúben Dias (DF)|https://images.fotmob.com/image_resources/playerimages/614006.png",
-        "Marc Guéhi (DF)|https://images.fotmob.com/image_resources/playerimages/844425.png",
+        "Vitor Reis (DF)|https://images.fotmob.com/image_resources/playerimages/1580952.png",
         "Joško Gvardiol (DF)|https://images.fotmob.com/image_resources/playerimages/1070712.png",
         "Elliot Anderson (MF)|https://images.fotmob.com/image_resources/playerimages/1089691.png",
         "Enzo Fernández (MF)|https://images.fotmob.com/image_resources/playerimages/1137705.png",
@@ -7209,14 +7191,14 @@
       ],
       "away": [
         {
-          "name": "Urko González",
-          "status": "부상",
-          "detail": "Early December 2026"
-        },
-        {
           "name": "Jofre Carreras",
           "status": "사타구니 부상",
           "detail": "Unknown"
+        },
+        {
+          "name": "Urko González",
+          "status": "부상",
+          "detail": "Early December 2026"
         },
         {
           "name": "Kike García",
