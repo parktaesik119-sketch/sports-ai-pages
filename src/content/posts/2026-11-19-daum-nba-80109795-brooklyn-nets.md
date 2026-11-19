@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.17","home":"브루클린 네츠","away":"필라델�
 awayRecent: '[{"date":"26.11.17","home":"클리블랜드 캐벌리어스","away":"시카고 불스","score":"126-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109779-2026-11-17-cleveland-cavaliers/"},{"date":"26.11.15","home":"미네소타 팀버울브스","away":"시카고 불스","score":"106-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109767-2026-11-15-minnesota-timberwolves/"},{"date":"26.11.14","home":"시카고 불스","away":"애틀랜타 호크스","score":"125-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109758-2026-11-14-chicago-bulls/"},{"date":"26.11.12","home":"시카고 불스","away":"샌안토니오 스퍼스","score":"119-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109745-2026-11-12-chicago-bulls/"},{"date":"26.11.03","home":"필라델피아 76ers","away":"시카고 불스","score":"126-107","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110220-2026-11-03-philadelphia-76ers/"}]'
 injuryHome: "없음"
 injuryAway: "Tobe Awaka[주요](Out) | Caleb Wilson[주요](Out)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"J. Randle (F)|https://a.espncdn.com/i/headshots/nba/players/full/3064514.png\",\"M. Porter Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4278104.png\",\"D. Sharpe (C)|https://a.espncdn.com/i/headshots/nba/players/full/4432194.png\",\"E. Demin (G)|https://a.espncdn.com/i/headshots/nba/players/full/5175643.png\",\"N. Traore (G)|https://a.espncdn.com/i/headshots/nba/players/full/5279130.png\"]"
+awayLineup: "[\"J. Smith (F)|https://a.espncdn.com/i/headshots/nba/players/full/4397189.png\",\"I. Okoro (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432822.png\",\"M. Buzelis (F)|https://a.espncdn.com/i/headshots/nba/players/full/4711294.png\",\"N. Powell (G)|https://a.espncdn.com/i/headshots/nba/players/full/2595516.png\",\"J. Giddey (G)|https://a.espncdn.com/i/headshots/nba/players/full/4871145.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
