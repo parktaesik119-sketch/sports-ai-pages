@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.17","home":"DB","away":"안양 정관장","score":"
 awayRecent: '[{"date":"26.11.15","home":"KCC 이지스","away":"한국가스공사","score":"80-77","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-kbl-80109252-2026-11-15-kcc-egis/"},{"date":"26.11.14","home":"KCC 이지스","away":"SK","score":"75-70","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-kbl-80109247-2026-11-14-kcc-egis/"},{"date":"26.11.11","home":"KCC 이지스","away":"타이베이 푸본 브레이브스","score":"88-80","result":"🟢승"},{"date":"26.11.08","home":"창원 LG","away":"KCC 이지스","score":"74-84","result":"🟢승"},{"date":"26.11.05","home":"KCC 이지스","away":"마카오 호우촌","score":"108-94","result":"🟢승"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"GD 변준형(5)|https://kbl.or.kr/files/kbl/players-photo/291220.png\",\"FD 한승희(51)|https://kbl.or.kr/files/kbl/players-photo/291372.png\",\"FD 라숀 토마스(25)|https://kbl.or.kr/files/kbl/players-photo/291436.png\",\"GD 렌즈 아반도(12)|https://kbl.or.kr/files/kbl/players-photo/291583.png\",\"GD 박정웅(4)|https://kbl.or.kr/files/kbl/players-photo/291746.png\"]"
+awayLineup: "[\"C 장재석(31)|https://kbl.or.kr/files/kbl/players-photo/290539.png\",\"GD 허웅(3)|https://kbl.or.kr/files/kbl/players-photo/290776.png\",\"GD 허훈(7)|https://kbl.or.kr/files/kbl/players-photo/291085.png\",\"C 숀 롱(36)|https://kbl.or.kr/files/kbl/players-photo/291342.png\",\"FD 윤기찬(8)|https://kbl.or.kr/files/kbl/players-photo/291859.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
