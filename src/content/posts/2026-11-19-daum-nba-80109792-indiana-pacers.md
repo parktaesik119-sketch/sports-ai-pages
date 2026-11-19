@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.16","home":"필라델피아 76ers","away":"인디�
 awayRecent: '[{"date":"26.11.17","home":"마이애미 히트","away":"휴스턴 로키츠","score":"128-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109781-2026-11-17-miami-heat/"},{"date":"26.11.16","home":"워싱턴 위저즈","away":"휴스턴 로키츠","score":"119-147","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109775-2026-11-16-washington-wizards/"},{"date":"26.11.14","home":"휴스턴 로키츠","away":"유타 재즈","score":"125-118","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109760-2026-11-14-houston-rockets/"},{"date":"26.11.12","home":"휴스턴 로키츠","away":"골든스테이트 워리어스","score":"115-108","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109749-2026-11-12-houston-rockets/"},{"date":"26.11.03","home":"휴스턴 로키츠","away":"보스턴 셀틱스","score":"109-93","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110210-2026-11-03-houston-rockets/"}]'
 injuryHome: "Andrew Nembhard[주요](Out - Soreness) | Tyrese Haliburton[주요](Out - Strain) | Johnny Furphy[주요](Out - Surgery) | Ben Sheppard[주요](Out)"
 injuryAway: "Clint Capela[주요](Out - Sprain)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"P. Siakam (F)|https://a.espncdn.com/i/headshots/nba/players/full/3149673.png\",\"I. Zubac (C)|https://a.espncdn.com/i/headshots/nba/players/full/4017837.png\",\"K. Oubre Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/3133603.png\",\"A. Nesmith (G)|https://a.espncdn.com/i/headshots/nba/players/full/4396909.png\",\"Q. Jackson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4592829.png\"]"
+awayLineup: "[\"K. Durant (F)|https://a.espncdn.com/i/headshots/nba/players/full/3202.png\",\"J. Smith Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432639.png\",\"A. Sengun (C)|https://a.espncdn.com/i/headshots/nba/players/full/4871144.png\",\"F. VanVleet (G)|https://a.espncdn.com/i/headshots/nba/players/full/2991230.png\",\"A. Thompson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684740.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
