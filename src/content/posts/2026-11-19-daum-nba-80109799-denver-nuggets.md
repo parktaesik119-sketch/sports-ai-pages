@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.17","home":"덴버 너기츠","away":"피닉스 선
 awayRecent: '[{"date":"26.11.17","home":"보스턴 셀틱스","away":"올랜도 매직","score":"105-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109778-2026-11-17-boston-celtics/"},{"date":"26.11.16","home":"보스턴 셀틱스","away":"댈러스 매버릭스","score":"131-94","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109773-2026-11-16-boston-celtics/"},{"date":"26.11.12","home":"토론토 랩터스","away":"보스턴 셀틱스","score":"93-98","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109743-2026-11-12-toronto-raptors/"},{"date":"26.11.03","home":"휴스턴 로키츠","away":"보스턴 셀틱스","score":"109-93","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110210-2026-11-03-houston-rockets/"},{"date":"26.10.24","home":"보스턴 셀틱스","away":"뉴욕 닉스","score":"107-103","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102302-2026-10-24-boston-celtics/"}]'
 injuryHome: "Julian Strawther[주요](Out - Sprain)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"A. Gordon (F)|https://a.espncdn.com/i/headshots/nba/players/full/3064290.png\",\"C. Johnson (F)|https://a.espncdn.com/i/headshots/nba/players/full/3138196.png\",\"N. Jokic (C)|https://a.espncdn.com/i/headshots/nba/players/full/3112335.png\",\"J. Murray (G)|https://a.espncdn.com/i/headshots/nba/players/full/3936299.png\",\"C. Braun (G)|https://a.espncdn.com/i/headshots/nba/players/full/4431767.png\"]"
+awayLineup: "[\"P. George (F)|https://a.espncdn.com/i/headshots/nba/players/full/4251.png\",\"J. Tatum (F)|https://a.espncdn.com/i/headshots/nba/players/full/4065648.png\",\"N. Queta (C)|https://a.espncdn.com/i/headshots/nba/players/full/4397424.png\",\"D. White (G)|https://a.espncdn.com/i/headshots/nba/players/full/3078576.png\",\"J. Walsh (G)|https://a.espncdn.com/i/headshots/nba/players/full/4683689.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
