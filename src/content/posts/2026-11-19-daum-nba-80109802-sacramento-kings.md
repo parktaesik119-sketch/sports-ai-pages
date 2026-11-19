@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.16","home":"새크라멘토 킹스","away":"오클�
 awayRecent: '[{"date":"26.11.17","home":"덴버 너기츠","away":"피닉스 선즈","score":"105-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109785-2026-11-17-denver-nuggets/"},{"date":"26.11.16","home":"피닉스 선즈","away":"LA 레이커스","score":"123-131","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109770-2026-11-16-phoenix-suns/"},{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네츠","score":"101-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109754-2026-11-13-phoenix-suns/"},{"date":"26.11.03","home":"골든스테이트 워리어스","away":"피닉스 선즈","score":"116-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110209-2026-11-03-golden-state-warriors/"},{"date":"26.10.25","home":"피닉스 선즈","away":"골든스테이트 워리어스","score":"131-122","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102421-2026-10-25-phoenix-suns/"}]'
 injuryHome: "Maxime Raynaud[주요](Out - Dislocated) | Ben Simmons[주요](Out - Surgery)"
 injuryAway: "Mark Williams[주요](Out - Surgery)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"D. Sabonis (F)|https://a.espncdn.com/i/headshots/nba/players/full/3155942.png\",\"D. Hunter (F)|https://a.espncdn.com/i/headshots/nba/players/full/4065732.png\",\"K. Murray (F)|https://a.espncdn.com/i/headshots/nba/players/full/4594327.png\",\"Z. LaVine (G)|https://a.espncdn.com/i/headshots/nba/players/full/3064440.png\",\"D. Acuff Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/5142620.png\"]"
+awayLineup: "[\"D. Brooks (F)|https://a.espncdn.com/i/headshots/nba/players/full/3155526.png\",\"M. Bridges (F)|https://a.espncdn.com/i/headshots/nba/players/full/4066383.png\",\"O. Ighodaro (F)|https://a.espncdn.com/i/headshots/nba/players/full/4601023.png\",\"D. Booker (G)|https://a.espncdn.com/i/headshots/nba/players/full/3136193.png\",\"J. Green (G)|https://a.espncdn.com/i/headshots/nba/players/full/4437244.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

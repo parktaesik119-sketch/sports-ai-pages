@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.16","home":"피닉스 선즈","away":"LA 레이커�
 awayRecent: '[{"date":"26.11.16","home":"유타 재즈","away":"샌안토니오 스퍼스","score":"102-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109772-2026-11-16-utah-jazz/"},{"date":"26.11.14","home":"휴스턴 로키츠","away":"유타 재즈","score":"125-118","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109760-2026-11-14-houston-rockets/"},{"date":"26.11.12","home":"유타 재즈","away":"올랜도 매직","score":"108-123","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109748-2026-11-12-utah-jazz/"},{"date":"26.11.03","home":"샌안토니오 스퍼스","away":"유타 재즈","score":"119-97","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110224-2026-11-03-san-antonio-spurs/"},{"date":"26.10.26","home":"유타 재즈","away":"LA 레이커스","score":"123-132","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102526-2026-10-26-utah-jazz/"}]'
 injuryHome: "Austin Reaves[주요](Out - Bruise)"
 injuryAway: "Lauri Markkanen[주요](Out - Fracture) | Jusuf Nurkic[주요](Out - Strain) | Jaren Jackson Jr.[주요](Out - Not Specified)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"Z. Williams (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433137.png\",\"W. Kessler (C)|https://a.espncdn.com/i/headshots/nba/players/full/4433136.png\",\"M. Thybulle (G)|https://a.espncdn.com/i/headshots/nba/players/full/3907498.png\",\"L. Doncic (G)|https://a.espncdn.com/i/headshots/nba/players/full/3945274.png\",\"Q. Grimes (G)|https://a.espncdn.com/i/headshots/nba/players/full/4397014.png\"]"
+awayLineup: "[\"M. Bamba (C)|https://a.espncdn.com/i/headshots/nba/players/full/4277919.png\",\"J. Green (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432811.png\",\"K. George (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433627.png\",\"A. Bailey (G)|https://a.espncdn.com/i/headshots/nba/players/full/4873138.png\",\"D. Peterson (G)|https://a.espncdn.com/i/headshots/nba/players/full/5041955.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
