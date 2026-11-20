@@ -4058,6 +4058,11 @@
       ],
       "away": [
         {
+          "name": "Tom Baack",
+          "status": "발목 부상",
+          "detail": "Doubtful"
+        },
+        {
           "name": "Sven Michel",
           "status": "충돌 부상",
           "detail": "Doubtful"
@@ -4300,11 +4305,6 @@
           "name": "Nicolas-Gerrit Kühn",
           "status": "근육 부상",
           "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Moritz Nicolas",
-          "status": "근육 부상",
-          "detail": "Doubtful"
         },
         {
           "name": "Hugo Bolin",
@@ -5074,9 +5074,14 @@
     "injuries": {
       "home": [
         {
+          "name": "Nicholas Mickelson",
+          "status": "부상",
+          "detail": "Late December 2026"
+        },
+        {
           "name": "Lukas Pinckert",
           "status": "발목 부상",
-          "detail": "About 1-2 weeks"
+          "detail": "Doubtful"
         },
         {
           "name": "Jan Gyamerah",
@@ -5236,6 +5241,11 @@
     "league": "Bundesliga",
     "injuries": {
       "home": [
+        {
+          "name": "Josip Juranović",
+          "status": "병",
+          "detail": "About 1-2 weeks"
+        },
         {
           "name": "Robert Skov",
           "status": "부상",
@@ -17185,17 +17195,12 @@
         {
           "name": "Robin Gosens",
           "status": "무릎 부상",
-          "detail": "Mid December 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Timo Becker",
           "status": "발 부상",
           "detail": "Late November 2026"
-        },
-        {
-          "name": "Janik Bachmann",
-          "status": "엉덩이 부상",
-          "detail": "Mid November 2026"
         },
         {
           "name": "Maximilian Wöber",
@@ -17206,11 +17211,6 @@
           "name": "Ron Schallenberg",
           "status": "다리 부상",
           "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Moussa Sylla",
-          "status": "다리 부상",
-          "detail": "Late November 2026"
         },
         {
           "name": "Ayman Gülasi",
@@ -17879,6 +17879,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Mohamed Abdelmonem",
+          "status": "햄스트링 부상",
+          "detail": "Early December 2026"
+        },
+        {
           "name": "Ali Abdi",
           "status": "근육 부상",
           "detail": "About 1-2 weeks"
@@ -17903,12 +17908,12 @@
         {
           "name": "Maghnes Akliouche",
           "status": "종아리 부상",
-          "detail": "About 1-2 weeks"
+          "detail": "Doubtful"
         },
         {
           "name": "Ousmane Dembélé",
           "status": "허벅지 부상",
-          "detail": "A few weeks"
+          "detail": "Doubtful"
         },
         {
           "name": "Khvicha Kvaratskhelia",
@@ -17918,12 +17923,12 @@
         {
           "name": "Marquinhos",
           "status": "허벅지 부상",
-          "detail": "A few weeks"
+          "detail": "Doubtful"
         },
         {
           "name": "Nuno Mendes",
           "status": "근육 부상",
-          "detail": "A few weeks"
+          "detail": "Doubtful"
         }
       ]
     },
@@ -18288,9 +18293,9 @@
     "injuries": {
       "home": [
         {
-          "name": "Franjo Ivanović",
+          "name": "Andrija Bulatović",
           "status": "부상",
-          "detail": "Doubtful"
+          "detail": "About 1-2 weeks"
         },
         {
           "name": "Odsonne Édouard",
@@ -18300,12 +18305,12 @@
         {
           "name": "Ismaëlo Ganiou",
           "status": "무릎 부상",
-          "detail": "Late November 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Abdallah Sima",
           "status": "허벅지 부상",
-          "detail": "Late November 2026"
+          "detail": "Doubtful"
         },
         {
           "name": "Maik Nawrocki",
@@ -18523,6 +18528,11 @@
         }
       ],
       "away": [
+        {
+          "name": "Clinton Mata",
+          "status": "근육 부상",
+          "detail": "About 1-2 weeks"
+        },
         {
           "name": "Tyler Morton",
           "status": "사타구니 부상",
@@ -18932,6 +18942,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Aleksandr Golovin",
+          "status": "종아리 부상",
+          "detail": "A few weeks"
+        },
+        {
           "name": "Ansu Fati",
           "status": "햄스트링 부상",
           "detail": "Late December 2026"
@@ -18943,6 +18958,11 @@
         }
       ],
       "away": [
+        {
+          "name": "Danny Namaso",
+          "status": "발목 부상",
+          "detail": "Early December 2026"
+        },
         {
           "name": "Assane Dioussé",
           "status": "십자 인대 부상",
@@ -19374,7 +19394,7 @@
         {
           "name": "Amine El Ouazzani",
           "status": "사타구니 부상",
-          "detail": "A few weeks"
+          "detail": "Doubtful"
         }
       ]
     },
