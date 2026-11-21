@@ -18,10 +18,10 @@ h2h: '[{"date":"26.09.26","home":"워싱턴 캐피털스","away":"보스턴 브�
 summary: "보스턴 브루인스는 앞선 29경기에서 18승 11패로 승률 62%를 기록하며 홈 경기 15승 6패의 확고한 홈 실력을 보이고 있습니다. 워싱턴 캐피털스는 13승 11패 승률 54%로 홈 9승 6패, 원정 4승 5패의 원정 약점을 드러내고 있으며, 최근 4경기 1승 3패의 부진 흐름을 보이고 있습니다. 상대전적에서는 보스턴 브루인스가 1승 1패로 우세한 흐름을 유지하고 있고, 이번 경기에서 홈 어드밴티지와 최근의 수비 회복 신호가 보스턴 브루인스에게 유리하게 작용할 전망입니다. 두 팀의 공수 밸런스를 종합하면 보스턴 브루인스의 홈 우위가 더욱 두드러질 것으로 보입니다."
 homeRecent: '[{"date":"26.11.19","home":"디트로이트 레드윙스","away":"보스턴 브루인스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378645575-2026-11-19-detroit-red-wings/"},{"date":"26.11.18","home":"보스턴 브루인스","away":"LA 킹스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378637916-2026-11-18-boston-bruins/"},{"date":"26.11.15","home":"보스턴 브루인스","away":"미네소타 와일드","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626002-2026-11-15-boston-bruins/"},{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트리올 캐네이디언스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608131-2026-11-13-boston-bruins/"},{"date":"26.11.09","home":"보스턴 브루인스","away":"플로리다 팬더스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378588558-2026-11-09-boston-bruins/"}]'
 awayRecent: '[{"date":"26.11.20","home":"워싱턴 캐피털스","away":"버펄로 세이버스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378652383-2026-11-20-washington-capitals/"},{"date":"26.11.18","home":"탬파베이 라이트닝","away":"워싱턴 캐피털스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378637065-2026-11-18-tampa-bay-lightning/"},{"date":"26.11.15","home":"워싱턴 캐피털스","away":"뉴저지 데블스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620896-2026-11-15-washington-capitals/"},{"date":"26.11.13","home":"뉴저지 데블스","away":"워싱턴 캐피털스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378610684-2026-11-13-new-jersey-devils/"},{"date":"26.11.11","home":"오타와 세너터스","away":"워싱턴 캐피털스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597068-2026-11-11-ottawa-senators/"}]'
-injuryHome: "James Hagens (부상 예비군)"
-injuryAway: "Vincent Desharnais (부상 예비군 - 수술)|Rasmus Sandin (부상 예비군 - 수술)"
-homeLineup: ''
-awayLineup: ''
+injuryHome: "James Hagens[주요](Injured Reserve)"
+injuryAway: "Vincent Desharnais[주요](Injured Reserve - Surgery) | Rasmus Sandin[주요](Injured Reserve - Surgery)"
+homeLineup: "[\"선발투수 J. Swayman|https://a.espncdn.com/i/headshots/mlb/players/full/4712036.png\"]"
+awayLineup: "[\"선발투수 L. Thompson|https://a.espncdn.com/i/headshots/mlb/players/full/4272888.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
