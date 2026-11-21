@@ -22,6 +22,66 @@ if (!ROUTERONE_API_KEY) {
   process.exit(1);
 }
 
+// --- [AI 호출 설정] ---
+// 모델: Router One의 anthropic/claude-haiku-5.5
+const AI_MODEL = "anthropic/claude-haiku-5.5";
+const AI_MAX_TOKENS = 8192;
+// 웹검색 사용 여부: 기본 OFF(= /v1/chat/completions, 공식 데이터만 사용).
+// 켜려면 환경변수 USE_WEB_SEARCH=1 → /v1/messages + web_search 툴로 호출한다.
+const USE_WEB_SEARCH = process.env.USE_WEB_SEARCH === "1";
+
+// client는 예전엔 analyzeMatches() 안쪽 블록에 const로 선언돼 있어서
+// analyzeMatchesRetry()에서는 접근이 안 되는 상태였다 → 모듈 최상단으로 이동.
+const client = new OpenAI({ baseURL: "https://api.router.one/v1", apiKey: ROUTERONE_API_KEY });
+
+// 공통 AI 호출 함수. 반환: { text, finishReason }
+// 에러는 err.status / err.error 를 채워서 던지므로 기존 catch의 진단 로그가 그대로 동작한다.
+async function callAI(systemPrompt, userPrompt) {
+  if (!USE_WEB_SEARCH) {
+    // ✅ 기본: Chat Completions (system+user를 하나의 user 메시지로 합치던 기존 방식 유지)
+    const response = await client.chat.completions.create({
+      model: AI_MODEL,
+      max_tokens: AI_MAX_TOKENS,
+      messages: [
+        { role: "user", content: `\n${systemPrompt}\n\n${userPrompt}\n` }
+      ]
+    });
+    return {
+      text: response.choices?.[0]?.message?.content || "",
+      finishReason: response.choices?.[0]?.finish_reason ?? "(없음)"
+    };
+  }
+
+  // 🔎 웹검색 모드: Anthropic Messages 형식 (/v1/messages)
+  const res = await fetch("https://api.router.one/v1/messages", {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${ROUTERONE_API_KEY}`,
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      model: AI_MODEL,
+      max_tokens: AI_MAX_TOKENS,
+      system: systemPrompt,
+      tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 5 }],
+      messages: [{ role: "user", content: userPrompt }]
+    })
+  });
+
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) {
+    const e = new Error(data?.error?.message || `HTTP ${res.status}`);
+    e.status = res.status;
+    e.error = data;
+    throw e;
+  }
+  const text = (data.content || [])
+    .filter(b => b.type === "text")
+    .map(b => b.text)
+    .join("");
+  return { text, finishReason: data.stop_reason ?? "(없음)" };
+}
+
 // [추가] 팀명을 LOL 로고 파일명 규칙으로 안전하게 변환
 function getSafeLogoName(teamName) {
 
@@ -646,7 +706,7 @@ const filteredMatches = rawData.filter(m => {
 });
 
 
-    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Gemini 3 Flash)`);
+    console.log(`🚀 [픽천국 엔진] ${today} 총 ${filteredMatches.length}개 분석 시작 (Claude Haiku 5.5${USE_WEB_SEARCH ? " + 웹검색" : ""})`);
 
     const retryQueue = []; // ← 여기로 이동
 
@@ -1495,7 +1555,7 @@ const npbAwayStarterText = npbInfo?.starters ? formatNpbStarter(npbInfo.starters
 
 const hasNpbData = !!(npbHomeStarterText || npbAwayStarterText);
 
-// web_search 툴을 더 이상 사용하지 않으므로(Gemini 3 Flash는 이 게이트웨이에서 빌트인 웹검색 미지원),
+// 기본 모드(USE_WEB_SEARCH 꺼짐)에서는 web_search 툴을 쓰지 않으므로,
 // 공식 데이터가 없는 경우에도 검색을 지시하지 않는다. 대신 "지어내지 말고 없으면 없음으로 표기하라"만 강제한다.
 const searchOrEspnInstruction = hasEspnAnyData
   ? `아래 [ESPN 공식 데이터]를 결장자/순위 정보의 근거로 그대로 사용하라. INJURY_HOME/INJURY_AWAY는 반드시 [ESPN 공식 데이터]의 결장자 목록을 기반으로 작성하고, 목록에 없으면 "없음"으로 표기하라. 목록에 있는데도 임의로 다른 선수를 지어내지 마라.`
@@ -1611,7 +1671,6 @@ ${awayRecentContext}
 // ✅ 재시도 포함 버전 (최대 2회 시도)
 let success = false;
 const MAX_RETRY = 2;
-const client = new OpenAI({ baseURL: "https://api.router.one/v1", apiKey: ROUTERONE_API_KEY });
 
 for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
   try {
@@ -1620,40 +1679,15 @@ for (let attempt = 1; attempt <= MAX_RETRY; attempt++) {
       await new Promise(res => setTimeout(res, 3000));
     }
 
-    // ⚠️ Gemini 계열(google/gemini-3-flash)은 Router One에서 /v1/responses(Responses API)를
-    // 지원하지 않고 /v1/chat/completions만 서빙한다. 그래서 client.responses.create →
-    // client.chat.completions.create 로 호출 방식 자체를 바꿨다.
-    // 웹검색(web_search/google_search) 툴은 Router One의 /v1/chat/completions가 function-calling
-    // 형식(type: "function")만 지원해서 built-in 검색 툴 자체가 400으로 거부됨을 실측 확인 후 제거했다.
-    // 대신 결장자/부상자 등은 ESPN/KBO/NPB/fotmob 등 이미 확보된 공식 데이터만으로 판단하고,
-    // 데이터가 없으면 "없음"으로 표기하도록 SYSTEM_RULES_PROMPT/searchOrEspnInstruction에서 강제한다.
-    const response = await client.chat.completions.create({
-  model: "google/gemini-3-flash",
-  // 🔥 명시적 상한을 안 주면 프로바이더 기본값에 걸려 응답이 중간에 잘릴 수 있다.
-  // 이 프롬프트는 HOME_ANALYSIS~PICK_EXPECTED_AWAY까지 14개 필드를 다 채워야 하고,
-  // PICK_* 필드가 출력 순서상 맨 마지막이라 잘리면 가장 먼저 PICK 쪽이 비게 된다.
-  max_tokens: 8192,
-
-  messages: [
-    {
-      role: "user",
-      content: `
-${SYSTEM_RULES_PROMPT}
-
-${matchDataPrompt}
-`
-    }
-  ]
-});
-
-    const aiResponse =
-      response.choices?.[0]?.message?.content || "";
+    // 모델/엔드포인트 선택은 callAI()에서 처리 (기본: /v1/chat/completions, USE_WEB_SEARCH=1: /v1/messages + 웹검색)
+    // 🔥 max_tokens는 PICK_* 필드가 출력 맨 끝이라 잘리면 가장 먼저 비게 되므로 AI_MAX_TOKENS(8192)로 명시한다.
+    const { text: aiResponse, finishReason } = await callAI(SYSTEM_RULES_PROMPT, matchDataPrompt);
 
     // 🔥 [진단] 길이 조건(>500)과 무관하게 매 시도마다 finish_reason을 남긴다.
     // "PICK 누락"으로 저장이 거부된 케이스는 응답 길이가 500자를 넘어서 기존
     // 진단 로그(길이<=500일 때만 출력)가 아예 안 찍혔었다 — 그래서 지금까지
     // "잘려서 그런 건지" 확인할 방법이 없었다. 이제 항상 남긴다.
-    console.log(`   [진단] finish_reason: ${response.choices?.[0]?.finish_reason ?? '(없음)'} / 응답 길이: ${aiResponse.length}자 (${match.home} vs ${match.away})`);
+    console.log(`   [진단] finish_reason: ${finishReason} / 응답 길이: ${aiResponse.length}자 (${match.home} vs ${match.away})`);
 
     if (aiResponse.length > 500) {
       const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal);
@@ -1668,12 +1702,7 @@ ${matchDataPrompt}
       console.warn(`⚠️ [응답 짧음] ${attempt}차 시도 응답 길이 부족 (${aiResponse.length}자): ${match.home}`);
 
       // ── 진단 로그: 응답 길이가 부족한 원인 파악용 (Chat Completions 응답 구조 기준) ──
-      try {
-        const choice = response.choices?.[0];
-        console.warn(`   [진단] finish_reason: ${choice?.finish_reason ?? '(없음)'}`);
-      } catch (diagErr) {
-        console.warn(`   [진단 로그 실패] ${diagErr.message}`);
-      }
+      console.warn(`   [진단] finish_reason: ${finishReason}`);
     }
 
   } catch (err) {
@@ -1744,27 +1773,10 @@ ${matchDataPrompt}
 `;
 
     try {
-    const retryResponse = await client.chat.completions.create({
-  model: "google/gemini-3-flash",
-  max_tokens: 8192, // 🔥 재시도 호출도 동일하게 상한 명시 (본 호출과 동일한 이유)
-
-  messages: [
-    {
-      role: "user",
-      content: `
-${SYSTEM_RULES_PROMPT}
-
-${retryPrompt}
-`
-    }
-  ]
-});
-
-      const aiResponse =
-        retryResponse.choices?.[0]?.message?.content || "";
+    const { text: aiResponse, finishReason } = await callAI(SYSTEM_RULES_PROMPT, retryPrompt);
 
       // 🔥 [진단] 재시도 호출도 길이 조건과 무관하게 항상 finish_reason을 남긴다.
-      console.log(`   [진단] finish_reason: ${retryResponse.choices?.[0]?.finish_reason ?? '(없음)'} / 응답 길이: ${aiResponse.length}자 (${match.home} vs ${match.away})`);
+      console.log(`   [진단] finish_reason: ${finishReason} / 응답 길이: ${aiResponse.length}자 (${match.home} vs ${match.away})`);
 
       if (aiResponse.length > 1200) {
         const saved = await savePost(savePath, aiResponse, match, dateShort, cat, dateOnly, h2hContent, aiHomeName, aiAwayName, homeRecentMatches, awayRecentMatches, h2hHistory, expectedScores, fotmobHomeLineupJson, fotmobAwayLineupJson, fotmobHomeFormationVal, fotmobAwayFormationVal, fotmobHomeCoachVal, fotmobAwayCoachVal);
@@ -1782,12 +1794,7 @@ ${retryPrompt}
         console.error(`❌ [재분석도 짧음] ${match.home} vs ${match.away} (${aiResponse.length}자)`);
 
         // ── 진단 로그: 응답 길이가 부족한 원인 파악용 ──
-        try {
-          const retryChoice = retryResponse.choices?.[0];
-          console.warn(`   [진단] finish_reason: ${retryChoice?.finish_reason ?? '(없음)'}`);
-        } catch (diagErr) {
-          console.warn(`   [진단 로그 실패] ${diagErr.message}`);
-        }
+        console.warn(`   [진단] finish_reason: ${finishReason}`);
       }
       await new Promise(res => setTimeout(res, 8000));
     } catch (err) {
