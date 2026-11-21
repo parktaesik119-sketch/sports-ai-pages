@@ -1,0 +1,37 @@
+---
+title: "디트로이트 레드윙스 vs 뉴욕 아일런더스 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T00:00:00.000Z
+description: "디트로이트 레드윙스 vs 뉴욕 아일런더스 하키분석: 디트로이트 레드윙스는 홈경기에서 50% 승률을 기록하며 홈 어드밴티지를 잘 활용하고 있으며, 최근 부진을 씻어내기 위해 노력하… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378665999-2026-11-22-detroit-red-wings"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "디트로이트 레드윙스"
+awayTeam: "뉴욕 아일런더스"
+homeLogo: "https://highlightly.net/hockey/images/teams/581166.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/588825.png"
+homeAnalysis: "디트로이트 레드윙스는 앞선 26경기에서 10승 16패로 승률 38%를 기록했고, 최근 10경기에서는 3승 7패로 다소 부진한 흐름을 보였습니다. 전반적으로 경기당 평균 2.7득점을 기록하며 공격에서는 무난한 전력을 유지하고 있습니다. 다만 홈경기에서 14경기 7승 7패로 50% 승률을 기록해 홈에서 비교적 안정적인 모습을 보이고 있습니다. 특히 26년 11월 들어 보스턴 브루인스전 패배를 제외하면 탬파베이 라이트닝전과 플로리다 팬더스전 승리로 연패를 끊어내는 모습을 보여주었습니다. 최근 경기력이 다소 기복 있는 편이지만 홈에서는 상대 팀보다 나은 성적을 거두고 있어 이번 경기에서는 홈 어드밴티지를 잘 활용할 것으로 보입니다."
+awayAnalysis: "뉴욕 아일런더스는 앞선 25경기에서 11승 14패로 승률 44%를 기록했고, 최근 10경기에서는 5승 5패로 비교적 균형 잡힌 성적을 거뒀습니다. 평균 득점이 3.0으로 디트로이트 레드윙스보다 높으며 최근 10경기에는 3.6득점을 기록하며 공격력이 살아나고 있습니다. 원정경기에서는 11경기 4승 7패로 다소 약한 모습을 보였으나 최근 콜로라도 애빌란치전 승리를 제외하면 대체로 선방을 펼치고 있습니다. 특히 11월 들어 시카고 블랙호크스, 콜럼버스 블루재켓스, 애너하임 덕스전에서 연승을 거두며 상승세를 타는 모습입니다. 최근 경기력이 안정되고 있어 이번 원정 경기에서도 좋은 성적을 기대할 수 있을 것으로 보입니다."
+homePower: "홈에서 7승 7패로 50% 승률, 홈 어드벤티지 강함|최근 10경기 3승 7패, 경기력 기복|보스턴 브루인스전 1-4 패배, 최근 대도시 강팀 상대 약함|최근 플로리다 팬더스전 3-5 승, 반등 조짐|26경기 평균 득점 2.7, 공격력은 무난한 편"
+awayPower: "최근 10경기 평균 득점 3.6, 공격력 상승세|최근 3연승 포함 5승, 흐름 우위|콜로라도 애빌란치전 0-4 승, 홈 강팀 상대 선전|보스턴 브루인스전 1-4 패, 최근 대도시 강팀 상대 약함|평균 득점 3.0, 전반적인 공격력 강함"
+h2h: '[]'
+summary: "디트로이트 레드윙스는 홈경기에서 50% 승률을 기록하며 홈 어드밴티지를 잘 활용하고 있으며, 최근 부진을 씻어내기 위해 노력하고 있습니다. 반면 뉴욕 아일런더스는 공격력이 살아나며 최근 3연승 포함 5승을 거두는 등 상승 흐름을 타고 있으며, 이는 홈 팀보다 우위를 점할 가능성이 높습니다. 홈 팀 디트로이트 레드윙스는 경기력이 기복 있는 편이지만, 홈에서는 상대적으로 안정적인 모습을 보이고 있어 이번 경기에서는 치열한 접전이 예상됩니다. 그러나 최근 흐름과 공격력에서 뉴욕 아일런더스가 앞서고 있어, 원정 팀이 우위를 점할 가능성이 높다고 보입니다."
+homeRecent: '[{"date":"26.11.19","home":"디트로이트 레드윙스","away":"보스턴 브루인스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378645575-2026-11-19-detroit-red-wings/"},{"date":"26.11.15","home":"탬파베이 라이트닝","away":"디트로이트 레드윙스","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378621747-2026-11-15-tampa-bay-lightning/"},{"date":"26.11.13","home":"플로리다 팬더스","away":"디트로이트 레드윙스","score":"5-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378609833-2026-11-13-florida-panthers/"},{"date":"26.11.11","home":"세인트루이스 블루스","away":"디트로이트 레드윙스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378599621-2026-11-11-st-louis-blues/"},{"date":"26.11.08","home":"콜로라도 애벌랜치","away":"디트로이트 레드윙스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378586856-2026-11-08-colorado-avalanche/"}]'
+awayRecent: '[{"date":"26.11.20","home":"위니펙 제츠","away":"뉴욕 아일런더스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378653234-2026-11-20-winnipeg-jets/"},{"date":"26.11.18","home":"뉴욕 아일런더스","away":"콜럼버스 블루재킷츠","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378638767-2026-11-18-new-york-islanders/"},{"date":"26.11.15","home":"애너하임 덕스","away":"뉴욕 아일런더스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378628555-2026-11-15-anaheim-ducks/"},{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378615790-2026-11-13-los-angeles-kings/"},{"date":"26.11.10","home":"산호세 샤크스","away":"뉴욕 아일런더스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378595366-2026-11-10-san-jose-sharks/"}]'
+injuryHome: "William Wallinder (경미, 데이 투 데이 상태) | Dylan Larkin (주요, 부상자 명단 등재) | Simon Edvinsson (주요, 부상자 명단 등재)"
+injuryAway: "Logan Stanley (경미, 데이 투 데이 상태) | Ryan Pulock (경미, 데이 투 데이 상태) | Alexander Romanov (주요, 부상자 명단 등재, 수술 후 회복 중)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 아일런더스"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 아일런더스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "2"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "플로리다 팬더스 vs 버펄로 세이버스 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-21T23:00:00.000Z
+description: "플로리다 팬더스 vs 버펄로 세이버스 하키분석: 전반적인 전력은 플로리다 팬더스가 5할 승률과 리그순위 8위, 평균 득점 3.3점으로 한 단계 위를 가고 있으며, 버펄로 세이… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378660042-2026-11-22-florida-panthers"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "플로리다 팬더스"
+awayTeam: "버펄로 세이버스"
+homeLogo: "https://highlightly.net/hockey/images/teams/582868.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/574358.png"
+homeAnalysis: "플로리다 팬더스는 앞선 26경기에서 13승 13패로 승률 50%를 기록했고, 최근 10경기 5승 5패로 전반 전적과 동일한 선에서 흐름을 유지하고 있습니다. 현재 리그순위 8위(12승 8패, 8경기차, 득실 +4.0)에 머물러 있어 5할 전적으로 상위권까지 치고 올라가지 못한 상황이었습니다. 득점력은 경기당 평균 3.3점으로 꾸준히 뽑아내는 편이지만, 수비에서 승패가 갈리는 경기들이 이어지고 있습니다. 특히 11월 중순 이후 보스턴 브루인스, 워싱턴 캐피털스, 에드먼튼 오일러스에게 연패를 허용하면서 수비 불안이 드러났고, 디트로이트 레드 윙스와의 5대 4 승리로 반등 조짐을 보여주고 있습니다. 홈에서는 시카고 블랙호크스 5대 3, 디트로이트 5대 4처럼 치열한 흐름 속에서도 끝까지 가져가는 집중력이 강점으로 평가됩니다."
+awayAnalysis: "버펄로 세이버스는 앞선 33경기에서 14승 19패로 승률 42%를 기록했고, 최근 10경기 4승 6패로 전반 전적보다 다소 부진한 흐름을 보이고 있습니다. 현재 리그순위 10위(9승 9패, 13경기차, 득실 -13.0)로 낮은 순위에 머물러 있지만, 직전 워싱턴 캐피털스와의 원정 경기에서 6득점을 기록하며 화력을 확인시켜 줍니다. 전반적으로 경기당 평균 득점이 3.0선에 머물러 득점 효율이 아쉬운 가운데, 실점 관리에서 고르게 흔들리는 모습이 반복되고 있습니다. 탬파베이트 라이팅스전 3대 8 패배처럼 한 경기에서 크게 뒤지는 경우가 있어 수비 안정성이 변수로 꼽히고, 반면 콜럼버스 블루재트스 5대 2 승리처럼 주도권 잡는 경기에서는 강한 모습도 보이고 있습니다. 이번 원정에서도 득점을 늘리되 실점을 묶어내는 수비 집중력이 승부에 쏠릴 것으로 보입니다."
+homePower: "플로리다 팬더스 평균 득점 3.3점은 꾸준함의 증거|최근 10경기 5승 5패는 기복 없는 균형형|5대 4 디트로이트 승리로 역전 집중력 확보|홈 5대 3 승리로 안정적 운영력 검증됨|평균 실점 관리가 승부처로 작용함"
+awayPower: "버펄로 세이버스 직전 6득점으로 화력 회복|리그순위 10위지만 최근 원정 4승으로 반등|평균 득점 3.0선은 효율 개선 필요|3대 8 패배로 수비 취약 구간 노출|콜럼버스 5대 2 승리로 주도권 공격 확인"
+h2h: '[{"date":"26.10.13","home":"버펄로 세이버스","away":"플로리다 팬더스","score":"5-3","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378426868-2026-10-13-buffalo-sabres/"}]'
+summary: "전반적인 전력은 플로리다 팬더스가 5할 승률과 리그순위 8위, 평균 득점 3.3점으로 한 단계 위를 가고 있으며, 버펄로 세이버스는 4할대 승률과 리그순위 10위, 평균 득점 3.0선으로 다소 낮은 흐름입니다. 득점에서는 플로리다 팬더스가 꾸준함을 보이고 있고, 수비에서는 버펄로 세이버스가 실점 관리에서 흔들리는 구간에 놓여 있습니다. 최근 상대전적에서 버펄로 세이버스가 5대 3으로 앞선 만큼, 원정에서 화력을 확인한 이번 경기에서는 버펄로 세이버스가 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.18","home":"플로리다 팬더스","away":"에드먼턴 오일러스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378639618-2026-11-18-florida-panthers/"},{"date":"26.11.16","home":"댈러스 스타스","away":"플로리다 팬더스","score":"2-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631959-2026-11-16-dallas-stars/"},{"date":"26.11.15","home":"세인트루이스 블루스","away":"플로리다 팬더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620045-2026-11-15-st-louis-blues/"},{"date":"26.11.13","home":"플로리다 팬더스","away":"디트로이트 레드윙스","score":"5-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378609833-2026-11-13-florida-panthers/"},{"date":"26.11.11","home":"콜럼버스 블루재킷츠","away":"플로리다 팬더스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378598770-2026-11-11-columbus-blue-jackets/"}]'
+awayRecent: '[{"date":"26.11.20","home":"워싱턴 캐피털스","away":"버펄로 세이버스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378652383-2026-11-20-washington-capitals/"},{"date":"26.11.18","home":"필라델피아 플라이어스","away":"버펄로 세이버스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378636214-2026-11-18-philadelphia-flyers/"},{"date":"26.11.15","home":"댈러스 스타스","away":"버펄로 세이버스","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626853-2026-11-15-dallas-stars/"},{"date":"26.11.13","home":"시카고 블랙호크스","away":"버펄로 세이버스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378613237-2026-11-13-chicago-blackhawks/"},{"date":"26.11.12","home":"버펄로 세이버스","away":"탬파베이 라이트닝","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378602174-2026-11-12-buffalo-sabres/"}]'
+injuryHome: "Jonah Gadjovich (사urgery로 인한 결장)|Brad Marchand (결장 중)|Aleksander Barkov (결장 중)"
+injuryAway: "Konsta Helenius (결장 중)|Justin Danforth (결장 중)|Matt Grzelcyk (결장 중)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "버펄로 세이버스"
+pickWinResult: "승"
+pickHandicapTeam: "버펄로 세이버스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "필라델피아 76ers vs 밀워키 벅스 농구분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-21T18:00:00.000Z
+description: "필라델피아 76ers vs 밀워키 벅스 농구분석: 이번 맞대결에서는 필라델피아 76ers의 우세가 예상됩니다. 필라델피아 76ers은 최근 10경기 8승 2패로 상승세를 이어가… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109816-2026-11-22-philadelphia-76ers"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "필라델피아 76ers"
+awayTeam: "밀워키 벅스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/20_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/15_300300.png"
+homeAnalysis: "필라델피아 76ers은 앞선 23경기에서 13승 10패로 승률 57%를 기록했고, 최근 10경기에서는 8승 2패로 확실히 살아나고 있습니다. 특히 직전 5연승을 질주하는 상승세를 이어가고 있어 최근 경기력이 매우 좋은 편입니다. 평균 득점이 106.9점으로 꾸준한 화력을 유지하는 가운데, 홈에서는 보스턴 셀틱스와 디트로이트 피스턴스 등 강팀相手に 다수 승리를 거두는 홈 강세 면모가 돋보입니다. 다만 밀워키 벅스를 상대로 한 최근 맞대결에서 승리를 거뒀던 만큼 상대 상성 우위도 확인된 상태입니다. 현재 리그순위 1위로 13승 3패를 달리고 있는 점과 비교하면, 제공된 최근 경기 흐름에서는 조금 주춤한 모습이지만 전체 전력 자체는 여전히 최상위권이라 평가됩니다."
+awayAnalysis: "밀워키 벅스는 앞선 17경기에서 3승 14패로 승률 18%를 기록했고, 최근 10경기에서는 1승 9패에 그치며 깊은 부진에 빠져 있습니다. 평균 득점이 101.9점으로 낮게 형성되어 있는 가운데, 최근 경기들에서 오를란도 매직, 마이애미 히트, 애틀랜타 호크스 등 다수의 팀에게 연패를 당하는 흐름이 보입니다. 현재 리그순위 15위로 1승 15패에 머물러 있어 제공된 최근 경기 흐름과 순위가 일치하는 극도의 부진 상태입니다. 홈 경기에서도 로스앤젤레스 레이크어스, 미니소타 팀버울브스에게 패하는 등 안정적인 승수를 쌓지 못하고 있어 공격과 수비 전반의 밸런스가 무너진 모습입니다. 다만 평균 득점이 최근 111.4점대로 올라가는 추세라 화력 자체는 살아 있지만, 실점을 막지 못하며 승리를 챙기지 못하는 패턴이 반복되고 있습니다."
+homePower: "필라델피아 76ers 최근 10경기 8승 2패, 상승세 굳건|최근 5연승 포함 연승 흐름, 몰아치기 능력|보스턴 셀틱스 상대 3승 1패, 강팀 상성 우위|평균 득점 106.9점, 안정적 화력|리그순위 1위, 전체 전력 최상위권"
+awayPower: "밀워키 벅스 최근 10경기 1승 9패, 극심한 부진|리그순위 15위 1승 15패, 승수 확보 곤란|최근 실점 111.4점대, 수비 불안|필라델피아 76ers 상대 1승 1패, 상성 열세|득점 회복세에도 연패 탈출 실패"
+h2h: '[{"date":"26.10.25","home":"필라델피아 76ers","away":"밀워키 벅스","score":"127-116","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102420-2026-10-25-philadelphia-76ers/"},{"date":"26.07.19","home":"밀워키 벅스","away":"필라델피아 76ers","score":"96-94","link":"https://pick79.com/posts/detail/analyze-504364-2026-07-19-milwaukee-bucks/"}]'
+summary: "이번 맞대결에서는 필라델피아 76ers의 우세가 예상됩니다. 필라델피아 76ers은 최근 10경기 8승 2패로 상승세를 이어가는 한편, 밀워키 벅스는 최근 10경기 1승 9패로 깊은 부진에 빠져 있어 양 팀의 최근 흐름 차이가 뚜렷합니다. 득점 면에서도 필라델피아 76ers이 106.9점대 평균 득점을 안정적으로 유지하는 데 비해 밀워키 벅스는 실점을 막지 못하며 승리를 챙기지 못하는 패턴이 반복되고 있어, 공수 밸런스에서 홈팀이 한 수 위입니다. 상대전적에서도 지난 맞대결 127-116 승리를 거둔 필라델피아 76ers의 상성 우위가 살아 있어, 홈 코트에서 승리를 거두는 쪽으로 흐름이 기울 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.19","home":"올랜도 매직","away":"필라델피아 76ers","score":"116-121","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109794-2026-11-19-orlando-magic/"},{"date":"26.11.17","home":"브루클린 네츠","away":"필라델피아 76ers","score":"123-135","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109782-2026-11-17-brooklyn-nets/"},{"date":"26.11.16","home":"필라델피아 76ers","away":"인디애나 페이서스","score":"131-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109769-2026-11-16-philadelphia-76ers/"},{"date":"26.11.13","home":"필라델피아 76ers","away":"토론토 랩터스","score":"123-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109751-2026-11-13-philadelphia-76ers/"},{"date":"26.11.03","home":"필라델피아 76ers","away":"시카고 불스","score":"126-107","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110220-2026-11-03-philadelphia-76ers/"}]'
+awayRecent: '[{"date":"26.11.20","home":"밀워키 벅스","away":"포틀랜드 트레일블레이저스","score":"114-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109803-2026-11-20-milwaukee-bucks/"},{"date":"26.11.19","home":"마이애미 히트","away":"밀워키 벅스","score":"137-130","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109793-2026-11-19-miami-heat/"},{"date":"26.11.16","home":"밀워키 벅스","away":"애틀랜타 호크스","score":"106-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109776-2026-11-16-milwaukee-bucks/"},{"date":"26.11.14","home":"올랜도 매직","away":"밀워키 벅스","score":"107-99","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109756-2026-11-14-orlando-magic/"},{"date":"26.11.12","home":"밀워키 벅스","away":"LA 레이커스","score":"112-123","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109746-2026-11-12-milwaukee-bucks/"}]'
+injuryHome: "Dominick Barlow (골절 결장)|Dean Wade (근육 경결 결장)|Adem Bona (인대 염좌 결장)|Jaylen Brown (상세 미정 결장)|Tyrese Maxey (관찰 중 결장)"
+injuryAway: "Ousmane Dieng (수술 후 결장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "필라델피아 76ers"
+pickWinResult: "승"
+pickHandicapTeam: "필라델피아 76ers"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---

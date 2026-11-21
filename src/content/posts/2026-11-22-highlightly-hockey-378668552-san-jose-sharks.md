@@ -1,0 +1,37 @@
+---
+title: "산호세 샤크스 vs 시애틀 크라켄 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T03:00:00.000Z
+description: "산호세 샤크스 vs 시애틀 크라켄 하키분석: Comparing the two, 시애틀 크라켄 have the stronger overall picture. Their 57… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378668552-2026-11-22-san-jose-sharks"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "산호세 샤크스"
+awayTeam: "시애틀 크라켄"
+homeLogo: "https://highlightly.net/hockey/images/teams/593931.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/1222820.png"
+homeAnalysis: "산호세 Sharks have posted a 43 percent win rate in the last 28 games, winning 12 and losing 16, and they enter this matchup with momentum to manage. Their offense has been productive, scoring an average of 2.9 goals per game, which shows their attacking side is reliable. The problem is defense: their goal differential sits at minus 21 in the league standings, the worst among the teams here, meaning they leak goals even when they score. At home specifically they have been fragile, dropping 2 to 5 to the 캘거리 플레임스 in their most recent match and 1 to 2 to the Flames earlier as well, so home games have not been a safe haven. Four key skaters are out, including Kiefer Sherwood, Igor Chernyshov, Quentin Musty, and Kyle Keyser, all long-term absences, which will thin the depth they can rotate through. In the standings they sit 11th, a spot that does not match their scoring, and closing that gap comes down to whether they can stop the bleeding on the defensive side of the puck."
+awayAnalysis: "시애틀 크라켄 come in at a 57 percent win rate over their last 23 games, winning 13 and losing 10, which makes them the more consistent side of this pairing. Their scoring engine is the better one, putting up an average of 3.4 goals per game, and their goal differential of minus 3 in the standings shows they balance attack with defense far more cleanly than their opponent. On the road they have handled pressure, beating 필라델피아 Flyers, 워싱턴 캐피털스, 디트로이트 레드윙스, and 탬파베이 라이트닝 all on the away side, and the recent 5 to 1 win over the 밴쿠버 카넉스 at home capped a 5 win stretch. Their main risk is variance: a 1 to 5 loss at the 캐롤라이나 허리케인스 and a 4 to 3 result against the 뉴욕 레인저스 show they can lose close and get overwhelmed on the other end. Three regulars are missing, Jake O'Brien, Curtis Douglas, and Jared McCann, all long-term, so their depth is tested even if the top lines stay intact. At 12th in the standings, just one spot below their host, the gap in form favors them heading into this one."
+homePower: "Recent five games include four of the last five at or under two goals for, so the finish is unreliable|The minus 21 differential signals a scoring side outpacing the defense|Four long-term skaters out, so the rotation is thinner than the standings suggest|Home results vs. 캘거리 플레임스 show the arena is not a safe place to bounce back"
+awayPower: "The 57 percent mark over 23 games is the most stable stretch of the pair|A minus 3 differential shows attack and defense are actually balanced|Wins at 필라델피아, Washington, Detroit, and Tampa show they can beat tough road opponents|The 5 to 1 win over 밴쿠버 FC shows the top end is sharp when it clicks"
+h2h: '[]'
+summary: "Comparing the two, 시애틀 크라켄 have the stronger overall picture. Their 57 percent win rate and 3.4 goals per game give them the better offense, and their minus 3 goal differential shows they defend as well as they attack, whereas 산호세 Sharks score 2.9 per game but leak goals on a minus 21 differential. Both teams are short on depth, with four long-term absences on the home side and three on the away side, so the better-protected team should hold the edge. 시애틀 크라켄 have the steadier form and the better balance, and that points to them having the upper hand here."
+homeRecent: '[{"date":"26.11.18","home":"산호세 샤크스","away":"캘거리 플레임스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378644724-2026-11-18-san-jose-sharks/"},{"date":"26.11.16","home":"산호세 샤크스","away":"내슈빌 프레데터스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378632810-2026-11-16-san-jose-sharks/"},{"date":"26.11.15","home":"유타 매머드","away":"산호세 샤크스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378627704-2026-11-15-utah-mammoth/"},{"date":"26.11.12","home":"산호세 샤크스","away":"피츠버그 펭귄스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378605578-2026-11-12-san-jose-sharks/"},{"date":"26.11.10","home":"산호세 샤크스","away":"뉴욕 아일런더스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378595366-2026-11-10-san-jose-sharks/"}]'
+awayRecent: '[{"date":"26.11.20","home":"시애틀 크라켄","away":"밴쿠버 카넉스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378656638-2026-11-20-seattle-kraken/"},{"date":"26.11.15","home":"캐롤라이나 허리케인스","away":"시애틀 크라켄","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378618343-2026-11-15-carolina-hurricanes/"},{"date":"26.11.13","home":"시애틀 크라켄","away":"캐롤라이나 허리케인스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378607280-2026-11-13-seattle-kraken/"},{"date":"26.11.08","home":"시애틀 크라켄","away":"뉴욕 레인저스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378580048-2026-11-08-seattle-kraken/"},{"date":"26.11.05","home":"시애틀 크라켄","away":"캘거리 플레임스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378565581-2026-11-05-seattle-kraken/"}]'
+injuryHome: "Kiefer Sherwood (Not Specified)|Igor Chernyshov (Injured Reserve)|Quentin Musty (Injured Reserve)|Kyle Keyser (Injured Reserve)"
+injuryAway: "Jake O'Brien (Injured Reserve)|Curtis Douglas (Injured Reserve)|Jared McCann (Injured Reserve)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시애틀 크라켄"
+pickWinResult: "Win"
+pickHandicapTeam: "시애틀 크라켄"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---

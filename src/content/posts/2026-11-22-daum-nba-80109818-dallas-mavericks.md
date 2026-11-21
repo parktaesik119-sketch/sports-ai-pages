@@ -1,0 +1,37 @@
+---
+title: "댈러스 매버릭스 vs LA 클리퍼스 농구분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T01:00:00.000Z
+description: "댈러스 매버릭스 vs LA 클리퍼스 농구분석: 댈러스 매버릭스는 직전 골든스테이트 워리어스전에서 홈 22득점 차 승리를 거두며 상승 흐름을 보이고 있고, 최근 10경기 10… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109818-2026-11-22-dallas-mavericks"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "댈러스 매버릭스"
+awayTeam: "LA 클리퍼스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/6_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/12_300300.png"
+homeAnalysis: "댈러스 매버릭스는 앞선 13경기에서 5승 8패로 승률 38%를 기록했고, 직전 골든스테이트 워리어스전 116대 94 승리 이후에도 여전히 불안한 흐름입니다. 최근 10경기에서 평균 득점이 106.5점에 달하는 반면, 보스턴 셀틱스전과 클리블랜드 캐버리어스전 모두 94점으로 실점이 크게 쌓이는 모습을 보여주고 있습니다. 현재 리그순위 10위, 8승 7패에 해당하는 전적은 직전 승리를 포함하면 반등 조짐으로 읽히지만, 시즌 전체 득실 격차 -13.0은 득점력과 실점력이 대등한 수준에 머무르고 있음을 시사합니다. 특히 원정 5경기에서 3실점대 실점이 반복되는 보스턴전, 클리블랜드전, 미네소타전과 달리 홈에서는 신시내티 등 상대에 110점대 득점으로 대응하는 능력이 돋보입니다. 수비 조직력이 흔들리는 날에는 공격의 꾸준함만으론 승리를 담보하기 어렵다는 점이 이번 경기에서 주목할 부분입니다."
+awayAnalysis: "LA 클리퍼스는 앞선 13경기에서 5승 8패로 승률 38%를 기록했고, 최근 10경기 평균 득점이 111.6점으로 공격에서 활기가 살아나고 있습니다. 샌안토니오 스퍼스전 124대 112, 유타 재즈전 107대 132의 대조적인 실점 흐름이 이어지는 가운데, 홈에서 오클라호마시티 서더스, 샬럿 호니츠를 상대로 연승을 거두며 강팀 전에서도 승수를 쌓고 있습니다. 현재 리그순위 13위, 4승 10패에 득실 격차 -87.0은 실점 관리에서 뚜렷한 취약점을 드러내고 있어, 득점력은 있으나 수비에서 경기마다 크게 흔들리는 패턴으로 평가됩니다. 특히 브랜든 잉험, 브래들리 비엘의 결장이 수비와 공격 모두에서 공백이 큰 상황으로, 상대에 125점 이상 실점한 경기가 여러 차례 포함되어 있습니다."
+homePower: "직전 골든스테이트전 홈 대결 22득점 차 우위, 홈 운영 안정성|최근 10경기 106.5점 화력 vs 평균 실점 관리 공존|리그순위 10위 8승 7패 반등 조짐 속 득실 -13.0 균형|보스턴전, 클리블랜드전 94점 실점, 원정 수비 집중력 취약|미네소타전 133실점 등 고실점 패, 실점 대폭발 변수"
+awayPower: "최근 10경기 111.6점 화력, 공격 리듬 유지|홈 2연승(서더스, 호니츠) 강팀 상대 승수 쌓음|리그순위 13위 4승 10패, 득실 -87.0 실점 관리 약점|잉험, 비엘 주요 결장, 수비 로테이션 공백|스퍼스전, 재즈전 고실점, 경기별 실점 편차 큼"
+h2h: '[]'
+summary: "댈러스 매버릭스는 직전 골든스테이트 워리어스전에서 홈 22득점 차 승리를 거두며 상승 흐름을 보이고 있고, 최근 10경기 106.5점의 꾸준한 화력으로 홈에서 안정적인 운영력을 보여주고 있습니다. LA 클리퍼스는 최근 10경기 111.6점으로 득점력이 더 돋보이지만, 리그순위 13위 4승 10패에 따른 득실 격차 -87.0이 실점 관리의 뚜렷한 약점으로 드러나고 있습니다. 브랜든 잉험과 브래들리 비엘의 결장은 LA 클리퍼스의 수비 로테이션에 큰 공백으로 작용하고 있어, 홈의 운영 안정성과 화력에서 댈러스 매버릭스가 상대 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.11.19","home":"댈러스 매버릭스","away":"골든스테이트 워리어스","score":"116-94","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109800-2026-11-19-dallas-mavericks/"},{"date":"26.11.16","home":"보스턴 셀틱스","away":"댈러스 매버릭스","score":"131-94","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109773-2026-11-16-boston-celtics/"},{"date":"26.11.15","home":"클리블랜드 캐벌리어스","away":"댈러스 매버릭스","score":"127-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109765-2026-11-15-cleveland-cavaliers/"},{"date":"26.11.13","home":"미네소타 팀버울브스","away":"댈러스 매버릭스","score":"133-94","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109753-2026-11-13-minnesota-timberwolves/"},{"date":"26.11.03","home":"댈러스 매버릭스","away":"새크라멘토 킹스","score":"100-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110206-2026-11-03-dallas-mavericks/"}]'
+awayRecent: '[{"date":"26.11.20","home":"샌안토니오 스퍼스","away":"LA 클리퍼스","score":"124-112","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109805-2026-11-20-san-antonio-spurs/"},{"date":"26.11.18","home":"LA 클리퍼스","away":"유타 재즈","score":"107-132","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109790-2026-11-18-la-clippers/"},{"date":"26.11.16","home":"LA 클리퍼스","away":"샬럿 호네츠","score":"113-105","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109771-2026-11-16-la-clippers/"},{"date":"26.11.14","home":"LA 클리퍼스","away":"오클라호마시티 썬더","score":"113-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109763-2026-11-14-la-clippers/"},{"date":"26.11.03","home":"LA 클리퍼스","away":"토론토 랩터스","score":"118-125","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110212-2026-11-03-la-clippers/"}]'
+injuryHome: "P.J. Washington (경미: Day-To-Day)|Walter Clayton Jr. (경미: Day-To-Day)|Dereck Lively II (주요: 수술 결장)|Tobi Lawal (경미: Day-To-Day)|Sergio de Larrea (주요: 근육 염좌 결장)"
+injuryAway: "Brandon Ingram (주요: 수술 결장)|Bradley Beal (주요: 염증 결장)|Jordan Miller (주요: 수술 결장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "LA 클리퍼스"
+pickWinResult: "승"
+pickHandicapTeam: "LA 클리퍼스"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---

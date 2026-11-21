@@ -1,0 +1,37 @@
+---
+title: "유타 매머드 vs 애너하임 덕스 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T02:00:00.000Z
+description: "유타 매머드 vs 애너하임 덕스 하키분석: 최근 흐름만 놓고 보면 애너하임 덕스가 유타 매머드보다 한 박자 앞서가는 분위기입니다. 애너하임 덕스는 최근 10경기 6승 4… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378667701-2026-11-22-utah-mammoth"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "유타 매머드"
+awayTeam: "애너하임 덕스"
+homeLogo: "/logos/utah-mammoth.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/570954.png"
+homeAnalysis: "유타 매머드는 앞선 32경기에서 15승 17패로 승률 47%를 기록했고, 이 흐름 속에 최근 10경기에서 3승 7패로 주춤하는 모습이 보였습니다. 다만 최근 경기 DB에서 확인되는 전체 평균 득점이 3.4점에 달하고 있으며, 10월 2일 시카고 블랙후크스전 6대 0 승리나 9월 26일 콜로라도 아발랜치전 2대 0 승리처럼 완밀로 상대를 눌러본 경험도 확보되어 있습니다. 문제는 최근 흐름 속에서 수비 안정감이 흔들린다는 점입니다. 11월 들어 샌호세 섹스전 5대 6, 밴쿠버 카나츠전 2대 3, 스털루이스 블루스전 0대 1처럼 아쉽게 내주거나 점수를 거의 못 넣은 경기가 이어졌습니다. 리그순위 7위에 위치하고 있지만 최근 흐름은 그보다 아래로 내려가는 모양새라, 홈에서 최근 콜로라도 아발랜치전 4대 1 승리가 반등 신호로 읽히는 분위기입니다. 홈팀 결장자 정보에 존 마리고, 디클런 켄더, 닉 슈멀츠, 네이트 쉬뭄트, 매버릭 라무룩스가 포함되어 있어 전력 공백이 부담스러운 상황입니다."
+awayAnalysis: "애너하임 덕스는 앞선 35경기에서 17승 18패로 승률 49%를 기록했고, 최근 10경기에서는 6승 4패로 좋은 흐름을 유지하고 있습니다. 최근 경기 DB에서 확인되는 전체 평균 득점이 3.5점이며, 11월 들어 캘거리 플레임스전 6대 1, 피츠버그 피겐스전 5대 2, 오타와 센티널스전 6대 3처럼 다득점 승리가 이어진 점이 눈에 띕니다. 이 흐름은 11월 4일과 11월 6일 원정에서 밴쿠버 카나츠, 에드먼튼 오일러스를 각각 5득점으로 제압하며 이어졌고, 원정에서 강한 화력을 보여준 흐름으로 평가됩니다. 다만 11월 18일 스털루이스 블루스전 6대 8과 11월 20일 콜로라도 아발랜치전 0대 4에서 수비 집중력이 흔들린 장면이 있어, 상대가 강한 팀을 만나면 실점이 늘 수 있다는 변수가 있습니다. 원정 결장자 정보에 라이언 포엘링과 A.J. 그리어가 포함되어 있지만, 최근 다득점 승리가 이어진 만큼 이 두 선수 공백에 대한 부담은 상대적으로 낮아 보입니다."
+homePower: "11월 들어 10경기 중 7패, 수비 집중력 흔들림이 뚜렷함|최근 경기 DB 전체 평균 득점 3.4점, 화력은 유지 중임|10월 2일 6대 0 완밀로, 홈에서 밀집 수비 운영 경험 보유|리그순위 7위지만 최근 흐름은 그 아래, 반등 시점 필요|결장자 5명 중 주력 공격진 포함, 전력 공백 부담 큼"
+awayPower: "최근 10경기 6승 4패, 원정에서 5득점 2승 포함 원정 강함|11월 다득점 5경기, 공격 루트가 살아있음|평균 득점 3.5점, 화력은 홈팀보다 한 단계 위|11월 20일 0대 4 완패 포함, 상대 강팀 만나면 실점 위험|결장자 2명, 공백 부담은 홈팀 대비 적음"
+h2h: '[]'
+summary: "최근 흐름만 놓고 보면 애너하임 덕스가 유타 매머드보다 한 박자 앞서가는 분위기입니다. 애너하임 덕스는 최근 10경기 6승 4패에 11월 다득점 승리가 이어졌고, 홈에서 5득점을 터뜨린 원정 2경기까지 포함해 공격 루트가 살아 있는 모습을 보여주고 있습니다. 유타 매머드는 리그순위 7위지만 최근 10경기 3승 7패로 수비 집중력이 흔들리는 구간이고, 홈에서 콜로라도 아발랜치에 4대 1로 이긴 경기가 반등 신호로 읽힌다 해도 아직 확신할 단계는 아닙니다. 득점력과 결장자 공백을 함께 보면 원정팀 쪽에 균형이 실리는 경기로 보입니다."
+homeRecent: '[{"date":"26.11.19","home":"유타 매머드","away":"콜로라도 애벌랜치","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378647277-2026-11-19-utah-mammoth/"},{"date":"26.11.17","home":"유타 매머드","away":"밴쿠버 카넉스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378635363-2026-11-17-utah-mammoth/"},{"date":"26.11.15","home":"유타 매머드","away":"산호세 샤크스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378627704-2026-11-15-utah-mammoth/"},{"date":"26.11.13","home":"유타 매머드","away":"세인트루이스 블루스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614939-2026-11-13-utah-mammoth/"},{"date":"26.11.12","home":"베가스 골든나이츠","away":"유타 매머드","score":"5-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378604727-2026-11-12-vegas-golden-knights/"}]'
+awayRecent: '[{"date":"26.11.20","home":"콜로라도 애벌랜치","away":"애너하임 덕스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378655787-2026-11-20-colorado-avalanche/"},{"date":"26.11.18","home":"세인트루이스 블루스","away":"애너하임 덕스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378642171-2026-11-18-st-louis-blues/"},{"date":"26.11.16","home":"애너하임 덕스","away":"캘거리 플레임스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631108-2026-11-16-anaheim-ducks/"},{"date":"26.11.15","home":"애너하임 덕스","away":"뉴욕 아일런더스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378628555-2026-11-15-anaheim-ducks/"},{"date":"26.11.12","home":"애너하임 덕스","away":"내슈빌 프레데터스","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378606429-2026-11-12-anaheim-ducks/"}]'
+injuryHome: "John Marino (Injured Reserve)|Dylan Guenther (Injured Reserve)|Nick Schmaltz (Injured Reserve)|Nate Schmidt (Injured Reserve)|Maveric Lamoureux (Injured Reserve)"
+injuryAway: "Ryan Poehling (Injured Reserve)|A.J. Greer (Injured Reserve)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "애너하임 덕스"
+pickWinResult: "승"
+pickHandicapTeam: "애너하임 덕스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---

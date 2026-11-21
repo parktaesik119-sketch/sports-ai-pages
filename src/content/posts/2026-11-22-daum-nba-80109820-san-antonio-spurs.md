@@ -1,0 +1,37 @@
+---
+title: "샌안토니오 스퍼스 vs 뉴올리언스 펠리컨스 농구분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T01:00:00.000Z
+description: "샌안토니오 스퍼스 vs 뉴올리언스 펠리컨스 농구분석: 샌안토니오 스퍼스는 최근 10경기 7승 3패와 평균 111.5득점으로 공격력이 살아나 있는 반면, 뉴올리언스 펠리컨스는 최근 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109820-2026-11-22-san-antonio-spurs"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "샌안토니오 스퍼스"
+awayTeam: "뉴올리언스 펠리컨스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/24_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/3_300300.png"
+homeAnalysis: "샌안토니오 스퍼스는 앞선 36경기에서 20승 16패로 승률 56%를 기록하고 있어 상위권 흐름을 이어가는 모습입니다. 최근 10경기에서는 7승 3패를 거두며 평균 득점이 111.5로 올라온 만큼 화력이 살아나는 추세입니다. 직전 로스앤젤레스 클리퍼스전에서 124득점으로 승리하며 최근 5경기 중 4승을 챙긴 흐름 속에 득점 보폭이 넓다는 강점이 돋보입니다. 현재 리그순위 2위와 13승 3패의 정규리그 성적은 최근 흐름과 서로 잘 맞는 양상이며, 홈 무대에서는 골든스테이트 워리어스를 123대 85로 압도한 장면처럼 상대 압박 대응력이 강점으로 평가됩니다. 다만 딜런 하퍼, 토비어스 해리스, 제이든 콸텐스가 모두 이탈해 있는 상황이라 로테이션 폭이 얼마나 버텨주느냐가 이 경기의 핵심 변수로 보입니다."
+awayAnalysis: "뉴올리언스 펠리컨스는 앞선 15경기에서 4승 11패로 승률 27%를 기록하고 있어 하위권 흐름에서 벗어나지 못한 모습입니다. 최근 10경기에서는 2승 8패에 그치며 평균 득점이 118.3으로 높아졌지만 실점 흐름이 이를 따라가지 못해 승패로 이어지지 못했습니다. 골든스테이트 워리어스전 승리를 제외하면 최근 7경기에서 6패를 기록한 만큼 연승 만들기가 어려운 구조가 보입니다. 현재 리그순위 12위와 5승 12패의 정규리그 성적은 최근 부진과 정확히 일치하며, 브루스 맥고웬스, 트렌던 워트퍼드, 벤네딕트 마투린, 드자언테 머리가 모두 빠진 상태라 전력 손실이 큽니다. 득점 자체는 쏟아낼 수 있지만 수비 무너지는 패턴이 반복되는 만큼 공격 집중력을 수비 전환까지 이어주는 연결성이 이번 경기의 숙제로 보입니다."
+homePower: "최근 5경기 4승, 직전 124득점, 화력 상시화|111.5득점, 골든스테이트 상대 38득점차, 압박 대응력|리그순위 2위 13승 3패, 홈 안정감|최근 5패 중 3패, 클리퍼스전 승리 후 리듬 회복|하퍼, 해리스, 콸텐스 이탈, 로테이션 폭 축소 변수"
+awayPower: "최근 7경기 6패, 연승 불가 구조|118.3득점 대비 실점 폭, 수비 전환 단절|리그순위 12위 5승 12패, 하위권 고착|워리어스전 승리 제외 6연패 흐름|머리, 마투린, 맥고웬스, 워트퍼드 4인 결장, 전력 공백"
+h2h: '[]'
+summary: "샌안토니오 스퍼스는 최근 10경기 7승 3패와 평균 111.5득점으로 공격력이 살아나 있는 반면, 뉴올리언스 펠리컨스는 최근 10경기 2승 8패와 평균 118.3득점에도 실점이 커져 승률이 낮은 흐름입니다. 홈에서 골든스테이트 워리어스를 123대 85로 크게 이긴 샌안토니오 스퍼스의 압박 대응력과 리그순위 2위의 안정감을 볼 때, 뉴올리언스 펠리컨스는 드자언테 머리와 벤네딕트 마투린 등이 빠진 공백 속에서 수비 집중력이 더 필요한 상대전적상 열세로 보입니다. 공격 보폭은 뉴올리언스 펠리컨스가 더 넓지만 수비 전환까지 이어지지 못하는 만큼, 샌안토니오 스퍼스가 홈에서 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.20","home":"샌안토니오 스퍼스","away":"LA 클리퍼스","score":"124-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109805-2026-11-20-san-antonio-spurs/"},{"date":"26.11.18","home":"샌안토니오 스퍼스","away":"디트로이트 피스톤스","score":"93-105","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109788-2026-11-18-san-antonio-spurs/"},{"date":"26.11.16","home":"유타 재즈","away":"샌안토니오 스퍼스","score":"102-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109772-2026-11-16-utah-jazz/"},{"date":"26.11.14","home":"샌안토니오 스퍼스","away":"골든스테이트 워리어스","score":"123-85","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109761-2026-11-14-san-antonio-spurs/"},{"date":"26.11.12","home":"시카고 불스","away":"샌안토니오 스퍼스","score":"119-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109745-2026-11-12-chicago-bulls/"}]'
+awayRecent: '[{"date":"26.11.21","home":"오클라호마시티 썬더","away":"뉴올리언스 펠리컨스","score":"126-120","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109812-2026-11-21-oklahoma-city-thunder/"},{"date":"26.11.19","home":"뉴올리언스 펠리컨스","away":"디트로이트 피스톤스","score":"109-122","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109797-2026-11-19-new-orleans-pelicans/"},{"date":"26.11.17","home":"뉴올리언스 펠리컨스","away":"골든스테이트 워리어스","score":"115-94","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109783-2026-11-17-new-orleans-pelicans/"},{"date":"26.11.15","home":"뉴올리언스 펠리컨스","away":"덴버 너기츠","score":"108-116","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109764-2026-11-15-new-orleans-pelicans/"},{"date":"26.11.14","home":"뉴올리언스 펠리컨스","away":"멤피스 그리즐리","score":"111-142","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109757-2026-11-14-new-orleans-pelicans/"}]'
+injuryHome: "Dylan Harper (근육 경직)|Tobias Harris (스트레인)|Jayden Quaintance (수술)"
+injuryAway: "Bryce McGowens (감염)|Trendon Watford (염좌)|Bennedict Mathurin (족저근막염)|Dejounte Murray (결장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌안토니오 스퍼스"
+pickWinResult: "승"
+pickHandicapTeam: "샌안토니오 스퍼스"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "언더"
+---

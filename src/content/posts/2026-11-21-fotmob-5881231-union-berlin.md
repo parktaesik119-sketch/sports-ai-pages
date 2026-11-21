@@ -1,0 +1,37 @@
+---
+title: "우니온 베를린 vs RB 라이프치히 축구분석·승부예측 (11월 21일) - 픽천국"
+date: 2026-11-21T14:30:00.000Z
+description: "우니온 베를린 vs RB 라이프치히 축구분석: 전력 비교를 보면 RB 라이프치히가 최근 24경기 승률 54%에 평균 득점 2.4골로 우니온 베를린의 승률 25%와 평균 득점… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5881231-2026-11-21-union-berlin"
+category: "soccer"
+country: "독일"
+league: "분데스리가"
+homeTeam: "우니온 베를린"
+awayTeam: "RB 라이프치히"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png"
+homeAnalysis: "우니온 베를린은 앞선 24경기에서 6승 7무 11패로 승률 25%를 기록했고, 최근 흐름은 기대하기 어렵다는 쪽으로 기울어 있습니다. 특히 주목할 만한 점은 최근 10경기에서 2승 3무 5패에 평균 득점이 0.5골에 그쳤다는 것이며, 이는 득점 루트가 막혀 있다는 강한 신호입니다. 직전 2경기 볼프스부르크전과 프라이부르크전에서 모두 무득점으로 0대2 패배를 당했고, 10월 콜른 원정에서는 0대5 대패를 당하는 등 실점 관리 측면에서도 취약함이 드러났습니다. 홈에서는 아우크스부르크와 도르트문트를 상대로 1대1, 0대0 무승부를 기록하는 등 무너지지 않는 운영은 보이지만, 최근에는 프랑크푸르트와 3대3 무승부를 제외하면 홈에서도 승리가 부족한 상황입니다. 수비진에서는 주르아노비치, 스코브, 에소키, 마르크그라프가 결장 명단에 올라 있어 측면과 중앙 모두 보강이 필요한 모습입니다."
+awayAnalysis: "RB 라이프치히는 앞선 24경기에서 13승 0무 11패로 승률 54%를 기록했고, 최근 흐름은 승패가 극명하게 갈리는 팀이라는 인상을 주고 있습니다. 최근 10경기에서 6승 4패와 평균 득점 2.8골을 보이면 공격의 꾸준함은 돋보이나 실점도 적지 않다는 균형 잡힌 평가가 가능합니다. 아우크스부르크전 5대2 승리와 엘버스부르크전 4대0 승리, 프랑크푸르트전 6대0 완승 등 홈에서 강한 화력을 과시하고 있지만, 맨체스터 시티전 2대3, 레알 마드리드전 1대4, 바이에른 뮌헨전 1대6 패배로 유럽 무대와 빅클럽 상대에는 약한 편입니다. 직전 경기인 믈라다 보슬라프전에서 4대5로 패해 승리의 흐름이 한풀 꺾였으며, 이는 자신감 측면에서 작은 변수로 보입니다. 결장 명단에는 퍩그레페, 기우, 웨드로고가 있어 공격의 일부 로테이션에 영향을 줄 수 있습니다."
+homePower: "직전 2경기 무득점 연속, 득점 루트 가동 부진 보임|최근 10경기 평균 0.5골, 공격 생산성 저하 확인|홈 무승부 3경기, 큰 점수차 패배를 막는 운영 유지|측면 수비 4명 결장, 수비 로테이션 압박 큼|최근 홈 경기 실점이 적지만 결정력 부재 지속"
+awayPower: "최근 10경기 6승 4패, 승패 양극화 흐름|최근 홈 4경기 4승, 화력 검증 완료|빅클럽 상대 최근 3연패, 큰 경기 취약|공격진 일부 결장, 마무리 로테이션 변수|상대전적 10경기 7승, 상대 전력 우위 확인"
+h2h: '[{"date":"26.04.25","home":"RB 라이프치히","away":"우니온 베를린","score":"3-1","link":"https://pick79.com/posts/detail/analyze-1388584-2026-04-25-rb-leipzig/"},{"date":"25.12.13","home":"우니온 베를린","away":"RB 라이프치히","score":"3-1"},{"date":"25.02.02","home":"우니온 베를린","away":"RB 라이프치히","score":"0-0"},{"date":"24.09.14","home":"RB 라이프치히","away":"우니온 베를린","score":"0-0"},{"date":"24.02.05","home":"RB 라이프치히","away":"우니온 베를린","score":"2-0"}]'
+summary: "전력 비교를 보면 RB 라이프치히가 최근 24경기 승률 54%에 평균 득점 2.4골로 우니온 베를린의 승률 25%와 평균 득점 1.7골에 비해 한 단계 위에 자리하고 있습니다. 특히 주목할 만한 점은 상대전적 10경기에서 RB 라이프치히가 7승 1무 2패로 뚜렷한 우세를 보이고 있으며, 직전 맞대결인 2026년 4월 25일 경기에서도 3대1로 승리했다는 것입니다. 득점과 수비 흐름을 종합하면 홈팀 우니온 베를린은 최근 10경기 평균 0.5골에 직전 2경기 무득점으로 공격이 침체되어 있는 반면, RB 라이프치히는 최근 홈 4경기에서 4승을 거두며 화력을 검증하고 있어 공수 양면에서 유리한 고지를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.11.12","home":"볼프스부르크","away":"우니온 베를린","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6615924-2026-11-12-wolfsburg/"},{"date":"26.11.09","home":"프라이부르크","away":"우니온 베를린","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5881217-2026-11-09-freiburg/"},{"date":"26.11.01","home":"우니온 베를린","away":"쾰른","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5881213-2026-11-01-union-berlin/"},{"date":"26.10.28","home":"쾰른","away":"우니온 베를린","score":"5-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6162742-2026-10-28-1-fc-kln/"},{"date":"26.10.24","home":"아우크스부르크","away":"우니온 베를린","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5881197-2026-10-24-augsburg/"}]'
+awayRecent: '[{"date":"26.11.12","home":"RB 라이프치히","away":"Mladá Boleslav","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6628145-2026-11-12-rb-leipzig/"},{"date":"26.11.07","home":"RB 라이프치히","away":"아우크스부르크","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5881222-2026-11-07-rb-leipzig/"},{"date":"26.11.05","home":"RB 라이프치히","away":"맨시티","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6106322-2026-11-05-rb-leipzig/"},{"date":"26.10.31","home":"샬케 04","away":"RB 라이프치히","score":"0-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5881212-2026-10-31-schalke-04/"},{"date":"26.10.28","home":"RW Essen","away":"RB 라이프치히","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6162750-2026-10-28-rw-essen/"}]'
+injuryHome: "Josip Juranović (병 - 약 1~2주)|Robert Skov (부상 - 2026년 11월 중순)|Stanley N'Soki (종아리 부상 - 2026년 11월 중순)|Andrik Markgraf (십자 인대 부상 - 2027년 3월 초)"
+injuryAway: "Max Finkgräfe (허벅지 부상 - 2026년 11월 말)|Marc Guiu (근육 부상 - 몇 주간)|Assan Ouédraogo (어깨 부상 - 2026년 12월 말)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "RB 라이프치히"
+pickWinResult: "승"
+pickHandicapTeam: "RB 라이프치히"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

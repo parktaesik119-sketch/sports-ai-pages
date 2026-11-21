@@ -1,0 +1,37 @@
+---
+title: "서울 이랜드 FC vs 아산 무궁화 축구분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T07:30:00.000Z
+description: "서울 이랜드 FC vs 아산 무궁화 축구분석: 서울 이랜드 FC는 최근 22경기에서 12승 5무 5패로 승점 47점을 기록하며, 아산 무궁화의 31점을 크게 상회하는 우위를… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5155967-2026-11-22-seoul-e-land-fc"
+category: "soccer"
+country: "대한민국"
+league: "K2"
+homeTeam: "서울 이랜드 FC"
+awayTeam: "아산 무궁화"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/616212.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/429442.png"
+homeAnalysis: "서울 이랜드 FC는 앞선 22경기에서 12승 5무 5패로 승률 55%를 기록했고, 최근 10경기에서도 6승 2무 2패로 좋은 흐름을 이어가고 있습니다. 최근 22경기 평균 득점이 2.0점에 달할 만큼 화력에서는 확실히 두각을 나타내고 있으며, 가장 최근 경기에서 전라남도 드래건스를 상대로 3득점을 기록하며 다시 승리를 거두었습니다. 다만 영인 FC와의 원정 경기에서 4골을 내준 경기가 있었기 때문에 수비 안정화 여부가 이번 경기의 변수로 꼽히고 있습니다. 이번 시즌 내내 홈에서 승점을 꾸준히 쌓아온 만큼 홈 경기에서 경기를 주도할 수 있는 운영 능력이 강점으로 평가됩니다. 상대 아산 무궁화와의 최근 10경기 상대 전적에서 5승으로 우위를 점하고 있어, 이번 맞대결에서도 유리한 흐름을 이어갈 가능성이 높아 보입니다."
+awayAnalysis: "아산 무궁화는 앞선 27경기에서 7승 10무 10패로 승률 26%를 기록했고, 최근 10경기에서는 4승 3무 3패로 조금씩 살아나는 모습을 보이고 있습니다. 최근 27경기 평균 득점이 1.2점으로 다소 낮은 편이었지만, 최근 10경기에서는 평균 1.5득점으로 화력이 살아나는 양상이 있습니다. 특히 최근 5경기에서 기문 포와 수원 FC를 상대로 연승을 거두며 자신감을 되찾았으며, 그 사이에도 무승부 경기가 자주 나타나면서 경기 마무리 능력을 끌어올려야 하는 과제를 안고 있습니다. 최근 10경기 중 5경기가 원정이었는데 그 결과 2승 1무 3패로 원정에서의 승점 획득은 쉽지 않은 모습을 보이고 있어, 이번 서울 원정에서의 활약이 기대되는 부분이었습니다. 상대 서울 이랜드 FC와 최근 10경기 상대 전적에서 4승으로 뒤처지고 있지만, 가장 최근 맞대결에서는 3-0 완승을 거두며 상성에서는 밀리지 않는 모습을 보였습니다."
+homePower: "서울 이랜드 FC 홈 연승 포함 최근 6경기 5승, 홈 위력 확신|최근 22경기 12승 5무 5패, 승점 확보 능력 검증|아산 무궁화 상대 최근 10경기 5승, 상성 우위|최근 10경기 6승 2무 2패, 홈 운영 안정성 확보|서울 이랜드 FC 수비 안정화 여부 핵심 변수"
+awayPower: "아산 무궁화 최근 5경기 무패, 승점 확보 자신감|아산 무궁화 최근 2경기 연속 득점, 화력 회복|아산 무궁화 최근 2경기 무패, 수비 안정성|아산 무궁화 최근 10경기 5무, 경기 마무리 능력|아산 무궁화 원정 5경기 2승, 원정 승수 확보"
+h2h: '[{"date":"26.05.09","home":"아산 무궁화","away":"서울 이랜드 FC","score":"3-0","link":"https://pick79.com/posts/detail/analyze-1510323-2026-05-09-asan-mugunghwa/"},{"date":"25.10.26","home":"서울 이랜드 FC","away":"아산 무궁화","score":"4-1"},{"date":"25.06.28","home":"아산 무궁화","away":"서울 이랜드 FC","score":"1-1"},{"date":"25.02.23","home":"서울 이랜드 FC","away":"아산 무궁화","score":"2-1"},{"date":"24.10.27","home":"서울 이랜드 FC","away":"아산 무궁화","score":"1-2"}]'
+summary: "서울 이랜드 FC는 최근 22경기에서 12승 5무 5패로 승점 47점을 기록하며, 아산 무궁화의 31점을 크게 상회하는 우위를 점하고 있습니다. 두 팀의 최근 10경기 상대 전적에서 서울 이랜드 FC가 5승 3무 2패로 우위를 점하고 있으며, 이번 경기에서는 서울 이랜드 FC가 홈에서 아산 무궁화를 상대로 승리를 거둘 가능성이 높습니다. 아산 무궁화 역시 최근 10경기에서 4승 3무 3패로 무패 기록이 포함되며 살아나는 흐름을 보이고 있지만, 서울 이랜드 FC의 홈 위력과 화력에서 밀릴 가능성이 높습니다. 서울 이랜드 FC는 최근 22경기 평균 2.0득점과 홈에서의 안정된 운영을 바탕으로 승점을 추가할 좋은 기회를 맞이하고 있습니다."
+homeRecent: '[{"date":"26.11.07","home":"서울 이랜드 FC","away":"전남 드래곤즈","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155956-2026-11-07-seoul-e-land-fc/"},{"date":"26.10.31","home":"용인 FC","away":"서울 이랜드 FC","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155945-2026-10-31-yongin-fc/"},{"date":"26.10.18","home":"서울 이랜드 FC","away":"김해 시티","score":"6-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155933-2026-10-18-seoul-e-land-fc/"},{"date":"26.10.09","home":"김포 시티즌","away":"서울 이랜드 FC","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155922-2026-10-09-gimpo-fc/"},{"date":"26.09.19","home":"서울 이랜드 FC","away":"대구 FC","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155915-2026-09-19-seoul-e-land-fc/"}]'
+awayRecent: '[{"date":"26.11.08","home":"파주 시티즌","away":"아산 무궁화","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155959-2026-11-08-paju-frontier/"},{"date":"26.10.31","home":"아산 무궁화","away":"김포 시티즌","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155946-2026-10-31-chungnam-asan-fc/"},{"date":"26.10.25","home":"수원 FC","away":"아산 무궁화","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000020050-2026-10-25-suwon-fc/"},{"date":"26.10.17","home":"경남 FC","away":"아산 무궁화","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155931-2026-10-17-gyeongnam-fc/"},{"date":"26.10.10","home":"김해 시티","away":"아산 무궁화","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155926-2026-10-10-gimhae-fc-2008/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "서울 이랜드 FC"
+pickWinResult: "승"
+pickHandicapTeam: "서울 이랜드 FC"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "1"
+pickOuValue: ""
+pickOuDirection: ""
+---

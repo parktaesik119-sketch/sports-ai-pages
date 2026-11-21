@@ -1,0 +1,37 @@
+---
+title: "보루시아 묀헨글라트바흐 vs 보루시아 도르트문트 축구분석·승부예측 (11월 21일) - 픽천국"
+date: 2026-11-21T14:30:00.000Z
+description: "보루시아 묀헨글라트바흐 vs 보루시아 도르트문트 축구분석: 보루시아 묀헨글라트바흐는 최근 10경기 4승 1무 5패로 기복이 있는 흐름을 보였고, 홈 무대에서는 2-0, 3-2 승리로 승… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-5881227-2026-11-21-borussia-mnchengladbach"
+category: "soccer"
+country: "독일"
+league: "분데스리가"
+homeTeam: "보루시아 묀헨글라트바흐"
+awayTeam: "보루시아 도르트문트"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png"
+homeAnalysis: "보루시아 묀헨글라트바흐는 앞선 22경기에서 13승 2무 7패로 승률 59%를 기록했고, 이번 경기를 앞둔 흐름은 최근 10경기 4승 1무 5패에서 드러나듯 다소 흔들리고 있습니다. 직전 26/11/12 스탠다드 리에주와 경기에서 1-0으로 승리를 거두며 분위기를 잠시 끌어올렸지만, 그 전 한설버흐 SV, 바펜, 코른 등과의 경기에서 연이어 패배한 기록을 보니 경기력에서 기복이 존재하는 점이 돋보입니다. 홈 무대에서는 슈투트가르트전 3-2 역전승, 카를스루에 SC전 2-0 승리로 승리를 챙겼으나, 파더본전에서 0-0 무승부를 기록하는 등 무득점 경기가 반복되는 마무리 효율이 아쉬운 부분으로 보입니다. 수비에서는 프리부어전 0-5, 루즈벡전 0-3, 마인츠 05전 3-4와 같이 대량 실점을 허용한 경기가 적지 않아 안정적인 조직력이 필요한 시점입니다. 현재 리그순위 18위, 1승 7패 1무,得失 12-25(-13.0)를 보니 승률이 좋았던 최근 경기 흐름과는 온도차가 크고, 반등 조짐을 확인하려면 홈 경기에서 실점 최소화 운영이 관건이 될 것 같습니다."
+awayAnalysis: "보루시아 도르트문트는 앞선 47경기에서 25승 5무 17패로 승률 53%를 기록했고, 최근 10경기 6승 3무 1패의 흐름은 상위권팀답게 안정적으로 유지되고 있습니다. 직전 엘버스베르크전 2-1, 리에스베티스전 2-1로 연속 승리를 거두며 공격 포인트를 꾸준하게 쌓고 있으며, 바페른전, 프랑크푸르트전, 자바프크전 등에서도 승리를 챙긴 기록이 보입니다. 특히 프리부어 원정에서 1-0, 스푸트가르트 원정에서 1-0으로 적중 경기를 잡아낸 기록은 원정 무대에서도 득점력을 발휘할 수 있음을 시사합니다. 다만 바페른 원정 0-0, 부레몬 원정 2-2, 바이에른 뮌헨 원정 2-2와 같이 무승부와 대결이 잦아 마지막 집중력에서 실점을 허용하는 모습이 가끔 있습니다. 현재 리그순위 2위, 6승 0패 3무,得失 16-7(+9.0)를 보면 최근 원정 흐름과 상위권 체력이 잘 맞아떨어지고 있어 고점 대비 주춤한 기색은 찾아보기 어렵습니다. 원정 무대에서도 승리를 6번 이상 확보한 만큼 원정 경기 운영에 대한 신뢰가 있는 것으로 보입니다."
+homePower: "최근 2경기 연속 무득점-1실점 경기, 마무리 집중력은 변수|대량 실점 경기 4회, 수비 안정성 보완 필요|홈 무득점 1회 포함 득점 효율 기복 있음|리그순위 18위와 최근 4승1무5패, 흐름 온도차|직전 경기 1-0 승리로 반등 조짐 확인"
+awayPower: "최근 10경기 6승 3무 1패, 원정 안정성 입증|리그순위 2위, 得失 +9.0 득실 우위|프리부어 원정 1-0, 스푸트가르트 원정 1-0|대결권 10경기 무 1회, 집중력 아쉬움|최근 2경기 연속 2득점, 화력 꾸준"
+h2h: '[{"date":"26.05.04","home":"보루시아 묀헨글라트바흐","away":"보루시아 도르트문트","score":"1-0","link":"https://pick79.com/posts/detail/analyze-1388589-2026-05-04-borussia-mnchengladbach/"},{"date":"25.12.20","home":"보루시아 도르트문트","away":"보루시아 묀헨글라트바흐","score":"2-0"},{"date":"25.04.21","home":"보루시아 도르트문트","away":"보루시아 묀헨글라트바흐","score":"3-2"},{"date":"24.12.08","home":"보루시아 묀헨글라트바흐","away":"보루시아 도르트문트","score":"1-1"},{"date":"24.04.13","home":"보루시아 묀헨글라트바흐","away":"보루시아 도르트문트","score":"1-2"}]'
+summary: "보루시아 묀헨글라트바흐는 최근 10경기 4승 1무 5패로 기복이 있는 흐름을 보였고, 홈 무대에서는 2-0, 3-2 승리로 승리를 챙겼으나 0-0 무득점과 대량 실점 경기도 병존합니다. 보루시아 도르트문트는 최근 10경기 6승 3무 1패의 안정된 흐름에 있고, 원정에서도 프리부어전 1-0, 스푸트가르트전 1-0 승리로 적중력을 보여주고 있으며 대결권 10경기에서도 도르트문트가 7승 2무 1패로 상성상 우위를 점했습니다. 득실 기준 도르트문트가 +9.0으로 우위이고, 최근 2경기 연속 2득점 흐름이라 득점력은 꾸준히 유지되고 있습니다. 이러한 전력 차이와 상성을 함께 고려하면, 보루시아 도르트문트가 우위를 점할 가능성이 높다고 봅니다."
+homeRecent: '[{"date":"26.11.12","home":"보루시아 묀헨글라트바흐","away":"Standard Liège","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6628340-2026-11-12-borussia-mnchengladbach/"},{"date":"26.11.07","home":"함부르크","away":"보루시아 묀헨글라트바흐","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5881218-2026-11-07-hamburger-sv/"},{"date":"26.10.31","home":"보루시아 묀헨글라트바흐","away":"파더보른","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5881209-2026-10-31-borussia-mnchengladbach/"},{"date":"26.10.28","home":"보루시아 묀헨글라트바흐","away":"카를스루허","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6162736-2026-10-28-borussia-mnchengladbach/"},{"date":"26.10.24","home":"슈투트가르트","away":"보루시아 묀헨글라트바흐","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5881205-2026-10-24-vfb-stuttgart/"}]'
+awayRecent: '[{"date":"26.11.07","home":"보루시아 도르트문트","away":"엘버스베르크","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5881215-2026-11-07-borussia-dortmund/"},{"date":"26.11.05","home":"보루시아 도르트문트","away":"레알 베티스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6106271-2026-11-05-borussia-dortmund/"},{"date":"26.11.01","home":"바이에른 뮌헨","away":"보루시아 도르트문트","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5881208-2026-11-01-bayern-mnchen/"},{"date":"26.10.28","home":"보루시아 도르트문트","away":"베르더 브레멘","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6162740-2026-10-28-borussia-dortmund/"},{"date":"26.10.25","home":"보루시아 도르트문트","away":"아인트라흐트 프랑크푸르트","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5881198-2026-10-25-borussia-dortmund/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보루시아 도르트문트"
+pickWinResult: "승"
+pickHandicapTeam: "보루시아 도르트문트"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "1"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

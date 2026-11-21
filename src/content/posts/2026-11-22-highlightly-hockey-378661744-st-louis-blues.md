@@ -1,0 +1,37 @@
+---
+title: "세인트루이스 블루스 vs 뉴저지 데블스 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T00:00:00.000Z
+description: "세인트루이스 블루스 vs 뉴저지 데블스 하키분석: 세인트루이스 블루스는 최근 10경기 6승 4패로 반등 중이나 평균 실점 3.6골로 후방 불안이 남아 있고, 뉴저지 데블스는 1… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378661744-2026-11-22-st-louis-blues"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "세인트루이스 블루스"
+awayTeam: "뉴저지 데블스"
+homeLogo: "https://highlightly.net/hockey/images/teams/594782.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/587974.png"
+homeAnalysis: "세인트루이스 블루스는 앞선 26경기에서 12승 14패로 승률 46%를 기록했고, 최근 10경기에서는 6승 4패로 평균 득점 3.3골을 터뜨리며 반등 기미를 보여주고 있습니다. 직전 3경기에서 피츠버그 핍스에게 5골을 넣으며 5-2로 이기고 애너하이ム 댁스를 상대로 8골을 폭발시키는 등 화력이 살아난 반면, 피닉스 팬더스에 1-4로 패하는 등 실점 조절이 흔들린 경기가 끼어 있습니다. 홈에서는 보스턴 브루인스를 4-1로 이기며 안정적이었지만, 홈에서 애너하이ム 댁스에게 8-6으로 이기는 과정에서에도 실점이 6골에 달해 후반 집중력 문제가 반복되고 있습니다. 공격 평균 득점 2.8골은 홈 무패 흐름을 이끄는 긍정 요인이나, 수비 집중력이 홈 승리의 걸림돌로 작용하고 있습니다. 현재 리그순위 9위, 11승 9패로 최근 흐름은 반등 중이나 전체 득실 +1.0에 머무르고 있어, 안정감을 더 확인해야 하는 구간입니다. Connor McMichael, Torey Krug, Dillon Dube, Tyler Tucker 등 [주요] 결장이 4명에 달해 로테이션 폭이 얇아진 상태이며 Ross Johnston은 [경미] 상태입니다."
+awayAnalysis: "뉴저지 데블스는 앞선 26경기에서 18승 8패로 승률 69%를 기록했고, 최근 10경기에서도 7승 3패에 평균 4.1골로 공격력이 한층 뜨겁게 나타나고 있습니다. 직전 몬트리올 캐나다디언에 2-3으로 패했지만 그 앞의 5경기에서는 5승 1패에 18득점으로 공격 생산력이 꾸준히 살아있는 흐름입니다. 원정에서는 토론토 maple leafs에 4-0으로 완승하고 에딘버러 oilers, 베가스 golden knights에게도 원정에서 연달아 이겨 원정 전력이 안정적으로 작동하고 있습니다. 다만 몬트리올 원정과 위니펙 원정 패배처럼 실점이 크는 날에는 경기 전체가 무너지는 양상이 있어, 후방 집중력이 승패를 가르는 핵심 포인트로 보입니다. 현재 리그순위 5위, 15승 7패, 득실 +18.0으로 순위를 고려하면 최근 흐름이 그 흐름에 걸맞게 유지되고 있으며, Anthony Mantha, Johnathan Kovacevic, Seamus Casey 등 [주요] 결장이 3명으로 후방 로테이션에 부담을 주고 있습니다."
+homePower: "직전 3경기 화력 회복 중이나 실점 16골로 뒷문 불안함|애너하이�전 8골은 공격 상한치 드러냄|홈 전적은 유리하나 실점 6골로 후반 집중력 결여|McMichael 등 [주요] 결장 4명 로테이션 축소|최근 10경기 평균 득점 3.3으로 공수 불균형 심화"
+awayPower: "26경기 득실 +18.0으로 공수 밸런스가 가장 튼튼|직전 5경기 5승 1패에 18득점 공격 생산력|26/11/06 상대 5-4 완봉으로 상성 우위|3연승 포함 직전 5경기 4승 1패 흐름|Mantha 등 [주요] 결장 3명에도 전력이 두터움"
+h2h: '[{"date":"26.11.06","home":"뉴저지 데블스","away":"세인트루이스 블루스","score":"5-4","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378570687-2026-11-06-new-jersey-devils/"}]'
+summary: "세인트루이스 블루스는 최근 10경기 6승 4패로 반등 중이나 평균 실점 3.6골로 후방 불안이 남아 있고, 뉴저지 데블스는 18승 8패에 평균 득점 3.6골로 공격력이 한층 더 위력적인 흐름입니다. 양 팀 상대전적에서 뉴저지 데블스가 5-4로 이기며 상성 우위를 보이고 있어, 이번 대결에서는 원정팀이 공수 모두에서 앞서고 홈팀이 화력 회복을 확인해야 하는 경기입니다. [주요] 결장이 4명인 홈팀에 비해 [주요] 결장이 3명인 원정팀이 로테이션 두께에서 다소 유리해 보이며, 홈팀이 실점 3골 이하로 조절해야 승산이 열립니다."
+homeRecent: '[{"date":"26.11.20","home":"피츠버그 펭귄스","away":"세인트루이스 블루스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378649830-2026-11-20-pittsburgh-penguins/"},{"date":"26.11.18","home":"세인트루이스 블루스","away":"애너하임 덕스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378642171-2026-11-18-st-louis-blues/"},{"date":"26.11.15","home":"세인트루이스 블루스","away":"플로리다 팬더스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620045-2026-11-15-st-louis-blues/"},{"date":"26.11.13","home":"유타 매머드","away":"세인트루이스 블루스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614939-2026-11-13-utah-mammoth/"},{"date":"26.11.11","home":"세인트루이스 블루스","away":"디트로이트 레드윙스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378599621-2026-11-11-st-louis-blues/"}]'
+awayRecent: '[{"date":"26.11.19","home":"뉴저지 데블스","away":"몬트리올 캐네이디언스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378646426-2026-11-19-new-jersey-devils/"},{"date":"26.11.15","home":"워싱턴 캐피털스","away":"뉴저지 데블스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620896-2026-11-15-washington-capitals/"},{"date":"26.11.13","home":"뉴저지 데블스","away":"워싱턴 캐피털스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378610684-2026-11-13-new-jersey-devils/"},{"date":"26.11.11","home":"위니펙 제츠","away":"뉴저지 데블스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378600472-2026-11-11-winnipeg-jets/"},{"date":"26.11.09","home":"토론토 메이플 리프스","away":"뉴저지 데블스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378591111-2026-11-09-toronto-maple-leafs/"}]'
+injuryHome: "Connor McMichael (Out)|Ross Johnston (Day-To-Day - Not Specified)|Torey Krug (Injured Reserve)|Dillon Dube (Injured Reserve - Not Specified)|Tyler Tucker (Injured Reserve - Surgery)"
+injuryAway: "Anthony Mantha (Injured Reserve)|Johnathan Kovacevic (Injured Reserve - Not Specified)|Seamus Casey (Injured Reserve)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴저지 데블스"
+pickWinResult: "승"
+pickHandicapTeam: "뉴저지 데블스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "5"
+pickOuValue: ""
+pickOuDirection: ""
+---

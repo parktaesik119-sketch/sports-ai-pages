@@ -1,0 +1,37 @@
+---
+title: "오타와 세너터스 vs LA 킹스 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T00:00:00.000Z
+description: "오타와 세너터스 vs LA 킹스 하키분석: 전력 비교를 보면 오타와 세너터스가 앞선 28경기 15승 13패로 LA 킹스의 8승 17패를 크게 앞서고 있습니다. 득점 흐름… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378665148-2026-11-22-ottawa-senators"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "오타와 세너터스"
+awayTeam: "LA 킹스"
+homeLogo: "https://highlightly.net/hockey/images/teams/590527.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/583719.png"
+homeAnalysis: "오타와 세너터스는 앞선 28경기에서 15승 13패로 승률 54%를 기록했고, 최근 10경기에서는 6승 4패로 13승 1패 흐름에 힘입어 다시 상승세에 올라서 있습니다. 최근 28경기 평균 득점이 3.1점대인 점을 보면 득점력이 상당히 안정되어 있습니다. 다만 최근 5경기 중 2경기는 한 골 차에 승패가 갈린 접전이었고, 직전 필라델피아 플라이어스전에서는 5득점에도 6실점하며 아깝게 무릎을 꿇었습니다. 리그순위 4위에 올라 있는 점을 보면 순위가 낮지 않은데 최근 흐름까지 좋은 편이라, 홈에서 운영이 잘 풀리는 상태라고 평가됩니다. Andre Burakovsky, Warren Foegele, William Eklund 등 주요 자원들이 결장 명단에 올라 있는 만큼, 이번 경기에서는 남은 주전들의 생산력을 어떻게 끌어내느냐가 승부처가 될 것으로 보입니다."
+awayAnalysis: "LA 킹스는 앞선 25경기에서 8승 17패로 승률 32%를 기록했고, 최근 10경기에서는 4승 6패로 반등 조짐을 보였습니다. 최근 토론토 메이플 리프스전과 보스턴 브루인스전에서 연승을 챙기며 분위기 전환에 성공했습니다. 다만 최근 25경기 평균 득점이 2.6점대인 점을 보면 득점 자체가 크게 늘어난 것은 아니고, 경기별 기복이 여전히 큰 편입니다. 리그순위 14위로 처져 있는 상황에서 최근 흐름은 좋지만 순위 격차가 큰 만큼, 이번 홈팀전에서는 안정적으로 실점을 줄이는 수비 집중력이 무엇보다 중요해 보입니다. Artemi Panarin과 Trevor Moore가 출장 가능한지 확인이 필요한 만큼, 공격 전개에 변수로 작용할 가능성이 있습니다."
+homePower: "직전 5경기 중 3승 2패로 승률 60%|최근 10경기 득점 3.6으로 화력 검증|리그순위 4위와 최근 상승세 맞물림|결장자 3명은 장기 결장 변수|홈경기 13승 1패로 홈 강세 뚜렷"
+awayPower: "최근 2경기 연속 승리로 반등 조짐|득점 2.6으로 기복 있는 화력|리그순위 14위로 하위권 처져|주요 결장자 없음|홈 원정 차이는 뚜렷하지 않음"
+h2h: '[{"date":"26.10.30","home":"LA 킹스","away":"오타와 세너터스","score":"6-5","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378533243-2026-10-30-los-angeles-kings/"}]'
+summary: "전력 비교를 보면 오타와 세너터스가 앞선 28경기 15승 13패로 LA 킹스의 8승 17패를 크게 앞서고 있습니다. 득점 흐름도 오타와 세너터스가 평균 3.1점대인 반면 LA 킹스는 2.6점대로, 홈팀의 화력이 한 수 위입니다. 상대전적에서는 LA 킹스가 직전 1경기에서 6-5로 승리한 기록이 있지만, 이번에는 홈 구장에서 치러지는 점을 고려하면 오타와 세너터스가 우위를 점할 가능성이 높다고 봅니다."
+homeRecent: '[{"date":"26.11.20","home":"오타와 세너터스","away":"필라델피아 플라이어스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378648979-2026-11-20-ottawa-senators/"},{"date":"26.11.18","home":"위니펙 제츠","away":"오타와 세너터스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378643022-2026-11-18-winnipeg-jets/"},{"date":"26.11.15","home":"피츠버그 펭귄스","away":"오타와 세너터스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378623449-2026-11-15-pittsburgh-penguins/"},{"date":"26.11.13","home":"오타와 세너터스","away":"콜로라도 애벌랜치","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378611535-2026-11-13-ottawa-senators/"},{"date":"26.11.11","home":"오타와 세너터스","away":"워싱턴 캐피털스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597068-2026-11-11-ottawa-senators/"}]'
+awayRecent: '[{"date":"26.11.20","home":"토론토 메이플 리프스","away":"LA 킹스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378651532-2026-11-20-toronto-maple-leafs/"},{"date":"26.11.18","home":"보스턴 브루인스","away":"LA 킹스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378637916-2026-11-18-boston-bruins/"},{"date":"26.11.15","home":"LA 킹스","away":"캘거리 플레임스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378629406-2026-11-15-los-angeles-kings/"},{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378615790-2026-11-13-los-angeles-kings/"},{"date":"26.11.11","home":"LA 킹스","away":"내슈빌 프레데터스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378601323-2026-11-11-los-angeles-kings/"}]'
+injuryHome: "Andre Burakovsky (부상)|Nick Cousins (일일 출장 여부 대기)|Hayden Hodgson (일일 출장 여부 대기)|Warren Foegele (부상)|William Eklund (부상)"
+injuryAway: "Artemi Panarin (일일 출장 여부 대기)|Trevor Moore (일일 출장 여부 대기)|Jakub Dvorak (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "오타와 세너터스"
+pickWinResult: "승"
+pickHandicapTeam: "오타와 세너터스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "밴쿠버 카넉스 vs 미네소타 와일드 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T03:00:00.000Z
+description: "밴쿠버 카넉스 vs 미네소타 와일드 하키분석: 이번 경기는 전력 차이 자체가 뚜렷한 대결로, 밴쿠버 카넉스는 승률 21%로 최근 10경기 2승 8패에 그치고, 득실 -38.… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378669403-2026-11-22-vancouver-canucks"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "밴쿠버 카넉스"
+awayTeam: "미네소타 와일드"
+homeLogo: "https://highlightly.net/hockey/images/teams/597335.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/585421.png"
+homeAnalysis: "밴쿠버 카넉스는 앞선 28경기에서 6승 22패로 승률 21%를 기록했고, 최근 10경기에서도 2승 8패에 그치며 하위권 흐름이 이어지고 있습니다. 최근 승리는 11월 16일 베가스 골든 나츠전 6득점, 11월 17일 유타 마머스전 3득점 같은 상대 실점 다득점 방식에 치우쳐 있어, 안정적인 득점 루트라기보다는 상대가 틀어막는 경기에서 승부가 갈리는 모양새입니다. 수비에서는 리그순위 16위, 득실 -38.0을 보이며 실점이 105점에 달해 경기당 2.7골 수준 득점으로는 버텨내기 어려운 상태입니다. 골키퍼 스코트 스티븐슨이 꾸준히 경기에 나서는 가운데, 맥켄지 맥이친이 장기 결장 중이고 브렌던 갈러거는 데이투데이 수준으로 출전이 불확실합니다. 홈에서는 최근 2경기 2무 1패 수준의 팽팽한 흐름도 있었으나, 원정 포함 최근 4경기 1승 3패로 실점 관리가 여전해 홈 어드밴티지만으로는 역전을 기대하기 어렵습니다."
+awayAnalysis: "미네소타 와일드는 앞선 35경기에서 23승 12패로 승률 66%를 기록했고, 최근 10경기 8승 2패로 리그순위 1위다운 흐름을 이어가고 있습니다. 최근 10경기 평균 4.3득점으로 화력이 폭발하고, 득실 +35.0을 보이며 7월 20일 캘거리 플레임스전 4득점, 11월 18일 내슈빌 프레데터스전 7득점처럼 다득점 승리를 계속 만들어내고 있습니다. 수비에서도 10경기 중 5경기에서 1실점 이내를 유지하며 안정감을 보이고 있고, 최근 4경기 연속 1실점 이내로 골대 앞 포지셔닝이 잘 맞고 있습니다. 쿼인 휴즈가 데이투데이 상태인 가운데, 올리 마아타와 필립 구스타프손은 장기 결장으로 공백이 큽니다. 10월 중순 5패를 겪었던 흐름 이후 11월 들어 8연승에 근접할 정도로 반등이 뚜렷하며, 강팀 상대 경기에서도 다득점 승리로 전환하는 능력이 검증된 상태입니다."
+homePower: "최근 2경기 2무 흐름은 상대 실점 많고 홈 공백 큰 상성|최근 4경기 2득점 이하 수비 불안, 실점 관리가 핵심 변수|장기 결장 3명으로 공격 루트 제한, 상대 압박에 취약|다득점 의존 승리가 많아 안정적 골 루트 부재|11월 실점 11골, 수비 집중력 하락이 최근 흐름"
+awayPower: "10경기 8승 2패로 최근 기세가 정점에 가까움|11월 4경기 1실점 이내로 수비 포지셔닝 안정|7득점 포함 다득점 승리, 화력 전환력 확인|10월 중순 5패 이후 11월 반등, 모멘텀 강함|2실점 이내 실점이 10경기 중 5회로 균형 잡힌 공수"
+h2h: '[{"date":"26.10.26","home":"밴쿠버 카넉스","away":"미네소타 와일드","score":"2-4","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378509415-2026-10-26-vancouver-canucks/"}]'
+summary: "이번 경기는 전력 차이 자체가 뚜렷한 대결로, 밴쿠버 카넉스는 승률 21%로 최근 10경기 2승 8패에 그치고, 득실 -38.0으로 실점이 105점에 달합니다. 반대로 미네소타 와일드는 승률 66%, 최근 10경기 8승 2패, 4.3득점으로 화력이 폭발하고 수비에서도 10경기 중 5경기 1실점 이내로 안정감을 보여줍니다. 상대전적도 10월 26일 밴쿠버 카넉스 2-4 미네소타 와일드로 원정팀이 다득점 승리를 거뒀고, 이번 대결에서도 최근 흐름상 미네소타 와일드가 우세를 점할 가능성이 높습니다. 홈팀 밴쿠버 카넉스의 공격은 상대 실점 의존도가 높아 안정적인 루트가 부족하고, 미네소타 와일드의 다득점 승리는 강팀 상대에서도 반복되며 승리의 폭이 넓은 편입니다. 따라서 이번 경기의 승부는 미네소타 와일드가 우위를 점할 가능성이 크며, 밴쿠버 카넉스는 실점 관리가 개선되지 않는 한 역전을 기대하기 어렵습니다."
+homeRecent: '[{"date":"26.11.20","home":"시애틀 크라켄","away":"밴쿠버 카넉스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378656638-2026-11-20-seattle-kraken/"},{"date":"26.11.17","home":"유타 매머드","away":"밴쿠버 카넉스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378635363-2026-11-17-utah-mammoth/"},{"date":"26.11.16","home":"베가스 골든나이츠","away":"밴쿠버 카넉스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378633661-2026-11-16-vegas-golden-knights/"},{"date":"26.11.14","home":"밴쿠버 카넉스","away":"뉴욕 레인저스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378616641-2026-11-14-vancouver-canucks/"},{"date":"26.11.10","home":"밴쿠버 카넉스","away":"필라델피아 플라이어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378594515-2026-11-10-vancouver-canucks/"}]'
+awayRecent: '[{"date":"26.11.20","home":"캘거리 플레임스","away":"미네소타 와일드","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378654085-2026-11-20-calgary-flames/"},{"date":"26.11.18","home":"미네소타 와일드","away":"내슈빌 프레데터스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378641320-2026-11-18-minnesota-wild/"},{"date":"26.11.15","home":"보스턴 브루인스","away":"미네소타 와일드","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626002-2026-11-15-boston-bruins/"},{"date":"26.11.13","home":"토론토 메이플 리프스","away":"미네소타 와일드","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378612386-2026-11-13-toronto-maple-leafs/"},{"date":"26.11.11","home":"몬트리올 캐네이디언스","away":"미네소타 와일드","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597919-2026-11-11-montreal-canadiens/"}]'
+injuryHome: "Brendan Gallagher (경미: 데이투데이)|Guillaume Brisebois (주요: 부상 격리)|Mackenzie MacEachern (주요: 부상 격리)|Thatcher Demko (주요: 부상 격리 - 수술)"
+injuryAway: "Yakov Trenin (경미: 데이투데이 - 미지정)|Quinn Hughes (경미: 데이투데이)|Filip Gustavsson (주요: 부상 격리 - 수술)|Olli Maatta (주요: 부상 격리)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 와일드"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 와일드"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "2"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---

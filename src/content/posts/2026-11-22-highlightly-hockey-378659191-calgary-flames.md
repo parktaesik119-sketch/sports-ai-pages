@@ -1,0 +1,37 @@
+---
+title: "캘거리 플레임스 vs 시카고 블랙호크스 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-21T20:30:00.000Z
+description: "캘거리 플레임스 vs 시카고 블랙호크스 하키분석: 홈팀 캘거리 플레임스는 평균 득점 2.4골, 실점 3.1골로 전반적인 득실 균형이 다소 열세입니다. 원정팀 시카고 블랙호크스는… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378659191-2026-11-22-calgary-flames"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "캘거리 플레임스"
+awayTeam: "시카고 블랙호크스"
+homeLogo: "https://highlightly.net/hockey/images/teams/575209.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/577762.png"
+homeAnalysis: "캘거리 플레임스는 앞선 27경기에서 11승 16패로 승률 41%를 기록했습니다. 최근 흐름은 4승 6패로 다소 부진하지만 홈에서 보스턴 브루인스, 필라델피아 플라이어스, 토론토 맵리프스와의 대결에서 안정감을 보였습니다. 평균 득점이 2.4골로 꾸준한 공격력을 유지하고 있어 득점력에서 강점이 드러납니다. 다만 실점 관리가 흔들리는 경향이 있어 수비 집중력이 변수로 평가됩니다. 현재 리그순위 13위로, 최근 27경기 중 홈 경기 12경기의 결과(6승 6패)를 보면 홈 무대에서는 승패가 엇갈리며 큰 경기 운영력도 검증된 상태입니다."
+awayAnalysis: "시카고 블랙호크스는 앞선 26경기에서 8승 18패로 승률 31%를 기록했습니다. 최근 10경기에서 2승 8패로 부진하지만 득점력은 평균 2.8골로 홈팀보다 높아 화력 자체는 살아 있습니다. 특히 최근 경기에서 플로리다 팰리신스, 미네소타 와일드 등 강한 상대를 만나며 5골을 허용하는 등 수비에서 큰 취약점이 드러났습니다. 현재 리그순위 15위로 홈팀보다 낮은 순위에 있지만 홈에서 시카고 블랙호크스가 홈팀에게 내준 득점이 9골로 홈 무대에서는 비교적 견제 가능한 상대입니다."
+homePower: "최근 27경기 11승 16패로 승률 41%에 근접한 안정적 전적|평균 득점 2.4골로 꾸준한 공격 화력 유지|홈 12경기 6승 6패로 홈 무대에서는 승패 엇갈림|최근 10경기 4승 6패로 홈 경기에서 상대 견제 가능|실점 관리에서 흔들림, 수비 집중력 변수"
+awayPower: "최근 10경기 2승 8패로 홈팀 대비 부진한 최근 전적|평균 득점 2.8골로 홈팀보다 높은 화력|홈 8경기 중 2승 6패로 홈 무대에서 상대적으로 열세|최근 5경기에서 4실점 이상 허용한 경기 4개로 수비 취약|리그순위 15위로 홈팀보다 낮은 순위"
+h2h: '[]'
+summary: "홈팀 캘거리 플레임스는 평균 득점 2.4골, 실점 3.1골로 전반적인 득실 균형이 다소 열세입니다. 원정팀 시카고 블랙호크스는 평균 득점 2.8골로 화력에서 홈팀보다 앞서지만 실점이 4.3골로 수비에서 취약점이 뚜렷합니다. 두 팀의 전력 차는 크지 않지만 홈팀의 홈 무대 안정성과 상대 견제 전적이 우위를 점할 가능성이 높아 보입니다. 이번 경기에서는 홈팀이 홈에서 1점 차 우위를 보이며 승리할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.20","home":"캘거리 플레임스","away":"미네소타 와일드","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378654085-2026-11-20-calgary-flames/"},{"date":"26.11.18","home":"산호세 샤크스","away":"캘거리 플레임스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378644724-2026-11-18-san-jose-sharks/"},{"date":"26.11.16","home":"애너하임 덕스","away":"캘거리 플레임스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631108-2026-11-16-anaheim-ducks/"},{"date":"26.11.15","home":"LA 킹스","away":"캘거리 플레임스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378629406-2026-11-15-los-angeles-kings/"},{"date":"26.11.12","home":"캘거리 플레임스","away":"뉴욕 레인저스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603025-2026-11-12-calgary-flames/"}]'
+awayRecent: '[{"date":"26.11.20","home":"시카고 블랙호크스","away":"콜럼버스 블루재킷츠","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378654936-2026-11-20-chicago-blackhawks/"},{"date":"26.11.18","home":"시카고 블랙호크스","away":"토론토 메이플 리프스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378640469-2026-11-18-chicago-blackhawks/"},{"date":"26.11.15","home":"시카고 블랙호크스","away":"위니펙 제츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378619194-2026-11-15-chicago-blackhawks/"},{"date":"26.11.13","home":"시카고 블랙호크스","away":"버펄로 세이버스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378613237-2026-11-13-chicago-blackhawks/"},{"date":"26.11.08","home":"캐롤라이나 허리케인스","away":"시카고 블랙호크스","score":"9-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378583452-2026-11-08-carolina-hurricanes/"}]'
+injuryHome: "Jonathan Huberdeau (주요 - 부상 휴식)|Kevin Bahl (주요 - 부상 휴식)|Connor Zary (주요 - 외과적 치료)"
+injuryAway: "Connor Bedard (부상)|Bowen Byram (부상 휴식)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 블랙호크스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 블랙호크스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---

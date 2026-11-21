@@ -1,0 +1,37 @@
+---
+title: "보스턴 브루인스 vs 워싱턴 캐피털스 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T00:00:00.000Z
+description: "보스턴 브루인스 vs 워싱턴 캐피털스 하키분석: 보스턴 브루인스는 앞선 29경기에서 18승 11패로 승률 62%를 기록하며 홈 경기 15승 6패의 확고한 홈 실력을 보이고 있… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378666850-2026-11-22-boston-bruins"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "보스턴 브루인스"
+awayTeam: "워싱턴 캐피털스"
+homeLogo: "https://highlightly.net/hockey/images/teams/573507.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/599037.png"
+homeAnalysis: "보스턴 브루인스는 앞선 29경기에서 18승 11패로 승률 62%를 기록했고, 최근 10경기 5승 5패로 평균 득점 2.8골을 올리며 선전하고 있습니다. 다만 직전 4경기에서 1승 3패로 3연패를 겪은 뒤 26/11/19 디트로이트 레드윙스 원정에서 4-1 승리로 반등 신호를 보였습니다. 홈 경기 성적은 15승 6패로 확실히 강하고, 직전 3연패 기간 동안 7골 29실점의 방어력 위기가 있었으나 4골로 마감한 직전 경기에서 수비 회복이 감지됩니다. 시즌 전체 평균 득점 3.2골은 공격력에서 안정감을 보이고 있고, 특히 26/10/08 위스콘신(미주리) 매머스와 5-1, 26/10/22 내슈빌 프레딧터스를 상대로 6-0으로 압도한 경기들에서 화력을 확인했습니다. 홈 경기 15승 6패의 우위 흐름은 이번 홈 경기에서 확실한 홈 어드밴티지로 작용할 전망입니다."
+awayAnalysis: "워싱턴 캐피털스는 앞선 24경기에서 13승 11패로 승률 54%를 기록했고, 최근 10경기 4승 6패로 평균 득점 3.3골을 올리며 부진에 빠져 있습니다. 26/11/04 댈러스 스타스 원정 5-6 패배, 26/11/01 미네소타 와일드와 1-5 패배, 26/11/13 뉴저지 데블스와의 2-5 패배를 포함해 직전 4경기에서 1승 3패의 부진한 흐름을 보이고 있습니다. 26/11/11 오타와 센티네일스 원정에서 3-2로 극적 승리를 거두며 분위기 전환의 계기를 마련했지만, 26/11/20 버펄로 세이버스와 3-6, 26/11/18 탬파베이 라이터닝과의 2-5 패배로 다시 흔들렸습니다. 시즌 전체 평균 득점 3.4골은 공격력에서 준수한 편이나, 최근 실점이 잦아지며 수비 안정성에서 어려움을 겪고 있습니다. 홈 경기 9승 6패와 원정 경기 4승 5패의 격차는 원정 경기력에서 약한 부분을 드러내고 있습니다."
+homePower: "최근 3연패 직후 디트로이트 원정 4-1 승리로 반등 계기 마련함|홈 경기 15승 6패, 홈 어드밴티지 우위 확인됨|26/10/08 매머스전 6-1, 26/10/22 내슈빌전 6-0 등 화력 폭발 경기 다수|26/11/13~18 3연패 기간 7골 29실점 수비 위기 확인됨|직전 4-1 디트로이트 원정 승리, 방어력 회복 신호 보임"
+awayPower: "최근 4경기 1승 3패 부진한 흐름 지속 중|26/11/11 오타와 원정 3-2 극적 승리, 분위기 반전 계기|시즌 전체 13승 11패 승률 54%로 중상위권|홈 9승 6패 vs 원정 4승 5패, 원정 경기력 약점|26/11/18 탬파베이전 2-5, 실점 다수 수비 불안"
+h2h: '[{"date":"26.09.26","home":"워싱턴 캐피털스","away":"보스턴 브루인스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-368084665-2026-09-26-washington-capitals/"},{"date":"26.09.21","home":"보스턴 브루인스","away":"워싱턴 캐피털스","score":"3-2","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-368071049-2026-09-21-boston-bruins/"}]'
+summary: "보스턴 브루인스는 앞선 29경기에서 18승 11패로 승률 62%를 기록하며 홈 경기 15승 6패의 확고한 홈 실력을 보이고 있습니다. 워싱턴 캐피털스는 13승 11패 승률 54%로 홈 9승 6패, 원정 4승 5패의 원정 약점을 드러내고 있으며, 최근 4경기 1승 3패의 부진 흐름을 보이고 있습니다. 상대전적에서는 보스턴 브루인스가 1승 1패로 우세한 흐름을 유지하고 있고, 이번 경기에서 홈 어드밴티지와 최근의 수비 회복 신호가 보스턴 브루인스에게 유리하게 작용할 전망입니다. 두 팀의 공수 밸런스를 종합하면 보스턴 브루인스의 홈 우위가 더욱 두드러질 것으로 보입니다."
+homeRecent: '[{"date":"26.11.19","home":"디트로이트 레드윙스","away":"보스턴 브루인스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378645575-2026-11-19-detroit-red-wings/"},{"date":"26.11.18","home":"보스턴 브루인스","away":"LA 킹스","score":"0-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378637916-2026-11-18-boston-bruins/"},{"date":"26.11.15","home":"보스턴 브루인스","away":"미네소타 와일드","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626002-2026-11-15-boston-bruins/"},{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트리올 캐네이디언스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608131-2026-11-13-boston-bruins/"},{"date":"26.11.09","home":"보스턴 브루인스","away":"플로리다 팬더스","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378588558-2026-11-09-boston-bruins/"}]'
+awayRecent: '[{"date":"26.11.20","home":"워싱턴 캐피털스","away":"버펄로 세이버스","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378652383-2026-11-20-washington-capitals/"},{"date":"26.11.18","home":"탬파베이 라이트닝","away":"워싱턴 캐피털스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378637065-2026-11-18-tampa-bay-lightning/"},{"date":"26.11.15","home":"워싱턴 캐피털스","away":"뉴저지 데블스","score":"4-7","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620896-2026-11-15-washington-capitals/"},{"date":"26.11.13","home":"뉴저지 데블스","away":"워싱턴 캐피털스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378610684-2026-11-13-new-jersey-devils/"},{"date":"26.11.11","home":"오타와 세너터스","away":"워싱턴 캐피털스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378597068-2026-11-11-ottawa-senators/"}]'
+injuryHome: "James Hagens (부상 예비군)"
+injuryAway: "Vincent Desharnais (부상 예비군 - 수술)|Rasmus Sandin (부상 예비군 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "보스턴 브루인스"
+pickWinResult: "승"
+pickHandicapTeam: "보스턴 브루인스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "토론토 메이플 리프스 vs 콜럼버스 블루재킷츠 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T00:00:00.000Z
+description: "토론토 메이플 리프스 vs 콜럼버스 블루재킷츠 하키분석: 토론토 메이플 리프스는 최근 경기에서 패배가 이어지며 승률 하락이 두드러지지만, 평균 득점력이 3.2골로 상대보다 강점을 보여… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378663446-2026-11-22-toronto-maple-leafs"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "토론토 메이플 리프스"
+awayTeam: "콜럼버스 블루재킷츠"
+homeLogo: "https://highlightly.net/hockey/images/teams/596484.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/579464.png"
+homeAnalysis: "토론토 메이플 리프스는 앞선 28경기에서 10승 18패로 승률 36%를 기록했고, 최근 흐름으로 보아 전반적인 전력 위상이 흔들리는 모습입니다. 최근 10경기에서 1승 9패로 이어지며 패배가 계속되고 있는데, 직전 경기에서도 로스앤젤레스 킹스에 3-4로 패하여 반등 기미를 만들기 어려운 상태입니다. 득점력이 평균 3.2골을 유지하고 있는 점은 강점으로 평가됩니다만, 실점 폭이 큰 경기 흐름이 반복되고 있어 승리로 연결되지 못했습니다. 현재 리그순위 14위로 처져 있는 가운데 최근 흐름이 더 나빠진 상황이라, 홈경기에서 분위기 반전을 이루는 것이 중요한 관건입니다. 이번 경기가 최근 부진 흐름을 끊어낼 수 있는 전환점이 될지 주목해 볼 가치가 있습니다."
+awayAnalysis: "콜럼버스 블루재킷츠는 앞선 24경기에서 11승 13패로 승률 46%를 기록했고, 최근 10경기에서 3승 7패로 다소 부진한 흐름을 보여주고 있습니다. 최근 경기에서 시카고 블랙호크스에 2-4로 승리한 뒤에도 여전히 패배가 많아 승리를 꾸준히 이어가는 모습이 어렵습니다. 평균 득점이 2.5골로 토론토 메이플 리프스에 비해 낮아 공격적인 득점력을 보여주기는 어렵고, 실점 측면에서 경기 후반에 무너지는 흐름이 반복되고 있습니다. 현재 리그순위 15위로 열세에 위치해 있는 만큼 원정에서 승리를 따내는 과정이 쉽지 않을 것으로 보입니다. 최근 상대전적에서 토론토 메이플 리프스에 6-2 대패를 당한 기억이 있어, 이번 홈 원정에서는 전력을 한층 더 끌어올려야 하는 상황입니다."
+homePower: "토론토 메이플 리프스 득점력 평균 3.2, 실점 폭이 변수|최근 10경기 패배 집중, 분위기 전환 필요|홈 경기 승리로 승률 반등 기대감|강팀 상대 패배 반복, 경기 운영 미성숙|리그순위 14위 처지, 원정 상대보다 열세"
+awayPower: "콜럼버스 블루재킷츠 승률 46%, 상대보다 우위|최근 10경기 3승, 반등 여지|원정 승리로 흐름 개선 시도|득점력 2.5, 공격 제한적|토론토 상대 전적 열세, 실점 주의"
+h2h: '[{"date":"26.10.21","home":"콜럼버스 블루재킷츠","away":"토론토 메이플 리프스","score":"2-6","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378476226-2026-10-21-columbus-blue-jackets/"}]'
+summary: "토론토 메이플 리프스는 최근 경기에서 패배가 이어지며 승률 하락이 두드러지지만, 평균 득점력이 3.2골로 상대보다 강점을 보여주고 있습니다. 콜럼버스 블루재킷츠는 승률이 46%로 상대적으로 좋지만, 득점력이 2.5골로 공격적으로 제한적이고, 최근 상대전적에서 토론토 메이플 리프스에 6-2로 대패를 기록한 바 있습니다. 이번 홈경기를 통해 토론토 메이플 리프스가 반등 분위기를 만들며 승리를 거두는 흐름이 보다 자연스러워 보입니다."
+homeRecent: '[{"date":"26.11.20","home":"토론토 메이플 리프스","away":"LA 킹스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378651532-2026-11-20-toronto-maple-leafs/"},{"date":"26.11.18","home":"시카고 블랙호크스","away":"토론토 메이플 리프스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378640469-2026-11-18-chicago-blackhawks/"},{"date":"26.11.15","home":"토론토 메이플 리프스","away":"에드먼턴 오일러스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378622598-2026-11-15-toronto-maple-leafs/"},{"date":"26.11.13","home":"토론토 메이플 리프스","away":"미네소타 와일드","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378612386-2026-11-13-toronto-maple-leafs/"},{"date":"26.11.11","home":"토론토 메이플 리프스","away":"콜로라도 애벌랜치","score":"3-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378596217-2026-11-11-toronto-maple-leafs/"}]'
+awayRecent: '[{"date":"26.11.20","home":"시카고 블랙호크스","away":"콜럼버스 블루재킷츠","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378654936-2026-11-20-chicago-blackhawks/"},{"date":"26.11.18","home":"뉴욕 아일런더스","away":"콜럼버스 블루재킷츠","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378638767-2026-11-18-new-york-islanders/"},{"date":"26.11.15","home":"콜럼버스 블루재킷츠","away":"필라델피아 플라이어스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378625151-2026-11-15-columbus-blue-jackets/"},{"date":"26.11.13","home":"콜럼버스 블루재킷츠","away":"탬파베이 라이트닝","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608982-2026-11-13-columbus-blue-jackets/"},{"date":"26.11.11","home":"콜럼버스 블루재킷츠","away":"플로리다 팬더스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378598770-2026-11-11-columbus-blue-jackets/"}]'
+injuryHome: "Cole McWard (부상으로 결장)|Kirill Marchenko (부상으로 결장)|Colton Sissons (부상으로 결장)|Miles Wood (부상으로 결장)|Nick Blankenburg (부상으로 결장)"
+injuryAway: "Mathieu Olivier (단기 결장)|Sean Monahan (결장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "토론토 메이플 리프스"
+pickWinResult: "승"
+pickHandicapTeam: "토론토 메이플 리프스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

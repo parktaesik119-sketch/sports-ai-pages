@@ -1,0 +1,37 @@
+---
+title: "몬트리올 캐네이디언스 vs 필라델피아 플라이어스 하키분석·승부예측 (11월 22일) - 픽천국"
+date: 2026-11-22T00:00:00.000Z
+description: "몬트리올 캐네이디언스 vs 필라델피아 플라이어스 하키분석: 몬트리올 캐네이디언스는 최근 10경기 6승 4패로 상위권 흐름을 유지하고 리그순위 3위를 지키고 있습니다. 반면 필라델피아 플… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378664297-2026-11-22-montreal-canadiens"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "몬트리올 캐네이디언스"
+awayTeam: "필라델피아 플라이어스"
+homeLogo: "https://highlightly.net/hockey/images/teams/586272.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/592229.png"
+homeAnalysis: "몬트리올 캐네이디언스는 앞선 41경기에서 22승 19패로 승률 54%를 기록했고 최근 10경기에서는 6승 4패로 상위권 흐름을 유지하고 있습니다. 현재 리그순위 3위로 14승 5패, 득실 +7.0을 보이며 안정감을 더하고 있습니다. 최근 득점력은 경기당 평균 3.0골로 꾸준하지만 실점이 많아지면서 마무리가 기복으로 이어지는 모습입니다. 특히 최근 원정 4경기에서 3승 1패를 거두며 원정 운영력을 확인했고 홈에서는 1승 3패로 흔들리고 있습니다. 다만 주요 결장자들이 다수 빠져 있어 전력 공백이 변수로 자리하고 있습니다."
+awayAnalysis: "필라델피아 플라이어스는 앞선 36경기에서 10승 26패로 승률 28%를 기록했고 최근 10경기에서는 5승 5패로 반등 조짐을 보여주고 있습니다. 현재 리그순위 11위로 8승 11패, 득실 -22.0을 보이며 하위권에서 벗어나는 흐름이 아닙니다. 최근 득점력은 경기당 평균 3.4골로 공격이 살아나고 있지만 수비에서 실점이 여전히 많아 승률이 낮게 잡히는 모습입니다. 최근 4경기에서 3승 1패로 상승 곡선을 그리고 있으며 홈에서는 2승 2패로 안정감을 더하고 있습니다. 다만 결장자가 있어 전력에 공백이 있고 전반적인 전력이 홈팀보다 한 단계 낮게 평가됩니다."
+homePower: "최근 원정 4경기 3승1패, 원정 운영력 확인|득실 +7.0으로 공격-수비 균형 양호|리그순위 3위, 상위권 유지|주요 결장자 다수, 전력 공백 변수|홈 1승3패, 홈 구장 불안"
+awayPower: "최근 4경기 3승1패, 상승 흐름|최근 평균 득점 3.4, 공격 살아남|리그순위 11위, 하위권 부진|득실 -22.0, 실점 부담 큼|주요 결장자 1명, 전력 공백"
+h2h: '[]'
+summary: "몬트리올 캐네이디언스는 최근 10경기 6승 4패로 상위권 흐름을 유지하고 리그순위 3위를 지키고 있습니다. 반면 필라델피아 플라이어스는 최근 10경기 5승 5패로 반등 조짐을 보이고 있지만 리그순위 11위로 하위권 부진이 이어지는 모습입니다. 몬트리올의 득실 +7.0과 원정 4경기 3승1패에 비하면 필라델피아는 최근 평균 득점 3.4골로 공격이 살아나고 있지만 실점 -22.0으로 수비가 여전히 부담입니다. 이번 승부에서는 홈 몬트리올의 상위권 안정감과 원정 필라델피아의 상승 흐름이 맞부딪으며 홈팀이 우위를 점할 가능성이 더 높게 보입니다."
+homeRecent: '[{"date":"26.11.20","home":"캐롤라이나 허리케인스","away":"몬트리올 캐네이디언스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378648128-2026-11-20-carolina-hurricanes/"},{"date":"26.11.19","home":"뉴저지 데블스","away":"몬트리올 캐네이디언스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378646426-2026-11-19-new-jersey-devils/"},{"date":"26.11.17","home":"뉴욕 레인저스","away":"몬트리올 캐네이디언스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378634512-2026-11-17-new-york-rangers/"},{"date":"26.11.15","home":"몬트리올 캐네이디언스","away":"콜로라도 애벌랜치","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378624300-2026-11-15-montreal-canadiens/"},{"date":"26.11.13","home":"보스턴 브루인스","away":"몬트리올 캐네이디언스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608131-2026-11-13-boston-bruins/"}]'
+awayRecent: '[{"date":"26.11.20","home":"오타와 세너터스","away":"필라델피아 플라이어스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378648979-2026-11-20-ottawa-senators/"},{"date":"26.11.18","home":"필라델피아 플라이어스","away":"버펄로 세이버스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378636214-2026-11-18-philadelphia-flyers/"},{"date":"26.11.16","home":"필라델피아 플라이어스","away":"에드먼턴 오일러스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378630257-2026-11-16-philadelphia-flyers/"},{"date":"26.11.15","home":"콜럼버스 블루재킷츠","away":"필라델피아 플라이어스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378625151-2026-11-15-columbus-blue-jackets/"},{"date":"26.11.12","home":"에드먼턴 오일러스","away":"필라델피아 플라이어스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603876-2026-11-12-edmonton-oilers/"}]'
+injuryHome: "Zack Bolduc (경미)|Mike Matheson (결장)|Josh Anderson (부상)|Chris Kreider (부상)|Ivan Demidov (부상)"
+injuryAway: "Nikita Grebenkin (부상)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "몬트리올 캐네이디언스"
+pickWinResult: "승"
+pickHandicapTeam: "몬트리올 캐네이디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---
