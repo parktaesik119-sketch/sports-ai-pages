@@ -1,0 +1,37 @@
+---
+title: "밴쿠버 카넉스 vs 시카고 블랙호크스 하키분석·승부예측 (11월 23일) - 픽천국"
+date: 2026-11-23T01:00:00.000Z
+description: "밴쿠버 카넉스 vs 시카고 블랙호크스 하키분석: 밴쿠버 카넉스는 6승 22패에 그치며 승률 21%로 부진을 면치 못했고, 평균 득점 2.7점에도 105실점이라는 실점 관리 문… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378673658-2026-11-23-vancouver-canucks"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "밴쿠버 카넉스"
+awayTeam: "시카고 블랙호크스"
+homeLogo: "https://highlightly.net/hockey/images/teams/597335.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/577762.png"
+homeAnalysis: "밴쿠버 카넉스는 앞선 28경기에서 6승 22패로 승률 21%를 기록했고, 최근 10경기에서도 2승 8패에 그치며 부진한 흐름이 이어지고 있습니다. 평균 득점은 2.7점으로 화력은 어느 정도 유지되고 있지만, 평균 실점이 이에 크게 못 미쳐면서 수비 불안이 뚜렷하게 보였습니다. 리그순위 16위에 27경기차의 열세 속에 67득점 105실점, 득실차 -38은 실점 관리가 팀 전체의 가장 큰 과제로 평가됩니다. 최근 시애틴 크레이켄전에서 1득점에 그치는 등 득점도 기복이 있고, 5실점 이상의 실점이 잦았던 경기들이 눈에 띱니다. Elias Pettersson, Brendan Gallagher, Guillaume Brisebois, Mackenzie MacEachern, Thatcher Demko 등 핵심 선수들이 장기 결장 중이라 전력 손실이 큽니다."
+awayAnalysis: "시카고 블랙호크스는 앞선 27경기에서 9승 18패로 승률 33%를 기록했고, 최근 10경기에서 3승 7패로 여전히 반등이 필요한 흐름을 보여주고 있습니다. 평균 득점은 2.5점이지만 최근 10경기 평균은 3.1점으로 공격이 살아나는 양상이라 주목할 만합니다. 직전 캘거리 플레임즈 원정에서 4-3 역전승을 거두는 등 최근 5경기에서 3승을 잡아 반등 조짐이 보였습니다. 다만 9실점, 5실점 등 고득점 실점 경기가 이어진 바 있어 수비 안정화는 아직 숙제라 평가됩니다. Connor Bedard의 결장이 가장 큰 변수로, 그 부재 속에서도 최근 화력을 끌어낸 흐름이라 흐름 자체에는 기대가 되는 부분입니다."
+homePower: "6승 22패 부진 속 2.7득점, 화력은 유지하나 실점 관리가 최대 과제|27경기차 16위, 수비 실점 격차 -38로 후방 안정성 취약함|Elias Pettersson 장기 결장, 공격 생산성 하락 변수|최근 10경기 2승 8패, 5실점 이상 실점 잦음|시애틴 크레이켄전 1득점 등 마무리 효율 기복 보임"
+awayPower: "최근 10경기 3.1득점, 직전 5경기 3승 반등 조짐|직전 캘거리 원정 4-3 역전승, 클로징 화력 확인|9실점 5실점 고득점 실점, 수비 안정화 숙제|Connor Bedard 결장 속 최근 화력 유지 흐름|9승 18패 33%, 홈 5승 13패 원정 4승 5패로 홈 우위 양상"
+h2h: '[]'
+summary: "밴쿠버 카넉스는 6승 22패에 그치며 승률 21%로 부진을 면치 못했고, 평균 득점 2.7점에도 105실점이라는 실점 관리 문제에서 한 발 뒤처진 양상입니다. 반면 시카고 블랙호크스는 9승 18패로 승률 33%에 머물러 있지만 최근 10경기 3.1득점과 직전 5경기 3승으로 반등 흐름이 뚜렷해 보였습니다. 득실차에서는 밴쿠버 카넉스가 -38로 열세이고 시카고 블랙호크스가 -35로 다소 양호해 최근 흐름을 합치면 원정팀이 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.11.20","home":"시애틀 크라켄","away":"밴쿠버 카넉스","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378656638-2026-11-20-seattle-kraken/"},{"date":"26.11.17","home":"유타 매머드","away":"밴쿠버 카넉스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378635363-2026-11-17-utah-mammoth/"},{"date":"26.11.16","home":"베가스 골든나이츠","away":"밴쿠버 카넉스","score":"3-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378633661-2026-11-16-vegas-golden-knights/"},{"date":"26.11.14","home":"밴쿠버 카넉스","away":"뉴욕 레인저스","score":"1-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378616641-2026-11-14-vancouver-canucks/"},{"date":"26.11.10","home":"밴쿠버 카넉스","away":"필라델피아 플라이어스","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378594515-2026-11-10-vancouver-canucks/"}]'
+awayRecent: '[{"date":"26.11.22","home":"캘거리 플레임스","away":"시카고 블랙호크스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378659191-2026-11-22-calgary-flames/"},{"date":"26.11.20","home":"시카고 블랙호크스","away":"콜럼버스 블루재킷츠","score":"2-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378654936-2026-11-20-chicago-blackhawks/"},{"date":"26.11.18","home":"시카고 블랙호크스","away":"토론토 메이플 리프스","score":"6-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378640469-2026-11-18-chicago-blackhawks/"},{"date":"26.11.15","home":"시카고 블랙호크스","away":"위니펙 제츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378619194-2026-11-15-chicago-blackhawks/"},{"date":"26.11.13","home":"시카고 블랙호크스","away":"버펄로 세이버스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378613237-2026-11-13-chicago-blackhawks/"}]'
+injuryHome: "Elias Pettersson (결장)|Brendan Gallagher (부상자 명단)|Guillaume Brisebois (부상자 명단)|Mackenzie MacEachern (부상자 명단)|Thatcher Demko (부상자 명단 - 수술)"
+injuryAway: "Connor Bedard (결장)|Anton Frondell (경기별 확인)|Bowen Byram (부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "시카고 블랙호크스"
+pickWinResult: "승"
+pickHandicapTeam: "시카고 블랙호크스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "2"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

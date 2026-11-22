@@ -1,0 +1,37 @@
+---
+title: "대전 시티즌 vs 베이징 궈안 축구분석·승부예측 (11월 24일) - 픽천국"
+date: 2026-11-24T10:00:00.000Z
+description: "대전 시티즌 vs 베이징 궈안 축구분석: 대전 시티즌은 최근 30경기에서 14승 10무 6패를 거두며 무승부가 잦은 중립형 운영을 보여주고 있지만, 홈에서는 2경기 연… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6050009-2026-11-24-daejeon-hana-citizen"
+category: "soccer"
+country: "국제"
+league: "AFC 챔피언스리그"
+homeTeam: "대전 시티즌"
+awayTeam: "베이징 궈안"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/133900.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/4177.png"
+homeAnalysis: "대전 시티즌은 앞선 30경기에서 14승 10무 6패로 승률 47%를 기록했고, 이후에도 승리와 무승부가 번갈아 이어지며 비교적 꾸준한 흐름을 이어가고 있습니다. 가장 최근 경기에서 강릉 FC에 3-1로 승리하면서 흐름을 잘 다잡은 모습입니다. 그 직전 인천 유나이티드전에서도 2-0 완승을 거두며 홈 구장에서의 화력을 확인했습니다. 다만 가시와 레이솔전 2-0 패배와 비셀 코베전 0-1 패배를 포함해 최근 10경기에서 2패를 기록했고, 평균 득점이 1.4골 수준으로 공격 페이스는 다소 낮아진 것이 아쉽습니다. 최근 무승부가 잦았던 흐름과 비교하면 홈에서 득점을 쌓는 쪽으로 방향을 잘 잡아내고 있어, 안정적인 운영과 실점 관리가 돋보이는 경기력을 보이고 있습니다."
+awayAnalysis: "베이징 궈안은 앞선 31경기에서 19승 9무 3패로 승률 61%를 기록했고, 평균 2.2골이라는 높은 화력을 바탕으로 승승장구했습니다. 최근 10경기에서는 6승 2무 2패를 거두며 여전히 높은 승률을 유지하고 있지만, 두 차례 패배 모두 대량 실점이 동반된 점에 주목할 필요가 있습니다. 특히 포트 FC전 4-7 대패와 상하이 포트전 0-2 무득점 패배가 최근 부진의 원인으로 꼽힙니다. 그 사이 청두 웨스트코스트전, 푸리람 유나이티드전, 칭다오 하이니우전에서는 1-0 또는 3-0으로 승리를 거두며 승리에 집중한 실리적 운영이 강점으로 평가됩니다. 포항 스틸러스전 3-1 승리는 아시아 무대에서의 위상을 보여주고 있으며, 무패 행진 속에서도 득점과 실점이 모두 큰 편차가 있어 안정감을 높이는 작업이 과제로 보입니다."
+homePower: "대전 시티즌 직전 2경기서 5득점, 홈 화력 살아난 흐름|최근 5경기 4득점 이상 경기 5회, 꾸준한 득점력 유지|상대전 무승부 5회, 경기 흐름 중립형 스타일|대량 실점 경기는 1회, 실점 관리 안정적|강릉 FC전 3골, 역전·승부처 득점 생산력 보임"
+awayPower: "베이징 궈안 직전 4경기서 4득점, 안정된 득점 페이스|포트 FC전 7-4, 공격화력은 높으나 실점 동반 경계|최근 5경기 4골 이상 3회, 대량 득점 능력 확인|승리 3경기 중 2골 이하 2회, 승리에 집중하는 실리 운영|상하이 포트전 0-2 무득점 패, 선제 실점 대응 취약함"
+h2h: '[]'
+summary: "대전 시티즌은 최근 30경기에서 14승 10무 6패를 거두며 무승부가 잦은 중립형 운영을 보여주고 있지만, 홈에서는 2경기 연속 2골 이상을 득점하며 공격 페이스가 살아나고 있습니다. 반면 베이징 궈안은 31경기에서 19승 9무 3패로 승률 61%라는 압도적 전적을 갖고 있으며 평균 득점이 2.2골로 대전 시티즌의 1.7골을 크게 상회합니다. 다만 베이징 궈안은 최근 포트 FC전 4-7 대패와 상하이 포트전 0-2 패에서 수비 공백이 드러났고, 대전 시티즌은 홈에서 무실점 승리 2회를 포함해 실점 관리가 탄탄합니다. 전체적인 화력과 경기 운영 면에서는 베이징 궈안의 우위가 보이며, 이번 경기는 홈에서 안정감을 찾는 대전 시티즌과 화력에서 앞서는 베이징 궈안 간 팽팽한 승부가 될 전망입니다. 두 팀 모두 득점력이 살아난 흐름이기에 치열한 공방전이 예상되고, 승리의 쟁점은 실점 관리와 결정력에서 가려질 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.21","home":"강원 FC","away":"대전 시티즌","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6503839-2026-11-21-gangwon-fc/"},{"date":"26.11.08","home":"대전 시티즌","away":"인천 유나이티드","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6503835-2026-11-08-daejeon-hana-citizen/"},{"date":"26.11.03","home":"가시와 레이솔","away":"대전 시티즌","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6050002-2026-11-03-kashiwa-reysol/"},{"date":"26.10.31","home":"전북 현대","away":"대전 시티즌","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6503832-2026-10-31-jeonbuk-hyundai-motors-fc/"},{"date":"26.10.27","home":"대전 시티즌","away":"비셀 고베","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6049992-2026-10-27-daejeon-hana-citizen/"}]'
+awayRecent: '[{"date":"26.11.20","home":"베이징 궈안","away":"상하이 하이강","score":"0-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6146317-2026-11-20-beijing-guoan/"},{"date":"26.11.08","home":"베이징 궈안","away":"충칭 통량룽","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186637-2026-11-08-beijing-guoan/"},{"date":"26.11.03","home":"Port FC","away":"베이징 궈안","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6050005-2026-11-03-port-fc/"},{"date":"26.10.27","home":"베이징 궈안","away":"전북 현대","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6049996-2026-10-27-beijing-guoan/"},{"date":"26.10.24","home":"허난 FC","away":"베이징 궈안","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5186631-2026-10-24-henan-fc/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: ""
+pickWinResult: "무승부"
+pickHandicapTeam: ""
+pickHandicapValue: ""
+pickExpectedHome: "2"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

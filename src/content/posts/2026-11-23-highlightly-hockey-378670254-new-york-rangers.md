@@ -1,0 +1,37 @@
+---
+title: "뉴욕 레인저스 vs 캐롤라이나 허리케인스 하키분석·승부예측 (11월 23일) - 픽천국"
+date: 2026-11-22T17:30:00.000Z
+description: "뉴욕 레인저스 vs 캐롤라이나 허리케인스 하키분석: 캐롤라이나 허리케인스는 리그순위 1위로 17승 3패의 전적을 유지하고 있어, 득실 차 +42라는 압도적 득실 우위가 확실한 강… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378670254-2026-11-23-new-york-rangers"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "뉴욕 레인저스"
+awayTeam: "캐롤라이나 허리케인스"
+homeLogo: "https://highlightly.net/hockey/images/teams/589676.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/576060.png"
+homeAnalysis: "뉴욕 레인저스는 앞선 24경기에서 15승 9패로 승률 63%를 기록했고, 이 흐름이 최근에는 더 탄력을 받고 있습니다. 최근 10경기에서 7승 3패를 거두면서 직전 3연승을 달리는 좋은 흐름이 보이며, 이번 경기 직전 몬트리올 캐�디언스와의 홈경기에서도 3대1로 승리해 자신감을 안고 경기에 임하게 됩니다. 득점력은 최근 경기에서 경기당 3.5득점으로 안정적으로 보이며, 최근 10경기에서 5번이나 4득점 이상을 올리며 공격의 꾸준함도 강점으로 평가됩니다. 다만 실점 측면에서 오타와 센테너스전 4실점, 토론토 maple리프스전 4실점 같은 고비가 있었기에, 리그순위 7위로 10경기차를 유지하면서 강팀과의 승부에서는 실점 관리가 관건이 될 것으로 보입니다. 또한 핵심 선수 다수가 결장 명단에 있는 상황이라 전력 손실을 만회할 수 있는지가 홈 경기의 중요한 변수로 보입니다."
+awayAnalysis: "캐롤라이나 허리케인스는 앞선 42경기에서 33승 9패로 승률 79%를 기록했고, 이 강세가 최근까지도 뚜렷하게 이어지고 있습니다. 최근 10경기에서 8승 2패를 거두는 동안 경기당 4.4득점을 올렸으며, 시카고 블랙호크스전에서 9득점을 폭발하는 등 화력 면에서 확실한 강점으로 평가됩니다. 또한 리그순위 1위로 17승 3패,得失 +42라는 압도적 득실 차를 바탕으로, 홈에서는 20경기 전승을 이어가는 홈 강세와 함께 원정에서도 4득점 이상을 올린 경기가 여러 차례 보임에 따라 어디에서나 이기는 능력이 검증된 상태입니다. 다만 니콜라이 에일러스가 결장 명단에 올라 있어 공격진에서 가장 무게감 있는 자원 하나를 잃는 점은 이번 원정 경기의 주의점으로 보이며, 최근 2패(1-2, 4-1)에서 모두 2득점 이하에 그친 흐름을 끊어내야 하는 과제가 남아 있습니다."
+homePower: "최근 3연승 포함 10경기 7승, 반등 흐름이 뚜렷|10경기 4득점 이상 5회, 화력의 꾸준함이 강점|4-0, 5-4, 7-4 실점패 3회, 실점 관리는 과제|현재 리그순위 7위, 10경기차 유지|주요 결장자 5명, 전력 손실 변수"
+awayPower: "42경기 79%, 승률 압도적 1위|최근 10경기 4.4득점, 폭발적 화력|20경기 무패, 홈 운영력 최강|10경기차 1위, 得失 +42 격차|에일러츠 결장, 공격진 이탈 주의"
+h2h: '[]'
+summary: "캐롤라이나 허리케인스는 리그순위 1위로 17승 3패의 전적을 유지하고 있어, 득실 차 +42라는 압도적 득실 우위가 확실한 강점으로 평가됩니다. 득점력에서도 경기당 4.1득점, 특히 최근 10경기에서 4.4득점을 기록하며 화력 면에서 확연히 우위이고, 10경기 8승 2패의 흐름까지 좋아 홈에서도 20경기 무패의 운영력을 보여주고 있습니다. 뉴욕 레인저스는 최근 10경기 7승 3패로 반등 흐름을 타고 있으나, 경기당 3.5득점에 그치는 득점력과 4점 이상을 실점한 패배가 반복된 실점 관리가 관건이며, 핵심 선수 다수가 결장 명단에 있는 점을 보면 전력에서 열세로 보입니다. 두 팀의 전력과 최근 흐름을 함께 보면 캐롤라이나 허리케인스가 승리를 가져갈 가능성이 높다고 볼 수 있습니다."
+homeRecent: '[{"date":"26.11.17","home":"뉴욕 레인저스","away":"몬트리올 캐네이디언스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378634512-2026-11-17-new-york-rangers/"},{"date":"26.11.14","home":"밴쿠버 카넉스","away":"뉴욕 레인저스","score":"1-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378616641-2026-11-14-vancouver-canucks/"},{"date":"26.11.12","home":"캘거리 플레임스","away":"뉴욕 레인저스","score":"1-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378603025-2026-11-12-calgary-flames/"},{"date":"26.11.10","home":"에드먼턴 오일러스","away":"뉴욕 레인저스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378593664-2026-11-10-edmonton-oilers/"},{"date":"26.11.08","home":"시애틀 크라켄","away":"뉴욕 레인저스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378580048-2026-11-08-seattle-kraken/"}]'
+awayRecent: '[{"date":"26.11.22","home":"캐롤라이나 허리케인스","away":"에드먼턴 오일러스","score":"7-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378658340-2026-11-22-carolina-hurricanes/"},{"date":"26.11.20","home":"캐롤라이나 허리케인스","away":"몬트리올 캐네이디언스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378648128-2026-11-20-carolina-hurricanes/"},{"date":"26.11.15","home":"캐롤라이나 허리케인스","away":"시애틀 크라켄","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378618343-2026-11-15-carolina-hurricanes/"},{"date":"26.11.13","home":"시애틀 크라켄","away":"캐롤라이나 허리케인스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378607280-2026-11-13-seattle-kraken/"},{"date":"26.11.08","home":"캐롤라이나 허리케인스","away":"시카고 블랙호크스","score":"9-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378583452-2026-11-08-carolina-hurricanes/"}]'
+injuryHome: "Oliver Bjorkstrand (부상 예비) | Alberts Smits (부상 예비) | Pavel Dorofeyev (부상 예비) | Sean Durzi (부상 예비) | Joe Veleno (부상 예비)"
+injuryAway: "Nikolaj Ehlers (결장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "캐롤라이나 허리케인스"
+pickWinResult: "승"
+pickHandicapTeam: "캐롤라이나 허리케인스"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "3"
+pickExpectedAway: "5"
+pickOuValue: ""
+pickOuDirection: ""
+---

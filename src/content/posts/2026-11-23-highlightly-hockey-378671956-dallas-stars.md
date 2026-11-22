@@ -1,0 +1,37 @@
+---
+title: "댈러스 스타스 vs 피츠버그 펭귄스 하키분석·승부예측 (11월 23일) - 픽천국"
+date: 2026-11-23T00:00:00.000Z
+description: "댈러스 스타스 vs 피츠버그 펭귄스 하키분석: 댈러스 스타스는 최근 경기력과 홈 안정성에서 우위를 점하고 있습니다. 피츠버그 펭귄스는 평균 득점이 높지만 실점 방지와 마무리… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378671956-2026-11-23-dallas-stars"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "댈러스 스타스"
+awayTeam: "피츠버그 펭귄스"
+homeLogo: "https://highlightly.net/hockey/images/teams/580315.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/593080.png"
+homeAnalysis: "댈러스 스타스는 앞선 29경기에서 17승 12패로 승률 59%를 기록했고 최근 10경기에서 6승 4패로 흐름을 이어가며 상승세에 있습니다. 직전 5경기 중 4경기에서 승리를 챙기며 공수 안정감이 보였고, 최근 경기들이 대체로 2득점 이상을 올리는 안정적 화력을 나타냈습니다. 특히 홈에서는 코룸버스 블루 재킷츠 상대 3대 1 승리, 부팔로 새버츠 상대 2대 0 승리 등 홈 무득점 위주 경기에서도 강한 집중력을 보여 주었습니다. 리그순위 4위와 14승 6패, 8경기차, 득실 64대 56(+8.0)이라는 수치에서도 득실 우위가 뚜렷함을 확인할 수 있습니다. Tyler Myers, Oskar Back, Kyle Capobianco, Lian Bichsel, Matt Duchene의 결장은 전력 공백으로 작용하지만, 최근 경기력이 이를 상쇄할 만큼 탄탄해 보입니다."
+awayAnalysis: "피츠버그 펭귄스는 앞선 28경기에서 11승 17패로 승률 39%를 기록했고, 최근 10경기에서 3승 7패로 부진한 흐름이 계속되고 있습니다. 평균 득점은 2.9로 화력은 나쁘지 않지만, 실점 방지와 마무리력이 아쉬운 경기 구성이 반복되고 있습니다. 직전 경기 5경기 중 4패를 기록했으며, 특히 실점 5점 이상 경기에서 무너지는 취약점이 두드러집니다. 리그순위 16위와 7승 12패, 21경기차, 득실 64대 76(-12.0)의 수치도 팀 전체의 승패 격차를 보여 줍니다. Bryan Rust, Evgeni Malkin, Nick Robertson, Elmer Soderblom, Ryan Graves의 결장은 공격과 수비 모두에 부담으로 작용합니다. 최근 홈에서의 세인트루이스 블루스 상대 2대 5 패배와 오타와 세너터스 상대 1대 4 패배에서 볼 수 있듯, 실점 차단이 최대 과제로 보입니다."
+homePower: "최근 5경기 4승 1패, 직전 경기 4대 3 역전승 포함 꾸준함|2026 시즌 홈경기 5승 2패, 홈 안정성|평균 득점 2.8과 직전 경기 연속 2득점 이상 화력|최근 29경기 실점 5점 이상 경기 3번에 그침, 수비 안정|Tyler Myers 포함 결장자 5명에도 최근 흐름 유지"
+awayPower: "평균 득점 2.9의 화력 대비 실점 4.8의 방어력 열세|최근 10경기 3승 7패, 부진한 경기 구성|실점 5점 이상 경기 4번, 마무리 효율 낮음|Evgeni Malkin 포함 결장자 5명, 전력 공백|리그순위 16위와 21경기차, 승패 격차"
+h2h: '[{"date":"26.10.11","home":"피츠버그 펭귄스","away":"댈러스 스타스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378417507-2026-10-11-pittsburgh-penguins/"}]'
+summary: "댈러스 스타스는 최근 경기력과 홈 안정성에서 우위를 점하고 있습니다. 피츠버그 펭귄스는 평균 득점이 높지만 실점 방지와 마무리력이 아쉬운 모습입니다. 직전 상대전적에서 피츠버그 펭귄스가 2대 1로 이겼으나, 최근 댈러스 스타스의 흐름이 더 탄탄합니다. 홈에서의 댈러스 스타스는 5승 2패로 강점을 보였고, 최근 경기에서도 연승 흐름을 이어가는 중입니다. 피츠버그 펭귄스는 최근 10경기에서 3승 7패로 부진하며, 실점 5점 이상 경기에서 무너지는 취약점이 반복됩니다. 두 팀의 전력 차이와 득실 흐름을 고려할 때, 홈팀의 우세가 예상됩니다."
+homeRecent: '[{"date":"26.11.18","home":"베가스 골든나이츠","away":"댈러스 스타스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378643873-2026-11-18-vegas-golden-knights/"},{"date":"26.11.16","home":"댈러스 스타스","away":"플로리다 팬더스","score":"2-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631959-2026-11-16-dallas-stars/"},{"date":"26.11.15","home":"댈러스 스타스","away":"버펄로 세이버스","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626853-2026-11-15-dallas-stars/"},{"date":"26.11.13","home":"댈러스 스타스","away":"위니펙 제츠","score":"3-8","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614088-2026-11-13-dallas-stars/"},{"date":"26.11.08","home":"댈러스 스타스","away":"산호세 샤크스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378584303-2026-11-08-dallas-stars/"}]'
+awayRecent: '[{"date":"26.11.20","home":"피츠버그 펭귄스","away":"세인트루이스 블루스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378649830-2026-11-20-pittsburgh-penguins/"},{"date":"26.11.15","home":"피츠버그 펭귄스","away":"오타와 세너터스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378623449-2026-11-15-pittsburgh-penguins/"},{"date":"26.11.12","home":"산호세 샤크스","away":"피츠버그 펭귄스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378605578-2026-11-12-san-jose-sharks/"},{"date":"26.11.09","home":"애너하임 덕스","away":"피츠버그 펭귄스","score":"5-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378592813-2026-11-09-anaheim-ducks/"},{"date":"26.11.08","home":"LA 킹스","away":"피츠버그 펭귄스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378586005-2026-11-08-los-angeles-kings/"}]'
+injuryHome: "Tyler Myers (미지정 결장)|Oskar Back (부상 예비 - 골절)|Kyle Capobianco (부상 예비)|Lian Bichsel (부상 예비)|Matt Duchene (부상 예비)"
+injuryAway: "Bryan Rust (부상 예비)|Evgeni Malkin (결장)|Nick Robertson (부상 예비 - 미지정)|Elmer Soderblom (부상 예비)|Ryan Graves (부상 예비)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "댈러스 스타스"
+pickWinResult: "승"
+pickHandicapTeam: "댈러스 스타스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

@@ -1,0 +1,37 @@
+---
+title: "뉴욕 닉스 vs 인디애나 페이서스 농구분석·승부예측 (11월 23일) - 픽천국"
+date: 2026-11-23T01:00:00.000Z
+description: "뉴욕 닉스 vs 인디애나 페이서스 농구분석: 이번 맞대결에서는 양 팀 모두 최근 흐름과 전력에서 뚜렷한 차이를 보이고 있습니다. 뉴욕 닉스가 20승 10패로 67% 승률을… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109827-2026-11-23-new-york-knicks"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "뉴욕 닉스"
+awayTeam: "인디애나 페이서스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/18_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/11_300300.png"
+homeAnalysis: "뉴욕 닉스는 앞선 30경기에서 20승 10패로 승률 67%를 기록했고, 최근 3연승을 거두며 분위기를 끌어올리고 있습니다. 특히 26/11/20 미네소타 팀버울브스와 26/11/18 토론토 랩터스전에 이어 26/11/15 토론토 랩터스전까지 원정에서 승리를 이어가는 등 강한 원정 전력을 보이고 있으며, 최근 10경기 4승 6패의 기복 속에서도 상위권 전력을 유지하고 있습니다. 현재 리그순위 6위로 9승 6패, 승률 .600을 기록 중이며, 득실차 +89.0이라는 확실한 공수 밸런스가 강점으로 평가됩니다. 최근 경기 평균 득점이 106.1점에 달해 화력이 안정적이지만, 카를-안토니 타운스, 오지 아누노비, 조던 클락슨의 부재로 인한 로테이션 공백은 주의해야 할 부분입니다. 그럼에도 브루클린 네츠와의 3연전 승리와 필라델피아 세븐티식서스전 대승 등 상대에 따라 큰 스코어를 만들 수 있는 공격력은 돋보입니다."
+awayAnalysis: "인디애나 페이서스는 앞선 14경기에서 6승 8패로 승률 43%를 기록했고, 최근 3연패를 당하며 다소 흔들리고 있습니다. 26/11/21 클리블랜드 캐버리어스전, 26/11/19 휴스턴 로케츠전, 26/11/15 필라델피아 세븐티식서스전에서 모두 패배하며 실점이 119점, 124점으로 많았던 흐름이 보이며, 수비 안정화가 과제로 남아 있습니다. 반면 26/11/14 뉴욕 닉스와의 홈에서 106-104로 승리를 거두는 등 상대에 따라 충분히 이길 수 있는 전력이며, 최근 10경기 평균 득점 112.6점으로 화력은 상위권입니다. 현재 리그순위 11위로 5승 11패, 승률 .313를 기록 중이며 득실차 -58.0로 실점 관리가 다소 밀리는 편이지만, 타이리스 할리버튼과 티.제이 매컨콜이 부상으로 결장하는 점은 큰 전력 손실입니다. 패스클 시아кам은 경미한 결장으로 경기에 따라 출전이 가능할 것으로 보이며, 최근 3연패 속에서도 화력은 유지하고 있어 반등 조짐을 보여주고 있습니다."
+homePower: "최근 3연승 포함 원정 4경기 3승, 원정 운영 강점|최근 10경기 4승 6패, 기복 있는 흐름 관리 과제|득실차 +89.0, 확실한 공수 밸런스 우위|평균 득점 106.1점, 꾸준한 화력 유지|상위권 수비 속 타운스 부재 로테이션 공백 변수"
+awayPower: "최근 10경기 평균 득점 112.6점, 화력 상위권|득실차 -58.0, 실점 관리 취약|최근 3연패, 분위기 반등 필요|타운스-할리버튼 결장, 가드라인 전력 손실|상대전적 우위, 닉스 상대 1승 0패"
+h2h: '[{"date":"26.11.14","home":"인디애나 페이서스","away":"뉴욕 닉스","score":"106-104","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109755-2026-11-14-indiana-pacers/"}]'
+summary: "이번 맞대결에서는 양 팀 모두 최근 흐름과 전력에서 뚜렷한 차이를 보이고 있습니다. 뉴욕 닉스가 20승 10패로 67% 승률을 기록 중인 반면, 인디애나 페이서스는 6승 8패로 43% 승률에 그치고 있어 최근 상대전적에서 인디애나 페이서스가 106-104로 우위를 점한 점도 주목할 만합니다. 득실차 기준으로도 뉴욕 닉스가 +89.0으로 안정적 수비를 보이고 있지만, 인디애나 페이서스가 최근 10경기 평균 득점 112.6점으로 화력에서 앞서고 있어 접전이 예상됩니다. 타운스와 할리버튼의 부상이 양 팀 전력에 변수로 작용할 것으로 보이며, 종합적으로 보면 인디애나 페이서스가 홈에서의 뉴욕 닉스를 상대로 우위를 점할 가능성이 높습니다."
+homeRecent: '[{"date":"26.11.20","home":"미네소타 팀버울브스","away":"뉴욕 닉스","score":"99-102","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109804-2026-11-20-minnesota-timberwolves/"},{"date":"26.11.18","home":"토론토 랩터스","away":"뉴욕 닉스","score":"102-111","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109786-2026-11-18-toronto-raptors/"},{"date":"26.11.16","home":"토론토 랩터스","away":"뉴욕 닉스","score":"108-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109774-2026-11-16-toronto-raptors/"},{"date":"26.11.14","home":"인디애나 페이서스","away":"뉴욕 닉스","score":"106-104","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109755-2026-11-14-indiana-pacers/"},{"date":"26.11.12","home":"뉴욕 닉스","away":"클리블랜드 캐벌리어스","score":"107-115","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109742-2026-11-12-new-york-knicks/"}]'
+awayRecent: '[{"date":"26.11.21","home":"클리블랜드 캐벌리어스","away":"인디애나 페이서스","score":"128-119","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109808-2026-11-21-cleveland-cavaliers/"},{"date":"26.11.19","home":"인디애나 페이서스","away":"휴스턴 로키츠","score":"104-119","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109792-2026-11-19-indiana-pacers/"},{"date":"26.11.16","home":"필라델피아 76ers","away":"인디애나 페이서스","score":"131-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109769-2026-11-16-philadelphia-76ers/"},{"date":"26.11.14","home":"인디애나 페이서스","away":"뉴욕 닉스","score":"106-104","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109755-2026-11-14-indiana-pacers/"},{"date":"26.11.12","home":"인디애나 페이서스","away":"워싱턴 위저즈","score":"114-101","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109741-2026-11-12-indiana-pacers/"}]'
+injuryHome: "Karl-Anthony Towns (결장)|OG Anunoby (결장)|Jordan Clarkson (족저근막염으로 결장)"
+injuryAway: "T.J. McConnell (결장)|Pascal Siakam (경미한 통증으로 경기별 출전 확인 필요)|Tyrese Haliburton (긴장 부상으로 결장)|Johnny Furphy (수술로 결장)|Ben Sheppard (결장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "인디애나 페이서스"
+pickWinResult: "승"
+pickHandicapTeam: "인디애나 페이서스"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "언더"
+---
