@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.07","home":"서울 이랜드 FC","away":"전남 드
 awayRecent: '[{"date":"26.11.08","home":"파주 시티즌","away":"아산 무궁화","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155959-2026-11-08-paju-frontier/"},{"date":"26.10.31","home":"아산 무궁화","away":"김포 시티즌","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155946-2026-10-31-chungnam-asan-fc/"},{"date":"26.10.25","home":"수원 FC","away":"아산 무궁화","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000020050-2026-10-25-suwon-fc/"},{"date":"26.10.17","home":"경남 FC","away":"아산 무궁화","score":"0-0","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155931-2026-10-17-gyeongnam-fc/"},{"date":"26.10.10","home":"김해 시티","away":"아산 무궁화","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155926-2026-10-10-gimhae-fc-2008/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Min Seong-Jun (GK)|https://images.fotmob.com/image_resources/playerimages/1338861.png\",\"Kim Ju-Hwan (DF)|https://images.fotmob.com/image_resources/playerimages/1136004.png\",\"Baek Ji-Ung (DF)|https://images.fotmob.com/image_resources/playerimages/1652191.png\",\"Caio Marcelo (DF)|https://images.fotmob.com/image_resources/playerimages/980462.png\",\"Oh In-Pyo (DF)|https://images.fotmob.com/image_resources/playerimages/925343.png\",\"Jo Joon-Hyeon (MF)|https://images.fotmob.com/image_resources/playerimages/1630735.png\",\"Yoon Suk-Ju (MF)|https://images.fotmob.com/image_resources/playerimages/1232399.png\",\"Kang Hyeon-Je (MF)|https://images.fotmob.com/image_resources/playerimages/1440088.png\",\"Euller (FW)|https://images.fotmob.com/image_resources/playerimages/477362.png\",\"Bak Jae-Yong (FW)|https://images.fotmob.com/image_resources/playerimages/1398946.png\",\"Ahn Joo-Wan (FW)|https://images.fotmob.com/image_resources/playerimages/2001755.png\"]"
+awayLineup: "[\"Shin Song-Hoon (GK)|https://images.fotmob.com/image_resources/playerimages/1232539.png\",\"Byun Jun-Young (DF)|https://images.fotmob.com/image_resources/playerimages/1638998.png\",\"Kim Hye-Seong (DF)|https://images.fotmob.com/image_resources/playerimages/925842.png\",\"Lee Ho-In (DF)|https://images.fotmob.com/image_resources/playerimages/925330.png\",\"Sin Il-Yeon (MF)|https://images.fotmob.com/image_resources/playerimages/1620504.png\",\"Son Jun-Ho (MF)|https://images.fotmob.com/image_resources/playerimages/523720.png\",\"Kim Young-Nam (MF)|https://images.fotmob.com/image_resources/playerimages/433654.png\",\"Kim Ju-Sung (MF)|https://images.fotmob.com/image_resources/playerimages/1337110.png\",\"Denisson (FW)|https://images.fotmob.com/image_resources/playerimages/866367.png\",\"Kim Jong-Min (FW)|https://images.fotmob.com/image_resources/playerimages/431886.png\",\"Han Kyo-Won (FW)|https://images.fotmob.com/image_resources/playerimages/254292.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "3-4-3"
+homeCoach: "Kim Do-Kyun|https://images.fotmob.com/image_resources/playerimages/1136259.png"
+awayCoach: "André|https://images.fotmob.com/image_resources/playerimages/1135629.png"
 pickWinTeam: "서울 이랜드 FC"
 pickWinResult: "승"
 pickHandicapTeam: "서울 이랜드 FC"

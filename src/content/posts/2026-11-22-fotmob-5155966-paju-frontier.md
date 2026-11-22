@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.08","home":"파주 시티즌","away":"아산 무궁
 awayRecent: '[{"date":"26.11.08","home":"천안 시티","away":"부산 아이파크","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155957-2026-11-08-cheonan-city/"},{"date":"26.11.01","home":"김해 시티","away":"천안 시티","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155951-2026-11-01-gimhae-fc-2008/"},{"date":"26.10.25","home":"천안 시티","away":"안산 그리너스","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155941-2026-10-25-cheonan-city/"},{"date":"26.10.10","home":"천안 시티","away":"경남 FC","score":"1-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155925-2026-10-10-cheonan-city/"},{"date":"26.09.19","home":"아산 무궁화","away":"천안 시티","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155912-2026-09-19-chungnam-asan-fc/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Lee Min-Ki (DF)|https://images.fotmob.com/image_resources/playerimages/1836920.png\",\"Lee Joon-Suk (MF)|https://images.fotmob.com/image_resources/playerimages/1042269.png\",\"Kim Hyun-Tae (DF)|https://images.fotmob.com/image_resources/playerimages/828060.png\",\"Sim Min-Yong (DF)|https://images.fotmob.com/image_resources/playerimages/1149617.png\",\"Jun-Hyuk Ahn (FW)|https://images.fotmob.com/image_resources/playerimages/1132901.png\",\"Borja Bastón (FW)|https://images.fotmob.com/image_resources/playerimages/200917.png\",\"Julián Bonilla (DF)|https://images.fotmob.com/image_resources/playerimages/1356325.png\",\"Choi Bum-Kyung (MF)|https://images.fotmob.com/image_resources/playerimages/940691.png\",\"Ryu Won-Woo (GK)|https://images.fotmob.com/image_resources/playerimages/307920.png\",\"Lee Dae-Kwang (FW)|https://images.fotmob.com/image_resources/playerimages/1440058.png\",\"Park Su-Bin (MF)|https://images.fotmob.com/image_resources/playerimages/1840891.png\"]"
+awayLineup: "[\"Lee Gyu-Min (FW)|https://images.fotmob.com/image_resources/playerimages/1612385.png\",\"Lee Jun-Ho (FW)|https://images.fotmob.com/image_resources/playerimages/1337171.png\",\"Jeong Ji-Hwang (DF)|https://images.fotmob.com/image_resources/playerimages/1825789.png\",\"Bruno Lamas (FW)|https://images.fotmob.com/image_resources/playerimages/617023.png\",\"Choi Kyu-Baek (DF)|https://images.fotmob.com/image_resources/playerimages/732025.png\",\"Lee Ji-Seung (MF)|https://images.fotmob.com/image_resources/playerimages/1135878.png\",\"Aboubacar Toungara (MF)|https://images.fotmob.com/image_resources/playerimages/897327.png\",\"Park Dae-Han (GK)|https://images.fotmob.com/image_resources/playerimages/828057.png\",\"Choi Jun-Hyeok (MF)|https://images.fotmob.com/image_resources/playerimages/925335.png\",\"Kwon Yong-Seung (DF)|https://images.fotmob.com/image_resources/playerimages/1999276.png\",\"Park Chang-Woo (DF)|https://images.fotmob.com/image_resources/playerimages/1337175.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "4-3-3"
+homeCoach: "Gerard Nus|https://images.fotmob.com/image_resources/playerimages/1207584.png"
+awayCoach: "Park Jin-Sub|https://images.fotmob.com/image_resources/playerimages/1135961.png"
 pickWinTeam: "천안 시티"
 pickWinResult: "승"
 pickHandicapTeam: "천안 시티"
