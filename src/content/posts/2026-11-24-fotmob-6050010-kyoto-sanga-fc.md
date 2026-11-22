@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.21","home":"교토 상가","away":"우라와 레드
 awayRecent: '[{"date":"26.11.21","home":"포항 스틸러스","away":"FC 안양","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6503954-2026-11-21-pohang-steelers/"},{"date":"26.11.08","home":"부천 FC","away":"포항 스틸러스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6503953-2026-11-08-bucheon-fc-1995/"},{"date":"26.11.04","home":"포항 스틸러스","away":"감바 오사카","score":"3-3","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6050006-2026-11-04-pohang-steelers/"},{"date":"26.11.01","home":"포항 스틸러스","away":"제주 유나이티드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6503949-2026-11-01-pohang-steelers/"},{"date":"26.10.28","home":"가시마 앤틀러스","away":"포항 스틸러스","score":"3-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6049999-2026-10-28-kashima-antlers/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Halls (GK)|https://images.fotmob.com/image_resources/playerimages/1282076.png\",\"Hisashi Tawiah (DF)|https://images.fotmob.com/image_resources/playerimages/1155059.png\",\"Yoshinori Suzuki (DF)|https://images.fotmob.com/image_resources/playerimages/628316.png\",\"Takaaki Shichi (MF)|https://images.fotmob.com/image_resources/playerimages/747904.png\",\"Sung-Jun Yoon (MF)|https://images.fotmob.com/image_resources/playerimages/1793782.png\",\"Shimpei Fukuoka (MF)|https://images.fotmob.com/image_resources/playerimages/941492.png\",\"João Pedro (MF)|https://images.fotmob.com/image_resources/playerimages/1281588.png\",\"Kyo Sato (DF)|https://images.fotmob.com/image_resources/playerimages/1337015.png\",\"Alex Negueba (FW)|https://images.fotmob.com/image_resources/playerimages/1288263.png\",\"Haruki Arai (FW)|https://images.fotmob.com/image_resources/playerimages/1285959.png\",\"Rafael Elias (FW)|https://images.fotmob.com/image_resources/playerimages/931201.png\"]"
+awayLineup: "[\"In-Jae Hwang (GK)|https://images.fotmob.com/image_resources/playerimages/730778.png\",\"Min-Jun Kang (DF)|https://images.fotmob.com/image_resources/playerimages/1711630.png\",\"Min-Kwang Jeon (DF)|https://images.fotmob.com/image_resources/playerimages/654164.png\",\"Chan-Yong Park (DF)|https://images.fotmob.com/image_resources/playerimages/648405.png\",\"Wanderson (DF)|https://images.fotmob.com/image_resources/playerimages/331738.png\",\"Kento Nishiya (MF)|https://images.fotmob.com/image_resources/playerimages/1499949.png\",\"Sung-Yueng Ki (MF)|https://images.fotmob.com/image_resources/playerimages/144996.png\",\"Dong-Jin Kim (MF)|https://images.fotmob.com/image_resources/playerimages/1611654.png\",\"Juninho (FW)|https://images.fotmob.com/image_resources/playerimages/1037550.png\",\"Jorge Teixeira (FW)|https://images.fotmob.com/image_resources/playerimages/1184786.png\",\"Seo-Woong Hwang (MF)|https://images.fotmob.com/image_resources/playerimages/1612389.png\"]"
+homeFormation: "3-4-2-1"
+awayFormation: "4-3-3"
+homeCoach: "Ranko Popović|https://images.fotmob.com/image_resources/playerimages/431271.png"
+awayCoach: "Sung-Jae Kim|https://images.fotmob.com/image_resources/playerimages/117394.png"
 pickWinTeam: "교토 상가"
 pickWinResult: "승"
 pickHandicapTeam: "교토 상가"
