@@ -179,7 +179,7 @@ Let me write the SUMMARY to conclude the home team is favored, based on their re
 **"
 homeRecent: '[{"date":"26.11.20","home":"피츠버그 펭귄스","away":"세인트루이스 블루스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378649830-2026-11-20-pittsburgh-penguins/"},{"date":"26.11.18","home":"세인트루이스 블루스","away":"애너하임 덕스","score":"8-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378642171-2026-11-18-st-louis-blues/"},{"date":"26.11.15","home":"세인트루이스 블루스","away":"플로리다 팬더스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620045-2026-11-15-st-louis-blues/"},{"date":"26.11.13","home":"유타 매머드","away":"세인트루이스 블루스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614939-2026-11-13-utah-mammoth/"},{"date":"26.11.11","home":"세인트루이스 블루스","away":"디트로이트 레드윙스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378599621-2026-11-11-st-louis-blues/"}]'
 awayRecent: '[{"date":"26.11.22","home":"캐롤라이나 허리케인스","away":"에드먼턴 오일러스","score":"7-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378658340-2026-11-22-carolina-hurricanes/"},{"date":"26.11.20","home":"탬파베이 라이트닝","away":"에드먼턴 오일러스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378650681-2026-11-20-tampa-bay-lightning/"},{"date":"26.11.18","home":"플로리다 팬더스","away":"에드먼턴 오일러스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378639618-2026-11-18-florida-panthers/"},{"date":"26.11.16","home":"필라델피아 플라이어스","away":"에드먼턴 오일러스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378630257-2026-11-16-philadelphia-flyers/"},{"date":"26.11.15","home":"토론토 메이플 리프스","away":"에드먼턴 오일러스","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378622598-2026-11-15-toronto-maple-leafs/"}]'
-injuryHome: "Connor McMichael[경미](Day-To-Day) | Torey Krug[주요](Injured Reserve) | Dillon Dube[주요](Injured Reserve - Not Specified) | Tyler Tucker[주요](Injured Reserve - Surgery)"
+injuryHome: "Connor McMichael[주요](Out) | Torey Krug[주요](Injured Reserve) | Dillon Dube[주요](Injured Reserve - Not Specified) | Tyler Tucker[주요](Injured Reserve - Surgery)"
 From ESPN:
 - Connor McMichael [Major] (Out)
 - Torey Krug [Major] (Injured Reserve)
@@ -194,7 +194,7 @@ Keep player names in English original.
 Wait, 'out' in Korean... The reason should be translated to Korean. 'Out' = 출장 불가 or 결장. 'Injured Reserve' = 부상 대기. 'Injured Reserve - Not Specified' = 부상 대기 (사유 미상). 'Injured Reserve - Surgery' = 부상 대기 (수술).
 
 **"
-injuryAway: "Ryan Nugent-Hopkins[주요](Out) | Zach Hyman[경미](Day-To-Day) | Alec Regula[주요](Injured Reserve) | Matt Savoie[주요](Injured Reserve - Not Specified) | Frederik Andersen[주요](Injured Reserve)"
+injuryAway: "Zach Hyman[주요](Out) | Ryan Nugent-Hopkins[주요](Out) | Alec Regula[주요](Injured Reserve) | Matt Savoie[주요](Injured Reserve - Not Specified) | Frederik Andersen[주요](Injured Reserve)"
 - Ryan Nugent-Hopkins [Major] (Out)
 - Zach Hyman [Minor] (Day-To-Day)
 - Alec Regula [Major] (Injured Reserve)
