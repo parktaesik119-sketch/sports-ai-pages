@@ -1,0 +1,37 @@
+---
+title: "애틀랜타 호크스 vs 디트로이트 피스톤스 농구분석·승부예측 (11월 23일) - 픽천국"
+date: 2026-11-22T20:30:00.000Z
+description: "애틀랜타 호크스 vs 디트로이트 피스톤스 농구분석: 애틀랜타 호크스와 디트로이트 피스톤스의 이번 대결은 홈 강세와 상위권 순위, 그리고 부상 변수가 교차하는 흐름입니다. 애틀랜타… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109822-2026-11-23-atlanta-hawks"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "애틀랜타 호크스"
+awayTeam: "디트로이트 피스톤스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/1_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/8_300300.png"
+homeAnalysis: "애틀랜타 호크스는 앞선 19경기에서 11승 8패로 승률 58%를 기록했고, 최근 10경기에서는 6승 4패와 평균 득점 108.7로 흐름을 이어가며 최근 4경기 중 3승의 상승세입니다. 4월과 5월 연승 흐름 이후에도 7월 18경기 10승과 11월 7경기 5승으로 승률을 꾸준히 유지하고 있으며, 홈 9경기에서 6승 3패로 홈 강세의 면모가 있습니다. 최근 경기 중 120득점 이상을 올린 경기가 5번에 달해 공격의 집중력은 돋보이지만, 경기당 평균 실점 104.9로 수비의 균형을 찾기 위한 보완이 필요합니다. 현재 리그순위 4위에 자리하고 있지만 상위권 팀들과의 승차차가 크지 않아 이번 경기가 순위를 견디는 분기점이 될 수 있습니다. 다만 CJ McCollum, Asa Newell, Mouhamed Gueye 등 주요 자원들이 결장하여 전력의 손실이 크고, Jock Landale의 부상까지 겹쳐 로테이션의 깊이를 기대하기 어려운 상태입니다."
+awayAnalysis: "디트로이트 피스톤스는 앞선 23경기에서 14승 9패로 승률 61%를 기록했고, 최근 10경기에서는 7승 3패와 평균 득점 115.6으로 상승세를 타고 있습니다. 10월과 11월 15경기에서 10승 5패로 안정적이며, 홈 12경기 7승 5패와 원정 11경기 7승 4패로 홈·원정 모두에서 승률을 유지하고 있습니다. 최근 4경기 3승으로 직전 패배를 빠르게 털어내는 회복력을 보여주고, 특히 원정 7승 4패를 기록해 원정에서도 강한 면모가 있습니다. 현재 리그순위 3위로 전체 순위를 주도하고 있으며, +87.0의 득실 격차로 수비와 득점 균형이 가장 좋은 팀 중 하나입니다. 다만 Taurean Prince의 수술 이후 결장과 Cade Cunningham의 Day-To-Day 상태가 변수로 작용할 수 있어, 이번 경기에서 로테이션 관리와 부상 선수들의 컨디션 확인이 필요합니다."
+homePower: "최근 4경기 3승으로 상승세|최근 120득점 이상 5경기로 공격 집중력|홈 9경기 6승 3패 홈 강세|주요 결장 5명으로 로테이션 두께|리그순위 4위로 상위권 유지"
+awayPower: "최근 10경기 7승 3패 상승세|리그순위 3위로 순위를 주도|평균 실점 98.7으로 수비 안정|최근 4경기 3승으로 회복력|원정 11경기 7승 4패로 원정 강세"
+h2h: '[]'
+summary: "애틀랜타 호크스와 디트로이트 피스톤스의 이번 대결은 홈 강세와 상위권 순위, 그리고 부상 변수가 교차하는 흐름입니다. 애틀랜타 호크스는 홈에서 승률을 꾸준히 가져갔지만 최근 경기에서 실점이 다소 많아졌고, 결장하는 선수들의 비중이 크다는 점에서 공격의 연속성을 유지해야 합니다. 디트로이트 피스톤스는 원정에서도 안정적인 승률과 평균 실점에서 우위를 보이고 있어 이번 경기에서 홈팀의 흐름을 제어할 가능성이 높습니다. 종합하면 디트로이트 피스톤스가 경기 흐름을 주도할 가능성이 크며, 애틀랜타 호크스의 홈 분위기가 변수가 될 수 있습니다."
+homeRecent: '[{"date":"26.11.21","home":"애틀랜타 호크스","away":"샬럿 호네츠","score":"111-97","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109807-2026-11-21-atlanta-hawks/"},{"date":"26.11.19","home":"오클라호마시티 썬더","away":"애틀랜타 호크스","score":"112-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109798-2026-11-19-oklahoma-city-thunder/"},{"date":"26.11.16","home":"밀워키 벅스","away":"애틀랜타 호크스","score":"106-113","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109776-2026-11-16-milwaukee-bucks/"},{"date":"26.11.14","home":"시카고 불스","away":"애틀랜타 호크스","score":"125-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109758-2026-11-14-chicago-bulls/"},{"date":"26.11.03","home":"인디애나 페이서스","away":"애틀랜타 호크스","score":"104-108","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110211-2026-11-03-indiana-pacers/"}]'
+awayRecent: '[{"date":"26.11.21","home":"디트로이트 피스톤스","away":"토론토 랩터스","score":"102-105","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109809-2026-11-21-detroit-pistons/"},{"date":"26.11.19","home":"뉴올리언스 펠리컨스","away":"디트로이트 피스톤스","score":"109-122","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109797-2026-11-19-new-orleans-pelicans/"},{"date":"26.11.18","home":"샌안토니오 스퍼스","away":"디트로이트 피스톤스","score":"93-105","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109788-2026-11-18-san-antonio-spurs/"},{"date":"26.11.15","home":"마이애미 히트","away":"디트로이트 피스톤스","score":"137-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109766-2026-11-15-miami-heat/"},{"date":"26.11.13","home":"워싱턴 위저즈","away":"디트로이트 피스톤스","score":"140-144","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109752-2026-11-13-washington-wizards/"}]'
+injuryHome: "Kingston Flemings (스트레인)|Jock Landale (염증)|Asa Newell (결장)|CJ McCollum (스트레인)|Mouhamed Gueye (골절)"
+injuryAway: "Ronald Holland II (타박상)|Ebuka Okorie (스트레인)|Cade Cunningham (근육통)|Taurean Prince (수술)|Ugonna Onyenso (경미)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "디트로이트 피스톤스"
+pickWinResult: "승"
+pickHandicapTeam: "디트로이트 피스톤스"
+pickHandicapValue: "-4.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---
