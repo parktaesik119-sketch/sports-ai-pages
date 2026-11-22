@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.07","home":"서울 이랜드 FC","away":"전남 드
 awayRecent: '[{"date":"26.11.07","home":"김포 시티즌","away":"안산 그리너스","score":"2-2","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-5155955-2026-11-07-gimpo-fc/"},{"date":"26.11.01","home":"수원 FC","away":"안산 그리너스","score":"1-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000020040-2026-11-01-suwon-fc/"},{"date":"26.10.25","home":"천안 시티","away":"안산 그리너스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155941-2026-10-25-cheonan-city/"},{"date":"26.10.17","home":"용인 FC","away":"안산 그리너스","score":"0-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5155932-2026-10-17-yongin-fc/"},{"date":"26.10.11","home":"수원 삼성 블루윙즈","away":"안산 그리너스","score":"4-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5155927-2026-10-11-suwon-samsung-bluewings/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Choi Bong-Jin (GK)|https://images.fotmob.com/image_resources/playerimages/654186.png\",\"Kim Beom-Su (DF)|https://images.fotmob.com/image_resources/playerimages/1376886.png\",\"Hong Seok-Hyeon (DF)|https://images.fotmob.com/image_resources/playerimages/1351103.png\",\"Ho Song (DF)|https://images.fotmob.com/image_resources/playerimages/2001689.png\",\"Jung Kang-Min (DF)|https://images.fotmob.com/image_resources/playerimages/1439993.png\",\"Mirandinha (MF)|https://images.fotmob.com/image_resources/playerimages/1381730.png\",\"Jang Yun-Ho (MF)|https://images.fotmob.com/image_resources/playerimages/640481.png\",\"Park Tae-Yong (MF)|https://images.fotmob.com/image_resources/playerimages/1462064.png\",\"Jeong Ji-Yong (MF)|https://images.fotmob.com/image_resources/playerimages/1104176.png\",\"Valdívia (FW)|https://images.fotmob.com/image_resources/playerimages/493595.png\",\"Ronan (FW)|https://images.fotmob.com/image_resources/playerimages/538536.png\"]"
+awayLineup: "[\"Kim Do-Dam (GK)|https://images.fotmob.com/image_resources/playerimages/1039703.png\",\"Rim Ji-Min (DF)|https://images.fotmob.com/image_resources/playerimages/1613068.png\",\"Tim Hartzell (DF)|https://images.fotmob.com/image_resources/playerimages/1165208.png\",\"Cho Ji-Hun (DF)|https://images.fotmob.com/image_resources/playerimages/255228.png\",\"Jang Hyun-Soo (DF)|https://images.fotmob.com/image_resources/playerimages/622139.png\",\"Kim Geon-Oh (MF)|https://images.fotmob.com/image_resources/playerimages/1410127.png\",\"Park Kyu-Min (MF)|https://images.fotmob.com/image_resources/playerimages/1337177.png\",\"Kang Dong-Hyun (MF)|https://images.fotmob.com/image_resources/playerimages/1970966.png\",\"Ryu Seung-Wan (FW)|https://images.fotmob.com/image_resources/playerimages/1732631.png\",\"Gabriel Lima (FW)|https://images.fotmob.com/image_resources/playerimages/1408130.png\",\"Kim In-Sung (FW)|https://images.fotmob.com/image_resources/playerimages/306233.png\"]"
+homeFormation: "4-4-2"
+awayFormation: "4-3-3"
+homeCoach: "Lim Kwan-Sik|https://images.fotmob.com/image_resources/playerimages/117386.png"
+awayCoach: "Choi Moon-Shik"
 pickWinTeam: "전남 드래곤즈"
 pickWinResult: "승"
 pickHandicapTeam: "전남 드래곤즈"
