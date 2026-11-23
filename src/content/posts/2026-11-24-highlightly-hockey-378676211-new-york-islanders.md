@@ -1,0 +1,37 @@
+---
+title: "뉴욕 아일런더스 vs 토론토 메이플 리프스 하키분석·승부예측 (11월 24일) - 픽천국"
+date: 2026-11-24T00:30:00.000Z
+description: "뉴욕 아일런더스 vs 토론토 메이플 리프스 하키분석: 뉴욕 아일런더스는 앞선 26경기에서 12승 14패로 승률 46%, 평균 득점 3.0을 기록했고, 홈경기에서는 디트로이트 레드 … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378676211-2026-11-24-new-york-islanders"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "뉴욕 아일런더스"
+awayTeam: "토론토 메이플 리프스"
+homeLogo: "https://highlightly.net/hockey/images/teams/588825.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/596484.png"
+homeAnalysis: "뉴욕 아일런더스는 앞선 26경기에서 12승 14패로 승률 46%를 기록했고, 평균 득점이 3.0으로 꾸준한 화력을 보이고 있어 이 흐름은 홈경기에서 더욱 두드러집니다. 최근 10경기에서는 5승 5패로 팽팽하지만, 디트로이트 레드 윙스전 3-2, 콜럼버스 블루 재키츠전 5-1, 애너하임 다크스전 6-2, 로스앤젤레스 킹스전 5-2처럼 큰 점수차로 이긴 승리가 4개나 있어 막판 집중력과 득점폭발력이 강점으로 평가됩니다. 홈구장에서 뉴저지 데빌스전 4-5, 캐롤라이나 히어캐น스전 3-5, 에드먼튼 Oilers전 0-4로 3연패에 빠진 구간은 있었지만, 그 후로 10월 30일 이후 원정 4경기에서 2승을 챙기며 밸런스를 회복하는 흐름입니다. 상대전적에서는 토론토 메이플 리프스와 최근 맞대결에서 4-1로 승리한 이력이 있고, 전반적으로 홈에서 안정적으로 운영하며 승점을 쌓는 모습이 보입니다. 현재 리그순위 8위로 11승 6패, 득실 +8.0을 기록하고 있어 순위보다 약간 낮은 흐름이지만 득실차가 양호하여 반등 여지가 충분합니다."
+awayAnalysis: "토론토 메이플 리프스는 앞선 29경기에서 10승 19패로 승률 34%를 기록했고, 평균 득점이 3.2이지만 최근 10경기에서는 1승 9패로 2.2 득점에 그쳐 확연히 하락한 흐름입니다. 11월 22일 콜럼버스전 3-4, 20일 로스앤젤레스 킹스전 3-4, 18일 시카고 블랙호크스전 3-6으로 3연패를 이어가며 득점력은 유지되나 실점이 잦아 승리를 챙기지 못하는 모습이 반복됩니다. 홈에서 에드먼튼 Oilers전 1-0, 미니소타 윙즈전 2-5로 각각 1골 차이 승리와 5실점 패배로 기복이 크고, 원정에서는 밴쿠버 카나크스전 4-2 승리 외에는 승리가 드문 편입니다. 최근 29경기에서 10승 19패이지만, 그 중 홈 5승 6패, 원정 5승 13패로 홈-원정 간 편차가 뚜렷하고, 현재 리그순위 14위, 득실 -12.0으로 수비 조직의 회복이 시급한 상태입니다."
+homePower: "홈경기 실점 2.9 vs 원정 3.4, 홈 특화 수비 밸런스|최근 10경기 5승 5패 중 4승이 2점차 이상, 결정력 차이|토론토 상대 2연승, 상대 상성 우위 확인|평균 득점 3.0 유지, 후반 20분 득점 비중 높음|리그순위 8위 대비 득실 +8.0, 수비 회복 중"
+awayPower: "최근 10경기 1승 9패, 원정 5연패 포함 기복 심함|평균 득점 2.2, 11월 실점 4.5로 수비 붕괴|홈 5승 6패 vs 원정 5승 13패, 홈 의존도 높음|콜럼버스-킹스 3연패, 연속 실점 8점 이상|리그순위 14위, 득실 -12.0으로 역전 전제"
+h2h: '[{"date":"26.10.18","home":"토론토 메이플 리프스","away":"뉴욕 아일런더스","score":"1-4","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378463461-2026-10-18-toronto-maple-leafs/"},{"date":"26.10.01","home":"토론토 메이플 리프스","away":"뉴욕 아일런더스","score":"2-1","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378358788-2026-10-01-toronto-maple-leafs/"}]'
+summary: "뉴욕 아일런더스는 앞선 26경기에서 12승 14패로 승률 46%, 평균 득점 3.0을 기록했고, 홈경기에서는 디트로이트 레드 윙스전 3-2, 콜럼버스 블루 재키츠전 5-1, 애너하임 다크스전 6-2로 큰 점수차 승리가 이어지며 안정된 화력을 보이고 있습니다. 반면 토론토 메이플 리프스는 앞선 29경기에서 10승 19패로 승률 34%, 평균 득점 3.2이지만 최근 10경기에서는 1승 9패로 2.2 득점에 그쳐 확연히 주춤한 흐름입니다. 토론토는 최근 콜럼버스 블루 재키츠, 로스앤젤레스 킹스, 시카고 블랙호크스와의 경기에서 3연패를 기록하며 득점력은 유지되나 실점이 잦아 승리를 챙기지 못하고 있고, 원정 5연패 기조에서 탈출하지 못했습니다. 두 팀의 상대전적은 최근 2경기에서 1승 1패로 팽팽하지만, 뉴욕 아일런더스의 최근 홈경기 승리와 득점력이 더 견고하며, 현재 리그순위 8위에서 14위로 격차가 있는 만큼 홈팀 뉴욕 아일런더스가 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.11.22","home":"디트로이트 레드윙스","away":"뉴욕 아일런더스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378665999-2026-11-22-detroit-red-wings/"},{"date":"26.11.20","home":"위니펙 제츠","away":"뉴욕 아일런더스","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378653234-2026-11-20-winnipeg-jets/"},{"date":"26.11.18","home":"뉴욕 아일런더스","away":"콜럼버스 블루재킷츠","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378638767-2026-11-18-new-york-islanders/"},{"date":"26.11.15","home":"애너하임 덕스","away":"뉴욕 아일런더스","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378628555-2026-11-15-anaheim-ducks/"},{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378615790-2026-11-13-los-angeles-kings/"}]'
+awayRecent: '[{"date":"26.11.22","home":"토론토 메이플 리프스","away":"콜럼버스 블루재킷츠","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378663446-2026-11-22-toronto-maple-leafs/"},{"date":"26.11.20","home":"토론토 메이플 리프스","away":"LA 킹스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378651532-2026-11-20-toronto-maple-leafs/"},{"date":"26.11.18","home":"시카고 블랙호크스","away":"토론토 메이플 리프스","score":"6-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378640469-2026-11-18-chicago-blackhawks/"},{"date":"26.11.15","home":"토론토 메이플 리프스","away":"에드먼턴 오일러스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378622598-2026-11-15-toronto-maple-leafs/"},{"date":"26.11.13","home":"토론토 메이플 리프스","away":"미네소타 와일드","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378612386-2026-11-13-toronto-maple-leafs/"}]'
+injuryHome: "Ryan Pulock (경미: 데이 투 데이)|Alexander Romanov (주요: 부상 등재 - 수술)"
+injuryAway: "Colton Sissons (주요: 부상 등재)|Jack Roslovic (경미: 데이 투 데이)|Kirill Marchenko (주요: 부상 등재)|Cole McWard (주요: 부상 등재)|Nick Blankenburg (주요: 부상 등재)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "뉴욕 아일런더스"
+pickWinResult: "승"
+pickHandicapTeam: "뉴욕 아일런더스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "2"
+pickOuValue: ""
+pickOuDirection: ""
+---

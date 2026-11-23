@@ -1,0 +1,37 @@
+---
+title: "오타와 세너터스 vs 캘거리 플레임스 하키분석·승부예측 (11월 24일) - 픽천국"
+date: 2026-11-24T00:30:00.000Z
+description: "오타와 세너터스 vs 캘거리 플레임스 하키분석: 오타와 세너터스는 최근 10경기 7승 3패로 승률 70%를 보이고 있으며, 홈 구장에서의 승리에 대한 자신감도 회복했습니다. … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378677062-2026-11-24-ottawa-senators"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "오타와 세너터스"
+awayTeam: "캘거리 플레임스"
+homeLogo: "https://highlightly.net/hockey/images/teams/590527.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/575209.png"
+homeAnalysis: "오타와 세너터스는 앞선 29경기에서 16승 13패로 승률 55%를 기록했고 최근 10경기에서는 7승 3패로 흐름이 뚜렷하게 살아나고 있습니다. 평균 득점은 3.1점을 유지하고 있으며 최근 10경기 기준으로는 3.5점으로 화력이 한층 강해졌습니다. 수비도 견고해져서 최근 경기들은 4대 2, 2대 1, 1대 2처럼 낮은 점수에서 승리를 따내는 모습이 많이 보입니다. 리그순위 2위로 승률 55%를 기록 중이라 상위권 팀들과 어깨를 나란히 하고 있습니다. 다만 앤드레 부라코프스키와 워렌 포게엘레, 윌리엄 에클룬드가 장기 결장 중인 만큼 공격 로테이션에 다소 구멍이 생겼습니다. 홈경기에서는 로스앤젤레스 킹스와 콜로라도 아발란시에 승리를 거두면서 홈 구장에서의 승리에 대한 자신감을 회복하고 있습니다."
+awayAnalysis: "캘거리 플레임스는 앞선 28경기에서 11승 17패로 승률 39%를 기록하며 하위권에 머물고 있습니다. 평균 득점이 2.5점에 그치고 있고, 최근 10경기에서는 4승 6패로 2.4점에 머물며 화력이 더욱 둔화되고 있습니다. 최근 경기들에서도 1대 6, 1대 5처럼 한 자릿수로 실점을 허용하는 장면이 반복되고 있으며 수비 안정성이 큰 과제로 보입니다. 리그순위 12위에서 17경기 차로 하위권으로 밀려난 상황이라 상위권 팀들과의 격차가 벌어지고 있습니다. 존애스 허베르도의 수술 결장은 공격 진영에 치명적이며, 케빈 바할의 장기 결장도 부담을 주고 있습니다. 다만 샌프란시스코 썬스, 로스앤젤레스 킹스에게 원정 승리를 거두면서 아직 반등할 여지는 남아 있습니다."
+homePower: "오타와 세너터스 홈에서 로스앤젤레스, 콜로라도전 승리로 홈 구장 승리가 안정적임|최근 10경기 7승 3패로 상위권 팀들과 견줄 만한 상승세|평균 득점 3.5점을 보이며 공격 루트 확대로 화력 보강|앤드레 부라코프스키와 워렌 포게엘레 장기 결장으로 공격 로테이션 공백|최근 경기 4대 2, 2대 1 패턴으로 하위권 팀들을 상대로 안정적 운영"
+awayPower: "캘거리 플레임스 하위권 팀들과의 경기에서조차 낮은 실점을 견디지 못함|평균 득점 2.5점에 그치고 화력 보강 필요|샌프란시스코, 로스앤젤레스전 원정 승리로 반등 여지 존재|존애스 허베르도의 수술 결장은 공격 진영에 큰 변수|최근 경기 4승 6패로 하위권 팀들과 대결에서도 승리를 확보하지 못함"
+h2h: '[]'
+summary: "오타와 세너터스는 최근 10경기 7승 3패로 승률 70%를 보이고 있으며, 홈 구장에서의 승리에 대한 자신감도 회복했습니다. 평균 득점 3.5점과 상위권 팀들과의 승리로 화력과 실점 관리가 모두 향상되고 있습니다. 반면 캘거리 플레임스는 최근 10경기 4승 6패로 하위권 팀들과의 경기에서조차 승리를 확보하지 못하고 있으며, 평균 득점 2.5점에 그치고 있습니다. 두 팀의 전력 격차는 명확하며, 오타와 세너터스가 홈 구장에서의 안정된 운영과 화력 보강으로 유리한 고지를 점할 가능성이 높습니다. 특히 캘거리 플레임스가 존애스 허베르도 결장으로 공격 진영에 큰 공백이 생긴 점은 오타와 세너터스에게 유리하게 작용할 것입니다."
+homeRecent: '[{"date":"26.11.22","home":"오타와 세너터스","away":"LA 킹스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378665148-2026-11-22-ottawa-senators/"},{"date":"26.11.20","home":"오타와 세너터스","away":"필라델피아 플라이어스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378648979-2026-11-20-ottawa-senators/"},{"date":"26.11.18","home":"위니펙 제츠","away":"오타와 세너터스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378643022-2026-11-18-winnipeg-jets/"},{"date":"26.11.15","home":"피츠버그 펭귄스","away":"오타와 세너터스","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378623449-2026-11-15-pittsburgh-penguins/"},{"date":"26.11.13","home":"오타와 세너터스","away":"콜로라도 애벌랜치","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378611535-2026-11-13-ottawa-senators/"}]'
+awayRecent: '[{"date":"26.11.22","home":"캘거리 플레임스","away":"시카고 블랙호크스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378659191-2026-11-22-calgary-flames/"},{"date":"26.11.20","home":"캘거리 플레임스","away":"미네소타 와일드","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378654085-2026-11-20-calgary-flames/"},{"date":"26.11.18","home":"산호세 샤크스","away":"캘거리 플레임스","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378644724-2026-11-18-san-jose-sharks/"},{"date":"26.11.16","home":"애너하임 덕스","away":"캘거리 플레임스","score":"6-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631108-2026-11-16-anaheim-ducks/"},{"date":"26.11.15","home":"LA 킹스","away":"캘거리 플레임스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378629406-2026-11-15-los-angeles-kings/"}]'
+injuryHome: "Hayden Hodgson (경미: 데이-투-데이)|Andre Burakovsky (주요: 부상 예비)|Warren Foegele (주요: 부상 예비)|William Eklund (주요: 부상 예비)"
+injuryAway: "Martin Pospisil (경미: 데이-투-데이)|Jonathan Huberdeau (주요: 부상 예비 - 수술)|Kevin Bahl (주요: 부상 예비 - 수술)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "오타와 세너터스"
+pickWinResult: "승"
+pickHandicapTeam: "오타와 세너터스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

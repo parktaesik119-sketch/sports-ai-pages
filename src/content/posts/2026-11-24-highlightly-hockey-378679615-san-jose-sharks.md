@@ -1,0 +1,37 @@
+---
+title: "산호세 샤크스 vs 미네소타 와일드 하키분석·승부예측 (11월 24일) - 픽천국"
+date: 2026-11-24T03:00:00.000Z
+description: "산호세 샤크스 vs 미네소타 와일드 하키분석: 양 팀의 전력을 보면 미네소타 와일드가 확실히 우위를 점하고 있으며, 최근 10경기 8승 2패와 4.3득점의 화력이 그 근거입… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378679615-2026-11-24-san-jose-sharks"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "산호세 샤크스"
+awayTeam: "미네소타 와일드"
+homeLogo: "https://highlightly.net/hockey/images/teams/593931.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/585421.png"
+homeAnalysis: "산호세 샤크스는 앞선 29경기에서 13승 16패로 승률 45%를 기록했고, 최근 10경기에서는 4승 6패를 보이며 경기 간 기복이 큰 흐름을 이어가고 있습니다. 직전 시애틀 크리켄전에서 4대3으로 승리를 거두며 분위기를 반전했지만, 그 전 콜로라도 불리스전과 나시빌 페더레이터스전 등에서는 연패에 몰리며 흐름을 놓치는 장면이 반복되고 있습니다. 득점력은 10경기 평균 2.8득점으로 선방을 기대하기보다 공격에서 실점을 상쇄하는 전개가 많아 보입니다. 2월 6일에는 5대0 완승을 거두는 등 상대 수비에 따라 결과가 크게 엇갈리는 경향이 강하며, 이 같은 패턴은 홈에서도 그대로 드러나고 있습니다. 최근 5경기 중 4경기가 3골 이하 득점에 그친 점을 감안하면, 안정적인 승리를 이끌 중심 전력이 아직 뚜렷하게 자리 잡지 못한 것으로 평가됩니다."
+awayAnalysis: "미네소타 와일드는 앞선 36경기에서 23승 13패로 승률 64%를 기록했고, 최근 10경기에서 8승 2패를 거두며 확실히 살아난 흐름을 보여주고 있습니다. 최근 2경기 연속 4골 이상을 기록하는 등 화력을 끌어올린 가운데, 보스턴 브루인스전에서 2대6 대승을 거두며 화력의 격차를 그대로 드러냈습니다. 2월 6일에는 5대0 무득점에 그친 선방이 있었으나, 이후 12골을 올리는 등 공격의 반등 폭이 뚜렷해 보입니다. 원정 경기에서도 10경기 중 6승을 거둘 만큼 원정 약함이 두드러지지 않으며, 상대전적에서도 최근 샌프란시스코전 4대1 승리를 챙긴 상대를 만나고 있습니다. 최근 10경기 평균 4.3득점은 36경기 평균 3.4득점 대비 큰 상승이며, 이 흐름이 그대로 이어진다면 이번 원정에서도 우위를 점할 가능성이 높습니다."
+homePower: "최근 5경기 4골 이하 득점, 공격 마무리 안정성 아쉬움|2월 6일 5-0 완승, 상대 수비에 따라 결과 기폭 차이 큼|시애틀전 4-3 반전, 최근 흐름 반등 조짐 확인|29경기 13승 16패, 승률 45%로 하위권 위치|콜로라도, 나시빌 연패, 홈 원정 구분 없이 기복 반복"
+awayPower: "최근 10경기 8승 2패, 확실히 살아난 흐름|보스턴 브루인스전 2-6, 화력의 격차 그대로 드러냄|최근 10경기 평균 4.3득점, 화력 최고 수준|상대전적 최근 샌프란시스코전 4-1, 상대 상성 유리|2월 6일 5-0 선방 후 12득점, 공격 반등 폭 뚜렷"
+h2h: '[{"date":"26.11.07","home":"미네소타 와일드","away":"산호세 샤크스","score":"4-1","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378577495-2026-11-07-minnesota-wild/"}]'
+summary: "양 팀의 전력을 보면 미네소타 와일드가 확실히 우위를 점하고 있으며, 최근 10경기 8승 2패와 4.3득점의 화력이 그 근거입니다. 산호세 샤크스는 직전 시애틀 크리켄전 승리로 반등 조짐을 보였지만, 최근 5경기 중 4경기가 3골 이하 득점에 그친 안정성 부족이 뚜렷합니다. 상대전적에서는 미네소타 와일드가 최근 샌프란시스코전 4대1 승리를 거두며 상성 우위까지 갖추고 있고, 이 흐름이 이번 원정에도 그대로 이어질 가능성이 높습니다. 전반적으로 미네소타 와일드가 이번 경기에서 우위를 점할 것으로 보이며, 산호세 샤크스가 선방으로 이를 막아설 여지는 제한적으로 평가됩니다."
+homeRecent: '[{"date":"26.11.22","home":"산호세 샤크스","away":"시애틀 크라켄","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378668552-2026-11-22-san-jose-sharks/"},{"date":"26.11.18","home":"산호세 샤크스","away":"캘거리 플레임스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378644724-2026-11-18-san-jose-sharks/"},{"date":"26.11.16","home":"산호세 샤크스","away":"내슈빌 프레데터스","score":"4-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378632810-2026-11-16-san-jose-sharks/"},{"date":"26.11.15","home":"유타 매머드","away":"산호세 샤크스","score":"5-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378627704-2026-11-15-utah-mammoth/"},{"date":"26.11.12","home":"산호세 샤크스","away":"피츠버그 펭귄스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378605578-2026-11-12-san-jose-sharks/"}]'
+awayRecent: '[{"date":"26.11.22","home":"밴쿠버 카넉스","away":"미네소타 와일드","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378669403-2026-11-22-vancouver-canucks/"},{"date":"26.11.20","home":"캘거리 플레임스","away":"미네소타 와일드","score":"1-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378654085-2026-11-20-calgary-flames/"},{"date":"26.11.18","home":"미네소타 와일드","away":"내슈빌 프레데터스","score":"7-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378641320-2026-11-18-minnesota-wild/"},{"date":"26.11.15","home":"보스턴 브루인스","away":"미네소타 와일드","score":"2-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378626002-2026-11-15-boston-bruins/"},{"date":"26.11.13","home":"토론토 메이플 리프스","away":"미네소타 와일드","score":"2-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378612386-2026-11-13-toronto-maple-leafs/"}]'
+injuryHome: "Kiefer Sherwood (결장 - 미상)|Igor Chernyshov (부상자 명단)|Quentin Musty (부상자 명단)|Kyle Keyser (부상자 명단)"
+injuryAway: "Quinn Hughes (결장)|Filip Gustavsson (부상자 명단 - 수술)|Olli Maatta (부상자 명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "미네소타 와일드"
+pickWinResult: "승"
+pickHandicapTeam: "미네소타 와일드"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "3"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---

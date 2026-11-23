@@ -1,0 +1,37 @@
+---
+title: "위니펙 제츠 vs 유타 매머드 하키분석·승부예측 (11월 24일) - 픽천국"
+date: 2026-11-24T00:30:00.000Z
+description: "위니펙 제츠 vs 유타 매머드 하키분석: 전력 비교를 살펴보면, 위니펙 제츠가 최근 10경기 7승 3패의 강한 반등 흐름을 타고 있어 유타 매머드의 최근 10경기 3승… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378677913-2026-11-24-winnipeg-jets"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "위니펙 제츠"
+awayTeam: "유타 매머드"
+homeLogo: "https://highlightly.net/hockey/images/teams/599888.png"
+awayLogo: "/logos/utah-mammoth.png"
+homeAnalysis: "위니펙 제츠는 앞선 28경기에서 12승 16패로 승률 43%를 기록했고, 최근 흐름은 이 수치보다 훨씬 밝게 읽힙니다. 최근 10경기에서 7승 3패로 강한 반등 조짐을 보여주고 있고, 11월 들어 10경기 중 9경기에서 득점을 기록할 정도로 공격이 살아나고 있습니다. 특히 원정에서 5월 2일에 진행한 경기들을 제외하면 11월 14일 시카고 블랙호크스전과 11월 13일 달라스 스타스전에서 각각 5득점과 8득점으로 다득점 위력을 입증했음은 홈에서든 원정이든 공격력을 유지하고 있다는 방증입니다. 최근 2경기 연속 패배로 마무리 안정성에 대한 의문도 제기되나, 리그순위 9위로 11승 9패를 거두면서도 득실 -7.0을 기록해 실점 관리가 여전히 과제로 보입니다. 결장 중인 Dylan DeMelo, Isak Rosen, Vladislav Namestnikov, Nick Bjugstad의 공백이 어느 정도 영향으로 작용했는지 살펴볼 필요가 있으며, 최근의 승리는 이를 무색하게 만들 만큼의 회복력으로 평가됩니다."
+awayAnalysis: "유타 매머드는 앞선 33경기에서 16승 17패로 승률 48%를 기록했고, 최근 흐름은 전반적 수치보다 부진한 편입니다. 최근 10경기에서 3승 7패로 뚜렷한 하강 곡선을 그리고 있으며, 11월 13일부터 11월 17일 사이에 5경기 중 4패를 기록하는 등 최근 경기에서 연이은 패배가 이어지고 있습니다. 다만 직전 두 경기에서 애너하임 다ックス와 콜로라도 아발란체를 상대로 각각 3-2와 4-1 승리를 거둡함은 반등 가능성을 보여주고, 10월 말부터 11월 초 사이에도 다득점 경기들이 여럿 있었습니다. 리그순위 7위로 12승 9패를 거두면서도 득실 -1.0에 가까울 만큼 득점과 실점이 비슷하게 이어진 균형 있는 전력을 보여줌은 강점이지만, Clayton Keller의 Day-To-Day 상태와 John Marino, Dylan Guenther, Nick Schmaltz, Nate Schmidt의 장기 결장은 전력에 상당한 부담으로 작용합니다. 최근 원정 경기 4연패를 기록함은 원정 특유의 약점이 지속되고 있음을 시사하며, 직전 두 경기의 홈 승리가 이를 만회할 수 있을지 주목됩니다."
+homePower: "7승 3패의 최근 10경기, 반등 조짐 뚜렷함|11월 9경기 연속 득점, 화력 지속력 강점|원정 다득점 2경기, 홈 포함 공격력 입증|결장 4명 공백에도 승리로 만회, 대체 라인 안정함|실점 -7.0, 마무리 안정성은 남은 과제"
+awayPower: "3승 7패의 최근 10경기, 하강 곡선 뚜렷함|직전 2경기 승리로 반등 시그널 보임|득실 -1.0의 균형, 실점 관리 강점|결장 5명 중 4명이 장기, 전력 부담 큼|원정 4연패, 원정 약점 지속됨"
+h2h: '[]'
+summary: "전력 비교를 살펴보면, 위니펙 제츠가 최근 10경기 7승 3패의 강한 반등 흐름을 타고 있어 유타 매머드의 최근 10경기 3승 7패보다 상대적으로 우위입니다. 득점과 실점 흐름을 보면, 위니펙은 최근 10경기 평균 득점 4.1으로 공격이 살아나고 있는 반면, 유타는 2.9로 다소 가라앉아 있으며, 실점 관리에서는 유타의 -1.0에 가까운 균형이 강점으로 부각됩니다. 상대전적은 이번 DB에 반영되어 있지 않기 때문에, 위니펙의 홈 반등 조짐과 유타의 원정 부진을 종합할 때 이번 경기에서는 홈팀이 우세를 점할 가능성이 높다고 보겠습니다."
+homeRecent: '[{"date":"26.11.22","home":"위니펙 제츠","away":"베가스 골든나이츠","score":"4-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378662595-2026-11-22-winnipeg-jets/"},{"date":"26.11.20","home":"위니펙 제츠","away":"뉴욕 아일런더스","score":"4-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378653234-2026-11-20-winnipeg-jets/"},{"date":"26.11.18","home":"위니펙 제츠","away":"오타와 세너터스","score":"1-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378643022-2026-11-18-winnipeg-jets/"},{"date":"26.11.15","home":"시카고 블랙호크스","away":"위니펙 제츠","score":"4-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378619194-2026-11-15-chicago-blackhawks/"},{"date":"26.11.13","home":"댈러스 스타스","away":"위니펙 제츠","score":"3-8","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614088-2026-11-13-dallas-stars/"}]'
+awayRecent: '[{"date":"26.11.22","home":"유타 매머드","away":"애너하임 덕스","score":"3-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378667701-2026-11-22-utah-mammoth/"},{"date":"26.11.19","home":"유타 매머드","away":"콜로라도 애벌랜치","score":"4-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378647277-2026-11-19-utah-mammoth/"},{"date":"26.11.17","home":"유타 매머드","away":"밴쿠버 카넉스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378635363-2026-11-17-utah-mammoth/"},{"date":"26.11.15","home":"유타 매머드","away":"산호세 샤크스","score":"5-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378627704-2026-11-15-utah-mammoth/"},{"date":"26.11.13","home":"유타 매머드","away":"세인트루이스 블루스","score":"0-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378614939-2026-11-13-utah-mammoth/"}]'
+injuryHome: "Dylan DeMelo (부상 결장)|Isak Rosen (부상 결장)|Vladislav Namestnikov (부상 결장 - 미정)|Nick Bjugstad (부상 결장 - 수술)"
+injuryAway: "Clayton Keller (단기 결장)|John Marino (부상 결장)|Dylan Guenther (부상 결장)|Nick Schmaltz (부상 결장)|Nate Schmidt (부상 결장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "위니펙 제츠"
+pickWinResult: "승"
+pickHandicapTeam: "위니펙 제츠"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

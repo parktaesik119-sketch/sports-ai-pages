@@ -1,0 +1,37 @@
+---
+title: "새크라멘토 킹스 vs 샌안토니오 스퍼스 농구분석·승부예측 (11월 24일) - 픽천국"
+date: 2026-11-24T03:00:00.000Z
+description: "새크라멘토 킹스 vs 샌안토니오 스퍼스 농구분석: 이번 대결은 전력의 격차가 뚜렷하게 드러나는 매치업입니다. 샌안토니오 스퍼스는 리그순위 1위를 지키며 최근 10경기 7승의 흐… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109838-2026-11-24-sacramento-kings"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "새크라멘토 킹스"
+awayTeam: "샌안토니오 스퍼스"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/23_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/24_300300.png"
+homeAnalysis: "새크라멘토 킹스는 앞선 17경기에서 7승 10패로 승률 41%를 기록했고, 최근 흐름은 직전 보스턴 셀틱스전을 97대96으로 narrowly 잡아내며 반전의 실마리를 보이는 모습입니다. 다만 최근 10경기에서 3승 7패에 그치면서 상승세가 곧바로 이어지지 못하고 있습니다. 평균 득점은 105.3점으로 화력 자체는 갖추고 있으나, 수비 실점이 잦은 경기에 밀려 승패가 갈리고 있습니다. 홈 구장에서 7승을 기록한 만큼 홈에서는 상대를 상대로 꾸준히 득점을 뽑아내는 면이 돋보입니다. 벤 시모닉스가 수술로 이탈한 것은 전력에 큰 공백을 드리며, 최근 경기에서 공격의 축이 흔들린 이유가 여기에 있습니다. Maxime Raynaud 또한 관절 탈구로 장기 결장이 예상되어 스크리밍 라인이 약해진 상태입니다. 다만 직전 1점차 승리가 보여주듯 마지막까지 집중력을 발휘하는 힘은 강점으로 평가됩니다."
+awayAnalysis: "샌안토니오 스퍼스는 앞선 37경기에서 21승 16패로 승률 57%를 기록했고, 최근 10경기에서 7승 3패로 확연히 살아난 흐름입니다. 평균 득점이 114.3점까지 올라오며 공격 효율이 크게 개선되었습니다. 직전 뉴올리언스 펠리칸스전을 114대91로 이겨내며 수비 안정감까지 갖추는 모습입니다. 현재 리그순위 1위로, 이번 상대전적에서 2전승을 챙긴 만큼 상성에서 우위를 점하고 있습니다. 특히 최근 골든스테이트 워리어스를 대파하는 등 강팀 상대에서도 강한 모습을 보여 주목할 만합니다. 다만 토비어스 해리스의 근육 손상과 제이든 퀸턴스의 수술 결장으로 로테이션에 여유가 줄어든 점은 부담입니다. 요르단 McLaughlin은 가벼운 타박상으로 데이투데이 상태이므로 영향은 크지 않을 것입니다."
+homePower: "직전 보스턴전 97대96 승, 클로즈업 집중력이 살아남음|최근 10경기 3승 7패, 홈 강세에도 연속성 부재|벤 시모닉스 장기 결장, 중원 공백 직격|평균 105.3 득점, 화력은 있으나 실점 관리가 변수|상대전적 2연패, 원정 강팀 상대 수비 열세"
+awayPower: "리그순위 1위, 승률 57%의 안정된 상위권|최근 10경기 7승, 화력 114.3점의 흐름 회복|상대전적 2연승, 킹스 상대 상성 우위|토비어스 해리스 결장, 로테이션 깊이 경계|골든스테이트 38점차 승, 강팀 상대 공격 확신"
+h2h: '[{"date":"26.11.07","home":"새크라멘토 킹스","away":"샌안토니오 스퍼스","score":"109-124","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026110623-2026-11-07-sacramento-kings/"},{"date":"26.10.28","home":"샌안토니오 스퍼스","away":"새크라멘토 킹스","score":"130-103","link":"https://pick79.com/posts/detail/analyze-naver-nba-2026102724-2026-10-28-san-antonio-spurs/"}]'
+summary: "이번 대결은 전력의 격차가 뚜렷하게 드러나는 매치업입니다. 샌안토니오 스퍼스는 리그순위 1위를 지키며 최근 10경기 7승의 흐름 속에서 평균 114.3점의 화력을 뽑아내고 있습니다. 반면 새크라멘토 킹스는 최근 10경기에서 3승에 그치고, 수비 실점이 잦아 승률을 끌어올리지 못한 상태입니다. 상성 역시 스퍼스가 앞선 두 차례 대결에서 모두 이겼으므로 공수 밸런스를 통한 우위가 자연스레 이어질 가능성이 높습니다. 직전 킹스전에서 스퍼스는 130점을 쏟아부으며 공격 확신을 보여준 바 있어, 이번 원정길에서도 스퍼스의 공수가 더 매끄럽게 굴러가는 쪽이 될 것으로 보입니다."
+homeRecent: '[{"date":"26.11.22","home":"새크라멘토 킹스","away":"보스턴 셀틱스","score":"97-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109821-2026-11-22-sacramento-kings/"},{"date":"26.11.21","home":"LA 레이커스","away":"새크라멘토 킹스","score":"106-104","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109815-2026-11-21-los-angeles-lakers/"},{"date":"26.11.19","home":"새크라멘토 킹스","away":"피닉스 선즈","score":"107-128","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109802-2026-11-19-sacramento-kings/"},{"date":"26.11.16","home":"새크라멘토 킹스","away":"오클라호마시티 썬더","score":"103-125","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109777-2026-11-16-sacramento-kings/"},{"date":"26.11.14","home":"새크라멘토 킹스","away":"포틀랜드 트레일블레이저스","score":"107-120","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109762-2026-11-14-sacramento-kings/"}]'
+awayRecent: '[{"date":"26.11.22","home":"샌안토니오 스퍼스","away":"뉴올리언스 펠리컨스","score":"114-91","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109820-2026-11-22-san-antonio-spurs/"},{"date":"26.11.20","home":"샌안토니오 스퍼스","away":"LA 클리퍼스","score":"124-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109805-2026-11-20-san-antonio-spurs/"},{"date":"26.11.18","home":"샌안토니오 스퍼스","away":"디트로이트 피스톤스","score":"93-105","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109788-2026-11-18-san-antonio-spurs/"},{"date":"26.11.16","home":"유타 재즈","away":"샌안토니오 스퍼스","score":"102-110","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109772-2026-11-16-utah-jazz/"},{"date":"26.11.14","home":"샌안토니오 스퍼스","away":"골든스테이트 워리어스","score":"123-85","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109761-2026-11-14-san-antonio-spurs/"}]'
+injuryHome: "Maxime Raynaud (관절 탈구로 결장)|Ben Simmons (수술로 결장)"
+injuryAway: "Jordan McLaughlin (타박상으로 데이투데이)|Dylan Harper (근육 경련으로 결장)|Tobias Harris (근육 이완으로 결장)|Jayden Quaintance (수술로 결장)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "샌안토니오 스퍼스"
+pickWinResult: "승"
+pickHandicapTeam: "샌안토니오 스퍼스"
+pickHandicapValue: "-8.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---

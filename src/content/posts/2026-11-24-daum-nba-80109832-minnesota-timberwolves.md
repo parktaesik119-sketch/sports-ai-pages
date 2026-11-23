@@ -1,0 +1,37 @@
+---
+title: "미네소타 팀버울브스 vs 브루클린 네츠 농구분석·승부예측 (11월 24일) - 픽천국"
+date: 2026-11-24T00:30:00.000Z
+description: "미네소타 팀버울브스 vs 브루클린 네츠 농구분석: 미네소타 팀버울브스가 홈에서 리그순위 3위와 최근 8승 2패의 흐름을 바탕으로 브루클린 네츠를 상대합니다. 브루클린 네츠는 최… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-daum-nba-80109832-2026-11-24-minnesota-timberwolves"
+category: "basketball"
+country: "미국"
+league: "NBA"
+homeTeam: "미네소타 팀버울브스"
+awayTeam: "브루클린 네츠"
+homeLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/16_300300.png"
+awayLogo: "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/17_300300.png"
+homeAnalysis: "미네소타 팀버울브스는 앞선 23경기에서 15승 8패로 승률 65%를 기록했습니다. 최근 10경기에서는 8승 2패의 흐름을 보이며 승률 80%의 좋은 흐름을 이어가고 있습니다. 직전 5경기에서도 3승 2패의 균형 있는 흐름을 유지하고 있습니다. 평균 득점이 108.9점으로 안정적이며, 최근 10경기 평균 112.9점이라는 높은 화력을 기록하고 있습니다. 현재 리그순위 3위로, 최근 흐름은 강점을 뒷받침하고 있습니다."
+awayAnalysis: "브루클린 네츠는 앞선 17경기에서 6승 11패로 승률 35%를 기록했습니다. 최근 10경기에서는 2승 8패의 부진한 흐름을 보이고 있습니다. 직전 5경기에서는 1승 4패로 부진한 흐름을 이어가고 있습니다. 평균 득점이 103.4점으로 다소 아쉬운 수준이며, 최근 10경기 평균 112.7점이라는 회복되는 화력을 기록하고 있습니다. 현재 리그순위 14위로, 최근 흐름은 부진을 더 부각시키고 있습니다."
+homePower: "리그순위 3위에서 최근 8승 2패 흐름이 뒷받침함|평균 108.9득점 중 직전 10경기 112.9로 화력 상승 보임|득실 +165.0 격차는 수비 안정성을 증명함|승부처 마무리력이 직전 경기에서 흔들린 점 주목됨|강팀 상대 승리 비중이 높아 큰 경기 운영력 검증됨"
+awayPower: "리그순위 14위에서 최근 2승 8패 흐름이 우려 보임|평균 103.4득점 중 직전 10경기 112.7로 회복 조짐 있음|득실 -119.0 격차는 수비 부담이 큼|실점 폭이 큰 경기에서 마무리가 흔들린 점 주목됨|상위 팀 상대 승리가 부족해 큰 경기 운영력은 약함"
+h2h: '[]'
+summary: "미네소타 팀버울브스가 홈에서 리그순위 3위와 최근 8승 2패의 흐름을 바탕으로 브루클린 네츠를 상대합니다. 브루클린 네츠는 최근 2승 8패로 부진하지만, 직전 10경기 평균 득점이 112.7점으로 회복되는 화력을 보이고 있습니다. 미네소타의 안정적 수비와 홈 강세를 고려할 때, 미네소타 팀버울브스가 우위를 점할 가능성이 높다고 판단됩니다."
+homeRecent: '[{"date":"26.11.22","home":"미네소타 팀버울브스","away":"멤피스 그리즐리","score":"104-95","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109819-2026-11-22-minnesota-timberwolves/"},{"date":"26.11.20","home":"미네소타 팀버울브스","away":"뉴욕 닉스","score":"99-102","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109804-2026-11-20-minnesota-timberwolves/"},{"date":"26.11.18","home":"미네소타 팀버울브스","away":"포틀랜드 트레일블레이저스","score":"106-105","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109787-2026-11-18-minnesota-timberwolves/"},{"date":"26.11.17","home":"미네소타 팀버울브스","away":"포틀랜드 트레일블레이저스","score":"106-98","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109784-2026-11-17-minnesota-timberwolves/"},{"date":"26.11.15","home":"미네소타 팀버울브스","away":"시카고 불스","score":"106-117","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109767-2026-11-15-minnesota-timberwolves/"}]'
+awayRecent: '[{"date":"26.11.21","home":"브루클린 네츠","away":"올랜도 매직","score":"111-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109810-2026-11-21-brooklyn-nets/"},{"date":"26.11.19","home":"브루클린 네츠","away":"시카고 불스","score":"107-137","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109795-2026-11-19-brooklyn-nets/"},{"date":"26.11.17","home":"브루클린 네츠","away":"필라델피아 76ers","score":"123-135","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109782-2026-11-17-brooklyn-nets/"},{"date":"26.11.15","home":"멤피스 그리즐리","away":"브루클린 네츠","score":"129-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109768-2026-11-15-memphis-grizzlies/"},{"date":"26.11.12","home":"뉴올리언스 펠리컨스","away":"브루클린 네츠","score":"111-145","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109744-2026-11-12-new-orleans-pelicans/"}]'
+injuryHome: "Jaylen Clark (부상)|Anthony Edwards (수술)|Donte DiVincenzo (수술)"
+injuryAway: "Grant Nelson (염좌)|Nolan Traore ( 근육통)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "브루클린 네츠"
+pickWinResult: "승"
+pickHandicapTeam: "브루클린 네츠"
+pickHandicapValue: "-6.5"
+pickExpectedHome: ""
+pickExpectedAway: ""
+pickOuValue: "215.5"
+pickOuDirection: "오버"
+---

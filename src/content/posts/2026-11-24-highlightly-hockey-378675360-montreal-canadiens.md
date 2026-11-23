@@ -1,0 +1,37 @@
+---
+title: "몬트리올 캐네이디언스 vs LA 킹스 하키분석·승부예측 (11월 24일) - 픽천국"
+date: 2026-11-24T00:30:00.000Z
+description: "몬트리올 캐네이디언스 vs LA 킹스 하키분석: 몬트리올 캐네이디언스는 앞선 42경기에서 22승 20패로 승률 52%를 기록했고, LA 킹스는 앞선 26경기에서 8승 18패로… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-highlightly-hockey-378675360-2026-11-24-montreal-canadiens"
+category: "hockey"
+country: "미국"
+league: "NHL"
+homeTeam: "몬트리올 캐네이디언스"
+awayTeam: "LA 킹스"
+homeLogo: "https://highlightly.net/hockey/images/teams/586272.png"
+awayLogo: "https://highlightly.net/hockey/images/teams/583719.png"
+homeAnalysis: "몬트리올 캐네이디언스는 앞선 42경기에서 22승 20패로 승률 52%를 기록했고, 최근 10경기에서는 5승 5패의 균형 잡힌 흐름을 유지하고 있습니다. 홈에서는 위 42경기 중 홈경기 10경기를 모두 확인하면 7승 3패로 안정적이었습니다. 특히 평균 득점이 3.0점 수준이라 화력은 꾸준히 유지되고 있으며, 최근 경기들에서도 5득점짜리 승리가 여러 번 나왔습니다. 다만 최근 경기 중 다수가 1점 차 승부였기 때문에 막판 집중력과 마무리 효율이 변수로 읽힙니다. 리그순위 4위와 같은 높은 순위를 바탕으로 홈에서의 운영은 강점으로 평가됩니다."
+awayAnalysis: "LA 킹스는 앞선 26경기에서 8승 18패로 승률 31%를 기록했고, 최근 10경기에서는 4승 6패로 부진한 흐름을 이어가고 있습니다. 평균 득점이 2.6점 수준이라 득점력이 낮은 편이며, 최근 경기에서도 0득점 패배와 5실점 패배가 반복되고 있습니다. 다만 10/30와 11/5에 각각 6득점과 7득점의 화력을 보여준 바 있어, 집중력이 살아나면 반등할 잠재력은 있다고 보입니다. 리그순위 14위이고 최근 흐름도 약한 편이라 원정 운영의 불안정함이 뚜렷합니다. 최근 4경기 연속 패배로 수비 집중력의 저하가 부각되고 있습니다."
+homePower: "최근 10경기 5승 5패, 승률 유지로 안정감|평균 득점 3.0, 꾸준한 화력 유지|홈 7승 3패, 홈 우세 뚜렷|1점 차 승부 잦아 막판 집중력 변수|리그순위 4위, 큰 경기 경험 풍부"
+awayPower: "최근 10경기 4승 6패, 부진 지속|평균 득점 2.6, 화력 약세|10/30과 11/5 대량 득점 반등 여지|최근 4연패, 수비 불안 부각|리그순위 14위, 원정 운영 불안"
+h2h: '[]'
+summary: "몬트리올 캐네이디언스는 앞선 42경기에서 22승 20패로 승률 52%를 기록했고, LA 킹스는 앞선 26경기에서 8승 18패로 승률 31%를 기록했습니다. 홈에서의 몬트리올 캐네이디언스는 7승 3패로 안정적이며, LA 킹스는 최근 4경기 연속 패배로 수비 불안이 이어지고 있습니다. 리그순위 4위의 홈팀이 리그순위 14위의 원정팀을 상대로 우위를 점할 가능성이 높아 보입니다."
+homeRecent: '[{"date":"26.11.22","home":"몬트리올 캐네이디언스","away":"필라델피아 플라이어스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378664297-2026-11-22-montreal-canadiens/"},{"date":"26.11.20","home":"캐롤라이나 허리케인스","away":"몬트리올 캐네이디언스","score":"1-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378648128-2026-11-20-carolina-hurricanes/"},{"date":"26.11.19","home":"뉴저지 데블스","away":"몬트리올 캐네이디언스","score":"2-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378646426-2026-11-19-new-jersey-devils/"},{"date":"26.11.17","home":"뉴욕 레인저스","away":"몬트리올 캐네이디언스","score":"3-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378634512-2026-11-17-new-york-rangers/"},{"date":"26.11.15","home":"몬트리올 캐네이디언스","away":"콜로라도 애벌랜치","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378624300-2026-11-15-montreal-canadiens/"}]'
+awayRecent: '[{"date":"26.11.22","home":"오타와 세너터스","away":"LA 킹스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378665148-2026-11-22-ottawa-senators/"},{"date":"26.11.20","home":"토론토 메이플 리프스","away":"LA 킹스","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378651532-2026-11-20-toronto-maple-leafs/"},{"date":"26.11.18","home":"보스턴 브루인스","away":"LA 킹스","score":"0-3","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378637916-2026-11-18-boston-bruins/"},{"date":"26.11.15","home":"LA 킹스","away":"캘거리 플레임스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378629406-2026-11-15-los-angeles-kings/"},{"date":"26.11.13","home":"LA 킹스","away":"뉴욕 아일런더스","score":"2-5","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378615790-2026-11-13-los-angeles-kings/"}]'
+injuryHome: "Mike Matheson (결장)|Josh Anderson (부상자명단)|Chris Kreider (부상자명단)|Ivan Demidov (부상자명단 - 골절)|Sam Montembeault (부상자명단)"
+injuryAway: "Artemi Panarin (관찰 필요)|Trevor Moore (관찰 필요)|Erik Gustafsson (관찰 필요)|Jakub Dvorak (부상자명단)"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "몬트리올 캐네이디언스"
+pickWinResult: "승"
+pickHandicapTeam: "몬트리올 캐네이디언스"
+pickHandicapValue: "-0.5"
+pickExpectedHome: "4"
+pickExpectedAway: "3"
+pickOuValue: ""
+pickOuDirection: ""
+---

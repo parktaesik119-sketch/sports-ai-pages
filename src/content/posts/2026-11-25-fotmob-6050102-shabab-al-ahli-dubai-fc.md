@@ -1,0 +1,37 @@
+---
+title: "샤밥 알아흘리 두바이 vs 알카디시야 축구분석·승부예측 (11월 25일) - 픽천국"
+date: 2026-11-24T16:00:00.000Z
+description: "샤밥 알아흘리 두바이 vs 알카디시야 축구분석: 샤밥 알아흘리 두바이는 최근 홈에서 알 아이인 상대 연승으로 강팀 상대 운영력을 보여준 반면, 원정에서는 최근 2경기 연속 무… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
+slug: "analyze-fotmob-6050102-2026-11-25-shabab-al-ahli-dubai-fc"
+category: "soccer"
+country: "국제"
+league: "AFC 챔피언스리그"
+homeTeam: "샤밥 알아흘리 두바이"
+awayTeam: "알카디시야"
+homeLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/102119.png"
+awayLogo: "https://images.fotmob.com/image_resources/logo/teamlogo/101919.png"
+homeAnalysis: "샤밥 알아흘리 두바이는 앞선 24경기에서 11승 7무 6패로 승률 46%를 기록했고, 최근 흐름에서는 10경기 동안 6승 2무 2패를 보이며 상승세가 이어지고 있습니다. 직전 경기에서는 아지만 상대 3-1 승리로 공격의 날카로움이 살아 있음을 보여줬지만, 그 전 칼바 1-1 무승부 이후 샤르자 칼추랄, 알 힐랄 원정에서 각각 0-2로 무득점 패배를 겪은 점이 약점으로 부각됩니다. 홈에서는 알 아이인 상대 3-2, 2-0 연승과 에스테글랄 2-0 승리 등 상대 강팀을 상대로도 안정적인 운영을 펼쳤고, 24경기 평균 득점 1.6을 바탕으로 꾸준히 득점을 쌓고 있는 모습이 눈에 띕니다. 다만 원정에서는 최근 무득점 패배가 2경기 연속 나오면서 외곽 전개와 마무리에서 기복이 있는 것으로 보입니다. 강팀 전에서 이기는 능력은 갖추고 있으나 원정 마무리 효율이 변수로 작용할 것으로 보입니다."
+awayAnalysis: "알카디시야는 앞선 24경기에서 16승 4무 4패로 승률 67%를 기록했고, 최근 10경기에서는 7승 2무 1패로 좋은 흐름을 유지하고 있습니다. 직전 2경기에서 알가라파 0-5, 알 리야드 0-6으로 대량득점 승리를 거두며 화력의 안정감을 확인했고, 최근 10경기 평균 득점 3.9로 공격이 가장 큰 강점으로 평가됩니다. 24경기 기준 평균 득점 3.0을 바탕으로 한 꾸준한 득점력이 보이며, 홈에서는 알 탈라지 14-0, 알 와슬 2-1 등 강한 승리를 쌓은 운영력이 있습니다. 최근 패배는 알 힐랄 2-3, 파흐타코르 1-1 무승부 등 상위권 상대와 맞붙은 경기에서 나와 강팀 상대 실력이 확인되는 양상으로 보입니다. 원정에서도 알 가라파, 알 리야드 등 대승을 챙기며 홈 외 경기에서의 화력 유지가 돋보입니다."
+homePower: "최근 10경기 6승2무2패, 강팀 상대 홈 연승으로 홈 운영 검증됨|원정 2경기 연속 무득점, 원정 마무리 기복이 변수|24경기 무승 7번, 대등 경기에서 승부차기형 전개 다수|최근 3경기 득점 5골로 화력 회복세 보임|알 아이인 2경기 연속 2득점 이상, 홈 대강팀 경기 상성 좋음|24경기 평균 1.6 득점, 꾸준함은 강점이나 폭발력 제한"
+awayPower: "최근 2경기 합계 11득점, 화력 폭발 국면|24경기 16승 4무 4패, 상위권 승률 67%|원정 대승(5-0, 6-0) 2연속, 원정 화력 유지 검증됨|알 힐랄 패배 등 상위권 상대 실력 한계 확인|홈 14-0 대승 포함, 홈 운영력과 화력 우위 확인|24경기 평균 3.0 득점, 꾸준한 득점력강점"
+h2h: '[]'
+summary: "샤밥 알아흘리 두바이는 최근 홈에서 알 아이인 상대 연승으로 강팀 상대 운영력을 보여준 반면, 원정에서는 최근 2경기 연속 무득점 패배를 겪으며 마무리의 기복이 있는 팀입니다. 알카디시야는 직전 2경기에서 합계 11골을 넣으며 화력이 폭발하는 국면이고, 24경기 평균 3.0 득점과 승률 67%로 전반적인 전력에서 홈팀을 압도하고 있습니다. 홈팀이 대등한 전개를 만드는 능력은 갖추고 있으나, 원정팀의 대량득점 흐름이 계속되는 한 우위를 내주기 쉬운 구도로 보이며, 이번 경기에서도 알카디시야가 우위를 점할 가능성이 높게 보입니다."
+homeRecent: '[{"date":"26.11.21","home":"샤밥 알아흘리 두바이","away":"아지만","score":"3-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-1000022243-2026-11-21-shabab-al-ahli-dubai-fc/"},{"date":"26.11.16","home":"알이티하드 칼바","away":"샤밥 알아흘리 두바이","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-1000022724-2026-11-16-kalba-fc/"},{"date":"26.11.08","home":"알샤르자","away":"샤밥 알아흘리 두바이","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-1000022235-2026-11-08-sharjah-cultural-club/"},{"date":"26.11.04","home":"알힐랄","away":"샤밥 알아흘리 두바이","score":"2-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-6050095-2026-11-04-al-hilal/"},{"date":"26.10.28","home":"샤밥 알아흘리 두바이","away":"에스테글랄","score":"2-0","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050086-2026-10-28-shabab-al-ahli-dubai-fc/"}]'
+awayRecent: '[{"date":"26.11.03","home":"알가라파","away":"알카디시야","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050092-2026-11-03-al-gharafa/"},{"date":"26.10.30","home":"알리야드","away":"알카디시야","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5970194-2026-10-30-al-riyadh/"},{"date":"26.10.27","home":"알카디시야","away":"알사드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6050084-2026-10-27-al-qadsiah/"},{"date":"26.10.24","home":"알카디시야","away":"알힐랄","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5970177-2026-10-24-al-qadsiah/"},{"date":"26.10.21","home":"알타아원","away":"알카디시야","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5970170-2026-10-21-al-taawoun/"}]'
+injuryHome: "없음"
+injuryAway: "없음"
+homeLineup: ''
+awayLineup: ''
+homeFormation: ""
+awayFormation: ""
+homeCoach: ""
+awayCoach: ""
+pickWinTeam: "알카디시야"
+pickWinResult: "승"
+pickHandicapTeam: "알카디시야"
+pickHandicapValue: "-1.5"
+pickExpectedHome: "2"
+pickExpectedAway: "4"
+pickOuValue: ""
+pickOuDirection: ""
+---
