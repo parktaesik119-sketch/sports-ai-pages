@@ -3458,34 +3458,9 @@
     "injuries": {
       "home": [
         {
-          "name": "Alex Meret",
-          "status": "등 부상",
-          "detail": "Early January 2027"
-        },
-        {
-          "name": "Alessandro Buongiorno",
-          "status": "연골 파열",
-          "detail": "Doubtful"
-        },
-        {
           "name": "Benoît Badiashile",
           "status": "근육 부상",
           "detail": "Early December 2026"
-        },
-        {
-          "name": "Giovanni Di Lorenzo",
-          "status": "근육 부상",
-          "detail": "About 1-2 weeks"
-        },
-        {
-          "name": "Alisson Santos",
-          "status": "허벅지 부상",
-          "detail": "Early December 2026"
-        },
-        {
-          "name": "Stanislav Lobotka",
-          "status": "발목 부상",
-          "detail": "Late December 2026"
         }
       ],
       "away": []
@@ -3797,7 +3772,7 @@
       "away": "3-5-2"
     },
     "coach": {
-      "home": "Massimiliano Allegri|https://images.fotmob.com/image_resources/playerimages/129745.png",
+      "home": "Marco Landucci|https://images.fotmob.com/image_resources/playerimages/1327559.png",
       "away": "Ignazio Abate|https://images.fotmob.com/image_resources/playerimages/39555.png"
     }
   },
@@ -6635,7 +6610,7 @@
         "Yves Bissouma (MF)|https://images.fotmob.com/image_resources/playerimages/724306.png",
         "Rayane Bounida (FW)|https://images.fotmob.com/image_resources/playerimages/1699296.png",
         "Tolu Arokodare (FW)|https://images.fotmob.com/image_resources/playerimages/1072864.png",
-        "Oscar Gloukh (MF)|https://images.fotmob.com/image_resources/playerimages/1337911.png"
+        "Oscar Gloukh (FW)|https://images.fotmob.com/image_resources/playerimages/1337911.png"
       ],
       "away": [
         "Kilian Nikièma (GK)|https://images.fotmob.com/image_resources/playerimages/1313190.png",
@@ -17390,6 +17365,11 @@
           "detail": "Doubtful"
         },
         {
+          "name": "Joshua Dasilva",
+          "status": "햄스트링 부상",
+          "detail": "Late November 2026"
+        },
+        {
           "name": "Aaron Hickey",
           "status": "햄스트링 부상",
           "detail": "Late December 2026"
@@ -17413,11 +17393,6 @@
           "name": "Igor Thiago",
           "status": "부상",
           "detail": "Early December 2026"
-        },
-        {
-          "name": "Joshua Dasilva",
-          "status": "햄스트링 부상",
-          "detail": "Late November 2026"
         }
       ],
       "away": []
