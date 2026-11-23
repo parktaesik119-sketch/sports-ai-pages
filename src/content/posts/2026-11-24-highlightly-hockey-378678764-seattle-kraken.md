@@ -18,10 +18,10 @@ h2h: '[]'
 summary: "시애틀 크라켄은 앞선 24경기에서 13승 11패로 승률 54%를 유지하고 있지만, 최근 10경기에서 4승 6패로 밀리고 평균 득점이 2.8까지 낮아진 점이 부담으로 작용할 수 있습니다. 애너하임 덕스는 36경기에서 17승 19패로 승률 47%를 기록 중이나, 최근 10경기에서 5승 5패로 맞서며 평균 득점 3.8까지 끌어올린 점이 좋은 흐름으로 평가됩니다. 최근 흐름상 애너하임 덕스가 홈팀에 비해 득점력 면에서 다소 우위를 점할 가능성이 높아, 원정팀이 힘을 쓸 수 있는 매치업으로 보입니다."
 homeRecent: '[{"date":"26.11.22","home":"산호세 샤크스","away":"시애틀 크라켄","score":"4-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378668552-2026-11-22-san-jose-sharks/"},{"date":"26.11.20","home":"시애틀 크라켄","away":"밴쿠버 카넉스","score":"5-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378656638-2026-11-20-seattle-kraken/"},{"date":"26.11.15","home":"캐롤라이나 허리케인스","away":"시애틀 크라켄","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378618343-2026-11-15-carolina-hurricanes/"},{"date":"26.11.13","home":"시애틀 크라켄","away":"캐롤라이나 허리케인스","score":"1-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378607280-2026-11-13-seattle-kraken/"},{"date":"26.11.08","home":"시애틀 크라켄","away":"뉴욕 레인저스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378580048-2026-11-08-seattle-kraken/"}]'
 awayRecent: '[{"date":"26.11.22","home":"유타 매머드","away":"애너하임 덕스","score":"3-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378667701-2026-11-22-utah-mammoth/"},{"date":"26.11.20","home":"콜로라도 애벌랜치","away":"애너하임 덕스","score":"4-0","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378655787-2026-11-20-colorado-avalanche/"},{"date":"26.11.18","home":"세인트루이스 블루스","away":"애너하임 덕스","score":"8-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378642171-2026-11-18-st-louis-blues/"},{"date":"26.11.16","home":"애너하임 덕스","away":"캘거리 플레임스","score":"6-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378631108-2026-11-16-anaheim-ducks/"},{"date":"26.11.15","home":"애너하임 덕스","away":"뉴욕 아일런더스","score":"2-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378628555-2026-11-15-anaheim-ducks/"}]'
-injuryHome: "Jake O'Brien (장기 부진)|Jared McCann (장기 부진)"
-injuryAway: "Leo Carlsson (경미)|Beckett Sennecke (장기 부진)|Ryan Poehling (장기 부진)|A.J. Greer (장기 부진)"
-homeLineup: ''
-awayLineup: ''
+injuryHome: "Jake O'Brien[주요](Injured Reserve) | Jared McCann[주요](Injured Reserve)"
+injuryAway: "Leo Carlsson[경미](Day-To-Day) | Beckett Sennecke[주요](Injured Reserve) | Ryan Poehling[주요](Injured Reserve) | A.J. Greer[주요](Injured Reserve)"
+homeLineup: "[\"선발투수 P. Grubauer|https://a.espncdn.com/i/headshots/mlb/players/full/5657.png\"]"
+awayLineup: "[\"선발투수 L. Dostal|https://a.espncdn.com/i/headshots/mlb/players/full/4588165.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

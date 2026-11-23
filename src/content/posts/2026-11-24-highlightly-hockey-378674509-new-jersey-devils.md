@@ -18,10 +18,10 @@ h2h: '[]'
 summary: "뉴저지 데블스는 최근 10경기에서 7승 3패로 4.5득점의 공격력을 보여주며 홈에서 안정적으로 운영하고 있습니다. 콜럼버스 블루재킷츠는 10경기 4승 6패로 부침이 크고, 평균 2.6득점으로 상대에 열세입니다. 두 팀 모두 최근 흐름에서 뉴저지 데블스가 승률과 득실차에서 우위를 점하고 있어, 홈에서 뉴저지 데블스가 승기를 잡을 가능성이 높아 보입니다."
 homeRecent: '[{"date":"26.11.22","home":"세인트루이스 블루스","away":"뉴저지 데블스","score":"9-6","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378661744-2026-11-22-st-louis-blues/"},{"date":"26.11.19","home":"뉴저지 데블스","away":"몬트리올 캐네이디언스","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378646426-2026-11-19-new-jersey-devils/"},{"date":"26.11.15","home":"워싱턴 캐피털스","away":"뉴저지 데블스","score":"4-7","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378620896-2026-11-15-washington-capitals/"},{"date":"26.11.13","home":"뉴저지 데블스","away":"워싱턴 캐피털스","score":"5-2","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378610684-2026-11-13-new-jersey-devils/"},{"date":"26.11.11","home":"위니펙 제츠","away":"뉴저지 데블스","score":"4-2","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378600472-2026-11-11-winnipeg-jets/"}]'
 awayRecent: '[{"date":"26.11.22","home":"토론토 메이플 리프스","away":"콜럼버스 블루재킷츠","score":"3-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378663446-2026-11-22-toronto-maple-leafs/"},{"date":"26.11.20","home":"시카고 블랙호크스","away":"콜럼버스 블루재킷츠","score":"2-4","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378654936-2026-11-20-chicago-blackhawks/"},{"date":"26.11.18","home":"뉴욕 아일런더스","away":"콜럼버스 블루재킷츠","score":"5-1","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378638767-2026-11-18-new-york-islanders/"},{"date":"26.11.15","home":"콜럼버스 블루재킷츠","away":"필라델피아 플라이어스","score":"3-4","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378625151-2026-11-15-columbus-blue-jackets/"},{"date":"26.11.13","home":"콜럼버스 블루재킷츠","away":"탬파베이 라이트닝","score":"1-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-highlightly-hockey-378608982-2026-11-13-columbus-blue-jackets/"}]'
-injuryHome: "Anthony Mantha (부상 휴식)|Johnathan Kovacevic (상세 부상 정보 없음)|Seamus Casey (부상 휴식)"
-injuryAway: "Sean Monahan (결장)"
-homeLineup: ''
-awayLineup: ''
+injuryHome: "Anthony Mantha[주요](Injured Reserve) | Johnathan Kovacevic[주요](Injured Reserve - Not Specified) | Seamus Casey[주요](Injured Reserve)"
+injuryAway: "Sean Monahan[주요](Out)"
+homeLineup: "[\"선발투수 C. Hellebuyck|https://a.espncdn.com/i/headshots/mlb/players/full/3020225.png\"]"
+awayLineup: "[\"선발투수 J. Greaves|https://a.espncdn.com/i/headshots/mlb/players/full/4894366.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
