@@ -2231,48 +2231,53 @@ const winnerIsHome = homeNames.some(n =>
 })()
   })));
 
-const content = `---
-title: "${finalTitle}"
-date: ${match.date}
-description: "${extractedDesc.replace(/"/g, "'")}"
-slug: "analyze-${match.id}-${dateOnly}-${safeHomeNameForSlug}"
-category: "${cat}"
-country: "${country}"
-league: "${leagueName}"
-homeTeam: "${aiHomeName}"
-awayTeam: "${aiAwayName}"
-homeLogo: "${match.homeLogo || ''}"
-awayLogo: "${match.awayLogo || ''}"
-homeAnalysis: "${homeAnalysisKor.replace(/"/g, "'")}"
-awayAnalysis: "${awayAnalysisKor.replace(/"/g, "'")}"
-homePower: "${homePowerItems.join('|').replace(/"/g, "'")}"
-awayPower: "${awayPowerItems.join('|').replace(/"/g, "'")}"
-h2h: '${JSON.stringify(h2hItems).replace(/'/g, "\u2019")}'
-summary: "${summaryKor.replace(/"/g, "'")}"
-homeRecent: '${homeRecentJson.replace(/'/g, "\u2019")}'
-awayRecent: '${awayRecentJson.replace(/'/g, "\u2019")}'
-injuryHome: "${injuryHome.replace(/"/g, "'")}"
-injuryAway: "${injuryAway.replace(/"/g, "'")}"
-homeLineup: '${fotmobHomeLineupJson.replace(/'/g, "\u2019")}'
-awayLineup: '${fotmobAwayLineupJson.replace(/'/g, "\u2019")}'
-homeFormation: "${fotmobHomeFormationVal}"
-awayFormation: "${fotmobAwayFormationVal}"
-homeCoach: "${fotmobHomeCoachVal.replace(/"/g, "'")}"
-awayCoach: "${fotmobAwayCoachVal.replace(/"/g, "'")}"
-pickWinTeam: "${finalPickWinTeamKor}"
-pickWinResult: "${finalPickWinResult}"
-pickHandicapTeam: "${finalPickHandicapTeamKor}"
-pickHandicapValue: "${finalHandicapValue}"
-pickExpectedHome: "${finalExpectedHome}"
-pickExpectedAway: "${finalExpectedAway}"
-pickOuValue: "${finalOuValue}"
-pickOuDirection: "${finalOuDirection}"
+
+  // YAML에 안전하게 저장하기 위한 문자열 변환 함수
+  const yamlString = (value) => JSON.stringify(String(value ?? ''));
+
+  const content = `---
+title: ${yamlString(finalTitle)}
+date: ${yamlString(match.date)}
+description: ${yamlString(extractedDesc)}
+slug: ${yamlString(`analyze-${match.id}-${dateOnly}-${safeHomeNameForSlug}`)}
+category: ${yamlString(cat)}
+country: ${yamlString(country)}
+league: ${yamlString(leagueName)}
+homeTeam: ${yamlString(aiHomeName)}
+awayTeam: ${yamlString(aiAwayName)}
+homeLogo: ${yamlString(match.homeLogo || '')}
+awayLogo: ${yamlString(match.awayLogo || '')}
+homeAnalysis: ${yamlString(homeAnalysisKor)}
+awayAnalysis: ${yamlString(awayAnalysisKor)}
+homePower: ${yamlString(homePowerItems.join('|'))}
+awayPower: ${yamlString(awayPowerItems.join('|'))}
+h2h: ${yamlString(JSON.stringify(h2hItems))}
+summary: ${yamlString(summaryKor)}
+homeRecent: ${yamlString(homeRecentJson)}
+awayRecent: ${yamlString(awayRecentJson)}
+injuryHome: ${yamlString(injuryHome)}
+injuryAway: ${yamlString(injuryAway)}
+homeLineup: ${yamlString(fotmobHomeLineupJson)}
+awayLineup: ${yamlString(fotmobAwayLineupJson)}
+homeFormation: ${yamlString(fotmobHomeFormationVal)}
+awayFormation: ${yamlString(fotmobAwayFormationVal)}
+homeCoach: ${yamlString(fotmobHomeCoachVal)}
+awayCoach: ${yamlString(fotmobAwayCoachVal)}
+pickWinTeam: ${yamlString(finalPickWinTeamKor)}
+pickWinResult: ${yamlString(finalPickWinResult)}
+pickHandicapTeam: ${yamlString(finalPickHandicapTeamKor)}
+pickHandicapValue: ${yamlString(finalHandicapValue)}
+pickExpectedHome: ${yamlString(finalExpectedHome)}
+pickExpectedAway: ${yamlString(finalExpectedAway)}
+pickOuValue: ${yamlString(finalOuValue)}
+pickOuDirection: ${yamlString(finalOuDirection)}
 ---
 `;
 
   fs.writeFileSync(savePath, content, 'utf8');
   console.log(`✅ [저장성공] ${finalTitle}`);
   return true;
+
 }
 
 analyzeMatches();
