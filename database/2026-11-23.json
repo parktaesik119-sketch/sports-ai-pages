@@ -6860,8 +6860,8 @@
     "away": "Charlotte FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6397.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1323940.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "fotmob-6665007",
@@ -6873,8 +6873,8 @@
     "away": "Real Salt Lake",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/307691.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6606.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5749750",
@@ -7406,8 +7406,8 @@
     "away": "Olancho FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/655719.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1384118.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5861328",
@@ -7445,8 +7445,8 @@
     "away": "Aurora FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9934.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188294.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6690249",
@@ -7991,8 +7991,8 @@
     "away": "Tristán Suárez",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/276511.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/213528.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5833608",
@@ -8797,8 +8797,8 @@
     "away": "Necaxa",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1943.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1842.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000023195",
@@ -8836,8 +8836,8 @@
     "away": "Huracán",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10090.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10081.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000024445",
@@ -9213,8 +9213,8 @@
     "away": "Sanfrecce Hiroshima Regina (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/588446.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1261668.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000015955",
@@ -9226,8 +9226,8 @@
     "away": "Omiya Ardija Ventus (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/583037.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1261666.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000015956",
@@ -9239,8 +9239,8 @@
     "away": "Urawa Ladies (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/581007.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/597942.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000015954",
@@ -9252,8 +9252,8 @@
     "away": "INAC Kobe Leonessa (W)",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/588613.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/614364.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 0
   },
   {
     "id": "fotmob-6139075",
@@ -9594,28 +9594,28 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-6689153",
-    "sport": "soccer",
-    "country": "England",
-    "league": "Baller League",
-    "date": "2026-11-23T17:15:00.000Z",
-    "home": "VZN FC",
-    "away": "Wembley Rangers",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730346.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730347.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-6689154",
     "sport": "soccer",
     "country": "England",
     "league": "Baller League",
-    "date": "2026-11-23T18:05:00.000Z",
+    "date": "2026-11-23T17:15:00.000Z",
     "home": "Clutch FC",
     "away": "Deportrio",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1823637.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730336.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-6689153",
+    "sport": "soccer",
+    "country": "England",
+    "league": "Baller League",
+    "date": "2026-11-23T18:05:00.000Z",
+    "home": "VZN FC",
+    "away": "Wembley Rangers",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730346.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1730347.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -12597,28 +12597,15 @@
     "awayScore": null
   },
   {
-    "id": "fotmob-1000022851",
-    "sport": "soccer",
-    "country": "Mexico",
-    "league": "Liga MX - Apertura - Quarter-finals",
-    "date": "2026-11-25T00:00:00.000Z",
-    "home": "8th ranked",
-    "away": "1st ranked",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2.png",
-    "homeScore": null,
-    "awayScore": null
-  },
-  {
     "id": "fotmob-1000022852",
     "sport": "soccer",
     "country": "Mexico",
     "league": "Liga MX - Apertura - Quarter-finals",
     "date": "2026-11-25T00:00:00.000Z",
-    "home": "7th ranked",
-    "away": "2nd ranked",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2.png",
+    "home": "León",
+    "away": "Cruz Azul",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6578.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -12628,10 +12615,23 @@
     "country": "Mexico",
     "league": "Liga MX - Apertura - Quarter-finals",
     "date": "2026-11-25T00:00:00.000Z",
-    "home": "6th ranked",
-    "away": "3rd ranked",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2.png",
+    "home": "Monterrey",
+    "away": "CF América",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7849.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-1000022851",
+    "sport": "soccer",
+    "country": "Mexico",
+    "league": "Liga MX - Apertura - Quarter-finals",
+    "date": "2026-11-25T00:00:00.000Z",
+    "home": "Pachuca",
+    "away": "Chivas",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7848.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7807.png",
     "homeScore": null,
     "awayScore": null
   },
@@ -13282,8 +13282,8 @@
     "away": "Buffalo Sabres",
     "homeLogo": "https://highlightly.net/hockey/images/teams/595633.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/574358.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 6
   },
   {
     "id": "highlightly-hockey-378670254",
@@ -13503,8 +13503,8 @@
     "away": "Chicago Blackhawks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/597335.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/577762.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 6
   },
   {
     "id": "highlightly-hockey-378672807",
@@ -13516,8 +13516,8 @@
     "away": "Edmonton Oilers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/594782.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/582017.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378671956",
@@ -13529,8 +13529,8 @@
     "away": "Pittsburgh Penguins",
     "homeLogo": "https://highlightly.net/hockey/images/teams/580315.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/593080.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-366537547",
@@ -13815,8 +13815,8 @@
     "away": "Denver Nuggets",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/4_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/7_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 145,
+    "awayScore": 151
   },
   {
     "id": "daum-nba-80109825",
@@ -13828,8 +13828,8 @@
     "away": "Dallas Mavericks",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/26_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/6_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 114,
+    "awayScore": 116
   },
   {
     "id": "daum-nba-80109826",
@@ -13841,8 +13841,8 @@
     "away": "Orlando Magic",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/27_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/19_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 116,
+    "awayScore": 96
   },
   {
     "id": "daum-nba-80109827",
@@ -13854,8 +13854,8 @@
     "away": "Indiana Pacers",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/18_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/11_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 113,
+    "awayScore": 106
   },
   {
     "id": "daum-nba-80109828",
@@ -13867,8 +13867,8 @@
     "away": "Boston Celtics",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/9_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/2_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 88,
+    "awayScore": 87
   },
   {
     "id": "daum-nba-80109829",

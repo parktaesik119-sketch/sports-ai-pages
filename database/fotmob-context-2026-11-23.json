@@ -14539,7 +14539,7 @@
     "lineup": {
       "home": [
         "David Soria (GK)|https://images.fotmob.com/image_resources/playerimages/581919.png",
-        "Andrés García (FW)|https://images.fotmob.com/image_resources/playerimages/1430406.png",
+        "Andrés García (MF)|https://images.fotmob.com/image_resources/playerimages/1430406.png",
         "Jean Ives Valou (DF)|https://images.fotmob.com/image_resources/playerimages/1792368.png",
         "Djené (DF)|https://images.fotmob.com/image_resources/playerimages/421365.png",
         "Zaid Abner Romero (DF)|https://images.fotmob.com/image_resources/playerimages/1118199.png",
@@ -21129,13 +21129,6 @@
     "recent": {
       "home": [
         {
-          "date": "2026-10-28T12:15:00.000Z",
-          "home": "Persib Bandung",
-          "away": "Melbourne Victory",
-          "homeScore": 2,
-          "awayScore": 0
-        },
-        {
           "date": "2026-11-01T08:30:00.000Z",
           "home": "Persib Bandung",
           "away": "Isenmulang Kalteng",
@@ -21162,6 +21155,13 @@
           "away": "Shan United",
           "homeScore": 6,
           "awayScore": 0
+        },
+        {
+          "date": "2026-11-22T12:00:00.000Z",
+          "home": "Persib Bandung",
+          "away": "Bali United FC",
+          "homeScore": 2,
+          "awayScore": 1
         }
       ],
       "away": [
@@ -21205,15 +21205,15 @@
     "lineup": {
       "home": [
         "Teja Alam (GK)|https://images.fotmob.com/image_resources/playerimages/1033699.png",
-        "Kakang Rudianto (DF)|https://images.fotmob.com/image_resources/playerimages/1332771.png",
         "Danijel Lončar (DF)|https://images.fotmob.com/image_resources/playerimages/831142.png",
+        "Patricio Matricardi (DF)|https://images.fotmob.com/image_resources/playerimages/492636.png",
         "Júlio César (DF)|https://images.fotmob.com/image_resources/playerimages/866393.png",
-        "Eliano Reijnders (DF)|https://images.fotmob.com/image_resources/playerimages/972306.png",
+        "Sandy Walsh (DF)|https://images.fotmob.com/image_resources/playerimages/354175.png",
         "Marc Klok (MF)|https://images.fotmob.com/image_resources/playerimages/469277.png",
         "Thom Haye (MF)|https://images.fotmob.com/image_resources/playerimages/384446.png",
-        "Luka Menalo (FW)|https://images.fotmob.com/image_resources/playerimages/638150.png",
-        "Adam Alis (MF)|https://images.fotmob.com/image_resources/playerimages/792272.png",
-        "Mariano Peralta (FW)|https://images.fotmob.com/image_resources/playerimages/1137210.png",
+        "Gakuto Notsuda (MF)|https://images.fotmob.com/image_resources/playerimages/430855.png",
+        "Eliano Reijnders (DF)|https://images.fotmob.com/image_resources/playerimages/972306.png",
+        "Uilliam (FW)|https://images.fotmob.com/image_resources/playerimages/789859.png",
         "Balša Sekulić (FW)|https://images.fotmob.com/image_resources/playerimages/860430.png"
       ],
       "away": [
@@ -21231,7 +21231,7 @@
       ]
     },
     "formation": {
-      "home": "4-2-3-1",
+      "home": "3-5-2",
       "away": "4-4-2"
     },
     "coach": {
