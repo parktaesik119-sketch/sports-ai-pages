@@ -1,6 +1,6 @@
 ---
 title: "PSG vs AS 로마 축구분석·승부예측 (11월 26일) - 픽천국"
-date: "2026-11-25T20:00:00.000Z"
+date: 2026-11-25T20:00:00.000Z
 description: "PSG vs AS 로마 축구분석: 파리 생제르맹은 최근 10경기 연속 승리라는 확고한 흐름을 만들어낸 데 반해, 로마는 6승 2무 2패로 흐름 자체는 나쁘지 않… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-fotmob-6106235-2026-11-26-paris-saint-germain"
 category: "soccer"
