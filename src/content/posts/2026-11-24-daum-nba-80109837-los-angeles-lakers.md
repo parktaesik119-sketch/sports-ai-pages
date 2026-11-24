@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.21","home":"LA 레이커스","away":"새크라멘�
 awayRecent: '[{"date":"26.11.21","home":"유타 재즈","away":"피닉스 선즈","score":"101-111","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109813-2026-11-21-utah-jazz/"},{"date":"26.11.19","home":"LA 레이커스","away":"유타 재즈","score":"97-109","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109801-2026-11-19-los-angeles-lakers/"},{"date":"26.11.18","home":"LA 클리퍼스","away":"유타 재즈","score":"107-132","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109790-2026-11-18-la-clippers/"},{"date":"26.11.16","home":"유타 재즈","away":"샌안토니오 스퍼스","score":"102-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109772-2026-11-16-utah-jazz/"},{"date":"26.11.14","home":"휴스턴 로키츠","away":"유타 재즈","score":"125-118","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109760-2026-11-14-houston-rockets/"}]'
 injuryHome: "Austin Reaves[주요](Out - Bruise)"
 injuryAway: "Jaxson Hayes[주요](Out - Not Specified) | Jusuf Nurkic[주요](Out - Strain) | Lauri Markkanen[주요](Out - Fracture) | Jaren Jackson Jr.[주요](Out - Not Specified)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"J. LaRavia (F)|https://a.espncdn.com/i/headshots/nba/players/full/4592691.png\",\"W. Kessler (C)|https://a.espncdn.com/i/headshots/nba/players/full/4433136.png\",\"M. Thybulle (G)|https://a.espncdn.com/i/headshots/nba/players/full/3907498.png\",\"L. Doncic (G)|https://a.espncdn.com/i/headshots/nba/players/full/3945274.png\",\"Q. Grimes (G)|https://a.espncdn.com/i/headshots/nba/players/full/4397014.png\"]"
+awayLineup: "[\"M. Bamba (C)|https://a.espncdn.com/i/headshots/nba/players/full/4277919.png\",\"J. Green (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432811.png\",\"K. George (G)|https://a.espncdn.com/i/headshots/nba/players/full/4433627.png\",\"A. Bailey (G)|https://a.espncdn.com/i/headshots/nba/players/full/4873138.png\",\"D. Peterson (G)|https://a.espncdn.com/i/headshots/nba/players/full/5041955.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
