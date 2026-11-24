@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.21","home":"시카고 불스","away":"워싱턴 위
 awayRecent: '[{"date":"26.11.21","home":"클리블랜드 캐벌리어스","away":"인디애나 페이서스","score":"128-119","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109808-2026-11-21-cleveland-cavaliers/"},{"date":"26.11.19","home":"클리블랜드 캐벌리어스","away":"멤피스 그리즐리","score":"121-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109791-2026-11-19-cleveland-cavaliers/"},{"date":"26.11.17","home":"클리블랜드 캐벌리어스","away":"시카고 불스","score":"126-115","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109779-2026-11-17-cleveland-cavaliers/"},{"date":"26.11.15","home":"클리블랜드 캐벌리어스","away":"댈러스 매버릭스","score":"127-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109765-2026-11-15-cleveland-cavaliers/"},{"date":"26.11.14","home":"마이애미 히트","away":"클리블랜드 캐벌리어스","score":"133-121","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109759-2026-11-14-miami-heat/"}]'
 injuryHome: "Norman Powell[주요](Out - Strain) | Caleb Wilson[주요](Out)"
 injuryAway: "Nae'Qwan Tomlin[주요](Out) | Evan Mobley[주요](Out - Sprain)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"J. Smith (F)|https://a.espncdn.com/i/headshots/nba/players/full/4397189.png\",\"I. Okoro (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432822.png\",\"M. Buzelis (F)|https://a.espncdn.com/i/headshots/nba/players/full/4711294.png\",\"B. Hield (G)|https://a.espncdn.com/i/headshots/nba/players/full/2990984.png\",\"J. Giddey (G)|https://a.espncdn.com/i/headshots/nba/players/full/4871145.png\"]"
+awayLineup: "[\"J. Allen (C)|https://a.espncdn.com/i/headshots/nba/players/full/4066328.png\",\"J. Harden (G)|https://a.espncdn.com/i/headshots/nba/players/full/3992.png\",\"D. Mitchell (G)|https://a.espncdn.com/i/headshots/nba/players/full/3908809.png\",\"S. Merrill (G)|https://a.espncdn.com/i/headshots/nba/players/full/4066757.png\",\"P. Watson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4576087.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.22","home":"샌안토니오 스퍼스","away":"뉴�
 awayRecent: '[{"date":"26.11.21","home":"유타 재즈","away":"피닉스 선즈","score":"101-111","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109813-2026-11-21-utah-jazz/"},{"date":"26.11.19","home":"새크라멘토 킹스","away":"피닉스 선즈","score":"107-128","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109802-2026-11-19-sacramento-kings/"},{"date":"26.11.17","home":"덴버 너기츠","away":"피닉스 선즈","score":"105-117","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109785-2026-11-17-denver-nuggets/"},{"date":"26.11.16","home":"피닉스 선즈","away":"LA 레이커스","score":"123-131","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109770-2026-11-16-phoenix-suns/"},{"date":"26.11.13","home":"피닉스 선즈","away":"샬럿 호네츠","score":"101-96","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109754-2026-11-13-phoenix-suns/"}]'
 injuryHome: "Trendon Watford[주요](Out - Sprain) | Bennedict Mathurin[주요](Out - Plantar Fasciitis) | Dejounte Murray[주요](Out)"
 injuryAway: "Mark Williams[주요](Out - Surgery)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"H. Jones (F)|https://a.espncdn.com/i/headshots/nba/players/full/4277813.png\",\"Z. Williamson (F)|https://a.espncdn.com/i/headshots/nba/players/full/4395628.png\",\"T. Murphy III (F)|https://a.espncdn.com/i/headshots/nba/players/full/4397688.png\",\"Y. Missi (C)|https://a.espncdn.com/i/headshots/nba/players/full/5061589.png\",\"J. Fears (G)|https://a.espncdn.com/i/headshots/nba/players/full/5144091.png\"]"
+awayLineup: "[\"D. Brooks (F)|https://a.espncdn.com/i/headshots/nba/players/full/3155526.png\",\"M. Bridges (F)|https://a.espncdn.com/i/headshots/nba/players/full/4066383.png\",\"O. Ighodaro (F)|https://a.espncdn.com/i/headshots/nba/players/full/4601023.png\",\"D. Booker (G)|https://a.espncdn.com/i/headshots/nba/players/full/3136193.png\",\"J. Green (G)|https://a.espncdn.com/i/headshots/nba/players/full/4437244.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
