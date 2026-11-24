@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.22","home":"필라델피아 76ers","away":"밀워�
 awayRecent: '[{"date":"26.11.22","home":"뉴욕 닉스","away":"포틀랜드 트레일블레이저스","score":"97-96","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109817-2026-11-22-new-york-knicks/"},{"date":"26.11.20","home":"밀워키 벅스","away":"포틀랜드 트레일블레이저스","score":"114-124","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109803-2026-11-20-milwaukee-bucks/"},{"date":"26.11.18","home":"미네소타 팀버울브스","away":"포틀랜드 트레일블레이저스","score":"106-105","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109787-2026-11-18-minnesota-timberwolves/"},{"date":"26.11.17","home":"미네소타 팀버울브스","away":"포틀랜드 트레일블레이저스","score":"106-98","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109784-2026-11-17-minnesota-timberwolves/"},{"date":"26.11.14","home":"새크라멘토 킹스","away":"포틀랜드 트레일블레이저스","score":"107-120","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109762-2026-11-14-sacramento-kings/"}]'
 injuryHome: "Joel Embiid[주요](Out) | Ariel Hukporti[주요](Out - Surgery)"
 injuryAway: "Chris Youngblood[주요](Out - Bruise) | Vit Krejci[주요](Out) | Ja Morant[주요](Out - Not Specified) | Shaedon Sharpe[주요](Out - Surgery)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"L. James (F)|https://a.espncdn.com/i/headshots/nba/players/full/1966.png\",\"J. Walker (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432446.png\",\"J. Brown (G)|https://a.espncdn.com/i/headshots/nba/players/full/3917376.png\",\"T. Maxey (G)|https://a.espncdn.com/i/headshots/nba/players/full/4431678.png\",\"V. Edgecombe (G)|https://a.espncdn.com/i/headshots/nba/players/full/5124612.png\"]"
+awayLineup: "[\"T. Camara (F)|https://a.espncdn.com/i/headshots/nba/players/full/4431736.png\",\"D. Avdija (F)|https://a.espncdn.com/i/headshots/nba/players/full/4683021.png\",\"D. Clingan (C)|https://a.espncdn.com/i/headshots/nba/players/full/5105565.png\",\"D. Lillard (G)|https://a.espncdn.com/i/headshots/nba/players/full/6606.png\",\"S. Cissoko (G)|https://a.espncdn.com/i/headshots/nba/players/full/5081727.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
