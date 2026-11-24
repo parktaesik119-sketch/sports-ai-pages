@@ -20,12 +20,12 @@ homeRecent: '[{"date":"26.11.21","home":"샤밥 알아흘리 두바이","away":"
 awayRecent: '[{"date":"26.11.03","home":"알가라파","away":"알카디시야","score":"0-5","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-6050092-2026-11-03-al-gharafa/"},{"date":"26.10.30","home":"알리야드","away":"알카디시야","score":"0-6","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5970194-2026-10-30-al-riyadh/"},{"date":"26.10.27","home":"알카디시야","away":"알사드","score":"1-1","result":"🟡무","link":"https://pick79.com/posts/detail/analyze-fotmob-6050084-2026-10-27-al-qadsiah/"},{"date":"26.10.24","home":"알카디시야","away":"알힐랄","score":"2-3","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-fotmob-5970177-2026-10-24-al-qadsiah/"},{"date":"26.10.21","home":"알타아원","away":"알카디시야","score":"0-1","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-fotmob-5970170-2026-10-21-al-taawoun/"}]'
 injuryHome: "없음"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
-homeFormation: ""
-awayFormation: ""
-homeCoach: ""
-awayCoach: ""
+homeLineup: "[\"Hamad Al-Meqbaali (GK)|https://images.fotmob.com/image_resources/playerimages/1138507.png\",\"Jorge Fernandes (DF)|https://images.fotmob.com/image_resources/playerimages/668727.png\",\"Kauan Santos (DF)|https://images.fotmob.com/image_resources/playerimages/1560056.png\",\"Mateus Henrique (DF)|https://images.fotmob.com/image_resources/playerimages/1458813.png\",\"Wout Faes (DF)|https://images.fotmob.com/image_resources/playerimages/693678.png\",\"Breno Cascardo (MF)|https://images.fotmob.com/image_resources/playerimages/1476485.png\",\"Nemanja Maksimović (MF)|https://images.fotmob.com/image_resources/playerimages/495962.png\",\"Saeid Ezatolahi (MF)|https://images.fotmob.com/image_resources/playerimages/505281.png\",\"Guilherme (FW)|https://images.fotmob.com/image_resources/playerimages/1174676.png\",\"Juan Bezerra (FW)|https://images.fotmob.com/image_resources/playerimages/1556281.png\",\"Sardar Azmoun (FW)|https://images.fotmob.com/image_resources/playerimages/441309.png\"]"
+awayLineup: "[\"Koen Casteels (GK)|https://images.fotmob.com/image_resources/playerimages/170322.png\",\"Gastón Álvarez (DF)|https://images.fotmob.com/image_resources/playerimages/1060634.png\",\"Nacho (DF)|https://images.fotmob.com/image_resources/playerimages/213499.png\",\"Yasir Al Shahrani (DF)|https://images.fotmob.com/image_resources/playerimages/392208.png\",\"Julian Weigl (MF)|https://images.fotmob.com/image_resources/playerimages/521421.png\",\"Mohammed Abu Al Shamat (MF)|https://images.fotmob.com/image_resources/playerimages/1543647.png\",\"Musab Al-Juwayr (MF)|https://images.fotmob.com/image_resources/playerimages/1235341.png\",\"Tijjani Reijnders (MF)|https://images.fotmob.com/image_resources/playerimages/868344.png\",\"Julián Quiñones (FW)|https://images.fotmob.com/image_resources/playerimages/720560.png\",\"Mahamadou Sangaré (FW)|https://images.fotmob.com/image_resources/playerimages/1586389.png\",\"Sani Suleiman (FW)|https://images.fotmob.com/image_resources/playerimages/1374055.png\"]"
+homeFormation: "4-3-3"
+awayFormation: "3-4-3"
+homeCoach: "André Jardine|https://images.fotmob.com/image_resources/playerimages/1271663.png"
+awayCoach: "Brendan Rodgers|https://images.fotmob.com/image_resources/playerimages/160770.png"
 pickWinTeam: "알카디시야"
 pickWinResult: "승"
 pickHandicapTeam: "알카디시야"
