@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.22","home":"미네소타 팀버울브스","away":"�
 awayRecent: '[{"date":"26.11.21","home":"브루클린 네츠","away":"올랜도 매직","score":"111-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109810-2026-11-21-brooklyn-nets/"},{"date":"26.11.19","home":"브루클린 네츠","away":"시카고 불스","score":"107-137","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109795-2026-11-19-brooklyn-nets/"},{"date":"26.11.17","home":"브루클린 네츠","away":"필라델피아 76ers","score":"123-135","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109782-2026-11-17-brooklyn-nets/"},{"date":"26.11.15","home":"멤피스 그리즐리","away":"브루클린 네츠","score":"129-110","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109768-2026-11-15-memphis-grizzlies/"},{"date":"26.11.12","home":"뉴올리언스 펠리컨스","away":"브루클린 네츠","score":"111-145","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109744-2026-11-12-new-orleans-pelicans/"}]'
 injuryHome: "Jaylen Clark[주요](Out - Not Specified) | Anthony Edwards[주요](Out - Surgery) | Donte DiVincenzo[주요](Out - Surgery)"
 injuryAway: "Nolan Traore[주요](Out - Strain)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"J. McDaniels (F)|https://a.espncdn.com/i/headshots/nba/players/full/4431671.png\",\"J. Kuminga (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433247.png\",\"R. Gobert (C)|https://a.espncdn.com/i/headshots/nba/players/full/3032976.png\",\"A. Dosunmu (G)|https://a.espncdn.com/i/headshots/nba/players/full/4397002.png\",\"L. Ball (G)|https://a.espncdn.com/i/headshots/nba/players/full/4432816.png\"]"
+awayLineup: "[\"J. Randle (F)|https://a.espncdn.com/i/headshots/nba/players/full/3064514.png\",\"M. Porter Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4278104.png\",\"D. Wolf (F)|https://a.espncdn.com/i/headshots/nba/players/full/5107173.png\",\"D. Sharpe (C)|https://a.espncdn.com/i/headshots/nba/players/full/4432194.png\",\"M. Brown Jr. (G)|https://a.espncdn.com/i/headshots/nba/players/full/5101761.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""

@@ -100,8 +100,8 @@ homeRecent: '[{"date":"26.11.21","home":"디트로이트 피스톤스","away":"�
 awayRecent: '[{"date":"26.11.22","home":"필라델피아 76ers","away":"밀워키 벅스","score":"132-129","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109816-2026-11-22-philadelphia-76ers/"},{"date":"26.11.20","home":"밀워키 벅스","away":"포틀랜드 트레일블레이저스","score":"114-124","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109803-2026-11-20-milwaukee-bucks/"},{"date":"26.11.19","home":"마이애미 히트","away":"밀워키 벅스","score":"137-130","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109793-2026-11-19-miami-heat/"},{"date":"26.11.16","home":"밀워키 벅스","away":"애틀랜타 호크스","score":"106-113","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109776-2026-11-16-milwaukee-bucks/"},{"date":"26.11.14","home":"올랜도 매직","away":"밀워키 벅스","score":"107-99","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109756-2026-11-14-orlando-magic/"}]'
 injuryHome: "Nate Bittle[주요](Out - Fracture) | Kawhi Leonard[주요](Out - Inflammation) | RJ Barrett[주요](Out - Strain)"
 injuryAway: "없음"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"S. Barnes (F)|https://a.espncdn.com/i/headshots/nba/players/full/4433134.png\",\"A. Graves (F)|https://a.espncdn.com/i/headshots/nba/players/full/5149115.png\",\"J. Poeltl (C)|https://a.espncdn.com/i/headshots/nba/players/full/3134908.png\",\"I. Quickley (G)|https://a.espncdn.com/i/headshots/nba/players/full/4395724.png\",\"J. Walter (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684272.png\"]"
+awayLineup: "[\"K. Kuzma (F)|https://a.espncdn.com/i/headshots/nba/players/full/3134907.png\",\"J. Jaquez Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432848.png\",\"M. Turner (C)|https://a.espncdn.com/i/headshots/nba/players/full/3133628.png\",\"T. Herro (G)|https://a.espncdn.com/i/headshots/nba/players/full/4395725.png\",\"R. Rollins (G)|https://a.espncdn.com/i/headshots/nba/players/full/4591725.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
