@@ -20,8 +20,8 @@ homeRecent: '[{"date":"26.11.21","home":"덴버 너기츠","away":"휴스턴 로
 awayRecent: '[{"date":"26.11.22","home":"댈러스 매버릭스","away":"LA 클리퍼스","score":"110-100","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109818-2026-11-22-dallas-mavericks/"},{"date":"26.11.20","home":"샌안토니오 스퍼스","away":"LA 클리퍼스","score":"124-112","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109805-2026-11-20-san-antonio-spurs/"},{"date":"26.11.18","home":"LA 클리퍼스","away":"유타 재즈","score":"107-132","result":"🔴패","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109790-2026-11-18-la-clippers/"},{"date":"26.11.16","home":"LA 클리퍼스","away":"샬럿 호네츠","score":"113-105","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109771-2026-11-16-la-clippers/"},{"date":"26.11.14","home":"LA 클리퍼스","away":"오클라호마시티 썬더","score":"113-112","result":"🟢승","link":"https://pick79.com/posts/detail/analyze-daum-nba-80109763-2026-11-14-la-clippers/"}]'
 injuryHome: "없음"
 injuryAway: "Bradley Beal[주요](Out - Inflammation) | Jordan Miller[주요](Out - Surgery)"
-homeLineup: ''
-awayLineup: ''
+homeLineup: "[\"K. Durant (F)|https://a.espncdn.com/i/headshots/nba/players/full/3202.png\",\"J. Smith Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/4432639.png\",\"A. Sengun (C)|https://a.espncdn.com/i/headshots/nba/players/full/4871144.png\",\"F. VanVleet (G)|https://a.espncdn.com/i/headshots/nba/players/full/2991230.png\",\"A. Thompson (G)|https://a.espncdn.com/i/headshots/nba/players/full/4684740.png\"]"
+awayLineup: "[\"B. Ingram (F)|https://a.espncdn.com/i/headshots/nba/players/full/3913176.png\",\"D. Jones Jr. (F)|https://a.espncdn.com/i/headshots/nba/players/full/3936099.png\",\"R. Hachimura (F)|https://a.espncdn.com/i/headshots/nba/players/full/4066648.png\",\"B. Lopez (C)|https://a.espncdn.com/i/headshots/nba/players/full/3448.png\",\"D. Garland (G)|https://a.espncdn.com/i/headshots/nba/players/full/4396907.png\"]"
 homeFormation: ""
 awayFormation: ""
 homeCoach: ""
