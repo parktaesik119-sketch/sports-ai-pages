@@ -19,7 +19,7 @@ summary: "이번 대결은 디트로이트 피스톤스의 공수 밸런스가 �
 homeRecent: "[{\"date\":\"26.11.23\",\"home\":\"워싱턴 위저즈\",\"away\":\"올랜도 매직\",\"score\":\"116-96\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"브루클린 네츠\",\"away\":\"올랜도 매직\",\"score\":\"111-113\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"올랜도 매직\",\"away\":\"필라델피아 76ers\",\"score\":\"116-121\",\"result\":\"🔴패\"},{\"date\":\"26.11.17\",\"home\":\"보스턴 셀틱스\",\"away\":\"올랜도 매직\",\"score\":\"105-115\",\"result\":\"🟢승\"},{\"date\":\"26.11.14\",\"home\":\"올랜도 매직\",\"away\":\"밀워키 벅스\",\"score\":\"107-99\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.23\",\"home\":\"애틀랜타 호크스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"107-97\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"디트로이트 피스톤스\",\"away\":\"토론토 랩터스\",\"score\":\"102-105\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"뉴올리언스 펠리컨스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"109-122\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"93-105\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"마이애미 히트\",\"away\":\"디트로이트 피스톤스\",\"score\":\"137-117\",\"result\":\"🔴패\"}]"
 injuryHome: "Jonathan Isaac[주요](Out - Not Specified) | Izaiyah Nelson[주요](Out - Surgery) | Noah Penda[주요](Out - Strain) | Paolo Banchero[주요](Out - Sprain)"
-injuryAway: "Ebuka Okorie[주요](Out - Strain) | Taurean Prince[주요](Out - Surgery) | Duncan Robinson[주요](Out - Strain) | Jalen Duren[주요](Out - Strain) | Cade Cunningham[경미](Day-To-Day)"
+injuryAway: "Cade Cunningham[주요](Out) | Ebuka Okorie[주요](Out - Strain) | Taurean Prince[주요](Out - Surgery) | Duncan Robinson[주요](Out - Strain) | Jalen Duren[주요](Out - Strain)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
