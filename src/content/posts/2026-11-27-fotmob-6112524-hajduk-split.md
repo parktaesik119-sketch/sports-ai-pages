@@ -1,6 +1,6 @@
 ---
 title: "하이두크 스플리트 vs St.Truiden 축구분석·승부예측 (11월 27일) - 픽천국"
-date: "2026-11-26T20:00:00.000Z"
+date: 2026-11-26T20:00:00.000Z
 description: "하이두크 스플리트 vs St.Truiden 축구분석: 전력 비교에서는 St.Truiden이 온전한 로스터로 경기에 나서고, 하이두크 스플리트는 6명의 주요 결장자가 발생해 축이 약… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-fotmob-6112524-2026-11-27-hajduk-split"
 category: "soccer"

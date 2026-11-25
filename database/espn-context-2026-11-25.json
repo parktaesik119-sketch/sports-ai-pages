@@ -726,6 +726,11 @@
     "injuries": {
       "home": [
         {
+          "name": "Filip Hallander",
+          "status": "Day-To-Day",
+          "detail": ""
+        },
+        {
           "name": "Zach Hyman",
           "status": "Out",
           "detail": ""
@@ -744,35 +749,36 @@
           "name": "Frederik Andersen",
           "status": "Injured Reserve",
           "detail": ""
-        },
-        {
-          "name": "Mattias Janmark",
-          "status": "Injured Reserve",
-          "detail": "Surgery"
         }
       ],
-      "away": []
+      "away": [
+        {
+          "name": "Marc Gatcomb",
+          "status": "Day-To-Day",
+          "detail": ""
+        }
+      ]
     },
     "standings": {
       "home": {
         "rank": "2",
         "wins": "17",
-        "losses": "5",
-        "ties": null,
-        "winPercent": null,
-        "gamesBehind": "3",
-        "pointsFor": "101",
-        "pointsAgainst": "77"
-      },
-      "away": {
-        "rank": "3",
-        "wins": "14",
         "losses": "6",
         "ties": null,
         "winPercent": null,
-        "gamesBehind": "8",
-        "pointsFor": "85",
-        "pointsAgainst": "75"
+        "gamesBehind": "3",
+        "pointsFor": "104",
+        "pointsAgainst": "82"
+      },
+      "away": {
+        "rank": "3",
+        "wins": "15",
+        "losses": "6",
+        "ties": null,
+        "winPercent": null,
+        "gamesBehind": "6",
+        "pointsFor": "90",
+        "pointsAgainst": "78"
       }
     },
     "h2h": null
@@ -1951,7 +1957,7 @@
         "pointsAgainst": "2042"
       },
       "away": {
-        "rank": "7",
+        "rank": "6",
         "wins": "11",
         "losses": "6",
         "ties": null,
@@ -2553,14 +2559,14 @@
       ],
       "away": [
         {
-          "name": "Victor Wembanyama",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
           "name": "De'Aaron Fox",
           "status": "Day-To-Day",
           "detail": "Bruise"
+        },
+        {
+          "name": "Victor Wembanyama",
+          "status": "Day-To-Day",
+          "detail": ""
         },
         {
           "name": "Dylan Harper",
@@ -2688,22 +2694,22 @@
       "home": {
         "rank": "8",
         "wins": "7",
-        "losses": "9",
+        "losses": "10",
         "ties": null,
-        "winPercent": ".438",
-        "gamesBehind": "6",
-        "pointsFor": "1740",
-        "pointsAgainst": "1806"
+        "winPercent": ".412",
+        "gamesBehind": "6.5",
+        "pointsFor": "1826",
+        "pointsAgainst": "1910"
       },
       "away": {
-        "rank": "5",
-        "wins": "10",
+        "rank": "4",
+        "wins": "11",
         "losses": "6",
         "ties": null,
-        "winPercent": ".625",
-        "gamesBehind": "3",
-        "pointsFor": "1814",
-        "pointsAgainst": "1737"
+        "winPercent": ".647",
+        "gamesBehind": "2.5",
+        "pointsFor": "1918",
+        "pointsAgainst": "1823"
       }
     },
     "h2h": null
@@ -2751,22 +2757,22 @@
       "home": {
         "rank": "9",
         "wins": "7",
-        "losses": "11",
+        "losses": "12",
         "ties": null,
-        "winPercent": ".389",
-        "gamesBehind": "7",
-        "pointsFor": "1986",
-        "pointsAgainst": "2077"
+        "winPercent": ".368",
+        "gamesBehind": "7.5",
+        "pointsFor": "2102",
+        "pointsAgainst": "2208"
       },
       "away": {
-        "rank": "3",
-        "wins": "11",
+        "rank": "2",
+        "wins": "12",
         "losses": "6",
         "ties": null,
-        "winPercent": ".647",
-        "gamesBehind": "2.5",
-        "pointsFor": "1891",
-        "pointsAgainst": "1736"
+        "winPercent": ".667",
+        "gamesBehind": "2",
+        "pointsFor": "2022",
+        "pointsAgainst": "1852"
       }
     },
     "h2h": null
@@ -2788,11 +2794,6 @@
           "detail": ""
         },
         {
-          "name": "P.J. Washington",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
           "name": "Dereck Lively II",
           "status": "Out",
           "detail": "Surgery"
@@ -2811,24 +2812,24 @@
     },
     "standings": {
       "home": {
-        "rank": "6",
+        "rank": "7",
         "wins": "10",
-        "losses": "5",
+        "losses": "6",
         "ties": null,
-        "winPercent": ".667",
-        "gamesBehind": "3.5",
-        "pointsFor": "1755",
-        "pointsAgainst": "1728"
+        "winPercent": ".625",
+        "gamesBehind": "4",
+        "pointsFor": "1856",
+        "pointsAgainst": "1848"
       },
       "away": {
         "rank": "8",
-        "wins": "10",
+        "wins": "11",
         "losses": "7",
         "ties": null,
-        "winPercent": ".588",
-        "gamesBehind": "4.5",
-        "pointsFor": "1911",
-        "pointsAgainst": "1912"
+        "winPercent": ".611",
+        "gamesBehind": "4",
+        "pointsFor": "2031",
+        "pointsAgainst": "2013"
       }
     },
     "h2h": null
@@ -3015,7 +3016,7 @@
     },
     "standings": {
       "home": {
-        "rank": "4",
+        "rank": "5",
         "wins": "11",
         "losses": "6",
         "ties": null,
@@ -3414,14 +3415,14 @@
       ],
       "away": [
         {
-          "name": "Victor Wembanyama",
-          "status": "Day-To-Day",
-          "detail": ""
-        },
-        {
           "name": "De'Aaron Fox",
           "status": "Day-To-Day",
           "detail": "Bruise"
+        },
+        {
+          "name": "Victor Wembanyama",
+          "status": "Day-To-Day",
+          "detail": ""
         },
         {
           "name": "Dylan Harper",
@@ -3442,7 +3443,7 @@
     },
     "standings": {
       "home": {
-        "rank": "7",
+        "rank": "6",
         "wins": "11",
         "losses": "6",
         "ties": null,

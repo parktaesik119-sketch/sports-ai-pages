@@ -1333,7 +1333,7 @@
         "Nacho Méndez (MF)|https://images.fotmob.com/image_resources/playerimages/876432.png",
         "Óscar Arribas (DF)|https://images.fotmob.com/image_resources/playerimages/828711.png",
         "João Figueiredo (MF)|https://images.fotmob.com/image_resources/playerimages/753779.png",
-        "Marcos Guilherme (MF)|https://images.fotmob.com/image_resources/playerimages/533344.png",
+        "Marcos Guilherme (FW)|https://images.fotmob.com/image_resources/playerimages/533344.png",
         "Jairo (FW)|https://images.fotmob.com/image_resources/playerimages/523907.png"
       ]
     },
@@ -2352,7 +2352,7 @@
         {
           "name": "David Raya",
           "status": "어깨 부상",
-          "detail": "About a week"
+          "detail": "Doubtful"
         },
         {
           "name": "Martín Zubimendi",
@@ -11434,13 +11434,6 @@
     "recent": {
       "home": [
         {
-          "date": "2026-10-20T15:10:00.000Z",
-          "home": "Al-Taawoun",
-          "away": "Al Qadsiah",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
           "date": "2026-10-23T18:00:00.000Z",
           "home": "Al Qadsiah",
           "away": "Al Hilal",
@@ -11466,6 +11459,13 @@
           "home": "Al-Gharafa",
           "away": "Al Qadsiah",
           "homeScore": 0,
+          "awayScore": 5
+        },
+        {
+          "date": "2026-11-24T16:00:00.000Z",
+          "home": "Shabab Al-Ahli Dubai FC",
+          "away": "Al Qadsiah",
+          "homeScore": 1,
           "awayScore": 5
         }
       ],

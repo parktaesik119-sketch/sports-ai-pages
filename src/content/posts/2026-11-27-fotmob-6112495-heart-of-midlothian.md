@@ -1,6 +1,6 @@
 ---
 title: "Heart of Midlothian vs AS 모나코 축구분석·승부예측 (11월 27일) - 픽천국"
-date: "2026-11-26T17:45:00.000Z"
+date: 2026-11-26T17:45:00.000Z
 description: "Heart of Midlothian vs AS 모나코 축구분석: 하트 오브 미들리언은 직전 던디전 8대0 대승을 계기로 최근 3경기에서 14골을 뽑아내며 공격 흐름을 되찾았기에 홈에서 AS … 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-fotmob-6112495-2026-11-27-heart-of-midlothian"
 category: "soccer"

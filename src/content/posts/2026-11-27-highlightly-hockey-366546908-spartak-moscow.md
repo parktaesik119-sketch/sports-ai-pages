@@ -1,6 +1,6 @@
 ---
 title: "스파르타크 모스크바 vs CSFA 모스크바 하키분석·승부예측 (11월 27일) - 픽천국"
-date: "2026-11-26T16:30:00.000Z"
+date: 2026-11-26T16:30:00.000Z
 description: "스파르타크 모스크바 vs CSFA 모스크바 하키분석: 전력 지표상 CSFA 모스크바이 65% 승률과 최근 10경기 7승으로 홈팀 스파르타크 모스크바의 54% 승률과 4승 6패에 비… 승부예측과 추천 스포츠픽은 픽천국에서 확인하세요."
 slug: "analyze-highlightly-hockey-366546908-2026-11-27-spartak-moscow"
 category: "hockey"
