@@ -19,7 +19,7 @@ summary: "캐롤라이나 허리케인스는 최근 10경기에서 8승 2패를 
 homeRecent: "[{\"date\":\"26.11.23\",\"home\":\"탬파베이 라이트닝\",\"away\":\"버펄로 세이버스\",\"score\":\"2-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"탬파베이 라이트닝\",\"away\":\"에드먼턴 오일러스\",\"score\":\"3-1\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"탬파베이 라이트닝\",\"away\":\"워싱턴 캐피털스\",\"score\":\"5-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"탬파베이 라이트닝\",\"away\":\"디트로이트 레드윙스\",\"score\":\"0-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.13\",\"home\":\"콜럼버스 블루재킷츠\",\"away\":\"탬파베이 라이트닝\",\"score\":\"1-3\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.23\",\"home\":\"뉴욕 레인저스\",\"away\":\"캐롤라이나 허리케인스\",\"score\":\"2-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"캐롤라이나 허리케인스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"7-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"캐롤라이나 허리케인스\",\"away\":\"몬트리올 캐네이디언스\",\"score\":\"1-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"캐롤라이나 허리케인스\",\"away\":\"시애틀 크라켄\",\"score\":\"5-1\",\"result\":\"🟢승\"},{\"date\":\"26.11.13\",\"home\":\"시애틀 크라켄\",\"away\":\"캐롤라이나 허리케인스\",\"score\":\"1-4\",\"result\":\"🟢승\"}]"
 injuryHome: "Conor Geekie[주요](Injured Reserve)"
-injuryAway: "Nikolaj Ehlers[주요](Out)"
+injuryAway: "K'Andre Miller[경미](Day-To-Day - Not Specified) | Nikolaj Ehlers[주요](Out)"
 homeLineup: "[\"선발투수 A. Vasilevskiy|https://a.espncdn.com/i/headshots/mlb/players/full/2976847.png\"]"
 awayLineup: "[\"선발투수 P. Kochetkov|https://a.espncdn.com/i/headshots/mlb/players/full/4565259.png\"]"
 homeFormation: ""
