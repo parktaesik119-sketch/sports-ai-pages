@@ -19,7 +19,7 @@ summary: "두 팀의 최근 흐름은 크게 대비되는 모습을 보입니다
 homeRecent: "[{\"date\":\"26.11.08\",\"home\":\"FK TransINVEST\",\"away\":\"FK 카우노 잘기리스\",\"score\":\"4-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.06\",\"home\":\"FC 루가노\",\"away\":\"FK 카우노 잘기리스\",\"score\":\"3-0\",\"result\":\"🔴패\"},{\"date\":\"26.11.01\",\"home\":\"Hegelmann\",\"away\":\"FK 카우노 잘기리스\",\"score\":\"1-4\",\"result\":\"🟢승\"},{\"date\":\"26.10.27\",\"home\":\"FK 카우노 잘기리스\",\"away\":\"Žalgiris Vilnius\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.10.23\",\"home\":\"FK 카우노 잘기리스\",\"away\":\"브란\",\"score\":\"1-4\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.06\",\"home\":\"리가 FC\",\"away\":\"야블로네츠\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.11.01\",\"home\":\"Ogre United\",\"away\":\"리가 FC\",\"score\":\"0-0\",\"result\":\"🟡무\"},{\"date\":\"26.10.27\",\"home\":\"Grobiņa\",\"away\":\"리가 FC\",\"score\":\"2-5\",\"result\":\"🟢승\"},{\"date\":\"26.10.23\",\"home\":\"파포스 FC\",\"away\":\"리가 FC\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.10.18\",\"home\":\"리가 FC\",\"away\":\"SK Super Nova\",\"score\":\"2-1\",\"result\":\"🟢승\"}]"
 injuryHome: "없음"
-injuryAway: "Renārs Varslavāns (십자 인대 부상)"
+injuryAway: "Renārs Varslavāns[주요](십자 인대 부상 - 복귀예정 Late January 2027)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""

@@ -19,7 +19,7 @@ summary: "양 팀의 전력 비교를 보면, 최근 10경기 8승 2패로 승�
 homeRecent: "[{\"date\":\"26.11.22\",\"home\":\"Željezničar\",\"away\":\"보라츠\",\"score\":\"0-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.08\",\"home\":\"보라츠\",\"away\":\"라드니크 비옐리나\",\"score\":\"4-1\",\"result\":\"🟢승\"},{\"date\":\"26.11.06\",\"home\":\"엘라비 AIF\",\"away\":\"보라츠\",\"score\":\"2-0\",\"result\":\"🔴패\"},{\"date\":\"26.11.01\",\"home\":\"Čelik Zenica\",\"away\":\"보라츠\",\"score\":\"2-4\",\"result\":\"🟢승\"},{\"date\":\"26.10.26\",\"home\":\"보라츠\",\"away\":\"Sloga Doboj\",\"score\":\"2-0\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.23\",\"home\":\"아탈란타\",\"away\":\"인테르\",\"score\":\"4-4\",\"result\":\"🟡무\"},{\"date\":\"26.11.08\",\"home\":\"몬차\",\"away\":\"아탈란타\",\"score\":\"0-1\",\"result\":\"🟢승\"},{\"date\":\"26.11.06\",\"home\":\"아탈란타\",\"away\":\"카이라트\",\"score\":\"1-1\",\"result\":\"🟡무\"},{\"date\":\"26.11.03\",\"home\":\"아탈란타\",\"away\":\"파르마\",\"score\":\"0-3\",\"result\":\"🔴패\"},{\"date\":\"26.10.30\",\"home\":\"피오렌티나\",\"away\":\"아탈란타\",\"score\":\"2-2\",\"result\":\"🟡무\"}]"
 injuryHome: "없음"
-injuryAway: "Marco Carnesecchi (주요 결장 - 연골 파열, 2027년 1월 후반)|Thomas Pompei (부상 복귀 중)|Odilon Kossounou (허벅지 부상, 출전 불확실)|Isak Hien (햄스트링 부상, 출전 불확실)"
+injuryAway: "Marco Carnesecchi[주요](연골 파열 - 복귀예정 Late January 2027) | Thomas Pompei[주요](부상 - 복귀예정 Back in training) | Odilon Kossounou[주요](허벅지 부상 - 복귀예정 Doubtful) | Isak Hien[주요](햄스트링 부상 - 복귀예정 Doubtful)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
