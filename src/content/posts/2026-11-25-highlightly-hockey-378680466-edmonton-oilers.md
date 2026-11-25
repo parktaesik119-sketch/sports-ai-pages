@@ -19,7 +19,7 @@ summary: "에드먼턴 오일러스는 최근 33경기 21승 12패로 승률 64%
 homeRecent: "[{\"date\":\"26.11.23\",\"home\":\"세인트루이스 블루스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"5-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"캐롤라이나 허리케인스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"7-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"탬파베이 라이트닝\",\"away\":\"에드먼턴 오일러스\",\"score\":\"3-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.18\",\"home\":\"플로리다 팬더스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"2-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.16\",\"home\":\"필라델피아 플라이어스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"2-5\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.22\",\"home\":\"위니펙 제츠\",\"away\":\"베가스 골든나이츠\",\"score\":\"4-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"베가스 골든나이츠\",\"away\":\"댈러스 스타스\",\"score\":\"3-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"베가스 골든나이츠\",\"away\":\"밴쿠버 카넉스\",\"score\":\"3-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.14\",\"home\":\"베가스 골든나이츠\",\"away\":\"내슈빌 프레데터스\",\"score\":\"2-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.12\",\"home\":\"베가스 골든나이츠\",\"away\":\"유타 매머드\",\"score\":\"5-3\",\"result\":\"🟢승\"}]"
 injuryHome: "Filip Hallander[경미](Day-To-Day) | Zach Hyman[주요](Out) | Alec Regula[주요](Injured Reserve) | Matt Savoie[주요](Injured Reserve - Not Specified) | Frederik Andersen[주요](Injured Reserve)"
-injuryAway: "없음"
+injuryAway: "Marc Gatcomb[경미](Day-To-Day)"
 homeLineup: "[\"선발투수 D. Levi|https://a.espncdn.com/i/headshots/mlb/players/full/4894487.png\"]"
 awayLineup: "[\"선발투수 C. Hart|https://a.espncdn.com/i/headshots/mlb/players/full/4064582.png\"]"
 homeFormation: ""
