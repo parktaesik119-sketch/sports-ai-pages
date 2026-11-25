@@ -19,7 +19,7 @@ summary: "두 팀 모두 최근 10경기에서 2승 8패로 승률이 20%에 그
 homeRecent: "[{\"date\":\"26.11.23\",\"home\":\"골든스테이트 워리어스\",\"away\":\"보스턴 셀틱스\",\"score\":\"88-87\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"멤피스 그리즐리\",\"away\":\"골든스테이트 워리어스\",\"score\":\"126-98\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"댈러스 매버릭스\",\"away\":\"골든스테이트 워리어스\",\"score\":\"116-94\",\"result\":\"🔴패\"},{\"date\":\"26.11.17\",\"home\":\"뉴올리언스 펠리컨스\",\"away\":\"골든스테이트 워리어스\",\"score\":\"115-94\",\"result\":\"🔴패\"},{\"date\":\"26.11.14\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"골든스테이트 워리어스\",\"score\":\"123-85\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.24\",\"home\":\"새크라멘토 킹스\",\"away\":\"샌안토니오 스퍼스\",\"score\":\"107-123\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"새크라멘토 킹스\",\"away\":\"보스턴 셀틱스\",\"score\":\"97-96\",\"result\":\"🟢승\"},{\"date\":\"26.11.21\",\"home\":\"LA 레이커스\",\"away\":\"새크라멘토 킹스\",\"score\":\"106-104\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"새크라멘토 킹스\",\"away\":\"피닉스 선즈\",\"score\":\"107-128\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"새크라멘토 킹스\",\"away\":\"오클라호마시티 썬더\",\"score\":\"103-125\",\"result\":\"🔴패\"}]"
 injuryHome: "Yaxel Lendeborg[경미](Day-To-Day) | Brandon Williams[주요](Out - Strain) | Stephen Curry[주요](Out) | Kristaps Porzingis[주요](Out) | Moses Moody[주요](Out - Surgery)"
-injuryAway: "Zach LaVine[경미](Day-To-Day - Soreness) | Maxime Raynaud[주요](Out - Dislocated) | Ben Simmons[주요](Out - Surgery)"
+injuryAway: "Maxime Raynaud[주요](Out - Dislocated) | Zach LaVine[경미](Day-To-Day - Soreness) | Ben Simmons[주요](Out - Surgery)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
